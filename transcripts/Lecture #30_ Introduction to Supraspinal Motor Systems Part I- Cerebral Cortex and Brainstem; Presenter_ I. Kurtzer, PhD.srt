@@ -1,0 +1,4547 @@
+1
+00:00:01,050 --> 00:00:03,130
+Hello everyone, this
+is Isaac Kurtzer,
+
+2
+00:00:03,130 --> 00:00:04,010
+the Department
+of Biomedical
+
+3
+00:00:04,010 --> 00:00:06,990
+Science at the Old
+Westbury campus.
+
+4
+00:00:07,070 --> 00:00:10,250
+This lecture concerns
+supraspinal motor
+
+5
+00:00:10,250 --> 00:00:12,590
+systems, cerebral
+cortex, and brainstem.
+
+6
+00:00:12,590 --> 00:00:15,070
+It's the first of
+three. The next will
+
+7
+00:00:15,070 --> 00:00:17,610
+be basal ganglia
+and cerebellum, and
+
+8
+00:00:17,610 --> 00:00:19,750
+taken together,
+they'll provide a good
+
+9
+00:00:19,750 --> 00:00:23,630
+introduction to a
+complex issue, which I
+
+10
+00:00:23,630 --> 00:00:25,790
+know is close at
+heart, which is how is
+
+11
+00:00:25,790 --> 00:00:27,730
+it that you are able
+to move your body?
+
+12
+00:00:28,190 --> 00:00:31,430
+The session objectives
+for this lecture
+
+13
+00:00:31,430 --> 00:00:34,050
+include understanding
+the origin
+
+14
+00:00:34,050 --> 00:00:37,130
+and destination of
+descending tracts
+
+15
+00:00:37,130 --> 00:00:39,930
+from the cerebral
+cortex and brainstem,
+
+16
+00:00:39,930 --> 00:00:41,650
+for which there
+are quite a few.
+
+17
+00:00:41,730 --> 00:00:44,490
+I will also contrast
+the different and
+
+18
+00:00:44,490 --> 00:00:47,550
+complementary
+organizations of these
+
+19
+00:00:47,550 --> 00:00:50,310
+systems and their
+overall function.
+
+20
+00:00:50,590 --> 00:00:53,850
+And finally, we
+address how damaging
+
+21
+00:00:53,850 --> 00:00:55,910
+the different
+systems will lead to
+
+22
+00:00:55,910 --> 00:00:58,270
+different patterns
+of motor dysfunction.
+
+23
+00:00:58,390 --> 00:00:59,830
+Let's go.
+
+24
+00:01:02,370 --> 00:01:06,550
+A key distinction we
+must make is between
+
+25
+00:01:06,550 --> 00:01:10,310
+lower motor neurons and
+upper motor neurons.
+
+26
+00:01:10,310 --> 00:01:14,610
+Lower motor neurons
+are those that will
+
+27
+00:01:14,610 --> 00:01:17,590
+innervate skeletal muscle.
+That means there'll
+
+28
+00:01:17,590 --> 00:01:19,990
+be a neuromuscular
+junction, and they will
+
+29
+00:01:19,990 --> 00:01:23,550
+release acetylcholine
+onto a target muscle.
+
+30
+00:01:23,870 --> 00:01:27,250
+The cell bodies for
+these loader motor
+
+31
+00:01:27,250 --> 00:01:30,770
+neurons are found
+within the CNS.
+
+32
+00:01:30,930 --> 00:01:34,530
+They will have an
+axon that will exit
+
+33
+00:01:34,530 --> 00:01:37,910
+the CNS and then
+ultimately terminate
+
+34
+00:01:37,910 --> 00:01:39,510
+at the neuromuscular
+junction.
+
+35
+00:01:39,510 --> 00:01:41,990
+When that axon
+is within the
+
+36
+00:01:41,990 --> 00:01:44,110
+CNS, it is
+called a tract.
+
+37
+00:01:44,310 --> 00:01:48,530
+When the axon is
+outside the CNS, i.e.
+
+38
+00:01:48,530 --> 00:01:50,970
+when it's in the PNS,
+it's called a nerve.
+
+39
+00:01:50,970 --> 00:01:53,520
+and external nerves
+always project
+
+40
+00:01:53,520 --> 00:01:59,030
+ipsilaterally. Internal
+tracks for the low motor
+
+41
+00:01:59,030 --> 00:02:04,010
+neurons almost always
+are ipsilateral.
+
+42
+00:02:04,010 --> 00:02:07,470
+They do decussate,
+but it's quite rare.
+
+43
+00:02:07,670 --> 00:02:11,410
+Now turning to upper
+motor neurons, these
+
+44
+00:02:11,410 --> 00:02:15,830
+provide input to
+lower motor neurons.
+
+45
+00:02:15,830 --> 00:02:18,110
+They have cell bodies
+in the cerebral
+
+46
+00:02:18,110 --> 00:02:22,110
+cortex and the brainstem.
+So they will be
+
+47
+00:02:22,110 --> 00:02:24,770
+projecting to those
+lower motor neurons
+
+48
+00:02:24,770 --> 00:02:27,930
+in the brainstem and
+the spinal cord, not
+
+49
+00:02:27,930 --> 00:02:31,330
+directly to muscle.
+They will not have
+
+50
+00:02:31,330 --> 00:02:35,510
+a nerve. They will
+only have tracts. And
+
+51
+00:02:35,510 --> 00:02:38,710
+these tracts, they
+could decussate or
+
+52
+00:02:38,710 --> 00:02:41,080
+they couldn't, and
+they could project
+
+53
+00:02:41,080 --> 00:02:45,250
+bilaterally. There's
+a variety of patterns.
+
+54
+00:02:46,490 --> 00:02:50,610
+Those neurons whose
+cell body are within the
+
+55
+00:02:50,610 --> 00:02:55,290
+cerebral cortex and
+descend to lower motor
+
+56
+00:02:55,290 --> 00:02:58,430
+neurons within the spinal
+cord and brainstem,
+
+57
+00:02:58,430 --> 00:03:02,670
+those are collectively
+called the pyramidal
+
+58
+00:03:02,670 --> 00:03:05,770
+system and that will
+include the cortical
+
+59
+00:03:05,770 --> 00:03:08,490
+spinal tract which is
+going to be traveling
+
+60
+00:03:08,490 --> 00:03:12,310
+to the spinal cord and
+includes the cortical
+
+61
+00:03:12,310 --> 00:03:16,050
+bulbar tract which will
+be traveling to the
+
+62
+00:03:16,050 --> 00:03:20,390
+brain stem and so keep
+this naming convention
+
+63
+00:03:20,390 --> 00:03:24,110
+in mind cortical
+spinal where it begins
+
+64
+00:03:24,110 --> 00:03:27,330
+where it ends cortical
+bulbar starting in the
+
+65
+00:03:27,330 --> 00:03:32,310
+cortex ending in the
+bulb the bulb of what
+
+66
+00:03:32,310 --> 00:03:36,030
+that's the brain stem
+the bulb of the flower
+
+67
+00:03:36,090 --> 00:03:40,230
+of which we have the
+cerebral cortex being
+
+68
+00:03:40,240 --> 00:03:43,710
+the elaboration and
+then we have the stem
+
+69
+00:03:44,730 --> 00:03:49,830
+being for the brain
+stem now this naming
+
+70
+00:03:49,830 --> 00:03:53,130
+convention the pyramidal
+system is a little
+
+71
+00:03:53,130 --> 00:03:56,390
+bit funny because it's
+going to be referring
+
+72
+00:03:56,390 --> 00:04:02,010
+to the pyramids which
+are only for the
+
+73
+00:04:02,010 --> 00:04:06,830
+cortical spinal tract
+and not the cortical
+
+74
+00:04:06,830 --> 00:04:09,490
+bulbar system so it's
+like all hands on deck
+
+75
+00:04:09,490 --> 00:04:10,950
+they're only referring
+to a part of the
+
+76
+00:04:10,950 --> 00:04:13,970
+person the hands to
+say they're on deck
+
+77
+00:04:13,970 --> 00:04:16,850
+suffice to say this
+is a language that is
+
+78
+00:04:16,850 --> 00:04:19,950
+standard the pyramidal
+system includes those
+
+79
+00:04:19,950 --> 00:04:22,830
+neurons that will be
+traveling through the
+
+80
+00:04:23,690 --> 00:04:27,230
+medullary period
+pyramids as well as those
+
+81
+00:04:27,230 --> 00:04:30,250
+that will be ending
+within the brain stem
+
+82
+00:04:30,630 --> 00:04:35,670
+so where are the cell
+bodies of the pyramidal
+
+83
+00:04:35,670 --> 00:04:38,930
+system well they're
+going to be in the
+
+84
+00:04:38,930 --> 00:04:42,150
+region that is anterior
+to the central sulcus
+
+85
+00:04:42,150 --> 00:04:45,530
+that is they're within
+the frontal lobe and
+
+86
+00:04:45,530 --> 00:04:48,870
+more specifically it
+will be the precentral
+
+87
+00:04:48,870 --> 00:04:54,730
+gyrus and then interior
+to that the area six
+
+88
+00:04:54,730 --> 00:04:57,830
+and so we have area
+four which is the same
+
+89
+00:04:57,830 --> 00:05:00,470
+thing as precentral gyrus
+which is functionally
+
+90
+00:05:00,470 --> 00:05:03,270
+called premotor cortex
+the region ahead of
+
+91
+00:05:03,270 --> 00:05:06,930
+that rostral to that
+is area six called
+
+92
+00:05:06,930 --> 00:05:10,350
+premotor cortex and then
+supplemental area is
+
+93
+00:05:10,350 --> 00:05:15,630
+above that we see these
+regions on the medial
+
+94
+00:05:15,630 --> 00:05:19,450
+wall as well this is
+the mid sagittal view
+
+95
+00:05:19,450 --> 00:05:23,530
+there are several major
+brain regions that
+
+96
+00:05:23,530 --> 00:05:30,230
+project to the pyramidal
+system and allow it
+
+97
+00:05:30,230 --> 00:05:35,790
+to express the rich
+behavior that we have
+
+98
+00:05:35,790 --> 00:05:39,570
+the rich number of skills
+that all of us have
+
+99
+00:05:39,570 --> 00:05:44,090
+standing up crossing
+our legs pouring a cup
+
+100
+00:05:44,090 --> 00:05:47,910
+of coffee and so on okay
+it's not just pyramidal
+
+101
+00:05:47,910 --> 00:05:49,470
+system acting alone
+it's conjunction
+
+102
+00:05:49,470 --> 00:05:51,790
+with these other systems
+and that will include
+
+103
+00:05:51,790 --> 00:05:54,450
+the basal ganglia and
+the cerebellum and
+
+104
+00:05:54,450 --> 00:05:57,310
+cortical association areas
+in the frontal cortex
+
+105
+00:05:57,310 --> 00:06:00,690
+and parietal cortex
+and the first two basal
+
+106
+00:06:00,690 --> 00:06:03,190
+ganglia and cerebellum
+are together called
+
+107
+00:06:03,190 --> 00:06:07,350
+the extra pyramidal
+system because outside
+
+108
+00:06:07,740 --> 00:06:11,930
+the pyramidal system
+you could call these
+
+109
+00:06:11,930 --> 00:06:16,070
+upper upper motor neurons
+because they're not
+
+110
+00:06:16,070 --> 00:06:19,370
+going to be projecting
+to lower motor neurons
+
+111
+00:06:19,370 --> 00:06:22,990
+they'll be projecting
+to upper motor neurons
+
+112
+00:06:22,990 --> 00:06:26,150
+which then will
+project to lower motor
+
+113
+00:06:26,150 --> 00:06:31,010
+neurons now this
+designation extra pyramidal
+
+114
+00:06:31,020 --> 00:06:34,790
+has been around for
+quite a while and it has
+
+115
+00:06:35,150 --> 00:06:38,530
+a use once again as
+i um there's this
+
+116
+00:06:38,530 --> 00:06:40,710
+distinction between language
+that you find within
+
+117
+00:06:40,710 --> 00:06:42,350
+the medical community
+and language that
+
+118
+00:06:42,350 --> 00:06:44,810
+you find within the
+basic science researcher
+
+119
+00:06:44,810 --> 00:06:46,990
+this is not to speak
+ill of one or the
+
+120
+00:06:46,990 --> 00:06:49,390
+other but communication
+differences between
+
+121
+00:06:49,390 --> 00:06:51,510
+the two and utility
+within each of these
+
+122
+00:06:51,510 --> 00:06:55,810
+communities so in basic
+science the people
+
+123
+00:06:55,810 --> 00:06:58,130
+will not be referring
+to the basal ganglia
+
+124
+00:06:58,130 --> 00:07:00,390
+as extra pyramidal
+but within clinical
+
+125
+00:07:00,390 --> 00:07:03,230
+context this is this is
+common especially when
+
+126
+00:07:03,230 --> 00:07:07,190
+it comes to symptoms
+but motor symptoms
+
+127
+00:07:07,590 --> 00:07:13,550
+of dysfunction and
+that are not due to
+
+128
+00:07:13,550 --> 00:07:16,490
+damage of the pyramidal
+system but to these
+
+129
+00:07:16,490 --> 00:07:19,330
+extra pyramidal systems
+and typically people
+
+130
+00:07:19,330 --> 00:07:21,470
+are referring to
+symptoms that relate to
+
+131
+00:07:21,470 --> 00:07:24,350
+basal ganglia, but
+they may also mean the
+
+132
+00:07:24,350 --> 00:07:26,630
+cerebellum. And
+there is a particular
+
+133
+00:07:26,630 --> 00:07:29,390
+relationship, as we'll
+see in succeeding
+
+134
+00:07:29,390 --> 00:07:32,650
+lectures, between the
+basal ganglia and the
+
+135
+00:07:32,650 --> 00:07:35,350
+cerebellum to the
+pyramidal system, and that
+
+136
+00:07:35,350 --> 00:07:38,250
+is the cerebral
+cortex is yoked to
+
+137
+00:07:38,250 --> 00:07:42,450
+ipsilateral basal and
+contralateral cerebellum.
+
+138
+00:07:44,550 --> 00:07:49,570
+Now there is regional
+specialization between
+
+139
+00:07:49,570 --> 00:07:53,090
+the primary motor
+cortex, premotor cortex,
+
+140
+00:07:53,090 --> 00:07:56,930
+and supplemental motor
+area. The primary
+
+141
+00:07:56,930 --> 00:08:00,170
+motor cortex is going
+to be providing the
+
+142
+00:08:00,170 --> 00:08:08,030
+greatest input to the
+descending tracts that
+
+143
+00:08:08,030 --> 00:08:11,210
+will be destined to
+the corticospinal
+
+144
+00:08:11,210 --> 00:08:14,590
+tract and the corticobulbar
+tract. When we're
+
+145
+00:08:14,590 --> 00:08:16,770
+looking at the
+corticospinal tract, we can
+
+146
+00:08:16,770 --> 00:08:22,570
+say how many synapses
+are found from primary
+
+147
+00:08:22,570 --> 00:08:26,550
+motor cortex for the
+cervical level. And
+
+148
+00:08:26,550 --> 00:08:31,210
+we can go from C2 to
+T2 in a monkey and
+
+149
+00:08:31,210 --> 00:08:34,490
+count out those synaptic
+connections and we
+
+150
+00:08:34,490 --> 00:08:37,030
+can see that it grows
+as reflecting the
+
+151
+00:08:37,030 --> 00:08:41,190
+cervical enlargements
+and the number that are
+
+152
+00:08:41,190 --> 00:08:44,610
+shown here is much
+larger than the number
+
+153
+00:08:44,610 --> 00:08:47,990
+that are shown here for
+the very same specimen
+
+154
+00:08:47,990 --> 00:08:51,210
+which was a monkey
+but certainly would
+
+155
+00:08:51,210 --> 00:08:55,670
+be the case in your if
+you're human as well
+
+156
+00:08:57,690 --> 00:09:00,870
+there's important
+functional differences
+
+157
+00:09:00,870 --> 00:09:04,530
+amongst the various
+regions that comprise the
+
+158
+00:09:04,530 --> 00:09:07,950
+pyramidal system and
+is as follows that
+
+159
+00:09:07,950 --> 00:09:12,950
+primary motor cortex is
+going to have the closest
+
+160
+00:09:12,950 --> 00:09:16,730
+relationship to
+muscle activity at the
+
+161
+00:09:16,730 --> 00:09:21,670
+most direct relationship
+to an action whereas
+
+162
+00:09:21,670 --> 00:09:25,510
+premotor cortex and
+SMA will have uh less
+
+163
+00:09:25,510 --> 00:09:29,370
+direct relationships more
+abstract relationship
+
+164
+00:09:29,370 --> 00:09:32,830
+for a given action
+so it would be let's
+
+165
+00:09:32,830 --> 00:09:34,880
+say example the
+planning of the action
+
+166
+00:09:34,880 --> 00:09:36,610
+well that's more abstract
+because you're not
+
+167
+00:09:36,930 --> 00:09:39,450
+actually acting at
+a given moment it's
+
+168
+00:09:39,450 --> 00:09:45,110
+that the plan for the
+action or um say sma
+
+169
+00:09:45,110 --> 00:09:48,730
+where you have the
+initiation of the action
+
+170
+00:09:48,730 --> 00:09:53,230
+still more abstract
+or sequences of
+
+171
+00:09:53,250 --> 00:09:56,290
+actions which by
+necessity have to be
+
+172
+00:09:56,290 --> 00:10:00,130
+compressed and organized
+in a more complex way
+
+173
+00:10:00,130 --> 00:10:02,870
+and so this complexity
+and abstraction
+
+174
+00:10:03,190 --> 00:10:06,850
+is going to flow from
+caudal to rostral
+
+175
+00:10:06,850 --> 00:10:09,470
+regions basically as
+you're moving closer and
+
+176
+00:10:09,470 --> 00:10:13,510
+closer to the frontal
+pole of frontal lobe.
+
+177
+00:10:13,510 --> 00:10:15,870
+On the right you can
+see an example of this
+
+178
+00:10:15,870 --> 00:10:20,270
+where primary motor
+cortical neurons that
+
+179
+00:10:20,270 --> 00:10:25,090
+are sensitive to
+wrist flexion will be
+
+180
+00:10:25,090 --> 00:10:30,830
+engaged during the go cue
+to say flex your wrist
+
+181
+00:10:30,830 --> 00:10:32,790
+dear monkey and so
+there's a burst of
+
+182
+00:10:32,790 --> 00:10:36,010
+activity whereas neurons
+that are in primary
+
+183
+00:10:36,010 --> 00:10:39,810
+pre-motor cortex of
+the same animal will be
+
+184
+00:10:39,810 --> 00:10:42,770
+active in this delay
+period when the animal
+
+185
+00:10:42,770 --> 00:10:46,710
+is cued to it will
+soon need to flex the
+
+186
+00:10:46,710 --> 00:10:50,430
+wrist so it is
+directionally specific for
+
+187
+00:10:50,430 --> 00:10:53,470
+flexion versus extension
+of what is planned
+
+188
+00:10:53,470 --> 00:10:56,850
+ahead so that's
+obviously a difference in
+
+189
+00:10:56,850 --> 00:11:02,350
+abstraction here we
+have a depiction of the
+
+190
+00:11:02,350 --> 00:11:05,390
+sensory homunculus and
+motor homunculus both
+
+191
+00:11:05,390 --> 00:11:09,910
+are from the left
+hemisphere of the brain.
+
+192
+00:11:10,130 --> 00:11:14,410
+The motor homunculus
+is shown on the right
+
+193
+00:11:14,410 --> 00:11:17,190
+but actually originates
+from the left because
+
+194
+00:11:17,190 --> 00:11:20,830
+it's being flipped
+around being flipped
+
+195
+00:11:20,830 --> 00:11:25,430
+around this dotted line
+vertical dotted line of
+
+196
+00:11:25,430 --> 00:11:28,030
+the central sulcus
+and that is separating
+
+197
+00:11:28,030 --> 00:11:31,670
+the pre-central sulcus
+from the post-central
+
+198
+00:11:31,670 --> 00:11:36,890
+sulcus. In both cases,
+you see a similar layout
+
+199
+00:11:36,890 --> 00:11:40,290
+of the body surface.
+We have the face
+
+200
+00:11:40,290 --> 00:11:45,670
+being most lateral and
+the leg being most medial
+
+201
+00:11:45,670 --> 00:11:50,370
+on the post-central
+and pre-central gyri.
+
+202
+00:11:50,570 --> 00:11:55,970
+Both cases, we have a
+great deal of cortical
+
+203
+00:11:55,970 --> 00:11:58,990
+territory devoted to
+the face and devoted
+
+204
+00:11:58,990 --> 00:12:01,890
+to the hand relative
+to their actual sizes
+
+205
+00:12:01,890 --> 00:12:08,490
+that's why this is a
+very impactful image
+
+206
+00:12:08,490 --> 00:12:12,170
+to see how large the
+hand is how large the
+
+207
+00:12:12,170 --> 00:12:15,010
+face is as represented
+within the human
+
+208
+00:12:15,010 --> 00:12:18,390
+brain as opposed to
+the physical space that
+
+209
+00:12:18,390 --> 00:12:22,150
+we see in the periphery
+now there's not as
+
+210
+00:12:22,150 --> 00:12:23,930
+much difference if
+you were to track the
+
+211
+00:12:23,930 --> 00:12:27,130
+number of afferent
+fibers that are coming
+
+212
+00:12:27,130 --> 00:12:29,010
+from it. There's a
+huge number of afferent
+
+213
+00:12:29,010 --> 00:12:31,900
+fibers and a huge number
+of motor efferents.
+
+214
+00:12:32,690 --> 00:12:36,790
+Still, you have this
+cortical magnification,
+
+215
+00:12:36,790 --> 00:12:40,770
+a continuing multiplying
+of information that
+
+216
+00:12:40,770 --> 00:12:43,170
+allows you to have
+the great sensory and
+
+217
+00:12:43,170 --> 00:12:48,970
+motor acuity for these
+functions. the cortical
+
+218
+00:12:48,970 --> 00:12:52,150
+spinal track will arise
+from neurons whose
+
+219
+00:12:52,150 --> 00:12:58,230
+cell bodies are within
+m1 pm and sma that's
+
+220
+00:12:58,230 --> 00:13:01,610
+the regions that are
+immediately interior of
+
+221
+00:13:01,610 --> 00:13:05,390
+the central sulcus on
+the dorsal two-thirds
+
+222
+00:13:05,390 --> 00:13:09,990
+and medial wall those
+axons will collect
+
+223
+00:13:09,990 --> 00:13:13,950
+and then descend through
+the superhighway of
+
+224
+00:13:13,950 --> 00:13:18,530
+the internal capsule
+continue on through the
+
+225
+00:13:18,530 --> 00:13:23,590
+midbrain continue on
+through the pons and
+
+226
+00:13:23,590 --> 00:13:28,870
+then the medulla
+decussating at its lowermost
+
+227
+00:13:28,870 --> 00:13:34,610
+limit and continuing
+to the uh to the spinal
+
+228
+00:13:34,610 --> 00:13:38,810
+cord ventral horn
+and so it's in the um
+
+229
+00:13:38,810 --> 00:13:42,930
+spinal cord this
+is called the lateral
+corticospinal
+
+230
+00:13:42,990 --> 00:13:45,710
+tract so this is
+one of the fununculi
+
+231
+00:13:45,710 --> 00:13:50,850
+of the spinal cordans.
+About 80 to 90 percent
+
+232
+00:13:50,850 --> 00:13:53,810
+of axons make this
+decussation and 10 percent
+
+233
+00:13:53,810 --> 00:13:57,270
+continue ipsilaterally
+as the ventral
+
+234
+00:13:57,270 --> 00:14:01,190
+spinal cerebellar tract,
+not spinal cerebellar
+
+235
+00:14:02,190 --> 00:14:06,570
+CST, and they will for
+the most part decussate
+
+236
+00:14:06,570 --> 00:14:09,510
+at the level that
+they'll innervate a
+
+237
+00:14:09,510 --> 00:14:11,750
+given muscle. and so
+you will have this
+
+238
+00:14:11,750 --> 00:14:14,650
+relationship that you
+should burn into your mind
+
+239
+00:14:14,650 --> 00:14:19,270
+that the cerebral
+cortex of one side will
+
+240
+00:14:19,270 --> 00:14:26,010
+control the contralateral
+body here's image
+
+241
+00:14:26,010 --> 00:14:29,150
+showing a frontal
+section through the brain
+
+242
+00:14:29,150 --> 00:14:33,970
+and we'll be able to
+envision the fibers
+
+243
+00:14:33,970 --> 00:14:38,710
+descending from the
+cerebral cortex down through
+
+244
+00:14:38,710 --> 00:14:42,830
+a portion of the
+brain stem so remember
+
+245
+00:14:42,830 --> 00:14:45,830
+the cell bodies will
+be part of this gray
+
+246
+00:14:45,830 --> 00:14:49,390
+matter that is this that
+is the cerebral cortex
+
+247
+00:14:49,390 --> 00:14:53,230
+this gray matter and
+then the axons will
+
+248
+00:14:54,260 --> 00:14:57,650
+collect together and
+descend and they are
+
+249
+00:14:57,650 --> 00:15:00,590
+forming the internal
+capsule the internal
+
+250
+00:15:00,590 --> 00:15:04,350
+capsule itself includes
+fibers they're coming
+
+251
+00:15:04,350 --> 00:15:09,630
+up from thalamus to
+cerebral cortex. It is
+
+252
+00:15:09,630 --> 00:15:14,930
+a major highway of
+information. So it has
+
+253
+00:15:14,930 --> 00:15:19,190
+both ascending and
+descending fibers. Now
+
+254
+00:15:19,190 --> 00:15:22,590
+returning to the
+descending fibers, they're
+
+255
+00:15:22,590 --> 00:15:27,790
+going to continue through
+the cruce cerebri.
+
+256
+00:15:27,790 --> 00:15:31,870
+So this is a cross
+section of the midbrain.
+
+257
+00:15:31,870 --> 00:15:36,200
+You'll be seeing this in
+detail in the upcoming
+
+258
+00:15:37,200 --> 00:15:40,830
+labs. So it will be
+descending through
+
+259
+00:15:40,830 --> 00:15:43,390
+the crucery. Right
+next to that we can see
+
+260
+00:15:43,390 --> 00:15:45,990
+the substantia *****
+for reference. They're
+
+261
+00:15:45,990 --> 00:15:50,830
+so very dark. And then
+those fibers disperse
+
+262
+00:15:50,830 --> 00:15:53,930
+as they travel through
+the ponds because
+
+263
+00:15:53,930 --> 00:16:00,210
+there's a traffic jam
+of information as the
+
+264
+00:16:00,730 --> 00:16:04,950
+fibers from the pontine
+nuclei cross right
+
+265
+00:16:04,950 --> 00:16:07,930
+to left and left to
+right to form that
+
+266
+00:16:07,930 --> 00:16:11,240
+middle cerebellar
+peduncle. And so there's
+
+267
+00:16:11,240 --> 00:16:14,270
+these descending fibers
+have to find their
+
+268
+00:16:14,270 --> 00:16:18,450
+own individual way
+through this traffic
+
+269
+00:16:18,450 --> 00:16:22,970
+jam and then recoalesce
+at the very top of
+
+270
+00:16:22,970 --> 00:16:27,150
+the medulla to form
+the medullary pyramids,
+
+271
+00:16:27,150 --> 00:16:30,690
+and then at the end,
+mostly decussating
+
+272
+00:16:30,690 --> 00:16:33,650
+at the caudal portion
+of the medulla, which
+
+273
+00:16:33,650 --> 00:16:38,070
+is the medullary
+pyramidal decussation.
+
+274
+00:16:38,370 --> 00:16:42,290
+Now, if you have damage
+to anywhere above
+
+275
+00:16:42,290 --> 00:16:45,670
+that decussation, it
+would lead to motor
+
+276
+00:16:45,670 --> 00:16:48,450
+deficits on the contralateral
+side of the body.
+
+277
+00:16:48,450 --> 00:16:52,890
+why because if I damage
+the tracks here well
+
+278
+00:16:52,890 --> 00:16:55,010
+they're ultimately
+destined to the other
+
+279
+00:16:55,010 --> 00:16:58,830
+side I just snip them
+before they made that
+
+280
+00:16:58,830 --> 00:17:03,670
+decussation but they
+would have a terminal
+
+281
+00:17:03,830 --> 00:17:08,210
+effect contralaterally
+so if I damage them
+
+282
+00:17:08,210 --> 00:17:11,810
+before there's that
+decussation you'll see
+
+283
+00:17:11,810 --> 00:17:14,910
+the effect on the
+opposite side whereas if I
+
+284
+00:17:14,910 --> 00:17:18,090
+damage the lateral
+spinal cord which means
+
+285
+00:17:18,090 --> 00:17:20,810
+for most of the fibers
+that had already crossed
+
+286
+00:17:20,810 --> 00:17:24,490
+on over then the
+effect would be seen on
+
+287
+00:17:24,490 --> 00:17:29,930
+that very same side
+there's a variety of
+
+288
+00:17:30,530 --> 00:17:32,290
+situations that can
+lead to damage of the
+
+289
+00:17:32,290 --> 00:17:35,830
+corticospinal tract it
+could be acute like a
+
+290
+00:17:35,830 --> 00:17:38,030
+****** or spinal cord
+injury it could be
+
+291
+00:17:38,030 --> 00:17:41,030
+something that accrues
+over time like multiple
+
+292
+00:17:41,030 --> 00:17:43,190
+sclerosis maybe something
+that you're born
+
+293
+00:17:43,190 --> 00:17:47,470
+with and as expressed
+as you are developing
+
+294
+00:17:47,470 --> 00:17:51,290
+as a young child like
+cerebral palsy in all
+
+295
+00:17:51,290 --> 00:17:54,110
+these cases you would
+have impaired voluntary
+
+296
+00:17:54,110 --> 00:17:56,690
+movement that include
+diminished strength
+
+297
+00:17:56,690 --> 00:18:01,390
+speed and agility and
+what is affected most
+
+298
+00:18:01,390 --> 00:18:06,410
+are the different
+portions of the body so
+
+299
+00:18:06,410 --> 00:18:09,030
+much less for the
+proximal joints and axial
+
+300
+00:18:09,030 --> 00:18:12,570
+movements why because
+that homunculus that
+
+301
+00:18:12,570 --> 00:18:14,710
+we saw that had such
+a large representation
+
+302
+00:18:15,070 --> 00:18:19,990
+for the hands and the
+uh the feet compared
+
+303
+00:18:19,990 --> 00:18:26,910
+to the um um legs and
+trunks and so damaging
+
+304
+00:18:26,910 --> 00:18:30,970
+this the the pyramidal
+uh track these
+
+305
+00:18:30,970 --> 00:18:33,250
+corticospinal tracts
+that have that homunculus
+
+306
+00:18:33,250 --> 00:18:35,790
+representations mean
+you'd specifically damage
+
+307
+00:18:35,790 --> 00:18:38,110
+the areas that have
+the most representation
+
+308
+00:18:38,110 --> 00:18:44,690
+okay now the positive
+clinical symptoms
+
+309
+00:18:44,690 --> 00:18:49,210
+that one might see would
+be things that would
+
+310
+00:18:49,210 --> 00:18:51,330
+not normally occur that's
+why it's a positive
+
+311
+00:18:51,330 --> 00:18:52,970
+clinical symptoms
+as opposed to these
+
+312
+00:18:52,970 --> 00:18:55,770
+negative ones that are
+a diminishment of what
+
+313
+00:18:55,770 --> 00:18:58,470
+is normal so positive
+clinical symptoms would
+
+314
+00:18:58,470 --> 00:19:01,790
+reflect quote-unquote
+release of brainstem
+
+315
+00:19:01,790 --> 00:19:05,590
+and spinal circuitries
+that were previously
+
+316
+00:19:05,940 --> 00:19:12,250
+either not expressed
+or under some well
+
+317
+00:19:12,250 --> 00:19:14,930
+-managed control they
+are incorporated into
+
+318
+00:19:14,930 --> 00:19:19,790
+healthy behavior and so
+this includes increased
+
+319
+00:19:19,790 --> 00:19:23,270
+stretch reflexes
+abnormal synergies a
+
+320
+00:19:23,270 --> 00:19:25,990
+Babinski sign and I'll
+have a slide touching on
+
+321
+00:19:25,990 --> 00:19:30,030
+those next this slide
+is going to be shown
+
+322
+00:19:30,030 --> 00:19:34,210
+three examples of
+dysfunction of the
+
+323
+00:19:34,210 --> 00:19:37,690
+corticospinal tract
+augmented stretch reflexes
+
+324
+00:19:37,690 --> 00:19:40,830
+abnormal synergies
+altered walking so stretch
+
+325
+00:19:40,830 --> 00:19:44,950
+reflexes you could see
+it um either with a
+
+326
+00:19:44,950 --> 00:19:48,330
+tendon tap that the
+leg swings up in this
+
+327
+00:19:48,330 --> 00:19:50,900
+example the person's
+obviously is told don't
+
+328
+00:19:50,900 --> 00:19:53,210
+don't kick the doctor
+i'm just gonna tap your
+
+329
+00:19:53,210 --> 00:19:55,490
+leg let's see what
+happens if it swings up
+
+330
+00:19:55,490 --> 00:19:57,990
+a little bit okay
+that's normal but if it
+
+331
+00:19:57,990 --> 00:20:01,030
+swings up a lot okay this
+is uh altered stretch
+
+332
+00:20:01,030 --> 00:20:04,630
+reflexes in this case
+uh image on the um
+
+333
+00:20:04,630 --> 00:20:08,650
+left it was because
+the physician passively
+
+334
+00:20:08,650 --> 00:20:12,630
+rotated um their forearm
+such that the elbow
+
+335
+00:20:12,630 --> 00:20:16,090
+extended and uh for
+a healthy individual
+
+336
+00:20:16,090 --> 00:20:20,550
+only with with very
+fast uh elbow extension
+
+337
+00:20:20,550 --> 00:20:24,170
+uh motions imposed do we
+see a burst of activity
+
+338
+00:20:24,170 --> 00:20:26,250
+whereas the individual
+that has cst
+
+339
+00:20:26,250 --> 00:20:29,170
+damage we see a burst
+of activity at the very
+
+340
+00:20:29,170 --> 00:20:32,850
+lowest levels of
+imposed motion abnormal
+
+341
+00:20:32,850 --> 00:20:34,590
+synergies you're probably
+less familiar with
+
+342
+00:20:34,590 --> 00:20:37,970
+this is going to be
+couplings between different
+
+343
+00:20:37,970 --> 00:20:41,130
+joints that aren't
+normally expressed and
+
+344
+00:20:41,130 --> 00:20:45,030
+are clearly dysfunctional
+so this person was
+
+345
+00:20:45,030 --> 00:20:48,830
+instructed just to a
+b duct their arm But
+
+346
+00:20:48,830 --> 00:20:53,680
+what they do instead
+is the AB duct plus
+
+347
+00:20:53,680 --> 00:20:58,990
+elbow flexion, plus
+wrist flexion, plus the
+
+348
+00:20:58,990 --> 00:21:03,750
+fingers all collapsing
+together into flexion.
+
+349
+00:21:03,750 --> 00:21:06,630
+This is obviously
+dysfunctional behavior.
+
+350
+00:21:06,630 --> 00:21:09,310
+This is not going to be
+satisfactory to reach
+
+351
+00:21:09,310 --> 00:21:13,770
+out forward to grab a
+cup of soda in front
+
+352
+00:21:13,770 --> 00:21:16,310
+of you because you can't
+open your arms. You
+
+353
+00:21:16,310 --> 00:21:18,590
+can't reach on out
+because your elbow is
+
+354
+00:21:18,590 --> 00:21:22,960
+flexed. These are very
+disruptive behaviors.
+
+355
+00:21:23,590 --> 00:21:27,390
+And this is not going
+to be expressed on
+
+356
+00:21:28,030 --> 00:21:33,250
+day one of the ******
+or spinal cord damage.
+
+357
+00:21:33,250 --> 00:21:36,550
+Initially, what you'd
+have is just plain
+
+358
+00:21:36,550 --> 00:21:38,550
+weakness and flaccidity.
+That's called
+
+359
+00:21:38,550 --> 00:21:42,410
+spinal shock. But given
+some time, this problem
+
+360
+00:21:42,410 --> 00:21:46,690
+will manifest. best.
+Last example is
+
+361
+00:21:46,690 --> 00:21:49,850
+altered walking. So
+we see this individual
+
+362
+00:21:49,850 --> 00:21:53,850
+that has hemiparesis
+on the right side of
+
+363
+00:21:53,850 --> 00:21:56,230
+the body. Here we see
+on the left because
+
+364
+00:21:56,230 --> 00:21:58,710
+facing us. And so
+they're placing all their
+
+365
+00:21:58,710 --> 00:22:02,710
+weight onto their
+unaffected side. And as
+
+366
+00:22:02,710 --> 00:22:06,730
+they are moving their
+right leg forward,
+
+367
+00:22:06,730 --> 00:22:10,390
+it is being lifted
+pretty much at the hip
+
+368
+00:22:10,390 --> 00:22:12,890
+remember i said that
+the proximal joints
+
+369
+00:22:12,890 --> 00:22:16,490
+are affected less and
+so they can't control
+
+370
+00:22:16,710 --> 00:22:21,250
+the um the muscles
+controlling the knee
+
+371
+00:22:21,250 --> 00:22:26,250
+and the ankle and uh
+toes as well and so that
+
+372
+00:22:26,250 --> 00:22:28,310
+is kind of somewhat
+locked into place
+
+373
+00:22:28,310 --> 00:22:31,410
+and they swing it around
+like a log of wood
+
+374
+00:22:31,410 --> 00:22:34,830
+and you can see at
+very end how the toes
+
+375
+00:22:34,830 --> 00:22:39,010
+are pointed there's
+this inversion of the
+
+376
+00:22:39,010 --> 00:22:41,390
+foot and that's
+reflecting spasticity so
+
+377
+00:22:41,390 --> 00:22:45,370
+these all have classical
+signs of corticospinal
+
+378
+00:22:45,370 --> 00:22:49,890
+damage here we have
+a cartoon example
+
+379
+00:22:50,010 --> 00:22:56,830
+of the normal response
+to ****** of the
+
+380
+00:22:56,830 --> 00:23:01,030
+bottom of the foot
+from the heel to the
+
+381
+00:23:01,850 --> 00:23:04,670
+ball, and that
+would be that
+
+382
+00:23:04,670 --> 00:23:07,690
+the toes curl downwards.
+
+383
+00:23:07,850 --> 00:23:13,410
+With corticospinal
+damage, one could have
+
+384
+00:23:13,410 --> 00:23:16,310
+the Babinski sign.
+You don't want this.
+
+385
+00:23:16,310 --> 00:23:18,950
+The Babinski sign or
+a positive Babinski,
+
+386
+00:23:18,950 --> 00:23:22,530
+which is a bit
+redundant, is this and
+
+387
+00:23:22,530 --> 00:23:26,650
+is indicative of
+damage to the CST. If
+
+388
+00:23:26,650 --> 00:23:31,450
+the big toe flares
+up and the other toes
+
+389
+00:23:31,450 --> 00:23:34,870
+fan out, you have
+yourself a Balinski.
+
+390
+00:23:34,870 --> 00:23:39,770
+This is normal for
+infants under one year
+
+391
+00:23:39,770 --> 00:23:42,670
+old. I'm not exactly
+sure why. I've
+
+392
+00:23:42,670 --> 00:23:45,010
+never heard a good
+reason why it would be,
+
+393
+00:23:45,190 --> 00:23:48,790
+it would reflect some
+functionality of an
+
+394
+00:23:48,790 --> 00:23:51,150
+infant. Maybe it
+reflects just nothing,
+
+395
+00:23:51,150 --> 00:23:55,350
+you know, really at
+all except that a
+
+396
+00:23:55,350 --> 00:23:58,630
+stage in development
+obviously infants under
+
+397
+00:23:58,630 --> 00:24:01,590
+one aren't walking
+around so much so
+
+398
+00:24:01,590 --> 00:24:07,790
+regardless with spinal
+cord well with damaging
+
+399
+00:24:07,790 --> 00:24:10,510
+at any point that
+will interrupt the
+
+400
+00:24:10,510 --> 00:24:13,150
+cortical spinal tract
+be it in a cerebral
+
+401
+00:24:13,150 --> 00:24:17,570
+cortex or internal
+capsule or the lateral
+
+402
+00:24:18,850 --> 00:24:21,270
+phenunculus which
+is going contain the
+
+403
+00:24:21,270 --> 00:24:25,770
+um cortical spinal
+tract axons you could
+
+404
+00:24:25,770 --> 00:24:30,030
+have this misbehavior
+being re-expressed
+
+405
+00:24:30,530 --> 00:24:32,570
+so it's been there
+that entire time it's
+
+406
+00:24:32,570 --> 00:24:34,930
+just been kept quiet
+and you could also
+
+407
+00:24:34,930 --> 00:24:38,050
+have it in otherwise
+healthy individuals
+
+408
+00:24:38,050 --> 00:24:41,890
+don't ****** out but
+they had this um ictal
+
+409
+00:24:41,890 --> 00:24:44,730
+state they had a seizure
+which is basically
+
+410
+00:24:44,730 --> 00:24:51,250
+going to render a
+cerebral cortex having
+
+411
+00:24:51,250 --> 00:24:57,330
+less effectivity
+normal effectiveness at
+
+412
+00:24:57,330 --> 00:25:00,190
+the peripheral level
+so you can see it in
+
+413
+00:25:00,190 --> 00:25:05,270
+that case as well a
+lesion of lower motor
+
+414
+00:25:05,270 --> 00:25:09,520
+neurons either at the
+ventral horn or the
+
+415
+00:25:09,520 --> 00:25:13,550
+nerve that is going
+to be projecting to
+
+416
+00:25:13,550 --> 00:25:16,340
+the muscle same neurons
+right part of it
+
+417
+00:25:16,340 --> 00:25:18,010
+is going to be the cell
+bodies in the ventral
+
+418
+00:25:18,010 --> 00:25:20,690
+horn and then their
+axons which part
+
+419
+00:25:20,690 --> 00:25:23,770
+of the same cell in
+the nerve damaging
+
+420
+00:25:23,770 --> 00:25:26,720
+either of those will
+lead to the same result
+
+421
+00:25:28,210 --> 00:25:32,800
+flaccidity of the muscle.
+You cannot activate
+
+422
+00:25:32,800 --> 00:25:36,850
+that muscle. You cannot
+have acetylcholine
+
+423
+00:25:36,850 --> 00:25:38,770
+release to it. And
+this is going to
+
+424
+00:25:38,770 --> 00:25:42,670
+have obvious impact
+on voluntary strength.
+
+425
+00:25:42,670 --> 00:25:44,990
+You're going to have
+diminished reflexes
+
+426
+00:25:45,650 --> 00:25:48,730
+because you've removed
+one half of the
+
+427
+00:25:48,730 --> 00:25:50,930
+reflex arc. You have
+the sensory side but you
+
+428
+00:25:50,930 --> 00:25:53,950
+don't have the motor
+side you can have
+
+429
+00:25:53,950 --> 00:25:58,430
+fasciculations and
+these are these isolated
+
+430
+00:25:59,650 --> 00:26:03,450
+twitches of the muscles
+which are not sufficient
+
+431
+00:26:03,450 --> 00:26:06,450
+really to move the
+limb but are just
+
+432
+00:26:06,450 --> 00:26:10,910
+kind of little quiverings
+of the muscle and
+
+433
+00:26:10,910 --> 00:26:13,830
+then eventually over
+time because the muscle
+
+434
+00:26:13,830 --> 00:26:18,930
+is unused you use it
+or lose it it gets lost
+
+435
+00:26:18,930 --> 00:26:21,450
+so you have atrophy
+and the individual that
+
+436
+00:26:21,450 --> 00:26:24,990
+we see in this picture
+I mean he's a fit
+
+437
+00:26:24,990 --> 00:26:30,170
+guy this is a military
+guy but he is has one
+
+438
+00:26:30,170 --> 00:26:33,890
+thing that is not
+developed and that is his
+
+439
+00:26:33,890 --> 00:26:37,830
+deltoid and that was
+because of a lesion to
+
+440
+00:26:37,830 --> 00:26:42,710
+his axillary nerve
+so he was able to get
+
+441
+00:26:42,710 --> 00:26:47,930
+along in life well but
+for certain directions
+
+442
+00:26:47,930 --> 00:26:52,770
+of motion and he'd be
+have to put a little
+
+443
+00:26:52,770 --> 00:26:55,810
+bit more in there from
+other parts of his body
+
+444
+00:26:56,270 --> 00:26:58,810
+now we're going to be
+treating the corticolabar
+
+445
+00:26:58,930 --> 00:27:01,590
+tract which is the
+other half of the
+
+446
+00:27:01,590 --> 00:27:04,850
+pyramidal system these
+are the neurons that
+
+447
+00:27:04,850 --> 00:27:09,510
+will be destined to
+portions of the brainstem
+
+448
+00:27:09,510 --> 00:27:12,990
+that are going to be
+controlling various
+
+449
+00:27:12,990 --> 00:27:19,130
+cranial nerve nuclei
+for the face and so the
+
+450
+00:27:19,130 --> 00:27:22,150
+cortical bulbar tract
+are upper motor neurons
+
+451
+00:27:22,150 --> 00:27:25,030
+and the cranial nerve
+nuclei are the lower
+
+452
+00:27:25,030 --> 00:27:27,230
+motor neurons because
+those are the ones
+
+453
+00:27:27,230 --> 00:27:32,470
+that will have a axon
+that will exit the cns
+
+454
+00:27:33,030 --> 00:27:34,470
+become a nerve in the
+
+455
+00:27:34,470 --> 00:27:37,550
+pns and innervate muscle
+
+456
+00:27:39,730 --> 00:27:42,730
+so the cortical bulbar
+tract is that portion
+
+457
+00:27:42,730 --> 00:27:46,720
+of the pyramidal
+system that will be
+
+458
+00:27:46,720 --> 00:27:49,910
+controlling the
+effectors of the head and
+
+459
+00:27:49,910 --> 00:27:52,650
+that is going to be
+allowing cortical control
+
+460
+00:27:52,650 --> 00:27:55,730
+of chewing of the
+upper face lower face
+
+461
+00:27:55,730 --> 00:27:58,790
+speaking swallowing
+tongue movements head
+
+462
+00:27:58,790 --> 00:28:02,510
+turn and shrug so a
+whole pile of functions
+
+463
+00:28:02,510 --> 00:28:07,690
+that are going to be
+the result of activation
+
+464
+00:28:07,690 --> 00:28:10,390
+of lower motor
+neurons within the
+
+465
+00:28:10,390 --> 00:28:13,290
+brainstem those cranial
+nerve nuclei they get
+
+466
+00:28:13,290 --> 00:28:16,050
+input from upper
+motor neurons the
+
+467
+00:28:16,050 --> 00:28:20,110
+corticobulbar tract now
+a notable feature of this
+
+468
+00:28:20,110 --> 00:28:24,610
+system is that the
+there are axons that
+
+469
+00:28:24,610 --> 00:28:28,570
+will be innervating
+cranial nerve nuclei on
+
+470
+00:28:28,570 --> 00:28:31,590
+both sides will be
+ones that will be
+
+471
+00:28:31,640 --> 00:28:34,400
+decussating and controlling
+the contralateral
+
+472
+00:28:34,730 --> 00:28:37,130
+cranial nerve
+nuclei and others
+
+473
+00:28:37,130 --> 00:28:37,970
+that will stay
+on the same
+
+474
+00:28:37,970 --> 00:28:39,950
+side and control
+the ipsilateral
+
+475
+00:28:40,970 --> 00:28:44,090
+cranial nerve nuclei
+and that is the
+
+476
+00:28:44,090 --> 00:28:48,050
+case for most of
+these cranial nerve
+
+477
+00:28:48,050 --> 00:28:51,150
+nuclei with the
+exception here outlined
+
+478
+00:28:51,150 --> 00:28:53,970
+in red very
+important that the
+
+479
+00:28:53,970 --> 00:28:59,690
+cranial nerve nuclei
+for the lower face
+
+480
+00:29:00,130 --> 00:29:04,050
+only receives input
+from the contralateral
+
+481
+00:29:04,050 --> 00:29:07,910
+hemisphere and what
+that means is that
+
+482
+00:29:07,910 --> 00:29:10,310
+there is no ability
+of the system to
+
+483
+00:29:10,310 --> 00:29:14,370
+compensate if there
+is damage on that side
+
+484
+00:29:14,370 --> 00:29:17,630
+of the cerebral cortex
+whereas for the other
+
+485
+00:29:17,630 --> 00:29:19,850
+functions there will
+be compensation.
+
+486
+00:29:20,430 --> 00:29:26,390
+Now the tongue is
+notably asymmetric in its
+
+487
+00:29:26,390 --> 00:29:29,490
+control. It's primarily
+contralateral control
+
+488
+00:29:29,490 --> 00:29:32,070
+but there is some
+ipsilateral control so
+
+489
+00:29:32,070 --> 00:29:34,590
+this comes up in the
+textbooks will come up
+
+490
+00:29:34,590 --> 00:29:39,670
+in the clinical literature
+that you can see
+
+491
+00:29:39,670 --> 00:29:43,980
+deviations of the
+tongue due to a cortical
+
+492
+00:29:43,980 --> 00:29:51,110
+****** on just one side
+and it may not be as
+
+493
+00:29:51,930 --> 00:29:54,170
+striking as what you'd
+have for the lower face
+
+494
+00:29:54,170 --> 00:29:56,590
+the lower face is very
+striking the tongue
+
+495
+00:29:56,590 --> 00:29:59,410
+may or may not be but
+for the others you're
+
+496
+00:29:59,410 --> 00:30:01,010
+really not going to
+see anything because
+
+497
+00:30:01,010 --> 00:30:07,750
+it's bilateral implant
+let's look a little
+
+498
+00:30:07,750 --> 00:30:11,270
+further on this example
+of inability to compensate
+
+499
+00:30:11,270 --> 00:30:14,410
+for lesioning of the
+cortical tract in
+
+500
+00:30:14,410 --> 00:30:16,170
+terms of the control of
+the lower half of the
+
+501
+00:30:16,170 --> 00:30:19,470
+face we're looking at
+this fella and asking
+
+502
+00:30:19,470 --> 00:30:22,210
+could you please smile
+for me and he's not
+
+503
+00:30:22,210 --> 00:30:24,750
+doing a very good job
+of it on the lower
+
+504
+00:30:24,750 --> 00:30:29,270
+half we can see that lip
+turned down while the
+
+505
+00:30:29,460 --> 00:30:33,150
+forehead is in fact
+wrinkling so there's
+
+506
+00:30:33,150 --> 00:30:36,790
+control of the upper half
+on both sides but not
+
+507
+00:30:36,790 --> 00:30:40,610
+the lower half of the
+face on both sides
+
+508
+00:30:40,610 --> 00:30:44,230
+and this deficit in
+function is because the
+
+509
+00:30:44,230 --> 00:30:48,830
+cranial nerve nuclei that
+will be sending axons
+
+510
+00:30:48,830 --> 00:30:54,050
+to the that ipsilateral
+musculature for
+
+511
+00:30:54,050 --> 00:30:56,590
+the lower half of the
+face only receives input
+
+512
+00:30:56,590 --> 00:31:01,330
+from the contralateral
+pyramidal tract from
+
+513
+00:31:01,330 --> 00:31:04,030
+it was a facial motor
+cortex because of the
+
+514
+00:31:04,030 --> 00:31:06,090
+pyramidal system the
+cortical bulbar system
+
+515
+00:31:06,090 --> 00:31:07,550
+there was a sectioning
+and that's why it's
+
+516
+00:31:07,550 --> 00:31:10,270
+dot dot dot dot because
+there's no more input
+
+517
+00:31:10,270 --> 00:31:14,730
+from that side of
+cerebral cortex to the
+
+518
+00:31:15,510 --> 00:31:18,130
+nucleus for the upper
+half and lower half
+
+519
+00:31:18,130 --> 00:31:20,490
+in the face but the
+upper half of the
+
+520
+00:31:20,490 --> 00:31:23,530
+face also gets input
+from the ipsilateral
+
+521
+00:31:23,530 --> 00:31:26,650
+side hence there
+can be compensation
+
+522
+00:31:28,170 --> 00:31:30,990
+And here we have a
+real-life individual
+
+523
+00:31:30,990 --> 00:31:36,210
+who is expressing
+the signs of a
+
+524
+00:31:36,210 --> 00:31:39,590
+lesion to the
+cortical bulbar system
+
+525
+00:31:39,590 --> 00:31:44,470
+on one side of the
+cerebral cortex.
+
+526
+00:31:44,490 --> 00:31:48,350
+The person's asked to
+grin or actually hear
+
+527
+00:31:48,350 --> 00:31:51,590
+a growl, and we can see
+him growling away on
+
+528
+00:31:51,590 --> 00:31:55,410
+one side with the
+upper and lower half of
+
+529
+00:31:55,410 --> 00:31:58,030
+the face as well as
+the upper on the other
+
+530
+00:31:58,030 --> 00:32:00,490
+side but the lower half
+of the face that would
+
+531
+00:32:00,490 --> 00:32:04,150
+be on his left side
+remains flaccid that
+
+532
+00:32:04,150 --> 00:32:07,560
+means that the damage
+is to the contralateral
+
+533
+00:32:07,560 --> 00:32:14,170
+cerebral cortex so
+damage to lower motor
+
+534
+00:32:14,170 --> 00:32:16,410
+neurons are going to
+lead to placidity because
+
+535
+00:32:16,410 --> 00:32:21,230
+there's just no way of
+activating the muscle
+
+536
+00:32:21,230 --> 00:32:25,130
+from that nerve you've
+sectioned it so it's
+
+537
+00:32:25,130 --> 00:32:26,480
+not going to be able to
+release acetylcholine
+
+538
+00:32:27,210 --> 00:32:29,500
+onto the muscle and
+cause contraction
+
+539
+00:32:29,500 --> 00:32:31,290
+and so you get flaccidity
+this would be the
+
+540
+00:32:31,290 --> 00:32:34,070
+case if you had releasing
+of lower motor neurons
+
+541
+00:32:34,070 --> 00:32:36,850
+for the cortical
+spinal system and also
+
+542
+00:32:36,850 --> 00:32:41,410
+for the um critical
+ball bar system this is
+
+543
+00:32:41,410 --> 00:32:43,690
+an example for the
+cortical bulbar system
+
+544
+00:32:43,690 --> 00:32:46,730
+because of the control of
+the face this individual
+
+545
+00:32:46,730 --> 00:32:50,110
+was struck with bell's
+palsy so this is
+
+546
+00:32:50,110 --> 00:32:54,050
+going to be an irritation
+of cranial nerve
+
+547
+00:32:54,050 --> 00:32:57,470
+seven and amongst the
+various fibers that
+
+548
+00:32:57,470 --> 00:33:00,870
+are carried by that
+nerve are the axons to
+
+549
+00:33:00,870 --> 00:33:03,270
+control the upper and
+lower half of the face
+
+550
+00:33:03,270 --> 00:33:06,570
+and we can see that
+one half of his face is
+
+551
+00:33:06,790 --> 00:33:09,590
+flaccid this individual
+is asked to smile did
+
+552
+00:33:09,590 --> 00:33:12,550
+on one side not on
+the other and so he's
+
+553
+00:33:12,550 --> 00:33:14,830
+gonna have a variety
+of other issues because
+
+554
+00:33:14,830 --> 00:33:17,610
+it's a mixed nerve as I
+as I mentioned you can
+
+555
+00:33:17,610 --> 00:33:20,250
+see listed here a variety
+of functions which
+
+556
+00:33:20,250 --> 00:33:23,550
+will cover a succeeding
+lecture but for
+
+557
+00:33:23,550 --> 00:33:26,150
+the motor side the
+important thing is that
+
+558
+00:33:26,150 --> 00:33:32,250
+one half of his face is
+flaccid okay as opposed
+
+559
+00:33:32,250 --> 00:33:35,270
+to with cortical
+bulbar damage you would
+
+560
+00:33:35,270 --> 00:33:38,170
+have the lower half
+of the face would be
+
+561
+00:33:38,170 --> 00:33:43,770
+flaccid and we have
+another example of a lesion
+
+562
+00:33:43,770 --> 00:33:47,950
+of a cranial nerve or
+nuclei this would be
+
+563
+00:33:47,950 --> 00:33:50,090
+for controlling the
+tongue the individual
+
+564
+00:33:50,090 --> 00:33:53,850
+that we see on the left
+when they're asked to
+
+565
+00:33:53,850 --> 00:33:57,470
+push their tongue
+forward stick it out the
+
+566
+00:33:57,470 --> 00:33:59,770
+tongue will deviate
+quite radically to the
+
+567
+00:33:59,770 --> 00:34:03,150
+side. We see it's
+deviating to that person's
+
+568
+00:34:03,150 --> 00:34:06,250
+left and that would
+be the side that they
+
+569
+00:34:06,250 --> 00:34:10,030
+would have issues
+controlling the musculature
+
+570
+00:34:10,030 --> 00:34:12,470
+because the muscles
+on that side could not
+
+571
+00:34:12,470 --> 00:34:16,210
+oppose those on the
+right. So it's the left
+
+572
+00:34:16,210 --> 00:34:19,170
+musculature that is
+flaccid, hence there's a
+
+573
+00:34:19,170 --> 00:34:22,370
+deviation towards the
+left given the type of
+
+574
+00:34:22,370 --> 00:34:24,690
+mechanical connections
+that one finds in the
+
+575
+00:34:24,690 --> 00:34:30,490
+tongue this can have a
+very similar appearance
+
+576
+00:34:30,490 --> 00:34:36,230
+if you have a a
+****** that knocks out
+
+577
+00:34:36,230 --> 00:34:39,910
+um a restricted region
+of the cortical ball
+
+578
+00:34:39,910 --> 00:34:43,270
+bar system on one side
+so this individual
+
+579
+00:34:43,270 --> 00:34:45,630
+here is also sticking
+their tongue out we see
+
+580
+00:34:45,630 --> 00:34:49,890
+a deviation and it's
+not because of a problem
+
+581
+00:34:49,890 --> 00:34:52,990
+of the nerve or the
+nucleus this problem
+
+582
+00:34:52,990 --> 00:34:56,770
+in the cerebral cortex
+we can see this arrow
+
+583
+00:34:56,770 --> 00:35:00,710
+pointing out this
+white area which was a
+
+584
+00:35:00,710 --> 00:35:05,290
+knocked out portion of
+their cortical ball bar
+
+585
+00:35:05,290 --> 00:35:08,530
+system and this was a
+notable paper because
+
+586
+00:35:08,530 --> 00:35:12,070
+it was very very
+localized effect normally
+
+587
+00:35:12,070 --> 00:35:14,890
+you would be starting
+to look for other areas
+
+588
+00:35:14,890 --> 00:35:16,910
+that might be affected
+that would be nearby
+
+589
+00:35:16,910 --> 00:35:20,450
+and what is nearby
+well the hand the hand
+
+590
+00:35:20,450 --> 00:35:22,570
+would be nearby so you
+might see if there's
+
+591
+00:35:22,570 --> 00:35:24,930
+an effect in the hand
+and the tongue you
+
+592
+00:35:25,060 --> 00:35:27,790
+would be like oh i really
+think this is going
+
+593
+00:35:27,790 --> 00:35:31,990
+to be a problem uh
+centrally we you're probably
+
+594
+00:35:31,990 --> 00:35:33,390
+gonna do an mri
+anyway but that's what
+
+595
+00:35:33,390 --> 00:35:36,810
+you're going down
+thinking is most likely um
+
+596
+00:35:36,810 --> 00:35:39,310
+if you did not see
+that you really really
+
+597
+00:35:39,310 --> 00:35:41,030
+would have to focus
+quite well and you might
+
+598
+00:35:41,030 --> 00:35:43,590
+get a case report because
+it's that isolated
+
+599
+00:35:44,530 --> 00:35:48,530
+lesion just for
+the the tongue that
+
+600
+00:35:48,530 --> 00:35:50,990
+can happen but
+that is quite rare
+
+601
+00:35:52,390 --> 00:35:54,970
+you've been introduced
+Broca's area in
+
+602
+00:35:54,970 --> 00:35:58,070
+several lectures at this
+point such a distinctive
+
+603
+00:35:58,400 --> 00:36:02,790
+region because it
+is involved in the
+
+604
+00:36:02,790 --> 00:36:07,150
+control of speech and
+so damage to this area
+
+605
+00:36:07,150 --> 00:36:10,750
+which is going to be
+found in the inferior
+
+606
+00:36:10,950 --> 00:36:14,550
+frontal gyrus they
+call this the percolum
+
+607
+00:36:14,550 --> 00:36:16,850
+and triangularis if
+you really want to nail
+
+608
+00:36:16,850 --> 00:36:21,170
+on it but inferior
+frontal gyrus we have will
+
+609
+00:36:21,170 --> 00:36:24,950
+result in expressive
+aphasia and I have
+
+610
+00:36:24,950 --> 00:36:27,190
+a link of an individual
+suffering from that
+
+611
+00:36:27,190 --> 00:36:29,790
+and you'll see that
+their speech is halting
+
+612
+00:36:29,790 --> 00:36:32,980
+and it takes a great
+deal of effort to
+
+613
+00:36:32,980 --> 00:36:35,770
+express themselves they
+do it in a with very
+
+614
+00:36:35,770 --> 00:36:38,730
+short snippets they
+don't have a fluidity of
+
+615
+00:36:38,730 --> 00:36:41,650
+speech and so on it
+needs to be emphasized
+
+616
+00:36:41,650 --> 00:36:46,510
+that these people
+can eat fine They can
+
+617
+00:36:46,510 --> 00:36:51,190
+eat. They can drink.
+They can open their
+
+618
+00:36:51,190 --> 00:36:54,260
+mouth. They can smile.
+So they do have control
+
+619
+00:36:54,330 --> 00:36:59,630
+of their articulatory
+system for other
+
+620
+00:36:59,630 --> 00:37:02,530
+actions, but not in the
+context of speech. And
+
+621
+00:37:02,530 --> 00:37:07,970
+now I want you to
+understand why the placement
+
+622
+00:37:07,970 --> 00:37:10,510
+of Broca's areas
+makes sense given the
+
+623
+00:37:10,510 --> 00:37:12,750
+other information
+that you have. We have
+
+624
+00:37:12,750 --> 00:37:17,230
+the face representation
+right behind it.
+
+625
+00:37:17,270 --> 00:37:20,130
+Remember, that's where
+the cortical ball bar
+
+626
+00:37:20,130 --> 00:37:22,130
+system is going to be.
+So this is anterior
+
+627
+00:37:22,250 --> 00:37:25,910
+to that. And what is
+anterior as we're moving
+
+628
+00:37:25,910 --> 00:37:30,250
+on forward? More and
+more abstraction in
+
+629
+00:37:30,250 --> 00:37:34,540
+terms of the motor
+command. So it is a frontal
+
+630
+00:37:34,540 --> 00:37:39,210
+lobe function, it is
+a function of doing
+
+631
+00:37:39,210 --> 00:37:43,950
+things, and for the
+face that is more
+
+632
+00:37:43,950 --> 00:37:50,130
+abstract than chewing,
+swallowing, and so on.
+
+633
+00:37:52,750 --> 00:37:57,110
+you might have noticed
+on an earlier slide
+
+634
+00:37:57,110 --> 00:38:01,870
+that the cortical ball
+bar system all the
+
+635
+00:38:01,870 --> 00:38:03,970
+things that can control
+about the face did
+
+636
+00:38:03,970 --> 00:38:08,710
+not include the eyes the
+eyes are not controlled
+
+637
+00:38:08,710 --> 00:38:11,010
+by the cortical ball
+bar system they're
+
+638
+00:38:11,010 --> 00:38:15,270
+not controlled by the
+pyramidal system but
+
+639
+00:38:15,270 --> 00:38:17,300
+we do have voluntary
+control of the eyes
+
+640
+00:38:17,300 --> 00:38:19,150
+obviously i'd say please
+look to the left you
+
+641
+00:38:19,150 --> 00:38:20,430
+can do it please look
+to the right you can
+
+642
+00:38:20,430 --> 00:38:23,080
+do it so that means
+that there are cell
+
+643
+00:38:23,350 --> 00:38:26,210
+bodies within cerebral
+cortex they're making
+
+644
+00:38:26,930 --> 00:38:29,890
+sending their axons
+down to the brain some
+
+645
+00:38:29,890 --> 00:38:33,790
+cranial nerve nuclei
+and what is that where
+
+646
+00:38:33,790 --> 00:38:35,670
+are those cell bodies
+originating within
+
+647
+00:38:35,670 --> 00:38:39,230
+the cerebral cortex
+answer frontal eye fields
+
+648
+00:38:39,230 --> 00:38:42,450
+those frontal eye fields
+are found interior
+
+649
+00:38:42,450 --> 00:38:46,730
+to area six which
+is also known as the
+
+650
+00:38:46,730 --> 00:38:50,490
+premotor cortex so
+interior to premotor
+
+651
+00:38:50,490 --> 00:38:53,270
+cortex we have the frontal
+eye fields area eight
+
+652
+00:38:53,270 --> 00:38:57,250
+and that is going
+to be found on the
+
+653
+00:38:57,250 --> 00:39:02,790
+superior and middle
+frontal gyrus and their
+
+654
+00:39:02,790 --> 00:39:06,170
+axons will go to some
+portion of reticular
+
+655
+00:39:06,170 --> 00:39:08,690
+formation that's called
+peripontine reticular
+
+656
+00:39:08,690 --> 00:39:10,430
+formation, and from
+there to superior
+
+657
+00:39:10,430 --> 00:39:12,610
+colliculus to control
+the eyes. Actually, from
+
+658
+00:39:12,610 --> 00:39:14,690
+there, from superior
+colliculus, then to
+
+659
+00:39:15,160 --> 00:39:19,190
+the cranial nerve nucleus.
+It's a very indirect
+
+660
+00:39:20,760 --> 00:39:22,230
+relationship because
+there's a lot of
+
+661
+00:39:22,230 --> 00:39:26,010
+complexity that's
+involved. Now, how do they
+
+662
+00:39:26,010 --> 00:39:28,790
+control the eyes?
+Let's think about this.
+
+663
+00:39:29,770 --> 00:39:35,110
+We know that the
+cerebral cortex controls
+
+664
+00:39:35,110 --> 00:39:38,910
+the contralateral
+body. right and we know
+
+665
+00:39:38,910 --> 00:39:42,090
+that this is seen for
+other aspects of cerebral
+
+666
+00:39:42,090 --> 00:39:44,350
+cortex is involved
+in the contralateral
+
+667
+00:39:44,350 --> 00:39:48,880
+world like vision so
+like the right occipital
+
+668
+00:39:48,880 --> 00:39:51,150
+cortex is going to be
+involved in processing
+
+669
+00:39:51,150 --> 00:39:54,370
+information for the
+left visual world
+
+670
+00:39:54,370 --> 00:39:57,670
+and the right motor
+cortex is going to be
+
+671
+00:39:57,670 --> 00:40:00,610
+involved in controlling
+effectors of the left
+
+672
+00:40:00,610 --> 00:40:03,870
+side of the body what
+about the eyes well
+
+673
+00:40:03,870 --> 00:40:06,410
+shouldn't you move
+your eyes to that part
+
+674
+00:40:06,410 --> 00:40:08,970
+of the visual world that
+the occipital cortex
+
+675
+00:40:08,970 --> 00:40:11,070
+on that side cares
+about yeah so that
+
+676
+00:40:11,070 --> 00:40:15,210
+means that the will
+move the eyes into the
+
+677
+00:40:15,210 --> 00:40:20,110
+contralateral visual
+field so that the right
+
+678
+00:40:20,380 --> 00:40:26,410
+frontal eye fields
+will move the eyes to
+
+679
+00:40:26,410 --> 00:40:30,270
+the left okay direct
+the gaze to the left if
+
+680
+00:40:30,270 --> 00:40:32,070
+you have a problem
+with the frontal eye
+
+681
+00:40:32,070 --> 00:40:34,650
+fields because of a
+****** you will have
+
+682
+00:40:34,650 --> 00:40:40,270
+deviation of the eyes
+in a way that would be
+
+683
+00:40:40,270 --> 00:40:44,290
+consistent with that
+imbalance so we tonically
+
+684
+00:40:44,290 --> 00:40:46,630
+deviated to the same
+side you can't move
+
+685
+00:40:46,630 --> 00:40:51,350
+to the side that you
+normally would had there
+
+686
+00:40:51,350 --> 00:40:54,430
+not been this deficit
+and so you could
+
+687
+00:40:54,430 --> 00:40:57,410
+also miss out you can
+have some a bit of a
+
+688
+00:40:57,410 --> 00:40:59,430
+neglect of that world
+simply because you're
+
+689
+00:40:59,430 --> 00:41:01,230
+not moving your eyes
+to that now would the
+
+690
+00:41:01,230 --> 00:41:04,470
+person be fine on a
+test of VOR function,
+
+691
+00:41:04,470 --> 00:41:07,430
+which we know depends
+entirely on brainstem
+
+692
+00:41:07,430 --> 00:41:09,690
+nuclei, that is, you
+passively move the head,
+
+693
+00:41:09,690 --> 00:41:11,750
+twist it left and
+right, ask them to gaze
+
+694
+00:41:11,750 --> 00:41:14,130
+straight ahead. Yeah,
+they would be fine
+
+695
+00:41:14,130 --> 00:41:16,650
+on that. But this
+intentional control to
+
+696
+00:41:16,650 --> 00:41:19,330
+direct their eyes, they
+would be compromised.
+
+697
+00:41:21,010 --> 00:41:25,190
+The brainstem nuclei
+for controlling the body
+
+698
+00:41:25,190 --> 00:41:27,990
+include tickler nucleus
+reticular formation
+
+699
+00:41:27,990 --> 00:41:31,290
+and vestibular nucleus
+these are focused
+
+700
+00:41:31,290 --> 00:41:36,030
+on controlling the
+proximal muscles of the
+
+701
+00:41:36,030 --> 00:41:41,770
+limbs and the axis so
+their uh representation
+
+702
+00:41:41,770 --> 00:41:45,990
+in a uh as a homunculus
+would be like we
+
+703
+00:41:45,990 --> 00:41:49,090
+have on the left with
+really bulked out uh
+
+704
+00:41:49,090 --> 00:41:52,970
+shoulders and pecs
+and quads and abs very
+
+705
+00:41:52,970 --> 00:41:55,630
+different than what we
+have with a homunculus in
+
+706
+00:41:56,400 --> 00:41:59,570
+the cerebral cortex
+where that would be
+
+707
+00:41:59,570 --> 00:42:03,990
+these very large hands
+and a very large face.
+
+708
+00:42:04,610 --> 00:42:09,130
+Now I mentioned the
+red nucleus, which is
+
+709
+00:42:09,130 --> 00:42:12,350
+going to be the origin
+for the rubrospinal
+
+710
+00:42:12,350 --> 00:42:16,110
+tract from the red
+to the spine because
+
+711
+00:42:16,110 --> 00:42:19,050
+it's brought up in
+so many different
+
+712
+00:42:19,050 --> 00:42:23,910
+textbooks. and it is
+a prominent tract in
+
+713
+00:42:23,910 --> 00:42:26,290
+monkey models which
+are commonly used to
+
+714
+00:42:26,290 --> 00:42:31,370
+understand motor control
+but for humans that
+
+715
+00:42:31,370 --> 00:42:35,970
+rubrospinal tract is
+actually very small.
+
+716
+00:42:36,210 --> 00:42:40,630
+Now we have a massive
+red nucleus and that
+
+717
+00:42:40,630 --> 00:42:43,830
+is doing things that
+are very important for
+
+718
+00:42:43,830 --> 00:42:46,090
+motor control and how
+it communicates with
+
+719
+00:42:46,090 --> 00:42:49,670
+the cerebellum but the
+part of red nucleus
+
+720
+00:42:49,670 --> 00:42:52,550
+that projects to the
+spinal cord is in fact
+
+721
+00:42:52,550 --> 00:42:56,550
+very small in humans
+and it did have affected
+
+722
+00:42:56,550 --> 00:42:59,470
+before the contralateral
+upper limbs I
+
+723
+00:42:59,470 --> 00:43:02,990
+mentioned this as a almost
+as a cautionary note
+
+724
+00:43:02,990 --> 00:43:05,590
+when you read these
+other textbooks because
+
+725
+00:43:05,590 --> 00:43:08,930
+they will be referring
+to animal models
+
+726
+00:43:08,930 --> 00:43:11,210
+because they're doing so
+many studies on animal
+
+727
+00:43:11,210 --> 00:43:14,550
+models and sometimes
+you cannot generalize
+
+728
+00:43:14,550 --> 00:43:18,430
+across different
+animals and this really
+
+729
+00:43:18,430 --> 00:43:23,230
+exemplifies that there
+are nuclei within the
+
+730
+00:43:23,230 --> 00:43:25,270
+brain stem that are
+part of reticular
+
+731
+00:43:25,270 --> 00:43:27,570
+formation which is you
+might remember is very
+
+732
+00:43:27,570 --> 00:43:29,770
+complex structure
+comprising many different
+
+733
+00:43:29,770 --> 00:43:32,630
+nuclei and the ones that
+are within the brain
+
+734
+00:43:32,630 --> 00:43:34,490
+stem that project to
+the spinal cord are
+
+735
+00:43:34,490 --> 00:43:36,690
+called reticulospinal
+and there's ones that
+
+736
+00:43:36,690 --> 00:43:38,890
+are situated in the
+pons and medulla and
+
+737
+00:43:38,890 --> 00:43:40,430
+there's going to be
+lateral tracts and medial
+
+738
+00:43:40,430 --> 00:43:43,030
+tracts I'm not holding
+you to that suffice to
+
+739
+00:43:43,030 --> 00:43:45,690
+say that there are a
+number of tracks within
+
+740
+00:43:45,800 --> 00:43:48,250
+the brainstem that
+are part of reticular
+
+741
+00:43:48,250 --> 00:43:51,190
+formation that descend
+to control the body.
+
+742
+00:43:51,190 --> 00:43:54,190
+For the most part,
+these have bilateral
+
+743
+00:43:54,930 --> 00:43:59,350
+projections. It's a very
+large system and it's
+
+744
+00:43:59,350 --> 00:44:02,330
+quite understudied
+because it's very
+
+745
+00:44:02,330 --> 00:44:05,390
+technically difficult to
+record from these neurons
+
+746
+00:44:05,390 --> 00:44:09,270
+because you're deep
+within the brainstem.
+
+747
+00:44:11,230 --> 00:44:14,110
+Despite being understudied,
+we do have some
+
+748
+00:44:14,110 --> 00:44:17,150
+important knowledge about
+what are capabilities
+
+749
+00:44:17,150 --> 00:44:20,690
+within the reticular
+formation for
+
+750
+00:44:20,690 --> 00:44:23,630
+controlling the body.
+There's this structure
+
+751
+00:44:23,630 --> 00:44:27,590
+called MLR, the mesencephalic
+locomotor region,
+
+752
+00:44:27,590 --> 00:44:31,890
+that when you stimulate
+it in a cat, the
+
+753
+00:44:31,890 --> 00:44:35,610
+cat has been sectioned
+so it has no input
+
+754
+00:44:35,610 --> 00:44:38,090
+from the cerebral
+cortex. You can have this
+
+755
+00:44:38,090 --> 00:44:42,690
+cat standing on a
+treadmill, stimulate this
+
+756
+00:44:42,690 --> 00:44:46,390
+MLR of the brainstem,
+part of the reticular
+
+757
+00:44:46,390 --> 00:44:50,010
+formation, projections
+necessarily going to
+
+758
+00:44:50,010 --> 00:44:52,290
+the reticular spinal
+tract, and you'll get
+
+759
+00:44:52,290 --> 00:44:55,130
+coordinated walking. The
+reason I'm mentioning
+
+760
+00:44:55,130 --> 00:44:57,130
+this is because
+this is an important
+
+761
+00:44:57,150 --> 00:45:00,110
+site therapeutically
+that people are now
+
+762
+00:45:00,110 --> 00:45:04,330
+targeting with deep brain
+stimulation and was 60
+
+763
+00:45:04,330 --> 00:45:06,790
+years after it was
+originally discovered.
+
+764
+00:45:07,090 --> 00:45:10,850
+We also have the
+asymmetrical tonic reflex,
+
+765
+00:45:10,850 --> 00:45:13,830
+which is something
+that is seen within
+
+766
+00:45:14,160 --> 00:45:17,770
+children, newborns, that
+if their head is turned
+
+767
+00:45:17,770 --> 00:45:20,710
+to the side, then
+that arm will flex and
+
+768
+00:45:20,710 --> 00:45:25,090
+the other arm, which
+the head is turning away
+
+769
+00:45:25,090 --> 00:45:28,030
+from, will involuntarily
+flex. And this
+
+770
+00:45:28,030 --> 00:45:31,210
+will be re-expressed
+with cortical ******.
+
+771
+00:45:31,210 --> 00:45:33,150
+You remember with
+cortical ******, you have
+
+772
+00:45:33,150 --> 00:45:37,410
+that automatic flexion.
+Well, some of the
+
+773
+00:45:37,410 --> 00:45:41,690
+circuitry for that is
+shown within newborns,
+
+774
+00:45:41,690 --> 00:45:46,490
+this reemergence of
+reflex patterns that were
+
+775
+00:45:46,490 --> 00:45:48,590
+dormant. And lastly,
+I should mention
+
+776
+00:45:48,590 --> 00:45:51,690
+startle. So you walk
+behind somebody, you know,
+
+777
+00:45:51,690 --> 00:45:53,550
+on a dark and rainy
+night in the parking
+
+778
+00:45:53,550 --> 00:45:55,250
+lot and give a little
+shout behind them. They
+
+779
+00:45:55,250 --> 00:45:57,350
+give a little startle
+and flex their arms
+
+780
+00:45:57,350 --> 00:45:59,630
+together. That flexing
+protective response
+
+781
+00:45:59,630 --> 00:46:02,570
+is another example of
+a system controlled
+
+782
+00:46:02,570 --> 00:46:06,250
+through reticulospinal
+tract, but getting its
+
+783
+00:46:06,250 --> 00:46:10,330
+original information
+from the, obviously,
+
+784
+00:46:10,390 --> 00:46:13,070
+from the vestibular system.
+so the communication
+
+785
+00:46:13,070 --> 00:46:15,870
+from other systems
+to reticulospinal
+
+786
+00:46:15,870 --> 00:46:20,070
+tract not just um
+somatosensory information
+
+787
+00:46:20,070 --> 00:46:24,050
+vestibular spinal
+tract is quite powerful
+
+788
+00:46:24,050 --> 00:46:29,310
+in humans and is engaged
+if you were to fall
+
+789
+00:46:29,310 --> 00:46:31,790
+to the left or fall
+to the right it would
+
+790
+00:46:31,790 --> 00:46:35,770
+be responsible for
+extending your legs on the
+
+791
+00:46:35,770 --> 00:46:39,190
+side that you're
+falling towards and we
+
+792
+00:46:39,190 --> 00:46:42,770
+know that's the
+vestibulospinal tracts because
+
+793
+00:46:42,770 --> 00:46:46,210
+of those connection
+patterns but also the
+
+794
+00:46:46,260 --> 00:46:50,190
+what happens when you
+sever all the other
+
+795
+00:46:50,190 --> 00:46:55,650
+nuclei that could be
+projecting from the
+
+796
+00:46:55,650 --> 00:46:58,830
+cerebral cortex from
+the brainstem aside from
+
+797
+00:46:58,830 --> 00:47:01,010
+the vestibular nucleus
+so there's a section
+
+798
+00:47:01,010 --> 00:47:05,230
+just above the upper
+medulla when that's
+
+799
+00:47:05,230 --> 00:47:11,050
+done to a kitty cat
+then we see extension of
+
+800
+00:47:11,050 --> 00:47:14,650
+all of its limbs and so
+this has anti-gravity
+
+801
+00:47:14,650 --> 00:47:17,430
+function for the upper
+limbs and for the
+
+802
+00:47:17,430 --> 00:47:19,710
+lower limbs and this
+is most certainly the
+
+803
+00:47:19,710 --> 00:47:25,810
+responsibility of the
+vestibulospinal tract
+
+804
+00:47:27,690 --> 00:47:31,770
+so those brainstem
+tracks that we talked
+
+805
+00:47:31,770 --> 00:47:37,670
+about can be manifest
+under situations of
+
+806
+00:47:37,670 --> 00:47:41,090
+severe brain damage so
+these are individuals
+
+807
+00:47:41,140 --> 00:47:45,910
+that would be
+unconscious and you could
+
+808
+00:47:45,910 --> 00:47:49,930
+have somebody come
+into the er and if they
+
+809
+00:47:49,930 --> 00:47:52,990
+show this posture
+where the legs are
+
+810
+00:47:52,990 --> 00:47:58,130
+extended um and their
+upper extremities that's
+
+811
+00:47:58,130 --> 00:48:00,210
+you the upper
+extremities are flexed as
+
+812
+00:48:00,210 --> 00:48:03,670
+a mummy pose they call
+that decorticate and
+
+813
+00:48:03,670 --> 00:48:06,970
+this is associated
+with a lesion above
+
+814
+00:48:06,970 --> 00:48:10,690
+the red nucleus so you'll
+still have continued
+
+815
+00:48:10,690 --> 00:48:15,790
+um activity of the
+regions there below
+
+816
+00:48:15,790 --> 00:48:18,870
+the red nucleus so that
+would include itself
+
+817
+00:48:18,870 --> 00:48:21,550
+red nucleus reticular
+formation and
+
+818
+00:48:21,550 --> 00:48:24,190
+vestibular nucleus and
+so this means that the
+
+819
+00:48:24,190 --> 00:48:26,250
+red nucleus is
+projecting to us is that
+
+820
+00:48:26,250 --> 00:48:29,730
+it's going to be
+actually connected to the
+
+821
+00:48:30,550 --> 00:48:32,350
+cerebellum that's
+what's going to still
+
+822
+00:48:32,350 --> 00:48:36,030
+have that connection
+going on but regardless
+
+823
+00:48:36,030 --> 00:48:38,860
+it's the hyperactivity
+of the remaining
+
+824
+00:48:39,060 --> 00:48:41,330
+nuclei that are involved
+and We know that
+
+825
+00:48:41,330 --> 00:48:43,290
+this elbow flexion
+is something that's
+
+826
+00:48:43,290 --> 00:48:47,910
+very prominent for
+the reticular system.
+
+827
+00:48:50,050 --> 00:48:55,210
+If the individual
+shows a decerebrate
+
+828
+00:48:55,210 --> 00:48:57,450
+posture, that is
+that their legs are
+
+829
+00:48:57,450 --> 00:49:00,250
+extended and their
+upper extremities
+
+830
+00:49:00,250 --> 00:49:03,650
+are extended, this
+is a worse situation
+
+831
+00:49:03,650 --> 00:49:07,110
+than before. Here,
+this indicates that
+
+832
+00:49:07,110 --> 00:49:10,750
+the lesion is below
+the red nucleus.
+
+833
+00:49:11,110 --> 00:49:15,670
+So red nucleus is no
+longer involved. Now
+
+834
+00:49:15,670 --> 00:49:18,470
+you have the hyperactivity
+of reticulospinal
+
+835
+00:49:18,470 --> 00:49:23,260
+and the vestibular
+nuclei. And it's
+
+836
+00:49:23,260 --> 00:49:27,070
+interesting that this
+is an extension of both
+
+837
+00:49:27,070 --> 00:49:29,750
+because you still have
+reticulospinal. So
+
+838
+00:49:29,750 --> 00:49:31,750
+there's complexities
+that we do not yet
+
+839
+00:49:31,750 --> 00:49:33,990
+understand, but we know
+that most certainly
+
+840
+00:49:33,990 --> 00:49:36,850
+the red nucleus in its
+modulatory role vis
+
+841
+00:49:36,850 --> 00:49:39,670
+-a-vis the cerebellum
+is in suffice to say
+
+842
+00:49:39,670 --> 00:49:43,450
+if you're showing a
+decerebrate posture
+
+843
+00:49:43,450 --> 00:49:49,310
+meaning that the lower
+extremity and the
+
+844
+00:49:49,310 --> 00:49:53,830
+upper extremities are
+both extended then that
+
+845
+00:49:53,830 --> 00:49:56,170
+means that the
+damage is more severe
+
+846
+00:49:56,170 --> 00:49:59,990
+because it's extending
+below the red nucleus
+
+847
+00:50:01,280 --> 00:50:04,330
+locked in syndrome is
+when you have a lesion
+
+848
+00:50:04,330 --> 00:50:07,470
+within the pons that
+is so dense that
+
+849
+00:50:07,470 --> 00:50:10,670
+it will interrupt the
+flow of information
+
+850
+00:50:10,670 --> 00:50:14,990
+from cerebral cortex
+down to any levels
+
+851
+00:50:14,990 --> 00:50:18,110
+within the pons and
+below so it's going to
+
+852
+00:50:18,110 --> 00:50:21,930
+knock out all control
+for voluntary control
+
+853
+00:50:21,930 --> 00:50:25,510
+of the body it's going
+to knock out so much
+
+854
+00:50:25,510 --> 00:50:30,730
+voluntary control of
+the of the head of
+
+855
+00:50:30,730 --> 00:50:33,090
+the face of the neck
+of chewing and so on
+
+856
+00:50:33,090 --> 00:50:37,910
+what is left is blinking
+and a little bit
+
+857
+00:50:37,910 --> 00:50:40,950
+of eye movements
+because those are the
+
+858
+00:50:40,950 --> 00:50:43,690
+responsibility of
+cranial nerve nuclei that
+
+859
+00:50:43,690 --> 00:50:47,350
+are above the lesion
+that are in the midbrain
+
+860
+00:50:47,350 --> 00:50:50,370
+ocular motor nucleus
+trochlear nucleus.
+
+861
+00:50:50,370 --> 00:50:52,990
+Those people can
+blink, but they can't
+
+862
+00:50:52,990 --> 00:50:56,410
+say anything. You would
+normally think these
+
+863
+00:50:56,410 --> 00:51:03,890
+folks are in a vegetative
+state, that they
+
+864
+00:51:03,890 --> 00:51:07,050
+do not have consciousness,
+but they do.
+
+865
+00:51:07,240 --> 00:51:09,690
+They're locked in
+their body. They can't
+
+866
+00:51:09,690 --> 00:51:14,030
+tell you what they're
+experiencing. They
+
+867
+00:51:14,030 --> 00:51:16,750
+can still feel the
+world, but they can't do
+
+868
+00:51:16,750 --> 00:51:18,730
+anything about it.
+These cases have
+
+869
+00:51:18,730 --> 00:51:21,490
+invariably been missed
+when they interview people
+
+870
+00:51:21,490 --> 00:51:23,710
+afterwards. The
+time by which people
+
+871
+00:51:23,710 --> 00:51:26,190
+finally realized it
+may have been months
+
+872
+00:51:26,190 --> 00:51:29,890
+later, may have been
+years later. Very, very
+
+873
+00:51:29,890 --> 00:51:32,610
+difficult to imagine
+what that was like.
+
+874
+00:51:32,610 --> 00:51:35,950
+There is efforts underway
+to try to address
+
+875
+00:51:35,950 --> 00:51:38,850
+this with different
+devices that are going
+
+876
+00:51:38,850 --> 00:51:42,090
+to be detecting where
+people can look on a
+
+877
+00:51:42,090 --> 00:51:45,170
+screen and communicate
+that way allow faster
+
+878
+00:51:45,170 --> 00:51:47,810
+interactions it was a
+beautiful book and a
+
+879
+00:51:47,810 --> 00:51:49,870
+movie i encourage you
+to watch called the
+
+880
+00:51:49,870 --> 00:51:52,550
+divide diving bell and
+the butterfly it was
+
+881
+00:51:52,550 --> 00:51:55,030
+written by this guy
+because he blinked it
+
+882
+00:51:55,030 --> 00:51:58,810
+out he blinked out this
+book it's not a terribly
+
+883
+00:51:58,810 --> 00:52:01,270
+long book as soon
+as it went to press
+
+884
+00:52:01,270 --> 00:52:04,910
+uh the fella uh passed
+on but he had a contract
+
+885
+00:52:04,910 --> 00:52:06,950
+to write a book and
+he said i'm going to
+
+886
+00:52:06,950 --> 00:52:08,910
+enforce it they they've
+made one with me
+
+887
+00:52:08,910 --> 00:52:10,870
+i'm going to write it.
+And it's a fantastic
+
+888
+00:52:10,870 --> 00:52:14,250
+book by a very cultured
+editor of a fashion
+
+889
+00:52:14,250 --> 00:52:17,030
+journal in France. It's
+a little while ago.
+
+890
+00:52:18,730 --> 00:52:21,950
+All right, let's wrap up.
+Both the corticospinal
+
+891
+00:52:21,950 --> 00:52:24,530
+tract and the
+corticobulbar tract are
+
+892
+00:52:24,530 --> 00:52:27,630
+going to arise from
+precentral gyrus as
+
+893
+00:52:27,630 --> 00:52:31,550
+well as rostral adjacent
+cortex. The corticospinal
+
+894
+00:52:31,550 --> 00:52:32,830
+tract is going
+to project to the
+
+895
+00:52:32,830 --> 00:52:35,590
+contralateral spinal
+cord, whereas
+the corticobulbar
+
+896
+00:52:35,590 --> 00:52:38,160
+tract is going to
+project bilaterally
+
+897
+00:52:38,160 --> 00:52:41,650
+to cranial nerve
+nuclei, except for the
+
+898
+00:52:41,650 --> 00:52:44,620
+facial nucleus, which is
+going to be exclusively
+
+899
+00:52:45,800 --> 00:52:47,430
+contralateral for
+the lower half of the
+
+900
+00:52:47,430 --> 00:52:49,790
+face. Upper motor
+neuron damage can be
+
+901
+00:52:49,790 --> 00:52:52,770
+expressed as weakness
+and ******* paralysis.
+
+902
+00:52:52,930 --> 00:52:54,430
+Lower motor
+neuron damage is
+
+903
+00:52:54,430 --> 00:52:56,470
+expressed as
+flaccid paralysis.
+
+904
+00:52:56,970 --> 00:52:59,250
+Different descending
+projections from the
+
+905
+00:52:59,250 --> 00:53:01,650
+brainstem have different
+projection patterns.
+
+906
+00:53:01,650 --> 00:53:03,470
+And damage above
+and below the red
+
+907
+00:53:03,470 --> 00:53:05,750
+nucleus leads to
+decorticate and decerebrate
+
+908
+00:53:05,750 --> 00:53:12,050
+rigidity respectively i
+hope that presentation
+
+909
+00:53:12,050 --> 00:53:14,850
+was clear i understand
+some complex
+
+910
+00:53:14,850 --> 00:53:17,550
+material. Feedback is
+always appreciated.

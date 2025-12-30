@@ -1,0 +1,4737 @@
+1
+00:00:01,910 --> 00:00:03,010
+Hello, everybody.
+
+2
+00:00:03,870 --> 00:00:06,530
+Good afternoon
+and welcome to the
+
+3
+00:00:06,530 --> 00:00:08,370
+lecture on clinical
+decision making.
+
+4
+00:00:08,480 --> 00:00:11,180
+My name is Dr. Richard
+Morgan. I'm the DPR1
+
+5
+00:00:11,180 --> 00:00:13,050
+coordinator. And
+what I'm going to be
+
+6
+00:00:13,050 --> 00:00:15,770
+doing today is presenting
+a lecture on really
+
+7
+00:00:15,770 --> 00:00:17,930
+the thought process
+that goes behind how
+
+8
+00:00:17,930 --> 00:00:20,310
+we work through a case.
+You know, we've done
+
+9
+00:00:20,310 --> 00:00:23,310
+a little bit of the
+ICC patient encounters.
+
+10
+00:00:23,310 --> 00:00:25,310
+We've started to
+work on soap note
+
+11
+00:00:25,310 --> 00:00:27,570
+writing. We're going
+to go into a little bit
+
+12
+00:00:27,570 --> 00:00:29,570
+more on illness scripts.
+But what this lecture
+
+13
+00:00:29,570 --> 00:00:31,930
+really entails is
+the systems, the
+
+14
+00:00:31,930 --> 00:00:35,630
+thought processes by
+which we as physicians go
+
+15
+00:00:35,630 --> 00:00:37,590
+through to come to the
+ultimate conclusion
+
+16
+00:00:37,590 --> 00:00:39,990
+about what our
+diagnosis and ultimately
+
+17
+00:00:39,990 --> 00:00:41,990
+our plan is going to
+be with each patient.
+
+18
+00:00:48,250 --> 00:00:50,370
+So what are the
+objectives for today? At
+
+19
+00:00:50,370 --> 00:00:52,050
+the conclusion of
+today's session, the
+
+20
+00:00:52,050 --> 00:00:54,470
+students should be able
+to, one, define dual
+
+21
+00:00:54,470 --> 00:00:56,650
+process theory of
+cognition. We'll go
+
+22
+00:00:56,650 --> 00:00:59,330
+over both system one
+and system two as the
+
+23
+00:00:59,330 --> 00:01:00,830
+leading model for
+explaining clinical
+
+24
+00:01:00,830 --> 00:01:03,210
+decision making.
+We'll be able to apply
+
+25
+00:01:03,210 --> 00:01:05,250
+these concepts of
+problem representation,
+
+26
+00:01:05,290 --> 00:01:07,590
+illness scripts, and
+pattern recognition.
+
+27
+00:01:07,990 --> 00:01:10,130
+Three, we'll demonstrate
+knowledge and
+
+28
+00:01:10,130 --> 00:01:11,710
+application of
+diagnostic reasoning
+
+29
+00:01:11,710 --> 00:01:14,270
+processes. And four,
+we will distinguish
+
+30
+00:01:14,270 --> 00:01:15,750
+between the different
+types of clinical
+
+31
+00:01:15,750 --> 00:01:17,690
+cognitive errors
+that sometimes people
+
+32
+00:01:17,690 --> 00:01:20,310
+make on a basic
+clinical vignette.
+
+33
+00:01:21,330 --> 00:01:23,750
+Now, as physicians,
+we gather history
+
+34
+00:01:23,750 --> 00:01:25,670
+and perform an
+appropriate physical exam
+
+35
+00:01:25,670 --> 00:01:27,770
+based on the reason
+for the patient
+
+36
+00:01:27,770 --> 00:01:30,030
+seeking care, right?
+So the first thing we
+
+37
+00:01:30,030 --> 00:01:32,470
+do is analyze the
+findings to identify
+
+38
+00:01:32,470 --> 00:01:35,190
+potential causes for
+the patient system
+
+39
+00:01:35,190 --> 00:01:37,290
+using our clinical
+reasoning skills.
+
+40
+00:01:37,290 --> 00:01:40,170
+The potential
+causes become our
+
+41
+00:01:40,170 --> 00:01:41,950
+differential diagnosis,
+the possibilities
+
+42
+00:01:41,950 --> 00:01:43,750
+for what brings
+the patient to your
+
+43
+00:01:43,750 --> 00:01:45,950
+office based on that
+cheap complaint.
+
+44
+00:01:45,950 --> 00:01:47,890
+Your list always
+starts with the most
+
+45
+00:01:47,890 --> 00:01:50,030
+likely, including
+other plausible options
+
+46
+00:01:50,030 --> 00:01:51,890
+that will explain
+the patient systems.
+
+47
+00:01:51,890 --> 00:01:54,370
+And it can include
+diagnoses that
+
+48
+00:01:54,370 --> 00:01:56,420
+might have serious
+complications or
+
+49
+00:01:56,420 --> 00:01:57,890
+consequences if
+missed, because you
+
+50
+00:01:57,890 --> 00:01:59,450
+certainly don't want
+to miss those at all.
+
+51
+00:01:59,910 --> 00:02:02,490
+For example, patient
+with acute chest pain
+
+52
+00:02:02,490 --> 00:02:03,810
+rating to the left
+shoulder should be
+
+53
+00:02:03,810 --> 00:02:06,150
+thought of as an MI
+until proven otherwise.
+
+54
+00:02:06,150 --> 00:02:08,330
+You don't want to
+miss something that is
+
+55
+00:02:08,330 --> 00:02:10,550
+potentially life
+-threatening or lethal
+
+56
+00:02:10,550 --> 00:02:12,650
+if not diagnosed and
+treated immediately.
+
+57
+00:02:14,130 --> 00:02:16,330
+Now, clinical
+reasoning and clinical
+
+58
+00:02:16,330 --> 00:02:19,390
+decision-making is
+based on two pathways.
+
+59
+00:02:19,390 --> 00:02:21,430
+So the first
+pathway is, if you
+
+60
+00:02:21,430 --> 00:02:22,750
+look at this
+slide to the left,
+
+61
+00:02:22,750 --> 00:02:24,240
+is more of the
+intuitive system.
+
+62
+00:02:24,250 --> 00:02:26,530
+It's a faster system
+that uses something
+
+63
+00:02:26,530 --> 00:02:28,670
+called heuristics.
+which is mental
+
+64
+00:02:28,670 --> 00:02:30,450
+shortcuts. And we'll
+get into that a
+
+65
+00:02:30,450 --> 00:02:31,920
+little bit more in
+the coming slides.
+
+66
+00:02:32,690 --> 00:02:35,530
+It's something that
+builds up over time
+
+67
+00:02:35,530 --> 00:02:38,250
+that physicians tend
+to utilize after
+
+68
+00:02:38,250 --> 00:02:41,370
+years of practice,
+years of experience. You
+
+69
+00:02:41,370 --> 00:02:45,210
+start to build up
+a knowledge base of
+
+70
+00:02:45,210 --> 00:02:47,890
+all the past cases,
+all the knowledge put
+
+71
+00:02:47,890 --> 00:02:49,930
+together through
+schooling, residency,
+
+72
+00:02:50,860 --> 00:02:52,270
+fellowships, whatever
+you might have
+
+73
+00:02:52,270 --> 00:02:55,310
+done. And over the
+hundreds and hundreds of
+
+74
+00:02:55,310 --> 00:02:57,290
+patients that you
+start to see, you
+
+75
+00:02:57,290 --> 00:03:01,330
+start to come to a
+hypothesis very quickly.
+
+76
+00:03:01,330 --> 00:03:03,130
+And that's part of
+the intuitive system
+
+77
+00:03:03,130 --> 00:03:05,490
+that utilizes
+heuristics. As I said,
+
+78
+00:03:05,490 --> 00:03:07,830
+I'll get into that a
+little bit more. The
+
+79
+00:03:07,830 --> 00:03:09,810
+second pathway to
+the right here is the
+
+80
+00:03:10,650 --> 00:03:12,910
+hypothetico
+-deductive pathway.
+
+81
+00:03:13,190 --> 00:03:16,570
+This is a much slower
+pathway. It uses more
+
+82
+00:03:16,570 --> 00:03:19,470
+logic, more probability
+to come to a
+
+83
+00:03:19,470 --> 00:03:22,610
+conclusion or diagnosis.
+Now, this is the
+
+84
+00:03:22,610 --> 00:03:25,730
+system as you're starting
+out first, second,
+
+85
+00:03:25,730 --> 00:03:28,230
+third, fourth year
+medical school, you're
+
+86
+00:03:28,230 --> 00:03:30,290
+still building up your
+knowledge base. It's
+
+87
+00:03:30,290 --> 00:03:32,850
+a slower pathway, but
+it uses more logic
+
+88
+00:03:32,850 --> 00:03:35,090
+and probability to
+come to that conclusion
+
+89
+00:03:35,090 --> 00:03:37,310
+or diagnosis. This
+is the more likely
+
+90
+00:03:37,310 --> 00:03:39,950
+system for most of
+people who will utilize
+
+91
+00:03:39,950 --> 00:03:41,970
+this type of staging
+at this level of
+
+92
+00:03:41,970 --> 00:03:44,210
+education, because you're
+still building your
+
+93
+00:03:44,210 --> 00:03:45,990
+knowledge base. And
+this will help you
+
+94
+00:03:45,990 --> 00:03:48,680
+discern various seized
+processes a little bit
+
+95
+00:03:48,680 --> 00:03:50,670
+slower, but a little
+bit more logically.
+
+96
+00:03:51,370 --> 00:03:53,870
+Once you're in
+practice, however, most
+
+97
+00:03:53,870 --> 00:03:55,930
+physicians will
+regularly move between
+
+98
+00:03:55,930 --> 00:03:58,270
+both systems one
+and system two with
+
+99
+00:03:58,270 --> 00:04:00,130
+their clinical decision
+-making process.
+
+100
+00:04:07,910 --> 00:04:10,050
+Now, as I said,
+heuristics,
+
+101
+00:04:10,050 --> 00:04:12,230
+that system one
+involves mental
+
+102
+00:04:12,230 --> 00:04:14,510
+shortcuts. It's
+used to assist a
+
+103
+00:04:14,510 --> 00:04:16,710
+clinician to rapidly
+make decisions.
+
+104
+00:04:17,150 --> 00:04:20,150
+It's generally
+subconsciously formulated in
+
+105
+00:04:20,150 --> 00:04:23,430
+a response patterns
+based on formed habits.
+
+106
+00:04:23,430 --> 00:04:25,130
+You see something,
+you get familiar with
+
+107
+00:04:25,130 --> 00:04:27,090
+it, you intuitively
+know what it might be.
+
+108
+00:04:27,090 --> 00:04:29,260
+It's also, of course,
+subject to error
+
+109
+00:04:29,260 --> 00:04:31,810
+because of a lot of
+our cognitive biases.
+
+110
+00:04:32,040 --> 00:04:33,680
+And I'll give you
+an example here.
+
+111
+00:04:34,280 --> 00:04:35,510
+I'd like you all to look
+
+112
+00:04:35,510 --> 00:04:36,670
+at this three pictures.
+
+113
+00:04:36,730 --> 00:04:38,950
+Now, what are these
+three pictures of?
+
+114
+00:04:39,460 --> 00:04:40,830
+I'll give you a moment.
+
+115
+00:04:42,630 --> 00:04:45,110
+now obviously you look
+at these three things
+
+116
+00:04:45,110 --> 00:04:47,670
+these three objects
+if you will and we we
+
+117
+00:04:47,670 --> 00:04:50,850
+know that they're chairs
+okay this is part of
+
+118
+00:04:50,850 --> 00:04:52,650
+that heuristic system
+that i was talking
+
+119
+00:04:52,650 --> 00:04:55,650
+about before through
+all of your experiences
+
+120
+00:04:55,650 --> 00:04:59,930
+as adults you've seen
+many chairs you've seen
+
+121
+00:04:59,930 --> 00:05:02,510
+hundreds if not thousands
+of chairs you've
+
+122
+00:05:02,510 --> 00:05:04,750
+sat in chairs you become
+familiar with them
+
+123
+00:05:04,750 --> 00:05:06,750
+you know what they're
+about you know what
+
+124
+00:05:06,750 --> 00:05:08,890
+they're utilized for
+you have a good sense of
+
+125
+00:05:08,890 --> 00:05:10,670
+a working knowledge of
+how they're utilize.
+
+126
+00:05:10,940 --> 00:05:13,410
+However, if you take
+a child, you know,
+
+127
+00:05:13,410 --> 00:05:15,690
+a very, very young
+child or an infant,
+
+128
+00:05:15,690 --> 00:05:17,950
+however, they may not
+know what these are.
+
+129
+00:05:17,950 --> 00:05:19,790
+They haven't had those
+life experiences.
+
+130
+00:05:19,790 --> 00:05:21,730
+They haven't had
+the chance to sit in
+
+131
+00:05:21,730 --> 00:05:24,710
+as many chairs or
+see as many chairs as
+
+132
+00:05:24,710 --> 00:05:26,330
+they would have, you
+know, if they were
+
+133
+00:05:26,330 --> 00:05:28,490
+much, much older. But
+like I said, that will
+
+134
+00:05:28,490 --> 00:05:31,050
+build up over time.
+Therefore, when you
+
+135
+00:05:31,050 --> 00:05:33,090
+see these chairs,
+you're using more of
+
+136
+00:05:33,090 --> 00:05:36,350
+the heuristic sense
+of thought process.
+
+137
+00:05:36,550 --> 00:05:39,070
+And a young child
+who does not,
+
+138
+00:05:39,070 --> 00:05:40,650
+is not familiar
+with these,
+
+139
+00:05:40,650 --> 00:05:42,330
+is more likely
+to use System 2.
+
+140
+00:05:43,870 --> 00:05:45,770
+Hopefully, this
+example will help.
+
+141
+00:05:46,650 --> 00:05:49,290
+Okay, so what are we
+going to be doing for
+
+142
+00:05:49,290 --> 00:05:51,230
+the remainder of this
+time? We're going
+
+143
+00:05:51,230 --> 00:05:53,690
+to be breaking down,
+okay, the key elements
+
+144
+00:05:53,690 --> 00:05:56,170
+of clinical decision
+making, okay? We
+
+145
+00:05:56,170 --> 00:05:58,050
+follow a same pathway,
+and we're going to
+
+146
+00:05:58,050 --> 00:06:00,010
+break each of these
+down, starting from the
+
+147
+00:06:00,010 --> 00:06:02,200
+patient's story all
+the way down to the
+
+148
+00:06:02,200 --> 00:06:05,250
+diagnosis, and how do
+we configure and put
+
+149
+00:06:05,250 --> 00:06:07,230
+all these things
+together? What are the
+
+150
+00:06:07,230 --> 00:06:09,510
+key elements of clinical
+decision-making?
+
+151
+00:06:09,850 --> 00:06:13,290
+The first part is
+the patient's story.
+
+152
+00:06:14,030 --> 00:06:17,430
+Now, a famous person
+once said, if you
+
+153
+00:06:17,430 --> 00:06:20,690
+listen to your patient
+tell their story,
+
+154
+00:06:20,800 --> 00:06:23,710
+they will also tell
+you the diagnosis.
+
+155
+00:06:23,710 --> 00:06:25,790
+And that is
+relatively true.
+
+156
+00:06:26,230 --> 00:06:28,590
+I would say the
+majority, especially
+
+157
+00:06:28,590 --> 00:06:30,890
+within the subjective
+component of any
+
+158
+00:06:30,890 --> 00:06:33,850
+patient interview,
+most well-versed
+
+159
+00:06:33,850 --> 00:06:36,210
+clinicians and well
+-knowledged clinicians
+
+160
+00:06:36,210 --> 00:06:39,650
+should be able to
+identify the information
+
+161
+00:06:39,650 --> 00:06:41,510
+that will lead to
+the diagnosis in
+
+162
+00:06:41,510 --> 00:06:43,370
+most cases just
+from the subjective.
+
+163
+00:06:44,650 --> 00:06:46,770
+Let's look at the
+patient's story.
+
+164
+00:06:46,770 --> 00:06:48,710
+Gathering that
+initial health history
+
+165
+00:06:48,710 --> 00:06:51,190
+and physical exam.
+Now, we started going
+
+166
+00:06:51,190 --> 00:06:53,010
+into this when we've
+been in the ICC
+
+167
+00:06:53,010 --> 00:06:55,350
+recently, and we
+started doing this with
+
+168
+00:06:55,350 --> 00:06:57,310
+some of the soap note
+writing in class.
+
+169
+00:06:58,570 --> 00:07:00,410
+Gathering this
+initial health history
+
+170
+00:07:00,410 --> 00:07:02,170
+involves the symptoms
+elicited during
+
+171
+00:07:02,170 --> 00:07:04,350
+history. What brings
+the patient to
+
+172
+00:07:04,350 --> 00:07:06,110
+your office today?
+What are the key
+
+173
+00:07:06,110 --> 00:07:08,710
+elements? And what
+are the associated
+
+174
+00:07:08,710 --> 00:07:10,570
+symptoms with that
+chief complaint?
+
+175
+00:07:10,750 --> 00:07:12,590
+What are some of
+the signs that are
+
+176
+00:07:12,590 --> 00:07:14,470
+both normal and
+abnormal observed during
+
+177
+00:07:14,470 --> 00:07:16,330
+the physical exam?
+In other words,
+
+178
+00:07:16,330 --> 00:07:17,950
+what are the pertinent
+positives and
+
+179
+00:07:17,950 --> 00:07:19,670
+negatives that you
+can elicit that
+
+180
+00:07:19,670 --> 00:07:21,080
+would help you come
+to the diagnosis?
+
+181
+00:07:22,790 --> 00:07:25,750
+Then with the
+laboratory or diagnostic
+
+182
+00:07:25,750 --> 00:07:27,450
+reports that they may
+have had in the recent
+
+183
+00:07:27,450 --> 00:07:30,250
+past, you can also
+combine those with
+
+184
+00:07:30,250 --> 00:07:32,050
+the other elements
+from the subjective
+
+185
+00:07:32,050 --> 00:07:35,690
+history to help confirm
+whatever diagnosis
+
+186
+00:07:35,690 --> 00:07:38,750
+you might be thinking
+is most likely.
+
+187
+00:07:38,790 --> 00:07:40,450
+Of course, you want
+to be organized
+
+188
+00:07:40,450 --> 00:07:42,310
+and methodical so
+all abnormal and
+
+189
+00:07:42,310 --> 00:07:44,890
+unexpected findings
+are identified.
+
+190
+00:07:45,210 --> 00:07:45,950
+OK.
+
+191
+00:07:48,710 --> 00:07:50,910
+Next, let's move on
+to data acquisition.
+
+192
+00:07:51,450 --> 00:07:54,270
+So data acquisition
+really is a system
+
+193
+00:07:54,270 --> 00:07:57,030
+which helps you narrow
+the focus of the
+
+194
+00:07:57,030 --> 00:07:59,530
+differential diagnosis
+based on a variety
+
+195
+00:07:59,530 --> 00:08:01,530
+of data. So what
+are you compiling?
+
+196
+00:08:01,530 --> 00:08:03,330
+What are you putting
+together? It uses
+
+197
+00:08:03,330 --> 00:08:06,290
+essentially clusters
+of information. OK.
+
+198
+00:08:06,450 --> 00:08:08,750
+I'll give you an
+example. Okay.
+
+199
+00:08:09,950 --> 00:08:12,510
+Take a child.
+Child comes to your
+
+200
+00:08:12,510 --> 00:08:15,290
+office. A child is
+tugging on their ear.
+
+201
+00:08:15,410 --> 00:08:17,770
+Okay. Child tugging
+on their ear.
+
+202
+00:08:18,040 --> 00:08:20,290
+Mom reports that
+they've been having some
+
+203
+00:08:20,290 --> 00:08:22,530
+tenderness in that
+area. It's likely
+
+204
+00:08:22,530 --> 00:08:25,310
+to be associated
+with that particular
+
+205
+00:08:25,310 --> 00:08:29,530
+anatomical structure
+is where the diagnosis
+
+206
+00:08:29,530 --> 00:08:31,630
+will be likely coming
+from. And that's
+
+207
+00:08:31,630 --> 00:08:33,590
+what we mean by
+anatomical location. So
+
+208
+00:08:33,590 --> 00:08:35,570
+organizing interpreting
+clinical information
+
+209
+00:08:35,570 --> 00:08:37,810
+involves approaches
+to organizing
+
+210
+00:08:37,810 --> 00:08:40,990
+findings. As I said,
+anatomic location,
+
+211
+00:08:41,110 --> 00:08:43,310
+cluster findings based
+on the anatomical
+
+212
+00:08:43,310 --> 00:08:45,630
+relationship in the
+body. Child comes to
+
+213
+00:08:45,630 --> 00:08:47,330
+your office, they're
+tugging on the ear,
+
+214
+00:08:47,330 --> 00:08:50,550
+all the symptoms are
+based in that region.
+
+215
+00:08:50,750 --> 00:08:53,470
+Common things occur
+commonly. We can talk
+
+216
+00:08:53,470 --> 00:08:56,210
+about zebras down the
+line, but when you
+
+217
+00:08:56,210 --> 00:08:57,590
+put your ear to the
+ground and you're
+
+218
+00:08:57,590 --> 00:08:59,390
+hearing hoofbeats, you're
+looking for a horse,
+
+219
+00:08:59,390 --> 00:09:01,390
+not always a zebra.
+And when a child
+
+220
+00:09:01,390 --> 00:09:03,210
+comes in pulling in
+the ear, you want to
+
+221
+00:09:03,210 --> 00:09:05,410
+think the most common
+and logical things.
+
+222
+00:09:05,730 --> 00:09:09,230
+Two, age. What disease
+processes are common
+
+223
+00:09:09,230 --> 00:09:11,690
+in different age
+groups? Now, you might
+
+224
+00:09:11,690 --> 00:09:14,530
+want to acquire the
+data in different ways.
+
+225
+00:09:14,530 --> 00:09:19,250
+So a child coming to
+you with, let's say,
+
+226
+00:09:19,250 --> 00:09:22,290
+chest pain versus
+a 45-year-old that
+
+227
+00:09:22,290 --> 00:09:24,250
+comes to you with chest
+pain, the differential
+
+228
+00:09:24,250 --> 00:09:26,710
+is going to be
+different based on the
+
+229
+00:09:26,710 --> 00:09:30,140
+age and epidemiology
+of what type of person
+
+230
+00:09:30,140 --> 00:09:32,490
+develops chest pain
+at those given ages.
+
+231
+00:09:32,790 --> 00:09:36,050
+So age is important
+with data acquisition
+
+232
+00:09:36,050 --> 00:09:38,210
+because it leads to
+different differential
+
+233
+00:09:38,210 --> 00:09:40,070
+diagnoses based
+on the categories.
+
+234
+00:09:40,490 --> 00:09:41,050
+Three,
+
+235
+00:09:41,630 --> 00:09:42,870
+timing of symptoms.
+
+236
+00:09:43,110 --> 00:09:47,950
+Knowing how different
+disease processes as
+
+237
+00:09:47,950 --> 00:09:49,850
+well as duration of
+certain disease is
+
+238
+00:09:49,850 --> 00:09:52,190
+definitely important.
+Now, sometimes diseases
+
+239
+00:09:52,190 --> 00:09:54,130
+can last, you know,
+a couple of minutes.
+
+240
+00:09:54,640 --> 00:09:56,470
+Symptoms can last a
+few minutes to a few
+
+241
+00:09:56,470 --> 00:09:59,910
+hours. They can last
+two days to three
+
+242
+00:09:59,910 --> 00:10:03,330
+months. Knowing that
+that timing will often
+
+243
+00:10:03,330 --> 00:10:07,090
+give a much broader
+idea or a much more
+
+244
+00:10:07,090 --> 00:10:10,030
+narrow idea, I should
+say, of what the
+
+245
+00:10:10,030 --> 00:10:13,370
+likely diagnosis will
+be. And, of course,
+
+246
+00:10:13,370 --> 00:10:16,090
+involvement in body
+systems. Now, if a
+
+247
+00:10:16,090 --> 00:10:19,170
+patient reports chest
+pain, you're likely
+
+248
+00:10:19,170 --> 00:10:20,870
+going to want to start
+with the cardiovascular
+
+249
+00:10:20,870 --> 00:10:22,690
+system and then
+branch your way out
+
+250
+00:10:22,690 --> 00:10:25,030
+asking some basic
+associated symptoms.
+
+251
+00:10:25,030 --> 00:10:27,290
+But if a patient comes
+to you with just a
+
+252
+00:10:27,290 --> 00:10:29,690
+constitutional
+complaint, such as fever,
+
+253
+00:10:30,050 --> 00:10:31,130
+night sweats,
+
+254
+00:10:31,930 --> 00:10:35,170
+unexplained weight
+loss for six months,
+
+255
+00:10:35,170 --> 00:10:37,650
+these are much
+broader kind of
+
+256
+00:10:37,920 --> 00:10:40,850
+complaints that
+would lead to a wider
+
+257
+00:10:40,850 --> 00:10:43,350
+variety of involvement
+of different body
+
+258
+00:10:43,350 --> 00:10:45,350
+systems or multi
+-system conditions.
+
+259
+00:10:45,390 --> 00:10:48,250
+So your differential
+is going to be much
+
+260
+00:10:48,250 --> 00:10:50,890
+over a broader scope
+than narrow, where
+
+261
+00:10:50,890 --> 00:10:52,630
+if it's a child
+coming in, as I said
+
+262
+00:10:52,630 --> 00:10:56,290
+before, with an ear
+tug or a 45-year-old
+
+263
+00:10:56,290 --> 00:10:58,590
+with chest pain
+radiating to their jaw
+
+264
+00:10:58,590 --> 00:11:00,850
+or to their left
+shoulder, those types of
+
+265
+00:11:00,850 --> 00:11:02,640
+things are much
+more narrow focused,
+
+266
+00:11:02,640 --> 00:11:05,630
+but the broader we
+get, the more wide, you
+
+267
+00:11:05,630 --> 00:11:07,350
+know, much more
+larger blanket we need
+
+268
+00:11:07,350 --> 00:11:09,710
+to use to cover all
+the possibilities.
+
+269
+00:11:10,090 --> 00:11:11,870
+So how do we organize and
+
+270
+00:11:11,870 --> 00:11:13,510
+interpret some of
+this information?
+
+271
+00:11:13,870 --> 00:11:15,530
+Well, we also
+want to look at
+
+272
+00:11:15,530 --> 00:11:17,270
+accurate problem
+presentation.
+
+273
+00:11:17,290 --> 00:11:19,630
+So what does this
+exactly mean,
+
+274
+00:11:19,970 --> 00:11:20,490
+right?
+
+275
+00:11:20,590 --> 00:11:23,930
+This is also the
+student. This is also the
+
+276
+00:11:23,930 --> 00:11:26,170
+student that
+essentially sums up your
+
+277
+00:11:26,170 --> 00:11:28,940
+assessment, right, of
+the patient with the
+
+278
+00:11:28,940 --> 00:11:30,910
+corresponding reasoning
+as to why the physician
+
+279
+00:11:30,910 --> 00:11:32,980
+feels that this is
+the correct diagnosis.
+
+280
+00:11:33,210 --> 00:11:36,170
+So we want to present
+the problem with
+
+281
+00:11:36,170 --> 00:11:38,590
+the case. So synthesizing
+and developing
+
+282
+00:11:38,590 --> 00:11:41,150
+the problem presentation.
+You basically make
+
+283
+00:11:41,150 --> 00:11:42,730
+sense of all the
+information gathered
+
+284
+00:11:42,730 --> 00:11:44,850
+to this point and form
+a problem presentation
+
+285
+00:11:44,850 --> 00:11:46,990
+or clinical picture.
+It's almost like
+
+286
+00:11:46,990 --> 00:11:48,930
+a one or two sentence
+oral presentation
+
+287
+00:11:48,930 --> 00:11:51,770
+based on the combined
+information given.
+
+288
+00:11:52,090 --> 00:11:54,490
+It concludes the
+initial information,
+
+289
+00:11:54,490 --> 00:11:56,010
+such as chief complaint,
+
+290
+00:11:56,010 --> 00:11:58,230
+epidemiology,
+and risk factors,
+
+291
+00:11:58,430 --> 00:12:00,730
+also the key features
+in the history
+
+292
+00:12:00,730 --> 00:12:02,970
+and physical
+exam, as well as
+
+293
+00:12:02,970 --> 00:12:05,050
+the results of
+diagnostic testing.
+
+294
+00:12:05,250 --> 00:12:07,450
+In your clinical
+documentation, the
+
+295
+00:12:07,450 --> 00:12:09,150
+problem presentation
+is also called the
+
+296
+00:12:09,150 --> 00:12:10,890
+summary statement
+that often starts
+
+297
+00:12:10,890 --> 00:12:12,670
+the assessment
+section of your note,
+
+298
+00:12:12,790 --> 00:12:15,050
+okay? There's also,
+you can review this in
+
+299
+00:12:15,050 --> 00:12:17,730
+Box 5, 2, and Bates
+3rd edition and try
+
+300
+00:12:17,730 --> 00:12:19,790
+writing a problem
+presentation of your own.
+
+301
+00:12:23,150 --> 00:12:25,390
+Generation of
+a hypothesis.
+
+302
+00:12:25,390 --> 00:12:27,070
+Now, what exactly
+do we mean here?
+
+303
+00:12:27,390 --> 00:12:29,270
+Okay. can you begin?
+
+304
+00:12:29,590 --> 00:12:32,190
+This goes to what is
+the thought process
+
+305
+00:12:32,190 --> 00:12:34,570
+behind when you
+start to actually
+
+306
+00:12:34,570 --> 00:12:37,130
+determine what the
+differential is, all
+
+307
+00:12:37,130 --> 00:12:38,990
+right? So a lot of
+times what we'll
+
+308
+00:12:38,990 --> 00:12:41,790
+have you do is before
+we even give you
+
+309
+00:12:41,790 --> 00:12:43,890
+the case, before we
+even go through the
+
+310
+00:12:43,890 --> 00:12:47,230
+scenario where, as
+we do in DPR lab,
+
+311
+00:12:47,670 --> 00:12:50,130
+one of your pod
+leader will play the
+
+312
+00:12:50,130 --> 00:12:52,730
+patient, and all of
+you will work together
+
+313
+00:12:52,730 --> 00:12:54,610
+in a round-robin
+format to ask the
+
+314
+00:12:54,610 --> 00:12:56,730
+appropriate questions
+in an interview format.
+
+315
+00:12:56,950 --> 00:13:00,010
+Before we even do
+that, we give you the
+
+316
+00:13:00,350 --> 00:13:02,650
+doorway information,
+which is the vitals,
+
+317
+00:13:02,650 --> 00:13:05,510
+and we ask you just
+based on the vitals, what
+
+318
+00:13:05,510 --> 00:13:07,650
+can you put together as
+a possible hypothesis?
+
+319
+00:13:07,750 --> 00:13:10,250
+So we want you to
+start to gather and
+
+320
+00:13:10,250 --> 00:13:12,470
+start the CDM, the
+clinical decision-making
+
+321
+00:13:12,470 --> 00:13:14,510
+process, before you
+even see the patient,
+
+322
+00:13:14,510 --> 00:13:17,030
+before you even walk in
+the room. We want you
+
+323
+00:13:17,030 --> 00:13:19,510
+to start generating
+hypotheses. Yes, they'll
+
+324
+00:13:19,510 --> 00:13:22,650
+be broad. For instance,
+if we give you a
+
+325
+00:13:22,650 --> 00:13:24,990
+set of vitals and all
+there is is a fever,
+
+326
+00:13:24,990 --> 00:13:26,990
+that'll give you some
+idea that there could
+
+327
+00:13:26,990 --> 00:13:29,390
+be some infectious
+process going on. But
+
+328
+00:13:29,390 --> 00:13:31,230
+obviously, without
+having seen or spoken to
+
+329
+00:13:31,230 --> 00:13:33,490
+the patient yet, there's
+still such a broad
+
+330
+00:13:33,490 --> 00:13:36,270
+range of what the possible
+differential could
+
+331
+00:13:36,270 --> 00:13:38,420
+be. But as soon as
+they tell you the chief
+
+332
+00:13:38,420 --> 00:13:40,260
+complaint, as soon as
+you start to ask you
+
+333
+00:13:40,260 --> 00:13:42,270
+questions, this is
+what I mean by you'll
+
+334
+00:13:42,270 --> 00:13:44,630
+start to be able to really
+narrow down eliminating
+
+335
+00:13:44,630 --> 00:13:47,130
+certain possibilities,
+including and
+
+336
+00:13:47,130 --> 00:13:49,370
+excluding others and
+ultimately getting to a
+
+337
+00:13:49,370 --> 00:13:54,130
+clinical decision okay
+so here we go generating
+
+338
+00:13:54,130 --> 00:13:56,150
+that hypothesis
+for each identified
+
+339
+00:13:56,150 --> 00:13:58,370
+problem or cluster of
+problems you want to
+
+340
+00:13:58,370 --> 00:14:00,250
+generate the clinical
+hypothesis for the
+
+341
+00:14:00,250 --> 00:14:04,150
+underlying cause or
+diagnosis as i said you start
+
+342
+00:14:04,150 --> 00:14:06,370
+by just looking at
+the basic doorway
+
+343
+00:14:06,370 --> 00:14:09,130
+information you you give
+yourself a differential
+
+344
+00:14:09,130 --> 00:14:10,830
+or some thoughts as
+to what could be going
+
+345
+00:14:10,830 --> 00:14:13,330
+then once you start to
+interview the patient
+
+346
+00:14:13,330 --> 00:14:15,530
+you do the same thing
+and you can narrow
+
+347
+00:14:15,530 --> 00:14:17,910
+each time you start
+more broad and you get
+
+348
+00:14:17,910 --> 00:14:20,890
+more narrow as you go
+through. Again, in Bates'
+
+349
+00:14:20,890 --> 00:14:23,490
+book Box 5.3, here's
+some approaches for
+
+350
+00:14:23,490 --> 00:14:25,630
+searching for probable
+causes of findings.
+
+351
+00:14:26,090 --> 00:14:29,430
+How do we determine
+or make a composite
+
+352
+00:14:29,430 --> 00:14:32,910
+list, if you will, of
+a differential based on
+
+353
+00:14:32,910 --> 00:14:35,750
+just a general number
+of findings, okay?
+
+354
+00:14:36,090 --> 00:14:39,190
+Generating exhaustive
+lists is the first
+
+355
+00:14:39,190 --> 00:14:40,810
+thing, and then matching
+findings against
+
+356
+00:14:40,810 --> 00:14:42,670
+all conditions that
+can produce them.
+
+357
+00:14:42,990 --> 00:14:45,150
+Ultimately, as
+we go through our
+
+358
+00:14:45,150 --> 00:14:46,890
+interview, we will
+be able to eliminate
+
+359
+00:14:46,890 --> 00:14:48,670
+diagnostic
+possibilities that
+
+360
+00:14:48,670 --> 00:14:50,590
+will fail to explain
+those findings.
+
+361
+00:14:51,200 --> 00:14:53,620
+Then we want to weigh the
+competing possibilities
+
+362
+00:14:53,620 --> 00:14:56,330
+and select the most
+likely diagnosis,
+
+363
+00:14:56,330 --> 00:14:58,710
+given special attention
+to potentially
+
+364
+00:14:58,710 --> 00:15:00,090
+life-threatening
+conditions.
+
+365
+00:15:00,090 --> 00:15:02,150
+So what am I
+referring to here?
+
+366
+00:15:02,150 --> 00:15:06,390
+So what we want to
+do is this is a great
+
+367
+00:15:06,390 --> 00:15:10,230
+tool, a great memory
+aid for a patient who,
+
+368
+00:15:10,230 --> 00:15:14,630
+let's say, presents with
+a diagnosis, a chief
+
+369
+00:15:14,630 --> 00:15:16,290
+complaint of chest
+pain. Okay, let's just
+
+370
+00:15:16,290 --> 00:15:18,670
+take chest pain.
+Here's a memory aid for
+
+371
+00:15:18,670 --> 00:15:20,710
+generating a differential
+diagnosis. This is
+
+372
+00:15:20,710 --> 00:15:23,810
+an exhaustive method.
+So if a doctor says,
+
+373
+00:15:23,810 --> 00:15:26,170
+what's the differential
+on a patient with
+
+374
+00:15:26,170 --> 00:15:28,350
+chest pain? What you
+do is you're using
+
+375
+00:15:28,350 --> 00:15:30,530
+mnemonics such as this.
+There are many, many
+
+376
+00:15:30,530 --> 00:15:32,450
+mnemonics. I learned
+different ones in my
+
+377
+00:15:32,450 --> 00:15:35,470
+residency. I used one
+called vitamin C and D,
+
+378
+00:15:35,470 --> 00:15:39,110
+but here's two well
+-constructed acronyms or
+
+379
+00:15:39,110 --> 00:15:41,010
+mnemonics, if you
+will, that give you a
+
+380
+00:15:41,010 --> 00:15:44,810
+full layout for
+generating a differential
+
+381
+00:15:44,810 --> 00:15:47,330
+diagnosis. So patient
+comes to you with chest
+
+382
+00:15:47,330 --> 00:15:49,850
+pain and you're trying
+to include what the
+
+383
+00:15:49,850 --> 00:15:51,230
+possible differential
+could be without
+
+384
+00:15:51,230 --> 00:15:54,230
+knowing anything else.
+You go through this list
+
+385
+00:15:54,230 --> 00:15:56,490
+and it includes all
+the various systems
+
+386
+00:15:56,490 --> 00:15:58,770
+and etiologies for where
+this chest pain can
+
+387
+00:15:58,770 --> 00:16:02,450
+be generated from. And
+you start with, the
+
+388
+00:16:02,450 --> 00:16:05,230
+one on the left here
+is Tom G. Prince, MD,
+
+389
+00:16:05,410 --> 00:16:08,070
+and that includes
+toxins and trauma,
+
+390
+00:16:08,350 --> 00:16:11,690
+oncologic. So chest
+pain, let's say it could
+
+391
+00:16:11,690 --> 00:16:14,130
+be a myxoma, tumor
+in the heart, right?
+
+392
+00:16:14,210 --> 00:16:18,150
+MSK, rheumatologic,
+okay? It could be, you
+
+393
+00:16:18,150 --> 00:16:20,610
+know, pericarditis, or
+not pericarditis, but
+
+394
+00:16:20,610 --> 00:16:23,290
+yeah, it could be a
+costochondritis for
+
+395
+00:16:23,290 --> 00:16:26,590
+chest pain. GI. So for
+a patient presenting
+
+396
+00:16:26,590 --> 00:16:28,530
+with chest pain, it
+could be GERD, right?
+
+397
+00:16:28,530 --> 00:16:31,030
+For pulmonary, it
+could be a pulmonary
+
+398
+00:16:31,030 --> 00:16:33,590
+embolism. So what I mean
+is you're going through
+
+399
+00:16:33,590 --> 00:16:36,370
+this list with the
+chief complaint of chest
+
+400
+00:16:36,370 --> 00:16:38,270
+pain and trying to
+correlate a specific
+
+401
+00:16:38,270 --> 00:16:40,530
+diagnosis based on all
+the systems presented
+
+402
+00:16:40,530 --> 00:16:43,850
+here. This is a great
+tool to use as a
+
+403
+00:16:43,850 --> 00:16:46,030
+third and fourth year
+medical student on
+
+404
+00:16:46,030 --> 00:16:48,530
+preclinical rotations,
+as well as on rounds.
+
+405
+00:16:48,530 --> 00:16:51,510
+Like I said, once you
+memorize this and get
+
+406
+00:16:51,510 --> 00:16:53,370
+familiar with how
+you can degenerated
+
+407
+00:16:53,370 --> 00:16:55,250
+differential, this is
+really going to help you on
+
+408
+00:16:55,250 --> 00:16:57,540
+the road going into
+your preclinical
+
+409
+00:16:57,540 --> 00:17:00,350
+rotations. The one on the
+right is just a different
+
+410
+00:17:00,350 --> 00:17:02,730
+form. It's a little
+less exhaustive,
+
+411
+00:17:02,730 --> 00:17:06,200
+but still is very
+inclusive with the various
+
+412
+00:17:06,200 --> 00:17:08,440
+acronyms that it uses,
+such as Vindicate,
+
+413
+00:17:09,130 --> 00:17:10,630
+vascular, infectious,
+
+414
+00:17:10,630 --> 00:17:12,390
+neoplastic, drug-related,
+
+415
+00:17:13,150 --> 00:17:15,450
+inflammatory, idiopathic,
+iatrogenic, which
+
+416
+00:17:15,450 --> 00:17:19,070
+is doctor induced and
+then finally congenital
+
+417
+00:17:19,070 --> 00:17:22,870
+autoimmune or allergic
+and trauma toxic
+
+418
+00:17:22,870 --> 00:17:26,190
+or endocrine and
+metabolic so like i said
+
+419
+00:17:26,190 --> 00:17:29,110
+pick anyone you don't
+have to pick you
+
+420
+00:17:29,110 --> 00:17:31,630
+know five of them you
+pick one that works for
+
+421
+00:17:31,630 --> 00:17:34,430
+you that's comprehensive
+and thorough i
+
+422
+00:17:34,430 --> 00:17:38,230
+like tom g prince md
+i use vitamin c and d
+
+423
+00:17:38,230 --> 00:17:41,020
+as well i can go over
+that in class but
+
+424
+00:17:41,020 --> 00:17:43,070
+there's many many different
+ones that are used
+
+425
+00:17:43,070 --> 00:17:45,510
+by students throughout.
+So keep this in
+
+426
+00:17:45,510 --> 00:17:47,610
+mind and pick one that
+really works for you.
+
+427
+00:17:48,830 --> 00:17:51,690
+So generating the
+hypothesis or differential
+
+428
+00:17:51,690 --> 00:17:54,310
+diagnosis. For each
+identified problem or
+
+429
+00:17:54,310 --> 00:17:55,970
+cluster of problems,
+you will generate a
+
+430
+00:17:55,970 --> 00:17:59,110
+clinical hypothesis for
+the underlying thoughts.
+
+431
+00:17:59,170 --> 00:18:02,270
+So again, box three,
+approaching to search
+
+432
+00:18:02,270 --> 00:18:04,630
+for probable cause of
+the findings. As I said,
+
+433
+00:18:04,630 --> 00:18:06,670
+we generated our
+list as we did in the
+
+434
+00:18:06,670 --> 00:18:08,970
+previous slides. We match
+the findings against
+
+435
+00:18:08,970 --> 00:18:11,790
+all conditions. And
+then the last two points
+
+436
+00:18:11,790 --> 00:18:13,910
+here, weighing
+competing possibilities,
+
+437
+00:18:13,990 --> 00:18:17,290
+selecting the most likely
+diagnosis, and giving
+
+438
+00:18:17,290 --> 00:18:19,710
+special attention, as
+we said earlier, to
+
+439
+00:18:19,710 --> 00:18:21,950
+potentially life-threatening
+conditions because
+
+440
+00:18:21,950 --> 00:18:24,230
+we don't want to miss
+that. I'll share a
+
+441
+00:18:24,230 --> 00:18:26,550
+brief story with you.
+It's a very famous story
+
+442
+00:18:26,550 --> 00:18:30,270
+about a composer, a
+Broadway composer,
+
+443
+00:18:30,270 --> 00:18:33,050
+Jonathan Larson, who
+wrote the play Rent. The
+
+444
+00:18:33,050 --> 00:18:36,250
+week before the play was
+to come out, actually
+
+445
+00:18:36,250 --> 00:18:38,890
+the night before, he
+presented to the ER in
+
+446
+00:18:38,890 --> 00:18:41,410
+a city hospital
+complaining of chest pain.
+
+447
+00:18:41,550 --> 00:18:44,370
+The doctors examined
+him, they did a thorough
+
+448
+00:18:44,370 --> 00:18:46,540
+examination, and
+their initial feelings
+
+449
+00:18:46,540 --> 00:18:49,490
+was that it was either
+an infection or something
+
+450
+00:18:49,490 --> 00:18:52,340
+that they gave him
+some aspirin and some
+
+451
+00:18:52,340 --> 00:18:54,330
+medication to go home
+with, which he did.
+
+452
+00:18:54,670 --> 00:18:57,230
+That night, he
+went home and he
+
+453
+00:18:57,230 --> 00:18:58,890
+ended up collapsing
+on the floor
+
+454
+00:18:58,890 --> 00:19:02,530
+and dying from an
+aortic aneurysm.
+
+455
+00:19:03,430 --> 00:19:06,430
+His aorta split open
+and he bled out and
+
+456
+00:19:06,430 --> 00:19:09,970
+died at home. And it
+was missed. And the
+
+457
+00:19:09,970 --> 00:19:11,870
+fact is, this is
+one of those cases
+
+458
+00:19:11,870 --> 00:19:15,790
+where you needed to
+consider a possible or
+
+459
+00:19:15,790 --> 00:19:17,870
+potentially life
+-threatening situation.
+
+460
+00:19:18,130 --> 00:19:20,270
+These sorts of
+things, although
+
+461
+00:19:20,270 --> 00:19:22,710
+rare, you don't
+want to miss it. And
+
+462
+00:19:22,710 --> 00:19:24,750
+if there's any
+suspicion at all,
+
+463
+00:19:25,260 --> 00:19:27,390
+trust your gut,
+weigh all the
+
+464
+00:19:27,390 --> 00:19:29,450
+information that's
+presented to you, and
+
+465
+00:19:29,450 --> 00:19:31,400
+make sure you do a
+thorough evaluation
+
+466
+00:19:31,450 --> 00:19:33,510
+before coming
+to a conclusion.
+
+467
+00:19:34,750 --> 00:19:35,790
+Okay. Okay.
+
+468
+00:19:36,090 --> 00:19:38,470
+Next part of this
+will be search for and
+
+469
+00:19:38,470 --> 00:19:40,710
+selection of an
+illness script. So
+
+470
+00:19:40,710 --> 00:19:42,170
+what is an illness
+script? It's something
+
+471
+00:19:42,170 --> 00:19:44,370
+that we're going to
+start to introduce
+
+472
+00:19:44,370 --> 00:19:47,790
+to you moving
+forward in the coming
+
+473
+00:19:47,790 --> 00:19:50,450
+weeks and certainly
+in the next semester.
+
+474
+00:19:50,950 --> 00:19:53,030
+And I will explain
+a little bit about
+
+475
+00:19:53,030 --> 00:19:54,670
+what they are if you
+haven't heard of them.
+
+476
+00:19:54,710 --> 00:19:57,470
+An illness script,
+excuse me, is an
+
+477
+00:19:57,470 --> 00:19:59,470
+organized mental
+summary of a clinician's
+
+478
+00:19:59,470 --> 00:20:01,330
+knowledge of a
+disease. It essentially
+
+479
+00:20:01,330 --> 00:20:04,130
+lays out everything
+about that disease
+
+480
+00:20:04,130 --> 00:20:06,630
+in a very short
+fashion that gives you
+
+481
+00:20:06,630 --> 00:20:08,750
+the bullet points.
+It'll include
+
+482
+00:20:08,810 --> 00:20:12,530
+pathophysiology of the
+disease, epidemiology,
+
+483
+00:20:12,850 --> 00:20:13,970
+time course,
+
+484
+00:20:14,190 --> 00:20:16,290
+salient symptoms
+and signs,
+
+485
+00:20:16,470 --> 00:20:19,550
+diagnostic tests
+used to diagnose, as
+
+486
+00:20:19,550 --> 00:20:21,770
+well as the treatments
+for that particular
+
+487
+00:20:21,770 --> 00:20:25,450
+disease. And at
+NYTCOM, we also
+
+488
+00:20:25,450 --> 00:20:28,070
+will include osteopathic
+considerations,
+
+489
+00:20:28,070 --> 00:20:29,590
+which is something
+you could find in
+
+490
+00:20:29,590 --> 00:20:31,150
+some of your texts
+and resources here
+
+491
+00:20:31,150 --> 00:20:33,370
+at the library and
+in your OMM course.
+
+492
+00:20:35,250 --> 00:20:36,910
+now close your
+eyes let's try
+
+493
+00:20:36,910 --> 00:20:38,730
+this example when
+you close your
+
+494
+00:20:38,730 --> 00:20:40,930
+eyes and picture
+a firetruck
+
+495
+00:20:41,190 --> 00:20:42,670
+what does it
+look like to you
+
+496
+00:20:42,670 --> 00:20:44,650
+what color is it
+what's the shape
+
+497
+00:20:44,650 --> 00:20:47,530
+of it i'll give
+you a moment
+
+498
+00:20:51,550 --> 00:20:54,150
+is this sort of what
+you picture obviously
+
+499
+00:20:54,550 --> 00:20:57,030
+we have the red truck
+we have the ladder
+
+500
+00:20:57,030 --> 00:20:59,170
+this is something
+we've seen over the
+
+501
+00:20:59,170 --> 00:21:01,810
+course of all of our
+lives as young children
+
+502
+00:21:02,370 --> 00:21:04,470
+adults hearing the
+sounds you can almost
+
+503
+00:21:04,470 --> 00:21:06,210
+picture the sounds
+and that that
+
+504
+00:21:06,210 --> 00:21:08,630
+fire truck moving you
+know down the road
+
+505
+00:21:08,630 --> 00:21:09,890
+right so this is
+something you've
+
+506
+00:21:09,890 --> 00:21:12,910
+seen on tv shows
+you've seen in person
+
+507
+00:21:13,170 --> 00:21:15,910
+you know who's driving
+it you know when when
+
+508
+00:21:15,910 --> 00:21:17,610
+they're coming about
+when there's a fire
+
+509
+00:21:17,610 --> 00:21:19,490
+right so this is
+something you're used to
+
+510
+00:21:19,490 --> 00:21:22,610
+seeing now what if i
+showed you this picture
+
+511
+00:21:22,610 --> 00:21:24,680
+instead and asked you
+to tell me what it is
+
+512
+00:21:24,680 --> 00:21:26,910
+now it doesn't look
+anything like the one
+
+513
+00:21:26,910 --> 00:21:29,890
+i just showed you It's
+yellow. I don't see
+
+514
+00:21:29,890 --> 00:21:33,570
+a ladder. I don't see
+any firemen. But the
+
+515
+00:21:33,570 --> 00:21:38,070
+fact is, this is a
+firetruck, okay? Not one
+
+516
+00:21:38,070 --> 00:21:40,430
+that we're normally
+used to seeing. So the
+
+517
+00:21:40,430 --> 00:21:42,290
+equivalent of this is
+what I talked a little
+
+518
+00:21:42,290 --> 00:21:45,010
+bit about before,
+like zebras. We know
+
+519
+00:21:45,010 --> 00:21:47,610
+what we expect to see
+based on heuristics,
+
+520
+00:21:47,610 --> 00:21:50,410
+mental shortcuts, and
+our history of looking
+
+521
+00:21:50,410 --> 00:21:53,390
+for things and knowing
+what to expect when
+
+522
+00:21:53,390 --> 00:21:55,910
+we hear certain key
+words, catchphrases.
+
+523
+00:21:55,910 --> 00:21:57,750
+All right, that's the
+heuristics I mentioned
+
+524
+00:21:57,750 --> 00:22:00,190
+earlier. But sometimes
+you do get zebras,
+
+525
+00:22:00,190 --> 00:22:02,610
+and this is not something
+that you would have
+
+526
+00:22:02,610 --> 00:22:05,070
+expected, but it's
+also a firetruck, and
+
+527
+00:22:05,070 --> 00:22:07,170
+it's important to
+note. And what's the
+
+528
+00:22:07,170 --> 00:22:11,870
+correlation of this? The
+fact is, similar diagnoses
+
+529
+00:22:11,870 --> 00:22:15,210
+and assessments
+that present with a
+
+530
+00:22:15,210 --> 00:22:17,330
+chief complaint can often
+present differently,
+
+531
+00:22:17,330 --> 00:22:19,440
+but ultimately lead to
+the same conclusion.
+
+532
+00:22:19,440 --> 00:22:22,130
+And it's important
+to evaluate each case
+
+533
+00:22:22,130 --> 00:22:24,650
+individually, looking
+at all the data and
+
+534
+00:22:24,650 --> 00:22:26,710
+not making assumptions,
+although it's easy
+
+535
+00:22:26,710 --> 00:22:29,770
+to base it on our
+history of utilizing the
+
+536
+00:22:29,770 --> 00:22:31,890
+same data we've had in
+previous cases, because
+
+537
+00:22:31,890 --> 00:22:33,380
+everything's based
+on our knowledge and
+
+538
+00:22:33,380 --> 00:22:35,890
+experiences. But as
+we start to put that
+
+539
+00:22:35,890 --> 00:22:38,870
+together, we want to
+become more cognizant of
+
+540
+00:22:38,870 --> 00:22:41,070
+those zebras, of the
+things that are presenting
+
+541
+00:22:41,070 --> 00:22:43,210
+slightly off or
+differently that won't
+
+542
+00:22:43,210 --> 00:22:46,350
+always appear as the
+classic case, right?
+
+543
+00:22:46,430 --> 00:22:48,250
+You know, if someone
+presents with chest
+
+544
+00:22:48,250 --> 00:22:51,010
+pain radiating to the
+jaw, we know what we're
+
+545
+00:22:51,010 --> 00:22:52,670
+thinking. It's like
+that fire truck, that
+
+546
+00:22:52,670 --> 00:22:55,230
+red fire truck. We know
+that it could be an
+
+547
+00:22:55,230 --> 00:22:57,150
+MI, it could be something
+cardiac related.
+
+548
+00:22:57,150 --> 00:23:00,190
+But if I tell you
+that the patient just
+
+549
+00:23:00,190 --> 00:23:03,630
+feels, it's an older
+patient that presents
+
+550
+00:23:03,630 --> 00:23:07,590
+with fatigue, and they
+just feel a little
+
+551
+00:23:07,590 --> 00:23:10,450
+lightheaded, and they have
+a history of diabetes,
+
+552
+00:23:10,450 --> 00:23:12,630
+turns out they could
+still have an MI.
+
+553
+00:23:12,630 --> 00:23:15,230
+Because a lot of
+times, older patients
+
+554
+00:23:15,230 --> 00:23:16,590
+don't always
+necessarily present with
+
+555
+00:23:16,590 --> 00:23:18,690
+chest pain. And it may
+not always be in the
+
+556
+00:23:18,690 --> 00:23:20,150
+same presentation,
+but ultimately it
+
+557
+00:23:20,150 --> 00:23:22,290
+would be the same
+diagnosis. The point is
+
+558
+00:23:22,290 --> 00:23:23,900
+that you need to gather
+all the information,
+
+559
+00:23:23,900 --> 00:23:25,710
+put together the
+whole history to
+
+560
+00:23:25,710 --> 00:23:27,770
+come up with a conclusion
+without jumping
+
+561
+00:23:27,770 --> 00:23:29,630
+to conclusions, if
+that makes sense.
+
+562
+00:23:31,910 --> 00:23:33,930
+Components of the
+illness script, okay?
+
+563
+00:23:33,930 --> 00:23:35,990
+As I talked about,
+this is a sample
+
+564
+00:23:35,990 --> 00:23:38,430
+illness script. So
+this is an illness
+
+565
+00:23:38,430 --> 00:23:40,310
+script on community
+-acquired pneumonia,
+
+566
+00:23:40,670 --> 00:23:43,050
+all right? It
+includes epidemiology
+
+567
+00:23:43,050 --> 00:23:45,710
+and pathophysiology,
+and you see what
+
+568
+00:23:45,710 --> 00:23:47,710
+increases the
+person's risk with,
+
+569
+00:23:47,710 --> 00:23:50,470
+the time course,
+how long it lasts,
+
+570
+00:23:50,550 --> 00:23:53,450
+The salient signs
+and symptoms, fever,
+
+571
+00:23:53,450 --> 00:23:56,490
+cough, shortness of
+breath, tachycardia, and
+
+572
+00:23:56,490 --> 00:23:59,490
+so on and so forth.
+What diagnostic labs
+
+573
+00:23:59,490 --> 00:24:01,570
+are used to diagnose
+community-acquired
+
+574
+00:24:01,570 --> 00:24:04,090
+pneumonia and ultimately
+the treatments. As I
+
+575
+00:24:04,090 --> 00:24:06,900
+said before, we would
+also include osteopathic
+
+576
+00:24:06,900 --> 00:24:10,310
+considerations, which
+will include what
+
+577
+00:24:10,310 --> 00:24:12,350
+somatic dysfunctions
+most likely present
+
+578
+00:24:12,350 --> 00:24:14,850
+in the case, What
+findings would you would
+
+579
+00:24:14,850 --> 00:24:17,690
+you consider pneumonia
+for or what what
+
+580
+00:24:17,690 --> 00:24:19,470
+somatic dysfunctions
+are most commonly
+
+581
+00:24:19,470 --> 00:24:22,170
+associated with that
+particular disease state?
+
+582
+00:24:22,730 --> 00:24:23,810
+OK,
+
+583
+00:24:24,430 --> 00:24:27,050
+last component or key
+element. This is the
+
+584
+00:24:27,050 --> 00:24:30,730
+diagnosis. Right. So
+this comes down to
+
+585
+00:24:30,980 --> 00:24:33,570
+how do we reach our
+ultimate conclusion?
+
+586
+00:24:33,630 --> 00:24:34,170
+Right.
+
+587
+00:24:34,350 --> 00:24:36,730
+Assessment of
+diagnosis. Now, from a
+
+588
+00:24:36,730 --> 00:24:39,350
+documentation standpoint,
+and this is something
+
+589
+00:24:39,350 --> 00:24:42,580
+that you'll be doing,
+going into your CSAs,
+
+590
+00:24:42,830 --> 00:24:46,990
+going into the Ferrara
+Center and simulation
+
+591
+00:24:46,990 --> 00:24:48,850
+lab encounters that
+you'll be doing through
+
+592
+00:24:48,850 --> 00:24:51,270
+this year and next year.
+Once you go through
+
+593
+00:24:51,270 --> 00:24:53,570
+these cases and
+ultimately complete and
+
+594
+00:24:53,570 --> 00:24:56,090
+compile an entire SOAP
+note, this is still
+
+595
+00:24:56,090 --> 00:25:01,190
+early on in your careers
+as medical students,
+
+596
+00:25:01,290 --> 00:25:05,790
+but starting later on
+in your spring semester,
+
+597
+00:25:05,790 --> 00:25:07,750
+in this semester,
+you're going to be asked
+
+598
+00:25:07,750 --> 00:25:09,810
+to compose the
+assessment and diagnosis.
+
+599
+00:25:09,890 --> 00:25:12,430
+And when we write an
+assessment, you always
+
+600
+00:25:12,430 --> 00:25:15,680
+want to list the diagnosis
+in the assessment
+
+601
+00:25:15,680 --> 00:25:17,390
+section of the
+note. Now, what does
+
+602
+00:25:17,390 --> 00:25:19,730
+this include? The
+diagnosis may be very
+
+603
+00:25:19,730 --> 00:25:21,690
+straightforward. It
+could also be more
+
+604
+00:25:21,690 --> 00:25:24,270
+challenging and require
+further information to
+
+605
+00:25:24,270 --> 00:25:26,510
+get to that file
+diagnosis if there are
+
+606
+00:25:26,510 --> 00:25:28,710
+multiple causes for the
+patient's condition.
+
+607
+00:25:28,920 --> 00:25:30,750
+You want to be
+as specific as
+
+608
+00:25:30,750 --> 00:25:33,030
+the data will
+allow. For example,
+
+609
+00:25:33,190 --> 00:25:36,030
+subarachnoid
+hemorrhage, unspecified
+
+610
+00:25:36,030 --> 00:25:37,590
+versus subarachnoid
+hemorrhage,
+
+611
+00:25:37,590 --> 00:25:39,490
+left temporal lobe.
+As you can see,
+
+612
+00:25:39,490 --> 00:25:41,090
+there's different
+ways to label it.
+
+613
+00:25:41,470 --> 00:25:45,430
+A simple diagnosis.
+So for an assessment,
+
+614
+00:25:45,430 --> 00:25:47,350
+the patient presents
+with chest pain,
+
+615
+00:25:47,350 --> 00:25:49,630
+as we've used this
+example before. What
+
+616
+00:25:49,630 --> 00:25:51,830
+could the diagnosis
+be? It could be
+
+617
+00:25:51,830 --> 00:25:54,850
+stable angina. It could
+be unstable angina.
+
+618
+00:25:54,850 --> 00:25:56,290
+It could be
+myocardial infarction.
+
+619
+00:25:56,370 --> 00:25:59,050
+It could be
+pericarditis. It could be
+
+620
+00:25:59,340 --> 00:26:01,570
+gastroesophageal
+reflux disease or GERD.
+
+621
+00:26:01,690 --> 00:26:04,070
+There's a large number
+of possibilities
+
+622
+00:26:04,070 --> 00:26:06,130
+in the differential
+diagnosis, but you
+
+623
+00:26:06,130 --> 00:26:08,010
+want to be as specific
+as possible based
+
+624
+00:26:08,010 --> 00:26:09,830
+on the information
+provided in the note.
+
+625
+00:26:09,830 --> 00:26:11,770
+You don't want to
+give a diagnosis such
+
+626
+00:26:11,770 --> 00:26:19,010
+as dehydration or
+weight loss. Those are
+
+627
+00:26:19,010 --> 00:26:21,330
+more symptoms or part
+of a problem list.
+
+628
+00:26:21,330 --> 00:26:23,190
+So you really want
+to put the assessment
+
+629
+00:26:23,190 --> 00:26:25,910
+as your most likely
+diagnosis based on
+
+630
+00:26:25,910 --> 00:26:28,330
+the information provided
+to your ultimate
+
+631
+00:26:28,330 --> 00:26:29,970
+conclusion that you're
+trying to reach.
+
+632
+00:26:30,650 --> 00:26:32,930
+Now, planning the
+diagnostic and treatment
+
+633
+00:26:32,930 --> 00:26:35,210
+strategies. The plan
+of care should be
+
+634
+00:26:35,210 --> 00:26:37,650
+logical flow from your
+working diagnosis listed
+
+635
+00:26:37,650 --> 00:26:39,450
+in the assessment
+section of your note.
+
+636
+00:26:39,450 --> 00:26:42,370
+What does the plan
+always include? So once
+
+637
+00:26:42,370 --> 00:26:44,070
+you've done your
+assessment, now you have
+
+638
+00:26:44,070 --> 00:26:47,050
+to compose a plan based
+on that diagnosis.
+
+639
+00:26:47,070 --> 00:26:49,970
+These are not always,
+this is not an
+
+640
+00:26:49,970 --> 00:26:52,030
+exhaustive list, but
+includes many of the things
+
+641
+00:26:52,030 --> 00:26:55,790
+that you will find
+as part of your plan.
+
+642
+00:26:55,870 --> 00:26:58,010
+And when you're
+writing your soap note,
+
+643
+00:26:58,010 --> 00:26:59,830
+these are the
+components. You can start
+
+644
+00:26:59,830 --> 00:27:01,650
+with laboratory tests
+that allow you to
+
+645
+00:27:01,650 --> 00:27:03,730
+differentiate
+between two potential
+
+646
+00:27:03,730 --> 00:27:06,530
+diagnoses and guide your
+therapeutic management
+
+647
+00:27:06,530 --> 00:27:08,790
+of the patient.
+This could be a CDC,
+
+648
+00:27:08,790 --> 00:27:11,490
+a CHEM-12. If you're,
+as I said, with
+
+649
+00:27:11,490 --> 00:27:13,170
+chest pain and you're
+concerned about a
+
+650
+00:27:13,170 --> 00:27:14,950
+possible MI, you
+would order cardiac
+
+651
+00:27:14,950 --> 00:27:18,230
+enzymes, troponin, and
+so on and so forth.
+
+652
+00:27:19,130 --> 00:27:20,730
+Diagnostic
+interventions would be
+
+653
+00:27:20,730 --> 00:27:22,090
+the next component,
+and that could
+
+654
+00:27:22,090 --> 00:27:25,250
+include x-rays,
+CAT scans, MRIs,
+
+655
+00:27:26,050 --> 00:27:29,490
+VQ scans to rule out
+a pulmonary embolism,
+
+656
+00:27:29,490 --> 00:27:31,770
+to rule out a deep
+venous thrombosis
+
+657
+00:27:31,770 --> 00:27:34,460
+or a DVT. We might
+want to do Doppler
+
+658
+00:27:34,700 --> 00:27:36,680
+ultrasounds of the
+lower extremities.
+
+659
+00:27:36,680 --> 00:27:38,470
+So those are the
+types of diagnostic
+
+660
+00:27:38,470 --> 00:27:40,210
+interventions that
+we're talking about.
+
+661
+00:27:40,670 --> 00:27:42,710
+Patient education
+or counseling.
+
+662
+00:27:42,870 --> 00:27:45,150
+Every single plan
+that you write, you
+
+663
+00:27:45,150 --> 00:27:47,050
+would want to include
+counseling. And what
+
+664
+00:27:47,050 --> 00:27:48,300
+are you going to
+counsel the patient?
+
+665
+00:27:48,370 --> 00:27:50,030
+Now, there's a lot
+of things you can
+
+666
+00:27:50,030 --> 00:27:51,590
+counsel patients
+on, and I promise
+
+667
+00:27:51,590 --> 00:27:53,390
+there's always something
+you could find,
+
+668
+00:27:53,390 --> 00:27:55,150
+even if it's not
+always apparent.
+
+669
+00:27:55,370 --> 00:27:57,710
+So some of the things
+that are very common
+
+670
+00:27:57,710 --> 00:27:59,970
+are found in the social
+history of the patient,
+
+671
+00:27:59,970 --> 00:28:02,270
+the fed tacos we
+often talk about. That
+
+672
+00:28:02,270 --> 00:28:04,550
+could be diet. That
+could be eating a better
+
+673
+00:28:04,550 --> 00:28:07,190
+diet. Picking a
+specific diet is always
+
+674
+00:28:07,190 --> 00:28:09,370
+something that you can
+do. Get comfortable with
+
+675
+00:28:09,370 --> 00:28:11,650
+understanding either
+the DASH diet, the
+
+676
+00:28:11,650 --> 00:28:13,870
+Mediterranean diet,
+or any one of the more
+
+677
+00:28:13,870 --> 00:28:16,270
+approved diets that you
+can have a good working
+
+678
+00:28:16,270 --> 00:28:17,830
+knowledge of and
+educate keep the patient
+
+679
+00:28:17,830 --> 00:28:19,910
+on that will help them
+in their counseling.
+
+680
+00:28:20,430 --> 00:28:23,770
+You can counsel them
+on smoking or tobacco
+
+681
+00:28:23,770 --> 00:28:29,410
+or illicit drug or
+even caffeine cut down
+
+682
+00:28:29,410 --> 00:28:31,870
+or cessation. So
+cutting down on anything
+
+683
+00:28:31,870 --> 00:28:34,370
+that could be considered
+a risk factor for
+
+684
+00:28:34,370 --> 00:28:36,190
+causing whatever
+symptoms they may have,
+
+685
+00:28:36,190 --> 00:28:37,790
+which is to improve
+the overall quality of
+
+686
+00:28:37,790 --> 00:28:39,510
+life. These are things
+you want to counsel
+
+687
+00:28:39,510 --> 00:28:41,750
+them on. Other things
+you can counsel them on
+
+688
+00:28:41,750 --> 00:28:43,330
+are even in the
+healthcare maintenance
+
+689
+00:28:43,330 --> 00:28:45,610
+component. You can
+actually counsel patients
+
+690
+00:28:45,610 --> 00:28:48,750
+on, you know, if they're
+a 50-year-old male
+
+691
+00:28:48,750 --> 00:28:52,470
+and they had a father
+that had colon cancer,
+
+692
+00:28:52,470 --> 00:28:54,210
+yet they've never had
+a colonoscopy, you
+
+693
+00:28:54,210 --> 00:28:56,230
+can counsel them on
+healthcare maintenance
+
+694
+00:28:56,230 --> 00:28:57,910
+and understanding
+that it's about time
+
+695
+00:28:57,910 --> 00:29:00,090
+that they consider
+getting a colonoscopy,
+
+696
+00:29:00,350 --> 00:29:02,990
+especially since there
+should have gotten one
+
+697
+00:29:02,990 --> 00:29:06,450
+at 45 or 50. But still,
+it's something that
+
+698
+00:29:06,450 --> 00:29:08,730
+you can help to
+work on counseling a
+
+699
+00:29:08,730 --> 00:29:11,510
+patient, not just for
+the components of the
+
+700
+00:29:11,510 --> 00:29:14,170
+social history that may
+be, you know, a little
+
+701
+00:29:14,170 --> 00:29:16,310
+bit more of an outlier
+or even, like I
+
+702
+00:29:16,310 --> 00:29:18,050
+said, the healthcare
+maintenance components.
+
+703
+00:29:18,250 --> 00:29:20,870
+A woman who's 50
+years old, has never
+
+704
+00:29:20,870 --> 00:29:23,920
+had a mammography
+or is behind in
+
+705
+00:29:23,920 --> 00:29:26,930
+their testing for
+certain types of
+
+706
+00:29:26,930 --> 00:29:28,990
+cancer. Those are
+the types of things
+
+707
+00:29:28,990 --> 00:29:30,570
+that you can counsel
+them on as well.
+
+708
+00:29:31,390 --> 00:29:33,310
+Medication changes.
+All right. So
+
+709
+00:29:33,310 --> 00:29:35,410
+take a patient
+who's hypertensive.
+
+710
+00:29:35,710 --> 00:29:37,690
+They've been on
+medications, but they
+
+711
+00:29:37,690 --> 00:29:39,010
+come in and their
+blood pressure has
+
+712
+00:29:39,010 --> 00:29:40,730
+been running high for
+the last few visits.
+
+713
+00:29:40,730 --> 00:29:42,630
+you want to
+consider changing,
+
+714
+00:29:42,630 --> 00:29:44,670
+increasing, or altering
+their medications.
+
+715
+00:29:44,670 --> 00:29:46,250
+So that's something
+else you can
+
+716
+00:29:46,250 --> 00:29:48,270
+counsel and work on
+with them as well.
+
+717
+00:29:49,850 --> 00:29:51,950
+So again, patient
+comes in with chest
+
+718
+00:29:51,950 --> 00:29:54,110
+pain, you find
+out that you're
+
+719
+00:29:54,110 --> 00:29:56,630
+concerned about a
+possible MI, and because
+
+720
+00:29:56,630 --> 00:29:57,910
+they have a lot
+of risk factors,
+
+721
+00:29:57,910 --> 00:29:59,070
+you're going to
+want to refer them,
+
+722
+00:29:59,130 --> 00:30:01,410
+probably to a cardiologist,
+let's say, for
+
+723
+00:30:01,410 --> 00:30:04,350
+an echo and a stress
+test. So referring a
+
+724
+00:30:04,350 --> 00:30:06,730
+patient out to a
+specialist is something
+
+725
+00:30:06,730 --> 00:30:10,070
+else you want to consider
+here. um also the
+
+726
+00:30:10,070 --> 00:30:11,990
+follow visit every
+single note should
+
+727
+00:30:11,990 --> 00:30:14,390
+always have a follow
+visit and it should be
+
+728
+00:30:14,390 --> 00:30:16,830
+fairly specific to the
+working diagnosis if
+
+729
+00:30:16,830 --> 00:30:18,410
+a patient comes in
+with chest pain and
+
+730
+00:30:18,410 --> 00:30:20,140
+you're trying to
+rule out a myocardial
+
+731
+00:30:20,150 --> 00:30:22,590
+infarction you're not
+going to want to come have
+
+732
+00:30:22,590 --> 00:30:24,290
+them come back in
+four months or six
+
+733
+00:30:24,290 --> 00:30:26,720
+months you want to have
+them come back within
+
+734
+00:30:26,830 --> 00:30:28,850
+the net within the
+past within the next
+
+735
+00:30:28,850 --> 00:30:31,730
+two to four weeks or
+sooner depending on when
+
+736
+00:30:31,730 --> 00:30:33,750
+they you referral
+to the cardiologist
+
+737
+00:30:33,750 --> 00:30:35,650
+occurs where you can
+review their lab work
+
+738
+00:30:35,650 --> 00:30:37,310
+and whatever testing
+might have been done.
+
+739
+00:30:37,910 --> 00:30:39,810
+Now, the one thing
+that's not mentioned here
+
+740
+00:30:39,810 --> 00:30:42,370
+that I did want to
+include is pretty much
+
+741
+00:30:42,370 --> 00:30:45,410
+every plan should also
+include or offer OMT
+
+742
+00:30:45,410 --> 00:30:47,930
+or osteopathic manipulative
+treatment based
+
+743
+00:30:47,930 --> 00:30:50,190
+on the OSC, the
+osteopathic structural
+
+744
+00:30:50,190 --> 00:30:53,210
+exam that was given in
+your objective note.
+
+745
+00:30:53,210 --> 00:30:55,210
+So make sure that you
+do include that as
+
+746
+00:30:55,210 --> 00:30:57,730
+well. And of course,
+looking at this, you want
+
+747
+00:30:57,730 --> 00:30:59,910
+to make sure that the
+plan is safe, that
+
+748
+00:30:59,910 --> 00:31:02,210
+it's cost-effective,
+that you're not doing
+
+749
+00:31:02,210 --> 00:31:04,650
+unnecessary testing
+based on the setting that
+
+750
+00:31:04,650 --> 00:31:06,970
+you're in. Now, again,
+we talk about chest
+
+751
+00:31:06,970 --> 00:31:09,690
+pain. If you don't
+think it might really
+
+752
+00:31:09,690 --> 00:31:11,990
+be a chest pain that's
+a cardiac event, and
+
+753
+00:31:11,990 --> 00:31:15,150
+it might just be
+gastroesophageal reflux,
+
+754
+00:31:15,150 --> 00:31:16,770
+and you're thinking,
+all right, maybe I want
+
+755
+00:31:16,770 --> 00:31:19,330
+to order cardiac
+enzymes. Be mindful that
+
+756
+00:31:19,330 --> 00:31:21,330
+you wouldn't order
+cardiac enzymes in a
+
+757
+00:31:21,330 --> 00:31:24,270
+setting like a clinic.
+You'd want to actually
+
+758
+00:31:24,270 --> 00:31:27,090
+refer the patient to
+an ER or someplace
+
+759
+00:31:27,090 --> 00:31:30,330
+where they can be closely
+monitored, especially
+
+760
+00:31:30,330 --> 00:31:31,710
+if you're trying to
+rule out a significant
+
+761
+00:31:31,710 --> 00:31:34,710
+event, if those risk
+factors give you the
+
+762
+00:31:34,710 --> 00:31:36,830
+reason to want to do
+a testing like that.
+
+763
+00:31:38,690 --> 00:31:40,030
+Diagnostic errors.
+
+764
+00:31:40,250 --> 00:31:42,190
+Diagnostic errors
+have been implicated
+
+765
+00:31:42,190 --> 00:31:44,410
+in 15% of
+clinical decisions
+
+766
+00:31:44,590 --> 00:31:47,550
+with medical-legal
+repercussions, and this
+
+767
+00:31:47,550 --> 00:31:50,790
+goes to the case that
+I mentioned before.
+
+768
+00:31:50,790 --> 00:31:53,530
+And a lot of times
+it's doctors who use
+
+769
+00:31:53,530 --> 00:31:56,610
+either System 1 or System
+2. Sometimes doctors
+
+770
+00:31:56,610 --> 00:31:59,110
+feel very confident
+in system one. They
+
+771
+00:31:59,110 --> 00:32:01,010
+don't use as much logic
+and reasoning, but
+
+772
+00:32:01,010 --> 00:32:02,870
+because they have so
+much experience seeing
+
+773
+00:32:02,870 --> 00:32:04,930
+a patient with that
+particular presentation,
+
+774
+00:32:04,930 --> 00:32:08,850
+they kind of use
+more of a narrow
+
+775
+00:32:08,850 --> 00:32:11,570
+provincial approach, if
+you will, towards the
+
+776
+00:32:11,570 --> 00:32:13,970
+diagnostic process,
+such as I mentioned
+
+777
+00:32:13,970 --> 00:32:16,330
+with the Jonathan
+Morrison case. Of course,
+
+778
+00:32:16,330 --> 00:32:18,570
+it was an outlier and
+a zebra, and maybe
+
+779
+00:32:18,570 --> 00:32:21,370
+not every patient
+presents with chest pain
+
+780
+00:32:21,370 --> 00:32:23,830
+that's automatically
+considered a searing
+
+781
+00:32:23,830 --> 00:32:26,450
+aortic aneurysm. But
+the fact of the matter
+
+782
+00:32:26,450 --> 00:32:27,670
+is, it's something
+that you need to
+
+783
+00:32:27,670 --> 00:32:29,790
+consider if any of the
+other signs are there.
+
+784
+00:32:31,290 --> 00:32:33,290
+Misdiagnosis is the
+potential to cause serious
+
+785
+00:32:33,290 --> 00:32:35,330
+harm to patients as
+it sets up a cascade
+
+786
+00:32:35,330 --> 00:32:37,710
+of subsequent mistreatments.
+You start with
+
+787
+00:32:37,710 --> 00:32:40,110
+one wrong thing, and
+then it cascades down
+
+788
+00:32:40,110 --> 00:32:44,070
+into a litany of other
+treatments that kind of
+
+789
+00:32:44,070 --> 00:32:46,350
+takes the patient,
+veers them off course
+
+790
+00:32:46,350 --> 00:32:49,030
+from what the original
+likely diagnosis would
+
+791
+00:32:49,030 --> 00:32:51,710
+have been. All right.
+General medical counsel
+
+792
+00:32:51,710 --> 00:32:53,690
+and other entities
+advocate that med students
+
+793
+00:32:53,690 --> 00:32:55,450
+need to be equipped
+with critical thinking
+
+794
+00:32:55,450 --> 00:32:57,730
+skills in order to
+identify their own
+
+795
+00:32:57,730 --> 00:33:00,350
+cognitive biases and
+those the clinicians they
+
+796
+00:33:00,350 --> 00:33:02,530
+rotate with. So just
+keep all these things
+
+797
+00:33:02,530 --> 00:33:05,600
+in mind. You know, as
+you go through your four
+
+798
+00:33:05,600 --> 00:33:07,430
+years, you're going to
+be using both of the
+
+799
+00:33:07,430 --> 00:33:09,330
+systems we talked
+about, the heuristic
+
+800
+00:33:09,330 --> 00:33:13,050
+system, as well as a
+hypothetical approach as
+
+801
+00:33:13,050 --> 00:33:18,290
+well, more logical and
+time consuming, but more
+
+802
+00:33:18,290 --> 00:33:20,670
+thought provoking
+approach. And both systems
+
+803
+00:33:20,670 --> 00:33:23,030
+are important, but
+you need to be able to
+
+804
+00:33:23,030 --> 00:33:25,330
+kind of discern without,
+you don't want to
+
+805
+00:33:25,330 --> 00:33:27,250
+make, jump to the
+conclusions, you don't want
+
+806
+00:33:27,250 --> 00:33:30,870
+to pigeonhole yourself
+into one specific
+
+807
+00:33:30,870 --> 00:33:33,410
+diagnosis and always try
+to leave your options
+
+808
+00:33:33,410 --> 00:33:36,430
+open and always consider
+other possibilities,
+
+809
+00:33:36,430 --> 00:33:38,290
+whether they be life
+-threatening or not.
+
+810
+00:33:39,490 --> 00:33:42,370
+common diagnostic errors
+here's some kind of
+
+811
+00:33:42,370 --> 00:33:44,510
+clinical errors or
+cognitive errors we often
+
+812
+00:33:44,510 --> 00:33:48,010
+see um give you an
+example you have anchoring
+
+813
+00:33:48,010 --> 00:33:50,790
+bias here tendency
+to potentially lock
+
+814
+00:33:50,790 --> 00:33:52,930
+onto salient features
+in the patient's initial
+
+815
+00:33:52,930 --> 00:33:55,470
+presentation too early
+in the diagnostic
+
+816
+00:33:55,470 --> 00:33:57,650
+process this is something
+that we often do
+
+817
+00:33:57,650 --> 00:34:00,290
+you know patient presents
+with back pain you
+
+818
+00:34:00,290 --> 00:34:03,150
+often think of one
+thing we don't we might
+
+819
+00:34:03,150 --> 00:34:05,270
+think it's just a lumbar
+sprain but we also
+
+820
+00:34:05,270 --> 00:34:06,970
+don't we're not going
+to run conclusion that
+
+821
+00:34:06,970 --> 00:34:10,350
+he's having a searing
+aortic annulus. I'll
+
+822
+00:34:10,350 --> 00:34:12,330
+give you an example
+other than yet here.
+
+823
+00:34:12,330 --> 00:34:14,570
+The clinician locks onto
+a patient's description
+
+824
+00:34:14,570 --> 00:34:16,270
+of an aura that
+perceives their headache
+
+825
+00:34:16,270 --> 00:34:18,570
+as indicative of a
+migraine and fails to
+
+826
+00:34:18,570 --> 00:34:21,370
+recognize red flags of
+increased intracranial
+
+827
+00:34:21,370 --> 00:34:23,570
+pressure that could
+prompt neuroimaging for
+
+828
+00:34:23,570 --> 00:34:25,810
+this patient. You
+know, we see or hear
+
+829
+00:34:25,810 --> 00:34:29,690
+certain things that
+trigger a diagnosis from
+
+830
+00:34:29,690 --> 00:34:31,970
+something you learned
+in med school, but we
+
+831
+00:34:31,970 --> 00:34:35,030
+need to encompass all
+the components of the
+
+832
+00:34:35,030 --> 00:34:37,630
+doorway information and
+the vitals to all the
+
+833
+00:34:37,630 --> 00:34:40,170
+subtle nuances in the
+case that could lead
+
+834
+00:34:40,170 --> 00:34:42,950
+us to possible other
+diagnoses. We'll do
+
+835
+00:34:42,950 --> 00:34:46,190
+another example here,
+availability heuristics.
+
+836
+00:34:46,330 --> 00:34:48,730
+Assumption that a
+diagnosis is more likely
+
+837
+00:34:48,730 --> 00:34:51,170
+or more frequently
+occurring is more readily
+
+838
+00:34:51,170 --> 00:34:53,430
+going to come to mind,
+such as we say with
+
+839
+00:34:53,430 --> 00:34:55,790
+that mental shortcut
+we talk about. And the
+
+840
+00:34:55,790 --> 00:34:58,030
+example here is in a
+clinician who has recently
+
+841
+00:34:58,030 --> 00:35:00,530
+seen several patients
+who present with
+
+842
+00:35:00,530 --> 00:35:02,730
+maybe right lower quadrant
+pain that's indicative
+
+843
+00:35:02,730 --> 00:35:05,170
+of acute appendicitis
+does not consider
+
+844
+00:35:05,170 --> 00:35:07,710
+ovarian torsion in
+an adolescent girl
+
+845
+00:35:07,710 --> 00:35:10,050
+presenting with acute
+right lower quadrant pain.
+
+846
+00:35:10,050 --> 00:35:12,490
+You know, we see
+things, we hear things,
+
+847
+00:35:12,490 --> 00:35:15,430
+we're experienced in
+certain components of what
+
+848
+00:35:15,430 --> 00:35:18,110
+we see on a regular
+basis that we tend not
+
+849
+00:35:18,110 --> 00:35:20,510
+to always include the
+epidemiology or the
+
+850
+00:35:20,510 --> 00:35:23,110
+age or ***, gender, or
+the patient that might
+
+851
+00:35:23,110 --> 00:35:25,810
+actually play into the
+possible diagnosis.
+
+852
+00:35:26,590 --> 00:35:29,590
+Confirmation bias, seeking
+supportive evidence
+
+853
+00:35:29,590 --> 00:35:32,780
+for diagnosis at the
+exclusion of a more
+
+854
+00:35:32,780 --> 00:35:35,610
+persuasive information
+that can refute it.
+
+855
+00:35:35,610 --> 00:35:38,450
+So the example here
+is a clinician makes a
+
+856
+00:35:38,450 --> 00:35:41,430
+presumptive diagnosis
+of a URI and a well
+
+857
+00:35:41,430 --> 00:35:44,210
+-appearing patient
+presenting with a cough,
+
+858
+00:35:44,210 --> 00:35:46,330
+rhinorrhea, and fever,
+but doesn't consider
+
+859
+00:35:46,330 --> 00:35:48,790
+pneumonia even after
+finding an asymmetric chest
+
+860
+00:35:48,790 --> 00:35:50,510
+wall excursion and
+don't list the chest
+
+861
+00:35:50,510 --> 00:35:54,790
+percussion on examination.
+We want to take all
+
+862
+00:35:54,790 --> 00:35:57,830
+the knowledge that we
+we gather in the entire
+
+863
+00:35:57,830 --> 00:36:00,130
+subjective and objective
+components to get
+
+864
+00:36:00,130 --> 00:36:02,650
+the best diagnostic
+possible and it's hard
+
+865
+00:36:02,650 --> 00:36:04,970
+not to want to you know
+jump to conclusions
+
+866
+00:36:04,970 --> 00:36:07,790
+because we get excited
+we want to we oh yeah
+
+867
+00:36:07,790 --> 00:36:10,390
+i read about that in
+med school i i got this
+
+868
+00:36:10,390 --> 00:36:12,950
+this is oh they got
+rebound they got guarding
+
+869
+00:36:12,950 --> 00:36:14,650
+they got pain in the
+right little quadrant
+
+870
+00:36:14,650 --> 00:36:16,990
+this is definitely
+you know appendicitis
+
+871
+00:36:16,990 --> 00:36:20,730
+or whatever it might
+be so you always want
+
+872
+00:36:20,730 --> 00:36:23,430
+to keep an open mind
+move slowly don't let
+
+873
+00:36:23,430 --> 00:36:27,750
+heuristics take over
+and don't use as much
+
+874
+00:36:27,750 --> 00:36:31,150
+logic and reasoning
+to confirm what you're
+
+875
+00:36:31,150 --> 00:36:33,630
+thinking is. And as long
+as you use the right
+
+876
+00:36:33,630 --> 00:36:37,010
+amount of both systems,
+then you'll be okay.
+
+877
+00:36:37,030 --> 00:36:39,470
+So let's go down to
+one more down here.
+
+878
+00:36:39,470 --> 00:36:42,490
+Let's go to representation
+error. Failure
+
+879
+00:36:42,490 --> 00:36:44,550
+to take prevalence
+into account when
+
+880
+00:36:44,550 --> 00:36:46,810
+estimating the
+probability of diagnosis.
+
+881
+00:36:47,190 --> 00:36:50,190
+Okay. Clinician often
+sees older patients,
+
+882
+00:36:50,190 --> 00:36:52,650
+places diverticular
+bleed high on the
+
+883
+00:36:52,650 --> 00:36:54,130
+differential when
+evaluating ******
+
+884
+00:36:54,130 --> 00:36:56,470
+bleeding in an adolescent
+patient. This is
+
+885
+00:36:56,470 --> 00:36:58,290
+common in the clinic,
+especially if you're
+
+886
+00:36:58,290 --> 00:37:01,230
+used to seeing the
+same epidemiology or
+
+887
+00:37:01,230 --> 00:37:04,330
+age patients. If
+you're a geriatrician,
+
+888
+00:37:04,330 --> 00:37:06,110
+let's say, you're
+going to see a lot of
+
+889
+00:37:06,110 --> 00:37:08,730
+GI bleeds possibly
+due to diverticulitis.
+
+890
+00:37:08,730 --> 00:37:11,030
+If you happen to see
+a younger patient,
+
+891
+00:37:11,210 --> 00:37:15,150
+your mindset, you
+jump to what your
+
+892
+00:37:15,150 --> 00:37:17,770
+experiences are based
+on those diagnoses
+
+893
+00:37:17,770 --> 00:37:21,190
+without incorporating
+the epidemiology and
+
+894
+00:37:21,190 --> 00:37:23,050
+statistics of a
+younger population. And
+
+895
+00:37:23,050 --> 00:37:25,030
+you need to kind of
+put it all into play.
+
+896
+00:37:25,130 --> 00:37:26,010
+Okay.
+
+897
+00:37:26,010 --> 00:37:27,750
+So this is just a
+couple of samples.
+
+898
+00:37:27,750 --> 00:37:28,790
+You can look through
+these on your
+
+899
+00:37:28,790 --> 00:37:30,970
+own as well and
+realize that it's so
+
+900
+00:37:30,970 --> 00:37:33,670
+easy to jump to
+conclusions if you don't
+
+901
+00:37:33,670 --> 00:37:35,350
+use the proper
+thought processes.
+
+902
+00:37:36,450 --> 00:37:37,330
+Okay.
+
+903
+00:37:37,730 --> 00:37:39,370
+Reviewing steps
+and strategies
+
+904
+00:37:39,370 --> 00:37:40,650
+for clinical reasoning.
+
+905
+00:37:40,790 --> 00:37:43,110
+Starting again,
+like I said, data
+
+906
+00:37:43,110 --> 00:37:46,110
+gathering, history
+taking, physical exam,
+
+907
+00:37:46,130 --> 00:37:48,510
+results of the
+investigation. Then we
+
+908
+00:37:48,510 --> 00:37:50,370
+do our problem
+presentation, highlighting
+
+909
+00:37:50,370 --> 00:37:51,910
+the key features
+of clinical and
+
+910
+00:37:51,910 --> 00:37:54,290
+investigated data
+and synthesizing all
+
+911
+00:37:54,290 --> 00:37:56,330
+this data to formulate
+a clear story.
+
+912
+00:37:56,550 --> 00:37:59,110
+Then we do our hypothesis
+generation with
+
+913
+00:37:59,110 --> 00:38:01,210
+the acronyms I
+mentioned before, with
+
+914
+00:38:01,210 --> 00:38:02,970
+that exhaustive list
+of differentials.
+
+915
+00:38:03,170 --> 00:38:04,930
+Obviously, you want
+to prioritize the
+
+916
+00:38:04,930 --> 00:38:06,590
+list based on the
+clinical knowledge
+
+917
+00:38:06,590 --> 00:38:08,590
+and formulating
+the most likely and
+
+918
+00:38:08,590 --> 00:38:11,070
+least likely
+diagnoses based on the
+
+919
+00:38:11,070 --> 00:38:13,110
+information presented
+in each case.
+
+920
+00:38:13,330 --> 00:38:15,570
+Then we talk about
+the illness scripts,
+
+921
+00:38:15,570 --> 00:38:17,490
+right? searching for
+illness scripts generated
+
+922
+00:38:17,490 --> 00:38:19,970
+from prior clinical
+experiences. It's a
+
+923
+00:38:19,970 --> 00:38:22,470
+great way thing you
+can save, collect them,
+
+924
+00:38:22,470 --> 00:38:24,950
+use them to help
+study, but also gives
+
+925
+00:38:24,950 --> 00:38:27,090
+you all the data you
+need for that particular
+
+926
+00:38:27,090 --> 00:38:29,090
+disease process
+and applying that
+
+927
+00:38:29,090 --> 00:38:30,990
+knowledge appropriately
+to whatever current
+
+928
+00:38:30,990 --> 00:38:33,150
+patient has based on
+their chief complaints.
+
+929
+00:38:33,270 --> 00:38:35,290
+And then finally,
+your diagnosis.
+
+930
+00:38:35,590 --> 00:38:37,750
+Sorting through all
+this data, applying
+
+931
+00:38:37,750 --> 00:38:39,210
+your knowledge from
+the illness scripts,
+
+932
+00:38:39,210 --> 00:38:40,750
+narrowing the
+differential based on the
+
+933
+00:38:40,750 --> 00:38:43,550
+information you gathered,
+and generating a possible
+
+934
+00:38:43,550 --> 00:38:45,430
+final or at least
+a likely diagnosis
+
+935
+00:38:45,430 --> 00:38:49,810
+if possible now what
+we'll do is we'll have
+
+936
+00:38:49,810 --> 00:38:54,190
+you practice i will
+stop here i will give
+
+937
+00:38:54,190 --> 00:38:56,670
+you i will put the
+slides up and i'd like
+
+938
+00:38:56,670 --> 00:38:58,950
+you to kind of practice
+these cases okay
+
+939
+00:38:58,950 --> 00:39:00,990
+this is one case and
+it's going to use all
+
+940
+00:39:00,990 --> 00:39:03,950
+your applied knowledge
+from the last few
+
+941
+00:39:03,950 --> 00:39:06,970
+slides so i'm going to
+leave about 10 seconds
+
+942
+00:39:06,970 --> 00:39:09,350
+with each slide i'll
+let you practice this
+
+943
+00:39:09,350 --> 00:39:11,230
+and you can kind of
+do this on your own
+
+944
+00:39:11,530 --> 00:39:13,370
+And if you have any
+questions, don't
+
+945
+00:39:13,370 --> 00:39:15,010
+hesitate to reach out
+to me. It's been a
+
+946
+00:39:15,010 --> 00:39:18,830
+pleasure imparting this
+information to you,
+
+947
+00:39:18,830 --> 00:39:20,770
+and I hope this has
+been helpful. And you
+
+948
+00:39:20,770 --> 00:39:22,570
+can reach out to me.
+My email address is
+
+949
+00:39:22,570 --> 00:39:24,670
+on the first slide.
+So I'll leave about
+
+950
+00:39:24,670 --> 00:39:26,970
+10 seconds with each
+of the next few slides
+
+951
+00:39:26,970 --> 00:39:28,970
+to allow you to pause
+it and then save
+
+952
+00:39:28,970 --> 00:39:31,050
+it and practice what
+we went over today.

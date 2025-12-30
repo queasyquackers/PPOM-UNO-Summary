@@ -1,0 +1,4547 @@
+1
+00:00:00,830 --> 00:00:04,390
+Hello everybody, my
+name is Sherry Zachary.
+
+2
+00:00:04,670 --> 00:00:08,050
+I'm a former
+NYIT student,
+
+3
+00:00:08,170 --> 00:00:11,490
+and I currently
+practice radiology
+
+4
+00:00:11,570 --> 00:00:14,470
+with a subspecialty
+in neuroradiology.
+
+5
+00:00:15,070 --> 00:00:17,110
+I'm here to talk
+to you about the
+
+6
+00:00:17,110 --> 00:00:19,710
+clinical applications
+of neuroimaging.
+
+7
+00:00:20,910 --> 00:00:23,450
+The way this talk
+is gonna work
+
+8
+00:00:23,450 --> 00:00:26,390
+is that we're gonna
+discuss different
+
+9
+00:00:26,390 --> 00:00:29,530
+modalities used in radiology
+to image the brain.
+
+10
+00:00:29,870 --> 00:00:32,230
+Within each
+modality, I'm going
+
+11
+00:00:32,230 --> 00:00:34,310
+to describe to
+you the clinical
+
+12
+00:00:34,310 --> 00:00:37,250
+indications in
+which way we may use
+
+13
+00:00:37,250 --> 00:00:39,430
+that modality to
+image the brain.
+
+14
+00:00:39,430 --> 00:00:42,290
+I'm going to understand
+the contraindications
+
+15
+00:00:42,290 --> 00:00:44,630
+to that form of
+brain imaging.
+
+16
+00:00:44,630 --> 00:00:47,390
+And then I'll give you
+some other clinical
+
+17
+00:00:47,390 --> 00:00:50,270
+notes on how to
+integrate the imaging
+
+18
+00:00:50,270 --> 00:00:54,530
+with other clinical
+tools to ultimately
+
+19
+00:00:54,530 --> 00:00:58,650
+manage neurologic disease.
+Before we get into
+
+20
+00:00:58,650 --> 00:01:01,970
+the modalities used
+to image the brain,
+
+21
+00:01:02,420 --> 00:01:04,650
+let's just talk
+about some of the
+
+22
+00:01:04,650 --> 00:01:07,850
+clinical scenarios
+that would then lead us
+
+23
+00:01:07,850 --> 00:01:10,230
+as clinicians to
+order brain imaging.
+
+24
+00:01:11,410 --> 00:01:14,810
+Syncope, essentially
+passing out,
+
+25
+00:01:14,810 --> 00:01:17,490
+often caused by a
+low blood pressure.
+
+26
+00:01:18,210 --> 00:01:22,010
+Transient ischemic
+attack, a mini-******,
+
+27
+00:01:22,250 --> 00:01:25,230
+a reversible
+neurologic deficit,
+
+28
+00:01:25,230 --> 00:01:27,690
+usually lasting less
+than 30 minutes.
+
+29
+00:01:28,290 --> 00:01:32,570
+******, which is an
+irreversible neurologic
+
+30
+00:01:32,570 --> 00:01:35,750
+deficit, that is,
+until treatment is
+
+31
+00:01:35,750 --> 00:01:40,390
+started. altered mental
+status any change
+
+32
+00:01:40,390 --> 00:01:43,470
+from the patient's
+baseline mental status
+
+33
+00:01:43,470 --> 00:01:45,770
+is considered altered
+and would be an
+
+34
+00:01:45,770 --> 00:01:49,130
+indication for brain
+imaging a patient
+
+35
+00:01:49,130 --> 00:01:51,470
+presenting with
+signs of increased
+
+36
+00:01:51,470 --> 00:01:54,690
+intracranial pressure
+some of these are listed
+
+37
+00:01:54,690 --> 00:01:59,750
+below evaluation of
+known brain lesions
+
+38
+00:02:00,250 --> 00:02:02,290
+tumor, aneurysm,
+
+39
+00:02:02,410 --> 00:02:04,190
+a known neurologic
+disease,
+
+40
+00:02:04,410 --> 00:02:06,770
+very commonly
+multiple sclerosis.
+
+41
+00:02:08,010 --> 00:02:10,090
+The four modalities
+we're going
+
+42
+00:02:10,090 --> 00:02:14,930
+to discuss today
+are CAT scan,
+
+43
+00:02:15,110 --> 00:02:16,230
+MRI,
+
+44
+00:02:16,470 --> 00:02:19,190
+carotid ultrasound,
+and conventional
+
+45
+00:02:19,190 --> 00:02:23,810
+angiogram. CAT scan, MRI,
+and carotid ultrasound
+
+46
+00:02:23,810 --> 00:02:26,310
+are three forms
+of cross-sectional
+
+47
+00:02:26,310 --> 00:02:29,370
+imaging and conventional
+angiogram is in
+
+48
+00:02:29,370 --> 00:02:32,370
+its own category.
+For your information,
+
+49
+00:02:32,370 --> 00:02:35,030
+there are other
+modalities that can
+
+50
+00:02:35,030 --> 00:02:37,730
+be used to image
+the brain. However,
+
+51
+00:02:37,930 --> 00:02:40,230
+these are the ones
+we're going to discuss
+
+52
+00:02:40,230 --> 00:02:42,950
+today. The first
+modality we're going to
+
+53
+00:02:42,950 --> 00:02:47,150
+discuss is CAT scan
+or CT scan. This is a
+
+54
+00:02:47,150 --> 00:02:49,550
+picture in the middle
+of a CAT scan machine.
+
+55
+00:02:49,870 --> 00:02:54,090
+There's a bed
+component and then what
+
+56
+00:02:54,090 --> 00:02:56,850
+I call a donut
+component. The bed goes
+
+57
+00:02:56,850 --> 00:02:59,610
+into the donut as
+the CT is performed.
+
+58
+00:02:59,650 --> 00:03:03,810
+This donut contains
+x-ray beams that
+
+59
+00:03:03,810 --> 00:03:08,550
+are oriented around
+the donut, and across
+
+60
+00:03:08,550 --> 00:03:11,170
+from each x-ray
+beam is a receptor.
+
+61
+00:03:11,190 --> 00:03:15,260
+The receptor receives
+the x-ray beam
+
+62
+00:03:15,260 --> 00:03:17,850
+after it has
+coursed through the
+
+63
+00:03:17,850 --> 00:03:20,410
+patient, and the
+resultant image is
+
+64
+00:03:20,410 --> 00:03:22,830
+what we as
+radiologists interpret.
+
+65
+00:03:23,380 --> 00:03:25,750
+On the bottom right
+hand corner I just
+
+66
+00:03:25,750 --> 00:03:29,450
+have an image of three
+cat skin, sorry one
+
+67
+00:03:29,450 --> 00:03:33,370
+cat skin of a
+patient's head in three
+
+68
+00:03:33,370 --> 00:03:35,950
+planes which are the
+typical projections
+
+69
+00:03:35,950 --> 00:03:39,850
+that are reconstructions
+that we perform
+
+70
+00:03:39,850 --> 00:03:44,790
+in radiology to
+ultimately interpret
+
+71
+00:03:44,790 --> 00:03:47,050
+the image. So the
+first image here is a
+
+72
+00:03:47,050 --> 00:03:50,070
+sagittal image through
+the head and neck.
+
+73
+00:03:51,450 --> 00:03:54,110
+The middle one is
+a coronal image
+
+74
+00:03:54,110 --> 00:03:56,430
+and the third one
+is an axial image.
+
+75
+00:03:57,550 --> 00:04:00,910
+So this is a more
+detailed schematic here
+
+76
+00:04:00,910 --> 00:04:03,890
+demonstrating the
+patient lying on the
+
+77
+00:04:03,890 --> 00:04:07,150
+CAT scan table,
+the source of x-ray
+
+78
+00:04:07,150 --> 00:04:09,990
+beam that's within
+the CAT scan, and the
+
+79
+00:04:09,990 --> 00:04:12,310
+detector on the other
+side of the patient
+
+80
+00:04:12,310 --> 00:04:16,250
+with the resultant
+image on the right.
+
+81
+00:04:16,370 --> 00:04:18,850
+This image on the
+right here shows
+
+82
+00:04:18,850 --> 00:04:21,370
+how different tissues
+in the body appear
+
+83
+00:04:21,370 --> 00:04:23,650
+differently based
+on how they have
+
+84
+00:04:23,650 --> 00:04:27,050
+each attenuated the
+radiation beams.
+
+85
+00:04:27,590 --> 00:04:30,150
+This slide is to
+introduce you to the
+
+86
+00:04:30,150 --> 00:04:33,610
+concept of windows and
+CAT scan. these windows
+
+87
+00:04:33,610 --> 00:04:38,190
+are a software-based
+view of different
+
+88
+00:04:38,190 --> 00:04:41,930
+types of tissue so
+we use one window to
+
+89
+00:04:41,930 --> 00:04:44,690
+analyze bone we use
+another window to
+
+90
+00:04:44,690 --> 00:04:47,810
+analyze soft tissue
+and so on and so forth
+
+91
+00:04:47,810 --> 00:04:50,290
+I'm going to show you
+in more detail in the
+
+92
+00:04:50,290 --> 00:04:53,910
+slides to come this
+is an example of the
+
+93
+00:04:53,910 --> 00:04:56,430
+difference in appearance
+between the bone
+
+94
+00:04:56,430 --> 00:04:58,850
+and brain windows
+in a CAT scan of the
+
+95
+00:04:58,850 --> 00:05:01,690
+head as you see in
+the image on the left
+
+96
+00:05:01,690 --> 00:05:04,030
+it looks very different
+than the image on
+
+97
+00:05:04,030 --> 00:05:07,330
+the right. The bone
+is in great detail.
+
+98
+00:05:07,470 --> 00:05:10,050
+Now this, these two
+images are from the
+
+99
+00:05:10,050 --> 00:05:13,590
+same patient at the
+same slice of the head.
+
+100
+00:05:13,590 --> 00:05:16,330
+It's at the level of
+the temporal bones,
+
+101
+00:05:16,330 --> 00:05:19,450
+the orbits, and the
+cerebellum. So you see
+
+102
+00:05:19,450 --> 00:05:22,270
+here on the image
+on the left, you can
+
+103
+00:05:22,270 --> 00:05:25,620
+clearly make out the bone
+cortex, the medullary
+
+104
+00:05:25,620 --> 00:05:27,810
+cavity. We're at
+the level of the
+
+105
+00:05:27,810 --> 00:05:30,670
+temporal bone, so you
+can see the little air
+
+106
+00:05:30,670 --> 00:05:33,430
+cells that are within
+the temporal bones.
+
+107
+00:05:33,690 --> 00:05:35,570
+In the image
+on the right,
+
+108
+00:05:35,570 --> 00:05:38,810
+you lose all of this
+fine bony detail. But
+
+109
+00:05:38,810 --> 00:05:40,970
+what we do get,
+because it's the brain
+
+110
+00:05:40,970 --> 00:05:44,230
+window, is we get fine
+detail of the brain.
+
+111
+00:05:44,610 --> 00:05:47,730
+As you can see in the
+image on the left,
+
+112
+00:05:47,730 --> 00:05:49,850
+the bone window
+shows nothing of the
+
+113
+00:05:49,850 --> 00:05:52,270
+brain. And the image
+on the right, the
+
+114
+00:05:52,270 --> 00:05:54,190
+brain window shows
+essentially nothing
+
+115
+00:05:54,190 --> 00:05:57,850
+of the bone. And this
+is how we analyze
+
+116
+00:05:57,850 --> 00:06:00,470
+the different CT
+images in radiology.
+
+117
+00:06:00,590 --> 00:06:03,510
+One more example
+for you, showing you
+
+118
+00:06:03,510 --> 00:06:06,830
+two different windows,
+the lung window and
+
+119
+00:06:06,830 --> 00:06:09,590
+the soft tissue window
+in a CAT scan of
+
+120
+00:06:09,590 --> 00:06:12,710
+the chest. So these
+are two coronal
+
+121
+00:06:12,710 --> 00:06:15,730
+images at the same
+slice through the heart,
+
+122
+00:06:15,730 --> 00:06:18,090
+through the lungs
+of a patient. The
+
+123
+00:06:18,090 --> 00:06:20,930
+image on the left is
+the lung window. So
+
+124
+00:06:20,930 --> 00:06:23,170
+those two black fields
+that surround the
+
+125
+00:06:23,170 --> 00:06:26,610
+heart are the lungs
+and you can see the
+
+126
+00:06:26,610 --> 00:06:28,710
+pulmonary arteries
+within the lungs and
+
+127
+00:06:28,910 --> 00:06:30,930
+although this
+patient doesn't have
+
+128
+00:06:30,930 --> 00:06:33,130
+any lung disease
+we would be able to
+
+129
+00:06:33,890 --> 00:06:36,530
+find lung disease on
+the image on the left.
+
+130
+00:06:36,530 --> 00:06:38,890
+The image on the right
+on the other hand
+
+131
+00:06:39,670 --> 00:06:42,590
+focuses on the soft
+tissues. As you can see
+
+132
+00:06:42,790 --> 00:06:46,810
+the lungs lose their
+detail and what we
+
+133
+00:06:46,810 --> 00:06:51,150
+get detail of is the
+soft tissue. So we see
+
+134
+00:06:51,150 --> 00:06:53,350
+the shoulders, we can
+see the muscles and
+
+135
+00:06:53,350 --> 00:06:55,590
+the fat around the
+shoulder and the axillary
+
+136
+00:06:55,590 --> 00:06:59,030
+regions. We see the
+organs of the upper
+
+137
+00:06:59,030 --> 00:07:01,870
+abdomen, the liver,
+the stomach, the
+
+138
+00:07:01,870 --> 00:07:06,390
+mesenteric fat. We see
+the mediastinum. We see
+
+139
+00:07:06,390 --> 00:07:09,990
+the aorta, the pulmonary
+artery, the heart
+
+140
+00:07:09,990 --> 00:07:14,270
+with its atrium and
+ventricle. So all of
+
+141
+00:07:14,270 --> 00:07:17,990
+these details are much
+more apparent on the
+
+142
+00:07:17,990 --> 00:07:20,430
+soft tissue window
+than the lung window.
+
+143
+00:07:21,010 --> 00:07:23,790
+What are the
+advantages of CT?
+
+144
+00:07:24,370 --> 00:07:26,650
+Excellent for
+evaluation of
+
+145
+00:07:26,650 --> 00:07:29,050
+acute hemorrhage.
+Excellent for
+
+146
+00:07:29,050 --> 00:07:31,670
+evaluation of
+bone and calcium.
+
+147
+00:07:33,080 --> 00:07:34,430
+Why would we need to
+
+148
+00:07:34,430 --> 00:07:35,950
+look at bone and calcium?
+
+149
+00:07:36,090 --> 00:07:40,450
+Some examples are
+evaluation of calcifications
+
+150
+00:07:40,450 --> 00:07:43,050
+in the setting of
+tumor, and evaluation
+
+151
+00:07:43,050 --> 00:07:45,830
+of acute fracture in
+the setting of trauma.
+
+152
+00:07:47,470 --> 00:07:51,570
+CT also provides great
+anatomic detail of
+
+153
+00:07:51,570 --> 00:07:54,350
+multiple tissue types
+all in one study.
+
+154
+00:07:54,760 --> 00:07:57,830
+Some of the other
+benefits of CAT scan are
+
+155
+00:07:57,830 --> 00:08:00,910
+that it is fast. We
+can essentially perform
+
+156
+00:08:00,910 --> 00:08:03,170
+a CAT scan of one
+body part in less than
+
+157
+00:08:03,170 --> 00:08:06,970
+30 seconds. it is
+non-invasive, and it
+
+158
+00:08:06,970 --> 00:08:10,790
+is cost-effective when
+compared to MRI. When
+
+159
+00:08:10,790 --> 00:08:12,690
+compared to ultrasound,
+on the other
+
+160
+00:08:12,690 --> 00:08:15,130
+hand, which is another
+modality we're going
+
+161
+00:08:15,130 --> 00:08:18,010
+to discuss, it is not
+cost-effective. So
+
+162
+00:08:18,010 --> 00:08:20,970
+in order of most expensive
+to least expensive,
+
+163
+00:08:20,970 --> 00:08:23,050
+the four modalities
+we're going to
+
+164
+00:08:23,050 --> 00:08:25,810
+discuss today, the most
+expensive is conventional
+
+165
+00:08:25,810 --> 00:08:29,310
+angiogram, the next
+one down is MRI,
+
+166
+00:08:29,490 --> 00:08:31,430
+the next one
+down is CAT scan
+
+167
+00:08:31,430 --> 00:08:33,090
+and the cheapest
+is ultrasound.
+
+168
+00:08:34,150 --> 00:08:36,530
+So why do we
+order a CAT scan
+
+169
+00:08:36,530 --> 00:08:38,390
+when we want to
+image the brain?
+
+170
+00:08:38,730 --> 00:08:42,200
+Most commonly, it
+is used in emergency
+
+171
+00:08:42,200 --> 00:08:45,050
+scenarios. As I
+said, it's great for
+
+172
+00:08:45,050 --> 00:08:47,750
+hemorrhage and fracture.
+So of course, we're
+
+173
+00:08:47,750 --> 00:08:49,520
+going to use it in
+the setting of trauma.
+
+174
+00:08:50,070 --> 00:08:54,090
+It's fast. So that
+makes it really good
+
+175
+00:08:54,090 --> 00:08:57,150
+for evaluation of ******
+because in ******,
+
+176
+00:08:57,150 --> 00:09:00,310
+time is brain and
+we want to act fast.
+
+177
+00:09:00,770 --> 00:09:04,450
+Syncope, altered
+mental status, all of
+
+178
+00:09:04,450 --> 00:09:08,810
+these presenting
+scenarios can lead
+
+179
+00:09:08,810 --> 00:09:11,450
+to imaging of the
+head with CAT scan.
+
+180
+00:09:11,650 --> 00:09:13,830
+Another reason
+we do CAT scan
+
+181
+00:09:13,830 --> 00:09:15,610
+is to characterize
+tumors.
+
+182
+00:09:16,390 --> 00:09:18,930
+And then there's a
+subset of CAT scan
+
+183
+00:09:18,930 --> 00:09:22,870
+called CT angiography,
+which is a specific
+
+184
+00:09:22,870 --> 00:09:26,090
+study to look at the
+vessels of the head
+
+185
+00:09:26,090 --> 00:09:29,030
+and neck and in those
+cases we're looking
+
+186
+00:09:29,030 --> 00:09:32,670
+for arterial rupture
+maybe in stenosis
+
+187
+00:09:32,670 --> 00:09:34,930
+or high blood pressure
+sorry maybe in the
+
+188
+00:09:34,930 --> 00:09:37,730
+setting of trauma or
+high blood pressure
+
+189
+00:09:38,970 --> 00:09:42,430
+arterial stenosis
+aneurysm and
+
+190
+00:09:42,430 --> 00:09:46,950
+dissection as you see
+from the prior slide
+
+191
+00:09:46,950 --> 00:09:49,450
+there are many or
+two slides ago,
+
+192
+00:09:49,450 --> 00:09:50,930
+actually. There
+are many advantages
+
+193
+00:09:50,930 --> 00:09:53,690
+to CT and many
+indications for CT.
+
+194
+00:09:53,970 --> 00:09:55,840
+However, there's one main
+
+195
+00:09:55,840 --> 00:09:59,190
+disadvantage, and
+this slide is the
+
+196
+00:09:59,190 --> 00:10:01,790
+most important
+one for your exam,
+
+197
+00:10:02,050 --> 00:10:04,110
+and that is radiation.
+
+198
+00:10:04,710 --> 00:10:09,210
+Now, I have to preface
+this conversation to
+
+199
+00:10:09,210 --> 00:10:11,990
+say that our knowledge
+of the harmful effects
+
+200
+00:10:11,990 --> 00:10:15,350
+of radiation in medical
+imaging are limited.
+
+201
+00:10:15,350 --> 00:10:19,530
+We are still collecting
+data to get more
+
+202
+00:10:19,530 --> 00:10:22,590
+conclusive answers about
+the harmful effects.
+
+203
+00:10:22,590 --> 00:10:25,570
+Our current knowledge
+is based on high
+
+204
+00:10:25,570 --> 00:10:28,590
+-dose acute exposures
+after the atomic bomb.
+
+205
+00:10:29,010 --> 00:10:33,890
+But what effects
+do low doses
+
+206
+00:10:33,890 --> 00:10:36,370
+over a long period
+of time cause?
+
+207
+00:10:36,930 --> 00:10:40,470
+We're still finding
+out. Now, we are
+
+208
+00:10:40,470 --> 00:10:42,850
+exposed to radiation
+in normal life.
+
+209
+00:10:43,190 --> 00:10:46,910
+We obtain about 3
+millisieverts per
+
+210
+00:10:46,910 --> 00:10:49,510
+year just living
+on planet Earth.
+
+211
+00:10:50,330 --> 00:10:53,250
+Millisieverts are a
+unit used to measure
+
+212
+00:10:53,250 --> 00:10:56,110
+a dose of radiation
+to the human body.
+
+213
+00:10:56,450 --> 00:10:59,770
+Now, frequent flying
+is something that
+
+214
+00:10:59,770 --> 00:11:01,690
+can increase your
+dose of radiation.
+
+215
+00:11:01,910 --> 00:11:05,110
+Having lots of
+CAT scans, working
+
+216
+00:11:05,110 --> 00:11:06,990
+in a radiology
+department,
+
+217
+00:11:07,040 --> 00:11:08,830
+there are many
+things that can
+
+218
+00:11:08,830 --> 00:11:10,810
+increase your dose
+of radiation above
+
+219
+00:11:10,810 --> 00:11:14,370
+the normal level
+in life. But having
+
+220
+00:11:14,370 --> 00:11:18,750
+CAT scans, which
+contain radiation,
+
+221
+00:11:18,990 --> 00:11:22,350
+as do some other
+forms of imaging and
+
+222
+00:11:22,350 --> 00:11:28,550
+radiology, there is a
+long-term lifetime risk
+
+223
+00:11:28,550 --> 00:11:32,470
+of developing cancer
+from the radiation.
+
+224
+00:11:33,530 --> 00:11:37,490
+although this number
+is not exact the
+
+225
+00:11:37,490 --> 00:11:41,010
+estimates are that the
+lifetime risk of both
+
+226
+00:11:41,010 --> 00:11:44,910
+fatal and non-fatal
+cancer from a ct scan is
+
+227
+00:11:44,910 --> 00:11:48,610
+about one in two
+thousand and that risk
+
+228
+00:11:48,610 --> 00:11:52,650
+increases for if you
+look at just non-fatal
+
+229
+00:11:52,650 --> 00:11:55,590
+cancers it's about
+one in a thousand will
+
+230
+00:11:55,590 --> 00:11:58,130
+have a non-fatal
+cancer from a cat scan,
+
+231
+00:11:58,130 --> 00:12:01,030
+from the radiation
+incurred from a CAT scan.
+
+232
+00:12:01,510 --> 00:12:04,090
+So that's the main
+take-home point.
+
+233
+00:12:04,090 --> 00:12:06,210
+I want to highlight
+this point
+
+234
+00:12:06,210 --> 00:12:09,030
+because although
+CAT scan is very,
+
+235
+00:12:09,030 --> 00:12:11,910
+very important in
+medical imaging,
+
+236
+00:12:12,870 --> 00:12:15,950
+it is important to know
+its main disadvantage
+
+237
+00:12:15,950 --> 00:12:19,850
+and to try to work
+around it. We have a
+
+238
+00:12:19,850 --> 00:12:22,390
+theme that we use in
+radiology, which is
+
+239
+00:12:22,390 --> 00:12:27,850
+Alara. And that is the
+intention to radiate
+
+240
+00:12:27,850 --> 00:12:31,650
+as low as reasonably
+possible for patients.
+
+241
+00:12:31,870 --> 00:12:34,930
+So some of the things
+that we can do to
+
+242
+00:12:35,730 --> 00:12:40,690
+monitor and manage the
+radiation dose is that
+
+243
+00:12:40,690 --> 00:12:44,150
+when possible, there
+are low dose protocols
+
+244
+00:12:44,150 --> 00:12:46,170
+that we can perform.
+It's not always
+
+245
+00:12:46,170 --> 00:12:49,210
+possible, but it can
+be done. There are
+
+246
+00:12:49,210 --> 00:12:52,070
+protective aprons that
+we can have patients wear
+
+247
+00:12:52,070 --> 00:12:54,750
+on the body parts that
+are not being imaged
+
+248
+00:12:54,870 --> 00:12:58,850
+to protect them from
+excess radiation.
+
+249
+00:12:59,050 --> 00:13:02,470
+And then we have to
+specifically assess
+
+250
+00:13:04,550 --> 00:13:08,530
+the risks and benefits
+for performing
+
+251
+00:13:08,530 --> 00:13:11,430
+CAT scans in pregnant
+women and children.
+
+252
+00:13:11,430 --> 00:13:14,170
+So even though we
+are all at risk of
+
+253
+00:13:14,170 --> 00:13:18,450
+cancer from the
+radiation in CAT scan,
+
+254
+00:13:18,630 --> 00:13:21,350
+pregnant women and
+children, because of
+
+255
+00:13:21,350 --> 00:13:24,990
+their rapidly proliferating
+and new cells,
+
+256
+00:13:24,990 --> 00:13:29,130
+are at greater risk.
+And so we take even
+
+257
+00:13:29,130 --> 00:13:32,790
+greater precaution with
+them. So this lifetime
+
+258
+00:13:32,790 --> 00:13:35,490
+risk of both fatal
+and non-fatal cancer
+
+259
+00:13:35,490 --> 00:13:39,510
+is the main take-home
+point for the exam.
+
+260
+00:13:41,310 --> 00:13:44,250
+A little bit of
+information on contrast
+
+261
+00:13:44,250 --> 00:13:47,330
+in CAT scan. As a
+radiologist, I get a
+
+262
+00:13:47,330 --> 00:13:49,630
+lot of phone calls
+from clinicians about
+
+263
+00:13:50,770 --> 00:13:53,410
+questions. Should we
+give contrast? What
+
+264
+00:13:53,410 --> 00:13:55,270
+kind of contrast
+should we give? This is
+
+265
+00:13:55,270 --> 00:13:57,070
+what I'm looking for.
+So this is a little
+
+266
+00:13:57,070 --> 00:13:59,590
+introduction for you
+as future clinicians
+
+267
+00:13:59,590 --> 00:14:01,570
+to understand the
+role of contrast.
+
+268
+00:14:02,370 --> 00:14:05,810
+CT contrast is an
+iodinated solution
+
+269
+00:14:05,810 --> 00:14:09,790
+that can be used to
+highlight certain
+
+270
+00:14:09,790 --> 00:14:13,370
+disease entities
+in certain organs.
+
+271
+00:14:13,370 --> 00:14:16,030
+We can administer
+it in three ways,
+
+272
+00:14:16,030 --> 00:14:18,350
+intravenously,
+******, and rectally.
+
+273
+00:14:18,510 --> 00:14:20,850
+Oral and ******
+forms are for
+
+274
+00:14:20,850 --> 00:14:22,970
+evaluation of
+the GI tract.
+
+275
+00:14:23,230 --> 00:14:26,290
+Intravenous form is
+for evaluation of
+
+276
+00:14:26,290 --> 00:14:29,910
+organs and vessels.
+The way that organs
+
+277
+00:14:29,910 --> 00:14:34,210
+take up contrast
+is a process called
+
+278
+00:14:34,210 --> 00:14:37,650
+enhancement and in
+radiology we've described
+
+279
+00:14:37,650 --> 00:14:40,270
+patterns of enhancement
+and we've associated
+
+280
+00:14:40,270 --> 00:14:42,490
+them with certain
+disease processes.
+
+281
+00:14:42,490 --> 00:14:44,170
+So I'm just going
+to give you a few
+
+282
+00:14:44,170 --> 00:14:47,110
+examples because even
+as medical students
+
+283
+00:14:47,110 --> 00:14:50,290
+you are expected to
+know certain really
+
+284
+00:14:50,290 --> 00:14:53,590
+common diseases and
+how they present in
+
+285
+00:14:53,590 --> 00:14:56,690
+terms of radiologic
+contrast enhancement.
+
+286
+00:14:56,930 --> 00:15:03,890
+This is an example of
+an axial CT image of
+
+287
+00:15:03,890 --> 00:15:08,250
+a brain at the same
+level on the left
+
+288
+00:15:08,250 --> 00:15:11,430
+before contrast and on
+the right after contrast.
+
+289
+00:15:11,430 --> 00:15:15,590
+This is an example of
+diffuse enhancement
+
+290
+00:15:15,590 --> 00:15:19,710
+of a mass located
+in the left frontal
+
+291
+00:15:19,710 --> 00:15:25,150
+lobe. The diagnosis
+is meningioma. Now,
+
+292
+00:15:25,150 --> 00:15:27,930
+there are other lesions
+that can show diffuse
+
+293
+00:15:27,930 --> 00:15:30,670
+enhancement in the
+brain, but this is
+
+294
+00:15:30,670 --> 00:15:34,050
+an example of number
+one, how the pattern
+
+295
+00:15:34,050 --> 00:15:36,530
+of enhancement can
+help us guide us to a
+
+296
+00:15:36,530 --> 00:15:38,730
+diagnosis because there's
+only a few entities
+
+297
+00:15:38,730 --> 00:15:40,730
+that show this pattern
+of enhancement.
+
+298
+00:15:40,730 --> 00:15:43,690
+And secondly, this
+is to show you how
+
+299
+00:15:43,690 --> 00:15:46,270
+important contrast
+is when we're
+
+300
+00:15:46,270 --> 00:15:48,430
+looking for certain
+things like a tumor.
+
+301
+00:15:48,980 --> 00:15:51,230
+As you see on the
+image on the left, we
+
+302
+00:15:51,230 --> 00:15:53,030
+can see that there's
+something not right,
+
+303
+00:15:53,030 --> 00:15:55,870
+but we can't really
+characterize it. The
+
+304
+00:15:55,870 --> 00:15:58,530
+image on the right
+clearly shows the lesion.
+
+305
+00:15:58,530 --> 00:16:01,050
+It shows the pattern
+of enhancement, and
+
+306
+00:16:01,050 --> 00:16:03,090
+it gives us so much
+more information than
+
+307
+00:16:03,090 --> 00:16:05,150
+the image on the
+left did. And so this
+
+308
+00:16:05,150 --> 00:16:07,570
+is why contrast is
+important in radiology.
+
+309
+00:16:09,570 --> 00:16:13,010
+This is another axial
+CT image through
+
+310
+00:16:13,010 --> 00:16:16,910
+the brain, pre- and
+post-contrast, giving
+
+311
+00:16:16,910 --> 00:16:19,450
+an example of ring
+enhancement or
+
+312
+00:16:19,450 --> 00:16:22,570
+peripheral enhancement.
+As you see, the contrast
+
+313
+00:16:22,570 --> 00:16:25,390
+has been taken up
+only in the periphery.
+
+314
+00:16:25,390 --> 00:16:28,090
+So only the ring
+of the surrounding,
+
+315
+00:16:28,090 --> 00:16:30,910
+the peripheral
+structure is enhancing
+
+316
+00:16:30,910 --> 00:16:33,690
+and the center is
+not enhancing. The
+
+317
+00:16:33,690 --> 00:16:37,430
+classic disease entity
+associated with ring
+
+318
+00:16:37,430 --> 00:16:39,910
+enhancement in the
+brain is an abscess.
+
+319
+00:16:40,430 --> 00:16:43,550
+And this is
+important for you to
+
+320
+00:16:43,550 --> 00:16:46,150
+know, not for my
+exam, but in general.
+
+321
+00:16:46,590 --> 00:16:49,870
+The other main
+disease entity that
+
+322
+00:16:49,870 --> 00:16:51,910
+causes ring enhancement
+in the brain
+
+323
+00:16:51,910 --> 00:16:55,370
+is glioblastoma
+multiforme, which is
+
+324
+00:16:55,370 --> 00:16:57,830
+an aggressive form
+of brain cancer.
+
+325
+00:16:58,660 --> 00:17:01,650
+If I'm going to
+discuss to you CT
+
+326
+00:17:01,650 --> 00:17:04,130
+contrast, I have to
+have a slide about
+
+327
+00:17:04,130 --> 00:17:06,310
+the risks of IV
+contrast. contrast.
+
+328
+00:17:08,310 --> 00:17:11,590
+There are actually
+two slides. The first
+
+329
+00:17:11,590 --> 00:17:15,070
+risk is allergic
+reaction. So every patient
+
+330
+00:17:15,070 --> 00:17:18,280
+who is sent for a CAT
+scan with contrast
+
+331
+00:17:18,280 --> 00:17:21,770
+fills out a questionnaire.
+And this questionnaire
+
+332
+00:17:21,770 --> 00:17:23,790
+asks them about
+their history of
+
+333
+00:17:23,790 --> 00:17:27,390
+allergy. Do they have
+allergies to anything?
+
+334
+00:17:27,530 --> 00:17:31,170
+And have they had a
+previous allergy to ct
+
+335
+00:17:31,170 --> 00:17:35,850
+contrast the allergies
+can range from mild
+
+336
+00:17:35,850 --> 00:17:38,810
+to severe they can
+be treated it's very
+
+337
+00:17:38,810 --> 00:17:42,610
+important to know
+about the possibility
+
+338
+00:17:42,610 --> 00:17:45,110
+of these because we
+can we can manage them
+
+339
+00:17:45,110 --> 00:17:48,890
+we can a patient who
+has a concern for
+
+340
+00:17:48,890 --> 00:17:51,730
+allergy but really needs
+contrast can be pre
+
+341
+00:17:51,730 --> 00:17:54,790
+-treated with certain
+medications as described
+
+342
+00:17:54,790 --> 00:17:58,350
+here. Also, if we
+do get to a point of
+
+343
+00:17:58,350 --> 00:18:02,190
+an anaphylactic
+response, we can treat
+
+344
+00:18:02,190 --> 00:18:04,370
+the patient and there's
+always a crash cart
+
+345
+00:18:04,370 --> 00:18:07,490
+next to the CAT scan
+machine. The second
+
+346
+00:18:07,490 --> 00:18:11,710
+risk of IV contrast
+in CT is nephropathy.
+
+347
+00:18:11,970 --> 00:18:14,750
+This is very important
+because you can
+
+348
+00:18:14,750 --> 00:18:17,450
+put someone into
+acute renal failure
+
+349
+00:18:17,450 --> 00:18:21,190
+from one dose of IV
+CT contrast if we
+
+350
+00:18:21,190 --> 00:18:23,410
+haven't done the
+proper pre-screening.
+
+351
+00:18:23,410 --> 00:18:25,910
+So part of the pre
+-screening for CT IV
+
+352
+00:18:25,910 --> 00:18:30,450
+contrast is a serum
+creatinine level.
+
+353
+00:18:30,670 --> 00:18:33,750
+Any creatinine above
+1.5, we usually
+
+354
+00:18:33,750 --> 00:18:36,290
+do not give
+contrast. There are
+
+355
+00:18:36,290 --> 00:18:38,890
+scenarios in which
+we may bypass our
+
+356
+00:18:38,890 --> 00:18:40,890
+hospital protocols.
+For example,
+
+357
+00:18:41,010 --> 00:18:43,010
+life-threatening trauma,
+
+358
+00:18:43,550 --> 00:18:45,990
+you know, life
+-threatening pulmonary
+
+359
+00:18:46,070 --> 00:18:49,310
+embolism. If we're
+concerned that the
+
+360
+00:18:49,310 --> 00:18:51,590
+benefits of the CAT
+scan and the contrast
+
+361
+00:18:51,590 --> 00:18:54,790
+outweigh the risk of
+acute renal failure,
+
+362
+00:18:54,790 --> 00:18:56,990
+we may give contrast
+anyway. And that's
+
+363
+00:18:56,990 --> 00:18:59,740
+a conversation
+between the doctor
+
+364
+00:18:59,740 --> 00:19:02,590
+ordering the study and
+the radiologist who's
+
+365
+00:19:02,590 --> 00:19:04,870
+covering the department
+at that time.
+
+366
+00:19:05,130 --> 00:19:08,430
+Aside from a high
+creatinine level,
+
+367
+00:19:08,830 --> 00:19:11,470
+diabetic patients,
+even with a normal
+
+368
+00:19:11,470 --> 00:19:15,430
+creatinine are at
+risk for renal failure
+
+369
+00:19:15,430 --> 00:19:18,350
+from IV contrast
+because diabetes
+
+370
+00:19:18,350 --> 00:19:21,070
+is a disease that
+affects the kidneys.
+
+371
+00:19:22,220 --> 00:19:27,270
+So we like to know if
+a patient is diabetic
+
+372
+00:19:27,270 --> 00:19:30,130
+and we may choose to take
+some extra precaution
+
+373
+00:19:30,130 --> 00:19:33,890
+with them. Maybe
+they might get a dose
+
+374
+00:19:33,890 --> 00:19:36,770
+of hydration before
+the contrast is given.
+
+375
+00:19:37,670 --> 00:19:40,650
+Specifically,
+diabetics on metformin.
+
+376
+00:19:40,650 --> 00:19:43,570
+These patients, the
+drug metformin must
+
+377
+00:19:43,570 --> 00:19:45,890
+be discontinued
+for 48 hours before
+
+378
+00:19:45,890 --> 00:19:48,980
+contrast because
+there is a reaction.
+
+379
+00:19:53,170 --> 00:19:55,910
+Patients who have
+chronic renal failure
+
+380
+00:19:55,920 --> 00:20:00,750
+can get CT contrast
+as long as their
+
+381
+00:20:00,750 --> 00:20:04,690
+hemodialysis is
+scheduled within 24 hours
+
+382
+00:20:04,690 --> 00:20:06,470
+of the contrast
+being administered.
+
+383
+00:20:09,140 --> 00:20:11,670
+So when do we order a
+
+384
+00:20:11,670 --> 00:20:13,140
+CAT scan with contrast?
+
+385
+00:20:15,230 --> 00:20:18,710
+Typically not in
+trauma scenarios.
+
+386
+00:20:18,850 --> 00:20:23,930
+It's typically a different
+scenario like when
+
+387
+00:20:23,930 --> 00:20:27,050
+we suspect a tumor or
+when we're evaluating
+
+388
+00:20:27,050 --> 00:20:29,730
+a known tumor, when
+there's some kind of
+
+389
+00:20:29,730 --> 00:20:33,910
+vascular disorder, a
+******, an aneurysm.
+
+390
+00:20:33,910 --> 00:20:37,150
+Now this may confuse you
+because the first line
+
+391
+00:20:37,150 --> 00:20:39,670
+imaging that's
+indicated when a patient
+
+392
+00:20:39,670 --> 00:20:42,530
+presents with a ******
+is a non-contrast CT.
+
+393
+00:20:42,710 --> 00:20:45,870
+But if the non-contrast
+CT shows that there
+
+394
+00:20:45,870 --> 00:20:47,970
+is no hemorrhage, we
+then follow that up
+
+395
+00:20:47,970 --> 00:20:51,410
+with a contrast CT to
+look at the arteries
+
+396
+00:20:51,410 --> 00:20:53,730
+and see if there's
+an area of stenosis
+
+397
+00:20:53,730 --> 00:20:57,070
+or an occlusion in a
+vessel to the brain.
+
+398
+00:20:58,110 --> 00:21:00,930
+So when we're looking for
+
+399
+00:21:00,930 --> 00:21:03,090
+infection or abscess,
+that's another
+
+400
+00:21:03,090 --> 00:21:05,710
+indication for
+CTIV contrast.
+
+401
+00:21:06,130 --> 00:21:09,010
+Just to reiterate,
+if we are looking for
+
+402
+00:21:09,010 --> 00:21:11,770
+acute hemorrhage,
+which is essentially
+
+403
+00:21:11,770 --> 00:21:16,330
+all trauma scenarios,
+and often in a
+
+404
+00:21:16,330 --> 00:21:19,190
+scenario of altered
+mental status, often
+
+405
+00:21:19,190 --> 00:21:21,850
+in a scenario of
+******, we do a non
+
+406
+00:21:21,850 --> 00:21:24,970
+-contrast CT first
+as a first line and
+
+407
+00:21:24,970 --> 00:21:27,850
+then we can do a
+contrast study to look
+
+408
+00:21:27,850 --> 00:21:30,470
+for other entities.
+It's very important
+
+409
+00:21:30,790 --> 00:21:33,890
+in brain imaging
+especially in the
+
+410
+00:21:33,890 --> 00:21:36,150
+emergency setting
+to rule out acute
+
+411
+00:21:36,150 --> 00:21:38,660
+hemorrhage as a
+first line order.
+
+412
+00:21:38,930 --> 00:21:41,630
+The second modality
+we're going to discuss
+
+413
+00:21:41,630 --> 00:21:44,850
+is magnetic resonance
+imaging or MRI.
+
+414
+00:21:44,970 --> 00:21:47,490
+It looks very similar
+to the CAT scan
+
+415
+00:21:47,490 --> 00:21:50,730
+machine. There's a
+patient bed which moves
+
+416
+00:21:50,730 --> 00:21:54,470
+in and out of another
+donut, this donut is
+
+417
+00:21:54,470 --> 00:21:56,350
+a little bit bigger
+than the CAT scan
+
+418
+00:21:56,350 --> 00:21:59,850
+donut. And inside
+this donut, instead of
+
+419
+00:21:59,850 --> 00:22:04,130
+helical x-ray beams,
+there's a big magnet.
+
+420
+00:22:04,610 --> 00:22:09,490
+This magnet
+has pulsations.
+
+421
+00:22:10,290 --> 00:22:13,010
+The pulsations
+that are performed
+
+422
+00:22:13,010 --> 00:22:15,090
+during the MRI sequence
+
+423
+00:22:15,090 --> 00:22:18,550
+excite the atoms
+within the body.
+
+424
+00:22:19,770 --> 00:22:23,490
+the atoms within
+the body then
+
+425
+00:22:23,490 --> 00:22:25,690
+relax after
+being excited.
+
+426
+00:22:25,990 --> 00:22:30,610
+The relaxation times
+of those atoms is what
+
+427
+00:22:30,610 --> 00:22:34,730
+creates the different
+images on an MRI.
+
+428
+00:22:37,080 --> 00:22:39,650
+So as you can see
+in the image on
+
+429
+00:22:39,650 --> 00:22:41,610
+the bottom right
+hand corner here,
+
+430
+00:22:43,190 --> 00:22:46,270
+different types of
+tissue have different
+
+431
+00:22:46,270 --> 00:22:50,030
+relaxation times and
+show up differently
+
+432
+00:22:50,030 --> 00:22:52,750
+on an image and
+it's through this
+
+433
+00:22:52,750 --> 00:22:57,710
+differential appearance
+that we interpret MRI.
+
+434
+00:22:57,830 --> 00:23:00,070
+Just want to discuss MRI
+
+435
+00:23:00,070 --> 00:23:01,390
+with you a little bit.
+
+436
+00:23:01,670 --> 00:23:05,590
+The sequences in
+MRI are similar to
+
+437
+00:23:05,590 --> 00:23:09,390
+the windows in CT.
+So we use different
+
+438
+00:23:09,390 --> 00:23:12,770
+sequences in MRI to
+look at different
+
+439
+00:23:12,770 --> 00:23:14,990
+types of tissue
+and I just want
+
+440
+00:23:14,990 --> 00:23:16,770
+that to be the take
+-home point here.
+
+441
+00:23:17,110 --> 00:23:20,070
+So what are the
+advantages of MRI?
+
+442
+00:23:21,030 --> 00:23:24,890
+Superb visualization
+of soft tissues,
+
+443
+00:23:25,170 --> 00:23:28,170
+brain, spinal
+cord, nerves,
+
+444
+00:23:28,170 --> 00:23:30,410
+ligaments,
+tendons, tumors.
+
+445
+00:23:30,410 --> 00:23:33,980
+You probably hear
+about people getting
+
+446
+00:23:33,980 --> 00:23:37,470
+MRIs of joints a
+lot. I got an MRI of
+
+447
+00:23:37,470 --> 00:23:39,630
+the shoulder, I got
+an MRI of the knee.
+
+448
+00:23:39,630 --> 00:23:41,590
+I got an MRI of
+the wrist. That's
+
+449
+00:23:41,590 --> 00:23:44,550
+because MRI is excellent
+for soft tissue.
+
+450
+00:23:45,370 --> 00:23:48,910
+Another benefit of
+MRI, no radiation.
+
+451
+00:23:49,610 --> 00:23:54,190
+That's a huge benefit.
+You can probably
+
+452
+00:23:54,190 --> 00:23:57,520
+guess we really
+like to do MRI on
+
+453
+00:23:57,520 --> 00:24:00,650
+pregnant women and
+children over CAT scan.
+
+454
+00:24:01,850 --> 00:24:06,910
+There's a third
+advantage of MRI, which
+
+455
+00:24:06,910 --> 00:24:09,500
+is that we can actually
+do an angiogram.
+
+456
+00:24:09,510 --> 00:24:13,650
+It's called an MR
+angiogram with an
+
+457
+00:24:13,650 --> 00:24:17,790
+MRI without
+contrast. There is a
+
+458
+00:24:17,790 --> 00:24:20,850
+technology, an MRI,
+that allows us to not
+
+459
+00:24:20,850 --> 00:24:24,760
+give any contrast,
+yet we can actually
+
+460
+00:24:24,760 --> 00:24:28,010
+evaluate the vessels,
+look for stenosis,
+
+461
+00:24:29,210 --> 00:24:33,070
+look for aneurysms
+arteriovenous malformations
+
+462
+00:24:33,070 --> 00:24:35,390
+everything so this
+is a these are
+
+463
+00:24:35,390 --> 00:24:39,790
+three great advantages
+of MRI so based
+
+464
+00:24:39,790 --> 00:24:42,630
+on our understanding
+now of MRI when do
+
+465
+00:24:42,630 --> 00:24:49,310
+we order an MRI we
+may order an MRI in
+
+466
+00:24:49,310 --> 00:24:52,710
+cases of early ******
+if the patient's
+
+467
+00:24:52,710 --> 00:24:57,210
+symptoms have begun
+less than 12 hours ago
+
+468
+00:24:57,650 --> 00:25:00,650
+and a CAT scan has
+been done and it is
+
+469
+00:25:00,650 --> 00:25:02,610
+completely negative,
+doesn't show any
+
+470
+00:25:02,610 --> 00:25:07,790
+abnormality, we may then
+follow that CT up with
+
+471
+00:25:07,790 --> 00:25:11,890
+an MRI and the MRI
+might show a ******,
+
+472
+00:25:11,890 --> 00:25:14,770
+an acute ******, when
+a CT did not show
+
+473
+00:25:14,770 --> 00:25:18,970
+it. And that's a big
+advantage of MRI over
+
+474
+00:25:18,970 --> 00:25:22,830
+CT. So it is still
+the typical protocol
+
+475
+00:25:22,830 --> 00:25:26,350
+for patients to have
+a ct without contrast
+
+476
+00:25:26,350 --> 00:25:30,250
+as a first line study
+remember ct takes
+
+477
+00:25:30,250 --> 00:25:33,250
+less than 30 seconds
+when a patient arrives
+
+478
+00:25:33,250 --> 00:25:37,490
+to the er with a
+facial droop aphasia
+
+479
+00:25:37,510 --> 00:25:42,190
+a dead leg non-responsive
+you want to know
+
+480
+00:25:42,190 --> 00:25:44,450
+you want to get an
+image immediately so
+
+481
+00:25:44,450 --> 00:25:46,570
+it is not likely that
+you're going to send
+
+482
+00:25:46,570 --> 00:25:49,490
+the patient for a 30
+-minute MRI, right?
+
+483
+00:25:49,750 --> 00:25:52,010
+Even though MRI is
+very beneficial,
+
+484
+00:25:52,010 --> 00:25:54,370
+we always usually
+throw them into the CAT
+
+485
+00:25:54,370 --> 00:25:56,830
+scan machine, 30
+seconds come out, at
+
+486
+00:25:56,830 --> 00:25:59,010
+least we have some idea
+of what's going on.
+
+487
+00:25:59,210 --> 00:26:02,970
+But if a CT were
+negative and you highly
+
+488
+00:26:02,970 --> 00:26:05,350
+suspect, oh, look,
+there's a face droop,
+
+489
+00:26:05,350 --> 00:26:08,070
+so clearly something's
+wrong, but the CT was
+
+490
+00:26:08,070 --> 00:26:10,250
+negative, then we
+would do an MRI. MRI.
+
+491
+00:26:11,250 --> 00:26:13,770
+Another indication
+for assessment of
+
+492
+00:26:13,770 --> 00:26:16,630
+MRI is characterization
+of tumors.
+
+493
+00:26:17,550 --> 00:26:21,210
+Also, we can assess
+the cranial nerves.
+
+494
+00:26:21,210 --> 00:26:23,110
+We can't really
+evaluate cranial
+
+495
+00:26:23,110 --> 00:26:25,550
+nerves with CT, but
+we can with MRI.
+
+496
+00:26:26,270 --> 00:26:28,950
+And then as I mentioned,
+there's something,
+
+497
+00:26:28,950 --> 00:26:31,510
+a subset of MRI
+called the MR
+
+498
+00:26:31,510 --> 00:26:35,510
+angiography, which is
+specifically evaluation
+
+499
+00:26:35,510 --> 00:26:38,910
+of the vessels of
+the head and neck.
+
+500
+00:26:40,830 --> 00:26:44,210
+As I've alluded to
+a bit, there are
+
+501
+00:26:44,210 --> 00:26:47,870
+disadvantages to
+MRI. It is expensive.
+
+502
+00:26:48,050 --> 00:26:52,090
+The machine, the
+expertise required to
+
+503
+00:26:52,090 --> 00:26:54,830
+maintain the machine,
+even the room
+
+504
+00:26:54,830 --> 00:26:57,630
+itself has special,
+has specifications.
+
+505
+00:26:57,930 --> 00:27:01,610
+So in general, running
+an MRI is expensive.
+
+506
+00:27:02,750 --> 00:27:06,910
+the donut of the MRI
+machine is a little
+
+507
+00:27:06,910 --> 00:27:09,350
+bit smaller than the
+one of the CAT scan
+
+508
+00:27:09,350 --> 00:27:12,510
+machine and patients
+need to spend more
+
+509
+00:27:12,510 --> 00:27:15,010
+time in there so
+patients are more prone
+
+510
+00:27:15,010 --> 00:27:17,650
+to claustrophobia
+with MRI than with CAT
+
+511
+00:27:17,650 --> 00:27:21,370
+scan so sometimes
+claustrophobia prevents
+
+512
+00:27:21,370 --> 00:27:23,150
+a patient from being
+able to have an
+
+513
+00:27:23,150 --> 00:27:28,070
+MRI it is also slow
+sometimes time is not
+
+514
+00:27:28,070 --> 00:27:30,950
+in our favor and we
+can't afford an MRI
+
+515
+00:27:32,730 --> 00:27:34,450
+Metallic implants are a
+
+516
+00:27:34,450 --> 00:27:36,310
+major disadvantage
+to MRI.
+
+517
+00:27:37,010 --> 00:27:41,790
+If a patient has a
+metallic implant, they
+
+518
+00:27:41,790 --> 00:27:46,230
+need to be pre-screened
+for the type to make
+
+519
+00:27:46,230 --> 00:27:48,350
+sure that it is
+compatible with MRI.
+
+520
+00:27:48,350 --> 00:27:51,650
+Because if it is not
+compatible, the patient
+
+521
+00:27:51,650 --> 00:27:55,370
+is at risk of the
+large magnet moving the
+
+522
+00:27:55,370 --> 00:27:58,590
+implanted device and
+causing physical harm.
+
+523
+00:27:59,570 --> 00:28:02,850
+so the devices can
+either heat up from
+
+524
+00:28:02,850 --> 00:28:05,450
+the magnetic
+excitation or they can
+
+525
+00:28:05,450 --> 00:28:07,570
+actually migrate and
+this is a this is
+
+526
+00:28:07,570 --> 00:28:09,940
+a major issue and
+we need to take
+
+527
+00:28:09,940 --> 00:28:13,770
+precaution as you
+can see in this image
+
+528
+00:28:14,330 --> 00:28:17,750
+this office chair
+had a magnetic
+
+529
+00:28:17,750 --> 00:28:20,590
+component and it should
+not be in the mri
+
+530
+00:28:20,590 --> 00:28:24,050
+room but it was in
+the mri room and
+
+531
+00:28:24,050 --> 00:28:26,810
+because this magnet
+is so strong it
+
+532
+00:28:26,810 --> 00:28:28,670
+flew through the air
+into the machine.
+
+533
+00:28:29,210 --> 00:28:32,890
+So it's very important
+to be aware of
+
+534
+00:28:32,890 --> 00:28:36,950
+magnet issues in relation
+to MRI. The weight
+
+535
+00:28:36,950 --> 00:28:39,370
+limit on an MRI
+machine is less than a
+
+536
+00:28:39,370 --> 00:28:41,850
+CAT scan machine. I
+believe most CAT scan
+
+537
+00:28:41,850 --> 00:28:44,800
+machines can take
+up to 400 something.
+
+538
+00:28:45,610 --> 00:28:50,030
+MRI only 350. So that's
+a limitation. And
+
+539
+00:28:50,030 --> 00:28:52,150
+then of course, there
+are some risks of IV
+
+540
+00:28:52,150 --> 00:28:54,010
+contrast, which we're
+now going to get into.
+
+541
+00:28:54,690 --> 00:28:59,110
+So MRI IV contrast
+is not the
+
+542
+00:28:59,110 --> 00:29:02,490
+same substance
+as CTIV contrast.
+
+543
+00:29:02,830 --> 00:29:06,490
+MRI IV contrast is a
+
+544
+00:29:06,490 --> 00:29:08,910
+gadolinium
+-based solution,
+
+545
+00:29:09,900 --> 00:29:11,950
+gadolinium, the
+heavy metal.
+
+546
+00:29:12,370 --> 00:29:16,430
+When do we order an
+MRI with contrast
+
+547
+00:29:16,430 --> 00:29:19,470
+as opposed to
+without? The same
+
+548
+00:29:19,470 --> 00:29:22,710
+reasons that we give
+contrast in CT are
+
+549
+00:29:22,710 --> 00:29:24,790
+those that we give
+contrast in MRI.
+
+550
+00:29:25,000 --> 00:29:27,950
+If we would like to
+evaluate a brain tumor,
+
+551
+00:29:27,990 --> 00:29:30,750
+if we're looking for
+vascular pathology,
+
+552
+00:29:30,750 --> 00:29:33,330
+or if there is
+suspicion of infection.
+
+553
+00:29:33,710 --> 00:29:36,910
+These are four images
+through the same
+
+554
+00:29:36,910 --> 00:29:41,090
+patient. The two on the
+top are axial, pre- and
+
+555
+00:29:41,090 --> 00:29:43,910
+post-contrast. The
+two on the bottom are
+
+556
+00:29:43,910 --> 00:29:48,330
+coronal, pre- and post
+-contrast, showing you
+
+557
+00:29:48,330 --> 00:29:52,980
+how contrast can
+highlight a small tumor
+
+558
+00:29:52,980 --> 00:29:55,610
+and how it's possible
+that without contrast,
+
+559
+00:29:55,610 --> 00:29:58,770
+this tumor could be
+completely missed and
+
+560
+00:29:58,770 --> 00:30:01,090
+why it is important
+to give contrast if
+
+561
+00:30:01,090 --> 00:30:03,730
+you're looking for a
+tumor. As you see, the
+
+562
+00:30:03,730 --> 00:30:07,010
+tumor is circled in
+yellow on the two post
+
+563
+00:30:07,010 --> 00:30:09,670
+-contrast images,
+axial and coronal, and
+
+564
+00:30:09,670 --> 00:30:12,210
+it's quite hard to see,
+only kind of shows up
+
+565
+00:30:12,210 --> 00:30:14,730
+in retrospect on the
+pre-contrast images.
+
+566
+00:30:14,810 --> 00:30:19,010
+This is another
+example of how IV
+
+567
+00:30:20,210 --> 00:30:23,850
+contrast just lights
+up disease entities.
+
+568
+00:30:23,850 --> 00:30:27,800
+The image on the far
+left is a pre-contrast
+
+569
+00:30:27,800 --> 00:30:30,070
+axial MRI through
+the level of the
+
+570
+00:30:30,070 --> 00:30:35,130
+ventricles. the middle
+and far right images
+
+571
+00:30:35,130 --> 00:30:38,570
+are axial and coronal
+post-contrast images
+
+572
+00:30:38,570 --> 00:30:42,390
+of the same patient
+showing abnormal
+
+573
+00:30:42,390 --> 00:30:47,230
+leptomeningeal enhancements
+in a patient with
+
+574
+00:30:47,550 --> 00:30:50,550
+neurosarcoidosis now
+this is a this is a
+
+575
+00:30:50,550 --> 00:30:55,350
+study where i can with
+confidence say many
+
+576
+00:30:55,350 --> 00:30:59,330
+people would miss the
+disease if contrast
+
+577
+00:31:00,370 --> 00:31:03,450
+had not been administered.
+It is very hard
+
+578
+00:31:03,450 --> 00:31:07,050
+to see this
+abnormality on the pre
+
+579
+00:31:07,050 --> 00:31:09,470
+-contrast image, but on
+the post-contrast image,
+
+580
+00:31:09,470 --> 00:31:11,630
+you just can't miss
+it, and this is
+
+581
+00:31:11,630 --> 00:31:14,510
+why contrast is important,
+and it's important
+
+582
+00:31:14,510 --> 00:31:18,510
+to look critically
+at your patient,
+
+583
+00:31:18,510 --> 00:31:22,070
+develop a differential
+diagnosis, and work
+
+584
+00:31:22,070 --> 00:31:24,630
+up based on that
+differential diagnosis.
+
+585
+00:31:26,310 --> 00:31:29,730
+Risks of IV-MRI contrast.
+
+586
+00:31:31,310 --> 00:31:36,010
+Ironically, CT
+and MRI contrast,
+
+587
+00:31:36,010 --> 00:31:38,310
+despite being
+different solutions,
+
+588
+00:31:38,310 --> 00:31:40,890
+they both have
+harmful effects on the
+
+589
+00:31:40,890 --> 00:31:43,910
+kidneys. They are
+completely different disease
+
+590
+00:31:43,910 --> 00:31:47,990
+processes. In IV MRI
+contrast, there is
+
+591
+00:31:47,990 --> 00:31:51,350
+a very, very rare
+but serious condition
+
+592
+00:31:51,350 --> 00:31:55,330
+called nephrogenic
+systemic fibrosis, which
+
+593
+00:31:55,330 --> 00:32:03,650
+occurs after IV
+contrast and really only
+
+594
+00:32:03,650 --> 00:32:05,910
+in patients who have
+renal impairment.
+
+595
+00:32:06,230 --> 00:32:10,630
+So for that reason,
+we also pre-screen
+
+596
+00:32:10,630 --> 00:32:12,670
+patients who are
+going to get MRI
+
+597
+00:32:12,670 --> 00:32:15,430
+IV contrast for
+their renal function.
+
+598
+00:32:16,490 --> 00:32:20,770
+If we're ordering
+a CAT scan and
+
+599
+00:32:20,770 --> 00:32:23,490
+we want to pre
+-screen for kidney
+
+600
+00:32:23,490 --> 00:32:26,090
+function, we get a
+serum creatinine.
+
+601
+00:32:26,390 --> 00:32:30,070
+If we are pre
+-screening a patient for
+
+602
+00:32:30,070 --> 00:32:34,330
+MRI IV contrast,
+we get a GFR. GFR.
+
+603
+00:32:34,330 --> 00:32:38,950
+If the GFR is less
+than 30, those
+
+604
+00:32:38,950 --> 00:32:41,410
+patients cannot get
+IV MRI contrast.
+
+605
+00:32:41,530 --> 00:32:45,110
+There's also a lesser
+known entity called
+
+606
+00:32:45,110 --> 00:32:48,070
+gadolinium deposition
+disease. There's
+
+607
+00:32:48,070 --> 00:32:50,810
+not too much known
+about it today.
+
+608
+00:32:50,810 --> 00:32:53,970
+However, we have seen
+in autopsies that
+
+609
+00:32:53,970 --> 00:32:57,190
+patients who have
+received IV MRI contrast
+
+610
+00:32:57,190 --> 00:32:59,750
+in their life have
+deposits of the
+
+611
+00:32:59,750 --> 00:33:02,730
+heavy metal in their
+brain. We are still
+
+612
+00:33:02,730 --> 00:33:04,670
+trying to understand
+if there are harmful
+
+613
+00:33:04,670 --> 00:33:06,530
+effects associated
+with that. So it's
+
+614
+00:33:06,530 --> 00:33:10,110
+something to be aware
+of. And then there's
+
+615
+00:33:10,110 --> 00:33:12,650
+also allergic reaction
+associated with
+
+616
+00:33:12,650 --> 00:33:15,510
+MRI contrast. It's
+not as common as CT
+
+617
+00:33:15,510 --> 00:33:17,710
+contrast, but something
+to be aware of.
+
+618
+00:33:18,030 --> 00:33:20,790
+We have reached the
+third modality that
+
+619
+00:33:20,790 --> 00:33:22,750
+we're going to
+discuss today in terms
+
+620
+00:33:22,750 --> 00:33:25,730
+of modalities used
+in neuroimaging.
+
+621
+00:33:26,590 --> 00:33:31,710
+So carotid duplex
+ultrasound is a form
+
+622
+00:33:31,710 --> 00:33:35,010
+of cross-sectional
+imaging of only the
+
+623
+00:33:35,010 --> 00:33:38,010
+cervical segments
+of the major vessels
+
+624
+00:33:38,010 --> 00:33:40,750
+to the head. So
+while I've described,
+
+625
+00:33:40,750 --> 00:33:43,350
+this lecture is called
+clinical applications
+
+626
+00:33:43,350 --> 00:33:45,650
+of neuroimaging.
+Neuroimaging really
+
+627
+00:33:45,650 --> 00:33:49,150
+encompasses the brain
+and spine. But for
+
+628
+00:33:49,150 --> 00:33:50,710
+the purposes of
+this lecture, we're
+
+629
+00:33:50,710 --> 00:33:52,990
+mainly talking about
+head and neck imaging.
+
+630
+00:33:53,210 --> 00:33:58,010
+And carotid duplex
+ultrasound is for
+
+631
+00:33:58,010 --> 00:34:01,630
+evaluation of the
+common carotid arteries,
+
+632
+00:34:01,790 --> 00:34:05,110
+the internal carotid
+artery, cervical
+
+633
+00:34:05,110 --> 00:34:08,410
+segments only, the
+external carotid
+
+634
+00:34:08,410 --> 00:34:11,610
+artery, and the vertebral
+arteries, cervical
+
+635
+00:34:11,610 --> 00:34:14,490
+segments only. We
+can also look at
+
+636
+00:34:14,490 --> 00:34:17,590
+veins with carotid
+duplex ultrasound.
+
+637
+00:34:18,450 --> 00:34:21,870
+The word duplex in
+carotid ultrasound
+
+638
+00:34:21,870 --> 00:34:26,310
+refers to the two
+components of information
+
+639
+00:34:26,310 --> 00:34:28,090
+that we receive
+from this study.
+
+640
+00:34:28,090 --> 00:34:31,190
+Remember, this is
+an ultrasound of the
+
+641
+00:34:31,190 --> 00:34:33,990
+carotid vessels. When
+we do the ultrasound,
+
+642
+00:34:33,990 --> 00:34:35,870
+as shown in this
+photograph here,
+
+643
+00:34:36,410 --> 00:34:40,550
+a transducer is
+placed on the tissue
+
+644
+00:34:40,550 --> 00:34:42,290
+of interest, in
+this case, the
+
+645
+00:34:42,290 --> 00:34:46,470
+cervical vessels,
+to send and
+
+646
+00:34:46,470 --> 00:34:48,930
+receive sound waves
+from the tissue.
+
+647
+00:34:49,590 --> 00:34:54,730
+The software then creates
+grayscale and color
+
+648
+00:34:54,730 --> 00:34:57,750
+Doppler images, as
+shown here on the bottom
+
+649
+00:34:57,750 --> 00:35:00,950
+right-hand corner,
+grayscale in A, color
+
+650
+00:35:00,950 --> 00:35:05,710
+Doppler in B, to show
+us both the tissue and
+
+651
+00:35:05,710 --> 00:35:08,330
+then the flow of blood
+within the tissue.
+
+652
+00:35:08,790 --> 00:35:13,750
+The next step
+of the duplex
+
+653
+00:35:13,750 --> 00:35:15,790
+component is on
+the next slide.
+
+654
+00:35:16,130 --> 00:35:19,450
+The second component
+of the duplex
+
+655
+00:35:19,450 --> 00:35:23,970
+ultrasound is spectral
+analysis. So as the
+
+656
+00:35:23,970 --> 00:35:27,050
+blood flow is measured
+by the ultrasound,
+
+657
+00:35:27,050 --> 00:35:31,150
+the software provides
+a waveform and we
+
+658
+00:35:31,150 --> 00:35:33,870
+know what normal
+vascular waveforms are
+
+659
+00:35:33,870 --> 00:35:36,630
+supposed to be for
+arteries and for veins.
+
+660
+00:35:36,630 --> 00:35:40,910
+And we can therefore
+identify stenosis,
+
+661
+00:35:40,910 --> 00:35:46,150
+occlusion, abnormal
+rhythms, all using
+
+662
+00:35:46,150 --> 00:35:48,690
+spectral analysis and
+carotid ultrasound.
+
+663
+00:35:50,070 --> 00:35:54,310
+Advantages of carotid
+ultrasound, non-invasive,
+
+664
+00:35:54,350 --> 00:35:57,350
+the most cost
+-effective neuroimaging
+
+665
+00:35:57,350 --> 00:36:00,970
+modality. It can even
+be performed portably.
+
+666
+00:36:02,090 --> 00:36:05,090
+While most of the
+studies in radiology,
+
+667
+00:36:05,090 --> 00:36:06,550
+the patient has
+to come to the
+
+668
+00:36:06,550 --> 00:36:09,450
+radiology department
+to have the exam. In
+
+669
+00:36:09,450 --> 00:36:11,850
+this case, we can
+take the exam to the
+
+670
+00:36:11,850 --> 00:36:15,350
+patient, ICU, emergency
+room, anywhere
+
+671
+00:36:15,350 --> 00:36:18,130
+they are. It's also
+quite reliable.
+
+672
+00:36:19,550 --> 00:36:23,090
+So what situations
+would cause
+
+673
+00:36:23,090 --> 00:36:26,110
+us as clinicians
+to order a carotid
+
+674
+00:36:26,110 --> 00:36:27,590
+ultrasound for
+our patients?
+
+675
+00:36:27,870 --> 00:36:30,470
+When we suspect
+or would like
+
+676
+00:36:30,470 --> 00:36:33,770
+to follow up on
+a known carotid
+
+677
+00:36:33,770 --> 00:36:36,210
+or vertebral
+artery stenosis.
+
+678
+00:36:36,520 --> 00:36:39,010
+So just like in
+the first slide,
+
+679
+00:36:39,130 --> 00:36:41,770
+altered mental status,
+transient ischemic
+
+680
+00:36:41,770 --> 00:36:45,270
+attack, syncope
+and ****** are all
+
+681
+00:36:45,270 --> 00:36:51,710
+presentations that may
+be resultant from a
+
+682
+00:36:51,710 --> 00:36:54,270
+carotid or vertebral
+artery stenosis and
+
+683
+00:36:54,270 --> 00:36:57,270
+a carotid ultrasound
+would be indicated.
+
+684
+00:36:57,370 --> 00:37:00,210
+Now, the order in which
+we would perform any
+
+685
+00:37:00,210 --> 00:37:02,270
+of those four modalities
+that I discussed
+
+686
+00:37:02,270 --> 00:37:05,230
+today is a little bit
+more complicated, but
+
+687
+00:37:06,110 --> 00:37:08,430
+the main point of this
+lecture is for you
+
+688
+00:37:08,430 --> 00:37:10,690
+to know that carotid
+ultrasound is on your
+
+689
+00:37:10,690 --> 00:37:13,750
+list of options of things
+to order when you're
+
+690
+00:37:13,750 --> 00:37:16,020
+trying to work up a
+certain presentation.
+
+691
+00:37:16,510 --> 00:37:19,350
+Now, the last indication
+or presentation,
+
+692
+00:37:19,350 --> 00:37:22,810
+actually it's neither,
+it's a finding on
+
+693
+00:37:22,810 --> 00:37:25,550
+physical exam, which
+is a brewy, would be
+
+694
+00:37:25,550 --> 00:37:27,770
+another reason to
+order a carotid duplex
+
+695
+00:37:27,770 --> 00:37:30,230
+ultrasound. And that's
+because a brewy,
+
+696
+00:37:30,230 --> 00:37:34,710
+which is defined as a
+palpable thrill over
+
+697
+00:37:34,710 --> 00:37:39,730
+the carotid artery,
+is a physical finding
+
+698
+00:37:39,730 --> 00:37:41,870
+that has been
+associated with carotid
+
+699
+00:37:41,870 --> 00:37:44,300
+stenosis. So when you
+palpate a brewy, you
+
+700
+00:37:44,300 --> 00:37:46,400
+should be concerned
+that a patient has
+
+701
+00:37:46,400 --> 00:37:48,550
+carotid stenosis. And
+one of the ways you can
+
+702
+00:37:48,550 --> 00:37:51,270
+work that up is via
+carotid ultrasound.
+
+703
+00:37:53,010 --> 00:37:55,670
+Disadvantages of
+carotid ultrasound.
+
+704
+00:37:56,410 --> 00:37:59,030
+The disadvantages
+are technical
+
+705
+00:37:59,030 --> 00:38:01,630
+factors. Although
+this is a reliable
+
+706
+00:38:01,630 --> 00:38:04,570
+study, this is
+technician dependent.
+
+707
+00:38:04,910 --> 00:38:08,110
+Human beings perform
+the ultrasound,
+
+708
+00:38:08,110 --> 00:38:10,310
+not a machine.
+So every one
+
+709
+00:38:10,310 --> 00:38:12,090
+comes out a little
+bit differently.
+
+710
+00:38:12,950 --> 00:38:16,670
+image degradation can
+occur in ultrasound
+
+711
+00:38:16,670 --> 00:38:21,470
+due to factors like
+a large patient
+
+712
+00:38:21,470 --> 00:38:24,030
+ultrasound waves move
+differently through
+
+713
+00:38:24,030 --> 00:38:25,950
+different types of
+tissue if there's a large
+
+714
+00:38:25,950 --> 00:38:30,950
+amount of fat before
+superficial to an
+
+715
+00:38:30,950 --> 00:38:33,070
+organ of interest that
+can get in the way of
+
+716
+00:38:33,070 --> 00:38:35,770
+getting good images
+also a patient may
+
+717
+00:38:35,770 --> 00:38:39,110
+not be able to position
+themselves in in the
+
+718
+00:38:39,110 --> 00:38:41,730
+optimal way for the
+study to be done and
+
+719
+00:38:41,730 --> 00:38:43,480
+that can get in the
+way of good images.
+
+720
+00:38:44,970 --> 00:38:48,290
+Patients might be in
+pain and not be able
+
+721
+00:38:48,290 --> 00:38:50,990
+to tolerate the study.
+There is a degree of
+
+722
+00:38:50,990 --> 00:38:54,360
+compression that the
+ultrasound requires.
+
+723
+00:38:55,950 --> 00:38:58,370
+Now certain
+physical parameters
+
+724
+00:38:58,370 --> 00:39:01,610
+like IV lines, a
+ventilator, a bandage,
+
+725
+00:39:01,610 --> 00:39:03,170
+they may get
+in the way of a
+
+726
+00:39:03,170 --> 00:39:05,360
+region of interest
+being evaluated.
+
+727
+00:39:08,030 --> 00:39:10,470
+Conventional
+angiogram is the last
+
+728
+00:39:10,470 --> 00:39:12,550
+modality we will
+discuss today.
+
+729
+00:39:13,590 --> 00:39:18,410
+It is a fluoroscopy
+-guided form of imaging
+
+730
+00:39:19,200 --> 00:39:22,170
+that is done by
+accessing a vessel
+
+731
+00:39:22,170 --> 00:39:24,730
+of interest via
+a peripheral
+
+732
+00:39:24,730 --> 00:39:27,770
+artery or vein
+catheterization and
+
+733
+00:39:27,770 --> 00:39:29,970
+administering
+intravenous contrast.
+
+734
+00:39:31,320 --> 00:39:34,970
+so the first thing you
+need to know is that
+
+735
+00:39:34,970 --> 00:39:37,250
+this is a surgical
+procedure it is done
+
+736
+00:39:37,250 --> 00:39:40,410
+in the operating room
+so the fluoroscopy
+
+737
+00:39:40,410 --> 00:39:45,610
+table that you see on
+the right here is put
+
+738
+00:39:45,610 --> 00:39:49,670
+in an operating room
+the doctors are prepped
+
+739
+00:39:49,670 --> 00:39:52,470
+as surgeons and the
+patient is prepped
+
+740
+00:39:52,470 --> 00:39:57,610
+you know as if for an
+operation the site is
+
+741
+00:39:57,610 --> 00:40:00,770
+sterile and there are
+two screens here or
+
+742
+00:40:00,770 --> 00:40:03,450
+multiple screens
+provided with the table
+
+743
+00:40:03,790 --> 00:40:07,690
+so what happens is we
+access a peripheral
+
+744
+00:40:07,690 --> 00:40:10,690
+artery or vein a
+catheter is introduced
+
+745
+00:40:10,690 --> 00:40:14,870
+we administer contrast
+to guide us centrally
+
+746
+00:40:14,870 --> 00:40:17,630
+into the body to a
+vessel of interest
+
+747
+00:40:17,630 --> 00:40:20,510
+could be an artery
+could be a vein and then
+
+748
+00:40:20,510 --> 00:40:23,530
+we administer contrast
+within that artery
+
+749
+00:40:23,530 --> 00:40:27,830
+and vein and then
+we can look at it in
+
+750
+00:40:27,830 --> 00:40:30,810
+great detail and we
+can also treat it in
+
+751
+00:40:30,810 --> 00:40:34,070
+the same procedure.
+So let's get into it.
+
+752
+00:40:34,510 --> 00:40:37,790
+This is a schematic
+to show you access
+
+753
+00:40:37,790 --> 00:40:41,530
+arterial or venous
+access usually
+
+754
+00:40:41,530 --> 00:40:45,250
+from the groin the
+common femoral or
+
+755
+00:40:45,250 --> 00:40:47,510
+superficial femoral
+artery or vein,
+
+756
+00:40:47,600 --> 00:40:51,170
+alternatively may be
+done from the arm.
+
+757
+00:40:51,650 --> 00:40:56,740
+The picture on the right
+is a fluoroscopically
+
+758
+00:40:56,950 --> 00:41:00,730
+obtained angiogram
+of the aorta.
+
+759
+00:41:01,230 --> 00:41:04,960
+So you see contrast
+in the aorta
+
+760
+00:41:04,960 --> 00:41:08,970
+filling the two
+left and right
+
+761
+00:41:08,970 --> 00:41:10,950
+renal arteries.
+You even see some
+
+762
+00:41:10,950 --> 00:41:14,170
+enhancement of the
+actual kidneys.
+
+763
+00:41:14,430 --> 00:41:17,250
+And then below that,
+you see the iliac
+
+764
+00:41:17,250 --> 00:41:20,190
+bifurcation. Between
+the renal arteries and
+
+765
+00:41:20,190 --> 00:41:22,790
+the iliac bifurcation
+is an abnormal
+
+766
+00:41:22,790 --> 00:41:26,870
+dilation of the aorta,
+which is an aneurysm.
+
+767
+00:41:27,010 --> 00:41:29,510
+So even though this
+isn't neuroimaging,
+
+768
+00:41:29,510 --> 00:41:31,250
+this is just to
+show you, get you
+
+769
+00:41:31,250 --> 00:41:33,170
+comfortable with
+the concept of a
+
+770
+00:41:33,170 --> 00:41:36,450
+conventional angiogram,
+how it's performed.
+
+771
+00:41:36,630 --> 00:41:39,170
+The main advantage
+of a conventional
+
+772
+00:41:39,170 --> 00:41:42,830
+angiogram is the
+opportunity to diagnose and
+
+773
+00:41:42,830 --> 00:41:46,250
+treat in the same study.
+So the image on the
+
+774
+00:41:46,250 --> 00:41:51,050
+right here shows you
+a cerebral angiogram,
+
+775
+00:41:51,050 --> 00:41:53,990
+a conventional angiogram
+of the head, in
+
+776
+00:41:53,990 --> 00:41:58,070
+which we have diagnosed,
+the image in A,
+
+777
+00:41:58,170 --> 00:42:02,070
+an MCA occlusion,
+and the image in B we
+
+778
+00:42:02,070 --> 00:42:04,130
+have treated that
+occlusion and we have
+
+779
+00:42:04,130 --> 00:42:07,430
+reperfusion. So let
+me back up a bit.
+
+780
+00:42:07,810 --> 00:42:11,990
+This patient
+went to the OR,
+
+781
+00:42:12,170 --> 00:42:14,950
+got prepped, the doctors
+
+782
+00:42:14,950 --> 00:42:16,890
+prepped, they
+went into the OR,
+
+783
+00:42:17,010 --> 00:42:19,670
+they performed the
+catheterization from a
+
+784
+00:42:19,670 --> 00:42:22,130
+peripheral site, maybe
+the wrist, maybe the
+
+785
+00:42:22,130 --> 00:42:25,990
+neck. They accessed
+the internal carotid
+
+786
+00:42:25,990 --> 00:42:33,090
+artery, which is the
+short rooted arrow in A.
+
+787
+00:42:33,090 --> 00:42:36,970
+The internal carotid
+artery showed patency.
+
+788
+00:42:37,050 --> 00:42:40,090
+The arrowhead
+shows patency of
+
+789
+00:42:40,090 --> 00:42:42,150
+the anterior
+cerebral artery.
+
+790
+00:42:42,430 --> 00:42:45,870
+And then the long
+-based arrow shows
+
+791
+00:42:45,870 --> 00:42:49,110
+an abrupt cutoff of
+the middle cerebral
+
+792
+00:42:49,110 --> 00:42:52,270
+artery, which would
+cause a ******.
+
+793
+00:42:52,650 --> 00:42:59,370
+The patient was then
+given a clot, something
+
+794
+00:42:59,370 --> 00:43:01,470
+to dissolve the
+clot, a medication
+
+795
+00:43:01,470 --> 00:43:04,770
+inside the vessel to
+break up the clot. It
+
+796
+00:43:04,770 --> 00:43:07,990
+worked. The vessel
+became patent, and now
+
+797
+00:43:07,990 --> 00:43:11,010
+we can actually see
+on the angiogram the
+
+798
+00:43:11,010 --> 00:43:13,210
+branches of the
+middle cerebral artery
+
+799
+00:43:13,210 --> 00:43:17,170
+perfusing where they
+previously were not. So
+
+800
+00:43:17,170 --> 00:43:19,870
+this is a classic
+example of the use of
+
+801
+00:43:19,870 --> 00:43:24,010
+a conventional angiogram
+in neuroimaging.
+
+802
+00:43:25,370 --> 00:43:28,350
+Indications for
+conventional angiogram.
+
+803
+00:43:28,790 --> 00:43:32,430
+When we have vascular
+disease that we
+
+804
+00:43:32,430 --> 00:43:35,890
+intend to treat in
+artery or in vein,
+
+805
+00:43:36,010 --> 00:43:39,970
+so a congenital
+malformation, as shown in the
+
+806
+00:43:39,970 --> 00:43:42,960
+bottom right hand
+corner image here. this
+
+807
+00:43:42,960 --> 00:43:47,530
+is a cerebral venogram
+showing an abnormal
+
+808
+00:43:47,530 --> 00:43:52,010
+arteriovenous malformation
+in the brain the
+
+809
+00:43:52,010 --> 00:43:55,010
+image above that is a
+normal cerebral venogram
+
+810
+00:43:55,010 --> 00:43:58,270
+i think you can
+appreciate that a few more
+
+811
+00:43:58,270 --> 00:44:00,790
+vessels are filling
+with contrast in the
+
+812
+00:44:00,790 --> 00:44:03,310
+image on the bottom
+than on the image on the
+
+813
+00:44:03,310 --> 00:44:06,570
+top those vessels that
+are abnormally filling
+
+814
+00:44:06,570 --> 00:44:12,170
+with contrast on a
+venogram are an abnormal
+
+815
+00:44:12,170 --> 00:44:14,870
+communication between
+arteries and veins.
+
+816
+00:44:14,870 --> 00:44:17,690
+They're accessory
+abnormal vessels that have
+
+817
+00:44:17,690 --> 00:44:21,230
+been formed in the womb
+and they can lead to
+
+818
+00:44:21,230 --> 00:44:25,630
+seizure. They can lead
+to hemorrhage in the
+
+819
+00:44:25,630 --> 00:44:27,470
+brain. They can lead
+to ****** and they can
+
+820
+00:44:27,470 --> 00:44:31,230
+lean to death. So these
+patients are often
+
+821
+00:44:31,230 --> 00:44:36,260
+treated at a very young
+age with coiling and
+
+822
+00:44:37,770 --> 00:44:39,990
+essentially closing
+some of these
+
+823
+00:44:39,990 --> 00:44:43,190
+abnormal arteriovenous
+channels. So this
+
+824
+00:44:43,190 --> 00:44:45,510
+is a situation in
+which it cannot be
+
+825
+00:44:45,510 --> 00:44:47,270
+treated from outside
+the body. It needs
+
+826
+00:44:47,270 --> 00:44:49,210
+to be treated
+in vessel and a
+
+827
+00:44:49,210 --> 00:44:51,530
+conventional angiogram
+would be necessary.
+
+828
+00:44:51,650 --> 00:44:56,630
+A second indication
+would be vascular
+
+829
+00:44:56,630 --> 00:44:58,970
+disease presenting
+as atherosclerotic
+
+830
+00:44:58,970 --> 00:45:01,530
+stenosis. This is
+probably the most common
+
+831
+00:45:01,530 --> 00:45:04,270
+reason for cerebral
+angiogram. A patient
+
+832
+00:45:04,270 --> 00:45:06,410
+presents with an
+acute ******, they
+
+833
+00:45:06,410 --> 00:45:09,150
+have a known occlusion,
+and you want to
+
+834
+00:45:09,150 --> 00:45:11,450
+treat inside the vessel.
+There are certain
+
+835
+00:45:11,450 --> 00:45:13,810
+patients who are
+candidates for this.
+
+836
+00:45:14,850 --> 00:45:18,130
+These would get a
+conventional angiogram.
+
+837
+00:45:18,150 --> 00:45:22,150
+Sometimes there's a
+vascular stenosis or
+
+838
+00:45:22,150 --> 00:45:25,350
+abnormality caused by
+external compression,
+
+839
+00:45:25,350 --> 00:45:27,710
+like maybe from a
+tumor or something.
+
+840
+00:45:27,710 --> 00:45:30,210
+That might be an
+indication to perform a
+
+841
+00:45:30,210 --> 00:45:34,350
+cerebral angiogram.
+And then angioplasty.
+
+842
+00:45:34,990 --> 00:45:40,390
+Another treatment of
+stenosis is balloon
+
+843
+00:45:40,390 --> 00:45:43,710
+placement within
+a vessel. So you
+
+844
+00:45:43,710 --> 00:45:46,770
+can actually administer
+medication within
+
+845
+00:45:46,770 --> 00:45:48,730
+an artery to break
+up a clot, and
+
+846
+00:45:48,730 --> 00:45:52,010
+you can also inflate
+a balloon within
+
+847
+00:45:52,010 --> 00:45:55,450
+the artery to open
+an area of stenosis.
+
+848
+00:45:58,270 --> 00:46:01,830
+So angioplasty is
+another indication for
+
+849
+00:46:01,830 --> 00:46:05,070
+conventional angiogram.
+Sometimes patients
+
+850
+00:46:05,070 --> 00:46:09,550
+in trauma need a
+conventional angiogram.
+
+851
+00:46:09,550 --> 00:46:11,990
+If there is vascular
+injury, it can
+
+852
+00:46:11,990 --> 00:46:14,130
+sometimes be treated
+with an angiogram.
+
+853
+00:46:14,130 --> 00:46:18,030
+Also, aneurysms
+and arterial venous
+
+854
+00:46:18,030 --> 00:46:20,470
+malformations that are
+not congenital also
+
+855
+00:46:20,470 --> 00:46:23,210
+can be treated with
+cerebral angiogram.
+
+856
+00:46:24,130 --> 00:46:26,990
+Disadvantages of
+conventional angiogram.
+
+857
+00:46:26,990 --> 00:46:30,110
+The main one is
+its invasiveness.
+
+858
+00:46:30,450 --> 00:46:37,030
+This is a huge
+operation to take on. It
+
+859
+00:46:37,030 --> 00:46:42,110
+requires an OR. It requires
+sedation. It requires
+
+860
+00:46:42,110 --> 00:46:45,750
+IV contrast, which comes
+with its own risks.
+
+861
+00:46:45,750 --> 00:46:48,970
+It often requires a
+hospital stay. And
+
+862
+00:46:48,970 --> 00:46:50,940
+then there are a whole
+host of complications.
+
+863
+00:46:51,800 --> 00:46:54,650
+There can be injury
+to vessels. You can
+
+864
+00:46:54,650 --> 00:46:57,730
+actually cause a
+dissection or a bleed or
+
+865
+00:46:57,730 --> 00:47:02,050
+an infection when
+performing an angiogram
+
+866
+00:47:02,050 --> 00:47:04,730
+without even attempting
+the treatment. So
+
+867
+00:47:04,730 --> 00:47:08,090
+this is a risky procedure
+and patients need
+
+868
+00:47:08,090 --> 00:47:10,950
+to be chosen wisely
+for this procedure.
+
+869
+00:47:11,570 --> 00:47:14,350
+The other disadvantage
+of conventional
+
+870
+00:47:14,350 --> 00:47:18,370
+angiogram is that it's
+limited in what we see
+
+871
+00:47:18,370 --> 00:47:20,990
+during this study as
+from the images i showed
+
+872
+00:47:20,990 --> 00:47:24,270
+you we really only see
+vessels we don't see
+
+873
+00:47:24,270 --> 00:47:27,330
+how those vessels
+relate to the structures
+
+874
+00:47:27,330 --> 00:47:30,630
+around them so this
+is why a conventional
+
+875
+00:47:30,630 --> 00:47:34,630
+angiogram is mainly
+used when we know of a
+
+876
+00:47:34,630 --> 00:47:38,560
+disease entity and we
+intend to treat because
+
+877
+00:47:38,690 --> 00:47:41,810
+going in and doing a
+conventional angiogram
+
+878
+00:47:41,810 --> 00:47:43,950
+blindly without knowing
+what's going on in
+
+879
+00:47:43,950 --> 00:47:46,850
+the surrounding organs
+is an outdated entity.
+
+880
+00:47:46,950 --> 00:47:50,330
+Nowadays, with the
+proliferation of cross
+
+881
+00:47:50,330 --> 00:47:52,790
+-sectional imaging that
+we have, ultrasound,
+
+882
+00:47:52,790 --> 00:47:56,990
+CAT scan, MRI, we
+almost never perform a
+
+883
+00:47:56,990 --> 00:47:59,450
+conventional angiogram
+without having first
+
+884
+00:47:59,450 --> 00:48:01,890
+done some type of cross
+-sectional imaging.
+
+885
+00:48:03,190 --> 00:48:07,790
+In summary, we
+have discussed four
+
+886
+00:48:07,790 --> 00:48:10,490
+main modalities used
+in neuroimaging.
+
+887
+00:48:10,490 --> 00:48:13,290
+Regarding CAT scan
+and MRI, we've
+
+888
+00:48:13,290 --> 00:48:15,550
+discussed some
+issues pertaining to
+
+889
+00:48:15,550 --> 00:48:19,270
+the IV contrast
+with those studies.
+
+890
+00:48:20,390 --> 00:48:24,810
+CAT scan of the
+brain is best
+
+891
+00:48:24,810 --> 00:48:27,290
+for acute trauma,
+diagnosing
+
+892
+00:48:27,290 --> 00:48:29,130
+hemorrhage, and
+acute fracture.
+
+893
+00:48:29,250 --> 00:48:32,810
+MRI brain is best
+for evaluation of
+
+894
+00:48:32,810 --> 00:48:35,010
+the soft tissues like
+nerves and ligaments
+
+895
+00:48:35,010 --> 00:48:38,090
+and when trying
+to avoid radiation
+
+896
+00:48:38,090 --> 00:48:40,810
+in cases of pregnancy
+and children.
+
+897
+00:48:41,570 --> 00:48:46,270
+CT and MRI with contrast
+is performed when
+
+898
+00:48:46,270 --> 00:48:48,970
+we want to evaluate
+vascular disease and
+
+899
+00:48:48,970 --> 00:48:51,450
+to assess for patterns
+of enhancement in
+
+900
+00:48:51,450 --> 00:48:55,190
+other lesions such as
+infection and tumor.
+
+901
+00:48:56,530 --> 00:49:00,710
+Carotid duplex study
+only evaluates the
+
+902
+00:49:00,710 --> 00:49:05,130
+cervical vessels and
+conventional angiogram
+
+903
+00:49:05,130 --> 00:49:07,570
+is best when we
+have a vascular
+
+904
+00:49:07,570 --> 00:49:11,250
+pathology and we want
+to both look at that
+
+905
+00:49:11,250 --> 00:49:13,790
+pathology and treat
+it in the same study.
+
+906
+00:49:13,990 --> 00:49:16,750
+That's when we do
+conventional angiogram.
+
+907
+00:49:16,780 --> 00:49:19,880
+I hope this has been
+a helpful introduction
+
+908
+00:49:20,050 --> 00:49:23,450
+to both radiology
+and neuroimaging.
+
+909
+00:49:23,450 --> 00:49:26,110
+I'm happy to receive
+any questions you
+
+910
+00:49:26,110 --> 00:49:29,690
+have. The best email
+for me is my name,
+
+911
+00:49:29,950 --> 00:49:35,470
+Sherry, S-H-E-R-R-Y
+dot Zachary, Z-A-K
+
+912
+00:49:35,470 --> 00:49:39,430
+-H-A-R-Y at gmail
+.com. I look forward
+
+913
+00:49:39,430 --> 00:49:41,590
+to hearing from you.
+Have a great day.

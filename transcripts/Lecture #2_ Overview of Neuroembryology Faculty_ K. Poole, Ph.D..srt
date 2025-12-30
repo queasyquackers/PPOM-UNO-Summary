@@ -1,0 +1,5432 @@
+1
+00:00:01,560 --> 00:00:03,020
+Hi, everyone,
+and welcome.
+
+2
+00:00:03,020 --> 00:00:05,680
+It's Dr. Karen Poole,
+and I'm here at
+
+3
+00:00:05,680 --> 00:00:07,600
+the Jonesboro campus.
+And today, we're
+
+4
+00:00:07,600 --> 00:00:09,660
+going to be talking
+about neuroembryology.
+
+5
+00:00:11,260 --> 00:00:15,080
+So I know that
+embryology, famously,
+
+6
+00:00:15,080 --> 00:00:17,200
+is not the favorite
+subject of a lot
+
+7
+00:00:17,200 --> 00:00:18,760
+of medical students,
+and that's OK.
+
+8
+00:00:19,000 --> 00:00:20,820
+But today's
+lecture, I think, is
+
+9
+00:00:20,820 --> 00:00:22,560
+really going to
+lay out the overall
+
+10
+00:00:22,560 --> 00:00:24,580
+structure of the
+nervous system
+
+11
+00:00:24,880 --> 00:00:28,820
+and how that works in
+adults. And I think
+
+12
+00:00:28,820 --> 00:00:30,880
+that's going to be
+helpful. The other
+
+13
+00:00:30,880 --> 00:00:32,280
+main thing we're going
+to talk about here
+
+14
+00:00:32,280 --> 00:00:36,780
+is when certain steps
+in the development
+
+15
+00:00:36,780 --> 00:00:39,420
+don't go the way we
+expect and the congenital
+
+16
+00:00:39,420 --> 00:00:41,640
+disorders that can
+arise from that.
+
+17
+00:00:41,740 --> 00:00:43,880
+And congenital
+disorders in the nervous
+
+18
+00:00:43,880 --> 00:00:47,680
+system are second only
+to heart defects in
+
+19
+00:00:47,980 --> 00:00:50,880
+terms of frequency.
+So these are things
+
+20
+00:00:50,880 --> 00:00:52,890
+that are going to be
+important clinically.
+
+21
+00:00:53,570 --> 00:00:55,760
+And on that note,
+just so you're aware,
+
+22
+00:00:55,760 --> 00:00:57,420
+we are going to be
+talking about some
+
+23
+00:00:57,420 --> 00:01:01,340
+pretty severe
+congenital defects with
+
+24
+00:01:02,240 --> 00:01:05,520
+fetuses and neonates.
+I haven't put a lot of
+
+25
+00:01:05,520 --> 00:01:07,440
+like graphic images
+in here or anything,
+
+26
+00:01:07,440 --> 00:01:09,160
+but we are going to
+talk about things
+
+27
+00:01:09,160 --> 00:01:13,080
+like anencephaly,
+just so you're aware.
+
+28
+00:01:13,680 --> 00:01:14,680
+Okay,
+
+29
+00:01:15,660 --> 00:01:22,420
+so our session
+objectives here, we're
+
+30
+00:01:22,420 --> 00:01:24,920
+going to talk about the
+timing and the sequence
+
+31
+00:01:24,920 --> 00:01:27,760
+of events in the
+neural tube formation
+
+32
+00:01:27,760 --> 00:01:30,080
+in a human embryo.
+We're going to talk
+
+33
+00:01:30,080 --> 00:01:32,240
+about cellular
+organization of the neural
+
+34
+00:01:32,240 --> 00:01:35,140
+tube and the neural
+crust derivatives.
+
+35
+00:01:36,790 --> 00:01:38,160
+At the end of this,
+you should be able
+
+36
+00:01:38,160 --> 00:01:39,760
+to compare and
+contrast development of
+
+37
+00:01:39,760 --> 00:01:41,520
+the spinal cord with
+that of the brain
+
+38
+00:01:42,200 --> 00:01:44,940
+and correlate the major
+brain developmental
+
+39
+00:01:44,940 --> 00:01:46,910
+landmarks, that is
+to say different
+
+40
+00:01:46,910 --> 00:01:48,810
+segments of the brain
+that we call vesicles
+
+41
+00:01:48,810 --> 00:01:52,040
+with the anatomy of
+the human brain at
+
+42
+00:01:52,040 --> 00:01:57,340
+birth. And then use
+all of that to kind
+
+43
+00:01:57,340 --> 00:01:59,680
+of think about what
+are these most common
+
+44
+00:01:59,680 --> 00:02:02,880
+neuroanatomical
+malformations at birth.
+
+45
+00:02:04,040 --> 00:02:06,740
+So we're going to
+start off with a quick
+
+46
+00:02:06,740 --> 00:02:09,920
+review of gastrulation.
+Okay, remember the
+
+47
+00:02:09,920 --> 00:02:13,260
+gastrulation is this
+step within embryonic
+
+48
+00:02:13,260 --> 00:02:17,460
+development in which
+the three different germ
+
+49
+00:02:17,460 --> 00:02:19,840
+layers are formed. So
+this is when we're forming
+
+50
+00:02:19,840 --> 00:02:23,540
+ectoderm versus mesoderm
+versus endoderm.
+
+51
+00:02:23,540 --> 00:02:29,140
+And that happens with
+sort of the, what
+
+52
+00:02:29,140 --> 00:02:31,780
+will become ectoderms
+or what will become,
+
+53
+00:02:31,780 --> 00:02:33,580
+you know, endoderm
+and mesoderm folding
+
+54
+00:02:33,580 --> 00:02:36,300
+in from the ectoderm
+along this primitive
+
+55
+00:02:36,300 --> 00:02:38,580
+node and primitive
+streak. So here we're
+
+56
+00:02:38,580 --> 00:02:40,880
+in like a dorsal
+view of the embryo
+
+57
+00:02:40,880 --> 00:02:44,040
+and here we're in a
+sagittal cut through
+
+58
+00:02:44,040 --> 00:02:47,100
+it. So we have the
+ectoderm here in blue.
+
+59
+00:02:47,460 --> 00:02:51,740
+We have that primitive
+pit there where cells
+
+60
+00:02:51,740 --> 00:02:53,680
+are starting to come
+inward that will
+
+61
+00:02:53,680 --> 00:02:57,720
+become the mesoderm
+that's shown here in this
+
+62
+00:02:57,720 --> 00:03:00,430
+sort of pink color. And
+part of that mesoderm
+
+63
+00:03:00,800 --> 00:03:03,620
+will become the
+notochord here in black.
+
+64
+00:03:05,220 --> 00:03:08,780
+And then you have the
+yolk *** down here
+
+65
+00:03:09,350 --> 00:03:11,760
+in yellow, which
+will become endoderm.
+
+66
+00:03:12,840 --> 00:03:15,240
+The details of that
+aren't important here.
+
+67
+00:03:15,240 --> 00:03:17,400
+Just remember, we
+have those three germ
+
+68
+00:03:17,400 --> 00:03:19,280
+layers, ectoderm,
+mesoderm, endoderm.
+
+69
+00:03:19,750 --> 00:03:21,780
+Something else I do
+want to note in this
+
+70
+00:03:21,780 --> 00:03:25,680
+first slide is I'll
+have days denoted,
+
+71
+00:03:25,740 --> 00:03:28,100
+like number of days
+into development
+
+72
+00:03:28,100 --> 00:03:29,720
+that certain
+events happen.
+
+73
+00:03:29,920 --> 00:03:31,940
+Note that I'm
+following the typical
+
+74
+00:03:31,940 --> 00:03:35,240
+embryological convention
+here of counting from
+
+75
+00:03:35,240 --> 00:03:38,220
+fertilization, which is
+offset about two weeks
+
+76
+00:03:38,220 --> 00:03:39,840
+from how we clinically
+define pregnancy,
+
+77
+00:03:39,840 --> 00:03:43,420
+which starts from the
+last menstrual cycle.
+
+78
+00:03:43,560 --> 00:03:47,180
+And so if I say
+something happens at 21
+
+79
+00:03:47,180 --> 00:03:50,300
+days of development,
+that's three weeks into
+
+80
+00:03:51,280 --> 00:03:54,140
+development three weeks
+after fertilization,
+
+81
+00:03:54,440 --> 00:03:57,360
+but that's about five
+weeks into clinically
+
+82
+00:03:57,360 --> 00:04:00,480
+defined pregnancy.
+So just FYI if you're
+
+83
+00:04:00,480 --> 00:04:02,460
+thinking about the
+timing of these things.
+
+84
+00:04:03,620 --> 00:04:08,180
+So now we're looking
+at the dorsal
+
+85
+00:04:08,180 --> 00:04:10,920
+view of the embryo.
+So this edge here
+
+86
+00:04:10,920 --> 00:04:13,440
+is the cut edge of
+the amniotic ***.
+
+87
+00:04:13,540 --> 00:04:14,760
+All right.
+
+88
+00:04:14,880 --> 00:04:18,420
+And here we see in
+blue this thickening
+
+89
+00:04:18,420 --> 00:04:22,740
+neural plate. So that
+starts to form as the
+
+90
+00:04:22,740 --> 00:04:25,820
+notochord and the paraxial
+mesenchyme that is
+
+91
+00:04:25,820 --> 00:04:29,420
+on either side of that
+notochord, as those
+
+92
+00:04:29,420 --> 00:04:31,840
+start to develop, they
+induce the overlying
+
+93
+00:04:31,840 --> 00:04:34,680
+ectoderm to thicken
+into the neural plate.
+
+94
+00:04:34,900 --> 00:04:38,240
+And that starts at
+the rostral end, or
+
+95
+00:04:38,240 --> 00:04:41,100
+we also call that
+the cranial end. All
+
+96
+00:04:41,100 --> 00:04:42,420
+right, this is what
+will become the head.
+
+97
+00:04:42,420 --> 00:04:44,180
+So it starts at
+the head end of the
+
+98
+00:04:44,180 --> 00:04:47,980
+embryo, and it's going
+to move caudally.
+
+99
+00:04:48,350 --> 00:04:49,580
+And it involves a whole
+
+100
+00:04:49,580 --> 00:04:51,000
+bunch of signaling
+molecules,
+
+101
+00:04:51,260 --> 00:04:53,660
+Wnts, sonic hedgehog,
+bone morphogenic
+
+102
+00:04:53,660 --> 00:04:57,000
+proteins, all right?
+These are all common
+
+103
+00:04:57,000 --> 00:04:58,700
+signaling molecules
+we see in embryology.
+
+104
+00:04:58,700 --> 00:05:00,040
+I don't care if you
+can tell me exactly
+
+105
+00:05:00,040 --> 00:05:02,320
+which ones are involved
+here, all right?
+
+106
+00:05:04,360 --> 00:05:06,860
+As neuralation continues,
+
+107
+00:05:08,020 --> 00:05:10,340
+the midline of that
+neural plate starts
+
+108
+00:05:10,340 --> 00:05:12,660
+to fold in on itself,
+all right? So if
+
+109
+00:05:12,660 --> 00:05:15,580
+we have this sort of
+flat plate here it
+
+110
+00:05:15,700 --> 00:05:20,000
+starts to indent
+like this and that's
+
+111
+00:05:20,000 --> 00:05:21,900
+what we're seeing in
+this center section
+
+112
+00:05:22,380 --> 00:05:25,220
+and so that's that
+indentation is what
+
+113
+00:05:25,220 --> 00:05:27,960
+we call the neural
+groove and on either
+
+114
+00:05:27,960 --> 00:05:31,260
+side of it is a
+neural crest as those
+
+115
+00:05:31,260 --> 00:05:34,400
+start those pieces
+start to rise up
+
+116
+00:05:34,400 --> 00:05:37,820
+more dorsally and i
+also want to note here
+
+117
+00:05:37,820 --> 00:05:40,420
+that there's still
+a primitive streak
+
+118
+00:05:40,420 --> 00:05:43,320
+on this embryo. So
+gastrulation is still
+
+119
+00:05:43,320 --> 00:05:47,020
+happening while
+nurgulation begins.
+
+120
+00:05:47,160 --> 00:05:49,560
+So typically, if
+we're sequencing
+
+121
+00:05:49,560 --> 00:05:50,900
+these things, we'd
+say gastrulation
+
+122
+00:05:50,900 --> 00:05:53,520
+happens and then
+nurgulation happens,
+
+123
+00:05:53,520 --> 00:05:55,720
+but there is overlap
+between the two.
+
+124
+00:06:00,000 --> 00:06:03,160
+And then as we continue
+with nurgulation,
+
+125
+00:06:03,160 --> 00:06:07,420
+all right here that
+starts really in the
+
+126
+00:06:07,420 --> 00:06:10,420
+center of the embryo
+and then proceeds both
+
+127
+00:06:10,900 --> 00:06:13,980
+caudally and
+cranially but here
+
+128
+00:06:13,980 --> 00:06:15,220
+if we're looking
+at cuts through
+
+129
+00:06:15,220 --> 00:06:16,940
+a couple
+different segments
+
+130
+00:06:17,740 --> 00:06:21,540
+here's the cut for
+line b so here we
+
+131
+00:06:21,540 --> 00:06:23,140
+have that ectodermin
+blue and it's
+
+132
+00:06:23,140 --> 00:06:25,200
+folding in so we have
+our neural groove
+
+133
+00:06:25,200 --> 00:06:28,710
+here and the neural
+crest up here all
+
+134
+00:06:29,000 --> 00:06:30,640
+right so it's folding
+it on itself it's
+
+135
+00:06:30,640 --> 00:06:32,720
+starting to form this
+tube-like structure
+
+136
+00:06:32,720 --> 00:06:35,100
+that will become
+the neural tube.
+
+137
+00:06:35,500 --> 00:06:38,940
+And at line C here,
+that process has
+
+138
+00:06:38,940 --> 00:06:41,540
+completed. So we
+do have this closed
+
+139
+00:06:41,540 --> 00:06:44,980
+off separated neural
+tube, and that is
+
+140
+00:06:44,980 --> 00:06:49,010
+separate from the
+overlying ectoderm.
+
+141
+00:06:50,100 --> 00:06:52,480
+So that neural tube
+is what's going
+
+142
+00:06:52,480 --> 00:06:54,540
+to form the spinal
+cord and the brain,
+
+143
+00:06:54,540 --> 00:06:58,860
+and the overlying
+ectoderm will form
+
+144
+00:06:58,860 --> 00:07:02,820
+skin, musculature,
+and parts of the
+
+145
+00:07:03,040 --> 00:07:05,020
+vertebrae or skull.
+
+146
+00:07:08,320 --> 00:07:09,600
+Although in this
+case, in the middle
+
+147
+00:07:09,600 --> 00:07:11,980
+of the embryo,
+it'll be vertebrae.
+
+148
+00:07:13,900 --> 00:07:16,440
+And this is just another
+view of that same
+
+149
+00:07:16,440 --> 00:07:20,320
+process, right? So early
+on, we have this sort
+
+150
+00:07:20,320 --> 00:07:22,840
+of thickened area.
+And I wanted to show
+
+151
+00:07:22,840 --> 00:07:26,660
+this diagram because it
+shows that neural plate
+
+152
+00:07:26,660 --> 00:07:29,060
+nicely. You can see
+out here, the ectoderm
+
+153
+00:07:29,060 --> 00:07:31,460
+are these fairly
+small kind of cuboidal
+
+154
+00:07:31,460 --> 00:07:35,460
+cells. And here, this
+is the neural plate
+
+155
+00:07:35,460 --> 00:07:41,040
+itself, where those
+cells are more columnar.
+
+156
+00:07:41,040 --> 00:07:44,620
+They've thickened. And
+that's induced by that
+
+157
+00:07:44,620 --> 00:07:48,860
+notochord and paraxial
+mesoderm along here.
+
+158
+00:07:50,300 --> 00:07:55,640
+so then that neural
+crest comes up wraps
+
+159
+00:07:55,750 --> 00:07:57,900
+and kind of starts
+to cover over that
+
+160
+00:07:57,900 --> 00:08:01,320
+neural groove we get
+the neural tube over
+
+161
+00:08:01,320 --> 00:08:04,600
+here and here we're
+also showing that in
+
+162
+00:08:04,600 --> 00:08:06,700
+between that surface
+ectoderm and the
+
+163
+00:08:06,700 --> 00:08:10,000
+neural tube we have
+a set of cells that
+
+164
+00:08:10,000 --> 00:08:13,240
+sort of become unattached
+in that process
+
+165
+00:08:13,460 --> 00:08:16,940
+They don't stick to
+the neural tube, and
+
+166
+00:08:16,940 --> 00:08:19,280
+they don't stick to
+that surface ectoderm.
+
+167
+00:08:19,280 --> 00:08:21,080
+They become these
+sort of free-floating
+
+168
+00:08:21,080 --> 00:08:24,200
+neural crest cells,
+and those migrate to
+
+169
+00:08:24,200 --> 00:08:26,450
+a lot of different
+places in the body, and
+
+170
+00:08:26,480 --> 00:08:28,400
+we'll cover those in
+some later slides.
+
+171
+00:08:29,780 --> 00:08:33,340
+So as neurulation
+continues, here we're
+
+172
+00:08:33,340 --> 00:08:35,540
+looking at a dorsal
+view of the embryo,
+
+173
+00:08:35,540 --> 00:08:38,120
+and so here the
+neural tube has mostly
+
+174
+00:08:38,120 --> 00:08:40,680
+closed, but there's
+still what we call a
+
+175
+00:08:40,680 --> 00:08:44,060
+posterior or caudal
+neural pore. Alright,
+
+176
+00:08:44,060 --> 00:08:45,800
+so we have an opening
+at the end of the
+
+177
+00:08:45,800 --> 00:08:48,720
+tube still. And at
+the anterior end, we
+
+178
+00:08:48,720 --> 00:08:51,680
+have an anterior or a
+rostral neural pore.
+
+179
+00:08:52,090 --> 00:08:53,260
+And here we're looking
+
+180
+00:08:53,260 --> 00:08:54,620
+at it in lateral view.
+
+181
+00:08:55,420 --> 00:08:57,580
+And you can see
+this is happening,
+
+182
+00:08:57,580 --> 00:09:01,400
+right, 23 to 25 days
+into development.
+
+183
+00:09:02,780 --> 00:09:07,200
+And here the neural
+tube is closed off,
+
+184
+00:09:07,200 --> 00:09:09,740
+completely separated
+from that overlying
+
+185
+00:09:09,740 --> 00:09:11,780
+ectoderm. That
+should be about 28
+
+186
+00:09:11,780 --> 00:09:14,020
+days or four weeks
+into development, so
+
+187
+00:09:14,020 --> 00:09:16,440
+that's about six
+weeks of pregnancy.
+
+188
+00:09:18,900 --> 00:09:21,600
+And then putting that
+all together in a
+
+189
+00:09:21,600 --> 00:09:26,460
+slightly more cartoon
+form, we have here in a
+
+190
+00:09:26,460 --> 00:09:32,420
+slice through the embryo
+that notochord with
+
+191
+00:09:32,420 --> 00:09:36,340
+overlying ectoderm
+that starts to induce
+
+192
+00:09:37,430 --> 00:09:39,900
+the neural plate to
+grow. so you have this
+
+193
+00:09:39,900 --> 00:09:44,020
+thickened area of the
+ectoderm that then
+
+194
+00:09:44,020 --> 00:09:46,500
+starts to fold in forming
+that neural groove
+
+195
+00:09:46,500 --> 00:09:50,920
+as well as the neural
+crest and we can see
+
+196
+00:09:50,920 --> 00:09:53,320
+that in the dorsal
+view up here you've got
+
+197
+00:09:53,320 --> 00:09:55,660
+your neural groove
+starting and the neural
+
+198
+00:09:55,660 --> 00:10:01,700
+folds along the edge
+and then you have that
+
+199
+00:10:01,700 --> 00:10:03,540
+neural tube starting
+to form the neural
+
+200
+00:10:03,540 --> 00:10:09,560
+crust cells that
+separate and lie in this
+
+201
+00:10:09,560 --> 00:10:12,360
+space between the neural
+tube and the neural
+
+202
+00:10:12,360 --> 00:10:15,810
+crust cells. And here
+you've got your anterior
+
+203
+00:10:16,180 --> 00:10:19,620
+or rostral or cranial
+neuropore, all
+
+204
+00:10:19,620 --> 00:10:21,960
+right, and the posterior
+or caudal neuropore.
+
+205
+00:10:25,700 --> 00:10:28,740
+So here's our first of
+
+206
+00:10:28,740 --> 00:10:31,800
+several different
+congenital
+
+207
+00:10:32,640 --> 00:10:34,600
+disorders. And
+in this case,
+
+208
+00:10:34,600 --> 00:10:35,640
+we're looking
+at a failure of
+
+209
+00:10:35,640 --> 00:10:38,220
+that caudal
+neuropore to close.
+
+210
+00:10:38,220 --> 00:10:39,760
+And that results
+in what we call
+
+211
+00:10:39,760 --> 00:10:41,640
+spina bifida. And
+we talked about
+
+212
+00:10:41,640 --> 00:10:43,020
+this all the way
+back in the very
+
+213
+00:10:43,020 --> 00:10:45,040
+first anatomy lab,
+if you remember,
+
+214
+00:10:45,310 --> 00:10:47,360
+where we talked, we
+were talking about the
+
+215
+00:10:47,360 --> 00:10:49,460
+structure of vertebrae.
+And you have here
+
+216
+00:10:49,460 --> 00:10:51,700
+in this cross section,
+your vertebral body.
+
+217
+00:10:51,840 --> 00:10:54,160
+And then the
+
+218
+00:10:54,820 --> 00:10:57,100
+pedicles are along the
+side here. And here
+
+219
+00:10:57,100 --> 00:11:00,560
+is the lamina. All
+right. And here it's
+
+220
+00:11:00,560 --> 00:11:02,900
+referring to it is the
+the neural arch all
+
+221
+00:11:02,900 --> 00:11:04,400
+right so if you think
+of the whole thing
+
+222
+00:11:04,400 --> 00:11:06,640
+together as the neural
+arch it's incomplete
+
+223
+00:11:06,640 --> 00:11:11,780
+in this case and that's
+because right that's
+
+224
+00:11:11,780 --> 00:11:14,960
+forming from the
+ectoderm that overlies
+
+225
+00:11:14,960 --> 00:11:18,460
+the neural tube and
+if the if that caudal
+
+226
+00:11:18,460 --> 00:11:21,060
+neural port doesn't
+completely close then
+
+227
+00:11:21,060 --> 00:11:24,540
+the overlying ectoderm
+doesn't develop in
+
+228
+00:11:24,540 --> 00:11:28,580
+the way that it should
+so a is showing uh
+
+229
+00:11:28,580 --> 00:11:30,920
+the the most mild
+form of spina bifida
+
+230
+00:11:30,920 --> 00:11:34,120
+called spina bifida
+occulta. You can see that
+
+231
+00:11:34,120 --> 00:11:37,000
+on the surface the
+skin is in place the
+
+232
+00:11:37,000 --> 00:11:39,540
+way it should be. There
+is sometimes, because
+
+233
+00:11:39,540 --> 00:11:41,020
+of a lack of migration
+of those neural
+
+234
+00:11:41,020 --> 00:11:43,500
+crest cells, you can
+get sort of a tuft of
+
+235
+00:11:43,500 --> 00:11:46,280
+dark colored hair
+there, but not always.
+
+236
+00:11:47,380 --> 00:11:49,860
+And so this is called
+occulta because we
+
+237
+00:11:49,860 --> 00:11:52,180
+often don't even know
+about it or don't see
+
+238
+00:11:52,180 --> 00:11:54,300
+it. And it's found
+incidentally when the
+
+239
+00:11:54,300 --> 00:11:56,520
+patient has scans done
+for some other reason.
+
+240
+00:11:57,070 --> 00:11:59,230
+All right. So this is
+a fairly mild form.
+
+241
+00:11:59,600 --> 00:12:03,160
+If we go to B, this is
+called a meningocele
+
+242
+00:12:03,160 --> 00:12:05,440
+or meningocele,
+right? Here, the
+
+243
+00:12:05,440 --> 00:12:11,280
+meninges are bulging
+out. We're lacking those
+
+244
+00:12:11,280 --> 00:12:14,560
+laminae or the
+vertebral arch entirely.
+
+245
+00:12:15,160 --> 00:12:17,260
+And in this
+case, right, we
+
+246
+00:12:17,260 --> 00:12:19,560
+basically have
+a cyst forming,
+
+247
+00:12:20,060 --> 00:12:22,520
+pushing out
+through the skin.
+
+248
+00:12:22,790 --> 00:12:25,100
+The spinal cord itself
+is still where it
+
+249
+00:12:25,100 --> 00:12:27,660
+should be. There are
+generally no neural deficits
+
+250
+00:12:27,660 --> 00:12:31,720
+with this, but you
+do probably want to
+
+251
+00:12:31,720 --> 00:12:33,940
+surgically repair that
+so that there's not
+
+252
+00:12:33,940 --> 00:12:39,420
+a bulge sticking out
+and that *** of CSF,
+
+253
+00:12:39,480 --> 00:12:41,460
+all right, because
+there's potential for
+
+254
+00:12:41,460 --> 00:12:45,140
+leakage and problems if
+that remains in place.
+
+255
+00:12:47,120 --> 00:12:50,400
+Then we come to
+meningomyelocele, which
+
+256
+00:12:50,400 --> 00:12:52,380
+is also called
+myelomeningocele, all
+
+257
+00:12:52,380 --> 00:12:54,980
+right, either either
+sequence works, but
+
+258
+00:12:54,980 --> 00:12:56,580
+the point is that
+we actually have the
+
+259
+00:12:56,580 --> 00:13:00,460
+spinal cord out in
+that membranous ***.
+
+260
+00:13:01,260 --> 00:13:03,820
+And so here we
+have these kind of
+
+261
+00:13:03,820 --> 00:13:07,990
+displaced lengthened
+roots of the spinal
+
+262
+00:13:07,990 --> 00:13:09,820
+nerves, and so
+there can be some
+
+263
+00:13:09,820 --> 00:13:12,500
+neurological complications
+in this case.
+
+264
+00:13:12,540 --> 00:13:15,700
+The severity will
+depend on how high
+
+265
+00:13:15,700 --> 00:13:18,630
+or low on the spinal
+cord this occurs.
+
+266
+00:13:19,500 --> 00:13:23,160
+And then finally in
+the most severe case we
+
+267
+00:13:23,160 --> 00:13:26,520
+have myeloscesis in
+which the spinal cord
+
+268
+00:13:26,520 --> 00:13:30,940
+itself is open. Like
+that spinal cord doesn't
+
+269
+00:13:30,940 --> 00:13:34,060
+even close. The neural
+tube that would lead
+
+270
+00:13:34,060 --> 00:13:36,680
+to the spinal cord
+doesn't close at all.
+
+271
+00:13:37,320 --> 00:13:41,100
+And so this will have
+some neural deficits.
+
+272
+00:13:41,100 --> 00:13:44,140
+Obviously you've got
+just neural tissue lying
+
+273
+00:13:44,140 --> 00:13:46,520
+on the surface, you've
+got to surgically
+
+274
+00:13:46,520 --> 00:13:49,300
+do something about that
+and cover that over.
+
+275
+00:13:49,420 --> 00:13:53,160
+So this is a complex
+sort of problem.
+
+276
+00:13:55,250 --> 00:13:56,780
+Now, at the other
+end, if we look
+
+277
+00:13:56,780 --> 00:13:58,220
+at a failure
+of the rostral
+
+278
+00:13:58,220 --> 00:14:00,620
+neuropore to close,
+and again, going
+
+279
+00:14:00,620 --> 00:14:02,720
+from sort of least
+severe to most,
+
+280
+00:14:03,060 --> 00:14:05,040
+these collectively are
+
+281
+00:14:05,040 --> 00:14:07,050
+referred to
+encephalocele.
+
+282
+00:14:07,400 --> 00:14:11,140
+Though technically,
+this first thing isn't
+
+283
+00:14:11,140 --> 00:14:13,180
+an encephalocele.
+We also call this
+
+284
+00:14:13,180 --> 00:14:15,440
+meningocel, all right?
+So in this case, again,
+
+285
+00:14:15,440 --> 00:14:19,360
+you have an opening
+in the bones of the
+
+286
+00:14:19,360 --> 00:14:22,480
+skull, most commonly
+in the occipital bone,
+
+287
+00:14:22,480 --> 00:14:26,600
+and you have the dura
+and arachnoid matter
+
+288
+00:14:26,600 --> 00:14:30,680
+coming out here,
+and this fluid CSF
+
+289
+00:14:30,680 --> 00:14:33,360
+-filled subarachnoid space
+that's emerging from
+
+290
+00:14:33,360 --> 00:14:35,940
+the skull, all right?
+So that's also a
+
+291
+00:14:35,940 --> 00:14:39,740
+meningocel, because
+it's the meninges coming
+
+292
+00:14:39,740 --> 00:14:41,820
+out, forming this
+cyst-like structure.
+
+293
+00:14:42,760 --> 00:14:45,800
+If the brain herniates
+out into that
+
+294
+00:14:45,800 --> 00:14:48,810
+space, then we call it
+a meningoencephalocele.
+
+295
+00:14:49,380 --> 00:14:50,660
+So now we're
+truly into the
+
+296
+00:14:50,660 --> 00:14:53,720
+encephaloceles. This
+is brain tissue coming
+
+297
+00:14:53,720 --> 00:14:57,720
+outside of the true
+cranial cavity.
+
+298
+00:14:58,380 --> 00:15:02,820
+And again, this is
+because those skull bones
+
+299
+00:15:02,820 --> 00:15:04,960
+overlying the brain
+didn't fully close.
+
+300
+00:15:06,020 --> 00:15:09,100
+And then a variation
+on that, if part
+
+301
+00:15:09,100 --> 00:15:11,080
+of the ventricle
+comes out into that
+
+302
+00:15:11,080 --> 00:15:12,750
+space, We would call it a
+meningohydroencephalocele
+
+303
+00:15:13,700 --> 00:15:17,240
+because you also
+have some of
+
+304
+00:15:17,240 --> 00:15:21,040
+this CSF-filled
+ventricle inside of
+
+305
+00:15:21,040 --> 00:15:26,380
+the brain tissue,
+inside of the, you know,
+
+306
+00:15:26,380 --> 00:15:28,440
+also CSF out here.
+So you've got
+
+307
+00:15:28,440 --> 00:15:31,420
+multiple layers of
+CSF, brain tissue, CSF.
+
+308
+00:15:33,880 --> 00:15:40,260
+and the most uh severe
+of these rostral
+
+309
+00:15:40,260 --> 00:15:42,840
+neuroporeclosures
+this is the equivalent
+
+310
+00:15:42,840 --> 00:15:45,180
+of myeloschisis when
+we were talking about
+
+311
+00:15:45,180 --> 00:15:48,240
+spinobifida this
+is just a complete
+
+312
+00:15:48,240 --> 00:15:52,320
+failure of the brain
+to form all right so
+
+313
+00:15:52,320 --> 00:15:54,580
+that's called
+anencephaly also called
+
+314
+00:15:54,580 --> 00:15:59,900
+miroencephaly so the
+brain itself does not
+
+315
+00:15:59,900 --> 00:16:03,780
+form the overlying
+bones of the skull don't
+
+316
+00:16:03,780 --> 00:16:06,060
+ever get induced
+to form because the
+
+317
+00:16:06,060 --> 00:16:11,520
+brain doesn't form
+properly and and in this
+
+318
+00:16:11,520 --> 00:16:15,180
+situation there's
+really there's really
+
+319
+00:16:15,180 --> 00:16:18,660
+not much to do for
+that fetus or infant
+
+320
+00:16:19,360 --> 00:16:21,340
+because they
+don't have enough
+
+321
+00:16:21,340 --> 00:16:24,080
+brain to keep them alive.
+
+322
+00:16:27,900 --> 00:16:30,140
+So going back to that
+
+323
+00:16:30,140 --> 00:16:31,950
+neural tube formation,
+
+324
+00:16:32,240 --> 00:16:34,180
+we already mentioned
+those neural
+
+325
+00:16:34,180 --> 00:16:36,760
+crest cells.
+Okay, so once
+
+326
+00:16:36,760 --> 00:16:38,800
+we've got that
+neural tube forming
+
+327
+00:16:40,350 --> 00:16:42,780
+and the neural crest
+cells are basically
+
+328
+00:16:42,780 --> 00:16:45,060
+going to come from
+the very edge of that
+
+329
+00:16:45,060 --> 00:16:47,780
+neural plate that
+formed. All right,
+
+330
+00:16:47,780 --> 00:16:49,180
+so we've got border
+of the neural plate.
+
+331
+00:16:49,880 --> 00:16:51,640
+These will become
+the neural crest
+
+332
+00:16:51,640 --> 00:16:53,060
+cells. These are
+the cells that
+
+333
+00:16:53,060 --> 00:16:54,600
+don't get attached
+either to the
+
+334
+00:16:54,600 --> 00:16:56,960
+neural tube or to
+the overlying skin.
+
+335
+00:17:00,420 --> 00:17:03,240
+And those will then
+migrate to form a
+
+336
+00:17:03,240 --> 00:17:04,980
+lot of different
+structures, both of
+
+337
+00:17:04,980 --> 00:17:07,500
+the nervous system
+and other systems.
+
+338
+00:17:08,040 --> 00:17:10,940
+So these are important in
+
+339
+00:17:10,940 --> 00:17:12,860
+that craniofacial
+skeleton.
+
+340
+00:17:14,360 --> 00:17:17,440
+and as part of that
+you have the teeth
+
+341
+00:17:17,440 --> 00:17:21,420
+right because the
+maxilla and mandible
+
+342
+00:17:21,420 --> 00:17:23,260
+are part of that
+so it makes sense
+
+343
+00:17:23,260 --> 00:17:24,880
+these are also
+contributing to teeth.
+
+344
+00:17:25,580 --> 00:17:27,580
+Cranial ganglia
+here means some of
+
+345
+00:17:27,580 --> 00:17:31,440
+the ganglia of the
+cranial nerves.
+
+346
+00:17:32,340 --> 00:17:34,200
+It also contributes
+to thyroid
+
+347
+00:17:34,200 --> 00:17:37,760
+cells continuing
+inferiorly.
+
+348
+00:17:38,300 --> 00:17:40,520
+These neural crest
+cells contribute
+
+349
+00:17:40,520 --> 00:17:42,520
+to the enteric
+ganglia and smooth
+
+350
+00:17:42,520 --> 00:17:46,940
+muscle cells, as
+well as parts of
+
+351
+00:17:46,940 --> 00:17:49,240
+the heart and the
+cardiac septa.
+
+352
+00:17:49,400 --> 00:17:51,780
+They contribute to, or
+
+353
+00:17:51,780 --> 00:17:53,140
+they really form, right,
+
+354
+00:17:53,180 --> 00:17:56,440
+the dorsal root
+ganglia all throughout
+
+355
+00:17:56,440 --> 00:18:00,180
+the spinal cord
+alongside of it. They're
+
+356
+00:18:00,180 --> 00:18:01,680
+forming dorsal root
+ganglia as well
+
+357
+00:18:01,680 --> 00:18:03,520
+as the sympathetic
+ganglia. So by that
+
+358
+00:18:03,520 --> 00:18:05,940
+we mean the
+paravertebral ganglia, as
+
+359
+00:18:05,940 --> 00:18:08,640
+well as that celiac,
+superior mesenteric,
+
+360
+00:18:08,640 --> 00:18:10,340
+and inferior
+mesenteric ganglion.
+
+361
+00:18:10,620 --> 00:18:12,040
+And they also contribute
+
+362
+00:18:12,040 --> 00:18:13,380
+to the adrenal medulla.
+
+363
+00:18:14,030 --> 00:18:16,540
+And then continuing
+in that sacral level,
+
+364
+00:18:16,540 --> 00:18:18,740
+same thing, enteric and
+sympathetic ganglia.
+
+365
+00:18:19,620 --> 00:18:22,560
+All right. And this
+is just a different
+
+366
+00:18:22,560 --> 00:18:25,140
+view of that
+same idea, right?
+
+367
+00:18:25,140 --> 00:18:27,780
+There's that closure
+of the neural tube.
+
+368
+00:18:27,780 --> 00:18:29,600
+There's those
+neural crest cells
+
+369
+00:18:29,600 --> 00:18:31,620
+splitting off
+and migrating
+
+370
+00:18:31,620 --> 00:18:33,340
+to various parts
+of the body.
+
+371
+00:18:34,800 --> 00:18:37,600
+so a couple other
+things that weren't on
+
+372
+00:18:37,600 --> 00:18:39,920
+that previous slide
+these are going to
+
+373
+00:18:39,920 --> 00:18:43,300
+contribute to the
+arachnoid and pia matter
+
+374
+00:18:43,300 --> 00:18:47,270
+as well as schwann
+cells those those
+
+375
+00:18:47,270 --> 00:18:50,540
+supporting cells within
+the neural system
+
+376
+00:18:50,730 --> 00:18:53,880
+they also form
+melanocytes that give
+
+377
+00:18:53,880 --> 00:18:57,320
+skin and eyes and
+hair pigment coloring.
+
+378
+00:18:57,780 --> 00:18:59,340
+And we mentioned the
+
+379
+00:18:59,340 --> 00:19:01,080
+facial bones, the teeth,
+
+380
+00:19:01,200 --> 00:19:04,140
+parts of the larynx
+and tracheal cartilage
+
+381
+00:19:04,140 --> 00:19:06,840
+and parts of the
+heart. So problems with
+
+382
+00:19:06,840 --> 00:19:09,980
+neural crest cells can
+manifest in a lot of
+
+383
+00:19:09,980 --> 00:19:11,720
+different ways that
+we're not going to get
+
+384
+00:19:11,720 --> 00:19:15,560
+into here. But just
+know that very often,
+
+385
+00:19:15,560 --> 00:19:17,540
+you know, you can
+see these connections
+
+386
+00:19:17,540 --> 00:19:23,040
+between some issues
+with potentially the
+
+387
+00:19:23,040 --> 00:19:25,550
+brain, but really like
+the craniofacial skeleton,
+
+388
+00:19:25,680 --> 00:19:28,780
+the larynx, and
+the heart, because
+
+389
+00:19:28,780 --> 00:19:32,240
+those are all being
+derived from neural crest
+
+390
+00:19:32,240 --> 00:19:34,120
+cells. Not the entire
+heart, right, but
+
+391
+00:19:34,120 --> 00:19:37,780
+some of the septum and
+valves of the heart.
+
+392
+00:19:39,680 --> 00:19:43,420
+So once we've got
+this neural tube, it
+
+393
+00:19:43,420 --> 00:19:46,820
+divides into several
+layers, all right? So
+
+394
+00:19:46,820 --> 00:19:48,420
+you have the neural
+canal on the inside
+
+395
+00:19:48,420 --> 00:19:54,080
+of it with a ventricular
+layer here, then
+
+396
+00:19:54,080 --> 00:19:57,900
+a mantle layer, and
+a marginal layer.
+
+397
+00:19:58,600 --> 00:20:00,940
+That neural canal
+is going to become
+
+398
+00:20:00,940 --> 00:20:03,280
+the ventricles of
+the brain and the
+
+399
+00:20:03,280 --> 00:20:04,880
+central canal of
+the spinal cord.
+
+400
+00:20:05,000 --> 00:20:08,620
+The ventricular
+layer will become a
+
+401
+00:20:08,620 --> 00:20:10,780
+thin layer of what
+we call ependymal
+
+402
+00:20:10,780 --> 00:20:13,640
+or glial cells that
+that are just lining
+
+403
+00:20:13,640 --> 00:20:15,740
+the ventricles
+and central canal,
+
+404
+00:20:16,140 --> 00:20:18,380
+the mantle layer
+becomes gray matter,
+
+405
+00:20:18,460 --> 00:20:19,700
+and the marginal layer
+
+406
+00:20:19,700 --> 00:20:20,840
+becomes white matter.
+
+407
+00:20:25,630 --> 00:20:30,350
+And then, in
+addition to that
+
+408
+00:20:30,350 --> 00:20:32,690
+sort of concentric
+layering within
+
+409
+00:20:32,690 --> 00:20:35,930
+the tube, we
+have a gradient
+
+410
+00:20:36,270 --> 00:20:39,290
+that forms between
+the dorsal portions of
+
+411
+00:20:39,290 --> 00:20:41,290
+the neural tube and
+the ventral portions.
+
+412
+00:20:41,610 --> 00:20:43,590
+And again, I don't
+care that you can tell
+
+413
+00:20:43,590 --> 00:20:46,430
+me the specific signaling
+molecules involved
+
+414
+00:20:46,430 --> 00:20:50,390
+here, but we have this
+gradient that occurs
+
+415
+00:20:50,390 --> 00:20:52,690
+because sonic hedgehog
+proteins are produced
+
+416
+00:20:52,690 --> 00:20:55,150
+in the notochord on
+the ventral side of
+
+417
+00:20:55,150 --> 00:20:58,690
+the neural tube, and
+bone morphogenic proteins
+
+418
+00:20:58,690 --> 00:21:02,450
+are produced in the
+ectoderm that will
+
+419
+00:21:02,450 --> 00:21:05,390
+become the skin overlying
+the neural tube.
+
+420
+00:21:05,850 --> 00:21:10,310
+And the gradient between
+those that's sort
+
+421
+00:21:10,310 --> 00:21:12,970
+of shown here, right,
+grading from this
+
+422
+00:21:12,970 --> 00:21:16,630
+green into the blue,
+that is what creates this
+
+423
+00:21:16,630 --> 00:21:18,970
+differentiation between
+the dorsal portion
+
+424
+00:21:18,970 --> 00:21:22,310
+of the neural tube
+that will be involved
+
+425
+00:21:22,310 --> 00:21:26,530
+in sensory neurons and
+the ventral portion
+
+426
+00:21:26,530 --> 00:21:29,710
+that will give rise
+to the motor neurons.
+
+427
+00:21:32,120 --> 00:21:34,130
+And if we look at
+that in more detail
+
+428
+00:21:34,130 --> 00:21:38,390
+here, here we have
+the neural canal
+
+429
+00:21:39,760 --> 00:21:43,030
+and this is our very
+basic sort of setup.
+
+430
+00:21:43,170 --> 00:21:47,490
+Here we start to see
+what's called a basal
+
+431
+00:21:47,490 --> 00:21:51,050
+plate and an alar
+plate. And those two
+
+432
+00:21:51,050 --> 00:21:54,490
+are separated by
+the sulcus limitons,
+
+433
+00:21:54,490 --> 00:21:57,390
+right? So that's this
+slight divot within
+
+434
+00:21:57,390 --> 00:22:03,550
+the central canal
+that delineates this
+
+435
+00:22:03,550 --> 00:22:05,570
+more dorsal region
+from the more ventral
+
+436
+00:22:05,570 --> 00:22:09,630
+region all right and
+the basal and alar
+
+437
+00:22:09,630 --> 00:22:13,330
+plates are forming
+within that within that
+
+438
+00:22:13,330 --> 00:22:19,790
+mantle layer sorry
+that we saw here so
+
+439
+00:22:19,790 --> 00:22:21,850
+there's mantle layer,
+and that's going to
+
+440
+00:22:21,850 --> 00:22:26,550
+give rise to the
+basal and alar plates.
+
+441
+00:22:26,770 --> 00:22:29,730
+And then those become
+
+442
+00:22:29,750 --> 00:22:31,970
+what we are more
+familiar with as
+
+443
+00:22:31,970 --> 00:22:34,790
+the ventral horn
+down here and the
+
+444
+00:22:34,790 --> 00:22:38,390
+dorsal horn within
+the spinal cord.
+
+445
+00:22:39,700 --> 00:22:41,270
+And if we break
+that down even
+
+446
+00:22:41,270 --> 00:22:44,390
+a little further,
+we can see
+
+447
+00:22:44,390 --> 00:22:47,250
+that the sensory
+cell bodies,
+
+448
+00:22:47,710 --> 00:22:49,750
+Remember, those
+exist out here in the
+
+449
+00:22:49,750 --> 00:22:52,370
+dorsal root ganglion,
+the cell bodies. And so
+
+450
+00:22:52,370 --> 00:22:55,090
+those come from the
+neural crest cells.
+
+451
+00:22:55,090 --> 00:22:58,910
+But the axons
+will grow into
+
+452
+00:22:58,910 --> 00:23:01,210
+and connect into
+the alar plate.
+
+453
+00:23:01,670 --> 00:23:04,250
+Whereas for the motor
+neurons, they actually
+
+454
+00:23:04,250 --> 00:23:06,350
+arise from the central
+nervous system,
+
+455
+00:23:06,350 --> 00:23:11,550
+and they grow within
+that basal plate that
+
+456
+00:23:11,550 --> 00:23:14,190
+becomes the ventral
+horn of the spinal cord.
+
+457
+00:23:17,890 --> 00:23:21,650
+So one last point about
+the spinal cord is
+
+458
+00:23:21,650 --> 00:23:25,370
+that in an early
+embryo, the spinal cord
+
+459
+00:23:25,370 --> 00:23:28,290
+is the same length as
+the vertebral column.
+
+460
+00:23:29,290 --> 00:23:32,930
+But the vertebrae
+and the somites
+
+461
+00:23:32,930 --> 00:23:34,450
+around them, so
+all the bone and
+
+462
+00:23:34,450 --> 00:23:35,890
+muscle tissue,
+grows at a much
+
+463
+00:23:35,890 --> 00:23:38,630
+faster rate than
+this neural tissue.
+
+464
+00:23:38,770 --> 00:23:41,350
+And the spinal cord
+is pretty firmly
+
+465
+00:23:41,350 --> 00:23:45,010
+attached to the brain
+at its cranial end. so
+
+466
+00:23:45,010 --> 00:23:48,130
+that means that it
+is the caudal end of
+
+467
+00:23:48,130 --> 00:23:51,210
+the spinal cord that
+it's sort of free
+
+468
+00:23:51,210 --> 00:23:54,170
+hanging here that ends
+up moving relative
+
+469
+00:23:54,170 --> 00:23:58,970
+to the vertebrae so by
+24 weeks of development
+
+470
+00:23:58,970 --> 00:24:03,530
+the end of the
+spinal cord the the
+
+471
+00:24:03,530 --> 00:24:05,650
+conus medullaris which
+is labeled here as
+
+472
+00:24:05,650 --> 00:24:10,030
+the medullary cone
+is at about s1 level
+
+473
+00:24:10,470 --> 00:24:14,890
+by the time of birth,
+it's about at L3.
+
+474
+00:24:15,530 --> 00:24:19,050
+And then in adulthood, it
+
+475
+00:24:19,050 --> 00:24:21,630
+ends about
+between L1 and L2.
+
+476
+00:24:22,170 --> 00:24:26,390
+So a couple of clinical
+notes for that. You
+
+477
+00:24:26,390 --> 00:24:29,010
+know, if we're trying
+to do any kind of
+
+478
+00:24:29,010 --> 00:24:31,710
+lumbar puncture, epidural
+things, you're still
+
+479
+00:24:31,710 --> 00:24:35,150
+generally safe at
+that L4 to L5 level,
+
+480
+00:24:35,150 --> 00:24:38,410
+even in an infant. All
+right, But that is why
+
+481
+00:24:38,410 --> 00:24:42,250
+we tend to want to be
+that low, is just to
+
+482
+00:24:42,250 --> 00:24:45,450
+make sure in practice
+that we're never
+
+483
+00:24:45,450 --> 00:24:48,390
+going to risk hitting
+the spinal cord itself.
+
+484
+00:24:49,780 --> 00:24:52,680
+And the other thing
+here is you can see, for
+
+485
+00:24:53,450 --> 00:24:59,710
+example, this S1 level
+spinal nerve is a
+
+486
+00:24:59,710 --> 00:25:02,070
+pretty reasonable length
+and similar to all
+
+487
+00:25:02,070 --> 00:25:05,690
+the other spinal nerves
+at this stage. But
+
+488
+00:25:05,690 --> 00:25:11,070
+as that spinal cord
+retracts superiorly
+
+489
+00:25:11,070 --> 00:25:14,190
+through the vertebral
+canal, these nerve roots
+
+490
+00:25:14,190 --> 00:25:16,870
+have to get longer to
+compensate. And that's
+
+491
+00:25:16,870 --> 00:25:20,250
+what ultimately
+produces that cauda
+
+492
+00:25:20,250 --> 00:25:25,400
+equina, that bundle of
+these really long spinal
+
+493
+00:25:25,470 --> 00:25:28,610
+nerves on their way
+to get down to the
+
+494
+00:25:28,610 --> 00:25:31,750
+level where they actually
+exit the vertebrae.
+
+495
+00:25:34,740 --> 00:25:37,530
+Something else to be
+aware of here is that
+
+496
+00:25:37,530 --> 00:25:39,630
+because of all this
+and this typical
+
+497
+00:25:39,630 --> 00:25:43,090
+movement of the spinal
+cord, there can be
+
+498
+00:25:43,090 --> 00:25:47,710
+situations where either
+independently or because
+
+499
+00:25:47,710 --> 00:25:50,530
+of some form of spina
+bifida, where the
+
+500
+00:25:50,530 --> 00:25:53,610
+spinal cord is still
+attached to the
+
+501
+00:25:53,610 --> 00:25:55,850
+surrounding tissue. It
+hasn't fully separated.
+
+502
+00:25:56,530 --> 00:25:59,970
+And in that case,
+then instead of this
+
+503
+00:25:59,970 --> 00:26:01,910
+smooth movement
+of the spinal cord
+
+504
+00:26:01,910 --> 00:26:04,850
+superiorly, you end
+up with that spinal
+
+505
+00:26:04,850 --> 00:26:06,750
+cord being stuck
+at a certain point.
+
+506
+00:26:06,930 --> 00:26:08,910
+And so then all the
+neural tissue in
+
+507
+00:26:08,910 --> 00:26:11,830
+between has to
+stretch along with the
+
+508
+00:26:11,830 --> 00:26:14,970
+growth of the
+surrounding tissues.
+
+509
+00:26:15,070 --> 00:26:17,050
+And that can produce some
+
+510
+00:26:17,050 --> 00:26:18,710
+neurological problems
+and is referred
+
+511
+00:26:18,710 --> 00:26:20,770
+to as tethered
+cord syndrome.
+
+512
+00:26:22,210 --> 00:26:26,190
+So that's all I have
+for this sort of
+
+513
+00:26:26,190 --> 00:26:28,850
+early portion of
+embryology and the spinal
+
+514
+00:26:28,850 --> 00:26:30,810
+cord. We're going to
+be back in another
+
+515
+00:26:30,810 --> 00:26:34,050
+segment with the
+development of the brain.
+
+516
+00:26:36,070 --> 00:26:38,690
+Hello, everyone,
+and welcome back for
+
+517
+00:26:38,690 --> 00:26:42,730
+part two of our lecture
+on the overview of
+
+518
+00:26:42,810 --> 00:26:44,850
+neuroembryology. And
+here we're going to
+
+519
+00:26:44,850 --> 00:26:47,150
+focus on the development
+of the brain.
+
+520
+00:26:49,590 --> 00:26:52,150
+so we've already
+discussed the formation
+
+521
+00:26:52,150 --> 00:26:56,050
+of the neural tube and
+the spinal cord and
+
+522
+00:26:56,050 --> 00:26:58,050
+the brain like the
+spinal cord develops
+
+523
+00:26:58,050 --> 00:27:01,170
+from that neural tube
+it just grows a lot
+
+524
+00:27:01,170 --> 00:27:04,710
+more than in the spinal
+cord now here we're
+
+525
+00:27:04,710 --> 00:27:07,570
+looking at a sagittal
+section through
+
+526
+00:27:07,570 --> 00:27:10,550
+an embryo at about 28
+days of development
+
+527
+00:27:10,930 --> 00:27:13,370
+So here's that
+spinal cord in
+
+528
+00:27:13,370 --> 00:27:15,230
+blue. And then
+here you can see
+
+529
+00:27:15,230 --> 00:27:17,630
+the ***********
+of the brain.
+
+530
+00:27:17,950 --> 00:27:22,530
+We call this
+region rostral
+
+531
+00:27:22,530 --> 00:27:25,990
+versus caudal back here.
+
+532
+00:27:26,250 --> 00:27:28,830
+Within the spinal cord,
+we could say caudal
+
+533
+00:27:28,830 --> 00:27:31,710
+this way and then
+cranial. But cranial
+
+534
+00:27:31,710 --> 00:27:34,290
+means towards the
+head. So once we're in
+
+535
+00:27:34,290 --> 00:27:37,310
+the head, we use the
+term rostral instead.
+
+536
+00:27:37,630 --> 00:27:39,030
+Because saying
+towards the
+
+537
+00:27:39,030 --> 00:27:40,230
+head wouldn't
+make any sense.
+
+538
+00:27:40,450 --> 00:27:43,890
+So we have three
+primary vesicles within
+
+539
+00:27:43,890 --> 00:27:46,530
+the brain, that's
+the forebrain, the
+
+540
+00:27:46,530 --> 00:27:49,170
+midbrain, and the
+hindbrain. And by
+
+541
+00:27:49,170 --> 00:27:51,430
+vesicle here, we just
+mean like a swelling,
+
+542
+00:27:51,430 --> 00:27:53,870
+an *********** of
+that neural tube.
+
+543
+00:27:56,280 --> 00:27:58,550
+And so we have
+those three primary
+
+544
+00:27:58,550 --> 00:28:01,850
+vesicles, and they
+also have more sort
+
+545
+00:28:01,850 --> 00:28:03,350
+of formal names
+than forebrain,
+
+546
+00:28:03,350 --> 00:28:04,850
+midbrain, and
+hindbrain. and those are
+
+547
+00:28:04,850 --> 00:28:07,070
+prosencephalon
+for the forebrain,
+
+548
+00:28:07,290 --> 00:28:10,190
+mesencephalon for
+the midbrain, and
+
+549
+00:28:10,190 --> 00:28:12,250
+rhombencephalon
+for the hindbrain.
+
+550
+00:28:13,170 --> 00:28:17,250
+Now, those three primary
+vesicles then grow
+
+551
+00:28:17,250 --> 00:28:21,490
+and divide into five
+secondary vesicles. So
+
+552
+00:28:21,490 --> 00:28:24,070
+the forebrain, or
+prosencephalon, gives rise
+
+553
+00:28:24,070 --> 00:28:26,920
+to the telencephalon
+and the diencephalon.
+
+554
+00:28:27,590 --> 00:28:30,130
+The telencephalon
+or telencephalon,
+
+555
+00:28:30,130 --> 00:28:32,220
+either way, all right,
+the telencephalon
+
+556
+00:28:32,430 --> 00:28:35,150
+divides into the
+left and the right
+
+557
+00:28:35,150 --> 00:28:38,970
+cerebral hemispheres
+and this cavity within
+
+558
+00:28:38,970 --> 00:28:41,970
+it becomes the
+lateral ventricles.
+
+559
+00:28:42,690 --> 00:28:46,850
+The diencephalon
+gives rise to the
+
+560
+00:28:46,850 --> 00:28:49,110
+thalamus, the
+hypothalamus, the optic
+
+561
+00:28:49,110 --> 00:28:51,550
+nerves and really
+the eye forms as an
+
+562
+00:28:51,550 --> 00:28:55,430
+outgrowth of it and
+the space that cavity
+
+563
+00:28:55,430 --> 00:28:58,030
+inside becomes the
+third ventricle.
+
+564
+00:28:59,030 --> 00:29:01,050
+Also it took me an
+embarrassingly long
+
+565
+00:29:01,050 --> 00:29:02,450
+time to realize this
+so I'm just going
+
+566
+00:29:02,450 --> 00:29:04,630
+to tell you all. The
+lateral ventricles
+
+567
+00:29:04,630 --> 00:29:07,390
+are ventricles one
+and two because
+
+568
+00:29:07,390 --> 00:29:09,230
+there's a left and
+a right. That's
+
+569
+00:29:09,230 --> 00:29:11,590
+why the third
+ventricle is the third.
+
+570
+00:29:13,330 --> 00:29:14,970
+The midbrain,
+
+571
+00:29:15,530 --> 00:29:18,250
+the mesencephalon or
+mesencephalon remains
+
+572
+00:29:18,250 --> 00:29:22,290
+the mesencephalon and
+the midbrain. That's
+
+573
+00:29:22,290 --> 00:29:24,790
+all it's called. It
+doesn't divide, so that
+
+574
+00:29:24,790 --> 00:29:26,990
+one's easy, and the
+space within it is
+
+575
+00:29:26,990 --> 00:29:29,970
+called the aqueduct or
+the cerebral aqueduct.
+
+576
+00:29:31,350 --> 00:29:35,150
+The hindbrain or
+rhombencephalon divides
+
+577
+00:29:35,150 --> 00:29:37,950
+into the
+metencephalon and the
+
+578
+00:29:37,950 --> 00:29:41,190
+myelencephalon. The
+metencephalon becomes
+
+579
+00:29:41,190 --> 00:29:43,970
+the pons and the
+cerebellum. So you always
+
+580
+00:29:43,970 --> 00:29:45,540
+want to associate
+the pons and the
+
+581
+00:29:45,540 --> 00:29:46,790
+cerebellum with
+each other. They're
+
+582
+00:29:46,790 --> 00:29:49,110
+forming from the same
+level of the brain.
+
+583
+00:29:49,490 --> 00:29:51,650
+And then the
+myelencephalon
+
+584
+00:29:51,650 --> 00:29:53,210
+becomes the medulla.
+
+585
+00:29:53,930 --> 00:29:57,450
+and this the cavity
+within all of
+
+586
+00:29:57,450 --> 00:29:59,640
+those leads to the
+fourth ventricle
+
+587
+00:30:02,550 --> 00:30:06,090
+so i want to make a
+note here about sort of
+
+588
+00:30:06,090 --> 00:30:07,770
+the folding of the
+brain as it develops
+
+589
+00:30:07,770 --> 00:30:11,030
+and how that relates
+to the ways we refer to
+
+590
+00:30:11,030 --> 00:30:13,190
+directions in the
+brain because it is a
+
+591
+00:30:13,190 --> 00:30:16,530
+little odd all right
+so early on this is
+
+592
+00:30:16,530 --> 00:30:18,890
+actually initially at
+some point pretty much
+
+593
+00:30:18,890 --> 00:30:22,470
+straight but rostral
+is always going to be
+
+594
+00:30:22,470 --> 00:30:26,210
+this direction within
+the brain, and caudal
+
+595
+00:30:26,210 --> 00:30:28,810
+is this direction
+towards the spinal cord.
+
+596
+00:30:29,530 --> 00:30:32,850
+But as the brain grows
+and sort of folds
+
+597
+00:30:32,850 --> 00:30:35,590
+over itself, as we
+see here by six weeks,
+
+598
+00:30:36,870 --> 00:30:41,270
+rostral becomes almost
+90 degrees to caudal,
+
+599
+00:30:41,270 --> 00:30:45,790
+but we keep referring
+to these directions,
+
+600
+00:30:45,790 --> 00:30:48,350
+even in adult
+anatomy in the brain.
+
+601
+00:30:48,550 --> 00:30:51,450
+So within the brain stem,
+
+602
+00:30:51,590 --> 00:30:54,650
+caudal is more or
+less in an adult
+
+603
+00:30:54,650 --> 00:30:57,830
+inferior and rostral
+is more or less
+
+604
+00:30:57,830 --> 00:31:02,210
+superior. But then
+as we move into the
+
+605
+00:31:02,210 --> 00:31:07,330
+diencephalon and
+telencephalon, then rostral
+
+606
+00:31:07,330 --> 00:31:09,970
+really means more
+like anterior
+
+607
+00:31:09,970 --> 00:31:15,650
+anatomically and caudal
+is more posterior.
+
+608
+00:31:15,930 --> 00:31:18,990
+So there's this bend
+in the brain that makes
+
+609
+00:31:18,990 --> 00:31:20,930
+that directionality a
+little bit confusing
+
+610
+00:31:20,930 --> 00:31:23,010
+so I just wanted to
+address that here.
+
+611
+00:31:24,110 --> 00:31:26,510
+And then here are
+the adult derivatives
+
+612
+00:31:26,510 --> 00:31:29,050
+of the forebrain,
+midbrain, and hindbrain
+
+613
+00:31:29,050 --> 00:31:31,080
+and their different
+components with
+
+614
+00:31:31,630 --> 00:31:35,790
+the added information
+of the cranial
+
+615
+00:31:35,790 --> 00:31:38,290
+nerves associated with
+each here. All right,
+
+616
+00:31:38,290 --> 00:31:41,210
+so the olfactory
+nerve comes from the
+
+617
+00:31:41,210 --> 00:31:43,530
+telencephalon, the
+optic nerve, as I
+
+618
+00:31:43,530 --> 00:31:45,870
+mentioned, the optic
+nerve and sort of
+
+619
+00:31:45,870 --> 00:31:48,010
+the outgrowth of that,
+which is the eye,
+
+620
+00:31:48,210 --> 00:31:50,130
+comes from the
+diencephalon.
+
+621
+00:31:50,710 --> 00:31:53,150
+The midbrain or
+mesencephalon has
+
+622
+00:31:53,150 --> 00:31:55,750
+the oculomotor and
+trochlear nerves.
+
+623
+00:31:56,390 --> 00:31:58,770
+And then here, the graph
+
+624
+00:31:58,770 --> 00:32:00,770
+isn't exactly divided,
+
+625
+00:32:00,950 --> 00:32:04,830
+but the pons gives
+rise to the next four
+
+626
+00:32:04,830 --> 00:32:07,750
+cranial nerves. So
+that's 5, 6, 7, and
+
+627
+00:32:07,750 --> 00:32:10,850
+8. So we should put
+a line across here.
+
+628
+00:32:10,930 --> 00:32:13,370
+That all goes with the
+
+629
+00:32:13,370 --> 00:32:15,010
+metencephalon, or pons.
+
+630
+00:32:15,730 --> 00:32:17,820
+And then coming
+from the medulla,
+
+631
+00:32:17,820 --> 00:32:19,730
+we have the last
+four cranial
+
+632
+00:32:19,730 --> 00:32:21,550
+nerves, 9, 10,
+11, and 12.
+
+633
+00:32:21,550 --> 00:32:24,090
+This table actually
+doesn't list 11 because
+
+634
+00:32:24,090 --> 00:32:27,830
+it's the spinal accessory
+nerve, most of its
+
+635
+00:32:27,830 --> 00:32:30,190
+nucleus really is down
+in the spinal cord,
+
+636
+00:32:30,350 --> 00:32:32,110
+so it doesn't
+list it here with
+
+637
+00:32:32,110 --> 00:32:35,270
+the medulla, but
+it is along there.
+
+638
+00:32:35,270 --> 00:32:38,870
+So our last four
+are medulla.
+
+639
+00:32:42,730 --> 00:32:46,190
+So we have a congenital
+disorder associated
+
+640
+00:32:46,190 --> 00:32:48,610
+with sort of this
+step in the process,
+
+641
+00:32:48,610 --> 00:32:54,510
+and that division of
+the prosencephalon
+
+642
+00:32:54,510 --> 00:32:58,270
+down the midline.
+So really it's
+
+643
+00:32:58,270 --> 00:33:02,650
+the lateralization of
+both the telencephalon
+
+644
+00:33:02,650 --> 00:33:05,410
+and diencephalon
+that are involved
+
+645
+00:33:05,410 --> 00:33:09,130
+here. And
+holoprosencephaly means one
+
+646
+00:33:09,130 --> 00:33:12,150
+prosencephalon or a
+whole prosencephalon,
+
+647
+00:33:12,270 --> 00:33:14,890
+so it's not divided
+along the midlines.
+
+648
+00:33:14,890 --> 00:33:16,750
+This means there are
+not separate left and
+
+649
+00:33:16,750 --> 00:33:19,890
+right cerebral hemispheres,
+and there are not
+
+650
+00:33:19,890 --> 00:33:22,650
+separate lateral
+ventricles. They are in
+
+651
+00:33:22,650 --> 00:33:24,530
+communication with
+each other, typically.
+
+652
+00:33:25,310 --> 00:33:29,210
+So if we look at that
+in MRI form, here is
+
+653
+00:33:29,210 --> 00:33:34,470
+a T2 MRI from a two
+-year-old girl, and in T2
+
+654
+00:33:34,470 --> 00:33:37,510
+MRIs, CSF is going to
+show up really bright.
+
+655
+00:33:37,510 --> 00:33:40,490
+All right, so this
+bright area here are the
+
+656
+00:33:40,490 --> 00:33:44,110
+two lateral ventricles,
+which are one large
+
+657
+00:33:44,110 --> 00:33:46,790
+ventricle in this case.
+They are communicating
+
+658
+00:33:46,790 --> 00:33:50,810
+across that midline,
+so there would be
+
+659
+00:33:52,570 --> 00:33:55,470
+probably at least somewhat
+a lack of a corpus
+
+660
+00:33:55,470 --> 00:33:59,030
+callosum in this
+situation. And here you
+
+661
+00:33:59,030 --> 00:34:01,910
+can see there's a bit of
+a longitudinal fissure,
+
+662
+00:34:01,910 --> 00:34:03,890
+that division between
+the left and the
+
+663
+00:34:03,890 --> 00:34:08,350
+right cerebral hemispheres
+in this case, or
+
+664
+00:34:08,350 --> 00:34:10,550
+sorry, posteriorly, there's
+a bit of a longitudinal
+
+665
+00:34:10,550 --> 00:34:13,930
+fissure, but anteriorly
+there is not.
+
+666
+00:34:15,030 --> 00:34:17,930
+So this would be
+considered a more
+
+667
+00:34:17,930 --> 00:34:20,960
+mild case, all
+right, and there's
+
+668
+00:34:20,960 --> 00:34:22,950
+still definitely
+some neurological
+
+669
+00:34:22,950 --> 00:34:24,830
+problems associated
+with that. There
+
+670
+00:34:24,830 --> 00:34:26,760
+can be seizures,
+motor impairments,
+
+671
+00:34:27,760 --> 00:34:29,150
+hydrocephalus, which
+we'll talk about
+
+672
+00:34:29,150 --> 00:34:30,670
+later, which is
+sort of impaired
+
+673
+00:34:30,670 --> 00:34:34,250
+flow of cerebrospinal
+fluid. Now there
+
+674
+00:34:34,250 --> 00:34:35,950
+can be hormone
+dysregulation because
+
+675
+00:34:35,950 --> 00:34:39,330
+the hypothalamus
+can be affected.
+
+676
+00:34:40,030 --> 00:34:43,270
+So even milder
+cases are going to
+
+677
+00:34:43,270 --> 00:34:44,680
+have a lot of
+neurological problems.
+
+678
+00:34:46,570 --> 00:34:48,830
+More severe
+cases of this,
+
+679
+00:34:48,830 --> 00:34:50,970
+though, lead to
+basically because
+
+680
+00:34:50,970 --> 00:34:52,250
+you don't have
+lateralization
+
+681
+00:34:53,080 --> 00:34:55,350
+and a left and right
+division of those
+
+682
+00:34:55,350 --> 00:34:59,430
+cerebral hemispheres,
+then you also
+
+683
+00:34:59,430 --> 00:35:01,170
+don't really get
+lateralization of
+
+684
+00:35:01,170 --> 00:35:03,290
+the facial features
+that overlie them.
+
+685
+00:35:03,810 --> 00:35:07,510
+So you can have
+cyclopia, like a single
+
+686
+00:35:07,510 --> 00:35:10,590
+midline eye instead
+of two eyes, this
+
+687
+00:35:10,590 --> 00:35:13,150
+sort of tube-like
+or proboscis-like
+
+688
+00:35:13,150 --> 00:35:16,770
+nose that's with a
+single nostril, problems
+
+689
+00:35:16,770 --> 00:35:19,870
+with the lips and
+palate not forming
+
+690
+00:35:19,870 --> 00:35:22,450
+properly. So there's
+a lot of facial
+
+691
+00:35:22,450 --> 00:35:24,350
+abnormalities that
+happen with this.
+
+692
+00:35:25,130 --> 00:35:27,870
+And, you know,
+severe cases of
+
+693
+00:35:27,870 --> 00:35:30,690
+holoprosencephaly are
+likely to be stillborn,
+
+694
+00:35:30,690 --> 00:35:32,700
+and they have a high
+mortality within
+
+695
+00:35:32,700 --> 00:35:35,150
+the first month
+and year of life.
+
+696
+00:35:38,930 --> 00:35:39,990
+All right,
+
+697
+00:35:40,190 --> 00:35:43,190
+so now we're going to
+kind of go through each
+
+698
+00:35:43,190 --> 00:35:47,890
+level of that brainstem
+and talk about the
+
+699
+00:35:48,080 --> 00:35:50,210
+distinctions there,
+but I just want to
+
+700
+00:35:50,210 --> 00:35:54,310
+review the spinal cord
+in relation to it. So up
+
+701
+00:35:54,310 --> 00:35:57,430
+here we have the early
+brainstem versus the
+
+702
+00:35:57,430 --> 00:36:00,030
+early spinal cord,
+and we've already seen
+
+703
+00:36:00,330 --> 00:36:02,470
+similar diagrams to
+this, right, where we
+
+704
+00:36:02,470 --> 00:36:05,590
+have that alar plate
+and the basal plate, and
+
+705
+00:36:05,590 --> 00:36:08,820
+they're divided by that
+sulcus limitans all
+
+706
+00:36:08,890 --> 00:36:11,550
+right we didn't talk
+about as much the floor
+
+707
+00:36:11,550 --> 00:36:13,770
+plate and the roof
+plate here but that's
+
+708
+00:36:13,770 --> 00:36:17,330
+just these this
+layer of ependymol or
+
+709
+00:36:17,330 --> 00:36:23,790
+neuroepithelial cells lining
+that central canal and
+
+710
+00:36:23,790 --> 00:36:25,510
+that roof plate is
+going to play a major
+
+711
+00:36:25,510 --> 00:36:28,410
+role in the the formation
+of the brain stem.
+
+712
+00:36:28,960 --> 00:36:31,400
+Now in the early
+brain stem it's
+
+713
+00:36:31,400 --> 00:36:35,410
+pretty similar except
+that this central
+
+714
+00:36:35,410 --> 00:36:37,110
+area that will
+become the ventricles
+
+715
+00:36:37,110 --> 00:36:39,210
+is much larger
+than what becomes
+
+716
+00:36:39,210 --> 00:36:42,250
+the central canal
+in the spinal cord.
+
+717
+00:36:43,850 --> 00:36:46,230
+And we still have
+an alar plate which
+
+718
+00:36:46,230 --> 00:36:48,210
+will give rise to
+sensory regions and a
+
+719
+00:36:48,210 --> 00:36:50,350
+basal plate that will
+give rise to motor
+
+720
+00:36:50,350 --> 00:36:53,310
+regions. But these
+arrows sort of indicate
+
+721
+00:36:53,310 --> 00:36:55,890
+the growth that's
+going to happen here.
+
+722
+00:36:56,890 --> 00:37:00,730
+And here in the
+midbrain, as one example,
+
+723
+00:37:00,730 --> 00:37:03,610
+and this is probably
+the most similar region
+
+724
+00:37:03,610 --> 00:37:05,810
+to the spinal cord,
+even though there's a
+
+725
+00:37:05,810 --> 00:37:08,690
+bunch of extra stuff
+happening, we still have
+
+726
+00:37:08,690 --> 00:37:11,110
+this sensory region
+that is more dorsal
+
+727
+00:37:11,110 --> 00:37:14,510
+and this motor region
+that is more ventral.
+
+728
+00:37:17,970 --> 00:37:22,890
+now if we look at
+the myelencephalon
+
+729
+00:37:24,670 --> 00:37:27,250
+specifically
+here and here
+
+730
+00:37:27,250 --> 00:37:28,690
+we're looking
+at a dorsal view
+
+731
+00:37:29,670 --> 00:37:32,730
+and we sort of cut
+through what will become
+
+732
+00:37:32,730 --> 00:37:35,410
+the fourth ventricle
+here which is the
+
+733
+00:37:35,410 --> 00:37:37,510
+roof plate and we're
+looking at a dorsal
+
+734
+00:37:37,510 --> 00:37:39,390
+view the important
+thing here are these
+
+735
+00:37:39,390 --> 00:37:40,510
+cross sections and
+you can And you can
+
+736
+00:37:40,510 --> 00:37:44,110
+see that roof plate
+has grown dramatically
+
+737
+00:37:44,370 --> 00:37:46,450
+in this region.
+
+738
+00:37:46,520 --> 00:37:48,410
+So that we end
+up with alar
+
+739
+00:37:48,410 --> 00:37:50,140
+plates that are
+more lateral
+
+740
+00:37:50,530 --> 00:37:53,510
+and basal plates that
+are more medial. So
+
+741
+00:37:53,510 --> 00:37:56,530
+instead of this dorsal
+ventral divide, we
+
+742
+00:37:56,530 --> 00:37:59,710
+actually have a sort of
+lateral to medial divide
+
+743
+00:37:59,710 --> 00:38:02,030
+because we've gone
+from a tube like this
+
+744
+00:38:02,030 --> 00:38:03,290
+to something that's more
+
+745
+00:38:03,290 --> 00:38:05,110
+open with a roof plate
+
+746
+00:38:05,410 --> 00:38:08,390
+connecting my fingertips
+here. all right
+
+747
+00:38:08,390 --> 00:38:11,030
+so our sensory regions
+have moved out to
+
+748
+00:38:11,030 --> 00:38:16,610
+the sides and the motor
+regions remain more
+
+749
+00:38:16,610 --> 00:38:18,550
+or less where they
+were but now that seems
+
+750
+00:38:18,550 --> 00:38:22,730
+more more medial than
+ventral as compared
+
+751
+00:38:22,730 --> 00:38:24,770
+to where the sensory
+regions are and we
+
+752
+00:38:24,770 --> 00:38:27,410
+can break that down
+into where the visceral
+
+753
+00:38:27,410 --> 00:38:29,830
+afferents are special
+visceral afferent
+
+754
+00:38:29,830 --> 00:38:32,430
+general visceral
+afferent all of that okay
+
+755
+00:38:32,440 --> 00:38:33,850
+and I'm not going to
+go through each of
+
+756
+00:38:33,850 --> 00:38:36,170
+those, but they're on
+the diagram for you.
+
+757
+00:38:38,650 --> 00:38:43,090
+And here, this is very
+similar to what we
+
+758
+00:38:43,090 --> 00:38:44,750
+just looked at, but I
+did want to contrast
+
+759
+00:38:44,750 --> 00:38:47,970
+the upper or rostral
+portion of the medulla
+
+760
+00:38:47,970 --> 00:38:51,370
+here with the lower
+or caudal portion.
+
+761
+00:38:51,530 --> 00:38:54,750
+So in the lower portion
+of the medulla, it
+
+762
+00:38:54,750 --> 00:38:58,250
+looks a lot more like
+the spinal cord, all
+
+763
+00:38:58,250 --> 00:38:59,570
+right? It doesn't
+really have like those
+
+764
+00:38:59,570 --> 00:39:01,810
+dorsal and ventral horns,
+so it's not exactly
+
+765
+00:39:01,810 --> 00:39:05,410
+the same but we do have
+more or less a central
+
+766
+00:39:05,410 --> 00:39:09,030
+canal here and then
+sensory areas sensory
+
+767
+00:39:09,030 --> 00:39:13,150
+nuclei that are more
+dorsal and down here
+
+768
+00:39:13,150 --> 00:39:16,750
+the pyramids are they're
+not motor nerve or
+
+769
+00:39:16,750 --> 00:39:19,630
+they're not motor neuron
+bodies but they are
+
+770
+00:39:19,630 --> 00:39:25,610
+axons for the motor
+system coming from the
+
+771
+00:39:25,610 --> 00:39:27,770
+cortex ultimately
+and then down to the
+
+772
+00:39:27,770 --> 00:39:29,870
+spinal cord. All right,
+so those pyramids are
+
+773
+00:39:29,870 --> 00:39:32,610
+a motor region. And so
+we have that sensory
+
+774
+00:39:32,610 --> 00:39:37,190
+dorsal versus motor
+ventral dichotomy here.
+
+775
+00:39:37,710 --> 00:39:39,990
+Whereas in the
+rostral portion of the
+
+776
+00:39:39,990 --> 00:39:43,370
+medulla, those
+sensory regions have
+
+777
+00:39:43,370 --> 00:39:45,570
+moved out laterally,
+or if you like
+
+778
+00:39:45,570 --> 00:39:47,930
+alliteration, they
+are to the side.
+
+779
+00:39:47,930 --> 00:39:51,390
+So sensory side,
+motor, medial here.
+
+780
+00:39:54,250 --> 00:39:56,470
+moving into the
+metencephalon
+
+781
+00:39:56,720 --> 00:39:58,990
+and there's a i
+know there's a lot
+
+782
+00:39:58,990 --> 00:40:00,610
+going on in these
+diagrams but
+
+783
+00:40:00,710 --> 00:40:02,170
+here we're looking
+at a lateral
+
+784
+00:40:02,170 --> 00:40:03,670
+view of the whole
+brain here's
+
+785
+00:40:03,670 --> 00:40:06,030
+our forebrain
+up here midbrain
+
+786
+00:40:06,510 --> 00:40:11,710
+here's our developing
+metencephalon and in
+
+787
+00:40:11,710 --> 00:40:13,650
+sort of a sagittal
+section through there you
+
+788
+00:40:13,650 --> 00:40:15,640
+can see that part of
+that is the cerebellum
+
+789
+00:40:15,850 --> 00:40:19,110
+part of that is the
+pons and then what will
+
+790
+00:40:19,110 --> 00:40:21,430
+become the fourth
+ventricle is in between.
+
+791
+00:40:22,350 --> 00:40:25,890
+And then here we're
+looking at a cross
+
+792
+00:40:25,890 --> 00:40:30,890
+-section through there
+and there we can see
+
+793
+00:40:30,890 --> 00:40:33,150
+once again we've got
+this fourth ventricle
+
+794
+00:40:33,150 --> 00:40:36,810
+forming that roof
+plate or a pendimal
+
+795
+00:40:36,810 --> 00:40:40,470
+roof forming and this
+region with the yellow
+
+796
+00:40:40,470 --> 00:40:43,050
+arrow going to it
+is what we call the
+
+797
+00:40:43,050 --> 00:40:45,470
+rhombic lip and that's
+what's going to give
+
+798
+00:40:45,470 --> 00:40:50,250
+rise to specifically
+the vermis of the
+
+799
+00:40:50,250 --> 00:40:52,350
+cerebellum, and this
+whole sort of dark
+
+800
+00:40:52,350 --> 00:40:55,150
+blue region will give
+rise to cerebellum.
+
+801
+00:40:55,690 --> 00:40:57,130
+So that's
+ultimately going
+
+802
+00:40:57,130 --> 00:40:58,810
+to sort of wrap
+back around
+
+803
+00:40:59,730 --> 00:41:02,730
+to this region behind
+
+804
+00:41:02,730 --> 00:41:05,610
+that fourth ventricle.
+
+805
+00:41:08,790 --> 00:41:11,470
+And then here, this
+is a similar view to
+
+806
+00:41:11,470 --> 00:41:13,790
+this, just later in
+development, where we can
+
+807
+00:41:13,790 --> 00:41:17,950
+see that cerebellum
+has grown dramatically.
+
+808
+00:41:20,210 --> 00:41:23,110
+So if that
+doesn't happen,
+
+809
+00:41:23,110 --> 00:41:27,850
+specifically the vermis
+of the cerebellum
+
+810
+00:41:27,850 --> 00:41:30,650
+grows from that
+rhombic lip.
+
+811
+00:41:31,650 --> 00:41:35,110
+And sometimes that
+doesn't happen properly.
+
+812
+00:41:35,110 --> 00:41:36,950
+Again, it's very
+multifactorial. It can
+
+813
+00:41:36,950 --> 00:41:38,790
+happen for all kinds
+of different reasons.
+
+814
+00:41:39,210 --> 00:41:42,710
+but if that happens
+then you end up with
+
+815
+00:41:42,710 --> 00:41:47,610
+either agenesis or
+hypoplasia of the cerebellar
+
+816
+00:41:47,610 --> 00:41:50,850
+vermis and that's
+indicated here in the with
+
+817
+00:41:50,850 --> 00:41:54,990
+the yellow arrow on
+this normal MRI it's
+
+818
+00:41:54,990 --> 00:41:57,550
+this whole region here
+this is all cerebellum
+
+819
+00:41:58,690 --> 00:42:02,030
+and you can see here
+this is what the fourth
+
+820
+00:42:02,030 --> 00:42:04,430
+ventricle should look
+like right you You
+
+821
+00:42:04,430 --> 00:42:06,610
+get this nice sort of
+triangular shape here.
+
+822
+00:42:06,630 --> 00:42:10,430
+But over here, because
+the vermis did not
+
+823
+00:42:10,430 --> 00:42:13,550
+develop, you have
+this huge area of
+
+824
+00:42:13,550 --> 00:42:18,330
+cerebrospinal fluid here
+that is this sort of
+
+825
+00:42:19,850 --> 00:42:24,870
+large cystic region of
+the fourth ventricle.
+
+826
+00:42:26,410 --> 00:42:29,070
+And we only have a
+very small part of that
+
+827
+00:42:29,070 --> 00:42:31,130
+cerebellar vermis, and
+often what happens is
+
+828
+00:42:31,130 --> 00:42:34,150
+that ends up sort of
+pushing upwards and this
+
+829
+00:42:34,150 --> 00:42:36,550
+ventricular system
+doesn't communicate
+
+830
+00:42:36,550 --> 00:42:39,490
+that well. So you can
+often get hydrocephalus
+
+831
+00:42:39,490 --> 00:42:43,990
+associated with Dandy
+-Walker syndrome. Now
+
+832
+00:42:43,990 --> 00:42:47,110
+the primary problem with
+Dandy-Walker is because
+
+833
+00:42:47,110 --> 00:42:49,530
+that cerebellar vermis
+doesn't develop,
+
+834
+00:42:49,670 --> 00:42:53,010
+you have ataxia. So
+problems with coordination
+
+835
+00:42:53,010 --> 00:42:55,670
+and particularly
+an unsteady gait.
+
+836
+00:42:57,320 --> 00:42:59,790
+And as I said, but
+it can often be
+
+837
+00:42:59,790 --> 00:43:01,390
+associated with
+hydrocephalus,
+
+838
+00:43:01,390 --> 00:43:02,850
+which we'll cover
+in a later slide.
+
+839
+00:43:05,330 --> 00:43:08,350
+Moving up to the
+mesencephalon,
+
+840
+00:43:09,210 --> 00:43:10,910
+here, again,
+we're looking at
+
+841
+00:43:10,910 --> 00:43:12,730
+that lateral view
+of the brain,
+
+842
+00:43:12,810 --> 00:43:14,810
+forebrain up here,
+we're looking
+
+843
+00:43:14,810 --> 00:43:16,550
+at a section through
+the midbrain.
+
+844
+00:43:17,110 --> 00:43:19,870
+And once again,
+we have that alar
+
+845
+00:43:19,870 --> 00:43:23,270
+and basal plate,
+giving rise to
+
+846
+00:43:23,270 --> 00:43:27,030
+various portions
+of the midbrain.
+
+847
+00:43:27,730 --> 00:43:31,150
+and then as we move
+here into the 11th week
+
+848
+00:43:31,150 --> 00:43:33,430
+of development as
+that telencephalon
+
+849
+00:43:33,690 --> 00:43:37,530
+increases in size here
+we've got a couple
+
+850
+00:43:37,530 --> 00:43:40,110
+different sections through
+here so we're looking
+
+851
+00:43:40,110 --> 00:43:43,230
+at the inferior
+midbrain here and the
+
+852
+00:43:43,230 --> 00:43:46,370
+more superior portion
+here we have the
+
+853
+00:43:46,370 --> 00:43:49,110
+superior colliculus and
+the inferior colliculus
+
+854
+00:43:49,110 --> 00:43:54,170
+and those are somewhat
+sensory in nature
+
+855
+00:43:54,170 --> 00:43:56,450
+right and you can see
+those basically have
+
+856
+00:43:56,450 --> 00:43:59,570
+have come off from
+that alar plate and
+
+857
+00:44:01,560 --> 00:44:04,330
+then down here depending
+on the level you have
+
+858
+00:44:04,330 --> 00:44:07,990
+either the trochlear
+nucleus or the
+
+859
+00:44:07,990 --> 00:44:10,530
+oculomotor nucleus and
+those are motor so once
+
+860
+00:44:10,530 --> 00:44:13,530
+again we have that
+sensory versus motor
+
+861
+00:44:13,530 --> 00:44:18,210
+dichotomy and then the
+aqueduct the cerebral
+
+862
+00:44:18,210 --> 00:44:20,290
+aqueduct is right in
+the center of that.
+
+863
+00:44:22,530 --> 00:44:25,330
+So now we're going to
+talk about the overall
+
+864
+00:44:25,330 --> 00:44:28,050
+growth of both the
+cerebrum and the
+
+865
+00:44:28,050 --> 00:44:31,790
+cerebellum. So remember
+this division here if
+
+866
+00:44:31,790 --> 00:44:34,690
+we're looking at the
+general tube, the general
+
+867
+00:44:34,690 --> 00:44:37,690
+neural tube structure,
+you have this
+
+868
+00:44:37,690 --> 00:44:41,290
+ventricular layer lining
+the neural canal, a mantle
+
+869
+00:44:41,290 --> 00:44:43,770
+layer that becomes
+gray matter, and a
+
+870
+00:44:43,770 --> 00:44:46,290
+marginal layer that
+becomes white matter. All
+
+871
+00:44:46,290 --> 00:44:48,450
+right, and that's
+reflected up here again.
+
+872
+00:44:48,630 --> 00:44:50,390
+Here they're calling
+the ventricular
+
+873
+00:44:50,390 --> 00:44:52,210
+layer the
+neuroepithelial layer
+
+874
+00:44:52,210 --> 00:44:55,110
+and then mantle
+and then marginal.
+
+875
+00:44:56,510 --> 00:44:59,070
+And in the spinal
+cord things stay
+
+876
+00:44:59,070 --> 00:45:01,270
+that way, all right?
+So you end up with
+
+877
+00:45:01,270 --> 00:45:03,890
+gray matter surrounded
+by white matter
+
+878
+00:45:03,890 --> 00:45:06,750
+tracts, surrounded
+by pia matter.
+
+879
+00:45:07,610 --> 00:45:10,810
+In the cerebrum and
+cerebellum though, these
+
+880
+00:45:10,810 --> 00:45:12,810
+neuroblasts that will
+ultimately give rise
+
+881
+00:45:12,810 --> 00:45:15,590
+to neurons, they start
+to migrate outwards.
+
+882
+00:45:15,590 --> 00:45:17,690
+All right, so here we
+have the cerebellar
+
+883
+00:45:17,690 --> 00:45:19,990
+view, and we have these
+migrating neuroblasts
+
+884
+00:45:19,990 --> 00:45:23,230
+coming out here,
+forming these different
+
+885
+00:45:23,230 --> 00:45:27,170
+layers of the
+cerebellar cortex. And
+
+886
+00:45:27,170 --> 00:45:31,770
+then down here, we have
+the cerebrum. So again,
+
+887
+00:45:31,770 --> 00:45:33,450
+you have migrating
+neuroblasts coming out
+
+888
+00:45:33,450 --> 00:45:37,630
+here and forming this
+primordial cortex.
+
+889
+00:45:38,070 --> 00:45:42,250
+So the key thing here
+is that this is how
+
+890
+00:45:42,250 --> 00:45:46,310
+we end up with gray
+matter on the external
+
+891
+00:45:46,310 --> 00:45:48,810
+surface of the cerebrum
+and the cerebellum
+
+892
+00:45:48,810 --> 00:45:52,230
+whereas in the spinal
+cord it's simple
+
+893
+00:45:52,230 --> 00:45:55,230
+uh gray matter
+surrounded by white
+
+894
+00:45:55,230 --> 00:45:57,990
+matter tracts here
+we have migration of
+
+895
+00:45:57,990 --> 00:46:00,710
+neuroblasts that go to
+the outside and carry
+
+896
+00:46:02,510 --> 00:46:04,990
+gray matter
+out there more
+
+897
+00:46:04,990 --> 00:46:06,890
+more towards the exterior
+
+898
+00:46:08,750 --> 00:46:10,470
+and I won't get into
+all the different
+
+899
+00:46:10,470 --> 00:46:12,890
+layers but that's
+essentially how those layers
+
+900
+00:46:12,890 --> 00:46:14,550
+are formed all right
+so here we're looking
+
+901
+00:46:14,550 --> 00:46:19,270
+at neocortex in the
+parietal in blue
+
+902
+00:46:19,270 --> 00:46:25,230
+and frontal lobes in
+pink all right and that's
+
+903
+00:46:25,230 --> 00:46:27,250
+neocortex and then
+remember that there's
+
+904
+00:46:27,250 --> 00:46:31,010
+also allocortex or
+paleocortex which is
+
+905
+00:46:31,370 --> 00:46:33,750
+simpler. It's only
+three layers as opposed
+
+906
+00:46:33,750 --> 00:46:37,300
+to six, and that's
+going to be found on
+
+907
+00:46:37,370 --> 00:46:40,490
+more the ventral sides
+of the cerebrum, the
+
+908
+00:46:40,490 --> 00:46:42,970
+olfactory regions,
+and the hippocampus.
+
+909
+00:46:46,090 --> 00:46:49,470
+So fetal development
+is mostly just a lot of
+
+910
+00:46:49,470 --> 00:46:51,390
+that happening,
+right? You have those
+
+911
+00:46:51,390 --> 00:46:54,530
+neuroblasts migrating
+and producing neurons and
+
+912
+00:46:54,530 --> 00:46:58,530
+increasing the size of
+the cerebrum. So the
+
+913
+00:46:58,530 --> 00:47:01,510
+cerebrum starts off
+fairly smooth but those
+
+914
+00:47:01,510 --> 00:47:05,530
+gyri and sulci develop
+through the fetal
+
+915
+00:47:05,530 --> 00:47:11,490
+period and as the cerebral
+hemispheres grow they
+
+916
+00:47:11,490 --> 00:47:14,510
+cover the diencephalon.
+So here you can
+
+917
+00:47:14,510 --> 00:47:16,890
+still see diencephalon
+a bit and then it's
+
+918
+00:47:16,890 --> 00:47:19,870
+covered by week 26 here
+by the occipital lobe.
+
+919
+00:47:20,830 --> 00:47:22,710
+And as we continue,
+
+920
+00:47:23,030 --> 00:47:27,450
+the insular cortex
+is still visible
+
+921
+00:47:28,490 --> 00:47:31,630
+externally, or laterally,
+I guess we could say,
+
+922
+00:47:31,810 --> 00:47:34,750
+for quite some time.
+It's still visible
+
+923
+00:47:34,750 --> 00:47:37,550
+here at week 30.
+But by week 38,
+
+924
+00:47:37,770 --> 00:47:39,550
+sort of the end of
+fetal development,
+
+925
+00:47:39,550 --> 00:47:41,070
+that is covered
+over by the
+
+926
+00:47:41,070 --> 00:47:43,810
+temporal lobe. And
+you can see these gyri
+
+927
+00:47:43,810 --> 00:47:46,470
+and sulci continuing
+to develop.
+
+928
+00:47:47,650 --> 00:47:52,950
+so if that fails
+to occur or or or
+
+929
+00:47:52,950 --> 00:47:57,750
+occurs slowly we call
+that microcephaly so
+
+930
+00:47:57,750 --> 00:48:00,750
+microcephaly is
+just a reduction in
+
+931
+00:48:00,750 --> 00:48:05,330
+that neurogenesis
+so hypoplasia of the
+
+932
+00:48:05,330 --> 00:48:09,070
+cerebral hemispheres
+and the overlying
+
+933
+00:48:09,330 --> 00:48:12,510
+cranial bones,
+because the brain
+
+934
+00:48:12,510 --> 00:48:16,110
+essentially
+forces those bones
+
+935
+00:48:16,110 --> 00:48:17,970
+to grow to
+accommodate the brain.
+
+936
+00:48:18,610 --> 00:48:20,890
+And this, like many
+other things we're
+
+937
+00:48:20,890 --> 00:48:23,050
+looking at here, has
+multiple causes. It
+
+938
+00:48:23,050 --> 00:48:25,210
+can be genetic. It can
+be due to infection
+
+939
+00:48:25,210 --> 00:48:27,650
+during pregnancy,
+exposure to alcohol,
+
+940
+00:48:27,850 --> 00:48:29,210
+exposure to radiation.
+
+941
+00:48:29,430 --> 00:48:33,270
+So this is a
+multifaceted thing.
+
+942
+00:48:33,270 --> 00:48:34,670
+Lots of things
+can cause it.
+
+943
+00:48:34,990 --> 00:48:39,380
+And it will have
+varying degrees of
+
+944
+00:48:40,320 --> 00:48:43,510
+neurological issues
+depending on the extent.
+
+945
+00:48:44,930 --> 00:48:47,510
+So I want to wrap
+up by talking about
+
+946
+00:48:47,510 --> 00:48:48,730
+the development
+of the ventricles,
+
+947
+00:48:48,730 --> 00:48:49,870
+which we've
+already touched on
+
+948
+00:48:49,870 --> 00:48:53,090
+here, but I've just
+got a few images
+
+949
+00:48:53,350 --> 00:48:58,370
+to really pad that
+out, all right? So here
+
+950
+00:48:58,370 --> 00:49:01,690
+we're looking at a
+schematic view where
+
+951
+00:49:01,690 --> 00:49:03,650
+we see the telencephalon
+dividing into the
+
+952
+00:49:03,650 --> 00:49:06,110
+cerebral hemispheres
+and inside of that
+
+953
+00:49:06,110 --> 00:49:09,650
+there are these two
+lateral ventricles and
+
+954
+00:49:09,650 --> 00:49:11,950
+they have a huge amount
+of choroid plexus
+
+955
+00:49:11,950 --> 00:49:15,510
+that's the cells that
+produce cerebrospinal
+
+956
+00:49:15,510 --> 00:49:20,450
+fluid all right and
+they will initially
+
+957
+00:49:20,450 --> 00:49:22,550
+are in communication
+with each other but
+
+958
+00:49:22,550 --> 00:49:24,650
+as the cerebral
+hemispheres divide they'll
+
+959
+00:49:24,650 --> 00:49:27,310
+be cut off from each
+other but each will
+
+960
+00:49:27,310 --> 00:49:29,530
+still communicate with
+the third ventricle
+
+961
+00:49:29,530 --> 00:49:32,130
+between the parts
+of the diencephalon
+
+962
+00:49:33,170 --> 00:49:36,420
+and that then
+communicates with the
+
+963
+00:49:36,420 --> 00:49:38,430
+aqueduct that goes
+through the midbrain
+
+964
+00:49:38,830 --> 00:49:42,490
+which connects to the
+fourth ventricle in
+
+965
+00:49:42,490 --> 00:49:46,070
+the hindbrain or
+rhombencephalon and the
+
+966
+00:49:46,070 --> 00:49:48,370
+fourth ventricle then
+has openings into
+
+967
+00:49:48,370 --> 00:49:52,090
+the subarachnoid space
+and so that's how all
+
+968
+00:49:52,090 --> 00:49:53,850
+of this cerebrospinal
+fluid which is
+
+969
+00:49:53,850 --> 00:49:56,150
+produced in these
+various choroid plexuses
+
+970
+00:49:56,150 --> 00:49:59,810
+flows through the
+ventricular system and
+
+971
+00:49:59,810 --> 00:50:02,750
+then from the fourth
+ventricle out into the
+
+972
+00:50:02,750 --> 00:50:05,010
+subarachnoid space
+outside of the brain,
+
+973
+00:50:05,610 --> 00:50:09,070
+where it then gets
+reabsorbed through the
+
+974
+00:50:09,070 --> 00:50:12,050
+arachnoid granules
+into the venous system.
+
+975
+00:50:12,930 --> 00:50:14,930
+And there is also
+a connection from
+
+976
+00:50:14,930 --> 00:50:16,170
+that fourth
+ventricle into the
+
+977
+00:50:16,170 --> 00:50:18,450
+central canal of
+the spinal cord.
+
+978
+00:50:20,870 --> 00:50:23,790
+And then here, it's
+kind of just a rehash
+
+979
+00:50:23,790 --> 00:50:25,150
+of that, right?
+you have your third
+
+980
+00:50:25,150 --> 00:50:28,930
+ventricle in the
+diencephalon and then here
+
+981
+00:50:28,930 --> 00:50:31,270
+in sectional view
+and that connects to
+
+982
+00:50:31,270 --> 00:50:35,510
+each lateral ventricle
+as that roof of the
+
+983
+00:50:35,510 --> 00:50:38,650
+third ventricle sort
+of divides the two
+
+984
+00:50:38,650 --> 00:50:42,050
+lateral ventricles from
+each other and each
+
+985
+00:50:42,050 --> 00:50:43,410
+lateral ventricle
+is connected to the
+
+986
+00:50:43,410 --> 00:50:45,310
+third ventricle via
+the interventricular
+
+987
+00:50:45,310 --> 00:50:48,050
+foramen also called
+the foramen of munro
+
+988
+00:50:51,910 --> 00:50:56,250
+then here we're
+looking at sections at
+
+989
+00:50:56,250 --> 00:50:58,510
+two different points
+in development through
+
+990
+00:50:58,510 --> 00:51:01,330
+here so basically
+a coronal section
+
+991
+00:51:01,330 --> 00:51:04,200
+through the brain
+and here you can see
+
+992
+00:51:04,200 --> 00:51:06,610
+each lateral ventricle
+and they're now
+
+993
+00:51:06,610 --> 00:51:10,150
+being divided from
+each other here by that
+
+994
+00:51:10,150 --> 00:51:12,390
+ependimal roof of
+the third ventricle
+
+995
+00:51:13,570 --> 00:51:14,910
+and here you can see that
+
+996
+00:51:14,910 --> 00:51:16,230
+interventricular foramen
+
+997
+00:51:17,340 --> 00:51:18,850
+and the thalamus
+on either
+
+998
+00:51:18,850 --> 00:51:20,120
+side of the
+third ventricle
+
+999
+00:51:21,130 --> 00:51:24,270
+and then by here
+you can see sort of
+
+1000
+00:51:24,270 --> 00:51:27,310
+that full division
+now there are still
+
+1001
+00:51:27,310 --> 00:51:29,670
+interventricular foramina
+that will connect
+
+1002
+00:51:29,670 --> 00:51:31,790
+the lateral to the
+third ventricles
+
+1003
+00:51:31,790 --> 00:51:34,710
+but they've gotten
+smaller at this point
+
+1004
+00:51:34,710 --> 00:51:36,830
+they're just a small
+foramina and you
+
+1005
+00:51:36,830 --> 00:51:39,130
+can only see through
+a particular slice
+
+1006
+00:51:39,310 --> 00:51:42,860
+and so here's sort
+of our general setup
+
+1007
+00:51:42,860 --> 00:51:45,210
+in the end and you
+can see that there's
+
+1008
+00:51:45,210 --> 00:51:47,890
+choroid plexus
+growing into each of
+
+1009
+00:51:47,890 --> 00:51:50,290
+the ventricles each
+lateral ventricle and
+
+1010
+00:51:50,290 --> 00:51:52,130
+the third ventricle
+all have choroid
+
+1011
+00:51:52,130 --> 00:51:54,450
+plexus and so does
+the fourth ventricle
+
+1012
+00:51:56,230 --> 00:51:58,750
+and that lateral
+ventricle grows along with
+
+1013
+00:51:58,750 --> 00:52:01,570
+the cerebrum so it's
+the white space here
+
+1014
+00:52:01,570 --> 00:52:04,410
+inside the cerebrum
+and as the cerebral
+
+1015
+00:52:04,410 --> 00:52:06,750
+hemispheres grow that
+lateral ventricle sort
+
+1016
+00:52:06,750 --> 00:52:08,730
+of grows different horns
+here. So we have that
+
+1017
+00:52:08,730 --> 00:52:10,550
+temporal horn going
+out into the temporal
+
+1018
+00:52:10,550 --> 00:52:14,030
+lobe, and then lastly
+the occipital horn
+
+1019
+00:52:14,030 --> 00:52:16,510
+going out into the
+occipital lobe develops.
+
+1020
+00:52:20,310 --> 00:52:23,930
+So here's our
+final setup of the
+
+1021
+00:52:24,410 --> 00:52:27,610
+ventricles sort of
+ghosted within the
+
+1022
+00:52:27,610 --> 00:52:29,710
+brain here. So
+this is all lateral
+
+1023
+00:52:29,710 --> 00:52:32,750
+ventricle and the
+occipital horn back here.
+
+1024
+00:52:32,830 --> 00:52:35,010
+There's that
+interventricular foramen
+
+1025
+00:52:35,010 --> 00:52:37,230
+connecting to the
+third ventricle here,
+
+1026
+00:52:37,230 --> 00:52:39,670
+wrapping around
+the interthalamic
+
+1027
+00:52:39,670 --> 00:52:41,390
+adhesion, which is
+that little circle.
+
+1028
+00:52:41,810 --> 00:52:45,420
+Then CSF will flow
+through the aqueduct
+
+1029
+00:52:45,420 --> 00:52:48,930
+in the midbrain down
+to the fourth ventricle
+
+1030
+00:52:48,930 --> 00:52:51,590
+in the hindbrain
+and from the fourth
+
+1031
+00:52:51,590 --> 00:52:53,630
+ventricle either into
+the central canal
+
+1032
+00:52:53,630 --> 00:52:58,930
+of the spinal cord
+or exiting through
+
+1033
+00:52:58,930 --> 00:53:03,510
+various openings into
+the subarachnoid space,
+
+1034
+00:53:03,510 --> 00:53:06,470
+which will then wrap
+around the brain.
+
+1035
+00:53:08,210 --> 00:53:10,890
+So our last disorder
+is hydrocephalus,
+
+1036
+00:53:10,990 --> 00:53:14,370
+and that is, and I
+mean you'll see that
+
+1037
+00:53:14,370 --> 00:53:16,170
+come up in a lot of
+contexts in medicine,
+
+1038
+00:53:16,570 --> 00:53:18,810
+congenital hydrocephalus
+is typically what
+
+1039
+00:53:18,810 --> 00:53:20,810
+we call non-communicating.
+So it just means
+
+1040
+00:53:20,810 --> 00:53:22,990
+that there's a blockage
+somewhere in the
+
+1041
+00:53:22,990 --> 00:53:25,530
+ventricular system,
+and cerebrospinal fluid
+
+1042
+00:53:25,530 --> 00:53:28,230
+cannot do what I just
+described, and flow
+
+1043
+00:53:28,230 --> 00:53:31,140
+from the lateral to
+the third ventricle
+
+1044
+00:53:31,510 --> 00:53:33,890
+through the aqueduct,
+into the fourth ventricle,
+
+1045
+00:53:33,890 --> 00:53:35,850
+and then into the
+subarachnoid space.
+
+1046
+00:53:36,750 --> 00:53:39,530
+So if cerebrospinal
+fluid can't drain
+
+1047
+00:53:39,530 --> 00:53:41,830
+properly, it builds up
+within those ventricles,
+
+1048
+00:53:41,830 --> 00:53:44,490
+and those push
+outward on the brain,
+
+1049
+00:53:44,490 --> 00:53:46,470
+and the brain pushes
+outward on the skull,
+
+1050
+00:53:46,470 --> 00:53:49,410
+and everything gets
+sort of enlarged
+
+1051
+00:53:49,410 --> 00:53:52,550
+here. So signs of this
+include large head
+
+1052
+00:53:52,550 --> 00:53:56,190
+size, and particularly
+also you'll see
+
+1053
+00:53:56,190 --> 00:53:58,890
+bulging veins, and
+remember that in infants,
+
+1054
+00:53:58,890 --> 00:54:01,510
+the bones of the
+calvarium are not all
+
+1055
+00:54:01,510 --> 00:54:03,510
+sutured together, and
+there are membranous
+
+1056
+00:54:03,510 --> 00:54:06,210
+portions there called
+fontanelles, and
+
+1057
+00:54:06,210 --> 00:54:08,470
+so those fontanelles
+will bulge outward.
+
+1058
+00:54:09,630 --> 00:54:11,590
+And in terms of symptoms,
+
+1059
+00:54:12,150 --> 00:54:13,310
+right, general sort of
+
+1060
+00:54:13,310 --> 00:54:14,850
+irritability, drowsiness,
+
+1061
+00:54:15,090 --> 00:54:18,390
+vomiting seizures,
+that kind of thing is
+
+1062
+00:54:18,390 --> 00:54:19,940
+what you're going to
+see with hydrocephalus.
+
+1063
+00:54:23,190 --> 00:54:26,010
+So summing it all
+up, remember that
+
+1064
+00:54:26,010 --> 00:54:27,390
+the nervous system
+develops from
+
+1065
+00:54:27,390 --> 00:54:30,350
+ectoderm, and the
+process of forming the
+
+1066
+00:54:30,350 --> 00:54:32,370
+neural tube is
+called neurulation.
+
+1067
+00:54:32,690 --> 00:54:35,910
+Neural crest cells
+then migrate from the
+
+1068
+00:54:35,910 --> 00:54:38,210
+neural tube to form
+parts of the peripheral
+
+1069
+00:54:38,210 --> 00:54:40,410
+nervous system as well
+as other structures.
+
+1070
+00:54:41,530 --> 00:54:43,910
+Once that neural
+tube is formed, it's
+
+1071
+00:54:43,910 --> 00:54:47,030
+divided into basal
+plates and alar plates.
+
+1072
+00:54:47,030 --> 00:54:48,750
+The basal plates
+are associated with
+
+1073
+00:54:48,750 --> 00:54:51,470
+motor regions and the
+alar plates with sensory
+
+1074
+00:54:51,470 --> 00:54:54,210
+regions. The final
+configuration
+
+1075
+00:54:54,210 --> 00:54:57,310
+differs a bit between
+the spinal cord and
+
+1076
+00:54:57,310 --> 00:55:00,490
+the brain stem, so look
+at those differences
+
+1077
+00:55:00,490 --> 00:55:02,170
+to think about the
+differentiation
+
+1078
+00:55:02,170 --> 00:55:04,730
+between motor regions
+and sensory regions.
+
+1079
+00:55:05,550 --> 00:55:09,750
+And then finally, the
+brain is formed by a
+
+1080
+00:55:09,750 --> 00:55:11,930
+series of vesicles,
+each of which is sort
+
+1081
+00:55:11,930 --> 00:55:15,650
+of an inflated area
+of the tube, and each
+
+1082
+00:55:15,650 --> 00:55:17,910
+vesicle gives rise to
+a portion of the brain
+
+1083
+00:55:17,910 --> 00:55:20,550
+and a portion of the
+ventricular system.
+
+1084
+00:55:21,110 --> 00:55:24,370
+And finally, as
+a summary slide,
+
+1085
+00:55:24,370 --> 00:55:25,650
+I have all the
+disorders that
+
+1086
+00:55:25,650 --> 00:55:28,180
+are listed in
+this lecture,
+
+1087
+00:55:28,890 --> 00:55:32,090
+and the embryonic
+structure that is affected,
+
+1088
+00:55:32,290 --> 00:55:34,970
+and sort of general
+description of the
+
+1089
+00:55:34,970 --> 00:55:38,330
+result of that
+embryonic structure not
+
+1090
+00:55:38,330 --> 00:55:42,050
+developing properly. I
+have not listed all the
+
+1091
+00:55:42,050 --> 00:55:43,710
+symptoms associated
+with each of these.
+
+1092
+00:55:43,710 --> 00:55:46,070
+That might be a good
+exercise for you to do.
+
+1093
+00:55:46,840 --> 00:55:49,410
+But that's all that
+I have for you today,
+
+1094
+00:55:49,410 --> 00:55:51,610
+so I hope that you've
+enjoyed this lecture,
+
+1095
+00:55:51,610 --> 00:55:55,250
+but if you haven't,
+either way, I appreciate
+
+1096
+00:55:55,250 --> 00:55:58,370
+feedback, and I wish
+you happy studying.

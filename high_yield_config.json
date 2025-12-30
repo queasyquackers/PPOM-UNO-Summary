@@ -1,0 +1,72 @@
+{
+    "pos_keywords": [
+        "high yield",
+        "important",
+        "summary",
+        "key points",
+        "remember",
+        "take home",
+        "exam",
+        "test",
+        "clinical correlate",
+        "mechanism",
+        "black box",
+        "warning",
+        "adverse effect",
+        "treatment",
+        "management",
+        "objectives"
+    ],
+    "neg_keywords": [
+        "references",
+        "thank you",
+        "disclosure",
+        "agenda",
+        "overview",
+        "bibliography",
+        "works cited",
+        "sources",
+        "citations"
+    ],
+    "feedback_indicators": [
+        "feedback form",
+        "evaluation",
+        "qr code",
+        "survey",
+        "scan the code"
+    ],
+    "practice_indicators": [
+        "practice question",
+        "review question",
+        "self-assessment",
+        "question 1",
+        "question 2",
+        "q:"
+    ],
+    "patterns": {
+        "email": "\\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\\.[A-Z|a-z]{2,}\\b",
+        "formula": "[A-Za-z]+\\s*=\\s*[A-Za-z0-9]+",
+        "threshold": "(>|<|≥|≤)\\s*\\d+|\\d+\\s*(mg|kg|mcg|g/dl|mmhg)",
+        "example": "\\be\\.g\\.|for example|such as",
+        "clinical": "\\b(patient|presentation|case|symptoms|diagnosis)\\b",
+        "url": "https?://(?:[-\\w.]|(?:%[\\da-fA-F]{2}))+|www\\.[-\\w.]+"
+    },
+    "weights": {
+        "bold_ratio": 20,
+        "color_ratio": 30,
+        "keyword_hit": 5,
+        "neg_keyword_hit": -20,
+        "repetition": 2,
+        "formula": 10,
+        "threshold": 10,
+        "example": 5,
+        "clinical": 5,
+        "practice_q": 15,
+        "image_bonus": 15,
+        "visual_diagram_bonus": 10,
+        "low_text_penalty": -5,
+        "adjacency_next": 5,
+        "adjacency_prev": 2,
+        "url_penalty": -10
+    }
+}

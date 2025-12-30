@@ -1,0 +1,4351 @@
+1
+00:00:00,790 --> 00:00:03,030
+Hello everyone, this
+is Isaac Kurtz of the
+
+2
+00:00:03,030 --> 00:00:05,050
+Department of
+Biomedical Science, Old
+
+3
+00:00:05,050 --> 00:00:09,230
+Westbury Campus, and
+this will be another of
+
+4
+00:00:09,230 --> 00:00:11,850
+the lectures on the
+supraspinal motor
+
+5
+00:00:11,850 --> 00:00:15,210
+systems, this one
+concerning the cerebellum.
+
+6
+00:00:16,970 --> 00:00:19,190
+We have four session
+objectives for our
+
+7
+00:00:19,190 --> 00:00:21,570
+lecture today. First off,
+we need to understand
+
+8
+00:00:21,570 --> 00:00:26,030
+the general organization
+of the cerebellum.
+
+9
+00:00:26,030 --> 00:00:27,390
+There's lobes of
+the cerebellum, just
+
+10
+00:00:27,390 --> 00:00:29,850
+like the cerebral cortex.
+What are they? where
+
+11
+00:00:29,850 --> 00:00:33,390
+are they, nuclei for
+the cerebellum, input
+
+12
+00:00:33,390 --> 00:00:35,550
+pathways, output pathways
+for the cerebellum,
+
+13
+00:00:35,550 --> 00:00:37,470
+and so on. Then we
+need to understand
+
+14
+00:00:37,470 --> 00:00:40,890
+how those inputs and
+outputs are linked to
+
+15
+00:00:40,890 --> 00:00:43,230
+different parts of the
+brain, spinal cord,
+
+16
+00:00:43,230 --> 00:00:46,350
+brainstem, and cerebrum.
+And then we need
+
+17
+00:00:46,350 --> 00:00:50,970
+to zoom on in and say
+how is it that the
+
+18
+00:00:50,970 --> 00:00:54,750
+circuitry of cerebellum
+is allowing it to do
+
+19
+00:00:54,750 --> 00:00:58,830
+its job? What does
+that mean on that more
+
+20
+00:00:58,830 --> 00:01:01,510
+detailed circuit level
+and lastly we need to
+
+21
+00:01:01,510 --> 00:01:04,530
+understand the regional
+specialization of
+
+22
+00:01:04,530 --> 00:01:06,470
+the cerebellum just
+like you have for the
+
+23
+00:01:06,470 --> 00:01:08,970
+cerebrum it's divided
+into various regions
+
+24
+00:01:08,970 --> 00:01:11,390
+what are those functions
+for these various
+
+25
+00:01:11,390 --> 00:01:15,050
+regions and what occurs
+when we have deficits
+
+26
+00:01:16,050 --> 00:01:19,870
+cerebellum means
+little brain in Latin.
+
+27
+00:01:20,410 --> 00:01:26,150
+And like the big brain,
+the cerebral cortex,
+
+28
+00:01:26,150 --> 00:01:31,770
+it is a gray matter
+sheet that has many
+
+29
+00:01:31,770 --> 00:01:36,570
+different folds so
+that we can pack in as
+
+30
+00:01:36,570 --> 00:01:42,030
+much processing into a
+confined space. But the
+
+31
+00:01:42,030 --> 00:01:44,370
+little is a bit of an
+exaggeration because,
+
+32
+00:01:44,370 --> 00:01:46,450
+in fact, if you were
+to unroll that sheet,
+
+33
+00:01:46,450 --> 00:01:48,870
+it has about 80% of
+the surface area of
+
+34
+00:01:48,870 --> 00:01:52,030
+cerebral cortex and 80
+percent of the neurons
+
+35
+00:01:52,030 --> 00:01:55,530
+in the brain so that
+that's quite shocking
+
+36
+00:01:55,530 --> 00:01:57,350
+if you just looked at
+it maybe they'd name
+
+37
+00:01:57,350 --> 00:02:00,350
+it otherwise if they
+knew those facts at
+
+38
+00:02:00,350 --> 00:02:04,570
+the time regardless
+it is a region of the
+
+39
+00:02:04,570 --> 00:02:09,490
+brain that is critical
+for coordination and
+
+40
+00:02:09,490 --> 00:02:13,410
+damaging it will lead
+to um significant issues
+
+41
+00:02:13,410 --> 00:02:16,050
+in coordination be
+it your eyes be it
+
+42
+00:02:16,050 --> 00:02:18,890
+moving your body moving
+your limbs or speaking
+
+43
+00:02:18,890 --> 00:02:21,570
+and so on but you do
+not have a diminishment
+
+44
+00:02:21,570 --> 00:02:24,510
+of strength if one
+was to have cerebellar
+
+45
+00:02:24,510 --> 00:02:27,160
+damage you can take
+it out uh entirely
+
+46
+00:02:27,160 --> 00:02:30,870
+and you'd be just as
+strong just be terribly
+
+47
+00:02:31,410 --> 00:02:33,570
+coordinated because
+that's really what
+
+48
+00:02:33,570 --> 00:02:36,680
+its job is is a part
+of the extrapyramidal
+
+49
+00:02:36,870 --> 00:02:40,810
+system so its
+neurons are going to
+
+50
+00:02:40,810 --> 00:02:43,670
+be impacting the
+upper motor neurons,
+
+51
+00:02:43,670 --> 00:02:46,630
+which themselves
+directly influence the
+
+52
+00:02:46,630 --> 00:02:48,450
+lower motor neurons,
+but it doesn't
+
+53
+00:02:48,450 --> 00:02:51,210
+influence the lower
+motor neurons itself.
+
+54
+00:02:51,370 --> 00:02:55,570
+Now, there are many
+different functions of
+
+55
+00:02:55,570 --> 00:02:57,850
+the cerebellum, as
+one could imagine, for
+
+56
+00:02:57,850 --> 00:03:01,890
+a structure that is
+so extensive being
+
+57
+00:03:01,890 --> 00:03:04,370
+80% of the surface
+area of the cerebral
+
+58
+00:03:04,370 --> 00:03:10,030
+cortex but most of our
+understanding is about
+
+59
+00:03:10,030 --> 00:03:13,230
+motor coordination
+there's less understanding
+
+60
+00:03:13,230 --> 00:03:16,510
+about its role
+in cognition and
+
+61
+00:03:16,520 --> 00:03:19,210
+emotional processing
+the last thing I want to
+
+62
+00:03:19,210 --> 00:03:23,390
+mention here is a
+interesting historical
+
+63
+00:03:23,910 --> 00:03:28,150
+fact is that we
+developed some of
+
+64
+00:03:28,150 --> 00:03:30,450
+our modern
+understanding of the
+
+65
+00:03:30,450 --> 00:03:33,930
+cerebellum due
+to neurologists
+
+66
+00:03:33,930 --> 00:03:37,950
+examining World War
+One vets, British,
+
+67
+00:03:38,110 --> 00:03:40,800
+and they suffered, a
+number of them suffered
+
+68
+00:03:40,800 --> 00:03:42,330
+damage to the cerebellum
+because of the
+
+69
+00:03:42,330 --> 00:03:44,270
+particular hat they
+were wearing as opposed
+
+70
+00:03:44,270 --> 00:03:46,330
+to the Germans that
+had a different hat
+
+71
+00:03:46,330 --> 00:03:51,810
+helmet and this some
+of the key observations
+
+72
+00:03:51,810 --> 00:03:54,630
+that were made there
+in terms of ataxia
+
+73
+00:03:55,410 --> 00:04:00,810
+stand with us to this
+day as mentioned in
+
+74
+00:04:00,810 --> 00:04:03,070
+the slide before most
+of our understanding
+
+75
+00:04:03,070 --> 00:04:05,970
+about the cerebellum
+concerns its role in
+
+76
+00:04:05,970 --> 00:04:08,650
+motor coordination
+whereas undoubtedly it
+
+77
+00:04:08,650 --> 00:04:11,810
+has a much broader
+role it is ultimately
+
+78
+00:04:11,810 --> 00:04:15,150
+going to be getting
+influences from parts of
+
+79
+00:04:15,150 --> 00:04:18,290
+the cerebral cortex
+that are not related
+
+80
+00:04:19,290 --> 00:04:21,610
+in any obvious
+way to motor
+
+81
+00:04:21,610 --> 00:04:24,590
+coordination like
+prefrontal cortex
+
+82
+00:04:24,590 --> 00:04:28,470
+for example but
+our understanding
+
+83
+00:04:28,470 --> 00:04:30,270
+of those capabilities
+are limited
+
+84
+00:04:30,270 --> 00:04:32,770
+because people just
+aren't doing the
+
+85
+00:04:32,770 --> 00:04:35,470
+studies there's
+about But 10% of the
+
+86
+00:04:35,470 --> 00:04:37,910
+research on the
+cerebellum is there
+
+87
+00:04:37,910 --> 00:04:40,980
+is to the cortex,
+which is obviously
+
+88
+00:04:42,410 --> 00:04:45,910
+not matching the 80%
+of its cortical surface
+
+89
+00:04:45,910 --> 00:04:48,430
+and 80% of the neurons
+in the brain. So
+
+90
+00:04:48,430 --> 00:04:50,150
+if you went by neurons,
+you went by surface
+
+91
+00:04:50,150 --> 00:04:52,030
+area, it doesn't
+match how much time is
+
+92
+00:04:52,030 --> 00:04:54,050
+being spent on these
+areas. I'm just pointing
+
+93
+00:04:54,050 --> 00:04:57,290
+to some recent research
+that's trying to
+
+94
+00:04:57,290 --> 00:04:59,370
+bridge these gaps. These
+are things that are
+
+95
+00:04:59,370 --> 00:05:01,290
+in development that
+you have. activation
+
+96
+00:05:01,290 --> 00:05:03,490
+of the cerebellum
+during a mental rotation
+
+97
+00:05:03,490 --> 00:05:06,630
+task or when the person
+is trying to think
+
+98
+00:05:06,630 --> 00:05:10,190
+of different verbs
+like run and jump and
+
+99
+00:05:10,190 --> 00:05:14,370
+so on so it is involved
+in cognitive functions
+
+100
+00:05:14,370 --> 00:05:16,170
+we're going to be
+pushing that off for
+
+101
+00:05:16,170 --> 00:05:19,750
+the rest of the talk
+you slides really gonna
+
+102
+00:05:19,750 --> 00:05:22,750
+be going into some
+more detail about the
+
+103
+00:05:22,750 --> 00:05:26,890
+anatomy of the
+cerebellum and what what
+
+104
+00:05:26,890 --> 00:05:31,090
+comprises its organization
+there are lobes and
+
+105
+00:05:31,090 --> 00:05:34,110
+regions of the cortical
+sheet comparable
+
+106
+00:05:34,110 --> 00:05:38,110
+to what we have for
+cerebral cortex here we
+
+107
+00:05:38,110 --> 00:05:41,450
+also have these
+distinctive peduncles which
+
+108
+00:05:41,450 --> 00:05:42,590
+are going to be
+fiber tract hearing
+
+109
+00:05:42,590 --> 00:05:47,310
+information to cerebellum
+or away from cerebellum
+
+110
+00:05:47,370 --> 00:05:51,730
+internal nuclei this
+is a very distinct
+
+111
+00:05:51,730 --> 00:05:53,910
+feature of the cerebellum
+there's going be
+
+112
+00:05:53,910 --> 00:05:58,090
+nuclei that will be
+its output from the
+
+113
+00:05:58,090 --> 00:06:01,450
+cerebellum and they're
+inside the cerebellum
+
+114
+00:06:01,860 --> 00:06:05,405
+and then there are
+associated external
+
+115
+00:06:05,405 --> 00:06:09,710
+nuclei these are nuclei
+that are intimately
+
+116
+00:06:09,710 --> 00:06:11,610
+related to the
+cerebellum they provide
+
+117
+00:06:11,610 --> 00:06:14,650
+inputs to the cerebellum
+but they are not
+
+118
+00:06:14,650 --> 00:06:17,870
+cerebellum per se and
+we'll go through each
+
+119
+00:06:17,870 --> 00:06:21,950
+of those in its turn
+the folded gray matter
+
+120
+00:06:21,950 --> 00:06:25,650
+sheet of cerebellar
+cortex is divided
+
+121
+00:06:25,650 --> 00:06:29,430
+into three lobes, two
+of which we see from
+
+122
+00:06:29,430 --> 00:06:31,970
+this bandage, which
+is superior. I'm a
+
+123
+00:06:31,970 --> 00:06:34,030
+bird flying above and
+the googly eyes are
+
+124
+00:06:34,030 --> 00:06:37,530
+pointing straight ahead.
+There is the anterior
+
+125
+00:06:37,530 --> 00:06:40,230
+lobe, which is
+suitably in the front.
+
+126
+00:06:40,670 --> 00:06:44,930
+There is the posterior
+lobe, posterior to
+
+127
+00:06:44,930 --> 00:06:49,070
+it. The two are
+divided by the primary
+
+128
+00:06:49,070 --> 00:06:53,430
+fissure the posterior
+lobe is going to continue
+
+129
+00:06:53,430 --> 00:06:55,910
+wrapping underneath
+and then there's
+
+130
+00:06:55,910 --> 00:06:58,570
+gonna be a floccular
+nodule lobe which is
+
+131
+00:06:58,570 --> 00:07:00,870
+hidden inside here
+we'll see it soon enough
+
+132
+00:07:00,870 --> 00:07:05,770
+now there are different
+regions of the
+
+133
+00:07:05,770 --> 00:07:10,730
+lobes and the centermost
+region the midline
+
+134
+00:07:10,730 --> 00:07:14,010
+region is called vermis
+like worm. I don't
+
+135
+00:07:14,010 --> 00:07:16,710
+see a worm here, but
+the anatomist did.
+
+136
+00:07:16,710 --> 00:07:19,530
+And then there are the
+hemispheres. You have
+
+137
+00:07:19,530 --> 00:07:21,190
+a hemisphere to the
+left, you have a
+
+138
+00:07:21,190 --> 00:07:23,490
+hemisphere to the right
+for both the anterior
+
+139
+00:07:23,750 --> 00:07:25,510
+posterior lobe
+and the floccular
+
+140
+00:07:25,510 --> 00:07:27,250
+nodule lobe that
+we'll get to soon.
+
+141
+00:07:27,390 --> 00:07:29,130
+Now you can divide that
+
+142
+00:07:30,230 --> 00:07:34,270
+hemisphere into the
+lateral division and the
+
+143
+00:07:34,270 --> 00:07:36,090
+medial division. So
+the lateral is the most
+
+144
+00:07:36,090 --> 00:07:39,770
+lateral and the medial
+is what abuts the
+
+145
+00:07:39,770 --> 00:07:43,410
+vermis and continues
+out about an inch or so
+
+146
+00:07:43,410 --> 00:07:47,210
+and that's also called
+paravermal but we'll
+
+147
+00:07:47,210 --> 00:07:52,610
+call it medial hemisphere
+here we have the
+
+148
+00:07:52,680 --> 00:07:55,610
+disembodied cerebellum
+again this time from
+
+149
+00:07:55,610 --> 00:07:59,330
+the inferior view so it'd
+be as if this person's
+
+150
+00:07:59,330 --> 00:08:02,210
+laying on their back
+and were able to see
+
+151
+00:08:03,600 --> 00:08:06,730
+up their nose. Let's
+get rid of that now.
+
+152
+00:08:07,190 --> 00:08:15,370
+And we have a great
+view of the posterior
+
+153
+00:08:15,370 --> 00:08:18,150
+lobe because that's
+really most everything
+
+154
+00:08:18,150 --> 00:08:21,910
+that we see from this
+vantage. The posterior
+
+155
+00:08:21,910 --> 00:08:25,170
+lobe is wrapping
+around on the backside
+
+156
+00:08:25,170 --> 00:08:28,930
+and the composes the
+underneath of the
+
+157
+00:08:29,160 --> 00:08:32,130
+cerebellum. No, you
+cannot see the anterior
+
+158
+00:08:32,130 --> 00:08:35,810
+lobe from this view,
+but we are able to see
+
+159
+00:08:35,810 --> 00:08:39,850
+some of the phallocular
+nodule lobe, which
+
+160
+00:08:39,850 --> 00:08:41,880
+is sticking out
+right in front. I'm
+
+161
+00:08:41,880 --> 00:08:44,830
+highlighting it right
+here. You can see this
+
+162
+00:08:44,830 --> 00:08:47,290
+little outcropping.
+There's a little out
+
+163
+00:08:47,290 --> 00:08:50,250
+propping right there as
+well and it looks kind
+
+164
+00:08:50,250 --> 00:08:53,730
+of like a bumpy tongue
+so it's sandwiched
+
+165
+00:08:53,820 --> 00:08:58,270
+on the anterior side
+between the anterior
+
+166
+00:08:58,270 --> 00:09:00,870
+lobe and the posterior
+lobe which is
+
+167
+00:09:00,870 --> 00:09:03,730
+wrapping up underneath
+it and making kind of
+
+168
+00:09:03,730 --> 00:09:06,550
+a floccular nodule
+sandwich between those
+
+169
+00:09:06,550 --> 00:09:10,270
+two now you have
+the midline region
+
+170
+00:09:10,270 --> 00:09:14,710
+continuing so you have
+vermis on the anterior
+
+171
+00:09:14,710 --> 00:09:17,710
+lobe, vermis on the
+posterior lobe, and
+
+172
+00:09:17,710 --> 00:09:20,630
+vermis on the inferior
+portion of the
+
+173
+00:09:20,630 --> 00:09:23,110
+posterior lobe. You
+also have the lateral
+
+174
+00:09:23,110 --> 00:09:26,810
+hemispheres and the
+medial hemispheres so
+
+175
+00:09:26,810 --> 00:09:29,190
+these are just general
+designations that
+
+176
+00:09:29,190 --> 00:09:32,750
+you have that span
+the different lobes.
+
+177
+00:09:33,590 --> 00:09:37,750
+Here we have a mid
+-sagittal view of the
+
+178
+00:09:37,750 --> 00:09:41,710
+cerebellum with the cerebrum
+and brainstem intact.
+
+179
+00:09:41,750 --> 00:09:45,250
+I can draw a little
+googly eye here for
+
+180
+00:09:45,250 --> 00:09:48,150
+references. The googly
+eye is looking forward.
+
+181
+00:09:48,590 --> 00:09:54,110
+That is anterior. And
+there are three lobes
+
+182
+00:09:54,110 --> 00:09:56,590
+that we're able to
+see in this view and
+
+183
+00:09:56,590 --> 00:09:59,560
+not in the other views.
+There is the anterior
+
+184
+00:09:59,560 --> 00:10:04,670
+lobe which is the most
+anterior and superior
+
+185
+00:10:04,670 --> 00:10:08,470
+of the three and that
+will be separated
+
+186
+00:10:08,470 --> 00:10:14,570
+from the posterior lobe
+by the primary fissure
+
+187
+00:10:14,570 --> 00:10:18,270
+the posterior lobe is
+going to continue on
+
+188
+00:10:18,270 --> 00:10:22,630
+the underside of the
+cerebellum it is the
+
+189
+00:10:22,630 --> 00:10:27,970
+underside of the
+cerebellum and sandwiched
+
+190
+00:10:27,970 --> 00:10:31,550
+between the two is the
+floccular nodule lobe
+
+191
+00:10:31,550 --> 00:10:34,730
+and so this particular
+division of the floccular
+
+192
+00:10:34,730 --> 00:10:37,310
+nodule lobe is called
+the flocculus and
+
+193
+00:10:37,310 --> 00:10:41,070
+those outcroppings
+that we saw from the
+
+194
+00:10:41,110 --> 00:10:46,670
+inferior view those
+would be the flocculi so
+
+195
+00:10:46,670 --> 00:10:48,210
+there's one for the
+left there's one for the
+
+196
+00:10:48,210 --> 00:10:51,070
+right it's a paired
+structure and then the
+
+197
+00:10:51,070 --> 00:10:55,230
+verbal region of the
+floccular nodule lobe
+
+198
+00:10:55,230 --> 00:11:00,130
+is the nodulus and
+that lobe is separated
+
+199
+00:11:00,130 --> 00:11:03,950
+from the posterior
+lobe by the posterior
+
+200
+00:11:03,950 --> 00:11:08,510
+lateral fissure and
+so this view um really
+
+201
+00:11:08,510 --> 00:11:11,950
+does a nice job showing
+the relative sizes
+
+202
+00:11:11,950 --> 00:11:17,190
+of these three lobes.
+This one is by far
+
+203
+00:11:17,190 --> 00:11:19,610
+the smallest, the
+floccular nodule lobe.
+
+204
+00:11:19,610 --> 00:11:22,990
+They'll be followed by
+the anterior lobe, which
+
+205
+00:11:22,990 --> 00:11:25,910
+is nothing to be trifled
+with, but is only
+
+206
+00:11:25,910 --> 00:11:28,470
+a half of what you
+see in the superior
+
+207
+00:11:28,470 --> 00:11:32,870
+view, whereas the
+posterior lobe is so much
+
+208
+00:11:32,870 --> 00:11:35,490
+more developed. It
+takes up the rest of the
+
+209
+00:11:35,820 --> 00:11:40,910
+superior view and all
+of the region underneath
+
+210
+00:11:40,910 --> 00:11:47,390
+it here we have a
+cartoon cross-section
+
+211
+00:11:47,390 --> 00:11:53,190
+of the cerebellum and
+the adjoining brain
+
+212
+00:11:53,190 --> 00:11:56,810
+stem that shows the
+relative positions of
+
+213
+00:11:56,910 --> 00:12:00,310
+the deep cerebellar
+nuclei and called deep
+
+214
+00:12:00,310 --> 00:12:02,130
+cerebellar nuclei
+because they're deep
+
+215
+00:12:02,130 --> 00:12:05,370
+within in the folds
+of the cerebellum
+
+216
+00:12:05,370 --> 00:12:07,370
+that's how you have
+to cut on through it
+
+217
+00:12:07,370 --> 00:12:10,510
+because they're all
+hidden away and there
+
+218
+00:12:10,510 --> 00:12:15,050
+are three groups on
+each side most laterally
+
+219
+00:12:15,050 --> 00:12:17,990
+we have the dentate
+nucleus which is
+
+220
+00:12:18,190 --> 00:12:20,750
+shown in red you can
+see how large that is
+
+221
+00:12:20,750 --> 00:12:23,630
+it's supposed to look
+like teeth so i'm told
+
+222
+00:12:23,630 --> 00:12:27,830
+we have the interposed
+uh nuclei and so
+
+223
+00:12:27,830 --> 00:12:30,270
+that means that they're
+in between the dentates
+
+224
+00:12:30,270 --> 00:12:33,290
+and then the most
+medial nucleus which
+
+225
+00:12:33,290 --> 00:12:36,920
+is the fastigal and
+there's names for these
+
+226
+00:12:36,920 --> 00:12:39,140
+interposed which you
+don't need to you're
+
+227
+00:12:39,730 --> 00:12:42,810
+not going to be held
+to globosa ebola form
+
+228
+00:12:42,810 --> 00:12:47,250
+and I should note that
+we have the nodulus
+
+229
+00:12:47,250 --> 00:12:51,810
+at this level of the
+section that's sticking
+
+230
+00:12:51,810 --> 00:12:54,410
+on out and that's as
+you might remember
+
+231
+00:12:54,410 --> 00:12:57,830
+the vermal portion of
+the floccular nodule
+
+232
+00:12:57,830 --> 00:13:01,810
+lobe and so you're
+only able to see these
+
+233
+00:13:01,810 --> 00:13:05,650
+nuclei with a together
+at a very specific
+
+234
+00:13:05,650 --> 00:13:09,890
+section because though
+the dentate is quite
+
+235
+00:13:09,890 --> 00:13:13,570
+large these other nuclei
+are relatively small
+
+236
+00:13:13,570 --> 00:13:16,230
+and would be hidden
+within that white
+
+237
+00:13:16,230 --> 00:13:18,030
+matter that's what I'm
+drawing around right
+
+238
+00:13:18,030 --> 00:13:20,910
+here this the white
+matter which are axons
+
+239
+00:13:20,910 --> 00:13:25,190
+um for the cerebellum
+information going in
+
+240
+00:13:25,190 --> 00:13:28,450
+and information going
+out now i should mention
+
+241
+00:13:28,450 --> 00:13:30,570
+right now what is
+the general function
+
+242
+00:13:30,570 --> 00:13:33,350
+of these these are the
+output nuclei of the
+
+243
+00:13:33,350 --> 00:13:35,350
+cerebellum so you
+have processing within
+
+244
+00:13:35,350 --> 00:13:39,270
+the cerebellar cortex
+then we'll be sending
+
+245
+00:13:41,470 --> 00:13:44,110
+axons which
+terminate onto
+
+246
+00:13:44,110 --> 00:13:45,950
+these deep
+cerebellar nuclei.
+
+247
+00:13:46,250 --> 00:13:50,150
+And then these deep
+cerebellar nuclei, DCN,
+
+248
+00:13:50,150 --> 00:13:54,930
+will be projecting axons
+out back to the rest
+
+249
+00:13:54,930 --> 00:13:57,210
+of the nervous system.
+So this is a gate
+
+250
+00:13:57,210 --> 00:14:00,570
+out of the cerebellar
+cortex. It's an interesting
+
+251
+00:14:00,570 --> 00:14:04,710
+flip to the gate
+to cerebral cortex,
+
+252
+00:14:04,710 --> 00:14:07,970
+which I trust that you
+remember is a thalamus.
+
+253
+00:14:08,450 --> 00:14:15,130
+Now we have two different
+examples of actual
+
+254
+00:14:15,130 --> 00:14:18,530
+brain tissue sectioned
+in a way that
+
+255
+00:14:18,530 --> 00:14:22,570
+brings out the deep
+cerebellar nuclei. The
+
+256
+00:14:22,570 --> 00:14:27,850
+image on the left is
+from a frontal section
+
+257
+00:14:27,850 --> 00:14:32,310
+and so this highlights
+the general geometry
+
+258
+00:14:32,310 --> 00:14:36,370
+of the cerebellum
+quite nicely insofar as
+
+259
+00:14:36,370 --> 00:14:42,130
+the more medial region
+is much more elevated
+
+260
+00:14:42,130 --> 00:14:46,370
+than the lateral
+regions we can see that
+
+261
+00:14:46,370 --> 00:14:49,450
+this curves on down and
+that's to accommodate
+
+262
+00:14:49,450 --> 00:14:52,930
+the temporal lobes
+they're just kind
+
+263
+00:14:52,930 --> 00:14:58,470
+of sitting down on top
+of the cerebellum now
+
+264
+00:14:58,860 --> 00:15:01,630
+returning to deep
+cerebellar nuclei we can
+
+265
+00:15:01,630 --> 00:15:05,690
+see this massive dentate
+gyrus I hope that
+
+266
+00:15:05,690 --> 00:15:10,030
+you can see these
+paired structure for
+
+267
+00:15:10,030 --> 00:15:15,210
+the interposed nuclei
+as well as the medial
+
+268
+00:15:16,470 --> 00:15:18,310
+festigal nuclei.
+
+269
+00:15:18,610 --> 00:15:21,440
+And again, I want to
+point out how large
+
+270
+00:15:21,440 --> 00:15:25,710
+that dentate nucleus
+is and that it's
+
+271
+00:15:25,710 --> 00:15:30,630
+situated most laterally.
+The image on the
+
+272
+00:15:30,630 --> 00:15:33,890
+right is interesting.
+It's all the white
+
+273
+00:15:33,890 --> 00:15:37,690
+matter has been scraped
+away above it and
+
+274
+00:15:37,690 --> 00:15:41,210
+to the side and
+around it. And so you
+
+275
+00:15:41,210 --> 00:15:42,490
+can really see that
+these These are these
+
+276
+00:15:42,490 --> 00:15:46,750
+structures of this
+crumpled nature, this
+
+277
+00:15:46,750 --> 00:15:49,010
+dentate nucleus, while
+these other nuclei
+
+278
+00:15:49,010 --> 00:15:55,190
+are more compact,
+interesting pebbles.
+
+279
+00:15:56,150 --> 00:16:01,810
+There are a number of
+nuclei that are not of
+
+280
+00:16:01,810 --> 00:16:04,610
+the cerebellum, but
+they have an intimate
+
+281
+00:16:04,650 --> 00:16:08,790
+relationship with the
+cerebellum. And this
+
+282
+00:16:08,790 --> 00:16:10,970
+will include the red
+nucleus, the pontine
+
+283
+00:16:10,970 --> 00:16:14,330
+nuclei, the vestibular
+nuclei, and the inferior
+
+284
+00:16:14,330 --> 00:16:19,150
+olive. We're going to
+be covering this in
+
+285
+00:16:19,150 --> 00:16:24,170
+more detail and in
+several places, so we
+
+286
+00:16:24,170 --> 00:16:26,630
+don't have to cover
+everything right now. We'll
+
+287
+00:16:26,630 --> 00:16:28,930
+get to this again and
+again and again. But
+
+288
+00:16:28,930 --> 00:16:32,110
+I want you to remember
+that you've seen the
+
+289
+00:16:32,110 --> 00:16:36,590
+red nucleus before
+within the rostral
+
+290
+00:16:36,730 --> 00:16:40,570
+midbrain. And so that is
+going to be receiving a
+
+291
+00:16:41,090 --> 00:16:44,670
+powerful output from
+the cerebellum. I mean
+
+292
+00:16:44,670 --> 00:16:47,010
+powerful in the sense
+of many different
+
+293
+00:16:47,010 --> 00:16:50,390
+fibers from the cerebellum
+will be targeting
+
+294
+00:16:50,390 --> 00:16:55,150
+the red nucleus, and
+that will be from the
+
+295
+00:16:55,150 --> 00:16:59,950
+contralateral side. We
+have the pontine nuclei,
+
+296
+00:16:59,950 --> 00:17:05,630
+which we encountered
+for a brainstem and
+
+297
+00:17:05,630 --> 00:17:08,730
+anatomy lecture. I was
+saying, well, these
+
+298
+00:17:08,730 --> 00:17:11,810
+are going to be
+providing inputs to the
+
+299
+00:17:11,810 --> 00:17:14,530
+cerebellum. And you might
+remember that would be
+
+300
+00:17:14,530 --> 00:17:18,990
+the axons of the
+pontine nuclei form the
+
+301
+00:17:18,990 --> 00:17:23,970
+middle cerebellar peduncle.
+there's the vestibular
+
+302
+00:17:23,970 --> 00:17:29,930
+nucleus or found
+within rostral medulla
+
+303
+00:17:29,930 --> 00:17:34,810
+and that's going to
+be sending inputs to
+
+304
+00:17:34,810 --> 00:17:36,450
+cerebellum and they'll
+be receiving outputs
+
+305
+00:17:36,450 --> 00:17:39,830
+from cerebellum as well
+and then there is the
+
+306
+00:17:39,830 --> 00:17:45,590
+inferior olive found
+in the upper half of
+
+307
+00:17:45,590 --> 00:17:49,730
+the medulla and that's
+going to be relaying
+
+308
+00:17:49,730 --> 00:17:53,250
+inputs to the cerebellum
+as well and so
+
+309
+00:17:53,250 --> 00:17:55,530
+there's a lot of information
+here about like well
+
+310
+00:17:55,530 --> 00:17:57,590
+it's control this one's
+consular this one's
+
+311
+00:17:57,590 --> 00:18:00,070
+epsilon we'll break
+that up in some
+
+312
+00:18:00,070 --> 00:18:02,330
+subsequent slides I just
+thought it would be a
+
+313
+00:18:02,330 --> 00:18:05,810
+good place to to
+introduce that information
+
+314
+00:18:05,810 --> 00:18:08,830
+now and set that
+machinery in your mind in
+
+315
+00:18:08,830 --> 00:18:12,610
+motion okay Okay, very
+quickly, this is just
+
+316
+00:18:12,610 --> 00:18:16,070
+pointing to actual
+sections, transverse
+
+317
+00:18:16,070 --> 00:18:19,870
+sections through the
+brainstem, showing the
+
+318
+00:18:19,870 --> 00:18:23,650
+inferior olive within the
+medulla, showing within
+
+319
+00:18:23,650 --> 00:18:29,150
+rostral medulla, the
+vestibular nucleus,
+
+320
+00:18:29,210 --> 00:18:36,870
+showing within the pons,
+pontine nuclei, and
+
+321
+00:18:36,870 --> 00:18:41,310
+showing within rostral
+midbrain that enormous
+
+322
+00:18:41,310 --> 00:18:49,370
+red nucleus we have a
+view of the cerebellum
+
+323
+00:18:49,370 --> 00:18:52,730
+which we have not
+seen before and that
+
+324
+00:18:52,730 --> 00:18:58,250
+is looking at it directly
+head-on so if the
+
+325
+00:18:58,250 --> 00:19:00,750
+person's head was intact
+we'd be looking at
+
+326
+00:19:00,750 --> 00:19:05,150
+their eyes but instead
+we We removed all of
+
+327
+00:19:05,150 --> 00:19:08,190
+them, sectioned the
+cerebellum from the
+
+328
+00:19:08,190 --> 00:19:11,370
+brain, and the cerebellum
+just kind of floating
+
+329
+00:19:11,370 --> 00:19:13,610
+in space. That's
+what we're looking at
+
+330
+00:19:13,610 --> 00:19:19,090
+straight ahead. And this
+is able to bring out a
+
+331
+00:19:19,090 --> 00:19:23,070
+number of important
+features of the general
+
+332
+00:19:23,070 --> 00:19:25,990
+anatomy of the cerebellum.
+We'll begin with
+
+333
+00:19:25,990 --> 00:19:29,260
+the peduncles, which
+will be communicating
+
+334
+00:19:29,260 --> 00:19:37,430
+between the cerebellum
+and everything else.
+
+335
+00:19:37,430 --> 00:19:40,530
+You have to have fiber
+tracts, axons, that
+
+336
+00:19:40,530 --> 00:19:42,350
+are collected together,
+sending information
+
+337
+00:19:42,350 --> 00:19:44,130
+to the cerebellum.
+And then we'll leave
+
+338
+00:19:44,130 --> 00:19:49,010
+information from the
+cerebellum. No Wi-Fi. so
+
+339
+00:19:49,010 --> 00:19:54,510
+we have the superior
+cerebellar peduncle the
+
+340
+00:19:54,510 --> 00:19:57,890
+middle cerebellar
+peduncle and then this
+
+341
+00:19:57,890 --> 00:20:03,170
+inferior cerebellar
+peduncle in addition we
+
+342
+00:20:03,170 --> 00:20:07,770
+can now see the flocculus
+sandwiched between
+
+343
+00:20:07,770 --> 00:20:11,530
+the drawing it right
+here I'm assuming you
+
+344
+00:20:11,530 --> 00:20:14,450
+can see it on this
+other side that would be
+
+345
+00:20:14,450 --> 00:20:19,150
+sandwiched between the
+anterior lobe above it
+
+346
+00:20:19,150 --> 00:20:23,190
+and the posterior
+lobe underneath it and
+
+347
+00:20:23,190 --> 00:20:29,330
+to the side of it okay
+and so it's otherwise
+
+348
+00:20:29,330 --> 00:20:31,250
+it is pretty much
+hidden this is the best
+
+349
+00:20:31,250 --> 00:20:34,590
+way we can see the
+blockless and see that it
+
+350
+00:20:34,590 --> 00:20:41,250
+is this paired structure
+the nodulus is the
+
+351
+00:20:41,990 --> 00:20:45,310
+mid-line portion of
+the phallocular nodule
+
+352
+00:20:45,310 --> 00:20:47,990
+lobe. So it is actually
+connected to the
+
+353
+00:20:47,990 --> 00:20:49,630
+phalloculus. It's kind
+of hidden underneath
+
+354
+00:20:49,630 --> 00:20:52,600
+this peduncle. So it
+will be connected to
+
+355
+00:20:52,600 --> 00:20:54,540
+the phalloculus and
+that will be the vermal.
+
+356
+00:20:54,970 --> 00:20:57,270
+It's like the
+vermis of the
+
+357
+00:20:57,270 --> 00:20:59,150
+phallocular nodule lobe.
+
+358
+00:20:59,850 --> 00:21:06,000
+Lastly, I want to mention
+this large portion
+
+359
+00:21:06,530 --> 00:21:10,450
+on which is part of
+the posterior lobe
+
+360
+00:21:10,450 --> 00:21:14,250
+and it is inferior and
+most medial and we can
+
+361
+00:21:14,250 --> 00:21:18,090
+see how distinctive
+its swellings are this
+
+362
+00:21:18,090 --> 00:21:22,820
+is the tonsil so the
+tonsil is part of the
+
+363
+00:21:22,820 --> 00:21:26,940
+posterior lobe and
+the tonsils comes up
+
+364
+00:21:26,940 --> 00:21:30,370
+again and again in
+clinical scenarios because
+
+365
+00:21:30,370 --> 00:21:37,310
+these could be
+displaced through the
+
+366
+00:21:37,310 --> 00:21:41,870
+foramen magnum if you
+have enough pressure from
+
+367
+00:21:41,870 --> 00:21:45,590
+above with hydrocephalus
+or if there's some
+
+368
+00:21:45,590 --> 00:21:50,250
+underdevelopment of
+the cerebellum so
+
+369
+00:21:50,250 --> 00:21:54,630
+that it can't resist
+the pressure from above.
+
+370
+00:21:54,630 --> 00:21:58,910
+This is called Chiari
+formations and so you
+
+371
+00:21:58,910 --> 00:22:00,830
+can see why that would
+be the case because
+
+372
+00:22:00,830 --> 00:22:02,930
+they're on the inferior
+side and they're
+
+373
+00:22:02,930 --> 00:22:08,980
+the most medial portion
+of that posterior
+
+374
+00:22:09,090 --> 00:22:15,390
+lobe the cerebellar
+communicates with three
+
+375
+00:22:15,390 --> 00:22:19,230
+major portions of the
+nervous system the
+
+376
+00:22:19,230 --> 00:22:23,150
+spinal cord the brainstem
+and the cerebral
+
+377
+00:22:23,150 --> 00:22:25,950
+cortex that means it's
+going to be receiving
+
+378
+00:22:25,950 --> 00:22:29,470
+information from all
+of these and it's going
+
+379
+00:22:29,470 --> 00:22:33,610
+to be relaying
+information to most of
+
+380
+00:22:33,610 --> 00:22:38,850
+these it's not going to
+be directing directly
+
+381
+00:22:38,850 --> 00:22:45,030
+sending axons to
+target the spinal cord
+
+382
+00:22:45,030 --> 00:22:48,630
+but it will be receiving
+information from the
+
+383
+00:22:48,630 --> 00:22:52,170
+spinal cord likely
+remember the dorsal and
+
+384
+00:22:52,170 --> 00:22:54,530
+ventral spinal cell
+valetraxel from the
+
+385
+00:22:54,530 --> 00:22:56,630
+spinal cord, and
+they'll be going to the
+
+386
+00:22:56,630 --> 00:23:00,070
+cerebellum because it
+says spinal cerebellum.
+
+387
+00:23:00,410 --> 00:23:04,090
+And there's a
+number of tracts
+
+388
+00:23:04,090 --> 00:23:07,430
+from the brainstem.
+We talk about
+
+389
+00:23:07,430 --> 00:23:09,170
+those major
+peduncles, but within
+
+390
+00:23:09,690 --> 00:23:12,730
+a peduncle, there's going
+to be many different
+
+391
+00:23:12,730 --> 00:23:15,730
+tracts from various
+structures, which
+
+392
+00:23:15,730 --> 00:23:18,510
+we'll touch on shortly.
+And then for the
+
+393
+00:23:18,510 --> 00:23:21,530
+cerebral cortex, you
+can see for all the
+
+394
+00:23:21,530 --> 00:23:24,470
+regions that are not
+colored yellow. We know
+
+395
+00:23:24,470 --> 00:23:28,130
+in the monkey that it
+is sending afferents
+
+396
+00:23:29,990 --> 00:23:32,790
+to the cerebellum,
+so it's a wide amount
+
+397
+00:23:32,790 --> 00:23:35,030
+of territory and these
+are regions that are
+
+398
+00:23:35,030 --> 00:23:37,830
+not sensory motor at
+all necessarily like
+
+399
+00:23:37,830 --> 00:23:40,170
+the temporal lobe
+that's a sensory motor.
+
+400
+00:23:40,170 --> 00:23:42,170
+So there's a lot of
+information that's flowing
+
+401
+00:23:42,170 --> 00:23:47,390
+into the cerebellum.
+Now an important
+
+402
+00:23:47,390 --> 00:23:49,860
+feature of the cerebellum
+that separates,
+
+403
+00:23:49,860 --> 00:23:51,870
+excuse me, separates
+it from the cerebral
+
+404
+00:23:51,870 --> 00:23:54,750
+cortex is that it's
+involved in controlling
+
+405
+00:23:54,750 --> 00:23:58,590
+the ipsilateral body.
+And the cerebral cortex
+
+406
+00:23:58,590 --> 00:24:02,630
+is involved in controlling
+the contralateral
+
+407
+00:24:02,630 --> 00:24:04,550
+body. So that means
+that it needs to
+
+408
+00:24:04,550 --> 00:24:07,110
+be some information
+that crosses from right
+
+409
+00:24:07,110 --> 00:24:09,290
+to left and left to
+right for these two
+
+410
+00:24:09,290 --> 00:24:12,030
+structures to communicate
+with each other.
+
+411
+00:24:14,710 --> 00:24:20,030
+This is a listing of
+all the afferents and
+
+412
+00:24:20,030 --> 00:24:23,710
+efferents within the
+peduncles and what I'm
+
+413
+00:24:23,710 --> 00:24:29,870
+trying to do is to
+impress the variety of
+
+414
+00:24:29,870 --> 00:24:34,010
+structures or types
+of information that is
+
+415
+00:24:34,010 --> 00:24:37,550
+being relayed to the
+cerebellum. So the afferents
+
+416
+00:24:37,550 --> 00:24:39,710
+are going to include
+a vestibulocerebellum
+
+417
+00:24:39,890 --> 00:24:42,930
+or So for the face,
+reticulocerebellar,
+
+418
+00:24:43,540 --> 00:24:46,380
+the libocerebellar,
+again and again,
+
+419
+00:24:46,380 --> 00:24:49,100
+many detectocerebellar,
+many different
+
+420
+00:24:49,100 --> 00:24:51,720
+types of information
+flowing in.
+
+421
+00:24:51,960 --> 00:24:54,500
+A corticopontine
+cerebellar is
+
+422
+00:24:54,620 --> 00:24:55,980
+enormous, so
+all the stuff
+
+423
+00:24:55,980 --> 00:24:58,100
+ultimately from the
+cerebral cortex.
+
+424
+00:24:58,460 --> 00:25:01,400
+And then there's going
+to be outputs from
+
+425
+00:25:01,400 --> 00:25:03,600
+the cerebellum
+targeting many different
+
+426
+00:25:03,600 --> 00:25:07,600
+areas. The thalamus,
+red nucleus, tectum,
+
+427
+00:25:07,740 --> 00:25:09,100
+vestibular nuclei,
+
+428
+00:25:09,640 --> 00:25:12,100
+reticular formation,
+on and on. You are
+
+429
+00:25:12,100 --> 00:25:16,000
+not expected to know
+all of this. It's not
+
+430
+00:25:16,000 --> 00:25:18,540
+to give you, you know,
+heart palpitations,
+
+431
+00:25:18,540 --> 00:25:20,460
+but to kind of
+understand the breath.
+
+432
+00:25:20,460 --> 00:25:23,560
+What you need to know
+is on the next slide.
+
+433
+00:25:25,160 --> 00:25:29,440
+I've done a major
+simplification here for
+
+434
+00:25:29,440 --> 00:25:32,860
+the inferior, middle,
+and superior peduncles,
+
+435
+00:25:32,860 --> 00:25:34,620
+but one that
+captures most of the
+
+436
+00:25:34,620 --> 00:25:38,390
+complexity that we saw
+in the previous slide,
+
+437
+00:25:39,360 --> 00:25:42,640
+which is that we can
+start off the middle
+
+438
+00:25:42,640 --> 00:25:45,200
+period cerebellar
+peduncle. There's no
+
+439
+00:25:45,200 --> 00:25:47,140
+simplification there
+because these are all
+
+440
+00:25:47,140 --> 00:25:49,460
+afferent fibers.
+They're traveling to the
+
+441
+00:25:49,460 --> 00:25:52,540
+cerebellum that originate
+in the pons. Those
+
+442
+00:25:52,540 --> 00:25:54,660
+are the pontine nuclei.
+They're doing it,
+
+443
+00:25:55,180 --> 00:25:57,860
+relaying that information,
+and they receive
+
+444
+00:25:57,860 --> 00:26:02,500
+inputs from the cerebral
+cortex. so that's
+
+445
+00:26:02,500 --> 00:26:06,680
+cortical pontine
+cerebellar that is that
+
+446
+00:26:06,680 --> 00:26:09,620
+is definitely the case
+the inferior peduncle
+
+447
+00:26:09,620 --> 00:26:11,720
+it's we're just going
+to say that this
+
+448
+00:26:11,720 --> 00:26:14,140
+will be comparing all
+of the aphrod tracks
+
+449
+00:26:14,140 --> 00:26:16,420
+it's not entirely true
+but we will it's a
+
+450
+00:26:16,420 --> 00:26:20,860
+best place to to
+make a simplification
+
+451
+00:26:20,860 --> 00:26:23,890
+whereas the superior
+peduncle is the primary
+
+452
+00:26:23,890 --> 00:26:29,200
+output of the cerebellum
+primary relay of
+
+453
+00:26:29,200 --> 00:26:32,400
+the cerebellum so when
+talk about the superior
+
+454
+00:26:32,400 --> 00:26:36,140
+peduncle those will
+be the efforts there
+
+455
+00:26:36,240 --> 00:26:41,460
+are three major
+functional divisions of
+
+456
+00:26:41,460 --> 00:26:46,440
+the cerebellum and
+these reflect different
+
+457
+00:26:46,440 --> 00:26:52,680
+degrees of motor
+sophistication and
+
+458
+00:26:52,680 --> 00:26:58,660
+they reflect different
+points in how
+
+459
+00:26:58,660 --> 00:27:03,060
+we have evolved to
+be where we are now.
+
+460
+00:27:03,620 --> 00:27:06,920
+So the vestibulocerebellum
+is going to be
+
+461
+00:27:06,920 --> 00:27:11,780
+processing information
+about orientation. So
+
+462
+00:27:11,780 --> 00:27:14,320
+it'll be processing
+signals from the vestibular
+
+463
+00:27:14,320 --> 00:27:16,840
+nuclei and that will
+be targeting the
+
+464
+00:27:16,840 --> 00:27:20,260
+floccular nodule lobe.
+So it's involved in head
+
+465
+00:27:20,260 --> 00:27:21,960
+-eye coordination
+imbalance and this is
+
+466
+00:27:21,960 --> 00:27:26,640
+present in the earliest
+vertebrate that we are
+
+467
+00:27:26,640 --> 00:27:30,350
+aware of so that's a
+picture of a jawless
+
+468
+00:27:30,350 --> 00:27:34,120
+fish which would like
+predate dinosaurs so
+
+469
+00:27:34,120 --> 00:27:36,920
+this has been around for
+a long time so a spinal
+
+470
+00:27:36,920 --> 00:27:40,500
+cerebellum would be
+those regions of the
+
+471
+00:27:40,500 --> 00:27:43,720
+cellum cerebellum
+including the vermal or
+
+472
+00:27:43,720 --> 00:27:48,660
+vermis vermal and
+paravermal regions so that
+
+473
+00:27:48,660 --> 00:27:54,220
+would be medial
+hemisphere of the interior
+
+474
+00:27:54,220 --> 00:27:56,400
+and posterior lobe and
+this will be receiving
+
+475
+00:27:56,400 --> 00:28:00,420
+inputs primarily from
+the spinal cord and
+
+476
+00:28:00,420 --> 00:28:03,620
+this is important for
+axial control and gait
+
+477
+00:28:03,620 --> 00:28:06,300
+and so on well developed
+in a kitty cat and
+
+478
+00:28:06,300 --> 00:28:08,380
+then we have the
+cerebrocerebellum which is
+
+479
+00:28:08,380 --> 00:28:09,980
+going to be processing
+information from the
+
+480
+00:28:09,980 --> 00:28:12,780
+cerebral cortex so this
+would be the lateral
+
+481
+00:28:13,290 --> 00:28:16,580
+hemispheres of the
+two lobes and it will
+
+482
+00:28:16,580 --> 00:28:20,480
+be receiving input
+ultimately from the vis-a
+
+483
+00:28:20,480 --> 00:28:23,210
+-vis the pontine nuclei
+so that's how information
+
+484
+00:28:23,220 --> 00:28:25,600
+from the cerebral
+cortex is transmitted
+
+485
+00:28:25,600 --> 00:28:28,720
+to the cerebellum is
+through those pontine
+
+486
+00:28:28,720 --> 00:28:33,040
+nuclei so here we have
+a fella jamming away
+
+487
+00:28:33,040 --> 00:28:37,980
+and that took a lot
+of time and effort and
+
+488
+00:28:37,980 --> 00:28:42,500
+nascent ability to
+achieve his level of
+
+489
+00:28:42,500 --> 00:28:48,140
+guitar mastery and so
+that would be requiring
+
+490
+00:28:48,140 --> 00:28:51,720
+the cerebral cerebellum
+the three functional
+
+491
+00:28:51,720 --> 00:28:55,720
+divisions of the
+cerebellum reflect the
+
+492
+00:28:55,720 --> 00:29:00,560
+cortical particular
+cortical territories the
+
+493
+00:29:00,560 --> 00:29:06,680
+particular portions of
+the loaves but also the
+
+494
+00:29:06,790 --> 00:29:11,220
+cerebellar nuclei
+which are the output of
+
+495
+00:29:11,220 --> 00:29:14,380
+the cerebellum the
+vestibular cerebellum stands
+
+496
+00:29:14,380 --> 00:29:19,740
+alone in that it
+does not require any
+
+497
+00:29:20,000 --> 00:29:24,600
+output nucleus it's the
+simplest of the structures
+
+498
+00:29:24,600 --> 00:29:26,700
+and it does not have
+its own dedicated
+
+499
+00:29:26,700 --> 00:29:30,260
+output nuclei it just
+sends output from the
+
+500
+00:29:30,260 --> 00:29:34,180
+its cortical territory
+while the others do
+
+501
+00:29:34,800 --> 00:29:38,720
+have output nuclei the
+most prominent of these
+
+502
+00:29:38,720 --> 00:29:41,880
+is the dentate nucleus
+which is situated
+
+503
+00:29:41,880 --> 00:29:44,100
+most laterally and is
+associated with the
+
+504
+00:29:44,100 --> 00:29:47,720
+lateral hemisphere which
+is the cerebro cerebellum
+
+505
+00:29:47,720 --> 00:29:51,320
+so you could see how
+those those those
+
+506
+00:29:51,320 --> 00:29:55,760
+things go together a
+large lateral nucleus
+
+507
+00:29:55,760 --> 00:29:59,840
+and this large elaborated
+cerebrocerebellum.
+
+508
+00:29:59,840 --> 00:30:04,260
+All the remaining nuclei
+and cortical territory
+
+509
+00:30:04,260 --> 00:30:07,870
+would fall within
+the spinocerebellum.
+
+510
+00:30:08,780 --> 00:30:12,880
+This slide diagrams
+the flow of information
+
+511
+00:30:12,880 --> 00:30:16,740
+between the cerebral
+cortex and the
+
+512
+00:30:16,940 --> 00:30:19,860
+cerebellum. As you know,
+the cerebral cortex
+
+513
+00:30:19,860 --> 00:30:22,140
+is involved in controlling
+the contralateral
+
+514
+00:30:22,140 --> 00:30:25,160
+body while the
+cerebellum is involved
+
+515
+00:30:25,160 --> 00:30:27,720
+in the control the
+ipsilateral body. And
+
+516
+00:30:27,720 --> 00:30:30,840
+so for these two
+structures to communicate
+
+517
+00:30:30,840 --> 00:30:33,620
+with each other needs
+to be a decussation
+
+518
+00:30:33,620 --> 00:30:36,820
+of information. And
+it goes as follows.
+
+519
+00:30:37,160 --> 00:30:41,460
+The cerebral cortex
+would be sending its
+
+520
+00:30:41,850 --> 00:30:45,140
+fibers down to the
+pontine nuclei. These are
+
+521
+00:30:45,760 --> 00:30:48,660
+corticopontine fibers.
+These would be part of
+
+522
+00:30:48,660 --> 00:30:51,980
+the cru cerebri targeting
+the pontine nuclei.
+
+523
+00:30:51,980 --> 00:30:55,880
+Those efferents from
+the pontine nuclei are
+
+524
+00:30:56,070 --> 00:30:58,360
+crossing the midline,
+forming the middle
+
+525
+00:30:58,360 --> 00:31:01,480
+cerebellar peduncle,
+entering into the cerebellum,
+
+526
+00:31:01,480 --> 00:31:05,160
+and then the
+cerebellum on that same
+
+527
+00:31:05,160 --> 00:31:09,820
+side would be sending
+efferents out through
+
+528
+00:31:09,820 --> 00:31:13,760
+the superior cerebellar
+peduncle to the
+
+529
+00:31:13,760 --> 00:31:16,220
+contralateral thalamus,
+which will be communicating
+
+530
+00:31:16,220 --> 00:31:19,300
+with the ipsilateral
+cerebral cortex so
+
+531
+00:31:19,300 --> 00:31:24,480
+thalamus sends its
+outputs always going to be
+
+532
+00:31:24,480 --> 00:31:27,540
+targeting that ipsilateral
+cerebral cortex
+
+533
+00:31:27,540 --> 00:31:31,900
+and so there's that
+decussation of the superior
+
+534
+00:31:31,900 --> 00:31:34,960
+cerebral peduncle
+that we see in the
+
+535
+00:31:34,960 --> 00:31:38,560
+midbrain it will be
+targeting among other things
+
+536
+00:31:38,560 --> 00:31:43,800
+the contralateral
+thalamus before the red
+
+537
+00:31:43,800 --> 00:31:47,100
+nucleus is going to be
+tightly related to the
+
+538
+00:31:47,100 --> 00:31:52,020
+cerebellum receiving
+inputs from the
+
+539
+00:31:52,020 --> 00:31:58,600
+contralateral cerebellum
+so that a decussation that
+
+540
+00:31:58,600 --> 00:32:02,600
+is the superior cerebral
+peduncle going left
+
+541
+00:32:02,600 --> 00:32:04,810
+to right it will be
+targeting the contralateral
+
+542
+00:32:04,810 --> 00:32:07,840
+red nucleus red
+nucleus will be
+
+543
+00:32:07,840 --> 00:32:11,340
+communicating to the
+ipsilateral inferior olive and
+
+544
+00:32:11,340 --> 00:32:14,080
+And then this structure
+will be communicating
+
+545
+00:32:14,080 --> 00:32:18,320
+with the contralateral
+cerebellum. So it's
+
+546
+00:32:18,320 --> 00:32:20,680
+really hard to keep
+it in words. So that's
+
+547
+00:32:20,680 --> 00:32:23,260
+why it's so much
+better to draw out. And
+
+548
+00:32:23,260 --> 00:32:26,360
+you should note that
+this communication from
+
+549
+00:32:26,360 --> 00:32:29,460
+the olive to the
+contralateral cerebellum is
+
+550
+00:32:29,460 --> 00:32:33,160
+vis-a-vis the inferior
+cerebellar peduncle.
+
+551
+00:32:33,880 --> 00:32:37,180
+We have the communication
+of the vestibular
+
+552
+00:32:37,180 --> 00:32:40,480
+nucleus with the
+cerebellum. this
+
+553
+00:32:40,480 --> 00:32:43,480
+will all remain on
+one side there is no
+
+554
+00:32:43,480 --> 00:32:48,380
+decussation so the
+vestibular nucleus of
+
+555
+00:32:49,040 --> 00:32:52,560
+one side will say the
+right will be sending
+
+556
+00:32:52,560 --> 00:32:57,280
+its outputs to the
+cerebellum through
+
+557
+00:32:57,280 --> 00:32:59,440
+the inferior cerebellar
+peduncle remember
+
+558
+00:32:59,440 --> 00:33:01,380
+the inferior cerebellar
+peduncle is the
+
+559
+00:33:01,380 --> 00:33:05,180
+primary input to the
+cerebellum for everything
+
+560
+00:33:05,180 --> 00:33:09,480
+that is not pontine
+okay so everything
+
+561
+00:33:09,480 --> 00:33:11,640
+else that's the input
+to the cerebellum
+
+562
+00:33:11,640 --> 00:33:13,120
+all the other
+appearances are carried
+
+563
+00:33:13,120 --> 00:33:15,400
+through the inferior
+cerebellar or peduncle
+
+564
+00:33:15,500 --> 00:33:19,260
+and then there'll be
+communication back to
+
+565
+00:33:19,260 --> 00:33:22,820
+that vestibular nucleus
+on the same side vis
+
+566
+00:33:22,820 --> 00:33:25,820
+-a-vis this appears
+cerebellar or peduncle
+
+567
+00:33:26,610 --> 00:33:30,920
+whereas the previous slides
+showed how information
+
+568
+00:33:30,920 --> 00:33:34,020
+is relayed to the
+cerebellum and from
+
+569
+00:33:34,020 --> 00:33:37,480
+the cerebellum. Here
+we're going to get some
+
+570
+00:33:37,480 --> 00:33:41,720
+insight into the processing
+within cerebellum.
+
+571
+00:33:41,720 --> 00:33:46,320
+So there is the deep
+cerebellar nuclei
+
+572
+00:33:46,320 --> 00:33:52,860
+and the cerebral cortex.
+And you remember, or
+
+573
+00:33:52,860 --> 00:33:56,860
+so I hope, that the
+principal output of the
+
+574
+00:33:58,280 --> 00:34:01,700
+cerebellum is through
+these deep cerebellar
+
+575
+00:34:01,700 --> 00:34:04,540
+nuclei with the exception
+of the floccular
+
+576
+00:34:04,540 --> 00:34:07,880
+nodule lobe. Now
+these deep cerebellar
+
+577
+00:34:07,880 --> 00:34:11,360
+nuclei are going to
+be getting inputs from
+
+578
+00:34:11,360 --> 00:34:16,640
+three main sources of
+information. One is
+
+579
+00:34:16,640 --> 00:34:20,880
+going to be from the
+cerebellar cortex itself
+
+580
+00:34:20,880 --> 00:34:23,960
+and these are the
+output cells are called
+
+581
+00:34:23,960 --> 00:34:27,120
+purkenji cells and
+they will project to
+
+582
+00:34:27,120 --> 00:34:29,180
+the deep cerebellum
+nuclei and they'll be
+
+583
+00:34:29,180 --> 00:34:34,580
+inhibiting it okay the
+um other two inputs
+
+584
+00:34:34,580 --> 00:34:38,220
+would be the mossy fibers
+and climbing fibers
+
+585
+00:34:38,220 --> 00:34:41,340
+so those are going to
+be originating from
+
+586
+00:34:41,340 --> 00:34:44,940
+somewhere outside
+the cerebellum the
+
+587
+00:34:44,940 --> 00:34:49,080
+climbing fibers are
+exclusively through the
+
+588
+00:34:49,080 --> 00:34:52,700
+inferior olive so the
+inferior the olivo
+
+589
+00:34:52,700 --> 00:34:57,500
+cerebellar tract will
+be targeting the deep
+
+590
+00:34:57,500 --> 00:35:00,980
+cerebellar nucleus and
+it will be excitatory
+
+591
+00:35:02,360 --> 00:35:05,580
+synaptic release will
+be releasing glutamate
+
+592
+00:35:05,580 --> 00:35:09,020
+we also have the
+mossy fibers which is
+
+593
+00:35:09,020 --> 00:35:11,520
+everything else
+everything else that is
+
+594
+00:35:11,520 --> 00:35:15,280
+not from the olive
+would be its axons are
+
+595
+00:35:15,280 --> 00:35:17,440
+the mossy fibers and
+that will also be
+
+596
+00:35:17,440 --> 00:35:23,020
+excitatory inputs
+glutamatergic inputs and
+
+597
+00:35:23,020 --> 00:35:24,940
+so we can see something
+like a different
+
+598
+00:35:24,940 --> 00:35:26,600
+signal here where
+there's going to be a
+
+599
+00:35:26,600 --> 00:35:29,540
+positive and a negative
+and the difference
+
+600
+00:35:29,540 --> 00:35:32,220
+between those is the
+cerebellar outputs.
+
+601
+00:35:32,720 --> 00:35:39,300
+So what is going on in
+the cerebellar cortex
+
+602
+00:35:39,300 --> 00:35:44,300
+is the processing
+of these, of some
+
+603
+00:35:44,300 --> 00:35:48,060
+different types of
+signals, a measured signal
+
+604
+00:35:48,060 --> 00:35:53,240
+and then a highly
+processed signal. And
+
+605
+00:35:53,240 --> 00:35:56,820
+so it's these measured
+signals and then
+
+606
+00:35:56,820 --> 00:35:59,580
+ultimately this highly
+processed signal from
+
+607
+00:35:59,580 --> 00:36:03,160
+the cortex that is
+going to be compared.
+
+608
+00:36:04,500 --> 00:36:09,460
+The cerebellar cortex
+has three layers to
+
+609
+00:36:09,460 --> 00:36:13,160
+it. There is the molecular
+layer, the granule
+
+610
+00:36:13,160 --> 00:36:16,740
+cell layer, and the
+Purkenji cell layer. The
+
+611
+00:36:16,740 --> 00:36:19,900
+granule cell layer
+is going to be filled
+
+612
+00:36:19,900 --> 00:36:25,540
+with granule cells. There
+are so many of these
+
+613
+00:36:25,540 --> 00:36:28,080
+granule cells, more
+than all the other
+
+614
+00:36:28,080 --> 00:36:31,160
+cells of the nervous
+system combined because
+
+615
+00:36:31,160 --> 00:36:34,200
+they're very, very
+small and packed very,
+
+616
+00:36:34,200 --> 00:36:38,760
+very tightly together.
+The Purkenji cell layer
+
+617
+00:36:38,760 --> 00:36:44,720
+is one layer thick
+of Purkenji cells. So
+
+618
+00:36:44,720 --> 00:36:49,020
+that's the cell bodies
+of them. And they are
+
+619
+00:36:49,020 --> 00:36:53,840
+providing the output
+of the cerebellum. The
+
+620
+00:36:53,840 --> 00:36:58,360
+granule cells provide
+input to the Purkenji
+
+621
+00:36:58,360 --> 00:37:01,940
+cells because the
+Purkenji cell dendrites
+
+622
+00:37:01,940 --> 00:37:05,480
+are in the molecular
+layer and the axons of
+
+623
+00:37:05,480 --> 00:37:08,840
+the granule cells are
+in the molecular layer.
+
+624
+00:37:08,840 --> 00:37:11,440
+So that means that a
+Purkenji cell is going
+
+625
+00:37:11,440 --> 00:37:16,300
+to be contacted by many,
+many, many different
+
+626
+00:37:16,300 --> 00:37:21,340
+granule cells and
+that is the data
+
+627
+00:37:21,400 --> 00:37:26,980
+compression that is going
+on within the cerebellum
+
+628
+00:37:26,980 --> 00:37:30,260
+that is what is the
+nature of coordination
+
+629
+00:37:30,260 --> 00:37:35,890
+taking all the inputs
+which are basically
+
+630
+00:37:36,340 --> 00:37:40,360
+multiplied and
+decorrelated in the granule
+
+631
+00:37:40,360 --> 00:37:43,280
+cell layer from all those
+sources of information
+
+632
+00:37:43,280 --> 00:37:45,940
+that we have from
+the mossy fibers and
+
+633
+00:37:45,940 --> 00:37:50,180
+then the output of
+the cerebellum is a
+
+634
+00:37:50,180 --> 00:37:53,240
+reduction of all these
+inputs that's good kind
+
+635
+00:37:53,240 --> 00:37:56,200
+of sky high view of
+what it means to have
+
+636
+00:37:56,200 --> 00:37:59,640
+coordination taking all
+this information and
+
+637
+00:37:59,640 --> 00:38:03,360
+compressing it down just
+like how a regression
+
+638
+00:38:03,360 --> 00:38:07,140
+line would be able
+to summarize a bunch
+
+639
+00:38:07,140 --> 00:38:11,260
+of points of data and
+now you just say y
+
+640
+00:38:11,260 --> 00:38:14,980
+equals a x plus b as
+opposed to you know 20
+
+641
+00:38:14,980 --> 00:38:18,080
+000 data points that's
+kind of a sky high view
+
+642
+00:38:18,080 --> 00:38:21,780
+of what's going on so
+let's summarize the
+
+643
+00:38:21,780 --> 00:38:23,980
+internal connections
+that you do need to
+
+644
+00:38:23,980 --> 00:38:27,040
+be um competent in
+and understand that is
+
+645
+00:38:27,040 --> 00:38:29,640
+that there are climbing
+fibers and mossy fibers
+
+646
+00:38:29,640 --> 00:38:32,420
+climbing fibers originate
+from the inferior
+
+647
+00:38:32,420 --> 00:38:36,020
+olive they excite
+cerebellar cortex and
+
+648
+00:38:36,020 --> 00:38:38,580
+the deep cerebellar
+nuclei the mossy fibers
+
+649
+00:38:38,580 --> 00:38:42,700
+are all the other
+afferents that enter into
+
+650
+00:38:42,700 --> 00:38:45,260
+the cerebellum they'll
+also excite the
+
+651
+00:38:45,260 --> 00:38:47,860
+cerebellar cortex and
+deep cerebellar nuclei
+
+652
+00:38:47,860 --> 00:38:51,900
+the purkenji cells are
+the output of the cortex
+
+653
+00:38:51,900 --> 00:38:54,980
+not necessarily that
+not necessarily the
+
+654
+00:38:54,980 --> 00:38:58,740
+output of the cerebellum
+but for the most
+
+655
+00:38:58,740 --> 00:39:01,880
+they are the output of
+the cerebellar cortex.
+
+656
+00:39:01,880 --> 00:39:05,200
+Most of the output
+from the cerebellum is
+
+657
+00:39:05,200 --> 00:39:09,200
+through the deep
+cerebellar nuclei. They're
+
+658
+00:39:09,200 --> 00:39:12,700
+going to be processing
+the inputs from
+
+659
+00:39:12,700 --> 00:39:16,380
+those three sources listed
+above as the difference
+
+660
+00:39:16,380 --> 00:39:19,300
+between the two.
+The one exception is
+
+661
+00:39:19,300 --> 00:39:23,900
+the simplest functional
+division of the
+
+662
+00:39:23,900 --> 00:39:29,420
+vestibulocerebellum and
+its output is going to
+
+663
+00:39:29,420 --> 00:39:32,360
+be from cerebellar
+cortex it does not have
+
+664
+00:39:32,360 --> 00:39:35,120
+to go vis-a-vis a deep
+cerebellar nucleus.
+
+665
+00:39:36,740 --> 00:39:38,900
+Cerebellar
+disorders can result
+
+666
+00:39:38,900 --> 00:39:41,340
+from causes as diverse as
+
+667
+00:39:41,340 --> 00:39:44,480
+exposure to
+lithium, chickenpox,
+
+668
+00:39:44,600 --> 00:39:47,100
+or multiple
+sclerosis. There There
+
+669
+00:39:47,100 --> 00:39:51,040
+are so many different
+disorders and
+
+670
+00:39:51,040 --> 00:39:55,200
+traumas and events
+that can impact
+
+671
+00:39:55,200 --> 00:39:58,340
+the cerebellum given
+its size and its
+
+672
+00:39:58,340 --> 00:40:02,060
+placement and its
+vascular supply.
+
+673
+00:40:02,500 --> 00:40:05,640
+Ataxia is the most
+common symptom of
+
+674
+00:40:05,640 --> 00:40:09,860
+all of these and ataxia
+again is the lack
+
+675
+00:40:09,860 --> 00:40:13,060
+of order, ataxia.
+So you'd have a
+
+676
+00:40:13,060 --> 00:40:16,080
+discoordination in the
+timing and magnitude
+
+677
+00:40:16,080 --> 00:40:17,900
+of movement. This
+could lead to
+
+678
+00:40:17,900 --> 00:40:20,200
+overshoots and
+misdirected movements and
+
+679
+00:40:20,200 --> 00:40:23,600
+at the end, as a
+compensatory process,
+
+680
+00:40:24,120 --> 00:40:26,400
+oscillations about
+the endpoint.
+
+681
+00:40:26,520 --> 00:40:31,780
+It is not expressed as
+weakness. There's no
+
+682
+00:40:31,780 --> 00:40:37,020
+paralysis that is
+involved or spasticity.
+
+683
+00:40:37,020 --> 00:40:41,860
+So it is quite
+different than the upper
+
+684
+00:40:41,860 --> 00:40:45,520
+motor neuron disorders
+that we characterized
+
+685
+00:40:45,520 --> 00:40:48,620
+before and the lower
+motor neurons we
+
+686
+00:40:48,620 --> 00:40:52,120
+characterized before.
+This is extrapyramidal. So
+
+687
+00:40:52,120 --> 00:40:55,920
+the symptoms are broadly
+similar to what we
+
+688
+00:40:55,920 --> 00:40:58,540
+see with alcohol
+intoxication, at least
+
+689
+00:40:58,540 --> 00:41:01,980
+insofar as their motor
+expression. And this
+
+690
+00:41:01,980 --> 00:41:04,400
+is what we scrutinized
+in a, quote, standard
+
+691
+00:41:04,400 --> 00:41:07,900
+field sobriety test.
+can the person walk
+
+692
+00:41:07,900 --> 00:41:11,180
+on a straight line
+what do the eyes look
+
+693
+00:41:11,180 --> 00:41:14,040
+like when they're trying
+to follow a pen can
+
+694
+00:41:14,040 --> 00:41:17,360
+they touch their finger
+to their nose and
+
+695
+00:41:17,360 --> 00:41:22,040
+so a few other important
+points as that damage
+
+696
+00:41:22,040 --> 00:41:25,300
+to just one region
+mean functional region
+
+697
+00:41:25,300 --> 00:41:30,320
+of the cerebellum
+is rare because for
+
+698
+00:41:30,320 --> 00:41:33,300
+example each cerebellar
+artery will supply
+
+699
+00:41:33,300 --> 00:41:37,340
+multiple divisions
+and then events like
+
+700
+00:41:37,500 --> 00:41:43,260
+hydrocephalus that would
+act to push the tonsils
+
+701
+00:41:43,780 --> 00:41:49,300
+down would affect
+both the spinal
+
+702
+00:41:49,300 --> 00:41:53,220
+cerebellum and the
+vestibulocerebellum
+
+703
+00:41:53,220 --> 00:41:58,640
+but the the the the
+symptoms that one
+
+704
+00:41:58,640 --> 00:42:01,470
+shows is still
+nonetheless reflecting
+
+705
+00:42:01,620 --> 00:42:04,860
+dysfunction of
+particular specialized
+
+706
+00:42:04,980 --> 00:42:08,820
+regions and we can
+most certainly say that
+
+707
+00:42:08,820 --> 00:42:11,720
+damage specifically
+to one side would
+
+708
+00:42:11,720 --> 00:42:15,320
+impact coordination on
+the same side because
+
+709
+00:42:15,320 --> 00:42:18,800
+cerebellum controls
+the ipsilateral body.
+
+710
+00:42:19,260 --> 00:42:23,090
+Signatures of damage to
+the cerebrocerebellum
+
+711
+00:42:23,090 --> 00:42:26,800
+or that would be
+pontocerebellar disorders
+
+712
+00:42:26,800 --> 00:42:30,060
+or damage to the
+lateral hemispheres.
+
+713
+00:42:30,060 --> 00:42:34,160
+There's a number of
+ways of describing that
+
+714
+00:42:34,160 --> 00:42:36,600
+because they all go
+together. The symptoms
+
+715
+00:42:36,600 --> 00:42:39,520
+would include ataxia as
+we discussed before but
+
+716
+00:42:39,520 --> 00:42:42,140
+more specifically
+this intention tremor.
+
+717
+00:42:42,140 --> 00:42:44,640
+I mentioned the
+oscillations that are very
+
+718
+00:42:44,640 --> 00:42:48,800
+evident at the intended
+terminus of the movement
+
+719
+00:42:48,800 --> 00:42:51,200
+and this is not a
+resting tremor there
+
+720
+00:42:51,200 --> 00:42:55,540
+is this great word
+uh dysdiadachokinesia
+
+721
+00:42:56,100 --> 00:43:02,680
+okay so dysdiadachokinesia
+ddk this would be
+
+722
+00:43:02,680 --> 00:43:05,640
+the person's trying to
+quickly supinate their
+
+723
+00:43:05,640 --> 00:43:07,900
+hand pronate their hand
+and they just don't
+
+724
+00:43:07,900 --> 00:43:10,100
+do it an orderly way
+you could do with
+
+725
+00:43:10,240 --> 00:43:12,180
+supination you could
+also do it with the foot
+
+726
+00:43:12,180 --> 00:43:15,160
+and and tapping there's
+slurred speech so
+
+727
+00:43:15,160 --> 00:43:17,020
+it's not just the
+cerebellum is involved in
+
+728
+00:43:17,020 --> 00:43:19,080
+controlling their
+limbs it's involved in
+
+729
+00:43:19,080 --> 00:43:21,500
+controlling speech
+speech is a very precise
+
+730
+00:43:21,500 --> 00:43:25,480
+well-timed behavior
+so and if somebody has
+
+731
+00:43:25,480 --> 00:43:28,360
+drank to excess you
+can see that they throw
+
+732
+00:43:28,360 --> 00:43:33,220
+their speech this is
+because they are deficient
+
+733
+00:43:33,220 --> 00:43:37,100
+in the engagement of
+cerebellar mechanisms
+
+734
+00:43:37,100 --> 00:43:39,860
+to coordinate that
+movement there's also
+
+735
+00:43:40,090 --> 00:43:43,960
+low muscle tone. Now
+some of the causes for
+
+736
+00:43:43,960 --> 00:43:49,240
+this would be to affect
+nucleic nuclei or
+
+737
+00:43:49,240 --> 00:43:54,420
+lateral hemisphere or
+pontine degeneration.
+
+738
+00:43:55,900 --> 00:43:59,120
+Spinal cerebellar
+dysfunction would be manifest
+
+739
+00:43:59,120 --> 00:44:03,640
+in a toxic gait. That
+is the signature.
+
+740
+00:44:03,640 --> 00:44:06,970
+A toxic gait is a
+person who tries to walk
+
+741
+00:44:06,970 --> 00:44:09,800
+forward and they're
+going to be stumbling
+
+742
+00:44:09,800 --> 00:44:12,060
+they're going to be
+stepping in a regular way
+
+743
+00:44:12,060 --> 00:44:15,380
+they'll have a wide
+stance if you ask them to
+
+744
+00:44:15,380 --> 00:44:18,140
+have a lombard stance
+of going heel toe heel
+
+745
+00:44:18,140 --> 00:44:21,360
+toe then you really
+can see that they they
+
+746
+00:44:21,360 --> 00:44:24,560
+easily fall over
+this is as if they're
+
+747
+00:44:24,560 --> 00:44:27,660
+intoxicated by alcohol
+so you could have this
+
+748
+00:44:27,660 --> 00:44:32,440
+result from chronic
+alcohol ***** you could
+
+749
+00:44:32,440 --> 00:44:36,440
+have this result from
+an underdeveloped vermis
+
+750
+00:44:36,440 --> 00:44:39,620
+that's occurs with
+Dandy-Walker syndrome.
+
+751
+00:44:39,620 --> 00:44:43,100
+You could have this if
+the tonsils are displaced
+
+752
+00:44:43,100 --> 00:44:45,640
+with Arnold-Chiari
+syndrome. So anything
+
+753
+00:44:45,640 --> 00:44:49,660
+that'd be affecting
+that vermis and the
+
+754
+00:44:49,660 --> 00:44:53,460
+paravermis or the region
+immediately around that,
+
+755
+00:44:53,460 --> 00:44:58,100
+the medial hemispheres,
+then would lead
+
+756
+00:44:58,100 --> 00:45:03,860
+to spinal cerebellar
+expressions of dysfunction
+
+757
+00:45:04,440 --> 00:45:08,720
+last that we have
+dysfunction of the
+
+758
+00:45:08,720 --> 00:45:12,900
+vestibulocerebellum so
+this is the floccular
+
+759
+00:45:12,900 --> 00:45:18,520
+nodule lobe and this would
+be involved in orienting
+
+760
+00:45:18,520 --> 00:45:20,460
+one's body being able
+to tell what's up
+
+761
+00:45:20,460 --> 00:45:23,740
+what's down and
+controlling various aspects
+
+762
+00:45:23,740 --> 00:45:26,680
+of eye movement so
+the symptoms would be
+
+763
+00:45:26,680 --> 00:45:30,240
+wide stance because they
+don't know what's up
+
+764
+00:45:30,240 --> 00:45:33,160
+what's down they feel
+unsteady on their feet
+
+765
+00:45:33,160 --> 00:45:35,960
+they feel dizzy so
+they're going to spread
+
+766
+00:45:35,960 --> 00:45:39,000
+their legs out if they
+do fall they you know
+
+767
+00:45:39,000 --> 00:45:42,140
+they might reliably
+fall on one side because
+
+768
+00:45:42,140 --> 00:45:47,700
+we have that ipsilateral
+control of the
+
+769
+00:45:48,430 --> 00:45:52,180
+vestibulospinal system
+that activates those anti
+
+770
+00:45:52,180 --> 00:45:55,080
+-gravity muscles of
+the leg to extend the
+
+771
+00:45:55,080 --> 00:45:58,320
+lead it if instead you
+supported the body if
+
+772
+00:45:58,320 --> 00:46:02,040
+you you know brace
+them and put them on a
+
+773
+00:46:02,040 --> 00:46:05,180
+seat they could move their
+limbs in a coordinated
+
+774
+00:46:05,180 --> 00:46:08,240
+way but that wouldn't
+work in the real
+
+775
+00:46:08,240 --> 00:46:09,760
+world because they
+wouldn't know if they're
+
+776
+00:46:09,760 --> 00:46:11,860
+have like leaning to
+one side or leaning to
+
+777
+00:46:11,860 --> 00:46:17,100
+the other as a cat these
+persistent oscillatory
+
+778
+00:46:17,100 --> 00:46:20,580
+saccades that are
+called nystagmus so your
+
+779
+00:46:20,580 --> 00:46:24,280
+eyes just moving like
+it's uh they'll have
+
+780
+00:46:24,280 --> 00:46:26,640
+a uh like a beat they'll
+call it beating to
+
+781
+00:46:26,640 --> 00:46:29,020
+the side but but but
+looking to the side
+
+782
+00:46:29,020 --> 00:46:31,120
+looking back looking
+aside it's like an
+
+783
+00:46:31,120 --> 00:46:35,460
+oscillation then that
+is a characteristic of
+
+784
+00:46:35,730 --> 00:46:37,640
+vestibulocerebellar
+dysfunction that's something
+
+785
+00:46:37,640 --> 00:46:40,860
+that's tested you know
+in a roadside battery
+
+786
+00:46:40,860 --> 00:46:43,620
+if a police officer
+thought that you're
+
+787
+00:46:43,620 --> 00:46:46,400
+inebriated uh vertigo
+and nausea is referring
+
+788
+00:46:46,400 --> 00:46:49,420
+to vertigo but you also
+feel the symptoms of
+
+789
+00:46:49,420 --> 00:46:51,400
+oh, I feel awful because
+
+790
+00:46:51,400 --> 00:46:53,120
+I feel like I'm spinning.
+
+791
+00:46:53,340 --> 00:46:56,940
+And so some causes
+for this would be
+
+792
+00:46:57,850 --> 00:47:01,220
+medulloblastoma, which
+as you might know is a
+
+793
+00:47:01,220 --> 00:47:05,240
+common childhood
+cancer, the most common
+
+794
+00:47:05,240 --> 00:47:08,840
+childhood cancer. It
+actually originates within
+
+795
+00:47:08,840 --> 00:47:12,440
+the cerebellum. There's
+viral infections.
+
+796
+00:47:12,440 --> 00:47:14,720
+I mentioned chicken
+pox before. So you can
+
+797
+00:47:14,720 --> 00:47:18,090
+have an acute case of
+vestibulocerebellar
+
+798
+00:47:18,180 --> 00:47:20,680
+dysfunction and just
+it'll just go away you
+
+799
+00:47:20,680 --> 00:47:23,000
+know chicken pox goes
+away so some of these
+
+800
+00:47:23,560 --> 00:47:27,320
+are problems that
+really are going to
+
+801
+00:47:28,090 --> 00:47:32,520
+reflect deeply serious
+and long-lasting and
+
+802
+00:47:32,520 --> 00:47:35,040
+sometimes you know
+we wish it was more
+
+803
+00:47:35,040 --> 00:47:37,200
+often that they could
+just go away and resolve
+
+804
+00:47:37,200 --> 00:47:41,840
+by their own themselves
+a handy dandy
+
+805
+00:47:41,840 --> 00:47:46,680
+mnemonic that will
+help you to look for
+
+806
+00:47:47,790 --> 00:47:51,960
+cerebellar symptoms
+and you now should know
+
+807
+00:47:51,960 --> 00:47:54,440
+what each of the
+components of this
+
+808
+00:47:54,440 --> 00:47:59,430
+mnemonic is Danish so
+that's dys, dyadacko,
+
+809
+00:47:59,980 --> 00:48:01,380
+kinesia,
+
+810
+00:48:01,740 --> 00:48:02,900
+ataxia,
+
+811
+00:48:03,020 --> 00:48:06,140
+nystagmus,
+tension tremor,
+
+812
+00:48:06,360 --> 00:48:06,980
+speech,
+
+813
+00:48:07,380 --> 00:48:08,560
+hypotonia,
+
+814
+00:48:08,800 --> 00:48:10,260
+Danish.
+
+815
+00:48:11,510 --> 00:48:15,380
+Essential tremor is
+the most common motor
+
+816
+00:48:15,380 --> 00:48:18,380
+disorder affects two
+percent of the population
+
+817
+00:48:18,380 --> 00:48:21,560
+just imagine how many
+people that you know
+
+818
+00:48:21,560 --> 00:48:24,800
+that separate you might
+as well it might be
+
+819
+00:48:24,800 --> 00:48:27,940
+small now and to become
+more and more prominent
+
+820
+00:48:27,940 --> 00:48:30,080
+later on not
+everybody's going to be
+
+821
+00:48:30,080 --> 00:48:34,580
+going to a movement
+specialist there are some
+
+822
+00:48:34,580 --> 00:48:37,640
+things that can get by
+depending on how severe
+
+823
+00:48:37,640 --> 00:48:42,400
+it is nonetheless it
+is a disorder and it
+
+824
+00:48:42,400 --> 00:48:46,240
+is the most common
+disorder so it's a tremor
+
+825
+00:48:46,240 --> 00:48:49,620
+this oscillations the
+primarily seen in the
+
+826
+00:48:49,620 --> 00:48:52,860
+upper limb 95% of cases
+involved the upper
+
+827
+00:48:52,860 --> 00:48:57,640
+limb it is present if
+somebody holds their
+
+828
+00:48:57,640 --> 00:49:02,940
+harm out steadily or
+if they're reaching to
+
+829
+00:49:02,940 --> 00:49:06,660
+a target but it's not
+seen if a person's
+
+830
+00:49:06,660 --> 00:49:09,520
+relaxed that complete
+puts their hand in the lap
+
+831
+00:49:09,520 --> 00:49:12,620
+but have with rest tremor
+seen in parkinson's
+
+832
+00:49:12,620 --> 00:49:15,280
+disease and it's
+not intention tremor
+
+833
+00:49:15,280 --> 00:49:19,480
+seen with uh you know
+characteristic uh of of
+
+834
+00:49:19,480 --> 00:49:22,560
+cerebellar damage
+where you have this uh
+
+835
+00:49:22,560 --> 00:49:25,280
+don't have it during
+postural hold and you see
+
+836
+00:49:25,280 --> 00:49:28,040
+it grow and grow and
+grow during a reach as
+
+837
+00:49:28,040 --> 00:49:30,340
+one approaches a target
+instead you see it
+
+838
+00:49:30,340 --> 00:49:33,220
+during posture and you
+see it during movement
+
+839
+00:49:33,220 --> 00:49:35,800
+but about equal
+amplitude can also affect
+
+840
+00:49:35,800 --> 00:49:40,840
+the vocal cord so as
+someone speaking they
+
+841
+00:49:40,840 --> 00:49:44,060
+have a shaky voice chances
+are that's a central
+
+842
+00:49:44,060 --> 00:49:46,380
+tremor not associated
+with Parkinson's
+
+843
+00:49:46,380 --> 00:49:50,800
+disease becomes apparent
+around mid midlife
+
+844
+00:49:50,800 --> 00:49:55,120
+it's progressive has a
+strong genetic component
+
+845
+00:49:55,120 --> 00:49:57,860
+50% inheritance for
+those individuals that
+
+846
+00:49:57,860 --> 00:50:00,920
+have been identified
+for ET, they'll have a
+
+847
+00:50:00,920 --> 00:50:07,060
+kid with ET. Last
+thing is that it is not
+
+848
+00:50:07,060 --> 00:50:11,560
+known for sure what is
+the cause, but the best
+
+849
+00:50:11,560 --> 00:50:16,160
+bet, the consensus
+view, is cerebellum,
+
+850
+00:50:16,160 --> 00:50:19,100
+which is interesting
+because it's not ataxia,
+
+851
+00:50:19,580 --> 00:50:22,940
+it's not
+discoordination in that
+
+852
+00:50:22,940 --> 00:50:27,180
+way, and it's not
+intention tremor.
+
+853
+00:50:27,920 --> 00:50:31,840
+But it seems to involve
+basal cerebellum,
+
+854
+00:50:31,840 --> 00:50:32,880
+but, you know,
+there's a lot of
+
+855
+00:50:32,880 --> 00:50:36,220
+dysfunctions that
+you get from, you
+
+856
+00:50:36,220 --> 00:50:39,460
+know, such a large,
+complex circuit.
+
+857
+00:50:39,640 --> 00:50:42,980
+So anyway, that is
+essential treatment.
+
+858
+00:50:43,580 --> 00:50:45,980
+All right, we've
+reached the end.
+
+859
+00:50:45,980 --> 00:50:46,930
+Let us summarize.
+
+860
+00:50:46,930 --> 00:50:48,940
+The cerebellum
+is composed of a
+
+861
+00:50:48,940 --> 00:50:50,580
+cortical sheet of
+internal nuclei.
+
+862
+00:50:50,620 --> 00:50:53,540
+It processes information
+from the spinal
+
+863
+00:50:53,540 --> 00:50:56,930
+cord, brainstem, and
+cerebral cortex. The
+
+864
+00:50:56,930 --> 00:50:59,160
+functional divisions
+are defined by cortical
+
+865
+00:50:59,160 --> 00:51:02,200
+territory, output
+nuclei, and capabilities.
+
+866
+00:51:03,050 --> 00:51:06,300
+Its information
+processing involves mossy
+
+867
+00:51:06,300 --> 00:51:09,180
+fibers, climbing
+fibers, granule cells,
+
+868
+00:51:09,180 --> 00:51:12,360
+burgundy cells, and
+deep cerebellar nuclei.
+
+869
+00:51:13,030 --> 00:51:15,960
+The cerebellum is
+essential for coordination,
+
+870
+00:51:15,960 --> 00:51:19,740
+and dysfunction is
+manifest as ataxia.
+
+871
+00:51:21,370 --> 00:51:24,130
+As always, I hope that
+was a clear presentation
+
+872
+00:51:24,130 --> 00:51:27,740
+of what our undoubtedly
+some complex
+
+873
+00:51:27,740 --> 00:51:31,580
+facts and concepts.
+Feedback is appreciated.
