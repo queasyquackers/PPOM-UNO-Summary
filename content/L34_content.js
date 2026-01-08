@@ -205,6 +205,24 @@ const L34_CONTENT = {
 ### Mixed
 *   **Ephedrine**: Anesthesia hypotension
 `
+,
+    ankingResource: {
+        primarySource: "SketchyPharm",
+        chapter: "Autonomic Drugs > Sympathomimetics",
+        alternatives: [
+            { "resource": "BandB", "chapter": "Pharmacology > Autonomic > Sympathetics" },
+            { "resource": "Pixorize", "chapter": "Autonomic Drugs > Sympathomimetics" }
+        ]
+    }
+,
+    ankingResource: {
+        primarySource: "SketchyPharm",
+        chapter: "Autonomic Drugs > Sympathomimetics",
+        alternatives: [
+            { "resource": "BandB", "chapter": "Pharmacology > Autonomic > Sympathetics" },
+            { "resource": "Pixorize", "chapter": "Autonomic Drugs > Sympathomimetics" }
+        ]
+    }
 };
 
 if (typeof window !== 'undefined') {

@@ -253,6 +253,22 @@ const L43_CONTENT = {
 *   **Mitoxantrone**: Cardiac exam
 *   **Teriflunomide**: Pregnancy test
 `
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Demyelinating > MS Treatment",
+        alternatives: [
+            { "resource": "SketchyPharm", "chapter": "Neuro/Psych > MS Drugs" }
+        ]
+    }
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Demyelinating > MS Treatment",
+        alternatives: [
+            { "resource": "SketchyPharm", "chapter": "Neuro/Psych > MS Drugs" }
+        ]
+    }
 };
 
 if (typeof window !== 'undefined') {

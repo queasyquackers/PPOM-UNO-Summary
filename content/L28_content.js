@@ -207,6 +207,24 @@ const L28_CONTENT = {
 *   **V1**: Area 17
 *   **A1**: Area 41,42
 `
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Anatomy > Cerebral Cortex",
+        alternatives: [
+            { "resource": "FirstAid", "chapter": "Neurology > Anatomy > Cerebral Cortex" },
+            { "resource": "Physeo", "chapter": "Neuroanatomy > Cortex" }
+        ]
+    }
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Anatomy > Cerebral Cortex",
+        alternatives: [
+            { "resource": "FirstAid", "chapter": "Neurology > Anatomy > Cerebral Cortex" },
+            { "resource": "Physeo", "chapter": "Neuroanatomy > Cortex" }
+        ]
+    }
 };
 
 if (typeof window !== 'undefined') {

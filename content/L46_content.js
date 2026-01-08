@@ -236,6 +236,22 @@ const L46_CONTENT = {
 ### Documentation
 *   **History, PE, Assessment, Plan**
 `
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Clinical Neurology > Sensory Exam",
+        alternatives: [
+            { "resource": "FirstAid", "chapter": "Neurology > Anatomy > Sensory Systems" }
+        ]
+    }
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Clinical Neurology > Sensory Exam",
+        alternatives: [
+            { "resource": "FirstAid", "chapter": "Neurology > Anatomy > Sensory Systems" }
+        ]
+    }
 };
 
 if (typeof window !== 'undefined') {

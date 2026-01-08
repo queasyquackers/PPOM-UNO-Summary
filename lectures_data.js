@@ -486,6 +486,172 @@ Dysfunction at the joint itself without asymmetry of height.
 `
 },
     {
+    id: 'l2',
+    title: 'Lecture #2: Overview of Neuroembryology',
+    lecturer: 'K. Poole, Ph.D.',
+    module: 'Neuro',
+    session: 'Lecture #2',
+    prev: 'l1b',
+    next: 'l3',
+    pdf: 'pdfs/Lecture # 2. K. Poole, Ph.D. (PPT)-1.pdf',
+    transcript: 'transcripts/Lecture #2_ Overview of Neuroembryology Faculty_ K. Poole, Ph.D..srt',
+    summary: `
+# Lecture #2: Overview of Neuroembryology
+
+**Lecturer:** K. Poole, Ph.D.
+**Session:** Lecture #2
+**Topic:** Neuroembryology
+
+## 1. Early Development & Gastrulation
+*   **Gastrulation (Week 3):** Formation of the three germ layers.
+    *   **Ectoderm:** Nervous system, skin (epidermis).
+    *   **Mesoderm:** Muscle, bone, connective tissue, notochord.
+    *   **Endoderm:** Gut tube, internal organs.
+*   **Notochord:** Derived from mesoderm. Induces the overlying ectoderm to thicken and become the **Neural Plate**.
+
+## 2. Neurulation (Weeks 3-4)
+*   **Process:**
+    1.  **Neural Plate:** Thickening of ectoderm.
+    2.  **Neural Groove:** Midline depression forms.
+    3.  **Neural Folds:** Lateral edges rise and fuse.
+    4.  **Neural Tube:** Fusion creates a hollow tube.
+        *   Fuses in the middle (cervical region) first, then "zips" rostrally and caudally.
+*   **Neuropores:** Openings at ends of the tube.
+    *   **Anterior (Rostral) Neuropore:** Closes ~Day 25.
+    *   **Posterior (Caudal) Neuropore:** Closes ~Day 27-28.
+
+## 3. Neural Crest Cells
+*   **Origin:** Cells at the edge of the neural folds that detatch during closure.
+*   **Derivatives ("4th Germ Layer"):**
+    *   DRG neurons
+    *   Autonomic ganglia
+    *   Schwann cells
+    *   Adrenal medulla
+    *   Melanocytes
+    *   Craniofacial bones/cartilage
+
+## 4. Primary & Secondary Vesicles
+*   **3 Primary Vesicles (Week 4):**
+    1.  **Prosencephalon** (Forebrain)
+    2.  **Mesencephalon** (Midbrain)
+    3.  **Rhombencephalon** (Hindbrain)
+*   **5 Secondary Vesicles (Week 5):**
+    *   **Prosencephalon** -> **Telencephalon** & **Diencephalon**
+    *   **Mesencephalon** -> **Mesencephalon** (stays same)
+    *   **Rhombencephalon** -> **Metencephalon** & **Myelencephalon**
+
+:::mnemonic
+**Brain Vesicles**
+*   **Tel** (Tell) -> Cerebrum
+*   **Di** (Die) -> Thalamus/Hypothalamus
+*   **Mes** (Me) -> Midbrain
+*   **Met** (Met) -> Pons/Cerebellum
+*   **Myel** (My) -> Medulla
+:::
+
+## 5. Clinical Correlates
+:::correlate
+**Neural Tube Defects (NTDs)**
+*   **Cause:** Failure of neuropore closure. Associated with **low Folic Acid (Vitamin B9)**.
+*   **Anencephaly:** Failure of **Rostral** neuropore to close. No forebrain/calvaria. Polyhydramnios (can't swallow amniotic fluid). Incompatible with life.
+*   **Spina Bifida:** Failure of **Caudal** neuropore to close.
+    *   *Occulta:* Mild, tuft of hair, vertebral arch defect.
+    *   *Meningocele:* Meninges herniate.
+    *   *Myelomeningocele:* Meninges + Spinal Cord herniate (Severe).
+:::
+
+:::correlate
+**Holoprosencephaly**
+*   **Pathology:** Failure of cleavage of the Prosencephalon (Forebrain) into left/right hemispheres.
+*   **Presentation:** Midline facial defects (cleft lip/palate, cyclopia in severe cases).
+*   **Association:** Trisomy 13 (Patau), Sonic Hedgehog mutations.
+:::
+`,
+    questions: [
+        {
+            question: "**1. Which of the following cells are derived from the Neural Crest?**",
+            options: [
+                "Motor neurons of the ventral horn",
+                "Astrocytes of the CNS",
+                "Dorsal Root Ganglion (DRG) cells",
+                "Oligodendrocytes",
+                "Microglia"
+            ],
+            correctAnswer: 2,
+            rationale: "**Neural Crest cells** migrate to form the **DRGs**, autonomic ganglia, Schwann cells, and adrenal medulla. CNS glial cells (astrocytes, oligos) come from the neural tube (neuroectoderm). Microglia come from mesoderm."
+        },
+        {
+            question: "**2. A newborn has a tuft of hair over the lumbar spine but no neurologic deficits. What is the most likely diagnosis?**",
+            options: [
+                "Spina Bifida Occulta",
+                "Meningocele",
+                "Myelomeningocele",
+                "Anencephaly",
+                "Rachischisis"
+            ],
+            correctAnswer: 0,
+            rationale: "**Spina Bifida Occulta** is a defect in the vertebral arch (mesoderm) fusion, often marked by a tuft of hair or dimple. The meninges and cord remain in place."
+        },
+        {
+            question: "**3. Which vitamin deficiency is strongly associated with Neural Tube Defects?**",
+            options: [
+                "Vitamin B12",
+                "Vitamin C",
+                "Folic Acid (B9)",
+                "Vitamin D",
+                "Vitamin A"
+            ],
+            correctAnswer: 2,
+            rationale: "**Folic Acid** supplementation prior to conception and during early pregnancy significantly reduces the risk of NTDs."
+        },
+        {
+            question: "**4. The Metencephalon gives rise to which adult structures?**",
+            options: [
+                "Medulla",
+                "Midbrain",
+                "Thalamus and Hypothalamus",
+                "Pons and Cerebellum",
+                "Cerebral Hemispheres"
+            ],
+            correctAnswer: 3,
+            rationale: "The **Metencephalon** develops into the **Pons** and **Cerebellum**. The Myelencephalon becomes the Medulla."
+        },
+        {
+            question: "**5. Which structure induces the formation of the Neural Plate from the ectoderm?**",
+            options: [
+                "Primitive Streak",
+                "Notochord",
+                "Yolk Sac",
+                "Intermediate Mesoderm",
+                "Neural Crest"
+            ],
+            correctAnswer: 1,
+            rationale: "The **Notochord**, derived from mesoderm, secretes signaling molecules (e.g., Sonic Hedgehog) that induce the overlying ectoderm to differentiate into the **Neural Plate**."
+        }
+    ],
+    flashcards: [
+        { "front": "Tissue origin of CNS?", "back": "Neuroectoderm (Neural Tube)", "tag": "Embryology" },
+        { "front": "Tissue origin of PNS neurons/glia?", "back": "Neural Crest", "tag": "Embryology" },
+        { "front": "Structure inducing neural plate?", "back": "Notochord", "tag": "Embryology" },
+        { "front": "Adult derivative of Telencephalon?", "back": "Cerebrum (Cerebral Hemispheres)", "tag": "Embryology" },
+        { "front": "Adult derivative of Diencephalon?", "back": "Thalamus, Hypothalamus, Retina", "tag": "Embryology" },
+        { "front": "Failure of rostral neuropore closure?", "back": "Anencephaly", "tag": "Pathology" },
+        { "front": "Failure of caudal neuropore closure?", "back": "Spina Bifida", "tag": "Pathology" },
+        { "front": "Vitamin to prevent NTDs?", "back": "Folic Acid (B9)", "tag": "Prevention" },
+        { "front": "Closure day of Rostral Neuropore?", "back": "Day 25", "tag": "Embryology" },
+        { "front": "Closure day of Caudal Neuropore?", "back": "Day 27-28", "tag": "Embryology" }
+    ],
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Embryology > Nervous System Development",
+        alternatives: [
+             { "resource": "FirstAid", "chapter": "Neurology > Embryology" },
+             { "resource": "Pathoma", "chapter": "CNS > Congenital Malformations" },
+             { "resource": "Physeo", "chapter": "Anatomy > Neuroanatomy > Embryology" }
+        ]
+    }
+},
+    {
     id: 'l3',
     title: 'Lecture #3: Neuroanatomy: Meninges, BBB, CSF, Ventricles',
     lecturer: 'Vladimir Grubisic, M.D., Ph.D. & Vincy Mathew',
@@ -911,6 +1077,7 @@ Branches (**OPAM**):
     *   *Invasive:* Risk of stroke/bleeding at puncture site.
 
 ## Summary Table
+
 | Modality | Best For | Contraindications/Risks |
 | :--- | :--- | :--- |
 | **CT Head** | Acute Hemorrhage, Trauma, Bone | Radiation, Dye Allergy |
@@ -2220,6 +2387,15 @@ Errors in System 1 thinking.
 *   **Patient Story** -> **Problem Rep** -> **DDx** -> **Diagnosis**
 *   **Mnemonics**: VINDICATE
 `
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Epidemiology > Biostatistics > Bias",
+        alternatives: [
+            { "resource": "FirstAid", "chapter": "Public Health > Epidemiology" },
+            { "resource": "Pathoma", "chapter": "Fundamentals > Neoplasia" }
+        ]
+    }
 },
     {
     id: 'l15',
@@ -4194,6 +4370,24 @@ Used for paralysis during surgery/intubation. **No Analgesia/Sedation!**
 ### Neck
 *   **CN XI**: Shrug (Trap), Turn (SCM).
 `
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Clinical Neurology > The Neurological Exam",
+        alternatives: [
+            { "resource": "FirstAid", "chapter": "Neurology > Anatomy > Cranial Nerves" },
+            { "resource": "Pathoma", "chapter": "Nervous System > Introduction" }
+        ]
+    }
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Clinical Neurology > The Neurological Exam",
+        alternatives: [
+            { "resource": "FirstAid", "chapter": "Neurology > Anatomy > Cranial Nerves" },
+            { "resource": "Pathoma", "chapter": "Nervous System > Introduction" }
+        ]
+    }
 },
     {
     id: 'l27',
@@ -4372,6 +4566,22 @@ _(Note: Specific positions based on general principles, verify with lab manual).
 *   **Anterior Innominate**: ASIS Low
 *   **Posterior Innominate**: ASIS High
 `
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Musculoskeletal > Spine",
+        alternatives: [
+            { "resource": "FirstAid", "chapter": "Musculoskeletal > Anatomy" }
+        ]
+    }
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Musculoskeletal > Spine",
+        alternatives: [
+            { "resource": "FirstAid", "chapter": "Musculoskeletal > Anatomy" }
+        ]
+    }
 },
     {
     id: 'l28',
@@ -4582,6 +4792,24 @@ _(Note: Specific positions based on general principles, verify with lab manual).
 *   **V1**: Area 17
 *   **A1**: Area 41,42
 `
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Anatomy > Cerebral Cortex",
+        alternatives: [
+            { "resource": "FirstAid", "chapter": "Neurology > Anatomy > Cerebral Cortex" },
+            { "resource": "Physeo", "chapter": "Neuroanatomy > Cortex" }
+        ]
+    }
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Anatomy > Cerebral Cortex",
+        alternatives: [
+            { "resource": "FirstAid", "chapter": "Neurology > Anatomy > Cerebral Cortex" },
+            { "resource": "Physeo", "chapter": "Neuroanatomy > Cortex" }
+        ]
+    }
 },
     {
     id: 'l29',
@@ -4754,6 +4982,22 @@ _(Note: Specific positions based on general principles, verify with lab manual).
 *   **Heterotopia**: Stuck neurons. Seizures.
 *   **Holoprosencephaly**: Single hemisphere.
 `
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Embryology > Brain Development",
+        alternatives: [
+            { "resource": "FirstAid", "chapter": "Neurology > Embryology" }
+        ]
+    }
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Embryology > Brain Development",
+        alternatives: [
+            { "resource": "FirstAid", "chapter": "Neurology > Embryology" }
+        ]
+    }
 },
     {
     id: 'l30',
@@ -4944,6 +5188,22 @@ _(Note: Specific positions based on general principles, verify with lab manual).
 *   **Decorticate**: Flexed (Above Red Nuc).
 *   **Decerebrate**: Extended (Below Red Nuc).
 `
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Motor Systems > Corticospinal Tract",
+        alternatives: [
+            { "resource": "FirstAid", "chapter": "Neurology > Anatomy > Spinal Cord Tracts" }
+        ]
+    }
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Motor Systems > Corticospinal Tract",
+        alternatives: [
+            { "resource": "FirstAid", "chapter": "Neurology > Anatomy > Spinal Cord Tracts" }
+        ]
+    }
 },
     {
     id: 'l31',
@@ -5151,6 +5411,24 @@ Dopamine from SNc modulates the striatum.
 *   **Huntington's**: Loss of Caudate. Chorea.
 *   **Hemiballismus**: Lesion of STN. Flailing.
 `
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Motor Systems > Basal Ganglia",
+        alternatives: [
+            { "resource": "FirstAid", "chapter": "Neurology > Anatomy > Basal Ganglia" },
+            { "resource": "Physeo", "chapter": "Neuroanatomy > Basal Ganglia" }
+        ]
+    }
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Motor Systems > Basal Ganglia",
+        alternatives: [
+            { "resource": "FirstAid", "chapter": "Neurology > Anatomy > Basal Ganglia" },
+            { "resource": "Physeo", "chapter": "Neuroanatomy > Basal Ganglia" }
+        ]
+    }
 },
     {
     id: 'l32',
@@ -5326,6 +5604,24 @@ Reference from Medial to Lateral: "Don't Eat Greasy Foods"
 *   **Vermis Lesion**: Truncal Ataxia (Alcohol)
 *   **Hemisphere Lesion**: Limb Ataxia (Ipsilateral)
 `
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Motor Systems > Cerebellum",
+        alternatives: [
+            { "resource": "FirstAid", "chapter": "Neurology > Anatomy > Cerebellum" },
+            { "resource": "Physeo", "chapter": "Neuroanatomy > Cerebellum" }
+        ]
+    }
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Motor Systems > Cerebellum",
+        alternatives: [
+            { "resource": "FirstAid", "chapter": "Neurology > Anatomy > Cerebellum" },
+            { "resource": "Physeo", "chapter": "Neuroanatomy > Cerebellum" }
+        ]
+    }
 },
     {
     id: 'l33',
@@ -5517,6 +5813,24 @@ Reference from Medial to Lateral: "Don't Eat Greasy Foods"
 *   **Dobutamine**: β1. Heart failure.
 *   **Isoproterenol**: β1=β2. Rarely used.
 `
+,
+    ankingResource: {
+        primarySource: "SketchyPharm",
+        chapter: "Autonomic Drugs > Sympathomimetics",
+        alternatives: [
+            { "resource": "BandB", "chapter": "Pharmacology > Autonomic > Sympathetics" },
+            { "resource": "FirstAid", "chapter": "Pharmacology > Autonomic Drugs" }
+        ]
+    }
+,
+    ankingResource: {
+        primarySource: "SketchyPharm",
+        chapter: "Autonomic Drugs > Sympathomimetics",
+        alternatives: [
+            { "resource": "BandB", "chapter": "Pharmacology > Autonomic > Sympathetics" },
+            { "resource": "FirstAid", "chapter": "Pharmacology > Autonomic Drugs" }
+        ]
+    }
 },
     {
     id: 'l34',
@@ -5725,6 +6039,24 @@ Reference from Medial to Lateral: "Don't Eat Greasy Foods"
 ### Mixed
 *   **Ephedrine**: Anesthesia hypotension
 `
+,
+    ankingResource: {
+        primarySource: "SketchyPharm",
+        chapter: "Autonomic Drugs > Sympathomimetics",
+        alternatives: [
+            { "resource": "BandB", "chapter": "Pharmacology > Autonomic > Sympathetics" },
+            { "resource": "Pixorize", "chapter": "Autonomic Drugs > Sympathomimetics" }
+        ]
+    }
+,
+    ankingResource: {
+        primarySource: "SketchyPharm",
+        chapter: "Autonomic Drugs > Sympathomimetics",
+        alternatives: [
+            { "resource": "BandB", "chapter": "Pharmacology > Autonomic > Sympathetics" },
+            { "resource": "Pixorize", "chapter": "Autonomic Drugs > Sympathomimetics" }
+        ]
+    }
 },
     {
     id: 'l35',
@@ -5956,6 +6288,24 @@ Reference from Medial to Lateral: "Don't Eat Greasy Foods"
 *   **INO**: Impaired adduction (ipsilateral)
 *   **Foville's**: Bilateral gaze palsy
 `
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Cranial Nerves > CN I-VI",
+        alternatives: [
+            { "resource": "FirstAid", "chapter": "Neurology > Anatomy > Cranial Nerves" },
+            { "resource": "SketchyPath", "chapter": "Neuro > Cranial Nerves" }
+        ]
+    }
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Cranial Nerves > CN I-VI",
+        alternatives: [
+            { "resource": "FirstAid", "chapter": "Neurology > Anatomy > Cranial Nerves" },
+            { "resource": "SketchyPath", "chapter": "Neuro > Cranial Nerves" }
+        ]
+    }
 },
     {
     id: 'l36',
@@ -6193,6 +6543,24 @@ Reference from Medial to Lateral: "Don't Eat Greasy Foods"
 *   **Medial**: Tongue ipsilateral, Hemiparesis contralateral
 *   **Lateral (PICA)**: Hoarse, Dysphagia, Ipsi ataxia
 `
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Cranial Nerves > CN VII-XII",
+        alternatives: [
+            { "resource": "FirstAid", "chapter": "Neurology > Anatomy > Cranial Nerves" },
+            { "resource": "Physeo", "chapter": "Neuroanatomy > Cranial Nerves" }
+        ]
+    }
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Cranial Nerves > CN VII-XII",
+        alternatives: [
+            { "resource": "FirstAid", "chapter": "Neurology > Anatomy > Cranial Nerves" },
+            { "resource": "Physeo", "chapter": "Neuroanatomy > Cranial Nerves" }
+        ]
+    }
 },
     {
     id: 'l37',
@@ -6465,6 +6833,22 @@ Reference from Medial to Lateral: "Don't Eat Greasy Foods"
 *   **Romberg**: Dorsal column disease (fall eyes closed)
 *   **Pronator drift**: UMN lesion (arm drifts/pronates)
 `
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Clinical Neurology > Motor Exam",
+        alternatives: [
+            { "resource": "FirstAid", "chapter": "Neurology > Anatomy > Motor Systems" }
+        ]
+    }
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Clinical Neurology > Motor Exam",
+        alternatives: [
+            { "resource": "FirstAid", "chapter": "Neurology > Anatomy > Motor Systems" }
+        ]
+    }
 },
     {
     id: 'l38',
@@ -6655,6 +7039,22 @@ Reference from Medial to Lateral: "Don't Eat Greasy Foods"
 *   **Palpate**: ILA, sulci, base
 *   **Apply L5 rules**: Correlate all findings
 `
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Musculoskeletal > Spine",
+        alternatives: [
+            { "resource": "FirstAid", "chapter": "Musculoskeletal > Pathology" }
+        ]
+    }
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Musculoskeletal > Spine",
+        alternatives: [
+            { "resource": "FirstAid", "chapter": "Musculoskeletal > Pathology" }
+        ]
+    }
 },
     {
     id: 'l39',
@@ -6927,6 +7327,24 @@ Reference from Medial to Lateral: "Don't Eat Greasy Foods"
 *   **Mask hypoglycemia**
 *   **Rebound on withdrawal** (taper!)
 `
+,
+    ankingResource: {
+        primarySource: "SketchyPharm",
+        chapter: "Autonomic Drugs > Adrenergic Antagonists",
+        alternatives: [
+            { "resource": "BandB", "chapter": "Pharmacology > Autonomic > Adrenergic Antagonists" },
+            { "resource": "Pixorize", "chapter": "Autonomic Drugs > Antagonists" }
+        ]
+    }
+,
+    ankingResource: {
+        primarySource: "SketchyPharm",
+        chapter: "Autonomic Drugs > Adrenergic Antagonists",
+        alternatives: [
+            { "resource": "BandB", "chapter": "Pharmacology > Autonomic > Adrenergic Antagonists" },
+            { "resource": "Pixorize", "chapter": "Autonomic Drugs > Antagonists" }
+        ]
+    }
 },
     {
     id: 'l40',
@@ -7176,6 +7594,24 @@ Reference from Medial to Lateral: "Don't Eat Greasy Foods"
 *   **Radial**: Wrist drop
 *   **Fibular**: Foot drop
 `
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Spinal Cord > Spinal Cord Lesions",
+        alternatives: [
+            { "resource": "Pathoma", "chapter": "CNS > Spinal Cord" },
+            { "resource": "FirstAid", "chapter": "Neurology > Pathology > Spinal Cord" }
+        ]
+    }
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Spinal Cord > Spinal Cord Lesions",
+        alternatives: [
+            { "resource": "Pathoma", "chapter": "CNS > Spinal Cord" },
+            { "resource": "FirstAid", "chapter": "Neurology > Pathology > Spinal Cord" }
+        ]
+    }
 },
     {
     id: 'l41',
@@ -7448,6 +7884,22 @@ Reference from Medial to Lateral: "Don't Eat Greasy Foods"
 *   **Inclusion body**: Knee extensor weakness
 *   **Inflammatory**: Polymyositis, dermatomyositis
 `
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Neuromuscular > Myopathy vs Neuropathy",
+        alternatives: [
+            { "resource": "Pathoma", "chapter": "Musculoskeletal > Myopathies" }
+        ]
+    }
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Neuromuscular > Myopathy vs Neuropathy",
+        alternatives: [
+            { "resource": "Pathoma", "chapter": "Musculoskeletal > Myopathies" }
+        ]
+    }
 },
     {
     id: 'l42',
@@ -7732,6 +8184,24 @@ Reference from Medial to Lateral: "Don't Eat Greasy Foods"
 *   **JC virus** in immunosuppressed
 *   **Multifocal demyelination**
 `
+,
+    ankingResource: {
+        primarySource: "Pathoma",
+        chapter: "CNS > Demyelinating Disorders",
+        alternatives: [
+            { "resource": "BandB", "chapter": "Neurology > Demyelinating > MS" },
+            { "resource": "FirstAid", "chapter": "Neurology > Pathology > Demyelinating" }
+        ]
+    }
+,
+    ankingResource: {
+        primarySource: "Pathoma",
+        chapter: "CNS > Demyelinating Disorders",
+        alternatives: [
+            { "resource": "BandB", "chapter": "Neurology > Demyelinating > MS" },
+            { "resource": "FirstAid", "chapter": "Neurology > Pathology > Demyelinating" }
+        ]
+    }
 },
     {
     id: 'l43',
@@ -7988,6 +8458,22 @@ Reference from Medial to Lateral: "Don't Eat Greasy Foods"
 *   **Mitoxantrone**: Cardiac exam
 *   **Teriflunomide**: Pregnancy test
 `
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Demyelinating > MS Treatment",
+        alternatives: [
+            { "resource": "SketchyPharm", "chapter": "Neuro/Psych > MS Drugs" }
+        ]
+    }
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Demyelinating > MS Treatment",
+        alternatives: [
+            { "resource": "SketchyPharm", "chapter": "Neuro/Psych > MS Drugs" }
+        ]
+    }
 },
     {
     id: 'l44',
@@ -8322,6 +8808,24 @@ Reference from Medial to Lateral: "Don't Eat Greasy Foods"
 *   **Retinal detachment**: Flashes/floaters
 *   **AMD**: Drusen (dry), neovascularization (wet)
 `
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Eye > Ophthalmology basics",
+        alternatives: [
+            { "resource": "FirstAid", "chapter": "Neurology > Ophthalmology" },
+            { "resource": "Pathoma", "chapter": "Eye Pathology" }
+        ]
+    }
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Eye > Ophthalmology basics",
+        alternatives: [
+            { "resource": "FirstAid", "chapter": "Neurology > Ophthalmology" },
+            { "resource": "Pathoma", "chapter": "Eye Pathology" }
+        ]
+    }
 },
     {
     id: 'l45',
@@ -8583,6 +9087,22 @@ Reference from Medial to Lateral: "Don't Eat Greasy Foods"
 *   **Parasympathetic**: EW → Pupil constriction
 *   **Lesion**: Ptosis, lateral strabismus, pupil dilation
 `
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Integration",
+        alternatives: [
+            { "resource": "FirstAid", "chapter": "Neurology > Systems" }
+        ]
+    }
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Integration",
+        alternatives: [
+            { "resource": "FirstAid", "chapter": "Neurology > Systems" }
+        ]
+    }
 },
     {
     id: 'l46',
@@ -8822,6 +9342,22 @@ Reference from Medial to Lateral: "Don't Eat Greasy Foods"
 ### Documentation
 *   **History, PE, Assessment, Plan**
 `
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Clinical Neurology > Sensory Exam",
+        alternatives: [
+            { "resource": "FirstAid", "chapter": "Neurology > Anatomy > Sensory Systems" }
+        ]
+    }
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Clinical Neurology > Sensory Exam",
+        alternatives: [
+            { "resource": "FirstAid", "chapter": "Neurology > Anatomy > Sensory Systems" }
+        ]
+    }
 },
 ];
 

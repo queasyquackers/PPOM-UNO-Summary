@@ -246,6 +246,24 @@ const L40_CONTENT = {
 *   **Radial**: Wrist drop
 *   **Fibular**: Foot drop
 `
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Spinal Cord > Spinal Cord Lesions",
+        alternatives: [
+            { "resource": "Pathoma", "chapter": "CNS > Spinal Cord" },
+            { "resource": "FirstAid", "chapter": "Neurology > Pathology > Spinal Cord" }
+        ]
+    }
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Spinal Cord > Spinal Cord Lesions",
+        alternatives: [
+            { "resource": "Pathoma", "chapter": "CNS > Spinal Cord" },
+            { "resource": "FirstAid", "chapter": "Neurology > Pathology > Spinal Cord" }
+        ]
+    }
 };
 
 if (typeof window !== 'undefined') {

@@ -126,6 +126,15 @@ Errors in System 1 thinking.
 *   **Patient Story** -> **Problem Rep** -> **DDx** -> **Diagnosis**
 *   **Mnemonics**: VINDICATE
 `
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Epidemiology > Biostatistics > Bias",
+        alternatives: [
+            { "resource": "FirstAid", "chapter": "Public Health > Epidemiology" },
+            { "resource": "Pathoma", "chapter": "Fundamentals > Neoplasia" }
+        ]
+    }
 };
 
 if (typeof window !== 'undefined') {

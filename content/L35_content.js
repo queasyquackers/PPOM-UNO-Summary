@@ -228,6 +228,24 @@ const L35_CONTENT = {
 *   **INO**: Impaired adduction (ipsilateral)
 *   **Foville's**: Bilateral gaze palsy
 `
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Cranial Nerves > CN I-VI",
+        alternatives: [
+            { "resource": "FirstAid", "chapter": "Neurology > Anatomy > Cranial Nerves" },
+            { "resource": "SketchyPath", "chapter": "Neuro > Cranial Nerves" }
+        ]
+    }
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Cranial Nerves > CN I-VI",
+        alternatives: [
+            { "resource": "FirstAid", "chapter": "Neurology > Anatomy > Cranial Nerves" },
+            { "resource": "SketchyPath", "chapter": "Neuro > Cranial Nerves" }
+        ]
+    }
 };
 
 if (typeof window !== 'undefined') {

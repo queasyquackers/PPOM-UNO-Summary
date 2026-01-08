@@ -269,6 +269,22 @@ const L41_CONTENT = {
 *   **Inclusion body**: Knee extensor weakness
 *   **Inflammatory**: Polymyositis, dermatomyositis
 `
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Neuromuscular > Myopathy vs Neuropathy",
+        alternatives: [
+            { "resource": "Pathoma", "chapter": "Musculoskeletal > Myopathies" }
+        ]
+    }
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Neuromuscular > Myopathy vs Neuropathy",
+        alternatives: [
+            { "resource": "Pathoma", "chapter": "Musculoskeletal > Myopathies" }
+        ]
+    }
 };
 
 if (typeof window !== 'undefined') {

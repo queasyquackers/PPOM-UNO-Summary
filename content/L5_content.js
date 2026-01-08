@@ -62,6 +62,7 @@ const L5_CONTENT = {
     *   *Invasive:* Risk of stroke/bleeding at puncture site.
 
 ## Summary Table
+
 | Modality | Best For | Contraindications/Risks |
 | :--- | :--- | :--- |
 | **CT Head** | Acute Hemorrhage, Trauma, Bone | Radiation, Dye Allergy |

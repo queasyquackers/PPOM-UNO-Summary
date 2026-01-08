@@ -204,6 +204,24 @@ Dopamine from SNc modulates the striatum.
 *   **Huntington's**: Loss of Caudate. Chorea.
 *   **Hemiballismus**: Lesion of STN. Flailing.
 `
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Motor Systems > Basal Ganglia",
+        alternatives: [
+            { "resource": "FirstAid", "chapter": "Neurology > Anatomy > Basal Ganglia" },
+            { "resource": "Physeo", "chapter": "Neuroanatomy > Basal Ganglia" }
+        ]
+    }
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Motor Systems > Basal Ganglia",
+        alternatives: [
+            { "resource": "FirstAid", "chapter": "Neurology > Anatomy > Basal Ganglia" },
+            { "resource": "Physeo", "chapter": "Neuroanatomy > Basal Ganglia" }
+        ]
+    }
 };
 
 if (typeof window !== 'undefined') {

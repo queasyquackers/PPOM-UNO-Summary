@@ -175,6 +175,22 @@ _(Note: Specific positions based on general principles, verify with lab manual).
 *   **Anterior Innominate**: ASIS Low
 *   **Posterior Innominate**: ASIS High
 `
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Musculoskeletal > Spine",
+        alternatives: [
+            { "resource": "FirstAid", "chapter": "Musculoskeletal > Anatomy" }
+        ]
+    }
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Musculoskeletal > Spine",
+        alternatives: [
+            { "resource": "FirstAid", "chapter": "Musculoskeletal > Anatomy" }
+        ]
+    }
 };
 
 if (typeof window !== 'undefined') {

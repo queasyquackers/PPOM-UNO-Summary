@@ -188,6 +188,24 @@ const L33_CONTENT = {
 *   **Dobutamine**: β1. Heart failure.
 *   **Isoproterenol**: β1=β2. Rarely used.
 `
+,
+    ankingResource: {
+        primarySource: "SketchyPharm",
+        chapter: "Autonomic Drugs > Sympathomimetics",
+        alternatives: [
+            { "resource": "BandB", "chapter": "Pharmacology > Autonomic > Sympathetics" },
+            { "resource": "FirstAid", "chapter": "Pharmacology > Autonomic Drugs" }
+        ]
+    }
+,
+    ankingResource: {
+        primarySource: "SketchyPharm",
+        chapter: "Autonomic Drugs > Sympathomimetics",
+        alternatives: [
+            { "resource": "BandB", "chapter": "Pharmacology > Autonomic > Sympathetics" },
+            { "resource": "FirstAid", "chapter": "Pharmacology > Autonomic Drugs" }
+        ]
+    }
 };
 
 if (typeof window !== 'undefined') {

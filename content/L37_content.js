@@ -269,6 +269,22 @@ const L37_CONTENT = {
 *   **Romberg**: Dorsal column disease (fall eyes closed)
 *   **Pronator drift**: UMN lesion (arm drifts/pronates)
 `
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Clinical Neurology > Motor Exam",
+        alternatives: [
+            { "resource": "FirstAid", "chapter": "Neurology > Anatomy > Motor Systems" }
+        ]
+    }
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Clinical Neurology > Motor Exam",
+        alternatives: [
+            { "resource": "FirstAid", "chapter": "Neurology > Anatomy > Motor Systems" }
+        ]
+    }
 };
 
 if (typeof window !== 'undefined') {

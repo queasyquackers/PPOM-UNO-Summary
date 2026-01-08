@@ -187,6 +187,22 @@ const L30_CONTENT = {
 *   **Decorticate**: Flexed (Above Red Nuc).
 *   **Decerebrate**: Extended (Below Red Nuc).
 `
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Motor Systems > Corticospinal Tract",
+        alternatives: [
+            { "resource": "FirstAid", "chapter": "Neurology > Anatomy > Spinal Cord Tracts" }
+        ]
+    }
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Motor Systems > Corticospinal Tract",
+        alternatives: [
+            { "resource": "FirstAid", "chapter": "Neurology > Anatomy > Spinal Cord Tracts" }
+        ]
+    }
 };
 
 if (typeof window !== 'undefined') {

@@ -331,6 +331,24 @@ const L44_CONTENT = {
 *   **Retinal detachment**: Flashes/floaters
 *   **AMD**: Drusen (dry), neovascularization (wet)
 `
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Eye > Ophthalmology basics",
+        alternatives: [
+            { "resource": "FirstAid", "chapter": "Neurology > Ophthalmology" },
+            { "resource": "Pathoma", "chapter": "Eye Pathology" }
+        ]
+    }
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Eye > Ophthalmology basics",
+        alternatives: [
+            { "resource": "FirstAid", "chapter": "Neurology > Ophthalmology" },
+            { "resource": "Pathoma", "chapter": "Eye Pathology" }
+        ]
+    }
 };
 
 if (typeof window !== 'undefined') {

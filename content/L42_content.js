@@ -281,6 +281,24 @@ const L42_CONTENT = {
 *   **JC virus** in immunosuppressed
 *   **Multifocal demyelination**
 `
+,
+    ankingResource: {
+        primarySource: "Pathoma",
+        chapter: "CNS > Demyelinating Disorders",
+        alternatives: [
+            { "resource": "BandB", "chapter": "Neurology > Demyelinating > MS" },
+            { "resource": "FirstAid", "chapter": "Neurology > Pathology > Demyelinating" }
+        ]
+    }
+,
+    ankingResource: {
+        primarySource: "Pathoma",
+        chapter: "CNS > Demyelinating Disorders",
+        alternatives: [
+            { "resource": "BandB", "chapter": "Neurology > Demyelinating > MS" },
+            { "resource": "FirstAid", "chapter": "Neurology > Pathology > Demyelinating" }
+        ]
+    }
 };
 
 if (typeof window !== 'undefined') {

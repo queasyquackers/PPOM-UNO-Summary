@@ -234,6 +234,24 @@ const L36_CONTENT = {
 *   **Medial**: Tongue ipsilateral, Hemiparesis contralateral
 *   **Lateral (PICA)**: Hoarse, Dysphagia, Ipsi ataxia
 `
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Cranial Nerves > CN VII-XII",
+        alternatives: [
+            { "resource": "FirstAid", "chapter": "Neurology > Anatomy > Cranial Nerves" },
+            { "resource": "Physeo", "chapter": "Neuroanatomy > Cranial Nerves" }
+        ]
+    }
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Cranial Nerves > CN VII-XII",
+        alternatives: [
+            { "resource": "FirstAid", "chapter": "Neurology > Anatomy > Cranial Nerves" },
+            { "resource": "Physeo", "chapter": "Neuroanatomy > Cranial Nerves" }
+        ]
+    }
 };
 
 if (typeof window !== 'undefined') {

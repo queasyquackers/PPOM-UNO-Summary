@@ -167,6 +167,24 @@ const L26_CONTENT = {
 ### Neck
 *   **CN XI**: Shrug (Trap), Turn (SCM).
 `
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Clinical Neurology > The Neurological Exam",
+        alternatives: [
+            { "resource": "FirstAid", "chapter": "Neurology > Anatomy > Cranial Nerves" },
+            { "resource": "Pathoma", "chapter": "Nervous System > Introduction" }
+        ]
+    }
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Clinical Neurology > The Neurological Exam",
+        alternatives: [
+            { "resource": "FirstAid", "chapter": "Neurology > Anatomy > Cranial Nerves" },
+            { "resource": "Pathoma", "chapter": "Nervous System > Introduction" }
+        ]
+    }
 };
 
 if (typeof window !== 'undefined') {

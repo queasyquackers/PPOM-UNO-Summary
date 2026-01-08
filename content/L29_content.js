@@ -169,6 +169,22 @@ const L29_CONTENT = {
 *   **Heterotopia**: Stuck neurons. Seizures.
 *   **Holoprosencephaly**: Single hemisphere.
 `
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Embryology > Brain Development",
+        alternatives: [
+            { "resource": "FirstAid", "chapter": "Neurology > Embryology" }
+        ]
+    }
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Embryology > Brain Development",
+        alternatives: [
+            { "resource": "FirstAid", "chapter": "Neurology > Embryology" }
+        ]
+    }
 };
 
 if (typeof window !== 'undefined') {

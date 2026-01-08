@@ -187,6 +187,22 @@ const L38_CONTENT = {
 *   **Palpate**: ILA, sulci, base
 *   **Apply L5 rules**: Correlate all findings
 `
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Musculoskeletal > Spine",
+        alternatives: [
+            { "resource": "FirstAid", "chapter": "Musculoskeletal > Pathology" }
+        ]
+    }
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Musculoskeletal > Spine",
+        alternatives: [
+            { "resource": "FirstAid", "chapter": "Musculoskeletal > Pathology" }
+        ]
+    }
 };
 
 if (typeof window !== 'undefined') {

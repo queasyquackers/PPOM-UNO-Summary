@@ -172,6 +172,24 @@ Reference from Medial to Lateral: "Don't Eat Greasy Foods"
 *   **Vermis Lesion**: Truncal Ataxia (Alcohol)
 *   **Hemisphere Lesion**: Limb Ataxia (Ipsilateral)
 `
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Motor Systems > Cerebellum",
+        alternatives: [
+            { "resource": "FirstAid", "chapter": "Neurology > Anatomy > Cerebellum" },
+            { "resource": "Physeo", "chapter": "Neuroanatomy > Cerebellum" }
+        ]
+    }
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Motor Systems > Cerebellum",
+        alternatives: [
+            { "resource": "FirstAid", "chapter": "Neurology > Anatomy > Cerebellum" },
+            { "resource": "Physeo", "chapter": "Neuroanatomy > Cerebellum" }
+        ]
+    }
 };
 
 if (typeof window !== 'undefined') {

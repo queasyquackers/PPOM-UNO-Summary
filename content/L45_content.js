@@ -258,6 +258,22 @@ const L45_CONTENT = {
 *   **Parasympathetic**: EW → Pupil constriction
 *   **Lesion**: Ptosis, lateral strabismus, pupil dilation
 `
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Integration",
+        alternatives: [
+            { "resource": "FirstAid", "chapter": "Neurology > Systems" }
+        ]
+    }
+,
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Integration",
+        alternatives: [
+            { "resource": "FirstAid", "chapter": "Neurology > Systems" }
+        ]
+    }
 };
 
 if (typeof window !== 'undefined') {

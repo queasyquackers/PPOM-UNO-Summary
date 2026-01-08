@@ -269,6 +269,24 @@ const L39_CONTENT = {
 *   **Mask hypoglycemia**
 *   **Rebound on withdrawal** (taper!)
 `
+,
+    ankingResource: {
+        primarySource: "SketchyPharm",
+        chapter: "Autonomic Drugs > Adrenergic Antagonists",
+        alternatives: [
+            { "resource": "BandB", "chapter": "Pharmacology > Autonomic > Adrenergic Antagonists" },
+            { "resource": "Pixorize", "chapter": "Autonomic Drugs > Antagonists" }
+        ]
+    }
+,
+    ankingResource: {
+        primarySource: "SketchyPharm",
+        chapter: "Autonomic Drugs > Adrenergic Antagonists",
+        alternatives: [
+            { "resource": "BandB", "chapter": "Pharmacology > Autonomic > Adrenergic Antagonists" },
+            { "resource": "Pixorize", "chapter": "Autonomic Drugs > Antagonists" }
+        ]
+    }
 };
 
 if (typeof window !== 'undefined') {
