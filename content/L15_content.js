@@ -1,176 +1,236 @@
-const L15_CONTENT = {
-    id: 'l15',
-    title: 'Lecture #15: General Sensory System',
-    lecturer: 'J. Xie, Ph.D.',
-    module: 'Neuroanatomy',
-    session: 'Lecture #15',
-    prev: 'l14',
-    next: 'l16',
-    pdf: 'pdfs/Lecture # 15. J. Xie, Ph.D. (PPT)-1.pdf',
-    transcript: 'transcripts/Lecture #15_ General Sensory System Faculty_ J. Xie, Ph.D..srt',
-    ankingResource: {
-        primarySource: 'BandB',
-        chapter: 'Neurology > Somatosensory Systems'
-    },
+export const L15_CONTENT = {
+    id: "l15",
     summary: `
-# Lecture #15: General Sensory System
+# Lecture 15: General Sensory Systems
 
 **Lecturer:** J. Xie, Ph.D.
-**Session:** Neuroanatomy
+**Session:** Lecture 15
 
-## 1. Sensory Receptors & Fibers
-### Fiber Types (Slides 6-8)
-*   **A-beta:** Large, Myelinated, Fast. Touch/Proprioception.
-*   **A-delta:** Small, Myelinated. Sharp Pain/Temp (First pain).
-*   **C-fibers:** Unmyelinated, Slow. Dull/Aching Pain (Second pain), Itch.
+## 1. Sensory Receptors & Fibers (Slide 5-13)
 
-### Receptors (Slides 11-16)
-*   **Meissner's:** Light touch, Fast adapting (Slip/Grip). Glabrous skin.
-*   **Merkel's:** Static pressure, Slow adapting (Textured/Shapes).
-*   **Pacinian:** Vibration, Fast adapting.
-*   **Ruffini:** Stretch, Slow adapting.
-*   **Proprioceptors:**
-    *   *Muscle Spindle:* Muscle length.
-    *   *Golgi Tendon Organ:* Muscle tension (Force).
+### Fiber Types
+*   **A-beta (Aβ):** Large, Myelinated. Fast (30-70 m/s). Carries **Touch, Vibration, Proprioception**.
+*   **A-delta (Aδ):** Small, Myelinated. Medium speed. Carries **Sharp Pain (First Pain), Cold**.
+*   **C fibers:** Unmyelinated. Slow (0.5-2 m/s). Carries **Dull/Burning Pain (Second Pain), Warmth, Itch**.
 
-## 2. Ascending Pathways
-### Dorsal Column-Medial Lemniscus (DCML) (Slide 30)
-*   **Function:** Vibration, Proprioception, Discriminative Touch.
-*   **1st Order:** DRG. Ascend in Dorsal Columns (Gracilis=Legs, Cuneatus=Arms).
-*   **2nd Order:** Nucleus Gracilis/Cuneatus (Medulla). **Decussate** as Internal Arcuate Fibers -> Medial Lemniscus.
-*   **3rd Order:** VPL (Thalamus) -> Cortex.
+### Mechanoreceptors (Touch)
+*   **Meissner's Corpuscle:** Fast adapting, Small field. **Light Touch/Grip**. Glabrous skin.
+*   **Merkel Disc:** Slow adapting, Small field. **Static Pressure/Texture** (Braille).
+*   **Pacinian Corpuscle:** Fast adapting, Large field. **Vibration**.
+*   **Ruffini Ending:** Slow adapting, Large field. **Skin Stretch** (Grip shape).
 
-### Spinothalamic Tract (STT) (Slide 29)
-*   **Function:** Pain, Temperature, Crude Touch.
-*   **1st Order:** DRG. Synapse immediately in Dorsal Horn (Lissauer's tract).
-*   **2nd Order:** Dorsal Horn (Nucleus Proprius). **Decussate** immediately via Anterior White Commissure -> Ascend in Anterolateral system.
-*   **3rd Order:** VPL (Thalamus) -> Cortex.
+## 2. Ascending Pathways (Slide 26-30)
 
-### Trigeminal System (Slides 31-33)
-*   **Main Sensory Nucleus:** Touch/Proprioception (Face) -> VPM.
-*   **Spinal Trigeminal Nucleus:** Pain/Temp (Face) -> VPM.
-*   **Mesencephalic Nucleus:** Proprioception (Jaw Jerk).
+### Dorsal Column-Medial Lemniscus (DCML)
+Carries **Fine Touch, Vibration, Proprioception** from the body.
+1.  **1st Order:** DRG. Ascend in **Dorsal Columns** (Gracilis=Lower, Cuneatus=Upper).
+2.  **2nd Order:** Nucleus Gracilis/Cuneatus (Medulla). **Decussate** as Internal Arcuate Fibers to form **Medial Lemniscus**.
+3.  **3rd Order:** VPL Nucleus (Thalamus) $\\to$ Primary Somatosensory Cortex (S1).
 
-## 3. Clinical Correlates
+### Spinothalamic Tract (Anterolateral System)
+Carries **Pain, Temperature, Crude Touch**.
+1.  **1st Order:** DRG. Synapse in Dorsal Horn (Substantia Gelatinosa).
+2.  **2nd Order:** Dorsal Horn. **Decussate immediately** in Anterior White Commissure. Ascend in anterolateral funiculus.
+3.  **3rd Order:** VPL Nucleus (Thalamus) $\\to$ S1 Cortex.
+
+## 3. Trigeminal System (Face) (Slide 31-33)
+*   **Touch/Proprioception:** Trigeminal Ganglion $\\to$ **Principal Sensory Nucleus** (Pons) $\\to$ Decussate $\\to$ VPM.
+*   **Pain/Temp:** Trigeminal Ganglion $\\to$ Descend to **Spinal Trigeminal Nucleus** (Medulla) $\\to$ Decussate $\\to$ VPM.
+*   **Proprioception (Jaw):** **Mesencephalic Nucleus** (Midbrain) - UNIQUE (Cell bodies inside CNS).
+
+## 4. Clinical Correlates (Slide 38-43)
+
 :::correlate
 **Brown-Séquard Syndrome**
-*   **Lesion:** Hemisection of Spinal Cord.
+*   **Pathology:** Hemisection of the spinal cord (e.g., stabbing/trauma).
 *   **Presentation:**
-    *   *Ipsilateral:* Loss of Motor (Corticospinal) & Vibration/Proprioception (DCML) below lesion.
-    *   *Contralateral:* Loss of Pain/Temp (Spinothalamic) starting 1-2 levels below lesion.
+    *   **Ipsilateral:** Loss of **Motor** (Corticospinal) and **Touch/Vibration/Proprioception** (DCML) below lesion.
+    *   **Contralateral:** Loss of **Pain/Temperature** (Spinothalamic) 1-2 segments below lesion (due to Lissanuer's tract ascent before crossing).
 :::
 
 :::correlate
-**Thalamic Pain Syndrome**
-*   **Lesion:** VPL/VPM of Thalamus (usually PCA stroke).
-*   **Presentation:** Contralateral hemianesthesia followed by severe, burning pain (hyperalgesia) on the affected side.
+**Phantom Limb Pain**
+*   **Pathology:** Cortical reorganization after amputation.
+*   **Mechanism:** The cortical area for the amputated limb (e.g., arm) loses input and is invaded by adjacent areas (e.g., Face). Touching the face is perceived as touching the missing arm.
+*   **Nature:** Often burning/painful, resistant to meds.
 :::
 
 :::correlate
-**Phantom Limb Pain (Slide 38)**
-*   **Mechanism:** Cortical reorganization (neuroplasticity). Face area of homunculus invades the hand area after amputation.
-*   **Clinical:** Sensation/Pain in missing limb.
+**Thalamic Lesion (Dejerine-Roussy)**
+*   **Lesion:** VPL/VPM.
+*   **Presentation:** Contralateral Hemianesthesia (loss of all sensation). Later develops into severe, burning pain (**Thalamic Pain Syndrome**).
 :::
+
+## 5. Pain Modulation (Slide 18-20)
+*   **Gate Control Theory:** Aβ fibers (rubbing) activate inhibitory interneurons in the dorsal horn, blocking C fiber (pain) transmission.
+*   **Descending Pathway:** PAG $\\to$ RVM $\\to$ Dorsal Horn (Inhibits pain via Serotonin/NE).
 `,
+    pearls: [
+        {
+            title: "DCML vs STT Decussation",
+            content: "**DCML** crosses in the **Medulla** (Internal Arcuate Fibers).\\n**Spinothalamic** crosses in the **Spinal Cord** (Anterior White Commissure)."
+        },
+        {
+            title: "VPL vs VPM",
+            content: "**VPL** = **L**egs/Body (Body sensation).\\n**VPM** = **M**akeup/Face (Face sensation)."
+        },
+        {
+            title: "Fiber Speed Rule",
+            content: "**A-beta (Touch)** > **A-delta (Fast Pain)** > **C (Slow Pain)**. Myelination and diameter determine speed."
+        },
+        {
+            title: "Brown-Séquard Deficits",
+            content: "Ipsilateral Motor & Touch. Contralateral Pain & Temp."
+        },
+        {
+            title: "Phantom Limb Mechanism",
+            content: "Maladaptive **Cortical Reorganization** (Neuroplasticity) where face area invades hand area."
+        }
+    ],
     questions: [
         {
-            question: "**1. A patient presents with loss of pain and temperature sensation in the right leg and loss of vibration and proprioception in the left leg. Where is the most likely lesion?**",
+            question: "A patient cannot feel temperature or sharp pain in their right leg, but vibration sense is intact. Where is the lesion most likely located?",
             options: [
-                "Right Spinal Cord",
-                "Left Spinal Cord",
-                "Right Medulla",
-                "Left Medulla",
-                "Midbrain"
+                "Right Fasciculus Gracilis",
+                "Left Spinothalamic Tract",
+                "Right Spinothalamic Tract",
+                "Left Medial Lemniscus",
+                "Right Dorsal Horn"
             ],
-            correctAnswer: 1,
-            rationale: "This is **Brown-Séquard Syndrome** (Hemicord lesion). DCML (Vib/Prop) stays ipsilateral until Medulla. STT (Pain/Temp) crosses immediately. Therefore, a **Left** spinal cord lesion causes Ipsilateral (Left) DCML loss and Contralateral (Right) STT loss."
+            answer: 1,
+            explanation: "Pain/Temp from the **Right** leg travels to the left side of the spinal cord immediately. A lesion in the **Left Spinothalamic Tract** causes loss of pain/temp on the **Right** side."
         },
         {
-            question: "**2. Which receptor type is primarily responsible for detecting deep vibration and high-frequency stimuli?**",
+            question: "Which receptor is responsible for sensing vibration?",
             options: [
-                "Merkel Discs",
-                "Meissner Corpuscles",
-                "Pacinian Corpuscles",
-                "Ruffini Endings",
-                "Free Nerve Endings"
+                "Merkel Disc",
+                "Meissner Corpuscle",
+                "Pacinian Corpuscle",
+                "Ruffini Ending",
+                "Free Nerve Ending"
             ],
-            correctAnswer: 2,
-            rationale: "**Pacinian Corpuscles** are fast-adapting receptors located deep in the dermis/subQ responding to high-frequency vibration."
+            answer: 2,
+            explanation: "**Pacinian Corpuscles** are rapidly adapting and specialized for sensing **Vibration**."
         },
         {
-            question: "**3. A lesion of the Medial Lemniscus in the midbrain would result in which sensory deficit?**",
+            question: "A hemisection of the spinal cord at T10 on the left side (Brown-Séquard) would result in:",
             options: [
-                "Contralateral Pain/Temp",
-                "Ipsilateral Pain/Temp",
-                "Contralateral Vibration/Proprioception",
-                "Ipsilateral Vibration/Proprioception",
-                "Bilateral Touch loss"
+                "Loss of pain/temp on the left leg",
+                "Loss of vibration/proprioception on the right leg",
+                "Loss of motor function on the right leg",
+                "Loss of pain/temp on the right leg",
+                "Bilateral loss of all sensation"
             ],
-            correctAnswer: 2,
-            rationale: "The **Medial Lemniscus** carries DCML fibers *after* they have decussated in the medulla. Thus, a midbrain lesion affects the **Contralateral** side of the body."
+            answer: 3,
+            explanation: "Hemisection on the **Left** causes **Contralateral (Right)** loss of Pain/Temp (STT crosses immediately) and **Ipsilateral (Left)** loss of Touch/Motor."
         },
         {
-            question: "**4. The cell bodies for the first-order neurons conveying proprioception from the masseter muscle (Jaw Jerk Reflex) are located in the:**",
+            question: "The cell bodies of the primary afferent neurons for the face (Trigeminal) are located in the:",
             options: [
+                "Dorsal Root Ganglion",
                 "Trigeminal Ganglion",
-                "Mesencephalic Nucleus",
-                "Chief Sensory Nucleus",
+                "Principal Sensory Nucleus",
                 "Spinal Trigeminal Nucleus",
-                "Motor Nucleus of V"
+                "VPM Nucleus"
             ],
-            correctAnswer: 1,
-            rationale: "Unique exception: First-order proprioceptive neurons for the jaw are located inside the CNS in the **Mesencephalic Nucleus**, not in a peripheral ganglion."
+            answer: 1,
+            explanation: "Primary sensory neurons for the face are in the **Trigeminal (Gasserian) Ganglion**."
         },
         {
-            question: "**5. Which fibers are unmyelinated and responsible for slow, burning pain?**",
+            question: "Which fibers carry 'slow, burning' pain?",
             options: [
                 "A-alpha",
                 "A-beta",
                 "A-delta",
-                "C fibers",
-                "Ia fibers"
+                "B fibers",
+                "C fibers"
             ],
-            correctAnswer: 3,
-            rationale: "**C fibers** are small, unmyelinated, and conduct slowly transmitting dull, aching, or burning pain."
+            answer: 4,
+            explanation: "**C fibers** are unmyelinated and slow conducting, responsible for the delayed, dull, burning 'second pain'."
         }
     ],
     flashcards: [
-        { "front": "Pathway for Vibration/Proprioception?", "back": "Dorsal Column-Medial Lemniscus (DCML)", "tag": "Neuro" },
-        { "front": "Pathway for Pain/Temperature?", "back": "Spinothalamic Tract (STT)", "tag": "Neuro" },
-        { "front": "Where does DCML decussate?", "back": "Lower Medulla (Internal Arcuate Fibers)", "tag": "Neuro" },
-        { "front": "Where does STT decussate?", "back": "Spinal Cord (Anterior White Commissure)", "tag": "Neuro" },
-        { "front": "Thalamic nucleus for Body sensation?", "back": "VPL", "tag": "Neuro" },
-        { "front": "Thalamic nucleus for Face sensation?", "back": "VPM", "tag": "Neuro" },
-        { "front": "Brown-Sequard: Motor deficit side?", "back": "Ipsilateral", "tag": "Clinical" },
-        { "front": "Brown-Sequard: Pain/Temp deficit side?", "back": "Contralateral", "tag": "Clinical" },
-        { "front": "Receptor for Vibration?", "back": "Pacinian Corpuscle", "tag": "Neuro" },
-        { "front": "Primary cortex for somatosensation?", "back": "Postcentral Gyrus (Parietal Lobe)", "tag": "Neuro" }
+        {
+            front: "Pathway for Fine Touch and Proprioception",
+            back: "Dorsal Column-Medial Lemniscus (DCML)",
+            tag: "Neuroanatomy"
+        },
+        {
+            front: "Pathway for Pain and Temperature",
+            back: "Spinothalamic Tract (Anterolateral System)",
+            tag: "Neuroanatomy"
+        },
+        {
+            front: "Where does DCML decussate?",
+            back: "Medulla (Internal Arcuate Fibers)",
+            tag: "Neuroanatomy"
+        },
+        {
+            front: "Where does Spinothalamic Tract decussate?",
+            back: "Spinal Cord (Anterior White Commissure)",
+            tag: "Neuroanatomy"
+        },
+        {
+            front: "Function of Pacinian Corpuscle",
+            back: "Vibration",
+            tag: "Physiology"
+        },
+        {
+            front: "Function of A-delta fibers",
+            back: "Fast, Sharp Pain (Cold)",
+            tag: "Physiology"
+        },
+        {
+            front: "Function of C fibers",
+            back: "Slow, Dull Pain (Warmth/Itch)",
+            tag: "Physiology"
+        },
+        {
+            front: "Brown-Séquard: Contralateral Deficit",
+            back: "Pain and Temperature (STT)",
+            tag: "Pathology"
+        },
+        {
+            front: "Brown-Séquard: Ipsilateral Deficit",
+            back: "Motor (CS) & Vibration/Proprioception (DCML)",
+            tag: "Pathology"
+        },
+        {
+            front: "Thalamic Nucleus for Body Sensation",
+            back: "VPL",
+            tag: "Neuroanatomy"
+        }
     ],
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > Spinal Cord > Spinal Cord Tracts",
+        alternatives: [
+            { resource: "FirstAid", chapter: "Neurology > Anatomy > Spinal Cord" },
+            { resource: "Pathoma", chapter: "CNS" }
+        ]
+    },
     mindmap: `
-## Somatosensory System
-### Receptors
-*   **Meissner**: Light Touch (Fast)
-*   **Merkel**: Pressure (Slow)
-*   **Pacinian**: Vibration
-*   **Ruffini**: Stretch
-*   **Free Nerve**: Pain/Temp
-### DCML (Touch/Vib)
-*   **1st**: DRG (Gracilis/Cuneatus)
-*   **2nd**: Nucleus Gracilis/Cuneatus (Medulla) -> Decussate
-*   **3rd**: VPL -> Cortex
-### Spinothalamic (Pain/Temp)
-*   **1st**: DRG -> Lissauer
-*   **2nd**: Dorsal Horn -> Decussate (AWC)
-*   **3rd**: VPL -> Cortex
-### Trigeminal (Face)
-*   **Touch**: Chief Nucleus -> VPM
-*   **Pain**: Spinal Nucleus -> VPM
-### Lesions
-*   **Brown-Sequard**: Hemicord (Ipsi Motor/Touch, Contra Pain)
-*   **Tabes Dorsalis**: Dorsal Columns (Loss of Vib/Prop)
-`
-};
+## General Sensory Systems
 
-if (typeof window !== 'undefined') {
-    window.L15_CONTENT = L15_CONTENT;
-}
+### Receptors
+*   **Mechanoreceptors**
+    *   **Meissner**: Light Touch (Grip)
+    *   **Merkel**: Pressure (Texture)
+    *   **Pacinian**: Vibration
+    *   **Ruffini**: Stretch
+*   **Nociceptors**
+    *   **A-delta**: Fast pain
+    *   **C fibers**: Slow pain
+
+### Pathways
+*   **DCML** (Touch/Proprio)
+    *   DRG -> Dorsal Cols -> Medulla (Cross) -> ML -> VPL
+*   **Spinothalamic** (Pain/Temp)
+    *   DRG -> Dorsal Horn -> Cord (Cross) -> ALS -> VPL
+
+### Clinical
+*   **Brown-Sequard**: Hemicord lesion
+*   **Phantom Limb**: Cortical reorganization
+*   **Thalamic Syndrome**: VPL stroke (Pain)
+\`
+};

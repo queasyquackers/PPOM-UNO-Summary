@@ -1,112 +1,117 @@
-const L26_CONTENT = {
-    id: 'l26',
-    title: 'Lecture #26: DPR Neuro Exam Part 1',
-    lecturer: 'R. Morgan, D.O.',
-    module: 'DPR',
-    session: 'Lecture #26',
-    prev: 'l25',
-    next: 'l27',
-    pdf: 'pdfs/Lecture # 26. R. Morgan, D.O. (PPT).pdf',
-    transcript: 'transcripts/Lecture #26_ DPR_ Neurologic Exam Part 1_ Mental Status, Cranial Nerves and the Eye Examination Faculty_ R. Morgan, D.O..srt',
+export const L26_CONTENT = {
+    id: "l26",
     summary: `
-# Lecture #26: DPR Neuro Exam Part 1
+# Lecture 26: Neurologic Exam Part 1 - Cranial Nerves & Mental Status
 
-**Lecturer:** R. Morgan, D.O.
-**Session:** DPR (Doctor-Patient Relationship)
+**Lecturer:** L. Mark, D.O.
+**Session:** Lecture 26
 
-## 1. Mental Status Exam (MSE)
-*   **Components:** Appearance, Behavior, Speech, Mood, Affect, Cognition, Thought Process.
-*   **Orientation:** Person, Place, Time (Alert & Oriented x3).
+## 1. Mental Status & History
+*   **Mental Status Exam:** Appearance, Behavior, Speech, Mood, Cognition.
 *   **Glasgow Coma Scale (GCS):**
-    *   **Eye Opening (4):** Spontaneous(4), Voice(3), Pain(2), None(1).
-    *   **Verbal (5):** Oriented(5), Confused(4), Inappropriate(3), Sounds(2), None(1).
-    *   **Motor (6):** Obeys(6), Localizes(5), Withdraws(4), Flexion/Decorticate(3), Extension/Decerebrate(2), None(1).
-    *   *Max:* 15. *Coma:* <= 8.
+    *   **Score:** 3 (Coma) to 15 (Normal).
+    *   **Components:** **E**ye opening, **V**erbal response, **M**otor response. ("EVM-456").
 
-## 2. Cranial Nerve Exam
+## 2. Cranial Nerve Examination
 ### CN I (Olfactory)
-*   Test each nostril with non-irritating scent (coffee, vanilla).
-*   Typically deferred unless specific complaint.
+*   **Test:** Smell (Coffee, Cloves) one nostril at a time.
+*   **Deficit:** Anosmia. (DDx: COVID-19, Kallmann Syndrome, Trauma).
 
 ### CN II (Optic)
 *   **Visual Acuity:** Snellen Chart (20/20).
-*   **Visual Fields:** Confrontation test.
-*   **Fundoscopy:** Check red reflex, optic disc (sharp margins), papilledema.
+*   **Visual Fields:** Confrontation test (Static finger wiggle). detects Hemianopsia.
+*   **Fundoscopy:**
+    *   *Red Reflex:* Orange glow.
+    *   *Optic Disc:* Check for Papilledema (blurred margins) or Cupping (Glaucoma).
 
 ### CN III, IV, VI (Oculomotor, Trochlear, Abducens)
-*   **Pupils:** Size, Shape, Direct/Consensual Reflex (CN II afferent, CN III efferent).
-*   **H-Test:** Extraocular Movements (EOM).
-    *   *LR6:* Lateral Rectus (CN VI).
-    *   *SO4:* Superior Oblique (CN IV).
-    *   *Rest:* CN III.
-*   **Ptosis:** Check eyelids.
+*   **Pupils (CN III):**
+    *   *Direct:* Constriction in illuminated eye.
+    *   *Consensual:* Constriction in opposite eye.
+    *   *Near Triad:* Convergence, Constriction, Accommodation.
+*   **EOM:** H-Pattern.
+    *   *CN VI Deficit:* Eye cannot look out (Lateral deviation failure).
+    *   *CN III Deficit:* Eye is "Down and Out" + Ptosis + Dilated Pupil.
 
 ### CN V (Trigeminal)
-*   **Sensory:** Light touch (V1, V2, V3).
-*   **Motor:** Clench teeth (Temporalis, Masseter).
-*   **Reflex:** Corneal Reflex (V1 Afferent, VII Efferent).
+*   **Sensory:** V1 (Opthalmic), V2 (Maxillary), V3 (Mandibular) - Pinprick/Light touch.
+*   **Motor:** Muscles of Mastication (Temporalis/Masseter clench).
+*   **Corneal Reflex:** **Afferent V1** (Senses touch) $\\to$ **Efferent VII** (Blink).
 
 ### CN VII (Facial)
-*   **Motor:** Raise eyebrows, Frown, Close eyes tightly, Show teeth, Puff cheeks.
-*   **Sensory:** Taste anterior 2/3 tongue.
-*   **Lesion:**
-    *   *Bell's Palsy (LMN):* Whole half of face paralyzed.
-    *   *Stroke (UMN):* Forehead spared (can wrinkle forehead).
+*   **Motor:** Facial expression (Smile, Frown, Puff cheeks, Close eyes tight).
+    *   *Central Lesion (Stroke):* Spares forehead.
+    *   *Peripheral Lesion (Bell's Palsy):* Affects entire half of face (Forehead + Lower).
+*   **Sensory:** Taste Anterior 2/3.
 
 ### CN VIII (Vestibulocochlear)
 *   **Gross Hearing:** Whisper test / Finger rub.
-*   **Weber/Rinne:** If indicated.
+*   **Weber Test:** Tuning fork on vertex.
+    *   *Lateralizes to BAD ear:* Conductive Loss.
+    *   *Lateralizes to GOOD ear:* Sensorineural Loss.
+*   **Rinne Test:** Mastoid (BC) vs. Air (AC).
+    *   *AC > BC:* Normal or Sensorineural.
+    *   *BC > AC:* Conductive Loss.
 
 ### CN IX, X (Glossopharyngeal, Vagus)
-*   **Palate:** "Say Ahh". Uvula deviates **AWAY** from lesion.
-*   **Gag Reflex:** Touch posterior pharynx.
+*   **Palate:** Say "Ah". Uvula deviates **AWAY** from lesion.
+*   **Gag Reflex:** Sensory IX, Motor X.
 
 ### CN XI (Accessory)
-*   **Motor:** Shoulder shrug (Trapezius) and Head turn (SCM) against resistance.
+*   **Motor:** Shrug shoulders (Trapezius), Turn head (SCM).
 
 ### CN XII (Hypoglossal)
-*   **Motor:** Stick out tongue. Deviates **TOWARDS** lesion ("Lick your wounds").
-
-## 3. Clinical Correlates
-:::correlate
-**CN XII Lesion**
-*   **Sign:** Tongue deviation.
-*   **Rule:** Tongue points **TOWARDS** the side of the lesion (weak side).
-:::
-
-:::correlate
-**CN X Lesion**
-*   **Sign:** Uvula deviation.
-*   **Rule:** Uvula points **AWAY** from the side of the lesion (strong side pulls it).
-:::
+*   **Motor:** Protrude tongue. Tongue deviates **TOWARDS** lesion ("Licks the lesion").
 `,
-    questions: [
+    pearls: [
         {
-            question: "**1. During the H-test for extraocular movements, the patient is unable to look laterally (abduct) with their right eye. Which nerve is affected?**",
-            options: [
-                "CN III",
-                "CN IV",
-                "CN VI",
-                "CN II",
-                "CN VII"
-            ],
-            correctAnswer: 2,
-            rationale: "The **Lateral Rectus** muscle performs abduction and is innervated by **CN VI (Abducens)**."
+            title: "Tongue Deviation",
+            content: "CN XII Lesion: Tongue deviates **TOWARDS** the side of the lesion ('Licks the lesion')."
         },
         {
-            question: "**2. A patient sticks out their tongue and it deviates to the LEFT. Where is the lesion?**",
+            title: "Uvula Deviation",
+            content: "CN X Lesion: Uvula deviates **AWAY** from the side of the lesion (pulled by the strong side)."
+        },
+        {
+            title: "Corneal Reflex",
+            content: "**Afferent:** CN V1 (Sensation).\\n**Efferent:** CN VII (Blink)."
+        },
+        {
+            title: "Rinne Interpretation",
+            content: "**BC > AC** = Conductive Hearing Loss (Abnormal).\\n**AC > BC** = Normal (or Sensorineural)."
+        },
+        {
+            title: "GCS Scoring",
+            content: "**EVM-456**.\\nEyes (4), Verbal (5), Motor (6).\\nMax 15, Min 3."
+        }
+    ],
+    questions: [
+        {
+            question: "A patient presents with right-sided hearing loss. Weber test lateralizes to the RIGHT ear. Rinne test shows Bone Conduction > Air Conduction on the right. What is the diagnosis?",
+            options: [
+                "Right Sensorineural Hearing Loss",
+                "Right Conductive Hearing Loss",
+                "Left Sensorineural Hearing Loss",
+                "Left Conductive Hearing Loss",
+                "Normal Hearing"
+            ],
+            answer: 1,
+            explanation: "Weber lateralizing to the affected (bad) ear + Rinne BC > AC indicates a **Conductive Hearing Loss** in that ear."
+        },
+        {
+            question: "On physical exam, a patient's tongue deviates to the LEFT when protruded. Which cranial nerve is lesioned?",
             options: [
                 "Right CN XII",
                 "Left CN XII",
                 "Right CN X",
                 "Left CN X",
-                "Left CN VII"
+                "Left CN IX"
             ],
-            correctAnswer: 1,
-            rationale: "The tongue deviates **TOWARDS** the side of the lesion. A left deviation indicates a **Left CN XII** palsy."
+            answer: 1,
+            explanation: "The tongue deviates **towards** the side of the CN XII lesion (weak side). Left deviation = **Left CN XII** lesion."
         },
         {
-            question: "**3. When the patient says 'Ahhh', the uvula deviates to the RIGHT. This indicates a lesion of:**",
+            question: "When asking a patient to say 'Ah', the uvula deviates to the RIGHT. This suggests a lesion of which cranial nerve?",
             options: [
                 "Right CN X",
                 "Left CN X",
@@ -114,79 +119,109 @@ const L26_CONTENT = {
                 "Left CN IX",
                 "Right CN XII"
             ],
-            correctAnswer: 1,
-            rationale: "The uvula deviates **AWAY** from the lesion. Deviation to the right means the **Left** side is weak (Left CN X)."
+            answer: 1,
+            explanation: "The uvula deviates **away** from the CN X lesion (pulled by the intact strong side). Right deviation = **Left CN X** lesion."
         },
         {
-            question: "**4. Which finding distinguishes a peripheral CN VII lesion (Bell's Palsy) from a central stroke?**",
+            question: "Which component of the corneal reflex is carried by the Facial Nerve (CN VII)?",
             options: [
-                "Inability to smile",
-                "Inability to puff cheeks",
-                "Inability to close eye",
-                "Inability to wrinkle forehead",
-                "Drooling"
+                "Sensory Afferent (Pain)",
+                "Sensory Afferent (Touch)",
+                "Motor Efferent (Blink)",
+                "Lacrimation only",
+                "None"
             ],
-            correctAnswer: 3,
-            rationale: "In an **UMN lesion (Stroke)**, the forehead is spared (can wrinkle) due to bilateral innervation. In an **LMN lesion (Bell's Palsy)**, the entire half of the face including the forehead is paralyzed."
+            answer: 2,
+            explanation: "CN V1 provides the sensory (Afferent) limb. **CN VII** provides the **Motor (Efferent)** limb to close the eyelid (Orbicularis Oculi)."
         },
         {
-            question: "**5. The corneal reflex tests the integrity of which two cranial nerves?**",
+            question: "A patient has a dilated right pupil that is unresponsive to light, and the right eye is positioned 'down and out'. Which cranial nerve is affected?",
             options: [
-                "CN II and III",
-                "CN III and IV",
-                "CN V and VII",
-                "CN VII and VIII",
-                "CN IX and X"
+                "CN II",
+                "CN III",
+                "CN IV",
+                "CN VI",
+                "CN VII"
             ],
-            correctAnswer: 2,
-            rationale: "The afferent limb (sensation) is **CN V (V1)**, and the efferent limb (blink) is **CN VII**."
+            answer: 1,
+            explanation: "These are classic signs of a **CN III (Oculomotor) Palsy**: Ptosis, Mydriasis (dilation), and Down-and-Out deviation."
         }
     ],
     flashcards: [
-        { "front": "Eye muscle for lateral gaze (Abduction)?", "back": "Lateral Rectus (CN VI)", "tag": "Neuro" },
-        { "front": "Tongue deviates to Left. Lesion?", "back": "Left CN XII", "tag": "Neuro" },
-        { "front": "Uvula deviates to Right. Lesion?", "back": "Left CN X", "tag": "Neuro" },
-        { "front": "Forehead sparing facial droop. Location?", "back": "UMN (Stroke)", "tag": "Neuro" },
-        { "front": "Corneal Reflex Nerves?", "back": "In: CN V1, Out: CN VII", "tag": "Neuro" },
-        { "front": "Gag Reflex Nerves?", "back": "In: CN IX, Out: CN X", "tag": "Neuro" },
-        { "front": "Pupillary Light Reflex Nerves?", "back": "In: CN II, Out: CN III", "tag": "Neuro" },
-        { "front": "How to test CN XI?", "back": "Shoulder Shrug", "tag": "Neuro" },
-        { "front": "Glasgow Coma Scale Max Score?", "back": "15", "tag": "Neuro" }
+        {
+            front: "Tongue Deviation Direction",
+            back: "Towards the Lesion (CN XII)",
+            tag: "Neurology"
+        },
+        {
+            front: "Uvula Deviation Direction",
+            back: "Away from the Lesion (CN X)",
+            tag: "Neurology"
+        },
+        {
+            front: "Corneal Reflex: Afferent Limb",
+            back: "CN V1 (Ophthalmic)",
+            tag: "Neurology"
+        },
+        {
+            front: "Corneal Reflex: Efferent Limb",
+            back: "CN VII (Facial)",
+            tag: "Neurology"
+        },
+        {
+            front: "Rinne Test: Conductive Loss Result",
+            back: "BC > AC (Bone Conduction > Air Conduction)",
+            tag: "Ent"
+        },
+        {
+            front: "CN III Palsy Signs",
+            back: "Down and Out eye, Ptosis, Dilated Pupil",
+            tag: "Neurology"
+        },
+        {
+            front: "Glasgow Coma Scale Components",
+            back: "Eyes (4), Verbal (5), Motor (6)",
+            tag: "Emergency"
+        },
+        {
+            front: "Test for CN XI",
+            back: "Shoulder Shrug (Trapezius) & Head Turn (SCM)",
+            tag: "Neurology"
+        },
+        {
+            front: "CN VII Test",
+            back: "Facial Expressions (Smile, Frown, Puff Cheeks)",
+            tag: "Neurology"
+        },
+        {
+            front: "Weber Test Lateralization: Sensorineural",
+            back: "To the GOOD ear",
+            tag: "Ent"
+        }
     ],
+    ankingResource: {
+        primarySource: "AMBOSS",
+        chapter: "Neurology > Cranial Nerves",
+        alternatives: [
+            { resource: "FirstAid", chapter: "Neurology > Anatomy > Cranial Nerves" },
+            { resource: "BandB", chapter: "Neurology > The Brainstem > Cranial Nerves" }
+        ]
+    },
     mindmap: `
-## Cranial Nerve Exam
-### Eyes
-*   **CN II**: Vision, Fields, Fundoscopy.
-*   **CN III, IV, VI**: Pupils, EOM (H-Test).
-### Face
-*   **CN V**: Sensation (Face), Motor (Jaw).
-*   **CN VII**: Motor (Expression).
-### Bulbar
-*   **CN IX/X**: Palate (Uvula away), Gag.
-*   **CN XII**: Tongue (Towards).
-### Neck
-*   **CN XI**: Shrug (Trap), Turn (SCM).
-`
-,
-    ankingResource: {
-        primarySource: "BandB",
-        chapter: "Neurology > Clinical Neurology > The Neurological Exam",
-        alternatives: [
-            { "resource": "FirstAid", "chapter": "Neurology > Anatomy > Cranial Nerves" },
-            { "resource": "Pathoma", "chapter": "Nervous System > Introduction" }
-        ]
-    }
-,
-    ankingResource: {
-        primarySource: "BandB",
-        chapter: "Neurology > Clinical Neurology > The Neurological Exam",
-        alternatives: [
-            { "resource": "FirstAid", "chapter": "Neurology > Anatomy > Cranial Nerves" },
-            { "resource": "Pathoma", "chapter": "Nervous System > Introduction" }
-        ]
-    }
-};
+## Neurologic Exam
 
-if (typeof window !== 'undefined') {
-    window.L26_CONTENT = L26_CONTENT;
-}
+### Cranial Nerves
+*   **I**: Smell.
+*   **II**: Acuity, Fields, Fundoscopy.
+*   **III, IV, VI**: EOM, Pupils. (III: Down/Out, Dilated).
+*   **V**: Face Sensation, Mastication, Corneal Afferent.
+*   **VII**: Face Motor, Taste, Corneal Efferent.
+*   **VIII**: Hearing (Weber/Rinne).
+*   **IX, X**: Gag, Palate (Uvula Away).
+*   **XI**: Shrug.
+*   **XII**: Tongue (Deviates Towards).
+
+### Mental Status
+*   **GCS**: EVM (4-5-6). Max 15, Min 3.
+\`
+};

@@ -1,210 +1,205 @@
-const L38_CONTENT = {
-    id: 'l38',
-    title: 'Lecture #38: Sacral Diagnosis',
-    lecturer: 'P. Noto, D.O.',
-    module: 'OMM',
-    session: 'Lecture #38',
-    prev: 'l37',
-    next: 'l39',
-    pdf: 'pdfs/Lecture # 38b. P. Noto, D.O. (PPT).pdf',
-    transcript: '',
+export const L38_CONTENT = {
+    id: "l38",
     summary: `
-# Lecture #38: Sacral Diagnosis
+# Lecture 38: OMM Lab 18 - Sacral Diagnosis
 
 **Lecturer:** P. Noto, D.O.
-**Session:** Lecture #38 (OMM Lab #18)
+**Session:** Lecture 38
 
-## Sacral Axes of Rotation
+## 1. Axes of Motion
+*   **Oblique Axes:** Named for the superior pole.
+    *   **Right Oblique Axis:** Runs from **Right Superior** to **Left Inferior** pole.
+    *   **Left Oblique Axis:** Runs from **Left Superior** to **Right Inferior** pole.
+    *   *Usage:* Walking cycle (Torsions).
+*   **Transverse Axes:**
+    *   **Superior (S2):** Respiratory / Craniosacral motion.
+    *   **Middle (S2):** Postural / Flexion-Extension.
+    *   **Inferior (S3):** Innominate rotation (Ilial shear).
 
-### Middle Transverse Axis
-*   **Location:** Through S2, transverse across sacrum.
-*   **Movement:** Sacral flexion/extension during respiration.
-*   **Sacral flexion:** Base moves posterior, apex moves anterior.
-*   **Sacral extension:** Base moves anterior, apex moves posterior.
+## 2. Diagnosing Torsions vs Shears
+*   **L5 Rules:**
+    1.  L5 rotates **OPPOSITE** to the sacrum.
+    2.  L5 sidebends to the **SAME** side as the Oblique Axis.
+    *   *Example:* If L5 is Rotated Right, Sacrum is Rotated Left.
+*   **Seated Flexion Test (SFT):**
+    *   Positive on the side of **Dysfunction** (Blocked motion).
+    *   The axis is on the **Opposite** side of the positive SFT.
+*   **Physiologic (Forward) vs Non-Physiologic (Backward):**
+    *   **Physiologic:** Neutral mechanics (Type I). "Forward" torsions (L on L, R on R).
+        *   **Spring Test:** Negative (It springs / Good motion).
+        *   **Sphinx Test:** Negative (Symmetry improves with extension).
+    *   **Non-Physiologic:** Non-neutral (Type II). "Backward" torsions (L on R, R on L).
+        *   **Spring Test:** Positive (Hard end feel / No spring).
+        *   **Sphinx Test:** Positive (Asymmetry gets worse / Pain).
 
-### Oblique Axis
-*   **Location:** From superior SIJ on one side to inferior SIJ on opposite side.
-*   **Movement:** Sacral torsions and rotations.
-*   **Naming:** Named for movement **ON** axis (reference = anterior sacral body).
-*   **Types:**
-    *   **Left on Left:** Anterior body goes FORWARD.
-    *   **Right on Left:** Anterior body goes BACKWARD.
-*   **Mnemonic:** Imagine eyes on anterior sacrum looking left or right.
+## 3. The 4-Step Diagnosis
+1.  **Seated Flexion Test:** Determines the side of dysfunction (and thus the axis is on the opposite side).
+2.  **Spring/Sphinx:** Determines if it is Forward (Negative) or Backward (Positive).
+3.  **L5:** Confirms rotation.
+4.  **Deep Sulcus / Post ILA:**
+    *   **Forward Torsion:** Deep Sulcus and Posterior/Inf ILA are on **Opposite** sides.
+    *   **Backward Torsion:** Deep Sulcus and Posterior/Inf ILA are on **Opposite** sides.
+    *   *Wait, simplify:*
+    *   **Deep Sulcus** = Side of Forward Rotation (Sacral Base Anterior).
+    *   **Posterior ILA** = Side of Backward Rotation (Sacral Base Posterior).
 
-### Superior Transverse Axis
-*   **Location:** Through S2, at superior aspect.
-*   **Movement:** Bilateral sacral flexion dysfunctions.
-
-### Inferior Transverse Axis
-*   **Location:** Through inferior pole of sacrum.
-*   **Movement:** Unilateral sacral flexions.
-
-## L5 Rules
-
-:::highyield
-**L5 Rules for Sacral Torsions**
-1. **L5 rotated in same direction** as sacral torsion.
-2. **L5 sidebent opposite** to rotation.
-3. Sacral torsion occurs around **oblique axis**.
-4. Axis named for side of **inferior pole**.
-:::
-
-**Example:**
-*   **Left on left torsion:** L5 rotated left, sidebent right, around left oblique axis (left inferior pole).
-
-## Sacral Special Tests
-
-### Lumbar Spring Test
-*   **Purpose:** Differentiate sacral flexion vs extension.
-*   **Technique:** Patient prone, apply posterior-to-anterior pressure on lumbar spinous processes.
-*   **Interpretation:**
-    *   **Normal:** Spring/bounce present.
-    *   **Sacral flexion:** Spring present (ILA posterior).
-    *   **Sacral extension:** No spring (ILA anterior).
-
-### Sphinx Test
-*   **Purpose:** Assess sacral motion during lumbar extension.
-*   **Technique:** Patient prone, props up on elbows (sphinx position).
-*   **Interpretation:**
-    *   **Normal:** Sacral base moves posterior (into flexion).
-    *   **Abnormal:** If sacral base remains anterior or moves anterior → Dysfunction.
-
-### Seated Flexion Test
-*   **Purpose:** Identify side of sacral dysfunction.
-*   **Technique:** Patient seated, bend forward, palpate PSIS movement.
-*   **Positive:** PSIS moves superior first or further = Side of dysfunction.
-
-### Standing Flexion Test
-*   **Purpose:** Assess SI joint motion.
-*   **Technique:** Patient standing, bend forward, palpate PSIS.
-*   **Positive:** PSIS moves superior = SI joint restriction on that side.
-
-## Sacral Diagnosis Integration
-
-:::pearl
-**Diagnostic Approach**
-1. **Palpate sacral landmarks:** ILA, sacral sulci, sacral base.
-2. **Perform special tests:** Lumbar spring, sphinx, seated/standing flexion.
-3. **Assess L5 position:** Rotation and sidebending.
-4. **Apply L5 rules:** Determine oblique axis and torsion direction.
-5. **Confirm diagnosis:** All findings should correlate.
-:::
-
-**Common Diagnoses:**
-*   **Sacral torsions:** Left on left, right on right, left on right, right on left.
-*   **Unilateral sacral flexions:** Left or right.
-*   **Bilateral sacral flexions/extensions.**
+## 4. Specific Diagnoses
+*   **Left on Left (Forward Torsion):**
+    *   Facing Left.
+    *   Axis: Left.
+    *   L5: Rotated Right.
+    *   Spring: Negative (Good).
+*   **Right on Left (Backward Torsion):**
+    *   Facing Right.
+    *   Axis: Left.
+    *   L5: Rotated Left.
+    *   Spring: Positive (Bad).
+*   **Unilateral Shears:**
+    *   Not an axis dysfunction. Whole side is stuck forward or backward.
+    *   SFT + on same side as deep sulcus/low ILA (if flexion) or shallow sulcus/high ILA (if extension).
 
 `,
+    pearls: [
+        {
+            title: "L5 Rule Mnemonic",
+            content: "L5 acts like a **Bully**. If L5 rotates Right, the Sacrum turns away (Left). Sidebending side = Axis side."
+        },
+        {
+            title: "Spring Test Rules",
+            content: "If it Springs, it's a **Functional** (Physiologic/Forward) torsion.\\nIf it's Stiff (Positive), it's a **Stuck** (Non-physiologic/Backward) torsion."
+        },
+        {
+            title: "Naming Torsions",
+            content: "**Rotation on Axis**.\\n**R on R**: Forward (Physiologic).\\n**L on L**: Forward (Physiologic).\\n**R on L**: Backward (Non-Physiologic).\\n**L on R**: Backward (Non-Physiologic).\\n*Hint: Same letters = Forward. Different letters = Backward.*"
+        },
+        {
+            title: "Seated Flexion Test",
+            content: "Finds the side of **ILIOSACRAL** dysfunction. The axis is on the **OPPOSITE** side of the positive test."
+        },
+        {
+            title: "Sphinx Test Logic",
+            content: "Extension (Sphinx) makes a forward sacrum happy (more symmetrical). It makes a backward sacrum sad (more asymmetrical)."
+        }
+    ],
     questions: [
         {
-            question: "**1. In a left on left sacral torsion, how is L5 positioned?**",
+            question: "A patient has a positive Seated Flexion Test on the RIGHT. The Spring Test is NEGATIVE. L5 is Rotated Right. What is the diagnosis?",
             options: [
-                "Rotated left, sidebent left",
-                "Rotated left, sidebent right",
-                "Rotated right, sidebent left",
-                "Rotated right, sidebent right",
-                "No rotation or sidebending"
+                "Right on Right Sacral Torsion",
+                "Left on Left Sacral Torsion",
+                "Right on Left Sacral Torsion",
+                "Left on Right Sacral Torsion",
+                "Right Unilateral Sacral Flexion"
             ],
-            correctAnswer: 1,
-            rationale: "**L5 rules:** In left on left torsion, L5 is **rotated left** (same direction as torsion) and **sidebent right** (opposite to rotation). Torsion occurs around left oblique axis. (Slide 2, L5 rules)"
+            answer: 1,
+            explanation: "**Step 1:** SFT Right (+) $\\to$ Axis is on the **Left**. (So it's ? on Left).\\n**Step 2:** Spring Negative $\\to$ Forward Torsion (L on L).\\n**Check:** Forward torsions have SAME letters. L on L fits."
         },
         {
-            question: "**2. During the sphinx test, what indicates normal sacral motion?**",
+            question: "Which of the following findings is consistent with a 'Non-Physiologic' (Backward) Sacral Torsion?",
             options: [
-                "Sacral base moves anterior",
-                "Sacral base moves posterior (flexion)",
-                "Sacral base remains stationary",
-                "ILA moves anterior",
-                "No change in sacral position"
+                "Negative Sphinx Test",
+                "Negative Spring Test",
+                "Positive Spring Test",
+                "L5 Rotated opposite to Sacrum",
+                "Symmetrical Sacral Sulci"
             ],
-            correctAnswer: 1,
-            rationale: "**Sphinx test:** When patient props up on elbows (lumbar extension), normal sacral motion is for the **sacral base to move posterior** (into flexion). Abnormal if base remains or moves anterior. (Slide on Sphinx test)"
+            answer: 2,
+            explanation: "**Positive Spring Test** (Hard/Stiff) indicates the sacral base is stuck backward (Posterior), which is a non-physiologic backward torsion."
         },
         {
-            question: "**3. The middle transverse axis of the sacrum is involved in:**",
+            question: "In a Right on Right sacral torsion, L5 will be:",
             options: [
-                "Sacral torsions",
-                "Sacral flexion/extension during respiration",
-                "Unilateral sacral flexions",
-                "Oblique axis rotations",
-                "L5 sidebending"
+                "Rotated Left, Sidebent Left",
+                "Rotated Left, Sidebent Right",
+                "Rotated Right, Sidebent Right",
+                "Rotated Right, Sidebent Left",
+                "Neutral"
             ],
-            correctAnswer: 1,
-            rationale: "**Middle transverse axis** (through S2) is for **sacral flexion/extension during respiration**. Oblique axes are for torsions/rotations. Superior/inferior transverse axes for bilateral/unilateral flexions. (Slide on axes)"
+            answer: 1,
+            explanation: "**R on R:** Axis is Right $\\to$ L5 Sidebends **Right**. Rotation is Right $\\to$ L5 Rotates **Left** (Opposite). Pattern: Rot Left, SB Right (Type I neutral mechanics)."
         },
         {
-            question: "**4. In the seated flexion test, a positive test on the right indicates:**",
+            question: "The Superior Transverse Axis (S2) is associated with which motion?",
             options: [
-                "Left sacral dysfunction",
-                "Right sacral dysfunction",
-                "Bilateral sacral flexion",
-                "Normal sacral motion",
-                "L5 rotation to the left"
+                "Postural Flexion/Extension",
+                "Innominate Rotation",
+                "Respiratory / Craniosacral Motion",
+                "Walking Cycle",
+                "Disc Herniation"
             ],
-            correctAnswer: 1,
-            rationale: "**Seated flexion test:** The side where the PSIS moves superior first or further = **Side of sacral dysfunction**. Right PSIS superior = Right sacral dysfunction. (Slide on special tests)"
+            answer: 2,
+            explanation: "**Superior Axis:** Respiratory/Craniosacral.\\n**Middle Axis:** Postural.\\n**Inferior Axis:** Innominate (Ilial)."
         },
         {
-            question: "**5. The oblique axis of the sacrum is named for:**",
+            question: "If the Seated Flexion Test is positive on the LEFT, which oblique axis is engaged?",
             options: [
-                "Side of superior pole",
-                "Side of inferior pole",
-                "Direction of L5 rotation",
-                "Direction of anterior sacral body movement",
-                "Side of sacral base"
+                "Left Oblique Axis",
+                "Right Oblique Axis",
+                "Middle Transverse Axis",
+                "Inferior Transverse Axis",
+                "Vertical Axis"
             ],
-            correctAnswer: 1,
-            rationale: "**Oblique axis** is named for the side of the **inferior pole** (inferior SIJ). Left oblique axis has left inferior pole. Movement is named for direction ON axis (reference = anterior sacral body). (Slide 5)"
+            answer: 1,
+            explanation: "SFT is positive on the side of dysfunction. The functioning axis is on the **OPPOSITE** side. Positive Left $\\to$ Axis is **Right**."
         }
     ],
     flashcards: [
-        { "front": "Middle transverse axis function?", "back": "Sacral flexion/extension during respiration", "tag": "OMM" },
-        { "front": "Oblique axis function?", "back": "Sacral torsions and rotations", "tag": "OMM" },
-        { "front": "L5 rules for sacral torsion?", "back": "L5 rotated SAME direction, sidebent OPPOSITE", "tag": "OMM" },
-        { "front": "Left on left torsion L5 position?", "back": "Rotated left, sidebent right", "tag": "OMM" },
-        { "front": "Sphinx test normal finding?", "back": "Sacral base moves posterior (flexion)", "tag": "OMM" },
-        { "front": "Seated flexion test positive?", "back": "PSIS superior = Side of dysfunction", "tag": "OMM" },
-        { "front": "Lumbar spring test interpretation?", "back": "Spring present = Flexion, No spring = Extension", "tag": "OMM" },
-        { "front": "Oblique axis named for?", "back": "Side of inferior pole", "tag": "OMM" }
+        {
+            front: "SFT Positive Side Meaning",
+            back: "Side of Dysfunction (Axis is Opposite)",
+            tag: "OMM"
+        },
+        {
+            front: "Spring Test Positive Meaning",
+            back: "Stuck Backward (Non-physiologic / Backward Torsion)",
+            tag: "OMM"
+        },
+        {
+            front: "L5 Rotation Rule",
+            back: "Rotates OPPOSITE to Sacrum",
+            tag: "OMM"
+        },
+        {
+            front: "L5 Sidebending Rule",
+            back: "Sidebends SAME side as Axis",
+            tag: "OMM"
+        },
+        {
+            front: "Same Letters (e.g. L on L)",
+            back: "Forward Torsion (Physiologic)",
+            tag: "OMM"
+        },
+        {
+            front: "Different Letters (e.g. R on L)",
+            back: "Backward Torsion (Non-Physiologic)",
+            tag: "OMM"
+        }
     ],
+    ankingResource: {
+        primarySource: "AMBOSS",
+        chapter: "OMM > Sacrum",
+        alternatives: [
+            { resource: "FirstAid", chapter: "OMM > Sacrum" }
+        ]
+    },
     mindmap: `
 ## Sacral Diagnosis
-### Sacral Axes
-*   **Middle transverse**: Flexion/extension (respiration)
-*   **Oblique**: Torsions/rotations (named for inferior pole)
-*   **Superior/Inferior transverse**: Bilateral/unilateral flexions
-### L5 Rules
-*   **Rotation**: Same direction as torsion
-*   **Sidebending**: Opposite to rotation
-*   **Axis**: Oblique (inferior pole side)
-### Special Tests
-*   **Lumbar spring**: Flexion (spring) vs Extension (no spring)
-*   **Sphinx**: Base posterior (normal)
-*   **Seated flexion**: PSIS superior = Dysfunction side
-*   **Standing flexion**: SI joint restriction
-### Diagnosis
-*   **Palpate**: ILA, sulci, base
-*   **Apply L5 rules**: Correlate all findings
-`
-,
-    ankingResource: {
-        primarySource: "BandB",
-        chapter: "Musculoskeletal > Spine",
-        alternatives: [
-            { "resource": "FirstAid", "chapter": "Musculoskeletal > Pathology" }
-        ]
-    }
-,
-    ankingResource: {
-        primarySource: "BandB",
-        chapter: "Musculoskeletal > Spine",
-        alternatives: [
-            { "resource": "FirstAid", "chapter": "Musculoskeletal > Pathology" }
-        ]
-    }
-};
 
-if (typeof window !== 'undefined') {
-    window.L38_CONTENT = L38_CONTENT;
-}
+### Axes
+*   **Respiratory**: Superior (S2).
+*   **Postural**: Middle (S2).
+*   **Innominate**: Inferior (S3).
+*   **Oblique**: Walking.
+
+### Diagnosis Steps
+1.  **SFT**: Side of Dysfunction. Axis is Opposite.
+2.  **Spring/Sphinx**:
+    *   **Spring (+)**: Backyard (Stiff).
+    *   **Spring (-)**: Forward (Good).
+3.  **Results**:
+    *   **L on L**: Fwd.
+    *   **R on R**: Fwd.
+    *   **L on R**: Bwd.
+    *   **R on L**: Bwd.
+\`
+};

@@ -1,75 +1,142 @@
 window.receiveLectureContent({
   "id": "l40",
-  "title": "Lecture #40: Spinal Cord Syndromes",
-  "lecturer": "A. Leder, D.O.",
-  "module": "Neuro",
-  "session": "Lecture #40",
-  "prev": "l39",
-  "next": "l41",
-  "pdf": "pdfs/Lecture # 40. A. Leder, D.O. (PPT)-1.pdf",
-  "summary": "# Lecture #40: Spinal Cord Syndromes & Mononeuropathies\n\n**Lecturer:** A. Leder, D.O.\n**Session:** Lecture #40\n\n## Spinal Cord Anatomy Review\n\n**Posterior Columns:** Fine touch, vibration, proprioception (crosses in brainstem).\n**Spinothalamic Tracts:** Pain, temperature, crude touch (cross after 1-2 levels).\n**Corticospinal Tract:** Motor (crosses at medulla).\n\n## Myelopathy Signs (Slide 6)\n*   Gait disturbance, Spasticity, Weakness, Hyperreflexia.\n*   Bowel/bladder symptoms.\n*   **Sensory Level:** Band-like sensation at superior margin. Numbness below.\n\n## 1. Central Cord Syndrome (Slides 9-11)\n\n:::correlate\n**Central Cord Syndrome**\n*   **Lesion:** Gray matter in center of cord (cervical most common).\n*   **Presentation:** Loss of pain/temperature in \"**cape-like distribution**\" (shoulders, arms). Motor/sensory affected in hands.\n*   **Causes:** Severe cervical hyperextension trauma, Syrinx (Chiari malformation), Intramedullary tumor, Demyelinating lesion.\n:::\n\n## 2. Posterior Column Syndrome (Slides 13-19)\n\n:::correlate\n**Dorsal Column Syndrome**\n*   **Impairment:** Vibration and proprioception.\n*   **Presentation:**\n    *   **\"Stomping gait\"** (high-stepping, slapping).\n    *   **Positive Romberg:** Swaying with eyes closed.\n    *   **Lhermitte Sign:** Electric shock down back with neck flexion.\n    *   Absent reflexes (knees/ankles) with preserved strength.\n    *   **Charcot arthropathy** (repeated microtrauma).\n*   **Causes:** Tabes dorsalis, Cervical spondylosis, MS, Posterior spinal artery infarct.\n:::\n\n:::correlate\n**Tabes Dorsalis (Neurosyphilis)**\n*   **Cause:** Spirochete *T. pallidum* (decades after primary infection).\n*   **Triad of Symptoms:** Lightning pains, Ataxia, Bowel/bladder dysfunction.\n*   **Triad of Signs:** **Argyll Robertson pupils** (react to accommodation, not light), Areflexia, Loss of proprioception.\n:::\n\n## 3. Posterolateral Column Syndrome (Slides 20-25)\n\n:::correlate\n**Subacute Combined Degeneration (SCD)**\n*   **Lesion:** Posterior + Lateral corticospinal tracts.\n*   **Presentation:** Numbness, Positive Romberg, Glossitis, Pernicious anemia, Loss of vibration/position sense.\n*   **Cause:** **Vitamin B12 deficiency** (also Copper deficiency).\n*   **B12 Deficiency Causes:** Bariatric surgery, Atrophic gastritis, Celiac disease, Vegetarian diet, Antacid use, **Nitrous oxide toxicity**, H. pylori.\n:::\n\n## 4. Anterior Cord Syndrome (Slides 26-29)\n\n:::correlate\n**Anterior Cord Syndrome**\n*   **Lesion:** Anterior spinal artery infarct.\n*   **Presentation:**\n    *   Weakness below level.\n    *   Loss of pain/temperature below level.\n    *   **Proprioception spared** (posterior columns intact).\n*   **Most Common Cause:** **Atherosclerosis of aorta** (also aortic surgery).\n:::\n\n## 5. Cauda Equina Syndrome (Slides 30-35)\n\n:::correlate\n**Cauda Equina Syndrome**\n*   **Anatomy:** Nerve roots L2-L5, S1-S5, Coccygeal (below L1).\n*   **Presentation:**\n    *   Low back pain + **radicular symptoms** (bilateral legs).\n    *   **Bladder symptoms** (urinary retention, cannot feel urination).\n    *   Bowel symptoms (constipation, rectal fullness).\n    *   **Sexual dysfunction**.\n    *   Sensory loss (buttocks, posterior thighs, **perineal \"saddle anesthesia\"**).\n    *   Asymmetric weakness. Reduced reflexes (knees, ankles).\n*   **MRI:** Imaging of choice.\n*   **Treatment:** **Surgical decompression** (neurosurgical emergency).\n*   **Most Common Cause:** Intervertebral disc herniation.\n:::\n\n## 6. Brown-S\u00e9quard Syndrome (Slides 36-39)\n\n:::correlate\n**Brown-S\u00e9quard (Hemicord Injury)**\n*   **Lesion:** Hemisection of spinal cord.\n*   **Presentation:**\n    *   **Ipsilateral:** Motor weakness, Vibratory/proprioceptive loss.\n    *   **Contralateral:** Pain/temperature loss (below lesion).\n*   **Cause:** Penetrating trauma (stab wound), MS, Tumor.\n:::\n\n## 7. Complete Transection (Slides 40-42)\n\n*   **Presentation:** Bilateral UMN weakness, Bilateral sensory loss, Autonomic loss (constipation most common).\n*   **Causes:** Trauma, Demyelinating disease, Epidural abscess/metastasis.\n\n## Mononeuropathies (Slides 47-52)\n\n:::drug\n**Median Neuropathy (Carpal Tunnel Syndrome)**\n*   **Presentation:** Wrist pain, Hand numbness (palmar aspect of first 3-4 digits). Thenar weakness (late).\n*   **Cause:** Repetitive wrist use.\n:::\n\n:::drug\n**Ulnar Neuropathy**\n*   **Presentation:** Numbness (\u00bd 4th + 5th digit). **Claw hand** (4th, 5th digits). Weakness/wasting of first dorsal interosseous. Finger adductor weakness.\n*   **Cause:** Repeated elbow trauma.\n:::\n\n:::drug\n**Radial Neuropathy**\n*   **Presentation:** **Wrist drop**. Finger/wrist extension weakness.\n*   **Cause:** \"Saturday night palsy\" (arm draped over chair - spiral groove compression).\n:::\n\n:::drug\n**Fibular (Peroneal) Neuropathy**\n*   **Presentation:** **Foot drop** (weak ankle dorsiflexion).\n*   **Cause:** Trauma at fibular head. Most common lower extremity mononeuropathy.\n:::\n\n:::drug\n**Meralgia Paresthetica**\n*   **Presentation:** Numbness of lateral thigh.\n*   **Cause:** Compression of lateral femoral cutaneous nerve (inguinal ligament). Pregnancy, weight gain, pelvic surgery.\n:::",
-  "mindmap": "## Spinal Cord Syndromes\n### Central Cord\n*   **Cape-like** pain/temp loss\n*   **Syrinx**, Chiari, Trauma\n### Posterior Column\n*   **Stomping gait**, Romberg+\n*   **Tabes dorsalis** (Argyll Robertson)\n*   **B12 deficiency** (SCD)\n### Anterior Cord\n*   **Weakness + pain/temp loss**\n*   **Proprioception spared**\n*   Anterior spinal artery infarct\n### Cauda Equina\n*   **Saddle anesthesia** (S2-S4)\n*   **Urinary retention**\n*   **Neurosurgical emergency**\n### Brown-S\u00e9quard\n*   **Ipsi**: Motor + vibration\n*   **Contra**: Pain/temp\n*   Stab wound\n## Mononeuropathies\n*   **Median**: Carpal tunnel\n*   **Ulnar**: Claw hand\n*   **Radial**: Wrist drop\n*   **Fibular**: Foot drop",
-  "questions": [],
+  "summary": "# Lecture 40: Spinal Cord Syndromes & Mononeuropathies\n\n**Lecturer:** A. Leder, D.O.\n**Session:** Lecture 40\n\n## 1. Spinal Cord Anatomy Review\n*   **Dorsal Columns:** Vibration, Proprioception, Fine Touch. (Cross in Brainstem).\n*   **Spinothalamic Tract:** Pain, Temperature, Crude Touch. (Cross immediately/1-2 levels up).\n*   **Corticospinal Tract:** Motor. (Cross in Medulla).\n\n## 2. Spinal Cord Syndromes\n*   **Central Cord Syndrome (Syringomyelia):**\n    *   *Lesion:* Center of cord (crossing spinothalamic fibers).\n    *   *Presentation:* **\"Cape-like\"** loss of pain/temperature across shoulders/arms. Upper extremities > Lower.\n    *   *Causes:* Syringomyelia (Chiari I), Trauma (Hyperextension), Tumor.\n*   **Posterior Column Syndrome (Tabes Dorsalis):**\n    *   *Lesion:* Dorsal Columns.\n    *   *Presentation:* Loss of Proprioception/Vibration $\\\\to$ Sensory Ataxia (**Stomping Gait**, +Romberg). **Lhermitte Sign** (Shock down back).\n    *   *Causes:* **Neurosyphilis** (Tabes Dorsalis - Triad: Lightning pains, Ataxia, Argyll Robertson Pupil), B12 Deficiency.\n*   **Posterolateral Column Syndrome (Subacute Combined Degeneration):**\n    *   *Lesion:* Dorsal Columns + Corticospinal Tract.\n    *   *Presentation:* Ataxia/Numbness + Spastic Paresis.\n    *   *Causes:* **Vitamin B12 Deficiency** (Pernicious anemia, Gastric bypass, Vegans), **Nitrous Oxide** abuse (\"Whippets\").\n*   **Anterior Cord Syndrome:**\n    *   *Lesion:* Anterior 2/3 of cord (Spares Dorsal Columns).\n    *   *Presentation:* Complete Motor Paralysis + Loss of Pain/Temp. **Proprioception/Vibration SPARED**.\n    *   *Causes:* **Anterior Spinal Artery (ASA)** infarct (Aortic aneurysm repair/surgery).\n*   **Brown-S\u00e9quard Syndrome (Hemicord):**\n    *   *Lesion:* Half of the cord (Hemisection).\n    *   *Presentation:*\n        *   **Ipsilateral:** Loss of Motor (CST) + Proprioception/Vibration (DC).\n        *   **Contralateral:** Loss of Pain/Temp (Spinothalamic) *starting 1-2 levels below*.\n    *   *Causes:* Stab wound, MS, Tumor.\n*   **Cauda Equina Syndrome:**\n    *   *Lesion:* Nerve roots L2-S5 (Horse's tail).\n    *   *Presentation:* **Saddle Anesthesia**, Bowel/Bladder dysfunction (Retention/Incontinence), Radicular pain.\n    *   *Management:* **Surgical Emergency** (Decompression within 48hrs).\n\n## 3. Common Mononeuropathies\n*   **Median Nerve:** **Carpal Tunnel**. Numbness 1st 3.5 digits. Thenar atrophy.\n*   **Ulnar Nerve:** **Cubital Tunnel**. Numbness 4th/5th digits. \"Claw Hand\" (weak interossei).\n*   **Radial Nerve:** **Saturday Night Palsy**. Spiral groove compression. **Wrist Drop**.\n*   **Common Peroneal (Fibular) Nerve:** Unilateral **Foot Drop** (Steppage gait). Compression at Fibular Head.\n*   **Lateral Femoral Cutaneous Nerve:** **Meralgia Paresthetica**. Numbness of lateral thigh. Caused by tight belts, obesity, pregnancy.",
+  "title": "Lecture 40: Spinal Cord Syndromes & Mononeuropathies",
+  "module": "Neurology",
+  "questions": [
+    {
+      "question": "A patient presents with loss of pain and temperature sensation in a cape-like distribution over the shoulders and arms. Vibration and proprioception are intact. This pattern is consistent with:",
+      "options": [
+        "Anterior Cord Syndrome",
+        "Central Cord Syndrome",
+        "Brown-S\u00e9quard Syndrome",
+        "Posterior Column Syndrome",
+        "Cauda Equina Syndrome"
+      ],
+      "answer": 1,
+      "explanation": "**Central Cord Syndrome** (Syringomyelia) expands from the central canal, disrupting the crossing Spinothalamic fibers first, causing the cape-like dissociation."
+    },
+    {
+      "question": "Following a stab wound to the right side of the spinal cord (Hemisection) at T10, which finding would be expected?",
+      "options": [
+        "Loss of pain and temperature on the Right leg",
+        "Loss of vibration and proprioception on the Left leg",
+        "Paralysis of the Left leg",
+        "Loss of pain and temperature on the Left leg",
+        "Bilateral loss of all sensation"
+      ],
+      "answer": 3,
+      "explanation": "**Brown-S\u00e9quard:** Contralateral loss of Pain/Temp. Right lesion $\\to$ **Left** leg Pain/Temp loss. (Right leg would lose Motor/Vibe)."
+    },
+    {
+      "question": "A patient recovering from abdominal aortic aneurysm repair develops bilateral leg paralysis and loss of pain sensation, but preserves vibration sense. The most likely diagnosis is:",
+      "options": [
+        "Posterior Spinal Artery Infarct",
+        "Anterior Spinal Artery Infarct",
+        "Vitamin B12 Deficiency",
+        "Tabes Dorsalis",
+        "Guillain-Barr\u00e9 Syndrome"
+      ],
+      "answer": 1,
+      "explanation": "**Anterior Spinal Artery** supplies the anterior 2/3 (Motor + Spinothalamic). Infarct causes Anterior Cord Syndrome (Paralysis + Pain loss) with **Dorsal Column sparing** (Vibe intact)."
+    },
+    {
+      "question": "Which of the following creates a 'Saturday Night Palsy' causing wrist drop?",
+      "options": [
+        "Median Nerve compression at carpal tunnel",
+        "Ulnar Nerve compression at cubital tunnel",
+        "Radial Nerve compression at spiral groove",
+        "Common Peroneal compression at fibular head",
+        "Sciatic Nerve compression"
+      ],
+      "answer": 2,
+      "explanation": "**Radial Nerve** compression at the spiral groove (humerus), often from falling asleep with arm over a chair ('Saturday Night'), causes **Wrist Drop**."
+    },
+    {
+      "question": "Subacute Combined Degeneration of the spinal cord involves demyelination of the Posterior Columns and Corticospinal Tracts due to deficiency of:",
+      "options": [
+        "Vitamin B1 (Thiamine)",
+        "Vitamin B3 (Niacin)",
+        "Vitamin B12 (Cobalamin)",
+        "Vitamin E",
+        "Copper"
+      ],
+      "answer": 2,
+      "explanation": "**Vitamin B12** deficiency (or Nitrous Oxide toxicity) causes Subacute Combined Degeneration."
+    }
+  ],
   "flashcards": [
     {
-      "front": "Central cord syndrome presentation?",
-      "back": "Cape-like pain/temp loss (shoulders, arms)",
-      "tag": "Neuro"
+      "front": "Central Cord Syndrome Pattern",
+      "back": "Cape-like Pain/Temp Loss",
+      "tag": "Neurology"
     },
     {
-      "front": "Dorsal column syndrome gait?",
-      "back": "Stomping gait (high-stepping, slapping)",
-      "tag": "Neuro"
+      "front": "Tabes Dorsalis Cause",
+      "back": "Neurosyphilis (Tertiary)",
+      "tag": "Neurology"
     },
     {
-      "front": "Lhermitte sign?",
-      "back": "Electric shock down back with neck flexion",
-      "tag": "Neuro"
+      "front": "Brown-Sequard: Pain/Temp loss side",
+      "back": "Contralateral (Opposite side)",
+      "tag": "Neurology"
     },
     {
-      "front": "Argyll Robertson pupils?",
-      "back": "React to accommodation, NOT to light (Tabes dorsalis)",
-      "tag": "Neuro"
+      "front": "Brown-Sequard: Motor/Vibe loss side",
+      "back": "Ipsilateral (Same side)",
+      "tag": "Neurology"
     },
     {
-      "front": "Subacute combined degeneration cause?",
-      "back": "Vitamin B12 deficiency",
-      "tag": "Neuro"
+      "front": "Wrist Drop Nerve",
+      "back": "Radial Nerve",
+      "tag": "Neurology"
     },
     {
-      "front": "Anterior cord syndrome spared?",
-      "back": "Proprioception (posterior columns)",
-      "tag": "Neuro"
+      "front": "Foot Drop Nerve",
+      "back": "Common Peroneal (Fibular) Nerve",
+      "tag": "Neurology"
     },
     {
-      "front": "Cauda equina most common cause?",
-      "back": "Intervertebral disc herniation",
-      "tag": "Neuro"
+      "front": "Saddle Anesthesia + Incontinence",
+      "back": "Cauda Equina Syndrome (Emergency)",
+      "tag": "Neurology"
     },
     {
-      "front": "Cauda equina key feature?",
-      "back": "Saddle anesthesia (S2-S4, perineal)",
-      "tag": "Neuro"
+      "front": "Subacute Combined Degeneration Cause",
+      "back": "B12 Deficiency / Nitrous Oxide",
+      "tag": "Neurology"
+    }
+  ],
+  "ankingResource": {
+    "primarySource": "AMBOSS",
+    "chapter": "Neurology > Spinal Cord Disorders",
+    "alternatives": [
+      {
+        "resource": "FirstAid",
+        "chapter": "Neurology > Spinal Cord Lesions"
+      }
+    ]
+  },
+  "pearls": [
+    {
+      "title": "Brown-S\u00e9quard Rules",
+      "content": "You lose **Motor & Vibe** on the **SAME** side (Ipsi).\\nYou lose **Pain & Temp** on the **OPPOSITE** side (Contra)."
     },
     {
-      "front": "Brown-S\u00e9quard ipsilateral loss?",
-      "back": "Motor + vibration/proprioception",
-      "tag": "Neuro"
+      "title": "Anterior Cord Spare",
+      "content": "Anterior Spinal Artery stroke kills everything EXCEPT the **Dorsal Columns**. So they can still feel Vibration/Proprioception, but can't move or feel pain."
     },
     {
-      "front": "Brown-S\u00e9quard contralateral loss?",
-      "back": "Pain/temperature",
-      "tag": "Neuro"
+      "title": "Syringomyelia Sign",
+      "content": "**Cape-like** distribution of numbness (Pain/Temp loss) across the shoulders and back. Often associated with **Chiari Malformation**."
     },
     {
-      "front": "Carpal tunnel syndrome?",
-      "back": "Median neuropathy (hand numbness, thenar weak)",
-      "tag": "Neuro"
+      "title": "Whippets & B12",
+      "content": "**Nitrous Oxide** irreversibly oxidizes B12, leading to Subacute Combined Degeneration (Posterolateral cord syndrome). Look for ataxia + numbness in a party-goer."
     },
     {
-      "front": "Foot drop neuropathy?",
-      "back": "Fibular (peroneal) neuropathy",
-      "tag": "Neuro"
+      "title": "Cauda Equina Flags",
+      "content": "New onset **Incontinence** (or retention) + **Saddle Anesthesia**. This is an MRI + Surgery EMERGENCY."
     }
   ]
 });

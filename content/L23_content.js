@@ -1,175 +1,232 @@
-const L23_CONTENT = {
-    id: 'l23',
-    title: 'Lecture #23: Pathology of Auditory and Vestibular System',
-    lecturer: 'A. Reno, D.O.',
-    module: 'Neurology',
-    session: 'Lecture #23',
-    prev: 'l22',
-    next: 'l24',
-    pdf: 'pdfs/Lecture # 23. A. Reno, D.O. (PPT).pdf',
-    transcript: 'transcripts/Lecture #23_ Pathology of Auditory and Vestibular System Faculty_ A. Reno, D.O..srt',
-    ankingResource: {
-        primarySource: 'BandB',
-        chapter: 'Neurology > The Ear'
-    },
+export const L23_CONTENT = {
+    id: "l23",
     summary: `
-# Lecture #23: Pathology of Auditory & Vestibular System
+# Lecture 23: Pathology of Auditory and Vestibular System
 
-**Lecturer:** Adam Reno, D.O.
-**Session:** Neurology
+**Lecturer:** A. Reno, D.O.
+**Session:** Lecture 23
 
-## 1. Vertigo & Dizziness
-*   **Definitions:** It is critical to distinguish "lightheadedness" (presyncope) from **Vertigo** (illusion of movement/spinning).
-*   **Peripheral vs. Central Vertigo:**
-    *   **Peripheral:**
-        *   *Nystagmus:* Horizontal/Rotary, **Extinguishes** with fixation, **Fatigable**.
-        *   *Hearing:* Often associated with tinnitus/hearing loss.
-        *   *Gait:* Walking preserved (usually).
-        *   *Examples:* BPPV, Meniere's, Vestibulitis.
-    *   **Central:**
-        *   *Nystagmus:* Vertical/Purely Rotary, **Does NOT extinguish**, **Non-fatigable**.
-        *   *Hearing:* Usually normal.
-        *   *Gait:* Severe ataxia (cannot walk).
-        *   *Examples:* Stroke (Cerebellar/Brainstem), MS, Tumors.
+## 1. Approach to Dizziness (Slide 6-27)
+*   **Vertigo:** Illusion of movement ("Spinning").
+*   **Peripheral (Inner Ear):**
+    *   *Nystagmus:* **Unidirectional** (usually horizontal/rotary).
+    *   *Fixation:* **Extinguishes** nystagmus.
+    *   *Walking:* Patient can usually walk.
+    *   *Hearing:* Often affected (Tinnitus/Loss).
+*   **Central (Brainstem/Cerebellum - Stroke/MS):**
+    *   *Nystagmus:* **Bidirectional** or **Vertical**.
+    *   *Fixation:* **Does NOT extinguish**.
+    *   *Walking:* Patient often cannot stand/walk (Ataxia).
+    *   *Hearing:* Usually normal.
+    *   **"Red Flags":** Comparison to Stroke (HINTS Exam).
 
-## 2. Specific Vestibular Disorders
+## 2. Key Vestibular Pathologies
 ### Benign Paroxysmal Positional Vertigo (BPPV)
-*   **Mechanism:** Dislodged otoconia (calcium carbonate crystals) in semicircular canals (usually Posterior).
-*   **Presentation:** Episodic vertigo (< 1 minute) triggered by **head movement**. No hearing loss.
-*   **Diagnosis:** **Dix-Hallpike Maneuver** (Rotary nystagmus).
+*   **Duration:** **Seconds (< 1 minute)**.
+*   **Trigger:** Head movement (Rolling over in bed).
+*   **Mechanism:** Dislodged **Otoconia** (Calcium Carbonate crystals) in posterior semicircular canal.
+*   **Diagnosis:** **Dix-Hallpike** maneuver (Rotary nystagmus).
 *   **Treatment:** **Epley Maneuver**.
 
-### Vestibular Neuritis (Vestibulitis)
-*   **Mechanism:** Inflammation of CN VIII (often post-viral).
-*   **Presentation:** **Continuous** vertigo for days. Nausea/Vomiting. **No hearing loss**.
-*   **Exam:** Positive Head Impulse Test. Nystagmus away from lesion.
-
-### Labyrinthitis
-*   **Mechanism:** Inflammation of inner ear (Cochlea + Vestibule).
-*   **Presentation:** Continuous vertigo + **Hearing Loss** + Tinnitus.
-
 ### Meniere's Disease (Endolymphatic Hydrops)
-*   **Mechanism:** Increased endolymphatic fluid pressure.
-*   **Triad:** 1. Episodic Vertigo (min-hours) 2. Sensorineural Hearing Loss (fluctuating, low-freq) 3. Tinnitus ("Roaring") / Aural fullness.
-*   **Treatment:** Low sodium diet, Diuretics (HCTZ/Triamterene).
+*   **Duration:** **Hours** (20 min - 24 hrs).
+*   **Classic Triad:**
+    1.  Episodic **Vertigo**.
+    2.  **Tinnitus** ("Roaring").
+    3.  **Sensorineural Hearing Loss** (Fluctuating, low frequency).
+*   **Mechanism:** Excess Endolymph fluid.
+*   **Treatment:** Low salt diet, **Diuretics** (HCTZ/Triamterene).
 
-## 3. Hearing Loss Evaluation
-*   **Conductive (CHL):** Outer/Middle ear problem (Cerumen, Otitis Media, Otosclerosis).
-*   **Sensorineural (SNHL):** Inner ear/Nerve problem (Presbycusis, Noise, Drugs, Meniere's).
-*   **Tuning Fork Tests (512 Hz):**
-    *   **Weber:**
-        *   *Normal:* Midline.
-        *   *CHL:* Localizes to **AFFECTED** ear.
-        *   *SNHL:* Localizes to **UNAFFECTED** ear.
-    *   **Rinne:**
-        *   *Normal:* AC > BC (Positive).
-        *   *CHL:* BC > AC (Negative).
-        *   *SNHL:* AC > BC (Positive - but reduced duration/volume compared to normal).
+### Vestibulo-Cochlear Infections
+*   **Vestibular Neuritis:** Vertigo **only** (No hearing loss). Duration: **Days**. Usually viral. Rx: Corticosteroids.
+*   **Labyrinthitis:** Vertigo **+ Hearing Loss**. Viral or Bacterial.
+
+## 3. Hearing Loss Evaluation (Slide 40-47)
+### Conductive (CHL)
+*   *Anatomy:* Outer/Middle ear (Wax, Otitis Media, Otosclerosis).
+*   *Weber:* Lateralizes to **BAD** ear.
+*   *Rinne:* **BC > AC** (Bone Conduction > Air Conduction).
+
+### Sensorineural (SNHL)
+*   *Anatomy:* Cochlea/Nerve (Presbycusis, Noise, Meniere's, Acoustic Neuroma).
+*   *Weber:* Lateralizes to **GOOD** ear.
+*   *Rinne:* **AC > BC** (Normal pattern, but reduced).
 
 ## 4. Clinical Correlates
 :::correlate
-**Acoustic Neuroma (Vestibular Schwannoma)**
-*   **Mechanism:** Tumor of Schwann cells on CN VIII (Cerebellopontine angle).
-*   **Presentation:** Unilateral SNHL, Tinnitus, Vertigo (late).
-*   **Association:** Neurofibromatosis Type 2 (Bilateral acoustic neuromas).
+**The HINTS Exam**
+Used to distinguish Central (Stroke) from Peripheral vertigo in acute vestibular syndrome.
+1.  **H**ead **I**mpulse: Normal impulse = **Central** (bad). (Peripheral has corrective saccade).
+2.  **N**ystagmus: Direction changing = **Central**.
+3.  **T**est of **S**kew: Vertical Skew = **Central**.
+*Pearl:* "INFARCT" (Impulse Normal, Fast-phase Alternating, Refixation on Cover Test).
 :::
 
 :::correlate
-**Pharmacology**
-*   **Ototoxicity:** Aminoglycosides (Gentamicin), Loop Diuretics (Furosemide), Cisplatin, ASA.
-*   **Vertigo Tx:** Antihistamines (Meclizine), Benzodiazepines (Diazepam - acute only), Antiemetics (Ondansetron).
+**Acoustic Neuroma (Vestibular Schwannoma)**
+*   Unilateral Sensorineural Hearing Loss + Tinnitus.
+*   Slow growing.
+*   Diagnose with **MRI**.
 :::
 `,
+    pearls: [
+        {
+            title: "Vertigo Duration Clues",
+            content: "**< 1 min:** BPPV.\\n**Hours:** Meniere's Disease.\\n**Days:** Vestibular Neuritis / Labyrinthitis."
+        },
+        {
+            title: "Peripheral vs. Central Nystagmus",
+            content: "**Peripheral:** Extinguishes with fixation. Horizontal/Rotary.\\n**Central:** Does NOT extinguish. Vertical or Direction-Changing."
+        },
+        {
+            title: "Meniere's Triad",
+            content: "1. Episodic Vertigo\\n2. Tinnitus (Roaring)\\n3. Sensorineural Hearing Loss."
+        },
+        {
+            title: "Weber/Rinne Rules",
+            content: "**Conductive:** Bad ear hears Weber louder. BC > AC.\\n**Sensorineural:** Good ear hears Weber louder. AC > BC."
+        },
+        {
+            title: "Treatment of BPPV",
+            content: "**Epley Maneuver** (Repositioning of otoconia)."
+        }
+    ],
     questions: [
         {
-            question: "**1. A 65-year-old male presents with sudden onset of room-spinning dizziness when he rolls over in bed. Symptoms last for 30 seconds. Hearing is normal. What is the most likely diagnosis?**",
+            question: "A 45-year-old woman complains of 'room-spinning' dizziness that lasts for 30 seconds when she rolls over in bed. It is associated with nausea. What is the most likely diagnosis?",
             options: [
                 "Meniere's Disease",
                 "Vestibular Neuritis",
-                "BPPV",
+                "Benign Paroxysmal Positional Vertigo (BPPV)",
                 "Acoustic Neuroma",
-                "Cerebellar Stroke"
+                "Multiple Sclerosis"
             ],
-            correctAnswer: 2,
-            rationale: "**BPPV** presents with brief (<1 min) episodes of vertigo triggered by head position changes. There is no associated hearing loss."
+            answer: 2,
+            explanation: "**BPPV** is characterized by brief (<1 min) episodes of vertigo triggered by head position changes."
         },
         {
-            question: "**2. A patient has Weber test lateralizing to the Right ear and Rinne test showing BC > AC in the Right ear. What is the diagnosis?**",
+            question: "A patient presents with vertigo, tinnitus, and hearing loss in the right ear. The episodes last for about 4 hours. Which treatment is most appropriate for long-term management?",
+            options: [
+                "Epley Maneuver",
+                "Antibiotics",
+                "Low salt diet and Diuretics",
+                "Carbamazepine",
+                "Chemotherapy"
+            ],
+            answer: 2,
+            explanation: "The patient has **Meniere's Disease** (Triad + Duration). Treatment involves reducing endolymph fluid with **salt restriction and diuretics**."
+        },
+        {
+            question: "Weber test lateralizes to the LEFT ear. Rinne test shows Bone Conduction > Air Conduction on the LEFT. What is the diagnosis?",
             options: [
                 "Right Sensorineural Hearing Loss",
-                "Left Sensorineural Hearing Loss",
                 "Right Conductive Hearing Loss",
+                "Left Sensorineural Hearing Loss",
                 "Left Conductive Hearing Loss",
                 "Normal Hearing"
             ],
-            correctAnswer: 2,
-            rationale: "Weber to the Right + Rinne Negative (BC > AC) on the Right indicates a **Right Conductive Hearing Loss**."
+            answer: 3,
+            explanation: "Weber to the Left + Rinne BC > AC on Left = **Left Conductive Hearing Loss**. (In CHL, bone conduction is better than air, and it lateralizes to the affected ear)."
         },
         {
-            question: "**3. Which finding suggests a CENTRAL cause of vertigo?**",
+            question: "Which finding on physical exam strongly suggests a CENTRAL cause of vertigo (e.g., Stroke)?",
             options: [
                 "Nystagmus that suppresses with fixation",
-                "Horizontal nystagmus",
-                "Severe inability to walk (Ataxia)",
-                "Associated tinnitus",
-                "Fatigable nystagmus"
+                "Unidirectional horizontal nystagmus",
+                "Positive Head Impulse Test (Corrective Saccade)",
+                "Vertical Nystagmus",
+                "Hearing Loss"
             ],
-            correctAnswer: 2,
-            rationale: "**Severe ataxia** and nystagmus that does *not* suppress with fixation are red flags for central vertigo (e.g., Stroke)."
+            answer: 3,
+            explanation: "**Vertical nystagmus** (or direction-changing nystagmus) is a red flag for **Central** pathology. Peripheral nystagmus is usually horizontal/rotary and suppresses with fixation."
         },
         {
-            question: "**4. Meniere's Disease is characterized by which triad of symptoms?**",
+            question: "A patient has sudden onset of severe vertigo lasting 3 days, with nausea and vomiting, but NO hearing loss. Findings include horizontal nystagmus. What is the most likely diagnosis?",
             options: [
-                "Vertigo, Headache, Photophobia",
-                "Vertigo, Hearing Loss, Tinnitus",
-                "Vertigo, Dysarthria, Diplopia",
-                "Syncope, Hearing Loss, Tinnitus",
-                "Dizziness, Nausea, Vomiting only"
+                "Labyrinthitis",
+                "Vestibular Neuritis",
+                "Meniere's Disease",
+                "BPPV",
+                "Otosclerosis"
             ],
-            correctAnswer: 1,
-            rationale: "The classic triad for **Meniere's** is episodic vertigo, sensorineural hearing loss (often low frequency), and tinnitus/aural fullness."
-        },
-        {
-            question: "**5. What is the treatment for BPPV?**",
-            options: [
-                "Salt restriction",
-                "Antibiotics",
-                "Epley Maneuver",
-                "Corticosteroids",
-                "Hearing Aids"
-            ],
-            correctAnswer: 2,
-            rationale: "The **Epley Maneuver** repositions the dislodged otoliths out of the semicircular canal."
+            answer: 1,
+            explanation: "**Vestibular Neuritis** presents with continuous vertigo for days, often post-viral, with **preserved hearing**. (Labyrinthitis would include hearing loss)."
         }
     ],
     flashcards: [
-        { "front": "Diagnosis: Vertigo < 1 min, triggered by head movement?", "back": "BPPV", "tag": "Neuro" },
-        { "front": "Diagnosis: Continuous vertigo, no hearing loss, post-viral?", "back": "Vestibular Neuritis", "tag": "Neuro" },
-        { "front": "Diagnosis: Episodic vertigo + Hearing Loss + Tinnitus?", "back": "Meniere's Disease", "tag": "Neuro" },
-        { "front": "Diagnosis: Continuous vertigo + Hearing Loss?", "back": "Labyrinthitis", "tag": "Neuro" },
-        { "front": "Nystagmus in Peripheral Vertigo?", "back": "Horizontal/Rotary, Fatigable, Suppresses with fixation", "tag": "Neuro" },
-        { "front": "Nystagmus in Central Vertigo?", "back": "Vertical, Non-fatigable, No suppression", "tag": "Neuro" },
-        { "front": "Weber lateralizes to Right ear. Causes?", "back": "Right Conductive OR Left Sensorineural", "tag": "Neuro" },
-        { "front": "Rinne: BC > AC. Meaning?", "back": "Conductive Hearing Loss (Negative Rinne)", "tag": "Neuro" },
-        { "front": "Mechanism of BPPV?", "back": "Dislodged Otoconia in Semicircular Canal", "tag": "Neuro" },
-        { "front": "Acute Tx for Meniere's?", "back": "Salt restriction, Diuretics", "tag": "Neuro" }
+        {
+            front: "Diagnosis: Vertigo < 1 minute, triggered by movement",
+            back: "BPPV (Benign Paroxysmal Positional Vertigo)",
+            tag: "ENT"
+        },
+        {
+            front: "Diagnosis: Vertigo (Hours) + Tinnitus + Hearing Loss",
+            back: "Meniere's Disease",
+            tag: "ENT"
+        },
+        {
+            front: "Diagnosis: Vertigo (Days) + No Hearing Loss",
+            back: "Vestibular Neuritis",
+            tag: "ENT"
+        },
+        {
+            front: "Diagnosis: Vertigo (Days) + Hearing Loss",
+            back: "Labyrinthitis",
+            tag: "ENT"
+        },
+        {
+            front: "Weber Test Lateralization: Conductive Loss",
+            back: "Lateralizes to the **BAD** (affected) ear",
+            tag: "Diagnosis"
+        },
+        {
+            front: "Weber Test Lateralization: Sensorineural Loss",
+            back: "Lateralizes to the **GOOD** (unaffected) ear",
+            tag: "Diagnosis"
+        },
+        {
+            front: "Maneuver to Diagnose BPPV",
+            back: "Dix-Hallpike",
+            tag: "Diagnosis"
+        },
+        {
+            front: "Maneuver to Treat BPPV",
+            back: "Epley Maneuver",
+            tag: "Treatment"
+        },
+        {
+            front: "Mechanism of Meniere's Disease",
+            back: "Endolymphatic Hydrops (Excess fluid in inner ear)",
+            tag: "Pathology"
+        },
+        {
+            front: "Central vs Peripheral Nystagmus: Fixation",
+            back: "Peripheral suppresses with fixation. Central does NOT.",
+            tag: "Diagnosis"
+        }
     ],
+    ankingResource: {
+        primarySource: "AMBOSS",
+        chapter: "Neurology > Vertigo and Dizziness",
+        alternatives: [
+            { resource: "FirstAid", chapter: "Neurology > Otology" },
+            { resource: "BandB", chapter: "Neurology > The Ear" }
+        ]
+    },
     mindmap: `
-## Auditory & Vestibular Pathology
-### Hearing Loss
-*   **Conductive (CHL)**: Outer/Middle Ear. Weber -> Affected. Rinne -> BC>AC.
-*   **Sensorineural (SNHL)**: Inner Ear/Nerve. Weber -> Unaffected. Rinne -> AC>BC.
-### Vertigo
-*   **Peripheral**
-    *   **BPPV**: <1 min, movement triggered. (Dix-Hallpike -> Epley).
-    *   **Neuritis**: Days, No HL.
-    *   **Labyrinthitis**: Days + HL.
-    *   **Meniere's**: Hours, Fluctuating HL, Tinnitus, Fullness.
-*   **Central**
-    *   **Stroke/Tumor**: Vertical nystagmus, Ataxia, No suppression.
-`
-};
+## Vestibular Pathology
 
-if (typeof window !== 'undefined') {
-    window.L23_CONTENT = L23_CONTENT;
-}
+### Peripheral (Inner Ear)
+*   **BPPV**: Seconds. Movement trigger. Otoconia. Rx: Epley.
+*   **Meniere's**: Hours. Triad (Vertigo, Tinnitus, HL). Hydrops. Rx: Diuretics.
+*   **Vestibular Neuritis**: Days. Viral. No HL.
+*   **Labyrinthitis**: Days. HL + Vertigo.
+
+### Central (Brain)
+*   **Stroke / MS**: Vertical nystagmus. Ataxia. No fixation suppression. HINTS exam.
+
+### Hearing Loss Testing
+*   **Conductive**: Weber to Bad. BC > AC.
+*   **Sensorineural**: Weber to Good. AC > BC.
+\`
+};

@@ -15,62 +15,119 @@ const L4_CONTENT = {
     summary: `
 # Lecture #4: Blood Supply of the CNS
 
-**Lecturer:** J. Xie, Ph.D.
+**Lecturer:** J. Xie, Ph.D. & Vincy Mathew
 **Session:** Neuroanatomy
 
-## 1. Overview of Blood Supply
-*   **Brain Mass vs. Blood Flow:** Brain is 2% of body weight but uses **20% of O2/Glucose**.
-*   **Two Major Systems:**
-    1.  **Anterior Circulation (80%):** Internal Carotid Arteries (ICA). Supplies Telencephalon/Diencephalon.
-    2.  **Posterior Circulation (20%):** Vertebral Arteries (VA). Supplies Brainstem, Cerebellum, Occipital Lobe.
+## 1. Overview of Cerebral Circulation (Slides 3-6)
+The brain represents only 2% of body weight but consumes **20% of the body's oxygen and glucose**.
+Blood enters the cranium via two major systems:
+1.  **Anterior Circulation (Internal Carotid Arteries):** Supplies ~80% of the brain (Telencephalon, Diencephalon).
+2.  **Posterior Circulation (Vertebral Arteries):** Supplies ~20% of the brain (Brainstem, Cerebellum, Occipital lobes).
 
 ---
 
-## 2. Internal Carotid Artery (Anterior Circulation) (OPAM)
-Enters skull via **Carotid Canal**, passes through **Cavernous Sinus**.
-Branches (**OPAM**):
-1.  **Ophthalmic Artery:** First branch. Supplies eye. Blockage -> *Amaurosis Fugax* (Transient painless vision loss - "Curtain coming down").
-2.  **Posterior Communicating Artery (PCom):** Connects Anterior to Posterior circulation. Common site for **Berry Aneurysms** (CN III palsy).
-3.  **Anterior Cerebral Artery (ACA):**
-    *   Supplies **Medial** Frontal/Parietal lobes.
-    *   **Homunculus:** **Leg/Foot**.
-    *   **Stroke:** Contralateral **Leg weakness/sensory loss**.
-4.  **Middle Cerebral Artery (MCA):**
-    *   Supplies **Lateral** Frontal/Temporal/Parietal lobes.
-    *   **Homunculus:** **Face/Arm**.
-    *   **Stroke:** Contralateral **Face/Arm weakness**, **Aphasia** (if dominant hemisphere - Broca's/Wernicke's).
-    *   **Lenticulostriate Arteries:** Deep branches to Basal Ganglia. Prone to **Charcot-Bouchard Aneurysms** (Hypertension) -> Lacunar Strokes.
+## 2. Anterior Circulation (ICA) (Slides 8-14)
+The **Internal Carotid Artery (ICA)** enters the skull via the Carotid Canal, passes through the Cavernous Sinus, and gives off 4 key Intradural branches (**OPAM**):
+
+### 1. Ophthalmic Artery (Slide 14)
+*   First branch. Supplies the eye/retina.
+*   **Clinical:** Occlusion causes **Amaurosis Fugax** (transient monocular blindness described as a "curtain coming down").
+
+### 2. Posterior Communicating Artery (PCom) (Slide 15)
+*   Connects the Anterior (ICA) and Posterior (PCA) circulations.
+*   **Clinical:** Common site for **Berry Aneurysms**. Aneurysm here can compress **CN III**, causing an ipsilateral "Down and Out" eye with blown pupil.
+
+### 3. Anterior Cerebral Artery (ACA) (Slides 16-17, 20)
+*   Supplies the **Medial** surface of the Frontal and Parietal lobes.
+*   **Function:** Motor/Sensory to the **Lower Limb** (Leg/Foot) and trunk.
+*   **Stroke Symptoms:** Contralateral **Leg weakness** and sensory loss.
+
+### 4. Middle Cerebral Artery (MCA) (Slides 18-19, 20)
+*   Largest branch. Runs laterally through the Sylvian Fissure.
+*   Supplies the **Lateral** surface of Frontal, Temporal, and Parietal lobes.
+*   **Function:** Motor/Sensory to the **Face and Upper Limb** (Arm/Hand). Also supplies language centers in the dominant hemisphere.
+*   **Stroke Symptoms:** Contralateral **Face/Arm weakness**, Face/Arm sensory loss.
+    *   *Left MCA (Dominant):* **Aphasia** (Broca's or Wernicke's).
+    *   *Right MCA (Non-dominant):* Hemineglect.
+
+:::correlate
+**Lenticulostriate Arteries (Slide 19)**
+*   Small, deep perforating branches of the MCA supplying the **Basal Ganglia** and Internal Capsule.
+*   **Pathology:** High pressure (Hypertension) causes lipohyalinosis and microaneurysms (**Charcot-Bouchard Aneurysms**).
+*   **Result:** Rupture leads to **Intraparenchymal Hemorrhage**. Occlusion leads to **Lacunar Infarcts** (pure motor strokes).
+:::
 
 ---
 
-## 3. Vertebrobasilar System (Posterior Circulation)
-**Vertebral Arteries** fuse to form the **Basilar Artery**.
-*   **PICA (Posterior Inferior Cerebellar Artery):** From Vertebral. Supplies Lateral Medulla. (Wallenberg Syndrome).
-*   **AICA (Anterior Inferior Cerebellar Artery):** From Basilar. Supplies Lateral Pons.
-*   **SCA (Superior Cerebellar Artery):** From Basilar.
-*   **PCA (Posterior Cerebral Artery):** Terminal branch of Basilar.
-    *   Supplies **Occipital Lobe**.
-    *   **Stroke:** Contralateral **Homonymous Hemianopsia** (Visual field cut) with *Macular Sparing*.
-    *   **CN III Rule:** CN III passes between SCA and PCA. Aneurysm here -> CN III Palsy ("Down and Out" eye).
+## 3. Posterior Circulation (Vertebrobasilar) (Slides 23-26)
+### Vertebral Arteries (VA)
+*   Ascend through transverse foramina of C6-C1. Enter skull via Foramen Magnum.
+*   **Branches:**
+    *   **Anterior Spinal Artery (ASA):** Supplies anterior 2/3 of spinal cord.
+    *   **PICA (Posterior Inferior Cerebellar Artery):** Supplies Lateral Medulla and Inferior Cerebellum. (Occlusion -> Wallenberg Syndrome).
+
+### Basilar Artery (BA)
+*   Formed by fusion of VAs. Runs along the Pons.
+*   **Branches:**
+    *   **AICA (Anterior Inferior Cerebellar Artery):** Supplies Lateral Pons.
+    *   **Pontine Arteries:** Supply the Pons. (Occlusion -> Locked-in Syndrome).
+    *   **SCA (Superior Cerebellar Artery):** Supplies Superior Cerebellum.
+
+### Posterior Cerebral Artery (PCA)
+*   Terminal bifurcation of the Basilar Artery.
+*   Supplies: **Occipital Lobe** (Visual Cortex) and Inferior Temporal lobe.
+*   **Stroke Symptoms:** Contralateral **Homonymous Hemianopsia** (Visual field loss) often with *Macular Sparing*.
+
+:::pearl
+**CN III Rule:** The Oculomotor Nerve (CN III) acts as a sandwich filling between the **SCA** (Superior Cerebellar) and **PCA** (Posterior Cerebral) arteries. Aneurysms here compress CN III.
+:::
 
 ---
 
-## 4. Circle of Willis & Watershed Zones (Slide 29)
-*   **Circle of Willis:** Anastomotic ring providing collateral flow. Complete in only ~30-50% of people.
-    *   Components: Ant. Communicating (ACom), ACAs, ICAs, PComs, PCAs.
-*   **Watershed Zones:** Border zones between vascular territories (e.g., ACA-MCA border). Prone to ischemia during **Global Hypoperfusion** (Sepsis, Cardiac Arrest) -> "Man in a Barrel" syndrome.
+## 4. Collateral & Venous Circulation
 
----
+### Circle of Willis (Slides 29-30)
+*   Anastomotic ring at the base of the brain providing collateral flow.
+*   Formed by: ACom, ACA, ICA, PCom, PCA.
+*   *Note:* The circle is incomplete in ~50% of people.
+*   **Watershed Zones:** Border areas between ACA/MCA/PCA territories. Susceptible to ischemia during **Global Hypoperfusion** (e.g., Cardiac Arrest or severe hypotension) -> "Man in a Barrel" syndrome (proximal weakness).
 
-## 5. Venous Drainage (Slide 33-42)
-*   **Dural Venous Sinuses:** Valveless channels between dural layers.
-    *   **Superior Sagittal Sinus:** Drains superficial veins. Absorption of CSF via Arachnoid Granulations.
-    *   **Cavernous Sinus:** Contains ICA and CN III, IV, V1, V2, VI. Infection here causes multiple nerve palsies.
-*   **Cerebral Venous Thrombosis (CVT):**
-    *   **Risk Factors:** Pregnancy, OCPs, Hypercoagulability ("Virchow's Triad").
-    *   **Signs:** Headache, Seizures, Papilledema.
+### Venous Drainage (Slides 32-42)
+Veins drain into Valveless **Dural Venous Sinuses**:
+*   **Superior Sagittal Sinus (SSS):** Drains superficial veins + CSF (via arachnoid granulations).
+*   **Cavernous Sinus:** A venous plexus surrounding the Sella Turcica.
+    *   *Contents:* **ICA**, **CN VI** (freely inside), and **CN III, IV, V1, V2** (in the wall).
+    *   *Pathology:* Cavernous Sinus Thrombosis or Fistula can cause multiple cranial nerve palsies.
 
+    *   *Presentation:* **"Thunderclap Headache"** (Worst headache of life), meningeal signs.
+:::
 `,
+    pearls: [
+        {
+            "title": "CNS Blood Flow Rule",
+            "content": "The brain is 2% of body weight but consumes **20%** of oxygen/glucose. It has zero reserve."
+        },
+        {
+            "title": "Stroke Homunculus Rule",
+            "content": "**ACA** = Medial aspect = **Legs/Feet**.\n**MCA** = Lateral aspect = **Face/Arms/Hands** + Speech."
+        },
+        {
+            "title": "Amaurosis Fugax",
+            "content": "Transient monocular blindness ('Curtain coming down') is a TIA of the **Ophthalmic Artery**, warning of impending ICA stroke."
+        },
+        {
+            "title": "CN III Compression",
+            "content": "Aneurysms of the **PCom** or between **SCA and PCA** often compress CN III, causing a 'Down and Out' eye with a **blown pupil**."
+        },
+        {
+            "title": "Lenticulostriate Arteries",
+            "content": "These small vessels supply the Basal Ganglia. They are the primary site of hypertensive lipohyalinosis and **Lacunar Infarcts**."
+        },
+        {
+            "title": "Aphasia Localization",
+            "content": "Aphasia is usually Left MCA.\n**Broca's** (Frontal) = Broken speech.\n**Wernicke's** (Temporal) = Word salad."
+        }
+    ],
     questions: [
         {
             question: "**1. A 65-year-old man presents with sudden difficulty understanding language. He speaks fluently but uses nonsensical words ('Word Salad'). MRI shows an ischemic stroke. Which artery is most likely involved and which area is affected?**",

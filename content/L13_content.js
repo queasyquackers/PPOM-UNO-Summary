@@ -1,142 +1,219 @@
-const L13_CONTENT = {
-    id: 'l13',
-    title: 'Lecture #13: Clinical Decision Making (DPR)',
-    lecturer: 'Richard Morgan, D.O.',
-    module: 'DPR',
-    session: 'Lecture #13',
-    prev: 'l12',
-    next: 'l14',
-    pdf: 'pdfs/Lecture # 13. R. Morgan, D.O. (PPT).pdf',
-    transcript: 'transcripts/Lecture #13_ DPR_ Clinical Decision Making Faculty_ R. Morgan, D.O..srt',
+export const L13_CONTENT = {
+    id: "l13",
     summary: `
-# Lecture #13: Clinical Decision Making
+# Lecture 13: Clinical Decision Making
 
-**Lecturer:** Richard Morgan, D.O.
-**Session:** DPR (Doctor-Patient Relationship)
+**Lecturer:** R. Morgan, D.O.
+**Session:** Lecture 13
 
-## 1. Dual Process Theory (Slide 4)
-*   **System 1 (Intuitive):** Fast, Automatic, Subconscious, Habit-based. Uses **Heuristics** (Mental shortcuts). Prone to bias.
-*   **System 2 (Hypothetico-Deductive):** Slow, Analytical, Deliberate, Logical. Used for complex/new cases.
+## 1. Dual Process Theory (Slide 4-5)
 
-## 2. Cognitive Biases (Slides 5, 26-27)
-Errors in System 1 thinking.
-*   **Anchoring:** Locking onto salient features in the initial presentation too early.
-*   **Availability Heuristic:** Diagnosing what is "available" in memory (e.g., a disease you just saw 5 cases of, or a rare "zebra" you read about).
-*   **Confirmation Bias:** Seeking evidence to support your diagnosis while ignoring evidence that refutes it.
-*   **Premature Closure:** Stopping the diagnostic process before considering all possibilities.
+Clinical reasoning involves two cognitive systems:
+*   **System 1 (Intuitive):** Fast, automatic, reflexive, pattern recognition. Used by experts for common cases. Prone to **Heuristic Biases**.
+*   **System 2 (Hypothetico-Deductive):** Slow, analytical, deliberate. Used for complex or unclear cases. Less prone to bias but resource-intensive.
 
-## 3. Clinical Reasoning Steps
-1.  **Patient Story:** History & Physical.
-2.  **Problem Representation:** A one-sentence summary of the case (Patient Age/Gender + Epidemiology + Key Symptoms + Time Course).
-3.  **Differential Diagnosis (DDx):** List of potential causes.
-    *   *Mnemonic:* **VINDICATE** (Vascular, Infectious, Neoplastic, Drug, Inflammatory, Congenital, Autoimmune, Trauma, Endocrine).
-4.  **Illness Scripts:** Mental model of a disease (Epi, Pathophys, Signs/Symptoms, Diagnostics, Treatment).
-5.  **Assessment & Plan:** Final diagnosis and treatment strategy.
+## 2. Cognitive Biases (Heuristics) (Slide 5, 26-28)
 
-## 4. Case Study (Slide 30)
-*   3yo Male, fever, ear pain, bulging TM.
-*   **Diagnosis:** Acute Otitis Media (Suppurative).
-*   **Plan:** Amoxicillin + OMT.
+*   **Anchoring:** Locking onto salient features in the patient's initial presentation too early and failing to adjust.
+*   **Availability Bias:** Judging a diagnosis as more likely because it is easily recalled (e.g., you just saw 3 cases of Appendicitis, so the next belly pain *must* be Appendicitis).
+*   **Confirmation Bias:** Seeking evidence to support your hypothesis while ignoring evidence that refutes it.
+*   **Premature Closure:** Stopping the diagnostic process before verifying the diagnosis or considering other possibilities. "When the diagnosis is made, the thinking stops."
+
+## 3. The Diagnostic Framework
+
+### VINDICATE Mnemonic (Slide 15)
+A checklist to generate a broad Differential Diagnosis (DDx).
+*   **V**ascular
+*   **I**nfectious
+*   **N**eoplastic
+*   **D**rug / Degenerative
+*   **I**nflammatory / Idiopathic
+*   **C**ongenital
+*   **A**utoimmune / Allergic
+*   **T**rauma / Toxic
+*   **E**ndocrine / Metabolic
+
+### Illness Scripts (Slide 18, 22)
+An organized mental summary of a disease, including:
+*   **Epidemiology/Pathophysiology:** Who gets it? Why?
+*   **Time Course:** Acute, Subacute, Chronic?
+*   **Salient Symptoms/Signs:** Key features (Prototypical presentation).
+*   **Diagnostics/Treatment:** Labs, Imaging, Meds.
+
+## 4. Problem Representation (Slide 12, 35)
+A one-sentence summary of the case used to communicate and reason.
+*   *Structure:* [Patient Age/Sex/Risk Factors] presents with [Time Course] [Chief Complaint] characterized by [Key Features].
+*   *Example:* "A 3yo male with no PMH presents with 2 days of fever and ear pulling, found to have a bulging erythematous TM."
+
+:::correlate
+**Case Study: Acute Otitis Media (AOM)**
+*   **Presentation:** Fever, Ear Pain (Otalgia), Bulging Tympanic Membrane (TM), Loss of benchmarks.
+*   **Pathogens:** *Strep pneumoniae*, *Haemophilus influenzae*, *Moraxella catarrhalis*.
+*   **DDx:**
+    *   **Serous Otitis Media:** Fluid (effusion) but no active infection/bulging.
+    *   **Otitis Externa:** Swimmer's ear. Canal inflammation. Pain with tragal motion. flesh-colored canal makes this unlikely.
+:::
 `,
+    pearls: [
+        {
+            title: "System 1 vs System 2",
+            content: "**System 1:** Fast, Intuitive (Gut feeling). Prone to bias.\\n**System 2:** Slow, Analytical (Math problem). More accurate."
+        },
+        {
+            title: "VINDICATE Mnemonic",
+            content: "Vascular, Infectious, Neoplastic, Drug/Degenerative, Inflammatory/Idiopathic, Congenital, Autoimmune, Trauma/Toxic, Endocrine/Metabolic."
+        },
+        {
+            title: "Confirmation Bias",
+            content: "The tendency to look only for evidence that confirms your hunch and ignore evidence that contradicts it."
+        },
+        {
+            title: "Availability Bias",
+            content: "Diagnosing something because you recently saw it or it's 'top of mind' (e.g., flu during flu season)."
+        },
+        {
+            title: "Premature Closure",
+            content: "The most common fatal error: Accepting a diagnosis before it is fully verified and stopping the search for alternatives."
+        }
+    ],
     questions: [
         {
-            question: "**1. A clinician sees a patient with a cough and fever. Because they have seen 10 cases of Influenza this morning during flu season, they immediately diagnose Influenza without considering Pneumonia or COVID-19. This is an example of which cognitive bias?**",
+            question: "A resident diagnoses a patient with Influenza because 'everyone coming into the ER today has the flu', despite the patient having neck stiffness and a rash. Which cognitive bias is at play?",
             options: [
-                "Anchoring Bias",
-                "Availability Heuristic",
+                "Anchoring",
+                "Availability Bias",
                 "Confirmation Bias",
                 "Premature Closure",
                 "Sunk Cost Fallacy"
             ],
-            correctAnswer: 1,
-            rationale: "From Slide 5/26: **Availability Heuristic** occurs when a diagnosis is selected because it is readily available in the clinician's mind (e.g., recent frequent exposure), ignoring the specific probability for the current patient."
+            answer: 1,
+            explanation: "**Availability Bias** is judging frequency or probability by how easily examples come to mind (e.g., a recent run of flu cases)."
         },
         {
-            question: "**2. Which thinking system is described as 'Slow, Analytical, Deliberate, and Logical', often used by students or when specific patterns are not recognized?**",
-            options: [
-                "System 1",
-                "System 2",
-                "Intuitive System",
-                "Heuristic System",
-                "Reflexive System"
-            ],
-            correctAnswer: 1,
-            rationale: "From Slide 4: **System 2** is the Hypothetico-Deductive system. It is slow, effortful, and analytical, used when System 1 (Intuitive) fails or for complex cases."
-        },
-        {
-            question: "**3. 'Seeking supportive evidence for a diagnosis while excluding more persuasive information that generates a refuting hypothesis' describes which bias?**",
-            options: [
-                "Anchoring",
-                "Confirmation Bias",
-                "Availability",
-                "Outcome Bias",
-                "Blind Spot Bias"
-            ],
-            correctAnswer: 1,
-            rationale: "From Slide 26: **Confirmation Bias** is the tendency to look for evidence that confirms your pre-existing beliefs/hypothesis and ignore evidence that contradicts it."
-        },
-        {
-            question: "**4. In the VINDICATE mnemonic for generating a differential diagnosis, what does the 'N' stand for?**",
+            question: "When generating a differential diagnosis for a 60-year-old male with back pain, you use the mnemonic VINDICATE. The 'N' stands for:",
             options: [
                 "Neurologic",
                 "Nutritional",
                 "Neoplastic",
-                "Neonatal",
-                "Necrotic"
+                "Nociceptive",
+                "Neonatal"
             ],
-            correctAnswer: 2,
-            rationale: "From Slide 15: In VINDICATE, **N** stands for **Neoplastic** (Tumors/Cancer)."
+            answer: 2,
+            explanation: "**N** in VINDICATE stands for **Neoplastic** (Cancer), a critical category to consider in older adults with new back pain."
         },
         {
-            question: "**5. A 'Problem Representation' in clinical reasoning is best defined as:**",
+            question: "Which of the following best describes 'System 2' thinking?",
             options: [
-                "A list of all patient medications",
-                "The patient's chief complaint in their own words",
-                "A synthesized sentence summarizing the patient's demographics, epidemiology, and key clinical features",
-                " The final ICD-10 diagnosis code",
-                "The plan of care"
+                "Fast and reflexive",
+                "Pattern recognition",
+                "Slow and analytical",
+                "Prone to emotional influence",
+                "Automatic association"
             ],
-            correctAnswer: 2,
-            rationale: "From Slide 12: A **Problem Representation** is a 1-sentence summary synthesizing the patient's demographics, risk factors, and key clinical presentation (e.g., '3yo male with acute onset fever and ear pain...')."
+            answer: 2,
+            explanation: "**System 2** is the slow, deliberate, analytical mode of thinking used for complex problems."
+        },
+        {
+            question: "A 3-year-old presents with ear pain. Exam reveals a bulging, erythematous tympanic membrane with loss of bony landmarks. The most likely diagnosis is:",
+            options: [
+                "Otitis Externa",
+                "Serous Otitis Media",
+                "Mastoiditis",
+                "Acute Otitis Media (Suppurative)",
+                "Foreign Body"
+            ],
+            answer: 3,
+            explanation: "**Bulging** and **erythema** of the TM are hallmark signs of Acute (Suppurative) Otitis Media."
+        },
+        {
+            question: "You suspect a patient has a Pulmonary Embolism. You order a D-dimer, which is negative, but you dismiss the result as a 'lab error' because you are so sure of your diagnosis. This is an example of:",
+            options: [
+                "Confirmation Bias",
+                "Anchoring",
+                "Availability Bias",
+                "Visceral Bias",
+                "Gambler's Fallacy"
+            ],
+            answer: 1,
+            explanation: "**Confirmation Bias** involves interpreting evidence to support your existing beliefs (the PE diagnosis) while dismissing contradictory evidence (the negative D-dimer)."
         }
     ],
     flashcards: [
-        { "front": "System 1 Thinking?", "back": "Fast, Intuitive, Heuristic", "tag": "DPR" },
-        { "front": "System 2 Thinking?", "back": "Slow, Analytical, Deliberate", "tag": "DPR" },
-        { "front": "Availability Heuristic?", "back": "Diagnosing what comes to mind easily (recent/common)", "tag": "DPR" },
-        { "front": "Anchoring Bias?", "back": "Reliant on first piece of information", "tag": "DPR" },
-        { "front": "Confirmation Bias?", "back": "Seeking only evidence that confirms hypothesis", "tag": "DPR" },
-        { "front": "Premature Closure?", "back": "Stopping diagnosis too early", "tag": "DPR" },
-        { "front": "VINDICATE 'V'?", "back": "Vascular", "tag": "DPR" },
-        { "front": "VINDICATE 'I'?", "back": "Infectious / Inflammatory", "tag": "DPR" },
-        { "front": "VINDICATE 'N'?", "back": "Neoplastic", "tag": "DPR" },
-        { "front": "Illness Script?", "back": "Mental summary of a disease (Epi, Path, Sx, Tx)", "tag": "DPR" }
+        {
+            front: "System 1 Thinking",
+            back: "Fast, Intuitive, Automatic",
+            tag: "Clinical Reasoning"
+        },
+        {
+            front: "System 2 Thinking",
+            back: "Slow, Analytical, Deliberate",
+            tag: "Clinical Reasoning"
+        },
+        {
+            front: "Availability Bias",
+            back: "Diagnosing based on what is readily recalled (recent cases)",
+            tag: "Clinical Reasoning"
+        },
+        {
+            front: "Anchoring Bias",
+            back: "Sticking to initial impressions despite new data",
+            tag: "Clinical Reasoning"
+        },
+        {
+            front: "Premature Closure",
+            back: "Stopping the diagnostic process too early",
+            tag: "Clinical Reasoning"
+        },
+        {
+            front: "VINDICATE: V",
+            back: "Vascular",
+            tag: "Clinical Reasoning"
+        },
+        {
+            front: "VINDICATE: I (first)",
+            back: "Infectious",
+            tag: "Clinical Reasoning"
+        },
+        {
+            front: "VINDICATE: N",
+            back: "Neoplastic",
+            tag: "Clinical Reasoning"
+        },
+        {
+            front: "Illness Script Components",
+            back: "Pathophys, Epidemiology, Time Course, Symptoms, Diagnostics, Treatment",
+            tag: "Clinical Reasoning"
+        },
+        {
+            front: "Key sign of Acute Otitis Media",
+            back: "Bulging Tympanic Membrane",
+            tag: "Clinical Reasoning"
+        }
     ],
-    mindmap: `
-## Clinical Decision Making
-### Dual Process
-*   **System 1**: Fast, Intuitive (Heuristics)
-*   **System 2**: Slow, Analytical
-### Biases
-*   **Availability**: Recent experience
-*   **Anchoring**: First impression
-*   **Confirmation**: Ignoring contrary data
-*   **Premature Closure**: Stopping early
-### Process
-*   **Patient Story** -> **Problem Rep** -> **DDx** -> **Diagnosis**
-*   **Mnemonics**: VINDICATE
-`
-,
     ankingResource: {
         primarySource: "BandB",
-        chapter: "Epidemiology > Biostatistics > Bias",
+        chapter: "Infectious Disease > HEENT",
         alternatives: [
-            { "resource": "FirstAid", "chapter": "Public Health > Epidemiology" },
-            { "resource": "Pathoma", "chapter": "Fundamentals > Neoplasia" }
+            { resource: "FirstAid", chapter: "Public Health > Epidemiology > Bias" },
+            { resource: "Pathoma", chapter: "General Principles" }
         ]
-    }
-};
+    },
+    mindmap: `
+## Clinical Decision Making
 
-if (typeof window !== 'undefined') {
-    window.L13_CONTENT = L13_CONTENT;
-}
+### Dual Process Theory
+*   **System 1**: Intuitive, Fast, Bias-prone
+*   **System 2**: Analytical, Slow, Reliable
+
+### Cognitive Biases
+*   **Anchoring**: First impression stuck
+*   **Availability**: Recent memory bias
+*   **Confirmation**: Seeking supportive data
+*   **Premature Closure**: "Done thinking"
+
+### Frameworks
+*   **VINDICATE**: Checking all categories
+*   **Illness Scripts**: Mental disease models
+*   **Problem Representation**: One-liner summary
+\`
+};

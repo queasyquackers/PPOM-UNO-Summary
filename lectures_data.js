@@ -500,71 +500,106 @@ Dysfunction at the joint itself without asymmetry of height.
 
 **Lecturer:** K. Poole, Ph.D.
 **Session:** Lecture #2
-**Topic:** Neuroembryology
+**Topic:** Embryonic development of the Nervous System
 
-## 1. Early Development & Gastrulation
-*   **Gastrulation (Week 3):** Formation of the three germ layers.
-    *   **Ectoderm:** Nervous system, skin (epidermis).
-    *   **Mesoderm:** Muscle, bone, connective tissue, notochord.
-    *   **Endoderm:** Gut tube, internal organs.
-*   **Notochord:** Derived from mesoderm. Induces the overlying ectoderm to thicken and become the **Neural Plate**.
+## 1. Gastrulation and Neurulation (Slides 3-8)
 
-## 2. Neurulation (Weeks 3-4)
-*   **Process:**
-    1.  **Neural Plate:** Thickening of ectoderm.
-    2.  **Neural Groove:** Midline depression forms.
-    3.  **Neural Folds:** Lateral edges rise and fuse.
-    4.  **Neural Tube:** Fusion creates a hollow tube.
-        *   Fuses in the middle (cervical region) first, then "zips" rostrally and caudally.
-*   **Neuropores:** Openings at ends of the tube.
-    *   **Anterior (Rostral) Neuropore:** Closes ~Day 25.
-    *   **Posterior (Caudal) Neuropore:** Closes ~Day 27-28.
+### Gastrulation (Week 3)
+The process begins with **Gastrulation**, establishing the three germ layers:
+*   **Ectoderm:** Gives rise to the **Nervous System** and skin (epidermis).
+*   **Mesoderm:** Forms muscle, bone, connective tissue, and the **Notochord**.
+*   **Endoderm:** Forms the gut tube and internal organs.
 
-## 3. Neural Crest Cells
-*   **Origin:** Cells at the edge of the neural folds that detatch during closure.
-*   **Derivatives ("4th Germ Layer"):**
-    *   DRG neurons
-    *   Autonomic ganglia
-    *   Schwann cells
-    *   Adrenal medulla
-    *   Melanocytes
-    *   Craniofacial bones/cartilage
+### Notochord Induction
+The **Notochord**, a rod-like mesodermal structure, is the key inducer. It secretes signaling molecules (including **Sonic Hedgehog [SHH]** and **BMPs**) that signal the overlying ectoderm to thicken and differentiate into the **Neural Plate** (Slide 4, 17).
 
-## 4. Primary & Secondary Vesicles
-*   **3 Primary Vesicles (Week 4):**
-    1.  **Prosencephalon** (Forebrain)
-    2.  **Mesencephalon** (Midbrain)
-    3.  **Rhombencephalon** (Hindbrain)
-*   **5 Secondary Vesicles (Week 5):**
-    *   **Prosencephalon** -> **Telencephalon** & **Diencephalon**
-    *   **Mesencephalon** -> **Mesencephalon** (stays same)
-    *   **Rhombencephalon** -> **Metencephalon** & **Myelencephalon**
+### Neurulation
+The transformation of the neural plate into the neural tube is the fundamental event of the nervous system.
+1.  **Neural Plate:** Thickened ectoderm (Day 19).
+2.  **Neural Groove:** The midline invaginates (Day 20).
+3.  **Neural Folds:** The lateral edges elevate.
+4.  **Neural Tube:** The folds fuse in the midline, creating a hollow tube. This fusion begins in the cervical region and "zips" rostrally and caudally.
 
-:::mnemonic
-**Brain Vesicles**
-*   **Tel** (Tell) -> Cerebrum
-*   **Di** (Die) -> Thalamus/Hypothalamus
-*   **Mes** (Me) -> Midbrain
-*   **Met** (Met) -> Pons/Cerebellum
-*   **Myel** (My) -> Medulla
-:::
+**Neuropore Closure:**
+The tube is initially open at both ends. Timing is critical:
+*   **Rostral (Anterior) Neuropore:** Closes around **Day 25**.
+*   **Caudal (Posterior) Neuropore:** Closes around **Day 27-28**.
 
-## 5. Clinical Correlates
+## 2. Neural Crest Cells (Slides 13-15)
+As the neural tube closes, cells at the crest of the neural folds detach and migrate away. These are the **Neural Crest Cells**, often termed the "4th Germ Layer" due to their wide variation.
+*   **PNS Derivatives:** Dorsal Root Ganglia (Sensory), Autonomic Ganglia, Schwann Cells.
+*   **Other Derivatives:** Melanocytes, Adrenal Medulla, Craniofacial bones/cartilage (face), Odontoblasts (teeth).
+
+## 3. Neural Tube Differentiation (Slides 16-19)
+The wall of the neural tube organizes into distinct layers:
+*   **Ventricular Zone:** Inner layer (neuroepithelium), becomes **Ependymal cells** lining ventricles.
+*   **Mantle Layer:** Middle layer, becomes **Gray Matter** (cell bodies).
+*   **Marginal Layer:** Outer layer, becomes **White Matter** (axons).
+
+**Dorsal-Ventral Patterning (Slide 17, 28):**
+*   **Alar Plate (Dorsal):** Induced by **BMPs/TGF-β**. Becomes **Sensory** regions (Dorsal Horn).
+*   **Basal Plate (Ventral):** Induced by **SHH** (from Notochord). Becomes **Motor** regions (Ventral Horn).
+*   **Sulcus Limitans:** The groove separating Alar (sensory) and Basal (motor) plates.
+
+## 4. Brain Development: Vesicles (Slides 21-25)
+The rostral neural tube expands into vesicles.
+**3 Primary Vesicles (Week 4):**
+1.  **Prosencephalon** (Forebrain)
+2.  **Mesencephalon** (Midbrain)
+3.  **Rhombencephalon** (Hindbrain)
+
+**5 Secondary Vesicles (Week 5):**
+*   **Prosencephalon** divides into:
+    *   **Telencephalon:** Cerebral Hemispheres, Lateral Ventricles.
+    *   **Diencephalon:** Thalamus, Hypothalamus, Retina, Third Ventricle.
+*   **Mesencephalon:** Remains **Mesencephalon** (Midbrain, Cerebral Aqueduct).
+*   **Rhombencephalon** divides into:
+    *   **Metencephalon:** Pons, Cerebellum, Upper 4th Ventricle.
+    *   **Myelencephalon:** Medulla, Lower 4th Ventricle.
+
+## 5. Clinical Correlates: Congenital Disorders
+
 :::correlate
 **Neural Tube Defects (NTDs)**
-*   **Cause:** Failure of neuropore closure. Associated with **low Folic Acid (Vitamin B9)**.
-*   **Anencephaly:** Failure of **Rostral** neuropore to close. No forebrain/calvaria. Polyhydramnios (can't swallow amniotic fluid). Incompatible with life.
-*   **Spina Bifida:** Failure of **Caudal** neuropore to close.
-    *   *Occulta:* Mild, tuft of hair, vertebral arch defect.
-    *   *Meningocele:* Meninges herniate.
-    *   *Myelomeningocele:* Meninges + Spinal Cord herniate (Severe).
+Caused by failure of neuropore closure. Strongly associated with **Folate (Vitamin B9)** deficiency.
+*   **Anencephaly (Meroencephaly):** Failure of **Rostral** neuropore closure. Forebrain and skull vault fail to form. "Frog-like" appearance. Incompatible with life.
+*   **Spina Bifida:** Failure of **Caudal** neuropore closure.
+    *   **Occulta:** Defect in vertebral arch only. Tuft of hair/dimple. Asymptomatic.
+    *   **Meningocele:** Meninges herniate through defect. Fluid-filled sac.
+    *   **Myelomeningocele:** Meninges + Spinal Cord herniate. Severe neurologic deficit (paralysis, sensory loss).
+*   **Encephalocele:** Herniation of brain tissue through a skull defect (often occipital).
 :::
 
 :::correlate
-**Holoprosencephaly**
-*   **Pathology:** Failure of cleavage of the Prosencephalon (Forebrain) into left/right hemispheres.
-*   **Presentation:** Midline facial defects (cleft lip/palate, cyclopia in severe cases).
-*   **Association:** Trisomy 13 (Patau), Sonic Hedgehog mutations.
+**Holoprosencephaly (HPE) (Slide 26-27)**
+*   **Pathology:** Failure of the **Prosencephalon** (Forebrain) to cleavage/divide into two hemispheres.
+*   **Mechanism:** Defect in midline induction (often **SHH pathway**).
+*   **Presentation:** Spectrum of midline facial defects: Cleft lip/palate, hypotelorism, **Cyclopia** (single eye) and proboscis (tube nose) in severe cases.
+*   **Associations:** Patau Syndrome (Trisomy 13), Fetal Alcohol Syndrome.
+:::
+
+:::correlate
+**Dandy-Walker Syndrome (Slide 32)**
+*   **Pathology:** Agenesis or hypoplasia of the **Cerebellar Vermis**.
+*   **Mechanism:** Failure of the **Rhombic Lip** to develop (Metencephalon).
+*   **Imaging:** Large posterior fossa cyst (dilated 4th ventricle) + small/absent cerebellum.
+*   **Symptoms:** Hydrocephalus, Ataxia, Delayed motor development.
+:::
+
+:::correlate
+**Microcephaly (Slide 38)**
+*   **Pathology:** Small brain -> Small skull (Calvaria grows in response to brain growth).
+*   **Causes:**
+    *   **Genetics:** Autosomal recessive.
+    *   **Infections:** **Zika Virus**, Cytomegalovirus (CMV), Rubella, Toxoplasmosis.
+    *   **Environment:** Fetal Alcohol Sulfate, Radiation.
+:::
+
+:::correlate
+**Hydrocephalus (Slide 44)**
+*   **Pathology:** Accumulation of CSF in ventricles due to obstruction or impaired absorption.
+*   **Congenital Cause:** **Aqueductal Stenosis** (narrowing of Cerebral Aqueduct of Sylvius) is the most common cause. Blocks flow from 3rd to 4th ventricle.
+*   **Signs:** Rapidly enlarging head circumference, bulging fontanelles, "Sunset eyes".
 :::
 `,
     questions: [
@@ -671,79 +706,118 @@ Dysfunction at the joint itself without asymmetry of height.
 **Lecturers:** Vladimir Grubisic, M.D., Ph.D. & Vincy Mathew
 **Session:** Neuroanatomy
 
-
-
-## 1. Central Nervous System Barriers (Slide 6-8)
-To maintain neural homeostasis, the CNS is isolated from the rest of the body by three key interfaces:
-1.  **Blood-Brain Barrier (BBB):** Capillary endothelial cells + Pericytes + Astrocyte end-feet.
-2.  **Blood-CSF Barrier:** Choroid plexus epithelial cells.
-3.  **Arachnoid Barrier:** Avascular arachnoid epithelium enclosing the CNS.
+## 1. Central Nervous System Barriers (Slides 6-9)
+The CNS is an immunologically privileged site, protected from the fluctuating chemical environment of the blood by three major barriers:
 
 ### Blood-Brain Barrier (BBB)
+*   **Location:** Capillaries within the brain parenchyma.
 *   **Structure:**
-    *   **Tight Junctions (Zona Occludens):** Connect endothelial cells, preventing paracellular transport (Slide 8).
-    *   **Composed of:** Occludin, Claudin, and Junctional Adhesion Molecules (JAMs).
-*   **Function:** Highly selective; allows lipophilic molecules (O2, CO2) but blocks polar/large molecules.
-*   **Clinical Significance (Parkinson's Disease) (Slide 12):**
-    *   Dopamine (polar) *cannot* cross the BBB.
-    *   **Levodopa (L-DOPA)** (non-polar precursor) *can* cross via transporters. Once inside, it is decarboxylated to Dopamine (Slide 12).
+    *   **Endothelial Cells:** The physical barrier, connected by **Tight Junctions (Zona Occludens)**.
+    *   **Pericytes:** Contractile cells that wrap around endothelial cells.
+    *   **Astrocyte End-feet:** Induce and maintain the barrier properties.
+*   **Function:** Highly selective.
+    *   **Permeable:** Lipid-soluble substances (O2, CO2, Ethanol, Steroid hormones).
+    *   **Impermeable:** Polar/Large molecules (Glucose, Amino acids, Dopamine) require specific transporters.
+
+:::correlate
+**Parkinson's Disease & Levodopa (Slide 12)**
+*   **Problem:** Parkinson's is due to dopamine depletion. **Dopamine** is polar and **cannot cross the BBB**.
+*   **Solution:** **Levodopa (L-DOPA)** is a precursor that *can* cross the BBB via amino acid transporters. Once inside neurons, it is converted to dopamine by DOPA decarboxylase.
+:::
+
+### Other Barriers
+*   **Blood-CSF Barrier:** Formed by **Tight Junctions** between the **Epithelial Cells** of the **Choroid Plexus**.
+*   **Arachnoid Barrier:** Avascular arachnoid epithelium seals the CSF from the extracellular fluid of the dura.
 
 ### Circumventricular Organs (CVOs) (Slide 14-16)
-Areas of the brain that **LACK** a BBB to allow sampling of blood chemistry.
-*   **Area Postrema:** "Vomiting Center" in medulla. Detects toxins.
-    *   *Side effect:* Levodopa can stimulate the Area Postrema causing nausea (before it enters the brain). **Carbidopa** is given to prevent peripheral conversion and reduce nausea (Slide 16).
-*   **Subfornical Organ & OVLT:** Osmoregulation.
-*   **Posterior Pituitary / Median Eminence:** Neuroendocrine release.
+Specific brain regions that **lack a BBB**. Their capillaries are fenestrated to allow communication between the blood and brain for sensory or secretory functions.
+*   **Sensory CVOs:**
+    *   **Area Postrema:** Located in the caudal medulla (floor of 4th ventricle). Functions as the **Chemoreceptor Trigger Zone (CTZ)** to detect toxins and induce **vomiting**.
+    *   **Subfornical Organ (SFO) & OVLT:** Detect plasma osmolarity and Angiotensin II.
+*   **Secretory CVOs:**
+    *   **Posterior Pituitary (Neurohypophysis):** Releases Oxytocin and ADH.
+    *   **Pineal Gland:** Secretes Melatonin.
+    *   **Median Eminence:** Releases hypothalamic hormones.
+
+:::correlate
+**Levodopa-Induced Nausea (Slide 16)**
+Because the **Area Postrema** lacks a BBB, circulating Levodopa can stimulate dopamine receptors there *before* entering the brain, causing severe nausea/vomiting.
+*   **Prevention:** Co-administration of **Carbidopa**, a peripheral DOPA decarboxylase inhibitor that does *not* cross the BBB.
+:::
 
 ---
 
-## 2. Meninges and Spaces (Slide 22-24)
-Three protective layers ("PAD" from inside out: Pia, Arachnoid, Dura):
+## 2. The Meninges (Slides 20-25)
+The brain is encased in three layers ("PAD"):
+1.  **Dura Mater ("Hard Mother"):** Tough, outer layer.
+    *   **Periosteal Layer:** Attached to the skull.
+    *   **Meningeal Layer:** Inner layer. Separates from periosteal layer to form **Dural Venous Sinuses** and **Dural Folds** (Falx Cerebri, Tentorium Cerebelli).
+2.  **Arachnoid Mater ("Spider Mother"):** Wispy, intermediate layer.
+    *   **Arachnoid Granulations:** One-way valves that drain CSF into venous sinuses.
+3.  **Pia Mater ("Soft Mother"):** Delicate inner layer, adherent to the brain surface (follows gyri/sulci).
 
-1.  **Dura Mater (Hard):**
-    *   **Periosteal Layer:** Adheres to skull.
-    *   **Meningeal Layer:** Inner layer; forms dural folds (Falx Cerebri, Tentorium Cerebelli).
-    *   **Epidural Space:** Potential space above Dura. Contains **Middle Meningeal Artery**. Rupture -> **Epidural Hematoma** (Lens shape).
-    *   **Subdural Space:** Potential space below Dura. Contains **Bridging Veins**. Rupture -> **Subdural Hematoma** (Crescent shape, seniors/alcoholics).
-
-2.  **Arachnoid Mater (Spider):**
-    *   Avascular.
-    *   **Subarachnoid Space:** Real space containing **CSF** and major arteries. Rupture (Aneurysm) -> **Subarachnoid Hemorrhage** ("Thunderclap headache").
-
-3.  **Pia Mater (Soft):** Adheres to brain surface.
-
-### Dural Folds (Slide 25)
-*   **Falx Cerebri:** Separates cerebral hemispheres.
-*   **Tentorium Cerebelli:** Separates cerebrum from cerebellum.
-
----
-
-## 3. Brain Herniations (Slide 26-29)
-Increased Intracranial Pressure (ICP) can force brain tissue through dural openings.
-
-### A. Subfalcine (Cingulate) Herniation
-*   Cingulate gyrus pushes under Falx Cerebri.
-*   **Sign:** Contralateral leg weakness (ACA compression).
-
-### B. Transtentorial (Uncal) Herniation
-*   Uncus (temporal lobe) pushes past Tentorium Cerebelli.
-*   **Signs:**
-    *   **Blown Pupil (CN III):** Ipsilateral fixed/dilated pupil.
-    *   **Hemiplegia:** Cerebral peduncle compression.
-    *   *Emergency!* (Slide 28).
-
-### C. Transforaminal (Tonsillar) Herniation
-*   Cerebellar tonsils push through Foramen Magnum.
-*   **Sign:** Respiratory arrest (Brainstem compression).
+### Meningeal Spaces & Hemorrhages
+*   **Epidural Space:** *Potential* space between Skull and Dura.
+    *   **Vessel:** **Middle Meningeal Artery (MMA)**.
+    *   **Pathology:** **Epidural Hematoma** (Trauma to Pterion -> Lens-shaped bleed).
+*   **Subdural Space:** *Potential* space between Dura and Arachnoid.
+    *   **Vessel:** **Bridging Veins**.
+    *   **Pathology:** **Subdural Hematoma** (Shearing forces/Shaken Baby -> Crescent-shaped bleed).
+*   **Subarachnoid Space:** *Real* space between Arachnoid and Pia.
+    *   **Contents:** **CSF** and major cerebral arteries/veins.
+    *   **Pathology:** **Subarachnoid Hemorrhage** (Ruptured Aneurysm -> "Thunderclap Headache").
 
 ---
 
-## 4. Ventricular System & CSF (Slide 35-39)
-*   **Lateral Ventricles** -> Foramen of Monro -> **3rd Ventricle** -> Cerebral Aqueduct (Sylvius) -> **4th Ventricle** -> Foramina of Luschka/Magendie -> Subarachnoid Space.
-*   **Hydrocephalus:**
-    *   **Non-Communicating (Obstructive):** Blockage (e.g., Aqueduct stenosis).
-    *   **Communicating:** Impaired absorption (Arachnoid granulations).
-    *   **Normal Pressure Hydrocephalus (NPH):** "Wet, Wobbly, Wacky" (Incontinence, Ataxia, Dementia).
+## 3. Brain Herniations (Slides 26-29)
+Increased Intracranial Pressure (ICP) can force brain tissue through compartments.
+
+:::correlate
+**A. Subfalcine (Cingulate) Herniation**
+*   **Displacement:** Cingulate gyrus herniates *under* the **Falx Cerebri**.
+*   **Sequelae:** Can compress the **Anterior Cerebral Artery (ACA)** -> Contralateral leg weakness.
+:::
+
+:::correlate
+**B. Transtentorial (Uncal) Herniation**
+*   **Displacement:** Medial Temporal Lobe (**Uncus**) herniates *past* the **Tentorium Cerebelli**.
+*   **Sequelae:**
+    *   Compresses **CN III (Oculomotor)** -> **Ipsilateral "Blown" Pupil** (Fixed & Dilated), "Down and Out" eye.
+    *   Compresses Cerebral Peduncle -> Contralateral Hemiparesis.
+    *   Compresses PCA -> Cortical blindness.
+:::
+
+:::correlate
+**C. Transforaminal (Tonsillar) Herniation**
+*   **Displacement:** Cerebellar **Tonsils** herniate through the **Foramen Magnum**.
+*   **Sequelae:** Compresses the **Medulla** (Cardiorespiratory centers) -> **Respiratory Arrest** and death.
+:::
+
+---
+
+## 4. Ventricular System & CSF (Slides 35-43)
+### CSF Flow Pathway
+1.  **Lateral Ventricles** (via Foramen of **Monro**) -->
+2.  **Third Ventricle** (via Cerebral **Aqueduct of Sylvius**) -->
+3.  **Fourth Ventricle** (via Foramina of **Luschka** [Lateral] and **Magendie** [Medial]) -->
+4.  **Subarachnoid Space** -->
+5.  **Arachnoid Granulations** -->
+6.  **Superior Sagittal Sinus** (Venous blood).
+
+### Hydrocephalus
+Accumulation of CSF resulting in ventricular enlargement.
+*   **Non-Communicating (Obstructive):** Blockage *within* the ventricles.
+    *   *Common Cause:* **Aqueductal Stenosis** (Slide 44). Lateral & 3rd ventricles dilate; 4th remains normal.
+*   **Communicating:** Blockage of *absorption* (Arachnoid Granulations) or flow in subarachnoid space. All ventricles dilate.
+    *   *Causes:* Meningitis, Subarachnoid Hemorrhage (scarring).
+*   **Normal Pressure Hydrocephalus (NPH):** Chronic communicating hydrocephalus in elderly.
+    *   *Triad:* **"Wet, Wobbly, Wacky"** (Urinary Incontinence, Ataxia/Magnetic Gait, Dementia).
+*   **Hydrocephalus Ex Vacuo:** Apparent enlargement of ventricles due to brain atrophy (e.g., Alzheimer's, Huntington's). ICP is *normal*.
+
+### Cerebral Venous Thrombosis (CVT) (Slide 26)
+*   Thrombosis in dural sinuses (e.g., Superior Sagittal Sinus).
+*   **Risk Factors:** Hypercoagulable states (Pregnancy, OCPs), Infection (Mastoiditis).
+*   **Signs:** Headache, Papilledema, Seizures (due to venous congestion/infarction).
 `,
     questions: [
         {
@@ -862,61 +936,108 @@ Increased Intracranial Pressure (ICP) can force brain tissue through dural openi
     summary: `
 # Lecture #4: Blood Supply of the CNS
 
-**Lecturer:** J. Xie, Ph.D.
+**Lecturer:** J. Xie, Ph.D. & Vincy Mathew
 **Session:** Neuroanatomy
 
-## 1. Overview of Blood Supply
-*   **Brain Mass vs. Blood Flow:** Brain is 2% of body weight but uses **20% of O2/Glucose**.
-*   **Two Major Systems:**
-    1.  **Anterior Circulation (80%):** Internal Carotid Arteries (ICA). Supplies Telencephalon/Diencephalon.
-    2.  **Posterior Circulation (20%):** Vertebral Arteries (VA). Supplies Brainstem, Cerebellum, Occipital Lobe.
+## 1. Overview of Cerebral Circulation (Slides 3-6)
+The brain represents only 2% of body weight but consumes **20% of the body's oxygen and glucose**.
+Blood enters the cranium via two major systems:
+1.  **Anterior Circulation (Internal Carotid Arteries):** Supplies ~80% of the brain (Telencephalon, Diencephalon).
+2.  **Posterior Circulation (Vertebral Arteries):** Supplies ~20% of the brain (Brainstem, Cerebellum, Occipital lobes).
 
 ---
 
-## 2. Internal Carotid Artery (Anterior Circulation) (OPAM)
-Enters skull via **Carotid Canal**, passes through **Cavernous Sinus**.
-Branches (**OPAM**):
-1.  **Ophthalmic Artery:** First branch. Supplies eye. Blockage -> *Amaurosis Fugax* (Transient painless vision loss - "Curtain coming down").
-2.  **Posterior Communicating Artery (PCom):** Connects Anterior to Posterior circulation. Common site for **Berry Aneurysms** (CN III palsy).
-3.  **Anterior Cerebral Artery (ACA):**
-    *   Supplies **Medial** Frontal/Parietal lobes.
-    *   **Homunculus:** **Leg/Foot**.
-    *   **Stroke:** Contralateral **Leg weakness/sensory loss**.
-4.  **Middle Cerebral Artery (MCA):**
-    *   Supplies **Lateral** Frontal/Temporal/Parietal lobes.
-    *   **Homunculus:** **Face/Arm**.
-    *   **Stroke:** Contralateral **Face/Arm weakness**, **Aphasia** (if dominant hemisphere - Broca's/Wernicke's).
-    *   **Lenticulostriate Arteries:** Deep branches to Basal Ganglia. Prone to **Charcot-Bouchard Aneurysms** (Hypertension) -> Lacunar Strokes.
+## 2. Anterior Circulation (ICA) (Slides 8-14)
+The **Internal Carotid Artery (ICA)** enters the skull via the Carotid Canal, passes through the Cavernous Sinus, and gives off 4 key Intradural branches (**OPAM**):
+
+### 1. Ophthalmic Artery (Slide 14)
+*   First branch. Supplies the eye/retina.
+*   **Clinical:** Occlusion causes **Amaurosis Fugax** (transient monocular blindness described as a "curtain coming down").
+
+### 2. Posterior Communicating Artery (PCom) (Slide 15)
+*   Connects the Anterior (ICA) and Posterior (PCA) circulations.
+*   **Clinical:** Common site for **Berry Aneurysms**. Aneurysm here can compress **CN III**, causing an ipsilateral "Down and Out" eye with blown pupil.
+
+### 3. Anterior Cerebral Artery (ACA) (Slides 16-17, 20)
+*   Supplies the **Medial** surface of the Frontal and Parietal lobes.
+*   **Function:** Motor/Sensory to the **Lower Limb** (Leg/Foot) and trunk.
+*   **Stroke Symptoms:** Contralateral **Leg weakness** and sensory loss.
+
+### 4. Middle Cerebral Artery (MCA) (Slides 18-19, 20)
+*   Largest branch. Runs laterally through the Sylvian Fissure.
+*   Supplies the **Lateral** surface of Frontal, Temporal, and Parietal lobes.
+*   **Function:** Motor/Sensory to the **Face and Upper Limb** (Arm/Hand). Also supplies language centers in the dominant hemisphere.
+*   **Stroke Symptoms:** Contralateral **Face/Arm weakness**, Face/Arm sensory loss.
+    *   *Left MCA (Dominant):* **Aphasia** (Broca's or Wernicke's).
+    *   *Right MCA (Non-dominant):* Hemineglect.
+
+:::correlate
+**Lenticulostriate Arteries (Slide 19)**
+*   Small, deep perforating branches of the MCA supplying the **Basal Ganglia** and Internal Capsule.
+*   **Pathology:** High pressure (Hypertension) causes lipohyalinosis and microaneurysms (**Charcot-Bouchard Aneurysms**).
+*   **Result:** Rupture leads to **Intraparenchymal Hemorrhage**. Occlusion leads to **Lacunar Infarcts** (pure motor strokes).
+:::
 
 ---
 
-## 3. Vertebrobasilar System (Posterior Circulation)
-**Vertebral Arteries** fuse to form the **Basilar Artery**.
-*   **PICA (Posterior Inferior Cerebellar Artery):** From Vertebral. Supplies Lateral Medulla. (Wallenberg Syndrome).
-*   **AICA (Anterior Inferior Cerebellar Artery):** From Basilar. Supplies Lateral Pons.
-*   **SCA (Superior Cerebellar Artery):** From Basilar.
-*   **PCA (Posterior Cerebral Artery):** Terminal branch of Basilar.
-    *   Supplies **Occipital Lobe**.
-    *   **Stroke:** Contralateral **Homonymous Hemianopsia** (Visual field cut) with *Macular Sparing*.
-    *   **CN III Rule:** CN III passes between SCA and PCA. Aneurysm here -> CN III Palsy ("Down and Out" eye).
+## 3. Posterior Circulation (Vertebrobasilar) (Slides 23-26)
+### Vertebral Arteries (VA)
+*   Ascend through transverse foramina of C6-C1. Enter skull via Foramen Magnum.
+*   **Branches:**
+    *   **Anterior Spinal Artery (ASA):** Supplies anterior 2/3 of spinal cord.
+    *   **PICA (Posterior Inferior Cerebellar Artery):** Supplies Lateral Medulla and Inferior Cerebellum. (Occlusion -> Wallenberg Syndrome).
+
+### Basilar Artery (BA)
+*   Formed by fusion of VAs. Runs along the Pons.
+*   **Branches:**
+    *   **AICA (Anterior Inferior Cerebellar Artery):** Supplies Lateral Pons.
+    *   **Pontine Arteries:** Supply the Pons. (Occlusion -> Locked-in Syndrome).
+    *   **SCA (Superior Cerebellar Artery):** Supplies Superior Cerebellum.
+
+### Posterior Cerebral Artery (PCA)
+*   Terminal bifurcation of the Basilar Artery.
+*   Supplies: **Occipital Lobe** (Visual Cortex) and Inferior Temporal lobe.
+*   **Stroke Symptoms:** Contralateral **Homonymous Hemianopsia** (Visual field loss) often with *Macular Sparing*.
+
+:::pearl
+**CN III Rule:** The Oculomotor Nerve (CN III) acts as a sandwich filling between the **SCA** (Superior Cerebellar) and **PCA** (Posterior Cerebral) arteries. Aneurysms here compress CN III.
+:::
 
 ---
 
-## 4. Circle of Willis & Watershed Zones (Slide 29)
-*   **Circle of Willis:** Anastomotic ring providing collateral flow. Complete in only ~30-50% of people.
-    *   Components: Ant. Communicating (ACom), ACAs, ICAs, PComs, PCAs.
-*   **Watershed Zones:** Border zones between vascular territories (e.g., ACA-MCA border). Prone to ischemia during **Global Hypoperfusion** (Sepsis, Cardiac Arrest) -> "Man in a Barrel" syndrome.
+## 4. Collateral & Venous Circulation
 
----
+### Circle of Willis (Slides 29-30)
+*   Anastomotic ring at the base of the brain providing collateral flow.
+*   Formed by: ACom, ACA, ICA, PCom, PCA.
+*   *Note:* The circle is incomplete in ~50% of people.
+*   **Watershed Zones:** Border areas between ACA/MCA/PCA territories. Susceptible to ischemia during **Global Hypoperfusion** (e.g., Cardiac Arrest or severe hypotension) -> "Man in a Barrel" syndrome (proximal weakness).
 
-## 5. Venous Drainage (Slide 33-42)
-*   **Dural Venous Sinuses:** Valveless channels between dural layers.
-    *   **Superior Sagittal Sinus:** Drains superficial veins. Absorption of CSF via Arachnoid Granulations.
-    *   **Cavernous Sinus:** Contains ICA and CN III, IV, V1, V2, VI. Infection here causes multiple nerve palsies.
-*   **Cerebral Venous Thrombosis (CVT):**
-    *   **Risk Factors:** Pregnancy, OCPs, Hypercoagulability ("Virchow's Triad").
-    *   **Signs:** Headache, Seizures, Papilledema.
+### Venous Drainage (Slides 32-42)
+Veins drain into Valveless **Dural Venous Sinuses**:
+*   **Superior Sagittal Sinus (SSS):** Drains superficial veins + CSF (via arachnoid granulations).
+*   **Cavernous Sinus:** A venous plexus surrounding the Sella Turcica.
+    *   *Contents:* **ICA**, **CN VI** (freely inside), and **CN III, IV, V1, V2** (in the wall).
+    *   *Pathology:* Cavernous Sinus Thrombosis or Fistula can cause multiple cranial nerve palsies.
 
+:::correlate
+**Intracranial Hemorrhages (Slide 47-53)**
+
+*   **Epidural Hematoma:**
+    *   *Source:* **Middle Meningeal Artery (MMA)** rupture (Trauma to Pterion).
+    *   *CT:* **Lens-shaped** (Biconvex). Does not cross sutures.
+    *   *Presentation:* "Lucid Interval" then potential herniation/death.
+
+*   **Subdural Hematoma:**
+    *   *Source:* **Bridging Veins** rupture (shearing forces, atrophy in elderly/alcoholics).
+    *   *CT:* **Crescent-shaped**. Crosses suture lines.
+    *   *Presentation:* Slow, gradual decline (chronic) or acute.
+
+*   **Subarachnoid Hemorrhage (SAH):**
+    *   *Source:* Ruptured **Berry Aneurysm** (often ACom or PCom) or Trauma.
+    *   *CT:* Blood in sulci/cisterns (Starburst pattern).
+    *   *Presentation:* **"Thunderclap Headache"** (Worst headache of life), meningeal signs.
+:::
 `,
     questions: [
         {
@@ -1033,56 +1154,113 @@ Branches (**OPAM**):
 **Lecturer:** S. Zakhary, D.O.
 **Session:** Neuroanatomy
 
-## 1. CT Scan (Computed Tomography)
-*   **Mechanism:** X-ray beams rotating around patient. Measures **Attenuation** (density) in **Hounsfield Units (HU)**.
-    *   **Bone/Blood:** Hyperdense (White).
-    *   **Air/Fat:** Hypodense (Black).
-*   **Indications:**
-    *   **Acute Hemorrhage (Trauma/Stroke):** First-line because it's FAST (<30s). Blood is white (hyperdense) in acute phase.
-    *   **Bone pathology:** Fractures.
-*   **Disadvantages:** ionizing Radiation (Avoid in pregnancy/children).
-*   **Contrast (Iodine-based):**
-    *   **Risks:**
-        1.  **Allergy:** Pre-treat with Benadryl/Prednisone.
-        2.  **Contrast-Induced Nephropathy (CIN):** Check Creatinine (>1.5 is risk).
-        3.  **Metformin:** Stop 48hrs prior (Risk of Lactic Acidosis).
+## 1. Computed Tomography (CT) (Slides 5-18)
+### Mechanism
+*   Uses **Helical X-ray beams** to measure the **attenuation** (density) of tissues.
+*   **Hounsfield Units (HU):** The scale of density.
+    *   **Hyperdense (White):** Bone (+1000 HU), **Acute Hemorrhage**, Calcifications.
+    *   **Isodense (Gray):** Brain parenchyma.
+    *   **Hypodense (Black):** Air (-1000 HU), Fat, CSF, Water.
+*   **Windows:** Different software settings to highlight specific tissues (e.g., Bone Window for fractures, Brain Window for strokes).
 
-## 2. MRI (Magnetic Resonance Imaging)
-*   **Mechanism:** Magnetic fields align protons. No radiation.
+### Clinical Indications
+*   **Neurologic Emergencies:** The "workhorse" of the ER.
+    *   **Acute Hemorrhage (Stroke/Trauma):** First-line test. Fast (<30s).
+    *   **Trauma:** Skull fractures.
+    *   **Initial Stroke:** To rule out hemorrhage before giving tPA.
+
+### CT Contrast (Iodinated)
+*   **Uses:** Infection (Abscess), Tumors, Vascular pathology (CTA).
+*   **Contraindications/Risks:**
+    1.  **Contrast-Induced Nephropathy (CIN):** Check Creatinine/GFR. Hydrate.
+    2.  **Allergy:** Mild (hives) to Anaphylaxis. Pre-medicate with Steroids/Benadryl.
+    3.  **Metformin:** Risk of **Lactic Acidosis**. Discontinue for 48 hours.
+
+---
+
+## 2. Magnetic Resonance Imaging (MRI) (Slides 19-27)
+### Mechanism
+*   Uses strong magnetic fields to align protons. **No Ionizing Radiation.**
 *   **Sequences:**
-    *   **T1:** Fat is bright. Good for anatomy.
-    *   **T2:** Water/CSF is bright. Good for **Pathology** (Edema/Inflammation).
-    *   **Diffusion Weighted (DWI):** Gold standard for **Acute Ischemic Stroke** (detects cytotoxic edema within minutes).
-*   **Indications:**
-    *   Soft tissue pathology (Tumors, Multiple Sclerosis).
-    *   Brainstem/Posterior Fossa lesions (CT has artifact here).
-*   **Disadvantages:** Slow, Expensive, Claustrophobia, **Metal Implants** (Pacemakers contraindicated).
-*   **Contrast (Gadolinium):**
-    *   **Risk:** **Nephrogenic Systemic Fibrosis (NSF)** in patients with renal failure (GFR < 30).
+    *   **T1:** Fat is bright (Anatomy). Good for structure.
+    *   **T2:** Water/CSF is bright (Pathology). Good for Edema.
+    *   **Diffusion Weighted Imaging (DWI):** Most sensitive for **Acute Ischemic Stroke** (shows cytotoxic edema within minutes).
 
-## 3. Enhancement Patterns (Slide 14-15)
-*   **Ring Enhancement:**
-    *   **Abscess:** "Ring-enhancing lesion".
-    *   **Glioblastoma Multiforme (GBM).**
-    *   *Mnemonic: MAGIC DR* (Metastasis, Abscess, Glioblastoma, Infarct, Contusion, Demyelination, Radiation).
-*   **Meningeal Enhancement:** Meningitis / Neurosarcoidosis.
+### Clinical Indications
+*   **Soft Tissue Pathology:** Superior resolution for brain parenchyma.
+*   **Tumors, Multiple Sclerosis (Plaques), Infections.**
+*   **Posterior Fossa/Brainstem:** CT has bone artifact here; MRI does not.
 
-## 4. Angiography & Ultrasound
-*   **Carotid Duplex Ultrasound:**
-    *   Screening for **Carotid Stenosis**.
-    *   Non-invasive, no radiation.
-*   **Conventional Angiography (Digital Subtraction Angiography - DSA):**
-    *   **Gold Standard** for vascular pathology (AVM, Aneurysm).
-    *   **Diagnostic AND Therapeutic:** Can coil aneurysms or retrieve clots (Thrombectomy).
-    *   *Invasive:* Risk of stroke/bleeding at puncture site.
+### MRI Contrast (Gadolinium)
+*   **Risk:** **Nephrogenic Systemic Fibrosis (NSF)**.
+    *   Rare but serious fibrosis of skin/organs.
+    *   **Contraindicated** if GFR < 30 (Severe Renal Failure).
 
-## Summary Table
-
-| Modality | Best For | Contraindications/Risks |
+### Summary: CT vs. MRI
+| Feature | CT | MRI |
 | :--- | :--- | :--- |
-| **CT Head** | Acute Hemorrhage, Trauma, Bone | Radiation, Dye Allergy |
-| **MRI Brain** | Acute Ischemia (DWI), Tumors, MS | Pacemakers, Metal, Claustrophobia |
-| **Angiography** | Aneurysms, AVMs (Intervention) | Invasive, Kidney failure (Dye) |
+| **Speed** | Fast (< 1 min) | Slow (30-45 mins) |
+| **Cost** | Cheaper | Expensive |
+| **Radiation** | Yes (X-ray) | No |
+| **Bone** | Excellent | Poor |
+| **Soft Tissue** | Fair | Excellent |
+| **Contraindications** | Pregnancy (relative) | **Metal Implants** (Pacemakers) |
+
+---
+
+## 3. Vascular Imaging (Slides 28-38)
+### Carotid Duplex Ultrasound
+*   **Indication:** Screening for **Carotid Artery Stenosis** (bruit, TIA).
+*   **Pros:** Non-invasive, No radiation, Portable.
+*   **Cons:** Operator dependent.
+
+### Conventional Angiography (Digital Subtraction Angiography - DSA)
+*   **Gold Standard** for vascular pathology.
+*   **Procedure:** Catheter inserted (femoral/radial) -> dye injected directly into vessels.
+*   **Usage:**
+    *   **Diagnostic:** Aneurysms, AVMs, Vasculitis.
+    *   **Therapeutic:** Coiling aneurysms, Thrombectomy (clot removal).
+*   **Risks:** Invasive stroke risk (1%), access site bleeding.
+
+---
+
+## 4. Clinical Correlates: Intracranial Hemorrhages (Slides 47-53)
+
+:::correlate
+**Epidural Hematoma**
+*   **Vessel:** Rupture of **Middle Meningeal Artery (MMA)** (branch of Maxillary).
+*   **Cause:** Trauma to **Pterion** (Temple). Rarely crosses sutures.
+*   ** CT Appearance:** **Lens-shaped (Biconvex)** hyperdensity.
+*   **Clinical:** "Lucid Interval" (Knocked out -> Fine -> Rapid Decline/Death).
+:::
+
+:::correlate
+**Subdural Hematoma**
+*   **Vessel:** Rupture of **Bridging Veins**.
+*   **Cause:** Shearing forces (falls in elderly, alcoholics, shaken baby).
+*   **CT Appearance:** **Crescent-shaped** hyperdensity. Crosses sutures.
+*   **Clinical:** Gradual onset (Chronic) or Acute.
+:::
+
+:::correlate
+**Subarachnoid Hemorrhage (SAH)**
+*   **Vessel:** Ruptured **Berry Aneurysm** (Circle of Willis) or Trauma.
+*   **CT Appearance:** Hyperdensity in **Sulci and Cisterns** (Starburst).
+*   **Clinical:** **"Thunderclap Headache"** ("Worst headache of my life"), Meningismus.
+:::
+
+---
+
+## 5. Enhancement Patterns (Slide 15)
+*   **Ring-Enhancing Lesion:** Central necrosis with peripheral enhancement.
+    *   **Differential:** **M.A.G.I.C. D.R.**
+    *   **M**etastasis
+    *   **A**bscess (Classic)
+    *   **G**lioblastoma (GBM)
+    *   **I**nfarct (Subacute)
+    *   **C**ontusion
+    *   **D**emyelination
+    *   **R**adiation necrosis
 `,
     questions: [
         {

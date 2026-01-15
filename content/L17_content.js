@@ -1,104 +1,125 @@
-const L17_CONTENT = {
-    id: 'l17',
-    title: 'Lecture #17: Auditory System',
-    lecturer: 'G. Otazu, Ph.D.',
-    module: 'Neuroanatomy',
-    session: 'Lecture #17',
-    prev: 'l16',
-    next: 'l18',
-    pdf: 'pdfs/Lecture # 17. G. Otazu, Ph.D. (PPT)-1.pdf',
-    transcript: 'transcripts/Lecture #17_ Anatomy and Physiology of the Auditory System; Presenter_ G. Otazu, PhD.srt',
-    ankingResource: {
-        primarySource: 'BandB',
-        chapter: 'Neurology > Hearing'
-    },
+export const L17_CONTENT = {
+    id: "l17",
     summary: `
-# Lecture #17: Auditory System
+# Lecture 17: Anatomy and Physiology of the Auditory System
 
-**Lecturer:** Gonzalo Otazu, Ph.D.
-**Session:** Neuroanatomy
+**Lecturer:** G. Otazu, Ph.D.
+**Session:** Lecture 17
 
-## 1. Anatomy of the Ear
-### Middle Ear
-*   **Ossicles:** Malleus, Incus, Stapes (connects to Oval Window).
-*   **Function:** Impedance matching (Air -> Fluid).
-*   **Reflex:** Stapedius (CN VII) & Tensor Tympani (CN V3) dampen loud sounds.
+## 1. Auditory Anatomy (Slide 4-6, 10-14)
 
-### Inner Ear (Cochlea)
-*   **Scale Media:** High K+ (Endolymph).
-*   **Organ of Corti:** Hair cells (Receptors).
-    *   *Inner Hair Cells:* Sensory transduction.
-    *   *Outer Hair Cells:* Cochlear amplification (Otoacoustic emissions).
-*   **Tonotopy:**
-    *   *Base:* High frequency (Stiff/Narrow).
-    *   *Apex:* Low frequency (Floppy/Wide).
+*   **Outer Ear:** Funnels sound.
+*   **Middle Ear:** Ossicles (**Malleus, Incus, Stapes**) amplify sound to transfer it from air (tympanic membrane) to fluid (oval window).
+    *   **Impedance Matching:** Necessary because fluid differs from air. Stapes pushes on Oval Window.
+    *   **Protective Reflex:** **Stapedius (CN VII)** and **Tensor Tympani (CN V3)** contract to dampen loud sounds.
+*   **Inner Ear (Cochlea):**
+    *   **Tonotopy:** **Base** = High Frequencies (Narrow/Stiff). **Apex** = Low Frequencies (Wide/Floppy).
+    *   **Ion Gradients:** **Endolymph** (Scala Media) is high in **K+**. Perilymph is low in K+.
 
-## 2. Auditory Pathway
-*   **Cochlear Nerve (CN VIII)** -> **Cochlear Nucleus** (Medulla) -> **Superior Olive** (Pons - Localization) -> **Inferior Colliculus** (Midbrain) -> **MGN** (Thalamus) -> **Auditory Cortex** (Temporal).
-*   *Mnemonic:* **SLIM** (Superior Olive, Lateral Lemniscus, Inferior Colliculus, MGN).
+## 2. Mechanotransduction: Organ of Corti (Slide 15-18)
+The **Organ of Corti** sits on the basilar membrane.
+*   **Inner Hair Cells (IHC):** The primary sensory receptors (95% of afferents).
+*   **Outer Hair Cells (OHC):** Cochlear amplifiers. Damage = **Tinnitus**.
+*   **Transduction:** Vibration bends stereocilia $\\to$ Tip links open K+ channels $\\to$ K+ influx (depolarization) $\\to$ Ca2+ influx $\\to$ Glutamate release.
 
-## 3. Hearing Loss Types
+## 3. Auditory Pathway (Slide 20-21)
+"E. C. O. L. I. M." mnemonic.
+1.  **E**ighth Nerve (Spiral Ganglion).
+2.  **C**ochlear Nuclei (Medulla).
+3.  **S**uperior **O**live (Pons) - **Sound Localization** (Time/Intensity diffs). First bilateral processing.
+4.  **L**ateral Lemniscus.
+5.  **I**nferior Colliculus (Midbrain).
+6.  **M**edial Geniculate Nucleus (**M**GN) (Thalamus).
+7.  **Auditory Cortex** (Temporal Lobe/Heschl's Gyrus).
+
+## 4. Hearing Loss Types (Slide 27-29)
+*   **Conductive:** Middle/Outer ear issue (Wax, Otitis Media, Otosclerosis).
+    *   *Rinne:* Bone > Air.
+    *   *Weber:* Localizes to **Affected** ear.
+*   **Sensorineural:** Inner ear/Nerve issue (Presbycusis, Noise, Drugs).
+    *   *Rinne:* Air > Bone (Normal pattern, but reduced).
+    *   *Weber:* Localizes to **Unaffected** ear.
+
+## 5. Clinical Correlates (Slide 33-37)
+
 :::correlate
-**Conductive Hearing Loss**
-*   **Cause:** Obstruction (Wax), Otitis Media, Otosclerosis.
-*   **Rinne Test:** Bone > Air (Abnormal).
-*   **Weber Test:** Localizes to **Affected** ear.
+**Acoustic Neuroma (Vestibular Schwannoma)**
+*   **Pathology:** Benign tumor of Schwann cells on CN VIII (Vestibulocochlear).
+*   **CPA Angle:** Compression of Cerebellopontine Angle structures.
+*   **Symptoms:** Unilateral **Hearing Loss**, **Tinnitus**, **Vertigo**. Can compress CN VII (Facial palsy) if large.
+*   **Diagnosis:** MRI.
 :::
 
-:::correlate
-**Sensorineural Hearing Loss**
-*   **Cause:** Presbycusis, Noise, Drugs (Aminoglycosides), Acoustic Neuroma.
-*   **Rinne Test:** Air > Bone (Normal positive).
-*   **Weber Test:** Localizes to **Unaffected** ear.
-:::
-
-## 4. Specific Syndromes (Slides 33-37)
 :::correlate
 **Usher Syndrome**
-*   **Presentation:** Congenital Deafness + Retinitis Pigmentosa (Blindness).
-*   **Genetics:** Mutation in stereocilia proteins.
+*   **Genetics:** Autosomal Recessive.
+*   **Pathology:** Mutation in stereocilia tip-link proteins (e.g., Cadherin 23).
+*   **Presentation:** **Congenital Deafness** + **Retinitis Pigmentosa** (Progressive Blindness). Major cause of deaf-blindness.
 :::
 
 :::correlate
 **EAST Syndrome**
-*   **Acronym:** Epilepsy, Ataxia, Sensorineural deafness, Tubulopathy.
-*   **Pathology:** KCNJ10 mutation (K+ channel defect) - cannot maintain Endolymph potential.
+*   **Acronym:** **E**pilepsy, **A**taxia, **S**ensorineural deafness, **T**ubulopathy.
+*   **Pathology:** Mutation in **KCNJ10** (Kir4.1 K+ channel).
+*   **Mechanism:** Failure to maintain High K+ in Endolymph prevents hair cell depolarization.
 :::
 
 :::correlate
-**Vestibular Schwannoma (Acoustic Neuroma)**
-*   **Tumor:** Schwann cells of CN VIII.
-*   **Location:** Cerebellopontine Angle (CPA).
-*   **Symptoms:** Unilateral Hearing Loss, Tinnitus, Vertigo. May involve CN VII (Facial palsy) or CN V (Facial numbness).
+**Presbycusis**
+*   **Definition:** Age-related sensorineural hearing loss.
+*   **Pattern:** Loss of **High Frequencies** first (Base of cochlea wears out).
+*   **Mechanism:** Hair cell loss.
 :::
 `,
+    pearls: [
+        {
+            title: "Pathway Mnemonic (E. COLIM)",
+            content: "**E**ighth Nerve $\\to$ **C**ochlear Nucleus $\\to$ **O**live (Superior) $\\to$ **L**ateral Lemniscus $\\to$ **I**nferior Colliculus $\\to$ **M**GN."
+        },
+        {
+            title: "Cochlear Tonotopy",
+            content: "**Base** = High Frequency (Stiff/Narrow).\\n**Apex** = Low Frequency (Floppy/Wide)."
+        },
+        {
+            title: "Rinne & Weber Rules",
+            content: "**Conductive:** Weber to Bad Ear. Rinne Bone > Air.\\n**Sensorineural:** Weber to Good Ear. Rinne Air > Bone."
+        },
+        {
+            title: "Acoustic Reflex",
+            content: "Mediated by **CN VII** (Stapedius) and **CN V3** (Tensor Tympani) to dampen loud sounds."
+        },
+        {
+            title: "EAST Syndrome Mechanism",
+            content: "K+ Channel mutation (Kir4.1). No K+ gradient in Endolymph = No Hearing."
+        }
+    ],
     questions: [
         {
-            question: "**1. A patient presents with hearing loss in the right ear. Weber test localizes to the Left ear. Rinne test shows Air > Bone bilaterally. What is the diagnosis?**",
+            question: "A 65-year-old male complains of difficulty hearing women's voices and birds chirping (high frequencies) in noisy environments. Otoscopy is normal. What is the most likely diagnosis?",
             options: [
-                "Right Conductive Hearing Loss",
-                "Right Sensorineural Hearing Loss",
-                "Left Conductive Hearing Loss",
-                "Left Sensorineural Hearing Loss",
-                "Normal Hearing"
+                "Otosclerosis",
+                "Presbycusis",
+                "Meniere's Disease",
+                "Cholesteatoma",
+                "Otitis Media"
             ],
-            correctAnswer: 1,
-            rationale: "Weber localizing to the **Unaffected** (Left) ear suggests **Sensorineural** loss in the Right ear. A 'Normal' Rinne (Air > Bone) confirms it is not conductive."
+            answer: 1,
+            explanation: "**Presbycusis** is age-related sensorineural hearing loss affecting **High Frequencies** first due to hair cell loss at the cochlear base."
         },
         {
-            question: "**2. High frequency sounds are detected at which part of the cochlea?**",
+            question: "A patient presents with unilateral hearing loss, tinnitus, and facial weakness. MRI reveals a mass at the Cerebellopontine Angle. What is the likely diagnosis?",
             options: [
-                "Apex",
-                "Base",
-                "Helicotrema",
-                "Saccule",
-                "Utricle"
+                "Pituitary Adenoma",
+                "Glioblastoma Multiforme",
+                "Vestibular Schwannoma (Acoustic Neuroma)",
+                "Meningioma",
+                "Craniopharyngioma"
             ],
-            correctAnswer: 1,
-            rationale: "The **Base** of the basilar membrane is stiff and narrow, vibrating best at **High Frequencies**."
+            answer: 2,
+            explanation: "**Vestibular Schwannoma** arises on CN VIII, causing hearing loss/tinnitus, and can compress the adjacent CN VII (Facial nerve) at the CPA."
         },
         {
-            question: "**3. Which structure in the auditory pathway is responsible for sound localization?**",
+            question: "In the auditory pathway, where does sound localization (computing time/intensity differences) first occur?",
             options: [
                 "Cochlear Nucleus",
                 "Superior Olivary Complex",
@@ -106,65 +127,111 @@ const L17_CONTENT = {
                 "Medial Geniculate Nucleus",
                 "Auditory Cortex"
             ],
-            correctAnswer: 1,
-            rationale: "The **Superior Olive** (Pons) receives bilateral input to compare time and intensity differences for sound localization."
+            answer: 1,
+            explanation: "The **Superior Olivary Complex** is the first site receiving **Bilateral** input, allowing it to compare timing and intensity data for localization."
         },
         {
-            question: "**4. A patient has Epilepsy, Ataxia, and Sensorineural Deafness. This 'EAST Syndrome' is caused by a defect in:**",
+            question: "EAST Syndrome is caused by a mutation affecting the transport of which ion in the inner ear?",
             options: [
-                "Sodium Channels",
-                "Potassium Channels",
-                "Calcium Channels",
-                "Chloride Channels",
-                "Gap Junctions"
+                "Sodium",
+                "Calcium",
+                "Chloride",
+                "Potassium",
+                "Magnesium"
             ],
-            correctAnswer: 1,
-            rationale: "EAST syndrome is caused by a mutation in KCNJ10, a **Potassium Channel** (Kir4.1) critical for maintaining high K+ in the endolymph."
+            answer: 3,
+            explanation: "EAST Syndrome is a K+ channelopathy (**Kir4.1**), preventing the maintenance of high **Potassium** in the endolymph."
         },
         {
-            question: "**5. Which thalamic nucleus relays auditory information to the cortex?**",
+            question: "During a Weber test, the sound lateralizes to the patient's Left ear. Bone conduction is greater than Air conduction in the Left ear. This suggests:",
             options: [
-                "VPL",
-                "VPM",
-                "LGN",
-                "MGN",
-                "VL"
+                "Right Sensorineural Hearing Loss",
+                "Left Sensorineural Hearing Loss",
+                "Right Conductive Hearing Loss",
+                "Left Conductive Hearing Loss",
+                "Normal Hearing"
             ],
-            correctAnswer: 3,
-            rationale: "**MGN** (Medial Geniculate Nucleus) is the Auditory relay. (LGN is for Light/Vision)."
+            answer: 3,
+            explanation: "Weber lateralizing to the affected ear + Rinne showing Bone > Air is the classic pattern for **Conductive Hearing Loss** in that ear (**Left**)."
         }
     ],
     flashcards: [
-        { "front": "Weber Test: Conductive Loss?", "back": "Localizes to Affected Ear", "tag": "Clinical" },
-        { "front": "Weber Test: Sensorineural Loss?", "back": "Localizes to Unaffected Ear", "tag": "Clinical" },
-        { "front": "High frequencies detected at?", "back": "Base of Cochlea", "tag": "Physiology" },
-        { "front": "Low frequencies detected at?", "back": "Apex of Cochlea", "tag": "Physiology" },
-        { "front": "Thalamic relay for Hearing?", "back": "MGN", "tag": "Neuro" },
-        { "front": "Function of Superior Olive?", "back": "Sound Localization", "tag": "Neuro" },
-        { "front": "Usher Syndrome triad?", "back": "Deafness + Blindness (Retinitis Pigmentosa) + Vestibular", "tag": "Pathology" },
-        { "front": "EAST Syndrome defect?", "back": "Potassium Channel (KCNJ10)", "tag": "Pathology" },
-        { "front": "Acoustic Neuroma location?", "back": "Cerebellopontine Angle (CPA)", "tag": "Pathology" },
-        { "front": "Fluid in Scala Media?", "back": "Endolymph (High K+)", "tag": "Anatomy" }
+        {
+            front: "Auditory Pathway Mnemonic",
+            back: "E. COLIM (Eighth nerve, Cochlear nuc, Olive, Lat Lemniscus, Inf Colliculus, MGN)",
+            tag: "Neuroanatomy"
+        },
+        {
+            front: "Frequency map of Cochlea",
+            back: "Base = High. Apex = Low.",
+            tag: "Physiology"
+        },
+        {
+            front: "Ion concentrated in Endolymph",
+            back: "Potassium (K+)",
+            tag: "Physiology"
+        },
+        {
+            front: "Function of Superior Olivary Complex",
+            back: "Sound Localization",
+            tag: "Neuroanatomy"
+        },
+        {
+            front: "Muscle innervated by CN VII in ear",
+            back: "Stapedius",
+            tag: "Anatomy"
+        },
+        {
+            front: "Muscle innervated by CN V3 in ear",
+            back: "Tensor Tympani",
+            tag: "Anatomy"
+        },
+        {
+            front: "Usher Syndrome Presentation",
+            back: "Deafness + Blindness (Retinitis Pigmentosa)",
+            tag: "Pathology"
+        },
+        {
+            front: "Acoustic Neuroma Symptoms",
+            back: "Unilateral Hearing Loss, Tinnitus, Vertigo",
+            tag: "Pathology"
+        },
+        {
+            front: "Weber Test: Conductive Loss",
+            back: "Lateralizes to the Bad ear",
+            tag: "Clinical Skills"
+        },
+        {
+            front: "Rinne Test: Sensorineural Loss",
+            back: "Air > Bone (Normal pattern)",
+            tag: "Clinical Skills"
+        }
     ],
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > The Ear > Hearing",
+        alternatives: [
+            { resource: "FirstAid", chapter: "Neurology > Anatomy > Auditory" },
+            { resource: "Pathoma", chapter: "Head & Neck" }
+        ]
+    },
     mindmap: `
 ## Auditory System
-### Anatomy
-*   **Middle Ear**: Ossicles (Cond conductive loss)
-*   **Inner Ear**: Cochlea (Sensorineural loss)
-    *   *Base*: High Freq
-    *   *Apex*: Low Freq
-### Pathway
-*   **CN VIII** -> **Cochlear Nuc** -> **Superior Olive** (Localization) -> **Lat Lemniscus** -> **Inf Colliculus** -> **MGN** -> **Cortex**
-### Hearing Loss
-*   **Conductive**: Weber to Bad ear, Rinne Bone > Air
-*   **Sensorineural**: Weber to Good ear, Rinne Air > Bone
-### Pathologies
-*   **Usher**: Deaf + Blind
-*   **EAST**: Sz + Ataxia + Deaf (K+ channel)
-*   **Acoustic Neuroma**: CPA tumor (Hearing loss + Tinnitus + Vertigo)
-`
-};
 
-if (typeof window !== 'undefined') {
-    window.L17_CONTENT = L17_CONTENT;
-}
+### Anatomy
+*   **Middle Ear**: Malleus, Incus, Stapes (Impedance Matching)
+*   **Inner Ear**: Cochlea (Base=High, Apex=Low)
+*   **Hair Cells**: Inner (Sensory), Outer (Amplifier)
+
+### Pathway (E. COLIM)
+*   Cochlear Nuclei -> **Superior Olive** (Localization) -> LL -> **Inferior Colliculus** -> **MGN** -> Cortex
+
+### Pathology
+*   **Conductive**: Otitis, Wax, Otosclerosis
+*   **Sensorineural**: Presbycusis, Noise
+*   **Syndromes**
+    *   **Usher**: Deaf + Blind
+    *   **EAST**: Seizures + Deaf (K+ channel)
+    *   **Acoustic Neuroma**: CN VIII Tumor
+\`
+};

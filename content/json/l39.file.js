@@ -1,65 +1,142 @@
 window.receiveLectureContent({
   "id": "l39",
-  "title": "Lecture #39: Adrenergic Antagonists",
-  "lecturer": "L. Goldstein, Pharm.D.",
-  "module": "Pharmacology",
-  "session": "Lecture #39",
-  "prev": "l38",
-  "next": "l40",
-  "pdf": "pdfs/Lecture # 39. L. Goldstein, Pharm.D. (PPT)-1.pdf",
-  "summary": "# Lecture #39: Adrenergic Antagonists\n\n**Lecturer:** L. Goldstein, Pharm.D.\n**Session:** Lecture #39\n\n## 1. Alpha Blockers\n\n### Non-Selective (\u03b11 + \u03b12)\n\n:::drug\n**Phenoxybenzamine**\n*   **Mechanism:** **Irreversible** \u03b1-antagonist (covalent bond).\n*   **Uses:** Pheochromocytoma (presurgical management).\n*   **PK:** Oral. t\u00bd ~24h. Duration 3-4 days.\n*   **Adverse Effects:** Marked orthostatic hypotension, Tachycardia (\u03b12 block \u2192 \u2191 NE release).\n:::\n\n:::drug\n**Phentolamine**\n*   **Mechanism:** **Competitive** (reversible) non-selective \u03b1-antagonist.\n*   **Uses:**\n    *   Intraoperative hypertension (pheochromocytoma).\n    *   Extravasation of vasopressor (infiltration).\n    *   Reversal of dental local anesthetic (infiltration).\n*   **PK:** IV/IM. Short-acting (t\u00bd ~20 min).\n:::\n\n:::highyield\n**Epinephrine Reversal**\n*   **Concept:** After \u03b1-blockade, epinephrine's pressor effect (\u03b11 vasoconstriction) is blocked \u2192 Unopposed \u03b22 vasodilation \u2192 **Depressor response** (\u2193 BP).\n*   **Phenylephrine (\u03b11 only):** Response is suppressed but **not reversed** (no \u03b2 activity).\n:::\n\n### Selective \u03b11 Blockers\n\n:::highyield\n**Quinazolines: Prazosin, Terazosin, Doxazosin**\n*   **Mechanism:** Selective \u03b11 antagonists.\n*   **Uses:**\n    *   **Hypertension** (add-on, not first-line).\n    *   **BPH** (Benign Prostatic Hyperplasia): Relax smooth muscle in prostate/bladder neck \u2192 Improve urine flow.\n*   **Adverse Effects:**\n    *   **First-Dose Effect:** Marked orthostatic hypotension (1st dose or first few doses). **Advise bedtime dosing**.\n    *   **Intraoperative Floppy Iris Syndrome (IFIS):** Relaxation of iris dilator muscle during cataract surgery.\n    *   Nasal stuffiness, Impaired ejaculation.\n:::\n\n:::drug\n**Tamsulosin / Silodosin**\n*   **Mechanism:** Selective **\u03b11A** antagonists.\n*   **Use:** **BPH only** (not for hypertension).\n*   **Advantage:** Less pronounced effect on standing BP.\n*   **Note:** Tamsulosin has sulfonamide moiety \u2192 Avoid in sulfa allergy.\n:::\n\n### \u03b12 Antagonist\n\n:::drug\n**Yohimbine**\n*   **Mechanism:** Competitive \u03b12 antagonist (opposite of Clonidine).\n*   **Effects:** \u2191 BP, \u2191 HR, Tremors, Anxiety.\n*   **Use:** Herbal product for erectile dysfunction (efficacy not clearly demonstrated).\n:::\n\n## 2. Beta Blockers\n\n### Classification\n*   **Non-selective (\u03b21 + \u03b22):** Propranolol, Nadolol.\n*   **\u03b21-Selective:** Metoprolol, Atenolol, Esmolol, Bisoprolol.\n*   **Non-selective + \u03b11 block:** Labetalol, Carvedilol.\n\n:::highyield\n**Cardiovascular Effects**\n*   **\u03b21 Blockade (Heart):**\n    *   \u2193 HR (Chronotropy).\n    *   \u2193 Contractility (Inotropy).\n    *   \u2193 AV node conduction.\n    *   **\u2193 Renin release** (kidney \u03b21) \u2192 \u2193 Angiotensin II \u2192 \u2193 BP.\n*   **\u03b22 Blockade (Lungs, Vessels):**\n    *   **Bronchoconstriction** (avoid in asthma/COPD).\n    *   Prevents \u03b22 vasodilation \u2192 \u2191 peripheral resistance (short-term).\n:::\n\n### Therapeutic Uses\n\n:::highyield\n**Hypertension**\n*   \u2193 CO, \u2193 Renin release.\n\n**Angina Pectoris**\n*   \u2193 O\u2082 demand (\u2193 HR, \u2193 contractility).\n\n**Acute MI**\n*   \u2193 Sympathetic input \u2192 Improves morbidity/mortality.\n\n**Heart Failure (CHF)**\n*   Compensated heart failure with reduced ejection fraction. \u2193 Sympathetic drive.\n\n**Arrhythmias**\n*   Slow AV conduction. Treat SVT, ventricular arrhythmias.\n\n**Hyperthyroidism**\n*   \u2193 Tachycardia, palpitations, tremor (\u03b2-receptor upregulation).\n\n**Glaucoma**\n*   \u2193 Aqueous humor production.\n\n**Migraine Prophylaxis**\n*   Mechanism unclear.\n\n**Performance Anxiety**\n*   \u2193 Somatic symptoms (tremor, tachycardia).\n\n**Esophageal Varices**\n*   \u2193 Portal hypertension (non-selective \u03b2-blockers).\n:::\n\n### Adverse Effects\n\n:::warning\n**Bradycardia**\n*   Direct effect.\n\n**Bronchoconstriction**\n*   \u03b22 block. **Avoid in asthma/COPD**.\n\n**Masking Hypoglycemia**\n*   \u03b22 block masks tachycardia, tremor, sweating. **Caution in diabetics**.\n\n**Lipid Abnormalities**\n*   Modest \u2191 triglycerides, \u2193 HDL.\n\n**CNS Effects**\n*   Fatigue, depression, insomnia (lipophilic: Propranolol, Metoprolol).\n:::\n\n:::warning\n**Abrupt Withdrawal \u2192 Severe Rebound**\n*   **Mechanism:** Upregulation of \u03b2-receptors (supersensitivity).\n*   **Result:** Severe hypertension, Angina, MI, Arrhythmia, Sudden death.\n*   **Management:** **Taper slowly** over several weeks.\n:::\n\n### Special Beta Blockers\n\n:::drug\n**Propranolol**\n*   Non-selective (\u03b21 = \u03b22).\n*   **Lipophilic** \u2192 CNS penetration (fatigue, depression).\n*   **Membrane stabilizing** effect (high dose).\n:::\n\n:::drug\n**Metoprolol**\n*   **\u03b21-Selective** (at therapeutic doses).\n*   **Lipophilic** \u2192 CNS effects.\n*   Loses selectivity at high doses.\n:::\n\n:::drug\n**Labetalol / Carvedilol**\n*   **Non-selective \u03b2 + \u03b11 blockade**.\n*   **Use:** Acute hypertension (including pregnancy).\n*   **Advantage:** Vasodilation (\u03b11) + \u2193 CO (\u03b2).\n:::",
-  "mindmap": "## Adrenergic Antagonists\n### Alpha Blockers\n*   **Non-selective**: Phenoxybenzamine (irreversible), Phentolamine\n*   **\u03b11 Selective**: Prazosin, Terazosin, Doxazosin (HTN, BPH)\n*   **\u03b11A**: Tamsulosin (BPH only)\n*   **First-dose effect**: Orthostatic hypotension\n### Beta Blockers\n*   **Non-selective**: Propranolol\n*   **\u03b21-Selective**: Metoprolol\n*   **\u03b2 + \u03b11**: Labetalol, Carvedilol\n### Uses\n*   **HTN, Angina, MI, CHF, Arrhythmias**\n*   **Glaucoma, Migraine, Performance anxiety**\n### Adverse Effects\n*   **Bronchoconstriction** (avoid asthma)\n*   **Mask hypoglycemia**\n*   **Rebound on withdrawal** (taper!)",
-  "questions": [],
+  "summary": "# Lecture 39: Pharmacology - Adrenergic Antagonists\n\n**Lecturer:** L. Goldstein, Pharm.D.\n**Session:** Lecture 39\n\n## 1. Alpha-Adrenergic Antagonists (Alpha Blockers)\n*   **Non-Selective (Alpha-1 & Alpha-2):**\n    *   **Phenoxybenzamine:** **Irreversible** (Covalent bond). Long duration. Used pre-op for **Pheochromocytoma** (prevents hypertensive crisis).\n    *   **Phentolamine:** Competitive (Reversible). Used for **Epinephrine Reversal** (local anesthetic overdose) and Pheochromocytoma diagnosis/surgery.\n    *   *Side Effects:* Severe Orthostatic Hypotension, **Reflex Tachycardia** (due to Alpha-2 block increasing NE release).\n*   **Selective Alpha-1 Blockers (-zosins):**\n    *   **Prazosin, Terazosin, Doxazosin:** Used for HTN (add-on) and BPH.\n    *   **Tamsulosin (Flomax):** Alpha-1A selective ( Prostate specific). Used for **BPH** (less hypotension).\n    *   *Adverse Effects:* **First-Dose Effect** (Syncope/Severe Orthostatis) $\\\\to$ Take at bedtime! **Floppy Iris Syndrome** (Cataract surgery risk).\n*   **Selective Alpha-2 Antagonist:**\n    *   **Yohimbine:** Increases NE release (blocks feedback). \"Aphrodisiac\". Causes anxiety/tremor.\n\n## 2. Beta-Adrenergic Antagonists (Beta Blockers)\n*   **Non-Selective (Beta-1 & Beta-2):**\n    *   **Propranolol:** Lipophilic (CNS effects: nightmares/sedation). Used for Migraine prophylaxis, Performance Anxiety (Stage fright), Thyroid Storm.\n    *   *Contraindication:* **Asthma/COPD** (Bronchoconstriction via B2).\n*   **Beta-1 Selective (Cardioselective):** (\"A-M\" - Atenolol, Metoprolol, Esmolol).\n    *   Safer in lung disease.\n*   **Combined Alpha/Beta Blockers:**\n    *   **Labetalol, Carvedilol:** Block Alpha-1 (Vasodilation) + Beta-1/2.\n    *   *Use:* **CHF** (Carvedilol decreases mortality), Hypertensive Emergencies (Labetalol).\n\n## 3. Key Pharmacology Concepts\n*   **Epinephrine Reversal:**\n    *   Normal Epi: Increases BP (Alpha-1 vasoconstriction > Beta-2 dilation).\n    *   Epi + Alpha Blocker: **Decreases BP** (Alpha blocked, unmasks Beta-2 vasodilation).\n*   **Diabetes & Beta Blockers:**\n    *   Beta blockers **MASK** symptoms of hypoglycemia (tachycardia, tremors).\n    *   Non-selectives delay recovery from hypoglycemia (block liver gluconeogenesis).\n*   **Withdrawal:**\n    *   **NEVER** stop abruptly. Chronic use UPREGULATES receptors.\n    *   Sudden stop $\\\\to$ Rebound HTN, Angina, MI, Sudden Death.\n\n## 4. Therapeutic Uses Summary\n| Indication | Preferred Agents | Mechanism |\n| :--- | :--- | :--- |\n| **Hypertension** | Metoprolol, Atenolol | Decrease CO, Renin inhibition. |\n| **Angina/MI** | Metoprolol, Carvedilol | Decrease O2 demand (HR/Contractility). |\n| **CHF** | **Carvedilol**, Metoprolol Succinate, Bisoprolol | Block sympathetic remodeling. Increase survival. |\n| **BPH** | Tamsulosin, Doxazosin | Relax prostate smooth muscle (Alpha-1). |\n| **Pheochromocytoma** | Phenoxybenzamine | Irreversible Alpha block before surgery. |\n| **Glaucoma** | Timolol | Decrease aqueous production. |",
+  "title": "Lecture 39: Pharmacology - Adrenergic Antagonists",
+  "module": "Neurology",
+  "questions": [
+    {
+      "question": "A patient with Pheochromocytoma is scheduled for surgery. Which drug is most appropriate for preoperative management to prevent hypertensive crisis?",
+      "options": [
+        "Propranolol",
+        "Phenoxybenzamine",
+        "Atenolol",
+        "Prazosin",
+        "Yohimbine"
+      ],
+      "answer": 1,
+      "explanation": "**Phenoxybenzamine** is an **Irreversible** alpha blocker. It is the gold standard for pheochromocytoma pre-op to prevent catecholamine surges."
+    },
+    {
+      "question": "A 65-year-old male is started on Terazosin for BPH. What important counseling point must be provided?",
+      "options": [
+        "Take on an empty stomach because food reduces absorption.",
+        "Take with grapefruit juice to enhance effect.",
+        "Take the first dose at bedtime to avoid syncope.",
+        "Discontinue immediately if nasal congestion occurs.",
+        "Expect heart rate to decrease significantly."
+      ],
+      "answer": 2,
+      "explanation": "**First-Dose Effect:** Alpha-1 blockers cause significant orthostatic hypotension/syncope initially. Taking it at **bedtime** mitigates the risk of falling."
+    },
+    {
+      "question": "Which of the following beta blockers also possesses Alpha-1 blocking activity, providing additional vasodilation?",
+      "options": [
+        "Metoprolol",
+        "Atenolol",
+        "Carvedilol",
+        "Timolol",
+        "Esmolol"
+      ],
+      "answer": 2,
+      "explanation": "**Carvedilol** and **Labetalol** trigger 'Combined' blockade (Beta-1, Beta-2, and Alpha-1). This provides vasodilation + heart rate control."
+    },
+    {
+      "question": "A diabetic patient taking insulin is prescribed a beta blocker. They should be warned that the drug might mask which symptom of hypoglycemia?",
+      "options": [
+        "Sweating",
+        "Hunger",
+        "Tachycardia",
+        "Confusion",
+        "Fatigue"
+      ],
+      "answer": 2,
+      "explanation": "**Tachycardia** and tremors are mediated by the sympathetic response to hypoglycemia. Beta blockers mask these. **Sweating** (cholinergic) is usually preserved."
+    },
+    {
+      "question": "The phenomenon known as 'Epinephrine Reversal' describes a drop in blood pressure when Epinephrine is administered in the presence of:",
+      "options": [
+        "A Beta Blocker",
+        "An Alpha Blocker",
+        "A Muscarinic Agonist",
+        "A Ganglionic Blocker",
+        "A Calcium Channel Blocker"
+      ],
+      "answer": 1,
+      "explanation": "An **Alpha Blocker** (like Phentolamine) blocks the vasoconstriction (Alpha-1) of Epi, leaving the vasodilation (Beta-2) unopposed $\\to$ BP drop."
+    }
+  ],
   "flashcards": [
     {
-      "front": "Phenoxybenzamine mechanism?",
-      "back": "Irreversible \u03b1-antagonist (covalent)",
-      "tag": "Pharm"
+      "front": "Phenoxybenzamine Mechanism",
+      "back": "Irreversible Alpha Blocker",
+      "tag": "Pharmacology"
     },
     {
-      "front": "Phenoxybenzamine use?",
-      "back": "Pheochromocytoma (presurgical)",
-      "tag": "Pharm"
+      "front": "First Dose Effect Drug Class",
+      "back": "Alpha-1 Blockers (-zosins)",
+      "tag": "Pharmacology"
     },
     {
-      "front": "Epinephrine reversal?",
-      "back": "\u03b1-block \u2192 Unopposed \u03b22 vasodilation \u2192 \u2193 BP",
-      "tag": "Pharm"
+      "front": "A-M Beta Blockers (Atenolol, Metoprolol)",
+      "back": "Beta-1 Selective (Cardioselective)",
+      "tag": "Pharmacology"
     },
     {
-      "front": "Prazosin first-dose effect?",
-      "back": "Marked orthostatic hypotension (take at bedtime)",
-      "tag": "Pharm"
+      "front": "Carvedilol / Labetalol Mechanism",
+      "back": "Mixed Alpha-1 and Beta Blockers",
+      "tag": "Pharmacology"
     },
     {
-      "front": "Tamsulosin use?",
-      "back": "BPH only (\u03b11A blocker, not for HTN)",
-      "tag": "Pharm"
+      "front": "Epinephrine Reversal Cause",
+      "back": "Epi + Alpha Blocker (Unmasks Beta-2 Vasodilation)",
+      "tag": "Pharmacology"
     },
     {
-      "front": "Beta blockers cardiac effects?",
-      "back": "\u2193 HR, \u2193 Contractility, \u2193 AV conduction, \u2193 Renin",
-      "tag": "Pharm"
+      "front": "Hypoglycemia Signs Masked by Beta Blockers",
+      "back": "Tachycardia, Tremors, Anxiety",
+      "tag": "Pharmacology"
     },
     {
-      "front": "Beta blockers in asthma?",
-      "back": "Avoid (\u03b22 block \u2192 Bronchoconstriction)",
-      "tag": "Pharm"
+      "front": "Hypoglycemia Sign SPARED by Beta Blockers",
+      "back": "Sweating (Cholinergic)",
+      "tag": "Pharmacology"
     },
     {
-      "front": "Beta blockers mask hypoglycemia?",
-      "back": "Yes (\u03b22 block masks tachycardia, tremor)",
-      "tag": "Pharm"
+      "front": "Pheochromocytoma Pre-op Drug",
+      "back": "Phenoxybenzamine",
+      "tag": "Pharmacology"
+    }
+  ],
+  "ankingResource": {
+    "primarySource": "SketchyPharm",
+    "chapter": "Autonomic Drugs > Adrenergic Antagonists",
+    "alternatives": [
+      {
+        "resource": "FirstAid",
+        "chapter": "Pharmacology > Autonomic Drugs"
+      }
+    ]
+  },
+  "pearls": [
+    {
+      "title": "Epinephrine Reversal",
+      "content": "Giving an Alpha Blocker (Phentolamine) *before* Epinephrine turns Epi's Pressor effect into a **Depressor** effect (BP drops due to unopposed Beta-2 vasodilation)."
     },
     {
-      "front": "Beta blocker withdrawal risk?",
-      "back": "Rebound HTN (\u03b2-receptor upregulation). Taper slowly",
-      "tag": "Pharm"
+      "title": "First Dose Effect",
+      "content": "Alpha-1 blockers (Prazosin/Terazosin) cause severe orthostatic hypotension on the first dose. **Counseling:** Take the first dose at **Bedtime**."
     },
     {
-      "front": "Labetalol mechanism?",
-      "back": "Non-selective \u03b2 + \u03b11 block",
-      "tag": "Pharm"
+      "title": "Beta Blocker Withdrawal",
+      "content": "Chronic beta blockade causes receptor **Upregulation**. Abrupt withdrawal leads to supersensitivity = **Rebound Hypertension / MI**. Always TAPER."
+    },
+    {
+      "title": "Diabetes & Beta Blockers",
+      "content": "Beta blockers mask the 'warning signs' of hypoglycemia (palpitations, tremors, anxiety). Sweating (Cholinergic) is the only sign that remains."
+    },
+    {
+      "title": "Pheochromocytoma Rule",
+      "content": "Always give **Alpha** blockers BEFORE Beta blockers. (A before B). Giving Beta first leaves Alpha unopposed $\\to$ Hypertensive Crisis."
     }
   ]
 });

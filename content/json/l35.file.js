@@ -1,75 +1,142 @@
 window.receiveLectureContent({
   "id": "l35",
-  "title": "Lecture #35: Cranial Nerves I, II, III, IV, VI",
-  "lecturer": "I. Kurtzer, Ph.D.",
-  "module": "Neuro",
-  "session": "Lecture #35",
-  "prev": "l34",
-  "next": "l36",
-  "pdf": "pdfs/Lecture # 35. I. Kurtzer, Ph.D. (PPT).pdf",
-  "summary": "# Lecture #35: Cranial Nerves I, II, III, IV, VI\n\n**Lecturer:** I. Kurtzer, Ph.D.\n**Session:** Lecture #35\n\n## 1. CN I - Olfactory (Slides 3-4)\n\n*   **Function:** Smell (Visceral Sensory).\n*   **Pathway:** Olfactory epithelium \u2192 Olfactory bulb \u2192 Olfactory tract \u2192 **Direct to cortex** (bypasses thalamus).\n*   **Clinical:**\n    *   **Anosmia:** Loss of smell.\n    *   **Causes:** Head trauma (shearing of fibers), Frontal lobe tumors, **Early Parkinson's Disease** (Lewy bodies in olfactory bulbs).\n\n## 2. CN II - Optic (Slides 5-7)\n\n*   **Function:** Vision (Special Sensory).\n*   **Pathway:** Retina \u2192 Optic nerve \u2192 **Optic chiasm** (nasal fibers decussate) \u2192 Optic tract \u2192 LGN (thalamus) \u2192 Occipital cortex.\n*   **Pupillary Light Reflex (Visceral):** Retina \u2192 Optic nerve \u2192 Optic tract \u2192 **Pretectal area** \u2192 Bilateral **Edinger-Westphal nuclei** (CN III).\n*   **Clinical:** Vulnerable to **vascular** (diabetes, glaucoma), trauma, MS, tumors.\n\n## 3. CN III - Oculomotor (Slides 9-20)\n\n### Nuclei (Slide 11)\n*   **Oculomotor Nucleus:** Somatic motor (eye muscles).\n*   **Edinger-Westphal (EW):** Visceral motor (pupil, lens).\n*   **Location:** Rostral Midbrain (Superior Colliculus level).\n\n### Muscle Innervation (Slide 12-14)\n**Oculomotor Nucleus:**\n*   **Ipsilateral:** Medial Rectus (Adduction), Inferior Rectus (Depression), Inferior Oblique (Extortion/Elevation).\n*   **Contralateral:** Superior Rectus (Elevation), Levator Palpebrae Superioris (Eyelid elevation).\n\n**Edinger-Westphal:**\n*   **Ipsilateral:** Sphincter Pupillae (Pupil constriction), Ciliary Muscle (Lens accommodation).\n\n### Branches (Slide 15)\n*   **Superior Division:** Superior Rectus + Levator Palpebrae (from contralateral nucleus).\n*   **Inferior Division:** Medial Rectus, Inferior Rectus, Inferior Oblique, Parasympathetics (from ipsilateral nucleus).\n\n### Clinical (Slides 16-17)\n:::correlate\n**CN III Palsy**\n*   **Complete Lesion:**\n    *   **Ptosis** (weak Levator Palpebrae).\n    *   **\"Down and Out\"** eye (unopposed Lateral Rectus [CN VI] and Superior Oblique [CN IV]).\n    *   **Anisocoria** (dilated pupil, weak Sphincter Pupillae).\n*   **Partial Lesions:**\n    *   **Superior Division:** Ptosis, weak elevation.\n    *   **Inferior Division:** Medial Rectus palsy, dilated pupil.\n*   **Brainstem vs Nerve Lesion:**\n    *   **Brainstem:** Ipsilateral lower branch symptoms (inferior division) + **Contralateral** upper branch symptoms (superior division/eyelid).\n    *   **Nerve:** All symptoms ipsilateral.\n:::\n\n### Pupillary Light Reflex (Slide 20)\n*   **Pathway:** Light \u2192 Retina (CN II) \u2192 Pretectal area \u2192 **Bilateral EW** \u2192 CN III \u2192 Sphincter Pupillae (both eyes).\n*   **Direct Response:** Ipsilateral pupil constricts.\n*   **Consensual Response:** Contralateral pupil constricts.\n\n## 4. CN IV - Trochlear (Slides 22-27)\n\n*   **Function:** Somatic motor.\n*   **Innervation:** **Superior Oblique** (Intortion, Depression when adducted).\n*   **Location:** Caudal Midbrain (Inferior Colliculus).\n*   **Unique Features:**\n    *   Only nerve exiting **dorsally**.\n    *   **All fibers decussate** (contralateral innervation).\n    *   **Smallest CN** (~2400 axons).\n    *   **Longest intracranial course** (7.5 cm, vulnerable to injury).\n\n### Clinical (Slide 27)\n*   **CN IV Palsy:**\n    *   **Vertical Diplopia** (worse when looking down, e.g., reading stairs).\n    *   **Upward and inward eye deviation**.\n    *   **Compensatory head tilt** to opposite shoulder (looks like torticollis).\n*   **Causes:** Often **congenital**. Trauma (long course).\n\n## 5. CN VI - Abducens (Slides 28-31)\n\n*   **Function:** Somatic motor.\n*   **Innervation:** **Lateral Rectus** (Abduction).\n*   **Location:** Caudal Pons (Facial Colliculus).\n\n### Clinical (Slide 31)\n*   **CN VI Palsy:** **Most common** isolated ocular palsy.\n    *   **Esotropia** (medial deviation, eye pulled medially).\n    *   **Horizontal Diplopia** (side-by-side double vision).\n*   **Causes:** Diabetes, trauma, vascular.\n\n## 6. Conjugate Gaze and MLF (Slides 32-34, 38, 42, 44)\n\n:::highyield\n**Medial Longitudinal Fasciculus (MLF)**\n*   **Function:** Coordinates conjugate **horizontal gaze** (both eyes move together).\n*   **Pathway:** **Abducens nucleus** \u2192 MLF \u2192 Contralateral **Oculomotor nucleus** (Medial Rectus).\n*   **Bilateral tracts** run from upper medulla to midbrain. Decussations occur immediately before entering nuclei.\n:::\n\n:::correlate\n**Internuclear Ophthalmoplegia (INO) / MLF Syndrome**\n*   **Lesion:** MLF tract.\n*   **Presentation:** Impaired **Adduction** (medial movement) on the **ipsilateral** side during lateral gaze. Abduction is intact. Nystagmus in abducting eye.\n*   **Causes:** MS (young), Stroke (older), Head trauma, Arnold-Chiari.\n:::\n\n:::correlate\n**Foville's Syndrome**\n*   **Lesion:** **Abducens nucleus** (not just the nerve).\n*   **Presentation:** **Bilateral** impaired lateral gaze toward the side of lesion (loss of conjugate gaze). **Contralateral hemiparesis** (corticospinal tract involvement).\n:::\n\n## 7. Eye Movement Coordination (Slides 35-38)\n\n*   **Elevation:** Superior Rectus + Inferior Oblique (both CN III).\n*   **Depression:** Inferior Rectus (CN III) + Superior Oblique (CN IV).\n*   **Convergence/Accommodation:** Bilateral Medial Recti + Ciliary Muscle via EW (CN III).\n*   **Lateral Gaze:** Abducens (CN VI, ipsilateral Lateral Rectus) + Oculomotor (CN III, contralateral Medial Rectus) via **MLF**.",
-  "mindmap": "## Cranial Nerves I, II, III, IV, VI\n### CN I (Olfactory)\n*   **Smell**: Bypasses thalamus\n*   **Clinical**: Anosmia (Parkinson's)\n### CN II (Optic)\n*   **Vision**: Retina \u2192 LGN \u2192 Cortex\n*   **Light Reflex**: Pretectal \u2192 EW (bilateral)\n### CN III (Oculomotor)\n*   **Muscles**: 4 of 6 (MR, IR, IO, SR*, LP*)\n*   **Parasympathetic**: Pupil, Lens (EW)\n*   **Palsy**: Ptosis, Down-Out, Dilated pupil\n### CN IV (Trochlear)\n*   **SO (Superior Oblique)**: Intorsion\n*   **Dorsal exit**: Decussates\n*   **Palsy**: Vertical diplopia, Head tilt\n### CN VI (Abducens)\n*   **LR (Lateral Rectus)**: Abduction\n*   **MLF**: Coordinates conjugate gaze\n*   **Palsy**: Esotropia (most common)\n### MLF Syndromes\n*   **INO**: Impaired adduction (ipsilateral)\n*   **Foville's**: Bilateral gaze palsy",
-  "questions": [],
+  "summary": "# Lecture 35: Cranial Nerves I, II, III, IV, VI (Eye Movements)\n\n**Lecturer:** I. Kurtzer, Ph.D.\n**Session:** Lecture 35\n\n## 1. CN I (Olfactory) & CN II (Optic)\n*   **CN I:** Visceral Sensory. Bypasses Thalamus.\n    *   *Pathology:* **Anosmia** (Early sign of **Parkinson's** - Lewy bodies in Olfactory Bulb).\n*   **CN II:** Special Sensory.\n    *   *Reflex:* Pupillary Light Reflex (Afferent II $\\\\to$ Pretectal Area $\\\\to$ Bilateral Edinger-Westphal $\\\\to$ Efferent III).\n\n## 2. CN III (Oculomotor)\n*   **Motor:** Medial, Superior, Inferior Recti; Inferior Oblique; Levator Palpebrae.\n*   **Parasympathetic:** **Edinger-Westphal Nucleus** $\\\\to$ Pupil Constriction (Miosis) & Lens Accommodation.\n*   **Lesion (CN III Palsy):**\n    *   **\"Down and Out\"** eye (Unopposed SO4/LR6).\n    *   **Ptosis** (Droopy eyelid).\n    *   **Mydriasis** (Blown pupil - loss of parasympathetics).\n    *   *Note:* The **Superior Rectus** and **Levator** are innervated by the *Contralateral* nucleus, but the nerve fibers cross inside the complex, so a NERVE lesion affects the ipsilateral eye.\n\n## 3. CN IV (Trochlear)\n*   **Motor:** **Superior Oblique** (Depresses/Intorts eye).\n*   **Unique Features:**\n    1.  Only CN to exit **Dorsally**.\n    2.  Only CN to **Decussate Completely** (Right Nucleus $\\\\to$ Left Superior Oblique).\n*   **Lesion:**\n    *   **Vertical Diplopia** (Worse when looking down, e.g., stairs/reading).\n    *   **Head Tilt:** Patient tilts head **AWAY** from the affected side to compensate/align eyes.\n\n## 4. CN VI (Abducens) & Gaze Control\n*   **Motor:** **Lateral Rectus** (Abducts eye).\n*   **Horizontal Gaze Circuit:**\n    *   To look RIGHT: Right PPRF $\\\\to$ Right **Abducens Nucleus**.\n    *   Right Abducens Nucleus does TWO things:\n        1.  Contracts Ring Lateral Rectus (Abducts Right Eye).\n        2.  Sends signal via **MLF** (Medial Longitudinal Fasciculus) to Left Oculomotor Nucleus $\\\\to$ Contracts Left Medial Rectus (Adducts Left Eye).\n*   **Pathology:**\n    *   **CN VI Palsy:** Esotropia (Eye turns in).\n    *   **INO (Internuclear Ophthalmoplegia):**\n        *   Lesion of **MLF**.\n        *   Ipsilateral eye cannot Adduct (Medial Rectus palsy).\n        *   Contralateral eye has Nystagmus.\n        *   Convergence is SPARED (because CN III is intact).\n        *   *Classic Cause:* **Multiple Sclerosis** (Bilateral INO).\n\n## 5. Summary Table\n| Nerve | Muscles | Lesion Sign |\n| :--- | :--- | :--- |\n| **CN III** | All others + Levator + Pupil | Down & Out, Ptosis, Blown Pupil |\n| **CN IV** | Superior Oblique | Head tilt AWAY, Vertical Diplopia (stairs) |\n| **CN VI** | Lateral Rectus | Esotropia (Eye turns In) |",
+  "title": "Lecture 35: Cranial Nerves I, II, III, IV, VI (Eye Movements)",
+  "module": "Neurology",
+  "questions": [
+    {
+      "question": "A patient presents with vertical diplopia that worsens when walking down stairs. They are observed tilting their head to the left. Which cranial nerve is likely injured?",
+      "options": [
+        "Left CN IV",
+        "Right CN IV",
+        "Left CN III",
+        "Right CN VI",
+        "Left CN VI"
+      ],
+      "answer": 2,
+      "explanation": "Vertical diplopia (stairs problem) suggests **CN IV (Trochlear)** palsy. The head tilts **AWAY** from the lesion. Left tilt = **Right** CN IV lesion."
+    },
+    {
+      "question": "A patient cannot look to the right with the right eye. When attempting to look right, the left eye also fails to adduct. Convergence is intact. Where is the lesion?",
+      "options": [
+        "Right Abducens Nerve",
+        "Right Abducens Nucleus",
+        "Right MLF",
+        "Left MLF",
+        "Right PPRF"
+      ],
+      "answer": 2,
+      "explanation": "This is a **Right Abducens Nucleus** lesion. It knocks out the Right LR (Can't look right) AND the signal to the Left MR (via MLF), causing a gaze palsy to that side. (A simple nerve lesion would only affect the Right LR)."
+    },
+    {
+      "question": "In Internuclear Ophthalmoplegia (INO), the lesion is located in the:",
+      "options": [
+        "Abducens Nerve",
+        "Oculomotor Nerve",
+        "Medial Longitudinal Fasciculus (MLF)",
+        "Superior Colliculus",
+        "Lateral Geniculate Nucleus"
+      ],
+      "answer": 2,
+      "explanation": "**INO** is caused by damage to the **MLF**, disconnecting the Abducens nucleus from the contralateral Oculomotor nucleus."
+    },
+    {
+      "question": "Which cranial nerve contains the parasympathetic fibers responsible for pupillary constriction?",
+      "options": [
+        "Optic (II)",
+        "Oculomotor (III)",
+        "Trochlear (IV)",
+        "Trigeminal (V)",
+        "Abducens (VI)"
+      ],
+      "answer": 1,
+      "explanation": "**CN III (Oculomotor)** carries parasympathetics from the Edinger-Westphal nucleus to the ciliary ganglion for miosis and accommodation."
+    },
+    {
+      "question": "Anosmia is an early and often overlooked clinical sign of which neurodegenerative disorder?",
+      "options": [
+        "Alzheimer's Disease",
+        "Parkinson's Disease",
+        "Huntington's Disease",
+        "ALS",
+        "Multiple Sclerosis"
+      ],
+      "answer": 1,
+      "explanation": "**Parkinson's Disease** is strongly associated with early Anosmia due to Lewy Body deposition in the olfactory bulb."
+    }
+  ],
   "flashcards": [
     {
-      "front": "CN I function?",
-      "back": "Olfaction (bypasses thalamus)",
-      "tag": "Neuro"
+      "front": "Eye Muscles Innervation Mnemonic",
+      "back": "SO4, LR6, All Others 3",
+      "tag": "Neuroanatomy"
     },
     {
-      "front": "Early sign of Parkinson's?",
-      "back": "Anosmia (loss of smell, CN I)",
-      "tag": "Neuro"
+      "front": "CN IV Exit Point",
+      "back": "Dorsal Brainstem (Midbrain)",
+      "tag": "Neuroanatomy"
     },
     {
-      "front": "CN II pathway endpoint?",
-      "back": "LGN (thalamus) \u2192 Occipital cortex",
-      "tag": "Neuro"
+      "front": "CN III Palsy Signs",
+      "back": "Down & Out, Ptosis, Mydriasis",
+      "tag": "Neurology"
     },
     {
-      "front": "Pupillary light reflex nucleus?",
-      "back": "Pretectal area \u2192 Edinger-Westphal (bilateral)",
-      "tag": "Neuro"
+      "front": "INO Lesion Location",
+      "back": "Medial Longitudinal Fasciculus (MLF)",
+      "tag": "Neurology"
     },
     {
-      "front": "CN III muscles (ipsilateral)?",
-      "back": "Medial Rectus, Inferior Rectus, Inferior Oblique",
-      "tag": "Neuro"
+      "front": "Head Tilt in CN IV Palsy",
+      "back": "Away from Lesion",
+      "tag": "Neurology"
     },
     {
-      "front": "CN III muscles (contralateral)?",
-      "back": "Superior Rectus, Levator Palpebrae",
-      "tag": "Neuro"
+      "front": "Vertical Diplopia Cause",
+      "back": "CN IV Palsy",
+      "tag": "Neurology"
     },
     {
-      "front": "CN III palsy presentation?",
-      "back": "Ptosis, 'Down and Out', Dilated pupil",
-      "tag": "Neuro"
+      "front": "Parasympathetic Nucleus for Eye",
+      "back": "Edinger-Westphal Nucleus",
+      "tag": "Neuroanatomy"
     },
     {
-      "front": "CN IV innervates?",
-      "back": "Superior Oblique (contralateral, intorsion/depression)",
-      "tag": "Neuro"
+      "front": "Abducens Nucleus Function",
+      "back": "Abducts Ipsilateral Eye + Adducts Contralateral Eye (via MLF)",
+      "tag": "Neurophysiology"
+    }
+  ],
+  "ankingResource": {
+    "primarySource": "AMBOSS",
+    "chapter": "Neurology > Neuroanatomy > Cranial Nerves",
+    "alternatives": [
+      {
+        "resource": "FirstAid",
+        "chapter": "Neurology > Anatomy > Cranial Nerves"
+      }
+    ]
+  },
+  "pearls": [
+    {
+      "title": "SO4 LR6 All The Rest 3",
+      "content": "**S**uperior **O**blique = CN **4**.\\n**L**ateral **R**ectus = CN **6**.\\nAll other eye muscles = CN **3**."
     },
     {
-      "front": "CN VI innervates?",
-      "back": "Lateral Rectus (abduction)",
-      "tag": "Neuro"
+      "title": "CN IV Trochlear Trivia",
+      "content": "The only cranial nerve to exit from the **BACK** (Dorsal) of the brainstem. Also the only one to cross completely!"
     },
     {
-      "front": "MLF function?",
-      "back": "Coordinates conjugate horizontal gaze (Abducens \u2192 Oculomotor)",
-      "tag": "Neuro"
+      "title": "INO (Internuclear Ophthalmoplegia)",
+      "content": "Lesion of **MLF**. Eye **lags** when looking towards nose (Adduction deficit). The other eye shakes (Nystagmus). Seen in **MS**."
     },
     {
-      "front": "INO (MLF syndrome) presentation?",
-      "back": "Impaired adduction on ipsilateral side during lateral gaze",
-      "tag": "Neuro"
+      "title": "Parkinson's Early Sign",
+      "content": "**Anosmia** (Loss of smell) is often the FIRST sign of Parkinson's, appearing years before motor symptoms."
     },
     {
-      "front": "Most common isolated ocular palsy?",
-      "back": "CN VI palsy (Lateral Rectus)",
-      "tag": "Neuro"
+      "title": "Head Tilt in CN IV Palsy",
+      "content": "Head tilts **AWAY** from the lesion. (Right CN IV palsy = Left Head Tilt)."
     }
   ]
 });

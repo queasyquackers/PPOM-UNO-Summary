@@ -1,65 +1,142 @@
 window.receiveLectureContent({
   "id": "l33",
-  "title": "Lecture #33: Sympathomimetics Part 1",
-  "lecturer": "L. Goldstein, Pharm.D.",
-  "module": "Pharmacology",
-  "session": "Lecture #33",
-  "prev": "l32",
-  "next": "l34",
-  "pdf": "pdfs/Lecture # 33. L. Goldstein, Pharm.D. (PPT).pdf",
-  "summary": "# Lecture #33: Sympathomimetics Part 1\n\n**Lecturer:** L. Goldstein, Pharm.D.\n**Session:** Lecture #33\n\n## 1. Classification (Slide 7)\n**Direct-Acting:** Bind and activate adrenergic receptors.\n**Indirect-Acting:** Increase synaptic NE (release, block reuptake, block degradation).\n**Mixed-Acting:** Both mechanisms.\n\n## 2. Structure-Activity (Slide 23)\n*   **Catecholamines** (DA, NE, Epi): 3,4-dihydroxy on benzene ring.\n    *   **Metabolized by COMT** (breaks down catechols).\n    *   **Not orally active** (first-pass metabolism).\n*   **Non-Catecholamines:** Resistant to COMT. Longer duration. Oral bioavailability.\n*   **Alpha Substitution:** \u2191 CNS penetration (Amphetamine, Ephedrine).\n*   **Beta Substitution:** \u2191 Beta-2 selectivity (Albuterol).\n\n## 3. Cardiovascular Physiology (Slides 13-15)\n*   **CO = HR \u00d7 SV**\n*   **MAP = CO \u00d7 TPR**\n*   **Baroreceptor Reflex:** \u2191 BP \u2192 \u2191 Vagal tone \u2192 \u2193 HR (Bradycardia). \u2193 BP \u2192 \u2191 Sympathetic \u2192 \u2191 HR (Tachycardia).\n\n## 4. Vasopressors (Slides 25-38)\n\n:::highyield\n**Epinephrine (Epi)**\n*   **Receptors:** \u03b11 = \u03b12 = \u03b21 = \u03b22 (Non-selective).\n*   **Cardiovascular:**\n    *   **Low Dose:** \u03b22 vasodilation (skeletal muscle) \u2192 \u2193 DBP. \u03b21 \u2192 \u2191 HR, \u2191 SV, \u2191 CO.\n    *   **High Dose:** \u03b11 vasoconstriction dominates \u2192 \u2191 SBP, \u2191 DBP, \u2191 MAP \u2192 Reflex Bradycardia.\n*   **Respiratory:** \u03b22 \u2192 Bronchodilation.\n*   **Metabolic:** \u2191 Glucose, \u2191 FFA, \u2193 K\u207a.\n*   **Uses:**\n    *   **Anaphylaxis (DOC):** IM/Intranasal. Never contraindicated.\n    *   Cardiac arrest (IV).\n    *   Asthma (nebulizer).\n*   **Adverse Effects:** Tachycardia, Arrhythmias, Angina (\u2191 O\u2082 demand), Cerebral hemorrhage (if high dose).\n:::\n\n:::highyield\n**Norepinephrine (NE)**\n*   **Receptors:** \u03b11 = \u03b12 > \u03b21 >>> \u03b22.\n*   **Cardiovascular:**\n    *   **Vasoconstriction** (\u03b11) \u2192 \u2191 TPR \u2192 \u2191 Afterload \u2192 \u2191 SBP, \u2191 DBP, \u2191 MAP.\n    *   **Venoconstriction** \u2192 \u2191 Preload.\n    *   **Modest \u2191 CO** (\u03b21 inotropy, but reflex bradycardia limits HR).\n*   **Uses:**\n    *   **Septic Shock (DOC):** First-line for circulatory shock with low peripheral resistance.\n*   **Adverse Effects:** Organ ischemia, Digital gangrene, Arrhythmias, Extravasation necrosis.\n:::\n\n:::highyield\n**Dopamine**\n*   **Dose-Dependent:**\n    *   **Low (1-5 mcg/kg/min):** D1 \u2192 Renal/Mesenteric vasodilation.\n    *   **Intermediate (5-10):** \u03b21 \u2192 \u2191 Contractility. Releases NE.\n    *   **High (>10):** \u03b11 \u2192 Vasoconstriction.\n*   **Uses:** Alternative to NE in select shock patients.\n*   **Adverse Effects:** Tachycardia, Arrhythmias.\n:::\n\n:::drug\n**Phenylephrine**\n*   **Receptor:** Selective \u03b11 agonist.\n*   **Effect:** Pure vasoconstriction \u2192 \u2191 SBP, \u2191 DBP. **Reflex Bradycardia** (no direct cardiac effect).\n*   **Uses:**\n    *   Shock refractory to other vasopressors.\n    *   Nasal decongestant (topical).\n:::\n\n## 5. Other Direct Agonists (Slides 24)\n\n:::drug\n**Dobutamine (\u03b21 Agonist)**\n*   **Effect:** \u2191 Inotropy, \u2191 CO. Minimal chronotropy.\n*   **Uses:**\n    *   Acute decompensated heart failure (short-term).\n    *   Pharmacologic stress test.\n*   **Caution:** \u2191 O\u2082 demand (risk in CAD).\n:::\n\n:::drug\n**Isoproterenol (Non-selective \u03b2)**\n*   **Receptors:** \u03b21 = \u03b22.\n*   **Effect:** \u2191 HR, \u2191 CO, Vasodilation (\u03b22) \u2192 \u2193 DBP.\n*   **Rarely used** (replaced by safer alternatives).\n:::",
-  "mindmap": "## Sympathomimetics Part 1\n### Classification\n*   **Direct**: Bind receptors\n*   **Indirect**: \u2191 NE release/block reuptake\n*   **Mixed**: Both\n### Vasopressors\n*   **Epinephrine**: Anaphylaxis. \u03b1=\u03b2.\n*   **Norepinephrine**: Septic shock. \u03b1>\u03b2.\n*   **Dopamine**: Dose-dependent (D1/\u03b21/\u03b11).\n*   **Phenylephrine**: \u03b11 only. Reflex brady.\n### Inotropes\n*   **Dobutamine**: \u03b21. Heart failure.\n*   **Isoproterenol**: \u03b21=\u03b22. Rarely used.",
-  "questions": [],
+  "summary": "# Lecture 33: Sympathomimetics I - Direct Agonists\n\n**Lecturer:** L. Goldstein, Pharm.D.\n**Session:** Lecture 33\n\n## 1. Receptors & Physiology\n*   **$\\\\alpha_1$ (Gq):** **Vasoconstriction** (Skin/Splanchnic), **Mydriasis** (Pupil Dilation), Urinary Sphincter Contraction.\n*   **$\\\\alpha_2$ (Gi):** Presynaptic **Inhibition** (Decreases NE release).\n*   **$\\\\beta_1$ (Gs):** **Heart** ($\\\\uparrow$ HR, $\\\\uparrow$ Contractility), Kidney ($\\\\uparrow$ Renin).\n*   **$\\\\beta_2$ (Gs):** **Bronchodilation**, **Vasodilation** (Skeletal Muscle), Uterine Relaxation (Tocolysis).\n*   **$\\\\beta_3$ (Gs):** Bladder Detrusor Relaxation.\n\n## 2. Direct-Acting Sympathomimetics\n| Drug | Receptors | Action | Clinical Use |\n| :--- | :--- | :--- | :--- |\n| **Epinephrine** | $\\\\alpha, \\\\beta$ | Low Dose: $\\\\beta_2$ (Hypotension). High Dose: $\\\\alpha_1$ (Hyperstension). | **Anaphylaxis (DOC)**, Cardiac Arrest. |\n| **Norepinephrine** | $\\\\alpha_1 = \\\\alpha_2 > \\\\beta_1$ | Potent Vasoconstriction. Reflex Bradycardia. | **Septic Shock (DOC)**. |\n| **Dopamine** | D1 > $\\\\beta_1$ > $\\\\alpha_1$ | Low: Renal Vasodilation. Med: Inotropy. High: Vasoconstriction. | Shock (Renal sparing theoretically), Heart Failure. |\n| **Dobutamine** | $\\\\beta_1 > \\\\beta_2$ | $\\\\uparrow$ Inotropy > Chronotropy. | **Heart Failure** (Decompensated), Stress Testing. |\n| **Phenylephrine** | $\\\\alpha_1$ | Vasoconstriction. | Nasal Decongestant, Hypotension, Mydriasis. |\n| **Isoproterenol** | $\\\\beta_1 = \\\\beta_2$ | $\\\\uparrow$ HR, Vasodilation ($\\\\downarrow$ DBP). | Bradycardia, Heart block (Rarely used). |\n\n## 3. Hemodynamics (Key Concepts)\n*   **Mean Arterial Pressure (MAP):** $\\\\text{CO} \\\\times \\\\text{TPR}$.\n*   **Pulse Pressure:** $\\\\text{Systolic} - \\\\text{Diastolic}$.\n*   **Epinephrine Reversal:** Giving an $\\\\alpha$-blocker before Epinephrine converts its pressor effect ($\\\\alpha_1$) to a depressor effect ($\\\\beta_2$ unmasked) $\\\\to$ Hypotension.\n*   **Reflex Bradycardia:** Pure $\\\\alpha_1$ agonists (Phenylephrine/Norepinephrine) cause massive vasoconstriction $\\\\to$ $\\\\uparrow$ BP $\\\\to$ Baroreceptors fire $\\\\to$ Reflex $\\\\downarrow$ HR.\n\n## 4. Clinical Pearls\n*   **Anaphylaxis:** Epinephrine is the ONLY first-line drug. Prevents shock ($\\\\alpha_1$), opens airway ($\\\\beta_2$), stops mast cells.\n*   **Septic Shock:** Norepinephrine is first-line to restore MAP.\n*   **Tachyphylaxis:** Rapidly diminishing response to successive doses (seen with Indirect agonists like Tyramine/Ephedrine, less so with direct).",
+  "title": "Lecture 33: Sympathomimetics I - Direct Agonists",
+  "module": "Neurology",
+  "questions": [
+    {
+      "question": "A patient in septic shock requires a vasopressor to maintain Mean Arterial Pressure (MAP). Which agent is the first-line choice due to its potent alpha-1 and beta-1 activity with minimal beta-2 effects?",
+      "options": [
+        "Epinephrine",
+        "Dopamine",
+        "Norepinephrine",
+        "Phenylephrine",
+        "Isoproterenol"
+      ],
+      "answer": 2,
+      "explanation": "**Norepinephrine** is the Drug of Choice (DOC) for Septic Shock. It provides strong vasoconstriction (alpha-1) and some inotropy (beta-1) without the hypotension associated with beta-2 stimulation."
+    },
+    {
+      "question": "A patient is given a drug that increases Systolic BP, decreases Diastolic BP, and increases Heart Rate. Which drug fits this profile?",
+      "options": [
+        "Phenylephrine",
+        "Norepinephrine",
+        "Isoproterenol",
+        "Clonidine",
+        "Propranolol"
+      ],
+      "answer": 2,
+      "explanation": "**Isoproterenol** is a non-selective **Beta agonist** (Beta-1 and Beta-2). Beta-1 increases SBP and HR. Beta-2 causes vasodilation, dropping DBP. "
+    },
+    {
+      "question": "Phenylephrine is administered intravenously. What represents the expected cardiovascular response?",
+      "options": [
+        "Increased BP, Increased HR",
+        "Increased BP, Decreased HR",
+        "Decreased BP, Increased HR",
+        "Decreased BP, Decreased HR",
+        "No change in BP, Increased HR"
+      ],
+      "answer": 1,
+      "explanation": "Phenylephrine is a pure **Alpha-1** agonist. It increases TPR and BP. The body responds with **Reflex Bradycardia** (Decreased HR)."
+    },
+    {
+      "question": "Which receptor subtype is primarily responsible for the bronchodilatory effects of Epinephrine used in anaphylaxis?",
+      "options": [
+        "Alpha-1",
+        "Alpha-2",
+        "Beta-1",
+        "Beta-2",
+        "Dopamine-1"
+      ],
+      "answer": 3,
+      "explanation": "**Beta-2** receptors mediate bronchodilation (and skeletal muscle vasodilation). Alpha-1 mediates the vasoconstriction that supports BP."
+    },
+    {
+      "question": "Dobutamine is primarily used in the setting of:",
+      "options": [
+        "Anaphylactic Shock",
+        "Septic Shock",
+        "Decompensated Heart Failure",
+        "Hypertension",
+        "Asthma"
+      ],
+      "answer": 2,
+      "explanation": "**Dobutamine** (Beta-1 > Beta-2) is an inotrope used to increase cardiac output in **Decompensated Heart Failure** or cardiogenic shock."
+    }
+  ],
   "flashcards": [
     {
-      "front": "Epinephrine receptor affinity?",
-      "back": "\u03b11 = \u03b12 = \u03b21 = \u03b22 (Non-selective)",
-      "tag": "Pharm"
+      "front": "Epinephrine Receptor Profile",
+      "back": "Alpha-1, Alpha-2, Beta-1, Beta-2",
+      "tag": "Pharmacology"
     },
     {
-      "front": "Norepinephrine receptor affinity?",
-      "back": "\u03b11 = \u03b12 > \u03b21 >>> \u03b22",
-      "tag": "Pharm"
+      "front": "Norepinephrine Receptor Profile",
+      "back": "Alpha-1 > Alpha-2 > Beta-1 (NO Beta-2)",
+      "tag": "Pharmacology"
     },
     {
-      "front": "Drug of choice for Anaphylaxis?",
-      "back": "Epinephrine (IM/Intranasal)",
-      "tag": "Pharm"
+      "front": "Phenylephrine Receptor Profile",
+      "back": "Pure Alpha-1 Agonist",
+      "tag": "Pharmacology"
     },
     {
-      "front": "Drug of choice for Septic Shock?",
+      "front": "Isoproterenol Receptor Profile",
+      "back": "Beta-1 = Beta-2 (Non-selective Beta)",
+      "tag": "Pharmacology"
+    },
+    {
+      "front": "Dobutamine Use",
+      "back": "Heart Failure (Inotropy)",
+      "tag": "Pharmacology"
+    },
+    {
+      "front": "Drug of Choice for Anaphylaxis",
+      "back": "Epinephrine",
+      "tag": "Pharmacology"
+    },
+    {
+      "front": "Drug of Choice for Septic Shock",
       "back": "Norepinephrine",
-      "tag": "Pharm"
+      "tag": "Pharmacology"
     },
     {
-      "front": "Phenylephrine selectivity?",
-      "back": "Selective \u03b11 agonist",
-      "tag": "Pharm"
+      "front": "Reflex response to Phenylephrine",
+      "back": "Bradycardia (Decreased HR)",
+      "tag": "Pharmacology"
+    }
+  ],
+  "ankingResource": {
+    "primarySource": "AMBOSS",
+    "chapter": "Pharmacology > Autonomic Drugs > Sympathomimetics",
+    "alternatives": [
+      {
+        "resource": "FirstAid",
+        "chapter": "Pharmacology > Autonomic Drugs"
+      }
+    ]
+  },
+  "pearls": [
+    {
+      "title": "Epinephrine Dosage Effects",
+      "content": "**Low** Dose = **Beta-2** Dominant (Vasodilation/Hypotension).\\n**High** Dose = **Alpha-1** Dominant (Vasoconstriction/Hypertension)."
     },
     {
-      "front": "Dobutamine selectivity?",
-      "back": "\u03b21 agonist (inotrope)",
-      "tag": "Pharm"
+      "title": "Norepinephrine vs Epinephrine",
+      "content": "Norepinephrine has **NO** Beta-2 activity. It causes pure vasoconstriction and reflex bradycardia. Epinephrine has Beta-2 activity (Bronchodilation)."
     },
     {
-      "front": "Low-dose Dopamine effect?",
-      "back": "D1 activation \u2192 Renal vasodilation",
-      "tag": "Pharm"
+      "title": "Dopamine Dosing",
+      "content": "**Low** (Renal): D1.\\n**Medium** (Cardiac): Beta-1.\\n**High** (Pressor): Alpha-1."
     },
     {
-      "front": "Why does NE cause bradycardia?",
-      "back": "Reflex response to \u2191 MAP (baroreceptor)",
-      "tag": "Pharm"
+      "title": "Phenylephrine Reflex",
+      "content": "A pure **Alpha-1** agonist (Phenylephrine) increases BP but causes **Reflex Bradycardia** (lowers HR)."
     },
     {
-      "front": "Catecholamine metabolized by?",
-      "back": "COMT (and MAO)",
-      "tag": "Pharm"
-    },
-    {
-      "front": "Epinephrine low dose effect on DBP?",
-      "back": "Decreases (\u03b22 vasodilation)",
-      "tag": "Pharm"
+      "title": "Beta-1 Selectivity",
+      "content": "**Dobutamine** is a Beta-1 agonist used for **Heart Failure** to increase contractility without massively increasing Heart Rate (Chronotropy)."
     }
   ]
 });

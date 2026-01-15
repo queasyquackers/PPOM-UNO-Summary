@@ -1,65 +1,142 @@
 window.receiveLectureContent({
   "id": "l32",
-  "title": "Lecture #32: Cerebellum",
-  "lecturer": "I. Kurtzer, Ph.D.",
-  "module": "Neuro",
-  "session": "Lecture #32",
-  "prev": "l31",
-  "next": "l33",
-  "pdf": "pdfs/Lecture # 32. I. Kurtzer, Ph.D. (PPT).pdf",
-  "summary": "# Lecture #32: Cerebellum\n\n**Lecturer:** I. Kurtzer, Ph.D.\n**Session:** Lecture #32\n\n## 1. Functional Anatomy (Slides 3-8)\n*   **Function:** \"The Great Comparator\". Compares intended movement (from Cortex) with actual movement (from Body/Spinal Cord) and corrects errors. Coordination, Balance, Motor Learning.\n*   **Structure:**\n    *   **Vermis:** Midline. Trunk/Axial control.\n    *   **Hemispheres:** Lateral. Limb control.\n    *   **Flocculonodular Lobe:** Balance/Vestibular.\n    *   **Tonsils:** Inferior aspect (can herniate).\n\n### Deep Cerebellar Nuclei (Slides 9-10)\nReference from Medial to Lateral: \"Don't Eat Greasy Foods\"\n*   **D**entate: Lateral Hemisphere. Planning/Programming.\n*   **E**mboliform + **G**lobose = **Interposed**: Paravermis. Distal limb execution.\n*   **F**astigial: Vermis. Axial/Trunk execution.\n*   **Output:** All output leaves via Deep Nuclei (except Flocculonodular lobe -> Vestibular Nuclei).\n\n## 2. Peduncles (Slides 13-16)\n*   **Superior Cerebellar Peduncle (SCP):** Primary **Output** (to Thalamus/Red Nucleus). Includes Ventral Spinocerebellar Tract (Input).\n*   **Middle Cerebellar Peduncle (MCP):** **Input** only. From Pontine Nuclei (Corticopontocerebellar). Massive pathway.\n*   **Inferior Cerebellar Peduncle (ICP):** **Input** (Spinocerebellar, Vestibular, Olivary) and **Output** (to Vestibular Nuclei/Reticular Formation).\n\n## 3. Cellular Circuitry (Slides 22-24)\n*   **Layers:** Molecular, Purkinje, Granule (Deepest).\n*   **Inputs:**\n    *   **Mossy Fibers:** From Spinal Cord, Pons. Excite Granule Cells -> Parallel Fibers -> Purkinje Cells.\n    *   **Climbing Fibers:** From **Inferior Olive**. Potent excitation of Purkinje Cells. Motor Learning.\n*   **Output:** **Purkinje Cells** (Inhibitory/GABA) -> Deep Cerebellar Nuclei.\n\n## 4. Clinical Correlates (Slides 25-30)\n\n:::mnemonic\n**Symptoms of Cerebellar Damage (DANISH)**\n*   **D**ysdiadochokinesia (Impaired rapid alternating movements)\n*   **A**taxia (Incoordination, wide-based gait)\n*   **N**ystagmus (Oscillating eyes)\n*   **I**ntention Tremor (Tremor increases near target)\n*   **S**lurred Speech (Dysarthria)\n*   **H**ypotonia (Low tone)\n:::\n\n:::prop\n**Lesion Localization**\n*   **Lateral Lesion:** Affects **limbs** (Appendicular Ataxia). Tendency to fall **toward** the side of lesion.\n*   **Midline (Vermis) Lesion:** Affects **trunk** (Truncal Ataxia). Wide-based gait.\n*   **Flocculonodular Lesion:** Balance, Nystagmus, Vertigo.\n*   **Note:** Cerebellar symptoms are **Ipsilateral** to the lesion.\n:::\n\n:::correlate\n**Cerebellar Syndromes**\n*   **Alcoholism:** Degeneration of **Anterior Lobe** (Vermis). Truncal ataxia, wide gait.\n*   **Dandy-Walker:** Agenesis of Vermis + Cystic dilation of 4th ventricle.\n*   **Arnold-Chiari:** Downward displacement of Cerebellar Tonsils through Foramen Magnum.\n*   **Essential Tremor:** Postural tremor (when holding a position). 50% familial. Improved by alcohol. Treat with Beta-blockers.\n:::\n\n:::highyield\n**Tremor Types:**\n*   **Resting:** Parkinson's (Basal Ganglia).\n*   **Intention:** Cerebellar.\n*   **Essential (Postural):** Familial/Idiopathic (often Cerebellar circuit involved).\n:::",
-  "mindmap": "## Cerebellum\n### Anatomy\n*   **Vermis**: Trunk\n*   **Hemispheres**: Limbs\n*   **Flocculonodular**: Balance\n### Deep Nuclei\n*   **Dentate**: Lateral\n*   **Interposed**: Paravermis\n*   **Fastigial**: Vermis\n### Inputs\n*   **Mossy Fibers**: Pons/Spinal Cord\n*   **Climbing Fibers**: Inferior Olive\n### Peduncles\n*   **SCP**: Output\n*   **MCP**: Input (Pons)\n*   **ICP**: Mixed\n### Clinical\n*   **DANISH**: Ataxia, Intention Tremor...\n*   **Vermis Lesion**: Truncal Ataxia (Alcohol)\n*   **Hemisphere Lesion**: Limb Ataxia (Ipsilateral)",
-  "questions": [],
+  "summary": "# Lecture 32: Cerebellum\n\n**Lecturer:** I. Kurtzer, Ph.D.\n**Session:** Lecture 32\n\n## 1. Neuroanatomy\n*   **Organization:** Cortex (3 layers) covering Deep Nuclei.\n*   **Deep Nuclei (Lateral to Medial):** \"**D**on't **E**at **G**reasy **F**ood\".\n    *   **D**entate.\n    *   **E**mboliform.\n    *   **G**lobose.\n    *   **F**astigial.\n*   **Circuits:**\n    *   **Inputs:**\n        *   **Mossy Fibers:** From Spinal cord/Brainstem. Excitatory (**Glutamate**).\n        *   **Climbing Fibers:** From **Inferior Olive**. Excitatory (**Glutamate**).\n    *   **Processing:**\n        *   **Purkinje Cells:** The sole *output* of the cerebellar cortex. Releases **GABA** (Inhibitory) onto Deep Nuclei.\n    *   **Output:**\n        *   Deep Nuclei send final signal to Thalamus/Brainstem.\n\n## 2. Functional Divisions & Pathology\n| Division | Anatomy | Function | Lesion Symptoms |\n| :--- | :--- | :--- | :--- |\n| **Vestibulo-cerebellum** | Flocculonodular Lobe | Balance, Eye movements | Vertigo, **Nystagmus**, Wide-based gait (Truncal Ataxia). |\n| **Spino-cerebellum** | Vermis & Paravermis | Posture, Trunk/Limb Gait | **Ataxic Gait** (\"Drunk walk\"). **Alcoholism** damages Anterior Lobe (Vermis). |\n| **Cerebro-cerebellum** | Lateral Hemispheres | Fine motor planning | **Intention Tremor**, Dysmetria, **Dysdiadochokinesia**. |\n\n## 3. Clinical Syndromes\n*   **Essential Tremor:**\n    *   Most common movement disorder. Familial (Autosomal Dominant).\n    *   **Postural/Action Tremor** (worse when holding a cup).\n    *   *Note:* Improves with **Alcohol**. (Often self-medicated).\n*   **Intention Tremor:**\n    *   Cerebellar lesion. Tremor worsens *as you approach target*.\n*   **Resting Tremor:**\n    *   Basal Ganglia (Parkinson's).\n\n## 4. DANISH Mnemonic (Cerebellar Signs)\n*   **D**ysdiadochokinesia (Can't do rapid alternating movements).\n*   **A**taxia.\n*   **N**ystagmus.\n*   **I**ntention Tremor.\n*   **S**peech (Slurred/Scanning).\n*   **H**ypotonia.",
+  "title": "Lecture 32: Cerebellum",
+  "module": "Neurology",
+  "questions": [
+    {
+      "question": "A chronic alcoholic presents with a wide-based, staggering gait but normal arm coordination. Which region of the cerebellum is most likely degenerated?",
+      "options": [
+        "Flocculonodular Lobe",
+        "Anterior Lobe (Vermis)",
+        "Lateral Hemisphere",
+        "Dentate Nucleus",
+        "Inferior Olive"
+      ],
+      "answer": 1,
+      "explanation": "Chronic alcoholism typically causes atrophy of the **Anterior Lobe (Vermis)**, leading to **Truncal Ataxia** and gait issues while sparing the limbs (Lateral Hemispheres)."
+    },
+    {
+      "question": "Which of the following describes the output of Purkinje cells?",
+      "options": [
+        "Excitatory (Glutamate) to Deep Nuclei",
+        "Inhibitory (GABA) to Deep Nuclei",
+        "Excitatory (Glutamate) to Thalamus",
+        "Inhibitory (GABA) to Thalamus",
+        "Excitatory (Acetylcholine) to Spinal Cord"
+      ],
+      "answer": 1,
+      "explanation": "**Purkinje Cells** provide **Inhibitory (GABA)** input to the Deep Cerebellar Nuclei, modulating the final output."
+    },
+    {
+      "question": "A patient cannot rapidly supinate and pronate their hand (Dysdiadochokinesia) on the left side. Where is the lesion?",
+      "options": [
+        "Right Cerebellar Hemisphere",
+        "Left Cerebellar Hemisphere",
+        "Vermis",
+        "Right Motor Cortex",
+        "Right Basal Ganglia"
+      ],
+      "answer": 1,
+      "explanation": "Cerebellar symptoms are **Ipsilateral**. Dysdiadochokinesia (limb coordination) maps to the **Lateral Hemisphere**. So Left hand issue = **Left Cerebellar Hemisphere**."
+    },
+    {
+      "question": "A child presents with frequent falls, nystagmus, and vomiting. An MRI reveals a tumor in the roof of the 4th ventricle compressing the flocculonodular lobe. What is the most likely diagnosis?",
+      "options": [
+        "Glioblastoma Multiforme",
+        "Meningioma",
+        "Medulloblastoma",
+        "Schwannoma",
+        "Pituitary Adenoma"
+      ],
+      "answer": 2,
+      "explanation": "**Medulloblastoma** is a common pediatric tumor that often arises in the **Vermis/Flocculonodular lobe**, causing truncal ataxia and hydrocephalus (vomiting)."
+    },
+    {
+      "question": "Climbing fibers, which provide powerful excitatory input to Purkinje cells, originate from which structure?",
+      "options": [
+        "Spinal Cord",
+        "Pontine Nuclei",
+        "Inferior Olive",
+        "Red Nucleus",
+        "Vestibular Nuclei"
+      ],
+      "answer": 2,
+      "explanation": "**Climbing Fibers** originate exclusively from the **Inferior Olive** (Medulla)."
+    }
+  ],
   "flashcards": [
     {
-      "front": "Deep Cerebellar Nuclei (Lateral to Medial)?",
-      "back": "Dentate, Emboliform, Globose, Fastigial (Don't Eat Greasy Foods)",
-      "tag": "Neuro"
+      "front": "Deep Cerebellar Nuclei (Lat to Med)",
+      "back": "Dentate, Emboliform, Globose, Fastigial",
+      "tag": "Neuroanatomy"
     },
     {
-      "front": "Input via Middle Cerebellar Peduncle?",
-      "back": "Corticopontocerebellar fibers (from Pons)",
-      "tag": "Neuro"
+      "front": "Purkinje Cell Neurotransmitter",
+      "back": "GABA (Inhibitory)",
+      "tag": "Neuroscience"
     },
     {
-      "front": "Origin of Climbing Fibers?",
+      "front": "Climbing Fibers Origin",
       "back": "Inferior Olive",
-      "tag": "Neuro"
+      "tag": "Neuroanatomy"
     },
     {
-      "front": "Action of Purkinje Cells?",
-      "back": "Inhibitory (GABA) on Deep Nuclei",
-      "tag": "Neuro"
+      "front": "Lesion causing Dysdiadochokinesia",
+      "back": "Ipsilateral Lateral Cerebellar Hemisphere",
+      "tag": "Neurology"
     },
     {
-      "front": "Symptoms of Cerebellar lesion?",
-      "back": "DANISH (Dysdiadochokinesia, Ataxia, Nystagmus, Intention Tremor, Slurred speech, Hypotonia)",
-      "tag": "Neuro"
+      "front": "Classic sign of Cerebrocerebellar lesion",
+      "back": "Intention Tremor",
+      "tag": "Neurology"
     },
     {
-      "front": "Are cerebellar signs ipsilateral or contralateral?",
-      "back": "Ipsilateral",
-      "tag": "Neuro"
+      "front": "Sign of Vermis Lesion",
+      "back": "Truncal Ataxia (Drunk Walk)",
+      "tag": "Neurology"
     },
     {
-      "front": "Lesion causing Truncal Ataxia?",
-      "back": "Vermis (Midline)",
-      "tag": "Neuro"
+      "front": "Essential Tremor characteristics",
+      "back": "Action/Postural. Improves w/ Alcohol.",
+      "tag": "Neurology"
     },
     {
-      "front": "Lesion causing Appendicular (Limb) Ataxia?",
-      "back": "Lateral Hemisphere",
-      "tag": "Neuro"
+      "front": "DANISH meaning",
+      "back": "Dysdiadochokinesia, Ataxia, Nystagmus, Intention Tremor, Slurred Speech, Hypotonia",
+      "tag": "Neurology"
+    }
+  ],
+  "ankingResource": {
+    "primarySource": "AMBOSS",
+    "chapter": "Neurology > Neuroanatomy > Cerebellum",
+    "alternatives": [
+      {
+        "resource": "FirstAid",
+        "chapter": "Neurology > Anatomy > Cerebellum"
+      }
+    ]
+  },
+  "pearls": [
+    {
+      "title": "Deep Nuclei Mnemonic",
+      "content": "**D**on't **E**at **G**reasy **F**ood (Lateral to Medial):\\n**D**entate, **E**mboliform, **G**lobose, **F**astigial."
     },
     {
-      "front": "Intention Tremor vs Resting Tremor?",
-      "back": "Intention = Cerebellum; Resting = Parkinson's",
-      "tag": "Neuro"
+      "title": "Cerebellar Hemisphere vs Vermis",
+      "content": "**Lateral** lesions affect **Limbs** (fall Toward side of lesion).\\n**Medial (Vermis)** lesions affect **Trunk** (Truncal Ataxia, fall anywhere)."
     },
     {
-      "front": "Function of Flocculonodular Lobe?",
-      "back": "Balance and Eye movement (Vestibulocerebellum)",
-      "tag": "Neuro"
+      "title": "Alcoholic Cerebellar Degeneration",
+      "content": "Chronic alcohol use specifically damages the **Anterior Lobe (Vermis)**, causing a wide-based ataxic gait."
+    },
+    {
+      "title": "Essential Tremor",
+      "content": "Action tremor (eating/writing). Improves with Alcohol. Tx: Beta-blockers."
+    },
+    {
+      "title": "Output of Cerebellar Cortex",
+      "content": "**Purkinje Cells** are the ONLY output of the cortex. They are **Inhibitory (GABA)**."
     }
   ]
 });

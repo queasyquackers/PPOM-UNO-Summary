@@ -1,165 +1,233 @@
-const L22_CONTENT = {
-    id: 'l22',
-    title: 'Lecture #22: Ganglionic and Neuromuscular Blockers',
-    lecturer: 'L. Goldstein, Pharm.D.',
-    module: 'Pharmacology',
-    session: 'Lecture #22',
-    prev: 'l21',
-    next: 'l23',
-    pdf: 'pdfs/Lecture # 22. L. Goldstein, Pharm.D. (PPT).pdf',
-    transcript: 'transcripts/Lecture #22_ Pharmacology_ Ganglionic and Neuromuscular Blockers Faculty_ L. Goldstein, Pharm.D..srt',
-    ankingResource: {
-        primarySource: 'BandB',
-        chapter: 'Pharmacology > Autonomic Drugs > Autonomic Drugs'
-    },
+export const L22_CONTENT = {
+    id: "l22",
     summary: `
-# Lecture #22: Ganglionic & NM Blockers
+# Lecture 22: Ganglionic and Neuromuscular Blockers
 
-**Lecturer:** Leslie Goldstein, Pharm.D.
-**Session:** Pharmacology
+**Lecturer:** L. Goldstein, Pharm.D.
+**Session:** Lecture 22
 
-## 1. Ganglionic Blockers (Nn)
-*   **Drug:** **Mecamylamine**.
-*   **Mechanism:** Competitive antagonism at Nicotinic (Nn) receptors in **BOTH** Sympathetic and Parasympathetic ganglia.
-*   **Effect:** Removes the "Dominant Tone".
-    *   *Arterioles:* Sympathetic dominate -> Vasodilation -> **Hypotension** (Postural).
-    *   *Heart:* Parasympathetic dominates -> **Tachycardia**.
-    *   *Gut/Bladder:* Parasympathetic dominates -> Constipation/Retention.
-*   **Use:** Rarely used (Hypertension emergencies historically).
+## 1. Ganglionic Blockers (Slide 7-9)
+*   **Target:** Neuronal Nicotinic Receptors (**Nn**) at autonomic ganglia.
+*   **Mecamylamine:**
+    *   *Mechanism:* Blocks output of **BOTH** Sympathetic and Parasympathetic systems.
+    *   *Effect:* Predictable based on **Dominant Tone**:
+        *   **Arterioles (Symp dominant):** Vasodilation $\\to$ Hypotension (Orthostatic).
+        *   **Heart (Para dominant):** Tachycardia.
+        *   **Gut/Bladder (Para dominant):** Constipation, Urinary Retention.
+        *   **Eye (Para dominant):** Mydriasis, Cycloplegia.
 
-## 2. Neuromuscular Blockers (Nm)
-Used for paralysis during surgery/intubation. **No Analgesia/Sedation!**
+## 2. Neuromuscular Blockers (NMBAs) (Slide 19-23)
+Target **Nicotinic (Nm)** receptors at the Neuromuscular Junction (NMJ).
 
-### Depolarizing (Succinylcholine)
-*   **Structure:** Two ACh molecules.
-*   **Mechanism:**
-    *   **Phase 1:** Depolarizes membrane (fasciculations) and keeps it depolarized -> Flaccid paralysis. **No reversal**.
-    *   **Phase 2:** Desensitization (resembles non-depolarizing block).
-*   **Pharmacokinetics:** Rapid metabolism by **Plasma Cholinesterase** (Short duration).
-*   **Adverse Effects:**
-    *   **Malignant Hyperthermia:** With inhaled anesthetics.
-    *   **Hyperkalemia:** Risk in burns, trauma, crush injury.
-    *   **Bradycardia.**
+### Depolarizing NMBA
+*   **Succinylcholine (SCh):**
+    *   *Structure:* Two ACh molecules.
+    *   *Mechanism:* Agonist. Causes sustained depolarization $\\to$ Fasciculations $\\to$ Flaccid paralysis (Phase I). Desensitization (Phase II).
+    *   *Metabolism:* **Plasma Cholinesterase** (Pseudocholinesterase).
+    *   *Duration:* Very short (<8 min). **Prolonged in patients with genetic deficiency.**
+    *   *Adverse Effects:*
+        *   **Malignant Hyperthermia (MH):** Triggered by SCh + Inhaled Anesthetics (e.g., Halothane). Muscle rigidity, hyperthermia. Treat with **Dantrolene**.
+        *   **Hyperkalemia:** Life-threatening in **Burn/Trauma** patients (due to receptor upregulation/rhabdomyolysis).
 
-### Non-Depolarizing (Curares)
-*   **Drugs:**
-    *   **Isoquinolines:** Atracurium, Cisatracurium.
-    *   **Steroids:** Rocuronium, Vecuronium, Pancuronium.
-*   **Mechanism:** Competitive Antagonist at Nm.
-*   **Elimination:**
-    *   **Cisatracurium:** **Hofmann Elimination** (Spontaneous degradation). Safe in renal/liver failure.
-    *   **Rocuronium:** Hepatic.
-*   **Reversal:**
-    *   **Neostigmine:** Increases ACh to compete.
-    *   **Sugammadex:** Encapsulates Rocuronium/Vecuronium (Chemical reversal).
+### Non-Depolarizing NMBAs (Competitive Antagonists)
+*   **Isoquinolines:**
+    *   **Atracurium:** Degraded by **Hofmann Elimination** (spontaneous, no organ weakness). *Side Effect:* **Histamine release** (Hypotension) + *Laudanosine* accumulation (Seizures).
+    *   **Cisatracurium:** Hofmann elimination. No histamine. Safe for organ failure.
+*   **Aminosteroids:**
+    *   **Rocuronium:** Fast onset (can replace SCh for intubation). Biliary excretion.
+    *   **Vecuronium:** Renal/Biliary excretion.
 
-## 3. Clinical Correlates
+## 3. Reversal (Slide 27)
+*   **Cholinesterase Inhibitors (Neostigmine):** Increase ACh to compete with NMBAs. *Always give with Atropine* to prevent muscarinic bradycardia.
+*   **Sugammadex:** Specialized chelator. Encapsulates **Rocuronium/Vecuronium** for rapid reversal. No muscarinic side effects.
+
+## 4. Clinical Correlates
+
 :::correlate
 **Malignant Hyperthermia**
-*   **Trigger:** Succinylcholine + Volatile Anesthetics.
-*   **Gene:** **RYR1** (Ryanodine Receptor) mutation (AD).
-*   **Signs:** Muscle rigidity, Hyperthermia, Acidosis.
-*   **Treatment:** **Dantrolene** (Blocks Ca2+ release from SR).
+*   **Trigger:** Succinylcholine or Volatile Anesthetics.
+*   **Genetic:** Mutation in **Ryanodine Receptor (RyR1)**.
+*   **Pathology:** Uncontrolled Ca2+ release from SR $\\to$ Rigidity $\\to$ Heat/Acidosis.
+*   **Cure:** **Dantrolene** (Blocks RyR1).
 :::
 
 :::correlate
-**Pseudocholinesterase Deficiency**
-*   **Condition:** Genetic deficiency in plasma cholinesterase.
-*   **Effect:** **Succinylcholine** lasts for hours (prolonged apnea) instead of minutes.
+**Hofmann Elimination**
+*   **Drug:** Atracurium / Cisatracurium.
+*   **Concept:** Breaks down spontaneously in plasma based on pH and temperature.
+*   **Pearl:** Ideal for patients with **multisystem organ failure** (Kidney/Liver don't matter).
 :::
 `,
+    pearls: [
+        {
+            title: "Succinylcholine & Potassium",
+            content: "Causes K+ efflux. **Contraindicated** in Burns, Trauma, Crush injuries, and Denervation (risk of Cardiac Arrest)."
+        },
+        {
+            title: "Dantrolene Mechanism",
+            content: "Blocks **Ryanodine Receptors (RyR1)** on Sarcoplasmic Reticulum. Treats Malignant Hyperthermia."
+        },
+        {
+            title: "Hofmann Elimination",
+            content: "**Atracurium/Cisatracurium**. Spontaneous degradation. Safe in renal/hepatic failure."
+        },
+        {
+            title: "Dominant Tone Concept",
+            content: "Ganglionic blockers remove the dominant tone. **Vessels = Symp** (Block $\\to$ Hypotension). **Heart = Para** (Block $\\to$ Tachycardia)."
+        },
+        {
+            title: "Sugammadex",
+            content: "Encapsulates **Rocuronium/Vecuronium**. Reversal without cholinergic side effects."
+        }
+    ],
     questions: [
         {
-            question: "**1. Which Neuromuscular Blocker is metabolized via Hofmann Elimination (spontaneous degradation)?**",
-            options: [
-                "Succinylcholine",
-                "Rocuronium",
-                "Cisatracurium",
-                "Vecuronium",
-                "Pancuronium"
-            ],
-            correctAnswer: 2,
-            rationale: "**Cisatracurium** undergoes Hofmann elimination, making it the drug of choice for patients with multi-organ (renal/hepatic) failure."
-        },
-        {
-            question: "**2. A patient with severe burns requires intubation. Which agent is CONTRAINDICATED due to the risk of hyperkalemia?**",
+            question: "A patient undergoes surgery and develops muscle rigidity, tachycardia, and a temperature of 105°F shortly after induction. Which drug is the most likely trigger?",
             options: [
                 "Rocuronium",
                 "Succinylcholine",
                 "Cisatracurium",
-                "Vecuronium",
-                "Propofol"
+                "Propofol",
+                "Fentanyl"
             ],
-            correctAnswer: 1,
-            rationale: "**Succinylcholine** causes K+ efflux. In burn/trauma patients (who have upregulated receptors), this can cause massive Hyperkalemia and cardiac arrest."
+            answer: 1,
+            explanation: "**Succinylcholine** is a classic trigger for **Malignant Hyperthermia** (along with volatile anesthetics)."
         },
         {
-            question: "**3. Malignant Hyperthermia is treated with:**",
+            question: "Which neuromuscular blocker undergoes spontaneous 'Hofmann elimination' and is therefore safe in patients with renal and hepatic failure?",
             options: [
-                "Atropine",
+                "Pancuronium",
+                "Rocuronium",
+                "Vecuronium",
+                "Cisatracurium",
+                "Succinylcholine"
+            ],
+            answer: 3,
+            explanation: "**Cisatracurium** (and Atracurium) degrades spontaneously in plasma (Hofmann elimination), independent of organ function."
+        },
+        {
+            question: "What is the mechanism of action of Sugammadex?",
+            options: [
+                "Inhibits Acetylcholinesterase",
+                "Blocks Ryanodine Receptors",
+                "Chelates/Encapsulates Aminosteroid NMBAs",
+                "Stimulates Nicotinic Receptors",
+                "Blocks Muscarinic Receptors"
+            ],
+            answer: 2,
+            explanation: "**Sugammadex** forms a complex with aminosteroids (**Rocuronium/Vecuronium**) to reverse blockade rapidly."
+        },
+        {
+            question: "A patient with severe burns requires intubation. Which neuromuscular blocker is CONTRAINDICATED due to the risk of hyperkalemia?",
+            options: [
+                "Rocuronium",
+                "Cisatracurium",
+                "Vecuronium",
+                "Atracurium",
+                "Succinylcholine"
+            ],
+            answer: 4,
+            explanation: "**Succinylcholine** causes depolarization and K+ efflux. In burn patients (upregulated receptors), this can cause massive hyperkalemia and cardiac arrest."
+        },
+        {
+            question: "The use of Neostigmine to reverse neuromuscular blockade can cause bradycardia. Which drug is co-administered to prevent this?",
+            options: [
+                "Pralidoxime",
                 "Physostigmine",
-                "Dantrolene",
-                "Sugammadex",
-                "Calcium Gluconate"
-            ],
-            correctAnswer: 2,
-            rationale: "**Dantrolene** is the specific antidote. It blocks calcium release from the Sarcoplasmic Reticulum via the Ryanodine receptor."
-        },
-        {
-            question: "**4. Sugammadex is a specific reversal agent for:**",
-            options: [
-                "Succinylcholine",
-                "Cisatracurium",
-                "Rocuronium",
-                "Mecamylamine",
+                "Atropine",
+                "Epinephrine",
                 "Dantrolene"
             ],
-            correctAnswer: 2,
-            rationale: "**Sugammadex** works by encapsulating steroidal NMBAs like **Rocuronium** and Vecuronium. It does not work on Isoquinolines (Cisatracurium) or Succinylcholine."
-        },
-        {
-            question: "**5. What is the expected effect of a ganglionic blocker like Mecamylamine on Blood Pressure?**",
-            options: [
-                "Hypertension",
-                "No change",
-                "Orthostatic Hypotension",
-                "Bradycardia",
-                "Vasoconstriction"
-            ],
-            correctAnswer: 2,
-            rationale: "Ganglionic blockers remove the dominant tone. Arterioles are sympathetically dominated (vasoconstriction), so blockade causes vasodilation and severe **Orthostatic Hypotension**."
+            answer: 2,
+            explanation: "**Neostigmine** increases ACh everywhere (Muscarinic + Nicotinic). **Atropine** is given to block the Muscarinic effects (Bradycardia) while allowing Nicotinic effects (Muscle strength)."
         }
     ],
     flashcards: [
-        { "front": "Mechanism of Succinylcholine?", "back": "Depolarizing NM Blocker (Agonist)", "tag": "Pharm" },
-        { "front": "Treatment for Malignant Hyperthermia?", "back": "Dantrolene", "tag": "Pharm" },
-        { "front": "Contraindication for Succinylcholine?", "back": "Burns / Trauma (Hyperkalemia)", "tag": "Pharm" },
-        { "front": "Elimination of Cisatracurium?", "back": "Hofmann Elimination (Spontaneous)", "tag": "Pharm" },
-        { "front": "Reversal agent for Rocuronium?", "back": "Sugammadex", "tag": "Pharm" },
-        { "front": "Dominant tone in Arterioles?", "back": "Sympathetic (Constriction)", "tag": "Pharm" },
-        { "front": "Dominant tone in Heart?", "back": "Parasympathetic (Bradycardia)", "tag": "Pharm" },
-        { "front": "Ganglionic Blocker effect on HR?", "back": "Tachycardia (Blocks parasymp tone)", "tag": "Pharm" },
-        { "front": "Structure of Succinylcholine?", "back": "Two Acetylcholine molecules", "tag": "Pharm" },
-        { "front": "Enzyme that breaks down Succinylcholine?", "back": "Plasma Cholinesterase (Pseudocholinesterase)", "tag": "Pharm" }
+        {
+            front: "Contraindication for Succinylcholine",
+            back: "Burns, Trauma, Hyperkalemia, Hx of Malignant Hyperthermia",
+            tag: "Pharmacology"
+        },
+        {
+            front: "Treatment for Malignant Hyperthermia",
+            back: "Dantrolene",
+            tag: "Pharmacology"
+        },
+        {
+            front: "NMBA metabolized by Plasma Cholinesterase",
+            back: "Succinylcholine",
+            tag: "Pharmacology"
+        },
+        {
+            front: "NMBA eliminated by Hofmann Elimination",
+            back: "Cisatracurium / Atracurium",
+            tag: "Pharmacology"
+        },
+        {
+            front: "Depolarizing Neuromuscular Blocker",
+            back: "Succinylcholine",
+            tag: "Pharmacology"
+        },
+        {
+            front: "Dominant Autonomic Tone: Heart",
+            back: "Parasympathetic (Vagal)",
+            tag: "Physiology"
+        },
+        {
+            front: "Dominant Autonomic Tone: Blood Vessels",
+            back: "Sympathetic",
+            tag: "Physiology"
+        },
+        {
+            front: "Sugammadex reverses which drugs?",
+            back: "Rocuronium and Vecuronium",
+            tag: "Pharmacology"
+        },
+        {
+            front: "Why give Atropine with Neostigmine reversal?",
+            back: "To prevent Muscarinic side effects (Bradycardia)",
+            tag: "Pharmacology"
+        },
+        {
+            front: "Ganglion Blocker (Drug Name)",
+            back: "Mecamylamine",
+            tag: "Pharmacology"
+        }
     ],
+    ankingResource: {
+        primarySource: "SketchyPharm",
+        chapter: "Autonomic Drugs > Parasympathetics > Neuromuscular Blockers",
+        alternatives: [
+            { resource: "FirstAid", chapter: "Pharmacology > Autonomic Drugs" },
+            { resource: "BandB", chapter: "Pharmacology > ANS > NMBAs" }
+        ]
+    },
     mindmap: `
-## NM & Ganglionic Blockers
-### Ganglion Blockers
-*   **Mecamylamine**: Blocks Nn (both systems). Severe Hypotension.
-### NM Blockers (Paralytics)
-*   **Depolarizing**: Succinylcholine
-    *   *Risks*: Hyperkalemia, Malignant Hyperthermia.
-    *   *Metabolism*: Plasma ChE.
-*   **Non-Depolarizing**: Rocuronium, Cisatracurium
-    *   *Cisatracurium*: Hofmann Elimination (Organ failure safe).
-    *   *Rocuronium*: Sugammadex reversal.
-### Pharmacology
-*   **Dantrolene**: Treats MH (Ryanodine block).
-*   **Sugammadex**: Chelates Rocuronium.
-*   **Neostigmine**: Reverses Non-depolarizers (General).
-`
-};
+## Neuromuscular & Ganglionic Blockers
 
-if (typeof window !== 'undefined') {
-    window.L22_CONTENT = L22_CONTENT;
-}
+### Ganglionic Blockers (Nn)
+*   **Mecamylamine**: Blocks ALL Autonomic ganglia
+*   **Effect**: Opposite of Dominant Tone
+    *   Heart (Para) -> Tachycardia
+    *   Vessels (Symp) -> Hypotension
+
+### Neuromuscular Blockers (Nm)
+*   **Depolarizing**: **Succinylcholine**
+    *   Phase 1 (Fasciculations), Phase 2 (Desensitization)
+    *   Degraded by Plasma Cholinesterase
+    *   **Risks**: Hyperkalemia (Burns), Malignant Hyperthermia
+
+*   **Non-Depolarizing (Competitive)**
+    *   **Isoquinolines**: Atracurium/Cisatracurium (Hofmann Elimination)
+    *   **Aminosteroids**: Rocuronium/Vecuronium (Liver/Kidney)
+
+### Reversal
+*   **Neostigmine** (+ Atropine)
+*   **Sugammadex** (for Rocuronium)
+
+### Malignant Hyperthermia
+*   **Trigger**: SCh + Gas
+*   **Mech**: RyR1 Ca2+ release
+*   **Rx**: Dantrolene
+\`
+};

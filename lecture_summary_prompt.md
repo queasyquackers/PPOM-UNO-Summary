@@ -33,16 +33,23 @@ Generate a comprehensive, high-yield summary of the provided lecture content.
 
 - **Instructions:**
 
-  - **Completeness:** Synthesize content from slides and transcript.
+  - **Content Style: Narrative & Contextual (CRITICAL)**
+    - **Do NOT just list bullet points.** The summary should read like a **high-quality textbook or lecture note set**.
+    - **Use Paragraphs:** Use full sentences and explanatory paragraphs to describe mechanisms, physiological processes, and the "story" of the lecture.
+    - **Connect the Dots:** Use the **Transcript** to capture the lecturer's logic and connective tissue. Explain _why_ A leads to B. Don't just state "A -> B".
+    - **Depth over Breadth:** If a complex topic is introduced (e.g., a specific nerve pathway or drug mechanism), **explain it fully**.
   - **Slide Citations:**
     - **Rule:** Every major section or key concept **MUST** cite the source slide number using the format `(Slide X)`.
     - **Example:** `## The Nervous System (Slide 5)` or `...affects the optic nerve (Slide 12).`
   - **Cross-Linking:**
     - **Rule:** If a previous lecture is mentioned (e.g., "Recall from L102"), format it as a link: `[[L102]]`.
   - **CLINICAL MANDATE (CRITICAL):**
+
     - **Aggressive Scan:** If a disease, syndrome, or disorder is mentioned (e.g., "Otitis Media", "Stroke", "Diabetes"), you **MUST** create a `:::correlate` block for it.
-    - **Zero Tolerance:** Do not bury diseases in paragraphs. Extract them into correlate blocks.
+    - **Contextual Integration:** Introduce the condition naturally in the narrative paragraph first (e.g., "Damage to this nerve results in Condition X...").
+    - **Extraction:** Then, use the `:::correlate` block to detail the specific clinical facts (Pathophysiology, Presentation, Treatment). Do not _only_ have the block; text + block is best.
     - **Clinical Correlate Syntax:**
+
     ```markdown
     :::correlate
     **[Name of Condition]**
@@ -53,9 +60,10 @@ Generate a comprehensive, high-yield summary of the provided lecture content.
     - **Lecturer's Point:** [Specific note from transcript if any]
       :::
     ```
+
     - **High Yield Mandate:**
-    - Identify at least 3-5 "Bottom Line" facts and format them as `:::pearl` blocks.
     - Identify at least 2 "Must Know" concepts and format as `:::highyield` blocks.
+
   - **Mnemonics:**
 
     - Integrate mnemonics directly into the text using the `:::mnemonic` block.
@@ -78,16 +86,12 @@ Generate a comprehensive, high-yield summary of the provided lecture content.
     :::
     ```
 
-### 3. Clinical Pearls
+### 3. Clinical Pearls (Pearlbook)
 
-- **Inline Pearls:**
-  - Insert `:::pearl` blocks throughout the summary where appropriate for specific high-yield facts (e.g., "Key Takeaways" or "Bottom Line").
-  - **Syntax:**
-    ```markdown
-    :::pearl
-    [Concise High-Yield Fact related to the section]
-    :::
-    ```
+- **Instruction:** Do **NOT** scatter `:::pearl` blocks in the main text. Keep the narrative clean.
+- **Action:** Extract all high-yield pearls into the `pearls` JSON array (see Section 7).
+- **Definition:** A "Pearl" is a concise, high-yield factoid, often a "rule of thumb" or "bottom line".
+- **Note:** Continue to use `:::correlate` blocks in the text for full Disease/Syndrome profiles.
 
 ### 4. Review Questions (Board-Style)
 
@@ -141,7 +145,7 @@ Generate a comprehensive, high-yield summary of the provided lecture content.
 ### 6. Anking Resource Recommendations
 
 - **Goal:** Map this lecture to a high-yield external resource (Boards & Beyond, Pathoma, Sketchy, First Aid).
-- **JSON Format (Output this specific JSON block):**
+  - **JSON Format (Output this specific JSON block):**
   ```json
   "ankingResource": {
       "primarySource": "[Source Name]",
@@ -154,19 +158,20 @@ Generate a comprehensive, high-yield summary of the provided lecture content.
   ```
   - **Valid Source Names:** `BandB`, `Pathoma`, `SketchyMicro`, `SketchyPharm`, `SketchyPath`, `FirstAid`, `Physeo`, `Pixorize`, `Bootcamp`.
   - **Rule:** Provide the **Best Match** as primary, and up to **5 Alternative Matches** in the list.
-  - **Example:** For a lecture on Heart Failure:
-    ```json
-    "ankingResource": {
-        "primarySource": "BandB",
-        "chapter": "Cardiology > Heart Failure",
-        "alternatives": [
-            { "resource": "FirstAid", "chapter": "Cardiology > Pathology > Heart Failure" },
-            { "resource": "Pathoma", "chapter": "Cardiovascular > Heart Failure" }
-        ]
-    }
-    ```
 
-### 7. Mind Map Structure (Markdown)
+### 7. Pearlbook (JSON)
+
+- **Goal:** Provide a structured list of the "High Yield Pearls" for the Pearlbook feature.
+- **Content:** Extract high-yield pearls directly into this JSON array. **Do not include them in the main text.**
+- **JSON Format (Output this specific JSON block):**
+  ```json
+  "pearls": [
+      { "title": "[Pearl Title]", "content": "[Pearl Content]" },
+      { "title": "[Another Pearl]", "content": "[Content]" }
+  ]
+  ```
+
+### 8. Mind Map Structure (Markdown)
 
 - **Goal:** Create a strict hierarchical outline for visualization.
 - **Format:**

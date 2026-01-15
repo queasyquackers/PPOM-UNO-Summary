@@ -1,69 +1,156 @@
 window.receiveLectureContent({
   "id": "l12",
-  "title": "Lecture #12: Thalamus & Internal Capsule",
-  "lecturer": "J. Xie, Ph.D.",
-  "module": "Neuroanatomy",
-  "session": "Lecture #12",
-  "prev": "l11",
-  "next": "l13",
-  "pdf": "pdfs/Lecture # 12. J. Xie, Ph.D. (PPT).pdf",
-  "summary": "# Lecture #12: Thalamus & Internal Capsule\n\n**Lecturer:** J. Xie, Ph.D.\n**Session:** Neuroanatomy\n\n## 1. Thalamic Nuclei (Relay vs Association)\nThe Thalamus is the \"Grand Central Station\" of sensory/motor information.\n*   **VPL (Ventral Posterolateral):** Sensation from **Body** (DCML/STT).\n*   **VPM (Ventral Posteromedial):** Sensation from **Face** (Trigeminal) & Taste. (\"**M**akeup/**M**outh\").\n*   **LGN (Lateral Geniculate):** **Vision**. (\"**L**ight\").\n*   **MGN (Medial Geniculate):** **Hearing**. (\"**M**usic\").\n*   **VA/VL (Ventral Anterior/Lateral):** **Motor**. Input from Basal Ganglia/Cerebellum.\n*   **Anterior Nucleus:** **Memory**. Input from Mammillary Bodies (Papez Circuit).\n*   **Reticular Nucleus:** The only **Inhibitory (GABA)** nucleus. Wraps around thalamus, regulates \"Thalamic Gating\" (Sleep/Attention).\n\n## 2. Thalamic Syndrome (Dejerine-Roussy) (Slide 29)\n*   **Cause:** Infarction of Thalamogeniculate arteries (branch of **PCA**).\n*   **Lesion:** VPL/VPM.\n*   **Symptoms:**\n    1.  Contralateral hemianesthesia (Loss of sensation).\n    2.  Later: **Central Post-Stroke Pain** (Hyperalgesia/Allodynia). Burning, agonizing pain.\n\n## 3. Internal Capsule (Slide 37)\nHigh-traffic highway for tracts.\n*   **Anterior Limb:** Frontopontine fibers.\n*   **Genu (\"Knee\"):** **Corticobulbar** tract (Motor to Face/Head).\n*   **Posterior Limb:**\n    *   **Corticospinal** tract (Motor to Body).\n    *   Sensory radiations (to Postcentral Gyrus).\n*   **Blood Supply:** **MCA** (Lenticulostriate Arteries). Common site for lacunar strokes (Pure Motor Stroke).\n\n## 4. Physiology: Physiological States\n*   **Tonic Mode:** Linear transmission. Awake state.\n*   **Burst Mode:** Oscillatory. **Sleep** (SWS) or Epilepsy. Blocks sensory input.",
-  "mindmap": "## Thalamus\n### Sensory Relay\n*   **VPL**: Body\n*   **VPM**: Face/Taste\n*   **LGN**: Vision\n*   **MGN**: Hearing\n### Motor Relay\n*   **VA/VL**: BG/Cerebellum\n### Limbic/Memory\n*   **Anterior**: Mammillary bodies\n### Regulatory\n*   **Reticular**: GABA (Gating)\n## Internal Capsule\n*   **Genu**: Face (Corticobulbar)\n*   **Post. Limb**: Leg/Arm (Corticospinal)",
-  "questions": [],
-  "ankingResource": {
-    "primarySource": "BandB",
-    "chapter": "Neurology > Thalamus"
-  },
+  "summary": "# Lecture 12: Anatomy and Physiology of the Thalamus\n\n**Lecturer:** J. Xie, Ph.D.\n**Session:** Lecture 12\n\n## 1. Thalamic Organization (Slide 12-18)\n\nThe Thalamus is the \"Gateway to the Cortex\". Most sensory information (except olfaction) must synapse here before reaching the cortex.\n\n### Relay Nuclei (Specific)\n*   **VPL (Ventral Posterolateral):**\n    *   **Input:** DCML and Spinothalamic Tract (Body).\n    *   **Output:** Somatosensory Cortex (Postcentral Gyrus).\n    *   **Function:** Vibration, Proprioception, Pain, Temp from **Body**.\n*   **VPM (Ventral Posteromedial):**\n    *   **Input:** Trigeminal (Face) and Gustatory (Solitary).\n    *   **Output:** Somatosensory Cortex.\n    *   **Function:** Sensation from **Face** + **Taste**.\n*   **LGN (Lateral Geniculate Nucleus):**\n    *   **Input:** Optic Tract.\n    *   **Output:** Visual Cortex (V1).\n    *   **Function:** **Vision** (\"**L**ight\").\n*   **MGN (Medial Geniculate Nucleus):**\n    *   **Input:** Inferior Colliculus.\n    *   **Output:** Auditory Cortex.\n    *   **Function:** **Hearing** (\"**M**usic\").\n*   **VA/VL (Ventral Anterior/Lateral):**\n    *   **Input:** Basal Ganglia and Cerebellum.\n    *   **Output:** Motor Cortex.\n    *   **Function:** Motor planning and coordination.\n*   **Anterior Nucleus:**\n    *   **Input:** Mammillothalamic Tract.\n    *   **Output:** Cingulate Gyrus.\n    *   **Function:** Memory and Emotion (Papez Circuit).\n\n## 2. Thalamocortical States (Slide 23-26)\n*   **Tonic Mode:** Linear transmission. High fidelity. **Awake** state (depolarized by ARAS: NE, ACh, 5-HT, Histamine).\n*   **Burst Mode:** Oscillatory. Low fidelity. **Sleep** state (hyperpolarized). Blocks sensory input preventing waking. Absence Seizures occur in this mode.\n\n## 3. Internal Capsule (Slide 35-39)\nWhite matter highway carrying fibers to/from cortex.\n*   **Anterior Limb:** Thalamocortical fibers (Anterior/DM).\n*   **Genu:** **Corticobulbar Tract** (Motor to face/brainstem).\n*   **Posterior Limb:**\n    *   **Corticospinal Tract** (Motor to body).\n    *   **Somatosensory Radiations** (VPL/VPM to Cortex).\n    *   **Visual/Auditory Radiations** (Retrolenticular/Sublenticular).\n*   **Blood Supply:** Primarily **MCA** (Lenticulostriate) and **Anterior Choroidal**. Thalamus is **PCA**.\n\n## 4. Clinical Syndromes (Slide 29-32)\n\n### Dejerine-Roussy Syndrome (Thalamic Pain Syndrome)\n*   **Cause:** Stroke (PCA) damaging VPL/VPM.\n*   **Presentation:** Contralateral hemianesthesia followed by agonizing, burning pain (**Allodynia**) induced by touch or even emotion.\n\n### Artery of Percheron Infarct\n*   **Variant:** Single artery arising from PCA supplying **Bilateral** paramedian thalamus + midbrain.\n*   **Stroke:** Bilateral thalamic infarct.\n*   **Presentation:** Coma (RAS damage), Memory loss, Vertical gaze palsy.",
+  "title": "Lecture 12: Anatomy and Physiology of the Thalamus",
+  "module": "Neuroscience",
+  "questions": [
+    {
+      "question": "A patient suffers a stroke and develops severe, burning pain on the right side of their body that is exacerbated by light touch. Which nucleus was most likely infarcted?",
+      "options": [
+        "Right VPL",
+        "Left VPL",
+        "Right VPM",
+        "Left MGN",
+        "Left Anterior Nucleus"
+      ],
+      "answer": 1,
+      "explanation": "Thalamic Pain Syndrome (Dejerine-Roussy) is contralateral. A **Left** VPL infarct affects the Right side of the body. VPL handles body sensation."
+    },
+    {
+      "question": "Visual information from the optic tract synapses in which thalamic nucleus?",
+      "options": [
+        "Medial Geniculate Nucleus",
+        "Lateral Geniculate Nucleus",
+        "Ventral Posterolateral Nucleus",
+        "Pulvinar",
+        "Ventral Anterior Nucleus"
+      ],
+      "answer": 1,
+      "explanation": "**LGN** = **L**ight (Vision). MGN = Music (Hearing)."
+    },
+    {
+      "question": "Which limb of the internal capsule contains the corticospinal tract?",
+      "options": [
+        "Anterior Limb",
+        "Genu",
+        "Posterior Limb",
+        "Retrolenticular Part",
+        "Sublenticular Part"
+      ],
+      "answer": 2,
+      "explanation": "The **Posterior Limb** of the Internal Capsule carries the Corticospinal tract (Motor to body) and Somatosensory radiations."
+    },
+    {
+      "question": "Which thalamic nucleus is part of the Papez circuit involved in memory?",
+      "options": [
+        "Ventral Lateral",
+        "Anterior Nucleus",
+        "Pulvinar",
+        "Lateral Posterior",
+        "Centromedian"
+      ],
+      "answer": 1,
+      "explanation": "The **Anterior Nucleus** receives input from the Mammillary Bodies and projects to the Cingulate Gyrus, forming part of the Papez circuit for memory/emotion."
+    },
+    {
+      "question": "The 'Burst Mode' of thalamocortical firing is associated with:",
+      "options": [
+        "Focused attention",
+        "REM Sleep",
+        "Slow Wave Sleep",
+        "Panic attacks",
+        "Active learning"
+      ],
+      "answer": 2,
+      "explanation": "**Burst Mode** is an oscillatory state that disconnects the cortex from sensory input, characteristic of **Slow Wave Sleep** (and Absence Seizures)."
+    }
+  ],
   "flashcards": [
     {
-      "front": "Function of VPL Nucleus?",
-      "back": "Body Sensation (Vibration/Pain/Touch)",
-      "tag": "Neuro"
+      "front": "Input to VPL Nucleus",
+      "back": "Spinothalamic & DCML (Body Sensation)",
+      "tag": "Neuroanatomy"
     },
     {
-      "front": "Function of VPM Nucleus?",
-      "back": "Face Sensation + Taste",
-      "tag": "Neuro"
+      "front": "Input to VPM Nucleus",
+      "back": "Trigeminal & Solitary Tract (Face & Taste)",
+      "tag": "Neuroanatomy"
     },
     {
-      "front": "Function of LGN?",
-      "back": "Vision (Light)",
-      "tag": "Neuro"
+      "front": "Input to LGN",
+      "back": "Optic Tract (Vision)",
+      "tag": "Neuroanatomy"
     },
     {
-      "front": "Function of MGN?",
-      "back": "Hearing (Music)",
-      "tag": "Neuro"
+      "front": "Input to MGN",
+      "back": "Inferior Colliculus (Hearing)",
+      "tag": "Neuroanatomy"
     },
     {
-      "front": "Function of VA/VL Nuclei?",
-      "back": "Motor (Basal Ganglia/Cerebellum input)",
-      "tag": "Neuro"
+      "front": "Input to VA/VL Nuclei",
+      "back": "Basal Ganglia & Cerebellum (Motor)",
+      "tag": "Neuroanatomy"
     },
     {
-      "front": "Blood supply to Thalamus?",
-      "back": "PCA (Thalamogeniculate arteries)",
-      "tag": "Anatomy"
+      "front": "Contents of Internal Capsule Genu",
+      "back": "Corticobulbar Tract",
+      "tag": "Neuroanatomy"
     },
     {
-      "front": "Content of Internal Capsule Posterior Limb?",
-      "back": "Corticospinal Tract (Motor to Body)",
-      "tag": "Anatomy"
+      "front": "Contents of Internal Capsule Posterior Limb",
+      "back": "Corticospinal Tract & Sensory Radiations",
+      "tag": "Neuroanatomy"
     },
     {
-      "front": "Content of Internal Capsule Genu?",
-      "back": "Corticobulbar Tract (Motor to Face)",
-      "tag": "Anatomy"
+      "front": "Artery supplying the Thalamus",
+      "back": "Posterior Cerebral Artery (PCA)",
+      "tag": "Neuroanatomy"
     },
     {
-      "front": "Thalamic Pain Syndrome symptoms?",
-      "back": "Hemianesthesia followed by Allodynia (Burning Pain)",
-      "tag": "Clinical"
+      "front": "Cause of Thalamic Pain Syndrome",
+      "back": "Stroke in VPL/VPM (Dejerine-Roussy)",
+      "tag": "Pathology"
     },
     {
-      "front": "Neurotransmitter of Reticular Nucleus?",
-      "back": "GABA (Inhibitory)",
-      "tag": "Neurochemistry"
+      "front": "Thalamic mode during Deep Sleep",
+      "back": "Burst Mode",
+      "tag": "Physiology"
+    }
+  ],
+  "ankingResource": {
+    "primarySource": "BandB",
+    "chapter": "Neurology > Brainstem > Thalamus",
+    "alternatives": [
+      {
+        "resource": "FirstAid",
+        "chapter": "Neurology > Anatomy > Thalamus"
+      },
+      {
+        "resource": "Pathoma",
+        "chapter": "CNS"
+      }
+    ]
+  },
+  "pearls": [
+    {
+      "title": "VPM vs VPL Mnemonic",
+      "content": "**VPM** = **M**akeup on the **Face** (Face sensation + Taste).\\n**VPL** = **L**egs/Body (Body sensation)."
+    },
+    {
+      "title": "Geniculate Nuclei Mnemonic",
+      "content": "**L**GN = **L**ight (**Visual**).\\n**M**GN = **M**usic (**Auditory**)."
+    },
+    {
+      "title": "Dejerine-Roussy Syndrome",
+      "content": "Central Post-Stroke Pain. Thalamic lesion causes initial numbness, followed by hypersensitivity and severe **burning pain** on the contralateral side."
+    },
+    {
+      "title": "Internal Capsule Genu",
+      "content": "The **Genu** (knee) contains the **Corticobulbar** tract (Face motor). A lesion here affects CN motor nuclei (e.g., UMN facial droop)."
+    },
+    {
+      "title": "Thalamic Blood Supply",
+      "content": "Principally the **Posterior Cerebral Artery (PCA)**. The **Artery of Percheron** is a rare variant supplying bilateral thalami."
     }
   ]
 });

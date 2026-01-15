@@ -1,169 +1,224 @@
-const L21_CONTENT = {
-    id: 'l21',
-    title: 'Lecture #21: Antimuscarinics',
-    lecturer: 'L. Goldstein, Pharm.D.',
-    module: 'Pharmacology',
-    session: 'Lecture #21',
-    prev: 'l20',
-    next: 'l22',
-    pdf: 'pdfs/Lecture # 21. L. Goldstein, Pharm.D. (PPT).pdf',
-    transcript: 'transcripts/Lecture #21_ Pharmacology_ Antimuscarinic Agents; Presenter_ L.Goldstein.srt',
-    ankingResource: {
-        primarySource: 'BandB',
-        chapter: 'Pharmacology > Autonomic Drugs > Anticholinergics'
-    },
+export const L21_CONTENT = {
+    id: "l21",
     summary: `
-# Lecture #21: Antimuscarinics
+# Lecture 21: Muscarinic Antagonists (Anticholinergics)
 
-**Lecturer:** Leslie Goldstein, Pharm.D.
-**Session:** Pharmacology
+**Lecturer:** L. Goldstein, Pharm.D.
+**Session:** Lecture 21
 
-## 1. Mechanism & Classification
-*   **Mechanism:** Competitive antagonists at Muscarinic receptors.
-*   **Inverse Agonists:** Most are actually inverse agonists (block constitutive activity).
-*   **Classification:**
-    *   **Tertiary Amines (Cross BBB):** Atropine, Scopolamine, Benztropine, Oxybutynin.
-    *   **Quaternary Amines (No CNS):** Ipratropium, Tiotropium, Glycopyrrolate.
+## 1. Class Overview (Slide 7-8)
+*   **Mechanism:** Competitive antagonists (or inverse agonists) at Muscarinic receptors (M1-M5).
+*   **Structure:**
+    *   **Tertiary Amines (Cross BBB):** Atropine, Scopolamine, Benztropine.
+    *   **Quaternary Ammonium (No CNS):** Ipratropium, Tiotropium, Glycopyrrolate.
 
-## 2. Clinical Uses
-*   **Eye:** **Tropicamide/Cyclopentolate** (Mydriasis/Cycloplegia for exams).
-*   **CNS:**
-    *   **Scopolamine:** Motion Sickness (Patch).
-    *   **Benztropine:** Parkinson's (Treats tremor/rigidity, restores ACh/DA balance).
+## 2. Clinical Uses (Slide 21-23)
+*   **Atropine:**
+    *   **Bradycardia:** Blocks vagal tone (M2) $\\to$ Increases HR.
+    *   **Antidote:** For Organophosphate poisoning.
+    *   **Pre-op:** Reduces metabolic secretions.
+    *   *Note:* Low doses can cause **Paradoxical Bradycardia** (blocks presynaptic M2 autoreceptors).
+*   **Scopolamine:**
+    *   **Motion Sickness:** Transdermal patch (bypasses first-pass).
 *   **Respiratory (COPD/Asthma):**
-    *   **Ipratropium (SAMA):** Short-acting.
-    *   **Tiotropium (LAMA):** Long-acting.
-    *   *Effect:* Bronchodilation + Reduced secretions.
-*   **Bladder (Overactive Bladder):**
-    *   **Oxybutynin, Tolterodine:** Relax detrusor muscle.
-*   **GI:** **Dicyclomine** (IBS spasms).
-*   **Surgery:** **Glycopyrrolate** (Reduce secretions, prevent bradycardia).
+    *   **Ipratropium** (Short) & **Tiotropium** (Long). Block bronchoconstriction + decrease secretions.
+*   **Urinary Incontinence (Overactive Bladder):**
+    *   **Oxybutynin**. Relaxes detrusor muscle.
+*   **Parkinson's Disease:**
+    *   **Benztropine**. Treats tremor (restores ACh/Dopamine balance).
+*   **Ophthalmology:**
+    *   **Tropicamide/Cyclopentolate**. Induce Mydriasis (Dilation) & Cycloplegia (Paralysis of accommodation) for exams.
 
-## 3. Atropine Specifics
-*   **Uses:** Bradycardia (ACLS), Organophosphate poisoning.
-*   **Dose Effects:**
-    *   *Low dose:* **Paradoxical Bradycardia** (Blocks pre-synaptic M2 autoreceptors).
-    *   *High dose:* Tachycardia (Blocks post-synaptic M2).
+## 3. Toxicity: Anticholinergic Toxidrome (Slide 26-28)
+*   **Red as a Beet:** Cutaneous flushing (vasodilation to dissipate heat).
+*   **Dry as a Bone:** No sweating (Anhidrosis), dry mouth.
+*   **Hot as Hades:** Hyperthermia (cant sweat).
+*   **Blind as a Bat:** Mydriasis (dilated pupils) + Cycloplegia (blurry near vision).
+*   **Mad as a Hatter:** Delirium, Hallucinations (Central toxicity).
+*   **Full as a Flask:** Urinary Retention.
+*   **Treatment:** **Physostigmine** (crosses BBB) - *Use with caution!*
 
-## 4. Toxicity (Anticholinergic Toxidrome)
-*   **Mnemonic:**
-    *   **Red as a Beet:** Flushing (cutaneous vasodilation due to hyperthermia).
-    *   **Dry as a Bone:** Dry mouth, Anhidrosis.
-    *   **Hot as a Hare:** Hyperthermia (No seating).
-    *   **Blind as a Bat:** Mydriasis, Cycloplegia (No near vision).
-    *   **Mad as a Hatter:** Delirium, Hallucinations.
-    *   **Full as a Flask:** Urinary Retention.
-*   **Contraindications:**
-    *   **Glaucoma (Angle-closure):** Dilation closes the angle -> blindness.
-    *   **BPH:** Precipitates urinary retention.
-    *   **Elderly:** Delirium risks (Beers list).
+## 4. Contraindications (Slide 25)
+*   **Narrow-Angle Glaucoma:** Dilation blocks outflow $\\to$ Acute crisis.
+*   **BPH (Prostatic Hyperplasia):** Worsens urinary retention.
+*   **Elderly:** Risk of falls, confusion, delirium (BEERS criteria).
+*   **GI Obstruction/Ileus:** Worsens constipation.
 
-## 5. Clinical Correlates
+## 5. Clinical Correlates (Slide 31)
+
 :::correlate
-**Gardener's Pupil**
-*   **Source:** Jimson Weed (Datura) contains Atropine/Scopolamine.
-*   **Presentation:** Dilated pupil after handling plant. Systemic toxicity if ingested.
+**Drug Interactions**
+*   **Oxybutynin + Macrolides (Erythromycin):** Macrolides inhibit **CYP3A4**. Oxybutynin is metabolized by CYP3A4. Result $\\to$ **Anticholinergic Toxicity**.
 :::
 
 :::correlate
-**Drug-Induced Toxicity**
-*   Many non-anticholinergic drugs have anticholinergic side effects: **TCAs** (Amitriptyline), **Antihistamines** (Diphenhydramine), **Antipsychotics**. Overdose mimics Atropine poisoning.
+**Use in Special Populations**
+*   **Children:** High risk of **Hyperthermia** ("Hot as Hades").
+*   **Elderly:** High risk of **Delirium** ("Mad as a Hatter") and Falls. Avoid if possible.
 :::
 `,
+    pearls: [
+        {
+            title: "Anticholinergic Toxidrome",
+            content: "Red (Flush), Dry (No sweat), Hot (Hyperthermia), Blind (Mydriasis), Mad (Delirium), Full (Retention)."
+        },
+        {
+            title: "Paradoxical Bradycardia",
+            content: "Low dose Atropine blocks **Presynaptic M2** autoreceptors $\\to$ Increases ACh releases $\\to$ Slows Heart."
+        },
+        {
+            title: "Reversal Agents",
+            content: "**Atropine** reverses AChE Inhibitors.\\n**Physostigmine** reverses Atropine."
+        },
+        {
+            title: "Contraindications",
+            content: "Glaucoma (Angle Closure), BPH (Retention), Elderly (Delirium)."
+        },
+        {
+            title: "Ipratropium/Tiotropium",
+            content: "Quaternary amines (No CNS). Inhaled for **COPD/Asthma**."
+        }
+    ],
     questions: [
         {
-            question: "**1. Which drug acts as a 'Paradoxical' bradycardia agent at low doses?**",
+            question: "A 75-year-old male with benign prostatic hyperplasia (BPH) takes an over-the-counter cold medication and develops acute urinary retention. Which ingredient likely caused this?",
             options: [
-                "Scopolamine",
+                "Guaifenesin",
+                "Acetaminophen",
+                "Diphenhydramine (Anticholinergic)",
+                "Ibuprofen",
+                "Pseudoephedrine"
+            ],
+            answer: 2,
+            explanation: "**Diphenhydramine** has strong **anticholinergic** properties, which can precipitate urinary retention in patients with BPH."
+        },
+        {
+            question: "Why is Atropine contraindicated in patients with Narrow-Angle Glaucoma?",
+            options: [
+                "It causes miosis",
+                "It increases aqueous humor production",
+                "It causes mydriasis which blocks the outflow angle",
+                "It causes cataract formation",
+                "It lowers intraocular pressure too much"
+            ],
+            answer: 2,
+            explanation: "Atropine causes **Mydriasis** (dilation). In narrow-angle glaucoma, the bunched-up iris blocks the trabecular meshwork, dangerously increasing pressure."
+        },
+        {
+            question: "To prevent motion sickness, a patient applies a Transderm Scop patch. What is the active drug and its mechanism?",
+            options: [
+                "Scopolamine; Muscarinic Antagonist",
+                "Scopolamine; Nicotinic Antagonist",
+                "Meclizine; H1 Antagonist",
+                "Ondansetron; 5-HT3 Antagonist",
+                "Metoclopramide; D2 Antagonist"
+            ],
+            answer: 0,
+            explanation: "**Scopolamine** is a **Muscarinic Antagonist** used transdermally for motion sickness prevention."
+        },
+        {
+            question: "Which drug is used to treat tremors in Parkinson's disease by restoring the balance between Acetylcholine and Dopamine?",
+            options: [
                 "Atropine",
-                "Glycopyrrolate",
                 "Ipratropium",
-                "Benztropine"
-            ],
-            correctAnswer: 1,
-            rationale: "**Atropine** at low doses blocks presynaptic M2 autoreceptors (which normally inhibit ACh release), causing *increased* ACh release and transient bradycardia. Higher doses block the postsynaptic M2 receptors causing tachycardia."
-        },
-        {
-            question: "**2. Which agent is preferred for COPD maintenance therapy?**",
-            options: [
-                "Atropine",
-                "Scopolamine",
-                "Tiotropium",
                 "Benztropine",
-                "Oxybutynin"
+                "Oxybutynin",
+                "Succinylcholine"
             ],
-            correctAnswer: 2,
-            rationale: "**Tiotropium** is a Long-Acting Muscarinic Antagonist (LAMA) causing bronchodilation and reduced secretions, ideal for COPD maintenance."
+            answer: 2,
+            explanation: "**Benztropine** is a centrally acting antimuscarinic used to treat Parkinsonian tremors (Parkinson's = Low Dopamine + High ACh)."
         },
         {
-            question: "**3. A patient with Parkinson's disease is prescribed Benztropine. What is the goal of this therapy?**",
+            question: "A child presents with flushed skin, dry mouth, dilated pupils, and tachycardia after eating berries from a garden plant. The most likely plant is:",
             options: [
-                "Increase Dopamine levels",
-                "Inhibit Dopamine metabolism",
-                "Restore the balance between Dopamine and Acetylcholine",
-                "Stimulate Muscarinic receptors",
-                "Block Nicotinic receptors"
+                "Foxglove (Digitalis)",
+                "Jimson Weed (Datura/Atropine)",
+                "Oleander",
+                "Poison Ivy",
+                "Mushrooms (Muscarine)"
             ],
-            correctAnswer: 2,
-            rationale: "In Parkinson's, dopamine loss leads to relative ACh excess (causing tremor). **Benztropine** (Antimuscarinic) restores the DA/ACh balance."
-        },
-        {
-            question: "**4. Why is Atropine contraindicated in men with BPH?**",
-            options: [
-                "Causes Hypertension",
-                "Precipitates Urinary Retention",
-                "Causes Diarrhea",
-                "Increases Prostate size",
-                "Causes Bradycardia"
-            ],
-            correctAnswer: 1,
-            rationale: "Atropine relaxes the detrusor muscle. In BPH (already obstructed outflow), this precipitates acute **Urinary Retention**."
-        },
-        {
-            question: "**5. Which sign is part of the Anticholinergic Toxidrome?**",
-            options: [
-                "Diaphoresis (Sweating)",
-                "Miosis (Pinpoint pupils)",
-                "Bradycardia",
-                "Hyperthermia (Hot as a Hare)",
-                "Diarrhea"
-            ],
-            correctAnswer: 3,
-            rationale: "**Hyperthermia** ('Hot as a Hare') is a classic sign due to blockage of sweating (Anhidrosis). The others are Cholinergic signs."
+            answer: 1,
+            explanation: "**Jimson Weed** (Datura stramonium) contains belladonna alkaloids (Atropine/Scopolamine) causing the classic anticholinergic toxidrome."
         }
     ],
     flashcards: [
-        { "front": "Toxidrome: 'Mad as a Hatter'?", "back": "Anticholinergic Toxicity (Delirium)", "tag": "Pharm" },
-        { "front": "Toxidrome: 'Dry as a Bone'?", "back": "Anhidrosis (No sweat) / Dry mouth", "tag": "Pharm" },
-        { "front": "Toxidrome: 'Blind as a Bat'?", "back": "Mydriasis / Cycloplegia", "tag": "Pharm" },
-        { "front": "Drug for Motion Sickness?", "back": "Scopolamine", "tag": "Pharm" },
-        { "front": "Drug for COPD (LAMA)?", "back": "Tiotropium", "tag": "Pharm" },
-        { "front": "Drug for Urge Incontinence?", "back": "Oxybutynin", "tag": "Pharm" },
-        { "front": "Drug for Parkinson's Tremor?", "back": "Benztropine", "tag": "Pharm" },
-        { "front": "Major Contraindication for Atropine?", "back": "Glaucoma (Angle-closure) / BPH", "tag": "Pharm" },
-        { "front": "Does Glycopyrrolate cross BBB?", "back": "No (Quaternary - good for systemic effects without delirium)", "tag": "Pharm" },
-        { "front": "Effect of Atropine on Heart?", "back": "Tachycardia", "tag": "Pharm" }
+        {
+            front: "Anticholinergic Toxidrome: 'Mad as a Hatter'",
+            back: "Delirium / Hallucinations",
+            tag: "Toxicology"
+        },
+        {
+            front: "Anticholinergic Toxidrome: 'Blind as a Bat'",
+            back: "Mydriasis + Cycloplegia (Blurred vision)",
+            tag: "Toxicology"
+        },
+        {
+            front: "Drug for Overactive Bladder",
+            back: "Oxybutynin",
+            tag: "Pharmacology"
+        },
+        {
+            front: "Inhaled Muscarinic Antagonist for COPD",
+            back: "Tiotropium (Long) or Ipratropium (Short)",
+            tag: "Pharmacology"
+        },
+        {
+            front: "Why Atropine causes Tachycardia",
+            back: "Blocks M2 receptors on SA node (Removes vagal brake)",
+            tag: "Physiology"
+        },
+        {
+            front: "Mechanism of Paradoxical Bradycardia",
+            back: "Blockade of Presynaptic Autoreceptors (M2) -> Increased ACh release",
+            tag: "Physiology"
+        },
+        {
+            front: "Contraindication: Narrow Angle Glaucoma",
+            back: "Muscarinic Antagonists (Atropine)",
+            tag: "Pharmacology"
+        },
+        {
+            front: "Contraindication: BPH",
+            back: "Muscarinic Antagonists (Causes Retention)",
+            tag: "Pharmacology"
+        },
+        {
+            front: "Drug for Motion Sickness (Patch)",
+            back: "Scopolamine",
+            tag: "Pharmacology"
+        },
+        {
+            front: "Treats Parkinson's Tremor",
+            back: "Benztropine",
+            tag: "Pharmacology"
+        }
     ],
+    ankingResource: {
+        primarySource: "SketchyPharm",
+        chapter: "Autonomic Drugs > Parasympathetics > Muscarinic Antagonists",
+        alternatives: [
+            { resource: "FirstAid", chapter: "Pharmacology > Autonomic Drugs" },
+            { resource: "BandB", chapter: "Pharmacology > ANS > Muscarinic Antagonists" }
+        ]
+    },
     mindmap: `
-## Antimuscarinics
-### Drugs
-*   **Atropine**: Prototype (Bradycardia, Poisons)
-*   **Scopolamine**: Motion Sickness (CNS)
-*   **Ipratropium/Tiotropium**: COPD (Lungs)
-*   **Oxybutynin**: Bladder
-*   **Benztropine**: Parkinson's
-*   **Glycopyrrolate**: Surgery (No CNS)
-### Effects (Anti-DUMBELS)
-*   **Eye**: Mydriasis
-*   **Heart**: Tachycardia
-*   **GI/GU**: Constipation, Retention
-*   **Skin**: Dry, Hot
-### Toxicity
-*   **Signs**: Red, Dry, Hot, Blind, Mad.
-*   **Contraindications**: Glaucoma, BPH, Elderly.
-`
-};
+## Muscarinic Antagonists
 
-if (typeof window !== 'undefined') {
-    window.L21_CONTENT = L21_CONTENT;
-}
+### Tertiary (CNS)
+*   **Atropine**: Bradycardia, Antidote
+*   **Scopolamine**: Motion Sickness
+*   **Benztropine**: Parkinson's
+
+### Quaternary (No CNS)
+*   **Ipratropium/Tiotropium**: COPD/Asthma
+*   **Glycopyrrolate**: Pre-op secretions, Hyperhidrosis
+*   **Oxybutynin**: Overactive Bladder
+
+### Toxicity (Anticholinergic)
+*   Red, Dry, Hot, Blind, Mad, Full
+*   **Antidote**: Physostigmine
+
+### Contraindications
+*   Glaucoma, BPH, Elderly, Ileus
+\`
+};

@@ -12,68 +12,110 @@ const L6_CONTENT = {
     next: 'l7',
     pdf: 'pdfs/Lecture # 6. J. Xie, Ph.D. (PPT).pdf',
     transcript: 'transcripts/Lecture #6_ External and Internal Anatomy of the Spinal Cord Faculty_ J. Xie, Ph.D..srt',
-    summary: `
+        summary: `
 # Lecture #6: Anatomy of the Spinal Cord
 
 **Lecturer:** J. Xie, Ph.D.
 **Session:** Neuroanatomy
 
-## 1. Gross Anatomy
-*   **Length:** Ends at **L1-L2** in adults (Conus Medullaris).
-*   **Lumbar Cistern:** Subarachnoid space below L2, contains Cauda Equina + CSF. Site for Lumbar Puncture.
-*   **Enlargements:**
-    *   **Cervical (C4-T1):** Brachial Plexus (Arms).
-    *   **Lumbosacral (L2-S3):** Lumbosacral Plexus (Legs).
+## 1. Gross Anatomy of the Spinal Cord (Slides 5-8)
+The spinal cord is a cylindrical structure that serves as the main information superhighway between the brain and the body. It is flattened dorsoventrally and resides within the protective vertebral column.
+Crucially, the spinal cord is shorter than the vertebral column. In adults, it ends at the **L1-L2** vertebral level, forming a tapered tip called the **Conus Medullaris**. Below this level, the spinal canal contains a collection of nerve roots called the **Cauda Equina** (horse's tail) floating in the **Lumbar Cistern** of CSF.
 
-## 2. Spinal Reflexes (Slides 23-27)
-*   **Stretch Reflex (Myotatic):** Monosynaptic. Deep Tendon Reflexes (DTR).
-    *   *Mechanism:* Muscle Spindle -> Ia Afferent -> Alpha Motor Neuron -> Contraction.
-    *   *Levels:* S1/S2 (Achilles), L3/L4 (Patellar), C5/C6 (Biceps), C7/C8 (Triceps).
-*   **Flexor Withdrawal:** Polysynaptic. Pain -> Pull limb away.
-*   **Crossed-Extensor:** Polysynaptic. Pain in one foot -> Withdraw that foot + Extend *opposite* leg (to maintain balance).
+## 2. Meninges and Vascular Supply (Slides 10-11, 40-41)
+The spinal cord is wrapped in three meningeal layers:
+1.  **Dura Mater:** The tough outer layer. Unlike the cranial dura (which is double-layered), the spinal dura is **single-layered**. Between the dura and the vertebrae lies the **Epidural Space**, a real space containing fat and veins (Venous Plexus of Batson).
+2.  **Arachnoid Mater:** The middle, spider-web-like layer.
+3.  **Pia Mater:** The delicate inner layer attached directly to the cord. It forms lateral projections called **Denticulate Ligaments** that anchor the cord to the dura.
 
-## 3. Major Tracts (The Big Three) (Slides 30-39)
+**Blood Supply:**
+The cord is supplied by one **Anterior Spinal Artery (ASA)** and two **Posterior Spinal Arteries (PSA)**.
+*   **ASA:** Supplies the anterior 2/3 of the cord (including the Ventral Horns/Motor and STT/Pain).
+*   **PSA:** Supplies the posterior 1/3 (Dorsal Columns/Sensory).
 
-### A. DCML (Dorsal Column Medial Lemniscus)
-*   **Function:** Fine Touch, Vibration, Proprioception.
-*   **Pathway:**
-    1.  Enters Dorsal Column (Fasciculus Gracilis = Legs/Medial; Cuneatus = Arms/Lateral).
-    2.  Ascends **Ipsilaterally**.
-    3.  Synapses in Medulla (Nucleus Gracilis/Cuneatus).
-    4.  **Decussates** (Internal Arcuate Fibers) -> Medial Lemniscus.
-    5.  Thalamus (VPL) -> Cortex.
-*   **Lesion in Cord:** **Ipsilateral** loss of touch/vibration.
+:::correlate
+**Anterior Spinal Artery (ASA) Syndrome**
+- **Pathophysiology:** Infarction of the ASA (often from aortic surgery or occlusion).
+- **Presentation:** Sudden onset of complete motor paralysis (Corticospinal tract) and loss of pain/temperature sensation (Spinothalamic tract) below the lesion.
+- **Key Distinction:** **Proprioception and Vibration are SPARED** because the Dorsal Columns are supplied by the Posterior Spinal Arteries.
+:::
 
-### B. STT (Spinothalamic Tract - Anterolateral System)
-*   **Function:** Pain, Temperature, Crude Touch.
-*   **Pathway:**
-    1.  Enters Dorsal Horn (Lissauer's Tract).
-    2.  Synapses immedately (Substantia Gelatinosa).
-    3.  **Decussates** immediately (Anterior White Commissure).
-    4.  Ascends **Contralaterally**.
-*   **Lesion in Cord:** **Contralateral** loss of pain/temp (1-2 segments below).
+## 3. Internal Topography and Tracts (Slides 29-39)
+The internal structure consists of a central "H-shaped" butterfly of Gray Matter (cell bodies) surrounded by White Matter (axons).
 
-### C. CST (Corticospinal Tract)
-*   **Function:** Voluntary Motor.
-*   **Pathway:**
-    1.  Motor Cortex -> Internal Capsule -> Brainstem.
-    2.  **Decussates** in Medulla (Pyramids).
-    3.  Descends in Lateral Funiculus.
-    4.  Synapses on Anterior Horn Cells (LMN).
-*   **Lesion in Cord:** **Ipsilateral** Spastic Paralysis (UMN signs).
+### The Dorsal Column-Medial Lemniscus (DCML) Pathway
+This ascending pathway conveys **fine touch, vibration, and proprioception**.
+Primary afferents enter the cord and ascend **ipsilaterally** in the Dorsal Columns (Fasciculus Gracilis for legs, Cuneatus for arms). They do not synapse until they reach the **Medulla** (Nucleus Gracilis/Cuneatus). There, they decussate (Internal Arcuate Fibers) and ascend to the Thalamus.
 
-## 4. Vascular Syndromes (Slide 41)
-*   **Anterior Spinal Artery (ASA) Syndrome:**
-    *   Infarction of Anterior 2/3 of cord.
-    *   **Damaged:** CST (Motor) + STT (Pain/Temp).
-    *   **Spared:** Dorsal Columns (Touch/Vibration) - supplied by Posterior Spinal Arteries.
-    *   *Symptoms:* Paraplegia + Loss of Pain/Temp below lesion. Proprioception INTACT.
-*   **Posterior Spinal Artery Syndrome:** Loss of Dorsal Columns (Proprioception).
+### The Spinothalamic Tract (STT) - Anterolateral System
+This pathway conveys **pain, temperature, and crude touch**.
+Primary afferents enter via Lissauer's Tract and synapse immediately in the Dorsal Horn (Substantia Gelatinosa). The second-order neurons **decussate immediately** via the **Anterior White Commissure** and ascend contralaterally.
 
-## 5. Clinical Correlates
-*   **Shingles (Herpes Zoster):** Virus dormant in **DRG**. Reactivation -> Dermatomal rash.
-*   **Tetanus:** Tetanospasmin toxin blocks release of **GABA/Glycine** from Renshaw cells (inhibitory interneurons). Leads to spastic paralysis (Lockjaw, Opisthotonos).
+### The Corticospinal Tract (CST)
+This is the primary descending motor pathway for voluntary movement.
+Fibers originate in the Motor Cortex, descend through the brainstem, and **decussate in the Medulla (Pyramids)**. They descend in the spinal cord as the **Lateral Corticospinal Tract** and synapse on Anterior Horn Cells (Lower Motor Neurons).
+
+## 4. Spinal Reflexes (Slides 23-27)
+Reflexes are involuntary motor responses to stimuli, mediated by local spinal circuits.
+
+### Stretch Reflex (Myotatic)
+This is the simplest reflex (e.g., Knee Jerk). It is **Monosynaptic**.
+- **Mechanism:** Muscle stretch stimulates specific sensory receptors (Muscle Spindles) -> Ia afferent fires -> Direct synapse on Alpha Motor Neuron -> Muscle contracts.
+- **Function:** Maintains muscle tone and posture.
+
+### Flexor Withdrawal & Crossed-Extensor Reflexes
+These are **Polysynaptic**.
+- **Flexor Withdrawal:** A painful stimulus invokes pulling the limb *away* (Flexion).
+- **Crossed-Extensor:** Simultaneously, the *opposite* limb extends to support body weight (preventing falling).
+
+:::correlate
+**Tetanus**
+- **Pathophysiology:** *Clostridium tetani* toxin (Tetanospasmin) travels retrogradely from a wound to the spinal cord. It cleaves SNARE proteins in **Renshaw Cells** (inhibitory interneurons).
+- **Mechanism:** Prevents release of inhibitory neurotransmitters (**GABA and Glycine**).
+- **Presentation:** Unchecked excitation of motor neurons leads to spastic paralysis, lockjaw (trismus), and opisthotonos (arching back).
+:::
+
+## 5. Clinical Correlates (Additional)
+
+:::correlate
+**Shingles (Herpes Zoster)**
+- **Pathophysiology:** Reactivation of Varicella Zoster Virus (VZV) which lies dormant in the **Dorsal Root Ganglia (DRG)**.
+- **Presentation:** Painful, vesicular rash in a **specific dermatomal distribution** (does not cross midline).
+:::
+
+:::correlate
+**Disc Herniation (Slides 14-15)**
+- **Pathophysiology:** The soft **Nucleus Pulposus** herniates through a tear in the tough **Annulus Fibrosus**.
+- **Location:** Posterolateral herniation is most common and typically compresses the spinal nerve root *below* the level of the disc (e.g., L4/L5 disc compresses L5 root).
+- **Presentation:** Radiculopathy (shooting pain), sensory loss, and weakness in the affected nerve distribution.
+:::
 `,
+    pearls: [
+        {
+            "title": "Lumbar Puncture (LP)",
+            "content": "Because the spinal cord ends at L1-L2, a Lumbar Puncture is safely performed at the **L3-L4 or L4-L5** interspace to avoid damaging the cord."
+        },
+        {
+            "title": "Vascular Watershed",
+            "content": "The mid-thoracic region (T4-T8) is a vascular watershed area and is most susceptible to infarction during hypotension."
+        },
+        {
+            "title": "DCML Rule",
+            "content": "Lesions in the spinal cord affect the DCML **Ipsilaterally** (because it doesn't cross until the medulla)."
+        },
+        {
+            "title": "STT Rule",
+            "content": "Lesions in the spinal cord affect the STT **Contralaterally** (typically 1-2 segments below the lesion due to Lissauer's tract ascent)."
+        },
+        {
+            "title": "CST Rule",
+            "content": "Lesions in the spinal cord cause **Ipsilateral** Spastic Paralysis (UMN signs) below the lesion (because it already crossed in the medulla)."
+        },
+        {
+            "title": "Renshaw Cells",
+            "content": "Renshaw cells are the \"brakes\" of the motor system. Without them (e.g., Tetanus toxin blockade), motor neurons fire uncontrollably."
+        }
+    ],
     questions: [
         {
             question: "**1. A patient presents with loss of pain and temperature sensation in the right leg, and spastic paralysis and loss of vibration sense in the left leg. This 'Dissociated Sensory Loss' pattern (Brown-Séquard Syndrome) is caused by a hemisection lesion on which side of the spinal cord?**",

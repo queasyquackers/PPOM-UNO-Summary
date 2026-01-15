@@ -1,149 +1,195 @@
-const L7_CONTENT = {
+export const L7_CONTENT = {
     id: 'l7',
     title: 'Lecture #7: Internal Anatomy of Brain Stem I',
-    lecturer: 'Isaac Kurtzer, Ph.D.',
+    lecturer: 'I. Kurtzer, Ph.D.',
     module: 'Neuroanatomy',
     session: 'Lecture #7',
-    ankingResource: {
-        primarySource: 'BandB',
-        chapter: 'Neurology > Somatosensory Systems'
-    },
     prev: 'l6',
     next: 'l8',
     pdf: 'pdfs/Lecture # 7. I. Kurtzer, Ph.D. (PPT).pdf',
     transcript: 'transcripts/Lecture #7_ Internal Anatomy of Brain Stem I - General Layout and Major Nuclei; Presenter_ I. Kurtzer, PhD.srt',
     summary: `
 # Lecture #7: Internal Anatomy of Brain Stem I
-
-**Lecturer:** Isaac Kurtzer, Ph.D.
+**Lecturer:** I. Kurtzer, Ph.D.
 **Session:** Neuroanatomy
 
-## 1. General Organization (Slide 10)
-The Brainstem is divided into three longitudinal zones (A-P):
-1.  **Tectum ("Roof"):** Dorsal-most. Only distinct in the **Midbrain** (Superior/Inferior Colliculi).
-2.  **Tegmentum ("Covering"):** The core. Contains **Cranial Nerve Nuclei**, Reticular Formation, and Sensory Tracts. Anterior to the ventricular system.
-3.  **Basilar ("Base"):** Ventral-most. Contains descending **Motor Tracts** (Corticospinal, Corticobulbar, Corticopontine).
+## 1. Overview of Brainstem Divisions (Slides 4-5)
+The brainstem is divided into three major regions (Rostral to Caudal):
+1.  **Midbrain (Mesencephalon):** The most superior portion.
+2.  **Pons (Metencephalon):** The middle, bulbous portion.
+3.  **Medulla (Myelencephalon):** The most inferior portion, continuous with the spinal cord.
 
-## 2. External Anatomy
-### Ventral Surface
-*   **Midbrain:** Cerebral Peduncles (Crus Cerebri).
-*   **Pons:** Basilar Pons (Bulbous protrusion).
+## 2. External Anatomy: Ventral View (Slide 6)
+*   **Midbrain:** Characterized by the **Cerebral Peduncles (Crus Cerebri)**, massive stalks containing descending motor fibers from the cortex.
+*   **Pons:** Characterized by the **Basilar Pons**, a bulbous structure with transverse fibers.
 *   **Medulla:**
-    *   **Pyramids:** Medial. Contain Corticospinal Tract.
-    *   **Olives:** Lateral to pyramids. Contain Inferior Olivary Nucleus.
+    *   **Pyramids:** Two medial columns containing the **Corticospinal Tract**.
+    *   **Pyramidal Decussation:** The crossing point of motor fibers at the caudal medulla (border with spinal cord).
+    *   **Olive:** A lateral bump produced by the **Inferior Olivary Nucleus** (motor coordination).
 
-### Dorsal Surface
-*   **Midbrain:** Superior Colliculi (Vision), Inferior Colliculi (Hearing).
-*   **Pons/Medulla:** Floor of the **4th Ventricle**.
-*   **Cerebellar Peduncles:** Connect brainstem to cerebellum.
-    *   SCP (Midbrain), MCP (Pons), ICP (Medulla).
+## 3. External Anatomy: Dorsal View (Slide 7-8)
+*   **Midbrain (Tectum):**
+    *   **Superior Colliculi:** Visual reflexes/saccades.
+    *   **Inferior Colliculi:** Auditory pathway.
+*   **Pons:**
+    *   **Cerebellar Peduncles:**
+        *   **Superior (SCP):** Main *output* from cerebellum.
+        *   **Middle (MCP):** Connects Pons to Cerebellum (massive input).
+        *   **Inferior (ICP):** Connects Medulla to Cerebellum.
+    *   **Floor of 4th Ventricle:** The open posterior aspect.
+*   **Medulla:**
+    *   **Gracile Tubercle:** Medial bump (Leg sensory).
+    *   **Cuneate Tubercle:** Lateral bump (Arm sensory).
+    *   **Obex:** The caudal point where the 4th ventricle closes.
 
-## 3. Internal Anatomy: Key Nuclei (Slide 15)
-### Midbrain
-*   **Substantia Nigra:** Dopaminergic. Parkinson's Disease. Ventral tegmentum.
-*   **Red Nucleus:** Motor coordination (Rubrospinal tract).
-*   **Superior Colliculus:** Visual reflexes (Saccades).
-*   **Inferior Colliculus:** Auditory pathway.
-*   **Periaqueductal Gray (PAG):** Pain modulation. Surrounds Cerebral Aqueduct.
+## 4. Internal Anatomy: Cross-Sectional Zones (Slide 10)
+In cross-section, the brainstem is divided anterior-to-posterior:
+1.  **Basilar Region (Ventral):** Contains descending *motor* tracts (Corticospinal, Corticobulbar).
+2.  **Tegmentum (Middle):** The "core" containing **Cranial Nerve Nuclei**, Reticular Formation, and sensory tracts.
+3.  **Tectum (Dorsal):** Found *only* in the **Midbrain** (Colliculi).
 
-### Pons
-*   **Pontine Nuclei:** Relay station from Cortex to Cerebellum (via MCP). "Copy of the motor plan".
+## 5. Key Nuclei by Level (Slides 15-26)
 
 ### Medulla
-*   **Inferior Olivary Nucleus:** Motor coordination/Learning. Project to Cerebellum (Climbing Fibers).
-*   **Gracile & Cuneate Nuclei:** Dorsal Column nuclei (Touch/Proprioception).
-*   **Pyramids:** Descending motor fibers. Site of **Decussation**.
+*   **Gracile & Cuneate Nuclei:** Dorsal column nuclei (Touch/Proprioception).
+*   **Inferior Olivary Nucleus:** Large, crumpled sac appearance. Motor learning (Climbing fibers to cerebellum).
+*   **Spinal Trigeminal Nucleus:** Pain/Temp for the face (extends down to C2).
 
-## 4. Cranial Nerves Rule (Slide 29)
-*   **Cranial Nerves:** Always innervate **IPSILATERAL** structures (Input and Output).
-*   *Contrast with Tracts:* Long tracts (DCML, STT, CST) cross over and often represent the contralateral side.
+### Pons
+*   **Pontine Nuclei:** Scattered in the basilar pons. Relay cortex information to the cerebellum via the MCP.
+*   **Facial Nucleus (CN VII):** Motor to face.
+*   **Abducens Nucleus (CN VI):** Lateral eye movement.
+
+### Midbrain
+*   **Substantia Nigra:** Dark pigmented line (Dopamine). Degenerates in Parkinson's.
+*   **Red Nucleus:** Motor coordination (Rubrospinal tract).
+*   **Periaqueductal Gray (PAG):** Pain modulation (Opioid receptors).
+*   **Superior & Inferior Colliculi.**
+
+:::correlate
+**Cranial Nerve Exit Points (Rule of 4s)**
+*   **Midbrain (CN 3, 4):** Oculomotor (interpeduncular fossa), Trochlear (dorsal exit!).
+*   **Pons (CN 5, 6, 7, 8):** Trigeminal (lateral pons), Abducens/Facial/Vestibulocochlear (pontomedullary junction).
+*   **Medulla (CN 9, 10, 11, 12):** Glossopharyngeal/Vagus/Accessory (retro-olivary), Hypoglossal (pre-olivary sulcus).
+:::
 `,
+    pearls: [
+        {
+            "title": "Tectum Location",
+            "content": "The **Tectum** (Roof) exists ONLY in the **Midbrain**. It consists of the Superior and Inferior Colliculi."
+        },
+        {
+            "title": "Cerebral Aqueduct",
+            "content": "The **Cerebral Aqueduct** is a hallmark of the **Midbrain**. The 4th Ventricle is associated with the Pons and Medulla."
+        },
+        {
+            "title": "Decussation Rule",
+            "content": "The **Pyramidal Decussation** (crossing of motor fibers) marks the transition from Medulla to Spinal Cord."
+        },
+        {
+            "title": "CN IV Uniqueness",
+            "content": "The **Trochlear Nerve (CN IV)** is the ONLY cranial nerve to exit from the **Dorsal** aspect of the brainstem."
+        },
+        {
+            "title": "Inferior Olive Function",
+            "content": "The **Inferior Olive** (Medulla) is a MAJOR source of input to the cerebellum (Climbing Fibers) for motor learning."
+        },
+        {
+            "title": "Substantia Nigra",
+            "content": "Located in the Midbrain cerebral peduncles. Contains **Dopaminergic** neurons. Loss = Parkinson's Disease."
+        }
+    ],
     questions: [
         {
-            question: "**1. Which longitudinal division of the brainstem is found ONLY in the midbrain and contains structure involved in visual and auditory reflexes?**",
-            options: [
-                "Tegmentum",
-                "Basilar Region",
-                "Tectum",
-                "Pyramid",
-                "Olive"
+            "question": "**1. Which structure is a hallmark feature of the dorsal midbrain?**",
+            "options": [
+                "Pyramids",
+                "Inferior Olive",
+                "Superior Colliculus",
+                "Fourth Ventricle",
+                "Gracile Tubercle"
             ],
-            correctAnswer: 2,
-            rationale: "From Slide 10: The **Tectum** (Roof) consists of the Superior and Inferior Colliculi and is only a distinct region in the **Midbrain**. The Tegmentum and Basilar regions exist throughout the brainstem."
+            "correctAnswer": 2,
+            "rationale": "The **Superior Colliculus** is part of the Tectum, found on the dorsal aspect of the midbrain. The Pyramids and Olive are ventral medulla structures."
         },
         {
-            question: "**2. A lesion in the ventral part of the midbrain (Crus Cerebri/Substantia Nigra) would most likely result in which clinical deficit?**",
-            options: [
-                "Loss of pain sensation from the face",
-                "Contralateral Motor Deficits (Parkinsonism or Hemiparesis)",
-                "Hearing loss",
-                "Loss of taste",
-                "Loss of balance"
+            "question": "**2. The pyramidal decussation marks the caudal boundary of which brainstem division?**",
+            "options": [
+                "Midbrain",
+                "Pons",
+                "Medulla",
+                "Diencephalon",
+                "Spinal Cord"
             ],
-            correctAnswer: 1,
-            rationale: "From Slide 6/15: The ventral midbrain contains the **Substantia Nigra** (Motor/Basal Ganglia) and the **Cerebral Peduncles** (Descending Corticospinal Tract). Damage here causes motor deficits."
+            "correctAnswer": 2,
+            "rationale": "The **Pyramidal Decussation** is found at the junction of the **Medulla** and the spinal cord."
         },
         {
-            question: "**3. The Inferior Olivary Nucleus, visible as the 'Olive' on the ventral medulla, is primarily involved in which function?**",
-            options: [
-                "Pain Modulation",
-                "Auditory Processing",
-                "Motor Learning and Coordination",
-                "Conscious Proprioception",
-                "Visual Saccades"
+            "question": "**3. Which cranial nerve is the only one to exit from the dorsal aspect of the brainstem?**",
+            "options": [
+                "CN III (Oculomotor)",
+                "CN IV (Trochlear)",
+                "CN V (Trigeminal)",
+                "CN VI (Abducens)",
+                "CN VII (Facial)"
             ],
-            correctAnswer: 2,
-            rationale: "From Slide 15: The **Inferior Olivary Nucleus** is involved in **motor coordination** and acts as a relay to the cerebellum (via Climbing Fibers)."
+            "correctAnswer": 1,
+            "rationale": "**CN IV (Trochlear)** exits dorsally from the midbrain tectum. All other cranial nerves exit ventrally or laterally."
         },
         {
-            question: "**4. Which rule correctly describes the lateralization of Cranial Nerves?**",
-            options: [
-                "They innervate Contralateral tissue",
-                "They innervate Ipsilateral tissue",
-                "Sensory are Ipsilateral, Motor are Contralateral",
-                "Motor are Ipsilateral, Sensory are Contralateral",
-                "They are Bilateral"
+            "question": "**4. Damage to the Substantia Nigra in the midbrain is most commonly associated with which disorder?**",
+            "options": [
+                "Huntington's Disease",
+                "Alzheimer's Disease",
+                "Parkinson's Disease",
+                "Multiple Sclerosis",
+                "Myasthenia Gravis"
             ],
-            correctAnswer: 1,
-            rationale: "From Slide 29: **'Ipsilateral. Ipsilateral. Ipsilateral.'** All cranial nerves innervate ipsilateral tissue (e.g., Right CN V feels the Right face)."
+            "correctAnswer": 2,
+            "rationale": "The **Substantia Nigra** contains dopaminergic neurons. Their degeneration leads to the motor symptoms of **Parkinson's Disease**."
         },
         {
-            question: "**5. Which structure serves as a massive relay station, receiving input from the cortex and sending it to the cerebellum via the Middle Cerebellar Peduncle?**",
-            options: [
-                "Red Nucleus",
-                "Pontine Nuclei",
-                "Substantia Nigra",
-                "Cuneate Nucleus",
-                "Vestibular Nuclei"
+            "question": "**5. Which ventricular space is located between the Pons/Medulla and the Cerebellum?**",
+            "options": [
+                "Lateral Ventricle",
+                "Third Ventricle",
+                "Cerebral Aqueduct",
+                "Fourth Ventricle",
+                "Central Canal"
             ],
-            correctAnswer: 1,
-            rationale: "From Slide 15/19: The **Pontine Nuclei** in the basilar pons receive cortical input and project to the contralateral cerebellum, ensuring smooth motor control."
+            "correctAnswer": 3,
+            "rationale": "The **Fourth Ventricle** is the open space bounded anteriorly by the Pons/Medulla and posteriorly by the Cerebellum."
         }
     ],
     flashcards: [
-        { "front": "Function of Superior Colliculus?", "back": "Visual Reflexes (Saccades)", "tag": "Neuro" },
-        { "front": "Function of Inferior Colliculus?", "back": "Hearing (Auditory)", "tag": "Neuro" },
-        { "front": "Function of Substantia Nigra?", "back": "Dopamine production (Motor Control)", "tag": "Neuro" },
-        { "front": "Function of Red Nucleus?", "back": "Motor Coordination (Rubrospinal)", "tag": "Neuro" },
-        { "front": "Function of Periaqueductal Gray (PAG)?", "back": "Pain Modulation", "tag": "Neuro" },
-        { "front": "Function of Pontine Nuclei?", "back": "Cortex -> Cerebellum Relay", "tag": "Neuro" },
-        { "front": "Three zones of Brainstem (A-P)?", "back": "Tectum (Dorsal), Tegmentum (Core), Basilar (Ventral)", "tag": "Anatomy" },
-        { "front": "What does the Tectum consist of?", "back": "Superior and Inferior Colliculi (Midbrain only)", "tag": "Anatomy" },
-        { "front": "Are Cranial Nerves Ipsilateral or Contralateral?", "back": "Ipsilateral", "tag": "Clinical" },
-        { "front": "Where are the Pyramids located?", "back": "Ventral Medulla", "tag": "Anatomy" }
+        { "front": "Three divisions of Brainstem (Rostral->Caudal)?", "back": "Midbrain -> Pons -> Medulla", "tag": "Anatomy" },
+        { "front": "Hallmark dorsal structure of Midbrain?", "back": "Tectum (Corpora Quadrigemina / Colliculi)", "tag": "Anatomy" },
+        { "front": "Ventral columns of Medulla contain?", "back": "Corticospinal Tract (Pyramids)", "tag": "Anatomy" },
+        { "front": "Only CN to exit dorsally?", "back": "CN IV (Trochlear)", "tag": "Anatomy" },
+        { "front": "What marks the Medulla-Spinal Cord border?", "back": "Pyramidal Decussation", "tag": "Anatomy" },
+        { "front": "Function of Inferior Colliculus?", "back": "Auditory Processing", "tag": "Physiology" },
+        { "front": "Function of Superior Colliculus?", "back": "Visual/Saccadic Eye Movements", "tag": "Physiology" },
+        { "front": "Function of Substantia Nigra?", "back": "Dopamine production (Motor Control)", "tag": "Physiology" },
+        { "front": "Nucleus responsible for 'Olive' bump?", "back": "Inferior Olivary Nucleus", "tag": "Anatomy" },
+        { "front": "Ventricular space of the Midbrain?", "back": "Cerebral Aqueduct", "tag": "Anatomy" }
     ],
     mindmap: `
-## Brainstem Divisions
+## Brainstem Anatomy I
 ### Midbrain
-*   **Tectum**: Sup (Vision)/Inf (Hearing) Colliculi
-*   **Tegmentum**: Red Nucleus, CN III/IV, PAG
-*   **Basilar**: Crus Cerebri (CST), Substantia Nigra
+*   **Ventral**: Cerebral Peduncles (Motor)
+*   **Dorsal**: Tectum (Sup/Inf Colliculi)
+*   **Internal**: Aqueduct, Substantia Nigra, Red Nucleus
+*   **CN**: III, IV
 ### Pons
-*   **Tegmentum**: CN V, VI, VII, VIII
-*   **Basilar**: Pontine Nuclei (Relay to Cerebellum)
+*   **Ventral**: Basilar Pons (Transverse fibers)
+*   **Dorsal**: 4th Ventricle Floor
+*   **Internal**: Pontine Nuclei, MCP
+*   **CN**: V, VI, VII, VIII
 ### Medulla
-*   **Tegmentum**: CN IX, X, XII, Dorsal Column Nuclei
-*   **Basilar**: Pyramids (CST), Olives (Motor Learning)
+*   **Ventral**: Pyramids, Olive
+*   **Dorsal**: Gracile/Cuneate Tubercles
+*   **Internal**: Inf. Olive, DC Nuclei
+*   **CN**: IX, X, XI, XII
 `
 };
 

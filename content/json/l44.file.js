@@ -1,75 +1,142 @@
 window.receiveLectureContent({
   "id": "l44",
-  "title": "Lecture #44: Introduction to Ophthalmology",
-  "lecturer": "A. Nattis, D.O.",
-  "module": "Clinical",
-  "session": "Lecture #44",
-  "prev": "l43",
-  "next": "l45",
-  "pdf": "pdfs/Lecture # 44. A. Nattis, D.O. (PPT).pdf",
-  "summary": "# Lecture #44: Introduction to Ophthalmology\n\n**Lecturer:** A. Nattis, D.O.\n**Session:** Lecture #44\n\n## Pupil Abnormalities\n\n### Horner's Syndrome\n\n:::correlate\n**Horner's Syndrome Triad**\n*   **Ptosis** (droopy upper lid)\n*   **Miosis** (small pupil)\n*   **Anhidrosis** (lack of sweating on forehead above affected eye)\n\n**Etiology:**\n*   **Preganglionic:** Hypothalamus \u2192 Superior cervical ganglion. Vertebrobasilar stroke, vertebral artery dissection, cervical disc disease.\n*   **Postganglionic:** Superior cervical ganglion \u2192 Iris dilator. **Internal carotid artery dissection** (most common/severe), cavernous sinus disease, herpes zoster, parotid/nasopharynx tumors.\n\n**Workup:** Any suspected Horner's \u2192 Neural workup (rule out dissection, stroke, tumor).\n:::\n\n### Hutchinson's Pupil\n*   **Presentation:** Unilateral dilated, poorly reactive pupil in **comatose patient**.\n*   **Cause:** Ipsilateral supratentorial mass \u2192 Uncal herniation \u2192 CN III compression.\n\n## Ocular Muscle Disorders\n\n### Myasthenia Gravis\n\n:::correlate\n**Myasthenia Gravis**\n*   **Mechanism:** Autoantibodies block Ach receptors at motor endplates.\n*   **Hallmark:** **Fatigability** (symptoms worsen throughout day).\n*   **Ocular:** 90% have eye symptoms. Ptosis, diplopia, limited EOM, eye fatigue.\n    *   50% with ocular symptoms \u2192 80% develop generalized disease.\n*   **Diagnosis:** **Tensilon test** (Edrophonium IV, AchE inhibitor \u2192 Stronger muscle contraction. 80-90% positive). Rest test.\n*   **Note:** May cause severe bradycardia \u2192 Give 1-2mg test dose first, have atropine available.\n:::\n\n### Thyroid-Related Ophthalmopathy\n\n:::correlate\n**Thyroid Eye Disease (TED)**\n*   **Pathology:** GAG infiltration into EOMs \u2192 Proptosis.\n*   **Presentation:** Dry eye, redness, pain, restriction of motility, optic nerve compression.\n*   **Note:** Even with controlled hormone levels, stigma of TED persists.\n:::\n\n### Myotonic Dystrophy\n*   **Genetics:** Autosomal dominant (Chr 19).\n*   **Features:** Myotonia of peripheral muscles (worsens with cold, excitement, fatigue). **Christmas tree cataract**, pigmentary retinopathy, ptosis, lid lag.\n\n### Chronic Progressive External Ophthalmoplegia (CPEO)\n*   **Cause:** Mitochondrial disease.\n*   **Kearns-Sayre Syndrome:** Ophthalmoplegia + ptosis + retinal pigment degeneration + heart block.\n\n## Optic Neuropathies\n\n### Giant Cell Arteritis (Temporal Arteritis)\n\n:::highyield\n**Giant Cell Arteritis**\n*   **Population:** Age >55, F>M (2:1).\n*   **Pathology:** Inflammatory vasculopathy of medium-large vessels. Granulomatous inflammation with giant cells.\n*   **Presentation:**\n    *   **Arteritic ION:** Acute painless vision loss, \u00b1 amaurosis fugax/diplopia.\n    *   **Systemic:** Scalp tenderness, **jaw claudication**, joint pain (polymyalgia rheumatica), fever, malaise, anorexia, weight loss, headache, tender temporal artery \u00b1 \u2193 pulsation, neck pain, brainstem CVA.\n*   **Diagnosis:** \u2191 ESR, \u2191 CRP, \u2193 HCT, thrombocytosis. **Temporal artery biopsy** (confirmatory).\n*   **Treatment:** **Steroids ASAP** (Prednisone 60-100mg PO \u00b1 IV) to prevent fellow eye involvement (65% risk within 10 days without treatment).\n:::\n\n### Anterior Ischemic Optic Neuropathy (AION)\n\n:::correlate\n**AION**\n*   **Mechanism:** Infarct of optic nerve head (posterior ciliary arteries) \u2192 Acute painless vision loss.\n*   **Findings:** \u2193 Color vision, \u2193 VA, RAPD, VF loss, unilateral optic disc edema.\n*   **Types:**\n    *   **Arteritic ION:** Giant cell arteritis (see above).\n    *   **Nonarteritic ION (NAION):** 50-75 y/o, **normal ESR**. Associated with DM, microvascular disease. Recurrence in same eye rare. 25-40% fellow eye involvement.\n:::\n\n### Posterior ION\n*   **Mechanism:** \u2193 Blood flow/oxygenation to intraorbital optic nerve.\n*   **Causes:** Hypotension (volume loss), \u2191 peripheral vascular resistance, \u2191 venous pressure (orbital edema), \u2191 IOP, \u2193 O\u2082 carrying capacity.\n\n### Idiopathic Intracranial Hypertension (Pseudotumor Cerebri)\n\n:::correlate\n**Pseudotumor Cerebri**\n*   **Population:** 90% female, mean age 33, associated with **obesity**.\n*   **Presentation:** Papilledema with **normal neuroimaging and CSF**. HA, N/V, optic disc edema, transient visual obscurations, photopsias, VF defect, retrobulbar pain, pulsatile tinnitus, \u00b1 diplopia, RAPD.\n*   **Diagnosis:** \u2191 CSF pressure with normal composition (diagnosis of exclusion).\n*   **Etiology:** Endocrinopathy, COPD, dural sinus thrombosis, steroids, OCPs, Vitamin A, tetracycline, nalidixic acid, isotretinoin.\n*   **Treatment:**\n    *   **No vision loss:** HA treatment, weight loss.\n    *   **Mild vision loss:** Acetazolamide (Diamox), furosemide, weight loss.\n    *   **Advanced vision/VF loss:** Optic nerve sheath decompression, serial LPs, lumbar-peritoneal shunt.\n:::\n\n### Optic Neuritis\n\n:::highyield\n**Optic Neuritis**\n*   **Population:** Most common optic neuropathy in patients <45 y/o.\n*   **Presentation:** Acute unilateral vision loss (may recover spontaneously), **ocular pain on eye movement**, \u2193 color vision, RAPD, VF defect, optic nerve appears swollen or normal.\n*   **Uhthoff's phenomenon:** Worsening symptoms with heat/exercise.\n*   **Phosphenes:** Flashes of light induced by eye movements or sound.\n*   **DDx:** Idiopathic, **MS** (most common), syphilis, sarcoidosis, Lyme, Wegener's, SLE, Devic's.\n*   **MS Link:** **30% develop MS within 4 years; 38% within 10 years**. Always monitor neurologically.\n:::\n\n## Red Eyelids\n\n### Herpes Zoster Ophthalmicus (HZO)\n\n:::correlate\n**Herpes Zoster Ophthalmicus**\n*   **Presentation:** Unilateral painful skin rash in dermatomal distribution (trigeminal nerve). Vesicles crust/heal in 2-6 weeks.\n*   **Hutchinson's sign:** Skin lesions at tip, side, or root of nose \u2192 Strong predictor of **ocular involvement** (nasociliary nerve).\n*   **Population:** >60 y/o (can occur any age). Latent VZV reactivation in sensory ganglia. HIV patients 15x more likely.\n*   **Prodrome:** Fever, malaise, HA, eye pain prior to rash.\n*   **Management:**\n    *   **Oral antivirals** (acyclovir, famciclovir, valacyclovir) for \u226510 days. Immunosuppressed may need IV.\n    *   **Topical antibiotic ointment** (prevent superinfection).\n    *   **Topical steroids** (keratitis/uveitis). **PO/IV steroids** (scleritis, retinitis, choroiditis, optic neuritis).\n    *   **Amitriptyline 25mg PO** for neuropathic pain.\n*   **Prevention:** Shingles vaccine recommended for patients >60 y/o.\n:::\n\n## Red Eyeball\n\n### Conjunctivitis\n\n**Viral (Most common infectious):**\n*   **Adenovirus:** Highly contagious, 5-12 day incubation. Watery discharge, \u00b1 lid swelling.\n*   **HSV-1:** Skin lesions may be present.\n\n**Allergic:**\n*   **Presentation:** Lid swelling, diffuse redness, chemosis. Most frequent in spring/summer.\n*   **Treatment:** Allergen avoidance, cold compresses, artificial tears, topical steroid, antihistamine (gtts/PO).\n\n**Bacterial (2nd most common):**\n*   **Presentation:** Red eye, purulent/mucopurulent discharge, chemosis, \u2193 VA, \u00b1 lid swelling. Usually 7-10 days.\n*   **Organisms:** *N. gonorrhoeae* (**risk of corneal perforation** \u2192 IM Ceftriaxone 1g + lavage), *N. meningitidis*, *S. pneumoniae*, *H. influenzae*.\n*   **COVID-19:** Can present as conjunctivitis.\n*   **Treatment:** Hand hygiene, symptomatic (cold compresses, artificial tears), broad-spectrum antibiotic gtts.\n\n### Acute Angle-Closure Glaucoma\n\n:::highyield\n**Acute Angle-Closure Glaucoma**\n*   **Presentation:** Acute eye pain, blurry vision (in dark room/dim lighting), mid-dilated pupil, corneal edema, \u2191 IOP.\n*   **Mechanism:** Iris blocks trabecular meshwork \u2192 \u2191 IOP \u2192 Risk of vision loss (chokes off blood supply to optic nerve).\n*   **Emergency Treatment:**\n    *   **Eye drops** to \u2193 IOP.\n    *   **IV Acetazolamide** + **mannitol**.\n    *   **Definitive:** **Laser peripheral iridotomy** (make small opening in iris to allow aqueous drainage).\n:::\n\n### Uveitis\n\n:::correlate\n**Uveitis**\n*   **Presentation:** Dull, achy pain, photophobia, blurry vision, \u00b1 floaters.\n*   **Etiology:** Autoimmune (most common), infectious (Hepatitis C, syphilis less common).\n*   **Workup:** History of autoimmune conditions? Exposure to infectious diseases? Comprehensive ophthalmic exam. Partner with rheumatology/infectious disease.\n*   **Treatment:** **Steroids** (topical gtts usually sufficient; may need subtenon/intraocular injections or oral steroids).\n:::\n\n## Decreased Vision\n\n### Cataracts\n*   **Definition:** Opacification of crystalline lens. **Most common cause:** Age-related.\n*   **Other Causes:** Corticosteroids, drugs, trauma, diabetes, myotonic dystrophy, **Wilson's disease** (sunflower cataract), ocular disease (uveitis, myopia).\n*   **Treatment:** Cataract extraction with intraocular lens implantation.\n\n### Age-Related Macular Degeneration (AMD)\n\n**Dry AMD (90%):**\n*   **Pathology:** Drusen (yellow deposits) at back of eye.\n*   **Management:** Mild disease \u2192 Follow, recommend antioxidant vitamins. Many do fine long-term.\n\n**Wet AMD (10%, more severe):**\n*   **Pathology:** Abnormal blood vessels grow under retina \u2192 Weak, prone to bleeding.\n*   **Treatment:** Injections of medication into back of eye to regress vessels.\n\n### Diabetic Retinopathy\n\n:::highyield\n**Diabetic Retinopathy**\n*   **Epidemiology:** 80% of patients with diabetes develop this after 20 years. Leading cause of blindness in patients aged 20-64.\n*   **Presentation:** Microaneurysms (small findings) \u2192 Retinal hemorrhages, cotton-wool spots, neovascularization (severe).\n*   **Treatment:** **Glycemic control** (underlying). Laser photocoagulation, anti-VEGF injections depending on severity.\n:::\n\n### Retinal Detachment\n\n:::correlate\n**Retinal Detachment**\n*   **Classic Symptoms:** **Flashes and floaters**. Curtain/shadow across vision.\n*   **Mechanism:** Retina peels off from back of eye.\n*   **Risk Factors:** Nearsightedness, eye surgery, trauma, family history, severe diabetic eye disease.\n*   **Management:** Small tears \u2192 Laser in office. Larger detachments \u2192 **Vitrectomy surgery** (retina surgeon tacks retina back down).\n*   **Important:** Neurosurgical/ophthalmologic emergency.\n:::\n\n## Double Vision\n\n**Causes:**\n*   **CN III, IV, VI palsies** (trauma, stroke, compression, microvascular disease).\n*   **Myasthenia gravis** (fatigability).\n*   **Thyroid eye disease** (EOM restriction).\n*   **Retroorbital mass** (tumor behind eye).\n*   **Strabismus surgery** may be needed to strengthen EOMs.\n\n## Systemic Diseases with Ocular Findings\n\n*   **Autoimmune diseases:** Associated with uveitis.\n*   **Peripheral ulcerative keratitis:** Thinning of cornea (rheumatoid arthritis \u2192 May need corneal-scleral graft).\n*   **Wilson's disease:** Sunflower cataract, Kayser-Fleischer rings.\n*   **HIV retinopathy:** Looks like diabetic retinopathy (cotton-wool spots).",
-  "mindmap": "## Ophthalmology\n### Pupil Abnormalities\n*   **Horner's**: Ptosis, Miosis, Anhidrosis (ICA dissection)\n*   **Hutchinson's**: Dilated (uncal herniation)\n### Ocular Muscle Disorders\n*   **Myasthenia gravis**: Fatigability, Tensilon test\n*   **Thyroid eye disease**: Proptosis, GAG infiltration\n### Optic Neuropathies\n*   **Temporal arteritis**: Jaw claudication, steroids ASAP\n*   **Optic neuritis**: Pain on movement, 30% \u2192 MS\n*   **Pseudotumor**: Obese female, normal MRI\n### Red Eye\n*   **HZO**: Hutchinson's sign, antivirals\n*   **Acute glaucoma**: Laser iridotomy\n*   **Uveitis**: Autoimmune, steroids\n### Decreased Vision\n*   **Diabetic retinopathy**: Leading blindness 20-64\n*   **Retinal detachment**: Flashes/floaters\n*   **AMD**: Drusen (dry), neovascularization (wet)",
-  "questions": [],
+  "summary": "# Lecture 44: Introduction to Ophthalmology\n\n**Lecturer:** A. Nattis, D.O.\n**Session:** Lecture 44\n\n## 1. The Red Eye\n*   **Conjunctivitis:**\n    *   *Viral (Pink Eye):* **Watery** discharge. Adenovirus. Highly contagious.\n    *   *Bacterial:* **Purulent** (pus) discharge. \"Glued shut\" in AM.\n    *   *Allergic:* **Itching** (Pruritus). Bilateral.\n*   **Acute Angle Closure Glaucoma:**\n    *   *Presentation:* Severe eye pain, Headache, Nausea/Vomiting, **Haloes around lights**.\n    *   *Exam:* **Mid-dilated, fixed pupil**. Cloudy cornea. High IOP. **Emergency**.\n*   **Uveitis (Iritis):**\n    *   *Presentation:* Deep pain, **Photophobia** (Light sensitivity), Redness.\n    *   *Exam:* **Cells and Flare** in anterior chamber. Irregular pupil (Synechiae).\n    *   *Association:* Autoimmune (HLA-B27, Sarcoidosis).\n*   **Scleritis:**\n    *   *Presentation:* Deep, \"boring\" pain. Wakes patient at night.\n    *   *Association:* Rheumatoid Arthritis.\n\n## 2. Neuro-Ophthalmology (Pupils)\n*   **Horner's Syndrome:**\n    *   *Triad:* **Ptosis** (Droopy lid), **Miosis** (Small pupil), **Anhidrosis** (No sweat).\n    *   *Cause:* Sympathetic pathway lesion (Pancoast tumor, Carotid dissection).\n*   **CN III Palsy:**\n    *   *Presentation:* Eye is **\"Down and Out\"**. Ptosis.\n    *   *Pupil:* If **Dilated** (\"Blown\"), it's a **PCom Aneurysm** (Surgical Emergency). If pupil spared, it's Ischemic (Diabetes).\n*   **Relative Afferent Pupillary Defect (RAPD) / Marcus Gunn Pupil:**\n    *   *Test:* Swinging Flashlight Test.\n    *   *Result:* Pupil appears to **Dilate** when light is swung to the bad eye (because it senses *less* light than the good eye).\n    *   *Cause:* Optic Nerve lesion (Optic Neuritis).\n*   **Argyll Robertson Pupil:**\n    *   *Sign:* Accommodates but does **not** react to light (\"Prostitute's Pupil\").\n    *   *Cause:* Neurosyphilis.\n\n## 3. Retina & Optic Nerve\n*   **Retinal Detachment:**\n    *   *Symptoms:* **Flashes and Floaters**. \"Curtain coming down\" over vision.\n    *   *Tx:* Surgical Emergency.\n*   **Central Retinal Artery Occlusion (CRAO):**\n    *   *Sign:* **Cherry Red Spot** on macula. Pale retina. Sudden painless vision loss.\n    *   *Cause:* Embolus (Stroke of the eye).\n*   **Central Retinal Vein Occlusion (CRVO):**\n    *   *Sign:* **\"Blood and Thunder\"** (Diffuse hemorrhages).\n*   **Optic Neuritis:**\n    *   *Sign:* **Painful** vision loss. RAPD (+). Associated with **MS**.\n*   **Giant Cell Arteritis (Temporal Arteritis):**\n    *   *Sign:* Ischemic Optic Neuropathy (AION). Jaw claudication. Scalp tenderness. high ESR.\n    *   *Tx:* **High Dose Steroids** immediately to save the other eye.",
+  "title": "Lecture 44: Introduction to Ophthalmology",
+  "module": "Neurology",
+  "questions": [
+    {
+      "question": "A 65-year-old male presents with sudden, painless loss of vision in his right eye. Fundoscopy reveals a pale retina with a cherry-red spot at the fovea. What is the most likely diagnosis?",
+      "options": [
+        "Central Retinal Vein Occlusion",
+        "Retinal Detachment",
+        "Central Retinal Artery Occlusion",
+        "Acute Angle Closure Glaucoma",
+        "Optic Neuritis"
+      ],
+      "answer": 2,
+      "explanation": "**Central Retinal Artery Occlusion (CRAO)** presents with a pale retina (edema) and a **Cherry Red Spot** (thin fovea showing choroid). It is an embolic event."
+    },
+    {
+      "question": "A patient presents with a painful red eye, nausea, and halos around lights. The pupil is mid-dilated and non-reactive. What is the immediate concern?",
+      "options": [
+        "Viral Conjunctivitis",
+        "Acute Angle Closure Glaucoma",
+        "Uveitis",
+        "Scleritis",
+        "Corneal Abrasion"
+      ],
+      "answer": 1,
+      "explanation": "**Acute Angle Closure Glaucoma** is an ocular emergency characterized by high pressure, pain, halos, and a fixed mid-dilated pupil."
+    },
+    {
+      "question": "Which finding is part of the classic triad of Horner's Syndrome?",
+      "options": [
+        "Mydriasis (Dilated Pupil)",
+        "Exophthalmos (Bulging Eye)",
+        "Anhidrosis (Lack of sweating)",
+        "Diplopia (Double vision)",
+        "Hyperhidrosis (Excess sweating)"
+      ],
+      "answer": 2,
+      "explanation": "**Horner's Triad:** Ptosis, Miosis, **Anhidrosis** (on the ipsilateral face)."
+    },
+    {
+      "question": "Does the pupil in a CN III palsy due to a PCom aneurysm typically present as dilated or constricted?",
+      "options": [
+        "Constricted (Miotic)",
+        "Dilated (Mydriatic)",
+        "Normal",
+        "Irregular",
+        "Pear-shaped"
+      ],
+      "answer": 1,
+      "explanation": "Parasympathetic fibers run on the *outside* of CN III. Compressive lesions (like an **PCom Aneurysm**) compress these fibers first, causing a **Dilated** pupil."
+    },
+    {
+      "question": "A patient with MS presents with pain on eye movement and decreased color vision. Swinging flashlight test shows a Relative Afferent Pupillary Defect (RAPD). Diagnosis?",
+      "options": [
+        "Papilledema",
+        "Optic Neuritis",
+        "Glaucoma",
+        "Cataract",
+        "Macular Degeneration"
+      ],
+      "answer": 1,
+      "explanation": "**Optic Neuritis** is inflammation of the optic nerve, common in MS. It causes painful vision loss and an **RAPD**."
+    }
+  ],
   "flashcards": [
     {
-      "front": "Horner's syndrome triad?",
+      "front": "Horner's Syndrome Triad",
       "back": "Ptosis, Miosis, Anhidrosis",
-      "tag": "Ophtho"
+      "tag": "Ophthalmology"
     },
     {
-      "front": "Hut chinson's pupil?",
-      "back": "Dilated pupil in comatose patient (uncal herniation)",
-      "tag": "Ophtho"
+      "front": "Acute Angle Closure Glaucoma Symptoms",
+      "back": "Pain, Haloes, Nausea, Fixed Mid-dilated Pupil",
+      "tag": "Ophthalmology"
     },
     {
-      "front": "Myasthenia gravis hallmark?",
-      "back": "Fatigability (symptoms worsen throughout day)",
-      "tag": "Ophtho"
+      "front": "Cherry Red Spot Diagnosis",
+      "back": "Central Retinal Artery Occlusion (CRAO)",
+      "tag": "Ophthalmology"
     },
     {
-      "front": "Temporal arteritis key symptom?",
-      "back": "Jaw claudication",
-      "tag": "Ophtho"
+      "front": "Blood and Thunder Fundus",
+      "back": "Central Retinal Vein Occlusion (CRVO)",
+      "tag": "Ophthalmology"
     },
     {
-      "front": "Temporal arteritis treatment?",
-      "back": "Steroids ASAP (prevent fellow eye involvement)",
-      "tag": "Ophtho"
+      "front": "Retinal Detachment Symptoms",
+      "back": "Flashes, Floaters, Curtain falling",
+      "tag": "Ophthalmology"
     },
     {
-      "front": "Optic neuritis MS risk?",
-      "back": "30% develop MS within 4 years",
-      "tag": "Ophtho"
+      "front": "CN3 Palsy Appearance",
+      "back": "Down and Out",
+      "tag": "Ophthalmology"
     },
     {
-      "front": "Pseudotumor cerebri population?",
-      "back": "90% female, age 33, obese",
-      "tag": "Ophtho"
+      "front": "Painful Vision Loss + MS",
+      "back": "Optic Neuritis",
+      "tag": "Ophthalmology"
     },
     {
-      "front": "Hutchinson's sign (HZO)?",
-      "back": "Nose lesions \u2192 Ocular involvement (nasociliary nerve)",
-      "tag": "Ophtho"
+      "front": "Painless Vision Loss + Jaw Claudication",
+      "back": "Giant Cell Arteritis (AION)",
+      "tag": "Ophthalmology"
+    }
+  ],
+  "ankingResource": {
+    "primarySource": "AMBOSS",
+    "chapter": "Ophthalmology > Red Eye",
+    "alternatives": [
+      {
+        "resource": "FirstAid",
+        "chapter": "Ophthalmology"
+      }
+    ]
+  },
+  "pearls": [
+    {
+      "title": "Horner's vs CN3 Palsy",
+      "content": "**Horner's:** Pupil is **Small** (Miosis). Ptosis is mild.\\n**CN3 Palsy:** Pupil is **Large** (Dilated). Ptosis is severe (Eye shut)."
     },
     {
-      "front": "Acute angle-closure glaucoma definitive treatment?",
-      "back": "Laser peripheral iridotomy",
-      "tag": "Ophtho"
+      "title": "The Painful Red Eye",
+      "content": "Sudden pain + Haloes + Hard eye = **Acute Glaucoma**.\\nPhotophobia + Autoimmune Hx = **Uveitis**.\\nContact Lens + Sleeping in them = **Corneal Ulcer** (Pseudomonas)."
     },
     {
-      "front": "Diabetic retinopathy leading cause?",
-      "back": "Leading cause of blindness ages 20-64",
-      "tag": "Ophtho"
+      "title": "Retinal Detachment Warning",
+      "content": "New onset **Flashes** and **Floaters** is a Retinal Detachment until proven otherwise."
     },
     {
-      "front": "Retinal detachment classic symptoms?",
-      "back": "Flashes and floaters",
-      "tag": "Ophtho"
+      "title": "Papilledema",
+      "content": "Bilateral Optic Disc Swelling due to increased Intracranial Pressure. In an obese young female, think **Pseudotumor Cerebri** (IIH)."
     },
     {
-      "front": "Wilson's disease ocular finding?",
-      "back": "Sunflower cataract, Kayser-Fleischer rings",
-      "tag": "Ophtho"
+      "title": "Hutchinson's Sign",
+      "content": "Shingles vesicle on the **tip of the nose** predicts ocular involvement (Herpes Zoster Ophthalmicus)."
     }
   ]
 });

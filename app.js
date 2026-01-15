@@ -36,6 +36,7 @@ document.addEventListener("DOMContentLoaded", async function () {
   setupReadingProgress();
   setupWelcomeAnimation();
   setupLightbox();
+  setupPearlbookModal();
 });
 
 let lightboxState = {
@@ -759,15 +760,18 @@ function updateCompleteButton() {
     
     const isComplete = completedLectures.has(selectedLecture.id);
     
+    // Toggle between Filled (Complete) and Outline (Incomplete)
     if (isComplete) {
-        btn.classList.add("bg-green-500", "text-white", "border-green-600");
-        btn.classList.remove("text-solarized-base1", "dark:text-dark-muted", "hover:bg-solarized-base3", "dark:hover:bg-dark-hover", "border-transparent");
+        // Active/Clicked State -> Filled Green
+        btn.classList.add("bg-green-500", "text-white");
+        btn.classList.remove("bg-white/80", "text-green-600", "dark:bg-dark-surface/80", "dark:text-green-400");
         
         icon.innerHTML = '<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>';
         text.textContent = "Completed";
     } else {
-        btn.classList.remove("bg-green-500", "text-white", "border-green-600");
-        btn.classList.add("text-solarized-base1", "dark:text-dark-muted", "hover:bg-solarized-base3", "dark:hover:bg-dark-hover", "border-transparent");
+        // Default State -> Outline Green
+        btn.classList.remove("bg-green-500", "text-white");
+        btn.classList.add("bg-white/80", "text-green-600", "dark:bg-dark-surface/80", "dark:text-green-400");
         
         icon.innerHTML = '<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>';
         text.textContent = "Mark Complete";
@@ -835,20 +839,7 @@ function switchTab(tab) {
   renderTabContent();
 }
 
-function copyPageUrl() {
-    const url = window.location.href;
-    navigator.clipboard.writeText(url).then(() => {
-        // Show temporary success feedback
-        const btn = document.getElementById("copyLinkBtn");
-        if(btn) {
-           const originalHtml = btn.innerHTML;
-           btn.innerHTML = `<svg class="w-4 h-4 text-green-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg><span class="text-green-500">Copied!</span>`;
-           setTimeout(() => {
-               btn.innerHTML = originalHtml;
-           }, 2000);
-        }
-    });
-}
+
 
 
 function renderTabContent() {
@@ -2475,4 +2466,121 @@ function renderMindMapTree(data) {
       update(d);
     }
   }
+}
+
+function setupPearlbookModal() {
+    const modal = document.getElementById('pearlbookModal');
+    const btn = document.getElementById('pearlbookToggle');
+    const closeBtn = document.getElementById('closePearlbook');
+    const contentDiv = document.getElementById('pearlbookContent');
+
+    if (!modal || !btn || !closeBtn) return;
+
+    function openModal() {
+        if (!selectedLecture) return;
+        
+        renderPearlbookContent();
+        modal.classList.remove('hidden');
+        requestAnimationFrame(() => {
+            modal.classList.remove('opacity-0');
+            modal.firstElementChild.firstElementChild.classList.remove('scale-95');
+            modal.firstElementChild.firstElementChild.classList.add('scale-100');
+        });
+        document.body.style.overflow = 'hidden';
+    }
+
+    function closeModal() {
+        modal.classList.add('opacity-0');
+        modal.firstElementChild.firstElementChild.classList.remove('scale-100');
+        modal.firstElementChild.firstElementChild.classList.add('scale-95');
+        
+        setTimeout(() => {
+            modal.classList.add('hidden');
+        }, 300);
+        document.body.style.overflow = '';
+    }
+
+    function renderPearlbookContent() {
+        const pearls = selectedLecture.pearls;
+        contentDiv.innerHTML = '';
+
+        if (!pearls || pearls.length === 0) {
+            contentDiv.innerHTML = `
+                <div class="flex flex-col items-center justify-center py-20 text-center opacity-60">
+                    <svg class="w-16 h-16 mb-4 text-solarized-base1 dark:text-dark-muted" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"></path></svg>
+                    <p class="text-xl font-sans font-medium text-solarized-base01 dark:text-dark-text">No Pearls available for this lecture</p>
+                </div>
+            `;
+            return;
+        }
+
+        const pearlsContainer = document.createElement("div");
+        pearlsContainer.className = "grid grid-cols-1 gap-6";
+
+        pearls.forEach((pearl, index) => {
+            const pearlCard = document.createElement("div");
+            pearlCard.className = `p-6 rounded-2xl border transition-all duration-300 ${
+                isDark
+                    ? "bg-dark-bg/50 border-dark-border hover:border-dark-accent/50"
+                    : "bg-white border-solarized-base1/10 hover:border-solarized-blue/30"
+            } shadow-sm hover:shadow-md animate-in`;
+            pearlCard.style.animationDelay = `${index * 50}ms`;
+
+            const renderedContent = typeof renderMarkdown === "function"
+                ? renderMarkdown(pearl.content)
+                : pearl.content;
+
+            pearlCard.innerHTML = `
+                <div class="flex items-start gap-4">
+                    <div class="shrink-0 w-10 h-10 rounded-full flex items-center justify-center ${
+                        isDark
+                            ? "bg-dark-accent/10 text-dark-accent"
+                            : "bg-orange-500/10 text-orange-600"
+                    }">
+                        <span class="font-bold font-sans text-lg">${index + 1}</span>
+                    </div>
+                    <div class="flex-1">
+                        <h3 class="text-lg font-bold mb-2 font-sans ${
+                            isDark ? "text-dark-text" : "text-solarized-base01"
+                        }">${pearl.title}</h3>
+                        <div class="prose dark:prose-invert max-w-none text-base leading-relaxed ${
+                            isDark ? "text-dark-muted" : "text-solarized-base00"
+                        }">
+                            ${renderedContent}
+                        </div>
+                    </div>
+                </div>
+            `;
+            pearlsContainer.appendChild(pearlCard);
+        });
+
+        contentDiv.appendChild(pearlsContainer);
+    }
+
+    btn.addEventListener('click', (e) => {
+        // Create ripple
+        const circle = document.createElement('span');
+        const diameter = Math.max(btn.clientWidth, btn.clientHeight);
+        const radius = diameter / 2;
+        circle.style.width = circle.style.height = `${diameter}px`;
+        circle.style.left = `${e.clientX - btn.getBoundingClientRect().left - radius}px`;
+        circle.style.top = `${e.clientY - btn.getBoundingClientRect().top - radius}px`;
+        circle.classList.add('ripple');
+        const ripple = btn.getElementsByClassName('ripple')[0];
+        if (ripple) {
+            ripple.remove();
+        }
+        btn.appendChild(circle);
+        
+        openModal();
+    });
+
+    closeBtn.addEventListener('click', closeModal);
+    modal.addEventListener('click', (e) => {
+        if (e.target === modal || e.target.closest('.w-full') === e.target) closeModal();
+    });
+    
+    document.addEventListener('keydown', (e) => {
+        if (!modal.classList.contains('hidden') && e.key === 'Escape') closeModal();
+    });
 }

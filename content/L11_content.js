@@ -1,156 +1,227 @@
-const L11_CONTENT = {
-    id: 'l11',
-    title: 'Lecture #11: Hypothalamus',
-    lecturer: 'V. Grubisic, M.D., Ph.D.',
-    module: 'Neuroanatomy',
-    session: 'Lecture #11',
-    ankingResource: {
-        primarySource: 'BandB',
-        chapter: 'Neurology > Hypothalamus & Limbic'
-    },
-    prev: 'l10',
-    next: 'l12',
-    pdf: 'pdfs/Lecture # 11. V. Grubisic, M.D., Ph.D. (PPT).pdf',
-    transcript: 'transcripts/Lecture #11_ Hypothalamus - Neuroanatomy, Neuroendocrine and Regional Function Faculty_ V. Grubisic, M.D., Ph.D..srt',
+export const L11_CONTENT = {
+    id: "l11",
     summary: `
-# Lecture #11: Hypothalamus
+# Lecture 11: Hypothalamus
 
 **Lecturer:** V. Grubisic, M.D., Ph.D.
-**Session:** Neuroanatomy
+**Session:** Lecture 11
 
-## 1. General Functions (TAN HATS)
-**T**hirst, **A**denohypophysis, **N**eurohypophysis, **H**unger, **A**utonomic, **T**emperature, **S**exual/Sleep.
+## 1. Hypothalamus Overview (Slide 6-8)
 
-## 2. Major Nuclei and Functions
-### Feeding and Arousal
-*   **Lateral Hypothalamus:** **Hunger** Center. ("Lateral makes you Lean").
-    *   *Lesion:* Anorexia (Starvation).
-    *   Contains Orexin (Hypocretin) for arousal (Deficiency = Narcolepsy).
-*   **Ventromedial Nucleus:** **Satiety** Center. ("VentroMedial = Very Massive").
-    *   *Lesion:* Hyperphagia (Obesity).
-*   **Arcuate Nucleus:** Master regulator.
-    *   *Orexigenic (Hunger):* NPY / AgRP. (Stimulated by Ghrelin).
-    *   *Anorexigenic (Satiety):* POMC / CART. (Stimulated by Leptin).
+The Hypothalamus is the master control center for **Homeostasis**, regulating the Autonomic Nervous System, Endocrine System, and Limbic System.
+Mnemonic for Functions: **TAN HATS**
+*   **T**hirst and Water Balance
+*   **A**denohypophysis Control
+*   **N**eurohypophysis Control
+*   **H**unger
+*   **A**utonomic Regulation
+*   **T**emperature Regulation
+*   **S**exual urges / **S**leep
 
-### Temperature Regulation
-*   **Anterior Hypothalamus:** **Cooling** (Parasympathetic). ("**A**nterior = **A**/C").
-    *   *Lesion:* Hyperthermia.
-*   **Posterior Hypothalamus:** **Heating** (Sympathetic). ("Posterior = Poikilotherm").
-    *   *Lesion:* Hypothermia (Unable to conserve heat).
+## 2. Major Nuclei and Functions (Slide 9-16)
 
-### Endocrine / Water Balance
-*   **Supraoptic (SON) & Paraventricular (PVN):**
-    *   Make **ADH** (Vasopressin) and **Oxytocin**.
-    *   Project to Posterior Pituitary.
-    *   *Pathology:*
-        *   **Diabetes Insipidus (Central):** Low ADH. Polyuria/Polydipsia.
-        *   **SIADH:** High ADH. Hyponatremia.
+*   **Paraventricular Nucleus (PVN):** Produces Oxytocin, ADH, TRH, CRH. Projects to autonomic centers.
+*   **Supraoptic Nucleus (SON):** Produces mainly **ADH** (Vasopressin) and Oxytocin.
+*   **Suprachiasmatic Nucleus (SCN):** Master **Circadian Clock**. Regulated by light input from retina.
+*   **Anterior Hypothalamus:** Cooling (Parasympathetic). Lesion $\\to$ Hyperthermia. "A/C = Anterior Cooling".
+*   **Posterior Hypothalamus:** Heating (Sympathetic). Lesion $\\to$ Hypothermia (Poikilothermia).
+*   **Mammillary Bodies:** Episodic Memory. Input from Hippocampus (Fornix).
 
-### Circadian Rhythm
-*   **Suprachiasmatic Nucleus (SCN):** "Master Clock". Input from Retina.
+:::correlate
+**Wernicke-Korsakoff Syndrome**
+*   **Cause:** **Thiamine (Vitamin B1)** deficiency, often due to chronic alcoholism.
+*   **Pathology:** Degeneration of the **Mammillary Bodies** and Medial Dorsal Thalamus.
+*   **Triad:** Confusion, Ataxia, Ophthalmoplegia (Wernicke's Encephalopathy).
+*   **Sequelae:** Korsakoff's Psychosis (Anterograde/Retrograde Amnesia + Confabulation) if untreated.
+:::
 
-### Memory
-*   **Mammillary Bodies:** Part of Papez Circuit.
-*   **Wernicke-Korsakoff Syndrome:** Thiamine (B1) deficiency (Alcoholics).
-    *   *Triad:* Confusion, Ataxia, Ophthalmoplegia.
-    *   *Sequelae:* Anterograde Amnesia + Confabulation (Damage to Mammillary bodies).
+## 3. Feeding Regulation (Slide 19-22)
 
-## 3. Feeding Regulation Hormones (Slide 21)
-*   **Leptin:** From Adipose tissue. Signals Satiety (Long-term). Activates POMC.
-*   **Ghrelin:** From Stomach. Signals Hunger (Short-term). Activates NPY.
+*   **Lateral Hypothalamus:** **Hunger Center**. Lesion $\\to$ **Anorexia** ("Lateral makes you Lean").
+*   **Ventromedial Nucleus:** **Satiety Center**. Lesion $\\to$ **Hyperphagia** and Obesity ("Ventromedial makes you Very Massive").
+*   **Hormones:**
+    *   **Leptin:** From adipose tissue. Signals satiety (inhibits Lateral, stimulates Ventromedial).
+    *   **Ghrelin:** From stomach. Signals hunger.
+
+## 4. Water Balance Disorders (Slide 12)
+
+*   **Diabetes Insipidus (DI):**
+    *   *Neurogenic:* Lack of **ADH** secretion (Hypothalamic/Posterior Pituitary damage).
+    *   *Sxs:* Polyuria, Polydipsia, Dilute Urine.
+*   **SIADH (Syndrome of Inappropriate ADH):**
+    *   *Cause:* Ectopic production (Small Cell Lung Cancer), CNS disorders, Drugs.
+    *   *Sxs:* Water retention, **Hyponatremia**, Cerebral Edema.
+
+:::highyield
+**Mnemonic: Feeding Centers**
+*   **L**ateral = **L**ean (Hunger Center; lesion causes starvation).
+*   **V**entromedial = **V**ery **M**assive (Satiety Center; lesion causes obesity).
+:::
 `,
+    pearls: [
+        {
+            title: "Hypothalamic Feeding Centers",
+            content: "**Lateral Hypothalamus (LH):** Hunger Center. Lesion = Starvation (Lateral makes you Lean).\\n**Ventromedial Nucleus (VMN):** Satiety Center. Lesion = Obesity (VMN makes you Very Massive)."
+        },
+        {
+            title: "Temperature Regulation",
+            content: "**Anterior Hypothalamus:** Cooling (Parasympathetic). Lesion = Hyperthermia.\\n**Posterior Hypothalamus:** Heating (Sympathetic). Lesion = Hypothermia."
+        },
+        {
+            title: "Wernicke-Korsakoff Anatomy",
+            content: "Caused by **Thiamine (B1)** deficiency leading to necrosis of the **Mammillary Bodies**."
+        },
+        {
+            title: "Circadian Rhythm",
+            content: "Controlled by the **Suprachiasmatic Nucleus (SCN)**, which receives direct input from the retina."
+        },
+        {
+            title: "ADH Production",
+            content: "ADH is synthesized in the **Supraoptic** and **Paraventricular** nuclei and released from the **Posterior Pituitary**."
+        }
+    ],
     questions: [
         {
-            question: "**1. A patient presents with uncontrolled hyperphagia (overeating) and rapid weight gain (obesity). MRI reveals a tumor compressing a specific hypothalamic nucleus. Which nucleus is most likely affected, leading to a loss of satiety?**",
+            question: "A chronic alcoholic presents with confusion, ataxia, and nystagmus. MRI reveals atrophy of the Mammillary Bodies. What is the most likely diagnosis?",
+            options: [
+                "Alzheimer's Disease",
+                "Parkinson's Disease",
+                "Wernicke's Encephalopathy",
+                "Huntington's Disease",
+                "Vascular Dementia"
+            ],
+            answer: 2,
+            explanation: "This is the classic presentation of **Wernicke's Encephalopathy** due to Thiamine deficiency, which damages the mammillary bodies."
+        },
+        {
+            question: "A patient develops hyperphagia and significant obesity after a brain tumor resection. Which hypothalamic nucleus was most likely damaged?",
             options: [
                 "Lateral Hypothalamus",
+                "Supraoptic Nucleus",
                 "Ventromedial Nucleus",
                 "Suprachiasmatic Nucleus",
-                "Mammillary Bodies",
                 "Anterior Hypothalamus"
             ],
-            correctAnswer: 1,
-            rationale: "From Slide 19/20: The **Ventromedial Nucleus (VMN)** is the Satiety Center. Lesions here cause **Hyperphagia** and Obesity ('Very Massive'). Lesions of the Lateral Hypothalamus cause Anorexia."
+            answer: 2,
+            explanation: "The **Ventromedial Nucleus** is the Satiety Center. Damage leads to unchecked hunger and obesity ('Very Massive')."
         },
         {
-            question: "**2. A 55-year-old chronic alcoholic presents with confusion, ataxia, and ophthalmoplegia. MRI shows atrophy of the Mammillary Bodies. What is the underlying nutritional deficiency?**",
+            question: "Which hypothalamic nucleus is responsible for circadian rhythms?",
             options: [
-                "Vitamin B12 (Cobalamin)",
-                "Vitamin B1 (Thiamine)",
-                "Vitamin B3 (Niacin)",
-                "Vitamin C (Ascorbic Acid)",
-                "Vitamin D"
-            ],
-            correctAnswer: 1,
-            rationale: "From Slide 16: **Wernicke-Korsakoff Syndrome** is caused by **Thiamine (Vitamin B1)** deficiency, common in alcoholics. It damages the **Mammillary Bodies**, leading to amnesia and the classic triad."
-        },
-        {
-            question: "**3. Which hypothalamic nucleus is considered the 'Master Clock' for circadian rhythms and receives direct input from the retina?**",
-            options: [
-                "Supraoptic Nucleus",
-                "Paraventricular Nucleus",
-                "Suprachiasmatic Nucleus",
                 "Arcuate Nucleus",
-                "Preoptic Nucleus"
+                "Suprachiasmatic Nucleus",
+                "Paraventricular Nucleus",
+                "Posterior Hypothalamus",
+                "Mammillary Nucleus"
             ],
-            correctAnswer: 2,
-            rationale: "From Slide 17: The **Suprachiasmatic Nucleus (SCN)** regulates circadian rhythms and receives light/dark information directly from the retina."
+            answer: 1,
+            explanation: "The **Suprachiasmatic Nucleus (SCN)** regulates sleep-wake cycles and circadian rhythms."
         },
         {
-            question: "**4. A lesion of the Anterior Hypothalamus would most likely result in:**",
+            question: "Damage to the Anterior Hypothalamus would result in:",
             options: [
-                "Hypothermia (Inability to generate heat)",
-                "Hyperthermia (Inability to dissipate heat)",
-                "Polyuria (Diabetes Insipidus)",
-                "Narcolepsy",
-                "Hyperphagia"
+                "Hypothermia",
+                "Hyperthermia",
+                "Diabetes Insipidus",
+                "Amnesia",
+                "Insomnia"
             ],
-            correctAnswer: 1,
-            rationale: "From Slide 10: The **Anterior** Hypothalamus controls **Cooling** (A/C). Lesions result in **Hyperthermia** because the body cannot dissipate heat. The Posterior Hypothalamus controls Heating."
+            answer: 1,
+            explanation: "The **Anterior** Hypothalamus regulates **Cooling**. Damage prevents cooling, resulting in **Hyperthermia**."
         },
         {
-            question: "**5. Which hormone is secreted by adipose tissue, crosses the blood-brain barrier, and acts on the Arcuate Nucleus to inhibit feeding (anorexigenic)?**",
+            question: "In neurogenic Diabetes Insipidus, there is a lack of which hormone?",
             options: [
-                "Ghrelin",
-                "Leptin",
-                "Insulin",
-                "Cortisol",
-                "Neuropeptide Y"
+                "Oxytocin",
+                "Prolactin",
+                "ADH (Vasopressin)",
+                "TSH",
+                "GH"
             ],
-            correctAnswer: 1,
-            rationale: "From Slide 21/22: **Leptin** is produced by fat cells (adipose) and signals long-term energy stores to the brain, inhibiting appetite (Anorexigenic) via the POMC pathway."
+            answer: 2,
+            explanation: "Neurogenic Diabetes Insipidus causes polyuria due to a failure to secrete **ADH (Vasopressin)** from the posterior pituitary/hypothalamus."
         }
     ],
     flashcards: [
-        { "front": "Function of Lateral Hypothalamus?", "back": "Hunger Center (Lateral = Lean)", "tag": "Physiology" },
-        { "front": "Function of Ventromedial Nucleus?", "back": "Satiety Center (VM = Very Massive)", "tag": "Physiology" },
-        { "front": "Function of Anterior Hypothalamus?", "back": "Cooling (A/C)", "tag": "Physiology" },
-        { "front": "Function of Posterior Hypothalamus?", "back": "Heating (Poikilothermia)", "tag": "Physiology" },
-        { "front": "Nucleus for Circadian Rhythm?", "back": "Suprachiasmatic Nucleus (SCN)", "tag": "Physiology" },
-        { "front": "Nuclei producing ADH/Oxytocin?", "back": "Supraoptic (SON) & Paraventricular (PVN)", "tag": "Physiology" },
-        { "front": "Structure damaged in Wernicke-Korsakoff?", "back": "Mammillary Bodies", "tag": "Pathology" },
-        { "front": "Deficiency causing Wernicke-Korsakoff?", "back": "Thiamine (Vitamin B1)", "tag": "Pathology" },
-        { "front": "Hormone from stomach stimulating hunger?", "back": "Ghrelin ('Growling')", "tag": "Physiology" },
-        { "front": "Hormone from fat inhibiting hunger?", "back": "Leptin", "tag": "Physiology" }
+        {
+            front: "Function of Lateral Hypothalamus",
+            back: "Hunger (Feeding Center)",
+            tag: "Physiology"
+        },
+        {
+            front: "Function of Ventromedial Hypothalamus",
+            back: "Satiety",
+            tag: "Physiology"
+        },
+        {
+            front: "Function of Anterior Hypothalamus",
+            back: "Cooling (Parasympathetic)",
+            tag: "Physiology"
+        },
+        {
+            front: "Function of Posterior Hypothalamus",
+            back: "Heating (Sympathetic/Shivering)",
+            tag: "Physiology"
+        },
+        {
+            front: "Function of Suprachiasmatic Nucleus (SCN)",
+            back: "Circadian Rhythms",
+            tag: "Physiology"
+        },
+        {
+            front: "Function of Mammillary Bodies",
+            back: "Episodic Memory (Papez Circuit)",
+            tag: "Physiology"
+        },
+        {
+            front: "Lesion of Mammillary Bodies causes",
+            back: "Wernicke-Korsakoff Syndrome (Amnesia/Confabulation)",
+            tag: "Pathology"
+        },
+        {
+            front: "Lesion of Lateral Hypothalamus causes",
+            back: "Anorexia (Failure to eat)",
+            tag: "Pathology"
+        },
+        {
+            front: "Lesion of Ventromedial Hypothalamus causes",
+            back: "Hyperphagia (Obesity)",
+            tag: "Pathology"
+        },
+        {
+            front: "Major hormones of Posterior Pituitary",
+            back: "ADH (Vasopressin) and Oxytocin",
+            tag: "Physiology"
+        }
     ],
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Endermo > Hypothalamus",
+        alternatives: [
+            { resource: "FirstAid", chapter: "Neurology > Anatomy > Hypothalamus" },
+            { resource: "Pathoma", chapter: "CNS" }
+        ]
+    },
     mindmap: `
-## Hypothalamic Nuclei
-### Feeding
-*   **Lateral**: Hunger (Orexin)
-*   **Ventromedial**: Satiety
-*   **Arcuate**: Regulator (NPY vs POMC)
-### Temperature
-*   **Anterior**: Cooling (P-Symp)
-*   **Posterior**: Heating (Symp)
-### Endocrine
-*   **SON/PVN**: ADH/Oxytocin (Posterior Pituitary)
-*   **Arcuate/Preoptic**: Releasing Factors (Anterior Pituitary)
-### Other
-*   **SCN**: Circadian Rhythm
-*   **Mammillary**: Memory (Papez)
-`
-};
+## Hypothalamus
 
-if (typeof window !== 'undefined') {
-    window.L11_CONTENT = L11_CONTENT;
-}
+### Nuclei
+*   **Anterior**: Cooling
+*   **Posterior**: Heating
+*   **Lateral**: Hunger
+*   **Ventromedial**: Satiety
+*   **SCN**: Circadian Rhythm
+*   **Mammillary**: Memory
+
+### Hormones (PVN/SON)
+*   **ADH**: Water Retention
+    *   Deficiency: Diabetes Insipidus
+    *   Excess: SIADH
+*   **Oxytocin**: Uterine Contraction
+
+### Clinical
+*   **Wernicke-Korsakoff**: Thiamine Deficiency, Mammillary Bodies
+*   **Obesity**: Leptin Resistance, VMN damage
+*   **Craniopharyngioma**: Compression causes Hypopituitarism
+\`
+};

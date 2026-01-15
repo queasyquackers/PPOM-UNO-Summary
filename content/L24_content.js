@@ -1,165 +1,227 @@
-const L24_CONTENT = {
-    id: 'l24',
-    title: 'Lecture #24: Olfaction and Taste',
-    lecturer: 'G. Otazu, Ph.D.',
-    module: 'Neurology',
-    session: 'Lecture #24',
-    prev: 'l23',
-    next: 'l25',
-    pdf: 'pdfs/Lecture # 24. G. Otazu, Ph.D. (PPT)-1.pdf',
-    transcript: 'transcripts/Lecture #24_ Overview of Olfaction and Taste; Presenter_ G. Otazu, PhD.srt',
-    ankingResource: {
-        primarySource: 'BandB',
-        chapter: 'Neurology > Cranial Nerves > CN I, VII, IX, X'
-    },
+export const L24_CONTENT = {
+    id: "l24",
     summary: `
-# Lecture #24: Olfaction and Taste
+# Lecture 24: Olfaction and Taste
 
-**Lecturer:** Gonzalo Otazu, Ph.D.
-**Session:** Neurology
+**Lecturer:** G. Otazu, Ph.D.
+**Session:** Lecture 24
 
 ## 1. Olfaction (Smell)
-*   **Receptors:** Bipolar neurons in olfactory epithelium. Use **GPCRs** (Golf) -> cAMP -> Ca2+/Na+ influx -> Depolarization.
-*   **Pathway:** Olfactory Receptor Neurons (CN I) -> Cribriform Plate -> Olfactory Bulb (Glomeruli) -> Mitral/Tufted Cells -> Olfactory Tract.
-*   **Targets:** Does **NOT** relay in Thalamus first!
-    *   *Primary Olfactory Cortex:* Piriform Cortex, Periamygdaloid cortex.
-    *   *Secondary:* Entorhinal cortex (Memory), Orbitofrontal cortex (Reward/Discrimination), Amygdala (Emotion).
-*   **Regeneration:** Olfactory neurons regenerate (basal cells), but capacity decreases with age.
+*   **Receptors:** Bipolar neurons in olfactory epithelium.
+    *   *Turnover:* Every 7 days (stem cells).
+    *   *Receptors:* GPCRs.
+*   **Pathway:**
+    1.  Olfactory Nerves (CN I) pass through **Cribriform Plate** of Ethmoid bone.
+    2.  Synapse in **Glomeruli** of Olfactory Bulb.
+    3.  **Mitral/Tufted Cells** (Second order) form Olfactory Tract.
+    4.  Project directly to **Primary Olfactory Cortex (Piriform Cortex)**, Amygdala, Entorhinal Cortex.
+    *   *Note:* Olfaction is the **ONLY** sense that bypasses the Thalamus before reaching the cortex.
 
-## 2. Gustation (Taste)
-*   **Papillae:** Filiform (mechanical, no taste), Fungiform (tip), Foliate (sides), Circumvallate (back).
+## 2. Taste (Gustation)
 *   **Modalities:**
-    *   **Salty:** Na+ channel (Amiloride-sensitive).
-    *   **Sour:** H+ channel (TRP).
-    *   **Sweet/Bitter/Umami:** GPCRs.
+    *   **Salty:** Na+ influx (Amiloride-sensitive channels).
+    *   **Sour:** H+ ions (Block K+ channels).
+    *   **Sweet/Bitter/Umami:** GPCRs (G-protein coupled).
 *   **Innervation:**
-    *   *Anterior 2/3:* **CN VII** (Chorda Tympani).
-    *   *Posterior 1/3:* **CN IX**.
-    *   *Epiglottis/Pharynx:* **CN X**.
-*   **Pathway:** Solitary Nucleus (NTS) -> VPM (Thalamus) -> Gustatory Cortex (Insula/Operculum).
+    *   **Anterior 2/3:** CN VII (Facial - Chorda Tympani).
+    *   **Posterior 1/3:** CN IX (Glossopharyngeal).
+    *   **Epiglottis/Pharynx:** CN X (Vagus).
+*   **Pathway:**
+    1.  Nerves project to **Nucleus Tractus Solitarius (NTS)** in Medulla.
+    2.  Project to **VPM** of Thalamus.
+    3.  Project to **Gustatory Cortex** (Insula/Frontal Operculum).
 
-## 3. Olfactory Disorders
-*   **Anosmia:** Loss of smell.
-    *   *Causes:* Trauma (cribriform plate fracture), Viral (COVID), Sinonasal disease.
-*   **Kallmann Syndrome:** Anosmia + Hypogonadotropic Hypogonadism (GnRH neurons fail to migrate).
-*   **Foster-Kennedy Syndrome:** Meningioma of olfactory groove.
-    *   *Triad:* Ipsilateral Anosmia, Ipsilateral Optic Atrophy, Contralateral Papilledema.
-*   **Neurodegeneration:** Anosmia is an **EARLY** sign of Parkinson's and Alzheimer's.
-*   **Phantosmia/Uncinate Fits:** Olfactory hallucinations (often "burning rubber") due to temporal lobe seizures.
-
-## 4. Clinical Correlates
+## 3. Clinical Correlates
 :::correlate
 **Kallmann Syndrome**
-*   **Def:** Constitutional delay of puberty + Anosmia.
-*   **Path:** Failure of GnRH producing neurons to migrate from olfactory pit to hypothalamus.
-*   **Labs:** Low FSH, Low LH, Low Testosterone/Estrogen.
+*   **Triad:** Anosmia + Delayed Puberty (Hypogonadism).
+*   **Mechanism:** Failure of GnRH neurons to migrate from olfactory placode to hypothalamus.
 :::
 
 :::correlate
-**Foster Kennedy Syndrome**
-*   **Cause:** Frontal lobe tumor (Meningioma).
-*   **S/Sx:**
-    1.  **Anosmia** (CN I compression).
-    2.  **Optic Atrophy** (Ipsilateral CN II compression).
-    3.  **Papilledema** (Contralateral - due to raised ICP).
+**Foster-Kennedy Syndrome**
+*   **Cause:** Meningioma of the Olfactory Groove.
+*   **Triad:**
+    1.  **Ipsilateral Anosmia** (Tumor compresses olfactory tract).
+    2.  **Ipsilateral Optic Atrophy** (Tumor compresses Optic Nerve).
+    3.  **Contralateral Papilledema** (Increased intracranial pressure).
 :::
 
 :::correlate
-**Taste & Zinc**
-*   **Dysgeusia:** Distortion of taste.
-*   **Cause:** Zinc deficiency is a common reversible cause.
+**Uncinate Fits (Temporal Lobe Epilepsy)**
+*   Seizures originating in the **Uncus** (Medial Temporal Lobe).
+*   **Aura:** Hallucination of foul smells (**Cacosmia**).
+:::
+
+:::correlate
+**Neurodegenerative Diseases**
+*   **Parkinson's / Alzheimer's:** **Hyposmia** (decreased smell) is often the *earliest* clinical sign, appearing years before motor or cognitive symptoms.
 :::
 `,
-    questions: [
+    pearls: [
         {
-            question: "**1. Which cranial nerve carries taste sensation from the anterior two-thirds of the tongue?**",
-            options: [
-                "CN V (Trigeminal)",
-                "CN VII (Facial)",
-                "CN IX (Glossopharyngeal)",
-                "CN X (Vagus)",
-                "CN XII (Hypoglossal)"
-            ],
-            correctAnswer: 1,
-            rationale: "**CN VII** (via Chorda Tympani) supplies taste to the anterior 2/3. CN V supplies somatic sensation (touch/pain) to the same area."
+            title: "Olfactory Pathway Uniqueness",
+            content: "Olfaction is the only sensory modality that projects directly to the cortex **without** relaying through the Thalamus first."
         },
         {
-            question: "**2. A 15-year-old male presents with delayed puberty and inability to smell. What is the diagnosis?**",
+            title: "Kallmann Syndrome",
+            content: "Teenager with **No Smell** + **No Puberty**. (GnRH neuron migration failure)."
+        },
+        {
+            title: "Foster-Kennedy Syndrome",
+            content: "Olfactory Groove Meningioma: **Ipsilateral Anosmia/Optic Atrophy** + **Contralateral Papilledema**."
+        },
+        {
+            title: "Taste Innervation",
+            content: "Anterior 2/3 = **CN VII**.\\nPosterior 1/3 = **CN IX**.\\nThroat = **CN X**."
+        },
+        {
+            title: "Taste Transduction",
+            content: "Salty/Sour = **Ion Channels**.\\nSweet/Bitter/Umami = **GPCRs**."
+        }
+    ],
+    questions: [
+        {
+            question: "A 16-year-old male presents with delayed puberty. Physical exam reveals small testes and a complete inability to smell since birth. What is the most likely diagnosis?",
             options: [
-                "Turner Syndrome",
                 "Klinefelter Syndrome",
                 "Kallmann Syndrome",
                 "Foster-Kennedy Syndrome",
-                "Cystic Fibrosis"
+                "Turner Syndrome",
+                "Uncinate Epilepsy"
             ],
-            correctAnswer: 2,
-            rationale: "**Kallmann Syndrome** is characterized by the association of Anosmia and Hypogonadotropic Hypogonadism (delayed puberty)."
+            answer: 1,
+            explanation: "**Kallmann Syndrome** is characterized by hypogonadotropic hypogonadism (delayed puberty) and **anosmia** due to migration failure of GnRH neurons."
         },
         {
-            question: "**3. Olfactory information projects directly to the cortex without first passing through which structure (unlike other senses)?**",
+            question: "A patient presents with seizures preceded by a hallucination of a foul smell (burning rubber). Where is the seizure focus likely located?",
             options: [
-                "Thalamus",
-                "Cribriform plate",
-                "Olfactory Bulb",
-                "Amygdala",
-                "Hypothalamus"
-            ],
-            correctAnswer: 0,
-            rationale: "Olfaction is the unique sensory modality that bypasses the **Thalamus** to project directly to the primary olfactory cortex."
-        },
-        {
-            question: "**4. Foster-Kennedy Syndrome involves a tumor in which location?**",
-            options: [
-                "Olfactory Groove / Frontal Lobe",
-                "Pituitary Gland",
-                "Cerebellopontine Angle",
-                "Temporal Lobe",
-                "Occipital Lobe"
-            ],
-            correctAnswer: 0,
-            rationale: "Foster-Kennedy syndrome is caused by a meningioma in the **Olfactory Groove** compressing CN I and CN II."
-        },
-        {
-            question: "**5. \"Burning rubber\" smells (uncinate fits) are associated with seizures in which lobe?**",
-            options: [
-                "Frontal",
-                "Parietal",
-                "Temporal",
-                "Occipital",
+                "Postcentral Gyrus",
+                "Occipital Lobe",
+                "Uncus (Temporal Lobe)",
+                "Frontal Lobe",
                 "Cerebellum"
             ],
-            correctAnswer: 2,
-            rationale: "The primary olfactory cortex (Piriform/Uncus) is in the **Temporal Lobe**. Seizures here cause olfactory hallucinations."
+            answer: 2,
+            explanation: "**Uncinate fits** are temporal lobe seizures involving the **Uncus** (primary olfactory cortex area), resulting in olfactory hallucinations (**Cacosmia**)."
+        },
+        {
+            question: "Which cranial nerve is responsible for taste sensation on the anterior two-thirds of the tongue?",
+            options: [
+                "Trigeminal (V)",
+                "Facial (VII)",
+                "Glossopharyngeal (IX)",
+                "Vagus (X)",
+                "Hypoglossal (XII)"
+            ],
+            answer: 1,
+            explanation: "The **Facial Nerve (CN VII)** carries taste from the anterior 2/3 of the tongue (via the Chorda Tympani)."
+        },
+        {
+            question: "A 55-year-old woman presents with loss of smell in her right ear and vision loss in her right eye. Fundoscopy reveals right optic atrophy and left papilledema. What is the most likely diagnosis?",
+            options: [
+                "Pituitary Adenoma",
+                "Foster-Kennedy Syndrome",
+                "Multiple Sclerosis",
+                "Occipital Stroke",
+                "Glioblastoma Multiforme"
+            ],
+            answer: 1,
+            explanation: "**Foster-Kennedy Syndrome** (Olfactory Groove Meningioma) causes **ipsilateral anosmia and optic atrophy** (direct compression) and **contralateral papilledema** (ICP)."
+        },
+        {
+            question: "Loss of olfaction is often an early prodromal sign of which neurodegenerative disorder?",
+            options: [
+                "Amyotrophic Lateral Sclerosis (ALS)",
+                "Parkinson's Disease",
+                "Huntington's Disease",
+                "Multiple Sclerosis",
+                "Myasthenia Gravis"
+            ],
+            answer: 1,
+            explanation: "**Hyposmia** (loss of smell) frequently precedes motor symptoms in **Parkinson's Disease** (and Alzheimer's) by several years."
         }
     ],
     flashcards: [
-        { "front": "Taste Anterior 2/3 tongue?", "back": "CN VII (Chorda Tympani)", "tag": "Neuro" },
-        { "front": "Taste Posterior 1/3 tongue?", "back": "CN IX (Glossopharyngeal)", "tag": "Neuro" },
-        { "front": "Taste Epiglottis?", "back": "CN X (Vagus)", "tag": "Neuro" },
-        { "front": "Diagnosis: Anosmia + No Puberty?", "back": "Kallmann Syndrome", "tag": "Neuro" },
-        { "front": "Early sign of Parkinson's/Alzheimer's?", "back": "Anosmia/Hyposmia", "tag": "Neuro" },
-        { "front": "Foster Kennedy Triad?", "back": "Ipsilateral Anosmia, Ipsilateral Optic Atrophy, Contralateral Papilledema", "tag": "Neuro" },
-        { "front": "Olfactory Hallucinations (Uncinate Fits) location?", "back": "Temporal Lobe (Uncus) Seizure", "tag": "Neuro" },
-        { "front": "Does Olfaction go to Thalamus first?", "back": "No (Direct to Cortex)", "tag": "Neuro" },
-        { "front": "Primary Olfactory Cortex location?", "back": "Piriform Cortex (Temporal Lobe)", "tag": "Neuro" },
-        { "front": "Salty Taste Mechanism?", "back": "Na+ Channel", "tag": "Neuro" }
+        {
+            front: "Diagnosis: Anosmia + No Puberty",
+            back: "Kallmann Syndrome",
+            tag: "Neurology"
+        },
+        {
+            front: "Diagnosis: Ipsilateral Anosmia/Optic Atrophy + Contralateral Papilledema",
+            back: "Foster-Kennedy Syndrome",
+            tag: "Neurology"
+        },
+        {
+            front: "CN for Taste: Anterior 2/3 Tongue",
+            back: "CN VII (Facial)",
+            tag: "Anatomy"
+        },
+        {
+            front: "CN for Taste: Posterior 1/3 Tongue",
+            back: "CN IX (Glossopharyngeal)",
+            tag: "Anatomy"
+        },
+        {
+            front: "Taste Modalities using Ion Channels",
+            back: "Salty (Na+) and Sour (H+)",
+            tag: "Physiology"
+        },
+        {
+            front: "Taste Modalities using GPCRs",
+            back: "Sweet, Bitter, Umami",
+            tag: "Physiology"
+        },
+        {
+            front: "Seizure aura with foul smell (Cacosmia)",
+            back: "Uncinate Fit (Temporal Lobe/Uncus)",
+            tag: "Neurology"
+        },
+        {
+            front: "Unique feature of Olfactory Pathway",
+            back: "Does not relay in Thalamus before Cortex",
+            tag: "Anatomy"
+        },
+        {
+            front: "Primary Olfactory Cortex location",
+            back: "Piriform Cortex (Temporal Lobe)",
+            tag: "Anatomy"
+        },
+        {
+            front: "Thalamic Nucleus for Taste",
+            back: "VPM (Ventral Posteromedial)",
+            tag: "Anatomy"
+        }
     ],
+    ankingResource: {
+        primarySource: "AMBOSS",
+        chapter: "Neurology > Cranial Nerves",
+        alternatives: [
+            { resource: "FirstAid", chapter: "Neurology > Otology/Ophthalmology" },
+            { resource: "BandB", chapter: "Neurology > The Chemical Senses" }
+        ]
+    },
     mindmap: `
-## Chemical Senses
-### Olfaction (CN I)
-*   **Path**: Epithelium -> Bulb -> Tract -> Piriform Cortex (No Thalamus).
-*   **Pathology**:
-    *   *Kallmann*: Anosmia + Hypogonadism.
-    *   *Foster-Kennedy*: Tumor. Anosmia + Optic Atrophy + Papilledema.
-    *   *Neurodegen*: Parkinson's/Alzheimer's Early sign.
-### Gustation (Taste)
-*   **Anterior 2/3**: CN VII.
-*   **Posterior 1/3**: CN IX.
-*   **Epiglottis**: CN X.
-*   **Path**: Solitary Nucleus (NTS) -> VPM (Thalamus) -> Insula.
-`
-};
+## Olfaction & Taste
 
-if (typeof window !== 'undefined') {
-    window.L24_CONTENT = L24_CONTENT;
-}
+### Olfaction (CN I)
+*   **Receptors**: Bipolar (mucosa).
+*   **Pathway**: Bulb -> Tract -> **Piriform Cortex** (No Thalamus).
+*   **Pathology**:
+    *   **Kallmann**: Anosmia + Hypogonadism.
+    *   **Foster-Kennedy**: Meningioma. Ipsilateral Atrophy/Anosmia, Contralateral Papilledema.
+    *   **Uncinate Fit**: Seizure + Cacosmia.
+    *   **Parkinson's**: Early Hyposmia.
+
+### Taste
+*   **Nerves**:
+    *   Ant 2/3: **CN VII**
+    *   Post 1/3: **CN IX**
+    *   Throat: **CN X**
+*   **Pathway**: NTS -> VPM (Thalamus) -> Insula.
+*   **Sensation**:
+    *   Ion Channels: Salty/Sour.
+    *   GPCR: Sweet/Bitter/Umami.
+\`
+};

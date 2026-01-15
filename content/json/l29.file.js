@@ -1,60 +1,152 @@
 window.receiveLectureContent({
   "id": "l29",
-  "title": "Lecture #29: Neocortical Development",
-  "lecturer": "R. Ramos, Ph.D.",
-  "module": "Neuro",
-  "session": "Lecture #29",
-  "prev": "l28",
-  "next": "l30",
-  "pdf": "pdfs/Lecture # 29. R. Ramos, Ph.D. (PPT).pdf",
-  "summary": "# Lecture #29: Neocortical Development\n\n**Lecturer:** R. Ramos, Ph.D.\n**Session:** Lecture #29\n\n## 1. Early Development (Slide 3-5)\n*   **Neural Tube:** Origin of CNS.\n*   **Neuroepithelium:** Proliferative zone around the ventricle (Ventricular Zone).\n*   **Symmetric Division:** Generates more progenitor cells (expands the pool).\n*   **Asymmetric Division:** Generates one progenitor and one *Neuroblast* (neuron) or Glioblast.\n\n## 2. Radial Migration (Slide 6-9)\n*   **Radial Glia:** Specialized cells that act as scaffolds/guides. Cell body in ventricular zone, process extends to pial surface.\n*   **Mechanism:** Neuroblasts climb the radial glia \"ladder\" to reach the cortex.\n*   **Inside-Out Development:**\n    *   First neurons form the deepest layers (Layer VI).\n    *   Subsequent neurons migrate *past* the older ones to form more superficial layers (V, IV, III, II).\n    *   **Analogy:** Getting on an elevator; the first person goes to the back, the last person stands at the front (actually, closer to: building a house from bottom up, but the new bricks fly through the old ones).\n    *   **Order:** VI -> V -> IV -> III -> II. (Layer I is formed early as the preplate).\n\n## 3. Tangential Migration (Slide 10)\n*   **Interneurons (GABAergic):** Do not follow radial glia.\n*   **Origin:** Ganglionic Eminences (MGE/LGE) in the basal telencephalon.\n*   **Route:** Migrate tangentially (sideways) into the cortex to integrate with excitatory cells.\n\n## 4. Growth Cone & Axon Guidance (Slide 12-15)\n*   **Growth Cone:** The \"hand\" at the tip of the growing axon.\n    *   **Filopodia:** Fingers (actin).\n    *   **Lamellipodia:** Palm (tubulin).\n*   **Chemoattractants:** \"Come here\" signals (e.g., Netrins).\n*   **Chemorepellents:** \"Go away\" signals (e.g., Semaphorins, Slit).\n*   **Pioneer Axons:** The first axons to pathfind; others follow (fasciculation).\n\n## 5. Synaptogenesis & Pruning (Slide 16-18)\n*   **Overproduction:** Brain produces way more synapses than needed (\"Exuberant Synaptogenesis\").\n*   **Pruning (Apoptosis):** \"Use it or lose it\". Active connections are strengthened (Neurotrophins); inactive ones are eliminated.\n*   **Critical Periods:** Windows of plasticity where sensory input is required for proper wiring (e.g., Vision).\n\n## 6. Clinical Correlates\n\n:::correlate\n**Lissencephaly (\"Smooth Brain\")**\n*   **Pathophysiology:** Defect in neuronal migration. Neurons fail to reach outer layers.\n*   **Genetics:** LIS1 gene mutation (reelin pathway).\n*   **Presentation:** Absence of gyri/sulci (agrammatic), distinct thick cortex (pachygyria), severe intellectual disability, seizures.\n*   **Mechanism:** Disruption of \"Inside-Out\" patterning.\n:::\n\n:::correlate\n**Heterotopia**\n*   **Pathophysiology:** \"Matter out of place\". Clusters of gray matter located in white matter or along ventricles.\n*   **Cause:** Arrested migration (stopped too early).\n*   **Presentation:** Seizures (Epilepsy) in an otherwise normal-looking individual (Periventricular Nodular Heterotopia).\n:::\n\n:::correlate\n**Fetal Alcohol Syndrome**\n*   **Mechanism:** Alcohol is a teratogen interfering with cell proliferation and migration (L1 cell adhesion molecule disruption).\n*   **Presentation:** Microcephaly, developmental delay, facial anomalies (smooth philtrum, thin vermilion border).\n:::\n\n:::correlate\n**Holoprosencephaly**\n*   **Pathophysiology:** Failure of prosencephalon (forebrain) to separate into two hemispheres.\n*   **Timing:** Weeks 5-6.\n*   **Genetics:** Sonic Hedgehog (SHH) path defect.\n*   **Presentation:** Cyclopia, cleft lip/palate, single ventricle (Alobar - most severe).\n:::",
-  "mindmap": "## Neocortical Development\n### Proliferation\n*   **Zone**: Ventricular Zone\n*   **Division**: Symmetric (Expand) -> Asymmetric (Neuroblast)\n### Migration\n*   **Radial**: Excitatory. Uses Radial Glia. Inside-Out (VI->II).\n*   **Tangential**: Inhibitory. From Ganglionic Eminences.\n### Wiring\n*   **Growth Cone**: Actin (Filopodia). Guides axon.\n*   **Cues**: Attractants (Netrin), Repellents (Slit).\n*   **Pruning**: Apoptosis of unused connections.\n### Pathology\n*   **Lissencephaly**: Smooth brain. Migration failure.\n*   **Heterotopia**: Stuck neurons. Seizures.\n*   **Holoprosencephaly**: Single hemisphere.",
-  "questions": [],
+  "summary": "# Lecture 29: Neocortical Development\n\n**Lecturer:** R. Ramos, Ph.D.\n**Session:** Lecture 29\n\n## 1. The 3 P's of Brain Development\n1.  **Production (Proliferation):** Making neurons.\n2.  **Placement (Migration):** Moving neurons to correct layers.\n3.  **Performance:** Synaptic function.\n\n## 2. Production (Proliferation)\n*   **Location:** **Ventricular Zone (VZ)**.\n*   **Mechanism:** Radial Glial cells divide to produce neurons.\n*   **Pathology:**\n    *   **Primary Microcephaly:** \"Small brain\". Reduced proliferation.\n        *   *Genes:* **ASPM** (Abnormal Spindle-like Microcephaly), **Citron Kinase**.\n    *   **Hemi-megalencephaly:** One hemisphere is too large. excess proliferation. (Risk of Epilepsy).\n\n## 3. Placement (Migration)\n*   **Pattern:** **Inside-Out**. Oldest neurons are deep (Layer 6), Youngest are superficial (Layer 2).\n*   **Guidance:** **Radial Glia** fibers guide neurons. **Reelin** (secreted by **Cajal-Retzius cells** in Layer 1) tells them when to stop.\n*   **Pathology (neuronal migration disorders):**\n    *   **Periventricular Nodular Heterotopia (PVH):** Neurons fail to leave VZ. Nodules lining ventricles.\n        *   *Gene:* **Filamin A**.\n    *   **Subcortical Band Heterotopia (Double Cortex):** Neurons stuck in white matter (Intermediate Zone).\n        *   *Genes:* **DCX**, **LIS1**.\n    *   **Lissencephaly (\"Smooth Brain\"):** No gyri (Agyria).\n        *   *Gene:* **Reelin** mutations.\n    *   **Molecular Layer Heterotopia:** Neurons migrate *too far* (past Layer 2 into Layer 1). Associated with **Dyslexia** and **Epilepsy**.\n\n## 4. Gyrification\n*   **Timeline:** Large fissures (Sylvian) form first (14w). Frontal gyri form last.",
+  "title": "Lecture 29: Neocortical Development",
+  "module": "Neuroscience",
+  "questions": [
+    {
+      "question": "A newborn MRI shows a smooth brain surface with no gyri or sulci. What is the most likely diagnosis?",
+      "options": [
+        "Hemi-megalencephaly",
+        "Lissencephaly",
+        "Periventricular Nodular Heterotopia",
+        "Double Cortex Syndrome",
+        "Porencephaly"
+      ],
+      "answer": 1,
+      "explanation": "**Lissencephaly** literally means 'Smooth Brain'. It is a severe migration disorder where gyri fail to form (Agyria)."
+    },
+    {
+      "question": "Which cell type serves as the scaffold for neuronal migration in the developing neocortex?",
+      "options": [
+        "Astrocytes",
+        "Oligodendrocytes",
+        "Radial Glia",
+        "Microglia",
+        "Schwann Cells"
+      ],
+      "answer": 2,
+      "explanation": "**Radial Glia** extend processes from the ventricle to the pial surface, acting as 'train tracks' for migrating neurons."
+    },
+    {
+      "question": "An MRI reveals nodules of gray matter lining the lateral ventricles. Which gene mutation is most strongly associated with this finding?",
+      "options": [
+        "Reelin",
+        "Filamin A",
+        "DCX",
+        "ASPM",
+        "MAPT"
+      ],
+      "answer": 1,
+      "explanation": "This describes **Periventricular Nodular Heterotopia** (PVH). The classic association is **Filamin A** (an actin-binding protein needed for migration initiation)."
+    },
+    {
+      "question": "In the 'Inside-Out' pattern of cortical development, which layer is formed LAST?",
+      "options": [
+        "Layer 6",
+        "Layer 5",
+        "Layer 4",
+        "Layer 2",
+        "Subplate"
+      ],
+      "answer": 3,
+      "explanation": "Deep layers (6) form first. Superficial layers (2) form last. (Layer 1 is the marginal zone and exists early, but the *cortical plate* neurons fill in 6->2)."
+    },
+    {
+      "question": "Molecular Layer Heterotopia (neurons migrating too far) is often found in the brains of patients with:",
+      "options": [
+        "Parkinson's Disease",
+        "Dyslexia",
+        "ALS",
+        "Huntington's Disease",
+        "Multiple Sclerosis"
+      ],
+      "answer": 1,
+      "explanation": "Small clusters of neurons in Layer 1 (Molecular Layer Heterotopia) are seen in **Dyslexia** and **Epilepsy**."
+    }
+  ],
   "flashcards": [
     {
-      "front": "Pattern of Cortical Layering?",
-      "back": "Inside-Out (VI first, II last)",
-      "tag": "Neuro"
+      "front": "Inside-Out Migration meaning",
+      "back": "Deep layers (6) formed first, Superficial (2) formed last",
+      "tag": "Embryology"
     },
     {
-      "front": "Role of Radial Glia?",
-      "back": "Scaffold for radial migration of excitatory neurons",
-      "tag": "Neuro"
+      "front": "Radial Glia function",
+      "back": "Progenitor cells + Scaffold for migration",
+      "tag": "Embryology"
     },
     {
-      "front": "Origin of Cortical Interneurons?",
-      "back": "Ganglionic Eminences (Tangential Migration)",
-      "tag": "Neuro"
+      "front": "Gene for Periventricular Nodular Heterotopia",
+      "back": "Filamin A",
+      "tag": "Pathology"
     },
     {
-      "front": "Lissencephaly means?",
-      "back": "Smooth Brain (Migration defect)",
-      "tag": "Neuro"
+      "front": "Gene for Double Cortex Syndrome",
+      "back": "DCX / LIS1",
+      "tag": "Pathology"
     },
     {
-      "front": "Heterotopia means?",
-      "back": "Gray matter in wrong place (e.g., periventricular)",
-      "tag": "Neuro"
+      "front": "Gene for Microcephaly",
+      "back": "ASPM / Citron Kinase",
+      "tag": "Pathology"
     },
     {
-      "front": "Growth Cone 'Fingers'?",
-      "back": "Filopodia (Actin)",
-      "tag": "Neuro"
+      "front": "Cells that secrete Reelin",
+      "back": "Cajal-Retzius Cells (Layer 1)",
+      "tag": "Embryology"
     },
     {
-      "front": "Chemoattractant example?",
-      "back": "Netrin",
-      "tag": "Neuro"
+      "front": "Lissencephaly means...",
+      "back": "Smooth Brain (Agyria)",
+      "tag": "Pathology"
     },
     {
-      "front": "Chemorepellent example?",
-      "back": "Slit, Semaphorin",
-      "tag": "Neuro"
+      "front": "Molecular Layer Heterotopia association",
+      "back": "Dyslexia / Epilepsy",
+      "tag": "Pathology"
     },
     {
-      "front": "Holoprosencephaly cause?",
-      "back": "Failure of hemispheres to separate (SHH defect)",
-      "tag": "Neuro"
+      "front": "Ventricular Zone function",
+      "back": "Site of neuronal proliferation",
+      "tag": "Embryology"
+    },
+    {
+      "front": "3 P's of Brain Dev",
+      "back": "Production, Placement, Performance",
+      "tag": "Embryology"
+    }
+  ],
+  "ankingResource": {
+    "primarySource": "AMBOSS",
+    "chapter": "Pediatrics > Neurology > Congenital anomalies",
+    "alternatives": [
+      {
+        "resource": "FirstAid",
+        "chapter": "Neurology > Embryology"
+      }
+    ]
+  },
+  "pearls": [
+    {
+      "title": "Inside-Out Migration",
+      "content": "Neocortex forms **Inside-Out**. Layer 6 is born first. Layer 2 is born last."
+    },
+    {
+      "title": "Double Cortex Syndrome",
+      "content": "Also called **Subcortical Band Heterotopia**. A band of gray matter is stuck in the white matter between the cortex and ventricle."
+    },
+    {
+      "title": "Reelin Function",
+      "content": "Secreted by **Cajal-Retzius cells** in the Marginal Zone (Layer 1). Acts as a 'Stop' signal for migrating neurons."
+    },
+    {
+      "title": "Primary Microcephaly Genes",
+      "content": "**ASPM** and **Citron Kinase**. Defects in mitosis/cytokinesis."
+    },
+    {
+      "title": "Filamin A Mutation",
+      "content": "Causes **Periventricular Nodular Heterotopia** (Neurons stuck at the starting line)."
     }
   ]
 });

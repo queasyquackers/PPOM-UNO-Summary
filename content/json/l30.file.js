@@ -1,65 +1,142 @@
 window.receiveLectureContent({
   "id": "l30",
-  "title": "Lecture #30: Supraspinal Motor I (Cortex/BS)",
-  "lecturer": "I. Kurtzer, Ph.D.",
-  "module": "Neuro",
-  "session": "Lecture #30",
-  "prev": "l29",
-  "next": "l31",
-  "pdf": "pdfs/Lecture # 30. I. Kurtzer, Ph.D. (PPT).pdf",
-  "summary": "# Lecture #30: Supraspinal Motor Systems I (Cortex & Brainstem)\n\n**Lecturer:** I. Kurtzer, Ph.D.\n**Session:** Lecture #30\n\n## 1. Hierarchy of Motor Control (Slide 3)\n1.  **Cortex:** Strategy, Planning, Voluntary initiation.\n2.  **Brainstem:** Posture, Balance, Gross synergy.\n3.  **Spinal Cord:** Execution, Reflexes, CPGs.\n\n## 2. Descending Tracts (Slide 5-15)\n### Lateral Group (Voluntary, Distal)\n*   **Lateral Corticospinal Tract (LCST):**\n    *   **Origin:** M1 (Layer V Betz cells).\n    *   **Decussation:** Pyramids (Medulla).\n    *   **Target:** Contralateral distal limb muscles (Fractionated movement - fingers).\n    *   **Lesion:** Loss of fine motor control (RIMP).\n*   **Rubrospinal Tract:**\n    *   **Origin:** Red Nucleus (Midbrain).\n    *   **Decussation:** Immediate (Ventral Tegmental).\n    *   **Function:** Flexor bias (arms). Minor in humans.\n\n### Medial Group (Posture, Proximal)\n*   **Vestibulospinal Tracts:**\n    *   **Lateral VST:** Extensor bias (Anti-gravity). Balance.\n    *   **Medial VST:** Head/Neck stabilization (VCR).\n*   **Reticulospinal Tracts:**\n    *   **Pontine:** Extensor bias.\n    *   **Medullary:** Flexor bias.\n    *   **Function:** Feedforward postural adjustments.\n*   **Tectospinal Tract:**\n    *   **Origin:** Superior Colliculus.\n    *   **Function:** Head/Eye turning reflex to stimulus.\n\n## 3. Cortical Motor Areas (Slide 16-25)\n*   **Primary Motor (M1):** Area 4. Execution.\n    *   *Somatotopy:* Homunculus (Fat thumb, big face).\n    *   *Coding:* Encodes **Force** and **Direction** (Population coding).\n*   **Premotor Cortex (PMC):** Area 6 (Lateral).\n    *   *Function:* Sensory-guided movement (External cues). E.g., Catching a ball.\n*   **Supplementary Motor Area (SMA):** Area 6 (Medial).\n    *   *Function:* Internally generated sequences. Mental rehearsal. E.g., Playing piano from memory.\n\n## 4. Decerebrate vs. Decorticate (Slide 14)\n*   **Decorticate (Flexor Posture):**\n    *   *Lesion:* Above Red Nucleus (e.g., Capsule/Thalamus).\n    *   *Sign:* Arms Flexed (Mummy).\n    *   *Reason:* Red Nucleus intact (Rubrospinal flexor drive) + Vestibulospinal (Extensor) -> Arms Flex, Legs Extend.\n*   **Decerebrate (Extensor Posture):**\n    *   *Lesion:* Below Red Nucleus (e.g., Midbrain/Pons).\n    *   *Sign:* Arms Extended (Waiter's tip).\n    *   *Reason:* Red Nucleus knocked out. Unopposed Vestibulospinal extensor drive. **Worse prognosis.**\n\n## 5. Clinical Correlates\n\n:::correlate\n**Upper Motor Neuron (UMN) Syndrome**\n*   **Lesion:** Cortex or Descending Tract (Corticospinal).\n*   **Signs:**\n    *   **Spasticity** (Velocity-dependent Hypertonia).\n    *   **Hyperreflexia** (Increased DTRs).\n    *   **Babinski Sign** (+) (Upgoing toe).\n    *   **Weakness** (Paresis > Plegia).\n    *   **Clonus**.\n:::\n\n:::correlate\n**Lower Motor Neuron (LMN) Syndrome**\n*   **Lesion:** Alpha Motor Neuron (Ventral Horn) or Peripheral Nerve.\n*   **Signs:**\n    *   **Flaccidity** (Hypotonia).\n    *   **Hyporeflexia** (Decreased DTRs).\n    *   **Atrophy** (Muscle wasting).\n    *   **Fasciculations** (Twitching).\n:::\n\n:::correlate\n**Capsular Stroke**\n*   **Lesion:** Posterior Limb of Internal Capsule.\n*   **Presentation:** Pure Motor Hemiparesis (Contralateral face, arm, leg).\n*   **Vessel:** Lenticulostriate arteries.\n:::",
-  "mindmap": "## Supraspinal Motor I\n### Descending Tracts\n*   **Lateral**: Voluntary\n    *   **LCST**: Fine Motor, Distal.\n    *   **Rubrospinal**: Flexor (arm).\n*   **Medial**: Posture\n    *   **Vestibulospinal**: Extensor (Balance).\n    *   **Reticulospinal**: Postural sets.\n    *   **Tectospinal**: Head/Eye turn.\n### Cortex Areas\n*   **M1**: Execution (Force/Direction).\n*   **SMA**: Internal sequences.\n*   **PMC**: External cues.\n### Pathology\n*   **UMN**: Spastic, Babinski.\n*   **LMN**: Atrophy, Fasciculations.\n*   **Decorticate**: Flexed (Above Red Nuc).\n*   **Decerebrate**: Extended (Below Red Nuc).",
-  "questions": [],
+  "summary": "# Lecture 30: Supraspinal Motor Systems (Cortex & Brainstem)\n\n**Lecturer:** I. Kurtzer, Ph.D.\n**Session:** Lecture 30\n\n## 1. Pyramidal System (Upper Motor Neurons)\n*   **Definition:** UMNs originate in the Cortex (M1, Premotor, SMA) and project to LMNs in the Brainstem or Spinal Cord.\n*   **Corticospinal Tract (CST):**\n    *   **Lateral CST (85%):** Decussates at Medullary Pyramids. Controls **Distal Limbs** (Fine motor).\n    *   **Ventral CST (15%):** Descends ipsilaterally, decussates in spinal cord. Controls **Axial/Proximal** muscles (Posture).\n*   **Corticobulbar Tract:**\n    *   Controls Cranial Nerves (Head/Neck).\n    *   **Innervation:** Most CN nuclei receive **Bilateral** input.\n    *   **Exceptions:**\n        *   **CN VII (Face):** **Lower Face** receives only *Contralateral* input. **Upper Face** is *Bilateral*.\n        *   **CN XII (Tongue):** Tongue deviates **AWAY** from the UMN lesion (towards the weak side).\n\n## 2. UMN vs. LMN Lesions\n| Feature | UMN Lesion (Cortex/Stem) | LMN Lesion (Nerve/Root) |\n| :--- | :--- | :--- |\n| **Tone** | **Spastic** (Increased) | **Flaccid** (Decreased) |\n| **Reflexes** | **Hyperreflexia** | **Hyporeflexia** |\n| **Babinski** | **Present (+)** (Toe up) | Absent (Toe down) |\n| **Atrophy** | Mild (Disuse) | **Severe** (Denervation) |\n| **Fasciculations** | No | **Yes** |\n\n## 3. Brainstem Tracts & Posturing\n*   **Rubrospinal Tract:** Originates in **Red Nucleus** (Midbrain). Flexor tones of upper limbs.\n*   **Vestibulospinal Tract:** Extensor tone (Antigravity).\n*   **Decorticate Posture (\"Mummy\"):**\n    *   *Lesion:* **ABOVE** Red Nucleus (e.g., Cerebral Hemispheres).\n    *   *Presentation:* Arms **Flexed** (Red nucleus intact), Legs Extended.\n*   **Decerebrate Posture:**\n    *   *Lesion:* **BELOW** Red Nucleus (e.g., Pons/Midbrain).\n    *   *Presentation:* Arms **Extended**, Legs Extended (Rubrospinal lost, Vestibulospinal unopposed).\n\n## 4. Specific Clinical Syndromes\n*   **Locked-In Syndrome:**\n    *   *Lesion:* **Pons** (Basilar Artery).\n    *   *Effect:* Bilateral CST/Corticobulbar damage. Quadriplegia + Anarthria (can't speak).\n    *   *Spared:* Vertical eye movements/Blinking (Midbrain/CN III spared). Consciousness intact.\n*   **Bell's Palsy (LMN CN VII):** Paralysis of **Entire Hemi-face** (Forehead + Chin).\n*   **Stroke (UMN CN VII):** Paralysis of **Lower Face Only** (Forehead spared).",
+  "title": "Lecture 30: Supraspinal Motor Systems (Cortex & Brainstem)",
+  "module": "Neurology",
+  "questions": [
+    {
+      "question": "A patient presents with right-sided facial weakness involving the forehead and chin. What is the most likely location of the lesion?",
+      "options": [
+        "Left Motor Cortex (Face area)",
+        "Left Internal Capsule",
+        "Right Facial Nerve (CN VII)",
+        "Left Facial Nucleus",
+        "Right Trigeminal Nerve"
+      ],
+      "answer": 2,
+      "explanation": "Weakness of the **entire** hemiface (forehead + chin) indicates an **LMN** lesion (Bell's Palsy or CN VII injury) on the **same side**."
+    },
+    {
+      "question": "A comatose patient exhibits extension of both the upper and lower extremities when stimulated. This posturing suggests a lesion located:",
+      "options": [
+        "Above the Red Nucleus",
+        "Below the Red Nucleus (e.g., Pons)",
+        "In the Spinal Cord",
+        "In the Thalamus",
+        "In the Cerebellum"
+      ],
+      "answer": 1,
+      "explanation": "Extension of all limbs is **Decerebrate** posturing, which occurs with lesions **below** the Red Nucleus (rubrospinal tract lost)."
+    },
+    {
+      "question": "Which of the following is a classic sign of an Upper Motor Neuron (UMN) lesion?",
+      "options": [
+        "Fasciculations",
+        "Severe Atrophy",
+        "Hyporeflexia",
+        "Babinski Sign",
+        "Flaccidity"
+      ],
+      "answer": 3,
+      "explanation": "**Babinski sign** (extensor plantar response) is a hallmark of **UMN** dysfunction. The others are LMN signs."
+    },
+    {
+      "question": "A patient suffers a stroke affecting the Left Primary Motor Cortex. The tongue deviates to which side upon protrusion?",
+      "options": [
+        "Left",
+        "Right",
+        "Does not deviate",
+        "Upward",
+        "Downward"
+      ],
+      "answer": 1,
+      "explanation": "With a **UMN** lesion (Left Cortex), the tongue deviates **AWAY** from the lesion (towards the weak side). So it points to the **Right**.\\n*Wait, let me double check my pearl... LMN = Toward. UMN = Away. Correct. So Left Cortex lesion -> Right Genioglossus weak -> Tongue points Right. Correct Answer is Right.* (Options: Left/Right)."
+    },
+    {
+      "question": "Which tract is primarily responsible for voluntary fine motor control of the distal upper extremities?",
+      "options": [
+        "Ventral Corticospinal Tract",
+        "Lateral Corticospinal Tract",
+        "Vestibulospinal Tract",
+        "Reticulospinal Tract",
+        "Tectospinal Tract"
+      ],
+      "answer": 1,
+      "explanation": "The **Lateral Corticospinal Tract** controls distal muscles (hands/fingers). The Ventral tract controls axial muscles."
+    }
+  ],
   "flashcards": [
     {
-      "front": "Lateral Corticospinal Tract Function?",
-      "back": "Voluntary Fine Motor (Distal limbs)",
-      "tag": "Neuro"
+      "front": "UMN Lesion Signs",
+      "back": "Spasticity, Hyperreflexia, Babinski (+)",
+      "tag": "Neurology"
     },
     {
-      "front": "Where does LCST decussate?",
+      "front": "LMN Lesion Signs",
+      "back": "Flaccidity, Atrophy, Fasciculations",
+      "tag": "Neurology"
+    },
+    {
+      "front": "Decorticate Posture",
+      "back": "Arms Flexed (Mummy). Lesion Above Red Nucleus.",
+      "tag": "Neurology"
+    },
+    {
+      "front": "Decerebrate Posture",
+      "back": "Arms Extended. Lesion Below Red Nucleus.",
+      "tag": "Neurology"
+    },
+    {
+      "front": "Bell's Palsy vs Stroke (Face)",
+      "back": "Bell's (LMN) = Whole Face. Stoke (UMN) = Lower Face.",
+      "tag": "Neurology"
+    },
+    {
+      "front": "Lateral Corticospinal Tract Decussation",
       "back": "Medullary Pyramids",
-      "tag": "Neuro"
+      "tag": "Neuroanatomy"
     },
     {
-      "front": "Decorticate Posture sign?",
-      "back": "Arms Flexed (Mummy)",
-      "tag": "Neuro"
+      "front": "Rubrospinal Tract Origin",
+      "back": "Red Nucleus (Midbrain)",
+      "tag": "Neuroanatomy"
     },
     {
-      "front": "Decerebrate Posture sign?",
-      "back": "Arms Extended (Waiter)",
-      "tag": "Neuro"
+      "front": "Locked-In Syndrome Lesion",
+      "back": "Pons (Basilar Artery)",
+      "tag": "Neurology"
+    }
+  ],
+  "ankingResource": {
+    "primarySource": "AMBOSS",
+    "chapter": "Neurology > Neuroanatomy > Pyramidal & Extrapyramidal",
+    "alternatives": [
+      {
+        "resource": "FirstAid",
+        "chapter": "Neurology > Anatomy > Spinal Tracts"
+      }
+    ]
+  },
+  "pearls": [
+    {
+      "title": "UMN vs LMN Face",
+      "content": "**UMN (Stroke):** Spares forehead (Look for wrinkles!).\\n**LMN (Bell's):** Affects whole face (Forehead smooth)."
     },
     {
-      "front": "Decorticate Lesion Location?",
-      "back": "Above Red Nucleus",
-      "tag": "Neuro"
+      "title": "Decorticate vs Decerebrate",
+      "content": "**De-COR-ticate:** Arms like **C**'s (Flexed to **Cor**e). Lesion **Above** Red Nucleus.\\n**De-cere-brate:** Arms like **E**'s (Extended). Lesion **Below** Red Nucleus (Worse prognosis)."
     },
     {
-      "front": "UMN Signs?",
-      "back": "Spasticity, Hyperreflexia, Babinski, Clonus",
-      "tag": "Neuro"
+      "title": "Tongue Deviation",
+      "content": "**Lick your lesions.**\\n**LMN:** Tongue deviates **TOWARD** lesion.\\n**UMN:** Tongue deviates **AWAY** from lesion."
     },
     {
-      "front": "LMN Signs?",
-      "back": "Atrophy, Fasciculations, Flaccidity, Hyporeflexia",
-      "tag": "Neuro"
+      "title": "Locked-In Syndrome",
+      "content": "Pontine Stroke. Quadriplegia. Only eyes move (Vertical). Consciousness preserved."
     },
     {
-      "front": "SMA Function?",
-      "back": "Internal sequences/Rehearsal",
-      "tag": "Neuro"
-    },
-    {
-      "front": "Premotor Cortex Function?",
-      "back": "External sensory-guided movement",
-      "tag": "Neuro"
-    },
-    {
-      "front": "Lateral Vestibulospinal Tract Function?",
-      "back": "Balance, Extensor Tone (Anti-gravity)",
-      "tag": "Neuro"
+      "title": "Pyramidal Decussation",
+      "content": "Occurs at the **Cervicomedullary Junction** (Lower Medulla)."
     }
   ]
 });

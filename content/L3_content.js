@@ -18,80 +18,145 @@ const L3_CONTENT = {
 **Lecturers:** Vladimir Grubisic, M.D., Ph.D. & Vincy Mathew
 **Session:** Neuroanatomy
 
-
-
-## 1. Central Nervous System Barriers (Slide 6-8)
-To maintain neural homeostasis, the CNS is isolated from the rest of the body by three key interfaces:
-1.  **Blood-Brain Barrier (BBB):** Capillary endothelial cells + Pericytes + Astrocyte end-feet.
-2.  **Blood-CSF Barrier:** Choroid plexus epithelial cells.
-3.  **Arachnoid Barrier:** Avascular arachnoid epithelium enclosing the CNS.
+## 1. Central Nervous System Barriers (Slides 6-9)
+The CNS is an immunologically privileged site, protected from the fluctuating chemical environment of the blood by three major barriers:
 
 ### Blood-Brain Barrier (BBB)
+*   **Location:** Capillaries within the brain parenchyma.
 *   **Structure:**
-    *   **Tight Junctions (Zona Occludens):** Connect endothelial cells, preventing paracellular transport (Slide 8).
-    *   **Composed of:** Occludin, Claudin, and Junctional Adhesion Molecules (JAMs).
-*   **Function:** Highly selective; allows lipophilic molecules (O2, CO2) but blocks polar/large molecules.
-*   **Clinical Significance (Parkinson's Disease) (Slide 12):**
-    *   Dopamine (polar) *cannot* cross the BBB.
-    *   **Levodopa (L-DOPA)** (non-polar precursor) *can* cross via transporters. Once inside, it is decarboxylated to Dopamine (Slide 12).
+    *   **Endothelial Cells:** The physical barrier, connected by **Tight Junctions (Zona Occludens)**.
+    *   **Pericytes:** Contractile cells that wrap around endothelial cells.
+    *   **Astrocyte End-feet:** Induce and maintain the barrier properties.
+*   **Function:** Highly selective.
+    *   **Permeable:** Lipid-soluble substances (O2, CO2, Ethanol, Steroid hormones).
+    *   **Impermeable:** Polar/Large molecules (Glucose, Amino acids, Dopamine) require specific transporters.
+
+:::correlate
+**Parkinson's Disease & Levodopa (Slide 12)**
+*   **Problem:** Parkinson's is due to dopamine depletion. **Dopamine** is polar and **cannot cross the BBB**.
+*   **Solution:** **Levodopa (L-DOPA)** is a precursor that *can* cross the BBB via amino acid transporters. Once inside neurons, it is converted to dopamine by DOPA decarboxylase.
+:::
+
+### Other Barriers
+*   **Blood-CSF Barrier:** Formed by **Tight Junctions** between the **Epithelial Cells** of the **Choroid Plexus**.
+*   **Arachnoid Barrier:** Avascular arachnoid epithelium seals the CSF from the extracellular fluid of the dura.
 
 ### Circumventricular Organs (CVOs) (Slide 14-16)
-Areas of the brain that **LACK** a BBB to allow sampling of blood chemistry.
-*   **Area Postrema:** "Vomiting Center" in medulla. Detects toxins.
-    *   *Side effect:* Levodopa can stimulate the Area Postrema causing nausea (before it enters the brain). **Carbidopa** is given to prevent peripheral conversion and reduce nausea (Slide 16).
-*   **Subfornical Organ & OVLT:** Osmoregulation.
-*   **Posterior Pituitary / Median Eminence:** Neuroendocrine release.
+Specific brain regions that **lack a BBB**. Their capillaries are fenestrated to allow communication between the blood and brain for sensory or secretory functions.
+*   **Sensory CVOs:**
+    *   **Area Postrema:** Located in the caudal medulla (floor of 4th ventricle). Functions as the **Chemoreceptor Trigger Zone (CTZ)** to detect toxins and induce **vomiting**.
+    *   **Subfornical Organ (SFO) & OVLT:** Detect plasma osmolarity and Angiotensin II.
+*   **Secretory CVOs:**
+    *   **Posterior Pituitary (Neurohypophysis):** Releases Oxytocin and ADH.
+    *   **Pineal Gland:** Secretes Melatonin.
+    *   **Median Eminence:** Releases hypothalamic hormones.
+
+:::correlate
+**Levodopa-Induced Nausea (Slide 16)**
+Because the **Area Postrema** lacks a BBB, circulating Levodopa can stimulate dopamine receptors there *before* entering the brain, causing severe nausea/vomiting.
+*   **Prevention:** Co-administration of **Carbidopa**, a peripheral DOPA decarboxylase inhibitor that does *not* cross the BBB.
+:::
 
 ---
 
-## 2. Meninges and Spaces (Slide 22-24)
-Three protective layers ("PAD" from inside out: Pia, Arachnoid, Dura):
+## 2. The Meninges (Slides 20-25)
+The brain is encased in three layers ("PAD"):
+1.  **Dura Mater ("Hard Mother"):** Tough, outer layer.
+    *   **Periosteal Layer:** Attached to the skull.
+    *   **Meningeal Layer:** Inner layer. Separates from periosteal layer to form **Dural Venous Sinuses** and **Dural Folds** (Falx Cerebri, Tentorium Cerebelli).
+2.  **Arachnoid Mater ("Spider Mother"):** Wispy, intermediate layer.
+    *   **Arachnoid Granulations:** One-way valves that drain CSF into venous sinuses.
+3.  **Pia Mater ("Soft Mother"):** Delicate inner layer, adherent to the brain surface (follows gyri/sulci).
 
-1.  **Dura Mater (Hard):**
-    *   **Periosteal Layer:** Adheres to skull.
-    *   **Meningeal Layer:** Inner layer; forms dural folds (Falx Cerebri, Tentorium Cerebelli).
-    *   **Epidural Space:** Potential space above Dura. Contains **Middle Meningeal Artery**. Rupture -> **Epidural Hematoma** (Lens shape).
-    *   **Subdural Space:** Potential space below Dura. Contains **Bridging Veins**. Rupture -> **Subdural Hematoma** (Crescent shape, seniors/alcoholics).
-
-2.  **Arachnoid Mater (Spider):**
-    *   Avascular.
-    *   **Subarachnoid Space:** Real space containing **CSF** and major arteries. Rupture (Aneurysm) -> **Subarachnoid Hemorrhage** ("Thunderclap headache").
-
-3.  **Pia Mater (Soft):** Adheres to brain surface.
-
-### Dural Folds (Slide 25)
-*   **Falx Cerebri:** Separates cerebral hemispheres.
-*   **Tentorium Cerebelli:** Separates cerebrum from cerebellum.
-
----
-
-## 3. Brain Herniations (Slide 26-29)
-Increased Intracranial Pressure (ICP) can force brain tissue through dural openings.
-
-### A. Subfalcine (Cingulate) Herniation
-*   Cingulate gyrus pushes under Falx Cerebri.
-*   **Sign:** Contralateral leg weakness (ACA compression).
-
-### B. Transtentorial (Uncal) Herniation
-*   Uncus (temporal lobe) pushes past Tentorium Cerebelli.
-*   **Signs:**
-    *   **Blown Pupil (CN III):** Ipsilateral fixed/dilated pupil.
-    *   **Hemiplegia:** Cerebral peduncle compression.
-    *   *Emergency!* (Slide 28).
-
-### C. Transforaminal (Tonsillar) Herniation
-*   Cerebellar tonsils push through Foramen Magnum.
-*   **Sign:** Respiratory arrest (Brainstem compression).
+### Meningeal Spaces & Hemorrhages
+*   **Epidural Space:** *Potential* space between Skull and Dura.
+    *   **Vessel:** **Middle Meningeal Artery (MMA)**.
+    *   **Pathology:** **Epidural Hematoma** (Trauma to Pterion -> Lens-shaped bleed).
+*   **Subdural Space:** *Potential* space between Dura and Arachnoid.
+    *   **Vessel:** **Bridging Veins**.
+    *   **Pathology:** **Subdural Hematoma** (Shearing forces/Shaken Baby -> Crescent-shaped bleed).
+*   **Subarachnoid Space:** *Real* space between Arachnoid and Pia.
+    *   **Contents:** **CSF** and major cerebral arteries/veins.
+    *   **Pathology:** **Subarachnoid Hemorrhage** (Ruptured Aneurysm -> "Thunderclap Headache").
 
 ---
 
-## 4. Ventricular System & CSF (Slide 35-39)
-*   **Lateral Ventricles** -> Foramen of Monro -> **3rd Ventricle** -> Cerebral Aqueduct (Sylvius) -> **4th Ventricle** -> Foramina of Luschka/Magendie -> Subarachnoid Space.
-*   **Hydrocephalus:**
-    *   **Non-Communicating (Obstructive):** Blockage (e.g., Aqueduct stenosis).
-    *   **Communicating:** Impaired absorption (Arachnoid granulations).
-    *   **Normal Pressure Hydrocephalus (NPH):** "Wet, Wobbly, Wacky" (Incontinence, Ataxia, Dementia).
+## 3. Brain Herniations (Slides 26-29)
+Increased Intracranial Pressure (ICP) can force brain tissue through compartments.
+
+:::correlate
+**A. Subfalcine (Cingulate) Herniation**
+*   **Displacement:** Cingulate gyrus herniates *under* the **Falx Cerebri**.
+*   **Sequelae:** Can compress the **Anterior Cerebral Artery (ACA)** -> Contralateral leg weakness.
+:::
+
+:::correlate
+**B. Transtentorial (Uncal) Herniation**
+*   **Displacement:** Medial Temporal Lobe (**Uncus**) herniates *past* the **Tentorium Cerebelli**.
+*   **Sequelae:**
+    *   Compresses **CN III (Oculomotor)** -> **Ipsilateral "Blown" Pupil** (Fixed & Dilated), "Down and Out" eye.
+    *   Compresses Cerebral Peduncle -> Contralateral Hemiparesis.
+    *   Compresses PCA -> Cortical blindness.
+:::
+
+:::correlate
+**C. Transforaminal (Tonsillar) Herniation**
+*   **Displacement:** Cerebellar **Tonsils** herniate through the **Foramen Magnum**.
+*   **Sequelae:** Compresses the **Medulla** (Cardiorespiratory centers) -> **Respiratory Arrest** and death.
+:::
+
+---
+
+## 4. Ventricular System & CSF (Slides 35-43)
+### CSF Flow Pathway
+1.  **Lateral Ventricles** (via Foramen of **Monro**) -->
+2.  **Third Ventricle** (via Cerebral **Aqueduct of Sylvius**) -->
+3.  **Fourth Ventricle** (via Foramina of **Luschka** [Lateral] and **Magendie** [Medial]) -->
+4.  **Subarachnoid Space** -->
+5.  **Arachnoid Granulations** -->
+6.  **Superior Sagittal Sinus** (Venous blood).
+
+### Hydrocephalus
+Accumulation of CSF resulting in ventricular enlargement.
+*   **Non-Communicating (Obstructive):** Blockage *within* the ventricles.
+    *   *Common Cause:* **Aqueductal Stenosis** (Slide 44). Lateral & 3rd ventricles dilate; 4th remains normal.
+*   **Communicating:** Blockage of *absorption* (Arachnoid Granulations) or flow in subarachnoid space. All ventricles dilate.
+    *   *Causes:* Meningitis, Subarachnoid Hemorrhage (scarring).
+*   **Normal Pressure Hydrocephalus (NPH):** Chronic communicating hydrocephalus in elderly.
+    *   *Triad:* **"Wet, Wobbly, Wacky"** (Urinary Incontinence, Ataxia/Magnetic Gait, Dementia).
+*   **Hydrocephalus Ex Vacuo:** Apparent enlargement of ventricles due to brain atrophy (e.g., Alzheimer's, Huntington's). ICP is *normal*.
+
+### Cerebral Venous Thrombosis (CVT) (Slide 26)
+*   Thrombosis in dural sinuses (e.g., Superior Sagittal Sinus).
+*   **Risk Factors:** Hypercoagulable states (Pregnancy, OCPs), Infection (Mastoiditis).
+*   **Signs:** Headache, Papilledema, Seizures (due to venous congestion/infarction).
 `,
+    pearls: [
+        {
+            "title": "BBB Rule",
+            "content": "Lipid-soluble substances (O2, Alcohol) cross freely. Polar substances (Dopamine, Glucose) need transport. **Tight Junctions** are key."
+        },
+        {
+            "title": "Parkinson's Rx",
+            "content": "Give **Levodopa**, not Dopamine. Levodopa crosses BBB (via AA transporter) and converts to Dopamine inside."
+        },
+        {
+            "title": "Median Eminence vs Area Postrema",
+            "content": "Both lack BBB (CVOs). Area Postrema = Vomiting (CTZ). Median Eminence = Hormones."
+        },
+        {
+            "title": "Epidural vs Subdural",
+            "content": "**Epidural** = Lens shaped (MMA, Trauma).\n**Subdural** = Crescent shaped (Bridging Veins, Elderly)."
+        },
+        {
+            "title": "Uncal Herniation",
+            "content": "Medial temporal lobe pushes on **CN III**. First sign = Ipsilateral **Blown Pupil**."
+        },
+        {
+            "title": "NPH Triad",
+            "content": "Normal Pressure Hydrocephalus:\n1. **Wet** (Incontinence)\n2. **Wobbly** (Ataxia)\n3. **Wacky** (Dementia)"
+        }
+    ],
     questions: [
         {
             question: "**1. A patient presents with neurological symptoms secondary to increased blood-brain barrier (BBB) permeability after a traumatic brain injury. Damage to which of the following proteins, essential in tight junctions, would most likely likely disrupt BBB integrity?**",

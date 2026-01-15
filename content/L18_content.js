@@ -1,161 +1,233 @@
-const L18_CONTENT = {
-    id: 'l18',
-    title: 'Lecture #18: Vestibular System',
-    lecturer: 'R. Ramos, Ph.D.',
-    module: 'Neuroanatomy',
-    session: 'Lecture #18',
-    prev: 'l17',
-    next: 'l19',
-    pdf: 'pdfs/Lecture # 18. R. Ramos, Ph.D. (PPT)-1.pdf',
-    transcript: 'transcripts/Lecture #18_ Anatomy & Physiology Vestibular System Faculty_ Ramos PhD.srt',
-    ankingResource: {
-        primarySource: 'BandB',
-        chapter: 'Neurology > Vestibular'
-    },
+export const L18_CONTENT = {
+    id: "l18",
     summary: `
-# Lecture #18: Vestibular System
+# Lecture 18: Anatomy & Physiology of the Vestibular System
 
-**Lecturer:** Raddy L. Ramos, Ph.D.
-**Session:** Neuroanatomy
+**Lecturer:** R. Ramos, Ph.D.
+**Session:** Lecture 18
 
-## 1. Vestibular Anatomy
-*   **Otolith Organs (Utricle & Saccule):** Detect **Linear** acceleration (Gravity/Tilt).
-    *   *Macula:* Hair cells covered by Otoconia (Crystals).
-    *   *Function:* Static tilt/Linear motion.
-*   **Semicircular Canals:** Detect **Angular** acceleration (Rotation).
-    *   *Ampulla/Cupula:* Hair cells detect fluid lag.
-    *   *Organization:* 3 Orthogonal planes.
+## 1. Peripheral Anatomy (Slide 4-15)
+The Vestibular Labyrinth detects head motion via hair cells (mechanotransduction).
+*   **Otolith Organs (Utricle & Saccule):**
+    *   **Function:** Detect **Linear Acceleration** (e.g., gravity, elevator, car acceleration).
+    *   **Mechanism:** Hair cells embedded in **Macula** covered by **Otoconia** (crystals). Gravity pulls crystals $\\to$ bends hairs.
+    *   *Mnemonic:* **U**tricle = **U**pright (Horizontal plane). **S**accule = **S**ideways (Vertical plane).
+*   **Semicircular Canals (Anterior, Posterior, Horizontal):**
+    *   **Function:** Detect **Angular (Rotational) Acceleration** (head turning).
+    *   **Mechanism:** **Crista Ampullaris** covered by **Cupula** (gelatin).
+    *   *Fluid Dynamics:* When head turns Left, Endolymph lags (moves Right) $\\to$ bends Cupula.
 
-## 2. Pathways & Reflexes
-*   **Vestibulo-Ocular Reflex (VOR):** Stabilizes gaze during head movement. (Head Left -> Eyes Right).
-*   **Vestibulospinal Tracts:** Postural control.
-*   **Nystagmus:** Defined by the **Fast** phase (Reset).
+## 2. Vestibular Pathways & Reflexes (Slide 16-20)
+*   **Vestibulo-Ocular Reflex (VOR):** Stabilizes gaze during head movement.
+    *   *Path:* Head Left $\\to$ Left SCC active $\\to$ Vestibular Nuclei $\\to$ Right CN VI (Abd) & Left CN III (MR) $\\to$ Eyes move **Right**.
+*   **Vestibulo-Spinal Tracts:**
+    *   *Lateral:* Extensor muscles (Anti-gravity/Balance).
+    *   *Medial:* Neck muscles (Head stabilization).
 
-## 3. Peripheral vs. Central Vertigo (Slide 37)
-*   **Peripheral:** Severe vertigo, Tinnitus/Hearing loss, Horizontal nystagmus (inhibited by fixation).
-*   **Central:** Mild vertigo, **No** hearing loss, Vertical/Direction-changing nystagmus, Focal neurologic signs.
+## 3. Peripheral Vertigo Disorders (Slide 26-30)
 
-## 4. Clinical Correlates
 :::correlate
-**BPPV (Benign Paroxysmal Positional Vertigo)**
-*   **Cause:** Displaced Otoconia (Otoliths) in Semicircular Canal.
-*   **Symptoms:** **Brief** (<1 min) episodes of severe vertigo triggered by head position.
-*   **Diagnosis:** **Dix-Hallpike** maneuver.
-*   **Treatment:** **Epley** maneuver.
+**Benign Paroxysmal Positional Vertigo (BPPV)**
+*   **Mechanism:** Otoconia (crystals) dislodge from Utricle and float into a **Semicircular Canal** (usually Posterior).
+*   **Presentation:** **Brief (<1 min)** episodes of severe vertigo triggered by **Head Position** changes (rolling over in bed).
+*   **Diagnosis:** **Dix-Hallpike Maneuver** elicits nystagmus.
+*   **Treatment:** **Epley Maneuver** (repositions crystals).
 :::
 
 :::correlate
 **Meniere's Disease**
-*   **Triad:** Vertigo + Tinnitus + Sensorineural Hearing Loss.
-*   **Pathology:** Endolymphatic Hydrops (Excess fluid pressure).
-*   **Course:** Episodes last hours (not seconds like BPPV).
+*   **Mechanism:** **Endolymphatic Hydrops** (Excess fluid pressure).
+*   **Presentation:** **Triad** of Episodic Vertigo (mins-hours) + **Tinnitus** + **Sensorineural Hearing Loss**.
+*   **Treatment:** Low salt diet, Diuretics.
 :::
 
 :::correlate
-**Labyrinthitis/Vestibular Neuritis**
-*   **Cause:** Viral infection/Inflammation.
-*   **Symptoms:** Continuous severe vertigo for days, Nausea/Vomiting. (+ Hearing loss in Labyrinthitis).
+**Labyrinthitis**
+*   **Mechanism:** Inflammation/Infection of the inner ear.
+*   **Presentation:** Continuous severe vertigo + Hearing Loss + Nausea. Often follows a viral infection.
 :::
 
+## 4. Central Vertigo Disorders (Slide 31-34)
+
 :::correlate
-**Wallenberg Syndrome (Lateral Medullary)**
-*   **Cause:** **PICA** Stroke.
+**Wallenberg Syndrome (Lateral Medullary Syndrome)**
+*   **Pathology:** Infarct of **PICA** (Posterior Inferior Cerebellar Artery).
 *   **Signs:**
-    *   Vertigo/Nystagmus (Vestibular Nuclei).
-    *   Cerebellar signs (Ataxia).
-    *   Loss of Pain/Temp (Face - Ipsi; Body - Contra).
-    *   Dysphagia/Hoarseness (Nucleus Ambiguus).
-    *   Horner's Syndrome.
+    *   **Vestibular Nuclei:** Vertigo, Nystagmus.
+    *   **Nucleus Ambiguus:** dysphagia, hoarseness.
+    *   **Spinothalamic Tract:** **Contralateral** loss of Pain/Temp (Body).
+    *   **Spinal Trigeminal:** **Ipsilateral** loss of Pain/Temp (Face).
+    *   **Sympathetic:** **Ipsilateral Horner's Syndrome** (Ptosis, Miosis, Anhidrosis).
+:::
+
+:::mnemonic
+**Peripheral vs Central Vertigo**
+*   **Peripheral:** **Severe** vertigo, **Hearing Loss** common, **Fatigable** nystagmus. (BPPV, Meniere's).
+*   **Central:** **Mild** vertigo, **No Hearing Loss** (usually), **Non-fatigable** nystagmus, **CNS signs** (Ataxia, Dysphagia). (Stroke, MS).
 :::
 `,
+    pearls: [
+        {
+            title: "Otoliths vs Canals",
+            content: "**Otoliths** (Utricle/Saccule) = Linear/Gravity.\\n**Canals** (SCC) = Angular/Rotation."
+        },
+        {
+            title: "BPPV Pathophysiology",
+            content: "Dislodged Otoconia (Otoliths) floating in the Semicircular Canals."
+        },
+        {
+            title: "Meniere's Triad",
+            content: "1. Vertigo\\n2. Tinnitus\\n3. Hearing Loss (Fluctuating)."
+        },
+        {
+            title: "Wallenberg Syndrome Artery",
+            content: "**PICA** (Posterior Inferior Cerebellar Artery). Causes Lateral Medullary Syndrome."
+        },
+        {
+            title: "Dix-Hallpike",
+            content: "Diagnostic maneuver for **BPPV**. Induces nystagmus if positive."
+        }
+    ],
     questions: [
         {
-            question: "**1. A patient presents with acute vertigo lasting seconds, triggered by rolling over in bed. Hearing is normal. Dix-Hallpike maneuver elicits rotatory nystagmus. What is the diagnosis?**",
+            question: "A patient presents with episodes of room-spinning vertigo lasting 30 seconds, triggered only when rolling over in bed. Hearing is normal. What is the most likely diagnosis?",
             options: [
                 "Meniere's Disease",
                 "Vestibular Neuritis",
-                "BPPV",
+                "Benign Paroxysmal Positional Vertigo (BPPV)",
                 "Acoustic Neuroma",
-                "Cerebellar Stroke"
+                "Wallenberg Syndrome"
             ],
-            correctAnswer: 2,
-            rationale: "**BPPV** is characterized by distinct, brief episodes of vertigo triggered by position changes, caused by loose otoconia. Dix-Hallpike is diagnostic."
+            answer: 2,
+            explanation: "**BPPV** is characterized by **brief (<1 min)**, **position-dependent** vertigo with **normal hearing**, caused by dislodged otoconia."
         },
         {
-            question: "**2. Which component of the vestibular system detects linear acceleration (like riding an elevator)?**",
+            question: "Which structure detects linear acceleration and head tilt relative to gravity?",
             options: [
+                "Crista Ampullaris",
                 "Semicircular Canals",
-                "Utricle and Saccule",
+                "Otolith Organs (Utricle/Saccule)",
                 "Cochlea",
-                "Ampulla",
                 "Organ of Corti"
             ],
-            correctAnswer: 1,
-            rationale: "The **Otolith Organs (Utricle & Saccule)** detect linear acceleration and gravity. Semicircular canals detect angular (rotational) acceleration."
+            answer: 2,
+            explanation: "The **Otolith Organs** (Utricle and Saccule) contain the macula and otoconia, specifically designing them to detect **Linear Acceleration** and gravity."
         },
         {
-            question: "**3. A patient presents with Vertigo, Tinnitus, and Hearing Loss in the left ear. Episodes last 2-4 hours. What is the most likely pathology?**",
+            question: "A patient presents with vertigo, dysphagia (hoarseness), ipsilateral facial numbness, and contralateral body numbness. Examination reveals an ipsilateral Horner's syndrome. Which artery is occluded?",
             options: [
-                "Displaced Otoconia",
-                "Endolymphatic Hydrops",
-                "Viral Inflammation of CN VIII",
-                "PICA Stroke",
-                "Autoimmune Demyelination"
+                "Anterior Spinal Artery",
+                "Posterior Cerebral Artery (PCA)",
+                "Posterior Inferior Cerebellar Artery (PICA)",
+                "Anterior Inferior Cerebellar Artery (AICA)",
+                "Middle Cerebral Artery (MCA)"
             ],
-            correctAnswer: 1,
-            rationale: "This is the classic triad of **Meniere's Disease**, which is caused by **Endolymphatic Hydrops** (fluid buildup)."
+            answer: 2,
+            explanation: "This is **Wallenberg (Lateral Medullary) Syndrome**, caused by occlusion of the **PICA**. The constellation of Vertigo (Vestibular), Dysphagia (Ambiguus), and Crossed Sensory loss is classic."
         },
         {
-            question: "**4. Wallenberg Syndrome (Lateral Medullary Syndrome) is caused by occlusion of which artery?**",
+            question: "What is the primary mechanism of Meniere's Disease?",
             options: [
-                "AICA",
-                "PICA",
-                "ASA",
-                "PCA",
-                "Middle Meningeal"
+                "Otoconia dislodgement",
+                "Endolymphatic Hydrops (Excess fluid)",
+                "Demyelination",
+                "Bacterial Infection",
+                "Tumor Compression"
             ],
-            correctAnswer: 1,
-            rationale: "Wallenberg Syndrome is the classic **PICA** (Posterior Inferior Cerebellar Artery) infarct."
+            answer: 1,
+            explanation: "**Meniere's Disease** is caused by **Endolymphatic Hydrops** (swelling/excess pressure of the endolymphatic compartment)."
         },
         {
-            question: "**5. In the Vestibulo-Ocular Reflex (VOR), if the head turns to the LEFT, which extraocular muscles are activated to maintain fixation?**",
+            question: "The Vestibulo-Ocular Reflex (VOR) allows for:",
             options: [
-                "Left Lateral Rectus, Right Medial Rectus",
-                "Right Lateral Rectus, Left Medial Rectus",
-                "Left Lateral Rectus, Left Medial Rectus",
-                "Right Superior Oblique",
-                "Left Inferior Oblique"
+                "Hearing high frequencies",
+                "Maintaining upright posture",
+                "Stabilizing gaze during head movement",
+                "Localizing sound in space",
+                "Detecting gravity"
             ],
-            correctAnswer: 1,
-            rationale: "To compensate for a **Left** head turn, the eyes must move **Right**. This requires the **Right Lateral Rectus** (CN VI) and the **Left Medial Rectus** (CN III)."
+            answer: 2,
+            explanation: "The **VOR** generates eye movements equal and opposite to head movements to **stabilize gaze** on a fixed target."
         }
     ],
     flashcards: [
-        { "front": "BPPV Trigger?", "back": "Head position", "tag": "Clinical" },
-        { "front": "BPPV Diagnosis?", "back": "Dix-Hallpike Maneuver", "tag": "Clinical" },
-        { "front": "BPPV Treatment?", "back": "Epley Maneuver", "tag": "Clinical" },
-        { "front": "Triad of Meniere's Disease?", "back": "Vertigo + Tinnitus + Hearing Loss", "tag": "Clinical" },
-        { "front": "Detects Angular/Rotational Motion?", "back": "Semicircular Canals", "tag": "Physiology" },
-        { "front": "Detects Linear Motion/Gravity?", "back": "Otolith Organs (Utricle/Saccule)", "tag": "Physiology" },
-        { "front": "Cause of Wallenberg Syndrome?", "back": "PICA Occlusion", "tag": "Clinical" },
-        { "front": "Wallenberg: Dysphagia/Hoarseness source?", "back": "Nucleus Ambiguus", "tag": "Neuro" },
-        { "front": "Peripheral vs Central Vertigo: Which has hearing loss?", "back": "Peripheral", "tag": "Clinical" },
-        { "front": "VOR function?", "back": "Stabilize gaze during head movement", "tag": "Physiology" }
+        {
+            front: "Function of Semicircular Canals",
+            back: "Detect Angular (Rotational) Acceleration",
+            tag: "Physiology"
+        },
+        {
+            front: "Function of Otolith Organs (Utricle/Saccule)",
+            back: "Detect Linear Acceleration & Gravity",
+            tag: "Physiology"
+        },
+        {
+            front: "Diagnosis: Brief positional vertigo, no hearing loss",
+            back: "BPPV",
+            tag: "Pathology"
+        },
+        {
+            front: "Diagnosis: Vertigo + Tinnitus + Hearing Loss",
+            back: "Meniere's Disease",
+            tag: "Pathology"
+        },
+        {
+            front: "Maneuver to treat BPPV",
+            back: "Epley Maneuver",
+            tag: "Clinical Skills"
+        },
+        {
+            front: "Artery involved in Lateral Medullary Syndrome",
+            back: "PICA (Posterior Inferior Cerebellar Artery)",
+            tag: "Pathology"
+        },
+        {
+            front: "Key signs of Wallenberg Syndrome",
+            back: "Dysphagia, Vertigo, Horner's, Crossed Pain/Temp loss",
+            tag: "Pathology"
+        },
+        {
+            front: "Where are Otoconia normally located?",
+            back: "Utricle and Saccule (Macula)",
+            tag: "Anatomy"
+        },
+        {
+            front: "Symptoms of Acoustic Neuroma",
+            back: "Unilateral Hearing Loss, Tinnitus, Vertigo (CPA angle)",
+            tag: "Pathology"
+        },
+        {
+            front: "Fluid with high Potassium in Inner Ear",
+            back: "Endolymph",
+            tag: "Physiology"
+        }
     ],
+    ankingResource: {
+        primarySource: "BandB",
+        chapter: "Neurology > The Ear > Vestibular System",
+        alternatives: [
+            { resource: "FirstAid", chapter: "Neurology > Ophthalmology" },
+            { resource: "Pathoma", chapter: "CNS" }
+        ]
+    },
     mindmap: `
 ## Vestibular System
-### Anatomy
-*   **Otolith Organs**: Linear/Gravity (Macula + Crystals)
-*   **Semicircular Canals**: Angular/Rotation (Ampulla + Cupula)
-### Conditions
-*   **BPPV**: Loose Crystals, Brief Vertigo, Positional. (Dix-Hallpike)
-*   **Meniere's**: Hydrops triad (Vertigo/Tinnitus/Hearing Loss).
-*   **Labyrinthitis**: Inflammation (Viral).
-*   **Acoustic Neuroma**: CP Angle tumor.
-*   **Wallenberg**: PICA Stroke (Central Vertigo + Crossed Pain/Temp + Dysphagia).
-`
-};
 
-if (typeof window !== 'undefined') {
-    window.L18_CONTENT = L18_CONTENT;
-}
+### Peripheral Anatomy
+*   **Otoliths** (Utricle/Saccule): Linear Accel, Gravity, Otoconia
+*   **Semicircular Canals**: Angular Accel, Cupula
+
+### Disorders
+*   **Peripheral**
+    *   **BPPV**: Loose Otoconia, Positional, Epley
+    *   **Meniere's**: Hydrops, Triad (Vertigo/Tinnitus/HL)
+    *   **Labyrinthitis**: Infection
+    *   **Acoustic Neuroma**: CN VIII Tumor
+*   **Central**
+    *   **Wallenberg (PICA)**: Dysphagia, Horner's, Crossed Sensory
+
+### Reflexes
+*   **VOR**: Gaze stabilization
+*   **Vestibulospinal**: Posture/Balance
+\`
+};

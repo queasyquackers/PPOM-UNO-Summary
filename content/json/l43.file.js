@@ -1,65 +1,142 @@
 window.receiveLectureContent({
   "id": "l43",
-  "title": "Lecture #43: Pharmacology - Multiple Sclerosis",
-  "lecturer": "M. Pino, Ph.D.",
-  "module": "Pharm",
-  "session": "Lecture #43",
-  "prev": "l42",
-  "next": "l44",
-  "pdf": "pdfs/Lecture # 43. M. Pino, Ph.D. (PPT)-1.pdf",
-  "summary": "# Lecture #43: Pharmacology - Multiple Sclerosis\n\n**Lecturer:** M. Pino, Ph.D.\n**Session:** Lecture #43\n\n## Acute MS Exacerbations\n\n### Glucocorticoids\n\n:::drug\n**High-Dose Corticosteroids**\n*   **Use:** Acute MS exacerbations (optic neuritis, partial vision loss).\n*   **Regimen:** **IV methylprednisolone** for few days \u2192 Taper to oral prednisone \u2192 Wean off.\n*   **Adverse Effects:**\n    *   **Long-term:** Bone loss (osteoporosis) \u2192 May need **bisphosphonates**.\n    *   **Metabolic:** \u2191 Blood glucose, \u2191 aldosterone \u2192 Fluid retention, hypertension.\n    *   **Psychiatric:** Mood changes, insomnia.\n*   **Monitoring:** CBC essential throughout treatment.\n:::\n\n## Disease-Modifying Therapies (DMTs)\n\n### Interferon Beta\n\n:::drug\n**Interferon Beta-1a/1b**\n*   **Mechanism:** Cytokine \u2192 \u2193 T-lymphocyte activation, \u2193 MHC class II expression, \u2193 migration into CNS.\n*   **Adverse Effects:**\n    *   **Flu-like symptoms** (first few days of treatment).\n    *   **Depression** (\u2193 neurotransmitter synthesis).\n    *   **Anemia** (\u2193 erythropoiesis).\n    *   **Hepatotoxicity:** Monitor LFTs.\n    *   **Injection site reactions.**\n*   **Monitoring:** CBC critical before and during treatment.\n:::\n\n### Glatiramer Acetate\n\n**Mechanism:** Immunomodulator (mimics myelin basic protein).\n\n**Adverse Effects:** Injection site reactions, post-injection reaction (flushing, chest tightness, anxiety).\n\n### Fingolimod (S1P Receptor Modulator)\n\n:::drug\n**Fingolimod**\n*   **Mechanism:** S1P receptor modulator \u2192 Traps lymphocytes in lymph nodes \u2192 \u2193 CNS infiltration.\n*   **Adverse Effects:**\n    *   **Bradycardia** (affects cardiac action potential) \u2192 **Monitor EKG**.\n    *   **Macular edema.**\n    *   **PML risk** (JC virus reactivation in immunosuppressed).\n    *   **Hepatotoxicity.**\n*   **Monitoring:**\n    *   **EKG** (bradycardia).\n    *   **Varicella testing** (ensure immunity or vaccinate).\n    *   **Ophthalmologic exam** (macular edema).\n:::\n\n### Natalizumab (Anti-VLA-4 Antibody)\n\n:::drug\n**Natalizumab**\n*   **Mechanism:** Monoclonal antibody against **VLA-4 (\u03b14\u03b21 integrin)** \u2192 Prevents T-cell migration into CNS.\n*   **Indication:** Highly active MS, not responding to conventional treatment.\n*   **Major Risk:** **PML (Progressive Multifocal Leukoencephalopathy)** due to JC virus reactivation.\n    *   **JC virus antibody testing** required before starting.\n*   **Adverse Effects:** Infusion reactions, hepatotoxicity, infections.\n:::\n\n### Teriflunomide / Leflunomide\n\n:::drug\n**Teriflunomide (Active metabolite of Leflunomide)**\n*   **Mechanism:** Inhibits **dihydroorotate dehydrogenase** \u2192 \u2193 Pyrimidine synthesis \u2192 \u2193 Lymphocyte proliferation.\n*   **Also used for:** Rheumatoid arthritis (leflunomide).\n*   **Major Concern:** **Teratogenic** (affects DNA/RNA synthesis).\n    *   **Contraindicated in pregnancy.**\n    *   **Adequate birth control required.**\n    *   **Counsel on teratogenicity** before starting (pregnancy test essential).\n*   **Adverse Effects:** Hepatotoxicity, diarrhea, alopecia, hypertension.\n:::\n\n### Alemtuzumab (Anti-CD52 Antibody)\n\n:::drug\n**Alemtuzumab**\n*   **Mechanism:** Monoclonal antibody against **CD52** (on T/B cells) \u2192 Depletes lymphocytes.\n*   **Indication:** Highly active MS, disease progression despite other treatments.\n*   **Adverse Effects:**\n    *   **Infusion reactions** (pretreat with antihistamines, corticosteroids).\n    *   **Autoimmune conditions** (thyroid disease, ITP).\n    *   **Infections** (immunosuppression).\n    *   **Malignancy risk.**\n:::\n\n### Mitoxantrone\n\n:::drug\n**Mitoxantrone**\n*   **Mechanism:** Anthracycline (DNA intercalation, topoisomerase II inhibitor) \u2192 Immunosuppression.\n*   **Indication:** Secondary-progressive MS (after 15 years, disease progressing despite treatment).\n*   **Major Risk:** **Dilated cardiomyopathy** (similar to doxorubicin).\n    *   **Cardiac exam** at baseline and during treatment essential.\n*   **CI:** Patients with angina or heart disease.\n*   **Adverse Effects:** Cardiotoxicity, myelosuppression, leukemia risk, blue-green urine.\n:::\n\n## Symptomatic Management\n\n### Spasticity\n\n:::drug\n**Baclofen (GABA-B agonist)**\n*   **Use:** Muscle spasticity in MS.\n*   **Mechanism:** Activates GABA-B receptors in spinal cord \u2192 \u2193 Muscle tone.\n*   **Adverse Effects:** Sedation, weakness, CNS depression (avoid alcohol).\n:::\n\n**Other options:** Tizanidine (\u03b12-agonist), benzodiazepines, dantrolene.\n\n### Bladder Dysfunction (Incontinence)\n\n:::drug\n**Oxybutynin, Darifenacin (Anticholinergics)**\n*   **Mechanism:** M3 muscarinic receptor antagonists \u2192 \u2193 Bladder contractions.\n*   **Use:** Overactive bladder, urinary incontinence.\n*   **Adverse Effects:** Dry mouth, constipation, urinary retention, blurred vision, confusion (elderly).\n:::\n\n**Alternative:** Botulinum toxin (Botox injections into bladder).\n\n### Erectile Dysfunction\n\n**PDE5 Inhibitors:** Sildenafil, tadalafil \u2192 \u2191 Blood flow.\n\n## Key Monitoring\n\n:::highyield\n**MS Drug Monitoring (All Patients)**\n*   **CBC:** Before and during treatment (myelosuppression risk).\n*   **LFTs:** Hepatotoxicity (most DMTs).\n*   **Pregnancy test:** Before starting teratogenic drugs (teriflunomide).\n*   **EKG:** Fingolimod (bradycardia).\n*   **Cardiac exam:** Mitoxantrone (cardiomyopathy).\n*   **JC virus antibody:** Natalizumab, fingolimod (PML risk).\n*   **Varicella immunity:** Fingolimod (reactivation risk).\n:::",
-  "mindmap": "## MS Pharmacology\n### Acute Exacerbations\n*   **Corticosteroids**: IV methylprednisolone \u2192 Oral taper\n*   **Long-term risk**: Osteoporosis (bisphosphonates)\n### Disease-Modifying Therapies\n*   **Interferon beta**: Flu-like, depression, anemia\n*   **Fingolimod**: Bradycardia (EKG), PML risk\n*   **Natalizumab**: PML (JC virus testing)\n*   **Teriflunomide**: Teratogenic (2-year washout)\n*   **Mitoxantrone**: Cardiotoxicity (CI in angina)\n### Symptomatic\n*   **Spasticity**: Baclofen (GABA-B agonist)\n*   **Incontinence**: Oxybutynin (M3 antagonist)\n*   **ED**: PDE5 inhibitors\n### Monitoring\n*   **All**: CBC, LFTs\n*   **Fingolimod**: EKG, varicella, ophthalmology\n*   **Mitoxantrone**: Cardiac exam\n*   **Teriflunomide**: Pregnancy test",
-  "questions": [],
+  "summary": "# Lecture 43: Pharmacology of Multiple Sclerosis\n\n**Lecturer:** M. Pino, Ph.D.\n**Session:** Lecture 43\n\n## 1. Acute Exacerbations (Flare-ups)\n*   **Glucocorticoids (High Dose IV Methylprednisolone):**\n    *   *Mechanism:* Induces **Lipocortin** $\\\\to$ Inhibits Phospholipase A2 $\\\\to$ Decreased Prostaglandins/Leukotrienes.\n    *   *Use:* Shortens duration of acute attacks (e.g., Optic Neuritis). Does **NOT** change long-term prognosis.\n    *   *Adverse Effects:* HPA axis suppression (Taper needed), Osteoporosis, Hyperglycemia, Insomnia.\n\n## 2. Disease Modifying Therapies (DMTs)\n*   **Interferon Beta (1a & 1b):**\n    *   *Mechanism:* Cytokine (JAK/STAT); Inhibits T-cell activation/migration across BBB.\n    *   *Adverse Effects:* **Flu-like symptoms** (Fever, chills, aches), **Depression**, Liver toxicity.\n*   **Glatiramer Acetate:**\n    *   *Mechanism:* Synthetic polypeptide (Myelin Basic Protein decoy). Shifts immune response from Th1 (Pro-inflammatory) to Th2 (Anti-inflammatory).\n    *   *Adverse Effects:* Injection site reactions, **Post-injection systemic reaction** (Flushing, Chest chest tightness - benign but scary).\n    *   *Note:* **Safest in Pregnancy**.\n*   **Natalizumab:**\n    *   *Mechanism:* Monoclonal antibody against **$\\\\alpha$4-integrin**. Blocks leukocytes from binding VCAM-1 and entering the CNS.\n    *   *Adverse Effects:* **PML (Progressive Multifocal Leukoencephalopathy)** due to JC Virus reactivation.\n*   **Fingolimod:**\n    *   *Mechanism:* **S1P Receptor Modulator**. Sequesters lymphocytes in lymph nodes (can't exit).\n    *   *Adverse Effects:* **Bradycardia** (Monitor EKG at first dose), Macular Edema.\n*   **Dimethyl Fumarate:**\n    *   *Mechanism:* Activates **Nrf2** (Antioxidant pathway).\n    *   *Adverse Effects:* **Flushing**, GI upset.\n*   **Teriflunomide:**\n    *   *Mechanism:* Inhibits Pyrimidine synthesis (Dihydroorotate dehydrogenase).\n    *   *Adverse Effects:* **Hepatotoxicity**, **Teratogenicity** (Contraindicated in pregnancy).\n*   **Mitoxantrone:**\n    *   *Mechanism:* Anthracycline analog. Intercalates DNA / Inhibits Topoisomerase II.\n    *   *Use:* Secondary Progressive MS.\n    *   *Adverse Effects:* **Cardiotoxicity** (Dilated Cardiomyopathy - monitor EF), Acute Myeloid Leukemia (AML). \"Blue\" discoloration of urine/sclera.\n*   **Anti-CD20 (Ocrelizumab, Rituximab):**\n    *   *Mechanism:* B-cell depletion.\n    *   *Adverse Effects:* Infusion reactions, Hepatitis B reactivation.\n\n## 3. Symptomatic Treatment\n*   **Spasticity:**\n    *   **Baclofen** (GABA-B agonist).\n    *   **Tizanidine** ($\\\\alpha$2-adrenergic agonist).\n*   **Walking Speed:**\n    *   **Dalfampridine** (K+ Channel Blocker) - Enhances conduction.\n*   **Urinary Incontinence:**\n    *   **Oxybutynin** (Muscarinic Antagonist).\n    *   **Botulinum Toxin** (Cleaves SNARE proteins).",
+  "title": "Lecture 43: Pharmacology of Multiple Sclerosis",
+  "module": "Neurology",
+  "questions": [
+    {
+      "question": "A 32-year-old female with Multiple Sclerosis is started on a new medication. Since starting, she complains of flushed skin and profound gastrointestinal distress. Which medication mechanism is most likely responsible?",
+      "options": [
+        "Inhibition of Dihydroorotate Dehydrogenase",
+        "Activation of Nrf2 pathway",
+        "Sequestration of lymphocytes in lymph nodes",
+        "Blockade of alpha-4 integrin",
+        "Depletion of CD20 B cells"
+      ],
+      "answer": 1,
+      "explanation": "**Dimethyl Fumarate** activates the **Nrf2** antioxidant pathway. Its most common side effects are **Flushing** and GI upset."
+    },
+    {
+      "question": "A patient being treated for MS develops Progressive Multifocal Leukoencephalopathy (PML). Which drug mechanism is associated with this complication?",
+      "options": [
+        "Interferon beta-1a",
+        "Glatiramer Acetate",
+        "Natalizumab",
+        "Baclofen",
+        "Methylprednisolone"
+      ],
+      "answer": 2,
+      "explanation": "**Natalizumab** blocks alpha-4 integrin, preventing immune surveillance in the CNS, allowing **JC Virus** reactivation (PML)."
+    },
+    {
+      "question": "Which medication helps improve walking speed in MS patients by blocking potassium channels?",
+      "options": [
+        "Tizanidine",
+        "Dalfampridine",
+        "Oxybutynin",
+        "Modafinil",
+        "Amantadine"
+      ],
+      "answer": 1,
+      "explanation": "**Dalfampridine** blocks voltage-gated **Potassium channels**, increasing action potential duration and improving conduction."
+    },
+    {
+      "question": "Before starting a patient on Fingolimod, which baseline test is most critical?",
+      "options": [
+        "Liver Function Tests",
+        "Echocardiogram",
+        "Electrocardiogram (EKG)",
+        "Pulmonary Function Tests",
+        "Thyroid Stimulating Hormone"
+      ],
+      "answer": 2,
+      "explanation": "**Fingolimod** can cause significant **Bradycardia** and heart block after the first dose. Observation and EKG monitoring are required."
+    },
+    {
+      "question": "Which agent treats spasticity in MS by acting as an agonist at GABA-B receptors?",
+      "options": [
+        "Diazepam",
+        "Dantrolene",
+        "Baclofen",
+        "Tizanidine",
+        "Cyclobenzaprine"
+      ],
+      "answer": 2,
+      "explanation": "**Baclofen** is a **GABA-B agonist** used centrally for spasticity. (Tizanidine is an alpha-2 agonist; Dantrolene works on muscle Ryanodine receptors)."
+    }
+  ],
   "flashcards": [
     {
-      "front": "MS acute exacerbation treatment?",
-      "back": "High-dose IV methylprednisolone \u2192 Oral prednisone taper",
-      "tag": "Pharm"
+      "front": "Natalizumab Mechanism",
+      "back": "Blocks Alpha-4 Integrin (prevents CNS entry)",
+      "tag": "Pharmacology"
     },
     {
-      "front": "Interferon beta adverse effects?",
-      "back": "Flu-like symptoms, depression, anemia, hepatotoxicity",
-      "tag": "Pharm"
+      "front": "Natalizumab Serious AE",
+      "back": "PML (JC Virus)",
+      "tag": "Pharmacology"
     },
     {
-      "front": "Fingolimod monitoring?",
-      "back": "EKG (bradycardia), varicella immunity, macular edema",
-      "tag": "Pharm"
+      "front": "Fingolimod Mechanism",
+      "back": "S1P Receptor Modulator (Sequesters lymphocytes)",
+      "tag": "Pharmacology"
     },
     {
-      "front": "Natalizumab major risk?",
-      "back": "PML (JC virus reactivation)",
-      "tag": "Pharm"
+      "front": "Fingolimod AE",
+      "back": "Bradycardia (First dose)",
+      "tag": "Pharmacology"
     },
     {
-      "front": "Teriflunomide key concern?",
-      "back": "Teratogenic - avoid pregnancy 2 years after stopping",
-      "tag": "Pharm"
+      "front": "Teriflunomide Contraindication",
+      "back": "Pregnancy (Teratogenic)",
+      "tag": "Pharmacology"
     },
     {
-      "front": "Mitoxantrone major toxicity?",
-      "back": "Dilated cardiomyopathy (CI in angina/heart disease)",
-      "tag": "Pharm"
+      "front": "Glatiramer Acetate Mechanism",
+      "back": "Myelin Basic Protein Decoy (Th1 -> Th2)",
+      "tag": "Pharmacology"
     },
     {
-      "front": "Alemtuzumab mechanism?",
-      "back": "Anti-CD52 antibody \u2192 Depletes T/B cells",
-      "tag": "Pharm"
+      "front": "Interferon Beta AE",
+      "back": "Flu-like symptoms, Depression",
+      "tag": "Pharmacology"
     },
     {
-      "front": "Baclofen mechanism?",
-      "back": "GABA-B agonist \u2192 \u2193 Spasticity",
-      "tag": "Pharm"
+      "front": "Dalfampridine Mechanism",
+      "back": "Potassium Channel Blocker (Improves walking)",
+      "tag": "Pharmacology"
+    }
+  ],
+  "ankingResource": {
+    "primarySource": "AMBOSS",
+    "chapter": "Neurology > Multiple Sclerosis > Management",
+    "alternatives": [
+      {
+        "resource": "FirstAid",
+        "chapter": "Pharmacology > Neurologic"
+      }
+    ]
+  },
+  "pearls": [
+    {
+      "title": "PML Risk",
+      "content": "**Natalizumab** is highly effective but carries a risk of **PML** (Progressive Multifocal Leukoencephalopathy) if the patient is JC Virus positive. 'Natalizumab says NO to leukocytes entering the brain'."
     },
     {
-      "front": "Oxybutynin use in MS?",
-      "back": "M3 antagonist \u2192 Urinary incontinence",
-      "tag": "Pharm"
+      "title": "Fingolimod & The Heart",
+      "content": "**Fingolimod** causes **Bradycardia**. You must monitor the patient's heart rate/EKG for 6 hours after the **First Dose**."
     },
     {
-      "front": "MS drug monitoring (all)?",
-      "back": "CBC, LFTs before and during treatment",
-      "tag": "Pharm"
+      "title": "Mitoxantrone Toxicity",
+      "content": "Like Doxorubicin, **Mitoxantrone** is **Cardiotoxic** (Dilated Cardiomyopathy). Must monitor Ejection Fraction."
+    },
+    {
+      "title": "Pregnancy & MS",
+      "content": "**Teriflunomide** is **Teratogenic**. **Glatiramer Acetate** is generally considered the **safest** during pregnancy."
+    },
+    {
+      "title": "Walking Drug",
+      "content": "**Dalfampridine** is the 'Walking Drug'. It blocks **Potassium Channels** to prolong the action potential and improve conduction in demyelinated nerves."
     }
   ]
 });

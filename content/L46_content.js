@@ -1,259 +1,193 @@
-const L46_CONTENT = {
-    id: 'l46',
-    title: 'Lecture #46: Neurologic Exam Part 3 - Sensory System, Special Techniques, Documentation',
-    lecturer: 'R. Morgan, D.O.',
-    module: 'Clinical',
-    session: 'Lecture #46',
-    prev: 'l45',
-    next: null,
-    pdf: 'pdfs/Lecture # 46. R. Morgan, D.O. (PPT).pdf',
-    transcript: 'transcripts/Lecture #46_ DPR_ Neurologic Exam Part 3_ Sensory System, Special Techniques and Documentation Faculty_ R. Morgan, D.O..srt',
+export const L46_CONTENT = {
+    id: "l46",
     summary: `
-# Lecture #46: Neurologic Exam Part 3
+# Lecture 46: Sensory System & Special Techniques
 
 **Lecturer:** R. Morgan, D.O.
-**Session:** Lecture #46
+**Session:** Lecture 46
 
-## Primary Sensory Modalities
+## 1. Sensory Pathways Review
+*   **Spinothalamic Tract:**
+    *   *Modality:* Pain, Temperature, Crude Touch.
+    *   *Fibers:* Small, Unmyelinated/Thinly myelinated.
+*   **Posterior Columns (DCML):**
+    *   *Modality:* Vibration, Proprioception, Fine Touch.
+    *   *Fibers:* Large, Heavily myelinated.
+    *   *Testing:* Always test **Distal** first (Toes/Fingers). If normal distally, proximal is likely normal.
 
-### Light Touch
-*   **Technique:** Use cotton wisp or soft brush. **Patient's eyes closed**. Test symmetrically side-to-side along same dermatomal path.
-*   **Compare:** Both sides, proximal vs distal.
+## 2. Cortical Sensation (Discriminative)
+*   *Requires:* Intact primary sensation (DCML/STT) + Intact **Parietal Lobe** (Sensory Cortex).
+*   **Stereognosis:** Identify common object (key, coin) in hand with eyes closed.
+*   **Graphesthesia:** Identify number drawn on palm.
+*   **Two-Point Discrimination:** Distinguish two points vs one.
+*   **Extinction:** Touch both sides simultaneously. If patient only feels one side, suspects contralateral parietal lesion (Neglect).
 
-### Pain (Pinprick)
-*   **Technique:** Use sharp end of reflex hammer or safety pin. Patient's eyes closed. Test along dermatomes.
-*   **Note:** Peripheral neuropathies most commonly **distal** (stocking-glove distribution).
+## 3. Meningeal Signs (Meningitis/SAH)
+*   **Brudzinski Sign:**
+    *   *Maneuver:* Flex patient's neck (chin to chest).
+    *   *Positive:* Involuntary flexion of **Hips and Knees**.
+*   **Kernig Sign:**
+    *   *Maneuver:* Flex hip/knee to 90 degrees, then slowly **Extend** the knee.
+    *   *Positive:* Pain/Resistance in hamstring.
 
-### Temperature
-*   **Technique:** Use tuning fork (cold metal) or warm/cold objects against skin.
-*   **Test:** Bilaterally, compare sides.
-
-### Vibration
-*   **Technique:** Place vibrating tuning fork (128 Hz) on **bony prominences** (toe, finger, wrist, ankle, patella).
-*   **Test:** Patient's eyes closed. Ask if they feel vibration. Test until vibration stops.
-*   **Loss:** Indicates **peripheral neuropathy** (common in diabetes).
-
-### Proprioception (Position Sense)
-*   **Technique:** Examiner stands in front, patient's eyes closed. Gently flex or extend distal finger or toe. Ask patient "up or down?"
-*   **Test:** Start distal (toes/fingers). If abnormal, move proximal.
-*   **Significance:** Loss indicates **dorsal column disease** or peripheral neuropathy (diabetes, vascular disease).
-
-## Discriminative Sensations
-
-### Stereognosis
-*   **Definition:** Ability to identify object by touch alone.
-*   **Technique:** Patient's eyes closed. Place object (coin, key) in hand. Ask them to identify it.
-*   **Abnormal (Astereognosis):** Lesion in **sensory cortex** (parietal lobe).
-
-### Graphesthesia
-*   **Definition:** Ability to identify number/letter drawn on palm.
-*   **Technique:** Draw number on patient's palm (eyes closed). Ask them to identify.
-*   **Abnormal:** Sensory cortex lesion.
-
-### Two-Point Discrimination
-*   **Technique:** Use two blunt ends (paper clip, calipers). Touch with one or two points. Ask patient "one or two?"
-*   **Normal distance:** Varies by body part (fingertips 2-3mm, palm 8-12mm, back 40-50mm).
-*   **Abnormal:** Sensory cortex lesion.
-
-### Point Localization
-*   **Technique:** Briefly touch any place on skin (patient's eyes closed). Remove finger. Ask patient to open eyes and point to location.
-*   **Abnormal:** Sensory cortex lesion → Cannot localize.
-
-### Extinction
-*   **Technique:** Simultaneously stimulate both sides of body (same location). Patient's eyes closed. Ask where they feel touch.
-*   **Abnormal:** Sensory cortex lesion → Only one stimulus perceived (extinction of contralateral stimulus).
-
-## Dermatomal Distribution
-
-**Key dermatomes:**
-*   **C6:** Thumb, lateral forearm.
-*   **C7:** Middle finger.
-*   **C8:** Little finger, medial forearm.
-*   **L4:** Medial leg, medial malleolus.
-*   **L5:** Lateral leg, dorsum of foot, big toe.
-*   **S1:** Lateral foot, small toe, posterior calf.
-
-## Special Orthopedic Tests
-
-### Spurling's Test (Cervical Nerve Impingement)
-
-:::highyield
-**Spurling's Test**
-*   **Technique:** Patient seated, physician behind. Have patient look over shoulder, look up at ceiling (extension + rotation + lateral flexion to affected side). Apply **downward compression** on head.
-*   **Positive:** Pain or neurologic symptoms reproduced in **cervical spine or upper extremity** (radiculopathy).
-*   **Note:** **STOP immediately** if patient reports discomfort. Very important to protect patient.
-:::
-
-### Cervical Compression Test
-*   **Technique:** Patient looking straight ahead (no rotation/side-bending). Apply **straight downward force** on head.
-*   **Positive:** Cervical nerve impingement symptoms.
-
-### Cervical Distraction Test
-*   **Technique:** One hand under chin, other under occiput. Apply gentle **upward traction**.
-*   **Positive (Improved symptoms):** Cervical impingement. Pain or neurologic symptoms **reduced** with traction.
-
-### Straight Leg Raise (SLR)
-
-:::highyield
-**Straight Leg Raise Test**
-*   **Technique:** Patient supine, legs extended. Raise **affected leg** (relaxed) while straight. Stop when pain occurs or maximal flexion (60-120°).
-*   **Then:** Lower 20-30° below pain point. Dorsiflex foot.
-*   **Positive:** **Reproduces radicular sciatic pain** with dorsiflexion.
-*   **Significance:** L5-S1 radiculopathy, disc herniation.
-:::
-
-### Contralateral (Crossed) SLR
-*   **Technique:** Raise **unaffected leg**.
-*   **Positive:** Reproduces pain on **opposite (affected) side** → Suggests disc herniation or space-occupying lesion.
-
-### Hoover Test (Malingering)
-
-:::pearl
-**Hoover Test**
-*   **Purpose:** Determine if patient is malingering.
-*   **Technique:** Patient supine. Examiner's hands under both heels. Instruct patient to raise **affected leg** (without bending knee).
-*   **Normal:** When lifting one leg, opposite leg presses down (natural compensatory movement).
-*   **Positive (Malingering):** **No downward pressure** on uninvolved foot when raising involved leg → Patient not truly trying.
-:::
-
-## Meningeal Signs
-
-### Brudzinski Sign
-
-:::highyield
-**Brudzinski Sign**
-*   **Technique:** Patient supine. Flex head and neck forward.
-*   **Positive:** **Hips and knees flex involuntarily** (patient pulls knees up).
-*   **Significance:** **Meningitis**, subarachnoid hemorrhage.
-:::
-
-### Kernig's Sign
-*   **Technique:** Patient supine. Flex hip and knee to 90°. Then extend knee.
-*   **Positive:** **Resistance or pain** with knee extension, patient cannot fully extend leg.
-*   **Significance:** Meningitis, subarachnoid hemorrhage.
-
-## Neurologic Documentation
-
-**Components:**
-*   **History:** HPI, onset, duration, associated symptoms (OPQRST), risk factors.
-*   **Physical Exam:** Mental status, cranial nerves, motor, sensory, coordination, gait,reflexes, special tests.
-*   **Assessment:** Diagnosis or differential.
-*   **Plan:** Treatment, imaging, labs, referrals, follow-up.
+## 4. Special Musculoskeletal Tests
+*   **Cervical Spine (Radiculopathy):**
+    *   **Spurling Test:** Extend and Rotate head to affected side + Axial Compression. Positive = Radiation of pain down arm.
+    *   **Distraction Test:** Lift head (Traction). Positive = **Relief** of pain.
+*   **Lumbar Spine (Sciatica/Disc Herniation):**
+    *   **Straight Leg Raise (SLR):** Passive leg raise. Positive = Radicular pain between 30-70 degrees.
+    *   **Bragard's Test:** SLR + **Dorsiflexion** of foot. Increases nerve stretch.
+    *   **Crossed (Well) SLR:** Raise the **Unaffected** leg. Positive = Pain in the **Affected** leg. (Highly specific for Disc Herniation).
+*   **Malingering / Functional:**
+    *   **Hoover Test:** Cup both heels. Ask patient to lift the "paralyzed" leg.
+    *   *Positive for Malingering:* You do **NOT** feel downward pressure from the "normal" heel. (Normal physiology requires pushing down with the opposite leg to lift one leg).
 
 `,
+    pearls: [
+        {
+            title: "Hoover Test Logic",
+            content: "In a true effort to lift one leg, the other leg **MUST** push down. If you don't feel downward pressure from the 'good' leg when they try to lift the 'bad' leg, they aren't really trying."
+        },
+        {
+            title: "BrudZinski vs Kernig",
+            content: "**B**rudzinski = **B**rain (Neck flexion causes knees to bend).\\n**K**ernig = **K**nee (Knee extension causes pain)."
+        },
+        {
+            title: "Spurling Test",
+            content: "think 'Spurling crushes the Spine'. Compression reproduces radicular pain. Distraction relieves it."
+        },
+        {
+            title: "Crossed SLR",
+            content: "The **Crossed** Straight Leg Raise (lifting the good leg causes pain in the bad leg) is very **Specific** for a Herniated Disc."
+        },
+        {
+            title: "Stocking-Glove",
+            content: "The classic pattern of Diabetic Polyneuropathy. Starts in toes/feet (longest nerves) and ascends. Sensory loss is symmetrical."
+        }
+    ],
     questions: [
         {
-            question: "**1. A patient cannot identify a coin placed in their hand with eyes closed. Where is the lesion?**",
+            question: "You are performing a neurological exam on a patient claiming to have a paralyzed right leg. You cup your hands under both heels and ask him to lift his right leg. He strains, but his leg doesn't move. You feel no pressure in your left hand under his left heel. What is the interpretation?",
             options: [
-                "Peripheral nerve",
-                "Spinal cord",
-                "Sensory cortex (parietal lobe)",
-                "Motor cortex",
-                "Cerebellum"
+                "True Right Leg Paralysis",
+                "Left Leg Paralysis",
+                "Positive Hoover Sign (Lack of Effort)",
+                "Sciatic Nerve Impingement",
+                "Cauda Equina Syndrome"
             ],
-            correctAnswer: 2,
-            rationale: "**Astereognosis** (inability to identify objects by touch) indicates lesion in **sensory cortex** (parietal lobe). Requires intact touch and position sense PLUS cortical integration. (Slide on stereognosis)"
+            answer: 2,
+            explanation: "**Positive Hoover Sign:** Lack of downward pressure in the contralateral (normal) heel indicates the patient is not making a genuine effort to lift the affected leg."
         },
         {
-            question: "**2. A patient flexes hips and knees involuntarily when the examiner flexes their neck forward. What is this sign?**",
+            question: "Which physical exam finding is most specific for a lumbar disc herniation?",
             options: [
-                "Kernig's sign",
-                "Brudzinski sign",
-                "Babinski sign",
-                "Hoffmann's sign",
-                "Romberg sign"
+                "Positive Straight Leg Raise (Ipsilateral)",
+                "Positive Crossed (Well) Straight Leg Raise",
+                "Paraspinal muscle tenderness",
+                "Decreased range of motion",
+                "Negative Brudzinski sign"
             ],
-            correctAnswer: 1,
-            rationale: "**Brudzinski sign:** Flex head/neck forward → Hips and knees flex involuntarily. Indicates **meningitis** or subarachnoid hemorrhage. Kernig's = resistance with knee extension. (Slide 33)"
+            answer: 1,
+            explanation: "While the Ipsilateral SLR is sensitive, the **Crossed (Well) Straight Leg Raise** (pain in the affected leg when lifting the healthy leg) is highly **Specific** for disc herniation."
         },
         {
-            question: "**3. During Spurling's test, the patient reports shooting pain down the right arm. What is the next step?**",
+            question: "A patient presents with fever and severe headache. When you flex the patient's neck, their hips and knees spontaneously flex. This is a positive:",
             options: [
-                "Continue applying pressure to confirm",
-                "Stop immediately (positive test)",
-                "Apply more pressure",
-                "Repeat on opposite side",
-                "Have patient hold position for 30 seconds"
+                "Kernig Sign",
+                "Brudzinski Sign",
+                "Babinski Sign",
+                "Lhermitte Sign",
+                "Hoffmann Sign"
             ],
-            correctAnswer: 1,
-            rationale: "**Spurling's test:** **STOP immediately** when patient reports discomfort or pain. Test is **positive** if pain/neurologic symptoms reproduced in cervical spine or upper extremity. Very important to protect patient. (Slide 37-40, 47)"
+            answer: 1,
+            explanation: "**Brudzinski Sign:** Neck flexion causes involuntary hip/knee flexion. It suggests meningeal irritation (Meningitis)."
         },
         {
-            question: "**4. A patient has loss of vibration sense in the toes. What is the most likely diagnosis?**",
+            question: "A patient complains of shooting pain down their right arm. You extend and rotate their head to the right and apply downward pressure. This maneuver reproduces the pain. What is the test?",
             options: [
-                "Stroke",
-                "Peripheral neuropathy (diabetes)",
-                "Sensory cortex lesion",
-                "Cerebellar lesion",
-                "Upper motor neuron lesion"
+                "Distraction Test",
+                "Spurling Test",
+                "Tinel Sign",
+                "Phalen Test",
+                "Lhermitte Sign"
             ],
-            correctAnswer: 1,
-            rationale: "**Loss of vibration sense** (especially distal - toes/fingers) indicates **peripheral neuropathy**, most commonly from **diabetes** or vascular disease. Test with tuning fork on bony prominences. (Slide 11, 19, 87-89)"
+            answer: 1,
+            explanation: "**Spurling Test:** Cervical compression with extension/rotation narrows the neural foramen. Reproduction of radicular pain indicates Cervical Radiculopathy."
         },
         {
-            question: "**5. During Hoover test, there is no downward pressure on the uninvolved foot when the patient raises the involved leg. What does this indicate?**",
+            question: "Which sensory modality is carried by the Dorsal Columns (Posterior Columns)?",
             options: [
-                "Radiculopathy",
-                "Disc herniation",
-                "Malingering",
-                "Meningitis",
-                "Peripheral neuropathy"
+                "Pain",
+                "Temperature",
+                "Crude Touch",
+                "Vibration and Proprioception",
+                "Itch"
             ],
-            correctAnswer: 2,
-            rationale: "**Hoover test positive (malingering):** Normally, when lifting one leg, opposite leg presses down (compensation). **No downward pressure** on uninvolved foot = Patient **not truly trying** (malingering). (Slide 58-70)"
+            answer: 3,
+            explanation: "**Dorsal Columns:** Vibration, Proprioception, Fine Touch. (Spinothalamic = Pain, Temp, Crude Touch)."
         }
     ],
     flashcards: [
-        { "front": "Astereognosis lesion location?", "back": "Sensory cortex (parietal lobe)", "tag": "Neuro" },
-        { "front": "Brudzinski sign?", "back": "Flex neck → Hips/knees flex (meningitis)", "tag": "Neuro" },
-        { "front": "Kernig's sign?", "back": "Resistance/pain with knee extension (meningitis)", "tag": "Neuro" },
-        { "front": "Spurling's test positive?", "back": "Pain in cervical spine/UE with compression (radiculopathy)", "tag": "Neuro" },
-        { "front": "SLR test positive?", "back": "Radicular sciatic pain with dorsiflexion (L5-S1)", "tag": "Neuro" },
-        { "front": "Hoover test positive?", "back": "No downward pressure on uninvolved foot = Malingering", "tag": "Neuro" },
-        { "front": "Vibration loss indicates?", "back": "Peripheral neuropathy (diabetes)", "tag": "Neuro" },
-        { "front": "Proprioception loss indicates?", "back": "Dorsal column disease or peripheral neuropathy", "tag": "Neuro" },
-        { "front": "Two-point discrimination abnormal?", "back": "Sensory cortex lesion", "tag": "Neuro" },
-        { "front": "Stocking-glove distribution?", "back": "Distal peripheral neuropathy", "tag": "Neuro" }
+        {
+            front: "Brudzinski Sign",
+            back: "Neck flexion -> Hip/Knee flexion (Meningitis)",
+            tag: "Neurology"
+        },
+        {
+            front: "Kernig Sign",
+            back: "Knee extension -> Pain (Meningitis)",
+            tag: "Neurology"
+        },
+        {
+            front: "Spurling Test",
+            back: "Cervical Compression -> Radicular Pain (Radiculopathy)",
+            tag: "Neurology"
+        },
+        {
+            front: "Hoover Test",
+            back: "Test for Malingering (Lack of contralateral heel pressure)",
+            tag: "Neurology"
+        },
+        {
+            front: "Crossed Straight Leg Raise",
+            back: "Lift Good Leg -> Pain in Bad Leg (Specific for Disc Herniation)",
+            tag: "Neurology"
+        },
+        {
+            front: "Stereognosis",
+            back: "Identify object in hand (Parietal Cortex)",
+            tag: "Neurology"
+        },
+        {
+            front: "Graphesthesia",
+            back: "Identify number drawn on palm (Parietal Cortex)",
+            tag: "Neurology"
+        }
     ],
+    ankingResource: {
+        primarySource: "AMBOSS",
+        chapter: "Neurology > Neurological Examination",
+        alternatives: [
+            { resource: "FirstAid", chapter: "Neurology > Exam" }
+        ]
+    },
     mindmap: `
-## Neurologic Exam Part 3
-### Primary Sensations
-*   **Light touch, pain, temperature**: Eyes closed, bilateral
-*   **Vibration**: Tuning fork on bony prominences (neuropathy)
-*   **Proprioception**: Dorsal column or peripheral neuropathy
-### Discriminative Sensations
-*   **Stereognosis**: Identify object (sensory cortex)
-*   **Graphesthesia**: Identify number on palm
-*   **Two-point**: Sensory cortex lesion
-*   **Extinction**: Cortical lesion → One side ignored
-### Special Orthopedic Tests
-*   **Spurling's**: Cervical radiculopathy (STOP when pain)
-*   **SLR**: L5-S1 radiculopathy (dorsiflexion)
-*   **Hoover**: Malingering (no downward pressure)
-### Meningeal Signs
-*   **Brudzinski**: Flex neck → Hips/knees flex
-*   **Kernig's**: Resistance with knee extension
-### Documentation
-*   **History, PE, Assessment, Plan**
-`
-,
-    ankingResource: {
-        primarySource: "BandB",
-        chapter: "Neurology > Clinical Neurology > Sensory Exam",
-        alternatives: [
-            { "resource": "FirstAid", "chapter": "Neurology > Anatomy > Sensory Systems" }
-        ]
-    }
-,
-    ankingResource: {
-        primarySource: "BandB",
-        chapter: "Neurology > Clinical Neurology > Sensory Exam",
-        alternatives: [
-            { "resource": "FirstAid", "chapter": "Neurology > Anatomy > Sensory Systems" }
-        ]
-    }
-};
+## Neuro Exam 3
 
-if (typeof window !== 'undefined') {
-    window.L46_CONTENT = L46_CONTENT;
-}
+### Meningeal Signs
+*   **Brudzinski**: Neck Flex -> Knees Flex.
+*   **Kernig**: Knee Extend -> Pain.
+
+### Spine
+*   **Cervical**: Spurling (Compress). Distraction (Relief).
+*   **Lumbar**: SLR (Sensitive). Crossed SLR (Specific).
+
+### Cortical Sensory
+*   **Stereognosis**: Object ID.
+*   **Graphesthesia**: Number ID.
+*   **Extinction**: Neglect.
+
+### Malingering
+*   **Hoover**: No downward pressure.
+\`
+};

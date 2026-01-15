@@ -1,75 +1,142 @@
 window.receiveLectureContent({
   "id": "l36",
-  "title": "Lecture #36: Cranial Nerves V, VII-XII",
-  "lecturer": "I. Kurtzer, Ph.D.",
-  "module": "Neuro",
-  "session": "Lecture #36",
-  "prev": "l35",
-  "next": "l37",
-  "pdf": "pdfs/Lecture # 36. I. Kurtzer, Ph.D. (PPT).pdf",
-  "summary": "# Lecture #36: Cranial Nerves V, VII, VIII, IX, X, XI, XII\n\n**Lecturer:** I. Kurtzer, Ph.D.\n**Session:** Lecture #36\n\n## CN V - Trigeminal (Slides 8-13)\n\n### Divisions & Function\n*   **V1 (Ophthalmic):** Somatosensation (forehead, eye).\n*   **V2 (Maxillary):** Somatosensation (cheek, upper lip).\n*   **V3 (Mandibular):** Somatosensation + Motor (jaw, lower face).\n\n### Nuclei (Location: Pons)\n*   **Trigeminal Pontine:** Touch & proprioception (face).\n*   **Trigeminal Spinal:** Pain & temperature (face). Fibers descend.\n*   **Trigeminal Mesencephalic:** Jaw proprioception (unique: 1st order afferents in CNS).\n*   **Trigeminal Motor:** Muscles of mastication (V3).\n\n:::correlate\n**Trigeminal Neuralgia (\"Suicide Disease\")**\n*   **Mechanism:** Compression of sensory root (often by superior cerebellar artery) \u2192 Demyelination.\n*   **Presentation:** Sudden, severe pain to eyes, lips, head (100s/day).\n*   **Key Feature:** Extreme, debilitating pain.\n:::\n\n## CN VII - Facial (Slides 14-20)\n\n### Nuclei (Location: Caudal Pons - Facial Colliculus)\n*   **Facial Motor:** Facial expression muscles, Stapedius (middle ear).\n*   **Superior Salivatory:** Lacrimal glands (tears), Submandibular/Sublingual glands (saliva).\n*   **Gustatory (Solitary):** Taste (anterior 2/3 tongue).\n*   **Trigeminal:** Ear somatosensation.\n\n### Upper vs Lower Motor Neuron Lesions\n*   **UMN Lesion (Cortical):** **Contralateral** lower face paralysis. Forehead spared (bilateral innervation).\n*   **LMN Lesion (CN VII):** **Ipsilateral** entire face paralysis (forehead + lower face).\n\n:::correlate\n**Bell's Palsy**\n*   **Presentation:** Ipsilateral complete facial paralysis (forehead + lower face).\n*   **Associated:** Diminished taste, dry eye (cannot close eye), hyperacusis (stapedius paralysis).\n*   **Cause:** CN VII vulnerable in middle ear (idiopathic inflammation, often viral).\n:::\n\n## CN VIII - Vestibulocochlear (Slides 21-24)\n\n### Nuclei (Location: Pons/Medulla Junction)\n*   **Cochlear:** Hearing (Organ of Corti).\n*   **Vestibular:** Head motion/orientation (Semicircular canals, Utricle, Saccule).\n\n:::correlate\n**Meniere's Disease**\n*   **Triad:** Diminished audition (high frequencies), Aural fullness, Vertigo.\n*   **Mechanism:** Inflammation of semicircular canals.\n:::\n\n## CN IX - Glossopharyngeal (Slides 25-30)\n\n### Nuclei (Location: Rostral Medulla)\n*   **Nucleus Ambiguus:** Stylopharyngeus (swallowing - pharyngeal phase).\n*   **Inferior Salivatory:** Parotid gland secretion.\n*   **Gustatory (Solitary):** Taste (posterior 1/3 tongue).\n*   **Solitary:** Baroreceptor feedback (carotid sinus & body).\n*   **Trigeminal:** Posterior 1/3 tongue, throat, ear somatosensation.\n\n## CN X - Vagus (Slides 31-34)\n\n### Nuclei (Location: Rostral Medulla)\n:::highyield\n**Nucleus Ambiguus:** Striated muscle of soft palate, pharynx (gag reflex), larynx (vocal cords).\n**Dorsal Motor Nucleus:** Parasympathetic \"Rest & Digest\" (\u2193 HR, \u2191 GI secretions/motility).\n**Solitary:** Visceral sensory (larynx, esophagus, trachea, thoracic/abdominal viscera, aortic arch chemoreceptors).\n**Trigeminal:** Ear/ear canal somatosensation.\n:::\n\n**Critical Fact:** Vagus is the **largest autonomic conduit** from brainstem. 65-80% of fibers are **afferent** (sensory).\n\n### Clinical\n*   **Unilateral Medulla Lesion:** **Ipsilateral** paralysis (Nucleus Ambiguus).\n*   **Unilateral Cortical Lesion:** Largely compensated (bilateral UMN control).\n\n## CN XI - Spinal Accessory (Slides 36-40)\n\n*   **Function:** Somatic motor.\n*   **Innervation:** Sternocleidomastoid (SCM), Upper trapezius.\n*   **Unique:** Originates in **spinal cord** (C1-C5), ascends through **foramen magnum**, exits via jugular foramen.\n\n:::correlate\n**Trapezius Palsy**\n*   **Presentation:** Shoulder drooping, Winged scapula.\n*   **Causes:** Trauma to posterior cervical triangle, Iatrogenic (lymph node biopsy).\n:::\n\n## CN XII - Hypoglossal (Slides 41-44)\n\n*   **Function:** Somatic motor.\n*   **Innervation:** All internal + most external tongue muscles.\n*   **Clinical:** **Tongue deviates to weak side** (unopposed contralateral genioglossus).\n\n## Medullary Syndromes (Slides 45-46)\n\n:::correlate\n**Medial Medullary Syndrome (Anterior Spinal Artery)**\n*   **Pyramid (CST):** Contralateral hemiparesis (body).\n*   **Medial Lemniscus:** Contralateral tactile/proprioceptive loss (body).\n*   **Hypoglossal Nucleus:** Tongue deviates **ipsilateral** (to lesion side).\n:::\n\n:::correlate\n**Lateral Medullary Syndrome (PICA - Wallenberg Syndrome)**\n*   **Spinothalamic Tract:** Contralateral pain/temp loss (body).\n*   **Spinotrigeminal Nucleus:** Ipsilateral pain/temp loss (face).\n*   **Nucleus Ambiguus:** Hoarseness, dysphagia.\n*   **Vestibular Nucleus:** Falling to ipsilateral side.\n*   **Inferior Cerebellar Peduncle:** Ipsilateral limb incoordination.\n:::",
-  "mindmap": "## Cranial Nerves V, VII-XII\n### CN V (Trigeminal)\n*   **Motor**: Jaw muscles (V3)\n*   **Sensory**: Face (Pontine=touch, Spinal=pain/temp)\n*   **Trigeminal Neuralgia**: SCA compression\n### CN VII (Facial)\n*   **Motor**: Facial expression\n*   **Parasympathetic**: Tears, Saliva\n*   **Sensory**: Taste (ant 2/3 tongue)\n*   **Bell's Palsy**: Complete ipsilateral paralysis\n### CN VIII (Vestibulocochlear)\n*   **Cochlear**: Hearing\n*   **Vestibular**: Balance, Vertigo\n*   **Meniere's**: Audition+Fullness+Vertigo\n### CN IX (Glossopharyngeal)\n*   **Swallowing**: Stylopharyngeus\n*   **Taste**: Post 1/3 tongue\n*   **Baroreceptors**: Carotid sinus\n### CN X (Vagus)\n*   **Parasympathetic**: Rest & Digest\n*   **Nucleus Ambiguus**: Gag, Swallow, Vocalize\n*   **Largest autonomic conduit** (65-80% afferent)\n### CN XI (Spinal Accessory)\n*   **SCM + Trapezius**: Shoulder, Neck\n### CN XII (Hypoglossal)\n*   **Tongue**: Deviates to weak side\n### Medullary Syndromes\n*   **Medial**: Tongue ipsilateral, Hemiparesis contralateral\n*   **Lateral (PICA)**: Hoarse, Dysphagia, Ipsi ataxia",
-  "questions": [],
+  "summary": "# Lecture 36: Cranial Nerves V, VII-XII (Brainstem Nuclei)\n\n**Lecturer:** I. Kurtzer, Ph.D.\n**Session:** Lecture 36\n\n## 1. CN V (Trigeminal)\n*   **Sensory (Face):**\n    *   **Mesencephalic Nucleus:** Proprioception (Jaw jerk).\n    *   **Principal (Pontine) Nucleus:** Discriminative Touch (Face).\n    *   **Spinal Trigeminal Nucleus:** **Pain & Temperature** (Face). (Extends down to C-spine).\n*   **Motor (V3):** Muscles of Mastication (Temporalis, Masseter, Pterygoids).\n*   **Clinical:**\n    *   *Trigeminal Neuralgia:* \"Suicide disease\". Sharp shooting pain.\n    *   *Corneal Reflex:* Afferent V1 (Ophthalmic) $\\\\to$ Efferent VII (Facial).\n\n## 2. CN VII (Facial)\n*   **Motor:** Muscles of Facial Expression, Stapedius (dampens sound), Stylohyoid, Digastric (Post).\n*   **Parasympathetic:** Superior Salivatory Nucleus $\\\\to$ Lacrimal (Tears), Submandibular/Sublingual (Saliva).\n*   **Sensory:** Taste Anterior 2/3 of Tongue.\n*   **Clinical:**\n    *   **Bell's Palsy (LMN):** Ipsilateral paralysis of **ENTIRE** face (Forehead involved). Hyperacusis, Loss of taste.\n    *   **UMN Lesion (Stroke):** Contralateral paralysis of LOWER face only (**Forehead Spared** due to bilateral innervation).\n\n## 3. CN IX (Glossopharyngeal) & CN X (Vagus)\n*   **CN IX:**\n    *   *Sensory:* Post 1/3 Tongue (Taste/Feel), Carotid Body/Sinus.\n    *   *Motor:* Stylopharyngeus.\n    *   *Reflex:* **Gag Reflex (Afferent)**.\n*   **CN X:**\n    *   *Motor:* Nucleus Ambiguus $\\\\to$ Pharynx/Larynx/Palate.\n    *   *Visceral:* Dorsal Motor Nucleus $\\\\to$ GI/Heart (Parasymp).\n    *   *Reflex:* **Gag Reflex (Efferent)**.\n    *   *Lesion:* **Uvula deviates AWAY** from lesion. Hoarseness.\n\n## 4. CN XI (Accessory) & CN XII (Hypoglossal)\n*   **CN XI:** Trapezius (Shrug), SCM (Turn head). *Lesion:* Shoulder droop, cannot turn head away from lesion.\n*   **CN XII:** Tongue muscles. *Lesion:* **Tongue deviates TOWARD** lesion (\"Lick your wounds\").\n\n## 5. Brainstem Syndromes\n*   **Lateral Medullary (Wallenberg) Syndrome:**\n    *   *Artery:* **PICA** (Posterior Inferior Cerebellar Artery).\n    *   *Nuclei:*\n        *   **Ambiguus:** Dysphagia, Hoarseness.\n        *   **Vestibular:** Vertigo, Nystagmus.\n        *   **Spinal V:** Ipsilateral Facial Pain/Temp loss.\n        *   **Spinothalamic:** Contralateral Body Pain/Temp loss.\n        *   **Sympathetic:** Ipsilateral Horner's Syndrome.\n*   **Medial Medullary Syndrome:**\n    *   *Artery:* **ASA** (Anterior Spinal Artery).\n    *   *Nuclei:*\n        *   **Hypoglossal (XII):** Tongue deviates to lesion.\n        *   **Corticospinal Tract:** Contralateral Hemiparesis.\n        *   **Medial Lemniscus:** Contralateral Proprioception/Vibration loss.",
+  "title": "Lecture 36: Cranial Nerves V, VII-XII (Brainstem Nuclei)",
+  "module": "Neurology",
+  "questions": [
+    {
+      "question": "A patient presents with sudden onset of right-sided facial drooping involving the forehead and the lower face. They also complain that sounds seem abnormally loud in the right ear. The most likely location of the lesion is:",
+      "options": [
+        "Left Motor Cortex",
+        "Right Internal Capsule",
+        "Right Facial Nerve",
+        "Left Facial Nerve",
+        "Right Trigeminal Nerve"
+      ],
+      "answer": 2,
+      "explanation": "**Right Facial Nerve (LMN)** lesion causes Bell's Palsy (Whole hemiface paralysis) and Hyperacusis (loss of Stapedius)."
+    },
+    {
+      "question": "A patient sticks out their tongue, and it deviates to the LEFT. There is atrophy of the left side of the tongue. Which nerve is injured?",
+      "options": [
+        "Right CN XII",
+        "Left CN XII",
+        "Right CN X",
+        "Left CN X",
+        "Left CN VII"
+      ],
+      "answer": 1,
+      "explanation": "The tongue deviates **TOWARD** the side of the lesion (Lick your wounds). Left deviation + Atrophy = **Left CN XII** (LMN) lesion."
+    },
+    {
+      "question": "In Lateral Medullary Syndrome (Wallenberg), which nucleus is responsible for the characteristic dysphagia and hoarseness?",
+      "options": [
+        "Solitary Nucleus",
+        "Nucleus Ambiguus",
+        "Dorsal Motor Nucleus of Vagus",
+        "Hypoglossal Nucleus",
+        "Spinal Trigeminal Nucleus"
+      ],
+      "answer": 1,
+      "explanation": "**Nucleus Ambiguus** provides motor innervation to the pharynx and larynx (via IX and X). Damage causes dysphagia and hoarseness."
+    },
+    {
+      "question": "Loss of the afferent limb of the corneal reflex would result from damage to which cranial nerve?",
+      "options": [
+        "CN II",
+        "CN III",
+        "CN V1",
+        "CN VII",
+        "CN VIII"
+      ],
+      "answer": 2,
+      "explanation": "The afferent (sensing) limb of the corneal reflex is **CN V1** (Ophthalmic division of Trigeminal). The efferent (blinking) is CN VII."
+    },
+    {
+      "question": "A patient has loss of pain and temperature sensation on the RIGHT side of the face and the LEFT side of the body. This 'crossed' sensory deficit suggests a lesion in the:",
+      "options": [
+        "Right Lateral Medulla",
+        "Left Lateral Medulla",
+        "Right Medial Medulla",
+        "Left Medial Medulla",
+        "Right Thalamus"
+      ],
+      "answer": 0,
+      "explanation": "Crossed findings (Ipsi Face, Contra Body) are a hallmark of brainstem lesions. **Right Lateral Medulla** hits Right Spinal V (Face) and Right Spinothalamic (carrying Left Body info)."
+    }
+  ],
   "flashcards": [
     {
-      "front": "CN V divisions?",
-      "back": "V1 (Ophthalmic), V2 (Maxillary), V3 (Mandibular - motor+sensory)",
-      "tag": "Neuro"
+      "front": "Corneal Reflex Limbs",
+      "back": "In: V1. Out: VII.",
+      "tag": "Neurology"
     },
     {
-      "front": "CN V Pontine nucleus?",
-      "back": "Touch & proprioception (face)",
-      "tag": "Neuro"
+      "front": "Gag Reflex Limbs",
+      "back": "In: IX. Out: X.",
+      "tag": "Neurology"
     },
     {
-      "front": "CN V Spinal nucleus?",
-      "back": "Pain & temperature (face)",
-      "tag": "Neuro"
+      "front": "Tongue Deviation Rule",
+      "back": "Deviates TOWARD the lesion (Lick your wounds)",
+      "tag": "Neurology"
     },
     {
-      "front": "Trigeminal Neuralgia cause?",
-      "back": "Superior cerebellar artery compression \u2192 Demyelination",
-      "tag": "Neuro"
+      "front": "Uvula Deviation Rule",
+      "back": "Deviates AWAY from the lesion",
+      "tag": "Neurology"
     },
     {
-      "front": "CN VII UMN vs LMN lesion?",
-      "back": "UMN: Lower face only. LMN: Entire face (forehead + lower)",
-      "tag": "Neuro"
+      "front": "Nucleus Ambiguus Function",
+      "back": "Motor to Pharynx/Larynx (Swallowing/Speech) - CN IX, X, XI",
+      "tag": "Neuroanatomy"
     },
     {
-      "front": "Bell's Palsy presentation?",
-      "back": "Ipsilateral complete facial paralysis, dry eye, hyperacusis",
-      "tag": "Neuro"
-    },
-    {
-      "front": "Meniere's Disease triad?",
-      "back": "Diminished audition, Aural fullness, Vertigo",
-      "tag": "Neuro"
-    },
-    {
-      "front": "CN X largest autonomic conduit?",
-      "back": "Yes. 65-80% of fibers are afferent (sensory)",
-      "tag": "Neuro"
-    },
-    {
-      "front": "Nucleus Ambiguus function?",
-      "back": "Pharynx, Larynx (swallowing, vocalize, gag reflex)",
-      "tag": "Neuro"
-    },
-    {
-      "front": "CN XI innervates?",
-      "back": "SCM, Upper trapezius",
-      "tag": "Neuro"
-    },
-    {
-      "front": "Tongue deviation direction?",
-      "back": "Deviates to WEAK side (Hypoglossal lesion)",
-      "tag": "Neuro"
-    },
-    {
-      "front": "Lateral Medullary Syndrome artery?",
+      "front": "Wallenberg Syndrome Artery",
       "back": "PICA (Posterior Inferior Cerebellar Artery)",
-      "tag": "Neuro"
+      "tag": "Neurology"
+    },
+    {
+      "front": "Bell's Palsy vs Stroke (Face)",
+      "back": "Bell's = Whole Face. Stroke = Lower Face only (Forehead spared).",
+      "tag": "Neurology"
+    },
+    {
+      "front": "Hyperacusis Nerve",
+      "back": "CN VII (Stapedius muscle paralysis)",
+      "tag": "Neurology"
+    }
+  ],
+  "ankingResource": {
+    "primarySource": "AMBOSS",
+    "chapter": "Neurology > Neuroanatomy > Cranial Nerves",
+    "alternatives": [
+      {
+        "resource": "FirstAid",
+        "chapter": "Neurology > Anatomy > Cranial Nerves"
+      }
+    ]
+  },
+  "pearls": [
+    {
+      "title": "Bell's Palsy vs Stroke",
+      "content": "**Bell's (LMN):** Can NOT wrinkle forehead (Whole face paralyzed).\\n**Stroke (UMN):** CAN wrinkle forehead (Forehead spared)."
+    },
+    {
+      "title": "Uvula vs Tongue",
+      "content": "**Uvula (CN X):** Deviates **AWAY** from lesion.\\n**Tongue (CN XII):** Deviates **TOWARD** lesion."
+    },
+    {
+      "title": "Corneal Reflex",
+      "content": "**In:** CN V1 (Feels the cotton).\\n**Out:** CN VII (Blinks the eye)."
+    },
+    {
+      "title": "Lateral Medullary Syndrome (Wallenberg)",
+      "content": "**PICA** stroke. Specific sign: **Dysphagia/Hoarseness** (Nucleus Ambiguus) + Crossed Pain/Temp (Face same side, Body opposite side)."
+    },
+    {
+      "title": "Gag Reflex",
+      "content": "**In:** CN IX (Glossopharyngeal).\\n**Out:** CN X (Vagus)."
     }
   ]
 });

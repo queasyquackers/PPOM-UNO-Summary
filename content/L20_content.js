@@ -1,167 +1,222 @@
-const L20_CONTENT = {
-    id: 'l20',
-    title: 'Lecture #20: Indirect Cholinomimetics',
-    lecturer: 'L. Goldstein, Pharm.D.',
-    module: 'Pharmacology',
-    session: 'Lecture #20',
-    prev: 'l19',
-    next: 'l21',
-    pdf: 'pdfs/Lecture # 20. L. Goldstein, Pharm.D. (PPT).pdf',
-    transcript: 'transcripts/Lecture #20_ Pharmacology_ Indirect-Acting Cholinomimetics; Presenter_ L.Goldstein.srt',
-    ankingResource: {
-        primarySource: 'BandB',
-        chapter: 'Pharmacology > Autonomic Drugs > Cholinomimetics'
-    },
+export const L20_CONTENT = {
+    id: "l20",
     summary: `
-# Lecture #20: Indirect Cholinomimetics (AChE Inhibitors)
+# Lecture 20: Indirect-Acting Cholinomimetics (Cholinesterase Inhibitors)
 
-**Lecturer:** Leslie Goldstein, Pharm.D.
-**Session:** Pharmacology
+**Lecturer:** L. Goldstein, Pharm.D.
+**Session:** Lecture 20
 
-## 1. Mechanism & Classification
-*   **Mechanism:** Inhibit Acetylcholinesterase (AChE) -> Increase synaptic ACh -> Stimulate M and N receptors.
-*   **Reversible:**
-    *   *Alcohols:* Edrophonium.
-    *   *Carbamates:* Neostigmine, Pyridostigmine, Physostigmine, Rivastigmine.
-*   **Irreversible:**
-    *   *Organophosphates:* Malathion, Echothiophate, Nerve Gas (Sarin).
+## 1. Mechanism & Classification (Slide 9, 16)
+Indirect-acting agents inhibit **Acetylcholinesterase (AChE)**, increasing the concentration of endogenous Acetylcholine in the synapse. This stimulates both **Muscarinic** and **Nicotinic** receptors.
+*   **Quaternary Amines (No CNS entry):** Neostigmine, Pyridostigmine.
+*   **Tertiary Amines (Enter CNS):** Physostigmine, Donepezil, Organophosphates.
 
-## 2. Clinical Uses
-### Myasthenia Gravis (MG)
-*   **Pathology:** Antibodies against Nm receptors.
-*   **Diagnosis (Historic):** **Edrophonium** (Tensilon test). Short acting. If strength improves -> MG.
-*   **Treatment:** **Pyridostigmine** (Long acting, Oral). **Neostigmine** (IV/SC).
-    *   *Note:* These do **NOT** cross the BBB (Quaternary amines).
+## 2. Clinical Uses (Slide 20, 36)
 
-### Alzheimer's Disease
-*   **Drug:** **Donepezil**, **Rivastigmine**, **Galantamine**.
-*   **Mechanism:** Cross BBB. Increase ACh in CNS to improve cognition.
+### Neuromuscular Junction Disorders
+*   **Myasthenia Gravis (MG):**
+    *   *Pathology:* Autoantibodies against Nicotinic receptors (Nm).
+    *   *Treatment:* **Pyridostigmine** (Oral, long-acting) or **Neostigmine**.
+    *   *Diagnosis:* **Edrophonium** (Tensilon) test. Rapid, short-acting. Improvement = +MG. (Historical).
+*   **Reversal of NMJ Blockade:**
+    *   **Neostigmine** is used to reverse non-depolarizing neuromuscular blockers (e.g., Rocuronium) after surgery.
 
-### Reversal of NM blockade
-*   **Drug:** **Neostigmine**.
-*   **Use:** Reverses non-depolarizing NM blockers (e.g., Rocuronium) after surgery. Given with **Atropine** to prevent muscarinic side effects (bradycardia).
+### CNS Disorders
+*   **Alzheimer's Disease:**
+    *   *Drugs:* **Donepezil**, **Rivastigmine**, **Galantamine**.
+    *   *Mechanism:* Increase CNS ACh to improve cognition/memory.
+*   **Anticholinergic Toxicity (Atropine Overdose):**
+    *   *Drug:* **Physostigmine**.
+    *   *Why?* It crosses the BBB to reverse central delirium (unlike Neostigmine).
 
-### Anticholinergic Toxicity (Atropine Overdose)
-*   **Drug:** **Physostigmine**.
-*   **Reason:** Tertiary amine -> **Crosses BBB**. Reverses both central and peripheral toxicity.
+### Glaucoma
+*   **Echothiophate:** Organophosphate (Long acting).
 
-## 3. Toxicology
-### Organophosphate Poisoning
-*   **Source:** Insecticides, Nerve agents.
-*   **Mechanism:** Irreversible phosphorylation of AChE. "Aging" stabilizes the bond.
-*   **Symptoms (DUMBELS):** **D**iarrhea, **U**rination, **M**iosis, **B**radycardia/Bronchospasm, **E**mesis, **L**acrimation, **S**alivation. + Sweating.
-*   **Death:** Respiratory failure (Bronchorrhea + Diaphragm paralysis).
-*   **Treatment:**
-    1.  **Atropine:** Blocks Muscarinic effects (Saves life).
-    2.  **Pralidoxime (2-PAM):** Regenerates AChE (if given before aging). Reverses Nicotinic paralysis.
+## 3. Toxicity & Poisoning (Slide 24-28)
 
-## 4. Clinical Correlates
+### Organophosphates (Insecticides, Nerve Gas)
+*   *Mechanism:* **Irreversible** inhibition of AChE (via phosphorylation). "Aging" makes the bond permanent.
+*   *Muscarinic Signs (DUMBELS):* **D**iarrhea, **U**rination, **M**iosis, **B**radycardia/Bronchospasm, **E**mesis, **L**acrimation, **S**alivation.
+*   *Nicotinic Signs:* Fasciculations $\\to$ Paralysis (Depolarizing blockade).
+*   *Treatment:*
+    1.  **Atropine:** Blocks Muscarinic effects (life-saving for lungs/heart).
+    2.  **Pralidoxime (2-PAM):** Regenerates AChE **IF** given before aging. Relieves neuromuscular paralysis (Atropine does not).
+
+## 4. Clinical Correlates (Slide 22)
+
 :::correlate
 **Myasthenic vs. Cholinergic Crisis**
-*   **Myasthenic Crisis:** Undermedicated. Respiratory weakness. **Improves** with Edrophonium.
-*   **Cholinergic Crisis:** Overmedicated. Depolarizing block (muscle weakness) + DUMBELS signs. **Worsens** with Edrophonium.
+*   **Myasthenic Crisis:** Low ACh. Respiratory failure due to undertreatment of MG. *Action:* Give more Pyridostigmine.
+*   **Cholinergic Crisis:** Excess ACh. Depolarizing blockade due to overtreatment. *Action:* Stop drug, give Atropine.
+*   **differentiation:** Edrophonium test improves Myasthenic crisis but worsens Cholinergic crisis.
 :::
 
 :::correlate
 **Ogilvie Syndrome**
-*   **Def:** Acute colonic pseudo-obstruction.
-*   **Treatment:** **Neostigmine** (Restores bowel motility).
+*   **Condition:** Acute Colonic Pseudo-obstruction (massive dilation without physical blockage).
+*   **Treatment:** **Neostigmine** (stimulates GI motility).
 :::
 `,
+    pearls: [
+        {
+            title: "Physostigmine vs. Neostigmine",
+            content: "**Physostigmine** crosses BBB (Treats Atropine OD).\\n**Neostigmine** does NOT cross BBB (Treats MG, urinary retention)."
+        },
+        {
+            title: "DUMBELS Mnemonic",
+            content: "Diarrhea, Urination, Miosis, Bradycardia, Emesis, Lacrimation, Salivation (Muscarinic excess)."
+        },
+        {
+            title: "Organophosphate Antidotes",
+            content: "1. **Atropine** (Muscarinic symptoms).\\n2. **Pralidoxime** (Nicotinic/Muscle symptoms - regenerates enzyme)."
+        },
+        {
+            title: "Myasthenia Gravis Treatment",
+            content: "**Pyridostigmine** (Long-acting, oral). Increases ACh at NMJ."
+        },
+        {
+            title: "Alzheimer's Drugs",
+            content: "**Donepezil, Rivastigmine, Galantamine**. Increase CNS ACh."
+        }
+    ],
     questions: [
         {
-            question: "**1. A farmer typically using insecticides inhibits symptoms of pinpoint pupils, excessive salivation, vomiting, diarrhea, and difficulty breathing. The most immediate life-saving treatment is:**",
+            question: "A farmer is brought to the ER with pinpoint pupils, excessive salivation, difficulty breathing, and muscle fasciculations. Exposure to an insecticide is suspected. Which drug should be administered immediately to treat the respiratory secretions and bradycardia?",
             options: [
                 "Physostigmine",
                 "Pralidoxime",
                 "Atropine",
-                "Pilocarpine",
-                "Edrophonium"
-            ],
-            correctAnswer: 2,
-            rationale: "Symptoms describe **Organophosphate poisoning** (DUMBELS). **Atropine** is the immediate antidote to block lifethreatening muscarinic effects (bronchorrhea/bradycardia). Pralidoxime is adjunctive."
-        },
-        {
-            question: "**2. Which agent is preferred for the long-term management of Myasthenia Gravis?**",
-            options: [
-                "Edrophonium",
-                "Physostigmine",
-                "Pyridostigmine",
-                "Donepezil",
-                "Succinylcholine"
-            ],
-            correctAnswer: 2,
-            rationale: "**Pyridostigmine** has a longer duration of action and is available orally, making it the standard for chronic maintenance in MG."
-        },
-        {
-            question: "**3. A child consumes unidentified berries and presents with flushed skin, dry mouth, dilated pupils, and delirium. Which drug can reverse these central nervous system effects?**",
-            options: [
                 "Neostigmine",
-                "Physostigmine",
-                "Pyridostigmine",
-                "Edrophonium",
-                "Pralidoxime"
-            ],
-            correctAnswer: 1,
-            rationale: "This is **Atropine/Anticholinergic toxicity**. **Physostigmine** is a tertiary amine that crosses the BBB to reverse CNS symptoms. (Others are quaternary and don't cross)."
-        },
-        {
-            question: "**4. Which drug is used to reverse the effects of non-depolarizing neuromuscular blockers (like Rocuronium) after surgery?**",
-            options: [
-                "Succinylcholine",
-                "Pralidoxime",
-                "Neostigmine",
-                "Bethanechol",
                 "Pilocarpine"
             ],
-            correctAnswer: 2,
-            rationale: "**Neostigmine** increases ACh at the NMJ, allowing it to compete with and displace the blocker. It is usually co-administered with glycopyrrolate/atropine."
+            answer: 2,
+            explanation: "**Atropine** is the first-line antidote for the life-threatening **muscarinic** effects (bronchorrhea, bronchospasm, bradycardia) of organophosphate poisoning."
         },
         {
-            question: "**5. What is the mechanism of action of Donepezil in Alzheimer's disease?**",
+            question: "Which drug is an appropriate treatment for Alzheimer's disease?",
             options: [
-                "Increases Dopamine release",
-                "Blocks Glutamate NMDA receptors",
-                "Inhibits Acetylcholinesterase",
-                "Stimulates Nicotinic receptors directly",
-                "Inhibits MAO-B"
+                "Neostigmine",
+                "Pyridostigmine",
+                "Donepezil",
+                "Edrophonium",
+                "Pilocarpine"
             ],
-            correctAnswer: 2,
-            rationale: "Donepezil is a centrally acting **Acetylcholinesterase Inhibitor**."
+            answer: 2,
+            explanation: "**Donepezil** is a centrally acting AChE inhibitor used for Alzheimer's. (Neostigmine/Pyridostigmine do not cross the BBB)."
+        },
+        {
+            question: "A child ingests his grandmother's eye drops (Atropine) and develops hot, red skin, dilated pupils, and delirium. Which antidote can reverse the CNS delirium?",
+            options: [
+                "Neostigmine",
+                "Physostigmine",
+                "Pralidoxime",
+                "Donepezil",
+                "Edrophonium"
+            ],
+            answer: 1,
+            explanation: "The patient has Anticholinergic toxicity ('Mad as a hatter'). **Physostigmine** is a tertiary amine that crosses the BBB to reverse CNS toxicity."
+        },
+        {
+            question: "What is the mechanism of action of Pralidoxime (2-PAM)?",
+            options: [
+                "Blocks muscarinic receptors",
+                "Blocks nicotinic receptors",
+                "Regenerates Acetylcholinesterase",
+                "Inhibits Acetylcholine release",
+                "Directly activates GABA receptors"
+            ],
+            answer: 2,
+            explanation: "**Pralidoxime** is a cholinesterase regenerator. It breaks the bond between the organophosphate and the enzyme (if given before aging)."
+        },
+        {
+            question: "Which drug is preferred for long-term oral management of Myasthenia Gravis?",
+            options: [
+                "Edrophonium",
+                "Physostigmine",
+                "Pyridostigmine",
+                "Echothiophate",
+                "Acetylcholine"
+            ],
+            answer: 2,
+            explanation: "**Pyridostigmine** has a longer duration of action (4-6h) and is oral, making it ideal for maintenance therapy in **Myasthenia Gravis**."
         }
     ],
     flashcards: [
-        { "front": "Diagnosis of Myasthenia Gravis?", "back": "Edrophonium (Tensilon Test)", "tag": "Pharm" },
-        { "front": "Treatment of Myasthenia Gravis?", "back": "Pyridostigmine", "tag": "Pharm" },
-        { "front": "Unique Feature of Physostigmine?", "back": "Crosses BBB (Tertiary Amine)", "tag": "Pharm" },
-        { "front": "Antidote for Atropine toxicity?", "back": "Physostigmine", "tag": "Pharm" },
-        { "front": "Antidote for Organophosphate poisoning?", "back": "Atropine + Pralidoxime (2-PAM)", "tag": "Pharm" },
-        { "front": "Mechanism of Organophosphates?", "back": "Irreversible Inhibition of AChE", "tag": "Pharm" },
-        { "front": "DUMBELS Mnemonic means?", "back": "Diarrhea, Urination, Miosis, Bradycardia/Bronchospasm, Emesis, Lacrimation, Salivation", "tag": "Pharm" },
-        { "front": "Drug for Alzheimer's (AChE Inhibitor)?", "back": "Donepezil / Rivastigmine / Galantamine", "tag": "Pharm" },
-        { "front": "Does Neostigmine cross BBB?", "back": "No (Quaternary Amine)", "tag": "Pharm" },
-        { "front": "Role of Pralidoxime?", "back": "Regenerates AChE (if not aged)", "tag": "Pharm" }
+        {
+            front: "Antidote for Organophosphate Poisoning (Muscarinic)",
+            back: "Atropine",
+            tag: "Toxicology"
+        },
+        {
+            front: "Antidote for Organophosphate Poisoning (Enzyme Regenerator)",
+            back: "Pralidoxime (2-PAM)",
+            tag: "Toxicology"
+        },
+        {
+            front: "Antidote for Atropine Overdose",
+            back: "Physostigmine",
+            tag: "Toxicology"
+        },
+        {
+            front: "Drug for Myasthenia Gravis Maintenance",
+            back: "Pyridostigmine",
+            tag: "Pharmacology"
+        },
+        {
+            front: "Drug for Alzheimer's Disease (AChE Inhibitor)",
+            back: "Donepezil",
+            tag: "Pharmacology"
+        },
+        {
+            front: "Why doesn't Neostigmine treat Alzheimer's?",
+            back: "It is a Quaternary amine (Charged) -> Doesn't cross BBB",
+            tag: "Pharmacology"
+        },
+        {
+            front: "Symptoms of Muscarinic Excess",
+            back: "DUMBELS (Diarrhea, Urination, Miosis, Bradycardia, Emesis, Lacrimation, Salivation)",
+            tag: "Toxicology"
+        },
+        {
+            front: "Drug used to diagnose Myasthenia Gravis (Historical)",
+            back: "Edrophonium",
+            tag: "Pharmacology"
+        },
+        {
+            front: "Mechanism of Organophosphates",
+            back: "Irreversible inhibition of Acetylcholinesterase",
+            tag: "Toxicology"
+        },
+        {
+            front: "Treatment for Ogilvie Syndrome",
+            back: "Neostigmine",
+            tag: "Pharmacology"
+        }
     ],
+    ankingResource: {
+        primarySource: "SketchyPharm",
+        chapter: "Autonomic Drugs > Parasympathetics > Acetylcholinesterase Inhibitors",
+        alternatives: [
+            { resource: "FirstAid", chapter: "Pharmacology > Autonomic Drugs" },
+            { resource: "BandB", chapter: "Pharmacology > ANS > Cholinergic Agonists" }
+        ]
+    },
     mindmap: `
 ## Indirect Cholinomimetics (AChE Inhibitors)
-### Reversible
-*   **Edrophonium**: Dx MG (Short)
-*   **Physostigmine**: Crosses BBB (Antidote for Atropine)
-*   **Neostigmine**: No BBB (Ileus, Urinary Retention, NMJ Reversal, MG)
-*   **Pyridostigmine**: No BBB (MG maintenance)
-*   **Donepezil**: Alzheimer's (CNS)
-### Irreversible
-*   **Organophosphates**: Insecticides, Nerve Gas
-*   **Toxicity**: DUMBELS
-*   **Antidote**: Atropine + Pralidoxime
-### Uses
-*   **Myasthenia Gravis**: Pyridostigmine
-*   **NMJ Reversal**: Neostigmine
-*   **Glaucoma**: Echothiophate (Rare)
-*   **Alzheimer's**: Donepezil
-`
-};
 
-if (typeof window !== 'undefined') {
-    window.L20_CONTENT = L20_CONTENT;
-}
+### Quaternary (No severe CNS)
+*   **Neostigmine**: Post-op NMJ reversal, Ogilvie
+*   **Pyridostigmine**: Myasthenia Gravis (Long term)
+*   **Edrophonium**: MG Diagnosis (Short)
+
+### Tertiary (CNS)
+*   **Physostigmine**: Atropine Antidote
+*   **Donepezil/Rivastigmine**: Alzheimer's
+
+### Organophosphates (Irreversible)
+*   **Malathion/Parathion**: Insecticides
+*   **Toxicity**: DUMBELS (Muscarinic) + Paralysis (Nicotinic)
+*   **Aging**: Permanent bond
+*   **Antidote**: Atropine (Musc) + Pralidoxime (Regen)
+\`
+};

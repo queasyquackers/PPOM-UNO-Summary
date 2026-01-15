@@ -518,10 +518,10 @@
               ></span>
               <button
                 id="tocToggle"
-                class="hidden ripple-container text-xs px-3 py-1.5 rounded-lg border border-solarized-base1/20 dark:border-dark-border hover:bg-solarized-base3/50 dark:hover:bg-dark-hover text-solarized-base1 dark:text-dark-muted hover:text-solarized-blue dark:hover:text-dark-accent transition-all duration-300 font-sans flex items-center gap-2"
+                class="hidden ripple-container text-xs px-4 py-2 rounded-xl border border-solarized-blue dark:border-dark-accent bg-white/80 dark:bg-dark-surface/80 shadow-sm hover:shadow-md text-solarized-blue dark:text-dark-accent hover:bg-solarized-blue/10 dark:hover:bg-dark-accent/10 transition-all duration-300 font-sans flex items-center gap-2"
               >
                 <svg
-                  class="w-3 h-3"
+                  class="w-4 h-4"
                   fill="none"
                   stroke="currentColor"
                   viewBox="0 0 24 24"
@@ -533,22 +533,24 @@
                     d="M4 6h16M4 12h16M4 18h16"
                   />
                 </svg>
-                <span>Outline</span>
+                <span class="font-semibold">Outline</span>
               </button>
 
-              <!-- Copy Link Button -->
-              <button id="copyLinkBtn" onclick="copyPageUrl()"
-                  class="ripple-container text-xs px-3 py-1.5 rounded-lg border border-transparent text-solarized-base1 dark:text-dark-muted hover:bg-solarized-base3/50 dark:hover:bg-dark-hover transition-all duration-300 font-sans flex items-center gap-2 group ml-2" title="Copy Link to Lecture">
-                  <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1"></path>
-                  </svg>
-                  <span>Link</span>
+              <!-- Pearlbook Toggle -->
+              <button
+                id="pearlbookToggle"
+                class="ripple-container text-xs px-4 py-2 rounded-xl border border-orange-500 dark:border-orange-400 bg-white/80 dark:bg-dark-surface/80 shadow-sm hover:shadow-md text-orange-600 dark:text-orange-300 hover:bg-orange-50 dark:hover:bg-orange-900/10 transition-all duration-300 font-sans flex items-center gap-2 ml-3"
+              >
+                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.086 0l-.547.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z"/>
+                </svg>
+                <span class="font-semibold">Pearlbook</span>
               </button>
               
               <!-- Mark Complete Button -->
               <button
                 id="markCompleteBtn"
-                class="ripple-container text-xs px-3 py-1.5 rounded-lg border border-transparent text-solarized-base1 dark:text-dark-muted hover:bg-solarized-base3/50 dark:hover:bg-dark-hover transition-all duration-300 font-sans flex items-center gap-2 group"
+                class="ml-3 ripple-container text-xs px-4 py-2 rounded-xl border border-green-500 dark:border-green-500 bg-white/80 dark:bg-dark-surface/80 shadow-sm hover:shadow-md text-green-600 dark:text-green-400 hover:bg-green-50 dark:hover:bg-green-900/10 transition-all duration-300 font-sans flex items-center gap-2 group"
               >
                 <svg
                   id="markCompleteIcon"
@@ -564,7 +566,7 @@
                     d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"
                   ></path>
                 </svg>
-                <span id="markCompleteText">Mark Complete</span>
+                <span id="markCompleteText" class="font-semibold">Mark Complete</span>
               </button>
             </div>
           </div>
@@ -672,6 +674,41 @@
         </div>
         <div class="w-full h-full flex items-center justify-center p-4 overflow-hidden">
             <img id="lightboxImage" src="" alt="Full size" class="max-w-full max-h-full object-contain transition-transform duration-200 origin-center cursor-grab active:cursor-grabbing">
+        </div>
+    </div>
+      <!-- Pearlbook Modal -->
+    <div id="pearlbookModal" class="fixed inset-0 z-50 hidden bg-black/50 backdrop-blur-sm transition-opacity duration-300 opacity-0" tabindex="-1">
+        <div class="w-full h-full flex items-center justify-center p-4">
+            <div class="bg-solarized-base3 dark:bg-dark-surface w-full max-w-4xl max-h-[85vh] rounded-3xl shadow-2xl overflow-hidden flex flex-col border border-solarized-base1/20 dark:border-dark-border transform transition-transform duration-300 scale-95">
+                
+                <!-- Modal Header -->
+                <div class="px-8 py-6 border-b border-solarized-base1/10 dark:border-dark-border flex items-center justify-between bg-solarized-base2/50 dark:bg-dark-bg/50 backdrop-blur-md">
+                    <div class="flex items-center gap-4">
+                        <div class="w-12 h-12 rounded-2xl bg-gradient-to-br from-orange-400 to-orange-500 flex items-center justify-center shadow-lg">
+                            <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.086 0l-.547.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z"/>
+                            </svg>
+                        </div>
+                        <div>
+                            <h2 class="text-2xl font-bold font-display text-orange-500 dark:text-orange-400">Pearlbook</h2>
+                            <p class="text-sm text-solarized-base1 dark:text-dark-muted font-sans">Clinical Pearls & High Yield Facts</p>
+                        </div>
+                    </div>
+                    <button id="closePearlbook" class="p-2 rounded-xl text-solarized-base1 dark:text-dark-muted hover:bg-red-50 dark:hover:bg-red-900/10 hover:text-red-500 dark:hover:text-red-400 transition-colors">
+                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path></svg>
+                    </button>
+                </div>
+
+                <!-- Modal Content -->
+                <div id="pearlbookContent" class="flex-1 overflow-y-auto p-8 custom-scrollbar bg-solarized-base3 dark:bg-dark-surface relative">
+                    <!-- Dynamic Content -->
+                </div>
+                
+                <!-- Modal Footer -->
+                <div class="px-8 py-4 border-t border-solarized-base1/10 dark:border-dark-border bg-solarized-base2/30 dark:bg-dark-bg/30 text-center">
+                    <p class="text-xs text-solarized-base1 dark:text-dark-muted font-sans opacity-60">Press ESC to close</p>
+                </div>
+            </div>
         </div>
     </div>
 </body>

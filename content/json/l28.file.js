@@ -1,65 +1,156 @@
 window.receiveLectureContent({
   "id": "l28",
-  "title": "Lecture #28: Neocortex Anatomy & Phys",
-  "lecturer": "R. Ramos, Ph.D.",
-  "module": "Neuro",
-  "session": "Lecture #28",
-  "prev": "l27",
-  "next": "l29",
-  "pdf": "pdfs/Lecture # 28. R. Ramos, Ph.D. (PPT).pdf",
-  "summary": "# Lecture #28: Anatomy and Physiology of the Neocortex\n\n**Lecturer:** R. Ramos, Ph.D.\n**Session:** Lecture #28\n\n## 1. Overview of Neocortex (Slide 2-5)\n*   **Structure:** 6 layers (I-VI). \"Neo\" = New (evolutionarily).\n*   **Contrast:** Allocortex (Archicortex/Paleocortex) has 3 layers (e.g., Hippocampus, Olfactory).\n*   **Columnar Organization:** Functional units are vertical columns (Slide 15).\n\n## 2. Layers of the Neocortex (Slide 6-8)\n*   **Layer I (Molecular):** Few cells, mostly axons/dendrites.\n*   **Layer II (External Granular):** Corticocortical connections (to other cortical areas).\n*   **Layer III (External Pyramidal):** Corticocortical output (Callosal/Association fibers).\n*   **Layer IV (Internal Granular):** **INPUT** layer. Receives Thalamic input (VPL, VPM, LGN).\n    *   *Note:* Prominent in Sensory Cortex (Granular cortex). Thin in Motor Cortex (Agranular).\n*   **Layer V (Internal Pyramidal):** **OUTPUT** layer. Betz cells. Projections to Subcortical areas (Spinal Cord, Brainstem, Striatum).\n*   **Layer VI (Multiform):** Feedback to Thalamus.\n\n:::mnemonic\n**Layers Function**\n*   **IV:** In (Thalamus in)\n*   **V:** Out (Motor out)\n*   **VI:** Feedback (Thalamus back)\n:::\n\n## 3. cell Types (Slide 9-11)\n*   **Excitatory (Glutamate):** Pyramidal cells (75%), Spiny Stellate cells.\n*   **Inhibitory (GABA):** Smooth Stellate cells (Interneurons). Basket cells, Chandelier cells.\n\n## 4. Brodmann Areas & Function (Slide 18-35)\n### Frontal Lobe\n*   **Primary Motor (M1):** Area 4. Precentral Gyrus. Execution of movement.\n*   **Premotor/SMA:** Area 6. Planning/Sequencing.\n*   **Frontal Eye Fields:** Area 8. Saccadic eye movements (Look to contralateral side).\n*   **Broca\u2019s Area:** Area 44, 45. Motor Speech (Dominant hemisphere).\n*   **Prefrontal Cortex:** Area 9-12, 46, 47. Executive function, Personality, Judgment.\n\n### Parietal Lobe\n*   **Primary Somatosensory (S1):** Area 3, 1, 2. Postcentral Gyrus. Touch/Proprioception.\n*   **Somatosensory Association:** Area 5, 7. Integration, Stereognosis.\n*   **Inferior Parietal Lobule:** Area 39 (Angular), 40 (Supramarginal). Reading, Math, Spatial.\n\n### Occipital Lobe\n*   **Primary Visual (V1):** Area 17. Calcarine sulcus.\n*   **Visual Association:** Area 18, 19.\n\n### Temporal Lobe\n*   **Primary Auditory (A1):** Area 41, 42. Heschl\u2019s Gyrus.\n*   **Wernicke\u2019s Area:** Area 22. Language Comprehension (Posterior Superior Temporal Gyrus).\n*   **Fusiform Gyrus:** Face recognition.\n\n## 5. Clinical Correlates\n\n:::correlate\n**Gerstmann Syndrome**\n*   **Lesion:** Dominant (Left) Inferior Parietal Lobule (Angular Gyrus).\n*   **Presentation (Tetrad):**\n    1.  Agraphia (Cannot write)\n    2.  Acalculia (Cannot do math)\n    3.  Finger Agnosia (Cannot identify fingers)\n    4.  Left-Right Disorientation\n:::\n\n:::correlate\n**Hemineglect (Contralateral Neglect)**\n*   **Lesion:** Non-Dominant (Right) Parietal Lobe (Association Area).\n*   **Presentation:** Ignores left side of world/body. Shaves half of face, draws half of clock.\n*   **Mechanism:** Right parietal lobe attends to *both* sides; Left only attends to Right. Loss of Right = No Left attention.\n:::\n\n:::correlate\n**Broca's Aphasia**\n*   **Lesion:** Left Inferior Frontal Gyrus (Area 44, 45).\n*   **Type:** Expressive, Non-fluent.\n*   **Presentation:** Broken speech, comprehension intact, frustrated.\n:::\n\n:::correlate\n**Wernicke's Aphasia**\n*   **Lesion:** Left Superior Temporal Gyrus (Area 22).\n*   **Type:** Receptive, Fluent.\n*   **Presentation:** \"Word Salad\", nonsensical speech, poor comprehension, unaware of deficit.\n:::\n\n:::correlate\n**Frontal Lobe Syndrome (Phineas Gage)**\n*   **Lesion:** Prefrontal Cortex.\n*   **Presentation:** Personality changes, disinhibition, poor judgment, reappearance of primitive reflexes.\n:::\n\n:::correlate\n**Prosopagnosia**\n*   **Lesion:** Bilateral Fusiform Gyrus (Occipitotemporal).\n*   **Presentation:** Inability to recognize faces.\n:::\n\n:::correlate\n**Apraxia**\n*   **Lesion:** Premotor/Parietal association areas.\n*   **Presentation:** Inability to perform learned motor tasks despite intact motor strength (e.g., \"Show me how to brush your teeth\" -> fails).\n:::",
-  "mindmap": "## Neocortex\n### Layers\n*   **I**: Molecular\n*   **II/III**: Cortico-cortical\n*   **IV**: Input (Thalamus)\n*   **V**: Output (Motor)\n*   **VI**: Feedback (Thalamus)\n### Syndromes\n*   **Gerstmann**: L Parietal (Math, Writing, Fingers)\n*   **Unilateral Neglect**: R Parietal (Ignore Left)\n*   **Broca**: Expressive Aphasia\n*   **Wernicke**: Receptive Aphasia\n*   **Frontal Lobe**: Personality/Disinhibition\n### Functional Areas\n*   **M1**: Area 4\n*   **S1**: Area 3,1,2\n*   **V1**: Area 17\n*   **A1**: Area 41,42",
-  "questions": [],
+  "summary": "# Lecture 28: Anatomy & Physiology of the Neocortex\n\n**Lecturer:** R. Ramos, Ph.D.\n**Session:** Lecture 28\n\n## 1. Frontal Lobe & Executive Function\n*   **Functions:** Planning, Inhibition, Personality, \"Filter\" (Social norms).\n*   **Pathology:**\n    *   **Frontotemporal Dementia (Pick's Disease):**\n        *   *Gene:* **MAPT** mutation (Tau protein).\n        *   *Symptoms:* **Disinhibition**, Apathy, Personality changes (e.g., gambling, rude comments), early onset (45-65y).\n        *   *Classic Case:* Phineas Gage (Iron rod through frontal lobe).\n    *   **Frontal Eye Fields (Area 8):** Controls biological/voluntary **saccades** (rapid eye movements) to contralateral side.\n\n## 2. Parietal Lobe & Attention\n*   **Right Parietal Lobe (Non-Dominant):**\n    *   *Function:* Spatial attention to BOTH sides of the world.\n    *   *Lesion (Right MCA Stroke):* **Hemispatial Neglect**. Patient interacts *only* with the Right side (eats half plate, draws half clock).\n*   **Left Parietal Lobe (Dominant - Angular Gyrus):**\n    *   *Lesion:* **Gerstmann Syndrome**.\n    *   *Tetrad:*\n        1.  **Agraphia** (Can't write).\n        2.  **Acalculia** (Can't do math).\n        3.  **Finger Agnosia** (Can't ID fingers).\n        4.  **Left-Right Disorientation**.\n\n## 3. Temporal Lobe & Recognition\n*   **Fusiform Face Area (FFA):** Inferior temporal gyrus.\n    *   *Function:* Facial recognition.\n    *   *Lesion:* **Prosopagnosia** (Face Blindness).\n*   **Medial Temporal Lobe (MTL):** Hippocampus/Memory.\n    *   *Alzheimer's:* Tau tangles, Amyloid plaques. Atrophy of MTL.\n\n## 4. Insula & Cingulate\n*   **Insula:** Buried deep in lateral sulcus.\n    *   *Functions:* **Gustatory** (Taste), Interoception (feeling inside body), **Disgust**, Addiction/Craving (Urge to smoke).\n    *   *Stimulation:* Elicits taste sensations (or disgust).\n*   **Cingulate Gyrus:** Part of Limbic System.\n    *   *Cingulotomy:* Surgical lesioning used for intractable **Chronic Pain** or severe **OCD**.\n\n## 5. Histology Highlights\n*   **Betz Cells:** Giant pyramidal cells in Layer 5 of Primary Motor Cortex (Output to Corticospinal tract).\n*   **Cytoarchitecture:** Neocortex has 6 layers. Layer 4 = Input (Sensory), Layer 5 = Output (Motor).",
+  "title": "Lecture 28: Anatomy & Physiology of the Neocortex",
+  "module": "Neuroscience",
+  "questions": [
+    {
+      "question": "A 55-year-old man presents with significant personality changes. He has become sexually inappropriate with strangers and has lost his life savings gambling. He has no memory loss. Genetic testing reveals a MAPT mutation. What is the diagnosis?",
+      "options": [
+        "Alzheimer's Disease",
+        "Frontotemporal Dementia (Behavioral Variant)",
+        "Huntington's Disease",
+        "Vascular Dementia",
+        "Parkinson's Disease"
+      ],
+      "answer": 1,
+      "explanation": "The combination of **Disinhibition** (gambling, inappropriate behavior) + Personality change + MAPT mutation + Early onset (55y) points to **Frontotemporal Dementia**."
+    },
+    {
+      "question": "A patient cannot distinguish their left hand from their right hand and has lost the ability to perform simple addition. Where is the lesion most likely located?",
+      "options": [
+        "Right Parietal Lobe",
+        "Left Inferior Parietal Lobe (Angular Gyrus)",
+        "Right Temporal Lobe",
+        "Left Frontal Lobe",
+        "Occipital Lobe"
+      ],
+      "answer": 1,
+      "explanation": "This is **Gerstmann Syndrome** (Acalculia, L-R confusion). The lesion is in the dominant (usually **Left**) **Angular Gyrus** (Inferior Parietal Lobule)."
+    },
+    {
+      "question": "Electrical stimulation of which brain region is most likely to elicit a sensation of 'bad taste' or disgust?",
+      "options": [
+        "Primary Motor Cortex",
+        "Fusiform Gyrus",
+        "Insular Cortex",
+        "Broca's Area",
+        "Wernicke's Area"
+      ],
+      "answer": 2,
+      "explanation": "The **Insula** processes Gustatory (taste) and visceral information, including feelings of **disgust**."
+    },
+    {
+      "question": "A patient recovering from a stroke combs only the right side of their hair and eats only food on the right side of their tray. Which artery was likely occluded?",
+      "options": [
+        "Left MCA",
+        "Right MCA",
+        "Left ACA",
+        "Right ACA",
+        "Basilar Artery"
+      ],
+      "answer": 1,
+      "explanation": "This is **Hemispatial Neglect** (ignoring the Left side). The lesion is in the **Right Parietal Lobe**, supplied by the **Right MCA**."
+    },
+    {
+      "question": "Damage to Frontal Area 8 would most likely result in a deficit of:",
+      "options": [
+        "Language comprehension",
+        "Face recognition",
+        "Voluntary saccadic eye movements",
+        "Hearing",
+        "Fine motor control of the hand"
+      ],
+      "answer": 2,
+      "explanation": "Frontal Area 8 corresponds to the **Frontal Eye Fields**, which control voluntary rapid eye movements (**saccades**)."
+    }
+  ],
   "flashcards": [
     {
-      "front": "Which Cortical Layer receives Thalamic input?",
-      "back": "Layer IV",
-      "tag": "Neuro"
+      "front": "Role of Insula",
+      "back": "Taste (Gustatory) & Disgust / Interoception",
+      "tag": "Cortex"
     },
     {
-      "front": "Which Cortical Layer sends Motor output?",
-      "back": "Layer V (Betz cells)",
-      "tag": "Neuro"
+      "front": "Lesion causing Hemispatial Neglect",
+      "back": "Right Posterior Parietal Lobe (Right MCA)",
+      "tag": "Neurology"
     },
     {
-      "front": "Gerstmann Syndrome Symptoms?",
+      "front": "Lesion causing Gerstmann Syndrome",
+      "back": "Left Angular Gyrus (Dominant Parietal)",
+      "tag": "Neurology"
+    },
+    {
+      "front": "Symptoms of Gerstmann Syndrome",
       "back": "Agraphia, Acalculia, Finger Agnosia, L-R Disorientation",
-      "tag": "Neuro"
+      "tag": "Neurology"
     },
     {
-      "front": "Gerstmann Syndrome Location?",
-      "back": "Dominant (Left) Inferior Parietal Lobule (Angular Gyrus)",
-      "tag": "Neuro"
+      "front": "Gene associated with Frontotemporal Dementia",
+      "back": "MAPT (Tau protein)",
+      "tag": "Pathology"
     },
     {
-      "front": "Hemineglect Location?",
-      "back": "Non-Dominant (Right) Parietal Lobe",
-      "tag": "Neuro"
+      "front": "Symptoms of Frontotemporal Dementia",
+      "back": "Disinhibition, Apathy, Personality Change",
+      "tag": "Pathology"
     },
     {
-      "front": "Broca's Area Function?",
-      "back": "Motor Speech (Expressive)",
-      "tag": "Neuro"
+      "front": "Function of Fusiform Face Area",
+      "back": "Facial Recognition (Lesion = Prosopagnosia)",
+      "tag": "Cortex"
     },
     {
-      "front": "Wernicke's Area Function?",
-      "back": "Language Comprehension (Receptive)",
-      "tag": "Neuro"
+      "front": "Function of Frontal Eye Fields (Area 8)",
+      "back": "Voluntary Saccades",
+      "tag": "Physiology"
     },
     {
-      "front": "Prosopagnosia is?",
-      "back": "Inability to recognize faces (Fusiform Gyrus)",
-      "tag": "Neuro"
+      "front": "Layer of Neocortex with Betz Cells",
+      "back": "Layer 5 (Output to Spinal Cord)",
+      "tag": "Histology"
     },
     {
-      "front": "Primary Visual Cortex Brodmann Area?",
-      "back": "17",
-      "tag": "Neuro"
+      "front": "Cingulotomy is a treatment for...",
+      "back": "Chronic Pain or OCD",
+      "tag": "Psychiatry"
+    }
+  ],
+  "ankingResource": {
+    "primarySource": "AMBOSS",
+    "chapter": "Neurology > Neuroanatomy > Cerebral Cortex",
+    "alternatives": [
+      {
+        "resource": "FirstAid",
+        "chapter": "Neurology > Anatomy > Lobes"
+      },
+      {
+        "resource": "BandB",
+        "chapter": "Neurology > Cerebrum"
+      }
+    ]
+  },
+  "pearls": [
+    {
+      "title": "Gerstmann Syndrome Tetrad",
+      "content": "Lesion of **Left Angular Gyrus**.\\n1. Agraphia\\n2. Acalculia\\n3. Finger Agnosia\\n4. L-R Disorientation"
     },
     {
-      "front": "Primary Motor Cortex Brodmann Area?",
-      "back": "4",
-      "tag": "Neuro"
+      "title": "Hemispatial Neglect",
+      "content": "Lesion of **Right Parietal Lobe** (Non-dominant).\\nPatient neglects the **Left** side of the world."
+    },
+    {
+      "title": "Frontotemporal Dementia (FTD)",
+      "content": "Behavioral variant. **Disinhibition**, Apathy, Personality change.\\n**MAPT** gene (Tau)."
+    },
+    {
+      "title": "Insula Functions",
+      "content": "Taste, Disgust, Interoception, Addiction Cravings (Smoking)."
+    },
+    {
+      "title": "Prosopagnosia",
+      "content": "Face blindness. Lesion of **Fusiform Face Area** (Temporal Lobe)."
     }
   ]
 });

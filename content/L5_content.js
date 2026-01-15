@@ -18,57 +18,135 @@ const L5_CONTENT = {
 **Lecturer:** S. Zakhary, D.O.
 **Session:** Neuroanatomy
 
-## 1. CT Scan (Computed Tomography)
-*   **Mechanism:** X-ray beams rotating around patient. Measures **Attenuation** (density) in **Hounsfield Units (HU)**.
-    *   **Bone/Blood:** Hyperdense (White).
-    *   **Air/Fat:** Hypodense (Black).
-*   **Indications:**
-    *   **Acute Hemorrhage (Trauma/Stroke):** First-line because it's FAST (<30s). Blood is white (hyperdense) in acute phase.
-    *   **Bone pathology:** Fractures.
-*   **Disadvantages:** ionizing Radiation (Avoid in pregnancy/children).
-*   **Contrast (Iodine-based):**
-    *   **Risks:**
-        1.  **Allergy:** Pre-treat with Benadryl/Prednisone.
-        2.  **Contrast-Induced Nephropathy (CIN):** Check Creatinine (>1.5 is risk).
-        3.  **Metformin:** Stop 48hrs prior (Risk of Lactic Acidosis).
+## 1. Computed Tomography (CT) (Slides 5-18)
+### Mechanism
+*   Uses **Helical X-ray beams** to measure the **attenuation** (density) of tissues.
+*   **Hounsfield Units (HU):** The scale of density.
+    *   **Hyperdense (White):** Bone (+1000 HU), **Acute Hemorrhage**, Calcifications.
+    *   **Isodense (Gray):** Brain parenchyma.
+    *   **Hypodense (Black):** Air (-1000 HU), Fat, CSF, Water.
+*   **Windows:** Different software settings to highlight specific tissues (e.g., Bone Window for fractures, Brain Window for strokes).
 
-## 2. MRI (Magnetic Resonance Imaging)
-*   **Mechanism:** Magnetic fields align protons. No radiation.
+### Clinical Indications
+*   **Neurologic Emergencies:** The "workhorse" of the ER.
+    *   **Acute Hemorrhage (Stroke/Trauma):** First-line test. Fast (<30s).
+    *   **Trauma:** Skull fractures.
+    *   **Initial Stroke:** To rule out hemorrhage before giving tPA.
+
+### CT Contrast (Iodinated)
+*   **Uses:** Infection (Abscess), Tumors, Vascular pathology (CTA).
+*   **Contraindications/Risks:**
+    1.  **Contrast-Induced Nephropathy (CIN):** Check Creatinine/GFR. Hydrate.
+    2.  **Allergy:** Mild (hives) to Anaphylaxis. Pre-medicate with Steroids/Benadryl.
+    3.  **Metformin:** Risk of **Lactic Acidosis**. Discontinue for 48 hours.
+
+---
+
+## 2. Magnetic Resonance Imaging (MRI) (Slides 19-27)
+### Mechanism
+*   Uses strong magnetic fields to align protons. **No Ionizing Radiation.**
 *   **Sequences:**
-    *   **T1:** Fat is bright. Good for anatomy.
-    *   **T2:** Water/CSF is bright. Good for **Pathology** (Edema/Inflammation).
-    *   **Diffusion Weighted (DWI):** Gold standard for **Acute Ischemic Stroke** (detects cytotoxic edema within minutes).
-*   **Indications:**
-    *   Soft tissue pathology (Tumors, Multiple Sclerosis).
-    *   Brainstem/Posterior Fossa lesions (CT has artifact here).
-*   **Disadvantages:** Slow, Expensive, Claustrophobia, **Metal Implants** (Pacemakers contraindicated).
-*   **Contrast (Gadolinium):**
-    *   **Risk:** **Nephrogenic Systemic Fibrosis (NSF)** in patients with renal failure (GFR < 30).
+    *   **T1:** Fat is bright (Anatomy). Good for structure.
+    *   **T2:** Water/CSF is bright (Pathology). Good for Edema.
+    *   **Diffusion Weighted Imaging (DWI):** Most sensitive for **Acute Ischemic Stroke** (shows cytotoxic edema within minutes).
 
-## 3. Enhancement Patterns (Slide 14-15)
-*   **Ring Enhancement:**
-    *   **Abscess:** "Ring-enhancing lesion".
-    *   **Glioblastoma Multiforme (GBM).**
-    *   *Mnemonic: MAGIC DR* (Metastasis, Abscess, Glioblastoma, Infarct, Contusion, Demyelination, Radiation).
-*   **Meningeal Enhancement:** Meningitis / Neurosarcoidosis.
+### Clinical Indications
+*   **Soft Tissue Pathology:** Superior resolution for brain parenchyma.
+*   **Tumors, Multiple Sclerosis (Plaques), Infections.**
+*   **Posterior Fossa/Brainstem:** CT has bone artifact here; MRI does not.
 
-## 4. Angiography & Ultrasound
-*   **Carotid Duplex Ultrasound:**
-    *   Screening for **Carotid Stenosis**.
-    *   Non-invasive, no radiation.
-*   **Conventional Angiography (Digital Subtraction Angiography - DSA):**
-    *   **Gold Standard** for vascular pathology (AVM, Aneurysm).
-    *   **Diagnostic AND Therapeutic:** Can coil aneurysms or retrieve clots (Thrombectomy).
-    *   *Invasive:* Risk of stroke/bleeding at puncture site.
+### MRI Contrast (Gadolinium)
+*   **Risk:** **Nephrogenic Systemic Fibrosis (NSF)**.
+    *   Rare but serious fibrosis of skin/organs.
+    *   **Contraindicated** if GFR < 30 (Severe Renal Failure).
 
-## Summary Table
+### Summary: CT vs. MRI
 
-| Modality | Best For | Contraindications/Risks |
+| Feature | CT | MRI |
 | :--- | :--- | :--- |
-| **CT Head** | Acute Hemorrhage, Trauma, Bone | Radiation, Dye Allergy |
-| **MRI Brain** | Acute Ischemia (DWI), Tumors, MS | Pacemakers, Metal, Claustrophobia |
-| **Angiography** | Aneurysms, AVMs (Intervention) | Invasive, Kidney failure (Dye) |
+| **Speed** | Fast (< 1 min) | Slow (30-45 mins) |
+| **Cost** | Cheaper | Expensive |
+| **Radiation** | Yes (X-ray) | No |
+| **Bone** | Excellent | Poor |
+| **Soft Tissue** | Fair | Excellent |
+| **Contraindications** | Pregnancy (relative) | **Metal Implants** (Pacemakers) |
+
+---
+
+## 3. Vascular Imaging (Slides 28-38)
+### Carotid Duplex Ultrasound
+*   **Indication:** Screening for **Carotid Artery Stenosis** (bruit, TIA).
+*   **Pros:** Non-invasive, No radiation, Portable.
+*   **Cons:** Operator dependent.
+
+### Conventional Angiography (Digital Subtraction Angiography - DSA)
+*   **Gold Standard** for vascular pathology.
+*   **Procedure:** Catheter inserted (femoral/radial) -> dye injected directly into vessels.
+*   **Usage:**
+    *   **Diagnostic:** Aneurysms, AVMs, Vasculitis.
+    *   **Therapeutic:** Coiling aneurysms, Thrombectomy (clot removal).
+*   **Risks:** Invasive stroke risk (1%), access site bleeding.
+
+---
+
+## 4. Clinical Correlates: Intracranial Hemorrhages (Slides 47-53)
+
+:::correlate
+**Epidural Hematoma**
+*   **Vessel:** Rupture of **Middle Meningeal Artery (MMA)** (branch of Maxillary).
+*   **Cause:** Trauma to **Pterion** (Temple). Rarely crosses sutures.
+*   ** CT Appearance:** **Lens-shaped (Biconvex)** hyperdensity.
+*   **Clinical:** "Lucid Interval" (Knocked out -> Fine -> Rapid Decline/Death).
+:::
+
+:::correlate
+**Subdural Hematoma**
+*   **Vessel:** Rupture of **Bridging Veins**.
+*   **Cause:** Shearing forces (falls in elderly, alcoholics, shaken baby).
+*   **CT Appearance:** **Crescent-shaped** hyperdensity. Crosses sutures.
+*   **Clinical:** Gradual onset (Chronic) or Acute.
+:::
+
+:::correlate
+**Subarachnoid Hemorrhage (SAH)**
+*   **Vessel:** Ruptured **Berry Aneurysm** (Circle of Willis) or Trauma.
+*   **CT Appearance:** Hyperdensity in **Sulci and Cisterns** (Starburst).
+*   **Clinical:** **"Thunderclap Headache"** ("Worst headache of my life"), Meningismus.
+:::
+
+---
+
+## 5. Enhancement Patterns (Slide 15)
+*   **Ring-Enhancing Lesion:** Central necrosis with peripheral enhancement.
+    *   **Differential:** **M.A.G.I.C. D.R.**
+    *   **R**adiation necrosis
 `,
+    pearls: [
+        {
+            "title": "Code Stroke Imaging",
+            "content": "**Non-contrast CT** is the first-line radiologic intervention for suspected stroke to rule out hemorrhage."
+        },
+        {
+            "title": "CT Density Rule",
+            "content": "**Hyperdense (White)** = Bone, **Acute Blood**, Calcification.\n**Hypodense (Black)** = Air, Fat, Water, CSF."
+        },
+        {
+            "title": "Metformin & Contrast",
+            "content": "Metformin must be withheld for **48 hours** after iodinated contrast administration to prevent **Lactic Acidosis**."
+        },
+        {
+            "title": "MRI Safety",
+            "content": "Strong magnetic fields can dislodge ferromagnetic objects. **Pacemakers** and metallic implants are absolute contraindications."
+        },
+        {
+            "title": "Gadolinium & Renal Failure",
+            "content": "Avoid Gadolinium in patients with GFR < 30 due to the risk of **Nephrogenic Systemic Fibrosis (NSF)**."
+        },
+        {
+            "title": "Ring-Enhancing Lesion",
+            "content": "Classic Differential (MAGIC DR): **Metastasis**, **Abscess**, Glioblastoma, Infarct, Contusion, Demyelination, Radiation."
+        }
+    ],
     questions: [
         {
             question: "**1. A 65-year-old male presents to the ER with sudden onset right-sided weakness and aphasia starting 30 minutes ago. What is the most appropriate INITIAL imaging modality?**",

@@ -1,161 +1,215 @@
-const L25_CONTENT = {
-    id: 'l25',
-    title: 'Lecture #25: Limbic System',
-    lecturer: 'J. Xie, Ph.D.',
-    module: 'Neurology',
-    session: 'Lecture #25',
-    prev: 'l24',
-    next: 'l26',
-    pdf: 'pdfs/Lecture # 25. J. Xie, Ph.D. (PPT).pdf',
-    transcript: 'transcripts/Lecture #25_ Limbic System - Neuroanatomy, Regional Function and Limbic Pathology Faculty_ J. Xie, Ph.D..srt',
-    ankingResource: {
-        primarySource: 'BandB',
-        chapter: 'Neurology > Limbic System'
-    },
+export const L25_CONTENT = {
+    id: "l25",
     summary: `
-# Lecture #25: Limbic System
+# Lecture 25: Visual System - Anatomy and Pathways
 
-**Lecturer:** J. Xie, Ph.D.
-**Session:** Neurology
+**Lecturer:** G. Otazu, Ph.D.
+**Session:** Lecture 25
 
-## 1. Components (The "HOME" Mnemonic)
-*   **Homeostasis:** Hypothalamus.
-*   **Olfaction:** Olfactory Cortex.
-*   **Memory:** Hippocampus.
-*   **Emotion:** Amygdala.
+## 1. Eye Anatomy & Physiology
+*   **Glaucoma:** Increased Intraocular Pressure (IOP).
+    *   *Open-Angle:* Slow drainage (Trabecular meshwork). Chronic.
+    *   *Closed-Angle:* Iris blocks drainage angle. **Emergency** (Pain, Red eye, Haloes).
+*   **Accommodation:**
+    *   **Near Vision:** Ciliary Muscle **Contracts** $\\to$ Zonules **Relax** $\\to$ Lens becomes **Rounder**.
+*   **Photoreceptors:**
+    *   *Rods:* High sensitivity (Night), Peripheral retina.
+    *   *Cones:* Color, Acuity, Concentrated in **Fovea**.
 
-## 2. Key Structures
-*   **Hippocampus:**
-    *   *Function:* Consolidation of Short-term -> Long-term memory (Declarative). Spatial memory.
-    *   *Lesion:* **Anterograde Amnesia** (Cannot form new memories). Patient H.M.
-    *   *Circuit:* **Papez Circuit** (Hippocampus -> Fornix -> Mammillary Bodies -> Thalamus (Anterior) -> Cingulate -> Hippocampus).
-*   **Amygdala:**
-    *   *Function:* Fear, Aggression, Emotional tagging of memories.
-    *   *Lesion (Bilateral):* **Kluver-Bucy Syndrome**:
-        1.  Hyperorality.
-        2.  Hypersexuality.
-        3.  Docility (No fear/aggression).
-*   **Cingulate Gyrus:** Emotional processing, error detection.
+## 2. Visual Pathway & Lesions (Slide 26-30)
+1.  **Optic Nerve:** Monocular blindness.
+2.  **Optic Chiasm:** Decussation of **Nasal** fibers (Temporal visual field).
+    *   *Lesion:* **Bitemporal Hemianopsia** (Tunnel Vision).
+    *   *Cause:* **Pituitary Adenoma**.
+3.  **Optic Tract:** Contralateral Homonymous Hemianopsia.
+4.  **Optic Radiations:**
+    *   **Meyer's Loop (Temporal Lobe):** Carries Superior field information. *Lesion:* **"Pie in the Sky"** (Contralateral Superior Quadrantanopia).
+    *   **Dorsal Radiation (Parietal Lobe):** Carries Inferior field information. *Lesion:* **"Pie on the Floor"** (Contralateral Inferior Quadrantanopia).
+5.  **Visual Cortex (PCA Supply):**
+    *   *Lesion:* **Contralateral Homonymous Hemianopsia with Macular Sparing**.
+    *   *Why Sparing?* Macula has dual blood supply (PCA + MCA).
 
-## 3. Pathology
-*   **Wernicke-Korsakoff Syndrome:**
-    *   *Cause:* Thiamine (B1) Deficiency (Alcoholics).
-    *   *Path:* Atrophy of **Mammillary Bodies** and Medial Thalamus.
-    *   *Symptoms:*
-        *   **Wernicke:** Confusion, Ataxia, Ophthalmoplegia (Reversible).
-        *   **Korsakoff:** Anterograde/Retrograde Amnesia, **Confabulation** (Irreversible).
-*   **HSV Encephalitis:**
-    *   *Target:* Temporal Lobes (Hippocampus/Amygdala).
-    *   *Symptoms:* Fever, Headache, Seizures, Behavioral changes, Amnesia.
-*   **Temporal Lobe Epilepsy:**
-    *   *Signs:* Auras (Olfactory/Gustatory hallucinations), Deja vu, Jamais vu.
+## 3. Higher Order Processing (Slide 37-44)
+*   **Dorsal Stream ("Where?"):** Projects to **Parietal Lobe**.
+    *   *Function:* Motion, Spatial relationships.
+    *   *Lesion (Right Parietal):* **Hemispatial Neglect** (Ignores left side of world).
+*   **Ventral Stream ("What?"):** Projects to **Temporal Lobe**.
+    *   *Function:* Color, Form, Faces.
+    *   *Lesion:* **Prosopagnosia** (Face blindness), **Achromatopsia** (No color).
 
 ## 4. Clinical Correlates
 :::correlate
-**Kluver-Bucy Syndrome**
-*   **Lesion:** Bilateral Amygdala damage (e.g., HSV-1, Trauma).
-*   **Features:**
-    *   **Docility:** Loss of fear/anger.
-    *   **Hyperorality:** Putting objects in mouth.
-    *   **Hypersexuality:** Inappropriate behavior.
-    *   **Visual Agnosia:** Psychic blindness.
+**Papilledema**
+*   Swelling of the optic disc due to increased **Intracranial Pressure (ICP)**.
+*   The optic nerve is surrounded by meninges/CSF, so ICP is transmitted directly to it.
 :::
 
 :::correlate
-**Patient H.M.**
-*   **Case:** Bilateral Medial Temporal Lobe resection for epilepsy.
-*   **Result:** Severe **Anterograde Amnesia**. Could not form new episodic memories, but Procedural memory (motor skills) remained intact.
+**Hemispatial Neglect**
+*   **Lesion:** **Right Posterior Parietal Cortex**.
+*   **Presentation:** Patient ignores the **Left** side of their body/world (e.g., eats only right half of plate, draws half a clock).
+*   *Note:* Left parietal lesions rarely cause neglect because the Right hemisphere attends to *both* sides, while the Left only attends to the Right.
 :::
 `,
+    pearls: [
+        {
+            title: "Pituitary Adenoma Defect",
+            content: "**Bitemporal Hemianopsia** ('Tunnel Vision'). Compresses Optic Chiasm."
+        },
+        {
+            title: "Meyer's Loop Lesion",
+            content: "Temporal Lobe lesion $\\to$ **'Pie in the Sky'** (Contralateral Superior Quadrantanopia)."
+        },
+        {
+            title: "Macular Sparing",
+            content: "Hallmark of **PCA Stroke** (Occipital cortex). Peripheral vision lost, central (macular) vision preserved due to MCA collaterals."
+        },
+        {
+            title: "Accommodation Mechanism",
+            content: "Ciliary Muscle **Contracts** $\\to$ Zonules **Relax** $\\to$ Lens **Rounds**."
+        },
+        {
+            title: "Hemispatial Neglect",
+            content: "Damage to **Right Parietal Lobe** (Dorsal Stream). Patient neglects **Left** side of world."
+        }
+    ],
     questions: [
         {
-            question: "**1. Bilateral lesions of the amygdala result in which constellation of symptoms?**",
+            question: "A patient presents with 'tunnel vision', bumping into objects on their periphery. MRI reveals a mass compressing the optic chiasm. What is the diagnosis?",
             options: [
-                "Parkinsonism",
-                "Wernicke's Aphasia",
-                "Kluver-Bucy Syndrome",
-                "Gerstmann Syndrome",
-                "Wallenberg Syndrome"
+                "Right Homonymous Hemianopsia",
+                "Left Homonymous Hemianopsia",
+                "Bitemporal Hemianopsia",
+                "Superior Quadrantanopia",
+                "Macular Degeneration"
             ],
-            correctAnswer: 2,
-            rationale: "**Kluver-Bucy Syndrome** (Hyperorality, Hypersexuality, Docility) is caused by bilateral amygdala damage."
+            answer: 2,
+            explanation: "Compression of the **Optic Chiasm** (e.g., Pituitary Adenoma) affects crossing nasal fibers, leading to loss of both temporal visual fields (**Bitemporal Hemianopsia**)."
         },
         {
-            question: "**2. A chronic alcoholic presents with confusion, ataxia, and ophthalmoplegia. This is caused by damage to which structure?**",
+            question: "A patient who suffered a stroke can see perfectly well but cannot recognize the faces of his family members. Where is the lesion located?",
             options: [
-                "Hippocampus",
-                "Mammillary Bodies",
-                "Amygdala",
-                "Cingulate Gyrus",
-                "Basal Ganglia"
-            ],
-            correctAnswer: 1,
-            rationale: "This is **Wernicke Encephalopathy**. It involves damage to the **Mammillary Bodies** and dorsomedial thalamus due to Thiamine (B1) deficiency."
-        },
-        {
-            question: "**3. Which structure is the primary site for converting short-term memory into long-term memory?**",
-            options: [
-                "Amygdala",
-                "Hippocampus",
-                "Hypothalamus",
-                "Fornix",
-                "Caudate Nucleus"
-            ],
-            correctAnswer: 1,
-            rationale: "The **Hippocampus** is essential for memory consolidation. Lesions cause anterograde amnesia."
-        },
-        {
-            question: "**4. A patient with Herpes Simplex Encephalitis typically has necrosis in which area of the brain?**",
-            options: [
-                "Frontal Lobe",
-                "Parietal Lobe",
-                "Temporal Lobe",
-                "Occipital Lobe",
+                "Primary Visual Cortex (V1)",
+                "Parietal Lobe (Dorsal Stream)",
+                "Temporal Lobe (Ventral Stream)",
+                "Frontal Eye Fields",
                 "Cerebellum"
             ],
-            correctAnswer: 2,
-            rationale: "HSV-1 Encephalitis has a predilection for the **Temporal Lobes**, often affecting the limbic system (Hippocampus/Amygdala)."
+            answer: 2,
+            explanation: "**Prosopagnosia** (face blindness) results from damage to the **Ventral Stream ('What' pathway)** in the inferior temporal lobe (Fusiform Gyrus)."
         },
         {
-            question: "**5. Confabulation (making up stories to fill memory gaps) is a characteristic feature of:**",
+            question: "To view a near object (accommodation), which of the following occurs?",
             options: [
-                "Alzheimer's Disease",
-                "Korsakoff Syndrome",
-                "Vascular Dementia",
-                "Huntington's Disease",
-                "Parkinson's Disease"
+                "Ciliary muscle relaxes, Zonules tighten, Lens flattens",
+                "Ciliary muscle contracts, Zonules tighten, Lens rounds",
+                "Ciliary muscle contracts, Zonules relax, Lens rounds",
+                "Ciliary muscle relaxes, Zonules relax, Lens flattens",
+                "Pupil dilates"
             ],
-            correctAnswer: 1,
-            rationale: "**Korsakoff Syndrome** (chronic thiamine deficiency) presents with amnesia and confabulation."
+            answer: 2,
+            explanation: "For near vision: Ciliary muscle **contracts** (moves closer to lens), causing zonule fibers to **relax** (slacken), allowing the lens to spring into a **rounder** shape."
+        },
+        {
+            question: "A patient has a 'Pie in the Sky' visual field defect (Right Superior Quadrantanopia). Where is the lesion?",
+            options: [
+                "Right Parietal Lobe",
+                "Left Parietal Lobe",
+                "Right Temporal Lobe (Meyer's Loop)",
+                "Left Temporal Lobe (Meyer's Loop)",
+                "Optic Chiasm"
+            ],
+            answer: 3,
+            explanation: "A **Right** visual field defect implies a **Left** sided lesion. 'Pie in the Sky' (Superior) implies **Meyer's Loop** (Temporal Lobe). So: **Left Temporal Lobe**."
+        },
+        {
+            question: "Which finding distinguishes an Occipital Lobe stroke (PCA territory) from an Optic Tract lesion?",
+            options: [
+                "Homonymous Hemianopsia",
+                "Macular Sparing",
+                "Pupillary Light Reflex defect",
+                "Color blindness",
+                "Bitemporal loss"
+            ],
+            answer: 1,
+            explanation: "**Macular Sparing** is characteristic of cortical (Occipital/PCA) strokes because the macula receives collateral blood supply from the MCA. Optic tract lesions do not spare the macula."
         }
     ],
     flashcards: [
-        { "front": "Function of Hippocampus?", "back": "Memory Consolidation (ST -> LT)", "tag": "Neuro" },
-        { "front": "Function of Amygdala?", "back": "Emotion (Fear/Aggression)", "tag": "Neuro" },
-        { "front": "Wernicke-Korsakoff Cause?", "back": "Thiamine (B1) Deficiency", "tag": "Neuro" },
-        { "front": "Wernicke-Korsakoff Lesion Location?", "back": "Mammillary Bodies / Medial Thalamus", "tag": "Neuro" },
-        { "front": "Kluver-Bucy Syndrome Lesion?", "back": "Bilateral Amygdala", "tag": "Neuro" },
-        { "front": "Kluver-Bucy Symptoms?", "back": "Hypersexuality, Hyperorality, Docility", "tag": "Neuro" },
-        { "front": "Patient H.M. deficit?", "back": "Anterograde Amnesia (No new memories)", "tag": "Neuro" },
-        { "front": "Papez Circuit Major Structures?", "back": "Hippocampus -> Mammillary Bodies -> Thalamus -> Cingulate", "tag": "Neuro" },
-        { "front": "HSV Encephalitis Target?", "back": "Temporal Lobes", "tag": "Neuro" },
-        { "front": "Confabulation is seen in?", "back": "Korsakoff Psychosis", "tag": "Neuro" }
+        {
+            front: "Visual Defect: Pituitary Adenoma",
+            back: "Bitemporal Hemianopsia",
+            tag: "Pathology"
+        },
+        {
+            front: "Visual Defect: Right Optic Tract Lesion",
+            back: "Left Homonymous Hemianopsia",
+            tag: "Pathology"
+        },
+        {
+            front: "Visual Defect: Left Temporal Lobe (Meyer's Loop)",
+            back: "Right Superior Quadrantanopia ('Pie in the Sky')",
+            tag: "Pathology"
+        },
+        {
+            front: "Visual Defect: Right Parietal Lobe",
+            back: "Left Inferior Quadrantanopia ('Pie on the Floor')",
+            tag: "Pathology"
+        },
+        {
+            front: "Dorsal Stream function",
+            back: "'Where' pathway (Motion, Location) - Parietal Lobe",
+            tag: "Physiology"
+        },
+        {
+            front: "Ventral Stream function",
+            back: "'What' pathway (Color, Faces, Form) - Temporal Lobe",
+            tag: "Physiology"
+        },
+        {
+            front: "Lesion causing Hemispatial Neglect",
+            back: "Right Parietal Lobe",
+            tag: "Pathology"
+        },
+        {
+            front: "Lesion causing Prosopagnosia",
+            back: "Inferior Temporal Lobe (Ventral Stream)",
+            tag: "Pathology"
+        },
+        {
+            front: "Papilledema indicates...",
+            back: "Increased Intracranial Pressure (ICP)",
+            tag: "Pathology"
+        },
+        {
+            front: "Glaucoma type that is a medical emergency",
+            back: "Closed-Angle Glaucoma",
+            tag: "Pathology"
+        }
     ],
+    ankingResource: {
+        primarySource: "AMBOSS",
+        chapter: "Neurology > Visual Pathways",
+        alternatives: [
+            { resource: "FirstAid", chapter: "Neurology > Ophthalmology" },
+            { resource: "BandB", chapter: "Neurology > Vision" }
+        ]
+    },
     mindmap: `
-## Limbic System
-### Functions (HOME)
-*   **H**omeostasis (Hypothalamus)
-*   **O**lfaction
-*   **M**emory (Hippocampus)
-*   **E**motion (Amygdala)
-### Pathology
-*   **Wernicke-Korsakoff**: B1 Def. Mammillary Bodies. Confabulation, Ataxia.
-*   **Kluver-Bucy**: Bilat Amygdala. Hypersexuality, Docility.
-*   **HSV Encephalitis**: Temporal Lobes.
-*   **Alzheimer's**: Hippocampal atrophy (early).
-`
-};
+## Visual System Pathology
 
-if (typeof window !== 'undefined') {
-    window.L25_CONTENT = L25_CONTENT;
-}
+### Visual Pathway Defects
+*   **Chiasm**: Pituitary Adenoma -> Bitemporal Hemianopsia.
+*   **Temporal Lobe (Meyer's Loop)**: Pie in the Sky (Sup. Quadrantanopia).
+*   **Parietal Lobe**: Pie on the Floor (Inf. Quadrantanopia).
+*   **Occipital Cortex (PCA)**: Homonymous Hemianopsia + **Macular Sparing**.
+
+### Cortex Streams
+*   **Dorsal (Parietal)**: "Where". Lesion: **Neglect** (Right side).
+*   **Ventral (Temporal)**: "What". Lesion: **Prosopagnosia**.
+
+### Eye Pathology
+*   **Glaucoma**: High IOP. Open vs Closed (Emergency).
+*   **Papilledema**: High ICP.
+\`
+};
