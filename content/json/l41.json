@@ -1,0 +1,65 @@
+{
+  "id": "l41",
+  "title": "Lecture #41: From Myelopathy to Myopathy",
+  "lecturer": "A. Leder, D.O.",
+  "module": "Neuro",
+  "session": "Lecture #41",
+  "prev": "l40",
+  "next": "l42",
+  "pdf": "pdfs/Lecture # 41. A. Leder, D.O. (PPT)-1.pdf",
+  "summary": "# Lecture #41: From Myelopathy to Myopathy\n\n**Lecturer:** A. Leder, D.O.\n**Session:** Lecture #41\n\n## Motor Unit Overview\n\n:::highyield\n**Motor Unit Levels (Top to Bottom)**\n1. **Spinal cord (Myelopathy)**\n2. **Anterior horn cell (Motor neuron disorders)**\n3. **Ventral root (Radiculopathy)**\n4. **Dorsal root ganglion**\n5. **Plexus (Plexopathy)**\n6. **Peripheral nerve (Neuropathy)**\n7. **Neuromuscular junction**\n8. **Muscle (Myopathy)**\n:::\n\n## Spinal Cord Disorders (Myelopathies)\n\n**Causes:**\n*   **Autoimmune:** Lupus, Sj\u00f6gren's, MS, neuromyelitis optica, MOG antibody disease.\n*   **Neoplasm:** Primary or metastatic.\n*   **Radiation myelopathy:** Symptoms months to years after treatment.\n*   **Vascular:** Infarct, hemorrhage.\n*   **Infection:** Viral, bacterial.\n*   **Compression/Trauma:** Disc herniation, fracture, epidural hematoma.\n\n**Presentation:**\n*   Gait instability, stiffness, clumsiness, weakness in legs, sensory level, bladder/bowel dysfunction.\n\n## Anterior Horn Cell Disorders\n\n### Spinal Muscular Atrophy (SMA)\n\n:::highyield\n**Spinal Muscular Atrophy**\n*   **Genetics:** Inherited (autosomal recessive). Degeneration of anterior horn cells.\n*   **Types:** Type 0-1a (severe, infant) \u2192 Type 4 (mild, adult can walk independently).\n*   **Presentation:** Progressive weakness, hypotonia, areflexia. Earlier onset = more severe.\n:::\n\n### Poliomyelitis\n\n:::correlate\n**Poliomyelitis**\n*   **Pathogen:** Enterovirus (highly infectious).\n*   **Mechanism:** **1% of infected patients** develop acute paralytic syndrome (anterior horn cell infection).\n*   **Presentation:** Painful muscle spasms before flaccid paralysis, areflexia.\n*   **History:** Iron lung used in 1940s-50s before vaccine (1955).\n*   **Current risk:** Unvaccinated populations.\n:::\n\n### West Nile Virus\n\n**Epidemiology:** Found in US since 1999. <1% develop neuroinvasive disease, but 5-10% of those are fatal.\n\n**Presentation:** Fever, headache, rash, body aches \u2192 Flaccid paralysis, areflexia, difficulty speaking/swallowing.\n\n### ALS (Amyotrophic Lateral Sclerosis)\n\n:::highyield\n**ALS**\n*   **Presentation:** **Combination of UMN + LMN symptoms**.\n*   **Motor:** Limb weakness, muscle atrophy, **fasciculations** (rippling), hyperreflexia.\n*   **Bulbar:** Difficulty speaking, chewing, swallowing.\n*   **Prognosis:** Progressive, fatal.\n:::\n\n## Radiculopathy (Nerve Root Disorders)\n\n**Causes:**\n*   **Compression:** Disc herniation, spinal stenosis, spondylosis.\n*   **Neoplasm:** Primary or metastatic.\n*   **Infection:** Herpes zoster, Lyme disease.\n\n**Presentation:**\n*   **Radiating pain** along dermatome.\n*   **Reduced reflex** along spinal root.\n*   **Sensory loss** in dermatomal distribution.\n*   **Weakness** in myotomal distribution.\n\n## Plexopathies\n\n### Brachial Plexopathy (Parsonage-Turner Syndrome)\n\n**Presentation:** Acute onset severe shoulder pain (localized) \u2192 Weakness develops days-weeks later.\n\n## Peripheral Neuropathies\n\n### Guillain-Barr\u00e9 Syndrome (GBS)\n\n:::highyield\n**Guillain-Barr\u00e9 Syndrome**\n*   **Trigger:** Post-infectious (Campylobacter, CMV, EBV, Mycoplasma).\n*   **Presentation:** Ascending paralysis, areflexia, minimal sensory loss.\n*   **Progression:** Can progress rapidly (>30% respiratory involvement within 24 hours \u2192 ICU).\n*   **CSF:** \u2191 Protein, normal cell count (albuminocytologic dissociation).\n*   **Treatment:** **IVIG or plasma exchange** (equally efficacious). **Steroids NOT effective**.\n*   **Prognosis:** 50-70% respond to treatment.\n:::\n\n### CIDP (Chronic Inflammatory Demyelinating Polyneuropathy)\n\n**Presentation:** Symmetric proximal + distal weakness/sensory loss over **>2 months**. Progressive, stepwise, or relapsing. Postural tremor common.\n\n**Treatment:** IVIG, corticosteroids, or plasma exchange (50-70% respond).\n\n### Mononeuropathies\n\n**Examples:** Carpal tunnel syndrome (median nerve entrapment).\n\n## Neuromuscular Junction Disorders\n\n### Myasthenia Gravis\n\n:::highyield\n**Myasthenia Gravis**\n*   **Mechanism:** Autoantibodies against **acetylcholine receptors** (or MuSK).\n*   **Hallmark:** **Fatigability** (symptoms worsen throughout day).\n*   **Presentation:** Ptosis (eyelid droop), diplopia, difficulty swallowing/chewing.\n*   **Antibodies:** AChR antibodies or MuSK antibodies.\n*   **Treatment:** Highly treatable. Acetylcholinesterase inhibitors, immunosuppression, thymectomy may be warranted.\n:::\n\n### Lambert-Eaton Myasthenic Syndrome (LEMS)\n\n:::correlate\n**Lambert-Eaton Syndrome**\n*   **Mechanism:** Autoantibodies against **presynaptic voltage-gated calcium channels**.\n*   **Association:** **50% have underlying small cell lung cancer**.\n*   **Presentation:** Proximal muscle weakness. **Reflexes briefly improve after exercise** (distinguishing feature).\n*   **Treatment:** 3,4-Diaminopyridine. Oncology workup for cancer.\n:::\n\n### Botulism\n\n**Mechanism:** Botulinum toxin blocks acetylcholine release at NMJ.\n\n**Transmission:** Foodborne ingestion, wound colonization, or aerosolized.\n\n**Presentation:** Blurred vision, slurred speech, **descending paralysis** (starts top, works down), respiratory failure.\n\n## Myopathies (Muscle Disorders)\n\n### Inclusion Body Myositis\n\n**Epidemiology:** Most common myopathy in adults. Males 2x > Females.\n\n**Presentation:** **Knee extensor weakness** (most common), asymmetric distal weakness.\n\n### General Myopathy Features\n\n**Symptoms:**\n*   Exercise intolerance, muscle atrophy, weakness, cramps, muscle hypertrophy (certain types), myoglobinuria, pain at rest or with exertion.\n\n**Causes:**\n*   **Inherited:** Muscular dystrophies, metabolic myopathies.\n*   **Acquired:** Inflammatory (polymyositis, dermatomyositis), endocrine (thyroid, Cushing's), toxic (statins, steroids, alcohol).",
+  "mindmap": "## Motor Unit Disorders\n### Spinal Cord (Myelopathy)\n*   **Autoimmune**: MS, NMO, MOG\n*   **Structural**: Compression, trauma\n*   **Vascular**: Infarct, hemorrhage\n### Anterior Horn Cell\n*   **SMA**: Inherited, progressive weakness\n*   **Polio**: 1% paralysis, post-infectious\n*   **ALS**: UMN + LMN signs\n### Radiculopathy\n*   **Compression**: Disc herniation\n*   **Presentation**: Radiating pain, dermatomal\n### Peripheral Neuropathy\n*   **GBS**: Ascending, albuminocytologic dissociation\n*   **CIDP**: Chronic, >2 months\n### Neuromuscular Junction\n*   **MG**: Fatigability, AChR antibodies\n*   **LEMS**: Lung cancer, reflexes improve after exercise\n*   **Botulism**: Descending paralysis\n### Myopathy\n*   **Inclusion body**: Knee extensor weakness\n*   **Inflammatory**: Polymyositis, dermatomyositis",
+  "questions": [],
+  "flashcards": [
+    {
+      "front": "ALS hallmark?",
+      "back": "Both UMN + LMN signs (hyperreflexia + fasciculations)",
+      "tag": "Neuro"
+    },
+    {
+      "front": "GBS CSF finding?",
+      "back": "Albuminocytologic dissociation (\u2191 protein, normal cells)",
+      "tag": "Neuro"
+    },
+    {
+      "front": "GBS treatment?",
+      "back": "IVIG or plasma exchange (steroids NOT effective)",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Myasthenia gravis hallmark?",
+      "back": "Fatigability (symptoms worsen throughout day)",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Lambert-Eaton association?",
+      "back": "50% have small cell lung cancer",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Lambert-Eaton distinguishing feature?",
+      "back": "Reflexes briefly improve after exercise",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Botulism paralysis pattern?",
+      "back": "Descending (starts top, works down)",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Polio % developing paralysis?",
+      "back": "1% of infected patients",
+      "tag": "Neuro"
+    },
+    {
+      "front": "SMA inheritance?",
+      "back": "Autosomal recessive",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Inclusion body myositis most common weakness?",
+      "back": "Knee extensor weakness",
+      "tag": "Neuro"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+window.receiveLectureContent({
+  "id": "l23",
+  "title": "Lecture #23: Pathology of Auditory and Vestibular System",
+  "lecturer": "A. Reno, D.O.",
+  "module": "Neurology",
+  "session": "Lecture #23",
+  "prev": "l22",
+  "next": "l24",
+  "pdf": "pdfs/Lecture # 23. A. Reno, D.O. (PPT).pdf",
+  "summary": "# Lecture #23: Pathology of Auditory & Vestibular System\n\n**Lecturer:** Adam Reno, D.O.\n**Session:** Neurology\n\n## 1. Vertigo & Dizziness\n*   **Definitions:** It is critical to distinguish \"lightheadedness\" (presyncope) from **Vertigo** (illusion of movement/spinning).\n*   **Peripheral vs. Central Vertigo:**\n    *   **Peripheral:**\n        *   *Nystagmus:* Horizontal/Rotary, **Extinguishes** with fixation, **Fatigable**.\n        *   *Hearing:* Often associated with tinnitus/hearing loss.\n        *   *Gait:* Walking preserved (usually).\n        *   *Examples:* BPPV, Meniere's, Vestibulitis.\n    *   **Central:**\n        *   *Nystagmus:* Vertical/Purely Rotary, **Does NOT extinguish**, **Non-fatigable**.\n        *   *Hearing:* Usually normal.\n        *   *Gait:* Severe ataxia (cannot walk).\n        *   *Examples:* Stroke (Cerebellar/Brainstem), MS, Tumors.\n\n## 2. Specific Vestibular Disorders\n### Benign Paroxysmal Positional Vertigo (BPPV)\n*   **Mechanism:** Dislodged otoconia (calcium carbonate crystals) in semicircular canals (usually Posterior).\n*   **Presentation:** Episodic vertigo (< 1 minute) triggered by **head movement**. No hearing loss.\n*   **Diagnosis:** **Dix-Hallpike Maneuver** (Rotary nystagmus).\n*   **Treatment:** **Epley Maneuver**.\n\n### Vestibular Neuritis (Vestibulitis)\n*   **Mechanism:** Inflammation of CN VIII (often post-viral).\n*   **Presentation:** **Continuous** vertigo for days. Nausea/Vomiting. **No hearing loss**.\n*   **Exam:** Positive Head Impulse Test. Nystagmus away from lesion.\n\n### Labyrinthitis\n*   **Mechanism:** Inflammation of inner ear (Cochlea + Vestibule).\n*   **Presentation:** Continuous vertigo + **Hearing Loss** + Tinnitus.\n\n### Meniere's Disease (Endolymphatic Hydrops)\n*   **Mechanism:** Increased endolymphatic fluid pressure.\n*   **Triad:** 1. Episodic Vertigo (min-hours) 2. Sensorineural Hearing Loss (fluctuating, low-freq) 3. Tinnitus (\"Roaring\") / Aural fullness.\n*   **Treatment:** Low sodium diet, Diuretics (HCTZ/Triamterene).\n\n## 3. Hearing Loss Evaluation\n*   **Conductive (CHL):** Outer/Middle ear problem (Cerumen, Otitis Media, Otosclerosis).\n*   **Sensorineural (SNHL):** Inner ear/Nerve problem (Presbycusis, Noise, Drugs, Meniere's).\n*   **Tuning Fork Tests (512 Hz):**\n    *   **Weber:**\n        *   *Normal:* Midline.\n        *   *CHL:* Localizes to **AFFECTED** ear.\n        *   *SNHL:* Localizes to **UNAFFECTED** ear.\n    *   **Rinne:**\n        *   *Normal:* AC > BC (Positive).\n        *   *CHL:* BC > AC (Negative).\n        *   *SNHL:* AC > BC (Positive - but reduced duration/volume compared to normal).\n\n## 4. Clinical Correlates\n:::correlate\n**Acoustic Neuroma (Vestibular Schwannoma)**\n*   **Mechanism:** Tumor of Schwann cells on CN VIII (Cerebellopontine angle).\n*   **Presentation:** Unilateral SNHL, Tinnitus, Vertigo (late).\n*   **Association:** Neurofibromatosis Type 2 (Bilateral acoustic neuromas).\n:::\n\n:::correlate\n**Pharmacology**\n*   **Ototoxicity:** Aminoglycosides (Gentamicin), Loop Diuretics (Furosemide), Cisplatin, ASA.\n*   **Vertigo Tx:** Antihistamines (Meclizine), Benzodiazepines (Diazepam - acute only), Antiemetics (Ondansetron).\n:::",
+  "mindmap": "## Auditory & Vestibular Pathology\n### Hearing Loss\n*   **Conductive (CHL)**: Outer/Middle Ear. Weber -> Affected. Rinne -> BC>AC.\n*   **Sensorineural (SNHL)**: Inner Ear/Nerve. Weber -> Unaffected. Rinne -> AC>BC.\n### Vertigo\n*   **Peripheral**\n    *   **BPPV**: <1 min, movement triggered. (Dix-Hallpike -> Epley).\n    *   **Neuritis**: Days, No HL.\n    *   **Labyrinthitis**: Days + HL.\n    *   **Meniere's**: Hours, Fluctuating HL, Tinnitus, Fullness.\n*   **Central**\n    *   **Stroke/Tumor**: Vertical nystagmus, Ataxia, No suppression.",
+  "questions": [],
+  "ankingResource": {
+    "primarySource": "BandB",
+    "chapter": "Neurology > The Ear"
+  },
+  "flashcards": [
+    {
+      "front": "Diagnosis: Vertigo < 1 min, triggered by head movement?",
+      "back": "BPPV",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Diagnosis: Continuous vertigo, no hearing loss, post-viral?",
+      "back": "Vestibular Neuritis",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Diagnosis: Episodic vertigo + Hearing Loss + Tinnitus?",
+      "back": "Meniere's Disease",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Diagnosis: Continuous vertigo + Hearing Loss?",
+      "back": "Labyrinthitis",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Nystagmus in Peripheral Vertigo?",
+      "back": "Horizontal/Rotary, Fatigable, Suppresses with fixation",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Nystagmus in Central Vertigo?",
+      "back": "Vertical, Non-fatigable, No suppression",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Weber lateralizes to Right ear. Causes?",
+      "back": "Right Conductive OR Left Sensorineural",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Rinne: BC > AC. Meaning?",
+      "back": "Conductive Hearing Loss (Negative Rinne)",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Mechanism of BPPV?",
+      "back": "Dislodged Otoconia in Semicircular Canal",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Acute Tx for Meniere's?",
+      "back": "Salt restriction, Diuretics",
+      "tag": "Neuro"
+    }
+  ]
+});

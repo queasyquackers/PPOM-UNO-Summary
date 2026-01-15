@@ -1,0 +1,69 @@
+{
+  "id": "l18",
+  "title": "Lecture #18: Vestibular System",
+  "lecturer": "R. Ramos, Ph.D.",
+  "module": "Neuroanatomy",
+  "session": "Lecture #18",
+  "prev": "l17",
+  "next": "l19",
+  "pdf": "pdfs/Lecture # 18. R. Ramos, Ph.D. (PPT)-1.pdf",
+  "summary": "# Lecture #18: Vestibular System\n\n**Lecturer:** Raddy L. Ramos, Ph.D.\n**Session:** Neuroanatomy\n\n## 1. Vestibular Anatomy\n*   **Otolith Organs (Utricle & Saccule):** Detect **Linear** acceleration (Gravity/Tilt).\n    *   *Macula:* Hair cells covered by Otoconia (Crystals).\n    *   *Function:* Static tilt/Linear motion.\n*   **Semicircular Canals:** Detect **Angular** acceleration (Rotation).\n    *   *Ampulla/Cupula:* Hair cells detect fluid lag.\n    *   *Organization:* 3 Orthogonal planes.\n\n## 2. Pathways & Reflexes\n*   **Vestibulo-Ocular Reflex (VOR):** Stabilizes gaze during head movement. (Head Left -> Eyes Right).\n*   **Vestibulospinal Tracts:** Postural control.\n*   **Nystagmus:** Defined by the **Fast** phase (Reset).\n\n## 3. Peripheral vs. Central Vertigo (Slide 37)\n*   **Peripheral:** Severe vertigo, Tinnitus/Hearing loss, Horizontal nystagmus (inhibited by fixation).\n*   **Central:** Mild vertigo, **No** hearing loss, Vertical/Direction-changing nystagmus, Focal neurologic signs.\n\n## 4. Clinical Correlates\n:::correlate\n**BPPV (Benign Paroxysmal Positional Vertigo)**\n*   **Cause:** Displaced Otoconia (Otoliths) in Semicircular Canal.\n*   **Symptoms:** **Brief** (<1 min) episodes of severe vertigo triggered by head position.\n*   **Diagnosis:** **Dix-Hallpike** maneuver.\n*   **Treatment:** **Epley** maneuver.\n:::\n\n:::correlate\n**Meniere's Disease**\n*   **Triad:** Vertigo + Tinnitus + Sensorineural Hearing Loss.\n*   **Pathology:** Endolymphatic Hydrops (Excess fluid pressure).\n*   **Course:** Episodes last hours (not seconds like BPPV).\n:::\n\n:::correlate\n**Labyrinthitis/Vestibular Neuritis**\n*   **Cause:** Viral infection/Inflammation.\n*   **Symptoms:** Continuous severe vertigo for days, Nausea/Vomiting. (+ Hearing loss in Labyrinthitis).\n:::\n\n:::correlate\n**Wallenberg Syndrome (Lateral Medullary)**\n*   **Cause:** **PICA** Stroke.\n*   **Signs:**\n    *   Vertigo/Nystagmus (Vestibular Nuclei).\n    *   Cerebellar signs (Ataxia).\n    *   Loss of Pain/Temp (Face - Ipsi; Body - Contra).\n    *   Dysphagia/Hoarseness (Nucleus Ambiguus).\n    *   Horner's Syndrome.\n:::",
+  "mindmap": "## Vestibular System\n### Anatomy\n*   **Otolith Organs**: Linear/Gravity (Macula + Crystals)\n*   **Semicircular Canals**: Angular/Rotation (Ampulla + Cupula)\n### Conditions\n*   **BPPV**: Loose Crystals, Brief Vertigo, Positional. (Dix-Hallpike)\n*   **Meniere's**: Hydrops triad (Vertigo/Tinnitus/Hearing Loss).\n*   **Labyrinthitis**: Inflammation (Viral).\n*   **Acoustic Neuroma**: CP Angle tumor.\n*   **Wallenberg**: PICA Stroke (Central Vertigo + Crossed Pain/Temp + Dysphagia).",
+  "questions": [],
+  "ankingResource": {
+    "primarySource": "BandB",
+    "chapter": "Neurology > Vestibular"
+  },
+  "flashcards": [
+    {
+      "front": "BPPV Trigger?",
+      "back": "Head position",
+      "tag": "Clinical"
+    },
+    {
+      "front": "BPPV Diagnosis?",
+      "back": "Dix-Hallpike Maneuver",
+      "tag": "Clinical"
+    },
+    {
+      "front": "BPPV Treatment?",
+      "back": "Epley Maneuver",
+      "tag": "Clinical"
+    },
+    {
+      "front": "Triad of Meniere's Disease?",
+      "back": "Vertigo + Tinnitus + Hearing Loss",
+      "tag": "Clinical"
+    },
+    {
+      "front": "Detects Angular/Rotational Motion?",
+      "back": "Semicircular Canals",
+      "tag": "Physiology"
+    },
+    {
+      "front": "Detects Linear Motion/Gravity?",
+      "back": "Otolith Organs (Utricle/Saccule)",
+      "tag": "Physiology"
+    },
+    {
+      "front": "Cause of Wallenberg Syndrome?",
+      "back": "PICA Occlusion",
+      "tag": "Clinical"
+    },
+    {
+      "front": "Wallenberg: Dysphagia/Hoarseness source?",
+      "back": "Nucleus Ambiguus",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Peripheral vs Central Vertigo: Which has hearing loss?",
+      "back": "Peripheral",
+      "tag": "Clinical"
+    },
+    {
+      "front": "VOR function?",
+      "back": "Stabilize gaze during head movement",
+      "tag": "Physiology"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "l5",
+  "title": "Lecture #5: Clinical Applications of Neuroimaging",
+  "lecturer": "S. Zakhary, D.O.",
+  "module": "Neuroanatomy",
+  "session": "Lecture #5",
+  "prev": "l4",
+  "next": "l6",
+  "pdf": "pdfs/Lecture # 5. S. Zakhary, D.O. (PPT).pdf",
+  "summary": "# Lecture #5: Clinical Applications of Neuroimaging\n\n**Lecturer:** S. Zakhary, D.O.\n**Session:** Neuroanatomy\n\n## 1. CT Scan (Computed Tomography)\n*   **Mechanism:** X-ray beams rotating around patient. Measures **Attenuation** (density) in **Hounsfield Units (HU)**.\n    *   **Bone/Blood:** Hyperdense (White).\n    *   **Air/Fat:** Hypodense (Black).\n*   **Indications:**\n    *   **Acute Hemorrhage (Trauma/Stroke):** First-line because it's FAST (<30s). Blood is white (hyperdense) in acute phase.\n    *   **Bone pathology:** Fractures.\n*   **Disadvantages:** ionizing Radiation (Avoid in pregnancy/children).\n*   **Contrast (Iodine-based):**\n    *   **Risks:**\n        1.  **Allergy:** Pre-treat with Benadryl/Prednisone.\n        2.  **Contrast-Induced Nephropathy (CIN):** Check Creatinine (>1.5 is risk).\n        3.  **Metformin:** Stop 48hrs prior (Risk of Lactic Acidosis).\n\n## 2. MRI (Magnetic Resonance Imaging)\n*   **Mechanism:** Magnetic fields align protons. No radiation.\n*   **Sequences:**\n    *   **T1:** Fat is bright. Good for anatomy.\n    *   **T2:** Water/CSF is bright. Good for **Pathology** (Edema/Inflammation).\n    *   **Diffusion Weighted (DWI):** Gold standard for **Acute Ischemic Stroke** (detects cytotoxic edema within minutes).\n*   **Indications:**\n    *   Soft tissue pathology (Tumors, Multiple Sclerosis).\n    *   Brainstem/Posterior Fossa lesions (CT has artifact here).\n*   **Disadvantages:** Slow, Expensive, Claustrophobia, **Metal Implants** (Pacemakers contraindicated).\n*   **Contrast (Gadolinium):**\n    *   **Risk:** **Nephrogenic Systemic Fibrosis (NSF)** in patients with renal failure (GFR < 30).\n\n## 3. Enhancement Patterns (Slide 14-15)\n*   **Ring Enhancement:**\n    *   **Abscess:** \"Ring-enhancing lesion\".\n    *   **Glioblastoma Multiforme (GBM).**\n    *   *Mnemonic: MAGIC DR* (Metastasis, Abscess, Glioblastoma, Infarct, Contusion, Demyelination, Radiation).\n*   **Meningeal Enhancement:** Meningitis / Neurosarcoidosis.\n\n## 4. Angiography & Ultrasound\n*   **Carotid Duplex Ultrasound:**\n    *   Screening for **Carotid Stenosis**.\n    *   Non-invasive, no radiation.\n*   **Conventional Angiography (Digital Subtraction Angiography - DSA):**\n    *   **Gold Standard** for vascular pathology (AVM, Aneurysm).\n    *   **Diagnostic AND Therapeutic:** Can coil aneurysms or retrieve clots (Thrombectomy).\n    *   *Invasive:* Risk of stroke/bleeding at puncture site.\n\n## Summary Table\n\n| Modality | Best For | Contraindications/Risks |\n| :--- | :--- | :--- |\n| **CT Head** | Acute Hemorrhage, Trauma, Bone | Radiation, Dye Allergy |\n| **MRI Brain** | Acute Ischemia (DWI), Tumors, MS | Pacemakers, Metal, Claustrophobia |\n| **Angiography** | Aneurysms, AVMs (Intervention) | Invasive, Kidney failure (Dye) |",
+  "mindmap": "## Neuroimaging\n### CT Scan\n*   **Physics**: X-ray (Attenuation)\n*   **Uses**: **Acute Hemorrhage**, Bone, Trauma\n*   **Contrast**: Iodine (Risk: Allergy, Kidney)\n### MRI\n*   **Physics**: Magnets (T1/T2)\n*   **Uses**: **Ischemia (DWI)**, Tumors, MS\n*   **Contrast**: Gadolinium (Risk: NSF)\n*   **Contra**: Metal (Pacemaker)\n### Angiography\n*   **DSA**: Gold Standard (Vascular)\n    *   Therapeutic (Coiling)\n*   **Ultrasound**: Carotid Stenosis screening\n### Pathology Signs\n*   **Ring Enhancement**: Abscess, GBM\n*   **Hyperdense CT**: Acute Blood",
+  "questions": [],
+  "ankingResource": {
+    "primarySource": "FirstAid",
+    "chapter": "Neurology > Radiology"
+  },
+  "flashcards": [
+    {
+      "front": "First-line imaging for acute stroke?",
+      "back": "Non-contrast CT Head",
+      "tag": "Radiology"
+    },
+    {
+      "front": "What does hyperdense (white) material on CT usually represent?",
+      "back": "Bone or Acute Blood",
+      "tag": "Radiology"
+    },
+    {
+      "front": "Risk of Gadolinium in renal failure?",
+      "back": "Nephrogenic Systemic Fibrosis (NSF)",
+      "tag": "Pathology"
+    },
+    {
+      "front": "Classic appearance of Abscess on contrast MRI?",
+      "back": "Ring-Enhancing Lesion",
+      "tag": "Radiology"
+    },
+    {
+      "front": "Contraindication for MRI?",
+      "back": "Metal Implants (Pacemaker)",
+      "tag": "Safety"
+    },
+    {
+      "front": "Best modality for Acute Ischemic Stroke (most sensitive)?",
+      "back": "Diffusion Weighted MRI (DWI)",
+      "tag": "Radiology"
+    },
+    {
+      "front": "Metformin management with Contrast?",
+      "back": "Hold for 48 hours (Risk of Lactic Acidosis)",
+      "tag": "Pharm"
+    },
+    {
+      "front": "Appearance of Meningioma with contrast?",
+      "back": "Diffuse enhancement + Dural Tail",
+      "tag": "Radiology"
+    },
+    {
+      "front": "Gold standard for Aneurysm/AVM?",
+      "back": "Conventional Angiography (DSA)",
+      "tag": "Radiology"
+    },
+    {
+      "front": "Mechanism of CT?",
+      "back": "X-ray attenuation (Hounsfield Units)",
+      "tag": "Physics"
+    }
+  ]
+}

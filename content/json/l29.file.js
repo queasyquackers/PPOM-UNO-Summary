@@ -1,0 +1,60 @@
+window.receiveLectureContent({
+  "id": "l29",
+  "title": "Lecture #29: Neocortical Development",
+  "lecturer": "R. Ramos, Ph.D.",
+  "module": "Neuro",
+  "session": "Lecture #29",
+  "prev": "l28",
+  "next": "l30",
+  "pdf": "pdfs/Lecture # 29. R. Ramos, Ph.D. (PPT).pdf",
+  "summary": "# Lecture #29: Neocortical Development\n\n**Lecturer:** R. Ramos, Ph.D.\n**Session:** Lecture #29\n\n## 1. Early Development (Slide 3-5)\n*   **Neural Tube:** Origin of CNS.\n*   **Neuroepithelium:** Proliferative zone around the ventricle (Ventricular Zone).\n*   **Symmetric Division:** Generates more progenitor cells (expands the pool).\n*   **Asymmetric Division:** Generates one progenitor and one *Neuroblast* (neuron) or Glioblast.\n\n## 2. Radial Migration (Slide 6-9)\n*   **Radial Glia:** Specialized cells that act as scaffolds/guides. Cell body in ventricular zone, process extends to pial surface.\n*   **Mechanism:** Neuroblasts climb the radial glia \"ladder\" to reach the cortex.\n*   **Inside-Out Development:**\n    *   First neurons form the deepest layers (Layer VI).\n    *   Subsequent neurons migrate *past* the older ones to form more superficial layers (V, IV, III, II).\n    *   **Analogy:** Getting on an elevator; the first person goes to the back, the last person stands at the front (actually, closer to: building a house from bottom up, but the new bricks fly through the old ones).\n    *   **Order:** VI -> V -> IV -> III -> II. (Layer I is formed early as the preplate).\n\n## 3. Tangential Migration (Slide 10)\n*   **Interneurons (GABAergic):** Do not follow radial glia.\n*   **Origin:** Ganglionic Eminences (MGE/LGE) in the basal telencephalon.\n*   **Route:** Migrate tangentially (sideways) into the cortex to integrate with excitatory cells.\n\n## 4. Growth Cone & Axon Guidance (Slide 12-15)\n*   **Growth Cone:** The \"hand\" at the tip of the growing axon.\n    *   **Filopodia:** Fingers (actin).\n    *   **Lamellipodia:** Palm (tubulin).\n*   **Chemoattractants:** \"Come here\" signals (e.g., Netrins).\n*   **Chemorepellents:** \"Go away\" signals (e.g., Semaphorins, Slit).\n*   **Pioneer Axons:** The first axons to pathfind; others follow (fasciculation).\n\n## 5. Synaptogenesis & Pruning (Slide 16-18)\n*   **Overproduction:** Brain produces way more synapses than needed (\"Exuberant Synaptogenesis\").\n*   **Pruning (Apoptosis):** \"Use it or lose it\". Active connections are strengthened (Neurotrophins); inactive ones are eliminated.\n*   **Critical Periods:** Windows of plasticity where sensory input is required for proper wiring (e.g., Vision).\n\n## 6. Clinical Correlates\n\n:::correlate\n**Lissencephaly (\"Smooth Brain\")**\n*   **Pathophysiology:** Defect in neuronal migration. Neurons fail to reach outer layers.\n*   **Genetics:** LIS1 gene mutation (reelin pathway).\n*   **Presentation:** Absence of gyri/sulci (agrammatic), distinct thick cortex (pachygyria), severe intellectual disability, seizures.\n*   **Mechanism:** Disruption of \"Inside-Out\" patterning.\n:::\n\n:::correlate\n**Heterotopia**\n*   **Pathophysiology:** \"Matter out of place\". Clusters of gray matter located in white matter or along ventricles.\n*   **Cause:** Arrested migration (stopped too early).\n*   **Presentation:** Seizures (Epilepsy) in an otherwise normal-looking individual (Periventricular Nodular Heterotopia).\n:::\n\n:::correlate\n**Fetal Alcohol Syndrome**\n*   **Mechanism:** Alcohol is a teratogen interfering with cell proliferation and migration (L1 cell adhesion molecule disruption).\n*   **Presentation:** Microcephaly, developmental delay, facial anomalies (smooth philtrum, thin vermilion border).\n:::\n\n:::correlate\n**Holoprosencephaly**\n*   **Pathophysiology:** Failure of prosencephalon (forebrain) to separate into two hemispheres.\n*   **Timing:** Weeks 5-6.\n*   **Genetics:** Sonic Hedgehog (SHH) path defect.\n*   **Presentation:** Cyclopia, cleft lip/palate, single ventricle (Alobar - most severe).\n:::",
+  "mindmap": "## Neocortical Development\n### Proliferation\n*   **Zone**: Ventricular Zone\n*   **Division**: Symmetric (Expand) -> Asymmetric (Neuroblast)\n### Migration\n*   **Radial**: Excitatory. Uses Radial Glia. Inside-Out (VI->II).\n*   **Tangential**: Inhibitory. From Ganglionic Eminences.\n### Wiring\n*   **Growth Cone**: Actin (Filopodia). Guides axon.\n*   **Cues**: Attractants (Netrin), Repellents (Slit).\n*   **Pruning**: Apoptosis of unused connections.\n### Pathology\n*   **Lissencephaly**: Smooth brain. Migration failure.\n*   **Heterotopia**: Stuck neurons. Seizures.\n*   **Holoprosencephaly**: Single hemisphere.",
+  "questions": [],
+  "flashcards": [
+    {
+      "front": "Pattern of Cortical Layering?",
+      "back": "Inside-Out (VI first, II last)",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Role of Radial Glia?",
+      "back": "Scaffold for radial migration of excitatory neurons",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Origin of Cortical Interneurons?",
+      "back": "Ganglionic Eminences (Tangential Migration)",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Lissencephaly means?",
+      "back": "Smooth Brain (Migration defect)",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Heterotopia means?",
+      "back": "Gray matter in wrong place (e.g., periventricular)",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Growth Cone 'Fingers'?",
+      "back": "Filopodia (Actin)",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Chemoattractant example?",
+      "back": "Netrin",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Chemorepellent example?",
+      "back": "Slit, Semaphorin",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Holoprosencephaly cause?",
+      "back": "Failure of hemispheres to separate (SHH defect)",
+      "tag": "Neuro"
+    }
+  ]
+});

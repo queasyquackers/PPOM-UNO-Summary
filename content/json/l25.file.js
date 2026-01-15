@@ -1,0 +1,69 @@
+window.receiveLectureContent({
+  "id": "l25",
+  "title": "Lecture #25: Limbic System",
+  "lecturer": "J. Xie, Ph.D.",
+  "module": "Neurology",
+  "session": "Lecture #25",
+  "prev": "l24",
+  "next": "l26",
+  "pdf": "pdfs/Lecture # 25. J. Xie, Ph.D. (PPT).pdf",
+  "summary": "# Lecture #25: Limbic System\n\n**Lecturer:** J. Xie, Ph.D.\n**Session:** Neurology\n\n## 1. Components (The \"HOME\" Mnemonic)\n*   **Homeostasis:** Hypothalamus.\n*   **Olfaction:** Olfactory Cortex.\n*   **Memory:** Hippocampus.\n*   **Emotion:** Amygdala.\n\n## 2. Key Structures\n*   **Hippocampus:**\n    *   *Function:* Consolidation of Short-term -> Long-term memory (Declarative). Spatial memory.\n    *   *Lesion:* **Anterograde Amnesia** (Cannot form new memories). Patient H.M.\n    *   *Circuit:* **Papez Circuit** (Hippocampus -> Fornix -> Mammillary Bodies -> Thalamus (Anterior) -> Cingulate -> Hippocampus).\n*   **Amygdala:**\n    *   *Function:* Fear, Aggression, Emotional tagging of memories.\n    *   *Lesion (Bilateral):* **Kluver-Bucy Syndrome**:\n        1.  Hyperorality.\n        2.  Hypersexuality.\n        3.  Docility (No fear/aggression).\n*   **Cingulate Gyrus:** Emotional processing, error detection.\n\n## 3. Pathology\n*   **Wernicke-Korsakoff Syndrome:**\n    *   *Cause:* Thiamine (B1) Deficiency (Alcoholics).\n    *   *Path:* Atrophy of **Mammillary Bodies** and Medial Thalamus.\n    *   *Symptoms:*\n        *   **Wernicke:** Confusion, Ataxia, Ophthalmoplegia (Reversible).\n        *   **Korsakoff:** Anterograde/Retrograde Amnesia, **Confabulation** (Irreversible).\n*   **HSV Encephalitis:**\n    *   *Target:* Temporal Lobes (Hippocampus/Amygdala).\n    *   *Symptoms:* Fever, Headache, Seizures, Behavioral changes, Amnesia.\n*   **Temporal Lobe Epilepsy:**\n    *   *Signs:* Auras (Olfactory/Gustatory hallucinations), Deja vu, Jamais vu.\n\n## 4. Clinical Correlates\n:::correlate\n**Kluver-Bucy Syndrome**\n*   **Lesion:** Bilateral Amygdala damage (e.g., HSV-1, Trauma).\n*   **Features:**\n    *   **Docility:** Loss of fear/anger.\n    *   **Hyperorality:** Putting objects in mouth.\n    *   **Hypersexuality:** Inappropriate behavior.\n    *   **Visual Agnosia:** Psychic blindness.\n:::\n\n:::correlate\n**Patient H.M.**\n*   **Case:** Bilateral Medial Temporal Lobe resection for epilepsy.\n*   **Result:** Severe **Anterograde Amnesia**. Could not form new episodic memories, but Procedural memory (motor skills) remained intact.\n:::",
+  "mindmap": "## Limbic System\n### Functions (HOME)\n*   **H**omeostasis (Hypothalamus)\n*   **O**lfaction\n*   **M**emory (Hippocampus)\n*   **E**motion (Amygdala)\n### Pathology\n*   **Wernicke-Korsakoff**: B1 Def. Mammillary Bodies. Confabulation, Ataxia.\n*   **Kluver-Bucy**: Bilat Amygdala. Hypersexuality, Docility.\n*   **HSV Encephalitis**: Temporal Lobes.\n*   **Alzheimer's**: Hippocampal atrophy (early).",
+  "questions": [],
+  "ankingResource": {
+    "primarySource": "BandB",
+    "chapter": "Neurology > Limbic System"
+  },
+  "flashcards": [
+    {
+      "front": "Function of Hippocampus?",
+      "back": "Memory Consolidation (ST -> LT)",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Function of Amygdala?",
+      "back": "Emotion (Fear/Aggression)",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Wernicke-Korsakoff Cause?",
+      "back": "Thiamine (B1) Deficiency",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Wernicke-Korsakoff Lesion Location?",
+      "back": "Mammillary Bodies / Medial Thalamus",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Kluver-Bucy Syndrome Lesion?",
+      "back": "Bilateral Amygdala",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Kluver-Bucy Symptoms?",
+      "back": "Hypersexuality, Hyperorality, Docility",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Patient H.M. deficit?",
+      "back": "Anterograde Amnesia (No new memories)",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Papez Circuit Major Structures?",
+      "back": "Hippocampus -> Mammillary Bodies -> Thalamus -> Cingulate",
+      "tag": "Neuro"
+    },
+    {
+      "front": "HSV Encephalitis Target?",
+      "back": "Temporal Lobes",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Confabulation is seen in?",
+      "back": "Korsakoff Psychosis",
+      "tag": "Neuro"
+    }
+  ]
+});

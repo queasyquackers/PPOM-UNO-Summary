@@ -1,0 +1,75 @@
+{
+  "id": "l45",
+  "title": "Lecture #45: Structure-Function Integration to Identify Lesions",
+  "lecturer": "J. Xie, Ph.D. / K. Poole, Ph.D.",
+  "module": "Neuro",
+  "session": "Lecture #45",
+  "prev": "l44",
+  "next": "l46",
+  "pdf": "pdfs/Lecture # 45. J. Xie, Ph.D. (PPT).pdf",
+  "summary": "# Lecture #45: Structure-Function Integration to Identify Lesions\n\n**Lecturer:** J. Xie, Ph.D. / K. Poole, Ph.D.\n**Session:** Lecture #45\n\n## Major Sensory and Motor Pathways\n\n### Dorsal Column-Medial Lemniscus (DCML) Pathway\n\n:::highyield\n**DCML Pathway**\n*   **Modality:** Touch, proprioception, vibration, fine touch.\n*   **Neurons:** 3 neurons (1st order DRG \u2192 2nd order medulla \u2192 3rd order VPL thalamus).\n*   **Decussation:** **Caudal medulla** (nucleus gracilis & cuneatus).\n*   **Lateralization:**\n    *   **Contralateral** to lesion when **above medulla**.\n    *   **Ipsilateral** to lesion when **below medulla** (spinal cord).\n:::\n\n### Spinothalamic Tract (STT)\n\n:::highyield\n**Spinothalamic Tract**\n*   **Modality:** Pain, temperature, crude touch.\n*   **Neurons:** 3 neurons (1st order DRG \u2192 2nd order dorsal horn \u2192 3rd order VPL thalamus).\n*   **Decussation:** **Spinal cord** (1-2 segments above primary afferents level).\n*   **Lateralization:** **Almost always contralateral** to lesion (except for primary afferents or dorsal horn lesions).\n:::\n\n### Corticospinal Tract (CST)\n\n:::highyield\n**Corticospinal Tract (Pyramidal Tract)**\n*   **Modality:** Motor, voluntary movement.\n*   **Neurons:** 2 neurons (UMN precentral gyrus \u2192 LMN ventral horn).\n*   **Decussation:** **Pyramidal decussation** (junction between medulla and spinal cord).\n*   **Lateralization:**\n    *   **Contralateral** to lesion **above spinal cord**.\n    *   **Ipsilateral** to lesion **at spinal cord**.\n:::\n\n## UMN vs LMN Lesions\n\n| Feature | UMN Lesion | LMN Lesion |\n|---------|------------|------------|\n| **Lesion Location** | Corticospinal tract | Ventral horn, nerve root, peripheral nerve |\n| **Weakness** | Spastic | Flaccid |\n| **Muscle Tone** | \u2191 (Spasticity) | \u2193 or normal |\n| **Reflexes** | \u2191 (Hyperreflexia) | \u2193 or absent (Hyporeflexia/Areflexia) |\n| **Babinski** | Positive (upgoing) | Negative |\n| **Atrophy** | Minimal (disuse) | Significant (denervation) |\n| **Fasciculations** | Absent | Present |\n\n**Corticobulbar Exceptions:**\n*   **UMN (Face):** Lower face innervated by **contralateral** UMNs. Upper face has bilateral innervation.\n*   **LMN (Eye muscles):** Nucleus vs nerve lesions have different presentations.\n\n## Cerebellar Pathways\n\n### Cerebellar Input\n\n**From Spinal Cord/Vestibular Nuclei:**\n*   **Ipsilateral** side via **Inferior Cerebellar Peduncle (ICP)** at **medulla** level.\n*   Vestibulo-/Spino-cerebellar tracts (mossy fiber).\n*   Inferior olivary nucleus \u2192 Contra ICP (climbing fiber).\n\n**From Cerebral Cortex:**\n*   **Contralateral** side via **Middle Cerebellar Peduncle (MCP)** at **pons** level.\n*   Corticopontine tract \u2192 Pontine nuclei \u2192 Contra MCP (mossy fiber).\n\n### Cerebellar Output\n\n**From Cerebellar Cortex:**\n*   Purkinje cells (inhibitory) \u2192 Deep cerebellar nuclei (Fastigial, Interposed, Dentate).\n*   **Ipsilateral Superior Cerebellar Peduncle (SCP)** at **midbrain** level.\n*   \u2192 **Contralateral** thalamus (VL) \u2192 Motor/premotor cortex.\n*   \u2192 Red nucleus.\n\n:::highyield\n**Cerebellar Lesion Lateralization**\n*   **Lateral cerebellar cortex lesion:** **Limb ataxia** \u2192 Fall toward **ipsilateral** side.\n*   **Medial lesion (vermis, flocculonodular):** **Truncal ataxia** (postural instability, broad-based gait) \u2192 **Bilateral** (no side) motor deficits.\n*   **Flocculus damage:** Affects **eye movements** (nystagmus).\n:::\n\n## Cranial Nerve Eye Movements (CN III, IV, VI)\n\n### CN III (Oculomotor)\n\n**Muscles Innervated:**\n*   **Inferior division:** Medial rectus (MR), Inferior rectus (IR), Inferior oblique (IO).\n*   **Superior division:** Superior rectus (SR), Levator palpebrae superioris (LPS) - from **contralateral** oculomotor nucleus.\n\n**+ Edinger-Westphal (EW) nucleus (parasympathetic):**\n*   \u2192 **Bilateral** pupil sphincter & ciliary muscles.\n\n### CN IV (Trochlear)\n*   **Muscle:** Superior oblique (SO) - from **contralateral** trochlear nucleus.\n\n### CN VI (Abducens)\n*   **Muscle:** Lateral rectus (LR).\n*   **+ Abducens nucleus** activates **contralateral oculomotor nucleus** via MLF (medial longitudinal fasciculus).\n\n### Light Reflex Pathway\n\n**Pathway:**\n*   Retina \u2192 **CN II** \u2192 **Pretectal nucleus** (midbrain) \u2192 **Bilateral EW nuclei** \u2192 CN III \u2192 each iris.\n\n**EW nucleus innervates:**\n*   Sphincter pupillae (pupil constriction).\n*   Ciliary muscle (accommodation).\n\n## Clinical Lesion Localization\n\n### Case Example: Lateral Medullary Syndrome (Wallenberg)\n\n:::correlate\n**Lateral Medullary Syndrome (PICA Stroke)**\n*   **Artery:** **PICA** (Posterior Inferior Cerebellar Artery) or vertebral artery.\n*   **Cause:** Often vertebral artery dissection (chiropractic neck manipulation).\n\n**Key Structures Affected:**\n*   **Spinothalamic tract:** **Contralateral** pain/temperature loss (body).\n*   **Spinal trigeminal nucleus:** **Ipsilateral** pain/temperature loss (face).\n*   **Nucleus ambiguus:** Hoarseness, dysphagia (CN IX, X).\n*   **Vestibular nucleus:** Vertigo, **nystagmus**, falling to **ipsilateral** side.\n*   **Inferior cerebellar peduncle:** **Ipsilateral** limb ataxia.\n*   **Sympathetics:** **Horner's syndrome** (ipsilateral ptosis, miosis).\n\n**Clinical Presentation:**\n*   **Crossed findings:** Ipsilateral face pain/temp loss + Contralateral body pain/temp loss.\n*   **Ataxia:** Fall toward side of lesion (ipsilateral).\n*   **Dysphagia, hoarseness.**\n*   **Horner's syndrome** (ipsilateral).\n:::\n\n### Medial Medullary Syndrome\n\n**Structures Affected:**\n*   **Pyramid (CST):** **Contralateral** hemiparesis (body).\n*   **Medial lemniscus:** **Contralateral** tactile/proprioceptive loss (body).\n*   **Hypoglossal nucleus:** Tongue deviates **ipsilateral** (to lesion side).\n\n**Artery:** Anterior spinal artery.\n\n### CN III Lesion Localization\n\n**Case: Left CN III Palsy**\n*   **Symptoms:** Lateral strabismus (eye looks out), ptosis, pupillary dilation (left eye).\n*   **Location:** Left posterior communicating artery aneurysm (compresses CN III).\n*   **Mechanism:** Pupillomotor fibers in peripheral CN III \u2192 Early compression \u2192 Pupil dilation.",
+  "mindmap": "## Lesion Localization\n### Sensory Pathways\n*   **DCML**: Touch/proprioception, decussates medulla\n*   **STT**: Pain/temp, decussates spinal cord\n### Motor Pathways\n*   **CST**: Voluntary movement, decussates medulla-spinal junction\n*   **UMN**: Hyperreflexia, Babinski+\n*   **LMN**: Hyporeflexia, fasciculations\n### Cerebellar Pathways\n*   **Input**: Ipsi ICP (medulla), Contra MCP (pons)\n*   **Output**: Ipsi SCP (midbrain) \u2192 Contra thalamus\n*   **Lesions**: Lateral (limb, ipsi), Medial (truncal, bilateral)\n### Medullary Syndromes\n*   **Lateral (PICA)**: Wallenberg, crossed pain/temp\n*   **Medial**: Hemiparesis, tongue ipsi\n### CN III\n*   **Parasympathetic**: EW \u2192 Pupil constriction\n*   **Lesion**: Ptosis, lateral strabismus, pupil dilation",
+  "questions": [],
+  "flashcards": [
+    {
+      "front": "DCML decussation level?",
+      "back": "Caudal medulla (nucleus gracilis/cuneatus)",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Spinothalamic decussation level?",
+      "back": "Spinal cord (1-2 segments above)",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Corticospinal decussation level?",
+      "back": "Pyramidal decussation (medulla-spinal junction)",
+      "tag": "Neuro"
+    },
+    {
+      "front": "UMN lesion reflexes?",
+      "back": "Hyperreflexia, Babinski positive",
+      "tag": "Neuro"
+    },
+    {
+      "front": "LMN lesion reflexes?",
+      "back": "Hyporeflexia/areflexia, no Babinski",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Cerebellar input from cortex?",
+      "back": "Contralateral MCP at pons level",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Cerebellar input from spinal cord?",
+      "back": "Ipsilateral ICP at medulla level",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Cerebellar output?",
+      "back": "Ipsilateral SCP at midbrain \u2192 Contralateral thalamus",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Lateral cerebellar lesion?",
+      "back": "Limb ataxia, fall to ipsilateral side",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Medial cerebellar lesion?",
+      "back": "Truncal ataxia, broad-based gait, bilateral deficits",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Wallenberg syndrome artery?",
+      "back": "PICA (Posterior Inferior Cerebellar Artery)",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Wallenberg crossed findings?",
+      "back": "Ipsi face pain/temp + Contra body pain/temp",
+      "tag": "Neuro"
+    }
+  ]
+}

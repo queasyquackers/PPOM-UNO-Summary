@@ -1,0 +1,64 @@
+{
+  "id": "l2",
+  "title": "Lecture #2: Overview of Neuroembryology",
+  "lecturer": "K. Poole, Ph.D.",
+  "module": "Neuro",
+  "session": "Lecture #2",
+  "prev": "l1b",
+  "next": "l3",
+  "pdf": "pdfs/Lecture # 2. K. Poole, Ph.D. (PPT)-1.pdf",
+  "summary": "# Lecture #2: Overview of Neuroembryology\n\n**Lecturer:** K. Poole, Ph.D.\n**Session:** Lecture #2\n**Topic:** Neuroembryology\n\n## 1. Early Development & Gastrulation\n*   **Gastrulation (Week 3):** Formation of the three germ layers.\n    *   **Ectoderm:** Nervous system, skin (epidermis).\n    *   **Mesoderm:** Muscle, bone, connective tissue, notochord.\n    *   **Endoderm:** Gut tube, internal organs.\n*   **Notochord:** Derived from mesoderm. Induces the overlying ectoderm to thicken and become the **Neural Plate**.\n\n## 2. Neurulation (Weeks 3-4)\n*   **Process:**\n    1.  **Neural Plate:** Thickening of ectoderm.\n    2.  **Neural Groove:** Midline depression forms.\n    3.  **Neural Folds:** Lateral edges rise and fuse.\n    4.  **Neural Tube:** Fusion creates a hollow tube.\n        *   Fuses in the middle (cervical region) first, then \"zips\" rostrally and caudally.\n*   **Neuropores:** Openings at ends of the tube.\n    *   **Anterior (Rostral) Neuropore:** Closes ~Day 25.\n    *   **Posterior (Caudal) Neuropore:** Closes ~Day 27-28.\n\n## 3. Neural Crest Cells\n*   **Origin:** Cells at the edge of the neural folds that detatch during closure.\n*   **Derivatives (\"4th Germ Layer\"):**\n    *   DRG neurons\n    *   Autonomic ganglia\n    *   Schwann cells\n    *   Adrenal medulla\n    *   Melanocytes\n    *   Craniofacial bones/cartilage\n\n## 4. Primary & Secondary Vesicles\n*   **3 Primary Vesicles (Week 4):**\n    1.  **Prosencephalon** (Forebrain)\n    2.  **Mesencephalon** (Midbrain)\n    3.  **Rhombencephalon** (Hindbrain)\n*   **5 Secondary Vesicles (Week 5):**\n    *   **Prosencephalon** -> **Telencephalon** & **Diencephalon**\n    *   **Mesencephalon** -> **Mesencephalon** (stays same)\n    *   **Rhombencephalon** -> **Metencephalon** & **Myelencephalon**\n\n:::mnemonic\n**Brain Vesicles**\n*   **Tel** (Tell) -> Cerebrum\n*   **Di** (Die) -> Thalamus/Hypothalamus\n*   **Mes** (Me) -> Midbrain\n*   **Met** (Met) -> Pons/Cerebellum\n*   **Myel** (My) -> Medulla\n:::\n\n## 5. Clinical Correlates\n:::correlate\n**Neural Tube Defects (NTDs)**\n*   **Cause:** Failure of neuropore closure. Associated with **low Folic Acid (Vitamin B9)**.\n*   **Anencephaly:** Failure of **Rostral** neuropore to close. No forebrain/calvaria. Polyhydramnios (can't swallow amniotic fluid). Incompatible with life.\n*   **Spina Bifida:** Failure of **Caudal** neuropore to close.\n    *   *Occulta:* Mild, tuft of hair, vertebral arch defect.\n    *   *Meningocele:* Meninges herniate.\n    *   *Myelomeningocele:* Meninges + Spinal Cord herniate (Severe).\n:::\n\n:::correlate\n**Holoprosencephaly**\n*   **Pathology:** Failure of cleavage of the Prosencephalon (Forebrain) into left/right hemispheres.\n*   **Presentation:** Midline facial defects (cleft lip/palate, cyclopia in severe cases).\n*   **Association:** Trisomy 13 (Patau), Sonic Hedgehog mutations.\n:::",
+  "questions": [],
+  "flashcards": [
+    {
+      "front": "Tissue origin of CNS?",
+      "back": "Neuroectoderm (Neural Tube)",
+      "tag": "Embryology"
+    },
+    {
+      "front": "Tissue origin of PNS neurons/glia?",
+      "back": "Neural Crest",
+      "tag": "Embryology"
+    },
+    {
+      "front": "Structure inducing neural plate?",
+      "back": "Notochord",
+      "tag": "Embryology"
+    },
+    {
+      "front": "Adult derivative of Telencephalon?",
+      "back": "Cerebrum (Cerebral Hemispheres)",
+      "tag": "Embryology"
+    },
+    {
+      "front": "Adult derivative of Diencephalon?",
+      "back": "Thalamus, Hypothalamus, Retina",
+      "tag": "Embryology"
+    },
+    {
+      "front": "Failure of rostral neuropore closure?",
+      "back": "Anencephaly",
+      "tag": "Pathology"
+    },
+    {
+      "front": "Failure of caudal neuropore closure?",
+      "back": "Spina Bifida",
+      "tag": "Pathology"
+    },
+    {
+      "front": "Vitamin to prevent NTDs?",
+      "back": "Folic Acid (B9)",
+      "tag": "Prevention"
+    },
+    {
+      "front": "Closure day of Rostral Neuropore?",
+      "back": "Day 25",
+      "tag": "Embryology"
+    },
+    {
+      "front": "Closure day of Caudal Neuropore?",
+      "back": "Day 27-28",
+      "tag": "Embryology"
+    }
+  ]
+}

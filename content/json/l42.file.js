@@ -1,0 +1,75 @@
+window.receiveLectureContent({
+  "id": "l42",
+  "title": "Lecture #42: Diseases of Myelin",
+  "lecturer": "M. Plummer, M.D.",
+  "module": "Neuro",
+  "session": "Lecture #42",
+  "prev": "l41",
+  "next": "l43",
+  "pdf": "pdfs/Lecture # 42. M. Plummer, M.D. (PPT)-1.pdf",
+  "summary": "# Lecture #42: Diseases of Myelin\n\n**Lecturer:** M. Plummer, M.D.\n**Session:** Lecture #42\n\n## Multiple Sclerosis (MS)\n\n### Pathogenesis\n:::highyield\n**Autoimmune demyelinating disorder**\n*   **Mechanism:** T-cell mediated (Th1, Th17) attack on myelin \u2192 Demyelination with relative axon preservation.\n*   **Genetics + Environment:** 15x \u2191 risk with 1st-degree relative. Latitude dependence (\u2193 Vitamin D).\n*   **HLA Association:** DR2 haplotype.\n:::\n\n### Clinical Features\n*   **Age:** 20-50 years (rare in childhood or >50).\n*   **Sex:** Female > Male (2:1).\n*   **Presentation:** Distinct episodes separated in **time** and **space** (different lesions, different ages).\n\n**Common Symptoms:**\n*   **Weakness** (40%): One or more limbs, spasticity.\n*   **Optic neuritis** (22%): Unilateral vision loss, pain on eye movement.\n*   **Sensory disturbances** (21%).\n*   **Diplopia** (12%), **Vertigo** (8%), **Bladder dysfunction** (5%).\n\n**Key Signs:**\n*   **Uhthoff's phenomenon:** Symptoms worsen with heat.\n*   **Lhermitte's sign:** Electric shock down back with neck flexion.\n\n### Diagnosis\n*   **MRI:** White matter plaques (periventricular, corpus callosum, optic nerves, brainstem, spinal cord).\n    *   **Note:** Normal MRI does **not** rule out MS (5% with MS have normal MRI).\n*   **CSF:** \u2191 Protein, \u2191 IgG, **Oligoclonal IgG bands** (hallmark).\n*   **Evoked potentials:** Slowed conduction.\n\n### Pathology\n*   **Gross:** Demarcated gray-tan plaques in white matter (\"sclerosis\").\n*   **Active plaque:** Foamy macrophages, perivascular lymphocytes, axons preserved.\n*   **Inactive plaque:** Gliosis, \u2193 oligodendrocytes, no myelin.\n\n### Treatment\n*   **Immunosuppression/Immunomodulation:** Slows progression, not curative.\n\n### Types of MS\n*   **Relapsing-Remitting (85%):** Discrete attacks, resolve over weeks-months.\n*   **Secondary-Progressive:** Initially relapsing-remitting \u2192 gradual progression.\n*   **Primary-Progressive:** Chronic progression from onset.\n\n## Related CNS Demyelinating Disorders\n\n:::correlate\n**Neuromyelitis Optica (NMO)**\n*   **Presentation:** Synchronous bilateral optic neuritis + spinal cord demyelination.\n*   **Distinguishing Feature:** Aquaporin-4 antibodies.\n*   **Prognosis:** Poor recovery from 1st attack.\n:::\n\n:::correlate\n**Acute Disseminated Encephalomyelitis (ADEM)**\n*   **Trigger:** Follows viral infection or immunization (1-2 weeks later).\n*   **Presentation:** Headache, lethargy, coma. Monophasic demyelination.\n*   **Prognosis:** 20% die; remainder usually recover completely.\n:::\n\n:::correlate\n**Acute Necrotizing Hemorrhagic Encephalomyelitis**\n*   **Presentation:** Fulminant CNS demyelination (young adults, children).\n*   **Trigger:** Recent URI.\n*   **Prognosis:** Fatal in many; significant deficits in survivors.\n:::\n\n:::correlate\n**Central Pontine Myelinolysis (Osmotic Demyelination)**\n*   **Cause:** **Rapid correction of hyponatremia** or severe electrolyte disturbance.\n*   **Mechanism:** Rapid \u2191 osmolality damages oligodendrocytes.\n*   **Location:** Pons (symmetric pattern).\n*   **Presentation:** Rapidly evolving quadriplegia \u2192 **Locked-in syndrome** (fully conscious but unresponsive).\n*   **Prevention:** Correct hyponatremia **slowly and carefully**.\n:::\n\n## Guillain-Barr\u00e9 Syndrome (GBS)\n\n:::highyield\n**Acute Inflammatory Demyelinating Polyneuropathy (AIDP)**\n*   **Mechanism:** Immune-mediated demyelination of **peripheral nerves**.\n*   **Trigger:** Preceding illness (2/3 of cases): Campylobacter jejuni (most common), CMV, EBV, Mycoplasma, Influenza. Also post-Zika, COVID-19, vaccination.\n*   **Presentation:** Ascending paralysis (starts distal \u2192 proximal), areflexia, sensory loss (less prominent).\n*   **Progression:** Can progress rapidly \u2192 Respiratory paralysis (ICU monitoring essential).\n:::\n\n### Clinical Features\n*   **Motor:** Weakness starting in legs, ascending to arms/trunk. **Deep tendon reflexes disappear early**.\n*   **Sensory:** Pain loss, but **not prominent**.\n*   **Autonomic:** Dysautonomia (30% within 24 hours).\n*   **Respiratory:** Rapid decline (>30% in 24 hours) \u2192 ICU admission.\n\n### Diagnosis\n*   **CSF:** **Elevated protein**, **normal cell count** (albuminocytologic dissociation).\n*   **Nerve conduction studies:** Slowed conduction velocity.\n\n### Pathology\n*   **Histology:** Inflammation, perivascular lymphocytes/macrophages, segmental demyelination.\n*   **EM:** Macrophages strip myelin from axons (especially at nodes of Ranvier).\n\n### Treatment\n:::drug\n**IVIG or Plasma Exchange**\n*   Equally efficacious. Start **ASAP** after diagnosis.\n*   **Steroids:** NOT effective.\n*   **Prognosis:** 2-5% mortality (respiratory paralysis, cardiac arrest). 20% long-term disability.\n:::\n\n### Chronic Form\n\n:::drug\n**CIDP (Chronic Inflammatory Demyelinating Polyneuropathy)**\n*   **Presentation:** Symmetric proximal + distal weakness/sensory loss over **>2 months**. Progressive, stepwise, or relapsing.\n*   **Key Difference from GBS:** No antecedent illness. Postural tremor common.\n*   **Treatment:** IVIG, Corticosteroids, or Plasma exchange (50-70% respond).\n:::\n\n## Leukodystrophies (Dysmyelinating Disorders)\n\n:::highyield\n**Genetic metabolic disorders** affecting myelin formation/stability.\n*   **Characteristics:** Progressive, early-age onset (infancy-adolescence). Earlier onset = more severe. CNS + PNS involvement.\n*   **Note:** \"Dysmyelinating\" (abnormal myelin formation) vs \"demyelinating\" (normal myelin damaged).\n:::\n\n### Metachromatic Leukodystrophy\n\n:::drug\n**Arylsulfatase A Deficiency**\n*   **Inheritance:** Autosomal recessive.\n*   **Mechanism:** Deficiency of arylsulfatase A \u2192 Accumulation of sulfatides (cerebroside sulfate) \u2192 Toxic to white matter.\n*   **Pathology:** Demyelination, gliosis, foamy macrophages with crystalloid vacuoles.\n*   **Diagnosis:** Urine test (sulfatides bind dyes \u2192 **Metachromasia** with toluidine blue).\n*   **Histology:** Sulfatides in macrophages stain deep red (not purple).\n:::\n\n### Krabbe Disease (Globoid Cell Leukodystrophy)\n\n:::drug\n**Galactocerebroside \u03b2-Galactosidase Deficiency**\n*   **Inheritance:** Autosomal recessive.\n*   **Mechanism:** Galactocerebroside \u2192 Galactosylsphingosine (toxic to oligodendrocytes/astrocytes).\n*   **Pathology:** Loss of myelin/oligodendrocytes. **Globoid cells** (engorged macrophages) around blood vessels (diagnostic).\n*   **Affects:** Brain + peripheral nerves (Schwann cell loss).\n:::\n\n### Adrenoleukodystrophy\n\n:::drug\n**ABCD1 Mutation (X-linked)**\n*   **Mechanism:** Loss of ABCD1 (ATP-binding cassette transporter) \u2192 Cannot catabolize very-long-chain fatty acids (VLCFAs) in peroxisomes.\n*   **Presentation:** Boys with behavioral changes + **adrenal insufficiency**.\n*   **Diagnosis:** Elevated serum **VLCFAs**.\n*   **Pathology:** CNS myelin loss, gliosis, lymphocytic infiltration. Adrenal cortical atrophy \u2192 hypocortisolism.\n:::\n\n## Progressive Multifocal Leukoencephalopathy (PML)\n\n:::correlate\n**JC Virus Reactivation**\n*   **Population:** Immunosuppressed (AIDS, transplant, chemotherapy).\n*   **Mechanism:** JC virus (polyomavirus) reactivates \u2192 Infects oligodendrocytes in white matter.\n*   **Presentation:** Focal symptoms (depend on location), progressive, extensive multifocal demyelination.\n*   **Prognosis:** Often fatal.\n:::",
+  "mindmap": "## Diseases of Myelin\n### Multiple Sclerosis\n*   **Autoimmune**: T-cell (Th1, Th17) mediated\n*   **Oligoclonal IgG bands** in CSF\n*   **Uhthoff's + Lhermitte's** signs\n*   **Treatment**: Immunosuppression\n### Guillain-Barr\u00e9 Syndrome\n*   **Post-infectious**: Campylobacter jejuni\n*   **Ascending paralysis**, Areflexia\n*   **CSF**: \u2191 Protein, normal cells\n*   **Treatment**: IVIG or plasma exchange\n### Central Pontine Myelinolysis\n*   **Cause**: Rapid correction of hyponatremia\n*   **Result**: Locked-in syndrome\n*   **Prevention**: Correct slowly\n### Leukodystrophies\n*   **Metachromatic**: Arylsulfatase A deficiency\n*   **Krabbe**: Globoid cells\n*   **Adrenoleukodystrophy**: VLCFAs, X-linked\n### PML\n*   **JC virus** in immunosuppressed\n*   **Multifocal demyelination**",
+  "questions": [],
+  "flashcards": [
+    {
+      "front": "MS key CSF finding?",
+      "back": "Oligoclonal IgG bands",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Uhthoff's phenomenon?",
+      "back": "MS symptoms worsen with heat",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Lhermitte's sign?",
+      "back": "Electric shock down back with neck flexion (MS)",
+      "tag": "Neuro"
+    },
+    {
+      "front": "MS normal MRI?",
+      "back": "Does NOT rule out MS (5% with MS have normal MRI)",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Central pontine myelinolysis cause?",
+      "back": "Rapid correction of hyponatremia",
+      "tag": "Neuro"
+    },
+    {
+      "front": "GBS CSF finding?",
+      "back": "Albuminocytologic dissociation (\u2191 protein, normal cells)",
+      "tag": "Neuro"
+    },
+    {
+      "front": "GBS most common trigger?",
+      "back": "Campylobacter jejuni",
+      "tag": "Neuro"
+    },
+    {
+      "front": "GBS treatment?",
+      "back": "IVIG or plasma exchange (steroids NOT effective)",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Metachromatic leukodystrophy enzyme?",
+      "back": "Arylsulfatase A deficiency",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Krabbe disease pathology?",
+      "back": "Globoid cells (engorged macrophages)",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Adrenoleukodystrophy labs?",
+      "back": "Elevated VLCFAs (very-long-chain fatty acids)",
+      "tag": "Neuro"
+    },
+    {
+      "front": "PML causative agent?",
+      "back": "JC virus (in immunosuppressed)",
+      "tag": "Neuro"
+    }
+  ]
+});

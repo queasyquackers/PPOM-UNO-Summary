@@ -1,0 +1,69 @@
+{
+  "id": "l8",
+  "title": "Lecture #8: Brainstem II - Tracts & Nuclei",
+  "lecturer": "Isaac Kurtzer, Ph.D.",
+  "module": "Neuroanatomy",
+  "session": "Lecture #8",
+  "prev": "l7",
+  "next": "l9",
+  "pdf": "pdfs/Lecture # 8. I. Kurtzer, Ph.D. (PPT).pdf",
+  "summary": "# Lecture #8: Internal Anatomy of Brain Stem II\n\n**Lecturer:** Isaac Kurtzer, Ph.D.\n**Session:** Neuroanatomy\n\n## 1. Major Tracts in the Brainstem\n*   **Corticospinal Tract (CST):**\n    *   **Function:** Voluntary Motor.\n    *   **Position:** Always **Ventral**.\n        *   Midbrain: Crus Cerebri.\n        *   Pons: Basilar Pons (dispersed).\n        *   Medulla: Pyramids.\n    *   **Decussation:** Caudal Medulla (Pyramidal Decussation).\n*   **Dorsal Column Medial Lemniscus (DCML):**\n    *   **Function:** Touch/Proprioception.\n    *   **Position:** Medial.\n        *   Medulla: Nucleus Gracilis/Cuneatus -> **Internal Arcuate Fibers** (Decussation) -> **Medial Lemniscus**.\n        *   Stays medial throughout brainstem.\n*   **Spinothalamic Tract (STT):**\n    *   **Function:** Pain/Temperature.\n    *   **Position:** **Lateral**. Allows lateral to the Medial Lemniscus.\n    *   *Note:* Decussated previously in the spinal cord.\n\n## 2. Cerebellar Peduncles\nConnect Brainstem to Cerebellum.\n1.  **Inferior (ICP):** Medulla. Afferent (Input).\n2.  **Middle (MCP):** Pons. Afferent (Input). Connects Pontine Nuclei to Cerebellum.\n3.  **Superior (SCP):** Midbrain. Efferent (Output). Output to Red Nucleus/Thalamus.\n\n## 3. Cranial Nerve Nuclei Organization (Slide 23)\nNuclei are arranged in functional columns.\n**General Rule:** Motor is Medial, Sensory is Lateral. (Sulcus Limitans divides them in development).\n\n### Medial Columns (Motor)\n1.  **Somatic Motor:** Midline.\n    *   **III, IV** (Midbrain), **VI** (Pons), **XII** (Medulla).\n    *   Innervate striated muscle from somites (Eyes, Tongue).\n2.  **Branchial Motor:**\n    *   **V** (Motor), **VII**, **Nucleus Ambiguus (IX, X, XI)**.\n    *   Innervate pharyngeal arch muscles (Jaw, Face, Throat).\n3.  **Visceral Motor (Parasympathetic):**\n    *   **Edinger-Westphal (III)**, **Sup/Inf Salivatory (VII, IX)**, **Dorsal Motor Vagus (X)**.\n\n### Lateral Columns (Sensory)\n1.  **Visceral Sensory:**\n    *   **Nucleus Solitarius (IX, X, VII)**. Taste, Baroreceptors, Gut sensation.\n2.  **Somatic Sensory:**\n    *   **Trigeminal Nuclei (V)** (Mesencephalic, Principal, Spinal). Face sensation.\n    *   **Vestibular/Cochlear (VIII)**. Balance/Hearing.\n\n## 4. Key Associations\n*   **Nucleus Ambiguus:** Motor to Pharynx/Larynx (IX, X). Lesion -> Dysphagia/Hoarseness.\n*   **Nucleus Solitarius:** Sensory (Taste/Viscera).\n*   **Spinal Trigeminal Nucleus:** Pain/Temp for Face. Extends down to C2.",
+  "mindmap": "## Brainstem Nuclei\n### Motor Columns (Medial)\n*   **Somatic**: III, IV, VI, XII (Eyes/Tongue)\n*   **Branchial**: V, VII, Ambiguus (IX, X, XI)\n*   **Visceral**: Edinger-Westphal, Salivatory, DMV\n### Sensory Columns (Lateral)\n*   **Visceral**: Solitary Nucleus (Taste/Gut)\n*   **Somatic**: Trigeminal (Face), Vestib/Coch (Ear)\n## Major Tracts\n*   **CST**: Ventral (Pyramids)\n*   **DCML**: Medial (Medial Lemniscus)\n*   **STT**: Lateral",
+  "questions": [],
+  "ankingResource": {
+    "primarySource": "BandB",
+    "chapter": "Neurology > Spinal Cord Lesions"
+  },
+  "flashcards": [
+    {
+      "front": "Position of Corticospinal Tract in Brainstem?",
+      "back": "Ventral (Crus Cerebri, Base Pons, Pyramids)",
+      "tag": "Anatomy"
+    },
+    {
+      "front": "Position of Medial Lemniscus vs STT?",
+      "back": "Medial Lemniscus is MEDIAL; STT is LATERAL",
+      "tag": "Anatomy"
+    },
+    {
+      "front": "Function of Nucleus Ambiguus?",
+      "back": "Motor Swallowing/Speech (IX, X)",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Function of Nucleus Solitarius?",
+      "back": "Sensory Taste/Baroreceptors (VII, IX, X)",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Which CN nuclei are Somatic Motor (Midline)?",
+      "back": "III, IV, VI, XII",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Where does Upper Extremity DCML information travel?",
+      "back": "Fasciculus/Nucleus Cuneatus (Lateral Dorsal Column)",
+      "tag": "Anatomy"
+    },
+    {
+      "front": "Tongue deviation points to?",
+      "back": "Side of the Lesion (IPSI)",
+      "tag": "Clinical"
+    },
+    {
+      "front": "Peduncle connecting Pons to Cerebellum?",
+      "back": "Middle Cerebellar Peduncle (MCP)",
+      "tag": "Anatomy"
+    },
+    {
+      "front": "General Rule for Brainstem Nuclei?",
+      "back": "Motor Medial, Sensory Lateral",
+      "tag": "Neuro"
+    },
+    {
+      "front": "What fibers form the Medial Lemniscus?",
+      "back": "Internal Arcuate Fibers (Decussation of DCML)",
+      "tag": "Anatomy"
+    }
+  ]
+}

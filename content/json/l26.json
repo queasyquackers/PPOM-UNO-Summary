@@ -1,0 +1,60 @@
+{
+  "id": "l26",
+  "title": "Lecture #26: DPR Neuro Exam Part 1",
+  "lecturer": "R. Morgan, D.O.",
+  "module": "DPR",
+  "session": "Lecture #26",
+  "prev": "l25",
+  "next": "l27",
+  "pdf": "pdfs/Lecture # 26. R. Morgan, D.O. (PPT).pdf",
+  "summary": "# Lecture #26: DPR Neuro Exam Part 1\n\n**Lecturer:** R. Morgan, D.O.\n**Session:** DPR (Doctor-Patient Relationship)\n\n## 1. Mental Status Exam (MSE)\n*   **Components:** Appearance, Behavior, Speech, Mood, Affect, Cognition, Thought Process.\n*   **Orientation:** Person, Place, Time (Alert & Oriented x3).\n*   **Glasgow Coma Scale (GCS):**\n    *   **Eye Opening (4):** Spontaneous(4), Voice(3), Pain(2), None(1).\n    *   **Verbal (5):** Oriented(5), Confused(4), Inappropriate(3), Sounds(2), None(1).\n    *   **Motor (6):** Obeys(6), Localizes(5), Withdraws(4), Flexion/Decorticate(3), Extension/Decerebrate(2), None(1).\n    *   *Max:* 15. *Coma:* <= 8.\n\n## 2. Cranial Nerve Exam\n### CN I (Olfactory)\n*   Test each nostril with non-irritating scent (coffee, vanilla).\n*   Typically deferred unless specific complaint.\n\n### CN II (Optic)\n*   **Visual Acuity:** Snellen Chart (20/20).\n*   **Visual Fields:** Confrontation test.\n*   **Fundoscopy:** Check red reflex, optic disc (sharp margins), papilledema.\n\n### CN III, IV, VI (Oculomotor, Trochlear, Abducens)\n*   **Pupils:** Size, Shape, Direct/Consensual Reflex (CN II afferent, CN III efferent).\n*   **H-Test:** Extraocular Movements (EOM).\n    *   *LR6:* Lateral Rectus (CN VI).\n    *   *SO4:* Superior Oblique (CN IV).\n    *   *Rest:* CN III.\n*   **Ptosis:** Check eyelids.\n\n### CN V (Trigeminal)\n*   **Sensory:** Light touch (V1, V2, V3).\n*   **Motor:** Clench teeth (Temporalis, Masseter).\n*   **Reflex:** Corneal Reflex (V1 Afferent, VII Efferent).\n\n### CN VII (Facial)\n*   **Motor:** Raise eyebrows, Frown, Close eyes tightly, Show teeth, Puff cheeks.\n*   **Sensory:** Taste anterior 2/3 tongue.\n*   **Lesion:**\n    *   *Bell's Palsy (LMN):* Whole half of face paralyzed.\n    *   *Stroke (UMN):* Forehead spared (can wrinkle forehead).\n\n### CN VIII (Vestibulocochlear)\n*   **Gross Hearing:** Whisper test / Finger rub.\n*   **Weber/Rinne:** If indicated.\n\n### CN IX, X (Glossopharyngeal, Vagus)\n*   **Palate:** \"Say Ahh\". Uvula deviates **AWAY** from lesion.\n*   **Gag Reflex:** Touch posterior pharynx.\n\n### CN XI (Accessory)\n*   **Motor:** Shoulder shrug (Trapezius) and Head turn (SCM) against resistance.\n\n### CN XII (Hypoglossal)\n*   **Motor:** Stick out tongue. Deviates **TOWARDS** lesion (\"Lick your wounds\").\n\n## 3. Clinical Correlates\n:::correlate\n**CN XII Lesion**\n*   **Sign:** Tongue deviation.\n*   **Rule:** Tongue points **TOWARDS** the side of the lesion (weak side).\n:::\n\n:::correlate\n**CN X Lesion**\n*   **Sign:** Uvula deviation.\n*   **Rule:** Uvula points **AWAY** from the side of the lesion (strong side pulls it).\n:::",
+  "mindmap": "## Cranial Nerve Exam\n### Eyes\n*   **CN II**: Vision, Fields, Fundoscopy.\n*   **CN III, IV, VI**: Pupils, EOM (H-Test).\n### Face\n*   **CN V**: Sensation (Face), Motor (Jaw).\n*   **CN VII**: Motor (Expression).\n### Bulbar\n*   **CN IX/X**: Palate (Uvula away), Gag.\n*   **CN XII**: Tongue (Towards).\n### Neck\n*   **CN XI**: Shrug (Trap), Turn (SCM).",
+  "questions": [],
+  "flashcards": [
+    {
+      "front": "Eye muscle for lateral gaze (Abduction)?",
+      "back": "Lateral Rectus (CN VI)",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Tongue deviates to Left. Lesion?",
+      "back": "Left CN XII",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Uvula deviates to Right. Lesion?",
+      "back": "Left CN X",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Forehead sparing facial droop. Location?",
+      "back": "UMN (Stroke)",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Corneal Reflex Nerves?",
+      "back": "In: CN V1, Out: CN VII",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Gag Reflex Nerves?",
+      "back": "In: CN IX, Out: CN X",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Pupillary Light Reflex Nerves?",
+      "back": "In: CN II, Out: CN III",
+      "tag": "Neuro"
+    },
+    {
+      "front": "How to test CN XI?",
+      "back": "Shoulder Shrug",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Glasgow Coma Scale Max Score?",
+      "back": "15",
+      "tag": "Neuro"
+    }
+  ]
+}

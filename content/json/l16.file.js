@@ -1,0 +1,69 @@
+window.receiveLectureContent({
+  "id": "l16",
+  "title": "Lecture #16: Visual System",
+  "lecturer": "G. Otazu, Ph.D.",
+  "module": "Neuroanatomy",
+  "session": "Lecture #16",
+  "prev": "l15",
+  "next": "l17",
+  "pdf": "pdfs/Lecture # 16. G. Otazu, Ph.D. (PPT)-1.pdf",
+  "summary": "# Lecture #16: Visual System\n\n**Lecturer:** Gonzalo Otazu, Ph.D.\n**Session:** Neuroanatomy\n\n## 1. Anatomy of the Eye (Slides 4-15)\n*   **Chambers:**\n    *   *Anterior/Posterior:* Filled with Aqueous Humor (Produced by Ciliary Body, Drained by Canal of Schlemm/Trabecular Meshwork).\n    *   *Glaucoma:* Blockage of drainage -> Increased IOP.\n*   **Retina:**\n    *   **Fovea:** Highest visual acuity, only **Cones** (Color), Avascular.\n    *   **Optic Disc:** Blind spot (No photoreceptors).\n    *   **Photoreceptors:**\n        *   *Rods:* Night vision, Black/White, Periphery.\n        *   *Cones:* Color (RGB), Fovea.\n\n## 2. Visual Pathways (Slides 26-29)\n*   **Optic Nerve (CN II):** Retina to Chiasm.\n*   **Optic Chiasm:** Decussation of **Nasal** fibers (Temporal field).\n*   **LGN (Thalamus):** Relay center.\n*   **Optic Radiations:**\n    *   *Meyer's Loop (Temporal Lobe):* Superior Visual Field (\"Pie in the Sky\").\n    *   *Dorsal Tract (Parietal Lobe):* Inferior Visual Field (\"Pie on the Floor\").\n*   **Primary Visual Cortex (V1):** Occipital Lobe (Calcarine fissure).\n\n## 3. Clinical Correlates\n:::correlate\n**Pituitary Adenoma**\n*   **Mechanism:** Compresses Optic Chiasm.\n*   **Deficit:** **Bitemporal Hemianopsia** (Tunnel Vision) - Loss of peripheral fields (Nasal fibers compressed).\n:::\n\n:::correlate\n**Meyer's Loop Lesion**\n*   **Location:** Temporal Lobe.\n*   **Deficit:** **Contralateral Superior Quadrantanopia** (\"Pie in the Sky\").\n:::\n\n:::correlate\n**Parietal Lobe Lesion (Right)**\n*   **Condition:** **Hemineglect**.\n*   **Presentation:** Patient ignores left side of world (e.g., clocks drawn with only right side, shaves only right face). Right parietal lobe attends to *both* sides; Left only attends to Right.\n:::\n\n:::correlate\n**Macular Sparing**\n*   **Scenario:** PCA Stroke affecting Occipital Lobe.\n*   **Finding:** Contralateral Homonymous Hemianopsia *with sparing of the center*.\n*   **Why?** Macula has dual blood supply (PCA + MCA).\n:::\n\n:::correlate\n**Papilledema (Slide 34)**\n*   **Cause:** Increased Intracranial Pressure (ICP).\n*   **Sign:** Swelling of Optic Disc blurred margins.\n:::",
+  "mindmap": "## Visual System\n### Eye Anatomy\n*   **Anterior Chamber**: Aqueous (Glaucoma)\n*   **Retina**: Fovea (Cones/Acuity), Periphery (Rods)\n### Pathway\n*   **Retina** -> **Optic Nerve**\n*   **Chiasm**: Crossing of Nasal Fibers\n*   **LGN**: Thalamus\n*   **Radiations**:\n    *   *Meyer's Loop* (Temporal): Superior Field\n    *   *Dorsal Tract* (Parietal): Inferior Field\n*   **Cortex**: Occipital (V1)\n### Lesions\n*   **Optic Nerve**: Monocular Blindness\n*   **Chiasm**: Bitemporal Hemianopsia (Pituitary)\n*   **Tract/Cortex**: Contralateral Homonymous Hemianopsia\n*   **Meyer's Loop**: Pie in the Sky\n*   **PCA Stroke**: Macular Sparing",
+  "questions": [],
+  "ankingResource": {
+    "primarySource": "BandB",
+    "chapter": "Neurology > Vision"
+  },
+  "flashcards": [
+    {
+      "front": "Visual Deficit: Pituitary Adenoma?",
+      "back": "Bitemporal Hemianopsia",
+      "tag": "Clinical"
+    },
+    {
+      "front": "Visual Deficit: Right Optic Nerve lesion?",
+      "back": "Right Monocular Blindness",
+      "tag": "Clinical"
+    },
+    {
+      "front": "Visual Deficit: Right PCA stroke?",
+      "back": "Left Homonymous Hemianopsia (w/ Macular Sparing)",
+      "tag": "Clinical"
+    },
+    {
+      "front": "Visual Deficit: Meyer's Loop Lesion?",
+      "back": "Contralateral Superior Quadrantanopia (Pie in Sky)",
+      "tag": "Clinical"
+    },
+    {
+      "front": "Location of Meyer's Loop?",
+      "back": "Temporal Lobe",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Thalamic Relay for Vision?",
+      "back": "Lateral Geniculate Nucleus (LGN)",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Sign of Increased ICP on Fundoscopy?",
+      "back": "Papilledema",
+      "tag": "Clinical"
+    },
+    {
+      "front": "Cause of Glaucoma?",
+      "back": "Increased IOP (Blocked drainage)",
+      "tag": "Pathology"
+    },
+    {
+      "front": "Lobe responsible for Spatial Neglect?",
+      "back": "Parietal Lobe (usually Right)",
+      "tag": "Neuro"
+    },
+    {
+      "front": "Photoreceptor for Night/Peripheral Vision?",
+      "back": "Rods",
+      "tag": "Neuro"
+    }
+  ]
+});

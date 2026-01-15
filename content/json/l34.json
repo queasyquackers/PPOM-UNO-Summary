@@ -1,0 +1,65 @@
+{
+  "id": "l34",
+  "title": "Lecture #34: Sympathomimetics Part 2",
+  "lecturer": "L. Goldstein, Pharm.D.",
+  "module": "Pharmacology",
+  "session": "Lecture #34",
+  "prev": "l33",
+  "next": "l35",
+  "pdf": "pdfs/Lecture # 34. L. Goldstein, Pharm.D. (PPT).pdf",
+  "summary": "# Lecture #34: Sympathomimetics Part 2\n\n**Lecturer:** L. Goldstein, Pharm.D.\n**Session:** Lecture #34\n\n## 1. Selective \u03b22 Agonists (Slides 8-13)\n\n:::highyield\n**Short-Acting \u03b22 Agonists (SABAs)**\n*   **Drugs:** Albuterol, Levalbuterol.\n*   **Mechanism:** \u03b22 activation \u2192 \u2191 cAMP \u2192 Bronchial smooth muscle relaxation.\n*   **Use:** **Rescue inhaler** for acute bronchospasm. Exercise-induced asthma prophylaxis (PRN).\n*   **Onset:** ~10 minutes. **Duration:** 4-6 hours.\n*   **Route:** Inhaled (preferred). Oral/IV possible but \u2191 side effects.\n:::\n\n:::highyield\n**Long-Acting \u03b22 Agonists (LABAs)**\n*   **Drugs:** Salmeterol, Formoterol, Vilanterol (Ultra-LABA).\n*   **Mechanism:** Same as SABAs, but **lipophilic** + high \u03b22 affinity \u2192 prolonged duration.\n*   **Use:** **Chronic prophylaxis** of bronchospasm (with inhaled glucocorticoid). NOT for acute relief.\n*   **Duration:** ~12 hours (LABAs), ~24 hours (Ultra-LABAs).\n*   **Note:** **Formoterol** is rapid-acting (3 min) but long-duration.\n:::\n\n### Therapeutic Uses\n*   **Asthma/COPD:** Bronchodilation.\n*   **Tocolysis (Terbutaline):** Delay preterm labor \u00d748 hours (to give maternal glucocorticoid for fetal lung maturation).\n\n### Adverse Effects (Slide 13)\n*   **Tremor** (\u03b22 on skeletal muscle). Tolerance develops.\n*   **Tachycardia** (\u03b22 cardiac + reflex).\n*   **Metabolic:** Hypokalemia (K\u207a uptake into muscle), Hyperglycemia, \u2191 FFA.\n\n## 2. \u03b23 Agonists (Slide 15)\n\n:::drug\n**Mirabegron / Vibegron**\n*   **Mechanism:** \u03b23 activation \u2192 Relaxation of detrusor muscle (bladder storage phase).\n*   **Use:** Overactive bladder (urinary frequency, urgency, urge incontinence).\n*   **Can combine with Muscarinic antagonists** (lack cholinergic side effects).\n*   **Adverse Effects:** \u2191 BP, QT prolongation (low risk).\n*   **Drug Interaction:** **CYP2D6 inhibitor** (\u2191 levels of 2D6 substrates).\n*   **Avoid:** Severe hypertension, high QT risk.\n:::\n\n## 3. \u03b12 Agonists (Slides 18-25)\n\n:::highyield\n**Clonidine**\n*   **Mechanism:** Activates **central \u03b12 receptors** (brainstem) \u2192 \u2193 Sympathetic outflow \u2192 \u2193 HR, \u2193 CO, \u2193 TPR \u2192 \u2193 BP.\n*   **Uses:**\n    *   Hypertension (add-on, not first-line).\n    *   ADHD (modulates prefrontal cortex).\n    *   Opioid/Smoking withdrawal (\u2193 sympathetic symptoms).\n    *   Pain management (epidural).\n*   **Adverse Effects:** Bradycardia, Hypotension, Sedation, Dry mouth, Sexual dysfunction.\n*   **Critical:** **Rebound hypertension** if abruptly stopped.\n:::\n\n:::drug\n**Methyldopa**\n*   **Mechanism:** Converted to **\u03b1-Methyl-NE** (false transmitter) \u2192 Replaces NE in vesicles \u2192 Released \u2192 Acts as \u03b12 agonist centrally \u2192 \u2193 Sympathetic outflow.\n*   **Use:** **Pregnancy hypertension** (safe for fetus, maintains uterine blood flow).\n*   **Adverse Effects:** Sedation, Low energy, Depression, **Parkinsonian symptoms**, **Hemolytic anemia** (rare), Hyperprolactinemia, Gynecomastia.\n:::\n\n:::warning\n**Withdrawal of \u03b12 Agonists**\n*   Taper slowly to prevent **rebound hypertension**.\n*   If on \u03b2-blocker + Clonidine: **Stop \u03b2-blocker first** (days before), then taper Clonidine. Otherwise, unopposed \u03b1 vasoconstriction \u2192 severe hypertensive crisis.\n:::\n\n## 4. Indirect-Acting Sympathomimetics (Slides 26-29)\n\n### Mechanisms\n*   **Amphetamines:** Release NE/DA from vesicles, block reuptake, reverse NET transport.\n*   **Cocaine:** Blocks NET/DAT (reuptake inhibitors).\n*   **MAO Inhibitors:** \u2191 NE/DA/Serotonin stores (block degradation).\n*   **COMT Inhibitors:** Prolong Levodopa (Parkinson's).\n\n:::drug\n**MAO Inhibitors (e.g., Phenelzine)**\n*   **Use:** Treatment-resistant depression.\n*   **Critical Interaction:** **Tyramine** (aged cheese, wine, deli meats) \u2192 Tyramine not degraded by MAO \u2192 Displaces NE from vesicles \u2192 **Hypertensive Crisis**.\n*   **Avoid:** Tyramine-rich foods.\n:::\n\n:::drug\n**Atomoxetine / SNRIs (Duloxetine, Venlafaxine)**\n*   **Mechanism:** Selective NE (or NE + Serotonin) reuptake inhibitors.\n*   **Uses:** ADHD (Atomoxetine), Depression/Anxiety/Chronic pain (SNRIs).\n:::\n\n## 5. Mixed-Acting (Slides 30-31)\n\n:::drug\n**Ephedrine / Pseudoephedrine**\n*   **Mechanism:** **Indirect** (release NE) + **Direct** (\u03b1 and \u03b2 agonist).\n*   **Uses:**\n    *   **Ephedrine:** Anesthesia-induced hypotension (IV). Bronchodilator (oral, OTC).\n    *   **Pseudoephedrine:** Nasal decongestant (less potent, less CNS).\n*   **Effects:** \u2191 HR, \u2191 CO, \u2191 BP (variable peripheral resistance).\n:::",
+  "mindmap": "## Sympathomimetics Part 2\n### \u03b22 Agonists\n*   **SABAs**: Albuterol (rescue)\n*   **LABAs**: Salmeterol (prophylaxis)\n### \u03b23 Agonists\n*   **Mirabegron**: Overactive bladder\n### \u03b12 Agonists\n*   **Clonidine**: HTN, ADHD, Withdrawal\n*   **Methyldopa**: Pregnancy HTN\n### Indirect\n*   **MAO-I**: Depression (Tyramine crisis)\n*   **Atomoxetine**: ADHD (NE reuptake)\n### Mixed\n*   **Ephedrine**: Anesthesia hypotension",
+  "questions": [],
+  "flashcards": [
+    {
+      "front": "SABA vs LABA use?",
+      "back": "SABA = Rescue (acute). LABA = Prophylaxis (chronic, with GC)",
+      "tag": "Pharm"
+    },
+    {
+      "front": "Formoterol unique feature?",
+      "back": "Rapid-acting LABA (3 min onset, 12 hr duration)",
+      "tag": "Pharm"
+    },
+    {
+      "front": "Mirabegron mechanism?",
+      "back": "\u03b23 agonist \u2192 Bladder detrusor relaxation",
+      "tag": "Pharm"
+    },
+    {
+      "front": "Mirabegron drug interaction?",
+      "back": "CYP2D6 inhibitor",
+      "tag": "Pharm"
+    },
+    {
+      "front": "Clonidine mechanism?",
+      "back": "Central \u03b12 agonist \u2192 \u2193 Sympathetic outflow",
+      "tag": "Pharm"
+    },
+    {
+      "front": "Methyldopa mechanism?",
+      "back": "False transmitter (\u03b1-Methyl-NE) \u2192 Central \u03b12 agonist",
+      "tag": "Pharm"
+    },
+    {
+      "front": "Methyldopa use?",
+      "back": "Pregnancy hypertension",
+      "tag": "Pharm"
+    },
+    {
+      "front": "MAO inhibitor + Tyramine?",
+      "back": "Hypertensive crisis (Tyramine displaces NE)",
+      "tag": "Pharm"
+    },
+    {
+      "front": "Ephedrine mechanism?",
+      "back": "Mixed (releases NE + direct \u03b1/\u03b2 agonist)",
+      "tag": "Pharm"
+    },
+    {
+      "front": "Clonidine withdrawal risk?",
+      "back": "Rebound hypertension (taper slowly)",
+      "tag": "Pharm"
+    }
+  ]
+}

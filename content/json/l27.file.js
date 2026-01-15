@@ -1,0 +1,65 @@
+window.receiveLectureContent({
+  "id": "l27",
+  "title": "Lecture #27: OMM Lab 17 Prep",
+  "lecturer": "T. Li, D.O.",
+  "module": "OMM",
+  "session": "Lecture #27",
+  "prev": "l26",
+  "next": "l28",
+  "pdf": "pdfs/Lecture # 27. T. Li, D.O. (PPT).pdf",
+  "summary": "# Lecture #27: OMM Lab 17 Prep\n\n**Lecturer:** T. Li, D.O.\n**Session:** Lecture #27\n\n## 1. Counterstrain (CS) Overview (Slides 2-4)\n*   **Definition:** An indirect, passive technique used to treat somatic dysfunction by placing the patient's body in a position of ease to relieve tenderness at a specific \"tenderpoint\" (Slide 3).\n*   **History:** Originally called \"Spontaneous Release by Positioning\" (Slide 3).\n*   **Key Concept:** \"Fold and Hold\". Shorten the muscle/tissue to silence the proprioceptive feedback (muscle spindles) causing the spasm (Slide 6).\n\n### Clinical Pointers\n:::pearl\nCounterstrain is passive! The patient must relax and \"not help you\".\n:::\n*   **Safety:** Very safe due to gentle nature.\n*   **Versatility:** Can be used alone or with other techniques (Slide 4).\n*   **Symptom Location:** Tenderpoints may not be where the patient feels pain but may be the *cause* of the pain (Slide 3).\n\n### Contraindications (Slide 4)\n*   **Absolute:** No somatic dysfunction, no consent/cooperation.\n*   **Relative:** Unable to relax, severe illness, severe osteoporosis.\n\n## 2. Basic Steps of Counterstrain (Slides 6-7)\n1.  **Find Point:** Locate tenderpoint with monitoring finger (Slide 6).\n2.  **Establish Scale:** Set pain as 10/10 (Slide 6).\n    *   **Note:** This is relative to the patient's experience, not an objective medical severity.\n3.  **Position:** Passively place patient in position of ease (\"Fold and Hold\") (Slide 6).\n    *   Goal: Reduce tenderness to **0/10** (ideal) or at least **\u2264 3/10** (Slide 6).\n4.  **Hold:** Maintain position for **90 seconds** (Slide 7).\n5.  **Return:** Slowly return to neutral (Slide 7).\n    *   **Crucial:** Patient must not help!\n6.  **Reassess:** Check for tenderness (goal \u2264 3/10) (Slide 7).\n\n:::highyield\n**Post-Treatment Reaction (Slide 5):**\n30-50% of patients experience soreness 1-2 days later.\n*   **Advice:** Warn patient, avoid strenuous activity that day, increase water intake.\n:::\n\n## 3. Pelvic Counterstrain (Slides 8-9)\n**Focus:** Anterior Pelvic Counterstrain points.\n*   **Iliacus:** Deep in iliac fossa. Treatment: Flexion, External Rotation (Frog leg).\n*   **Psoas:** Medial to ASIS. Treatment: Flexion, Sidebend TOWARD, Rotate AWAY (F-ST-RA).\n*   **Low Ilium:** Superior ramus of pubis. Treatment: Flexion.\n*   **Inguinal:** Lateral to pubic tubercle. Treatment: Flexion, Adduction, Internal Rotation (F-ADD-IR).\n_(Note: Specific positions based on general principles, verify with lab manual)._\n\n## 4. Innominate HVLA (Slides 10-12)\n**Prerequisite:** Diagnosis and *Soft Tissue* preparation (Slide 10).\n*   **Anterior Innominate Rotation SD:**\n    *   **Finding:** ASIS low, PSIS high on affected side.\n    *   **Treatment:** Rotate posteriorly.\n*   **Posterior Innominate Rotation SD:**\n    *   **Finding:** ASIS high, PSIS low on affected side.\n    *   **Treatment:** Rotate anteriorly (extend hip).\n*   **Superior Innominate Shear:**\n    *   **Technique:** Slight abduction, internal rotation, traction to localize SI joint (Slide 12).\n\n## 5. Clinical Correlates\n\n:::correlate\n**Post-Counterstrain Soreness**\n*   **Presentation:** Soreness in treated area appearing several hours after treatment.\n*   **Duration:** Self-limited, 1-2 days.\n*   **Mechanism:** Metabolic waste release/tissue changes.\n*   **Lecturer's Point:** \"Good idea to 'warn them' so they expect it.\" (Slide 5)\n:::\n\n:::correlate\n**Hip/Knee Arthritis**\n*   **Relevance:** Common in older patients.\n*   **Precaution:** Be mindful of range of motion when placing patients in counterstrain positions (flexion/rotation). Tailor treatment to limitations (Slide 8).\n:::",
+  "mindmap": "## OMM Lab 17\n### Counterstrain Basics\n*   **Type**: Indirect, Passive\n*   **Mechanism**: Silencing muscle spindles\n*   **Steps**: Point -> Position -> Hold (90s) -> Return -> Check\n*   **Goal**: Tenderness <= 3/10\n### Pelvic Points\n*   **Iliacus**: Frog leg\n*   **Psoas**: F-ST-RA\n*   **Low Ilium**: Flexion\n*   **Inguinal**: F-ADD-IR\n### HVLA\n*   **Prep**: Soft tissue first\n*   **Anterior Innominate**: ASIS Low\n*   **Posterior Innominate**: ASIS High",
+  "questions": [],
+  "flashcards": [
+    {
+      "front": "Goals of Counterstrain tenderness reduction?",
+      "back": "Ideal: 0/10, Acceptable: \u2264 3/10",
+      "tag": "OMM"
+    },
+    {
+      "front": "Duration of Counterstrain hold?",
+      "back": "90 seconds",
+      "tag": "OMM"
+    },
+    {
+      "front": "Absolute Contraindications for Counterstrain?",
+      "back": "No SD, No Consent/Cooperation",
+      "tag": "OMM"
+    },
+    {
+      "front": "Common side effect of Counterstrain?",
+      "back": "Soreness (1-2 days)",
+      "tag": "OMM"
+    },
+    {
+      "front": "Innominate Rotation: ASIS High, PSIS Low?",
+      "back": "Posterior Innominate Rotation",
+      "tag": "OMM"
+    },
+    {
+      "front": "Innominate Rotation: ASIS Low, PSIS High?",
+      "back": "Anterior Innominate Rotation",
+      "tag": "OMM"
+    },
+    {
+      "front": "Mechanism of Counterstrain",
+      "back": "Quiet the muscle spindle (Gamma gain)",
+      "tag": "OMM"
+    },
+    {
+      "front": "Is Counterstrain Direct or Indirect?",
+      "back": "Indirect (Position of Ease)",
+      "tag": "OMM"
+    },
+    {
+      "front": "Is Counterstrain Active or Passive?",
+      "back": "Passive",
+      "tag": "OMM"
+    },
+    {
+      "front": "Steps of Counterstrain?",
+      "back": "Find Point -> Scale (10/10) -> Position (Ease) -> Hold (90s) -> Slow Return -> Reassess",
+      "tag": "OMM"
+    }
+  ]
+});

@@ -1,4 +1,6 @@
-let lectures = window.LECTURES_DATA || [];
+// State
+let lectures = [];
+let lecturesMap = new Map(); // Cache for loaded lecture content
 let selectedLecture = null;
 let activeTab = "summary";
 let isDark = false;
@@ -6,8 +8,9 @@ let showAnswers = false;
 let tocVisible = true;
 let sidebarVisible = true;
 let currentFontSize = 100; // Percentage
+let completedLectures = new Set(); // Track completed IDs
 
-document.addEventListener("DOMContentLoaded", function () {
+document.addEventListener("DOMContentLoaded", async function () {
   // Load Theme
   const savedTheme = localStorage.getItem("theme");
   if (
@@ -21,18 +24,247 @@ document.addEventListener("DOMContentLoaded", function () {
     document.documentElement.classList.remove("dark");
   }
 
-  // Refresh data in case of loading order issues
-  if (typeof window.LECTURES_DATA !== "undefined") {
-    lectures = window.LECTURES_DATA;
-  }
+  // Load Progress
+  loadProgress();
 
-  renderLectureList();
+  // Load Lecture Index
+  await loadLectureIndex();
+
   setupEventListeners();
   updateWelcomeMessage();
   setupKeyboardShortcuts();
   setupReadingProgress();
   setupWelcomeAnimation();
+  setupLightbox();
 });
+
+let lightboxState = {
+    zoom: 1,
+    isDragging: false,
+    startX: 0,
+    startY: 0,
+    translateX: 0,
+    translateY: 0
+};
+
+function setupLightbox() {
+    const lightbox = document.getElementById('imageLightbox');
+    const img = document.getElementById('lightboxImage');
+    const closeBtn = document.getElementById('lightboxClose');
+    const zoomInBtn = document.getElementById('lightboxZoomIn');
+    const zoomOutBtn = document.getElementById('lightboxZoomOut');
+    
+    if(!lightbox || !img) return;
+
+    // Functions
+    const openLightbox = (src) => {
+        img.src = src;
+        lightbox.classList.remove('hidden');
+        // Small delay for fade in
+        requestAnimationFrame(() => {
+            lightbox.classList.remove('opacity-0');
+        });
+        resetZoom();
+        document.body.style.overflow = 'hidden'; // Prevent scrolling
+    };
+
+    const closeLightbox = () => {
+        lightbox.classList.add('opacity-0');
+        setTimeout(() => {
+            lightbox.classList.add('hidden');
+            img.src = '';
+        }, 300);
+        document.body.style.overflow = '';
+    };
+
+    const resetZoom = () => {
+        lightboxState = { zoom: 1, isDragging: false, startX: 0, startY: 0, translateX: 0, translateY: 0 };
+        updateTransform();
+    };
+
+    const updateTransform = () => {
+        img.style.transform = `scale(${lightboxState.zoom}) translate(${lightboxState.translateX}px, ${lightboxState.translateY}px)`;
+    };
+
+    // Event Listeners for Images (Global delegation or post-render attachment)
+    // We attach this to document but only act if target matches
+    document.addEventListener('click', (e) => {
+        if(e.target.tagName === 'IMG' && e.target.closest('#tabContent')) {
+            openLightbox(e.target.src);
+        }
+    });
+
+    closeBtn.addEventListener('click', closeLightbox);
+    lightbox.addEventListener('click', (e) => {
+        if(e.target === lightbox || e.target.closest('.w-full')) closeLightbox();
+    });
+    
+    // Zoom Controls
+    zoomInBtn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        lightboxState.zoom = Math.min(lightboxState.zoom + 0.5, 4);
+        updateTransform();
+    });
+    
+    zoomOutBtn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        lightboxState.zoom = Math.max(lightboxState.zoom - 0.5, 0.5);
+        updateTransform();
+    });
+
+    // Keyboard
+    document.addEventListener('keydown', (e) => {
+        if (!lightbox.classList.contains('hidden')) {
+            if (e.key === 'Escape') closeLightbox();
+            if (e.key === '+' || e.key === '=') zoomInBtn.click();
+            if (e.key === '-') zoomOutBtn.click();
+        }
+    });
+    
+    // Pan Logic (Mouse)
+    img.addEventListener('mousedown', (e) => {
+        if(lightboxState.zoom <= 1) return;
+        e.preventDefault();
+        lightboxState.isDragging = true;
+        lightboxState.startX = e.clientX - lightboxState.translateX;
+        lightboxState.startY = e.clientY - lightboxState.translateY;
+        img.classList.add('cursor-grabbing');
+    });
+    
+    window.addEventListener('mousemove', (e) => {
+        if(!lightboxState.isDragging) return;
+        e.preventDefault();
+        lightboxState.translateX = e.clientX - lightboxState.startX;
+        lightboxState.translateY = e.clientY - lightboxState.startY;
+        updateTransform();
+    });
+    
+    window.addEventListener('mouseup', () => {
+        lightboxState.isDragging = false;
+        img.classList.remove('cursor-grabbing');
+    });
+    
+    // Wheel Zoom
+    lightbox.addEventListener('wheel', (e) => {
+        e.preventDefault();
+        const delta = e.deltaY * -0.01;
+        lightboxState.zoom = Math.min(Math.max(0.5, lightboxState.zoom + delta), 4);
+        updateTransform();
+    });
+}
+
+function loadProgress() {
+    try {
+        const saved = localStorage.getItem('onepass_progress');
+        if (saved) {
+            const data = JSON.parse(saved);
+            // Migrate legacy format if needed, for now assume simple array of IDs
+            if (Array.isArray(data)) {
+                completedLectures = new Set(data);
+            }
+        }
+    } catch (e) {
+        console.error("Failed to load progress", e);
+    }
+}
+
+function saveProgress() {
+    localStorage.setItem('onepass_progress', JSON.stringify([...completedLectures]));
+    renderLectureList(document.getElementById("searchInput").value);
+}
+
+function toggleLectureComplete(id) {
+    if (completedLectures.has(id)) {
+        completedLectures.delete(id);
+    } else {
+        completedLectures.add(id);
+        // Confetti!
+        const btn = document.getElementById("markCompleteBtn");
+        if(btn) {
+            const rect = btn.getBoundingClientRect();
+            createConfetti(rect.left + rect.width/2, rect.top);
+        }
+    }
+    saveProgress();
+    updateCompleteButton();
+}
+
+// Load Index
+async function loadLectureIndex() {
+    return new Promise((resolve) => {
+        // Define callback for index
+        window.receiveLectureIndex = (data) => {
+            lectures = data;
+            renderLectureList();
+            checkDeepLink();
+            resolve();
+        };
+        
+        // Try loading the JS index
+        const script = document.createElement('script');
+        script.src = './lectures_index.js';
+        script.onerror = () => {
+             console.error("Failed to load lecture index script, falling back to global.");
+             if (window.LECTURES_DATA) {
+                lectures = window.LECTURES_DATA;
+                renderLectureList();
+                checkDeepLink();
+             }
+             resolve();
+        };
+        document.body.appendChild(script);
+    });
+}
+
+function checkDeepLink() {
+    // Check for deep link
+    const params = new URLSearchParams(window.location.search);
+    const lectureId = params.get('lecture');
+    const tab = params.get('tab');
+    
+    if (lectureId) {
+        if (tab) activeTab = tab;
+        selectLecture(lectureId); // Don't await here to avoid blocking
+        if (tab) switchTab(tab);
+    }
+}
+
+async function getLectureContent(id, path) {
+  if (lecturesMap.has(id)) return lecturesMap.get(id);
+  
+  return new Promise((resolve, reject) => {
+      // Define global callback
+      // We wrap it to ensure we match the ID if possible, or just resolve whatever comes
+      const originalCallback = window.receiveLectureContent;
+      
+      window.receiveLectureContent = (data) => {
+          // Cache the data
+          lecturesMap.set(data.id, data);
+          
+          if (data.id === id) {
+              resolve(data);
+          } else {
+              // If we received data for another lecture (race condition?), 
+              // we still cached it. But we keep waiting for OUR data?
+              // For simplicity in this single-threaded UI, we resolve if we get *any* valid data 
+              // that matches (or we assume the last request is the one).
+              // Actually, if we get mismatched data, we should probably resolve it if it matches the requested ID.
+          }
+      };
+      
+      const script = document.createElement('script');
+      script.src = path;
+      script.onerror = () => {
+          reject(new Error("Network error loading lecture content"));
+      };
+      document.body.appendChild(script);
+      
+      // Cleanup script after load
+      script.onload = () => {
+          setTimeout(() => script.remove(), 100);
+      };
+  });
+}
 
 function setupWelcomeAnimation() {
   const welcomeScreen = document.getElementById("welcomeScreen");
@@ -87,6 +319,33 @@ function setupEventListeners() {
       switchTab(this.dataset.tab);
     });
   });
+
+  // Handle Browser Back/Forward
+  window.addEventListener('popstate', (e) => {
+      const state = e.state;
+      if (state && state.lecture) {
+          if (selectedLecture?.id !== state.lecture) {
+              selectLecture(state.lecture).then(() => {
+                  if (state.tab) switchTab(state.tab);
+              });
+          } else if (state.tab && activeTab !== state.tab) {
+              switchTab(state.tab);
+          }
+      } else {
+          // If no state or no lecture, close
+          if (selectedLecture) closeLecture();
+      }
+  });
+
+  // Add Mark Complete Listener
+  const completeBtn = document.getElementById("markCompleteBtn");
+  if(completeBtn) {
+      completeBtn.addEventListener("click", () => {
+          if(selectedLecture) {
+              toggleLectureComplete(selectedLecture.id);
+          }
+      });
+  }
 }
 
 function setupKeyboardShortcuts() {
@@ -108,6 +367,13 @@ function setupKeyboardShortcuts() {
         switchTab(tabs[currentIndex - 1]);
       } else if (e.key === "ArrowRight" && currentIndex < tabs.length - 1) {
         switchTab(tabs[currentIndex + 1]);
+      }
+
+      // Toggle Complete Shortcut (C)
+      if (e.key === "c" || e.key === "C") {
+          if(selectedLecture && document.activeElement.tagName !== 'INPUT') {
+              toggleLectureComplete(selectedLecture.id);
+          }
       }
     }
   });
@@ -135,7 +401,47 @@ function setupReadingProgress() {
     } else {
       backToTop.classList.add("opacity-0", "pointer-events-none");
     }
+    
+    // Scroll Spy Logic
+    if (tocVisible) updateActiveToC();
   });
+}
+
+function updateActiveToC() {
+    const headings = document.getElementById("tabContent").querySelectorAll("h1, h2, h3");
+    if (!headings.length) return;
+
+    let activeId = headings[0].id;
+    
+    // Find the first heading that is visible or just above the viewport top
+    for (let i = 0; i < headings.length; i++) {
+        const rect = headings[i].getBoundingClientRect();
+        // 120px offset to account for sticky header, etc.
+        if (rect.top >= 120) {
+            // This heading is below the line, so the *previous* one is the active one (unless this is the first one)
+            if (i > 0) {
+                activeId = headings[i - 1].id;
+            } else {
+                 activeId = headings[0].id;
+            }
+            break;
+        }
+        // If we reach the end and all are above, the last one is active
+        if (i === headings.length - 1) {
+            activeId = headings[i].id;
+        }
+    }
+    
+    // Highlight sidebar links using data-target attribute
+    document.querySelectorAll(".toc-link").forEach(link => {
+        if (link.dataset.target === activeId) {
+             link.classList.add("text-solarized-blue", "dark:text-dark-accent", "font-semibold");
+             link.classList.remove("text-solarized-base00", "dark:text-dark-text");
+        } else {
+             link.classList.remove("text-solarized-blue", "dark:text-dark-accent", "font-semibold");
+             link.classList.add("text-solarized-base00", "dark:text-dark-text");
+        }
+    });
 }
 
 function debounce(func, wait) {
@@ -178,7 +484,11 @@ function animateSearchIcon() {
   );
 }
 
-function createConfetti() {
+function createConfetti(x, y) {
+    // Fallback if x,y not provided (random center)
+    if(x === undefined) x = window.innerWidth / 2;
+    if(y === undefined) y = window.innerHeight / 2;
+  
   const colors = [
     "#268bd2",
     "#2aa198",
@@ -191,14 +501,23 @@ function createConfetti() {
     setTimeout(() => {
       const confetti = document.createElement("div");
       confetti.className = "confetti";
-      confetti.style.left = Math.random() * window.innerWidth + "px";
+      confetti.style.left = x + "px";
+      confetti.style.top = y + "px";
+      // Random spread
+      const angle = Math.random() * Math.PI * 2;
+      const velocity = Math.random() * 100 + 50;
+      const tx = Math.cos(angle) * velocity;
+      // const ty = Math.sin(angle) * velocity; // Let CSS animation handle fall, we just burst
+      
+      confetti.style.setProperty('--tx', `${tx}px`);
+      
       confetti.style.background =
         colors[Math.floor(Math.random() * colors.length)];
-      confetti.style.animationDelay = Math.random() * 0.3 + "s";
-      confetti.style.animationDuration = Math.random() * 2 + 2 + "s";
+      confetti.style.animationDelay = Math.random() * 0.1 + "s";
+      confetti.style.animationDuration = Math.random() * 1 + 1 + "s";
       document.body.appendChild(confetti);
-      setTimeout(() => confetti.remove(), 3000);
-    }, i * 30);
+      setTimeout(() => confetti.remove(), 2000);
+    }, i * 5);
   }
 }
 
@@ -262,44 +581,98 @@ function renderLectureList(searchQuery = "") {
       lec.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
       (lec.tags && lec.tags.toLowerCase().includes(searchQuery.toLowerCase()))
   );
+  
   const html = filtered
     .map((lec) => {
       const isActive = selectedLecture?.id === lec.id;
+      const isComplete = completedLectures.has(lec.id);
       const moduleClass = isActive ? getModuleClass(lec.module) : "";
+      
       return `<button onclick="selectLecture('${
         lec.id
-      }')" class="ripple-container w-full text-left p-4 rounded-xl border-l-4 transition-all duration-300 ${moduleClass} ${
+      }')" class="group relative ripple-container w-full text-left p-4 rounded-xl border-l-4 transition-all duration-300 ${moduleClass} ${
         isActive
           ? "bg-solarized-blue/10 dark:bg-dark-accent/10 border-solarized-blue dark:border-dark-accent shadow-lg scale-[1.02]"
           : "border-solarized-base1/20 dark:border-dark-border hover:bg-solarized-base3 dark:hover:bg-dark-hover hover:shadow-md hover:scale-[1.01]"
-      }"><div class="text-xs font-semibold text-solarized-cyan dark:text-dark-accent uppercase tracking-wide mb-1.5 font-sans">${
-        lec.module
-      }</div><div class="font-semibold text-solarized-base01 dark:text-dark-text leading-snug font-sans">${
-        lec.title
-      }</div></button>`;
+      }">
+        <div class="flex justify-between items-start">
+            <div class="flex-1 min-w-0">
+                <div class="text-xs font-semibold text-solarized-cyan dark:text-dark-accent uppercase tracking-wide mb-1.5 font-sans truncate">${
+                    lec.module
+                }</div>
+                <div class="font-semibold text-solarized-base01 dark:text-dark-text leading-snug font-sans trunc-multiline">${
+                    lec.title
+                }</div>
+            </div>
+            ${isComplete ? `
+            <div class="ml-2 flex-shrink-0 text-green-500 dark:text-green-400 transform transition-transform duration-500 bounce-in">
+                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg>
+            </div>
+            ` : ''}
+        </div>
+      </button>`;
     })
     .join("");
   document.getElementById("lectureList").innerHTML = html;
-  document.getElementById("lectureCount").textContent = `${
-    lectures.length
-  } lecture${lectures.length !== 1 ? "s" : ""}`;
+  
+  // Update Counts
+  const completedCount = [...completedLectures].filter(id => lectures.find(l => l.id === id)).length;
+  document.getElementById("lectureCount").innerHTML = `
+    <div class="flex flex-col gap-1">
+        <span>${lectures.length} lecture${lectures.length !== 1 ? "s" : ""} loaded</span>
+        <div class="text-[10px] opacity-80 font-bold ${isDark ? 'text-green-400' : 'text-green-600'}">
+            ${Math.round((completedCount / lectures.length) * 100) || 0}% Completed (${completedCount}/${lectures.length})
+        </div>
+        <div class="w-full h-1 bg-gray-200 dark:bg-gray-700 rounded-full overflow-hidden mt-1">
+            <div class="h-full bg-green-500 transition-all duration-500" style="width: ${(completedCount / lectures.length) * 100}%"></div>
+        </div>
+    </div>
+  `;
 }
 
-function selectLecture(id) {
-  selectedLecture = lectures.find((l) => l.id === id);
-  if (!selectedLecture) return;
+async function selectLecture(id) {
+  // Find metadata first
+  const meta = lectures.find((l) => l.id === id);
+  if (!meta) return;
 
+  // UI Setup - Show loading state
   const welcomeScreen = document.getElementById("welcomeScreen");
   const lectureContent = document.getElementById("lectureContent");
-
+  
   if (welcomeScreen) welcomeScreen.classList.add("hidden");
-  if (lectureContent) lectureContent.classList.remove("hidden");
+  if (lectureContent) {
+      lectureContent.classList.remove("hidden");
+  }
 
+  // Set Title/Module immediately from metadata
   const titleEl = document.getElementById("lectureTitle");
-  if (titleEl) titleEl.textContent = selectedLecture.title;
+  if (titleEl) titleEl.textContent = meta.title;
 
   const moduleEl = document.getElementById("lectureModule");
-  if (moduleEl) moduleEl.textContent = selectedLecture.module;
+  if (moduleEl) moduleEl.textContent = meta.module;
+  
+  // Highlight selection in sidebar immediately
+  selectedLecture = meta; 
+  renderLectureList(document.getElementById("searchInput").value);
+
+  // Show Skeleton/Loading State
+  renderSkeleton();
+
+  // Fetch Full Data
+  // document.body.classList.add('cursor-wait'); // Removed in favor of skeleton
+  const fullData = await getLectureContent(id, meta.path);
+  // document.body.classList.remove('cursor-wait');
+  
+  if (!fullData) {
+      document.getElementById("tabContent").innerHTML = `<div class="text-red-500 p-8 text-center">Failed to load content.</div>`;
+      return;
+  }
+  
+  // Update selectedLecture with full data
+  selectedLecture = fullData;
+
+  // Calculate Reading Time (refreshed with real content)
+  calculateReadingTime();
 
   // Toggle AnKing Tab Visibility
   const ankingTabBtn = document.querySelector('.tab-btn[data-tab="anking"]');
@@ -308,19 +681,97 @@ function selectLecture(id) {
       ankingTabBtn.classList.remove("hidden");
     } else {
       ankingTabBtn.classList.add("hidden");
-      // If currently on AnKing tab, switch to summary to avoid empty view
+      // If currently on AnKing tab, switch to summary
       if (activeTab === "anking") {
+        activeTab = "summary"; 
         switchTab("summary");
       }
     }
   }
 
-  renderLectureList(document.getElementById("searchInput").value);
-  renderTabContent();
-  calculateReadingTime();
+  updateCompleteButton(); // Update checkbox state
+
+
+  // Update URL state
+  const newUrl = new URL(window.location);
+  newUrl.searchParams.set("lecture", id);
+  newUrl.searchParams.set("tab", activeTab);
+  window.history.pushState({ lecture: id, tab: activeTab }, "", newUrl);
+
+  // Force render of the active tab content
+  // Small timeout to ensure DOM is ready after skeleton replacement
+  setTimeout(() => {
+     renderTabContent();
+  }, 0);
 
   const contentScroll = document.getElementById("contentScroll");
   if (contentScroll) contentScroll.scrollTop = 0;
+}
+
+function renderSkeleton() {
+    const contentDiv = document.getElementById("tabContent");
+    const isDark = document.documentElement.classList.contains("dark");
+    const bgClass = isDark ? "bg-white/5" : "bg-gray-200";
+    
+    // Create a shimmer effect with multiple random-width lines
+    let html = `
+        <div class="max-w-4xl mx-auto p-8 animate-pulse space-y-8">
+            <!-- Header Skeleton -->
+            <div class="space-y-4">
+                <div class="h-8 ${bgClass} rounded-lg w-3/4"></div>
+                <div class="h-4 ${bgClass} rounded w-1/4"></div>
+            </div>
+            
+            <!-- Content Blocks -->
+            <div class="space-y-3">
+                <div class="h-4 ${bgClass} rounded w-full"></div>
+                <div class="h-4 ${bgClass} rounded w-5/6"></div>
+                <div class="h-4 ${bgClass} rounded w-full"></div>
+                <div class="h-4 ${bgClass} rounded w-4/5"></div>
+            </div>
+            
+             <!-- Content Blocks -->
+            <div class="space-y-3">
+                <div class="h-4 ${bgClass} rounded w-11/12"></div>
+                <div class="h-4 ${bgClass} rounded w-full"></div>
+                <div class="h-4 ${bgClass} rounded w-3/4"></div>
+            </div>
+            
+            <!-- Image/Table placeholder -->
+            <div class="h-64 ${bgClass} rounded-xl w-full"></div>
+            
+             <div class="space-y-3">
+                <div class="h-4 ${bgClass} rounded w-full"></div>
+                <div class="h-4 ${bgClass} rounded w-5/6"></div>
+            </div>
+        </div>
+    `;
+    
+    contentDiv.innerHTML = html;
+}
+
+function updateCompleteButton() {
+    const btn = document.getElementById("markCompleteBtn");
+    const icon = document.getElementById("markCompleteIcon");
+    const text = document.getElementById("markCompleteText");
+    
+    if(!selectedLecture || !btn) return;
+    
+    const isComplete = completedLectures.has(selectedLecture.id);
+    
+    if (isComplete) {
+        btn.classList.add("bg-green-500", "text-white", "border-green-600");
+        btn.classList.remove("text-solarized-base1", "dark:text-dark-muted", "hover:bg-solarized-base3", "dark:hover:bg-dark-hover", "border-transparent");
+        
+        icon.innerHTML = '<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>';
+        text.textContent = "Completed";
+    } else {
+        btn.classList.remove("bg-green-500", "text-white", "border-green-600");
+        btn.classList.add("text-solarized-base1", "dark:text-dark-muted", "hover:bg-solarized-base3", "dark:hover:bg-dark-hover", "border-transparent");
+        
+        icon.innerHTML = '<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>';
+        text.textContent = "Mark Complete";
+    }
 }
 
 function calculateReadingTime() {
@@ -335,10 +786,25 @@ function closeLecture() {
   document.getElementById("welcomeScreen").classList.remove("hidden");
   document.getElementById("lectureContent").classList.add("hidden");
   renderLectureList(document.getElementById("searchInput").value);
+  
+  // Clear URL
+  const newUrl = new URL(window.location);
+  newUrl.searchParams.delete("lecture");
+  newUrl.searchParams.delete("tab");
+  window.history.pushState({}, "", newUrl);
 }
 
 function switchTab(tab) {
   activeTab = tab;
+  
+  // Update URL if lecture is selected
+  if (selectedLecture) {
+      const newUrl = new URL(window.location);
+      newUrl.searchParams.set("lecture", selectedLecture.id);
+      newUrl.searchParams.set("tab", tab);
+      window.history.pushState({ lecture: selectedLecture.id, tab: tab }, "", newUrl);
+  }
+
   document.querySelectorAll(".tab-btn").forEach((btn) => {
     if (btn.dataset.tab === tab) {
       btn.classList.add(
@@ -368,6 +834,22 @@ function switchTab(tab) {
   });
   renderTabContent();
 }
+
+function copyPageUrl() {
+    const url = window.location.href;
+    navigator.clipboard.writeText(url).then(() => {
+        // Show temporary success feedback
+        const btn = document.getElementById("copyLinkBtn");
+        if(btn) {
+           const originalHtml = btn.innerHTML;
+           btn.innerHTML = `<svg class="w-4 h-4 text-green-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg><span class="text-green-500">Copied!</span>`;
+           setTimeout(() => {
+               btn.innerHTML = originalHtml;
+           }, 2000);
+        }
+    });
+}
+
 
 function renderTabContent() {
   const contentDiv = document.getElementById("tabContent");
@@ -1262,7 +1744,7 @@ function generateTableOfContents() {
     h.id = id;
     const level = parseInt(h.tagName[1]);
     const padding = (level - 1) * 12;
-    html += `<a href="#" onclick="document.getElementById('${id}').scrollIntoView({behavior: 'smooth'}); return false;" class="block text-sm py-1 toc-link ${
+    html += `<a href="#" onclick="document.getElementById('${id}').scrollIntoView({behavior: 'smooth'}); return false;" data-target="${id}" class="block text-sm py-1 toc-link transition-colors duration-200 ${
       isDark
         ? "text-dark-text hover:text-dark-accent"
         : "text-solarized-base00 hover:text-solarized-blue"

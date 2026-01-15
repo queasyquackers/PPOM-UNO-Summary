@@ -1,0 +1,69 @@
+window.receiveLectureContent({
+  "id": "l11",
+  "title": "Lecture #11: Hypothalamus",
+  "lecturer": "V. Grubisic, M.D., Ph.D.",
+  "module": "Neuroanatomy",
+  "session": "Lecture #11",
+  "prev": "l10",
+  "next": "l12",
+  "pdf": "pdfs/Lecture # 11. V. Grubisic, M.D., Ph.D. (PPT).pdf",
+  "summary": "# Lecture #11: Hypothalamus\n\n**Lecturer:** V. Grubisic, M.D., Ph.D.\n**Session:** Neuroanatomy\n\n## 1. General Functions (TAN HATS)\n**T**hirst, **A**denohypophysis, **N**eurohypophysis, **H**unger, **A**utonomic, **T**emperature, **S**exual/Sleep.\n\n## 2. Major Nuclei and Functions\n### Feeding and Arousal\n*   **Lateral Hypothalamus:** **Hunger** Center. (\"Lateral makes you Lean\").\n    *   *Lesion:* Anorexia (Starvation).\n    *   Contains Orexin (Hypocretin) for arousal (Deficiency = Narcolepsy).\n*   **Ventromedial Nucleus:** **Satiety** Center. (\"VentroMedial = Very Massive\").\n    *   *Lesion:* Hyperphagia (Obesity).\n*   **Arcuate Nucleus:** Master regulator.\n    *   *Orexigenic (Hunger):* NPY / AgRP. (Stimulated by Ghrelin).\n    *   *Anorexigenic (Satiety):* POMC / CART. (Stimulated by Leptin).\n\n### Temperature Regulation\n*   **Anterior Hypothalamus:** **Cooling** (Parasympathetic). (\"**A**nterior = **A**/C\").\n    *   *Lesion:* Hyperthermia.\n*   **Posterior Hypothalamus:** **Heating** (Sympathetic). (\"Posterior = Poikilotherm\").\n    *   *Lesion:* Hypothermia (Unable to conserve heat).\n\n### Endocrine / Water Balance\n*   **Supraoptic (SON) & Paraventricular (PVN):**\n    *   Make **ADH** (Vasopressin) and **Oxytocin**.\n    *   Project to Posterior Pituitary.\n    *   *Pathology:*\n        *   **Diabetes Insipidus (Central):** Low ADH. Polyuria/Polydipsia.\n        *   **SIADH:** High ADH. Hyponatremia.\n\n### Circadian Rhythm\n*   **Suprachiasmatic Nucleus (SCN):** \"Master Clock\". Input from Retina.\n\n### Memory\n*   **Mammillary Bodies:** Part of Papez Circuit.\n*   **Wernicke-Korsakoff Syndrome:** Thiamine (B1) deficiency (Alcoholics).\n    *   *Triad:* Confusion, Ataxia, Ophthalmoplegia.\n    *   *Sequelae:* Anterograde Amnesia + Confabulation (Damage to Mammillary bodies).\n\n## 3. Feeding Regulation Hormones (Slide 21)\n*   **Leptin:** From Adipose tissue. Signals Satiety (Long-term). Activates POMC.\n*   **Ghrelin:** From Stomach. Signals Hunger (Short-term). Activates NPY.",
+  "mindmap": "## Hypothalamic Nuclei\n### Feeding\n*   **Lateral**: Hunger (Orexin)\n*   **Ventromedial**: Satiety\n*   **Arcuate**: Regulator (NPY vs POMC)\n### Temperature\n*   **Anterior**: Cooling (P-Symp)\n*   **Posterior**: Heating (Symp)\n### Endocrine\n*   **SON/PVN**: ADH/Oxytocin (Posterior Pituitary)\n*   **Arcuate/Preoptic**: Releasing Factors (Anterior Pituitary)\n### Other\n*   **SCN**: Circadian Rhythm\n*   **Mammillary**: Memory (Papez)",
+  "questions": [],
+  "ankingResource": {
+    "primarySource": "BandB",
+    "chapter": "Neurology > Hypothalamus & Limbic"
+  },
+  "flashcards": [
+    {
+      "front": "Function of Lateral Hypothalamus?",
+      "back": "Hunger Center (Lateral = Lean)",
+      "tag": "Physiology"
+    },
+    {
+      "front": "Function of Ventromedial Nucleus?",
+      "back": "Satiety Center (VM = Very Massive)",
+      "tag": "Physiology"
+    },
+    {
+      "front": "Function of Anterior Hypothalamus?",
+      "back": "Cooling (A/C)",
+      "tag": "Physiology"
+    },
+    {
+      "front": "Function of Posterior Hypothalamus?",
+      "back": "Heating (Poikilothermia)",
+      "tag": "Physiology"
+    },
+    {
+      "front": "Nucleus for Circadian Rhythm?",
+      "back": "Suprachiasmatic Nucleus (SCN)",
+      "tag": "Physiology"
+    },
+    {
+      "front": "Nuclei producing ADH/Oxytocin?",
+      "back": "Supraoptic (SON) & Paraventricular (PVN)",
+      "tag": "Physiology"
+    },
+    {
+      "front": "Structure damaged in Wernicke-Korsakoff?",
+      "back": "Mammillary Bodies",
+      "tag": "Pathology"
+    },
+    {
+      "front": "Deficiency causing Wernicke-Korsakoff?",
+      "back": "Thiamine (Vitamin B1)",
+      "tag": "Pathology"
+    },
+    {
+      "front": "Hormone from stomach stimulating hunger?",
+      "back": "Ghrelin ('Growling')",
+      "tag": "Physiology"
+    },
+    {
+      "front": "Hormone from fat inhibiting hunger?",
+      "back": "Leptin",
+      "tag": "Physiology"
+    }
+  ]
+});

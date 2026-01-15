@@ -1,0 +1,65 @@
+window.receiveLectureContent({
+  "id": "l39",
+  "title": "Lecture #39: Adrenergic Antagonists",
+  "lecturer": "L. Goldstein, Pharm.D.",
+  "module": "Pharmacology",
+  "session": "Lecture #39",
+  "prev": "l38",
+  "next": "l40",
+  "pdf": "pdfs/Lecture # 39. L. Goldstein, Pharm.D. (PPT)-1.pdf",
+  "summary": "# Lecture #39: Adrenergic Antagonists\n\n**Lecturer:** L. Goldstein, Pharm.D.\n**Session:** Lecture #39\n\n## 1. Alpha Blockers\n\n### Non-Selective (\u03b11 + \u03b12)\n\n:::drug\n**Phenoxybenzamine**\n*   **Mechanism:** **Irreversible** \u03b1-antagonist (covalent bond).\n*   **Uses:** Pheochromocytoma (presurgical management).\n*   **PK:** Oral. t\u00bd ~24h. Duration 3-4 days.\n*   **Adverse Effects:** Marked orthostatic hypotension, Tachycardia (\u03b12 block \u2192 \u2191 NE release).\n:::\n\n:::drug\n**Phentolamine**\n*   **Mechanism:** **Competitive** (reversible) non-selective \u03b1-antagonist.\n*   **Uses:**\n    *   Intraoperative hypertension (pheochromocytoma).\n    *   Extravasation of vasopressor (infiltration).\n    *   Reversal of dental local anesthetic (infiltration).\n*   **PK:** IV/IM. Short-acting (t\u00bd ~20 min).\n:::\n\n:::highyield\n**Epinephrine Reversal**\n*   **Concept:** After \u03b1-blockade, epinephrine's pressor effect (\u03b11 vasoconstriction) is blocked \u2192 Unopposed \u03b22 vasodilation \u2192 **Depressor response** (\u2193 BP).\n*   **Phenylephrine (\u03b11 only):** Response is suppressed but **not reversed** (no \u03b2 activity).\n:::\n\n### Selective \u03b11 Blockers\n\n:::highyield\n**Quinazolines: Prazosin, Terazosin, Doxazosin**\n*   **Mechanism:** Selective \u03b11 antagonists.\n*   **Uses:**\n    *   **Hypertension** (add-on, not first-line).\n    *   **BPH** (Benign Prostatic Hyperplasia): Relax smooth muscle in prostate/bladder neck \u2192 Improve urine flow.\n*   **Adverse Effects:**\n    *   **First-Dose Effect:** Marked orthostatic hypotension (1st dose or first few doses). **Advise bedtime dosing**.\n    *   **Intraoperative Floppy Iris Syndrome (IFIS):** Relaxation of iris dilator muscle during cataract surgery.\n    *   Nasal stuffiness, Impaired ejaculation.\n:::\n\n:::drug\n**Tamsulosin / Silodosin**\n*   **Mechanism:** Selective **\u03b11A** antagonists.\n*   **Use:** **BPH only** (not for hypertension).\n*   **Advantage:** Less pronounced effect on standing BP.\n*   **Note:** Tamsulosin has sulfonamide moiety \u2192 Avoid in sulfa allergy.\n:::\n\n### \u03b12 Antagonist\n\n:::drug\n**Yohimbine**\n*   **Mechanism:** Competitive \u03b12 antagonist (opposite of Clonidine).\n*   **Effects:** \u2191 BP, \u2191 HR, Tremors, Anxiety.\n*   **Use:** Herbal product for erectile dysfunction (efficacy not clearly demonstrated).\n:::\n\n## 2. Beta Blockers\n\n### Classification\n*   **Non-selective (\u03b21 + \u03b22):** Propranolol, Nadolol.\n*   **\u03b21-Selective:** Metoprolol, Atenolol, Esmolol, Bisoprolol.\n*   **Non-selective + \u03b11 block:** Labetalol, Carvedilol.\n\n:::highyield\n**Cardiovascular Effects**\n*   **\u03b21 Blockade (Heart):**\n    *   \u2193 HR (Chronotropy).\n    *   \u2193 Contractility (Inotropy).\n    *   \u2193 AV node conduction.\n    *   **\u2193 Renin release** (kidney \u03b21) \u2192 \u2193 Angiotensin II \u2192 \u2193 BP.\n*   **\u03b22 Blockade (Lungs, Vessels):**\n    *   **Bronchoconstriction** (avoid in asthma/COPD).\n    *   Prevents \u03b22 vasodilation \u2192 \u2191 peripheral resistance (short-term).\n:::\n\n### Therapeutic Uses\n\n:::highyield\n**Hypertension**\n*   \u2193 CO, \u2193 Renin release.\n\n**Angina Pectoris**\n*   \u2193 O\u2082 demand (\u2193 HR, \u2193 contractility).\n\n**Acute MI**\n*   \u2193 Sympathetic input \u2192 Improves morbidity/mortality.\n\n**Heart Failure (CHF)**\n*   Compensated heart failure with reduced ejection fraction. \u2193 Sympathetic drive.\n\n**Arrhythmias**\n*   Slow AV conduction. Treat SVT, ventricular arrhythmias.\n\n**Hyperthyroidism**\n*   \u2193 Tachycardia, palpitations, tremor (\u03b2-receptor upregulation).\n\n**Glaucoma**\n*   \u2193 Aqueous humor production.\n\n**Migraine Prophylaxis**\n*   Mechanism unclear.\n\n**Performance Anxiety**\n*   \u2193 Somatic symptoms (tremor, tachycardia).\n\n**Esophageal Varices**\n*   \u2193 Portal hypertension (non-selective \u03b2-blockers).\n:::\n\n### Adverse Effects\n\n:::warning\n**Bradycardia**\n*   Direct effect.\n\n**Bronchoconstriction**\n*   \u03b22 block. **Avoid in asthma/COPD**.\n\n**Masking Hypoglycemia**\n*   \u03b22 block masks tachycardia, tremor, sweating. **Caution in diabetics**.\n\n**Lipid Abnormalities**\n*   Modest \u2191 triglycerides, \u2193 HDL.\n\n**CNS Effects**\n*   Fatigue, depression, insomnia (lipophilic: Propranolol, Metoprolol).\n:::\n\n:::warning\n**Abrupt Withdrawal \u2192 Severe Rebound**\n*   **Mechanism:** Upregulation of \u03b2-receptors (supersensitivity).\n*   **Result:** Severe hypertension, Angina, MI, Arrhythmia, Sudden death.\n*   **Management:** **Taper slowly** over several weeks.\n:::\n\n### Special Beta Blockers\n\n:::drug\n**Propranolol**\n*   Non-selective (\u03b21 = \u03b22).\n*   **Lipophilic** \u2192 CNS penetration (fatigue, depression).\n*   **Membrane stabilizing** effect (high dose).\n:::\n\n:::drug\n**Metoprolol**\n*   **\u03b21-Selective** (at therapeutic doses).\n*   **Lipophilic** \u2192 CNS effects.\n*   Loses selectivity at high doses.\n:::\n\n:::drug\n**Labetalol / Carvedilol**\n*   **Non-selective \u03b2 + \u03b11 blockade**.\n*   **Use:** Acute hypertension (including pregnancy).\n*   **Advantage:** Vasodilation (\u03b11) + \u2193 CO (\u03b2).\n:::",
+  "mindmap": "## Adrenergic Antagonists\n### Alpha Blockers\n*   **Non-selective**: Phenoxybenzamine (irreversible), Phentolamine\n*   **\u03b11 Selective**: Prazosin, Terazosin, Doxazosin (HTN, BPH)\n*   **\u03b11A**: Tamsulosin (BPH only)\n*   **First-dose effect**: Orthostatic hypotension\n### Beta Blockers\n*   **Non-selective**: Propranolol\n*   **\u03b21-Selective**: Metoprolol\n*   **\u03b2 + \u03b11**: Labetalol, Carvedilol\n### Uses\n*   **HTN, Angina, MI, CHF, Arrhythmias**\n*   **Glaucoma, Migraine, Performance anxiety**\n### Adverse Effects\n*   **Bronchoconstriction** (avoid asthma)\n*   **Mask hypoglycemia**\n*   **Rebound on withdrawal** (taper!)",
+  "questions": [],
+  "flashcards": [
+    {
+      "front": "Phenoxybenzamine mechanism?",
+      "back": "Irreversible \u03b1-antagonist (covalent)",
+      "tag": "Pharm"
+    },
+    {
+      "front": "Phenoxybenzamine use?",
+      "back": "Pheochromocytoma (presurgical)",
+      "tag": "Pharm"
+    },
+    {
+      "front": "Epinephrine reversal?",
+      "back": "\u03b1-block \u2192 Unopposed \u03b22 vasodilation \u2192 \u2193 BP",
+      "tag": "Pharm"
+    },
+    {
+      "front": "Prazosin first-dose effect?",
+      "back": "Marked orthostatic hypotension (take at bedtime)",
+      "tag": "Pharm"
+    },
+    {
+      "front": "Tamsulosin use?",
+      "back": "BPH only (\u03b11A blocker, not for HTN)",
+      "tag": "Pharm"
+    },
+    {
+      "front": "Beta blockers cardiac effects?",
+      "back": "\u2193 HR, \u2193 Contractility, \u2193 AV conduction, \u2193 Renin",
+      "tag": "Pharm"
+    },
+    {
+      "front": "Beta blockers in asthma?",
+      "back": "Avoid (\u03b22 block \u2192 Bronchoconstriction)",
+      "tag": "Pharm"
+    },
+    {
+      "front": "Beta blockers mask hypoglycemia?",
+      "back": "Yes (\u03b22 block masks tachycardia, tremor)",
+      "tag": "Pharm"
+    },
+    {
+      "front": "Beta blocker withdrawal risk?",
+      "back": "Rebound HTN (\u03b2-receptor upregulation). Taper slowly",
+      "tag": "Pharm"
+    },
+    {
+      "front": "Labetalol mechanism?",
+      "back": "Non-selective \u03b2 + \u03b11 block",
+      "tag": "Pharm"
+    }
+  ]
+});
