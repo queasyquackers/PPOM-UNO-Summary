@@ -40,230 +40,230 @@ document.addEventListener("DOMContentLoaded", async function () {
 });
 
 let lightboxState = {
-    zoom: 1,
-    isDragging: false,
-    startX: 0,
-    startY: 0,
-    translateX: 0,
-    translateY: 0
+  zoom: 1,
+  isDragging: false,
+  startX: 0,
+  startY: 0,
+  translateX: 0,
+  translateY: 0
 };
 
 function setupLightbox() {
-    const lightbox = document.getElementById('imageLightbox');
-    const img = document.getElementById('lightboxImage');
-    const closeBtn = document.getElementById('lightboxClose');
-    const zoomInBtn = document.getElementById('lightboxZoomIn');
-    const zoomOutBtn = document.getElementById('lightboxZoomOut');
-    
-    if(!lightbox || !img) return;
+  const lightbox = document.getElementById('imageLightbox');
+  const img = document.getElementById('lightboxImage');
+  const closeBtn = document.getElementById('lightboxClose');
+  const zoomInBtn = document.getElementById('lightboxZoomIn');
+  const zoomOutBtn = document.getElementById('lightboxZoomOut');
 
-    // Functions
-    const openLightbox = (src) => {
-        img.src = src;
-        lightbox.classList.remove('hidden');
-        // Small delay for fade in
-        requestAnimationFrame(() => {
-            lightbox.classList.remove('opacity-0');
-        });
-        resetZoom();
-        document.body.style.overflow = 'hidden'; // Prevent scrolling
-    };
+  if (!lightbox || !img) return;
 
-    const closeLightbox = () => {
-        lightbox.classList.add('opacity-0');
-        setTimeout(() => {
-            lightbox.classList.add('hidden');
-            img.src = '';
-        }, 300);
-        document.body.style.overflow = '';
-    };
+  // Functions
+  const openLightbox = (src) => {
+    img.src = src;
+    lightbox.classList.remove('hidden');
+    // Small delay for fade in
+    requestAnimationFrame(() => {
+      lightbox.classList.remove('opacity-0');
+    });
+    resetZoom();
+    document.body.style.overflow = 'hidden'; // Prevent scrolling
+  };
 
-    const resetZoom = () => {
-        lightboxState = { zoom: 1, isDragging: false, startX: 0, startY: 0, translateX: 0, translateY: 0 };
-        updateTransform();
-    };
+  const closeLightbox = () => {
+    lightbox.classList.add('opacity-0');
+    setTimeout(() => {
+      lightbox.classList.add('hidden');
+      img.src = '';
+    }, 300);
+    document.body.style.overflow = '';
+  };
 
-    const updateTransform = () => {
-        img.style.transform = `scale(${lightboxState.zoom}) translate(${lightboxState.translateX}px, ${lightboxState.translateY}px)`;
-    };
+  const resetZoom = () => {
+    lightboxState = { zoom: 1, isDragging: false, startX: 0, startY: 0, translateX: 0, translateY: 0 };
+    updateTransform();
+  };
 
-    // Event Listeners for Images (Global delegation or post-render attachment)
-    // We attach this to document but only act if target matches
-    document.addEventListener('click', (e) => {
-        if(e.target.tagName === 'IMG' && e.target.closest('#tabContent')) {
-            openLightbox(e.target.src);
-        }
-    });
+  const updateTransform = () => {
+    img.style.transform = `scale(${lightboxState.zoom}) translate(${lightboxState.translateX}px, ${lightboxState.translateY}px)`;
+  };
 
-    closeBtn.addEventListener('click', closeLightbox);
-    lightbox.addEventListener('click', (e) => {
-        if(e.target === lightbox || e.target.closest('.w-full')) closeLightbox();
-    });
-    
-    // Zoom Controls
-    zoomInBtn.addEventListener('click', (e) => {
-        e.stopPropagation();
-        lightboxState.zoom = Math.min(lightboxState.zoom + 0.5, 4);
-        updateTransform();
-    });
-    
-    zoomOutBtn.addEventListener('click', (e) => {
-        e.stopPropagation();
-        lightboxState.zoom = Math.max(lightboxState.zoom - 0.5, 0.5);
-        updateTransform();
-    });
+  // Event Listeners for Images (Global delegation or post-render attachment)
+  // We attach this to document but only act if target matches
+  document.addEventListener('click', (e) => {
+    if (e.target.tagName === 'IMG' && e.target.closest('#tabContent')) {
+      openLightbox(e.target.src);
+    }
+  });
 
-    // Keyboard
-    document.addEventListener('keydown', (e) => {
-        if (!lightbox.classList.contains('hidden')) {
-            if (e.key === 'Escape') closeLightbox();
-            if (e.key === '+' || e.key === '=') zoomInBtn.click();
-            if (e.key === '-') zoomOutBtn.click();
-        }
-    });
-    
-    // Pan Logic (Mouse)
-    img.addEventListener('mousedown', (e) => {
-        if(lightboxState.zoom <= 1) return;
-        e.preventDefault();
-        lightboxState.isDragging = true;
-        lightboxState.startX = e.clientX - lightboxState.translateX;
-        lightboxState.startY = e.clientY - lightboxState.translateY;
-        img.classList.add('cursor-grabbing');
-    });
-    
-    window.addEventListener('mousemove', (e) => {
-        if(!lightboxState.isDragging) return;
-        e.preventDefault();
-        lightboxState.translateX = e.clientX - lightboxState.startX;
-        lightboxState.translateY = e.clientY - lightboxState.startY;
-        updateTransform();
-    });
-    
-    window.addEventListener('mouseup', () => {
-        lightboxState.isDragging = false;
-        img.classList.remove('cursor-grabbing');
-    });
-    
-    // Wheel Zoom
-    lightbox.addEventListener('wheel', (e) => {
-        e.preventDefault();
-        const delta = e.deltaY * -0.01;
-        lightboxState.zoom = Math.min(Math.max(0.5, lightboxState.zoom + delta), 4);
-        updateTransform();
-    });
+  closeBtn.addEventListener('click', closeLightbox);
+  lightbox.addEventListener('click', (e) => {
+    if (e.target === lightbox || e.target.closest('.w-full')) closeLightbox();
+  });
+
+  // Zoom Controls
+  zoomInBtn.addEventListener('click', (e) => {
+    e.stopPropagation();
+    lightboxState.zoom = Math.min(lightboxState.zoom + 0.5, 4);
+    updateTransform();
+  });
+
+  zoomOutBtn.addEventListener('click', (e) => {
+    e.stopPropagation();
+    lightboxState.zoom = Math.max(lightboxState.zoom - 0.5, 0.5);
+    updateTransform();
+  });
+
+  // Keyboard
+  document.addEventListener('keydown', (e) => {
+    if (!lightbox.classList.contains('hidden')) {
+      if (e.key === 'Escape') closeLightbox();
+      if (e.key === '+' || e.key === '=') zoomInBtn.click();
+      if (e.key === '-') zoomOutBtn.click();
+    }
+  });
+
+  // Pan Logic (Mouse)
+  img.addEventListener('mousedown', (e) => {
+    if (lightboxState.zoom <= 1) return;
+    e.preventDefault();
+    lightboxState.isDragging = true;
+    lightboxState.startX = e.clientX - lightboxState.translateX;
+    lightboxState.startY = e.clientY - lightboxState.translateY;
+    img.classList.add('cursor-grabbing');
+  });
+
+  window.addEventListener('mousemove', (e) => {
+    if (!lightboxState.isDragging) return;
+    e.preventDefault();
+    lightboxState.translateX = e.clientX - lightboxState.startX;
+    lightboxState.translateY = e.clientY - lightboxState.startY;
+    updateTransform();
+  });
+
+  window.addEventListener('mouseup', () => {
+    lightboxState.isDragging = false;
+    img.classList.remove('cursor-grabbing');
+  });
+
+  // Wheel Zoom
+  lightbox.addEventListener('wheel', (e) => {
+    e.preventDefault();
+    const delta = e.deltaY * -0.01;
+    lightboxState.zoom = Math.min(Math.max(0.5, lightboxState.zoom + delta), 4);
+    updateTransform();
+  });
 }
 
 function loadProgress() {
-    try {
-        const saved = localStorage.getItem('onepass_progress');
-        if (saved) {
-            const data = JSON.parse(saved);
-            // Migrate legacy format if needed, for now assume simple array of IDs
-            if (Array.isArray(data)) {
-                completedLectures = new Set(data);
-            }
-        }
-    } catch (e) {
-        console.error("Failed to load progress", e);
+  try {
+    const saved = localStorage.getItem('onepass_progress');
+    if (saved) {
+      const data = JSON.parse(saved);
+      // Migrate legacy format if needed, for now assume simple array of IDs
+      if (Array.isArray(data)) {
+        completedLectures = new Set(data);
+      }
     }
+  } catch (e) {
+    console.error("Failed to load progress", e);
+  }
 }
 
 function saveProgress() {
-    localStorage.setItem('onepass_progress', JSON.stringify([...completedLectures]));
-    renderLectureList(document.getElementById("searchInput").value);
+  localStorage.setItem('onepass_progress', JSON.stringify([...completedLectures]));
+  renderLectureList(document.getElementById("searchInput").value);
 }
 
 function toggleLectureComplete(id) {
-    if (completedLectures.has(id)) {
-        completedLectures.delete(id);
-    } else {
-        completedLectures.add(id);
-        // Confetti!
-        const btn = document.getElementById("markCompleteBtn");
-        if(btn) {
-            const rect = btn.getBoundingClientRect();
-            createConfetti(rect.left + rect.width/2, rect.top);
-        }
+  if (completedLectures.has(id)) {
+    completedLectures.delete(id);
+  } else {
+    completedLectures.add(id);
+    // Confetti!
+    const btn = document.getElementById("markCompleteBtn");
+    if (btn) {
+      const rect = btn.getBoundingClientRect();
+      createConfetti(rect.left + rect.width / 2, rect.top);
     }
-    saveProgress();
-    updateCompleteButton();
+  }
+  saveProgress();
+  updateCompleteButton();
 }
 
 // Load Index
 async function loadLectureIndex() {
-    return new Promise((resolve) => {
-        // Define callback for index
-        window.receiveLectureIndex = (data) => {
-            lectures = data;
-            renderLectureList();
-            checkDeepLink();
-            resolve();
-        };
-        
-        // Try loading the JS index
-        const script = document.createElement('script');
-        script.src = './lectures_index.js';
-        script.onerror = () => {
-             console.error("Failed to load lecture index script, falling back to global.");
-             if (window.LECTURES_DATA) {
-                lectures = window.LECTURES_DATA;
-                renderLectureList();
-                checkDeepLink();
-             }
-             resolve();
-        };
-        document.body.appendChild(script);
-    });
+  return new Promise((resolve) => {
+    // Define callback for index
+    window.receiveLectureIndex = (data) => {
+      lectures = data;
+      renderLectureList();
+      checkDeepLink();
+      resolve();
+    };
+
+    // Try loading the JS index
+    const script = document.createElement('script');
+    script.src = './lectures_index.js';
+    script.onerror = () => {
+      console.error("Failed to load lecture index script, falling back to global.");
+      if (window.LECTURES_DATA) {
+        lectures = window.LECTURES_DATA;
+        renderLectureList();
+        checkDeepLink();
+      }
+      resolve();
+    };
+    document.body.appendChild(script);
+  });
 }
 
 function checkDeepLink() {
-    // Check for deep link
-    const params = new URLSearchParams(window.location.search);
-    const lectureId = params.get('lecture');
-    const tab = params.get('tab');
-    
-    if (lectureId) {
-        if (tab) activeTab = tab;
-        selectLecture(lectureId); // Don't await here to avoid blocking
-        if (tab) switchTab(tab);
-    }
+  // Check for deep link
+  const params = new URLSearchParams(window.location.search);
+  const lectureId = params.get('lecture');
+  const tab = params.get('tab');
+
+  if (lectureId) {
+    if (tab) activeTab = tab;
+    selectLecture(lectureId); // Don't await here to avoid blocking
+    if (tab) switchTab(tab);
+  }
 }
 
 async function getLectureContent(id, path) {
   if (lecturesMap.has(id)) return lecturesMap.get(id);
-  
+
   return new Promise((resolve, reject) => {
-      // Define global callback
-      // We wrap it to ensure we match the ID if possible, or just resolve whatever comes
-      const originalCallback = window.receiveLectureContent;
-      
-      window.receiveLectureContent = (data) => {
-          // Cache the data
-          lecturesMap.set(data.id, data);
-          
-          if (data.id === id) {
-              resolve(data);
-          } else {
-              // If we received data for another lecture (race condition?), 
-              // we still cached it. But we keep waiting for OUR data?
-              // For simplicity in this single-threaded UI, we resolve if we get *any* valid data 
-              // that matches (or we assume the last request is the one).
-              // Actually, if we get mismatched data, we should probably resolve it if it matches the requested ID.
-          }
-      };
-      
-      const script = document.createElement('script');
-      script.src = path;
-      script.onerror = () => {
-          reject(new Error("Network error loading lecture content"));
-      };
-      document.body.appendChild(script);
-      
-      // Cleanup script after load
-      script.onload = () => {
-          setTimeout(() => script.remove(), 100);
-      };
+    // Define global callback
+    // We wrap it to ensure we match the ID if possible, or just resolve whatever comes
+    const originalCallback = window.receiveLectureContent;
+
+    window.receiveLectureContent = (data) => {
+      // Cache the data
+      lecturesMap.set(data.id, data);
+
+      if (data.id === id) {
+        resolve(data);
+      } else {
+        // If we received data for another lecture (race condition?), 
+        // we still cached it. But we keep waiting for OUR data?
+        // For simplicity in this single-threaded UI, we resolve if we get *any* valid data 
+        // that matches (or we assume the last request is the one).
+        // Actually, if we get mismatched data, we should probably resolve it if it matches the requested ID.
+      }
+    };
+
+    const script = document.createElement('script');
+    script.src = path;
+    script.onerror = () => {
+      reject(new Error("Network error loading lecture content"));
+    };
+    document.body.appendChild(script);
+
+    // Cleanup script after load
+    script.onload = () => {
+      setTimeout(() => script.remove(), 100);
+    };
   });
 }
 
@@ -323,29 +323,29 @@ function setupEventListeners() {
 
   // Handle Browser Back/Forward
   window.addEventListener('popstate', (e) => {
-      const state = e.state;
-      if (state && state.lecture) {
-          if (selectedLecture?.id !== state.lecture) {
-              selectLecture(state.lecture).then(() => {
-                  if (state.tab) switchTab(state.tab);
-              });
-          } else if (state.tab && activeTab !== state.tab) {
-              switchTab(state.tab);
-          }
-      } else {
-          // If no state or no lecture, close
-          if (selectedLecture) closeLecture();
+    const state = e.state;
+    if (state && state.lecture) {
+      if (selectedLecture?.id !== state.lecture) {
+        selectLecture(state.lecture).then(() => {
+          if (state.tab) switchTab(state.tab);
+        });
+      } else if (state.tab && activeTab !== state.tab) {
+        switchTab(state.tab);
       }
+    } else {
+      // If no state or no lecture, close
+      if (selectedLecture) closeLecture();
+    }
   });
 
   // Add Mark Complete Listener
   const completeBtn = document.getElementById("markCompleteBtn");
-  if(completeBtn) {
-      completeBtn.addEventListener("click", () => {
-          if(selectedLecture) {
-              toggleLectureComplete(selectedLecture.id);
-          }
-      });
+  if (completeBtn) {
+    completeBtn.addEventListener("click", () => {
+      if (selectedLecture) {
+        toggleLectureComplete(selectedLecture.id);
+      }
+    });
   }
 }
 
@@ -372,9 +372,9 @@ function setupKeyboardShortcuts() {
 
       // Toggle Complete Shortcut (C)
       if (e.key === "c" || e.key === "C") {
-          if(selectedLecture && document.activeElement.tagName !== 'INPUT') {
-              toggleLectureComplete(selectedLecture.id);
-          }
+        if (selectedLecture && document.activeElement.tagName !== 'INPUT') {
+          toggleLectureComplete(selectedLecture.id);
+        }
       }
     }
   });
@@ -402,47 +402,47 @@ function setupReadingProgress() {
     } else {
       backToTop.classList.add("opacity-0", "pointer-events-none");
     }
-    
+
     // Scroll Spy Logic
     if (tocVisible) updateActiveToC();
   });
 }
 
 function updateActiveToC() {
-    const headings = document.getElementById("tabContent").querySelectorAll("h1, h2, h3");
-    if (!headings.length) return;
+  const headings = document.getElementById("tabContent").querySelectorAll("h1, h2, h3");
+  if (!headings.length) return;
 
-    let activeId = headings[0].id;
-    
-    // Find the first heading that is visible or just above the viewport top
-    for (let i = 0; i < headings.length; i++) {
-        const rect = headings[i].getBoundingClientRect();
-        // 120px offset to account for sticky header, etc.
-        if (rect.top >= 120) {
-            // This heading is below the line, so the *previous* one is the active one (unless this is the first one)
-            if (i > 0) {
-                activeId = headings[i - 1].id;
-            } else {
-                 activeId = headings[0].id;
-            }
-            break;
-        }
-        // If we reach the end and all are above, the last one is active
-        if (i === headings.length - 1) {
-            activeId = headings[i].id;
-        }
+  let activeId = headings[0].id;
+
+  // Find the first heading that is visible or just above the viewport top
+  for (let i = 0; i < headings.length; i++) {
+    const rect = headings[i].getBoundingClientRect();
+    // 120px offset to account for sticky header, etc.
+    if (rect.top >= 120) {
+      // This heading is below the line, so the *previous* one is the active one (unless this is the first one)
+      if (i > 0) {
+        activeId = headings[i - 1].id;
+      } else {
+        activeId = headings[0].id;
+      }
+      break;
     }
-    
-    // Highlight sidebar links using data-target attribute
-    document.querySelectorAll(".toc-link").forEach(link => {
-        if (link.dataset.target === activeId) {
-             link.classList.add("text-solarized-blue", "dark:text-dark-accent", "font-semibold");
-             link.classList.remove("text-solarized-base00", "dark:text-dark-text");
-        } else {
-             link.classList.remove("text-solarized-blue", "dark:text-dark-accent", "font-semibold");
-             link.classList.add("text-solarized-base00", "dark:text-dark-text");
-        }
-    });
+    // If we reach the end and all are above, the last one is active
+    if (i === headings.length - 1) {
+      activeId = headings[i].id;
+    }
+  }
+
+  // Highlight sidebar links using data-target attribute
+  document.querySelectorAll(".toc-link").forEach(link => {
+    if (link.dataset.target === activeId) {
+      link.classList.add("text-solarized-blue", "dark:text-dark-accent", "font-semibold");
+      link.classList.remove("text-solarized-base00", "dark:text-dark-text");
+    } else {
+      link.classList.remove("text-solarized-blue", "dark:text-dark-accent", "font-semibold");
+      link.classList.add("text-solarized-base00", "dark:text-dark-text");
+    }
+  });
 }
 
 function debounce(func, wait) {
@@ -486,10 +486,10 @@ function animateSearchIcon() {
 }
 
 function createConfetti(x, y) {
-    // Fallback if x,y not provided (random center)
-    if(x === undefined) x = window.innerWidth / 2;
-    if(y === undefined) y = window.innerHeight / 2;
-  
+  // Fallback if x,y not provided (random center)
+  if (x === undefined) x = window.innerWidth / 2;
+  if (y === undefined) y = window.innerHeight / 2;
+
   const colors = [
     "#268bd2",
     "#2aa198",
@@ -509,9 +509,9 @@ function createConfetti(x, y) {
       const velocity = Math.random() * 100 + 50;
       const tx = Math.cos(angle) * velocity;
       // const ty = Math.sin(angle) * velocity; // Let CSS animation handle fall, we just burst
-      
+
       confetti.style.setProperty('--tx', `${tx}px`);
-      
+
       confetti.style.background =
         colors[Math.floor(Math.random() * colors.length)];
       confetti.style.animationDelay = Math.random() * 0.1 + "s";
@@ -582,32 +582,38 @@ function renderLectureList(searchQuery = "") {
       lec.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
       (lec.tags && lec.tags.toLowerCase().includes(searchQuery.toLowerCase()))
   );
-  
+
   const html = filtered
     .map((lec) => {
       const isActive = selectedLecture?.id === lec.id;
       const isComplete = completedLectures.has(lec.id);
       const moduleClass = isActive ? getModuleClass(lec.module) : "";
-      
-      return `<button onclick="selectLecture('${
-        lec.id
-      }')" class="group relative ripple-container w-full text-left p-4 rounded-xl border-l-4 transition-all duration-300 ${moduleClass} ${
-        isActive
-          ? "bg-solarized-blue/10 dark:bg-dark-accent/10 border-solarized-blue dark:border-dark-accent shadow-lg scale-[1.02]"
-          : "border-solarized-base1/20 dark:border-dark-border hover:bg-solarized-base3 dark:hover:bg-dark-hover hover:shadow-md hover:scale-[1.01]"
-      }">
-        <div class="flex justify-between items-start">
+
+      return `<button onclick="selectLecture('${lec.id
+        }')" class="group relative ripple-container w-full text-left p-3 my-1 rounded-xl transition-all duration-300 border border-transparent ${isActive
+          ? "bg-solarized-blue/10 dark:bg-white/5 border-solarized-blue/20 dark:border-white/10 shadow-lg scale-[1.02] backdrop-blur-sm"
+          : "hover:bg-black/5 dark:hover:bg-white/10 hover:border-black/5 dark:hover:border-white/10 hover:shadow-md hover:scale-[1.01]"
+        }">
+        <div class="absolute inset-x-0 bottom-0 h-px bg-gradient-to-r from-transparent via-white/10 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
+        <div class="flex justify-between items-center">
             <div class="flex-1 min-w-0">
-                <div class="text-xs font-semibold text-solarized-cyan dark:text-dark-accent uppercase tracking-wide mb-1.5 font-sans truncate">${
-                    lec.module
-                }</div>
-                <div class="font-semibold text-solarized-base01 dark:text-dark-text leading-snug font-sans trunc-multiline">${
-                    lec.title
-                }</div>
+                <div class="flex items-center justify-between mb-1">
+                   <div class="flex items-center gap-2">
+                       ${isActive ? `<div class="w-1.5 h-1.5 rounded-full bg-solarized-blue dark:bg-dark-accent shadow-glow"></div>` : ''} 
+                       <div class="text-[10px] font-bold text-solarized-cyan dark:text-dark-accent uppercase tracking-wider font-sans truncate opacity-80">${lec.module
+        }</div>
+                   </div>
+                   <div class="text-[10px] text-solarized-base1 dark:text-dark-muted font-sans opacity-60 flex items-center gap-1">
+                      <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+                      ${lec.readingTime || 5} min
+                   </div>
+                </div>
+                <div class="${isActive ? 'font-bold' : 'font-medium'} text-sm text-solarized-base01 dark:text-dark-text leading-snug font-sans trunc-multiline group-hover:text-solarized-blue dark:group-hover:text-white transition-colors">${lec.title
+        }</div>
             </div>
             ${isComplete ? `
             <div class="ml-2 flex-shrink-0 text-green-500 dark:text-green-400 transform transition-transform duration-500 bounce-in">
-                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg>
+                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg>
             </div>
             ` : ''}
         </div>
@@ -615,7 +621,7 @@ function renderLectureList(searchQuery = "") {
     })
     .join("");
   document.getElementById("lectureList").innerHTML = html;
-  
+
   // Update Counts
   const completedCount = [...completedLectures].filter(id => lectures.find(l => l.id === id)).length;
   document.getElementById("lectureCount").innerHTML = `
@@ -639,10 +645,10 @@ async function selectLecture(id) {
   // UI Setup - Show loading state
   const welcomeScreen = document.getElementById("welcomeScreen");
   const lectureContent = document.getElementById("lectureContent");
-  
+
   if (welcomeScreen) welcomeScreen.classList.add("hidden");
   if (lectureContent) {
-      lectureContent.classList.remove("hidden");
+    lectureContent.classList.remove("hidden");
   }
 
   // Set Title/Module immediately from metadata
@@ -651,9 +657,9 @@ async function selectLecture(id) {
 
   const moduleEl = document.getElementById("lectureModule");
   if (moduleEl) moduleEl.textContent = meta.module;
-  
+
   // Highlight selection in sidebar immediately
-  selectedLecture = meta; 
+  selectedLecture = meta;
   renderLectureList(document.getElementById("searchInput").value);
 
   // Show Skeleton/Loading State
@@ -663,12 +669,12 @@ async function selectLecture(id) {
   // document.body.classList.add('cursor-wait'); // Removed in favor of skeleton
   const fullData = await getLectureContent(id, meta.path);
   // document.body.classList.remove('cursor-wait');
-  
+
   if (!fullData) {
-      document.getElementById("tabContent").innerHTML = `<div class="text-red-500 p-8 text-center">Failed to load content.</div>`;
-      return;
+    document.getElementById("tabContent").innerHTML = `<div class="text-red-500 p-8 text-center">Failed to load content.</div>`;
+    return;
   }
-  
+
   // Update selectedLecture with full data
   selectedLecture = fullData;
 
@@ -684,7 +690,7 @@ async function selectLecture(id) {
       ankingTabBtn.classList.add("hidden");
       // If currently on AnKing tab, switch to summary
       if (activeTab === "anking") {
-        activeTab = "summary"; 
+        activeTab = "summary";
         switchTab("summary");
       }
     }
@@ -702,7 +708,7 @@ async function selectLecture(id) {
   // Force render of the active tab content
   // Small timeout to ensure DOM is ready after skeleton replacement
   setTimeout(() => {
-     renderTabContent();
+    renderTabContent();
   }, 0);
 
   const contentScroll = document.getElementById("contentScroll");
@@ -710,12 +716,12 @@ async function selectLecture(id) {
 }
 
 function renderSkeleton() {
-    const contentDiv = document.getElementById("tabContent");
-    const isDark = document.documentElement.classList.contains("dark");
-    const bgClass = isDark ? "bg-white/5" : "bg-gray-200";
-    
-    // Create a shimmer effect with multiple random-width lines
-    let html = `
+  const contentDiv = document.getElementById("tabContent");
+  const isDark = document.documentElement.classList.contains("dark");
+  const bgClass = isDark ? "bg-white/5" : "bg-gray-200";
+
+  // Create a shimmer effect with multiple random-width lines
+  let html = `
         <div class="max-w-4xl mx-auto p-8 animate-pulse space-y-8">
             <!-- Header Skeleton -->
             <div class="space-y-4">
@@ -747,35 +753,35 @@ function renderSkeleton() {
             </div>
         </div>
     `;
-    
-    contentDiv.innerHTML = html;
+
+  contentDiv.innerHTML = html;
 }
 
 function updateCompleteButton() {
-    const btn = document.getElementById("markCompleteBtn");
-    const icon = document.getElementById("markCompleteIcon");
-    const text = document.getElementById("markCompleteText");
-    
-    if(!selectedLecture || !btn) return;
-    
-    const isComplete = completedLectures.has(selectedLecture.id);
-    
-    // Toggle between Filled (Complete) and Outline (Incomplete)
-    if (isComplete) {
-        // Active/Clicked State -> Filled Green
-        btn.classList.add("bg-green-500", "text-white");
-        btn.classList.remove("bg-white/80", "text-green-600", "dark:bg-dark-surface/80", "dark:text-green-400");
-        
-        icon.innerHTML = '<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>';
-        text.textContent = "Completed";
-    } else {
-        // Default State -> Outline Green
-        btn.classList.remove("bg-green-500", "text-white");
-        btn.classList.add("bg-white/80", "text-green-600", "dark:bg-dark-surface/80", "dark:text-green-400");
-        
-        icon.innerHTML = '<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>';
-        text.textContent = "Mark Complete";
-    }
+  const btn = document.getElementById("markCompleteBtn");
+  const icon = document.getElementById("markCompleteIcon");
+  const text = document.getElementById("markCompleteText");
+
+  if (!selectedLecture || !btn) return;
+
+  const isComplete = completedLectures.has(selectedLecture.id);
+
+  // Toggle between Filled (Complete) and Outline (Incomplete)
+  if (isComplete) {
+    // Active/Clicked State -> Filled Green
+    btn.classList.add("bg-green-500", "text-white");
+    btn.classList.remove("bg-white/80", "text-green-600", "dark:bg-dark-surface/80", "dark:text-green-400");
+
+    icon.innerHTML = '<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>';
+    text.textContent = "Completed";
+  } else {
+    // Default State -> Outline Green
+    btn.classList.remove("bg-green-500", "text-white");
+    btn.classList.add("bg-white/80", "text-green-600", "dark:bg-dark-surface/80", "dark:text-green-400");
+
+    icon.innerHTML = '<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>';
+    text.textContent = "Mark Complete";
+  }
 }
 
 function calculateReadingTime() {
@@ -790,7 +796,7 @@ function closeLecture() {
   document.getElementById("welcomeScreen").classList.remove("hidden");
   document.getElementById("lectureContent").classList.add("hidden");
   renderLectureList(document.getElementById("searchInput").value);
-  
+
   // Clear URL
   const newUrl = new URL(window.location);
   newUrl.searchParams.delete("lecture");
@@ -800,40 +806,20 @@ function closeLecture() {
 
 function switchTab(tab) {
   activeTab = tab;
-  
+
   // Update URL if lecture is selected
   if (selectedLecture) {
-      const newUrl = new URL(window.location);
-      newUrl.searchParams.set("lecture", selectedLecture.id);
-      newUrl.searchParams.set("tab", tab);
-      window.history.pushState({ lecture: selectedLecture.id, tab: tab }, "", newUrl);
+    const newUrl = new URL(window.location);
+    newUrl.searchParams.set("lecture", selectedLecture.id);
+    newUrl.searchParams.set("tab", tab);
+    window.history.pushState({ lecture: selectedLecture.id, tab: tab }, "", newUrl);
   }
 
   document.querySelectorAll(".tab-btn").forEach((btn) => {
     if (btn.dataset.tab === tab) {
-      btn.classList.add(
-        "border-solarized-blue",
-        "dark:border-dark-accent",
-        "text-solarized-blue",
-        "dark:text-dark-accent"
-      );
-      btn.classList.remove(
-        "border-transparent",
-        "text-solarized-base1",
-        "dark:text-dark-muted"
-      );
+      btn.dataset.active = "true";
     } else {
-      btn.classList.remove(
-        "border-solarized-blue",
-        "dark:border-dark-accent",
-        "text-solarized-blue",
-        "dark:text-dark-accent"
-      );
-      btn.classList.add(
-        "border-transparent",
-        "text-solarized-base1",
-        "dark:text-dark-muted"
-      );
+      delete btn.dataset.active;
     }
   });
   renderTabContent();
@@ -865,14 +851,14 @@ function renderTabContent() {
         let tableHtml =
           '<div class="overflow-x-auto rounded-2xl border ' +
           (isDark
-            ? "border-dark-border bg-dark-surface"
-            : "border-solarized-base1/10 bg-white") +
+            ? "border-white/10 bg-white/5 backdrop-blur-md"
+            : "border-solarized-base1/10 bg-white/50 backdrop-blur-md") +
           ' shadow-xl my-12 p-1"><table class="min-w-full divide-y ' +
-          (isDark ? "divide-dark-border" : "divide-solarized-base1/10") +
+          (isDark ? "divide-white/5" : "divide-solarized-base1/10") +
           '"><thead class="' +
           (isDark
-            ? "bg-dark-accent text-white"
-            : "bg-solarized-blue text-white") +
+            ? "bg-white/10 text-white"
+            : "bg-solarized-blue/90 text-white") +
           ' rounded-t-xl"><tr>';
 
         headers.forEach((header, index) => {
@@ -880,29 +866,26 @@ function renderTabContent() {
             index === 0
               ? "rounded-tl-xl"
               : index === headers.length - 1
-              ? "rounded-tr-xl"
-              : "";
+                ? "rounded-tr-xl"
+                : "";
           tableHtml += `<th class="px-6 py-5 text-left text-sm font-bold uppercase tracking-wider font-sans ${roundedClass}">${header}</th>`;
         });
 
-        tableHtml += `</tr></thead><tbody class="divide-y ${
-          isDark
-            ? "divide-dark-border bg-dark-bg"
-            : "divide-solarized-base1/10 bg-white"
-        }">`;
+        tableHtml += `</tr></thead><tbody class="divide-y ${isDark
+          ? "divide-white/5 bg-transparent"
+          : "divide-solarized-base1/10 bg-white/30"
+          }">`;
 
         selectedLecture.drugData.forEach((row) => {
-          tableHtml += `<tr class="${
-            isDark
-              ? "even:bg-white/5 hover:bg-dark-surface"
-              : "even:bg-solarized-base3/50 hover:bg-solarized-base2/30"
-          } transition-colors duration-200">`;
+          tableHtml += `<tr class="${isDark
+            ? "even:bg-white/5 hover:bg-white/10"
+            : "even:bg-solarized-base3/30 hover:bg-solarized-base2/50"
+            } transition-colors duration-200">`;
           headers.forEach((header) => {
             let cellContent = row[header] || "";
             cellContent = cellContent.replace(/\n/g, "<br/>");
-            tableHtml += `<td class="px-6 py-4 text-base leading-relaxed font-serif ${
-              isDark ? "text-dark-muted" : "text-solarized-base00"
-            }">${cellContent}</td>`;
+            tableHtml += `<td class="px-6 py-4 text-base leading-relaxed font-serif ${isDark ? "text-dark-muted" : "text-solarized-base00"
+              }">${cellContent}</td>`;
           });
           tableHtml += "</tr>";
         });
@@ -935,9 +918,8 @@ function renderTabContent() {
         let questionsHtml = `
                 <div class="max-w-3xl mx-auto">
                     <div class="flex justify-between items-center mb-8">
-                        <h3 class="text-xl font-bold uppercase tracking-wider ${
-                          isDark ? "text-dark-muted" : "text-solarized-base1"
-                        }">Practice Questions</h3>
+                        <h3 class="text-xl font-bold uppercase tracking-wider ${isDark ? "text-dark-muted" : "text-solarized-base1"
+          }">Practice Questions</h3>
                         <button onclick="toggleAllAnswers()" class="px-4 py-2 rounded-lg bg-solarized-blue/10 hover:bg-solarized-blue/20 text-solarized-blue dark:text-dark-accent font-bold text-sm transition-colors">
                             Toggle All Answers
                         </button>
@@ -972,20 +954,14 @@ function renderTabContent() {
             const renderedAnswer = renderMarkdown(answerText);
 
             questionsHtml += `
-                        <div class="question-card bg-white dark:bg-dark-surface rounded-2xl shadow-lg border ${
-                          isDark
-                            ? "border-dark-border"
-                            : "border-solarized-base1/10"
-                        } overflow-hidden transition-all duration-300 hover:shadow-xl">
+                        <div class="question-card glass-panel rounded-2xl shadow-lg transition-all duration-300 hover:shadow-xl hover:scale-[1.01]">
                             <div class="p-8">
                                 <div class="flex items-start gap-4">
-                                    <span class="flex-shrink-0 w-8 h-8 rounded-full ${
-                                      isDark
-                                        ? "bg-dark-accent/20 text-dark-accent"
-                                        : "bg-solarized-blue/10 text-solarized-blue"
-                                    } flex items-center justify-center font-bold font-sans text-sm mt-1">${
-              index + 1
-            }</span>
+                                    <span class="flex-shrink-0 w-8 h-8 rounded-full ${isDark
+                ? "bg-dark-accent/20 text-dark-accent"
+                : "bg-solarized-blue/10 text-solarized-blue"
+              } flex items-center justify-center font-bold font-sans text-sm mt-1">${index + 1
+              }</span>
                                     <div class="flex-1">
                                         <div class="prose dark:prose-invert max-w-none text-lg font-serif mb-4">
                                             ${renderMarkdown(q.question)}
@@ -995,18 +971,16 @@ function renderTabContent() {
                                 </div>
                             </div>
                             
-                            <div class="border-t ${
-                              isDark
-                                ? "border-dark-border"
-                                : "border-solarized-base1/10"
-                            }">
+                            <div class="border-t ${isDark
+                ? "border-dark-border"
+                : "border-solarized-base1/10"
+              }">
                                 <button onclick="toggleAnswer('${qId}')" id="btn-${qId}" class="w-full py-4 bg-gray-50 dark:bg-white/5 hover:bg-gray-100 dark:hover:bg-white/10 text-solarized-blue dark:text-dark-accent font-bold text-sm uppercase tracking-wider transition-colors flex items-center justify-center gap-2">
                                     <span>Reveal Answer</span>
                                     <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
                                 </button>
-                                <div id="${qId}" class="hidden bg-green-50/50 dark:bg-green-900/10 p-8 border-t ${
-              isDark ? "border-dark-border" : "border-green-100"
-            } animate-in">
+                                <div id="${qId}" class="hidden bg-green-50/50 dark:bg-green-900/10 p-8 border-t ${isDark ? "border-dark-border" : "border-green-100"
+              } animate-in">
                                     <div class="flex items-start gap-3">
                                         <span class="text-2xl">💡</span>
                                         <div class="prose dark:prose-invert max-w-none text-base">
@@ -1065,43 +1039,34 @@ function renderTabContent() {
             const qId = `q-${index}`;
 
             questionsHtml += `
-                        <div class="question-card bg-white dark:bg-dark-surface rounded-2xl shadow-lg border ${
-                          isDark
-                            ? "border-dark-border"
-                            : "border-solarized-base1/10"
-                        } overflow-hidden transition-all duration-300 hover:shadow-xl">
+                        <div class="question-card glass-panel rounded-2xl shadow-lg transition-all duration-300 hover:shadow-xl hover:scale-[1.01]">
                             <div class="p-8">
                                 <div class="flex items-start gap-4">
-                                    <span class="flex-shrink-0 w-8 h-8 rounded-full ${
-                                      isDark
-                                        ? "bg-dark-accent/20 text-dark-accent"
-                                        : "bg-solarized-blue/10 text-solarized-blue"
-                                    } flex items-center justify-center font-bold font-sans text-sm mt-1">${
-              index + 1
-            }</span>
+                                    <span class="flex-shrink-0 w-8 h-8 rounded-full ${isDark
+                ? "bg-dark-accent/20 text-dark-accent"
+                : "bg-solarized-blue/10 text-solarized-blue"
+              } flex items-center justify-center font-bold font-sans text-sm mt-1">${index + 1
+              }</span>
                                     <div class="flex-1 prose dark:prose-invert max-w-none">
                                         ${renderedQuestion}
                                     </div>
                                 </div>
                             </div>
                             
-                            ${
-                              answerText
-                                ? `
-                            <div class="border-t ${
-                              isDark
-                                ? "border-dark-border"
-                                : "border-solarized-base1/10"
-                            }">
+                            ${answerText
+                ? `
+                            <div class="border-t ${isDark
+                  ? "border-dark-border"
+                  : "border-solarized-base1/10"
+                }">
                                 <button onclick="toggleAnswer('${qId}')" id="btn-${qId}" class="w-full py-4 bg-gray-50 dark:bg-white/5 hover:bg-gray-100 dark:hover:bg-white/10 text-solarized-blue dark:text-dark-accent font-bold text-sm uppercase tracking-wider transition-colors flex items-center justify-center gap-2">
                                     <span>Reveal Answer</span>
                                     <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
                                 </button>
-                                <div id="${qId}" class="hidden bg-green-50/50 dark:bg-green-900/10 p-8 border-t ${
-                                    isDark
-                                      ? "border-dark-border"
-                                      : "border-green-100"
-                                  } animate-in">
+                                <div id="${qId}" class="hidden bg-green-50/50 dark:bg-green-900/10 p-8 border-t ${isDark
+                  ? "border-dark-border"
+                  : "border-green-100"
+                } animate-in">
                                     <div class="flex items-start gap-3">
                                         <span class="text-2xl">💡</span>
                                         <div class="prose dark:prose-invert max-w-none text-base">
@@ -1112,8 +1077,8 @@ function renderTabContent() {
                                 </div>
                             </div>
                             `
-                                : ""
-                            }
+                : ""
+              }
                         </div>
                     `;
           });
@@ -1230,10 +1195,10 @@ function renderTabContent() {
         selectedLecture.flashcards ||
         (selectedLecture.glossary
           ? selectedLecture.glossary.map((g) => ({
-              front: g.term,
-              back: g.definition,
-              tag: "Glossary",
-            }))
+            front: g.term,
+            back: g.definition,
+            tag: "Glossary",
+          }))
           : []);
 
       if (flashcards.length > 0) {
@@ -1264,37 +1229,31 @@ function renderTabContent() {
                             <div class="relative w-full h-full transition-transform duration-500 transform-style-3d shadow-xl rounded-2xl group-[.flipped]:rotate-y-180">
                                 
                                 <!-- FRONT -->
-                                <div class="absolute w-full h-full backface-hidden rounded-2xl p-6 ${
-                                  isDark
-                                    ? "bg-dark-surface border border-dark-border"
-                                    : "bg-white border border-solarized-base1/10"
-                                } flex flex-col items-center justify-center text-center">
-                                    <span class="absolute top-4 right-4 px-2 py-1 rounded text-xs font-bold uppercase tracking-wider ${tagClass}">${
-            card.tag || "Card"
-          }</span>
-                                    <div class="text-xl font-bold font-sans ${
-                                      isDark
-                                        ? "text-dark-text"
-                                        : "text-solarized-base00"
-                                    }">${card.front}</div>
-                                    <div class="mt-4 text-xs font-bold uppercase tracking-widest opacity-40 ${
-                                      isDark
-                                        ? "text-dark-muted"
-                                        : "text-solarized-base1"
-                                    }">Click to Flip</div>
+                                <div class="absolute w-full h-full backface-hidden rounded-2xl p-6 ${isDark
+              ? "bg-dark-surface border border-dark-border"
+              : "bg-white border border-solarized-base1/10"
+            } flex flex-col items-center justify-center text-center">
+                                    <span class="absolute top-4 right-4 px-2 py-1 rounded text-xs font-bold uppercase tracking-wider ${tagClass}">${card.tag || "Card"
+            }</span>
+                                    <div class="text-xl font-bold font-sans ${isDark
+              ? "text-dark-text"
+              : "text-solarized-base00"
+            }">${card.front}</div>
+                                    <div class="mt-4 text-xs font-bold uppercase tracking-widest opacity-40 ${isDark
+              ? "text-dark-muted"
+              : "text-solarized-base1"
+            }">Click to Flip</div>
                                 </div>
 
                                 <!-- BACK -->
-                                <div class="absolute w-full h-full backface-hidden rotate-y-180 rounded-2xl p-6 ${
-                                  isDark
-                                    ? "bg-dark-surface border border-dark-accent"
-                                    : "bg-solarized-base3 border border-solarized-blue/30"
-                                } flex flex-col items-center justify-center text-center overflow-y-auto custom-scrollbar">
-                                    <div class="text-lg font-serif leading-relaxed ${
-                                      isDark
-                                        ? "text-dark-text"
-                                        : "text-solarized-base01"
-                                    }">${card.back}</div>
+                                <div class="absolute w-full h-full backface-hidden rotate-y-180 rounded-2xl p-6 ${isDark
+              ? "bg-dark-surface border border-dark-accent"
+              : "bg-solarized-base3 border border-solarized-blue/30"
+            } flex flex-col items-center justify-center text-center overflow-y-auto custom-scrollbar">
+                                    <div class="text-lg font-serif leading-relaxed ${isDark
+              ? "text-dark-text"
+              : "text-solarized-base01"
+            }">${card.back}</div>
                                 </div>
                             </div>
                         </div>
@@ -1329,9 +1288,8 @@ function renderTabContent() {
       tocDiv.classList.add("hidden");
       document.getElementById("tocToggle").classList.add("hidden");
     } else if (activeTab === "mindmap") {
-      contentDiv.innerHTML = `<div id="mindmap-container" class="w-full h-[600px] overflow-hidden bg-white/50 dark:bg-dark-surface/50 rounded-xl relative border ${
-        isDark ? "border-dark-border" : "border-solarized-base1/20"
-      }"></div>`;
+      contentDiv.innerHTML = `<div id="mindmap-container" class="w-full h-[600px] overflow-hidden bg-white/50 dark:bg-dark-surface/50 rounded-xl relative border ${isDark ? "border-dark-border" : "border-solarized-base1/20"
+        }"></div>`;
 
       // Hide Outline Button & TOC
       const tocToggle = document.getElementById("tocToggle");
@@ -1454,9 +1412,8 @@ function renderTabContent() {
               canvas.style.width = "100%";
               canvas.style.maxWidth = "100%";
               canvas.style.height = "auto";
-              canvas.className = `rounded-xl shadow-lg border ${
-                isDark ? "border-dark-border" : "border-solarized-base1/20"
-              }`;
+              canvas.className = `rounded-xl shadow-lg border ${isDark ? "border-dark-border" : "border-solarized-base1/20"
+                }`;
 
               // Re-query container to ensure we are still attached or check existence
               const currentContainer = document.getElementById("pdfContainer");
@@ -1484,9 +1441,8 @@ function renderTabContent() {
 
               currentContainer.innerHTML = `
                                 ${fallbackMessage}
-                                <iframe src="${pdfPath}" class="w-full h-[800px] rounded-xl border ${
-                isDark ? "border-dark-border" : "border-solarized-base1/20"
-              }"></iframe>
+                                <iframe src="${pdfPath}" class="w-full h-[800px] rounded-xl border ${isDark ? "border-dark-border" : "border-solarized-base1/20"
+                }"></iframe>
                             `;
             }
           }
@@ -1564,60 +1520,51 @@ function renderTabContent() {
         let html = `
                     <div class="max-w-4xl mx-auto">
                         <div class="text-center mb-8">
-                            <div class="inline-flex items-center gap-3 px-6 py-3 rounded-full ${
-                              isDark
-                                ? "bg-dark-surface/50 border border-dark-border"
-                                : "bg-white/50 border border-solarized-base1/20"
-                            } shadow-lg mb-4">
+                            <div class="inline-flex items-center gap-3 px-6 py-3 rounded-full ${isDark
+            ? "bg-dark-surface/50 border border-dark-border"
+            : "bg-white/50 border border-solarized-base1/20"
+          } shadow-lg mb-4">
                                 <span class="text-3xl">🎯</span>
-                                <h3 class="text-xl font-bold ${
-                                  isDark
-                                    ? "text-dark-text"
-                                    : "text-solarized-base01"
-                                }">Recommended Resources</h3>
+                                <h3 class="text-xl font-bold ${isDark
+            ? "text-dark-text"
+            : "text-solarized-base01"
+          }">Recommended Resources</h3>
                             </div>
-                            <p class="text-sm ${
-                              isDark
-                                ? "text-dark-muted"
-                                : "text-solarized-base1"
-                            }">Based on AnKing tag analysis</p>
+                            <p class="text-sm ${isDark
+            ? "text-dark-muted"
+            : "text-solarized-base1"
+          }">Based on AnKing tag analysis</p>
                         </div>
                         
                         <!-- Primary Resource -->
                         <div class="mb-8 group">
-                            <div class="relative overflow-hidden rounded-2xl ${
-                              isDark
-                                ? "bg-dark-surface border-2 border-dark-accent"
-                                : "bg-white border-2 border-solarized-blue"
-                            } shadow-2xl transform transition-all duration-300 hover:scale-[1.02]">
-                                <div class="absolute top-0 right-0 w-32 h-32 ${
-                                  primary.bg
-                                } opacity-10 rounded-full -mr-16 -mt-16"></div>
+                            <div class="relative overflow-hidden rounded-2xl ${isDark
+            ? "bg-dark-surface border-2 border-dark-accent"
+            : "bg-white border-2 border-solarized-blue"
+          } shadow-2xl transform transition-all duration-300 hover:scale-[1.02]">
+                                <div class="absolute top-0 right-0 w-32 h-32 ${primary.bg
+          } opacity-10 rounded-full -mr-16 -mt-16"></div>
                                 <div class="relative p-8">
                                     <div class="flex items-center gap-2 mb-4">
-                                        <div class="flex items-center gap-3 px-4 py-2 rounded-xl ${
-                                          primary.bg
-                                        } text-white font-bold text-lg shadow-lg">
-                                            <span class="text-2xl">${
-                                              primary.icon
-                                            }</span>
-                                            <span>${
-                                              ankingData.primarySource
-                                            }</span>
+                                        <div class="flex items-center gap-3 px-4 py-2 rounded-xl ${primary.bg
+          } text-white font-bold text-lg shadow-lg">
+                                            <span class="text-2xl">${primary.icon
+          }</span>
+                                            <span>${ankingData.primarySource
+          }</span>
                                         </div>
                                         <div class="px-3 py-1 rounded-full bg-yellow-400 text-yellow-900 text-xs font-bold uppercase flex items-center gap-1 shadow-md">
                                             <span>⭐</span> Best Match
                                         </div>
                                     </div>
                                     <div class="pl-2">
-                                        <p class="text-lg ${
-                                          isDark
-                                            ? "text-dark-text"
-                                            : "text-solarized-base00"
-                                        } leading-relaxed">
+                                        <p class="text-lg ${isDark
+            ? "text-dark-text"
+            : "text-solarized-base00"
+          } leading-relaxed">
                                             ${ankingData.chapter
-                                              .replace(/_/g, " ")
-                                              .replace(/>/g, " › ")}
+            .replace(/_/g, " ")
+            .replace(/>/g, " › ")}
                                         </p>
                                     </div>
                                 </div>
@@ -1628,22 +1575,19 @@ function renderTabContent() {
         if (ankingData.alternatives && ankingData.alternatives.length > 0) {
           html += `
                         <div class="mb-6">
-                            <h4 class="text-sm font-bold uppercase tracking-wider ${
-                              isDark
-                                ? "text-dark-muted"
-                                : "text-solarized-base1"
-                            } mb-4 flex items-center gap-2">
-                                <span class="w-8 h-px ${
-                                  isDark
-                                    ? "bg-dark-border"
-                                    : "bg-solarized-base1/30"
-                                }"></span>
+                            <h4 class="text-sm font-bold uppercase tracking-wider ${isDark
+              ? "text-dark-muted"
+              : "text-solarized-base1"
+            } mb-4 flex items-center gap-2">
+                                <span class="w-8 h-px ${isDark
+              ? "bg-dark-border"
+              : "bg-solarized-base1/30"
+            }"></span>
                                 <span>Additional Resources</span>
-                                <span class="flex-1 h-px ${
-                                  isDark
-                                    ? "bg-dark-border"
-                                    : "bg-solarized-base1/30"
-                                }"></span>
+                                <span class="flex-1 h-px ${isDark
+              ? "bg-dark-border"
+              : "bg-solarized-base1/30"
+            }"></span>
                             </h4>
                             <div class="grid gap-4">
                     `;
@@ -1651,27 +1595,24 @@ function renderTabContent() {
           ankingData.alternatives.slice(0, 5).forEach((alt) => {
             const altStyle = resources[alt.resource] || resources["FirstAid"];
             html += `
-                            <div class="group rounded-xl ${
-                              isDark
-                                ? "bg-dark-surface/30 hover:bg-dark-surface border border-dark-border"
-                                : "bg-solarized-base2/30 hover:bg-white border border-solarized-base1/10"
-                            } p-5 transition-all duration-300 hover:shadow-lg hover:scale-[1.01]">
+                            <div class="group rounded-xl ${isDark
+                ? "bg-dark-surface/30 hover:bg-dark-surface border border-dark-border"
+                : "bg-solarized-base2/30 hover:bg-white border border-solarized-base1/10"
+              } p-5 transition-all duration-300 hover:shadow-lg hover:scale-[1.01]">
                                 <div class="flex items-start gap-4">
-                                    <div class="flex items-center gap-2 px-3 py-1.5 rounded-lg ${
-                                      altStyle.bg
-                                    } text-white font-semibold text-sm shadow-md flex-shrink-0">
+                                    <div class="flex items-center gap-2 px-3 py-1.5 rounded-lg ${altStyle.bg
+              } text-white font-semibold text-sm shadow-md flex-shrink-0">
                                         <span>${altStyle.icon}</span>
                                         <span>${alt.resource}</span>
                                     </div>
                                     <div class="flex-1 min-w-0">
-                                        <p class="text-sm ${
-                                          isDark
-                                            ? "text-dark-muted"
-                                            : "text-solarized-base00"
-                                        } leading-relaxed">
+                                        <p class="text-sm ${isDark
+                ? "text-dark-muted"
+                : "text-solarized-base00"
+              } leading-relaxed">
                                             ${alt.chapter
-                                              .replace(/_/g, " ")
-                                              .replace(/>/g, " › ")}
+                .replace(/_/g, " ")
+                .replace(/>/g, " › ")}
                                         </p>
                                     </div>
                                 </div>
@@ -1690,17 +1631,14 @@ function renderTabContent() {
       } else {
         contentDiv.innerHTML = `
                     <div class="flex flex-col items-center justify-center py-20 text-center">
-                        <div class="w-32 h-32 mb-6 rounded-full ${
-                          isDark ? "bg-dark-surface" : "bg-solarized-base2"
-                        } flex items-center justify-center shadow-lg">
+                        <div class="w-32 h-32 mb-6 rounded-full ${isDark ? "bg-dark-surface" : "bg-solarized-base2"
+          } flex items-center justify-center shadow-lg">
                             <span class="text-6xl">🏫</span>
                         </div>
-                        <h3 class="text-2xl font-bold mb-4 ${
-                          isDark ? "text-dark-text" : "text-solarized-base01"
-                        }">In-House Lecture is Best</h3>
-                        <p class="text-lg ${
-                          isDark ? "text-dark-muted" : "text-solarized-base1"
-                        } max-w-md mx-auto leading-relaxed">
+                        <h3 class="text-2xl font-bold mb-4 ${isDark ? "text-dark-text" : "text-solarized-base01"
+          }">In-House Lecture is Best</h3>
+                        <p class="text-lg ${isDark ? "text-dark-muted" : "text-solarized-base1"
+          } max-w-md mx-auto leading-relaxed">
                             This lecture doesn't have a strong match with third-party resources. Focus on your in-house materials!
                         </p>
                     </div>
@@ -1735,11 +1673,10 @@ function generateTableOfContents() {
     h.id = id;
     const level = parseInt(h.tagName[1]);
     const padding = (level - 1) * 12;
-    html += `<a href="#" onclick="document.getElementById('${id}').scrollIntoView({behavior: 'smooth'}); return false;" data-target="${id}" class="block text-sm py-1 toc-link transition-colors duration-200 ${
-      isDark
-        ? "text-dark-text hover:text-dark-accent"
-        : "text-solarized-base00 hover:text-solarized-blue"
-    }" style="padding-left: ${padding}px">${h.textContent}</a>`;
+    html += `<a href="#" onclick="document.getElementById('${id}').scrollIntoView({behavior: 'smooth'}); return false;" data-target="${id}" class="block text-sm py-1 toc-link transition-colors duration-200 ${isDark
+      ? "text-dark-text hover:text-dark-accent"
+      : "text-solarized-base00 hover:text-solarized-blue"
+      }" style="padding-left: ${padding}px">${h.textContent}</a>`;
   });
   html += "</nav>";
   toc.innerHTML = html;
@@ -1979,44 +1916,44 @@ function renderMarkdown(html) {
   html = html.replace(
     /^# (.*$)/gm,
     '<h1 class="text-4xl font-bold mb-4 pb-4 border-b-2 ' +
-      (isDark
-        ? "border-dark-border text-transparent bg-clip-text bg-gradient-to-r from-violet-400 to-indigo-500"
-        : "border-solarized-base1/20 text-transparent bg-clip-text bg-gradient-to-r from-solarized-blue to-solarized-cyan") +
-      ' font-sans text-left">$1</h1>'
+    (isDark
+      ? "border-dark-border text-transparent bg-clip-text bg-gradient-to-r from-violet-400 to-indigo-500"
+      : "border-solarized-base1/20 text-transparent bg-clip-text bg-gradient-to-r from-solarized-blue to-solarized-cyan") +
+    ' font-sans text-left">$1</h1>'
   );
 
   // H2 (Poppy Block Style - Centered, Block, 4 Dots)
   html = html.replace(
     /^## (.*$)/gm,
     '<div class="my-16 p-8 rounded-2xl ' +
-      (isDark
-        ? "bg-dark-surface shadow-lg border border-dark-border"
-        : "bg-white shadow-xl border border-white/50") +
-      ' text-center transform hover:scale-[1.02] transition-transform duration-300"><div class="flex justify-center gap-2 mb-4"><div class="w-1.5 h-1.5 rounded-full bg-red-500"></div><div class="w-1.5 h-1.5 rounded-full bg-yellow-500"></div><div class="w-1.5 h-1.5 rounded-full bg-green-500"></div><div class="w-1.5 h-1.5 rounded-full bg-blue-500"></div></div><h2 class="text-3xl font-black ' +
-      (isDark
-        ? "text-transparent bg-clip-text bg-gradient-to-r from-violet-400 to-indigo-500"
-        : "text-transparent bg-clip-text bg-gradient-to-r from-solarized-cyan to-solarized-blue") +
-      ' font-display tracking-tight">$1</h2></div>'
+    (isDark
+      ? "bg-dark-surface shadow-lg border border-dark-border"
+      : "bg-white shadow-xl border border-white/50") +
+    ' text-center transform hover:scale-[1.02] transition-transform duration-300"><div class="flex justify-center gap-2 mb-4"><div class="w-1.5 h-1.5 rounded-full bg-red-500"></div><div class="w-1.5 h-1.5 rounded-full bg-yellow-500"></div><div class="w-1.5 h-1.5 rounded-full bg-green-500"></div><div class="w-1.5 h-1.5 rounded-full bg-blue-500"></div></div><h2 class="text-3xl font-black ' +
+    (isDark
+      ? "text-transparent bg-clip-text bg-gradient-to-r from-violet-400 to-indigo-500"
+      : "text-transparent bg-clip-text bg-gradient-to-r from-solarized-cyan to-solarized-blue") +
+    ' font-display tracking-tight">$1</h2></div>'
   );
 
   // H3 (Subsections)
   html = html.replace(
     /^### (.*$)/gm,
     '<h3 class="text-2xl font-bold mt-8 mb-4 ' +
-      (isDark ? "text-dark-accent" : "text-solarized-blue") +
-      ' font-sans flex items-center gap-2 text-left"><span class="w-2 h-8 rounded-full ' +
-      (isDark ? "bg-dark-accent" : "bg-solarized-blue") +
-      '"></span>$1</h3>'
+    (isDark ? "text-dark-accent" : "text-solarized-blue") +
+    ' font-sans flex items-center gap-2 text-left"><span class="w-2 h-8 rounded-full ' +
+    (isDark ? "bg-dark-accent" : "bg-solarized-blue") +
+    '"></span>$1</h3>'
   );
 
   // H4 (Sub-subsections)
   html = html.replace(
     /^#### (.*$)/gm,
     '<h4 class="text-xl font-bold mt-6 mb-3 ' +
-      (isDark ? "text-dark-text" : "text-solarized-base01") +
-      ' font-sans flex items-center gap-2 text-left"><span class="w-1.5 h-1.5 rounded-full ' +
-      (isDark ? "bg-dark-muted" : "bg-solarized-base1") +
-      '"></span>$1</h4>'
+    (isDark ? "text-dark-text" : "text-solarized-base01") +
+    ' font-sans flex items-center gap-2 text-left"><span class="w-1.5 h-1.5 rounded-full ' +
+    (isDark ? "bg-dark-muted" : "bg-solarized-base1") +
+    '"></span>$1</h4>'
   );
 
   // HR (Hidden)
@@ -2027,12 +1964,12 @@ function renderMarkdown(html) {
   html = html.replace(
     /^> (.*$)/gm,
     '<div class="my-8 pl-8 pr-6 py-6 border-l-4 ' +
-      (isDark
-        ? "border-dark-accent bg-dark-surface/50"
-        : "border-solarized-yellow bg-solarized-yellow/10") +
-      " rounded-r-xl italic text-xl font-serif " +
-      (isDark ? "text-dark-text" : "text-solarized-base01") +
-      ' shadow-sm relative"><span class="absolute top-2 left-2 text-4xl opacity-20 font-serif">"</span>$1</div>'
+    (isDark
+      ? "border-dark-accent bg-dark-surface/50"
+      : "border-solarized-yellow bg-solarized-yellow/10") +
+    " rounded-r-xl italic text-xl font-serif " +
+    (isDark ? "text-dark-text" : "text-solarized-base01") +
+    ' shadow-sm relative"><span class="absolute top-2 left-2 text-4xl opacity-20 font-serif">"</span>$1</div>'
   );
 
   // Bold
@@ -2078,14 +2015,14 @@ function renderMarkdown(html) {
   html = html.replace(
     /<ul>/g,
     '<ul class="list-disc list-outside ml-6 my-6 space-y-2 marker:' +
-      (isDark ? "text-dark-accent" : "text-solarized-blue") +
-      '">'
+    (isDark ? "text-dark-accent" : "text-solarized-blue") +
+    '">'
   );
   html = html.replace(
     /<ol>/g,
     '<ol class="list-decimal list-outside ml-6 my-6 space-y-2 marker:font-bold marker:' +
-      (isDark ? "text-dark-accent" : "text-solarized-blue") +
-      '">'
+    (isDark ? "text-dark-accent" : "text-solarized-blue") +
+    '">'
   );
 
   // Subscripts (Standard Markdown ~sub~)
@@ -2113,8 +2050,8 @@ function renderMarkdown(html) {
   html = html.replace(
     /!\[(.*?)\]\((.*?)\)/g,
     '<img src="$2" alt="$1" loading="lazy" class="rounded-xl shadow-lg my-6 max-w-full h-auto mx-auto border-4 ' +
-      (isDark ? "border-dark-surface" : "border-white") +
-      '">'
+    (isDark ? "border-dark-surface" : "border-white") +
+    '">'
   );
 
   // Paragraphs
@@ -2147,9 +2084,9 @@ function updateWelcomeMessage() {
   const msg =
     lectures.length > 0
       ? lectures.length +
-        " lecture" +
-        (lectures.length !== 1 ? "s" : "") +
-        " loaded. Select one to begin."
+      " lecture" +
+      (lectures.length !== 1 ? "s" : "") +
+      " loaded. Select one to begin."
       : "No lectures loaded. Ensure lectures_data.js exists.";
   document.getElementById("welcomeMessage").textContent = msg;
 
@@ -2469,118 +2406,114 @@ function renderMindMapTree(data) {
 }
 
 function setupPearlbookModal() {
-    const modal = document.getElementById('pearlbookModal');
-    const btn = document.getElementById('pearlbookToggle');
-    const closeBtn = document.getElementById('closePearlbook');
-    const contentDiv = document.getElementById('pearlbookContent');
+  const modal = document.getElementById('pearlbookModal');
+  const btn = document.getElementById('pearlbookToggle');
+  const closeBtn = document.getElementById('closePearlbook');
+  const contentDiv = document.getElementById('pearlbookContent');
 
-    if (!modal || !btn || !closeBtn) return;
+  if (!modal || !btn || !closeBtn) return;
 
-    function openModal() {
-        if (!selectedLecture) return;
-        
-        renderPearlbookContent();
-        modal.classList.remove('hidden');
-        requestAnimationFrame(() => {
-            modal.classList.remove('opacity-0');
-            modal.firstElementChild.firstElementChild.classList.remove('scale-95');
-            modal.firstElementChild.firstElementChild.classList.add('scale-100');
-        });
-        document.body.style.overflow = 'hidden';
-    }
+  function openModal() {
+    if (!selectedLecture) return;
 
-    function closeModal() {
-        modal.classList.add('opacity-0');
-        modal.firstElementChild.firstElementChild.classList.remove('scale-100');
-        modal.firstElementChild.firstElementChild.classList.add('scale-95');
-        
-        setTimeout(() => {
-            modal.classList.add('hidden');
-        }, 300);
-        document.body.style.overflow = '';
-    }
+    renderPearlbookContent();
+    modal.classList.remove('hidden');
+    requestAnimationFrame(() => {
+      modal.classList.remove('opacity-0');
+      modal.firstElementChild.firstElementChild.classList.remove('scale-95');
+      modal.firstElementChild.firstElementChild.classList.add('scale-100');
+    });
+    document.body.style.overflow = 'hidden';
+  }
 
-    function renderPearlbookContent() {
-        const pearls = selectedLecture.pearls;
-        contentDiv.innerHTML = '';
+  function closeModal() {
+    modal.classList.add('opacity-0');
+    modal.firstElementChild.firstElementChild.classList.remove('scale-100');
+    modal.firstElementChild.firstElementChild.classList.add('scale-95');
 
-        if (!pearls || pearls.length === 0) {
-            contentDiv.innerHTML = `
+    setTimeout(() => {
+      modal.classList.add('hidden');
+    }, 300);
+    document.body.style.overflow = '';
+  }
+
+  function renderPearlbookContent() {
+    const pearls = selectedLecture.pearls;
+    contentDiv.innerHTML = '';
+
+    if (!pearls || pearls.length === 0) {
+      contentDiv.innerHTML = `
                 <div class="flex flex-col items-center justify-center py-20 text-center opacity-60">
                     <svg class="w-16 h-16 mb-4 text-solarized-base1 dark:text-dark-muted" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"></path></svg>
                     <p class="text-xl font-sans font-medium text-solarized-base01 dark:text-dark-text">No Pearls available for this lecture</p>
                 </div>
             `;
-            return;
-        }
+      return;
+    }
 
-        const pearlsContainer = document.createElement("div");
-        pearlsContainer.className = "grid grid-cols-1 gap-6";
+    const pearlsContainer = document.createElement("div");
+    pearlsContainer.className = "grid grid-cols-1 gap-6";
 
-        pearls.forEach((pearl, index) => {
-            const pearlCard = document.createElement("div");
-            pearlCard.className = `p-6 rounded-2xl border transition-all duration-300 ${
-                isDark
-                    ? "bg-dark-bg/50 border-dark-border hover:border-dark-accent/50"
-                    : "bg-white border-solarized-base1/10 hover:border-solarized-blue/30"
-            } shadow-sm hover:shadow-md animate-in`;
-            pearlCard.style.animationDelay = `${index * 50}ms`;
+    pearls.forEach((pearl, index) => {
+      const pearlCard = document.createElement("div");
+      pearlCard.className = `p-6 rounded-2xl border transition-all duration-300 ${isDark
+        ? "bg-dark-bg/50 border-dark-border hover:border-dark-accent/50"
+        : "bg-white border-solarized-base1/10 hover:border-solarized-blue/30"
+        } shadow-sm hover:shadow-md animate-in`;
+      pearlCard.style.animationDelay = `${index * 50}ms`;
 
-            const renderedContent = typeof renderMarkdown === "function"
-                ? renderMarkdown(pearl.content)
-                : pearl.content;
+      const renderedContent = typeof renderMarkdown === "function"
+        ? renderMarkdown(pearl.content)
+        : pearl.content;
 
-            pearlCard.innerHTML = `
+      pearlCard.innerHTML = `
                 <div class="flex items-start gap-4">
-                    <div class="shrink-0 w-10 h-10 rounded-full flex items-center justify-center ${
-                        isDark
-                            ? "bg-dark-accent/10 text-dark-accent"
-                            : "bg-orange-500/10 text-orange-600"
-                    }">
+                    <div class="shrink-0 w-10 h-10 rounded-full flex items-center justify-center ${isDark
+          ? "bg-dark-accent/10 text-dark-accent"
+          : "bg-orange-500/10 text-orange-600"
+        }">
                         <span class="font-bold font-sans text-lg">${index + 1}</span>
                     </div>
                     <div class="flex-1">
-                        <h3 class="text-lg font-bold mb-2 font-sans ${
-                            isDark ? "text-dark-text" : "text-solarized-base01"
-                        }">${pearl.title}</h3>
-                        <div class="prose dark:prose-invert max-w-none text-base leading-relaxed ${
-                            isDark ? "text-dark-muted" : "text-solarized-base00"
-                        }">
+                        <h3 class="text-lg font-bold mb-2 font-sans ${isDark ? "text-dark-text" : "text-solarized-base01"
+        }">${pearl.title}</h3>
+                        <div class="prose dark:prose-invert max-w-none text-base leading-relaxed ${isDark ? "text-dark-muted" : "text-solarized-base00"
+        }">
                             ${renderedContent}
                         </div>
                     </div>
                 </div>
             `;
-            pearlsContainer.appendChild(pearlCard);
-        });
+      pearlsContainer.appendChild(pearlCard);
+    });
 
-        contentDiv.appendChild(pearlsContainer);
+    contentDiv.appendChild(pearlsContainer);
+  }
+
+  btn.addEventListener('click', (e) => {
+    // Create ripple
+    const circle = document.createElement('span');
+    const diameter = Math.max(btn.clientWidth, btn.clientHeight);
+    const radius = diameter / 2;
+    circle.style.width = circle.style.height = `${diameter}px`;
+    circle.style.left = `${e.clientX - btn.getBoundingClientRect().left - radius}px`;
+    circle.style.top = `${e.clientY - btn.getBoundingClientRect().top - radius}px`;
+    circle.classList.add('ripple');
+    const ripple = btn.getElementsByClassName('ripple')[0];
+    if (ripple) {
+      ripple.remove();
     }
+    btn.appendChild(circle);
 
-    btn.addEventListener('click', (e) => {
-        // Create ripple
-        const circle = document.createElement('span');
-        const diameter = Math.max(btn.clientWidth, btn.clientHeight);
-        const radius = diameter / 2;
-        circle.style.width = circle.style.height = `${diameter}px`;
-        circle.style.left = `${e.clientX - btn.getBoundingClientRect().left - radius}px`;
-        circle.style.top = `${e.clientY - btn.getBoundingClientRect().top - radius}px`;
-        circle.classList.add('ripple');
-        const ripple = btn.getElementsByClassName('ripple')[0];
-        if (ripple) {
-            ripple.remove();
-        }
-        btn.appendChild(circle);
-        
-        openModal();
-    });
+    openModal();
+  });
 
-    closeBtn.addEventListener('click', closeModal);
-    modal.addEventListener('click', (e) => {
-        if (e.target === modal || e.target.closest('.w-full') === e.target) closeModal();
-    });
-    
-    document.addEventListener('keydown', (e) => {
-        if (!modal.classList.contains('hidden') && e.key === 'Escape') closeModal();
-    });
+  closeBtn.addEventListener('click', closeModal);
+  modal.addEventListener('click', (e) => {
+    if (e.target === modal || e.target.closest('.w-full') === e.target) closeModal();
+  });
+
+  document.addEventListener('keydown', (e) => {
+    if (!modal.classList.contains('hidden') && e.key === 'Escape') closeModal();
+  });
 }
