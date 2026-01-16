@@ -9,6 +9,7 @@ let tocVisible = true;
 let sidebarVisible = true;
 let currentFontSize = 100; // Percentage
 let completedLectures = new Set(); // Track completed IDs
+let activeRecall = false; // Active Recall Mode State
 
 document.addEventListener("DOMContentLoaded", async function () {
   // Load Theme
@@ -182,8 +183,8 @@ function toggleLectureComplete(id) {
     // Confetti!
     const btn = document.getElementById("markCompleteBtn");
     if (btn) {
-      const rect = btn.getBoundingClientRect();
-      createConfetti(rect.left + rect.width / 2, rect.top);
+      // Trigger Rain Effect from Top
+      createConfetti(undefined, undefined, true);
     }
   }
   saveProgress();
@@ -485,10 +486,10 @@ function animateSearchIcon() {
   );
 }
 
-function createConfetti(x, y) {
+function createConfetti(x, y, rain = false) {
   // Fallback if x,y not provided (random center)
-  if (x === undefined) x = window.innerWidth / 2;
-  if (y === undefined) y = window.innerHeight / 2;
+  if (x === undefined && !rain) x = window.innerWidth / 2;
+  if (y === undefined && !rain) y = window.innerHeight / 2;
 
   const colors = [
     "#268bd2",
@@ -498,27 +499,42 @@ function createConfetti(x, y) {
     "#6c71c4",
     "#859900",
   ];
-  for (let i = 0; i < 50; i++) {
+
+  const particleCount = rain ? 100 : 50;
+
+  for (let i = 0; i < particleCount; i++) {
     setTimeout(() => {
       const confetti = document.createElement("div");
       confetti.className = "confetti";
-      confetti.style.left = x + "px";
-      confetti.style.top = y + "px";
-      // Random spread
-      const angle = Math.random() * Math.PI * 2;
-      const velocity = Math.random() * 100 + 50;
-      const tx = Math.cos(angle) * velocity;
-      // const ty = Math.sin(angle) * velocity; // Let CSS animation handle fall, we just burst
 
-      confetti.style.setProperty('--tx', `${tx}px`);
+      if (rain) {
+        // Rain Effect: Start from random X at top
+        const startX = Math.random() * window.innerWidth;
+        confetti.style.left = startX + "px";
+        confetti.style.top = "-10px";
+
+        // Downward trajectory with slight horizontal drift
+        const drift = (Math.random() - 0.5) * 200; // -100 to 100 px drift
+        confetti.style.setProperty('--tx', `${drift}px`);
+      } else {
+        // Burst Effect (Button or Center)
+        confetti.style.left = x + "px";
+        confetti.style.top = y + "px";
+
+        // Random spread
+        const angle = Math.random() * Math.PI * 2;
+        const velocity = Math.random() * 100 + 50;
+        const tx = Math.cos(angle) * velocity;
+        confetti.style.setProperty('--tx', `${tx}px`);
+      }
 
       confetti.style.background =
         colors[Math.floor(Math.random() * colors.length)];
       confetti.style.animationDelay = Math.random() * 0.1 + "s";
-      confetti.style.animationDuration = Math.random() * 1 + 1 + "s";
+      confetti.style.animationDuration = Math.random() * 1 + 1.5 + "s"; // Longer fall
       document.body.appendChild(confetti);
-      setTimeout(() => confetti.remove(), 2000);
-    }, i * 5);
+      setTimeout(() => confetti.remove(), 3000);
+    }, i * 10); // Stagger more for rain
   }
 }
 
@@ -822,6 +838,18 @@ function switchTab(tab) {
       delete btn.dataset.active;
     }
   });
+
+  // Explicitly handle Active Recall Toggle Visibility
+  const arToggle = document.getElementById("activeRecallToggle");
+  if (arToggle) {
+    if (tab === "summary") {
+      arToggle.classList.remove("hidden");
+      updateActiveRecallButtonState(); // Ensure correct state is shown
+    } else {
+      arToggle.classList.add("hidden");
+    }
+  }
+
   renderTabContent();
 }
 
@@ -838,9 +866,51 @@ function renderTabContent() {
   // Clear previous content
   contentDiv.innerHTML = "";
 
+  // Helper to inject Active Recall Styles if missing
+  if (!document.getElementById("active-recall-styles")) {
+    const style = document.createElement("style");
+    style.id = "active-recall-styles";
+    style.textContent = `
+      .active-recall-mode .recall-target {
+        filter: blur(5px);
+        background-color: rgba(100, 100, 100, 0.2);
+        color: transparent !important;
+        user-select: none;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        padding: 0 4px;
+        border-radius: 4px;
+      }
+      .active-recall-mode .recall-target:hover,
+      .active-recall-mode .recall-target:active {
+        filter: none;
+        background-color: transparent;
+        color: inherit !important;
+      }
+    `;
+    document.head.appendChild(style);
+  }
+
   try {
     if (activeTab === "summary") {
       let html = renderMarkdown(selectedLecture.summary);
+
+      // Wrapper class for active recall (Safe Toggle)
+      if (activeRecall) {
+        contentDiv.classList.add("active-recall-mode");
+      } else {
+        contentDiv.classList.remove("active-recall-mode");
+      }
+
+      // Ensure Base Classes are present (Recovery from previous bug state if hot-reloading)
+      contentDiv.classList.add("flex-1", "p-12", "max-w-none");
+
+      // Ensure Header Toggle is visible
+      const arToggle = document.getElementById("activeRecallToggle");
+      if (arToggle) {
+        arToggle.classList.remove("hidden");
+        updateActiveRecallButtonState();
+      }
 
       if (
         selectedLecture.drugData &&
@@ -1647,6 +1717,10 @@ function renderTabContent() {
 
       tocDiv.classList.add("hidden");
       document.getElementById("tocToggle").classList.add("hidden");
+    } else {
+      // Hide Active Recall Toggle for other tabs
+      const arToggle = document.getElementById("activeRecallToggle");
+      if (arToggle) arToggle.classList.add("hidden");
     }
   } catch (e) {
     console.error("Error rendering tab content:", e);
@@ -1701,7 +1775,7 @@ function renderMarkdown(html) {
           const regex = new RegExp(`\\b(${g.term})\\b(?![^<]*>)`, "gi");
           processedLine = processedLine.replace(
             regex,
-            `<span class="border-b-2 border-dashed border-indigo-400 cursor-help relative group/tooltip">$1<span class="invisible group-hover/tooltip:visible absolute bottom-full left-1/2 -translate-x-1/2 mb-2 w-64 p-3 bg-gray-900 text-white text-sm rounded shadow-lg z-50 pointer-events-none">${g.definition}</span></span>`
+            `<span class="recall-target border-b-2 border-dashed border-indigo-400 cursor-help relative group/tooltip">$1<span class="invisible group-hover/tooltip:visible absolute bottom-full left-1/2 -translate-x-1/2 mb-2 w-64 p-3 bg-gray-900 text-white text-sm rounded shadow-lg z-50 pointer-events-none transition-none">$2</span></span>`
           );
         });
         return processedLine;
@@ -1975,7 +2049,7 @@ function renderMarkdown(html) {
   // Bold
   html = html.replace(
     /\*\*(.*?)\*\*/g,
-    '<strong class="font-bold text-solarized-base01 dark:text-dark-text">$1</strong>'
+    '<strong class="recall-target font-bold text-solarized-base01 dark:text-dark-text">$1</strong>'
   );
 
   // Italics
@@ -2516,4 +2590,44 @@ function setupPearlbookModal() {
   document.addEventListener('keydown', (e) => {
     if (!modal.classList.contains('hidden') && e.key === 'Escape') closeModal();
   });
+}
+
+function toggleActiveRecall() {
+  activeRecall = !activeRecall;
+
+  // Update state immediately for responsiveness
+  updateActiveRecallButtonState();
+
+  // Re-render tab content to update wrapper class and ensuring content is refreshed if needed
+  if (selectedLecture && activeTab === "summary") {
+    const contentDiv = document.getElementById("tabContent");
+    if (activeRecall) {
+      contentDiv.classList.add("active-recall-mode");
+    } else {
+      contentDiv.classList.remove("active-recall-mode");
+    }
+  }
+}
+
+function updateActiveRecallButtonState() {
+  const btn = document.getElementById("activeRecallToggle");
+  const icon = document.getElementById("activeRecallIcon");
+
+  if (!btn || !icon) return;
+
+  if (activeRecall) {
+    // Enabled State -> Filled Violet
+    btn.classList.add("bg-violet-500", "text-white");
+    btn.classList.remove("bg-white/80", "text-violet-600", "dark:bg-dark-surface/80", "dark:text-violet-300");
+
+    // Icon: Eye Off (Hidden)
+    icon.innerHTML = '<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13.875 18.825A10.05 10.05 0 0112 19c-4.478 0-8.268-2.943-9.543-7a9.97 9.97 0 011.563-3.029m5.858.908a3 3 0 114.243 4.243M9.878 9.878l4.242 4.242M9.88 9.88l-3.29-3.29m7.532 7.532l3.29 3.29M3 3l3.59 3.59m0 0A9.953 10.05 0 0112 5c4.478 0 8.268 2.943 9.543 7a10.025 10.05 0 01-4.132 5.411m0 0L21 21" />';
+  } else {
+    // Disabled State -> Outline
+    btn.classList.remove("bg-violet-500", "text-white");
+    btn.classList.add("bg-white/80", "text-violet-600", "dark:bg-dark-surface/80", "dark:text-violet-300");
+
+    // Icon: Eye (Visible)
+    icon.innerHTML = '<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" /><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z" />';
+  }
 }
