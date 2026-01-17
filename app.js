@@ -348,6 +348,18 @@ function setupEventListeners() {
       }
     });
   }
+
+  // Active Recall Click Toggle
+  document.getElementById("tabContent").addEventListener("click", (e) => {
+    // Only proceed if Active Recall Mode is active
+    if (!activeRecall) return;
+
+    // Check if clicked element is a recall target
+    const target = e.target.closest(".recall-target");
+    if (target) {
+      target.classList.toggle("revealed");
+    }
+  });
 }
 
 function setupKeyboardShortcuts() {
@@ -881,8 +893,7 @@ function renderTabContent() {
         padding: 0 4px;
         border-radius: 4px;
       }
-      .active-recall-mode .recall-target:hover,
-      .active-recall-mode .recall-target:active {
+      .active-recall-mode .recall-target.revealed {
         filter: none;
         background-color: transparent;
         color: inherit !important;
