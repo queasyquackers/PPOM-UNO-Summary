@@ -89,8 +89,8 @@ export const L37_CONTENT = {
                 "Cerebellum",
                 "Muscle fiber directly"
             ],
-            answer: 1,
-            explanation: "**UMN** signs include Spasticity, Hyperreflexia, and preserved muscle bulk (no atrophy). LMN signs would be flaccidity and atrophy."
+            correctAnswer: 1,
+            rationale: "**UMN** signs include Spasticity, Hyperreflexia, and preserved muscle bulk (no atrophy). LMN signs would be flaccidity and atrophy."
         },
         {
             question: "Which of the following describes muscle strength Grade 3/5?",
@@ -101,8 +101,8 @@ export const L37_CONTENT = {
                 "Flicker of contraction only",
                 "Normal strength"
             ],
-            answer: 1,
-            explanation: "**Grade 3** is movement against gravity but NOT resistance. Grade 2 is gravity eliminated. Grade 4 is against resistance."
+            correctAnswer: 1,
+            rationale: "**Grade 3** is movement against gravity but NOT resistance. Grade 2 is gravity eliminated. Grade 4 is against resistance."
         },
         {
             question: "A positive Romberg test (swaying significantly only when eyes are closed) primarily indicates dysfunction of:",
@@ -113,8 +113,8 @@ export const L37_CONTENT = {
                 "The Basal Ganglia",
                 "The Thalamus"
             ],
-            answer: 2,
-            explanation: "Romberg tests **Proprioception**. If vision (eyes open) compensates, but balance fails when eyes close, it's a sensory ataxia (Dorsal Columns)."
+            correctAnswer: 2,
+            rationale: "Romberg tests **Proprioception**. If vision (eyes open) compensates, but balance fails when eyes close, it's a sensory ataxia (Dorsal Columns)."
         },
         {
             question: "The Achilles tendon reflex is mediated primarily by which spinal nerve root?",
@@ -125,8 +125,8 @@ export const L37_CONTENT = {
                 "S1",
                 "S2"
             ],
-            answer: 3,
-            explanation: "Achilles reflex is **S1**. Patellar is L4."
+            correctAnswer: 3,
+            rationale: "Achilles reflex is **S1**. Patellar is L4."
         },
         {
             question: "Dysdiadochokinesis (inability to perform rapid alternating movements) is a hallmark sign of damage to the:",
@@ -137,8 +137,8 @@ export const L37_CONTENT = {
                 "Basal Ganglia",
                 "Cranial Nerves"
             ],
-            answer: 0,
-            explanation: "Incoordination of rapid movements (RAM) is a classic **Cerebellar** sign."
+            correctAnswer: 0,
+            rationale: "Incoordination of rapid movements (RAM) is a classic **Cerebellar** sign."
         }
     ],
     flashcards: [

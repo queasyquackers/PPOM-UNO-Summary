@@ -95,8 +95,8 @@ export const L26_CONTENT = {
                 "Left Conductive Hearing Loss",
                 "Normal Hearing"
             ],
-            answer: 1,
-            explanation: "Weber lateralizing to the affected (bad) ear + Rinne BC > AC indicates a **Conductive Hearing Loss** in that ear."
+            correctAnswer: 1,
+            rationale: "Weber lateralizing to the affected (bad) ear + Rinne BC > AC indicates a **Conductive Hearing Loss** in that ear."
         },
         {
             question: "On physical exam, a patient's tongue deviates to the LEFT when protruded. Which cranial nerve is lesioned?",
@@ -107,8 +107,8 @@ export const L26_CONTENT = {
                 "Left CN X",
                 "Left CN IX"
             ],
-            answer: 1,
-            explanation: "The tongue deviates **towards** the side of the CN XII lesion (weak side). Left deviation = **Left CN XII** lesion."
+            correctAnswer: 1,
+            rationale: "The tongue deviates **towards** the side of the CN XII lesion (weak side). Left deviation = **Left CN XII** lesion."
         },
         {
             question: "When asking a patient to say 'Ah', the uvula deviates to the RIGHT. This suggests a lesion of which cranial nerve?",
@@ -119,8 +119,8 @@ export const L26_CONTENT = {
                 "Left CN IX",
                 "Right CN XII"
             ],
-            answer: 1,
-            explanation: "The uvula deviates **away** from the CN X lesion (pulled by the intact strong side). Right deviation = **Left CN X** lesion."
+            correctAnswer: 1,
+            rationale: "The uvula deviates **away** from the CN X lesion (pulled by the intact strong side). Right deviation = **Left CN X** lesion."
         },
         {
             question: "Which component of the corneal reflex is carried by the Facial Nerve (CN VII)?",
@@ -131,8 +131,8 @@ export const L26_CONTENT = {
                 "Lacrimation only",
                 "None"
             ],
-            answer: 2,
-            explanation: "CN V1 provides the sensory (Afferent) limb. **CN VII** provides the **Motor (Efferent)** limb to close the eyelid (Orbicularis Oculi)."
+            correctAnswer: 2,
+            rationale: "CN V1 provides the sensory (Afferent) limb. **CN VII** provides the **Motor (Efferent)** limb to close the eyelid (Orbicularis Oculi)."
         },
         {
             question: "A patient has a dilated right pupil that is unresponsive to light, and the right eye is positioned 'down and out'. Which cranial nerve is affected?",
@@ -143,8 +143,8 @@ export const L26_CONTENT = {
                 "CN VI",
                 "CN VII"
             ],
-            answer: 1,
-            explanation: "These are classic signs of a **CN III (Oculomotor) Palsy**: Ptosis, Mydriasis (dilation), and Down-and-Out deviation."
+            correctAnswer: 1,
+            rationale: "These are classic signs of a **CN III (Oculomotor) Palsy**: Ptosis, Mydriasis (dilation), and Down-and-Out deviation."
         }
     ],
     flashcards: [

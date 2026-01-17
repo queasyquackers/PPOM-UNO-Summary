@@ -75,8 +75,8 @@ export const L46_CONTENT = {
                 "Sciatic Nerve Impingement",
                 "Cauda Equina Syndrome"
             ],
-            answer: 2,
-            explanation: "**Positive Hoover Sign:** Lack of downward pressure in the contralateral (normal) heel indicates the patient is not making a genuine effort to lift the affected leg."
+            correctAnswer: 2,
+            rationale: "**Positive Hoover Sign:** Lack of downward pressure in the contralateral (normal) heel indicates the patient is not making a genuine effort to lift the affected leg."
         },
         {
             question: "Which physical exam finding is most specific for a lumbar disc herniation?",
@@ -87,8 +87,8 @@ export const L46_CONTENT = {
                 "Decreased range of motion",
                 "Negative Brudzinski sign"
             ],
-            answer: 1,
-            explanation: "While the Ipsilateral SLR is sensitive, the **Crossed (Well) Straight Leg Raise** (pain in the affected leg when lifting the healthy leg) is highly **Specific** for disc herniation."
+            correctAnswer: 1,
+            rationale: "While the Ipsilateral SLR is sensitive, the **Crossed (Well) Straight Leg Raise** (pain in the affected leg when lifting the healthy leg) is highly **Specific** for disc herniation."
         },
         {
             question: "A patient presents with fever and severe headache. When you flex the patient's neck, their hips and knees spontaneously flex. This is a positive:",
@@ -99,8 +99,8 @@ export const L46_CONTENT = {
                 "Lhermitte Sign",
                 "Hoffmann Sign"
             ],
-            answer: 1,
-            explanation: "**Brudzinski Sign:** Neck flexion causes involuntary hip/knee flexion. It suggests meningeal irritation (Meningitis)."
+            correctAnswer: 1,
+            rationale: "**Brudzinski Sign:** Neck flexion causes involuntary hip/knee flexion. It suggests meningeal irritation (Meningitis)."
         },
         {
             question: "A patient complains of shooting pain down their right arm. You extend and rotate their head to the right and apply downward pressure. This maneuver reproduces the pain. What is the test?",
@@ -111,8 +111,8 @@ export const L46_CONTENT = {
                 "Phalen Test",
                 "Lhermitte Sign"
             ],
-            answer: 1,
-            explanation: "**Spurling Test:** Cervical compression with extension/rotation narrows the neural foramen. Reproduction of radicular pain indicates Cervical Radiculopathy."
+            correctAnswer: 1,
+            rationale: "**Spurling Test:** Cervical compression with extension/rotation narrows the neural foramen. Reproduction of radicular pain indicates Cervical Radiculopathy."
         },
         {
             question: "Which sensory modality is carried by the Dorsal Columns (Posterior Columns)?",
@@ -123,8 +123,8 @@ export const L46_CONTENT = {
                 "Vibration and Proprioception",
                 "Itch"
             ],
-            answer: 3,
-            explanation: "**Dorsal Columns:** Vibration, Proprioception, Fine Touch. (Spinothalamic = Pain, Temp, Crude Touch)."
+            correctAnswer: 3,
+            rationale: "**Dorsal Columns:** Vibration, Proprioception, Fine Touch. (Spinothalamic = Pain, Temp, Crude Touch)."
         }
     ],
     flashcards: [

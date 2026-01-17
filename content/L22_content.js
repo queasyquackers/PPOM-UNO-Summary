@@ -90,8 +90,8 @@ Target **Nicotinic (Nm)** receptors at the Neuromuscular Junction (NMJ).
                 "Propofol",
                 "Fentanyl"
             ],
-            answer: 1,
-            explanation: "**Succinylcholine** is a classic trigger for **Malignant Hyperthermia** (along with volatile anesthetics)."
+            correctAnswer: 1,
+            rationale: "**Succinylcholine** is a classic trigger for **Malignant Hyperthermia** (along with volatile anesthetics)."
         },
         {
             question: "Which neuromuscular blocker undergoes spontaneous 'Hofmann elimination' and is therefore safe in patients with renal and hepatic failure?",
@@ -102,8 +102,8 @@ Target **Nicotinic (Nm)** receptors at the Neuromuscular Junction (NMJ).
                 "Cisatracurium",
                 "Succinylcholine"
             ],
-            answer: 3,
-            explanation: "**Cisatracurium** (and Atracurium) degrades spontaneously in plasma (Hofmann elimination), independent of organ function."
+            correctAnswer: 3,
+            rationale: "**Cisatracurium** (and Atracurium) degrades spontaneously in plasma (Hofmann elimination), independent of organ function."
         },
         {
             question: "What is the mechanism of action of Sugammadex?",
@@ -114,8 +114,8 @@ Target **Nicotinic (Nm)** receptors at the Neuromuscular Junction (NMJ).
                 "Stimulates Nicotinic Receptors",
                 "Blocks Muscarinic Receptors"
             ],
-            answer: 2,
-            explanation: "**Sugammadex** forms a complex with aminosteroids (**Rocuronium/Vecuronium**) to reverse blockade rapidly."
+            correctAnswer: 2,
+            rationale: "**Sugammadex** forms a complex with aminosteroids (**Rocuronium/Vecuronium**) to reverse blockade rapidly."
         },
         {
             question: "A patient with severe burns requires intubation. Which neuromuscular blocker is CONTRAINDICATED due to the risk of hyperkalemia?",
@@ -126,8 +126,8 @@ Target **Nicotinic (Nm)** receptors at the Neuromuscular Junction (NMJ).
                 "Atracurium",
                 "Succinylcholine"
             ],
-            answer: 4,
-            explanation: "**Succinylcholine** causes depolarization and K+ efflux. In burn patients (upregulated receptors), this can cause massive hyperkalemia and cardiac arrest."
+            correctAnswer: 4,
+            rationale: "**Succinylcholine** causes depolarization and K+ efflux. In burn patients (upregulated receptors), this can cause massive hyperkalemia and cardiac arrest."
         },
         {
             question: "The use of Neostigmine to reverse neuromuscular blockade can cause bradycardia. Which drug is co-administered to prevent this?",
@@ -138,8 +138,8 @@ Target **Nicotinic (Nm)** receptors at the Neuromuscular Junction (NMJ).
                 "Epinephrine",
                 "Dantrolene"
             ],
-            answer: 2,
-            explanation: "**Neostigmine** increases ACh everywhere (Muscarinic + Nicotinic). **Atropine** is given to block the Muscarinic effects (Bradycardia) while allowing Nicotinic effects (Muscle strength)."
+            correctAnswer: 2,
+            rationale: "**Neostigmine** increases ACh everywhere (Muscarinic + Nicotinic). **Atropine** is given to block the Muscarinic effects (Bradycardia) while allowing Nicotinic effects (Muscle strength)."
         }
     ],
     flashcards: [

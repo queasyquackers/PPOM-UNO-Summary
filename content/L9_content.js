@@ -116,8 +116,8 @@ The brainstem can inhibit incoming pain signals (Pain Inhibits Pain).
                 "Medullary Pyramids",
                 "Internal Capsule"
             ],
-            answer: 2,
-            explanation: "Locked-in syndrome is caused by a lesion to the ventral pons (basis pontis), destroying corticospinal and corticobulbar tracts. Consciousness is preserved because the **Reticular Activating System (ARAS)** located in the dorsal **tegmentum** is spared."
+            correctAnswer: 2,
+            rationale: "Locked-in syndrome is caused by a lesion to the ventral pons (basis pontis), destroying corticospinal and corticobulbar tracts. Consciousness is preserved because the **Reticular Activating System (ARAS)** located in the dorsal **tegmentum** is spared."
         },
         {
             question: "Which neurotransmitter is synthesized primarily in the Locus Coeruleus?",
@@ -128,8 +128,8 @@ The brainstem can inhibit incoming pain signals (Pain Inhibits Pain).
                 "Norepinephrine",
                 "Histamine"
             ],
-            answer: 3,
-            explanation: "The **Locus Coeruleus** is the primary site of **Norepinephrine (NE)** synthesis in the brainstem, involved in arousal and attention."
+            correctAnswer: 3,
+            rationale: "The **Locus Coeruleus** is the primary site of **Norepinephrine (NE)** synthesis in the brainstem, involved in arousal and attention."
         },
         {
             question: "A comatose patient exhibits abnormal posturing with extension of both upper and lower extremities to painful stimuli. This 'Decerebrate' rigidity suggests a lesion at which level?",
@@ -140,8 +140,8 @@ The brainstem can inhibit incoming pain signals (Pain Inhibits Pain).
                 "Spinal Cord",
                 "Thalamus"
             ],
-            answer: 2,
-            explanation: "**Decerebrate** rigidity (extension of all limbs) implies a lesion **at or below the Red Nucleus** (midbrain/upper pons), removing rubrospinal influence and leaving vestibulospinal extension unchecked."
+            correctAnswer: 2,
+            rationale: "**Decerebrate** rigidity (extension of all limbs) implies a lesion **at or below the Red Nucleus** (midbrain/upper pons), removing rubrospinal influence and leaving vestibulospinal extension unchecked."
         },
         {
             question: "A 25-year-old male complains of excessive daytime sleepiness and episodes of sudden muscle weakness when laughing (cataplexy). A deficiency in which neuropeptide is likely?",
@@ -152,8 +152,8 @@ The brainstem can inhibit incoming pain signals (Pain Inhibits Pain).
                 "Dopamine",
                 "Melatonin"
             ],
-            answer: 2,
-            explanation: "Narcolepsy with cataplexy is classically caused by a loss of **Hypocretin (Orexin)** neurons in the lateral hypothalamus."
+            correctAnswer: 2,
+            rationale: "Narcolepsy with cataplexy is classically caused by a loss of **Hypocretin (Orexin)** neurons in the lateral hypothalamus."
         },
         {
             question: "Which drug class treats chronic neuropathic pain by enhancing the descending pain inhibitory pathway from the brainstem?",
@@ -164,8 +164,8 @@ The brainstem can inhibit incoming pain signals (Pain Inhibits Pain).
                 "Dopamine Agonists",
                 "Antihistamines"
             ],
-            answer: 2,
-            explanation: "**SNRIs (like Duloxetine)** and TCAs are effective for neuropathic pain because they inhibit reuptake of **Norepinephrine** and **Serotonin**, enhancing the descending inhibitory signals from the RVM/PAG to the spinal cord."
+            correctAnswer: 2,
+            rationale: "**SNRIs (like Duloxetine)** and TCAs are effective for neuropathic pain because they inhibit reuptake of **Norepinephrine** and **Serotonin**, enhancing the descending inhibitory signals from the RVM/PAG to the spinal cord."
         }
     ],
     flashcards: [

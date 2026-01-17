@@ -90,8 +90,8 @@ export const L24_CONTENT = {
                 "Turner Syndrome",
                 "Uncinate Epilepsy"
             ],
-            answer: 1,
-            explanation: "**Kallmann Syndrome** is characterized by hypogonadotropic hypogonadism (delayed puberty) and **anosmia** due to migration failure of GnRH neurons."
+            correctAnswer: 1,
+            rationale: "**Kallmann Syndrome** is characterized by hypogonadotropic hypogonadism (delayed puberty) and **anosmia** due to migration failure of GnRH neurons."
         },
         {
             question: "A patient presents with seizures preceded by a hallucination of a foul smell (burning rubber). Where is the seizure focus likely located?",
@@ -102,8 +102,8 @@ export const L24_CONTENT = {
                 "Frontal Lobe",
                 "Cerebellum"
             ],
-            answer: 2,
-            explanation: "**Uncinate fits** are temporal lobe seizures involving the **Uncus** (primary olfactory cortex area), resulting in olfactory hallucinations (**Cacosmia**)."
+            correctAnswer: 2,
+            rationale: "**Uncinate fits** are temporal lobe seizures involving the **Uncus** (primary olfactory cortex area), resulting in olfactory hallucinations (**Cacosmia**)."
         },
         {
             question: "Which cranial nerve is responsible for taste sensation on the anterior two-thirds of the tongue?",
@@ -114,8 +114,8 @@ export const L24_CONTENT = {
                 "Vagus (X)",
                 "Hypoglossal (XII)"
             ],
-            answer: 1,
-            explanation: "The **Facial Nerve (CN VII)** carries taste from the anterior 2/3 of the tongue (via the Chorda Tympani)."
+            correctAnswer: 1,
+            rationale: "The **Facial Nerve (CN VII)** carries taste from the anterior 2/3 of the tongue (via the Chorda Tympani)."
         },
         {
             question: "A 55-year-old woman presents with loss of smell in her right ear and vision loss in her right eye. Fundoscopy reveals right optic atrophy and left papilledema. What is the most likely diagnosis?",
@@ -126,8 +126,8 @@ export const L24_CONTENT = {
                 "Occipital Stroke",
                 "Glioblastoma Multiforme"
             ],
-            answer: 1,
-            explanation: "**Foster-Kennedy Syndrome** (Olfactory Groove Meningioma) causes **ipsilateral anosmia and optic atrophy** (direct compression) and **contralateral papilledema** (ICP)."
+            correctAnswer: 1,
+            rationale: "**Foster-Kennedy Syndrome** (Olfactory Groove Meningioma) causes **ipsilateral anosmia and optic atrophy** (direct compression) and **contralateral papilledema** (ICP)."
         },
         {
             question: "Loss of olfaction is often an early prodromal sign of which neurodegenerative disorder?",
@@ -138,8 +138,8 @@ export const L24_CONTENT = {
                 "Multiple Sclerosis",
                 "Myasthenia Gravis"
             ],
-            answer: 1,
-            explanation: "**Hyposmia** (loss of smell) frequently precedes motor symptoms in **Parkinson's Disease** (and Alzheimer's) by several years."
+            correctAnswer: 1,
+            rationale: "**Hyposmia** (loss of smell) frequently precedes motor symptoms in **Parkinson's Disease** (and Alzheimer's) by several years."
         }
     ],
     flashcards: [

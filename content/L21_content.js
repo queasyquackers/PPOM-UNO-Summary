@@ -89,8 +89,8 @@ export const L21_CONTENT = {
                 "Ibuprofen",
                 "Pseudoephedrine"
             ],
-            answer: 2,
-            explanation: "**Diphenhydramine** has strong **anticholinergic** properties, which can precipitate urinary retention in patients with BPH."
+            correctAnswer: 2,
+            rationale: "**Diphenhydramine** has strong **anticholinergic** properties, which can precipitate urinary retention in patients with BPH."
         },
         {
             question: "Why is Atropine contraindicated in patients with Narrow-Angle Glaucoma?",
@@ -101,8 +101,8 @@ export const L21_CONTENT = {
                 "It causes cataract formation",
                 "It lowers intraocular pressure too much"
             ],
-            answer: 2,
-            explanation: "Atropine causes **Mydriasis** (dilation). In narrow-angle glaucoma, the bunched-up iris blocks the trabecular meshwork, dangerously increasing pressure."
+            correctAnswer: 2,
+            rationale: "Atropine causes **Mydriasis** (dilation). In narrow-angle glaucoma, the bunched-up iris blocks the trabecular meshwork, dangerously increasing pressure."
         },
         {
             question: "To prevent motion sickness, a patient applies a Transderm Scop patch. What is the active drug and its mechanism?",
@@ -113,8 +113,8 @@ export const L21_CONTENT = {
                 "Ondansetron; 5-HT3 Antagonist",
                 "Metoclopramide; D2 Antagonist"
             ],
-            answer: 0,
-            explanation: "**Scopolamine** is a **Muscarinic Antagonist** used transdermally for motion sickness prevention."
+            correctAnswer: 0,
+            rationale: "**Scopolamine** is a **Muscarinic Antagonist** used transdermally for motion sickness prevention."
         },
         {
             question: "Which drug is used to treat tremors in Parkinson's disease by restoring the balance between Acetylcholine and Dopamine?",
@@ -125,8 +125,8 @@ export const L21_CONTENT = {
                 "Oxybutynin",
                 "Succinylcholine"
             ],
-            answer: 2,
-            explanation: "**Benztropine** is a centrally acting antimuscarinic used to treat Parkinsonian tremors (Parkinson's = Low Dopamine + High ACh)."
+            correctAnswer: 2,
+            rationale: "**Benztropine** is a centrally acting antimuscarinic used to treat Parkinsonian tremors (Parkinson's = Low Dopamine + High ACh)."
         },
         {
             question: "A child presents with flushed skin, dry mouth, dilated pupils, and tachycardia after eating berries from a garden plant. The most likely plant is:",
@@ -137,8 +137,8 @@ export const L21_CONTENT = {
                 "Poison Ivy",
                 "Mushrooms (Muscarine)"
             ],
-            answer: 1,
-            explanation: "**Jimson Weed** (Datura stramonium) contains belladonna alkaloids (Atropine/Scopolamine) causing the classic anticholinergic toxidrome."
+            correctAnswer: 1,
+            rationale: "**Jimson Weed** (Datura stramonium) contains belladonna alkaloids (Atropine/Scopolamine) causing the classic anticholinergic toxidrome."
         }
     ],
     flashcards: [

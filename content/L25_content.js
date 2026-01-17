@@ -83,8 +83,8 @@ export const L25_CONTENT = {
                 "Superior Quadrantanopia",
                 "Macular Degeneration"
             ],
-            answer: 2,
-            explanation: "Compression of the **Optic Chiasm** (e.g., Pituitary Adenoma) affects crossing nasal fibers, leading to loss of both temporal visual fields (**Bitemporal Hemianopsia**)."
+            correctAnswer: 2,
+            rationale: "Compression of the **Optic Chiasm** (e.g., Pituitary Adenoma) affects crossing nasal fibers, leading to loss of both temporal visual fields (**Bitemporal Hemianopsia**)."
         },
         {
             question: "A patient who suffered a stroke can see perfectly well but cannot recognize the faces of his family members. Where is the lesion located?",
@@ -95,8 +95,8 @@ export const L25_CONTENT = {
                 "Frontal Eye Fields",
                 "Cerebellum"
             ],
-            answer: 2,
-            explanation: "**Prosopagnosia** (face blindness) results from damage to the **Ventral Stream ('What' pathway)** in the inferior temporal lobe (Fusiform Gyrus)."
+            correctAnswer: 2,
+            rationale: "**Prosopagnosia** (face blindness) results from damage to the **Ventral Stream ('What' pathway)** in the inferior temporal lobe (Fusiform Gyrus)."
         },
         {
             question: "To view a near object (accommodation), which of the following occurs?",
@@ -107,8 +107,8 @@ export const L25_CONTENT = {
                 "Ciliary muscle relaxes, Zonules relax, Lens flattens",
                 "Pupil dilates"
             ],
-            answer: 2,
-            explanation: "For near vision: Ciliary muscle **contracts** (moves closer to lens), causing zonule fibers to **relax** (slacken), allowing the lens to spring into a **rounder** shape."
+            correctAnswer: 2,
+            rationale: "For near vision: Ciliary muscle **contracts** (moves closer to lens), causing zonule fibers to **relax** (slacken), allowing the lens to spring into a **rounder** shape."
         },
         {
             question: "A patient has a 'Pie in the Sky' visual field defect (Right Superior Quadrantanopia). Where is the lesion?",
@@ -119,8 +119,8 @@ export const L25_CONTENT = {
                 "Left Temporal Lobe (Meyer's Loop)",
                 "Optic Chiasm"
             ],
-            answer: 3,
-            explanation: "A **Right** visual field defect implies a **Left** sided lesion. 'Pie in the Sky' (Superior) implies **Meyer's Loop** (Temporal Lobe). So: **Left Temporal Lobe**."
+            correctAnswer: 3,
+            rationale: "A **Right** visual field defect implies a **Left** sided lesion. 'Pie in the Sky' (Superior) implies **Meyer's Loop** (Temporal Lobe). So: **Left Temporal Lobe**."
         },
         {
             question: "Which finding distinguishes an Occipital Lobe stroke (PCA territory) from an Optic Tract lesion?",
@@ -131,8 +131,8 @@ export const L25_CONTENT = {
                 "Color blindness",
                 "Bitemporal loss"
             ],
-            answer: 1,
-            explanation: "**Macular Sparing** is characteristic of cortical (Occipital/PCA) strokes because the macula receives collateral blood supply from the MCA. Optic tract lesions do not spare the macula."
+            correctAnswer: 1,
+            rationale: "**Macular Sparing** is characteristic of cortical (Occipital/PCA) strokes because the macula receives collateral blood supply from the MCA. Optic tract lesions do not spare the macula."
         }
     ],
     flashcards: [

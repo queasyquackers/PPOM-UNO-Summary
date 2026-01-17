@@ -87,8 +87,8 @@ export const L36_CONTENT = {
                 "Left Facial Nerve",
                 "Right Trigeminal Nerve"
             ],
-            answer: 2,
-            explanation: "**Right Facial Nerve (LMN)** lesion causes Bell's Palsy (Whole hemiface paralysis) and Hyperacusis (loss of Stapedius)."
+            correctAnswer: 2,
+            rationale: "**Right Facial Nerve (LMN)** lesion causes Bell's Palsy (Whole hemiface paralysis) and Hyperacusis (loss of Stapedius)."
         },
         {
             question: "A patient sticks out their tongue, and it deviates to the LEFT. There is atrophy of the left side of the tongue. Which nerve is injured?",
@@ -99,8 +99,8 @@ export const L36_CONTENT = {
                 "Left CN X",
                 "Left CN VII"
             ],
-            answer: 1,
-            explanation: "The tongue deviates **TOWARD** the side of the lesion (Lick your wounds). Left deviation + Atrophy = **Left CN XII** (LMN) lesion."
+            correctAnswer: 1,
+            rationale: "The tongue deviates **TOWARD** the side of the lesion (Lick your wounds). Left deviation + Atrophy = **Left CN XII** (LMN) lesion."
         },
         {
             question: "In Lateral Medullary Syndrome (Wallenberg), which nucleus is responsible for the characteristic dysphagia and hoarseness?",
@@ -111,8 +111,8 @@ export const L36_CONTENT = {
                 "Hypoglossal Nucleus",
                 "Spinal Trigeminal Nucleus"
             ],
-            answer: 1,
-            explanation: "**Nucleus Ambiguus** provides motor innervation to the pharynx and larynx (via IX and X). Damage causes dysphagia and hoarseness."
+            correctAnswer: 1,
+            rationale: "**Nucleus Ambiguus** provides motor innervation to the pharynx and larynx (via IX and X). Damage causes dysphagia and hoarseness."
         },
         {
             question: "Loss of the afferent limb of the corneal reflex would result from damage to which cranial nerve?",
@@ -123,8 +123,8 @@ export const L36_CONTENT = {
                 "CN VII",
                 "CN VIII"
             ],
-            answer: 2,
-            explanation: "The afferent (sensing) limb of the corneal reflex is **CN V1** (Ophthalmic division of Trigeminal). The efferent (blinking) is CN VII."
+            correctAnswer: 2,
+            rationale: "The afferent (sensing) limb of the corneal reflex is **CN V1** (Ophthalmic division of Trigeminal). The efferent (blinking) is CN VII."
         },
         {
             question: "A patient has loss of pain and temperature sensation on the RIGHT side of the face and the LEFT side of the body. This 'crossed' sensory deficit suggests a lesion in the:",
@@ -135,8 +135,8 @@ export const L36_CONTENT = {
                 "Left Medial Medulla",
                 "Right Thalamus"
             ],
-            answer: 0,
-            explanation: "Crossed findings (Ipsi Face, Contra Body) are a hallmark of brainstem lesions. **Right Lateral Medulla** hits Right Spinal V (Face) and Right Spinothalamic (carrying Left Body info)."
+            correctAnswer: 0,
+            rationale: "Crossed findings (Ipsi Face, Contra Body) are a hallmark of brainstem lesions. **Right Lateral Medulla** hits Right Spinal V (Face) and Right Spinothalamic (carrying Left Body info)."
         }
     ],
     flashcards: [

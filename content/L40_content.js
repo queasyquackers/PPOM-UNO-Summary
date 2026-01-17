@@ -79,8 +79,8 @@ export const L40_CONTENT = {
                 "Posterior Column Syndrome",
                 "Cauda Equina Syndrome"
             ],
-            answer: 1,
-            explanation: "**Central Cord Syndrome** (Syringomyelia) expands from the central canal, disrupting the crossing Spinothalamic fibers first, causing the cape-like dissociation."
+            correctAnswer: 1,
+            rationale: "**Central Cord Syndrome** (Syringomyelia) expands from the central canal, disrupting the crossing Spinothalamic fibers first, causing the cape-like dissociation."
         },
         {
             question: "Following a stab wound to the right side of the spinal cord (Hemisection) at T10, which finding would be expected?",
@@ -91,8 +91,8 @@ export const L40_CONTENT = {
                 "Loss of pain and temperature on the Left leg",
                 "Bilateral loss of all sensation"
             ],
-            answer: 3,
-            explanation: "**Brown-Séquard:** Contralateral loss of Pain/Temp. Right lesion $\\to$ **Left** leg Pain/Temp loss. (Right leg would lose Motor/Vibe)."
+            correctAnswer: 3,
+            rationale: "**Brown-Séquard:** Contralateral loss of Pain/Temp. Right lesion $\\to$ **Left** leg Pain/Temp loss. (Right leg would lose Motor/Vibe)."
         },
         {
             question: "A patient recovering from abdominal aortic aneurysm repair develops bilateral leg paralysis and loss of pain sensation, but preserves vibration sense. The most likely diagnosis is:",
@@ -103,8 +103,8 @@ export const L40_CONTENT = {
                 "Tabes Dorsalis",
                 "Guillain-Barré Syndrome"
             ],
-            answer: 1,
-            explanation: "**Anterior Spinal Artery** supplies the anterior 2/3 (Motor + Spinothalamic). Infarct causes Anterior Cord Syndrome (Paralysis + Pain loss) with **Dorsal Column sparing** (Vibe intact)."
+            correctAnswer: 1,
+            rationale: "**Anterior Spinal Artery** supplies the anterior 2/3 (Motor + Spinothalamic). Infarct causes Anterior Cord Syndrome (Paralysis + Pain loss) with **Dorsal Column sparing** (Vibe intact)."
         },
         {
             question: "Which of the following creates a 'Saturday Night Palsy' causing wrist drop?",
@@ -115,8 +115,8 @@ export const L40_CONTENT = {
                 "Common Peroneal compression at fibular head",
                 "Sciatic Nerve compression"
             ],
-            answer: 2,
-            explanation: "**Radial Nerve** compression at the spiral groove (humerus), often from falling asleep with arm over a chair ('Saturday Night'), causes **Wrist Drop**."
+            correctAnswer: 2,
+            rationale: "**Radial Nerve** compression at the spiral groove (humerus), often from falling asleep with arm over a chair ('Saturday Night'), causes **Wrist Drop**."
         },
         {
             question: "Subacute Combined Degeneration of the spinal cord involves demyelination of the Posterior Columns and Corticospinal Tracts due to deficiency of:",
@@ -127,8 +127,8 @@ export const L40_CONTENT = {
                 "Vitamin E",
                 "Copper"
             ],
-            answer: 2,
-            explanation: "**Vitamin B12** deficiency (or Nitrous Oxide toxicity) causes Subacute Combined Degeneration."
+            correctAnswer: 2,
+            rationale: "**Vitamin B12** deficiency (or Nitrous Oxide toxicity) causes Subacute Combined Degeneration."
         }
     ],
     flashcards: [

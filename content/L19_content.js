@@ -98,8 +98,8 @@ export const L19_CONTENT = {
                 "Pilocarpine",
                 "Nicotine"
             ],
-            answer: 2,
-            explanation: "**Bethanechol** is a direct muscarinic agonist with selectivity for the bladder/GI, used to treat non-obstructive urinary retention."
+            correctAnswer: 2,
+            rationale: "**Bethanechol** is a direct muscarinic agonist with selectivity for the bladder/GI, used to treat non-obstructive urinary retention."
         },
         {
             question: "A patient being treated for Sjogren's syndrome complains of excessive sweating and diarrhea. This is likely due to which medication?",
@@ -110,8 +110,8 @@ export const L19_CONTENT = {
                 "Ipratropium",
                 "Varenicline"
             ],
-            answer: 0,
-            explanation: "**Pilocarpine** is used to increase salivation in Sjogren's but is non-selective, causing systemic muscarinic side effects like **sweating** (diaphoresis) and diarrhea."
+            correctAnswer: 0,
+            rationale: "**Pilocarpine** is used to increase salivation in Sjogren's but is non-selective, causing systemic muscarinic side effects like **sweating** (diaphoresis) and diarrhea."
         },
         {
             question: "Which drug acts as a partial agonist at nicotinic receptors to aid in smoking cessation?",
@@ -122,8 +122,8 @@ export const L19_CONTENT = {
                 "Methacholine",
                 "Carbachol"
             ],
-            answer: 1,
-            explanation: "**Varenicline** is a partial agonist at $\\alpha_4\\beta_2$ nicotinic receptors, reducing cravings and withdrawal symptoms."
+            correctAnswer: 1,
+            rationale: "**Varenicline** is a partial agonist at $\\alpha_4\\beta_2$ nicotinic receptors, reducing cravings and withdrawal symptoms."
         },
         {
             question: "Methacholine is primarily used clinically for:",
@@ -134,8 +134,8 @@ export const L19_CONTENT = {
                 "Smoking Cessation",
                 "Treating Alzheimer's"
             ],
-            answer: 1,
-            explanation: "**Methacholine** is used in the bronchoprovocation challenge test to **diagnose asthma**."
+            correctAnswer: 1,
+            rationale: "**Methacholine** is used in the bronchoprovocation challenge test to **diagnose asthma**."
         },
         {
             question: "Direct-acting cholinomimetics should be avoided in patients with which condition?",
@@ -146,8 +146,8 @@ export const L19_CONTENT = {
                 "Constipation",
                 "Hypertension"
             ],
-            answer: 2,
-            explanation: "Muscarinic agonists increase gastric acid secretion, which can exacerbate **Peptic Ulcer Disease**."
+            correctAnswer: 2,
+            rationale: "Muscarinic agonists increase gastric acid secretion, which can exacerbate **Peptic Ulcer Disease**."
         }
     ],
     flashcards: [

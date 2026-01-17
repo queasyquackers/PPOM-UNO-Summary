@@ -85,8 +85,8 @@ export const L35_CONTENT = {
                 "Right CN VI",
                 "Left CN VI"
             ],
-            answer: 2,
-            explanation: "Vertical diplopia (stairs problem) suggests **CN IV (Trochlear)** palsy. The head tilts **AWAY** from the lesion. Left tilt = **Right** CN IV lesion."
+            correctAnswer: 2,
+            rationale: "Vertical diplopia (stairs problem) suggests **CN IV (Trochlear)** palsy. The head tilts **AWAY** from the lesion. Left tilt = **Right** CN IV lesion."
         },
         {
             question: "A patient cannot look to the right with the right eye. When attempting to look right, the left eye also fails to adduct. Convergence is intact. Where is the lesion?",
@@ -97,8 +97,8 @@ export const L35_CONTENT = {
                 "Left MLF",
                 "Right PPRF"
             ],
-            answer: 2,
-            explanation: "This is a **Right Abducens Nucleus** lesion. It knocks out the Right LR (Can't look right) AND the signal to the Left MR (via MLF), causing a gaze palsy to that side. (A simple nerve lesion would only affect the Right LR)."
+            correctAnswer: 2,
+            rationale: "This is a **Right Abducens Nucleus** lesion. It knocks out the Right LR (Can't look right) AND the signal to the Left MR (via MLF), causing a gaze palsy to that side. (A simple nerve lesion would only affect the Right LR)."
         },
         {
             question: "In Internuclear Ophthalmoplegia (INO), the lesion is located in the:",
@@ -109,8 +109,8 @@ export const L35_CONTENT = {
                 "Superior Colliculus",
                 "Lateral Geniculate Nucleus"
             ],
-            answer: 2,
-            explanation: "**INO** is caused by damage to the **MLF**, disconnecting the Abducens nucleus from the contralateral Oculomotor nucleus."
+            correctAnswer: 2,
+            rationale: "**INO** is caused by damage to the **MLF**, disconnecting the Abducens nucleus from the contralateral Oculomotor nucleus."
         },
         {
             question: "Which cranial nerve contains the parasympathetic fibers responsible for pupillary constriction?",
@@ -121,8 +121,8 @@ export const L35_CONTENT = {
                 "Trigeminal (V)",
                 "Abducens (VI)"
             ],
-            answer: 1,
-            explanation: "**CN III (Oculomotor)** carries parasympathetics from the Edinger-Westphal nucleus to the ciliary ganglion for miosis and accommodation."
+            correctAnswer: 1,
+            rationale: "**CN III (Oculomotor)** carries parasympathetics from the Edinger-Westphal nucleus to the ciliary ganglion for miosis and accommodation."
         },
         {
             question: "Anosmia is an early and often overlooked clinical sign of which neurodegenerative disorder?",
@@ -133,8 +133,8 @@ export const L35_CONTENT = {
                 "ALS",
                 "Multiple Sclerosis"
             ],
-            answer: 1,
-            explanation: "**Parkinson's Disease** is strongly associated with early Anosmia due to Lewy Body deposition in the olfactory bulb."
+            correctAnswer: 1,
+            rationale: "**Parkinson's Disease** is strongly associated with early Anosmia due to Lewy Body deposition in the olfactory bulb."
         }
     ],
     flashcards: [

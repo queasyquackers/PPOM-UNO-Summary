@@ -89,8 +89,8 @@ Indirect-acting agents inhibit **Acetylcholinesterase (AChE)**, increasing the c
                 "Neostigmine",
                 "Pilocarpine"
             ],
-            answer: 2,
-            explanation: "**Atropine** is the first-line antidote for the life-threatening **muscarinic** effects (bronchorrhea, bronchospasm, bradycardia) of organophosphate poisoning."
+            correctAnswer: 2,
+            rationale: "**Atropine** is the first-line antidote for the life-threatening **muscarinic** effects (bronchorrhea, bronchospasm, bradycardia) of organophosphate poisoning."
         },
         {
             question: "Which drug is an appropriate treatment for Alzheimer's disease?",
@@ -101,8 +101,8 @@ Indirect-acting agents inhibit **Acetylcholinesterase (AChE)**, increasing the c
                 "Edrophonium",
                 "Pilocarpine"
             ],
-            answer: 2,
-            explanation: "**Donepezil** is a centrally acting AChE inhibitor used for Alzheimer's. (Neostigmine/Pyridostigmine do not cross the BBB)."
+            correctAnswer: 2,
+            rationale: "**Donepezil** is a centrally acting AChE inhibitor used for Alzheimer's. (Neostigmine/Pyridostigmine do not cross the BBB)."
         },
         {
             question: "A child ingests his grandmother's eye drops (Atropine) and develops hot, red skin, dilated pupils, and delirium. Which antidote can reverse the CNS delirium?",
@@ -113,8 +113,8 @@ Indirect-acting agents inhibit **Acetylcholinesterase (AChE)**, increasing the c
                 "Donepezil",
                 "Edrophonium"
             ],
-            answer: 1,
-            explanation: "The patient has Anticholinergic toxicity ('Mad as a hatter'). **Physostigmine** is a tertiary amine that crosses the BBB to reverse CNS toxicity."
+            correctAnswer: 1,
+            rationale: "The patient has Anticholinergic toxicity ('Mad as a hatter'). **Physostigmine** is a tertiary amine that crosses the BBB to reverse CNS toxicity."
         },
         {
             question: "What is the mechanism of action of Pralidoxime (2-PAM)?",
@@ -125,8 +125,8 @@ Indirect-acting agents inhibit **Acetylcholinesterase (AChE)**, increasing the c
                 "Inhibits Acetylcholine release",
                 "Directly activates GABA receptors"
             ],
-            answer: 2,
-            explanation: "**Pralidoxime** is a cholinesterase regenerator. It breaks the bond between the organophosphate and the enzyme (if given before aging)."
+            correctAnswer: 2,
+            rationale: "**Pralidoxime** is a cholinesterase regenerator. It breaks the bond between the organophosphate and the enzyme (if given before aging)."
         },
         {
             question: "Which drug is preferred for long-term oral management of Myasthenia Gravis?",
@@ -137,8 +137,8 @@ Indirect-acting agents inhibit **Acetylcholinesterase (AChE)**, increasing the c
                 "Echothiophate",
                 "Acetylcholine"
             ],
-            answer: 2,
-            explanation: "**Pyridostigmine** has a longer duration of action (4-6h) and is oral, making it ideal for maintenance therapy in **Myasthenia Gravis**."
+            correctAnswer: 2,
+            rationale: "**Pyridostigmine** has a longer duration of action (4-6h) and is oral, making it ideal for maintenance therapy in **Myasthenia Gravis**."
         }
     ],
     flashcards: [

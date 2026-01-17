@@ -77,8 +77,8 @@ export const L30_CONTENT = {
                 "Left Facial Nucleus",
                 "Right Trigeminal Nerve"
             ],
-            answer: 2,
-            explanation: "Weakness of the **entire** hemiface (forehead + chin) indicates an **LMN** lesion (Bell's Palsy or CN VII injury) on the **same side**."
+            correctAnswer: 2,
+            rationale: "Weakness of the **entire** hemiface (forehead + chin) indicates an **LMN** lesion (Bell's Palsy or CN VII injury) on the **same side**."
         },
         {
             question: "A comatose patient exhibits extension of both the upper and lower extremities when stimulated. This posturing suggests a lesion located:",
@@ -89,8 +89,8 @@ export const L30_CONTENT = {
                 "In the Thalamus",
                 "In the Cerebellum"
             ],
-            answer: 1,
-            explanation: "Extension of all limbs is **Decerebrate** posturing, which occurs with lesions **below** the Red Nucleus (rubrospinal tract lost)."
+            correctAnswer: 1,
+            rationale: "Extension of all limbs is **Decerebrate** posturing, which occurs with lesions **below** the Red Nucleus (rubrospinal tract lost)."
         },
         {
             question: "Which of the following is a classic sign of an Upper Motor Neuron (UMN) lesion?",
@@ -101,8 +101,8 @@ export const L30_CONTENT = {
                 "Babinski Sign",
                 "Flaccidity"
             ],
-            answer: 3,
-            explanation: "**Babinski sign** (extensor plantar response) is a hallmark of **UMN** dysfunction. The others are LMN signs."
+            correctAnswer: 3,
+            rationale: "**Babinski sign** (extensor plantar response) is a hallmark of **UMN** dysfunction. The others are LMN signs."
         },
         {
             question: "A patient suffers a stroke affecting the Left Primary Motor Cortex. The tongue deviates to which side upon protrusion?",
@@ -113,8 +113,8 @@ export const L30_CONTENT = {
                 "Upward",
                 "Downward"
             ],
-            answer: 1,
-            explanation: "With a **UMN** lesion (Left Cortex), the tongue deviates **AWAY** from the lesion (towards the weak side). So it points to the **Right**.\\n*Wait, let me double check my pearl... LMN = Toward. UMN = Away. Correct. So Left Cortex lesion -> Right Genioglossus weak -> Tongue points Right. Correct Answer is Right.* (Options: Left/Right)."
+            correctAnswer: 1,
+            rationale: "With a **UMN** lesion (Left Cortex), the tongue deviates **AWAY** from the lesion (towards the weak side). So it points to the **Right**.\\n*Wait, let me double check my pearl... LMN = Toward. UMN = Away. Correct. So Left Cortex lesion -> Right Genioglossus weak -> Tongue points Right. Correct Answer is Right.* (Options: Left/Right)."
         },
         {
             question: "Which tract is primarily responsible for voluntary fine motor control of the distal upper extremities?",
@@ -125,8 +125,8 @@ export const L30_CONTENT = {
                 "Reticulospinal Tract",
                 "Tectospinal Tract"
             ],
-            answer: 1,
-            explanation: "The **Lateral Corticospinal Tract** controls distal muscles (hands/fingers). The Ventral tract controls axial muscles."
+            correctAnswer: 1,
+            rationale: "The **Lateral Corticospinal Tract** controls distal muscles (hands/fingers). The Ventral tract controls axial muscles."
         }
     ],
     flashcards: [

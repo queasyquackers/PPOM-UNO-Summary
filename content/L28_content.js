@@ -77,8 +77,8 @@ export const L28_CONTENT = {
                 "Vascular Dementia",
                 "Parkinson's Disease"
             ],
-            answer: 1,
-            explanation: "The combination of **Disinhibition** (gambling, inappropriate behavior) + Personality change + MAPT mutation + Early onset (55y) points to **Frontotemporal Dementia**."
+            correctAnswer: 1,
+            rationale: "The combination of **Disinhibition** (gambling, inappropriate behavior) + Personality change + MAPT mutation + Early onset (55y) points to **Frontotemporal Dementia**."
         },
         {
             question: "A patient cannot distinguish their left hand from their right hand and has lost the ability to perform simple addition. Where is the lesion most likely located?",
@@ -89,8 +89,8 @@ export const L28_CONTENT = {
                 "Left Frontal Lobe",
                 "Occipital Lobe"
             ],
-            answer: 1,
-            explanation: "This is **Gerstmann Syndrome** (Acalculia, L-R confusion). The lesion is in the dominant (usually **Left**) **Angular Gyrus** (Inferior Parietal Lobule)."
+            correctAnswer: 1,
+            rationale: "This is **Gerstmann Syndrome** (Acalculia, L-R confusion). The lesion is in the dominant (usually **Left**) **Angular Gyrus** (Inferior Parietal Lobule)."
         },
         {
             question: "Electrical stimulation of which brain region is most likely to elicit a sensation of 'bad taste' or disgust?",
@@ -101,8 +101,8 @@ export const L28_CONTENT = {
                 "Broca's Area",
                 "Wernicke's Area"
             ],
-            answer: 2,
-            explanation: "The **Insula** processes Gustatory (taste) and visceral information, including feelings of **disgust**."
+            correctAnswer: 2,
+            rationale: "The **Insula** processes Gustatory (taste) and visceral information, including feelings of **disgust**."
         },
         {
             question: "A patient recovering from a stroke combs only the right side of their hair and eats only food on the right side of their tray. Which artery was likely occluded?",
@@ -113,8 +113,8 @@ export const L28_CONTENT = {
                 "Right ACA",
                 "Basilar Artery"
             ],
-            answer: 1,
-            explanation: "This is **Hemispatial Neglect** (ignoring the Left side). The lesion is in the **Right Parietal Lobe**, supplied by the **Right MCA**."
+            correctAnswer: 1,
+            rationale: "This is **Hemispatial Neglect** (ignoring the Left side). The lesion is in the **Right Parietal Lobe**, supplied by the **Right MCA**."
         },
         {
             question: "Damage to Frontal Area 8 would most likely result in a deficit of:",
@@ -125,8 +125,8 @@ export const L28_CONTENT = {
                 "Hearing",
                 "Fine motor control of the hand"
             ],
-            answer: 2,
-            explanation: "Frontal Area 8 corresponds to the **Frontal Eye Fields**, which control voluntary rapid eye movements (**saccades**)."
+            correctAnswer: 2,
+            rationale: "Frontal Area 8 corresponds to the **Frontal Eye Fields**, which control voluntary rapid eye movements (**saccades**)."
         }
     ],
     flashcards: [

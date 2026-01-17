@@ -83,8 +83,8 @@ export const L43_CONTENT = {
                 "Blockade of alpha-4 integrin",
                 "Depletion of CD20 B cells"
             ],
-            answer: 1,
-            explanation: "**Dimethyl Fumarate** activates the **Nrf2** antioxidant pathway. Its most common side effects are **Flushing** and GI upset."
+            correctAnswer: 1,
+            rationale: "**Dimethyl Fumarate** activates the **Nrf2** antioxidant pathway. Its most common side effects are **Flushing** and GI upset."
         },
         {
             question: "A patient being treated for MS develops Progressive Multifocal Leukoencephalopathy (PML). Which drug mechanism is associated with this complication?",
@@ -95,8 +95,8 @@ export const L43_CONTENT = {
                 "Baclofen",
                 "Methylprednisolone"
             ],
-            answer: 2,
-            explanation: "**Natalizumab** blocks alpha-4 integrin, preventing immune surveillance in the CNS, allowing **JC Virus** reactivation (PML)."
+            correctAnswer: 2,
+            rationale: "**Natalizumab** blocks alpha-4 integrin, preventing immune surveillance in the CNS, allowing **JC Virus** reactivation (PML)."
         },
         {
             question: "Which medication helps improve walking speed in MS patients by blocking potassium channels?",
@@ -107,8 +107,8 @@ export const L43_CONTENT = {
                 "Modafinil",
                 "Amantadine"
             ],
-            answer: 1,
-            explanation: "**Dalfampridine** blocks voltage-gated **Potassium channels**, increasing action potential duration and improving conduction."
+            correctAnswer: 1,
+            rationale: "**Dalfampridine** blocks voltage-gated **Potassium channels**, increasing action potential duration and improving conduction."
         },
         {
             question: "Before starting a patient on Fingolimod, which baseline test is most critical?",
@@ -119,8 +119,8 @@ export const L43_CONTENT = {
                 "Pulmonary Function Tests",
                 "Thyroid Stimulating Hormone"
             ],
-            answer: 2,
-            explanation: "**Fingolimod** can cause significant **Bradycardia** and heart block after the first dose. Observation and EKG monitoring are required."
+            correctAnswer: 2,
+            rationale: "**Fingolimod** can cause significant **Bradycardia** and heart block after the first dose. Observation and EKG monitoring are required."
         },
         {
             question: "Which agent treats spasticity in MS by acting as an agonist at GABA-B receptors?",
@@ -131,8 +131,8 @@ export const L43_CONTENT = {
                 "Tizanidine",
                 "Cyclobenzaprine"
             ],
-            answer: 2,
-            explanation: "**Baclofen** is a **GABA-B agonist** used centrally for spasticity. (Tizanidine is an alpha-2 agonist; Dantrolene works on muscle Ryanodine receptors)."
+            correctAnswer: 2,
+            rationale: "**Baclofen** is a **GABA-B agonist** used centrally for spasticity. (Tizanidine is an alpha-2 agonist; Dantrolene works on muscle Ryanodine receptors)."
         }
     ],
     flashcards: [

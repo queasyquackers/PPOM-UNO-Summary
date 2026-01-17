@@ -101,8 +101,8 @@ The eye focuses light onto the retina to transduce it into neural signals.
                 "Parietal Lobe Tumor",
                 "Occipital Lobe Stroke"
             ],
-            answer: 1,
-            explanation: "A **Pituitary Adenoma** compresses the specialized crossing fibers in the Optic Chiasm, causing **Bitemporal Hemianopsia** (Tunnel Vision)."
+            correctAnswer: 1,
+            rationale: "A **Pituitary Adenoma** compresses the specialized crossing fibers in the Optic Chiasm, causing **Bitemporal Hemianopsia** (Tunnel Vision)."
         },
         {
             question: "A patient cannot see the upper left quadrant of their visual field ('Pie in the Sky'). Where is the lesion located?",
@@ -113,8 +113,8 @@ The eye focuses light onto the retina to transduce it into neural signals.
                 "Left Parietal Lobe",
                 "Right Occipital Cortex"
             ],
-            answer: 0,
-            explanation: "A **Left** upper field defect maps to the **Right** brain (Contralateral). 'In the Sky' (Superior) implies the inferior fibers (**Meyer's Loop** in Temporal Lobe). So, **Right Temporal Lobe**."
+            correctAnswer: 0,
+            rationale: "A **Left** upper field defect maps to the **Right** brain (Contralateral). 'In the Sky' (Superior) implies the inferior fibers (**Meyer's Loop** in Temporal Lobe). So, **Right Temporal Lobe**."
         },
         {
             question: "Accommodation for near vision involves which action of the ciliary muscle?",
@@ -125,8 +125,8 @@ The eye focuses light onto the retina to transduce it into neural signals.
                 "Atrophy",
                 "No change"
             ],
-            answer: 1,
-            explanation: "The ciliary muscle **Contracts**, loosening the zonules, allowing the lens to spring into a rounder shape for near focus."
+            correctAnswer: 1,
+            rationale: "The ciliary muscle **Contracts**, loosening the zonules, allowing the lens to spring into a rounder shape for near focus."
         },
         {
             question: "Papilledema is a clinical sign indicative of:",
@@ -137,8 +137,8 @@ The eye focuses light onto the retina to transduce it into neural signals.
                 "Cataracts",
                 "Macular Degeneration"
             ],
-            answer: 2,
-            explanation: "**Papilledema** (swollen optic disc) is caused by transmitted **Increased Intracranial Pressure (ICP)**."
+            correctAnswer: 2,
+            rationale: "**Papilledema** (swollen optic disc) is caused by transmitted **Increased Intracranial Pressure (ICP)**."
         },
         {
             question: "A patient with a Right Parietal Lobe stroke only eats food on the right side of their plate and ignores the left side. This is called:",
@@ -149,8 +149,8 @@ The eye focuses light onto the retina to transduce it into neural signals.
                 "Apraxia",
                 "Prosopagnosia"
             ],
-            answer: 2,
-            explanation: "**Hemispatial Neglect** is an attention deficit, classically due to a non-dominant (Right) Parietal Lobe lesion."
+            correctAnswer: 2,
+            rationale: "**Hemispatial Neglect** is an attention deficit, classically due to a non-dominant (Right) Parietal Lobe lesion."
         }
     ],
     flashcards: [

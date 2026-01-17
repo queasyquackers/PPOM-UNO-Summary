@@ -78,8 +78,8 @@ Reduces sympathetic outflow from the brainstem.
                 "Losartan",
                 "Propranolol"
             ],
-            answer: 1,
-            explanation: "**Methyldopa** is the classic safe antihypertensive for pregnancy. ACE inhibitors (Lisinopril) and ARBs are teratogenic."
+            correctAnswer: 1,
+            rationale: "**Methyldopa** is the classic safe antihypertensive for pregnancy. ACE inhibitors (Lisinopril) and ARBs are teratogenic."
         },
         {
             question: "A patient on a Monoamine Oxidase Inhibitor (MAOI) for depression consumes a charcuterie board with aged cheese and wine. They present to the ER with a severe headache and BP of 220/120. mechanism is:",
@@ -90,8 +90,8 @@ Reduces sympathetic outflow from the brainstem.
                 "Allergic reaction to wine",
                 "Serotonin Syndrome"
             ],
-            answer: 1,
-            explanation: "**Tyramine** acts as an indirect sympathomimetic by **displacing stored NE** from vesicles. Usually broken down by MAO, but persists in MAO-I patients."
+            correctAnswer: 1,
+            rationale: "**Tyramine** acts as an indirect sympathomimetic by **displacing stored NE** from vesicles. Usually broken down by MAO, but persists in MAO-I patients."
         },
         {
             question: "Which drug works by relaxing the detrusor muscle via Beta-3 agonism to treat overactive bladder?",
@@ -102,8 +102,8 @@ Reduces sympathetic outflow from the brainstem.
                 "Tamsulosin",
                 "Finasteride"
             ],
-            answer: 1,
-            explanation: "**Mirabegron** is a Beta-3 agonist. (Oxybutynin is an Anticholinergic, which also works but via M3 blockade)."
+            correctAnswer: 1,
+            rationale: "**Mirabegron** is a Beta-3 agonist. (Oxybutynin is an Anticholinergic, which also works but via M3 blockade)."
         },
         {
             question: "Amphetamines exert their stimulant effect primarily by:",
@@ -114,8 +114,8 @@ Reduces sympathetic outflow from the brainstem.
                 "Blocking the reuptake of Serotonin only",
                 "Directly activating Beta-2 receptors"
             ],
-            answer: 2,
-            explanation: "Amphetamines enter the nerve terminal (via uptake) and then **displace** NE/DA from vesicles, reversing the transporter to pump NE/DA OUT into the synapse."
+            correctAnswer: 2,
+            rationale: "Amphetamines enter the nerve terminal (via uptake) and then **displace** NE/DA from vesicles, reversing the transporter to pump NE/DA OUT into the synapse."
         },
         {
             question: "Salmeterol is classified as a:",
@@ -126,8 +126,8 @@ Reduces sympathetic outflow from the brainstem.
                 "Muscarinic Antagonist",
                 "Corticosteroid"
             ],
-            answer: 1,
-            explanation: "**Salmeterol** is a **LABA** used for asthma maintenance. Albuterol is a SABA."
+            correctAnswer: 1,
+            rationale: "**Salmeterol** is a **LABA** used for asthma maintenance. Albuterol is a SABA."
         }
     ],
     flashcards: [

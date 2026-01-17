@@ -94,8 +94,8 @@ The "Brain of the Gut", capable of functioning independently.
                 "Orthostatic Hypotension",
                 "Vasovagal Syncope"
             ],
-            answer: 1,
-            explanation: "This is classic **Autonomic Dysreflexia**: a noxious stimulus triggers a sympathetic surge below the lesion (Hypertension), which triggers a baroreceptor reflex to slow the heart (Bradycardia)."
+            correctAnswer: 1,
+            rationale: "This is classic **Autonomic Dysreflexia**: a noxious stimulus triggers a sympathetic surge below the lesion (Hypertension), which triggers a baroreceptor reflex to slow the heart (Bradycardia)."
         },
         {
             question: "Which neurotransmitter is released by sympathetic postganglionic neurons innervating sweat glands?",
@@ -106,8 +106,8 @@ The "Brain of the Gut", capable of functioning independently.
                 "Dopamine",
                 "Serotonin"
             ],
-            answer: 2,
-            explanation: "Sweat glands are the exception to the rule. Sympathetic postganglionic neurons innervating them release **Acetylcholine** acting on Muscarinic receptors."
+            correctAnswer: 2,
+            rationale: "Sweat glands are the exception to the rule. Sympathetic postganglionic neurons innervating them release **Acetylcholine** acting on Muscarinic receptors."
         },
         {
             question: "A newborn fails to pass meconium within 48 hours. Imaging reveals a dilated colon proximal to a narrowed distal segment. Biopsy of the narrowed segment would likely show:",
@@ -118,8 +118,8 @@ The "Brain of the Gut", capable of functioning independently.
                 "Excessive Neural Crest Cell migration",
                 "Presence of Lewy Bodies"
             ],
-            answer: 1,
-            explanation: "Hirschsprung's Disease is characterized by the **absence of ganglia** (aganglionosis) in the distal colon due to failed neural crest migration."
+            correctAnswer: 1,
+            rationale: "Hirschsprung's Disease is characterized by the **absence of ganglia** (aganglionosis) in the distal colon due to failed neural crest migration."
         },
         {
             question: "Horner's Syndrome is characterized by which constellation of signs?",
@@ -130,8 +130,8 @@ The "Brain of the Gut", capable of functioning independently.
                 "Mydriasis, Exophthalmos, Anhidrosis",
                 "Ptosis, Miosis, Hyperhidrosis"
             ],
-            answer: 2,
-            explanation: "Horner's Syndrome presents with **Miosis** (constriction), **Ptosis** (drooping), and **Anhidrosis** (dryness) on the ipsilateral side."
+            correctAnswer: 2,
+            rationale: "Horner's Syndrome presents with **Miosis** (constriction), **Ptosis** (drooping), and **Anhidrosis** (dryness) on the ipsilateral side."
         },
         {
             question: "Where are the cell bodies of preganglionic sympathetic neurons located?",
@@ -142,8 +142,8 @@ The "Brain of the Gut", capable of functioning independently.
                 "Dorsal Root Ganglia",
                 "Paravertebral Ganglia"
             ],
-            answer: 2,
-            explanation: "The sympathetic division is **Thoracolumbar**, meaning preganglionic neurons originate in the lateral horn of the spinal cord from T1 to L2."
+            correctAnswer: 2,
+            rationale: "The sympathetic division is **Thoracolumbar**, meaning preganglionic neurons originate in the lateral horn of the spinal cord from T1 to L2."
         }
     ],
     flashcards: [

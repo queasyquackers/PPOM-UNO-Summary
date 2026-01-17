@@ -88,8 +88,8 @@ export const L41_CONTENT = {
                 "ALS",
                 "Polio"
             ],
-            answer: 1,
-            explanation: "**GBS** presents with acute ascending paralysis and areflexia after an infection (*Campylobacter*). CSF shows **Albuminocytologic Dissociation**."
+            correctAnswer: 1,
+            rationale: "**GBS** presents with acute ascending paralysis and areflexia after an infection (*Campylobacter*). CSF shows **Albuminocytologic Dissociation**."
         },
         {
             question: "Which of the following findings is classic for Amyotrophic Lateral Sclerosis (ALS)?",
@@ -100,8 +100,8 @@ export const L41_CONTENT = {
                 "Diplopia and ptosis worsening at night",
                 "Ascending paralysis with bladder dysfunction"
             ],
-            answer: 2,
-            explanation: "**ALS** affects Anterior Horn Cells (LMN) and Corticospinal Tracts (UMN). The hallmark is mixed UMN/LMN signs. Sensation is typically preserved."
+            correctAnswer: 2,
+            rationale: "**ALS** affects Anterior Horn Cells (LMN) and Corticospinal Tracts (UMN). The hallmark is mixed UMN/LMN signs. Sensation is typically preserved."
         },
         {
             question: "A patient with suspected Myasthenia Gravis is tested. Which antibody is most specific for this condition?",
@@ -112,8 +112,8 @@ export const L41_CONTENT = {
                 "Anti-GM1",
                 "Anti-Hu"
             ],
-            answer: 1,
-            explanation: "**AChR antibodies** are pathogenic in Myasthenia Gravis (Post-synaptic). Calcium channel antibodies are for Lambert-Eaton."
+            correctAnswer: 1,
+            rationale: "**AChR antibodies** are pathogenic in Myasthenia Gravis (Post-synaptic). Calcium channel antibodies are for Lambert-Eaton."
         },
         {
             question: "Lambert-Eaton Myasthenic Syndrome is most commonly associated with which underlying malignancy?",
@@ -124,8 +124,8 @@ export const L41_CONTENT = {
                 "Lymphoma",
                 "Melanoma"
             ],
-            answer: 1,
-            explanation: "**Small Cell Lung Cancer** is found in ~50% of patients with LEMS. (Thymoma is associated with Myasthenia Gravis)."
+            correctAnswer: 1,
+            rationale: "**Small Cell Lung Cancer** is found in ~50% of patients with LEMS. (Thymoma is associated with Myasthenia Gravis)."
         },
         {
             question: "Which feature distinguishes Polio from ALS?",
@@ -136,8 +136,8 @@ export const L41_CONTENT = {
                 "Polio causes spasticity; ALS causes flaccidity.",
                 "Polio is autoimmune; ALS is viral."
             ],
-            answer: 0,
-            explanation: "**Polio** destroys Anterior Horn Cells (LMN only) $\\to$ Flaccid paralysis. **ALS** destroys AHCs (LMN) + CSTs (UMN) $\\to$ Mixed Spastic/Flaccid."
+            correctAnswer: 0,
+            rationale: "**Polio** destroys Anterior Horn Cells (LMN only) $\\to$ Flaccid paralysis. **ALS** destroys AHCs (LMN) + CSTs (UMN) $\\to$ Mixed Spastic/Flaccid."
         }
     ],
     flashcards: [

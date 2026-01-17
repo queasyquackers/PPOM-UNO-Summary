@@ -90,8 +90,8 @@ Mnemonic for Functions: **TAN HATS**
                 "Huntington's Disease",
                 "Vascular Dementia"
             ],
-            answer: 2,
-            explanation: "This is the classic presentation of **Wernicke's Encephalopathy** due to Thiamine deficiency, which damages the mammillary bodies."
+            correctAnswer: 2,
+            rationale: "This is the classic presentation of **Wernicke's Encephalopathy** due to Thiamine deficiency, which damages the mammillary bodies."
         },
         {
             question: "A patient develops hyperphagia and significant obesity after a brain tumor resection. Which hypothalamic nucleus was most likely damaged?",
@@ -102,8 +102,8 @@ Mnemonic for Functions: **TAN HATS**
                 "Suprachiasmatic Nucleus",
                 "Anterior Hypothalamus"
             ],
-            answer: 2,
-            explanation: "The **Ventromedial Nucleus** is the Satiety Center. Damage leads to unchecked hunger and obesity ('Very Massive')."
+            correctAnswer: 2,
+            rationale: "The **Ventromedial Nucleus** is the Satiety Center. Damage leads to unchecked hunger and obesity ('Very Massive')."
         },
         {
             question: "Which hypothalamic nucleus is responsible for circadian rhythms?",
@@ -114,8 +114,8 @@ Mnemonic for Functions: **TAN HATS**
                 "Posterior Hypothalamus",
                 "Mammillary Nucleus"
             ],
-            answer: 1,
-            explanation: "The **Suprachiasmatic Nucleus (SCN)** regulates sleep-wake cycles and circadian rhythms."
+            correctAnswer: 1,
+            rationale: "The **Suprachiasmatic Nucleus (SCN)** regulates sleep-wake cycles and circadian rhythms."
         },
         {
             question: "Damage to the Anterior Hypothalamus would result in:",
@@ -126,8 +126,8 @@ Mnemonic for Functions: **TAN HATS**
                 "Amnesia",
                 "Insomnia"
             ],
-            answer: 1,
-            explanation: "The **Anterior** Hypothalamus regulates **Cooling**. Damage prevents cooling, resulting in **Hyperthermia**."
+            correctAnswer: 1,
+            rationale: "The **Anterior** Hypothalamus regulates **Cooling**. Damage prevents cooling, resulting in **Hyperthermia**."
         },
         {
             question: "In neurogenic Diabetes Insipidus, there is a lack of which hormone?",
@@ -138,8 +138,8 @@ Mnemonic for Functions: **TAN HATS**
                 "TSH",
                 "GH"
             ],
-            answer: 2,
-            explanation: "Neurogenic Diabetes Insipidus causes polyuria due to a failure to secrete **ADH (Vasopressin)** from the posterior pituitary/hypothalamus."
+            correctAnswer: 2,
+            rationale: "Neurogenic Diabetes Insipidus causes polyuria due to a failure to secrete **ADH (Vasopressin)** from the posterior pituitary/hypothalamus."
         }
     ],
     flashcards: [
