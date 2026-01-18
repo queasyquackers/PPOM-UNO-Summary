@@ -605,11 +605,32 @@ function getModuleClass(module) {
 }
 
 function renderLectureList(searchQuery = "") {
-  const filtered = lectures.filter(
-    (lec) =>
-      lec.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
-      (lec.tags && lec.tags.toLowerCase().includes(searchQuery.toLowerCase()))
-  );
+  let filtered = [];
+  const query = searchQuery.toLowerCase().trim();
+
+  // Search Logic
+  if (!query) {
+    filtered = lectures;
+  } else if (window.SEARCH_INDEX) {
+    // Full-Text Search
+    const results = window.SEARCH_INDEX.map(item => {
+      let score = 0;
+      if (item.title.toLowerCase().includes(query)) score += 100;
+      if (item.module.toLowerCase().includes(query)) score += 50;
+      if (item.content.toLowerCase().includes(query)) score += 10;
+      return { id: item.id, score };
+    }).filter(r => r.score > 0).sort((a, b) => b.score - a.score);
+
+    // Map back to lecture metadata objects
+    filtered = results.map(r => lectures.find(l => l.id === r.id)).filter(Boolean);
+  } else {
+    // Fallback if index not loaded
+    filtered = lectures.filter(
+      (lec) =>
+        lec.title.toLowerCase().includes(query) ||
+        (lec.tags && lec.tags.toLowerCase().includes(query))
+    );
+  }
 
   const html = filtered
     .map((lec) => {
@@ -979,6 +1000,8 @@ function renderTabContent() {
       generateTableOfContents();
       tocDiv.classList.remove("hidden");
       document.getElementById("tocToggle").classList.remove("hidden");
+      document.getElementById("tocToggle").classList.remove("hidden");
+      try { highlightSearchTerms(); } catch (e) { console.warn("Highlight error:", e); }
     } else if (activeTab === "questions") {
       const questions = selectedLecture.questions;
 
@@ -1026,8 +1049,12 @@ function renderTabContent() {
             optionsHtml += "</ul>";
 
             // Determine correct answer text
-            const correctIndex =
-              typeof q.correctAnswer === "number" ? q.correctAnswer : -1;
+            // Determine correct answer text
+            let correctIndex = -1;
+            if (q.correctAnswer !== undefined && q.correctAnswer !== null) {
+              const num = Number(q.correctAnswer);
+              if (!isNaN(num)) correctIndex = num;
+            }
             const answerLetter =
               correctIndex >= 0 ? String.fromCharCode(65 + correctIndex) : "?";
 
@@ -2640,5 +2667,43 @@ function updateActiveRecallButtonState() {
 
     // Icon: Eye (Visible)
     icon.innerHTML = '<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" /><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z" />';
+  }
+}
+// Helper: Highlight Search Terms
+function highlightSearchTerms() {
+  const query = document.getElementById("searchInput").value.trim();
+  if (!query || query.length < 2) return;
+
+  const contentDiv = document.getElementById("tabContent");
+  if (!contentDiv) return;
+
+  // Simple tree walker to find text nodes
+  const walker = document.createTreeWalker(contentDiv, NodeFilter.SHOW_TEXT, null, false);
+  const regex = new RegExp(`(${query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'gi');
+  const matches = [];
+
+  let node;
+  while (node = walker.nextNode()) {
+    if (regex.test(node.nodeValue)) {
+      matches.push(node);
+    }
+  }
+
+  // Highlight matches (limit first 50 to avoid freezing)
+  let found = false;
+  matches.slice(0, 50).forEach(node => {
+    const span = document.createElement('span');
+    span.innerHTML = node.nodeValue.replace(regex, '<mark class="bg-yellow-200 dark:bg-yellow-900/50 text-solarized-base00 dark:text-white rounded-sm px-0.5">$1</mark>');
+    node.parentNode.replaceChild(span, node);
+    found = true;
+  });
+
+  if (found) {
+    setTimeout(() => {
+      const mark = contentDiv.querySelector('mark');
+      if (mark) {
+        mark.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      }
+    }, 100);
   }
 }

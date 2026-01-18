@@ -13,8 +13,8 @@ window.receiveLectureContent({
         "Prazosin",
         "Yohimbine"
       ],
-      "answer": 1,
-      "explanation": "**Phenoxybenzamine** is an **Irreversible** alpha blocker. It is the gold standard for pheochromocytoma pre-op to prevent catecholamine surges."
+      "correctAnswer": 1,
+      "rationale": "**Phenoxybenzamine** is an **Irreversible** alpha blocker. It is the gold standard for pheochromocytoma pre-op to prevent catecholamine surges."
     },
     {
       "question": "A 65-year-old male is started on Terazosin for BPH. What important counseling point must be provided?",
@@ -25,8 +25,8 @@ window.receiveLectureContent({
         "Discontinue immediately if nasal congestion occurs.",
         "Expect heart rate to decrease significantly."
       ],
-      "answer": 2,
-      "explanation": "**First-Dose Effect:** Alpha-1 blockers cause significant orthostatic hypotension/syncope initially. Taking it at **bedtime** mitigates the risk of falling."
+      "correctAnswer": 2,
+      "rationale": "**First-Dose Effect:** Alpha-1 blockers cause significant orthostatic hypotension/syncope initially. Taking it at **bedtime** mitigates the risk of falling."
     },
     {
       "question": "Which of the following beta blockers also possesses Alpha-1 blocking activity, providing additional vasodilation?",
@@ -37,8 +37,8 @@ window.receiveLectureContent({
         "Timolol",
         "Esmolol"
       ],
-      "answer": 2,
-      "explanation": "**Carvedilol** and **Labetalol** trigger 'Combined' blockade (Beta-1, Beta-2, and Alpha-1). This provides vasodilation + heart rate control."
+      "correctAnswer": 2,
+      "rationale": "**Carvedilol** and **Labetalol** trigger 'Combined' blockade (Beta-1, Beta-2, and Alpha-1). This provides vasodilation + heart rate control."
     },
     {
       "question": "A diabetic patient taking insulin is prescribed a beta blocker. They should be warned that the drug might mask which symptom of hypoglycemia?",
@@ -49,8 +49,8 @@ window.receiveLectureContent({
         "Confusion",
         "Fatigue"
       ],
-      "answer": 2,
-      "explanation": "**Tachycardia** and tremors are mediated by the sympathetic response to hypoglycemia. Beta blockers mask these. **Sweating** (cholinergic) is usually preserved."
+      "correctAnswer": 2,
+      "rationale": "**Tachycardia** and tremors are mediated by the sympathetic response to hypoglycemia. Beta blockers mask these. **Sweating** (cholinergic) is usually preserved."
     },
     {
       "question": "The phenomenon known as 'Epinephrine Reversal' describes a drop in blood pressure when Epinephrine is administered in the presence of:",
@@ -61,8 +61,8 @@ window.receiveLectureContent({
         "A Ganglionic Blocker",
         "A Calcium Channel Blocker"
       ],
-      "answer": 1,
-      "explanation": "An **Alpha Blocker** (like Phentolamine) blocks the vasoconstriction (Alpha-1) of Epi, leaving the vasodilation (Beta-2) unopposed $\\to$ BP drop."
+      "correctAnswer": 1,
+      "rationale": "An **Alpha Blocker** (like Phentolamine) blocks the vasoconstriction (Alpha-1) of Epi, leaving the vasodilation (Beta-2) unopposed $\\to$ BP drop."
     }
   ],
   "flashcards": [

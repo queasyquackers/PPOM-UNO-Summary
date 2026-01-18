@@ -13,8 +13,8 @@ window.receiveLectureContent({
         "Acoustic Neuroma",
         "Wallenberg Syndrome"
       ],
-      "answer": 2,
-      "explanation": "**BPPV** is characterized by **brief (<1 min)**, **position-dependent** vertigo with **normal hearing**, caused by dislodged otoconia."
+      "correctAnswer": 2,
+      "rationale": "**BPPV** is characterized by **brief (<1 min)**, **position-dependent** vertigo with **normal hearing**, caused by dislodged otoconia."
     },
     {
       "question": "Which structure detects linear acceleration and head tilt relative to gravity?",
@@ -25,8 +25,8 @@ window.receiveLectureContent({
         "Cochlea",
         "Organ of Corti"
       ],
-      "answer": 2,
-      "explanation": "The **Otolith Organs** (Utricle and Saccule) contain the macula and otoconia, specifically designing them to detect **Linear Acceleration** and gravity."
+      "correctAnswer": 2,
+      "rationale": "The **Otolith Organs** (Utricle and Saccule) contain the macula and otoconia, specifically designing them to detect **Linear Acceleration** and gravity."
     },
     {
       "question": "A patient presents with vertigo, dysphagia (hoarseness), ipsilateral facial numbness, and contralateral body numbness. Examination reveals an ipsilateral Horner's syndrome. Which artery is occluded?",
@@ -37,8 +37,8 @@ window.receiveLectureContent({
         "Anterior Inferior Cerebellar Artery (AICA)",
         "Middle Cerebral Artery (MCA)"
       ],
-      "answer": 2,
-      "explanation": "This is **Wallenberg (Lateral Medullary) Syndrome**, caused by occlusion of the **PICA**. The constellation of Vertigo (Vestibular), Dysphagia (Ambiguus), and Crossed Sensory loss is classic."
+      "correctAnswer": 2,
+      "rationale": "This is **Wallenberg (Lateral Medullary) Syndrome**, caused by occlusion of the **PICA**. The constellation of Vertigo (Vestibular), Dysphagia (Ambiguus), and Crossed Sensory loss is classic."
     },
     {
       "question": "What is the primary mechanism of Meniere's Disease?",
@@ -49,8 +49,8 @@ window.receiveLectureContent({
         "Bacterial Infection",
         "Tumor Compression"
       ],
-      "answer": 1,
-      "explanation": "**Meniere's Disease** is caused by **Endolymphatic Hydrops** (swelling/excess pressure of the endolymphatic compartment)."
+      "correctAnswer": 1,
+      "rationale": "**Meniere's Disease** is caused by **Endolymphatic Hydrops** (swelling/excess pressure of the endolymphatic compartment)."
     },
     {
       "question": "The Vestibulo-Ocular Reflex (VOR) allows for:",
@@ -61,8 +61,8 @@ window.receiveLectureContent({
         "Localizing sound in space",
         "Detecting gravity"
       ],
-      "answer": 2,
-      "explanation": "The **VOR** generates eye movements equal and opposite to head movements to **stabilize gaze** on a fixed target."
+      "correctAnswer": 2,
+      "rationale": "The **VOR** generates eye movements equal and opposite to head movements to **stabilize gaze** on a fixed target."
     }
   ],
   "flashcards": [

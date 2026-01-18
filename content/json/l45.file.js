@@ -13,8 +13,8 @@ window.receiveLectureContent({
         "Right Medial Pons",
         "Left Lateral Pons"
       ],
-      "answer": 1,
-      "explanation": "**Left Lateral Medullary Syndrome (Wallenberg):** Ipsilateral Horner's, Ipsilateral Face sensory loss, Contralateral Body sensory loss, Dysphagia (Nucleus Ambiguus). Lesion is on the **Left**."
+      "correctAnswer": 1,
+      "rationale": "**Left Lateral Medullary Syndrome (Wallenberg):** Ipsilateral Horner's, Ipsilateral Face sensory loss, Contralateral Body sensory loss, Dysphagia (Nucleus Ambiguus). Lesion is on the **Left**."
     },
     {
       "question": "A patient presents with right-sided hemiparesis (arm and leg) and the tongue deviates to the left upon protrusion. Sensation of pain and temperature is intact. Which artery is likely occluded?",
@@ -25,8 +25,8 @@ window.receiveLectureContent({
         "Right Anterior Spinal Artery",
         "Basilar Artery"
       ],
-      "answer": 2,
-      "explanation": "**Medial Medullary Syndrome:** Tongue deviates **Toward** lesion (Left CN XII). Hemiparesis is **Contralateral** (Right side). Artery is the **Anterior Spinal Artery**."
+      "correctAnswer": 2,
+      "rationale": "**Medial Medullary Syndrome:** Tongue deviates **Toward** lesion (Left CN XII). Hemiparesis is **Contralateral** (Right side). Artery is the **Anterior Spinal Artery**."
     },
     {
       "question": "Alcoholic cerebellar degeneration primarily affects which structure, resulting in a wide-based, ataxic gait?",
@@ -37,8 +37,8 @@ window.receiveLectureContent({
         "Dentate Nucleus",
         "Inferior Olive"
       ],
-      "answer": 2,
-      "explanation": "Chronic alcohol use causes atrophy of the **Anterior Vermis**, leading to truncal ataxia and gait instability (legs/trunk), often sparing the arms."
+      "correctAnswer": 2,
+      "rationale": "Chronic alcohol use causes atrophy of the **Anterior Vermis**, leading to truncal ataxia and gait instability (legs/trunk), often sparing the arms."
     },
     {
       "question": "A cavernous sinus thrombosis would most likely affect which cranial nerve traveling through the sinus?",
@@ -49,8 +49,8 @@ window.receiveLectureContent({
         "Vestibulocochlear Nerve (CN VIII)",
         "Hypoglossal Nerve (CN XII)"
       ],
-      "answer": 1,
-      "explanation": "**CN VI (Abducens)** travels *inside* the cavernous sinus (along with the Carotid Artery). CN III, IV, V1, V2 are in the lateral wall. CN VI is often the first affected."
+      "correctAnswer": 1,
+      "rationale": "**CN VI (Abducens)** travels *inside* the cavernous sinus (along with the Carotid Artery). CN III, IV, V1, V2 are in the lateral wall. CN VI is often the first affected."
     },
     {
       "question": "In Brown-S\u00e9quard syndrome (spinal cord hemisection), pain and temperature sensation are lost:",
@@ -61,8 +61,8 @@ window.receiveLectureContent({
         "Bilaterally at the level of the lesion only",
         "Completely preserved"
       ],
-      "answer": 1,
-      "explanation": "Spinothalamic tract crosses almost immediately. A hemisection causes **Contralateral** loss of Pain/Temp starting 1-2 segments below the lesion."
+      "correctAnswer": 1,
+      "rationale": "Spinothalamic tract crosses almost immediately. A hemisection causes **Contralateral** loss of Pain/Temp starting 1-2 segments below the lesion."
     }
   ],
   "flashcards": [

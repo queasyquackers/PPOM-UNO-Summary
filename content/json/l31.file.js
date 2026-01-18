@@ -13,8 +13,8 @@ window.receiveLectureContent({
         "Left Caudate",
         "Right Putamen"
       ],
-      "answer": 1,
-      "explanation": "**Hemiballismus** (contralateral flailing) is caused by a lesion in the **Subthalamic Nucleus** (STN). Right movements = Left STN."
+      "correctAnswer": 1,
+      "rationale": "**Hemiballismus** (contralateral flailing) is caused by a lesion in the **Subthalamic Nucleus** (STN). Right movements = Left STN."
     },
     {
       "question": "Which neurotransmitter is primarily released by the neurons of the Subthalamic Nucleus?",
@@ -25,8 +25,8 @@ window.receiveLectureContent({
         "Acetylcholine",
         "Serotonin"
       ],
-      "answer": 2,
-      "explanation": "The **STN** is the only intrinsic BG nucleus that is **excitatory**, releasing **Glutamate**. All others (Striatum, GPe, GPi, SNr) release GABA."
+      "correctAnswer": 2,
+      "rationale": "The **STN** is the only intrinsic BG nucleus that is **excitatory**, releasing **Glutamate**. All others (Striatum, GPe, GPi, SNr) release GABA."
     },
     {
       "question": "In Huntington's Disease, which brain structure undergoes the most significant atrophy, leading to ventriculomegaly?",
@@ -37,8 +37,8 @@ window.receiveLectureContent({
         "Hippocampus",
         "Cerebellum"
       ],
-      "answer": 1,
-      "explanation": "Huntington's causes atrophy of the **Striatum**, specifically the **Caudate Nucleus**, leading to 'boxy' dilated ventricles."
+      "correctAnswer": 1,
+      "rationale": "Huntington's causes atrophy of the **Striatum**, specifically the **Caudate Nucleus**, leading to 'boxy' dilated ventricles."
     },
     {
       "question": "A 65-year-old male presents with a resting tremor, masked facies, and a shuffling gait. Histology would likely reveal:",
@@ -49,8 +49,8 @@ window.receiveLectureContent({
         "Negri Bodies",
         "Pick Bodies"
       ],
-      "answer": 1,
-      "explanation": "This is Parkinson's Disease. The hallmark histology is **Lewy Bodies** (alpha-synuclein) in the Substantia Nigra."
+      "correctAnswer": 1,
+      "rationale": "This is Parkinson's Disease. The hallmark histology is **Lewy Bodies** (alpha-synuclein) in the Substantia Nigra."
     },
     {
       "question": "Dopamine binding to D2 receptors in the striatum results in:",
@@ -61,8 +61,8 @@ window.receiveLectureContent({
         "Inhibition of the Direct Pathway",
         "Inhibition of the Thalamus"
       ],
-      "answer": 1,
-      "explanation": "D2 receptors are **inhibitory**. They are on the Indirect (No-Go) pathway. So Dopamine **inhibits the Indirect pathway**, essentially 'turning off the stop signal', which promotes movement."
+      "correctAnswer": 1,
+      "rationale": "D2 receptors are **inhibitory**. They are on the Indirect (No-Go) pathway. So Dopamine **inhibits the Indirect pathway**, essentially 'turning off the stop signal', which promotes movement."
     }
   ],
   "flashcards": [

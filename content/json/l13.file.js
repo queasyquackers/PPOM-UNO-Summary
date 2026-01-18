@@ -13,8 +13,8 @@ window.receiveLectureContent({
         "Premature Closure",
         "Sunk Cost Fallacy"
       ],
-      "answer": 1,
-      "explanation": "**Availability Bias** is judging frequency or probability by how easily examples come to mind (e.g., a recent run of flu cases)."
+      "correctAnswer": 1,
+      "rationale": "**Availability Bias** is judging frequency or probability by how easily examples come to mind (e.g., a recent run of flu cases)."
     },
     {
       "question": "When generating a differential diagnosis for a 60-year-old male with back pain, you use the mnemonic VINDICATE. The 'N' stands for:",
@@ -25,8 +25,8 @@ window.receiveLectureContent({
         "Nociceptive",
         "Neonatal"
       ],
-      "answer": 2,
-      "explanation": "**N** in VINDICATE stands for **Neoplastic** (Cancer), a critical category to consider in older adults with new back pain."
+      "correctAnswer": 2,
+      "rationale": "**N** in VINDICATE stands for **Neoplastic** (Cancer), a critical category to consider in older adults with new back pain."
     },
     {
       "question": "Which of the following best describes 'System 2' thinking?",
@@ -37,8 +37,8 @@ window.receiveLectureContent({
         "Prone to emotional influence",
         "Automatic association"
       ],
-      "answer": 2,
-      "explanation": "**System 2** is the slow, deliberate, analytical mode of thinking used for complex problems."
+      "correctAnswer": 2,
+      "rationale": "**System 2** is the slow, deliberate, analytical mode of thinking used for complex problems."
     },
     {
       "question": "A 3-year-old presents with ear pain. Exam reveals a bulging, erythematous tympanic membrane with loss of bony landmarks. The most likely diagnosis is:",
@@ -49,8 +49,8 @@ window.receiveLectureContent({
         "Acute Otitis Media (Suppurative)",
         "Foreign Body"
       ],
-      "answer": 3,
-      "explanation": "**Bulging** and **erythema** of the TM are hallmark signs of Acute (Suppurative) Otitis Media."
+      "correctAnswer": 3,
+      "rationale": "**Bulging** and **erythema** of the TM are hallmark signs of Acute (Suppurative) Otitis Media."
     },
     {
       "question": "You suspect a patient has a Pulmonary Embolism. You order a D-dimer, which is negative, but you dismiss the result as a 'lab error' because you are so sure of your diagnosis. This is an example of:",
@@ -61,8 +61,8 @@ window.receiveLectureContent({
         "Visceral Bias",
         "Gambler's Fallacy"
       ],
-      "answer": 1,
-      "explanation": "**Confirmation Bias** involves interpreting evidence to support your existing beliefs (the PE diagnosis) while dismissing contradictory evidence (the negative D-dimer)."
+      "correctAnswer": 1,
+      "rationale": "**Confirmation Bias** involves interpreting evidence to support your existing beliefs (the PE diagnosis) while dismissing contradictory evidence (the negative D-dimer)."
     }
   ],
   "flashcards": [

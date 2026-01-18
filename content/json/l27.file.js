@@ -13,8 +13,8 @@ window.receiveLectureContent({
         "Prescribe Opioids",
         "Apply Heat only"
       ],
-      "answer": 2,
-      "explanation": "Post-treatment soreness occurs in 30-50% of patients and lasts 1-2 days. It is a normal reaction due to metabolic release. Reassurance and water are key."
+      "correctAnswer": 2,
+      "rationale": "Post-treatment soreness occurs in 30-50% of patients and lasts 1-2 days. It is a normal reaction due to metabolic release. Reassurance and water are key."
     },
     {
       "question": "What is an ABSOLUTE contraindication to Counterstrain?",
@@ -25,8 +25,8 @@ window.receiveLectureContent({
         "Refusal of treatment (No Consent)",
         "Pediatric patient"
       ],
-      "answer": 3,
-      "explanation": "Lack of consent and absence of somatic dysfunction are the main **Absolute** contraindications. Osteoporosis is a **Relative** contraindication."
+      "correctAnswer": 3,
+      "rationale": "Lack of consent and absence of somatic dysfunction are the main **Absolute** contraindications. Osteoporosis is a **Relative** contraindication."
     },
     {
       "question": "For a Psoas tenderpoint (medial to ASIS), what is the correct treatment position?",
@@ -37,8 +37,8 @@ window.receiveLectureContent({
         "Extension only",
         "Flexion only"
       ],
-      "answer": 2,
-      "explanation": "**Psoas = F-ST-RA**. Flexion, Sidebend **Toward** the point, Rotate **Away** from the point."
+      "correctAnswer": 2,
+      "rationale": "**Psoas = F-ST-RA**. Flexion, Sidebend **Toward** the point, Rotate **Away** from the point."
     },
     {
       "question": "Which finding suggests a Posterior Innominate Rotation?",
@@ -49,8 +49,8 @@ window.receiveLectureContent({
         "ASIS High, PSIS High",
         "Pubic Shear only"
       ],
-      "answer": 1,
-      "explanation": "Posterior rotation pulls the ASIS up (**High**) and pushes the PSIS down (**Low**)."
+      "correctAnswer": 1,
+      "rationale": "Posterior rotation pulls the ASIS up (**High**) and pushes the PSIS down (**Low**)."
     },
     {
       "question": "What is the goal pain score reduction during Counterstrain positioning?",
@@ -61,8 +61,8 @@ window.receiveLectureContent({
         "Reduce to 0/10 (or at least <= 3/10)",
         "Increase pain to provoke release"
       ],
-      "answer": 3,
-      "explanation": "The goal is 100% reduction (**0/10**), but any reduction to **3/10 or less** is considered acceptable to proceed with the hold."
+      "correctAnswer": 3,
+      "rationale": "The goal is 100% reduction (**0/10**), but any reduction to **3/10 or less** is considered acceptable to proceed with the hold."
     }
   ],
   "flashcards": [

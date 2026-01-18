@@ -13,8 +13,8 @@ window.receiveLectureContent({
         "Right Spinothalamic Tract",
         "Left Lateral Corticospinal Tract"
       ],
-      "answer": 1,
-      "explanation": "The DCML decussates in the caudal medulla as internal arcuate fibers. After decussation, the fibers ascend as the Medial Lemniscus on the *contralateral* side. Therefore, a lesion in the medulla affecting the Right Medial Lemniscus would cause loss of vibration/proprioception on the Left side."
+      "correctAnswer": 1,
+      "rationale": "The DCML decussates in the caudal medulla as internal arcuate fibers. After decussation, the fibers ascend as the Medial Lemniscus on the *contralateral* side. Therefore, a lesion in the medulla affecting the Right Medial Lemniscus would cause loss of vibration/proprioception on the Left side."
     },
     {
       "question": "Which cranial nerve nucleus column is located most laterally in the brainstem?",
@@ -25,8 +25,8 @@ window.receiveLectureContent({
         "Somatic Sensory",
         "Special Sensory"
       ],
-      "answer": 4,
-      "explanation": "Following the 'Motor Medial, Sensory Lateral' rule, the Special Sensory column (hearing and balance, CN VIII) is the most lateral column."
+      "correctAnswer": 4,
+      "rationale": "Following the 'Motor Medial, Sensory Lateral' rule, the Special Sensory column (hearing and balance, CN VIII) is the most lateral column."
     },
     {
       "question": "The Middle Cerebellar Peduncle conveys fibers primarily from which location?",
@@ -37,8 +37,8 @@ window.receiveLectureContent({
         "Midbrain",
         "Deep Cerebellar Nuclei"
       ],
-      "answer": 2,
-      "explanation": "The Middle Cerebellar Peduncle (MCP) connects the Pons to the Cerebellum and conveys afferent fibers from pontine nuclei."
+      "correctAnswer": 2,
+      "rationale": "The Middle Cerebellar Peduncle (MCP) connects the Pons to the Cerebellum and conveys afferent fibers from pontine nuclei."
     },
     {
       "question": "Where does the Corticospinal tract decussate?",
@@ -49,8 +49,8 @@ window.receiveLectureContent({
         "Upper Medulla",
         "Caudal Medulla"
       ],
-      "answer": 4,
-      "explanation": "The Corticospinal tract descends ventrally and decussates at the Pyramids in the Caudal (lower) Medulla."
+      "correctAnswer": 4,
+      "rationale": "The Corticospinal tract descends ventrally and decussates at the Pyramids in the Caudal (lower) Medulla."
     },
     {
       "question": "Which nucleus provides parasympathetic innervation to the pupil (constriction)?",
@@ -61,8 +61,8 @@ window.receiveLectureContent({
         "Abducens Nucleus",
         "Superior Salivatory Nucleus"
       ],
-      "answer": 1,
-      "explanation": "The Edinger-Westphal nucleus is the Visceral Motor (parasympathetic) component of CN III (Oculomotor) responsible for pupil constriction."
+      "correctAnswer": 1,
+      "rationale": "The Edinger-Westphal nucleus is the Visceral Motor (parasympathetic) component of CN III (Oculomotor) responsible for pupil constriction."
     }
   ],
   "flashcards": [

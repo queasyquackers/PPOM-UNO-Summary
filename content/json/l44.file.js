@@ -13,8 +13,8 @@ window.receiveLectureContent({
         "Acute Angle Closure Glaucoma",
         "Optic Neuritis"
       ],
-      "answer": 2,
-      "explanation": "**Central Retinal Artery Occlusion (CRAO)** presents with a pale retina (edema) and a **Cherry Red Spot** (thin fovea showing choroid). It is an embolic event."
+      "correctAnswer": 2,
+      "rationale": "**Central Retinal Artery Occlusion (CRAO)** presents with a pale retina (edema) and a **Cherry Red Spot** (thin fovea showing choroid). It is an embolic event."
     },
     {
       "question": "A patient presents with a painful red eye, nausea, and halos around lights. The pupil is mid-dilated and non-reactive. What is the immediate concern?",
@@ -25,8 +25,8 @@ window.receiveLectureContent({
         "Scleritis",
         "Corneal Abrasion"
       ],
-      "answer": 1,
-      "explanation": "**Acute Angle Closure Glaucoma** is an ocular emergency characterized by high pressure, pain, halos, and a fixed mid-dilated pupil."
+      "correctAnswer": 1,
+      "rationale": "**Acute Angle Closure Glaucoma** is an ocular emergency characterized by high pressure, pain, halos, and a fixed mid-dilated pupil."
     },
     {
       "question": "Which finding is part of the classic triad of Horner's Syndrome?",
@@ -37,8 +37,8 @@ window.receiveLectureContent({
         "Diplopia (Double vision)",
         "Hyperhidrosis (Excess sweating)"
       ],
-      "answer": 2,
-      "explanation": "**Horner's Triad:** Ptosis, Miosis, **Anhidrosis** (on the ipsilateral face)."
+      "correctAnswer": 2,
+      "rationale": "**Horner's Triad:** Ptosis, Miosis, **Anhidrosis** (on the ipsilateral face)."
     },
     {
       "question": "Does the pupil in a CN III palsy due to a PCom aneurysm typically present as dilated or constricted?",
@@ -49,8 +49,8 @@ window.receiveLectureContent({
         "Irregular",
         "Pear-shaped"
       ],
-      "answer": 1,
-      "explanation": "Parasympathetic fibers run on the *outside* of CN III. Compressive lesions (like an **PCom Aneurysm**) compress these fibers first, causing a **Dilated** pupil."
+      "correctAnswer": 1,
+      "rationale": "Parasympathetic fibers run on the *outside* of CN III. Compressive lesions (like an **PCom Aneurysm**) compress these fibers first, causing a **Dilated** pupil."
     },
     {
       "question": "A patient with MS presents with pain on eye movement and decreased color vision. Swinging flashlight test shows a Relative Afferent Pupillary Defect (RAPD). Diagnosis?",
@@ -61,8 +61,8 @@ window.receiveLectureContent({
         "Cataract",
         "Macular Degeneration"
       ],
-      "answer": 1,
-      "explanation": "**Optic Neuritis** is inflammation of the optic nerve, common in MS. It causes painful vision loss and an **RAPD**."
+      "correctAnswer": 1,
+      "rationale": "**Optic Neuritis** is inflammation of the optic nerve, common in MS. It causes painful vision loss and an **RAPD**."
     }
   ],
   "flashcards": [

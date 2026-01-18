@@ -13,8 +13,8 @@ window.receiveLectureContent({
         "Phenylephrine",
         "Isoproterenol"
       ],
-      "answer": 2,
-      "explanation": "**Norepinephrine** is the Drug of Choice (DOC) for Septic Shock. It provides strong vasoconstriction (alpha-1) and some inotropy (beta-1) without the hypotension associated with beta-2 stimulation."
+      "correctAnswer": 2,
+      "rationale": "**Norepinephrine** is the Drug of Choice (DOC) for Septic Shock. It provides strong vasoconstriction (alpha-1) and some inotropy (beta-1) without the hypotension associated with beta-2 stimulation."
     },
     {
       "question": "A patient is given a drug that increases Systolic BP, decreases Diastolic BP, and increases Heart Rate. Which drug fits this profile?",
@@ -25,8 +25,8 @@ window.receiveLectureContent({
         "Clonidine",
         "Propranolol"
       ],
-      "answer": 2,
-      "explanation": "**Isoproterenol** is a non-selective **Beta agonist** (Beta-1 and Beta-2). Beta-1 increases SBP and HR. Beta-2 causes vasodilation, dropping DBP. "
+      "correctAnswer": 2,
+      "rationale": "**Isoproterenol** is a non-selective **Beta agonist** (Beta-1 and Beta-2). Beta-1 increases SBP and HR. Beta-2 causes vasodilation, dropping DBP. "
     },
     {
       "question": "Phenylephrine is administered intravenously. What represents the expected cardiovascular response?",
@@ -37,8 +37,8 @@ window.receiveLectureContent({
         "Decreased BP, Decreased HR",
         "No change in BP, Increased HR"
       ],
-      "answer": 1,
-      "explanation": "Phenylephrine is a pure **Alpha-1** agonist. It increases TPR and BP. The body responds with **Reflex Bradycardia** (Decreased HR)."
+      "correctAnswer": 1,
+      "rationale": "Phenylephrine is a pure **Alpha-1** agonist. It increases TPR and BP. The body responds with **Reflex Bradycardia** (Decreased HR)."
     },
     {
       "question": "Which receptor subtype is primarily responsible for the bronchodilatory effects of Epinephrine used in anaphylaxis?",
@@ -49,8 +49,8 @@ window.receiveLectureContent({
         "Beta-2",
         "Dopamine-1"
       ],
-      "answer": 3,
-      "explanation": "**Beta-2** receptors mediate bronchodilation (and skeletal muscle vasodilation). Alpha-1 mediates the vasoconstriction that supports BP."
+      "correctAnswer": 3,
+      "rationale": "**Beta-2** receptors mediate bronchodilation (and skeletal muscle vasodilation). Alpha-1 mediates the vasoconstriction that supports BP."
     },
     {
       "question": "Dobutamine is primarily used in the setting of:",
@@ -61,8 +61,8 @@ window.receiveLectureContent({
         "Hypertension",
         "Asthma"
       ],
-      "answer": 2,
-      "explanation": "**Dobutamine** (Beta-1 > Beta-2) is an inotrope used to increase cardiac output in **Decompensated Heart Failure** or cardiogenic shock."
+      "correctAnswer": 2,
+      "rationale": "**Dobutamine** (Beta-1 > Beta-2) is an inotrope used to increase cardiac output in **Decompensated Heart Failure** or cardiogenic shock."
     }
   ],
   "flashcards": [

@@ -13,8 +13,8 @@ window.receiveLectureContent({
         "Dentate Nucleus",
         "Inferior Olive"
       ],
-      "answer": 1,
-      "explanation": "Chronic alcoholism typically causes atrophy of the **Anterior Lobe (Vermis)**, leading to **Truncal Ataxia** and gait issues while sparing the limbs (Lateral Hemispheres)."
+      "correctAnswer": 1,
+      "rationale": "Chronic alcoholism typically causes atrophy of the **Anterior Lobe (Vermis)**, leading to **Truncal Ataxia** and gait issues while sparing the limbs (Lateral Hemispheres)."
     },
     {
       "question": "Which of the following describes the output of Purkinje cells?",
@@ -25,8 +25,8 @@ window.receiveLectureContent({
         "Inhibitory (GABA) to Thalamus",
         "Excitatory (Acetylcholine) to Spinal Cord"
       ],
-      "answer": 1,
-      "explanation": "**Purkinje Cells** provide **Inhibitory (GABA)** input to the Deep Cerebellar Nuclei, modulating the final output."
+      "correctAnswer": 1,
+      "rationale": "**Purkinje Cells** provide **Inhibitory (GABA)** input to the Deep Cerebellar Nuclei, modulating the final output."
     },
     {
       "question": "A patient cannot rapidly supinate and pronate their hand (Dysdiadochokinesia) on the left side. Where is the lesion?",
@@ -37,8 +37,8 @@ window.receiveLectureContent({
         "Right Motor Cortex",
         "Right Basal Ganglia"
       ],
-      "answer": 1,
-      "explanation": "Cerebellar symptoms are **Ipsilateral**. Dysdiadochokinesia (limb coordination) maps to the **Lateral Hemisphere**. So Left hand issue = **Left Cerebellar Hemisphere**."
+      "correctAnswer": 1,
+      "rationale": "Cerebellar symptoms are **Ipsilateral**. Dysdiadochokinesia (limb coordination) maps to the **Lateral Hemisphere**. So Left hand issue = **Left Cerebellar Hemisphere**."
     },
     {
       "question": "A child presents with frequent falls, nystagmus, and vomiting. An MRI reveals a tumor in the roof of the 4th ventricle compressing the flocculonodular lobe. What is the most likely diagnosis?",
@@ -49,8 +49,8 @@ window.receiveLectureContent({
         "Schwannoma",
         "Pituitary Adenoma"
       ],
-      "answer": 2,
-      "explanation": "**Medulloblastoma** is a common pediatric tumor that often arises in the **Vermis/Flocculonodular lobe**, causing truncal ataxia and hydrocephalus (vomiting)."
+      "correctAnswer": 2,
+      "rationale": "**Medulloblastoma** is a common pediatric tumor that often arises in the **Vermis/Flocculonodular lobe**, causing truncal ataxia and hydrocephalus (vomiting)."
     },
     {
       "question": "Climbing fibers, which provide powerful excitatory input to Purkinje cells, originate from which structure?",
@@ -61,8 +61,8 @@ window.receiveLectureContent({
         "Red Nucleus",
         "Vestibular Nuclei"
       ],
-      "answer": 2,
-      "explanation": "**Climbing Fibers** originate exclusively from the **Inferior Olive** (Medulla)."
+      "correctAnswer": 2,
+      "rationale": "**Climbing Fibers** originate exclusively from the **Inferior Olive** (Medulla)."
     }
   ],
   "flashcards": [

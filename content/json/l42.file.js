@@ -13,8 +13,8 @@ window.receiveLectureContent({
         "Decreased Glucose",
         "Positive India Ink Stain"
       ],
-      "answer": 1,
-      "explanation": "**Oligoclonal Bands** found in the CSF (but not serum) indicate intrathecal IgG production, a hallmark of **Multiple Sclerosis**."
+      "correctAnswer": 1,
+      "rationale": "**Oligoclonal Bands** found in the CSF (but not serum) indicate intrathecal IgG production, a hallmark of **Multiple Sclerosis**."
     },
     {
       "question": "A 45-year-old alcoholic is brought to the ER with severe hyponatremia (Na = 102). The residents rapidly correct his sodium to 135 over 6 hours. Two days later, he is quadriplegic but can blink and move his eyes vertically. What happened?",
@@ -25,8 +25,8 @@ window.receiveLectureContent({
         "Wernicke's Encephalopathy",
         "Herniation"
       ],
-      "answer": 2,
-      "explanation": "**Central Pontine Myelinolysis** (Osmotic Demyelination Syndrome) is caused by **rapid correction of hyponatremia**. It destroys the Pons, causing **Locked-In Syndrome**."
+      "correctAnswer": 2,
+      "rationale": "**Central Pontine Myelinolysis** (Osmotic Demyelination Syndrome) is caused by **rapid correction of hyponatremia**. It destroys the Pons, causing **Locked-In Syndrome**."
     },
     {
       "question": "Which pattern of weakness is characteristic of Guillain-Barr\u00e9 Syndrome?",
@@ -37,8 +37,8 @@ window.receiveLectureContent({
         "Proximal muscle weakness with preserved sensation",
         "Waxing and waning weakness improving with rest"
       ],
-      "answer": 2,
-      "explanation": "**GBS** causes an acute **Ascending** paralysis (toes to nose) with loss of reflexes (Areflexia)."
+      "correctAnswer": 2,
+      "rationale": "**GBS** causes an acute **Ascending** paralysis (toes to nose) with loss of reflexes (Areflexia)."
     },
     {
       "question": "Adrenoleukodystrophy involves the accumulation of which substance due to a peroxisomal defect?",
@@ -49,8 +49,8 @@ window.receiveLectureContent({
         "Galactocerebroside",
         "Copper"
       ],
-      "answer": 2,
-      "explanation": "**ALD** is a defect in the ABCD1 transporter, preventing the breakdown of **Very Long Chain Fatty Acids** in peroxisomes."
+      "correctAnswer": 2,
+      "rationale": "**ALD** is a defect in the ABCD1 transporter, preventing the breakdown of **Very Long Chain Fatty Acids** in peroxisomes."
     },
     {
       "question": "Progressive Multifocal Leukoencephalopathy (PML) is caused by the reactivation of which virus in immunocompromised patients?",
@@ -61,8 +61,8 @@ window.receiveLectureContent({
         "Epstein-Barr Virus (EBV)",
         "Varicella Zoster Virus (VZV)"
       ],
-      "answer": 2,
-      "explanation": "**JC Virus** causes PML. (Mnemonic: **J**ohn **C**unningham virus destroys oligodendoctyes in AIDS)."
+      "correctAnswer": 2,
+      "rationale": "**JC Virus** causes PML. (Mnemonic: **J**ohn **C**unningham virus destroys oligodendoctyes in AIDS)."
     }
   ],
   "flashcards": [

@@ -13,8 +13,8 @@ window.receiveLectureContent({
         "Acoustic Neuroma",
         "Multiple Sclerosis"
       ],
-      "answer": 2,
-      "explanation": "**BPPV** is characterized by brief (<1 min) episodes of vertigo triggered by head position changes."
+      "correctAnswer": 2,
+      "rationale": "**BPPV** is characterized by brief (<1 min) episodes of vertigo triggered by head position changes."
     },
     {
       "question": "A patient presents with vertigo, tinnitus, and hearing loss in the right ear. The episodes last for about 4 hours. Which treatment is most appropriate for long-term management?",
@@ -25,8 +25,8 @@ window.receiveLectureContent({
         "Carbamazepine",
         "Chemotherapy"
       ],
-      "answer": 2,
-      "explanation": "The patient has **Meniere's Disease** (Triad + Duration). Treatment involves reducing endolymph fluid with **salt restriction and diuretics**."
+      "correctAnswer": 2,
+      "rationale": "The patient has **Meniere's Disease** (Triad + Duration). Treatment involves reducing endolymph fluid with **salt restriction and diuretics**."
     },
     {
       "question": "Weber test lateralizes to the LEFT ear. Rinne test shows Bone Conduction > Air Conduction on the LEFT. What is the diagnosis?",
@@ -37,8 +37,8 @@ window.receiveLectureContent({
         "Left Conductive Hearing Loss",
         "Normal Hearing"
       ],
-      "answer": 3,
-      "explanation": "Weber to the Left + Rinne BC > AC on Left = **Left Conductive Hearing Loss**. (In CHL, bone conduction is better than air, and it lateralizes to the affected ear)."
+      "correctAnswer": 3,
+      "rationale": "Weber to the Left + Rinne BC > AC on Left = **Left Conductive Hearing Loss**. (In CHL, bone conduction is better than air, and it lateralizes to the affected ear)."
     },
     {
       "question": "Which finding on physical exam strongly suggests a CENTRAL cause of vertigo (e.g., Stroke)?",
@@ -49,8 +49,8 @@ window.receiveLectureContent({
         "Vertical Nystagmus",
         "Hearing Loss"
       ],
-      "answer": 3,
-      "explanation": "**Vertical nystagmus** (or direction-changing nystagmus) is a red flag for **Central** pathology. Peripheral nystagmus is usually horizontal/rotary and suppresses with fixation."
+      "correctAnswer": 3,
+      "rationale": "**Vertical nystagmus** (or direction-changing nystagmus) is a red flag for **Central** pathology. Peripheral nystagmus is usually horizontal/rotary and suppresses with fixation."
     },
     {
       "question": "A patient has sudden onset of severe vertigo lasting 3 days, with nausea and vomiting, but NO hearing loss. Findings include horizontal nystagmus. What is the most likely diagnosis?",
@@ -61,8 +61,8 @@ window.receiveLectureContent({
         "BPPV",
         "Otosclerosis"
       ],
-      "answer": 1,
-      "explanation": "**Vestibular Neuritis** presents with continuous vertigo for days, often post-viral, with **preserved hearing**. (Labyrinthitis would include hearing loss)."
+      "correctAnswer": 1,
+      "rationale": "**Vestibular Neuritis** presents with continuous vertigo for days, often post-viral, with **preserved hearing**. (Labyrinthitis would include hearing loss)."
     }
   ],
   "flashcards": [

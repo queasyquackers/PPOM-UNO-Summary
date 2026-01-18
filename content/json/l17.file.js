@@ -13,8 +13,8 @@ window.receiveLectureContent({
         "Cholesteatoma",
         "Otitis Media"
       ],
-      "answer": 1,
-      "explanation": "**Presbycusis** is age-related sensorineural hearing loss affecting **High Frequencies** first due to hair cell loss at the cochlear base."
+      "correctAnswer": 1,
+      "rationale": "**Presbycusis** is age-related sensorineural hearing loss affecting **High Frequencies** first due to hair cell loss at the cochlear base."
     },
     {
       "question": "A patient presents with unilateral hearing loss, tinnitus, and facial weakness. MRI reveals a mass at the Cerebellopontine Angle. What is the likely diagnosis?",
@@ -25,8 +25,8 @@ window.receiveLectureContent({
         "Meningioma",
         "Craniopharyngioma"
       ],
-      "answer": 2,
-      "explanation": "**Vestibular Schwannoma** arises on CN VIII, causing hearing loss/tinnitus, and can compress the adjacent CN VII (Facial nerve) at the CPA."
+      "correctAnswer": 2,
+      "rationale": "**Vestibular Schwannoma** arises on CN VIII, causing hearing loss/tinnitus, and can compress the adjacent CN VII (Facial nerve) at the CPA."
     },
     {
       "question": "In the auditory pathway, where does sound localization (computing time/intensity differences) first occur?",
@@ -37,8 +37,8 @@ window.receiveLectureContent({
         "Medial Geniculate Nucleus",
         "Auditory Cortex"
       ],
-      "answer": 1,
-      "explanation": "The **Superior Olivary Complex** is the first site receiving **Bilateral** input, allowing it to compare timing and intensity data for localization."
+      "correctAnswer": 1,
+      "rationale": "The **Superior Olivary Complex** is the first site receiving **Bilateral** input, allowing it to compare timing and intensity data for localization."
     },
     {
       "question": "EAST Syndrome is caused by a mutation affecting the transport of which ion in the inner ear?",
@@ -49,8 +49,8 @@ window.receiveLectureContent({
         "Potassium",
         "Magnesium"
       ],
-      "answer": 3,
-      "explanation": "EAST Syndrome is a K+ channelopathy (**Kir4.1**), preventing the maintenance of high **Potassium** in the endolymph."
+      "correctAnswer": 3,
+      "rationale": "EAST Syndrome is a K+ channelopathy (**Kir4.1**), preventing the maintenance of high **Potassium** in the endolymph."
     },
     {
       "question": "During a Weber test, the sound lateralizes to the patient's Left ear. Bone conduction is greater than Air conduction in the Left ear. This suggests:",
@@ -61,8 +61,8 @@ window.receiveLectureContent({
         "Left Conductive Hearing Loss",
         "Normal Hearing"
       ],
-      "answer": 3,
-      "explanation": "Weber lateralizing to the affected ear + Rinne showing Bone > Air is the classic pattern for **Conductive Hearing Loss** in that ear (**Left**)."
+      "correctAnswer": 3,
+      "rationale": "Weber lateralizing to the affected ear + Rinne showing Bone > Air is the classic pattern for **Conductive Hearing Loss** in that ear (**Left**)."
     }
   ],
   "flashcards": [

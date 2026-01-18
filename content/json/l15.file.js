@@ -13,8 +13,8 @@ window.receiveLectureContent({
         "Left Medial Lemniscus",
         "Right Dorsal Horn"
       ],
-      "answer": 1,
-      "explanation": "Pain/Temp from the **Right** leg travels to the left side of the spinal cord immediately. A lesion in the **Left Spinothalamic Tract** causes loss of pain/temp on the **Right** side."
+      "correctAnswer": 1,
+      "rationale": "Pain/Temp from the **Right** leg travels to the left side of the spinal cord immediately. A lesion in the **Left Spinothalamic Tract** causes loss of pain/temp on the **Right** side."
     },
     {
       "question": "Which receptor is responsible for sensing vibration?",
@@ -25,8 +25,8 @@ window.receiveLectureContent({
         "Ruffini Ending",
         "Free Nerve Ending"
       ],
-      "answer": 2,
-      "explanation": "**Pacinian Corpuscles** are rapidly adapting and specialized for sensing **Vibration**."
+      "correctAnswer": 2,
+      "rationale": "**Pacinian Corpuscles** are rapidly adapting and specialized for sensing **Vibration**."
     },
     {
       "question": "A hemisection of the spinal cord at T10 on the left side (Brown-S\u00e9quard) would result in:",
@@ -37,8 +37,8 @@ window.receiveLectureContent({
         "Loss of pain/temp on the right leg",
         "Bilateral loss of all sensation"
       ],
-      "answer": 3,
-      "explanation": "Hemisection on the **Left** causes **Contralateral (Right)** loss of Pain/Temp (STT crosses immediately) and **Ipsilateral (Left)** loss of Touch/Motor."
+      "correctAnswer": 3,
+      "rationale": "Hemisection on the **Left** causes **Contralateral (Right)** loss of Pain/Temp (STT crosses immediately) and **Ipsilateral (Left)** loss of Touch/Motor."
     },
     {
       "question": "The cell bodies of the primary afferent neurons for the face (Trigeminal) are located in the:",
@@ -49,8 +49,8 @@ window.receiveLectureContent({
         "Spinal Trigeminal Nucleus",
         "VPM Nucleus"
       ],
-      "answer": 1,
-      "explanation": "Primary sensory neurons for the face are in the **Trigeminal (Gasserian) Ganglion**."
+      "correctAnswer": 1,
+      "rationale": "Primary sensory neurons for the face are in the **Trigeminal (Gasserian) Ganglion**."
     },
     {
       "question": "Which fibers carry 'slow, burning' pain?",
@@ -61,8 +61,8 @@ window.receiveLectureContent({
         "B fibers",
         "C fibers"
       ],
-      "answer": 4,
-      "explanation": "**C fibers** are unmyelinated and slow conducting, responsible for the delayed, dull, burning 'second pain'."
+      "correctAnswer": 4,
+      "rationale": "**C fibers** are unmyelinated and slow conducting, responsible for the delayed, dull, burning 'second pain'."
     }
   ],
   "flashcards": [

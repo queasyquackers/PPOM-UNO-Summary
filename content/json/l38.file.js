@@ -13,8 +13,8 @@ window.receiveLectureContent({
         "Left on Right Sacral Torsion",
         "Right Unilateral Sacral Flexion"
       ],
-      "answer": 1,
-      "explanation": "**Step 1:** SFT Right (+) $\\to$ Axis is on the **Left**. (So it's ? on Left).\\n**Step 2:** Spring Negative $\\to$ Forward Torsion (L on L).\\n**Check:** Forward torsions have SAME letters. L on L fits."
+      "correctAnswer": 1,
+      "rationale": "**Step 1:** SFT Right (+) $\\to$ Axis is on the **Left**. (So it's ? on Left).\\n**Step 2:** Spring Negative $\\to$ Forward Torsion (L on L).\\n**Check:** Forward torsions have SAME letters. L on L fits."
     },
     {
       "question": "Which of the following findings is consistent with a 'Non-Physiologic' (Backward) Sacral Torsion?",
@@ -25,8 +25,8 @@ window.receiveLectureContent({
         "L5 Rotated opposite to Sacrum",
         "Symmetrical Sacral Sulci"
       ],
-      "answer": 2,
-      "explanation": "**Positive Spring Test** (Hard/Stiff) indicates the sacral base is stuck backward (Posterior), which is a non-physiologic backward torsion."
+      "correctAnswer": 2,
+      "rationale": "**Positive Spring Test** (Hard/Stiff) indicates the sacral base is stuck backward (Posterior), which is a non-physiologic backward torsion."
     },
     {
       "question": "In a Right on Right sacral torsion, L5 will be:",
@@ -37,8 +37,8 @@ window.receiveLectureContent({
         "Rotated Right, Sidebent Left",
         "Neutral"
       ],
-      "answer": 1,
-      "explanation": "**R on R:** Axis is Right $\\to$ L5 Sidebends **Right**. Rotation is Right $\\to$ L5 Rotates **Left** (Opposite). Pattern: Rot Left, SB Right (Type I neutral mechanics)."
+      "correctAnswer": 1,
+      "rationale": "**R on R:** Axis is Right $\\to$ L5 Sidebends **Right**. Rotation is Right $\\to$ L5 Rotates **Left** (Opposite). Pattern: Rot Left, SB Right (Type I neutral mechanics)."
     },
     {
       "question": "The Superior Transverse Axis (S2) is associated with which motion?",
@@ -49,8 +49,8 @@ window.receiveLectureContent({
         "Walking Cycle",
         "Disc Herniation"
       ],
-      "answer": 2,
-      "explanation": "**Superior Axis:** Respiratory/Craniosacral.\\n**Middle Axis:** Postural.\\n**Inferior Axis:** Innominate (Ilial)."
+      "correctAnswer": 2,
+      "rationale": "**Superior Axis:** Respiratory/Craniosacral.\\n**Middle Axis:** Postural.\\n**Inferior Axis:** Innominate (Ilial)."
     },
     {
       "question": "If the Seated Flexion Test is positive on the LEFT, which oblique axis is engaged?",
@@ -61,8 +61,8 @@ window.receiveLectureContent({
         "Inferior Transverse Axis",
         "Vertical Axis"
       ],
-      "answer": 1,
-      "explanation": "SFT is positive on the side of dysfunction. The functioning axis is on the **OPPOSITE** side. Positive Left $\\to$ Axis is **Right**."
+      "correctAnswer": 1,
+      "rationale": "SFT is positive on the side of dysfunction. The functioning axis is on the **OPPOSITE** side. Positive Left $\\to$ Axis is **Right**."
     }
   ],
   "flashcards": [

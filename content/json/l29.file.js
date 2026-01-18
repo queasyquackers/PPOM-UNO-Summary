@@ -13,8 +13,8 @@ window.receiveLectureContent({
         "Double Cortex Syndrome",
         "Porencephaly"
       ],
-      "answer": 1,
-      "explanation": "**Lissencephaly** literally means 'Smooth Brain'. It is a severe migration disorder where gyri fail to form (Agyria)."
+      "correctAnswer": 1,
+      "rationale": "**Lissencephaly** literally means 'Smooth Brain'. It is a severe migration disorder where gyri fail to form (Agyria)."
     },
     {
       "question": "Which cell type serves as the scaffold for neuronal migration in the developing neocortex?",
@@ -25,8 +25,8 @@ window.receiveLectureContent({
         "Microglia",
         "Schwann Cells"
       ],
-      "answer": 2,
-      "explanation": "**Radial Glia** extend processes from the ventricle to the pial surface, acting as 'train tracks' for migrating neurons."
+      "correctAnswer": 2,
+      "rationale": "**Radial Glia** extend processes from the ventricle to the pial surface, acting as 'train tracks' for migrating neurons."
     },
     {
       "question": "An MRI reveals nodules of gray matter lining the lateral ventricles. Which gene mutation is most strongly associated with this finding?",
@@ -37,8 +37,8 @@ window.receiveLectureContent({
         "ASPM",
         "MAPT"
       ],
-      "answer": 1,
-      "explanation": "This describes **Periventricular Nodular Heterotopia** (PVH). The classic association is **Filamin A** (an actin-binding protein needed for migration initiation)."
+      "correctAnswer": 1,
+      "rationale": "This describes **Periventricular Nodular Heterotopia** (PVH). The classic association is **Filamin A** (an actin-binding protein needed for migration initiation)."
     },
     {
       "question": "In the 'Inside-Out' pattern of cortical development, which layer is formed LAST?",
@@ -49,8 +49,8 @@ window.receiveLectureContent({
         "Layer 2",
         "Subplate"
       ],
-      "answer": 3,
-      "explanation": "Deep layers (6) form first. Superficial layers (2) form last. (Layer 1 is the marginal zone and exists early, but the *cortical plate* neurons fill in 6->2)."
+      "correctAnswer": 3,
+      "rationale": "Deep layers (6) form first. Superficial layers (2) form last. (Layer 1 is the marginal zone and exists early, but the *cortical plate* neurons fill in 6->2)."
     },
     {
       "question": "Molecular Layer Heterotopia (neurons migrating too far) is often found in the brains of patients with:",
@@ -61,8 +61,8 @@ window.receiveLectureContent({
         "Huntington's Disease",
         "Multiple Sclerosis"
       ],
-      "answer": 1,
-      "explanation": "Small clusters of neurons in Layer 1 (Molecular Layer Heterotopia) are seen in **Dyslexia** and **Epilepsy**."
+      "correctAnswer": 1,
+      "rationale": "Small clusters of neurons in Layer 1 (Molecular Layer Heterotopia) are seen in **Dyslexia** and **Epilepsy**."
     }
   ],
   "flashcards": [

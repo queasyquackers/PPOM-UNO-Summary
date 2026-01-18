@@ -13,8 +13,8 @@ window.receiveLectureContent({
         "Left MGN",
         "Left Anterior Nucleus"
       ],
-      "answer": 1,
-      "explanation": "Thalamic Pain Syndrome (Dejerine-Roussy) is contralateral. A **Left** VPL infarct affects the Right side of the body. VPL handles body sensation."
+      "correctAnswer": 1,
+      "rationale": "Thalamic Pain Syndrome (Dejerine-Roussy) is contralateral. A **Left** VPL infarct affects the Right side of the body. VPL handles body sensation."
     },
     {
       "question": "Visual information from the optic tract synapses in which thalamic nucleus?",
@@ -25,8 +25,8 @@ window.receiveLectureContent({
         "Pulvinar",
         "Ventral Anterior Nucleus"
       ],
-      "answer": 1,
-      "explanation": "**LGN** = **L**ight (Vision). MGN = Music (Hearing)."
+      "correctAnswer": 1,
+      "rationale": "**LGN** = **L**ight (Vision). MGN = Music (Hearing)."
     },
     {
       "question": "Which limb of the internal capsule contains the corticospinal tract?",
@@ -37,8 +37,8 @@ window.receiveLectureContent({
         "Retrolenticular Part",
         "Sublenticular Part"
       ],
-      "answer": 2,
-      "explanation": "The **Posterior Limb** of the Internal Capsule carries the Corticospinal tract (Motor to body) and Somatosensory radiations."
+      "correctAnswer": 2,
+      "rationale": "The **Posterior Limb** of the Internal Capsule carries the Corticospinal tract (Motor to body) and Somatosensory radiations."
     },
     {
       "question": "Which thalamic nucleus is part of the Papez circuit involved in memory?",
@@ -49,8 +49,8 @@ window.receiveLectureContent({
         "Lateral Posterior",
         "Centromedian"
       ],
-      "answer": 1,
-      "explanation": "The **Anterior Nucleus** receives input from the Mammillary Bodies and projects to the Cingulate Gyrus, forming part of the Papez circuit for memory/emotion."
+      "correctAnswer": 1,
+      "rationale": "The **Anterior Nucleus** receives input from the Mammillary Bodies and projects to the Cingulate Gyrus, forming part of the Papez circuit for memory/emotion."
     },
     {
       "question": "The 'Burst Mode' of thalamocortical firing is associated with:",
@@ -61,8 +61,8 @@ window.receiveLectureContent({
         "Panic attacks",
         "Active learning"
       ],
-      "answer": 2,
-      "explanation": "**Burst Mode** is an oscillatory state that disconnects the cortex from sensory input, characteristic of **Slow Wave Sleep** (and Absence Seizures)."
+      "correctAnswer": 2,
+      "rationale": "**Burst Mode** is an oscillatory state that disconnects the cortex from sensory input, characteristic of **Slow Wave Sleep** (and Absence Seizures)."
     }
   ],
   "flashcards": [
