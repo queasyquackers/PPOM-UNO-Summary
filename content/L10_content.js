@@ -35,7 +35,7 @@ Lesion of the sympathetic pathway to the head/neck.
 *   **Cause:** Spinal Cord Injury above **T6**.
 *   **Mechanism:** A noxious stimulus (e.g., full bladder) triggers a massive sympathetic surge below the lesion.
 *   **Consequence:** Widespread vasoconstriction causes life-threatening **Hypertension**.
-*   **Reflex:** Baroreceptors detect high BP $\\to$ Vagus nerve slows heart $\\to$ **Bradycardia**.
+*   **Reflex:** Baroreceptors detect high BP → Vagus nerve slows heart → **Bradycardia**.
 *   **Result:** Hypertension + Bradycardia.
 
 ### Bladder Dysfunction (Slide 31-32)
@@ -57,7 +57,7 @@ The "Brain of the Gut", capable of functioning independently.
 
 ## 4. Cardiovascular Reflexes (Slide 27)
 
-*   **Carotid Sinus Massage:** Mechanically stimulates baroreceptors $\\to$ mimics high BP $\\to$ increases Vagal tone $\\to$ slows Heart Rate. Used to terminate SVT.
+*   **Carotid Sinus Massage:** Mechanically stimulates baroreceptors → mimics high BP → increases Vagal tone → slows Heart Rate. Used to terminate SVT.
 :::highyield
 **Contraindication:** Do not perform Carotid Massage in patients with carotid stenosis or recent stroke, as it may dislodge an embolus.
 :::

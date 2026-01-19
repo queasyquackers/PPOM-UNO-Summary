@@ -11,8 +11,8 @@ export const L16_CONTENT = {
 The eye focuses light onto the retina to transduce it into neural signals.
 *   **Refraction:** Most focusing power comes from the **Cornea** (air-water interface), not the lens.
 *   **Accommodation:** The **Lens** changes shape to focus near objects.
-    *   **Near Vision (Reflex):** Ciliary muscle **Contracts** $\\to$ Zonules Relax $\\to$ Lens becomes **Rounder**. (+ Pupil constriction + Convergence).
-    *   **Far Vision:** Ciliary muscle Relaxes $\\to$ Zonules Tighten $\\to$ Lens flattens.
+    *   **Near Vision (Reflex):** Ciliary muscle **Contracts** → Zonules Relax → Lens becomes **Rounder**. (+ Pupil constriction + Convergence).
+    *   **Far Vision:** Ciliary muscle Relaxes → Zonules Tighten → Lens flattens.
 *   **Aqueous Humor:** Produced by Ciliary Body. Drains via **Canal of Schlemm**. Blockage = **Glaucoma**.
 
 ### Retina Organization
@@ -22,7 +22,7 @@ The eye focuses light onto the retina to transduce it into neural signals.
 
 ## 2. Visual Pathway (Slide 26-30)
 
-1.  **Retina:** Light hits Photoreceptors $\\to$ Bipolar Cells $\\to$ Ganglion Cells.
+1.  **Retina:** Light hits Photoreceptors → Bipolar Cells → Ganglion Cells.
 2.  **Optic Nerve (CN II):** Ganglion cell axons.
 3.  **Optic Chiasm:** **Nasal** fibers (temporal field) **CROSS**. Temporal fibers (nasal field) stay ipsilateral.
 4.  **Optic Tract:** Contains ipsilateral Temporal fibers + contralateral Nasal fibers. Projects to **LGN**.
@@ -65,22 +65,22 @@ The eye focuses light onto the retina to transduce it into neural signals.
 
 :::mnemonic
 **Visual Field Defects**
-*   **Tem**poral Loop = **Pie in the Sky** (Temporal lobe lesion $\\to$ Superior field defect).
-*   **Parietal** Path = **Pie on the Floor** (Parietal lobe lesion $\\to$ Inferior field defect).
+*   **Tem**poral Loop = **Pie in the Sky** (Temporal lobe lesion → Superior field defect).
+*   **Parietal** Path = **Pie on the Floor** (Parietal lobe lesion → Inferior field defect).
 :::
 `,
     pearls: [
         {
             title: "Pituitary Adenoma Deficit",
-            content: "Compresses Optic Chiasm $\\to$ **Bitemporal Hemianopsia** (Tunnel Vision)."
+            content: "Compresses Optic Chiasm → **Bitemporal Hemianopsia** (Tunnel Vision)."
         },
         {
             title: "Meyer's Loop Deficit",
-            content: "Temporal Lobe lesion $\\to$ **Superior** Homonymous Quadrantanopia ('Pie in the Sky')."
+            content: "Temporal Lobe lesion → **Superior** Homonymous Quadrantanopia ('Pie in the Sky')."
         },
         {
             title: "Parietal Radiation Deficit",
-            content: "Parietal Lobe lesion $\\to$ **Inferior** Homonymous Quadrantanopia ('Pie on the Floor')."
+            content: "Parietal Lobe lesion → **Inferior** Homonymous Quadrantanopia ('Pie on the Floor')."
         },
         {
             title: "Macular Sparing",

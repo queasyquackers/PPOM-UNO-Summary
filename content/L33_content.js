@@ -26,8 +26,8 @@ export const L33_CONTENT = {
 ## 3. Hemodynamics (Key Concepts)
 *   **Mean Arterial Pressure (MAP):** $\\text{CO} \\times \\text{TPR}$.
 *   **Pulse Pressure:** $\\text{Systolic} - \\text{Diastolic}$.
-*   **Epinephrine Reversal:** Giving an $\\alpha$-blocker before Epinephrine converts its pressor effect ($\\alpha_1$) to a depressor effect ($\\beta_2$ unmasked) $\\to$ Hypotension.
-*   **Reflex Bradycardia:** Pure $\\alpha_1$ agonists (Phenylephrine/Norepinephrine) cause massive vasoconstriction $\\to$ $\\uparrow$ BP $\\to$ Baroreceptors fire $\\to$ Reflex $\\downarrow$ HR.
+*   **Epinephrine Reversal:** Giving an $\\alpha$-blocker before Epinephrine converts its pressor effect ($\\alpha_1$) to a depressor effect ($\\beta_2$ unmasked) → Hypotension.
+*   **Reflex Bradycardia:** Pure $\\alpha_1$ agonists (Phenylephrine/Norepinephrine) cause massive vasoconstriction → $\\uparrow$ BP → Baroreceptors fire → Reflex $\\downarrow$ HR.
 
 ## 4. Clinical Pearls
 *   **Anaphylaxis:** Epinephrine is the ONLY first-line drug. Prevents shock ($\\alpha_1$), opens airway ($\\beta_2$), stops mast cells.

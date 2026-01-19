@@ -14,7 +14,7 @@ export const L39_CONTENT = {
 *   **Selective Alpha-1 Blockers (-zosins):**
     *   **Prazosin, Terazosin, Doxazosin:** Used for HTN (add-on) and BPH.
     *   **Tamsulosin (Flomax):** Alpha-1A selective ( Prostate specific). Used for **BPH** (less hypotension).
-    *   *Adverse Effects:* **First-Dose Effect** (Syncope/Severe Orthostatis) $\\to$ Take at bedtime! **Floppy Iris Syndrome** (Cataract surgery risk).
+    *   *Adverse Effects:* **First-Dose Effect** (Syncope/Severe Orthostatis) → Take at bedtime! **Floppy Iris Syndrome** (Cataract surgery risk).
 *   **Selective Alpha-2 Antagonist:**
     *   **Yohimbine:** Increases NE release (blocks feedback). "Aphrodisiac". Causes anxiety/tremor.
 
@@ -37,7 +37,7 @@ export const L39_CONTENT = {
     *   Non-selectives delay recovery from hypoglycemia (block liver gluconeogenesis).
 *   **Withdrawal:**
     *   **NEVER** stop abruptly. Chronic use UPREGULATES receptors.
-    *   Sudden stop $\\to$ Rebound HTN, Angina, MI, Sudden Death.
+    *   Sudden stop → Rebound HTN, Angina, MI, Sudden Death.
 
 ## 4. Therapeutic Uses Summary
 | Indication | Preferred Agents | Mechanism |
@@ -68,7 +68,7 @@ export const L39_CONTENT = {
         },
         {
             title: "Pheochromocytoma Rule",
-            content: "Always give **Alpha** blockers BEFORE Beta blockers. (A before B). Giving Beta first leaves Alpha unopposed $\\to$ Hypertensive Crisis."
+            content: "Always give **Alpha** blockers BEFORE Beta blockers. (A before B). Giving Beta first leaves Alpha unopposed → Hypertensive Crisis."
         }
     ],
     questions: [
@@ -130,7 +130,7 @@ export const L39_CONTENT = {
                 "A Calcium Channel Blocker"
             ],
             correctAnswer: 1,
-            rationale: "An **Alpha Blocker** (like Phentolamine) blocks the vasoconstriction (Alpha-1) of Epi, leaving the vasodilation (Beta-2) unopposed $\\to$ BP drop."
+            rationale: "An **Alpha Blocker** (like Phentolamine) blocks the vasoconstriction (Alpha-1) of Epi, leaving the vasodilation (Beta-2) unopposed → BP drop."
         }
     ],
     flashcards: [

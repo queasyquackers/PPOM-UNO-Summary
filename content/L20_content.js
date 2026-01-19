@@ -37,7 +37,7 @@ Indirect-acting agents inhibit **Acetylcholinesterase (AChE)**, increasing the c
 ### Organophosphates (Insecticides, Nerve Gas)
 *   *Mechanism:* **Irreversible** inhibition of AChE (via phosphorylation). "Aging" makes the bond permanent.
 *   *Muscarinic Signs (DUMBELS):* **D**iarrhea, **U**rination, **M**iosis, **B**radycardia/Bronchospasm, **E**mesis, **L**acrimation, **S**alivation.
-*   *Nicotinic Signs:* Fasciculations $\\to$ Paralysis (Depolarizing blockade).
+*   *Nicotinic Signs:* Fasciculations → Paralysis (Depolarizing blockade).
 *   *Treatment:*
     1.  **Atropine:** Blocks Muscarinic effects (life-saving for lungs/heart).
     2.  **Pralidoxime (2-PAM):** Regenerates AChE **IF** given before aging. Relieves neuromuscular paralysis (Atropine does not).

@@ -54,7 +54,7 @@ export const L37_CONTENT = {
     *   **Meaning:** Loss of **Proprioception** (Dorsal Columns). *Note: Cerebellar ataxia occurs with eyes OPEN too.*
 
 ## 5. Other Signs
-*   **Pronator Drift:** Eyes closed, arms out palms up. If one arm pronates and drops $\\to$ Contralateral **UMN** (Corticospinal) weakness.
+*   **Pronator Drift:** Eyes closed, arms out palms up. If one arm pronates and drops → Contralateral **UMN** (Corticospinal) weakness.
 *   **Primitive Reflexes:** Grasp, Rooting, Snout. Seen in Frontal Lobe lesions (or babies).
 `,
     pearls: [

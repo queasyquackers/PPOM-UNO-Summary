@@ -18,7 +18,7 @@ export const L40_CONTENT = {
     *   *Causes:* Syringomyelia (Chiari I), Trauma (Hyperextension), Tumor.
 *   **Posterior Column Syndrome (Tabes Dorsalis):**
     *   *Lesion:* Dorsal Columns.
-    *   *Presentation:* Loss of Proprioception/Vibration $\\to$ Sensory Ataxia (**Stomping Gait**, +Romberg). **Lhermitte Sign** (Shock down back).
+    *   *Presentation:* Loss of Proprioception/Vibration → Sensory Ataxia (**Stomping Gait**, +Romberg). **Lhermitte Sign** (Shock down back).
     *   *Causes:* **Neurosyphilis** (Tabes Dorsalis - Triad: Lightning pains, Ataxia, Argyll Robertson Pupil), B12 Deficiency.
 *   **Posterolateral Column Syndrome (Subacute Combined Degeneration):**
     *   *Lesion:* Dorsal Columns + Corticospinal Tract.
@@ -92,7 +92,7 @@ export const L40_CONTENT = {
                 "Bilateral loss of all sensation"
             ],
             correctAnswer: 3,
-            rationale: "**Brown-Séquard:** Contralateral loss of Pain/Temp. Right lesion $\\to$ **Left** leg Pain/Temp loss. (Right leg would lose Motor/Vibe)."
+            rationale: "**Brown-Séquard:** Contralateral loss of Pain/Temp. Right lesion → **Left** leg Pain/Temp loss. (Right leg would lose Motor/Vibe)."
         },
         {
             question: "A patient recovering from abdominal aortic aneurysm repair develops bilateral leg paralysis and loss of pain sensation, but preserves vibration sense. The most likely diagnosis is:",

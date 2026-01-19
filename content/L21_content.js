@@ -14,7 +14,7 @@ export const L21_CONTENT = {
 
 ## 2. Clinical Uses (Slide 21-23)
 *   **Atropine:**
-    *   **Bradycardia:** Blocks vagal tone (M2) $\\to$ Increases HR.
+    *   **Bradycardia:** Blocks vagal tone (M2) → Increases HR.
     *   **Antidote:** For Organophosphate poisoning.
     *   **Pre-op:** Reduces metabolic secretions.
     *   *Note:* Low doses can cause **Paradoxical Bradycardia** (blocks presynaptic M2 autoreceptors).
@@ -39,7 +39,7 @@ export const L21_CONTENT = {
 *   **Treatment:** **Physostigmine** (crosses BBB) - *Use with caution!*
 
 ## 4. Contraindications (Slide 25)
-*   **Narrow-Angle Glaucoma:** Dilation blocks outflow $\\to$ Acute crisis.
+*   **Narrow-Angle Glaucoma:** Dilation blocks outflow → Acute crisis.
 *   **BPH (Prostatic Hyperplasia):** Worsens urinary retention.
 *   **Elderly:** Risk of falls, confusion, delirium (BEERS criteria).
 *   **GI Obstruction/Ileus:** Worsens constipation.
@@ -48,7 +48,7 @@ export const L21_CONTENT = {
 
 :::correlate
 **Drug Interactions**
-*   **Oxybutynin + Macrolides (Erythromycin):** Macrolides inhibit **CYP3A4**. Oxybutynin is metabolized by CYP3A4. Result $\\to$ **Anticholinergic Toxicity**.
+*   **Oxybutynin + Macrolides (Erythromycin):** Macrolides inhibit **CYP3A4**. Oxybutynin is metabolized by CYP3A4. Result → **Anticholinergic Toxicity**.
 :::
 
 :::correlate
@@ -64,7 +64,7 @@ export const L21_CONTENT = {
         },
         {
             title: "Paradoxical Bradycardia",
-            content: "Low dose Atropine blocks **Presynaptic M2** autoreceptors $\\to$ Increases ACh releases $\\to$ Slows Heart."
+            content: "Low dose Atropine blocks **Presynaptic M2** autoreceptors → Increases ACh releases → Slows Heart."
         },
         {
             title: "Reversal Agents",

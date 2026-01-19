@@ -30,7 +30,7 @@ export const L45_CONTENT = {
 ## 2. Cranial Nerve & Vessel Associations
 *   **CN III (Oculomotor):**
     *   Runs between **Posterior Cerebral Artery (PCA)** and **Superior Cerebellar Artery (SCA)**.
-    *   Susceptible to **PCom Aneurysms** $\\to$ **Dilated Pupil** + Down & Out Eye.
+    *   Susceptible to **PCom Aneurysms** → **Dilated Pupil** + Down & Out Eye.
 
 ## 3. Cerebellar Lesions
 *   **Lateral Cerebellum (Hemispheres):**

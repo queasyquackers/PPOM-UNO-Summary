@@ -14,11 +14,11 @@ export const L36_CONTENT = {
 *   **Motor (V3):** Muscles of Mastication (Temporalis, Masseter, Pterygoids).
 *   **Clinical:**
     *   *Trigeminal Neuralgia:* "Suicide disease". Sharp shooting pain.
-    *   *Corneal Reflex:* Afferent V1 (Ophthalmic) $\\to$ Efferent VII (Facial).
+    *   *Corneal Reflex:* Afferent V1 (Ophthalmic) → Efferent VII (Facial).
 
 ## 2. CN VII (Facial)
 *   **Motor:** Muscles of Facial Expression, Stapedius (dampens sound), Stylohyoid, Digastric (Post).
-*   **Parasympathetic:** Superior Salivatory Nucleus $\\to$ Lacrimal (Tears), Submandibular/Sublingual (Saliva).
+*   **Parasympathetic:** Superior Salivatory Nucleus → Lacrimal (Tears), Submandibular/Sublingual (Saliva).
 *   **Sensory:** Taste Anterior 2/3 of Tongue.
 *   **Clinical:**
     *   **Bell's Palsy (LMN):** Ipsilateral paralysis of **ENTIRE** face (Forehead involved). Hyperacusis, Loss of taste.
@@ -30,8 +30,8 @@ export const L36_CONTENT = {
     *   *Motor:* Stylopharyngeus.
     *   *Reflex:* **Gag Reflex (Afferent)**.
 *   **CN X:**
-    *   *Motor:* Nucleus Ambiguus $\\to$ Pharynx/Larynx/Palate.
-    *   *Visceral:* Dorsal Motor Nucleus $\\to$ GI/Heart (Parasymp).
+    *   *Motor:* Nucleus Ambiguus → Pharynx/Larynx/Palate.
+    *   *Visceral:* Dorsal Motor Nucleus → GI/Heart (Parasymp).
     *   *Reflex:* **Gag Reflex (Efferent)**.
     *   *Lesion:* **Uvula deviates AWAY** from lesion. Hoarseness.
 

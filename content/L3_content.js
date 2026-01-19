@@ -109,11 +109,11 @@ Increased Intracranial Pressure (ICP) can force brain tissue through compartment
 
 ## 4. Ventricular System & CSF (Slides 35-43)
 ### CSF Flow Pathway
-1.  **Lateral Ventricles** (via Foramen of **Monro**) -->
-2.  **Third Ventricle** (via Cerebral **Aqueduct of Sylvius**) -->
-3.  **Fourth Ventricle** (via Foramina of **Luschka** [Lateral] and **Magendie** [Medial]) -->
-4.  **Subarachnoid Space** -->
-5.  **Arachnoid Granulations** -->
+1.  **Lateral Ventricles** (via Foramen of **Monro**) →
+2.  **Third Ventricle** (via Cerebral **Aqueduct of Sylvius**) →
+3.  **Fourth Ventricle** (via Foramina of **Luschka** [Lateral] and **Magendie** [Medial]) →
+4.  **Subarachnoid Space** →
+5.  **Arachnoid Granulations** →
 6.  **Superior Sagittal Sinus** (Venous blood).
 
 ### Hydrocephalus

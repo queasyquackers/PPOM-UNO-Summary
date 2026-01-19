@@ -23,8 +23,8 @@ Mnemonic for Functions: **TAN HATS**
 *   **Paraventricular Nucleus (PVN):** Produces Oxytocin, ADH, TRH, CRH. Projects to autonomic centers.
 *   **Supraoptic Nucleus (SON):** Produces mainly **ADH** (Vasopressin) and Oxytocin.
 *   **Suprachiasmatic Nucleus (SCN):** Master **Circadian Clock**. Regulated by light input from retina.
-*   **Anterior Hypothalamus:** Cooling (Parasympathetic). Lesion $\\to$ Hyperthermia. "A/C = Anterior Cooling".
-*   **Posterior Hypothalamus:** Heating (Sympathetic). Lesion $\\to$ Hypothermia (Poikilothermia).
+*   **Anterior Hypothalamus:** Cooling (Parasympathetic). Lesion → Hyperthermia. "A/C = Anterior Cooling".
+*   **Posterior Hypothalamus:** Heating (Sympathetic). Lesion → Hypothermia (Poikilothermia).
 *   **Mammillary Bodies:** Episodic Memory. Input from Hippocampus (Fornix).
 
 :::correlate
@@ -37,8 +37,8 @@ Mnemonic for Functions: **TAN HATS**
 
 ## 3. Feeding Regulation (Slide 19-22)
 
-*   **Lateral Hypothalamus:** **Hunger Center**. Lesion $\\to$ **Anorexia** ("Lateral makes you Lean").
-*   **Ventromedial Nucleus:** **Satiety Center**. Lesion $\\to$ **Hyperphagia** and Obesity ("Ventromedial makes you Very Massive").
+*   **Lateral Hypothalamus:** **Hunger Center**. Lesion → **Anorexia** ("Lateral makes you Lean").
+*   **Ventromedial Nucleus:** **Satiety Center**. Lesion → **Hyperphagia** and Obesity ("Ventromedial makes you Very Massive").
 *   **Hormones:**
     *   **Leptin:** From adipose tissue. Signals satiety (inhibits Lateral, stimulates Ventromedial).
     *   **Ghrelin:** From stomach. Signals hunger.

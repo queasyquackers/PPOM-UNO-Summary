@@ -20,7 +20,7 @@ export const L17_CONTENT = {
 The **Organ of Corti** sits on the basilar membrane.
 *   **Inner Hair Cells (IHC):** The primary sensory receptors (95% of afferents).
 *   **Outer Hair Cells (OHC):** Cochlear amplifiers. Damage = **Tinnitus**.
-*   **Transduction:** Vibration bends stereocilia $\\to$ Tip links open K+ channels $\\to$ K+ influx (depolarization) $\\to$ Ca2+ influx $\\to$ Glutamate release.
+*   **Transduction:** Vibration bends stereocilia → Tip links open K+ channels → K+ influx (depolarization) → Ca2+ influx → Glutamate release.
 
 ## 3. Auditory Pathway (Slide 20-21)
 "E. C. O. L. I. M." mnemonic.
@@ -74,7 +74,7 @@ The **Organ of Corti** sits on the basilar membrane.
     pearls: [
         {
             title: "Pathway Mnemonic (E. COLIM)",
-            content: "**E**ighth Nerve $\\to$ **C**ochlear Nucleus $\\to$ **O**live (Superior) $\\to$ **L**ateral Lemniscus $\\to$ **I**nferior Colliculus $\\to$ **M**GN."
+            content: "**E**ighth Nerve → **C**ochlear Nucleus → **O**live (Superior) → **L**ateral Lemniscus → **I**nferior Colliculus → **M**GN."
         },
         {
             title: "Cochlear Tonotopy",

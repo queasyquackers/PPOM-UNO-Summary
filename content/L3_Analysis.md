@@ -590,7 +590,7 @@ Cerebral Herniation and Their I maging Features. Radiographic s. 2019 Oct;39(6):
 Transtentorial Herniation
 • Transtentorial (Uncal) Herniation: the uncus 
 compresses the ipsilateral oculomotor 
-nerve: ipsilateral fixed and dilated pupil--> 
+nerve: ipsilateral fixed and dilated pupil→ 
 “blown pupil”
 • Need immediate neurosurgical 
 intervention: Craniectomy to 

@@ -81,7 +81,7 @@ The **Ascending Reticular Activating System (ARAS)** projects to the cortex to m
 
 ### Descending Pain Modulation
 The brainstem can inhibit incoming pain signals (Pain Inhibits Pain).
-*   **Pathway:** Periaqueductal Gray (**PAG**) $\\to$ Rostral Ventromedial Medulla (**RVM**, Raphe Magnus) $\\to$ Dorsal Horn (block pain transmission via Enkephalins/Serotonin/NE).
+*   **Pathway:** Periaqueductal Gray (**PAG**) → Rostral Ventromedial Medulla (**RVM**, Raphe Magnus) → Dorsal Horn (block pain transmission via Enkephalins/Serotonin/NE).
 *   **Clinical:** Antidepressants like **SnRIs (Duloxetine)** or **TCAs (Amitriptyline)** treat chronic pain by boosting NE/5-HT in this inhibitory pathway.
 `,
     pearls: [
@@ -103,7 +103,7 @@ The brainstem can inhibit incoming pain signals (Pain Inhibits Pain).
         },
         {
             title: "Pain Modulation Pathway",
-            content: "**PAG** (Midbrain) $\\to$ **RVM** (Medulla) $\\to$ Spinal Cord Dorsal Horn. Mediated by Opioids, Serotonin, and NE."
+            content: "**PAG** (Midbrain) → **RVM** (Medulla) → Spinal Cord Dorsal Horn. Mediated by Opioids, Serotonin, and NE."
         }
     ],
     questions: [

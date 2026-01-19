@@ -11,7 +11,7 @@ export const L25_CONTENT = {
     *   *Open-Angle:* Slow drainage (Trabecular meshwork). Chronic.
     *   *Closed-Angle:* Iris blocks drainage angle. **Emergency** (Pain, Red eye, Haloes).
 *   **Accommodation:**
-    *   **Near Vision:** Ciliary Muscle **Contracts** $\\to$ Zonules **Relax** $\\to$ Lens becomes **Rounder**.
+    *   **Near Vision:** Ciliary Muscle **Contracts** → Zonules **Relax** → Lens becomes **Rounder**.
 *   **Photoreceptors:**
     *   *Rods:* High sensitivity (Night), Peripheral retina.
     *   *Cones:* Color, Acuity, Concentrated in **Fovea**.
@@ -58,7 +58,7 @@ export const L25_CONTENT = {
         },
         {
             title: "Meyer's Loop Lesion",
-            content: "Temporal Lobe lesion $\\to$ **'Pie in the Sky'** (Contralateral Superior Quadrantanopia)."
+            content: "Temporal Lobe lesion → **'Pie in the Sky'** (Contralateral Superior Quadrantanopia)."
         },
         {
             title: "Macular Sparing",
@@ -66,7 +66,7 @@ export const L25_CONTENT = {
         },
         {
             title: "Accommodation Mechanism",
-            content: "Ciliary Muscle **Contracts** $\\to$ Zonules **Relax** $\\to$ Lens **Rounds**."
+            content: "Ciliary Muscle **Contracts** → Zonules **Relax** → Lens **Rounds**."
         },
         {
             title: "Hemispatial Neglect",
