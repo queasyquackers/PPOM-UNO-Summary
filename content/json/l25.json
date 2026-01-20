@@ -1,69 +1,171 @@
 {
   "id": "l25",
-  "title": "Lecture #25: Limbic System",
-  "lecturer": "J. Xie, Ph.D.",
-  "module": "Neurology",
+  "title": "Lecture 25: Limbic System - Neuroanatomy, Regional Function and Limbic Pathology",
+  "lecturer": "Jennifer Xie, Ph.D.",
   "session": "Lecture #25",
+  "module": "Neuroscience",
   "prev": "l24",
   "next": "l26",
-  "pdf": "pdfs/Lecture # 25. J. Xie, Ph.D. (PPT).pdf",
-  "summary": "# Lecture #25: Limbic System\n\n**Lecturer:** J. Xie, Ph.D.\n**Session:** Neurology\n\n## 1. Components (The \"HOME\" Mnemonic)\n*   **Homeostasis:** Hypothalamus.\n*   **Olfaction:** Olfactory Cortex.\n*   **Memory:** Hippocampus.\n*   **Emotion:** Amygdala.\n\n## 2. Key Structures\n*   **Hippocampus:**\n    *   *Function:* Consolidation of Short-term -> Long-term memory (Declarative). Spatial memory.\n    *   *Lesion:* **Anterograde Amnesia** (Cannot form new memories). Patient H.M.\n    *   *Circuit:* **Papez Circuit** (Hippocampus -> Fornix -> Mammillary Bodies -> Thalamus (Anterior) -> Cingulate -> Hippocampus).\n*   **Amygdala:**\n    *   *Function:* Fear, Aggression, Emotional tagging of memories.\n    *   *Lesion (Bilateral):* **Kluver-Bucy Syndrome**:\n        1.  Hyperorality.\n        2.  Hypersexuality.\n        3.  Docility (No fear/aggression).\n*   **Cingulate Gyrus:** Emotional processing, error detection.\n\n## 3. Pathology\n*   **Wernicke-Korsakoff Syndrome:**\n    *   *Cause:* Thiamine (B1) Deficiency (Alcoholics).\n    *   *Path:* Atrophy of **Mammillary Bodies** and Medial Thalamus.\n    *   *Symptoms:*\n        *   **Wernicke:** Confusion, Ataxia, Ophthalmoplegia (Reversible).\n        *   **Korsakoff:** Anterograde/Retrograde Amnesia, **Confabulation** (Irreversible).\n*   **HSV Encephalitis:**\n    *   *Target:* Temporal Lobes (Hippocampus/Amygdala).\n    *   *Symptoms:* Fever, Headache, Seizures, Behavioral changes, Amnesia.\n*   **Temporal Lobe Epilepsy:**\n    *   *Signs:* Auras (Olfactory/Gustatory hallucinations), Deja vu, Jamais vu.\n\n## 4. Clinical Correlates\n:::correlate\n**Kluver-Bucy Syndrome**\n*   **Lesion:** Bilateral Amygdala damage (e.g., HSV-1, Trauma).\n*   **Features:**\n    *   **Docility:** Loss of fear/anger.\n    *   **Hyperorality:** Putting objects in mouth.\n    *   **Hypersexuality:** Inappropriate behavior.\n    *   **Visual Agnosia:** Psychic blindness.\n:::\n\n:::correlate\n**Patient H.M.**\n*   **Case:** Bilateral Medial Temporal Lobe resection for epilepsy.\n*   **Result:** Severe **Anterograde Amnesia**. Could not form new episodic memories, but Procedural memory (motor skills) remained intact.\n:::",
-  "mindmap": "## Limbic System\n### Functions (HOME)\n*   **H**omeostasis (Hypothalamus)\n*   **O**lfaction\n*   **M**emory (Hippocampus)\n*   **E**motion (Amygdala)\n### Pathology\n*   **Wernicke-Korsakoff**: B1 Def. Mammillary Bodies. Confabulation, Ataxia.\n*   **Kluver-Bucy**: Bilat Amygdala. Hypersexuality, Docility.\n*   **HSV Encephalitis**: Temporal Lobes.\n*   **Alzheimer's**: Hippocampal atrophy (early).",
-  "questions": [],
-  "ankingResource": {
-    "primarySource": "BandB",
-    "chapter": "Neurology > Limbic System"
-  },
+  "pdf": "pdfs/Lecture # 25. J. Xie, Ph.D. (PPT)-1.pdf",
+  "transcript": "transcripts/Lecture #25_ Limbic System - Neuroanatomy, Regional Function and Limbic Pathology Faculty_ J. Xie, Ph.D..srt",
+  "summary": "\n# Lecture 25: Limbic System - Neuroanatomy, Regional Function and Limbic Pathology\n\n**Lecturer:** Jennifer Xie, Ph.D.\n**Session:** Lecture #25\n\n## 1. Introduction to the Limbic System (Slide 5-7)\n\nThe **Limbic System** (Latin *limbus* = \"border\") is a complex network of cortical and diencephalic structures located on the medial border of the cerebral hemisphere. It serves as a bridge, linking the conscious, intellectual functions of the **cerebral cortex** with the unconscious, autonomic regulation of the **brainstem** and **hypothalamus**.\n\n*   **Primary Function:** Regulates primitive emotional drives, memory storage/retrieval, and homeostasis.\n*   **The \"5 F's\" Mnemonic:**\n    :::mnemonic\n    **Functions of the Limbic System**\n    **The 5 F's**\n    *   **F**eeding (Satiety/Hunger)\n    *   **F**leeing (Fear response)\n    *   **F**ighting (Aggression)\n    *   **F**eeling (Emotion)\n    *   **F**ornicating (Sexual behavior)\n    :::\n\n### Key Structures\nWhile the exact composition is debated, the \"Big 3\" universally agreed-upon components are:\n1.  **Cingulate Gyrus:** Emotional processing of sensory input.\n2.  **Hippocampal Formation:** Memory consolidation and spatial navigation.\n3.  **Amygdala:** Fear, anger, and emotional association.\n\nOther components include the **Mammillary Bodies** (Hypothalamus), **Anterior Thalamic Nuclei**, **Septal Area** (Reward), and **Orbitofrontal Cortex** (Social behavior).\n\n## 2. Cingulate Gyrus (Slide 9-10)\nThe **Cingulate Gyrus** wraps around the corpus callosum and acts as a gateway between the cortex and limbic system.\n*   **Function:** It adds emotional \"coloring\" to sensory perceptions (e.g., how pain *feels* emotionally).\n*   **Clinical Relevance:**\n    *   **Cingulotomy:** A surgical lesioning of the anterior cingulate cortex. Historically used to treat intractable pain or severe depression/anxiety. Patients report they \"still feel the pain,\" but it \"doesn't bother them anymore\" (loss of the affective/suffering component).\n\n## 3. Hippocampal Formation & Memory (Slide 13-17)\nThe **Hippocampus** (Latin for \"Seahorse\") is critical for learning, memory consolidation, and spatial navigation.\n*   **Structure:** Composed of the **Dentate Gyrus**, **Hippocampus Proper (Cornu Ammonis: CA1-CA4)**, and **Subiculum**.\n*   **Vulnerability:** The **CA1 pyramidal cells** are exceptionally sensitive to **hypoxia/ischemia**. They will die within minutes of oxygen deprivation (Sommer's Sector).\n*   **Lateralization:**\n    *   **Right Hippocampus:** **Spatial Orientation** and navigation (e.g., London Taxi Drivers have enlarged right posterior hippocampi).\n    *   **Left Hippocampus:** Verbal memory.\n\n### The Fornix (Slide 16-17)\nThe major output tract of the hippocampus.\n*   **Pathway:** Hippocampus $\\to$ Fimbria $\\to$ Crus $\\to$ Body $\\to$ Columns of Fornix $\\to$ **Mammillary Bodies** (Hypothalamus).\n\n:::correlate\n**Temporal Lobe Epilepsy**\n*   **Pathophysiology:** The medial temporal lobe (Hippocampus/Amygdala) has the lowest seizure threshold in the brain.\n*   **Presentation:** **Complex Partial (Psychomotor) Seizures**.\n    *   Preceded by an **Aura** (e.g., burning rubber smell/uncinate fits, hallucinations, deja vu).\n    *   **Automatisms:** Lip smacking, chewing, swallowing, or fumbling of hands.\n    *   Altered consciousness (dreamy state).\n:::\n\n:::correlate\n**Herpes Simplex Encephalitis**\n*   **Pathophysiology:** **HSV-1** has a specific tropism for the **limbic cortex** (Medial Temporal Lobes/Orbitofrontal cortex).\n*   **Presentation:** Acute onset of fever, headache, seizures, and bizarre behavior.\n*   **Sequelae:** Bilateral necrosis of the medial temporal lobes leads to profound **Anterograde Amnesia** (inability to form new memories) and Kluver-Bucy-like symptoms.\n*   **Imaging:** Hyperintensity in temporal lobes on MRI (Slide 12).\n:::\n\n## 4. The Papez Circuit (Slide 30-31)\nDiscovered by James Papez (1937), this is the fundamental circuit for **Episodic Memory Consolidation** and emotional expression.\n\n:::highyield\n**The Papez Circuit Pathway**\n1.  **Hippocampus** (Subiculum)\n2.  $\\xrightarrow{\\text{Fornix}}$ **Mammillary Bodies**\n3.  $\\xrightarrow{\\text{Mammillothalamic Tract}}$ **Anterior Thalamic Nucleus**\n4.  $\\xrightarrow{\\text{Internal Capsule (Ant. Limb)}}$ **Cingulate Gyrus**\n5.  $\\xrightarrow{\\text{Cingulum bundle}}$ **Entorhinal Cortex / Hippocampus**\n*(The circuit closes)*\n:::\n\n## 5. Amygdala & Emotion (Slide 19-23)\nThe **Amygdala** (\"Almond\") is located deep in the uncus of the temporal lobe, anterior to the hippocampus.\n*   **Function:** Mediates **Fear**, **Anger**, **Aggression**, and the emotional significance of memories (e.g., fear conditioning).\n*   **Connections:**\n    *   **Hypothalamus:** Triggers autonomic responses to emotion (tachycardia, sweating).\n    *   **Olfactory System:** Why smells trigger strong emotional memories (Proustian memory).\n\n:::correlate\n**Kluver-Bucy Syndrome**\n*   **Pathophysiology:** Bilateral lesion of the **Amygdala**. associated with HSV encephalitis, trauma, or lobectomies.\n*   **Presentation:**\n    1.  **Placidity:** Loss of fear and aggression (docile).\n    2.  **Hyperorality:** Putting inappropriate objects in mouth.\n    3.  **Hypersexuality:** Indiscriminate sexual behavior.\n    4.  **Hypermetamorphosis:** Compulsive visual exploration of objects.\n    5.  **Visual Agnosia:** Psychic blindness (inability to recognize emotional significance of objects).\n:::\n\n## 6. Memory Disorders (Slide 36-39)\n\n### Classification of Memory\n1.  **Explicit (Declarative):** Facts (Semantic) and Events (Episodic). Requires **Medial Temporal Lobe** (Hippocampus) & Diencephalon.\n2.  **Implicit (Procedural):** Skills, habits, conditioning.\n    *   **Skills (e.g., riding a bike):** **Basal Ganglia**, Cerebellum, Motor Cortex.\n    *   **Emotional Conditioning:** Amygdala.\n    *   **Skeletal Conditioning:** Cerebellum.\n\n### Clinical Cases\n\n:::correlate\n**Patient H.M.**\n*   **History:** Bilateral medial temporal lobectomy for intractable epilepsy.\n*   **Deficit:** Severe **Anterograde Amnesia** (cannot form new explicit memories). Retrograde memory (pre-surgery) was largely intact.\n*   **Key Finding:** His **Procedural Memory** was intact (he could learn to solve the Tower of Hanoi puzzle but couldn't remember *practicing* it).\n*   **Implication:** Proved that hippocampus is essential for *consolidation* of new declarative memories but not for procedural skills.\n:::\n\n:::correlate\n**Wernicke-Korsakoff Syndrome**\n*   **Pathophysiology:** **Thiamine (Vitamin B1) Deficiency**, intimately associated with chronic **Alcoholism**.\n*   **Lesion Sites:** **Mammillary Bodies** (hemorrhagic necrosis), Dorsomedial Thalamus, Periaqueductal gray.\n*   **Wernicke's Encephalopathy (Acute/Reversible):**\n    *   **Triad:** **C**onfusion, **A**taxia, **N**ystagmus/Ophthalmoplegia (\"**CAN** of beer\").\n*   **Korsakoff's Psychosis (Chronic/Irreversible):**\n    *   Severe **Anterograde Amnesia**.\n    *   **Confabulation:** Making up stories to fill memory gaps (lack of insight).\n*   **Treatment:** IV Thiamine **BEFORE** Glucose (Glucose first precipitates the encephalopathy).\n:::\n\n:::correlate\n**Alzheimer's Disease**\n*   **Pathophysiology:** Widespread cortical atrophy, specifically:\n    *   **Hippocampal Atrophy:** Early memory loss.\n    *   **Nucleus Basalis of Meynert:** Degeneration of **Cholinergic** neurons.\n*   **Neurochemistry:** Deficiency of **Acetylcholine (ACh)**.\n*   **Treatment:** AChE Inhibitors (Aricept) to increase synaptic ACh (Slide 38).\n:::\n\n## 7. Septal Area & Reward (Slide 25)\nLocated near the anterior commissure. Contains the **Nucleus Accumbens**.\n*   **Function:** The \"Pleasure Center\". Mediates reward and reinforcement.\n*   **Neurotransmitter:** **Dopamine** (Mesolimbic pathway).\n*   **Clinical:** Implicated in **Addiction**.\n",
+  "pearls": [
+    {
+      "title": "The 5 F's of the Limbic System",
+      "content": "Feeding, Fleeing, Fighting, Feeling, and Sex."
+    },
+    {
+      "title": "Sommer's Sector Vulnerability",
+      "content": "**CA1 Pyramidal cells** in the hippocampus are the most sensitive neurons to **hypoxia**. First to die in ischemic stroke or cardiorespiratory arrest."
+    },
+    {
+      "title": "Papez Circuit Sequence",
+      "content": "Hippocampus $\\to$ Fornix $\\to$ Mammillary Bodies $\\to$ Ant. Thalamic Nucleus $\\to$ Cingulate Gyrus $\\to$ Hippocampus."
+    },
+    {
+      "title": "Kluver-Bucy Syndrome",
+      "content": "Bilateral **Amygdala** lesion. **Hyper**sexuality, **Hyper**orality, Placidity (No fear)."
+    },
+    {
+      "title": "Wernicke's Triad",
+      "content": "Confusion, Ataxia, Nystagmus/Ophthalmoplegia ('**CAN** of Beer'). Caused by **B1 (Thiamine)** deficiency harming **Mammillary Bodies**."
+    },
+    {
+      "title": "Procedural vs. Declarative Memory",
+      "content": "Hippocampal damage (Patient H.M.) destroys **Declarative** (New facts/events) but spares **Procedural** (Skills/Habits - Basal Ganglia/Cerebellum)."
+    },
+    {
+      "title": "HSV Encephalitis Target",
+      "content": "HSV-1 loves the **Medial Temporal Lobe**. Causes hemorrhagic necrosis, fever, seizures, and bizarre behavior."
+    }
+  ],
+  "questions": [
+    {
+      "question": "A chronic alcoholic is brought to the ER with confusion, ataxia, and ophthalmoplegia. MRI reveals degeneration of the mammillary bodies. Which nutrient deficiency is responsible?",
+      "options": [
+        "Vitamin B12 (Cobalamin)",
+        "Vitamin B1 (Thiamine)",
+        "Vitamin B3 (Niacin)",
+        "Vitamin B6 (Pyridoxine)",
+        "Vitamin C (Ascorbic Acid)"
+      ],
+      "correctAnswer": 1,
+      "rationale": "**Wernicke-Korsakoff Syndrome** is caused by **Thiamine (B1)** deficiency, common in alcoholics. It damages the **Mammillary Bodies** and medial thalamus. The triad is Confusion, Ataxia, Nystagmus."
+    },
+    {
+      "question": "A patient undergoes bilateral temporal lobectomy for intractable epilepsy. Post-operatively, he interacts with objects by putting them in his mouth, displays inappropriate sexual behavior toward staff, and appears completely fearless. Which structure's absence explains these symptoms?",
+      "options": [
+        "Hippocampus",
+        "Cingulate Gyrus",
+        "Amygdala",
+        "Mammillary Bodies",
+        "Septal Nuclei"
+      ],
+      "correctAnswer": 2,
+      "rationale": "This is **Kluver-Bucy Syndrome** (Hyperorality, Hypersexuality, Placidity). It is caused by bilateral lesions to the **Amygdala**."
+    },
+    {
+      "question": "A 65-year-old male with a history of cardiac arrest 2 weeks ago now presents with severe short-term memory loss. He cannot remember what he ate for breakfast or the names of his new doctors. Which specific neuronal population was likely damaged by hypoxia?",
+      "options": [
+        "Purkinje cells of the Cerebellum",
+        "Anterior Horn cells of Spinal Cord",
+        "CA1 Pyramidal cells of the Hippocampus",
+        "Dopaminergic neurons of Substantia Nigra",
+        "Cholinergic neurons of Nucleus Basalis"
+      ],
+      "correctAnswer": 2,
+      "rationale": "The **CA1 Pyramidal neurons** of the **Hippocampus** (Sommer's sector) are the most sensitive cells in the brain to **hypoxic-ischemic injury**. Damage here causes anterograde amnesia."
+    },
+    {
+      "question": "In the Papez circuit, fibers travel from the mammillary bodies to the anterior nucleus of the thalamus via which tract?",
+      "options": [
+        "Fornix",
+        "Cingulum",
+        "Stria Terminalis",
+        "Mammillothalamic Tract",
+        "Medial Forebrain Bundle"
+      ],
+      "correctAnswer": 3,
+      "rationale": "The **Mammillothalamic Tract** connects the **Mammillary Bodies** to the **Anterior Nucleus of the Thalamus**."
+    },
+    {
+      "question": "Patient H.M. had his medial temporal lobes removed. He could no longer form new memories of events (Episodic), but he could learn to solve puzzles (Procedural). Which structure is primarily responsible for the *preserved* procedural memory?",
+      "options": [
+        "Hippocampus",
+        "Basal Ganglia",
+        "Amygdala",
+        "Septal Nuclei",
+        "Mammillary Bodies"
+      ],
+      "correctAnswer": 1,
+      "rationale": "**Procedural Memory** (skills/habits) is processed by the **Basal Ganglia**, Cerebellum, and Motor Cortex, which were intact in H.M. The Hippocampus (removed) drives Declarative/Episodic memory."
+    }
+  ],
   "flashcards": [
     {
-      "front": "Function of Hippocampus?",
-      "back": "Memory Consolidation (ST -> LT)",
-      "tag": "Neuro"
+      "front": "Which limbic structure is responsible for spatial navigation?",
+      "back": "**Right** Hippocampus",
+      "tag": "Physiology"
     },
     {
-      "front": "Function of Amygdala?",
-      "back": "Emotion (Fear/Aggression)",
-      "tag": "Neuro"
+      "front": "What is the classic triad of Wernicke's Encephalopathy?",
+      "back": "Confusion, Ataxia, Nystagmus/Ophthalmoplegia ('**CAN** of Beer')",
+      "tag": "Pathology"
     },
     {
-      "front": "Wernicke-Korsakoff Cause?",
-      "back": "Thiamine (B1) Deficiency",
-      "tag": "Neuro"
+      "front": "Bilateral lesions of the Amygdala cause what syndrome?",
+      "back": "**Kluver-Bucy Syndrome** (Placidity, Hyperorality, Hypersexuality)",
+      "tag": "Pathology"
     },
     {
-      "front": "Wernicke-Korsakoff Lesion Location?",
-      "back": "Mammillary Bodies / Medial Thalamus",
-      "tag": "Neuro"
+      "front": "What is the major output tract of the Hippocampus?",
+      "back": "The **Fornix**",
+      "tag": "Anatomy"
     },
     {
-      "front": "Kluver-Bucy Syndrome Lesion?",
-      "back": "Bilateral Amygdala",
-      "tag": "Neuro"
+      "front": "Which neurons are most sensitive to cerebral hypoxia?",
+      "back": "**CA1 Pyramidal neurons** of the Hippocampus",
+      "tag": "Pathology"
     },
     {
-      "front": "Kluver-Bucy Symptoms?",
-      "back": "Hypersexuality, Hyperorality, Docility",
-      "tag": "Neuro"
+      "front": "What is the primary neurotransmitter deficiency in Alzheimer's Disease?",
+      "back": "**Acetylcholine (ACh)** (due to loss of Nucleus Basalis of Meynert)",
+      "tag": "Pathology"
     },
     {
-      "front": "Patient H.M. deficit?",
-      "back": "Anterograde Amnesia (No new memories)",
-      "tag": "Neuro"
+      "front": "HSV-1 Encephalitis typically affects which brain region?",
+      "back": "**Medial Temporal Lobes** (Limbic Cortex)",
+      "tag": "Pathology"
     },
     {
-      "front": "Papez Circuit Major Structures?",
-      "back": "Hippocampus -> Mammillary Bodies -> Thalamus -> Cingulate",
-      "tag": "Neuro"
+      "front": "Damage to the Mammillary Bodies is seen in whom?",
+      "back": "Alcoholics (Thiamine/B1 deficiency) $\\to$ **Wernicke-Korsakoff Syndrome**",
+      "tag": "Pathology"
     },
     {
-      "front": "HSV Encephalitis Target?",
-      "back": "Temporal Lobes",
-      "tag": "Neuro"
+      "front": "What connects the Mammillary Bodies to the Anterior Thalamus?",
+      "back": "**Mammillothalamic Tract**",
+      "tag": "Anatomy"
     },
     {
-      "front": "Confabulation is seen in?",
-      "back": "Korsakoff Psychosis",
-      "tag": "Neuro"
+      "front": "What defines Anterograde Amnesia?",
+      "back": "Inability to form **NEW** memories (Old memories intact)",
+      "tag": "Pathology"
     }
-  ]
+  ],
+  "ankingResource": {
+    "primarySource": "BandB",
+    "chapter": "Neurology > Limbic System",
+    "alternatives": [
+      {
+        "resource": "FirstAid",
+        "chapter": "Neurology > Anatomy > Limbic System"
+      },
+      {
+        "resource": "Pathoma",
+        "chapter": "CNS > Degenerative Diseases"
+      }
+    ]
+  },
+  "mindmap": "\n## Limbic System\n\n### Components (The Big 3)\n*   **Cingulate Gyrus**: Emotional processing, Pain affect\n*   **Hippocampus**: Memory, Spatial nav (**Right**)\n*   **Amygdala**: Fear, Anger, Kluver-Bucy\n\n### Papez Circuit\n*   **Hippocampus** $\\to$ Fornix\n*   **Mammillary Bodies** $\\to$ Mammillothalamic Tract\n*   **Ant. Thalamus** $\\to$ Internal Capsule\n*   **Cingulate** $\\to$ Cingulum\n\n### Pathology\n*   **Kluver-Bucy**: Bilateral Amygdala. Hypersex/oral.\n*   **Wernicke-Korsakoff**: B1 Def. Mammillary Bodies. Confabulation.\n*   **HSV Encephalitis**: Medial Temporal Lobe. Bizarre behavior.\n*   **Alzheimer's**: Hippocampal atrophy. Low ACh.\n*   **Patient H.M.**: Medial Temporal removal. Anterograde Amnesia.\n"
 }

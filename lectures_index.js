@@ -193,7 +193,7 @@ window.receiveLectureIndex([
   },
   {
     "id": "l25",
-    "title": "Lecture 25: Visual System - Anatomy and Pathways",
+    "title": "Lecture 25: Limbic System - Neuroanatomy, Regional Function and Limbic Pathology",
     "module": "Neuroscience",
     "tags": "",
     "path": "content/json/l25.file.js",
