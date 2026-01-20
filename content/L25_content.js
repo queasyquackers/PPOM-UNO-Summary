@@ -15,7 +15,19 @@ export const L25_CONTENT = {
 **Lecturer:** Jennifer Xie, Ph.D.
 **Session:** Lecture #25
 
+<<<<<<< HEAD
 ## 1. Introduction to the Limbic System (Slide 5-7)
+=======
+## 1. Eye Anatomy & Physiology
+*   **Glaucoma:** Increased Intraocular Pressure (IOP).
+    *   *Open-Angle:* Slow drainage (Trabecular meshwork). Chronic.
+    *   *Closed-Angle:* Iris blocks drainage angle. **Emergency** (Pain, Red eye, Haloes).
+*   **Accommodation:**
+    *   **Near Vision:** Ciliary Muscle **Contracts** → Zonules **Relax** → Lens becomes **Rounder**.
+*   **Photoreceptors:**
+    *   *Rods:* High sensitivity (Night), Peripheral retina.
+    *   *Cones:* Color, Acuity, Concentrated in **Fovea**.
+>>>>>>> 3ba897ed381075477e984b2f7c78c24263aec460
 
 The **Limbic System** (Latin *limbus* = "border") is a complex network of cortical and diencephalic structures located on the medial border of the cerebral hemisphere. It serves as a bridge, linking the conscious, intellectual functions of the **cerebral cortex** with the unconscious, autonomic regulation of the **brainstem** and **hypothalamus**.
 
@@ -157,16 +169,26 @@ Located near the anterior commissure. Contains the **Nucleus Accumbens**.
             content: "Feeding, Fleeing, Fighting, Feeling, and Sex."
         },
         {
+<<<<<<< HEAD
             title: "Sommer's Sector Vulnerability",
             content: "**CA1 Pyramidal cells** in the hippocampus are the most sensitive neurons to **hypoxia**. First to die in ischemic stroke or cardiorespiratory arrest."
+=======
+            title: "Meyer's Loop Lesion",
+            content: "Temporal Lobe lesion → **'Pie in the Sky'** (Contralateral Superior Quadrantanopia)."
+>>>>>>> 3ba897ed381075477e984b2f7c78c24263aec460
         },
         {
             title: "Papez Circuit Sequence",
             content: "Hippocampus $\\to$ Fornix $\\to$ Mammillary Bodies $\\to$ Ant. Thalamic Nucleus $\\to$ Cingulate Gyrus $\\to$ Hippocampus."
         },
         {
+<<<<<<< HEAD
             title: "Kluver-Bucy Syndrome",
             content: "Bilateral **Amygdala** lesion. **Hyper**sexuality, **Hyper**orality, Placidity (No fear)."
+=======
+            title: "Accommodation Mechanism",
+            content: "Ciliary Muscle **Contracts** → Zonules **Relax** → Lens **Rounds**."
+>>>>>>> 3ba897ed381075477e984b2f7c78c24263aec460
         },
         {
             title: "Wernicke's Triad",

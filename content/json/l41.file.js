@@ -62,7 +62,7 @@ window.receiveLectureContent({
         "Polio is autoimmune; ALS is viral."
       ],
       "correctAnswer": 0,
-      "rationale": "**Polio** destroys Anterior Horn Cells (LMN only) $\\to$ Flaccid paralysis. **ALS** destroys AHCs (LMN) + CSTs (UMN) $\\to$ Mixed Spastic/Flaccid."
+      "rationale": "**Polio** destroys Anterior Horn Cells (LMN only) → Flaccid paralysis. **ALS** destroys AHCs (LMN) + CSTs (UMN) → Mixed Spastic/Flaccid."
     }
   ],
   "flashcards": [

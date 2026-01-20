@@ -8,7 +8,7 @@ export const L43_CONTENT = {
 
 ## 1. Acute Exacerbations (Flare-ups)
 *   **Glucocorticoids (High Dose IV Methylprednisolone):**
-    *   *Mechanism:* Induces **Lipocortin** $\\to$ Inhibits Phospholipase A2 $\\to$ Decreased Prostaglandins/Leukotrienes.
+    *   *Mechanism:* Induces **Lipocortin** → Inhibits Phospholipase A2 → Decreased Prostaglandins/Leukotrienes.
     *   *Use:* Shortens duration of acute attacks (e.g., Optic Neuritis). Does **NOT** change long-term prognosis.
     *   *Adverse Effects:* HPA axis suppression (Taper needed), Osteoporosis, Hyperglycemia, Insomnia.
 

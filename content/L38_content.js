@@ -92,7 +92,7 @@ export const L38_CONTENT = {
                 "Right Unilateral Sacral Flexion"
             ],
             correctAnswer: 1,
-            rationale: "**Step 1:** SFT Right (+) $\\to$ Axis is on the **Left**. (So it's ? on Left).\\n**Step 2:** Spring Negative $\\to$ Forward Torsion (L on L).\\n**Check:** Forward torsions have SAME letters. L on L fits."
+            rationale: "**Step 1:** SFT Right (+) → Axis is on the **Left**. (So it's ? on Left).\\n**Step 2:** Spring Negative → Forward Torsion (L on L).\\n**Check:** Forward torsions have SAME letters. L on L fits."
         },
         {
             question: "Which of the following findings is consistent with a 'Non-Physiologic' (Backward) Sacral Torsion?",
@@ -116,7 +116,7 @@ export const L38_CONTENT = {
                 "Neutral"
             ],
             correctAnswer: 1,
-            rationale: "**R on R:** Axis is Right $\\to$ L5 Sidebends **Right**. Rotation is Right $\\to$ L5 Rotates **Left** (Opposite). Pattern: Rot Left, SB Right (Type I neutral mechanics)."
+            rationale: "**R on R:** Axis is Right → L5 Sidebends **Right**. Rotation is Right → L5 Rotates **Left** (Opposite). Pattern: Rot Left, SB Right (Type I neutral mechanics)."
         },
         {
             question: "The Superior Transverse Axis (S2) is associated with which motion?",
@@ -140,7 +140,7 @@ export const L38_CONTENT = {
                 "Vertical Axis"
             ],
             correctAnswer: 1,
-            rationale: "SFT is positive on the side of dysfunction. The functioning axis is on the **OPPOSITE** side. Positive Left $\\to$ Axis is **Right**."
+            rationale: "SFT is positive on the side of dysfunction. The functioning axis is on the **OPPOSITE** side. Positive Left → Axis is **Right**."
         }
     ],
     flashcards: [

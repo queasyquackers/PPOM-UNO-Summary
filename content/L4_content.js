@@ -100,7 +100,7 @@ Veins drain into Valveless **Dural Venous Sinuses**:
     *   *Pathology:* Cavernous Sinus Thrombosis or Fistula can cause multiple cranial nerve palsies.
 
     *   *Presentation:* **"Thunderclap Headache"** (Worst headache of life), meningeal signs.
-:::
+
 `,
     pearls: [
         {

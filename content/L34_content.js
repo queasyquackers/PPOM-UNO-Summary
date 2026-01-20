@@ -44,7 +44,7 @@ Reduces sympathetic outflow from the brainstem.
 ## 5. MAO Inhibitors (The Cheese Effect)
 *   **Mechanism:** Inhibits Monoamine Oxidase (enzyme that breaks down NE/DA/Serotonin).
 *   **Tyramine Interaction:** Tyramine (found in Aged Cheese, Wine, Cured Meats) releases stored NE. Commonly degraded by GI MAO.
-*   **Crisis:** If on MAO-I, Tyramine is NOT degraded $\\to$ Massive NE release $\\to$ **Hypertensive Crisis**.
+*   **Crisis:** If on MAO-I, Tyramine is NOT degraded → Massive NE release → **Hypertensive Crisis**.
 `,
     pearls: [
         {

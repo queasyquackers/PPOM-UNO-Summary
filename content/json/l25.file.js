@@ -1,8 +1,13 @@
 window.receiveLectureContent({
   "id": "l25",
+<<<<<<< HEAD
   "title": "Lecture 25: Limbic System - Neuroanatomy, Regional Function and Limbic Pathology",
   "lecturer": "Jennifer Xie, Ph.D.",
   "session": "Lecture #25",
+=======
+  "summary": "# Lecture 25: Visual System - Anatomy and Pathways\n\n**Lecturer:** G. Otazu, Ph.D.\n**Session:** Lecture 25\n\n## 1. Eye Anatomy & Physiology\n*   **Glaucoma:** Increased Intraocular Pressure (IOP).\n    *   *Open-Angle:* Slow drainage (Trabecular meshwork). Chronic.\n    *   *Closed-Angle:* Iris blocks drainage angle. **Emergency** (Pain, Red eye, Haloes).\n*   **Accommodation:**\n    *   **Near Vision:** Ciliary Muscle **Contracts** → Zonules **Relax** → Lens becomes **Rounder**.\n*   **Photoreceptors:**\n    *   *Rods:* High sensitivity (Night), Peripheral retina.\n    *   *Cones:* Color, Acuity, Concentrated in **Fovea**.\n\n## 2. Visual Pathway & Lesions (Slide 26-30)\n1.  **Optic Nerve:** Monocular blindness.\n2.  **Optic Chiasm:** Decussation of **Nasal** fibers (Temporal visual field).\n    *   *Lesion:* **Bitemporal Hemianopsia** (Tunnel Vision).\n    *   *Cause:* **Pituitary Adenoma**.\n3.  **Optic Tract:** Contralateral Homonymous Hemianopsia.\n4.  **Optic Radiations:**\n    *   **Meyer's Loop (Temporal Lobe):** Carries Superior field information. *Lesion:* **\"Pie in the Sky\"** (Contralateral Superior Quadrantanopia).\n    *   **Dorsal Radiation (Parietal Lobe):** Carries Inferior field information. *Lesion:* **\"Pie on the Floor\"** (Contralateral Inferior Quadrantanopia).\n5.  **Visual Cortex (PCA Supply):**\n    *   *Lesion:* **Contralateral Homonymous Hemianopsia with Macular Sparing**.\n    *   *Why Sparing?* Macula has dual blood supply (PCA + MCA).\n\n## 3. Higher Order Processing (Slide 37-44)\n*   **Dorsal Stream (\"Where?\"):** Projects to **Parietal Lobe**.\n    *   *Function:* Motion, Spatial relationships.\n    *   *Lesion (Right Parietal):* **Hemispatial Neglect** (Ignores left side of world).\n*   **Ventral Stream (\"What?\"):** Projects to **Temporal Lobe**.\n    *   *Function:* Color, Form, Faces.\n    *   *Lesion:* **Prosopagnosia** (Face blindness), **Achromatopsia** (No color).\n\n## 4. Clinical Correlates\n:::correlate\n**Papilledema**\n*   Swelling of the optic disc due to increased **Intracranial Pressure (ICP)**.\n*   The optic nerve is surrounded by meninges/CSF, so ICP is transmitted directly to it.\n:::\n\n:::correlate\n**Hemispatial Neglect**\n*   **Lesion:** **Right Posterior Parietal Cortex**.\n*   **Presentation:** Patient ignores the **Left** side of their body/world (e.g., eats only right half of plate, draws half a clock).\n*   *Note:* Left parietal lesions rarely cause neglect because the Right hemisphere attends to *both* sides, while the Left only attends to the Right.\n:::",
+  "title": "Lecture 25: Visual System - Anatomy and Pathways",
+>>>>>>> 3ba897ed381075477e984b2f7c78c24263aec460
   "module": "Neuroscience",
   "prev": "l24",
   "next": "l26",
@@ -302,6 +307,7 @@ Located near the anterior commissure. Contains the **Nucleus Accumbens**.
       { "resource": "Pathoma", "chapter": "CNS > Degenerative Diseases" }
     ]
   },
+<<<<<<< HEAD
   "mindmap": `
 ## Limbic System
 
@@ -323,4 +329,28 @@ Located near the anterior commissure. Contains the **Nucleus Accumbens**.
 *   **Alzheimer's**: Hippocampal atrophy. Low ACh.
 *   **Patient H.M.**: Medial Temporal removal. Anterograde Amnesia.
 `
+=======
+  "pearls": [
+    {
+      "title": "Pituitary Adenoma Defect",
+      "content": "**Bitemporal Hemianopsia** ('Tunnel Vision'). Compresses Optic Chiasm."
+    },
+    {
+      "title": "Meyer's Loop Lesion",
+      "content": "Temporal Lobe lesion → **'Pie in the Sky'** (Contralateral Superior Quadrantanopia)."
+    },
+    {
+      "title": "Macular Sparing",
+      "content": "Hallmark of **PCA Stroke** (Occipital cortex). Peripheral vision lost, central (macular) vision preserved due to MCA collaterals."
+    },
+    {
+      "title": "Accommodation Mechanism",
+      "content": "Ciliary Muscle **Contracts** → Zonules **Relax** → Lens **Rounds**."
+    },
+    {
+      "title": "Hemispatial Neglect",
+      "content": "Damage to **Right Parietal Lobe** (Dorsal Stream). Patient neglects **Left** side of world."
+    }
+  ]
+>>>>>>> 3ba897ed381075477e984b2f7c78c24263aec460
 });

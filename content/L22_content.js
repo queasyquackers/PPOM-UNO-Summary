@@ -11,7 +11,7 @@ export const L22_CONTENT = {
 *   **Mecamylamine:**
     *   *Mechanism:* Blocks output of **BOTH** Sympathetic and Parasympathetic systems.
     *   *Effect:* Predictable based on **Dominant Tone**:
-        *   **Arterioles (Symp dominant):** Vasodilation $\\to$ Hypotension (Orthostatic).
+        *   **Arterioles (Symp dominant):** Vasodilation → Hypotension (Orthostatic).
         *   **Heart (Para dominant):** Tachycardia.
         *   **Gut/Bladder (Para dominant):** Constipation, Urinary Retention.
         *   **Eye (Para dominant):** Mydriasis, Cycloplegia.
@@ -22,7 +22,7 @@ Target **Nicotinic (Nm)** receptors at the Neuromuscular Junction (NMJ).
 ### Depolarizing NMBA
 *   **Succinylcholine (SCh):**
     *   *Structure:* Two ACh molecules.
-    *   *Mechanism:* Agonist. Causes sustained depolarization $\\to$ Fasciculations $\\to$ Flaccid paralysis (Phase I). Desensitization (Phase II).
+    *   *Mechanism:* Agonist. Causes sustained depolarization → Fasciculations → Flaccid paralysis (Phase I). Desensitization (Phase II).
     *   *Metabolism:* **Plasma Cholinesterase** (Pseudocholinesterase).
     *   *Duration:* Very short (<8 min). **Prolonged in patients with genetic deficiency.**
     *   *Adverse Effects:*
@@ -47,7 +47,7 @@ Target **Nicotinic (Nm)** receptors at the Neuromuscular Junction (NMJ).
 **Malignant Hyperthermia**
 *   **Trigger:** Succinylcholine or Volatile Anesthetics.
 *   **Genetic:** Mutation in **Ryanodine Receptor (RyR1)**.
-*   **Pathology:** Uncontrolled Ca2+ release from SR $\\to$ Rigidity $\\to$ Heat/Acidosis.
+*   **Pathology:** Uncontrolled Ca2+ release from SR → Rigidity → Heat/Acidosis.
 *   **Cure:** **Dantrolene** (Blocks RyR1).
 :::
 
@@ -73,7 +73,7 @@ Target **Nicotinic (Nm)** receptors at the Neuromuscular Junction (NMJ).
         },
         {
             title: "Dominant Tone Concept",
-            content: "Ganglionic blockers remove the dominant tone. **Vessels = Symp** (Block $\\to$ Hypotension). **Heart = Para** (Block $\\to$ Tachycardia)."
+            content: "Ganglionic blockers remove the dominant tone. **Vessels = Symp** (Block → Hypotension). **Heart = Para** (Block → Tachycardia)."
         },
         {
             title: "Sugammadex",

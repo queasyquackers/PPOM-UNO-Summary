@@ -36,7 +36,7 @@ export const L26_CONTENT = {
 ### CN V (Trigeminal)
 *   **Sensory:** V1 (Opthalmic), V2 (Maxillary), V3 (Mandibular) - Pinprick/Light touch.
 *   **Motor:** Muscles of Mastication (Temporalis/Masseter clench).
-*   **Corneal Reflex:** **Afferent V1** (Senses touch) $\\to$ **Efferent VII** (Blink).
+*   **Corneal Reflex:** **Afferent V1** (Senses touch) → **Efferent VII** (Blink).
 
 ### CN VII (Facial)
 *   **Motor:** Facial expression (Smile, Frown, Puff cheeks, Close eyes tight).

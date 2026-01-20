@@ -10,11 +10,11 @@ export const L35_CONTENT = {
 *   **CN I:** Visceral Sensory. Bypasses Thalamus.
     *   *Pathology:* **Anosmia** (Early sign of **Parkinson's** - Lewy bodies in Olfactory Bulb).
 *   **CN II:** Special Sensory.
-    *   *Reflex:* Pupillary Light Reflex (Afferent II $\\to$ Pretectal Area $\\to$ Bilateral Edinger-Westphal $\\to$ Efferent III).
+    *   *Reflex:* Pupillary Light Reflex (Afferent II → Pretectal Area → Bilateral Edinger-Westphal → Efferent III).
 
 ## 2. CN III (Oculomotor)
 *   **Motor:** Medial, Superior, Inferior Recti; Inferior Oblique; Levator Palpebrae.
-*   **Parasympathetic:** **Edinger-Westphal Nucleus** $\\to$ Pupil Constriction (Miosis) & Lens Accommodation.
+*   **Parasympathetic:** **Edinger-Westphal Nucleus** → Pupil Constriction (Miosis) & Lens Accommodation.
 *   **Lesion (CN III Palsy):**
     *   **"Down and Out"** eye (Unopposed SO4/LR6).
     *   **Ptosis** (Droopy eyelid).
@@ -25,7 +25,7 @@ export const L35_CONTENT = {
 *   **Motor:** **Superior Oblique** (Depresses/Intorts eye).
 *   **Unique Features:**
     1.  Only CN to exit **Dorsally**.
-    2.  Only CN to **Decussate Completely** (Right Nucleus $\\to$ Left Superior Oblique).
+    2.  Only CN to **Decussate Completely** (Right Nucleus → Left Superior Oblique).
 *   **Lesion:**
     *   **Vertical Diplopia** (Worse when looking down, e.g., stairs/reading).
     *   **Head Tilt:** Patient tilts head **AWAY** from the affected side to compensate/align eyes.
@@ -33,10 +33,10 @@ export const L35_CONTENT = {
 ## 4. CN VI (Abducens) & Gaze Control
 *   **Motor:** **Lateral Rectus** (Abducts eye).
 *   **Horizontal Gaze Circuit:**
-    *   To look RIGHT: Right PPRF $\\to$ Right **Abducens Nucleus**.
+    *   To look RIGHT: Right PPRF → Right **Abducens Nucleus**.
     *   Right Abducens Nucleus does TWO things:
         1.  Contracts Ring Lateral Rectus (Abducts Right Eye).
-        2.  Sends signal via **MLF** (Medial Longitudinal Fasciculus) to Left Oculomotor Nucleus $\\to$ Contracts Left Medial Rectus (Adducts Left Eye).
+        2.  Sends signal via **MLF** (Medial Longitudinal Fasciculus) to Left Oculomotor Nucleus → Contracts Left Medial Rectus (Adducts Left Eye).
 *   **Pathology:**
     *   **CN VI Palsy:** Esotropia (Eye turns in).
     *   **INO (Internuclear Ophthalmoplegia):**

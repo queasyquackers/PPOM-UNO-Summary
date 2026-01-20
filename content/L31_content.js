@@ -15,13 +15,13 @@ export const L31_CONTENT = {
 ## 2. The Pathways (Albin-DeLong Model)
 1.  **Direct Pathway (GO):**
     *   Promotes movement.
-    *   Striatum inhibits GPi $\\to$ Disinhibition of Thalamus.
+    *   Striatum inhibits GPi → Disinhibition of Thalamus.
     *   **D1 Receptors:** Dopamine *excites* this pathway.
 2.  **Indirect Pathway (NO-GO):**
     *   Inhibits movement.
-    *   Striatum inhibits GPe $\\to$ STN active $\\to$ GPi active $\\to$ Thalamus inhibited.
+    *   Striatum inhibits GPe → STN active → GPi active → Thalamus inhibited.
     *   **D2 Receptors:** Dopamine *inhibits* this pathway (Releases the brake).
-3.  **Hyperdirect Pathway:** Fast suppression (Freeze!). Cortex $\\to$ STN $\\to$ GPi.
+3.  **Hyperdirect Pathway:** Fast suppression (Freeze!). Cortex → STN → GPi.
 
 ## 3. Parkinson's Disease (Hypokinetic)
 *   **Pathology:** Loss of Dopaminergic neurons in **SNc**. **Lewy Bodies** ($\alpha$-synuclein).

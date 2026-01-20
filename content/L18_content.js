@@ -10,16 +10,16 @@ export const L18_CONTENT = {
 The Vestibular Labyrinth detects head motion via hair cells (mechanotransduction).
 *   **Otolith Organs (Utricle & Saccule):**
     *   **Function:** Detect **Linear Acceleration** (e.g., gravity, elevator, car acceleration).
-    *   **Mechanism:** Hair cells embedded in **Macula** covered by **Otoconia** (crystals). Gravity pulls crystals $\\to$ bends hairs.
+    *   **Mechanism:** Hair cells embedded in **Macula** covered by **Otoconia** (crystals). Gravity pulls crystals → bends hairs.
     *   *Mnemonic:* **U**tricle = **U**pright (Horizontal plane). **S**accule = **S**ideways (Vertical plane).
 *   **Semicircular Canals (Anterior, Posterior, Horizontal):**
     *   **Function:** Detect **Angular (Rotational) Acceleration** (head turning).
     *   **Mechanism:** **Crista Ampullaris** covered by **Cupula** (gelatin).
-    *   *Fluid Dynamics:* When head turns Left, Endolymph lags (moves Right) $\\to$ bends Cupula.
+    *   *Fluid Dynamics:* When head turns Left, Endolymph lags (moves Right) → bends Cupula.
 
 ## 2. Vestibular Pathways & Reflexes (Slide 16-20)
 *   **Vestibulo-Ocular Reflex (VOR):** Stabilizes gaze during head movement.
-    *   *Path:* Head Left $\\to$ Left SCC active $\\to$ Vestibular Nuclei $\\to$ Right CN VI (Abd) & Left CN III (MR) $\\to$ Eyes move **Right**.
+    *   *Path:* Head Left → Left SCC active → Vestibular Nuclei → Right CN VI (Abd) & Left CN III (MR) → Eyes move **Right**.
 *   **Vestibulo-Spinal Tracts:**
     *   *Lateral:* Extensor muscles (Anti-gravity/Balance).
     *   *Medial:* Neck muscles (Head stabilization).

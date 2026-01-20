@@ -25,17 +25,17 @@ export const L15_CONTENT = {
 Carries **Fine Touch, Vibration, Proprioception** from the body.
 1.  **1st Order:** DRG. Ascend in **Dorsal Columns** (Gracilis=Lower, Cuneatus=Upper).
 2.  **2nd Order:** Nucleus Gracilis/Cuneatus (Medulla). **Decussate** as Internal Arcuate Fibers to form **Medial Lemniscus**.
-3.  **3rd Order:** VPL Nucleus (Thalamus) $\\to$ Primary Somatosensory Cortex (S1).
+3.  **3rd Order:** VPL Nucleus (Thalamus) → Primary Somatosensory Cortex (S1).
 
 ### Spinothalamic Tract (Anterolateral System)
 Carries **Pain, Temperature, Crude Touch**.
 1.  **1st Order:** DRG. Synapse in Dorsal Horn (Substantia Gelatinosa).
 2.  **2nd Order:** Dorsal Horn. **Decussate immediately** in Anterior White Commissure. Ascend in anterolateral funiculus.
-3.  **3rd Order:** VPL Nucleus (Thalamus) $\\to$ S1 Cortex.
+3.  **3rd Order:** VPL Nucleus (Thalamus) → S1 Cortex.
 
 ## 3. Trigeminal System (Face) (Slide 31-33)
-*   **Touch/Proprioception:** Trigeminal Ganglion $\\to$ **Principal Sensory Nucleus** (Pons) $\\to$ Decussate $\\to$ VPM.
-*   **Pain/Temp:** Trigeminal Ganglion $\\to$ Descend to **Spinal Trigeminal Nucleus** (Medulla) $\\to$ Decussate $\\to$ VPM.
+*   **Touch/Proprioception:** Trigeminal Ganglion → **Principal Sensory Nucleus** (Pons) → Decussate → VPM.
+*   **Pain/Temp:** Trigeminal Ganglion → Descend to **Spinal Trigeminal Nucleus** (Medulla) → Decussate → VPM.
 *   **Proprioception (Jaw):** **Mesencephalic Nucleus** (Midbrain) - UNIQUE (Cell bodies inside CNS).
 
 ## 4. Clinical Correlates (Slide 38-43)
@@ -63,7 +63,7 @@ Carries **Pain, Temperature, Crude Touch**.
 
 ## 5. Pain Modulation (Slide 18-20)
 *   **Gate Control Theory:** Aβ fibers (rubbing) activate inhibitory interneurons in the dorsal horn, blocking C fiber (pain) transmission.
-*   **Descending Pathway:** PAG $\\to$ RVM $\\to$ Dorsal Horn (Inhibits pain via Serotonin/NE).
+*   **Descending Pathway:** PAG → RVM → Dorsal Horn (Inhibits pain via Serotonin/NE).
 `,
     pearls: [
         {
