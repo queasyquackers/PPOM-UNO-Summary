@@ -241,7 +241,7 @@ The brainstem can inhibit incoming pain signals (Pain Inhibits Pain).
 ### Functions
 *   **ARAS**: Consciousness/Arousal
 *   **Sleep**: Stages N1-N3, REM
-*   **Pain**: PAG -> RVM Inhibition
+*   **Pain**: PAG → RVM Inhibition
 *   **Motor**: Reticulospinal Tracts
 
 ### Clinical Correlates
@@ -253,3 +253,7 @@ The brainstem can inhibit incoming pain signals (Pain Inhibits Pain).
     *   **Decerebrate**: Extensor (Below Red Nucleus)
 \`
 };
+
+if (typeof window !== 'undefined') {
+    window.L9_CONTENT = L9_CONTENT;
+}

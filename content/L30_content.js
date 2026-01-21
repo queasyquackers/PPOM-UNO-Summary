@@ -19,6 +19,7 @@ export const L30_CONTENT = {
         *   **CN XII (Tongue):** Tongue deviates **AWAY** from the UMN lesion (towards the weak side).
 
 ## 2. UMN vs. LMN Lesions
+
 | Feature | UMN Lesion (Cortex/Stem) | LMN Lesion (Nerve/Root) |
 | :--- | :--- | :--- |
 | **Tone** | **Spastic** (Increased) | **Flaccid** (Decreased) |
@@ -114,7 +115,7 @@ export const L30_CONTENT = {
                 "Downward"
             ],
             correctAnswer: 1,
-            rationale: "With a **UMN** lesion (Left Cortex), the tongue deviates **AWAY** from the lesion (towards the weak side). So it points to the **Right**.\\n*Wait, let me double check my pearl... LMN = Toward. UMN = Away. Correct. So Left Cortex lesion -> Right Genioglossus weak -> Tongue points Right. Correct Answer is Right.* (Options: Left/Right)."
+            rationale: "With a **UMN** lesion (Left Cortex), the tongue deviates **AWAY** from the lesion (towards the weak side). So it points to the **Right**.\\n*Wait, let me double check my pearl... LMN = Toward. UMN = Away. Correct. So Left Cortex lesion → Right Genioglossus weak → Tongue points Right. Correct Answer is Right.* (Options: Left/Right)."
         },
         {
             question: "Which tract is primarily responsible for voluntary fine motor control of the distal upper extremities?",
@@ -182,8 +183,8 @@ export const L30_CONTENT = {
 ## Motor Systems
 
 ### UMN vs LMN
-*   **UMN**: Spastic, Babinski (+). Cortex -> Cord.
-*   **LMN**: Flaccid, Fasciculations. Cord -> Muscle.
+*   **UMN**: Spastic, Babinski (+). Cortex → Cord.
+*   **LMN**: Flaccid, Fasciculations. Cord → Muscle.
 
 ### Tracts
 *   **Corticospinal**:
@@ -197,3 +198,7 @@ export const L30_CONTENT = {
 *   **Decerebrate**: Extended (Below Red Nuc).
 \`
 };
+
+if (typeof window !== 'undefined') {
+    window.L30_CONTENT = L30_CONTENT;
+}

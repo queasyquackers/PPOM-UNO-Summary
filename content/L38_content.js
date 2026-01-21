@@ -203,3 +203,7 @@ export const L38_CONTENT = {
     *   **R on L**: Bwd.
 \`
 };
+
+if (typeof window !== 'undefined') {
+    window.L38_CONTENT = L38_CONTENT;
+}

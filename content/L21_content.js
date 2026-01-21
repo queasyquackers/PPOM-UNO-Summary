@@ -169,7 +169,7 @@ export const L21_CONTENT = {
         },
         {
             front: "Mechanism of Paradoxical Bradycardia",
-            back: "Blockade of Presynaptic Autoreceptors (M2) -> Increased ACh release",
+            back: "Blockade of Presynaptic Autoreceptors (M2) → Increased ACh release",
             tag: "Physiology"
         },
         {
@@ -222,3 +222,7 @@ export const L21_CONTENT = {
 *   Glaucoma, BPH, Elderly, Ileus
 \`
 };
+
+if (typeof window !== 'undefined') {
+    window.L21_CONTENT = L21_CONTENT;
+}

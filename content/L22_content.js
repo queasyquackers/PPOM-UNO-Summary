@@ -208,8 +208,8 @@ Target **Nicotinic (Nm)** receptors at the Neuromuscular Junction (NMJ).
 ### Ganglionic Blockers (Nn)
 *   **Mecamylamine**: Blocks ALL Autonomic ganglia
 *   **Effect**: Opposite of Dominant Tone
-    *   Heart (Para) -> Tachycardia
-    *   Vessels (Symp) -> Hypotension
+    *   Heart (Para) → Tachycardia
+    *   Vessels (Symp) → Hypotension
 
 ### Neuromuscular Blockers (Nm)
 *   **Depolarizing**: **Succinylcholine**
@@ -231,3 +231,7 @@ Target **Nicotinic (Nm)** receptors at the Neuromuscular Junction (NMJ).
 *   **Rx**: Dantrolene
 \`
 };
+
+if (typeof window !== 'undefined') {
+    window.L22_CONTENT = L22_CONTENT;
+}

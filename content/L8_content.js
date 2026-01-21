@@ -265,3 +265,7 @@ Nuclei are arranged in longitudinal columns. A general rule for the brainstem is
     *   Special (VIII)
 \`
 };
+
+if (typeof window !== 'undefined') {
+    window.L8_CONTENT = L8_CONTENT;
+}

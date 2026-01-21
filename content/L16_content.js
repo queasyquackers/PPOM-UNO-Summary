@@ -221,7 +221,7 @@ The eye focuses light onto the retina to transduce it into neural signals.
 *   **Retina**: Fovea (Cones), Periphery (Rods), Optic Disc (Blind Spot)
 
 ### Visual Pathway
-*   Retina -> Optic Nerve -> **Chiasm** (Cross) -> Tract -> **LGN** -> Radiations -> **V1**
+*   Retina → Optic Nerve → **Chiasm** (Cross) → Tract → **LGN** → Radiations → **V1**
 
 ### Lesions
 *   **Chiasm**: Bitemporal Hemianopsia (Pituitary Tumor)
@@ -231,3 +231,7 @@ The eye focuses light onto the retina to transduce it into neural signals.
 *   **Parietal Lobe**: Hemispatial Neglect (Right lesion)
 \`
 };
+
+if (typeof window !== 'undefined') {
+    window.L16_CONTENT = L16_CONTENT;
+}

@@ -71,13 +71,13 @@ The brain is encased in three layers ("PAD"):
 ### Meningeal Spaces & Hemorrhages
 *   **Epidural Space:** *Potential* space between Skull and Dura.
     *   **Vessel:** **Middle Meningeal Artery (MMA)**.
-    *   **Pathology:** **Epidural Hematoma** (Trauma to Pterion -> Lens-shaped bleed).
+    *   **Pathology:** **Epidural Hematoma** (Trauma to Pterion → Lens-shaped bleed).
 *   **Subdural Space:** *Potential* space between Dura and Arachnoid.
     *   **Vessel:** **Bridging Veins**.
-    *   **Pathology:** **Subdural Hematoma** (Shearing forces/Shaken Baby -> Crescent-shaped bleed).
+    *   **Pathology:** **Subdural Hematoma** (Shearing forces/Shaken Baby → Crescent-shaped bleed).
 *   **Subarachnoid Space:** *Real* space between Arachnoid and Pia.
     *   **Contents:** **CSF** and major cerebral arteries/veins.
-    *   **Pathology:** **Subarachnoid Hemorrhage** (Ruptured Aneurysm -> "Thunderclap Headache").
+    *   **Pathology:** **Subarachnoid Hemorrhage** (Ruptured Aneurysm → "Thunderclap Headache").
 
 ---
 
@@ -87,22 +87,22 @@ Increased Intracranial Pressure (ICP) can force brain tissue through compartment
 :::correlate
 **A. Subfalcine (Cingulate) Herniation**
 *   **Displacement:** Cingulate gyrus herniates *under* the **Falx Cerebri**.
-*   **Sequelae:** Can compress the **Anterior Cerebral Artery (ACA)** -> Contralateral leg weakness.
+*   **Sequelae:** Can compress the **Anterior Cerebral Artery (ACA)** → Contralateral leg weakness.
 :::
 
 :::correlate
 **B. Transtentorial (Uncal) Herniation**
 *   **Displacement:** Medial Temporal Lobe (**Uncus**) herniates *past* the **Tentorium Cerebelli**.
 *   **Sequelae:**
-    *   Compresses **CN III (Oculomotor)** -> **Ipsilateral "Blown" Pupil** (Fixed & Dilated), "Down and Out" eye.
-    *   Compresses Cerebral Peduncle -> Contralateral Hemiparesis.
-    *   Compresses PCA -> Cortical blindness.
+    *   Compresses **CN III (Oculomotor)** → **Ipsilateral "Blown" Pupil** (Fixed & Dilated), "Down and Out" eye.
+    *   Compresses Cerebral Peduncle → Contralateral Hemiparesis.
+    *   Compresses PCA → Cortical blindness.
 :::
 
 :::correlate
 **C. Transforaminal (Tonsillar) Herniation**
 *   **Displacement:** Cerebellar **Tonsils** herniate through the **Foramen Magnum**.
-*   **Sequelae:** Compresses the **Medulla** (Cardiorespiratory centers) -> **Respiratory Arrest** and death.
+*   **Sequelae:** Compresses the **Medulla** (Cardiorespiratory centers) → **Respiratory Arrest** and death.
 :::
 
 ---
@@ -216,7 +216,7 @@ Accumulation of CSF resulting in ventricular enlargement.
                 "Central Canal"
             ],
             correctAnswer: 3,
-            rationale: "CSF flows: Lateral -> Monro -> 3rd -> **Aqueduct of Sylvius** -> 4th -> Luschka/Magendie."
+            rationale: "CSF flows: Lateral → Monro → 3rd → **Aqueduct of Sylvius** → 4th → Luschka/Magendie."
         }
     ],
     flashcards: [
@@ -253,7 +253,7 @@ Accumulation of CSF resulting in ventricular enlargement.
 *   **Uncal**: Temporal lobe (Blown Pupil)
 *   **Tonsillar**: Cerebellum (Resp Arrest)
 ### Ventricles
-*   **Flow**: Lat -> 3rd -> 4th
+*   **Flow**: Lat → 3rd → 4th
 *   **Hydrocephalus**: NPH (Wet, Wobbly, Wacky)
 `
 };

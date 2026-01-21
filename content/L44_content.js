@@ -208,3 +208,7 @@ export const L44_CONTENT = {
 *   **RAPD**: Optic Nerve lesion.
 \`
 };
+
+if (typeof window !== 'undefined') {
+    window.L44_CONTENT = L44_CONTENT;
+}

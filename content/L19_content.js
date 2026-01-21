@@ -233,3 +233,7 @@ export const L19_CONTENT = {
 *   Asthma, Ulcers, Obstruction
 \`
 };
+
+if (typeof window !== 'undefined') {
+    window.L19_CONTENT = L19_CONTENT;
+}

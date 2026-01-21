@@ -225,3 +225,7 @@ export const L26_CONTENT = {
 *   **GCS**: EVM (4-5-6). Max 15, Min 3.
 \`
 };
+
+if (typeof window !== 'undefined') {
+    window.L26_CONTENT = L26_CONTENT;
+}

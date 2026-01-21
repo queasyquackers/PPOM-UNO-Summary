@@ -224,7 +224,7 @@ The **Organ of Corti** sits on the basilar membrane.
 *   **Hair Cells**: Inner (Sensory), Outer (Amplifier)
 
 ### Pathway (E. COLIM)
-*   Cochlear Nuclei -> **Superior Olive** (Localization) -> LL -> **Inferior Colliculus** -> **MGN** -> Cortex
+*   Cochlear Nuclei → **Superior Olive** (Localization) → LL → **Inferior Colliculus** → **MGN** → Cortex
 
 ### Pathology
 *   **Conductive**: Otitis, Wax, Otosclerosis
@@ -235,3 +235,7 @@ The **Organ of Corti** sits on the basilar membrane.
     *   **Acoustic Neuroma**: CN VIII Tumor
 \`
 };
+
+if (typeof window !== 'undefined') {
+    window.L17_CONTENT = L17_CONTENT;
+}

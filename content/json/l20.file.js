@@ -93,7 +93,7 @@ window.receiveLectureContent({
     },
     {
       "front": "Why doesn't Neostigmine treat Alzheimer's?",
-      "back": "It is a Quaternary amine (Charged) -> Doesn't cross BBB",
+      "back": "It is a Quaternary amine (Charged) → Doesn't cross BBB",
       "tag": "Pharmacology"
     },
     {

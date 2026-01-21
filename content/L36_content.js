@@ -211,3 +211,7 @@ export const L36_CONTENT = {
 *   **Medial Medullary (ASA)**: Tongue (XII), CST, ML.
 \`
 };
+
+if (typeof window !== 'undefined') {
+    window.L36_CONTENT = L36_CONTENT;
+}

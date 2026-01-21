@@ -93,7 +93,7 @@ window.receiveLectureContent({
     },
     {
       "front": "Glatiramer Acetate Mechanism",
-      "back": "Myelin Basic Protein Decoy (Th1 -> Th2)",
+      "back": "Myelin Basic Protein Decoy (Th1 → Th2)",
       "tag": "Pharmacology"
     },
     {

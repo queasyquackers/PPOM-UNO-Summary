@@ -92,9 +92,9 @@ This lecture introduces the structural examination of the pelvis, focusing on th
 
 :::highyield
 **StFT vs SeFT Summary (Slide 36)**
-*   **StFT (+):** Iliosacral Dysfunction -> Look for Innominate/Pubic shears.
+*   **StFT (+):** Iliosacral Dysfunction → Look for Innominate/Pubic shears.
     *   Axis: Inferior Transverse Axis.
-*   **SeFT (+):** Sacroiliac Dysfunction -> Look for Sacral Torsions/Shears.
+*   **SeFT (+):** Sacroiliac Dysfunction → Look for Sacral Torsions/Shears.
     *   Axis: Middle Transverse Axis.
 :::
 
@@ -218,7 +218,7 @@ See the **Questions** tab for interactive board-style practice.
 *   **Ligaments**: Sacrotuberous, Sacrospinous (Stability)
 ### Biomechanics
 *   **Motion**: Occurs during gait
-*   **Pregnancy**: Relaxin -> Increased laxity -> Anterior Tilt
+*   **Pregnancy**: Relaxin → Increased laxity → Anterior Tilt
 ### Screening Tests
 *   **Standing Flexion (StFT)**
     *   **Diagnoses**: Iliosacral (Innominate) Dysfunction

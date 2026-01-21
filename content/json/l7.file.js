@@ -73,8 +73,8 @@ window.receiveLectureContent({
   ],
   "flashcards": [
     {
-      "front": "Three divisions of Brainstem (Rostral->Caudal)?",
-      "back": "Midbrain -> Pons -> Medulla",
+      "front": "Three divisions of Brainstem (Rostral→Caudal)?",
+      "back": "Midbrain → Pons → Medulla",
       "tag": "Anatomy"
     },
     {

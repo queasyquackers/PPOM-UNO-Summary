@@ -14,6 +14,7 @@ export const L33_CONTENT = {
 *   **$\\beta_3$ (Gs):** Bladder Detrusor Relaxation.
 
 ## 2. Direct-Acting Sympathomimetics
+
 | Drug | Receptors | Action | Clinical Use |
 | :--- | :--- | :--- | :--- |
 | **Epinephrine** | $\\alpha, \\beta$ | Low Dose: $\\beta_2$ (Hypotension). High Dose: $\\alpha_1$ (Hyperstension). | **Anaphylaxis (DOC)**, Cardiac Arrest. |
@@ -173,7 +174,7 @@ export const L33_CONTENT = {
 ### Direct Agonists
 *   **Epinephrine**: Anaphylaxis. A/B non-selective.
 *   **Norepinephrine**: Septic Shock. A1 > B1. No B2.
-*   **Dopamine**: Dose dependent (Renal -> Heart -> Pressor).
+*   **Dopamine**: Dose dependent (Renal → Heart → Pressor).
 *   **Dobutamine**: Heart Failure. B1 > B2.
 *   **Phenylephrine**: Pressor / Decongestant. A1.
 *   **Isoproterenol**: Bradycardia. B1 = B2.
@@ -184,3 +185,7 @@ export const L33_CONTENT = {
 *   **Beta-2**: Lungs (Open), Vessels (Dilate).
 \`
 };
+
+if (typeof window !== 'undefined') {
+    window.L33_CONTENT = L33_CONTENT;
+}

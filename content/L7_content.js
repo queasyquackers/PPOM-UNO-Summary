@@ -162,7 +162,7 @@ In cross-section, the brainstem is divided anterior-to-posterior:
         }
     ],
     flashcards: [
-        { "front": "Three divisions of Brainstem (Rostral->Caudal)?", "back": "Midbrain -> Pons -> Medulla", "tag": "Anatomy" },
+        { "front": "Three divisions of Brainstem (Rostral→Caudal)?", "back": "Midbrain → Pons → Medulla", "tag": "Anatomy" },
         { "front": "Hallmark dorsal structure of Midbrain?", "back": "Tectum (Corpora Quadrigemina / Colliculi)", "tag": "Anatomy" },
         { "front": "Ventral columns of Medulla contain?", "back": "Corticospinal Tract (Pyramids)", "tag": "Anatomy" },
         { "front": "Only CN to exit dorsally?", "back": "CN IV (Trochlear)", "tag": "Anatomy" },

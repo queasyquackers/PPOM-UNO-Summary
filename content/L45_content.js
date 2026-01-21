@@ -198,3 +198,7 @@ export const L45_CONTENT = {
 *   **Hemisphere**: Limb Ataxia (Dysdiadochokinesia).
 \`
 };
+
+if (typeof window !== 'undefined') {
+    window.L45_CONTENT = L45_CONTENT;
+}

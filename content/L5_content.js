@@ -81,7 +81,7 @@ const L5_CONTENT = {
 
 ### Conventional Angiography (Digital Subtraction Angiography - DSA)
 *   **Gold Standard** for vascular pathology.
-*   **Procedure:** Catheter inserted (femoral/radial) -> dye injected directly into vessels.
+*   **Procedure:** Catheter inserted (femoral/radial) → dye injected directly into vessels.
 *   **Usage:**
     *   **Diagnostic:** Aneurysms, AVMs, Vasculitis.
     *   **Therapeutic:** Coiling aneurysms, Thrombectomy (clot removal).
@@ -96,7 +96,7 @@ const L5_CONTENT = {
 *   **Vessel:** Rupture of **Middle Meningeal Artery (MMA)** (branch of Maxillary).
 *   **Cause:** Trauma to **Pterion** (Temple). Rarely crosses sutures.
 *   ** CT Appearance:** **Lens-shaped (Biconvex)** hyperdensity.
-*   **Clinical:** "Lucid Interval" (Knocked out -> Fine -> Rapid Decline/Death).
+*   **Clinical:** "Lucid Interval" (Knocked out → Fine → Rapid Decline/Death).
 :::
 
 :::correlate

@@ -68,17 +68,17 @@ window.receiveLectureContent({
   "flashcards": [
     {
       "front": "Brudzinski Sign",
-      "back": "Neck flexion -> Hip/Knee flexion (Meningitis)",
+      "back": "Neck flexion → Hip/Knee flexion (Meningitis)",
       "tag": "Neurology"
     },
     {
       "front": "Kernig Sign",
-      "back": "Knee extension -> Pain (Meningitis)",
+      "back": "Knee extension → Pain (Meningitis)",
       "tag": "Neurology"
     },
     {
       "front": "Spurling Test",
-      "back": "Cervical Compression -> Radicular Pain (Radiculopathy)",
+      "back": "Cervical Compression → Radicular Pain (Radiculopathy)",
       "tag": "Neurology"
     },
     {
@@ -88,7 +88,7 @@ window.receiveLectureContent({
     },
     {
       "front": "Crossed Straight Leg Raise",
-      "back": "Lift Good Leg -> Pain in Bad Leg (Specific for Disc Herniation)",
+      "back": "Lift Good Leg → Pain in Bad Leg (Specific for Disc Herniation)",
       "tag": "Neurology"
     },
     {

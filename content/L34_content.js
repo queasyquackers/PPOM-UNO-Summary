@@ -197,3 +197,7 @@ Reduces sympathetic outflow from the brainstem.
 *   **Tyramine**: Cheese Effect (MAO-I crisis).
 \`
 };
+
+if (typeof window !== 'undefined') {
+    window.L34_CONTENT = L34_CONTENT;
+}

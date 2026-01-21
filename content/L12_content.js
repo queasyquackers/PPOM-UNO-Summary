@@ -227,3 +227,7 @@ White matter highway carrying fibers to/from cortex.
 *   **Sleep**: Burst Mode (Spindles)
 \`
 };
+
+if (typeof window !== 'undefined') {
+    window.L12_CONTENT = L12_CONTENT;
+}

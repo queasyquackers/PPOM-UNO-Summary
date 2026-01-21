@@ -225,3 +225,7 @@ Mnemonic for Functions: **TAN HATS**
 *   **Craniopharyngioma**: Compression causes Hypopituitarism
 \`
 };
+
+if (typeof window !== 'undefined') {
+    window.L11_CONTENT = L11_CONTENT;
+}

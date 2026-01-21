@@ -101,7 +101,7 @@ Caused by failure of neuropore closure. Strongly associated with **Folate (Vitam
 
 :::correlate
 **Microcephaly (Slide 38)**
-*   **Pathology:** Small brain -> Small skull (Calvaria grows in response to brain growth).
+*   **Pathology:** Small brain → Small skull (Calvaria grows in response to brain growth).
 *   **Causes:**
     *   **Genetics:** Autosomal recessive.
     *   **Infections:** **Zika Virus**, Cytomegalovirus (CMV), Rubella, Toxoplasmosis.
@@ -134,7 +134,7 @@ Caused by failure of neuropore closure. Strongly associated with **Folate (Vitam
         },
         {
             "title": "Holoprosencephaly",
-            "content": "Failed forebrain cleavage. Spectrum: Cleft lip -> Cyclopia. Associated with **Trisomy 13 (Patau)** and **SHH** mutations."
+            "content": "Failed forebrain cleavage. Spectrum: Cleft lip → Cyclopia. Associated with **Trisomy 13 (Patau)** and **SHH** mutations."
         }
     ],
     questions: [

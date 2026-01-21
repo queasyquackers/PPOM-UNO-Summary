@@ -60,7 +60,7 @@ Reflexes are involuntary motor responses to stimuli, mediated by local spinal ci
 
 ### Stretch Reflex (Myotatic)
 This is the simplest reflex (e.g., Knee Jerk). It is **Monosynaptic**.
-- **Mechanism:** Muscle stretch stimulates specific sensory receptors (Muscle Spindles) -> Ia afferent fires -> Direct synapse on Alpha Motor Neuron -> Muscle contracts.
+- **Mechanism:** Muscle stretch stimulates specific sensory receptors (Muscle Spindles) → Ia afferent fires → Direct synapse on Alpha Motor Neuron → Muscle contracts.
 - **Function:** Maintains muscle tone and posture.
 
 ### Flexor Withdrawal & Crossed-Extensor Reflexes
@@ -194,10 +194,10 @@ These are **Polysynaptic**.
 ## Spinal Cord
 ### Tracts
 *   **Ascending (Sensory)**
-    *   **DCML**: Touch/Prop. (Ipsilateral in cord) -> Decussates Medulla
-    *   **STT**: Pain/Temp. (Contralateral in cord) -> Decussates Cord
+    *   **DCML**: Touch/Prop. (Ipsilateral in cord) → Decussates Medulla
+    *   **STT**: Pain/Temp. (Contralateral in cord) → Decussates Cord
 *   **Descending (Motor)**
-    *   **CST**: Motor (Ipsilateral in cord) -> Decussates Medulla
+    *   **CST**: Motor (Ipsilateral in cord) → Decussates Medulla
 ### Reflexes
 *   **Stretch**: Monosynaptic (DTRs)
 *   **Withdrawal**: Polysynaptic (Pain)

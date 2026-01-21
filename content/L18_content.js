@@ -231,3 +231,7 @@ The Vestibular Labyrinth detects head motion via hair cells (mechanotransduction
 *   **Vestibulospinal**: Posture/Balance
 \`
 };
+
+if (typeof window !== 'undefined') {
+    window.L18_CONTENT = L18_CONTENT;
+}

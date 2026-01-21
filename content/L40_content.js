@@ -202,3 +202,7 @@ export const L40_CONTENT = {
 *   **Cauda Equina**: Saddle anesthesia, Bowel/Bladder. Surgery!
 \`
 };
+
+if (typeof window !== 'undefined') {
+    window.L40_CONTENT = L40_CONTENT;
+}

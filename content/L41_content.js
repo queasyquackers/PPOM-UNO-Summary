@@ -206,3 +206,7 @@ export const L41_CONTENT = {
 *   **Myopathy**: Proximal Weakness. No sensory loss.
 \`
 };
+
+if (typeof window !== 'undefined') {
+    window.L41_CONTENT = L41_CONTENT;
+}

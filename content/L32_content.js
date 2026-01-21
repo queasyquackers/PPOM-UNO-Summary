@@ -23,6 +23,7 @@ export const L32_CONTENT = {
         *   Deep Nuclei send final signal to Thalamus/Brainstem.
 
 ## 2. Functional Divisions & Pathology
+
 | Division | Anatomy | Function | Lesion Symptoms |
 | :--- | :--- | :--- | :--- |
 | **Vestibulo-cerebellum** | Flocculonodular Lobe | Balance, Eye movements | Vertigo, **Nystagmus**, Wide-based gait (Truncal Ataxia). |
@@ -184,9 +185,9 @@ export const L32_CONTENT = {
 ## Cerebellum
 
 ### Anatomy
-*   **Deep Nuclei**: DEGF (Lat->Med).
+*   **Deep Nuclei**: DEGF (Lat→Med).
 *   **Input**: Mossy (Pons/Cord), Climbing (Olive).
-*   **Output**: Purkinje (GABA) -> Deep Nuclei.
+*   **Output**: Purkinje (GABA) → Deep Nuclei.
 
 ### Functional Zones
 *   **Vestibulo (Flocculus)**: Balance, Eyes (Nystagmus).
@@ -198,3 +199,7 @@ export const L32_CONTENT = {
 *   **Ipsilateral** deficits.
 \`
 };
+
+if (typeof window !== 'undefined') {
+    window.L32_CONTENT = L32_CONTENT;
+}

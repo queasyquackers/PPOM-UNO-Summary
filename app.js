@@ -364,30 +364,53 @@ function setupEventListeners() {
 
 function setupKeyboardShortcuts() {
   document.addEventListener("keydown", (e) => {
+    // Search Shortcut
     if (e.key === "/" && document.activeElement.id !== "searchInput") {
       e.preventDefault();
       document.getElementById("searchInput").focus();
     }
+    
+    // Close Lecture
     if (e.key === "Escape" && selectedLecture) {
       closeLecture();
     }
+    
+    // Sidebar Toggle
     if (e.key === "[" || e.key === "]") {
       toggleSidebar();
     }
-    if (selectedLecture && (e.key === "ArrowLeft" || e.key === "ArrowRight")) {
-      const tabs = ["summary", "questions", "glossary", "high-yield", "anking"];
-      const currentIndex = tabs.indexOf(activeTab);
-      if (e.key === "ArrowLeft" && currentIndex > 0) {
-        switchTab(tabs[currentIndex - 1]);
-      } else if (e.key === "ArrowRight" && currentIndex < tabs.length - 1) {
-        switchTab(tabs[currentIndex + 1]);
+
+    // Lecture Navigation Shortcuts
+    if (selectedLecture) {
+      // Tab Switching (Left/Right)
+      if (e.key === "ArrowLeft" || e.key === "ArrowRight") {
+        // Updated tabs to match HTML structure
+        const tabs = ["summary", "questions", "flashcards", "mindmap", "anking", "high-yield"];
+        const currentIndex = tabs.indexOf(activeTab);
+        
+        if (e.key === "ArrowLeft" && currentIndex > 0) {
+          switchTab(tabs[currentIndex - 1]);
+        } else if (e.key === "ArrowRight" && currentIndex < tabs.length - 1) {
+          switchTab(tabs[currentIndex + 1]);
+        }
+      }
+
+      // Scrolling (Up/Down)
+      if ((e.key === "ArrowUp" || e.key === "ArrowDown") && document.activeElement.tagName !== 'INPUT') {
+        e.preventDefault(); // Prevent default page scroll
+        const contentScroll = document.getElementById("contentScroll");
+        if (contentScroll) {
+            const scrollAmount = 100; // Pixels to scroll
+            contentScroll.scrollBy({
+                top: e.key === "ArrowUp" ? -scrollAmount : scrollAmount,
+                behavior: 'smooth'
+            });
+        }
       }
 
       // Toggle Complete Shortcut (C)
-      if (e.key === "c" || e.key === "C") {
-        if (selectedLecture && document.activeElement.tagName !== 'INPUT') {
-          toggleLectureComplete(selectedLecture.id);
-        }
+      if ((e.key === "c" || e.key === "C") && document.activeElement.tagName !== 'INPUT') {
+        toggleLectureComplete(selectedLecture.id);
       }
     }
   });
@@ -422,27 +445,25 @@ function setupReadingProgress() {
 }
 
 function updateActiveToC() {
-  const headings = document.getElementById("tabContent").querySelectorAll("h1, h2, h3");
+  const headings = Array.from(document.getElementById("tabContent").querySelectorAll("h1, h2, h3"));
   if (!headings.length) return;
 
+  // Default to first
   let activeId = headings[0].id;
+  
+  // Refined offset for sticky header (~150px)
+  const offset = 150; 
 
-  // Find the first heading that is visible or just above the viewport top
+  // Find the last heading that is above the threshold (active section)
   for (let i = 0; i < headings.length; i++) {
     const rect = headings[i].getBoundingClientRect();
-    // 120px offset to account for sticky header, etc.
-    if (rect.top >= 120) {
-      // This heading is below the line, so the *previous* one is the active one (unless this is the first one)
-      if (i > 0) {
-        activeId = headings[i - 1].id;
-      } else {
-        activeId = headings[0].id;
-      }
-      break;
-    }
-    // If we reach the end and all are above, the last one is active
-    if (i === headings.length - 1) {
-      activeId = headings[i].id;
+    
+    // If heading is above our "reading line", it's a candidate for being active
+    if (rect.top < offset) {
+        activeId = headings[i].id;
+    } else {
+        // We hit a heading below the line, so the *previous* candidate matches
+        break; 
     }
   }
 
@@ -1796,6 +1817,10 @@ function generateTableOfContents() {
 
 function renderMarkdown(html) {
   if (!html) return "";
+
+  // Pre-process: Ensure headers followed by tables have double newlines
+  // Matches: # Header \n | Table (Fixes persistent merging issue)
+  html = html.replace(/^(#{1,6} [^\n]+)\n(\|)/gm, '$1\n\n$2');
 
   // Auto-Link Glossary Terms (Exclude Headings)
   if (selectedLecture.glossary && selectedLecture.glossary.length > 0) {

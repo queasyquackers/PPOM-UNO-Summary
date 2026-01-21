@@ -58,7 +58,7 @@ export const L42_CONTENT = {
         },
         {
             title: "CPM Rule",
-            content: "**From Low to High, your Pons will Die** (Hyponatremia -> Rapid Correction -> CPM/Locked-in).\\n**From High to Low, your Brain will Blow** (Hypernatremia -> Rapid Correction -> Cerebral Edema)."
+            content: "**From Low to High, your Pons will Die** (Hyponatremia → Rapid Correction → CPM/Locked-in).\\n**From High to Low, your Brain will Blow** (Hypernatremia → Rapid Correction → Cerebral Edema)."
         },
         {
             title: "Krabbe Findings",
@@ -197,3 +197,7 @@ export const L42_CONTENT = {
 *   **ALD**: VLCFA. Adrenal.
 \`
 };
+
+if (typeof window !== 'undefined') {
+    window.L42_CONTENT = L42_CONTENT;
+}

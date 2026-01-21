@@ -230,3 +230,7 @@ Used to distinguish Central (Stroke) from Peripheral vertigo in acute vestibular
 *   **Sensorineural**: Weber to Good. AC > BC.
 \`
 };
+
+if (typeof window !== 'undefined') {
+    window.L23_CONTENT = L23_CONTENT;
+}

@@ -47,6 +47,7 @@ export const L35_CONTENT = {
         *   *Classic Cause:* **Multiple Sclerosis** (Bilateral INO).
 
 ## 5. Summary Table
+
 | Nerve | Muscles | Lesion Sign |
 | :--- | :--- | :--- |
 | **CN III** | All others + Levator + Pupil | Down & Out, Ptosis, Blown Pupil |
@@ -196,7 +197,7 @@ export const L35_CONTENT = {
 *   **CN VI**: Lateral Rectus (Out). (Esotropia).
 
 ### Gaze
-*   **Horizontal**: PPRF -> VI Nucleus -> (Contra III via MLF).
+*   **Horizontal**: PPRF → VI Nucleus → (Contra III via MLF).
 *   **INO**: MLF Lesion. Lagging adduction.
 
 ### Other
@@ -204,3 +205,7 @@ export const L35_CONTENT = {
 *   **CN II**: Vision. Afferent Limb of Light Reflex.
 \`
 };
+
+if (typeof window !== 'undefined') {
+    window.L35_CONTENT = L35_CONTENT;
+}

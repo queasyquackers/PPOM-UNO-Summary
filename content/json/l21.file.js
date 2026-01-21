@@ -93,7 +93,7 @@ window.receiveLectureContent({
     },
     {
       "front": "Mechanism of Paradoxical Bradycardia",
-      "back": "Blockade of Presynaptic Autoreceptors (M2) -> Increased ACh release",
+      "back": "Blockade of Presynaptic Autoreceptors (M2) → Increased ACh release",
       "tag": "Physiology"
     },
     {

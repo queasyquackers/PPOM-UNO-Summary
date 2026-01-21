@@ -64,13 +64,13 @@ The **Internal Carotid Artery (ICA)** enters the skull via the Carotid Canal, pa
 *   Ascend through transverse foramina of C6-C1. Enter skull via Foramen Magnum.
 *   **Branches:**
     *   **Anterior Spinal Artery (ASA):** Supplies anterior 2/3 of spinal cord.
-    *   **PICA (Posterior Inferior Cerebellar Artery):** Supplies Lateral Medulla and Inferior Cerebellum. (Occlusion -> Wallenberg Syndrome).
+    *   **PICA (Posterior Inferior Cerebellar Artery):** Supplies Lateral Medulla and Inferior Cerebellum. (Occlusion → Wallenberg Syndrome).
 
 ### Basilar Artery (BA)
 *   Formed by fusion of VAs. Runs along the Pons.
 *   **Branches:**
     *   **AICA (Anterior Inferior Cerebellar Artery):** Supplies Lateral Pons.
-    *   **Pontine Arteries:** Supply the Pons. (Occlusion -> Locked-in Syndrome).
+    *   **Pontine Arteries:** Supply the Pons. (Occlusion → Locked-in Syndrome).
     *   **SCA (Superior Cerebellar Artery):** Supplies Superior Cerebellum.
 
 ### Posterior Cerebral Artery (PCA)
@@ -90,7 +90,7 @@ The **Internal Carotid Artery (ICA)** enters the skull via the Carotid Canal, pa
 *   Anastomotic ring at the base of the brain providing collateral flow.
 *   Formed by: ACom, ACA, ICA, PCom, PCA.
 *   *Note:* The circle is incomplete in ~50% of people.
-*   **Watershed Zones:** Border areas between ACA/MCA/PCA territories. Susceptible to ischemia during **Global Hypoperfusion** (e.g., Cardiac Arrest or severe hypotension) -> "Man in a Barrel" syndrome (proximal weakness).
+*   **Watershed Zones:** Border areas between ACA/MCA/PCA territories. Susceptible to ischemia during **Global Hypoperfusion** (e.g., Cardiac Arrest or severe hypotension) → "Man in a Barrel" syndrome (proximal weakness).
 
 ### Venous Drainage (Slides 32-42)
 Veins drain into Valveless **Dural Venous Sinuses**:
@@ -211,8 +211,8 @@ Veins drain into Valveless **Dural Venous Sinuses**:
     *   Lenticulostriate (Lacunar stroke)
 *   **PCom**: Connects to Posterior
 ### Posterior Circ (Vert-Basilar)
-*   Vertebral A. -> **PICA**
-*   Basilar A. -> **AICA**, **SCA**, **PCA**
+*   Vertebral A. → **PICA**
+*   Basilar A. → **AICA**, **SCA**, **PCA**
 *   **PCA**: Occipital (Vision)
 ### Circle of Willis
 *   ACom (Connects ACAs)
@@ -220,7 +220,7 @@ Veins drain into Valveless **Dural Venous Sinuses**:
 ### Venous
 *   Sup. Sagittal Sinus
 *   Cavernous Sinus (CN III, IV, V, VI)
-*   Transverse/Sigmoid -> IJV
+*   Transverse/Sigmoid → IJV
 `
 };
 

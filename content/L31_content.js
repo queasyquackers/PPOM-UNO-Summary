@@ -183,7 +183,7 @@ export const L31_CONTENT = {
 
 ### Pathways
 *   **Direct (Go)**: Striatum -| GPi -| Thalamus. D1.
-*   **Indirect (Stop)**: Striatum -| GPe -| STN -> GPi -| Thalamus. D2.
+*   **Indirect (Stop)**: Striatum -| GPe -| STN → GPi -| Thalamus. D2.
 
 ### Pathology
 *   **Parkinson's**: Low DA. TRAP. Lewy Bodies. Hypokinetic.
@@ -196,3 +196,7 @@ export const L31_CONTENT = {
 *   **Dopamine**: SNc.
 \`
 };
+
+if (typeof window !== 'undefined') {
+    window.L31_CONTENT = L31_CONTENT;
+}

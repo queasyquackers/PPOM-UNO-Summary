@@ -207,7 +207,7 @@ export const L24_CONTENT = {
 
 ### Olfaction (CN I)
 *   **Receptors**: Bipolar (mucosa).
-*   **Pathway**: Bulb -> Tract -> **Piriform Cortex** (No Thalamus).
+*   **Pathway**: Bulb → Tract → **Piriform Cortex** (No Thalamus).
 *   **Pathology**:
     *   **Kallmann**: Anosmia + Hypogonadism.
     *   **Foster-Kennedy**: Meningioma. Ipsilateral Atrophy/Anosmia, Contralateral Papilledema.
@@ -219,9 +219,13 @@ export const L24_CONTENT = {
     *   Ant 2/3: **CN VII**
     *   Post 1/3: **CN IX**
     *   Throat: **CN X**
-*   **Pathway**: NTS -> VPM (Thalamus) -> Insula.
+*   **Pathway**: NTS → VPM (Thalamus) → Insula.
 *   **Sensation**:
     *   Ion Channels: Salty/Sour.
     *   GPCR: Sweet/Bitter/Umami.
 \`
 };
+
+if (typeof window !== 'undefined') {
+    window.L24_CONTENT = L24_CONTENT;
+}

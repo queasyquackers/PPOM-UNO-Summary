@@ -40,6 +40,7 @@ export const L39_CONTENT = {
     *   Sudden stop → Rebound HTN, Angina, MI, Sudden Death.
 
 ## 4. Therapeutic Uses Summary
+
 | Indication | Preferred Agents | Mechanism |
 | :--- | :--- | :--- |
 | **Hypertension** | Metoprolol, Atenolol | Decrease CO, Renin inhibition. |
@@ -201,3 +202,7 @@ export const L39_CONTENT = {
 *   **Withdrawal**: Rebound HTN (Upregulation).
 \`
 };
+
+if (typeof window !== 'undefined') {
+    window.L39_CONTENT = L39_CONTENT;
+}

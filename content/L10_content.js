@@ -225,3 +225,7 @@ The "Brain of the Gut", capable of functioning independently.
 *   **Bladder**: Spastic (UMN) vs Atonic (LMN)
 \`
 };
+
+if (typeof window !== 'undefined') {
+    window.L10_CONTENT = L10_CONTENT;
+}

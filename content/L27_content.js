@@ -210,3 +210,7 @@ export const L27_CONTENT = {
 *   **Sup Shear**: Pull Leg.
 \`
 };
+
+if (typeof window !== 'undefined') {
+    window.L27_CONTENT = L27_CONTENT;
+}

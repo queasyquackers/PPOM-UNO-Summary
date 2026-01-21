@@ -217,3 +217,7 @@ A one-sentence summary of the case used to communicate and reason.
 *   **Problem Representation**: One-liner summary
 \`
 };
+
+if (typeof window !== 'undefined') {
+    window.L13_CONTENT = L13_CONTENT;
+}

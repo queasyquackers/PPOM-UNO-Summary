@@ -50,7 +50,7 @@ window.receiveLectureContent({
         "Subplate"
       ],
       "correctAnswer": 3,
-      "rationale": "Deep layers (6) form first. Superficial layers (2) form last. (Layer 1 is the marginal zone and exists early, but the *cortical plate* neurons fill in 6->2)."
+      "rationale": "Deep layers (6) form first. Superficial layers (2) form last. (Layer 1 is the marginal zone and exists early, but the *cortical plate* neurons fill in 6→2)."
     },
     {
       "question": "Molecular Layer Heterotopia (neurons migrating too far) is often found in the brains of patients with:",

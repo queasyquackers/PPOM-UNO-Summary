@@ -163,7 +163,7 @@ export const L43_CONTENT = {
         },
         {
             front: "Glatiramer Acetate Mechanism",
-            back: "Myelin Basic Protein Decoy (Th1 -> Th2)",
+            back: "Myelin Basic Protein Decoy (Th1 → Th2)",
             tag: "Pharmacology"
         },
         {
@@ -209,3 +209,7 @@ export const L43_CONTENT = {
 *   **Bladder**: Oxybutynin.
 \`
 };
+
+if (typeof window !== 'undefined') {
+    window.L43_CONTENT = L43_CONTENT;
+}

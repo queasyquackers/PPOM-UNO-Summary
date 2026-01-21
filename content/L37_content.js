@@ -36,6 +36,7 @@ export const L37_CONTENT = {
 *   **Reinforcement:** **Jendrassik Maneuver** (hook fingers and pull) distracts patient to elicit hard-to-find reflexes.
 
 ## 3. UMN vs LMN Findings
+
 | Feature | UMN (Upper Motor Neuron) | LMN (Lower Motor Neuron) |
 | :--- | :--- | :--- |
 | **Tone** | **Spastic** (Increased) | **Flaccid** (Decreased) |
@@ -218,3 +219,7 @@ export const L37_CONTENT = {
 *   **Babinski**: UMN (Upgoing toe).
 \`
 };
+
+if (typeof window !== 'undefined') {
+    window.L37_CONTENT = L37_CONTENT;
+}

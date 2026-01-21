@@ -54,7 +54,7 @@ The **Hippocampus** (Latin for "Seahorse") is critical for learning, memory cons
 
 ### The Fornix (Slide 16-17)
 The major output tract of the hippocampus.
-*   **Pathway:** Hippocampus $\\to$ Fimbria $\\to$ Crus $\\to$ Body $\\to$ Columns of Fornix $\\to$ **Mammillary Bodies** (Hypothalamus).
+*   **Pathway:** Hippocampus → Fimbria → Crus → Body → Columns of Fornix → **Mammillary Bodies** (Hypothalamus).
 
 :::correlate
 **Temporal Lobe Epilepsy**
@@ -161,7 +161,7 @@ Located near the anterior commissure. Contains the **Nucleus Accumbens**.
     },
     {
       "title": "Papez Circuit Sequence",
-      "content": "Hippocampus $\\to$ Fornix $\\to$ Mammillary Bodies $\\to$ Ant. Thalamic Nucleus $\\to$ Cingulate Gyrus $\\to$ Hippocampus."
+      "content": "Hippocampus → Fornix → Mammillary Bodies → Ant. Thalamic Nucleus → Cingulate Gyrus → Hippocampus."
     },
     {
       "title": "Kluver-Bucy Syndrome",
@@ -280,7 +280,7 @@ Located near the anterior commissure. Contains the **Nucleus Accumbens**.
     },
     {
       "front": "Damage to the Mammillary Bodies is seen in whom?",
-      "back": "Alcoholics (Thiamine/B1 deficiency) $\\to$ **Wernicke-Korsakoff Syndrome**",
+      "back": "Alcoholics (Thiamine/B1 deficiency) → **Wernicke-Korsakoff Syndrome**",
       "tag": "Pathology"
     },
     {
@@ -311,10 +311,10 @@ Located near the anterior commissure. Contains the **Nucleus Accumbens**.
 *   **Amygdala**: Fear, Anger, Kluver-Bucy
 
 ### Papez Circuit
-*   **Hippocampus** $\\to$ Fornix
-*   **Mammillary Bodies** $\\to$ Mammillothalamic Tract
-*   **Ant. Thalamus** $\\to$ Internal Capsule
-*   **Cingulate** $\\to$ Cingulum
+*   **Hippocampus** → Fornix
+*   **Mammillary Bodies** → Mammillothalamic Tract
+*   **Ant. Thalamus** → Internal Capsule
+*   **Cingulate** → Cingulum
 
 ### Pathology
 *   **Kluver-Bucy**: Bilateral Amygdala. Hypersex/oral.

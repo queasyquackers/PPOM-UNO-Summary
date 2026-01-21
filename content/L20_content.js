@@ -169,7 +169,7 @@ Indirect-acting agents inhibit **Acetylcholinesterase (AChE)**, increasing the c
         },
         {
             front: "Why doesn't Neostigmine treat Alzheimer's?",
-            back: "It is a Quaternary amine (Charged) -> Doesn't cross BBB",
+            back: "It is a Quaternary amine (Charged) → Doesn't cross BBB",
             tag: "Pharmacology"
         },
         {
@@ -220,3 +220,7 @@ Indirect-acting agents inhibit **Acetylcholinesterase (AChE)**, increasing the c
 *   **Antidote**: Atropine (Musc) + Pralidoxime (Regen)
 \`
 };
+
+if (typeof window !== 'undefined') {
+    window.L20_CONTENT = L20_CONTENT;
+}

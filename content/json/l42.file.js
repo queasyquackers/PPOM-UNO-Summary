@@ -128,7 +128,7 @@ window.receiveLectureContent({
     },
     {
       "title": "CPM Rule",
-      "content": "**From Low to High, your Pons will Die** (Hyponatremia -> Rapid Correction -> CPM/Locked-in).\\n**From High to Low, your Brain will Blow** (Hypernatremia -> Rapid Correction -> Cerebral Edema)."
+      "content": "**From Low to High, your Pons will Die** (Hyponatremia → Rapid Correction → CPM/Locked-in).\\n**From High to Low, your Brain will Blow** (Hypernatremia → Rapid Correction → Cerebral Edema)."
     },
     {
       "title": "Krabbe Findings",

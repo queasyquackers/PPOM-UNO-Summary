@@ -195,7 +195,7 @@ export const L28_CONTENT = {
 ### Frontal Lobe
 *   **Executive**: Planning, Personality.
 *   **Field 8**: Eye saccades.
-*   **Pathology**: **FTD (Pick's)** -> Disinhibition (MAPT).
+*   **Pathology**: **FTD (Pick's)** → Disinhibition (MAPT).
 
 ### Parietal Lobe
 *   **Right (Non-Dom)**: Attention. Lesion: **Neglect**.
@@ -209,3 +209,7 @@ export const L28_CONTENT = {
 *   **Visceral**: Taste, Disgust, Addiction.
 \`
 };
+
+if (typeof window !== 'undefined') {
+    window.L28_CONTENT = L28_CONTENT;
+}

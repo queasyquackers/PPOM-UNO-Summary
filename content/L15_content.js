@@ -224,9 +224,9 @@ Carries **Pain, Temperature, Crude Touch**.
 
 ### Pathways
 *   **DCML** (Touch/Proprio)
-    *   DRG -> Dorsal Cols -> Medulla (Cross) -> ML -> VPL
+    *   DRG → Dorsal Cols → Medulla (Cross) → ML → VPL
 *   **Spinothalamic** (Pain/Temp)
-    *   DRG -> Dorsal Horn -> Cord (Cross) -> ALS -> VPL
+    *   DRG → Dorsal Horn → Cord (Cross) → ALS → VPL
 
 ### Clinical
 *   **Brown-Sequard**: Hemicord lesion
@@ -234,3 +234,7 @@ Carries **Pain, Temperature, Crude Touch**.
 *   **Thalamic Syndrome**: VPL stroke (Pain)
 \`
 };
+
+if (typeof window !== 'undefined') {
+    window.L15_CONTENT = L15_CONTENT;
+}
