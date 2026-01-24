@@ -369,12 +369,12 @@ function setupKeyboardShortcuts() {
       e.preventDefault();
       document.getElementById("searchInput").focus();
     }
-    
+
     // Close Lecture
     if (e.key === "Escape" && selectedLecture) {
       closeLecture();
     }
-    
+
     // Sidebar Toggle
     if (e.key === "[" || e.key === "]") {
       toggleSidebar();
@@ -387,7 +387,7 @@ function setupKeyboardShortcuts() {
         // Updated tabs to match HTML structure
         const tabs = ["summary", "questions", "flashcards", "mindmap", "anking", "high-yield"];
         const currentIndex = tabs.indexOf(activeTab);
-        
+
         if (e.key === "ArrowLeft" && currentIndex > 0) {
           switchTab(tabs[currentIndex - 1]);
         } else if (e.key === "ArrowRight" && currentIndex < tabs.length - 1) {
@@ -400,11 +400,11 @@ function setupKeyboardShortcuts() {
         e.preventDefault(); // Prevent default page scroll
         const contentScroll = document.getElementById("contentScroll");
         if (contentScroll) {
-            const scrollAmount = 100; // Pixels to scroll
-            contentScroll.scrollBy({
-                top: e.key === "ArrowUp" ? -scrollAmount : scrollAmount,
-                behavior: 'smooth'
-            });
+          const scrollAmount = 100; // Pixels to scroll
+          contentScroll.scrollBy({
+            top: e.key === "ArrowUp" ? -scrollAmount : scrollAmount,
+            behavior: 'smooth'
+          });
         }
       }
 
@@ -450,20 +450,20 @@ function updateActiveToC() {
 
   // Default to first
   let activeId = headings[0].id;
-  
+
   // Refined offset for sticky header (~150px)
-  const offset = 150; 
+  const offset = 150;
 
   // Find the last heading that is above the threshold (active section)
   for (let i = 0; i < headings.length; i++) {
     const rect = headings[i].getBoundingClientRect();
-    
+
     // If heading is above our "reading line", it's a candidate for being active
     if (rect.top < offset) {
-        activeId = headings[i].id;
+      activeId = headings[i].id;
     } else {
-        // We hit a heading below the line, so the *previous* candidate matches
-        break; 
+      // We hit a heading below the line, so the *previous* candidate matches
+      break;
     }
   }
 
@@ -1846,16 +1846,23 @@ function renderMarkdown(html) {
       .join("\n");
   }
 
-  // Table parsing
-  html = html.replace(/(\n|^)(\|.*\|\r?\n)+/g, function (match) {
+  // Table parsing - Improved Regex for Robustness
+  // Matches:
+  // 1. Start of line or string
+  // 2. Optional whitespace
+  // 3. A pipe character
+  // 4. Content
+  // 5. Repeated for multiple lines
+  html = html.replace(/(\n|^)(\s*\|.*\|\s*(\r?\n|$))+/g, function (match) {
     const rows = match
       .trim()
       .split(/\r?\n/)
       .filter((row) => row.trim());
     if (rows.length < 2) return match;
 
+    // Check for separator row (must contain only - : | and spaces)
     const secondRow = rows[1].trim();
-    if (!/^\|?[\s-:]+\|?$/.test(secondRow.replace(/\|/g, ""))) {
+    if (!/^\|?[\s\-:|]+\|?$/.test(secondRow)) {
       return match;
     }
 
@@ -1864,7 +1871,12 @@ function renderMarkdown(html) {
 
     const headerCells = headerRow
       .split("|")
-      .filter((c) => c.trim() !== "")
+      // Remove first/last empty elements if pipes are at edges
+      .filter((c, i, arr) => {
+        if (i === 0 && c.trim() === "") return false;
+        if (i === arr.length - 1 && c.trim() === "") return false;
+        return true;
+      })
       .map((c) => c.trim());
 
     let tableHtml =
@@ -1893,10 +1905,13 @@ function renderMarkdown(html) {
       '">';
 
     bodyRows.forEach((row) => {
-      const cells = row.split("|");
-      if (cells.length > 0 && cells[0].trim() === "") cells.shift();
-      if (cells.length > 0 && cells[cells.length - 1].trim() === "")
-        cells.pop();
+      const cells = row
+        .split("|")
+        .filter((c, i, arr) => {
+          if (i === 0 && c.trim() === "") return false;
+          if (i === arr.length - 1 && c.trim() === "") return false;
+          return true;
+        });
 
       tableHtml +=
         '<tr class="' +
@@ -2008,6 +2023,66 @@ function renderMarkdown(html) {
         ' shadow-sm"><div class="flex items-center gap-3 mb-3"><span class="text-2xl">🩺</span><h4 class="text-lg font-bold uppercase tracking-wide font-sans ' +
         (isDark ? "text-red-400" : "text-red-700") +
         '">Clinical Correlate</h4></div><div class="space-y-2">' +
+        processedContent +
+        "</div></div>"
+      );
+    }
+  );
+
+  // Mnemonic (Purple Block)
+  html = html.replace(
+    /:::mnemonic\s*([\s\S]*?):::/g,
+    function (match, content) {
+      const lines = content.trim().split("\n");
+      let processedContent = "";
+      let inList = false;
+
+      lines.forEach((line) => {
+        line = line.trim();
+        if (/^[\*\-]\s/.test(line)) {
+          if (!inList) {
+            processedContent +=
+              '<ul class="list-disc list-outside ml-6 space-y-2 marker:' +
+              (isDark ? "text-indigo-400" : "text-indigo-700") +
+              '">';
+            inList = true;
+          }
+          const itemText = line
+            .replace(/^[\*\-]\s*/, "")
+            .replace(
+              /\*\*(.*?)\*\*/g,
+              '<strong class="font-bold text-solarized-base01 dark:text-dark-text">$1</strong>'
+            );
+          processedContent +=
+            '<li class="text-lg font-serif leading-relaxed ' +
+            (isDark ? "text-dark-text" : "text-solarized-base00") +
+            '">' +
+            itemText +
+            "</li>";
+        } else {
+          if (inList) {
+            processedContent += "</ul>";
+            inList = false;
+          }
+          if (line.length > 0) {
+            const processedLine = line.replace(/^[\s\*]+|[\s\*]+$/g, "");
+            processedContent +=
+              '<p class="mb-2 text-lg font-serif leading-relaxed ' +
+              (isDark ? "text-dark-text" : "text-solarized-base00") +
+              '"><strong class="font-bold text-solarized-base01 dark:text-dark-text">' +
+              processedLine +
+              "</strong></p>";
+          }
+        }
+      });
+      if (inList) processedContent += "</ul>";
+
+      return (
+        '<div class="my-8 p-6 rounded-xl border-l-8 ' +
+        (isDark ? "border-indigo-500 bg-indigo-500/10" : "border-indigo-500 bg-indigo-50") +
+        ' shadow-sm"><div class="flex items-center gap-3 mb-3"><span class="text-2xl">🧠</span><h4 class="text-lg font-bold uppercase tracking-wide font-sans ' +
+        (isDark ? "text-indigo-400" : "text-indigo-700") +
+        '">Mnemonic</h4></div><div class="space-y-2">' +
         processedContent +
         "</div></div>"
       );
