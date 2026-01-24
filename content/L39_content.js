@@ -41,6 +41,7 @@ export const L39_CONTENT = {
 
 ## 4. Therapeutic Uses Summary
 
+
 | Indication | Preferred Agents | Mechanism |
 | :--- | :--- | :--- |
 | **Hypertension** | Metoprolol, Atenolol | Decrease CO, Renin inhibition. |

@@ -32,7 +32,6 @@ Generate a comprehensive, high-yield summary of the provided lecture content.
 ### 2. Comprehensive Summary
 
 - **Instructions:**
-
   - **Content Style: Narrative & Contextual (CRITICAL)**
     - **Do NOT just list bullet points.** The summary should read like a **high-quality textbook or lecture note set**.
     - **Use Paragraphs:** Use full sentences and explanatory paragraphs to describe mechanisms, physiological processes, and the "story" of the lecture.
@@ -44,7 +43,6 @@ Generate a comprehensive, high-yield summary of the provided lecture content.
   - **Cross-Linking:**
     - **Rule:** If a previous lecture is mentioned (e.g., "Recall from L102"), format it as a link: `[[L102]]`.
   - **CLINICAL MANDATE (CRITICAL):**
-
     - **Aggressive Scan:** If a disease, syndrome, or disorder is mentioned (e.g., "Otitis Media", "Stroke", "Diabetes"), you **MUST** create a `:::correlate` block for it.
     - **Contextual Integration:** Introduce the condition naturally in the narrative paragraph first (e.g., "Damage to this nerve results in Condition X...").
     - **Extraction:** Then, use the `:::correlate` block to detail the specific clinical facts (Pathophysiology, Presentation, Treatment). Do not _only_ have the block; text + block is best.
@@ -65,7 +63,6 @@ Generate a comprehensive, high-yield summary of the provided lecture content.
     - Identify at least 2 "Must Know" concepts and format as `:::highyield` blocks.
 
   - **Mnemonics:**
-
     - Integrate mnemonics directly into the text using the `:::mnemonic` block.
 
     ```markdown
@@ -96,7 +93,6 @@ Generate a comprehensive, high-yield summary of the provided lecture content.
 ### 4. Review Questions (Board-Style)
 
 - **Instructions:**
-
   - Create 5 First-Order, Medical School level MCQs.
   - **Distribution:** **MUST** vary the correct answer choices (A-E). Do not use the same letter more than twice.
   - **Format:**
@@ -156,6 +152,7 @@ Generate a comprehensive, high-yield summary of the provided lecture content.
       ]
   }
   ```
+
   - **Valid Source Names:** `BandB`, `Pathoma`, `SketchyMicro`, `SketchyPharm`, `SketchyPath`, `FirstAid`, `Physeo`, `Pixorize`, `Bootcamp`.
   - **Rule:** Provide the **Best Match** as primary, and up to **5 Alternative Matches** in the list.
 

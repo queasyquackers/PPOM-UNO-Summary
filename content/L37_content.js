@@ -37,6 +37,7 @@ export const L37_CONTENT = {
 
 ## 3. UMN vs LMN Findings
 
+
 | Feature | UMN (Upper Motor Neuron) | LMN (Lower Motor Neuron) |
 | :--- | :--- | :--- |
 | **Tone** | **Spastic** (Increased) | **Flaccid** (Decreased) |

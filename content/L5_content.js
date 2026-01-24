@@ -62,6 +62,7 @@ const L5_CONTENT = {
 
 ### Summary: CT vs. MRI
 
+
 | Feature | CT | MRI |
 | :--- | :--- | :--- |
 | **Speed** | Fast (< 1 min) | Slow (30-45 mins) |

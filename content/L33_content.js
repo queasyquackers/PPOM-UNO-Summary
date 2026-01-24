@@ -15,6 +15,7 @@ export const L33_CONTENT = {
 
 ## 2. Direct-Acting Sympathomimetics
 
+
 | Drug | Receptors | Action | Clinical Use |
 | :--- | :--- | :--- | :--- |
 | **Epinephrine** | $\\alpha, \\beta$ | Low Dose: $\\beta_2$ (Hypotension). High Dose: $\\alpha_1$ (Hyperstension). | **Anaphylaxis (DOC)**, Cardiac Arrest. |

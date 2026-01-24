@@ -20,6 +20,7 @@ export const L30_CONTENT = {
 
 ## 2. UMN vs. LMN Lesions
 
+
 | Feature | UMN Lesion (Cortex/Stem) | LMN Lesion (Nerve/Root) |
 | :--- | :--- | :--- |
 | **Tone** | **Spastic** (Increased) | **Flaccid** (Decreased) |

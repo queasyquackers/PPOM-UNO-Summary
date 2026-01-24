@@ -24,6 +24,7 @@ export const L32_CONTENT = {
 
 ## 2. Functional Divisions & Pathology
 
+
 | Division | Anatomy | Function | Lesion Symptoms |
 | :--- | :--- | :--- | :--- |
 | **Vestibulo-cerebellum** | Flocculonodular Lobe | Balance, Eye movements | Vertigo, **Nystagmus**, Wide-based gait (Truncal Ataxia). |
