@@ -1,5 +1,6 @@
 export const L38_CONTENT = {
     id: "l38",
+    highYieldPdf: "L38_HighYield_Render.pdf",
     summary: `
 # Lecture 38: OMM Lab 18 - Sacral Diagnosis
 
