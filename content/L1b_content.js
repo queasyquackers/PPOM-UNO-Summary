@@ -16,23 +16,23 @@ const L1b_CONTENT = {
 
 ## Introduction
 This lecture prepares students for the Pelvis Lab (#15). It reinforces the diagnostic concepts from Lecture 1a and introduces specific Innominate and Pubic Somatic Dysfunctions.
-*   **Goal:** Efficiently examine, name, and record somatic dysfunctions of the pelvis.
+* **Goal**:** Efficiently examine, name, and record somatic dysfunctions of the pelvis.
 
 ---
 
 ## Review of Diagnostic Tests (Slide 4-6, 8-13)
 ### 1. Standing Flexion Test (StFT)
-*   **Significance:** Lateralizes **Innominate (Iliosacral)** dysfunction.
-*   **Positive:** PSIS moves **first and farthest** superiorly.
-*   **Rule:** Detailed diagnosis is named for the **side of the positive StFT**.
+* **Significance**:** Lateralizes **Innominate (Iliosacral)** dysfunction.
+* **Positive**:** PSIS moves **first and farthest** superiorly.
+* **Rule**:** Detailed diagnosis is named for the **side of the positive StFT**.
 
 ### 2. ASIS Compression Test (Pelvic Rock)
-*   **Significance:** Lateralizes dysfunction; useful screening but less specific (can be Iliosacral or Sacroiliac).
-*   **Positive:** Resistance to posterior-medial compression ("Hard end-feel").
+* **Significance**:** Lateralizes dysfunction; useful screening but less specific (can be Iliosacral or Sacroiliac).
+* **Positive**:** Resistance to posterior-medial compression ("Hard end-feel").
 
 ### 3. Static Landmarks
-*   **Anterior:** ASIS, Pubic Tubercles, Medial Malleoli.
-*   **Posterior:** PSIS, Iliac Crests, Ischial Tuberosities, Sacral Sulci.
+* **Anterior**:** ASIS, Pubic Tubercles, Medial Malleoli.
+* **Posterior**:** PSIS, Iliac Crests, Ischial Tuberosities, Sacral Sulci.
 
 ---
 
@@ -42,76 +42,76 @@ This lecture prepares students for the Pelvis Lab (#15). It reinforces the diagn
 Motion of the innominate on the sacrum around the **Inferior Transverse Axis**.
 
 #### Anterior Rotation (Slide 28-29)
-*   **Mechanism:** Innominate rotates anteriorly.
-*   **Landmarks (on dysfunctional side):**
-    *   **ASIS:** Inferior
-    *   **PSIS:** Superior
-    *   **Medial Malleolus:** Inferior (Long Leg)
-*   **Symptoms:** Hamstring tightness, Sciatica (Piriformis).
+* **Mechanism**:** Innominate rotates anteriorly.
+* **Landmarks (on dysfunctional side)**:**
+    * **ASIS**:** Inferior
+    * **PSIS**:** Superior
+    * **Medial Malleolus**:** Inferior (Long Leg)
+* **Symptoms**:** Hamstring tightness, Sciatica (Piriformis).
 
 #### Posterior Rotation (Slide 30-31)
-*   **Mechanism:** Innominate rotates posteriorly.
-*   **Landmarks (on dysfunctional side):**
-    *   **ASIS:** Superior
-    *   **PSIS:** Inferior
-    *   **Medial Malleolus:** Superior (Short Leg)
-*   **Symptoms:** Inguinal/Groin pain (Rectus Femoris), Medial Knee pain (Sartorius).
+* **Mechanism**:** Innominate rotates posteriorly.
+* **Landmarks (on dysfunctional side)**:**
+    * **ASIS**:** Superior
+    * **PSIS**:** Inferior
+    * **Medial Malleolus**:** Superior (Short Leg)
+* **Symptoms**:** Inguinal/Groin pain (Rectus Femoris), Medial Knee pain (Sartorius).
 
 ### Innominate Shears
 Translatory motion of the entire innominate (usually traumatic).
 
 #### Superior Shear (Upslip) (Slide 33-34)
-*   **Mechanism:** Entire innominate shifts superiorly (e.g., landing on one leg).
-*   **Landmarks:**
-    *   **ASIS:** Superior
-    *   **PSIS:** Superior
-    *   **Pubic Tubercle:** Superior
-    *   **Medial Malleolus:** Superior (Short Leg)
-*   **Motion:** Laxity in superior translation.
+* **Mechanism**:** Entire innominate shifts superiorly (e.g., landing on one leg).
+* **Landmarks**:**
+    * **ASIS**:** Superior
+    * **PSIS**:** Superior
+    * **Pubic Tubercle**:** Superior
+    * **Medial Malleolus**:** Superior (Short Leg)
+* **Motion**:** Laxity in superior translation.
 
 #### Inferior Shear (Downslip) (Slide 35-36)
-*   **Mechanism:** Entire innominate shifts inferiorly (e.g., getting leg caught in stirrup).
-*   **Landmarks:**
-    *   **ASIS:** Inferior
-    *   **PSIS:** Inferior
-    *   **Pubic Tubercle:** Inferior
-    *   **Medial Malleolus:** Inferior (Long Leg)
+* **Mechanism**:** Entire innominate shifts inferiorly (e.g., getting leg caught in stirrup).
+* **Landmarks**:**
+    * **ASIS**:** Inferior
+    * **PSIS**:** Inferior
+    * **Pubic Tubercle**:** Inferior
+    * **Medial Malleolus**:** Inferior (Long Leg)
 
 :::pearl
 **Shear Tip:** In a shear, **ALL** landmarks move in the same direction (e.g., Superior Shear = ASIS High, PSIS High, Pubes High). In rotations, ASIS and PSIS move in **opposites**.
 :::
 
 ### Innominate Flares (Slide 37)
-*   **Outflare:** ASIS further from midline (associated with Posterior Rotation).
-*   **Inflare:** ASIS closer to midline (associated with Anterior Rotation).
+* **Outflare**:** ASIS further from midline (associated with Posterior Rotation).
+* **Inflare**:** ASIS closer to midline (associated with Anterior Rotation).
 
 ---
 
 ## Pubic Somatic Dysfunctions (Slide 38-42)
 
 ### Pubic Shears (Slide 38)
-*   **Superior Shear:** Pubic tubercle high on dysfunctional side.
-*   **Inferior Shear:** Pubic tubercle low on dysfunctional side.
-*   **Clinical:** Trauma, childbirth.
+* **Superior Shear**:** Pubic tubercle high on dysfunctional side.
+* **Inferior Shear**:** Pubic tubercle low on dysfunctional side.
+* **Clinical**:** Trauma, childbirth.
 
 ### Pubic Symphysis Dysfunctions
 Dysfunction at the joint itself without asymmetry of height.
 
 :::correlate
 **Pubic Compression (Adducted Pubis)** (Slide 39-40)
-*   **Pathophysiology:** Pubic bones forced together (Trauma).
-*   **Presentation:**
+* **Pathophysiology**:** Pubic bones forced together (Trauma).
+* **Presentation**:**
     *   Bilateral tenderness.
     *   **Bulging** symphyseal cartilage.
     *   Restricted Pelvic Ring motion (Bilaterally restricted ASIS Compression).
     *   Urinary symptoms (frequency/urgency).
-*   **Diagnosis:** No height asymmetry, but restricted motion and tenderness.
+* **Diagnosis**:** No height asymmetry, but restricted motion and tenderness.
 :::
 
 :::correlate
 **Pubic Gapping (Abducted Pubis)** (Slide 41-42)
-*   **Pathophysiology:** Pubic bones pulled apart (Childbirth, Fractures).
-*   **Presentation:**
+* **Pathophysiology**:** Pubic bones pulled apart (Childbirth, Fractures).
+* **Presentation**:**
     *   **Deep Sulcus** at symphysis.
     *   Bilateral tenderness.
     *   Urinary symptoms.
@@ -121,18 +121,18 @@ Dysfunction at the joint itself without asymmetry of height.
 ---
 
 ## Case Study (Slide 45)
-*   **Patient:** 20F Equestrian, fell from horse, foot caught in stirrup.
-*   **Findings (Right Side):**
-    *   StFT: (+) Right
-    *   ASIS: Inferior
-    *   PSIS: Inferior
-    *   Pubic Tubercle: Inferior
-    *   Medial Malleolus: Inferior
-*   **Diagnosis:** **Right Inferior Innominate Shear**.
-    *   *Reasoning:* All landmarks are inferior on the right, consistent with the mechanism of injury (traction on the leg).
+* **Patient**:** 20F Equestrian, fell from horse, foot caught in stirrup.
+* **Findings (Right Side)**:**
+    * **  StFT**: (+) Right
+    * **  ASIS**: Inferior
+    * **  PSIS**: Inferior
+    * **  Pubic Tubercle**: Inferior
+    * **  Medial Malleolus**: Inferior
+* **Diagnosis**:**Right Inferior Innominate Shear**.
+    * **  *Reasoning**:* All landmarks are inferior on the right, consistent with the mechanism of injury (traction on the leg).
 
 ## Lab Prep Pearls
-*   **Order of Exam:**
+* **Order of Exam**:**
     1.  Screen (StFT/SeFT).
     2.  Lateralize (ASIS Compression).
     3.  **Reseat the Pelvis!** (Bridge).
@@ -217,30 +217,30 @@ Dysfunction at the joint itself without asymmetry of height.
 ## Pelvic Somatic Dysfunctions
 ### Innominate Rotations
 *   **Anterior Rotation**
-    *   **ASIS**: Inferior
-    *   **PSIS**: Superior
-    *   **Leg**: Long
-    *   **Association**: Inflare, Hamstring tightness
+    * **ASIS**: Inferior
+    * **PSIS**: Superior
+    * **Leg**: Long
+    * **Association**: Inflare, Hamstring tightness
 *   **Posterior Rotation**
-    *   **ASIS**: Superior
-    *   **PSIS**: Inferior
-    *   **Leg**: Short
-    *   **Association**: Outflare, Groin pain (Rectus)
+    * **ASIS**: Superior
+    * **PSIS**: Inferior
+    * **Leg**: Short
+    * **Association**: Outflare, Groin pain (Rectus)
 ### Innominate Shears
 *   **Superior Shear (Upslip)**
-    *   **All Landmarks**: Superior (ASIS, PSIS, Pubes)
-    *   **Cause**: Vertical impact (landing on leg)
+    * **All Landmarks**: Superior (ASIS, PSIS, Pubes)
+    * **Cause**: Vertical impact (landing on leg)
 *   **Inferior Shear (Downslip)**
-    *   **All Landmarks**: Inferior
-    *   **Cause**: Traction (stuck in stirrup)
+    * **All Landmarks**: Inferior
+    * **Cause**: Traction (stuck in stirrup)
 ### Pubic Dysfunctions
-*   **Shears**: Sup/Inf asymmetry (named for StFT side)
+* **Shears**: Sup/Inf asymmetry (named for StFT side)
 *   **Compression (Adduction)**
-    *   **Sign**: Bulging, rigidity
-    *   **Cause**: Trauma
+    * **Sign**: Bulging, rigidity
+    * **Cause**: Trauma
 *   **Gapping (Abduction)**
-    *   **Sign**: Deep Sulcus
-    *   **Cause**: Childbirth
+    * **Sign**: Deep Sulcus
+    * **Cause**: Childbirth
 `
 };
 

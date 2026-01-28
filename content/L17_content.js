@@ -8,19 +8,19 @@ export const L17_CONTENT = {
 
 ## 1. Auditory Anatomy (Slide 4-6, 10-14)
 
-*   **Outer Ear:** Funnels sound.
-*   **Middle Ear:** Ossicles (**Malleus, Incus, Stapes**) amplify sound to transfer it from air (tympanic membrane) to fluid (oval window).
-    *   **Impedance Matching:** Necessary because fluid differs from air. Stapes pushes on Oval Window.
-    *   **Protective Reflex:** **Stapedius (CN VII)** and **Tensor Tympani (CN V3)** contract to dampen loud sounds.
-*   **Inner Ear (Cochlea):**
-    *   **Tonotopy:** **Base** = High Frequencies (Narrow/Stiff). **Apex** = Low Frequencies (Wide/Floppy).
-    *   **Ion Gradients:** **Endolymph** (Scala Media) is high in **K+**. Perilymph is low in K+.
+* **Outer Ear**:** Funnels sound.
+* **Middle Ear**:** Ossicles (**Malleus, Incus, Stapes**) amplify sound to transfer it from air (tympanic membrane) to fluid (oval window).
+    * **Impedance Matching**:** Necessary because fluid differs from air. Stapes pushes on Oval Window.
+    * **Protective Reflex**:**Stapedius (CN VII)** and **Tensor Tympani (CN V3)** contract to dampen loud sounds.
+* **Inner Ear (Cochlea)**:**
+    * **Tonotopy**:**Base** = High Frequencies (Narrow/Stiff). **Apex** = Low Frequencies (Wide/Floppy).
+    * **Ion Gradients**:**Endolymph** (Scala Media) is high in **K+**. Perilymph is low in K+.
 
 ## 2. Mechanotransduction: Organ of Corti (Slide 15-18)
 The **Organ of Corti** sits on the basilar membrane.
-*   **Inner Hair Cells (IHC):** The primary sensory receptors (95% of afferents).
-*   **Outer Hair Cells (OHC):** Cochlear amplifiers. Damage = **Tinnitus**.
-*   **Transduction:** Vibration bends stereocilia → Tip links open K+ channels → K+ influx (depolarization) → Ca2+ influx → Glutamate release.
+* **Inner Hair Cells (IHC)**:** The primary sensory receptors (95% of afferents).
+* **Outer Hair Cells (OHC)**:** Cochlear amplifiers. Damage = **Tinnitus**.
+* **Transduction**:** Vibration bends stereocilia → Tip links open K+ channels → K+ influx (depolarization) → Ca2+ influx → Glutamate release.
 
 ## 3. Auditory Pathway (Slide 20-21)
 "E. C. O. L. I. M." mnemonic.
@@ -33,42 +33,42 @@ The **Organ of Corti** sits on the basilar membrane.
 7.  **Auditory Cortex** (Temporal Lobe/Heschl's Gyrus).
 
 ## 4. Hearing Loss Types (Slide 27-29)
-*   **Conductive:** Middle/Outer ear issue (Wax, Otitis Media, Otosclerosis).
-    *   *Rinne:* Bone > Air.
-    *   *Weber:* Localizes to **Affected** ear.
-*   **Sensorineural:** Inner ear/Nerve issue (Presbycusis, Noise, Drugs).
-    *   *Rinne:* Air > Bone (Normal pattern, but reduced).
-    *   *Weber:* Localizes to **Unaffected** ear.
+* **Conductive**:** Middle/Outer ear issue (Wax, Otitis Media, Otosclerosis).
+    * **  *Rinne**:* Bone > Air.
+    * **  *Weber**:* Localizes to **Affected** ear.
+* **Sensorineural**:** Inner ear/Nerve issue (Presbycusis, Noise, Drugs).
+    * **  *Rinne**:* Air > Bone (Normal pattern, but reduced).
+    * **  *Weber**:* Localizes to **Unaffected** ear.
 
 ## 5. Clinical Correlates (Slide 33-37)
 
 :::correlate
 **Acoustic Neuroma (Vestibular Schwannoma)**
-*   **Pathology:** Benign tumor of Schwann cells on CN VIII (Vestibulocochlear).
-*   **CPA Angle:** Compression of Cerebellopontine Angle structures.
-*   **Symptoms:** Unilateral **Hearing Loss**, **Tinnitus**, **Vertigo**. Can compress CN VII (Facial palsy) if large.
-*   **Diagnosis:** MRI.
+* **Pathology**:** Benign tumor of Schwann cells on CN VIII (Vestibulocochlear).
+* **CPA Angle**:** Compression of Cerebellopontine Angle structures.
+* **Symptoms**:** Unilateral **Hearing Loss**, **Tinnitus**, **Vertigo**. Can compress CN VII (Facial palsy) if large.
+* **Diagnosis**:** MRI.
 :::
 
 :::correlate
 **Usher Syndrome**
-*   **Genetics:** Autosomal Recessive.
-*   **Pathology:** Mutation in stereocilia tip-link proteins (e.g., Cadherin 23).
-*   **Presentation:** **Congenital Deafness** + **Retinitis Pigmentosa** (Progressive Blindness). Major cause of deaf-blindness.
+* **Genetics**:** Autosomal Recessive.
+* **Pathology**:** Mutation in stereocilia tip-link proteins (e.g., Cadherin 23).
+* **Presentation**:**Congenital Deafness** + **Retinitis Pigmentosa** (Progressive Blindness). Major cause of deaf-blindness.
 :::
 
 :::correlate
 **EAST Syndrome**
-*   **Acronym:** **E**pilepsy, **A**taxia, **S**ensorineural deafness, **T**ubulopathy.
-*   **Pathology:** Mutation in **KCNJ10** (Kir4.1 K+ channel).
-*   **Mechanism:** Failure to maintain High K+ in Endolymph prevents hair cell depolarization.
+* **Acronym**:**E**pilepsy, **A**taxia, **S**ensorineural deafness, **T**ubulopathy.
+* **Pathology**:** Mutation in **KCNJ10** (Kir4.1 K+ channel).
+* **Mechanism**:** Failure to maintain High K+ in Endolymph prevents hair cell depolarization.
 :::
 
 :::correlate
 **Presbycusis**
-*   **Definition:** Age-related sensorineural hearing loss.
-*   **Pattern:** Loss of **High Frequencies** first (Base of cochlea wears out).
-*   **Mechanism:** Hair cell loss.
+* **Definition**:** Age-related sensorineural hearing loss.
+* **Pattern**:** Loss of **High Frequencies** first (Base of cochlea wears out).
+* **Mechanism**:** Hair cell loss.
 :::
 `,
     pearls: [
@@ -219,20 +219,20 @@ The **Organ of Corti** sits on the basilar membrane.
 ## Auditory System
 
 ### Anatomy
-*   **Middle Ear**: Malleus, Incus, Stapes (Impedance Matching)
-*   **Inner Ear**: Cochlea (Base=High, Apex=Low)
-*   **Hair Cells**: Inner (Sensory), Outer (Amplifier)
+* **Middle Ear**: Malleus, Incus, Stapes (Impedance Matching)
+* **Inner Ear**: Cochlea (Base=High, Apex=Low)
+* **Hair Cells**: Inner (Sensory), Outer (Amplifier)
 
 ### Pathway (E. COLIM)
 *   Cochlear Nuclei → **Superior Olive** (Localization) → LL → **Inferior Colliculus** → **MGN** → Cortex
 
 ### Pathology
-*   **Conductive**: Otitis, Wax, Otosclerosis
-*   **Sensorineural**: Presbycusis, Noise
+* **Conductive**: Otitis, Wax, Otosclerosis
+* **Sensorineural**: Presbycusis, Noise
 *   **Syndromes**
-    *   **Usher**: Deaf + Blind
-    *   **EAST**: Seizures + Deaf (K+ channel)
-    *   **Acoustic Neuroma**: CN VIII Tumor
+    * **Usher**: Deaf + Blind
+    * **EAST**: Seizures + Deaf (K+ channel)
+    * **Acoustic Neuroma**: CN VIII Tumor
 \`
 };
 

@@ -8,37 +8,37 @@ export const L20_CONTENT = {
 
 ## 1. Mechanism & Classification (Slide 9, 16)
 Indirect-acting agents inhibit **Acetylcholinesterase (AChE)**, increasing the concentration of endogenous Acetylcholine in the synapse. This stimulates both **Muscarinic** and **Nicotinic** receptors.
-*   **Quaternary Amines (No CNS entry):** Neostigmine, Pyridostigmine.
-*   **Tertiary Amines (Enter CNS):** Physostigmine, Donepezil, Organophosphates.
+* **Quaternary Amines (No CNS entry)**:** Neostigmine, Pyridostigmine.
+* **Tertiary Amines (Enter CNS)**:** Physostigmine, Donepezil, Organophosphates.
 
 ## 2. Clinical Uses (Slide 20, 36)
 
 ### Neuromuscular Junction Disorders
-*   **Myasthenia Gravis (MG):**
-    *   *Pathology:* Autoantibodies against Nicotinic receptors (Nm).
-    *   *Treatment:* **Pyridostigmine** (Oral, long-acting) or **Neostigmine**.
-    *   *Diagnosis:* **Edrophonium** (Tensilon) test. Rapid, short-acting. Improvement = +MG. (Historical).
-*   **Reversal of NMJ Blockade:**
+* **Myasthenia Gravis (MG)**:**
+    * **  *Pathology**:* Autoantibodies against Nicotinic receptors (Nm).
+    * **  *Treatment**:* **Pyridostigmine** (Oral, long-acting) or **Neostigmine**.
+    * **  *Diagnosis**:* **Edrophonium** (Tensilon) test. Rapid, short-acting. Improvement = +MG. (Historical).
+* **Reversal of NMJ Blockade**:**
     *   **Neostigmine** is used to reverse non-depolarizing neuromuscular blockers (e.g., Rocuronium) after surgery.
 
 ### CNS Disorders
-*   **Alzheimer's Disease:**
-    *   *Drugs:* **Donepezil**, **Rivastigmine**, **Galantamine**.
-    *   *Mechanism:* Increase CNS ACh to improve cognition/memory.
-*   **Anticholinergic Toxicity (Atropine Overdose):**
-    *   *Drug:* **Physostigmine**.
+* **Alzheimer's Disease**:**
+    * **  *Drugs**:* **Donepezil**, **Rivastigmine**, **Galantamine**.
+    * **  *Mechanism**:* Increase CNS ACh to improve cognition/memory.
+* **Anticholinergic Toxicity (Atropine Overdose)**:**
+    * **  *Drug**:* **Physostigmine**.
     *   *Why?* It crosses the BBB to reverse central delirium (unlike Neostigmine).
 
 ### Glaucoma
-*   **Echothiophate:** Organophosphate (Long acting).
+* **Echothiophate**:** Organophosphate (Long acting).
 
 ## 3. Toxicity & Poisoning (Slide 24-28)
 
 ### Organophosphates (Insecticides, Nerve Gas)
-*   *Mechanism:* **Irreversible** inhibition of AChE (via phosphorylation). "Aging" makes the bond permanent.
-*   *Muscarinic Signs (DUMBELS):* **D**iarrhea, **U**rination, **M**iosis, **B**radycardia/Bronchospasm, **E**mesis, **L**acrimation, **S**alivation.
-*   *Nicotinic Signs:* Fasciculations → Paralysis (Depolarizing blockade).
-*   *Treatment:*
+* **  *Mechanism**:* **Irreversible** inhibition of AChE (via phosphorylation). "Aging" makes the bond permanent.
+* **  *Muscarinic Signs (DUMBELS)**:* **D**iarrhea, **U**rination, **M**iosis, **B**radycardia/Bronchospasm, **E**mesis, **L**acrimation, **S**alivation.
+* **  *Nicotinic Signs**:* Fasciculations → Paralysis (Depolarizing blockade).
+* **  *Treatment**:*
     1.  **Atropine:** Blocks Muscarinic effects (life-saving for lungs/heart).
     2.  **Pralidoxime (2-PAM):** Regenerates AChE **IF** given before aging. Relieves neuromuscular paralysis (Atropine does not).
 
@@ -46,15 +46,15 @@ Indirect-acting agents inhibit **Acetylcholinesterase (AChE)**, increasing the c
 
 :::correlate
 **Myasthenic vs. Cholinergic Crisis**
-*   **Myasthenic Crisis:** Low ACh. Respiratory failure due to undertreatment of MG. *Action:* Give more Pyridostigmine.
-*   **Cholinergic Crisis:** Excess ACh. Depolarizing blockade due to overtreatment. *Action:* Stop drug, give Atropine.
-*   **differentiation:** Edrophonium test improves Myasthenic crisis but worsens Cholinergic crisis.
+* **Myasthenic Crisis**:** Low ACh. Respiratory failure due to undertreatment of MG. *Action:* Give more Pyridostigmine.
+* **Cholinergic Crisis**:** Excess ACh. Depolarizing blockade due to overtreatment. *Action:* Stop drug, give Atropine.
+* **differentiation**:** Edrophonium test improves Myasthenic crisis but worsens Cholinergic crisis.
 :::
 
 :::correlate
 **Ogilvie Syndrome**
-*   **Condition:** Acute Colonic Pseudo-obstruction (massive dilation without physical blockage).
-*   **Treatment:** **Neostigmine** (stimulates GI motility).
+* **Condition**:** Acute Colonic Pseudo-obstruction (massive dilation without physical blockage).
+* **Treatment**:**Neostigmine** (stimulates GI motility).
 :::
 `,
     pearls: [
@@ -205,19 +205,19 @@ Indirect-acting agents inhibit **Acetylcholinesterase (AChE)**, increasing the c
 ## Indirect Cholinomimetics (AChE Inhibitors)
 
 ### Quaternary (No severe CNS)
-*   **Neostigmine**: Post-op NMJ reversal, Ogilvie
-*   **Pyridostigmine**: Myasthenia Gravis (Long term)
-*   **Edrophonium**: MG Diagnosis (Short)
+* **Neostigmine**: Post-op NMJ reversal, Ogilvie
+* **Pyridostigmine**: Myasthenia Gravis (Long term)
+* **Edrophonium**: MG Diagnosis (Short)
 
 ### Tertiary (CNS)
-*   **Physostigmine**: Atropine Antidote
-*   **Donepezil/Rivastigmine**: Alzheimer's
+* **Physostigmine**: Atropine Antidote
+* **Donepezil/Rivastigmine**: Alzheimer's
 
 ### Organophosphates (Irreversible)
-*   **Malathion/Parathion**: Insecticides
-*   **Toxicity**: DUMBELS (Muscarinic) + Paralysis (Nicotinic)
-*   **Aging**: Permanent bond
-*   **Antidote**: Atropine (Musc) + Pralidoxime (Regen)
+* **Malathion/Parathion**: Insecticides
+* **Toxicity**: DUMBELS (Muscarinic) + Paralysis (Nicotinic)
+* **Aging**: Permanent bond
+* **Antidote**: Atropine (Musc) + Pralidoxime (Regen)
 \`
 };
 

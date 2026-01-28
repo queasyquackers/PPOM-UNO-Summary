@@ -10,79 +10,79 @@ export const L9_CONTENT = {
 
 The **Reticular Formation (RF)** is a phylogenetically old set of nuclei located throughout the brainstem core, extending from the caudal medulla to the lateral hypothalamus. It is not a single anatomical structure but a diffuse network responsible for "life-sustaining" functions.
 
-*   **Structure:** Composed of short interneurons (reflexes) and long projection neurons (neuromodulation).
-*   **Key Concept:** A single neuron can synapse with 25,000+ others, allowing diffuse modulation of the entire CNS.
+* **Structure**:** Composed of short interneurons (reflexes) and long projection neurons (neuromodulation).
+* **Key Concept**:** A single neuron can synapse with 25,000+ others, allowing diffuse modulation of the entire CNS.
 
 ## 2. Neurochemistry of the Reticular Formation (Slide 8-13)
 
 The RF houses the nuclei for major neuromodulatory systems. You **MUST** know the location and neurotransmitter for each:
 
-*   **Serotonin (5-HT):**
-    *   **Nuclei:** **Raphe Nuclei** (midline of entire brainstem).
-    *   **Functions:** Mood, Arousal, Pain modulation (Raphe Magnus), Sleep.
-*   **Norepinephrine (NE):**
-    *   **Nuclei:** **Locus Coeruleus** (pons/midbrain junction) and Lateral Tegmental Area.
-    *   **Functions:** Arousal (RAS), Attention ("Fight or Flight"), Pain modulation.
-*   **Dopamine (DA):**
-    *   **Nuclei:** **Ventral Tegmental Area (VTA)** and **Substantia Nigra** (Midbrain).
-    *   **Pathways:**
-        *   **Nigrostriatal:** Coordination of movement (degenerate in **Parkinson's**).
-        *   **Mesolimbic:** Reward/Addiction (Schizophrenia positive symptoms).
-        *   **Mesocortical:** Cognition (Schizophrenia negative symptoms).
-*   **Acetylcholine (ACh):**
-    *   **Nuclei:** **Pedunculopontine Tegmental Nucleus (PPT)** (Brainstem) and **Nucleus Basalis of Meynert** (Forebrain).
-    *   **Functions:** Arousal, REM sleep generation, Memory (degenerate in **Alzheimer's**).
-*   **Histamine:**
-    *   **Nuclei:** **Tuberomammillary Nucleus** (Posterior Hypothalamus).
-    *   **Function:** Arousal/Wakefulness (Antihistamines cause drowsiness).
+* **Serotonin (5-HT)**:**
+    * **Nuclei**:**Raphe Nuclei** (midline of entire brainstem).
+    * **Functions**:** Mood, Arousal, Pain modulation (Raphe Magnus), Sleep.
+* **Norepinephrine (NE)**:**
+    * **Nuclei**:**Locus Coeruleus** (pons/midbrain junction) and Lateral Tegmental Area.
+    * **Functions**:** Arousal (RAS), Attention ("Fight or Flight"), Pain modulation.
+* **Dopamine (DA)**:**
+    * **Nuclei**:**Ventral Tegmental Area (VTA)** and **Substantia Nigra** (Midbrain).
+    * **Pathways**:**
+        * **Nigrostriatal**:** Coordination of movement (degenerate in **Parkinson's**).
+        * **Mesolimbic**:** Reward/Addiction (Schizophrenia positive symptoms).
+        * **Mesocortical**:** Cognition (Schizophrenia negative symptoms).
+* **Acetylcholine (ACh)**:**
+    * **Nuclei**:**Pedunculopontine Tegmental Nucleus (PPT)** (Brainstem) and **Nucleus Basalis of Meynert** (Forebrain).
+    * **Functions**:** Arousal, REM sleep generation, Memory (degenerate in **Alzheimer's**).
+* **Histamine**:**
+    * **Nuclei**:**Tuberomammillary Nucleus** (Posterior Hypothalamus).
+    * **Function**:** Arousal/Wakefulness (Antihistamines cause drowsiness).
 
 ## 3. Reticular Activating System (ARAS) & Consciousness (Slide 16-24)
 
 The **Ascending Reticular Activating System (ARAS)** projects to the cortex to maintain **Wakefulness** and **Alertness**.
 
 ### Disorders of Consciousness
-*   **Coma:** Low arousal, no awareness. Dysfunction of ARAS or bilateral cortex.
-*   **Persistent Vegetative State:** "Unresponsive Wakefulness". Arousal is present (eyes open, sleep-wake cycles) but **NO awareness** of environment.
-*   **Minimally Conscious State:** Intermittent, inconsistent awareness.
+* **Coma**:** Low arousal, no awareness. Dysfunction of ARAS or bilateral cortex.
+* **Persistent Vegetative State**:** "Unresponsive Wakefulness". Arousal is present (eyes open, sleep-wake cycles) but **NO awareness** of environment.
+* **Minimally Conscious State**:** Intermittent, inconsistent awareness.
 
 :::correlate
 **Locked-in Syndrome**
-*   **Pathophysiology:** Ischemic stroke of the **Ventral Pons** (Basilar Artery).
-*   **Presentation:** Quadriplegia (corticospinal disruption) and anarthria (corticobulbar disruption).
-*   **Key Feature:** The **ARAS is spared** (tegmentum), so the patient is **Fully Awake and Aware** but cannot move.
-*   **Communication:** Vertical eye movements (controlled by midbrain) and blinking are usually preserved.
+* **Pathophysiology**:** Ischemic stroke of the **Ventral Pons** (Basilar Artery).
+* **Presentation**:** Quadriplegia (corticospinal disruption) and anarthria (corticobulbar disruption).
+* **Key Feature**:** The **ARAS is spared** (tegmentum), so the patient is **Fully Awake and Aware** but cannot move.
+* **Communication**:** Vertical eye movements (controlled by midbrain) and blinking are usually preserved.
 :::
 
 ## 4. Sleep Physiology (Slide 25-33)
 
-*   **Stages:**
-    *   **N1-N2:** Light sleep (Sleep Spindles, K-Complexes).
-    *   **N3:** Slow Wave Sleep (Delta waves) - Deep restorative sleep.
-    *   **REM:** Rapid Eye Movement, dreaming, atonia. EEG looks like "Awake" (Beta/Sawtooth).
-*   **Neurochemistry:**
-    *   **Wakefulness Promoters:** NE, 5-HT, Histamine, ACh, **Hypocretin (Orexin)**.
-    *   **Sleep Promoters:** **GABA** (VLPO nucleus) and Melatonin.
+* **Stages**:**
+    * **N1-N2**:** Light sleep (Sleep Spindles, K-Complexes).
+    * **N3**:** Slow Wave Sleep (Delta waves) - Deep restorative sleep.
+    * **REM**:** Rapid Eye Movement, dreaming, atonia. EEG looks like "Awake" (Beta/Sawtooth).
+* **Neurochemistry**:**
+    * **Wakefulness Promoters**:** NE, 5-HT, Histamine, ACh, **Hypocretin (Orexin)**.
+    * **Sleep Promoters**:**GABA** (VLPO nucleus) and Melatonin.
 
 :::correlate
 **Narcolepsy**
-*   **Pathophysiology:** Loss of **Hypocretin (Orexin)** neurons in the lateral hypothalamus.
-*   **Presentation:**
+* **Pathophysiology**:** Loss of **Hypocretin (Orexin)** neurons in the lateral hypothalamus.
+* **Presentation**:**
     *   **Excessive Daytime Sleepiness.**
-    *   **Cataplexy:** Sudden loss of muscle tone triggered by emotion.
+    * **Cataplexy**:** Sudden loss of muscle tone triggered by emotion.
     *   **Sleep Paralysis** and **Hypnagogic Hallucinations**.
-*   **Treatment:** Stimulants (Amphetamines) to increase NE/DA.
+* **Treatment**:** Stimulants (Amphetamines) to increase NE/DA.
 :::
 
 ## 5. Descending Motor & Pain Control (Slide 37-39)
 
 ### Motor Rigidity (Posturing)
-*   **Decorticate Posturing:** Flexion of upper limbs. Lesion **Above Red Nucleus** (midbrain). Rubrospinal tract intact.
-*   **Decerebrate Posturing:** Extension of all limbs. Lesion **Below Red Nucleus**. Vestibulospinal tracts dominate. Worse prognosis.
+* **Decorticate Posturing**:** Flexion of upper limbs. Lesion **Above Red Nucleus** (midbrain). Rubrospinal tract intact.
+* **Decerebrate Posturing**:** Extension of all limbs. Lesion **Below Red Nucleus**. Vestibulospinal tracts dominate. Worse prognosis.
 
 ### Descending Pain Modulation
 The brainstem can inhibit incoming pain signals (Pain Inhibits Pain).
-*   **Pathway:** Periaqueductal Gray (**PAG**) → Rostral Ventromedial Medulla (**RVM**, Raphe Magnus) → Dorsal Horn (block pain transmission via Enkephalins/Serotonin/NE).
-*   **Clinical:** Antidepressants like **SnRIs (Duloxetine)** or **TCAs (Amitriptyline)** treat chronic pain by boosting NE/5-HT in this inhibitory pathway.
+* **Pathway**:** Periaqueductal Gray (**PAG**) → Rostral Ventromedial Medulla (**RVM**, Raphe Magnus) → Dorsal Horn (block pain transmission via Enkephalins/Serotonin/NE).
+* **Clinical**:** Antidepressants like **SnRIs (Duloxetine)** or **TCAs (Amitriptyline)** treat chronic pain by boosting NE/5-HT in this inhibitory pathway.
 `,
     pearls: [
         {
@@ -232,25 +232,25 @@ The brainstem can inhibit incoming pain signals (Pain Inhibits Pain).
 ## Reticular Formation
 
 ### Neurochemistry
-*   **Serotonin**: Raphe Nuclei
-*   **Norepinephrine**: Locus Coeruleus
-*   **Dopamine**: VTA/Substantia Nigra
-*   **ACh**: PPT / Basal Nucleus
-*   **Histamine**: Tuberomammillary
+* **Serotonin**: Raphe Nuclei
+* **Norepinephrine**: Locus Coeruleus
+* **Dopamine**: VTA/Substantia Nigra
+* **ACh**: PPT / Basal Nucleus
+* **Histamine**: Tuberomammillary
 
 ### Functions
-*   **ARAS**: Consciousness/Arousal
-*   **Sleep**: Stages N1-N3, REM
-*   **Pain**: PAG → RVM Inhibition
-*   **Motor**: Reticulospinal Tracts
+* **ARAS**: Consciousness/Arousal
+* **Sleep**: Stages N1-N3, REM
+* **Pain**: PAG → RVM Inhibition
+* **Motor**: Reticulospinal Tracts
 
 ### Clinical Correlates
-*   **Coma**: ARAS Disruption
-*   **Locked-in**: Ventral Pons Lesion (Spares ARAS)
-*   **Narcolepsy**: Orexin Deficiency
+* **Coma**: ARAS Disruption
+* **Locked-in**: Ventral Pons Lesion (Spares ARAS)
+* **Narcolepsy**: Orexin Deficiency
 *   **Posturing**
-    *   **Decorticate**: Flexor (Above Red Nucleus)
-    *   **Decerebrate**: Extensor (Below Red Nucleus)
+    * **Decorticate**: Flexor (Above Red Nucleus)
+    * **Decerebrate**: Extensor (Below Red Nucleus)
 \`
 };
 

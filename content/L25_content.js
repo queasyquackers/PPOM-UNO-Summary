@@ -19,11 +19,10 @@ export const L25_CONTENT = {
 
 The **Limbic System** (Latin *limbus* = "border") is a complex network of cortical and diencephalic structures located on the medial border of the cerebral hemisphere. It serves as a bridge, linking the conscious, intellectual functions of the **cerebral cortex** with the unconscious, autonomic regulation of the **brainstem** and **hypothalamus**.
 
-*   **Primary Function:** Regulates primitive emotional drives, memory storage/retrieval, and homeostasis.
-*   **The "5 F's" Mnemonic:**
+* **Primary Function**:** Regulates primitive emotional drives, memory storage/retrieval, and homeostasis.
+* **The "5 F's" Mnemonic**:**
     :::mnemonic
-    **Functions of the Limbic System**
-    **The 5 F's**
+    **Functions of the Limbic System**The 5 F's**
     *   **F**eeding (Satiety/Hunger)
     *   **F**leeing (Fear response)
     *   **F**ighting (Aggression)
@@ -41,37 +40,37 @@ Other components include the **Mammillary Bodies** (Hypothalamus), **Anterior Th
 
 ## 2. Cingulate Gyrus (Slide 9-10)
 The **Cingulate Gyrus** wraps around the corpus callosum and acts as a gateway between the cortex and limbic system.
-*   **Function:** It adds emotional "coloring" to sensory perceptions (e.g., how pain *feels* emotionally).
-*   **Clinical Relevance:**
-    *   **Cingulotomy:** A surgical lesioning of the anterior cingulate cortex. Historically used to treat intractable pain or severe depression/anxiety. Patients report they "still feel the pain," but it "doesn't bother them anymore" (loss of the affective/suffering component).
+* **Function**:** It adds emotional "coloring" to sensory perceptions (e.g., how pain *feels* emotionally).
+* **Clinical Relevance**:**
+    * **Cingulotomy**:** A surgical lesioning of the anterior cingulate cortex. Historically used to treat intractable pain or severe depression/anxiety. Patients report they "still feel the pain," but it "doesn't bother them anymore" (loss of the affective/suffering component).
 
 ## 3. Hippocampal Formation & Memory (Slide 13-17)
 The **Hippocampus** (Latin for "Seahorse") is critical for learning, memory consolidation, and spatial navigation.
-*   **Structure:** Composed of the **Dentate Gyrus**, **Hippocampus Proper (Cornu Ammonis: CA1-CA4)**, and **Subiculum**.
-*   **Vulnerability:** The **CA1 pyramidal cells** are exceptionally sensitive to **hypoxia/ischemia**. They will die within minutes of oxygen deprivation (Sommer's Sector).
-*   **Lateralization:**
-    *   **Right Hippocampus:** **Spatial Orientation** and navigation (e.g., London Taxi Drivers have enlarged right posterior hippocampi).
-    *   **Left Hippocampus:** Verbal memory.
+* **Structure**:** Composed of the **Dentate Gyrus**, **Hippocampus Proper (Cornu Ammonis: CA1-CA4)**, and **Subiculum**.
+* **Vulnerability**:** The **CA1 pyramidal cells** are exceptionally sensitive to **hypoxia/ischemia**. They will die within minutes of oxygen deprivation (Sommer's Sector).
+* **Lateralization**:**
+    * **Right Hippocampus**:**Spatial Orientation** and navigation (e.g., London Taxi Drivers have enlarged right posterior hippocampi).
+    * **Left Hippocampus**:** Verbal memory.
 
 ### The Fornix (Slide 16-17)
 The major output tract of the hippocampus.
-*   **Pathway:** Hippocampus → Fimbria → Crus → Body → Columns of Fornix → **Mammillary Bodies** (Hypothalamus).
+* **Pathway**:** Hippocampus → Fimbria → Crus → Body → Columns of Fornix → **Mammillary Bodies** (Hypothalamus).
 
 :::correlate
 **Temporal Lobe Epilepsy**
-*   **Pathophysiology:** The medial temporal lobe (Hippocampus/Amygdala) has the lowest seizure threshold in the brain.
-*   **Presentation:** **Complex Partial (Psychomotor) Seizures**.
+* **Pathophysiology**:** The medial temporal lobe (Hippocampus/Amygdala) has the lowest seizure threshold in the brain.
+* **Presentation**:**Complex Partial (Psychomotor) Seizures**.
     *   Preceded by an **Aura** (e.g., burning rubber smell/uncinate fits, hallucinations, deja vu).
-    *   **Automatisms:** Lip smacking, chewing, swallowing, or fumbling of hands.
+    * **Automatisms**:** Lip smacking, chewing, swallowing, or fumbling of hands.
     *   Altered consciousness (dreamy state).
 :::
 
 :::correlate
 **Herpes Simplex Encephalitis**
-*   **Pathophysiology:** **HSV-1** has a specific tropism for the **limbic cortex** (Medial Temporal Lobes/Orbitofrontal cortex).
-*   **Presentation:** Acute onset of fever, headache, seizures, and bizarre behavior.
-*   **Sequelae:** Bilateral necrosis of the medial temporal lobes leads to profound **Anterograde Amnesia** (inability to form new memories) and Kluver-Bucy-like symptoms.
-*   **Imaging:** Hyperintensity in temporal lobes on MRI (Slide 12).
+* **Pathophysiology**:**HSV-1** has a specific tropism for the **limbic cortex** (Medial Temporal Lobes/Orbitofrontal cortex).
+* **Presentation**:** Acute onset of fever, headache, seizures, and bizarre behavior.
+* **Sequelae**:** Bilateral necrosis of the medial temporal lobes leads to profound **Anterograde Amnesia** (inability to form new memories) and Kluver-Bucy-like symptoms.
+* **Imaging**:** Hyperintensity in temporal lobes on MRI (Slide 12).
 :::
 
 ## 4. The Papez Circuit (Slide 30-31)
@@ -84,20 +83,20 @@ Discovered by James Papez (1937), this is the fundamental circuit for **Episodic
 3.  $\\xrightarrow{\\text{Mammillothalamic Tract}}$ **Anterior Thalamic Nucleus**
 4.  $\\xrightarrow{\\text{Internal Capsule (Ant. Limb)}}$ **Cingulate Gyrus**
 5.  $\\xrightarrow{\\text{Cingulum bundle}}$ **Entorhinal Cortex / Hippocampus**
-*(The circuit closes)*
+* (The circuit closes)*
 :::
 
 ## 5. Amygdala & Emotion (Slide 19-23)
 The **Amygdala** ("Almond") is located deep in the uncus of the temporal lobe, anterior to the hippocampus.
-*   **Function:** Mediates **Fear**, **Anger**, **Aggression**, and the emotional significance of memories (e.g., fear conditioning).
-*   **Connections:**
-    *   **Hypothalamus:** Triggers autonomic responses to emotion (tachycardia, sweating).
-    *   **Olfactory System:** Why smells trigger strong emotional memories (Proustian memory).
+* **Function**:** Mediates **Fear**, **Anger**, **Aggression**, and the emotional significance of memories (e.g., fear conditioning).
+* **Connections**:**
+    * **Hypothalamus**:** Triggers autonomic responses to emotion (tachycardia, sweating).
+    * **Olfactory System**:** Why smells trigger strong emotional memories (Proustian memory).
 
 :::correlate
 **Kluver-Bucy Syndrome**
-*   **Pathophysiology:** Bilateral lesion of the **Amygdala**. associated with HSV encephalitis, trauma, or lobectomies.
-*   **Presentation:**
+* **Pathophysiology**:** Bilateral lesion of the **Amygdala**. associated with HSV encephalitis, trauma, or lobectomies.
+* **Presentation**:**
     1.  **Placidity:** Loss of fear and aggression (docile).
     2.  **Hyperorality:** Putting inappropriate objects in mouth.
     3.  **Hypersexuality:** Indiscriminate sexual behavior.
@@ -110,46 +109,46 @@ The **Amygdala** ("Almond") is located deep in the uncus of the temporal lobe, a
 ### Classification of Memory
 1.  **Explicit (Declarative):** Facts (Semantic) and Events (Episodic). Requires **Medial Temporal Lobe** (Hippocampus) & Diencephalon.
 2.  **Implicit (Procedural):** Skills, habits, conditioning.
-    *   **Skills (e.g., riding a bike):** **Basal Ganglia**, Cerebellum, Motor Cortex.
-    *   **Emotional Conditioning:** Amygdala.
-    *   **Skeletal Conditioning:** Cerebellum.
+    * **Skills (e.g., riding a bike)**:**Basal Ganglia**, Cerebellum, Motor Cortex.
+    * **Emotional Conditioning**:** Amygdala.
+    * **Skeletal Conditioning**:** Cerebellum.
 
 ### Clinical Cases
 
 :::correlate
 **Patient H.M.**
-*   **History:** Bilateral medial temporal lobectomy for intractable epilepsy.
-*   **Deficit:** Severe **Anterograde Amnesia** (cannot form new explicit memories). Retrograde memory (pre-surgery) was largely intact.
-*   **Key Finding:** His **Procedural Memory** was intact (he could learn to solve the Tower of Hanoi puzzle but couldn't remember *practicing* it).
-*   **Implication:** Proved that hippocampus is essential for *consolidation* of new declarative memories but not for procedural skills.
+* **History**:** Bilateral medial temporal lobectomy for intractable epilepsy.
+* **Deficit**:** Severe **Anterograde Amnesia** (cannot form new explicit memories). Retrograde memory (pre-surgery) was largely intact.
+* **Key Finding**:** His **Procedural Memory** was intact (he could learn to solve the Tower of Hanoi puzzle but couldn't remember *practicing* it).
+* **Implication**:** Proved that hippocampus is essential for *consolidation* of new declarative memories but not for procedural skills.
 :::
 
 :::correlate
 **Wernicke-Korsakoff Syndrome**
-*   **Pathophysiology:** **Thiamine (Vitamin B1) Deficiency**, intimately associated with chronic **Alcoholism**.
-*   **Lesion Sites:** **Mammillary Bodies** (hemorrhagic necrosis), Dorsomedial Thalamus, Periaqueductal gray.
-*   **Wernicke's Encephalopathy (Acute/Reversible):**
-    *   **Triad:** **C**onfusion, **A**taxia, **N**ystagmus/Ophthalmoplegia ("**CAN** of beer").
-*   **Korsakoff's Psychosis (Chronic/Irreversible):**
+* **Pathophysiology**:**Thiamine (Vitamin B1) Deficiency**, intimately associated with chronic **Alcoholism**.
+* **Lesion Sites**:**Mammillary Bodies** (hemorrhagic necrosis), Dorsomedial Thalamus, Periaqueductal gray.
+* **Wernicke's Encephalopathy (Acute/Reversible)**:**
+    * **Triad**:**C**onfusion, **A**taxia, **N**ystagmus/Ophthalmoplegia ("**CAN** of beer").
+* **Korsakoff's Psychosis (Chronic/Irreversible)**:**
     *   Severe **Anterograde Amnesia**.
-    *   **Confabulation:** Making up stories to fill memory gaps (lack of insight).
-*   **Treatment:** IV Thiamine **BEFORE** Glucose (Glucose first precipitates the encephalopathy).
+    * **Confabulation**:** Making up stories to fill memory gaps (lack of insight).
+* **Treatment**:** IV Thiamine **BEFORE** Glucose (Glucose first precipitates the encephalopathy).
 :::
 
 :::correlate
 **Alzheimer's Disease**
-*   **Pathophysiology:** Widespread cortical atrophy, specifically:
-    *   **Hippocampal Atrophy:** Early memory loss.
-    *   **Nucleus Basalis of Meynert:** Degeneration of **Cholinergic** neurons.
-*   **Neurochemistry:** Deficiency of **Acetylcholine (ACh)**.
-*   **Treatment:** AChE Inhibitors (Aricept) to increase synaptic ACh (Slide 38).
+* **Pathophysiology**:** Widespread cortical atrophy, specifically:
+    * **Hippocampal Atrophy**:** Early memory loss.
+    * **Nucleus Basalis of Meynert**:** Degeneration of **Cholinergic** neurons.
+* **Neurochemistry**:** Deficiency of **Acetylcholine (ACh)**.
+* **Treatment**:** AChE Inhibitors (Aricept) to increase synaptic ACh (Slide 38).
 :::
 
 ## 7. Septal Area & Reward (Slide 25)
 Located near the anterior commissure. Contains the **Nucleus Accumbens**.
-*   **Function:** The "Pleasure Center". Mediates reward and reinforcement.
-*   **Neurotransmitter:** **Dopamine** (Mesolimbic pathway).
-*   **Clinical:** Implicated in **Addiction**.
+* **Function**:** The "Pleasure Center". Mediates reward and reinforcement.
+* **Neurotransmitter**:**Dopamine** (Mesolimbic pathway).
+* **Clinical**:** Implicated in **Addiction**.
 `,
     pearls: [
         {
@@ -307,9 +306,9 @@ Located near the anterior commissure. Contains the **Nucleus Accumbens**.
 ## Limbic System
 
 ### Components (The Big 3)
-*   **Cingulate Gyrus**: Emotional processing, Pain affect
-*   **Hippocampus**: Memory, Spatial nav (**Right**)
-*   **Amygdala**: Fear, Anger, Kluver-Bucy
+* **Cingulate Gyrus**: Emotional processing, Pain affect
+* **Hippocampus**: Memory, Spatial nav (**Right**)
+* **Amygdala**: Fear, Anger, Kluver-Bucy
 
 ### Papez Circuit
 *   **Hippocampus** → Fornix
@@ -318,11 +317,11 @@ Located near the anterior commissure. Contains the **Nucleus Accumbens**.
 *   **Cingulate** → Cingulum
 
 ### Pathology
-*   **Kluver-Bucy**: Bilateral Amygdala. Hypersex/oral.
-*   **Wernicke-Korsakoff**: B1 Def. Mammillary Bodies. Confabulation.
-*   **HSV Encephalitis**: Medial Temporal Lobe. Bizarre behavior.
-*   **Alzheimer's**: Hippocampal atrophy. Low ACh.
-*   **Patient H.M.**: Medial Temporal removal. Anterograde Amnesia.
+* **Kluver-Bucy**: Bilateral Amygdala. Hypersex/oral.
+* **Wernicke-Korsakoff**: B1 Def. Mammillary Bodies. Confabulation.
+* **HSV Encephalitis**: Medial Temporal Lobe. Bizarre behavior.
+* **Alzheimer's**: Hippocampal atrophy. Low ACh.
+* **Patient H.M.**: Medial Temporal removal. Anterograde Amnesia.
 `
 };
 

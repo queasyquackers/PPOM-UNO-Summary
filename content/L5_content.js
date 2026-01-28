@@ -21,21 +21,21 @@ const L5_CONTENT = {
 ## 1. Computed Tomography (CT) (Slides 5-18)
 ### Mechanism
 *   Uses **Helical X-ray beams** to measure the **attenuation** (density) of tissues.
-*   **Hounsfield Units (HU):** The scale of density.
-    *   **Hyperdense (White):** Bone (+1000 HU), **Acute Hemorrhage**, Calcifications.
-    *   **Isodense (Gray):** Brain parenchyma.
-    *   **Hypodense (Black):** Air (-1000 HU), Fat, CSF, Water.
-*   **Windows:** Different software settings to highlight specific tissues (e.g., Bone Window for fractures, Brain Window for strokes).
+* **Hounsfield Units (HU)**:** The scale of density.
+    * **Hyperdense (White)**:** Bone (+1000 HU), **Acute Hemorrhage**, Calcifications.
+    * **Isodense (Gray)**:** Brain parenchyma.
+    * **Hypodense (Black)**:** Air (-1000 HU), Fat, CSF, Water.
+* **Windows**:** Different software settings to highlight specific tissues (e.g., Bone Window for fractures, Brain Window for strokes).
 
 ### Clinical Indications
-*   **Neurologic Emergencies:** The "workhorse" of the ER.
-    *   **Acute Hemorrhage (Stroke/Trauma):** First-line test. Fast (<30s).
-    *   **Trauma:** Skull fractures.
-    *   **Initial Stroke:** To rule out hemorrhage before giving tPA.
+* **Neurologic Emergencies**:** The "workhorse" of the ER.
+    * **Acute Hemorrhage (Stroke/Trauma)**:** First-line test. Fast (<30s).
+    * **Trauma**:** Skull fractures.
+    * **Initial Stroke**:** To rule out hemorrhage before giving tPA.
 
 ### CT Contrast (Iodinated)
-*   **Uses:** Infection (Abscess), Tumors, Vascular pathology (CTA).
-*   **Contraindications/Risks:**
+* **Uses**:** Infection (Abscess), Tumors, Vascular pathology (CTA).
+* **Contraindications/Risks**:**
     1.  **Contrast-Induced Nephropathy (CIN):** Check Creatinine/GFR. Hydrate.
     2.  **Allergy:** Mild (hives) to Anaphylaxis. Pre-medicate with Steroids/Benadryl.
     3.  **Metformin:** Risk of **Lactic Acidosis**. Discontinue for 48 hours.
@@ -45,18 +45,18 @@ const L5_CONTENT = {
 ## 2. Magnetic Resonance Imaging (MRI) (Slides 19-27)
 ### Mechanism
 *   Uses strong magnetic fields to align protons. **No Ionizing Radiation.**
-*   **Sequences:**
-    *   **T1:** Fat is bright (Anatomy). Good for structure.
-    *   **T2:** Water/CSF is bright (Pathology). Good for Edema.
-    *   **Diffusion Weighted Imaging (DWI):** Most sensitive for **Acute Ischemic Stroke** (shows cytotoxic edema within minutes).
+* **Sequences**:**
+    * **T1**:** Fat is bright (Anatomy). Good for structure.
+    * **T2**:** Water/CSF is bright (Pathology). Good for Edema.
+    * **Diffusion Weighted Imaging (DWI)**:** Most sensitive for **Acute Ischemic Stroke** (shows cytotoxic edema within minutes).
 
 ### Clinical Indications
-*   **Soft Tissue Pathology:** Superior resolution for brain parenchyma.
+* **Soft Tissue Pathology**:** Superior resolution for brain parenchyma.
 *   **Tumors, Multiple Sclerosis (Plaques), Infections.**
-*   **Posterior Fossa/Brainstem:** CT has bone artifact here; MRI does not.
+* **Posterior Fossa/Brainstem**:** CT has bone artifact here; MRI does not.
 
 ### MRI Contrast (Gadolinium)
-*   **Risk:** **Nephrogenic Systemic Fibrosis (NSF)**.
+* **Risk**:**Nephrogenic Systemic Fibrosis (NSF)**.
     *   Rare but serious fibrosis of skin/organs.
     *   **Contraindicated** if GFR < 30 (Severe Renal Failure).
 
@@ -76,17 +76,17 @@ const L5_CONTENT = {
 
 ## 3. Vascular Imaging (Slides 28-38)
 ### Carotid Duplex Ultrasound
-*   **Indication:** Screening for **Carotid Artery Stenosis** (bruit, TIA).
-*   **Pros:** Non-invasive, No radiation, Portable.
-*   **Cons:** Operator dependent.
+* **Indication**:** Screening for **Carotid Artery Stenosis** (bruit, TIA).
+* **Pros**:** Non-invasive, No radiation, Portable.
+* **Cons**:** Operator dependent.
 
 ### Conventional Angiography (Digital Subtraction Angiography - DSA)
 *   **Gold Standard** for vascular pathology.
-*   **Procedure:** Catheter inserted (femoral/radial) → dye injected directly into vessels.
-*   **Usage:**
-    *   **Diagnostic:** Aneurysms, AVMs, Vasculitis.
-    *   **Therapeutic:** Coiling aneurysms, Thrombectomy (clot removal).
-*   **Risks:** Invasive stroke risk (1%), access site bleeding.
+* **Procedure**:** Catheter inserted (femoral/radial) → dye injected directly into vessels.
+* **Usage**:**
+    * **Diagnostic**:** Aneurysms, AVMs, Vasculitis.
+    * **Therapeutic**:** Coiling aneurysms, Thrombectomy (clot removal).
+* **Risks**:** Invasive stroke risk (1%), access site bleeding.
 
 ---
 
@@ -94,32 +94,32 @@ const L5_CONTENT = {
 
 :::correlate
 **Epidural Hematoma**
-*   **Vessel:** Rupture of **Middle Meningeal Artery (MMA)** (branch of Maxillary).
-*   **Cause:** Trauma to **Pterion** (Temple). Rarely crosses sutures.
-*   ** CT Appearance:** **Lens-shaped (Biconvex)** hyperdensity.
-*   **Clinical:** "Lucid Interval" (Knocked out → Fine → Rapid Decline/Death).
+* **Vessel**:** Rupture of **Middle Meningeal Artery (MMA)** (branch of Maxillary).
+* **Cause**:** Trauma to **Pterion** (Temple). Rarely crosses sutures.
+* ** CT Appearance**:**Lens-shaped (Biconvex)** hyperdensity.
+* **Clinical**:** "Lucid Interval" (Knocked out → Fine → Rapid Decline/Death).
 :::
 
 :::correlate
 **Subdural Hematoma**
-*   **Vessel:** Rupture of **Bridging Veins**.
-*   **Cause:** Shearing forces (falls in elderly, alcoholics, shaken baby).
-*   **CT Appearance:** **Crescent-shaped** hyperdensity. Crosses sutures.
-*   **Clinical:** Gradual onset (Chronic) or Acute.
+* **Vessel**:** Rupture of **Bridging Veins**.
+* **Cause**:** Shearing forces (falls in elderly, alcoholics, shaken baby).
+* **CT Appearance**:**Crescent-shaped** hyperdensity. Crosses sutures.
+* **Clinical**:** Gradual onset (Chronic) or Acute.
 :::
 
 :::correlate
 **Subarachnoid Hemorrhage (SAH)**
-*   **Vessel:** Ruptured **Berry Aneurysm** (Circle of Willis) or Trauma.
-*   **CT Appearance:** Hyperdensity in **Sulci and Cisterns** (Starburst).
-*   **Clinical:** **"Thunderclap Headache"** ("Worst headache of my life"), Meningismus.
+* **Vessel**:** Ruptured **Berry Aneurysm** (Circle of Willis) or Trauma.
+* **CT Appearance**:** Hyperdensity in **Sulci and Cisterns** (Starburst).
+* **Clinical**:**"Thunderclap Headache"** ("Worst headache of my life"), Meningismus.
 :::
 
 ---
 
 ## 5. Enhancement Patterns (Slide 15)
-*   **Ring-Enhancing Lesion:** Central necrosis with peripheral enhancement.
-    *   **Differential:** **M.A.G.I.C. D.R.**
+* **Ring-Enhancing Lesion**:** Central necrosis with peripheral enhancement.
+    * **Differential**:**M.A.G.I.C. D.R.**
     *   **R**adiation necrosis
 `,
     pearls: [
@@ -225,21 +225,21 @@ const L5_CONTENT = {
     mindmap: `
 ## Neuroimaging
 ### CT Scan
-*   **Physics**: X-ray (Attenuation)
-*   **Uses**: **Acute Hemorrhage**, Bone, Trauma
-*   **Contrast**: Iodine (Risk: Allergy, Kidney)
+* **Physics**: X-ray (Attenuation)
+* **Uses**: **Acute Hemorrhage**, Bone, Trauma
+* **Contrast**: Iodine (Risk: Allergy, Kidney)
 ### MRI
-*   **Physics**: Magnets (T1/T2)
-*   **Uses**: **Ischemia (DWI)**, Tumors, MS
-*   **Contrast**: Gadolinium (Risk: NSF)
-*   **Contra**: Metal (Pacemaker)
+* **Physics**: Magnets (T1/T2)
+* **Uses**: **Ischemia (DWI)**, Tumors, MS
+* **Contrast**: Gadolinium (Risk: NSF)
+* **Contra**: Metal (Pacemaker)
 ### Angiography
-*   **DSA**: Gold Standard (Vascular)
+* **DSA**: Gold Standard (Vascular)
     *   Therapeutic (Coiling)
-*   **Ultrasound**: Carotid Stenosis screening
+* **Ultrasound**: Carotid Stenosis screening
 ### Pathology Signs
-*   **Ring Enhancement**: Abscess, GBM
-*   **Hyperdense CT**: Acute Blood
+* **Ring Enhancement**: Abscess, GBM
+* **Hyperdense CT**: Acute Blood
 `
 };
 

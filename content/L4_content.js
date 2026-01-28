@@ -31,30 +31,30 @@ The **Internal Carotid Artery (ICA)** enters the skull via the Carotid Canal, pa
 
 ### 1. Ophthalmic Artery (Slide 14)
 *   First branch. Supplies the eye/retina.
-*   **Clinical:** Occlusion causes **Amaurosis Fugax** (transient monocular blindness described as a "curtain coming down").
+* **Clinical**:** Occlusion causes **Amaurosis Fugax** (transient monocular blindness described as a "curtain coming down").
 
 ### 2. Posterior Communicating Artery (PCom) (Slide 15)
 *   Connects the Anterior (ICA) and Posterior (PCA) circulations.
-*   **Clinical:** Common site for **Berry Aneurysms**. Aneurysm here can compress **CN III**, causing an ipsilateral "Down and Out" eye with blown pupil.
+* **Clinical**:** Common site for **Berry Aneurysms**. Aneurysm here can compress **CN III**, causing an ipsilateral "Down and Out" eye with blown pupil.
 
 ### 3. Anterior Cerebral Artery (ACA) (Slides 16-17, 20)
 *   Supplies the **Medial** surface of the Frontal and Parietal lobes.
-*   **Function:** Motor/Sensory to the **Lower Limb** (Leg/Foot) and trunk.
-*   **Stroke Symptoms:** Contralateral **Leg weakness** and sensory loss.
+* **Function**:** Motor/Sensory to the **Lower Limb** (Leg/Foot) and trunk.
+* **Stroke Symptoms**:** Contralateral **Leg weakness** and sensory loss.
 
 ### 4. Middle Cerebral Artery (MCA) (Slides 18-19, 20)
 *   Largest branch. Runs laterally through the Sylvian Fissure.
 *   Supplies the **Lateral** surface of Frontal, Temporal, and Parietal lobes.
-*   **Function:** Motor/Sensory to the **Face and Upper Limb** (Arm/Hand). Also supplies language centers in the dominant hemisphere.
-*   **Stroke Symptoms:** Contralateral **Face/Arm weakness**, Face/Arm sensory loss.
-    *   *Left MCA (Dominant):* **Aphasia** (Broca's or Wernicke's).
-    *   *Right MCA (Non-dominant):* Hemineglect.
+* **Function**:** Motor/Sensory to the **Face and Upper Limb** (Arm/Hand). Also supplies language centers in the dominant hemisphere.
+* **Stroke Symptoms**:** Contralateral **Face/Arm weakness**, Face/Arm sensory loss.
+    * **  *Left MCA (Dominant)**:* **Aphasia** (Broca's or Wernicke's).
+    * **  *Right MCA (Non-dominant)**:* Hemineglect.
 
 :::correlate
 **Lenticulostriate Arteries (Slide 19)**
 *   Small, deep perforating branches of the MCA supplying the **Basal Ganglia** and Internal Capsule.
-*   **Pathology:** High pressure (Hypertension) causes lipohyalinosis and microaneurysms (**Charcot-Bouchard Aneurysms**).
-*   **Result:** Rupture leads to **Intraparenchymal Hemorrhage**. Occlusion leads to **Lacunar Infarcts** (pure motor strokes).
+* **Pathology**:** High pressure (Hypertension) causes lipohyalinosis and microaneurysms (**Charcot-Bouchard Aneurysms**).
+* **Result**:** Rupture leads to **Intraparenchymal Hemorrhage**. Occlusion leads to **Lacunar Infarcts** (pure motor strokes).
 :::
 
 ---
@@ -62,21 +62,21 @@ The **Internal Carotid Artery (ICA)** enters the skull via the Carotid Canal, pa
 ## 3. Posterior Circulation (Vertebrobasilar) (Slides 23-26)
 ### Vertebral Arteries (VA)
 *   Ascend through transverse foramina of C6-C1. Enter skull via Foramen Magnum.
-*   **Branches:**
-    *   **Anterior Spinal Artery (ASA):** Supplies anterior 2/3 of spinal cord.
-    *   **PICA (Posterior Inferior Cerebellar Artery):** Supplies Lateral Medulla and Inferior Cerebellum. (Occlusion → Wallenberg Syndrome).
+* **Branches**:**
+    * **Anterior Spinal Artery (ASA)**:** Supplies anterior 2/3 of spinal cord.
+    * **PICA (Posterior Inferior Cerebellar Artery)**:** Supplies Lateral Medulla and Inferior Cerebellum. (Occlusion → Wallenberg Syndrome).
 
 ### Basilar Artery (BA)
 *   Formed by fusion of VAs. Runs along the Pons.
-*   **Branches:**
-    *   **AICA (Anterior Inferior Cerebellar Artery):** Supplies Lateral Pons.
-    *   **Pontine Arteries:** Supply the Pons. (Occlusion → Locked-in Syndrome).
-    *   **SCA (Superior Cerebellar Artery):** Supplies Superior Cerebellum.
+* **Branches**:**
+    * **AICA (Anterior Inferior Cerebellar Artery)**:** Supplies Lateral Pons.
+    * **Pontine Arteries**:** Supply the Pons. (Occlusion → Locked-in Syndrome).
+    * **SCA (Superior Cerebellar Artery)**:** Supplies Superior Cerebellum.
 
 ### Posterior Cerebral Artery (PCA)
 *   Terminal bifurcation of the Basilar Artery.
-*   Supplies: **Occipital Lobe** (Visual Cortex) and Inferior Temporal lobe.
-*   **Stroke Symptoms:** Contralateral **Homonymous Hemianopsia** (Visual field loss) often with *Macular Sparing*.
+* **  Supplies**: **Occipital Lobe** (Visual Cortex) and Inferior Temporal lobe.
+* **Stroke Symptoms**:** Contralateral **Homonymous Hemianopsia** (Visual field loss) often with *Macular Sparing*.
 
 :::pearl
 **CN III Rule:** The Oculomotor Nerve (CN III) acts as a sandwich filling between the **SCA** (Superior Cerebellar) and **PCA** (Posterior Cerebral) arteries. Aneurysms here compress CN III.
@@ -88,18 +88,18 @@ The **Internal Carotid Artery (ICA)** enters the skull via the Carotid Canal, pa
 
 ### Circle of Willis (Slides 29-30)
 *   Anastomotic ring at the base of the brain providing collateral flow.
-*   Formed by: ACom, ACA, ICA, PCom, PCA.
-*   *Note:* The circle is incomplete in ~50% of people.
-*   **Watershed Zones:** Border areas between ACA/MCA/PCA territories. Susceptible to ischemia during **Global Hypoperfusion** (e.g., Cardiac Arrest or severe hypotension) → "Man in a Barrel" syndrome (proximal weakness).
+* **  Formed by**: ACom, ACA, ICA, PCom, PCA.
+* **  *Note**:* The circle is incomplete in ~50% of people.
+* **Watershed Zones**:** Border areas between ACA/MCA/PCA territories. Susceptible to ischemia during **Global Hypoperfusion** (e.g., Cardiac Arrest or severe hypotension) → "Man in a Barrel" syndrome (proximal weakness).
 
 ### Venous Drainage (Slides 32-42)
 Veins drain into Valveless **Dural Venous Sinuses**:
-*   **Superior Sagittal Sinus (SSS):** Drains superficial veins + CSF (via arachnoid granulations).
-*   **Cavernous Sinus:** A venous plexus surrounding the Sella Turcica.
-    *   *Contents:* **ICA**, **CN VI** (freely inside), and **CN III, IV, V1, V2** (in the wall).
-    *   *Pathology:* Cavernous Sinus Thrombosis or Fistula can cause multiple cranial nerve palsies.
+* **Superior Sagittal Sinus (SSS)**:** Drains superficial veins + CSF (via arachnoid granulations).
+* **Cavernous Sinus**:** A venous plexus surrounding the Sella Turcica.
+    * **  *Contents**:* **ICA**, **CN VI** (freely inside), and **CN III, IV, V1, V2** (in the wall).
+    * **  *Pathology**:* Cavernous Sinus Thrombosis or Fistula can cause multiple cranial nerve palsies.
 
-    *   *Presentation:* **"Thunderclap Headache"** (Worst headache of life), meningeal signs.
+    * **  *Presentation**:* **"Thunderclap Headache"** (Worst headache of life), meningeal signs.
 
 `,
     pearls: [
@@ -205,15 +205,15 @@ Veins drain into Valveless **Dural Venous Sinuses**:
     mindmap: `
 ## CNS Blood Supply
 ### Anterior Circ (ICA)
-*   **Ophthalmic**: Eye (Amaurosis Fugax)
-*   **ACA**: Medial Brain (Legs)
-*   **MCA**: Lateral Brain (Face/Arms + Speech)
+* **Ophthalmic**: Eye (Amaurosis Fugax)
+* **ACA**: Medial Brain (Legs)
+* **MCA**: Lateral Brain (Face/Arms + Speech)
     *   Lenticulostriate (Lacunar stroke)
-*   **PCom**: Connects to Posterior
+* **PCom**: Connects to Posterior
 ### Posterior Circ (Vert-Basilar)
 *   Vertebral A. → **PICA**
 *   Basilar A. → **AICA**, **SCA**, **PCA**
-*   **PCA**: Occipital (Vision)
+* **PCA**: Occipital (Vision)
 ### Circle of Willis
 *   ACom (Connects ACAs)
 *   PCom (Connects ICA-PCA)

@@ -16,7 +16,7 @@ const L1a_CONTENT = {
 
 ## Introduction and Objectives (Slide 2)
 This lecture introduces the structural examination of the pelvis, focusing on the diagnosis of somatic dysfunctions of the innominates and pubic bone.
-*   **Key Goals:**
+* **Key Goals**:**
     *   Understand pelvic anatomy and biomechanics.
     *   Perform and interpret **Standing Flexion Test (StFT)**, **ASIS Compression Test**, and **Seated Flexion Test (SeFT)**.
     *   Differentiate between Iliosacral (Pelvic) and Sacroiliac (Sacral) dysfunctions.
@@ -25,22 +25,22 @@ This lecture introduces the structural examination of the pelvis, focusing on th
 
 ## Anatomy of the Pelvis (Slide 5-6)
 ### Bones
-*   **Innominate:** Composed of three parts that fuse at the acetabulum:
+* **Innominate**:** Composed of three parts that fuse at the acetabulum:
     *   **Ilium**
     *   **Ischium**
     *   **Pubis**
-*   **Sacrum:** Articulates with the ilia.
+* **Sacrum**:** Articulates with the ilia.
 
 ### Joints
-*   **Sacroiliac Joint (SIJ):**
+* **Sacroiliac Joint (SIJ)**:**
     *   L-shaped or C-shaped.
     *   Allows for mobility, though limited (Slide 6).
     *   *Mobility decreases with age.*
-*   **Pubic Symphysis:** Fibrocartilaginous joint.
+* **Pubic Symphysis**:** Fibrocartilaginous joint.
 
 ### Ligaments (Slide 7, 15)
 *   Ligaments (e.g., sacrotuberous, sacrospinous) provide stability and create foramina for neurovascular structures.
-*   **Clinical Relevance:** They guide motion and can become tender/restrictive in somatic dysfunction.
+* **Clinical Relevance**:** They guide motion and can become tender/restrictive in somatic dysfunction.
 
 ---
 
@@ -48,17 +48,17 @@ This lecture introduces the structural examination of the pelvis, focusing on th
 
 ### Gait and Motion (Slide 17)
 *   Physiologic motion of the sacrum and ilia occurs during walking.
-*   **Somatic Dysfunction:** Affects gait efficiency and increases energy expenditure.
+* **Somatic Dysfunction**:** Affects gait efficiency and increases energy expenditure.
 
 :::correlate
 **Pregnancy-Related Changes** (Slide 18)
-*   **Pathophysiology:** Horizontalization of sacrum, increased laxity due to **Relaxin**.
-*   **Presentation:** Anterior pelvic tilt, increased lumbar lordosis, potential for pain (low back, pelvic).
-*   **Lecturer's Point:** "Center of gravity shifts anteriorly... Sacroiliac joint and pubic symphysis become more lax."
+* **Pathophysiology**:** Horizontalization of sacrum, increased laxity due to **Relaxin**.
+* **Presentation**:** Anterior pelvic tilt, increased lumbar lordosis, potential for pain (low back, pelvic).
+* **Lecturer's Point**:** "Center of gravity shifts anteriorly... Sacroiliac joint and pubic symphysis become more lax."
 :::
 
 ### Clinical Implications (Slide 20)
-*   Pelvic dysfunction often presents as:
+* **  Pelvic dysfunction often presents as**:
     *   Low back pain, hip/groin pain.
     *   Sciatic neuralgia (piriformis syndrome).
     *   Visceral issues (GI, GU) via autonomic relationships.
@@ -68,44 +68,44 @@ This lecture introduces the structural examination of the pelvis, focusing on th
 ## Structural Examination: Screening Tests
 
 ### 1. Standing Flexion Test (StFT) (Slide 23-28)
-*   **Purpose:** Diagnoses **Iliosacral Dysfunction** (Ilio-sacral = Ilium moving on Sacrum = **Pelvic SD**).
-*   **Execution:**
+* **Purpose**:** Diagnoses **Iliosacral Dysfunction** (Ilio-sacral = Ilium moving on Sacrum = **Pelvic SD**).
+* **Execution**:**
     1.  Patient stands, feet 6-8 inches apart.
     2.  Physician monitors **PSIS** bilaterally (eyes at level).
     3.  Patient bends forward slowly.
-*   **Positive Result:** One PSIS moves **"First and Farthest"** superiorly.
-*   **Interpretation:** The side that moves superiorly is the **Dysfunctional Side** (restricted side). The ilium is "locked" to the sacrum on that side and moves with it.
+* **Positive Result**:** One PSIS moves **"First and Farthest"** superiorly.
+* **Interpretation**:** The side that moves superiorly is the **Dysfunctional Side** (restricted side). The ilium is "locked" to the sacrum on that side and moves with it.
 
 :::pearl
 **StFT Mnemonic:** Standing = **S**ide of **I**lium (**Iliosacral**).
 :::
 
 ### 2. Seated Flexion Test (SeFT) (Slide 32-35)
-*   **Purpose:** Diagnoses **Sacroiliac Dysfunction** (Sacro-iliac = Sacrum moving on Ilium = **Sacral SD**).
-*   **Execution:**
+* **Purpose**:** Diagnoses **Sacroiliac Dysfunction** (Sacro-iliac = Sacrum moving on Ilium = **Sacral SD**).
+* **Execution**:**
     1.  Patient seated (feet flat, stabilizing the ilia).
     2.  Physician monitors **PSIS** bilaterally.
     3.  Patient bends forward.
-*   **Positive Result:** One PSIS moves **"First and Farthest"**.
-*   **Interpretation:** Indicates the side of sacral dysfunction.
-    *   *Note:* The "standing" vs "seated" distinction isolates the ilia (standing = mobile) vs sacroiliac mechanics (seated = ilia locked by tuberosities).
+* **Positive Result**:** One PSIS moves **"First and Farthest"**.
+* **Interpretation**:** Indicates the side of sacral dysfunction.
+    * **  *Note**:* The "standing" vs "seated" distinction isolates the ilia (standing = mobile) vs sacroiliac mechanics (seated = ilia locked by tuberosities).
 
 :::highyield
 **StFT vs SeFT Summary (Slide 36)**
-*   **StFT (+):** Iliosacral Dysfunction → Look for Innominate/Pubic shears.
-    *   Axis: Inferior Transverse Axis.
-*   **SeFT (+):** Sacroiliac Dysfunction → Look for Sacral Torsions/Shears.
-    *   Axis: Middle Transverse Axis.
+* **StFT (+)**:** Iliosacral Dysfunction → Look for Innominate/Pubic shears.
+    * **  Axis**: Inferior Transverse Axis.
+* **SeFT (+)**:** Sacroiliac Dysfunction → Look for Sacral Torsions/Shears.
+    * **  Axis**: Middle Transverse Axis.
 :::
 
 ### 3. ASIS Compression Test (Pelvic Rock) (Slide 30-31)
-*   **Purpose:** **Lateralization** (Determines *which* side is dysfunctional).
+* **Purpose**:**Lateralization** (Determines *which* side is dysfunctional).
     *   Helps confirm StFT/SeFT findings or distinguish when tests are equivocal.
-*   **Execution:**
+* **Execution**:**
     1.  Patient supine.
     2.  Physician applies posterior-medial pressure on ASIS towards the SI joint.
     3.  Assess for "spring" or resistance.
-*   **Positive Result:** The side with **Restriction** (less spring, board-like feel) is the positive side.
+* **Positive Result**:** The side with **Restriction** (less spring, board-like feel) is the positive side.
 
 ---
 
@@ -113,15 +113,15 @@ This lecture introduces the structural examination of the pelvis, focusing on th
 After lateralizing (finding the side), check landmarks to classify the dysfunction (e.g., Anterior/Posterior Rotation, Upslip/Downslip).
 
 ### Anterior Landmarks
-*   **ASIS Heights:** Compare superior/inferior.
-*   **Pubic Tubercles:** Check for superior/inferior shears.
-*   **Medial Malleoli:** Assess functional leg length.
+* **ASIS Heights**:** Compare superior/inferior.
+* **Pubic Tubercles**:** Check for superior/inferior shears.
+* **Medial Malleoli**:** Assess functional leg length.
 
 ### Posterior Landmarks
-*   **PSIS Heights:** Compare.
-*   **Iliac Crest Heights:** Compare.
-*   **Ischial Tuberosities:** Compare heights.
-*   **Sacral Sulci:** Depth.
+* **PSIS Heights**:** Compare.
+* **Iliac Crest Heights**:** Compare.
+* **Ischial Tuberosities**:** Compare heights.
+* **Sacral Sulci**:** Depth.
 
 :::pearl
 **Diagnosis Flow:**
@@ -213,27 +213,27 @@ See the **Questions** tab for interactive board-style practice.
     mindmap: `
 ## Basics of Pelvic Diagnosis
 ### Anatomy
-*   **Innominate Bones**: Ilium, Ischium, Pubis
-*   **Joints**: Sacroiliac (SIJ), Pubic Symphysis
-*   **Ligaments**: Sacrotuberous, Sacrospinous (Stability)
+* **Innominate Bones**: Ilium, Ischium, Pubis
+* **Joints**: Sacroiliac (SIJ), Pubic Symphysis
+* **Ligaments**: Sacrotuberous, Sacrospinous (Stability)
 ### Biomechanics
-*   **Motion**: Occurs during gait
-*   **Pregnancy**: Relaxin → Increased laxity → Anterior Tilt
+* **Motion**: Occurs during gait
+* **Pregnancy**: Relaxin → Increased laxity → Anterior Tilt
 ### Screening Tests
 *   **Standing Flexion (StFT)**
-    *   **Diagnoses**: Iliosacral (Innominate) Dysfunction
-    *   **Axis**: Inferior Transverse
-    *   **Positive**: restricted side moves Superior
+    * **Diagnoses**: Iliosacral (Innominate) Dysfunction
+    * **Axis**: Inferior Transverse
+    * **Positive**: restricted side moves Superior
 *   **Seated Flexion (SeFT)**
-    *   **Diagnoses**: Sacroiliac (Sacral) Dysfunction
-    *   **Axis**: Middle Transverse
-    *   **Mechanism**: Ischial tuberosities lock ilia
+    * **Diagnoses**: Sacroiliac (Sacral) Dysfunction
+    * **Axis**: Middle Transverse
+    * **Mechanism**: Ischial tuberosities lock ilia
 *   **ASIS Compression**
-    *   **Purpose**: Lateralization (confirms side)
-    *   **Positive**: Resistance/Rigidity
+    * **Purpose**: Lateralization (confirms side)
+    * **Positive**: Resistance/Rigidity
 ### Landmarks (Static Exam)
-*   **Anterior**: ASIS, Pubic Tubercles, Medial Malleoli
-*   **Posterior**: PSIS, Iliac Crests, Ischial Tuberosities, Sacral Sulci
+* **Anterior**: ASIS, Pubic Tubercles, Medial Malleoli
+* **Posterior**: PSIS, Iliac Crests, Ischial Tuberosities, Sacral Sulci
 `
 };
 

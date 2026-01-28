@@ -7,16 +7,16 @@ export const L30_CONTENT = {
 **Session:** Lecture 30
 
 ## 1. Pyramidal System (Upper Motor Neurons)
-*   **Definition:** UMNs originate in the Cortex (M1, Premotor, SMA) and project to LMNs in the Brainstem or Spinal Cord.
-*   **Corticospinal Tract (CST):**
-    *   **Lateral CST (85%):** Decussates at Medullary Pyramids. Controls **Distal Limbs** (Fine motor).
-    *   **Ventral CST (15%):** Descends ipsilaterally, decussates in spinal cord. Controls **Axial/Proximal** muscles (Posture).
-*   **Corticobulbar Tract:**
+* **Definition**:** UMNs originate in the Cortex (M1, Premotor, SMA) and project to LMNs in the Brainstem or Spinal Cord.
+* **Corticospinal Tract (CST)**:**
+    * **Lateral CST (85%)**:** Decussates at Medullary Pyramids. Controls **Distal Limbs** (Fine motor).
+    * **Ventral CST (15%)**:** Descends ipsilaterally, decussates in spinal cord. Controls **Axial/Proximal** muscles (Posture).
+* **Corticobulbar Tract**:**
     *   Controls Cranial Nerves (Head/Neck).
-    *   **Innervation:** Most CN nuclei receive **Bilateral** input.
-    *   **Exceptions:**
-        *   **CN VII (Face):** **Lower Face** receives only *Contralateral* input. **Upper Face** is *Bilateral*.
-        *   **CN XII (Tongue):** Tongue deviates **AWAY** from the UMN lesion (towards the weak side).
+    * **Innervation**:** Most CN nuclei receive **Bilateral** input.
+    * **Exceptions**:**
+        * **CN VII (Face)**:**Lower Face** receives only *Contralateral* input. **Upper Face** is *Bilateral*.
+        * **CN XII (Tongue)**:** Tongue deviates **AWAY** from the UMN lesion (towards the weak side).
 
 ## 2. UMN vs. LMN Lesions
 
@@ -30,22 +30,22 @@ export const L30_CONTENT = {
 | **Fasciculations** | No | **Yes** |
 
 ## 3. Brainstem Tracts & Posturing
-*   **Rubrospinal Tract:** Originates in **Red Nucleus** (Midbrain). Flexor tones of upper limbs.
-*   **Vestibulospinal Tract:** Extensor tone (Antigravity).
-*   **Decorticate Posture ("Mummy"):**
-    *   *Lesion:* **ABOVE** Red Nucleus (e.g., Cerebral Hemispheres).
-    *   *Presentation:* Arms **Flexed** (Red nucleus intact), Legs Extended.
-*   **Decerebrate Posture:**
-    *   *Lesion:* **BELOW** Red Nucleus (e.g., Pons/Midbrain).
-    *   *Presentation:* Arms **Extended**, Legs Extended (Rubrospinal lost, Vestibulospinal unopposed).
+* **Rubrospinal Tract**:** Originates in **Red Nucleus** (Midbrain). Flexor tones of upper limbs.
+* **Vestibulospinal Tract**:** Extensor tone (Antigravity).
+* **Decorticate Posture ("Mummy")**:**
+    * **  *Lesion**:* **ABOVE** Red Nucleus (e.g., Cerebral Hemispheres).
+    * **  *Presentation**:* Arms **Flexed** (Red nucleus intact), Legs Extended.
+* **Decerebrate Posture**:**
+    * **  *Lesion**:* **BELOW** Red Nucleus (e.g., Pons/Midbrain).
+    * **  *Presentation**:* Arms **Extended**, Legs Extended (Rubrospinal lost, Vestibulospinal unopposed).
 
 ## 4. Specific Clinical Syndromes
-*   **Locked-In Syndrome:**
-    *   *Lesion:* **Pons** (Basilar Artery).
-    *   *Effect:* Bilateral CST/Corticobulbar damage. Quadriplegia + Anarthria (can't speak).
-    *   *Spared:* Vertical eye movements/Blinking (Midbrain/CN III spared). Consciousness intact.
-*   **Bell's Palsy (LMN CN VII):** Paralysis of **Entire Hemi-face** (Forehead + Chin).
-*   **Stroke (UMN CN VII):** Paralysis of **Lower Face Only** (Forehead spared).
+* **Locked-In Syndrome**:**
+    * **  *Lesion**:* **Pons** (Basilar Artery).
+    * **  *Effect**:* Bilateral CST/Corticobulbar damage. Quadriplegia + Anarthria (can't speak).
+    * **  *Spared**:* Vertical eye movements/Blinking (Midbrain/CN III spared). Consciousness intact.
+* **Bell's Palsy (LMN CN VII)**:** Paralysis of **Entire Hemi-face** (Forehead + Chin).
+* **Stroke (UMN CN VII)**:** Paralysis of **Lower Face Only** (Forehead spared).
 `,
     pearls: [
         {
@@ -184,19 +184,19 @@ export const L30_CONTENT = {
 ## Motor Systems
 
 ### UMN vs LMN
-*   **UMN**: Spastic, Babinski (+). Cortex → Cord.
-*   **LMN**: Flaccid, Fasciculations. Cord → Muscle.
+* **UMN**: Spastic, Babinski (+). Cortex → Cord.
+* **LMN**: Flaccid, Fasciculations. Cord → Muscle.
 
 ### Tracts
-*   **Corticospinal**:
-    *   *Lateral*: Distal (Crosses Medulla).
-    *   *Ventral*: Axial.
-*   **Corticobulbar**: Face/Neck.
-    *   *CN VII*: Lower face = Contra Only.
+* **Corticospinal**:
+    * **  *Lateral***: Distal (Crosses Medulla).
+    * **  *Ventral***: Axial.
+* **Corticobulbar**: Face/Neck.
+    * **  *CN VII***: Lower face = Contra Only.
 
 ### Posturing
-*   **Decorticate**: Flexed (Above Red Nuc).
-*   **Decerebrate**: Extended (Below Red Nuc).
+* **Decorticate**: Flexed (Above Red Nuc).
+* **Decerebrate**: Extended (Below Red Nuc).
 \`
 };
 

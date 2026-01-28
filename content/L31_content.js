@@ -7,43 +7,43 @@ export const L31_CONTENT = {
 **Session:** Lecture 31
 
 ## 1. Basal Ganglia Anatomy
-*   **Striatum (Input):** Caudate + Putamen. Releases **GABA**.
-*   **Pallidum (Output):** GPi (Internal) & GPe (External). Releases **GABA**.
-*   **Subthalamic Nucleus (STN):** Releases **Glutamate** (Excitatory).
-*   **Substantia Nigra pars Compacta (SNc):** Releases **Dopamine**.
+* **Striatum (Input)**:** Caudate + Putamen. Releases **GABA**.
+* **Pallidum (Output)**:** GPi (Internal) & GPe (External). Releases **GABA**.
+* **Subthalamic Nucleus (STN)**:** Releases **Glutamate** (Excitatory).
+* **Substantia Nigra pars Compacta (SNc)**:** Releases **Dopamine**.
 
 ## 2. The Pathways (Albin-DeLong Model)
 1.  **Direct Pathway (GO):**
     *   Promotes movement.
     *   Striatum inhibits GPi → Disinhibition of Thalamus.
-    *   **D1 Receptors:** Dopamine *excites* this pathway.
+    * **D1 Receptors**:** Dopamine *excites* this pathway.
 2.  **Indirect Pathway (NO-GO):**
     *   Inhibits movement.
     *   Striatum inhibits GPe → STN active → GPi active → Thalamus inhibited.
-    *   **D2 Receptors:** Dopamine *inhibits* this pathway (Releases the brake).
+    * **D2 Receptors**:** Dopamine *inhibits* this pathway (Releases the brake).
 3.  **Hyperdirect Pathway:** Fast suppression (Freeze!). Cortex → STN → GPi.
 
 ## 3. Parkinson's Disease (Hypokinetic)
-*   **Pathology:** Loss of Dopaminergic neurons in **SNc**. **Lewy Bodies** ($\alpha$-synuclein).
-*   **Symptoms (TRAP):**
+* **Pathology**:** Loss of Dopaminergic neurons in **SNc**. **Lewy Bodies** ($\alpha$-synuclein).
+* **Symptoms (TRAP)**:**
     *   **T**remor (Resting, Pill-rolling).
     *   **R**igidity (Cogwheel).
     *   **A**kinesia / Bradykinesia (Slow movement, Masked face).
     *   **P**ostural Instability.
-*   **History:** MPTP (toxin) caused acute Parkinsonism in drug users ("Frozen Addicts").
+* **History**:** MPTP (toxin) caused acute Parkinsonism in drug users ("Frozen Addicts").
 
 ## 4. Huntington's Disease (Hyperkinetic)
-*   **Pathology:** Atrophy of **Caudate Nucleus** (Boxy ventricles on MRI). loss of GABA/ACh neurons.
-*   **Genetics:** **CAG** trinucleotide repeat (>40). **Autosomal Dominant**. Anticipation (worse in next gen).
-*   **Symptoms:** **Chorea** (Dance-like), Dementia, Depression. Signs appear age 30-50.
+* **Pathology**:** Atrophy of **Caudate Nucleus** (Boxy ventricles on MRI). loss of GABA/ACh neurons.
+* **Genetics**:**CAG** trinucleotide repeat (>40). **Autosomal Dominant**. Anticipation (worse in next gen).
+* **Symptoms**:**Chorea** (Dance-like), Dementia, Depression. Signs appear age 30-50.
 
 ## 5. Other Disorders
-*   **Hemiballismus:**
-    *   *Lesion:* **Subthalamic Nucleus (STN)** (lacunar stroke).
-    *   *Symptoms:* Wild, ballistic flailing of *contralateral* arm/leg.
-*   **Tardive Dyskinesia:**
-    *   *Cause:* Chronic use of **Antipsychotics** (D2 blockers).
-    *   *Symptoms:* Repetitive lip smacking, tongue rolling. Late onset.
+* **Hemiballismus**:**
+    * **  *Lesion**:* **Subthalamic Nucleus (STN)** (lacunar stroke).
+    * **  *Symptoms**:* Wild, ballistic flailing of *contralateral* arm/leg.
+* **Tardive Dyskinesia**:**
+    * **  *Cause**:* Chronic use of **Antipsychotics** (D2 blockers).
+    * **  *Symptoms**:* Repetitive lip smacking, tongue rolling. Late onset.
 `,
     pearls: [
         {
@@ -182,18 +182,18 @@ export const L31_CONTENT = {
 ## Basal Ganglia
 
 ### Pathways
-*   **Direct (Go)**: Striatum -| GPi -| Thalamus. D1.
-*   **Indirect (Stop)**: Striatum -| GPe -| STN → GPi -| Thalamus. D2.
+* **Direct (Go)**: Striatum -| GPi -| Thalamus. D1.
+* **Indirect (Stop)**: Striatum -| GPe -| STN → GPi -| Thalamus. D2.
 
 ### Pathology
-*   **Parkinson's**: Low DA. TRAP. Lewy Bodies. Hypokinetic.
-*   **Huntington's**: Caudate Atrophy. CAG. Chorea. Hyperkinetic.
-*   **Hemiballismus**: STN Lesion. Flailing.
+* **Parkinson's**: Low DA. TRAP. Lewy Bodies. Hypokinetic.
+* **Huntington's**: Caudate Atrophy. CAG. Chorea. Hyperkinetic.
+* **Hemiballismus**: STN Lesion. Flailing.
 
 ### Neurotransmitters
-*   **GABA**: Striatum, Pallidum, SNr.
-*   **Glutamate**: STN, Cortex.
-*   **Dopamine**: SNc.
+* **GABA**: Striatum, Pallidum, SNr.
+* **Glutamate**: STN, Cortex.
+* **Dopamine**: SNc.
 \`
 };
 

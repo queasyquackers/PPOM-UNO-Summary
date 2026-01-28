@@ -11,53 +11,53 @@ export const L10_CONTENT = {
 The Autonomic Nervous System (ANS) maintains homeostasis through two opposing divisions: Sympathetic ("Fight or Flight") and Parasympathetic ("Rest and Digest"). Both systems utilize a **two-neuron chain** (preganglionic and postganglionic).
 
 ### Sympathetic Division
-*   **Origin:** **Thoracolumbar** (T1-L2) lateral horn.
-*   **Neuron Lengths:** **Short** Preganglionic, **Long** Postganglionic.
-*   **Neurotransmitters:**
-    *   Preganglionic: Acetylcholine (Nicotinic receptors).
-    *   Postganglionic: **Norepinephrine** (Adrenergic receptors) mostly.
-    *   *Exceptions:* Sweat glands (ACh/Muscarinic) and Adrenal Medulla (Epi/NE directly into blood).
+* **Origin**:**Thoracolumbar** (T1-L2) lateral horn.
+* **Neuron Lengths**:**Short** Preganglionic, **Long** Postganglionic.
+* **Neurotransmitters**:**
+    * **  Preganglionic**: Acetylcholine (Nicotinic receptors).
+    * **  Postganglionic**: **Norepinephrine** (Adrenergic receptors) mostly.
+    * **  *Exceptions**:* Sweat glands (ACh/Muscarinic) and Adrenal Medulla (Epi/NE directly into blood).
 
 ### Parasympathetic Division
-*   **Origin:** **Craniosacral** (CN III, VII, IX, X and S2-S4).
-*   **Neuron Lengths:** **Long** Preganglionic, **Short** Postganglionic (ganglia near target).
-*   **Neurotransmitters:**
-    *   Preganglionic: Acetylcholine (Nicotinic).
-    *   Postganglionic: **Acetylcholine** (Muscarinic).
+* **Origin**:**Craniosacral** (CN III, VII, IX, X and S2-S4).
+* **Neuron Lengths**:**Long** Preganglionic, **Short** Postganglionic (ganglia near target).
+* **Neurotransmitters**:**
+    * **  Preganglionic**: Acetylcholine (Nicotinic).
+    * **  Postganglionic**: **Acetylcholine** (Muscarinic).
 
 ## 2. Clinical Correlates of ANS Dysfunction
 
 ### Horner's Syndrome (Slide 14)
 Lesion of the sympathetic pathway to the head/neck.
-*   **Triad:** **Ptosis** (droopy eyelid), **Miosis** (constricted pupil), **Anhidrosis** (lack of sweating).
+* **Triad**:**Ptosis** (droopy eyelid), **Miosis** (constricted pupil), **Anhidrosis** (lack of sweating).
 
 ### Autonomic Dysreflexia (Slide 28)
-*   **Cause:** Spinal Cord Injury above **T6**.
-*   **Mechanism:** A noxious stimulus (e.g., full bladder) triggers a massive sympathetic surge below the lesion.
-*   **Consequence:** Widespread vasoconstriction causes life-threatening **Hypertension**.
-*   **Reflex:** Baroreceptors detect high BP → Vagus nerve slows heart → **Bradycardia**.
-*   **Result:** Hypertension + Bradycardia.
+* **Cause**:** Spinal Cord Injury above **T6**.
+* **Mechanism**:** A noxious stimulus (e.g., full bladder) triggers a massive sympathetic surge below the lesion.
+* **Consequence**:** Widespread vasoconstriction causes life-threatening **Hypertension**.
+* **Reflex**:** Baroreceptors detect high BP → Vagus nerve slows heart → **Bradycardia**.
+* **Result**:** Hypertension + Bradycardia.
 
 ### Bladder Dysfunction (Slide 31-32)
-*   **Spastic (UMN) Bladder:** Lesion above Pontine Micturition Center (PMC) but below cortex, or between PMC and cord. Reflex is hyperactive. Detrusor contracts against closed sphincter.
-*   **Atonic (LMN) Bladder:** Lesion of Sacral cord or Cauda Equina. Reflex arc destroyed. Bladder fills but cannot contract (overflow incontinence).
+* **Spastic (UMN) Bladder**:** Lesion above Pontine Micturition Center (PMC) but below cortex, or between PMC and cord. Reflex is hyperactive. Detrusor contracts against closed sphincter.
+* **Atonic (LMN) Bladder**:** Lesion of Sacral cord or Cauda Equina. Reflex arc destroyed. Bladder fills but cannot contract (overflow incontinence).
 
 ## 3. Enteric Nervous System (ENS) (Slide 33-37)
 
 The "Brain of the Gut", capable of functioning independently.
-*   **Plexuses:** Myenteric (Auerbach's - Motility) and Submucosal (Meissner's - Secretion).
+* **Plexuses**:** Myenteric (Auerbach's - Motility) and Submucosal (Meissner's - Secretion).
 
 :::correlate
 **Hirschsprung's Disease**
-*   **Pathophysiology:** Congenital failure of **Neural Crest Cells** to migrate to the distal colon.
-*   **Presentation:** Newborns fail to pass meconium.
-*   **Result:** **Aganglionic Megacolon**. The affected segment lacks ENS plexuses and remains constantly constricted (cannot relax), causing obstruction and dilation upstream.
-*   **Treatment:** Surgical resection of the aganglionic segment.
+* **Pathophysiology**:** Congenital failure of **Neural Crest Cells** to migrate to the distal colon.
+* **Presentation**:** Newborns fail to pass meconium.
+* **Result**:**Aganglionic Megacolon**. The affected segment lacks ENS plexuses and remains constantly constricted (cannot relax), causing obstruction and dilation upstream.
+* **Treatment**:** Surgical resection of the aganglionic segment.
 :::
 
 ## 4. Cardiovascular Reflexes (Slide 27)
 
-*   **Carotid Sinus Massage:** Mechanically stimulates baroreceptors → mimics high BP → increases Vagal tone → slows Heart Rate. Used to terminate SVT.
+* **Carotid Sinus Massage**:** Mechanically stimulates baroreceptors → mimics high BP → increases Vagal tone → slows Heart Rate. Used to terminate SVT.
 :::highyield
 **Contraindication:** Do not perform Carotid Massage in patients with carotid stenosis or recent stroke, as it may dislodge an embolus.
 :::
@@ -211,7 +211,7 @@ The "Brain of the Gut", capable of functioning independently.
 ### Sympathetic (Thoracolumbar)
 *   **Fight or Flight**
 *   **Short Pre** (ACh), **Long Post** (NE)
-*   Exception: Sweat Glands (ACh)
+* **  Exception**: Sweat Glands (ACh)
 
 ### Parasympathetic (Craniosacral)
 *   **Rest and Digest**
@@ -219,10 +219,10 @@ The "Brain of the Gut", capable of functioning independently.
 *   Vagus Nerve (CN X) = Main effector
 
 ### Pathology
-*   **Horner's Syndrome**: Ptosis, Miosis, Anhidrosis
-*   **Dysreflexia**: SCI > T6, HTN + Bradycardia
-*   **Hirschsprung's**: No Ganglia, Megacolon
-*   **Bladder**: Spastic (UMN) vs Atonic (LMN)
+* **Horner's Syndrome**: Ptosis, Miosis, Anhidrosis
+* **Dysreflexia**: SCI > T6, HTN + Bradycardia
+* **Hirschsprung's**: No Ganglia, Megacolon
+* **Bladder**: Spastic (UMN) vs Atonic (LMN)
 \`
 };
 

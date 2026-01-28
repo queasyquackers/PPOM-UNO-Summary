@@ -7,44 +7,44 @@ export const L40_CONTENT = {
 **Session:** Lecture 40
 
 ## 1. Spinal Cord Anatomy Review
-*   **Dorsal Columns:** Vibration, Proprioception, Fine Touch. (Cross in Brainstem).
-*   **Spinothalamic Tract:** Pain, Temperature, Crude Touch. (Cross immediately/1-2 levels up).
-*   **Corticospinal Tract:** Motor. (Cross in Medulla).
+* **Dorsal Columns**:** Vibration, Proprioception, Fine Touch. (Cross in Brainstem).
+* **Spinothalamic Tract**:** Pain, Temperature, Crude Touch. (Cross immediately/1-2 levels up).
+* **Corticospinal Tract**:** Motor. (Cross in Medulla).
 
 ## 2. Spinal Cord Syndromes
-*   **Central Cord Syndrome (Syringomyelia):**
-    *   *Lesion:* Center of cord (crossing spinothalamic fibers).
-    *   *Presentation:* **"Cape-like"** loss of pain/temperature across shoulders/arms. Upper extremities > Lower.
-    *   *Causes:* Syringomyelia (Chiari I), Trauma (Hyperextension), Tumor.
-*   **Posterior Column Syndrome (Tabes Dorsalis):**
-    *   *Lesion:* Dorsal Columns.
-    *   *Presentation:* Loss of Proprioception/Vibration → Sensory Ataxia (**Stomping Gait**, +Romberg). **Lhermitte Sign** (Shock down back).
-    *   *Causes:* **Neurosyphilis** (Tabes Dorsalis - Triad: Lightning pains, Ataxia, Argyll Robertson Pupil), B12 Deficiency.
+* **Central Cord Syndrome (Syringomyelia)**:**
+    * **  *Lesion**:* Center of cord (crossing spinothalamic fibers).
+    * **  *Presentation**:* **"Cape-like"** loss of pain/temperature across shoulders/arms. Upper extremities > Lower.
+    * **  *Causes**:* Syringomyelia (Chiari I), Trauma (Hyperextension), Tumor.
+* **Posterior Column Syndrome (Tabes Dorsalis)**:**
+    * **  *Lesion**:* Dorsal Columns.
+    * **  *Presentation**:* Loss of Proprioception/Vibration → Sensory Ataxia (**Stomping Gait**, +Romberg). **Lhermitte Sign** (Shock down back).
+    * **  *Causes**:* **Neurosyphilis** (Tabes Dorsalis - Triad: Lightning pains, Ataxia, Argyll Robertson Pupil), B12 Deficiency.
 *   **Posterolateral Column Syndrome (Subacute Combined Degeneration):**
-    *   *Lesion:* Dorsal Columns + Corticospinal Tract.
-    *   *Presentation:* Ataxia/Numbness + Spastic Paresis.
-    *   *Causes:* **Vitamin B12 Deficiency** (Pernicious anemia, Gastric bypass, Vegans), **Nitrous Oxide** abuse ("Whippets").
-*   **Anterior Cord Syndrome:**
-    *   *Lesion:* Anterior 2/3 of cord (Spares Dorsal Columns).
-    *   *Presentation:* Complete Motor Paralysis + Loss of Pain/Temp. **Proprioception/Vibration SPARED**.
-    *   *Causes:* **Anterior Spinal Artery (ASA)** infarct (Aortic aneurysm repair/surgery).
-*   **Brown-Séquard Syndrome (Hemicord):**
-    *   *Lesion:* Half of the cord (Hemisection).
-    *   *Presentation:*
-        *   **Ipsilateral:** Loss of Motor (CST) + Proprioception/Vibration (DC).
-        *   **Contralateral:** Loss of Pain/Temp (Spinothalamic) *starting 1-2 levels below*.
-    *   *Causes:* Stab wound, MS, Tumor.
-*   **Cauda Equina Syndrome:**
-    *   *Lesion:* Nerve roots L2-S5 (Horse's tail).
-    *   *Presentation:* **Saddle Anesthesia**, Bowel/Bladder dysfunction (Retention/Incontinence), Radicular pain.
-    *   *Management:* **Surgical Emergency** (Decompression within 48hrs).
+    * **  *Lesion**:* Dorsal Columns + Corticospinal Tract.
+    * **  *Presentation**:* Ataxia/Numbness + Spastic Paresis.
+    * **  *Causes**:* **Vitamin B12 Deficiency** (Pernicious anemia, Gastric bypass, Vegans), **Nitrous Oxide** abuse ("Whippets").
+* **Anterior Cord Syndrome**:**
+    * **  *Lesion**:* Anterior 2/3 of cord (Spares Dorsal Columns).
+    * **  *Presentation**:* Complete Motor Paralysis + Loss of Pain/Temp. **Proprioception/Vibration SPARED**.
+    * **  *Causes**:* **Anterior Spinal Artery (ASA)** infarct (Aortic aneurysm repair/surgery).
+* **Brown-Séquard Syndrome (Hemicord)**:**
+    * **  *Lesion**:* Half of the cord (Hemisection).
+    * **  *Presentation**:*
+        * **Ipsilateral**:** Loss of Motor (CST) + Proprioception/Vibration (DC).
+        * **Contralateral**:** Loss of Pain/Temp (Spinothalamic) *starting 1-2 levels below*.
+    * **  *Causes**:* Stab wound, MS, Tumor.
+* **Cauda Equina Syndrome**:**
+    * **  *Lesion**:* Nerve roots L2-S5 (Horse's tail).
+    * **  *Presentation**:* **Saddle Anesthesia**, Bowel/Bladder dysfunction (Retention/Incontinence), Radicular pain.
+    * **  *Management**:* **Surgical Emergency** (Decompression within 48hrs).
 
 ## 3. Common Mononeuropathies
-*   **Median Nerve:** **Carpal Tunnel**. Numbness 1st 3.5 digits. Thenar atrophy.
-*   **Ulnar Nerve:** **Cubital Tunnel**. Numbness 4th/5th digits. "Claw Hand" (weak interossei).
-*   **Radial Nerve:** **Saturday Night Palsy**. Spiral groove compression. **Wrist Drop**.
-*   **Common Peroneal (Fibular) Nerve:** Unilateral **Foot Drop** (Steppage gait). Compression at Fibular Head.
-*   **Lateral Femoral Cutaneous Nerve:** **Meralgia Paresthetica**. Numbness of lateral thigh. Caused by tight belts, obesity, pregnancy.
+* **Median Nerve**:**Carpal Tunnel**. Numbness 1st 3.5 digits. Thenar atrophy.
+* **Ulnar Nerve**:**Cubital Tunnel**. Numbness 4th/5th digits. "Claw Hand" (weak interossei).
+* **Radial Nerve**:**Saturday Night Palsy**. Spiral groove compression. **Wrist Drop**.
+* **Common Peroneal (Fibular) Nerve**:** Unilateral **Foot Drop** (Steppage gait). Compression at Fibular Head.
+* **Lateral Femoral Cutaneous Nerve**:**Meralgia Paresthetica**. Numbness of lateral thigh. Caused by tight belts, obesity, pregnancy.
 
 `,
     pearls: [
@@ -177,29 +177,31 @@ export const L40_CONTENT = {
         primarySource: "AMBOSS",
         chapter: "Neurology > Spinal Cord Disorders",
         alternatives: [
-            { resource: "FirstAid", chapter: "Neurology > Spinal Cord Lesions" }
+            { resource: "FirstAid", chapter: "Neurology > Spinal Cord Lesions" },
+            { resource: "Pathoma", chapter: "Central Nervous System > Spinal Cord" },
+            { resource: "SketchyPath", chapter: "Neurology > Spinal Cord" }
         ]
     },
     mindmap: `
 ## Spinal Cord Syndromes
 
 ### Patterns
-*   **Central (Syrinx)**: Cape-like Pain/Temp. UE>LE.
-*   **Anterior (ASA)**: Motor/Pain Lost. DC Spared.
-*   **Posterior (Tabes)**: Vibe/Prop Lost. Stomping. Syphilis.
-*   **Posterolateral (B12)**: DC + CST. Subacute Combined.
-*   **Hemicord (Brown-Sequard)**:
-    *   Ipsi: Motor, Prop.
-    *   Contra: Pain/Temp.
+* **Central (Syrinx)**: Cape-like Pain/Temp. UE>LE.
+* **Anterior (ASA)**: Motor/Pain Lost. DC Spared.
+* **Posterior (Tabes)**: Vibe/Prop Lost. Stomping. Syphilis.
+* **Posterolateral (B12)**: DC + CST. Subacute Combined.
+* **Hemicord (Brown-Sequard)**:
+    * **  Ipsi**: Motor, Prop.
+    * **  Contra**: Pain/Temp.
 
 ### Peripherals
-*   **Radial**: Wrist Drop.
-*   **Median**: Carpal Tunnel.
-*   **Ulnar**: Claw Hand.
-*   **Peroneal**: Foot Drop.
+* **Radial**: Wrist Drop.
+* **Median**: Carpal Tunnel.
+* **Ulnar**: Claw Hand.
+* **Peroneal**: Foot Drop.
 
 ### Emergency
-*   **Cauda Equina**: Saddle anesthesia, Bowel/Bladder. Surgery!
+* **Cauda Equina**: Saddle anesthesia, Bowel/Bladder. Surgery!
 \`
 };
 

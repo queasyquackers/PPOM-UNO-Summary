@@ -7,26 +7,26 @@ export const L24_CONTENT = {
 **Session:** Lecture 24
 
 ## 1. Olfaction (Smell)
-*   **Receptors:** Bipolar neurons in olfactory epithelium.
-    *   *Turnover:* Every 7 days (stem cells).
-    *   *Receptors:* GPCRs.
-*   **Pathway:**
+* **Receptors**:** Bipolar neurons in olfactory epithelium.
+    * **  *Turnover**:* Every 7 days (stem cells).
+    * **  *Receptors**:* GPCRs.
+* **Pathway**:**
     1.  Olfactory Nerves (CN I) pass through **Cribriform Plate** of Ethmoid bone.
     2.  Synapse in **Glomeruli** of Olfactory Bulb.
     3.  **Mitral/Tufted Cells** (Second order) form Olfactory Tract.
     4.  Project directly to **Primary Olfactory Cortex (Piriform Cortex)**, Amygdala, Entorhinal Cortex.
-    *   *Note:* Olfaction is the **ONLY** sense that bypasses the Thalamus before reaching the cortex.
+    * **  *Note**:* Olfaction is the **ONLY** sense that bypasses the Thalamus before reaching the cortex.
 
 ## 2. Taste (Gustation)
-*   **Modalities:**
-    *   **Salty:** Na+ influx (Amiloride-sensitive channels).
-    *   **Sour:** H+ ions (Block K+ channels).
-    *   **Sweet/Bitter/Umami:** GPCRs (G-protein coupled).
-*   **Innervation:**
-    *   **Anterior 2/3:** CN VII (Facial - Chorda Tympani).
-    *   **Posterior 1/3:** CN IX (Glossopharyngeal).
-    *   **Epiglottis/Pharynx:** CN X (Vagus).
-*   **Pathway:**
+* **Modalities**:**
+    * **Salty**:** Na+ influx (Amiloride-sensitive channels).
+    * **Sour**:** H+ ions (Block K+ channels).
+    * **Sweet/Bitter/Umami**:** GPCRs (G-protein coupled).
+* **Innervation**:**
+    * **Anterior 2/3**:** CN VII (Facial - Chorda Tympani).
+    * **Posterior 1/3**:** CN IX (Glossopharyngeal).
+    * **Epiglottis/Pharynx**:** CN X (Vagus).
+* **Pathway**:**
     1.  Nerves project to **Nucleus Tractus Solitarius (NTS)** in Medulla.
     2.  Project to **VPM** of Thalamus.
     3.  Project to **Gustatory Cortex** (Insula/Frontal Operculum).
@@ -34,14 +34,14 @@ export const L24_CONTENT = {
 ## 3. Clinical Correlates
 :::correlate
 **Kallmann Syndrome**
-*   **Triad:** Anosmia + Delayed Puberty (Hypogonadism).
-*   **Mechanism:** Failure of GnRH neurons to migrate from olfactory placode to hypothalamus.
+* **Triad**:** Anosmia + Delayed Puberty (Hypogonadism).
+* **Mechanism**:** Failure of GnRH neurons to migrate from olfactory placode to hypothalamus.
 :::
 
 :::correlate
 **Foster-Kennedy Syndrome**
-*   **Cause:** Meningioma of the Olfactory Groove.
-*   **Triad:**
+* **Cause**:** Meningioma of the Olfactory Groove.
+* **Triad**:**
     1.  **Ipsilateral Anosmia** (Tumor compresses olfactory tract).
     2.  **Ipsilateral Optic Atrophy** (Tumor compresses Optic Nerve).
     3.  **Contralateral Papilledema** (Increased intracranial pressure).
@@ -50,12 +50,12 @@ export const L24_CONTENT = {
 :::correlate
 **Uncinate Fits (Temporal Lobe Epilepsy)**
 *   Seizures originating in the **Uncus** (Medial Temporal Lobe).
-*   **Aura:** Hallucination of foul smells (**Cacosmia**).
+* **Aura**:** Hallucination of foul smells (**Cacosmia**).
 :::
 
 :::correlate
 **Neurodegenerative Diseases**
-*   **Parkinson's / Alzheimer's:** **Hyposmia** (decreased smell) is often the *earliest* clinical sign, appearing years before motor or cognitive symptoms.
+* **Parkinson's / Alzheimer's**:**Hyposmia** (decreased smell) is often the *earliest* clinical sign, appearing years before motor or cognitive symptoms.
 :::
 `,
     pearls: [
@@ -206,23 +206,23 @@ export const L24_CONTENT = {
 ## Olfaction & Taste
 
 ### Olfaction (CN I)
-*   **Receptors**: Bipolar (mucosa).
-*   **Pathway**: Bulb → Tract → **Piriform Cortex** (No Thalamus).
-*   **Pathology**:
-    *   **Kallmann**: Anosmia + Hypogonadism.
-    *   **Foster-Kennedy**: Meningioma. Ipsilateral Atrophy/Anosmia, Contralateral Papilledema.
-    *   **Uncinate Fit**: Seizure + Cacosmia.
-    *   **Parkinson's**: Early Hyposmia.
+* **Receptors**: Bipolar (mucosa).
+* **Pathway**: Bulb → Tract → **Piriform Cortex** (No Thalamus).
+* **Pathology**:
+    * **Kallmann**: Anosmia + Hypogonadism.
+    * **Foster-Kennedy**: Meningioma. Ipsilateral Atrophy/Anosmia, Contralateral Papilledema.
+    * **Uncinate Fit**: Seizure + Cacosmia.
+    * **Parkinson's**: Early Hyposmia.
 
 ### Taste
-*   **Nerves**:
-    *   Ant 2/3: **CN VII**
-    *   Post 1/3: **CN IX**
-    *   Throat: **CN X**
-*   **Pathway**: NTS → VPM (Thalamus) → Insula.
-*   **Sensation**:
-    *   Ion Channels: Salty/Sour.
-    *   GPCR: Sweet/Bitter/Umami.
+* **Nerves**:
+    * **  Ant 2/3**: **CN VII**
+    * **  Post 1/3**: **CN IX**
+    * **  Throat**: **CN X**
+* **Pathway**: NTS → VPM (Thalamus) → Insula.
+* **Sensation**:
+    * **  Ion Channels**: Salty/Sour.
+    * **  GPCR**: Sweet/Bitter/Umami.
 \`
 };
 

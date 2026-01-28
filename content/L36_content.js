@@ -7,53 +7,53 @@ export const L36_CONTENT = {
 **Session:** Lecture 36
 
 ## 1. CN V (Trigeminal)
-*   **Sensory (Face):**
-    *   **Mesencephalic Nucleus:** Proprioception (Jaw jerk).
-    *   **Principal (Pontine) Nucleus:** Discriminative Touch (Face).
-    *   **Spinal Trigeminal Nucleus:** **Pain & Temperature** (Face). (Extends down to C-spine).
-*   **Motor (V3):** Muscles of Mastication (Temporalis, Masseter, Pterygoids).
-*   **Clinical:**
-    *   *Trigeminal Neuralgia:* "Suicide disease". Sharp shooting pain.
-    *   *Corneal Reflex:* Afferent V1 (Ophthalmic) → Efferent VII (Facial).
+* **Sensory (Face)**:**
+    * **Mesencephalic Nucleus**:** Proprioception (Jaw jerk).
+    * **Principal (Pontine) Nucleus**:** Discriminative Touch (Face).
+    * **Spinal Trigeminal Nucleus**:**Pain & Temperature** (Face). (Extends down to C-spine).
+* **Motor (V3)**:** Muscles of Mastication (Temporalis, Masseter, Pterygoids).
+* **Clinical**:**
+    * **  *Trigeminal Neuralgia**:* "Suicide disease". Sharp shooting pain.
+    * **  *Corneal Reflex**:* Afferent V1 (Ophthalmic) → Efferent VII (Facial).
 
 ## 2. CN VII (Facial)
-*   **Motor:** Muscles of Facial Expression, Stapedius (dampens sound), Stylohyoid, Digastric (Post).
-*   **Parasympathetic:** Superior Salivatory Nucleus → Lacrimal (Tears), Submandibular/Sublingual (Saliva).
-*   **Sensory:** Taste Anterior 2/3 of Tongue.
-*   **Clinical:**
-    *   **Bell's Palsy (LMN):** Ipsilateral paralysis of **ENTIRE** face (Forehead involved). Hyperacusis, Loss of taste.
-    *   **UMN Lesion (Stroke):** Contralateral paralysis of LOWER face only (**Forehead Spared** due to bilateral innervation).
+* **Motor**:** Muscles of Facial Expression, Stapedius (dampens sound), Stylohyoid, Digastric (Post).
+* **Parasympathetic**:** Superior Salivatory Nucleus → Lacrimal (Tears), Submandibular/Sublingual (Saliva).
+* **Sensory**:** Taste Anterior 2/3 of Tongue.
+* **Clinical**:**
+    * **Bell's Palsy (LMN)**:** Ipsilateral paralysis of **ENTIRE** face (Forehead involved). Hyperacusis, Loss of taste.
+    * **UMN Lesion (Stroke)**:** Contralateral paralysis of LOWER face only (**Forehead Spared** due to bilateral innervation).
 
 ## 3. CN IX (Glossopharyngeal) & CN X (Vagus)
-*   **CN IX:**
-    *   *Sensory:* Post 1/3 Tongue (Taste/Feel), Carotid Body/Sinus.
-    *   *Motor:* Stylopharyngeus.
-    *   *Reflex:* **Gag Reflex (Afferent)**.
-*   **CN X:**
-    *   *Motor:* Nucleus Ambiguus → Pharynx/Larynx/Palate.
-    *   *Visceral:* Dorsal Motor Nucleus → GI/Heart (Parasymp).
-    *   *Reflex:* **Gag Reflex (Efferent)**.
-    *   *Lesion:* **Uvula deviates AWAY** from lesion. Hoarseness.
+* **CN IX**:**
+    * **  *Sensory**:* Post 1/3 Tongue (Taste/Feel), Carotid Body/Sinus.
+    * **  *Motor**:* Stylopharyngeus.
+    * **  *Reflex**:* **Gag Reflex (Afferent)**.
+* **CN X**:**
+    * **  *Motor**:* Nucleus Ambiguus → Pharynx/Larynx/Palate.
+    * **  *Visceral**:* Dorsal Motor Nucleus → GI/Heart (Parasymp).
+    * **  *Reflex**:* **Gag Reflex (Efferent)**.
+    * **  *Lesion**:* **Uvula deviates AWAY** from lesion. Hoarseness.
 
 ## 4. CN XI (Accessory) & CN XII (Hypoglossal)
-*   **CN XI:** Trapezius (Shrug), SCM (Turn head). *Lesion:* Shoulder droop, cannot turn head away from lesion.
-*   **CN XII:** Tongue muscles. *Lesion:* **Tongue deviates TOWARD** lesion ("Lick your wounds").
+* **CN XI**:** Trapezius (Shrug), SCM (Turn head). *Lesion:* Shoulder droop, cannot turn head away from lesion.
+* **CN XII**:** Tongue muscles. *Lesion:* **Tongue deviates TOWARD** lesion ("Lick your wounds").
 
 ## 5. Brainstem Syndromes
-*   **Lateral Medullary (Wallenberg) Syndrome:**
-    *   *Artery:* **PICA** (Posterior Inferior Cerebellar Artery).
-    *   *Nuclei:*
-        *   **Ambiguus:** Dysphagia, Hoarseness.
-        *   **Vestibular:** Vertigo, Nystagmus.
-        *   **Spinal V:** Ipsilateral Facial Pain/Temp loss.
-        *   **Spinothalamic:** Contralateral Body Pain/Temp loss.
-        *   **Sympathetic:** Ipsilateral Horner's Syndrome.
-*   **Medial Medullary Syndrome:**
-    *   *Artery:* **ASA** (Anterior Spinal Artery).
-    *   *Nuclei:*
-        *   **Hypoglossal (XII):** Tongue deviates to lesion.
-        *   **Corticospinal Tract:** Contralateral Hemiparesis.
-        *   **Medial Lemniscus:** Contralateral Proprioception/Vibration loss.
+* **Lateral Medullary (Wallenberg) Syndrome**:**
+    * **  *Artery**:* **PICA** (Posterior Inferior Cerebellar Artery).
+    * **  *Nuclei**:*
+        * **Ambiguus**:** Dysphagia, Hoarseness.
+        * **Vestibular**:** Vertigo, Nystagmus.
+        * **Spinal V**:** Ipsilateral Facial Pain/Temp loss.
+        * **Spinothalamic**:** Contralateral Body Pain/Temp loss.
+        * **Sympathetic**:** Ipsilateral Horner's Syndrome.
+* **Medial Medullary Syndrome**:**
+    * **  *Artery**:* **ASA** (Anterior Spinal Artery).
+    * **  *Nuclei**:*
+        * **Hypoglossal (XII)**:** Tongue deviates to lesion.
+        * **Corticospinal Tract**:** Contralateral Hemiparesis.
+        * **Medial Lemniscus**:** Contralateral Proprioception/Vibration loss.
 `,
     pearls: [
         {
@@ -192,23 +192,23 @@ export const L36_CONTENT = {
 ## Cranial Nerves V, VII-XII
 
 ### V (Trigeminal)
-*   **Sensory**: Face (V1,2,3).
-*   **Motor**: Mastication (V3).
-*   **Path**: Neuralgia, Corneal Reflex (In).
+* **Sensory**: Face (V1,2,3).
+* **Motor**: Mastication (V3).
+* **Path**: Neuralgia, Corneal Reflex (In).
 
 ### VII (Facial)
-*   **Motor**: Face (Bell's vs Stroke).
-*   **Parasymp**: Tears/Saliva.
-*   **Sensory**: Taste Ant 2/3.
+* **Motor**: Face (Bell's vs Stroke).
+* **Parasymp**: Tears/Saliva.
+* **Sensory**: Taste Ant 2/3.
 
 ### Bulbar Group (IX, X, XII)
-*   **IX**: Sensory Post 1/3. Gag (In).
-*   **X**: Ambiguus (Swallow/Talk). Uvula (Away). Gag (Out).
-*   **XII**: Tongue (Toward).
+* **IX**: Sensory Post 1/3. Gag (In).
+* **X**: Ambiguus (Swallow/Talk). Uvula (Away). Gag (Out).
+* **XII**: Tongue (Toward).
 
 ### Syndromes
-*   **Lateral Medullary (PICA)**: Ambiguus (Dysphagia), Vestibular, Crossed Pain/Temp.
-*   **Medial Medullary (ASA)**: Tongue (XII), CST, ML.
+* **Lateral Medullary (PICA)**: Ambiguus (Dysphagia), Vestibular, Crossed Pain/Temp.
+* **Medial Medullary (ASA)**: Tongue (XII), CST, ML.
 \`
 };
 

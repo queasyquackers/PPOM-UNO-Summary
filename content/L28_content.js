@@ -7,43 +7,43 @@ export const L28_CONTENT = {
 **Session:** Lecture 28
 
 ## 1. Frontal Lobe & Executive Function
-*   **Functions:** Planning, Inhibition, Personality, "Filter" (Social norms).
-*   **Pathology:**
-    *   **Frontotemporal Dementia (Pick's Disease):**
-        *   *Gene:* **MAPT** mutation (Tau protein).
-        *   *Symptoms:* **Disinhibition**, Apathy, Personality changes (e.g., gambling, rude comments), early onset (45-65y).
-        *   *Classic Case:* Phineas Gage (Iron rod through frontal lobe).
-    *   **Frontal Eye Fields (Area 8):** Controls biological/voluntary **saccades** (rapid eye movements) to contralateral side.
+* **Functions**:** Planning, Inhibition, Personality, "Filter" (Social norms).
+* **Pathology**:**
+    * **Frontotemporal Dementia (Pick's Disease)**:**
+        * **  *Gene**:* **MAPT** mutation (Tau protein).
+        * **  *Symptoms**:* **Disinhibition**, Apathy, Personality changes (e.g., gambling, rude comments), early onset (45-65y).
+        * **  *Classic Case**:* Phineas Gage (Iron rod through frontal lobe).
+    * **Frontal Eye Fields (Area 8)**:** Controls biological/voluntary **saccades** (rapid eye movements) to contralateral side.
 
 ## 2. Parietal Lobe & Attention
-*   **Right Parietal Lobe (Non-Dominant):**
-    *   *Function:* Spatial attention to BOTH sides of the world.
-    *   *Lesion (Right MCA Stroke):* **Hemispatial Neglect**. Patient interacts *only* with the Right side (eats half plate, draws half clock).
-*   **Left Parietal Lobe (Dominant - Angular Gyrus):**
-    *   *Lesion:* **Gerstmann Syndrome**.
-    *   *Tetrad:*
+* **Right Parietal Lobe (Non-Dominant)**:**
+    * **  *Function**:* Spatial attention to BOTH sides of the world.
+    * **  *Lesion (Right MCA Stroke)**:* **Hemispatial Neglect**. Patient interacts *only* with the Right side (eats half plate, draws half clock).
+* **Left Parietal Lobe (Dominant - Angular Gyrus)**:**
+    * **  *Lesion**:* **Gerstmann Syndrome**.
+    * **  *Tetrad**:*
         1.  **Agraphia** (Can't write).
         2.  **Acalculia** (Can't do math).
         3.  **Finger Agnosia** (Can't ID fingers).
         4.  **Left-Right Disorientation**.
 
 ## 3. Temporal Lobe & Recognition
-*   **Fusiform Face Area (FFA):** Inferior temporal gyrus.
-    *   *Function:* Facial recognition.
-    *   *Lesion:* **Prosopagnosia** (Face Blindness).
-*   **Medial Temporal Lobe (MTL):** Hippocampus/Memory.
-    *   *Alzheimer's:* Tau tangles, Amyloid plaques. Atrophy of MTL.
+* **Fusiform Face Area (FFA)**:** Inferior temporal gyrus.
+    * **  *Function**:* Facial recognition.
+    * **  *Lesion**:* **Prosopagnosia** (Face Blindness).
+* **Medial Temporal Lobe (MTL)**:** Hippocampus/Memory.
+    * **  *Alzheimer's**:* Tau tangles, Amyloid plaques. Atrophy of MTL.
 
 ## 4. Insula & Cingulate
-*   **Insula:** Buried deep in lateral sulcus.
-    *   *Functions:* **Gustatory** (Taste), Interoception (feeling inside body), **Disgust**, Addiction/Craving (Urge to smoke).
-    *   *Stimulation:* Elicits taste sensations (or disgust).
-*   **Cingulate Gyrus:** Part of Limbic System.
-    *   *Cingulotomy:* Surgical lesioning used for intractable **Chronic Pain** or severe **OCD**.
+* **Insula**:** Buried deep in lateral sulcus.
+    * **  *Functions**:* **Gustatory** (Taste), Interoception (feeling inside body), **Disgust**, Addiction/Craving (Urge to smoke).
+    * **  *Stimulation**:* Elicits taste sensations (or disgust).
+* **Cingulate Gyrus**:** Part of Limbic System.
+    * **  *Cingulotomy**:* Surgical lesioning used for intractable **Chronic Pain** or severe **OCD**.
 
 ## 5. Histology Highlights
-*   **Betz Cells:** Giant pyramidal cells in Layer 5 of Primary Motor Cortex (Output to Corticospinal tract).
-*   **Cytoarchitecture:** Neocortex has 6 layers. Layer 4 = Input (Sensory), Layer 5 = Output (Motor).
+* **Betz Cells**:** Giant pyramidal cells in Layer 5 of Primary Motor Cortex (Output to Corticospinal tract).
+* **Cytoarchitecture**:** Neocortex has 6 layers. Layer 4 = Input (Sensory), Layer 5 = Output (Motor).
 `,
     pearls: [
         {
@@ -193,20 +193,20 @@ export const L28_CONTENT = {
 ## Neocortex Physiology
 
 ### Frontal Lobe
-*   **Executive**: Planning, Personality.
-*   **Field 8**: Eye saccades.
-*   **Pathology**: **FTD (Pick's)** → Disinhibition (MAPT).
+* **Executive**: Planning, Personality.
+* **Field 8**: Eye saccades.
+* **Pathology**: **FTD (Pick's)** → Disinhibition (MAPT).
 
 ### Parietal Lobe
-*   **Right (Non-Dom)**: Attention. Lesion: **Neglect**.
-*   **Left (Dom)**: Angular Gyrus. Lesion: **Gerstmann** (Math, Writing, L-R, Finger).
+* **Right (Non-Dom)**: Attention. Lesion: **Neglect**.
+* **Left (Dom)**: Angular Gyrus. Lesion: **Gerstmann** (Math, Writing, L-R, Finger).
 
 ### Temporal Lobe
-*   **Fusiform Area**: Faces. Lesion: **Prosopagnosia**.
-*   **Medial (MTL)**: Memory (Alzheimer's).
+* **Fusiform Area**: Faces. Lesion: **Prosopagnosia**.
+* **Medial (MTL)**: Memory (Alzheimer's).
 
 ### Insula
-*   **Visceral**: Taste, Disgust, Addiction.
+* **Visceral**: Taste, Disgust, Addiction.
 \`
 };
 

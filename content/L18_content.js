@@ -8,62 +8,62 @@ export const L18_CONTENT = {
 
 ## 1. Peripheral Anatomy (Slide 4-15)
 The Vestibular Labyrinth detects head motion via hair cells (mechanotransduction).
-*   **Otolith Organs (Utricle & Saccule):**
-    *   **Function:** Detect **Linear Acceleration** (e.g., gravity, elevator, car acceleration).
-    *   **Mechanism:** Hair cells embedded in **Macula** covered by **Otoconia** (crystals). Gravity pulls crystals → bends hairs.
-    *   *Mnemonic:* **U**tricle = **U**pright (Horizontal plane). **S**accule = **S**ideways (Vertical plane).
+* **Otolith Organs (Utricle & Saccule)**:**
+    * **Function**:** Detect **Linear Acceleration** (e.g., gravity, elevator, car acceleration).
+    * **Mechanism**:** Hair cells embedded in **Macula** covered by **Otoconia** (crystals). Gravity pulls crystals → bends hairs.
+    * **  *Mnemonic**:* **U**tricle = **U**pright (Horizontal plane). **S**accule = **S**ideways (Vertical plane).
 *   **Semicircular Canals (Anterior, Posterior, Horizontal):**
-    *   **Function:** Detect **Angular (Rotational) Acceleration** (head turning).
-    *   **Mechanism:** **Crista Ampullaris** covered by **Cupula** (gelatin).
-    *   *Fluid Dynamics:* When head turns Left, Endolymph lags (moves Right) → bends Cupula.
+    * **Function**:** Detect **Angular (Rotational) Acceleration** (head turning).
+    * **Mechanism**:**Crista Ampullaris** covered by **Cupula** (gelatin).
+    * **  *Fluid Dynamics**:* When head turns Left, Endolymph lags (moves Right) → bends Cupula.
 
 ## 2. Vestibular Pathways & Reflexes (Slide 16-20)
-*   **Vestibulo-Ocular Reflex (VOR):** Stabilizes gaze during head movement.
-    *   *Path:* Head Left → Left SCC active → Vestibular Nuclei → Right CN VI (Abd) & Left CN III (MR) → Eyes move **Right**.
-*   **Vestibulo-Spinal Tracts:**
-    *   *Lateral:* Extensor muscles (Anti-gravity/Balance).
-    *   *Medial:* Neck muscles (Head stabilization).
+* **Vestibulo-Ocular Reflex (VOR)**:** Stabilizes gaze during head movement.
+    * **  *Path**:* Head Left → Left SCC active → Vestibular Nuclei → Right CN VI (Abd) & Left CN III (MR) → Eyes move **Right**.
+* **Vestibulo-Spinal Tracts**:**
+    * **  *Lateral**:* Extensor muscles (Anti-gravity/Balance).
+    * **  *Medial**:* Neck muscles (Head stabilization).
 
 ## 3. Peripheral Vertigo Disorders (Slide 26-30)
 
 :::correlate
 **Benign Paroxysmal Positional Vertigo (BPPV)**
-*   **Mechanism:** Otoconia (crystals) dislodge from Utricle and float into a **Semicircular Canal** (usually Posterior).
-*   **Presentation:** **Brief (<1 min)** episodes of severe vertigo triggered by **Head Position** changes (rolling over in bed).
-*   **Diagnosis:** **Dix-Hallpike Maneuver** elicits nystagmus.
-*   **Treatment:** **Epley Maneuver** (repositions crystals).
+* **Mechanism**:** Otoconia (crystals) dislodge from Utricle and float into a **Semicircular Canal** (usually Posterior).
+* **Presentation**:**Brief (<1 min)** episodes of severe vertigo triggered by **Head Position** changes (rolling over in bed).
+* **Diagnosis**:**Dix-Hallpike Maneuver** elicits nystagmus.
+* **Treatment**:**Epley Maneuver** (repositions crystals).
 :::
 
 :::correlate
 **Meniere's Disease**
-*   **Mechanism:** **Endolymphatic Hydrops** (Excess fluid pressure).
-*   **Presentation:** **Triad** of Episodic Vertigo (mins-hours) + **Tinnitus** + **Sensorineural Hearing Loss**.
-*   **Treatment:** Low salt diet, Diuretics.
+* **Mechanism**:**Endolymphatic Hydrops** (Excess fluid pressure).
+* **Presentation**:**Triad** of Episodic Vertigo (mins-hours) + **Tinnitus** + **Sensorineural Hearing Loss**.
+* **Treatment**:** Low salt diet, Diuretics.
 :::
 
 :::correlate
 **Labyrinthitis**
-*   **Mechanism:** Inflammation/Infection of the inner ear.
-*   **Presentation:** Continuous severe vertigo + Hearing Loss + Nausea. Often follows a viral infection.
+* **Mechanism**:** Inflammation/Infection of the inner ear.
+* **Presentation**:** Continuous severe vertigo + Hearing Loss + Nausea. Often follows a viral infection.
 :::
 
 ## 4. Central Vertigo Disorders (Slide 31-34)
 
 :::correlate
 **Wallenberg Syndrome (Lateral Medullary Syndrome)**
-*   **Pathology:** Infarct of **PICA** (Posterior Inferior Cerebellar Artery).
-*   **Signs:**
-    *   **Vestibular Nuclei:** Vertigo, Nystagmus.
-    *   **Nucleus Ambiguus:** dysphagia, hoarseness.
-    *   **Spinothalamic Tract:** **Contralateral** loss of Pain/Temp (Body).
-    *   **Spinal Trigeminal:** **Ipsilateral** loss of Pain/Temp (Face).
-    *   **Sympathetic:** **Ipsilateral Horner's Syndrome** (Ptosis, Miosis, Anhidrosis).
+* **Pathology**:** Infarct of **PICA** (Posterior Inferior Cerebellar Artery).
+* **Signs**:**
+    * **Vestibular Nuclei**:** Vertigo, Nystagmus.
+    * **Nucleus Ambiguus**:** dysphagia, hoarseness.
+    * **Spinothalamic Tract**:**Contralateral** loss of Pain/Temp (Body).
+    * **Spinal Trigeminal**:**Ipsilateral** loss of Pain/Temp (Face).
+    * **Sympathetic**:**Ipsilateral Horner's Syndrome** (Ptosis, Miosis, Anhidrosis).
 :::
 
 :::mnemonic
 **Peripheral vs Central Vertigo**
-*   **Peripheral:** **Severe** vertigo, **Hearing Loss** common, **Fatigable** nystagmus. (BPPV, Meniere's).
-*   **Central:** **Mild** vertigo, **No Hearing Loss** (usually), **Non-fatigable** nystagmus, **CNS signs** (Ataxia, Dysphagia). (Stroke, MS).
+* **Peripheral**:**Severe** vertigo, **Hearing Loss** common, **Fatigable** nystagmus. (BPPV, Meniere's).
+* **Central**:**Mild** vertigo, **No Hearing Loss** (usually), **Non-fatigable** nystagmus, **CNS signs** (Ataxia, Dysphagia). (Stroke, MS).
 :::
 `,
     pearls: [
@@ -214,21 +214,21 @@ The Vestibular Labyrinth detects head motion via hair cells (mechanotransduction
 ## Vestibular System
 
 ### Peripheral Anatomy
-*   **Otoliths** (Utricle/Saccule): Linear Accel, Gravity, Otoconia
-*   **Semicircular Canals**: Angular Accel, Cupula
+* **Otoliths** (Utricle/Saccule)**: Linear Accel, Gravity, Otoconia
+* **Semicircular Canals**: Angular Accel, Cupula
 
 ### Disorders
 *   **Peripheral**
-    *   **BPPV**: Loose Otoconia, Positional, Epley
-    *   **Meniere's**: Hydrops, Triad (Vertigo/Tinnitus/HL)
-    *   **Labyrinthitis**: Infection
-    *   **Acoustic Neuroma**: CN VIII Tumor
+    * **BPPV**: Loose Otoconia, Positional, Epley
+    * **Meniere's**: Hydrops, Triad (Vertigo/Tinnitus/HL)
+    * **Labyrinthitis**: Infection
+    * **Acoustic Neuroma**: CN VIII Tumor
 *   **Central**
-    *   **Wallenberg (PICA)**: Dysphagia, Horner's, Crossed Sensory
+    * **Wallenberg (PICA)**: Dysphagia, Horner's, Crossed Sensory
 
 ### Reflexes
-*   **VOR**: Gaze stabilization
-*   **Vestibulospinal**: Posture/Balance
+* **VOR**: Gaze stabilization
+* **Vestibulospinal**: Posture/Balance
 \`
 };
 

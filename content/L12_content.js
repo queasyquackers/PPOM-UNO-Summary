@@ -11,55 +11,55 @@ export const L12_CONTENT = {
 The Thalamus is the "Gateway to the Cortex". Most sensory information (except olfaction) must synapse here before reaching the cortex.
 
 ### Relay Nuclei (Specific)
-*   **VPL (Ventral Posterolateral):**
-    *   **Input:** DCML and Spinothalamic Tract (Body).
-    *   **Output:** Somatosensory Cortex (Postcentral Gyrus).
-    *   **Function:** Vibration, Proprioception, Pain, Temp from **Body**.
-*   **VPM (Ventral Posteromedial):**
-    *   **Input:** Trigeminal (Face) and Gustatory (Solitary).
-    *   **Output:** Somatosensory Cortex.
-    *   **Function:** Sensation from **Face** + **Taste**.
-*   **LGN (Lateral Geniculate Nucleus):**
-    *   **Input:** Optic Tract.
-    *   **Output:** Visual Cortex (V1).
-    *   **Function:** **Vision** ("**L**ight").
-*   **MGN (Medial Geniculate Nucleus):**
-    *   **Input:** Inferior Colliculus.
-    *   **Output:** Auditory Cortex.
-    *   **Function:** **Hearing** ("**M**usic").
-*   **VA/VL (Ventral Anterior/Lateral):**
-    *   **Input:** Basal Ganglia and Cerebellum.
-    *   **Output:** Motor Cortex.
-    *   **Function:** Motor planning and coordination.
-*   **Anterior Nucleus:**
-    *   **Input:** Mammillothalamic Tract.
-    *   **Output:** Cingulate Gyrus.
-    *   **Function:** Memory and Emotion (Papez Circuit).
+* **VPL (Ventral Posterolateral)**:**
+    * **Input**:** DCML and Spinothalamic Tract (Body).
+    * **Output**:** Somatosensory Cortex (Postcentral Gyrus).
+    * **Function**:** Vibration, Proprioception, Pain, Temp from **Body**.
+* **VPM (Ventral Posteromedial)**:**
+    * **Input**:** Trigeminal (Face) and Gustatory (Solitary).
+    * **Output**:** Somatosensory Cortex.
+    * **Function**:** Sensation from **Face** + **Taste**.
+* **LGN (Lateral Geniculate Nucleus)**:**
+    * **Input**:** Optic Tract.
+    * **Output**:** Visual Cortex (V1).
+    * **Function**:**Vision** ("**L**ight").
+* **MGN (Medial Geniculate Nucleus)**:**
+    * **Input**:** Inferior Colliculus.
+    * **Output**:** Auditory Cortex.
+    * **Function**:**Hearing** ("**M**usic").
+* **VA/VL (Ventral Anterior/Lateral)**:**
+    * **Input**:** Basal Ganglia and Cerebellum.
+    * **Output**:** Motor Cortex.
+    * **Function**:** Motor planning and coordination.
+* **Anterior Nucleus**:**
+    * **Input**:** Mammillothalamic Tract.
+    * **Output**:** Cingulate Gyrus.
+    * **Function**:** Memory and Emotion (Papez Circuit).
 
 ## 2. Thalamocortical States (Slide 23-26)
-*   **Tonic Mode:** Linear transmission. High fidelity. **Awake** state (depolarized by ARAS: NE, ACh, 5-HT, Histamine).
-*   **Burst Mode:** Oscillatory. Low fidelity. **Sleep** state (hyperpolarized). Blocks sensory input preventing waking. Absence Seizures occur in this mode.
+* **Tonic Mode**:** Linear transmission. High fidelity. **Awake** state (depolarized by ARAS: NE, ACh, 5-HT, Histamine).
+* **Burst Mode**:** Oscillatory. Low fidelity. **Sleep** state (hyperpolarized). Blocks sensory input preventing waking. Absence Seizures occur in this mode.
 
 ## 3. Internal Capsule (Slide 35-39)
 White matter highway carrying fibers to/from cortex.
-*   **Anterior Limb:** Thalamocortical fibers (Anterior/DM).
-*   **Genu:** **Corticobulbar Tract** (Motor to face/brainstem).
-*   **Posterior Limb:**
+* **Anterior Limb**:** Thalamocortical fibers (Anterior/DM).
+* **Genu**:**Corticobulbar Tract** (Motor to face/brainstem).
+* **Posterior Limb**:**
     *   **Corticospinal Tract** (Motor to body).
     *   **Somatosensory Radiations** (VPL/VPM to Cortex).
     *   **Visual/Auditory Radiations** (Retrolenticular/Sublenticular).
-*   **Blood Supply:** Primarily **MCA** (Lenticulostriate) and **Anterior Choroidal**. Thalamus is **PCA**.
+* **Blood Supply**:** Primarily **MCA** (Lenticulostriate) and **Anterior Choroidal**. Thalamus is **PCA**.
 
 ## 4. Clinical Syndromes (Slide 29-32)
 
 ### Dejerine-Roussy Syndrome (Thalamic Pain Syndrome)
-*   **Cause:** Stroke (PCA) damaging VPL/VPM.
-*   **Presentation:** Contralateral hemianesthesia followed by agonizing, burning pain (**Allodynia**) induced by touch or even emotion.
+* **Cause**:** Stroke (PCA) damaging VPL/VPM.
+* **Presentation**:** Contralateral hemianesthesia followed by agonizing, burning pain (**Allodynia**) induced by touch or even emotion.
 
 ### Artery of Percheron Infarct
-*   **Variant:** Single artery arising from PCA supplying **Bilateral** paramedian thalamus + midbrain.
-*   **Stroke:** Bilateral thalamic infarct.
-*   **Presentation:** Coma (RAS damage), Memory loss, Vertical gaze palsy.
+* **Variant**:** Single artery arising from PCA supplying **Bilateral** paramedian thalamus + midbrain.
+* **Stroke**:** Bilateral thalamic infarct.
+* **Presentation**:** Coma (RAS damage), Memory loss, Vertical gaze palsy.
 `,
     pearls: [
         {
@@ -210,21 +210,21 @@ White matter highway carrying fibers to/from cortex.
 
 ### Relay Nuclei
 *   **Sensory**
-    *   **VPL**: Body (STT/DCML)
-    *   **VPM**: Face (Trigeminal/Taste)
-    *   **LGN**: Vision
-    *   **MGN**: Hearing
-*   **Motor**: VA/VL (BG/Cerebellum)
-*   **Limbic**: Anterior (Mammillary Bodies)
+    * **VPL**: Body (STT/DCML)
+    * **VPM**: Face (Trigeminal/Taste)
+    * **LGN**: Vision
+    * **MGN**: Hearing
+* **Motor**: VA/VL (BG/Cerebellum)
+* **Limbic**: Anterior (Mammillary Bodies)
 
 ### Internal Capsule
-*   **Genu**: Corticobulbar
-*   **Posterior Limb**: Corticospinal + Sensory
+* **Genu**: Corticobulbar
+* **Posterior Limb**: Corticospinal + Sensory
 
 ### Clinical
-*   **Dejerine-Roussy**: Central Pain Syndrome
-*   **Stroke**: PCA
-*   **Sleep**: Burst Mode (Spindles)
+* **Dejerine-Roussy**: Central Pain Syndrome
+* **Stroke**: PCA
+* **Sleep**: Burst Mode (Spindles)
 \`
 };
 

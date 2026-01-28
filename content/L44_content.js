@@ -7,50 +7,56 @@ export const L44_CONTENT = {
 **Session:** Lecture 44
 
 ## 1. The Red Eye
-*   **Conjunctivitis:**
-    *   *Viral (Pink Eye):* **Watery** discharge. Adenovirus. Highly contagious.
-    *   *Bacterial:* **Purulent** (pus) discharge. "Glued shut" in AM.
-    *   *Allergic:* **Itching** (Pruritus). Bilateral.
-*   **Acute Angle Closure Glaucoma:**
-    *   *Presentation:* Severe eye pain, Headache, Nausea/Vomiting, **Haloes around lights**.
-    *   *Exam:* **Mid-dilated, fixed pupil**. Cloudy cornea. High IOP. **Emergency**.
-*   **Uveitis (Iritis):**
-    *   *Presentation:* Deep pain, **Photophobia** (Light sensitivity), Redness.
-    *   *Exam:* **Cells and Flare** in anterior chamber. Irregular pupil (Synechiae).
-    *   *Association:* Autoimmune (HLA-B27, Sarcoidosis).
-*   **Scleritis:**
-    *   *Presentation:* Deep, "boring" pain. Wakes patient at night.
-    *   *Association:* Rheumatoid Arthritis.
+The "Red Eye" is a common chief complaint that requires distinguishing between benign conditions (like conjunctivitis) and vision-threatening emergencies. The key to diagnosis often lies in the associated symptoms: discharge suggests an external surface issue, while deep pain, photophobia, or vision variability suggests intraocular pathology like Glaucoma or Uveitis.
+
+* **Conjunctivitis**:**
+    * **  *Viral (Pink Eye)**:* **Watery** discharge. Adenovirus. Highly contagious.
+    * **  *Bacterial**:* **Purulent** (pus) discharge. "Glued shut" in AM.
+    * **  *Allergic**:* **Itching** (Pruritus). Bilateral.
+* **Acute Angle Closure Glaucoma**:**
+    * **  *Presentation**:* Severe eye pain, Headache, Nausea/Vomiting, **Haloes around lights**.
+    * **  *Exam**:* **Mid-dilated, fixed pupil**. Cloudy cornea. High IOP. **Emergency**.
+* **Uveitis (Iritis)**:**
+    * **  *Presentation**:* Deep pain, **Photophobia** (Light sensitivity), Redness.
+    * **  *Exam**:* **Cells and Flare** in anterior chamber. Irregular pupil (Synechiae).
+    * **  *Association**:* Autoimmune (HLA-B27, Sarcoidosis).
+* **Scleritis**:**
+    * **  *Presentation**:* Deep, "boring" pain. Wakes patient at night.
+    * **  *Association**:* Rheumatoid Arthritis.
 
 ## 2. Neuro-Ophthalmology (Pupils)
-*   **Horner's Syndrome:**
-    *   *Triad:* **Ptosis** (Droopy lid), **Miosis** (Small pupil), **Anhidrosis** (No sweat).
-    *   *Cause:* Sympathetic pathway lesion (Pancoast tumor, Carotid dissection).
-*   **CN III Palsy:**
-    *   *Presentation:* Eye is **"Down and Out"**. Ptosis.
-    *   *Pupil:* If **Dilated** ("Blown"), it's a **PCom Aneurysm** (Surgical Emergency). If pupil spared, it's Ischemic (Diabetes).
+The pupil exam is a critical window into the autonomic nervous system. The balance between sympathetic (dilation) and parasympathetic (constriction) drive determines pupil size. Asymmetries (Anisocoria) often point to life-threatening lesions along these long anatomic pathways, such as Pancoast tumors (Horner's) or Aneurysms (CN III).
+
+* **Horner's Syndrome**:**
+    * **  *Triad**:* **Ptosis** (Droopy lid), **Miosis** (Small pupil), **Anhidrosis** (No sweat).
+    * **  *Cause**:* Sympathetic pathway lesion (Pancoast tumor, Carotid dissection).
+* **CN III Palsy**:**
+    * **  *Presentation**:* Eye is **"Down and Out"**. Ptosis.
+    * **  *Pupil**:* If **Dilated** ("Blown"), it's a **PCom Aneurysm** (Surgical Emergency). If pupil spared, it's Ischemic (Diabetes).
 *   **Relative Afferent Pupillary Defect (RAPD) / Marcus Gunn Pupil:**
-    *   *Test:* Swinging Flashlight Test.
-    *   *Result:* Pupil appears to **Dilate** when light is swung to the bad eye (because it senses *less* light than the good eye).
-    *   *Cause:* Optic Nerve lesion (Optic Neuritis).
-*   **Argyll Robertson Pupil:**
-    *   *Sign:* Accommodates but does **not** react to light ("Prostitute's Pupil").
-    *   *Cause:* Neurosyphilis.
+    * **  *Test**:* Swinging Flashlight Test.
+    * **  *Result**:* Pupil appears to **Dilate** when light is swung to the bad eye (because it senses *less* light than the good eye).
+    * **  *Cause**:* Optic Nerve lesion (Optic Neuritis).
+* **Argyll Robertson Pupil**:**
+    * **  *Sign**:* Accommodates but does **not** react to light ("Prostitute's Pupil").
+    * **  *Cause**:* Neurosyphilis.
 
 ## 3. Retina & Optic Nerve
-*   **Retinal Detachment:**
-    *   *Symptoms:* **Flashes and Floaters**. "Curtain coming down" over vision.
-    *   *Tx:* Surgical Emergency.
-*   **Central Retinal Artery Occlusion (CRAO):**
-    *   *Sign:* **Cherry Red Spot** on macula. Pale retina. Sudden painless vision loss.
-    *   *Cause:* Embolus (Stroke of the eye).
-*   **Central Retinal Vein Occlusion (CRVO):**
-    *   *Sign:* **"Blood and Thunder"** (Diffuse hemorrhages).
-*   **Optic Neuritis:**
-    *   *Sign:* **Painful** vision loss. RAPD (+). Associated with **MS**.
-*   **Giant Cell Arteritis (Temporal Arteritis):**
-    *   *Sign:* Ischemic Optic Neuropathy (AION). Jaw claudication. Scalp tenderness. high ESR.
-    *   *Tx:* **High Dose Steroids** immediately to save the other eye.
+Diseases of the posterior segment can often be categorized by whether the vision loss is painful or painless. Vascular events (strokes of the eye) like CRAO and CRVO are typically sudden and painless. In contrast, inflammatory conditions like Optic Neuritis and Giant Cell Arteritis frequently present with pain and require immediate intervention to preserve sight.
+
+* **Retinal Detachment**:**
+    * **  *Symptoms**:* **Flashes and Floaters**. "Curtain coming down" over vision.
+    * **  *Tx**:* Surgical Emergency.
+* **Central Retinal Artery Occlusion (CRAO)**:**
+    * **  *Sign**:* **Cherry Red Spot** on macula. Pale retina. Sudden painless vision loss.
+    * **  *Cause**:* Embolus (Stroke of the eye).
+* **Central Retinal Vein Occlusion (CRVO)**:**
+    * **  *Sign**:* **"Blood and Thunder"** (Diffuse hemorrhages).
+* **Optic Neuritis**:**
+    * **  *Sign**:* **Painful** vision loss. RAPD (+). Associated with **MS**.
+* **Giant Cell Arteritis (Temporal Arteritis)**:**
+    * **  *Sign**:* Ischemic Optic Neuropathy (AION). Jaw claudication. Scalp tenderness. high ESR.
+    * **  *Tx**:* **High Dose Steroids** immediately to save the other eye.
 
 `,
     pearls: [
@@ -181,31 +187,32 @@ export const L44_CONTENT = {
     ],
     ankingResource: {
         primarySource: "AMBOSS",
-        chapter: "Ophthalmology > Red Eye",
+        chapter: "Ophthalmology > Red Eye / Retina",
         alternatives: [
-            { resource: "FirstAid", chapter: "Ophthalmology" }
+            { resource: "FirstAid", chapter: "Ophthalmology" },
+            { resource: "Pathoma", chapter: "Ophthalmology (if available)" }
         ]
     },
     mindmap: `
 ## Ophthalmology
 
 ### Red Eye
-*   **Conjunctivitis**: Viral (Watery), Bacterial (Pus), Allergic (Itch).
-*   **Glaucoma**: Pain, Haloes, Fixed Pupil. EMERGENCY.
-*   **Uveitis**: Photophobia, Autoimmune.
+* **Conjunctivitis**: Viral (Watery), Bacterial (Pus), Allergic (Itch).
+* **Glaucoma**: Pain, Haloes, Fixed Pupil. EMERGENCY.
+* **Uveitis**: Photophobia, Autoimmune.
 
 ### Vision Loss
-*   **Painful**: Optic Neuritis (MS).
-*   **Painless**:
-    *   **CRAO**: Cherry Red Spot.
-    *   **CRVO**: Blood & Thunder.
-    *   **Detachment**: Flashes/Floaters.
-    *   **AION**: Giant Cell Arteritis.
+* **Painful**: Optic Neuritis (MS).
+* **Painless**:
+    * **CRAO**: Cherry Red Spot.
+    * **CRVO**: Blood & Thunder.
+    * **Detachment**: Flashes/Floaters.
+    * **AION**: Giant Cell Arteritis.
 
 ### Pupils
-*   **Horner's**: Ptosis, Miosis, No sweat.
-*   **CN3 Palsy**: Down & Out, Dilated (Aneurysm).
-*   **RAPD**: Optic Nerve lesion.
+* **Horner's**: Ptosis, Miosis, No sweat.
+* **CN3 Palsy**: Down & Out, Dilated (Aneurysm).
+* **RAPD**: Optic Nerve lesion.
 \`
 };
 

@@ -7,44 +7,44 @@ export const L34_CONTENT = {
 **Session:** Lecture 34
 
 ## 1. Beta-2 Agonists (Lungs & Uterus)
-*   **SABA (Short-Acting):** **Albuterol**, Levalbuterol.
-    *   *Use:* Acute Asthma/COPD exacerbation ("Rescue").
-*   **LABA (Long-Acting):** **Salmeterol**, Formoterol.
-    *   *Use:* Chronic maintenance. Always combine with Steroids (ICS) in asthma to prevent mortality.
-*   **Tocolytics:** **Terbutaline**.
-    *   *Use:* Relaxes uterine smooth muscle to delay preterm labor (allows time for corticosteroids to mature fetal lungs).
+* **SABA (Short-Acting)**:**Albuterol**, Levalbuterol.
+    * **  *Use**:* Acute Asthma/COPD exacerbation ("Rescue").
+* **LABA (Long-Acting)**:**Salmeterol**, Formoterol.
+    * **  *Use**:* Chronic maintenance. Always combine with Steroids (ICS) in asthma to prevent mortality.
+* **Tocolytics**:**Terbutaline**.
+    * **  *Use**:* Relaxes uterine smooth muscle to delay preterm labor (allows time for corticosteroids to mature fetal lungs).
 
 ## 2. Beta-3 Agonists (Bladder)
-*   **Mirabegron:**
-    *   *Action:* Relaxes Detrusor muscle.
-    *   *Use:* Overactive Bladder (OAB). (Alternative to Anticholinergics).
+* **Mirabegron**:**
+    * **  *Action**:* Relaxes Detrusor muscle.
+    * **  *Use**:* Overactive Bladder (OAB). (Alternative to Anticholinergics).
 
 ## 3. Alpha-2 Agonists (Central Sympatholytics)
 Reduces sympathetic outflow from the brainstem.
-*   **Clonidine:**
-    *   *Uses:* Hypertension (resistant), **Opioid Withdrawal**, ADHD.
-    *   *Adverse:* Rebound Hypertension if stopped abruptly. dry mouth, sedation.
-*   **Methyldopa:**
-    *   *Use:* **Hypertension in Pregnancy** (Safe for fetus).
-    *   *Adverse:* **Coombs+ Hemolytic Anemia** (Autoimmune), Drug-induced Lupus.
+* **Clonidine**:**
+    * **  *Uses**:* Hypertension (resistant), **Opioid Withdrawal**, ADHD.
+    * **  *Adverse**:* Rebound Hypertension if stopped abruptly. dry mouth, sedation.
+* **Methyldopa**:**
+    * **  *Use**:* **Hypertension in Pregnancy** (Safe for fetus).
+    * **  *Adverse**:* **Coombs+ Hemolytic Anemia** (Autoimmune), Drug-induced Lupus.
 
 ## 4. Indirect & Mixed Acting
-*   **Amphetamines (Adderall):**
-    *   *Mechanism:* **Displaces** NE/DA from vesicles into synapse (Reverse transport).
-    *   *Use:* ADHD, Narcolepsy.
-*   **Cocaine:**
-    *   *Mechanism:* **Blocks Reuptake** (NET/DAT).
-    *   *Effect:* Vasoconstriction (Local Anesthetic + Pressor).
-*   **Ephedrine:**
-    *   *Mechanism:* Mixed (Direct Agonist + Indirect Release).
-    *   *Use:* Hypotension during Anesthesia.
-*   **Pseudoephedrine:**
-    *   *Use:* Nasal Decongestant. (Precursor for Meth, hence restricted).
+* **Amphetamines (Adderall)**:**
+    * **  *Mechanism**:* **Displaces** NE/DA from vesicles into synapse (Reverse transport).
+    * **  *Use**:* ADHD, Narcolepsy.
+* **Cocaine**:**
+    * **  *Mechanism**:* **Blocks Reuptake** (NET/DAT).
+    * **  *Effect**:* Vasoconstriction (Local Anesthetic + Pressor).
+* **Ephedrine**:**
+    * **  *Mechanism**:* Mixed (Direct Agonist + Indirect Release).
+    * **  *Use**:* Hypotension during Anesthesia.
+* **Pseudoephedrine**:**
+    * **  *Use**:* Nasal Decongestant. (Precursor for Meth, hence restricted).
 
 ## 5. MAO Inhibitors (The Cheese Effect)
-*   **Mechanism:** Inhibits Monoamine Oxidase (enzyme that breaks down NE/DA/Serotonin).
-*   **Tyramine Interaction:** Tyramine (found in Aged Cheese, Wine, Cured Meats) releases stored NE. Commonly degraded by GI MAO.
-*   **Crisis:** If on MAO-I, Tyramine is NOT degraded → Massive NE release → **Hypertensive Crisis**.
+* **Mechanism**:** Inhibits Monoamine Oxidase (enzyme that breaks down NE/DA/Serotonin).
+* **Tyramine Interaction**:** Tyramine (found in Aged Cheese, Wine, Cured Meats) releases stored NE. Commonly degraded by GI MAO.
+* **Crisis**:** If on MAO-I, Tyramine is NOT degraded → Massive NE release → **Hypertensive Crisis**.
 `,
     pearls: [
         {
@@ -183,18 +183,18 @@ Reduces sympathetic outflow from the brainstem.
 ## Sympathomimetics II
 
 ### Beta Agonists
-*   **B2 Lungs**: Albuterol (SABA), Salmeterol (LABA).
-*   **B2 Uterus**: Terbutaline (Tocolytic).
-*   **B3 Bladder**: Mirabegron.
+* **B2 Lungs**: Albuterol (SABA), Salmeterol (LABA).
+* **B2 Uterus**: Terbutaline (Tocolytic).
+* **B3 Bladder**: Mirabegron.
 
 ### Alpha-2 Agonists (Central)
-*   **Clonidine**: HTN, Withdrawal. Rebound HTN.
-*   **Methyldopa**: Pregnancy HTN. Hemolytic Anemia.
+* **Clonidine**: HTN, Withdrawal. Rebound HTN.
+* **Methyldopa**: Pregnancy HTN. Hemolytic Anemia.
 
 ### Indirect Agents
-*   **Amphetamine**: Displaces NE.
-*   **Cocaine**: Blocks Reuptake.
-*   **Tyramine**: Cheese Effect (MAO-I crisis).
+* **Amphetamine**: Displaces NE.
+* **Cocaine**: Blocks Reuptake.
+* **Tyramine**: Cheese Effect (MAO-I crisis).
 \`
 };
 

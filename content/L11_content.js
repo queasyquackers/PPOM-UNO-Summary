@@ -20,37 +20,37 @@ Mnemonic for Functions: **TAN HATS**
 
 ## 2. Major Nuclei and Functions (Slide 9-16)
 
-*   **Paraventricular Nucleus (PVN):** Produces Oxytocin, ADH, TRH, CRH. Projects to autonomic centers.
-*   **Supraoptic Nucleus (SON):** Produces mainly **ADH** (Vasopressin) and Oxytocin.
-*   **Suprachiasmatic Nucleus (SCN):** Master **Circadian Clock**. Regulated by light input from retina.
-*   **Anterior Hypothalamus:** Cooling (Parasympathetic). Lesion → Hyperthermia. "A/C = Anterior Cooling".
-*   **Posterior Hypothalamus:** Heating (Sympathetic). Lesion → Hypothermia (Poikilothermia).
-*   **Mammillary Bodies:** Episodic Memory. Input from Hippocampus (Fornix).
+* **Paraventricular Nucleus (PVN)**:** Produces Oxytocin, ADH, TRH, CRH. Projects to autonomic centers.
+* **Supraoptic Nucleus (SON)**:** Produces mainly **ADH** (Vasopressin) and Oxytocin.
+* **Suprachiasmatic Nucleus (SCN)**:** Master **Circadian Clock**. Regulated by light input from retina.
+* **Anterior Hypothalamus**:** Cooling (Parasympathetic). Lesion → Hyperthermia. "A/C = Anterior Cooling".
+* **Posterior Hypothalamus**:** Heating (Sympathetic). Lesion → Hypothermia (Poikilothermia).
+* **Mammillary Bodies**:** Episodic Memory. Input from Hippocampus (Fornix).
 
 :::correlate
 **Wernicke-Korsakoff Syndrome**
-*   **Cause:** **Thiamine (Vitamin B1)** deficiency, often due to chronic alcoholism.
-*   **Pathology:** Degeneration of the **Mammillary Bodies** and Medial Dorsal Thalamus.
-*   **Triad:** Confusion, Ataxia, Ophthalmoplegia (Wernicke's Encephalopathy).
-*   **Sequelae:** Korsakoff's Psychosis (Anterograde/Retrograde Amnesia + Confabulation) if untreated.
+* **Cause**:**Thiamine (Vitamin B1)** deficiency, often due to chronic alcoholism.
+* **Pathology**:** Degeneration of the **Mammillary Bodies** and Medial Dorsal Thalamus.
+* **Triad**:** Confusion, Ataxia, Ophthalmoplegia (Wernicke's Encephalopathy).
+* **Sequelae**:** Korsakoff's Psychosis (Anterograde/Retrograde Amnesia + Confabulation) if untreated.
 :::
 
 ## 3. Feeding Regulation (Slide 19-22)
 
-*   **Lateral Hypothalamus:** **Hunger Center**. Lesion → **Anorexia** ("Lateral makes you Lean").
-*   **Ventromedial Nucleus:** **Satiety Center**. Lesion → **Hyperphagia** and Obesity ("Ventromedial makes you Very Massive").
-*   **Hormones:**
-    *   **Leptin:** From adipose tissue. Signals satiety (inhibits Lateral, stimulates Ventromedial).
-    *   **Ghrelin:** From stomach. Signals hunger.
+* **Lateral Hypothalamus**:**Hunger Center**. Lesion → **Anorexia** ("Lateral makes you Lean").
+* **Ventromedial Nucleus**:**Satiety Center**. Lesion → **Hyperphagia** and Obesity ("Ventromedial makes you Very Massive").
+* **Hormones**:**
+    * **Leptin**:** From adipose tissue. Signals satiety (inhibits Lateral, stimulates Ventromedial).
+    * **Ghrelin**:** From stomach. Signals hunger.
 
 ## 4. Water Balance Disorders (Slide 12)
 
-*   **Diabetes Insipidus (DI):**
-    *   *Neurogenic:* Lack of **ADH** secretion (Hypothalamic/Posterior Pituitary damage).
-    *   *Sxs:* Polyuria, Polydipsia, Dilute Urine.
-*   **SIADH (Syndrome of Inappropriate ADH):**
-    *   *Cause:* Ectopic production (Small Cell Lung Cancer), CNS disorders, Drugs.
-    *   *Sxs:* Water retention, **Hyponatremia**, Cerebral Edema.
+* **Diabetes Insipidus (DI)**:**
+    * **  *Neurogenic**:* Lack of **ADH** secretion (Hypothalamic/Posterior Pituitary damage).
+    * **  *Sxs**:* Polyuria, Polydipsia, Dilute Urine.
+* **SIADH (Syndrome of Inappropriate ADH)**:**
+    * **  *Cause**:* Ectopic production (Small Cell Lung Cancer), CNS disorders, Drugs.
+    * **  *Sxs**:* Water retention, **Hyponatremia**, Cerebral Edema.
 
 :::highyield
 **Mnemonic: Feeding Centers**
@@ -206,23 +206,23 @@ Mnemonic for Functions: **TAN HATS**
 ## Hypothalamus
 
 ### Nuclei
-*   **Anterior**: Cooling
-*   **Posterior**: Heating
-*   **Lateral**: Hunger
-*   **Ventromedial**: Satiety
-*   **SCN**: Circadian Rhythm
-*   **Mammillary**: Memory
+* **Anterior**: Cooling
+* **Posterior**: Heating
+* **Lateral**: Hunger
+* **Ventromedial**: Satiety
+* **SCN**: Circadian Rhythm
+* **Mammillary**: Memory
 
 ### Hormones (PVN/SON)
-*   **ADH**: Water Retention
-    *   Deficiency: Diabetes Insipidus
-    *   Excess: SIADH
-*   **Oxytocin**: Uterine Contraction
+* **ADH**: Water Retention
+    * **  Deficiency**: Diabetes Insipidus
+    * **  Excess**: SIADH
+* **Oxytocin**: Uterine Contraction
 
 ### Clinical
-*   **Wernicke-Korsakoff**: Thiamine Deficiency, Mammillary Bodies
-*   **Obesity**: Leptin Resistance, VMN damage
-*   **Craniopharyngioma**: Compression causes Hypopituitarism
+* **Wernicke-Korsakoff**: Thiamine Deficiency, Mammillary Bodies
+* **Obesity**: Leptin Resistance, VMN damage
+* **Craniopharyngioma**: Compression causes Hypopituitarism
 \`
 };
 

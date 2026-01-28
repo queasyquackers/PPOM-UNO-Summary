@@ -7,61 +7,61 @@ export const L26_CONTENT = {
 **Session:** Lecture 26
 
 ## 1. Mental Status & History
-*   **Mental Status Exam:** Appearance, Behavior, Speech, Mood, Cognition.
-*   **Glasgow Coma Scale (GCS):**
-    *   **Score:** 3 (Coma) to 15 (Normal).
-    *   **Components:** **E**ye opening, **V**erbal response, **M**otor response. ("EVM-456").
+* **Mental Status Exam**:** Appearance, Behavior, Speech, Mood, Cognition.
+* **Glasgow Coma Scale (GCS)**:**
+    * **Score**:** 3 (Coma) to 15 (Normal).
+    * **Components**:**E**ye opening, **V**erbal response, **M**otor response. ("EVM-456").
 
 ## 2. Cranial Nerve Examination
 ### CN I (Olfactory)
-*   **Test:** Smell (Coffee, Cloves) one nostril at a time.
-*   **Deficit:** Anosmia. (DDx: COVID-19, Kallmann Syndrome, Trauma).
+* **Test**:** Smell (Coffee, Cloves) one nostril at a time.
+* **Deficit**:** Anosmia. (DDx: COVID-19, Kallmann Syndrome, Trauma).
 
 ### CN II (Optic)
-*   **Visual Acuity:** Snellen Chart (20/20).
-*   **Visual Fields:** Confrontation test (Static finger wiggle). detects Hemianopsia.
-*   **Fundoscopy:**
-    *   *Red Reflex:* Orange glow.
-    *   *Optic Disc:* Check for Papilledema (blurred margins) or Cupping (Glaucoma).
+* **Visual Acuity**:** Snellen Chart (20/20).
+* **Visual Fields**:** Confrontation test (Static finger wiggle). detects Hemianopsia.
+* **Fundoscopy**:**
+    * **  *Red Reflex**:* Orange glow.
+    * **  *Optic Disc**:* Check for Papilledema (blurred margins) or Cupping (Glaucoma).
 
 ### CN III, IV, VI (Oculomotor, Trochlear, Abducens)
-*   **Pupils (CN III):**
-    *   *Direct:* Constriction in illuminated eye.
-    *   *Consensual:* Constriction in opposite eye.
-    *   *Near Triad:* Convergence, Constriction, Accommodation.
-*   **EOM:** H-Pattern.
-    *   *CN VI Deficit:* Eye cannot look out (Lateral deviation failure).
-    *   *CN III Deficit:* Eye is "Down and Out" + Ptosis + Dilated Pupil.
+* **Pupils (CN III)**:**
+    * **  *Direct**:* Constriction in illuminated eye.
+    * **  *Consensual**:* Constriction in opposite eye.
+    * **  *Near Triad**:* Convergence, Constriction, Accommodation.
+* **EOM**:** H-Pattern.
+    * **  *CN VI Deficit**:* Eye cannot look out (Lateral deviation failure).
+    * **  *CN III Deficit**:* Eye is "Down and Out" + Ptosis + Dilated Pupil.
 
 ### CN V (Trigeminal)
-*   **Sensory:** V1 (Opthalmic), V2 (Maxillary), V3 (Mandibular) - Pinprick/Light touch.
-*   **Motor:** Muscles of Mastication (Temporalis/Masseter clench).
-*   **Corneal Reflex:** **Afferent V1** (Senses touch) → **Efferent VII** (Blink).
+* **Sensory**:** V1 (Opthalmic), V2 (Maxillary), V3 (Mandibular) - Pinprick/Light touch.
+* **Motor**:** Muscles of Mastication (Temporalis/Masseter clench).
+* **Corneal Reflex**:**Afferent V1** (Senses touch) → **Efferent VII** (Blink).
 
 ### CN VII (Facial)
-*   **Motor:** Facial expression (Smile, Frown, Puff cheeks, Close eyes tight).
-    *   *Central Lesion (Stroke):* Spares forehead.
-    *   *Peripheral Lesion (Bell's Palsy):* Affects entire half of face (Forehead + Lower).
-*   **Sensory:** Taste Anterior 2/3.
+* **Motor**:** Facial expression (Smile, Frown, Puff cheeks, Close eyes tight).
+    * **  *Central Lesion (Stroke)**:* Spares forehead.
+    * **  *Peripheral Lesion (Bell's Palsy)**:* Affects entire half of face (Forehead + Lower).
+* **Sensory**:** Taste Anterior 2/3.
 
 ### CN VIII (Vestibulocochlear)
-*   **Gross Hearing:** Whisper test / Finger rub.
-*   **Weber Test:** Tuning fork on vertex.
-    *   *Lateralizes to BAD ear:* Conductive Loss.
-    *   *Lateralizes to GOOD ear:* Sensorineural Loss.
-*   **Rinne Test:** Mastoid (BC) vs. Air (AC).
-    *   *AC > BC:* Normal or Sensorineural.
-    *   *BC > AC:* Conductive Loss.
+* **Gross Hearing**:** Whisper test / Finger rub.
+* **Weber Test**:** Tuning fork on vertex.
+    * **  *Lateralizes to BAD ear**:* Conductive Loss.
+    * **  *Lateralizes to GOOD ear**:* Sensorineural Loss.
+* **Rinne Test**:** Mastoid (BC) vs. Air (AC).
+    * **  *AC > BC**:* Normal or Sensorineural.
+    * **  *BC > AC**:* Conductive Loss.
 
 ### CN IX, X (Glossopharyngeal, Vagus)
-*   **Palate:** Say "Ah". Uvula deviates **AWAY** from lesion.
-*   **Gag Reflex:** Sensory IX, Motor X.
+* **Palate**:** Say "Ah". Uvula deviates **AWAY** from lesion.
+* **Gag Reflex**:** Sensory IX, Motor X.
 
 ### CN XI (Accessory)
-*   **Motor:** Shrug shoulders (Trapezius), Turn head (SCM).
+* **Motor**:** Shrug shoulders (Trapezius), Turn head (SCM).
 
 ### CN XII (Hypoglossal)
-*   **Motor:** Protrude tongue. Tongue deviates **TOWARDS** lesion ("Licks the lesion").
+* **Motor**:** Protrude tongue. Tongue deviates **TOWARDS** lesion ("Licks the lesion").
 `,
     pearls: [
         {
@@ -211,18 +211,18 @@ export const L26_CONTENT = {
 ## Neurologic Exam
 
 ### Cranial Nerves
-*   **I**: Smell.
-*   **II**: Acuity, Fields, Fundoscopy.
-*   **III, IV, VI**: EOM, Pupils. (III: Down/Out, Dilated).
-*   **V**: Face Sensation, Mastication, Corneal Afferent.
-*   **VII**: Face Motor, Taste, Corneal Efferent.
-*   **VIII**: Hearing (Weber/Rinne).
-*   **IX, X**: Gag, Palate (Uvula Away).
-*   **XI**: Shrug.
-*   **XII**: Tongue (Deviates Towards).
+* **I**: Smell.
+* **II**: Acuity, Fields, Fundoscopy.
+* **III, IV, VI**: EOM, Pupils. (III: Down/Out, Dilated).
+* **V**: Face Sensation, Mastication, Corneal Afferent.
+* **VII**: Face Motor, Taste, Corneal Efferent.
+* **VIII**: Hearing (Weber/Rinne).
+* **IX, X**: Gag, Palate (Uvula Away).
+* **XI**: Shrug.
+* **XII**: Tongue (Deviates Towards).
 
 ### Mental Status
-*   **GCS**: EVM (4-5-6). Max 15, Min 3.
+* **GCS**: EVM (4-5-6). Max 15, Min 3.
 \`
 };
 

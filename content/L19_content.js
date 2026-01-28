@@ -7,45 +7,45 @@ export const L19_CONTENT = {
 **Session:** Lecture 19
 
 ## 1. Cholinergic Receptors (Slide 9-11)
-*   **Muscarinic (GPCRs):** Located on effector organs (Heart, Smooth Muscle, Glands).
-    *   **M1, M3, M5 (Gq):** Increase Ca2+ (Contraction/Secretion).
-    *   **M2, M4 (Gi):** Decrease cAMP (Inhibition/Bradycardia).
-*   **Nicotinic (Ion Channels):** Located at Ganglia (Nn) and Neuromuscular Junction (Nm).
+* **Muscarinic (GPCRs)**:** Located on effector organs (Heart, Smooth Muscle, Glands).
+    * **M1, M3, M5 (Gq)**:** Increase Ca2+ (Contraction/Secretion).
+    * **M2, M4 (Gi)**:** Decrease cAMP (Inhibition/Bradycardia).
+* **Nicotinic (Ion Channels)**:** Located at Ganglia (Nn) and Neuromuscular Junction (Nm).
     *   Ligand-gated Na+/K+ channels.
 
 ## 2. Muscarinic Agonists (Slide 30-33)
 "Direct-Acting" means they bind directly to the receptor (unlike AChE inhibitors).
 
 ### Choline Esters (Quaternary Amines)
-*Poorly absorbed, do not cross BBB.*
-*   **Acetylcholine (ACh):** Rapidly hydrolyzed. Used only for **Ophthalmic Surgery** (Miosis).
-*   **Methacholine:**
-    *   *use:* **Bronchoprovocation Test** to diagnose Asthma. Induces bronchospasm in hyperreactive airways.
-*   **Bethanechol:**
-    *   *Use:* **Urinary Retention** (Post-op, Post-partum, Neurogenic bladder).
-    *   *Mnemonic:* "Bethany, call (chol) me if you want to pee."
-*   **Carbachol:** Glaucoma (rarely used). Mixed M and N activity.
+* Poorly absorbed, do not cross BBB.*
+* **Acetylcholine (ACh)**:** Rapidly hydrolyzed. Used only for **Ophthalmic Surgery** (Miosis).
+* **Methacholine**:**
+    * **  *use**:* **Bronchoprovocation Test** to diagnose Asthma. Induces bronchospasm in hyperreactive airways.
+* **Bethanechol**:**
+    * **  *Use**:* **Urinary Retention** (Post-op, Post-partum, Neurogenic bladder).
+    * **  *Mnemonic**:* "Bethany, call (chol) me if you want to pee."
+* **Carbachol**:** Glaucoma (rarely used). Mixed M and N activity.
 
 ### Alkaloids (Tertiary Amines)
-*Well absorbed, Cross BBB.*
-*   **Pilocarpine:**
-    *   *Use:* **Glaucoma** (Opens meshwork via miosis), **Xerostomia** (Sjogren's, Radiation).
-    *   *Mnemonic:* "Pile on the sweat and tears."
-*   **Cevimeline:** Synthetic M3 agonist. Used for **Sjogren's Syndrome** (Dry mouth).
+* Well absorbed, Cross BBB.*
+* **Pilocarpine**:**
+    * **  *Use**:* **Glaucoma** (Opens meshwork via miosis), **Xerostomia** (Sjogren's, Radiation).
+    * **  *Mnemonic**:* "Pile on the sweat and tears."
+* **Cevimeline**:** Synthetic M3 agonist. Used for **Sjogren's Syndrome** (Dry mouth).
 
 ## 3. Nicotinic Agonists (Slide 36-39)
-*   **Nicotine:**
-    *   *Action:* Biphasic. Low dose = Stimulation. High dose = Depolarizing Blockade (Paralysis).
-    *   *Use:* Smoking Cessation (NRT).
-*   **Varenicline (Chantix):**
-    *   *Action:* **Partial Agonist** at $\\alpha_4\\beta_2$ neuronal receptors.
-    *   *Benefit:* Reduces cravings (agonist effect) AND blocks nicotine from bindings (antagonist effect), reducing reward.
+* **Nicotine**:**
+    * **  *Action**:* Biphasic. Low dose = Stimulation. High dose = Depolarizing Blockade (Paralysis).
+    * **  *Use**:* Smoking Cessation (NRT).
+* **Varenicline (Chantix)**:**
+    * **  *Action**:* **Partial Agonist** at $\\alpha_4\\beta_2$ neuronal receptors.
+    * **  *Benefit**:* Reduces cravings (agonist effect) AND blocks nicotine from bindings (antagonist effect), reducing reward.
 
 ## 4. Adverse Effects & Contraindications (Slide 34)
-*   **Muscarinic Toxicity (SLUDGE):**
+* **Muscarinic Toxicity (SLUDGE)**:**
     *   **S**alivation, **L**acrimation, **U**rination, **D**efecation, **G**I Upset, **E**mesis.
-    *   **DANGER:** **Bradycardia** and **Bronchoconstriction**.
-*   **Contraindications:**
+    * **DANGER**:**Bradycardia** and **Bronchoconstriction**.
+* **Contraindications**:**
     *   **Asthma/COPD** (Bronchoconstriction).
     *   **Peptic Ulcer Disease** (Increased Acid).
     *   **GI/Urinary Obstruction** (Risk of rupture).
@@ -54,16 +54,16 @@ export const L19_CONTENT = {
 
 :::correlate
 **Sjögren's Syndrome**
-*   **Pathology:** Autoimmune destruction of exocrine glands (Salivary, Lacrimal).
-*   **Presentation:** Xerostomia (Dry mouth), Keratoconjunctivitis Sicca (Dry eyes).
-*   **Treatment:** **Pilocarpine** or **Cevimeline** (Muscarinic Agonists) to stimulate secretion.
+* **Pathology**:** Autoimmune destruction of exocrine glands (Salivary, Lacrimal).
+* **Presentation**:** Xerostomia (Dry mouth), Keratoconjunctivitis Sicca (Dry eyes).
+* **Treatment**:**Pilocarpine** or **Cevimeline** (Muscarinic Agonists) to stimulate secretion.
 :::
 
 :::correlate
 **Asthma Diagnosis**
-*   **Drug:** **Methacholine**.
-*   **Test:** Inhaled methacholine challenge.
-*   **Result:** A patient with asthma will bronchoconstrict at a much **lower dose** than a healthy person.
+* **Drug**:**Methacholine**.
+* **Test**:** Inhaled methacholine challenge.
+* **Result**:** A patient with asthma will bronchoconstrict at a much **lower dose** than a healthy person.
 :::
 `,
     pearls: [
@@ -215,19 +215,19 @@ export const L19_CONTENT = {
 
 ### Muscarinic Agonists
 *   **Esters (No CNS)**
-    *   **Bethanechol**: Urinary Retention
-    *   **Methacholine**: Asthma Dx
+    * **Bethanechol**: Urinary Retention
+    * **Methacholine**: Asthma Dx
 *   **Alkaloids (CNS Entry)**
-    *   **Pilocarpine**: Glaucoma, Sjogren's (Sweat/Saliva)
-    *   **Cevimeline**: Sjogren's
+    * **Pilocarpine**: Glaucoma, Sjogren's (Sweat/Saliva)
+    * **Cevimeline**: Sjogren's
 
 ### Nicotinic Agonists
-*   **Nicotine**: Smoking Cessation
-*   **Varenicline**: Partial Agonist (Cravings)
+* **Nicotine**: Smoking Cessation
+* **Varenicline**: Partial Agonist (Cravings)
 
 ### Toxicity (SLUDGE)
 *   Salivation, Lacrimation, Urination, Diarrhea
-*   **Killer Side Effects**: Bronchospasm, Bradycardia
+* **Killer Side Effects**: Bronchospasm, Bradycardia
 
 ### Contraindications
 *   Asthma, Ulcers, Obstruction

@@ -7,45 +7,45 @@ export const L27_CONTENT = {
 **Session:** Lecture 27
 
 ## 1. Counterstrain (CS) Overview
-*   **Definition:** Indirect, Passive technique. "Fold and Hold".
-*   **Mechanism:** Shortens muscle to silence proprioceptive feedback (Muscle Spindles/Gamma Gain).
-*   **Safety:** Very gentle. Good for acute pain.
-*   **Reaction:** 30-50% experience soreness for 1-2 days (Warn patient!).
+* **Definition**:** Indirect, Passive technique. "Fold and Hold".
+* **Mechanism**:** Shortens muscle to silence proprioceptive feedback (Muscle Spindles/Gamma Gain).
+* **Safety**:** Very gentle. Good for acute pain.
+* **Reaction**:** 30-50% experience soreness for 1-2 days (Warn patient!).
 
 ## 2. Steps of Counterstrain
 1.  **Find Point:** Locate tenderpoint.
 2.  **Scale:** Call it "10/10".
 3.  **Position:** Move to position of ease (reduce to 0/10 or $\\le$ 3/10).
-4.  **Hold:** **90 Seconds**.
+4.  **Hold:**90 Seconds**.
 5.  **Return:** Passive return to neutral (Slowly!).
 6.  **Reassess:** Check tenderness again.
 
 ## 3. Pelvic Counterstrain Points
-*   **Iliacus:** Deep in iliac fossa.
-    *   *Tx:* Flexion + External Rotation (Frog Leg).
-*   **Psoas:** Medial to ASIS.
-    *   *Tx:* **F-S**T**-R**A** (Flex, Sidebend **Toward**, Rotate **Away**).
-*   **Inguinal:** Lateral to pubic tubercle.
-    *   *Tx:* **F-ADD-IR** (Flex, Adduct, Internal Rotate).
-*   **Low Ilium:** Superior pubic ramus.
-    *   *Tx:* Flexion.
+* **Iliacus**:** Deep in iliac fossa.
+    * **  *Tx**:* Flexion + External Rotation (Frog Leg).
+* **Psoas**:** Medial to ASIS.
+    * **  *Tx**:* **F-S**T**-R**A** (Flex, Sidebend **Toward**, Rotate **Away**).
+* **Inguinal**:** Lateral to pubic tubercle.
+    * **  *Tx**:* **F-ADD-IR** (Flex, Adduct, Internal Rotate).
+* **Low Ilium**:** Superior pubic ramus.
+    * **  *Tx**:* Flexion.
 
 ## 4. Innominate HVLA
-*   **Diagnosis Reminder:**
-    *   *Anterior Rotation:* ASIS Low, PSIS High.
-    *   *Posterior Rotation:* ASIS High, PSIS Low.
-    *   *Superior Shear:* All landmarks high.
-*   **HVLA Setup:**
-    *   **Post. Rotation:** Extend the hip (to rotate anteriorly).
-    *   **Ant. Rotation:** Flex the hip (to rotate posteriorly).
-    *   **Superior Shear:** Traction leg (Abduct + IR + Pull).
+* **Diagnosis Reminder**:**
+    * **  *Anterior Rotation**:* ASIS Low, PSIS High.
+    * **  *Posterior Rotation**:* ASIS High, PSIS Low.
+    * **  *Superior Shear**:* All landmarks high.
+* **HVLA Setup**:**
+    * **Post. Rotation**:** Extend the hip (to rotate anteriorly).
+    * **Ant. Rotation**:** Flex the hip (to rotate posteriorly).
+    * **Superior Shear**:** Traction leg (Abduct + IR + Pull).
 
 ## 5. Clinical Correlates
 :::correlate
 **Counterstrain Contraindications**
-*   **Absolute:** No Somatic Dysfunction, No Consent, Lack of Cooperation.
-*   **Relative:** Severe Osteoporosis, Acute Illness, Instability.
-*   *Note:* Recent trauma or fracture would depend on location, but Osteoporosis is the classic relative contraindication.
+* **Absolute**:** No Somatic Dysfunction, No Consent, Lack of Cooperation.
+* **Relative**:** Severe Osteoporosis, Acute Illness, Instability.
+* **  *Note**:* Recent trauma or fracture would depend on location, but Osteoporosis is the classic relative contraindication.
 :::
 `,
     pearls: [
@@ -195,19 +195,19 @@ export const L27_CONTENT = {
 ## Counterstrain & HVLA
 
 ### Counterstrain (CS)
-*   **Type**: Indirect, Passive.
-*   **Hold**: 90s.
-*   **Goal**: Pain <= 3/10.
+* **Type**: Indirect, Passive.
+* **Hold**: 90s.
+* **Goal**: Pain <= 3/10.
 
 ### Pelvic CS Points
-*   **Psoas**: F-ST-RA.
-*   **Iliacus**: Frog Leg (Flex/ER).
-*   **Inguinal**: F-ADD-IR.
+* **Psoas**: F-ST-RA.
+* **Iliacus**: Frog Leg (Flex/ER).
+* **Inguinal**: F-ADD-IR.
 
 ### Innominate HVLA
-*   **Anterior Rot**: ASIS Low. Tx: Flex/Post Rot.
-*   **Posterior Rot**: ASIS High. Tx: Ext/Ant Rot.
-*   **Sup Shear**: Pull Leg.
+* **Anterior Rot**: ASIS Low. Tx: Flex/Post Rot.
+* **Posterior Rot**: ASIS High. Tx: Ext/Ant Rot.
+* **Sup Shear**: Pull Leg.
 \`
 };
 

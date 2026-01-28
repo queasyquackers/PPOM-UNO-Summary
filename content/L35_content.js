@@ -7,44 +7,44 @@ export const L35_CONTENT = {
 **Session:** Lecture 35
 
 ## 1. CN I (Olfactory) & CN II (Optic)
-*   **CN I:** Visceral Sensory. Bypasses Thalamus.
-    *   *Pathology:* **Anosmia** (Early sign of **Parkinson's** - Lewy bodies in Olfactory Bulb).
-*   **CN II:** Special Sensory.
-    *   *Reflex:* Pupillary Light Reflex (Afferent II → Pretectal Area → Bilateral Edinger-Westphal → Efferent III).
+* **CN I**:** Visceral Sensory. Bypasses Thalamus.
+    * **  *Pathology**:* **Anosmia** (Early sign of **Parkinson's** - Lewy bodies in Olfactory Bulb).
+* **CN II**:** Special Sensory.
+    * **  *Reflex**:* Pupillary Light Reflex (Afferent II → Pretectal Area → Bilateral Edinger-Westphal → Efferent III).
 
 ## 2. CN III (Oculomotor)
-*   **Motor:** Medial, Superior, Inferior Recti; Inferior Oblique; Levator Palpebrae.
-*   **Parasympathetic:** **Edinger-Westphal Nucleus** → Pupil Constriction (Miosis) & Lens Accommodation.
-*   **Lesion (CN III Palsy):**
+* **Motor**:** Medial, Superior, Inferior Recti; Inferior Oblique; Levator Palpebrae.
+* **Parasympathetic**:**Edinger-Westphal Nucleus** → Pupil Constriction (Miosis) & Lens Accommodation.
+* **Lesion (CN III Palsy)**:**
     *   **"Down and Out"** eye (Unopposed SO4/LR6).
     *   **Ptosis** (Droopy eyelid).
-    *   **Mydriasis** (Blown pupil - loss of parasympathetics).
-    *   *Note:* The **Superior Rectus** and **Levator** are innervated by the *Contralateral* nucleus, but the nerve fibers cross inside the complex, so a NERVE lesion affects the ipsilateral eye.
+    * **Mydriasis** (Blown pupil** - loss of parasympathetics).
+    * **  *Note**:* The **Superior Rectus** and **Levator** are innervated by the *Contralateral* nucleus, but the nerve fibers cross inside the complex, so a NERVE lesion affects the ipsilateral eye.
 
 ## 3. CN IV (Trochlear)
-*   **Motor:** **Superior Oblique** (Depresses/Intorts eye).
-*   **Unique Features:**
+* **Motor**:**Superior Oblique** (Depresses/Intorts eye).
+* **Unique Features**:**
     1.  Only CN to exit **Dorsally**.
     2.  Only CN to **Decussate Completely** (Right Nucleus → Left Superior Oblique).
-*   **Lesion:**
+* **Lesion**:**
     *   **Vertical Diplopia** (Worse when looking down, e.g., stairs/reading).
-    *   **Head Tilt:** Patient tilts head **AWAY** from the affected side to compensate/align eyes.
+    * **Head Tilt**:** Patient tilts head **AWAY** from the affected side to compensate/align eyes.
 
 ## 4. CN VI (Abducens) & Gaze Control
-*   **Motor:** **Lateral Rectus** (Abducts eye).
-*   **Horizontal Gaze Circuit:**
-    *   To look RIGHT: Right PPRF → Right **Abducens Nucleus**.
-    *   Right Abducens Nucleus does TWO things:
+* **Motor**:**Lateral Rectus** (Abducts eye).
+* **Horizontal Gaze Circuit**:**
+    * **  To look RIGHT**: Right PPRF → Right **Abducens Nucleus**.
+    * **  Right Abducens Nucleus does TWO things**:
         1.  Contracts Ring Lateral Rectus (Abducts Right Eye).
         2.  Sends signal via **MLF** (Medial Longitudinal Fasciculus) to Left Oculomotor Nucleus → Contracts Left Medial Rectus (Adducts Left Eye).
-*   **Pathology:**
-    *   **CN VI Palsy:** Esotropia (Eye turns in).
-    *   **INO (Internuclear Ophthalmoplegia):**
+* **Pathology**:**
+    * **CN VI Palsy**:** Esotropia (Eye turns in).
+    * **INO (Internuclear Ophthalmoplegia)**:**
         *   Lesion of **MLF**.
         *   Ipsilateral eye cannot Adduct (Medial Rectus palsy).
         *   Contralateral eye has Nystagmus.
         *   Convergence is SPARED (because CN III is intact).
-        *   *Classic Cause:* **Multiple Sclerosis** (Bilateral INO).
+        * **  *Classic Cause**:* **Multiple Sclerosis** (Bilateral INO).
 
 ## 5. Summary Table
 
@@ -192,18 +192,18 @@ export const L35_CONTENT = {
 ## Cranial Nerves I-VI
 
 ### Eye Movements
-*   **CN III**: Everything Else. (Down/Out Palsy).
-    *   *Parasymp*: Pupil constriction (EW Nuc).
-*   **CN IV**: Sup. Oblique (Down/In). (Vertical Diplopia).
-*   **CN VI**: Lateral Rectus (Out). (Esotropia).
+* **CN III**: Everything Else. (Down/Out Palsy).
+    * **  *Parasymp***: Pupil constriction (EW Nuc).
+* **CN IV**: Sup. Oblique (Down/In). (Vertical Diplopia).
+* **CN VI**: Lateral Rectus (Out). (Esotropia).
 
 ### Gaze
-*   **Horizontal**: PPRF → VI Nucleus → (Contra III via MLF).
-*   **INO**: MLF Lesion. Lagging adduction.
+* **Horizontal**: PPRF → VI Nucleus → (Contra III via MLF).
+* **INO**: MLF Lesion. Lagging adduction.
 
 ### Other
-*   **CN I**: Smell. Parkinson's Warning.
-*   **CN II**: Vision. Afferent Limb of Light Reflex.
+* **CN I**: Smell. Parkinson's Warning.
+* **CN II**: Vision. Afferent Limb of Light Reflex.
 \`
 };
 

@@ -20,27 +20,27 @@ The brainstem is divided into three major regions (Rostral to Caudal):
 3.  **Medulla (Myelencephalon):** The most inferior portion, continuous with the spinal cord.
 
 ## 2. External Anatomy: Ventral View (Slide 6)
-*   **Midbrain:** Characterized by the **Cerebral Peduncles (Crus Cerebri)**, massive stalks containing descending motor fibers from the cortex.
-*   **Pons:** Characterized by the **Basilar Pons**, a bulbous structure with transverse fibers.
-*   **Medulla:**
-    *   **Pyramids:** Two medial columns containing the **Corticospinal Tract**.
-    *   **Pyramidal Decussation:** The crossing point of motor fibers at the caudal medulla (border with spinal cord).
-    *   **Olive:** A lateral bump produced by the **Inferior Olivary Nucleus** (motor coordination).
+* **Midbrain**:** Characterized by the **Cerebral Peduncles (Crus Cerebri)**, massive stalks containing descending motor fibers from the cortex.
+* **Pons**:** Characterized by the **Basilar Pons**, a bulbous structure with transverse fibers.
+* **Medulla**:**
+    * **Pyramids**:** Two medial columns containing the **Corticospinal Tract**.
+    * **Pyramidal Decussation**:** The crossing point of motor fibers at the caudal medulla (border with spinal cord).
+    * **Olive**:** A lateral bump produced by the **Inferior Olivary Nucleus** (motor coordination).
 
 ## 3. External Anatomy: Dorsal View (Slide 7-8)
-*   **Midbrain (Tectum):**
-    *   **Superior Colliculi:** Visual reflexes/saccades.
-    *   **Inferior Colliculi:** Auditory pathway.
-*   **Pons:**
-    *   **Cerebellar Peduncles:**
-        *   **Superior (SCP):** Main *output* from cerebellum.
-        *   **Middle (MCP):** Connects Pons to Cerebellum (massive input).
-        *   **Inferior (ICP):** Connects Medulla to Cerebellum.
-    *   **Floor of 4th Ventricle:** The open posterior aspect.
-*   **Medulla:**
-    *   **Gracile Tubercle:** Medial bump (Leg sensory).
-    *   **Cuneate Tubercle:** Lateral bump (Arm sensory).
-    *   **Obex:** The caudal point where the 4th ventricle closes.
+* **Midbrain (Tectum)**:**
+    * **Superior Colliculi**:** Visual reflexes/saccades.
+    * **Inferior Colliculi**:** Auditory pathway.
+* **Pons**:**
+    * **Cerebellar Peduncles**:**
+        * **Superior (SCP)**:** Main *output* from cerebellum.
+        * **Middle (MCP)**:** Connects Pons to Cerebellum (massive input).
+        * **Inferior (ICP)**:** Connects Medulla to Cerebellum.
+    * **Floor of 4th Ventricle**:** The open posterior aspect.
+* **Medulla**:**
+    * **Gracile Tubercle**:** Medial bump (Leg sensory).
+    * **Cuneate Tubercle**:** Lateral bump (Arm sensory).
+    * **Obex**:** The caudal point where the 4th ventricle closes.
 
 ## 4. Internal Anatomy: Cross-Sectional Zones (Slide 10)
 In cross-section, the brainstem is divided anterior-to-posterior:
@@ -51,26 +51,26 @@ In cross-section, the brainstem is divided anterior-to-posterior:
 ## 5. Key Nuclei by Level (Slides 15-26)
 
 ### Medulla
-*   **Gracile & Cuneate Nuclei:** Dorsal column nuclei (Touch/Proprioception).
-*   **Inferior Olivary Nucleus:** Large, crumpled sac appearance. Motor learning (Climbing fibers to cerebellum).
-*   **Spinal Trigeminal Nucleus:** Pain/Temp for the face (extends down to C2).
+* **Gracile & Cuneate Nuclei**:** Dorsal column nuclei (Touch/Proprioception).
+* **Inferior Olivary Nucleus**:** Large, crumpled sac appearance. Motor learning (Climbing fibers to cerebellum).
+* **Spinal Trigeminal Nucleus**:** Pain/Temp for the face (extends down to C2).
 
 ### Pons
-*   **Pontine Nuclei:** Scattered in the basilar pons. Relay cortex information to the cerebellum via the MCP.
-*   **Facial Nucleus (CN VII):** Motor to face.
-*   **Abducens Nucleus (CN VI):** Lateral eye movement.
+* **Pontine Nuclei**:** Scattered in the basilar pons. Relay cortex information to the cerebellum via the MCP.
+* **Facial Nucleus (CN VII)**:** Motor to face.
+* **Abducens Nucleus (CN VI)**:** Lateral eye movement.
 
 ### Midbrain
-*   **Substantia Nigra:** Dark pigmented line (Dopamine). Degenerates in Parkinson's.
-*   **Red Nucleus:** Motor coordination (Rubrospinal tract).
-*   **Periaqueductal Gray (PAG):** Pain modulation (Opioid receptors).
+* **Substantia Nigra**:** Dark pigmented line (Dopamine). Degenerates in Parkinson's.
+* **Red Nucleus**:** Motor coordination (Rubrospinal tract).
+* **Periaqueductal Gray (PAG)**:** Pain modulation (Opioid receptors).
 *   **Superior & Inferior Colliculi.**
 
 :::correlate
 **Cranial Nerve Exit Points (Rule of 4s)**
-*   **Midbrain (CN 3, 4):** Oculomotor (interpeduncular fossa), Trochlear (dorsal exit!).
-*   **Pons (CN 5, 6, 7, 8):** Trigeminal (lateral pons), Abducens/Facial/Vestibulocochlear (pontomedullary junction).
-*   **Medulla (CN 9, 10, 11, 12):** Glossopharyngeal/Vagus/Accessory (retro-olivary), Hypoglossal (pre-olivary sulcus).
+* **Midbrain (CN 3, 4)**:** Oculomotor (interpeduncular fossa), Trochlear (dorsal exit!).
+* **Pons (CN 5, 6, 7, 8)**:** Trigeminal (lateral pons), Abducens/Facial/Vestibulocochlear (pontomedullary junction).
+* **Medulla (CN 9, 10, 11, 12)**:** Glossopharyngeal/Vagus/Accessory (retro-olivary), Hypoglossal (pre-olivary sulcus).
 :::
 `,
     pearls: [
@@ -176,20 +176,20 @@ In cross-section, the brainstem is divided anterior-to-posterior:
     mindmap: `
 ## Brainstem Anatomy I
 ### Midbrain
-*   **Ventral**: Cerebral Peduncles (Motor)
-*   **Dorsal**: Tectum (Sup/Inf Colliculi)
-*   **Internal**: Aqueduct, Substantia Nigra, Red Nucleus
-*   **CN**: III, IV
+* **Ventral**: Cerebral Peduncles (Motor)
+* **Dorsal**: Tectum (Sup/Inf Colliculi)
+* **Internal**: Aqueduct, Substantia Nigra, Red Nucleus
+* **CN**: III, IV
 ### Pons
-*   **Ventral**: Basilar Pons (Transverse fibers)
-*   **Dorsal**: 4th Ventricle Floor
-*   **Internal**: Pontine Nuclei, MCP
-*   **CN**: V, VI, VII, VIII
+* **Ventral**: Basilar Pons (Transverse fibers)
+* **Dorsal**: 4th Ventricle Floor
+* **Internal**: Pontine Nuclei, MCP
+* **CN**: V, VI, VII, VIII
 ### Medulla
-*   **Ventral**: Pyramids, Olive
-*   **Dorsal**: Gracile/Cuneate Tubercles
-*   **Internal**: Inf. Olive, DC Nuclei
-*   **CN**: IX, X, XI, XII
+* **Ventral**: Pyramids, Olive
+* **Dorsal**: Gracile/Cuneate Tubercles
+* **Internal**: Inf. Olive, DC Nuclei
+* **CN**: IX, X, XI, XII
 `
 };
 

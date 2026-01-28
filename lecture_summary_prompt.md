@@ -31,12 +31,11 @@ Generate a comprehensive, high-yield summary of the provided lecture content.
 
 ### 2. Comprehensive Summary
 
-- **Instructions:**
-  - **Content Style: Narrative & Contextual (CRITICAL)**
-    - **Do NOT just list bullet points.** The summary should read like a **high-quality textbook or lecture note set**.
-    - **Use Paragraphs:** Use full sentences and explanatory paragraphs to describe mechanisms, physiological processes, and the "story" of the lecture.
-    - **Connect the Dots:** Use the **Transcript** to capture the lecturer's logic and connective tissue. Explain _why_ A leads to B. Don't just state "A -> B".
-    - **Depth over Breadth:** If a complex topic is introduced (e.g., a specific nerve pathway or drug mechanism), **explain it fully**.
+- **Instructions - PRIORITY #1: Connective Narrative**
+  - **Contextual Intro (MANDATORY):** Start **EVERY** major section with a dedicated narrative paragraph (3-5 sentences).
+    - **Purpose:** Explain the "Why" and "How". Before listing diseases, explain the normal physiology or the mechanism of the system.
+    - **Connect the Dots:** Explicitly state how concepts link together. (e.g., "Because the optic nerve fibers cross at the chiasm, a pituitary tumor compressing the center causes bitemporal hemianopsia.")
+    - **Tone:** Read like a high-quality textbook or lecture note set (e.g., Pathoma/Boards & Beyond style).
   - **Slide Citations:**
     - **Rule:** Every major section or key concept **MUST** cite the source slide number using the format `(Slide X)`.
     - **Example:** `## The Nervous System (Slide 5)` or `...affects the optic nerve (Slide 12).`
@@ -142,6 +141,7 @@ Generate a comprehensive, high-yield summary of the provided lecture content.
 
 - **Goal:** Map this lecture to a high-yield external resource (Boards & Beyond, Pathoma, Sketchy, First Aid).
   - **JSON Format (Output this specific JSON block):**
+
   ```json
   "ankingResource": {
       "primarySource": "[Source Name]",

@@ -9,58 +9,58 @@ export const L16_CONTENT = {
 ## 1. Eye Functional Anatomy (Slide 4-10)
 
 The eye focuses light onto the retina to transduce it into neural signals.
-*   **Refraction:** Most focusing power comes from the **Cornea** (air-water interface), not the lens.
-*   **Accommodation:** The **Lens** changes shape to focus near objects.
-    *   **Near Vision (Reflex):** Ciliary muscle **Contracts** → Zonules Relax → Lens becomes **Rounder**. (+ Pupil constriction + Convergence).
-    *   **Far Vision:** Ciliary muscle Relaxes → Zonules Tighten → Lens flattens.
-*   **Aqueous Humor:** Produced by Ciliary Body. Drains via **Canal of Schlemm**. Blockage = **Glaucoma**.
+* **Refraction**:** Most focusing power comes from the **Cornea** (air-water interface), not the lens.
+* **Accommodation**:** The **Lens** changes shape to focus near objects.
+    * **Near Vision (Reflex)**:** Ciliary muscle **Contracts** → Zonules Relax → Lens becomes **Rounder**. (+ Pupil constriction + Convergence).
+    * **Far Vision**:** Ciliary muscle Relaxes → Zonules Tighten → Lens flattens.
+* **Aqueous Humor**:** Produced by Ciliary Body. Drains via **Canal of Schlemm**. Blockage = **Glaucoma**.
 
 ### Retina Organization
-*   **Fovea:** Center of Macula. **All Cones**. Highest acuity. No blood vessels/layers in light path.
-*   **Periphery:** Mostly **Rods**. High sensitivity (low light), low acuity.
-*   **Blind Spot (Optic Disc):** Where optic nerve exits. No photoreceptors.
+* **Fovea**:** Center of Macula. **All Cones**. Highest acuity. No blood vessels/layers in light path.
+* **Periphery**:** Mostly **Rods**. High sensitivity (low light), low acuity.
+* **Blind Spot (Optic Disc)**:** Where optic nerve exits. No photoreceptors.
 
 ## 2. Visual Pathway (Slide 26-30)
 
 1.  **Retina:** Light hits Photoreceptors → Bipolar Cells → Ganglion Cells.
 2.  **Optic Nerve (CN II):** Ganglion cell axons.
-3.  **Optic Chiasm:** **Nasal** fibers (temporal field) **CROSS**. Temporal fibers (nasal field) stay ipsilateral.
+3.  **Optic Chiasm:**Nasal** fibers (temporal field) **CROSS**. Temporal fibers (nasal field) stay ipsilateral.
 4.  **Optic Tract:** Contains ipsilateral Temporal fibers + contralateral Nasal fibers. Projects to **LGN**.
 5.  **Lateral Geniculate Nucleus (LGN):** Thalamic relay.
-    *   **Magno** (M) layers: Motion/Depth.
-    *   **Parvo** (P) layers: Color/Form.
+    * **Magno** (M) layers**: Motion/Depth.
+    * **Parvo** (P) layers**: Color/Form.
 6.  **Geniculocalcarine Tract (Optic Radiations):**
-    *   **Meyer's Loop (Temporal Lobe):** Loops around lateral ventricle. Carries **Superior** Visual Field ("Pie in the Sky").
-    *   **Dorsal/Parietal Radiations:** Carries **Inferior** Visual Field ("Pie on the Floor").
+    * **Meyer's Loop (Temporal Lobe)**:** Loops around lateral ventricle. Carries **Superior** Visual Field ("Pie in the Sky").
+    * **Dorsal/Parietal Radiations**:** Carries **Inferior** Visual Field ("Pie on the Floor").
 7.  **Primary Visual Cortex (V1):** Occipital Lobe. Upper bank (Cuneus) = Inferior Field. Lower bank (Lingual) = Superior Field.
 
 ## 3. Visual Field Lesions (Slide 26-29, 32)
-*   **Monocular Blindness:** Lesion of **Optic Nerve**.
-*   **Bitemporal Hemianopsia:** Lesion of **Optic Chiasm**.
-    *   *Cause:* **Pituitary Adenoma** compressing chiasm centrally.
-    *   *Effect:* Loss of peripheral vision ("Tunnel Vision").
-*   **Homonymous Hemianopsia:** Lesion of **Optic Tract** or **PCA Stroke**.
-    *   *Effect:* Loss of same field in both eyes (e.g., Left field perception lost in both eyes).
-    *   *Macular Sparing:* PCA strokes often spare the fovea (supplied by MCA collaterals).
-*   **Quadrantanopsia:**
-    *   **Meyer's Loop (Temporal):** "Pie in the Sky" (Contralateral Superior Quadrant).
-    *   **Parietal Radiations:** "Pie on the Floor" (Contralateral Inferior Quadrant).
+* **Monocular Blindness**:** Lesion of **Optic Nerve**.
+* **Bitemporal Hemianopsia**:** Lesion of **Optic Chiasm**.
+    * **  *Cause**:* **Pituitary Adenoma** compressing chiasm centrally.
+    * **  *Effect**:* Loss of peripheral vision ("Tunnel Vision").
+* **Homonymous Hemianopsia**:** Lesion of **Optic Tract** or **PCA Stroke**.
+    * **  *Effect**:* Loss of same field in both eyes (e.g., Left field perception lost in both eyes).
+    * **  *Macular Sparing**:* PCA strokes often spare the fovea (supplied by MCA collaterals).
+* **Quadrantanopsia**:**
+    * **Meyer's Loop (Temporal)**:** "Pie in the Sky" (Contralateral Superior Quadrant).
+    * **Parietal Radiations**:** "Pie on the Floor" (Contralateral Inferior Quadrant).
 
 :::correlate
 **Papilledema (Slide 34)**
-*   **Pathophysiology:** Increased Intracranial Pressure (ICP) transmitted through the subarachnoid space surrounding the Optic Nerve.
-*   **Sign:** Swelling of the Optic Disc visible on fundoscopy. Blurred margins.
-*   **Context:** Brain tumor, Meningitis, Pseudotumor Cerebri.
+* **Pathophysiology**:** Increased Intracranial Pressure (ICP) transmitted through the subarachnoid space surrounding the Optic Nerve.
+* **Sign**:** Swelling of the Optic Disc visible on fundoscopy. Blurred margins.
+* **Context**:** Brain tumor, Meningitis, Pseudotumor Cerebri.
 :::
 
 :::correlate
 **Hemispatial Neglect (Slide 43-44)**
-*   **Lesion:** **Right Parietal Lobe** (Non-dominant hemisphere).
-*   **Presentation:** Patient ignores the **Left** side of the world/body.
+* **Lesion**:**Right Parietal Lobe** (Non-dominant hemisphere).
+* **Presentation**:** Patient ignores the **Left** side of the world/body.
     *   Starts eating from only right side of plate.
     *   Shaves only right face.
     *   Draws only right half of clock.
-*   **Note:** This is an *Attention* deficit, not a visual one.
+* **Note**:** This is an *Attention* deficit, not a visual one.
 :::
 
 :::mnemonic
@@ -217,18 +217,18 @@ The eye focuses light onto the retina to transduce it into neural signals.
 ## Visual System
 
 ### Anatomy
-*   **Anterior**: Cornea, Lens (Accommodation), Ciliary Body
-*   **Retina**: Fovea (Cones), Periphery (Rods), Optic Disc (Blind Spot)
+* **Anterior**: Cornea, Lens (Accommodation), Ciliary Body
+* **Retina**: Fovea (Cones), Periphery (Rods), Optic Disc (Blind Spot)
 
 ### Visual Pathway
 *   Retina → Optic Nerve → **Chiasm** (Cross) → Tract → **LGN** → Radiations → **V1**
 
 ### Lesions
-*   **Chiasm**: Bitemporal Hemianopsia (Pituitary Tumor)
-*   **Tract**: Homonymous Hemianopsia
-*   **Temporal Loop**: Superior Quadrant (Sky)
-*   **Parietal Loop**: Inferior Quadrant (Floor)
-*   **Parietal Lobe**: Hemispatial Neglect (Right lesion)
+* **Chiasm**: Bitemporal Hemianopsia (Pituitary Tumor)
+* **Tract**: Homonymous Hemianopsia
+* **Temporal Loop**: Superior Quadrant (Sky)
+* **Parietal Loop**: Inferior Quadrant (Floor)
+* **Parietal Lobe**: Hemispatial Neglect (Right lesion)
 \`
 };
 

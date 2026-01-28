@@ -9,15 +9,15 @@ export const L13_CONTENT = {
 ## 1. Dual Process Theory (Slide 4-5)
 
 Clinical reasoning involves two cognitive systems:
-*   **System 1 (Intuitive):** Fast, automatic, reflexive, pattern recognition. Used by experts for common cases. Prone to **Heuristic Biases**.
-*   **System 2 (Hypothetico-Deductive):** Slow, analytical, deliberate. Used for complex or unclear cases. Less prone to bias but resource-intensive.
+* **System 1 (Intuitive)**:** Fast, automatic, reflexive, pattern recognition. Used by experts for common cases. Prone to **Heuristic Biases**.
+* **System 2 (Hypothetico-Deductive)**:** Slow, analytical, deliberate. Used for complex or unclear cases. Less prone to bias but resource-intensive.
 
 ## 2. Cognitive Biases (Heuristics) (Slide 5, 26-28)
 
-*   **Anchoring:** Locking onto salient features in the patient's initial presentation too early and failing to adjust.
-*   **Availability Bias:** Judging a diagnosis as more likely because it is easily recalled (e.g., you just saw 3 cases of Appendicitis, so the next belly pain *must* be Appendicitis).
-*   **Confirmation Bias:** Seeking evidence to support your hypothesis while ignoring evidence that refutes it.
-*   **Premature Closure:** Stopping the diagnostic process before verifying the diagnosis or considering other possibilities. "When the diagnosis is made, the thinking stops."
+* **Anchoring**:** Locking onto salient features in the patient's initial presentation too early and failing to adjust.
+* **Availability Bias**:** Judging a diagnosis as more likely because it is easily recalled (e.g., you just saw 3 cases of Appendicitis, so the next belly pain *must* be Appendicitis).
+* **Confirmation Bias**:** Seeking evidence to support your hypothesis while ignoring evidence that refutes it.
+* **Premature Closure**:** Stopping the diagnostic process before verifying the diagnosis or considering other possibilities. "When the diagnosis is made, the thinking stops."
 
 ## 3. The Diagnostic Framework
 
@@ -35,23 +35,23 @@ A checklist to generate a broad Differential Diagnosis (DDx).
 
 ### Illness Scripts (Slide 18, 22)
 An organized mental summary of a disease, including:
-*   **Epidemiology/Pathophysiology:** Who gets it? Why?
-*   **Time Course:** Acute, Subacute, Chronic?
-*   **Salient Symptoms/Signs:** Key features (Prototypical presentation).
-*   **Diagnostics/Treatment:** Labs, Imaging, Meds.
+* **Epidemiology/Pathophysiology**:** Who gets it? Why?
+* **Time Course**:** Acute, Subacute, Chronic?
+* **Salient Symptoms/Signs**:** Key features (Prototypical presentation).
+* **Diagnostics/Treatment**:** Labs, Imaging, Meds.
 
 ## 4. Problem Representation (Slide 12, 35)
 A one-sentence summary of the case used to communicate and reason.
-*   *Structure:* [Patient Age/Sex/Risk Factors] presents with [Time Course] [Chief Complaint] characterized by [Key Features].
-*   *Example:* "A 3yo male with no PMH presents with 2 days of fever and ear pulling, found to have a bulging erythematous TM."
+* **  *Structure**:* [Patient Age/Sex/Risk Factors] presents with [Time Course] [Chief Complaint] characterized by [Key Features].
+* **  *Example**:* "A 3yo male with no PMH presents with 2 days of fever and ear pulling, found to have a bulging erythematous TM."
 
 :::correlate
 **Case Study: Acute Otitis Media (AOM)**
-*   **Presentation:** Fever, Ear Pain (Otalgia), Bulging Tympanic Membrane (TM), Loss of benchmarks.
-*   **Pathogens:** *Strep pneumoniae*, *Haemophilus influenzae*, *Moraxella catarrhalis*.
-*   **DDx:**
-    *   **Serous Otitis Media:** Fluid (effusion) but no active infection/bulging.
-    *   **Otitis Externa:** Swimmer's ear. Canal inflammation. Pain with tragal motion. flesh-colored canal makes this unlikely.
+* **Presentation**:** Fever, Ear Pain (Otalgia), Bulging Tympanic Membrane (TM), Loss of benchmarks.
+* **Pathogens**:** *Strep pneumoniae*, *Haemophilus influenzae*, *Moraxella catarrhalis*.
+* **DDx**:**
+    * **Serous Otitis Media**:** Fluid (effusion) but no active infection/bulging.
+    * **Otitis Externa**:** Swimmer's ear. Canal inflammation. Pain with tragal motion. flesh-colored canal makes this unlikely.
 :::
 `,
     pearls: [
@@ -202,19 +202,19 @@ A one-sentence summary of the case used to communicate and reason.
 ## Clinical Decision Making
 
 ### Dual Process Theory
-*   **System 1**: Intuitive, Fast, Bias-prone
-*   **System 2**: Analytical, Slow, Reliable
+* **System 1**: Intuitive, Fast, Bias-prone
+* **System 2**: Analytical, Slow, Reliable
 
 ### Cognitive Biases
-*   **Anchoring**: First impression stuck
-*   **Availability**: Recent memory bias
-*   **Confirmation**: Seeking supportive data
-*   **Premature Closure**: "Done thinking"
+* **Anchoring**: First impression stuck
+* **Availability**: Recent memory bias
+* **Confirmation**: Seeking supportive data
+* **Premature Closure**: "Done thinking"
 
 ### Frameworks
-*   **VINDICATE**: Checking all categories
-*   **Illness Scripts**: Mental disease models
-*   **Problem Representation**: One-liner summary
+* **VINDICATE**: Checking all categories
+* **Illness Scripts**: Mental disease models
+* **Problem Representation**: One-liner summary
 \`
 };
 

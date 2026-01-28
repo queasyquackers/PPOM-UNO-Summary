@@ -7,11 +7,11 @@ export const L33_CONTENT = {
 **Session:** Lecture 33
 
 ## 1. Receptors & Physiology
-*   **$\\alpha_1$ (Gq):** **Vasoconstriction** (Skin/Splanchnic), **Mydriasis** (Pupil Dilation), Urinary Sphincter Contraction.
-*   **$\\alpha_2$ (Gi):** Presynaptic **Inhibition** (Decreases NE release).
-*   **$\\beta_1$ (Gs):** **Heart** ($\\uparrow$ HR, $\\uparrow$ Contractility), Kidney ($\\uparrow$ Renin).
-*   **$\\beta_2$ (Gs):** **Bronchodilation**, **Vasodilation** (Skeletal Muscle), Uterine Relaxation (Tocolysis).
-*   **$\\beta_3$ (Gs):** Bladder Detrusor Relaxation.
+* **$\\alpha_1$ (Gq)**:**Vasoconstriction** (Skin/Splanchnic), **Mydriasis** (Pupil Dilation), Urinary Sphincter Contraction.
+* **$\\alpha_2$ (Gi)**:** Presynaptic **Inhibition** (Decreases NE release).
+* **$\\beta_1$ (Gs)**:**Heart** ($\\uparrow$ HR, $\\uparrow$ Contractility), Kidney ($\\uparrow$ Renin).
+* **$\\beta_2$ (Gs)**:**Bronchodilation**, **Vasodilation** (Skeletal Muscle), Uterine Relaxation (Tocolysis).
+* **$\\beta_3$ (Gs)**:** Bladder Detrusor Relaxation.
 
 ## 2. Direct-Acting Sympathomimetics
 
@@ -26,15 +26,15 @@ export const L33_CONTENT = {
 | **Isoproterenol** | $\\beta_1 = \\beta_2$ | $\\uparrow$ HR, Vasodilation ($\\downarrow$ DBP). | Bradycardia, Heart block (Rarely used). |
 
 ## 3. Hemodynamics (Key Concepts)
-*   **Mean Arterial Pressure (MAP):** $\\text{CO} \\times \\text{TPR}$.
-*   **Pulse Pressure:** $\\text{Systolic} - \\text{Diastolic}$.
-*   **Epinephrine Reversal:** Giving an $\\alpha$-blocker before Epinephrine converts its pressor effect ($\\alpha_1$) to a depressor effect ($\\beta_2$ unmasked) → Hypotension.
-*   **Reflex Bradycardia:** Pure $\\alpha_1$ agonists (Phenylephrine/Norepinephrine) cause massive vasoconstriction → $\\uparrow$ BP → Baroreceptors fire → Reflex $\\downarrow$ HR.
+* **Mean Arterial Pressure (MAP)**:** $\\text{CO} \\times \\text{TPR}$.
+* **Pulse Pressure**:** $\\text{Systolic} - \\text{Diastolic}$.
+* **Epinephrine Reversal**:** Giving an $\\alpha$-blocker before Epinephrine converts its pressor effect ($\\alpha_1$) to a depressor effect ($\\beta_2$ unmasked) → Hypotension.
+* **Reflex Bradycardia**:** Pure $\\alpha_1$ agonists (Phenylephrine/Norepinephrine) cause massive vasoconstriction → $\\uparrow$ BP → Baroreceptors fire → Reflex $\\downarrow$ HR.
 
 ## 4. Clinical Pearls
-*   **Anaphylaxis:** Epinephrine is the ONLY first-line drug. Prevents shock ($\\alpha_1$), opens airway ($\\beta_2$), stops mast cells.
-*   **Septic Shock:** Norepinephrine is first-line to restore MAP.
-*   **Tachyphylaxis:** Rapidly diminishing response to successive doses (seen with Indirect agonists like Tyramine/Ephedrine, less so with direct).
+* **Anaphylaxis**:** Epinephrine is the ONLY first-line drug. Prevents shock ($\\alpha_1$), opens airway ($\\beta_2$), stops mast cells.
+* **Septic Shock**:** Norepinephrine is first-line to restore MAP.
+* **Tachyphylaxis**:** Rapidly diminishing response to successive doses (seen with Indirect agonists like Tyramine/Ephedrine, less so with direct).
 `,
     pearls: [
         {
@@ -173,17 +173,17 @@ export const L33_CONTENT = {
 ## Sympathomimetics
 
 ### Direct Agonists
-*   **Epinephrine**: Anaphylaxis. A/B non-selective.
-*   **Norepinephrine**: Septic Shock. A1 > B1. No B2.
-*   **Dopamine**: Dose dependent (Renal → Heart → Pressor).
-*   **Dobutamine**: Heart Failure. B1 > B2.
-*   **Phenylephrine**: Pressor / Decongestant. A1.
-*   **Isoproterenol**: Bradycardia. B1 = B2.
+* **Epinephrine**: Anaphylaxis. A/B non-selective.
+* **Norepinephrine**: Septic Shock. A1 > B1. No B2.
+* **Dopamine**: Dose dependent (Renal → Heart → Pressor).
+* **Dobutamine**: Heart Failure. B1 > B2.
+* **Phenylephrine**: Pressor / Decongestant. A1.
+* **Isoproterenol**: Bradycardia. B1 = B2.
 
 ### Receptors
-*   **Alpha-1**: Vasoconstrict.
-*   **Beta-1**: Heart (+Inotropy).
-*   **Beta-2**: Lungs (Open), Vessels (Dilate).
+* **Alpha-1**: Vasoconstrict.
+* **Beta-1**: Heart (+Inotropy).
+* **Beta-2**: Lungs (Open), Vessels (Dilate).
 \`
 };
 

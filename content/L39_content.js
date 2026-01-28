@@ -7,35 +7,35 @@ export const L39_CONTENT = {
 **Session:** Lecture 39
 
 ## 1. Alpha-Adrenergic Antagonists (Alpha Blockers)
-*   **Non-Selective (Alpha-1 & Alpha-2):**
-    *   **Phenoxybenzamine:** **Irreversible** (Covalent bond). Long duration. Used pre-op for **Pheochromocytoma** (prevents hypertensive crisis).
-    *   **Phentolamine:** Competitive (Reversible). Used for **Epinephrine Reversal** (local anesthetic overdose) and Pheochromocytoma diagnosis/surgery.
-    *   *Side Effects:* Severe Orthostatic Hypotension, **Reflex Tachycardia** (due to Alpha-2 block increasing NE release).
-*   **Selective Alpha-1 Blockers (-zosins):**
-    *   **Prazosin, Terazosin, Doxazosin:** Used for HTN (add-on) and BPH.
-    *   **Tamsulosin (Flomax):** Alpha-1A selective ( Prostate specific). Used for **BPH** (less hypotension).
-    *   *Adverse Effects:* **First-Dose Effect** (Syncope/Severe Orthostatis) → Take at bedtime! **Floppy Iris Syndrome** (Cataract surgery risk).
-*   **Selective Alpha-2 Antagonist:**
-    *   **Yohimbine:** Increases NE release (blocks feedback). "Aphrodisiac". Causes anxiety/tremor.
+* **Non-Selective (Alpha-1 & Alpha-2)**:**
+    * **Phenoxybenzamine**:**Irreversible** (Covalent bond). Long duration. Used pre-op for **Pheochromocytoma** (prevents hypertensive crisis).
+    * **Phentolamine**:** Competitive (Reversible). Used for **Epinephrine Reversal** (local anesthetic overdose) and Pheochromocytoma diagnosis/surgery.
+    * **  *Side Effects**:* Severe Orthostatic Hypotension, **Reflex Tachycardia** (due to Alpha-2 block increasing NE release).
+* **Selective Alpha-1 Blockers (-zosins)**:**
+    * **Prazosin, Terazosin, Doxazosin**:** Used for HTN (add-on) and BPH.
+    * **Tamsulosin (Flomax)**:** Alpha-1A selective ( Prostate specific). Used for **BPH** (less hypotension).
+    * **  *Adverse Effects**:* **First-Dose Effect** (Syncope/Severe Orthostatis) → Take at bedtime! **Floppy Iris Syndrome** (Cataract surgery risk).
+* **Selective Alpha-2 Antagonist**:**
+    * **Yohimbine**:** Increases NE release (blocks feedback). "Aphrodisiac". Causes anxiety/tremor.
 
 ## 2. Beta-Adrenergic Antagonists (Beta Blockers)
-*   **Non-Selective (Beta-1 & Beta-2):**
-    *   **Propranolol:** Lipophilic (CNS effects: nightmares/sedation). Used for Migraine prophylaxis, Performance Anxiety (Stage fright), Thyroid Storm.
-    *   *Contraindication:* **Asthma/COPD** (Bronchoconstriction via B2).
-*   **Beta-1 Selective (Cardioselective):** ("A-M" - Atenolol, Metoprolol, Esmolol).
+* **Non-Selective (Beta-1 & Beta-2)**:**
+    * **Propranolol**:** Lipophilic (CNS effects: nightmares/sedation). Used for Migraine prophylaxis, Performance Anxiety (Stage fright), Thyroid Storm.
+    * **  *Contraindication**:* **Asthma/COPD** (Bronchoconstriction via B2).
+* **Beta-1 Selective (Cardioselective)**:** ("A-M" - Atenolol, Metoprolol, Esmolol).
     *   Safer in lung disease.
-*   **Combined Alpha/Beta Blockers:**
-    *   **Labetalol, Carvedilol:** Block Alpha-1 (Vasodilation) + Beta-1/2.
-    *   *Use:* **CHF** (Carvedilol decreases mortality), Hypertensive Emergencies (Labetalol).
+* **Combined Alpha/Beta Blockers**:**
+    * **Labetalol, Carvedilol**:** Block Alpha-1 (Vasodilation) + Beta-1/2.
+    * **  *Use**:* **CHF** (Carvedilol decreases mortality), Hypertensive Emergencies (Labetalol).
 
 ## 3. Key Pharmacology Concepts
-*   **Epinephrine Reversal:**
-    *   Normal Epi: Increases BP (Alpha-1 vasoconstriction > Beta-2 dilation).
-    *   Epi + Alpha Blocker: **Decreases BP** (Alpha blocked, unmasks Beta-2 vasodilation).
-*   **Diabetes & Beta Blockers:**
+* **Epinephrine Reversal**:**
+    * **  Normal Epi**: Increases BP (Alpha-1 vasoconstriction > Beta-2 dilation).
+    * **  Epi + Alpha Blocker**: **Decreases BP** (Alpha blocked, unmasks Beta-2 vasodilation).
+* **Diabetes & Beta Blockers**:**
     *   Beta blockers **MASK** symptoms of hypoglycemia (tachycardia, tremors).
     *   Non-selectives delay recovery from hypoglycemia (block liver gluconeogenesis).
-*   **Withdrawal:**
+* **Withdrawal**:**
     *   **NEVER** stop abruptly. Chronic use UPREGULATES receptors.
     *   Sudden stop → Rebound HTN, Angina, MI, Sudden Death.
 
@@ -181,26 +181,27 @@ export const L39_CONTENT = {
         primarySource: "SketchyPharm",
         chapter: "Autonomic Drugs > Adrenergic Antagonists",
         alternatives: [
-            { resource: "FirstAid", chapter: "Pharmacology > Autonomic Drugs" }
+            { resource: "FirstAid", chapter: "Pharmacology > Autonomic Drugs" },
+            { resource: "AMBOSS", chapter: "Pharmacology > Autonomic nervous system" }
         ]
     },
     mindmap: `
 ## Adrenergic Antagonists
 
 ### Alpha Blockers
-*   **Non-Selective**: Phenoxybenzamine (Irreversible, Pheo), Phentolamine (Reversible, Epi Reversal).
-*   **Alpha-1 Selective**: -zosins (BPH, HTN). *First Dose Syncope*. Tamsulosin (Prostate specific).
-*   **Alpha-2 Selective**: Yohimbine.
+* **Non-Selective**: Phenoxybenzamine (Irreversible, Pheo), Phentolamine (Reversible, Epi Reversal).
+* **Alpha-1 Selective**: -zosins (BPH, HTN). *First Dose Syncope*. Tamsulosin (Prostate specific).
+* **Alpha-2 Selective**: Yohimbine.
 
 ### Beta Blockers
-*   **Non-Selective**: Propranolol (Migraine, Thyrotoxicosis). *Avoid in Asthma*.
-*   **Beta-1 Selective**: Metoprolol, Atenolol. (Cardioselective).
-*   **Mixed (Alpha/Beta)**: Carvedilol, Labetalol. (CHF, HTN Emergency).
+* **Non-Selective**: Propranolol (Migraine, Thyrotoxicosis). *Avoid in Asthma*.
+* **Beta-1 Selective**: Metoprolol, Atenolol. (Cardioselective).
+* **Mixed (Alpha/Beta)**: Carvedilol, Labetalol. (CHF, HTN Emergency).
 
 ### Concepts
-*   **Epinephrine Reversal**: Alpha block leaves Beta-2 unopposed (BP Drop).
-*   **Diabetes**: Masks hypoglycemia (except sweating).
-*   **Withdrawal**: Rebound HTN (Upregulation).
+* **Epinephrine Reversal**: Alpha block leaves Beta-2 unopposed (BP Drop).
+* **Diabetes**: Masks hypoglycemia (except sweating).
+* **Withdrawal**: Rebound HTN (Upregulation).
 \`
 };
 

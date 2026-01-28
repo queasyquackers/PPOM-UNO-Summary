@@ -30,14 +30,14 @@ The spinal cord is wrapped in three meningeal layers:
 
 **Blood Supply:**
 The cord is supplied by one **Anterior Spinal Artery (ASA)** and two **Posterior Spinal Arteries (PSA)**.
-*   **ASA:** Supplies the anterior 2/3 of the cord (including the Ventral Horns/Motor and STT/Pain).
-*   **PSA:** Supplies the posterior 1/3 (Dorsal Columns/Sensory).
+* **ASA**:** Supplies the anterior 2/3 of the cord (including the Ventral Horns/Motor and STT/Pain).
+* **PSA**:** Supplies the posterior 1/3 (Dorsal Columns/Sensory).
 
 :::correlate
 **Anterior Spinal Artery (ASA) Syndrome**
 - **Pathophysiology:** Infarction of the ASA (often from aortic surgery or occlusion).
 - **Presentation:** Sudden onset of complete motor paralysis (Corticospinal tract) and loss of pain/temperature sensation (Spinothalamic tract) below the lesion.
-- **Key Distinction:** **Proprioception and Vibration are SPARED** because the Dorsal Columns are supplied by the Posterior Spinal Arteries.
+- **Key Distinction:**Proprioception and Vibration are SPARED** because the Dorsal Columns are supplied by the Posterior Spinal Arteries.
 :::
 
 ## 3. Internal Topography and Tracts (Slides 29-39)
@@ -194,19 +194,19 @@ These are **Polysynaptic**.
 ## Spinal Cord
 ### Tracts
 *   **Ascending (Sensory)**
-    *   **DCML**: Touch/Prop. (Ipsilateral in cord) → Decussates Medulla
-    *   **STT**: Pain/Temp. (Contralateral in cord) → Decussates Cord
+    * **DCML**: Touch/Prop. (Ipsilateral in cord) → Decussates Medulla
+    * **STT**: Pain/Temp. (Contralateral in cord) → Decussates Cord
 *   **Descending (Motor)**
-    *   **CST**: Motor (Ipsilateral in cord) → Decussates Medulla
+    * **CST**: Motor (Ipsilateral in cord) → Decussates Medulla
 ### Reflexes
-*   **Stretch**: Monosynaptic (DTRs)
-*   **Withdrawal**: Polysynaptic (Pain)
+* **Stretch**: Monosynaptic (DTRs)
+* **Withdrawal**: Polysynaptic (Pain)
 ### Pathology
-*   **ASA Syndrome**: Spares Dorsal Columns
-*   **Brown-Sequard**: Hemi-section
-    *   Ipsi: Motor, Proprioception
-    *   Contra: Pain/Temp
-*   **Tetanus**: Blocks Inhibition
+* **ASA Syndrome**: Spares Dorsal Columns
+* **Brown-Sequard**: Hemi-section
+    * **  Ipsi**: Motor, Proprioception
+    * **  Contra**: Pain/Temp
+* **Tetanus**: Blocks Inhibition
 `
 };
 

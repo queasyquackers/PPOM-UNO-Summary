@@ -7,50 +7,50 @@ export const L23_CONTENT = {
 **Session:** Lecture 23
 
 ## 1. Approach to Dizziness (Slide 6-27)
-*   **Vertigo:** Illusion of movement ("Spinning").
-*   **Peripheral (Inner Ear):**
-    *   *Nystagmus:* **Unidirectional** (usually horizontal/rotary).
-    *   *Fixation:* **Extinguishes** nystagmus.
-    *   *Walking:* Patient can usually walk.
-    *   *Hearing:* Often affected (Tinnitus/Loss).
-*   **Central (Brainstem/Cerebellum - Stroke/MS):**
-    *   *Nystagmus:* **Bidirectional** or **Vertical**.
-    *   *Fixation:* **Does NOT extinguish**.
-    *   *Walking:* Patient often cannot stand/walk (Ataxia).
-    *   *Hearing:* Usually normal.
-    *   **"Red Flags":** Comparison to Stroke (HINTS Exam).
+* **Vertigo**:** Illusion of movement ("Spinning").
+* **Peripheral (Inner Ear)**:**
+    * **  *Nystagmus**:* **Unidirectional** (usually horizontal/rotary).
+    * **  *Fixation**:* **Extinguishes** nystagmus.
+    * **  *Walking**:* Patient can usually walk.
+    * **  *Hearing**:* Often affected (Tinnitus/Loss).
+* **Central (Brainstem/Cerebellum - Stroke/MS)**:**
+    * **  *Nystagmus**:* **Bidirectional** or **Vertical**.
+    * **  *Fixation**:* **Does NOT extinguish**.
+    * **  *Walking**:* Patient often cannot stand/walk (Ataxia).
+    * **  *Hearing**:* Usually normal.
+    * **"Red Flags"**:** Comparison to Stroke (HINTS Exam).
 
 ## 2. Key Vestibular Pathologies
 ### Benign Paroxysmal Positional Vertigo (BPPV)
-*   **Duration:** **Seconds (< 1 minute)**.
-*   **Trigger:** Head movement (Rolling over in bed).
-*   **Mechanism:** Dislodged **Otoconia** (Calcium Carbonate crystals) in posterior semicircular canal.
-*   **Diagnosis:** **Dix-Hallpike** maneuver (Rotary nystagmus).
-*   **Treatment:** **Epley Maneuver**.
+* **Duration**:**Seconds (< 1 minute)**.
+* **Trigger**:** Head movement (Rolling over in bed).
+* **Mechanism**:** Dislodged **Otoconia** (Calcium Carbonate crystals) in posterior semicircular canal.
+* **Diagnosis**:**Dix-Hallpike** maneuver (Rotary nystagmus).
+* **Treatment**:**Epley Maneuver**.
 
 ### Meniere's Disease (Endolymphatic Hydrops)
-*   **Duration:** **Hours** (20 min - 24 hrs).
-*   **Classic Triad:**
+* **Duration**:**Hours** (20 min - 24 hrs).
+* **Classic Triad**:**
     1.  Episodic **Vertigo**.
     2.  **Tinnitus** ("Roaring").
     3.  **Sensorineural Hearing Loss** (Fluctuating, low frequency).
-*   **Mechanism:** Excess Endolymph fluid.
-*   **Treatment:** Low salt diet, **Diuretics** (HCTZ/Triamterene).
+* **Mechanism**:** Excess Endolymph fluid.
+* **Treatment**:** Low salt diet, **Diuretics** (HCTZ/Triamterene).
 
 ### Vestibulo-Cochlear Infections
-*   **Vestibular Neuritis:** Vertigo **only** (No hearing loss). Duration: **Days**. Usually viral. Rx: Corticosteroids.
-*   **Labyrinthitis:** Vertigo **+ Hearing Loss**. Viral or Bacterial.
+* **Vestibular Neuritis**:** Vertigo **only** (No hearing loss). Duration: **Days**. Usually viral. Rx: Corticosteroids.
+* **Labyrinthitis**:** Vertigo **+ Hearing Loss**. Viral or Bacterial.
 
 ## 3. Hearing Loss Evaluation (Slide 40-47)
 ### Conductive (CHL)
-*   *Anatomy:* Outer/Middle ear (Wax, Otitis Media, Otosclerosis).
-*   *Weber:* Lateralizes to **BAD** ear.
-*   *Rinne:* **BC > AC** (Bone Conduction > Air Conduction).
+* **  *Anatomy**:* Outer/Middle ear (Wax, Otitis Media, Otosclerosis).
+* **  *Weber**:* Lateralizes to **BAD** ear.
+* **  *Rinne**:* **BC > AC** (Bone Conduction > Air Conduction).
 
 ### Sensorineural (SNHL)
-*   *Anatomy:* Cochlea/Nerve (Presbycusis, Noise, Meniere's, Acoustic Neuroma).
-*   *Weber:* Lateralizes to **GOOD** ear.
-*   *Rinne:* **AC > BC** (Normal pattern, but reduced).
+* **  *Anatomy**:* Cochlea/Nerve (Presbycusis, Noise, Meniere's, Acoustic Neuroma).
+* **  *Weber**:* Lateralizes to **GOOD** ear.
+* **  *Rinne**:* **AC > BC** (Normal pattern, but reduced).
 
 ## 4. Clinical Correlates
 :::correlate
@@ -59,7 +59,7 @@ Used to distinguish Central (Stroke) from Peripheral vertigo in acute vestibular
 1.  **H**ead **I**mpulse: Normal impulse = **Central** (bad). (Peripheral has corrective saccade).
 2.  **N**ystagmus: Direction changing = **Central**.
 3.  **T**est of **S**kew: Vertical Skew = **Central**.
-*Pearl:* "INFARCT" (Impulse Normal, Fast-phase Alternating, Refixation on Cover Test).
+* **Pearl**:* "INFARCT" (Impulse Normal, Fast-phase Alternating, Refixation on Cover Test).
 :::
 
 :::correlate
@@ -217,17 +217,17 @@ Used to distinguish Central (Stroke) from Peripheral vertigo in acute vestibular
 ## Vestibular Pathology
 
 ### Peripheral (Inner Ear)
-*   **BPPV**: Seconds. Movement trigger. Otoconia. Rx: Epley.
-*   **Meniere's**: Hours. Triad (Vertigo, Tinnitus, HL). Hydrops. Rx: Diuretics.
-*   **Vestibular Neuritis**: Days. Viral. No HL.
-*   **Labyrinthitis**: Days. HL + Vertigo.
+* **BPPV**: Seconds. Movement trigger. Otoconia. Rx: Epley.
+* **Meniere's**: Hours. Triad (Vertigo, Tinnitus, HL). Hydrops. Rx: Diuretics.
+* **Vestibular Neuritis**: Days. Viral. No HL.
+* **Labyrinthitis**: Days. HL + Vertigo.
 
 ### Central (Brain)
-*   **Stroke / MS**: Vertical nystagmus. Ataxia. No fixation suppression. HINTS exam.
+* **Stroke / MS**: Vertical nystagmus. Ataxia. No fixation suppression. HINTS exam.
 
 ### Hearing Loss Testing
-*   **Conductive**: Weber to Bad. BC > AC.
-*   **Sensorineural**: Weber to Good. AC > BC.
+* **Conductive**: Weber to Bad. BC > AC.
+* **Sensorineural**: Weber to Good. AC > BC.
 \`
 };
 

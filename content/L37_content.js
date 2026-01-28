@@ -7,33 +7,33 @@ export const L37_CONTENT = {
 **Session:** Lecture 37
 
 ## 1. Motor System
-*   **Grading (0-5 Scale):**
-    *   **0:** No contraction.
-    *   **1:** Trace / Flicker.
-    *   **2:** Active movement with **gravity eliminated** (horizontal).
-    *   **3:** Active movement against **gravity only**.
-    *   **4:** Active movement against **resistance** (but weak).
-    *   **5:** Normal strength.
-*   **Key Roots:**
-    *   **C5/6:** Biceps, Deltoid, Brachioradialis.
-    *   **C7:** Triceps, Wrist Extension.
-    *   **C8/T1:** Hand intrinsics (Grip).
-    *   **L2/3/4:** Iliopsoas (Hip Flex), Quads (Knee Ext).
-    *   **L5:** Tibialis Ant (Dorsiflex/Heel walk).
-    *   **S1:** Gastroc (Plantarflex/Toe walk).
+* **Grading (0-5 Scale)**:**
+    * **0**:** No contraction.
+    * **1**:** Trace / Flicker.
+    * **2**:** Active movement with **gravity eliminated** (horizontal).
+    * **3**:** Active movement against **gravity only**.
+    * **4**:** Active movement against **resistance** (but weak).
+    * **5**:** Normal strength.
+* **Key Roots**:**
+    * **C5/6**:** Biceps, Deltoid, Brachioradialis.
+    * **C7**:** Triceps, Wrist Extension.
+    * **C8/T1**:** Hand intrinsics (Grip).
+    * **L2/3/4**:** Iliopsoas (Hip Flex), Quads (Knee Ext).
+    * **L5**:** Tibialis Ant (Dorsiflex/Heel walk).
+    * **S1**:** Gastroc (Plantarflex/Toe walk).
 
 ## 2. Reflexes (DTRs)
-*   **Grading (0-4 Scale):**
-    *   **0:** Absent.
-    *   **2:** Normal.
-    *   **4:** Hyperactive with **Clonus** (UMN).
-*   **Roots:**
-    *   **Biceps:** C5, C6.
-    *   **Brachioradialis:** C6.
-    *   **Triceps:** C7.
-    *   **Patellar:** L4.
-    *   **Achilles:** S1.
-*   **Reinforcement:** **Jendrassik Maneuver** (hook fingers and pull) distracts patient to elicit hard-to-find reflexes.
+* **Grading (0-4 Scale)**:**
+    * **0**:** Absent.
+    * **2**:** Normal.
+    * **4**:** Hyperactive with **Clonus** (UMN).
+* **Roots**:**
+    * **Biceps**:** C5, C6.
+    * **Brachioradialis**:** C6.
+    * **Triceps**:** C7.
+    * **Patellar**:** L4.
+    * **Achilles**:** S1.
+* **Reinforcement**:**Jendrassik Maneuver** (hook fingers and pull) distracts patient to elicit hard-to-find reflexes.
 
 ## 3. UMN vs LMN Findings
 
@@ -47,17 +47,17 @@ export const L37_CONTENT = {
 | **Fasciculations** | Absent | **Present** |
 
 ## 4. Coordination & Gait (Cerebellum)
-*   **Dysdiadochokinesis:** Inability to perform Rapid Alternating Movements (RAM).
-*   **Dysmetria:** Overshooting/Undershooting (Finger-to-Nose).
-*   **Ataxia:** Unsteady gait. *Tandem Walking* (Heel-to-toe) brings out subtle ataxia.
-*   **Romberg Test:**
+* **Dysdiadochokinesis**:** Inability to perform Rapid Alternating Movements (RAM).
+* **Dysmetria**:** Overshooting/Undershooting (Finger-to-Nose).
+* **Ataxia**:** Unsteady gait. *Tandem Walking* (Heel-to-toe) brings out subtle ataxia.
+* **Romberg Test**:**
     *   Patient stands, feet together, eyes **CLOSED**.
-    *   **Positive:** Patient sways/falls.
-    *   **Meaning:** Loss of **Proprioception** (Dorsal Columns). *Note: Cerebellar ataxia occurs with eyes OPEN too.*
+    * **Positive**:** Patient sways/falls.
+    * **Meaning**:** Loss of **Proprioception** (Dorsal Columns). *Note: Cerebellar ataxia occurs with eyes OPEN too.*
 
 ## 5. Other Signs
-*   **Pronator Drift:** Eyes closed, arms out palms up. If one arm pronates and drops → Contralateral **UMN** (Corticospinal) weakness.
-*   **Primitive Reflexes:** Grasp, Rooting, Snout. Seen in Frontal Lobe lesions (or babies).
+* **Pronator Drift**:** Eyes closed, arms out palms up. If one arm pronates and drops → Contralateral **UMN** (Corticospinal) weakness.
+* **Primitive Reflexes**:** Grasp, Rooting, Snout. Seen in Frontal Lobe lesions (or babies).
 `,
     pearls: [
         {
@@ -196,28 +196,28 @@ export const L37_CONTENT = {
 ## Neuro Exam II
 
 ### Motor Grading
-*   **0-1**: None/Trace.
-*   **2**: Gravity Elim.
-*   **3**: Gravity Only.
-*   **4**: Resistance (Weak).
-*   **5**: Normal.
+* **0-1**: None/Trace.
+* **2**: Gravity Elim.
+* **3**: Gravity Only.
+* **4**: Resistance (Weak).
+* **5**: Normal.
 
 ### Reflexes (0-4)
-*   **S1**: Ankle.
-*   **L4**: Knee.
-*   **C7**: Triceps.
-*   **C5/6**: Biceps.
-*   **Signs**: UMN (Hyper/Clonus), LMN (Hypo/Absent).
+* **S1**: Ankle.
+* **L4**: Knee.
+* **C7**: Triceps.
+* **C5/6**: Biceps.
+* **Signs**: UMN (Hyper/Clonus), LMN (Hypo/Absent).
 
 ### Coordination (Cerebellum)
-*   **RAM**: Dysdiadochokinesis.
-*   **Dysmetria**: Finger-to-nose overshoot.
-*   **Gait**: Ataxic, Tandem.
+* **RAM**: Dysdiadochokinesis.
+* **Dysmetria**: Finger-to-nose overshoot.
+* **Gait**: Ataxic, Tandem.
 
 ### Special Tests
-*   **Romberg**: Sensory Ataxia (Eyes Closed).
-*   **Pronator Drift**: UMN Weakness.
-*   **Babinski**: UMN (Upgoing toe).
+* **Romberg**: Sensory Ataxia (Eyes Closed).
+* **Pronator Drift**: UMN Weakness.
+* **Babinski**: UMN (Upgoing toe).
 \`
 };
 

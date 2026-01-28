@@ -11,39 +11,39 @@ export const L8_CONTENT = {
 The brainstem serves as a major conduit for ascending and descending pathways connecting the spinal cord, cerebellum, and cerebrum. Understanding the relative positions of these tracts at different levels (Midbrain, Pons, Medulla) is crucial for localizing lesions.
 
 ### Descending Tracts
-*   **Corticospinal Tract:**
-    *   **Function:** Voluntary motor control.
-    *   **Pathway:** Descends from the cerebral cortex.
-    *   **Trajectory:** It is always the **most ventral** structure throughout the brainstem.
-    *   **Decussation:** Most fibers decussate at the **caudal medulla** (pyramidal decussation) to form the lateral corticospinal tract in the spinal cord.
+* **Corticospinal Tract**:**
+    * **Function**:** Voluntary motor control.
+    * **Pathway**:** Descends from the cerebral cortex.
+    * **Trajectory**:** It is always the **most ventral** structure throughout the brainstem.
+    * **Decussation**:** Most fibers decussate at the **caudal medulla** (pyramidal decussation) to form the lateral corticospinal tract in the spinal cord.
 
 ### Ascending Tracts
-*   **Dorsal Column-Medial Lemniscus (DCML):**
-    *   **Function:** Fine touch, vibration, and proprioception for the body.
-    *   **Pathway:**
-        *   **Spinal Cord:** Ascends centrally as the Dorsal Columns (Gracile and Cuneate fasciculi).
-        *   **Medulla:** Synapses in the Dorsal Column Nuclei (Gracile and Cuneate nuclei).
-        *   **Decussation:** Axons form **Internal Arcuate Fibers** which decussate in the **caudal medulla** (Slide 16).
-        *   **Brainstem Ascent:** Ascends as the **Medial Lemniscus**.
-    *   **Trajectory:** It is always **medial** to the spinothalamic tract. Its orientation changes from vertical (medulla) to horizontal (midbrain) as it ascends.
-*   **Spinothalamic Tract (Anterolateral System):**
-    *   **Function:** Pain and temperature sensation.
-    *   **Pathway:** Decussates immediately in the spinal cord.
-    *   **Trajectory:** Ascends through the brainstem in a **lateral** position. It remains **lateral** to the DCML at all levels (Slide 17).
+* **Dorsal Column-Medial Lemniscus (DCML)**:**
+    * **Function**:** Fine touch, vibration, and proprioception for the body.
+    * **Pathway**:**
+        * **Spinal Cord**:** Ascends centrally as the Dorsal Columns (Gracile and Cuneate fasciculi).
+        * **Medulla**:** Synapses in the Dorsal Column Nuclei (Gracile and Cuneate nuclei).
+        * **Decussation**:** Axons form **Internal Arcuate Fibers** which decussate in the **caudal medulla** (Slide 16).
+        * **Brainstem Ascent**:** Ascends as the **Medial Lemniscus**.
+    * **Trajectory**:** It is always **medial** to the spinothalamic tract. Its orientation changes from vertical (medulla) to horizontal (midbrain) as it ascends.
+* **Spinothalamic Tract (Anterolateral System)**:**
+    * **Function**:** Pain and temperature sensation.
+    * **Pathway**:** Decussates immediately in the spinal cord.
+    * **Trajectory**:** Ascends through the brainstem in a **lateral** position. It remains **lateral** to the DCML at all levels (Slide 17).
 
 ## 2. Cerebellar Peduncles (Slide 18-20)
 
 The cerebellum communicates with the brainstem via three paired peduncles, located at specific levels:
 
-*   **Inferior Cerebellar Peduncle (ICP):**
-    *   **Level:** Medulla and lower Pons.
-    *   **Function:** Primarily **afferent** (input) to the cerebellum from the spinal cord (e.g., dorsal spinocerebellar tract) and medulla.
-*   **Middle Cerebellar Peduncle (MCP):**
-    *   **Level:** Pons.
-    *   **Function:** Entirely **afferent** (input) from the pontine nuclei (corticopontine pathway). It is the largest peduncle.
-*   **Superior Cerebellar Peduncle (SCP):**
-    *   **Level:** Upper Pons and lower Midbrain.
-    *   **Function:** Primarily **efferent** (output) from the deep cerebellar nuclei to the red nucleus and thalamus.
+* **Inferior Cerebellar Peduncle (ICP)**:**
+    * **Level**:** Medulla and lower Pons.
+    * **Function**:** Primarily **afferent** (input) to the cerebellum from the spinal cord (e.g., dorsal spinocerebellar tract) and medulla.
+* **Middle Cerebellar Peduncle (MCP)**:**
+    * **Level**:** Pons.
+    * **Function**:** Entirely **afferent** (input) from the pontine nuclei (corticopontine pathway). It is the largest peduncle.
+* **Superior Cerebellar Peduncle (SCP)**:**
+    * **Level**:** Upper Pons and lower Midbrain.
+    * **Function**:** Primarily **efferent** (output) from the deep cerebellar nuclei to the red nucleus and thalamus.
 
 ## 3. Cranial Nerve Nuclei Organization (Slide 22-26)
 
@@ -52,38 +52,37 @@ The organization of cranial nerve nuclei follows a rational developmental logic 
 ### Functional Columns
 Nuclei are arranged in longitudinal columns. A general rule for the brainstem is: **Motor is Medial, Sensory is Lateral**.
 
-*   **Motor Columns (Medial to Lateral):**
+* **Motor Columns (Medial to Lateral)**:**
     1.  **Somatic Motor (GSE):** Most medial near the midline. Innervates myotome-derived muscles (tongue, eye).
-        *   *Nuclei:* Oculomotor (III), Trochlear (IV), Abducens (VI), Hypoglossal (XII).
+        * **  *Nuclei**:* Oculomotor (III), Trochlear (IV), Abducens (VI), Hypoglossal (XII).
     2.  **Branchial Motor (SVE):** Ventrolateral. Innervates pharyngeal arch muscles.
-        *   *Nuclei:* Trigeminal Motor (V), Facial Motor (VII), Nucleus Ambiguus (IX, X), Spinal Accessory (XI).
+        * **  *Nuclei**:* Trigeminal Motor (V), Facial Motor (VII), Nucleus Ambiguus (IX, X), Spinal Accessory (XI).
     3.  **Visceral Motor (GVE):** Parasympathetic.
-        *   *Nuclei:* Edinger-Westphal (III), Superior Salivatory (VII), Inferior Salivatory (IX), Dorsal Motor Nucleus of Vagus (X).
+        * **  *Nuclei**:* Edinger-Westphal (III), Superior Salivatory (VII), Inferior Salivatory (IX), Dorsal Motor Nucleus of Vagus (X).
 
-*   **Sensory Columns (Medial to Lateral):**
+* **Sensory Columns (Medial to Lateral)**:**
     1.  **Visceral Sensory (GVA/SVA):**
-        *   *Nuclei:* Nucleus Solitarius (VII, IX, X - taste and cardiorespiratory).
+        * **  *Nuclei**:* Nucleus Solitarius (VII, IX, X - taste and cardiorespiratory).
     2.  **Somatic Sensory (GSA):** General sensation from face.
-        *   *Nuclei:* Trigeminal Nuclei (Mesencephalic, Pontine, Spinal).
+        * **  *Nuclei**:* Trigeminal Nuclei (Mesencephalic, Pontine, Spinal).
     3.  **Special Sensory (SSA):** Most lateral.
-        *   *Nuclei:* Vestibular and Cochlear Nuclei (VIII).
+        * **  *Nuclei**:* Vestibular and Cochlear Nuclei (VIII).
 
 :::mnemonic
-**Cranial Nerves (Sensory/Motor/Both)**
-**"Some Say Marry Money But My Brother Says Big Brains Matter More"**
+**Cranial Nerves (Sensory/Motor/Both)**"Some Say Marry Money But My Brother Says Big Brains Matter More"**
 
-*   **S**ome (I) - Sensory
-*   **S**ay (II) - Sensory
-*   **M**arry (III) - Motor
-*   **M**oney (IV) - Motor
-*   **B**ut (V) - Both
-*   **M**y (VI) - Motor
-*   **B**rother (VII) - Both
-*   **S**ays (VIII) - Sensory
-*   **B**ig (IX) - Both
-*   **B**rains (X) - Both
-*   **M**atter (XI) - Motor
-*   **M**ore (XII) - Motor
+* **S**ome (I)** - Sensory
+* **S**ay (II)** - Sensory
+* **M**arry (III)** - Motor
+* **M**oney (IV)** - Motor
+* **B**ut (V)** - Both
+* **M**y (VI)** - Motor
+* **B**rother (VII)** - Both
+* **S**ays (VIII)** - Sensory
+* **B**ig (IX)** - Both
+* **B**rains (X)** - Both
+* **M**atter (XI)** - Motor
+* **M**ore (XII)** - Motor
 :::
 `,
     pearls: [
@@ -237,22 +236,22 @@ Nuclei are arranged in longitudinal columns. A general rule for the brainstem is
 *   **Corticospinal**
     *   Voluntary motor
     *   Most Ventral position
-    *   Decussates: Caudal Medulla
+    * **  Decussates**: Caudal Medulla
 
 ### Ascending Tracts
 *   **DCML**
     *   Touch/Proprioception
     *   Medial to Spinothalamic
-    *   Decussates: Caudal Medulla (Internal Arcuate)
+    * **  Decussates**: Caudal Medulla (Internal Arcuate)
 *   **Spinothalamic**
     *   Pain/Temp
     *   Lateral position
-    *   Decussates: Spinal Cord
+    * **  Decussates**: Spinal Cord
 
 ### Cerebellar Peduncles
-*   **Inferior**: Medulla (Afferent)
-*   **Middle**: Pons (Afferent)
-*   **Superior**: Midbrain (Efferent)
+* **Inferior**: Medulla (Afferent)
+* **Middle**: Pons (Afferent)
+* **Superior**: Midbrain (Efferent)
 
 ### CN Nuclei Columns
 *   **Motor (Medial)**

@@ -7,19 +7,19 @@ export const L32_CONTENT = {
 **Session:** Lecture 32
 
 ## 1. Neuroanatomy
-*   **Organization:** Cortex (3 layers) covering Deep Nuclei.
-*   **Deep Nuclei (Lateral to Medial):** "**D**on't **E**at **G**reasy **F**ood".
+* **Organization**:** Cortex (3 layers) covering Deep Nuclei.
+* **Deep Nuclei (Lateral to Medial)**:** "**D**on't **E**at **G**reasy **F**ood".
     *   **D**entate.
     *   **E**mboliform.
     *   **G**lobose.
     *   **F**astigial.
-*   **Circuits:**
-    *   **Inputs:**
-        *   **Mossy Fibers:** From Spinal cord/Brainstem. Excitatory (**Glutamate**).
-        *   **Climbing Fibers:** From **Inferior Olive**. Excitatory (**Glutamate**).
-    *   **Processing:**
-        *   **Purkinje Cells:** The sole *output* of the cerebellar cortex. Releases **GABA** (Inhibitory) onto Deep Nuclei.
-    *   **Output:**
+* **Circuits**:**
+    * **Inputs**:**
+        * **Mossy Fibers**:** From Spinal cord/Brainstem. Excitatory (**Glutamate**).
+        * **Climbing Fibers**:** From **Inferior Olive**. Excitatory (**Glutamate**).
+    * **Processing**:**
+        * **Purkinje Cells**:** The sole *output* of the cerebellar cortex. Releases **GABA** (Inhibitory) onto Deep Nuclei.
+    * **Output**:**
         *   Deep Nuclei send final signal to Thalamus/Brainstem.
 
 ## 2. Functional Divisions & Pathology
@@ -32,13 +32,13 @@ export const L32_CONTENT = {
 | **Cerebro-cerebellum** | Lateral Hemispheres | Fine motor planning | **Intention Tremor**, Dysmetria, **Dysdiadochokinesia**. |
 
 ## 3. Clinical Syndromes
-*   **Essential Tremor:**
+* **Essential Tremor**:**
     *   Most common movement disorder. Familial (Autosomal Dominant).
     *   **Postural/Action Tremor** (worse when holding a cup).
-    *   *Note:* Improves with **Alcohol**. (Often self-medicated).
-*   **Intention Tremor:**
+    * **  *Note**:* Improves with **Alcohol**. (Often self-medicated).
+* **Intention Tremor**:**
     *   Cerebellar lesion. Tremor worsens *as you approach target*.
-*   **Resting Tremor:**
+* **Resting Tremor**:**
     *   Basal Ganglia (Parkinson's).
 
 ## 4. DANISH Mnemonic (Cerebellar Signs)
@@ -186,17 +186,17 @@ export const L32_CONTENT = {
 ## Cerebellum
 
 ### Anatomy
-*   **Deep Nuclei**: DEGF (Lat→Med).
-*   **Input**: Mossy (Pons/Cord), Climbing (Olive).
-*   **Output**: Purkinje (GABA) → Deep Nuclei.
+* **Deep Nuclei**: DEGF (Lat→Med).
+* **Input**: Mossy (Pons/Cord), Climbing (Olive).
+* **Output**: Purkinje (GABA) → Deep Nuclei.
 
 ### Functional Zones
-*   **Vestibulo (Flocculus)**: Balance, Eyes (Nystagmus).
-*   **Spino (Vermis)**: Trunk/Gait (Ataxia). Alcohol damage.
-*   **Cerebro (Hemispheres)**: Limbs (Intention Tremor).
+* **Vestibulo (Flocculus)**: Balance, Eyes (Nystagmus).
+* **Spino (Vermis)**: Trunk/Gait (Ataxia). Alcohol damage.
+* **Cerebro (Hemispheres)**: Limbs (Intention Tremor).
 
 ### Signs
-*   **DANISH**: Dysmetria, Ataxia, Nystagmus, Intention Tremor.
+* **DANISH**: Dysmetria, Ataxia, Nystagmus, Intention Tremor.
 *   **Ipsilateral** deficits.
 \`
 };

@@ -12,27 +12,27 @@ export const L29_CONTENT = {
 3.  **Performance:** Synaptic function.
 
 ## 2. Production (Proliferation)
-*   **Location:** **Ventricular Zone (VZ)**.
-*   **Mechanism:** Radial Glial cells divide to produce neurons.
-*   **Pathology:**
-    *   **Primary Microcephaly:** "Small brain". Reduced proliferation.
-        *   *Genes:* **ASPM** (Abnormal Spindle-like Microcephaly), **Citron Kinase**.
-    *   **Hemi-megalencephaly:** One hemisphere is too large. excess proliferation. (Risk of Epilepsy).
+* **Location**:**Ventricular Zone (VZ)**.
+* **Mechanism**:** Radial Glial cells divide to produce neurons.
+* **Pathology**:**
+    * **Primary Microcephaly**:** "Small brain". Reduced proliferation.
+        * **  *Genes**:* **ASPM** (Abnormal Spindle-like Microcephaly), **Citron Kinase**.
+    * **Hemi-megalencephaly**:** One hemisphere is too large. excess proliferation. (Risk of Epilepsy).
 
 ## 3. Placement (Migration)
-*   **Pattern:** **Inside-Out**. Oldest neurons are deep (Layer 6), Youngest are superficial (Layer 2).
-*   **Guidance:** **Radial Glia** fibers guide neurons. **Reelin** (secreted by **Cajal-Retzius cells** in Layer 1) tells them when to stop.
-*   **Pathology (neuronal migration disorders):**
-    *   **Periventricular Nodular Heterotopia (PVH):** Neurons fail to leave VZ. Nodules lining ventricles.
-        *   *Gene:* **Filamin A**.
-    *   **Subcortical Band Heterotopia (Double Cortex):** Neurons stuck in white matter (Intermediate Zone).
-        *   *Genes:* **DCX**, **LIS1**.
-    *   **Lissencephaly ("Smooth Brain"):** No gyri (Agyria).
-        *   *Gene:* **Reelin** mutations.
-    *   **Molecular Layer Heterotopia:** Neurons migrate *too far* (past Layer 2 into Layer 1). Associated with **Dyslexia** and **Epilepsy**.
+* **Pattern**:**Inside-Out**. Oldest neurons are deep (Layer 6), Youngest are superficial (Layer 2).
+* **Guidance**:**Radial Glia** fibers guide neurons. **Reelin** (secreted by **Cajal-Retzius cells** in Layer 1) tells them when to stop.
+* **Pathology (neuronal migration disorders)**:**
+    * **Periventricular Nodular Heterotopia (PVH)**:** Neurons fail to leave VZ. Nodules lining ventricles.
+        * **  *Gene**:* **Filamin A**.
+    * **Subcortical Band Heterotopia (Double Cortex)**:** Neurons stuck in white matter (Intermediate Zone).
+        * **  *Genes**:* **DCX**, **LIS1**.
+    * **Lissencephaly ("Smooth Brain")**:** No gyri (Agyria).
+        * **  *Gene**:* **Reelin** mutations.
+    * **Molecular Layer Heterotopia**:** Neurons migrate *too far* (past Layer 2 into Layer 1). Associated with **Dyslexia** and **Epilepsy**.
 
 ## 4. Gyrification
-*   **Timeline:** Large fissures (Sylvian) form first (14w). Frontal gyri form last.
+* **Timeline**:** Large fissures (Sylvian) form first (14w). Frontal gyri form last.
 `,
     pearls: [
         {
@@ -181,18 +181,18 @@ export const L29_CONTENT = {
 ## Neocortical Development
 
 ### Production (VZ)
-*   **Radial Glia**: Divide.
-*   **Microcephaly**: Low proliferation (**ASPM**).
-*   **Megalencephaly**: High proliferation.
+* **Radial Glia**: Divide.
+* **Microcephaly**: Low proliferation (**ASPM**).
+* **Megalencephaly**: High proliferation.
 
 ### Placement (Migration)
-*   **Inside-Out**: 6 → 2.
-*   **Guided by**: Radial Glia & Reelin.
-*   **Disorders**:
-    *   **PVH**: Stuck in VZ (**Filamin A**).
-    *   **Double Cortex**: Stuck in WM (**DCX**).
-    *   **Lissencephaly**: Smooth (**Reelin**).
-    *   **Molecular Heterotopia**: Too far (Dyslexia).
+* **Inside-Out**: 6 → 2.
+* **Guided by**: Radial Glia & Reelin.
+* **Disorders**:
+    * **PVH**: Stuck in VZ (**Filamin A**).
+    * **Double Cortex**: Stuck in WM (**DCX**).
+    * **Lissencephaly**: Smooth (**Reelin**).
+    * **Molecular Heterotopia**: Too far (Dyslexia).
 \`
 };
 

@@ -7,40 +7,40 @@ export const L46_CONTENT = {
 **Session:** Lecture 46
 
 ## 1. Sensory Pathways Review
-*   **Spinothalamic Tract:**
-    *   *Modality:* Pain, Temperature, Crude Touch.
-    *   *Fibers:* Small, Unmyelinated/Thinly myelinated.
-*   **Posterior Columns (DCML):**
-    *   *Modality:* Vibration, Proprioception, Fine Touch.
-    *   *Fibers:* Large, Heavily myelinated.
-    *   *Testing:* Always test **Distal** first (Toes/Fingers). If normal distally, proximal is likely normal.
+* **Spinothalamic Tract**:**
+    * **  *Modality**:* Pain, Temperature, Crude Touch.
+    * **  *Fibers**:* Small, Unmyelinated/Thinly myelinated.
+* **Posterior Columns (DCML)**:**
+    * **  *Modality**:* Vibration, Proprioception, Fine Touch.
+    * **  *Fibers**:* Large, Heavily myelinated.
+    * **  *Testing**:* Always test **Distal** first (Toes/Fingers). If normal distally, proximal is likely normal.
 
 ## 2. Cortical Sensation (Discriminative)
-*   *Requires:* Intact primary sensation (DCML/STT) + Intact **Parietal Lobe** (Sensory Cortex).
-*   **Stereognosis:** Identify common object (key, coin) in hand with eyes closed.
-*   **Graphesthesia:** Identify number drawn on palm.
-*   **Two-Point Discrimination:** Distinguish two points vs one.
-*   **Extinction:** Touch both sides simultaneously. If patient only feels one side, suspects contralateral parietal lesion (Neglect).
+* **  *Requires**:* Intact primary sensation (DCML/STT) + Intact **Parietal Lobe** (Sensory Cortex).
+* **Stereognosis**:** Identify common object (key, coin) in hand with eyes closed.
+* **Graphesthesia**:** Identify number drawn on palm.
+* **Two-Point Discrimination**:** Distinguish two points vs one.
+* **Extinction**:** Touch both sides simultaneously. If patient only feels one side, suspects contralateral parietal lesion (Neglect).
 
 ## 3. Meningeal Signs (Meningitis/SAH)
-*   **Brudzinski Sign:**
-    *   *Maneuver:* Flex patient's neck (chin to chest).
-    *   *Positive:* Involuntary flexion of **Hips and Knees**.
-*   **Kernig Sign:**
-    *   *Maneuver:* Flex hip/knee to 90 degrees, then slowly **Extend** the knee.
-    *   *Positive:* Pain/Resistance in hamstring.
+* **Brudzinski Sign**:**
+    * **  *Maneuver**:* Flex patient's neck (chin to chest).
+    * **  *Positive**:* Involuntary flexion of **Hips and Knees**.
+* **Kernig Sign**:**
+    * **  *Maneuver**:* Flex hip/knee to 90 degrees, then slowly **Extend** the knee.
+    * **  *Positive**:* Pain/Resistance in hamstring.
 
 ## 4. Special Musculoskeletal Tests
-*   **Cervical Spine (Radiculopathy):**
-    *   **Spurling Test:** Extend and Rotate head to affected side + Axial Compression. Positive = Radiation of pain down arm.
-    *   **Distraction Test:** Lift head (Traction). Positive = **Relief** of pain.
-*   **Lumbar Spine (Sciatica/Disc Herniation):**
-    *   **Straight Leg Raise (SLR):** Passive leg raise. Positive = Radicular pain between 30-70 degrees.
-    *   **Bragard's Test:** SLR + **Dorsiflexion** of foot. Increases nerve stretch.
-    *   **Crossed (Well) SLR:** Raise the **Unaffected** leg. Positive = Pain in the **Affected** leg. (Highly specific for Disc Herniation).
-*   **Malingering / Functional:**
-    *   **Hoover Test:** Cup both heels. Ask patient to lift the "paralyzed" leg.
-    *   *Positive for Malingering:* You do **NOT** feel downward pressure from the "normal" heel. (Normal physiology requires pushing down with the opposite leg to lift one leg).
+* **Cervical Spine (Radiculopathy)**:**
+    * **Spurling Test**:** Extend and Rotate head to affected side + Axial Compression. Positive = Radiation of pain down arm.
+    * **Distraction Test**:** Lift head (Traction). Positive = **Relief** of pain.
+* **Lumbar Spine (Sciatica/Disc Herniation)**:**
+    * **Straight Leg Raise (SLR)**:** Passive leg raise. Positive = Radicular pain between 30-70 degrees.
+    * **Bragard's Test**:** SLR + **Dorsiflexion** of foot. Increases nerve stretch.
+    * **Crossed (Well) SLR**:** Raise the **Unaffected** leg. Positive = Pain in the **Affected** leg. (Highly specific for Disc Herniation).
+* **Malingering / Functional**:**
+    * **Hoover Test**:** Cup both heels. Ask patient to lift the "paralyzed" leg.
+    * **  *Positive for Malingering**:* You do **NOT** feel downward pressure from the "normal" heel. (Normal physiology requires pushing down with the opposite leg to lift one leg).
 
 `,
     pearls: [
@@ -175,20 +175,20 @@ export const L46_CONTENT = {
 ## Neuro Exam 3
 
 ### Meningeal Signs
-*   **Brudzinski**: Neck Flex → Knees Flex.
-*   **Kernig**: Knee Extend → Pain.
+* **Brudzinski**: Neck Flex → Knees Flex.
+* **Kernig**: Knee Extend → Pain.
 
 ### Spine
-*   **Cervical**: Spurling (Compress). Distraction (Relief).
-*   **Lumbar**: SLR (Sensitive). Crossed SLR (Specific).
+* **Cervical**: Spurling (Compress). Distraction (Relief).
+* **Lumbar**: SLR (Sensitive). Crossed SLR (Specific).
 
 ### Cortical Sensory
-*   **Stereognosis**: Object ID.
-*   **Graphesthesia**: Number ID.
-*   **Extinction**: Neglect.
+* **Stereognosis**: Object ID.
+* **Graphesthesia**: Number ID.
+* **Extinction**: Neglect.
 
 ### Malingering
-*   **Hoover**: No downward pressure.
+* **Hoover**: No downward pressure.
 \`
 };
 

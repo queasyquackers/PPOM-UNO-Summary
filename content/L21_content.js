@@ -7,54 +7,54 @@ export const L21_CONTENT = {
 **Session:** Lecture 21
 
 ## 1. Class Overview (Slide 7-8)
-*   **Mechanism:** Competitive antagonists (or inverse agonists) at Muscarinic receptors (M1-M5).
-*   **Structure:**
-    *   **Tertiary Amines (Cross BBB):** Atropine, Scopolamine, Benztropine.
-    *   **Quaternary Ammonium (No CNS):** Ipratropium, Tiotropium, Glycopyrrolate.
+* **Mechanism**:** Competitive antagonists (or inverse agonists) at Muscarinic receptors (M1-M5).
+* **Structure**:**
+    * **Tertiary Amines (Cross BBB)**:** Atropine, Scopolamine, Benztropine.
+    * **Quaternary Ammonium (No CNS)**:** Ipratropium, Tiotropium, Glycopyrrolate.
 
 ## 2. Clinical Uses (Slide 21-23)
-*   **Atropine:**
-    *   **Bradycardia:** Blocks vagal tone (M2) → Increases HR.
-    *   **Antidote:** For Organophosphate poisoning.
-    *   **Pre-op:** Reduces metabolic secretions.
-    *   *Note:* Low doses can cause **Paradoxical Bradycardia** (blocks presynaptic M2 autoreceptors).
-*   **Scopolamine:**
-    *   **Motion Sickness:** Transdermal patch (bypasses first-pass).
-*   **Respiratory (COPD/Asthma):**
+* **Atropine**:**
+    * **Bradycardia**:** Blocks vagal tone (M2) → Increases HR.
+    * **Antidote**:** For Organophosphate poisoning.
+    * **Pre-op**:** Reduces metabolic secretions.
+    * **  *Note**:* Low doses can cause **Paradoxical Bradycardia** (blocks presynaptic M2 autoreceptors).
+* **Scopolamine**:**
+    * **Motion Sickness**:** Transdermal patch (bypasses first-pass).
+* **Respiratory (COPD/Asthma)**:**
     *   **Ipratropium** (Short) & **Tiotropium** (Long). Block bronchoconstriction + decrease secretions.
-*   **Urinary Incontinence (Overactive Bladder):**
+* **Urinary Incontinence (Overactive Bladder)**:**
     *   **Oxybutynin**. Relaxes detrusor muscle.
-*   **Parkinson's Disease:**
+* **Parkinson's Disease**:**
     *   **Benztropine**. Treats tremor (restores ACh/Dopamine balance).
-*   **Ophthalmology:**
+* **Ophthalmology**:**
     *   **Tropicamide/Cyclopentolate**. Induce Mydriasis (Dilation) & Cycloplegia (Paralysis of accommodation) for exams.
 
 ## 3. Toxicity: Anticholinergic Toxidrome (Slide 26-28)
-*   **Red as a Beet:** Cutaneous flushing (vasodilation to dissipate heat).
-*   **Dry as a Bone:** No sweating (Anhidrosis), dry mouth.
-*   **Hot as Hades:** Hyperthermia (cant sweat).
-*   **Blind as a Bat:** Mydriasis (dilated pupils) + Cycloplegia (blurry near vision).
-*   **Mad as a Hatter:** Delirium, Hallucinations (Central toxicity).
-*   **Full as a Flask:** Urinary Retention.
-*   **Treatment:** **Physostigmine** (crosses BBB) - *Use with caution!*
+* **Red as a Beet**:** Cutaneous flushing (vasodilation to dissipate heat).
+* **Dry as a Bone**:** No sweating (Anhidrosis), dry mouth.
+* **Hot as Hades**:** Hyperthermia (cant sweat).
+* **Blind as a Bat**:** Mydriasis (dilated pupils) + Cycloplegia (blurry near vision).
+* **Mad as a Hatter**:** Delirium, Hallucinations (Central toxicity).
+* **Full as a Flask**:** Urinary Retention.
+* **Treatment**:**Physostigmine** (crosses BBB) - *Use with caution!*
 
 ## 4. Contraindications (Slide 25)
-*   **Narrow-Angle Glaucoma:** Dilation blocks outflow → Acute crisis.
-*   **BPH (Prostatic Hyperplasia):** Worsens urinary retention.
-*   **Elderly:** Risk of falls, confusion, delirium (BEERS criteria).
-*   **GI Obstruction/Ileus:** Worsens constipation.
+* **Narrow-Angle Glaucoma**:** Dilation blocks outflow → Acute crisis.
+* **BPH (Prostatic Hyperplasia)**:** Worsens urinary retention.
+* **Elderly**:** Risk of falls, confusion, delirium (BEERS criteria).
+* **GI Obstruction/Ileus**:** Worsens constipation.
 
 ## 5. Clinical Correlates (Slide 31)
 
 :::correlate
 **Drug Interactions**
-*   **Oxybutynin + Macrolides (Erythromycin):** Macrolides inhibit **CYP3A4**. Oxybutynin is metabolized by CYP3A4. Result → **Anticholinergic Toxicity**.
+* **Oxybutynin + Macrolides (Erythromycin)**:** Macrolides inhibit **CYP3A4**. Oxybutynin is metabolized by CYP3A4. Result → **Anticholinergic Toxicity**.
 :::
 
 :::correlate
 **Use in Special Populations**
-*   **Children:** High risk of **Hyperthermia** ("Hot as Hades").
-*   **Elderly:** High risk of **Delirium** ("Mad as a Hatter") and Falls. Avoid if possible.
+* **Children**:** High risk of **Hyperthermia** ("Hot as Hades").
+* **Elderly**:** High risk of **Delirium** ("Mad as a Hatter") and Falls. Avoid if possible.
 :::
 `,
     pearls: [
@@ -205,18 +205,18 @@ export const L21_CONTENT = {
 ## Muscarinic Antagonists
 
 ### Tertiary (CNS)
-*   **Atropine**: Bradycardia, Antidote
-*   **Scopolamine**: Motion Sickness
-*   **Benztropine**: Parkinson's
+* **Atropine**: Bradycardia, Antidote
+* **Scopolamine**: Motion Sickness
+* **Benztropine**: Parkinson's
 
 ### Quaternary (No CNS)
-*   **Ipratropium/Tiotropium**: COPD/Asthma
-*   **Glycopyrrolate**: Pre-op secretions, Hyperhidrosis
-*   **Oxybutynin**: Overactive Bladder
+* **Ipratropium/Tiotropium**: COPD/Asthma
+* **Glycopyrrolate**: Pre-op secretions, Hyperhidrosis
+* **Oxybutynin**: Overactive Bladder
 
 ### Toxicity (Anticholinergic)
 *   Red, Dry, Hot, Blind, Mad, Full
-*   **Antidote**: Physostigmine
+* **Antidote**: Physostigmine
 
 ### Contraindications
 *   Glaucoma, BPH, Elderly, Ileus

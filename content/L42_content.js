@@ -7,44 +7,44 @@ export const L42_CONTENT = {
 **Session:** Lecture 42
 
 ## 1. Demyelinating Diseases (Myelin Destruction)
-*   **Multiple Sclerosis (MS):**
+* **Multiple Sclerosis (MS)**:**
     *   **Autoimmune** destruction of CNS myelin (Oligodendrocytes).
-    *   *Pathology:* **Periventricular Plaques** ("Dawson's Fingers"). Reactive Gliosis. Preservation of Axons (early).
-    *   *CSF:* **Oligoclonal IgG Bands** (Intrathecal synthesis).
-    *   *Clinical:* Relapsing-Remitting course. **Optic Neuritis** (Painful vision loss), **INO** (MLF lesion), **Lhermitte Sign** (Electric shock with neck flexion), **Uhthoff Phenomenon** (Heat worsens symptoms).
-    *   *Epidemiology:* Women > Men. Far from equator (Vitamin D).
-*   **Guillain-Barré Syndrome (GBS):**
+    * **  *Pathology**:* **Periventricular Plaques** ("Dawson's Fingers"). Reactive Gliosis. Preservation of Axons (early).
+    * **  *CSF**:* **Oligoclonal IgG Bands** (Intrathecal synthesis).
+    * **  *Clinical**:* Relapsing-Remitting course. **Optic Neuritis** (Painful vision loss), **INO** (MLF lesion), **Lhermitte Sign** (Electric shock with neck flexion), **Uhthoff Phenomenon** (Heat worsens symptoms).
+    * **  *Epidemiology**:* Women > Men. Far from equator (Vitamin D).
+* **Guillain-Barré Syndrome (GBS)**:**
     *   **Autoimmune** destruction of PNS myelin (Schwann Cells).
-    *   *Pathology:* Segmental demyelination + Lymphocytic infiltration.
-    *   *Clinical:* Acute **Ascending Paralysis** + Areflexia.
-    *   *Trigger:* *Campylobacter jejuni*, CMV, EBV (Molecular Mimicry).
-    *   *CSF:* Albuminocytologic Dissociation (High Protein, Normal Cells).
+    * **  *Pathology**:* Segmental demyelination + Lymphocytic infiltration.
+    * **  *Clinical**:* Acute **Ascending Paralysis** + Areflexia.
+    * **  *Trigger**:* *Campylobacter jejuni*, CMV, EBV (Molecular Mimicry).
+    * **  *CSF**:* Albuminocytologic Dissociation (High Protein, Normal Cells).
 *   **Central Pontine Myelinolysis (Osmotic Demyelination):**
-    *   *Cause:* Rapid correction of **Hyponatremia**. ("From Low to High, your Pons will Die").
-    *   *Clinical:* **Locked-In Syndrome** (Quadriplegia + Preserved Consciousness/Eye movements).
+    * **  *Cause**:* Rapid correction of **Hyponatremia**. ("From Low to High, your Pons will Die").
+    * **  *Clinical**:* **Locked-In Syndrome** (Quadriplegia + Preserved Consciousness/Eye movements).
 
 ## 2. Dysmyelinating Diseases (Leukodystrophies)
-*   *Definition:* Genetic defects in myelin *formation* or *turnover*.
-*   **Metachromatic Leukodystrophy (MLD):**
-    *   *Deficiency:* **Arylsulfatase A**.
-    *   *Accumulation:* Sulfatides.
-    *   *Path:* Metachromasia (change in dye color).
-*   **Krabbe Disease (Globoid Cell Leukodystrophy):**
-    *   *Deficiency:* **Galactocerebrosidase**.
-    *   *Accumulation:* Galactosylsphingosine (Psychosine) - Toxic.
-    *   *Path:* **Globoid Cells** (Engorged Macrophages).
-*   **Adrenoleukodystrophy (ALD):**
-    *   *Genetics:* **X-Linked Recessive** (ABCD1 gene).
-    *   *Defect:* Peroxisomal transporter.
-    *   *Accumulation:* **Very Long Chain Fatty Acids (VLCFA)**.
-    *   *Clinical:* Adrenal Insufficiency + CNS deterioration in young boys.
+* **  *Definition**:* Genetic defects in myelin *formation* or *turnover*.
+* **Metachromatic Leukodystrophy (MLD)**:**
+    * **  *Deficiency**:* **Arylsulfatase A**.
+    * **  *Accumulation**:* Sulfatides.
+    * **  *Path**:* Metachromasia (change in dye color).
+* **Krabbe Disease (Globoid Cell Leukodystrophy)**:**
+    * **  *Deficiency**:* **Galactocerebrosidase**.
+    * **  *Accumulation**:* Galactosylsphingosine (Psychosine) - Toxic.
+    * **  *Path**:* **Globoid Cells** (Engorged Macrophages).
+* **Adrenoleukodystrophy (ALD)**:**
+    * **  *Genetics**:* **X-Linked Recessive** (ABCD1 gene).
+    * **  *Defect**:* Peroxisomal transporter.
+    * **  *Accumulation**:* **Very Long Chain Fatty Acids (VLCFA)**.
+    * **  *Clinical**:* Adrenal Insufficiency + CNS deterioration in young boys.
 
 ## 3. Infectious Demyelination
 *   **Progressive Multifocal Leukoencephalopathy (PML):**
-    *   *Pathogen:* **JC Virus** (Reactivation).
-    *   *Host:* Immunosuppressed (AIDS CD4 < 200).
-    *   *Path:* Lytic infection of Oligodendrocytes. Enlarged nuclei with "Ground Glass" viral inclusions.
-    *   *Clinical:* Rapidly progressive multifocal deficits. Death.
+    * **  *Pathogen**:* **JC Virus** (Reactivation).
+    * **  *Host**:* Immunosuppressed (AIDS CD4 < 200).
+    * **  *Path**:* Lytic infection of Oligodendrocytes. Enlarged nuclei with "Ground Glass" viral inclusions.
+    * **  *Clinical**:* Rapidly progressive multifocal deficits. Death.
 
 `,
     pearls: [
@@ -174,27 +174,29 @@ export const L42_CONTENT = {
         }
     ],
     ankingResource: {
-        primarySource: "AMBOSS",
-        chapter: "Neurology > Demyelinating Disorders",
+        primarySource: "Pathoma",
+        chapter: "Central Nervous System > Demyelinating Disorders",
         alternatives: [
-            { resource: "FirstAid", chapter: "Neurology > Demyelinating" }
+            { resource: "AMBOSS", chapter: "Neurology > Demyelinating Disorders" },
+            { resource: "FirstAid", chapter: "Neurology > Demyelinating" },
+            { resource: "SketchyPath", chapter: "Neurology > Demyelinating" }
         ]
     },
     mindmap: `
 ## Demyelination
 
 ### CNS (Oligodendrocytes)
-*   **MS**: Autoimmune. Plaques. Optic Neuritis. Relapsing.
-*   **PML**: JC Virus. AIDS.
-*   **CPM**: Hyponatremia correction. Pons.
+* **MS**: Autoimmune. Plaques. Optic Neuritis. Relapsing.
+* **PML**: JC Virus. AIDS.
+* **CPM**: Hyponatremia correction. Pons.
 
 ### PNS (Schwann Cells)
-*   **GBS**: Ascending. Areflexia. Campylobacter.
+* **GBS**: Ascending. Areflexia. Campylobacter.
 
 ### Leukodystrophies (Genetic)
-*   **Metachromatic**: Arylsulfatase A.
-*   **Krabbe**: Globoid Cells.
-*   **ALD**: VLCFA. Adrenal.
+* **Metachromatic**: Arylsulfatase A.
+* **Krabbe**: Globoid Cells.
+* **ALD**: VLCFA. Adrenal.
 \`
 };
 

@@ -8,45 +8,45 @@ export const L43_CONTENT = {
 
 ## 1. Acute Exacerbations (Flare-ups)
 *   **Glucocorticoids (High Dose IV Methylprednisolone):**
-    *   *Mechanism:* Induces **Lipocortin** → Inhibits Phospholipase A2 → Decreased Prostaglandins/Leukotrienes.
-    *   *Use:* Shortens duration of acute attacks (e.g., Optic Neuritis). Does **NOT** change long-term prognosis.
-    *   *Adverse Effects:* HPA axis suppression (Taper needed), Osteoporosis, Hyperglycemia, Insomnia.
+    * **  *Mechanism**:* Induces **Lipocortin** → Inhibits Phospholipase A2 → Decreased Prostaglandins/Leukotrienes.
+    * **  *Use**:* Shortens duration of acute attacks (e.g., Optic Neuritis). Does **NOT** change long-term prognosis.
+    * **  *Adverse Effects**:* HPA axis suppression (Taper needed), Osteoporosis, Hyperglycemia, Insomnia.
 
 ## 2. Disease Modifying Therapies (DMTs)
-*   **Interferon Beta (1a & 1b):**
-    *   *Mechanism:* Cytokine (JAK/STAT); Inhibits T-cell activation/migration across BBB.
-    *   *Adverse Effects:* **Flu-like symptoms** (Fever, chills, aches), **Depression**, Liver toxicity.
-*   **Glatiramer Acetate:**
-    *   *Mechanism:* Synthetic polypeptide (Myelin Basic Protein decoy). Shifts immune response from Th1 (Pro-inflammatory) to Th2 (Anti-inflammatory).
-    *   *Adverse Effects:* Injection site reactions, **Post-injection systemic reaction** (Flushing, Chest chest tightness - benign but scary).
-    *   *Note:* **Safest in Pregnancy**.
-*   **Natalizumab:**
-    *   *Mechanism:* Monoclonal antibody against **$\\alpha$4-integrin**. Blocks leukocytes from binding VCAM-1 and entering the CNS.
-    *   *Adverse Effects:* **PML (Progressive Multifocal Leukoencephalopathy)** due to JC Virus reactivation.
-*   **Fingolimod:**
-    *   *Mechanism:* **S1P Receptor Modulator**. Sequesters lymphocytes in lymph nodes (can't exit).
-    *   *Adverse Effects:* **Bradycardia** (Monitor EKG at first dose), Macular Edema.
-*   **Dimethyl Fumarate:**
-    *   *Mechanism:* Activates **Nrf2** (Antioxidant pathway).
-    *   *Adverse Effects:* **Flushing**, GI upset.
-*   **Teriflunomide:**
-    *   *Mechanism:* Inhibits Pyrimidine synthesis (Dihydroorotate dehydrogenase).
-    *   *Adverse Effects:* **Hepatotoxicity**, **Teratogenicity** (Contraindicated in pregnancy).
-*   **Mitoxantrone:**
-    *   *Mechanism:* Anthracycline analog. Intercalates DNA / Inhibits Topoisomerase II.
-    *   *Use:* Secondary Progressive MS.
-    *   *Adverse Effects:* **Cardiotoxicity** (Dilated Cardiomyopathy - monitor EF), Acute Myeloid Leukemia (AML). "Blue" discoloration of urine/sclera.
-*   **Anti-CD20 (Ocrelizumab, Rituximab):**
-    *   *Mechanism:* B-cell depletion.
-    *   *Adverse Effects:* Infusion reactions, Hepatitis B reactivation.
+* **Interferon Beta (1a & 1b)**:**
+    * **  *Mechanism**:* Cytokine (JAK/STAT); Inhibits T-cell activation/migration across BBB.
+    * **  *Adverse Effects**:* **Flu-like symptoms** (Fever, chills, aches), **Depression**, Liver toxicity.
+* **Glatiramer Acetate**:**
+    * **  *Mechanism**:* Synthetic polypeptide (Myelin Basic Protein decoy). Shifts immune response from Th1 (Pro-inflammatory) to Th2 (Anti-inflammatory).
+    * **  *Adverse Effects**:* Injection site reactions, **Post-injection systemic reaction** (Flushing, Chest chest tightness - benign but scary).
+    * **  *Note**:* **Safest in Pregnancy**.
+* **Natalizumab**:**
+    * **  *Mechanism**:* Monoclonal antibody against **$\\alpha$4-integrin**. Blocks leukocytes from binding VCAM-1 and entering the CNS.
+    * **  *Adverse Effects**:* **PML (Progressive Multifocal Leukoencephalopathy)** due to JC Virus reactivation.
+* **Fingolimod**:**
+    * **  *Mechanism**:* **S1P Receptor Modulator**. Sequesters lymphocytes in lymph nodes (can't exit).
+    * **  *Adverse Effects**:* **Bradycardia** (Monitor EKG at first dose), Macular Edema.
+* **Dimethyl Fumarate**:**
+    * **  *Mechanism**:* Activates **Nrf2** (Antioxidant pathway).
+    * **  *Adverse Effects**:* **Flushing**, GI upset.
+* **Teriflunomide**:**
+    * **  *Mechanism**:* Inhibits Pyrimidine synthesis (Dihydroorotate dehydrogenase).
+    * **  *Adverse Effects**:* **Hepatotoxicity**, **Teratogenicity** (Contraindicated in pregnancy).
+* **Mitoxantrone**:**
+    * **  *Mechanism**:* Anthracycline analog. Intercalates DNA / Inhibits Topoisomerase II.
+    * **  *Use**:* Secondary Progressive MS.
+    * **  *Adverse Effects**:* **Cardiotoxicity** (Dilated Cardiomyopathy - monitor EF), Acute Myeloid Leukemia (AML). "Blue" discoloration of urine/sclera.
+* **Anti-CD20 (Ocrelizumab, Rituximab)**:**
+    * **  *Mechanism**:* B-cell depletion.
+    * **  *Adverse Effects**:* Infusion reactions, Hepatitis B reactivation.
 
 ## 3. Symptomatic Treatment
-*   **Spasticity:**
+* **Spasticity**:**
     *   **Baclofen** (GABA-B agonist).
     *   **Tizanidine** ($\\alpha$2-adrenergic agonist).
-*   **Walking Speed:**
-    *   **Dalfampridine** (K+ Channel Blocker) - Enhances conduction.
-*   **Urinary Incontinence:**
+* **Walking Speed**:**
+    * **Dalfampridine** (K+ Channel Blocker)** - Enhances conduction.
+* **Urinary Incontinence**:**
     *   **Oxybutynin** (Muscarinic Antagonist).
     *   **Botulinum Toxin** (Cleaves SNARE proteins).
 
@@ -178,35 +178,36 @@ export const L43_CONTENT = {
         }
     ],
     ankingResource: {
-        primarySource: "AMBOSS",
-        chapter: "Neurology > Multiple Sclerosis > Management",
+        primarySource: "SketchyPharm",
+        chapter: "Smooth Muscle & CNS Drugs > Multiple Sclerosis Drugs",
         alternatives: [
-            { resource: "FirstAid", chapter: "Pharmacology > Neurologic" }
+            { resource: "FirstAid", chapter: "Pharmacology > Neurologic" },
+            { resource: "AMBOSS", chapter: "Neurology > Multiple Sclerosis > Management" }
         ]
     },
     mindmap: `
 ## MS Pharmacology
 
 ### Acute
-*   **Steroids**: Methylprednisolone. Anti-inflammatory. Optic Neuritis.
+* **Steroids**: Methylprednisolone. Anti-inflammatory. Optic Neuritis.
 
 ### DMTs
-*   **Injections**:
-    *   **Interferon**: Flu-like, Depression.
-    *   **Glatiramer**: Safe in pregnancy. Decoy.
-*   **Orals**:
-    *   **Fingolimod**: S1P (Sequesters). Bradycardia.
-    *   **Dimethyl Fumarate**: Nrf2. Flush.
-    *   **Teriflunomide**: Pyrimidine inhib. Teratogen.
-*   **Infusions**:
-    *   **Natalizumab**: Alpha-4 Integrin. PML.
-    *   **Ocrelizumab**: Anti-CD20.
-    *   **Mitoxantrone**: Cardio toxic (Blue).
+* **Injections**:
+    * **Interferon**: Flu-like, Depression.
+    * **Glatiramer**: Safe in pregnancy. Decoy.
+* **Orals**:
+    * **Fingolimod**: S1P (Sequesters). Bradycardia.
+    * **Dimethyl Fumarate**: Nrf2. Flush.
+    * **Teriflunomide**: Pyrimidine inhib. Teratogen.
+* **Infusions**:
+    * **Natalizumab**: Alpha-4 Integrin. PML.
+    * **Ocrelizumab**: Anti-CD20.
+    * **Mitoxantrone**: Cardio toxic (Blue).
 
 ### Symptomatic
-*   **Spasticity**: Baclofen (GABA-B), Tizanidine (a2).
-*   **Walking**: Dalfampridine (K+ block).
-*   **Bladder**: Oxybutynin.
+* **Spasticity**: Baclofen (GABA-B), Tizanidine (a2).
+* **Walking**: Dalfampridine (K+ block).
+* **Bladder**: Oxybutynin.
 \`
 };
 

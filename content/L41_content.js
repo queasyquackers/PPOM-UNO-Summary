@@ -7,50 +7,50 @@ export const L41_CONTENT = {
 **Session:** Lecture 41
 
 ## 1. Localization Approach
-*   **Myelopathy (Spinal Cord):** UMN signs below, Sensory level, Bowel/Bladder.
-*   **Anterior Horn Cell:** LMN signs (Weakness, Atrophy, Fasciculations). **Sensory SPARED**.
-*   **Radiculopathy (Root):** Radiating pain, Dermatomal sensory loss.
-*   **Plexopathy:** Multiple nerves/roots involved. Painful (e.g., Parsonage-Turner).
-*   **Peripheral Neuropathy:** Stocking-glove sensory loss, Distal weakness.
-*   **NMJ:** Fatigable weakness, Diplopia/Ptosis. **Sensory SPARED**.
-*   **Myopathy:** Proximal muscle weakness. **Sensory SPARED**.
+* **Myelopathy (Spinal Cord)**:** UMN signs below, Sensory level, Bowel/Bladder.
+* **Anterior Horn Cell**:** LMN signs (Weakness, Atrophy, Fasciculations). **Sensory SPARED**.
+* **Radiculopathy (Root)**:** Radiating pain, Dermatomal sensory loss.
+* **Plexopathy**:** Multiple nerves/roots involved. Painful (e.g., Parsonage-Turner).
+* **Peripheral Neuropathy**:** Stocking-glove sensory loss, Distal weakness.
+* **NMJ**:** Fatigable weakness, Diplopia/Ptosis. **Sensory SPARED**.
+* **Myopathy**:** Proximal muscle weakness. **Sensory SPARED**.
 
 ## 2. Anterior Horn Cell Disorders
-*   **ALS (Amyotrophic Lateral Sclerosis):**
+* **ALS (Amyotrophic Lateral Sclerosis)**:**
     *   **UMN + LMN Signs** in same segment.
     *   Asymmetric limb weakness, Bulbar signs (Dysarthria/Dysphagia).
     *   **Sensory Spared**.
-*   **Polio & West Nile Virus:**
+* **Polio & West Nile Virus**:**
     *   Acute, **Asymmetric** flaccid paralysis (LMN).
     *   Fever/Meningeal signs.
-*   **Spinal Muscular Atrophy (SMA):**
+* **Spinal Muscular Atrophy (SMA)**:**
     *   Genetic (SMN1). **Symmetric** LMN weakness.
 
 ## 3. Peripheral Nerve Disorders
-*   **Guillain-Barré Syndrome (AIDP):**
+* **Guillain-Barré Syndrome (AIDP)**:**
     *   Acute **Ascending** Paralysis. Post-infectious (*Campylobacter*, Zika).
-    *   *LP:* **Albuminocytologic Dissociation** (High Protein, Normal Cells).
-    *   *Tx:* IVIG or Plasma Exchange. **NO Steroids**.
+    * **  *LP**:* **Albuminocytologic Dissociation** (High Protein, Normal Cells).
+    * **  *Tx**:* IVIG or Plasma Exchange. **NO Steroids**.
 *   **CIDP (Chronic Inflammatory Demyelinating Polyneuropathy):**
     *   Chronic (>8 weeks). "Chronic GBS".
-    *   *Tx:* **Steroids**, IVIG.
-*   **Leprosy:** Hansen's Disease. Mutilating neuropathy (Armadillos).
+    * **  *Tx**:* **Steroids**, IVIG.
+* **Leprosy**:** Hansen's Disease. Mutilating neuropathy (Armadillos).
 
 ## 4. Neuromuscular Junction (NMJ)
-*   **Myasthenia Gravis (MG):**
+* **Myasthenia Gravis (MG)**:**
     *   **Post-synaptic** ACh Receptor Antibodies.
-    *   *Clinical:* Ptosis, Diplopia, Bulbar weakness. **Fatigue** (Worse at end of day).
-    *   *Association:* **Thymoma**.
-*   **Lambert-Eaton Myasthenic Syndrome (LEMS):**
+    * **  *Clinical**:* Ptosis, Diplopia, Bulbar weakness. **Fatigue** (Worse at end of day).
+    * **  *Association**:* **Thymoma**.
+* **Lambert-Eaton Myasthenic Syndrome (LEMS)**:**
     *   **Pre-synaptic** Voltage-Gated Calcium Channel Antibodies.
-    *   *Clinical:* Proximal leg weakness. **Facilitation** (Strength IMPROVES with use). Dry mouth.
-    *   *Association:* **Small Cell Lung Cancer**.
-*   **Botulism:**
+    * **  *Clinical**:* Proximal leg weakness. **Facilitation** (Strength IMPROVES with use). Dry mouth.
+    * **  *Association**:* **Small Cell Lung Cancer**.
+* **Botulism**:**
     *   Toxin blocks ACh release (SNARE proteins).
     *   **Descending** Paralysis. Pupils dilated/fixed. Honey (infants).
 
 ## 5. Myopathies
-*   **Polymyositis/Dermatomyositis:**
+* **Polymyositis/Dermatomyositis**:**
     *   **Proximal** symmetric weakness (difficulty rising from chair).
     *   Pain is *uncommon*.
     *   Elevated CK.
@@ -181,29 +181,31 @@ export const L41_CONTENT = {
         primarySource: "AMBOSS",
         chapter: "Neurology > Neuromuscular Junction Disorders",
         alternatives: [
-            { resource: "FirstAid", chapter: "Neurology > Neuromuscular" }
+            { resource: "FirstAid", chapter: "Neurology > Neuromuscular" },
+            { resource: "Pathoma", chapter: "Musculoskeletal > Neuromuscular Junction" },
+            { resource: "SketchyPath", chapter: "Neurology > Neuromuscular & Peripheral Nerve" }
         ]
     },
     mindmap: `
 ## Localization
 
 ### Anterior Horn
-*   **ALS**: UMN + LMN. Sensory Spared.
-*   **Polio**: LMN only. Asymmetric. Virus.
-*   **SMA**: LMN only. Symmetric. Genetic.
+* **ALS**: UMN + LMN. Sensory Spared.
+* **Polio**: LMN only. Asymmetric. Virus.
+* **SMA**: LMN only. Symmetric. Genetic.
 
 ### Nerve
-*   **GBS**: Ascending. High Protein. Post-viral. No Steroids.
-*   **CIDP**: Chronic. Steroids OK.
-*   **Leprosy**: Mutilating.
+* **GBS**: Ascending. High Protein. Post-viral. No Steroids.
+* **CIDP**: Chronic. Steroids OK.
+* **Leprosy**: Mutilating.
 
 ### NMJ
-*   **Myasthenia Gravis**: Post-synaptic. Worse w/ use. Eyes. Thymoma.
-*   **Lambert-Eaton**: Pre-synaptic (Ca). Better w/ use. Legs. SCLC.
-*   **Botulism**: Toxin. Descending. Honey.
+* **Myasthenia Gravis**: Post-synaptic. Worse w/ use. Eyes. Thymoma.
+* **Lambert-Eaton**: Pre-synaptic (Ca). Better w/ use. Legs. SCLC.
+* **Botulism**: Toxin. Descending. Honey.
 
 ### Muscle
-*   **Myopathy**: Proximal Weakness. No sensory loss.
+* **Myopathy**: Proximal Weakness. No sensory loss.
 \`
 };
 

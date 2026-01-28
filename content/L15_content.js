@@ -9,15 +9,15 @@ export const L15_CONTENT = {
 ## 1. Sensory Receptors & Fibers (Slide 5-13)
 
 ### Fiber Types
-*   **A-beta (Aβ):** Large, Myelinated. Fast (30-70 m/s). Carries **Touch, Vibration, Proprioception**.
-*   **A-delta (Aδ):** Small, Myelinated. Medium speed. Carries **Sharp Pain (First Pain), Cold**.
-*   **C fibers:** Unmyelinated. Slow (0.5-2 m/s). Carries **Dull/Burning Pain (Second Pain), Warmth, Itch**.
+* **A-beta (Aβ)**:** Large, Myelinated. Fast (30-70 m/s). Carries **Touch, Vibration, Proprioception**.
+* **A-delta (Aδ)**:** Small, Myelinated. Medium speed. Carries **Sharp Pain (First Pain), Cold**.
+* **C fibers**:** Unmyelinated. Slow (0.5-2 m/s). Carries **Dull/Burning Pain (Second Pain), Warmth, Itch**.
 
 ### Mechanoreceptors (Touch)
-*   **Meissner's Corpuscle:** Fast adapting, Small field. **Light Touch/Grip**. Glabrous skin.
-*   **Merkel Disc:** Slow adapting, Small field. **Static Pressure/Texture** (Braille).
-*   **Pacinian Corpuscle:** Fast adapting, Large field. **Vibration**.
-*   **Ruffini Ending:** Slow adapting, Large field. **Skin Stretch** (Grip shape).
+* **Meissner's Corpuscle**:** Fast adapting, Small field. **Light Touch/Grip**. Glabrous skin.
+* **Merkel Disc**:** Slow adapting, Small field. **Static Pressure/Texture** (Braille).
+* **Pacinian Corpuscle**:** Fast adapting, Large field. **Vibration**.
+* **Ruffini Ending**:** Slow adapting, Large field. **Skin Stretch** (Grip shape).
 
 ## 2. Ascending Pathways (Slide 26-30)
 
@@ -34,36 +34,36 @@ Carries **Pain, Temperature, Crude Touch**.
 3.  **3rd Order:** VPL Nucleus (Thalamus) → S1 Cortex.
 
 ## 3. Trigeminal System (Face) (Slide 31-33)
-*   **Touch/Proprioception:** Trigeminal Ganglion → **Principal Sensory Nucleus** (Pons) → Decussate → VPM.
-*   **Pain/Temp:** Trigeminal Ganglion → Descend to **Spinal Trigeminal Nucleus** (Medulla) → Decussate → VPM.
-*   **Proprioception (Jaw):** **Mesencephalic Nucleus** (Midbrain) - UNIQUE (Cell bodies inside CNS).
+* **Touch/Proprioception**:** Trigeminal Ganglion → **Principal Sensory Nucleus** (Pons) → Decussate → VPM.
+* **Pain/Temp**:** Trigeminal Ganglion → Descend to **Spinal Trigeminal Nucleus** (Medulla) → Decussate → VPM.
+* **Proprioception (Jaw)**:**Mesencephalic Nucleus** (Midbrain) - UNIQUE (Cell bodies inside CNS).
 
 ## 4. Clinical Correlates (Slide 38-43)
 
 :::correlate
 **Brown-Séquard Syndrome**
-*   **Pathology:** Hemisection of the spinal cord (e.g., stabbing/trauma).
-*   **Presentation:**
-    *   **Ipsilateral:** Loss of **Motor** (Corticospinal) and **Touch/Vibration/Proprioception** (DCML) below lesion.
-    *   **Contralateral:** Loss of **Pain/Temperature** (Spinothalamic) 1-2 segments below lesion (due to Lissanuer's tract ascent before crossing).
+* **Pathology**:** Hemisection of the spinal cord (e.g., stabbing/trauma).
+* **Presentation**:**
+    * **Ipsilateral**:** Loss of **Motor** (Corticospinal) and **Touch/Vibration/Proprioception** (DCML) below lesion.
+    * **Contralateral**:** Loss of **Pain/Temperature** (Spinothalamic) 1-2 segments below lesion (due to Lissanuer's tract ascent before crossing).
 :::
 
 :::correlate
 **Phantom Limb Pain**
-*   **Pathology:** Cortical reorganization after amputation.
-*   **Mechanism:** The cortical area for the amputated limb (e.g., arm) loses input and is invaded by adjacent areas (e.g., Face). Touching the face is perceived as touching the missing arm.
-*   **Nature:** Often burning/painful, resistant to meds.
+* **Pathology**:** Cortical reorganization after amputation.
+* **Mechanism**:** The cortical area for the amputated limb (e.g., arm) loses input and is invaded by adjacent areas (e.g., Face). Touching the face is perceived as touching the missing arm.
+* **Nature**:** Often burning/painful, resistant to meds.
 :::
 
 :::correlate
 **Thalamic Lesion (Dejerine-Roussy)**
-*   **Lesion:** VPL/VPM.
-*   **Presentation:** Contralateral Hemianesthesia (loss of all sensation). Later develops into severe, burning pain (**Thalamic Pain Syndrome**).
+* **Lesion**:** VPL/VPM.
+* **Presentation**:** Contralateral Hemianesthesia (loss of all sensation). Later develops into severe, burning pain (**Thalamic Pain Syndrome**).
 :::
 
 ## 5. Pain Modulation (Slide 18-20)
-*   **Gate Control Theory:** Aβ fibers (rubbing) activate inhibitory interneurons in the dorsal horn, blocking C fiber (pain) transmission.
-*   **Descending Pathway:** PAG → RVM → Dorsal Horn (Inhibits pain via Serotonin/NE).
+* **Gate Control Theory**:** Aβ fibers (rubbing) activate inhibitory interneurons in the dorsal horn, blocking C fiber (pain) transmission.
+* **Descending Pathway**:** PAG → RVM → Dorsal Horn (Inhibits pain via Serotonin/NE).
 `,
     pearls: [
         {
@@ -214,13 +214,13 @@ Carries **Pain, Temperature, Crude Touch**.
 
 ### Receptors
 *   **Mechanoreceptors**
-    *   **Meissner**: Light Touch (Grip)
-    *   **Merkel**: Pressure (Texture)
-    *   **Pacinian**: Vibration
-    *   **Ruffini**: Stretch
+    * **Meissner**: Light Touch (Grip)
+    * **Merkel**: Pressure (Texture)
+    * **Pacinian**: Vibration
+    * **Ruffini**: Stretch
 *   **Nociceptors**
-    *   **A-delta**: Fast pain
-    *   **C fibers**: Slow pain
+    * **A-delta**: Fast pain
+    * **C fibers**: Slow pain
 
 ### Pathways
 *   **DCML** (Touch/Proprio)
@@ -229,9 +229,9 @@ Carries **Pain, Temperature, Crude Touch**.
     *   DRG → Dorsal Horn → Cord (Cross) → ALS → VPL
 
 ### Clinical
-*   **Brown-Sequard**: Hemicord lesion
-*   **Phantom Limb**: Cortical reorganization
-*   **Thalamic Syndrome**: VPL stroke (Pain)
+* **Brown-Sequard**: Hemicord lesion
+* **Phantom Limb**: Cortical reorganization
+* **Thalamic Syndrome**: VPL stroke (Pain)
 \`
 };
 
