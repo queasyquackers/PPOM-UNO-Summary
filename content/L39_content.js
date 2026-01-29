@@ -41,7 +41,7 @@ export const L39_CONTENT = {
 
 ## 4. Therapeutic Uses Summary
 
-Summary of common indications and preferred agents:
+
 
 | Indication | Preferred Agents | Mechanism |
 | :--- | :--- | :--- |

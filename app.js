@@ -1929,7 +1929,7 @@ function renderMarkdown(html) {
       tableHtml += "</tr>";
     });
 
-    return tableHtml + "</tbody></table></div>";
+    return "\n" + tableHtml + "</tbody></table></div>";
   });
 
   // High Yield Callouts
