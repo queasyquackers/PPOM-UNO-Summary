@@ -177,6 +177,7 @@ export const L40_CONTENT = {
         primarySource: "AMBOSS",
         chapter: "Neurology > Spinal Cord Disorders",
         alternatives: [
+            { resource: "BandB", chapter: "Neurology > Spinal Cord > Spinal Cord Lesions" },
             { resource: "FirstAid", chapter: "Neurology > Spinal Cord Lesions" },
             { resource: "Pathoma", chapter: "Central Nervous System > Spinal Cord" },
             { resource: "SketchyPath", chapter: "Neurology > Spinal Cord" }
@@ -202,7 +203,7 @@ export const L40_CONTENT = {
 
 ### Emergency
 * **Cauda Equina**: Saddle anesthesia, Bowel/Bladder. Surgery!
-\`
+`
 };
 
 if (typeof window !== 'undefined') {

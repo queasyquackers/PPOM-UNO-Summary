@@ -182,6 +182,7 @@ export const L39_CONTENT = {
         primarySource: "SketchyPharm",
         chapter: "Autonomic Drugs > Adrenergic Antagonists",
         alternatives: [
+            { resource: "BandB", chapter: "Pharmacology > Autonomic Nervous System > Adrenergic Antagonists" },
             { resource: "FirstAid", chapter: "Pharmacology > Autonomic Drugs" },
             { resource: "AMBOSS", chapter: "Pharmacology > Autonomic nervous system" }
         ]
@@ -203,7 +204,7 @@ export const L39_CONTENT = {
 * **Epinephrine Reversal**: Alpha block leaves Beta-2 unopposed (BP Drop).
 * **Diabetes**: Masks hypoglycemia (except sweating).
 * **Withdrawal**: Rebound HTN (Upregulation).
-\`
+`
 };
 
 if (typeof window !== 'undefined') {

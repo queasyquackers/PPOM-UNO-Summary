@@ -181,6 +181,7 @@ export const L43_CONTENT = {
         primarySource: "SketchyPharm",
         chapter: "Smooth Muscle & CNS Drugs > Multiple Sclerosis Drugs",
         alternatives: [
+            { resource: "BandB", chapter: "Neurology > Demyelinating Disorders" },
             { resource: "FirstAid", chapter: "Pharmacology > Neurologic" },
             { resource: "AMBOSS", chapter: "Neurology > Multiple Sclerosis > Management" }
         ]
@@ -208,7 +209,7 @@ export const L43_CONTENT = {
 * **Spasticity**: Baclofen (GABA-B), Tizanidine (a2).
 * **Walking**: Dalfampridine (K+ block).
 * **Bladder**: Oxybutynin.
-\`
+`
 };
 
 if (typeof window !== 'undefined') {

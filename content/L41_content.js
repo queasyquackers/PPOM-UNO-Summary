@@ -181,6 +181,7 @@ export const L41_CONTENT = {
         primarySource: "AMBOSS",
         chapter: "Neurology > Neuromuscular Junction Disorders",
         alternatives: [
+            { resource: "BandB", chapter: "Neurology > Peripheral Nervous System" },
             { resource: "FirstAid", chapter: "Neurology > Neuromuscular" },
             { resource: "Pathoma", chapter: "Musculoskeletal > Neuromuscular Junction" },
             { resource: "SketchyPath", chapter: "Neurology > Neuromuscular & Peripheral Nerve" }
@@ -206,7 +207,7 @@ export const L41_CONTENT = {
 
 ### Muscle
 * **Myopathy**: Proximal Weakness. No sensory loss.
-\`
+`
 };
 
 if (typeof window !== 'undefined') {
