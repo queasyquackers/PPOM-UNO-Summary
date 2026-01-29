@@ -7,40 +7,41 @@ export const L39_CONTENT = {
 **Session:** Lecture 39
 
 ## 1. Alpha-Adrenergic Antagonists (Alpha Blockers)
-* **Non-Selective (Alpha-1 & Alpha-2)**:**
-    * **Phenoxybenzamine**:**Irreversible** (Covalent bond). Long duration. Used pre-op for **Pheochromocytoma** (prevents hypertensive crisis).
-    * **Phentolamine**:** Competitive (Reversible). Used for **Epinephrine Reversal** (local anesthetic overdose) and Pheochromocytoma diagnosis/surgery.
+* **Non-Selective (Alpha-1 & Alpha-2)**:
+    * **Phenoxybenzamine**: **Irreversible** (Covalent bond). Long duration. Used pre-op for **Pheochromocytoma** (prevents hypertensive crisis).
+    * **Phentolamine**: **Competitive (Reversible). Used for **Epinephrine Reversal** (local anesthetic overdose) and Pheochromocytoma diagnosis/surgery.
     * **  *Side Effects**:* Severe Orthostatic Hypotension, **Reflex Tachycardia** (due to Alpha-2 block increasing NE release).
-* **Selective Alpha-1 Blockers (-zosins)**:**
-    * **Prazosin, Terazosin, Doxazosin**:** Used for HTN (add-on) and BPH.
-    * **Tamsulosin (Flomax)**:** Alpha-1A selective ( Prostate specific). Used for **BPH** (less hypotension).
+* **Selective Alpha-1 Blockers (-zosins)**:
+    * **Prazosin, Terazosin, Doxazosin**: Used for HTN (add-on) and BPH.
+    * **Tamsulosin (Flomax)**: Alpha-1A selective ( Prostate specific). Used for **BPH** (less hypotension).
     * **  *Adverse Effects**:* **First-Dose Effect** (Syncope/Severe Orthostatis) → Take at bedtime! **Floppy Iris Syndrome** (Cataract surgery risk).
-* **Selective Alpha-2 Antagonist**:**
-    * **Yohimbine**:** Increases NE release (blocks feedback). "Aphrodisiac". Causes anxiety/tremor.
+* **Selective Alpha-2 Antagonist**:
+    * **Yohimbine**: Increases NE release (blocks feedback). "Aphrodisiac". Causes anxiety/tremor.
 
 ## 2. Beta-Adrenergic Antagonists (Beta Blockers)
-* **Non-Selective (Beta-1 & Beta-2)**:**
-    * **Propranolol**:** Lipophilic (CNS effects: nightmares/sedation). Used for Migraine prophylaxis, Performance Anxiety (Stage fright), Thyroid Storm.
+* **Non-Selective (Beta-1 & Beta-2)**:
+    * **Propranolol**: Lipophilic (CNS effects: nightmares/sedation). Used for Migraine prophylaxis, Performance Anxiety (Stage fright), Thyroid Storm.
     * **  *Contraindication**:* **Asthma/COPD** (Bronchoconstriction via B2).
-* **Beta-1 Selective (Cardioselective)**:** ("A-M" - Atenolol, Metoprolol, Esmolol).
+* **Beta-1 Selective (Cardioselective)**: ("A-M" - Atenolol, Metoprolol, Esmolol).
     *   Safer in lung disease.
-* **Combined Alpha/Beta Blockers**:**
-    * **Labetalol, Carvedilol**:** Block Alpha-1 (Vasodilation) + Beta-1/2.
+* **Combined Alpha/Beta Blockers**:
+    * **Labetalol, Carvedilol**: Block Alpha-1 (Vasodilation) + Beta-1/2.
     * **  *Use**:* **CHF** (Carvedilol decreases mortality), Hypertensive Emergencies (Labetalol).
 
 ## 3. Key Pharmacology Concepts
-* **Epinephrine Reversal**:**
+* **Epinephrine Reversal**:
     * **  Normal Epi**: Increases BP (Alpha-1 vasoconstriction > Beta-2 dilation).
     * **  Epi + Alpha Blocker**: **Decreases BP** (Alpha blocked, unmasks Beta-2 vasodilation).
-* **Diabetes & Beta Blockers**:**
+* **Diabetes & Beta Blockers**:
     *   Beta blockers **MASK** symptoms of hypoglycemia (tachycardia, tremors).
     *   Non-selectives delay recovery from hypoglycemia (block liver gluconeogenesis).
-* **Withdrawal**:**
+* **Withdrawal**:
     *   **NEVER** stop abruptly. Chronic use UPREGULATES receptors.
     *   Sudden stop → Rebound HTN, Angina, MI, Sudden Death.
 
 ## 4. Therapeutic Uses Summary
 
+Summary of common indications and preferred agents:
 
 | Indication | Preferred Agents | Mechanism |
 | :--- | :--- | :--- |
