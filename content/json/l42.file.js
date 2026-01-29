@@ -108,15 +108,14 @@ window.receiveLectureContent({
     }
   ],
   "ankingResource": {
-    "primarySource": "AMBOSS",
-    "chapter": "Neurology > Demyelinating Disorders",
-    "alternatives": [
-      {
-        "resource": "FirstAid",
-        "chapter": "Neurology > Demyelinating"
-      }
-    ]
-  },
+        primarySource: "Pathoma",
+        chapter: "Central Nervous System > Demyelinating Disorders",
+        alternatives: [
+            { resource: "AMBOSS", chapter: "Neurology > Demyelinating Disorders" },
+            { resource: "FirstAid", chapter: "Neurology > Demyelinating" },
+            { resource: "SketchyPath", chapter: "Neurology > Demyelinating" }
+        ]
+    },
   "pearls": [
     {
       "title": "MS Triad (Charcot)",

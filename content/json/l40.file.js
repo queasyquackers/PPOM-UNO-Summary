@@ -108,15 +108,14 @@ window.receiveLectureContent({
     }
   ],
   "ankingResource": {
-    "primarySource": "AMBOSS",
-    "chapter": "Neurology > Spinal Cord Disorders",
-    "alternatives": [
-      {
-        "resource": "FirstAid",
-        "chapter": "Neurology > Spinal Cord Lesions"
-      }
-    ]
-  },
+        primarySource: "AMBOSS",
+        chapter: "Neurology > Spinal Cord Disorders",
+        alternatives: [
+            { resource: "FirstAid", chapter: "Neurology > Spinal Cord Lesions" },
+            { resource: "Pathoma", chapter: "Central Nervous System > Spinal Cord" },
+            { resource: "SketchyPath", chapter: "Neurology > Spinal Cord" }
+        ]
+    },
   "pearls": [
     {
       "title": "Brown-S\u00e9quard Rules",

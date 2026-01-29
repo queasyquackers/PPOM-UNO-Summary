@@ -1818,6 +1818,9 @@ function generateTableOfContents() {
 function renderMarkdown(html) {
   if (!html) return "";
 
+  // Handle escaped newlines from JSON/JS strings
+  html = html.replace(/\\n/g, "<br/>");
+
   // Pre-process: Ensure headers followed by tables have double newlines
   // Matches: # Header \n | Table (Fixes persistent merging issue)
   html = html.replace(/^(#{1,6} [^\n]+)\n(\|)/gm, '$1\n\n$2');

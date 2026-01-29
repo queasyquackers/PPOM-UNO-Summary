@@ -108,15 +108,13 @@ window.receiveLectureContent({
     }
   ],
   "ankingResource": {
-    "primarySource": "SketchyPharm",
-    "chapter": "Autonomic Drugs > Adrenergic Antagonists",
-    "alternatives": [
-      {
-        "resource": "FirstAid",
-        "chapter": "Pharmacology > Autonomic Drugs"
-      }
-    ]
-  },
+        primarySource: "SketchyPharm",
+        chapter: "Autonomic Drugs > Adrenergic Antagonists",
+        alternatives: [
+            { resource: "FirstAid", chapter: "Pharmacology > Autonomic Drugs" },
+            { resource: "AMBOSS", chapter: "Pharmacology > Autonomic nervous system" }
+        ]
+    },
   "pearls": [
     {
       "title": "Epinephrine Reversal",

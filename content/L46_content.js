@@ -168,7 +168,8 @@ export const L46_CONTENT = {
         primarySource: "AMBOSS",
         chapter: "Neurology > Neurological Examination",
         alternatives: [
-            { resource: "FirstAid", chapter: "Neurology > Exam" }
+            { resource: "FirstAid", chapter: "Neurology > Exam" },
+            { resource: "BandB", chapter: "Neurology > Clinical Neurology > Sensory Exam" }
         ]
     },
     mindmap: `

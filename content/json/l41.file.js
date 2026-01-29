@@ -103,15 +103,14 @@ window.receiveLectureContent({
     }
   ],
   "ankingResource": {
-    "primarySource": "AMBOSS",
-    "chapter": "Neurology > Neuromuscular Junction Disorders",
-    "alternatives": [
-      {
-        "resource": "FirstAid",
-        "chapter": "Neurology > Neuromuscular"
-      }
-    ]
-  },
+        primarySource: "AMBOSS",
+        chapter: "Neurology > Neuromuscular Junction Disorders",
+        alternatives: [
+            { resource: "FirstAid", chapter: "Neurology > Neuromuscular" },
+            { resource: "Pathoma", chapter: "Musculoskeletal > Neuromuscular Junction" },
+            { resource: "SketchyPath", chapter: "Neurology > Neuromuscular & Peripheral Nerve" }
+        ]
+    },
   "pearls": [
     {
       "title": "UMN vs LMN Signs",

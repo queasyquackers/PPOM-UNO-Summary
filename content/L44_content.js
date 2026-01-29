@@ -190,7 +190,8 @@ Diseases of the posterior segment can often be categorized by whether the vision
         chapter: "Ophthalmology > Red Eye / Retina",
         alternatives: [
             { resource: "FirstAid", chapter: "Ophthalmology" },
-            { resource: "Pathoma", chapter: "Ophthalmology (if available)" }
+            { resource: "Pathoma", chapter: "Eye Pathology" },
+            { resource: "BandB", chapter: "Neurology > The Eye > Ophthalmology Basics" }
         ]
     },
     mindmap: `
