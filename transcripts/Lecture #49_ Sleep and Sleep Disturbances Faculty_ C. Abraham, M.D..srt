@@ -1,0 +1,2644 @@
+1
+00:00:01,560 --> 00:00:03,820
+Hello, everyone.
+Welcome to our
+
+2
+00:00:03,820 --> 00:00:05,500
+session on
+sleep and sleep
+
+3
+00:00:05,500 --> 00:00:07,740
+disorders. I'm
+Dr. Carl Abraham,
+
+4
+00:00:07,740 --> 00:00:09,420
+and today we're
+going to explore how
+
+5
+00:00:09,420 --> 00:00:12,040
+sleep works, why it
+matters, and what
+
+6
+00:00:12,040 --> 00:00:14,400
+happens when it
+goes wrong. Think of
+
+7
+00:00:14,400 --> 00:00:16,200
+this as your foundation
+for understanding
+
+8
+00:00:16,200 --> 00:00:17,840
+one of the most
+essential yet
+
+9
+00:00:17,840 --> 00:00:20,660
+often overlooked
+physiologic processes.
+
+10
+00:00:20,790 --> 00:00:23,700
+I don't know about
+any of you. It's also
+
+11
+00:00:23,700 --> 00:00:25,780
+a subject that's very
+dear to my heart.
+
+12
+00:00:29,920 --> 00:00:32,940
+We're going to cover
+the basics of sleep
+
+13
+00:00:32,940 --> 00:00:36,080
+physiology, then how
+to recognize and manage
+
+14
+00:00:36,080 --> 00:00:38,400
+common sleep disorders,
+including when
+
+15
+00:00:38,400 --> 00:00:41,100
+to order a polysomnogram
+and when to
+
+16
+00:00:41,100 --> 00:00:44,160
+involve a specialist.
+And then we'll finish
+
+17
+00:00:44,160 --> 00:00:46,740
+by talking about sleep
+wellness and why it's
+
+18
+00:00:46,740 --> 00:00:49,060
+critical for both
+patient safety and
+
+19
+00:00:49,060 --> 00:00:51,280
+your own performance
+as a future physician.
+
+20
+00:00:51,660 --> 00:00:54,140
+I've included some
+connections to other
+
+21
+00:00:54,140 --> 00:00:56,360
+lectures on this
+slide, as well as
+
+22
+00:00:56,360 --> 00:00:58,600
+QR codes that pointed
+to the scholar
+
+23
+00:00:58,600 --> 00:01:01,360
+Rx Bricks for,
+on the top, sleep
+
+24
+00:01:01,360 --> 00:01:04,980
+physiology and underneath
+sleep disorders.
+
+25
+00:01:15,830 --> 00:01:18,190
+We're going to start
+with sleep physiology
+
+26
+00:01:18,190 --> 00:01:21,510
+in order to understand
+what is healthy
+
+27
+00:01:21,510 --> 00:01:24,770
+before we take a look
+at what is a disorder.
+
+28
+00:01:28,390 --> 00:01:31,390
+So, as you know, we
+assess sleep health in
+
+29
+00:01:31,390 --> 00:01:34,050
+every patient as part
+of the social history.
+
+30
+00:01:34,270 --> 00:01:37,110
+Sleep needs change
+dramatically
+
+31
+00:01:37,110 --> 00:01:38,470
+across the lifespan.
+
+32
+00:01:39,070 --> 00:01:42,190
+Newborns may sleep
+up to 20 hours a day.
+
+33
+00:01:42,270 --> 00:01:44,330
+Children and
+adolescents still
+
+34
+00:01:44,330 --> 00:01:46,510
+require much more
+sleep than adults.
+
+35
+00:01:46,510 --> 00:01:48,990
+Most adults need
+somewhere between
+
+36
+00:01:48,990 --> 00:01:50,890
+seven to nine
+hours every night.
+
+37
+00:01:50,890 --> 00:01:54,050
+There are cultural and
+regional differences,
+
+38
+00:01:54,050 --> 00:01:56,490
+for example,
+siestas, that still
+
+39
+00:01:56,490 --> 00:02:00,770
+result in normal
+amounts of sleep. and as
+
+40
+00:02:00,770 --> 00:02:03,250
+we age, especially
+as we become elderly,
+
+41
+00:02:03,450 --> 00:02:05,450
+we tend to go to
+sleep earlier.
+
+42
+00:02:07,950 --> 00:02:10,430
+Our sleep-wake
+cycle is governed by
+
+43
+00:02:10,430 --> 00:02:13,130
+circlinging rhythms.
+These are internal
+
+44
+00:02:13,130 --> 00:02:15,470
+biological clocks present
+in almost all living
+
+45
+00:02:15,470 --> 00:02:18,050
+organisms. Without
+sunlight or other
+
+46
+00:02:18,050 --> 00:02:20,890
+external clues, the
+human natural rhythm
+
+47
+00:02:20,890 --> 00:02:24,330
+actually runs closer
+to 25 hours. These
+
+48
+00:02:24,330 --> 00:02:26,150
+rhythms shape our
+physical, mental, and
+
+49
+00:02:26,150 --> 00:02:28,150
+behavioral patterns
+throughout the day.
+
+50
+00:02:28,270 --> 00:02:31,930
+If it isn't obvious,
+sleep is a repeating
+
+51
+00:02:31,930 --> 00:02:34,590
+cyclical behavior
+that follows the
+
+52
+00:02:34,590 --> 00:02:37,950
+circadian or 24-hour
+rhythm. The processes
+
+53
+00:02:37,950 --> 00:02:40,670
+that maintain homeostasis
+differ between
+
+54
+00:02:40,670 --> 00:02:43,290
+wakefulness and
+sleep. For example,
+
+55
+00:02:43,710 --> 00:02:45,890
+wakefulness is marked
+by feeding while
+
+56
+00:02:45,890 --> 00:02:48,990
+sleeping is a fasting
+state. As you can
+
+57
+00:02:48,990 --> 00:02:51,430
+see on this slide,
+many metabolic and
+
+58
+00:02:51,430 --> 00:02:53,610
+cannabolic processes
+are influenced by these
+
+59
+00:02:53,610 --> 00:02:56,810
+states. For example,
+muscle glycolysis
+
+60
+00:02:56,810 --> 00:02:59,590
+and cortisol, bile
+acid, and insulin
+
+61
+00:02:59,590 --> 00:03:02,130
+secretion occur more
+during the waking state,
+
+62
+00:03:02,130 --> 00:03:05,150
+while melatonin,
+growth hormone, and
+
+63
+00:03:05,150 --> 00:03:08,230
+leptin secretion, and
+oxidative metabolism
+
+64
+00:03:08,230 --> 00:03:11,170
+in muscle primarily
+occurs during sleep.
+
+65
+00:03:11,970 --> 00:03:14,850
+Importantly, animal
+models have shown
+
+66
+00:03:14,850 --> 00:03:17,890
+that CNS neurotoxins
+such as amyloid,
+
+67
+00:03:17,890 --> 00:03:20,090
+beta, and tau
+are cleared more
+
+68
+00:03:20,090 --> 00:03:23,010
+efficiently during
+sleep. In addition,
+
+69
+00:03:23,330 --> 00:03:25,710
+although they are
+poorly understood,
+
+70
+00:03:26,050 --> 00:03:28,310
+dreams may function
+to reduce stress
+
+71
+00:03:28,310 --> 00:03:30,610
+and sleep is important
+in consolidating
+
+72
+00:03:30,610 --> 00:03:32,590
+memory, a fact
+you can use to
+
+73
+00:03:32,590 --> 00:03:34,510
+improve the efficiency
+of studying.
+
+74
+00:03:34,510 --> 00:03:37,390
+So the bottom
+line, sleep is far
+
+75
+00:03:37,390 --> 00:03:39,790
+more than just
+rest for the body.
+
+76
+00:03:41,730 --> 00:03:44,050
+And key tool
+in evaluating
+
+77
+00:03:44,050 --> 00:03:46,030
+sleep disorders is
+the polysomnogram
+
+78
+00:03:46,030 --> 00:03:48,290
+or overnight sleep study.
+
+79
+00:03:48,410 --> 00:03:51,030
+It records brain
+waves, eye movements,
+
+80
+00:03:51,030 --> 00:03:53,150
+muscle tone, heart
+rhythm, breathing
+
+81
+00:03:53,150 --> 00:03:55,730
+patterns, oxygen levels,
+and limb movements.
+
+82
+00:03:56,650 --> 00:03:59,230
+This comprehensive
+monitoring makes it
+
+83
+00:03:59,230 --> 00:04:01,730
+the gold standard for
+diagnosing conditions
+
+84
+00:04:01,730 --> 00:04:04,310
+such as sleep
+apnea, narcolepsy,
+
+85
+00:04:04,310 --> 00:04:06,950
+parasomnias, and the
+rest of Flegge syndrome,
+
+86
+00:04:06,950 --> 00:04:08,910
+all of which we'll
+talk about later.
+
+87
+00:04:09,030 --> 00:04:11,850
+The picture on the
+top right shows lead
+
+88
+00:04:11,850 --> 00:04:14,170
+placement for an
+electroencephalogram.
+
+89
+00:04:14,290 --> 00:04:16,810
+These leads then
+feed into a computer,
+
+90
+00:04:16,810 --> 00:04:19,090
+previously onto
+a piece of paper,
+
+91
+00:04:19,090 --> 00:04:20,870
+sort of like a
+lie detector test,
+
+92
+00:04:20,870 --> 00:04:24,130
+that transcribed the
+electrical activity
+
+93
+00:04:24,130 --> 00:04:26,070
+in various places
+in the brain.
+
+94
+00:04:26,110 --> 00:04:28,850
+The result are the
+patterns to the right,
+
+95
+00:04:28,850 --> 00:04:30,690
+which show the
+different types of waves
+
+96
+00:04:30,690 --> 00:04:32,950
+seen in the different
+stages of sleep.
+
+97
+00:04:32,950 --> 00:04:36,210
+You can also see that
+as we fall into deeper
+
+98
+00:04:36,210 --> 00:04:38,610
+and deeper sleep,
+the cycles of brain
+
+99
+00:04:38,610 --> 00:04:42,130
+electrical activity slow.
+beta waves are rapid
+
+100
+00:04:42,130 --> 00:04:44,270
+frequency waves that
+are present while awake
+
+101
+00:04:44,270 --> 00:04:47,670
+and active alpha waves
+are present while awake
+
+102
+00:04:47,670 --> 00:04:51,170
+and at rest theta
+waves are present at
+
+103
+00:04:51,170 --> 00:04:54,030
+early stages of sleep
+and delta waves the
+
+104
+00:04:54,030 --> 00:04:58,090
+slowest waves during deep
+sleep not shown is the
+
+105
+00:04:58,090 --> 00:05:01,310
+brain activity during
+REM or REM which is
+
+106
+00:05:01,310 --> 00:05:04,070
+erratic alternating
+between slow and fast
+
+107
+00:05:04,070 --> 00:05:06,890
+frequency waves the
+picture on the bottom is
+
+108
+00:05:06,890 --> 00:05:09,750
+an example of one person
+who underwent a sleep
+
+109
+00:05:09,750 --> 00:05:12,470
+study. One of the
+misunderstandings of the
+
+110
+00:05:12,470 --> 00:05:14,550
+stages of sleep is
+that we cycle through
+
+111
+00:05:14,550 --> 00:05:19,030
+the stages in order and
+then enter REM and then
+
+112
+00:05:19,030 --> 00:05:21,730
+move back through
+the stages in reverse
+
+113
+00:05:21,730 --> 00:05:24,470
+order. That's actually
+not true. As you can
+
+114
+00:05:24,470 --> 00:05:27,790
+see, this particular
+patient enters REM sleep
+
+115
+00:05:27,790 --> 00:05:30,030
+later in the night
+without entering the
+
+116
+00:05:30,030 --> 00:05:33,910
+deepest stages of sleep,
+which is typical. The
+
+117
+00:05:33,910 --> 00:05:35,890
+time the patient goes
+to bed until the patient
+
+118
+00:05:35,890 --> 00:05:38,680
+falls asleep is called
+the sleep latency.
+
+119
+00:05:38,750 --> 00:05:42,150
+In this patient, it's
+about 30 minutes. The
+
+120
+00:05:42,150 --> 00:05:44,450
+time from the beginning
+of sleep until the
+
+121
+00:05:44,450 --> 00:05:48,590
+first REM sleep is
+called the REM latency.
+
+122
+00:05:51,030 --> 00:05:53,310
+Sleep architecture
+refers to the
+
+123
+00:05:53,310 --> 00:05:55,470
+structure of sleep
+across the night.
+
+124
+00:05:55,470 --> 00:05:57,930
+The American Academy
+of Sleep defines
+
+125
+00:05:57,930 --> 00:06:00,490
+wakefulness and
+the stages of sleep
+
+126
+00:06:00,490 --> 00:06:04,490
+N1, N2, N3, and
+REM based on the
+
+127
+00:06:04,490 --> 00:06:06,550
+distinct EEG
+patterns and physical
+
+128
+00:06:06,550 --> 00:06:08,930
+characteristics of
+each of these states.
+
+129
+00:06:09,190 --> 00:06:11,270
+Wakefulness, or stage W,
+
+130
+00:06:11,390 --> 00:06:14,910
+here refers to awake
+at breast. Alpha waves
+
+131
+00:06:14,910 --> 00:06:17,570
+on EEG are 9 to 11
+hertz, and there is
+
+132
+00:06:17,570 --> 00:06:19,710
+very little muscle
+tone except for in the
+
+133
+00:06:19,710 --> 00:06:24,010
+face. As we drift
+toward sleep, stage N1,
+
+134
+00:06:24,190 --> 00:06:25,710
+EEG slows,
+
+135
+00:06:26,030 --> 00:06:28,890
+eyelids droop, and
+pupils constrict,
+
+136
+00:06:28,890 --> 00:06:32,150
+and the eyes may rove
+from side to side.
+
+137
+00:06:32,330 --> 00:06:34,930
+Stage N2 is
+characterized by slower
+
+138
+00:06:34,930 --> 00:06:38,710
+waves overall, but
+also sleek spindles.
+
+139
+00:06:38,810 --> 00:06:40,830
+These are faster
+waves detected
+
+140
+00:06:40,830 --> 00:06:42,570
+at the bitemporal reads.
+
+141
+00:06:42,890 --> 00:06:44,790
+Delta waves are
+characteristic
+
+142
+00:06:44,790 --> 00:06:46,530
+of deepest sleep.
+
+143
+00:06:46,870 --> 00:06:49,910
+REM EEG patterns are
+erratic, and there
+
+144
+00:06:49,910 --> 00:06:51,970
+is a further decrease
+in muscle tone
+
+145
+00:06:51,970 --> 00:06:54,790
+except for the
+extraocular muscles,
+
+146
+00:06:54,790 --> 00:06:57,990
+resulting in bursts of
+rapid eye movements.
+
+147
+00:07:00,830 --> 00:07:02,030
+Physiologically,
+
+148
+00:07:02,510 --> 00:07:05,950
+non-REM and REM sleep
+differ in important
+
+149
+00:07:05,950 --> 00:07:10,190
+ways. Non-REM is
+characterized by stable vital
+
+150
+00:07:10,190 --> 00:07:12,930
+signs and increased
+parasympathetic tone.
+
+151
+00:07:14,050 --> 00:07:17,390
+Dreams occur in non
+-REM sleep, but they are
+
+152
+00:07:17,390 --> 00:07:20,470
+much less vivid and
+intense compared to
+
+153
+00:07:20,470 --> 00:07:23,010
+the dreaming that
+characterizes REM sleep.
+
+154
+00:07:23,510 --> 00:07:27,030
+REM brings bursts of
+autonomic activity,
+
+155
+00:07:27,070 --> 00:07:29,490
+irregular heart
+rhythm, decreased
+
+156
+00:07:29,490 --> 00:07:31,550
+thermoregulation,
+vivid dreaming,
+
+157
+00:07:31,550 --> 00:07:34,470
+and near-complete
+muscle paralysis,
+
+158
+00:07:34,470 --> 00:07:36,870
+except for the
+extraocular movements.
+
+159
+00:07:37,890 --> 00:07:40,550
+Now that we've covered
+normal sleep, let's
+
+160
+00:07:40,550 --> 00:07:42,830
+look at sleep disorders,
+conditions that
+
+161
+00:07:42,830 --> 00:07:46,210
+disrupt sleep quality,
+timing, or physiology.
+
+162
+00:07:48,010 --> 00:07:52,690
+has fallen to two broad
+categories, disomnias
+
+163
+00:07:52,690 --> 00:07:55,730
+and parasomnias.
+Disomnias are disorders
+
+164
+00:07:55,730 --> 00:07:59,030
+of sleep-wake time
+and or quality, while
+
+165
+00:07:59,030 --> 00:08:02,350
+parasomnias are physical
+behaviors such as
+
+166
+00:08:02,350 --> 00:08:06,150
+sleepwalking or experiences
+like sleep terrors that
+
+167
+00:08:06,150 --> 00:08:08,830
+occur during or around
+the time of sleep.
+
+168
+00:08:09,270 --> 00:08:11,710
+Disomnias can also
+be broken down
+
+169
+00:08:11,710 --> 00:08:14,170
+into two categories,
+primary or
+
+170
+00:08:14,170 --> 00:08:17,970
+extrinsic, and
+secondary or extrinsic.
+
+171
+00:08:18,070 --> 00:08:21,150
+Primary dysomnias
+include primary
+
+172
+00:08:21,150 --> 00:08:23,090
+insomnia, which
+we'll talk about in a
+
+173
+00:08:23,090 --> 00:08:25,690
+minute, sleep-related
+movement disorders,
+
+174
+00:08:25,690 --> 00:08:28,150
+such as restless
+leg syndrome, or
+
+175
+00:08:28,150 --> 00:08:30,290
+central disorders
+of hypersomnolence,
+
+176
+00:08:30,290 --> 00:08:31,910
+for example, narcolepsy.
+
+177
+00:08:32,210 --> 00:08:35,710
+Secondary or extrinsic
+dysomnias include
+
+178
+00:08:35,710 --> 00:08:38,610
+secondary insomnia,
+in other words, the
+
+179
+00:08:38,610 --> 00:08:41,310
+insomnia that's caused
+by mostly psychiatric
+
+180
+00:08:41,310 --> 00:08:45,150
+disorders or other
+things, but again we'll
+
+181
+00:08:45,150 --> 00:08:48,050
+talk about that again
+in the next few slides,
+
+182
+00:08:48,150 --> 00:08:51,610
+circadian sleep
+rhythm disorders, for
+
+183
+00:08:51,610 --> 00:08:55,130
+example jet lag, or
+other medical illnesses
+
+184
+00:08:55,130 --> 00:08:57,950
+that specifically cause
+trouble sleeping. A
+
+185
+00:08:57,950 --> 00:09:00,430
+very common one is
+obstructive sleep apnea,
+
+186
+00:09:00,430 --> 00:09:03,030
+but any other illness
+that affects sleep
+
+187
+00:09:03,030 --> 00:09:07,070
+can be a secondary
+cause of insomnia. For
+
+188
+00:09:07,070 --> 00:09:09,270
+example, congestive
+heart failure that
+
+189
+00:09:09,270 --> 00:09:12,390
+causes frequent paroxysmal
+nocturnal dyspnea,
+
+190
+00:09:12,850 --> 00:09:16,110
+nocturnal reflux
+esophagitis, or even
+
+191
+00:09:16,110 --> 00:09:19,530
+acute illnesses such
+as an infection.
+
+192
+00:09:22,450 --> 00:09:26,170
+It occurs episodically
+in about 95% of adults
+
+193
+00:09:26,170 --> 00:09:29,090
+at some point, but
+it's chronic in only
+
+194
+00:09:29,090 --> 00:09:31,970
+about 10% adults.
+Patients complain of not
+
+195
+00:09:31,970 --> 00:09:34,840
+being able to fall asleep,
+daytime sleepiness,
+
+196
+00:09:34,840 --> 00:09:37,710
+and or fatigue or not
+having enough energy.
+
+197
+00:09:37,910 --> 00:09:40,730
+Primary insomnia, in
+other words, insomnia
+
+198
+00:09:40,730 --> 00:09:42,950
+for which no secondary
+cause is found,
+
+199
+00:09:42,950 --> 00:09:46,210
+makes up only about
+10% of those with
+
+200
+00:09:46,210 --> 00:09:49,190
+insomnia. One pattern
+of primary insomnia
+
+201
+00:09:49,190 --> 00:09:51,130
+that has been noted
+is that which occurs
+
+202
+00:09:51,130 --> 00:09:54,050
+after a stressful
+period has resolved. The
+
+203
+00:09:54,050 --> 00:09:56,970
+good news for these
+cases is that most
+
+204
+00:09:56,970 --> 00:09:59,470
+of the time this
+resolves spontaneously.
+
+205
+00:10:00,930 --> 00:10:04,370
+About 90% of those
+with insomnia have
+
+206
+00:10:04,370 --> 00:10:07,510
+secondary insomnia.
+About 50% of these
+
+207
+00:10:07,510 --> 00:10:09,810
+cases are due to a
+psychiatric condition
+
+208
+00:10:09,810 --> 00:10:13,910
+such as depression,
+anxiety, mania, PTSD,
+
+209
+00:10:14,050 --> 00:10:15,950
+ADHD, or OCD.
+
+210
+00:10:16,410 --> 00:10:19,290
+Medications that may
+cause secondary insomnia
+
+211
+00:10:19,290 --> 00:10:21,210
+include stimulants,
+for example,
+
+212
+00:10:21,210 --> 00:10:24,270
+caffeine, nicotine,
+amphetamines, and *******,
+
+213
+00:10:24,610 --> 00:10:27,130
+depressants such as
+opiates, alcohol,
+
+214
+00:10:27,130 --> 00:10:29,330
+barbiturates, and
+benzodiazepines,
+
+215
+00:10:29,730 --> 00:10:32,050
+hallucinogens like
+phancyclidine,
+
+216
+00:10:32,090 --> 00:10:36,570
+***, *********, and
+MDMA, or diuretics that
+
+217
+00:10:36,570 --> 00:10:38,370
+are prescribed to
+the patient close to
+
+218
+00:10:38,370 --> 00:10:41,250
+bedtime so that they are
+going to the bathroom
+
+219
+00:10:41,250 --> 00:10:44,310
+repeatedly at night,
+acute and chronic
+
+220
+00:10:44,310 --> 00:10:47,030
+medical conditions
+such as COPD, systolic
+
+221
+00:10:47,030 --> 00:10:50,490
+heart failure, BPH, acute
+gastroenterocolitis,
+
+222
+00:10:50,770 --> 00:10:53,890
+or even post-surgical
+pain can stop
+
+223
+00:10:53,890 --> 00:10:56,310
+people from having a
+good night's sleep.
+
+224
+00:10:58,290 --> 00:11:00,790
+Treatment of insomnia
+includes treating
+
+225
+00:11:00,790 --> 00:11:03,490
+underlying conditions or
+discontinuing substances
+
+226
+00:11:03,490 --> 00:11:05,690
+or medications that
+promote insomnia
+
+227
+00:11:05,690 --> 00:11:09,350
+for those with secondary
+insomnia, regular
+
+228
+00:11:09,350 --> 00:11:13,450
+exercise and a nutritious
+diet, sleep hygiene,
+
+229
+00:11:13,450 --> 00:11:15,270
+which we'll talk
+about in a minute, and
+
+230
+00:11:15,270 --> 00:11:20,170
+non-benzodiazepine
+hypnotics, such as Zolpidem,
+
+231
+00:11:20,250 --> 00:11:23,630
+Xaloplon, and Esopoclon.
+These medications
+
+232
+00:11:23,630 --> 00:11:26,370
+can be remembered
+by the mnemonic ZZZ.
+
+233
+00:11:28,110 --> 00:11:31,250
+For insomnia, should
+be sleep hygiene,
+
+234
+00:11:31,250 --> 00:11:33,350
+which we'll talk about
+on the next slide.
+
+235
+00:11:33,790 --> 00:11:35,710
+Pharmacologic
+treatment should start
+
+236
+00:11:35,710 --> 00:11:39,150
+with the ZZZ, non
+-benzodiazepine
+
+237
+00:11:39,150 --> 00:11:41,490
+hypnotics, or
+melatonin receptor
+
+238
+00:11:41,490 --> 00:11:44,930
+agonists. If these
+don't work, then
+
+239
+00:11:44,950 --> 00:11:47,550
+benzodiazepines can
+be tried. However,
+
+240
+00:11:47,550 --> 00:11:50,610
+there are disadvantages
+to benzodiazepines.
+
+241
+00:11:50,610 --> 00:11:52,890
+They disrupt the
+sleep cycle and
+
+242
+00:11:52,890 --> 00:11:56,050
+specifically prevent
+deep sleep. They may be
+
+243
+00:11:56,050 --> 00:11:57,990
+addictive and they
+are associated with
+
+244
+00:11:57,990 --> 00:12:00,510
+falls that lead to
+trauma in the elderly.
+
+245
+00:12:00,510 --> 00:12:03,590
+If benzodiazepines
+don't work, then
+
+246
+00:12:03,590 --> 00:12:07,230
+antipsychotics, antidepressants,
+and antihistamines
+
+247
+00:12:07,230 --> 00:12:09,790
+can be tried. These
+are last resorts
+
+248
+00:12:09,790 --> 00:12:12,470
+due to very high
+side effect profiles.
+
+249
+00:12:13,350 --> 00:12:15,670
+If the treatment
+scheme is different
+
+250
+00:12:15,670 --> 00:12:18,170
+than this for specific
+sleep disorders,
+
+251
+00:12:18,170 --> 00:12:20,470
+I'll mention it when
+we talk about them.
+
+252
+00:12:22,930 --> 00:12:25,470
+The attempted prior
+to pharmacologic
+
+253
+00:12:25,470 --> 00:12:27,670
+therapy and
+pharmacologic therapy
+
+254
+00:12:27,670 --> 00:12:29,510
+should not be given
+without attention
+
+255
+00:12:29,510 --> 00:12:31,610
+to sleep hygiene
+because of its influence
+
+256
+00:12:31,610 --> 00:12:34,370
+on sleep. What
+is sleep hygiene?
+
+257
+00:12:34,610 --> 00:12:36,210
+The patient should
+wake up in the
+
+258
+00:12:36,210 --> 00:12:37,790
+morning and go to
+sleep at night about
+
+259
+00:12:37,790 --> 00:12:40,390
+the same time every
+day. They should
+
+260
+00:12:40,390 --> 00:12:43,410
+avoid late-day
+caffeine, alcohol, large
+
+261
+00:12:43,410 --> 00:12:45,930
+meals, and screens
+close to bedtime.
+
+262
+00:12:46,170 --> 00:12:49,790
+And sleep should happen
+in a quiet, dark,
+
+263
+00:12:49,790 --> 00:12:53,010
+stress, phone, and
+pet-free environment.
+
+264
+00:12:53,090 --> 00:12:55,570
+Many of us don't
+follow this regimen,
+
+265
+00:12:55,570 --> 00:12:57,990
+but research has
+shown that this is how
+
+266
+00:12:57,990 --> 00:13:00,490
+to get a good night's
+sleep most nights.
+
+267
+00:13:01,610 --> 00:13:04,450
+Let's start talking
+about specific sleep
+
+268
+00:13:04,450 --> 00:13:07,390
+disorders Although
+restless leg syndrome is
+
+269
+00:13:07,390 --> 00:13:09,950
+considered a sleep
+movement disorder The
+
+270
+00:13:09,950 --> 00:13:12,670
+patient's symptoms occur
+while awake and actually
+
+271
+00:13:12,670 --> 00:13:15,790
+prevent sleep The
+patient experiences leg
+
+272
+00:13:15,790 --> 00:13:18,150
+burning, itching,
+or tingling that is
+
+273
+00:13:18,150 --> 00:13:22,350
+relieved by movement It
+occurs in about 5-15% of
+
+274
+00:13:22,350 --> 00:13:24,470
+the population at
+some time during their
+
+275
+00:13:24,470 --> 00:13:27,910
+life The cause is
+unknown in most cases but
+
+276
+00:13:27,910 --> 00:13:30,730
+in a few, it may be
+secondary to pregnancy,
+
+277
+00:13:30,850 --> 00:13:31,890
+iron deficiency,
+
+278
+00:13:32,110 --> 00:13:33,530
+peripheral neuropathy,
+
+279
+00:13:33,610 --> 00:13:35,930
+chronic kidney
+disease, or ADHD.
+
+280
+00:13:36,790 --> 00:13:37,910
+Importantly,
+
+281
+00:13:38,250 --> 00:13:41,350
+restless leg syndrome
+is not the presenting
+
+282
+00:13:41,350 --> 00:13:43,710
+symptom in any of
+these except for iron
+
+283
+00:13:43,710 --> 00:13:47,090
+deficiency. So any
+patient with restless leg
+
+284
+00:13:47,090 --> 00:13:49,890
+syndrome should have
+iron studies and iron
+
+285
+00:13:49,890 --> 00:13:52,350
+deficiency should be
+treated if present.
+
+286
+00:13:52,850 --> 00:13:54,950
+Specific treatment
+for restless
+
+287
+00:13:54,950 --> 00:13:56,730
+leg syndrome
+is pregabalin,
+
+288
+00:13:56,730 --> 00:13:59,110
+dopamine agonists,
+and gampapentin.
+
+289
+00:13:59,170 --> 00:14:01,690
+The restless leg
+syndrome that
+
+290
+00:14:01,690 --> 00:14:03,110
+is associated
+with pregnancy
+
+291
+00:14:03,110 --> 00:14:05,590
+usually resolves
+after delivery.
+
+292
+00:14:06,510 --> 00:14:09,870
+The circadian rhythm
+sleep-wake disorders
+
+293
+00:14:09,870 --> 00:14:12,910
+are those which
+disrupt sleep timing.
+
+294
+00:14:12,910 --> 00:14:15,530
+For example, the most
+common is probably
+
+295
+00:14:15,530 --> 00:14:17,870
+jet lag, the
+treatment of which is
+
+296
+00:14:17,870 --> 00:14:20,730
+usually melatonin,
+although a recent study
+
+297
+00:14:20,730 --> 00:14:23,190
+suggested that if one
+can stay awake while
+
+298
+00:14:23,190 --> 00:14:25,320
+the sun is up at
+your destination and
+
+299
+00:14:25,320 --> 00:14:27,370
+wait to go to sleep
+when the sun goes
+
+300
+00:14:27,370 --> 00:14:30,230
+down, the severity of
+jet lag is reduced.
+
+301
+00:14:31,030 --> 00:14:33,430
+Uncommon causes
+of circadian
+
+302
+00:14:33,430 --> 00:14:36,070
+rhythm sleep-wake
+disorders include
+
+303
+00:14:36,070 --> 00:14:38,570
+delayed sleep
+phase disorder.
+
+304
+00:14:38,610 --> 00:14:40,950
+People with this
+go to bed and
+
+305
+00:14:40,950 --> 00:14:43,630
+wake up later than
+the usual times.
+
+306
+00:14:43,630 --> 00:14:45,970
+It may occur in
+those who are blind
+
+307
+00:14:45,970 --> 00:14:48,690
+and those who do
+night shift work.
+
+308
+00:14:48,910 --> 00:14:51,590
+Advanced sleep
+phase disorder is
+
+309
+00:14:51,590 --> 00:14:53,130
+similar, but
+instead the patient
+
+310
+00:14:53,130 --> 00:14:55,310
+goes to bed and
+wakes up early.
+
+311
+00:14:55,490 --> 00:14:57,570
+Treatment for
+these include
+
+312
+00:14:57,570 --> 00:15:00,290
+sleek hygiene,
+light therapy, and
+
+313
+00:15:00,290 --> 00:15:02,470
+melatonin
+receptor agonists.
+
+314
+00:15:03,750 --> 00:15:06,850
+The prototypical
+central disorder of
+
+315
+00:15:06,850 --> 00:15:10,370
+hypersomnolence is narcolepsy.
+Think of narcolepsy
+
+316
+00:15:10,370 --> 00:15:14,410
+as REM intrusion into
+wakefulness. There
+
+317
+00:15:14,410 --> 00:15:17,570
+is sleep paralysis
+or the inability to
+
+318
+00:15:17,570 --> 00:15:20,930
+talk or move on awakening
+or falling asleep.
+
+319
+00:15:21,670 --> 00:15:24,450
+Hypnopopic and hypnagogic
+
+320
+00:15:26,900 --> 00:15:29,350
+hallucinations are
+those that occur when
+
+321
+00:15:29,350 --> 00:15:33,230
+you wake or fall asleep,
+respectively. They
+
+322
+00:15:33,230 --> 00:15:35,310
+may occur in those
+without narcolepsy, but
+
+323
+00:15:35,310 --> 00:15:37,950
+are much more frequent
+in those with it.
+
+324
+00:15:38,050 --> 00:15:41,330
+Those with narcolepsy
+may also have cataplexy
+
+325
+00:15:41,330 --> 00:15:44,470
+after experiencing
+strong emotions that
+
+326
+00:15:44,470 --> 00:15:47,890
+can result in sometimes
+significant trauma.
+
+327
+00:15:48,270 --> 00:15:51,050
+Patients complain of
+daytime sleepiness.
+
+328
+00:15:51,290 --> 00:15:53,630
+Onset is usually in
+young adults and the
+
+329
+00:15:53,630 --> 00:15:56,050
+condition is not
+progressive. It occurs
+
+330
+00:15:56,050 --> 00:15:58,750
+in less than 0.2% of
+the U.S. population
+
+331
+00:15:58,750 --> 00:16:02,150
+with peaks at 15
+and 35 years of age.
+
+332
+00:16:02,270 --> 00:16:08,190
+90% of those have
+an HLA-DQB1-0602
+
+333
+00:16:09,090 --> 00:16:11,250
+allele, which is
+present much less
+
+334
+00:16:11,250 --> 00:16:13,430
+commonly in those
+without narcolepsy.
+
+335
+00:16:13,670 --> 00:16:15,670
+Studies have shown
+that patients may
+
+336
+00:16:15,670 --> 00:16:17,830
+have decreased
+orexin production.
+
+337
+00:16:17,970 --> 00:16:21,210
+Onset may follow a
+viral or bacterial
+
+338
+00:16:21,210 --> 00:16:23,850
+infection. The
+diagnosis is made
+
+339
+00:16:23,850 --> 00:16:26,710
+by polysomnogram,
+which shows rapid
+
+340
+00:16:26,710 --> 00:16:29,910
+sleep onset,
+short REM latency.
+
+341
+00:16:30,530 --> 00:16:33,670
+Shorter REM latency
+is associated
+
+342
+00:16:33,670 --> 00:16:35,530
+with more severe disease.
+
+343
+00:16:36,110 --> 00:16:39,390
+Treatment is sleep
+hygiene and stimulants,
+
+344
+00:16:39,390 --> 00:16:40,750
+such as those
+was listed on the
+
+345
+00:16:40,750 --> 00:16:43,450
+slide. Prognosis is
+usually excellent
+
+346
+00:16:43,450 --> 00:16:45,930
+with treatment.
+Patients with narcolepsy
+
+347
+00:16:45,930 --> 00:16:48,150
+commonly require
+concomitment
+
+348
+00:16:48,150 --> 00:16:51,790
+treatment for depression
+and or anxiety.
+
+349
+00:16:53,750 --> 00:16:56,970
+Obstructive sleep apnea
+is a sleep-related
+
+350
+00:16:56,970 --> 00:16:59,070
+breathing disorder
+caused by mechanical
+
+351
+00:16:59,070 --> 00:17:02,030
+obstruction of excess
+soft tissue that
+
+352
+00:17:02,030 --> 00:17:04,710
+results in a rapid
+repetitive airway
+
+353
+00:17:04,710 --> 00:17:07,350
+collapse, in other
+words, snoring, and
+
+354
+00:17:07,350 --> 00:17:11,390
+hypoxygenation due to
+short apneic episodes.
+
+355
+00:17:11,510 --> 00:17:13,150
+Risk factors include
+
+356
+00:17:13,150 --> 00:17:15,110
+increased age, obesity,
+
+357
+00:17:15,410 --> 00:17:18,590
+large tonsils
+or a large neck,
+
+358
+00:17:19,070 --> 00:17:22,170
+polycystic ovary
+disease, hypothyroidism,
+
+359
+00:17:22,170 --> 00:17:23,890
+genetic predisposition,
+
+360
+00:17:24,070 --> 00:17:25,570
+systolic heart failure,
+
+361
+00:17:25,730 --> 00:17:27,710
+chronic kidney failure,
+
+362
+00:17:27,830 --> 00:17:31,650
+alcohol use, smoking,
+and the male gender.
+
+363
+00:17:32,090 --> 00:17:35,290
+Prevalence is
+about 32% in U.S.
+
+364
+00:17:35,290 --> 00:17:37,170
+adults greater
+than 20 years old.
+
+365
+00:17:37,170 --> 00:17:39,690
+Most are male. The
+storing results
+
+366
+00:17:39,690 --> 00:17:41,630
+in the inability
+to reach deep
+
+367
+00:17:41,630 --> 00:17:44,250
+sleep and is often
+brought to medical
+
+368
+00:17:44,250 --> 00:17:45,990
+attention by the
+sleep partner.
+
+369
+00:17:46,310 --> 00:17:49,030
+Diagnosis is by
+polysomnogram.
+
+370
+00:17:49,430 --> 00:17:51,830
+Treatment is continuous
+positive airway
+
+371
+00:17:51,830 --> 00:17:54,910
+pressure, which is shown
+in the picture at right.
+
+372
+00:17:54,910 --> 00:17:59,210
+A tightly fitting
+mask delivers air at
+
+373
+00:17:59,210 --> 00:18:02,730
+increased pressure that
+keeps the airways open
+
+374
+00:18:02,730 --> 00:18:05,690
+and prevents the
+collapse of soft tissue.
+
+375
+00:18:05,710 --> 00:18:09,440
+Patients may require a
+uvulopoadopharyngeoplasty
+
+376
+00:18:09,950 --> 00:18:13,530
+that repositions
+or resex the uvula,
+
+377
+00:18:13,670 --> 00:18:16,110
+resex the tussles,
+and enlarges the
+
+378
+00:18:16,110 --> 00:18:18,350
+pharynx, but this
+is rarely done.
+
+379
+00:18:19,490 --> 00:18:22,610
+So let's leave the
+disomnias and talk about
+
+380
+00:18:22,610 --> 00:18:25,390
+parasomnias. Remember
+the parasomnias
+
+381
+00:18:25,390 --> 00:18:28,050
+are behaviors or
+experiences that occur
+
+382
+00:18:28,050 --> 00:18:31,210
+during sleep. We'll talk
+about the most common
+
+383
+00:18:31,210 --> 00:18:34,650
+and there are many
+others. The parasomnias
+
+384
+00:18:34,650 --> 00:18:36,970
+are also categorized
+by which stage of
+
+385
+00:18:36,970 --> 00:18:39,090
+sleep in which they
+occur. The first
+
+386
+00:18:39,090 --> 00:18:41,630
+parasomnia we'll talk
+about, sleep terrors,
+
+387
+00:18:41,630 --> 00:18:45,510
+occurs in stage N3.
+About 1% of children
+
+388
+00:18:45,510 --> 00:18:47,830
+will have them. The
+child wakes at night
+
+389
+00:18:47,830 --> 00:18:50,930
+scared, upset, maybe
+yelling, maybe panicking,
+
+390
+00:18:50,930 --> 00:18:53,970
+and is completely
+inconsolable. There
+
+391
+00:18:53,970 --> 00:18:56,390
+may be associated
+autonomic sympathetic
+
+392
+00:18:56,390 --> 00:18:59,170
+activation with
+tachycardia, tachypnea, and
+
+393
+00:18:59,170 --> 00:19:01,770
+diaphoresis. The
+child eventually calms
+
+394
+00:19:01,770 --> 00:19:04,310
+down, goes back to
+sleep, and in the morning
+
+395
+00:19:04,310 --> 00:19:06,730
+has no recollection
+that this occurred.
+
+396
+00:19:06,970 --> 00:19:09,310
+Prognosis is excellent
+with the sleep
+
+397
+00:19:09,310 --> 00:19:11,810
+terrors eventually
+resolving spontaneously.
+
+398
+00:19:12,530 --> 00:19:16,170
+Another parasomnia,
+sleepwalking or somnambulism
+
+399
+00:19:16,170 --> 00:19:20,410
+also occurs in stage
+N3. Despite being
+
+400
+00:19:20,410 --> 00:19:22,410
+asleep, the person
+appears awake and
+
+401
+00:19:22,410 --> 00:19:24,990
+performs activities
+such as walking, working
+
+402
+00:19:24,990 --> 00:19:27,390
+in the kitchen, or
+many other types of
+
+403
+00:19:27,390 --> 00:19:30,290
+activities and has no
+memory of the event the
+
+404
+00:19:30,290 --> 00:19:33,070
+next morning. This
+occurs in up to 30% of
+
+405
+00:19:33,070 --> 00:19:35,650
+the U.S. population as
+a single non-repeating
+
+406
+00:19:35,650 --> 00:19:38,570
+event, but chronic
+sleepwalking may affect
+
+407
+00:19:38,570 --> 00:19:42,070
+up to 2% of the adult
+population. Treatment
+
+408
+00:19:42,070 --> 00:19:43,970
+is difficult and
+centers around keeping
+
+409
+00:19:43,970 --> 00:19:46,290
+the patient safe,
+since some of the
+
+410
+00:19:46,290 --> 00:19:48,150
+activities such as walking
+out of the house or
+
+411
+00:19:48,150 --> 00:19:50,790
+working in the kitchen
+are dangerous. It
+
+412
+00:19:50,790 --> 00:19:53,310
+usually resolves
+spontaneously in children.
+
+413
+00:19:53,310 --> 00:19:55,870
+If it doesn't in
+adults, underlying
+
+414
+00:19:55,870 --> 00:19:58,350
+medical or psychological
+conditions that are
+
+415
+00:19:58,350 --> 00:20:00,430
+the root of the
+behavior should be
+
+416
+00:20:00,430 --> 00:20:02,770
+treated, and some
+patients are treated with
+
+417
+00:20:02,770 --> 00:20:05,710
+benzodiazepines with
+varying success.
+
+418
+00:20:07,050 --> 00:20:09,970
+The last parasomnia
+we'll talk about
+
+419
+00:20:09,970 --> 00:20:12,510
+is REM sleep
+behavior disorder.
+
+420
+00:20:12,510 --> 00:20:15,470
+This occurs in adults
+who yell, kick,
+
+421
+00:20:15,470 --> 00:20:19,130
+punch, grab, jump, or
+perform other aggressive
+
+422
+00:20:19,130 --> 00:20:21,350
+or violent behaviors
+while asleep.
+
+423
+00:20:21,350 --> 00:20:24,150
+It usually occurs
+in older persons
+
+424
+00:20:24,150 --> 00:20:26,150
+who remember dreams
+that explain their
+
+425
+00:20:26,150 --> 00:20:28,370
+behavior, but they
+don't remember
+
+426
+00:20:28,370 --> 00:20:30,610
+performing the behavior
+while sleeping.
+
+427
+00:20:31,310 --> 00:20:34,130
+Polysomnobram
+shows REM sleep
+
+428
+00:20:34,130 --> 00:20:36,710
+despite the
+lack of atonia.
+
+429
+00:20:36,800 --> 00:20:39,130
+Treatment is
+melatonin or low
+
+430
+00:20:39,130 --> 00:20:41,890
+-dose clonazepam.
+Very importantly,
+
+431
+00:20:42,270 --> 00:20:45,190
+brainstem histology
+at autoxy has shown
+
+432
+00:20:45,190 --> 00:20:47,750
+Lewy bodies that
+are also seen in
+
+433
+00:20:47,750 --> 00:20:50,910
+Parkinson's,
+multisystem atrophy, and
+
+434
+00:20:50,910 --> 00:20:53,610
+Lewy body dementia,
+and some feel that
+
+435
+00:20:53,610 --> 00:20:56,810
+REM sleep behavior
+disorder is an early
+
+436
+00:20:56,810 --> 00:20:58,950
+manifestation of
+these conditions.
+
+437
+00:20:59,870 --> 00:21:02,490
+We've talked about
+sleep physiology and
+
+438
+00:21:02,490 --> 00:21:04,790
+sleep disorders. Now
+let's apply these
+
+439
+00:21:04,790 --> 00:21:06,470
+concepts in a way
+that highlights the
+
+440
+00:21:06,470 --> 00:21:08,390
+importance of sleep
+wellness to a subject
+
+441
+00:21:08,390 --> 00:21:11,730
+that we as students
+of medicine should be
+
+442
+00:21:11,730 --> 00:21:15,490
+at the top of our
+minds, patient safety.
+
+443
+00:21:17,290 --> 00:21:19,490
+Before we talk
+about patient safety
+
+444
+00:21:19,490 --> 00:21:22,510
+specifically, let's clear
+up some myths and define
+
+445
+00:21:22,510 --> 00:21:24,190
+the negative health
+outcomes of sleep
+
+446
+00:21:24,190 --> 00:21:28,050
+deprivation. There is a
+very rare prion disease
+
+447
+00:21:28,050 --> 00:21:30,930
+called fatal familial
+insomnia that results
+
+448
+00:21:30,930 --> 00:21:33,510
+in progressive insomnia
+and eventual death
+
+449
+00:21:33,510 --> 00:21:36,710
+in all patients. This
+suggests that the
+
+450
+00:21:36,710 --> 00:21:40,110
+total lack of sleep
+can be deadly. However,
+
+451
+00:21:40,250 --> 00:21:43,170
+based on anecdotal
+evidence of people who
+
+452
+00:21:43,170 --> 00:21:45,170
+have tried to break the
+Guinness Book Record
+
+453
+00:21:45,170 --> 00:21:48,230
+for longest time awake,
+we do know some of the
+
+454
+00:21:48,230 --> 00:21:50,830
+effects of sleep
+deprivation and true
+
+455
+00:21:50,830 --> 00:21:54,490
+fatalities from sleep
+deprivation are exceedingly
+
+456
+00:21:54,490 --> 00:21:57,450
+rare. A few days
+without sleep results in
+
+457
+00:21:57,450 --> 00:22:00,550
+progressive, slowed, and
+altered cognition and
+
+458
+00:22:00,550 --> 00:22:02,870
+motor control.
+This is followed by
+
+459
+00:22:02,870 --> 00:22:06,630
+hallucinations,
+paranoia, memory
+loss, and eventually
+
+460
+00:22:06,630 --> 00:22:09,610
+psychosis in some
+persons who are sleep
+
+461
+00:22:09,610 --> 00:22:13,450
+-deprived for long periods.
+The Guinness record
+
+462
+00:22:13,450 --> 00:22:16,170
+for the longest time
+awake is 18 days, 21
+
+463
+00:22:16,170 --> 00:22:19,930
+hours and 40 minutes.
+If I remember correctly,
+
+464
+00:22:19,930 --> 00:22:22,330
+this particular person
+had a few symptoms
+
+465
+00:22:22,330 --> 00:22:26,330
+of sleep deprivation.
+However, there have been
+
+466
+00:22:26,330 --> 00:22:28,990
+enough people trying
+for the record who
+
+467
+00:22:28,990 --> 00:22:32,290
+have had severe symptoms
+after sleep deprivation,
+
+468
+00:22:32,290 --> 00:22:35,450
+some possibly
+permanent, that Guinness
+
+469
+00:22:35,450 --> 00:22:38,650
+no longer monitors or
+reports sleep deprivation
+
+470
+00:22:38,650 --> 00:22:41,840
+records due to the
+negative health effects.
+
+471
+00:22:41,840 --> 00:22:44,610
+And we all know that
+sleep deprivation does
+
+472
+00:22:44,610 --> 00:22:46,630
+increase the risk of
+falling asleep at the
+
+473
+00:22:46,630 --> 00:22:49,830
+wheel and serious motor
+vehicle accidents.
+
+474
+00:22:50,810 --> 00:22:54,990
+One of the most sleep
+-deprived population is
+
+475
+00:22:54,990 --> 00:22:58,070
+house staff, medical,
+surgical, psychiatry,
+
+476
+00:22:58,070 --> 00:23:00,610
+family practice, and
+OB residents who are
+
+477
+00:23:00,610 --> 00:23:05,170
+sometimes up for 24 or
+36 hours more at a time.
+
+478
+00:23:05,170 --> 00:23:07,870
+They make an excellent
+study population.
+
+479
+00:23:07,870 --> 00:23:11,650
+The first study looked
+at house staff who are
+
+480
+00:23:11,650 --> 00:23:15,610
+on call every fourth
+night. 44% reported
+
+481
+00:23:15,610 --> 00:23:19,310
+falling asleep at a
+stoplight, 49% fell asleep
+
+482
+00:23:19,310 --> 00:23:22,730
+at the wheel, and 23
+% while the car was in
+
+483
+00:23:22,730 --> 00:23:26,530
+motion. 90% of these
+events occurred post
+
+484
+00:23:26,530 --> 00:23:30,550
+-call. The second study
+shows being sleep-deprived
+
+485
+00:23:30,550 --> 00:23:33,310
+increases the risk
+of near-misses and
+
+486
+00:23:33,310 --> 00:23:36,650
+accidents in driving
+simulations, and the third
+
+487
+00:23:36,650 --> 00:23:39,310
+shows subjects
+performed worse in every
+
+488
+00:23:39,310 --> 00:23:42,870
+measure of cognitive
+function when tested even
+
+489
+00:23:42,870 --> 00:23:45,450
+with moderate sleep
+deprivation and that
+
+490
+00:23:45,450 --> 00:23:47,790
+prolonged periods of
+sleep deprivation for
+
+491
+00:23:47,790 --> 00:23:51,650
+example four to five
+hours of sleep nightly had
+
+492
+00:23:51,650 --> 00:23:55,210
+a cumulative effect
+resulting in increasing
+
+493
+00:23:55,210 --> 00:24:00,610
+cognitive impairment
+not only that but when
+
+494
+00:24:00,610 --> 00:24:03,090
+you don't get enough
+sleep judgment is impaired
+
+495
+00:24:03,090 --> 00:24:06,690
+and the result is
+poor decisions. Sleep
+
+496
+00:24:06,690 --> 00:24:09,830
+deprivation results in
+increased risk-taking,
+
+497
+00:24:09,830 --> 00:24:13,330
+likely secondary to
+suboptimal or abnormal
+
+498
+00:24:13,330 --> 00:24:16,910
+functioning of the
+prefrontal cortex, nucleus
+
+499
+00:24:16,910 --> 00:24:20,410
+accumbens, and insula.
+It results in more
+
+500
+00:24:20,410 --> 00:24:23,550
+rigid thinking,
+perseveration of ideas, and
+
+501
+00:24:23,550 --> 00:24:26,090
+difficulty in incorporating
+new information.
+
+502
+00:24:26,090 --> 00:24:29,730
+And here's the worst
+news. It's likely that
+
+503
+00:24:29,730 --> 00:24:33,030
+coffee or other
+caffeinated beverages can't
+
+504
+00:24:33,030 --> 00:24:35,630
+stop one who is sleep
+deprived from poor
+
+505
+00:24:35,630 --> 00:24:39,110
+performance, secondary
+to cognitive deficits,
+
+506
+00:24:39,110 --> 00:24:40,710
+making poor decisions
+
+507
+00:24:40,710 --> 00:24:43,110
+and taking undue risks.
+
+508
+00:24:45,270 --> 00:24:47,170
+Have you ever
+spent more than 24
+
+509
+00:24:47,170 --> 00:24:49,110
+hours awake and then
+two or three days
+
+510
+00:24:49,110 --> 00:24:51,110
+later had a cold
+or a sore throat?
+
+511
+00:24:51,190 --> 00:24:53,190
+Well, it turns out
+that if we don't
+
+512
+00:24:53,190 --> 00:24:55,410
+get enough sleep,
+we are three times
+
+513
+00:24:55,410 --> 00:24:57,930
+more likely to get
+a cold. At less than
+
+514
+00:24:57,930 --> 00:24:59,850
+five hours a night
+chronically, we
+
+515
+00:24:59,850 --> 00:25:02,590
+are four times as
+likely. In addition,
+
+516
+00:25:02,850 --> 00:25:05,270
+sleep deprivation
+results in decreased
+
+517
+00:25:05,270 --> 00:25:07,210
+antibody responses
+to vaccines
+
+518
+00:25:07,210 --> 00:25:09,870
+and increases the
+risk of pneumonia.
+
+519
+00:25:13,000 --> 00:25:16,090
+The truth is, if you
+don't take care of
+
+520
+00:25:16,090 --> 00:25:18,870
+yourself, you really
+can't take care of others.
+
+521
+00:25:20,210 --> 00:25:23,890
+In summary, normal
+sleep physiology is
+
+522
+00:25:23,890 --> 00:25:25,830
+dictated by circadian
+rhythms that
+
+523
+00:25:25,830 --> 00:25:28,390
+orchestrate hormonal and
+physiologic functions
+
+524
+00:25:28,390 --> 00:25:30,310
+that maintain
+normal homeostasis.
+
+525
+00:25:30,310 --> 00:25:34,330
+stasis. Sleep disorders
+are prevalent and
+
+526
+00:25:34,330 --> 00:25:37,090
+many can be diagnosed
+by a primary provider
+
+527
+00:25:37,090 --> 00:25:39,470
+with sleep studies,
+while some require
+
+528
+00:25:39,470 --> 00:25:41,830
+outside consultation
+for management.
+
+529
+00:25:42,030 --> 00:25:45,010
+Sleep is an integral
+part of physician
+
+530
+00:25:45,010 --> 00:25:48,670
+wellness that optimizes
+safety and care of the
+
+531
+00:25:48,670 --> 00:25:51,690
+patient. And please
+give us feedback on this
+
+532
+00:25:51,690 --> 00:25:54,970
+lecture. We really do
+value your opinion.
+
+533
+00:26:02,530 --> 00:26:05,290
+Thank you. Good
+luck and stay well.
