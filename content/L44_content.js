@@ -189,8 +189,9 @@ Diseases of the posterior segment can often be categorized by whether the vision
         primarySource: "AMBOSS",
         chapter: "Ophthalmology > Red Eye / Retina",
         alternatives: [
+            { resource: "BandB", chapter: "Neurology > The Eye > Ophthalmology" },
             { resource: "FirstAid", chapter: "Ophthalmology" },
-            { resource: "Pathoma", chapter: "Ophthalmology (if available)" }
+            { resource: "Pathoma", chapter: "Eye Pathology" }
         ]
     },
     mindmap: `
@@ -213,7 +214,7 @@ Diseases of the posterior segment can often be categorized by whether the vision
 * **Horner's**: Ptosis, Miosis, No sweat.
 * **CN3 Palsy**: Down & Out, Dilated (Aneurysm).
 * **RAPD**: Optic Nerve lesion.
-\`
+`
 };
 
 if (typeof window !== 'undefined') {

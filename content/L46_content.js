@@ -168,6 +168,7 @@ export const L46_CONTENT = {
         primarySource: "AMBOSS",
         chapter: "Neurology > Neurological Examination",
         alternatives: [
+            { resource: "BandB", chapter: "Neurology > Clinical Neurology > Sensory Exam" },
             { resource: "FirstAid", chapter: "Neurology > Exam" }
         ]
     },
@@ -189,7 +190,7 @@ export const L46_CONTENT = {
 
 ### Malingering
 * **Hoover**: No downward pressure.
-\`
+`
 };
 
 if (typeof window !== 'undefined') {

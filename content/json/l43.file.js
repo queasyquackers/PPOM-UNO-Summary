@@ -108,15 +108,13 @@ window.receiveLectureContent({
     }
   ],
   "ankingResource": {
-    "primarySource": "AMBOSS",
-    "chapter": "Neurology > Multiple Sclerosis > Management",
-    "alternatives": [
-      {
-        "resource": "FirstAid",
-        "chapter": "Pharmacology > Neurologic"
-      }
-    ]
-  },
+        primarySource: "SketchyPharm",
+        chapter: "Smooth Muscle & CNS Drugs > Multiple Sclerosis Drugs",
+        alternatives: [
+            { resource: "FirstAid", chapter: "Pharmacology > Neurologic" },
+            { resource: "AMBOSS", chapter: "Neurology > Multiple Sclerosis > Management" }
+        ]
+    },
   "pearls": [
     {
       "title": "PML Risk",

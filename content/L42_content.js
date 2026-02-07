@@ -177,6 +177,7 @@ export const L42_CONTENT = {
         primarySource: "Pathoma",
         chapter: "Central Nervous System > Demyelinating Disorders",
         alternatives: [
+            { resource: "BandB", chapter: "Neurology > Demyelinating Disorders" },
             { resource: "AMBOSS", chapter: "Neurology > Demyelinating Disorders" },
             { resource: "FirstAid", chapter: "Neurology > Demyelinating" },
             { resource: "SketchyPath", chapter: "Neurology > Demyelinating" }
@@ -197,7 +198,7 @@ export const L42_CONTENT = {
 * **Metachromatic**: Arylsulfatase A.
 * **Krabbe**: Globoid Cells.
 * **ALD**: VLCFA. Adrenal.
-\`
+`
 };
 
 if (typeof window !== 'undefined') {

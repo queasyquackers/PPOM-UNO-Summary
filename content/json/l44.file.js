@@ -108,15 +108,14 @@ window.receiveLectureContent({
     }
   ],
   "ankingResource": {
-    "primarySource": "AMBOSS",
-    "chapter": "Ophthalmology > Red Eye",
-    "alternatives": [
-      {
-        "resource": "FirstAid",
-        "chapter": "Ophthalmology"
-      }
-    ]
-  },
+        primarySource: "AMBOSS",
+        chapter: "Ophthalmology > Red Eye / Retina",
+        alternatives: [
+            { resource: "FirstAid", chapter: "Ophthalmology" },
+            { resource: "Pathoma", chapter: "Eye Pathology" },
+            { resource: "BandB", chapter: "Neurology > The Eye > Ophthalmology Basics" }
+        ]
+    },
   "pearls": [
     {
       "title": "Horner's vs CN3 Palsy",

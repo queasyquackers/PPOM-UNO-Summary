@@ -140,6 +140,7 @@ Generate a comprehensive, high-yield summary of the provided lecture content.
 ### 6. Anking Resource Recommendations
 
 - **Goal:** Map this lecture to a high-yield external resource (Boards & Beyond, Pathoma, Sketchy, First Aid).
+  - **CRITICAL REQUIREMENT:** You **MUST** include **Boards and Beyond (`BandB`)** as either the `primarySource` or as one of the `alternatives`. If it is the best match, make it primary. If not, include it in alternatives.
   - **JSON Format (Output this specific JSON block):**
 
   ```json
@@ -154,7 +155,7 @@ Generate a comprehensive, high-yield summary of the provided lecture content.
   ```
 
   - **Valid Source Names:** `BandB`, `Pathoma`, `SketchyMicro`, `SketchyPharm`, `SketchyPath`, `FirstAid`, `Physeo`, `Pixorize`, `Bootcamp`.
-  - **Rule:** Provide the **Best Match** as primary, and up to **5 Alternative Matches** in the list.
+  - **Rule:** Provide the **Best Match** as primary, and up to **5 Alternative Matches** in the list. Ensure `BandB` is present.
 
 ### 7. Pearlbook (JSON)
 

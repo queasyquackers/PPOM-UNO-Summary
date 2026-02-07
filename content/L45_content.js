@@ -179,6 +179,7 @@ export const L45_CONTENT = {
         primarySource: "AMBOSS",
         chapter: "Neurology > Brainstem Syndromes",
         alternatives: [
+            { resource: "BandB", chapter: "Neurology > Brainstem > Brainstem Syndromes" },
             { resource: "FirstAid", chapter: "Neurology > Brainstem" },
             { resource: "Pathoma", chapter: "Central Nervous System > Brainstem" },
             { resource: "SketchyPath", chapter: "Neurology > Brainstem" }
@@ -198,7 +199,7 @@ export const L45_CONTENT = {
 ### Cerebellum
 * **Vermis**: Truncal Ataxia (Alcohol).
 * **Hemisphere**: Limb Ataxia (Dysdiadochokinesia).
-\`
+`
 };
 
 if (typeof window !== 'undefined') {

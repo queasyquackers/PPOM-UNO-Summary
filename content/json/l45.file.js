@@ -103,15 +103,14 @@ window.receiveLectureContent({
     }
   ],
   "ankingResource": {
-    "primarySource": "AMBOSS",
-    "chapter": "Neurology > Brainstem Syndromes",
-    "alternatives": [
-      {
-        "resource": "FirstAid",
-        "chapter": "Neurology > Brainstem"
-      }
-    ]
-  },
+        primarySource: "AMBOSS",
+        chapter: "Neurology > Brainstem Syndromes",
+        alternatives: [
+            { resource: "FirstAid", chapter: "Neurology > Brainstem" },
+            { resource: "Pathoma", chapter: "Central Nervous System > Brainstem" },
+            { resource: "SketchyPath", chapter: "Neurology > Brainstem" }
+        ]
+    },
   "pearls": [
     {
       "title": "Rule of 4s: Medial vs Lateral",
