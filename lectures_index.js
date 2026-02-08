@@ -463,4 +463,103 @@ window.receiveLectureIndex([
     "path": "content/json/l59.file.js",
     "readingTime": 5
   }
+,
+  {
+    "id": "l60",
+    "title": "Lecture #60: Sacral MET (Part 2)",
+    "module": "OMM",
+    "tags": "Lecture #60",
+    "path": "content/json/l60.file.js",
+    "readingTime": 3
+  }
+,
+  {
+    "id": "l61",
+    "title": "Lecture #61: Gait and Movement",
+    "module": "Neurology",
+    "tags": "Lecture #61",
+    "path": "content/json/l61.file.js",
+    "readingTime": 5
+  }
+,
+  {
+    "id": "l62",
+    "title": "Lecture #62: Brachial Plexus Lesions and Neuropathies",
+    "module": "Neurology",
+    "tags": "Lecture #62",
+    "path": "content/json/l62.file.js",
+    "readingTime": 5
+  }
+,
+  {
+    "id": "l63",
+    "title": "Lecture #63: Headache",
+    "module": "Neurology",
+    "tags": "Lecture #63",
+    "path": "content/json/l63.file.js",
+    "readingTime": 5
+  }
+,
+  {
+    "id": "l64",
+    "title": "Lecture #64: Introduction to Neuropharmacology",
+    "module": "Neuropharmacology",
+    "tags": "Lecture #64",
+    "path": "content/json/l64.file.js",
+    "readingTime": 5
+  }
+,
+  {
+    "id": "l65",
+    "title": "Lecture #65: Antiseizure Drugs II",
+    "module": "Neuropharmacology",
+    "tags": "Lecture #65",
+    "path": "content/json/l65.file.js",
+    "readingTime": 5
+  }
+,
+  {
+    "id": "l66",
+    "title": "Lecture #66: Local Anesthetics",
+    "module": "Neuropharmacology",
+    "tags": "Lecture #66",
+    "path": "content/json/l66.file.js",
+    "readingTime": 5
+  }
+,
+  {
+    "id": "l67",
+    "title": "Lecture #67: Opioids",
+    "module": "Neuropharmacology",
+    "tags": "Lecture #67",
+    "path": "content/json/l67.file.js",
+    "readingTime": 6
+  }
+,
+  {
+    "id": "l68",
+    "title": "Lecture #68: Drugs of Abuse",
+    "module": "Neuropharmacology",
+    "tags": "Lecture #68",
+    "path": "content/json/l68.file.js",
+    "readingTime": 5
+  }
+,
+  {
+    "id": "l69",
+    "title": "Lecture #69: Substance Use Disorders",
+    "module": "Neuropharmacology",
+    "tags": "Lecture #69",
+    "path": "content/json/l69.file.js",
+    "readingTime": 5
+  }
+,
+  {
+    "id": "l70",
+    "title": "Lecture #70: Pediatric H&P I",
+    "module": "Pediatrics",
+    "tags": "Lecture #70",
+    "path": "content/json/l70.file.js",
+    "readingTime": 5
+  }
 ]);
