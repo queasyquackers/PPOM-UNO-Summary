@@ -1485,7 +1485,7 @@ function renderTabContent() {
     } else if (activeTab === "high-yield") {
       const pdfPath =
         selectedLecture.highYieldPdf ||
-        `L${selectedLecture.id.replace(/^l/i, "")}_HighYield_Render.pdf`;
+        `content/L${selectedLecture.id.replace(/^l/i, "")}_HighYield_Render.pdf`;
 
       // Container for PDF pages
       contentDiv.innerHTML = `
@@ -2008,13 +2008,23 @@ function renderMarkdown(html) {
             inList = false;
           }
           if (line.length > 0) {
-            const processedLine = line.replace(/^[\s\*]+|[\s\*]+$/g, "");
+            // Fix: Just parse bold syntax normally, don't strip leading/trailing chars indiscriminately
+            let processedLine = line.replace(
+              /\*\*(.*?)\*\*/g,
+              '<strong class="font-bold text-solarized-base01 dark:text-dark-text">$1</strong>'
+            );
+
+            // Check if it's a "key: value" pair that should be bolded automatically?
+            // The previous code might have been trying to handle "Title: Value" lines by stripping stars.
+            // If the prompt now forbids stars in titles, we should be safer.
+            // Let's just wrap non-list items in P tags.
+
             processedContent +=
               '<p class="mb-2 text-lg font-serif leading-relaxed ' +
               (isDark ? "text-dark-text" : "text-solarized-base00") +
-              '"><strong class="font-bold text-solarized-base01 dark:text-dark-text">' +
+              '">' +
               processedLine +
-              "</strong></p>";
+              "</p>";
           }
         }
       });
@@ -2201,11 +2211,29 @@ function renderMarkdown(html) {
 
   // Lists (Improved Parsing & Interactivity)
   html = html.replace(/^(\s*)[\*\-]\s+(.*)$/gm, (match, indent, content) => {
-    const ml = indent.length * 0.5;
+    // Calculate depth based on 2-space indentation
+    // 0 spaces = Level 0 (Disc)
+    // 2 spaces = Level 1 (Circle)
+    // 4 spaces = Level 2 (Square)
+    // 6+ spaces = Level 3 (Disc/Grid)
+
+    const spaces = indent.length;
+    const level = Math.floor(spaces / 2);
+    const ml = spaces * 0.5; // Rem units for margin
+
+    let listStyle = 'list-disc';
+    if (level === 1) listStyle = 'list-[circle]'; // Tailwind arbitrary value or inline style
+    if (level >= 2) listStyle = 'list-[square]';
+
+    // Using inline styles for list-style-type to ensure browser compatibility without Tailwind plugins
+    let typeStyle = 'disc';
+    if (level === 1) typeStyle = 'circle';
+    if (level >= 2) typeStyle = 'square';
+
     return (
       '<ul><li class="relative pl-2 leading-relaxed text-lg text-solarized-base00 dark:text-dark-muted font-serif hover:scale-[1.01] origin-left transition-transform duration-200 cursor-default" style="margin-left: ' +
       ml +
-      'rem">' +
+      'rem; list-style-type: ' + typeStyle + ';">' +
       content +
       "</li></ul>"
     );

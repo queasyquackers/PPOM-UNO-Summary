@@ -366,5 +366,101 @@ window.receiveLectureIndex([
     "tags": "",
     "path": "content/json/l46.file.js",
     "readingTime": 1
+  },
+  {
+    "id": "l48",
+    "title": "Lecture 48: Pharmacology: Sedative Hypnotics",
+    "module": "Neurology",
+    "tags": "",
+    "path": "content/json/l48.file.js",
+    "readingTime": 10
+  },
+  {
+    "id": "l49",
+    "title": "Lecture 49: Sleep and Sleep Disturbances",
+    "module": "Neurology",
+    "tags": "",
+    "path": "content/json/l49.file.js",
+    "readingTime": 11
+  },
+  {
+    "id": "l50",
+    "title": "Lecture 50: Seizures and Epilepsy",
+    "module": "Neurology",
+    "tags": "",
+    "path": "content/json/l50.file.js",
+    "readingTime": 10
+  },
+  {
+    "id": "l51",
+    "title": "Lecture 51: Differential Diagnosis of Memory Disorders",
+    "module": "Neurology",
+    "tags": "",
+    "path": "content/json/l51.file.js",
+    "readingTime": 9
+  },
+  {
+    "id": "l52",
+    "title": "Lecture 52: Pharmacology: Antiseizure Drugs 1",
+    "module": "Pharmacology",
+    "tags": "",
+    "path": "content/json/l52.file.js",
+    "readingTime": 8
+  },
+  {
+    "id": "l53",
+    "title": "Lecture 53: Pharmacology: Antiseizure Drugs, Part 2",
+    "module": "Pharmacology",
+    "tags": "",
+    "path": "content/json/l53.file.js",
+    "readingTime": 9
+  },
+  {
+    "id": "l54",
+    "title": "Lecture 54: Aphasia and Common Strokes",
+    "module": "Neurology",
+    "tags": "",
+    "path": "content/json/l54.file.js",
+    "readingTime": 8
+  },
+  {
+    "id": "l55",
+    "title": "Lecture 55: Cerebrovascular Diseases",
+    "module": "Neurology",
+    "tags": "",
+    "path": "content/json/l55.file.js",
+    "readingTime": 25
+  },
+  {
+    "id": "l56",
+    "title": "Lecture 56: Neurodegenerative Disease and Selective Neuropathy",
+    "module": "Neurology",
+    "tags": "",
+    "path": "content/json/l56.file.js",
+    "readingTime": 24
+  },
+  {
+    "id": "l57",
+    "title": "Lecture 57: Parkinson's Disease and its Variants",
+    "module": "Neurology",
+    "tags": "",
+    "path": "content/json/l57.file.js",
+    "readingTime": 30
+  },
+  {
+    "id": "l58",
+    "title": "Lecture 58: Pharmacology: Parkinson and Alzheimer",
+    "module": "Neurology",
+    "tags": "",
+    "path": "content/json/l58.file.js",
+    "readingTime": 20
+  },
+  {
+    "id": "l59",
+    "title": "Lecture #59: History and Physical Exam of the Aging Patient",
+    "module": "Clinical Medicine",
+    "tags": "",
+    "path": "content/json/l59.file.js",
+    "readingTime": 5
   }
 ]);

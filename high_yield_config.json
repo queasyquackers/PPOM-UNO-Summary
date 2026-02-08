@@ -15,7 +15,11 @@
         "adverse effect",
         "treatment",
         "management",
-        "objectives"
+        "objectives",
+        "pathophysiology",
+        "diagnosis",
+        "gold standard",
+        "first line"
     ],
     "neg_keywords": [
         "references",
@@ -26,7 +30,13 @@
         "bibliography",
         "works cited",
         "sources",
-        "citations"
+        "citations",
+        "further reading",
+        "questions?",
+        "attribution",
+        "image credit",
+        "reference",
+        "hyperlink"
     ],
     "feedback_indicators": [
         "feedback form",
@@ -55,18 +65,18 @@
         "bold_ratio": 20,
         "color_ratio": 30,
         "keyword_hit": 5,
-        "neg_keyword_hit": -20,
+        "neg_keyword_hit": -50,
         "repetition": 2,
-        "formula": 10,
+        "formula": 15,
         "threshold": 10,
         "example": 5,
-        "clinical": 5,
+        "clinical": 10,
         "practice_q": 15,
         "image_bonus": 15,
-        "visual_diagram_bonus": 10,
-        "low_text_penalty": -5,
+        "visual_diagram_bonus": 20,
+        "low_text_penalty": -10,
         "adjacency_next": 5,
         "adjacency_prev": 2,
-        "url_penalty": -10
+        "url_penalty": -200
     }
 }

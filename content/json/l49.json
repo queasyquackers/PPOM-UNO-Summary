@@ -1,0 +1,160 @@
+{
+    "id": "l49",
+    "title": "Lecture 49: Sleep and Sleep Disturbances",
+    "module": "Neurology",
+    "summary": "# Lecture 49: Sleep and Sleep Disturbances\n\n## 1. Sleep Physiology\n**Story Mode:**\nSleep isn't just a passive \"off\" switch; it's a highly active metabolic state essential for clearing neurotoxins (like amyloid-beta and tau) and consolidating memory. It follows a circadian rhythm (24-hour cycle) driven by internal biological clocks. Interestingly, without external cues (sunlight), our natural rhythm drifts to about 25 hours. This cycle orchestrates a shift from the catabolic/feeding state of wakefulness to the anabolic/fasting state of sleep, prioritizing growth hormone secretion and oxidative repair.\n\n### 1.1 Sleep Stages & EEG Architecture (Slide 97)\n*   **Wakefulness:**\n    *   **EEG:** **Alpha waves** (8-13 Hz) when awake at rest; **Beta waves** (>13 Hz) when active.\n    *   **Tone:** High muscle tone.\n*   **N1 (Light Sleep):**\n    *   **EEG:** **Theta waves** (4-7 Hz). Slowing of brain activity.\n    *   **Signs:** Eyelids droop, pupils constrict, slow roving eye movements.\n*   **N2 (Intermediate Sleep):**\n    *   **EEG:** **Sleep Spindles** (bursts of fast activity) and **K-complexes** on a background of Theta.\n    *   **Significance:** Most of total sleep time.\n*   **N3 (Deep/Slow Wave Sleep):**\n    *   **EEG:** **Delta waves** (<4 Hz, slow and high amplitude).\n    *   **Function:** Physical restoration, clearance of neurotoxins. Hardest to wake from.\n*   **REM (Rapid Eye Movement):**\n    *   **EEG:** **Sawtooth/Erratic waves** (looks like wakefulness - \"Paradoxical Sleep\").\n    *   **Physiology (Slide 154):**\n        *   **Brain:** Vivid illogical dreaming.\n        *   **Body:** **Atonia** (near-complete paralysis) to prevent acting out dreams.\n        *   **Autonomic:** Instability (irregular HR/BP), loss of thermoregulation.\n    *   **Extraocular Muscles:** The *only* muscles that move (rapid bursts).\n\n### 1.2 Sleep Architecture & Latency\n*   **Cycles:** We do NOT cycle 1->2->3->REM->3->2->1 sequentially. Cycles vary; REM predominates later in the night (early morning).\n*   **Sleep Latency:** Time from \"lights out\" to N1.\n*   **REM Latency:** Time from Sleep Onset to first REM period.\n    *   **Clinical Relevance:** Short REM latency is a hallmark of **Narcolepsy** and **Depression**.\n\n---\n\n## 2. Dyssomnias (Disorders of Timing/Quality)\n**Story Mode:**\nDyssomnias are problems with getting to sleep, staying asleep, or waking up. They can be intrinsic (primary) or extrinsic (secondary to environment/illness). The most common offender is Insomnia, which is often a symptom of poor habits (sleep hygiene) rather than a primary disease.\n\n### 2.1 Insomnia (Slide 192)\n*   **Definition:** Difficulty initiating or maintaining sleep, resulting in daytime fatigue.\n    *   **Acute:** Common (95% of adults), often stress-related.\n    *   **Chronic:** >3 months, affects 10% of adults.\n*   **Secondary Causes (90%):**\n    *   **Psychiatric:** Depression, Anxiety, PTSD.\n    *   **Medical:** COPD, Heart Failure (PND), GERD, Pain.\n    *   **Substances:** Caffeine, Alcohol (disrupts deep sleep), Steroids, Diuretics (nocturia).\n*   **Treatment Hierarchy:**\n    1.  **Treat Underlying Cause** (e.g., control pain, stop caffeine).\n    2.  **Sleep Hygiene (Gold Standard):**\n        *   Same wake/sleep time daily.\n        *   Bedroom = Sleep & Sex ONLY (no screens/stress).\n        *   Avoid late meals/alcohol.\n    3.  **Pharmacology:**\n        *   **First Line:** **\"Z-Drugs\"** (Zolpidem, Zaleplon, Eszopiclone) or Melatonin agonists (Ramelteon).\n        *   **Second Line:** Benzodiazepines (Avoid in elderly due to falls; decreases N3 sleep).\n        *   **Last Resort:** Antipsychotics/Antidepressants (High side effects).\n\n### 2.2 Narcolepsy (Slide 315)\n**Story Mode:**\nImagine REM sleep—with its paralysis and vivid dreams—suddenly intruding into your waking life. That is Narcolepsy. You might collapse while laughing (Cataplexy) because the REM paralysis switch got flipped while you were awake.\n*   **Pathophysiology:** Loss of **Orexin** (Hypocretin) producing neurons in the lateral hypothalamus.\n*   **Genetic Link:** Strong association with **HLA-DQB1*0602**.\n*   **Tetrad of Symptoms:**\n    1.  **Excessive Daytime Sleepiness:** \"Sleep Attacks\".\n    2.  **Cataplexy:** Sudden loss of muscle tone triggered by **strong emotion** (laughter, surprise).\n    3.  **Sleep Paralysis:** Inability to move upon waking/falling asleep.\n    4.  **Hallucinations:**\n        *   **Hypnagogic:** Go-ing to sleep.\n        *   **Hypnopompic:** Pop-ping out of bed (waking).\n*   **Diagnosis:** Polysomnogram showing **Short REM Latency** (Sleep Onset REM periods).\n*   **Treatment:** Stimulants (Modafinil, Methylphenidate) + Venlafaxine/SSRI (for Cataplexy).\n\n### 2.3 Obstructive Sleep Apnea (OSA) (Slide 349)\n*   **Mechanism:** Soft tissue (tongue/palate) collapses during sleep $\\rightarrow$ Airway obstruction $\\rightarrow$ Hypoxia $\\rightarrow$ Arousal. Prevents deep sleep.\n*   **Risk Factors:** **Obesity**, Large Neck Circumference, Male Gender, Retrognathia (small jaw).\n*   **Presentation:** Snoring, witness apnea (partner usually reports it), morning headaches, daytime somnolence.\n*   **Diagnosis:** Polysomnogram (Sleep Study).\n*   **Treatment:**\n    *   **CPAP (Continuous Positive Airway Pressure):** Pneumatic splint to keep airway open.\n    *   Weight loss.\n    *   Surgery (rarely).\n\n### 2.4 Restless Leg Syndrome (RLS) (Slide 268)\n*   **Symptom:** Uncomfortable sensation (creeping/crawling) in legs at rest, **relieved by movement**.\n*   **Timing:** Worse at night/evening.\n*   **Secondary Causes:** **Iron Deficiency**, Pregnancy, Renal Failure.\n*   **Treatment:**\n    *   Check **Iron (Ferritin)** levels first!\n    *   Dopamine Agonists (Pramipexole, Ropinirole), Gabapentin/Pregabalin.\n\n:::correlate\n**Circadian Rhythm Disorders**\n**Jet Lag:**\n*   Mismatch between internal clock and external time.\n*   **Treatment:** Melatonin; adapt to destination light/dark cycle immediately.\n\n**Delayed Sleep Phase:**\n*   \"Night Owls\". Sleep 2am - 10am. Common in adolescents.\n*   **Treatment:** Light therapy in morning.\n\n**Advanced Sleep Phase:**\n*   \"Early Birds\". Sleep 8pm - 4am. Common in elderly.\n:::\n\n---\n\n## 3. Parasomnias (Disorders of Behavior)\n**Story Mode:**\nParasomnias are unwanted behaviors occurring during sleep. The key distinction is **WHEN** they occur: Non-REM (N3) vs. REM. N3 parasomnias are \" disorders of arousal\" where the brain is half-awake but memory is off. REM parasomnias are \"disorders of disinhibition\" where the paralysis that usually protects us fails.\n\n### 3.1 Non-REM Parasomnias (Stage N3)\n*   **Sleep Terrors (Pavor Nocturnus):**\n    *   **Who:** Children (1%).\n    *   **Event:** Child screams, looks terrified, autonomic markers (high HR, sweating). **Cannot be consoled**.\n    *   **Outcome:** Goes back to sleep. **Amnesia** for the event in the morning.\n    *   **Tx:** Reassurance (grow out of it).\n*   **Sleepwalking (Somnambulism):**\n    *   **Who:** Children (up to 30%), rarely adults.\n    *   **Event:** Motor activity (walking, eating, driving) while asleep.\n    *   **Risk:** Injury/Safety.\n    *   **Tx:** Safety measures (locks/alarms). Benzodiazepines if severe/refractory.\n\n### 3.2 REM Parasomnias\n*   **REM Sleep Behavior Disorder (RBD):**\n    *   **Mechanism:** Loss of normal REM **atonia** (paralysis).\n    *   **Event:** Patient **acts out vivid/violent dreams** (punching, kicking, yelling).\n    *   **Risk:** Injury to self or bed partner.\n    *   **Clinical Pearl:** Highly predictive of future **Synucleinopathies** (Parkinson's Disease, Lewy Body Dementia).\n    *   **Tx:** Clonazepam, Melatonin.\n\n---\n\n## 4. Sleep Deprivation & Safety\n**Story Mode:**\nA tired doctor is a dangerous doctor. Sleep deprivation specifically impairs the **Prefrontal Cortex**, the center for judgment and executive function. This leads to rigid thinking, inability to adapt to new info, and increased risk-taking—a recipe for medical errors.\n\n### 4.1 Consequences\n1.  **Cognitive:** 4-5 hours sleep/night causes cumulative impairment equal to intoxication. Caffeine does **NOT** fix judgment errors.\n2.  **Immune:** <7 hours sleep = **3x risk** of Common Cold. Reduced vaccine response.\n3.  **Fatal Familial Insomnia:** Prion disease. Progressive insomnia $\\rightarrow$ Death. (Proves sleep is vital for life).\n\n:::highyield\n**The Intern Studies**\n**House Staff & Driving:**\nResidents working frequent 24+ hour shifts are a high-risk population.\n*   **49%** reported falling asleep at the wheel.\n*   **90%** of these events occurred **post-call**.\n*   **Result:** Increased MVAs and Near-Misses.\n**Takeaway:** You cannot \"train\" yourself to not need sleep. It is a biological imperative for safety.\n:::",
+    "questions": [
+        {
+            "question": "A 68-year-old male presents with a complaint from his wife that he \"fights\" in his sleep. She reports he punches and yells, and recently fell out of bed. When awakened, he vividly recalls a dream where he was fighting off an attacker. What is the most likely diagnosis?",
+            "options": [
+                "Sleep Terrors",
+                "Somnambulism",
+                "REM Sleep Behavior Disorder",
+                "Obstructive Sleep Apnea",
+                "Nocturnal Seizures"
+            ],
+            "correctAnswer": 2,
+            "rationale": "The patient acts out dreams due to a loss of REM atonia. Key features are the **violent nature**, occurring in an **older male**, and **recall of the dream**. This is distinct from Sleep Terrors (children, no recall) and is a risk factor for Parkinson's."
+        },
+        {
+            "question": "A 22-year-old medical student reports difficulty staying awake in class. She reports falling asleep instantly when she lies down. She also describes episodes of sudden weakness in her knees when she laughs at a joke. Which of the following is likely deficient in her CNS?",
+            "options": [
+                "Dopamine",
+                "Serotonin",
+                "Acetylcholine",
+                "Orexin (Hypocretin)",
+                "GABA"
+            ],
+            "correctAnswer": 3,
+            "rationale": "This is **Narcolepsy**. The presentation of Excessive Daytime Sleepiness + **Cataplexy** (muscle weakness with emotion) is classic. It is caused by the autoimmune destruction of Orexin-producing neurons in the hypothalamus."
+        },
+        {
+            "question": "Which of the following sleep stages is correctly matched with its characteristic EEG waveform?",
+            "options": [
+                "Stage N1 - Delta Waves",
+                "Stage N2 - Sleep Spindles and K-Complexes",
+                "Stage N3 - Alpha Waves",
+                "REM Sleep - Delta Waves",
+                "Wakefulness (Active) - Theta Waves"
+            ],
+            "correctAnswer": 1,
+            "rationale": "**Stage N2** is characterized by Sleep Spindles and K-Complexes on a Theta background. N1 has Theta. N3 has Delta (Slow waves). REM has \"Sawtooth\" or Beta-like waves. Wakefulness has Alpha (rest) or Beta (active)."
+        },
+        {
+            "question": "A 45-year-old female complains of an uncomfortable \"creeping\" sensation in her legs every evening that makes it hard to relax. Walking around the room relieves the feeling. What is the most appropriate initial diagnostic step?",
+            "options": [
+                "Polysomnogram",
+                "Nerve Conduction Study",
+                "Serum Ferritin level",
+                "MRI of Lumbar Spine",
+                "Trial of Benzodiazepines"
+            ],
+            "correctAnswer": 2,
+            "rationale": "This is **Restless Leg Syndrome (RLS)**. It is strongly associated with **Iron Deficiency**. Checking iron stores (Ferritin) is mandatory before starting symptomatic treatment with dopamine agonists or gabapentin."
+        },
+        {
+            "question": "What is the effect of chronic sleep deprivation on the immune system?",
+            "options": [
+                "Increased antibody response to vaccines",
+                "Decreased risk of upper respiratory infections",
+                "Increased susceptibility to common cold (Rhinovirus)",
+                "Enhanced T-cell proliferation",
+                "No significant effect"
+            ],
+            "correctAnswer": 2,
+            "rationale": "Study data shows that <7 hours of sleep significantly increases the risk of contracting the common cold (Rhinovirus) and lowers antibody responses to vaccinations."
+        }
+    ],
+    "flashcards": [
+        {
+            "front": "What sleep stage do Sleep Terrors and Sleepwalking occur in?",
+            "back": "Stage N3 (Deep/Slow Wave Sleep)",
+            "tag": "Neurology"
+        },
+        {
+            "front": "What sleep stage do Nightmares occur in?",
+            "back": "REM Sleep (Patient remembers them)",
+            "tag": "Neurology"
+        },
+        {
+            "front": "Mechanism of Narcolepsy",
+            "back": "Loss of Orexin (Hypocretin) neurons in lateral hypothalamus",
+            "tag": "Neurology"
+        },
+        {
+            "front": "What genetic allele is associated with Narcolepsy?",
+            "back": "HLA-DQB1*0602",
+            "tag": "Neurology"
+        },
+        {
+            "front": "Clinical Tetrad of Narcolepsy",
+            "back": "EDS, Cataplexy, Sleep Paralysis, Hypnagogic/pompic Hallucinations",
+            "tag": "Neurology"
+        },
+        {
+            "front": "REM Sleep Behavior Disorder is a precursor to which diseases?",
+            "back": "Synucleinopathies (Parkinson's, Lewy Body Dementia)",
+            "tag": "Neurology"
+        },
+        {
+            "front": "First-line pharmacotherapy for Insomnia (after hygiene)",
+            "back": "Z-Drugs (Zolpidem etc.) or Melatonin agonists",
+            "tag": "Pharmacology"
+        },
+        {
+            "front": "Secondary causes of Restless Leg Syndrome",
+            "back": "Iron Deficiency (Check Ferritin!), Pregnancy, Renal Failure",
+            "tag": "Neurology"
+        },
+        {
+            "front": "Effect of Benzodiazepines on Sleep Architecture",
+            "back": "Decreases N3 (Deep) Sleep",
+            "tag": "Pharmacology"
+        },
+        {
+            "front": "Diagnosis of frequent snoring + daytime sleepiness in obese male",
+            "back": "Obstructive Sleep Apnea (Diagnose with Polysomnogram)",
+            "tag": "Neurology"
+        }
+    ],
+    "ankingResource": {
+        "primarySource": "Zanki Pharmacology",
+        "chapter": "CNS Pharmacology > Sedative-Hypnotics",
+        "alternatives": [
+            {
+                "resource": "BandB",
+                "chapter": "Neurology > Sleep > Sleep Disorders"
+            },
+            {
+                "resource": "Sketchy Path",
+                "chapter": "Neurology > Sleep"
+            },
+            {
+                "resource": "First Aid",
+                "chapter": "Psychiatry > Sleep Disorders"
+            }
+        ]
+    },
+    "pearls": [
+        {
+            "title": "REM vs N3 Parasomnias",
+            "content": "**N3 (Deep Sleep):** Terrors, Walking. NO Memory. Children.\\n**REM:** Behavior Disorder (Acting out dreams). Vivid Memory. Elderly (Parkinson's risk)."
+        },
+        {
+            "title": "Cataplexy Trigger",
+            "content": "Cataplexy (sudden loss of tone in Narcolepsy) is specifically triggered by **strong emotion**, most commonly **laughter**."
+        },
+        {
+            "title": "Ferritin & RLS",
+            "content": "Always check **Iron/Ferritin** in clear-cut Restless Leg Syndrome. Iron deficiency is a reversible cause."
+        },
+        {
+            "title": "Sleep Latency Definitions",
+            "content": "**Sleep Latency:** Time to fall asleep (High in Insomnia, Low in Sleep Deprivation).\\n**REM Latency:** Time to first dream (Low in Narcolepsy & Depression)."
+        },
+        {
+            "title": "Z-Drugs",
+            "content": "Zolpidem, Zaleplon, Eszopiclone. They bind the BZ1 receptor subtype to induce sleep without the muscle relaxant/anticonvulsant effects of Benzos."
+        }
+    ]
+}

@@ -366,5 +366,13 @@
     "tags": "Lecture #46",
     "path": "content/json/l46.json",
     "readingTime": 3
+  },
+  {
+    "id": "l59",
+    "title": "Lecture #59: History and Physical Exam of the Aging Patient",
+    "module": "Clinical Medicine",
+    "tags": "Lecture #59",
+    "path": "content/json/l59.json",
+    "readingTime": 5
   }
 ]

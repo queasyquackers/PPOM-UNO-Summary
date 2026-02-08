@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Debug L52</title>
+    <style>
+        body { font-family: sans-serif; padding: 20px; }
+        #log { white-space: pre-wrap; background: #f0f0f0; padding: 10px; border: 1px solid #ccc; }
+        .error { color: red; }
+        .success { color: green; }
+    </style>
+</head>
+<body>
+    <h1>L52 Debugger</h1>
+    <div id="log">Initializing...</div>
+
+    <script>
+        const log = document.getElementById('log');
+        function logMsg(msg, type = 'info') {
+            const div = document.createElement('div');
+            div.textContent = `[${new Date().toLocaleTimeString()}] ${msg}`;
+            if (type) div.className = type;
+            log.appendChild(div);
+            console.log(msg);
+        }
+
+        window.onerror = function(msg, url, line, col, error) {
+            logMsg(`Error: ${msg}\nURL: ${url}\nLine: ${line}:${col}\nStack: ${error?.stack}`, 'error');
+            return false;
+        };
+
+        window.receiveLectureContent = function(data) {
+            logMsg(`Received content for ID: ${data.id}`, 'success');
+            logMsg(`Title: ${data.title}`);
+            logMsg(`Module: ${data.module}`);
+            logMsg(`Summary length: ${data.summary?.length}`);
+        };
+
+        logMsg('Attempting to load content/json/l52.file.js...');
+        
+        const script = document.createElement('script');
+        script.src = 'content/json/l52.file.js';
+        script.onload = () => logMsg('Script loaded successfully (onload triggered)', 'success');
+        script.onerror = (e) => logMsg('Script load error (onerror triggered). Check file path or network.', 'error');
+        document.body.appendChild(script);
+
+    </script>
+</body>
+</html>

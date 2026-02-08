@@ -164,6 +164,30 @@ def get_page_score(page, page_num, dynamic_keywords=None, recurring_images=None)
     total_links = url_count + link_annot_count
     score += total_links * w["url_penalty"]
     
+    # --- Transcript Overlap Logic (NEW) ---
+    if dynamic_keywords:
+        # Calculate how many of the "significant transcript words" appear on this page
+        # intersection / len(page_words) or intersection count
+        page_words = set(re.findall(r'\b[a-zA-Z]{5,}\b', lower_text))
+        if page_words:
+            transcript_set = set(dynamic_keywords)
+            overlap = page_words.intersection(transcript_set)
+            
+            # Boost for high overlap
+            overlap_count = len(overlap)
+            score += overlap_count * 2 # +2 points for every significant transcript word found
+            
+            # Penalty for low relevance (if page has text but very little overlap)
+            # Only apply if page has significant text count
+            if len(page_words) > 10: 
+                overlap_ratio = len(overlap) / len(page_words)
+                if overlap_ratio < 0.1: # Less than 10% of significant words match transcript context
+                     # Check if it's just a reference slide vs a diagram with few words
+                     if not has_clinical and num_images == 0:
+                        score -= 50 # Heavy penalty for text-heavy slides with no transcript relevance (likely bibliography)
+
+    # -------------------------------------
+    
     # Image Logic
     if num_images > 0:
         score += w["image_bonus"]
@@ -295,20 +319,29 @@ def analyze_transcript(transcript_path):
     # 3. Clinical Correlates
     clinical_patterns = [
         r"clinical correlate", r"syndrome", r"disease", r"disorder", r"patient",
-        r"symptoms", r"diagnosis", r"treatment", r"pathology"
+        r"symptoms", r"diagnosis", r"treatment", r"pathology", r"drug", r"therapy",
+        r"first line", r"mechanism of action", r"side effect", r"contraindication"
     ]
     clinical_hits = []
     for pattern in clinical_patterns:
          matches = re.finditer(pattern, lower_content)
          for match in matches:
-             start = max(0, match.start() - 50)
-             end = min(len(lower_content), match.end() + 100)
+             start = max(0, match.start() - 60)
+             end = min(len(lower_content), match.end() + 120)
              clinical_hits.append(lower_content[start:end])
 
     # Extract keywords from hits to use for slide boosting
-    boost_keywords = set(repeated_concepts)
+    # Boost all nouns (simple length filter > 4 chars) from the transcript to create a vocabulary
+    all_words = re.findall(r'\b[a-zA-Z]{5,}\b', lower_content)
+    transcript_vocab = Counter(all_words)
+    # Take top 100 most frequent words from transcript as "common context"
+    # This helps identify slides that are actually talking about the lecture topic
+    common_context_words = [w for w, c in transcript_vocab.most_common(100) if w not in stop_words]
     
-    # Extract nouns/key terms from emphasis and clinical hits (simple heuristic)
+    boost_keywords = set(repeated_concepts)
+    boost_keywords.update(common_context_words)
+
+    # Add specific medical terms found in clinical hits
     for hit in emphasis_hits + clinical_hits:
         hit_words = re.findall(r'\b[a-zA-Z]{5,}\b', hit)
         for w in hit_words:
@@ -433,11 +466,100 @@ def generate_high_yield(pdf_path, output_path, transcript_path=None, dry_run=Fal
     if not dry_run and selected_pages:
         for p in selected_pages:
             writer.add_page(p["page"])
-        with open(output_path, "wb") as f:
+        with open(output_pdf, "wb") as f:
             writer.write(f)
-        print(f"Saved to {output_path}")
+        print(f"Saved to {output_pdf}")
+
+        # Output Markdown Analysis if requested (implied by L*_Analysis.md naming convention in other context, 
+        # but here we will just create a .md file alongside the output pdf or instead of it if we want)
+        # The user wants L{n}_Analysis.md. The output_pdf arg is typically "high_yield_L{n}.pdf".
+        # Let's derive the md path from the output_pdf path or just use a separate arg.
+        # For now, I'll generate it alongside the output_pdf.
+        
+        md_output_path = output_pdf.replace(".pdf", "_Analysis.md").replace("high_yield_", "")
+        # If output_pdf was just a filename, output md in content/ or current dir. 
+        # Actually the user script likely calls this with specific paths. 
+        # I'll just append "_Analysis.md" or replace ext if it ends in pdf.
+        
+        if output_pdf.lower().endswith(".pdf"):
+            md_output_path = output_pdf[:-4] + "_Analysis.md"
+
+        # Write Markdown Analysis
+        write_markdown_analysis(md_output_path, input_pdf, transcript_path, transcript_hits, selected_pages)
+
     elif not selected_pages:
         print("No pages selected.")
+
+def write_markdown_analysis(output_path, pdf_source, transcript_source, transcript_points, selected_pages):
+    with open(output_path, "w", encoding="utf-8") as f:
+        # Header
+        pdf_name = os.path.basename(pdf_source)
+        transcript_name = os.path.basename(transcript_source) if transcript_source else "N/A"
+        
+        f.write(f"# High Yield Content Analysis\n\n")
+        f.write(f"**Source PDF:** {pdf_name}\n")
+        f.write(f"**Source Transcript:** {transcript_name}\n\n")
+        
+        # 1. High Yield Transcript Points
+        f.write("## 1. High Yield Transcript Points\n")
+        f.write("> Segments emphasizing 'need to know', 'important', or clinical correlates.\n\n")
+        
+        if transcript_points:
+            # Deduplicate and limit
+            seen = set()
+            unique_points = []
+            for p in transcript_points:
+                clean_p = p.strip()
+                if clean_p not in seen:
+                    seen.add(clean_p)
+                    unique_points.append(clean_p)
+            
+            # Write top 20 points
+            for point in unique_points[:20]:
+                f.write(f"- ...{point}...\n")
+        else:
+             f.write("- No transcript points analyzed.\n")
+        
+        f.write("\n")
+        
+        # 2. Potential Clinical Correlates
+        f.write("## 2. Potential Clinical Correlates (Transcript)\n")
+        f.write("> Terms found: Syndrome, Disease, Disorder, Patient, Symptoms\n\n")
+        
+        # Filter transcript points for clinical terms
+        clinical_keywords = ["syndrome", "disease", "disorder", "patient", "symptom", "diagnosis", "treatment", "drug", "therapy"]
+        clinical_points = []
+        if transcript_points:
+            for p in transcript_points:
+                if any(k in p.lower() for k in clinical_keywords):
+                     clinical_points.append(p)
+        
+        # Deduplicate
+        seen_clin = set()
+        for p in clinical_points[:15]: # Limit to 15
+             if p not in seen_clin:
+                 seen_clin.add(p)
+                 f.write(f"- ...{p.strip()}...\n")
+                 
+        f.write("\n")
+
+        # 3. High Yield Slides
+        f.write("## 3. High Yield Slides\n")
+        f.write("> Slides with high scores based on keywords, bold text, and visual elements.\n\n")
+        
+        for p in selected_pages:
+            page_num = p["page_num"]
+            score = p["score"]
+            
+            # Extract text from page
+            text = p["page"].extract_text()
+            
+            f.write(f"### Slide {page_num} (Score: {score:.2f})\n")
+            f.write("```text\n")
+            f.write(text.strip())
+            f.write("\n```\n\n")
+            
+    print(f"Generated Analysis Markdown: {output_path}")
 
 if __name__ == "__main__":
     if len(sys.argv) < 3:
@@ -445,7 +567,16 @@ if __name__ == "__main__":
         sys.exit(1)
     input_pdf = sys.argv[1]
     output_pdf = sys.argv[2]
-    transcript_path = sys.argv[3] if len(sys.argv) > 3 else None
+    
+    # Handle optional transcript path
+    transcript_path = None
+    if len(sys.argv) > 3:
+        # Check if 3rd arg is a dry_run flag or a path
+        if sys.argv[3] == "dry_run":
+             output_pdf = "dry_run" # Hack to support the dry_run check in main
+        else:
+             transcript_path = sys.argv[3]
+
     dry_run = output_pdf == "dry_run"
     generate_high_yield(input_pdf, output_pdf, transcript_path, dry_run)
 

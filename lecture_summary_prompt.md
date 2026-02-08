@@ -5,13 +5,16 @@
 Generate a comprehensive, high-yield summary of the provided lecture content.
 **CRITICAL PRIORITY:** You must capture **EVERY** clinical correlate, syndrome, disease, and disorder mentioned in the lecture.
 
-- **Scope:** You must scan **BOTH** the **Lecture Slides (PDF)** and the **Transcript** for these entities.
-- **Rule:** If a disease/syndrome/condition is present in the Slides **OR** the Transcript, it **MUST** be included as a `:::correlate` block. Do not rely on the transcript alone.
+- **Scope:** Your primary source of truth is the **Transcript**.
+- **Rule:**
+    - **Transcript + Slides:** **INCLUDE**. This is core content.
+    - **Transcript Only:** **INCLUDE**. Tag as `[Lecturer Emphasis]`.
+    - **Slides Only:** **EXCLUDE**. If the lecturer skipped it, it is low-yield. **DO NOT** include content that appears *only* in the slides but is never mentioned.
 
 ## Inputs
 
-1.  **Lecture Slides (PDF):** The primary source of visual and structured information. Scan every slide for disease names, clinical presentations, and patient vignettes.
-2.  **Transcript Analysis (`L[#]_Summary_Analysis.md`):** A generated report containing:
+1.  **Transcript (Primary):** The verbal record of what is actually testable/important.
+2.  **Lecture Slides (Secondary):** Use for structure, diagrams, and verifying spellings/terms found in the transcript.
     - **High Yield Transcript Points:** Concepts emphasized by the lecturer.
     - **Clinical Correlates:** Conditions mentioned in the transcript.
     - **High Yield Slides:** Slides identified as critical.
@@ -31,11 +34,16 @@ Generate a comprehensive, high-yield summary of the provided lecture content.
 
 ### 2. Comprehensive Summary
 
-- **Instructions - PRIORITY #1: Connective Narrative**
-  - **Contextual Intro (MANDATORY):** Start **EVERY** major section with a dedicated narrative paragraph (3-5 sentences).
-    - **Purpose:** Explain the "Why" and "How". Before listing diseases, explain the normal physiology or the mechanism of the system.
+- **Instructions - PRIORITY #1: Connective Narrative & Structure**
+  - **Contextual Intro (MANDATORY):** Start **EVERY** major section with a "Story Mode" narrative paragraph (3-5 sentences).
+    - **Purpose:** Explain the *mechanism* and *why* it matters before listing details.
     - **Connect the Dots:** Explicitly state how concepts link together. (e.g., "Because the optic nerve fibers cross at the chiasm, a pituitary tumor compressing the center causes bitemporal hemianopsia.")
     - **Tone:** Read like a high-quality textbook or lecture note set (e.g., Pathoma/Boards & Beyond style).
+  - **Structured Breakdown (Levels 1-3):**
+    - After the intro, you **MUST** use a strict nested bullet point structure for the core content.
+    - **Level 1:** Main Concept (Bold)
+    - **Level 2:** Details/Key Facts
+    - **Level 3:** Nuance/Exceptions/Specifics
   - **Slide Citations:**
     - **Rule:** Every major section or key concept **MUST** cite the source slide number using the format `(Slide X)`.
     - **Example:** `## The Nervous System (Slide 5)` or `...affects the optic nerve (Slide 12).`
@@ -43,23 +51,37 @@ Generate a comprehensive, high-yield summary of the provided lecture content.
     - **Rule:** If a previous lecture is mentioned (e.g., "Recall from L102"), format it as a link: `[[L102]]`.
   - **CLINICAL MANDATE (CRITICAL):**
     - **Aggressive Scan:** If a disease, syndrome, or disorder is mentioned (e.g., "Otitis Media", "Stroke", "Diabetes"), you **MUST** create a `:::correlate` block for it.
-    - **Contextual Integration:** Introduce the condition naturally in the narrative paragraph first (e.g., "Damage to this nerve results in Condition X...").
-    - **Extraction:** Then, use the `:::correlate` block to detail the specific clinical facts (Pathophysiology, Presentation, Treatment). Do not _only_ have the block; text + block is best.
+    - **Comprehensiveness:** You must capture **ALL** relevant details from the transcript, including Risk Factors, Complications, and "Lecturer's Nuance".
+    - **Syntax Safety:** Do **NOT** use bold asterisks (`**`) or Markdown headers (`###`, `####`) in the Title line of the correlate block. Keep the title clean (plain text or bold only if absolutely necessary, but preferably plain).
     - **Clinical Correlate Syntax:**
 
     ```markdown
     :::correlate
-    **[Name of Condition]**
+    [Name of Condition]
 
     - **Pathophysiology:** [Mechanism]
     - **Presentation:** [Sxs, Signs]
-    - **Diagnosis/Treatment:** [Key points]
-    - **Lecturer's Point:** [Specific note from transcript if any]
+    - **Diagnosis:** [Key tests/findings]
+    - **Treatment:** [Drugs, Procedures]
+    - **Risk Factors:** [If mentioned]
+    - **Complications:** [If mentioned]
+    - **Lecturer's Point:** [Specific note/emphasis/nuance from transcript]
       :::
     ```
 
-    - **High Yield Mandate:**
+  - **Content Selection Matrix (Strict Transcript Priority):**
+    - **Rule:** The Transcript is King.
+    - **If in Transcript AND Slides:** **Must Include**.
+    - **If in Transcript ONLY:** **Must Include** (and tag as `[Lecturer Emphasis]` or `[Verbal Hint]`).
+    - **If in Slides ONLY:** **DELETE/IGNORE**. Do not include content (even diseases) if the lecturer did not mention them at all. This prevents "slide dumping" of low-yield tables.
+
+  - **Data Condensation (Tables):**
+    - **Rule:** If the lecture covers 3+ similar items (e.g., Drugs, Diseases, Bacteria), you **MUST** summarize them in a Markdown Table rather than listing them sequentially.
+    - **Format:** | Item | Mechanism | Key Feature | Treatment/Notes |
+
+  - **High Yield Mandate:**
     - Identify at least 2 "Must Know" concepts and format as `:::highyield` blocks.
+    - **High Yield Slide Filter:** Do **NOT** select slides that are primarily References, Bibliographies, or lists of Hyperlinks/URLs.
 
   - **Mnemonics:**
     - Integrate mnemonics directly into the text using the `:::mnemonic` block.
@@ -141,6 +163,7 @@ Generate a comprehensive, high-yield summary of the provided lecture content.
 
 - **Goal:** Map this lecture to a high-yield external resource (Boards & Beyond, Pathoma, Sketchy, First Aid).
   - **CRITICAL REQUIREMENT:** You **MUST** include **Boards and Beyond (`BandB`)** as either the `primarySource` or as one of the `alternatives`. If it is the best match, make it primary. If not, include it in alternatives.
+  - **Thoroughness:** Provide at least **3** alternative resources if possible.
   - **JSON Format (Output this specific JSON block):**
 
   ```json

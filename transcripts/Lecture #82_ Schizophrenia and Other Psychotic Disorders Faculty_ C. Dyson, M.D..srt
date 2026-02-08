@@ -1,0 +1,5574 @@
+1
+00:00:00,830 --> 00:00:02,710
+All right. Hello,
+everybody. My name is
+
+2
+00:00:02,710 --> 00:00:05,790
+Shivani Fardala. I am
+one of the academic
+
+3
+00:00:05,790 --> 00:00:09,730
+medicine scholars
+here at NYIT, and
+
+4
+00:00:09,730 --> 00:00:11,550
+I'm going to be giving
+you guys a series
+
+5
+00:00:11,550 --> 00:00:13,470
+of two lectures.
+This is the first one
+
+6
+00:00:13,470 --> 00:00:15,630
+all about bipolar and
+depressive disorders.
+
+7
+00:00:15,630 --> 00:00:17,670
+I worked on this
+lecture extensively
+
+8
+00:00:17,670 --> 00:00:21,990
+with Dr. Corey Dyson
+out in Arkansas.
+
+9
+00:00:22,130 --> 00:00:24,730
+So thank you so much
+for your guidance
+
+10
+00:00:24,870 --> 00:00:27,050
+on this project. And
+without any further
+
+11
+00:00:27,050 --> 00:00:28,650
+ado, we're going to
+jump right into it.
+
+12
+00:00:33,460 --> 00:00:35,440
+So here are your
+session objectives for
+
+13
+00:00:35,440 --> 00:00:38,240
+today. Basically, what
+we're going to be doing
+
+14
+00:00:38,240 --> 00:00:41,120
+is going through all
+of the main disorders
+
+15
+00:00:41,120 --> 00:00:43,540
+that are going to
+pop up on your USMLE
+
+16
+00:00:43,540 --> 00:00:46,260
+and your complex
+exams, comparing and
+
+17
+00:00:46,260 --> 00:00:48,900
+contrasting them
+using the official
+DSM-5 diagnostic
+
+18
+00:00:48,900 --> 00:00:50,580
+criteria. We're
+going to go through
+
+19
+00:00:50,580 --> 00:00:52,820
+the etiology and
+epidemiology of these
+
+20
+00:00:52,820 --> 00:00:55,300
+depressive and bipolar
+disorders, list some of
+
+21
+00:00:55,300 --> 00:00:57,200
+the common differential
+diagnoses that you
+
+22
+00:00:57,200 --> 00:00:58,960
+might come up with
+when encountering these
+
+23
+00:00:58,960 --> 00:01:01,480
+diseases in the hospital,
+and then describe
+
+24
+00:01:01,480 --> 00:01:03,480
+the evidence-based
+assessments and treatment
+
+25
+00:01:03,480 --> 00:01:05,100
+approaches for each
+disorder as well.
+
+26
+00:01:07,520 --> 00:01:09,960
+So quick note before
+we get started,
+
+27
+00:01:09,960 --> 00:01:13,620
+you do not need to
+memorize every single
+
+28
+00:01:13,620 --> 00:01:15,100
+thing that is in
+this PowerPoint.
+
+29
+00:01:15,220 --> 00:01:18,300
+So what I want you to
+do is focus really on
+
+30
+00:01:18,300 --> 00:01:20,020
+a lot of the topics
+that have this little
+
+31
+00:01:20,020 --> 00:01:22,300
+blue star right there
+that will clue you
+
+32
+00:01:22,300 --> 00:01:25,260
+into exactly what you
+need to know. So the
+
+33
+00:01:25,260 --> 00:01:27,620
+goal is not to memorize
+all of these little
+
+34
+00:01:27,620 --> 00:01:29,300
+details. It's to
+understand the overall
+
+35
+00:01:29,300 --> 00:01:31,980
+clinical picture so
+that you can effectively
+
+36
+00:01:31,980 --> 00:01:34,440
+synthesize a diagnosis
+in your head and feel
+
+37
+00:01:34,440 --> 00:01:35,880
+more prepared when
+answering questions on
+
+38
+00:01:35,880 --> 00:01:40,340
+the material so before
+we jump into some of
+
+39
+00:01:40,340 --> 00:01:43,020
+the pathophysiology and
+the actual diagnosis
+
+40
+00:01:43,020 --> 00:01:45,040
+let's take a look at
+two clinical cases
+
+41
+00:01:45,040 --> 00:01:49,220
+um of two patients that
+are presenting with
+
+42
+00:01:49,220 --> 00:01:51,440
+depression but
+showing very different
+
+43
+00:01:51,440 --> 00:01:53,820
+symptoms so for our
+first case here we have
+
+44
+00:01:53,820 --> 00:01:56,160
+nami 35 year old female
+presenting to the
+
+45
+00:01:56,160 --> 00:01:58,480
+clinic with complaints
+of feeling down she
+
+46
+00:01:58,480 --> 00:02:00,700
+reports a two to three
+month history of low
+
+47
+00:02:00,700 --> 00:02:04,180
+mood poor concentration
+at work tearful episodes
+
+48
+00:02:04,180 --> 00:02:07,020
+low energy feelings
+of guilt and shame
+
+49
+00:02:07,020 --> 00:02:09,400
+and a listlessness which
+is uncharacteristic
+
+50
+00:02:09,400 --> 00:02:11,940
+of her she denies
+any suicidal thoughts
+
+51
+00:02:11,940 --> 00:02:14,100
+but reports unintentional
+weight loss of 10
+
+52
+00:02:14,100 --> 00:02:17,080
+pounds right now let's
+compare and contrast
+
+53
+00:02:17,080 --> 00:02:20,300
+these symptoms to our
+next clinical case
+
+54
+00:02:24,330 --> 00:02:26,100
+all right and in this
+case here we have
+
+55
+00:02:26,100 --> 00:02:28,980
+luffy 52 year old male
+presenting with complaints
+
+56
+00:02:28,980 --> 00:02:31,440
+of just feeling
+off they note a six
+
+57
+00:02:31,440 --> 00:02:34,340
+-month history of anhedonia
+scattered thoughts
+
+58
+00:02:34,340 --> 00:02:37,580
+a short temper and random
+emotional outbursts
+
+59
+00:02:37,580 --> 00:02:39,500
+which have been
+greatly affecting their
+
+60
+00:02:39,500 --> 00:02:41,900
+daily life they've
+begun overeating due to
+
+61
+00:02:41,900 --> 00:02:44,200
+stress and they note
+a 15 pound weight
+
+62
+00:02:44,200 --> 00:02:47,160
+gain they avoid eye
+contact when talking and
+
+63
+00:02:47,160 --> 00:02:50,080
+their affect appears
+flat they deny thoughts
+
+64
+00:02:50,080 --> 00:02:51,900
+of hurting themselves
+or others but state
+
+65
+00:02:51,900 --> 00:02:53,260
+that they have attempted
+to take their own
+
+66
+00:02:53,260 --> 00:02:55,200
+life once in the past
+when they were 20
+
+67
+00:02:55,200 --> 00:02:57,280
+years old. So even just
+at a glance, you can
+
+68
+00:02:57,280 --> 00:02:58,920
+see that both of these
+patients, and I'll
+
+69
+00:02:58,920 --> 00:03:00,400
+tell you guys right
+now, they are both
+
+70
+00:03:00,400 --> 00:03:04,740
+suffering from some
+type of depression, but
+
+71
+00:03:04,740 --> 00:03:07,720
+their clinical presentation
+varies dramatically.
+
+72
+00:03:07,720 --> 00:03:10,580
+So it's really
+important to have a good
+
+73
+00:03:10,580 --> 00:03:12,940
+mental heuristic of
+the different ways that
+
+74
+00:03:12,940 --> 00:03:15,140
+depression can present
+in your patients.
+
+75
+00:03:16,220 --> 00:03:19,760
+So keeping that in
+mind, what medical
+
+76
+00:03:19,760 --> 00:03:23,100
+problems can mimic some
+depressive disorders?
+
+77
+00:03:24,380 --> 00:03:25,640
+So I'll give you
+guys a second
+
+78
+00:03:25,640 --> 00:03:27,700
+to kind of answer
+this question.
+
+79
+00:03:32,610 --> 00:03:36,050
+And here we go. All
+of the above is the
+
+80
+00:03:36,050 --> 00:03:38,970
+correct answer here. So
+things from hypothyroidism
+
+81
+00:03:38,970 --> 00:03:42,330
+to substance *****,
+low vitamin D, anemia,
+
+82
+00:03:42,330 --> 00:03:44,990
+low vitamin B12, all
+of these things can
+
+83
+00:03:44,990 --> 00:03:48,350
+mimic depressive disorders.
+So before we make
+
+84
+00:03:48,350 --> 00:03:50,740
+a judgment or try to
+put together a diagnosis
+
+85
+00:03:50,740 --> 00:03:52,750
+on what was going on
+with our first two
+
+86
+00:03:52,750 --> 00:03:55,070
+patients here, those
+clinical cases we need
+
+87
+00:03:55,070 --> 00:03:58,670
+to rule out any additional
+medical problems
+
+88
+00:03:58,670 --> 00:04:02,110
+before we make a
+psychiatric diagnosis okay
+
+89
+00:04:07,150 --> 00:04:10,010
+so quick clinical
+pearl you're going to
+
+90
+00:04:10,010 --> 00:04:11,890
+want to keep this in
+mind for all mental
+
+91
+00:04:11,890 --> 00:04:13,270
+health disorders
+especially when
+
+92
+00:04:13,270 --> 00:04:15,730
+answering questions
+on your exams you must
+
+93
+00:04:15,730 --> 00:04:18,230
+rule out other medical
+conditions first
+
+94
+00:04:18,350 --> 00:04:20,130
+we don't know whether
+or not these symptoms
+
+95
+00:04:20,130 --> 00:04:22,490
+are from a true
+depression or if they're
+
+96
+00:04:22,490 --> 00:04:24,070
+depressive symptoms
+due to some other
+
+97
+00:04:24,070 --> 00:04:26,330
+medical condition
+that the patient may
+
+98
+00:04:26,330 --> 00:04:28,810
+have. So in other
+words, if your symptoms
+
+99
+00:04:28,810 --> 00:04:30,110
+are not better
+accounted by another
+
+100
+00:04:30,110 --> 00:04:32,510
+underlying medical
+condition, then we can
+
+101
+00:04:32,510 --> 00:04:35,090
+move on to making a
+psychiatric diagnosis.
+
+102
+00:04:36,170 --> 00:04:38,810
+So again, this is
+just a quick little
+
+103
+00:04:38,810 --> 00:04:40,590
+differential that you
+could put together for some
+
+104
+00:04:40,590 --> 00:04:42,830
+depressive symptoms
+that you might see in
+
+105
+00:04:42,830 --> 00:04:45,290
+questions or in your
+patients in real life
+
+106
+00:04:45,290 --> 00:04:47,450
+in the hospital. And
+really, it's less
+
+107
+00:04:47,450 --> 00:04:49,450
+about memorizing this
+list and more about just
+
+108
+00:04:49,450 --> 00:04:50,930
+being familiar
+with a lot of these
+
+109
+00:04:50,930 --> 00:04:53,390
+pathologies. I know like
+our school, we don't get
+
+110
+00:04:53,390 --> 00:04:55,950
+endocrine until the
+spring before boards.
+
+111
+00:04:55,950 --> 00:04:57,510
+So just keep in mind that
+
+112
+00:04:57,510 --> 00:04:59,830
+hypothyroidism,
+vitamin deficiencies,
+
+113
+00:05:00,970 --> 00:05:03,010
+substance use, all of
+these types of things
+
+114
+00:05:03,010 --> 00:05:05,870
+can contribute to
+depressive symptoms and
+
+115
+00:05:05,870 --> 00:05:08,330
+mimic them in certain
+circumstances as well.
+
+116
+00:05:09,870 --> 00:05:12,870
+So again, this is a
+quick list of different
+
+117
+00:05:12,870 --> 00:05:14,750
+diagnostic tests that
+you can run to work
+
+118
+00:05:14,750 --> 00:05:17,900
+up some of those items
+on your differential
+
+119
+00:05:17,900 --> 00:05:20,450
+and rule them out before
+we go ahead and make
+
+120
+00:05:20,450 --> 00:05:25,430
+a full psychiatric
+diagnosis all right so
+
+121
+00:05:25,430 --> 00:05:27,730
+the main takeaway from
+this slide is just to
+
+122
+00:05:27,730 --> 00:05:29,770
+understand some of the
+pathophysiology behind
+
+123
+00:05:29,770 --> 00:05:31,730
+a major depressive
+disorder and that is
+
+124
+00:05:31,730 --> 00:05:34,070
+the fact that there is
+this interplay between
+
+125
+00:05:34,070 --> 00:05:37,870
+these three
+neurotransmitters here and so
+
+126
+00:05:37,870 --> 00:05:40,670
+the important thing
+to note is mainly for
+
+127
+00:05:40,670 --> 00:05:43,550
+your pharmacology
+lectures moving forward to
+
+128
+00:05:43,550 --> 00:05:46,010
+understand that there is
+this interplay between
+
+129
+00:05:46,010 --> 00:05:48,730
+serotonin, dopamine,
+and norepinephrine.
+
+130
+00:05:48,730 --> 00:05:51,630
+And the medications
+that we use to manage
+
+131
+00:05:51,710 --> 00:05:53,950
+depression, anxiety,
+and other mental health
+
+132
+00:05:53,950 --> 00:05:56,590
+disorders will affect
+different neurotransmitters.
+
+133
+00:05:56,590 --> 00:05:58,410
+So for example,
+your selective
+
+134
+00:05:58,410 --> 00:06:01,650
+serotonin reuptape inhibitors
+are going to affect
+
+135
+00:06:01,990 --> 00:06:03,870
+serotonin, right? Who
+would have thought?
+
+136
+00:06:04,170 --> 00:06:06,550
+Another important thing
+to know about this
+
+137
+00:06:06,550 --> 00:06:09,730
+is that when you take
+brain imaging for
+
+138
+00:06:09,730 --> 00:06:11,930
+individuals with chronic
+untreated depression,
+
+139
+00:06:11,930 --> 00:06:14,850
+it'll actually show
+decreases in the
+
+140
+00:06:14,850 --> 00:06:18,170
+volume of the frontal
+lobe and the hippocampus.
+
+141
+00:06:18,170 --> 00:06:20,270
+So there is a true
+measurable effect that
+
+142
+00:06:20,270 --> 00:06:22,610
+we can actually detect
+on brain imaging
+
+143
+00:06:22,610 --> 00:06:24,830
+for individuals with
+untreated depression.
+
+144
+00:06:27,570 --> 00:06:29,610
+All right, so this is
+our first big disease
+
+145
+00:06:29,610 --> 00:06:32,190
+that we're going to be
+talking about in this
+
+146
+00:06:32,190 --> 00:06:34,250
+lecture, and this is
+major depressive disorder.
+
+147
+00:06:34,250 --> 00:06:37,090
+So according to the
+DSM-5 criteria, you
+
+148
+00:06:37,090 --> 00:06:39,470
+need to have symptoms
+present for most days
+
+149
+00:06:39,470 --> 00:06:42,710
+over the past two
+weeks. So the symptoms
+
+150
+00:06:42,710 --> 00:06:45,130
+need to be persisting
+for a minimum period of
+
+151
+00:06:45,130 --> 00:06:48,130
+two weeks. They must
+also impair functioning.
+
+152
+00:06:48,130 --> 00:06:50,610
+So if they say I'm
+feeling a bit more sad
+
+153
+00:06:50,610 --> 00:06:52,890
+than usual, I'm sleeping
+more, I gained weight,
+
+154
+00:06:52,890 --> 00:06:54,620
+but it does not impair
+their functioning,
+
+155
+00:06:54,620 --> 00:06:56,630
+then by definition it
+can't be a disorder.
+
+156
+00:06:56,950 --> 00:06:59,090
+And then additionally
+we also need to
+
+157
+00:06:59,090 --> 00:07:02,290
+account for the fact
+that no other illness or
+
+158
+00:07:02,290 --> 00:07:05,010
+substance use could be
+causing the symptoms
+
+159
+00:07:05,010 --> 00:07:06,710
+that they're having.
+So you want to rule
+
+160
+00:07:06,710 --> 00:07:08,730
+out those medical
+diagnoses and substances
+
+161
+00:07:08,730 --> 00:07:10,590
+first, like we talked
+about previously.
+
+162
+00:07:12,350 --> 00:07:14,570
+All right, and here's
+some epidemiologic
+
+163
+00:07:14,570 --> 00:07:16,830
+factors that we
+can talk about.
+
+164
+00:07:17,030 --> 00:07:20,050
+In terms of U.S.
+lifetime prevalence of
+
+165
+00:07:20,050 --> 00:07:22,850
+major depressive
+disorder, it's about 17%,
+
+166
+00:07:22,970 --> 00:07:25,610
+which is pretty huge
+when you think about
+
+167
+00:07:25,610 --> 00:07:28,050
+it. Imagine walking on
+the street in New York
+
+168
+00:07:28,050 --> 00:07:30,270
+and you say, you know,
+one in five of these
+
+169
+00:07:30,270 --> 00:07:32,590
+people is suffering
+with a pretty severe
+
+170
+00:07:32,590 --> 00:07:36,050
+mental health disorder.
+So this is why we
+
+171
+00:07:36,050 --> 00:07:37,910
+always talk about always
+having empathy for
+
+172
+00:07:37,910 --> 00:07:40,490
+everybody that we interact
+with, right? Because
+
+173
+00:07:40,490 --> 00:07:42,370
+you never know what
+anybody else is going
+
+174
+00:07:42,370 --> 00:07:44,430
+through at any point
+in their life. And
+
+175
+00:07:44,430 --> 00:07:46,250
+they may have a brave
+face on, but it's really
+
+176
+00:07:46,250 --> 00:07:48,790
+important to kind of
+take a step back, put
+
+177
+00:07:48,790 --> 00:07:50,490
+yourself in other
+people's shoes, and
+
+178
+00:07:50,490 --> 00:07:52,950
+understand that what other
+people are going through
+
+179
+00:07:52,950 --> 00:07:54,870
+might not immediately
+be evident to us.
+
+180
+00:07:55,610 --> 00:07:58,170
+There are differences
+in the age of onset.
+
+181
+00:07:58,170 --> 00:08:00,970
+So for unipolar
+depressive disorders it's
+
+182
+00:08:00,970 --> 00:08:03,490
+anywhere from 20 to
+40 years old but for
+
+183
+00:08:03,490 --> 00:08:06,110
+psychotic depression
+it's about 50 to 70 years
+
+184
+00:08:06,110 --> 00:08:08,890
+old and again this is
+just some epidemiology
+
+185
+00:08:08,890 --> 00:08:10,790
+for your own education
+to kind of show
+
+186
+00:08:10,790 --> 00:08:13,530
+the prevalence of these
+diseases in society
+
+187
+00:08:18,190 --> 00:08:21,450
+so also in line with
+the dsm-5 criteria we
+
+188
+00:08:21,450 --> 00:08:25,040
+need five or more of
+the following symptoms
+
+189
+00:08:25,040 --> 00:08:28,050
+now this is a lot
+to just memorize all
+
+190
+00:08:28,050 --> 00:08:30,150
+on its own so on the
+next slide i'm going
+
+191
+00:08:30,150 --> 00:08:31,890
+to show you a little
+mnemonic that i like
+
+192
+00:08:31,890 --> 00:08:34,090
+that's also in first
+aid that will help
+
+193
+00:08:34,090 --> 00:08:36,690
+you guys compartmentalize
+and understand
+
+194
+00:08:37,130 --> 00:08:39,370
+all of the
+potential symptoms
+
+195
+00:08:39,370 --> 00:08:40,930
+that someone with
+major depressive
+
+196
+00:08:40,930 --> 00:08:42,350
+disorder might
+present with
+
+197
+00:08:44,910 --> 00:08:49,050
+so that mnemonic is
+sig e caps and each
+
+198
+00:08:49,050 --> 00:08:51,950
+first letter of these
+symptoms here is going
+
+199
+00:08:51,950 --> 00:08:53,930
+to be in mnemonic and
+remember we need at
+
+200
+00:08:53,930 --> 00:08:56,350
+least five of these
+according to the dsm-5
+
+201
+00:08:56,350 --> 00:08:58,950
+criteria so let's talk
+about them sleep just
+
+202
+00:08:58,950 --> 00:09:00,240
+stands for different
+changes in sleep
+
+203
+00:09:00,240 --> 00:09:02,470
+patterns it could be
+insomnia or it could be
+
+204
+00:09:02,470 --> 00:09:06,890
+excessive sleeping
+interest aka anhedonia is
+
+205
+00:09:06,890 --> 00:09:08,670
+going to be the loss
+of interest or pleasure
+
+206
+00:09:08,670 --> 00:09:10,610
+in activities that
+they previously enjoyed
+
+207
+00:09:10,610 --> 00:09:13,390
+meanwhile guilt
+encompasses feelings of
+
+208
+00:09:13,390 --> 00:09:15,990
+guilt or worthlessness
+in terms of energy
+
+209
+00:09:15,990 --> 00:09:18,710
+there's decreased
+energy levels or fatigue
+
+210
+00:09:18,930 --> 00:09:21,150
+for concentration
+perhaps difficulty
+
+211
+00:09:21,150 --> 00:09:24,710
+concentrating or making
+decisions decision fatigue
+
+212
+00:09:24,710 --> 00:09:26,670
+can be a really big
+part of this as well
+
+213
+00:09:26,670 --> 00:09:29,630
+here we have appetite
+so changes in appetite
+
+214
+00:09:29,630 --> 00:09:32,590
+either increased or
+decreased psychomotor
+
+215
+00:09:32,590 --> 00:09:36,310
+stands for different
+types of agitation or
+
+216
+00:09:36,310 --> 00:09:38,270
+feeling like you're
+slowing down to a crawl
+
+217
+00:09:38,270 --> 00:09:40,670
+and you're unable to
+really focus or dial
+
+218
+00:09:40,670 --> 00:09:43,010
+in on anything during
+the day and last but
+
+219
+00:09:43,010 --> 00:09:46,970
+least is suicide so
+thoughts or attempts at
+
+220
+00:09:46,970 --> 00:09:49,770
+suicide also constitutes
+one of these symptoms
+
+221
+00:09:49,770 --> 00:09:52,450
+so keep in mind really
+good mnemonic to
+
+222
+00:09:52,450 --> 00:09:55,430
+try and summarize all
+these symptoms and
+
+223
+00:09:55,430 --> 00:09:57,790
+remember we need at
+least five of these okay
+
+224
+00:09:59,130 --> 00:10:03,070
+so how do we screen
+for a depression in a
+
+225
+00:10:03,070 --> 00:10:06,030
+clinical setting well
+here we have the phq2
+
+226
+00:10:06,030 --> 00:10:08,510
+so the patient health
+questionnaire 2. this
+
+227
+00:10:08,510 --> 00:10:10,290
+is a very very simple
+thing that you can do
+
+228
+00:10:10,290 --> 00:10:11,790
+on all of your patients
+whether you're in
+
+229
+00:10:11,790 --> 00:10:13,850
+primary care or someone's
+just coming into an
+
+230
+00:10:13,850 --> 00:10:16,750
+urgent care clinic
+it's a very quick and
+
+231
+00:10:16,750 --> 00:10:19,070
+easy thing that you
+can just ask during the
+
+232
+00:10:19,070 --> 00:10:20,970
+patient intake or during
+that initial interview
+
+233
+00:10:20,970 --> 00:10:24,470
+and it only has two
+questions so really
+
+234
+00:10:24,470 --> 00:10:26,570
+you ask the patient
+over the last two weeks
+
+235
+00:10:26,570 --> 00:10:28,890
+have you been
+bothered by any of the
+
+236
+00:10:28,890 --> 00:10:30,770
+following problems and
+then you'd say little
+
+237
+00:10:30,770 --> 00:10:32,950
+interest or pleasure
+in doing things so that
+
+238
+00:10:32,950 --> 00:10:35,490
+would be screening for
+anhedonia or feeling
+
+239
+00:10:35,490 --> 00:10:37,890
+down, depressed, or
+hopeless. And you can
+
+240
+00:10:37,890 --> 00:10:40,710
+see the scale goes up
+by increments of one,
+
+241
+00:10:40,710 --> 00:10:42,810
+so not at all would
+be zeros, several days
+
+242
+00:10:42,810 --> 00:10:45,070
+during those two weeks
+would be ones, more
+
+243
+00:10:45,070 --> 00:10:47,050
+than half the days, et
+cetera, et cetera. The
+
+244
+00:10:47,050 --> 00:10:48,330
+important thing to note
+here is your cutoff
+
+245
+00:10:48,330 --> 00:10:50,530
+score is greater than
+or equal to three.
+
+246
+00:10:50,570 --> 00:10:52,370
+If that is the
+case, then you have
+
+247
+00:10:52,370 --> 00:10:54,190
+a positive
+screening test for
+
+248
+00:10:54,190 --> 00:10:57,230
+the potential of
+major depressive
+
+249
+00:10:57,230 --> 00:10:59,150
+disorder. It does
+not confirm it,
+
+250
+00:10:59,290 --> 00:11:00,970
+but it shows you
+that you might
+
+251
+00:11:00,970 --> 00:11:02,330
+have the potential
+for that.
+
+252
+00:11:02,970 --> 00:11:07,670
+So now let's say a
+patient screens positively
+
+253
+00:11:07,670 --> 00:11:10,350
+for major depressive
+disorder on the
+
+254
+00:11:10,350 --> 00:11:13,470
+PHQ-2. What's the next
+step? Now we do the
+
+255
+00:11:13,470 --> 00:11:17,290
+PHQ-9, which is just
+a longer survey that
+
+256
+00:11:17,290 --> 00:11:18,690
+the patient can fill
+out and gives us a
+
+257
+00:11:18,690 --> 00:11:22,910
+more detailed interpretation
+of the symptoms
+
+258
+00:11:22,910 --> 00:11:24,290
+that they could
+currently be feeling.
+
+259
+00:11:25,410 --> 00:11:27,880
+All right, so we
+talked about diagnosis.
+
+260
+00:11:27,880 --> 00:11:29,300
+We talked about a
+little bit of the
+
+261
+00:11:29,300 --> 00:11:31,730
+epidemiology. Now we're
+going to go into talking
+
+262
+00:11:31,730 --> 00:11:33,330
+about how do we treat
+major depressive
+
+263
+00:11:33,330 --> 00:11:35,180
+disorder. So there's
+a bunch of different
+
+264
+00:11:35,180 --> 00:11:36,770
+medications and a
+bunch of different
+
+265
+00:11:36,770 --> 00:11:39,210
+types of therapy. So
+because you're going to
+
+266
+00:11:39,210 --> 00:11:41,310
+get a big overview
+about all these
+
+267
+00:11:41,310 --> 00:11:43,090
+medications in your
+dedicated farm lectures,
+
+268
+00:11:43,090 --> 00:11:45,170
+you won't go too in
+depth about them now.
+
+269
+00:11:45,290 --> 00:11:47,750
+So just take what we're
+saying here, a little
+
+270
+00:11:47,750 --> 00:11:49,470
+grain of salt, you'll
+get this in more
+
+271
+00:11:49,470 --> 00:11:52,650
+detail later on. But
+basically, you have
+
+272
+00:11:52,650 --> 00:11:54,910
+three main classes of
+drugs that we like to
+
+273
+00:11:54,910 --> 00:11:57,190
+use that are first
+line. You have your
+
+274
+00:11:57,190 --> 00:12:00,110
+selective serotonin
+reuptake inhibitors, which
+
+275
+00:12:00,110 --> 00:12:03,870
+are going to only act
+on serotonin. And it
+
+276
+00:12:03,870 --> 00:12:06,130
+does this by inhibiting
+the reuptake of
+
+277
+00:12:06,130 --> 00:12:09,650
+serotonin by the nerve
+cells and allowing it
+
+278
+00:12:09,650 --> 00:12:11,830
+to stay in the synaptic
+cleft for longer.
+
+279
+00:12:11,830 --> 00:12:15,310
+If it stays there longer,
+then you have more
+
+280
+00:12:15,310 --> 00:12:17,530
+potential for them to
+continue to bind to
+
+281
+00:12:17,530 --> 00:12:20,070
+receptors on the
+adjacent cells, which can
+
+282
+00:12:20,070 --> 00:12:22,170
+modify some of those
+depressive symptoms
+
+283
+00:12:22,170 --> 00:12:24,190
+and hopefully get them
+to go away entirely.
+
+284
+00:12:24,710 --> 00:12:28,430
+With SNRIs, these
+are serotonin and
+
+285
+00:12:28,430 --> 00:12:31,390
+norepinephrine reuptake
+inhibitors. So these are
+
+286
+00:12:31,390 --> 00:12:33,420
+going to work on two
+neurotransmitters,
+
+287
+00:12:33,420 --> 00:12:36,090
+serotonin and
+norepinephrine. And last but
+
+288
+00:12:36,090 --> 00:12:38,210
+not least, you also
+have your NRIs, which
+
+289
+00:12:38,210 --> 00:12:41,110
+are your norepinephrine
+reuptake inhibitors.
+
+290
+00:12:41,110 --> 00:12:43,350
+These are things
+like bupropion. Also,
+
+291
+00:12:43,350 --> 00:12:44,610
+you may have heard
+it called Welbutrin,
+
+292
+00:12:44,950 --> 00:12:47,170
+right? An important
+thing to know about
+
+293
+00:12:47,170 --> 00:12:49,760
+the NRIs is that they
+are contraindicated
+
+294
+00:12:49,850 --> 00:12:52,050
+in individuals with
+eating and seizure
+
+295
+00:12:52,050 --> 00:12:55,670
+disorders. And this
+is because it actually
+
+296
+00:12:55,670 --> 00:12:58,430
+decreases the seizure
+threshold. So if you
+
+297
+00:12:58,430 --> 00:13:01,490
+have an individual
+with anorexia nervosa,
+
+298
+00:13:01,490 --> 00:13:04,330
+and they aren't
+eating, you know, their
+
+299
+00:13:04,330 --> 00:13:06,940
+meals, and they have
+electrolyte imbalances
+
+300
+00:13:06,940 --> 00:13:08,950
+as a result of
+poor nutrition and
+
+301
+00:13:08,950 --> 00:13:12,110
+constant purging, the
+NRIs could be very
+
+302
+00:13:12,110 --> 00:13:14,410
+detrimental to them because
+they could potentiate
+
+303
+00:13:14,410 --> 00:13:17,110
+a seizure. So
+understanding how other
+
+304
+00:13:17,110 --> 00:13:19,350
+comorbidities also
+interact with these
+
+305
+00:13:19,750 --> 00:13:21,630
+medications is
+important for your
+
+306
+00:13:21,630 --> 00:13:23,030
+future as a
+clinician as well.
+
+307
+00:13:23,290 --> 00:13:24,730
+We're also going to
+talk about some of the
+
+308
+00:13:24,730 --> 00:13:26,890
+different forms of
+therapy. The main one
+
+309
+00:13:26,890 --> 00:13:30,170
+that a lot of individuals
+use is CBT. It's
+
+310
+00:13:30,170 --> 00:13:32,850
+called Cognitive
+Behavioral Therapy, and
+
+311
+00:13:32,850 --> 00:13:35,190
+we'll get into that
+in just a little bit.
+
+312
+00:13:37,110 --> 00:13:39,310
+All right, so let's
+talk about some of the
+
+313
+00:13:39,310 --> 00:13:41,550
+different types of
+therapy now. And CBT,
+
+314
+00:13:41,970 --> 00:13:43,950
+Cognitive Behavioral
+Therapy, is one of
+
+315
+00:13:43,950 --> 00:13:45,590
+the big ones, and
+it's based on several
+
+316
+00:13:45,590 --> 00:13:48,730
+core principles. The first
+is that psychological
+
+317
+00:13:48,730 --> 00:13:51,430
+problems are based
+in part on faulty
+
+318
+00:13:51,430 --> 00:13:53,630
+or unhelpful ways
+of thinking. So this
+
+319
+00:13:53,630 --> 00:13:55,710
+could be self
+-deprecation, it could be
+
+320
+00:13:55,710 --> 00:13:58,290
+learned helplessness,
+whatever the case,
+
+321
+00:13:58,290 --> 00:14:01,830
+it postulates that
+all your psychological
+
+322
+00:14:01,830 --> 00:14:05,150
+problems really are
+going to form from
+
+323
+00:14:05,150 --> 00:14:07,290
+unhelpful or potentially
+detrimental ways
+
+324
+00:14:07,290 --> 00:14:09,570
+of thinking about
+the world around you.
+
+325
+00:14:09,990 --> 00:14:12,590
+Psychological problems
+are based also in
+
+326
+00:14:12,590 --> 00:14:15,110
+part on learned
+patterns of unhelpful
+
+327
+00:14:15,110 --> 00:14:17,350
+behavior so that's the
+second core principle
+
+328
+00:14:17,350 --> 00:14:20,050
+of cbt all right
+and from people
+
+329
+00:14:20,050 --> 00:14:22,370
+suffering from psychological
+problems the the
+
+330
+00:14:22,370 --> 00:14:24,670
+main goal of cbt
+is to try and teach
+
+331
+00:14:24,670 --> 00:14:27,290
+them better ways of
+coping with that stress
+
+332
+00:14:27,290 --> 00:14:29,650
+and those problems
+to hopefully relieve
+
+333
+00:14:29,650 --> 00:14:33,310
+the symptoms at their
+core rather than
+
+334
+00:14:33,310 --> 00:14:36,790
+need to rely on some
+sort of medication
+
+335
+00:14:37,150 --> 00:14:40,170
+forever. Now, is that
+a bad thing if you
+
+336
+00:14:40,170 --> 00:14:42,090
+need to take your
+SSRI for the rest
+
+337
+00:14:42,090 --> 00:14:44,190
+of your life? No, of
+course not. They're
+
+338
+00:14:44,190 --> 00:14:46,950
+so benign and the
+doses are so small
+
+339
+00:14:46,950 --> 00:14:49,110
+that it really isn't
+that big of a deal.
+
+340
+00:14:49,250 --> 00:14:52,870
+But in many cases, you
+might have an individual
+
+341
+00:14:52,870 --> 00:14:54,930
+that goes through
+therapy and now they
+
+342
+00:14:54,930 --> 00:14:56,650
+are feeling significantly
+better about their
+
+343
+00:14:56,650 --> 00:14:59,110
+mental health overall.
+So it's really important
+
+344
+00:14:59,110 --> 00:15:01,870
+to emphasize this with
+patients that, you
+
+345
+00:15:01,870 --> 00:15:03,450
+know, the medications
+are good and they can
+
+346
+00:15:03,450 --> 00:15:06,010
+help but if we want
+to get to the root of
+
+347
+00:15:06,010 --> 00:15:09,410
+their problems therapy
+is going to be a very
+
+348
+00:15:09,410 --> 00:15:12,210
+important and sometimes
+even necessary adjunct
+
+349
+00:15:13,280 --> 00:15:16,930
+so what happens if we
+have severe treatment
+
+350
+00:15:16,930 --> 00:15:19,130
+resistant depression
+maybe they failed
+
+351
+00:15:19,130 --> 00:15:22,130
+multiple medications
+maybe cbt or other types
+
+352
+00:15:22,130 --> 00:15:24,550
+of thought talk therapy
+are just like not
+
+353
+00:15:24,550 --> 00:15:27,150
+really working and so
+you need something that's
+
+354
+00:15:27,150 --> 00:15:30,910
+rapid we could try
+something called ect so
+
+355
+00:15:30,910 --> 00:15:33,590
+ect stands for
+electroconvulsive therapy
+
+356
+00:15:33,590 --> 00:15:36,390
+and it is an extremely
+rapid acting method for
+
+357
+00:15:36,390 --> 00:15:39,590
+treating refractory
+depression it can also
+
+358
+00:15:39,590 --> 00:15:43,030
+manage psychotic symptoms
+catatonia and acute
+
+359
+00:15:43,030 --> 00:15:45,610
+suicidality it does
+this and it sounds a
+
+360
+00:15:45,610 --> 00:15:48,170
+little bit scary but it
+does this by inducing
+
+361
+00:15:48,170 --> 00:15:50,750
+tonic-clonic seizures
+under anesthesia with
+
+362
+00:15:50,750 --> 00:15:53,650
+a neuromuscular blockade
+some of the adverse
+
+363
+00:15:53,650 --> 00:15:55,950
+effects include
+disorientation, headache,
+
+364
+00:15:56,850 --> 00:15:59,150
+anterograde or retrograde
+amnesia that are
+
+365
+00:15:59,150 --> 00:16:01,010
+usually going to
+resolve in six months.
+
+366
+00:16:01,010 --> 00:16:03,410
+And there are no absolute
+contraindications.
+
+367
+00:16:03,410 --> 00:16:05,510
+So in a severely
+depressed pregnant
+
+368
+00:16:05,510 --> 00:16:07,930
+individual or older
+adult with comorbidities
+
+369
+00:16:07,930 --> 00:16:10,230
+that might have other
+health issues, this
+
+370
+00:16:10,230 --> 00:16:11,990
+could still be done.
+And really, this is
+
+371
+00:16:11,990 --> 00:16:14,330
+saved for severe refractory
+cases of depression
+
+372
+00:16:14,330 --> 00:16:17,870
+in which the
+individual is a danger
+
+373
+00:16:17,870 --> 00:16:20,470
+to themselves or others,
+and we really need
+
+374
+00:16:20,470 --> 00:16:23,590
+a rapid acting method.
+Not every hospital
+
+375
+00:16:23,590 --> 00:16:27,910
+or psychiatrist is
+going to have ECT on
+
+376
+00:16:27,910 --> 00:16:29,970
+deck. It's a very
+highly specialized form
+
+377
+00:16:29,970 --> 00:16:32,610
+of therapy, but it
+can be very effective.
+
+378
+00:16:34,230 --> 00:16:36,950
+All right, so another
+type of therapy that
+
+379
+00:16:36,950 --> 00:16:40,090
+we can use is called
+transcranial magnetic
+
+380
+00:16:40,090 --> 00:16:43,830
+stimulation, aka TMS.
+And rather than using
+
+381
+00:16:43,830 --> 00:16:46,710
+electricity, this uses
+magnetic fields to
+
+382
+00:16:46,710 --> 00:16:48,410
+directly stimulate
+nerve cells in the brain
+
+383
+00:16:48,410 --> 00:16:50,770
+to try and improve
+mood and cognition for
+
+384
+00:16:50,770 --> 00:16:53,290
+treatment-resistant
+depression. The main benefit
+
+385
+00:16:53,290 --> 00:16:56,330
+of TMS is that it's a
+non-invasive procedure
+
+386
+00:16:56,330 --> 00:16:58,190
+that patients can
+drive themselves to
+
+387
+00:16:58,190 --> 00:17:00,770
+and from. So it's only
+about 30 to 40-minute
+
+388
+00:17:00,770 --> 00:17:03,350
+sessions, does not
+require any anesthesia.
+
+389
+00:17:03,790 --> 00:17:07,230
+But the issues with
+TMS is that there are
+
+390
+00:17:07,230 --> 00:17:09,190
+some contraindications,
+including a history
+
+391
+00:17:09,190 --> 00:17:12,150
+of seizures or epilepsy,
+as this treatment
+
+392
+00:17:12,150 --> 00:17:14,430
+can potentially decrease
+the seizure threshold,
+
+393
+00:17:14,430 --> 00:17:16,610
+as well as any
+intracranial electronic
+
+394
+00:17:16,610 --> 00:17:19,770
+implants or anything
+metallic or magnetic
+
+395
+00:17:19,770 --> 00:17:26,230
+hardware all right
+so before we continue
+
+396
+00:17:26,230 --> 00:17:28,670
+and this might seem a
+little jarring to just
+
+397
+00:17:28,670 --> 00:17:31,750
+transition from
+depression to bipolar and
+
+398
+00:17:31,750 --> 00:17:34,330
+back and forth between
+the two but it's really
+
+399
+00:17:34,330 --> 00:17:36,750
+important to understand
+this aspect of
+
+400
+00:17:36,750 --> 00:17:39,110
+medical diagnosis
+because this is how you
+
+401
+00:17:39,110 --> 00:17:41,850
+work up a true depression
+case in the clinic
+
+402
+00:17:41,850 --> 00:17:44,130
+so why is it so important
+that we actually
+
+403
+00:17:44,130 --> 00:17:47,210
+rule out bipolar
+disorder first before
+
+404
+00:17:47,210 --> 00:17:49,530
+defaulting to a diagnosis
+of major depressive
+
+405
+00:17:49,530 --> 00:17:52,850
+disorder and the reason
+for that lies in the
+
+406
+00:17:52,850 --> 00:17:56,550
+pharmacology so most
+antidepressants when
+
+407
+00:17:56,550 --> 00:17:59,390
+they're prescribed first
+can actually worsen
+
+408
+00:17:59,390 --> 00:18:02,030
+the manic and hypomanic
+episodes that are
+
+409
+00:18:02,030 --> 00:18:04,730
+found in bipolar
+disorder so a big example
+
+410
+00:18:04,730 --> 00:18:07,050
+of this is when
+you give ssris as a
+
+411
+00:18:07,050 --> 00:18:10,730
+monotherapy if you
+misdiagnose your patient with
+
+412
+00:18:10,730 --> 00:18:12,990
+depression and they
+had bipolar disorder,
+
+413
+00:18:12,990 --> 00:18:16,870
+it can worsen or
+induce a manic episode,
+
+414
+00:18:16,870 --> 00:18:19,790
+leading to extreme
+distress for the patient.
+
+415
+00:18:19,930 --> 00:18:25,030
+However, you can combine
+mood stabilizers and
+
+416
+00:18:25,030 --> 00:18:28,510
+an SSRI under physician
+supervision. So
+
+417
+00:18:28,510 --> 00:18:30,730
+again, just a quick
+little clinical pearl is
+
+418
+00:18:30,730 --> 00:18:32,970
+going to make more sense
+when we go deeper into
+
+419
+00:18:32,970 --> 00:18:35,330
+bipolar disorder,
+but it's important to
+
+420
+00:18:35,330 --> 00:18:37,650
+bring this up now as
+we continue to work up
+
+421
+00:18:37,650 --> 00:18:40,170
+our two cases with major
+depressive disorder.
+
+422
+00:18:41,150 --> 00:18:45,510
+So how do we rule out
+that the patient has
+
+423
+00:18:45,510 --> 00:18:48,170
+bipolar disorder before
+we make a diagnosis
+
+424
+00:18:48,170 --> 00:18:50,130
+of depression? Well,
+again, we have additional
+
+425
+00:18:50,130 --> 00:18:52,230
+questionnaires and
+screening, right? So
+
+426
+00:18:52,230 --> 00:18:55,130
+the best tool for screening
+bipolar 1 disorder
+
+427
+00:18:55,130 --> 00:18:58,770
+is going to be the mood
+disorder questionnaire.
+
+428
+00:18:58,770 --> 00:19:01,190
+Just a bunch of yes
+and no's that can
+
+429
+00:19:01,190 --> 00:19:03,150
+eventually be scored and
+give you an indication
+
+430
+00:19:03,150 --> 00:19:06,130
+of whether or not
+there is the potential
+
+431
+00:19:06,730 --> 00:19:09,330
+for your patient
+to have bipolar
+
+432
+00:19:09,330 --> 00:19:10,730
+disorder remember
+this is a
+
+433
+00:19:10,730 --> 00:19:12,850
+screening tool it
+is not diagnostic
+
+434
+00:19:15,510 --> 00:19:19,130
+but back to our cases
+let's say that we are
+
+435
+00:19:19,130 --> 00:19:21,150
+getting a little bit
+more information from
+
+436
+00:19:21,150 --> 00:19:23,230
+both luffy and nami
+and so here are some of
+
+437
+00:19:23,230 --> 00:19:24,790
+their test results
+and a further history
+
+438
+00:19:24,790 --> 00:19:27,190
+that we got from both
+of them both of their
+
+439
+00:19:27,190 --> 00:19:30,070
+mood disorder questionnaires
+were negative for
+
+440
+00:19:30,070 --> 00:19:32,790
+any previous hypomanic
+or manic episodes
+
+441
+00:19:32,790 --> 00:19:34,390
+again we're going to
+talk about that more in
+
+442
+00:19:34,390 --> 00:19:37,230
+a little bit later
+on the lecture all uh
+
+443
+00:19:37,230 --> 00:19:39,350
+for these lab results
+all values were within
+
+444
+00:19:39,350 --> 00:19:42,650
+normal limits and there
+was no recent loss
+
+445
+00:19:42,650 --> 00:19:48,010
+or remarkable change in
+their lives all right
+
+446
+00:19:48,010 --> 00:19:49,910
+so based on the clinical
+picture presented
+
+447
+00:19:49,910 --> 00:19:52,920
+what diagnosis do both
+luffy and nami have
+
+448
+00:19:52,920 --> 00:19:55,070
+now let's take a step
+back and let's think
+
+449
+00:19:55,710 --> 00:19:58,770
+both luffy and nami
+had at least five of
+
+450
+00:19:58,770 --> 00:20:01,790
+those sigi caps
+symptoms they note that
+
+451
+00:20:01,790 --> 00:20:04,350
+their symptoms have
+been affecting their
+
+452
+00:20:04,350 --> 00:20:06,750
+daily life their
+quality of life and
+
+453
+00:20:06,750 --> 00:20:09,410
+they've been experiencing
+these symptoms most
+
+454
+00:20:09,410 --> 00:20:13,530
+days for at least
+two weeks right so
+
+455
+00:20:13,530 --> 00:20:15,750
+keeping all of that in
+mind what do we think
+
+456
+00:20:15,750 --> 00:20:19,450
+that the answer
+could be and if you
+
+457
+00:20:19,450 --> 00:20:21,970
+guess c you're 100
+correct they are both
+
+458
+00:20:21,970 --> 00:20:25,050
+suffering from major
+depressive disorder.
+
+459
+00:20:27,470 --> 00:20:28,990
+All right, so
+another quick
+
+460
+00:20:28,990 --> 00:20:30,010
+question for you guys.
+
+461
+00:20:30,150 --> 00:20:31,170
+True or false?
+
+462
+00:20:31,290 --> 00:20:33,930
+Asking about
+suicide puts the
+
+463
+00:20:33,930 --> 00:20:36,230
+idea in the
+patient's mind.
+
+464
+00:20:38,330 --> 00:20:41,230
+And the answer to
+this is false, right?
+
+465
+00:20:41,230 --> 00:20:43,370
+Asking about suicide,
+suicidal thoughts does
+
+466
+00:20:43,370 --> 00:20:47,290
+not increase suicidal
+thoughts. And we want
+
+467
+00:20:47,290 --> 00:20:50,430
+to ask whether or not
+the patient is currently
+
+468
+00:20:50,430 --> 00:20:53,010
+suicidal, both for
+the patient's safety
+
+469
+00:20:53,010 --> 00:20:55,670
+but also because it
+can help us with our
+
+470
+00:20:55,670 --> 00:20:58,510
+treatment. If we say I
+am extremely suicidal,
+
+471
+00:20:58,510 --> 00:20:59,870
+I'm going to go home,
+I'm going to hurt
+
+472
+00:20:59,870 --> 00:21:02,170
+myself, then we know
+that this is a very ill
+
+473
+00:21:02,170 --> 00:21:04,570
+patient that potentially
+needs to be admitted,
+
+474
+00:21:04,590 --> 00:21:07,690
+right? So keep in
+mind that about 21% of
+
+475
+00:21:07,690 --> 00:21:09,750
+patients with recurrent
+depressive disorder
+
+476
+00:21:09,750 --> 00:21:12,670
+will attempt suicide.
+Again, that's one in
+
+477
+00:21:12,670 --> 00:21:15,990
+five. That's a really
+big chunk. And so
+
+478
+00:21:15,990 --> 00:21:17,890
+it's important to remember
+these risk factors
+
+479
+00:21:17,890 --> 00:21:20,930
+for suicide with the
+mnemonic sad persons.
+
+480
+00:21:22,080 --> 00:21:24,270
+All right, so here
+are some of those risk
+
+481
+00:21:24,270 --> 00:21:26,150
+factors for suicide
+death as we talked about
+
+482
+00:21:26,150 --> 00:21:28,490
+before, and here's your
+mnemonic sad persons.
+
+483
+00:21:28,490 --> 00:21:30,870
+So starting with the
+first letter, it refers
+
+484
+00:21:30,870 --> 00:21:33,710
+to the *** of the
+patient. So males are
+
+485
+00:21:33,710 --> 00:21:37,310
+more likely to die
+from suicide death than
+
+486
+00:21:37,310 --> 00:21:41,210
+females. Now while it
+is true that women, in
+
+487
+00:21:41,210 --> 00:21:44,670
+terms of statistics,
+may try more often, men
+
+488
+00:21:44,670 --> 00:21:46,810
+will actually follow
+through and accomplish
+
+489
+00:21:46,810 --> 00:21:49,970
+their goal more often
+and this is due to the
+
+490
+00:21:49,970 --> 00:21:52,870
+methods that individuals
+use so males tend to
+
+491
+00:21:52,870 --> 00:21:56,150
+use more violent
+methods females are less
+
+492
+00:21:56,150 --> 00:21:59,430
+violent the main thing
+to keep in mind is that
+
+493
+00:22:00,050 --> 00:22:02,830
+men tend to go out
+more often through
+
+494
+00:22:02,830 --> 00:22:05,910
+firearms use and again
+some of this stuff may be
+
+495
+00:22:05,910 --> 00:22:07,790
+a bit triggering but
+just try to bear with
+
+496
+00:22:07,790 --> 00:22:09,350
+me through this as these
+are really important
+
+497
+00:22:09,350 --> 00:22:11,750
+risk factors to keep
+in mind to give your
+
+498
+00:22:11,750 --> 00:22:13,590
+patients the most
+comprehensive care possible
+
+499
+00:22:13,590 --> 00:22:17,030
+so again *** is a
+pretty big determinant.
+
+500
+00:22:17,510 --> 00:22:19,930
+Age, so young
+adults or older
+
+501
+00:22:19,930 --> 00:22:21,650
+adults tend to
+be more likely
+
+502
+00:22:21,650 --> 00:22:24,110
+to succeed in
+their attempts.
+
+503
+00:22:24,330 --> 00:22:27,270
+Long-term depression
+is a big risk factor.
+
+504
+00:22:27,270 --> 00:22:30,710
+But the highest risk
+factor is actually a
+
+505
+00:22:30,710 --> 00:22:34,610
+previous attempt. So
+let's say that you have
+
+506
+00:22:34,610 --> 00:22:38,330
+a male who is older,
+they're like 62 years
+
+507
+00:22:38,330 --> 00:22:40,110
+old, they've been
+depressed their whole
+
+508
+00:22:40,110 --> 00:22:42,890
+life, and they have,
+you know, two previous
+
+509
+00:22:42,890 --> 00:22:45,090
+suicide attempts. and
+the question is asking
+
+510
+00:22:45,090 --> 00:22:46,790
+you, you know, what
+is the highest risk
+
+511
+00:22:46,790 --> 00:22:48,990
+factor for suicide in
+this patient, this is
+
+512
+00:22:48,990 --> 00:22:50,630
+always going to be
+your answer. So you see
+
+513
+00:22:50,630 --> 00:22:53,570
+that on your USMLE,
+your Comlex, or your
+
+514
+00:22:53,570 --> 00:22:56,090
+school exams. Keep that
+in mind that previous
+
+515
+00:22:56,090 --> 00:22:58,070
+attempts, again, are
+the highest predictor,
+
+516
+00:22:58,070 --> 00:23:00,330
+highest risk factor
+for suicide death.
+
+517
+00:23:00,750 --> 00:23:03,390
+Ethanol or drug use,
+this is important
+
+518
+00:23:03,390 --> 00:23:05,990
+because it impairs
+rational thinking. It
+
+519
+00:23:05,990 --> 00:23:07,490
+can potentially lead
+to psychosis, so
+
+520
+00:23:07,490 --> 00:23:10,930
+********* use, ***,
+*******, any type of
+
+521
+00:23:10,930 --> 00:23:16,610
+drug that could affect
+cognition or the
+
+522
+00:23:16,610 --> 00:23:18,750
+individual's perception
+of the world around
+
+523
+00:23:18,750 --> 00:23:20,530
+them, it's going to
+be a risk factor.
+
+524
+00:23:20,690 --> 00:23:22,830
+Sickness, so like
+a medical illness,
+
+525
+00:23:22,830 --> 00:23:24,890
+let's say the
+patient has, you
+
+526
+00:23:25,070 --> 00:23:27,090
+know, cancer in
+their terminal, that
+
+527
+00:23:27,090 --> 00:23:28,770
+is a pretty big
+risk factor as well.
+
+528
+00:23:29,030 --> 00:23:31,150
+Here we have an
+organized plan. So if the
+
+529
+00:23:31,150 --> 00:23:32,790
+patient comes to you
+telling you that, you
+
+530
+00:23:32,790 --> 00:23:35,570
+know, I'm going to
+go and take all of my
+
+531
+00:23:35,570 --> 00:23:37,690
+medication all at once
+tonight and then just go
+
+532
+00:23:37,690 --> 00:23:39,210
+to sleep, you know
+that they have an
+
+533
+00:23:39,210 --> 00:23:42,730
+organized plan that is
+a big problem if there's
+
+534
+00:23:42,730 --> 00:23:45,070
+no spouse or other
+social support at home
+
+535
+00:23:45,070 --> 00:23:46,950
+so let's say they live
+alone or all their
+
+536
+00:23:46,950 --> 00:23:48,810
+family members you know
+have passed they don't
+
+537
+00:23:48,810 --> 00:23:50,710
+really have any friends
+that's a big risk
+
+538
+00:23:50,710 --> 00:23:52,890
+factor and then again
+stated future intent
+
+539
+00:23:52,890 --> 00:23:55,230
+this kind of goes along
+with the organized
+
+540
+00:23:55,230 --> 00:23:57,250
+plan but it's different
+in that they may not
+
+541
+00:23:57,250 --> 00:23:59,350
+have that plan yet
+but they say that oh
+
+542
+00:23:59,350 --> 00:24:00,890
+I'm going to go home
+I'm going to formulate
+
+543
+00:24:00,890 --> 00:24:04,330
+something I do plan
+on doing this okay um
+
+544
+00:24:04,330 --> 00:24:07,370
+there are some protective
+factors um like
+
+545
+00:24:07,370 --> 00:24:09,370
+effective care for
+comorbidities like those
+
+546
+00:24:09,370 --> 00:24:12,710
+medical illnesses that
+we talked about um if
+
+547
+00:24:12,710 --> 00:24:16,570
+you did have family
+community connectedness
+
+548
+00:24:16,710 --> 00:24:19,070
+you had a good social
+support network that's
+
+549
+00:24:19,070 --> 00:24:21,270
+protective as well
+individuals with
+
+550
+00:24:21,270 --> 00:24:24,850
+stronger cultural and
+religious beliefs that
+
+551
+00:24:24,850 --> 00:24:27,070
+encourage self
+-preservation also is
+
+552
+00:24:27,070 --> 00:24:29,810
+protective and then more
+strong problem-solving
+
+553
+00:24:29,810 --> 00:24:32,930
+skills. Again, those
+ones are less tested
+
+554
+00:24:32,930 --> 00:24:34,850
+for whatever reason.
+They like to look
+
+555
+00:24:34,850 --> 00:24:37,430
+at the risk factors,
+but it's good to keep
+
+556
+00:24:37,430 --> 00:24:39,650
+in mind the protective
+factors as well.
+
+557
+00:24:40,750 --> 00:24:42,690
+All right, so for
+some of our subsets of
+
+558
+00:24:42,690 --> 00:24:44,810
+depression, we're going
+to get into a bunch of
+
+559
+00:24:44,810 --> 00:24:47,890
+different disorders now.
+The first is persistent
+
+560
+00:24:47,890 --> 00:24:50,310
+depressive disorder.
+So this is defined
+
+561
+00:24:50,310 --> 00:24:53,330
+by depressed mood for
+at least two years,
+
+562
+00:24:53,330 --> 00:24:55,790
+right? That's a stark
+contrast of major
+
+563
+00:24:55,790 --> 00:24:57,930
+depressive disorder, which
+is going to require you
+
+564
+00:24:57,930 --> 00:25:02,210
+to have symptoms for
+at least two weeks.
+
+565
+00:25:02,210 --> 00:25:04,610
+This also used to be
+called dysthymia. So you
+
+566
+00:25:04,610 --> 00:25:06,050
+might sometimes see
+it mentioned like that
+
+567
+00:25:06,050 --> 00:25:08,610
+in older textbooks or
+materials. It's often
+
+568
+00:25:08,610 --> 00:25:10,770
+more mild than major
+depressive disorder. And
+
+569
+00:25:10,770 --> 00:25:12,670
+because of this, you
+only need greater than
+
+570
+00:25:12,670 --> 00:25:15,050
+or equal to two
+depressive symptoms, those
+
+571
+00:25:15,050 --> 00:25:17,710
+CIGI-CAP symptoms that
+last greater than or
+
+572
+00:25:17,710 --> 00:25:21,290
+equal to two years. If
+it's in children, it's
+
+573
+00:25:21,290 --> 00:25:24,310
+greater than or equal
+to one year. The last
+
+574
+00:25:24,310 --> 00:25:26,310
+qualifying factor of
+this disease is that
+
+575
+00:25:26,310 --> 00:25:28,870
+any remission in symptoms,
+depressive symptoms,
+
+576
+00:25:28,870 --> 00:25:31,550
+should last less
+than or equal to two
+
+577
+00:25:31,550 --> 00:25:33,970
+months. So to treat
+it, we use our standard
+
+578
+00:25:33,970 --> 00:25:37,590
+major depressive disorder
+therapies, as well
+
+579
+00:25:37,590 --> 00:25:41,430
+as ECT or TMS for
+treatment-resistant cases.
+
+580
+00:25:41,550 --> 00:25:44,770
+There's also MDD with
+seasonal pattern. So
+
+581
+00:25:44,770 --> 00:25:47,090
+the easiest way to
+think about this is I
+
+582
+00:25:47,090 --> 00:25:48,830
+hear it all the time
+everyone's like oh my
+
+583
+00:25:48,830 --> 00:25:51,910
+gosh this stinks that
+i go home and it's
+
+584
+00:25:51,910 --> 00:25:54,750
+pitch black by five
+o'clock right and i
+
+585
+00:25:54,750 --> 00:25:57,680
+empathize with that it's
+a bit depressing but
+
+586
+00:25:57,680 --> 00:26:00,290
+imagine um it hits you
+a bit more than just
+
+587
+00:26:00,290 --> 00:26:02,550
+being sad or upset and
+missing the daylight
+
+588
+00:26:02,550 --> 00:26:04,890
+let's say you have
+major depressive
+
+589
+00:26:04,890 --> 00:26:07,630
+episodes that are
+occurring only during a
+
+590
+00:26:07,630 --> 00:26:09,690
+particular season in
+this case usually the
+
+591
+00:26:09,690 --> 00:26:12,050
+winter time it could
+also be in other climates
+
+592
+00:26:12,050 --> 00:26:13,610
+let's say there's a
+rainy season where
+
+593
+00:26:13,610 --> 00:26:16,710
+it's constantly mucky
+and dark and gross out,
+
+594
+00:26:16,710 --> 00:26:18,790
+that could also
+contribute to it, right?
+
+595
+00:26:18,790 --> 00:26:21,550
+So this is really
+environmentally driven.
+
+596
+00:26:21,990 --> 00:26:25,750
+And so in order to
+diagnose somebody with
+
+597
+00:26:25,750 --> 00:26:27,870
+MDD with seasonal
+pattern, they need to
+
+598
+00:26:27,870 --> 00:26:30,030
+have these symptoms
+only during a
+
+599
+00:26:30,030 --> 00:26:32,550
+particular season for
+greater than or equal
+
+600
+00:26:32,550 --> 00:26:35,750
+to two consecutive
+years, and in most of
+
+601
+00:26:35,750 --> 00:26:38,230
+their years across
+their lifetime, okay?
+
+602
+00:26:38,390 --> 00:26:40,910
+Atypical symptoms are
+also common and we'll
+
+603
+00:26:40,910 --> 00:26:42,950
+talk about those in
+the next slide but in
+
+604
+00:26:42,950 --> 00:26:45,050
+order to treat this it
+would be your standard
+
+605
+00:26:45,050 --> 00:26:47,210
+major depressive disorder
+therapies as well
+
+606
+00:26:47,210 --> 00:26:49,970
+as light therapy
+because again this is
+
+607
+00:26:49,970 --> 00:26:52,830
+environmental right so
+in the absence of natural
+
+608
+00:26:52,830 --> 00:26:56,210
+lights it is exacerbating
+these symptoms
+
+609
+00:26:56,210 --> 00:26:58,350
+that the individuals
+are currently feeling
+
+610
+00:26:59,830 --> 00:27:02,450
+all right so for our
+next disorder that
+
+611
+00:27:02,450 --> 00:27:03,650
+we're going to talk
+about here we have
+
+612
+00:27:03,650 --> 00:27:06,910
+depression with atypical
+features so i promise
+
+613
+00:27:06,910 --> 00:27:08,090
+you guys we'll talk
+about some of those
+
+614
+00:27:08,090 --> 00:27:10,810
+atypical symptoms So
+let's jump into it.
+
+615
+00:27:11,330 --> 00:27:14,710
+The depression atypical
+features is characterized
+
+616
+00:27:14,710 --> 00:27:17,270
+by a couple of
+different things. The
+
+617
+00:27:17,270 --> 00:27:21,130
+first aspect of it is
+called mood reactivity.
+
+618
+00:27:21,130 --> 00:27:23,330
+So this is transient
+improvement in
+
+619
+00:27:23,330 --> 00:27:25,930
+response to a positive
+event. And so this is
+
+620
+00:27:25,930 --> 00:27:28,750
+going to be something
+like, okay, your patient
+
+621
+00:27:28,750 --> 00:27:33,250
+is depressed, and then
+their child, let's
+
+622
+00:27:33,250 --> 00:27:34,770
+say, is going to be
+getting married. and so
+
+623
+00:27:34,770 --> 00:27:36,350
+they have a remission
+of their symptoms
+
+624
+00:27:36,350 --> 00:27:38,950
+improved mood during
+those wedding festivities
+
+625
+00:27:38,950 --> 00:27:40,950
+everything is great
+it's a positive time
+
+626
+00:27:40,950 --> 00:27:43,370
+and then they go back
+to the real world get
+
+627
+00:27:43,370 --> 00:27:44,870
+back in their routine
+and those depression
+
+628
+00:27:44,870 --> 00:27:47,810
+symptoms start to come
+back there may also
+
+629
+00:27:47,810 --> 00:27:51,850
+be hypersomnia and
+hyperphagia as well as
+
+630
+00:27:51,850 --> 00:27:53,710
+something called leaden
+paralysis which is
+
+631
+00:27:53,710 --> 00:27:55,830
+just this heavy feeling
+in the arms and legs
+
+632
+00:27:56,250 --> 00:27:59,730
+there could also be
+something called long
+
+633
+00:27:59,730 --> 00:28:03,210
+-standing interpersonal
+rejection sensitivity
+
+634
+00:28:03,210 --> 00:28:05,910
+and that's just a fancy
+way of saying that
+
+635
+00:28:05,910 --> 00:28:07,490
+these individuals are
+really anxious about
+
+636
+00:28:07,490 --> 00:28:09,910
+being rejected so it
+could be like oh i'm
+
+637
+00:28:09,910 --> 00:28:11,870
+applying for this
+promotion at my job i'm so
+
+638
+00:28:11,870 --> 00:28:13,470
+anxious that they're
+not going to like me
+
+639
+00:28:13,470 --> 00:28:16,650
+and it's not so much just
+anxiety or nervousness
+
+640
+00:28:16,650 --> 00:28:18,670
+it's more debilitating
+gets in the way
+
+641
+00:28:18,670 --> 00:28:21,110
+of them doing what
+they need to do so like
+
+642
+00:28:21,110 --> 00:28:22,890
+imagine every time
+you are going to ask
+
+643
+00:28:22,890 --> 00:28:25,110
+somebody out on a date
+you got this terrible
+
+644
+00:28:25,110 --> 00:28:29,230
+feeling of anxiety um
+this overwhelming feeling
+
+645
+00:28:29,230 --> 00:28:31,710
+of dread and this
+anxious feeling like
+
+646
+00:28:31,710 --> 00:28:33,590
+that you were going to
+be rejected and that
+
+647
+00:28:33,590 --> 00:28:35,830
+you're not going to
+be accepted and and a
+
+648
+00:28:35,830 --> 00:28:37,770
+lot of self-deprecation
+that goes along with
+
+649
+00:28:37,770 --> 00:28:41,150
+that so this is the
+most common subtype of
+
+650
+00:28:41,150 --> 00:28:44,510
+depression and it's
+really interesting because
+
+651
+00:28:44,510 --> 00:28:47,390
+it emphasizes the
+fact that we need to
+
+652
+00:28:47,390 --> 00:28:49,750
+have a broader net in
+our mental heuristics
+
+653
+00:28:49,750 --> 00:28:52,030
+when thinking about
+psychiatric illnesses.
+
+654
+00:28:52,710 --> 00:28:56,950
+Not everything is
+going to present as cut
+
+655
+00:28:56,950 --> 00:28:59,710
+and dry with those
+CIGICAP symptoms. You also
+
+656
+00:28:59,710 --> 00:29:02,130
+need to look at and
+identify these atypical
+
+657
+00:29:02,130 --> 00:29:04,130
+features in your
+patients moving forward.
+
+658
+00:29:04,610 --> 00:29:05,750
+So treatment for this,
+
+659
+00:29:05,930 --> 00:29:08,610
+CBT and SSRIs, like
+with major depressive
+
+660
+00:29:08,610 --> 00:29:11,170
+disorder, and you may
+also use monoamine
+
+661
+00:29:11,170 --> 00:29:14,110
+oxidase inhibitors,
+MAO inhibitors. These
+
+662
+00:29:14,110 --> 00:29:16,150
+are effective, but
+they're not really first
+
+663
+00:29:16,150 --> 00:29:17,830
+line as they have more
+severe side effect
+
+664
+00:29:17,830 --> 00:29:20,330
+profiles when
+compared to the other
+
+665
+00:29:20,330 --> 00:29:22,350
+contemporary medications
+that we tend to use.
+
+666
+00:29:23,280 --> 00:29:24,670
+Another one I want
+to talk about on
+
+667
+00:29:24,670 --> 00:29:26,370
+this slide is substance
+and medication
+
+668
+00:29:26,370 --> 00:29:27,950
+-induced depressive
+disorder. It's exactly
+
+669
+00:29:27,950 --> 00:29:29,490
+what it sounds like.
+It's a depressive
+
+670
+00:29:29,490 --> 00:29:32,210
+disorder induced
+by substance use.
+
+671
+00:29:32,210 --> 00:29:34,930
+This could be alcohol,
+opiates, *******,
+
+672
+00:29:34,930 --> 00:29:37,190
+amphetamines,
+steroids, etc., etc.
+
+673
+00:29:37,330 --> 00:29:39,410
+These symptoms are
+going to develop soon
+
+674
+00:29:39,410 --> 00:29:42,430
+after intoxication
+or withdrawal from
+
+675
+00:29:42,430 --> 00:29:44,710
+that medication.
+Then treatment,
+
+676
+00:29:44,710 --> 00:29:47,240
+consequently, is just
+supportive measures and
+
+677
+00:29:47,240 --> 00:29:48,890
+discontinuing use
+of that substance or
+
+678
+00:29:48,890 --> 00:29:50,690
+medication. If that
+means that there's
+
+679
+00:29:50,690 --> 00:29:53,110
+an addiction involved,
+then we can get
+
+680
+00:29:53,330 --> 00:29:55,450
+proper services
+involved to help us
+
+681
+00:29:55,450 --> 00:29:57,650
+with that as well,
+consult social
+
+682
+00:29:57,650 --> 00:30:00,810
+work, and move
+forward accordingly.
+
+683
+00:30:01,830 --> 00:30:04,530
+All righty. And lastly,
+for our subsets of
+
+684
+00:30:04,530 --> 00:30:06,350
+depression, this
+one's also pretty self
+
+685
+00:30:06,350 --> 00:30:09,050
+-explanatory. We talked
+about this in the beginning.
+
+686
+00:30:09,050 --> 00:30:11,310
+These are depressive
+disorders due to
+
+687
+00:30:11,310 --> 00:30:13,650
+another medical
+condition. Again, your
+
+688
+00:30:13,750 --> 00:30:16,010
+hypothyroidism, that lack
+of that thyroid hormone
+
+689
+00:30:16,010 --> 00:30:19,010
+is going to lead to
+constant downs. You're
+
+690
+00:30:19,010 --> 00:30:21,610
+going to have hair
+thinning, weight gain,
+
+691
+00:30:22,550 --> 00:30:26,510
+depressed mood, all
+consequences of having
+
+692
+00:30:26,510 --> 00:30:28,970
+decreased thyroid
+hormone levels. It
+
+693
+00:30:28,970 --> 00:30:31,110
+could be adrenal
+insufficiency as well.
+
+694
+00:30:31,550 --> 00:30:33,950
+Lupus can present
+with depression,
+
+695
+00:30:33,950 --> 00:30:35,770
+vitamin B12 deficiencies,
+
+696
+00:30:35,770 --> 00:30:38,210
+other vitamin and
+electrolyte deficiencies.
+
+697
+00:30:38,210 --> 00:30:40,750
+So the big thing is to
+treat the underlying
+
+698
+00:30:40,750 --> 00:30:42,950
+medical causes. So
+there's a big joke
+
+699
+00:30:43,370 --> 00:30:46,430
+when you guys get to
+the hospital, if you
+
+700
+00:30:46,430 --> 00:30:48,070
+see a patient that
+you might think that,
+
+701
+00:30:48,070 --> 00:30:50,250
+oh, they might be in
+a psychotic episode
+
+702
+00:30:50,250 --> 00:30:53,070
+or they might be
+depressed, more often than
+
+703
+00:30:53,070 --> 00:30:55,110
+not, they're going to
+say, oh, there's too
+
+704
+00:30:55,110 --> 00:30:57,630
+many red values on
+the lab work, go fix
+
+705
+00:30:57,630 --> 00:30:59,310
+those, and then you
+can try and consult
+
+706
+00:30:59,310 --> 00:31:02,270
+psych again. So do your
+due diligence to try
+
+707
+00:31:02,270 --> 00:31:04,570
+and work out all
+the other potential
+
+708
+00:31:04,570 --> 00:31:07,110
+medical causes before we
+default to a psychiatric
+
+709
+00:31:07,110 --> 00:31:09,250
+illness. Because if
+it is from another
+
+710
+00:31:09,250 --> 00:31:11,150
+medical cause, it's
+curative. Once you
+
+711
+00:31:11,150 --> 00:31:14,550
+fix the underlying
+medical cause, you're
+
+712
+00:31:14,550 --> 00:31:16,810
+going to fix the
+depressive symptoms. Okay.
+
+713
+00:31:18,250 --> 00:31:22,650
+So this next slide is
+going to be all about
+
+714
+00:31:22,650 --> 00:31:26,050
+peripartum mood
+disturbances. So these all
+
+715
+00:31:26,050 --> 00:31:31,230
+occur with onset during
+pregnancy or within
+
+716
+00:31:31,230 --> 00:31:33,190
+four weeks of delivery.
+And there is an
+
+717
+00:31:33,190 --> 00:31:35,570
+increased risk for those
+individuals' histories
+
+718
+00:31:35,570 --> 00:31:37,550
+of mood disorders,
+so either depression
+
+719
+00:31:37,550 --> 00:31:39,970
+or bipolar disorders.
+And so the first one
+
+720
+00:31:39,970 --> 00:31:41,010
+that we're going to
+talk about is very
+
+721
+00:31:41,010 --> 00:31:43,350
+common. This is just the
+postpartum blues, and
+
+722
+00:31:43,350 --> 00:31:46,330
+it has about a 50 to
+85% incidence rate.
+
+723
+00:31:46,470 --> 00:31:48,970
+It's characterized
+by your depressed
+
+724
+00:31:48,970 --> 00:31:52,250
+affect, tearfulness,
+fatigue, that starts two
+
+725
+00:31:52,250 --> 00:31:55,310
+to three days after
+delivery, and it
+
+726
+00:31:55,310 --> 00:31:59,710
+usually resolves within
+two weeks. So treatment
+
+727
+00:31:59,710 --> 00:32:00,970
+for this is going
+to be supportive,
+
+728
+00:32:01,090 --> 00:32:03,810
+making sure the new mom
+is happy and healthy
+
+729
+00:32:03,810 --> 00:32:05,870
+and not overwhelmed
+with a lot of the
+
+730
+00:32:05,870 --> 00:32:08,810
+stresses of motherhood
+that comes along after
+
+731
+00:32:08,810 --> 00:32:12,370
+delivery. So supportive
+care and then recurrent
+
+732
+00:32:12,370 --> 00:32:15,970
+follow-ups to assess
+for possible MDD with
+
+733
+00:32:15,970 --> 00:32:19,430
+peripartum onset, which
+is our next disorder
+
+734
+00:32:19,430 --> 00:32:21,030
+that we're going to
+talk about. This is
+
+735
+00:32:21,030 --> 00:32:23,910
+only 10 to 15% incidence
+rate, and this was
+
+736
+00:32:23,910 --> 00:32:27,450
+formally called
+postpartum depression. So
+
+737
+00:32:27,450 --> 00:32:31,130
+this meets the major
+depressive disorder criteria
+
+738
+00:32:31,130 --> 00:32:34,550
+with an onset either
+during pregnancy or
+
+739
+00:32:34,550 --> 00:32:38,190
+within four weeks
+after delivery. So if
+
+740
+00:32:38,190 --> 00:32:41,890
+those postpartum blues
+continue beyond two
+
+741
+00:32:41,890 --> 00:32:45,290
+weeks, then we know that
+we could potentially
+
+742
+00:32:45,290 --> 00:32:48,110
+have major depressive
+disorder with peripartum
+
+743
+00:32:48,110 --> 00:32:50,210
+onset. And with this,
+we want to look at
+
+744
+00:32:50,210 --> 00:32:53,410
+CBT and SSRIs as our
+first-line treatments.
+
+745
+00:32:55,250 --> 00:32:58,030
+So some other mood
+disorders that could
+
+746
+00:32:58,030 --> 00:33:00,090
+potentially affect
+individuals. There's
+
+747
+00:33:00,090 --> 00:33:03,710
+first one is premenstrual
+dysphoric disorder,
+
+748
+00:33:03,710 --> 00:33:06,570
+and this is marked
+by behavioral and
+
+749
+00:33:06,570 --> 00:33:08,720
+mood symptoms that
+begin the week before
+
+750
+00:33:08,720 --> 00:33:11,590
+the start of the
+menstrual cycle and the
+
+751
+00:33:11,590 --> 00:33:15,270
+end within the first
+few days of menses,
+
+752
+00:33:15,490 --> 00:33:17,770
+okay? So this is
+postulated to be
+
+753
+00:33:17,770 --> 00:33:20,570
+hormonally driven.
+So for the diagnosis,
+
+754
+00:33:20,570 --> 00:33:22,810
+you need at least
+five symptoms total,
+
+755
+00:33:22,810 --> 00:33:26,050
+including one or
+more mood symptoms,
+
+756
+00:33:26,050 --> 00:33:28,730
+okay? So these
+could be feelings of
+
+757
+00:33:28,730 --> 00:33:30,910
+anxiety, irritability,
+and tension,
+
+758
+00:33:31,030 --> 00:33:32,770
+sadness or despair,
+
+759
+00:33:32,890 --> 00:33:34,250
+changes in appetite,
+
+760
+00:33:34,610 --> 00:33:36,390
+mood swings, panic
+
+761
+00:33:36,390 --> 00:33:37,930
+attacks, frequent crying,
+
+762
+00:33:38,250 --> 00:33:40,370
+sleep issues, low energy,
+
+763
+00:33:40,530 --> 00:33:42,290
+trouble thinking
+or focusing,
+
+764
+00:33:42,410 --> 00:33:45,310
+bloating, breast
+tenderness, muscle pain.
+
+765
+00:33:45,310 --> 00:33:48,450
+All of these symptoms
+are fair game. And
+
+766
+00:33:48,450 --> 00:33:50,210
+you'll learn a lot more
+about this when you do
+
+767
+00:33:50,210 --> 00:33:53,110
+OB-GYN in that last
+semester before boards.
+
+768
+00:33:53,110 --> 00:33:54,690
+I just want to give it
+to you guys ahead of
+
+769
+00:33:54,690 --> 00:33:56,190
+time so you see it
+and it's not something
+
+770
+00:33:56,190 --> 00:33:58,130
+brand new to you, and
+it also fits into the
+
+771
+00:33:58,130 --> 00:33:59,730
+subject matter that we're
+talking about today.
+
+772
+00:33:59,990 --> 00:34:02,510
+So treatments for this
+is your SSRIs. These
+
+773
+00:34:02,510 --> 00:34:04,030
+are going to be your
+first-line treatments.
+
+774
+00:34:04,230 --> 00:34:06,530
+Oral contraceptives
+can also aid with
+
+775
+00:34:06,530 --> 00:34:09,670
+some of the hormonal
+and mood symptoms as
+
+776
+00:34:09,670 --> 00:34:11,820
+well and may pair
+as a good adjunct,
+
+777
+00:34:11,820 --> 00:34:14,290
+especially if there's
+also dysmenorrhea,
+
+778
+00:34:14,290 --> 00:34:16,570
+so a lot of pain with
+menstruation, heavy
+
+779
+00:34:16,570 --> 00:34:18,890
+menstrual cycles,
+lifestyle changes
+
+780
+00:34:18,890 --> 00:34:21,950
+like regular exercise,
+stress management,
+
+781
+00:34:22,110 --> 00:34:24,710
+limiting caffeine and
+alcohol use, as well
+
+782
+00:34:24,710 --> 00:34:28,650
+as GNRH agonists for
+severe cases. Again,
+
+783
+00:34:28,650 --> 00:34:30,550
+that's another hormone
+modulating therapy.
+
+784
+00:34:32,570 --> 00:34:38,090
+So here are some of
+the symptoms that we
+
+785
+00:34:38,090 --> 00:34:39,170
+were talking about
+before. And again, this
+
+786
+00:34:39,170 --> 00:34:41,190
+is not an exhaustive
+list. There can be
+
+787
+00:34:41,190 --> 00:34:42,910
+variations in mood
+and constitutional
+
+788
+00:34:42,910 --> 00:34:44,550
+symptoms that are
+experienced by these
+
+789
+00:34:44,550 --> 00:34:46,330
+individuals. But again,
+you might have these
+
+790
+00:34:46,330 --> 00:34:48,110
+mood swings,
+irritability or anger,
+
+791
+00:34:48,110 --> 00:34:50,570
+depressed mood, and
+hopelessness. And the other
+
+792
+00:34:50,570 --> 00:34:52,030
+symptoms would be
+your anhedonia,
+
+793
+00:34:52,030 --> 00:34:54,350
+difficulty concentrating,
+low energy fatigue,
+
+794
+00:34:54,490 --> 00:34:56,270
+as well as those
+physical symptoms
+
+795
+00:34:56,270 --> 00:34:57,990
+we talked about too,
+breast tenderness,
+
+796
+00:34:57,990 --> 00:35:00,190
+bloating, joint
+muscle pain, etc.
+
+797
+00:35:02,710 --> 00:35:07,250
+So next we have disruptive
+mood dysregulation
+
+798
+00:35:07,250 --> 00:35:10,150
+disorder. And this
+is a severe chronic
+
+799
+00:35:10,150 --> 00:35:13,210
+irritability in children
+that includes frequent
+
+800
+00:35:13,210 --> 00:35:17,150
+temper outbursts plus
+persistent irritable
+
+801
+00:35:17,150 --> 00:35:20,590
+mood. So the diagnosis
+for this depends on
+
+802
+00:35:20,590 --> 00:35:24,210
+three or more severe
+temper outbursts so
+
+803
+00:35:24,210 --> 00:35:26,730
+either verbal or
+behavioral that are out of
+
+804
+00:35:26,730 --> 00:35:29,700
+proportion to the situation
+for a few weeks so
+
+805
+00:35:29,700 --> 00:35:32,690
+i don't know let's say
+you have a child that
+
+806
+00:35:32,690 --> 00:35:34,410
+has a bowl of cereal
+and they're walking to
+
+807
+00:35:34,410 --> 00:35:35,970
+the couch watch saturday
+morning cartoons
+
+808
+00:35:35,970 --> 00:35:38,470
+and they trip and they
+fall and cereal goes
+
+809
+00:35:38,470 --> 00:35:40,130
+everywhere and there's
+milk and they're freaking
+
+810
+00:35:40,130 --> 00:35:44,030
+out and now they have
+this massive, severe
+
+811
+00:35:44,030 --> 00:35:47,980
+temper outburst that
+is out of character
+
+812
+00:35:47,980 --> 00:35:50,330
+for that child. And
+what happened? Normally,
+
+813
+00:35:50,330 --> 00:35:52,210
+maybe you'd be a bit
+upset. They'd say,
+
+814
+00:35:52,210 --> 00:35:54,210
+don't cry over spilled
+milk, but the child could
+
+815
+00:35:54,210 --> 00:35:56,630
+be screaming, crying,
+hitting, punching,
+
+816
+00:35:56,920 --> 00:35:59,310
+completely losing their
+faculties, working
+
+817
+00:35:59,310 --> 00:36:01,410
+themselves up so much
+that maybe they pass
+
+818
+00:36:01,410 --> 00:36:03,930
+out, all of these
+types of things, right?
+
+819
+00:36:04,330 --> 00:36:07,090
+So symptoms must also
+occur in at least
+
+820
+00:36:07,090 --> 00:36:09,910
+two settings. So they
+have to occur at home,
+
+821
+00:36:09,910 --> 00:36:12,830
+at school at a
+friend's house it can't
+
+822
+00:36:12,830 --> 00:36:14,370
+just be symptoms
+that are occurring in
+
+823
+00:36:14,370 --> 00:36:16,650
+one setting they must
+also last at least
+
+824
+00:36:16,650 --> 00:36:19,530
+12 months with no
+break lasting greater
+
+825
+00:36:19,530 --> 00:36:22,530
+than three months and
+this diagnosis can only
+
+826
+00:36:22,530 --> 00:36:24,850
+really be made
+between the ages of 6
+
+827
+00:36:24,850 --> 00:36:29,050
+and 18 but the onset
+of symptoms must be
+
+828
+00:36:29,050 --> 00:36:32,430
+noted before age 10
+so if you have someone
+
+829
+00:36:32,430 --> 00:36:34,110
+coming in and they're
+16 years old and
+
+830
+00:36:34,110 --> 00:36:36,210
+they're just starting
+with these symptoms,
+
+831
+00:36:36,530 --> 00:36:39,490
+it cannot qualify
+for a diagnosis
+
+832
+00:36:39,490 --> 00:36:40,730
+of disruptive
+mood dysregulation
+
+833
+00:36:40,730 --> 00:36:43,110
+disorder. It must
+occur before age 10.
+
+834
+00:36:44,390 --> 00:36:47,150
+All right, so continuing
+with disruptive mood
+
+835
+00:36:47,250 --> 00:36:50,210
+dysregulation disorder,
+a quick note is
+
+836
+00:36:50,210 --> 00:36:53,630
+that this diagnosis
+cannot, I repeat, cannot
+
+837
+00:36:53,630 --> 00:36:58,350
+coexist with bipolar
+disorder or intermittent
+
+838
+00:36:58,350 --> 00:37:01,270
+explosive disorder.
+But you can have
+
+839
+00:37:01,270 --> 00:37:04,030
+concomitant ADHD and
+depression, which is why
+
+840
+00:37:04,030 --> 00:37:06,890
+sometimes if therapy
+like cognitive behavioral
+
+841
+00:37:06,890 --> 00:37:09,250
+therapy or parent
+management training does
+
+842
+00:37:09,250 --> 00:37:12,450
+not work out, you can
+utilize stimulants or
+
+843
+00:37:12,450 --> 00:37:16,610
+SSRIs to receive a bit
+more of like a measurable
+
+844
+00:37:16,610 --> 00:37:18,470
+effect and improvement
+in the patients.
+
+845
+00:37:18,530 --> 00:37:21,310
+Another note is that
+between outbursts,
+
+846
+00:37:21,310 --> 00:37:24,390
+their mood may be
+persistently irritable or
+
+847
+00:37:24,390 --> 00:37:28,570
+angry most of the day,
+nearly every day. So
+
+848
+00:37:28,570 --> 00:37:29,850
+that's why I got this
+little angie kid right
+
+849
+00:37:29,850 --> 00:37:31,810
+here. He's throwing a
+little temper tantrum.
+
+850
+00:37:33,510 --> 00:37:36,110
+All right, so that is
+everything that has to
+
+851
+00:37:36,110 --> 00:37:38,670
+do with depression, major
+depressive disorder,
+
+852
+00:37:38,670 --> 00:37:41,910
+and its subtypes.
+Let's move on to some
+
+853
+00:37:41,910 --> 00:37:43,630
+additional clinical
+cases and now start to
+
+854
+00:37:43,630 --> 00:37:46,030
+tackle some other mood
+disorders. So now we
+
+855
+00:37:46,030 --> 00:37:48,530
+have Steve. He's a 29
+-year-old male, presents
+
+856
+00:37:48,530 --> 00:37:50,950
+to your clinic with
+his partner, and he
+
+857
+00:37:50,950 --> 00:37:53,170
+reports that he has
+severe anger problems,
+
+858
+00:37:53,170 --> 00:37:55,530
+which he notes are
+affecting his marriage. He's
+
+859
+00:37:55,530 --> 00:37:57,490
+healthy, and he's on
+no medications. He
+
+860
+00:37:57,490 --> 00:38:00,530
+denies any current or
+past drug and alcohol
+
+861
+00:38:00,530 --> 00:38:02,810
+use, which is corroborated
+by his partner.
+
+862
+00:38:02,810 --> 00:38:05,050
+He's pleasant and
+cooperative with good eye
+
+863
+00:38:05,050 --> 00:38:07,810
+contact. He easily
+engages in conversation.
+
+864
+00:38:07,810 --> 00:38:10,790
+You interview his wife
+and you learn that not
+
+865
+00:38:10,790 --> 00:38:13,630
+only is he irritable,
+but he's also more self
+
+866
+00:38:13,630 --> 00:38:15,790
+-confident, starts new
+projects and hobbies,
+
+867
+00:38:15,790 --> 00:38:17,890
+and doesn't sleep
+much, talks faster, and
+
+868
+00:38:17,890 --> 00:38:21,110
+he wants *** all the
+time for about five to
+
+869
+00:38:21,110 --> 00:38:23,290
+six days at a time.
+These symptoms are then
+
+870
+00:38:23,290 --> 00:38:25,730
+followed immediately
+by a period of low
+
+871
+00:38:25,730 --> 00:38:29,390
+mood, decreased energy,
+and sleeping a lot. His
+
+872
+00:38:29,390 --> 00:38:32,330
+mood disorder
+questionnaire was negative.
+
+873
+00:38:33,130 --> 00:38:35,970
+Okay, now we have one
+more clinical case,
+
+874
+00:38:35,970 --> 00:38:38,210
+and just like with our
+first two, I want you
+
+875
+00:38:38,210 --> 00:38:40,790
+guys to start to think
+about comparing and
+
+876
+00:38:40,790 --> 00:38:42,810
+contrasting the two
+clinical cases as we're
+
+877
+00:38:42,810 --> 00:38:45,890
+going through this. So
+here we have Charlotte,
+
+878
+00:38:45,890 --> 00:38:47,690
+a 35-year-old female,
+presenting to the
+
+879
+00:38:47,690 --> 00:38:50,310
+emergency department
+via EMS. She was brought
+
+880
+00:38:50,310 --> 00:38:52,390
+in after her roommate
+called 911, and
+
+881
+00:38:52,390 --> 00:38:54,210
+according to her
+roommate charlotte hasn't
+
+882
+00:38:54,210 --> 00:38:56,290
+slept in three weeks
+instead choosing to work
+
+883
+00:38:56,290 --> 00:38:58,590
+on a proposal that
+could stop world hunger
+
+884
+00:38:58,590 --> 00:39:01,330
+she's also had different
+****** partners
+
+885
+00:39:01,330 --> 00:39:03,570
+visit the apartment
+every night during this
+
+886
+00:39:03,570 --> 00:39:06,170
+time her roommate grew
+increasingly concerned
+
+887
+00:39:06,170 --> 00:39:08,050
+for charlotte's safety
+prompting her to
+
+888
+00:39:08,050 --> 00:39:11,430
+call 9-1-1 in the ed
+the urine tox screen is
+
+889
+00:39:11,430 --> 00:39:13,290
+negative and when
+charlotte's family arrives
+
+890
+00:39:13,290 --> 00:39:15,390
+they note she frequently
+cycles between
+
+891
+00:39:15,390 --> 00:39:19,770
+periods of intense energy
+and lethargy of note
+
+892
+00:39:19,770 --> 00:39:22,430
+she had one inpatient
+stay for attempted
+
+893
+00:39:22,430 --> 00:39:25,690
+suicide at age 27 and
+takes no medications.
+
+894
+00:39:29,370 --> 00:39:31,610
+So let's think
+about it. What
+
+895
+00:39:31,610 --> 00:39:33,250
+are some of those
+key points that
+
+896
+00:39:33,250 --> 00:39:34,850
+we found in
+these histories?
+
+897
+00:39:35,330 --> 00:39:38,030
+With Steve, we have
+these episodic anger
+
+898
+00:39:38,030 --> 00:39:40,770
+problems. He was negative
+for drug or alcohol
+
+899
+00:39:40,770 --> 00:39:43,450
+use. He had half
+-finished projects, and he
+
+900
+00:39:43,450 --> 00:39:45,550
+cycles between high
+and low energy that
+
+901
+00:39:45,550 --> 00:39:50,700
+lasts less than a week
+at a time okay meanwhile
+
+902
+00:39:50,850 --> 00:39:53,670
+with charlotte she
+was brought into the
+
+903
+00:39:53,670 --> 00:39:56,850
+hospital by emergency
+medical services she's
+
+904
+00:39:56,850 --> 00:39:59,810
+negative for drug or
+alcohol use and she
+
+905
+00:39:59,810 --> 00:40:01,690
+cycles between high
+and low energy that
+
+906
+00:40:01,690 --> 00:40:05,230
+lasts greater than a
+week at a time and one
+
+907
+00:40:05,230 --> 00:40:07,970
+previous hospitalization
+and suicide attempt
+
+908
+00:40:09,260 --> 00:40:12,350
+all right so now that
+we've taken a look
+
+909
+00:40:12,350 --> 00:40:14,550
+at our two cases
+let's jump right
+
+910
+00:40:14,550 --> 00:40:17,550
+into bipolar disorders
+So when talking
+
+911
+00:40:17,550 --> 00:40:19,630
+about bipolar disorder,
+before we get into
+
+912
+00:40:19,630 --> 00:40:22,050
+the DSM-5 criteria
+for that, we need
+
+913
+00:40:22,050 --> 00:40:24,150
+to talk about
+something called mania.
+
+914
+00:40:24,150 --> 00:40:26,830
+Now mania is defined
+as a distinct period
+
+915
+00:40:26,830 --> 00:40:30,710
+of persistently
+elevated, expansive, or
+
+916
+00:40:30,710 --> 00:40:34,590
+irritable mood, or
+increased activity and
+
+917
+00:40:34,590 --> 00:40:38,090
+energy that lasts for
+at least one week.
+
+918
+00:40:38,250 --> 00:40:41,850
+And the DSM-5 lists a
+ton of different symptoms
+
+919
+00:40:41,850 --> 00:40:44,310
+like we saw for
+depression, but I got a
+
+920
+00:40:44,310 --> 00:40:46,330
+pretty good mnemonic on
+the next one. so don't
+
+921
+00:40:46,330 --> 00:40:49,230
+harp on all the little
+details here. The
+
+922
+00:40:49,230 --> 00:40:50,910
+important thing to
+note is that we need at
+
+923
+00:40:50,910 --> 00:40:52,890
+least three or more of
+the following symptoms
+
+924
+00:40:52,890 --> 00:40:56,000
+to be present, and it
+could be four or more
+
+925
+00:40:56,000 --> 00:40:59,570
+if irritable mood is
+also included. But let's
+
+926
+00:40:59,570 --> 00:41:01,210
+take a look at our
+mnemonic to try and make
+
+927
+00:41:01,210 --> 00:41:03,910
+sense of all of these
+different criteria.
+
+928
+00:41:04,850 --> 00:41:06,830
+All right, so that
+mnemonic that I promised
+
+929
+00:41:06,830 --> 00:41:08,690
+you guys is dig fast,
+and this is going
+
+930
+00:41:08,690 --> 00:41:10,930
+to help us remember
+key symptoms of a
+
+931
+00:41:10,930 --> 00:41:12,730
+manic episode. Remember,
+we need at least
+
+932
+00:41:12,730 --> 00:41:16,550
+three of these symptoms
+and we could be
+
+933
+00:41:16,550 --> 00:41:19,110
+four total if the person
+also has irritable
+
+934
+00:41:19,110 --> 00:41:21,210
+mood, okay? So
+start off with D for
+
+935
+00:41:21,210 --> 00:41:23,330
+distractibility.
+These individuals will
+
+936
+00:41:23,330 --> 00:41:25,230
+easily lose their
+attention or jump between
+
+937
+00:41:25,230 --> 00:41:28,370
+tasks. Now I stands
+for indiscretion or
+
+938
+00:41:28,370 --> 00:41:29,590
+impulsivity, all
+right? So this is going
+
+939
+00:41:29,590 --> 00:41:32,230
+to be excessive
+involvement in impulsive
+
+940
+00:41:32,230 --> 00:41:34,530
+or reckless behaviors,
+drug use, alcohol,
+
+941
+00:41:34,770 --> 00:41:37,450
+unprotected ***,
+things like that. For
+
+942
+00:41:37,450 --> 00:41:40,010
+G, you have grandiosity,
+so excessive self
+
+943
+00:41:40,010 --> 00:41:43,170
+-esteem or self-image.
+This can progress
+
+944
+00:41:43,170 --> 00:41:44,810
+to delusions of
+grandeur, which are
+
+945
+00:41:44,810 --> 00:41:47,650
+more severe than just
+grandiose thoughts.
+
+946
+00:41:47,990 --> 00:41:50,370
+F stands for
+flight of ideas or
+
+947
+00:41:50,370 --> 00:41:52,050
+racing thoughts.
+You have this rapid
+
+948
+00:41:52,050 --> 00:41:54,250
+flow of these
+disconnected thoughts.
+
+949
+00:41:54,950 --> 00:41:58,740
+A stands for activity
+increase or goal
+
+950
+00:41:58,740 --> 00:42:01,570
+-directed behavior. So
+staying up all night
+
+951
+00:42:01,570 --> 00:42:03,730
+to read a book, do
+homework, or like in
+
+952
+00:42:03,730 --> 00:42:05,990
+Charlotte's case,
+wanting to write up a
+
+953
+00:42:05,990 --> 00:42:07,690
+proposal that could
+solve world hunger.
+
+954
+00:42:08,130 --> 00:42:10,570
+Here for the
+next one, we have
+
+955
+00:42:10,570 --> 00:42:12,270
+sleep deficit.
+So because you're
+
+956
+00:42:12,270 --> 00:42:13,630
+constantly in this
+wired state, you're
+
+957
+00:42:13,630 --> 00:42:15,710
+unable to sleep,
+you feel tired,
+
+958
+00:42:15,930 --> 00:42:18,530
+you have some
+insomnia, et cetera.
+
+959
+00:42:18,710 --> 00:42:20,410
+And then talkativeness.
+So like your
+
+960
+00:42:20,410 --> 00:42:22,830
+pressured speech that
+seemingly is unending.
+
+961
+00:42:22,830 --> 00:42:25,230
+Tone varies from swift
+to loud to heated
+
+962
+00:42:25,230 --> 00:42:26,990
+and hostile. Think
+of it as a more
+
+963
+00:42:26,990 --> 00:42:28,610
+severe version of
+when if you have
+
+964
+00:42:28,610 --> 00:42:29,970
+like a little sibling
+or little cousin,
+
+965
+00:42:30,050 --> 00:42:31,370
+like three or four
+years old, and they're
+
+966
+00:42:31,370 --> 00:42:32,790
+telling you about like
+their favorite TV show
+
+967
+00:42:32,790 --> 00:42:35,710
+or their toy, this
+action figure, and, you
+
+968
+00:42:35,710 --> 00:42:37,550
+know, it just seems like
+they're rambling and
+
+969
+00:42:37,550 --> 00:42:39,270
+mumbling. That would
+kind of be your
+
+970
+00:42:39,270 --> 00:42:42,910
+talkativeness, like a real
+-world example of that.
+
+971
+00:42:44,690 --> 00:42:46,850
+All right, so you
+might have also heard
+
+972
+00:42:46,850 --> 00:42:50,350
+the words mania and
+hypomania thrown around.
+
+973
+00:42:50,350 --> 00:42:53,010
+And really, look
+at the prefix hypo.
+
+974
+00:42:53,280 --> 00:42:54,630
+That's just going
+to mean that it's
+
+975
+00:42:54,630 --> 00:42:59,030
+a less severe form
+of mania. So manic
+
+976
+00:42:59,030 --> 00:43:03,230
+episodes must last
+at least a week.
+
+977
+00:43:04,930 --> 00:43:06,170
+Meanwhile,
+
+978
+00:43:06,610 --> 00:43:08,910
+hypomanic episodes
+generally last
+
+979
+00:43:08,910 --> 00:43:12,370
+at least four
+days, but less than
+
+980
+00:43:12,370 --> 00:43:15,370
+seven. So this
+needs to be under
+
+981
+00:43:15,510 --> 00:43:18,050
+seven days for it
+to be hypomania.
+
+982
+00:43:18,690 --> 00:43:22,770
+Another thing to note
+is that regardless of
+
+983
+00:43:22,770 --> 00:43:26,150
+the time period of
+the symptoms, if the
+
+984
+00:43:26,150 --> 00:43:30,980
+patient is hospitalized
+for their symptoms then
+
+985
+00:43:30,990 --> 00:43:35,230
+it is automatically
+categorized as mania
+
+986
+00:43:35,230 --> 00:43:39,250
+so only manic episodes
+will get some individuals
+
+987
+00:43:39,250 --> 00:43:41,340
+admitted to a psych
+unit or arrested
+
+988
+00:43:41,340 --> 00:43:45,110
+not hypomanic episodes
+okay so if you have a
+
+989
+00:43:45,110 --> 00:43:47,470
+patient that comes in
+they were brought in
+
+990
+00:43:47,470 --> 00:43:50,310
+by ems they were
+hospitalized in an inpatient
+
+991
+00:43:50,310 --> 00:43:52,910
+unit and they've only
+been experiencing
+
+992
+00:43:53,220 --> 00:43:57,270
+three out of those dig
+fast criteria for about
+
+993
+00:43:57,270 --> 00:43:59,970
+two days, it still
+qualifies as mania,
+
+994
+00:43:59,970 --> 00:44:02,510
+right? People with
+hypomania are often still
+
+995
+00:44:02,510 --> 00:44:06,090
+functional while
+hypomanic, as we saw with
+
+996
+00:44:06,090 --> 00:44:09,110
+the case study with
+Steve. And as such,
+
+997
+00:44:09,110 --> 00:44:11,750
+hypomania is a bit more
+difficult to diagnose.
+
+998
+00:44:12,370 --> 00:44:14,390
+All right, so now
+that we have all that
+
+999
+00:44:14,390 --> 00:44:16,670
+terminology out the
+way, let's jump into
+
+1000
+00:44:17,070 --> 00:44:18,650
+differentiating between
+the different types of
+
+1001
+00:44:18,650 --> 00:44:21,310
+bipolar. So for bipolar
+disorders, you could
+
+1002
+00:44:21,310 --> 00:44:23,650
+have bipolar 1, which
+only requires one
+
+1003
+00:44:23,650 --> 00:44:25,990
+type of episode. You
+must have greater than
+
+1004
+00:44:25,990 --> 00:44:29,850
+or equal to one manic
+episode with or without
+
+1005
+00:44:29,850 --> 00:44:34,090
+a hypomanic or
+depressive episode, and
+
+1006
+00:44:34,090 --> 00:44:36,650
+they may be separated
+by any length of time.
+
+1007
+00:44:36,910 --> 00:44:39,430
+Let's compare this
+to bipolar 2, which
+
+1008
+00:44:39,430 --> 00:44:42,730
+requires two types of
+episodes. You do need a
+
+1009
+00:44:42,730 --> 00:44:47,110
+hypomanic and a
+depressive episode with no
+
+1010
+00:44:47,110 --> 00:44:49,430
+history of any manic
+episodes, right? So
+
+1011
+00:44:49,430 --> 00:44:51,630
+bipolar 1 is going to
+involve mania and depressive
+
+1012
+00:44:51,630 --> 00:44:54,110
+symptoms, while
+bipolar 2 involves
+
+1013
+00:44:54,110 --> 00:44:57,430
+hypomania and depressive
+symptoms. Now, you may
+
+1014
+00:44:57,430 --> 00:44:59,390
+have also heard of
+psychothymic disorder,
+
+1015
+00:44:59,390 --> 00:45:02,170
+which is a milder form
+of bipolar disorder
+
+1016
+00:45:02,170 --> 00:45:05,110
+that fluctuates between
+mild depression and
+
+1017
+00:45:05,110 --> 00:45:08,430
+hypomanic symptoms.
+These symptoms must last
+
+1018
+00:45:08,430 --> 00:45:11,130
+greater than or equal
+to two years, with
+
+1019
+00:45:11,130 --> 00:45:13,210
+the symptoms presenting
+at least half of
+
+1020
+00:45:13,210 --> 00:45:16,610
+that time, with any
+remission lasting less than
+
+1021
+00:45:16,610 --> 00:45:19,170
+or equal to two
+months. So the way that
+
+1022
+00:45:19,170 --> 00:45:21,070
+you pick a lot of
+these things out is by
+
+1023
+00:45:21,070 --> 00:45:23,990
+looking at the severity
+of the symptoms. The
+
+1024
+00:45:23,990 --> 00:45:25,570
+more severe symptoms
+that result in
+
+1025
+00:45:25,570 --> 00:45:27,350
+hospitalization, you're
+automatically in a manic
+
+1026
+00:45:27,350 --> 00:45:30,370
+episode, so you're at
+bipolar 1. Bipolar 2 is
+
+1027
+00:45:30,370 --> 00:45:32,730
+going to be still
+hypomanic and depression
+
+1028
+00:45:33,170 --> 00:45:36,310
+with cycling between
+the two episodes, but
+
+1029
+00:45:36,310 --> 00:45:38,070
+it's going to be a
+lot less severe. And
+
+1030
+00:45:38,070 --> 00:45:42,090
+cyclothymic disorder is
+the least severe and has
+
+1031
+00:45:42,090 --> 00:45:45,930
+the most long-term type
+of chronic diagnosis
+
+1032
+00:45:45,930 --> 00:45:49,010
+timeline, in that it
+must be lasting for
+
+1033
+00:45:49,010 --> 00:45:51,170
+at least greater than
+or equal to two years.
+
+1034
+00:45:53,110 --> 00:45:55,410
+All right, so just
+like I did with the
+
+1035
+00:45:55,410 --> 00:45:57,910
+depressive symptoms,
+here's what a
+
+1036
+00:45:57,910 --> 00:45:59,770
+potential differential
+could look like. By
+
+1037
+00:45:59,770 --> 00:46:01,550
+no means do you need
+to memorize any of
+
+1038
+00:46:01,550 --> 00:46:02,690
+this. This is just
+more or less for
+
+1039
+00:46:02,690 --> 00:46:04,610
+your reference.
+We'll talk more about
+
+1040
+00:46:04,610 --> 00:46:06,430
+schizophrenia and
+schizoaffective disorders
+
+1041
+00:46:06,430 --> 00:46:07,890
+in the next lecture
+I'm going to do.
+
+1042
+00:46:08,070 --> 00:46:09,950
+But for now, just
+know that this is
+
+1043
+00:46:09,950 --> 00:46:11,510
+kind of included in
+here because a lot
+
+1044
+00:46:11,510 --> 00:46:12,830
+of the psychotic
+symptoms that you may
+
+1045
+00:46:12,830 --> 00:46:15,570
+experience in
+these disorders can
+
+1046
+00:46:15,570 --> 00:46:19,010
+overlap or appear
+similar to what mania
+
+1047
+00:46:19,010 --> 00:46:20,790
+and hypomania symptoms
+could look like.
+
+1048
+00:46:22,370 --> 00:46:25,010
+Okay, so if you guys
+were paying attention,
+
+1049
+00:46:25,010 --> 00:46:26,350
+you might already
+know the answer
+
+1050
+00:46:26,350 --> 00:46:28,450
+to this. But true
+or false, if manic
+
+1051
+00:46:28,450 --> 00:46:30,830
+symptoms result in
+hospitalization, it is
+
+1052
+00:46:30,830 --> 00:46:34,310
+characterized as mania
+and not hypomania,
+
+1053
+00:46:34,310 --> 00:46:36,470
+regardless of the
+timing of symptoms.
+
+1054
+00:46:38,030 --> 00:46:40,090
+And if you guessed
+true, you'd be correct
+
+1055
+00:46:40,090 --> 00:46:42,210
+on this one. Remember,
+hypomania, less
+
+1056
+00:46:42,210 --> 00:46:45,230
+severe, no hospitalization,
+no psychosis, lasts
+
+1057
+00:46:45,230 --> 00:46:47,830
+at least four days,
+but less than seven.
+
+1058
+00:46:47,830 --> 00:46:49,850
+And mania is going to
+be the more severe of
+
+1059
+00:46:49,850 --> 00:46:51,710
+the two. may require
+hospitalization, may
+
+1060
+00:46:51,710 --> 00:46:54,450
+include psychosis, and
+it can last at least
+
+1061
+00:46:54,450 --> 00:46:57,010
+one week or any duration
+if hospitalized.
+
+1062
+00:46:58,730 --> 00:47:02,630
+So let's take a look
+at treating, right? So
+
+1063
+00:47:02,630 --> 00:47:04,570
+in order to treat
+bipolar disorder, we rely
+
+1064
+00:47:04,570 --> 00:47:07,890
+on second generation
+antipsychotics or mood
+
+1065
+00:47:07,890 --> 00:47:10,890
+stabilizers, okay?
+And again, I won't get
+
+1066
+00:47:10,890 --> 00:47:12,910
+too in the weeds with
+the pharmacology because
+
+1067
+00:47:12,910 --> 00:47:14,270
+a lot of this stuff
+can be pretty dense.
+
+1068
+00:47:14,270 --> 00:47:16,430
+You'll get that in your
+dedicated farm lectures.
+
+1069
+00:47:16,430 --> 00:47:18,670
+But what to know is
+that the treatment
+
+1070
+00:47:18,670 --> 00:47:20,870
+is based on what phase
+of the illness the
+
+1071
+00:47:20,870 --> 00:47:24,550
+person is in so whether
+they're manic or depressed
+
+1072
+00:47:24,550 --> 00:47:28,210
+okay so if they are
+currently in acute
+
+1073
+00:47:28,210 --> 00:47:30,810
+mania your second
+generation antipsychotics
+
+1074
+00:47:30,810 --> 00:47:34,010
+and mood stabilizers
+can be given as a mono
+
+1075
+00:47:34,010 --> 00:47:36,970
+or dual therapy so one
+or the other or both
+
+1076
+00:47:37,110 --> 00:47:40,770
+for acute depression
+we can use your second
+
+1077
+00:47:40,770 --> 00:47:44,790
+generation antipsychotics
+plus an ssri or
+
+1078
+00:47:44,790 --> 00:47:49,210
+other antidepressants
+monotherapy or adjunctive
+
+1079
+00:47:49,210 --> 00:47:51,430
+to a mood stabilizer
+like lithium so that
+
+1080
+00:47:51,430 --> 00:47:54,050
+was what we talked about
+beforehand about how
+
+1081
+00:47:54,050 --> 00:47:56,530
+you never want to give
+ssris on their own
+
+1082
+00:47:56,530 --> 00:47:58,390
+because it can actually
+make these manic
+
+1083
+00:47:58,390 --> 00:48:01,050
+symptoms worse but if
+we combine them with an
+
+1084
+00:48:01,050 --> 00:48:04,430
+antipsychotic or a mood
+stabilizer it can help
+
+1085
+00:48:04,430 --> 00:48:08,430
+with modifying and
+potentially eliminating
+
+1086
+00:48:08,430 --> 00:48:10,850
+a lot of the more severe
+depressive symptoms
+
+1087
+00:48:10,850 --> 00:48:14,270
+that can occur in
+bipolar disorder, right?
+
+1088
+00:48:14,490 --> 00:48:16,810
+Last but not least,
+we would want to
+
+1089
+00:48:16,810 --> 00:48:18,170
+definitely recommend
+therapy for these
+
+1090
+00:48:18,170 --> 00:48:19,910
+patients as well to
+assist with improving
+
+1091
+00:48:19,910 --> 00:48:22,030
+their insight into
+their mental illness,
+
+1092
+00:48:22,030 --> 00:48:23,670
+improving compliance
+to medications,
+
+1093
+00:48:23,670 --> 00:48:25,750
+and then teaching
+patients really how
+
+1094
+00:48:25,750 --> 00:48:27,290
+to better identify
+their mood changes
+
+1095
+00:48:27,290 --> 00:48:30,190
+and be aware of their
+own mental health.
+
+1096
+00:48:31,610 --> 00:48:34,670
+And so these are some
+summary slides coming
+
+1097
+00:48:34,670 --> 00:48:36,650
+up. I won't read
+through all of them.
+
+1098
+00:48:36,650 --> 00:48:40,970
+These are by all means
+not all inclusive but
+
+1099
+00:48:40,970 --> 00:48:44,090
+they synthesize the
+information very well
+
+1100
+00:48:44,090 --> 00:48:46,470
+so when you guys are
+coming back to review
+
+1101
+00:48:46,470 --> 00:48:48,390
+this lecture you guys
+can take a look at
+
+1102
+00:48:48,390 --> 00:48:51,150
+all of these little
+snippets or use them
+
+1103
+00:48:51,150 --> 00:48:53,890
+when you're making your
+flashcards here are
+
+1104
+00:48:53,890 --> 00:48:55,230
+all the references
+in case you guys want
+
+1105
+00:48:55,230 --> 00:48:57,110
+to dive any deeper into
+the information again
+
+1106
+00:48:57,110 --> 00:48:58,890
+i love first aid
+this should be your
+
+1107
+00:48:58,890 --> 00:49:03,600
+holy bible it has really
+good um short form
+
+1108
+00:49:03,600 --> 00:49:07,370
+articles and tables that
+you can read that'll
+
+1109
+00:49:07,370 --> 00:49:08,970
+help you really
+synthesize the information
+
+1110
+00:49:08,970 --> 00:49:11,690
+the DSM-5 itself
+is always a great
+
+1111
+00:49:11,690 --> 00:49:14,550
+primary source but it's
+a bit dense and then
+
+1112
+00:49:14,550 --> 00:49:16,430
+dirty medicine on
+YouTube has a bunch of
+
+1113
+00:49:16,430 --> 00:49:19,050
+really great videos
+going over a lot of the
+
+1114
+00:49:19,050 --> 00:49:21,250
+finer details and the
+high yield test taking
+
+1115
+00:49:21,250 --> 00:49:25,590
+materials so hopefully
+you guys enjoyed
+
+1116
+00:49:25,590 --> 00:49:27,930
+here is the feedback
+form and I'll catch
+
+1117
+00:49:27,930 --> 00:49:31,010
+you guys in the next
+lecture all right bye

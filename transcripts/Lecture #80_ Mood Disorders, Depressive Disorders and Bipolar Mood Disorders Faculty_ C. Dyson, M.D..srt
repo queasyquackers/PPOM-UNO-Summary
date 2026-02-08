@@ -1,0 +1,4901 @@
+1
+00:00:01,400 --> 00:00:03,360
+Hello everyone, it's
+Gio again, giving
+
+2
+00:00:03,360 --> 00:00:06,100
+you my second lecture
+for psychiatry.
+
+3
+00:00:06,100 --> 00:00:06,880
+Today we're going
+to be talking about
+
+4
+00:00:06,880 --> 00:00:08,980
+schizophrenia and
+psychotic disorders.
+
+5
+00:00:09,000 --> 00:00:11,160
+Before we begin, I'd
+also like to thank
+
+6
+00:00:11,160 --> 00:00:14,140
+Dr. Corey Dyson
+out in Arkansas for
+
+7
+00:00:14,140 --> 00:00:16,220
+helping me put this
+presentation together.
+
+8
+00:00:17,900 --> 00:00:19,940
+Before we jump into
+it, let's quickly
+
+9
+00:00:19,940 --> 00:00:22,380
+go over the session
+objectives. We're
+
+10
+00:00:22,380 --> 00:00:24,280
+going to really
+focus on the DSM-5
+
+11
+00:00:24,280 --> 00:00:25,920
+criteria for all
+the disorders that
+
+12
+00:00:25,920 --> 00:00:27,170
+we're going to be
+talking about today,
+
+13
+00:00:27,220 --> 00:00:29,210
+mainly schizophrenia
+and other psychotic
+
+14
+00:00:29,210 --> 00:00:30,920
+disorders. We're
+also going to try and
+
+15
+00:00:30,920 --> 00:00:33,060
+describe briefly the
+etiology and epidemiology
+
+16
+00:00:33,060 --> 00:00:34,580
+of all of them, as
+well as differentiate
+
+17
+00:00:34,580 --> 00:00:36,220
+between primary
+psychotic disorders
+
+18
+00:00:36,220 --> 00:00:38,600
+and secondary psychotic
+disorders. Last
+
+19
+00:00:38,600 --> 00:00:39,680
+but not least, we're
+going to want to
+
+20
+00:00:39,680 --> 00:00:42,800
+describe some of the
+treatments and evidence
+
+21
+00:00:42,800 --> 00:00:44,940
+-based assessments
+for each of these.
+
+22
+00:00:46,080 --> 00:00:48,320
+So one quick note
+before we start, if you
+
+23
+00:00:48,320 --> 00:00:49,740
+guys watched my last
+lecture, you already
+
+24
+00:00:49,740 --> 00:00:51,480
+know this, but anytime
+you see this blue
+
+25
+00:00:51,480 --> 00:00:53,680
+star, try to dial
+in and really focus
+
+26
+00:00:53,680 --> 00:00:55,860
+on what's being talked
+about there. You do
+
+27
+00:00:55,860 --> 00:00:58,060
+not need to memorize
+every single thing
+
+28
+00:00:58,060 --> 00:00:59,900
+in this PowerPoint.
+That would be crazy.
+
+29
+00:01:00,160 --> 00:01:03,080
+The whole goal of
+this is really to
+
+30
+00:01:03,080 --> 00:01:05,100
+understand the overall
+clinical picture,
+
+31
+00:01:05,100 --> 00:01:07,460
+not just memorizing
+all the details and
+
+32
+00:01:07,460 --> 00:01:09,560
+the buzzwords. So try
+your best with that.
+
+33
+00:01:12,500 --> 00:01:15,680
+So before we get
+started with the rest of
+
+34
+00:01:15,680 --> 00:01:17,580
+the lecture, let's take
+a quick look at this
+
+35
+00:01:17,580 --> 00:01:19,480
+clinical case. So
+our patient's name is
+
+36
+00:01:19,480 --> 00:01:21,720
+Gene. It's a 25-year
+-old male that presents
+
+37
+00:01:21,720 --> 00:01:23,240
+to the ED with the
+chief complaint of being
+
+38
+00:01:23,240 --> 00:01:25,060
+poisoned by his
+girlfriend and mother.
+
+39
+00:01:25,060 --> 00:01:27,460
+When you enter the room,
+he's been pacing but
+
+40
+00:01:27,460 --> 00:01:30,160
+he stops upon you
+entering you notice that
+
+41
+00:01:30,160 --> 00:01:31,840
+before you can introduce
+yourself his lips
+
+42
+00:01:31,840 --> 00:01:34,460
+are softly moving as
+if speaking to himself
+
+43
+00:01:34,460 --> 00:01:36,420
+he steps back when
+you extend your hand
+
+44
+00:01:36,420 --> 00:01:38,620
+to shake as you
+introduce yourself and he
+
+45
+00:01:38,620 --> 00:01:41,480
+provides brief abrupt
+short answers after
+
+46
+00:01:41,480 --> 00:01:43,660
+varying latency
+sometimes short sometimes
+
+47
+00:01:43,660 --> 00:01:46,100
+longer at times he
+appears distracted and
+
+48
+00:01:46,100 --> 00:01:48,080
+you need to then repeat
+some of your questions
+
+49
+00:01:48,080 --> 00:01:50,160
+he also looks around
+the room periodically
+
+50
+00:01:50,160 --> 00:01:52,740
+as if distracted or
+looking for someone
+
+51
+00:01:52,740 --> 00:01:56,120
+or something else
+when you inquire about
+
+52
+00:01:56,120 --> 00:01:59,000
+his past psychiatric
+hospitalizations gene
+
+53
+00:01:59,000 --> 00:02:00,580
+mumbles something
+under his breath about
+
+54
+00:02:00,580 --> 00:02:03,360
+hating those shots and
+the horrible nurses and
+
+55
+00:02:03,360 --> 00:02:05,380
+when you ask for
+clarification he simply
+
+56
+00:02:05,380 --> 00:02:07,840
+says never mind and
+refuses to answer any
+
+57
+00:02:07,840 --> 00:02:10,420
+more questions he
+minimizes the concern about
+
+58
+00:02:10,420 --> 00:02:12,240
+being poisoned and
+then asks if he could
+
+59
+00:02:12,240 --> 00:02:14,520
+go smoke *********
+now he begins to pace
+
+60
+00:02:14,520 --> 00:02:17,080
+again and begins to
+look more agitated it.
+
+61
+00:02:19,400 --> 00:02:21,640
+Taking a look at the
+ED chart, you have
+
+62
+00:02:21,640 --> 00:02:23,920
+no next of kin,
+and it's unknown if
+
+63
+00:02:23,920 --> 00:02:25,160
+the patient was
+living with someone or
+
+64
+00:02:25,160 --> 00:02:27,780
+alone. Also has no
+past medical history.
+
+65
+00:02:28,020 --> 00:02:31,520
+Limited physical
+exam due to limited
+
+66
+00:02:31,520 --> 00:02:34,080
+cooperation from the
+patient as well. In terms
+
+67
+00:02:34,080 --> 00:02:36,140
+of vitals, he's a
+febrile, pulse is a
+
+68
+00:02:36,140 --> 00:02:38,420
+little on the high side
+at 90, blood pressure
+
+69
+00:02:38,420 --> 00:02:40,360
+is significantly
+elevated, and respiratory
+
+70
+00:02:40,360 --> 00:02:43,100
+rate is on the upper
+limit of normal.
+
+71
+00:02:43,440 --> 00:02:45,700
+He's also agitated,
+making little to
+
+72
+00:02:45,700 --> 00:02:47,780
+no eye contact.
+Lungs were clear to
+
+73
+00:02:47,780 --> 00:02:50,060
+auscultation, cardio
+exam was fine,
+
+74
+00:02:50,260 --> 00:02:52,440
+abdomen was
+soft, currently
+
+75
+00:02:52,440 --> 00:02:54,320
+appears disheveled,
+this is just a
+
+76
+00:02:54,320 --> 00:02:55,780
+stock image that
+I found online,
+
+77
+00:02:56,060 --> 00:02:58,480
+as well as being
+poorly groomed
+
+78
+00:02:58,480 --> 00:02:59,960
+and having poor
+hygiene, and he
+
+79
+00:02:59,960 --> 00:03:01,480
+has little to
+no eye contact.
+
+80
+00:03:01,960 --> 00:03:04,680
+Urine tox is
+positive for THC, but
+
+81
+00:03:04,680 --> 00:03:06,860
+there is no alcohol,
+as well as no
+
+82
+00:03:06,860 --> 00:03:09,320
+poison or any other
+drugs of note.
+
+83
+00:03:11,440 --> 00:03:13,420
+When Gene's mom and
+girlfriend then show
+
+84
+00:03:13,420 --> 00:03:14,640
+up, they note that
+he's been hospitalized
+
+85
+00:03:14,640 --> 00:03:16,300
+a total of three
+times throughout his
+
+86
+00:03:16,300 --> 00:03:18,460
+life, and he was
+prescribed olanzapine,
+
+87
+00:03:18,460 --> 00:03:20,260
+but he stopped taking
+it about three months
+
+88
+00:03:20,260 --> 00:03:22,360
+ago. He has then
+struggled with his
+
+89
+00:03:22,360 --> 00:03:25,080
+mental health, starting
+at 21 years of age.
+
+90
+00:03:25,100 --> 00:03:27,100
+Recently, he has
+noted hearing voices
+
+91
+00:03:27,100 --> 00:03:30,020
+that tell him to,
+quote, do bad things.
+
+92
+00:03:31,780 --> 00:03:34,540
+So let's take a step
+back, and you guys
+
+93
+00:03:34,540 --> 00:03:36,080
+can pause here to
+think about it for a
+
+94
+00:03:36,080 --> 00:03:37,840
+second. What are the
+key points that we
+
+95
+00:03:37,840 --> 00:03:41,120
+can take away from
+this patient history?
+
+96
+00:03:41,120 --> 00:03:43,760
+If you guys were doing
+a question on UWorld
+
+97
+00:03:43,760 --> 00:03:45,360
+or any sort of test
+bank, or this was
+
+98
+00:03:45,360 --> 00:03:47,820
+on your comps. What
+would you pick out
+
+99
+00:03:48,380 --> 00:03:50,360
+from this patient
+history if this
+
+100
+00:03:50,360 --> 00:03:53,320
+was a big vignette
+in order to
+
+101
+00:03:53,320 --> 00:03:54,360
+point you in the
+right direction?
+
+102
+00:03:57,550 --> 00:03:59,220
+Okay, so I hope you
+guys had a chance
+
+103
+00:03:59,220 --> 00:04:00,820
+to pause if you'd
+like to. And
+
+104
+00:04:00,820 --> 00:04:02,200
+some of the key
+points that we need
+
+105
+00:04:02,200 --> 00:04:04,740
+to take a look at
+are as follows.
+
+106
+00:04:04,880 --> 00:04:06,700
+He appears to be
+entertaining an
+
+107
+00:04:06,700 --> 00:04:09,860
+internal dialogue
+that only he is
+
+108
+00:04:09,860 --> 00:04:11,980
+able to interact
+with or respond to
+
+109
+00:04:11,980 --> 00:04:14,420
+there was also
+notable flat affect
+
+110
+00:04:14,620 --> 00:04:17,120
+he also appears to
+be distracted looking
+
+111
+00:04:17,120 --> 00:04:19,100
+around searching for
+someone or something
+
+112
+00:04:19,460 --> 00:04:21,480
+multiple previous
+hospitalizations with
+
+113
+00:04:21,480 --> 00:04:24,700
+shots thc positive
+on the urine talks
+
+114
+00:04:24,700 --> 00:04:27,440
+there was a lack of
+eye contact during
+
+115
+00:04:27,440 --> 00:04:29,780
+the encounter
+looking down looking
+
+116
+00:04:29,780 --> 00:04:32,320
+around the room it's
+also noted as having
+
+117
+00:04:32,480 --> 00:04:35,360
+hallucinations and
+delusions, okay? And what
+
+118
+00:04:35,360 --> 00:04:37,960
+could this entail,
+right? He's believing
+
+119
+00:04:37,960 --> 00:04:40,720
+that his loved ones
+poisoned him as well as
+
+120
+00:04:40,720 --> 00:04:42,960
+hearing voices, right?
+So loved ones poisoning
+
+121
+00:04:42,960 --> 00:04:45,080
+him could be a delusion
+and then hearing
+
+122
+00:04:45,080 --> 00:04:47,360
+voices could be an
+auditory hallucination.
+
+123
+00:04:47,700 --> 00:04:49,060
+And last but not
+least, he was
+
+124
+00:04:49,060 --> 00:04:50,400
+prescribed an
+antipsychotic
+
+125
+00:04:50,400 --> 00:04:52,140
+and stopped taking
+it recently.
+
+126
+00:04:54,760 --> 00:04:59,120
+So what do we know
+about making any type
+
+127
+00:04:59,120 --> 00:05:00,760
+of psychiatric
+diagnosis? Well, before
+
+128
+00:05:00,760 --> 00:05:03,320
+we jump into it, we
+first need to rule
+
+129
+00:05:03,320 --> 00:05:06,400
+out all other non
+-psychiatric causes,
+
+130
+00:05:06,400 --> 00:05:08,100
+right? We had to do
+the same thing in the
+
+131
+00:05:08,100 --> 00:05:10,020
+previous lecture
+with those cases when
+
+132
+00:05:10,020 --> 00:05:11,750
+we talked about
+depression and bipolar
+
+133
+00:05:11,750 --> 00:05:13,740
+disorders. So what
+else could present with
+
+134
+00:05:13,740 --> 00:05:15,680
+this constellation
+of symptoms, right?
+
+135
+00:05:15,950 --> 00:05:17,240
+Potentially,
+there's some sort
+
+136
+00:05:17,240 --> 00:05:18,680
+of dementia,
+maybe Niemann-Pick
+
+137
+00:05:18,680 --> 00:05:20,440
+disease, a Lewy
+body disease,
+
+138
+00:05:20,560 --> 00:05:23,320
+even early-onset
+Parkinson's disease in
+
+139
+00:05:23,320 --> 00:05:26,280
+young patients that have
+a genetic predisposition
+
+140
+00:05:26,360 --> 00:05:28,480
+to it will initially
+present with
+
+141
+00:05:28,480 --> 00:05:31,100
+psychotic symptoms mimicking
+schizophrenia could
+
+142
+00:05:31,100 --> 00:05:33,700
+be some sort of toxin
+or substance use that
+
+143
+00:05:33,700 --> 00:05:35,680
+wasn't picked up on
+the urine tox there's
+
+144
+00:05:35,680 --> 00:05:38,160
+a bunch of different
+things that could be
+
+145
+00:05:38,160 --> 00:05:41,640
+causing this but we
+need to rule out all of
+
+146
+00:05:41,640 --> 00:05:44,520
+these before we
+immediately jump to that
+
+147
+00:05:44,520 --> 00:05:48,180
+psychiatric diagnosis
+all right and this is
+
+148
+00:05:48,180 --> 00:05:49,960
+just repeating what
+i said we must always
+
+149
+00:05:49,960 --> 00:05:52,300
+rule out other medical
+conditions first before
+
+150
+00:05:52,300 --> 00:05:54,560
+we go and make a
+psychiatric diagnosis.
+
+151
+00:05:56,020 --> 00:05:59,440
+Okay, and just for
+posterity, let's put
+
+152
+00:05:59,440 --> 00:06:01,580
+this differential
+diagnosis for the
+
+153
+00:06:01,580 --> 00:06:04,600
+psychiatric causes here,
+right? So it could be
+
+154
+00:06:04,600 --> 00:06:06,560
+some sort of substance
+use disorder, it
+
+155
+00:06:06,560 --> 00:06:08,460
+could be a schizophrenia
+or psychotic
+
+156
+00:06:08,460 --> 00:06:11,360
+disorder, it could
+even be a depressive
+
+157
+00:06:11,360 --> 00:06:14,220
+disorder or a bipolar
+disorder that presents
+
+158
+00:06:14,220 --> 00:06:18,140
+with psychotic
+features, right? So many
+
+159
+00:06:18,140 --> 00:06:20,180
+different things to
+consider when we're
+
+160
+00:06:20,180 --> 00:06:21,940
+trying to narrow down
+our differential.
+
+161
+00:06:22,790 --> 00:06:25,740
+Well, the first thing
+we need to do is run
+
+162
+00:06:25,740 --> 00:06:27,420
+a couple different
+labs. We want to get
+
+163
+00:06:27,420 --> 00:06:31,240
+a good CBC and CMP. We
+want to see that all
+
+164
+00:06:31,240 --> 00:06:33,480
+of the metabolic
+markers that we normally
+
+165
+00:06:33,480 --> 00:06:36,060
+are going to check
+are doing well, right?
+
+166
+00:06:36,060 --> 00:06:37,540
+We want to make
+sure that nothing is
+
+167
+00:06:37,540 --> 00:06:39,780
+elevated, that there
+are no abnormal vital
+
+168
+00:06:39,780 --> 00:06:42,180
+signs, that there's
+no indications for any
+
+169
+00:06:42,180 --> 00:06:45,740
+sort of cancer or
+any infective process
+
+170
+00:06:45,740 --> 00:06:48,480
+that could be causing
+this constellation of
+
+171
+00:06:50,580 --> 00:06:54,620
+symptoms. So question
+two, in our preliminary
+
+172
+00:06:54,620 --> 00:06:56,600
+lab results, we
+find that everything
+
+173
+00:06:56,600 --> 00:06:59,480
+is unremarkable. The
+patient then begins
+
+174
+00:06:59,480 --> 00:07:01,760
+yelling and threatening
+to hit anyone who
+
+175
+00:07:01,760 --> 00:07:03,940
+gets close to him and
+******* on the walls.
+
+176
+00:07:04,390 --> 00:07:05,770
+What do we
+want to do now?
+
+177
+00:07:05,980 --> 00:07:08,640
+And has our
+differential changed?
+
+178
+00:07:10,920 --> 00:07:12,500
+Okay, so here are
+a couple of the
+
+179
+00:07:12,500 --> 00:07:14,500
+different things that
+we could do for this
+
+180
+00:07:14,500 --> 00:07:17,120
+patient right now.
+First is admission
+
+181
+00:07:17,120 --> 00:07:19,320
+to a psychiatric
+hospital, right? So
+
+182
+00:07:19,320 --> 00:07:21,060
+we might want to
+possibly initiate a 72
+
+183
+00:07:21,060 --> 00:07:22,600
+-hour hold if they're
+unwilling to go
+
+184
+00:07:22,600 --> 00:07:24,370
+to the hospital on
+a voluntary basis.
+
+185
+00:07:24,420 --> 00:07:29,860
+And it's up to the
+clinician, the psychiatrist
+
+186
+00:07:29,860 --> 00:07:31,720
+at the hospital in
+order to determine
+
+187
+00:07:31,720 --> 00:07:33,500
+whether or not the
+patient is a danger to
+
+188
+00:07:33,500 --> 00:07:35,000
+themselves or others,
+and if they'd benefit
+
+189
+00:07:35,000 --> 00:07:38,260
+from the 72-hour hold.
+We can also try verbal
+
+190
+00:07:38,260 --> 00:07:40,190
+de-escalation, right?
+Using communication
+
+191
+00:07:40,190 --> 00:07:42,320
+strategies to calm the
+patient, help reduce
+
+192
+00:07:42,320 --> 00:07:45,120
+agitation, but this
+could also backfire.
+
+193
+00:07:45,220 --> 00:07:47,250
+it might make
+the patient more
+
+194
+00:07:47,250 --> 00:07:49,700
+confrontational. They
+might not be able to be
+
+195
+00:07:49,700 --> 00:07:51,680
+de-escalated, in
+which case we always
+
+196
+00:07:51,680 --> 00:07:54,040
+want to have a backup
+plan, okay? Very
+
+197
+00:07:54,040 --> 00:07:57,560
+unassuming, non
+-threatening posture, but
+
+198
+00:07:57,560 --> 00:08:00,160
+also close to the
+exit of the room if we
+
+199
+00:08:00,160 --> 00:08:02,800
+need to escape in
+a hurry, all right?
+
+200
+00:08:03,120 --> 00:08:04,800
+Another thing that
+we can think about is
+
+201
+00:08:04,800 --> 00:08:06,900
+medical intervention,
+so we can use some sort
+
+202
+00:08:06,900 --> 00:08:08,780
+of sedative. They
+used to use some drug
+
+203
+00:08:08,780 --> 00:08:11,200
+cocktails in the past,
+but now we're recommending
+
+204
+00:08:11,200 --> 00:08:15,440
+im injection of
+ziprazadone or geodine
+
+205
+00:08:15,440 --> 00:08:18,100
+is the name brand for
+it ziprazadone is a
+
+206
+00:08:18,100 --> 00:08:20,500
+second generation
+antipsychotic in the past
+
+207
+00:08:20,500 --> 00:08:22,500
+you might hear people
+using haldol sometimes
+
+208
+00:08:22,500 --> 00:08:24,580
+haldol still used in
+an emergency department
+
+209
+00:08:24,580 --> 00:08:27,180
+for aggressive
+patients but really in
+
+210
+00:08:27,180 --> 00:08:29,220
+the psychiatry field
+we want to try and use
+
+211
+00:08:29,220 --> 00:08:31,320
+ziprazadone now
+instead simply for the
+
+212
+00:08:31,320 --> 00:08:33,520
+fact that these drug
+cocktails could potentially
+
+213
+00:08:33,520 --> 00:08:35,520
+sedate the patient
+for upwards of 24
+
+214
+00:08:35,520 --> 00:08:37,660
+hours with the ziprazadone
+we're going to be
+
+215
+00:08:37,660 --> 00:08:39,500
+able to get in there
+and start to help them
+
+216
+00:08:39,500 --> 00:08:42,260
+once their aggression
+is minimized. And
+
+217
+00:08:42,260 --> 00:08:43,980
+last but not least,
+if you were thinking
+
+218
+00:08:43,980 --> 00:08:46,080
+restraint and seclusion,
+this used to be done
+
+219
+00:08:46,080 --> 00:08:47,580
+in the past, but it
+really is no longer
+
+220
+00:08:47,580 --> 00:08:50,140
+recommended. We can set
+up one-to-ones with a
+
+221
+00:08:50,140 --> 00:08:53,380
+nurse or like a CNA,
+a certified nursing
+
+222
+00:08:53,380 --> 00:08:55,700
+assistant, if we do have
+available personnel.
+
+223
+00:08:57,780 --> 00:09:00,560
+All right, with all
+of that out the way,
+
+224
+00:09:00,560 --> 00:09:03,760
+let's jump into talking
+about what a lot of you
+
+225
+00:09:03,760 --> 00:09:05,740
+guys were probably
+thinking when we read
+
+226
+00:09:05,740 --> 00:09:08,940
+that patient uh vignette
+and we're going to
+
+227
+00:09:08,940 --> 00:09:11,200
+talk about schizophrenia
+now so according to
+
+228
+00:09:11,200 --> 00:09:14,520
+the dsm-5 in order to
+diagnose schizophrenia
+
+229
+00:09:14,520 --> 00:09:18,020
+we need greater than or
+equal to two symptoms
+
+230
+00:09:18,020 --> 00:09:20,520
+from the following
+list at least one of
+
+231
+00:09:20,520 --> 00:09:23,100
+those symptoms must
+be a psychotic symptom
+
+232
+00:09:23,100 --> 00:09:25,380
+and psychotic symptoms
+have the little asterisks
+
+233
+00:09:25,380 --> 00:09:26,680
+next to them those
+would be delusions
+
+234
+00:09:26,680 --> 00:09:29,920
+hallucinations and
+disorganized speech these
+
+235
+00:09:29,920 --> 00:09:33,360
+must also be present
+for at least six months
+
+236
+00:09:33,940 --> 00:09:38,810
+greater than or equal
+to one month of active
+
+237
+00:09:38,810 --> 00:09:40,980
+symptoms. So what
+does that mean? If we
+
+238
+00:09:40,980 --> 00:09:44,160
+have one week of symptoms
+separated by three
+
+239
+00:09:44,160 --> 00:09:46,740
+months, and then another
+week of symptoms,
+
+240
+00:09:46,740 --> 00:09:48,420
+and then another three
+months, that would
+
+241
+00:09:48,420 --> 00:09:51,180
+not constitute a diagnosis
+of schizophrenia.
+
+242
+00:09:51,180 --> 00:09:53,560
+You must have at
+least or equal to or
+
+243
+00:09:53,560 --> 00:09:55,700
+greater than one month
+of active symptoms.
+
+244
+00:09:55,920 --> 00:09:58,340
+The other symptoms
+on this list, grossly
+
+245
+00:09:58,340 --> 00:10:00,920
+disorganized or catatonic
+behavior, and negative
+
+246
+00:10:00,920 --> 00:10:03,640
+symptoms, while not
+psychotic symptoms,
+
+247
+00:10:03,700 --> 00:10:06,360
+we can have either
+of these paired with
+
+248
+00:10:06,360 --> 00:10:08,360
+either delusion,
+hallucination,
+
+249
+00:10:08,360 --> 00:10:10,640
+disorganized speech,
+or maybe even multiple.
+
+250
+00:10:12,950 --> 00:10:14,860
+Now, another term you
+guys might have heard
+
+251
+00:10:14,860 --> 00:10:16,780
+in the past, either
+through MCAT or previous
+
+252
+00:10:16,780 --> 00:10:19,720
+psychology classes or
+lectures, is positive
+
+253
+00:10:19,720 --> 00:10:21,400
+and negative symptoms.
+So what exactly
+
+254
+00:10:21,400 --> 00:10:23,740
+does that mean, right?
+In psychology and
+
+255
+00:10:23,740 --> 00:10:26,880
+psychiatry, positive
+basically means the addition
+
+256
+00:10:26,880 --> 00:10:28,680
+of something that
+wasn't there before. It
+
+257
+00:10:28,680 --> 00:10:30,860
+doesn't mean that it's
+a good thing per se,
+
+258
+00:10:31,040 --> 00:10:33,580
+okay? In this
+case, delusions,
+
+259
+00:10:33,680 --> 00:10:36,820
+hallucinations, and
+disorganized speech count
+
+260
+00:10:36,820 --> 00:10:38,960
+as positive, right?
+Delusions and
+
+261
+00:10:38,960 --> 00:10:41,860
+hallucinations, some
+of the patient's
+
+262
+00:10:41,860 --> 00:10:43,940
+senses could be
+playing tricks on them,
+
+263
+00:10:44,300 --> 00:10:48,080
+adding in stimuli
+that really isn't
+
+264
+00:10:48,080 --> 00:10:50,240
+there in the real
+world, right? So
+
+265
+00:10:50,240 --> 00:10:51,820
+that's kind of
+what we think of as
+
+266
+00:10:51,820 --> 00:10:53,780
+positive, the
+addition of something.
+
+267
+00:10:54,260 --> 00:10:55,720
+Conversely, negative
+is going to mean that
+
+268
+00:10:55,720 --> 00:10:58,220
+we take something away,
+right? So this would
+
+269
+00:10:58,220 --> 00:11:00,960
+mean we take away
+emotion from speaking, we
+
+270
+00:11:00,960 --> 00:11:03,100
+get flattened affect.
+Maybe there's just
+
+271
+00:11:03,100 --> 00:11:06,180
+reduced speech overall,
+right? Or maybe there's
+
+272
+00:11:06,180 --> 00:11:08,840
+a lack of initiative
+and agency on the
+
+273
+00:11:08,840 --> 00:11:11,880
+patient's part. They have
+no motivation, right?
+
+274
+00:11:13,220 --> 00:11:17,260
+Now, let's dive in a
+little deeper into all
+
+275
+00:11:17,260 --> 00:11:20,300
+of these psychotic
+symptoms, right? A delusion,
+
+276
+00:11:20,300 --> 00:11:22,680
+simply a fixed false
+belief. In this case
+
+277
+00:11:22,680 --> 00:11:24,680
+with gene he believes
+that his family
+
+278
+00:11:24,680 --> 00:11:28,140
+poisoned him okay
+hallucinations are
+just perceptions
+
+279
+00:11:28,140 --> 00:11:30,160
+without external
+stimuli and it could
+
+280
+00:11:30,160 --> 00:11:33,310
+be any sensory modality
+in this case hearing
+
+281
+00:11:33,310 --> 00:11:35,900
+voices okay last but
+not least we have
+
+282
+00:11:35,900 --> 00:11:38,400
+disorganized speech which
+is simply the loosening
+
+283
+00:11:38,400 --> 00:11:41,040
+of different associations
+derailment or
+
+284
+00:11:41,820 --> 00:11:44,620
+incoherence and what
+does that mean basically
+
+285
+00:11:44,620 --> 00:11:47,620
+think of very similar
+to your flight of ideas
+
+286
+00:11:47,620 --> 00:11:50,160
+that we talked about
+with bipolar disorder
+
+287
+00:11:50,160 --> 00:11:52,320
+except instead of
+jumping between multiple
+
+288
+00:11:52,320 --> 00:11:54,500
+different topics this
+is kind of coming out
+
+289
+00:11:54,500 --> 00:11:57,960
+as a word salad with no
+tangential trajectory
+
+290
+00:11:57,960 --> 00:12:01,200
+for the conversation
+or whatever topic that
+
+291
+00:12:01,200 --> 00:12:03,960
+person is trying to
+get across it's just
+
+292
+00:12:03,960 --> 00:12:09,900
+completely disorganized
+now a quick note on
+
+293
+00:12:09,900 --> 00:12:11,500
+hallucinations we talked
+about how they can
+
+294
+00:12:11,500 --> 00:12:13,840
+affect any sensation
+but let's talk about the
+
+295
+00:12:13,840 --> 00:12:16,200
+most common and least
+common ones that you're
+
+296
+00:12:16,200 --> 00:12:18,080
+most likely to encounter
+at a patient with
+
+297
+00:12:18,080 --> 00:12:21,440
+schizophrenia auditory
+and visual hallucinations
+
+298
+00:12:21,440 --> 00:12:24,320
+are the two most
+common auditory being
+
+299
+00:12:24,320 --> 00:12:27,170
+the first visual being
+the second olfactory
+
+300
+00:12:27,640 --> 00:12:30,080
+hallucinations are
+pretty uncommon for
+
+301
+00:12:30,080 --> 00:12:32,820
+schizophrenia but they are
+more common in temporal
+
+302
+00:12:32,820 --> 00:12:34,940
+lobe epilepsy so
+that can help you to
+
+303
+00:12:34,940 --> 00:12:39,420
+distinguish the two
+types of pathology in any
+
+304
+00:12:39,420 --> 00:12:41,920
+sort of question stem
+additionally there are
+
+305
+00:12:41,920 --> 00:12:44,840
+tactile hallucinations
+which are typical of
+
+306
+00:12:44,840 --> 00:12:47,080
+******* and amphetamine
+use, as well as alcohol
+
+307
+00:12:47,080 --> 00:12:49,240
+withdrawal. An example
+of this would be
+
+308
+00:12:49,240 --> 00:12:51,500
+like feeling bugs are
+crawling on your skin.
+
+309
+00:12:52,160 --> 00:12:55,200
+Meanwhile, somatic
+hallucinations involve
+
+310
+00:12:55,200 --> 00:12:58,180
+a sensation from within
+the body, and they
+
+311
+00:12:58,180 --> 00:13:00,600
+are pretty obvious
+if they're bizarre.
+
+312
+00:13:00,600 --> 00:13:02,980
+A good example of that
+is Ekbom syndrome,
+
+313
+00:13:03,180 --> 00:13:06,860
+also known as delusional
+parasitosis. So
+
+314
+00:13:06,860 --> 00:13:08,700
+basically what that
+is, is just a fixed
+
+315
+00:13:08,700 --> 00:13:12,640
+false belief that the
+patient is infested with
+
+316
+00:13:12,640 --> 00:13:16,540
+parasites okay um and
+then lastly we have
+
+317
+00:13:16,540 --> 00:13:19,980
+gustatory uh which
+are going to be
+
+318
+00:13:19,980 --> 00:13:23,160
+hallucinations from the
+sense of taste and those
+
+319
+00:13:23,160 --> 00:13:25,360
+are exceedingly rare
+in schizophrenia
+
+320
+00:13:27,680 --> 00:13:30,440
+all right let's also
+talk a little bit about
+
+321
+00:13:30,440 --> 00:13:34,040
+different types of
+delusions that any
+
+322
+00:13:34,040 --> 00:13:35,980
+patient could experience
+with schizophrenia.
+
+323
+00:13:35,980 --> 00:13:38,280
+So as a reminder,
+delusions are false,
+
+324
+00:13:38,400 --> 00:13:40,040
+non-culturally
+sanctioned beliefs
+
+325
+00:13:40,040 --> 00:13:42,220
+that are held
+with conviction,
+
+326
+00:13:42,420 --> 00:13:44,940
+even in the face of
+overwhelming evidence
+
+327
+00:13:44,940 --> 00:13:47,620
+to the contrary. And
+this last part is key.
+
+328
+00:13:47,620 --> 00:13:49,720
+So let's talk
+about some of them.
+
+329
+00:13:49,720 --> 00:13:52,480
+First, we have
+persecutory or paranoid
+
+330
+00:13:52,480 --> 00:13:54,140
+delusions, which
+are most common in
+
+331
+00:13:54,140 --> 00:13:56,400
+schizophrenia or
+delusional disorders.
+
+332
+00:13:56,640 --> 00:13:58,020
+The belief that the
+
+333
+00:13:58,020 --> 00:13:59,380
+person is being pursued,
+
+334
+00:13:59,460 --> 00:14:04,040
+stalked, framed, or
+tricked is key for
+
+335
+00:14:04,040 --> 00:14:07,240
+classifying this as a
+persecutory or paranoid
+
+336
+00:14:07,250 --> 00:14:10,660
+delusion. Then there
+are ideas of reference,
+
+337
+00:14:10,660 --> 00:14:12,120
+thinking that
+things like the news
+
+338
+00:14:12,120 --> 00:14:15,220
+or the paper are talking
+about or to them.
+
+339
+00:14:15,460 --> 00:14:18,080
+Then there's grandiose
+delusions, believing
+
+340
+00:14:18,080 --> 00:14:20,280
+that some agency
+has taken control of
+
+341
+00:14:20,280 --> 00:14:22,220
+their thoughts,
+feelings, and behaviors.
+
+342
+00:14:22,380 --> 00:14:25,560
+Next, there's somatic
+delusions. Part of the
+
+343
+00:14:25,560 --> 00:14:29,800
+body is feeling like
+it has been diseased
+
+344
+00:14:29,800 --> 00:14:32,520
+or is malfunctioning
+in some particular way.
+
+345
+00:14:32,820 --> 00:14:35,420
+Then there's nihilism,
+which is an exaggerated
+
+346
+00:14:35,420 --> 00:14:38,040
+belief in the futility
+of everything,
+
+347
+00:14:38,200 --> 00:14:38,720
+okay?
+
+348
+00:14:39,460 --> 00:14:41,740
+Next, we have
+delusions of love.
+
+349
+00:14:41,740 --> 00:14:44,660
+This also used to be
+called erotomania, in
+
+350
+00:14:44,660 --> 00:14:46,820
+which patients feel
+loved by another person,
+
+351
+00:14:47,000 --> 00:14:49,720
+often of a higher
+status, who is merely
+
+352
+00:14:49,720 --> 00:14:51,720
+just an innocent
+bystander. This could be
+
+353
+00:14:51,720 --> 00:14:55,020
+a boss at work, This
+could be a celebrity.
+
+354
+00:14:55,020 --> 00:14:58,140
+This could be a
+crush that doesn't
+
+355
+00:14:58,140 --> 00:15:00,140
+even know that the
+patient exists, right?
+
+356
+00:15:00,140 --> 00:15:02,140
+Those all constitute
+delusions of love.
+
+357
+00:15:02,640 --> 00:15:04,840
+Then there's
+delusions of jealousy.
+
+358
+00:15:04,840 --> 00:15:06,580
+This one's pretty
+simple, suspecting
+
+359
+00:15:06,580 --> 00:15:09,720
+someone of being
+unfaithful, all right? And
+
+360
+00:15:09,720 --> 00:15:10,960
+then last but not
+least, this one's my
+
+361
+00:15:10,960 --> 00:15:12,780
+favorite. This is
+called delusions of
+
+362
+00:15:12,780 --> 00:15:14,180
+doubles, and I actually
+got to see this in
+
+363
+00:15:14,180 --> 00:15:16,400
+the hospital, which
+was kind of surreal.
+
+364
+00:15:16,460 --> 00:15:17,980
+But basically,
+
+365
+00:15:19,020 --> 00:15:21,400
+delusions of doubles is
+also known as Capgras
+
+366
+00:15:21,400 --> 00:15:25,260
+syndrome. and it
+describes when a patient
+
+367
+00:15:25,260 --> 00:15:27,360
+believes that a family
+member or a close
+
+368
+00:15:27,360 --> 00:15:31,740
+friend has been an
+identically appearing double
+
+369
+00:15:31,740 --> 00:15:35,580
+so as if they've been
+replaced by a cyborg
+
+370
+00:15:35,580 --> 00:15:38,460
+or an alien that
+looks just like them i
+
+371
+00:15:38,460 --> 00:15:40,680
+think of like the scrolls
+if you know marvel
+
+372
+00:15:40,680 --> 00:15:43,720
+or any other type of
+sci-fi medium in which
+
+373
+00:15:43,720 --> 00:15:47,140
+humans are slowly
+replaced with um with body
+
+374
+00:15:47,140 --> 00:15:49,680
+doubles right this is
+also more common in
+
+375
+00:15:49,680 --> 00:15:52,840
+dementias but it can
+still be seen as a
+
+376
+00:15:52,840 --> 00:15:58,860
+delusion within schizophrenia
+itself next let's
+
+377
+00:15:58,860 --> 00:16:00,440
+talk a little bit about
+disorganized speech
+
+378
+00:16:00,440 --> 00:16:03,600
+which is just odd
+bizarre behavior such as
+
+379
+00:16:03,600 --> 00:16:05,940
+smiling laughing
+inappropriately responding
+
+380
+00:16:05,940 --> 00:16:09,500
+to internal stimuli etc
+and often more often
+
+381
+00:16:09,500 --> 00:16:12,520
+than not it's purposeless
+and this ambivalent
+
+382
+00:16:12,520 --> 00:16:14,960
+behavior or movements
+might also be
+
+383
+00:16:14,960 --> 00:16:17,760
+accompanied by random
+intermittent agitation
+
+384
+00:16:17,910 --> 00:16:20,640
+this might also encompass
+things like having
+
+385
+00:16:20,640 --> 00:16:22,800
+a disheveled attire
+unusual inappropriate
+
+386
+00:16:22,800 --> 00:16:26,430
+attire etc as well as
+disjointed speech patterns
+
+387
+00:16:26,430 --> 00:16:28,000
+and different behaviors
+that are going to
+
+388
+00:16:28,000 --> 00:16:31,060
+reflect disorganized
+thinking this could be
+
+389
+00:16:31,060 --> 00:16:35,740
+perseveration tangential
+speech word salad
+
+390
+00:16:35,740 --> 00:16:39,480
+and the use of
+neologisms neologisms are
+
+391
+00:16:39,480 --> 00:16:42,040
+just making up new words
+or slang often combining
+
+392
+00:16:42,040 --> 00:16:43,900
+or creating different
+words together
+
+393
+00:16:43,900 --> 00:16:46,060
+think about like brunch
+which is brunch and
+
+394
+00:16:46,060 --> 00:16:49,220
+lunch or blending words
+which is just smog
+
+395
+00:16:49,220 --> 00:16:53,220
+right um maybe even
+shortening words like turning
+
+396
+00:16:53,220 --> 00:16:56,100
+mathematics into math
+and perseveration
+
+397
+00:16:56,100 --> 00:16:57,820
+is basically just
+repeating the same things
+
+398
+00:16:57,820 --> 00:16:59,820
+over and over and over
+again involuntarily
+
+399
+00:17:00,360 --> 00:17:02,100
+repeating the same
+words repeating
+
+400
+00:17:02,100 --> 00:17:04,480
+the same phrases
+things of that nature
+
+401
+00:17:06,450 --> 00:17:07,880
+next we're going to
+talk a little bit
+
+402
+00:17:07,880 --> 00:17:10,480
+about catatonia which
+is categorized by the
+
+403
+00:17:10,480 --> 00:17:12,900
+presence of greater
+than or equal to three
+
+404
+00:17:12,900 --> 00:17:16,780
+of the following 12
+symptoms of marked
+
+405
+00:17:16,780 --> 00:17:18,900
+motor disturbances.
+So when we're talking
+
+406
+00:17:18,900 --> 00:17:20,140
+about catatonia,
+we're specifically
+
+407
+00:17:20,140 --> 00:17:23,290
+talking about motor
+disturbances and motor
+
+408
+00:17:23,290 --> 00:17:24,780
+symptoms, all right?
+So let's jump into it
+
+409
+00:17:24,780 --> 00:17:26,080
+and let's talk a
+little bit about each.
+
+410
+00:17:26,460 --> 00:17:28,980
+Stupor is very simple.
+It's just not actively
+
+411
+00:17:28,980 --> 00:17:31,400
+relating to the
+environment at all. Think
+
+412
+00:17:31,400 --> 00:17:34,480
+about just that loafy
+day that you have on
+
+413
+00:17:34,480 --> 00:17:37,980
+the couch where you
+really just kind of veg
+
+414
+00:17:37,980 --> 00:17:40,560
+out and forget about
+the outside world that
+
+415
+00:17:40,560 --> 00:17:43,440
+would be stupor right but
+this is to a debilitating
+
+416
+00:17:43,440 --> 00:17:45,960
+effect then there's
+cataplexy which is
+
+417
+00:17:45,960 --> 00:17:48,260
+just sudden temporary
+loss of muscle control
+
+418
+00:17:48,260 --> 00:17:51,080
+um can be triggered
+by strong emotions as
+
+419
+00:17:51,080 --> 00:17:54,520
+well like laughter
+surprise or anger there
+
+420
+00:17:54,520 --> 00:17:57,620
+might also be waxy
+flexibility which is simply
+
+421
+00:17:57,620 --> 00:18:00,560
+just when people's
+limbs remain in whatever
+
+422
+00:18:00,560 --> 00:18:03,020
+position they're placed
+in especially when
+
+423
+00:18:03,020 --> 00:18:04,700
+they're moved there
+by someone else think
+
+424
+00:18:04,700 --> 00:18:06,860
+about it like posturing
+a doll or an action
+
+425
+00:18:06,860 --> 00:18:09,620
+figure Then there's
+mutism, which is self
+
+426
+00:18:09,620 --> 00:18:13,120
+-explanatory, no or very
+little verbal response.
+
+427
+00:18:13,590 --> 00:18:16,000
+Negativism, which
+is simply the
+
+428
+00:18:16,000 --> 00:18:19,500
+opposition or having
+no response to given
+
+429
+00:18:19,500 --> 00:18:21,920
+instructions from
+some sort of outside
+
+430
+00:18:21,920 --> 00:18:24,840
+stimulus or
+healthcare provider.
+
+431
+00:18:25,180 --> 00:18:28,080
+posturing which is just
+spontaneous and active
+
+432
+00:18:28,080 --> 00:18:30,460
+maintenance of a
+posture against gravity
+
+433
+00:18:30,780 --> 00:18:33,680
+so this is different
+from waxy flexibility
+
+434
+00:18:33,680 --> 00:18:37,140
+because posturing
+happens of the patient's
+
+435
+00:18:37,140 --> 00:18:39,080
+own volition or it
+might not be of their
+
+436
+00:18:39,080 --> 00:18:40,260
+own volition and it
+might be something
+
+437
+00:18:40,260 --> 00:18:43,140
+randomly that happens
+but the point is that
+
+438
+00:18:43,140 --> 00:18:45,720
+they are not placed
+in this position by
+
+439
+00:18:45,720 --> 00:18:47,930
+someone else they do
+it on their own then
+
+440
+00:18:48,000 --> 00:18:51,240
+there's mannerism
+which is just odd uh
+
+441
+00:18:51,240 --> 00:18:53,780
+caricatures of normal
+actions like peculiar
+
+442
+00:18:53,780 --> 00:18:56,280
+ways of dressing or
+performing everyday tasks
+
+443
+00:18:56,280 --> 00:18:58,980
+that might differ
+from the status quo.
+
+444
+00:18:59,260 --> 00:19:02,220
+Then we have
+stereotyping, which is
+
+445
+00:19:02,220 --> 00:19:04,920
+just repetitive,
+abnormally frequent,
+
+446
+00:19:05,100 --> 00:19:09,410
+non-goal-directed
+movements, kind of like
+
+447
+00:19:09,410 --> 00:19:12,260
+motor tics that you
+might experience in
+
+448
+00:19:12,260 --> 00:19:13,900
+Tourette's syndrome.
+Then there's
+
+449
+00:19:13,900 --> 00:19:16,520
+agitation, but specifically
+agitation that is
+
+450
+00:19:16,520 --> 00:19:19,480
+not influenced by
+any external stimuli.
+
+451
+00:19:20,060 --> 00:19:22,740
+Grimacing, which is
+excessive frowning or
+
+452
+00:19:22,740 --> 00:19:25,780
+teeth bearing. Then
+there's ecolalia, which
+
+453
+00:19:25,780 --> 00:19:28,280
+is mimicking another's
+speech. Not to be
+
+454
+00:19:28,280 --> 00:19:31,220
+confused with echoproxia,
+which is mimicking
+
+455
+00:19:31,220 --> 00:19:34,780
+another's movements.
+So quick thing to
+
+456
+00:19:34,780 --> 00:19:37,300
+note, do you need to
+memorize each and every
+
+457
+00:19:37,300 --> 00:19:42,400
+single aspect? No.
+But in a setting where
+
+458
+00:19:42,400 --> 00:19:45,660
+you're given a clinical
+vignette or some
+
+459
+00:19:45,660 --> 00:19:48,160
+sort of question that
+you need to answer,
+
+460
+00:19:48,160 --> 00:19:50,870
+being able to identify
+these different
+
+461
+00:19:50,870 --> 00:19:53,780
+aspects of catatonia
+might help to get you to
+
+462
+00:19:53,780 --> 00:19:55,520
+the correct answer a
+little bit quicker.
+
+463
+00:19:57,520 --> 00:19:59,540
+Now, let's talk
+about a couple of the
+
+464
+00:19:59,540 --> 00:20:01,320
+negative symptoms of
+schizophrenia, right?
+
+465
+00:20:01,320 --> 00:20:03,060
+We've talked about
+blunted or flat affect
+
+466
+00:20:03,060 --> 00:20:06,240
+before, but there's
+also a lochia, which
+
+467
+00:20:06,240 --> 00:20:08,680
+is just poverty of
+speech, inability to
+
+468
+00:20:08,680 --> 00:20:12,220
+speak as much, or
+having a limited number
+
+469
+00:20:12,220 --> 00:20:14,260
+of words that you're
+able to utilize.
+
+470
+00:20:15,040 --> 00:20:17,160
+There's asociality,
+which is simply
+
+471
+00:20:17,160 --> 00:20:19,740
+social withdrawal,
+right? So if
+
+472
+00:20:19,740 --> 00:20:21,880
+sociality is someone
+who likes to be social,
+
+473
+00:20:21,880 --> 00:20:23,760
+asociality is
+social withdrawal.
+
+474
+00:20:24,060 --> 00:20:26,340
+There's anhedonia,
+which is a lack
+
+475
+00:20:26,340 --> 00:20:27,880
+of interest in doing
+the things that
+
+476
+00:20:27,880 --> 00:20:29,340
+you used to enjoy.
+Remember, we saw
+
+477
+00:20:29,340 --> 00:20:30,740
+this with the
+depression lecture.
+
+478
+00:20:31,160 --> 00:20:33,140
+Ambivalence, an
+inability or extreme
+
+479
+00:20:33,140 --> 00:20:35,640
+difficulty to make any
+decisions in general.
+
+480
+00:20:35,640 --> 00:20:38,380
+And then avolition,
+again, a lack of interest
+
+481
+00:20:38,380 --> 00:20:40,820
+or engagement in goal
+-directed behavior,
+
+482
+00:20:40,820 --> 00:20:43,890
+right? So lots of A's,
+a-logia, a-sociality,
+
+483
+00:20:44,580 --> 00:20:45,820
+anhedonia,
+
+484
+00:20:46,040 --> 00:20:48,540
+ambivalence,
+a-volition. So
+
+485
+00:20:48,540 --> 00:20:49,720
+that's how you
+look at all of
+
+486
+00:20:49,720 --> 00:20:51,860
+these negative
+symptoms, okay?
+
+487
+00:20:51,930 --> 00:20:53,740
+As we were talking
+about before, these
+
+488
+00:20:53,740 --> 00:20:56,040
+can easily be confused
+with some depressive
+
+489
+00:20:56,040 --> 00:20:58,320
+symptoms and or
+side effects of
+
+490
+00:20:58,320 --> 00:21:00,840
+antipsychotics or maybe
+even cognitive symptoms
+
+491
+00:21:00,840 --> 00:21:03,980
+in those with dementia
+or Alzheimer's.
+
+492
+00:21:04,040 --> 00:21:06,330
+However, these are
+just as troubling or
+
+493
+00:21:06,330 --> 00:21:08,100
+disabling to the
+patient as the positive
+
+494
+00:21:08,100 --> 00:21:10,440
+symptoms, so we don't
+want to miss these.
+
+495
+00:21:13,510 --> 00:21:15,820
+okay now let's talk a
+little bit about the
+
+496
+00:21:15,820 --> 00:21:18,260
+treatment that we use
+for schizophrenia so
+
+497
+00:21:18,260 --> 00:21:20,960
+this is often going
+to involve the use of
+
+498
+00:21:20,960 --> 00:21:24,040
+antipsychotics we have
+two main classes your
+
+499
+00:21:24,040 --> 00:21:26,900
+first generation
+fgas and your second
+
+500
+00:21:26,900 --> 00:21:30,800
+generation sgas
+these second generation
+antipsychotics
+
+501
+00:21:30,800 --> 00:21:32,420
+are more commonly
+used as they have
+
+502
+00:21:32,420 --> 00:21:35,960
+much lower risks of
+severe side effects
+
+503
+00:21:35,960 --> 00:21:39,000
+right what could these
+be like neuroleptic
+
+504
+00:21:39,000 --> 00:21:42,100
+malignant syndrome nms
+which is defined as an
+
+505
+00:21:42,100 --> 00:21:45,120
+elevated temperature
+muscle rigidity irregular
+
+506
+00:21:45,120 --> 00:21:48,720
+pulse tachycardia
+tachypnea altered
+
+507
+00:21:48,720 --> 00:21:52,020
+mental status the works
+all right basically is
+
+508
+00:21:52,020 --> 00:21:54,460
+a full autonomic nervous
+system dysfunction
+
+509
+00:21:54,460 --> 00:21:57,140
+and this could be
+lethal if antipsychotic
+
+510
+00:21:57,140 --> 00:21:59,340
+is not stopped and
+supportive care is not
+
+511
+00:21:59,340 --> 00:22:01,800
+given and this has to
+tie into the mechanism
+
+512
+00:22:01,800 --> 00:22:05,520
+of action of a lot of
+these antipsychotic
+
+513
+00:22:05,520 --> 00:22:08,460
+medications which
+directly modulate
+
+514
+00:22:08,460 --> 00:22:11,100
+neurotransmitters in the
+body then there's also
+
+515
+00:22:11,100 --> 00:22:14,220
+tardive dyskinesia which
+is a chronic neurological
+
+516
+00:22:14,220 --> 00:22:17,000
+syndrome caused by
+antipsychotic use
+
+517
+00:22:17,000 --> 00:22:19,840
+it's defined by these
+repetitive involuntary
+
+518
+00:22:19,840 --> 00:22:22,140
+movements including
+grimacing eye blinking
+
+519
+00:22:22,140 --> 00:22:25,320
+and other involuntary
+movements more often
+
+520
+00:22:25,320 --> 00:22:28,760
+than not tardive
+dyskinesia is permanent.
+
+521
+00:22:28,760 --> 00:22:33,120
+So if we are noticing
+negative side effects
+
+522
+00:22:33,120 --> 00:22:38,040
+of our antipsychotics,
+we need to discontinue
+
+523
+00:22:38,040 --> 00:22:41,040
+that drug as soon
+as we identify them.
+
+524
+00:22:42,480 --> 00:22:45,620
+So let's take a quick
+break and answer
+
+525
+00:22:45,620 --> 00:22:48,720
+a quick question. True
+or false, onset of
+
+526
+00:22:48,720 --> 00:22:51,340
+schizophrenia in
+childhood traditionally
+
+527
+00:22:51,340 --> 00:22:54,160
+has worse outcomes.
+Here I'll give you
+
+528
+00:22:54,160 --> 00:22:55,740
+guys a second to
+pause if you'd like.
+
+529
+00:22:57,500 --> 00:23:01,660
+And here's the answer.
+This is true. So the
+
+530
+00:23:01,660 --> 00:23:04,120
+typical onset of
+schizophrenia really is
+
+531
+00:23:04,120 --> 00:23:08,160
+early to mid-20s for
+males and by late 20s for
+
+532
+00:23:08,160 --> 00:23:11,440
+females. And in total,
+it affects about 1%
+
+533
+00:23:11,440 --> 00:23:12,860
+of the global population.
+Again, you don't
+
+534
+00:23:12,860 --> 00:23:15,850
+need to know that
+percentage specifically,
+
+535
+00:23:15,850 --> 00:23:18,520
+but this is just to
+kind of give you a good
+
+536
+00:23:18,520 --> 00:23:21,760
+overall idea of how
+prevalent schizophrenia
+
+537
+00:23:21,760 --> 00:23:24,720
+is. So some other factors
+that could indicate
+
+538
+00:23:24,720 --> 00:23:27,680
+worse outcomes
+include poor premorbid
+
+539
+00:23:27,680 --> 00:23:31,320
+functioning childhood
+onset family history of
+
+540
+00:23:31,320 --> 00:23:35,460
+schizophrenia abnormal
+brain imaging an insidious
+
+541
+00:23:35,460 --> 00:23:39,040
+onset as well as
+concomitant drug *****
+
+542
+00:23:40,280 --> 00:23:42,460
+now let's take
+a step back and
+
+543
+00:23:42,460 --> 00:23:44,320
+let's look at
+delusional disorder
+
+544
+00:23:44,320 --> 00:23:46,640
+to clear up
+some potential
+
+545
+00:23:47,160 --> 00:23:49,100
+confusion as a
+lot of people do
+
+546
+00:23:49,100 --> 00:23:51,020
+tend to mix and
+match delusional
+
+547
+00:23:51,020 --> 00:23:52,700
+disorders and
+schizophrenia
+
+548
+00:23:53,280 --> 00:23:55,680
+disorders together.
+And so really what we
+
+549
+00:23:55,680 --> 00:23:57,300
+need to think about
+with delusional disorder
+
+550
+00:23:57,300 --> 00:23:59,560
+is that in contrast
+to schizophrenia,
+
+551
+00:23:59,560 --> 00:24:02,000
+this is defined by
+one or more delusions
+
+552
+00:24:02,000 --> 00:24:03,800
+that last greater
+than or equal to one
+
+553
+00:24:03,800 --> 00:24:06,690
+month with no other
+prominent psychotic
+
+554
+00:24:06,690 --> 00:24:08,190
+symptoms, right? So
+there's no hallucinations,
+
+555
+00:24:08,320 --> 00:24:10,260
+there's no disorganized
+speech, nada.
+
+556
+00:24:10,260 --> 00:24:12,640
+It's just the delusion
+that's there, okay?
+
+557
+00:24:12,900 --> 00:24:15,060
+If there are any
+hallucinations, they're
+
+558
+00:24:15,060 --> 00:24:17,440
+usually extremely
+mild. And really the
+
+559
+00:24:17,440 --> 00:24:19,720
+core feature is this
+presence of a well
+
+560
+00:24:19,720 --> 00:24:23,840
+-systematized and
+encapsulated delusional
+
+561
+00:24:23,840 --> 00:24:26,460
+belief. So let's
+think about this for
+
+562
+00:24:26,460 --> 00:24:28,280
+a second. Let's say
+I give you an example
+
+563
+00:24:28,280 --> 00:24:31,640
+of a 55-year-old
+man who for the past
+
+564
+00:24:31,640 --> 00:24:34,300
+five years has been
+thinking that his
+
+565
+00:24:34,300 --> 00:24:38,220
+neighbor is stealing
+his trash constantly.
+
+566
+00:24:39,000 --> 00:24:40,340
+No matter
+
+567
+00:24:40,620 --> 00:24:43,960
+what evidence is
+proposed to the contrary,
+
+568
+00:24:43,960 --> 00:24:45,380
+he constantly thinks
+my neighbor is
+
+569
+00:24:45,380 --> 00:24:47,280
+stealing my trash.
+They're stealing my
+
+570
+00:24:47,280 --> 00:24:49,200
+trash. They're a thief.
+They're a bad person.
+
+571
+00:24:49,280 --> 00:24:51,520
+And it's lasted,
+again, greater than
+
+572
+00:24:51,520 --> 00:24:53,780
+or equal to one month.
+There's only this
+
+573
+00:24:53,780 --> 00:24:56,700
+one delusion. There
+could be more, but
+
+574
+00:24:56,700 --> 00:24:58,740
+there's no other
+hallucinations or
+
+575
+00:24:58,740 --> 00:25:01,440
+disorganized speech. That
+would be a delusional
+
+576
+00:25:01,440 --> 00:25:03,780
+disorder. And due to
+the nature of this,
+
+577
+00:25:03,780 --> 00:25:05,860
+it is exceedingly
+difficult to treat.
+
+578
+00:25:06,840 --> 00:25:09,580
+With that out the way,
+let's jump now into
+
+579
+00:25:09,580 --> 00:25:12,720
+schizophreniform and
+brief psychotic disorder.
+
+580
+00:25:12,720 --> 00:25:14,460
+So the way I want
+you to think about
+
+581
+00:25:14,460 --> 00:25:17,160
+this is on a timeline
+and i got this from
+
+582
+00:25:17,160 --> 00:25:20,120
+dirty medicine he is
+phenomenal for high yield
+
+583
+00:25:20,120 --> 00:25:22,320
+videos on youtube
+if you guys are into
+
+584
+00:25:22,320 --> 00:25:24,880
+that but basically
+what we need to look at
+
+585
+00:25:24,880 --> 00:25:28,360
+first is the time
+frame that is the b big
+
+586
+00:25:28,360 --> 00:25:31,740
+like key takeaway from
+all of this okay so we
+
+587
+00:25:31,740 --> 00:25:36,700
+go from one month
+then to six months and
+
+588
+00:25:36,700 --> 00:25:39,320
+then greater than six
+months for our timeline
+
+589
+00:25:39,320 --> 00:25:42,880
+brief psychotic
+disorder is defined as
+
+590
+00:25:42,880 --> 00:25:45,360
+having one positive
+symptom that lasts between
+
+591
+00:25:45,360 --> 00:25:48,740
+one day and one month.
+Usually it could
+
+592
+00:25:48,740 --> 00:25:50,360
+be stress-related. So
+following the death
+
+593
+00:25:50,360 --> 00:25:54,860
+of a loved one, maybe
+an extremely stressful
+
+594
+00:25:54,860 --> 00:25:58,600
+encounter could lead to
+these brief psychotic
+
+595
+00:25:58,600 --> 00:26:00,640
+disorders. Again,
+no more than one
+
+596
+00:26:00,640 --> 00:26:03,800
+month. Once we pass
+that one month mark, now
+
+597
+00:26:03,800 --> 00:26:06,680
+we're in the territory
+of schizophreniform.
+
+598
+00:26:06,880 --> 00:26:10,500
+Now, schizophreniform
+has two symptoms
+
+599
+00:26:10,500 --> 00:26:13,720
+that last one to
+six months. However,
+
+600
+00:26:13,720 --> 00:26:16,040
+impaired functioning
+usually is not
+
+601
+00:26:16,040 --> 00:26:18,560
+required for diagnosis,
+okay? And that
+
+602
+00:26:18,560 --> 00:26:21,840
+is in contrast to
+schizophrenia, okay?
+
+603
+00:26:22,260 --> 00:26:23,800
+And then we talked
+about schizophrenia
+
+604
+00:26:23,800 --> 00:26:25,440
+before. It needs to
+be greater than or
+
+605
+00:26:25,440 --> 00:26:27,880
+equal to six months
+prior to the diagnosis,
+
+606
+00:26:27,880 --> 00:26:29,900
+and you have to
+have greater than or
+
+607
+00:26:29,900 --> 00:26:32,260
+equal to one month
+of active symptoms
+
+608
+00:26:32,310 --> 00:26:35,120
+during that period.
+So to recap, brief
+
+609
+00:26:35,120 --> 00:26:38,000
+psychotic disorder, no
+more than one month.
+
+610
+00:26:38,640 --> 00:26:40,040
+Schizophreniform
+disorder,
+
+611
+00:26:40,400 --> 00:26:43,280
+up to six months.
+Past that six-month
+
+612
+00:26:43,280 --> 00:26:45,780
+period, now we're
+looking at schizophrenia.
+
+613
+00:26:47,110 --> 00:26:49,180
+All right, and again,
+I want you guys
+
+614
+00:26:49,180 --> 00:26:50,380
+to think about
+this as being a
+
+615
+00:26:50,380 --> 00:26:52,320
+continuum of duration
+and impact. So
+
+616
+00:26:52,320 --> 00:26:55,200
+this is another
+summarized little
+
+617
+00:26:55,200 --> 00:26:57,680
+graphic that you
+guys can use, right?
+
+618
+00:26:57,800 --> 00:27:00,600
+Brief psychotic
+disorder, remember, with
+
+619
+00:27:00,600 --> 00:27:03,200
+this sudden onset,
+short-lived break
+
+620
+00:27:03,200 --> 00:27:05,940
+from reality, usually
+there's a full recovery,
+
+621
+00:27:05,940 --> 00:27:07,880
+and antipsychotics
+can be curative,
+
+622
+00:27:07,880 --> 00:27:10,260
+okay? With
+schizophreniform disorder,
+
+623
+00:27:10,260 --> 00:27:12,080
+the prognosis is a
+little bit worse, right?
+
+624
+00:27:12,080 --> 00:27:14,180
+You have intermediate
+stages, uncertain
+
+625
+00:27:14,180 --> 00:27:16,460
+prognosis, and this
+can also be treated
+
+626
+00:27:16,460 --> 00:27:18,400
+with antipsychotics
+as well, right? And
+
+627
+00:27:18,400 --> 00:27:20,860
+it's about one-third
+to fully recover.
+
+628
+00:27:21,540 --> 00:27:23,530
+Most individuals
+that present with
+
+629
+00:27:23,530 --> 00:27:27,280
+schizophreniform
+disorder are usually
+diagnosed much
+
+630
+00:27:27,280 --> 00:27:30,200
+later on with
+schizophrenia and to cap it
+
+631
+00:27:30,200 --> 00:27:32,260
+all on remember
+schizophrenia is as chronic
+
+632
+00:27:32,760 --> 00:27:34,980
+debilitating functionally
+impairing illness
+
+633
+00:27:37,000 --> 00:27:40,800
+so let us go ahead
+and take a quick
+
+634
+00:27:40,800 --> 00:27:42,780
+look at this right
+so one of the key
+
+635
+00:27:42,780 --> 00:27:44,640
+differences between
+brief psychotic disorder
+
+636
+00:27:44,640 --> 00:27:46,320
+and schizophrenia
+i'll give you
+
+637
+00:27:46,320 --> 00:27:48,660
+guys a quick second
+to think about this
+
+638
+00:27:52,010 --> 00:27:53,720
+and hopefully you
+guys had a chance to
+
+639
+00:27:53,720 --> 00:27:57,880
+think and this would be
+b and c only so really
+
+640
+00:27:57,880 --> 00:28:01,240
+we're not worried
+about whether or not
+
+641
+00:28:01,240 --> 00:28:02,980
+brief psychotic
+disorder only involves
+
+642
+00:28:02,980 --> 00:28:05,460
+delusions and and not
+hallucinations right
+
+643
+00:28:05,460 --> 00:28:08,280
+because you can still
+have some potential
+
+644
+00:28:08,280 --> 00:28:11,920
+hallucinations albeit
+mild right the main
+
+645
+00:28:11,920 --> 00:28:13,860
+thing key differences
+that we're talking
+
+646
+00:28:13,860 --> 00:28:15,880
+about is time frame
+and duration one
+
+647
+00:28:15,880 --> 00:28:19,400
+month versus your
+greater than six months,
+
+648
+00:28:19,400 --> 00:28:21,870
+as well as the fact
+that schizophrenia
+
+649
+00:28:21,870 --> 00:28:24,760
+includes positive and
+negative symptoms,
+
+650
+00:28:24,760 --> 00:28:29,080
+whereas brief psychotic
+disorder only includes
+
+651
+00:28:29,080 --> 00:28:31,380
+positive symptoms.
+So that's a pretty
+
+652
+00:28:31,380 --> 00:28:34,000
+key thing that you
+want to clue into here.
+
+653
+00:28:36,440 --> 00:28:39,660
+All right, let's talk
+a little bit about
+
+654
+00:28:39,780 --> 00:28:42,400
+some of these risk
+factors, genetic risk,
+
+655
+00:28:42,400 --> 00:28:43,840
+just because it's
+interesting. A lot of
+
+656
+00:28:43,840 --> 00:28:46,480
+this stuff is not really
+going to be tested
+
+657
+00:28:46,480 --> 00:28:48,240
+for you guys. This
+is more or less just
+
+658
+00:28:48,240 --> 00:28:49,660
+for patient education
+when you guys get
+
+659
+00:28:49,660 --> 00:28:52,040
+into the hospital. We
+still don't definitively
+
+660
+00:28:52,040 --> 00:28:55,140
+know what causes
+schizophrenia. There
+
+661
+00:28:55,140 --> 00:28:59,420
+is a pretty big theory
+that schizophrenia
+
+662
+00:28:59,880 --> 00:29:03,520
+is due to an excess
+of neurotransmitters
+
+663
+00:29:03,520 --> 00:29:07,460
+causing aberrant sensory
+inputs. That's what
+
+664
+00:29:07,460 --> 00:29:09,460
+leads to these delusions,
+these hallucinations.
+
+665
+00:29:09,460 --> 00:29:10,580
+They're receiving
+signals from the
+
+666
+00:29:10,580 --> 00:29:12,180
+brain, even though
+there's no external
+
+667
+00:29:12,180 --> 00:29:15,560
+stimuli to generate that,
+right? So some genetic
+
+668
+00:29:15,560 --> 00:29:17,440
+risks would be a
+family history of
+
+669
+00:29:17,440 --> 00:29:19,480
+schizophrenia, like
+with most diseases. This
+
+670
+00:29:19,480 --> 00:29:22,360
+does have a genetic
+component to it, either
+
+671
+00:29:22,360 --> 00:29:24,260
+first or second degree
+relatives mainly.
+
+672
+00:29:24,640 --> 00:29:27,060
+Increased paternal
+age is another
+
+673
+00:29:27,060 --> 00:29:29,000
+risk factor for
+schizophrenia, right?
+
+674
+00:29:29,000 --> 00:29:30,940
+So as you get older,
+even though your
+
+675
+00:29:30,940 --> 00:29:32,780
+***** are still
+viable as a male,
+
+676
+00:29:32,780 --> 00:29:35,400
+you do have risks
+for birth defects,
+
+677
+00:29:35,760 --> 00:29:38,300
+for mental health
+disorders, things like
+
+678
+00:29:38,300 --> 00:29:39,780
+that. There's also
+something called
+
+679
+00:29:39,780 --> 00:29:42,400
+velocardiofacial
+syndrome, which is a
+
+680
+00:29:42,400 --> 00:29:45,700
+22q11 chromosomal
+deletion. This is
+
+681
+00:29:45,700 --> 00:29:47,580
+different from DeGeorge,
+but I figured I
+
+682
+00:29:47,580 --> 00:29:49,180
+would mention it
+because it does present
+
+683
+00:29:49,180 --> 00:29:50,880
+with increased risk
+of schizophrenia.
+
+684
+00:29:51,240 --> 00:29:53,820
+Here we have also
+environmental causes.
+
+685
+00:29:53,820 --> 00:29:56,400
+So some things that
+they found were
+
+686
+00:29:56,400 --> 00:29:57,720
+that immigrant
+populations have the
+
+687
+00:29:57,720 --> 00:30:00,200
+highest risk for
+developing schizophrenia.
+
+688
+00:30:00,200 --> 00:30:03,300
+Again, this is not
+causative. This
+
+689
+00:30:03,300 --> 00:30:05,200
+is just a correlation
+that they found.
+
+690
+00:30:05,440 --> 00:30:07,280
+There are potential
+insults during
+
+691
+00:30:07,280 --> 00:30:09,100
+pregnancy, such
+as intrauterine
+
+692
+00:30:09,100 --> 00:30:11,700
+infections,
+particularly influenza,
+
+693
+00:30:11,700 --> 00:30:13,880
+have also been
+correlated with
+
+694
+00:30:14,280 --> 00:30:16,640
+increased risk of
+schizophrenia, as well
+
+695
+00:30:16,640 --> 00:30:19,040
+as maternal starvation.
+And this is just
+
+696
+00:30:19,040 --> 00:30:21,520
+theorized to be during
+the maternal period,
+
+697
+00:30:21,520 --> 00:30:23,160
+if the baby does not
+get the proper nutrients
+
+698
+00:30:23,160 --> 00:30:24,500
+it needs, if the
+mother doesn't get the
+
+699
+00:30:24,500 --> 00:30:26,240
+proper nutrients she
+needs, it ends up
+
+700
+00:30:26,240 --> 00:30:28,540
+becoming a more risky
+pregnancy, more risk
+
+701
+00:30:28,540 --> 00:30:30,380
+of developing schizophrenia
+in the future.
+
+702
+00:30:31,820 --> 00:30:34,180
+So another thing is
+they talk about this
+
+703
+00:30:34,180 --> 00:30:36,100
+two hit hypothesis
+so these genes could
+
+704
+00:30:36,100 --> 00:30:38,860
+convey a vulnerability
+um but it doesn't cause
+
+705
+00:30:38,860 --> 00:30:40,500
+the disease without some
+sort of environmental
+
+706
+00:30:40,500 --> 00:30:42,180
+trigger which is
+why a lot of times
+
+707
+00:30:42,180 --> 00:30:43,740
+people may go their
+whole lives until they
+
+708
+00:30:43,740 --> 00:30:46,140
+get to their 20s um
+and then all of a
+
+709
+00:30:46,140 --> 00:30:47,960
+sudden they have a snap
+right or they break
+
+710
+00:30:47,960 --> 00:30:52,020
+down and this is really
+um important to kind
+
+711
+00:30:52,020 --> 00:30:53,780
+of think about
+because it's just like
+
+712
+00:30:53,780 --> 00:30:56,440
+when we think about
+cancer right um you know
+
+713
+00:30:56,440 --> 00:30:57,850
+you could have that
+two hit hypothesis
+
+714
+00:30:57,850 --> 00:30:59,320
+where you're fine and
+then all of a sudden
+
+715
+00:30:59,320 --> 00:31:01,380
+you have this random
+point mutation with
+
+716
+00:31:01,380 --> 00:31:02,900
+their what they're
+talking about here right
+
+717
+00:31:02,900 --> 00:31:05,760
+now is that these
+triggers that could happen
+
+718
+00:31:05,760 --> 00:31:07,360
+could be something
+extremely traumatic,
+
+719
+00:31:07,480 --> 00:31:10,480
+something that was
+really hard on the
+
+720
+00:31:10,480 --> 00:31:12,140
+patient's mental
+health themselves, and
+
+721
+00:31:12,140 --> 00:31:14,320
+thus they spiral out
+from there, right?
+
+722
+00:31:18,000 --> 00:31:20,740
+So here's another
+quick clinical pearl.
+
+723
+00:31:20,740 --> 00:31:22,760
+How do we know whether
+or not there is
+
+724
+00:31:22,760 --> 00:31:26,120
+another psychiatric
+condition, right? So
+
+725
+00:31:26,120 --> 00:31:27,440
+there are some clinical
+features I would
+
+726
+00:31:27,440 --> 00:31:30,560
+suggest secondary
+psychotic illness, right?
+
+727
+00:31:30,860 --> 00:31:34,800
+And this is really
+just a big checklist of
+
+728
+00:31:34,800 --> 00:31:36,780
+things that you can
+look at. So let's say
+
+729
+00:31:36,780 --> 00:31:38,580
+you have symptoms of
+delirium in an older
+
+730
+00:31:38,580 --> 00:31:40,960
+individual. Maybe their
+first psychotic episode
+
+731
+00:31:40,960 --> 00:31:43,600
+happened after age 40,
+which is way beyond
+
+732
+00:31:43,600 --> 00:31:46,080
+the initial period
+that we talked about
+
+733
+00:31:46,080 --> 00:31:47,820
+before, right? Early
+20s for males, late
+
+734
+00:31:47,820 --> 00:31:50,640
+20s for females. Rapid
+development symptoms,
+
+735
+00:31:50,960 --> 00:31:52,360
+affect that's,
+you know, it was
+
+736
+00:31:52,360 --> 00:31:54,420
+normal range, not
+blunted or flat,
+
+737
+00:31:54,680 --> 00:31:57,200
+presence of any general
+medical conditions
+
+738
+00:31:57,200 --> 00:31:59,040
+with any
+pathophysiology that
+
+739
+00:31:59,040 --> 00:32:00,720
+could be capable
+of altering brain
+
+740
+00:32:00,720 --> 00:32:02,800
+functioning, again
+talking about epilepsy,
+
+741
+00:32:03,210 --> 00:32:05,380
+Alzheimer's,
+Neiman-Pick, things
+
+742
+00:32:05,380 --> 00:32:07,380
+like that, as well
+as evidence of
+
+743
+00:32:07,380 --> 00:32:09,000
+exposure to
+separate sypoactive
+
+744
+00:32:09,000 --> 00:32:11,940
+substances, so
+*******, *********,
+
+745
+00:32:12,180 --> 00:32:13,460
+***,
+
+746
+00:32:14,370 --> 00:32:15,540
+methamphetamines,
+you know, any
+
+747
+00:32:15,540 --> 00:32:17,440
+drug that's out
+there, you name
+
+748
+00:32:17,440 --> 00:32:19,400
+it, it can
+affect cognition.
+
+749
+00:32:21,260 --> 00:32:23,980
+All right, so let's
+change gears now and
+
+750
+00:32:23,980 --> 00:32:25,480
+let's talk a little bit
+about schizoaffective
+
+751
+00:32:25,580 --> 00:32:28,600
+disorders so these are
+disorders that meet
+
+752
+00:32:28,600 --> 00:32:32,020
+the criteria for both
+a mood disorder and
+
+753
+00:32:32,020 --> 00:32:36,080
+schizophrenia okay and
+so to differentiate
+
+754
+00:32:36,080 --> 00:32:39,220
+between just a regular
+mood disorder um like
+
+755
+00:32:39,220 --> 00:32:43,740
+depression or bipolar
+um we need to have
+
+756
+00:32:43,740 --> 00:32:46,960
+greater than or equal to
+two weeks of psychotic
+
+757
+00:32:46,960 --> 00:32:50,740
+symptoms without any
+manic or depressive
+
+758
+00:32:50,740 --> 00:32:54,340
+episodes right That
+would make the psychotic
+
+759
+00:32:54,340 --> 00:32:56,460
+disorder the primary
+disorder here, hence
+
+760
+00:32:56,460 --> 00:32:59,740
+why we have ******
+followed by affective.
+
+761
+00:32:59,900 --> 00:33:02,220
+We can have
+schizoaffective
+
+762
+00:33:02,220 --> 00:33:03,940
+disorder depressed type,
+
+763
+00:33:03,940 --> 00:33:06,280
+which remember from
+our last lecture, we
+
+764
+00:33:06,280 --> 00:33:08,110
+talked about all
+those SIG-E-CAPS
+
+765
+00:33:08,560 --> 00:33:11,060
+symptoms that you would
+have in depression.
+
+766
+00:33:11,140 --> 00:33:14,340
+Or you could have
+schizoaffective disorder
+
+767
+00:33:14,340 --> 00:33:16,460
+bipolar type, which
+is when you have
+
+768
+00:33:16,460 --> 00:33:19,040
+psychotic symptoms that
+are coupled to manic
+
+769
+00:33:19,040 --> 00:33:21,380
+symptoms. That's your
+DIG-FAST mnemonic.
+
+770
+00:33:21,380 --> 00:33:24,000
+right? To treat this,
+really, it's just
+
+771
+00:33:24,000 --> 00:33:25,840
+second-generation
+antipsychotics for both
+
+772
+00:33:25,840 --> 00:33:28,400
+subtypes. You can add
+in some antidepressants
+
+773
+00:33:28,400 --> 00:33:30,980
+if there is a depressed
+type, as well as add
+
+774
+00:33:30,980 --> 00:33:33,680
+mood stabilizers for
+the bipolar type. And
+
+775
+00:33:33,680 --> 00:33:36,340
+ECT can be used for
+refractory treatment.
+
+776
+00:33:37,280 --> 00:33:39,240
+All right, so this is
+another very important
+
+777
+00:33:39,240 --> 00:33:41,040
+slide just for you
+and your test-taking
+
+778
+00:33:41,040 --> 00:33:43,100
+career whenever you're
+trying to answer
+
+779
+00:33:44,500 --> 00:33:47,520
+psychiatry-themed
+questions. And really,
+
+780
+00:33:47,520 --> 00:33:49,380
+test makers love,
+love, love, love
+
+781
+00:33:49,380 --> 00:33:50,880
+to have students
+differentiate between
+
+782
+00:33:50,880 --> 00:33:53,840
+schizoaffective disorders
+major depressive
+
+783
+00:33:53,840 --> 00:33:55,600
+disorder with
+psychotic features
+
+784
+00:33:55,820 --> 00:33:57,920
+and bipolar disorder with
+
+785
+00:33:57,920 --> 00:33:59,400
+psychotic features
+so how are we
+
+786
+00:33:59,400 --> 00:34:01,600
+going to go about
+figuring out
+
+787
+00:34:01,940 --> 00:34:04,040
+which of these disorders
+could potentially
+
+788
+00:34:04,040 --> 00:34:06,260
+be the correct answer
+right so when you
+
+789
+00:34:06,260 --> 00:34:08,140
+have to answer these
+questions the first thing
+
+790
+00:34:08,140 --> 00:34:11,140
+that we're going to
+do is name the primary
+
+791
+00:34:11,140 --> 00:34:13,980
+psychiatric disorder
+while the second
+
+792
+00:34:13,980 --> 00:34:16,710
+part of the name is
+going to be the secondary
+
+793
+00:34:16,750 --> 00:34:19,640
+disorder so let's take
+look here right if
+
+794
+00:34:19,640 --> 00:34:22,280
+we look at schizoaffective
+like we just
+
+795
+00:34:22,280 --> 00:34:24,580
+talked about right we
+have psychotic symptoms
+
+796
+00:34:24,580 --> 00:34:27,240
+and then the secondary
+disorder affected
+
+797
+00:34:27,240 --> 00:34:29,060
+these would be the
+mood symptoms depressed
+
+798
+00:34:29,060 --> 00:34:32,380
+versus bipolar right
+now which is the
+
+799
+00:34:32,380 --> 00:34:34,360
+primary or secondary
+one like we talked about
+
+800
+00:34:34,360 --> 00:34:36,880
+before we need to look
+at the question stem
+
+801
+00:34:36,880 --> 00:34:38,740
+carefully to see
+whether or not symptoms
+
+802
+00:34:38,740 --> 00:34:41,940
+occur by themselves
+for at least two weeks
+
+803
+00:34:41,940 --> 00:34:45,020
+okay so here's a quick
+example if a patient
+
+804
+00:34:45,020 --> 00:34:47,200
+presents with psychotic
+symptoms for at
+
+805
+00:34:47,200 --> 00:34:51,240
+least two weeks with no
+concomitant depressive
+
+806
+00:34:51,240 --> 00:34:53,960
+symptoms, that would
+mean that depressive
+
+807
+00:34:53,960 --> 00:34:56,520
+symptoms will come and
+go. And the primary
+
+808
+00:34:56,520 --> 00:34:58,860
+disorder would be
+schizoaffective. The
+
+809
+00:34:58,860 --> 00:35:01,780
+secondary disorder
+then would be depressed
+
+810
+00:35:01,780 --> 00:35:04,320
+type. Okay, so hopefully
+that makes sense.
+
+811
+00:35:04,980 --> 00:35:08,360
+Alrighty, moving on
+with our other psychotic
+
+812
+00:35:08,360 --> 00:35:10,480
+disorders. First, we're
+going to talk about
+
+813
+00:35:10,480 --> 00:35:13,100
+postpartum psychosis.
+Now, this is another
+
+814
+00:35:13,100 --> 00:35:15,520
+one that I've actually
+seen in the hospital.
+
+815
+00:35:15,520 --> 00:35:19,040
+it is exceedingly
+rare, 0.1 to 0.2%
+
+816
+00:35:19,040 --> 00:35:21,860
+incidence rate, but it's
+characterized by mood
+
+817
+00:35:21,860 --> 00:35:25,220
+-congruent delusions,
+hallucinations, and
+
+818
+00:35:25,220 --> 00:35:28,200
+thoughts of harming the
+baby or self, right?
+
+819
+00:35:28,200 --> 00:35:31,180
+Again, it's going to
+follow delivery, hence
+
+820
+00:35:31,180 --> 00:35:33,520
+why it's called
+postpartum. Now, some risk
+
+821
+00:35:33,520 --> 00:35:36,080
+factors for this
+include first pregnancy,
+
+822
+00:35:36,180 --> 00:35:39,220
+right, family history
+of any bipolar disorder,
+
+823
+00:35:39,220 --> 00:35:41,540
+psychotic disorders,
+as well as recent
+
+824
+00:35:41,540 --> 00:35:43,800
+medication changes. So
+in the patient that I
+
+825
+00:35:43,800 --> 00:35:48,760
+saw, they had no history
+of any mental health
+
+826
+00:35:48,760 --> 00:35:50,920
+disorders. It was
+their first pregnancy.
+
+827
+00:35:51,080 --> 00:35:54,940
+Afterward, they started
+to develop delusions
+
+828
+00:35:55,080 --> 00:35:57,740
+and hallucinations,
+as well as thoughts of
+
+829
+00:35:57,740 --> 00:36:00,820
+harming them themselves
+and their baby. And
+
+830
+00:36:00,820 --> 00:36:03,840
+so they were admitted
+to an inpatient unit.
+
+831
+00:36:04,400 --> 00:36:06,220
+And they ended up finding
+that unfortunately,
+
+832
+00:36:06,220 --> 00:36:08,380
+she was very resistant
+to different types
+
+833
+00:36:08,380 --> 00:36:09,860
+of treatment. So
+they've been trying to
+
+834
+00:36:09,860 --> 00:36:12,520
+optimize the treatment
+for her specifically.
+
+835
+00:36:12,520 --> 00:36:14,580
+And speaking of
+treatments, or again,
+
+836
+00:36:14,580 --> 00:36:17,620
+hospitalization and
+initiation of atypical
+
+837
+00:36:17,620 --> 00:36:20,420
+antipsychotics, the
+patient that I saw actually
+
+838
+00:36:20,420 --> 00:36:23,460
+did go for ECT,
+which seemed to help
+
+839
+00:36:23,460 --> 00:36:27,020
+significantly after all
+of the less invasive
+
+840
+00:36:27,260 --> 00:36:30,400
+medication-based
+treatments were completed.
+
+841
+00:36:31,770 --> 00:36:33,940
+All right, and the
+rest of this stuff is
+
+842
+00:36:33,940 --> 00:36:35,260
+going to really just
+be a little bit of a
+
+843
+00:36:35,260 --> 00:36:37,480
+bonus, hence why I don't
+have the star. Well,
+
+844
+00:36:37,480 --> 00:36:38,860
+why am I going to
+include this if we're
+
+845
+00:36:38,860 --> 00:36:40,300
+not going to be tested
+on in this lecture?
+
+846
+00:36:40,300 --> 00:36:42,280
+Well, you will get this
+in separate lectures
+
+847
+00:36:42,280 --> 00:36:44,520
+later on on personality
+disorders, and
+
+848
+00:36:44,520 --> 00:36:46,340
+these are very
+important to know. But I
+
+849
+00:36:46,340 --> 00:36:48,920
+wanted to include them
+here for posterity
+
+850
+00:36:48,920 --> 00:36:52,040
+because they do kind of
+get confused a lot with
+
+851
+00:36:52,040 --> 00:36:53,740
+regular schizophrenia,
+especially in
+
+852
+00:36:53,740 --> 00:36:56,520
+students first studying
+psychology and psychiatry.
+
+853
+00:36:56,520 --> 00:36:58,050
+So let's talk a
+little bit about these
+
+854
+00:36:58,050 --> 00:37:00,460
+two personality
+disorders. Schizoid and
+
+855
+00:37:00,460 --> 00:37:05,000
+schizotypal are type A
+personality disorders.
+
+856
+00:37:05,000 --> 00:37:07,900
+They are not psychotic
+disorders, okay?
+
+857
+00:37:07,900 --> 00:37:10,360
+Schizoid personality
+disorder is characterized
+
+858
+00:37:10,360 --> 00:37:12,660
+by this profound
+detachment from social
+
+859
+00:37:12,660 --> 00:37:15,780
+relationships and a
+restricted range of
+
+860
+00:37:15,780 --> 00:37:19,460
+emotional expression. They
+prefer social withdrawal
+
+861
+00:37:19,460 --> 00:37:22,320
+and solitary activities,
+right? So this
+
+862
+00:37:22,320 --> 00:37:24,760
+is different from
+avoidance personality
+
+863
+00:37:24,760 --> 00:37:28,250
+disorder in which
+individuals are terrified of,
+
+864
+00:37:28,250 --> 00:37:31,220
+you know, being in
+public and actively try
+
+865
+00:37:31,220 --> 00:37:34,200
+to get away from social
+situations instead,
+
+866
+00:37:34,380 --> 00:37:36,440
+right, here we
+have individuals
+
+867
+00:37:36,440 --> 00:37:39,060
+that just prefer
+social withdrawal
+
+868
+00:37:39,060 --> 00:37:40,740
+and solitary
+activities. They have
+
+869
+00:37:40,740 --> 00:37:42,420
+a lack of interest
+in intimacy,
+
+870
+00:37:42,640 --> 00:37:45,400
+right, not that they
+are unable to pursue
+
+871
+00:37:45,400 --> 00:37:47,260
+it, they just don't
+care as much about it,
+
+872
+00:37:47,260 --> 00:37:49,420
+and they have limited
+emotional expression,
+
+873
+00:37:49,420 --> 00:37:51,040
+right, they're pretty
+indifferent to others'
+
+874
+00:37:51,040 --> 00:37:54,220
+opinions, and they're
+rather aloof, but
+
+875
+00:37:54,220 --> 00:37:56,740
+again, this is a
+personality disorder this is
+
+876
+00:37:56,740 --> 00:38:00,030
+not a psychotic disorder
+okay next we have
+
+877
+00:38:00,030 --> 00:38:02,060
+schizotypal personality
+disorder so this is
+
+878
+00:38:02,060 --> 00:38:05,380
+on the schizophrenia
+spectrum and it may
+
+879
+00:38:05,380 --> 00:38:09,050
+include brief psychotic
+episodes such as delusions
+
+880
+00:38:09,050 --> 00:38:11,340
+however these are
+less frequent and less
+
+881
+00:38:11,340 --> 00:38:13,360
+severe than schizophrenia
+which is why
+
+882
+00:38:13,360 --> 00:38:17,740
+schizotypal personality
+disorder is a personality
+
+883
+00:38:17,740 --> 00:38:19,720
+disorder and not a
+psychotic disorder
+
+884
+00:38:19,720 --> 00:38:21,940
+They may also be coupled
+with an eccentric
+
+885
+00:38:21,940 --> 00:38:25,040
+appearance, odd beliefs
+or magical thinking,
+
+886
+00:38:25,300 --> 00:38:28,520
+interpersonal awkwardness,
+and they may like
+
+887
+00:38:28,520 --> 00:38:30,380
+intimacy, but they
+may just find it
+
+888
+00:38:30,380 --> 00:38:32,780
+difficult to really find
+anybody that jives with
+
+889
+00:38:32,780 --> 00:38:35,020
+them and their vibe
+because they're pretty
+
+890
+00:38:35,020 --> 00:38:37,420
+quirky and they
+might have those more
+
+891
+00:38:37,420 --> 00:38:39,780
+severe psychotic symptoms
+from time to time.
+
+892
+00:38:40,880 --> 00:38:42,760
+So here's kind of
+how I like to think
+
+893
+00:38:42,760 --> 00:38:45,180
+about these two,
+right? So I think of
+
+894
+00:38:45,180 --> 00:38:47,680
+Professor Trilwany or
+Doc Brown from Back
+
+895
+00:38:47,680 --> 00:38:49,680
+to the Future. Those
+are kind of like
+
+896
+00:38:49,680 --> 00:38:54,680
+your schizotypal
+personality disorders,
+
+897
+00:38:54,680 --> 00:38:57,340
+right? They're
+quirky, they're weird,
+
+898
+00:38:58,220 --> 00:39:00,320
+you know, their
+aesthetic is a little bit
+
+899
+00:39:00,320 --> 00:39:03,300
+odd, but relatively
+harmless overall, right?
+
+900
+00:39:03,640 --> 00:39:07,200
+Here we have
+schizoid, which I
+
+901
+00:39:07,200 --> 00:39:08,840
+like to think of
+Dr. House from
+
+902
+00:39:08,840 --> 00:39:10,440
+House MD, it's
+an older show,
+
+903
+00:39:10,620 --> 00:39:13,000
+as well as Sheldon
+Cooper from Big Bang
+
+904
+00:39:13,000 --> 00:39:15,360
+Theory. I can't believe
+to say that's old now
+
+905
+00:39:15,360 --> 00:39:18,320
+too. But these guys,
+again, they are more
+
+906
+00:39:18,320 --> 00:39:21,300
+recluse, they like
+their alone time, right?
+
+907
+00:39:22,210 --> 00:39:23,760
+And really, it's one of
+
+908
+00:39:23,760 --> 00:39:25,240
+those things
+where, again,
+
+909
+00:39:25,360 --> 00:39:29,300
+just having a good idea
+of these archetypes
+
+910
+00:39:29,300 --> 00:39:32,270
+in your head is going
+to help you kind of
+
+911
+00:39:32,270 --> 00:39:35,760
+get to that answer in
+that question stem a lot
+
+912
+00:39:35,760 --> 00:39:38,140
+quicker and a lot more
+efficiently so just
+
+913
+00:39:38,140 --> 00:39:40,660
+to wrap this up schizoid
+there's no interest
+
+914
+00:39:40,660 --> 00:39:42,940
+in relationships it's
+inclusive to self
+
+915
+00:39:42,940 --> 00:39:45,440
+kind of a loner they
+might prefer to work
+
+916
+00:39:45,440 --> 00:39:47,220
+nighttime jobs they don't
+have to interact with
+
+917
+00:39:47,220 --> 00:39:49,460
+many people and
+schizotypal again that
+
+918
+00:39:49,460 --> 00:39:51,800
+eccentric magical thinking
+you can also think
+
+919
+00:39:51,800 --> 00:39:53,400
+of like miss frizzle
+from the magic school
+
+920
+00:39:53,400 --> 00:39:57,500
+bus for schizotypal
+um odd beliefs aloof
+
+921
+00:39:57,500 --> 00:40:00,920
+dressing weirdly okay so
+all of these things kind
+
+922
+00:40:00,920 --> 00:40:04,320
+of define these two
+schizoid and schizotypal
+
+923
+00:40:04,320 --> 00:40:05,580
+personality disorders.
+And again, you'll
+
+924
+00:40:05,580 --> 00:40:07,080
+learn more about these
+in another lecture.
+
+925
+00:40:08,950 --> 00:40:11,260
+So last but not least,
+here's some clinical
+
+926
+00:40:11,260 --> 00:40:13,260
+pearls for your
+psych rotation in
+
+927
+00:40:13,260 --> 00:40:14,700
+the future, right?
+And if you're ever
+
+928
+00:40:14,700 --> 00:40:16,500
+dealing with a patient
+that presents with
+
+929
+00:40:16,500 --> 00:40:19,100
+an acute psychotic
+episode, or maybe they
+
+930
+00:40:19,100 --> 00:40:20,870
+are admitted again
+after being a
+
+931
+00:40:20,870 --> 00:40:22,320
+frequent flyer, you
+always want to look at
+
+932
+00:40:22,320 --> 00:40:24,520
+their teeth, as poor
+dentition is quite
+
+933
+00:40:24,520 --> 00:40:26,760
+common in chronic
+schizophrenia, right?
+
+934
+00:40:27,020 --> 00:40:28,420
+Schizophrenia also almost
+
+935
+00:40:28,420 --> 00:40:30,940
+always leads to
+nicotine use,
+
+936
+00:40:31,100 --> 00:40:33,700
+all right? Again,
+this is a correlation,
+
+937
+00:40:34,340 --> 00:40:37,940
+but a lot of it is
+really due to needing an
+
+938
+00:40:37,940 --> 00:40:40,080
+escape or something
+to distract themselves
+
+939
+00:40:40,080 --> 00:40:41,940
+from hallucinations and
+delusions they might
+
+940
+00:40:41,940 --> 00:40:44,900
+currently be experiencing.
+Now, hallucinations
+
+941
+00:40:44,900 --> 00:40:47,280
+in the absence of any
+negative symptoms,
+
+942
+00:40:47,280 --> 00:40:49,670
+remember like they're
+a flat affect, and
+
+943
+00:40:49,670 --> 00:40:52,500
+especially without
+the other positive
+
+944
+00:40:52,500 --> 00:40:56,780
+symptoms is almost
+always going to be due to
+
+945
+00:40:56,780 --> 00:41:00,400
+substance or a medical
+cause, okay? So if you
+
+946
+00:41:00,400 --> 00:41:02,360
+just have an individual
+coming in with
+
+947
+00:41:02,360 --> 00:41:03,660
+hallucinations, you
+really need to do your due
+
+948
+00:41:03,660 --> 00:41:06,060
+diligence to investigate
+and make sure
+
+949
+00:41:06,060 --> 00:41:10,560
+that you're getting
+what you need from the
+
+950
+00:41:10,560 --> 00:41:13,520
+patient to make the
+most accurate diagnosis.
+
+951
+00:41:13,910 --> 00:41:15,700
+Substance use is
+also quite common in
+
+952
+00:41:15,700 --> 00:41:17,680
+schizophrenia, as we
+talked about before. They
+
+953
+00:41:17,680 --> 00:41:19,440
+use it as a coping
+skill to manage the
+
+954
+00:41:19,440 --> 00:41:21,200
+illness, whether it's
+nicotine, *********,
+
+955
+00:41:21,200 --> 00:41:23,760
+a other type of drug
+use. And then always
+
+956
+00:41:23,760 --> 00:41:25,840
+trust your gut, right?
+So if you're ever
+
+957
+00:41:25,840 --> 00:41:27,200
+in a room and you
+feel like a patient
+
+958
+00:41:27,200 --> 00:41:28,780
+is aggressive, maybe
+you're trying verbal
+
+959
+00:41:28,780 --> 00:41:30,400
+de-escalation or
+something like that, and
+
+960
+00:41:30,400 --> 00:41:32,460
+it is really not
+working, you can always
+
+961
+00:41:32,460 --> 00:41:33,760
+leave the interview
+room if you feel
+
+962
+00:41:33,760 --> 00:41:36,260
+threatened or suddenly
+scared. It is perfectly
+
+963
+00:41:36,260 --> 00:41:38,780
+okay. It is acceptable.
+And really, it
+
+964
+00:41:38,780 --> 00:41:40,660
+is the preferred method
+of making sure that
+
+965
+00:41:40,660 --> 00:41:43,900
+you are safe in your
+clinical practice.
+
+966
+00:41:45,920 --> 00:41:48,360
+All right. And so these
+next couple slides
+
+967
+00:41:48,360 --> 00:41:50,140
+are going to be
+summary slides you guys
+
+968
+00:41:50,140 --> 00:41:52,000
+can take a look at
+these by no means are
+
+969
+00:41:52,000 --> 00:41:54,180
+these all inclusive
+but it's a really good
+
+970
+00:41:54,180 --> 00:41:56,140
+way to kind of break
+down the info if you
+
+971
+00:41:56,140 --> 00:41:57,960
+guys like to make
+flash cards like anki
+
+972
+00:41:58,040 --> 00:42:03,220
+again another summary
+slide here are some
+
+973
+00:42:03,220 --> 00:42:05,680
+of the references again
+never neglect first
+
+974
+00:42:05,680 --> 00:42:07,720
+aid they have really
+good summary charts
+
+975
+00:42:07,720 --> 00:42:10,080
+and explanations dirty
+medicine is great
+
+976
+00:42:10,080 --> 00:42:13,180
+up-to-date if you have
+that Arctos link all
+
+977
+00:42:13,180 --> 00:42:15,800
+really good references
+for any additional
+
+978
+00:42:16,760 --> 00:42:18,040
+information that you
+guys want to look
+
+979
+00:42:18,040 --> 00:42:22,960
+up or dive into and
+here is the lecture and
+
+980
+00:42:22,960 --> 00:42:25,080
+lab feedback form so
+hopefully you guys
+
+981
+00:42:25,080 --> 00:42:27,380
+enjoyed this lecture
+hope it was informative
+
+982
+00:42:27,700 --> 00:42:31,060
+and have a great
+rest of your semester

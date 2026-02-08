@@ -1,0 +1,68 @@
+window.receiveLectureContent({
+    "id": "l58",
+    "title": "Lecture 58: Pharmacology: Parkinson and Alzheimer",
+    "module": "Neurology",
+    "summary": "# Lecture 58: Pharmacology: Parkinson and Alzheimer\n\n**Lecturer:** M. Pino, Ph.D.\n**Session:** Lecture 58\n\n## 1. Parkinson's Disease (PD) Pharmacology\n**Goal:** Restore Dopamine (DA) levels or reduce Acetylcholine (ACh) activity to fix the DA/ACh imbalance.\n\n### 1.1 Levodopa / Carbidopa (Sinemet)\n*   **Mechanism:**\n    *   **Levodopa (L-Dopa):** Precursor to Dopamine. Crosses the Blood-Brain Barrier (BBB) via neutral amino acid transporter. Converted to DA by **Dopa Decarboxylase (DDC)**.\n    *   **Carbidopa:** Inhibits **Peripheral DDC**. Does **NOT** cross BBB.\n    *   **Why Combine?** Without Carbidopa, only 1-3% of L-Dopa enters the brain (most converted peripherally $\\rightarrow$ side effects). With Carbidopa, **10%** enters brain.\n*   **Adverse Effects:**\n    *   **Peripheral:** Nausea/Vomiting (CTZ stimulation), **Orthostatic Hypotension**, Cardiac Arrhythmias.\n    *   **Central:** **Dyskinesias** (writhing movements after long-term use), **Psychosis** (Hallucinations/Delusions).\n*   **Drug Interactions:**\n    *   **High Protein Meals:** Amino acids compete for transporter $\\rightarrow$ Decrease efficacy.\n    *   **Vitamin B6 (Pyridoxine):** Increases peripheral breakdown of L-Dopa (Avoid high doses).\n\n### 1.2 COMT Inhibitors (\"-capone\")\n*   **Mechanism:** Inhibit Catechol-O-Methyltransferase (COMT), blocking conversion of L-Dopa to 3-O-Methyldopa (3-OMD). **Prolongs L-Dopa half-life** (\"On\" time).\n*   **Agents:**\n    *   **Entacapone:** Peripheral inhibition only.\n    *   **Tolcapone:** Central & Peripheral. **Black Box Warning: Hepatotoxicity** (Monitor LFTs).\n    *   **Opicapone:** Long-acting (Once daily).\n*   **Side Effect:** **Orange/Brown discoloration of urine**.\n\n### 1.3 MAO-B Inhibitors (\"-giline\")\n*   **Mechanism:** Inhibit Monoamine Oxidase B (MAO-B), preventing central breakdown of Dopamine.\n*   **Agents:**\n    *   **Selegiline:** Metabolized to **Amphetamine/Methamphetamine** $\\rightarrow$ **Insomnia** (Do not take late at night).\n    *   **Rasagiline:** Irreversible inhibitor.\n    *   **Safinamide:** Reversible MAO-B inhibitor + Glutamate modulation.\n*   **Neuroprotection:** May prevent MPTP conversion to toxic MPP+ (preventing mitochondrial damage).\n*   **Interactions:** Risk of **Serotonin Syndrome** if combined with SSRIs/TCAs (though risk is lower with selective MAO-B vs MAO-A).\n\n### 1.4 Dopamine Agonists\n*   **Mechanism:** Directly stimulate Post-synaptic Dopamine Receptors (D2/D3). No conversion needed.\n*   **Agents:**\n    *   **Pramipexole (Mirapex):** D3 > D2. Antioxidant properties. Also for **Restless Leg Syndrome (RLS)**.\n    *   **Ropinirole (Requip):** D2/D3. Also for RLS.\n    *   **Rotigotine:** Transdermal Patch (stable levels).\n*   **Adverse Effects:**\n    *   **Impulse Control Disorders:** Pathological Gambling, Hypersexuality, Shopping.\n    *   **Sleep Attacks:** Sudden onset of sleep without warning.\n\n### 1.5 Rescue Therapy: Apomorphine\n*   **Use:** Acute **subcutaneous** injection for severe \"Off\" episodes (Freezing).\n*   **Adverse Effect:** Severe Nausea/Vomiting.\n*   **Management:** Pre-treat with **Trimethobenzamide**.\n*   **Contraindication:** **Do NOT use 5-HT3 Antagonists (Ondansetron/Zofran)** $\\rightarrow$ Causes profound **Hypotension** and Syncope.\n\n### 1.6 Amantadine\n*   **Mechanism:** Antiviral (Flu A - M2 channel blocker). In PD: **NMDA Receptor Antagonist** + increases DA release.\n*   **Use:** Treating **Levodopa-induced Dyskinesias**.\n*   **Side Effect:** **Livedo Reticularis** (Purplish, net-like skin rash).\n\n### 1.7 Adenosine Antagonist: Istradefylline\n*   **Mechanism:** Adenosine A2A receptor antagonist in Basal Ganglia. Reduces \"Off\" time.\n*   **Side Effects:** Insomnia (Structurally related to **Caffeine**).\n\n### 1.8 Anticholinergics (Benztropine, Trihexyphenidyl)\n*   **Use:** Tremor predominant PD.\n*   **Adverse Effect:** Antimuscarinic (Dry mouth, urinary retention, confusion). **Avoid in Geriatrics (Beers List)**.\n\n---\n\n## 2. Alzheimer's Disease (AD) Pharmacology\n**Goal:** Increase Acetylcholine (ACh) or reduce Glutamate Excitotoxicity.\n\n### 2.1 Acetylcholinesterase Inhibitors (AChEIs)\n*   **Mechanism:** Inhibit breakdown of ACh in the synaptic cleft.\n*   **Agents:**\n    *   **Donepezil (Aricept).**\n    *   **Rivastigmine:** Inhibits AChE and Butyrylcholinesterase. Patch available.\n    *   **Galantamine:** Also acts as a nicotinic receptor agonist.\n*   **Adverse Effects:** **Cholinergic Excess (SLUDGE)**.\n    *   Nausea, Diarrhea, Vomiting.\n    *   **Bradycardia:** Risk of syncope (Caution with Beta-blockers).\n    *   Bronchoconstriction (Caution in asthma/COPD).\n\n### 2.2 NMDA Receptor Antagonist\n*   **Agent:** **Memantine**.\n*   **Mechanism:** **Uncompetitive NMDA Antagonist**. Blocks tonic/excessive glutamate stimulation (excitotoxicity) while allowing physiologic signals.\n*   **Use:** Moderate to Severe AD. Can be combined with AChEIs.\n\n### 2.3 Anti-Amyloid Monoclonal Antibodies\n*   **Mechanism:** Bind and clear Amyloid Beta plaques.\n*   **Agents:**\n    *   **Lecanemab:** Targets Protofibrils.\n    *   **Donanemab.**\n*   **Adverse Effects:** **ARIA (Amyloid-Related Imaging Abnormalities)**.\n    *   **ARIA-E:** Edema/Effusion.\n    *   **ARIA-H:** Micro-Hemorrhage/Hemosiderin.\n    *   **Monitoring:** Requires serial **MRIs**.\n\n---\n\n## 3. High Yield Renders\n\n:::highyield\n**Parkinson's Drug Toxicities & Pearls**\n| Drug | Key Mechanism/Fact | The \"Board Exam\" Side Effect |\n| :--- | :--- | :--- |\n| **Carbidopa** | Peripheral DDC Inhibitor | Reduces **Peripheral** side effects (Nausea/Ortho) |\n| **Tolcapone** | COMT Inhibitor (Central/Periph) | **Hepatotoxicity** (Monitor LFTs) |\n| **Entacapone** | COMT Inhibitor (Peripheral) | **Orange Urine** |\n| **Selegiline** | MAO-B Inhibitor | Metabolized to **Amphetamine** (Insomnia) |\n| **Dopamine Agonists** | Pramipexole, Ropinirole | **Impulse Control (Gambling)**, Sleep Attacks |\n| **Apomorphine** | \"Rescue\" Injection | Severe Nausea (**NO Zofran!** $\\rightarrow$ Hypotension) |\n| **Amantadine** | NMDA Antagonist | **Livedo Reticularis** (Lacy rash) |\n:::\n\n:::highyield\n**Alzheimer's Drug Toxicities**\n| Class | Agents | Key Side Effects |\n| :--- | :--- | :--- |\n| **AChE Inhibitors** | Donepezil, Rivastigmine, Galantamine | **Bradycardia** (Falls/Syncope), Diarrhea, Nausea |\n| **NMDA Antagonist** | Memantine | Dizziness, Confusion (Use in Mod-Severe AD) |\n| **Monoclonals** | Lecanemab, Donanemab | **ARIA** (Edema/Hemorrhage on MRI) |\n:::\n",
+    "questions": [
+        {
+            "question": "A 75-year-old male with Parkinson's disease is started on Selegiline as an adjunct to his regimen. He complains of difficulty falling asleep. This side effect is most likely due to the metabolism of the drug into which substance?",
+            "options": [
+                "Dopamine",
+                "Norepinephrine",
+                "Amphetamine",
+                "Serotonin",
+                "Histamine"
+            ],
+            "correctAnswer": 2,
+            "rationale": "**Selegiline** (an MAO-B inhibitor) is metabolized into l-methamphetamine and **l-amphetamine**, which have stimulant properties and can cause **insomnia**. It should be taken earlier in the day."
+        },
+        {
+            "question": "A patient with Parkinson's disease experiences severe \"off\" episodes where he freezes and cannot move. His physician prescribes a subcutaneous rescue medication. Which antiemetic is CONTRAINDICATED in this patient due to the risk of profound hypotension?",
+            "options": [
+                "Trimethobenzamide",
+                "Ondansetron",
+                "Promethazine",
+                "Prochlorperazine",
+                "Metoclopramide"
+            ],
+            "correctAnswer": 1,
+            "rationale": "The rescue medication is likely **Apomorphine**. It causes severe nausea, but it is **CONTRAINDICATED** to use 5-HT3 antagonists like **Ondansetron (Zofran)** because the combination causes severe **hypotension** and loss of consciousness. Trimethobenzamide is the preferred antiemetic."
+        },
+        {
+            "question": "A 68-year-old female is prescribed Entacapone to help manage her motor fluctuations. She calls the clinic in a panic because her urine has changed color. What color is her urine likely to be?",
+            "options": [
+                "Blue",
+                "Red",
+                "Orange/Brown",
+                "Green",
+                "Black"
+            ],
+            "correctAnswer": 2,
+            "rationale": "**Entacapone** (a COMT inhibitor) is known to cause a harmless **orange or brownish discoloration of the urine**."
+        },
+        {
+            "question": "A patient with Alzheimer's disease is started on Donepezil. During a follow-up visit, his heart rate is noted to be 48 bpm. This bradycardia is a result of:",
+            "options": [
+                "Blockade of Nicotinic receptors",
+                "Increased Acetylcholine activity at the SA node",
+                "Inhibition of Calcium channels",
+                "Stimulation of Beta-1 receptors",
+                "Blockade of Muscarinic receptors"
+            ],
+            "correctAnswer": 1,
+            "rationale": "**Donepezil** is an **Acetylcholinesterase Inhibitor**, which increases levels of Acetylcholine. Excess ACh acts on M2 muscarinic receptors in the heart (parasympathetic activation), leading to **Bradycardia**, which can increase the risk of syncope and falls."
+        },
+        {
+            "question": "A patient with early Alzheimer's disease is started on Lecanemab. Two months later, a surveillance MRI is performed. It shows areas of edema (ARIA-E). What is the mechanism of action of this drug?",
+            "options": [
+                "Uncompetitive NMDA receptor antagonist",
+                "Acetylcholinesterase inhibitor",
+                "Monoclonal antibody against Amyloid Beta",
+                "Muscarinic receptor agonist",
+                "Inhibitor of Tau phosphorylation"
+            ],
+            "correctAnswer": 2,
+            "rationale": "**Lecanemab** is a **monoclonal antibody** that targets **Amyloid Beta** protofibrils. A known adverse effect of this class is **Amyloid Related Imaging Abnormalities (ARIA)**, which can present as edema (ARIA-E) or hemorrhage (ARIA-H)."
+        }
+    ]
+});
