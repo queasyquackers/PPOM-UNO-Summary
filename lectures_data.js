@@ -10406,134 +10406,134 @@ Decisions for screening should be individualized based on life expectancy (>10 y
 :::`,
         questions: [
             {
-                        question: '**1. A 75-year-old male presents with a history of falls. The Timed Up and Go (TUG) test is performed, and the patient takes 16 seconds to complete it. What is the clinical interpretation?**',
-                        options: [
-                                    'Normal mobility (Low risk)',
-                                    'Indicates high risk of falls (> 12 seconds)',
-                                    'Indicates severe dementia',
-                                    'Indicates need for immediate hospitalization',
-                                    'Indicates orthostatic hypotension'
-                        ],
-                        correctAnswer: 1,
-                        rationale: 'A **TUG score > 12 seconds** indicates an increased risk of falling. Scores > 20 seconds indicate high risk. Under 10 seconds is considered normal.'
+                question: '**1. A 75-year-old male presents with a history of falls. The Timed Up and Go (TUG) test is performed, and the patient takes 16 seconds to complete it. What is the clinical interpretation?**',
+                options: [
+                    'Normal mobility (Low risk)',
+                    'Indicates high risk of falls (> 12 seconds)',
+                    'Indicates severe dementia',
+                    'Indicates need for immediate hospitalization',
+                    'Indicates orthostatic hypotension'
+                ],
+                correctAnswer: 1,
+                rationale: 'A **TUG score > 12 seconds** indicates an increased risk of falling. Scores > 20 seconds indicate high risk. Under 10 seconds is considered normal.'
             },
             {
-                        question: '**2. Which of the following is an example of an Instrumental Activity of Daily Living (IADL)?**',
-                        options: [
-                                    'Bathing',
-                                    'Dressing',
-                                    'Managing Finances',
-                                    'Toileting',
-                                    'Feeding'
-                        ],
-                        correctAnswer: 2,
-                        rationale: '**Managing finances** is an IADL (requires higher cognitive function). Bathing, Dressing, Toileting, and Feeding are basic ADLs (DEATH mnemonic).'
+                question: '**2. Which of the following is an example of an Instrumental Activity of Daily Living (IADL)?**',
+                options: [
+                    'Bathing',
+                    'Dressing',
+                    'Managing Finances',
+                    'Toileting',
+                    'Feeding'
+                ],
+                correctAnswer: 2,
+                rationale: '**Managing finances** is an IADL (requires higher cognitive function). Bathing, Dressing, Toileting, and Feeding are basic ADLs (DEATH mnemonic).'
             },
             {
-                        question: '**3. According to the Beers Criteria, which class of medications should be avoided in the elderly due to the risk of confusion, urinary retention, and constipation?**',
-                        options: [
-                                    'ACE Inhibitors',
-                                    'Anticholinergics (e.g., Diphenhydramine)',
-                                    'Statins',
-                                    'Calcium Channel Blockers',
-                                    'SSRIs'
-                        ],
-                        correctAnswer: 1,
-                        rationale: '**Anticholinergics** (like Benadryl/Diphenhydramine) have strong side effects in the elderly (confusion, retention, constipation, dry mouth) and are on the Beers Criteria 'Do Not Use' list.'
+                question: '**3. According to the Beers Criteria, which class of medications should be avoided in the elderly due to the risk of confusion, urinary retention, and constipation?**',
+                options: [
+                    'ACE Inhibitors',
+                    'Anticholinergics (e.g., Diphenhydramine)',
+                    'Statins',
+                    'Calcium Channel Blockers',
+                    'SSRIs'
+                ],
+                correctAnswer: 1,
+                rationale: "**Anticholinergics** (like Benadryl/Diphenhydramine) have strong side effects in the elderly (confusion, retention, constipation, dry mouth) and are on the Beers Criteria 'Do Not Use' list."
             },
             {
-                        question: '**4. What is the primary difference between Dementia and Delirium?**',
-                        options: [
-                                    'Dementia is acute; Delirium is chronic',
-                                    'Dementia affects attention first; Delirium affects memory first',
-                                    'Delirium has an acute onset and fluctuating course; Dementia is chronic and progressive',
-                                    'Delirium is irreversible; Dementia is reversible',
-                                    'There is no difference'
-                        ],
-                        correctAnswer: 2,
-                        rationale: '**Delirium** is acute, fluctuating, and affects attention/consciousness (often reversible). **Dementia** is chronic, progressive, and initially affects memory (consciousness is intact until late stages).'
+                question: '**4. What is the primary difference between Dementia and Delirium?**',
+                options: [
+                    'Dementia is acute; Delirium is chronic',
+                    'Dementia affects attention first; Delirium affects memory first',
+                    'Delirium has an acute onset and fluctuating course; Dementia is chronic and progressive',
+                    'Delirium is irreversible; Dementia is reversible',
+                    'There is no difference'
+                ],
+                correctAnswer: 2,
+                rationale: '**Delirium** is acute, fluctuating, and affects attention/consciousness (often reversible). **Dementia** is chronic, progressive, and initially affects memory (consciousness is intact until late stages).'
             },
             {
-                        question: '**5. A 67-year-old female has a DEXA scan T-score of -2.7. What is the diagnosis?**',
-                        options: [
-                                    'Normal Bone Density',
-                                    'Osteopenia',
-                                    'Osteoporosis',
-                                    'Severe Osteoporosis (with fracture)',
-                                    'Osteomalacia'
-                        ],
-                        correctAnswer: 2,
-                        rationale: 'A **T-score < -2.5** defines **Osteoporosis**. Osteopenia is between -1.0 and -2.5. Normal is > -1.0.'
+                question: '**5. A 67-year-old female has a DEXA scan T-score of -2.7. What is the diagnosis?**',
+                options: [
+                    'Normal Bone Density',
+                    'Osteopenia',
+                    'Osteoporosis',
+                    'Severe Osteoporosis (with fracture)',
+                    'Osteomalacia'
+                ],
+                correctAnswer: 2,
+                rationale: 'A **T-score < -2.5** defines **Osteoporosis**. Osteopenia is between -1.0 and -2.5. Normal is > -1.0.'
             }
-],
+        ],
         flashcards: [
             {
-                        "front": "What is the cutoff score for a positive Mini-Cog?",
-                        "back": "< 3/5 (Recall < 3 or Abnormal Clock)",
-                        "tag": "Diagnosis"
+                "front": "What is the cutoff score for a positive Mini-Cog?",
+                "back": "< 3/5 (Recall < 3 or Abnormal Clock)",
+                "tag": "Diagnosis"
             },
             {
-                        "front": "Which screening tool is best for Mild Cognitive Impairment (MCI)?",
-                        "back": "MoCA (Montreal Cognitive Assessment)",
-                        "tag": "Diagnosis"
+                "front": "Which screening tool is best for Mild Cognitive Impairment (MCI)?",
+                "back": "MoCA (Montreal Cognitive Assessment)",
+                "tag": "Diagnosis"
             },
             {
-                        "front": "Which vaccines are recommended specifically for adults > 65?",
-                        "back": "High-dose Flu, Pneumococcal (PCV20 or PCV15+PPSV23), Zoster (Shingrix)",
-                        "tag": "Prevention"
+                "front": "Which vaccines are recommended specifically for adults > 65?",
+                "back": "High-dose Flu, Pneumococcal (PCV20 or PCV15+PPSV23), Zoster (Shingrix)",
+                "tag": "Prevention"
             },
             {
-                        "front": "What condition presents with high-frequency hearing loss in the elderly?",
-                        "back": "Presbycusis",
-                        "tag": "Clinical"
+                "front": "What condition presents with high-frequency hearing loss in the elderly?",
+                "back": "Presbycusis",
+                "tag": "Clinical"
             },
             {
-                        "front": "What is the FRAX score used for?",
-                        "back": "Calculating 10-year fracture risk to guide treatment in Osteopenia",
-                        "tag": "Management"
+                "front": "What is the FRAX score used for?",
+                "back": "Calculating 10-year fracture risk to guide treatment in Osteopenia",
+                "tag": "Management"
             },
             {
-                        "front": "What is the most common cause of elder abuse?",
-                        "back": "Family members (90%)",
-                        "tag": "Clinical"
+                "front": "What is the most common cause of elder abuse?",
+                "back": "Family members (90%)",
+                "tag": "Clinical"
             }
-],
+        ],
         ankingResource: {
             "primarySource": "BandB",
             "chapter": "Geriatrics > General",
             "alternatives": [
-                        {
-                                    "resource": "FirstAid",
-                                    "chapter": "Public Health Sciences > Geriatrics"
-                        },
-                        {
-                                    "resource": "SketchyPath",
-                                    "chapter": "Bone > Osteoporosis"
-                        }
+                {
+                    "resource": "FirstAid",
+                    "chapter": "Public Health Sciences > Geriatrics"
+                },
+                {
+                    "resource": "SketchyPath",
+                    "chapter": "Bone > Osteoporosis"
+                }
             ]
-},
+        },
         pearls: [
             {
-                        "title": "S4 in Elderly",
-                        "content": "An S4 heart sound is often a normal finding in the elderly due to decreased ventricular compliance (stiff ventricle)."
+                "title": "S4 in Elderly",
+                "content": "An S4 heart sound is often a normal finding in the elderly due to decreased ventricular compliance (stiff ventricle)."
             },
             {
-                        "title": "Atypical Presentation",
-                        "content": "Geriatric patients often present with 'confusion' or 'falls' for serious conditions like pneumonia, UTI, or MI, rather than typical fever or chest pain."
+                "title": "Atypical Presentation",
+                "content": "Geriatric patients often present with 'confusion' or 'falls' for serious conditions like pneumonia, UTI, or MI, rather than typical fever or chest pain."
             },
             {
-                        "title": "IADLs vs ADLs",
-                        "content": "IADL impairment (Managing finances, driving) often precedes ADL impairment (Bathing, Eating). IADLs require higher-level executive function."
+                "title": "IADLs vs ADLs",
+                "content": "IADL impairment (Managing finances, driving) often precedes ADL impairment (Bathing, Eating). IADLs require higher-level executive function."
             },
             {
-                        "title": "Osteoporosis Cutoffs",
-                        "content": "Normal: > -1.0\nOsteopenia: -1.0 to -2.5\nOsteoporosis: < -2.5"
+                "title": "Osteoporosis Cutoffs",
+                "content": "Normal: > -1.0\nOsteopenia: -1.0 to -2.5\nOsteoporosis: < -2.5"
             },
             {
-                        "title": "Fall Risk Cutoff",
-                        "content": "A Timed Up and Go (TUG) test > 12 seconds indicates fall risk (>20s is high risk)."
+                "title": "Fall Risk Cutoff",
+                "content": "A Timed Up and Go (TUG) test > 12 seconds indicates fall risk (>20s is high risk)."
             }
-],
+        ],
         mindmap: `### The Aging Patient
 
 #### Physiology of Aging
@@ -10677,127 +10677,127 @@ These involve the entire sacral base moving together (Symmetric).
 :::`,
         questions: [
             {
-                        question: '**1. A patient presents with low back pain. Structural exam reveals a positive Seated Flexion Test on the Right. The Right Sacral Sulcus is deep, and the Right ILA is posterior/inferior. The Spring test is negative. What is the diagnosis?**',
-                        options: [
-                                    'Right Unilateral Sacral Extension',
-                                    'Left Unilateral Sacral Extension',
-                                    'Right Unilateral Sacral Flexion',
-                                    'Left Unilateral Sacral Flexion',
-                                    'Right on Right Sacral Torsion'
-                        ],
-                        correctAnswer: 2,
-                        rationale: 'The positive Seated Flexion Test lateralizes to the **Right**. Deep Sulcus + Posterior ILA on the **SAME side** indicates a **Unilateral (Shear)** dysfunction. Since the landmarks (Deep/Posterior) indicate the sacral base has moved anteriorly (Flexion), and the Spring test is Negative (confirms Flexion), it is a Right Unilateral Sacral Flexion.'
+                question: '**1. A patient presents with low back pain. Structural exam reveals a positive Seated Flexion Test on the Right. The Right Sacral Sulcus is deep, and the Right ILA is posterior/inferior. The Spring test is negative. What is the diagnosis?**',
+                options: [
+                    'Right Unilateral Sacral Extension',
+                    'Left Unilateral Sacral Extension',
+                    'Right Unilateral Sacral Flexion',
+                    'Left Unilateral Sacral Flexion',
+                    'Right on Right Sacral Torsion'
+                ],
+                correctAnswer: 2,
+                rationale: 'The positive Seated Flexion Test lateralizes to the **Right**. Deep Sulcus + Posterior ILA on the **SAME side** indicates a **Unilateral (Shear)** dysfunction. Since the landmarks (Deep/Posterior) indicate the sacral base has moved anteriorly (Flexion), and the Spring test is Negative (confirms Flexion), it is a Right Unilateral Sacral Flexion.'
             },
             {
-                        question: '**2. In a patient with a Left Unilateral Sacral Extension, what are the expected findings for the L5 vertebra?**',
-                        options: [
-                                    'Rotated Left',
-                                    'Rotated Right',
-                                    'Neutral',
-                                    'Flexed',
-                                    'Sidebent Right'
-                        ],
-                        correctAnswer: 1,
-                        rationale: 'In Left Unilateral Extension, the Left sacral base is Shallow (Posterior) and the Right is relatively Deep (Anterior). **L5 rotates toward the Deep Sulcus** (Right). Therefore, L5 is Rotated Right.'
+                question: '**2. In a patient with a Left Unilateral Sacral Extension, what are the expected findings for the L5 vertebra?**',
+                options: [
+                    'Rotated Left',
+                    'Rotated Right',
+                    'Neutral',
+                    'Flexed',
+                    'Sidebent Right'
+                ],
+                correctAnswer: 1,
+                rationale: 'In Left Unilateral Extension, the Left sacral base is Shallow (Posterior) and the Right is relatively Deep (Anterior). **L5 rotates toward the Deep Sulcus** (Right). Therefore, L5 is Rotated Right.'
             },
             {
-                        question: '**3. Which of the following findings is consistent with a Bilateral Sacral Flexion?**',
-                        options: [
-                                    'Positive Spring Test',
-                                    'Bilateral Shallow Sulci',
-                                    'Bilateral Posterior/Inferior ILAs',
-                                    'Positive Sphinx Test',
-                                    'Bilateral Anterior/Superior ILAs'
-                        ],
-                        correctAnswer: 2,
-                        rationale: 'Bilateral Flexion = Nutated (Base Forward, Apex Back). Apex Back = Posterior ILAs. Base Forward = Deep Sulci. Spring Test should be Negative.'
+                question: '**3. Which of the following findings is consistent with a Bilateral Sacral Flexion?**',
+                options: [
+                    'Positive Spring Test',
+                    'Bilateral Shallow Sulci',
+                    'Bilateral Posterior/Inferior ILAs',
+                    'Positive Sphinx Test',
+                    'Bilateral Anterior/Superior ILAs'
+                ],
+                correctAnswer: 2,
+                rationale: 'Bilateral Flexion = Nutated (Base Forward, Apex Back). Apex Back = Posterior ILAs. Base Forward = Deep Sulci. Spring Test should be Negative.'
             },
             {
-                        question: '**4. The Spring Test applies a force in which direction?**',
-                        options: [
-                                    'Anteriorly on the Sacral Base',
-                                    'Posteriorly on the Sacral Apex',
-                                    'Anteriorly on the L5 Spinous Process',
-                                    'Superiorly on the Ischial Tuberosities',
-                                    'Medially on the PSIS'
-                        ],
-                        correctAnswer: 0,
-                        rationale: 'The Spring test involves applying a PA (Posterior-to-Anterior) force on the **lumbosacral junction/sacral base** to assess for resistance.'
+                question: '**4. The Spring Test applies a force in which direction?**',
+                options: [
+                    'Anteriorly on the Sacral Base',
+                    'Posteriorly on the Sacral Apex',
+                    'Anteriorly on the L5 Spinous Process',
+                    'Superiorly on the Ischial Tuberosities',
+                    'Medially on the PSIS'
+                ],
+                correctAnswer: 0,
+                rationale: 'The Spring test involves applying a PA (Posterior-to-Anterior) force on the **lumbosacral junction/sacral base** to assess for resistance.'
             },
             {
-                        question: '**5. Which axis is associated with Unilateral Sacral Dysfunctions (Shears)?**',
-                        options: [
-                                    'Superior Transverse',
-                                    'Middle Transverse',
-                                    'Inferior Transverse',
-                                    'Oblique Axis',
-                                    'No Axis (Non-physiologic shift)'
-                        ],
-                        correctAnswer: 4,
-                        rationale: 'Unilateral dysfunctions are often called **Shears** because they do not occur around a specific axis, unlike torsions (Oblique) or physiologic flexion/extension (Middle Transverse).'
+                question: '**5. Which axis is associated with Unilateral Sacral Dysfunctions (Shears)?**',
+                options: [
+                    'Superior Transverse',
+                    'Middle Transverse',
+                    'Inferior Transverse',
+                    'Oblique Axis',
+                    'No Axis (Non-physiologic shift)'
+                ],
+                correctAnswer: 4,
+                rationale: 'Unilateral dysfunctions are often called **Shears** because they do not occur around a specific axis, unlike torsions (Oblique) or physiologic flexion/extension (Middle Transverse).'
             }
-],
+        ],
         flashcards: [
             {
-                        "front": "Positive Spring Test indicates what?",
-                        "back": "Sacral Extension (Resistance / Bad Dog)",
-                        "tag": "Diagnosis"
+                "front": "Positive Spring Test indicates what?",
+                "back": "Sacral Extension (Resistance / Bad Dog)",
+                "tag": "Diagnosis"
             },
             {
-                        "front": "Negative Spring Test indicates what?",
-                        "back": "Sacral Flexion (Good Spring / Good Dog)",
-                        "tag": "Diagnosis"
+                "front": "Negative Spring Test indicates what?",
+                "back": "Sacral Flexion (Good Spring / Good Dog)",
+                "tag": "Diagnosis"
             },
             {
-                        "front": "Landmarks for Unilateral Sacral Flexion (Same Side)?",
-                        "back": "Deep Sulcus + Posterior ILA (Same Side)",
-                        "tag": "Clinical"
+                "front": "Landmarks for Unilateral Sacral Flexion (Same Side)?",
+                "back": "Deep Sulcus + Posterior ILA (Same Side)",
+                "tag": "Clinical"
             },
             {
-                        "front": "Landmarks for Unilateral Sacral Extension (Same Side)?",
-                        "back": "Shallow Sulcus + Anterior ILA (Same Side)",
-                        "tag": "Clinical"
+                "front": "Landmarks for Unilateral Sacral Extension (Same Side)?",
+                "back": "Shallow Sulcus + Anterior ILA (Same Side)",
+                "tag": "Clinical"
             },
             {
-                        "front": "Seated Flexion Test lateralizes what?",
-                        "back": "Sacroiliac Dysfunction (Sacral side)",
-                        "tag": "Concept"
+                "front": "Seated Flexion Test lateralizes what?",
+                "back": "Sacroiliac Dysfunction (Sacral side)",
+                "tag": "Concept"
             },
             {
-                        "front": "Bilateral Sacral Flexion findings?",
-                        "back": "Deep Sulci Bilaterally, Posterior ILAs Bilaterally, Negative Spring",
-                        "tag": "Diagnosis"
+                "front": "Bilateral Sacral Flexion findings?",
+                "back": "Deep Sulci Bilaterally, Posterior ILAs Bilaterally, Negative Spring",
+                "tag": "Diagnosis"
             },
             {
-                        "front": "L5 Rotates toward which sacral landmark?",
-                        "back": "The Deep Sulcus",
-                        "tag": "Concept"
+                "front": "L5 Rotates toward which sacral landmark?",
+                "back": "The Deep Sulcus",
+                "tag": "Concept"
             }
-],
+        ],
         ankingResource: {
             "primarySource": "BandB",
             "chapter": "Osteopathic Medicine > Sacrum",
             "alternatives": [
-                        {
-                                    "resource": "FirstAid",
-                                    "chapter": "OMM > Sacrum"
-                        },
-                        {
-                                    "resource": "Savarese",
-                                    "chapter": "Sacrum"
-                        }
+                {
+                    "resource": "FirstAid",
+                    "chapter": "OMM > Sacrum"
+                },
+                {
+                    "resource": "Savarese",
+                    "chapter": "Sacrum"
+                }
             ]
-},
+        },
         pearls: [
             {
-                        "title": "Spring Test Mnemonic",
-                        "content": "Springing is fun (Flexion) -> Negative is Flexion. Resistance is hard -> Positive is Extension."
+                "title": "Spring Test Mnemonic",
+                "content": "Springing is fun (Flexion) -> Negative is Flexion. Resistance is hard -> Positive is Extension."
             },
             {
-                        "title": "Shear Identification",
-                        "content": "If the Deep Sulcus and Posterior ILA are on the **SAME** side, it's a Shear (Unilateral). If they are on **OPPOSITE** sides, it's a Torsion."
+                "title": "Shear Identification",
+                "content": "If the Deep Sulcus and Posterior ILA are on the **SAME** side, it's a Shear (Unilateral). If they are on **OPPOSITE** sides, it's a Torsion."
             }
-],
+        ],
         mindmap: `### Sacral Dysfunctions (Part 2)
 
 #### Unilateral (Shears)
@@ -10819,6 +10819,357 @@ These involve the entire sacral base moving together (Symmetric).
     *   **Sulci**: Shallow Bilaterally
     *   **ILAs**: Anterior Bilaterally
     *   **Tests**: Spring (+)`
+    },
+    {
+        id: "l65",
+        title: "Lecture #65: Pharmacology of General Anesthetics Part 2",
+        lecturer: "L. Goldstein, Pharm.D.",
+        module: "Pharmacology",
+        session: "Lecture #65",
+        prev: "l64",
+        next: "l66",
+        pdf: "pdfs/Lecture # 65. L. Goldstein, Pharm.D. (PPT) 2.12.26.pdf",
+        transcript: "transcripts/Lecture #65_ Pharmacology of General Anesthetics Part 2; Faculty_ L. Goldstein, Pharm.D..srt",
+        summary: `# Lecture #65: Pharmacology of General Anesthetics Part 2
+
+**Lecturer:** L. Goldstein, Pharm.D.
+**Session:** Lecture #65
+
+---
+
+## **Effect of Inhaled Anesthetics on Organ Systems**
+
+### **Cardiovascular Effects**
+Most inhaled anesthetics cause a dose-dependent decrease in blood pressure, but the mechanisms differ.
+- **Isoflurane, Desflurane, Sevoflurane:** Primarily decrease blood pressure by **decreasing systemic vascular resistance (vasodilation)** while preserving cardiac output.
+    - *Note:* This preservation of cardiac output makes them preferable for patients with impaired myocardial function compared to halothane.
+- **Halothane & Enflurane:** Decrease blood pressure primarily by **depressing myocardial contractility**, leading to decreased cardiac output.
+- **Nitrous Oxide (N2O):** Has negligible cardiovascular effects overall because its mild sympathetic stimulation offsets any direct myocardial depression.
+- **Baroreflex:** Generally depressed by volatile anesthetics.
+    - **Desflurane Exception:** Causes transient **sympathetic stimulation** (tachycardia, hypertension) when the concentration is increased rapidly.
+    - :::correlate
+    **Coronary Artery Disease (CAD)**
+    Limit the use of **Desflurane** (or increase concentration slowly) in patients with CAD, as the resulting tachycardia and hypertension can increase myocardial oxygen demand and induce **ischemia or infarction**.
+    :::
+
+### **Respiratory Effects**
+Volatile anesthetics are respiratory depressants.
+- **Ventilation:** Decrease tidal volume and increase respiratory rate (rapid, shallow breathing). The overall effect is a decrease in minute ventilation.
+- **CO2 Response:** They blunt the ventilatory response to hypercapnia (increased PaCO2).
+- **Airway Irritation:** Desflurane and Isoflurane are pungent and can cause coughing, breath-holding, or laryngospasm (poor for mask induction).
+- **Bronchodilation:** All volatiles cause bronchodilation. **Sevoflurane** is non-pungent and a potent bronchodilator, making it the **drug of choice for inhalational induction**, especially in patients with reactive airways (e.g., asthma).
+
+### **Cerebral Effects**
+- **Uncoupling:** Volatile anesthetics **increase cerebral blood flow (CBF)** (vasodilation) and **intracranial pressure (ICP)**, while simultaneously **decreasing cerebral metabolic rate of oxygen (CMRO2)**.
+    - *Note:* Nitrous oxide increases both CBF and CMRO2.
+    - *Note:* Sevoflurane increases ICP less than others.
+- :::correlate
+    **Increased Intracranial Pressure (ICP)**
+    Inhaled anesthetics should be used with caution in patients with space-occupying lesions (tumors) or head trauma, as the increase in CBF can dangerously elevate **intracranial pressure**. Hyperventilation (to lower PaCO2) can help counteract this vasodilation.
+    :::
+
+### **Neuromuscular & Renal/Hepatic**
+- **Muscle:** Volatiles relax skeletal muscle and potentiate the effects of neuromuscular blockers. **N2O does not**.
+- **Kidney/Liver:** Decrease renal and hepatic blood flow (dose-dependent).
+- **Uterus:** Volatiles relax uterine smooth muscle (can lead to uterine atony/hemorrhage). N2O does not.
+
+---
+
+## **Toxicities of Inhaled Anesthetics**
+
+### **Malignant Hyperthermia (MH)**
+A life-threatening hypermetabolic state triggered by **all halogenated volatile anesthetics** (and succinylcholine) in genetically susceptible individuals (Ryanodine receptor mutations).
+- **Pathophysiology:** Uncontrolled calcium release causing sustained muscle contraction.
+- **Signs:** Hypercapnia (early sign), tachycardia, muscle rigidity, hyperthermia (late sign), metabolic acidosis, hyperkalemia.
+- **Treatment:** Stop agent, hyperventilate, give **Dantrolene**.
+- **Important:** **Nitrous Oxide does NOT trigger MH.**
+
+### **Hepatotoxicity**
+- **Halothane Hepatitis:** A specific immune-mediated necrosis caused by the formation of trifluoroacetyl chloride (from CYP2E1 metabolism) which haptenates liver proteins.
+    - Risk factors: Female, obesity, prior exposure.
+    - **Note:** Desflurane, Isoflurane, and Sevoflurane have minimal metabolism and very low risk.
+
+### **Nephrotoxicity**
+- **Compound A:** **Sevoflurane** interacts with soda lime (CO2 absorbers) to form **Compound A**, which is nephrotoxic in rats. No proven renal injury in humans, but valid theoretical concern (use adequate fresh gas flow).
+
+### **Carbon Monoxide (CO) Production**
+**Desflurane** (most) > Isoflurane > Sevoflurane can produce CO when passed through **desiccated (dry) CO2 absorbers**.
+- Prevent by replacing absorbents regularly.
+
+### **Nitrous Oxide (N2O) Specific Toxicities**
+1.  **Expansion of Air-Filled Spaces:** N2O is 35x more soluble than N2. It diffuses into air cavities faster than N2 leaves, increasing pressure/volume.
+    - :::correlate
+    **N2O Contraindications**
+    Avoid N2O in patients with **pneumothorax**, **bowel obstruction**, **air embolism**, or during **middle ear surgery**, as expansion of these spaces can cause catastrophic rupture or pressure damage.
+    :::
+2.  **Diffusion Hypoxia:** Upon discontinuation, N2O rushes from blood into alveoli, diluting O2. **Reversed by giving 100% O2** for several minutes after stopping N2O.
+3.  **Vitamin B12 Inhibition:** N2O oxidizes the cobalt in B12, inhibiting **methionine synthase**.
+    - :::correlate
+    **Megaloblastic Anemia & Neuropathy**
+    Prolonged exposure (or use in patients with preexisting deficiency) can lead to **megaloblastic anemia** and subacute combined degeneration of the cord (**peripheral neuropathy**). Avoid in patients with B12 deficiency/malnutrition.
+    :::
+4.  **Second Gas Effect:** High uptake of N2O concentrates the remaining gases in the alveoli, speeding up induction of co-administered agents.
+
+---
+
+## **Intravenous Anesthetics**
+
+### **Propofol**
+The most common induction agent.
+- **Mechanism:** Potentiates chloride current through the **GABA-A** receptor.
+- **Effects:** Rapid induction and recovery ("clear headed"). **Antiemetic**, **Anti-pruritic**, **Bronchodilation**. Decreases CBF, ICP, and CMRO2.
+- **Adverse Effects:**
+    - **Pain on injection** (mitigate with lidocaine).
+    - **Hypotension:** Causes profound vasodilation and myocardial depression.
+    - **Respiratory Depression:** Significant apnea.
+- :::correlate
+    **Propofol Infusion Syndrome (PRIS)**
+    Rare but fatal reaction to high-dose/long-term infusion. Signs include metabolic acidosis, rhabdomyolysis, hyperkalemia, hepatomegaly, and cardiac failure.
+    :::
+- **Formulation:** Egg lecithin/soybean oil emulsion (risk of bacterial growth, careful in egg/soy allergy—though most reactions are to egg white protein, not lecithin).
+
+### **Etomidate**
+- **Mechanism:** GABA-A agonist.
+- **Key Feature:** **Hemodynamic Stability**. Minimal change in HR, BP, or CO.
+- **Indication:** Induction agent of choice for patients with **cardiovascular instability** or **shock**.
+- **Adverse Effects:**
+    - **Adrenal Suppression:** Inhibits **11-beta-hydroxylase**, preventing cortisol synthesis. Avoid in septic shock patients who need their adrenal reserve.
+    - **Myoclonus:** Involuntary muscle movements.
+    - **PONV:** High incidence of postoperative nausea and vomiting.
+
+### **Ketamine**
+- **Mechanism:** **NMDA receptor antagonist** (blocks glutamate).
+- **Effects:** **Dissociative anesthesia** (catatonia, amnesia, analgesia).
+    - **Cardiovascular:** Causes **Sympathetic Stimulation** (increase HR, BP, CO) via catecholamine release. Good for hypovolemic shock.
+    - **Respiratory:** Maintains airway reflexes and respiratory drive. Potent **bronchodilator** (good for severe asthma induction).
+    - **Cerebral:** Increases CMRO2, CBF, and ICP.
+- **Adverse Effects:**
+    - **Emergence Delirium:** Hallucinations, vivid dreams, disorientation. Prevent with benzodiazepines.
+    - :::correlate
+    **Contraindications for Ketamine**
+    Avoid in patients with **severe hypertension, angina, or active ischemia** due to increased myocardial oxygen demand. Also historically avoided in head trauma (due to ICP), though this is debated.
+    :::
+
+### **Dexmedetomidine (Precedex)**
+- **Mechanism:** Highly selective **Alpha-2 adrenergic agonist** (central action).
+- **Effects:** **Sedation** (mimics natural sleep, easily rousable), **Anxiolysis**, **Analgesia**. NO respiratory depression.
+- **Adverse Effects:** **Bradycardia** and **Hypotension**.
+
+### **Benzodiazepines (Midazolam)**
+- **Mechanism:** GABA-A agonist.
+- **Use:** Preoperative anxiolysis, amnesia (anterograde).
+- **Reversal:** **Flumazenil**.
+
+---
+
+## **Adjuncts**
+- **Opioids (Fentanyl, etc.):** Provide analgesia. Reversal: **Naloxone**.
+- **Lidocaine:** IV bolus blunts airway reflexes (coughing) during intubation.
+
+:::highyield
+**Quick Drug Selection Guide**
+*   **Asthma/Bronchospasm:** Sevoflurane (inhaled), Ketamine (IV), Propofol (IV).
+*   **Hemodynamic Instability/Shock:** Etomidate (IV), Ketamine (IV).
+*   **Head Injury (High ICP):** Propofol, Barbiturates (Etomidate). **Avoid:** Ketamine, Volatiles (unless hyperventilated).
+*   **Reactive Airway/Smoking:** Sevoflurane. **Avoid:** Desflurane.
+*   **History of PONV:** Propofol (TIVA). **Avoid:** Etomidate, N2O, Opioids.
+*   **Bowel Obstruction/Pneumothorax:** **Avoid** Nitrous Oxide.
+*   **CAD/Ischemia:** **Avoid** Ketamine, Desflurane (tachycardia).
+:::
+`,
+        questions: [
+            {
+                "question": "**1. A 55-year-old male with a history of severe coronary artery disease presents for coronary artery bypass grafting. During induction, the anesthesiologist chooses an agent known for maintaining hemodynamic stability but causing adrenal suppression. Which drug was likely used?**",
+                "options": [
+                    "Propofol",
+                    "Ketamine",
+                    "Etomidate",
+                    "Midazolam",
+                    "Sevoflurane"
+                ],
+                "correctAnswer": 2,
+                "rationale": "Etomidate is known for its hemodynamic stability (good for CAD/Shock) but causes adrenal suppression by inhibiting 11-beta-hydroxylase."
+            },
+            {
+                "question": "**2. A 24-year-old male undergoes surgery for a bowel obstruction. Upon induction with a gas anesthetic, the bowel rapidly distends, complicating the surgery. Which agent is the most likely cause?**",
+                "options": [
+                    "Sevoflurane",
+                    "Isoflurane",
+                    "Desflurane",
+                    "Nitrous Oxide",
+                    "Propofol"
+                ],
+                "correctAnswer": 3,
+                "rationale": "Nitrous Oxide diffuses into air-filled spaces (like an obstructed bowel) faster than nitrogen leaves, causing rapid expansion."
+            },
+            {
+                "question": "**3. A child undergoing a brief procedure with sevoflurane anesthesia develops rapid breathing, tachycardia, muscle rigidity, and a rapidly rising body temperature. What is the mechanism of the antidote for this condition?**",
+                "options": [
+                    "Blockade of NMDA receptors",
+                    "Inhibition of calcium release from the sarcoplasmic reticulum",
+                    "Activation of GABA-A receptors",
+                    "Competitive antagonism of acetylcholine receptors",
+                    "Agonism of alpha-2 adrenergic receptors"
+                ],
+                "correctAnswer": 1,
+                "rationale": "The condition is Malignant Hyperthermia. The antidote is Dantrolene, which inhibits calcium release from the sarcoplasmic reticulum by blocking Ryanodine receptors."
+            },
+            {
+                "question": "**4. A trauma patient with significant blood loss and hypotension requires emergency intubation. Which induction agent would best support this patient's blood pressure via sympathetic stimulation?**",
+                "options": [
+                    "Propofol",
+                    "Etomidate",
+                    "Ketamine",
+                    "Thiopental",
+                    "Midazolam"
+                ],
+                "correctAnswer": 2,
+                "rationale": "Ketamine increases sympathetic tone (HR, BP, CO), making it useful in hypotensive trauma patients (unlike Propofol/Thiopental which depress BP)."
+            },
+            {
+                "question": "**5. A patient with a known deficiency of Vitamin B12 undergoes a lengthy procedure using a specific inhaled anesthetic. Postoperatively, they develop signs of megaloblastic anemia and neuropathy. This effect is due to inhibition of which enzyme?**",
+                "options": [
+                    "11-beta-hydroxylase",
+                    "Methionine synthase",
+                    "Ala-synthase",
+                    "Monoamine oxidase",
+                    "Pseudocholinesterase"
+                ],
+                "correctAnswer": 1,
+                "rationale": "Nitrous oxide oxidizes the cobalt in B12, inhibiting Methionine Synthase, which can lead to megaloblastic anemia and neuropathy."
+            }
+        ],
+        flashcards: [
+            {
+                "front": "Which IV anesthetic is known for its hemodynamic stability and minimal respiratory depression?",
+                "back": "Etomidate",
+                "tag": "Pharmacology"
+            },
+            {
+                "front": "What is the primary mechanism of action of Ketamine?",
+                "back": "NMDA receptor antagonist",
+                "tag": "Pharmacology"
+            },
+            {
+                "front": "Which inhaled anesthetic should be avoided in patients with pneumothorax or bowel obstruction?",
+                "back": "Nitrous Oxide (N2O)",
+                "tag": "Pharmacology"
+            },
+            {
+                "front": "What drug is the specific treatment for Malignant Hyperthermia?",
+                "back": "Dantrolene",
+                "tag": "Pharmacology"
+            },
+            {
+                "front": "Which IV anesthetic causes adrenal suppression by inhibiting 11-beta-hydroxylase?",
+                "back": "Etomidate",
+                "tag": "Pharmacology"
+            },
+            {
+                "front": "What is a unique adverse effect of Ketamine during recovery?",
+                "back": "Emergence delirium (hallucinations, vivid dreams)",
+                "tag": "Pharmacology"
+            },
+            {
+                "front": "Which inhaled anesthetic causes the most airway irritation and coughing?",
+                "back": "Desflurane (Isoflurane is also pungent)",
+                "tag": "Pharmacology"
+            },
+            {
+                "front": "Which IV anesthetic has antiemetic properties?",
+                "back": "Propofol",
+                "tag": "Pharmacology"
+            },
+            {
+                "front": "What potentially nephrotoxic substance is formed when Sevoflurane degrades in soda lime?",
+                "back": "Compound A",
+                "tag": "Pharmacology"
+            },
+            {
+                "front": "Which induction agent increases intracranial pressure and cerebral blood flow?",
+                "back": "Ketamine",
+                "tag": "Pharmacology"
+            }
+        ],
+        pearls: [
+            {
+                "title": "Desflurane & CAD",
+                "content": "Desflurane can cause transient sympathetic stimulation (tachycardia/HTN), making it risky for patients with CAD."
+            },
+            {
+                "title": "Sevoflurane Induction",
+                "content": "Sevoflurane is the best agent for inhalational induction due to its lack of pungency and potent bronchodilation."
+            },
+            {
+                "title": "N2O in Pneumothorax",
+                "content": "Nitrous Oxide is contraindicated in pneumothorax and bowel obstruction because it diffuses into air-filled spaces 35x faster than nitrogen leaves, causing expansion."
+            },
+            {
+                "title": "Etomidate & Shock",
+                "content": "Etomidate is the drug of choice for induction in hemodynamically unstable patients but causes adrenal suppression."
+            },
+            {
+                "title": "Ketamine & ICP",
+                "content": "Ketamine is a dissociative anesthetic that increases sympathetic tone (good for shock) but increases ICP (bad for head trauma)."
+            },
+            {
+                "title": "Propofol & PONV",
+                "content": "Propofol has antiemetic properties, making it ideal for TIVA to reduce PONV."
+            },
+            {
+                "title": "MH Trigger",
+                "content": "Malignant Hyperthermia is triggered by halogenated volatiles and succinylcholine; treat with Dantrolene."
+            }
+        ],
+        ankingResource: {
+            "anki_notes": [
+                {
+                    "term": "Propofol",
+                    "resources": "#AK_Step1_v11::#B&B::16_Surgery_&_Anesthesia::02_Anesthesia::02_Intravenous_Anesthetics, #AK_Step1_v11::#SketchyPharm::06_Neuro_&_Psych::01_Anesthetics_&_Analgesics::01_IV_Anesthetics"
+                },
+                {
+                    "term": "Etomidate",
+                    "resources": "#AK_Step1_v11::#B&B::16_Surgery_&_Anesthesia::02_Anesthesia::02_Intravenous_Anesthetics, #AK_Step1_v11::#SketchyPharm::06_Neuro_&_Psych::01_Anesthetics_&_Analgesics::01_IV_Anesthetics"
+                },
+                {
+                    "term": "Ketamine",
+                    "resources": "#AK_Step1_v11::#B&B::16_Surgery_&_Anesthesia::02_Anesthesia::02_Intravenous_Anesthetics, #AK_Step1_v11::#SketchyPharm::06_Neuro_&_Psych::01_Anesthetics_&_Analgesics::01_IV_Anesthetics"
+                },
+                {
+                    "term": "Inhaled Anesthetics (Isoflurane, Sevoflurane, etc.)",
+                    "resources": "#AK_Step1_v11::#B&B::16_Surgery_&_Anesthesia::02_Anesthesia::01_Inhaled_Anesthetics, #AK_Step1_v11::#SketchyPharm::06_Neuro_&_Psych::01_Anesthetics_&_Analgesics::02_Inhaled_Anesthetics"
+                },
+                {
+                    "term": "Malignant Hyperthermia",
+                    "resources": "#AK_Step1_v11::#B&B::16_Surgery_&_Anesthesia::02_Anesthesia::03_Malignant_Hyperthermia, #AK_Step1_v11::#SketchyPharm::06_Neuro_&_Psych::01_Anesthetics_&_Analgesics::02_Inhaled_Anesthetics"
+                },
+                {
+                    "term": "Nitrous Oxide",
+                    "resources": "#AK_Step1_v11::#SketchyPharm::06_Neuro_&_Psych::01_Anesthetics_&_Analgesics::02_Inhaled_Anesthetics"
+                }
+            ]
+        },
+        mindmap: `
+
+- **Inhaled Anesthetics**
+    - **Mechanism**: Unknown globally, but likely GABA potentiators / NMDA inhibitors.
+    - **PK**: MAC (potency), Solubility (speed).
+    - **Organ Effects**
+        - CV: Vasodilation (Iso/Des/Sevo), Myocardial Depression (Halothane).
+        - Resp: Depression, Bronchodilation (Sevo ++).
+        - Brain: Increased CBF/ICP, Decreased CMRO2.
+    - **Toxicities**
+        - Malignant Hyperthermia (All volatiles).
+        - Halothane Hepatitis (Immune).
+        - Nephrotoxicity (Sevo -> Cmpd A).
+        - **N2O Specifics**: Expansion of air spaces, B12 inhibition, Diffusion Hypoxia.
+- **Intravenous Anesthetics**
+    - **Propofol** (GABA): Standard induction. Hypotension/Apnea. Antiemetic.
+    - **Etomidate** (GABA): CV Stability. Adrenal suppression. Myoclonus.
+    - **Ketamine** (NMDA): Dissociative. Sympathetic boost (Shock). Hallucinations.
+    - **Dexmedetomidine** (Alpha-2): Sedation without resp depression.
+
+`
     },
 ];
 
