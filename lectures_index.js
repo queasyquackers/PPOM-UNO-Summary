@@ -538,7 +538,7 @@ window.receiveLectureIndex([
   ,
   {
     "id": "l68",
-    "title": "Lecture #68: Drugs of Abuse",
+    "title": "Lecture #68: Physiology: Drug Addiction",
     "module": "Neuropharmacology",
     "tags": "Lecture #68",
     "path": "content/json/l68.file.js",

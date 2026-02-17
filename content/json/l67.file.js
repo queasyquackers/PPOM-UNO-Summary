@@ -1,152 +1,106 @@
 window.receiveLectureContent({
     "id": "l67",
-    "title": "Lecture #67: Opioids",
+    "title": "Lecture #67: Pharmacology: Opioid Analgesics",
     "lecturer": "M. Pino, Ph.D.",
     "module": "Neuropharmacology",
     "session": "Lecture #67",
     "prev": "l66",
     "next": "l68",
-    "pdf": "pdfs/Lecture #67. M. Pino, Ph.D. (PPT).pdf",
-    "highYieldPdf": "content/L67_HighYield_Render.pdf",
-    "transcript": "content/L67_FullTranscript.txt",
-    "summary": "# Lecture #67: Pharmacology of Opioids\n\n**Lecturer:** M. Pino, Ph.D.\n**Session:** Lecture #67\n\n## Mechanism and Receptors\n\nOpioids bind to G-protein coupled receptors (**Gi/o**) to inhibit neuronal transmission.\n1.  **Presynaptic:** Close voltage-gated **Ca2+ channels** -> Decreased neurotransmitter release (Glutamate, Substance P).\n2.  **Postsynaptic:** Open **K+ channels** -> K+ efflux -> **Hyperpolarization**.\n\n### Receptor Subtypes\n-   **Mu (\u00b5):** **Analgesia**, **Respiratory Depression**, **Constipation**, Euphoria, Sedation, Miosis. (Most clinically used opioids target this).\n-   **Kappa (\u03ba):** Analgesia, Sedation, **Dysphoria/Hallucinations** (Psychotomimetic effects).\n-   **Delta (\u03b4):** Analgesia.\n\n## Classification and Key Drugs\n\n### 1. Strong Agonists (Full Mu Agonists)\n-   **Morphine:** The prototype.\n    -   **Metabolism:** Glucuronidated to **Morphine-6-Glucuronide (M6G)** (Active/Potent) and M3G (Neuroexcitatory). **M6G accumulates in renal failure** -> Toxicity.\n    -   **Histamine Release:** Causes pruritus, hypotension, bronchoconstriction (Pretreat with antihistamines).\n-   **Fentanyl:** Highly lipophilic, **100x more potent** than morphine. Used in anesthesia and chronic pain (Patch). **No histamine release** (Cardiac stable).\n-   **Meperidine:**\n    -   **Antimuscarinic:** Causes **Mydriasis** (dilated pupils) and **Tachycardia** (unlike other opioids).\n    -   **Metabolite:** **Normeperidine** accumulates (esp. in renal failure) -> **Seizures**.\n    -   **Interaction:** **Serotonin Syndrome** if mixed with MAOIs/SSRIs (blocks 5-HT reuptake).\n-   **Methadone:**\n    -   **Long t1/2:** Used for maintenance/withdrawal (prevents cravings without high).\n    -   **Pharmacology:** Mu agonist + **NMDA Antagonist** + 5-HT/NE reuptake inhibitor.\n    -   **Toxicity:** **QT Prolongation** (Torsades).\n\n### 2. Weak/Moderate Agonists\n-   **Codeine:** Prodrug. Converted to Morphine by **CYP2D6**.\n    -   **Pharmacogenetics:**\n        -   **Poor Metabolizers:** No pain relief.\n        -   **Ultrarapid Metabolizers:** Rapid conversion -> **Respiratory Depression** (Danger in children/breastfeeding).\n-   **Tramadol:** Weak Mu agonist + **Inhibits 5-HT/NE reuptake** (SNRI-like).\n    -   **Toxicity:** **Seizures** (lowers threshold), **Serotonin Syndrome**.\n-   **Loperamide / Diphenoxylate:** Antidiarrheals. Low abuse potential (Loperamide doesn't cross BBB; Diphenoxylate mixed with Atropine).\n\n### 3. Mixed Agonist-Antagonists\n-   **Buprenorphine:** **Partial Mu Agonist** / Kappa Antagonist. High affinity.\n    -   **Use:** Opioid Use Disorder (Suboxone = Buprenorphine + Naloxone). Precipitates withdrawal if full agonist is present.\n-   **Pentazocine, Nalbuphine, Butorphanol:** **Kappa Agonist** / Mu Antagonist (or partial).\n    -   **Effect:** Ceiling effect on respiration. **Dysphoria** (Kappa).\n\n### 4. Antagonists\n-   **Naloxone:**\n    -   **IV/Intranasal.** Rapid onset. Short duration.\n    -   **Use:** **Acute Overdose**. May need repeat dosing.\n-   **Naltrexone:** Oral. Long duration. Used for **Relapse Prevention** (Opioid and Alcohol).\n-   **Methylnaltrexone:** Peripheral Mu antagonist (Does not cross BBB).\n    -   **Use:** **Opioid-Induced Constipation**.\n\n## Adverse Effects & Toxicity\n\n### Acute Toxicity (Overdose Triad)\n1.  **Coma**\n2.  **Miosis** (Pinpoint Pupils)\n3.  **Respiratory Depression** (Cause of death)\n\n### Tolerance\n-   **Develops to:** Analgesia, Euphoria, Sedation, Respiratory Depression.\n-   **NO TOLERANCE to:** **Constipation** and **Miosis**. (Patients on chronic opioids *always* need a bowel regimen).\n\n### Withdrawal\n-   Not life-threatening (unlike Alcohol/Benzo withdrawal), but miserable.\n-   **Symptoms:** Autonomic Hyperactivity -> Rhinorrhea, Lacrimation, Yawning, Piloerection (\"Cold Turkey\"), Dilated Pupils, Diarrhea, Nausea/Vomiting.\n-   **Neonatal Abstinence Syndrome (NAS):** High-pitched cry, seizures, diarrhea. Treat with Morphine/Methadone.\n\n:::mnemonic\n**Opioids \"LOCK\" everything down:**\n- Miosis (Pinpoint pupils)\n- Constipation (Locked bowels)\n- Respiratory Depression\n\n**Withdrawal \"UNLOCKS\" the floodgates:**\n- Mydriasis (Dilated pupils)\n- Diarrhea\n- Rhinorrhea / Lacrimation (Runny nose/eyes)\n:::\n",
+    "pdf": "pdfs/Lecture # 67. M. Pino, Ph.D. (PPT).pdf",
+    "highYieldPdf": "content/L67_HighYield.pdf",
+    "transcript": "transcripts/Lecture #67_ Pharmacology_ Opioid Analgesics Faculty_ M. Pino, Ph.D..srt",
+    "summary": "# Lecture #67: Pharmacology: Opioid Analgesics\n\n**Lecturer:** M. Pino, Ph.D.\n**Session:** Lecture #67\n\n[Download High Yield PDF](./L67_HighYield.pdf)\n\n## Introduction & Mechanism (Slide 2-3)\n\nOpioids are the cornerstone of management for moderate to severe pain. Derived initially from the opium poppy (*Papaver somniferum*), these agents work by mimicking endogenous peptides (endorphins, enkephalins, dynorphins) at specific receptors in the central and peripheral nervous systems. To understand their pharmacology, think of the \"Mu\" ($\\mu$) receptor as the primary switch for analgesia—but also for the major side effects like respiratory depression and dependence.\n\nWhen an opioid binds to a G-protein coupled receptor (GPCR) on a neuron, two things happen to stop the pain signal:\n1.  **Presynaptically:** It closes voltage-gated $Ca^{2+}$ channels, preventing the release of excitatory neurotransmitters (glutamate, substance P).\n2.  **Postsynaptically:** It opens $K^+$ channels, causing potassium efflux and hyperpolarization, making the neuron harder to excite.\n\nThis dual mechanism effectively \"silences\" the pain pathway. However, because these receptors are ubiquitous, the \"silence\" extends to the gut (constipation), the brainstem respiratory centers (apnea), and the inhibitory pathways in the midbrain (euphoria/reward).\n\n:::highyield\n**Mechanism of Action**\n- **Receptors:** Mu ($\\mu$), Delta ($\\delta$), Kappa ($\\kappa$). All are **Gi/Go-coupled GPCRs**.\n- **Presynaptic:** Blocks $Ca^{2+}$ channels $\\rightarrow$ $\\downarrow$ Neurotransmitter release.\n- **Postsynaptic:** Opens $K^+$ channels $\\rightarrow$ Hyperpolarization $\\rightarrow$ $\\downarrow$ Neuronal firing.\n- **Result:** Inhibits pain transmission in the Dorsal Horn and stimulates descending inhibitory pathways.\n:::\n\n### Opioid Receptors (Slide 5-6)\n\n| Receptor | Key Effects | Endogenous Ligand |\n| :--- | :--- | :--- |\n| **Mu ($\\mu$)** | **Analgesia** (supraspinal/spinal), **Respiratory Depression**, Euphoria, Sedation, **Constipation**, Miosis, Dependence | Endorphins |\n| **Kappa ($\\kappa$)** | Analgesia (spinal), Sedation, **Dysphoria**, Hallucinations (Psychotomimetic) | Dynorphins |\n| **Delta ($\\delta$)** | Analgesia, antidepressants effects | Enkephalins |\n\n## Classification of Opioids (Slide 7-12)\n\nOpioids are classified by their origin (Natural vs. Synthetic) and their intrinsic activity at the receptor (Full Agonist vs. Partial Agonist vs. Antagonist).\n\n### 1. Strong Agonists (Full Mu Agonists)\nThese drugs have high affinity and high intrinsic activity at the $\\mu$ receptor. They are used for severe pain.\n\n-   **Morphine:** The prototype. Used for severe pain (MI, cancer, trauma). Metabolized to **Morphine-6-Glucuronide (M6G)** (active, potent) and **Morphine-3-Glucuronide (M3G)** (inactive/neuroexcitatory).\n-   **Methadone:** Full agonist with **Unique Properties**:\n    -   **Long half-life** (variable, 15-40+ hours) allowing for once-daily dosing.\n    -   **NMDA antagonist** activity (helps with neuropathic pain/tolerance).\n    -   **Use:** Opioid detoxification (prevents withdrawal) and maintenance; chronic pain.\n    -   **Toxicity:** Can cause **QT prolongation** (Torsades de Pointes).\n-   **Fentanyl:** Highly lipophilic, **100x more potent** than morphine. Rapid onset, short duration (redistribution). Used in anesthesia, chronic pain (patches), and breakthrough pain (lollipop/lozenge). **No histamine release** (cardiac stable).\n-   **Meperidine:** Antimuscarinic effects (tachycardia, dry mouth). Metabolite **Normeperidine** accumulates in renal failure $\\rightarrow$ **Seizures**. **Contraindicated** with MAOIs (Serotonin Syndrome). *Lecturer Note: Rarely used now due to toxicity.*\n-   **Hydromorphone / Oxymorphone:** Potent semi-synthetics.\n\n### 2. Moderate/Weak Agonists\nUsed for mild-to-moderate pain or cough. often combined with NSAIDs/Acetaminophen.\n\n-   **Codeine:** Prodrug. Metabolized to Morphine by **CYP2D6**.\n    -   *Pharmacogenetics:* Ultra-rapid metabolizers (high CYP2D6) can have fatal overdose (respiratory depression). Poor metabolizers get no analgesia.\n    -   **Use:** Antitussive (cough suppression) and mild pain.\n-   **Oxycodone / Hydrocodone:** Oral agents. Oxycodone is metabolized by CYP2D6/3A4. often formulated with acetaminophen (Percocet/Vicodin).\n-   **Tramadol:** **Dual Mechanism:** Weak $\\mu$ agonist + Inhibits Serotonin/NE reuptake.\n    -   **Risk:** **Seizures** (lowers threshold) and **Serotonin Syndrome**.\n\n### 3. Mixed Agonist-Antagonists\nDesigned to provide analgesia with a \"ceiling effect\" on respiratory depression and lower abuse potential. However, they can **precipitate withdrawal** in patients dependent on full agonists.\n\n-   **Buprenorphine:** Partial $\\mu$ agonist, $\\kappa$ antagonist.\n    -   **High Affinity, Slow Dissociation:** Hard to reverse with Naloxone.\n    -   **Use:** Opioid Use Disorder (Suboxone = Buprenorphine + Naloxone) and pain.\n    -   **Ceiling Effect:** Safer therapeutic index for respiratory depression.\n-   **Nalbuphine / Pentazocine:** $\\kappa$ agonist, $\\mu$ antagonist.\n    -   **Pentazocine:** Causes **Dysphoria/Psychosis** via $\\kappa$ activation.\n\n:::correlate\n**Precipitated Withdrawal**\nAdministering a **partial agonist** (Buprenorphine) or mixed agonist-antagonist (Pentazocine) to a patient physically dependent on a full agonist (Morphine/Heroin) will displace the full agonist from the receptor.\n-   **Result:** Immediate, severe withdrawal symptoms (pain, agitation, diarrhea).\n:::\n\n### 4. Antagonists\n-   **Naloxone:** Short-acting IV/Intranasal. Used for **Acute Overdose**.\n    -   *Clinical Pearl:* Duration (1-2 hrs) is shorter than most opioids; **monitor for re-narcotization**.\n-   **Naltrexone:** Long-acting Oral/IM. Used for **Maintenance** (relapse prevention) in Opioid and Alcohol Use Disorder.\n\n---\n\n## Pharmacokinetics & Adverse Effects (Slide 15-20)\n\n### Metabolism\n-   **Hepatic glucuronidation** is the main pathway.\n-   **Renal Excretion:** Metabolites (M6G, M3G, Normeperidine) accumulate in kidney failure.\n    -   **Caution:** Avoid Morphine and Meperidine in renal failure. Use **Fentanyl** (clean metabolism) or Hydromorphone.\n\n### Acute Adverse Effects (\"MORPHINES\")\n-   **M**iosis (Pinpoint pupils) - *Tolerance does NOT develop.*\n-   **O**rthostatic Hypotension (Histamine release).\n-   **R**espiratory Depression (Decreased response to $CO_2$) - *Cause of death in overdose.*\n-   **P**hysical Dependence/Pain control.\n-   **H**istamine Release (Itching/Pruritus, hypotension) - *Morphine/Codeine/Meperidine.*\n-   **I**ncreased ICP (Head injury contraindication - secondary to increased $pCO_2$ causing vasodilation).\n-   **N**ausea/Vomiting (Stimulates CTZ).\n-   **E**uphoria.\n-   **S**edation.\n\n### Chronic Adverse Effects\n-   **Constipation:** Receptors in GI tract decrease motility. *Tolerance does NOT develop.* Regimen needed (Senna/Stool Softener).\n-   **Tolerance:** Needing higher doses for same effect. Develops to: Analgesia, Euphoria, Sedation, Respiratory Depression.\n    -   **NO Tolerance:** Miosis, Constipation.\n\n### Opioid Toxidrome (The \"Triad\")\n1.  **Coma** (CNS Depression)\n2.  **Miosis** (Pinpoint Pupils)\n3.  **Respiratory Depression** (Cyanosis, Apnea)\n\n:::correlate\n**Serotonin Syndrome**\nCombining **Meperidine**, **Tramadol**, or **Dextromethorphan** with MAOIs/SSRIs/Linezolid can trigger Serotonin Syndrome.\n-   **Presentation:** Hyperthermia, Autonomic Instability, Hyperreflexia/Clonus, Agitation.\n-   **Libby Zion Case:** Caused by Meperidine + MAOI.\n:::\n\n## Clinical Uses beyond Pain\n\n1.  **Cough Suppression (Antitussive):**\n    -   **Dextromethorphan:** NMDA antagonist isomer of codeine analog. No analgesic/addictive properties at varying doses.\n    -   **Codeine:** Effective at sub-analgesic doses.\n2.  **Diarrhea:**\n    -   **Loperamide (Imodium):** $\\mu$ agonist that does **not** cross BBB. Acts locally on gut.\n    -   **Diphenoxylate:** Combined with Atropine to discourage abuse.\n",
     "questions": [
         {
-            "question": "**1. A patient with end-stage renal disease requires severe pain management. Which opioid metabolite is most likely to accumulate and cause neurotoxicity (seizures) in this patient?**",
+            "question": "**1. A 65-year-old male with end-stage renal disease requires opioid analgesia for a fracture. Which agent is the safest choice to avoid metabolite accumulation and toxicity?**",
             "options": [
-                "Morphine-6-Glucuronide",
-                "Normeperidine",
-                "6-Monoacetylmorphine",
-                "Codeine-6-Glucuronide",
-                "Noroxycodone"
+                "Morphine",
+                "Meperidine",
+                "Fentanyl",
+                "Codeine",
+                "Hydrocodone"
             ],
-            "correctAnswer": 1,
-            "rationale": "While Morphine-6-Glucuronide accumulates, **Normeperidine** (metabolite of Meperidine) is famously associated with causing **seizures** in patients with renal failure. Morphine-6-Glucuronide causes respiratory depression/sedation. The question asks for neurotoxicity/seizures, making Normeperidine the classic answer (Meperidine is contraindicated in renal failure)."
+            "correctAnswer": 2,
+            "rationale": "**Fentanyl** is metabolized by the liver to inactive metabolites that are nontoxic, making it safer for patients with renal failure. Morphine and Meperidine have toxic metabolites that accumulate."
         },
         {
-            "question": "**2. A breastfeeding mother is prescribed Codeine for pain. Her infant becomes lethargic and develops respiratory depression. Genetic testing would likely reveal the mother has which phenotype?**",
+            "question": "**2. A patient chronically taking high-dose morphine for cancer pain arrives with respiratory depression and pinpoint pupils. Naloxone is administered, stabilizing breathing. Which of the following effects of morphine will persist despite chronic use (i.e., minimal tolerance develops)?**",
             "options": [
-                "CYP2D6 Poor Metabolizer",
-                "CYP2D6 Ultrarapid Metabolizer",
-                "CYP3A4 Poor Metabolizer",
-                "CYP2C19 Extensive Metabolizer",
-                "P-glycoprotein deficiency"
+                "Euphoria",
+                "Sedation",
+                "Constipation",
+                "Nausea",
+                "Analgesia"
             ],
-            "correctAnswer": 1,
-            "rationale": "Codeine is a prodrug converted to Morphine by **CYP2D6**. An **Ultrarapid Metabolizer** converts codeine to levels of morphine much higher than expected, which is then passed in breast milk, causing toxicity in the infant."
+            "correctAnswer": 2,
+            "rationale": "Tolerance develops to most opioid effects (analgesia, sedation, respiratory depression, euphoria). Little to **no tolerance** develops to **Constipation** and **Miosis**."
         },
         {
-            "question": "**3. Which opioid lacks the characteristic miosis (pinpoint pupils) in overdose and may instead cause mydriasis and tachycardia?**",
+            "question": "**3. A heroin addict is admitted for surgery. To control pain, the resident administers an analgesic that unexpectedly precipitates severe agitation, abdominal cramps, and dilated pupils. Which drug was likely given?**",
+            "options": [
+                "Methadone",
+                "Fentanyl",
+                "Buprenorphine",
+                "Hydromorphone",
+                "Oxycodone"
+            ],
+            "correctAnswer": 2,
+            "rationale": "**Buprenorphine** is a **partial mu agonist**. In a patient tolerant to a full agonist (heroin), a partial agonist acts as a net **antagonist**, precipitating acute withdrawal."
+        },
+        {
+            "question": "**4. Which opioid is associated with serotonin syndrome when combined with SSRIs and can lower the seizure threshold?**",
             "options": [
                 "Morphine",
                 "Fentanyl",
-                "Methadone",
-                "Meperidine",
-                "Heroin"
-            ],
-            "correctAnswer": 3,
-            "rationale": "**Meperidine** has **antimuscarinic** (atropine-like) effects. Therefore, it can cause mydriasis (dilated pupils) and tachycardia, distinguishing its toxidrome from other opioids."
-        },
-        {
-            "question": "**4. A patient on chronic opioid therapy for cancer pain complains of severe constipation. Which agent treats this specifically without reversing analgesia?**",
-            "options": [
-                "Naloxone",
-                "Naltrexone",
-                "Methylnaltrexone",
-                "Buprenorphine",
+                "Tramadol",
+                "Codeine",
                 "Methadone"
             ],
             "correctAnswer": 2,
-            "rationale": "**Methylnaltrexone** is a peripherally acting mu-opioid antagonist. It has a quaternary amine structure that prevents it from crossing the blood-brain barrier, so it relieves constipation (peripheral) without affecting analgesia (central)."
+            "rationale": "**Tramadol** has a dual mechanism: weak mu agonism + inhibition of Serotonin/NE reuptake. This affects seizure threshold and serotonin syndrome risk."
         },
         {
-            "question": "**5. A patient taking an MAO Inhibitor for depression is given an opioid for shivering and develops hyperthermia, muscle rigidity, and confusion (Serotonin Syndrome). Which opioid was likely administered?**",
+            "question": "**5. Which agent works as an anti-diarrheal by stimulating mu receptors in the GI tract without crossing the blood-brain barrier?**",
             "options": [
-                "Morphine",
-                "Codeine",
-                "Meperidine",
-                "Hydromorphone",
-                "Oxymorphone"
+                "Dextromethorphan",
+                "Loperamide",
+                "Diphenoxylate",
+                "Naloxone",
+                "Methylnaltrexone"
             ],
-            "correctAnswer": 2,
-            "rationale": "**Meperidine** (and Tramadol, Dextromethorphan) has weak serotonin reuptake inhibitory effects. When combined with MAOIs, it can precipitate life-threatening **Serotonin Syndrome**."
+            "correctAnswer": 1,
+            "rationale": "**Loperamide** is a peripheral mu agonist that does not cross the BBB. It slows gut motility to treat diarrhea without causing CNS effects."
         }
     ],
     "flashcards": [
-        {
-            "front": "What is the classic triad of Opioid Overdose?",
-            "back": "1. Coma\n2. Respiratory Depression\n3. Miosis (Pinpoint Pupils)",
-            "tag": "Clinical Signs"
-        },
-        {
-            "front": "To which two opioid effects does tolerance NOT develop?",
-            "back": "1. Constipation\n2. Miosis",
-            "tag": "Adverse Effects"
-        },
-        {
-            "front": "Which opioid metabolite causes seizures?",
-            "back": "Normeperidine (metabolite of Meperidine).",
-            "tag": "Toxicology"
-        },
-        {
-            "front": "Which opioid has antimuscarinic effects (tachycardia, mydriasis)?",
-            "back": "Meperidine.",
-            "tag": "Pharmacology"
-        },
-        {
-            "front": "What is the mechanism of Methylnaltrexone?",
-            "back": "Peripheral Mu Antagonist (Block GI receptors, spares CNS analgesia).",
-            "tag": "Mechanism"
-        },
-        {
-            "front": "Which enzyme converts Codeine to Morphine?",
-            "back": "CYP2D6.",
-            "tag": "Metabolism"
-        },
-        {
-            "front": "What is the mechanism of Opioid receptors (cellular)?",
-            "back": "Close Presynaptic Ca2+ channels; Open Postsynaptic K+ channels.",
-            "tag": "Mechanism"
-        },
-        {
-            "front": "Which mixed agonist acts as a Kappa agonist and Mu antagonist?",
-            "back": "Pentazocine (can cause dysphoria/hallucinations).",
-            "tag": "Pharmacology"
-        },
-        {
-            "front": "Why is Methadone used for opioid withdrawal?",
-            "back": "Long half-life allows for tapering and suppression of withdrawal symptoms.",
-            "tag": "Treatment"
-        },
-        {
-            "front": "What drug combination is used for maintenance to prevent misuse by injection?",
-            "back": "Buprenorphine + Naloxone (Suboxone). Naloxone is inactive orally but active if injected.",
-            "tag": "Treatment"
-        }
+        { "front": "What is the primary mechanism of action of Opioids?", "back": "Presynaptic: Close Ca2+ channels (decrease neurotransmitter release); Postsynaptic: Open K+ channels (hyperpolarization)", "tag": "Concept" },
+        { "front": "Which opioid adverse effects do NOT develop tolerance?", "back": "Constipation and Miosis (Pinpoint pupils)", "tag": "Clinical" },
+        { "front": "What is the specific toxicity of Meperidine?", "back": "Seizures (due to toxic metabolite Normeperidine)", "tag": "Clinical" },
+        { "front": "Which opioid can prolong the QT interval?", "back": "Methadone", "tag": "Clinical" },
+        { "front": "Why is Buprenorphine used in opioid maintenance?", "back": "Partial agonist with long duration and 'ceiling effect' on respiratory depression", "tag": "Concept" },
+        { "front": "What drug is used to reverse acute opioid overdose?", "back": "Naloxone (Mu antagonist)", "tag": "Clinical" },
+        { "front": "Which opioid is safe to use in renal failure?", "back": "Fentanyl (hepatic metabolism, no active metabolites)", "tag": "Clinical" },
+        { "front": "What is the classical triad of Opioid Overdose?", "back": "Coma, Miosis (Pinpoint pupils), Respiratory Depression", "tag": "Clinical" },
+        { "front": "Which opioid has dual action as a Mu agonist and Serotonin/NE reuptake inhibitor?", "back": "Tramadol", "tag": "Concept" },
+        { "front": "What happens if you give a partial agonist (Buprenorphine) to a heroin addict?", "back": "Precipitated Withdrawal", "tag": "Clinical" },
+        { "front": "Which opioid is used primarily as an antitussive (cough suppressant)?", "back": "Dextromethorphan (or Codeine)", "tag": "Clinical" },
+        { "front": "What is the mechanism of Loperamide?", "back": "Peripheral Mu agonist (does not cross BBB); slows gut motility", "tag": "Concept" }
     ],
     "ankingResource": {
-        "primarySource": "Physeo",
-        "chapter": "Pharmacology > Neuro > Opioids",
+        "primarySource": "SketchyPharm",
+        "chapter": "Smooth Muscle & CNS > Opioids > Opioid Agonists",
         "alternatives": [
-            {
-                "resource": "FirstAid",
-                "chapter": "Pharmacology > Opioids"
-            }
+            { "resource": "BandB", "chapter": "Neurology > Pharmacology > Opioids" },
+            { "resource": "FirstAid", "chapter": "Pharmacology > Toxicities and Side Effects > Opioid Withdrawal" },
+            { "resource": "Pathoma", "chapter": "N/A" }
         ]
     },
     "pearls": [
-        {
-            "title": "No Tolerance",
-            "content": "You never get used to the constipation or the pinpoint pupils. You can be on heroin for 20 years and you will still be constipated and have miosis."
-        },
-        {
-            "title": "Gallbladder Attacks",
-            "content": "Opioids cause contraction of the **Sphincter of Oddi**. This can worsen biliary colic. Meperidine was traditionally said to have less of this effect, but that's debated. Morphine is definitely a culprit."
-        },
-        {
-            "title": "The Meperidine Exception",
-            "content": "Meperidine is the weird opioid. It breaks the rules: 1. Causes **Mydriasis** (not miosis). 2. Causes **Tachycardia** (not bradycardia). 3. Causes **Seizures** (Normeperidine). 4. Causes **Serotonin Syndrome**."
-        }
+        { "title": "Tolerance Exceptions", "content": "Tolerance develops to analgesia, euphoria, and respiratory depression, but NOT to Constipation or Miosis." },
+        { "title": "Renal Failure Safety", "content": "Avoid Morphine (M6G/M3G) and Meperidine (Normeperidine) in renal failure. Use Fentanyl." },
+        { "title": "Meperidine Risks", "content": "Causes Seizures (Normeperidine) and Serotonin Syndrome (with MAOIs). Mydriasis (antimuscarinic) instead of miosis." },
+        { "title": "Tramadol's Dual Danger", "content": "Tramadol lowers seizure threshold and can cause Serotonin Syndrome." },
+        { "title": "Precipitated Withdrawal", "content": "Buprenorphine is a partial agonist with high affinity. It kicks full agonists off the receptor, causing immediate withdrawal in dependent patients." }
     ],
-    "mindmap": "## Opioids\n\n### Receptors (Gi coupled)\n- **Mu**: Analgesia, Resp Depression, Constipation, Euphoria.\n- **Kappa**: Dysphoria, Sedation.\n\n### Full Agonists\n- **Morphine**: Histamine release, M6G accumulation.\n- **Meperidine**: Seizures, Serotonin Syndrome, Mydriasis.\n- **Methadone**: Long acting, QT prolong.\n- **Fentanyl**: High potency, Lipid soluble.\n\n### Partial/Weak\n- **Codeine**: CYP2D6 -> Morphine.\n- **Tramadol**: SNRI + Mu. Seizures.\n\n### Antagonists\n- **Naloxone**: Acute overdose.\n- **Naltrexone**: Maintenance (Anti-craving).\n- **Methylnaltrexone**: Constipation (Peripheral).\n\n### Toxicity\n- **Overdose**: Coma, Miosis, Resp Depression.\n- **Side Effects**: Constipation (No tolerance)."
+    "mindmap": "\n- **Mechanism**\n    - Block Na+ channels (Intracellular).\n    - Prefer Open/Inactivated states.\n    - Use-Dependent (High frequency = more block).\n- **Structure**\n    - **Esters** (1 'i'): PABA metabolite (Allergy). Pseudocholinesterase.\n    - **Amides** (2 'i's): Hepatic metabolism.\n- **Pharmacokinetics**\n    - pH: Acidic tissue (infection) = Ionized drug = No effect.\n    - Potency = Lipid Solubility.\n    - Duration = Protein Binding + Vasoconstrictors (Epi).\n- **Toxicity (LAST)**\n    - CNS: Numbness -> Seizures.\n    - CV: Hypotension -> Arrest.\n    - **Bupivacaine**: Cardiotoxic (Lipid Rescue).\n    - **Benzocaine/Prilocaine**: Methemoglobinemia.\n"
 });
