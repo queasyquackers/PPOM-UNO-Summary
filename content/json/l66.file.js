@@ -1,152 +1,106 @@
 window.receiveLectureContent({
     "id": "l66",
-    "title": "Lecture #66: Local Anesthetics",
-    "lecturer": "L. Goldstein, Pharm.D.",
+    "title": "Lecture #66: Pharmacology: Local Anesthetics",
+    "lecturer": "L. Goldstein",
     "module": "Neuropharmacology",
     "session": "Lecture #66",
     "prev": "l65",
     "next": "l67",
-    "pdf": "pdfs/Lecture #66. L. Goldstein, Pharm.D. (PPT).pdf",
+    "pdf": "pdfs/Lecture #66. L. Goldstein.pdf",
     "highYieldPdf": "content/L66_HighYield_Render.pdf",
     "transcript": "content/L66_FullTranscript.txt",
-    "summary": "# Lecture #66: Pharmacology of Local Anesthetics\n\n**Lecturer:** L. Goldstein, Pharm.D.\n**Session:** Lecture #66\n\n## Structure and Classification\n\nLocal Anesthetics (LAs) consist of a **Lipophilic Aromatic Ring** linked to a **Hydrophilic Amine**. The linkage determines the class:\n\n-   **Esters (One 'i'):** Procaine, Cocaine, Tetracaine, Benzocaine, Chloroprocaine.\n    -   **Metabolism:** Rapidly hydrolyzed by plasma **Pseudocholinesterase**.\n    -   **Allergy:** Metabolized to **PABA** (Para-aminobenzoic acid) -> High risk of hypersensitivity.\n-   **Amides (Two 'i's):** L**i**doca**i**ne, Bupivacaine, Mepivacaine, Ropivacaine, Prilocaine.\n    -   **Metabolism:** Hepatic **CYP450** enzymes.\n    -   **Allergy:** Rare.\n\n:::mnemonic\n**Esters vs. Amides**\n-   **Esters:** Have **one 'i'** in their name (e.g., Procaine, Cocaine).\n-   **Amides:** Have **two 'i's** in their name (e.g., L**i**doca**i**ne, Bup**i**vaca**i**ne).\n-   *Exception: Proparacaine is an ester (used in eyes).*\n:::\n\n## Pharmacokinetics & Mechanism\n\n### Mechanism of Action (Slide 22)\n-   **Target:** Voltage-Gated **Na+ Channels** (Intracellular side).\n-   **State-Dependent:** Binds mainly to **Open** and **Inactivated** states (not Resting).\n-   **Use-Dependent:** More effective in rapidly firing neurons (pain fibers).\n\n### Determinants of Action (Slide 23-24)\n1.  **pKa (Onset):** LAs are weak bases. They must be **uncharged** to cross the membrane, then **ionized** intracellularly to bind the channel.\n    -   **Lower pKa** (closer to 7.4) -> More uncharged form -> Faster penetration -> **Faster Onset**.\n    -   **Infection/Inflammation:** Acidic tissue pH -> Drug becomes protonated (ionized) outside -> Cannot cross membrane -> **Reduced Effect**.\n2.  **Lipid Solubility (Potency):** More lipid soluble = More potent.\n3.  **Protein Binding (Duration):** High protein binding = Longer duration (Bupivacaine).\n4.  **Vasoconstrictors (Epinephrine):**\n    -   Decreases systemic absorption (Safety).\n    -   Prolongs duration of action.\n    -   Reduces bleeding.\n    -   *Avoid in end-arteries (fingers, toes, penis, nose).*\n\n## Specific Agents\n\n### Ester Agents\n-   **Benzocaine:**\n    -   **Topical Only.** Low pKa (3.5).\n    -   **Toxicity:** **Methemoglobinemia**. Avoid in teething infants.\n-   **Cocaine:**\n    -   **Intrinsic Vasoconstrictor** (blocks NE reuptake). Good for ENT surgery.\n    -   **Toxicity:** CVS (HTN, Arrhythmias).\n-   **Tetracaine:** Potent, Long-acting. Used for spinal anesthesia.\n\n### Amide Agents\n-   **Lidocaine:** The \"Standard\". Rapid onset, medium duration.\n    -   **Toxicity:** **TNS (Transient Neurologic Symptoms)** with spinal anesthesia (pain/burning in buttocks/legs).\n-   **Bupivacaine:** Potent, Long-acting.\n    -   **Toxicity:** **Severe Cardiotoxicity** (refractory arrhythmias). \"Fast in, Slow out\" of Na+ channels.\n-   **Ropivacaine:** Similar to Bupivacaine but **less cardiotoxic** (easier to resuscitate).\n-   **Prilocaine:**\n    -   **Toxicity:** Metabolite (*o-toluidine*) causes **Methemoglobinemia** (Chocolate brown blood, Cyanosis).\n\n## Systemic Toxicity (LAST) (Slide 27-28)\n\n**Local Anesthetic Systemic Toxicity (LAST)** occurs with inadvertent intravascular injection or overdose.\n\n1.  **CNS (Early):** **Perioral Numbness**, **Metallic Taste**, Tinnitus, Dizziness -> Muscle Twitching -> Seizures -> Coma.\n2.  **Cardiovascular (Late):** Hypotension, Bradycardia, Arrhythmias, Collapse.\n    -   *Exception:* Bupivacaine cardiotoxicity can occur simultaneously with CNS effects.\n\n:::highyield\n**Treatment of LAST**\n-   **Lipid Rescue:** IV **20% Intralipid Emulsion**.\n-   Acts as a \"Lipid Sink\" to soak up the lipophilic drug from the plasma.\n:::\n",
+    "summary": "# Lecture #66: Pharmacology: Local Anesthetics\n\n**Lecturer:** L. Goldstein\n**Session:** Lecture #66\n\n---\n\n## Introduction & Mechanism of Action\n\nLocal anesthetics (LAs) are diverse agents used to block sensation in a specific area of the body without loss of consciousness. Their primary utility lies in preventing pain transmission during surgical or dental procedures. To understand how they work, we must first appreciate the physiology of the voltage-gated sodium channel. Nerves transmit signals via action potentials, which are propagated by the rapid influx of sodium ions through these channels.\n\nLocal anesthetics function by diffusing through the nerve membrane into the axoplasm, where they bind to the intracellular portion of voltage-gated sodium channels. Crucially, they bind preferentially to channels in the **open** and **inactivated** states—a phenomenon known as **state-dependent block**. By stabilizing the inactivated state, they prevent the channel from resetting to the resting state, thereby halting the propagation of action potentials. This blockade is also **use-dependent**, meaning nerves that are firing rapidly (such as pain fibers) are blocked more effectively than resting nerves.\n\n:::highyield\n**Mechanism of Action**\n- **Target:** Intracellular portion of **Voltage-Gated Na+ Channels**.\n- **Binding State:** High affinity for **Open** and **Inactivated** states (State-Dependent).\n- **Effect:** Stabilizes the inactivated state $\\\\rightarrow$ prevents Na+ influx $\\\\rightarrow$ blocks action potential propagation.\n- **Use-Dependence:** Higher firing frequency = Stronger block (Pain fibers > Motor fibers).\n:::\n\n### Susceptibility to Blockade\nNot all nerve fibers are blocked equally. The sensitivity of a nerve fiber to LA blockade is determined by its diameter, myelination, and firing frequency. In general, smaller diameter and higher firing frequency increase sensitivity.\n\n- **Order of Blockade:**\n    1.  **Small, myelinated** (Sympathetic fibers) - *Blocked First*\n    2.  **Small, unmyelinated** (Pain/Temp - C fibers) & **Small, myelinated** (Pain/Temp - A$\\\\delta$ fibers)\n    3.  **Large, myelinated** (Touch, Pressure, Motor) - *Blocked Last*\n\n:::mnemonic\n**Fiber Blockade Order**\n**\"Silly Puns Make Me Laugh\"**\n- **S**iopathetic (Sympathetic)\n- **P**ain (Pain/Temp)\n- **T**ouch (Touch/Pressure)\n- **M**otor (Motor)\n:::\n\n## Structure & Pharmacokinetics\n\nLocal anesthetics consist of a lipophilic aromatic ring connected to a hydrophilic amine by an intermediate chain. This intermediate chain defines the two major classes: **Esters** and **Amides**. This distinction is critical for determining metabolism and allergic potential.\n\n### Esters vs. Amides\n- **Esters:** Metabolized by plasma **pseudocholinesterase** to **PABA** (para-aminobenzoic acid). PABA is a common allergen, making hypersensitivity reactions more common in this class.\n- **Amides:** Metabolized in the **liver** by CYP450 enzymes. Hypersensitivity is extremely rare.\n\n:::mnemonic\n**Amides have Two I's**\n- **Esters (One 'i'):** Procaine, Cocaine, Tetracaine, Benzocaine\n- **Amides (Two 'i's):** L**i**doca**i**ne, Mep**i**vaca**i**ne, Bup**i**vaca**i**ne, Rop**i**vaca**i**ne, Pr**i**loca**i**ne\n:::\n\n### pH and pKa: The Onset of Action\nLocal anesthetics are weak bases (pKa 7.5–9.0). They exist in equilibrium between a non-ionized (lipid-soluble) form and an ionized (water-soluble, charged) form.\n- **Non-Ionized Form:** Crosses the nerve membrane (Lipid soluble).\n- **Ionized Form:** Binds to the receptor inside the channel (Active form).\n\n**The Infection Concept:**\nInfected tissue is **acidic** (low pH). In an acidic environment, the equilibrium shifts towards the **ionized** form ($LA + H^+ \\\\rightarrow LAH^+$). Since the ionized form cannot cross the membrane, the drug cannot reach its target site. Therefore, local anesthetics are **less effective** in infected/acidic tissue.\n\n### Potency, Duration, and Absorption\n- **Potency:** Defined by **Lipid Solubility**. Highly lipophilic drugs (e.g., Bupivacaine) penetrate membranes easily $\\\\rightarrow$ High Potency.\n- **Duration:** Defined by **Protein Binding** and **Vascularity**.\n    - High Protein Binding = Long Duration (Drug stays at receptor).\n    - High Vascularity = Short Duration (Drug washed away).\n- **Vasoconstrictors:** **Epinephrine** is often added to LAs to cause vasoconstriction. This decreases systemic absorption, reduces toxicity, and **prolongs the duration of action** by keeping the drug at the site.\n\n:::correlate\n**Vasoconstrictor Contraindication**\n**Epinephrine** should **NOT** be used in tissues with end-arterial supply (Fingers, Toes, Penis, Nose) due to risk of ischemia and necrosis.\n**Obstetrics:** Epinephrine is avoided in labor epidurals as vasoconstriction can compromise uteroplacental blood flow and cause maternal hypertension.\n:::\n\n## Clinical Pharmacology of Agents\n\n### Ester Local Anesthetics\n1.  **Procaine:** Prototype, short duration. Metabolized to PABA. Rarely used now.\n2.  **Chloroprocaine:** Rapid onset, short duration. Used in epidurals for C-sections.\n3.  **Tetracaine:** Long duration, high potency. Used for spinal anesthesia and ophthalmology. *Note:* CSF has little pseudocholinesterase, prolonged action (Slide 36).\n4.  **Benzocaine:** Topical only (low pKa, very lipophilic). Used for mucous membranes (e.g., teething, endoscopy).\n5.  **Cocaine:** Only LA with intrinsic **vasoconstrictive** properties (blocks NE reuptake). Used Topically for ENT procedures (nose/throat) to shrink mucosa and reduce bleeding.\n\n:::correlate\n**Methemoglobinemia (Benzocaine)**\n**Benzocaine** (spray/gel) can cause oxidation of iron in hemoglobin ($Fe^{2+} \\\\rightarrow Fe^{3+}$), leading to **Methemoglobinemia**.\n- **Presentation:** \"Chocolate brown\" blood, cyanosis, shortness of breath.\n- **Treatment:** Methylene Blue.\n:::\n\n### Amide Local Anesthetics\n1.  **Lidocaine:** The \"Standard\". Rapid onset, medium duration. Broad utility (local, spinal, epidural, IV antiarrhythmic).\n2.  **Mepivacaine:** Similar to Lidocaine but less vasodilation. Used in dentistry.\n3.  **Bupivacaine:** High potency, long duration. Preferred for epidurals post-op pain. **High Cardiotoxicity.**\n4.  **Ropivacaine:** Similar to Bupivacaine but **less cardiotoxic** and less motor block (good for labor—\"walking epidural\").\n5.  **Prilocaine:** Medium duration. Risk of methemoglobinemia.\n\n## Toxicity (Systemic & Neural)\n\nLocal Anesthetic Systemic Toxicity (LAST) occurs when drug levels rise excessively in the blood, usually due to accidental IV injection or excessive dose. The toxicity targets the **CNS** and **Cardiovascular** systems.\n\n### Local Anesthetic Systemic Toxicity (LAST)\n- **Phase 1: CNS Excitation:** Perioral numbness (metallic taste), tinnitus, agitation, seizures.\n- **Phase 2: CNS Depression:** Coma, respiratory arrest.\n- **Phase 3: CV Collapse:** Hypotension, arrhythmias, cardiac arrest.\n\n:::highyield\n**LAST progression:**\nNumbness/Tinnitus $\\\\rightarrow$ Seizures $\\\\rightarrow$ Coma $\\\\rightarrow$ Cardiac Arrest.\n**Key Concept:** CNS signs usually precede CV signs (Warning sign!), **EXCEPT** with Bupivacaine where they can happen simultaneously.\n:::\n\n:::correlate\n**Bupivacaine Cardiotoxicity**\n**Bupivacaine** has high affinity for cardiac Na+ channels and dissociates slowly (\"Fast In, Slow Out\").\n- **Risk:** Severe refractory arrhythmias and cardiovascular collapse.\n- **Avoid:** Do not use for IV regional anesthesia (Bier Block).\n- **Rescue:** **Intralipid Emulsion** (Lipid Rescue) acts as a lipid sink to soak up the lipophilic drug.\n:::\n\n### Specific Neural Toxicities\n1.  **Transient Neurologic Symptoms (TNS):**\n    - **Associated with:** **Lidocaine** (Spinal).\n    - **Presentation:** Pain/dysesthesia in buttocks/legs resolving in days.\n    - **Prognosis:** Full recovery, no permanent damage.\n2.  **Cauda Equina Syndrome:**\n    - **Associated with:** Lidocaine (Spinal Continuous Microcatheters - historical).\n    - **Presentation:** Bowel/bladder dysfunction, saddle anesthesia, paralysis.\n    - **Prognosis:** Potential for permanent damage.\n\n### Hematologic Toxicity\n- **Methemoglobinemia:** Caused by **Prilocaine** (metabolite o-toluidine) and **Benzocaine**.\n\n### Allergies\n- **Esters:** High risk due to **PABA**. Cross-reactivity exists among esters.\n- **Amides:** Very rare. No cross-reactivity with esters. If allergic to one amide, may try another (preservative-free).\n",
     "questions": [
         {
-            "question": "**1. A dentist injects a local anesthetic into an inflamed, infected abscess, but the patient continues to feel pain. What is the pharmacological explanation?**",
+            "question": "**1. A 25-year-old woman in labor requests an epidural. The anesthesiologist selects an agent that provides adequate sensory analgesia but minimizes motor blockade to allow her to participate in labor. Which agent was most likely chosen?**",
             "options": [
-                "Increased blood flow washes the drug away too slowly",
-                "Acidic pH protonates the drug, preventing membrane penetration",
-                "Basic pH precipitates the drug",
-                "Inflammation causes upregulation of sodium channels",
-                "The drug is rapidly metabolized by bacteria"
-            ],
-            "correctAnswer": 1,
-            "rationale": "Infected tissue is **acidic**. Local anesthetics are weak bases (pKa ~8). In an acidic environment, they accept a proton and become **ionized (charged)**. The charged form cannot cross the lipid membrane to reach the intracellular binding site."
-        },
-        {
-            "question": "**2. Which local anesthetic is an ester that is naturally occurring and possesses intrinsic vasoconstrictive properties?**",
-            "options": [
-                "Lidocaine",
+                "Tetracaine",
+                "Ropivacaine",
                 "Procaine",
                 "Cocaine",
-                "Bupivacaine",
                 "Benzocaine"
             ],
-            "correctAnswer": 2,
-            "rationale": "**Cocaine** blocks the reuptake of norepinephrine, causing vasoconstriction. This makes it unique and useful for ENT procedures to control bleeding."
+            "correctAnswer": 1,
+            "rationale": "**Ropivacaine** is a long-acting amide local anesthetic similar to bupivacaine but with **less motor blockade** at analgesic doses."
         },
         {
-            "question": "**3. A patient undergoing spinal anesthesia with Lidocaine later reports severe pain and burning in the buttocks and legs, without motor weakness. What is the most likely diagnosis?**",
+            "question": "**2. A patient undergoing a dental procedure receives a potentially toxic dose of a local anesthetic. Which early sign would most likely alert the dentist to impending systemic toxicity?**",
             "options": [
-                "Cauda Equina Syndrome",
-                "Epidural Hematoma",
-                "Transient Neurologic Symptoms (TNS)",
-                "Meningitis",
-                "Allergic Reaction"
+                "Cardiovascular collapse",
+                "Respiratory depression",
+                "Perioral numbness and metallic taste",
+                "Profound hypotension",
+                "Bradycardia"
             ],
             "correctAnswer": 2,
-            "rationale": "**TNS (Transient Neurologic Symptoms)** is a known complication of **Lidocaine spinal anesthesia**. It presents as pain/dysesthesia in the lower back/legs but notably **lacks** sensory/motor/bowel/bladder deficits (distinguishing it from Cauda Equina Syndrome)."
+            "rationale": "CNS toxicity typically precedes CV toxicity. Early symptoms include **circumoral numbness**, tinnitus, and metallic taste."
         },
         {
-            "question": "**4. A child treated with a topical teething gel develops cyanosis and 'chocolate-colored' blood. Supplemental oxygen does not improve the saturation. Which agent is implicated?**",
+            "question": "**3. Which local anesthetic is an ester that is metabolized to a product known to cause hypersensitivity reactions?**",
+            "options": [
+                "Lidocaine",
+                "Bupivacaine",
+                "Mepivacaine",
+                "Tetracaine",
+                "Ropivacaine"
+            ],
+            "correctAnswer": 3,
+            "rationale": "**Tetracaine** is an **ester** (one i). Esters are metabolized to **PABA**, which is immunogenic."
+        },
+        {
+            "question": "**4. A child is brought to the ER with cyanosis and shortness of breath after his parents applied a generous amount of a teething gel. Blood appears chocolate-brown. Which agent is implicated?**",
             "options": [
                 "Lidocaine",
                 "Benzocaine",
                 "Bupivacaine",
-                "Procaine",
-                "Ropivacaine"
+                "Ropivacaine",
+                "Procaine"
             ],
             "correctAnswer": 1,
-            "rationale": "**Benzocaine** (and Prilocaine) causes **Methemoglobinemia** by oxidizing hemoglobin to methemoglobin (Fe3+), which cannot bind oxygen. This is a medical emergency treated with Methylene Blue."
+            "rationale": "**Benzocaine** can cause **Methemoglobinemia** (oxidizes Fe2+ to Fe3+), presenting with cyanosis and chocolate-brown blood."
         },
         {
-            "question": "**5. In a case of severe Local Anesthetic Systemic Toxicity (LAST) with cardiovascular collapse, what is the critical antidotal therapy?**",
+            "question": "**5. Why is epinephrine often co-administered with lidocaine for infiltration anesthesia?**",
             "options": [
-                "IV Sodium Bicarbonate",
-                "IV Epinephrine",
-                "IV Lipid Emulsion (Intralipid)",
-                "IV Flumazenil",
-                "IV Calcium Gluconate"
+                "To increase the pH of the solution",
+                "To preventing oxidation of lidocaine",
+                "To reduce the pain of injection",
+                "To prolong the duration of action via vasoconstriction",
+                "To block potassium channels"
             ],
-            "correctAnswer": 2,
-            "rationale": "**IV Lipid Emulsion (Intralipid)** is the antidote. It creates a 'lipid sink' that extracts the lipophilic local anesthetic from the plasma, reversing toxicity."
+            "correctAnswer": 3,
+            "rationale": "Epinephrine is a vasoconstrictor; it keeps the drug at the site longer, **prolonging duration** and reducing systemic absorption."
         }
     ],
     "flashcards": [
-        {
-            "front": "How do you distinguish Amides from Esters by name?",
-            "back": "Amides have **Two 'i's** (Lidocaine). Esters have **One 'i'** (Procaine).",
-            "tag": "Pharmacology"
-        },
-        {
-            "front": "What is the intracellular target of Local Anesthetics?",
-            "back": "Voltage-Gated Sodium Channels (Open/Inactivated states).",
-            "tag": "Mechanism"
-        },
-        {
-            "front": "Which local anesthetic causes Methemoglobinemia?",
-            "back": "Benzocaine (and Prilocaine).",
-            "tag": "Toxicology"
-        },
-        {
-            "front": "Which local anesthetic is most cardiotoxic?",
-            "back": "Bupivacaine.",
-            "tag": "Toxicology"
-        },
-        {
-            "front": "Why is epinephrine added to local anesthetics?",
-            "back": "To cause vasoconstriction, decrease absorption (less toxicity), and prolong duration.",
-            "tag": "Pharmacology"
-        },
-        {
-            "front": "What are the early signs of Local Anesthetic Toxicity?",
-            "back": "Perioral numbness, metallic taste, tinnitus.",
-            "tag": "Clinical Signs"
-        },
-        {
-            "front": "What is the antidote for Local Anesthetic Systemic Toxicity?",
-            "back": "IV Lipid Emulsion (Intralipid).",
-            "tag": "Treatment"
-        },
-        {
-            "front": "Which class of Local Anesthetics has a high risk of allergy?",
-            "back": "Esters (due to PABA metabolite).",
-            "tag": "Adverse Effects"
-        },
-        {
-            "front": "Does a lower pKa mean faster or slower onset?",
-            "back": "Faster onset (closer to physiologic pH = more uncharged form).",
-            "tag": "Pharmacokinetics"
-        },
-        {
-            "front": "What complication is specific to Lidocaine spinal anesthesia?",
-            "back": "Transient Neurologic Symptoms (TNS).",
-            "tag": "Adverse Effects"
-        }
+        { "front": "Which class of local anesthetics has a higher risk of allergic reactions?", "back": "Esters (due to PABA metabolite)", "tag": "Concept" },
+        { "front": "What is the mechanism of action of local anesthetics?", "back": "Block intracellular voltage-gated Na+ channels (Open/Inactivated states)", "tag": "Concept" },
+        { "front": "Which nerve fibers are blocked first?", "back": "Small, myelinated fibers (Sympathetic)", "tag": "Concept" },
+        { "front": "What is the treatment for Local Anesthetic Systemic Toxicity (LAST)?", "back": "IV Lipid Emulsion (Intralipid)", "tag": "Clinical" },
+        { "front": "Which local anesthetic causes methemoglobinemia?", "back": "Prilocaine and Benzocaine", "tag": "Clinical" },
+        { "front": "Which local anesthetic is the most cardiotoxic?", "back": "Bupivacaine", "tag": "Clinical" },
+        { "front": "Why is epinephrine added to local anesthetics?", "back": "To cause vasoconstriction, prolong duration, and decrease systemic absorption", "tag": "Concept" },
+        { "front": "What is the primary metabolism of Amide anesthetics?", "back": "Hepatic CYP450", "tag": "Concept" },
+        { "front": "What is the primary metabolism of Ester anesthetics?", "back": "Plasma pseudocholinesterase", "tag": "Concept" },
+        { "front": "Why are local anesthetics less effective in infected tissue?", "back": "Acidic pH causes ionization; ionized drug cannot cross membrane", "tag": "Concept" },
+        { "front": "What is a specific side effect of spinal Lidocaine?", "back": "Transient Neurologic Symptoms (TNS)", "tag": "Clinical" },
+        { "front": "Which ion channel state do LAs bind to most strongly?", "back": "Inactivated state (and Open)", "tag": "Concept" }
     ],
     "ankingResource": {
-        "primarySource": "Physeo",
-        "chapter": "Pharmacology > Neuro > Local Anesthetics",
+        "primarySource": "BandB",
+        "chapter": "Neurology > Pharmacology > Local Anesthetics",
         "alternatives": [
-            {
-                "resource": "FirstAid",
-                "chapter": "Pharmacology > Local Anesthetics"
-            }
+            { "resource": "FirstAid", "chapter": "Pharmacology > Anesthetics > Local Anesthetics" },
+            { "resource": "SketchyPharm", "chapter": "Autonomic Drugs > Local Anesthetics" },
+            { "resource": "Pathoma", "chapter": "Systemic > Pharmacology" }
         ]
     },
     "pearls": [
-        {
-            "title": "Two I's",
-            "content": "Amides have **two I's** in their name (L**i**doca**i**ne). Esters only have one. This rule always works for the boards."
-        },
-        {
-            "title": "Infection and Failure",
-            "content": "You can't numb an abscess. The bacteria make the tissue acidic. The drug gets protonated (ionized) outside the nerve and bounces off the membrane like a tennis ball."
-        },
-        {
-            "title": "Chocolate Blood",
-            "content": "Benzocaine (Baby Orajel) turns blood chocolate brown (Methemoglobinemia). The pulse ox will read 85% and won't budge with oxygen. Treat with Methylene Blue (which turns urine blue/green)."
-        }
+        { "title": "Esters vs Amides Rule", "content": "If the drug name has two 'i's, it's an Amide (Lidocaine, Bupivacaine). If it has one 'i', it's an Ester (Procaine, Cocaine)." },
+        { "title": "Infection and pH", "content": "Local anesthetics are ineffective in infected tissue because the acidic environment ionizes the drug, preventing it from crossing the nerve membrane." },
+        { "title": "Bupivacaine Toxicity", "content": "Bupivacaine is severely cardiotoxic. Resuscitation is difficult; use Lipid Rescue (Intralipid)." },
+        { "title": "Order of Block", "content": "Small myelinated > Small unmyelinated > Large myelinated > Large unmyelinated. Pain is lost before Touch which is lost before Motor." },
+        { "title": "Cocaine's Unique Feature", "content": "Cocaine is the only LA that causes vasoconstriction (blocks NE reuptake). All others are vasodilators (often require Epinephrine)." }
     ],
-    "mindmap": "## Local Anesthetics\n\n### Classification\n- **Esters (1 'i')**: Procaine, Cocaine, Benzocaine. PABA Allergy.\n- **Amides (2 'i's)**: Lidocaine, Bupivacaine. Hepatic metabolism.\n\n### Mechanism\n- **Block Na+ Channels**: Intracellular binding.\n- **pH Dependence**: Acidic tissue (infection) = Poor effect.\n\n### Specific Drugs\n- **Cocaine**: Vasoconstrictor.\n- **Benzocaine**: Methemoglobinemia.\n- **Bupivacaine**: Cardiotoxic.\n- **Lidocaine**: TNS (Spinal).\n\n### Toxicity (LAST)\n- **CNS**: Numbness -> Seizures.\n- **CV**: Collapse.\n- **Rx**: Intralipid."
+    "mindmap": "\n- **Mechanism**\n    - Block Na+ channels (Intracellular).\n    - Prefer Open/Inactivated states.\n    - Use-Dependent (High frequency = more block).\n- **Structure**\n    - **Esters** (1 'i'): PABA metabolite (Allergy). Pseudocholinesterase.\n    - **Amides** (2 'i's): Hepatic metabolism.\n- **Pharmacokinetics**\n    - pH: Acidic tissue (infection) = Ionized drug = No effect.\n    - Potency = Lipid Solubility.\n    - Duration = Protein Binding + Vasoconstrictors (Epi).\n- **Toxicity (LAST)**\n    - CNS: Numbness -> Seizures.\n    - CV: Hypotension -> Arrest.\n    - **Bupivacaine**: Cardiotoxic (Lipid Rescue).\n    - **Benzocaine/Prilocaine**: Methemoglobinemia.\n"
 });
