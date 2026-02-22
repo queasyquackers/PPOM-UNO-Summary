@@ -562,4 +562,117 @@ window.receiveLectureIndex([
     "path": "content/json/l70.file.js",
     "readingTime": 5
   }
+  ,
+  {
+    "id": "l71",
+    "title": "Lecture #71: Basics of Diagnosis: AC, SC, and GH Joints",
+    "module": "OMM",
+    "tags": "Lecture #71",
+    "path": "content/json/l71.file.js",
+    "readingTime": 5
+  },
+  {
+    "id": "l72",
+    "title": "Lecture #72: Gliomas",
+    "module": "Neurology",
+    "tags": "Lecture #72",
+    "path": "content/json/l72.file.js",
+    "readingTime": 6
+  },
+  {
+    "id": "l73",
+    "title": "Lecture #73: Primary Brain and Peripheral Nerve Sheath Tumors",
+    "module": "Neurology",
+    "tags": "Lecture #73",
+    "path": "content/json/l73.file.js",
+    "readingTime": 6
+  },
+  {
+    "id": "l74",
+    "title": "Lecture #74: Neuro Birth Defects",
+    "module": "Neurology",
+    "tags": "Lecture #74",
+    "path": "content/json/l74.file.js",
+    "readingTime": 7
+  },
+  {
+    "id": "l75",
+    "title": "Lecture #75: Pediatric Neurology 1",
+    "module": "Neurology",
+    "tags": "Lecture #75",
+    "path": "content/json/l75.file.js",
+    "readingTime": 8
+  },
+  {
+    "id": "l76",
+    "title": "Lecture #76: Pediatric Neurology II",
+    "module": "Neurology",
+    "tags": "Lecture #76",
+    "path": "content/json/l76.file.js",
+    "readingTime": 8
+  },
+  {
+    "id": "l77",
+    "title": "Lecture #77: Neurodevelopmental and Behavioral Problems in Children and School Dysfunction",
+    "module": "Pediatrics",
+    "tags": "Lecture #77",
+    "path": "content/json/l77.file.js",
+    "readingTime": 8
+  },
+  {
+    "id": "l78",
+    "title": "Lecture #78: Attention Deficit Hyperactivity Disorder & Adolescent Development",
+    "module": "Pediatrics",
+    "tags": "Lecture #78",
+    "path": "content/json/l78.file.js",
+    "readingTime": 8
+  },
+  {
+    "id": "l79",
+    "title": "Lecture #79: The Pharmacologic Management of ADHD",
+    "module": "Pharmacology",
+    "tags": "Lecture #79",
+    "path": "content/json/l79.file.js",
+    "readingTime": 8
+  },
+  {
+    "id": "l80",
+    "title": "Lecture #80: Mood Disorders, Depressive Disorders and Bipolar Mood Disorders",
+    "module": "Psychiatry",
+    "tags": "Lecture #80",
+    "path": "content/json/l80.file.js",
+    "readingTime": 10
+  },
+  {
+    "id": "l81",
+    "title": "Lecture #81: Anxiety Disorders: Generalized Anxiety Disorder, Panic Disorder, Social Anxiety Disorder",
+    "module": "Psychiatry",
+    "tags": "Lecture #81",
+    "path": "content/json/l81.file.js",
+    "readingTime": 10
+  },
+  {
+    "id": "l82",
+    "title": "Lecture #82: Schizophrenia and Other Psychotic Disorders",
+    "module": "Psychiatry",
+    "tags": "Lecture #82",
+    "path": "content/json/l82.file.js",
+    "readingTime": 10
+  },
+  {
+    "id": "l83",
+    "title": "Lecture #83: Unusual Neurological Diseases, Somatoform Disorders and Factitious Disorders",
+    "module": "Neurology",
+    "tags": "Lecture #83",
+    "path": "content/json/l83.file.js",
+    "readingTime": 15
+  },
+  {
+    "id": "l84",
+    "title": "Lecture #84: History and Physical Exam Pediatrics Part 2 6yo - 10yo",
+    "module": "Pediatrics",
+    "tags": "Lecture #84",
+    "path": "content/json/l84.file.js",
+    "readingTime": 8
+  }
 ]);
