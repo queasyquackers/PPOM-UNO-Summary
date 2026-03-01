@@ -674,5 +674,92 @@ window.receiveLectureIndex([
     "tags": "Lecture #84",
     "path": "content/json/l84.file.js",
     "readingTime": 8
+  },
+  {
+    "id": "l86",
+    "title": "Lecture #86: Pharmacology: Antidepressants and Mood Stabilizers",
+    "module": "Pharmacology",
+    "tags": "Lecture #86",
+    "path": "content/json/l86.file.js",
+    "readingTime": 12
+  },
+  {
+    "id": "l87",
+    "title": "Lecture #87: Antipsychotics",
+    "module": "Pharmacology",
+    "tags": "Lecture #87",
+    "path": "content/json/l87.file.js",
+    "readingTime": 12
+  },
+  {
+    "id": "l88",
+    "title": "Lecture #88: Basic Theoretical Principles of Psychotherapy",
+    "module": "Psychiatry",
+    "tags": "Lecture #88",
+    "path": "content/json/l88.file.js",
+    "readingTime": 12
+  },
+  {
+    "id": "l89",
+    "title": "Lecture #89: Neuropsychological Testing",
+    "module": "Psychiatry",
+    "tags": "Lecture #89",
+    "path": "content/json/l89.file.js",
+    "readingTime": 12
+  },
+  {
+    "id": "l90",
+    "title": "Lecture #90: Personality Disorders",
+    "module": "Psychiatry",
+    "tags": "Lecture #90",
+    "path": "content/json/l90.file.js",
+    "readingTime": 15
+  },
+  {
+    "id": "l91",
+    "title": "Lecture #91: Eating Disorders",
+    "module": "Psychiatry",
+    "tags": "Lecture #91",
+    "path": "content/json/l91.file.js",
+  },
+  {
+    "id": "l92",
+    "title": "Lecture #92: Sexual Disorders",
+    "module": "Psychiatry",
+    "tags": "Lecture #92",
+    "path": "content/json/l92.file.js",
+    "readingTime": 15
+  },
+  {
+    "id": "l93",
+    "title": "Lecture #93: Clinical Decision Making of Patient with Acute Psychosis - Assessment of Competency",
+    "module": "Psychiatry",
+    "tags": "Lecture #93",
+    "path": "content/json/l93.file.js",
+    "readingTime": 15
+  },
+  {
+    "id": "l94",
+    "title": "Lecture #94: Disaster Psychiatry & PTSD",
+    "module": "Psychiatry",
+    "tags": "Lecture #94",
+    "path": "content/json/l94.file.js",
+    "readingTime": 15
+  },
+  {
+    "id": "l95",
+    "title": "Lecture #95: Special Issues in Psychiatry: Suicidal Patients, Legal Issues and Violent Patients",
+    "module": "Psychiatry",
+    "tags": "Lecture #95",
+    "path": "content/json/l95.file.js",
+    "readingTime": 15
+  },
+  {
+    "id": "l96",
+    "title": "Lecture #96: DPR: Adolescent Wellness",
+    "module": "DPR",
+    "tags": "Lecture #96",
+    "path": "content/json/l96.file.js",
+    "readingTime": 15
   }
 ]);
