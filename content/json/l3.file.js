@@ -153,4 +153,11 @@ window.receiveLectureContent({
       "content": "Normal Pressure Hydrocephalus:\n1. **Wet** (Incontinence)\n2. **Wobbly** (Ataxia)\n3. **Wacky** (Dementia)"
     }
   ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

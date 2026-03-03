@@ -153,4 +153,11 @@ window.receiveLectureContent({
       "content": "The most common fatal error: Accepting a diagnosis before it is fully verified and stopping the search for alternatives."
     }
   ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

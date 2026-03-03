@@ -65,4 +65,11 @@ window.receiveLectureContent({
             "rationale": "**Distal Symmetric Polyneuropathy** is the most common form of diabetic neuropathy. It presents as a sensory loss/paresthesia starting in the toes and moving proximally ('Stocking' distribution) and later affecting hands ('Glove')."
         }
     ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

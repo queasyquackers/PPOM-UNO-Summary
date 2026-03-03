@@ -153,4 +153,11 @@ window.receiveLectureContent({
       "content": "The **Nucleus Ambiguus** supplies branchial motor innervation to the pharynx and larynx (swallowing, gag reflex) via CN IX and X."
     }
   ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

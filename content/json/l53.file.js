@@ -65,4 +65,11 @@ window.receiveLectureContent({
             "rationale": "**Levetiracetam** has a unique mechanism of action: it binds to **SV2A** (Synaptic Vesicle Glycoprotein 2A) to prevent neurotransmitter release."
         }
     ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

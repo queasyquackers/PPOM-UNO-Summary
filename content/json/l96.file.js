@@ -4,7 +4,12 @@ window.receiveLectureContent({
     lecturer: "T. Chan, D.O.",
     module: "DPR",
     pdf: "content/L96_HighYield_Render.pdf",
-    summary: `## Adolescent Development and Scope of Practice (Slide 6)
+    summary: `# Lecture #96: DPR: Adolescent Wellness
+
+**Lecturer:** T. Chan, D.O.
+**Session:** Lecture #96
+
+## Adolescent Development and Scope of Practice (Slide 6)
 
 Adolescence is a massive physical and psychosocial transition period, traditionally divided into Early, Middle, and Late stages spanning ages 10 to 24. A key role of primary care physicians is to guide adolescents and their families through these changes while simultaneously screening for high-risk behaviors and mental health conditions.
 
@@ -75,72 +80,7 @@ The physical examination in adolescents shifts from developmental milestones to 
 Precocious puberty is generally defined as secondary sexual characteristics before age 8 in females and age 9 in males. Delayed puberty is the absence of any signs of puberty by age 13 in females and age 14 in males. Early identification and referral to endocrinology are critical to maximize adult height potential and address psychological distress.
 :::
 
----
-## Review Questions
-
-**1. A 15-year-old female presents to the clinic alone requesting a prescription for oral contraceptive pills. She states she does not want her parents to know as they are strictly opposed to premarital sex. What is the most appropriate next step in management?**
-
-A. Refuse to prescribe the medication until parental consent is obtained  
-B. Prescribe the medication and respect her confidentiality  
-C. Inform her parents but prescribe the medication anyway  
-D. Refer her to a free clinic where parental consent laws do not apply  
-E. Require the father of the child to be present  
-
-<details>
-<summary><strong>Click to Reveal Answer</strong></summary>
-
-**Answer: B (Prescribe the medication and respect her confidentiality)**
-
-**Rationale**: In the vast majority of jurisdictions, minors can legally consent to reproductive health services (including contraception, STI testing/treatment, and pregnancy care) without parental consent or notification. Respecting confidentiality encourages adolescents to seek necessary health care.
-</details>
-
-**2. During a routine sports physical, a 14-year-old male is noted to have a spinal curvature. Which of the following physical exam maneuvers is the most appropriate initial screening tool for this condition?**
-
-A. Straight leg raise test  
-B. Trendelenburg test  
-C. Adam's forward bend test  
-D. Ober test  
-E. Phalen's maneuver  
-
-<details>
-<summary><strong>Click to Reveal Answer</strong></summary>
-
-**Answer: C (Adam's forward bend test)**
-
-**Rationale**: The Adam's forward bend test is the standard clinical screening test for adolescent idiopathic scoliosis. A scoliometer can be used to measure the angle of trunk rotation during the test.
-</details>
-
-**3. A 16-year-old male confidentially tells you that he has been feeling very depressed lately and has been thinking about taking an overdose of his mother's sleeping pills. He has a plan to do it this weekend when his parents are out of town. What is the appropriate management?**
-
-A. Respect his confidentiality and schedule a follow-up appointment next week.  
-B. Prescribe an SSRI and ask him to promise not to harm himself.  
-C. Breach confidentiality to inform his parents and arrange for emergency psychiatric evaluation.  
-D. Call his school counselor to intervene.  
-E. Discuss the issue with his primary care provider but take no immediate action.  
-
-<details>
-<summary><strong>Click to Reveal Answer</strong></summary>
-
-**Answer: C (Breach confidentiality to inform his parents and arrange for emergency psychiatric evaluation.)**
-
-**Rationale**: Active suicidal ideation with a plan and intent represents an imminent threat to self. This is an explicit exception to medical confidentiality. Protecting the patient's life by notifying parents and securing an emergency evaluation supersedes all privacy concerns.
-</details>
-
-**4. A 12-year-old girl is evaluated during a wellness visit. She has no breast development but has newly developed, sparse, straight pubic hair along the medial border of the labia. What Tanner stage best describes her pubic hair development?**
-
-A. Tanner Stage I  
-B. Tanner Stage II  
-C. Tanner Stage III  
-D. Tanner Stage IV  
-E. Tanner Stage V  
-
-<details>
-<summary><strong>Click to Reveal Answer</strong></summary>
-
-**Answer: B (Tanner Stage II)**
-
-**Rationale**: Tanner Stage II involves the initial appearance of long, downy, slightly pigmented pubic hair (pubarche), primarily along the labia or at the base of the penis. Stage I is pre-pubertal (no hair). Stage III involves darker, coarser, curled hair.
-</details>`,
+`,
     pearls: [
         { "title": "Exceptions to Confidentiality", "content": "Confidentiality must be broken in cases of imminent threat to self (suicide), imminent threat to others (homicide/Tarasoff duty), or suspected abuse/neglect." },
         { "title": "HEADS Assessment Tool", "content": "The HEADS mnemonic (Home, Education, Activities, Drugs, Sexuality/Suicide) is the standard framework for gathering a comprehensive adolescent psychosocial history." },
@@ -174,4 +114,59 @@ E. Tanner Stage V
             { "resource": "OME", "chapter": "Clinical > Pediatrics" }
         ]
     }
+,
+    questions: [
+        {
+            "id": 1,
+            "question": "A 15-year-old female presents to the clinic alone requesting a prescription for oral contraceptive pills. She states she does not want her parents to know as they are strictly opposed to premarital sex. What is the most appropriate next step in management?",
+            "options": [
+                "Refuse to prescribe the medication until parental consent is obtained",
+                "Prescribe the medication and respect her confidentiality",
+                "Inform her parents but prescribe the medication anyway",
+                "Refer her to a free clinic where parental consent laws do not apply",
+                "Require the father of the child to be present"
+            ],
+            "correctAnswer": 1,
+            "rationale": "In the vast majority of jurisdictions, minors can legally consent to reproductive health services (including contraception, STI testing/treatment, and pregnancy care) without parental consent or notification. Respecting confidentiality encourages adolescents to seek necessary health care."
+        },
+        {
+            "id": 2,
+            "question": "During a routine sports physical, a 14-year-old male is noted to have a spinal curvature. Which of the following physical exam maneuvers is the most appropriate initial screening tool for this condition?",
+            "options": [
+                "Straight leg raise test",
+                "Trendelenburg test",
+                "Adam's forward bend test",
+                "Ober test",
+                "Phalen's maneuver"
+            ],
+            "correctAnswer": 2,
+            "rationale": "The Adam's forward bend test is the standard clinical screening test for adolescent idiopathic scoliosis. A scoliometer can be used to measure the angle of trunk rotation during the test."
+        },
+        {
+            "id": 3,
+            "question": "A 16-year-old male confidentially tells you that he has been feeling very depressed lately and has been thinking about taking an overdose of his mother's sleeping pills. He has a plan to do it this weekend when his parents are out of town. What is the appropriate management?",
+            "options": [
+                "Respect his confidentiality and schedule a follow-up appointment next week.",
+                "Prescribe an SSRI and ask him to promise not to harm himself.",
+                "Breach confidentiality to inform his parents and arrange for emergency psychiatric evaluation.",
+                "Call his school counselor to intervene.",
+                "Discuss the issue with his primary care provider but take no immediate action."
+            ],
+            "correctAnswer": 2,
+            "rationale": "Active suicidal ideation with a plan and intent represents an imminent threat to self. This is an explicit exception to medical confidentiality. Protecting the patient's life by notifying parents and securing an emergency evaluation supersedes all privacy concerns."
+        },
+        {
+            "id": 4,
+            "question": "A 12-year-old girl is evaluated during a wellness visit. She has no breast development but has newly developed, sparse, straight pubic hair along the medial border of the labia. What Tanner stage best describes her pubic hair development?",
+            "options": [
+                "Tanner Stage I",
+                "Tanner Stage II",
+                "Tanner Stage III",
+                "Tanner Stage IV",
+                "Tanner Stage V"
+            ],
+            "correctAnswer": 1,
+            "rationale": "Tanner Stage II involves the initial appearance of long, downy, slightly pigmented pubic hair (pubarche), primarily along the labia or at the base of the penis. Stage I is pre-pubertal (no hair). Stage III involves darker, coarser, curled hair."
+        }
+    ]
 });

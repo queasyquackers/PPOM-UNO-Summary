@@ -210,4 +210,11 @@ Disaster Psychiatry & PTSD
             ├── Nightmares: Prazosin
             └── Avoid: Benzodiazepines
 `
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

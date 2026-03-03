@@ -153,4 +153,11 @@ window.receiveLectureContent({
       "content": "Classic Differential (MAGIC DR): **Metastasis**, **Abscess**, Glioblastoma, Infarct, Contusion, Demyelination, Radiation."
     }
   ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

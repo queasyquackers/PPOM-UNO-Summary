@@ -133,4 +133,11 @@ window.receiveLectureContent({
       "content": "High Protein but Normal WBCs in CSF. Classic finding in **Guillain-Barr\u00e9 Syndrome**."
     }
   ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

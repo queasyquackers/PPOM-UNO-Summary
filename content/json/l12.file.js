@@ -153,4 +153,11 @@ window.receiveLectureContent({
       "content": "Principally the **Posterior Cerebral Artery (PCA)**. The **Artery of Percheron** is a rare variant supplying bilateral thalami."
     }
   ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

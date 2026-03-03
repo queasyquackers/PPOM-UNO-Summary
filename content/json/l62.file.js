@@ -153,4 +153,11 @@ window.receiveLectureContent({
         }
     ],
     "mindmap": "## Brachial Plexus Injuries\n\n### Trunk Lesions\n- **Superior Trunk (C5-C6)**: Erb-Duchenne (Waiter's Tip)\n- **Inferior Trunk (C8-T1)**: Klumpke's (Total Claw)\n\n### Peripheral Nerves\n- **Long Thoracic**: Winged Scapula (C5-7)\n- **Axillary**: Deltoid paralysis (Surgical neck #)\n- **Radial**: Wrist Drop (Saturday Night Palsy)\n- **Median**: \n    - High: Hand of Benediction\n    - Low: Ape Hand / Carpal Tunnel\n- **Ulnar**:\n    - High: Cubital Tunnel\n    - Low: Ulnar Claw (Guyon's Canal)"
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

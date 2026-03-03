@@ -341,4 +341,11 @@ Conduct Disorder (CD)
             "content": "Oppositional Defiant Disorder (ODD) is characterized by defiance and argumentativeness without severe aggression. Conduct Disorder (CD) is defined by severe aggression toward people/animals and overt destruction of property or laws."
         }
     ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

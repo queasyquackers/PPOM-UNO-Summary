@@ -242,4 +242,11 @@ These should appear at birth and disappear to allow voluntary movement. Persiste
         "Foreign Body Aspiration: Sudden onset wheezing/choking in a toddler --> Rigid Bronchoscopy.",
         "Epiglottitis: 'Thumbprint sign' on X-ray, Drooling, Tripoding. Medical Emergency."
     ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

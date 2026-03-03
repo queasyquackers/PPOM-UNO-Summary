@@ -153,4 +153,11 @@ window.receiveLectureContent({
       "content": "K+ Channel mutation (Kir4.1). No K+ gradient in Endolymph = No Hearing."
     }
   ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

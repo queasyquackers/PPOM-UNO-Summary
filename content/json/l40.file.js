@@ -138,4 +138,11 @@ window.receiveLectureContent({
       "content": "New onset **Incontinence** (or retention) + **Saddle Anesthesia**. This is an MRI + Surgery EMERGENCY."
     }
   ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

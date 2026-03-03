@@ -137,4 +137,11 @@ window.receiveLectureContent({
       "content": "Always give **Alpha** blockers BEFORE Beta blockers. (A before B). Giving Beta first leaves Alpha unopposed → Hypertensive Crisis."
     }
   ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

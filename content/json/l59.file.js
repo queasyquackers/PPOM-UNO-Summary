@@ -347,4 +347,11 @@ Decisions for screening should be individualized based on life expectancy (>10 y
 - **Osteoporosis**: DEXA (Women >65), T-score < -2.5
 - **Vaccines**: Flu, Pneumococcal, Shingles (>50), Tdap
 - **Meds**: Beers Criteria (Avoid Anticholinergics, Benzos)`
-    });
+    ,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
+});

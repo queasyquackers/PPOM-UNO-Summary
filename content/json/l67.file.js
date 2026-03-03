@@ -103,4 +103,11 @@ window.receiveLectureContent({
         { "title": "Precipitated Withdrawal", "content": "Buprenorphine is a partial agonist with high affinity. It kicks full agonists off the receptor, causing immediate withdrawal in dependent patients." }
     ],
     "mindmap": "\n- **Mechanism**\n    - Block Na+ channels (Intracellular).\n    - Prefer Open/Inactivated states.\n    - Use-Dependent (High frequency = more block).\n- **Structure**\n    - **Esters** (1 'i'): PABA metabolite (Allergy). Pseudocholinesterase.\n    - **Amides** (2 'i's): Hepatic metabolism.\n- **Pharmacokinetics**\n    - pH: Acidic tissue (infection) = Ionized drug = No effect.\n    - Potency = Lipid Solubility.\n    - Duration = Protein Binding + Vasoconstrictors (Epi).\n- **Toxicity (LAST)**\n    - CNS: Numbness -> Seizures.\n    - CV: Hypotension -> Arrest.\n    - **Bupivacaine**: Cardiotoxic (Lipid Rescue).\n    - **Benzocaine/Prilocaine**: Methemoglobinemia.\n"
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

@@ -65,4 +65,11 @@ window.receiveLectureContent({
             "rationale": "Mutations in the **GBA** gene (which encodes **Glucocerebrosidase**) are the most common genetic risk factor for Parkinson's disease, especially in the **Ashkenazi Jewish** population, and are linked to **Gaucher's Disease**."
         }
     ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

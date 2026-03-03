@@ -153,4 +153,11 @@ window.receiveLectureContent({
         }
     ],
     "mindmap": "## Headaches\n\n### Primary (Benign, Recurrent)\n- **Migraine**: Unilateral, Pulsating, Nausea, Aura. (Tx: Triptans)\n- **Tension**: Bilateral, Band-like, No Nausea. (Tx: NSAIDs)\n- **Cluster**: Unilateral Eye, Autonomic Ssx, Restless. (Tx: 100% O2)\n\n### Secondary (Red Flags)\n- **Vascular**:\n    - SAH (Thunderclap)\n    - Temporal Arteritis (Jaw Claudication, Blindness risk)\n- **Infection**: Meningitis (Fever, Stiff Neck)\n- **Structural**:\n    - Tumor (Morning headache)\n    - Low Pressure (Post-LP, Positional)"
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

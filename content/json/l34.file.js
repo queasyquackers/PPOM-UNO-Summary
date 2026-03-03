@@ -139,4 +139,11 @@ window.receiveLectureContent({
       "content": "Beta-2 agonist used to **Stop Labor** (Relax Uterus). 'Turbulence' delays the flight (birth)."
     }
   ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

@@ -161,4 +161,11 @@ window.receiveLectureContent({
         }
     ],
     "mindmap": "### Gait and Movement Disorders\n        \n#### Parkinson's Disease (TRAP)\n- **T**remor: Resting, Pill-rolling, Asymmetric\n- **R**igidity: Cogwheel vs Lead-pipe\n- **A**kinesia/Bradykinesia: Slow movement, Masked facies, Decreased blink\n- **P**ostural Instability: Late finding, Pull test\n\n#### Etiology\n- **Idiopathic**: Most common, Age > 60\n- **Genetic**: LRRK2, GBA1 (Ashkenazi Jewish)\n- **Environmental**: Pesticides, MPTP, Agent Orange\n- **Drug-Induced**: Antipsychotics, Metoclopramide (D2 Blockers)\n\n#### Prodromal Signs\n- **Sensory**: Anosmia (Smell loss)\n- **Sleep**: REM Sleep Behavior Disorder\n- **Autonomic**: Constipation, Orthostasis\n\n#### Differential Diagnosis\n- **Essential Tremor**: Action tremor, Improves w/ Alcohol, Bilateral\n- **PSP**: Vertical Gaze Palsy, Early Falls\n- **MSA**: Severe Autonomic Dysfunction"
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

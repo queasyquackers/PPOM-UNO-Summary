@@ -165,4 +165,11 @@ The GH joint is critical for overall upper extremity function. Osteopathic evalu
             rationale: "During shoulder protraction, the distal clavicle moves anteriorly, which causes the medial clavicle at the SC joint to move reciprocally posterior. If it remains stuck posteriorly and won't return anteriorly upon relaxation into neutral, it is named for the freedom of motion (remaining protracted/posterior). This biomechanical positioning corresponds to an SC joint flexion somatic dysfunction."
         }
     ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

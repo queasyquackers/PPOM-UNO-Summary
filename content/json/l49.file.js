@@ -63,4 +63,11 @@ window.receiveLectureContent({
         { "title": "Sleep Latency Definitions", "content": "**Sleep Latency:** Time to fall asleep (High in Insomnia, Low in Sleep Deprivation).\\n**REM Latency:** Time to first dream (Low in Narcolepsy & Depression)." },
         { "title": "Z-Drugs", "content": "Zolpidem, Zaleplon, Eszopiclone. They bind the BZ1 receptor subtype to induce sleep without the muscle relaxant/anticonvulsant effects of Benzos." }
     ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

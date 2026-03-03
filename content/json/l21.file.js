@@ -153,4 +153,11 @@ window.receiveLectureContent({
       "content": "Quaternary amines (No CNS). Inhaled for **COPD/Asthma**."
     }
   ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

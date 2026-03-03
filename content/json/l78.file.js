@@ -222,4 +222,11 @@ The primary goal of the adolescent office visit is to establish a bridge of trus
             rationale: "Stimulant medications (like methylphenidate and amphetamines) are sympathomimetic agents. Their most common side effects include decreased appetite, weight loss, difficulty sleeping (insomnia), tachycardia, and elevated blood pressure. This is why obtaining baseline vitals (height, weight, pulse, BP) prior to starting therapy is critical."
         }
     ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

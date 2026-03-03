@@ -153,4 +153,11 @@ window.receiveLectureContent({
       "content": "Maladaptive **Cortical Reorganization** (Neuroplasticity) where face area invades hand area."
     }
   ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

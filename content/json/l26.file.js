@@ -153,4 +153,11 @@ window.receiveLectureContent({
       "content": "**EVM-456**.\\nEyes (4), Verbal (5), Motor (6).\\nMax 15, Min 3."
     }
   ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

@@ -139,4 +139,11 @@ window.receiveLectureContent({
       "content": "**Purkinje Cells** are the ONLY output of the cortex. They are **Inhibitory (GABA)**."
     }
   ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

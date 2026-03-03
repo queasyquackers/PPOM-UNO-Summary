@@ -65,4 +65,11 @@ window.receiveLectureContent({
             "rationale": "**Glutamate** is the major excitatory neurotransmitter. In ischemia, it is dumped into the synapse, overstimulating NMDA receptors and causing massive **Calcium influx**, which kills the cell."
         }
     ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

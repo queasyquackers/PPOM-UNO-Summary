@@ -65,4 +65,11 @@ window.receiveLectureContent({
             "rationale": "This is a **Subarachnoid Hemorrhage** (Thunderclap headache + Starfish pattern). The most common non-traumatic cause is the rupture of a **Saccular (Berry) Aneurysm**."
         }
     ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

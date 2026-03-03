@@ -153,4 +153,11 @@ window.receiveLectureContent({
       "content": "Causes **Left Hemispatial Neglect**. The Right parietal lobe attends to *both* sides, while the Left only attends to the Right. Loss of Right = Loss of Left attention."
     }
   ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

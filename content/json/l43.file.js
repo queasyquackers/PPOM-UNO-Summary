@@ -137,4 +137,11 @@ window.receiveLectureContent({
       "content": "**Dalfampridine** is the 'Walking Drug'. It blocks **Potassium Channels** to prolong the action potential and improve conduction in demyelinated nerves."
     }
   ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

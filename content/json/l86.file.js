@@ -267,4 +267,11 @@ Be highly vigilant of CYP interactions:
             rationale: "The clinical scenario describes the administration of Esketamine, which is used for treatment-resistant depression and requires supervised in-clinic dosing due to its dramatic dissociative side effects. Esketamine works as a non-competitive antagonist of the NMDA (glutamate) receptor, initiating a rapid surge in BDNF and synaptogenesis."
         }
     ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

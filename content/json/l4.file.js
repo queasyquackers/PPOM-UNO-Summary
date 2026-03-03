@@ -153,4 +153,11 @@ window.receiveLectureContent({
       "content": "Aphasia is usually Left MCA.\n**Broca's** (Frontal) = Broken speech.\n**Wernicke's** (Temporal) = Word salad."
     }
   ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

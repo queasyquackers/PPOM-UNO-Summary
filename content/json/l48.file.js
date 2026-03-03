@@ -56,4 +56,11 @@ window.receiveLectureContent({
             "content": "You wake up from Thiopental NOT because it's metabolized, but because it leaves the brain to go into fat/muscle (`Redistribution`)."
         }
     ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

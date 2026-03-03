@@ -153,4 +153,11 @@ window.receiveLectureContent({
       "content": "ADH is synthesized in the **Supraoptic** and **Paraventricular** nuclei and released from the **Posterior Pituitary**."
     }
   ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

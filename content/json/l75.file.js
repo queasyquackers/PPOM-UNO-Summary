@@ -299,4 +299,11 @@ Always obtain a cardiology consult for patients suspected of having Friedrich's 
             }
         ]
     }
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

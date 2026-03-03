@@ -162,4 +162,11 @@ A "drug holiday" involves taking a patient off their medication for a set period
             rationale: "Drug holidays are only appropriate for stimulant medications (because they wash out quickly and work quickly when restarted). They are not recommended for non-stimulants because non-stimulants take 2-4 weeks to reach clinical efficacy. Furthermore, abruptly stopping Guanfacine (an alpha-2 agonist) can trigger dangerous rebound hypertension."
         }
     ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

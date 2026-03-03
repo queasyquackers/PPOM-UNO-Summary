@@ -149,4 +149,11 @@ window.receiveLectureContent({
       "content": "Most sympathetic postganglionics release NE. **Exceptions:** Sweat glands (ACh) and Adrenal Medulla (Epi/NE directly)."
     }
   ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

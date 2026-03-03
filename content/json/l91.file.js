@@ -4,11 +4,14 @@ window.receiveLectureContent({
     lecturer: "A. Coladner, D.O.",
     module: "Psychiatry",
     pdf: "content/L91_HighYield_Render.pdf",
-    summary: `## High-Yield Narrative Summary
+    summary: `# Lecture #91: Eating Disorders
+
+**Lecturer:** A. Coladner, D.O.
+**Session:** Lecture #91
 
 Eating disorders are psychiatric conditions characterized by severe disturbances in real and perceived body image, body weight, and eating patterns. Because the psychological component—a distorted perception of oneself—drives the physical illness, patients frequently experience severe and sometimes fatal medical complications resulting from malnutrition or purging behaviors. Women between the ages of 12 and 25 are the most frequently affected demographic.
 
-**Introduction to Eating Disorders (Slide 4)**
+## Introduction to Eating Disorders (Slide 4)
 A key element of diagnosing eating disorders is accurately assessing body status, though Body Mass Index (BMI) is widely used to determine low body weight, it has limitations because it does not account for body fat percentage. Early screening is performed primarily via the 26-item questionnaire known as the Eating Aptitude Test.
 
 :::highyield

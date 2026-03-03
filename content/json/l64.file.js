@@ -149,4 +149,11 @@ window.receiveLectureContent({
         }
     ],
     "mindmap": "## General Anesthetics\n\n### Inhaled\n- **Pharmacokinetics**: \n    - Low Solubility -> Fast Onset (Desflurane, N2O)\n    - High Solubility -> Slow Onset (Halothane, Isoflurane)\n    - Increased CO -> Slower Onset\n- **Agents**:\n    - **N2O**: Weak, Fast, Diffusion Hypoxia.\n    - **Halogenated**: Potent, MH risk, Hypotension.\n        - **Sevoflurane**: Bronchodilation.\n        - **Desflurane**: Pungent, Tachycardia.\n\n### Intravenous\n- **Propofol**: Anti-emetic, Hypotension, Standard induction.\n- **Etomidate**: Cardiac Stability, Adrenal suppression.\n- **Ketamine**: Sympathomimetic (High BP), Dissociative, Bronchodilator.\n- **Dexmedetomidine**: Alpha-2 agonist (Sedation w/o Resp Depression).\n- **Thiopental**: Barbiturate (High ICP control)."
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

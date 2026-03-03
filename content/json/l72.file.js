@@ -274,4 +274,11 @@ Ependymoma
             rationale: "The tumor described is an Anaplastic Astrocytoma. The key to differentiating it from lower grade infiltrative astrocytomas (Grade II) is the presence of significant nuclear atypia and high/frequent mitotic activity. The key distinguishing it from a Glioblastoma (Grade IV) is the deliberate absence of microvascular proliferation and necrosis. Therefore, it is a WHO Grade III tumor."
         }
     ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

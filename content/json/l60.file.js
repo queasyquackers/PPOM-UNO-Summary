@@ -264,4 +264,11 @@ These involve the entire sacral base moving together (Symmetric).
     *   **Sulci**: Shallow Bilaterally
     *   **ILAs**: Anterior Bilaterally
     *   **Tests**: Spring (+)`
-    });
+    ,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
+});

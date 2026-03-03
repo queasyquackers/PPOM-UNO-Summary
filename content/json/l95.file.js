@@ -4,7 +4,12 @@ window.receiveLectureContent({
     lecturer: "J. Goldberg, D.O.",
     module: "Psychiatry",
     pdf: "content/L95_HighYield_Render.pdf",
-    summary: `## Suicide Assessment and Risk Factors (Slide 2)
+    summary: `# Lecture #95: Special Issues in Psychiatry: Suicidal Patients, Legal Issues and Violent Patients
+
+**Lecturer:** J. Goldberg, D.O.
+**Session:** Lecture #95
+
+## Suicide Assessment and Risk Factors (Slide 2)
 
 Suicide is a complex phenomenon and a leading cause of death, closely tied to psychiatric illness, social isolation, and access to lethal means like firearms. Understanding the demographic, clinical, and environmental risk factors is the first crucial step in identifying those at risk. The interplay of feelings of loneliness, hopelessness, and acute stressors (such as illness or loss) often precipitates suicidal ideation.
 
@@ -139,88 +144,7 @@ When approaching a potentially violent patient, verbal de-escalation must be pai
   - **Evasion ("The Electric Slide"):** Use a sideways sidestep rather than turning and running to retreat while keeping eyes on the patient.
   - **Room Layout:** Both the clinician and patient should ideally be equidistant from the door so the patient does not feel cornered. Never block the exit.
 
----
-## Review Questions
-
-**1. A 45-year-old male with a history of schizophrenia is brought to the emergency department. His family notes he recently began taking a new medication and has since become extremely restless, pacing the halls at home, and has become physically aggressive towards his brother when asked to sit down. He states, "I just can't stop moving, my skin is crawling." Which of the following best explains his aggressive behavior?**
-
-A. Activation of command auditory hallucinations  
-B. New-onset mania  
-C. Akathisia secondary to an antipsychotic  
-D. Sympathomimetic intoxication  
-E. Antisocial personality disorder exacerbation  
-
-<details>
-<summary><strong>Click to Reveal Answer</strong></summary>
-
-**Answer: C (Akathisia secondary to an antipsychotic)**
-
-**Rationale**: Akathisia is a common side effect of antipsychotic medications characterized by extreme subjective and objective motor restlessness. If severe and unrecognized, the intense discomfort can cause patients to strike out or become physically aggressive due to the inability to remain still. Options A and B are unlikely to present primarily with the physical sensation of "skin crawling" and inability to sit still.
-</details>
-
-**2. A 22-year-old college student tells his campus therapist that he has acquired a handgun and intends to shoot his ex-girlfriend, naming her explicitly, because she broke up with him. He describes his plan in detail. According to the precedent set by the Tarasoff case, what is the therapist's legal and ethical obligation?**
-
-A. Maintain strict confidentiality to preserve the therapeutic alliance  
-B. Inform the student's parents so they can intervene  
-C. Inform campus security and the identified potential victim  
-D. Arrange for voluntary hospitalization without breaking confidentiality  
-E. Only contact the police if the student physically brings the weapon to the clinic  
-
-<details>
-<summary><strong>Click to Reveal Answer</strong></summary>
-
-**Answer: C (Inform campus security and the identified potential victim)**
-
-**Rationale**: The Tarasoff case established the "Duty to Protect." When a patient poses a foreseeable danger to a specifically identified potential victim, mental health professionals must warn the victim and notify law enforcement to protect them, overriding normal confidentiality.
-</details>
-
-**3. A 68-year-old man visits his primary care provider complaining of joint pain and insomnia. He has a history of major depressive disorder and reports that since his wife died last month, he feels there is "no point in going on." Which of the following factors in this patient's history is statistically the most robust predictor of a future completed suicide?**
-
-A. His advanced age  
-B. His recent widower status  
-C. A prior suicide attempt 10 years ago  
-D. His visit to a primary care provider  
-E. A family history of depression  
-
-<details>
-<summary><strong>Click to Reveal Answer</strong></summary>
-
-**Answer: C (A prior suicide attempt 10 years ago)**
-
-**Rationale**: While all listed factors (age, widowed, recent loss, PCP visit) are associated with suicide, a previous suicide attempt is widely considered the single most robust and significant predictor of future suicide risk.
-</details>
-
-**4. A first-year psychiatry resident is evaluating a patient in the emergency department who is acutely agitated, speaking loudly, and making vague threats toward the hospital staff. Which of the following physical positioning strategies is most appropriate for the resident to maintain safety?**
-
-A. Stand directly facing the patient while maintaining direct eye contact  
-B. Stand with hands crossed over the chest to convey authority  
-C. Stand between the patient and the door to prevent elopement  
-D. Maintain a buffer zone of at least 1.5 arm's lengths and stand at an angle  
-E. Approach the patient from behind to avoid confrontation  
-
-<details>
-<summary><strong>Click to Reveal Answer</strong></summary>
-
-**Answer: D (Maintain a buffer zone of at least 1.5 arm's lengths and stand at an angle)**
-
-**Rationale**: Safe interviewing of an agitated patient involves maintaining a larger physical distance, standing at an angle ("blading") rather than face-to-face to appear less confrontational, keeping hands visible and uncaged (not crossed), and ensuring both parties have access to the exit without either feeling trapped.
-</details>
-
-**5. A 30-year-old female with refractory depression and a history of multiple suicide attempts is currently experiencing a severe depressive episode with active suicidal ideation in the hospital. She has failed multiple SSRIs and SNRIs. Which of the following treatments is FDA-approved specifically to target her acute suicidality?**
-
-A. Oral Clozapine  
-B. Intravenous Ketamine  
-C. Intranasal Esketamine  
-D. Oral Lithium  
-E. Electroconvulsive Therapy (ECT)  
-
-<details>
-<summary><strong>Click to Reveal Answer</strong></summary>
-
-**Answer: C (Intranasal Esketamine)**
-
-**Rationale**: Esketamine, an enantiomer of ketamine delivered intranasally, carries a specific FDA indication for the treatment of suicidality in the context of major depressive disorder. Clozapine is FDA-approved for reducing suicide risk in *schizophrenia*. Lithium is effective but primarily used in bipolar disorder.
-</details>`,
+`,
     pearls: [
         { "title": "Most Robust Predictor of Suicide", "content": "A prior suicide attempt with severe intent and lethal means is the single most robust predictor of a future completed suicide." },
         { "title": "Primary Care Role in Suicide Prevention", "content": "Patients who die by suicide are significantly more likely to have seen a primary care provider within the preceding month than a mental health professional." },
@@ -259,4 +183,72 @@ E. Electroconvulsive Therapy (ECT)
             { "resource": "FirstAid", "chapter": "Psychiatry > Law & Ethics" }
         ]
     }
+,
+    questions: [
+        {
+            "id": 1,
+            "question": "A 45-year-old male with a history of schizophrenia is brought to the emergency department. His family notes he recently began taking a new medication and has since become extremely restless, pacing the halls at home, and has become physically aggressive towards his brother when asked to sit down. He states, \"I just can't stop moving, my skin is crawling.\" Which of the following best explains his aggressive behavior?",
+            "options": [
+                "Activation of command auditory hallucinations",
+                "New-onset mania",
+                "Akathisia secondary to an antipsychotic",
+                "Sympathomimetic intoxication",
+                "Antisocial personality disorder exacerbation"
+            ],
+            "correctAnswer": 2,
+            "rationale": "Akathisia is a common side effect of antipsychotic medications characterized by extreme subjective and objective motor restlessness. If severe and unrecognized, the intense discomfort can cause patients to strike out or become physically aggressive due to the inability to remain still. Options A and B are unlikely to present primarily with the physical sensation of \"skin crawling\" and inability to sit still."
+        },
+        {
+            "id": 2,
+            "question": "A 22-year-old college student tells his campus therapist that he has acquired a handgun and intends to shoot his ex-girlfriend, naming her explicitly, because she broke up with him. He describes his plan in detail. According to the precedent set by the Tarasoff case, what is the therapist's legal and ethical obligation?",
+            "options": [
+                "Maintain strict confidentiality to preserve the therapeutic alliance",
+                "Inform the student's parents so they can intervene",
+                "Inform campus security and the identified potential victim",
+                "Arrange for voluntary hospitalization without breaking confidentiality",
+                "Only contact the police if the student physically brings the weapon to the clinic"
+            ],
+            "correctAnswer": 2,
+            "rationale": "The Tarasoff case established the \"Duty to Protect.\" When a patient poses a foreseeable danger to a specifically identified potential victim, mental health professionals must warn the victim and notify law enforcement to protect them, overriding normal confidentiality."
+        },
+        {
+            "id": 3,
+            "question": "A 68-year-old man visits his primary care provider complaining of joint pain and insomnia. He has a history of major depressive disorder and reports that since his wife died last month, he feels there is \"no point in going on.\" Which of the following factors in this patient's history is statistically the most robust predictor of a future completed suicide?",
+            "options": [
+                "His advanced age",
+                "His recent widower status",
+                "A prior suicide attempt 10 years ago",
+                "His visit to a primary care provider",
+                "A family history of depression"
+            ],
+            "correctAnswer": 2,
+            "rationale": "While all listed factors (age, widowed, recent loss, PCP visit) are associated with suicide, a previous suicide attempt is widely considered the single most robust and significant predictor of future suicide risk."
+        },
+        {
+            "id": 4,
+            "question": "A first-year psychiatry resident is evaluating a patient in the emergency department who is acutely agitated, speaking loudly, and making vague threats toward the hospital staff. Which of the following physical positioning strategies is most appropriate for the resident to maintain safety?",
+            "options": [
+                "Stand directly facing the patient while maintaining direct eye contact",
+                "Stand with hands crossed over the chest to convey authority",
+                "Stand between the patient and the door to prevent elopement",
+                "Maintain a buffer zone of at least 1.5 arm's lengths and stand at an angle",
+                "Approach the patient from behind to avoid confrontation"
+            ],
+            "correctAnswer": 3,
+            "rationale": "Safe interviewing of an agitated patient involves maintaining a larger physical distance, standing at an angle (\"blading\") rather than face-to-face to appear less confrontational, keeping hands visible and uncaged (not crossed), and ensuring both parties have access to the exit without either feeling trapped."
+        },
+        {
+            "id": 5,
+            "question": "A 30-year-old female with refractory depression and a history of multiple suicide attempts is currently experiencing a severe depressive episode with active suicidal ideation in the hospital. She has failed multiple SSRIs and SNRIs. Which of the following treatments is FDA-approved specifically to target her acute suicidality?",
+            "options": [
+                "Oral Clozapine",
+                "Intravenous Ketamine",
+                "Intranasal Esketamine",
+                "Oral Lithium",
+                "Electroconvulsive Therapy (ECT)"
+            ],
+            "correctAnswer": 2,
+            "rationale": "Esketamine, an enantiomer of ketamine delivered intranasally, carries a specific FDA indication for the treatment of suicidality in the context of major depressive disorder. Clozapine is FDA-approved for reducing suicide risk in *schizophrenia*. Lithium is effective but primarily used in bipolar disorder."
+        }
+    ]
 });

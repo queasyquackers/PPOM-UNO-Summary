@@ -153,4 +153,11 @@ window.receiveLectureContent({
       "content": "**PAG** (Midbrain) → **RVM** (Medulla) → Spinal Cord Dorsal Horn. Mediated by Opioids, Serotonin, and NE."
     }
   ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

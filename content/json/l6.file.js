@@ -153,4 +153,11 @@ window.receiveLectureContent({
       "content": "Renshaw cells are the \"brakes\" of the motor system. Without them (e.g., Tetanus toxin blockade), motor neurons fire uncontrollably."
     }
   ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

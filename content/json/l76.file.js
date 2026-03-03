@@ -287,4 +287,11 @@ A patient **cannot** be cleared to return to sports until they are 100% asymptom
             rationale: "Down syndrome (Trisomy 21) frequently presents with recognizable generalized hypotonia, significant joint hyper-laxity, upslanting palpebral fissures, and congenital heart defects (e.g., endocardial cushion defects). Prader-Willi also presents with infantile hypotonia, but is associated with hypogonadism and a future switch to hyperphagia."
         }
     ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

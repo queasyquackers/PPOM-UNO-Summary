@@ -62,4 +62,11 @@ window.receiveLectureContent({
         { "title": "Wernicke's Tx", "content": "Give **Thiamine** BEFORE Glucose. Glucose first depletes remaining thiamine and precipitates Wernicke's." },
         { "title": "FTD Features", "content": "Disinhibition, Apathy, Hyperorality (sweets), Compulsive behaviors. Memory often spared early." }
     ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

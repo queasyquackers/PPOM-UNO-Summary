@@ -153,4 +153,11 @@ window.receiveLectureContent({
       "content": "Encapsulates **Rocuronium/Vecuronium**. Reversal without cholinergic side effects."
     }
   ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

@@ -139,4 +139,11 @@ window.receiveLectureContent({
       "content": "Head tilts **AWAY** from the lesion. (Right CN IV palsy = Left Head Tilt)."
     }
   ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

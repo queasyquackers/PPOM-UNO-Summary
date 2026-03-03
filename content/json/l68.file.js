@@ -105,4 +105,11 @@ window.receiveLectureContent({
         { "title": "Nystagmus", "content": "Vertical/Horizontal nystagmus in an agitated patient is pathognomonic for PCP intoxication." }
     ],
     "mindmap": "\n- **Mesolimbic Pathway**\n    - VTA -> Nucleus Accumbens (DA release).\n    - Mechanism: Reward Prediction Error.\n- **Stimulants**\n    - **Cocaine**: Blocks DAT. Chest pain (Vasospasm). No Beta-blockers.\n    - **Amphetamine**: Reverses DAT. Displaces vesicles.\n    - **Nicotine**: Agonist at nAChR (VTA).\n- **Depressants (Disinhibition)**\n    - **Alcohol**: GABA-A agonist / NMDA antagonist. DTs (Fatal).\n    - **Benzos**: GABA-A Frequency (Alpha-1 subunit in VTA).\n    - **Opioids**: Mu-agonist. Pinpoint pupils, Resp Depression. Withdrawal = Flu-like.\n- **Others**\n    - **PCP**: NMDA Antagonist. Violence, Nystagmus.\n    - **MDMA**: SERT Reversal. Serotonin Syndrome, Hyponatremia.\n    - **Marijuana**: CB1 Agonist (Presynaptic inhibition).\n"
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

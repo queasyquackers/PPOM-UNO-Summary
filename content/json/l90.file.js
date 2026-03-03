@@ -4,11 +4,14 @@ window.receiveLectureContent({
     lecturer: "L. Jarkon, D.O.",
     module: "Psychiatry",
     pdf: "content/L90_HighYield_Render.pdf",
-    summary: `## High-Yield Narrative Summary
+    summary: `# Lecture #90: Personality Disorders
+
+**Lecturer:** L. Jarkon, D.O.
+**Session:** Lecture #90
 
 This lecture provides a comprehensive overview of personality disorders, outlining their core definitions, diagnostic criteria, and the shared hallmarks of each of the three major clusters (A, B, and C). The lecture emphasizes how these pervasive, inflexible behavioral patterns can create significant strain on interpersonal relationships and social functioning.
 
-**Introduction to Personality Disorders (Slide 3)**
+## Introduction to Personality Disorders (Slide 3)
 According to the DSM-5, a personality disorder is defined as an enduring, inflexible, and pervasive pattern of inner experience and behavior that deviates markedly from the expectations of the individual's culture. To properly diagnose these disorders, a clinician must establish a long-term pattern of functioning extending across various situations.
 
 - **Diagnostic Criteria & Demographics (Slide 4, 5)**:
@@ -105,88 +108,6 @@ Significant personality changes can also occur due to the direct physiological e
   - **Mechanism/Presentation**: Certain streptococcal infections have been associated with a sudden onset or increase in OCD-like symptoms or tics in some children.
   - **Treatment/Notes**: When treated with appropriate antibiotic intervention, the severe OCD symptoms often safely remit.
 
----
-## Review Questions
-
-**1. A 30-year-old man presents to the clinic. He describes feeling very uncomfortable around people and says he "prefers to be alone." He has no close friends and works a night shift to avoid interacting with coworkers. When the physician compliments his punctual attendance, he shows no emotional reaction. Which of the following is the most likely personality disorder?**
-A. Avoidant
-B. Schizoid
-C. Schizotypal
-D. Paranoid
-E. Antisocial
-
-<details>
-<summary><strong>Click to Reveal Answer</strong></summary>
-
-**Answer: B (Schizoid)**
-
-**Rationale**:
-Schizoid Personality Disorder is characterized by voluntary social withdrawal and a restricted range of emotional expression. Unlike Avoidant Personality Disorder, these individuals prefer isolation and are fundamentally indifferent to praise or criticism.
-</details>
-
-**2. A 24-year-old woman is brought to the emergency department after intentionally cutting her wrists. She explains that her boyfriend of two weeks threatened to leave her, and she "couldn't bear the emptiness." During the interview, she alternates between praising the physician as "the only one who understands her" and yelling that the physician is "completely incompetent." Which of the following defense mechanisms is she exhibiting?**
-A. Projection
-B. Splitting
-C. Displacement
-D. Reaction formation
-E. Sublimation
-
-<details>
-<summary><strong>Click to Reveal Answer</strong></summary>
-
-**Answer: B (Splitting)**
-
-**Rationale**:
-Borderline personality disorder is characterized by unstable relationships, impulsivity, fear of abandonment, chronic emptiness, and self-harm. Splitting—alternating rapidly between idealization and devaluation—is a classic defense mechanism commonly seen in this demographic, often polarizing treatment providers.
-</details>
-
-**3. A 40-year-old man constantly checks his subordinates' work for minor errors, often missing major deadlines because he insists the formatting must be "perfect." He is incredibly rigid about office rules and refuses to compromise. When asked if this causes stress, he replies, "There is nothing wrong with me; this is the right way to do things." This patient's condition is best described as:**
-A. Obsessive-compulsive disorder (OCD)
-B. Narcissistic personality disorder
-C. Obsessive-compulsive personality disorder (OCPD)
-D. Paranoid personality disorder
-E. Avoidant personality disorder
-
-<details>
-<summary><strong>Click to Reveal Answer</strong></summary>
-
-**Answer: C (Obsessive-compulsive personality disorder (OCPD))**
-
-**Rationale**:
-OCPD is characterized by a pervasive preoccupation with order (O), neatness/perfectionism (N), and obstinance/rigidity (O). Crucially, the disorder is ego-syntonic (the patient genuinely believes nothing is wrong with their approach), differentiating it entirely from OCD, which is ego-dystonic.
-</details>
-
-**4. A 19-year-old male is court-ordered for psychiatric evaluation after being arrested for theft. His history reveals multiple instances of fighting, lying, and truancy starting at age 12. During the interview, he shows no remorse. What is the most appropriate diagnosis?**
-A. Conduct disorder
-B. Oppositional defiant disorder
-C. Borderline personality disorder
-D. Antisocial personality disorder
-E. Narcissistic personality disorder
-
-<details>
-<summary><strong>Click to Reveal Answer</strong></summary>
-
-**Answer: D (Antisocial personality disorder)**
-
-**Rationale**:
-The patient is 19 (over 18), displays an enduring pattern of disregarding the rights of others (criminality, lack of remorse), and crucially has a recorded childhood history of conduct disorder symptoms surfacing before age 15. Thus, he strictly meets the criteria for Antisocial Personality Disorder.
-</details>
-
-**5. A 28-year-old woman is highly fearful of taking a new promotion at work because she dreads criticism from her new boss. She expresses a deep desire to attend office social events but routinely stays home, feeling "too inadequate and embarrassed" to talk to anyone. Which of the following differentiates her most likely diagnosis from schizoid personality disorder?**
-A. Presence of magical thinking
-B. History of childhood trauma
-C. Desire for interpersonal relationships
-D. Lack of remorse
-E. Ego-syntonic presentation
-
-<details>
-<summary><strong>Click to Reveal Answer</strong></summary>
-
-**Answer: C (Desire for interpersonal relationships)**
-
-**Rationale**:
-This patient has Avoidant Personality Disorder (hypersensitive to rejection, feels inadequate, but *deeply wants* friends). Schizoid personality disorder involves social withdrawal *by preference* with zero desire for close interpersonal relationships.
-</details>
 `,
     pearls: [
         { "title": "Cluster A vs. B vs. C Hallmarks", "content": "Cluster A disorders are 'odd or eccentric', Cluster B disorders are 'dramatic, emotional, or erratic', and Cluster C disorders are 'anxious and fearful'." },
@@ -249,4 +170,72 @@ This patient has Avoidant Personality Disorder (hypersensitive to rejection, fee
             { "resource": "Pathoma", "chapter": "N/A" }
         ]
     }
+,
+    questions: [
+        {
+            "id": 1,
+            "question": "A 30-year-old man presents to the clinic. He describes feeling very uncomfortable around people and says he \"prefers to be alone.\" He has no close friends and works a night shift to avoid interacting with coworkers. When the physician compliments his punctual attendance, he shows no emotional reaction. Which of the following is the most likely personality disorder?",
+            "options": [
+                "Avoidant",
+                "Schizoid",
+                "Schizotypal",
+                "Paranoid",
+                "Antisocial"
+            ],
+            "correctAnswer": 1,
+            "rationale": "Schizoid Personality Disorder is characterized by voluntary social withdrawal and a restricted range of emotional expression. Unlike Avoidant Personality Disorder, these individuals prefer isolation and are fundamentally indifferent to praise or criticism."
+        },
+        {
+            "id": 2,
+            "question": "A 24-year-old woman is brought to the emergency department after intentionally cutting her wrists. She explains that her boyfriend of two weeks threatened to leave her, and she \"couldn't bear the emptiness.\" During the interview, she alternates between praising the physician as \"the only one who understands her\" and yelling that the physician is \"completely incompetent.\" Which of the following defense mechanisms is she exhibiting?",
+            "options": [
+                "Projection",
+                "Splitting",
+                "Displacement",
+                "Reaction formation",
+                "Sublimation"
+            ],
+            "correctAnswer": 1,
+            "rationale": "Borderline personality disorder is characterized by unstable relationships, impulsivity, fear of abandonment, chronic emptiness, and self-harm. Splitting—alternating rapidly between idealization and devaluation—is a classic defense mechanism commonly seen in this demographic, often polarizing treatment providers."
+        },
+        {
+            "id": 3,
+            "question": "A 40-year-old man constantly checks his subordinates' work for minor errors, often missing major deadlines because he insists the formatting must be \"perfect.\" He is incredibly rigid about office rules and refuses to compromise. When asked if this causes stress, he replies, \"There is nothing wrong with me; this is the right way to do things.\" This patient's condition is best described as:",
+            "options": [
+                "Obsessive-compulsive disorder (OCD)",
+                "Narcissistic personality disorder",
+                "Obsessive-compulsive personality disorder (OCPD)",
+                "Paranoid personality disorder",
+                "Avoidant personality disorder"
+            ],
+            "correctAnswer": 2,
+            "rationale": "OCPD is characterized by a pervasive preoccupation with order (O), neatness/perfectionism (N), and obstinance/rigidity (O). Crucially, the disorder is ego-syntonic (the patient genuinely believes nothing is wrong with their approach), differentiating it entirely from OCD, which is ego-dystonic."
+        },
+        {
+            "id": 4,
+            "question": "A 19-year-old male is court-ordered for psychiatric evaluation after being arrested for theft. His history reveals multiple instances of fighting, lying, and truancy starting at age 12. During the interview, he shows no remorse. What is the most appropriate diagnosis?",
+            "options": [
+                "Conduct disorder",
+                "Oppositional defiant disorder",
+                "Borderline personality disorder",
+                "Antisocial personality disorder",
+                "Narcissistic personality disorder"
+            ],
+            "correctAnswer": 3,
+            "rationale": "The patient is 19 (over 18), displays an enduring pattern of disregarding the rights of others (criminality, lack of remorse), and crucially has a recorded childhood history of conduct disorder symptoms surfacing before age 15. Thus, he strictly meets the criteria for Antisocial Personality Disorder."
+        },
+        {
+            "id": 5,
+            "question": "A 28-year-old woman is highly fearful of taking a new promotion at work because she dreads criticism from her new boss. She expresses a deep desire to attend office social events but routinely stays home, feeling \"too inadequate and embarrassed\" to talk to anyone. Which of the following differentiates her most likely diagnosis from schizoid personality disorder?",
+            "options": [
+                "Presence of magical thinking",
+                "History of childhood trauma",
+                "Desire for interpersonal relationships",
+                "Lack of remorse",
+                "Ego-syntonic presentation"
+            ],
+            "correctAnswer": 2,
+            "rationale": "This patient has Avoidant Personality Disorder (hypersensitive to rejection, feels inadequate, but *deeply wants* friends). Schizoid personality disorder involves social withdrawal *by preference* with zero desire for close interpersonal relationships."
+        }
+    ]
 });

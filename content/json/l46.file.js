@@ -132,4 +132,11 @@ window.receiveLectureContent({
       "content": "The classic pattern of Diabetic Polyneuropathy. Starts in toes/feet (longest nerves) and ascends. Sensory loss is symmetrical."
     }
   ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

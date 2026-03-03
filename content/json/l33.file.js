@@ -139,4 +139,11 @@ window.receiveLectureContent({
       "content": "**Dobutamine** is a Beta-1 agonist used for **Heart Failure** to increase contractility without massively increasing Heart Rate (Chronotropy)."
     }
   ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

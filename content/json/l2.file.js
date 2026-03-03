@@ -162,4 +162,11 @@ window.receiveLectureContent({
       "content": "Failed forebrain cleavage. Spectrum: Cleft lip → Cyclopia. Associated with **Trisomy 13 (Patau)** and **SHH** mutations."
     }
   ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

@@ -323,4 +323,11 @@ Located near the anterior commissure. Contains the **Nucleus Accumbens**.
 *   **Alzheimer's**: Hippocampal atrophy. Low ACh.
 *   **Patient H.M.**: Medial Temporal removal. Anterograde Amnesia.
 `
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

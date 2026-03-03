@@ -138,4 +138,11 @@ window.receiveLectureContent({
       "content": "Shingles vesicle on the **tip of the nose** predicts ocular involvement (Herpes Zoster Ophthalmicus)."
     }
   ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

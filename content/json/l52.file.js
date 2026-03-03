@@ -62,4 +62,11 @@ window.receiveLectureContent({
         { "title": "Purple Glove Syndrome", "content": "Caused by Phenytoin extravasation (propylene glycol/pH 12). Use Fosphenytoin to avoid it." },
         { "title": "Gingival Hyperplasia", "content": "Classic side effect of Phenytoin (along with Hirsutism)." }
     ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

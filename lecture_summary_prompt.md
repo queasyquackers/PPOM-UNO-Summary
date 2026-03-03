@@ -180,7 +180,29 @@ Generate a comprehensive, high-yield summary of the provided lecture content.
   - **Valid Source Names:** `BandB`, `Pathoma`, `SketchyMicro`, `SketchyPharm`, `SketchyPath`, `FirstAid`, `Physeo`, `Pixorize`, `Bootcamp`.
   - **Rule:** Provide the **Best Match** as primary, and up to **5 Alternative Matches** in the list. Ensure `BandB` is present.
 
-### 7. Pearlbook (JSON)
+### 7. Anking Tag Matches (JSON)
+
+- **Goal:** Provide specific concept matches to the AnKing deck.
+  - **Format:**
+  ```json
+  "anking": [
+      {
+          "match": "[Concept Name]",
+          "resources": "[Brief description or AnKing search term]"
+      }
+  ]
+  ```
+  - **CRITICAL RULE:** If there is no good match in the AnKing deck, then the `anking` array **MUST** still be present and populated exactly like this:
+  ```json
+  "anking": [
+      {
+          "match": "In-house lecture is best",
+          "resources": "In-house lecture is best"
+      }
+  ]
+  ```
+
+### 8. Pearlbook (JSON)
 
 - **Goal:** Provide a structured list of the "High Yield Pearls" for the Pearlbook feature.
 - **Content:** Extract high-yield pearls directly into this JSON array. **Do not include them in the main text.**
@@ -192,7 +214,7 @@ Generate a comprehensive, high-yield summary of the provided lecture content.
   ]
   ```
 
-### 8. Mind Map Structure (Markdown)
+### 9. Mind Map Structure (Markdown)
 
 - **Goal:** Create a strict hierarchical outline for visualization.
 - **Format:**

@@ -129,4 +129,11 @@ window.receiveLectureContent({
       "content": "Extension (Sphinx) makes a forward sacrum happy (more symmetrical). It makes a backward sacrum sad (more asymmetrical)."
     }
   ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

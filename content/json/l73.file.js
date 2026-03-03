@@ -268,4 +268,11 @@ Neurofibromatosis Type 2
             rationale: "The tumor described—unencapsulated and infiltrating the nerve fascicles—is a Neurofibroma (unlike a Schwannoma, which is encapsulated and can be shelled out). Neurofibromas occur due to the loss of neurofibromin (the NF1 gene product), which normally acts as a negative regulator of the Ras pathway. Loss of neurofibromin therefore disinhibits Ras, leading to unchecked cellular proliferation."
         }
     ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

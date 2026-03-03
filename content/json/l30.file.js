@@ -139,4 +139,11 @@ window.receiveLectureContent({
       "content": "Occurs at the **Cervicomedullary Junction** (Lower Medulla)."
     }
   ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

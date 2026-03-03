@@ -153,4 +153,11 @@ window.receiveLectureContent({
       "content": "Face blindness. Lesion of **Fusiform Face Area** (Temporal Lobe)."
     }
   ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

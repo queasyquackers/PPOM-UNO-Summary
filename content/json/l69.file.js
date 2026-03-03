@@ -395,4 +395,11 @@ Mechanism involves potentiation of GABA-A receptors (inhibitory). The clinical p
         }
     ],
     "mindmap": "## Substance Use Disorders\n\n### Alcohol\n- **Intoxication**: Slurred speech, Ataxia.\n- **Withdrawal**: Tremors -> Seizures -> DTs (Fatal).\n- **Tx**: Benzos.\n\n### Opioids\n- **Intoxication**: **Miosis**, Resp Depression.\n- **Withdrawal**: Flu-like, **Mydriasis**, Yawning.\n- **Tx**: Naloxone (Rescue), Methadone/Suboxone (Maint).\n\n### Stimulants\n- **Intoxication**: **Mydriasis**, Chest Pain, Tachycardia.\n- **Withdrawal**: Sleepy, Hungry, Depressed.\n\n### Hallucinogens\n- **PCP**: **Nystagmus**, Violence.\n- **Cannabis**: **Red Eyes**, Munchies."
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

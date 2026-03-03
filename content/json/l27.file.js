@@ -149,4 +149,11 @@ window.receiveLectureContent({
       "content": "**ASIS Higher**, **PSIS Lower** on the affected side."
     }
   ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

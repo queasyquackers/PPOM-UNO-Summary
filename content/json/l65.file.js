@@ -165,4 +165,11 @@ window.receiveLectureContent({
         }
     ],
     "mindmap": "\n- **Inhaled Anesthetics**\n    - **Mechanism**: Unknown globally, but likely GABA potentiators / NMDA inhibitors.\n    - **PK**: MAC (potency), Solubility (speed).\n    - **Organ Effects**\n        - CV: Vasodilation (Iso/Des/Sevo), Myocardial Depression (Halothane).\n        - Resp: Depression, Bronchodilation (Sevo ++).\n        - Brain: Increased CBF/ICP, Decreased CMRO2.\n    - **Toxicities**\n        - Malignant Hyperthermia (All volatiles).\n        - Halothane Hepatitis (Immune).\n        - Nephrotoxicity (Sevo -> Cmpd A).\n        - **N2O Specifics**: Expansion of air spaces, B12 inhibition, Diffusion Hypoxia.\n- **Intravenous Anesthetics**\n    - **Propofol** (GABA): Standard induction. Hypotension/Apnea. Antiemetic.\n    - **Etomidate** (GABA): CV Stability. Adrenal suppression. Myoclonus.\n    - **Ketamine** (NMDA): Dissociative. Sympathetic boost (Shock). Hallucinations.\n    - **Dexmedetomidine** (Alpha-2): Sedation without resp depression.\n"
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

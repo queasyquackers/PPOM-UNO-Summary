@@ -348,4 +348,11 @@ Bipolar I Disorder
             rationale: "This patient demonstrates the hallmark features of depression with atypical features: mood reactivity (mood temporarily brightens with positive events), hypersomnia (10-12 hours/night), leaden paralysis (heaviness in arms and legs), and interpersonal rejection sensitivity. Despite the name 'atypical,' this is actually the most common subtype of depression. Dysthymia is milder and lacks these specific atypical features. Seasonal pattern would require symptom correlation with specific seasons."
         }
     ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

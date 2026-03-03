@@ -257,5 +257,11 @@ When faced with a patient exhibiting unexplainable symptoms, focus on their inte
 - **First Aid for the USMLE Step 1**: Psychiatry chapter - Review the chart comparing Factitious Disorder, Malingering, and Somatic Symptom/Illness Anxiety Disorders. 
 - **First Aid for the USMLE Step 1**: Neurology chapter - Focal seizures vs Generalized seizures, and visual agnosias.
 - **Pathoma**: Female Reproductive System (for Ovarian Teratomas / paraneoplastic anti-NMDA receptor encephalitis correlations).
-  `
+  `,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

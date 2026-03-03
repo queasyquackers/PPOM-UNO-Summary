@@ -139,4 +139,11 @@ window.receiveLectureContent({
       "content": "Can't get a knee jerk? Have them hook hands and PULL. Distraction unmasks the reflex."
     }
   ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

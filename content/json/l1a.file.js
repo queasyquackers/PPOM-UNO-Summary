@@ -123,4 +123,11 @@ window.receiveLectureContent({
       "tag": "Clinical"
     }
   ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

@@ -272,4 +272,11 @@ Dosing with **Second-Generation Antipsychotics (SGAs)** (e.g., aripiprazole, zip
 - **Sketchy Medical**: Sketchy Pharm - Antipsychotics (focus heavily on Atypical Antipsychotics "The Ghost Whisperer" setting to understand receptor targets and specific adverse effects).
 - **Pathoma**: Not exceptionally relevant for psychiatric clinical disorders outside of some neuroanatomical correlations.
   `
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

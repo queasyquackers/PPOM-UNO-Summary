@@ -4,11 +4,14 @@ window.receiveLectureContent({
     lecturer: "A. Loftis, D.O. M.S.",
     module: "Psychiatry",
     pdf: "content/L92_HighYield_Render.pdf",
-    summary: `## High-Yield Narrative Summary
+    summary: `# Lecture #92: Sexual Disorders
+
+**Lecturer:** A. Loftis, D.O. M.S.
+**Session:** Lecture #92
 
 This lecture provides an overview of Primary Sexual Dysfunctions and Paraphilic Disorders. Understanding the normal human sexual response cycle—which includes excitement (desire), plateau, orgasm, and resolution—is a crucial foundation because sexual dysfunctions typically manifest as a disturbance in one or more of these phases. For any of these conditions, a thorough history (including sexual history) and physical exam are required to rule out other causes, such as chronic medical conditions, psychosocial stressors, medications, or other psychiatric disorders.
 
-**Introduction to Sexual Dysfunctions (Slide 7)**
+## Introduction to Sexual Dysfunctions (Slide 7)
 A primary sexual dysfunction is characterized by a persistent or recurrent reduction or absence of sexual interest, arousal, or climax. It is not a one-time occurrence; the symptoms must be present on almost all occasions of sexual activity (75-100% of the time) and must have persisted for at least six months. Importantly, the dysfunction must cause clinically significant distress to the individual and cannot be better explained by another condition. 
 
 - **Key Considerations**:
@@ -113,88 +116,6 @@ A paraphilic behavior only becomes a *Paraphilic Disorder* when it meets specifi
 | **Sexual Sadism Disorder** | Gratification from psychological/physical suffering of others | Focus is on *giving* abuse, humiliation, or domination. | CBT, SSRIs, or GnRH agonists to suppress sex drive. |
 | **Pedophilic Disorder** | Sexual desire for prepubescent children (<13 yo) | Patient must be >16 yo or at least 5 years older than the victim. | High recidivism. Highly treatment-resistant (therapy/meds). The behavior itself defines the disorder. |
 
----
-## Review Questions
-
-**1. A 35-year-old woman is evaluated by her gynecologist for pelvic pain during intercourse. She states that she has experienced excruciating pain with any attempt at vaginal penetration for the past eight months. She notes that her pelvic muscles involuntarily "clench up" whenever penetration is attempted, a problem that began after a traumatic assault. Which of the following is the most appropriate next step in long-term management?**
-A. Immediate surgical exploration for endometriosis
-B. Prescribing a PDE-5 inhibitor
-C. Pelvic floor physical therapy and CBT
-D. Oral estrogen replacement 
-E. Broad-spectrum antibiotics for PID
-
-<details>
-<summary><strong>Click to Reveal Answer</strong></summary>
-
-**Answer: C (Pelvic floor physical therapy and CBT)**
-
-**Rationale**:
-This patient is describing Genito-Pelvic Pain/Penetration Disorder (specifically the vaginismus presentation, characterized by involuntary pelvic floor tightening). Because her symptoms are heavily linked to a traumatic history, Cognitive Behavioral Therapy (CBT) combined with Pelvic Floor Physical Therapy (PFPT) to overcome the muscle spasms is the best long-term management approach.
-</details>
-
-**2. A 28-year-old man visits his primary care physician complaining that he consistently ejaculates within 30 to 45 seconds of beginning intercourse. He expresses deep frustration and embarrassment, noting this has occurred in almost every encounter for the past two years. Physical examination is unremarkable. Which of the following pharmacologic agents is most commonly used off-label to treat this patient’s condition?**
-A. Trazodone
-B. A selective serotonin reuptake inhibitor (SSRI)
-C. A phosphodiesterase type 5 (PDE-5) inhibitor
-D. Testosterone replacement
-E. A statin
-
-<details>
-<summary><strong>Click to Reveal Answer</strong></summary>
-
-**Answer: B (A selective serotonin reuptake inhibitor (SSRI))**
-
-**Rationale**:
-The patient has Premature Ejaculation (early ejaculation occurring typically < 1 minute). SSRIs are uniquely beneficial for this disorder because delayed ejaculation/anorgasmia is a prominent and well-known side effect of these medications. Utilizing this "side effect" helps prolong the time to ejaculation.
-</details>
-
-**3. A 60-year-old male with a history of poorly controlled hypertension and type 2 diabetes mentions that he has been unable to maintain an erection during intercourse for the past year. He finds this deeply distressing. He currently takes hydrochlorothiazide and metformin. Which of the following is the most vital step before prescribing a phosphodiesterase type 5 (PDE-5) inhibitor?**
-A. Obtain a careful cardiac history and review of current medications for nitrates
-B. Refer him immediately for a pudendal nerve conduction study
-C. Order a pelvic ultrasound
-D. Start him on high-dose testosterone
-E. Discontinue his metformin
-
-<details>
-<summary><strong>Click to Reveal Answer</strong></summary>
-
-**Answer: A (Obtain a careful cardiac history and review of current medications for nitrates)**
-
-**Rationale**:
-This patient has Male Erectile Disorder, heavily influenced by age, diabetes, and antihypertensive medications. PDE-5 inhibitors (e.g., sildenafil) are excellent first-line medications; however, they cause systemic vasodilation. If a patient is concurrently taking nitrates for ischemic heart disease, combining them with a PDE-5 inhibitor can cause severe, fatal hypotension.
-</details>
-
-**4. A 40-year-old man presents to the emergency department strictly complaining of a very painful, persistent erection that has lasted for the past 6 hours, far beyond any sexual encounter. He has a history of sickle cell trait but no current acute illnesses. Physical examination reveals that his corpora cavernosa are rigidly engorged, but the corpus spongiosum and glans are flaccid. What is the most significant long-term consequence if this is not treated within 24 hours?**
-A. Retrograde ejaculation
-B. Testicular atrophy
-C. High risk of penile malignancy
-D. Permanent erectile dysfunction 
-E. Transition to a non-ischemic priapism
-
-<details>
-<summary><strong>Click to Reveal Answer</strong></summary>
-
-**Answer: D (Permanent erectile dysfunction )**
-
-**Rationale**:
-The patient is suffering from Ischemic Priapism, an acute urological emergency where stagnant, unoxygenated blood is trapped in the corpora cavernosa. If ischemic priapism persists for more than 24 hours without aspiration, the prolonged hypoxia leads to irreversible cavernous fibrosis and permanent erectile dysfunction in up to 90% of cases.
-</details>
-
-**5. A 45-year-old male is court-ordered for an evaluation. He admits that he experiences intense sexual arousal uniquely from the act of humiliating, bounding, and inflicting pain onto non-consenting strangers, which led to his recent arrest. He feels no remorse and claims this is "just how he is wired." Which of the following represents the most accurate DSM-5 classification for this individual's behavior?**
-A. A normal variation of human sexuality
-B. Schizoid Personality Disorder
-C. Sexual Sadism Disorder
-D. Genito-Pelvic Penetration Disorder
-E. Borderline Personality Disorder
-
-<details>
-<summary><strong>Click to Reveal Answer</strong></summary>
-
-**Answer: C (Sexual Sadism Disorder)**
-
-**Rationale**:
-A paraphilic behavior transcends into a Paraphilic Disorder when it involves extreme, dangerous, or illegal behaviors, especially relying on the psychological distress, injury, or lack of consent of another person. Sexual Sadism Disorder is defined by achieving sexual gratification through the physical or psychological suffering of another.
-</details>
 `,
     pearls: [
         { "title": "Sexual Dysfunction Timeline", "content": "To diagnose a primary sexual dysfunction, the symptoms must be present in 75-100% of encounters, persist for at least 6 months, and cause clinically significant distress to the patient." },
@@ -246,4 +167,72 @@ A paraphilic behavior transcends into a Paraphilic Disorder when it involves ext
             { "resource": "Bootcamp", "chapter": "Psychiatry > Sleep and Psychosomatic Conditions > Erectile Dysfunction" }
         ]
     }
+,
+    questions: [
+        {
+            "id": 1,
+            "question": "A 35-year-old woman is evaluated by her gynecologist for pelvic pain during intercourse. She states that she has experienced excruciating pain with any attempt at vaginal penetration for the past eight months. She notes that her pelvic muscles involuntarily \"clench up\" whenever penetration is attempted, a problem that began after a traumatic assault. Which of the following is the most appropriate next step in long-term management?",
+            "options": [
+                "Immediate surgical exploration for endometriosis",
+                "Prescribing a PDE-5 inhibitor",
+                "Pelvic floor physical therapy and CBT",
+                "Oral estrogen replacement",
+                "Broad-spectrum antibiotics for PID"
+            ],
+            "correctAnswer": 2,
+            "rationale": "This patient is describing Genito-Pelvic Pain/Penetration Disorder (specifically the vaginismus presentation, characterized by involuntary pelvic floor tightening). Because her symptoms are heavily linked to a traumatic history, Cognitive Behavioral Therapy (CBT) combined with Pelvic Floor Physical Therapy (PFPT) to overcome the muscle spasms is the best long-term management approach."
+        },
+        {
+            "id": 2,
+            "question": "A 28-year-old man visits his primary care physician complaining that he consistently ejaculates within 30 to 45 seconds of beginning intercourse. He expresses deep frustration and embarrassment, noting this has occurred in almost every encounter for the past two years. Physical examination is unremarkable. Which of the following pharmacologic agents is most commonly used off-label to treat this patient’s condition?",
+            "options": [
+                "Trazodone",
+                "A selective serotonin reuptake inhibitor (SSRI)",
+                "A phosphodiesterase type 5 (PDE-5) inhibitor",
+                "Testosterone replacement",
+                "A statin"
+            ],
+            "correctAnswer": 1,
+            "rationale": "The patient has Premature Ejaculation (early ejaculation occurring typically < 1 minute). SSRIs are uniquely beneficial for this disorder because delayed ejaculation/anorgasmia is a prominent and well-known side effect of these medications. Utilizing this \"side effect\" helps prolong the time to ejaculation."
+        },
+        {
+            "id": 3,
+            "question": "A 60-year-old male with a history of poorly controlled hypertension and type 2 diabetes mentions that he has been unable to maintain an erection during intercourse for the past year. He finds this deeply distressing. He currently takes hydrochlorothiazide and metformin. Which of the following is the most vital step before prescribing a phosphodiesterase type 5 (PDE-5) inhibitor?",
+            "options": [
+                "Obtain a careful cardiac history and review of current medications for nitrates",
+                "Refer him immediately for a pudendal nerve conduction study",
+                "Order a pelvic ultrasound",
+                "Start him on high-dose testosterone",
+                "Discontinue his metformin"
+            ],
+            "correctAnswer": 0,
+            "rationale": "This patient has Male Erectile Disorder, heavily influenced by age, diabetes, and antihypertensive medications. PDE-5 inhibitors (e.g., sildenafil) are excellent first-line medications; however, they cause systemic vasodilation. If a patient is concurrently taking nitrates for ischemic heart disease, combining them with a PDE-5 inhibitor can cause severe, fatal hypotension."
+        },
+        {
+            "id": 4,
+            "question": "A 40-year-old man presents to the emergency department strictly complaining of a very painful, persistent erection that has lasted for the past 6 hours, far beyond any sexual encounter. He has a history of sickle cell trait but no current acute illnesses. Physical examination reveals that his corpora cavernosa are rigidly engorged, but the corpus spongiosum and glans are flaccid. What is the most significant long-term consequence if this is not treated within 24 hours?",
+            "options": [
+                "Retrograde ejaculation",
+                "Testicular atrophy",
+                "High risk of penile malignancy",
+                "Permanent erectile dysfunction",
+                "Transition to a non-ischemic priapism"
+            ],
+            "correctAnswer": 3,
+            "rationale": "The patient is suffering from Ischemic Priapism, an acute urological emergency where stagnant, unoxygenated blood is trapped in the corpora cavernosa. If ischemic priapism persists for more than 24 hours without aspiration, the prolonged hypoxia leads to irreversible cavernous fibrosis and permanent erectile dysfunction in up to 90% of cases."
+        },
+        {
+            "id": 5,
+            "question": "A 45-year-old male is court-ordered for an evaluation. He admits that he experiences intense sexual arousal uniquely from the act of humiliating, bounding, and inflicting pain onto non-consenting strangers, which led to his recent arrest. He feels no remorse and claims this is \"just how he is wired.\" Which of the following represents the most accurate DSM-5 classification for this individual's behavior?",
+            "options": [
+                "A normal variation of human sexuality",
+                "Schizoid Personality Disorder",
+                "Sexual Sadism Disorder",
+                "Genito-Pelvic Penetration Disorder",
+                "Borderline Personality Disorder"
+            ],
+            "correctAnswer": 2,
+            "rationale": "A paraphilic behavior transcends into a Paraphilic Disorder when it involves extreme, dangerous, or illegal behaviors, especially relying on the psychological distress, injury, or lack of consent of another person. Sexual Sadism Disorder is defined by achieving sexual gratification through the physical or psychological suffering of another."
+        }
+    ]
 });

@@ -149,4 +149,11 @@ window.receiveLectureContent({
       "content": "Causes **Periventricular Nodular Heterotopia** (Neurons stuck at the starting line)."
     }
   ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

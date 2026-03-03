@@ -149,4 +149,11 @@ window.receiveLectureContent({
       "content": "Located in the Midbrain cerebral peduncles. Contains **Dopaminergic** neurons. Loss = Parkinson's Disease."
     }
   ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

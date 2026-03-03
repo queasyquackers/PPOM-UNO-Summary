@@ -138,4 +138,11 @@ window.receiveLectureContent({
       "content": "Think: **Adrenal** glands + **Leuko** (White matter) + **Dystrophy** (Bad growth). Young boy with bronzing skin (Addison's) and behavioral changes."
     }
   ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

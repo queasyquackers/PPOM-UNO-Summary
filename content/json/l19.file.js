@@ -153,4 +153,11 @@ window.receiveLectureContent({
       "content": "**Asthma** (causes bronchospasm), **Peptic Ulcers** (causes acid), **Obstruction** (causes rupture)."
     }
   ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

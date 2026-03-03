@@ -292,4 +292,11 @@ Hindbrain abnormalities with varying degrees of cerebellar tonsillar herniation 
             rationale: "A Chiari II malformation involves the down-ward herniation of the cerebellar vermis, brainstem, and the 4th ventricle through the foramen magnum. It is extremely heavily associated with myelomeningoceles (>95% of patients with a myelomeningocele have a Chiari II). It often presents as an emergency due to hydrocephalus or brainstem compression causing respiratory failure."
         }
     ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

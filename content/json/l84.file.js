@@ -340,4 +340,11 @@ In girls, the breast **bud** marks Tanner Stage 2. In boys, testes enlarging to 
             rationale: "The combination of infrequent hard stools (Bristol Type 1), a palpable fecal mass in the LLQ, and recurrent UTIs in a school-age child is classic for functional constipation with secondary urinary retention. Children who withhold stool at school often withhold urine as well, leading to UTIs. Hirschsprung disease typically presents in neonates/infants. Appendicitis presents acutely with RLQ pain. IBD would present with diarrhea, weight loss, and bloody stools."
         }
     ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

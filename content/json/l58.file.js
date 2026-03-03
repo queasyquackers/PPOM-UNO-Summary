@@ -65,4 +65,11 @@ window.receiveLectureContent({
             "rationale": "**Lecanemab** is a **monoclonal antibody** that targets **Amyloid Beta** protofibrils. A known adverse effect of this class is **Amyloid Related Imaging Abnormalities (ARIA)**, which can present as edema (ARIA-E) or hemorrhage (ARIA-H)."
         }
     ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

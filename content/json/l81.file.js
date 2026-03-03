@@ -186,4 +186,11 @@ For Generalized Anxiety Disorder, Panic Disorder, and generalized Social Anxiety
             rationale: "Up to 80% of patients with Generalized Anxiety Disorder (as well as Panic Disorder and Social Anxiety Disorder) have another psychiatric comorbidity, and the most common of these is Depression. The presence of depression paired with anxiety often implies a more difficult treatment course."
         }
     ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

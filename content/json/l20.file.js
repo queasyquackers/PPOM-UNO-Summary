@@ -153,4 +153,11 @@ window.receiveLectureContent({
       "content": "**Donepezil, Rivastigmine, Galantamine**. Increase CNS ACh."
     }
   ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

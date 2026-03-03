@@ -139,4 +139,11 @@ window.receiveLectureContent({
       "content": "Destroys SNc neurons, causing rapid, permanent Parkinsonism. (Synthetic heroin case)."
     }
   ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });

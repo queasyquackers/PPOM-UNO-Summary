@@ -63,4 +63,11 @@ window.receiveLectureContent({
         { "title": "Status Epilepticus Tx", "content": "1st Line: Benzodiazepines (Lorazepam). 2nd Line: Fosphenytoin/Valproate/Levetiracetam. 3rd Line: Pentobarbital/Propofol." },
         { "title": "Jacksonian March", "content": "Focal motor seizure activity that spreads along the motor homunculus (e.g., finger to hand to arm to face) reflecting electrical spread in the precentral gyrus." }
     ]
+,
+    anking: [
+        {
+            "match": "In-house lecture is best",
+            "resources": "In-house lecture is best"
+        }
+    ]
 });
