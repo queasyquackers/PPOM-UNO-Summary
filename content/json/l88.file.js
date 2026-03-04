@@ -46,6 +46,23 @@ These newer modalities build upon CBT but incorporate elements of mindfulness, a
 - **Acceptance and Commitment Therapy (ACT):** Focuses on accepting negative thoughts and feelings rather than fighting them, while committing to behavior change that aligns with personal values.
 
 In summary, psychotherapy is a highly effective, structured intervention for mental health disorders. While diverse in theory, the ultimate goal remains facilitating positive behavior change, alleviating symptoms, and improving patient functioning, heavily reliant on the therapeutic alliance.`,
+    ankingResource: {
+        primarySource: "In-house lecture is best",
+        chapter: "In-house lecture is best",
+        alternatives: []
+    },
+    flashcards: [
+        { front: "What effect suggests that despite diverse orientations, therapies generally have equivalent efficacy, largely due to Common Factors?", back: "The 'Dodo Bird Effect'.", tag: "Concept" },
+        { front: "According to the Dodo Bird Effect, what is the most potent shared element contributing significantly to positive therapeutic outcomes?", back: "The Therapeutic Alliance.", tag: "Concept" },
+        { front: "What is the primary goal of Psychoanalytic and Psychodynamic Therapies?", back: "To bring the unconscious into consciousness to resolve internal conflicts.", tag: "Concept" },
+        { front: "What term describes the phenomenon of a patient projecting feelings about formative persons onto the therapist?", back: "Transference.", tag: "Clinical" },
+        { front: "In Operant Conditioning, what does Positive Reinforcement involve?", back: "Adding a rewarding stimulus to increase a behavior.", tag: "Concept" },
+        { front: "What behavioral therapy technique is the gold standard for treating Obsessive-Compulsive Disorder (OCD)?", back: "Exposure and Response Prevention (ERP).", tag: "Clinical" },
+        { front: "What does Cognitive Behavioral Therapy (CBT) combine to treat disorders like depression and anxiety?", back: "Cognitive restructuring with behavioral activation.", tag: "Clinical" },
+        { front: "What are the three core conditions for change in Person-Centered (Humanistic) Therapy according to Carl Rogers?", back: "Empathy, unconditional positive regard, and congruence.", tag: "Concept" },
+        { front: "Which 'Third Wave' behavioral therapy was developed specifically for Borderline Personality Disorder and chronic suicidality?", back: "Dialectical Behavior Therapy (DBT).", tag: "Clinical" },
+        { front: "In Operant Conditioning, what does Negative Punishment involve?", back: "Removing a rewarding stimulus to decrease a behavior.", tag: "Concept" }
+    ],
     anking: [
         {
             "match": "Conditioning usually deals with voluntary responses",

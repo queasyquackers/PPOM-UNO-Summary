@@ -31,6 +31,23 @@ The SCID (Structured Clinical Interview for DSM-5) is a highly formalized, clini
 
 ## Neuropsychological Assessment
 These tests establish the intricate relationship between brain functioning, behavior, and emotion. The DRS-2 (Dementia Rating Scale) and RBANS (Repeatable Battery for the Assessment of Neuropsychological Status) are comprehensive tools commonly used to assess cognitive function thoroughly following head injuries or suspected dementia.`,
+    ankingResource: {
+        primarySource: "In-house lecture is best",
+        chapter: "In-house lecture is best",
+        alternatives: []
+    },
+    flashcards: [
+        { front: "What diagnostic psychiatric instrument is a clinician-administered tool taking up to two hours to comprehensively diagnose DSM-5 disorders?", back: "The SCID (Structured Clinical Interview for DSM-5).", tag: "Concept" },
+        { front: "What is the HAM-D (Hamilton Rating Scale for Depression) designed to measure?", back: "To quantify the severity of depression in patients already diagnosed with Major Depressive Disorder.", tag: "Clinical" },
+        { front: "Which scale is widely used specifically for assessing the symptom severity and treatment response in psychotic disorders like schizophrenia?", back: "BPRS and PANSS.", tag: "Clinical" },
+        { front: "What is the most common cognitive impairment screen testing orientation, registration, attention/calculation, and recall?", back: "MMSE (Mini-Mental State Examination).", tag: "Clinical" },
+        { front: "Why is the Montreal Cognitive Assessment (MoCA) highly sensitive for Mild Cognitive Impairment (MCI)?", back: "It robustly tests executive functioning, conceptual thinking, and visuospatial skills alongside memory and language.", tag: "Clinical" },
+        { front: "What is the typical normal score cutoff for the Montreal Cognitive Assessment (MoCA)?", back: "Scores >= 26 are normal.", tag: "Clinical" },
+        { front: "What is considered the gold standard IQ test that computes Full-Scale, Verbal, and Performance IQ?", back: "WAIS (Wechsler Adult Intelligence Scale).", tag: "Concept" },
+        { front: "Which test is an example of an Objective personality test that uses validity scales to gauge test-taker truthfulness?", back: "Minnesota Multiphasic Personality Inventory (MMPI-2).", tag: "Clinical" },
+        { front: "What typifies Projective personality tests, such as the Rorschach Inkblot or Thematic Apperception Test (TAT)?", back: "Patients project internal conflicts and unconscious thoughts onto ambiguous stimuli.", tag: "Concept" },
+        { front: "When are comprehensive tools like the DRS-2 and RBANS commonly used?", back: "To assess cognitive function thoroughly following head injuries or suspected dementia.", tag: "Clinical" }
+    ],
     anking: [
         {
             "match": "Montreal Cognitive Assessment (MoCA)",

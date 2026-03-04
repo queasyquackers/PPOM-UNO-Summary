@@ -79,8 +79,24 @@ window.receiveLectureContent({
             explanation: "Olanzapine (along with Clozapine) carries the highest risk of metabolic syndrome among the second-generation antipsychotics, leading to severe weight gain, dyslipidemia, and hyperglycemia. Ziprasidone and Aripiprazole are generally weight-neutral.",
             type: "multiple_choice"
         }
-    ]
-,
+    ],
+    ankingResource: {
+        primarySource: "In-house lecture is best",
+        chapter: "In-house lecture is best",
+        alternatives: []
+    },
+    flashcards: [
+        { front: "What do positive symptoms of schizophrenia refer to, and what pathway is involved?", back: "Exaggeration or distortion of normal function (delusions, hallucinations); Mesolimbic pathway.", tag: "Concept" },
+        { front: "What do negative symptoms of schizophrenia refer to, and what pathway is involved?", back: "Loss of normal function (anhedonia, flat affect); Mesocortical pathway.", tag: "Concept" },
+        { front: "Which dopamine pathway is involved in the Extrapyramidal Symptoms (EPS) caused by typical antipsychotics?", back: "Nigrostriatal pathway.", tag: "Clinical" },
+        { front: "Which dopamine pathway is responsible for the hyperprolactinemia side effect of antipsychotics?", back: "Tuberoinfundibular pathway.", tag: "Clinical" },
+        { front: "What is the primary mechanism of action of First-Generation (Typical) Antipsychotics?", back: "Primary D2 receptor antagonists.", tag: "Pharmacology" },
+        { front: "What describes the presentation and treatment of Acute Dystonia?", back: "Hours to days onset; sustained muscle contractions; treated with anticholinergics like Benztropine or Diphenhydramine.", tag: "Clinical" },
+        { front: "What characterizes Tardive Dyskinesia and what is key to its management?", back: "Months to years onset; irreversible involuntary movements; prevention by switching to an atypical antipsychotic is key.", tag: "Clinical" },
+        { front: "What are the core features and treatment of Neuroleptic Malignant Syndrome (NMS)?", back: "Severe 'lead-pipe' rigidity, hyperthermia, autonomic instability; treated by stopping the agent, using Dantrolene or Bromocriptine.", tag: "Clinical" },
+        { front: "What is the unique mechanism of action defining Second-Generation (Atypical) Antipsychotics?", back: "Higher affinity for blocking Serotonin 5-HT2A receptors than Dopamine D2 receptors.", tag: "Pharmacology" },
+        { front: "Which atypical antipsychotic carries the highest risk of life-threatening agranulocytosis?", back: "Clozapine.", tag: "Clinical" }
+    ],
     anking: [
         {
             "match": "In-house lecture is best",
