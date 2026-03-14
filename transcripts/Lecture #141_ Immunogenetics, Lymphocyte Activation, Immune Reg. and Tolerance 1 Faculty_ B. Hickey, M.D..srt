@@ -1,0 +1,3914 @@
+1
+00:00:03,320 --> 00:00:05,000
+Greetings student
+doctors, my
+
+2
+00:00:05,000 --> 00:00:06,490
+name is Dr.
+Bradley Hickey.
+
+3
+00:00:06,490 --> 00:00:08,540
+I am an assistant
+professor of clinical
+
+4
+00:00:08,540 --> 00:00:10,680
+medicine here at
+the Arkansas campus.
+
+5
+00:00:11,020 --> 00:00:13,200
+It is my pleasure
+to introduce you to
+
+6
+00:00:13,200 --> 00:00:15,740
+this foundational
+lecture in immunology.
+
+7
+00:00:16,580 --> 00:00:18,700
+The title of
+today's lecture is
+
+8
+00:00:18,700 --> 00:00:22,780
+Immunogenetics, Lymphocyte
+Activation, Immune
+
+9
+00:00:22,780 --> 00:00:25,340
+Regulation, and
+Tolerance, Part 1.
+
+10
+00:00:25,640 --> 00:00:28,520
+This lecture emphasizes
+rules and logic over
+
+11
+00:00:28,520 --> 00:00:31,080
+memorization. If
+you understand the
+
+12
+00:00:31,080 --> 00:00:33,440
+constraints the immune
+system operates under,
+
+13
+00:00:33,440 --> 00:00:35,960
+the details that come
+later will make sense.
+
+14
+00:00:36,300 --> 00:00:39,160
+You'll also notice this
+lecture is relatively
+
+15
+00:00:39,160 --> 00:00:41,900
+graphic light. That
+is intentional.
+
+16
+00:00:41,900 --> 00:00:44,160
+The goal today is to
+build a conceptual
+
+17
+00:00:44,160 --> 00:00:46,320
+scaffolding
+first. Once you
+
+18
+00:00:46,320 --> 00:00:48,160
+understand the
+rules of the system,
+
+19
+00:00:48,320 --> 00:00:50,620
+the diagrams in
+later lectures
+
+20
+00:00:50,620 --> 00:00:52,460
+become much easier
+to interpret.
+
+21
+00:00:54,580 --> 00:00:56,640
+Our lecture orientation,
+
+22
+00:00:56,640 --> 00:00:58,160
+why these rules matter.
+
+23
+00:00:58,780 --> 00:01:01,380
+We are beginning a
+lecture that establishes
+
+24
+00:01:01,380 --> 00:01:03,720
+non-negotiable rules
+for how adaptive
+
+25
+00:01:03,720 --> 00:01:06,680
+immunity operates.
+These are not details
+
+26
+00:01:06,680 --> 00:01:08,460
+that can be memorized
+and forgotten.
+
+27
+00:01:08,460 --> 00:01:10,880
+They determine what
+the immune system is
+
+28
+00:01:10,880 --> 00:01:13,600
+capable of seeing, and
+just as importantly,
+
+29
+00:01:13,600 --> 00:01:15,940
+what it is incapable
+of responding to.
+
+30
+00:01:16,240 --> 00:01:18,760
+As we move through
+this lecture, keep
+
+31
+00:01:18,760 --> 00:01:21,320
+returning to one
+question. What problem
+
+32
+00:01:21,320 --> 00:01:23,180
+is the immune system
+trying to solve at
+
+33
+00:01:23,180 --> 00:01:25,920
+this step. When you
+can name the problem,
+
+34
+00:01:25,920 --> 00:01:28,320
+the mechanism
+usually makes sense.
+
+35
+00:01:29,780 --> 00:01:32,400
+When you cannot name
+the problem, the
+
+36
+00:01:32,400 --> 00:01:34,880
+mechanism feels like
+arbitrary memorization.
+
+37
+00:01:35,140 --> 00:01:37,760
+Today's content
+provides the framework
+
+38
+00:01:37,760 --> 00:01:38,900
+that will support later
+
+39
+00:01:38,900 --> 00:01:41,620
+discussions of
+infection, autoimmunity,
+
+40
+00:01:41,620 --> 00:01:44,320
+transplantation, and
+immune deficiency.
+
+41
+00:01:45,920 --> 00:01:48,880
+If this foundation
+is solid, everything
+
+42
+00:01:48,880 --> 00:01:51,040
+downstream becomes
+easier to reason through
+
+43
+00:01:51,040 --> 00:01:53,140
+because you can predict
+what the immune system
+
+44
+00:01:53,140 --> 00:01:58,660
+will do learning
+objectives and conceptual
+
+45
+00:01:58,660 --> 00:02:01,820
+focus the goal of
+today's session is
+
+46
+00:02:01,820 --> 00:02:05,300
+understanding not memorization
+you're not expected
+
+47
+00:02:05,300 --> 00:02:07,820
+to recite long lists
+of molecules you are
+
+48
+00:02:07,820 --> 00:02:10,020
+expected to understand
+why certain constraints
+
+49
+00:02:10,020 --> 00:02:13,460
+exist in adaptive
+immunity by the end of
+
+50
+00:02:13,460 --> 00:02:15,300
+the lecture you should
+be able to explain
+
+51
+00:02:15,300 --> 00:02:18,720
+why T cells require
+antigen presentation why
+
+52
+00:02:18,720 --> 00:02:22,240
+MHC molecules are
+essential and how these
+
+53
+00:02:22,240 --> 00:02:24,520
+requirements reduce the
+risk of inappropriate
+
+54
+00:02:24,520 --> 00:02:26,920
+immune activation
+while still enabling
+
+55
+00:02:26,920 --> 00:02:30,550
+rapid defense think
+of these objectives as
+
+56
+00:02:30,550 --> 00:02:33,640
+anchors later in the
+course when you learn new
+
+57
+00:02:33,640 --> 00:02:37,380
+cell types cytokines
+and clinical syndromes
+
+58
+00:02:37,380 --> 00:02:39,180
+you should be able
+to connect them back
+
+59
+00:02:39,180 --> 00:02:44,560
+to these anchors the
+unique role of t-cells
+
+60
+00:02:44,560 --> 00:02:49,000
+surveillance of intracellular
+problems t-cells
+
+61
+00:02:49,000 --> 00:02:50,960
+are specialized for
+detecting threats that
+
+62
+00:02:50,960 --> 00:02:53,940
+originate inside
+cells most importantly
+
+63
+00:02:53,940 --> 00:02:56,840
+viral infection and
+malignant transformation
+
+64
+00:02:56,840 --> 00:03:00,140
+that is a fundamentally
+different task from
+
+65
+00:03:00,140 --> 00:03:03,160
+what antibodies do
+because antibodies operate
+
+66
+00:03:03,160 --> 00:03:06,160
+outside of cells so
+the immune system
+
+67
+00:03:06,160 --> 00:03:09,100
+faces a problem how
+can it detect what is
+
+68
+00:03:09,100 --> 00:03:11,660
+happening inside a cell
+without opening the
+
+69
+00:03:11,660 --> 00:03:14,260
+cell up or destroying
+tissue indiscriminately
+
+70
+00:03:14,260 --> 00:03:17,540
+the solution is to have
+cells report fragments
+
+71
+00:03:17,540 --> 00:03:19,480
+of their internal
+proteins to the cell
+
+72
+00:03:19,480 --> 00:03:23,820
+surface in a controlled
+format T cells then
+
+73
+00:03:23,820 --> 00:03:26,620
+function less like
+antigen binders and more
+
+74
+00:03:26,620 --> 00:03:30,100
+like inspectors they
+scan reported peptides
+
+75
+00:03:30,100 --> 00:03:32,380
+and decide whether what
+the cell is producing
+
+76
+00:03:32,380 --> 00:03:35,130
+is consistent with
+health or or rather
+
+77
+00:03:35,130 --> 00:03:37,850
+if it suggests infection
+or transformation.
+
+78
+00:03:38,970 --> 00:03:41,870
+This is the reason T
+-cells are so powerful,
+
+79
+00:03:41,870 --> 00:03:44,350
+and also why they
+require strong
+
+80
+00:03:44,350 --> 00:03:47,510
+regulation. An overly
+trigger-happy T-cell
+
+81
+00:03:47,510 --> 00:03:50,210
+system would be
+catastrophic because it
+
+82
+00:03:50,210 --> 00:03:52,730
+would turn normal
+tissues into targets.
+
+83
+00:03:54,310 --> 00:03:57,350
+Why T-cells do not
+bind free antigen,
+
+84
+00:03:57,350 --> 00:04:01,770
+safety, and context.
+Next, unlike B cells,
+
+85
+00:04:02,010 --> 00:04:04,750
+T cells do not bind
+intact antigen.
+
+86
+00:04:05,090 --> 00:04:07,310
+This is not a
+design flaw. It's
+
+87
+00:04:07,310 --> 00:04:09,390
+a safety feature
+that forces context
+
+88
+00:04:09,390 --> 00:04:11,370
+into the decision
+to activate.
+
+89
+00:04:11,710 --> 00:04:14,870
+If T cells could bind
+free antigen directly,
+
+90
+00:04:14,870 --> 00:04:17,230
+the immune system
+would risk activating
+
+91
+00:04:17,230 --> 00:04:19,510
+T cells based on
+harmless exposures,
+
+92
+00:04:19,510 --> 00:04:22,370
+such as food antigens,
+commensal microbes,
+
+93
+00:04:22,370 --> 00:04:24,790
+or debris from
+normal cell turnover.
+
+94
+00:04:24,890 --> 00:04:26,830
+In other words, it would
+
+95
+00:04:26,830 --> 00:04:29,050
+confuse exposure
+with danger.
+
+96
+00:04:30,890 --> 00:04:32,790
+Requiring antigen
+processing
+
+97
+00:04:32,790 --> 00:04:34,090
+inserts a checkpoint.
+
+98
+00:04:34,320 --> 00:04:37,270
+Another cell must
+capture antigen, process
+
+99
+00:04:37,270 --> 00:04:41,230
+it, and present it.
+That presenting cell
+
+100
+00:04:41,230 --> 00:04:43,850
+can also provide
+additional signals that
+
+101
+00:04:43,850 --> 00:04:47,310
+effectively say, this
+is worth responding to.
+
+102
+00:04:47,700 --> 00:04:48,950
+This also helps you
+
+103
+00:04:48,950 --> 00:04:50,390
+understand
+tolerance later.
+
+104
+00:04:50,390 --> 00:04:53,030
+A major goal of
+tolerance mechanisms is
+
+105
+00:04:53,030 --> 00:04:55,070
+to prevent T cells
+from treating ordinary
+
+106
+00:04:55,070 --> 00:04:57,630
+self-peptides as if
+they were threats.
+
+107
+00:04:59,570 --> 00:05:02,370
+Moving on, the major
+histocompatibility
+
+108
+00:05:02,370 --> 00:05:05,150
+complex and HLA, the
+display platform.
+
+109
+00:05:05,290 --> 00:05:07,950
+The molecules
+responsible for antigen
+
+110
+00:05:07,950 --> 00:05:10,030
+presentation are
+encoded in the major
+
+111
+00:05:10,030 --> 00:05:12,950
+histocompatibility
+complex, or MHC.
+
+112
+00:05:13,710 --> 00:05:16,470
+In humans, we call
+these gene products
+
+113
+00:05:16,470 --> 00:05:20,070
+HLA molecules, human
+leukocyte antigens.
+
+114
+00:05:20,320 --> 00:05:22,310
+Rather than acting
+like receptors,
+
+115
+00:05:22,650 --> 00:05:25,610
+MHC molecules act like
+display platforms.
+
+116
+00:05:25,610 --> 00:05:28,370
+They hold peptides in a
+way that allows T-cells
+
+117
+00:05:28,370 --> 00:05:30,370
+to inspect them with
+the T-cell receptor.
+
+118
+00:05:30,570 --> 00:05:32,450
+A useful way
+to think about
+
+119
+00:05:32,450 --> 00:05:34,850
+MHC is as the
+immune system's
+
+120
+00:05:34,850 --> 00:05:36,590
+standardized
+reporting format.
+
+121
+00:05:36,790 --> 00:05:39,430
+Cells cannot
+simply tell T-cells
+
+122
+00:05:39,430 --> 00:05:41,410
+what they contain.
+They can only show
+
+123
+00:05:41,410 --> 00:05:43,930
+peptides using
+the MHC complex.
+
+124
+00:05:44,170 --> 00:05:46,810
+This is why the
+MHC is so central.
+
+125
+00:05:46,810 --> 00:05:49,310
+If you change the
+display platform,
+
+126
+00:05:49,310 --> 00:05:51,550
+you change which
+peptides can be
+
+127
+00:05:51,550 --> 00:05:53,850
+shown and which T
+-cells can respond.
+
+128
+00:05:56,030 --> 00:05:58,370
+MHC polymorphism. Why are
+
+129
+00:05:58,370 --> 00:05:59,640
+there so many alleles?
+
+130
+00:05:59,890 --> 00:06:02,590
+The MHC locus is
+one of the most
+
+131
+00:06:02,590 --> 00:06:04,850
+polymorphic regions
+of the human genome.
+
+132
+00:06:04,850 --> 00:06:07,930
+That means there
+are many alleles, or
+
+133
+00:06:07,930 --> 00:06:09,890
+rather many
+naturally occurring
+
+134
+00:06:09,890 --> 00:06:13,170
+versions, of MHC genes
+in the population.
+
+135
+00:06:13,370 --> 00:06:16,550
+Why would evolution
+favor this? because
+
+136
+00:06:16,550 --> 00:06:19,250
+pathogens evolve.
+If all humans
+
+137
+00:06:19,250 --> 00:06:21,430
+presented peptides
+the same way, a
+
+138
+00:06:21,430 --> 00:06:23,450
+pathogen that escapes
+presentation in
+
+139
+00:06:23,450 --> 00:06:26,170
+one person could
+escape in everyone.
+
+140
+00:06:26,710 --> 00:06:29,570
+MHC diversity solves
+that population level
+
+141
+00:06:29,570 --> 00:06:32,770
+problem. A pathogen
+that evades one person's
+
+142
+00:06:32,770 --> 00:06:35,550
+MHC presentation may
+still be effectively
+
+143
+00:06:35,550 --> 00:06:38,750
+presented in another
+person. So polymorphism
+
+144
+00:06:38,750 --> 00:06:41,270
+is a survival strategy
+for the species.
+
+145
+00:06:41,310 --> 00:06:45,130
+There is a trade-off.
+At the individual level,
+
+146
+00:06:45,130 --> 00:06:47,970
+your specific MHC
+alleles determine which
+
+147
+00:06:47,970 --> 00:06:50,450
+peptides you present
+efficiently and which
+
+148
+00:06:50,450 --> 00:06:53,250
+you present poorly.
+That contributes to
+
+149
+00:06:53,250 --> 00:06:55,610
+differences in
+susceptibility, disease
+
+150
+00:06:55,610 --> 00:06:58,810
+severity, and variability
+in vaccine responses.
+
+151
+00:07:00,710 --> 00:07:03,230
+Consequences of
+MHC diversity.
+
+152
+00:07:03,230 --> 00:07:06,470
+Individual variation
+and transplantation.
+
+153
+00:07:06,730 --> 00:07:09,690
+Because individuals
+differ in their MHC
+
+154
+00:07:09,690 --> 00:07:12,130
+molecules, they differ
+in which peptides
+
+155
+00:07:12,130 --> 00:07:14,930
+they can present. That
+means immune responses
+
+156
+00:07:14,930 --> 00:07:17,370
+to the same pathogen
+can look meaningfully
+
+157
+00:07:17,370 --> 00:07:19,370
+different from one
+person to another.
+
+158
+00:07:19,490 --> 00:07:21,590
+This is one reason
+two patients
+
+159
+00:07:21,590 --> 00:07:22,990
+can have very
+different clinical
+
+160
+00:07:22,990 --> 00:07:24,810
+courses with the
+same infection.
+
+161
+00:07:24,810 --> 00:07:27,130
+They may not be
+presenting the same key
+
+162
+00:07:27,130 --> 00:07:30,230
+protective peptides to
+their T cells with the
+
+163
+00:07:30,230 --> 00:07:33,190
+same efficiency. This
+diversity becomes a
+
+164
+00:07:33,190 --> 00:07:36,470
+major clinical problem
+in transplantation. When
+
+165
+00:07:36,470 --> 00:07:38,590
+tissues move from one
+person to another,
+
+166
+00:07:38,590 --> 00:07:40,910
+the recipient's immune
+system may see the
+
+167
+00:07:40,910 --> 00:07:43,990
+donor's MHC molecules
+themselves as foreign.
+
+168
+00:07:43,990 --> 00:07:46,630
+In other words,
+the immune system
+
+169
+00:07:46,630 --> 00:07:48,550
+can treat
+unfamiliar display
+
+170
+00:07:48,550 --> 00:07:51,510
+platforms as
+evidence of non-self.
+
+171
+00:07:51,510 --> 00:07:54,230
+That is why matching
+HLA matters so
+
+172
+00:07:54,230 --> 00:07:56,330
+much. You are trying
+to minimize how
+
+173
+00:07:56,330 --> 00:07:58,230
+foreign the donor's
+antigen presentation
+
+174
+00:07:58,230 --> 00:08:00,690
+machinery appears
+to the recipient.
+
+175
+00:08:02,910 --> 00:08:05,670
+MHC restriction what
+a t-cell actually
+
+176
+00:08:05,670 --> 00:08:09,810
+recognizes the t-cell
+receptor recognizes antigen
+
+177
+00:08:09,810 --> 00:08:12,350
+only when it is bound
+to an MHC molecule
+
+178
+00:08:12,350 --> 00:08:15,530
+this requirement is
+called MHC restriction
+
+179
+00:08:15,530 --> 00:08:18,090
+and it is essential
+for understanding t
+
+180
+00:08:18,090 --> 00:08:22,070
+-cell specificity a t
+-cell is not specific for
+
+181
+00:08:22,070 --> 00:08:25,330
+a peptide alone it is
+specific for a peptide
+
+182
+00:08:25,330 --> 00:08:28,070
+presented by a
+particular MHC molecule.
+
+183
+00:08:28,090 --> 00:08:30,090
+That is why the
+same peptide
+
+184
+00:08:30,090 --> 00:08:32,310
+presented on a
+different MHC allele
+
+185
+00:08:32,310 --> 00:08:34,670
+may not activate
+the same T-cell.
+
+186
+00:08:34,810 --> 00:08:37,010
+This also explains why T
+
+187
+00:08:37,010 --> 00:08:38,670
+-cells are so
+personalized.
+
+188
+00:08:38,770 --> 00:08:41,170
+Your T-cells
+are educated in
+
+189
+00:08:41,170 --> 00:08:42,930
+your thymus to
+operate in the
+
+190
+00:08:42,930 --> 00:08:45,610
+context of your
+own MHC molecules.
+
+191
+00:08:46,050 --> 00:08:49,030
+The practical takeaway
+here is that T-cell
+
+192
+00:08:49,030 --> 00:08:52,450
+recognition is always
+a two-part check. There
+
+193
+00:08:52,450 --> 00:08:55,970
+is peptide identity
+plus the MHC context.
+
+194
+00:08:56,040 --> 00:08:58,010
+Keeping that in
+mind will make later
+
+195
+00:08:58,010 --> 00:08:59,950
+discussions of
+tolerance and transplant
+
+196
+00:08:59,950 --> 00:09:02,390
+rejection much
+easier to understand.
+
+197
+00:09:04,950 --> 00:09:08,130
+Why there are
+two MHC classes,
+
+198
+00:09:08,310 --> 00:09:11,590
+two sources of antigen
+and two responses.
+
+199
+00:09:11,630 --> 00:09:14,970
+The immune system uses
+two antigen presentation
+
+200
+00:09:14,970 --> 00:09:17,270
+pathways because
+antigens originate
+
+201
+00:09:17,270 --> 00:09:19,170
+from two fundamentally
+different sources.
+
+202
+00:09:19,170 --> 00:09:23,530
+Some threats arise
+inside cells, like viral
+
+203
+00:09:23,530 --> 00:09:26,550
+replication or abnormal
+protein production.
+
+204
+00:09:26,550 --> 00:09:29,430
+Other threats
+originate outside the
+
+205
+00:09:29,430 --> 00:09:32,450
+cell, like bacteria
+in tissues or proteins
+
+206
+00:09:32,450 --> 00:09:34,250
+in the extracellular
+environment.
+
+207
+00:09:34,390 --> 00:09:38,010
+A single presentation
+system would be a
+
+208
+00:09:38,010 --> 00:09:40,710
+compromise and would
+blur these categories.
+
+209
+00:09:40,770 --> 00:09:42,690
+Instead, the
+immune system
+
+210
+00:09:42,690 --> 00:09:44,410
+evolved two
+specialized pathways
+
+211
+00:09:44,410 --> 00:09:46,010
+that preserved
+the distinction.
+
+212
+00:09:46,530 --> 00:09:49,130
+MHC class 1 is
+for intracellular
+
+213
+00:09:49,130 --> 00:09:51,530
+peptides, and MHC class 2
+
+214
+00:09:51,530 --> 00:09:53,790
+is for extracellular
+peptides.
+
+215
+00:09:53,790 --> 00:09:55,790
+This matters because the
+
+216
+00:09:55,790 --> 00:09:57,910
+appropriate immune
+response differs.
+
+217
+00:09:58,350 --> 00:10:00,930
+Intracellular threats
+often require killing
+
+218
+00:10:00,930 --> 00:10:03,670
+infected cells,
+whereas extracellular
+
+219
+00:10:03,670 --> 00:10:06,930
+threats often require
+coordination and activation
+
+220
+00:10:06,930 --> 00:10:09,430
+of phagocytes and
+antibody production.
+
+221
+00:10:12,310 --> 00:10:15,850
+MHC class 1 overview.
+you continuous
+
+222
+00:10:15,850 --> 00:10:20,530
+intracellular monitoring
+MHC class 1 molecules
+
+223
+00:10:20,530 --> 00:10:23,030
+present peptides derived
+from intracellular
+
+224
+00:10:23,030 --> 00:10:26,270
+proteins importantly
+this is not only during
+
+225
+00:10:26,270 --> 00:10:29,850
+infection cells are
+constantly constantly
+
+226
+00:10:29,850 --> 00:10:32,010
+processing their own
+proteins as part of
+
+227
+00:10:32,010 --> 00:10:36,210
+normal turnover every
+nucleated cell expresses
+
+228
+00:10:36,210 --> 00:10:39,690
+MHC class 1 which
+means every nucleated
+
+229
+00:10:39,690 --> 00:10:42,210
+cell is constantly
+reporting a sample of
+
+230
+00:10:42,210 --> 00:10:44,910
+its internal protein
+environment. That is
+
+231
+00:10:44,910 --> 00:10:47,270
+the basic mechanism of
+immune surveillance.
+
+232
+00:10:47,640 --> 00:10:50,690
+CD8 T-cells use
+these class 1 peptide
+
+233
+00:10:50,690 --> 00:10:53,590
+displays to detect
+abnormal intracellular
+
+234
+00:10:53,590 --> 00:10:56,210
+activity. If the
+peptides suggest
+
+235
+00:10:56,210 --> 00:10:59,270
+infection or
+transformation, CD8 T-cells
+
+236
+00:10:59,270 --> 00:11:01,710
+can eliminate the
+affected cell, limiting
+
+237
+00:11:01,710 --> 00:11:04,290
+spread and protecting
+the organism.
+
+238
+00:11:04,470 --> 00:11:07,950
+Notice the logic
+here. Class 1 is about
+
+239
+00:11:07,950 --> 00:11:10,110
+finding problems
+early at the level
+
+240
+00:11:10,110 --> 00:11:12,650
+of single infected
+or abnormal cells
+
+241
+00:11:12,650 --> 00:11:15,070
+before the problem
+becomes systemic.
+
+242
+00:11:17,610 --> 00:11:20,510
+Generation of
+peptides for MHC
+
+243
+00:11:20,510 --> 00:11:23,770
+Class I presentation
+At this stage,
+
+244
+00:11:23,770 --> 00:11:25,490
+the focus shifts
+to where peptides
+
+245
+00:11:25,490 --> 00:11:27,650
+for Class I
+actually come from.
+
+246
+00:11:27,890 --> 00:11:30,210
+Importantly, the
+immune system does
+
+247
+00:11:30,210 --> 00:11:31,930
+not create a
+special degradation
+
+248
+00:11:31,930 --> 00:11:34,710
+pathway solely for
+immune surveillance.
+
+249
+00:11:35,090 --> 00:11:37,210
+Instead, it
+relies on routine
+
+250
+00:11:37,210 --> 00:11:38,590
+cellular housekeeping.
+
+251
+00:11:38,590 --> 00:11:41,270
+Cells are constantly
+synthesizing and
+
+252
+00:11:41,270 --> 00:11:43,410
+degrading proteins
+as part of normal
+
+253
+00:11:43,410 --> 00:11:46,830
+regulation, quality
+control, and adaptation.
+
+254
+00:11:46,980 --> 00:11:49,390
+When a virus
+infects a cell,
+
+255
+00:11:49,510 --> 00:11:51,830
+viral proteins are
+produced inside
+
+256
+00:11:51,830 --> 00:11:53,550
+the host cell
+and are degraded
+
+257
+00:11:53,550 --> 00:11:54,890
+through the
+same mechanisms.
+
+258
+00:11:54,890 --> 00:11:57,810
+This allows the immune
+system to sample
+
+259
+00:11:57,810 --> 00:12:00,290
+intracellular activity
+without distinguishing
+
+260
+00:12:00,290 --> 00:12:03,410
+self from non
+-self at this step.
+
+261
+00:12:04,310 --> 00:12:06,530
+The key concept
+is that antigen
+
+262
+00:12:06,530 --> 00:12:09,030
+presentation begins
+as passive sampling,
+
+263
+00:12:09,030 --> 00:12:11,510
+not as an
+inflammatory decision.
+
+264
+00:12:15,310 --> 00:12:18,110
+Proteosomal Processing
+and Peptide Generation
+
+265
+00:12:18,110 --> 00:12:21,110
+Most intracellular
+proteins are degraded
+
+266
+00:12:21,110 --> 00:12:23,850
+by the proteasome,
+a large proteolytic
+
+267
+00:12:23,850 --> 00:12:26,310
+complex responsible
+for protein turnover.
+
+268
+00:12:26,510 --> 00:12:29,110
+The proteasome
+generates many peptide
+
+269
+00:12:29,110 --> 00:12:31,570
+fragments of varying
+length and composition.
+
+270
+00:12:31,900 --> 00:12:33,970
+Only a subset of
+these fragments will
+
+271
+00:12:33,970 --> 00:12:36,450
+be appropriate for
+MHC class I binding.
+
+272
+00:12:36,660 --> 00:12:39,430
+At this stage, the
+cell is not deciding
+
+273
+00:12:39,430 --> 00:12:40,730
+whether a peptide
+is dangerous.
+
+274
+00:12:40,730 --> 00:12:42,890
+It is simply
+generating molecular
+
+275
+00:12:42,890 --> 00:12:45,670
+fragments as part of
+normal metabolism.
+
+276
+00:12:45,670 --> 00:12:48,490
+This reinforces the
+idea that immune
+
+277
+00:12:48,490 --> 00:12:51,330
+surveillance is
+layered onto normal
+
+278
+00:12:51,330 --> 00:12:54,570
+biology rather
+than replacing it.
+
+279
+00:12:56,710 --> 00:12:59,830
+Transport of peptides
+into the endoplasmic
+
+280
+00:12:59,830 --> 00:13:03,430
+reticulum. Peptides
+generated in the cytosol
+
+281
+00:13:03,430 --> 00:13:05,690
+must be transported
+into the endoplasmic
+
+282
+00:13:05,690 --> 00:13:08,690
+reticulum to bind MHC
+class 1 molecules.
+
+283
+00:13:08,690 --> 00:13:11,830
+This transport is
+mediated by TAP, the
+
+284
+00:13:11,830 --> 00:13:14,650
+transporter associated
+with antigen processing.
+
+285
+00:13:14,970 --> 00:13:16,470
+TAP does not transport
+
+286
+00:13:16,470 --> 00:13:18,190
+peptides
+indiscriminately.
+
+287
+00:13:18,190 --> 00:13:20,350
+It favors peptides
+of appropriate
+
+288
+00:13:20,350 --> 00:13:22,450
+length and biochemical
+properties.
+
+289
+00:13:22,450 --> 00:13:24,690
+This introduces
+another quality
+
+290
+00:13:24,690 --> 00:13:27,310
+control checkpoint,
+narrowing the pool
+
+291
+00:13:27,310 --> 00:13:29,410
+of peptides available
+for presentation.
+
+292
+00:13:29,410 --> 00:13:31,910
+If TAP function
+is impaired,
+
+293
+00:13:32,070 --> 00:13:33,730
+antigen
+presentation fails
+
+294
+00:13:33,730 --> 00:13:35,870
+even if peptides
+are abundant.
+
+295
+00:13:44,550 --> 00:13:46,210
+Assembly and
+Stabilization of
+
+296
+00:13:46,210 --> 00:13:48,230
+the MHC Class I
+Peptide Complex
+
+297
+00:13:48,230 --> 00:13:51,270
+Within the
+endoplasmic reticulum,
+
+298
+00:13:51,450 --> 00:13:54,450
+newly synthesized
+MHC Class I molecules
+
+299
+00:13:54,450 --> 00:13:56,910
+require peptide
+binding for stability.
+
+300
+00:13:57,070 --> 00:14:00,330
+Empty MHC molecules
+are unstable and
+
+301
+00:14:00,330 --> 00:14:02,310
+are retained or
+degraded rather than
+
+302
+00:14:02,310 --> 00:14:05,290
+displayed. This
+ensures that T-cells
+
+303
+00:14:05,290 --> 00:14:08,250
+never encounter
+empty MHC scaffolds.
+
+304
+00:14:08,250 --> 00:14:11,290
+Only peptide-loaded
+MHC molecules
+
+305
+00:14:11,290 --> 00:14:13,130
+are transported to
+the cell surface.
+
+306
+00:14:13,630 --> 00:14:16,970
+This step tightly links
+intracellular peptide
+
+307
+00:14:16,970 --> 00:14:19,690
+availability to surface
+antigen display.
+
+308
+00:14:21,990 --> 00:14:25,910
+CD8 T-cells and Targeted
+Cell Elimination
+
+309
+00:14:26,490 --> 00:14:28,850
+CD8-positive T
+-cells specialize
+
+310
+00:14:28,850 --> 00:14:30,790
+in recognizing
+peptides presented
+
+311
+00:14:30,790 --> 00:14:33,030
+by MHC class I molecules.
+
+312
+00:14:33,130 --> 00:14:36,110
+They interrogate
+individual cells rather
+
+313
+00:14:36,110 --> 00:14:38,630
+than scanning the
+extracellular environment.
+
+314
+00:14:38,630 --> 00:14:42,150
+When a CD8-t cell
+encounters a peptide, MHC
+
+315
+00:14:42,150 --> 00:14:44,970
+complex, it assesses
+whether the peptide
+
+316
+00:14:44,970 --> 00:14:47,270
+fits within the expected
+self-repertoire.
+
+317
+00:14:47,650 --> 00:14:50,430
+If the peptide is
+abnormal, the CD8
+
+318
+00:14:50,430 --> 00:14:52,410
+-t cell can initiate
+targeted killing.
+
+319
+00:14:52,410 --> 00:14:54,810
+This response prioritizes
+
+320
+00:14:54,810 --> 00:14:57,570
+precision over
+widespread inflammation.
+
+321
+00:15:00,060 --> 00:15:01,930
+Continuous
+nature of class 1
+
+322
+00:15:01,930 --> 00:15:04,550
+presentation. It is
+critical to understand
+
+323
+00:15:04,550 --> 00:15:06,290
+that MHC class
+1 presentation
+
+324
+00:15:06,290 --> 00:15:09,230
+is continuous
+and non-optional.
+
+325
+00:15:09,230 --> 00:15:12,090
+Cells cannot selectively
+hide peptides
+
+326
+00:15:12,090 --> 00:15:14,590
+from immune surveillance.
+This constant
+
+327
+00:15:14,590 --> 00:15:16,950
+reporting allows
+the immune system to
+
+328
+00:15:16,950 --> 00:15:19,710
+detect changes early.
+From a system's
+
+329
+00:15:19,710 --> 00:15:21,930
+perspective, this
+minimizes the need
+
+330
+00:15:21,930 --> 00:15:24,150
+for large-scale
+inflammatory responses.
+
+331
+00:15:24,150 --> 00:15:26,730
+Instead, problems
+can be addressed
+
+332
+00:15:26,730 --> 00:15:29,150
+at the level of
+individual cells.
+
+333
+00:15:33,290 --> 00:15:36,350
+Introducing the MHC
+Class II Pathway.
+
+334
+00:15:37,730 --> 00:15:39,650
+Why a second presentation
+
+335
+00:15:39,650 --> 00:15:41,130
+pathway is needed.
+
+336
+00:15:41,830 --> 00:15:44,350
+Extracellular antigens
+present a different
+
+337
+00:15:44,350 --> 00:15:46,590
+challenge for the
+immune system. These
+
+338
+00:15:46,590 --> 00:15:48,250
+antigens must be
+sampled from the
+
+339
+00:15:48,250 --> 00:15:50,610
+environment rather
+than from within cells.
+
+340
+00:15:50,690 --> 00:15:53,570
+Responding to these
+threats often requires
+
+341
+00:15:53,570 --> 00:15:56,310
+coordination rather
+than cytotoxicity.
+
+342
+00:15:56,750 --> 00:16:00,630
+MHC class II molecules
+exist to support
+
+343
+00:16:00,630 --> 00:16:02,570
+this coordinated
+immune response.
+
+344
+00:16:05,950 --> 00:16:08,450
+Restriction of
+MHC class II to
+
+345
+00:16:08,450 --> 00:16:10,890
+professional antigen
+-presenting cells.
+
+346
+00:16:11,490 --> 00:16:13,830
+MHC class II
+expression is limited
+
+347
+00:16:13,830 --> 00:16:15,430
+to professional
+antigen presenting
+
+348
+00:16:15,430 --> 00:16:17,670
+cells. These
+include dendritic
+
+349
+00:16:17,670 --> 00:16:20,350
+cells, macrophages,
+and B cells.
+
+350
+00:16:20,350 --> 00:16:22,350
+This restriction
+ensures that
+
+351
+00:16:22,350 --> 00:16:24,050
+extracellular
+antigen presentation
+
+352
+00:16:24,050 --> 00:16:26,290
+occurs in a
+regulated context.
+
+353
+00:16:26,310 --> 00:16:28,470
+These cells are
+equipped to provide
+
+354
+00:16:28,470 --> 00:16:30,510
+both antigen
+presentation and
+
+355
+00:16:30,510 --> 00:16:32,210
+additional
+instructional signals.
+
+356
+00:16:32,350 --> 00:16:34,610
+Together, these
+signals guide the
+
+357
+00:16:34,610 --> 00:16:36,230
+nature of the
+immune response.
+
+358
+00:16:37,970 --> 00:16:41,290
+uptake and processing
+of extracellular
+
+359
+00:16:41,290 --> 00:16:45,470
+antigens extracellular
+antigens are internalized
+
+360
+00:16:45,470 --> 00:16:48,890
+through endocytosis
+or phagocytosis once
+
+361
+00:16:48,890 --> 00:16:51,410
+internalized proteins
+are degraded within
+
+362
+00:16:51,410 --> 00:16:54,590
+vesicular compartments
+this compartmentalization
+
+363
+00:16:54,590 --> 00:16:57,170
+keeps extracellular
+and intracellular
+
+364
+00:16:57,170 --> 00:17:00,570
+pathways separate it
+also allows antigen
+
+365
+00:17:00,570 --> 00:17:04,550
+presenting cells to
+regulate which antigens
+
+366
+00:17:04,550 --> 00:17:07,170
+are sampled once
+again it also allows
+
+367
+00:17:07,170 --> 00:17:09,890
+antigen presenting
+cells to regulate which
+
+368
+00:17:09,890 --> 00:17:12,890
+antigens are sampled
+this control is essential
+
+369
+00:17:12,890 --> 00:17:14,990
+for maintaining
+immune precision and
+
+370
+00:17:14,990 --> 00:17:19,450
+preventing inappropriate
+activation invariant
+
+371
+00:17:20,970 --> 00:17:24,130
+chain preventing
+********* peptide bonding
+
+372
+00:17:24,130 --> 00:17:29,230
+at the as the MHC class
+2 pathway begins the
+
+373
+00:17:29,230 --> 00:17:31,750
+immune system faces
+an immediate problem,
+
+374
+00:17:31,990 --> 00:17:34,750
+preventing inappropriate
+peptide binding.
+
+375
+00:17:35,110 --> 00:17:38,550
+MHC class 2 molecules
+are synthesized in
+
+376
+00:17:38,550 --> 00:17:41,390
+the endoplasmic reticulum,
+the same location
+
+377
+00:17:41,390 --> 00:17:43,970
+where class 1 molecules
+load peptides.
+
+378
+00:17:44,210 --> 00:17:46,130
+Without protection,
+
+379
+00:17:46,430 --> 00:17:48,890
+class 2 molecules could
+bind intracellular
+
+380
+00:17:48,890 --> 00:17:50,710
+peptides, which
+would collapse
+
+381
+00:17:50,710 --> 00:17:53,030
+the separation
+between the pathways.
+
+382
+00:17:53,070 --> 00:17:55,950
+The invariant chain
+solves this problem
+
+383
+00:17:55,950 --> 00:17:58,290
+by physically
+occupying the peptide
+
+384
+00:17:58,290 --> 00:18:00,730
+binding groove of
+class 2 molecules.
+
+385
+00:18:01,070 --> 00:18:04,090
+This blockade ensures
+that class 2 molecules
+
+386
+00:18:04,090 --> 00:18:07,190
+remain empty of antigen
+until they reach
+
+387
+00:18:07,190 --> 00:18:09,470
+the correct intracellular
+compartment.
+
+388
+00:18:12,430 --> 00:18:14,650
+Targeting MHC class 2 to
+
+389
+00:18:14,650 --> 00:18:16,250
+endosomal compartments.
+
+390
+00:18:16,850 --> 00:18:19,310
+The invariant chain
+does more than block
+
+391
+00:18:19,310 --> 00:18:21,950
+peptide binding. It
+also contains signals
+
+392
+00:18:21,950 --> 00:18:25,170
+that direct MHC class
+2 molecules towards
+
+393
+00:18:25,170 --> 00:18:27,750
+endosomal and
+lysosomal compartments.
+
+394
+00:18:27,750 --> 00:18:30,350
+These compartments are
+where extracellular
+
+395
+00:18:30,350 --> 00:18:33,130
+antigens are processed
+into peptides. This
+
+396
+00:18:33,130 --> 00:18:35,190
+targeting function
+preserves pathway
+
+397
+00:18:35,190 --> 00:18:38,050
+fidelity by ensuring class
+II molecules encounter
+
+398
+00:18:38,050 --> 00:18:41,230
+only extracellular
+derived peptides.
+
+399
+00:18:41,350 --> 00:18:43,410
+Without this targeting,
+
+400
+00:18:43,630 --> 00:18:44,710
+class II presentation
+
+401
+00:18:44,710 --> 00:18:46,930
+would lose its
+specificity.
+
+402
+00:18:48,130 --> 00:18:51,010
+Controlled degradation
+of the invariant
+
+403
+00:18:51,010 --> 00:18:54,650
+chain. Once MHC class
+II molecules reach the
+
+404
+00:18:54,650 --> 00:18:57,050
+appropriate vesicular
+compartments, the
+
+405
+00:18:57,050 --> 00:18:59,790
+invariant chain is not
+removed all at once.
+
+406
+00:18:59,810 --> 00:19:02,430
+Instead, it is
+gradually degraded
+
+407
+00:19:02,430 --> 00:19:04,450
+by proteases
+within the vesicle.
+
+408
+00:19:04,510 --> 00:19:07,230
+This stepwise
+degradation reflects
+
+409
+00:19:07,230 --> 00:19:08,650
+the immune
+system's emphasis
+
+410
+00:19:08,650 --> 00:19:11,010
+on control rather
+than speed.
+
+411
+00:19:11,200 --> 00:19:13,390
+By retaining partial
+fragments of the
+
+412
+00:19:13,390 --> 00:19:15,930
+invariant chain during
+transit, the cell
+
+413
+00:19:15,930 --> 00:19:18,050
+prevents accidental
+peptide loading.
+
+414
+00:19:18,330 --> 00:19:20,910
+Only when the class
+2 molecule is fully
+
+415
+00:19:20,910 --> 00:19:22,710
+positioned in the
+correct compartment
+
+416
+00:19:22,710 --> 00:19:25,170
+does peptide loading
+become possible.
+
+417
+00:19:28,350 --> 00:19:31,130
+CLIP as a temporary
+placeholder.
+
+418
+00:19:32,090 --> 00:19:34,730
+The final fragment of
+the invariant chain
+
+419
+00:19:34,730 --> 00:19:37,790
+that remains bound is
+known as CLIP, class
+
+420
+00:19:37,790 --> 00:19:41,750
+2 associated invariant
+chain peptide. CLIP
+
+421
+00:19:41,750 --> 00:19:43,950
+occupies the peptide
+binding groove and
+
+422
+00:19:43,950 --> 00:19:47,790
+prevents ********* or
+low affinity peptide
+
+423
+00:19:47,790 --> 00:19:50,850
+binding. At this
+stage, the class 2
+
+424
+00:19:50,850 --> 00:19:53,870
+molecule is properly
+localized but still
+
+425
+00:19:53,870 --> 00:19:57,050
+protected this represents
+another checkpoint
+
+426
+00:19:57,050 --> 00:20:00,650
+that prioritizes accuracy
+over rapid presentation
+
+427
+00:20:00,650 --> 00:20:03,570
+the immune system
+consistently favors
+
+428
+00:20:03,570 --> 00:20:05,450
+controlled presentation
+rather than
+
+429
+00:20:05,450 --> 00:20:13,130
+maximal speed HLA DM
+and peptide editing HLA
+
+430
+00:20:13,130 --> 00:20:16,250
+DM stands for human
+leukocyte antigen DM,
+
+431
+00:20:16,450 --> 00:20:18,410
+where DM refers
+to a region
+
+432
+00:20:18,410 --> 00:20:20,950
+and a locus on
+the HMC complex.
+
+433
+00:20:21,090 --> 00:20:24,670
+This HLA-DM plays
+a critical role in
+
+434
+00:20:24,670 --> 00:20:27,730
+removing clip and
+facilitating peptide exchange.
+
+435
+00:20:27,730 --> 00:20:30,470
+Rather than simply
+displacing clip,
+
+436
+00:20:30,750 --> 00:20:33,270
+HLA-DM promotes
+the binding of
+
+437
+00:20:33,270 --> 00:20:34,770
+peptides that form stable
+
+438
+00:20:34,770 --> 00:20:37,270
+complexes with
+class II molecules.
+
+439
+00:20:37,470 --> 00:20:40,530
+This editing function
+ensures that peptides
+
+440
+00:20:40,530 --> 00:20:43,170
+displayed on the cell
+surface persist long
+
+441
+00:20:43,170 --> 00:20:46,110
+enough to be recognized
+by CD4 T cells.
+
+442
+00:20:46,420 --> 00:20:49,150
+Weakly bound peptides
+are less likely to
+
+443
+00:20:49,150 --> 00:20:52,450
+survive this editing
+process. As a result,
+
+444
+00:20:52,490 --> 00:20:54,670
+the immune system
+increases the signal
+
+445
+00:20:54,670 --> 00:20:57,190
+-to-noise ratio of
+antigen presentation.
+
+446
+00:21:00,410 --> 00:21:02,710
+Surface expression of MHC
+
+447
+00:21:02,710 --> 00:21:04,590
+class 2 peptide
+complexes.
+
+448
+00:21:05,410 --> 00:21:08,710
+After successful
+peptide loading, MHC
+
+449
+00:21:08,710 --> 00:21:11,130
+class 2 peptide
+complexes are transported
+
+450
+00:21:11,130 --> 00:21:14,010
+to the cell surface.
+These complexes
+
+451
+00:21:14,010 --> 00:21:16,470
+are displayed only on
+professional antigen
+
+452
+00:21:16,470 --> 00:21:18,690
+presenting cells.
+This restriction
+
+453
+00:21:18,690 --> 00:21:21,870
+ensures that CD4 T
+cell activation occurs
+
+454
+00:21:21,870 --> 00:21:24,450
+in an appropriate
+immunologic context.
+
+455
+00:21:24,450 --> 00:21:27,990
+At the surface, these
+complexes function as
+
+456
+00:21:27,990 --> 00:21:30,150
+instructional signals
+rather than direct
+
+457
+00:21:30,150 --> 00:21:33,530
+triggers of cytotoxicity.
+This distinction
+
+458
+00:21:33,530 --> 00:21:37,070
+underlies the coordinating
+role of CD4 T cells.
+
+459
+00:21:40,190 --> 00:21:42,410
+CD4 T-cells as Directors
+
+460
+00:21:42,410 --> 00:21:43,890
+of Immune Responses
+
+461
+00:21:44,390 --> 00:21:46,790
+CD4 T-cells do
+not directly
+
+462
+00:21:46,790 --> 00:21:48,510
+eliminate infected cells.
+
+463
+00:21:48,510 --> 00:21:52,070
+Instead, they act as
+directors, influencing
+
+464
+00:21:52,070 --> 00:21:54,230
+the behavior of
+other immune cells.
+
+465
+00:21:54,290 --> 00:21:57,150
+Through cytokine
+production and cell-to-cell
+
+466
+00:21:57,150 --> 00:22:00,730
+interactions, CD4 T
+-cells shape macrophage
+
+467
+00:22:00,730 --> 00:22:03,590
+activation, antibody
+production, and the
+
+468
+00:22:03,590 --> 00:22:06,630
+development of cytotoxic
+responses. Because
+
+469
+00:22:06,630 --> 00:22:09,810
+of this central role,
+improper CD4 T-cell
+
+470
+00:22:09,810 --> 00:22:12,570
+activation can have
+widespread consequences.
+
+471
+00:22:12,870 --> 00:22:15,830
+This explains why
+CD4 dysfunction is
+
+472
+00:22:15,830 --> 00:22:18,610
+associated with profound
+immune impairment.
+
+473
+00:22:20,010 --> 00:22:23,010
+Why coordination
+is essential.
+
+474
+00:22:23,230 --> 00:22:24,990
+An immune
+response without
+
+475
+00:22:24,990 --> 00:22:26,950
+coordination would
+be inefficient
+
+476
+00:22:26,950 --> 00:22:28,850
+and potentially
+destructive.
+
+477
+00:22:29,430 --> 00:22:31,890
+CD4 T-cells help
+determine not only
+
+478
+00:22:31,890 --> 00:22:33,830
+whether a response
+occurs, but
+
+479
+00:22:33,830 --> 00:22:36,030
+also what type of
+response develops.
+
+480
+00:22:36,030 --> 00:22:38,030
+They influence magnitude,
+
+481
+00:22:38,050 --> 00:22:40,850
+duration, and
+effector mechanisms.
+
+482
+00:22:41,250 --> 00:22:43,490
+This layered
+regulation reduces
+
+483
+00:22:43,490 --> 00:22:45,290
+unnecessary
+tissue damage.
+
+484
+00:22:45,290 --> 00:22:48,190
+It also allows the
+immune system to adapt
+
+485
+00:22:48,190 --> 00:22:51,010
+responses to different
+classes of pathogens.
+
+486
+00:22:53,830 --> 00:22:56,270
+Revisiting the
+division between Class
+
+487
+00:22:56,270 --> 00:22:59,830
+I and Class II
+At this point, it
+
+488
+00:22:59,830 --> 00:23:01,910
+is useful to
+explicitly contrast the
+
+489
+00:23:01,910 --> 00:23:03,890
+two antigen
+presentation pathways.
+
+490
+00:23:03,970 --> 00:23:07,250
+Class 1 presentation
+surveys intracellular
+
+491
+00:23:07,250 --> 00:23:10,330
+activity and
+engages CD8 T-cells.
+
+492
+00:23:10,330 --> 00:23:13,570
+Class 2 presentation
+samples extracellular
+
+493
+00:23:13,570 --> 00:23:16,450
+material and
+engages CD4 T-cells.
+
+494
+00:23:16,690 --> 00:23:18,950
+This division allows
+the immune system
+
+495
+00:23:18,950 --> 00:23:21,730
+to deploy distinct
+effector strategies.
+
+496
+00:23:22,630 --> 00:23:25,210
+Maintaining the
+separation is essential
+
+497
+00:23:25,210 --> 00:23:27,730
+for immune precision.
+The antigen
+
+498
+00:23:27,730 --> 00:23:30,750
+presentation mechanisms
+discussed so far forms
+
+499
+00:23:30,750 --> 00:23:33,410
+the foundation for
+T-cell activation.
+
+500
+00:23:33,790 --> 00:23:37,090
+Downstream topics such
+as co-stimulation,
+
+501
+00:23:37,090 --> 00:23:39,610
+tolerance, and effector
+differentiation
+
+502
+00:23:39,610 --> 00:23:41,830
+all depend on
+these early steps.
+
+503
+00:23:41,910 --> 00:23:44,630
+Errors in antigen
+presentation can
+
+504
+00:23:44,630 --> 00:23:46,870
+profoundly alter
+immune outcomes.
+
+505
+00:23:46,870 --> 00:23:48,790
+Keeping these
+principles in mind
+
+506
+00:23:48,790 --> 00:23:50,770
+will help integrate
+future lectures.
+
+507
+00:23:53,050 --> 00:23:56,730
+antigen presentation
+is necessary but not
+
+508
+00:23:56,730 --> 00:24:00,250
+sufficient up to this
+point we have focused on
+
+509
+00:24:00,250 --> 00:24:02,310
+how antigens are
+processed and displayed
+
+510
+00:24:02,310 --> 00:24:05,970
+to t-cells however it is
+essential to understand
+
+511
+00:24:05,970 --> 00:24:08,170
+that correct antigen
+presentation alone
+
+512
+00:24:08,170 --> 00:24:11,190
+does not automatically
+lead to t-cell activation
+
+513
+00:24:11,190 --> 00:24:14,230
+if antigen presentation
+were sufficient
+
+514
+00:24:14,230 --> 00:24:17,330
+by itself the immune
+system would constantly
+
+515
+00:24:17,330 --> 00:24:19,610
+activate in response
+to harmless self
+
+516
+00:24:19,610 --> 00:24:23,010
+peptides environmental
+antigens and debris from
+
+517
+00:24:23,010 --> 00:24:26,530
+normal cell turnover
+to prevent this the
+
+518
+00:24:26,530 --> 00:24:28,810
+immune system separates
+the act of recognition
+
+519
+00:24:28,810 --> 00:24:32,590
+from the decision to
+respond this separation
+
+520
+00:24:32,590 --> 00:24:35,210
+allows T cells together
+information before
+
+521
+00:24:35,210 --> 00:24:38,690
+committing to activation
+this concept will
+
+522
+00:24:38,690 --> 00:24:40,890
+repeatedly appear
+throughout immunology
+
+523
+00:24:40,890 --> 00:24:43,730
+especially when discussing
+tolerance and auto
+
+524
+00:24:45,910 --> 00:24:50,210
+Co-stimulation, the
+second signal. Co
+
+525
+00:24:50,210 --> 00:24:52,350
+-stimulation refers to
+additional molecular
+
+526
+00:24:52,350 --> 00:24:55,230
+interactions that must
+occur alongside antigen
+
+527
+00:24:55,230 --> 00:24:58,130
+recognition for full
+T cell activation.
+
+528
+00:24:58,210 --> 00:25:01,230
+These signals provide
+contextual information
+
+529
+00:25:01,230 --> 00:25:03,550
+that helps the T cell
+determine whether
+
+530
+00:25:03,550 --> 00:25:05,830
+the antigen is
+associated with danger.
+
+531
+00:25:05,950 --> 00:25:09,430
+In the absence of co
+-stimulation, antigen
+
+532
+00:25:09,430 --> 00:25:11,670
+recognition alone
+is interpreted as
+
+533
+00:25:11,670 --> 00:25:14,310
+insufficient justification
+for activation.
+
+534
+00:25:14,460 --> 00:25:17,610
+This two-signal
+requirement acts as a
+
+535
+00:25:17,610 --> 00:25:19,910
+critical safeguard,
+preventing immune
+
+536
+00:25:19,910 --> 00:25:22,730
+responses against
+innocuous antigens.
+
+537
+00:25:22,750 --> 00:25:25,630
+Understanding this
+principle helps explain
+
+538
+00:25:25,630 --> 00:25:28,090
+why immune responses
+are tightly controlled
+
+539
+00:25:28,090 --> 00:25:30,950
+despite constant
+antigen exposure.
+
+540
+00:25:32,950 --> 00:25:36,970
+Why only professional
+APCs activate naive
+
+541
+00:25:36,970 --> 00:25:39,910
+T-cells. Not all
+cells that present
+
+542
+00:25:39,910 --> 00:25:42,750
+antigen are capable
+of activating T cells.
+
+543
+00:25:43,210 --> 00:25:45,170
+Professional
+antigen presenting
+
+544
+00:25:45,170 --> 00:25:47,630
+cells possess
+specialized machinery
+
+545
+00:25:47,630 --> 00:25:49,710
+that allows them
+to deliver both
+
+546
+00:25:49,710 --> 00:25:52,350
+antigen and co
+-stimulatory signals.
+
+547
+00:25:52,670 --> 00:25:55,850
+This specialization
+ensures that immune
+
+548
+00:25:55,850 --> 00:25:59,590
+activation is centralized
+and regulated rather
+
+549
+00:25:59,590 --> 00:26:01,710
+than occurring randomly
+throughout tissues.
+
+550
+00:26:02,350 --> 00:26:05,690
+It also explains why
+most tissue cells,
+
+551
+00:26:05,690 --> 00:26:09,870
+despite expressing MHC
+class 1, do not activate
+
+552
+00:26:09,870 --> 00:26:13,170
+naive T-cells. This
+distinction is essential
+
+553
+00:26:13,170 --> 00:26:15,210
+for maintaining
+peripheral tolerance.
+
+554
+00:26:17,970 --> 00:26:19,610
+Consequences of antigen
+
+555
+00:26:19,610 --> 00:26:21,870
+recognition without
+co-stimulation.
+
+556
+00:26:22,330 --> 00:26:25,450
+When a T-cell recognizes
+antigen without
+
+557
+00:26:25,450 --> 00:26:28,170
+receiving co-stimulatory
+signals, it does
+
+558
+00:26:28,170 --> 00:26:31,270
+not simply ignore the
+encounter. Instead,
+
+559
+00:26:31,270 --> 00:26:33,410
+the T-cell may enter
+a stage of long
+
+560
+00:26:33,410 --> 00:26:36,210
+-term unresponsiveness
+known as energy.
+
+561
+00:26:36,450 --> 00:26:38,890
+Anergic T-cells
+are functionally
+
+562
+00:26:38,890 --> 00:26:41,830
+impaired and unable
+to respond even if
+
+563
+00:26:41,830 --> 00:26:43,890
+they later encounter
+proper stimulation.
+
+564
+00:26:43,930 --> 00:26:46,690
+This mechanism serves
+as an additional
+
+565
+00:26:46,690 --> 00:26:48,970
+safeguard against
+autoimmunity.
+
+566
+00:26:49,590 --> 00:26:51,830
+Failures in this
+process contribute to
+
+567
+00:26:51,830 --> 00:26:54,690
+inappropriate immune
+activation and disease.
+
+568
+00:26:56,810 --> 00:26:58,490
+Contextual information
+
+569
+00:26:58,490 --> 00:27:00,270
+shapes immune responses.
+
+570
+00:27:00,790 --> 00:27:03,710
+Co-stimulatory signals
+convey information
+
+571
+00:27:03,710 --> 00:27:06,050
+about the immunologic
+context in which
+
+572
+00:27:06,050 --> 00:27:09,030
+antigen is encountered.
+They help T-cells
+
+573
+00:27:09,030 --> 00:27:11,530
+distinguish between
+infection, inflammation,
+
+574
+00:27:11,530 --> 00:27:14,210
+and normal
+physiological processes.
+
+575
+00:27:14,290 --> 00:27:17,330
+This context determines
+not only whether a
+
+576
+00:27:17,330 --> 00:27:20,050
+response occurs, but
+also what type of
+
+577
+00:27:20,050 --> 00:27:23,530
+response develops.
+Through this mechanism,
+
+578
+00:27:23,530 --> 00:27:25,450
+the immune system
+adapts its behavior
+
+579
+00:27:25,450 --> 00:27:27,770
+to different
+biological situations.
+
+580
+00:27:28,090 --> 00:27:29,910
+This flexibility is a
+
+581
+00:27:29,910 --> 00:27:31,810
+hallmark of
+adaptive immunity.
+
+582
+00:27:34,390 --> 00:27:36,250
+Connecting co-stimulation
+
+583
+00:27:36,250 --> 00:27:38,030
+to tolerance mechanisms.
+
+584
+00:27:38,630 --> 00:27:42,070
+The requirement for co
+-stimulation is closely
+
+585
+00:27:42,070 --> 00:27:44,290
+linked to mechanisms
+of immune tolerance.
+
+586
+00:27:44,350 --> 00:27:46,490
+Central tolerance
+removes many
+
+587
+00:27:46,490 --> 00:27:48,170
+self-reactive
+T-cells during
+
+588
+00:27:48,170 --> 00:27:50,410
+development, but
+it is not complete.
+
+589
+00:27:50,690 --> 00:27:53,250
+Peripheral tolerance
+provides additional
+
+590
+00:27:53,250 --> 00:27:56,210
+layers of control and
+mature immune responses.
+
+591
+00:27:57,050 --> 00:27:59,670
+Antigen presentation
+in the absence
+
+592
+00:27:59,670 --> 00:28:01,450
+of co-stimulation
+is one way
+
+593
+00:28:01,450 --> 00:28:03,410
+peripheral tolerance
+is enforced.
+
+594
+00:28:03,570 --> 00:28:05,070
+Together, these
+mechanisms
+
+595
+00:28:05,070 --> 00:28:07,110
+reduce the risk
+of autoimmunity.
+
+596
+00:28:10,210 --> 00:28:13,490
+Tolerance as an active,
+regulated process.
+
+597
+00:28:13,690 --> 00:28:15,790
+Tolerance is not
+a passive failure
+
+598
+00:28:15,790 --> 00:28:18,070
+of the immune system
+to respond. It
+
+599
+00:28:18,070 --> 00:28:21,130
+is an active,
+regulated process that
+
+600
+00:28:21,130 --> 00:28:23,050
+requires continuous
+enforcement.
+
+601
+00:28:23,190 --> 00:28:25,730
+Multiple checkpoints,
+including co
+
+602
+00:28:25,730 --> 00:28:27,670
+-stimulation
+requirements, work
+
+603
+00:28:27,670 --> 00:28:29,770
+together to maintain
+self-tolerance.
+
+604
+00:28:30,350 --> 00:28:32,110
+Disruption of
+these checkpoints
+
+605
+00:28:32,110 --> 00:28:33,850
+can have severe
+consequences.
+
+606
+00:28:33,910 --> 00:28:36,830
+This concept helps
+explain why autoimmune
+
+607
+00:28:36,830 --> 00:28:39,410
+diseases are often
+multifactorial.
+
+608
+00:28:41,770 --> 00:28:43,930
+Balancing immune
+responsiveness
+
+609
+00:28:43,930 --> 00:28:45,590
+with self-protection.
+
+610
+00:28:45,870 --> 00:28:48,270
+The immune system
+must strike a balance
+
+611
+00:28:48,270 --> 00:28:50,630
+between responsiveness
+and restraint.
+
+612
+00:28:50,950 --> 00:28:53,750
+Responding too
+aggressively risks tissue
+
+613
+00:28:53,750 --> 00:28:56,150
+damage, while
+insufficient responses
+
+614
+00:28:56,150 --> 00:28:58,830
+allow infection or
+malignancy to progress.
+
+615
+00:28:59,370 --> 00:29:02,050
+Antigen presentation,
+co-stimulation,
+
+616
+00:29:02,050 --> 00:29:03,710
+and tolerance mechanisms
+
+617
+00:29:03,710 --> 00:29:06,130
+collectively maintain
+this balance.
+
+618
+00:29:06,170 --> 00:29:08,570
+Even small
+disruptions can tip
+
+619
+00:29:08,570 --> 00:29:10,390
+the system
+towards pathology.
+
+620
+00:29:10,490 --> 00:29:13,650
+Understanding this
+balance is central to
+
+621
+00:29:13,650 --> 00:29:16,070
+understanding immune
+-mediated disease.
+
+622
+00:29:18,490 --> 00:29:20,630
+Clinical relevance of
+
+623
+00:29:20,630 --> 00:29:22,290
+co-stimulatory pathways.
+
+624
+00:29:22,550 --> 00:29:25,030
+Co-stimulatory
+pathways are important
+
+625
+00:29:25,030 --> 00:29:26,850
+targets for clinical
+intervention.
+
+626
+00:29:27,350 --> 00:29:29,570
+Therapeutic manipulation
+of these pathways
+
+627
+00:29:29,570 --> 00:29:32,490
+can enhance or suppress
+immune responses.
+
+628
+00:29:32,730 --> 00:29:34,850
+Such strategies
+are used in
+
+629
+00:29:34,850 --> 00:29:37,010
+transplantation,
+autoimmune disease,
+
+630
+00:29:37,010 --> 00:29:38,550
+and cancer immunotherapy.
+
+631
+00:29:38,670 --> 00:29:41,350
+Although the molecular
+details will be covered
+
+632
+00:29:41,350 --> 00:29:43,650
+later, the conceptual
+framework begins
+
+633
+00:29:43,650 --> 00:29:46,770
+here. This illustrates
+how basic immunologic
+
+634
+00:29:46,770 --> 00:29:49,430
+principles translate
+into clinical practice.
+
+635
+00:29:52,030 --> 00:29:54,270
+Integrating antigen
+presentation,
+
+636
+00:29:54,410 --> 00:29:56,370
+co-stimulation,
+and tolerance.
+
+637
+00:29:56,450 --> 00:29:58,710
+Antigen presentation
+provides
+
+638
+00:29:58,710 --> 00:30:00,750
+specificity,
+identifying what the
+
+639
+00:30:00,750 --> 00:30:02,450
+immune system is
+responding to.
+
+640
+00:30:02,930 --> 00:30:05,550
+Co-stimulation
+provides context,
+
+641
+00:30:05,550 --> 00:30:08,190
+determining whether a
+response should occur.
+
+642
+00:30:08,530 --> 00:30:11,450
+Tolerance mechanisms
+provide restraint,
+
+643
+00:30:11,450 --> 00:30:13,850
+preventing harmful
+cell-free activity.
+
+644
+00:30:14,130 --> 00:30:16,470
+Together, these
+processes govern
+
+645
+00:30:16,470 --> 00:30:18,310
+adaptive immune
+decision-making.
+
+646
+00:30:18,310 --> 00:30:20,710
+This integrated
+framework sets the
+
+647
+00:30:20,710 --> 00:30:22,430
+stage for
+understanding effector
+
+648
+00:30:22,430 --> 00:30:24,270
+function and
+immune regulation.
+
+649
+00:30:26,490 --> 00:30:28,990
+Super antigens,
+an exception
+
+650
+00:30:28,990 --> 00:30:30,910
+to normal antigen
+recognition.
+
+651
+00:30:31,270 --> 00:30:33,070
+Up to this point, we have
+
+652
+00:30:33,070 --> 00:30:34,810
+emphasized how
+tightly regulated
+
+653
+00:30:34,810 --> 00:30:36,870
+antigen recognition
+normally is.
+
+654
+00:30:37,160 --> 00:30:39,050
+Super antigens
+represent a
+
+655
+00:30:39,050 --> 00:30:40,810
+major exception
+to these rules.
+
+656
+00:30:41,060 --> 00:30:43,970
+They bypass normal
+peptide specificity
+
+657
+00:30:43,970 --> 00:30:47,130
+by binding simultaneously
+to MHC class
+
+658
+00:30:47,130 --> 00:30:49,410
+II molecules and
+the T cell receptor
+
+659
+00:30:49,410 --> 00:30:52,850
+outside the peptide
+binding groove. This
+
+660
+00:30:52,850 --> 00:30:55,670
+abnormal binding forces
+T-cell activation
+
+661
+00:30:55,670 --> 00:30:58,210
+without proper
+antigen specificity.
+
+662
+00:30:58,290 --> 00:31:00,430
+The result is widespread,
+
+663
+00:31:00,430 --> 00:31:02,630
+inappropriate
+immune activation.
+
+664
+00:31:04,730 --> 00:31:06,830
+Mechanisms of
+superantigen
+
+665
+00:31:06,830 --> 00:31:08,070
+-induced activation
+
+666
+00:31:08,630 --> 00:31:10,690
+Superantigens
+do not require
+
+667
+00:31:10,690 --> 00:31:12,290
+intracellular processing.
+
+668
+00:31:12,290 --> 00:31:15,490
+They bind intact to
+the outside of MHC
+
+669
+00:31:15,490 --> 00:31:17,830
+class II molecules
+and cross-link
+
+670
+00:31:17,830 --> 00:31:20,890
+them to T-cell receptors.
+This interaction
+
+671
+00:31:20,890 --> 00:31:23,130
+activates large
+numbers of T-cells
+
+672
+00:31:23,130 --> 00:31:26,450
+regardless of
+antigen specificity.
+
+673
+00:31:27,010 --> 00:31:30,770
+Normal checkpoints
+are bypassed and
+
+674
+00:31:30,770 --> 00:31:33,190
+the immune response
+becomes uncontrolled.
+
+675
+00:31:33,190 --> 00:31:35,110
+This explains
+the severity of
+
+676
+00:31:35,110 --> 00:31:37,470
+diseases associated
+with superantigens.
+
+677
+00:31:39,650 --> 00:31:42,650
+Consequences of widespread
+T-cell activation
+
+678
+00:31:42,650 --> 00:31:45,910
+When many T-cells are
+activated simultaneously,
+
+679
+00:31:46,010 --> 00:31:48,710
+massive cytokine
+release can occur.
+
+680
+00:31:48,930 --> 00:31:50,570
+This phenomenon is often
+
+681
+00:31:50,570 --> 00:31:52,930
+referred to as a
+cytokine storm.
+
+682
+00:31:52,930 --> 00:31:55,070
+The resulting
+inflammation can
+
+683
+00:31:55,070 --> 00:31:57,290
+lead to fever,
+hypotension, and
+
+684
+00:31:57,290 --> 00:31:58,830
+ultimately organ
+dysfunction.
+
+685
+00:31:58,930 --> 00:32:01,690
+These outcomes
+illustrate the danger of
+
+686
+00:32:01,690 --> 00:32:04,150
+bypassing normal immune
+regulatory mechanisms.
+
+687
+00:32:05,230 --> 00:32:07,650
+Superantigens
+demonstrate why
+
+688
+00:32:07,650 --> 00:32:09,750
+immune precision
+is essential.
+
+689
+00:32:12,190 --> 00:32:15,350
+Clinical example of
+superantigen exposure.
+
+690
+00:32:15,350 --> 00:32:19,210
+several bacterial toxins
+act as super antigens
+
+691
+00:32:19,210 --> 00:32:22,290
+one example is that
+found in toxic shock
+
+692
+00:32:22,290 --> 00:32:24,910
+syndrome these toxins
+are associated with
+
+693
+00:32:24,910 --> 00:32:27,990
+severe clinical syndromes
+understanding this
+
+694
+00:32:27,990 --> 00:32:30,790
+mechanism helps explain
+the rapid onset and
+
+695
+00:32:30,790 --> 00:32:34,070
+severity of these
+conditions this reinforces
+
+696
+00:32:34,070 --> 00:32:36,490
+the importance of
+controlled antigen
+
+697
+00:32:36,490 --> 00:32:42,370
+recognition MHC expression
+patterns and immune
+
+698
+00:32:42,370 --> 00:32:46,810
+outcomes the The
+distribution of MHC molecules
+
+699
+00:32:46,810 --> 00:32:49,370
+influences how immune
+responses unfold.
+
+700
+00:32:49,690 --> 00:32:52,190
+Because MHC class
+1 is expressed
+
+701
+00:32:52,190 --> 00:32:54,210
+on all nucleated cells,
+
+702
+00:32:54,430 --> 00:32:57,050
+intracellular surveillance
+is widespread.
+
+703
+00:32:57,390 --> 00:32:58,750
+In contrast,
+
+704
+00:32:58,970 --> 00:33:01,590
+MHC class 2 expression
+is restricted to
+
+705
+00:33:01,590 --> 00:33:03,610
+professional antigen
+presenting cells.
+
+706
+00:33:04,290 --> 00:33:06,310
+These expression
+patterns shape
+
+707
+00:33:06,310 --> 00:33:08,350
+where and how
+immune activation
+
+708
+00:33:08,350 --> 00:33:11,470
+occurs. This
+organization contributes
+
+709
+00:33:11,470 --> 00:33:13,890
+to immune efficiency
+and safety.
+
+710
+00:33:15,770 --> 00:33:18,610
+Genetic variation in MHC
+
+711
+00:33:18,610 --> 00:33:20,200
+and disease
+susceptibility.
+
+712
+00:33:20,570 --> 00:33:23,430
+Differences
+in MHC alleles
+
+713
+00:33:23,430 --> 00:33:25,910
+influence disease
+susceptibility.
+
+714
+00:33:25,930 --> 00:33:28,810
+Certain MHC variants
+are associated with
+
+715
+00:33:28,810 --> 00:33:31,370
+increased risk for
+specific diseases.
+
+716
+00:33:31,370 --> 00:33:33,930
+These associations
+reflect differences
+
+717
+00:33:33,930 --> 00:33:36,150
+in peptide presentation
+rather than
+
+718
+00:33:36,150 --> 00:33:39,190
+direct pathogenic
+effects. Understanding
+
+719
+00:33:39,190 --> 00:33:41,410
+this helps explain
+why genetics
+
+720
+00:33:41,410 --> 00:33:43,610
+influences immune
+-mediated disease.
+
+721
+00:33:43,880 --> 00:33:46,190
+This concept
+bridges basic
+
+722
+00:33:46,190 --> 00:33:48,650
+immunology and
+clinical observation.
+
+723
+00:33:51,070 --> 00:33:54,370
+Antigen presentation
+in transplantation.
+
+724
+00:33:54,390 --> 00:33:56,990
+Antigen presentation
+plays a central
+
+725
+00:33:56,990 --> 00:33:59,130
+role in transplant
+rejection.
+
+726
+00:33:59,170 --> 00:34:01,630
+Recipient T-cells
+may recognize
+
+727
+00:34:01,630 --> 00:34:04,110
+donor MHC molecules
+as foreign.
+
+728
+00:34:04,210 --> 00:34:06,490
+This recognition
+can occur even
+
+729
+00:34:06,490 --> 00:34:08,550
+in the absence of
+donor peptides.
+
+730
+00:34:08,550 --> 00:34:10,950
+This phenomenon
+highlights how
+
+731
+00:34:10,950 --> 00:34:12,650
+sensitive the
+immune system is to
+
+732
+00:34:12,650 --> 00:34:14,630
+changes in antigen
+presentation.
+
+733
+00:34:14,830 --> 00:34:18,050
+It also explains
+why MHC matching
+
+734
+00:34:18,050 --> 00:34:20,150
+is critical in
+transplantation.
+
+735
+00:34:20,250 --> 00:34:23,150
+In transplantation,
+recipient T
+
+736
+00:34:23,150 --> 00:34:25,190
+-cells can recognize
+donor antigens
+
+737
+00:34:25,190 --> 00:34:26,690
+through multiple
+mechanisms.
+
+738
+00:34:26,830 --> 00:34:29,570
+Direct allorecognition
+involves
+
+739
+00:34:29,570 --> 00:34:32,550
+recognition of intact
+donor MHC molecules.
+
+740
+00:34:33,150 --> 00:34:35,330
+Indirect
+allurecognition involves
+
+741
+00:34:35,330 --> 00:34:37,350
+processing of
+donor proteins by
+
+742
+00:34:37,350 --> 00:34:39,430
+recipient antigen
+-presenting cells.
+
+743
+00:34:39,490 --> 00:34:41,450
+Both of these mechanisms
+
+744
+00:34:41,450 --> 00:34:43,750
+contribute to
+transplant rejection.
+
+745
+00:34:46,970 --> 00:34:49,090
+Integrating antigen
+presentation
+
+746
+00:34:49,090 --> 00:34:50,670
+with immune regulation.
+
+747
+00:34:51,210 --> 00:34:53,790
+Antigen presentation
+does not operate in
+
+748
+00:34:53,790 --> 00:34:57,190
+isolation. It interacts
+with co-stimulation,
+
+749
+00:34:57,190 --> 00:35:00,410
+cytokine signaling, and
+tolerance mechanisms.
+
+750
+00:35:00,810 --> 00:35:01,650
+Together,
+
+751
+00:35:01,810 --> 00:35:04,310
+these systems determine
+immune outcomes.
+
+752
+00:35:04,630 --> 00:35:06,230
+Disruption at any level
+
+753
+00:35:06,230 --> 00:35:07,490
+can produce disease.
+
+754
+00:35:07,490 --> 00:35:09,550
+This integrated view is
+
+755
+00:35:09,550 --> 00:35:11,250
+essential for
+clinical reasoning.
+
+756
+00:35:13,170 --> 00:35:14,970
+Key takeaways.
+
+757
+00:35:15,650 --> 00:35:17,450
+Antigen presentation
+determines
+
+758
+00:35:17,450 --> 00:35:19,290
+what the immune
+system can see.
+
+759
+00:35:19,690 --> 00:35:22,390
+MHC molecules
+constrain and
+
+760
+00:35:22,390 --> 00:35:24,010
+guide T-cell recognition.
+
+761
+00:35:24,630 --> 00:35:27,290
+Co-stimulation and
+tolerance provide both
+
+762
+00:35:27,290 --> 00:35:31,230
+context and restraint.
+together these processes
+
+763
+00:35:31,230 --> 00:35:34,530
+ensure immune precision
+these principles
+
+764
+00:35:34,530 --> 00:35:36,930
+together form the
+foundation of adaptive
+
+765
+00:35:36,930 --> 00:35:42,050
+immunity transition to
+subsequent topics in
+
+766
+00:35:42,050 --> 00:35:44,870
+immunology the material
+in this lecture
+
+767
+00:35:44,870 --> 00:35:47,690
+establishes the mechanism
+mechanistic foundation
+
+768
+00:35:47,690 --> 00:35:51,040
+for adaptive immune
+responses subsequent
+
+769
+00:35:51,040 --> 00:35:53,590
+lectures will build on
+these principles keeping
+
+770
+00:35:53,590 --> 00:35:55,470
+this framework in
+mind will help you
+
+771
+00:35:55,470 --> 00:35:58,770
+integrate new information
+antigen presentation
+
+772
+00:35:58,770 --> 00:36:02,030
+is not an isolated topic
+but a recurring theme
+
+773
+00:36:02,760 --> 00:36:07,770
+in summation antigen
+presentation determines
+
+774
+00:36:07,770 --> 00:36:11,770
+what the immune system
+can see MHC molecules
+
+775
+00:36:11,770 --> 00:36:14,390
+constrain t-cell
+recognition to specific
+
+776
+00:36:14,390 --> 00:36:18,450
+regulated context
+this design prevents
+
+777
+00:36:18,450 --> 00:36:21,490
+indiscriminate or
+dangerous immune activation
+
+778
+00:36:22,290 --> 00:36:25,110
+Co-stimulation and
+tolerance mechanisms
+
+779
+00:36:25,110 --> 00:36:27,110
+determine whether
+a response occurs
+
+780
+00:36:28,150 --> 00:36:30,850
+Separation of
+recognition from action
+
+781
+00:36:30,850 --> 00:36:33,850
+protects the host
+Failures in these
+
+782
+00:36:33,850 --> 00:36:36,310
+controls explain
+autoimmunity,
+
+783
+00:36:36,310 --> 00:36:39,170
+transplant rejection,
+and immune evasion
+
+784
+00:36:40,030 --> 00:36:42,690
+Listed at the bottom
+of the slide is a
+
+785
+00:36:42,690 --> 00:36:44,950
+set of core references
+if you need to seek
+
+786
+00:36:44,950 --> 00:36:47,230
+out additional
+information on this topic
+
+787
+00:36:48,350 --> 00:36:50,390
+and in conclusion
+i would like to say
+
+788
+00:36:50,390 --> 00:36:52,330
+it's been a pleasure
+lecturing you today
+
+789
+00:36:53,130 --> 00:36:57,610
+attached to this
+slide is the link to
+
+790
+00:36:57,610 --> 00:37:00,190
+feedback for the
+faculty and i welcome
+
+791
+00:37:00,190 --> 00:37:01,850
+your feedback i would
+love to make this
+
+792
+00:37:01,850 --> 00:37:04,190
+presentation better
+for future generations
+
+793
+00:37:04,290 --> 00:37:06,250
+thank you for your
+time and i look
+
+794
+00:37:06,250 --> 00:37:07,970
+forward to speaking
+with you again soon

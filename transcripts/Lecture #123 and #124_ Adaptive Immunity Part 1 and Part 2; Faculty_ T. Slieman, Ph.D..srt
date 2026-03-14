@@ -1,0 +1,3993 @@
+1
+00:00:00,630 --> 00:00:05,330
+Welcome to the Adaptive
+Immunity 1 and 2 lecture and
+
+2
+00:00:05,330 --> 00:00:08,170
+this lecture will expand
+on the Adaptive Immunity
+
+3
+00:00:08,170 --> 00:00:11,710
+lecture that we had in the
+fall and flesh out more the
+
+4
+00:00:11,710 --> 00:00:14,550
+roles of different components
+of adaptive immunity.
+
+5
+00:00:18,870 --> 00:00:21,850
+The objective of this
+session is to outline first
+
+6
+00:00:21,850 --> 00:00:24,130
+and talk about the
+structure of immunoglobulins
+
+7
+00:00:24,130 --> 00:00:28,690
+and their subtypes and
+explain the role of MHC
+
+8
+00:00:28,690 --> 00:00:32,270
+molecules both 1 and 2, T
+cell receptor and B cell
+
+9
+00:00:32,270 --> 00:00:35,410
+receptor, and their role
+in immunity. We'll talk
+
+10
+00:00:35,410 --> 00:00:39,030
+about how different
+lymphocytes are activated.
+
+11
+00:00:39,730 --> 00:00:43,390
+We will compare and contrast
+the four different types
+
+12
+00:00:43,390 --> 00:00:46,490
+of hypersensitivity
+reactions. We'll also compare
+
+13
+00:00:46,490 --> 00:00:49,550
+and contrast your modal
+and some mediate immune
+
+14
+00:00:49,550 --> 00:00:53,690
+response and the roles of T
+helper 1, T helper 2, and T
+
+15
+00:00:53,690 --> 00:00:57,770
+helper 17 cells. And then
+we'll finalize this lecture
+
+16
+00:00:57,770 --> 00:01:00,930
+by discussing how we
+regulate the immune response.
+
+17
+00:01:03,390 --> 00:01:05,770
+In this slide let's
+talk a little bit
+
+18
+00:01:05,770 --> 00:01:07,670
+briefly about each
+of the molecules
+
+19
+00:01:07,750 --> 00:01:11,310
+that we see commonly in that
+immune response. Of course
+
+20
+00:01:11,310 --> 00:01:13,510
+things like immunoglobulins
+which are also referred
+
+21
+00:01:13,510 --> 00:01:16,550
+to as antibodies antibodies
+in the globulin same term.
+
+22
+00:01:16,650 --> 00:01:19,730
+Don't forget that the B
+-sub receptor is also an
+
+23
+00:01:19,730 --> 00:01:23,290
+immunoglobulin, specifically
+immunoglobulin D. Now we'll
+
+24
+00:01:23,290 --> 00:01:26,450
+talk about major
+histocompatibility molecules, MHCs.
+
+25
+00:01:26,690 --> 00:01:29,010
+There's three different
+types, one, two, and three,
+
+26
+00:01:29,010 --> 00:01:31,370
+and we'll discuss those.
+We'll also talk about the
+
+27
+00:01:31,370 --> 00:01:33,930
+T-cell receptor and its
+important interaction.
+
+28
+00:01:33,930 --> 00:01:36,530
+And then we'll talk about
+different chemicals and
+
+29
+00:01:36,530 --> 00:01:39,890
+molecules that are involved
+in cellular interaction,
+
+30
+00:01:40,790 --> 00:01:44,030
+pedocrine interaction
+within the immune response.
+
+31
+00:01:44,030 --> 00:01:47,790
+Important molecules like
+cytokines, which we have discussed,
+
+32
+00:01:47,790 --> 00:01:50,130
+and we'll talk more about
+those and we talk about
+
+33
+00:01:50,130 --> 00:01:53,410
+chemokines and how they
+attract phagocytes different
+
+34
+00:01:53,450 --> 00:01:57,810
+populations of lymphocytes
+to the infected area or
+
+35
+00:01:57,810 --> 00:02:02,490
+inflamed area we discussed
+adhesion molecules and we also
+
+36
+00:02:02,490 --> 00:02:06,490
+seen and talked about cd
+molecules or cluster of
+
+37
+00:02:06,490 --> 00:02:09,570
+differentiation molecules which
+we discussed last semester
+
+38
+00:02:09,570 --> 00:02:12,370
+more specifically during
+the histology of the immune
+
+39
+00:02:12,370 --> 00:02:15,750
+response but cd molecules
+plays very important roles
+
+40
+00:02:15,750 --> 00:02:19,090
+a lot of them are receptors
+they can help us distinguish
+
+41
+00:02:19,090 --> 00:02:22,330
+between different white
+blood cells and sometimes
+
+42
+00:02:22,330 --> 00:02:26,450
+they have a role like cd47
+in protecting cells from
+
+43
+00:02:26,450 --> 00:02:30,610
+being phagocytized or cd59
+which protects from complement
+
+44
+00:02:30,610 --> 00:02:37,160
+system let's start out by
+talking about immunoglobulins
+
+45
+00:02:37,160 --> 00:02:40,330
+immunoglobulins are
+basically soluble proteins
+
+46
+00:02:40,330 --> 00:02:44,490
+that are usually found in
+serum but in other locations
+
+47
+00:02:44,490 --> 00:02:48,870
+too as we will discuss the
+term they they're said to
+
+48
+00:02:48,870 --> 00:02:51,210
+be responsible for what's
+called the humoral immune
+
+49
+00:02:51,210 --> 00:02:55,130
+response and the word humor
+actually means soluble or
+
+50
+00:02:55,130 --> 00:02:57,730
+can dissolve and that's where
+that came from immunoglobulins
+
+51
+00:02:58,570 --> 00:03:02,930
+have specific affinity
+and they bind specifically
+
+52
+00:03:02,930 --> 00:03:06,590
+to an epitope on an antigen
+so an antigen typically
+
+53
+00:03:06,590 --> 00:03:09,470
+is a large foreign substance.
+It's in any foreign
+
+54
+00:03:09,470 --> 00:03:13,370
+substance that elicits any
+response. But antigens typically
+
+55
+00:03:13,370 --> 00:03:16,790
+have many different
+epitopes and these epitopes
+
+56
+00:03:16,790 --> 00:03:20,730
+can all potentially bind to
+antibodies. Just like the
+
+57
+00:03:20,730 --> 00:03:22,690
+figure you see on the right
+side here, there's one
+
+58
+00:03:22,690 --> 00:03:26,850
+antigen with multiple epitopes
+that cannot be displayed.
+
+59
+00:03:29,290 --> 00:03:33,010
+Antibodies or immunoglobulins
+are responsible for
+
+60
+00:03:33,010 --> 00:03:35,790
+what's called antigen
+antibody reactions. We'll talk
+
+61
+00:03:35,790 --> 00:03:39,490
+about those things like
+immobilizing an antigen,
+
+62
+00:03:39,890 --> 00:03:42,510
+sometimes by cross
+-linking it, neutralizing
+
+63
+00:03:42,510 --> 00:03:45,910
+it, preventing it
+from doing its job or
+
+64
+00:03:45,910 --> 00:03:48,790
+upsliding it, tagging
+it for destruction.
+
+65
+00:03:49,910 --> 00:03:53,850
+Let's discuss the four
+different types of antigen
+
+66
+00:03:53,850 --> 00:03:56,610
+antibody reactions that we
+typically see. The first
+
+67
+00:03:56,610 --> 00:03:59,550
+one's called the precipitant
+reaction. This is actually
+
+68
+00:03:59,550 --> 00:04:04,630
+kind of an older type of
+laboratory technique that
+
+69
+00:04:04,630 --> 00:04:07,190
+people used to use where
+you would add equal amount
+
+70
+00:04:07,190 --> 00:04:11,050
+or different amounts of
+antibody and antigen and you
+
+71
+00:04:11,050 --> 00:04:13,170
+keep doing that till you
+finally get to the point
+
+72
+00:04:13,170 --> 00:04:16,310
+where you have almost equal
+altitude and then when
+
+73
+00:04:16,310 --> 00:04:20,210
+that happens the complex
+gets large enough that they
+
+74
+00:04:20,210 --> 00:04:24,040
+actually precipitate so
+this used to be the way one
+
+75
+00:04:24,730 --> 00:04:27,990
+of the old ways to actually
+determine the concentration
+
+76
+00:04:27,990 --> 00:04:31,030
+of antibodies to figure
+out how much a person has
+
+77
+00:04:31,030 --> 00:04:34,470
+antibodies now we have of
+course different techniques
+
+78
+00:04:34,470 --> 00:04:37,330
+and better techniques
+that can help us with that
+
+79
+00:04:39,130 --> 00:04:41,740
+other injured antibody
+reactions we see are
+
+80
+00:04:41,740 --> 00:04:46,800
+agglutination or sometimes
+called cross-linking people
+
+81
+00:04:46,970 --> 00:04:49,950
+sometimes call it clumping
+but be careful that terms
+
+82
+00:04:49,950 --> 00:04:54,590
+not very accurate so an
+agglutinated reaction
+
+83
+00:04:54,590 --> 00:04:59,070
+typically involves the large
+antibodies, IgM or IgA.
+
+84
+00:04:59,400 --> 00:05:02,440
+They have to be, you know,
+the IgM is a pentamer,
+
+85
+00:05:03,190 --> 00:05:06,350
+IgG, I'm sorry, IgA is
+a dimer, and they have
+
+86
+00:05:06,350 --> 00:05:08,690
+the ability to bind,
+basically, when they bind to
+
+87
+00:05:08,690 --> 00:05:11,670
+epitopes on different
+antigens, they bring these
+
+88
+00:05:11,670 --> 00:05:13,890
+antigens together.
+There's a picture on the
+
+89
+00:05:13,890 --> 00:05:18,010
+right side there top showing
+you how, for example,
+
+90
+00:05:18,310 --> 00:05:20,730
+agglutination reactions
+can cross-link red blood
+
+91
+00:05:20,730 --> 00:05:23,130
+cells, and then you can
+actually see a precipitate.
+
+92
+00:05:23,130 --> 00:05:26,670
+That's how we do an typing
+of blood when you add
+
+93
+00:05:26,670 --> 00:05:30,290
+MTA, MTAB and figure out
+the person's blood type,
+
+94
+00:05:30,290 --> 00:05:34,130
+basically you see an actual
+agglutination reaction
+
+95
+00:05:34,130 --> 00:05:37,190
+that you can use in concede
+with your ***** eye.
+
+96
+00:05:38,190 --> 00:05:43,870
+Neutralization mainly
+occurs by IgG but it can
+
+97
+00:05:43,870 --> 00:05:46,110
+also be done by IgA and
+they're both effective
+
+98
+00:05:46,110 --> 00:05:48,550
+at it and that basically
+they bind to a molecule
+
+99
+00:05:48,550 --> 00:05:51,190
+and neutralize it such
+as a virus preventing
+
+100
+00:05:51,190 --> 00:05:54,150
+it from binding to our
+receptors for example.
+
+101
+00:05:54,570 --> 00:05:56,690
+a lot of times this is
+kind of like the gold
+
+102
+00:05:56,690 --> 00:05:59,180
+of immunity you've probably
+heard of neutralizing
+
+103
+00:06:00,480 --> 00:06:02,430
+antibodies and so these
+are antibodies that
+
+104
+00:06:02,430 --> 00:06:05,530
+would neutralize other
+substances like viruses
+
+105
+00:06:06,310 --> 00:06:10,720
+and last but not least
+antibody reactions may involve
+
+106
+00:06:10,720 --> 00:06:13,230
+opsonization in this
+case the antibody is not
+
+107
+00:06:13,230 --> 00:06:18,000
+neutralizing the substance or
+agglutinating it but instead
+
+108
+00:06:18,000 --> 00:06:21,190
+tagging it to be destroyed
+in my other cell that's
+
+109
+00:06:21,190 --> 00:06:23,390
+referred to as opsonization
+so this is membranes
+
+110
+00:06:23,390 --> 00:06:26,550
+was similar to how complement
+is very effective at
+
+111
+00:06:26,550 --> 00:06:30,510
+doing that, that we talked
+about in the last lecture.
+
+112
+00:06:33,110 --> 00:06:36,530
+Let's discuss the structure
+of immunoglobulins, organ
+
+113
+00:06:36,530 --> 00:06:39,950
+or antibodies. All immunoglobulins
+are made out of four
+
+114
+00:06:39,950 --> 00:06:44,150
+large polypeptides. There
+are two pretty big ones
+
+115
+00:06:44,150 --> 00:06:46,550
+and those are called the heavy
+chain and two lighter ones
+
+116
+00:06:46,550 --> 00:06:49,230
+which are called the
+light chains and those are
+
+117
+00:06:49,230 --> 00:06:54,930
+typically joined by disulfide
+bonds based on the antibody
+
+118
+00:06:55,040 --> 00:06:58,570
+heavy chain we actually
+have five different antibody
+
+119
+00:06:58,570 --> 00:07:02,190
+isotypes so these are
+the antibody isotypes you
+
+120
+00:07:02,190 --> 00:07:05,730
+see right here mu gamma
+alpha delta and epsilon
+
+121
+00:07:05,730 --> 00:07:08,490
+and those correspond
+different type of antibodies.
+
+122
+00:07:08,610 --> 00:07:14,450
+For example, mu is IgM,
+gamma is IgG, alpha
+
+123
+00:07:14,450 --> 00:07:20,750
+is IgA, delta is IgD,
+and epsilon is IgE.
+
+124
+00:07:22,170 --> 00:07:26,030
+There's also one
+convenient way to set to
+
+125
+00:07:26,030 --> 00:07:28,610
+distinguish among
+antibodies or different
+
+126
+00:07:29,210 --> 00:07:32,830
+sections of the antibody
+molecule is by digesting it
+
+127
+00:07:32,830 --> 00:07:36,990
+with the protease called
+Papin. Papin digestion splits
+
+128
+00:07:36,990 --> 00:07:39,890
+the antibody into the FAV
+portion and that's the portion
+
+129
+00:07:39,890 --> 00:07:44,030
+that has the antibody
+binding fragment and the FC
+
+130
+00:07:44,030 --> 00:07:47,290
+portion which contains the
+constant region so what's
+
+131
+00:07:47,290 --> 00:07:51,570
+the constant region versus
+the antibody binding fragment
+
+132
+00:07:51,570 --> 00:07:55,230
+so if you see the antibody
+also has what's called
+
+133
+00:07:55,230 --> 00:07:59,690
+the variable region that's
+the region basically on on
+
+134
+00:07:59,690 --> 00:08:02,510
+top where the light chain is
+and the heavy chain that's
+
+135
+00:08:02,510 --> 00:08:06,120
+where it binds the epitope
+but on the other hand the
+
+136
+00:08:06,170 --> 00:08:10,550
+big chunk of that heavy chain
+is usually mostly constant
+
+137
+00:08:10,550 --> 00:08:13,530
+it doesn't really change
+between antibody another
+
+138
+00:08:13,530 --> 00:08:17,370
+unless it's a different ice
+type but the variable origin
+
+139
+00:08:17,370 --> 00:08:20,430
+always changes because
+that's gonna depend on the
+
+140
+00:08:20,430 --> 00:08:24,250
+epitope it it binds to it
+so anyway the papindigestion
+
+141
+00:08:24,250 --> 00:08:27,570
+sometimes you know gives us
+these feb and fd portions
+
+142
+00:08:27,570 --> 00:08:31,710
+and you when we talk about
+phagocytes binding to the
+
+143
+00:08:31,710 --> 00:08:33,990
+FC portion, we're referring
+to phagocytes binding to
+
+144
+00:08:33,990 --> 00:08:38,270
+the to the constant region
+basically of the antibody.
+
+145
+00:08:40,170 --> 00:08:42,910
+Let's talk about
+different antibodies.
+
+146
+00:08:43,670 --> 00:08:46,050
+So the first one we'll
+talk about is IgM. So
+
+147
+00:08:46,050 --> 00:08:49,930
+IgM is the Mu isotype,
+like we discussed
+
+148
+00:08:49,930 --> 00:08:52,530
+before, as you can see on
+the figure on the right
+
+149
+00:08:52,530 --> 00:08:55,730
+side. It's a pentamer,
+it's a five-membered
+
+150
+00:08:56,250 --> 00:08:57,330
+structure,
+
+151
+00:08:57,610 --> 00:09:00,190
+all joined by disulfide
+bonds. So it's the
+
+152
+00:09:00,190 --> 00:09:02,970
+largest antibody. It's
+secreted in plasma
+
+153
+00:09:03,650 --> 00:09:06,990
+and usually secreted
+as part of the
+
+154
+00:09:06,990 --> 00:09:11,050
+primary adaptive immune
+response. Afterwards
+
+155
+00:09:11,050 --> 00:09:13,850
+IgM usually wanes
+and IgG take place.
+
+156
+00:09:14,450 --> 00:09:17,730
+Sometimes we find
+IgM as a monomer on
+
+157
+00:09:17,730 --> 00:09:20,230
+B cell surface, but
+that's more rare.
+
+158
+00:09:20,530 --> 00:09:22,990
+This is the antibody
+responsible for the egg
+
+159
+00:09:22,990 --> 00:09:25,930
+alternation reaction
+because it has the ability
+
+160
+00:09:25,930 --> 00:09:29,450
+to cross-link multiple
+antigens and has also
+
+161
+00:09:29,450 --> 00:09:31,990
+the ability to immobilize
+them because once
+
+162
+00:09:32,550 --> 00:09:35,550
+cross-linking of these
+antigens take place in
+
+163
+00:09:35,550 --> 00:09:39,370
+this large antibody, the
+complex becomes so big
+
+164
+00:09:39,370 --> 00:09:42,650
+that it cannot really
+move properly in the body.
+
+165
+00:09:42,770 --> 00:09:46,850
+It's also very good at
+complement fixation because of
+
+166
+00:09:46,850 --> 00:09:52,030
+the multiple FC fragments
+you know this case five and
+
+167
+00:09:52,030 --> 00:09:53,870
+it makes sense because it's
+one of the first antibodies
+
+168
+00:09:53,870 --> 00:09:56,120
+that are made so it's good
+to have complement working
+
+169
+00:09:56,120 --> 00:09:58,950
+that way and of course
+because of its huge size it
+
+170
+00:09:58,950 --> 00:10:03,410
+cannot cross the placenta
+next antibody we'll talk about
+
+171
+00:10:03,410 --> 00:10:07,550
+is IGD which is the isotype
+delta this is a monomeric
+
+172
+00:10:07,550 --> 00:10:12,630
+antibody and it's predominantly
+the B cell receptor of
+
+173
+00:10:12,630 --> 00:10:14,910
+course it's important
+because that's how the b cell
+
+174
+00:10:15,490 --> 00:10:19,390
+recognizes an epitope and this
+is how the antigen selects
+
+175
+00:10:19,390 --> 00:10:22,770
+for the correct b cells
+by specifically binding to
+
+176
+00:10:22,770 --> 00:10:27,810
+these structural antibodies
+igd and then of course they
+
+177
+00:10:27,810 --> 00:10:30,650
+differentiate the plasma
+cells and make the same exact
+
+178
+00:10:30,650 --> 00:10:35,090
+type of antibody. IgM first,
+then an IgG afterwards.
+
+179
+00:10:37,650 --> 00:10:40,790
+IgG, or crizotype
+gamma, is probably
+
+180
+00:10:40,790 --> 00:10:43,610
+the most common
+antibody in serum.
+
+181
+00:10:44,590 --> 00:10:48,130
+It's a monomer usually,
+can be found both on
+
+182
+00:10:48,130 --> 00:10:52,350
+the surface of B cells,
+but it's mostly secreted.
+
+183
+00:10:52,350 --> 00:10:55,190
+It is the second
+antibody that's released
+
+184
+00:10:55,190 --> 00:10:57,690
+during the adaptomy response,
+so that would be your
+
+185
+00:10:58,540 --> 00:11:00,870
+secondary, so you have
+the primary immune
+
+186
+00:11:00,870 --> 00:11:02,750
+response, but then the
+secondary immune response,
+
+187
+00:11:03,110 --> 00:11:07,750
+IgG starts to rise, has
+the ability to neutralize,
+
+188
+00:11:07,750 --> 00:11:10,650
+has the ability to
+opsonize and activate
+
+189
+00:11:10,650 --> 00:11:13,710
+complement. It's also involved
+in some hypersensitivity
+
+190
+00:11:13,710 --> 00:11:17,090
+reaction and antibody
+-dependent cell
+
+191
+00:11:17,090 --> 00:11:21,130
+mediated cytotoxicity.
+So basically when IgG can
+
+192
+00:11:21,130 --> 00:11:23,750
+actually bind to a certain
+cell, it can label it
+
+193
+00:11:23,750 --> 00:11:27,590
+for killing. And we'll
+talk about that reaction
+
+194
+00:11:27,730 --> 00:11:29,830
+at the end of this
+lecture. It's also
+
+195
+00:11:29,830 --> 00:11:32,310
+the antibody that
+crosses the placenta.
+
+196
+00:11:32,530 --> 00:11:35,730
+Again, very versatile,
+very important antibody,
+
+197
+00:11:35,730 --> 00:11:39,250
+and typically when it's
+detected it suggests that
+
+198
+00:11:39,350 --> 00:11:42,590
+immunity has been established
+through an infection.
+
+199
+00:11:43,150 --> 00:11:47,790
+IGA, the isotype alpha,
+is a monomer also found in
+
+200
+00:11:47,790 --> 00:11:50,910
+serum but it's also found
+as a dimer in secretions
+
+201
+00:11:50,910 --> 00:11:53,630
+throughout the body like
+milk, tears, saliva,
+
+202
+00:11:53,630 --> 00:11:57,510
+mucous membranes, of course
+a part of the malt, the
+
+203
+00:11:57,510 --> 00:12:01,710
+mucosal associated lymphoid
+tissue. It's the most
+
+204
+00:12:01,710 --> 00:12:04,410
+antibody produced daily
+constantly being shed
+
+205
+00:12:04,490 --> 00:12:08,030
+and of course very important
+in protecting us from
+
+206
+00:12:08,820 --> 00:12:10,570
+pathogens, has the ability to
+
+207
+00:12:10,570 --> 00:12:13,810
+neutralize, block
+viral entry, etc.
+
+208
+00:12:18,390 --> 00:12:22,030
+IGE with the isotype
+epsilon is actually the
+
+209
+00:12:22,030 --> 00:12:25,430
+lowest one in serum.
+It's a monomer and it's
+
+210
+00:12:25,430 --> 00:12:28,350
+typically absorbed on
+mast cells in eosinophils
+
+211
+00:12:28,350 --> 00:12:31,650
+and it causes the
+release of histamine and
+
+212
+00:12:31,650 --> 00:12:34,190
+also activates eosinophils
+to attack worms.
+
+213
+00:12:35,410 --> 00:12:38,310
+So in that regard it's
+effective but it's
+
+214
+00:12:38,310 --> 00:12:41,090
+also involved in allergic
+reactions are basically
+
+215
+00:12:41,090 --> 00:12:45,650
+type 1 hypersensitivities,
+specifically
+
+216
+00:12:45,650 --> 00:12:48,510
+the immediate type,
+also sometimes called.
+
+217
+00:12:49,910 --> 00:12:52,150
+And we'll discuss these
+and we discussed those
+
+218
+00:12:52,150 --> 00:12:54,850
+last semester too, so
+we'll be able to go back
+
+219
+00:12:54,850 --> 00:12:58,210
+and revisit this topic
+because of its importance.
+
+220
+00:13:14,860 --> 00:13:17,640
+We have discussed and
+talked a little bit about
+
+221
+00:13:17,640 --> 00:13:20,160
+what's called antibody
+-dependent cell mediated
+
+222
+00:13:20,160 --> 00:13:22,400
+cytotoxicity. This can
+happen, by the way,
+
+223
+00:13:22,460 --> 00:13:26,060
+predominantly by IgG, but
+IgM can also do this too,
+
+224
+00:13:26,570 --> 00:13:28,200
+but to a lesser extent.
+
+225
+00:13:28,380 --> 00:13:31,800
+And so typically antibody
+can tag bacteria, parasites,
+
+226
+00:13:31,860 --> 00:13:35,680
+worms, etc., which can
+attract natural killer cells.
+
+227
+00:13:35,680 --> 00:13:37,940
+And we talked about natural
+killer cells in the last
+
+228
+00:13:37,940 --> 00:13:40,820
+lecture, the innate, and
+how they display both CAR
+
+229
+00:13:40,820 --> 00:13:45,900
+and CAR receptors to detect
+and be able to kill pathogens
+
+230
+00:13:45,900 --> 00:13:49,200
+or our own cells if they
+are infected by a virus.
+
+231
+00:13:49,200 --> 00:13:52,640
+and eosinofils can also
+mediate interaction. This is
+
+232
+00:13:52,640 --> 00:13:57,800
+an important mechanism to
+clear pathogens of our body.
+
+233
+00:14:01,040 --> 00:14:03,640
+In the next three slides
+we're going to discuss the
+
+234
+00:14:03,640 --> 00:14:07,240
+hypersensitivities that are
+antibody mediated, basically
+
+235
+00:14:07,240 --> 00:14:10,480
+type 1, type 2 and type
+3. Type 4 we'll talk later
+
+236
+00:14:10,480 --> 00:14:13,100
+because type 4 is not antibody
+mediated as you already
+
+237
+00:14:13,100 --> 00:14:16,240
+know, it's cell mediated.
+So that we'll discuss later.
+
+238
+00:14:16,540 --> 00:14:19,820
+So hypersensitivities as
+sometimes we collectively
+
+239
+00:14:19,820 --> 00:14:27,040
+call them in layman words
+other allergies but the word
+
+240
+00:14:27,060 --> 00:14:29,620
+hypersensitivity as i
+emphasize to you guys is the
+
+241
+00:14:29,620 --> 00:14:34,180
+correct immunological and
+medical term but of course
+
+242
+00:14:34,180 --> 00:14:36,500
+as you talk to patients
+you have to explain it in
+
+243
+00:14:36,500 --> 00:14:40,580
+terms of allergies either way
+type one is also sometimes
+
+244
+00:14:40,580 --> 00:14:43,160
+called immediate
+hypersensitivity and that term
+
+245
+00:14:43,160 --> 00:14:46,420
+comes because it can happen
+almost instantly once the
+
+246
+00:14:46,420 --> 00:14:49,460
+person has been primed
+already. It's IgE mediated,
+
+247
+00:14:49,460 --> 00:14:53,020
+mainly IgE sensitized, and
+it detects an epitope on
+
+248
+00:14:53,020 --> 00:14:56,160
+an allergen and then mast
+cells and piocerophils are
+
+249
+00:14:56,160 --> 00:14:59,200
+activated which produce
+tons of histamine and we end
+
+250
+00:14:59,200 --> 00:15:02,710
+up with the classical
+reactions you know anaphylaxis
+
+251
+00:15:03,380 --> 00:15:05,860
+could possibly become
+anaphylaxis but not always.
+
+252
+00:15:06,620 --> 00:15:09,880
+And that's a that's a type
+1 hypersensitivity. Again,
+
+253
+00:15:10,020 --> 00:15:12,040
+I have to be primed
+which means there
+
+254
+00:15:12,040 --> 00:15:14,600
+needs to be memory
+cells to produce IgE.
+
+255
+00:15:14,600 --> 00:15:16,480
+You just cannot be
+from the first time.
+
+256
+00:15:19,720 --> 00:15:23,140
+So we've discussed how antibody
+-dependent cell mediated
+
+257
+00:15:23,140 --> 00:15:26,360
+cytotoxicity, especially
+directed against infected
+
+258
+00:15:26,360 --> 00:15:29,580
+cells, bacteria and
+parasites, is very effective
+
+259
+00:15:29,580 --> 00:15:32,300
+and part of the normal
+neural response. But at the
+
+260
+00:15:32,300 --> 00:15:35,320
+same time it can develop
+into a hypersensitivity, a
+
+261
+00:15:35,320 --> 00:15:39,140
+type 2 hypersensitivity if
+it's directed at our own
+
+262
+00:15:39,140 --> 00:15:43,500
+healthy cells. And so
+typically it's an IgM-IgG
+
+263
+00:15:43,500 --> 00:15:47,480
+interaction, especially towards
+cell membranes or matrix,
+
+264
+00:15:47,560 --> 00:15:52,500
+usually complement natural
+killer cells involved.
+
+265
+00:15:54,360 --> 00:15:56,300
+Examples of that would
+be like a hemolytic
+
+266
+00:15:56,300 --> 00:15:58,640
+anemia that happens
+from mismatch.
+
+267
+00:15:59,000 --> 00:16:02,340
+Somebody given a transfusion,
+let's say, which is
+
+268
+00:16:02,340 --> 00:16:07,160
+an incompatible blood
+type, you end up binding of
+
+269
+00:16:07,160 --> 00:16:10,560
+antibodies to like basement
+membranes resulting in
+
+270
+00:16:10,560 --> 00:16:14,380
+inflammation and death and
+necrosis and tissue injury.
+
+271
+00:16:15,280 --> 00:16:17,560
+Another example
+of that is Gravis
+
+272
+00:16:17,560 --> 00:16:20,680
+disease and last
+thing is Gravis.
+
+273
+00:16:20,680 --> 00:16:23,400
+Also rheumatic
+fever is considered
+
+274
+00:16:23,400 --> 00:16:25,100
+a type 2 hypersensitivity.
+
+275
+00:16:30,280 --> 00:16:33,900
+Type 3 hypersensitivity
+is typically when we have
+
+276
+00:16:33,900 --> 00:16:37,340
+a lot of immune complexes
+that are circulating.
+
+277
+00:16:38,740 --> 00:16:43,060
+Typically lots of antigen
+-antibody complexes. A lot of
+
+278
+00:16:43,060 --> 00:16:46,700
+times it's pretty much
+mediated by IgG and these
+
+279
+00:16:46,700 --> 00:16:53,540
+complexes can deposit in blood
+vessels causing vasculitis.
+
+280
+00:16:53,900 --> 00:16:57,020
+These type of reactions
+can be either localized and
+
+281
+00:16:57,020 --> 00:16:59,700
+in that case it's referred
+to as Arthas reaction.
+
+282
+00:16:59,880 --> 00:17:03,020
+Usually you have like an
+abscess or necrotizing
+
+283
+00:17:03,020 --> 00:17:07,340
+vasculitis or it can be a
+systemic type of reaction in the
+
+284
+00:17:07,340 --> 00:17:10,100
+case of systemic it's
+usually referred to as serum
+
+285
+00:17:10,100 --> 00:17:14,680
+sickness this terminology
+dates back to the times when
+
+286
+00:17:14,680 --> 00:17:17,680
+people used to use convalescent
+plasma which is you
+
+287
+00:17:17,680 --> 00:17:20,820
+know currently used for
+sometimes COVID treatment and
+
+288
+00:17:20,820 --> 00:17:26,760
+these plasmas can cause a
+reaction usually like for
+
+289
+00:17:26,760 --> 00:17:31,820
+example taking horse serum
+injecting into a human we end
+
+290
+00:17:31,820 --> 00:17:35,700
+up reacting to the foreign
+serum or foreign antibodies,
+
+291
+00:17:35,700 --> 00:17:39,820
+like antibodies for another
+animal, and that results
+
+292
+00:17:39,820 --> 00:17:43,200
+in serum sickness. So again,
+it could be exogenous,
+
+293
+00:17:43,200 --> 00:17:46,600
+non-human antibodies, or
+drug-induced, like penicillin
+
+294
+00:17:46,600 --> 00:17:50,040
+can do this, or endogenous,
+like systemic lupus,
+
+295
+00:17:50,180 --> 00:17:52,940
+erythromatosis, or
+sometimes it's called lupus.
+
+296
+00:17:54,800 --> 00:17:57,680
+We just discussed
+the antibody-mediated
+
+297
+00:17:57,680 --> 00:18:00,650
+hypersensitivities. There's
+still one more type, type 4
+
+298
+00:18:00,650 --> 00:18:03,300
+which is cell mediated
+and we'll talk about that
+
+299
+00:18:03,300 --> 00:18:06,320
+after we discuss the cell
+mediating your response.
+
+300
+00:18:06,320 --> 00:18:08,700
+We'll switch gears a
+little bit and talk about
+
+301
+00:18:08,700 --> 00:18:12,060
+MHC molecules and the
+role in adaptive immunity.
+
+302
+00:18:12,500 --> 00:18:17,000
+So MHC molecules are
+basically the same terminology
+
+303
+00:18:17,000 --> 00:18:19,180
+as human leukocyte
+antigen, or at least in
+
+304
+00:18:19,180 --> 00:18:22,280
+humans we call them human
+leukocyte antigens. MHC
+
+305
+00:18:22,280 --> 00:18:24,720
+molecules are found in
+all animals including
+
+306
+00:18:24,720 --> 00:18:28,180
+humans. There are mainly
+three types, MHC class 1,
+
+307
+00:18:28,340 --> 00:18:31,300
+MHC class 2, and MHC
+class 3. The class 3
+
+308
+00:18:31,300 --> 00:18:33,560
+are basically the
+complement. Code for some
+
+309
+00:18:33,560 --> 00:18:35,600
+of the complement
+components are focused on
+
+310
+00:18:35,600 --> 00:18:39,040
+the B-more in MHC class
+1 and MHC class 2.
+
+311
+00:18:45,160 --> 00:18:48,560
+MHC class 1 is found
+on all nucleated cells,
+
+312
+00:18:49,320 --> 00:18:51,440
+for example. So you don't
+see them on red blood
+
+313
+00:18:51,440 --> 00:18:53,480
+cells because red blood
+cells are not nucleated,
+
+314
+00:18:53,480 --> 00:18:55,880
+but all cells with the
+nuclei in the body will have
+
+315
+00:18:55,880 --> 00:18:58,220
+MHC class 1. So it's easy
+to remember that, they
+
+316
+00:18:58,220 --> 00:19:00,600
+were everywhere basically
+all of our cells have
+
+317
+00:19:00,600 --> 00:19:04,120
+to display msc class one
+basically to report whether
+
+318
+00:19:04,120 --> 00:19:06,580
+they're not uh are viral
+infected or they have
+
+319
+00:19:06,580 --> 00:19:08,840
+tumors or to simply make
+sure that they are self
+
+320
+00:19:08,840 --> 00:19:11,700
+so there's one way we can
+recognize that ours this
+
+321
+00:19:11,700 --> 00:19:14,880
+is our cell versus this
+is a foreign substance
+
+322
+00:19:15,760 --> 00:19:20,280
+again coded by hla a b z
+um you know there's almost
+
+323
+00:19:20,280 --> 00:19:23,120
+like a hundred alleles
+on each locus gives rise
+
+324
+00:19:23,120 --> 00:19:27,780
+to many different combinations
+and it is important
+
+325
+00:19:27,780 --> 00:19:31,820
+when we have transplants
+or from one person to
+
+326
+00:19:31,820 --> 00:19:34,980
+another let's say organ
+that the MHCs especially the
+
+327
+00:19:34,980 --> 00:19:38,560
+MHC1s are compatible or
+at least as compatible as
+
+328
+00:19:38,560 --> 00:19:42,460
+they can be to to prevent
+you know graft rejection.
+
+329
+00:19:42,680 --> 00:19:47,340
+MHC class IIs on the
+other hand are only and
+
+330
+00:19:47,340 --> 00:19:50,160
+mainly expressed on
+antigen presenting cells
+
+331
+00:19:50,160 --> 00:19:52,060
+you know there would
+be some like dendritic
+
+332
+00:19:52,060 --> 00:19:54,560
+cells and macrophages,
+but you'll only
+
+333
+00:19:54,560 --> 00:19:56,780
+find them, you'll also
+find them on B cells,
+
+334
+00:19:56,900 --> 00:19:59,760
+some activated T cells,
+and if you remember these
+
+335
+00:19:59,760 --> 00:20:02,920
+specialized epithelial,
+thymic epithelial cells,
+
+336
+00:20:02,980 --> 00:20:07,220
+that actually involved
+in, you know, negative and
+
+337
+00:20:07,220 --> 00:20:11,060
+positive selection or
+education of thymocytes,
+
+338
+00:20:11,060 --> 00:20:14,160
+if you recall from the
+histology lecture of last
+
+339
+00:20:14,160 --> 00:20:16,980
+semester. Again, what do
+those do? They are involved in
+
+340
+00:20:16,980 --> 00:20:19,400
+antigen presentation. Very
+important step. You cannot
+
+341
+00:20:19,400 --> 00:20:23,720
+activate the adaptive immune
+response or specifically
+
+342
+00:20:23,720 --> 00:20:27,220
+the T helper cell without
+an antigen presenting cell
+
+343
+00:20:27,220 --> 00:20:30,860
+presenting that foreign
+antigen on the MHC class 2.
+
+344
+00:20:32,380 --> 00:20:35,700
+So we have discussed the
+MHC class 1 molecule. Let's
+
+345
+00:20:35,700 --> 00:20:38,380
+turn and talk a little bit
+about the T cell receptor.
+
+346
+00:20:38,420 --> 00:20:42,260
+A very important receptor,
+of course, it's crucial for
+
+347
+00:20:42,700 --> 00:20:45,660
+T cell recognition,
+interaction with antigen,
+
+348
+00:20:49,200 --> 00:20:53,130
+activation. The T cell
+receptor is a heterodimer.
+
+349
+00:20:53,130 --> 00:20:55,340
+It's made up of two
+molecules that are different.
+
+350
+00:20:55,380 --> 00:20:58,720
+The most common type of T
+cell receptor is the alpha
+
+351
+00:20:58,720 --> 00:21:02,300
+beta type. There's also the
+lesser common gamma delta.
+
+352
+00:21:03,020 --> 00:21:06,360
+Usually the T cell receptor
+is not alone on the surface.
+
+353
+00:21:06,360 --> 00:21:10,620
+It's typically associated
+with the CD3 and costage
+
+354
+00:21:10,620 --> 00:21:13,780
+differentiation, which helps
+with signal transduction.
+
+355
+00:21:14,790 --> 00:21:17,120
+Very important thing
+about the T cell receptor
+
+356
+00:21:17,120 --> 00:21:22,360
+is that it's restricted
+to MHC. It has to bind
+
+357
+00:21:22,540 --> 00:21:26,540
+fragments on either MHC
+class 1 or MHC class
+
+358
+00:21:26,540 --> 00:21:29,260
+2. Without that, there's
+really no interaction.
+
+359
+00:21:29,260 --> 00:21:32,880
+So a T cell receptor cannot
+engage antigen by itself.
+
+360
+00:21:33,340 --> 00:21:37,240
+If it's the... and
+again, And in addition to
+
+361
+00:21:37,240 --> 00:21:40,940
+that, there are also
+either a CD4 receptor, and
+
+362
+00:21:40,940 --> 00:21:43,680
+that's in the case of T
+helper cells, or a CD8
+
+363
+00:21:43,680 --> 00:21:47,600
+receptor, that is in the
+case of T cytotoxic cells.
+
+364
+00:21:48,000 --> 00:21:50,880
+So typically on the surface
+of a T cell, you would see
+
+365
+00:21:50,880 --> 00:21:55,360
+T cell receptor, CD3, and
+either CD4 and CD8, and
+
+366
+00:21:55,360 --> 00:21:58,460
+those would interact with
+either MHC class 1 or MHC class
+
+367
+00:21:58,460 --> 00:22:02,660
+2. If it's a CD8 T-tyotoxic,
+that's probably MHC
+
+368
+00:22:02,660 --> 00:22:07,460
+class 1. and if it's a t
+-helper it's a CD4 MHC class 2.
+
+369
+00:22:09,400 --> 00:22:11,080
+We talked about these cellular
+
+370
+00:22:11,080 --> 00:22:13,120
+interactions, we
+talked about cytokines,
+
+371
+00:22:13,920 --> 00:22:16,860
+basically those are low
+molecular weight soluble
+
+372
+00:22:16,860 --> 00:22:20,000
+proteins which act as
+messengers and they're prominent
+
+373
+00:22:20,000 --> 00:22:23,240
+in the most common way
+by which different cells
+
+374
+00:22:23,240 --> 00:22:26,500
+communicate in our body.
+We talked about chemokines,
+
+375
+00:22:26,500 --> 00:22:28,980
+they're basically cytokines
+that are chemo-attractant,
+
+376
+00:22:28,980 --> 00:22:34,380
+they basically they allow
+phagocytes to home in and
+
+377
+00:22:34,380 --> 00:22:37,080
+other locusites to a different
+site of inflammation.
+
+378
+00:22:37,080 --> 00:22:38,900
+We talked a little bit
+about integrins and
+
+379
+00:22:38,900 --> 00:22:41,000
+selectins and their
+role in allowing
+
+380
+00:22:41,000 --> 00:22:43,300
+phagocytes to get to the
+site they need to do.
+
+381
+00:22:43,300 --> 00:22:45,360
+And we also talked
+about CD molecules
+
+382
+00:22:45,360 --> 00:22:46,620
+in a cluster differentiation.
+
+383
+00:22:47,520 --> 00:22:50,000
+And a lot of times they
+can help us identify
+
+384
+00:22:50,000 --> 00:22:53,300
+different cells, they can
+indicate the function.
+
+385
+00:22:53,480 --> 00:22:56,380
+There's been lots of CD
+molecules identified.
+
+386
+00:22:57,320 --> 00:23:00,340
+and of course the most
+common ones are like CD3,
+
+387
+00:23:00,340 --> 00:23:04,780
+CD4, CD8, and they were
+common ones we just
+
+388
+00:23:04,780 --> 00:23:06,940
+discussed last semester,
+they were in a table,
+
+389
+00:23:06,940 --> 00:23:09,150
+make sure you hear those,
+I remember you knew
+
+390
+00:23:11,400 --> 00:23:13,700
+some of them, especially
+the ones that identify
+
+391
+00:23:14,320 --> 00:23:16,080
+certain type of cells.
+
+392
+00:23:19,160 --> 00:23:21,700
+Next we're going to talk
+about how the adaptive
+
+393
+00:23:21,700 --> 00:23:24,780
+immune response is
+activated. So that immune
+
+394
+00:23:24,780 --> 00:23:27,320
+response mainly is activated
+through the activation
+
+395
+00:23:27,320 --> 00:23:30,460
+of T helper cells.
+That process is a very
+
+396
+00:23:30,460 --> 00:23:32,840
+time consuming event
+with a lot of checks and
+
+397
+00:23:32,840 --> 00:23:36,340
+balances. It takes a good
+week and a half for that
+
+398
+00:23:36,340 --> 00:23:39,700
+process to take place
+and that's intentional.
+
+399
+00:23:39,840 --> 00:23:42,700
+You don't want the immune
+response or especially that
+
+400
+00:23:42,700 --> 00:23:45,780
+immune response to just
+be activated at a whim. It
+
+401
+00:23:45,780 --> 00:23:48,700
+really has to take a lot
+and ensure that you've
+
+402
+00:23:48,700 --> 00:23:52,900
+exhausted all other potential
+issues such as innate immunity
+
+403
+00:23:52,900 --> 00:23:55,980
+maybe the pathogen has
+been resolved by them so
+
+404
+00:23:56,080 --> 00:23:59,840
+and you know as we discussed
+the main cell that controls
+
+405
+00:23:59,840 --> 00:24:02,260
+and regulates the adaptive
+immune response whether
+
+406
+00:24:02,260 --> 00:24:05,780
+it may be the hemodal or
+the cell mediated is the t
+
+407
+00:24:05,780 --> 00:24:08,680
+helper cell and all the
+subsets that come with that
+
+408
+00:24:09,120 --> 00:24:13,020
+and remember MHC class
+one is required sorry one
+
+409
+00:24:13,020 --> 00:24:15,760
+and two is required for
+lymphocyte activation
+
+410
+00:24:15,880 --> 00:24:18,240
+because the T cell
+receptor is MHC
+
+411
+00:24:18,240 --> 00:24:20,170
+restricted so
+there's no activation
+
+412
+00:24:20,560 --> 00:24:24,940
+of any T cell
+simply by itself. It
+
+413
+00:24:24,940 --> 00:24:27,980
+has to be through
+a MHC molecule.
+
+414
+00:24:31,180 --> 00:24:35,280
+Let's discuss briefly
+MHC class 2 presentation
+
+415
+00:24:35,280 --> 00:24:37,460
+and we'll discuss
+MHC 1 presentation.
+
+416
+00:24:37,780 --> 00:24:41,780
+So with MHC class 2, remember
+MHC molecules are restricted
+
+417
+00:24:41,780 --> 00:24:45,540
+to antigen presenting
+cells only and you know B
+
+418
+00:24:45,540 --> 00:24:48,220
+cells have them too and
+few T cells have them but
+
+419
+00:24:48,220 --> 00:24:51,340
+predominantly it's dendritic
+cells and macrophages dendritic
+
+420
+00:24:51,340 --> 00:24:55,080
+cells seem to be the most
+important regard to antigen
+
+421
+00:24:55,080 --> 00:24:58,360
+presentation they play the
+largest role they act as
+
+422
+00:24:58,360 --> 00:25:02,560
+sentinels by being in lymph
+nodes constantly monitoring
+
+423
+00:25:02,560 --> 00:25:06,450
+lymph for the presence of
+anything funny typically
+
+424
+00:25:07,310 --> 00:25:10,880
+dendritic cells are able
+to phagocytize that engine.
+
+425
+00:25:11,000 --> 00:25:15,040
+It's an actin-dependent.
+When it's processed inside
+
+426
+00:25:15,040 --> 00:25:17,720
+the alendritic cells,
+you know, basically
+
+427
+00:25:17,720 --> 00:25:21,780
+phagosomes use the lysosome.
+You chop it to pieces and
+
+428
+00:25:21,780 --> 00:25:27,270
+then you take that antigen
+and fuse it with MHC
+
+429
+00:25:27,820 --> 00:25:31,240
+class 2 molecule displayed
+on the cell surface which
+
+430
+00:25:31,240 --> 00:25:35,600
+then it can interact
+with the proper, in this
+
+431
+00:25:35,600 --> 00:25:41,260
+case, T helper cell, which
+is RCD4 positive cells.
+
+432
+00:25:41,540 --> 00:25:44,550
+MSC class 2 can display
+both self and non-self
+
+433
+00:25:44,550 --> 00:25:48,680
+and sometimes displaying
+self can lead to
+
+434
+00:25:48,680 --> 00:25:50,880
+tolerance. So remember
+we discussed that earlier
+
+435
+00:25:50,880 --> 00:25:54,780
+last semester where MSC
+class 2 usually is displayed
+
+436
+00:25:54,780 --> 00:25:59,090
+for T cells to help
+them with selection and
+
+437
+00:25:59,090 --> 00:26:03,560
+to mature T cells. and,
+of course, displaying
+
+438
+00:26:03,560 --> 00:26:06,220
+of foreign antigens so
+you can activate them.
+
+439
+00:26:09,860 --> 00:26:13,180
+MFD class 1 presentation is
+processed differently. MFD
+
+440
+00:26:13,180 --> 00:26:15,760
+class 1 is found in all
+nucleated cells in the body.
+
+441
+00:26:15,980 --> 00:26:19,200
+Basically, if there's
+an inside antigen or if
+
+442
+00:26:19,200 --> 00:26:21,300
+there's a foreign substance
+inside the cell or
+
+443
+00:26:21,300 --> 00:26:23,500
+the cell is a tumorous
+cell, any cell in our body
+
+444
+00:26:23,500 --> 00:26:26,580
+will basically take that
+intracetral antigen,
+
+445
+00:26:26,940 --> 00:26:30,080
+which is typically tagged
+with ubiquitin or the
+
+446
+00:26:30,080 --> 00:26:33,420
+protein of ubiquitin. this
+will allow the proteasomes
+
+447
+00:26:33,420 --> 00:26:36,980
+inside the cell to destroy
+it or chop it to pieces
+
+448
+00:26:36,980 --> 00:26:40,340
+which is then sent to
+the endoplasma reticulum
+
+449
+00:26:40,340 --> 00:26:43,280
+and then the Golgi and
+then in the Golgi these
+
+450
+00:26:44,310 --> 00:26:48,820
+antigens are then combined
+with MHC class 1 and then
+
+451
+00:26:48,820 --> 00:26:51,840
+they are displayed on the
+cell surface hoping for
+
+452
+00:26:51,840 --> 00:26:55,260
+of course a T-cell toxic
+cell which is a big positive
+
+453
+00:26:55,260 --> 00:26:59,800
+to recognize it and if it
+is let's say a protein,
+
+454
+00:26:59,800 --> 00:27:04,340
+then death of that cell
+will incur afterwards.
+
+455
+00:27:07,000 --> 00:27:10,240
+As we've said several times
+now, the T helper cell
+
+456
+00:27:10,240 --> 00:27:13,700
+is really the pivotal
+cell when it comes to the
+
+457
+00:27:13,700 --> 00:27:16,420
+adaptive immune response.
+Now this is the reason
+
+458
+00:27:16,420 --> 00:27:19,680
+like a disease like HIV that
+targets the helper cells
+
+459
+00:27:19,680 --> 00:27:22,960
+basically wipes out
+all the adaptive immune
+
+460
+00:27:22,960 --> 00:27:26,820
+response. So T helper cells,
+also known as CD4 positive
+
+461
+00:27:26,820 --> 00:27:31,260
+cells, only recognize
+MHC2 associated antigens.
+
+462
+00:27:31,580 --> 00:27:36,000
+They form the interaction
+between the naive T
+
+463
+00:27:36,000 --> 00:27:38,440
+helper cell and the endogen
+presenting cell like
+
+464
+00:27:38,440 --> 00:27:41,600
+a dendritic cell is referred
+to as the immunological
+
+465
+00:27:41,600 --> 00:27:44,280
+synapse. A picture of
+that is seen on the
+
+466
+00:27:44,280 --> 00:27:47,240
+side here showing how
+the different receptor
+
+467
+00:27:47,240 --> 00:27:50,180
+interaction everything that's
+involved including cell
+
+468
+00:27:50,180 --> 00:27:54,620
+adhesion molecules in
+addition to CD3 and CD28
+
+469
+00:27:56,680 --> 00:27:58,940
+CD80 co-stimulatory signal.
+
+470
+00:27:59,540 --> 00:28:02,000
+So again, notice here
+there's the T cell
+
+471
+00:28:02,000 --> 00:28:05,920
+receptor, usually the
+alpha-beta kind binding to
+
+472
+00:28:05,920 --> 00:28:08,040
+the MHC class II with
+an end in the middle,
+
+473
+00:28:08,480 --> 00:28:11,620
+supporting that as a CD4
+receptor, and in addition
+
+474
+00:28:11,620 --> 00:28:17,040
+to that, CD3 or two CD3
+receptors are associated
+
+475
+00:28:18,520 --> 00:28:22,340
+with T cell receptor, and
+this This requires the co
+
+476
+00:28:22,340 --> 00:28:25,460
+-stimulatory signal. The
+co-stimulatory, the CD28,
+
+477
+00:28:25,780 --> 00:28:28,820
+results in stabilization
+of that synapse.
+
+478
+00:28:28,820 --> 00:28:31,430
+Without that, you're gonna
+have very weak interaction
+
+479
+00:28:31,430 --> 00:28:36,120
+and probably abortion
+of that interaction
+
+480
+00:28:36,200 --> 00:28:39,920
+and that activation,
+or energy, basically.
+
+481
+00:28:39,990 --> 00:28:42,820
+In some cases, it can
+lead to apoptosis, too.
+
+482
+00:28:42,900 --> 00:28:44,960
+Remember, energy for
+a T-cell, meaning if
+
+483
+00:28:44,960 --> 00:28:47,020
+a T-cell becomes numb,
+it does no longer
+
+484
+00:28:47,020 --> 00:28:49,700
+recognize that antigen,
+does not react.
+
+485
+00:28:52,020 --> 00:28:55,680
+The first contact of the
+foreign substance with the
+
+486
+00:28:55,680 --> 00:28:59,700
+T-cell will help prime it,
+and that, of course, involves
+
+487
+00:28:59,700 --> 00:29:02,600
+the production of
+cytokines. Depending on the
+
+488
+00:29:02,600 --> 00:29:05,180
+cytokine, we'll end up with
+different populations of T
+
+489
+00:29:05,180 --> 00:29:12,260
+-cells. The original progenitor
+T-cell becomes then an
+
+490
+00:29:12,260 --> 00:29:14,700
+active T-cell, and it can
+go different ways. It can
+
+491
+00:29:14,700 --> 00:29:18,780
+become a Th1, Th2, or Th17,
+or also the other Th helper
+
+492
+00:29:18,780 --> 00:29:21,200
+cells that we typically
+don't discuss, since there's
+
+493
+00:29:21,200 --> 00:29:24,220
+at least like nine of
+them. But depending on the
+
+494
+00:29:24,420 --> 00:29:27,320
+cytokine profile, which
+they will receive from the
+
+495
+00:29:27,320 --> 00:29:30,780
+antigen presenting cell, they
+will differentiate into these
+
+496
+00:29:30,780 --> 00:29:33,380
+different kinds. A lot of
+times differentiating into
+
+497
+00:29:33,380 --> 00:29:36,180
+one kind inhibits differentiation
+of the other kind.
+
+498
+00:29:37,080 --> 00:29:39,700
+And even when that happens,
+this does not mean that
+
+499
+00:29:39,700 --> 00:29:41,940
+you're always going to
+have that species of cell.
+
+500
+00:29:41,940 --> 00:29:45,460
+These subtypes may change.
+But so let's say if the
+
+501
+00:29:45,460 --> 00:29:48,260
+antigen presenting cell produces
+interferon gamma. Typically
+
+502
+00:29:48,260 --> 00:29:53,220
+the naive T helper cell
+will differentiate into
+
+503
+00:29:53,220 --> 00:29:57,260
+TH1. If it's IL-4, IL-10,
+it'll differentiate to TH2.
+
+504
+00:29:57,260 --> 00:30:00,940
+If it's interleukin-6 or
+transforming growth factor
+
+505
+00:30:00,940 --> 00:30:05,320
+beta, that's T helper 17.
+And these cytokines inhibit
+
+506
+00:30:05,320 --> 00:30:08,840
+the other type of cells.
+For example, interferon
+
+507
+00:30:08,840 --> 00:30:12,440
+gamma inhibits differentiation
+of T helper 2 cells.
+
+508
+00:30:13,460 --> 00:30:16,800
+And you know, there's been
+recently more recognition
+
+509
+00:30:16,800 --> 00:30:20,080
+of the presence of what's
+called memory T cells which
+
+510
+00:30:20,080 --> 00:30:22,920
+have high expression of
+the core receptor and those
+
+511
+00:30:22,920 --> 00:30:26,740
+seem to last in the body and
+confirm immunity down the
+
+512
+00:30:26,740 --> 00:30:30,840
+road similar to memory B
+cells which make antibodies.
+
+513
+00:30:32,760 --> 00:30:37,280
+Let's discuss the T cytotoxic
+
+514
+00:30:37,280 --> 00:30:40,320
+cell activation or CD8 cell.
+
+515
+00:30:40,740 --> 00:30:45,640
+So CD8 cells will recognize
+antigenal MHC class 1. This
+
+516
+00:30:45,640 --> 00:30:49,480
+interaction results in them
+in expressing IL-2 receptor
+
+517
+00:30:49,480 --> 00:30:53,920
+and then once they interact
+with the T helper 1
+
+518
+00:30:53,920 --> 00:30:58,940
+cell, T helper 1 cells will
+produce IL-2 which then binds
+
+519
+00:30:58,940 --> 00:31:02,240
+the IL-2 receptor that's
+been overexpressed in CD8 and
+
+520
+00:31:02,240 --> 00:31:05,460
+this helps with activation
+of that T cytotoxic cell.
+
+521
+00:31:06,940 --> 00:31:09,500
+When that occurs T
+cytotoxic cells will then
+
+522
+00:31:09,500 --> 00:31:13,880
+engage Hd antigen on
+different cells. Usually these
+
+523
+00:31:13,880 --> 00:31:17,380
+are intracellular antigens
+and as a result they
+
+524
+00:31:17,380 --> 00:31:20,160
+recognize that cell as
+being affected. They will
+
+525
+00:31:20,160 --> 00:31:22,780
+produce perforins which
+are proteins that poke
+
+526
+00:31:22,780 --> 00:31:26,200
+holes in that membrane
+of that cell and also
+
+527
+00:31:26,200 --> 00:31:29,600
+produce granzymes which
+actually induce apoptosis.
+
+528
+00:31:30,940 --> 00:31:34,200
+And this is how a T
+cytotoxic cell becomes
+
+529
+00:31:34,200 --> 00:31:37,540
+effectively activated. these
+are toxic cells can also
+
+530
+00:31:37,540 --> 00:31:44,460
+engage you know infected
+cells by themselves too
+
+531
+00:31:45,020 --> 00:31:48,400
+without the need for a T
+helper one cell but that
+
+532
+00:31:48,400 --> 00:31:52,340
+type of side engagement
+so to speak is really much
+
+533
+00:31:52,340 --> 00:31:56,240
+weaker and not as effective
+as within the absence
+
+534
+00:31:56,240 --> 00:32:00,360
+of TH1 activation and
+interleukin 2 release let's
+
+535
+00:32:08,290 --> 00:32:11,670
+talk about B cell activation
+B cell activation similar
+
+536
+00:32:11,670 --> 00:32:15,890
+to T cell toxic cell activation
+can recognize antigen
+
+537
+00:32:15,890 --> 00:32:19,870
+in the association of MHC
+class 2 or the T helper cell
+
+538
+00:32:19,960 --> 00:32:23,530
+or without it. But usually
+it's much more effective
+
+539
+00:32:23,530 --> 00:32:27,830
+in the presence of a TH2 or
+a TH17 cell. So typically
+
+540
+00:32:27,830 --> 00:32:31,850
+what happens is the B cell
+receptor will recognize the
+
+541
+00:32:31,850 --> 00:32:38,010
+antigen using its actual
+B cell receptor and then
+
+542
+00:32:38,010 --> 00:32:43,270
+results in endocytosis of that
+antigen and then the antigen
+
+543
+00:32:43,270 --> 00:32:48,330
+is presented in MHC to a
+CD4 positive cell and this
+
+544
+00:32:48,330 --> 00:32:51,550
+happens with T dependent
+antigens which are typically
+
+545
+00:32:51,550 --> 00:32:54,370
+proteins because proteins
+can be processed that way.
+
+546
+00:32:54,890 --> 00:32:59,770
+Again the B cell can engage
+either a TH2 or a TH17
+
+547
+00:32:59,770 --> 00:33:02,890
+depending on the type of
+pathogen. This results
+
+548
+00:33:02,890 --> 00:33:05,710
+in either reproduction
+of IL-4 in the case of
+
+549
+00:33:05,710 --> 00:33:09,030
+TH2 or IL-6, which is the
+case of TH17, and that
+
+550
+00:33:09,030 --> 00:33:12,970
+will cause the B cell
+to become active and
+
+551
+00:33:12,970 --> 00:33:17,170
+differentiate to a plasma
+cell and produce antibodies.
+
+552
+00:33:18,890 --> 00:33:24,290
+IL, sorry, an immunoglobulin
+E or IgE if it's
+
+553
+00:33:24,290 --> 00:33:29,250
+TH2 or IgG or IgM if it's
+TH17. And some of those
+
+554
+00:33:29,510 --> 00:33:32,350
+differentiated B cells
+will become memory cells,
+
+555
+00:33:32,350 --> 00:33:38,930
+so they can engage with
+antigen down the road.
+
+556
+00:33:39,270 --> 00:33:42,090
+So this is in the case of
+this is the most common
+
+557
+00:33:42,090 --> 00:33:44,230
+type of antigens, protein
+antigens, which are also
+
+558
+00:33:44,230 --> 00:33:47,550
+referred to as T-dependent
+antigens. But B cells can
+
+559
+00:33:47,550 --> 00:33:50,830
+also engage what's called
+T-independent antigens. A
+
+560
+00:33:50,830 --> 00:33:54,810
+lot of these are polysaccharides
+or lipid in nature.
+
+561
+00:33:54,810 --> 00:33:56,790
+So those antigens are not
+typically processed the
+
+562
+00:33:56,790 --> 00:34:00,290
+same way inside cells and
+so but at the same time we
+
+563
+00:34:00,290 --> 00:34:02,050
+have to respond to them
+because they are foreign
+
+564
+00:34:02,050 --> 00:34:05,970
+antigens. So how do we do
+that? We have basically B cells
+
+565
+00:34:05,970 --> 00:34:08,290
+that can do without the
+help of T helper cells,
+
+566
+00:34:08,290 --> 00:34:11,370
+and those are referred to
+as T independent antigens.
+
+567
+00:34:11,570 --> 00:34:13,770
+They can be either subdivided
+
+568
+00:34:14,690 --> 00:34:17,730
+the T1 or T2. The T1s are
+
+569
+00:34:19,310 --> 00:34:23,310
+pretty much like LPS.
+These are very effective,
+
+570
+00:34:23,490 --> 00:34:26,270
+what's called B cell
+mitogens. These are
+
+571
+00:34:26,550 --> 00:34:29,890
+super activator of B cells.
+They can activate them
+
+572
+00:34:31,110 --> 00:34:34,270
+by binding to receptors
+other than the B cell
+
+573
+00:34:34,270 --> 00:34:37,150
+receptor and they're
+very strong activators.
+
+574
+00:34:37,230 --> 00:34:41,620
+And then we have T2
+antigens and those are the
+
+575
+00:34:41,620 --> 00:34:45,170
+polysaccharides or the lipids
+and they basically only stimulate
+
+576
+00:34:45,170 --> 00:34:48,850
+mature B cells. And to clear
+those antigens of course
+
+577
+00:34:48,850 --> 00:34:52,770
+you also need complement
+and so on to help. So those
+
+578
+00:34:52,770 --> 00:34:55,810
+would be T2 and T should
+be something like capsules.
+
+579
+00:34:56,770 --> 00:34:57,930
+So terminology
+
+580
+00:35:06,840 --> 00:35:10,440
+we've used many times
+before. We basically divide
+
+581
+00:35:10,440 --> 00:35:13,400
+the adaptive immune
+response into two arms,
+
+582
+00:35:13,400 --> 00:35:16,480
+the heomodal and the
+cell mediated. The cell
+
+583
+00:35:16,480 --> 00:35:19,060
+mediated immune response
+is usually specifically
+
+584
+00:35:19,060 --> 00:35:22,740
+designed to address
+intracellular pathogens.
+
+585
+00:35:23,400 --> 00:35:26,180
+Pathogens basically or
+whenever the pathogen is
+
+586
+00:35:26,180 --> 00:35:29,360
+found inside the cell and
+those are also responsible
+
+587
+00:35:29,360 --> 00:35:32,280
+for type 4 hypersensitivities
+while the hemoral
+
+588
+00:35:32,280 --> 00:35:36,220
+immune response mediates
+itself through the production
+
+589
+00:35:36,220 --> 00:35:39,780
+of antibodies and that's
+predominantly to against
+
+590
+00:35:39,780 --> 00:35:42,240
+exocerebral pathogens or
+whatever that pathogen
+
+591
+00:35:42,240 --> 00:35:45,310
+is on the outside of
+the cell and those are
+
+592
+00:35:45,310 --> 00:35:48,320
+responsible like we talked
+already and discussed in this
+
+593
+00:35:48,320 --> 00:35:51,250
+lecture for type 1, 2
+and 3 hypersensitivities.
+
+594
+00:35:51,800 --> 00:35:55,740
+Now this distinction
+between exocerebral pathogen
+
+595
+00:35:55,740 --> 00:35:57,540
+intercellular pathogen is
+important but sometimes
+
+596
+00:35:57,540 --> 00:36:00,060
+you heard me say if
+it's on the outside if
+
+597
+00:36:00,060 --> 00:36:01,880
+it's on the inside and
+what i mean by that is
+
+598
+00:36:01,880 --> 00:36:04,900
+viruses by definition are
+intercellular pathogens
+
+599
+00:36:05,040 --> 00:36:08,200
+but when a virus kills a
+cell and comes to the outside
+
+600
+00:36:08,200 --> 00:36:11,440
+it has to go in mind to
+another cell in that transition
+
+601
+00:36:11,440 --> 00:36:14,840
+it is on the outside so
+that means that virus can
+
+602
+00:36:14,840 --> 00:36:17,620
+be blocked by an antibody
+so in other words even
+
+603
+00:36:17,620 --> 00:36:21,160
+classic intercellular pathogens
+at some point of their
+
+604
+00:36:21,430 --> 00:36:24,860
+life cycle they spend time
+outside in the excess cellular
+
+605
+00:36:24,860 --> 00:36:27,460
+space and then you they
+could be targeted that way
+
+606
+00:36:27,720 --> 00:36:30,600
+um you know and the so
+the cell mediated immune
+
+607
+00:36:30,600 --> 00:36:32,740
+response that's your
+th1 cells and your
+
+608
+00:36:32,740 --> 00:36:36,960
+immoral immune response
+that is our th2 th17 so
+
+609
+00:36:49,110 --> 00:36:52,230
+so far we have discussed
+type 1 type 2 and type
+
+610
+00:36:52,430 --> 00:36:55,430
+uh 3 hypersensitivities
+let's discuss type 4
+
+611
+00:36:55,430 --> 00:36:58,530
+hypersensitivities also used
+to be called delayed type
+
+612
+00:36:58,530 --> 00:37:02,310
+hypersensitivity and the reason
+for that it usually comes 48 to
+
+613
+00:37:02,310 --> 00:37:05,910
+72 hours after encountering
+antigen at any given time
+
+614
+00:37:05,910 --> 00:37:10,270
+now this is a th1 a
+macrophage induced type of
+
+615
+00:37:10,270 --> 00:37:13,330
+inflammation kind of cell
+mediated because it does require
+
+616
+00:37:13,330 --> 00:37:18,950
+th1 cells it can be either a
+result of topical interaction
+
+617
+00:37:18,950 --> 00:37:22,070
+let's say contact dermatitis
+got in contact with
+
+618
+00:37:22,070 --> 00:37:28,330
+poison iv um china you know
+metal allergies for example
+
+619
+00:37:30,150 --> 00:37:33,990
+but also you can get a
+reaction from that and a
+
+620
+00:37:33,990 --> 00:37:37,090
+measurable reaction and this
+is a good way for us to detect
+
+621
+00:37:37,370 --> 00:37:42,230
+microbes for example we
+inject you can inject the
+
+622
+00:37:42,230 --> 00:37:45,030
+protein purotony derivative
+the tuberculin test or
+
+623
+00:37:45,030 --> 00:37:48,330
+the skin test or the ppd
+test and detect the presence
+
+624
+00:37:48,650 --> 00:37:51,870
+or if the person has been
+exposed to mycobacteria
+
+625
+00:37:51,870 --> 00:37:54,890
+you can also do it for for
+fungal infections and other
+
+626
+00:37:54,890 --> 00:37:58,470
+infections like leishmania
+candida so we can do
+
+627
+00:37:58,470 --> 00:38:02,900
+fungal skin tests and look
+for type 4 hypersensitivity
+
+628
+00:38:03,990 --> 00:38:06,880
+and use that
+particular reaction
+
+629
+00:38:07,710 --> 00:38:10,350
+to detect these or survey even
+
+630
+00:38:10,490 --> 00:38:13,230
+these type of
+pathogens in a given
+
+631
+00:38:13,230 --> 00:38:15,790
+population so it's
+important tool so to speak
+
+632
+00:38:17,940 --> 00:38:19,960
+let's talk a little
+bit about immunological
+
+633
+00:38:19,960 --> 00:38:22,450
+memory because it's an
+important concept Now
+
+634
+00:38:22,450 --> 00:38:26,670
+we spoke about the role
+of memory T cells and
+
+635
+00:38:26,670 --> 00:38:28,230
+these are really
+important cells and they
+
+636
+00:38:28,230 --> 00:38:32,810
+seem to also provide us
+with lasting immunity.
+
+637
+00:38:32,950 --> 00:38:35,550
+Their importance,
+how they work,
+
+638
+00:38:35,970 --> 00:38:37,890
+and the role of immunity is
+
+639
+00:38:37,890 --> 00:38:39,890
+still under investigation.
+
+640
+00:38:41,730 --> 00:38:44,790
+But classically we always
+looked at immunological
+
+641
+00:38:44,790 --> 00:38:46,990
+memory as in the
+presence of antibodies.
+
+642
+00:38:47,310 --> 00:38:50,110
+This is again not a
+complete picture because as
+
+643
+00:38:50,110 --> 00:38:51,770
+we just discussed and i
+want you to understand
+
+644
+00:38:51,770 --> 00:38:55,970
+that and because as we
+discussed we there's also
+
+645
+00:38:56,870 --> 00:39:00,710
+t memory cells that's
+important for example when
+
+646
+00:39:00,710 --> 00:39:02,730
+people are discussing
+whether or not somebody has
+
+647
+00:39:02,730 --> 00:39:05,930
+memory let's say or develop
+memory after they have
+
+648
+00:39:05,930 --> 00:39:08,600
+covet because a lot of times
+when we measure that memory
+
+649
+00:39:08,600 --> 00:39:10,590
+is we measure whether or
+not they have antibodies
+
+650
+00:39:10,590 --> 00:39:12,950
+so that's not the whole
+picture so it's important
+
+651
+00:39:12,950 --> 00:39:18,570
+to realize that anyway um
+immunological memory is
+
+652
+00:39:21,410 --> 00:39:25,850
+can be resolved from prior
+exposure to the antigen.
+
+653
+00:39:25,850 --> 00:39:28,790
+That is referred to as the
+primary immune response.
+
+654
+00:39:29,690 --> 00:39:32,690
+So then the secondary immune
+
+655
+00:39:32,690 --> 00:39:34,850
+response develops
+the memory now.
+
+656
+00:39:35,020 --> 00:39:37,490
+So as we talked before,
+when a B cell encounter
+
+657
+00:39:37,490 --> 00:39:39,150
+antigen for the first
+time, they differentiate
+
+658
+00:39:39,150 --> 00:39:43,250
+the plasma cells with
+the help of TH2 or TH17,
+
+659
+00:39:43,250 --> 00:39:45,450
+and then but then some of
+these plasma cells become
+
+660
+00:39:45,450 --> 00:39:47,710
+memory cells. So it's
+important to remember
+
+661
+00:39:47,710 --> 00:39:50,030
+that it's for half
+distinction between the two.
+
+662
+00:39:51,110 --> 00:39:53,190
+So the primary immune
+response usually
+
+663
+00:39:53,190 --> 00:39:55,850
+takes longer time
+typically two weeks
+
+664
+00:39:55,850 --> 00:39:58,390
+before we reach peak
+antibody formation.
+
+665
+00:39:59,270 --> 00:40:02,070
+On the other hand the
+secondary immune response is
+
+666
+00:40:02,070 --> 00:40:07,880
+almost instant because of
+the presence of memory cells
+
+667
+00:40:07,880 --> 00:40:10,950
+and this is the goal of
+vaccination right there is
+
+668
+00:40:10,950 --> 00:40:14,010
+to induce the primary
+response so that when you
+
+669
+00:40:14,010 --> 00:40:16,730
+encounter the antigen again
+you don't have to wait two
+
+670
+00:40:16,730 --> 00:40:19,630
+weeks to develop the response
+you're already ready to
+
+671
+00:40:19,630 --> 00:40:22,890
+go in many cases you can
+block injury of the pathogen
+
+672
+00:40:22,890 --> 00:40:25,610
+even at the get-go at the
+mucous membrane before
+
+673
+00:40:25,610 --> 00:40:30,190
+they arrive now there's also
+isotype switching in this
+
+674
+00:40:30,190 --> 00:40:33,110
+particular instance so
+with the primary response
+
+675
+00:40:33,110 --> 00:40:36,970
+you start out with the igm
+isotype and then you switch
+
+676
+00:40:36,970 --> 00:40:39,270
+to igg with the secondary
+immune response it's
+
+677
+00:40:39,270 --> 00:40:43,870
+immediately idg and you're
+ready to go um one thing to
+
+678
+00:40:43,870 --> 00:40:46,870
+note here just something
+that's interesting and it's
+
+679
+00:40:46,870 --> 00:40:49,570
+kind of important that b
+cells do what these cells
+
+680
+00:40:49,570 --> 00:40:52,650
+do as they interact an
+antigen or an epitome of an
+
+681
+00:40:52,650 --> 00:40:56,110
+antigen over time they
+undergo what's called affinity
+
+682
+00:40:56,110 --> 00:41:00,870
+maturation what that means
+is the antigens will start
+
+683
+00:41:00,870 --> 00:41:04,610
+selecting for the uh for
+the antibodies that combine
+
+684
+00:41:04,610 --> 00:41:07,970
+the best. And this is
+usually created by the actual
+
+685
+00:41:07,970 --> 00:41:12,110
+presence of hyper mutations
+in the genes that code
+
+686
+00:41:12,110 --> 00:41:17,610
+for the antibodies, those
+VHVL genes. So over time,
+
+687
+00:41:17,610 --> 00:41:20,770
+the antibodies that we make
+become better and better
+
+688
+00:41:20,770 --> 00:41:23,330
+and better and binding
+with the epitope on the
+
+689
+00:41:23,330 --> 00:41:25,790
+antigen with more affinity.
+That's what you want.
+
+690
+00:41:25,790 --> 00:41:28,390
+You don't want a very
+weak binding, because weak
+
+691
+00:41:28,390 --> 00:41:31,950
+binding does not elicit a
+good immune response. But
+
+692
+00:41:31,950 --> 00:41:34,890
+again, this only happens
+during the secondary and
+
+693
+00:41:34,890 --> 00:41:38,730
+as time goes by, which
+is why our initial human
+
+694
+00:41:38,730 --> 00:41:41,550
+immune response is typically
+not a very strong one.
+
+695
+00:41:44,970 --> 00:41:47,290
+Let's discuss a little
+bit immunoregulation
+
+696
+00:41:47,290 --> 00:41:49,690
+because this is a very
+important topic. We have kind
+
+697
+00:41:49,690 --> 00:41:51,990
+of talked about these
+concepts here and there,
+
+698
+00:41:51,990 --> 00:41:54,990
+but let's try to summarize
+them here in one place.
+
+699
+00:41:54,990 --> 00:41:58,510
+We've talked about the
+concept of tolerance.
+
+700
+00:41:58,990 --> 00:42:00,250
+We will have a
+
+701
+00:42:00,690 --> 00:42:04,200
+lecture especially that
+discusses tolerance and
+
+702
+00:42:04,200 --> 00:42:06,410
+autoimmunity which is a
+really important topic
+
+703
+00:42:06,790 --> 00:42:10,250
+again one of the things
+that can induce tolerance
+
+704
+00:42:10,250 --> 00:42:14,130
+in cells is for example
+especially in t cells and
+
+705
+00:42:14,130 --> 00:42:19,050
+cause what's called energy
+is the absence of the cg28
+
+706
+00:42:19,050 --> 00:42:22,370
+b7 cost immature signal
+so the absence of that
+
+707
+00:42:22,370 --> 00:42:25,890
+signal can trigger energy
+but there's other things
+
+708
+00:42:25,890 --> 00:42:28,010
+that can do that and
+there'll be a lecture For
+
+709
+00:42:28,010 --> 00:42:31,490
+example, it is absence of a
+stimulatory cytokine, etc.
+
+710
+00:42:32,390 --> 00:42:34,490
+Also, let's not forget a very
+
+711
+00:42:34,490 --> 00:42:37,510
+important role of
+T-regulatory cells.
+
+712
+00:42:37,510 --> 00:42:41,330
+T-regulatory cells are
+actually subtype of T-helper
+
+713
+00:42:41,330 --> 00:42:45,970
+cells that specifically
+suppress the immune system.
+
+714
+00:42:46,440 --> 00:42:48,540
+These can be called
+actually T-suppressors.
+
+715
+00:42:48,540 --> 00:42:50,550
+We no longer use that
+term because we realize
+
+716
+00:42:50,550 --> 00:42:52,590
+they do more than
+just suppression. They
+
+717
+00:42:52,590 --> 00:42:55,250
+actually can, they really
+help with regulation.
+
+718
+00:42:55,670 --> 00:42:58,570
+They are CD4-positive,
+like they're T-helfer
+
+719
+00:42:58,570 --> 00:43:00,910
+cells, but the only way
+to really distinguish
+
+720
+00:43:01,550 --> 00:43:04,270
+them from other T
+-helfer cells is by the
+
+721
+00:43:04,270 --> 00:43:07,490
+presence of the CD25
+and expression of a
+
+722
+00:43:07,490 --> 00:43:10,270
+transcription factor,
+specifically called FOXP3.
+
+723
+00:43:10,670 --> 00:43:14,550
+That's really the only
+way to push them out.
+
+724
+00:43:15,310 --> 00:43:19,250
+There's also CD8-positive
+or T-cytotoxic spacer
+
+725
+00:43:19,250 --> 00:43:22,470
+cells, which can help
+prevent graft rejection
+
+726
+00:43:22,470 --> 00:43:26,290
+and can help prevent our
+own body from attacking
+
+727
+00:43:26,290 --> 00:43:28,590
+itself, formation of
+autoimmune diseases. So
+
+728
+00:43:28,590 --> 00:43:32,070
+these combination of many
+mechanisms and this is
+
+729
+00:43:32,070 --> 00:43:34,370
+just a really brief
+introduction guys to this
+
+730
+00:43:34,450 --> 00:43:37,650
+can help us with tolerance
+and tolerating our
+
+731
+00:43:37,650 --> 00:43:40,450
+self-antigens and not have
+the immune system just
+
+732
+00:43:40,450 --> 00:43:43,730
+go haywire. Again there'll
+be a lecture on this.
+
+733
+00:43:46,170 --> 00:43:48,470
+We also talked about how
+
+734
+00:43:50,290 --> 00:43:55,090
+how the different cells,
+Th1, Th2, and Th17, can
+
+735
+00:43:55,090 --> 00:43:59,170
+inhibit each other in a new
+response by basically using
+
+736
+00:43:59,170 --> 00:44:03,550
+their signature cytokine.
+So, for example, TNF gamma
+
+737
+00:44:03,550 --> 00:44:06,550
+that's produced by Th1
+inhibits the other, Th2,
+
+738
+00:44:06,550 --> 00:44:09,850
+and Th17, and so on. So
+that's a very important way,
+
+739
+00:44:09,850 --> 00:44:13,130
+that way you don't have all
+of these cells dominating.
+
+740
+00:44:13,270 --> 00:44:16,390
+But do keep in mind that
+this is dynamic. At some
+
+741
+00:44:16,390 --> 00:44:19,110
+point, for example a th1
+response may dominate but
+
+742
+00:44:19,110 --> 00:44:22,560
+then it can regress and a
+th2 then dominates or th17
+
+743
+00:44:23,210 --> 00:44:28,870
+okay um we already
+discussed that th17 is
+
+744
+00:44:28,870 --> 00:44:31,190
+by definition a pro
+-inflammatory type of
+
+745
+00:44:31,190 --> 00:44:34,990
+response that seems to
+be damaging but you know
+
+746
+00:44:34,990 --> 00:44:37,390
+understanding that
+information for example
+
+747
+00:44:37,650 --> 00:44:41,130
+we've been able to
+identify il-70 which is the
+
+748
+00:44:41,130 --> 00:44:43,990
+signature cytokine of that
+cell as being involved
+
+749
+00:44:43,990 --> 00:44:47,390
+in conditions that
+are psoriasis, and if
+
+750
+00:44:47,390 --> 00:44:51,390
+you block IL-70, it can
+actually help patients.
+
+751
+00:44:51,430 --> 00:44:53,570
+And so the more we
+understand these
+
+752
+00:44:53,800 --> 00:44:55,790
+mechanisms, how
+they're used, so we can
+
+753
+00:44:55,790 --> 00:44:58,070
+regulate it, we can
+help a lot of patients
+
+754
+00:44:58,090 --> 00:45:01,990
+that have both autoimmune
+and inflammatory diseases
+
+755
+00:45:02,350 --> 00:45:04,830
+that are caused by
+the malfunction,
+
+756
+00:45:05,250 --> 00:45:07,870
+so to speak, of
+the immune system.
+
+757
+00:45:09,390 --> 00:45:12,790
+This slide shows different
+types of adaptive e-responses
+
+758
+00:45:12,790 --> 00:45:15,090
+involved of clearances
+of different antigens.
+
+759
+00:45:15,090 --> 00:45:17,050
+It's kind of a summary for
+you, but it's a pretty good
+
+760
+00:45:17,050 --> 00:45:19,910
+one. It just shows you, for
+example, like neutralizing
+
+761
+00:45:19,910 --> 00:45:22,430
+antibodies can be used
+to neutralize viruses,
+
+762
+00:45:22,430 --> 00:45:24,830
+bacteria, whether it's
+intercellular or extracelular,
+
+763
+00:45:25,290 --> 00:45:26,990
+protozoans, whether
+they are intercellular
+
+764
+00:45:26,990 --> 00:45:29,110
+or extracelular,
+but don't seem to
+
+765
+00:45:29,110 --> 00:45:31,590
+work at all against
+fungi and worms.
+
+766
+00:45:31,790 --> 00:45:33,790
+The hemoglobin
+response in general
+
+767
+00:45:33,790 --> 00:45:35,530
+doesn't seem to work
+at all with fungi.
+
+768
+00:45:36,140 --> 00:45:38,630
+At the same time, it
+shows you that the cell
+
+769
+00:45:38,630 --> 00:45:41,550
+-mediated immune response
+or the toxic T cells
+
+770
+00:45:41,550 --> 00:45:44,830
+are very effective against
+viruses because they
+
+771
+00:45:44,830 --> 00:45:46,950
+are intercellular and
+intercellular bacteria.
+
+772
+00:45:47,610 --> 00:45:52,270
+It also shows that
+complement and obstinization
+
+773
+00:45:52,270 --> 00:45:56,430
+are very good at tackling
+excellular bacteria.
+
+774
+00:45:56,430 --> 00:45:58,490
+Complement can also
+be good at taking
+
+775
+00:45:58,490 --> 00:46:00,670
+out specifically
+enveloped viruses.
+
+776
+00:46:00,670 --> 00:46:03,290
+So this is a good
+just summary for
+
+777
+00:46:03,290 --> 00:46:05,150
+you for your own
+information. So
+
+778
+00:46:25,070 --> 00:46:27,390
+in summary, we have
+discussed the adaptive immune
+
+779
+00:46:27,390 --> 00:46:31,030
+response in this two
+-type, two-part lecture.
+
+780
+00:46:31,830 --> 00:46:34,350
+Predominantly talked about
+immunoglobulin structure,
+
+781
+00:46:34,530 --> 00:46:37,590
+function, the different types
+as for isotypes, and how
+
+782
+00:46:37,590 --> 00:46:40,390
+are they involved in the
+type 1, type 2, and type 3
+
+783
+00:46:40,390 --> 00:46:43,270
+hypersensitivities, which
+are antibody-mediated. We
+
+784
+00:46:43,270 --> 00:46:46,410
+talked about different
+important molecules, MSC class
+
+785
+00:46:46,410 --> 00:46:49,990
+1 and 2, discussed T-cell
+receptor structure and
+
+786
+00:46:49,990 --> 00:46:53,600
+function, interaction,
+associated receptors, its role in
+
+787
+00:46:53,600 --> 00:46:56,310
+immunological synapse, We
+talked about the B-cell
+
+788
+00:46:56,310 --> 00:46:59,650
+receptor, its structure, which
+is basically IGT, antibody,
+
+789
+00:46:59,650 --> 00:47:02,800
+and its function in important
+recognizing antigens.
+
+790
+00:47:04,430 --> 00:47:07,550
+We talked about how T-cells,
+even besides specifically
+
+791
+00:47:07,550 --> 00:47:11,270
+helper cells and different
+kinds, are activated
+
+792
+00:47:11,270 --> 00:47:14,710
+and also how B-cells are
+activated. We talked about
+
+793
+00:47:14,710 --> 00:47:17,690
+both the humanoidal and the
+cell-mediated immune response
+
+794
+00:47:17,690 --> 00:47:20,710
+and the different subtypes
+of T-helper cells 1,
+
+795
+00:47:20,710 --> 00:47:26,050
+2, and 17. We discussed at
+the end immunological memory
+
+796
+00:47:26,050 --> 00:47:28,390
+and the importance of a
+secondary immune response
+
+797
+00:47:28,590 --> 00:47:31,050
+and role of B cells
+in that, and talked
+
+798
+00:47:31,050 --> 00:47:33,270
+a little briefly
+about T memory cells.
+
+799
+00:47:33,270 --> 00:47:34,930
+And we also talked about immune
+
+800
+00:47:34,930 --> 00:47:37,610
+regulation and how
+tolerance is important.
+
+801
+00:47:37,730 --> 00:47:40,810
+And at the end, I just
+introduce you to a
+
+802
+00:47:40,810 --> 00:47:43,730
+clinical case, which we
+will follow up in the
+
+803
+00:47:43,730 --> 00:47:46,350
+office hour and discuss
+it more together.

@@ -1,0 +1,5384 @@
+1
+00:00:01,150 --> 00:00:03,030
+Welcome, students,
+to the Pharmacology
+
+2
+00:00:03,030 --> 00:00:06,350
+of the DMARDs,
+Disease-Modifying
+
+3
+00:00:06,350 --> 00:00:08,950
+Antirheumatic
+Drugs for the
+
+4
+00:00:08,950 --> 00:00:11,430
+Treatment of
+Rheumatoid Arthritis.
+
+5
+00:00:11,670 --> 00:00:16,190
+And part one of two
+parts, I'll give you a
+
+6
+00:00:16,190 --> 00:00:19,030
+brief overview of the
+pathophysiology of
+
+7
+00:00:19,030 --> 00:00:21,810
+rheumatoid arthritis
+as it relates to the
+
+8
+00:00:21,810 --> 00:00:24,630
+drug therapy. And then
+we'll just talk about
+
+9
+00:00:24,630 --> 00:00:27,790
+two drugs, glucocorticoids
+and mesotrexates.
+
+10
+00:00:27,790 --> 00:00:30,430
+These are both very,
+very important,
+
+11
+00:00:30,430 --> 00:00:34,090
+so I will be spending
+time on the mechanisms
+
+12
+00:00:34,090 --> 00:00:36,750
+and effects and their
+place in therapy.
+
+13
+00:00:42,530 --> 00:00:45,030
+Please contact
+me if you'd like
+
+14
+00:00:45,030 --> 00:00:47,030
+to have a
+pharmacology chat.
+
+15
+00:00:48,570 --> 00:00:52,110
+Learning objectives,
+I'm sure you're used
+
+16
+00:00:52,110 --> 00:00:54,720
+to them by now. We'll
+talk about pharmacokinetic
+
+17
+00:00:54,720 --> 00:00:57,890
+properties,
+mechanisms of action,
+
+18
+00:00:57,890 --> 00:01:01,370
+mechanisms of adverse
+effects, mechanisms of
+
+19
+00:01:01,370 --> 00:01:04,730
+drug interactions, and
+all of this, how it
+
+20
+00:01:04,730 --> 00:01:08,770
+relates to cautions
+and contraindications
+
+21
+00:01:08,770 --> 00:01:13,850
+of their use. I strongly
+encourage you to
+
+22
+00:01:13,850 --> 00:01:16,680
+develop a visual aid
+for yourself. Whatever
+
+23
+00:01:16,680 --> 00:01:19,570
+works, works for you
+so that when you are
+
+24
+00:01:19,570 --> 00:01:23,350
+sitting and reviewing,
+you can close your
+
+25
+00:01:23,350 --> 00:01:26,590
+eyes and kind of visualize
+your aid. And same
+
+26
+00:01:26,590 --> 00:01:28,790
+goes for when you're
+sitting in an exam.
+
+27
+00:01:31,470 --> 00:01:34,690
+Preparation
+materials and links,
+
+28
+00:01:34,690 --> 00:01:37,010
+if you choose
+to use them.
+
+29
+00:01:39,470 --> 00:01:43,350
+And some key
+points to get you
+
+30
+00:01:43,350 --> 00:01:45,010
+into the picture,
+to help you
+
+31
+00:01:45,010 --> 00:01:48,190
+review, however
+it helps you.
+
+32
+00:01:51,630 --> 00:01:54,390
+This is not for
+memorizing. This is
+
+33
+00:01:54,390 --> 00:01:56,870
+for review. This
+is for learning.
+
+34
+00:02:00,620 --> 00:02:02,930
+Lots of drugs,
+as you can see,
+
+35
+00:02:02,930 --> 00:02:04,890
+have been
+developed for the
+
+36
+00:02:04,890 --> 00:02:07,410
+treatment of
+rheumatoid arthritis.
+
+37
+00:02:11,230 --> 00:02:14,190
+Glucocorticoids, I will
+be spending time on
+
+38
+00:02:14,190 --> 00:02:16,710
+this, as I said before,
+because they are
+
+39
+00:02:16,710 --> 00:02:21,870
+really very important in
+the relief of inflammation
+
+40
+00:02:21,870 --> 00:02:24,730
+in patients with
+rheumatoid arthritis.
+
+41
+00:02:28,030 --> 00:02:32,830
+So let's meet a
+patient, a 37-year-old
+
+42
+00:02:32,830 --> 00:02:35,450
+woman who presents
+to the rheumatologist
+
+43
+00:02:35,450 --> 00:02:38,230
+with a six-month
+history of joint pain,
+
+44
+00:02:38,230 --> 00:02:40,850
+stiffness, and swelling,
+primarily affecting
+
+45
+00:02:40,850 --> 00:02:43,830
+her hands and wrists.
+her name is Mary.
+
+46
+00:02:44,410 --> 00:02:50,890
+So pause the computer
+and have a read of
+
+47
+00:02:50,890 --> 00:02:53,350
+this case. I'm not
+going to read it to you.
+
+48
+00:03:02,560 --> 00:03:05,020
+Questions that
+it should raise
+
+49
+00:03:05,020 --> 00:03:09,400
+are, what is the
+goal of therapy?
+
+50
+00:03:10,180 --> 00:03:12,500
+What is the
+role of NSAIDs?
+
+51
+00:03:12,920 --> 00:03:15,620
+We know they're very
+good for relieving
+
+52
+00:03:15,620 --> 00:03:18,720
+inflammation at anti
+-inflammatory doses.
+
+53
+00:03:19,570 --> 00:03:22,800
+and what is the
+role of DMARDs and
+
+54
+00:03:22,800 --> 00:03:24,360
+what is the role
+of glucocorticoids.
+
+55
+00:03:28,180 --> 00:03:30,020
+So let us begin.
+
+56
+00:03:30,880 --> 00:03:33,200
+Rheumatoid arthritis
+is a chronic
+
+57
+00:03:33,200 --> 00:03:35,860
+systemic inflammatory
+disorder that
+
+58
+00:03:35,860 --> 00:03:38,260
+affects a patient for
+their entire lives
+
+59
+00:03:39,240 --> 00:03:43,060
+and it can negatively
+impact the quality
+
+60
+00:03:43,060 --> 00:03:46,880
+of their life. the
+joint problems,
+
+61
+00:03:46,880 --> 00:03:50,620
+but also manifestations
+outside of the
+
+62
+00:03:50,620 --> 00:03:53,890
+joints. Patients are
+fatigued very often.
+
+63
+00:03:53,890 --> 00:03:56,820
+They may have
+nodules. They may have
+
+64
+00:03:56,820 --> 00:03:59,180
+lung involvement,
+heart involvement,
+
+65
+00:03:59,180 --> 00:04:03,580
+peripheral neuropathy,
+vessel involvement,
+
+66
+00:04:03,580 --> 00:04:07,280
+and hematologic
+abnormalities. So the goal
+
+67
+00:04:07,280 --> 00:04:10,680
+of therapy is going
+to depend on the
+
+68
+00:04:10,680 --> 00:04:14,080
+severity of the disease
+and patient factors.
+
+69
+00:04:16,520 --> 00:04:19,960
+Early, aggressive
+pharmacotherapy,
+
+70
+00:04:19,960 --> 00:04:23,420
+early and aggressive.
+
+71
+00:04:23,420 --> 00:04:26,140
+You always hear me say
+start low, go slow.
+
+72
+00:04:26,140 --> 00:04:29,220
+This is a case
+where we start early
+
+73
+00:04:29,220 --> 00:04:33,820
+and aggressively
+with the purpose of
+
+74
+00:04:33,820 --> 00:04:36,500
+preventing the joint
+damage and disability.
+
+75
+00:04:36,500 --> 00:04:39,810
+The earlier that
+it can be stopped
+
+76
+00:04:39,920 --> 00:04:45,900
+or at least slowed,
+the less joint
+
+77
+00:04:45,900 --> 00:04:48,480
+damage and disability
+that can result.
+
+78
+00:04:51,880 --> 00:04:56,560
+We often have to
+modify the therapy
+
+79
+00:04:56,560 --> 00:05:00,520
+over time, starting
+with probably one
+
+80
+00:05:00,520 --> 00:05:04,240
+drug and possibly
+adding others, possibly
+
+81
+00:05:04,240 --> 00:05:06,860
+changing therapy,
+when appropriate.
+
+82
+00:05:07,480 --> 00:05:12,260
+As with every
+treatment, it must
+
+83
+00:05:12,260 --> 00:05:16,040
+be individualized
+with the object
+
+84
+00:05:16,040 --> 00:05:19,900
+of getting a
+maximal response
+
+85
+00:05:20,540 --> 00:05:25,920
+with minimal side
+effects. These drugs
+
+86
+00:05:25,920 --> 00:05:29,700
+are powerful and associated
+with some serious
+
+87
+00:05:29,700 --> 00:05:31,960
+side effects. Most
+of them are quite
+
+88
+00:05:31,960 --> 00:05:35,200
+tolerable, but we
+always have to keep an
+
+89
+00:05:35,200 --> 00:05:40,220
+eye on the potential
+serious toxicities.
+
+90
+00:05:40,320 --> 00:05:42,830
+And we can do
+that by monitoring
+
+91
+00:05:42,880 --> 00:05:46,140
+closely and
+mitigating them.
+
+92
+00:05:47,220 --> 00:05:50,240
+Goal of therapy,
+remission.
+
+93
+00:05:50,260 --> 00:05:52,140
+Remission of disease,
+
+94
+00:05:52,140 --> 00:05:54,840
+if possible. Otherwise,
+
+95
+00:05:55,060 --> 00:06:01,500
+a low level, low level
+of disease activity.
+
+96
+00:06:05,060 --> 00:06:06,420
+Oops,
+
+97
+00:06:13,590 --> 00:06:14,510
+physiology.
+
+98
+00:06:14,750 --> 00:06:18,430
+Well, it's all about
+the immune system.
+
+99
+00:06:19,050 --> 00:06:21,730
+I have some arrows here.
+
+100
+00:06:22,290 --> 00:06:25,630
+These are targets
+of drug therapy, T
+
+101
+00:06:25,630 --> 00:06:29,790
+cell proliferation,
+B cell proliferation.
+
+102
+00:06:30,710 --> 00:06:32,870
+and clonal expansion,
+
+103
+00:06:33,370 --> 00:06:43,630
+basic humeral
+inflammatory response.
+
+104
+00:06:45,230 --> 00:06:48,530
+Here we have some
+cytokines in here,
+
+105
+00:06:48,530 --> 00:06:52,630
+TNF-alpha, IL-6, our
+important targets.
+
+106
+00:06:54,290 --> 00:06:59,710
+so it's all about
+inflammation and expansion
+
+107
+00:06:59,710 --> 00:07:02,110
+of the immune system
+activation of the
+
+108
+00:07:02,110 --> 00:07:06,160
+immune system that we
+are trying to reduce
+
+109
+00:07:09,530 --> 00:07:13,450
+the approaches are NSAIDs
+
+110
+00:07:13,450 --> 00:07:15,530
+just for
+symptomatic relief
+
+111
+00:07:16,470 --> 00:07:21,210
+pain, inflammation,
+glucocorticoids,
+
+112
+00:07:21,210 --> 00:07:25,770
+they're powerful
+anti-inflammatories,
+
+113
+00:07:25,770 --> 00:07:28,910
+non-specific anti
+-inflammatory actions.
+
+114
+00:07:30,370 --> 00:07:33,770
+We use these for a
+shorter period of
+
+115
+00:07:33,770 --> 00:07:36,960
+time because of
+the potential for
+
+116
+00:07:36,960 --> 00:07:40,650
+adverse effects.
+And then we have our
+
+117
+00:07:40,650 --> 00:07:45,890
+conventional
+DMARDs, conventional
+
+118
+00:07:45,890 --> 00:07:48,130
+synthetic, that's
+what the S stands for.
+
+119
+00:07:48,810 --> 00:07:51,450
+Biologic DMARDs,
+we're talking about
+
+120
+00:07:51,450 --> 00:07:55,870
+proteins here, such as
+monoclonal antibodies.
+
+121
+00:07:55,870 --> 00:07:59,790
+And then our small
+molecule targeted
+
+122
+00:07:59,790 --> 00:08:02,450
+drugs, the S again
+stands for synthetic.
+
+123
+00:08:05,830 --> 00:08:11,450
+the armamentarium is
+expanding and has expanded
+
+124
+00:08:11,450 --> 00:08:14,210
+quite rapidly in the
+last several years
+
+125
+00:08:16,490 --> 00:08:20,560
+so I split them up
+according to their
+
+126
+00:08:20,560 --> 00:08:24,370
+subclasses their DMARD
+classes and I put
+
+127
+00:08:24,370 --> 00:08:27,910
+stars on the ones that
+are representative
+
+128
+00:08:27,910 --> 00:08:31,930
+of the group and
+frequently used.
+
+129
+00:08:33,310 --> 00:08:37,850
+These are all oral,
+the conventional ones.
+
+130
+00:08:41,870 --> 00:08:46,190
+These small molecule
+ones are oral.
+
+131
+00:08:49,270 --> 00:08:53,930
+And these have Mab
+on the end, So that
+
+132
+00:08:53,930 --> 00:08:56,020
+tells you they're
+monoclonal antibodies,
+
+133
+00:08:56,710 --> 00:08:59,610
+Mab, and this one
+is also injectable.
+
+134
+00:09:05,920 --> 00:09:08,920
+Bridging therapy for
+rapid reduction of
+
+135
+00:09:08,920 --> 00:09:12,040
+inflammation and relief
+of symptoms before
+
+136
+00:09:12,040 --> 00:09:14,680
+the onset of a fully
+effective DMARD
+
+137
+00:09:14,680 --> 00:09:17,080
+therapy. Well, why
+don't we just start with
+
+138
+00:09:17,080 --> 00:09:19,640
+the DMARD and have
+done with it? Well, we
+
+139
+00:09:19,640 --> 00:09:22,040
+do start with the
+DMARD, but it can take
+
+140
+00:09:22,040 --> 00:09:29,320
+weeks, even months,
+for the full anti
+
+141
+00:09:29,320 --> 00:09:33,380
+-rheumatic effect to be
+felt by the patient.
+
+142
+00:09:34,560 --> 00:09:38,040
+So, just briefly
+with NSAIDs, we've
+
+143
+00:09:38,040 --> 00:09:40,400
+already talked about
+this group of drugs.
+
+144
+00:09:40,600 --> 00:09:43,780
+Minimal, if any,
+probably none,
+
+145
+00:09:43,780 --> 00:09:46,480
+minimal effect on
+the progression
+
+146
+00:09:46,480 --> 00:09:48,620
+of bone and cartilage
+destruction.
+
+147
+00:09:48,700 --> 00:09:52,640
+So we can't put them
+in the class of disease
+
+148
+00:09:52,640 --> 00:09:55,920
+-modifying anti-rheumatic
+drugs because they
+
+149
+00:09:55,920 --> 00:09:59,080
+don't modify the disease.
+But they're still
+
+150
+00:09:59,080 --> 00:10:03,700
+very important in the
+management of the pain
+
+151
+00:10:03,700 --> 00:10:07,080
+and inflammation of
+rheumatoid arthritis.
+
+152
+00:10:09,220 --> 00:10:11,840
+Glucocorticoids.
+We try and have as
+
+153
+00:10:11,840 --> 00:10:14,880
+low dose as possible.
+I'll expand on
+
+154
+00:10:14,880 --> 00:10:17,860
+that dosing strategy
+when we get there.
+
+155
+00:10:19,260 --> 00:10:23,300
+powerful anti-inflammatory
+agents that are
+
+156
+00:10:23,300 --> 00:10:27,120
+highly effective at
+relieving the inflammation
+
+157
+00:10:27,120 --> 00:10:29,500
+associated with
+rheumatoid arthritis
+
+158
+00:10:29,500 --> 00:10:34,660
+and other inflammatory
+conditions, not just
+
+159
+00:10:34,660 --> 00:10:36,960
+rheumatoid arthritis.
+Very, very important
+
+160
+00:10:36,960 --> 00:10:39,700
+group of drugs. So we
+use them for bridging
+
+161
+00:10:39,700 --> 00:10:42,280
+therapy. Well, what
+is bridging? Bridging
+
+162
+00:10:42,280 --> 00:10:45,760
+from the initiation
+when the patient is
+
+163
+00:10:45,760 --> 00:10:48,380
+having this inflammation,
+this inflammatory
+
+164
+00:10:48,380 --> 00:10:51,800
+reaction, causing the
+joint destruction,
+
+165
+00:10:51,960 --> 00:10:56,820
+to the activation, I
+
+166
+00:10:56,820 --> 00:10:58,500
+should say, to the onset
+
+167
+00:10:59,460 --> 00:11:04,700
+of fully effective DMARD.
+
+168
+00:11:06,800 --> 00:11:10,280
+And then we also use
+it for acute disease
+
+169
+00:11:10,280 --> 00:11:12,120
+flares. Patients
+with rheumatoid
+
+170
+00:11:12,120 --> 00:11:16,440
+arthritis even on
+therapy can have these
+
+171
+00:11:16,440 --> 00:11:20,540
+disease flares where
+as it just as it says
+
+172
+00:11:20,540 --> 00:11:24,470
+the disease flares
+up it fires up and
+
+173
+00:11:27,210 --> 00:11:29,180
+glucocorticoids
+certain of them can be
+
+174
+00:11:29,180 --> 00:11:32,540
+injected right into
+the joint space and
+
+175
+00:11:32,540 --> 00:11:34,760
+that can cause some
+symptomatic relief
+
+176
+00:11:34,760 --> 00:11:36,880
+and the great thing
+about that That is,
+
+177
+00:11:37,380 --> 00:11:40,990
+there is very little
+systemic exposure
+
+178
+00:11:41,580 --> 00:11:45,720
+to the intra
+-articular injection.
+
+179
+00:11:49,020 --> 00:11:53,420
+So in general, all
+patients diagnosed
+
+180
+00:11:53,420 --> 00:11:55,120
+with RA should
+be started on
+
+181
+00:11:55,120 --> 00:11:57,560
+DMARD therapy as
+soon as possible.
+
+182
+00:11:57,560 --> 00:11:58,080
+Why?
+
+183
+00:11:58,080 --> 00:12:00,520
+Start early.
+Be aggressive.
+
+184
+00:12:01,220 --> 00:12:04,440
+The choice of drug,
+well, so what do we
+
+185
+00:12:04,440 --> 00:12:07,320
+initiate? That's going
+to depend on what
+
+186
+00:12:07,320 --> 00:12:09,280
+is the level of the
+disease activity.
+
+187
+00:12:10,480 --> 00:12:13,240
+What comorbidities
+does the patient have?
+
+188
+00:12:13,240 --> 00:12:16,360
+Because these are
+important drugs,
+
+189
+00:12:16,360 --> 00:12:23,260
+they can exacerbate
+comorbid conditions.
+
+190
+00:12:23,660 --> 00:12:26,480
+It also depends
+on the stage of
+
+191
+00:12:26,480 --> 00:12:29,600
+therapy. Is this
+initial therapy or
+
+192
+00:12:29,600 --> 00:12:32,940
+is it a modification
+of therapy?
+
+193
+00:12:33,360 --> 00:12:36,460
+Of course, it
+helps patients if
+
+194
+00:12:36,460 --> 00:12:38,280
+the insurance
+company is going
+
+195
+00:12:38,280 --> 00:12:40,820
+to be able to pay
+for the drugs.
+
+196
+00:12:41,420 --> 00:12:45,760
+Insurance companies
+usually don't
+
+197
+00:12:45,760 --> 00:12:48,300
+pay for every
+single drug that was
+
+198
+00:12:48,300 --> 00:12:50,680
+ever invented for
+a given condition.
+
+199
+00:12:52,520 --> 00:12:55,600
+This should be shared
+decision making.
+
+200
+00:13:00,660 --> 00:13:04,420
+Shared Decision
+Making. The patient
+
+201
+00:13:04,420 --> 00:13:07,760
+needs to be
+informed and brought
+
+202
+00:13:07,760 --> 00:13:11,160
+into the discussion
+and involved
+
+203
+00:13:11,160 --> 00:13:13,660
+in making the
+decision on therapy.
+
+204
+00:13:15,400 --> 00:13:19,540
+And then also,
+it's actually kind
+
+205
+00:13:19,540 --> 00:13:22,440
+of related to the
+level of disease
+
+206
+00:13:22,440 --> 00:13:25,360
+activity is the
+presence of signs
+
+207
+00:13:25,360 --> 00:13:27,460
+associated with
+poorer outcome.
+
+208
+00:13:31,440 --> 00:13:34,300
+So what do we start
+with? So usually
+
+209
+00:13:34,300 --> 00:13:39,140
+a monotherapy and
+then escalating up,
+
+210
+00:13:39,940 --> 00:13:45,480
+increasing the doses
+or adding therapy.
+
+211
+00:13:45,740 --> 00:13:48,380
+I did say early
+and aggressive,
+
+212
+00:13:48,380 --> 00:13:50,460
+talking about the
+inflammation. We get
+
+213
+00:13:50,460 --> 00:13:53,280
+that glucocorticoid
+or that NSAID on board
+
+214
+00:13:53,280 --> 00:13:56,880
+very early. to manage
+the inflammation.
+
+215
+00:14:00,760 --> 00:14:03,040
+And aggressive therapy
+
+216
+00:14:03,040 --> 00:14:06,120
+for the more
+severe cases.
+
+217
+00:14:07,440 --> 00:14:10,860
+Mesotrexate is the
+anchor. I will be using
+
+218
+00:14:10,860 --> 00:14:13,260
+this term. You will see
+this term in literature.
+
+219
+00:14:13,260 --> 00:14:16,280
+It is the anchor.
+An anchor is what
+
+220
+00:14:16,280 --> 00:14:22,260
+holds the boat to the
+floor of the bay. And
+
+221
+00:14:22,260 --> 00:14:27,800
+methotrexate pretty
+much holds the therapy,
+
+222
+00:14:27,800 --> 00:14:32,100
+rheumatoid arthritis
+therapy, to the floor.
+
+223
+00:14:33,840 --> 00:14:37,380
+Why? Because, one,
+
+224
+00:14:37,580 --> 00:14:39,800
+improved clinical
+outcomes,
+
+225
+00:14:39,800 --> 00:14:42,220
+sustained maintenance,
+
+226
+00:14:42,760 --> 00:14:46,040
+generally well
+-tolerated, Strong
+
+227
+00:14:46,040 --> 00:14:49,380
+evidence of
+efficacy over many
+
+228
+00:14:49,380 --> 00:14:52,260
+trials, many years
+of experience.
+
+229
+00:14:54,770 --> 00:14:59,020
+And then we could add
+other types of DMARs,
+
+230
+00:14:59,020 --> 00:15:02,600
+another oral,
+conventional DMAR,
+
+231
+00:15:02,600 --> 00:15:06,780
+biologic, or a small
+molecule targeted drug.
+
+232
+00:15:08,880 --> 00:15:13,860
+These are some
+recommendations for pregnancy.
+
+233
+00:15:13,860 --> 00:15:17,840
+this is really
+really important for
+
+234
+00:15:17,840 --> 00:15:21,500
+you to remember. We
+must always remember
+
+235
+00:15:21,500 --> 00:15:26,300
+what drugs are safe
+to give to mother and
+
+236
+00:15:26,300 --> 00:15:30,260
+fetus during pregnancy.
+So I have this
+
+237
+00:15:30,260 --> 00:15:33,590
+list here. I'd like
+you to be aware of
+
+238
+00:15:34,000 --> 00:15:38,740
+what's considered safe
+and what's contraindicated
+
+239
+00:15:38,740 --> 00:15:41,040
+and the rest fall
+in between. So
+
+240
+00:15:41,040 --> 00:15:43,740
+you only have to
+remember these two sides.
+
+241
+00:15:44,780 --> 00:15:48,880
+Contraindicated,
+there are only two.
+
+242
+00:15:49,710 --> 00:15:51,670
+But why are they
+contraindicated?
+
+243
+00:15:52,040 --> 00:15:54,100
+Because they're
+teratogenic,
+
+244
+00:15:54,100 --> 00:15:57,520
+known teratogenic,
+and fetotoxic.
+
+245
+00:15:58,580 --> 00:16:00,980
+And the pregnancy
+can be lost
+
+246
+00:16:00,980 --> 00:16:06,960
+or the fetus
+can be harmed.
+
+247
+00:16:09,700 --> 00:16:12,180
+so what can can
+we use we'll be
+
+248
+00:16:12,180 --> 00:16:13,890
+talking about
+hydroxychloroquine
+
+249
+00:16:14,060 --> 00:16:17,880
+this is a
+conventional oral
+
+250
+00:16:18,320 --> 00:16:21,180
+sulfasalazine another
+conventional oral
+
+251
+00:16:21,810 --> 00:16:24,500
+azathioprine i'll
+get to more detail on
+
+252
+00:16:24,500 --> 00:16:28,060
+that and most of the
+tnf inhibitors at
+
+253
+00:16:28,060 --> 00:16:30,800
+least up to 32 weeks
+so we have some really
+
+254
+00:16:30,800 --> 00:16:33,580
+good options for the
+pregnant patient.
+
+255
+00:16:33,740 --> 00:16:38,040
+Often though,
+during pregnancy,
+
+256
+00:16:38,040 --> 00:16:40,340
+the disease kind
+of remits a bit.
+
+257
+00:16:43,940 --> 00:16:46,060
+Lactation, again,
+
+258
+00:16:46,340 --> 00:16:50,310
+I have to just
+in conversation
+
+259
+00:16:51,160 --> 00:16:52,940
+with a pediatrician
+
+260
+00:16:54,420 --> 00:16:57,200
+to discuss whether
+or not it's
+
+261
+00:16:57,200 --> 00:17:00,140
+appropriate for
+the baby to nurse
+
+262
+00:17:00,140 --> 00:17:03,380
+when the mother
+is taking a DMARD.
+
+263
+00:17:04,500 --> 00:17:07,980
+Pediatrics will, I'm
+not going to give
+
+264
+00:17:07,980 --> 00:17:10,580
+you any examples
+of the use of these
+
+265
+00:17:10,580 --> 00:17:12,740
+drugs for pediatric
+patients. That's
+
+266
+00:17:12,740 --> 00:17:15,160
+a separate issue
+all to itself, but
+
+267
+00:17:15,160 --> 00:17:19,080
+most of these drugs
+are utilized for
+
+268
+00:17:19,080 --> 00:17:23,860
+arthritis in the
+pediatric patient.
+
+269
+00:17:24,360 --> 00:17:27,560
+And geriatric patients,
+we have to just
+
+270
+00:17:27,560 --> 00:17:29,260
+really keep in
+mind the comorbid
+
+271
+00:17:29,260 --> 00:17:32,480
+conditions, the
+susceptibility to adverse
+
+272
+00:17:32,480 --> 00:17:34,500
+effects. They tend
+to be more sensitive,
+
+273
+00:17:34,500 --> 00:17:38,120
+drug interactions,
+and organ functions.
+
+274
+00:17:40,280 --> 00:17:44,020
+This little chart
+kind of gives a really
+
+275
+00:17:44,020 --> 00:17:46,460
+a big picture view
+of how to think
+
+276
+00:17:46,460 --> 00:17:49,460
+about treatment of
+rheumatoid arthritis.
+
+277
+00:17:49,500 --> 00:17:52,380
+This is not a
+clinical management
+
+278
+00:17:53,180 --> 00:17:56,020
+lecture, but we
+do need to think
+
+279
+00:17:56,020 --> 00:17:58,460
+about therapeutic
+uses of the drugs
+
+280
+00:17:59,420 --> 00:18:05,420
+divided into
+features with low,
+
+281
+00:18:05,420 --> 00:18:08,820
+moderate, or high
+disease activity,
+
+282
+00:18:08,900 --> 00:18:12,880
+poor prognosis,
+and it's basically
+
+283
+00:18:12,880 --> 00:18:14,100
+what I just said. Do we
+
+284
+00:18:14,100 --> 00:18:16,100
+start with the
+DMARD monotherapy?
+
+285
+00:18:16,330 --> 00:18:18,100
+We might have
+to start with
+
+286
+00:18:18,100 --> 00:18:20,280
+combination therapy
+if there are
+
+287
+00:18:20,280 --> 00:18:22,000
+features of a
+poor prognosis.
+
+288
+00:18:23,260 --> 00:18:26,260
+And that's really
+basically the concept.
+
+289
+00:18:27,700 --> 00:18:30,760
+So let's talk
+glucocorticoids. I've started
+
+290
+00:18:30,760 --> 00:18:33,920
+only two, but there are
+quite a large number
+
+291
+00:18:33,920 --> 00:18:37,200
+of synthetic
+glucocorticoids available.
+
+292
+00:18:38,100 --> 00:18:40,720
+On the right, we
+see the general
+
+293
+00:18:40,720 --> 00:18:45,540
+steroid structure.
+of cortisol. Cortisol
+
+294
+00:18:45,540 --> 00:18:48,780
+is the glucocorticoid
+that's produced
+
+295
+00:18:48,780 --> 00:18:52,060
+in the cortex of
+the adrenal medulla.
+
+296
+00:18:52,060 --> 00:18:55,050
+And all of these
+glucocorticoid
+
+297
+00:18:55,220 --> 00:18:58,940
+drugs, synthetic
+glucocorticoids, mimic
+
+298
+00:18:59,600 --> 00:19:02,320
+the actions and effects
+
+299
+00:19:02,320 --> 00:19:04,100
+of cortisol. cortisol.
+
+300
+00:19:05,920 --> 00:19:09,560
+What cortisol does,
+these drugs do.
+
+301
+00:19:09,800 --> 00:19:13,260
+The difference is
+cortisol is regulated
+
+302
+00:19:13,320 --> 00:19:16,360
+by its own levels,
+feedback inhibition.
+
+303
+00:19:16,380 --> 00:19:19,980
+These drugs are just
+put into the body.
+
+304
+00:19:20,140 --> 00:19:26,700
+So the glucocorticoid
+levels will be related
+
+305
+00:19:26,700 --> 00:19:30,860
+to the severity of
+the adverse effects.
+
+306
+00:19:32,860 --> 00:19:37,040
+Speaking of
+pharmacokinetics,
+
+307
+00:19:38,120 --> 00:19:40,320
+they are lipophilic.
+
+308
+00:19:40,980 --> 00:19:43,680
+Steroids are
+lipophilic, so they're
+
+309
+00:19:43,680 --> 00:19:45,760
+well absorbed
+from the GI tract.
+
+310
+00:19:46,040 --> 00:19:50,360
+They do undergo significant
+hepatic metabolism,
+
+311
+00:19:50,360 --> 00:19:54,060
+but enough of that.
+The bioavailability
+
+312
+00:19:54,060 --> 00:19:57,920
+is high enough that
+they are effective.
+
+313
+00:19:59,940 --> 00:20:03,780
+Transported on
+plasma proteins,
+
+314
+00:20:03,780 --> 00:20:07,480
+corticosteroid
+binding globulin,
+
+315
+00:20:07,900 --> 00:20:11,820
+mainly albumin with
+the synthetic drugs,
+
+316
+00:20:12,540 --> 00:20:16,140
+these are saturable.
+I'm sure you remember
+
+317
+00:20:16,140 --> 00:20:19,670
+there are only a
+given number of the
+
+318
+00:20:19,670 --> 00:20:22,920
+plasma proteins
+circulating in the blood.
+
+319
+00:20:22,920 --> 00:20:25,540
+And if there are
+high levels of the
+
+320
+00:20:25,540 --> 00:20:32,420
+glucocorticoid also
+attached to the plasma
+
+321
+00:20:32,420 --> 00:20:36,540
+proteins, then the
+amount of free drug is
+
+322
+00:20:36,540 --> 00:20:39,830
+going to depend on
+how much drug has been
+
+323
+00:20:39,830 --> 00:20:41,760
+administered. The
+more drug, the more
+
+324
+00:20:41,760 --> 00:20:45,380
+saturation of the plasma
+proteins, the greater
+
+325
+00:20:45,380 --> 00:20:48,480
+the free concentration
+and vice versa.
+
+326
+00:20:50,430 --> 00:20:53,060
+I put a star on
+prednisone, so
+
+327
+00:20:53,060 --> 00:20:54,900
+we'll look at that
+for the moment.
+
+328
+00:20:57,340 --> 00:21:01,540
+Most of these synthetics
+undergo CYP3A4.
+
+329
+00:21:01,580 --> 00:21:04,260
+Prednisone so
+happens it doesn't.
+
+330
+00:21:04,500 --> 00:21:06,920
+Prednisone acts
+like cortisone
+
+331
+00:21:06,920 --> 00:21:11,300
+in terms of the
+metabolic enzyme.
+
+332
+00:21:11,300 --> 00:21:12,960
+Cortisone is inactive.
+
+333
+00:21:12,960 --> 00:21:14,380
+Prednisone is inactive.
+
+334
+00:21:15,080 --> 00:21:18,340
+They are in
+reversible equilibrium
+
+335
+00:21:18,340 --> 00:21:20,520
+with the active
+forms. Cortisol
+
+336
+00:21:20,520 --> 00:21:23,020
+is the active
+form of cortisone.
+
+337
+00:21:23,120 --> 00:21:24,800
+Prednisolone is the
+
+338
+00:21:24,800 --> 00:21:27,000
+active form
+of prednisone.
+
+339
+00:21:27,970 --> 00:21:31,280
+And these hydroxysteroid
+dehydrogenases
+
+340
+00:21:31,280 --> 00:21:36,000
+here are responsible for
+
+341
+00:21:36,000 --> 00:21:38,880
+catalyzing the
+conversion between them.
+
+342
+00:21:41,120 --> 00:21:44,940
+renol, glucuronide, and
+sulfate metabolites.
+
+343
+00:21:44,940 --> 00:21:47,140
+That's the excretion.
+Half-life really
+
+344
+00:21:47,140 --> 00:21:50,980
+varies according to
+the particular drug.
+
+345
+00:21:52,260 --> 00:21:57,380
+Importantly, the
+biologic activity lasts
+
+346
+00:21:57,380 --> 00:22:00,620
+longer than the plasma
+half-life because
+
+347
+00:22:00,620 --> 00:22:05,720
+of the changes that
+the drugs cause on gene
+
+348
+00:22:05,720 --> 00:22:11,200
+expression and
+intracellular responses.
+
+349
+00:22:16,400 --> 00:22:21,520
+Picture here now of
+these basic of this
+
+350
+00:22:21,520 --> 00:22:25,960
+basic physiologic
+effect of cortisol and
+
+351
+00:22:25,960 --> 00:22:29,360
+feedback inhibition
+which gets disrupted
+
+352
+00:22:29,360 --> 00:22:32,970
+when we give the
+synthetic glucocorticoids.
+
+353
+00:22:33,880 --> 00:22:38,940
+this is a figure
+illustrating the hpa
+
+354
+00:22:38,940 --> 00:22:43,280
+axis hypothalamus
+anterior pituitary so
+
+355
+00:22:43,280 --> 00:22:46,660
+p is pituitary to
+the adrenal cortex
+
+356
+00:22:46,990 --> 00:22:52,620
+hypothalamus signals
+the pituitary the
+
+357
+00:22:52,620 --> 00:22:55,640
+pituitary signals
+the adrenal cortex
+
+358
+00:22:55,640 --> 00:22:59,420
+to produce cortisol
+cortisol levels
+
+359
+00:22:59,420 --> 00:23:02,280
+increase as the
+cortisol levels increase
+
+360
+00:23:03,000 --> 00:23:08,880
+It's feedback
+inhibition on hair.
+
+361
+00:23:11,120 --> 00:23:14,020
+And that will lower
+the levels of cortisol.
+
+362
+00:23:17,880 --> 00:23:20,680
+The cortisol comes
+out of the adrenal
+
+363
+00:23:20,680 --> 00:23:24,200
+cortex here. The
+adrenals add renal.
+
+364
+00:23:24,200 --> 00:23:27,420
+They're added to,
+they sit on top of
+
+365
+00:23:27,420 --> 00:23:29,180
+the kidneys. They
+have nothing whatever
+
+366
+00:23:29,180 --> 00:23:31,640
+to do with kidney
+function. And the
+
+367
+00:23:31,640 --> 00:23:34,480
+kidneys have nothing
+to do with the adrenal
+
+368
+00:23:34,480 --> 00:23:37,700
+function other than
+possibly signaling
+
+369
+00:23:37,700 --> 00:23:40,560
+aldosterone to
+be secreted. But
+
+370
+00:23:40,560 --> 00:23:42,580
+that's a conversation
+for another time.
+
+371
+00:23:42,780 --> 00:23:45,700
+Here's cortisol level
+
+372
+00:23:45,700 --> 00:23:48,640
+in the zona fasciculata.
+
+373
+00:23:49,400 --> 00:23:52,440
+This is where cortisol
+is secreted from.
+
+374
+00:23:53,560 --> 00:23:57,600
+You probably remember
+epinephrine and
+
+375
+00:23:57,600 --> 00:24:00,020
+norepinephrine come out
+of the adrenal medulla.
+
+376
+00:24:01,780 --> 00:24:05,680
+and the other
+corticosteroid here
+
+377
+00:24:05,680 --> 00:24:08,720
+is aldosterone.
+It comes out of
+
+378
+00:24:08,720 --> 00:24:13,940
+the zonaglomerulosa
+mechanism.
+
+379
+00:24:14,500 --> 00:24:17,900
+I have this
+described on the next
+
+380
+00:24:17,900 --> 00:24:19,860
+slide, but we'll
+talk about it here.
+
+381
+00:24:20,100 --> 00:24:26,720
+Here is cortisol on
+corticosteroid binding
+
+382
+00:24:26,720 --> 00:24:31,020
+globulin, So prednisone
+and all of the others
+
+383
+00:24:31,020 --> 00:24:34,730
+are going to be on
+probably albumin
+
+384
+00:24:34,730 --> 00:24:39,000
+mostly, but also can be
+on the corticosteroid
+
+385
+00:24:39,000 --> 00:24:43,420
+binding globulin. So
+we see that together.
+
+386
+00:24:43,860 --> 00:24:49,500
+Then the steroid
+hormone releases
+
+387
+00:24:49,500 --> 00:24:52,640
+from the albumin,
+becomes free, passes
+
+388
+00:24:52,640 --> 00:24:56,600
+through the cell
+membrane, my passive
+
+389
+00:24:56,600 --> 00:25:02,140
+diffusion, binds
+to its receptor.
+
+390
+00:25:02,660 --> 00:25:05,980
+Now, the receptor
+is hanging out
+
+391
+00:25:05,980 --> 00:25:09,400
+here in the cytosol
+on chaperone
+
+392
+00:25:09,400 --> 00:25:11,180
+proteins, these are
+called, heat shock
+
+393
+00:25:11,180 --> 00:25:13,320
+proteins, that
+keep it inactive.
+
+394
+00:25:15,740 --> 00:25:19,140
+Once cortisol binds,
+a steroid binds,
+
+395
+00:25:19,140 --> 00:25:21,740
+this is a pretty
+common mechanism, to
+
+396
+00:25:21,740 --> 00:25:23,960
+the receptor, changes
+the conformation
+
+397
+00:25:23,960 --> 00:25:26,720
+this complex now
+changes the conformation
+
+398
+00:25:26,720 --> 00:25:30,200
+and the chaperone
+proteins leave
+
+399
+00:25:34,980 --> 00:25:40,420
+the steroid receptor
+complex dimerizes passes
+
+400
+00:25:40,420 --> 00:25:44,200
+into the nucleus binds
+to the corticosteroid
+
+401
+00:25:44,200 --> 00:25:47,900
+binding elements,
+response elements,
+
+402
+00:25:47,900 --> 00:25:52,460
+glucocorticoid response
+element, and therefore
+
+403
+00:25:52,460 --> 00:25:57,940
+affects the expression
+of various proteins.
+
+404
+00:26:01,510 --> 00:26:03,680
+And this is
+what it is here.
+
+405
+00:26:05,700 --> 00:26:10,420
+cortisol effects are
+broad and numerous
+
+406
+00:26:10,420 --> 00:26:13,280
+and the synthetic
+glucocorticoids
+
+407
+00:26:13,280 --> 00:26:17,400
+have the same effects
+cortisol is intended
+
+408
+00:26:17,400 --> 00:26:21,000
+to maintain
+metabolic homeostasis
+
+409
+00:26:22,620 --> 00:26:26,860
+it is important
+in carbohydrate
+
+410
+00:26:26,860 --> 00:26:29,780
+protein lipid
+metabolism and
+
+411
+00:26:29,780 --> 00:26:31,920
+electrical
+electrolyte balance
+
+412
+00:26:33,620 --> 00:26:37,300
+it is important
+in cardiovascular
+
+413
+00:26:37,300 --> 00:26:42,300
+skeletal muscle cns
+effects wide wide
+
+414
+00:26:42,300 --> 00:26:46,900
+effects in the body
+it is also important
+
+415
+00:26:46,900 --> 00:26:49,740
+in suppressing the
+immune system so
+
+416
+00:26:49,740 --> 00:26:55,360
+this is an anti
+-inflammatory effects
+
+417
+00:26:57,800 --> 00:27:00,100
+and it has a
+permissive effect on
+
+418
+00:27:00,100 --> 00:27:01,640
+hormones. I'm not
+going to go into
+
+419
+00:27:01,640 --> 00:27:04,320
+that. But what
+this means is it
+
+420
+00:27:04,320 --> 00:27:06,360
+works together with
+other hormones.
+
+421
+00:27:08,740 --> 00:27:12,820
+Okay, so what does
+happen? What are
+
+422
+00:27:12,820 --> 00:27:16,140
+the anti-inflammatory,
+immunomodulatory
+
+423
+00:27:16,140 --> 00:27:19,780
+effects of all
+of the synthetic
+
+424
+00:27:19,780 --> 00:27:22,720
+glucocorticoids
+and cortisol? all.
+
+425
+00:27:24,000 --> 00:27:27,900
+I've divided this into
+actions and effect.
+
+426
+00:27:31,140 --> 00:27:35,680
+So, glucocorticoids
+decrease the number
+
+427
+00:27:35,680 --> 00:27:37,220
+and activity of
+the inflammatory
+
+428
+00:27:37,220 --> 00:27:39,800
+cells. Okay, so
+there aren't as many
+
+429
+00:27:39,800 --> 00:27:42,280
+around. That'll
+reduce the response.
+
+430
+00:27:42,760 --> 00:27:46,100
+Decrease the movement
+of cells from the
+
+431
+00:27:46,100 --> 00:27:50,440
+circulation into the
+tissues. For inflammation
+
+432
+00:27:50,440 --> 00:27:53,840
+to happen in tissues,
+the circulating
+
+433
+00:27:53,840 --> 00:27:58,080
+immune cells need
+to move to the site
+
+434
+00:27:58,080 --> 00:28:01,480
+of inflammation, and
+that gets decreased.
+
+435
+00:28:04,200 --> 00:28:06,980
+Glucocorticoids
+prevent neutrophil
+
+436
+00:28:06,980 --> 00:28:11,340
+degranulation.
+Degranulation spills out
+
+437
+00:28:11,340 --> 00:28:14,160
+pro-inflammatory
+cytokines and
+
+438
+00:28:14,160 --> 00:28:19,000
+chemokines, and that
+calls other inflammatory
+
+439
+00:28:19,000 --> 00:28:21,180
+mediator. So
+that's prevented.
+
+440
+00:28:22,040 --> 00:28:25,200
+It induces the
+movement of circulating
+
+441
+00:28:25,200 --> 00:28:28,260
+leukocytes into the
+lymphoid tissue,
+
+442
+00:28:28,260 --> 00:28:31,000
+gets them out of
+circulation, and they
+
+443
+00:28:31,000 --> 00:28:32,700
+just sort of hang
+out in the lymphoid
+
+444
+00:28:32,700 --> 00:28:35,320
+tissue. So now there
+are a decreased number
+
+445
+00:28:35,320 --> 00:28:38,560
+of inflammatory
+cells by that route.
+
+446
+00:28:40,660 --> 00:28:43,960
+Reduced B cell
+clonal expansion. So
+
+447
+00:28:43,960 --> 00:28:45,740
+that's going to
+reduce the production
+
+448
+00:28:45,740 --> 00:28:50,460
+of autoantibodies.
+which should reduce
+
+449
+00:28:50,460 --> 00:28:53,600
+the immune attack,
+reduces T-cell
+
+450
+00:28:53,600 --> 00:28:55,980
+proliferation. T-cells
+are very important
+
+451
+00:28:55,980 --> 00:28:58,460
+generals in the
+immune response.
+
+452
+00:28:58,520 --> 00:29:01,940
+So if their
+proliferation is reduced,
+
+453
+00:29:01,940 --> 00:29:04,280
+that's going to
+impair the activation
+
+454
+00:29:04,280 --> 00:29:06,980
+and function of other
+immune cells, and
+
+455
+00:29:06,980 --> 00:29:10,020
+that can also reduce
+autoimmune attack.
+
+456
+00:29:11,760 --> 00:29:15,320
+Inhibit gene
+expression of the pro
+
+457
+00:29:15,320 --> 00:29:18,380
+-inflammatory mediators.
+That's part of the
+
+458
+00:29:18,380 --> 00:29:21,680
+anti-inflammatory
+response of cortisol.
+
+459
+00:29:21,680 --> 00:29:25,300
+So we see decreased
+levels of cyclooxygenase
+
+460
+00:29:25,300 --> 00:29:27,680
+2, which of
+course is going to
+
+461
+00:29:27,680 --> 00:29:30,300
+decrease levels of
+the prostaglandins.
+
+462
+00:29:30,780 --> 00:29:34,680
+Decreased levels of
+nitric oxide synthase,
+
+463
+00:29:34,680 --> 00:29:37,840
+that's important
+for basal dilation.
+
+464
+00:29:38,120 --> 00:29:41,520
+We're going to decrease
+levels of cytokines
+
+465
+00:29:41,520 --> 00:29:44,500
+and chemokines and
+other pro-inflammatory
+
+466
+00:29:44,500 --> 00:29:50,960
+proteins. and induce
+gene expression of
+
+467
+00:29:50,960 --> 00:29:54,060
+the counterbalancing
+anti-inflammatory
+
+468
+00:29:54,060 --> 00:29:57,680
+proteins. So I gave one
+example here, lipocortin
+
+469
+00:29:57,680 --> 00:30:01,200
+A, which suppresses
+phospholipase A2.
+
+470
+00:30:01,520 --> 00:30:05,060
+And suppressing
+phospholipase A2 prevents
+
+471
+00:30:05,060 --> 00:30:08,640
+the release of arachidonic
+acid, which prevents
+
+472
+00:30:08,640 --> 00:30:10,810
+the synthesis of
+the prostaglandins,
+
+473
+00:30:10,860 --> 00:30:13,820
+the leukotrienes, and
+other lipoxygenase
+
+474
+00:30:13,820 --> 00:30:17,920
+products. and other
+arachidonic acid products,
+
+475
+00:30:17,920 --> 00:30:25,630
+which is the reason why
+I selected phospholipase
+
+476
+00:30:25,700 --> 00:30:29,880
+A2 and lipocortin
+A as the example.
+
+477
+00:30:32,520 --> 00:30:36,340
+Therapeutic use now in
+rheumatoid arthritis.
+
+478
+00:30:36,340 --> 00:30:38,960
+Bridging therapy, I
+referred to that earlier.
+
+479
+00:30:38,960 --> 00:30:41,480
+Here, for rheumatoid
+arthritis, we use
+
+480
+00:30:41,480 --> 00:30:47,480
+oral prednisone,
+absolutely the most often,
+
+481
+00:30:47,480 --> 00:30:53,240
+probably 99% of the
+time, or 90% at least.
+
+482
+00:30:53,980 --> 00:30:56,700
+The dosing is
+based on clinical
+
+483
+00:30:56,700 --> 00:30:59,760
+experience and
+patient response.
+
+484
+00:31:00,080 --> 00:31:03,000
+So based on the
+rheumatologist clinical
+
+485
+00:31:03,000 --> 00:31:08,660
+experience, the dose will
+be prescribed and then
+
+486
+00:31:08,660 --> 00:31:11,900
+the patient will be
+observed for response.
+
+487
+00:31:13,460 --> 00:31:16,600
+So that is usually
+starting with a high
+
+488
+00:31:16,600 --> 00:31:19,500
+dose to rapidly decrease
+the inflammation
+
+489
+00:31:19,500 --> 00:31:23,420
+and then tapered to a
+lower maintenance dose.
+
+490
+00:31:23,420 --> 00:31:27,120
+The goal is the
+lowest effective dose,
+
+491
+00:31:27,120 --> 00:31:31,780
+hopefully in the
+neighborhood of cortisol,
+
+492
+00:31:32,140 --> 00:31:35,480
+natural endogenous
+cortisol levels.
+
+493
+00:31:36,160 --> 00:31:39,200
+And then the patient
+is maintained on
+
+494
+00:31:39,200 --> 00:31:43,280
+that low dose for
+that bridging time.
+
+495
+00:31:43,720 --> 00:31:48,880
+And once the DMARD
+is fully efficacious,
+
+496
+00:31:48,880 --> 00:31:54,600
+then the attempt at
+withdrawal will be begun,
+
+497
+00:31:54,600 --> 00:31:57,080
+which is gradually
+tapering even this lower
+
+498
+00:31:57,080 --> 00:32:00,900
+dose to discontinue
+the glucocorticoid.
+
+499
+00:32:01,900 --> 00:32:04,280
+That's the basic idea.
+
+500
+00:32:04,360 --> 00:32:07,040
+Initiation,
+maintenance, withdrawal.
+
+501
+00:32:08,620 --> 00:32:12,490
+So, okay, it's a great
+anti-inflammatory.
+
+502
+00:32:13,660 --> 00:32:16,520
+Now, glucocorticoid
+therapy can slow
+
+503
+00:32:16,520 --> 00:32:19,480
+the appearance of
+new bony erosions,
+
+504
+00:32:19,480 --> 00:32:22,000
+but it cannot be
+used long-term, or
+
+505
+00:32:22,000 --> 00:32:24,420
+at least we don't
+want to use it long
+
+506
+00:32:24,420 --> 00:32:28,000
+-term, as we do with
+the DMARD, because
+
+507
+00:32:28,000 --> 00:32:31,380
+of its long-term
+adverse effects.
+
+508
+00:32:32,980 --> 00:32:35,060
+Meanwhile,
+glucocorticoids are not
+
+509
+00:32:35,060 --> 00:32:37,640
+curative, and we know
+they're not specific
+
+510
+00:32:37,640 --> 00:32:40,860
+in terms of their
+mechanism of action.
+
+511
+00:32:41,990 --> 00:32:44,920
+I mentioned also
+that they could be
+
+512
+00:32:44,920 --> 00:32:48,220
+injected directly into
+the affected joint.
+
+513
+00:32:48,720 --> 00:32:51,660
+So that's generally
+if the patient
+
+514
+00:32:51,660 --> 00:32:55,080
+has only a few
+joints affected.
+
+515
+00:32:56,260 --> 00:33:00,580
+Also, it's useful for
+acute exacerbation,
+
+516
+00:33:00,980 --> 00:33:05,400
+in other words,
+acute inflammation in
+
+517
+00:33:05,400 --> 00:33:09,180
+selected joints, and
+possibly for control
+
+518
+00:33:09,180 --> 00:33:11,990
+of extra-articular
+manifestations.
+
+519
+00:33:12,380 --> 00:33:13,060
+So
+
+520
+00:33:20,950 --> 00:33:23,420
+that should have
+its own line.
+
+521
+00:33:26,590 --> 00:33:28,550
+Oral would be
+used for that.
+
+522
+00:33:29,790 --> 00:33:32,330
+Adverse effects
+associated with
+
+523
+00:33:32,330 --> 00:33:33,910
+glucocorticoids.
+I've said that
+
+524
+00:33:33,910 --> 00:33:36,370
+quite a number of
+times right now.
+
+525
+00:33:38,150 --> 00:33:41,870
+The following are
+typical toxicities of
+
+526
+00:33:41,870 --> 00:33:45,770
+prolonged therapy.
+and therapy is usually
+
+527
+00:33:45,770 --> 00:33:49,670
+prolonged. Even the
+maintenance bridging
+
+528
+00:33:49,670 --> 00:33:52,350
+stage is going to
+be weeks to months.
+
+529
+00:33:54,070 --> 00:33:56,530
+Hypertension.
+Cortisol itself
+
+530
+00:33:56,530 --> 00:33:58,630
+causes the blood
+pressure to go up.
+
+531
+00:33:58,690 --> 00:34:01,390
+Glucocorticoids do
+and the degree is
+
+532
+00:34:01,390 --> 00:34:05,230
+going to be dependent
+on the dose and the
+
+533
+00:34:05,230 --> 00:34:08,750
+duration of the
+glucocorticoid therapy.
+
+534
+00:34:09,010 --> 00:34:11,310
+Blood sugar goes up
+
+535
+00:34:11,790 --> 00:34:15,990
+And when blood sugar
+goes up, patients can
+
+536
+00:34:16,160 --> 00:34:21,390
+experience polyuria,
+the need to empty
+
+537
+00:34:21,390 --> 00:34:25,130
+the bladder very often,
+polydipsia, thirst.
+
+538
+00:34:26,710 --> 00:34:32,290
+First, the fat
+metabolism is affected
+
+539
+00:34:32,290 --> 00:34:37,030
+in which fat can
+accumulate in the
+
+540
+00:34:37,030 --> 00:34:39,450
+center of the body.
+In other words,
+
+541
+00:34:39,450 --> 00:34:42,330
+the abdominal
+accumulation of fat.
+
+542
+00:34:42,470 --> 00:34:46,390
+A buffalo hump, just
+like a hump on the
+
+543
+00:34:46,390 --> 00:34:49,890
+back of a buffalo. So
+that's fat accumulation
+
+544
+00:34:49,890 --> 00:34:53,210
+at the back of the
+neck. and moon faces.
+
+545
+00:34:53,350 --> 00:34:56,110
+The face becomes
+round. It
+
+546
+00:34:56,110 --> 00:34:58,390
+actually has
+a moon shape.
+
+547
+00:35:00,510 --> 00:35:04,170
+Facial skin becomes
+red. Skeletal muscle
+
+548
+00:35:04,170 --> 00:35:08,070
+wasting. So while the
+fat is accumulating
+
+549
+00:35:08,070 --> 00:35:10,210
+in the abdomen
+and other places,
+
+550
+00:35:10,250 --> 00:35:13,850
+the arms and legs can
+become quite thin.
+
+551
+00:35:14,090 --> 00:35:17,010
+The skin becomes
+thin and fragile.
+
+552
+00:35:17,010 --> 00:35:21,590
+It affects
+menstruation cycles.
+
+553
+00:35:21,590 --> 00:35:25,770
+It causes hairiness,
+hair to grow.
+
+554
+00:35:26,150 --> 00:35:30,250
+Acne decreases the
+******, can even
+
+555
+00:35:30,250 --> 00:35:32,590
+lead to impotence
+and infertility.
+
+556
+00:35:33,150 --> 00:35:36,490
+Cataracts with
+long-term use.
+
+557
+00:35:36,650 --> 00:35:39,350
+Increased
+intraocular pressure.
+
+558
+00:35:40,430 --> 00:35:43,410
+Growth retardation
+in children.
+
+559
+00:35:44,430 --> 00:35:45,990
+That said,
+
+560
+00:35:46,430 --> 00:35:49,890
+it's been found
+that when the
+
+561
+00:35:49,970 --> 00:35:53,150
+glucocorticoid is
+removed, the growth can
+
+562
+00:35:53,150 --> 00:35:57,470
+catch up, but the
+idea is to have as
+
+563
+00:35:57,470 --> 00:36:00,330
+low a dose for a
+shorter duration
+
+564
+00:36:00,330 --> 00:36:03,190
+as possible,
+especially in children.
+
+565
+00:36:03,810 --> 00:36:07,330
+It affects the
+bones, bone density,
+
+566
+00:36:07,330 --> 00:36:10,430
+osteoporosis can
+occur, fractures,
+
+567
+00:36:10,850 --> 00:36:15,470
+necrosis of the femoral
+head it's got quite
+
+568
+00:36:15,470 --> 00:36:18,990
+an effect in the cns
+some patients feel
+
+569
+00:36:18,990 --> 00:36:22,770
+amazing other patients
+feel really depressed
+
+570
+00:36:22,800 --> 00:36:26,790
+and it can even lead
+to psychosis and it can
+
+571
+00:36:26,790 --> 00:36:30,830
+cause headache increased
+risk of infection
+
+572
+00:36:30,830 --> 00:36:34,300
+of course it's an
+immunosuppressant impaired
+
+573
+00:36:34,300 --> 00:36:39,870
+wound healing and
+like NSAIDs it is
+
+574
+00:36:39,870 --> 00:36:43,290
+associated with ulcer
+formation, peptic ulcers.
+
+575
+00:36:47,350 --> 00:36:51,150
+The greater the
+cumulative dose, the more
+
+576
+00:36:51,150 --> 00:36:54,790
+likely to cause chronic
+adverse effects.
+
+577
+00:36:57,190 --> 00:37:01,790
+A little picture to
+illustrate all of the
+
+578
+00:37:01,790 --> 00:37:04,190
+various effects that
+we talked about,
+
+579
+00:37:04,190 --> 00:37:06,310
+and these are called
+Cushingoid effects.
+
+580
+00:37:06,510 --> 00:37:09,590
+Cushing disease
+is a disease of
+
+581
+00:37:09,590 --> 00:37:13,210
+hypercortisolism,
+too much cortisol.
+
+582
+00:37:13,870 --> 00:37:16,830
+And too much cortisol,
+Cushing disease,
+
+583
+00:37:16,830 --> 00:37:19,730
+can be caused by
+tumors, for example.
+
+584
+00:37:20,070 --> 00:37:21,970
+Well, now we're
+causing those
+
+585
+00:37:21,970 --> 00:37:24,870
+same effects by
+our drug therapy.
+
+586
+00:37:26,030 --> 00:37:28,010
+So hopefully this picture
+
+587
+00:37:28,010 --> 00:37:29,590
+will help you visualize.
+
+588
+00:37:30,140 --> 00:37:33,410
+And I also have
+pictures of real people
+
+589
+00:37:33,410 --> 00:37:37,230
+here. we see the fat
+accumulation in the
+
+590
+00:37:37,230 --> 00:37:41,250
+belly we see the thin
+skin thin fragile skin
+
+591
+00:37:41,250 --> 00:37:45,650
+here we see the striae
+or stretch marks
+
+592
+00:37:52,330 --> 00:37:57,050
+now talking about the
+hpa axis again i brought
+
+593
+00:37:57,050 --> 00:38:02,110
+this figure here
+complications of abrupt
+
+594
+00:38:02,110 --> 00:38:07,570
+corticoid glucocorticoid
+withdrawal acute
+
+595
+00:38:07,570 --> 00:38:11,510
+adrenal insufficiency,
+hence the HPA axis.
+
+596
+00:38:13,410 --> 00:38:17,650
+The glucocorticoids
+act like cortisol,
+
+597
+00:38:17,650 --> 00:38:20,630
+causing negative
+feedback on
+
+598
+00:38:20,630 --> 00:38:23,850
+production and
+secretion of cortisol.
+
+599
+00:38:24,850 --> 00:38:28,430
+Well, if the
+glucocorticoid
+
+600
+00:38:28,430 --> 00:38:30,450
+is abruptly withdrawn,
+
+601
+00:38:31,150 --> 00:38:36,490
+the adrenals have,
+meanwhile, over time,
+
+602
+00:38:37,870 --> 00:38:41,650
+shrunken and they are
+not able to quickly
+
+603
+00:38:41,650 --> 00:38:45,430
+respond to that
+deficit of cortisol
+
+604
+00:38:45,430 --> 00:38:48,990
+or glucocorticoid
+and therefore they
+
+605
+00:38:48,990 --> 00:38:51,990
+can go into acute
+adrenal insufficiency.
+
+606
+00:38:52,630 --> 00:38:55,610
+These are the symptoms
+severe abdominal
+
+607
+00:38:55,610 --> 00:38:59,130
+pains vomiting diarrhea
+profound muscle
+
+608
+00:38:59,130 --> 00:39:02,810
+weakness fatigue
+hypotension, hyponatremia,
+
+609
+00:39:02,810 --> 00:39:06,610
+hyperkalemia, even
+shock and death.
+
+610
+00:39:07,590 --> 00:39:12,060
+There is a disease
+of hypocortisolism.
+
+611
+00:39:12,870 --> 00:39:15,690
+It's called
+Addison's disease and
+
+612
+00:39:15,690 --> 00:39:19,550
+these are symptoms
+that one would see in
+
+613
+00:39:19,550 --> 00:39:23,210
+hypocortisolism of
+Addison's disease.
+
+614
+00:39:23,570 --> 00:39:25,670
+Well how do
+we manage that
+
+615
+00:39:25,670 --> 00:39:29,090
+gradually taper the dose.
+
+616
+00:39:30,290 --> 00:39:34,190
+So over time,
+depending on how long
+
+617
+00:39:34,190 --> 00:39:38,470
+the patient's been
+on the drug, it may
+
+618
+00:39:38,470 --> 00:39:41,810
+have to be tapered
+over many weeks.
+
+619
+00:39:43,050 --> 00:39:47,890
+Another potential
+adverse effect of abrupt
+
+620
+00:39:48,550 --> 00:39:51,550
+glucocorticoid
+withdrawal is flaring of
+
+621
+00:39:51,550 --> 00:39:54,250
+the disease. So the
+disease could just
+
+622
+00:39:54,250 --> 00:39:56,150
+flare up again with
+worsening or new
+
+623
+00:39:56,150 --> 00:39:58,770
+symptoms or increased
+disease activity.
+
+624
+00:39:59,350 --> 00:40:01,290
+So we're going
+backwards a little bit.
+
+625
+00:40:01,890 --> 00:40:04,390
+Down here I just put
+the mechanism of the
+
+626
+00:40:04,390 --> 00:40:07,450
+acute adrenal insufficiency
+if you'd like to
+
+627
+00:40:07,530 --> 00:40:08,790
+understand that.
+
+628
+00:40:10,590 --> 00:40:12,390
+This is a little mnemonic
+
+629
+00:40:12,390 --> 00:40:13,730
+I found on Wikipedia.
+
+630
+00:40:13,990 --> 00:40:16,450
+You can use it if it
+helps you. You can
+
+631
+00:40:16,450 --> 00:40:19,530
+make your own if you
+like or not use it.
+
+632
+00:40:20,610 --> 00:40:22,970
+So let's do a little
+knowledge check
+
+633
+00:40:22,970 --> 00:40:27,540
+here. I invite you to
+pause your video and
+
+634
+00:40:27,850 --> 00:40:29,830
+look at these questions
+and see if you
+
+635
+00:40:29,830 --> 00:40:33,990
+can answer them
+without looking back.
+
+636
+00:40:35,850 --> 00:40:37,410
+So I'll give
+you a moment.
+
+637
+00:40:40,090 --> 00:40:42,930
+Okay, I'll go over the
+answers now with you.
+
+638
+00:40:42,990 --> 00:40:46,510
+What is the goal of
+therapy in rheumatoid
+
+639
+00:40:46,510 --> 00:40:49,880
+arthritis? To achieve
+and maintain remission
+
+640
+00:40:49,880 --> 00:40:52,650
+or a state of low
+disease activity, of
+
+641
+00:40:52,650 --> 00:40:55,750
+course, always without
+compromising safety.
+
+642
+00:40:56,440 --> 00:40:58,190
+What is the role of
+
+643
+00:40:58,190 --> 00:41:00,410
+NSAIDs in RA management?
+
+644
+00:41:01,130 --> 00:41:04,510
+To control inflammation
+and provide
+
+645
+00:41:04,510 --> 00:41:06,730
+analgesia. They're
+not going to
+
+646
+00:41:09,490 --> 00:41:12,810
+alter the progression
+of the disease.
+
+647
+00:41:13,770 --> 00:41:15,530
+Naturally, we have
+to think about
+
+648
+00:41:15,530 --> 00:41:17,570
+patients' comorbidities.
+If they have a
+
+649
+00:41:17,570 --> 00:41:19,290
+peptic ulcer, they
+shouldn't be taking
+
+650
+00:41:19,290 --> 00:41:21,870
+an NSAID. That's
+just an example.
+
+651
+00:41:23,330 --> 00:41:26,750
+Now, we talk about
+the anti-inflammatory
+
+652
+00:41:26,750 --> 00:41:28,890
+dose, and for
+ibuprofen, I'm using
+
+653
+00:41:28,890 --> 00:41:30,590
+that because it's
+so commonly used
+
+654
+00:41:30,590 --> 00:41:32,970
+and available without
+a prescription,
+
+655
+00:41:33,660 --> 00:41:35,530
+400 milligrams,
+which is two
+
+656
+00:41:35,530 --> 00:41:37,550
+tablets every
+four to six hours,
+
+657
+00:41:37,550 --> 00:41:41,590
+is an anti
+-inflammatory dose.
+
+658
+00:41:42,490 --> 00:41:47,950
+so that would be
+400 times 6 is 1600
+
+659
+00:41:47,950 --> 00:41:52,130
+milligrams a day
+and 400 times 4
+
+660
+00:41:52,130 --> 00:41:54,310
+is 2400 milligrams
+a day you can
+
+661
+00:41:54,310 --> 00:41:57,850
+see it's a lot four
+times four well
+
+662
+00:42:05,960 --> 00:42:08,480
+i did the math backwards
+but you're good at
+
+663
+00:42:08,480 --> 00:42:10,680
+math so you can work
+it out and you can
+
+664
+00:42:10,680 --> 00:42:14,940
+see that either way
+it's a high dose what is
+
+665
+00:42:14,940 --> 00:42:17,960
+the role of prednisone
+in RA management to
+
+666
+00:42:22,720 --> 00:42:25,240
+control the
+inflammation. Prednisone
+
+667
+00:42:25,240 --> 00:42:27,640
+and other
+glucocorticoids rapidly
+
+668
+00:42:27,640 --> 00:42:29,940
+reduce inflammatory
+synovitis in
+
+669
+00:42:29,940 --> 00:42:32,420
+patients with
+rheumatoid arthritis.
+
+670
+00:42:33,420 --> 00:42:36,120
+Now Mary indicated
+that she doesn't
+
+671
+00:42:36,120 --> 00:42:38,020
+want to take the
+prednisone because it
+
+672
+00:42:38,020 --> 00:42:40,080
+will make my face
+and belly fat and
+
+673
+00:42:40,080 --> 00:42:41,860
+all those other
+effects you mentioned.
+
+674
+00:42:42,180 --> 00:42:44,040
+So what are the effects
+
+675
+00:42:44,040 --> 00:42:45,620
+that Mary is describing?
+
+676
+00:42:49,640 --> 00:42:51,640
+Glucocorticoids
+mimic the effects
+
+677
+00:42:51,640 --> 00:42:54,380
+of cortisol, fat
+distribution,
+
+678
+00:42:54,380 --> 00:42:56,420
+increased appetite,
+water retention,
+
+679
+00:42:56,420 --> 00:43:01,260
+and that entire
+list on slide 34.
+
+680
+00:43:04,500 --> 00:43:07,260
+Let's talk about
+the DMARDs now.
+
+681
+00:43:07,260 --> 00:43:09,200
+Just a brief
+introduction, and
+
+682
+00:43:09,200 --> 00:43:10,730
+then we'll talk
+about mesotrexate.
+
+683
+00:43:11,500 --> 00:43:15,380
+DMARDs are defined
+as drugs that
+
+684
+00:43:15,380 --> 00:43:17,660
+slow the radiographic
+progression
+
+685
+00:43:17,660 --> 00:43:19,620
+of rheumatoid arthritis.
+
+686
+00:43:20,300 --> 00:43:24,600
+That's the point of
+modifying the disease.
+
+687
+00:43:27,260 --> 00:43:30,840
+DMARDs have minimal
+direct nonspecific
+
+688
+00:43:30,840 --> 00:43:33,500
+anti-inflammatory and
+analgesic effects. Not
+
+689
+00:43:33,500 --> 00:43:35,880
+like the NSAIDs, which
+have direct effects
+
+690
+00:43:35,880 --> 00:43:38,040
+that you know
+about. Not like the
+
+691
+00:43:38,040 --> 00:43:43,540
+glucocorticoids. But
+these don't have direct
+
+692
+00:43:43,540 --> 00:43:47,260
+anti-inflammatory
+effects, nonspecific
+
+693
+00:43:47,260 --> 00:43:51,620
+effects, which we'll
+see when we get to it.
+
+694
+00:43:52,560 --> 00:43:55,220
+The clinical
+benefit is usually
+
+695
+00:43:55,220 --> 00:43:57,860
+delayed for
+weeks or months.
+
+696
+00:43:59,380 --> 00:44:04,180
+The response,
+patient's response, is
+
+697
+00:44:04,180 --> 00:44:06,340
+some clinical
+improvement. Most
+
+698
+00:44:06,340 --> 00:44:08,560
+patients have some
+clinical improvement.
+
+699
+00:44:09,260 --> 00:44:12,240
+It frequently induces
+an improvement
+
+700
+00:44:12,240 --> 00:44:15,220
+in serological
+evidence of disease.
+
+701
+00:44:15,220 --> 00:44:16,980
+That's the whole
+point of a DMARD.
+
+702
+00:44:18,840 --> 00:44:21,860
+And DMARD therapy,
+especially in the
+
+703
+00:44:21,860 --> 00:44:26,440
+early part of the
+disease, ******* the
+
+704
+00:44:26,440 --> 00:44:28,880
+development of bone
+erosion. Once those
+
+705
+00:44:28,880 --> 00:44:32,200
+bones have eroded
+in later disease, if
+
+706
+00:44:32,200 --> 00:44:34,320
+it started, it's
+not going to make it
+
+707
+00:44:34,320 --> 00:44:36,580
+go backwards. It's
+not going to cure.
+
+708
+00:44:38,500 --> 00:44:42,300
+so methotrexate is a
+folate analog i put
+
+709
+00:44:42,300 --> 00:44:47,160
+folate up here folic
+acid and it's an anti
+
+710
+00:44:47,160 --> 00:44:50,780
+-metabolite which
+means it blocks folate
+
+711
+00:44:50,780 --> 00:44:55,000
+metabolism just a couple
+of slight differences
+
+712
+00:44:55,520 --> 00:44:58,480
+And the structure allows
+
+713
+00:44:58,480 --> 00:45:00,260
+it to be a blocker.
+
+714
+00:45:04,120 --> 00:45:05,740
+Pharmacokinetics first.
+
+715
+00:45:05,900 --> 00:45:07,900
+Oral, subcutaneous,
+
+716
+00:45:07,900 --> 00:45:09,860
+intramuscular,
+usually oral.
+
+717
+00:45:09,860 --> 00:45:12,280
+If larger doses
+have to be taken,
+
+718
+00:45:12,280 --> 00:45:15,940
+it might need
+to be injected,
+
+719
+00:45:15,940 --> 00:45:17,980
+usually
+subcutaneously. Lastly,
+
+720
+00:45:18,520 --> 00:45:22,800
+the absorption
+of the drug is
+
+721
+00:45:22,800 --> 00:45:26,260
+saturable because
+it is taken up
+
+722
+00:45:26,260 --> 00:45:29,360
+by reduced folate
+transporters.
+
+723
+00:45:29,700 --> 00:45:34,500
+And if there's too
+much methotrexate
+
+724
+00:45:34,500 --> 00:45:39,940
+coming at them, the entire
+dose of methotrexate
+
+725
+00:45:39,940 --> 00:45:42,280
+won't be absorbed. So the
+
+726
+00:45:42,390 --> 00:45:45,690
+bioavailability for that
+dose will be decreased.
+
+727
+00:45:45,760 --> 00:45:47,820
+And therefore, it
+has to be injected.
+
+728
+00:45:49,000 --> 00:45:50,580
+The drugs are given
+
+729
+00:45:50,580 --> 00:45:53,240
+once weekly, a low dose.
+
+730
+00:45:53,640 --> 00:45:58,040
+They bind a protein
+in the blood. 50%
+
+731
+00:45:58,040 --> 00:46:02,940
+is bound, 50% free
+at the usual doses.
+
+732
+00:46:03,320 --> 00:46:07,520
+But these have a
+narrow therapeutic
+
+733
+00:46:07,520 --> 00:46:10,080
+window and potential
+for toxicities.
+
+734
+00:46:10,190 --> 00:46:12,140
+So the higher the dose,
+
+735
+00:46:12,180 --> 00:46:14,760
+or what am I saying? So,
+
+736
+00:46:15,670 --> 00:46:19,280
+well, yes, the higher
+the dose, the proteins
+
+737
+00:46:19,280 --> 00:46:21,900
+become saturated,
+higher free levels.
+
+738
+00:46:21,900 --> 00:46:26,460
+Thinking now
+about the anti
+
+739
+00:46:26,460 --> 00:46:29,480
+-cancer doses, which
+are very high.
+
+740
+00:46:30,040 --> 00:46:33,740
+The drug penetrates
+body fluids, so it
+
+741
+00:46:33,740 --> 00:46:36,040
+gets right there
+where it needs to be.
+
+742
+00:46:36,180 --> 00:46:38,080
+Sustained
+concentrations of
+
+743
+00:46:38,080 --> 00:46:40,500
+liver and kidney,
+so the methotrexate
+
+744
+00:46:40,990 --> 00:46:43,340
+gets into lots of steels.
+
+745
+00:46:43,620 --> 00:46:46,620
+And it does concentrate
+in liver and
+
+746
+00:46:46,620 --> 00:46:49,100
+kidney. What are we
+thinking? Oh, concentration
+
+747
+00:46:49,100 --> 00:46:51,380
+in liver and kidney.
+I wonder if it
+
+748
+00:46:51,380 --> 00:46:54,160
+causes hepatotoxicity
+and renal toxicity.
+
+749
+00:46:54,160 --> 00:46:55,580
+Yes, it can.
+
+750
+00:46:56,060 --> 00:47:00,120
+It does not *********
+into the CNS.
+
+751
+00:47:00,780 --> 00:47:03,420
+And it is a substrate of
+
+752
+00:47:03,420 --> 00:47:06,300
+these various
+transporters.
+
+753
+00:47:07,680 --> 00:47:10,060
+Because it's
+not metabolized.
+
+754
+00:47:11,060 --> 00:47:14,240
+it's taken up
+by proliferating
+
+755
+00:47:14,240 --> 00:47:16,480
+cells so those
+cells that are
+
+756
+00:47:16,480 --> 00:47:21,720
+making dna and
+making puranes
+
+757
+00:47:22,240 --> 00:47:25,100
+and then once inside
+the cell it gets
+
+758
+00:47:25,100 --> 00:47:29,140
+glutamates put on it and
+i've put some red boxes
+
+759
+00:47:29,140 --> 00:47:34,380
+here around the
+glutamate portion so that
+
+760
+00:47:34,380 --> 00:47:36,520
+you can visualize what
+we're talking about
+
+761
+00:47:36,520 --> 00:47:41,320
+and that the The
+methotrexate, like folate,
+
+762
+00:47:41,460 --> 00:47:48,740
+which is also glutamated,
+is active, and it
+
+763
+00:47:48,740 --> 00:47:52,600
+does not leave the
+cell as a glutamate
+
+764
+00:47:52,600 --> 00:47:55,280
+form. It stays there.
+It concentrates there.
+
+765
+00:47:55,900 --> 00:47:59,020
+So the biologic
+half-life is longer
+
+766
+00:47:59,020 --> 00:48:02,220
+than the plasma half
+-life, and then it's
+
+767
+00:48:02,220 --> 00:48:04,640
+slowly eliminated
+from those cells.
+
+768
+00:48:06,440 --> 00:48:09,920
+uh renal excretion
+unchanged drug
+
+769
+00:48:09,920 --> 00:48:13,860
+so renal um renal
+function matters
+
+770
+00:48:14,880 --> 00:48:18,620
+for the low dose and
+plasma half-life is
+
+771
+00:48:18,620 --> 00:48:21,740
+about three to ten
+hours just to remind
+
+772
+00:48:21,740 --> 00:48:23,720
+you it's a biologic
+half-life that
+
+773
+00:48:23,720 --> 00:48:28,280
+really counts the onset
+three to six weeks
+
+774
+00:48:28,460 --> 00:48:31,460
+And believe it
+or not, from
+
+775
+00:48:31,460 --> 00:48:33,500
+among the
+conventionals, this
+
+776
+00:48:33,500 --> 00:48:36,240
+is a fairly rapid
+onset. Well,
+
+777
+00:48:41,090 --> 00:48:42,130
+what does it do?
+
+778
+00:48:42,750 --> 00:48:45,850
+It blocks dihydrofolate
+reductase.
+
+779
+00:48:45,850 --> 00:48:48,870
+So that's going
+to block the
+
+780
+00:48:48,870 --> 00:48:51,790
+conversion of folic
+acid to reduced
+
+781
+00:48:51,790 --> 00:48:53,630
+folate, which is
+the active form.
+
+782
+00:48:53,770 --> 00:48:58,580
+And therefore, that's
+going to inhibit
+
+783
+00:48:58,670 --> 00:49:03,070
+the DNA and RNA
+synthesis and purine.
+
+784
+00:49:07,570 --> 00:49:11,330
+metabolism. Thymitylate
+synthase inhibition
+
+785
+00:49:11,330 --> 00:49:14,450
+blocks the formation
+of thymitylate and
+
+786
+00:49:14,450 --> 00:49:16,970
+that's going to impair
+DNA synthesis and
+
+787
+00:49:16,970 --> 00:49:20,090
+repair. So that's
+something called anti
+
+788
+00:49:20,090 --> 00:49:23,170
+-proliferative effects.
+If white blood cells
+
+789
+00:49:23,470 --> 00:49:28,310
+formation of DNA
+synthesis and repair
+
+790
+00:49:28,310 --> 00:49:31,810
+of DNA is blocked it's
+not going to be able
+
+791
+00:49:31,810 --> 00:49:34,130
+to proliferate. So
+that's where the anti
+
+792
+00:49:34,130 --> 00:49:37,670
+-proliferative effects
+term comes from.
+
+793
+00:49:37,930 --> 00:49:42,270
+And this seems to
+be the one that's
+
+794
+00:49:42,270 --> 00:49:48,170
+important for the anti
+-inflammatory effect.
+
+795
+00:49:50,710 --> 00:49:53,810
+Something called
+ACAR formal
+
+796
+00:49:53,810 --> 00:49:55,830
+transferase inhibition.
+
+797
+00:49:56,450 --> 00:49:58,390
+And I'll go
+into more detail
+
+798
+00:49:58,390 --> 00:50:00,710
+on this on the
+next slide.
+
+799
+00:50:01,810 --> 00:50:04,550
+Now, on the
+following slide. This
+
+800
+00:50:04,550 --> 00:50:06,690
+slide has all of
+these acronyms
+
+801
+00:50:06,690 --> 00:50:08,450
+that are on the
+following slide.
+
+802
+00:50:11,010 --> 00:50:12,870
+Here's our cell.
+
+803
+00:50:15,890 --> 00:50:17,810
+Methotrexate
+enters through
+
+804
+00:50:17,810 --> 00:50:20,090
+the reduced folate
+transporter.
+
+805
+00:50:21,670 --> 00:50:23,830
+Here's our methotrexate.
+
+806
+00:50:25,540 --> 00:50:28,160
+And it is converted
+to the polyglutamate.
+
+807
+00:50:29,210 --> 00:50:32,850
+And now the
+polyglutamate will block
+
+808
+00:50:32,850 --> 00:50:35,270
+all of these
+different enzymes.
+
+809
+00:50:36,380 --> 00:50:38,330
+While I'm here, I
+want to point out
+
+810
+00:50:38,330 --> 00:50:42,570
+that this is a
+reversible reaction, and
+
+811
+00:50:42,570 --> 00:50:45,270
+it's mostly going
+in this direction,
+
+812
+00:50:45,270 --> 00:50:48,470
+but methotrexate
+polyglutamate can
+
+813
+00:50:48,470 --> 00:50:50,590
+be converted back
+to methotrexate, in
+
+814
+00:50:50,590 --> 00:50:53,730
+which point it leaves
+the cell. Okay.
+
+815
+00:50:56,050 --> 00:51:00,570
+Here is the dihydrofolate
+reductase cycle.
+
+816
+00:51:00,930 --> 00:51:03,190
+We're blocking that,
+
+817
+00:51:03,650 --> 00:51:06,490
+folic acid to reduced
+
+818
+00:51:06,490 --> 00:51:08,350
+folate, and this
+whole thing.
+
+819
+00:51:09,710 --> 00:51:12,650
+Thimethylate synthase,
+we're blocking
+
+820
+00:51:12,650 --> 00:51:15,560
+here, so we're
+blocking deoxyuridine
+
+821
+00:51:15,570 --> 00:51:20,030
+monophosphate to be
+turned into deoxythymidine
+
+822
+00:51:20,050 --> 00:51:23,110
+monophosphate, which
+is thimethylate,
+
+823
+00:51:23,110 --> 00:51:26,160
+and that will block
+DNA synthesis.
+
+824
+00:51:28,170 --> 00:51:33,350
+taking a look now
+from this part of the
+
+825
+00:51:33,350 --> 00:51:39,870
+cycle there is a product
+called a car which
+
+826
+00:51:39,870 --> 00:51:43,670
+has a really long
+name which is turned
+
+827
+00:51:43,670 --> 00:51:47,550
+into this with the
+help of this enzyme,
+
+828
+00:51:47,930 --> 00:51:51,750
+which is ACAR
+transformylase.
+
+829
+00:51:51,910 --> 00:51:54,490
+So this is
+getting blocked.
+
+830
+00:51:57,130 --> 00:51:59,290
+And blocking it then will
+
+831
+00:51:59,290 --> 00:52:02,450
+cause an
+accumulation of ACAR.
+
+832
+00:52:05,330 --> 00:52:10,450
+And as ACAR increases,
+it's going to
+
+833
+00:52:10,450 --> 00:52:13,990
+block this enzyme
+and this enzyme.
+
+834
+00:52:15,750 --> 00:52:19,610
+adenosine monophosphate
+deaminase and
+
+835
+00:52:19,610 --> 00:52:25,590
+adenosine deaminase so
+these blocking these
+
+836
+00:52:25,590 --> 00:52:31,950
+prevents the conversion
+to their other
+
+837
+00:52:31,950 --> 00:52:37,150
+products and the
+result is an increase
+
+838
+00:52:37,150 --> 00:52:40,990
+in adenosine which goes
+into the extracellular
+
+839
+00:52:40,990 --> 00:52:42,290
+space. We're
+going to go to the
+
+840
+00:52:42,290 --> 00:52:45,730
+next slide now for
+see what happens next.
+
+841
+00:52:48,440 --> 00:52:51,270
+This is the same thing
+we were talking about
+
+842
+00:52:51,270 --> 00:52:55,230
+but it's been put in
+a linear look here.
+
+843
+00:52:55,470 --> 00:53:00,170
+So here's our ACAR.
+This is the part
+
+844
+00:53:00,170 --> 00:53:03,790
+out of the dihydrofolate
+reductase cycle
+
+845
+00:53:03,790 --> 00:53:07,350
+right here. here's
+our mesotrexate
+
+846
+00:53:07,350 --> 00:53:12,490
+blocking ATIC so
+ACAR is accumulating
+
+847
+00:53:14,640 --> 00:53:18,070
+and as it accumulates
+it's going to
+
+848
+00:53:18,070 --> 00:53:21,350
+block adenosine
+monophosphate deaminase
+
+849
+00:53:21,350 --> 00:53:27,090
+and adenosine and
+adenosine deaminase.
+
+850
+00:53:27,100 --> 00:53:31,490
+So those get blocked
+and because they
+
+851
+00:53:31,490 --> 00:53:35,790
+get blocked AMP and
+adenosine accumulate
+
+852
+00:53:35,790 --> 00:53:39,010
+because they are not
+now converted back
+
+853
+00:53:39,010 --> 00:53:41,190
+to their products
+in that direction.
+
+854
+00:53:42,150 --> 00:53:45,850
+So AMP goes out into
+the extracellular
+
+855
+00:53:45,850 --> 00:53:47,910
+space. Adenosine
+goes out into the
+
+856
+00:53:47,910 --> 00:53:52,210
+extracellular space. AMP
+is converted to adenosine
+
+857
+00:53:52,210 --> 00:53:55,650
+out here. And now
+adenosine will
+
+858
+00:53:55,650 --> 00:54:01,350
+activate its receptors.
+these squiggles here
+
+859
+00:54:01,350 --> 00:54:03,850
+represent G-protein
+coupled receptors,
+
+860
+00:54:04,030 --> 00:54:09,530
+A2 and A1, both of them
+
+861
+00:54:11,490 --> 00:54:16,230
+have anti-inflammatory
+and immunomodulatory
+
+862
+00:54:16,230 --> 00:54:20,050
+effects. So by
+activating its receptors,
+
+863
+00:54:20,050 --> 00:54:23,330
+it leads to
+immunosuppression and
+
+864
+00:54:23,330 --> 00:54:27,740
+anti-inflammatory
+effects. So that is the
+
+865
+00:54:27,740 --> 00:54:32,450
+theory based on quite
+a bit of empirical
+
+866
+00:54:32,450 --> 00:54:36,110
+evidence of the
+anti-inflammatory
+
+867
+00:54:36,110 --> 00:54:40,250
+effects of mesotrexate
+in immune diseases.
+
+868
+00:54:45,980 --> 00:54:46,480
+Okay,
+
+869
+00:54:47,160 --> 00:54:49,930
+anti-inflammatory
+effects. So mesotrexate
+
+870
+00:54:50,040 --> 00:54:52,800
+suppresses the function
+of the neutrophils,
+
+871
+00:54:52,800 --> 00:54:54,680
+the macrophages,
+dendritic cells,
+
+872
+00:54:54,680 --> 00:54:58,360
+lymphocytes, and
+polymorphonucleosides.
+
+873
+00:54:58,640 --> 00:55:02,340
+The antiproliferative
+effects are direct
+
+874
+00:55:02,340 --> 00:55:05,100
+inhibitory effects
+on the proliferation
+
+875
+00:55:05,100 --> 00:55:08,620
+of all of these
+various cells and also
+
+876
+00:55:08,620 --> 00:55:12,340
+T and B cells,
+stimulates opoptosis,
+
+877
+00:55:12,340 --> 00:55:14,980
+inhibits the pro
+-inflammatory cytokines
+
+878
+00:55:14,980 --> 00:55:21,480
+that are secreted by
+these various cells and
+
+879
+00:55:21,480 --> 00:55:25,020
+are linked to the
+rheumatoid, arthritis,
+
+880
+00:55:25,480 --> 00:55:28,220
+synovitis,
+pathophysiology.
+
+881
+00:55:30,680 --> 00:55:34,480
+So why methotrexate
+first line?
+
+882
+00:55:35,200 --> 00:55:37,000
+So why first
+line? I should
+
+883
+00:55:37,000 --> 00:55:38,420
+say methotrexate here.
+
+884
+00:55:38,610 --> 00:55:41,780
+So why is methotrexate
+a first line DMARD
+
+885
+00:55:41,780 --> 00:55:45,460
+and anchor in
+combination therapies?
+
+886
+00:55:45,860 --> 00:55:49,320
+Once weekly
+dosing, so really
+
+887
+00:55:49,320 --> 00:55:51,720
+convenient.
+It's low dosing.
+
+888
+00:55:51,960 --> 00:55:54,320
+Proven clinical benefits.
+
+889
+00:55:54,440 --> 00:55:57,060
+Cardiovascular all
+-cause mortality.
+
+890
+00:55:57,160 --> 00:55:59,500
+Long-term
+sustained effects.
+
+891
+00:55:59,500 --> 00:56:01,860
+Well-understood
+toxicity profile.
+
+892
+00:56:02,060 --> 00:56:02,960
+Okay,
+
+893
+00:56:03,300 --> 00:56:06,240
+just because drugs
+have toxicities doesn't
+
+894
+00:56:06,240 --> 00:56:08,200
+mean we can't use
+them if we need
+
+895
+00:56:08,200 --> 00:56:11,900
+them. If the benefit
+outweighs the risk,
+
+896
+00:56:11,900 --> 00:56:17,100
+we just have to be
+closely monitoring.
+
+897
+00:56:19,170 --> 00:56:21,460
+Methotrexate can be
+used in combination
+
+898
+00:56:21,460 --> 00:56:24,800
+with other rheumatoid
+arthritis agents.
+
+899
+00:56:25,400 --> 00:56:29,360
+It's approved for
+use in children's
+
+900
+00:56:29,360 --> 00:56:32,340
+arthritis, and it's
+got a whole bunch
+
+901
+00:56:32,340 --> 00:56:35,440
+of other uses,
+including cancer.
+
+902
+00:56:37,060 --> 00:56:38,600
+That's what it
+was originally
+
+903
+00:56:38,600 --> 00:56:42,280
+developed for, was
+cancer, leukemia.
+
+904
+00:56:45,020 --> 00:56:46,260
+Okay,
+
+905
+00:56:47,240 --> 00:56:48,480
+adverse effects. So
+
+906
+00:56:48,480 --> 00:56:49,700
+what's going
+on with this?
+
+907
+00:56:50,980 --> 00:56:52,920
+GI toxicity.
+
+908
+00:56:53,340 --> 00:56:56,460
+All of these effects
+are going to be
+
+909
+00:56:56,460 --> 00:57:00,340
+related to rapidly
+proliferating body
+
+910
+00:57:01,220 --> 00:57:05,700
+cells. proliferating
+cells, like in the
+
+911
+00:57:05,700 --> 00:57:08,660
+GI, like the mucosa
+in the GI. So
+
+912
+00:57:08,660 --> 00:57:12,080
+gastrointestinal toxicity,
+and that includes
+
+913
+00:57:12,080 --> 00:57:15,100
+toxicity in the
+mouth, stomatitis.
+
+914
+00:57:16,800 --> 00:57:20,540
+So mucositis, that's
+called what I just
+
+915
+00:57:20,540 --> 00:57:24,060
+described, and inflammation
+of the mucous membranes
+
+916
+00:57:24,060 --> 00:57:26,440
+in the mouth is just
+called stomatitis.
+
+917
+00:57:28,500 --> 00:57:31,520
+And stomatitis may
+be the first symptom
+
+918
+00:57:31,520 --> 00:57:35,780
+that a person
+will develop on
+
+919
+00:57:35,780 --> 00:57:38,520
+methotrexate toxicity.
+That's kind of
+
+920
+00:57:38,520 --> 00:57:41,320
+a harbinger of the
+other toxicities.
+
+921
+00:57:41,950 --> 00:57:43,740
+Hepatotoxicity,
+we referred to
+
+922
+00:57:43,740 --> 00:57:46,640
+that before. Bone
+marrow toxicity.
+
+923
+00:57:49,460 --> 00:57:53,980
+kidney can cause i
+said it's used to
+
+924
+00:57:53,980 --> 00:57:56,640
+treat cancer but a lot
+of cancer treatments
+
+925
+00:57:56,640 --> 00:57:59,880
+can cause cancer
+and a lot of immune
+
+926
+00:57:59,880 --> 00:58:01,820
+suppressants most
+of the powerful
+
+927
+00:58:01,820 --> 00:58:04,820
+immune suppressants
+can cause lymphomas
+
+928
+00:58:06,040 --> 00:58:09,720
+pneumonitis so that's
+pulmonary or lung
+
+929
+00:58:09,720 --> 00:58:13,600
+inflammation skin
+inflammation loss of hair
+
+930
+00:58:13,600 --> 00:58:18,220
+phototoxicity infections
+immunosuppressants
+
+931
+00:58:18,220 --> 00:58:22,180
+increase the patient's
+risk for infection
+
+932
+00:58:22,180 --> 00:58:26,040
+infertility menstrual
+irregularities drug
+
+933
+00:58:26,040 --> 00:58:29,280
+interactions i put
+this in red and bold
+
+934
+00:58:29,280 --> 00:58:32,920
+absolutely contraindicated
+absolutely absolutely
+
+935
+00:58:32,920 --> 00:58:37,000
+contraindicated in
+pregnancy in fact
+
+936
+00:58:37,000 --> 00:58:41,880
+methotrexate is used
+for ectopic pregnancy
+
+937
+00:58:44,460 --> 00:58:49,220
+all patients all
+patients folic acid
+
+938
+00:58:49,220 --> 00:58:53,480
+daily supplementation
+is given to reduce
+
+939
+00:58:53,480 --> 00:58:56,900
+the gi bone marrow
+suppression and liver
+
+940
+00:58:56,900 --> 00:59:00,240
+function test
+abnormalities so folic acid
+
+941
+00:59:00,240 --> 00:59:03,160
+really can be
+helpful in mitigating
+
+942
+00:59:03,160 --> 00:59:07,700
+some of these toxicities
+and it does not
+
+943
+00:59:07,700 --> 00:59:11,320
+reduce the efficacy
+of the methotrexate.
+
+944
+00:59:13,760 --> 00:59:16,900
+Talking about folic
+acid supplementation,
+
+945
+00:59:16,900 --> 00:59:20,080
+folic acid is also
+known as vitamin B9,
+
+946
+00:59:20,080 --> 00:59:24,680
+and when taken daily
+at one milligram per
+
+947
+00:59:24,680 --> 00:59:28,300
+day, it can replete
+the folate stores in
+
+948
+00:59:28,300 --> 00:59:30,880
+patients who take this
+low dose methotrexate
+
+949
+00:59:31,080 --> 00:59:35,260
+chronically. And if
+the folic acid isn't
+
+950
+00:59:35,260 --> 00:59:37,640
+quite doing it, then
+there's something
+
+951
+00:59:37,640 --> 00:59:42,880
+called leucovorin,
+which is a reduced form
+
+952
+00:59:42,880 --> 00:59:45,900
+of folic acid. And
+there's a picture here.
+
+953
+00:59:46,500 --> 00:59:48,680
+This is folic acid.
+
+954
+00:59:48,920 --> 00:59:51,880
+This is reduced
+folic acid.
+
+955
+00:59:53,220 --> 00:59:55,400
+Oh, I got the arrow
+in the wrong place.
+
+956
+00:59:56,620 --> 01:00:03,440
+So leucovorin is
+a form of reduced
+
+957
+01:00:03,440 --> 01:00:06,460
+folate. It gets
+converted into,
+
+958
+01:00:07,310 --> 01:00:09,120
+well, we see
+it right here.
+
+959
+01:00:10,040 --> 01:00:14,540
+And it therefore
+bypasses the block, the
+
+960
+01:00:14,540 --> 01:00:19,100
+dihydrofolate retugtase
+block and just replaces
+
+961
+01:00:19,100 --> 01:00:23,680
+the reduced folate,
+the active folate.
+
+962
+01:00:26,020 --> 01:00:29,320
+Okay, drug
+interactions. Transport,
+
+963
+01:00:29,320 --> 01:00:30,860
+plasma protein binding,
+
+964
+01:00:30,860 --> 01:00:32,340
+and mechanism related.
+
+965
+01:00:32,800 --> 01:00:34,260
+Transport, we talked
+
+966
+01:00:34,260 --> 01:00:35,600
+about the transportation,
+
+967
+01:00:35,820 --> 01:00:41,520
+the transporters that
+the methotrexate is
+
+968
+01:00:41,520 --> 01:00:43,780
+a substrate for. Well,
+if we block those,
+
+969
+01:00:43,780 --> 01:00:45,580
+that's going to
+increase methotrexate
+
+970
+01:00:45,580 --> 01:00:49,640
+concentration simple
+as that we've talked
+
+971
+01:00:49,640 --> 01:00:52,520
+about NSAIDs we've
+talked about aspirin
+
+972
+01:00:52,520 --> 01:00:54,820
+we've talked about
+penicillins we've talked
+
+973
+01:00:54,820 --> 01:00:56,920
+about sulfonamide so
+you should remember
+
+974
+01:00:56,920 --> 01:00:59,540
+those and you should
+always remember
+
+975
+01:00:59,540 --> 01:01:02,020
+probenicid even if
+you haven't had it yet
+
+976
+01:01:02,360 --> 01:01:06,280
+that's a gout drug
+and it is designed to
+
+977
+01:01:06,280 --> 01:01:10,880
+block organic anion
+transporters and P
+
+978
+01:01:10,880 --> 01:01:14,600
+-glycoprotein, cyclosporine
+and numerous others.
+
+979
+01:01:15,580 --> 01:01:17,760
+Plasma protein binding.
+
+980
+01:01:18,160 --> 01:01:21,800
+So displacement
+from plasma
+
+981
+01:01:21,800 --> 01:01:24,620
+proteins by
+salicylate, senatoin,
+
+982
+01:01:24,800 --> 01:01:27,160
+sulfonamides,
+doxycycline,
+
+983
+01:01:27,160 --> 01:01:28,680
+you've had all
+of those too.
+
+984
+01:01:30,800 --> 01:01:32,600
+Mechanism related.
+
+985
+01:01:32,920 --> 01:01:34,400
+So this is,
+we're thinking
+
+986
+01:01:34,400 --> 01:01:36,360
+shared toxicities here.
+
+987
+01:01:36,360 --> 01:01:39,360
+We'll be talking
+about laflunamide. so
+
+988
+01:01:39,360 --> 01:01:40,900
+that's something you
+should remember. So
+
+989
+01:01:40,900 --> 01:01:43,180
+what are we talking
+about? Other drugs
+
+990
+01:01:43,180 --> 01:01:45,460
+that cause hepatotoxicity,
+other drugs
+
+991
+01:01:45,460 --> 01:01:47,760
+that cause bone
+marrow toxicity, other
+
+992
+01:01:47,760 --> 01:01:50,280
+drugs that cause
+pulmonary toxicity, etc.
+
+993
+01:01:50,280 --> 01:01:52,860
+Drugs that have the
+same toxicities.
+
+994
+01:01:53,500 --> 01:01:56,120
+Azathioprine causes
+hepatotoxicity.
+
+995
+01:01:57,560 --> 01:01:59,780
+Immunosuppressants
+increase the risk of
+
+996
+01:01:59,780 --> 01:02:02,720
+infection. Well,
+methotrexate is an
+
+997
+01:02:02,870 --> 01:02:04,560
+immunosuppressant and
+And it's used with other
+
+998
+01:02:04,560 --> 01:02:08,180
+immunosuppressants
+to manage rheumatoid
+
+999
+01:02:08,180 --> 01:02:11,160
+arthritis and other
+immune disorders.
+
+1000
+01:02:14,540 --> 01:02:18,140
+So when we put
+immunosuppressants together,
+
+1001
+01:02:18,140 --> 01:02:20,600
+that further increases
+the infection
+
+1002
+01:02:20,600 --> 01:02:23,720
+risk. And there are
+guidelines on which
+
+1003
+01:02:23,720 --> 01:02:26,500
+immunosuppressants can
+be put together and which
+
+1004
+01:02:26,500 --> 01:02:29,190
+ones should not be
+put together because
+
+1005
+01:02:29,420 --> 01:02:32,740
+of that increased
+infection risk. Now live
+
+1006
+01:02:32,740 --> 01:02:35,680
+attenuated vaccines,
+well they're live.
+
+1007
+01:02:36,220 --> 01:02:41,120
+So if we give an
+immunosuppressant, that's
+
+1008
+01:02:41,120 --> 01:02:43,550
+going to decrease
+the immunogenicity
+
+1009
+01:02:44,270 --> 01:02:48,340
+and therefore the
+vaccine might be less
+
+1010
+01:02:48,340 --> 01:02:52,380
+effective. And there's
+always that potential
+
+1011
+01:02:52,450 --> 01:02:55,000
+risk that sort
+of hovers in the
+
+1012
+01:02:55,000 --> 01:03:00,050
+background of infection
+from the actual live
+
+1013
+01:03:01,100 --> 01:03:05,580
+virus or the live
+bacterium in the
+
+1014
+01:03:05,580 --> 01:03:13,280
+vaccine. Now, their ability
+to produce infection
+
+1015
+01:03:13,280 --> 01:03:17,040
+has been attenuated,
+but still we
+
+1016
+01:03:17,040 --> 01:03:18,840
+don't want to forget
+about the potential.
+
+1017
+01:03:21,240 --> 01:03:22,480
+All right.
+
+1018
+01:03:22,600 --> 01:03:26,040
+Now, Mary was, I
+invite you to pause the
+
+1019
+01:03:26,130 --> 01:03:30,360
+video and think about
+these questions.
+
+1020
+01:03:34,000 --> 01:03:36,640
+Mary was initiated
+on the initial
+
+1021
+01:03:36,640 --> 01:03:39,140
+DMARD of choice.
+So what is that?
+
+1022
+01:03:39,140 --> 01:03:41,480
+And what was the
+dosing schedule?
+
+1023
+01:03:42,940 --> 01:03:47,360
+it's oral low dose
+once weekly mesotrexate
+
+1024
+01:03:47,360 --> 01:03:49,080
+because of the
+strong evidence of
+
+1025
+01:03:49,080 --> 01:03:52,960
+effectiveness sustained
+response manageable
+
+1026
+01:03:52,960 --> 01:03:55,220
+toxicities improved
+quality of life in the
+
+1027
+01:03:55,220 --> 01:03:58,250
+treatment of rheumatoid
+arthritis and
+
+1028
+01:03:58,400 --> 01:04:01,920
+others mesotrexate is
+referred to the anchor
+
+1029
+01:04:01,920 --> 01:04:05,160
+because it has become
+the cornerstone of
+
+1030
+01:04:05,160 --> 01:04:08,760
+rheumatoid arthritis
+management and it
+
+1031
+01:04:08,760 --> 01:04:11,720
+can be combined with
+other demards so this
+
+1032
+01:04:11,720 --> 01:04:14,460
+is an immunosuppressant
+drug that can be
+
+1033
+01:04:14,460 --> 01:04:16,860
+combined with other
+immunosuppressants.
+
+1034
+01:04:18,360 --> 01:04:20,720
+Mary is given
+information on the
+
+1035
+01:04:20,720 --> 01:04:23,660
+potential side effects
+of methotrexate
+
+1036
+01:04:23,660 --> 01:04:26,180
+including the signs
+and symptoms of
+
+1037
+01:04:26,180 --> 01:04:29,140
+serious adverse
+effects. What are they?
+
+1038
+01:04:30,700 --> 01:04:32,820
+Well, it's usually well
+
+1039
+01:04:32,820 --> 01:04:34,160
+tolerated fortunately.
+
+1040
+01:04:34,220 --> 01:04:36,500
+Common side effects
+are stomatitis
+
+1041
+01:04:36,500 --> 01:04:39,400
+so that's the
+inflammation of the
+
+1042
+01:04:39,400 --> 01:04:42,460
+mucus in the mouth
+and the GI upset.
+
+1043
+01:04:43,000 --> 01:04:46,280
+Patients should be
+closely monitored.
+
+1044
+01:04:47,160 --> 01:04:49,600
+Just because it's
+low dose doesn't
+
+1045
+01:04:49,600 --> 01:04:52,060
+mean we get
+complacent for bone
+
+1046
+01:04:52,060 --> 01:04:54,190
+marrow, liver,
+and lung toxicity.
+
+1047
+01:04:57,040 --> 01:04:59,220
+Mary was advised
+that daily
+
+1048
+01:04:59,220 --> 01:05:01,300
+supplementation with
+a particular vitamin
+
+1049
+01:05:01,300 --> 01:05:03,040
+is important for
+reducing some
+
+1050
+01:05:03,040 --> 01:05:04,780
+of the side effects
+of the drug.
+
+1051
+01:05:04,920 --> 01:05:07,480
+What is the vitamin?
+How does it help?
+
+1052
+01:05:08,940 --> 01:05:12,960
+Well, it's folic acid,
+once a day, can reduce
+
+1053
+01:05:12,960 --> 01:05:15,740
+the stomatitis, the
+mucositis, the bone
+
+1054
+01:05:15,740 --> 01:05:17,890
+marrow, and liver
+function abnormalities.
+
+1055
+01:05:18,800 --> 01:05:21,040
+But it doesn't
+reduce the efficacy
+
+1056
+01:05:21,040 --> 01:05:23,100
+of mesotrexate,
+thankfully.
+
+1057
+01:05:24,560 --> 01:05:26,580
+Why is it
+important that Mary
+
+1058
+01:05:26,580 --> 01:05:28,400
+was asked about
+contraception
+
+1059
+01:05:28,400 --> 01:05:30,240
+and plans for
+becoming pregnant?
+
+1060
+01:05:35,270 --> 01:05:37,670
+Well, you know that
+one. It's fetotoxic.
+
+1061
+01:05:37,930 --> 01:05:40,630
+It's teratogenic
+and fetotoxic.
+
+1062
+01:05:41,890 --> 01:05:45,690
+fetotoxic really is
+the basket term for all
+
+1063
+01:05:45,690 --> 01:05:49,770
+of the toxicities that
+a fetus could suffer
+
+1064
+01:05:51,510 --> 01:05:55,450
+spontaneous abortion
+skull spontaneous
+
+1065
+01:05:55,450 --> 01:05:58,950
+abortion is it's
+pretty common skull
+
+1066
+01:05:58,950 --> 01:06:02,310
+anomalies facial
+dysmorphism cns limb and
+
+1067
+01:06:02,310 --> 01:06:04,780
+cardiac abnormalities
+intellectual
+
+1068
+01:06:04,780 --> 01:06:08,150
+impairment exposure in
+the second and third
+
+1069
+01:06:08,150 --> 01:06:09,910
+trimesters are
+associated with
+
+1070
+01:06:09,910 --> 01:06:12,970
+intrauterine growth
+restriction and functional
+
+1071
+01:06:12,970 --> 01:06:16,230
+abnormalities. It's
+contraindicated.
+
+1072
+01:06:17,940 --> 01:06:20,050
+What are the
+mechanisms of
+
+1073
+01:06:20,050 --> 01:06:22,170
+mesotrexate's
+immune-modulating
+
+1074
+01:06:22,170 --> 01:06:24,070
+and anti
+-inflammatory effects?
+
+1075
+01:06:24,190 --> 01:06:27,550
+Mesotrexate inhibits
+dihydrofolate
+
+1076
+01:06:27,550 --> 01:06:30,230
+reductase, which
+inhibits folate activity,
+
+1077
+01:06:30,230 --> 01:06:31,890
+which inhibits
+purine synthesis.
+
+1078
+01:06:32,550 --> 01:06:35,530
+Thimetylate
+synthase inhibition
+
+1079
+01:06:36,450 --> 01:06:39,190
+reduces DNA synthesis, so
+
+1080
+01:06:39,190 --> 01:06:40,810
+that reduces
+proliferation.
+
+1081
+01:06:41,850 --> 01:06:45,830
+Adenosine, so methotrexate
+increases levels
+
+1082
+01:06:45,830 --> 01:06:49,650
+of adenosine by inhibiting
+ACAR transformylase,
+
+1083
+01:06:49,650 --> 01:06:53,830
+A-T-I-C, and that
+leads to accumulation
+
+1084
+01:06:53,830 --> 01:06:57,170
+of ACAR, which
+inhibits adenosine
+
+1085
+01:06:57,170 --> 01:07:00,250
+deaminase, AMP deaminase,
+which increases
+
+1086
+01:07:00,250 --> 01:07:03,450
+extracellular levels of
+adenosine, which acts
+
+1087
+01:07:03,450 --> 01:07:06,370
+on its A2 and A1
+receptors, which activates
+
+1088
+01:07:07,150 --> 01:07:08,490
+immunomodulatory and anti
+
+1089
+01:07:08,490 --> 01:07:10,050
+-inflammatory responses.
+
+1090
+01:07:12,250 --> 01:07:14,470
+And that's it
+for part one.
+
+1091
+01:07:16,310 --> 01:07:19,330
+I leave the summary
+for you to read.
+
+1092
+01:07:19,590 --> 01:07:21,670
+It's everything
+we said. It's
+
+1093
+01:07:21,670 --> 01:07:24,010
+everything we started
+with. the keys
+
+1094
+01:07:24,010 --> 01:07:28,850
+key points and here
+are the answers

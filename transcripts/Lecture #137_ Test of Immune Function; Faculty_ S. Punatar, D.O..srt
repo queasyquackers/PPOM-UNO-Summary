@@ -1,0 +1,3470 @@
+1
+00:00:30,590 --> 00:00:32,670
+In regards to our
+learning objectives,
+
+2
+00:00:32,670 --> 00:00:34,650
+I'd like you to be
+able to classify
+
+3
+00:00:34,650 --> 00:00:37,070
+which immune function
+tests are appropriate
+
+4
+00:00:37,070 --> 00:00:39,490
+for each relevant
+immune cell type.
+
+5
+00:00:39,710 --> 00:00:42,170
+Further, you should be
+able to describe the
+
+6
+00:00:42,170 --> 00:00:45,410
+mechanism of how each
+immune function test works.
+
+7
+00:00:45,910 --> 00:00:47,570
+You should be able
+to compare and
+
+8
+00:00:47,570 --> 00:00:50,470
+contrast screening
+from confirmatory tests
+
+9
+00:00:50,650 --> 00:00:52,150
+and be able to interpret
+
+10
+00:00:52,150 --> 00:00:54,230
+immune function lab findings.
+
+11
+00:00:54,940 --> 00:00:57,250
+Furthermore, you should
+be able to differentiate
+
+12
+00:00:57,250 --> 00:00:59,310
+which immune function tests are
+
+13
+00:00:59,310 --> 00:01:02,110
+appropriate for specific
+disease pathologies.
+
+14
+00:01:02,390 --> 00:01:05,070
+What you'll find throughout
+the lecture is that in
+
+15
+00:01:05,070 --> 00:01:08,170
+many places I've added
+charts for completion, and
+
+16
+00:01:08,170 --> 00:01:10,270
+to show you that there's
+more that goes beyond
+
+17
+00:01:10,270 --> 00:01:12,890
+the scope of this lecture,
+I'll let you know in
+
+18
+00:01:12,890 --> 00:01:15,870
+advance if those tests or
+those charts will be included
+
+19
+00:01:15,870 --> 00:01:19,590
+in terms of test making.
+However, primarily
+
+20
+00:01:19,590 --> 00:01:21,990
+they're there for your
+reference and to see that
+
+21
+00:01:21,990 --> 00:01:24,450
+outside of the scope of
+the lecture, there's a lot
+
+22
+00:01:24,450 --> 00:01:26,570
+that you'll be learning
+about throughout this unit.
+
+23
+00:01:28,110 --> 00:01:30,970
+When going through this
+lecture, it's easy to
+
+24
+00:01:30,970 --> 00:01:33,390
+think about all the
+different tests and what type
+
+25
+00:01:33,390 --> 00:01:36,510
+of antibodies and diseases
+you're dealing with. But
+
+26
+00:01:36,510 --> 00:01:38,730
+one thing that I would
+urge you to do and keep
+
+27
+00:01:38,730 --> 00:01:41,710
+in mind is that in every
+clinical encounter or in
+
+28
+00:01:41,710 --> 00:01:44,470
+every situation in which
+you have a patient, the
+
+29
+00:01:44,470 --> 00:01:46,750
+most important thing
+to do first is have a
+
+30
+00:01:46,750 --> 00:01:50,210
+sufficient and proficient
+history and physical exam.
+
+31
+00:01:50,350 --> 00:01:51,310
+Furthermore,
+
+32
+00:01:51,350 --> 00:01:55,410
+basic lab testing is also
+considered before taking
+
+33
+00:01:55,410 --> 00:01:57,550
+any of the steps for
+some of the testing that
+
+34
+00:01:57,550 --> 00:02:00,370
+we'll be mentioning. Many
+times the history and
+
+35
+00:02:00,370 --> 00:02:02,470
+physical will also guide
+your decision making
+
+36
+00:02:02,470 --> 00:02:05,790
+and point you to one more
+specific answer than some
+
+37
+00:02:05,790 --> 00:02:07,880
+of the generalities that
+we'll be discussing.
+
+38
+00:02:11,210 --> 00:02:13,950
+As we go through the
+lecture, you'll actually
+
+39
+00:02:13,950 --> 00:02:16,670
+see a few disease processes
+that I've mentioned
+
+40
+00:02:16,670 --> 00:02:19,450
+and included from the
+years past that actually
+
+41
+00:02:19,450 --> 00:02:21,830
+have a familial origin,
+making your history
+
+42
+00:02:21,830 --> 00:02:25,130
+taking extremely important.
+Furthermore, you'll
+
+43
+00:02:25,130 --> 00:02:27,510
+see that some conditions
+are actually endemic
+
+44
+00:02:27,510 --> 00:02:30,330
+to other areas of the
+world outside of our own.
+
+45
+00:02:30,550 --> 00:02:33,490
+Furthermore, patients
+past medical history,
+
+46
+00:02:33,490 --> 00:02:35,350
+especially in the
+setting of previous
+
+47
+00:02:35,350 --> 00:02:37,670
+infections, becomes
+incredibly important.
+
+48
+00:02:37,830 --> 00:02:40,390
+You'll also learn
+about physical exam
+
+49
+00:02:40,390 --> 00:02:42,950
+findings such as
+splenomegaly that can be
+
+50
+00:02:42,950 --> 00:02:45,150
+indicative of several
+disease states.
+
+51
+00:02:48,340 --> 00:02:50,900
+Keep in mind that
+when we're considering
+
+52
+00:02:51,170 --> 00:02:54,190
+immunodeficiencies, while we
+like to often think of them as
+
+53
+00:02:54,190 --> 00:02:57,050
+either being familially
+or genetically acquired
+
+54
+00:02:57,050 --> 00:02:59,510
+versus something that we
+acquired due to medication
+
+55
+00:02:59,510 --> 00:03:03,250
+changes, they actually break
+down further into subsets
+
+56
+00:03:03,250 --> 00:03:06,190
+specifically by the type
+of mechanism at play.
+
+57
+00:03:06,190 --> 00:03:09,730
+A majority of the cases of
+immunodeficiencies we'll
+
+58
+00:03:09,730 --> 00:03:12,850
+be discussing are actually
+antibody deficiencies,
+
+59
+00:03:12,850 --> 00:03:16,210
+which are prevalent in
+about 55% of total cases,
+
+60
+00:03:16,210 --> 00:03:19,610
+but we'll also be discussing
+some congenital defects,
+
+61
+00:03:19,610 --> 00:03:22,970
+auto-inflammatory conditions,
+and complement-mediated
+
+62
+00:03:22,970 --> 00:03:26,010
+disease states as well. And
+of course, there's a few
+
+63
+00:03:26,010 --> 00:03:28,930
+that fall into smaller
+categories, such as combined
+
+64
+00:03:28,930 --> 00:03:32,570
+immunodeficiencies, such as
+severe combined immunodeficiency,
+
+65
+00:03:32,570 --> 00:03:34,750
+that we'll be discussing
+during this lecture.
+
+66
+00:03:36,590 --> 00:03:39,570
+On this slide, what
+you'll be able to find is
+
+67
+00:03:39,570 --> 00:03:42,330
+a set of normal lab
+values in reference to a
+
+68
+00:03:42,330 --> 00:03:45,450
+CBC or complete blood
+count with differential.
+
+69
+00:03:45,670 --> 00:03:49,130
+The reason I have included
+this is many times on tests
+
+70
+00:03:49,130 --> 00:03:51,930
+you'll be provided with a
+value and it'll be up to
+
+71
+00:03:51,930 --> 00:03:54,730
+you to determine whether
+that value is normal or
+
+72
+00:03:54,730 --> 00:03:57,730
+abnormal and if it plays any
+role in your decision making
+
+73
+00:03:57,730 --> 00:04:00,730
+or the question that you're
+trying to answer. Now
+
+74
+00:04:00,730 --> 00:04:03,010
+I've added these values
+that are considered to be
+
+75
+00:04:03,010 --> 00:04:06,630
+normal. However, keep in mind
+in real clinical scenarios
+
+76
+00:04:06,630 --> 00:04:10,270
+and clinical settings there
+are variants amongst age
+
+77
+00:04:10,270 --> 00:04:14,070
+groups, ***, as well as
+ethnic and cultural groups.
+
+78
+00:04:16,410 --> 00:04:19,750
+Just to reiterate briefly
+what I mentioned in regards
+
+79
+00:04:19,750 --> 00:04:23,410
+to variants, you'll see
+here that even between age
+
+80
+00:04:23,410 --> 00:04:27,050
+groups as well as different
+genders and *** in men and
+
+81
+00:04:27,050 --> 00:04:30,590
+women, you'll find variations
+in normal hemoglobin levels,
+
+82
+00:04:30,590 --> 00:04:33,490
+red blood cell counts, as
+well as platelet counts.
+
+83
+00:04:35,930 --> 00:04:39,790
+First, I'd like to briefly
+discuss the concept of acute
+
+84
+00:04:39,790 --> 00:04:43,310
+phase reactants, and these
+are lab values and findings
+
+85
+00:04:43,310 --> 00:04:45,950
+that will be elevated in
+both acute and chronic
+
+86
+00:04:45,950 --> 00:04:49,650
+inflammatory states. They
+are non-specific, so just
+
+87
+00:04:49,650 --> 00:04:52,630
+because a value is elevated
+does not necessarily mean
+
+88
+00:04:52,630 --> 00:04:56,210
+you're pointing to a specific
+disease process. However,
+
+89
+00:04:56,210 --> 00:04:59,110
+this is indicative of your
+general state of the immune
+
+90
+00:04:59,110 --> 00:05:02,950
+system at that time. And
+typically these values are
+
+91
+00:05:02,950 --> 00:05:07,110
+considered to be up to
+or more than 25% elevated
+
+92
+00:05:07,110 --> 00:05:10,550
+during inflammatory states.
+The two I'd like to mention
+
+93
+00:05:10,550 --> 00:05:14,230
+are C-reactive protein, also
+known as pattern recognition
+
+94
+00:05:14,230 --> 00:05:17,630
+protein, which is modulated
+by inflammatory states
+
+95
+00:05:17,630 --> 00:05:20,850
+and also helps to balance
+modulate inflammatory
+
+96
+00:05:20,850 --> 00:05:25,470
+states, as well as ESR or
+erythrocyte sedimentation rate.
+
+97
+00:05:25,470 --> 00:05:28,530
+And what this does is it
+actually is composed of
+
+98
+00:05:28,530 --> 00:05:31,530
+the fibrinogen breakdown
+products and it measures the
+
+99
+00:05:31,530 --> 00:05:34,570
+viscosity of your blood. So
+when you have this fibrinogen
+
+100
+00:05:34,570 --> 00:05:37,280
+breakdown, this actually
+leads to an increased
+
+101
+00:05:37,280 --> 00:05:40,380
+viscosity and that's what
+we're measuring with our ESR.
+
+102
+00:05:41,950 --> 00:05:46,570
+In terms of a brief
+history, the term CRP or C
+
+103
+00:05:46,570 --> 00:05:49,970
+-reactive protein actually
+comes from the carbohydrate
+
+104
+00:05:49,970 --> 00:05:53,470
+protein from the capsule
+of streptococcus. This is
+
+105
+00:05:53,470 --> 00:05:56,170
+what was originally used
+to assess an inflammatory
+
+106
+00:05:56,170 --> 00:06:00,110
+response. So the C in C
+-reactive protein comes from
+
+107
+00:06:00,110 --> 00:06:03,290
+that carbohydrate capsule
+component in terms of
+
+108
+00:06:03,290 --> 00:06:06,910
+its naming. Again, this is
+not anything that's specific
+
+109
+00:06:06,910 --> 00:06:09,310
+to a certain disease,
+but you'll actually see
+
+110
+00:06:09,310 --> 00:06:13,790
+elevations in ESR and CRP
+in areas of inflammation,
+
+111
+00:06:13,990 --> 00:06:14,970
+infection,
+
+112
+00:06:15,130 --> 00:06:18,250
+injury, and sometimes
+even in chronic illnesses,
+
+113
+00:06:18,250 --> 00:06:20,630
+and these are also
+age-determinant as we
+
+114
+00:06:20,630 --> 00:06:22,750
+mentioned with some of
+our lab values prior.
+
+115
+00:06:24,390 --> 00:06:27,370
+What I've included on
+this slide is just a high
+
+116
+00:06:27,370 --> 00:06:30,750
+power view of a normal
+peripheral blood smear. It is
+
+117
+00:06:30,750 --> 00:06:34,170
+possible that test takers
+and on the boards like to
+
+118
+00:06:34,170 --> 00:06:37,210
+examine your skills in
+assessing a blood smear or
+
+119
+00:06:37,210 --> 00:06:40,390
+a slide. What I've included
+here is just a normal
+
+120
+00:06:40,390 --> 00:06:42,850
+blood smear in order to
+recognize what's considered
+
+121
+00:06:42,850 --> 00:06:45,570
+to be normal. That way
+if you do come across a
+
+122
+00:06:45,570 --> 00:06:48,850
+situation when there are
+abnormal findings you'll be able
+
+123
+00:06:48,850 --> 00:06:52,470
+to recognize them quickly.
+If you see here the
+
+124
+00:06:52,470 --> 00:06:54,730
+smallest component that
+you'll see with the partial
+
+125
+00:06:54,730 --> 00:06:58,090
+arrows are pointing to
+platelets and on top of that
+
+126
+00:06:58,090 --> 00:07:00,590
+what you'll see is the areas
+with the central pallor
+
+127
+00:07:00,590 --> 00:07:03,330
+that are completely
+symmetrical are your red blood
+
+128
+00:07:03,330 --> 00:07:06,450
+cells because of that
+spherical shape as well as
+
+129
+00:07:06,450 --> 00:07:09,630
+having a central pallor
+due to the concave nature.
+
+130
+00:07:10,010 --> 00:07:12,290
+The white blood cells
+you'll see in the top
+
+131
+00:07:12,290 --> 00:07:15,150
+right corner are also
+denoted by the large arrow.
+
+132
+00:07:18,250 --> 00:07:21,390
+For today's lecture, we'll
+be talking about cellular
+
+133
+00:07:21,390 --> 00:07:23,850
+defects and defects
+that lead to these
+
+134
+00:07:24,030 --> 00:07:27,150
+immunodeficiencies. However,
+keep in mind that these can
+
+135
+00:07:27,150 --> 00:07:30,190
+all be broken down based
+off the subset as well as
+
+136
+00:07:30,190 --> 00:07:32,950
+the type of cell that's
+actually involved. So
+
+137
+00:07:32,950 --> 00:07:35,790
+primarily what we'll be
+talking about is defects with
+
+138
+00:07:35,790 --> 00:07:39,450
+neutrophils, natural
+killer cells, T-cells which
+
+139
+00:07:39,450 --> 00:07:41,910
+play a role in adaptive
+immune response as opposed
+
+140
+00:07:41,910 --> 00:07:44,770
+to the natural killer cells
+with your innate response,
+
+141
+00:07:44,770 --> 00:07:47,110
+as well as B cells,
+which play a role in your
+
+142
+00:07:47,110 --> 00:07:49,950
+adaptive immune response
+and antibody production.
+
+143
+00:07:50,630 --> 00:07:54,270
+What's included on the
+right side is combined in
+
+144
+00:07:54,270 --> 00:07:56,770
+cellular defects, not
+only in terms of how they
+
+145
+00:07:56,770 --> 00:07:59,970
+present on physical
+examination, but lab findings to
+
+146
+00:07:59,970 --> 00:08:02,930
+assess and also want to
+consider further testing.
+
+147
+00:08:04,830 --> 00:08:08,050
+The first cell type we'll
+talk about are neutrophils,
+
+148
+00:08:08,050 --> 00:08:11,050
+as well as their quality
+and enumeration or the
+
+149
+00:08:11,050 --> 00:08:14,010
+quantity. One of the first
+tests you can do is a
+
+150
+00:08:14,010 --> 00:08:17,330
+CBC with differential
+to calculate an absolute
+
+151
+00:08:17,330 --> 00:08:20,650
+neutrophil count. As I mentioned
+a CBC with differential
+
+152
+00:08:20,650 --> 00:08:23,920
+was included earlier
+in the presentation and
+
+153
+00:08:23,920 --> 00:08:26,550
+neutropenia or a low
+neutrophil count will tell you
+
+154
+00:08:26,550 --> 00:08:29,680
+various things and there
+are various causes. One is
+
+155
+00:08:29,680 --> 00:08:32,650
+congenital as well as
+iatrogenic which you'll see
+
+156
+00:08:32,650 --> 00:08:35,330
+in cancer treatments and
+this will also help you to
+
+157
+00:08:35,330 --> 00:08:37,670
+determine what treatments
+you should be initiating
+
+158
+00:08:37,670 --> 00:08:40,610
+to help with complications
+from this neutropenia.
+
+159
+00:08:41,150 --> 00:08:43,650
+Furthermore, there are
+two different tests we'll
+
+160
+00:08:43,650 --> 00:08:47,870
+discuss. One is the
+dihydrorotamine test or the DHR
+
+161
+00:08:47,870 --> 00:08:51,190
+flow cytometry assay and
+neutrophils have this
+
+162
+00:08:51,190 --> 00:08:54,830
+component or mechanism of
+oxidative burst and so what
+
+163
+00:08:54,830 --> 00:08:57,830
+happens is with this flow
+cytometry assay you're
+
+164
+00:08:57,830 --> 00:09:00,150
+actually able to tell
+through green fluorescence
+
+165
+00:09:00,150 --> 00:09:03,050
+dye that's absorbed by
+the cells the quality and
+
+166
+00:09:03,050 --> 00:09:06,030
+amount of oxidative burst
+and this is actually the
+
+167
+00:09:06,030 --> 00:09:08,750
+preferred test for chronic
+granulomatous disease.
+
+168
+00:09:09,210 --> 00:09:12,910
+Furthermore, there's the
+nitro blue tetrazoleum test
+
+169
+00:09:12,910 --> 00:09:16,500
+and that actually checks
+for NADPH oxidase activity
+
+170
+00:09:16,500 --> 00:09:18,930
+and what you'll see
+included in the pictures as
+
+171
+00:09:18,930 --> 00:09:22,230
+well is there's a yellow
+to blue absorption by this
+
+172
+00:09:22,230 --> 00:09:25,550
+NADPH oxidase and what you'll
+find is that there's going
+
+173
+00:09:25,550 --> 00:09:28,750
+to be stippling in a
+normal NBT test thereafter.
+
+174
+00:09:31,210 --> 00:09:34,050
+One of the reasons that
+you'll find neutropenia
+
+175
+00:09:34,050 --> 00:09:35,910
+or a low neutrophil
+count to be so
+
+176
+00:09:35,910 --> 00:09:38,290
+important is it's
+actually a hematology
+
+177
+00:09:38,290 --> 00:09:41,390
+oncology emergency when
+it comes with a fever.
+
+178
+00:09:41,570 --> 00:09:44,670
+So neutropenic fever is
+actually determined by the
+
+179
+00:09:44,670 --> 00:09:48,650
+presence of a fever with a
+low neutrophil count which is
+
+180
+00:09:48,650 --> 00:09:51,350
+calculated by the absolute
+neutrophil count. It's
+
+181
+00:09:51,350 --> 00:09:54,030
+either included on your
+differential or there's actually
+
+182
+00:09:54,030 --> 00:09:56,750
+a calculation which I've
+provided here and there's
+
+183
+00:09:56,750 --> 00:09:59,290
+rankings of what's considered
+to be mild or moderate
+
+184
+00:09:59,290 --> 00:10:01,870
+neutropenia and this is
+concerning because you have
+
+185
+00:10:01,870 --> 00:10:05,210
+somebody who's unable to
+mount an immune response when
+
+186
+00:10:05,210 --> 00:10:08,110
+there's a concern for an
+infection. This also kind of
+
+187
+00:10:08,110 --> 00:10:10,190
+changes your management
+because now you're going to be
+
+188
+00:10:10,190 --> 00:10:12,830
+considering not only providing
+things like antibiotics
+
+189
+00:10:12,830 --> 00:10:16,450
+for a potential infection,
+but medications in order
+
+190
+00:10:16,450 --> 00:10:19,710
+to have this person be able
+to stimulate the growth
+
+191
+00:10:19,710 --> 00:10:22,710
+factors to actually mount
+an immune response, such as
+
+192
+00:10:22,710 --> 00:10:25,410
+the medication Granix, which
+is included in the slide.
+
+193
+00:10:27,410 --> 00:10:30,690
+The next type of cell we'll
+be discussing is lymphocytes,
+
+194
+00:10:30,690 --> 00:10:32,730
+and while I'm not going
+to be testing on every
+
+195
+00:10:32,730 --> 00:10:35,590
+single type of subset
+mentioned here, it's important
+
+196
+00:10:35,590 --> 00:10:38,070
+to know that it does go
+beyond the scope of the things
+
+197
+00:10:38,070 --> 00:10:40,750
+that we'll be discussing.
+You'll hear commonly about
+
+198
+00:10:40,750 --> 00:10:44,550
+CD4 and CD8 counts, as well
+as CD20 counts, especially
+
+199
+00:10:44,550 --> 00:10:47,500
+in reference to certain
+medications like rituximab.
+
+200
+00:10:47,500 --> 00:10:50,550
+We'll be talking about a
+few of these in reference
+
+201
+00:10:50,550 --> 00:10:53,130
+to the flow cytometry
+which can be used for their
+
+202
+00:10:54,070 --> 00:10:57,270
+testing. In this slide,
+you'll see that there's many
+
+203
+00:10:57,270 --> 00:11:00,810
+causes of lymphocytopenia
+outside of just genetic
+
+204
+00:11:00,810 --> 00:11:03,630
+causes. What you'll see
+is that in this case, even
+
+205
+00:11:03,630 --> 00:11:06,550
+nutritional issues from
+alcohol ***** can lead to
+
+206
+00:11:06,590 --> 00:11:09,030
+lymphocytopenia, and some of
+the common ones that you've
+
+207
+00:11:09,030 --> 00:11:11,910
+seen that have changes
+in the CD or cluster of
+
+208
+00:11:11,910 --> 00:11:15,450
+differentiation markers,
+such as HIV with a reduction
+
+209
+00:11:15,450 --> 00:11:19,170
+of CD4, or thymic Aplasia,
+specifically seen in
+
+210
+00:11:19,170 --> 00:11:22,450
+DeGeorge syndrome, as well
+as Velocardiofacial syndrome
+
+211
+00:11:22,450 --> 00:11:25,610
+with a decreased CDA
+count, also seen in Symbier
+
+212
+00:11:25,610 --> 00:11:29,590
+combined immunodeficiency
+and Ataxia telangiectasia.
+
+213
+00:11:32,550 --> 00:11:35,890
+In regards to lymphocytes,
+you can actually have
+
+214
+00:11:35,890 --> 00:11:39,630
+lymphocyte adhesion defects,
+and here there's actually
+
+215
+00:11:39,630 --> 00:11:43,110
+problems in either your
+selectin or integrin molecules
+
+216
+00:11:43,110 --> 00:11:46,730
+that lead to these cells
+being unable to migrate into
+
+217
+00:11:46,730 --> 00:11:49,450
+the peripheral tissue where
+they're needed as part
+
+218
+00:11:49,450 --> 00:11:53,190
+of this immune or inflammatory
+response. The first sign
+
+219
+00:11:53,190 --> 00:11:56,370
+of this is actually
+lymphocytosis or an increased
+
+220
+00:11:56,370 --> 00:11:59,350
+lymphocyte count on your
+complete blood count or CBC.
+
+221
+00:11:59,730 --> 00:12:03,570
+There's three subtypes that
+I have mentioned LAD or
+
+222
+00:12:03,570 --> 00:12:06,650
+lymphocyte adhesion defect
+type 1 in which there's a
+
+223
+00:12:06,650 --> 00:12:11,010
+defect in your beta 2 integrin.
+Further there's type 2,
+
+224
+00:12:11,010 --> 00:12:15,510
+which has an absence of your
+selectin molecule, and in
+
+225
+00:12:15,510 --> 00:12:18,890
+lymphocyte adhesion defect
+type 3, you actually have
+
+226
+00:12:18,890 --> 00:12:23,530
+deficiencies in beta 1,
+beta 2, and beta 3 integrin.
+
+227
+00:12:25,190 --> 00:12:28,810
+In regards to lymphocyte
+enumeration, or the actual
+
+228
+00:12:28,810 --> 00:12:31,970
+quantity, we can talk
+a little bit about NK,
+
+229
+00:12:31,970 --> 00:12:34,810
+or natural killer cells.
+And here, one of the
+
+230
+00:12:34,810 --> 00:12:37,470
+things that you can actually
+test for is the levels
+
+231
+00:12:37,470 --> 00:12:41,950
+of CD16 or cluster of
+differentiation 16 and 56.
+
+232
+00:12:42,070 --> 00:12:45,490
+And in itself, there's
+actually a natural killer
+
+233
+00:12:45,490 --> 00:12:49,590
+deficiency syndrome where there
+are no NK cells, but you'll
+
+234
+00:12:49,590 --> 00:12:53,910
+also see deficiencies and
+concerns in severe combined
+
+235
+00:12:53,910 --> 00:12:57,650
+immunodeficiency with T
+cells, B cells, and natural
+
+236
+00:12:57,650 --> 00:13:01,390
+killer cells. And this is
+also a component of paroxysmal
+
+237
+00:13:01,390 --> 00:13:04,070
+nocturnal hemoglobinuria
+where there's actually
+
+238
+00:13:04,070 --> 00:13:08,750
+pancytopenia, with upregulation
+in ataxia telangiectasia.
+
+239
+00:13:08,750 --> 00:13:11,570
+This will be relevant
+especially if you're seeing
+
+240
+00:13:11,570 --> 00:13:15,630
+people who have atypical
+HSV infections, or
+
+241
+00:13:15,630 --> 00:13:18,350
+you're seeing populations
+of people with varicella
+
+242
+00:13:18,350 --> 00:13:22,790
+zoster or HSV, Epstein-Barr
+virus, or cytomegalovirus.
+
+243
+00:13:22,790 --> 00:13:25,050
+It's important there to
+consider deficiencies
+
+244
+00:13:25,050 --> 00:13:27,870
+in enumeration of your
+natural killer cells.
+
+245
+00:13:30,150 --> 00:13:33,510
+Along with natural killer
+cells, it's also important
+
+246
+00:13:33,510 --> 00:13:36,790
+to consider the function
+and number of your T-cells,
+
+247
+00:13:36,790 --> 00:13:40,350
+and deficiencies is either
+the level or the function
+
+248
+00:13:40,350 --> 00:13:43,130
+of T-cells will lead
+to combined pictures of
+
+249
+00:13:43,150 --> 00:13:46,450
+immunodeficiency. There's a few
+that we've already mentioned,
+
+250
+00:13:46,450 --> 00:13:49,070
+but the levels you should
+be checking for are cluster
+
+251
+00:13:49,070 --> 00:13:52,830
+of differentiation 2 as
+well as 3, and a few that
+
+252
+00:13:52,830 --> 00:13:55,030
+have been mentioned a few
+times in this lecture are
+
+253
+00:13:55,030 --> 00:13:58,690
+cluster of differentiation
+4 and CD8, which actually
+
+254
+00:13:58,690 --> 00:14:02,190
+play a role in thymic
+aplasia, which is also seen in
+
+255
+00:14:02,190 --> 00:14:04,750
+DeGeorge syndrome, as
+well as severe combined
+
+256
+00:14:04,750 --> 00:14:09,110
+immunodeficiency, and ataxia
+telangiectasia, and this is
+
+257
+00:14:09,110 --> 00:14:13,210
+compounded by a deficiency or
+alteration in the ATM gene.
+
+258
+00:14:15,610 --> 00:14:18,610
+Now we've been discussing
+a lot of the confirmatory
+
+259
+00:14:18,610 --> 00:14:21,350
+testing for the immune
+function, but one thing I
+
+260
+00:14:21,350 --> 00:14:24,390
+want to point out is here
+on the top radiograph or
+
+261
+00:14:24,390 --> 00:14:27,250
+chest x-ray, you'll see
+somebody who has an actual
+
+262
+00:14:27,250 --> 00:14:30,150
+thymic shadow, but what
+we see on the bottom
+
+263
+00:14:30,150 --> 00:14:32,810
+picture in a child, because
+adults don't have the
+
+264
+00:14:32,810 --> 00:14:35,630
+thymus, the bottom picture
+actually shows somebody
+
+265
+00:14:35,630 --> 00:14:39,150
+without a thymic shadow.
+Now this actually points to
+
+266
+00:14:39,150 --> 00:14:42,410
+various conditions. We've
+mentioned DeGeorge syndrome,
+
+267
+00:14:42,410 --> 00:14:44,330
+but in this case we're
+dealing with somebody
+
+268
+00:14:44,330 --> 00:14:49,320
+who actually has severe
+combined immunodeficiency.
+
+269
+00:14:49,910 --> 00:14:52,550
+This will often be referred
+to, at least in the
+
+270
+00:14:52,550 --> 00:14:55,450
+picture of the thymic
+shadow, as a sale sign.
+
+271
+00:14:57,330 --> 00:15:00,250
+While this lecture in
+its entirety is not
+
+272
+00:15:00,250 --> 00:15:03,170
+about HIV, I think it's
+important to consider,
+
+273
+00:15:03,170 --> 00:15:04,950
+especially since we've
+been talking about
+
+274
+00:15:04,950 --> 00:15:08,650
+cluster differentiation
+4 cells or CD4 cells,
+
+275
+00:15:08,650 --> 00:15:12,010
+some of the screening
+available for HIV. Here we're
+
+276
+00:15:12,010 --> 00:15:16,110
+doing an ELISA assay, also
+considering the surface antigen
+
+277
+00:15:16,110 --> 00:15:19,770
+as well as IgM and IgG
+with confirmatory testing
+
+278
+00:15:19,770 --> 00:15:23,450
+using nucleic acid amplification.
+Furthermore, there's
+
+279
+00:15:23,450 --> 00:15:28,290
+also PCR testing or quantitative
+PCR of the viral RNA and
+
+280
+00:15:28,290 --> 00:15:30,770
+all of the treatments that
+we're considering are not
+
+281
+00:15:30,770 --> 00:15:33,950
+looking at just the infections
+but ways to measure and
+
+282
+00:15:33,950 --> 00:15:37,050
+increase the immune response
+and increase CD4 count.
+
+283
+00:15:39,210 --> 00:15:42,690
+In regards to further testing
+of lymphocyte function
+
+284
+00:15:42,690 --> 00:15:45,670
+or T cells, one thing we
+can check is stimulation
+
+285
+00:15:45,670 --> 00:15:49,450
+of T cells. And we do this by
+using the phytohemagglutinin
+
+286
+00:15:50,180 --> 00:15:52,830
+assay. And what this will
+check for is actually
+
+287
+00:15:52,830 --> 00:15:55,230
+your multiplication of
+T cells as well as the
+
+288
+00:15:55,230 --> 00:15:59,300
+amounts. So what we do is we
+mix both the phytohemagglutinin
+
+289
+00:15:59,300 --> 00:16:02,770
+and T cells. And if we
+see a low stimulatory
+
+290
+00:16:02,770 --> 00:16:05,730
+index, this actually points
+to decreased function.
+
+291
+00:16:05,730 --> 00:16:08,230
+And what you'll see is
+a sequelae of this is
+
+292
+00:16:08,230 --> 00:16:11,130
+actually chronic
+mucocutaneous disease. and in
+
+293
+00:16:11,130 --> 00:16:14,130
+some cases over-proliferated
+candida infections.
+
+294
+00:16:14,290 --> 00:16:17,530
+In order to test for
+cytokine production, one
+
+295
+00:16:17,530 --> 00:16:20,450
+thing we can check is an
+interferon gamma release
+
+296
+00:16:20,450 --> 00:16:23,050
+assay, and what this
+does, especially in the
+
+297
+00:16:23,050 --> 00:16:26,170
+setting of interleucan
+or IL-12 receptor
+
+298
+00:16:26,170 --> 00:16:28,450
+deficiencies, is you'll
+find that there's actually
+
+299
+00:16:28,450 --> 00:16:31,610
+decreased levels of
+interferon gamma release.
+
+300
+00:16:31,910 --> 00:16:34,430
+In the setting of
+severe combined
+
+301
+00:16:34,630 --> 00:16:37,730
+immunodeficiency, one thing
+we can check or use is
+
+302
+00:16:37,730 --> 00:16:41,130
+a T-cell receptor excision
+assay. And what this
+
+303
+00:16:41,130 --> 00:16:44,450
+checks for is actually the
+circular DNA in T-cells,
+
+304
+00:16:44,450 --> 00:16:47,420
+and it's actually a measure
+of sufficient or adequate
+
+305
+00:16:47,420 --> 00:16:50,350
+thymic output. So in
+this case, if you have a
+
+306
+00:16:50,350 --> 00:16:53,690
+normal T-cell receptor
+excision assay, you have
+
+307
+00:16:53,690 --> 00:16:57,130
+normal T-cell production
+and use and functionality.
+
+308
+00:16:57,130 --> 00:17:00,290
+However, decreases will
+tell you a little bit more
+
+309
+00:17:00,290 --> 00:17:02,930
+or point you more towards
+decreased thymic output.
+
+310
+00:17:04,530 --> 00:17:08,070
+Moving forward from natural
+killer cells and B cells,
+
+311
+00:17:08,070 --> 00:17:10,950
+one thing we can also look
+at is the function and
+
+312
+00:17:10,950 --> 00:17:14,330
+quantity of B cells. Here,
+we're going to be checking
+
+313
+00:17:14,330 --> 00:17:18,830
+for levels of CD19 as well
+as CD20, and I've included
+
+314
+00:17:18,830 --> 00:17:22,730
+a few of the pertinent
+disease processes below. We've
+
+315
+00:17:22,730 --> 00:17:27,250
+already talked about SCID
+and ataxia telangiectasia,
+
+316
+00:17:27,250 --> 00:17:30,370
+but two other conditions
+are X-linked Bruton's A
+
+317
+00:17:30,370 --> 00:17:34,050
+-gamma globulinemia, which
+actually has a male predominance.
+
+318
+00:17:34,050 --> 00:17:36,170
+So if you're considering
+somebody and you've
+
+319
+00:17:36,170 --> 00:17:39,390
+gotten the history of a male
+with recurrent infections,
+
+320
+00:17:39,390 --> 00:17:42,970
+this does put X-linked
+Bruton's A-gamma globulinemia
+
+321
+00:17:42,970 --> 00:17:45,890
+into your differential
+versus your female patients.
+
+322
+00:17:46,290 --> 00:17:47,270
+Furthermore,
+
+323
+00:17:47,450 --> 00:17:49,850
+another disease state
+with increased B cells
+
+324
+00:17:49,850 --> 00:17:53,230
+is actually pre-B acute
+lymphoblastic leukemia.
+
+325
+00:17:56,890 --> 00:17:59,790
+Outside of what we've already
+mentioned in regards to
+
+326
+00:17:59,790 --> 00:18:03,050
+T cells, B cells, natural
+killer cells, there's also
+
+327
+00:18:03,050 --> 00:18:06,130
+deficiencies and abnormalities
+in certain messenger
+
+328
+00:18:06,130 --> 00:18:09,650
+proteins which can lead to
+several disease states. Many
+
+329
+00:18:09,650 --> 00:18:12,770
+of these are commonly seen
+in the clinical setting as
+
+330
+00:18:12,770 --> 00:18:15,670
+well as tested heavily on
+the boards and I've included
+
+331
+00:18:15,670 --> 00:18:18,690
+a few additional clinical
+scenarios along with these
+
+332
+00:18:18,690 --> 00:18:22,070
+slides. So the abnormalities
+that you'll see here are
+
+333
+00:18:22,070 --> 00:18:25,930
+in complement protein,
+interleukins, or interferons.
+
+334
+00:18:27,770 --> 00:18:31,190
+In checking for complement
+quantity defects and
+
+335
+00:18:31,190 --> 00:18:34,330
+pathway defects, we can
+use two tests such as the
+
+336
+00:18:34,330 --> 00:18:39,170
+CH50 and AH50. So with
+CH50, this is testing the
+
+337
+00:18:39,170 --> 00:18:42,450
+classical pathway, and
+it's a hemolytic assay. So
+
+338
+00:18:42,450 --> 00:18:44,590
+what that means is we're
+taking complement from
+
+339
+00:18:44,590 --> 00:18:47,310
+your donor or your patient,
+and we're seeing the
+
+340
+00:18:47,310 --> 00:18:50,430
+ability from this donor
+complement to lice sheep's
+
+341
+00:18:50,430 --> 00:18:53,850
+blood. And so this is
+actually a nonspecific test.
+
+342
+00:18:53,990 --> 00:18:57,370
+The AH50 is the alternative
+pathway that's being
+
+343
+00:18:57,370 --> 00:18:59,610
+tested and it's also
+a hemolytic complement
+
+344
+00:18:59,610 --> 00:19:02,170
+assay. You'll specifically
+see this being
+
+345
+00:19:02,170 --> 00:19:04,510
+referenced in regards to
+Neisserial infections,
+
+346
+00:19:04,510 --> 00:19:07,050
+which is the most common
+indication, and they
+
+347
+00:19:07,050 --> 00:19:11,590
+determine deficiencies in
+C3 as well as C5 to C9.
+
+348
+00:19:11,970 --> 00:19:15,010
+Furthermore, you can test
+for the actual number or
+
+349
+00:19:15,010 --> 00:19:18,890
+enumeration of C1 to C9,
+and in some diseases like
+
+350
+00:19:18,890 --> 00:19:23,030
+systemic lupus, you'll see
+deficiencies in C1 through C4,
+
+351
+00:19:23,030 --> 00:19:26,470
+and in Neisseria bacteremia
+or Neisseria infections,
+
+352
+00:19:26,470 --> 00:19:30,150
+you'll see deficiencies
+in C5 through C9 pathways.
+
+353
+00:19:34,150 --> 00:19:37,230
+This is actually something
+that I've definitely seen
+
+354
+00:19:37,230 --> 00:19:40,110
+in test questions and also
+seen in clinical practice,
+
+355
+00:19:40,110 --> 00:19:43,490
+and it's the complement
+deficiency of C1 esterase
+
+356
+00:19:43,490 --> 00:19:46,150
+inhibitor, and what this
+can put you at higher risk
+
+357
+00:19:46,150 --> 00:19:50,110
+for is hereditary angioedema.
+The other reason I put
+
+358
+00:19:50,110 --> 00:19:52,730
+this into this slide is
+because it really ties in
+
+359
+00:19:52,730 --> 00:19:55,690
+not only the deficiency
+in the complement but good
+
+360
+00:19:55,690 --> 00:19:58,730
+history and physical
+examination. Obviously it's hard
+
+361
+00:19:58,730 --> 00:20:01,830
+to miss the angioedema
+here but it's important to
+
+362
+00:20:01,830 --> 00:20:04,910
+know if patients are taking
+medications like ACE inhibitors
+
+363
+00:20:04,910 --> 00:20:07,530
+putting them at higher
+risk for angioedema as
+
+364
+00:20:07,530 --> 00:20:10,470
+well as familial predispositions
+and family history.
+
+365
+00:20:12,770 --> 00:20:16,430
+In some of the disorders so
+far in regards to complement,
+
+366
+00:20:16,430 --> 00:20:18,790
+we've talked about
+different deficiencies as
+
+367
+00:20:18,790 --> 00:20:21,790
+well as issues in the pathway
+and that's some of the
+
+368
+00:20:21,790 --> 00:20:24,790
+testing that we had discussed
+on the prior slides. The
+
+369
+00:20:24,790 --> 00:20:27,190
+other thing to mention with
+complement disorders is
+
+370
+00:20:27,190 --> 00:20:30,090
+that what you'll see when
+complement is involved is
+
+371
+00:20:30,090 --> 00:20:32,910
+that sometimes levels will
+actually be lower because
+
+372
+00:20:32,910 --> 00:20:35,610
+they're being consumed and
+then they'll also be lower
+
+373
+00:20:35,610 --> 00:20:37,960
+in the cases where there's
+going to be deposition.
+
+374
+00:20:38,010 --> 00:20:41,650
+So in the case of lupus
+nephritis, you'll actually see
+
+375
+00:20:41,650 --> 00:20:45,730
+consumption of the C3 and
+C4. So if you're checking
+
+376
+00:20:45,730 --> 00:20:48,330
+for levels, they actually
+might appear to be lower.
+
+377
+00:20:48,690 --> 00:20:51,730
+Furthermore, in some
+conditions, you'll actually have
+
+378
+00:20:51,730 --> 00:20:55,570
+antigen and antibody complexes.
+And so what happens in
+
+379
+00:20:55,570 --> 00:20:58,310
+this case is that these
+will appear to be low when
+
+380
+00:20:58,310 --> 00:21:01,050
+you're checking serum values.
+However, it's because of
+
+381
+00:21:01,050 --> 00:21:04,310
+the deposition that's
+actually occurring. So in post
+
+382
+00:21:04,310 --> 00:21:07,190
+-streptococcal glomerulonephritis,
+you'll actually have low
+
+383
+00:21:07,190 --> 00:21:11,710
+C3 levels because of the
+antigen and antibody complex
+
+384
+00:21:11,710 --> 00:21:15,310
+deposition. And it's the
+same thing with MPGN, which
+
+385
+00:21:15,310 --> 00:21:18,290
+is membranoproliferative
+glomerulonephritis, where
+
+386
+00:21:18,290 --> 00:21:22,050
+you'll have a low level of
+C3 because of the deposition.
+
+387
+00:21:24,990 --> 00:21:28,470
+Now along with complement,
+you'll also see considerations
+
+388
+00:21:28,470 --> 00:21:30,770
+of interleukins playing
+roles in various
+
+389
+00:21:30,770 --> 00:21:34,010
+diseases and these aren't
+always specific so if you'll
+
+390
+00:21:34,010 --> 00:21:38,310
+see interleukin 1a and 1b
+is common in IBD but it's
+
+391
+00:21:38,310 --> 00:21:43,310
+also found with IL-6 and
+IL-12 and IBD. IL-5 you'll
+
+392
+00:21:43,310 --> 00:21:46,590
+see is pertinent with
+allergic asthma and IL-7 and
+
+393
+00:21:46,590 --> 00:21:49,530
+IL-9 have been found to be
+in autoimmune conditions.
+
+394
+00:21:49,550 --> 00:21:53,350
+IL-6 and IL-12 you'll also
+see in reference to Castleman
+
+395
+00:21:53,350 --> 00:21:55,970
+disease. On the next slide
+we'll talk little bit
+
+396
+00:21:55,970 --> 00:21:59,610
+about the prevalence and
+the new news around IL-6.
+
+397
+00:22:02,110 --> 00:22:05,290
+In recent news as well as
+clinical practice in the
+
+398
+00:22:05,290 --> 00:22:08,070
+setting of the COVID-19
+pandemic, you'll hear a
+
+399
+00:22:08,070 --> 00:22:11,070
+lot about the medication
+tocilizumab, which is commonly
+
+400
+00:22:11,070 --> 00:22:13,950
+known by the trade named
+Ectemra. What this is
+
+401
+00:22:13,950 --> 00:22:17,170
+is a monoclonal antibody
+and it's actually an IL
+
+402
+00:22:17,170 --> 00:22:20,890
+-6 receptor inhibitor. So
+this was already approved
+
+403
+00:22:20,890 --> 00:22:23,570
+and being used in certain
+inflammatory and autoimmune
+
+404
+00:22:23,570 --> 00:22:25,930
+conditions such as different
+types of arthritis,
+
+405
+00:22:25,930 --> 00:22:28,610
+but we actually now see
+it being used in COVID
+
+406
+00:22:28,610 --> 00:22:32,690
+-19 because this modulation
+of IL-6 actually plays
+
+407
+00:22:32,690 --> 00:22:35,670
+a role in altering the
+cytokine release pathways.
+
+408
+00:22:38,300 --> 00:22:41,610
+When considering interferons,
+one thing we can look at
+
+409
+00:22:41,610 --> 00:22:44,450
+in terms of testing is an
+interferon gamma release
+
+410
+00:22:44,450 --> 00:22:48,090
+assay, and one of the biggest
+examples is its use in
+
+411
+00:22:48,090 --> 00:22:51,690
+determining TB infections. So
+you'll hear about interferon
+
+412
+00:22:51,690 --> 00:22:54,950
+gamma release assays or
+quantiferon interchangeably
+
+413
+00:22:54,950 --> 00:22:58,510
+in regards to tuberculosis
+infection. So what happens
+
+414
+00:22:58,510 --> 00:23:01,210
+here is we actually take
+our white blood cells which
+
+415
+00:23:01,210 --> 00:23:04,130
+will release the interferon
+gamma and we mix this with
+
+416
+00:23:04,130 --> 00:23:07,870
+a tuberculosis or tuberculin
+antigen and we quantify
+
+417
+00:23:07,870 --> 00:23:11,750
+and qualify the amount of
+interferon gamma release and
+
+418
+00:23:11,750 --> 00:23:14,290
+so that response actually
+tells us if there's a latent
+
+419
+00:23:14,290 --> 00:23:17,110
+or active infection and it's
+a measure of not only the
+
+420
+00:23:17,110 --> 00:23:20,270
+quality but also the quantity
+or amount of response.
+
+421
+00:23:23,830 --> 00:23:27,150
+Now, after talking a little
+bit about interferon,
+
+422
+00:23:27,150 --> 00:23:30,070
+we'll shift our attention
+to antibody defects, and
+
+423
+00:23:30,070 --> 00:23:32,690
+what we'll see is not only
+defects and deficiencies,
+
+424
+00:23:32,730 --> 00:23:35,430
+but also overproduction,
+which can lead to certain
+
+425
+00:23:35,430 --> 00:23:39,490
+issues as well. When we're
+dealing with deficiencies,
+
+426
+00:23:39,490 --> 00:23:42,110
+you'll actually see these
+patients are more prone
+
+427
+00:23:42,110 --> 00:23:45,090
+to sinus and pulmonary
+infections, and this will
+
+428
+00:23:45,090 --> 00:23:48,410
+actually give way to infections
+by certain pathogens, so
+
+429
+00:23:48,410 --> 00:23:50,410
+you see a higher
+prevalence of streptococcus
+
+430
+00:23:50,410 --> 00:23:53,990
+pneumoniae, as well as
+haemophilus influenza infections.
+
+431
+00:23:54,410 --> 00:23:57,170
+Furthermore, with
+overproduction of antibodies
+
+432
+00:23:57,170 --> 00:23:59,390
+in these defects,
+you'll see things like
+
+433
+00:23:59,390 --> 00:24:01,530
+multiple myeloma,
+as well as a higher
+
+434
+00:24:01,530 --> 00:24:04,350
+prevalence of Waldenstrand's
+macroglobulinemia.
+
+435
+00:24:06,030 --> 00:24:08,730
+Furthermore, you'll also
+see an increased prevalence
+
+436
+00:24:08,730 --> 00:24:11,790
+in that spectrum of multiple
+myeloma of MGUS, which
+
+437
+00:24:11,790 --> 00:24:14,630
+is monoglomal gammopathy
+of unknown significance.
+
+438
+00:24:16,830 --> 00:24:20,330
+Outside of looking at the
+specific antibodies, we
+
+439
+00:24:20,330 --> 00:24:23,410
+can also do a quantitative
+evaluation of different
+
+440
+00:24:23,410 --> 00:24:27,690
+immunoglobulins. First
+mentioned is IgG, which is
+
+441
+00:24:27,690 --> 00:24:30,890
+actually produced in response
+to a specific antigen,
+
+442
+00:24:30,890 --> 00:24:33,810
+and this is part of the
+function that B cells
+
+443
+00:24:33,810 --> 00:24:37,250
+provide. Now one thing to
+keep in mind is that this is
+
+444
+00:24:37,250 --> 00:24:39,750
+actually not going to
+provide you with reliable
+
+445
+00:24:39,750 --> 00:24:43,270
+results if your patient that
+you're testing has received
+
+446
+00:24:43,270 --> 00:24:47,690
+some form of IgG in the
+past six months. So in
+
+447
+00:24:47,690 --> 00:24:50,550
+the setting of the COVID
+-19 pandemic, we're seeing
+
+448
+00:24:50,550 --> 00:24:52,610
+this a lot in the
+patients who have received
+
+449
+00:24:52,610 --> 00:24:56,370
+monoclonal antibody therapy
+within the past few months.
+
+450
+00:24:56,910 --> 00:25:01,090
+Moving to IgA, you'll see
+IgA deficiencies as an
+
+451
+00:25:01,090 --> 00:25:04,390
+extremely common cause
+of immune deficiency, and
+
+452
+00:25:04,390 --> 00:25:07,710
+because IgA primarily plays
+a role in your mucosal
+
+453
+00:25:07,710 --> 00:25:10,610
+response, you'll see a
+breakdown of this initial
+
+454
+00:25:10,610 --> 00:25:14,070
+barrier leading to recurrent
+mucosal infections.
+
+455
+00:25:14,270 --> 00:25:17,090
+As we mentioned on
+the previous slides,
+
+456
+00:25:17,210 --> 00:25:20,430
+IgM has an association
+and plays a role in
+
+457
+00:25:20,430 --> 00:25:24,410
+Bruton's agammaglobulinemia,
+and other conditions
+
+458
+00:25:24,410 --> 00:25:28,230
+such as hyper-IgE or Jobe
+syndrome are associated
+
+459
+00:25:28,230 --> 00:25:31,410
+with, as I mentioned,
+IgE, and this is actually
+
+460
+00:25:31,410 --> 00:25:34,370
+a form of a type 1
+hypersensitivity reaction,
+
+461
+00:25:34,370 --> 00:25:37,750
+an example of type 1
+hypersensitivity reaction.
+
+462
+00:25:40,150 --> 00:25:44,110
+On this slide, you don't
+necessarily see the workup
+
+463
+00:25:44,110 --> 00:25:47,630
+and evaluation of every
+specific disease, but what I
+
+464
+00:25:47,630 --> 00:25:50,110
+wanted to point to is the
+general trends that you
+
+465
+00:25:50,110 --> 00:25:53,650
+see throughout different
+disease processes. So when
+
+466
+00:25:53,650 --> 00:25:56,510
+we're dealing with diseases
+such as AIDS, you'll actually
+
+467
+00:25:56,510 --> 00:25:59,710
+see an increase in all
+immunoglobulin classes,
+
+468
+00:25:59,710 --> 00:26:03,490
+and I mentioned before ataxia
+telangiectasia provides
+
+469
+00:26:03,490 --> 00:26:08,630
+you with a decrease in IgA,
+IgE, as well as IgG. One
+
+470
+00:26:08,630 --> 00:26:10,950
+of the more recent findings
+that you'll be tested
+
+471
+00:26:10,950 --> 00:26:13,910
+on and seen is celiac disease
+actually presents with
+
+472
+00:26:13,910 --> 00:26:17,750
+a low IgA, pointing to a
+decrease in your mucosal
+
+473
+00:26:17,750 --> 00:26:21,630
+barrier and mucosal
+immunity. In primary biliary
+
+474
+00:26:21,630 --> 00:26:25,110
+cholangitis, you'll actually
+see an increase in your IgM.
+
+475
+00:26:25,350 --> 00:26:28,450
+This is complicated in
+certain diseases such as
+
+476
+00:26:28,450 --> 00:26:31,170
+Wiscott-Aldridge syndrome,
+in which case you'll
+
+477
+00:26:31,170 --> 00:26:34,650
+actually see increases
+in your IgA and IgG,
+
+478
+00:26:34,650 --> 00:26:38,740
+however decreased levels
+of your IgG and IgM
+
+479
+00:26:38,740 --> 00:26:41,330
+pointing to the top bullet
+point on this slide.
+
+480
+00:26:43,260 --> 00:26:46,490
+Now for you all to know
+and keep in mind especially
+
+481
+00:26:46,490 --> 00:26:49,570
+as you get into your
+clinical rotations whether it
+
+482
+00:26:49,570 --> 00:26:52,630
+be in the pediatric or
+adult population is it's
+
+483
+00:26:52,630 --> 00:26:55,450
+important to note that
+the IgG and immunoglobulin
+
+484
+00:26:55,450 --> 00:26:59,150
+levels actually vary depending
+on the age of population
+
+485
+00:26:59,150 --> 00:27:01,810
+and patient that you're
+dealing with. And so when
+
+486
+00:27:01,810 --> 00:27:04,210
+you have patients in my
+clinical setting, which
+
+487
+00:27:04,210 --> 00:27:06,830
+is primarily adults, we
+might not be dealing with
+
+488
+00:27:06,830 --> 00:27:09,230
+the same lab values that
+you're seeing in children.
+
+489
+00:27:09,430 --> 00:27:12,170
+Furthermore, you might see
+a value that's considered
+
+490
+00:27:12,170 --> 00:27:15,710
+to be extremely high in a
+three-month-old, but really
+
+491
+00:27:15,710 --> 00:27:18,170
+that's considered to be
+the normal age for somebody
+
+492
+00:27:18,170 --> 00:27:21,770
+who's in a 13 to 24-month
+range. So it's so important
+
+493
+00:27:21,770 --> 00:27:24,490
+to keep in mind that there
+are differences in your
+
+494
+00:27:24,490 --> 00:27:28,010
+age groups despite having
+the same disease process.
+
+495
+00:27:30,250 --> 00:27:34,010
+In further discussing a
+qualitative and quantitative
+
+496
+00:27:34,010 --> 00:27:37,840
+evaluation, I wanted to spend
+some time on serum protein
+
+497
+00:27:37,840 --> 00:27:41,530
+electrophoresis or gel
+electrophoresis. This is
+
+498
+00:27:41,530 --> 00:27:45,430
+commonly known as SPEP. There's
+also a component of urine
+
+499
+00:27:45,430 --> 00:27:49,150
+protein electrophoresis, which
+is called UPEP for short,
+
+500
+00:27:49,150 --> 00:27:51,730
+and both of these are
+often used in conjunction,
+
+501
+00:27:51,730 --> 00:27:54,770
+especially when you're looking
+at patients and considering
+
+502
+00:27:54,770 --> 00:27:59,090
+the diagnosis of multiple
+myeloma. What happens here
+
+503
+00:27:59,090 --> 00:28:02,050
+is you're using a gel and
+essentially what happens
+
+504
+00:28:02,050 --> 00:28:05,290
+is based off of size and
+charge, you'll actually have a
+
+505
+00:28:05,290 --> 00:28:07,430
+division of the different
+proteins that you're trying
+
+506
+00:28:07,430 --> 00:28:11,190
+to look for in a sample
+provided by your patient. And
+
+507
+00:28:11,190 --> 00:28:13,810
+what happens is each of these
+proteins that's distributing
+
+508
+00:28:13,810 --> 00:28:16,750
+based off of its weight
+and its charge causes a
+
+509
+00:28:16,750 --> 00:28:20,150
+spike on your electrophoresis
+report. So what you'll
+
+510
+00:28:20,150 --> 00:28:23,090
+find in the bottom right is
+that albumin is found in the
+
+511
+00:28:23,090 --> 00:28:25,770
+largest abundance, as it's
+bound to many other proteins
+
+512
+00:28:25,770 --> 00:28:28,810
+and substances, including
+medications in the body.
+
+513
+00:28:29,890 --> 00:28:32,970
+Specifically in the diagnosis
+of multiple myeloma,
+
+514
+00:28:32,970 --> 00:28:36,490
+what you'll have is an M
+protein produced by IgA
+
+515
+00:28:36,490 --> 00:28:40,150
+and IgG, and what this
+leads to is actually a spike
+
+516
+00:28:40,150 --> 00:28:42,870
+in the gamma region, which
+is the fifth and final
+
+517
+00:28:42,870 --> 00:28:45,390
+region on the right side
+of this picture that I've
+
+518
+00:28:45,390 --> 00:28:48,990
+mentioned. And so you'll
+have a monoclonal gammopathy,
+
+519
+00:28:48,990 --> 00:28:51,870
+meaning in that one
+area in the gamma region
+
+520
+00:28:51,870 --> 00:28:54,690
+you'll actually see a
+spike. This is exceptionally
+
+521
+00:28:54,690 --> 00:28:57,630
+important in multiple
+myeloma, but you'll also see
+
+522
+00:28:57,630 --> 00:29:01,090
+this in MGUS, or monoclonal
+gammopathy of unknown
+
+523
+00:29:01,090 --> 00:29:04,910
+significance, as well as
+Waldenstrom macroglobulinemia,
+
+524
+00:29:04,910 --> 00:29:07,790
+where SPAP are also
+being used for diagnosis.
+
+525
+00:29:10,610 --> 00:29:14,050
+This slide is really just
+to show you the results of
+
+526
+00:29:14,050 --> 00:29:17,690
+a serum protein
+electrophoresis, specifically in
+
+527
+00:29:17,690 --> 00:29:21,350
+regards to a monoclonal
+pattern or that elevation or
+
+528
+00:29:21,350 --> 00:29:25,150
+spike in the gamma portion.
+So this ultimately not
+
+529
+00:29:25,150 --> 00:29:27,830
+only can help you in
+diagnosing conditions such as
+
+530
+00:29:27,830 --> 00:29:31,510
+myeloma, but it also demonstrates
+and points to concerning
+
+531
+00:29:31,510 --> 00:29:36,010
+findings such as deficiencies
+with IgA, IgG, as
+
+532
+00:29:36,010 --> 00:29:39,450
+well as IgM. Keep in mind,
+this will show you the
+
+533
+00:29:39,450 --> 00:29:42,860
+overproduction in MGUS,
+Waldenstrom, and multiple
+
+534
+00:29:42,860 --> 00:29:45,790
+myeloma. And specifically,
+we're dealing with the M
+
+535
+00:29:45,790 --> 00:29:49,390
+protein, which is demonstrated
+in the gamma region. I
+
+536
+00:29:54,170 --> 00:29:58,350
+wanted to mention one specific
+subset of IgE testing,
+
+537
+00:29:58,350 --> 00:30:01,410
+which is called skin
+testing or allergen testing.
+
+538
+00:30:01,670 --> 00:30:06,310
+Now, IgE actually looks
+for a specific reaction to
+
+539
+00:30:06,310 --> 00:30:09,890
+an external antigen. And
+so specific antigens are
+
+540
+00:30:09,890 --> 00:30:13,110
+actually being presented.
+Now, These patients can
+
+541
+00:30:13,110 --> 00:30:16,570
+also have responses
+leading to anaphylaxis, and
+
+542
+00:30:16,570 --> 00:30:19,130
+typically what we're dealing
+with or looking at is
+
+543
+00:30:19,130 --> 00:30:22,010
+atopic patients, which
+is patients or who are
+
+544
+00:30:22,010 --> 00:30:25,390
+patients in a subset who
+are actually having a worse
+
+545
+00:30:25,390 --> 00:30:28,230
+than normal response to
+certain antigens or certain
+
+546
+00:30:28,230 --> 00:30:31,950
+exposures. So you'll often
+hear about IgE or skin
+
+547
+00:30:31,950 --> 00:30:36,050
+testing in regards to
+food being tested, pollen,
+
+548
+00:30:36,070 --> 00:30:37,990
+different molds, animal
+
+549
+00:30:37,990 --> 00:30:40,470
+dander, and in insects as well.
+
+550
+00:30:43,130 --> 00:30:46,770
+On this slide, what
+you'll find is actually a
+
+551
+00:30:46,770 --> 00:30:49,490
+large list of a lot of
+the autoimmune conditions
+
+552
+00:30:49,490 --> 00:30:52,410
+as well as the specific
+antibodies that are
+
+553
+00:30:52,410 --> 00:30:55,610
+produced and searched for
+for each specific disease
+
+554
+00:30:55,610 --> 00:30:58,850
+process. However, what
+I want you to know is
+
+555
+00:30:58,850 --> 00:31:01,810
+that these are not all
+necessarily specific to
+
+556
+00:31:01,810 --> 00:31:05,030
+the disease that you're
+discussing. For example,
+
+557
+00:31:05,390 --> 00:31:08,570
+anti-nuclear antibodies
+do not necessarily
+
+558
+00:31:08,570 --> 00:31:12,290
+pertain only to one
+specific disease, however,
+
+559
+00:31:12,290 --> 00:31:15,230
+are present in a variety
+of disease processes.
+
+560
+00:31:15,230 --> 00:31:19,710
+However, when we're looking
+at the anti-SCL70 or anti
+
+561
+00:31:19,710 --> 00:31:23,370
+-DNA topoisomerase, we're
+dealing specifically with
+
+562
+00:31:23,370 --> 00:31:26,510
+scleroderma. So while this
+list is not comprehensive,
+
+563
+00:31:26,510 --> 00:31:29,730
+it's important to know that
+many diseases do have a
+
+564
+00:31:29,730 --> 00:31:33,650
+specific test that you can
+use, and this needs to be done
+
+565
+00:31:33,650 --> 00:31:36,330
+in conjunction with your
+history and physical exam.
+
+566
+00:31:39,530 --> 00:31:42,870
+On this slide, we're
+just briefly mentioning
+
+567
+00:31:42,870 --> 00:31:47,590
+vasculitis and their association
+or vasculidity association
+
+568
+00:31:47,590 --> 00:31:51,730
+with cryoglobulins.
+Here, a lot of times what
+
+569
+00:31:51,730 --> 00:31:55,030
+we'll also have is a
+positive rheumatoid factor,
+
+570
+00:31:55,030 --> 00:31:58,810
+and cryoglobulins
+specifically are proteins that
+
+571
+00:31:58,810 --> 00:32:01,430
+you should consider to
+be precipitated from your
+
+572
+00:32:01,430 --> 00:32:05,710
+blood in cold weather or
+similar conditions. So what
+
+573
+00:32:05,710 --> 00:32:09,370
+we'll find in specific
+cases is consideration of
+
+574
+00:32:09,370 --> 00:32:13,910
+ANCA-mediated processes.
+So looking at C-ANCA, or
+
+575
+00:32:13,910 --> 00:32:17,350
+cytoplasmic antineutrophil
+cytoplasmic bodies,
+
+576
+00:32:17,350 --> 00:32:21,110
+there's an association with
+Wegener's granulomatosis.
+
+577
+00:32:21,110 --> 00:32:24,830
+In regards to perinuclear
+cytoplasmic antibodies,
+
+578
+00:32:24,830 --> 00:32:28,450
+we're dealing specifically
+with microscopic polyangitis
+
+579
+00:32:28,450 --> 00:32:31,670
+in the settings of
+vasculitis and cryoglobulins.
+
+580
+00:32:31,670 --> 00:32:34,350
+There are also other
+conditions in which you
+
+581
+00:32:34,350 --> 00:32:37,290
+can consider anga
+mediation and cryoglobulin
+
+582
+00:32:37,290 --> 00:32:41,150
+involvement that are mentioned
+below, such as Wegner's,
+
+583
+00:32:41,350 --> 00:32:42,430
+MPA,
+
+584
+00:32:42,690 --> 00:32:46,650
+IgA vasculitis, as well
+as rheumatoid vasculitis.
+
+585
+00:32:51,710 --> 00:32:54,670
+Next, one of the tests I'd
+like to briefly discuss
+
+586
+00:32:54,670 --> 00:32:58,130
+is the direct and
+indirect Coombs test, and
+
+587
+00:32:58,130 --> 00:33:00,570
+these are actually tests
+that are available in
+
+588
+00:33:00,570 --> 00:33:03,290
+order to look for causes
+of hemolysis, especially
+
+589
+00:33:03,290 --> 00:33:05,630
+if you're looking for
+an autoimmune source.
+
+590
+00:33:06,030 --> 00:33:08,610
+Within other contexts,
+you'll also see the
+
+591
+00:33:08,610 --> 00:33:11,410
+direct and indirect Coombs
+test, such as in the
+
+592
+00:33:11,410 --> 00:33:13,830
+setting of anemia, also
+if you're looking at
+
+593
+00:33:13,830 --> 00:33:16,640
+pre-test and pre-transfusion
+susceptibilities,
+
+594
+00:33:16,640 --> 00:33:18,350
+as well as when
+you're considering,
+
+595
+00:33:18,350 --> 00:33:20,830
+as we mentioned,
+autoimmune hemolysis.
+
+596
+00:33:21,050 --> 00:33:24,370
+There's two ways to check
+for this, a direct test,
+
+597
+00:33:24,370 --> 00:33:27,750
+which looks for an antibody
+in red blood cell complex,
+
+598
+00:33:27,750 --> 00:33:30,930
+as well as an indirect test
+which looks for antibodies
+
+599
+00:33:33,460 --> 00:33:37,030
+for red blood cells within
+the plasma. And there's
+
+600
+00:33:37,030 --> 00:33:39,690
+two easy ways to break this
+down in terms of how it's
+
+601
+00:33:39,690 --> 00:33:43,590
+described. The direct test
+specifically takes the anti
+
+602
+00:33:43,590 --> 00:33:46,170
+-human globulin and binds
+it to the patient's red
+
+603
+00:33:46,170 --> 00:33:50,250
+blood cells. So you have
+patient RBCs with direct binding
+
+604
+00:33:50,250 --> 00:33:54,510
+to anti-human globulin. In
+the indirect or indirect,
+
+605
+00:33:54,510 --> 00:33:56,990
+there's actually a third
+step. So we take the
+
+606
+00:33:56,990 --> 00:34:01,170
+patient's plasma, and there's
+test RBCs, and then you add
+
+607
+00:34:01,170 --> 00:34:04,490
+it to an artificial anti
+-human globulin. So there's
+
+608
+00:34:04,490 --> 00:34:07,730
+three steps involved, making
+it the indirect process.
+
+609
+00:34:07,770 --> 00:34:10,110
+In any case, what
+you're looking for
+
+610
+00:34:10,110 --> 00:34:13,470
+here is an anti-RBC
+or anti-red blood
+
+611
+00:34:13,470 --> 00:34:16,390
+cell antibody that
+causes agglutination.
+
+612
+00:34:16,670 --> 00:34:20,430
+Now this agglutination is
+actually a cross-linking of
+
+613
+00:34:20,430 --> 00:34:23,710
+the anti-red blood cell
+antibody and it's binding to
+
+614
+00:34:23,710 --> 00:34:26,570
+an antigen that's present
+on the patient's red blood
+
+615
+00:34:26,570 --> 00:34:29,590
+cell. So take a minute to
+go over that process on
+
+616
+00:34:29,590 --> 00:34:33,050
+your own, but consider that
+the direct process is taking
+
+617
+00:34:33,050 --> 00:34:36,490
+the patient's red blood
+cells directly, but with
+
+618
+00:34:36,490 --> 00:34:39,590
+the indirect pathway you're
+adding an additional step.
+
+619
+00:34:42,650 --> 00:34:46,030
+When you have the setting
+of a Coombs positive test
+
+620
+00:34:46,030 --> 00:34:49,550
+in the setting of autoimmune
+hemolytic anemia, the
+
+621
+00:34:49,550 --> 00:34:52,110
+blood smear findings are
+actually somewhat different
+
+622
+00:34:52,110 --> 00:34:54,810
+than the normal blood smear
+we had mentioned before.
+
+623
+00:34:55,030 --> 00:34:57,690
+What you'll see here
+with the arrowheads
+
+624
+00:34:57,690 --> 00:35:00,450
+are actually the
+presence of spherocytes.
+
+625
+00:35:00,610 --> 00:35:03,430
+With the dashed arrows,
+you'll find that there's
+
+626
+00:35:03,430 --> 00:35:06,360
+actually nucleated red
+blood cells, and typically
+
+627
+00:35:06,360 --> 00:35:09,210
+our red blood cells
+do not hold a nucleus.
+
+628
+00:35:09,410 --> 00:35:12,370
+And furthermore, with the
+full arrows, you'll actually
+
+629
+00:35:12,370 --> 00:35:15,310
+see a number of larger
+polychromatophilic red
+
+630
+00:35:15,310 --> 00:35:18,530
+cells. That actually just
+demonstrates the process of
+
+631
+00:35:18,530 --> 00:35:22,690
+reticulocytosis in response
+to this hemolytic anemia.
+
+632
+00:35:24,950 --> 00:35:28,550
+As we get to the end of our
+discussion, I just briefly
+
+633
+00:35:28,550 --> 00:35:31,570
+wanted to mention the
+tuberculin test. So this
+
+634
+00:35:31,570 --> 00:35:33,950
+is actually something
+that almost all of us are
+
+635
+00:35:33,950 --> 00:35:37,330
+familiar with, and most of
+us have probably had, where
+
+636
+00:35:37,330 --> 00:35:40,290
+they're taking an intradermal
+injection and injecting
+
+637
+00:35:40,290 --> 00:35:43,790
+it usually on your forearm
+just under the skin and
+
+638
+00:35:43,790 --> 00:35:47,760
+forming a wheel. Now this
+is a type 4 hypersensitivity
+
+639
+00:35:47,760 --> 00:35:49,910
+reaction when you're
+doing the intradormal
+
+640
+00:35:49,910 --> 00:35:53,690
+injection with the antigen.
+However, keep in mind this
+
+641
+00:35:53,690 --> 00:35:56,290
+actually requires the
+patient to have antigen
+
+642
+00:35:56,290 --> 00:36:00,050
+presenting cells as well as
+CD4 cells in order to mount
+
+643
+00:36:00,050 --> 00:36:03,390
+this cellular response in
+regards to the cellular
+
+644
+00:36:03,390 --> 00:36:07,310
+immunity. After the injection,
+you'll wait about 48
+
+645
+00:36:07,310 --> 00:36:11,470
+to 72 hours in order to
+evaluate for this response.
+
+646
+00:36:11,940 --> 00:36:15,310
+Now, if you inject it to
+the skin, then you do have
+
+647
+00:36:15,310 --> 00:36:19,310
+that positive wheel
+formation. This might point
+
+648
+00:36:19,310 --> 00:36:22,910
+to a latent infection or
+a previous vaccination,
+
+649
+00:36:22,970 --> 00:36:25,290
+and again, it's
+not valid in those
+
+650
+00:36:25,290 --> 00:36:27,510
+with the compromised
+cellular immunity.
+
+651
+00:36:29,830 --> 00:36:33,390
+Since we have briefly
+discussed both the tuberculin
+
+652
+00:36:33,390 --> 00:36:36,330
+skin test as well as the
+interferon gamma release
+
+653
+00:36:36,330 --> 00:36:39,550
+assay, I wanted to include
+this slide that kind of tells
+
+654
+00:36:39,550 --> 00:36:41,750
+you a little bit about the
+differences between the
+
+655
+00:36:41,750 --> 00:36:44,990
+two tests. So not just looking
+at the interferon gamma
+
+656
+00:36:44,990 --> 00:36:48,790
+release as well as looking
+at the tuberculin skin
+
+657
+00:36:48,790 --> 00:36:51,450
+test. And there's a picture
+on the side that also
+
+658
+00:36:51,450 --> 00:36:54,610
+points to what's a true
+positive test. You'll see this a
+
+659
+00:36:54,610 --> 00:36:56,770
+lot in the clinical setting
+and you might have even
+
+660
+00:36:56,770 --> 00:36:59,270
+wondered on your own when
+you have this injected into
+
+661
+00:36:59,270 --> 00:37:02,430
+the top layer of your skin
+whether your test is truly
+
+662
+00:37:02,430 --> 00:37:05,430
+positive or not. So what
+we're really looking for
+
+663
+00:37:05,430 --> 00:37:09,050
+is this raised induration
+as opposed to the erythema
+
+664
+00:37:09,050 --> 00:37:11,930
+or the redness that surrounds
+that wheel formation.
+
+665
+00:37:14,950 --> 00:37:17,630
+One of the last things
+that I wanted to mention
+
+666
+00:37:17,630 --> 00:37:21,370
+is this component of
+human leukocyte antigen or
+
+667
+00:37:21,370 --> 00:37:24,690
+HLA as well as their
+subtypes and what these
+
+668
+00:37:24,690 --> 00:37:27,730
+play a role in is
+actually the MHC or major
+
+669
+00:37:27,730 --> 00:37:31,570
+histocompatibility complexes,
+especially in the role
+
+670
+00:37:31,570 --> 00:37:34,450
+of antigen presentation,
+which is something that
+
+671
+00:37:34,450 --> 00:37:37,270
+we mentioned with the
+tuberculin skin testing.
+
+672
+00:37:37,690 --> 00:37:44,370
+In comparison to MHC1 and
+MHC2, MHC1 human leukocyte
+
+673
+00:37:44,370 --> 00:37:47,010
+antigens are specifically
+dealing with self
+
+674
+00:37:47,010 --> 00:37:50,830
+-antigens versus MHC or
+major histocompatibility
+
+675
+00:37:50,830 --> 00:37:54,660
+complex type 2 dealing
+with foreign antigens.
+
+676
+00:37:54,660 --> 00:37:57,190
+There's three subtypes
+that we'll talk about in
+
+677
+00:37:57,190 --> 00:38:01,750
+regards to MHC class 1,
+specifically with A, B, and
+
+678
+00:38:01,750 --> 00:38:04,330
+C, and these are often
+checked and analyzed,
+
+679
+00:38:04,330 --> 00:38:06,930
+especially when patients
+are receiving transplants.
+
+680
+00:38:07,190 --> 00:38:10,610
+Now HLA has its own
+subsets that we'll mention
+
+681
+00:38:10,610 --> 00:38:14,710
+with the component of DR
+that's listed, and the DR2,
+
+682
+00:38:14,710 --> 00:38:18,390
+3, and 4 specifically
+refers to different cell
+
+683
+00:38:18,390 --> 00:38:21,150
+surface receptors, but
+what's important to know
+
+684
+00:38:21,150 --> 00:38:24,470
+is that DR2 has an
+association with multiple
+
+685
+00:38:24,470 --> 00:38:28,410
+sclerosis as well as lupus
+and Good-Pasture syndrome,
+
+686
+00:38:29,270 --> 00:38:34,350
+with HLA-3 or excuse me HLA
+-DR3 having an association
+
+687
+00:38:34,350 --> 00:38:38,770
+with diabetes type 1,
+lupus, and Graves disease,
+
+688
+00:38:39,150 --> 00:38:43,210
+type 4 having an
+association with rheumatoid,
+
+689
+00:38:43,210 --> 00:38:46,250
+diabetes type 1, and
+Addison's disease, and
+
+690
+00:38:46,250 --> 00:38:49,490
+in moving to MHC class
+2 with your foreign
+
+691
+00:38:49,490 --> 00:38:52,550
+antigen, you'll have
+HLA classes that are
+
+692
+00:38:52,550 --> 00:38:55,330
+associated with specific
+autoimmune diseases.
+
+693
+00:38:55,450 --> 00:39:00,730
+Commonly tested is the
+association of HLA-B27 with
+
+694
+00:39:00,730 --> 00:39:04,050
+ankylosing spondylitis.
+However, it's also seen
+
+695
+00:39:04,050 --> 00:39:07,150
+in some other forms of
+arthritis like reactive,
+
+696
+00:39:07,310 --> 00:39:11,310
+psoriatic, as well as
+arthritis associated with IBD.

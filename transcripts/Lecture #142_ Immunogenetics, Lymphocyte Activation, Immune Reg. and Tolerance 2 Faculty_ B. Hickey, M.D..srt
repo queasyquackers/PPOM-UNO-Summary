@@ -1,0 +1,3448 @@
+1
+00:00:02,550 --> 00:00:04,750
+Greetings student
+doctors. My name
+
+2
+00:00:04,750 --> 00:00:06,570
+is Dr. Bradley
+Hickey. I'm an
+
+3
+00:00:06,570 --> 00:00:07,710
+assistant professor
+of clinical
+
+4
+00:00:07,710 --> 00:00:09,730
+medicine here at
+the Arkansas campus.
+
+5
+00:00:10,090 --> 00:00:12,390
+It's my pleasure
+to introduce you to
+
+6
+00:00:12,390 --> 00:00:14,730
+this foundational
+lecture in immunology.
+
+7
+00:00:15,210 --> 00:00:18,090
+The title of today's
+follow-on lecture is
+
+8
+00:00:18,090 --> 00:00:21,150
+Immunogenetics,
+Lymphocyte Activation,
+
+9
+00:00:21,190 --> 00:00:24,190
+Immune Regulation,
+and Tolerance Part 2.
+
+10
+00:00:24,530 --> 00:00:27,590
+this lecture emphasizes
+rules and logic over
+
+11
+00:00:27,590 --> 00:00:30,650
+memorization if you
+understand the constraints
+
+12
+00:00:30,650 --> 00:00:32,830
+the immune system
+operates under the
+
+13
+00:00:32,830 --> 00:00:34,950
+details that will come
+later will make much
+
+14
+00:00:34,950 --> 00:00:37,830
+more sense you'll also
+notice this lecture
+
+15
+00:00:37,830 --> 00:00:41,030
+is relatively graphic
+light that is intentional
+
+16
+00:00:41,030 --> 00:00:43,910
+the goal today is to
+build the conceptual
+
+17
+00:00:43,910 --> 00:00:46,950
+scaffolding first once
+you understand the
+
+18
+00:00:46,950 --> 00:00:49,810
+rules the system
+follows the diagrams and
+
+19
+00:00:49,810 --> 00:00:52,170
+later lectures become
+much easier to interpret
+
+20
+00:00:54,070 --> 00:00:58,330
+orientation from
+recognition to response
+
+21
+00:00:58,330 --> 00:01:01,170
+in the previous lecture
+we focused on how
+
+22
+00:01:01,170 --> 00:01:03,730
+the immune system
+recognizes antigen and
+
+23
+00:01:03,730 --> 00:01:06,920
+decides whether a
+response should begin that
+
+24
+00:01:06,920 --> 00:01:10,270
+decision point is
+critical but is often only
+
+25
+00:01:10,270 --> 00:01:13,050
+the beginning of an
+immune response in this
+
+26
+00:01:13,050 --> 00:01:15,510
+lecture we shift
+attention to what happens
+
+27
+00:01:15,510 --> 00:01:17,750
+after a lymphocyte
+has been activated
+
+28
+00:01:18,050 --> 00:01:21,510
+specifically we will
+examine how immune responses
+
+29
+00:01:21,510 --> 00:01:25,390
+are expanded shaped
+restrained and eventually
+
+30
+00:01:25,390 --> 00:01:28,330
+resolved these
+downstream processes
+
+31
+00:01:28,330 --> 00:01:30,950
+determine whether immune
+activation is protective
+
+32
+00:01:30,950 --> 00:01:35,530
+ineffective or harmful
+understanding this
+
+33
+00:01:35,530 --> 00:01:38,010
+progression is essential
+for interpreting
+
+34
+00:01:38,010 --> 00:01:41,330
+immune mediated
+disease a useful way to
+
+35
+00:01:41,330 --> 00:01:44,610
+anchor this idea is to
+ask what problem is the
+
+36
+00:01:44,610 --> 00:01:48,050
+immune system trying
+to solve and what why
+
+37
+00:01:48,050 --> 00:01:50,270
+is the solution safer
+than the alternatives
+
+38
+00:01:50,270 --> 00:01:53,830
+a practical test of
+understanding is to
+
+39
+00:01:53,830 --> 00:01:56,190
+explain this in one
+sentence without jargon
+
+40
+00:01:56,190 --> 00:01:58,790
+then restate it with
+the correct technical
+
+41
+00:01:58,790 --> 00:02:02,730
+term if you can do both
+you own the concept
+
+42
+00:02:04,820 --> 00:02:08,130
+learning objective
+objectives and conceptual
+
+43
+00:02:08,130 --> 00:02:11,250
+roadmap the purpose
+of today's session is
+
+44
+00:02:11,250 --> 00:02:13,730
+to understand how immune
+activation translates
+
+45
+00:02:13,730 --> 00:02:17,030
+into functional
+outcomes we will discuss
+
+46
+00:02:17,030 --> 00:02:20,550
+clonal expansion
+differentiation into effector
+
+47
+00:02:20,550 --> 00:02:23,870
+cells the formation
+of immunologic memory
+
+48
+00:02:23,870 --> 00:02:28,030
+and mechanisms that
+limit responses rather
+
+49
+00:02:28,030 --> 00:02:31,060
+than focusing on
+lists of subsets the
+
+50
+00:02:31,150 --> 00:02:33,990
+emphasis will be on why
+the immune system regulates
+
+51
+00:02:33,990 --> 00:02:37,110
+these processes so
+carefully each step
+
+52
+00:02:37,110 --> 00:02:39,370
+represents a trade-off
+between effectiveness
+
+53
+00:02:39,370 --> 00:02:42,910
+and safety by the end
+of this lecture you
+
+54
+00:02:42,910 --> 00:02:44,710
+should be able to
+explain not just what
+
+55
+00:02:44,710 --> 00:02:47,650
+happens after activation
+but why it happens
+
+56
+00:02:47,700 --> 00:02:51,930
+focus on the functional
+logic what input is
+
+57
+00:02:51,930 --> 00:02:55,410
+being sensed what
+decision is being made and
+
+58
+00:02:55,410 --> 00:02:58,690
+what output follows
+from the decision notice
+
+59
+00:02:58,690 --> 00:03:01,950
+the theme specificity
+gives power but
+
+60
+00:03:01,950 --> 00:03:05,490
+regulation provides safety
+almost every mechanism
+
+61
+00:03:05,490 --> 00:03:07,330
+and adaptive immunity
+reflects that
+
+62
+00:03:07,330 --> 00:03:11,830
+trade-off clonal selection
+as a foundational
+
+63
+00:03:11,830 --> 00:03:15,090
+principle adaptive
+immunity operates on the
+
+64
+00:03:15,090 --> 00:03:18,370
+principle of clonal
+selection only lymphocytes
+
+65
+00:03:18,370 --> 00:03:20,530
+with receptors
+capable of recognizing
+
+66
+00:03:20,530 --> 00:03:23,370
+a specific antigen are
+selected to participate
+
+67
+00:03:23,370 --> 00:03:26,210
+in an immune
+response this ensures
+
+68
+00:03:26,210 --> 00:03:29,470
+specificity but it also
+creates a logistical
+
+69
+00:03:29,470 --> 00:03:33,110
+problem at the start
+of a response antigen
+
+70
+00:03:33,110 --> 00:03:35,550
+specific lymphocytes
+are extremely rare.
+
+71
+00:03:35,590 --> 00:03:38,670
+The immune system must
+therefore amplify these
+
+72
+00:03:38,670 --> 00:03:41,250
+rare cells to have
+a meaningful effect.
+
+73
+00:03:41,430 --> 00:03:43,350
+If you feel the
+details blurring
+
+74
+00:03:43,350 --> 00:03:45,930
+together, return to
+the core question,
+
+75
+00:03:45,930 --> 00:03:48,170
+what changes in
+the cell after this
+
+76
+00:03:48,170 --> 00:03:50,850
+step and what was
+not true before?
+
+77
+00:03:51,710 --> 00:03:54,750
+A quick contrast here
+may help. If this
+
+78
+00:03:54,750 --> 00:03:57,170
+step were missing, the
+response would either
+
+79
+00:03:57,170 --> 00:04:00,210
+be too weak to clear
+the threat or too
+
+80
+00:04:00,210 --> 00:04:02,940
+strong and damaging
+to the host therefore
+
+81
+00:04:02,940 --> 00:04:05,590
+the immune system is
+constantly avoiding both
+
+82
+00:04:05,590 --> 00:04:10,610
+errors why clonal
+expansion is essential
+
+83
+00:04:11,380 --> 00:04:13,910
+recognition of
+antigen alone does not
+
+84
+00:04:13,910 --> 00:04:17,170
+control infection or
+disease a single antigen
+
+85
+00:04:17,170 --> 00:04:19,550
+specific lymphocyte
+cannot clear pathogens
+
+86
+00:04:19,550 --> 00:04:22,790
+or coordinate immune
+defenses clonal
+
+87
+00:04:22,870 --> 00:04:26,290
+expansion solves this
+problem by generating
+
+88
+00:04:26,290 --> 00:04:29,190
+large numbers of
+identical cells. This
+
+89
+00:04:29,190 --> 00:04:31,450
+expansion allows the
+immune system to deploy
+
+90
+00:04:31,450 --> 00:04:34,030
+sufficient force at
+the site of infection.
+
+91
+00:04:34,330 --> 00:04:37,530
+Because expansion is
+costly and potentially
+
+92
+00:04:37,530 --> 00:04:39,810
+dangerous, it is
+tightly regulated.
+
+93
+00:04:40,030 --> 00:04:43,190
+A common learning
+trap is to memorize
+
+94
+00:04:43,190 --> 00:04:44,970
+terms without
+a mental model.
+
+95
+00:04:45,130 --> 00:04:47,310
+Try to picture the
+following sequence.
+
+96
+00:04:47,790 --> 00:04:51,650
+A signal leads to a
+decision, and that decision
+
+97
+00:04:51,650 --> 00:04:54,290
+leads to a behavior,
+and a behavior leads
+
+98
+00:04:54,290 --> 00:04:57,500
+to a consequence or
+an outcome clinically
+
+99
+00:04:57,500 --> 00:05:00,490
+the relevance is that
+small shifts in this
+
+100
+00:05:00,490 --> 00:05:03,070
+checkpoint can move a
+patient from protection
+
+101
+00:05:03,070 --> 00:05:06,450
+to pathology we will
+repeatedly use this
+
+102
+00:05:06,450 --> 00:05:09,650
+logic in autoimmunity
+chronic inflammation and
+
+103
+00:05:09,650 --> 00:05:14,430
+transplant rejection
+signals that support
+
+104
+00:05:14,430 --> 00:05:17,690
+expansion clonal expansion
+requires more than
+
+105
+00:05:17,690 --> 00:05:20,990
+antigen recognition
+co-stimulatory signals
+
+106
+00:05:20,990 --> 00:05:23,110
+and cytokines provide
+additional instructions
+
+107
+00:05:23,110 --> 00:05:25,590
+that promote survival
+and proliferation.
+
+108
+00:05:25,990 --> 00:05:28,390
+These signals ensure
+that expansion occurs
+
+109
+00:05:28,390 --> 00:05:31,170
+only in appropriate
+inflammatory contexts.
+
+110
+00:05:31,310 --> 00:05:33,730
+Without these
+reinforcing signals,
+
+111
+00:05:33,770 --> 00:05:35,270
+lymphocytes may fail to
+
+112
+00:05:35,270 --> 00:05:37,850
+expand or may
+undergo apoptosis.
+
+113
+00:05:38,150 --> 00:05:40,030
+This requirement
+helps prevent
+
+114
+00:05:40,030 --> 00:05:42,050
+inappropriate
+immune activation.
+
+115
+00:05:42,410 --> 00:05:45,570
+A useful way to anchor
+this idea is to ask,
+
+116
+00:05:45,570 --> 00:05:47,890
+what problem is the
+immune system trying to
+
+117
+00:05:47,890 --> 00:05:50,650
+solve here and why is
+this solution safer
+
+118
+00:05:50,650 --> 00:05:55,430
+than the alternatives
+differentiation giving
+
+119
+00:05:55,430 --> 00:05:58,590
+cells functional
+identity as lymphocytes
+
+120
+00:05:58,590 --> 00:06:01,110
+proliferate they do
+not remain functionally
+
+121
+00:06:01,110 --> 00:06:05,270
+identical differentiation
+programs determine what
+
+122
+00:06:05,270 --> 00:06:08,130
+tasks the cells will
+perform some cells
+
+123
+00:06:08,130 --> 00:06:12,150
+become cytotoxic others
+provide help and others
+
+124
+00:06:12,150 --> 00:06:15,250
+coordinate immune
+responses this functional
+
+125
+00:06:15,250 --> 00:06:17,810
+specialization allows
+the immune system to
+
+126
+00:06:17,810 --> 00:06:20,210
+respond appropriately
+to different threats
+
+127
+00:06:20,530 --> 00:06:23,210
+differentiation is
+therefore a central
+
+128
+00:06:23,210 --> 00:06:28,490
+feature of adaptive
+immunity focus on this
+
+129
+00:06:28,490 --> 00:06:31,150
+functional logic what
+input is being sensed
+
+130
+00:06:31,150 --> 00:06:34,070
+what decision is being
+made and what output
+
+131
+00:06:34,070 --> 00:06:39,950
+follows from that decision
+functional diversity
+
+132
+00:06:39,950 --> 00:06:42,830
+of effector cells
+effector cells represent
+
+133
+00:06:42,830 --> 00:06:44,950
+the working units of
+the immune response
+
+134
+00:06:44,950 --> 00:06:47,090
+different Immune
+effector programs are
+
+135
+00:06:47,090 --> 00:06:49,290
+suited to different
+immunologic challenges.
+
+136
+00:06:49,570 --> 00:06:51,990
+This diversity allows
+immune responses
+
+137
+00:06:51,990 --> 00:06:54,370
+to be tailored
+rather than uniform.
+
+138
+00:06:55,270 --> 00:06:57,370
+Understanding effector
+diversity prevents
+
+139
+00:06:57,370 --> 00:07:00,010
+oversimplified views
+of immune function.
+
+140
+00:07:00,130 --> 00:07:02,750
+It also explains
+why immune responses
+
+141
+00:07:02,750 --> 00:07:04,830
+vary across
+different diseases.
+
+142
+00:07:06,610 --> 00:07:09,430
+Memory as a deliberate
+immune strategy.
+
+143
+00:07:09,910 --> 00:07:12,290
+Not all activated
+lymphocytes become
+
+144
+00:07:12,290 --> 00:07:15,110
+short-lived effectors.
+Some are programmed
+
+145
+00:07:15,110 --> 00:07:17,750
+to persist long-term
+as memory cells.
+
+146
+00:07:18,070 --> 00:07:20,190
+Memory cells
+allow the immune
+
+147
+00:07:20,190 --> 00:07:21,890
+system to respond
+more rapidly
+
+148
+00:07:21,890 --> 00:07:24,090
+upon re-exposure
+to an antigen.
+
+149
+00:07:24,470 --> 00:07:27,900
+This is not an
+accidental byproduct of
+
+150
+00:07:30,510 --> 00:07:33,250
+activation, but a
+deliberate strategy.
+
+151
+00:07:33,490 --> 00:07:35,750
+Immunologic memory
+is a defining
+
+152
+00:07:35,750 --> 00:07:37,510
+feature of
+adaptive immunity.
+
+153
+00:07:39,070 --> 00:07:42,910
+The need for controlled
+contraction. Immune
+
+154
+00:07:42,910 --> 00:07:45,270
+responses must eventually
+be scaled back.
+
+155
+00:07:45,310 --> 00:07:47,890
+Persistent activation
+can cause tissue
+
+156
+00:07:47,890 --> 00:07:49,750
+damage and chronic
+inflammation.
+
+157
+00:07:50,090 --> 00:07:51,870
+The immune
+system, therefore,
+
+158
+00:07:51,870 --> 00:07:53,830
+incorporates
+mechanisms to contract
+
+159
+00:07:53,830 --> 00:07:56,710
+responses once threats
+are controlled.
+
+160
+00:07:57,030 --> 00:07:59,810
+This contraction
+preserves tissue
+
+161
+00:07:59,810 --> 00:08:02,050
+integrity and
+prevents pathology.
+
+162
+00:08:02,330 --> 00:08:04,750
+Failures in
+contraction contribute
+
+163
+00:08:04,750 --> 00:08:06,670
+to immune
+-mediated disease.
+
+164
+00:08:10,170 --> 00:08:13,450
+Preview regulation and
+tolerance mechanisms
+
+165
+00:08:13,750 --> 00:08:16,310
+later in this lecture
+we will examine
+
+166
+00:08:16,310 --> 00:08:18,090
+mechanisms that
+actively regulate
+
+167
+00:08:18,090 --> 00:08:20,890
+immune responses these
+include tolerance
+
+168
+00:08:20,890 --> 00:08:22,850
+pathways that prevent
+responses against
+
+169
+00:08:22,850 --> 00:08:25,710
+self tissues such
+mechanisms ensure that
+
+170
+00:08:25,710 --> 00:08:27,870
+powerful immune
+responses remain directed
+
+171
+00:08:27,870 --> 00:08:30,930
+outward understanding
+regulation is
+
+172
+00:08:30,930 --> 00:08:33,250
+essential for
+understanding autoimmunity
+
+173
+00:08:35,320 --> 00:08:38,630
+transition from
+activation to expansion.
+
+174
+00:08:39,470 --> 00:08:42,190
+Once a lymphocyte has
+received the appropriate
+
+175
+00:08:42,190 --> 00:08:44,750
+activation signals,
+the immune response
+
+176
+00:08:44,750 --> 00:08:47,130
+enters a fundamentally
+different phase.
+
+177
+00:08:47,260 --> 00:08:49,830
+Up to this point,
+the immune system has
+
+178
+00:08:49,830 --> 00:08:51,790
+been deciding whether
+a response should
+
+179
+00:08:51,790 --> 00:08:55,510
+occur at all. After
+activation, the question
+
+180
+00:08:55,510 --> 00:08:57,330
+then becomes how
+large the response
+
+181
+00:08:57,330 --> 00:09:00,210
+should be and how much
+damage is acceptable.
+
+182
+00:09:00,330 --> 00:09:03,070
+This transition commits
+the immune system
+
+183
+00:09:03,070 --> 00:09:05,950
+to significant cellular
+and metabolic investment
+
+184
+00:09:05,950 --> 00:09:08,670
+because these
+investments carry risk
+
+185
+00:09:08,670 --> 00:09:12,290
+they are not taken
+lightly errors at this
+
+186
+00:09:12,290 --> 00:09:15,230
+stage can result in
+ineffective immunity or
+
+187
+00:09:15,230 --> 00:09:18,490
+excessive inflammation
+and tissue injury the
+
+188
+00:09:18,490 --> 00:09:20,370
+immune system
+therefore regulates the
+
+189
+00:09:20,370 --> 00:09:23,050
+transition from activation
+to expansion very
+
+190
+00:09:23,050 --> 00:09:27,650
+tightly clonal expansion
+as a quantitative
+
+191
+00:09:27,650 --> 00:09:31,310
+solution clonal expansion
+solves a fundamental
+
+192
+00:09:31,310 --> 00:09:33,250
+quantitative
+limitation of adaptive
+
+193
+00:09:33,250 --> 00:09:36,630
+immunity. At the beginning
+of an immune response,
+
+194
+00:09:36,630 --> 00:09:39,130
+antigen-specific
+lymphocytes are extremely
+
+195
+00:09:39,130 --> 00:09:42,010
+rare. Even if a
+lymphocyte is perfectly
+
+196
+00:09:42,010 --> 00:09:45,010
+specific, a single cell
+cannot meaningfully
+
+197
+00:09:45,010 --> 00:09:47,990
+alter disease course.
+Clonal expansion
+
+198
+00:09:47,990 --> 00:09:50,290
+generates large numbers
+of identical daughter
+
+199
+00:09:50,290 --> 00:09:52,910
+cells from this rare
+starting population.
+
+200
+00:09:53,030 --> 00:09:55,970
+This amplification
+transforms molecular
+
+201
+00:09:55,970 --> 00:09:59,030
+recognition into a
+clinically relevant response
+
+202
+00:09:59,030 --> 00:10:02,550
+without clonal expansion
+adaptive immunity
+
+203
+00:10:02,550 --> 00:10:05,450
+would be precise
+but ineffective thus
+
+204
+00:10:05,450 --> 00:10:08,170
+expansion is essential
+for immune success
+
+205
+00:10:08,760 --> 00:10:14,820
+metabolic demands of
+rapid proliferation rapid
+
+206
+00:10:14,870 --> 00:10:18,090
+clonal expansion places
+extraordinary metabolic
+
+207
+00:10:18,090 --> 00:10:21,130
+demands on lymphocytes
+resting lymphocytes
+
+208
+00:10:21,130 --> 00:10:23,190
+are metabolically
+quiet and energy
+
+209
+00:10:23,190 --> 00:10:26,970
+efficient activation
+forces a shift towards
+
+210
+00:10:26,970 --> 00:10:30,450
+increased glucose uptake
+protein synthesis and
+
+211
+00:10:30,450 --> 00:10:33,790
+biosynthesis this
+metabolic reprogramming
+
+212
+00:10:33,790 --> 00:10:37,510
+supports rapid cell
+division such a shift is
+
+213
+00:10:37,510 --> 00:10:39,750
+energetically expensive
+and potentially
+
+214
+00:10:39,750 --> 00:10:42,950
+dangerous the immune
+system therefore restricts
+
+215
+00:10:42,950 --> 00:10:45,310
+this metabolic transition
+to appropriately
+
+216
+00:10:45,310 --> 00:10:48,850
+activated cells this
+requirement protects
+
+217
+00:10:48,850 --> 00:10:53,100
+against uncontrolled
+proliferation cytokines
+
+218
+00:10:53,730 --> 00:10:57,050
+as drivers of
+expansion cytokines are
+
+219
+00:10:57,050 --> 00:11:00,190
+central regulators of
+clonal expansion they
+
+220
+00:11:00,190 --> 00:11:03,010
+provide survival signals
+that prevent apoptosis
+
+221
+00:11:03,010 --> 00:11:06,390
+during rapid
+proliferation they also
+
+222
+00:11:06,390 --> 00:11:08,790
+promote cell cycle
+entry and progression
+
+223
+00:11:08,790 --> 00:11:12,310
+different cytokine
+environments influence the
+
+224
+00:11:12,310 --> 00:11:15,950
+magnitude and duration
+of expansion this allows
+
+225
+00:11:15,950 --> 00:11:18,450
+immune responses to
+scale according to
+
+226
+00:11:18,450 --> 00:11:21,950
+threat severity cytokine
+signaling therefore
+
+227
+00:11:21,950 --> 00:11:24,310
+integrates environmental
+context into
+
+228
+00:11:24,310 --> 00:11:27,930
+expansion decisions
+expansion is never purely
+
+229
+00:11:27,930 --> 00:11:34,050
+autonomous effector
+commitment during expansion
+
+230
+00:11:34,480 --> 00:11:37,190
+clonal expansion
+is not simply about
+
+231
+00:11:37,190 --> 00:11:40,930
+increasing cell numbers
+as lymphocytes proliferate
+
+232
+00:11:40,930 --> 00:11:42,950
+they begin committing
+to specific
+
+233
+00:11:42,950 --> 00:11:46,230
+effector programs signals
+encountered during
+
+234
+00:11:46,230 --> 00:11:49,050
+activation and early
+expansion influence this
+
+235
+00:11:49,050 --> 00:11:51,610
+commitment. These
+signals determine what
+
+236
+00:11:51,610 --> 00:11:54,250
+functions the cells
+will perform in tissues.
+
+237
+00:11:55,010 --> 00:11:57,170
+Effector identity
+is therefore shaped
+
+238
+00:11:57,170 --> 00:11:59,770
+early, not after
+expansion is complete.
+
+239
+00:11:59,850 --> 00:12:02,610
+This timing ensures
+that function matches
+
+240
+00:12:02,610 --> 00:12:05,470
+inflammatory context.
+Expansion and
+
+241
+00:12:05,470 --> 00:12:08,350
+differentiation are
+inseparable processes.
+
+242
+00:12:10,390 --> 00:12:13,310
+CD8 T-cell effector
+differentiation.
+
+243
+00:12:14,130 --> 00:12:16,790
+Activated CD8 T
+-cells differentiate
+
+244
+00:12:16,790 --> 00:12:20,070
+into cytotoxic
+effector cells. These
+
+245
+00:12:20,070 --> 00:12:22,430
+cells acquire
+specialized machinery for
+
+246
+00:12:22,430 --> 00:12:25,090
+killing infected
+or abnormal cells.
+
+247
+00:12:25,490 --> 00:12:27,850
+Differentiation is
+guided by signals
+
+248
+00:12:27,850 --> 00:12:29,690
+present during
+activation and
+
+249
+00:12:29,690 --> 00:12:32,750
+proliferation. This
+ensures cytotoxic
+
+250
+00:12:32,750 --> 00:12:35,190
+capacity is deployed
+selectively.
+
+251
+00:12:35,650 --> 00:12:38,910
+Unregulated cytotoxic
+differentiation can
+
+252
+00:12:38,910 --> 00:12:42,230
+cause tissue damage. The
+immune system therefore
+
+253
+00:12:42,230 --> 00:12:45,590
+tightly controls this
+process precision
+
+254
+00:12:45,590 --> 00:12:49,610
+is critical clinically
+the relevance is that
+
+255
+00:12:49,610 --> 00:12:52,270
+small shifts in this
+checkpoint can move a
+
+256
+00:12:52,270 --> 00:12:55,630
+patient from protection
+to pathology once
+
+257
+00:12:55,630 --> 00:12:58,570
+again we repeatedly use
+this logic in autoimmunity
+
+258
+00:12:58,570 --> 00:13:00,990
+chronic inflammation
+and transplant
+
+259
+00:13:00,990 --> 00:13:07,010
+rejection CD4 t-cell
+differentiation pathways
+
+260
+00:13:07,490 --> 00:13:10,390
+Activated CD4 T
+-cells differentiate
+
+261
+00:13:10,390 --> 00:13:14,590
+into multiple helper
+T-cell subsets.
+
+262
+00:13:14,710 --> 00:13:17,110
+Each subset
+supports a different
+
+263
+00:13:17,110 --> 00:13:18,650
+type of immune response.
+
+264
+00:13:19,170 --> 00:13:21,410
+Differentiation
+depends on cytokine
+
+265
+00:13:21,410 --> 00:13:23,450
+signals encountered
+during activation.
+
+266
+00:13:23,510 --> 00:13:25,830
+These signals
+provide contextual
+
+267
+00:13:25,830 --> 00:13:28,030
+information about the
+nature of the threat.
+
+268
+00:13:28,030 --> 00:13:31,210
+This allows CD4
+T-cells to tailor
+
+269
+00:13:31,210 --> 00:13:32,670
+immune responses
+appropriately.
+
+270
+00:13:32,670 --> 00:13:36,180
+Understanding these
+pathways prevents
+
+271
+00:13:36,180 --> 00:13:38,310
+oversimplified views
+of helper function.
+
+272
+00:13:38,570 --> 00:13:41,370
+Functional diversity
+is essential.
+
+273
+00:13:44,070 --> 00:13:45,750
+Why effector
+differentiation
+
+274
+00:13:45,750 --> 00:13:47,410
+must be regulated.
+
+275
+00:13:48,170 --> 00:13:50,390
+Effector differentiation
+determines how
+
+276
+00:13:50,390 --> 00:13:52,570
+immune responses
+affect host tissues.
+
+277
+00:13:52,790 --> 00:13:55,150
+Overly aggressive
+effector programs
+
+278
+00:13:55,150 --> 00:13:56,990
+can cause
+collateral damage.
+
+279
+00:13:57,370 --> 00:14:00,010
+Insufficient
+differentiation may lead to
+
+280
+00:14:00,010 --> 00:14:03,430
+ineffective pathogen
+clearance. the immune
+
+281
+00:14:03,430 --> 00:14:05,270
+system must balance
+effectiveness with
+
+282
+00:14:05,270 --> 00:14:09,030
+safety regulatory
+mechanisms modulate
+
+283
+00:14:09,030 --> 00:14:11,890
+differentiation outcomes
+this balance is a
+
+284
+00:14:11,890 --> 00:14:14,370
+recurring theme in
+immunology disease
+
+285
+00:14:14,370 --> 00:14:18,610
+often reflects failure
+of regulation linking
+
+286
+00:14:20,530 --> 00:14:24,690
+expansion to immune
+function the expanded
+
+287
+00:14:24,690 --> 00:14:26,510
+lymphocyte
+population determines
+
+288
+00:14:26,510 --> 00:14:30,390
+downstream immune
+behavior. Both the size and
+
+289
+00:14:30,390 --> 00:14:32,590
+composition of this
+population matters.
+
+290
+00:14:32,870 --> 00:14:36,390
+An adequately sized but
+poorly differentiated
+
+291
+00:14:36,390 --> 00:14:39,670
+response may still
+fail. Conversely,
+
+292
+00:14:39,670 --> 00:14:41,890
+excessive
+expansion can cause
+
+293
+00:14:41,890 --> 00:14:45,610
+pathology. This linkage
+emphasizes coordinated
+
+294
+00:14:45,610 --> 00:14:48,590
+regulation. Expansion
+and effector
+
+295
+00:14:48,590 --> 00:14:51,090
+function cannot be
+separated conceptually.
+
+296
+00:14:51,090 --> 00:14:54,820
+They form a single
+functional unit.
+
+297
+00:14:55,310 --> 00:14:58,150
+Preparing for memory
+and contraction.
+
+298
+00:14:58,150 --> 00:15:01,210
+Even as expansion
+occurs, the immune
+
+299
+00:15:01,210 --> 00:15:03,550
+system prepares for
+response termination.
+
+300
+00:15:03,710 --> 00:15:05,830
+Not all expanded cells
+
+301
+00:15:05,830 --> 00:15:07,890
+will persist long term.
+
+302
+00:15:08,270 --> 00:15:11,110
+Signals during expansion
+influence which
+
+303
+00:15:11,110 --> 00:15:13,730
+cells become memory
+cells. Others are
+
+304
+00:15:13,730 --> 00:15:15,970
+destined for elimination
+during contraction.
+
+305
+00:15:16,050 --> 00:15:18,470
+These early
+decisions shape
+
+306
+00:15:18,470 --> 00:15:20,170
+future immune
+responsiveness.
+
+307
+00:15:20,390 --> 00:15:23,170
+Understanding this
+prepares us for memory
+
+308
+00:15:23,170 --> 00:15:26,490
+and tolerance mechanisms
+this sets the stage
+
+309
+00:15:26,490 --> 00:15:31,530
+for the next section
+expansion is followed
+
+310
+00:15:31,530 --> 00:15:35,710
+by contraction clonal
+expansion cannot continue
+
+311
+00:15:35,710 --> 00:15:38,310
+indefinitely once
+antigen burden is
+
+312
+00:15:38,310 --> 00:15:41,230
+reduced maintaining
+large numbers of effector
+
+313
+00:15:41,230 --> 00:15:44,600
+cells becomes unnecessary
+and dangerous the
+
+314
+00:15:44,600 --> 00:15:46,990
+immune system therefore
+initiates a contraction
+
+315
+00:15:46,990 --> 00:15:50,590
+phase during
+contraction the majority
+
+316
+00:15:50,590 --> 00:15:54,490
+of effector undergo
+program cell death this
+
+317
+00:15:54,490 --> 00:15:58,790
+process restores immune
+homeostasis failure
+
+318
+00:15:58,830 --> 00:16:01,390
+of contraction can lead
+to chronic inflammation
+
+319
+00:16:01,390 --> 00:16:05,230
+or tissue injury thus
+contraction is an
+
+320
+00:16:05,230 --> 00:16:07,650
+active and essential
+phase of the immune
+
+321
+00:16:07,650 --> 00:16:12,730
+response why contraction
+is not immune failure
+
+322
+00:16:12,730 --> 00:16:15,350
+at first glance
+contraction may appear
+
+323
+00:16:15,350 --> 00:16:19,370
+counterproductive however
+elimination of excess
+
+324
+00:16:19,370 --> 00:16:22,250
+effector cells is a
+sign of successful
+
+325
+00:16:22,250 --> 00:16:26,030
+successful immune
+regulation the immune system
+
+326
+00:16:26,030 --> 00:16:28,690
+must balance pathogen
+clearance with
+
+327
+00:16:28,690 --> 00:16:32,390
+preservation of host
+tissues sustained effector
+
+328
+00:16:32,390 --> 00:16:35,090
+activity in the absence
+of antigen would be
+
+329
+00:16:35,090 --> 00:16:38,130
+harmful contraction
+ensures that immune
+
+330
+00:16:38,130 --> 00:16:42,210
+responses are proportional
+and self-limited this
+
+331
+00:16:42,210 --> 00:16:44,390
+principle applies
+broadly across adaptive
+
+332
+00:16:44,390 --> 00:16:47,970
+immunity understanding
+this reframes how we
+
+333
+00:16:47,970 --> 00:16:52,810
+interpret immune
+resolution memory cell
+
+334
+00:16:52,810 --> 00:16:57,310
+survival during contraction
+not all lymphocytes
+
+335
+00:16:57,310 --> 00:16:59,910
+are eliminated during
+contraction a small
+
+336
+00:16:59,910 --> 00:17:02,390
+subset survives and
+differentiates into
+
+337
+00:17:02,390 --> 00:17:05,410
+memory cells these
+cells retain antigen
+
+338
+00:17:05,410 --> 00:17:08,570
+specificity but adopt a
+different functional state
+
+339
+00:17:08,570 --> 00:17:11,250
+memory cells are
+metabolically distinct
+
+340
+00:17:11,250 --> 00:17:13,910
+from effector cells
+they are optimized for
+
+341
+00:17:13,910 --> 00:17:17,650
+longevity rather than
+immediate function this
+
+342
+00:17:17,650 --> 00:17:20,150
+selective survival
+is tightly regulated
+
+343
+00:17:20,150 --> 00:17:24,170
+memory formation is
+therefore a very deliberate
+
+344
+00:17:24,170 --> 00:17:30,310
+outcome effector versus
+memory cell fates
+
+345
+00:17:30,970 --> 00:17:33,710
+effector and memory
+cells arise from
+
+346
+00:17:33,710 --> 00:17:36,850
+the same activated
+precursors their divert
+
+347
+00:17:36,850 --> 00:17:39,570
+Divergent fates
+reflect differences
+
+348
+00:17:39,570 --> 00:17:42,390
+in signaling and
+metabolic programming.
+
+349
+00:17:42,610 --> 00:17:44,950
+Effector cells
+prioritize immediate
+
+350
+00:17:44,950 --> 00:17:47,230
+function and
+rapid activity.
+
+351
+00:17:47,630 --> 00:17:49,210
+Memory cells prioritize
+
+352
+00:17:49,210 --> 00:17:51,550
+survival and
+rapid recall.
+
+353
+00:17:51,910 --> 00:17:53,910
+The immune system invests
+
+354
+00:17:53,910 --> 00:17:55,070
+in both strategies.
+
+355
+00:17:55,070 --> 00:17:58,010
+This dual outcome
+ensures both short-term
+
+356
+00:17:58,010 --> 00:18:00,610
+protection and long
+-term preparedness.
+
+357
+00:18:00,750 --> 00:18:04,030
+Balance between these
+fates is essential.
+
+358
+00:18:05,450 --> 00:18:08,190
+Signals that Promote
+Memory Formation
+
+359
+00:18:08,890 --> 00:18:11,230
+Signals encountered
+during activation
+
+360
+00:18:11,230 --> 00:18:14,030
+and expansion
+influence memory fate.
+
+361
+00:18:14,390 --> 00:18:16,510
+Cytokine
+environment plays a
+
+362
+00:18:16,510 --> 00:18:18,170
+major role in
+this decision.
+
+363
+00:18:18,170 --> 00:18:19,830
+Strength and duration of
+
+364
+00:18:19,830 --> 00:18:22,010
+antigen exposure
+also matters.
+
+365
+00:18:22,430 --> 00:18:24,510
+These signals shape
+gene expression
+
+366
+00:18:24,510 --> 00:18:26,330
+and metabolic
+programming.
+
+367
+00:18:27,070 --> 00:18:29,390
+Memory formation
+is not a random
+
+368
+00:18:29,390 --> 00:18:31,470
+event. It reflects
+integration
+
+369
+00:18:31,470 --> 00:18:33,370
+of multiple
+environmental cues.
+
+370
+00:18:33,630 --> 00:18:35,150
+This explains the
+
+371
+00:18:35,150 --> 00:18:37,190
+variability in
+immune memory.
+
+372
+00:18:39,470 --> 00:18:42,430
+Functional advantages
+of memory cells.
+
+373
+00:18:42,710 --> 00:18:45,570
+Memory cells respond
+more rapidly upon
+
+374
+00:18:45,570 --> 00:18:48,290
+re-exposure to
+antigen. They require
+
+375
+00:18:48,290 --> 00:18:50,730
+less co-stimulation
+than naive cells.
+
+376
+00:18:50,730 --> 00:18:53,590
+This allows faster
+immune activation.
+
+377
+00:18:53,590 --> 00:18:55,710
+Memory responses
+are often
+
+378
+00:18:55,710 --> 00:18:57,810
+stronger and
+more efficient.
+
+379
+00:18:58,130 --> 00:18:59,730
+These features underline
+
+380
+00:18:59,730 --> 00:19:01,950
+vaccine effectiveness.
+However,
+
+381
+00:19:02,290 --> 00:19:04,230
+memory must still
+be regulated.
+
+382
+00:19:04,590 --> 00:19:06,350
+Uncontrolled
+recall responses
+
+383
+00:19:06,350 --> 00:19:07,870
+can cause pathology.
+
+384
+00:19:10,530 --> 00:19:13,370
+Homeostatic maintenance
+of memory pools.
+
+385
+00:19:13,800 --> 00:19:16,070
+Memory cells
+persist long after
+
+386
+00:19:16,070 --> 00:19:18,490
+antigen clearance.
+They are maintained
+
+387
+00:19:18,490 --> 00:19:20,490
+through homeostatic
+signals rather
+
+388
+00:19:20,490 --> 00:19:22,810
+than continuous
+antigen exposure.
+
+389
+00:19:23,130 --> 00:19:26,350
+Cytokines support
+survival without inducing
+
+390
+00:19:26,350 --> 00:19:29,250
+full activation.
+this allows long-term
+
+391
+00:19:29,250 --> 00:19:32,790
+persistence without
+inflammation homeostasis
+
+392
+00:19:32,790 --> 00:19:35,310
+prevents gradual loss
+of immune protection
+
+393
+00:19:35,840 --> 00:19:38,070
+disruption of these
+signals can impair
+
+394
+00:19:38,070 --> 00:19:41,290
+immunity this highlights
+ongoing regulation
+
+395
+00:19:41,290 --> 00:19:45,830
+even in health in
+this step if this step
+
+396
+00:19:45,830 --> 00:19:48,970
+were missing the
+response would either be
+
+397
+00:19:48,970 --> 00:19:51,590
+too weak to clear the
+threat or too strong
+
+398
+00:19:51,590 --> 00:19:54,290
+and damaging to the
+host the immune system
+
+399
+00:19:54,290 --> 00:19:57,630
+is constantly avoiding
+both errors recognition
+
+400
+00:19:57,630 --> 00:20:00,110
+is not the same
+as activation and
+
+401
+00:20:00,110 --> 00:20:03,010
+activation is not the
+same as effector function
+
+402
+00:20:04,060 --> 00:20:07,730
+immune resolution
+as an active process
+
+403
+00:20:08,050 --> 00:20:11,810
+resolution of immune
+responses is not passive
+
+404
+00:20:11,810 --> 00:20:15,030
+it requires coordinated
+signals and cellular
+
+405
+00:20:15,030 --> 00:20:18,390
+cellular decisions
+effector elimination
+
+406
+00:20:18,390 --> 00:20:22,030
+memory preservation
+and tissue repair occur
+
+407
+00:20:22,030 --> 00:20:25,270
+simultaneously these
+processes must be
+
+408
+00:20:25,270 --> 00:20:28,770
+synchronized poor
+coordination leads to chronic
+
+409
+00:20:28,770 --> 00:20:32,470
+inflammation resolution
+is therefore as complex
+
+410
+00:20:32,470 --> 00:20:36,230
+as activation this
+reframes how we view
+
+411
+00:20:36,230 --> 00:20:42,990
+immune shutdown
+clinical implications of
+
+412
+00:20:42,990 --> 00:20:45,330
+failed contraction
+failure of contraction
+
+413
+00:20:45,330 --> 00:20:48,890
+contributes to immune
+mediated disease persistent
+
+414
+00:20:48,890 --> 00:20:51,570
+effector activity can
+drive chronic inflammation
+
+415
+00:20:51,570 --> 00:20:54,750
+this is seen in
+autoimmune and
+
+416
+00:20:54,750 --> 00:20:58,090
+inflammatory disorders
+understanding contraction
+
+417
+00:20:58,090 --> 00:21:00,790
+mechanisms helps explain
+disease persistence
+
+418
+00:21:00,930 --> 00:21:04,450
+therapeutic strategies
+often aim to restore
+
+419
+00:21:04,450 --> 00:21:07,910
+regulation this links
+basic immunology
+
+420
+00:21:07,910 --> 00:21:11,290
+to clinical practice
+contraction failure
+
+421
+00:21:11,290 --> 00:21:14,230
+is clinically relevant
+from a system's
+
+422
+00:21:14,230 --> 00:21:17,650
+perspective this is a
+control loop the immune
+
+423
+00:21:17,650 --> 00:21:20,850
+system measures
+condition responds and
+
+424
+00:21:20,850 --> 00:21:23,290
+then applies braking
+to prevent overshoot
+
+425
+00:21:26,290 --> 00:21:28,950
+transition to tolerance
+and regulation
+
+426
+00:21:28,950 --> 00:21:32,410
+contraction and memory
+formation lead naturally
+
+427
+00:21:32,410 --> 00:21:35,310
+into tolerance
+mechanisms the immune
+
+428
+00:21:35,310 --> 00:21:37,690
+system must ensure
+responses remain directed
+
+429
+00:21:37,690 --> 00:21:40,510
+against appropriate
+targets tolerance
+
+430
+00:21:40,510 --> 00:21:42,810
+prevents immune attack
+against self tissues
+
+431
+00:21:42,810 --> 00:21:47,030
+failures of tolerance
+underlie autoimmunity
+
+432
+00:21:47,290 --> 00:21:49,650
+the next section
+will focus on how
+
+433
+00:21:49,650 --> 00:21:52,730
+tolerance is established
+and maintained this
+
+434
+00:21:52,730 --> 00:21:54,910
+transition completes
+the response lifecycle
+
+435
+00:21:54,910 --> 00:21:58,290
+we now shift our focus
+to regulation why
+
+436
+00:22:03,240 --> 00:22:07,320
+tolerance is required
+adaptive immunity
+
+437
+00:22:07,320 --> 00:22:09,860
+relies on highly specific
+antigen receptors
+
+438
+00:22:09,860 --> 00:22:12,800
+this specificity
+creates the risk that
+
+439
+00:22:12,800 --> 00:22:15,260
+some receptors will
+recognize self antigens
+
+440
+00:22:15,260 --> 00:22:18,320
+without tolerance
+mechanisms immune
+
+441
+00:22:18,320 --> 00:22:21,100
+responses could easily
+damage host tissues
+
+442
+00:22:21,100 --> 00:22:23,780
+tolerance ensures
+that potentially self
+
+443
+00:22:23,780 --> 00:22:26,580
+-reactive lymphocytes
+are controlled this
+
+444
+00:22:26,580 --> 00:22:28,940
+protection is essential
+for survival in a
+
+445
+00:22:28,940 --> 00:22:31,940
+complex organism
+tolerance is therefore a
+
+446
+00:22:31,940 --> 00:22:34,140
+foundational feature
+of adaptive immunity
+
+447
+00:22:34,140 --> 00:22:37,760
+failure of tolerance
+underlies autoimmune
+
+448
+00:22:39,660 --> 00:22:43,660
+diseases central vs
+peripheral tolerance
+
+449
+00:22:43,660 --> 00:22:46,920
+tolerance mechanisms
+operate at multiple levels
+
+450
+00:22:46,920 --> 00:22:49,320
+central tolerance
+occurs during lymphocyte
+
+451
+00:22:49,320 --> 00:22:52,060
+development peripheral
+tolerance controls
+
+452
+00:22:52,060 --> 00:22:54,940
+mature lymphocytes
+in the periphery each
+
+453
+00:22:54,940 --> 00:22:57,260
+layer addresses different
+vulnerabilities in
+
+454
+00:22:57,260 --> 00:23:00,080
+the immune system
+together they provide
+
+455
+00:23:00,080 --> 00:23:03,540
+redundant protection
+against autoimmunity no
+
+456
+00:23:03,540 --> 00:23:05,680
+single mechanism is
+sufficient on its own
+
+457
+00:23:05,680 --> 00:23:08,260
+this layered design
+reflects the importance
+
+458
+00:23:08,260 --> 00:23:12,880
+of self-tolerance
+central tolerance and t
+
+459
+00:23:12,880 --> 00:23:15,600
+-cell development central
+tolerance for t-cells
+
+460
+00:23:15,600 --> 00:23:18,420
+occurs in the thymus
+developing t-cells
+
+461
+00:23:18,420 --> 00:23:20,880
+are tested for their
+ability to recognize self
+
+462
+00:23:20,880 --> 00:23:24,760
+MHC cells that cannot
+recognize self MHC
+
+463
+00:23:24,760 --> 00:23:27,520
+are eliminated this
+ensures that mature t
+
+464
+00:23:27,520 --> 00:23:29,620
+-cells can interact
+with antigen presenting
+
+465
+00:23:29,620 --> 00:23:33,360
+cells however this
+process also carries risk
+
+466
+00:23:33,360 --> 00:23:36,900
+excessive recognition
+must also be controlled.
+
+467
+00:23:36,900 --> 00:23:40,300
+This leads to further
+selection steps.
+
+468
+00:23:41,860 --> 00:23:45,280
+Negative selection
+and self-reactivity.
+
+469
+00:23:45,420 --> 00:23:48,160
+Negative selection
+eliminates T-cells
+
+470
+00:23:48,160 --> 00:23:50,260
+that bind self
+-antigens too strongly.
+
+471
+00:23:50,600 --> 00:23:53,700
+Strong binding
+indicates a high risk of
+
+472
+00:23:53,700 --> 00:23:57,020
+autoimmunity. These
+cells undergo apoptosis
+
+473
+00:23:57,020 --> 00:23:59,940
+during development.
+This process removes the
+
+474
+00:23:59,940 --> 00:24:02,840
+most dangerous self
+-reactive clones. however
+
+475
+00:24:02,840 --> 00:24:06,380
+it cannot eliminate all
+self reactivity some
+
+476
+00:24:06,380 --> 00:24:08,640
+potentially reactive
+cells escape into the
+
+477
+00:24:08,640 --> 00:24:11,240
+periphery this
+necessitates peripheral
+
+478
+00:24:11,240 --> 00:24:17,840
+tolerance mechanisms
+peripheral tolerance an
+
+479
+00:24:17,840 --> 00:24:21,480
+ongoing requirement
+peripheral tolerance controls
+
+480
+00:24:21,480 --> 00:24:24,140
+mature lymphocytes
+after they leave primary
+
+481
+00:24:24,140 --> 00:24:27,400
+lymphoid organs self
+antigens are encountered
+
+482
+00:24:27,400 --> 00:24:29,660
+throughout life
+new self reactive
+
+483
+00:24:29,660 --> 00:24:33,780
+specificities may arise
+peripheral tolerance
+
+484
+00:24:33,780 --> 00:24:37,560
+prevents activation of
+these cells mechanisms
+
+485
+00:24:37,560 --> 00:24:42,580
+include energy deletion
+and regulation this
+
+486
+00:24:42,580 --> 00:24:45,370
+ensures long-term immune
+stability peripheral
+
+487
+00:24:45,370 --> 00:24:51,620
+tolerance is dynamic
+energy is a tolerance
+
+488
+00:24:51,620 --> 00:24:54,940
+mechanism energy
+refers to functional
+
+489
+00:24:54,940 --> 00:24:58,700
+inactivation of lymphocytes
+anergic cells survive
+
+490
+00:24:58,700 --> 00:25:01,380
+but do not respond
+antigen stimulation
+
+491
+00:25:01,380 --> 00:25:04,460
+this often occurs when
+antigen recognition
+
+492
+00:25:04,460 --> 00:25:08,180
+happens without co
+-stimulation the immune system
+
+493
+00:25:08,180 --> 00:25:10,700
+interprets such encounters
+as non-threatening
+
+494
+00:25:10,700 --> 00:25:13,760
+energy prevents
+inappropriate activation
+
+495
+00:25:13,760 --> 00:25:16,600
+this mechanism
+reinforces the importance
+
+496
+00:25:16,600 --> 00:25:20,960
+of context signal
+integration is central to
+
+497
+00:25:22,540 --> 00:25:26,180
+tolerance regulatory
+T cells and immune
+
+498
+00:25:26,180 --> 00:25:31,580
+control regulatory T
+cells active regulatory T
+
+499
+00:25:31,580 --> 00:25:33,800
+cells provide active
+suppression of immune
+
+500
+00:25:33,800 --> 00:25:36,740
+responses they limit
+excessive activation
+
+501
+00:25:36,740 --> 00:25:40,560
+and prevent autoimmunity
+these cells function
+
+502
+00:25:40,560 --> 00:25:43,880
+through multiple
+mechanisms they modulate
+
+503
+00:25:43,880 --> 00:25:46,600
+antigen presenting
+cells and effector
+
+504
+00:25:46,600 --> 00:25:50,080
+lymphocytes regulatory
+t-cells are essential
+
+505
+00:25:50,080 --> 00:25:53,500
+for immune homeostasis
+their absence leads to
+
+506
+00:25:53,500 --> 00:25:57,120
+severe immune dysregulation
+they represent
+
+507
+00:25:57,120 --> 00:26:04,040
+active immune restraint
+Fox p3 and regulatory
+
+508
+00:26:04,040 --> 00:26:08,340
+t-cell identity
+forkhead box p3 also
+
+509
+00:26:08,340 --> 00:26:11,240
+known as Fox p3 is a
+transcription factor
+
+510
+00:26:11,240 --> 00:26:14,920
+critical for regulatory
+t-cell development it
+
+511
+00:26:14,920 --> 00:26:17,460
+controls gene programs
+required for suppressive
+
+512
+00:26:17,460 --> 00:26:21,440
+function loss of Fox
+p3 disrupts immune
+
+513
+00:26:21,440 --> 00:26:24,160
+regulation this
+highlights the importance
+
+514
+00:26:24,160 --> 00:26:26,980
+of transcriptional
+control regulatory
+
+515
+00:26:26,980 --> 00:26:31,240
+identity is actively
+maintained this is not a
+
+516
+00:26:31,240 --> 00:26:35,360
+passive cell state Fox
+p3 is the central to
+
+517
+00:26:35,360 --> 00:26:40,700
+tolerance consequences
+of failed regulation
+
+518
+00:26:40,700 --> 00:26:45,060
+when regulatory
+mechanisms fail immune
+
+519
+00:26:45,060 --> 00:26:48,360
+responses become
+uncontrolled this can result
+
+520
+00:26:48,360 --> 00:26:50,880
+in autoimmune disease
+or chronic inflammation
+
+521
+00:26:50,880 --> 00:26:54,460
+clinical syndromes
+reflect breakdowns and
+
+522
+00:26:54,460 --> 00:26:57,380
+tolerance pathways
+understanding regulation
+
+523
+00:26:57,380 --> 00:27:00,660
+explains disease
+mechanisms it also helps
+
+524
+00:27:00,660 --> 00:27:03,620
+inform therapeutic
+strategies restoring
+
+525
+00:27:03,620 --> 00:27:08,100
+regulation is often a
+treatment goal thus this
+
+526
+00:27:08,100 --> 00:27:10,880
+connects immunology
+to clinical medicine
+
+527
+00:27:12,800 --> 00:27:15,500
+integration of tolerance
+with immune responses
+
+528
+00:27:15,500 --> 00:27:18,560
+tolerance mechanisms
+operate alongside
+
+529
+00:27:18,560 --> 00:27:21,900
+activation and effector
+function they do
+
+530
+00:27:21,900 --> 00:27:25,030
+not simply shut the
+immune system off instead
+
+531
+00:27:25,030 --> 00:27:27,340
+they shape responses
+to be appropriate
+
+532
+00:27:27,340 --> 00:27:30,520
+this integration preserves
+protective immunity
+
+533
+00:27:30,520 --> 00:27:33,780
+immune regulation is
+therefore contextual.
+
+534
+00:27:33,780 --> 00:27:37,320
+Balance is the central
+theme. This prepares
+
+535
+00:27:37,320 --> 00:27:40,460
+us next for
+transplantation immunology.
+
+536
+00:27:42,380 --> 00:27:44,380
+B-cell tolerance,
+
+537
+00:27:44,380 --> 00:27:45,880
+parallels and
+differences.
+
+538
+00:27:46,200 --> 00:27:48,020
+Tolerance mechanisms are
+
+539
+00:27:48,020 --> 00:27:49,620
+not limited to T-cells.
+
+540
+00:27:49,800 --> 00:27:52,840
+B-cells also generate
+highly specific
+
+541
+00:27:52,840 --> 00:27:55,760
+antigen receptors.
+This specificity
+
+542
+00:27:55,760 --> 00:27:57,500
+creates similar
+risks for cell-free
+
+543
+00:27:57,500 --> 00:28:00,500
+activity. However,
+B-cell tolerance
+
+544
+00:28:00,500 --> 00:28:02,740
+operates through
+distinct mechanisms.
+
+545
+00:28:03,040 --> 00:28:05,600
+Understanding these
+differences is essential
+
+546
+00:28:05,600 --> 00:28:08,000
+for a complete view
+of immune regulation.
+
+547
+00:28:08,260 --> 00:28:10,360
+B cell tolerance
+complements
+
+548
+00:28:10,360 --> 00:28:11,480
+T cell tolerance.
+
+549
+00:28:11,480 --> 00:28:14,520
+Together they protect
+against autoimmunity.
+
+550
+00:28:16,800 --> 00:28:18,460
+Central B cell tolerance
+
+551
+00:28:18,460 --> 00:28:19,760
+in the bone marrow.
+
+552
+00:28:20,320 --> 00:28:22,980
+Central tolerance
+for B cells occurs in
+
+553
+00:28:22,980 --> 00:28:25,100
+the bone marrow.
+Developing B cells are
+
+554
+00:28:25,100 --> 00:28:27,800
+tested for reactivity
+against self-antigens.
+
+555
+00:28:28,180 --> 00:28:30,000
+Strongly self
+-reactive cells
+
+556
+00:28:30,000 --> 00:28:31,880
+are eliminated
+or altered.
+
+557
+00:28:31,880 --> 00:28:33,920
+This process
+removes the most
+
+558
+00:28:33,920 --> 00:28:37,340
+dangerous clones.
+Unlike T-cells, B
+
+559
+00:28:37,340 --> 00:28:39,200
+-cells can modify
+their receptors.
+
+560
+00:28:39,200 --> 00:28:40,840
+This adds an additional
+
+561
+00:28:40,840 --> 00:28:41,960
+layer of protection.
+
+562
+00:28:42,120 --> 00:28:45,120
+Central tolerance is
+therefore flexible.
+
+563
+00:28:48,540 --> 00:28:50,320
+Receptor editing is a
+
+564
+00:28:50,320 --> 00:28:52,040
+unique B-cell strategy.
+
+565
+00:28:52,320 --> 00:28:54,820
+Receptor editing
+allows B-cells to
+
+566
+00:28:54,820 --> 00:28:57,880
+change antigen
+specificity. This occurs
+
+567
+00:28:57,880 --> 00:29:00,280
+through additional
+gene rearrangements.
+
+568
+00:29:00,280 --> 00:29:02,760
+Editing reduces
+cell-free activity
+
+569
+00:29:02,760 --> 00:29:04,700
+without eliminating
+the cell.
+
+570
+00:29:04,860 --> 00:29:06,980
+This strategy
+preserves useful
+
+571
+00:29:06,980 --> 00:29:09,120
+cells while
+reducing risk.
+
+572
+00:29:09,500 --> 00:29:12,440
+Receptor editing has
+no direct parallel on
+
+573
+00:29:12,440 --> 00:29:14,940
+T-cell development. It
+highlights functional
+
+574
+00:29:14,940 --> 00:29:17,160
+differences between
+lymphocyte lineages.
+
+575
+00:29:17,520 --> 00:29:20,900
+This mechanism expands
+tolerance capacity.
+
+576
+00:29:23,380 --> 00:29:26,160
+Peripheral B-cell
+tolerance mechanisms.
+
+577
+00:29:26,340 --> 00:29:28,320
+Some self
+-reactive B cells
+
+578
+00:29:28,320 --> 00:29:29,840
+escape central tolerance.
+
+579
+00:29:30,160 --> 00:29:31,600
+Peripheral tolerance
+
+580
+00:29:31,600 --> 00:29:33,440
+mechanisms control
+these cells.
+
+581
+00:29:33,700 --> 00:29:35,580
+These mechanisms include
+
+582
+00:29:35,580 --> 00:29:37,120
+energy and deletion.
+
+583
+00:29:37,640 --> 00:29:39,300
+Lack of
+appropriate T cell
+
+584
+00:29:39,300 --> 00:29:40,880
+help is also critical.
+
+585
+00:29:42,600 --> 00:29:45,520
+This interdependence
+links B cell
+
+586
+00:29:45,520 --> 00:29:47,560
+tolerance to T
+cell regulation.
+
+587
+00:29:47,880 --> 00:29:50,400
+Peripheral control
+is ongoing.
+
+588
+00:29:50,460 --> 00:29:52,700
+Tolerance is lifelong.
+
+589
+00:29:55,160 --> 00:29:58,420
+why t-cell help is
+required for antibody
+
+590
+00:29:58,420 --> 00:30:02,100
+responses most antibody
+responses require t
+
+591
+00:30:02,100 --> 00:30:05,260
+-cell help this requirement
+acts as a safety
+
+592
+00:30:05,260 --> 00:30:09,220
+checkpoint self-reactive
+b-cells are very
+
+593
+00:30:09,220 --> 00:30:12,840
+unlikely to receive help
+this prevents auto auto
+
+594
+00:30:12,840 --> 00:30:16,300
+antibody production
+the immune system thus
+
+595
+00:30:16,300 --> 00:30:19,360
+integrates multiple
+safeguards loss of t
+
+596
+00:30:19,360 --> 00:30:21,960
+-cell help regulation
+contributes to autoimmunity
+
+597
+00:30:21,960 --> 00:30:24,100
+this principle
+reinforces the layered
+
+598
+00:30:24,100 --> 00:30:31,560
+tolerance approach
+introduction to transplantation
+
+599
+00:30:31,560 --> 00:30:34,800
+immunology
+transplantation introduces
+
+600
+00:30:34,800 --> 00:30:38,020
+foreign tissues into the
+host the immune system
+
+601
+00:30:38,020 --> 00:30:41,170
+recognizes these
+tissues as non-self this
+
+602
+00:30:41,200 --> 00:30:44,720
+recognition triggers
+immune responses unlike
+
+603
+00:30:44,720 --> 00:30:47,420
+pathogens transplanted
+tissues persist.
+
+604
+00:30:47,420 --> 00:30:50,880
+This creates a unique
+immunologic challenge.
+
+605
+00:30:51,000 --> 00:30:53,480
+Understanding
+transplantation requires
+
+606
+00:30:53,480 --> 00:30:56,300
+applying tolerance
+concepts. This is
+
+607
+00:30:56,300 --> 00:30:58,440
+a clinically
+important application.
+
+608
+00:30:59,740 --> 00:31:02,240
+Allo recognition, direct
+
+609
+00:31:02,240 --> 00:31:03,840
+and indirect pathways.
+
+610
+00:31:04,080 --> 00:31:06,460
+T-cells can recognize
+transplanted
+
+611
+00:31:06,460 --> 00:31:08,160
+tissue through
+different mechanisms.
+
+612
+00:31:08,200 --> 00:31:11,320
+Direct allo recognition
+involves recognition
+
+613
+00:31:11,320 --> 00:31:14,540
+of donor MHC molecules.
+Indirect allo
+
+614
+00:31:14,540 --> 00:31:16,480
+recognition involves
+processing donor
+
+615
+00:31:16,480 --> 00:31:19,880
+antigens by recipient
+cells both pathways
+
+616
+00:31:19,880 --> 00:31:23,200
+activate recipient t
+-cells these mechanisms
+
+617
+00:31:23,200 --> 00:31:26,420
+contribute to rejection
+understanding them
+
+618
+00:31:26,420 --> 00:31:29,740
+explains transplant
+outcomes they illustrate
+
+619
+00:31:29,740 --> 00:31:34,780
+immune sensitivity
+types of transplant
+
+620
+00:31:34,780 --> 00:31:38,060
+rejection transplant
+rejection occurs in
+
+621
+00:31:38,060 --> 00:31:40,660
+different temporal
+patterns. These include
+
+622
+00:31:40,660 --> 00:31:43,740
+hyperacute, acute,
+and chronic rejection.
+
+623
+00:31:43,920 --> 00:31:46,100
+Timing provides clues to
+
+624
+00:31:46,100 --> 00:31:47,720
+the underlying pathology.
+
+625
+00:31:47,900 --> 00:31:50,160
+Thus, this classification
+
+626
+00:31:50,160 --> 00:31:51,960
+guides clinical
+management.
+
+627
+00:31:52,960 --> 00:31:55,580
+Rejection is an
+immunologic process.
+
+628
+00:31:55,580 --> 00:31:58,200
+It reflects failure
+of tolerance.
+
+629
+00:32:02,240 --> 00:32:04,380
+Immunosuppression
+and its trade-offs.
+
+630
+00:32:04,760 --> 00:32:05,840
+Preventing rejection
+
+631
+00:32:05,840 --> 00:32:07,480
+requires
+immunosuppression.
+
+632
+00:32:07,640 --> 00:32:10,500
+These therapies reduce
+immune activation.
+
+633
+00:32:10,700 --> 00:32:13,900
+However, they also
+increase infection risk.
+
+634
+00:32:14,260 --> 00:32:16,260
+Balancing suppression and
+
+635
+00:32:16,260 --> 00:32:17,920
+protection is
+challenging.
+
+636
+00:32:17,920 --> 00:32:19,600
+This tradeoff reflects
+
+637
+00:32:19,600 --> 00:32:21,140
+fundamental
+immune principles.
+
+638
+00:32:21,220 --> 00:32:23,100
+Clinical
+decisions involve
+
+639
+00:32:23,100 --> 00:32:24,900
+managing the above risks.
+
+640
+00:32:25,300 --> 00:32:28,940
+Immunology
+informs therapy.
+
+641
+00:32:30,820 --> 00:32:32,720
+Integration of tolerance
+
+642
+00:32:32,720 --> 00:32:34,240
+and clinical practice.
+
+643
+00:32:34,960 --> 00:32:36,660
+Tolerance mechanisms
+are central
+
+644
+00:32:36,660 --> 00:32:38,300
+to many clinical
+contexts.
+
+645
+00:32:38,780 --> 00:32:42,180
+Autoimmunity,
+transplantation, and chronic
+
+646
+00:32:42,180 --> 00:32:44,720
+inflammation all involve
+tolerance failures.
+
+647
+00:32:44,940 --> 00:32:47,400
+Understanding these
+mechanisms aids
+
+648
+00:32:47,400 --> 00:32:50,200
+clinical reasoning.
+Rather than memorizing
+
+649
+00:32:50,200 --> 00:32:52,480
+diseases, focus
+on the mechanisms.
+
+650
+00:32:52,480 --> 00:32:54,160
+This approach scales
+
+651
+00:32:54,160 --> 00:32:55,960
+across various
+specialties.
+
+652
+00:32:55,980 --> 00:32:59,980
+Immunology provides
+a unifying framework.
+
+653
+00:33:00,780 --> 00:33:03,200
+Integration is key.
+
+654
+00:33:04,120 --> 00:33:06,360
+Key concepts.
+
+655
+00:33:06,740 --> 00:33:08,920
+Immune responses involve
+
+656
+00:33:08,920 --> 00:33:10,920
+activation, expansion,
+
+657
+00:33:11,380 --> 00:33:13,700
+differentiation,
+and regulation.
+
+658
+00:33:13,900 --> 00:33:16,340
+Tolerance
+mechanisms prevent
+
+659
+00:33:16,340 --> 00:33:18,080
+immune-mediated damage.
+
+660
+00:33:18,600 --> 00:33:21,020
+Memory formation
+preserves
+
+661
+00:33:21,020 --> 00:33:22,240
+protective immunity.
+
+662
+00:33:22,760 --> 00:33:25,240
+Regulation
+ensures balance.
+
+663
+00:33:26,140 --> 00:33:29,260
+failures of these
+processes caused disease
+
+664
+00:33:29,930 --> 00:33:32,760
+and these principles
+recur throughout
+
+665
+00:33:32,760 --> 00:33:35,220
+medicine therefore
+they form a conceptual
+
+666
+00:33:35,220 --> 00:33:40,880
+foundation closing
+and forward look this
+
+667
+00:33:40,880 --> 00:33:42,800
+lecture completes the
+core adaptive immune
+
+668
+00:33:42,800 --> 00:33:45,680
+response sequence
+subsequent lectures will
+
+669
+00:33:45,680 --> 00:33:48,440
+build on these
+principles keeping these
+
+670
+00:33:48,440 --> 00:33:50,800
+mechanisms in mind will
+aid your integration
+
+671
+00:33:50,800 --> 00:33:54,160
+of the knowledge
+immunology is cumulative
+
+672
+00:33:54,160 --> 00:33:56,390
+each layer depends
+on the previous one
+
+673
+00:33:56,390 --> 00:33:59,500
+understanding these
+mechanisms improves your
+
+674
+00:33:59,500 --> 00:34:06,000
+retention in summation
+adaptive immunity
+
+675
+00:34:06,000 --> 00:34:09,860
+requires controlled
+amplification antigen
+
+676
+00:34:09,860 --> 00:34:12,040
+recognition alone
+is insufficient to
+
+677
+00:34:12,040 --> 00:34:15,420
+control infection clonal
+expansion converts
+
+678
+00:34:15,420 --> 00:34:17,800
+rare antigen specific
+lymphocytes into
+
+679
+00:34:17,800 --> 00:34:21,720
+effector populations
+differentiation assigns
+
+680
+00:34:21,720 --> 00:34:24,300
+specialized effector
+and helper functions.
+
+681
+00:34:25,300 --> 00:34:27,180
+Expansion without
+regulation
+
+682
+00:34:27,180 --> 00:34:28,900
+leads to host
+tissue damage.
+
+683
+00:34:29,590 --> 00:34:32,100
+Summary point two.
+Regulation and
+
+684
+00:34:32,100 --> 00:34:34,440
+tolerance are essential
+for immune safety.
+
+685
+00:34:34,880 --> 00:34:37,520
+Contraction actively
+terminates immune
+
+686
+00:34:37,520 --> 00:34:39,580
+responses after
+pathogen control.
+
+687
+00:34:39,760 --> 00:34:42,320
+Memory preserves
+protection while
+
+688
+00:34:42,320 --> 00:34:44,360
+minimizing ongoing
+activation.
+
+689
+00:34:44,700 --> 00:34:46,920
+Central and
+peripheral tolerance
+
+690
+00:34:46,920 --> 00:34:49,980
+prevent immune
+responses to self. And
+
+691
+00:34:49,980 --> 00:34:52,260
+regulatory mechanisms
+balance protection
+
+692
+00:34:52,260 --> 00:34:54,140
+with long-term
+tissue integrity.
+
+693
+00:34:54,420 --> 00:34:56,180
+At the bottom of
+the slide you'll
+
+694
+00:34:56,180 --> 00:34:57,940
+note core references
+where you can
+
+695
+00:34:57,940 --> 00:34:59,520
+seek out additional
+information.
+
+696
+00:35:00,740 --> 00:35:03,920
+This concludes today's
+lecture. Thank you
+
+697
+00:35:03,920 --> 00:35:06,700
+for your time and as
+always I welcome your
+
+698
+00:35:06,700 --> 00:35:09,180
+feedback helping me make
+these lectures better.
+
+699
+00:35:09,180 --> 00:35:10,800
+Thank you and hope
+you have a great day.

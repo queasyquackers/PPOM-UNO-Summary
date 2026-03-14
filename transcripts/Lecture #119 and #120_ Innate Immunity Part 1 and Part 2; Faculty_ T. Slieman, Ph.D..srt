@@ -1,0 +1,7535 @@
+1
+00:00:01,110 --> 00:00:03,150
+Welcome to the Innate
+
+2
+00:00:03,150 --> 00:00:05,030
+Immunity 1 and
+2 lectures.
+
+3
+00:00:05,530 --> 00:00:08,690
+These lectures expand
+on the previous
+
+4
+00:00:08,690 --> 00:00:10,750
+semester in Immunity
+1 and Immunity
+
+5
+00:00:10,750 --> 00:00:13,250
+2 lectures. So if
+you're feeling like
+
+6
+00:00:13,250 --> 00:00:15,150
+you need to go back
+and review those
+
+7
+00:00:15,650 --> 00:00:17,670
+to refresh
+yourself and make
+
+8
+00:00:17,670 --> 00:00:18,870
+sure you have that basis
+
+9
+00:00:19,190 --> 00:00:22,050
+to develop further
+information from
+
+10
+00:00:22,050 --> 00:00:24,050
+here, that might
+be not a bad idea.
+
+11
+00:00:26,950 --> 00:00:28,590
+These are the objectives
+
+12
+00:00:28,590 --> 00:00:30,150
+that we need to cover.
+
+13
+00:00:30,450 --> 00:00:32,470
+So basically we're
+going to be able to
+
+14
+00:00:32,470 --> 00:00:35,110
+compare and contrast
+innate and adaptive immune
+
+15
+00:00:35,110 --> 00:00:37,810
+response and then
+we'll go into more
+
+16
+00:00:37,810 --> 00:00:39,830
+focusing on the innate
+immune response and talk
+
+17
+00:00:39,830 --> 00:00:42,350
+about the first and
+second line of defenses
+
+18
+00:00:42,350 --> 00:00:44,750
+and different components
+of those. We'll
+
+19
+00:00:44,750 --> 00:00:47,350
+focus predominantly on
+the innate processes
+
+20
+00:00:47,350 --> 00:00:50,170
+of inflammation,
+psychocytosis, fever,
+
+21
+00:00:50,490 --> 00:00:52,670
+the interferon
+response, and complement
+
+22
+00:00:52,670 --> 00:00:54,810
+option. In those we're
+going to be talking
+
+23
+00:00:54,810 --> 00:00:56,990
+about the role of
+cytokines and all these
+
+24
+00:00:56,990 --> 00:00:59,790
+different NMA processes
+and specifically
+
+25
+00:00:59,790 --> 00:01:02,050
+discuss and talk about
+the role of pattern
+
+26
+00:01:02,050 --> 00:01:04,950
+recognition receptors
+and the importance
+
+27
+00:01:04,950 --> 00:01:07,820
+of those in initiating
+the inflammatory
+
+28
+00:01:07,820 --> 00:01:10,370
+response. And at the end
+we'll talk about some
+
+29
+00:01:10,370 --> 00:01:12,590
+deficiencies of innate
+immunity and the
+
+30
+00:01:12,590 --> 00:01:14,610
+type of diseases that
+this could lead to.
+
+31
+00:01:17,330 --> 00:01:19,910
+One of the key things
+and we have discussed
+
+32
+00:01:19,910 --> 00:01:21,950
+this last semester is
+to distinguish between
+
+33
+00:01:21,950 --> 00:01:24,570
+innate and adaptive
+immune response and
+
+34
+00:01:24,570 --> 00:01:27,300
+some of the key differences
+and so of course
+
+35
+00:01:27,300 --> 00:01:28,730
+obviously they're both
+part of the immune
+
+36
+00:01:28,730 --> 00:01:30,270
+response but then we
+have to distinguish
+
+37
+00:01:30,270 --> 00:01:34,890
+the importance of one
+of them is that there's
+
+38
+00:01:34,890 --> 00:01:37,340
+a lot of overlap
+between the two but
+
+39
+00:01:37,810 --> 00:01:41,130
+remember this this type
+of distinction is a
+
+40
+00:01:41,130 --> 00:01:43,990
+little bit artificial
+because and in regard
+
+41
+00:01:43,990 --> 00:01:46,250
+to the immune system
+it all functions as a
+
+42
+00:01:46,250 --> 00:01:49,890
+unit but there are
+ways to distinguish the
+
+43
+00:01:49,890 --> 00:01:52,070
+response of each and
+there's typically a
+
+44
+00:01:52,070 --> 00:01:54,250
+different timeline set
+up for each. So usually
+
+45
+00:01:54,250 --> 00:01:56,710
+the innate immune
+response is always X
+
+46
+00:01:56,710 --> 00:01:59,770
+first. And then if
+things are not resolved,
+
+47
+00:02:00,790 --> 00:02:02,690
+the adaptive
+immune response
+
+48
+00:02:02,950 --> 00:02:04,050
+comes in.
+
+49
+00:02:04,430 --> 00:02:07,230
+So again, there's a,
+you know, they're very
+
+50
+00:02:07,230 --> 00:02:09,970
+common. It's all part
+of the same response.
+
+51
+00:02:10,030 --> 00:02:12,310
+There's a lot of
+cells that overlap and
+
+52
+00:02:12,310 --> 00:02:14,390
+activate and one lead
+to the other. And
+
+53
+00:02:14,390 --> 00:02:16,470
+there's a positive
+impact between the two.
+
+54
+00:02:17,290 --> 00:02:19,890
+You know, obviously
+macrophages, for example,
+
+55
+00:02:19,890 --> 00:02:21,570
+regulate the
+inflammatory response and
+
+56
+00:02:21,570 --> 00:02:23,530
+they're responsible
+for the innate immune
+
+57
+00:02:23,530 --> 00:02:25,900
+response but at the same
+time they do present
+
+58
+00:02:25,900 --> 00:02:28,070
+antigen activate the
+helper cells which
+
+59
+00:02:28,070 --> 00:02:29,730
+then activates the
+adaptive immune response
+
+60
+00:02:29,730 --> 00:02:32,750
+so keep that in mind
+some of the key things
+
+61
+00:02:32,750 --> 00:02:34,730
+differences are listed
+in this table so for
+
+62
+00:02:34,730 --> 00:02:36,910
+example the innate
+immune response is non
+
+63
+00:02:36,910 --> 00:02:39,310
+-specific quality
+adaptive is very specific
+
+64
+00:02:39,870 --> 00:02:42,490
+the innate immune
+response doesn't
+
+65
+00:02:42,490 --> 00:02:44,570
+really learn from
+the encounter it's
+
+66
+00:02:44,570 --> 00:02:46,570
+the same there's no
+memory that develops
+
+67
+00:02:46,570 --> 00:02:48,150
+like the adaptive
+immune response.
+
+68
+00:02:48,570 --> 00:02:50,310
+Also the innate
+immune response is
+
+69
+00:02:50,310 --> 00:02:52,970
+instantaneous and it's
+always available while
+
+70
+00:02:52,970 --> 00:02:54,270
+the adaptive immune
+response, at least
+
+71
+00:02:54,270 --> 00:02:56,510
+the initial one or the
+primary, is usually
+
+72
+00:02:56,510 --> 00:02:59,070
+slow. The secondary,
+after it learns
+
+73
+00:02:59,070 --> 00:03:01,330
+and memory develops,
+becomes much faster.
+
+74
+00:03:06,240 --> 00:03:08,100
+The innate immune
+response, as we've
+
+75
+00:03:08,100 --> 00:03:09,520
+discussed before,
+is divided into the
+
+76
+00:03:09,520 --> 00:03:11,740
+first line and second
+line defense. The
+
+77
+00:03:11,740 --> 00:03:13,280
+third line defense
+being the adaptive.
+
+78
+00:03:13,720 --> 00:03:16,120
+And that's kind of
+similar how the pathogen
+
+79
+00:03:16,120 --> 00:03:17,660
+would go through the
+body. You have the
+
+80
+00:03:17,660 --> 00:03:19,880
+first line responding
+first and if things
+
+81
+00:03:19,880 --> 00:03:22,380
+are settled you'll
+stay there and if not
+
+82
+00:03:22,380 --> 00:03:24,620
+you'll escalate the
+second line and so on
+
+83
+00:03:24,620 --> 00:03:26,580
+the first line is
+basically the physical
+
+84
+00:03:26,580 --> 00:03:28,680
+chemical and the
+biological barriers that
+
+85
+00:03:28,680 --> 00:03:31,580
+we have things like the
+skin earwax defenses
+
+86
+00:03:31,580 --> 00:03:35,300
+stomach acid our normal
+flora etc there's
+
+87
+00:03:35,300 --> 00:03:37,200
+also a chart on the
+side highlighting
+
+88
+00:03:37,220 --> 00:03:40,640
+our table actually sorry
+has all the different
+
+89
+00:03:40,640 --> 00:03:44,000
+kind of a breakdown
+a nice chart for
+
+90
+00:03:44,000 --> 00:03:46,240
+you guys to see all
+this information. The
+
+91
+00:03:46,240 --> 00:03:49,060
+second line involves
+inflammation, fever,
+
+92
+00:03:50,380 --> 00:03:51,820
+complement, interferon,
+
+93
+00:03:52,040 --> 00:03:54,500
+phagocytosis, and
+natural ketocytes,
+
+94
+00:03:54,500 --> 00:03:56,520
+and we'll discuss
+each of these.
+
+95
+00:03:58,260 --> 00:04:00,840
+So let's talk about
+each of these barriers.
+
+96
+00:04:01,500 --> 00:04:04,740
+So the physical barriers
+involve the skin,
+
+97
+00:04:04,740 --> 00:04:06,600
+and of course the
+skin is an excellent
+
+98
+00:04:06,600 --> 00:04:09,140
+barrier. It basically
+protects us from
+
+99
+00:04:09,140 --> 00:04:11,680
+many, many organisms.
+A good example to
+
+100
+00:04:11,680 --> 00:04:14,310
+remember is even with
+all the immune system
+
+101
+00:04:14,310 --> 00:04:17,840
+intact, if you
+have a burn victim,
+
+102
+00:04:17,840 --> 00:04:20,240
+they can typically die
+from infection simply
+
+103
+00:04:20,240 --> 00:04:21,920
+because they've
+lost a good chunk of
+
+104
+00:04:21,920 --> 00:04:23,940
+their skin, despite
+the fact that every
+
+105
+00:04:23,940 --> 00:04:26,600
+other part of their
+body is still intact.
+
+106
+00:04:26,700 --> 00:04:30,500
+Mucous membranes
+also trap organisms,
+
+107
+00:04:31,100 --> 00:04:32,970
+that's what mucus is
+for, it just basically
+
+108
+00:04:33,360 --> 00:04:36,410
+fixates doesn't allow
+to move respiratory
+
+109
+00:04:37,500 --> 00:04:40,960
+tract you know have
+cilia hair mucus all
+
+110
+00:04:40,960 --> 00:04:43,240
+that trap same thing
+you know urinary
+
+111
+00:04:43,240 --> 00:04:46,000
+tract with the constant
+flushing of urine
+
+112
+00:04:46,000 --> 00:04:49,080
+it actually helps
+with moving organisms
+
+113
+00:04:49,080 --> 00:04:54,140
+away from the you
+know kidneys and so on
+
+114
+00:04:54,780 --> 00:04:57,540
+so the physical areas
+are so important um
+
+115
+00:04:57,920 --> 00:05:00,480
+in going back to skin
+a little bit again the
+
+116
+00:05:00,480 --> 00:05:03,160
+skin is basically in
+that in its natural
+
+117
+00:05:03,160 --> 00:05:05,600
+state with the
+exception of things like
+
+118
+00:05:05,600 --> 00:05:08,440
+parasites, which some of
+them can actually break
+
+119
+00:05:08,440 --> 00:05:10,960
+the intact skin.
+Organisms typically cannot
+
+120
+00:05:10,960 --> 00:05:12,600
+break the intact skin,
+so they would need
+
+121
+00:05:12,600 --> 00:05:15,440
+a cut or wound or
+something to gain access.
+
+122
+00:05:21,160 --> 00:05:23,720
+The chemical barriers,
+which is part of the
+
+123
+00:05:23,720 --> 00:05:25,520
+first line of defense,
+constitute things
+
+124
+00:05:25,520 --> 00:05:27,600
+like our pH in different
+parts of the body,
+
+125
+00:05:27,600 --> 00:05:30,820
+our skin, stomach,
+and the vaginal tract,
+
+126
+00:05:30,820 --> 00:05:33,460
+for example, or acidic.
+Different levels of
+
+127
+00:05:33,460 --> 00:05:35,020
+acidity, but they're
+all acidic and that's
+
+128
+00:05:35,020 --> 00:05:37,880
+predominantly to discourage
+bacterial growth.
+
+129
+00:05:37,880 --> 00:05:41,420
+As you know from
+last semester and the
+
+130
+00:05:41,420 --> 00:05:43,420
+bacterial physiology
+lecture bacteria does not
+
+131
+00:05:43,420 --> 00:05:46,880
+like acidic environments
+prefer pH closer
+
+132
+00:05:46,880 --> 00:05:51,240
+to 8 and so by
+naturally many of our
+
+133
+00:05:51,240 --> 00:05:54,900
+environments are inhibitory
+to bacterial growth
+
+134
+00:05:54,900 --> 00:05:59,760
+also our many molecules
+are secreted as part
+
+135
+00:05:59,760 --> 00:06:02,040
+of the first line of
+defense a lot of micro
+
+136
+00:06:02,040 --> 00:06:05,240
+sedal molecules like
+lysozyne which breaks
+
+137
+00:06:05,240 --> 00:06:08,200
+down the peptocolligan
+layer, defensins,
+
+138
+00:06:08,720 --> 00:06:11,920
+calvacidins, RNAs and
+DNAs which break down
+
+139
+00:06:11,920 --> 00:06:15,060
+you know genomes and
+even salt in itself
+
+140
+00:06:15,060 --> 00:06:18,560
+can dry out the cells
+and take water from
+
+141
+00:06:18,560 --> 00:06:20,460
+inside of a biosmosis
+and all these can be
+
+142
+00:06:20,460 --> 00:06:28,000
+very inhibitory to
+microbial growth and our
+
+143
+00:06:28,000 --> 00:06:32,360
+microbiome serves as
+an excellent defense
+
+144
+00:06:32,360 --> 00:06:36,100
+and inhibits other
+organisms from growing
+
+145
+00:06:36,100 --> 00:06:39,860
+whether it's bacterial
+or fungal and you
+
+146
+00:06:39,860 --> 00:06:41,840
+know people have been
+talking and discovering
+
+147
+00:06:41,840 --> 00:06:44,240
+how important the
+microbiome and the
+
+148
+00:06:44,240 --> 00:06:46,480
+balance in the microbiome
+and many different
+
+149
+00:06:46,480 --> 00:06:49,780
+diseases so you know
+previously we used to
+
+150
+00:06:49,780 --> 00:06:51,620
+think because it's
+good for natural health
+
+151
+00:06:51,620 --> 00:06:54,350
+and now we realize
+it's important for you
+
+152
+00:06:55,960 --> 00:06:59,000
+gut health and there's
+a lot of relationships
+
+153
+00:06:59,000 --> 00:07:02,020
+now between
+disturbance to the
+
+154
+00:07:02,020 --> 00:07:04,600
+microbiome and you know
+neurologic diseases
+
+155
+00:07:04,600 --> 00:07:06,280
+like parkinson's
+disease and others
+
+156
+00:07:06,280 --> 00:07:08,800
+so the more and more
+we understand about
+
+157
+00:07:08,800 --> 00:07:13,280
+our biological defense
+the many bacterium
+
+158
+00:07:13,280 --> 00:07:15,420
+that reside in the
+yeast that reside
+
+159
+00:07:15,420 --> 00:07:18,210
+in our body the more
+we appreciate that
+
+160
+00:07:28,960 --> 00:07:30,620
+before the second line
+
+161
+00:07:30,620 --> 00:07:32,120
+consists of inflammation
+
+162
+00:07:32,280 --> 00:07:35,940
+fever, the interferon
+response, the
+
+163
+00:07:35,940 --> 00:07:38,180
+component response,
+phagocytosis,
+
+164
+00:07:38,180 --> 00:07:40,220
+and the role of
+natural kills. And
+
+165
+00:07:40,220 --> 00:07:41,940
+next we'll discuss
+all of these.
+
+166
+00:07:43,140 --> 00:07:45,280
+Let's talk about
+inflammation, a very
+
+167
+00:07:45,280 --> 00:07:47,200
+important response
+which actually
+
+168
+00:07:47,200 --> 00:07:48,900
+clues the body that
+there's something
+
+169
+00:07:48,900 --> 00:07:50,920
+going on. So
+inflammation is very
+
+170
+00:07:50,920 --> 00:07:53,380
+necessary. It's response
+to tissue damage,
+
+171
+00:07:53,380 --> 00:07:55,020
+any kind of tissue
+damage, physical,
+
+172
+00:07:55,800 --> 00:07:57,600
+infectious,
+anything else.
+
+173
+00:07:58,060 --> 00:08:00,340
+The hallmark of
+inflammation or what
+
+174
+00:08:00,340 --> 00:08:02,300
+triggers inflammation
+is the release
+
+175
+00:08:02,300 --> 00:08:04,240
+of the inflammatory
+mediators or
+
+176
+00:08:04,240 --> 00:08:06,540
+chemicals such as,
+as you already know,
+
+177
+00:08:06,540 --> 00:08:09,220
+histamine, complement
+protein C5A,
+
+178
+00:08:10,020 --> 00:08:12,920
+and two endocrosis
+factor alpha.
+
+179
+00:08:12,920 --> 00:08:14,340
+These are just a
+few, as you know,
+
+180
+00:08:14,340 --> 00:08:15,950
+there's tons of
+other inflammatory
+
+181
+00:08:16,400 --> 00:08:18,300
+chemicals and cytokines
+that are there.
+
+182
+00:08:18,980 --> 00:08:21,380
+How the inflammatory
+response is triggered,
+
+183
+00:08:21,380 --> 00:08:22,900
+we'll talk about
+that in a little bit,
+
+184
+00:08:22,900 --> 00:08:25,420
+but these chemicals
+are essential for that.
+
+185
+00:08:25,950 --> 00:08:27,560
+And, you know, as
+you already know,
+
+186
+00:08:27,560 --> 00:08:30,020
+the cardinal signs
+for inflammation are
+
+187
+00:08:30,020 --> 00:08:32,480
+heat, pain, redness,
+and swelling,
+
+188
+00:08:32,480 --> 00:08:34,660
+and the fifth one
+is loss of function.
+
+189
+00:08:36,320 --> 00:08:39,100
+The terminology for
+those came from the
+
+190
+00:08:39,100 --> 00:08:42,340
+Latin words calor,
+dolor, reborn, and tumor.
+
+191
+00:08:42,860 --> 00:08:45,700
+And very important
+to remember that the
+
+192
+00:08:45,700 --> 00:08:47,640
+inflammatory response
+in our body is
+
+193
+00:08:47,640 --> 00:08:50,800
+coordinated by
+macrophages. So macrophages
+
+194
+00:08:50,800 --> 00:08:53,880
+regulate the inflammatory
+response and that's
+
+195
+00:08:53,880 --> 00:08:56,700
+very essential to
+understand. They're
+
+196
+00:08:56,700 --> 00:08:58,360
+the one that started
+it. They're the one
+
+197
+00:08:58,360 --> 00:09:01,880
+that invite other cells
+through the release
+
+198
+00:09:01,880 --> 00:09:04,720
+of different chemicals
+like TNF-alpha.
+
+199
+00:09:06,860 --> 00:09:08,620
+What happens when
+the inflammation
+
+200
+00:09:08,620 --> 00:09:10,200
+starts is you see
+increase in blood
+
+201
+00:09:10,200 --> 00:09:11,840
+supply into the
+area, you see
+
+202
+00:09:11,840 --> 00:09:13,720
+increase in capillary
+permeability,
+
+203
+00:09:13,940 --> 00:09:18,600
+all important to invite
+different players
+
+204
+00:09:18,600 --> 00:09:20,980
+to come to this
+region. You also see
+
+205
+00:09:20,980 --> 00:09:24,100
+increase in leukocyte,
+white blood cell
+
+206
+00:09:24,100 --> 00:09:28,160
+chemotaxis, so attraction
+of specific cells to
+
+207
+00:09:28,160 --> 00:09:31,120
+an area and what
+cells are attracted is
+
+208
+00:09:31,120 --> 00:09:33,390
+typically determined by
+the type of chemokine
+
+209
+00:09:33,480 --> 00:09:35,220
+receptors that are
+there and we'll
+
+210
+00:09:35,220 --> 00:09:38,520
+discuss that a little
+bit and if we get fast
+
+211
+00:09:38,520 --> 00:09:41,140
+clearance of the
+foreign substance or the
+
+212
+00:09:41,140 --> 00:09:43,320
+antigen then that's
+basically an acute
+
+213
+00:09:43,320 --> 00:09:45,400
+form of inflammation
+and things are resolved
+
+214
+00:09:45,400 --> 00:09:48,160
+but sometimes as
+you know antigens
+
+215
+00:09:48,160 --> 00:09:51,310
+persist and that results
+in a chronic instinctive
+
+216
+00:09:51,310 --> 00:09:52,940
+inflammation, which
+tend to be a little
+
+217
+00:09:52,940 --> 00:09:54,860
+more damaging,
+obviously, than acute.
+
+218
+00:09:55,890 --> 00:09:58,220
+On the table right
+here, it shows
+
+219
+00:09:58,220 --> 00:10:02,260
+you the migration
+per day and the
+
+220
+00:10:02,260 --> 00:10:05,240
+quantity of these
+cells as inflammation
+
+221
+00:10:05,240 --> 00:10:07,220
+starts. Of
+course, initially,
+
+222
+00:10:07,640 --> 00:10:09,720
+neutrophils arrive,
+usually a set of
+
+223
+00:10:09,720 --> 00:10:11,740
+inflammatory response,
+and then after that,
+
+224
+00:10:11,740 --> 00:10:14,680
+different type of
+mononuclear cells like
+
+225
+00:10:14,680 --> 00:10:17,780
+microfluidus or monocytes
+can come to the site
+
+226
+00:10:17,780 --> 00:10:19,920
+then if that
+doesn't get resolved
+
+227
+00:10:21,180 --> 00:10:23,460
+especially if they made
+a new response does not
+
+228
+00:10:23,460 --> 00:10:24,980
+resolve you end up
+recruiting t helper
+
+229
+00:10:24,980 --> 00:10:27,760
+cells which then can
+activate the humoral or
+
+230
+00:10:27,760 --> 00:10:29,930
+the cell mediated in
+your response keep
+
+231
+00:10:30,480 --> 00:10:34,400
+in mind that remember
+macrophages are the
+
+232
+00:10:34,900 --> 00:10:36,500
+regulators of
+inflammation so they're
+
+233
+00:10:36,500 --> 00:10:38,390
+always you know
+macrophages are resident
+
+234
+00:10:38,390 --> 00:10:40,180
+monocytes so in any
+tissue there's already
+
+235
+00:10:40,180 --> 00:10:44,880
+macrophages and more of
+them may be recruited
+
+236
+00:10:44,880 --> 00:10:47,020
+but they'll always
+be there initially
+
+237
+00:10:47,020 --> 00:10:48,920
+so they may invite
+neutrophils and they
+
+238
+00:10:48,920 --> 00:10:52,760
+may invite more
+macrophages or they invite
+
+239
+00:10:52,940 --> 00:10:54,360
+t helper cells
+but they're
+
+240
+00:10:54,360 --> 00:10:55,950
+always there
+in that tissue
+
+241
+00:10:59,080 --> 00:11:02,300
+one of the key
+cytokines that involve
+
+242
+00:11:02,300 --> 00:11:04,680
+inflammation of
+course tnf alpha is
+
+243
+00:11:04,680 --> 00:11:08,000
+one of the major
+ones truly plays a
+
+244
+00:11:08,000 --> 00:11:10,700
+very important role.
+Allios 1 is also
+
+245
+00:11:10,700 --> 00:11:14,180
+another one and
+interferon gamma.
+
+246
+00:11:14,640 --> 00:11:19,340
+So typically most of
+these cytokines are
+
+247
+00:11:19,340 --> 00:11:21,600
+released from white
+blood cells in
+
+248
+00:11:21,600 --> 00:11:23,980
+response to activation
+and signal transduction
+
+249
+00:11:23,980 --> 00:11:26,440
+pathways. Signals
+transduction pathways
+
+250
+00:11:26,440 --> 00:11:31,080
+that are controlled
+by a transcription
+
+251
+00:11:31,080 --> 00:11:34,860
+regulator referred
+to as NF-kappa B. A
+
+252
+00:11:34,860 --> 00:11:37,540
+very important master
+switch basically
+
+253
+00:11:37,540 --> 00:11:39,660
+with the immune
+response and critical to
+
+254
+00:11:39,660 --> 00:11:45,640
+understand how its
+role in activation of
+
+255
+00:11:47,380 --> 00:11:51,540
+different elements of
+the immune response.
+
+256
+00:11:52,360 --> 00:11:57,000
+Just a few comments
+about TNF-alpha and
+
+257
+00:11:57,000 --> 00:12:00,500
+it's role again the
+major major player in
+
+258
+00:12:00,500 --> 00:12:03,180
+the inflammatory
+response it can be it's
+
+259
+00:12:03,180 --> 00:12:06,630
+actually pro
+thrombotic it promotes
+
+260
+00:12:06,630 --> 00:12:09,380
+leukocyte adhesion and
+migration it activates
+
+261
+00:12:09,380 --> 00:12:11,400
+macrophages and so
+it's actually released
+
+262
+00:12:11,400 --> 00:12:13,020
+by macrophages and
+activate macrophages
+
+263
+00:12:13,020 --> 00:12:14,740
+it's kind of a
+positive feedback loop
+
+264
+00:12:14,740 --> 00:12:18,070
+and it will promote
+hematopoiesis
+
+265
+00:12:18,760 --> 00:12:20,640
+as well as lymphocyte
+development
+
+266
+00:12:23,700 --> 00:12:26,020
+There are four major
+types of what's referred
+
+267
+00:12:26,020 --> 00:12:28,300
+to as plasma enzyme
+systems which all
+
+268
+00:12:28,300 --> 00:12:31,380
+contribute to different
+inflammatory mediators.
+
+269
+00:12:31,380 --> 00:12:33,100
+So all these systems
+you see right here, the
+
+270
+00:12:33,100 --> 00:12:35,200
+complement system,
+the kinin system, the
+
+271
+00:12:35,590 --> 00:12:38,080
+flabolitic or plasmin
+system, and the clotting
+
+272
+00:12:38,080 --> 00:12:42,260
+system, all release
+chemicals which actually
+
+273
+00:12:42,260 --> 00:12:44,420
+can cause inflammation.
+So they all contribute
+
+274
+00:12:44,420 --> 00:12:46,310
+to the many different
+inflammatory
+
+275
+00:12:46,310 --> 00:12:48,460
+remediators that we secrete
+in our body. And it's
+
+276
+00:12:48,460 --> 00:12:50,520
+important to have
+redundancy in that system
+
+277
+00:12:50,520 --> 00:12:53,380
+in case something fails.
+We can always spot
+
+278
+00:12:53,380 --> 00:12:56,080
+and trigger an
+inflammatory response. So
+
+279
+00:12:56,080 --> 00:12:58,060
+we'll talk about each
+of these a little bit.
+
+280
+00:12:59,000 --> 00:13:01,780
+So quickly discussing
+the plasmin system.
+
+281
+00:13:01,780 --> 00:13:03,580
+It's basically a
+system that's involved
+
+282
+00:13:03,580 --> 00:13:06,040
+predominantly in tissue
+repair and remodeling.
+
+283
+00:13:06,100 --> 00:13:08,320
+Plasmin is an enzyme
+that actually dissolves
+
+284
+00:13:08,320 --> 00:13:11,760
+fibrin after the
+production of a blood clot.
+
+285
+00:13:12,480 --> 00:13:14,400
+plasminogen is
+converted to plasmin
+
+286
+00:13:14,400 --> 00:13:17,020
+and then plasmin
+destroys fiber.
+
+287
+00:13:17,760 --> 00:13:20,580
+You know the system
+also activates like
+
+288
+00:13:20,580 --> 00:13:22,740
+matrix metallopodiases
+which are responsible
+
+289
+00:13:22,740 --> 00:13:24,180
+for remodeling
+collagen so they're
+
+290
+00:13:24,180 --> 00:13:26,460
+part of the healing
+process and they also
+
+291
+00:13:26,460 --> 00:13:29,140
+promote the production
+of no red blood cells
+
+292
+00:13:29,140 --> 00:13:30,470
+which is referred
+to as angiogenesis.
+
+293
+00:13:31,300 --> 00:13:33,140
+So this system is crucial
+
+294
+00:13:33,140 --> 00:13:35,360
+in repair and remodeling.
+
+295
+00:13:35,640 --> 00:13:39,290
+The kinase system is
+actually integral to
+
+296
+00:13:39,290 --> 00:13:42,300
+inflammation and
+especially in regard to
+
+297
+00:13:42,300 --> 00:13:44,530
+the production of the
+chemical bradykinin.
+
+298
+00:13:44,720 --> 00:13:47,180
+So bradykinin is an
+inflammatory mediator,
+
+299
+00:13:47,180 --> 00:13:48,640
+a powerful
+inflammatory mediator,
+
+300
+00:13:48,640 --> 00:13:50,100
+which has multiple
+different actions
+
+301
+00:13:50,100 --> 00:13:52,580
+like smooth muscle
+contraction, it can
+
+302
+00:13:52,580 --> 00:13:55,220
+increase
+vasculoperability, it can
+
+303
+00:13:55,220 --> 00:13:58,020
+cause dilation because
+of the release of
+
+304
+00:13:58,020 --> 00:14:00,580
+nitric oxide, which
+is a vasodilator.
+
+305
+00:14:01,100 --> 00:14:01,560
+So
+
+306
+00:14:05,100 --> 00:14:07,440
+But there are again
+other mediators that
+
+307
+00:14:07,440 --> 00:14:09,040
+are also very important
+as part of the
+
+308
+00:14:09,040 --> 00:14:11,220
+inflammatory response,
+as we have discussed.
+
+309
+00:14:11,360 --> 00:14:13,380
+You know, leukotrienes
+and prostaglandins,
+
+310
+00:14:13,380 --> 00:14:15,840
+very important.
+Complement proteins,
+
+311
+00:14:15,840 --> 00:14:20,060
+C3A and C5A, all
+trigger mast cell
+
+312
+00:14:20,060 --> 00:14:21,400
+degranulation, and
+we'll talk a little
+
+313
+00:14:21,400 --> 00:14:23,140
+bit about mast cells
+and their role.
+
+314
+00:14:24,700 --> 00:14:28,240
+IgE antibodies
+synthesize mast cells and
+
+315
+00:14:28,240 --> 00:14:31,280
+basophils and cause
+both of them to produce
+
+316
+00:14:31,570 --> 00:14:34,400
+histamine which is
+also an inflammatory
+
+317
+00:14:34,400 --> 00:14:36,380
+mediator. On the right
+side there there's a
+
+318
+00:14:36,380 --> 00:14:38,400
+youtube video that I
+cannot play within the
+
+319
+00:14:38,400 --> 00:14:40,680
+video guys because of
+copyright reasons but
+
+320
+00:14:40,680 --> 00:14:42,780
+you can go ahead and play
+it off the powerpoint
+
+321
+00:14:42,780 --> 00:14:44,880
+and what that's
+going to show you is
+
+322
+00:14:44,880 --> 00:14:47,740
+how a mast cell actually
+degranulates and
+
+323
+00:14:47,740 --> 00:14:53,520
+responds to let's say
+IgE and how it actually
+
+324
+00:14:53,550 --> 00:14:56,580
+dumps all these granulocytes
+in the cytoplasm
+
+325
+00:14:56,580 --> 00:14:58,600
+that contain
+histamine. So it's just
+
+326
+00:14:58,600 --> 00:15:00,320
+cool to see that
+mast cell completely
+
+327
+00:15:00,320 --> 00:15:05,580
+disintegrating and basically
+just produces massive
+
+328
+00:15:05,580 --> 00:15:08,920
+amount of histamine in
+the vicinity whenever
+
+329
+00:15:08,920 --> 00:15:11,060
+it's activated. And
+so of course, so
+
+330
+00:15:11,060 --> 00:15:13,200
+these cells, mast cells
+and vasophils play a
+
+331
+00:15:13,200 --> 00:15:15,200
+very important role
+in the inflammatory
+
+332
+00:15:15,200 --> 00:15:16,960
+response predominantly
+through the secretion
+
+333
+00:15:16,960 --> 00:15:19,380
+of histamine. But they
+also produce serotonin,
+
+334
+00:15:19,380 --> 00:15:22,600
+which is a vasodilator
+and helps with
+
+335
+00:15:22,600 --> 00:15:24,440
+the increase of
+vasculopirability and can
+
+336
+00:15:24,440 --> 00:15:27,620
+cause of course pain
+which then can alert the
+
+337
+00:15:27,620 --> 00:15:29,340
+person that there's
+some things going on.
+
+338
+00:15:30,480 --> 00:15:33,260
+And this is just a
+table to show you the
+
+339
+00:15:33,260 --> 00:15:36,060
+many different types
+of inflammatory
+
+340
+00:15:36,410 --> 00:15:38,820
+mediators that we talked
+about from histamine,
+
+341
+00:15:38,820 --> 00:15:41,160
+the complement
+proteins, bradykinin,
+
+342
+00:15:41,380 --> 00:15:43,740
+leukotrienes,
+prostaglandins and their
+
+343
+00:15:43,740 --> 00:15:45,700
+main source what cells
+make them and their
+
+344
+00:15:45,700 --> 00:15:47,400
+actions. It's a
+pretty good table just
+
+345
+00:15:47,400 --> 00:15:49,280
+to kind of get an idea
+of where all these
+
+346
+00:15:49,280 --> 00:15:51,380
+things come from
+and their locations.
+
+347
+00:15:51,420 --> 00:15:53,380
+I I don't expect
+you to memorize, of
+
+348
+00:15:53,380 --> 00:15:55,560
+course, all of this,
+but just to kind of get
+
+349
+00:15:55,560 --> 00:15:57,640
+a grasp and understanding
+and appreciation
+
+350
+00:15:57,640 --> 00:16:00,800
+to all these
+inflammatory mediators.
+
+351
+00:16:03,660 --> 00:16:06,120
+One of the most crucial
+things for the body
+
+352
+00:16:06,120 --> 00:16:07,880
+and the immune system
+basically is to
+
+353
+00:16:07,880 --> 00:16:11,860
+recognize when there's
+a foreign substance.
+
+354
+00:16:11,860 --> 00:16:14,600
+And the way to figure
+out or the solution
+
+355
+00:16:14,600 --> 00:16:16,300
+for that is to actually
+have what's called
+
+356
+00:16:16,300 --> 00:16:20,100
+pattern recognition
+receptors which are
+
+357
+00:16:20,100 --> 00:16:24,660
+specific for foreign
+substances and not not
+
+358
+00:16:24,660 --> 00:16:27,220
+our own antigens
+but at the same time
+
+359
+00:16:27,220 --> 00:16:30,480
+broad enough to cover as
+many foreign substances
+
+360
+00:16:30,480 --> 00:16:32,640
+as possible. It's
+kind of a difficult
+
+361
+00:16:32,640 --> 00:16:34,640
+thing to do but
+apparently the body was
+
+362
+00:16:34,640 --> 00:16:37,390
+able to figure that
+out using these PRRs.
+
+363
+00:16:37,880 --> 00:16:40,060
+So pattern recognition
+receptors are
+
+364
+00:16:40,060 --> 00:16:43,200
+crucial. They actually
+are found all over
+
+365
+00:16:43,200 --> 00:16:44,960
+the body which is
+good on many different
+
+366
+00:16:44,960 --> 00:16:48,040
+cells. What they do
+is they recognize
+
+367
+00:16:48,130 --> 00:16:51,720
+pathogen-associated
+molecular patterns
+
+368
+00:16:51,720 --> 00:16:55,100
+or PAMPs and basically
+these are foreign
+
+369
+00:16:55,160 --> 00:16:57,420
+antigens that are
+found on different
+
+370
+00:16:57,900 --> 00:17:00,240
+foreign substances
+which the pattern
+
+371
+00:17:00,240 --> 00:17:03,320
+recondition receptors
+can recognize. Make sure
+
+372
+00:17:03,320 --> 00:17:05,680
+you're aware of these
+terminology both.
+
+373
+00:17:05,880 --> 00:17:07,740
+So examples of these,
+
+374
+00:17:07,740 --> 00:17:09,260
+these receptors can be
+
+375
+00:17:10,220 --> 00:17:13,700
+um classic receptors
+that ones we found we
+
+376
+00:17:13,700 --> 00:17:16,900
+find on cells surfaces
+for example like
+
+377
+00:17:16,900 --> 00:17:18,480
+toll-like receptors
+which we're going to
+
+378
+00:17:18,480 --> 00:17:20,180
+talk about those but
+some of those are
+
+379
+00:17:20,180 --> 00:17:23,280
+actually secreted
+receptors that are found in
+
+380
+00:17:23,280 --> 00:17:27,540
+serum like c-reactive
+protein or the manan
+
+381
+00:17:27,540 --> 00:17:31,200
+binding lectin which
+is also important
+
+382
+00:17:31,200 --> 00:17:33,600
+for triggering complement
+and some of them
+
+383
+00:17:33,600 --> 00:17:40,140
+are found inside the
+cell. So intracytoplasmic
+
+384
+00:17:40,140 --> 00:17:41,820
+-like nod-like
+receptors would be
+
+385
+00:17:41,820 --> 00:17:44,600
+examples of that and
+we'll talk about those.
+
+386
+00:17:45,300 --> 00:17:50,020
+Nod-like receptors
+are basically the name
+
+387
+00:17:50,020 --> 00:17:52,840
+comes from nucleotide
+binding oligomization
+
+388
+00:17:52,840 --> 00:17:54,720
+domain because
+these receptors bind
+
+389
+00:17:54,720 --> 00:17:57,900
+the same type of
+nucleotide over and over.
+
+390
+00:17:58,280 --> 00:18:01,580
+So again, they bind
+to these pathogen
+
+391
+00:18:01,580 --> 00:18:03,540
+-associated molecular
+patterns, like things
+
+392
+00:18:03,540 --> 00:18:06,060
+like peptidoglycan,
+which is found on
+
+393
+00:18:06,060 --> 00:18:07,840
+most bacteria, because
+they have a cell
+
+394
+00:18:07,840 --> 00:18:10,320
+wall, or LPS, which
+is found on gram
+
+395
+00:18:10,320 --> 00:18:13,420
+negatives, or let's
+say single-stranded
+
+396
+00:18:13,940 --> 00:18:16,960
+RNA molecules that
+are found in viruses,
+
+397
+00:18:17,120 --> 00:18:17,760
+okay?
+
+398
+00:18:19,080 --> 00:18:21,180
+These are coded
+by our genome.
+
+399
+00:18:21,680 --> 00:18:23,660
+These receptors
+do not undergo
+
+400
+00:18:23,660 --> 00:18:25,880
+rearrangement. They
+don't differ from one
+
+401
+00:18:25,880 --> 00:18:28,100
+individual to another
+among all human beings.
+
+402
+00:18:28,100 --> 00:18:30,100
+These are identical
+and as such
+
+403
+00:18:30,100 --> 00:18:32,240
+allow all of us the
+ability to recognize
+
+404
+00:18:32,240 --> 00:18:34,880
+these foreign
+substances and as such
+
+405
+00:18:34,880 --> 00:18:37,480
+then trigger the
+inflammatory response.
+
+406
+00:18:38,600 --> 00:18:40,920
+So what do the pattern
+recognition receptors
+
+407
+00:18:40,920 --> 00:18:42,980
+do? Of course, as we
+talk, they trigger
+
+408
+00:18:42,980 --> 00:18:44,240
+the inflammation.
+The inflammatory
+
+409
+00:18:44,240 --> 00:18:46,800
+response is very
+important and let the body
+
+410
+00:18:46,800 --> 00:18:49,840
+know that something
+was wrong. So they
+
+411
+00:18:49,840 --> 00:18:54,680
+channel all these
+systems and they It can
+
+412
+00:18:54,680 --> 00:18:56,920
+also mobilize the
+infectious microbe to
+
+413
+00:18:56,920 --> 00:18:58,620
+prevent it from moving
+into other places
+
+414
+00:18:58,620 --> 00:19:02,080
+in the body. They can
+promote phycocytosis,
+
+415
+00:19:02,080 --> 00:19:04,380
+and they can
+actually activate our
+
+416
+00:19:04,380 --> 00:19:07,280
+cells to produce
+antimicrobial substances.
+
+417
+00:19:07,900 --> 00:19:10,380
+On the right side,
+this table shows the
+
+418
+00:19:10,380 --> 00:19:12,420
+pattern recognition
+receptor signaling
+
+419
+00:19:12,420 --> 00:19:15,760
+pathway. Just it's a
+complex figure to look
+
+420
+00:19:15,760 --> 00:19:17,540
+at, but it's kind of
+interesting to see
+
+421
+00:19:17,540 --> 00:19:20,360
+different types of
+pattern recognition
+
+422
+00:19:20,360 --> 00:19:26,400
+receptors and the different
+type of PAMPs that
+
+423
+00:19:26,400 --> 00:19:28,330
+they bind to and
+how they relay that
+
+424
+00:19:28,330 --> 00:19:30,180
+information to cells.
+Just look at it, take
+
+425
+00:19:30,180 --> 00:19:33,010
+it, so give you an
+appreciation of how that
+
+426
+00:19:33,010 --> 00:19:35,400
+works. The point here
+is not for you to
+
+427
+00:19:35,400 --> 00:19:38,700
+memorize any of this,
+but at least maybe
+
+428
+00:19:38,700 --> 00:19:40,260
+sometime when you
+visually see something
+
+429
+00:19:40,260 --> 00:19:43,880
+it will remind you of
+these things later.
+
+430
+00:19:45,120 --> 00:19:47,280
+The next few slides
+we're going to discuss
+
+431
+00:19:47,280 --> 00:19:49,860
+a few pattern recognition
+receptors, let's
+
+432
+00:19:49,860 --> 00:19:51,760
+talk about a little
+bit, at least key ones.
+
+433
+00:19:51,760 --> 00:19:53,980
+One of the pretty
+important ones is C
+
+434
+00:19:53,980 --> 00:19:57,000
+-reactive protein, or CRP.
+It's a very important
+
+435
+00:19:57,000 --> 00:19:59,340
+protein, it's a main
+acute phase protein
+
+436
+00:19:59,420 --> 00:20:02,620
+produced by actually
+parasites, or liver
+
+437
+00:20:02,620 --> 00:20:05,360
+cells, in response to
+very important cytokine
+
+438
+00:20:05,360 --> 00:20:08,980
+IL-6, which is an
+inflammatory cytokine.
+
+439
+00:20:09,100 --> 00:20:13,300
+The both importance
+of CRP and IL-6
+
+440
+00:20:13,300 --> 00:20:17,780
+inflammation is definitely
+understated. I'm not
+
+441
+00:20:17,780 --> 00:20:19,120
+sure if you guys have
+been reading recently
+
+442
+00:20:19,120 --> 00:20:21,480
+about information,
+but one of the key
+
+443
+00:20:21,480 --> 00:20:25,240
+things to figure out
+if a COVID patient
+
+444
+00:20:25,240 --> 00:20:28,780
+will progress into a
+severe case is to measure
+
+445
+00:20:28,780 --> 00:20:32,180
+IL-6. So IL-6 is
+quite an an important
+
+446
+00:20:32,180 --> 00:20:38,240
+determinant in
+figuring out if a COVID
+
+447
+00:20:38,240 --> 00:20:40,820
+patient would become
+more severe case. And
+
+448
+00:20:40,820 --> 00:20:43,340
+also C-reactive proteins
+on both of these.
+
+449
+00:20:43,360 --> 00:20:46,400
+So IL-6 levels should be
+
+450
+00:20:46,400 --> 00:20:47,880
+around like
+three milligrams
+
+451
+00:20:48,220 --> 00:20:50,860
+per mil, but in some
+patients it could
+
+452
+00:20:50,860 --> 00:20:52,860
+go all the way up
+to 200, 300, even a
+
+453
+00:20:52,860 --> 00:20:54,780
+thousand. And that
+of course suggests a
+
+454
+00:20:54,780 --> 00:20:57,600
+very severe infection
+and quicker intervention
+
+455
+00:20:57,600 --> 00:20:59,920
+and probably poor
+prognosis too.
+
+456
+00:21:00,160 --> 00:21:01,780
+but again these
+markers are important
+
+457
+00:21:01,780 --> 00:21:04,260
+and there's also i
+believe an il-6 receptor
+
+458
+00:21:04,260 --> 00:21:07,300
+i'm sorry i have
+six blocker a drug
+
+459
+00:21:07,300 --> 00:21:09,540
+i can't remember
+which kind of like
+
+460
+00:21:09,540 --> 00:21:12,040
+it's one of those
+monoclonal antibodies
+
+461
+00:21:13,420 --> 00:21:17,070
+but you can look it up
+and it's been suggested
+
+462
+00:21:17,070 --> 00:21:20,000
+to be used as therapy
+for for severe cases
+
+463
+00:21:20,000 --> 00:21:23,200
+of covet um going back
+to what we're talking
+
+464
+00:21:23,200 --> 00:21:25,180
+about here c-reactive
+protein the importance
+
+465
+00:21:25,180 --> 00:21:27,400
+of your active protein
+as a pan recognition
+
+466
+00:21:27,400 --> 00:21:29,280
+receptor it's part
+of what's called the
+
+467
+00:21:29,280 --> 00:21:32,380
+pentexin, pentexin
+family of proteins. They
+
+468
+00:21:32,380 --> 00:21:34,740
+call them that because
+they have five subjects
+
+469
+00:21:34,740 --> 00:21:38,000
+for penta, penta5,
+that form this ring.
+
+470
+00:21:38,860 --> 00:21:42,260
+C-reactive protein pro
+-opsonizes microbes.
+
+471
+00:21:42,260 --> 00:21:45,260
+It's basically
+tags in, you know,
+
+472
+00:21:45,260 --> 00:21:48,480
+microbes like nomococci,
+which have capsules,
+
+473
+00:21:48,480 --> 00:21:51,340
+so they can be then
+destroyed by phagocytes
+
+474
+00:21:51,340 --> 00:21:53,340
+and all recognized
+by a complement.
+
+475
+00:21:53,740 --> 00:21:57,600
+And so those will do
+that. And so CRP will
+
+476
+00:21:57,600 --> 00:21:59,700
+also activate the
+classical complement
+
+477
+00:21:59,700 --> 00:22:03,340
+pathway and it can also
+even bind to necrotic
+
+478
+00:22:03,340 --> 00:22:05,900
+and apoptotic cells
+and cause them to be
+
+479
+00:22:05,900 --> 00:22:08,460
+cleared from our body so
+it's a pretty important
+
+480
+00:22:08,460 --> 00:22:10,900
+protein and again
+very important marker
+
+481
+00:22:10,900 --> 00:22:13,640
+of inflammation and
+i'll give you an example
+
+482
+00:22:13,640 --> 00:22:15,720
+of covet patients but
+also in like heart
+
+483
+00:22:15,720 --> 00:22:18,860
+disease and other and
+other infections in
+
+484
+00:22:26,500 --> 00:22:28,720
+the last pattern
+recognition receptors
+
+485
+00:22:28,720 --> 00:22:29,920
+we're going to
+talk about what are
+
+486
+00:22:29,920 --> 00:22:32,360
+very important ones
+and probably one of
+
+487
+00:22:32,360 --> 00:22:34,260
+the first discovered
+pattern recognition
+
+488
+00:22:34,260 --> 00:22:35,380
+receptors. This
+is when people
+
+489
+00:22:35,380 --> 00:22:37,400
+realize there's such
+a thing as a pattern
+
+490
+00:22:37,830 --> 00:22:39,800
+recognition receptor
+and this is how we
+
+491
+00:22:39,800 --> 00:22:41,660
+actually trigger
+inflammation in our body
+
+492
+00:22:41,660 --> 00:22:44,840
+and that is toll-like
+receptors. They call
+
+493
+00:22:44,840 --> 00:22:46,820
+them toll-like
+because they are toll
+
+494
+00:22:46,820 --> 00:22:50,120
+receptors in E. coli
+and these toll-like
+
+495
+00:22:50,120 --> 00:22:52,820
+receptors seem to share
+homology with these
+
+496
+00:22:52,820 --> 00:22:54,340
+E. coli receptors.
+That's where the name
+
+497
+00:22:54,340 --> 00:22:56,840
+comes from. It's not
+hugely important.
+
+498
+00:22:57,100 --> 00:22:59,520
+Again toll-like
+receptors are there's at
+
+499
+00:22:59,520 --> 00:23:01,120
+least 10 of them and
+they're found in most
+
+500
+00:23:01,120 --> 00:23:03,300
+tissues in the body.
+They can activate
+
+501
+00:23:03,300 --> 00:23:06,360
+tycosides, which then
+can come and of course
+
+502
+00:23:06,360 --> 00:23:09,180
+become antigen
+-presenting cells to
+
+503
+00:23:09,180 --> 00:23:11,580
+eventually trigger the
+adaptive in response.
+
+504
+00:23:11,580 --> 00:23:14,740
+They can activate the
+transcription factor
+
+505
+00:23:14,740 --> 00:23:17,020
+NF-kappa-B that we
+talked about earlier in
+
+506
+00:23:17,020 --> 00:23:19,420
+the lecture. That's a
+very important signal
+
+507
+00:23:19,420 --> 00:23:22,100
+transduction pathways
+of inflammation.
+
+508
+00:23:23,070 --> 00:23:25,360
+And on the table
+right here shows you
+
+509
+00:23:25,360 --> 00:23:27,140
+different types of
+toll-like receptors
+
+510
+00:23:27,140 --> 00:23:31,240
+and the type of
+PAMPs they bind to.
+
+511
+00:23:31,240 --> 00:23:33,620
+So like total
+lycoceptor 1 is specific
+
+512
+00:23:33,620 --> 00:23:35,880
+to lipopeptides or
+LPS, so it's pretty
+
+513
+00:23:35,880 --> 00:23:38,520
+much detects gram
+-negative bacteria.
+
+514
+00:23:39,500 --> 00:23:43,360
+Total lycoceptor
+3 is specific to
+
+515
+00:23:43,360 --> 00:23:45,740
+double-stranded RNA.
+So of course we don't
+
+516
+00:23:45,740 --> 00:23:47,100
+have double
+-stranded RNA in our
+
+517
+00:23:47,100 --> 00:23:50,540
+cells. This is typically
+a viral species
+
+518
+00:23:51,400 --> 00:23:53,960
+or viral molecule.
+So total lycoceptor
+
+519
+00:23:53,960 --> 00:23:56,060
+3 is very specific
+to recognizing
+
+520
+00:23:56,680 --> 00:23:59,020
+viruses in the
+body. Toll-like
+
+521
+00:23:59,020 --> 00:24:01,660
+receptor 4, LPS,
+so gram-negatives,
+
+522
+00:24:01,940 --> 00:24:04,040
+and so on. As you
+can see, you know,
+
+523
+00:24:04,040 --> 00:24:05,660
+Toll-like receptor
+7 and 8, which
+
+524
+00:24:05,660 --> 00:24:07,480
+also recognize
+single-strand RNA,
+
+525
+00:24:07,720 --> 00:24:09,640
+detect virions.
+
+526
+00:24:10,980 --> 00:24:12,660
+You know, and
+people have seen,
+
+527
+00:24:12,660 --> 00:24:15,040
+actually, deficiencies
+of Toll-like receptors,
+
+528
+00:24:15,040 --> 00:24:16,480
+for example,
+it seems that
+
+529
+00:24:16,480 --> 00:24:20,540
+deficiency in Toll
+-like receptor 3 makes
+
+530
+00:24:20,540 --> 00:24:22,960
+people more susceptible
+to hepatitis,
+
+531
+00:24:23,520 --> 00:24:26,960
+sorry, ****** simplex
+virus, SSV. Total
+
+532
+00:24:26,960 --> 00:24:30,080
+lycra receptor 7 seem
+to be associated, or
+
+533
+00:24:30,080 --> 00:24:31,980
+deficiency in total
+lycra receptor 7 seem
+
+534
+00:24:31,980 --> 00:24:34,940
+to be associated with
+higher viral load
+
+535
+00:24:34,940 --> 00:24:37,440
+and disease progression
+in HIV patients.
+
+536
+00:24:37,440 --> 00:24:40,300
+So these, the presence
+of these receptors
+
+537
+00:24:40,300 --> 00:24:43,100
+and having them be
+intact is important.
+
+538
+00:24:45,540 --> 00:24:50,020
+it. So let's talk
+about fever as
+
+539
+00:24:50,020 --> 00:24:51,900
+part of the innate
+immune response.
+
+540
+00:24:51,980 --> 00:24:53,680
+A second line
+of difference.
+
+541
+00:24:53,820 --> 00:24:56,480
+We discovered
+inflammation. So
+
+542
+00:24:56,480 --> 00:24:59,120
+fever is typically
+induced by
+
+543
+00:24:59,120 --> 00:25:02,680
+what's called
+either exogenous
+
+544
+00:25:02,940 --> 00:25:06,600
+substances like
+LPS or endogenous
+
+545
+00:25:06,600 --> 00:25:08,610
+cytokines that are
+in our body. Both
+
+546
+00:25:09,020 --> 00:25:11,420
+fever-inducing substances
+are referred to
+
+547
+00:25:11,420 --> 00:25:14,340
+as pyrogens. That's
+what that term means.
+
+548
+00:25:14,420 --> 00:25:17,340
+So LPS would be an
+exogenous pyrogen,
+
+549
+00:25:17,340 --> 00:25:20,420
+while IL-1, IL-6 are
+endogenous pyrogens.
+
+550
+00:25:21,070 --> 00:25:22,940
+Either way,
+what's the purpose
+
+551
+00:25:22,940 --> 00:25:24,440
+and the benefit of fever?
+
+552
+00:25:24,640 --> 00:25:25,780
+Many actually,
+
+553
+00:25:26,130 --> 00:25:28,600
+and remember the
+definition of fever is
+
+554
+00:25:28,600 --> 00:25:33,860
+you have to have
+anywhere above 38 almost
+
+555
+00:25:33,860 --> 00:25:36,240
+degrees Celsius to
+be considered fever.
+
+556
+00:25:36,780 --> 00:25:39,460
+so mild fluctuation
+in temperature around
+
+557
+00:25:39,460 --> 00:25:41,620
+37 degrees celsius
+is not really fever.
+
+558
+00:25:42,120 --> 00:25:45,140
+Either way the
+rise in temperature
+
+559
+00:25:45,140 --> 00:25:46,900
+in our body actually
+inhibits the
+
+560
+00:25:46,900 --> 00:25:48,900
+multiplication of
+a lot of microbes
+
+561
+00:25:48,900 --> 00:25:51,060
+that especially
+bacteria that do not
+
+562
+00:25:51,060 --> 00:25:53,240
+like that higher
+end temperature so
+
+563
+00:25:53,600 --> 00:25:56,240
+so it inhibits their
+growth. It can actually
+
+564
+00:25:56,240 --> 00:25:58,620
+impede nutrition of
+bacteria by reducing
+
+565
+00:25:58,620 --> 00:26:01,640
+the amount of iron in
+our body and it can
+
+566
+00:26:01,640 --> 00:26:04,920
+increase the metabolism
+of our own enzymes
+
+567
+00:26:05,300 --> 00:26:08,620
+and stimulate immune
+reactions and some
+
+568
+00:26:08,620 --> 00:26:10,780
+of the naturally
+protective physiological
+
+569
+00:26:10,780 --> 00:26:14,420
+processes that we
+have. So fever, as long
+
+570
+00:26:14,420 --> 00:26:17,100
+as it's controlled
+and within reason, is
+
+571
+00:26:17,100 --> 00:26:20,240
+very beneficial in
+fighting a pathogen.
+
+572
+00:26:21,990 --> 00:26:24,480
+Part of the second line
+is a very important
+
+573
+00:26:24,480 --> 00:26:27,740
+group of molecules
+known as interferons.
+
+574
+00:26:28,700 --> 00:26:31,160
+Of course, this
+COVID pandemic has
+
+575
+00:26:31,160 --> 00:26:33,080
+really shed a light
+on the significance
+
+576
+00:26:33,080 --> 00:26:35,240
+and important an
+interferon and I'll
+
+577
+00:26:35,240 --> 00:26:36,780
+talk to you about
+that a little bit.
+
+578
+00:26:37,340 --> 00:26:39,980
+So interferons is a
+group of proteins.
+
+579
+00:26:40,160 --> 00:26:41,460
+There's actually three
+
+580
+00:26:41,460 --> 00:26:43,640
+major types
+of interferon.
+
+581
+00:26:45,400 --> 00:26:47,500
+Actually there's two
+types of interferons,
+
+582
+00:26:47,500 --> 00:26:49,680
+type 1 and type 2.
+Type 1 interferons are
+
+583
+00:26:49,680 --> 00:26:53,050
+the alpha and beta
+which are the antiviral
+
+584
+00:26:54,810 --> 00:26:57,080
+interferons and then
+there's the type 2 which
+
+585
+00:26:57,080 --> 00:27:00,140
+is the interferon
+gamma which is more of
+
+586
+00:27:00,140 --> 00:27:04,120
+a immune regulator.
+So Let's focus on the
+
+587
+00:27:04,120 --> 00:27:07,000
+type one interferon,
+which is the alpha and
+
+588
+00:27:07,000 --> 00:27:09,460
+beta. Alpha is made by
+dendritic cells, while
+
+589
+00:27:09,460 --> 00:27:11,600
+beta is made by
+fibroblasts, but they both
+
+590
+00:27:11,600 --> 00:27:15,740
+have antiviral properties.
+Typically, what
+
+591
+00:27:15,740 --> 00:27:18,110
+they do is they block
+the mRNA synthesis
+
+592
+00:27:19,360 --> 00:27:21,820
+of the virus and
+activate apoptosis
+
+593
+00:27:21,820 --> 00:27:23,680
+of the cell,
+thereby killing the
+
+594
+00:27:23,680 --> 00:27:25,020
+cell that the
+virus is infected.
+
+595
+00:27:25,660 --> 00:27:27,800
+There's been a
+significant amount of
+
+596
+00:27:27,800 --> 00:27:30,760
+information recently
+talking about the role
+
+597
+00:27:30,760 --> 00:27:34,100
+of interferon alpha
+and the level of
+
+598
+00:27:34,100 --> 00:27:36,660
+interferon alpha in
+patients that have COVID.
+
+599
+00:27:36,660 --> 00:27:39,740
+So the higher interferon
+alpha, the better
+
+600
+00:27:39,740 --> 00:27:42,300
+the outcomes. And also
+this also explains
+
+601
+00:27:42,300 --> 00:27:44,830
+why children don't
+seem to have severe
+
+602
+00:27:45,560 --> 00:27:48,000
+COVID is because they
+normally have a high
+
+603
+00:27:48,000 --> 00:27:50,400
+level of interferon
+alpha. Children in
+
+604
+00:27:50,400 --> 00:27:54,960
+general don't have
+a very well adaptive
+
+605
+00:27:54,960 --> 00:27:57,260
+immune response. Usually
+it ticks that will
+
+606
+00:27:57,260 --> 00:27:58,920
+become teenagers
+were to fully develop
+
+607
+00:27:58,920 --> 00:28:01,060
+so they rely more on
+the innate immunity.
+
+608
+00:28:01,060 --> 00:28:03,100
+And relying more
+on innate immunity
+
+609
+00:28:03,100 --> 00:28:04,360
+is not a bad thing
+because you can
+
+610
+00:28:04,360 --> 00:28:06,500
+block the virus to
+start with before
+
+611
+00:28:06,500 --> 00:28:08,640
+things get out of
+hand. So there's been
+
+612
+00:28:08,640 --> 00:28:10,280
+several articles
+that talks about
+
+613
+00:28:10,820 --> 00:28:13,960
+the level of Enderfuran
+Alpha and its
+
+614
+00:28:13,960 --> 00:28:17,120
+relationship to the
+severity of COVID.
+
+615
+00:28:17,480 --> 00:28:20,060
+So again really important
+
+616
+00:28:20,300 --> 00:28:21,840
+the stuff we're
+talking about here
+
+617
+00:28:21,840 --> 00:28:23,520
+and quite timely
+and significant.
+
+618
+00:28:23,760 --> 00:28:25,820
+On the other hand,
+interferon gamma
+
+619
+00:28:25,820 --> 00:28:28,380
+is a is a very
+important regulatory
+
+620
+00:28:28,380 --> 00:28:30,880
+molecule. It can
+actually regulate
+
+621
+00:28:30,880 --> 00:28:34,400
+and induce MHC
+molecules and enhance
+
+622
+00:28:34,400 --> 00:28:36,260
+co-stimulatory
+molecules in antigen
+
+623
+00:28:36,260 --> 00:28:38,880
+-presenting cells.
+It can induce like
+
+624
+00:28:38,880 --> 00:28:43,280
+adhesion and chemokines
+on antithelial cells.
+
+625
+00:28:43,280 --> 00:28:44,720
+So it just plays
+many different
+
+626
+00:28:44,720 --> 00:28:49,420
+roles in regulating
+the immune response.
+
+627
+00:28:50,600 --> 00:28:53,600
+It could even activate
+macrophages and
+
+628
+00:28:53,600 --> 00:28:55,760
+make them more
+microcedal. It can
+
+629
+00:28:55,760 --> 00:28:58,280
+promote class switching
+by antibodies,
+
+630
+00:28:58,280 --> 00:29:01,400
+sorry, by B cells to
+switch antibodies.
+
+631
+00:29:01,420 --> 00:29:03,260
+It can actually
+play a big role
+
+632
+00:29:03,260 --> 00:29:06,260
+in regulating TH1 and TH2
+
+633
+00:29:06,260 --> 00:29:08,760
+population because
+interferon gamma
+
+634
+00:29:09,780 --> 00:29:13,360
+favors the TH1 response,
+which we'll talk
+
+635
+00:29:13,360 --> 00:29:16,780
+about in the next
+lecture, which is the
+
+636
+00:29:16,780 --> 00:29:18,600
+adaptive beam response.
+But this again where
+
+637
+00:29:18,600 --> 00:29:20,680
+the innate immune
+response and the adaptive
+
+638
+00:29:20,680 --> 00:29:23,200
+immune response
+interplay. and interferon
+
+639
+00:29:23,200 --> 00:29:27,960
+gamma is one of
+those in the next few
+
+640
+00:29:27,960 --> 00:29:30,140
+slides we're going to
+be discussing the system
+
+641
+00:29:30,140 --> 00:29:32,340
+known as complement
+which is an integral
+
+642
+00:29:32,340 --> 00:29:35,820
+part of the innate
+second-level defense
+
+643
+00:29:35,980 --> 00:29:38,880
+so complement the name
+actually comes from
+
+644
+00:29:38,880 --> 00:29:40,900
+because it complements
+the immune system
+
+645
+00:29:40,900 --> 00:29:43,000
+when people discovered
+it that's where it
+
+646
+00:29:43,000 --> 00:29:46,020
+came from it's basically
+a group of like 16
+
+647
+00:29:46,020 --> 00:29:48,470
+proteins that are
+found in serum all
+
+648
+00:29:48,470 --> 00:29:51,120
+produced by liver cells
+so that's important then
+
+649
+00:29:51,120 --> 00:29:53,560
+the function of liver,
+they actually make
+
+650
+00:29:53,560 --> 00:29:58,040
+up almost 10 percent
+of serum proteins.
+
+651
+00:29:58,200 --> 00:30:01,940
+They are made inactive,
+so the complement
+
+652
+00:30:01,940 --> 00:30:04,460
+proteins, excuse
+me, are made and
+
+653
+00:30:04,460 --> 00:30:06,720
+they're inactive
+in the serum, but
+
+654
+00:30:06,720 --> 00:30:09,460
+then they're
+inactivated on the spot.
+
+655
+00:30:09,460 --> 00:30:11,410
+It's probably one of
+the older systems,
+
+656
+00:30:11,740 --> 00:30:14,760
+you know, from
+evolution in that sense.
+
+657
+00:30:15,120 --> 00:30:17,160
+And there are three
+different ways
+
+658
+00:30:17,160 --> 00:30:19,120
+to activate complement
+in the body.
+
+659
+00:30:21,040 --> 00:30:25,240
+They were, the discovery,
+the way it's listed
+
+660
+00:30:25,240 --> 00:30:27,680
+there, A, B, and C, is
+listed by discovery.
+
+661
+00:30:27,680 --> 00:30:30,000
+People discovered
+the classical pathway
+
+662
+00:30:30,000 --> 00:30:31,800
+first, and the alternative
+pathway, and then
+
+663
+00:30:31,800 --> 00:30:34,340
+the menand-binding
+mectin. But that's not
+
+664
+00:30:34,340 --> 00:30:38,340
+how they are actually
+activated in real
+
+665
+00:30:38,340 --> 00:30:42,120
+life. So let's just
+talk about each briefly,
+
+666
+00:30:42,120 --> 00:30:44,820
+and the function of
+complement next few slides,
+
+667
+00:30:44,820 --> 00:30:48,580
+and then discuss
+this so the classical
+
+668
+00:30:48,580 --> 00:30:51,740
+pathway from the name
+they referred to it
+
+669
+00:30:51,740 --> 00:30:54,840
+that way because that's
+the common way over
+
+670
+00:30:54,840 --> 00:30:58,280
+the the first time that
+you know compliment
+
+671
+00:30:58,280 --> 00:31:02,960
+was activated and that's
+typically occurs by
+
+672
+00:31:03,020 --> 00:31:05,580
+the presence of
+antigens and antibodies
+
+673
+00:31:05,580 --> 00:31:07,980
+whenever we have an
+antigen antibody binds to
+
+674
+00:31:07,980 --> 00:31:09,860
+it these two combination
+of two with those
+
+675
+00:31:09,860 --> 00:31:11,800
+complexes can actually
+activate the classical
+
+676
+00:31:11,800 --> 00:31:14,240
+pathway. Clearly, if
+you have to have an
+
+677
+00:31:14,240 --> 00:31:16,860
+antibody, that means
+you've already activated
+
+678
+00:31:16,860 --> 00:31:20,360
+T helper cells,
+probably TH17 or TH2,
+
+679
+00:31:20,360 --> 00:31:23,060
+and then you've made
+antibodies, you know,
+
+680
+00:31:23,060 --> 00:31:27,820
+sorry, then activated B
+cells to became plasma
+
+681
+00:31:27,820 --> 00:31:29,860
+cells to make antibodies.
+So that's a long
+
+682
+00:31:29,860 --> 00:31:33,520
+process and that's
+clearly takes more to
+
+683
+00:31:33,520 --> 00:31:35,500
+activate complement
+hours. You have to have
+
+684
+00:31:35,500 --> 00:31:38,060
+the adaptive immune
+response fully activated
+
+685
+00:31:38,060 --> 00:31:42,060
+um to activate the
+classical pathway so
+
+686
+00:31:42,060 --> 00:31:44,760
+it's actually the the
+pathway that activates
+
+687
+00:31:44,760 --> 00:31:47,900
+the latest on the other
+hand the alternative
+
+688
+00:31:47,900 --> 00:31:50,940
+pathway is the one
+that's activated first
+
+689
+00:31:51,220 --> 00:31:53,840
+the alternative
+pathway is actually has
+
+690
+00:31:53,840 --> 00:31:56,120
+a very mild it's
+almost like it's
+
+691
+00:31:56,120 --> 00:31:58,560
+constantly on a low
+level of activation very
+
+692
+00:31:58,560 --> 00:32:00,640
+low level and it's
+immediately like
+
+693
+00:32:00,640 --> 00:32:03,100
+triggered to go all the
+way up The alternative
+
+694
+00:32:03,100 --> 00:32:05,040
+pathway is activated
+by microbial
+
+695
+00:32:05,040 --> 00:32:08,840
+products like LPS or
+peptidoglycan. If you
+
+696
+00:32:08,840 --> 00:32:11,560
+add those things in
+blood or serum, it
+
+697
+00:32:11,560 --> 00:32:13,260
+will activate the
+alternative pathway.
+
+698
+00:32:13,420 --> 00:32:16,000
+And then there's
+the manan-binding
+
+699
+00:32:16,000 --> 00:32:19,300
+lectin pathway. And
+that's actually activated
+
+700
+00:32:19,300 --> 00:32:22,980
+by manan, which
+is a sugar that's
+
+701
+00:32:22,980 --> 00:32:25,360
+found on some
+bacterial cells. And so
+
+702
+00:32:25,360 --> 00:32:27,980
+that's also a quick
+pathway that's also
+
+703
+00:32:27,980 --> 00:32:30,880
+activated early on
+in the process. So
+
+704
+00:32:30,880 --> 00:32:33,660
+the classical tends
+to be the latest.
+
+705
+00:32:34,180 --> 00:32:37,540
+Either way, the
+complement cascade, guys,
+
+706
+00:32:37,540 --> 00:32:39,760
+reminds me a lot of
+the cloud and cascade.
+
+707
+00:32:39,760 --> 00:32:41,460
+They're very similar
+in both of them.
+
+708
+00:32:41,460 --> 00:32:43,640
+They both work on
+positive feedback.
+
+709
+00:32:43,640 --> 00:32:45,620
+They both have a
+common pathway.
+
+710
+00:32:46,860 --> 00:32:48,740
+Eventually, everything
+funnels the same
+
+711
+00:32:48,740 --> 00:32:51,720
+thing. They all have
+multiple ways by
+
+712
+00:32:51,720 --> 00:32:54,140
+which you can activate
+them. So either
+
+713
+00:32:54,270 --> 00:32:57,300
+way, classical,
+alternative, or man-man,
+
+714
+00:32:57,300 --> 00:32:59,760
+eventually results
+in the activation
+
+715
+00:32:59,760 --> 00:33:03,160
+of C3 protein, or
+complement 3 protein,
+
+716
+00:33:03,160 --> 00:33:06,600
+and that breaks apart
+into C3B and C3A.
+
+717
+00:33:06,840 --> 00:33:09,040
+C3A, as we talked already,
+is an inflammatory
+
+718
+00:33:09,040 --> 00:33:10,820
+chemical, so
+that can serve as
+
+719
+00:33:10,820 --> 00:33:12,700
+that purpose. Now,
+the C3B goes on and
+
+720
+00:33:12,700 --> 00:33:17,440
+activates C5. Now, C5
+becomes C5A and C5B.
+
+721
+00:33:17,780 --> 00:33:20,000
+C5A is an inflammatory
+chemical again.
+
+722
+00:33:20,000 --> 00:33:22,520
+C5b goes on and
+activates what's called
+
+723
+00:33:22,520 --> 00:33:25,320
+the membrane attack
+complex, which is a
+
+724
+00:33:25,320 --> 00:33:28,920
+combination of C5b,
+C6, C7, C8, and C9.
+
+725
+00:33:29,040 --> 00:33:31,360
+And then we'll talk
+about what happens with
+
+726
+00:33:31,360 --> 00:33:33,840
+the membrane attack
+complex and what's
+
+727
+00:33:33,840 --> 00:33:36,100
+achieved after that.
+So that's typically how
+
+728
+00:33:36,100 --> 00:33:38,840
+the complement system
+is activated, but we'll
+
+729
+00:33:38,840 --> 00:33:41,600
+discuss the rest in
+the next few slides.
+
+730
+00:33:42,270 --> 00:33:44,580
+So here let's talk a
+little bit about complement
+
+731
+00:33:44,580 --> 00:33:46,220
+function. What does
+complement do? So
+
+732
+00:33:46,220 --> 00:33:47,720
+complement has multiple
+functions as you can
+
+733
+00:33:47,720 --> 00:33:49,620
+see here, five different
+essential functions
+
+734
+00:33:49,620 --> 00:33:51,880
+but the really the
+most important one and
+
+735
+00:33:51,880 --> 00:33:54,990
+the most unique one
+to complement is
+
+736
+00:33:54,990 --> 00:33:57,720
+obstinization the reason
+i say that is because all
+
+737
+00:33:57,720 --> 00:33:59,950
+the other four
+functions are redundant
+
+738
+00:33:59,950 --> 00:34:02,960
+function two three four
+or five on this slide
+
+739
+00:34:02,960 --> 00:34:04,840
+are redundant with other
+things in other words
+
+740
+00:34:04,840 --> 00:34:08,280
+you can have other
+components of the immune
+
+741
+00:34:08,280 --> 00:34:11,480
+system chipping in
+or compensating for
+
+742
+00:34:11,480 --> 00:34:13,940
+lack of complement but
+the obstinization tends
+
+743
+00:34:13,940 --> 00:34:16,880
+to be an issue so if
+complement is deficient
+
+744
+00:34:16,880 --> 00:34:19,380
+then obstinization
+ends up being a problem
+
+745
+00:34:19,380 --> 00:34:21,940
+so again we talked
+about obstinization
+
+746
+00:34:21,940 --> 00:34:26,720
+before it's a key process
+basically it's tagging
+
+747
+00:34:26,720 --> 00:34:29,280
+foreign substances
+for destruction
+
+748
+00:34:29,280 --> 00:34:32,880
+predominantly the most
+effective way for complement
+
+749
+00:34:32,880 --> 00:34:36,240
+to obstinize is
+capsulated bacteria so
+
+750
+00:34:36,240 --> 00:34:38,600
+while capsules are very
+difficult to process
+
+751
+00:34:38,600 --> 00:34:40,180
+very difficult like
+we talked about last
+
+752
+00:34:40,180 --> 00:34:42,800
+semester in the bacterial
+physiology lecture.
+
+753
+00:34:43,560 --> 00:34:45,980
+They're difficult to
+clear, they survive
+
+754
+00:34:45,980 --> 00:34:48,480
+longer, they can
+avoid antibodies
+
+755
+00:34:49,100 --> 00:34:51,780
+and so on. So
+opsonizing a capsule is
+
+756
+00:34:51,780 --> 00:34:53,880
+critical to greater
+capsulated organisms.
+
+757
+00:34:53,880 --> 00:34:55,140
+So whenever we
+see complement
+
+758
+00:34:55,140 --> 00:34:57,420
+deficiency, the first
+thing we notice is a
+
+759
+00:34:57,420 --> 00:34:59,600
+patient becomes
+highly susceptible to
+
+760
+00:34:59,860 --> 00:35:01,260
+capsulated bacteria.
+
+761
+00:35:01,580 --> 00:35:05,580
+So capsulization is
+actually done by C3B and
+
+762
+00:35:05,580 --> 00:35:08,060
+C4B, these two complement
+components that
+
+763
+00:35:08,060 --> 00:35:10,140
+are important. But does
+complement have other
+
+764
+00:35:10,140 --> 00:35:13,560
+functions? Sure, Like
+number two, formation
+
+765
+00:35:13,560 --> 00:35:15,920
+of the membrane attack
+complex, which we
+
+766
+00:35:15,920 --> 00:35:18,140
+just discussed in the
+previous slide, or MAC,
+
+767
+00:35:19,040 --> 00:35:23,020
+and that is the
+combination of C5B, C6,
+
+768
+00:35:23,020 --> 00:35:25,820
+C7, C8, and C9. All
+these form a hole
+
+769
+00:35:25,820 --> 00:35:29,500
+in the cell membrane
+of, let's say,
+
+770
+00:35:29,500 --> 00:35:31,960
+bacteria or envelope
+viruses and pokes
+
+771
+00:35:31,960 --> 00:35:33,160
+hole in them. So
+it's basically you're
+
+772
+00:35:33,160 --> 00:35:35,700
+poking hole in the
+cell or the viral
+
+773
+00:35:35,700 --> 00:35:38,420
+envelope and you both
+lose the integrity.
+
+774
+00:35:38,810 --> 00:35:40,620
+So that's an important
+function, but
+
+775
+00:35:40,620 --> 00:35:44,240
+that can be also
+performed by other parts
+
+776
+00:35:44,280 --> 00:35:46,180
+of the system. For
+example, you know,
+
+777
+00:35:46,860 --> 00:35:49,540
+T-cellotoxic cells can
+do that. Microphages
+
+778
+00:35:49,540 --> 00:35:52,200
+can live and kill
+bacteria, neutrophils.
+
+779
+00:35:53,060 --> 00:35:56,240
+Also, we just talked
+about that several
+
+780
+00:35:56,240 --> 00:35:59,040
+times now, the
+byproducts of the
+
+781
+00:35:59,040 --> 00:36:03,480
+activation of C3 and
+C5 results in C3A and
+
+782
+00:36:03,480 --> 00:36:05,840
+C5A. Both are
+inflammatory chemicals
+
+783
+00:36:05,840 --> 00:36:08,020
+and mediators that
+can do all the
+
+784
+00:36:08,020 --> 00:36:09,760
+inflammation that we
+talked about before.
+
+785
+00:36:09,860 --> 00:36:12,770
+Also, complements need
+to help with priming
+
+786
+00:36:12,770 --> 00:36:15,420
+B cells and provide
+us with a much
+
+787
+00:36:15,420 --> 00:36:17,560
+more efficient antibody
+response. They can
+
+788
+00:36:17,560 --> 00:36:20,220
+also help clear immune
+complexes in the
+
+789
+00:36:20,220 --> 00:36:22,840
+body and cells that
+are destined to die.
+
+790
+00:36:24,780 --> 00:36:26,600
+So to highlight
+the importance
+
+791
+00:36:26,600 --> 00:36:30,840
+of complement
+in opsonization,
+
+792
+00:36:31,440 --> 00:36:34,860
+a lot of experiments
+were done on depleting,
+
+793
+00:36:34,860 --> 00:36:38,000
+for example, mice
+from complement and
+
+794
+00:36:38,000 --> 00:36:41,040
+seeing how they
+respond, specifically
+
+795
+00:36:41,310 --> 00:36:43,680
+complement C30s. If you
+do that for mice, for
+
+796
+00:36:43,680 --> 00:36:45,560
+example, C depleted
+mice or C deficient
+
+797
+00:36:45,560 --> 00:36:48,020
+mice seem to have a
+much lower antibody
+
+798
+00:36:48,020 --> 00:36:50,900
+response. Now granted,
+mice immune responses
+
+799
+00:36:50,900 --> 00:36:54,580
+are different from
+humans, but nevertheless
+
+800
+00:36:54,580 --> 00:36:56,360
+we can still learn
+a lot from them.
+
+801
+00:36:58,160 --> 00:37:01,140
+You know, C opsonized
+particles, so particles
+
+802
+00:37:01,140 --> 00:37:02,620
+that are opsonized
+by complement tend
+
+803
+00:37:02,620 --> 00:37:06,460
+to be a thousand
+times more active at
+
+804
+00:37:06,460 --> 00:37:10,780
+triggering antibodies
+production and be cleared
+
+805
+00:37:10,780 --> 00:37:13,500
+than unopsonized
+particles so clearly
+
+806
+00:37:13,500 --> 00:37:16,580
+complement aids the
+immoral immune response
+
+807
+00:37:16,580 --> 00:37:18,330
+which is of course
+the antibody response.
+
+808
+00:37:19,720 --> 00:37:22,620
+C3V seems to have
+many functions like
+
+809
+00:37:22,790 --> 00:37:25,760
+helping with B cell
+maturation and migration
+
+810
+00:37:25,760 --> 00:37:27,940
+to actually avoid
+organs activating
+
+811
+00:37:27,940 --> 00:37:30,600
+B cells by helping
+the mind to be
+
+812
+00:37:30,600 --> 00:37:34,500
+opsonized and promoting
+oxidized antigens and
+
+813
+00:37:34,500 --> 00:37:38,000
+helping dendritic
+cells to select for
+
+814
+00:37:38,000 --> 00:37:40,260
+the correct B cell
+that they activate.
+
+815
+00:37:40,260 --> 00:37:41,580
+Dendritic cells, if
+you remember, are
+
+816
+00:37:41,580 --> 00:37:44,780
+very important antigen
+-presenting cells,
+
+817
+00:37:44,820 --> 00:37:46,940
+like follicle
+dendritic cells.
+
+818
+00:37:48,900 --> 00:37:50,760
+And like we talked about,
+
+819
+00:37:50,960 --> 00:37:52,520
+complement can
+be activated by
+
+820
+00:37:52,520 --> 00:37:54,520
+the classical
+pathway or the
+
+821
+00:37:55,100 --> 00:37:57,040
+lectin pathway or
+the alternative
+
+822
+00:37:57,040 --> 00:37:58,480
+pathway. So again,
+with the classical
+
+823
+00:37:58,480 --> 00:38:00,680
+pathway, just to
+reiterate, you
+
+824
+00:38:00,680 --> 00:38:02,300
+have to have an
+antigen antibody.
+
+825
+00:38:02,620 --> 00:38:07,960
+Typically, the antibody
+is either RGM or
+
+826
+00:38:07,960 --> 00:38:10,760
+IgG. IgM is much
+more efficient at
+
+827
+00:38:10,760 --> 00:38:14,050
+activating complement
+because of its pentameric
+
+828
+00:38:14,050 --> 00:38:15,740
+structure. If you
+remember, it's got
+
+829
+00:38:15,740 --> 00:38:17,420
+a large structure,
+it can activate a lot
+
+830
+00:38:17,420 --> 00:38:20,120
+more complement than
+IgE, for example.
+
+831
+00:38:20,300 --> 00:38:22,000
+And it kind of makes
+sense because it's
+
+832
+00:38:22,000 --> 00:38:23,600
+one of the first
+antibody response.
+
+833
+00:38:24,860 --> 00:38:27,540
+For lectin, as we
+talked about, presence
+
+834
+00:38:27,540 --> 00:38:30,600
+of manan or mannose,
+for example, can
+
+835
+00:38:30,600 --> 00:38:33,780
+activate the manan
+-lectic pathway. It's
+
+836
+00:38:33,780 --> 00:38:36,560
+that carbohydrate
+and components of the
+
+837
+00:38:36,560 --> 00:38:39,240
+cell wall like the
+n-acetylcocosamine.
+
+838
+00:38:40,540 --> 00:38:42,760
+We mentioned a little
+bit the alternative
+
+839
+00:38:42,760 --> 00:38:45,620
+pathway is usually under
+a very low constant
+
+840
+00:38:45,620 --> 00:38:47,140
+state of activation,
+so it's always
+
+841
+00:38:47,140 --> 00:38:49,540
+ready and it's always
+the first one. Typically
+
+842
+00:38:49,540 --> 00:38:52,260
+required magnesium,
+a factor called B,
+
+843
+00:38:52,400 --> 00:38:54,460
+all important ones, and
+it's usually activated
+
+844
+00:38:54,460 --> 00:38:57,720
+by surface foreign
+substances like LPS.
+
+845
+00:39:00,320 --> 00:39:03,100
+This table kind of helps
+you summarize like,
+
+846
+00:39:03,100 --> 00:39:06,800
+for example, the role
+of different microbes,
+
+847
+00:39:07,840 --> 00:39:09,740
+the role of immunoglobulins
+and activating
+
+848
+00:39:09,740 --> 00:39:11,700
+pathways. For
+example, the classical
+
+849
+00:39:11,700 --> 00:39:15,120
+pathway immune complex
+is having IgM and
+
+850
+00:39:15,120 --> 00:39:17,460
+different subtypes where
+you can activate them.
+
+851
+00:39:18,900 --> 00:39:21,640
+and so on and for
+example different type
+
+852
+00:39:21,640 --> 00:39:25,500
+of organisms that are
+microorganisms that
+
+853
+00:39:25,500 --> 00:39:32,840
+can activate complement
+so this is showing
+
+854
+00:39:32,840 --> 00:39:35,360
+you the the full
+pathway of complement
+
+855
+00:39:35,360 --> 00:39:37,080
+again no need to
+memorize this that's
+
+856
+00:39:37,080 --> 00:39:39,260
+not the point but
+just to see how the
+
+857
+00:39:39,260 --> 00:39:41,840
+different points where
+the activating things
+
+858
+00:39:41,840 --> 00:39:43,620
+happens, for example
+the classical, the
+
+859
+00:39:43,620 --> 00:39:45,800
+alternative and the
+lexin, and how they all
+
+860
+00:39:45,800 --> 00:39:48,280
+funnel to the C3,
+which then becomes
+
+861
+00:39:48,280 --> 00:39:52,200
+splits to C3A and C3B,
+and then C3B converts
+
+862
+00:39:52,200 --> 00:39:55,660
+C5 to C5A and C5B,
+and then that goes
+
+863
+00:39:55,660 --> 00:39:58,960
+on activates the
+membrane attack complex.
+
+864
+00:40:01,500 --> 00:40:03,680
+This slide shows
+the membrane attack
+
+865
+00:40:03,680 --> 00:40:05,440
+complex. On the right
+side there you see an
+
+866
+00:40:05,440 --> 00:40:07,340
+electron micrograph
+of the membrane attack
+
+867
+00:40:07,340 --> 00:40:09,800
+complex embedded
+into the membrane of
+
+868
+00:40:09,800 --> 00:40:12,620
+a bacterium. These
+holes are basically
+
+869
+00:40:12,870 --> 00:40:15,880
+the membrane attack
+complex basically forming
+
+870
+00:40:15,880 --> 00:40:18,160
+these complexes and
+of course this causes
+
+871
+00:40:18,160 --> 00:40:20,720
+the membrane to leak
+and the cells to
+
+872
+00:40:20,720 --> 00:40:22,960
+lose integrity and
+eventually they're lice.
+
+873
+00:40:25,740 --> 00:40:28,560
+This table presents the
+different complement
+
+874
+00:40:28,560 --> 00:40:30,660
+deficiencies. You'll
+also have lectures
+
+875
+00:40:30,660 --> 00:40:32,340
+on complement
+deficiencies from some
+
+876
+00:40:32,340 --> 00:40:34,040
+of our clinical faculty
+so this will help
+
+877
+00:40:34,040 --> 00:40:36,300
+you at least have a
+basis for that. So
+
+878
+00:40:36,300 --> 00:40:39,180
+you can see different
+comparable deficiencies
+
+879
+00:40:39,180 --> 00:40:40,960
+that can happen
+along the way and
+
+880
+00:40:40,960 --> 00:40:43,880
+the consequence of
+that. So, for example,
+
+881
+00:40:44,940 --> 00:40:47,000
+deficiencies
+in preparidin,
+
+882
+00:40:47,440 --> 00:40:50,300
+P on the right bottom
+side there, can
+
+883
+00:40:50,300 --> 00:40:53,980
+predispose people to
+meningococcal meningitis.
+
+884
+00:40:54,420 --> 00:40:55,560
+Preparidin
+deficiency, for
+
+885
+00:40:55,560 --> 00:40:57,020
+example, is an x-linked
+
+886
+00:40:58,780 --> 00:41:01,120
+deficiency that's
+inherited that way and
+
+887
+00:41:01,120 --> 00:41:04,420
+males are of course more
+predisposed to that.
+
+888
+00:41:05,440 --> 00:41:08,480
+But if you look
+at in general, no
+
+889
+00:41:08,480 --> 00:41:09,860
+matter where
+deficiencies, deficiencies
+
+890
+00:41:09,860 --> 00:41:12,300
+in C5, deficiencies
+in factor D,
+
+891
+00:41:12,640 --> 00:41:16,500
+but they all basically
+result in severe
+
+892
+00:41:16,500 --> 00:41:19,100
+recurrent bacteria
+infections and more often
+
+893
+00:41:19,100 --> 00:41:22,720
+capsulated bacteria,
+capsulated bacteria.
+
+894
+00:41:22,900 --> 00:41:24,760
+And again, that
+goes back to the
+
+895
+00:41:24,760 --> 00:41:27,980
+importance of obstinization
+for complement.
+
+896
+00:41:28,280 --> 00:41:31,100
+Also, you'll see some
+in other places there
+
+897
+00:41:31,100 --> 00:41:33,220
+talks about like lupus
+-like disease sometimes
+
+898
+00:41:33,220 --> 00:41:36,820
+in activity a deficiency
+can cause that
+
+899
+00:41:36,820 --> 00:41:42,600
+there's also polymorphisms
+and C3 protein
+
+900
+00:41:42,600 --> 00:41:46,120
+that can results let's say
+in macular degeneration
+
+901
+00:41:46,120 --> 00:41:49,000
+so complement seem
+to play a lot of
+
+902
+00:41:49,000 --> 00:41:52,960
+different roles so the
+question arises how
+
+903
+00:41:52,960 --> 00:41:56,860
+do we protect our own
+cells from complement
+
+904
+00:41:56,860 --> 00:42:00,560
+once it becomes active
+and how do we also
+
+905
+00:42:00,560 --> 00:42:03,260
+protect complement proteins
+from being consumed
+
+906
+00:42:03,260 --> 00:42:05,820
+and degraded and
+basically use them so
+
+907
+00:42:05,820 --> 00:42:08,780
+there's actually several
+mechanisms that are
+
+908
+00:42:08,780 --> 00:42:10,620
+deployed by the body
+to protect complement
+
+909
+00:42:10,620 --> 00:42:12,920
+to protect ourselves
+from complement and
+
+910
+00:42:12,920 --> 00:42:16,180
+protect also complement
+components so there are
+
+911
+00:42:16,180 --> 00:42:19,140
+systems that prevent
+consumption of the
+
+912
+00:42:19,140 --> 00:42:22,020
+complement components
+for example if you see
+
+913
+00:42:22,020 --> 00:42:24,280
+on this table there
+are several like decay
+
+914
+00:42:24,280 --> 00:42:28,440
+accelerating factors
+CD55 basically delays
+
+915
+00:42:28,440 --> 00:42:32,920
+complement from being
+used and defaults into
+
+916
+00:42:32,920 --> 00:42:37,520
+stopping, for example,
+MAC formation, you
+
+917
+00:42:37,520 --> 00:42:39,620
+know, in that way you
+can, unless it actually
+
+918
+00:42:39,620 --> 00:42:42,820
+finds a membrane of
+a foreign substance.
+
+919
+00:42:44,400 --> 00:42:46,600
+Looking at, for
+example, membrane
+
+920
+00:42:46,600 --> 00:42:50,320
+cofactor protein
+CD46, that actually
+
+921
+00:42:52,060 --> 00:42:56,240
+protects our own
+membranes from complement.
+
+922
+00:42:56,980 --> 00:42:58,960
+There's also another
+one called CD59,
+
+923
+00:42:58,960 --> 00:43:00,920
+which we'll discuss
+on the next slide.
+
+924
+00:43:01,020 --> 00:43:03,840
+That also protects
+our own, it's found
+
+925
+00:43:03,840 --> 00:43:06,200
+on receptors of our
+own cells, and it
+
+926
+00:43:06,200 --> 00:43:09,920
+protects our own
+membranes from activation.
+
+927
+00:43:10,180 --> 00:43:13,260
+And so these actually,
+these existing
+
+928
+00:43:15,440 --> 00:43:19,320
+um substances both
+protect from being
+
+929
+00:43:19,320 --> 00:43:21,980
+consumed and protect us
+from being attacked by
+
+930
+00:43:22,620 --> 00:43:25,360
+here is the cd59 that
+we're talking about
+
+931
+00:43:25,360 --> 00:43:28,020
+and this complement
+component is important
+
+932
+00:43:28,020 --> 00:43:30,200
+and it's found in a
+lot of our cells as
+
+933
+00:43:30,200 --> 00:43:32,020
+broadly expects
+throughout tissues in the
+
+934
+00:43:32,020 --> 00:43:33,780
+body it inhibits
+actually the binding of
+
+935
+00:43:33,780 --> 00:43:36,720
+c9 and without c9 you
+cannot form the mac
+
+936
+00:43:36,720 --> 00:43:41,840
+if you remember mac
+is c5b C6, C7, C8,
+
+937
+00:43:41,840 --> 00:43:44,680
+and C9. And C9 is the
+major component here,
+
+938
+00:43:44,680 --> 00:43:47,830
+and so without that
+you cannot form MAC.
+
+939
+00:43:50,300 --> 00:43:53,540
+And this is kind of
+illustrated with people
+
+940
+00:43:53,540 --> 00:43:55,560
+that have actually
+deficiencies in expression
+
+941
+00:43:55,560 --> 00:43:58,680
+of CD59. These
+individuals develop what's
+
+942
+00:43:58,680 --> 00:44:02,580
+called proxysmal
+nocturnum hemoglobinuria,
+
+943
+00:44:02,580 --> 00:44:05,300
+and the reason it's
+named that way is
+
+944
+00:44:05,300 --> 00:44:07,820
+because, you know, over
+time when they wake up
+
+945
+00:44:07,820 --> 00:44:09,860
+in the morning their
+urine becomes black
+
+946
+00:44:09,860 --> 00:44:13,860
+because as they sleep
+breakdown of the blood
+
+947
+00:44:13,860 --> 00:44:16,360
+cells accelerates and
+it just accumulates
+
+948
+00:44:17,860 --> 00:44:20,700
+so sometimes
+confused a lot with
+
+949
+00:44:20,700 --> 00:44:24,120
+like hemolytic
+anemia pancycopenia
+
+950
+00:44:25,240 --> 00:44:27,610
+and so on it
+makes it so much
+
+951
+00:44:27,610 --> 00:44:28,800
+similar to that
+so it's kind of
+
+952
+00:44:28,800 --> 00:44:30,640
+difficult sometimes
+to diagnose let's
+
+953
+00:44:44,070 --> 00:44:46,430
+switch topics and talk
+about how phycocytes
+
+954
+00:44:46,430 --> 00:44:48,970
+arrive at the site
+of inflammation how
+
+955
+00:44:48,970 --> 00:44:50,800
+do they get to the
+site, how do they leave
+
+956
+00:44:50,800 --> 00:44:53,730
+the bloodstream and
+arrive at the actual
+
+957
+00:44:53,730 --> 00:44:57,170
+tissue, and how do they
+get to exactly where
+
+958
+00:44:57,170 --> 00:44:59,150
+the antigen is and
+how I'm in on that
+
+959
+00:44:59,150 --> 00:45:01,970
+location. Several
+things are at play here.
+
+960
+00:45:02,530 --> 00:45:05,130
+Phagocytes first
+follow a chemokine
+
+961
+00:45:05,130 --> 00:45:07,170
+gradient, so the
+more there are
+
+962
+00:45:07,170 --> 00:45:09,910
+chemokines, the more
+they'll chase that.
+
+963
+00:45:10,550 --> 00:45:12,610
+It's basically
+concentration dependent.
+
+964
+00:45:12,610 --> 00:45:14,090
+There's over 50
+different kind
+
+965
+00:45:14,090 --> 00:45:15,210
+of chemokines
+and they can be
+
+966
+00:45:15,210 --> 00:45:17,490
+secreted in different
+concentrations.
+
+967
+00:45:17,710 --> 00:45:19,810
+Phagocytes have
+chemokine receptors that
+
+968
+00:45:19,810 --> 00:45:21,800
+allow them to interact
+with these chemokines,
+
+969
+00:45:21,800 --> 00:45:24,830
+and then they
+basically follow that
+
+970
+00:45:25,150 --> 00:45:27,190
+gradient to get
+to exactly where
+
+971
+00:45:27,190 --> 00:45:28,470
+the antigen is.
+But of course
+
+972
+00:45:28,470 --> 00:45:29,830
+before that they
+have to leave
+
+973
+00:45:30,030 --> 00:45:33,420
+the circulation,
+and to do that they
+
+974
+00:45:33,590 --> 00:45:36,390
+use their integrins,
+surface receptors,
+
+975
+00:45:36,990 --> 00:45:40,130
+cell surface
+receptors or CAMs, and
+
+976
+00:45:40,130 --> 00:45:42,910
+integrins basically
+then bind to selectives,
+
+977
+00:45:42,910 --> 00:45:44,610
+and selectives are
+also receptors that
+
+978
+00:45:44,610 --> 00:45:46,670
+are found on the
+endothelial cells,
+
+979
+00:45:46,670 --> 00:45:48,570
+the squamous cells
+of the blood vessels.
+
+980
+00:45:48,890 --> 00:45:52,190
+uh once the civic
+integrand binds that
+
+981
+00:45:52,190 --> 00:45:56,590
+specific selectin they
+will um excuse me bind
+
+982
+00:45:56,590 --> 00:45:59,070
+to the wall of the
+etothenium roll the cell
+
+983
+00:45:59,070 --> 00:46:00,810
+will roll and then
+find the space between
+
+984
+00:46:00,810 --> 00:46:03,130
+two squamous cells
+and then by a process
+
+985
+00:46:03,130 --> 00:46:05,030
+called diacodesis they'll
+squeeze in between
+
+986
+00:46:05,030 --> 00:46:07,730
+and then keep continuing
+to following that
+
+987
+00:46:07,910 --> 00:46:09,750
+chemokine gradient
+until they get to the
+
+988
+00:46:09,750 --> 00:46:12,170
+exact location of that
+foreign substances
+
+989
+00:46:13,650 --> 00:46:15,790
+which then they can
+you know put those
+
+990
+00:46:15,790 --> 00:46:17,950
+more cytokines
+and or phagocytide
+
+991
+00:46:17,950 --> 00:46:20,270
+to sell whatever they
+need to do to deal
+
+992
+00:46:20,270 --> 00:46:22,470
+with that foreign
+substance here's
+
+993
+00:46:29,690 --> 00:46:32,270
+an example of
+different type of
+
+994
+00:46:33,190 --> 00:46:37,390
+chemokines and their
+receptors and you can
+
+995
+00:46:37,390 --> 00:46:39,410
+see here so there's
+you know there's again
+
+996
+00:46:39,410 --> 00:46:40,650
+we talked about
+there's at least 50
+
+997
+00:46:40,650 --> 00:46:42,830
+different kind of
+chemokines and the receptors
+
+998
+00:46:42,830 --> 00:46:45,410
+are called so the
+chemokines are CC you
+
+999
+00:46:45,410 --> 00:46:48,610
+know chemokine chemicals
+and their receptors
+
+1000
+00:46:48,610 --> 00:46:51,330
+are called CCRs you
+know so like CCR5
+
+1001
+00:46:51,330 --> 00:46:55,390
+and CXCR3 are are both
+chemokine receptors
+
+1002
+00:46:55,390 --> 00:46:58,690
+and if those seem to
+ring a bell these are
+
+1003
+00:46:58,690 --> 00:47:03,620
+also two receptors
+that HIV binds to to
+
+1004
+00:47:03,620 --> 00:47:06,710
+actually gain entry
+into both macrophages
+
+1005
+00:47:06,710 --> 00:47:11,610
+and T helper cells so
+so take note of that.
+
+1006
+00:47:11,810 --> 00:47:14,910
+And yeah, so the variation
+of these different
+
+1007
+00:47:14,910 --> 00:47:19,070
+receptors and ligands
+as a result can
+
+1008
+00:47:19,850 --> 00:47:22,070
+determine which
+leukocytes get to which
+
+1009
+00:47:22,070 --> 00:47:24,090
+tissue. That's how you
+can get that selectivity.
+
+1010
+00:47:24,190 --> 00:47:26,210
+Now of course there
+are defects in
+
+1011
+00:47:26,210 --> 00:47:28,510
+sometimes in these
+particular receptors and
+
+1012
+00:47:28,510 --> 00:47:30,530
+when that happens you
+end up with inefficiency
+
+1013
+00:47:30,570 --> 00:47:36,390
+and inability to
+hone these leukocytes
+
+1014
+00:47:36,390 --> 00:47:38,670
+to a certain location
+and subsequently, for
+
+1015
+00:47:38,670 --> 00:47:40,470
+example, you can't
+get rid of infections,
+
+1016
+00:47:41,170 --> 00:47:42,810
+foreign substances.
+So one example
+
+1017
+00:47:42,810 --> 00:47:44,990
+of that is locus
+side adhesion
+
+1018
+00:47:44,990 --> 00:47:47,190
+deficiency syndrome
+or LAD syndrome.
+
+1019
+00:47:47,190 --> 00:47:49,930
+And that's really a
+defect in the production
+
+1020
+00:47:49,930 --> 00:47:52,770
+of the receptors,
+you know, called beta
+
+1021
+00:47:52,770 --> 00:47:54,890
+integrins, which we
+just talked about. They
+
+1022
+00:47:54,890 --> 00:47:56,730
+bind to the selectors
+of the therial ones.
+
+1023
+00:47:57,150 --> 00:47:59,290
+LAD patients typically
+suffer from life
+
+1024
+00:47:59,290 --> 00:48:01,650
+-threatening both bacterial
+and fungal infections
+
+1025
+00:48:01,650 --> 00:48:04,470
+and cannot actually
+form abscesses. so they
+
+1026
+00:48:04,470 --> 00:48:08,990
+cannot like you know
+basically deal and
+
+1027
+00:48:08,990 --> 00:48:13,590
+kill a foreign substance
+so the neutrophils
+
+1028
+00:48:13,590 --> 00:48:17,530
+don't really work very
+well at the same time
+
+1029
+00:48:17,530 --> 00:48:20,150
+this knowledge can give
+us some applications
+
+1030
+00:48:20,150 --> 00:48:22,470
+for example you can use
+monoclonal antibodies
+
+1031
+00:48:22,470 --> 00:48:26,530
+against specific
+ligands like let's say
+
+1032
+00:48:26,530 --> 00:48:30,190
+v-cams and block them.
+So, for example, in
+
+1033
+00:48:30,190 --> 00:48:33,230
+multiple sclerosis
+patients where the, where
+
+1034
+00:48:33,230 --> 00:48:35,210
+our immune system
+cells, specifically T
+
+1035
+00:48:35,210 --> 00:48:38,510
+-cells, attack the myelin,
+you can prevent these
+
+1036
+00:48:38,510 --> 00:48:40,670
+T-cells from migrating
+this into the nervous
+
+1037
+00:48:40,670 --> 00:48:43,710
+system by simply
+blocking the ligand on,
+
+1038
+00:48:43,710 --> 00:48:47,190
+let's say, the
+oligodendrocytes and then
+
+1039
+00:48:47,190 --> 00:48:49,740
+subsequently the T-cells
+will just simply not
+
+1040
+00:48:49,740 --> 00:48:51,970
+migrate there. So,
+it's kind of a really
+
+1041
+00:48:51,970 --> 00:48:54,530
+neat way of since you
+know that this is the
+
+1042
+00:48:54,530 --> 00:48:56,570
+cause so these could
+be like therapeutic
+
+1043
+00:48:56,570 --> 00:49:01,050
+applications obviously
+these are not available
+
+1044
+00:49:01,050 --> 00:49:04,010
+yet but hopefully they
+show a lot of promise
+
+1045
+00:49:04,990 --> 00:49:07,890
+so we spoke about we
+spoke about phycocytosis
+
+1046
+00:49:08,110 --> 00:49:10,730
+phycocyte chemotaxis
+so let's switch
+
+1047
+00:49:10,730 --> 00:49:12,290
+and talk about the
+actual process of
+
+1048
+00:49:12,290 --> 00:49:14,630
+phycocytosis phycocytosis
+part of the innate
+
+1049
+00:49:14,630 --> 00:49:16,590
+immune response is
+it's part of the second
+
+1050
+00:49:16,590 --> 00:49:20,150
+line along with
+inflammation along with
+
+1051
+00:49:20,150 --> 00:49:22,710
+complement and other
+systems we talked about,
+
+1052
+00:49:22,850 --> 00:49:25,490
+thagocytes is
+critically important.
+
+1053
+00:49:25,580 --> 00:49:27,410
+Thagocytes, as you can
+see from the figure
+
+1054
+00:49:27,410 --> 00:49:30,410
+on top there, top
+left, express many
+
+1055
+00:49:30,410 --> 00:49:32,570
+different receptors,
+toll-like receptors,
+
+1056
+00:49:33,610 --> 00:49:35,930
+you know, FCR
+receptors, these are
+
+1057
+00:49:35,930 --> 00:49:38,050
+for antibodies,
+complement receptors,
+
+1058
+00:49:38,450 --> 00:49:40,790
+receptors for defensins,
+like those molecules
+
+1059
+00:49:40,790 --> 00:49:42,730
+that are produced,
+and so on. So there's
+
+1060
+00:49:42,730 --> 00:49:45,290
+many, many receptors.
+They use these receptors
+
+1061
+00:49:45,290 --> 00:49:48,650
+to bind to different
+molecules and they
+
+1062
+00:49:48,650 --> 00:49:52,180
+also combine and also
+recognize pathogens.
+
+1063
+00:49:52,490 --> 00:49:55,990
+And so that's the first
+key step is first to
+
+1064
+00:49:55,990 --> 00:50:04,830
+attach, you know, to
+the receptor. And then
+
+1065
+00:50:04,830 --> 00:50:09,590
+second is to recognize
+whether this substance
+
+1066
+00:50:09,590 --> 00:50:13,130
+you bind to, do you
+want to... is it
+
+1067
+00:50:13,130 --> 00:50:15,170
+the foreign or is it
+self? So that's very
+
+1068
+00:50:15,170 --> 00:50:18,070
+important. Typically
+our cells produce like
+
+1069
+00:50:18,070 --> 00:50:21,970
+molecules called CD47s
+and these molecules tell
+
+1070
+00:50:21,970 --> 00:50:25,170
+a phagocyte that we
+are self-antigens so
+
+1071
+00:50:25,170 --> 00:50:27,250
+you don't have to
+destroy us and so after
+
+1072
+00:50:27,250 --> 00:50:29,630
+that step the phagocyte
+basically will let go
+
+1073
+00:50:29,630 --> 00:50:33,610
+of that particular
+cell. If that cell is
+
+1074
+00:50:33,610 --> 00:50:35,790
+getting old and dying
+sometimes they don't
+
+1075
+00:50:35,790 --> 00:50:38,970
+express as many of these
+CD47s and subsequently
+
+1076
+00:50:38,970 --> 00:50:40,970
+the phagocyte will
+destroy itself and
+
+1077
+00:50:40,970 --> 00:50:42,130
+that's a good thing
+because these cells are
+
+1078
+00:50:42,130 --> 00:50:44,490
+actually dying anyway
+and need to be cleared.
+
+1079
+00:50:44,790 --> 00:50:47,190
+Again so if it's
+a dying cell or if
+
+1080
+00:50:47,190 --> 00:50:50,650
+it's a pathogen then
+the phagocyte will
+
+1081
+00:50:50,650 --> 00:50:52,430
+recognize there's
+something to destroy
+
+1082
+00:50:52,430 --> 00:50:54,350
+and then they will
+start engulfing it.
+
+1083
+00:50:54,350 --> 00:50:56,670
+Of course using
+axiom polymerization
+
+1084
+00:50:56,670 --> 00:51:01,250
+they'll form a
+phagosome and then once
+
+1085
+00:51:01,250 --> 00:51:02,810
+the phagosome is
+inside the cell
+
+1086
+00:51:02,810 --> 00:51:04,510
+they'll fuse it
+with light zones. Of
+
+1087
+00:51:04,510 --> 00:51:06,730
+course light zones
+have digestive enzymes
+
+1088
+00:51:06,730 --> 00:51:09,750
+and other degradative
+substances.
+
+1089
+00:51:10,370 --> 00:51:14,790
+A drop of pH takes
+place here and as a
+
+1090
+00:51:14,790 --> 00:51:17,370
+result the enzymes become
+active and you form
+
+1091
+00:51:17,370 --> 00:51:19,550
+what's called a
+phagolysosome and the
+
+1092
+00:51:19,550 --> 00:51:22,350
+phagolysosome becomes
+active and you digest
+
+1093
+00:51:22,350 --> 00:51:25,150
+the substance and
+eventually hopefully you
+
+1094
+00:51:25,150 --> 00:51:28,730
+expel the debris from
+breaking down or in
+
+1095
+00:51:28,730 --> 00:51:30,870
+the case of like
+macrophages or dendritic
+
+1096
+00:51:30,870 --> 00:51:33,190
+cells which are also
+dendritic cells they
+
+1097
+00:51:33,190 --> 00:51:37,510
+can present those
+pieces of the pathogen
+
+1098
+00:51:37,510 --> 00:51:40,710
+on the surface on MHC
+class tools, right,
+
+1099
+00:51:41,250 --> 00:51:42,710
+for antigen presentation.
+
+1100
+00:51:42,710 --> 00:51:44,750
+And we'll discuss
+antigen presentation
+
+1101
+00:51:44,750 --> 00:51:47,130
+in the, we've discussed
+it last semester,
+
+1102
+00:51:47,350 --> 00:51:49,770
+a part of the,
+that immunity, but
+
+1103
+00:51:49,770 --> 00:51:51,210
+we'll discuss it
+also this time.
+
+1104
+00:51:51,330 --> 00:51:54,990
+So again, a very
+important process, just
+
+1105
+00:51:54,990 --> 00:51:58,010
+recognize that a lot
+of pathogens have
+
+1106
+00:51:58,010 --> 00:52:01,390
+evolved different ways
+to avoid phagocytosis,
+
+1107
+00:52:01,390 --> 00:52:03,430
+like we've talked
+about how capsules
+
+1108
+00:52:03,430 --> 00:52:06,450
+are difficult to for
+the phagocytes to
+
+1109
+00:52:06,450 --> 00:52:08,570
+attach and recognize
+but there's other
+
+1110
+00:52:08,570 --> 00:52:11,330
+pathogens that have
+evolved ways for example
+
+1111
+00:52:11,330 --> 00:52:14,830
+some pathogens prevent
+the phagosome from
+
+1112
+00:52:14,830 --> 00:52:17,410
+the lysone to fuse
+or when they do fuse
+
+1113
+00:52:17,410 --> 00:52:19,890
+they prevent the pH
+from drop or sometimes
+
+1114
+00:52:19,890 --> 00:52:23,190
+they'll escape the
+phagosome and so on
+
+1115
+00:52:25,190 --> 00:52:27,550
+so so far we've
+kind of talked about
+
+1116
+00:52:27,550 --> 00:52:30,530
+how phagocytes can
+recognize mainly
+
+1117
+00:52:30,950 --> 00:52:32,310
+extracellular
+pathogens like
+
+1118
+00:52:32,310 --> 00:52:33,590
+a bacterium.
+What happens if
+
+1119
+00:52:33,590 --> 00:52:35,110
+the pathogen is
+intracellular?
+
+1120
+00:52:35,630 --> 00:52:37,690
+How is that recognized?
+So there's actually
+
+1121
+00:52:37,690 --> 00:52:39,570
+silozoic receptors
+specifically
+
+1122
+00:52:39,570 --> 00:52:42,110
+designed to recognize
+intracellular pathogens.
+
+1123
+00:52:42,110 --> 00:52:45,890
+These are part of the
+pattern recognition
+
+1124
+00:52:45,890 --> 00:52:47,570
+receptors that we
+discussed before.
+
+1125
+00:52:47,950 --> 00:52:49,330
+And so we talked about
+pattern recognition
+
+1126
+00:52:49,330 --> 00:52:50,550
+receptors, we talked
+about toll-like
+
+1127
+00:52:50,550 --> 00:52:52,630
+receptors, c-reactive
+protein and so on, but
+
+1128
+00:52:52,630 --> 00:52:54,930
+these are also very
+important and they're
+
+1129
+00:52:54,930 --> 00:52:56,970
+recognized in the
+cellular pattern. Examples
+
+1130
+00:52:56,970 --> 00:53:00,190
+of those receptors are
+nod-like receptors.
+
+1131
+00:53:00,630 --> 00:53:03,050
+For example, nod-like
+receptors recognize
+
+1132
+00:53:04,170 --> 00:53:06,070
+peptoclican, let's
+say chunks of it,
+
+1133
+00:53:07,830 --> 00:53:09,370
+with noic acid-inducible
+
+1134
+00:53:09,370 --> 00:53:11,490
+gene 1-like helicases.
+
+1135
+00:53:11,610 --> 00:53:13,970
+These specific
+receptors, I
+
+1136
+00:53:13,970 --> 00:53:15,970
+know it's a
+wrong and earful,
+
+1137
+00:53:16,130 --> 00:53:18,070
+recognize double
+-strand RNA.
+
+1138
+00:53:18,190 --> 00:53:21,290
+And so there are
+many ways to also
+
+1139
+00:53:21,290 --> 00:53:23,270
+recognize, and that's
+crucial to that.
+
+1140
+00:53:24,070 --> 00:53:27,450
+Nod-like receptors
+actually form part of
+
+1141
+00:53:27,450 --> 00:53:29,250
+what's called the
+inflammasome so they can
+
+1142
+00:53:29,250 --> 00:53:32,570
+trigger inflammation
+and cell death in the
+
+1143
+00:53:32,570 --> 00:53:36,910
+actual cell that's
+infected by the pathogen.
+
+1144
+00:53:37,260 --> 00:53:38,830
+So these are
+important, they play
+
+1145
+00:53:38,830 --> 00:53:41,130
+a very important
+role. For example,
+
+1146
+00:53:42,020 --> 00:53:46,030
+Nod polymorphisms
+have been found among
+
+1147
+00:53:46,030 --> 00:53:48,870
+individuals and peoples
+and they've noticed
+
+1148
+00:53:48,870 --> 00:53:50,660
+that if people have
+these mutations
+
+1149
+00:53:50,660 --> 00:53:53,830
+they can be let's say
+more higher risk of
+
+1150
+00:53:53,830 --> 00:53:56,510
+Crohn disease more
+bacterial infections
+
+1151
+00:53:56,510 --> 00:53:58,770
+and they can have a
+little more IgE which
+
+1152
+00:53:58,770 --> 00:54:01,110
+can trigger more
+allergies they are more
+
+1153
+00:54:01,110 --> 00:54:03,770
+prone to eczemas and
+even eczemas so it's
+
+1154
+00:54:03,770 --> 00:54:07,270
+kind of an interesting
+clinical associations
+
+1155
+00:54:07,270 --> 00:54:09,390
+with these receptors
+and their role
+
+1156
+00:54:11,090 --> 00:54:13,630
+so you we have talked
+about different types
+
+1157
+00:54:13,630 --> 00:54:15,650
+of phagocytes and
+histology and so on so
+
+1158
+00:54:15,650 --> 00:54:17,450
+it's kind of a review
+but it's an important
+
+1159
+00:54:17,450 --> 00:54:19,830
+review for you to
+remember that you know
+
+1160
+00:54:19,830 --> 00:54:22,850
+phagocytes are mainly
+divided into two major
+
+1161
+00:54:22,850 --> 00:54:26,990
+types polymorphonuclear
+cells and mononuclear
+
+1162
+00:54:26,990 --> 00:54:28,510
+cells there's also
+another terminology
+
+1163
+00:54:28,510 --> 00:54:32,050
+and they're both
+equally important
+polymorphonuclear
+
+1164
+00:54:32,050 --> 00:54:33,930
+cells are also
+called granulocytes
+
+1165
+00:54:33,930 --> 00:54:37,750
+and mononuclear cells
+are called agranulocytes
+
+1166
+00:54:37,750 --> 00:54:39,690
+and the combination
+of terminology
+
+1167
+00:54:39,690 --> 00:54:41,710
+actually helps identify
+these cells. So
+
+1168
+00:54:41,710 --> 00:54:46,430
+polymorphonuclear cells
+or granulocytes have a
+
+1169
+00:54:46,430 --> 00:54:48,590
+polymorphic nucleus.
+They have one nuclei but
+
+1170
+00:54:48,590 --> 00:54:52,070
+it's shaped weird and
+that's how you can
+
+1171
+00:54:52,070 --> 00:54:54,670
+tell them. But they also
+are granulocytes which
+
+1172
+00:54:54,670 --> 00:54:58,370
+means they have granules
+in their cytoplasm.
+
+1173
+00:54:58,370 --> 00:55:01,470
+If the granules don't
+show up with the
+
+1174
+00:55:01,470 --> 00:55:03,830
+HME stain, in other
+words to stain neutrally
+
+1175
+00:55:03,830 --> 00:55:07,570
+those are called
+neutrophils from neutral
+
+1176
+00:55:07,570 --> 00:55:13,710
+granules if they're
+stains with eosin which
+
+1177
+00:55:13,710 --> 00:55:15,330
+is usually pink the
+granules those are
+
+1178
+00:55:15,330 --> 00:55:18,110
+called eosinophils
+and if the stains are
+
+1179
+00:55:18,110 --> 00:55:20,930
+stained with hematoxalan
+which is the blue dye
+
+1180
+00:55:20,930 --> 00:55:23,970
+which is also basic
+they're called basophils
+
+1181
+00:55:23,970 --> 00:55:25,830
+so that's where the
+terms neutrophils
+
+1182
+00:55:25,830 --> 00:55:28,190
+eosinophils or basophils
+come from is actually
+
+1183
+00:55:28,190 --> 00:55:31,190
+from the type of
+reaction with the stain.
+
+1184
+00:55:32,230 --> 00:55:34,650
+Mononuclear cells,
+mononucleus, they
+
+1185
+00:55:34,650 --> 00:55:37,130
+simply have a regular
+size nucleus, just kind
+
+1186
+00:55:37,130 --> 00:55:39,090
+of nice and spherical,
+usually large,
+
+1187
+00:55:39,430 --> 00:55:40,910
+but they're also called
+
+1188
+00:55:41,160 --> 00:55:42,530
+agranulocytes because
+they don't have
+
+1189
+00:55:42,530 --> 00:55:44,280
+any granules in
+the cytoplasm.
+
+1190
+00:55:44,870 --> 00:55:47,180
+And those would
+be your monocytes,
+
+1191
+00:55:47,180 --> 00:55:48,840
+macrophages, of
+course they're
+
+1192
+00:55:48,840 --> 00:55:50,360
+monocytes when they're
+in circulation,
+
+1193
+00:55:50,360 --> 00:55:51,850
+macrophages when
+they're in tissue,
+
+1194
+00:55:52,210 --> 00:55:54,890
+dendritic cells,
+now osteoclasties
+
+1195
+00:55:54,890 --> 00:55:56,470
+are all part of
+the malnuclear
+
+1196
+00:55:56,470 --> 00:55:59,050
+cells and things
+like microglia
+
+1197
+00:55:59,060 --> 00:56:01,520
+which are also
+type of macrophages
+
+1198
+00:56:02,790 --> 00:56:05,050
+here on the right
+side shows the kind
+
+1199
+00:56:05,050 --> 00:56:07,230
+of precursor and how
+you form different
+
+1200
+00:56:07,690 --> 00:56:09,830
+macrophages and
+andritic cells they all
+
+1201
+00:56:09,830 --> 00:56:12,190
+originate from one
+main cell originally in
+
+1202
+00:56:12,190 --> 00:56:14,330
+bone marrow and
+differentiate into different
+
+1203
+00:56:14,330 --> 00:56:17,610
+types of cells on
+the on the bottom
+
+1204
+00:56:17,610 --> 00:56:19,860
+right side that red
+picture with the green
+
+1205
+00:56:19,860 --> 00:56:21,870
+that's actually an
+eosinophil kind of a
+
+1206
+00:56:21,870 --> 00:56:23,870
+really neat thing was
+so you can see the
+
+1207
+00:56:23,870 --> 00:56:26,730
+eosinophil nuclei stay
+in red and the cytoplasm
+
+1208
+00:56:26,730 --> 00:56:28,710
+stay in green, the
+fluorescence stain.
+
+1209
+00:56:28,990 --> 00:56:31,250
+But what you're seeing
+is what eosinophils
+
+1210
+00:56:31,370 --> 00:56:33,800
+kind of do is they
+actually fling their DNA
+
+1211
+00:56:33,800 --> 00:56:36,410
+from their cell. They
+just like fling it out
+
+1212
+00:56:36,410 --> 00:56:39,050
+and use it to trap
+worms. Because remember
+
+1213
+00:56:39,050 --> 00:56:41,470
+eosinophils are anti
+-worm and they're very
+
+1214
+00:56:41,470 --> 00:56:43,480
+effective at doing that.
+So they use the DNA
+
+1215
+00:56:43,480 --> 00:56:45,490
+kind of like to trap
+the worms and the worms
+
+1216
+00:56:45,490 --> 00:56:47,830
+can't move much because
+DNA is very sticky.
+
+1217
+00:56:48,870 --> 00:56:50,190
+It's almost like throwing
+
+1218
+00:56:50,190 --> 00:56:51,670
+glue on an animal.
+
+1219
+00:56:53,350 --> 00:56:55,830
+And this particular
+slide just shows you a
+
+1220
+00:56:55,830 --> 00:56:57,810
+different population
+of macrophages found
+
+1221
+00:56:57,810 --> 00:56:59,870
+all over the body. You
+are almost familiar
+
+1222
+00:56:59,870 --> 00:57:06,230
+with a lot of these
+different names. For
+
+1223
+00:57:06,230 --> 00:57:08,670
+example, in the liver,
+we call them kufra cells.
+
+1224
+00:57:08,670 --> 00:57:11,020
+In the lungs, they're
+called alveolar
+
+1225
+00:57:11,020 --> 00:57:14,200
+macrophages. Sometimes
+they're called bust
+
+1226
+00:57:14,830 --> 00:57:17,250
+cells. In the skin, we
+call them length of hand
+
+1227
+00:57:17,250 --> 00:57:19,810
+cells. In the central
+nervous system we
+
+1228
+00:57:19,810 --> 00:57:22,220
+call microglia but
+these are all basically
+
+1229
+00:57:22,220 --> 00:57:24,610
+macrophages nothing new
+and it's just a list
+
+1230
+00:57:24,610 --> 00:57:26,210
+for you don't need to
+memorize that but as
+
+1231
+00:57:26,210 --> 00:57:29,150
+you encounter these
+different cells you just
+
+1232
+00:57:29,150 --> 00:57:31,340
+remember that these
+are all macrophages
+
+1233
+00:57:31,870 --> 00:57:35,550
+this slide shows a
+comparison between the two
+
+1234
+00:57:35,550 --> 00:57:37,410
+major fagocytes that
+we all talk about
+
+1235
+00:57:37,410 --> 00:57:39,250
+neutrophils and macrophages
+so it's important
+
+1236
+00:57:39,250 --> 00:57:41,110
+to kind of i think you
+already know a lot of
+
+1237
+00:57:41,110 --> 00:57:42,970
+these so let's just
+put them in one place
+
+1238
+00:57:43,930 --> 00:57:46,150
+for example for
+neutrophils they're short
+
+1239
+00:57:46,150 --> 00:57:48,310
+-lived they're involved
+in the acute response
+
+1240
+00:57:48,310 --> 00:57:49,990
+so they're Typically,
+the first thymicocytes
+
+1241
+00:57:50,420 --> 00:57:52,580
+arrive at a site
+of an inflammation.
+
+1242
+00:57:52,580 --> 00:57:53,830
+They're really
+responsible for
+
+1243
+00:57:53,830 --> 00:57:55,950
+fast clearance
+of the pathogen.
+
+1244
+00:57:56,070 --> 00:57:59,710
+They have tons of
+antimicrobial peptides,
+
+1245
+00:57:59,810 --> 00:58:01,970
+lots of defencins and
+so on that they can
+
+1246
+00:58:01,970 --> 00:58:04,530
+use on pathogens, and
+they can also produce
+
+1247
+00:58:04,530 --> 00:58:07,050
+oxygen radicals to
+kill the pathogen.
+
+1248
+00:58:08,200 --> 00:58:09,810
+That's it in regard to
+
+1249
+00:58:09,810 --> 00:58:11,410
+neutrophils.
+For macrophages,
+
+1250
+00:58:11,810 --> 00:58:14,270
+they're long-lived,
+and so they're really
+
+1251
+00:58:14,270 --> 00:58:16,610
+more so involved in
+chronic inflammation
+
+1252
+00:58:16,610 --> 00:58:18,790
+infection. Remember,
+macrophages also
+
+1253
+00:58:18,790 --> 00:58:20,650
+regulate the inflammatory
+response, and
+
+1254
+00:58:20,650 --> 00:58:22,240
+they're the ones that
+invite neutrophils.
+
+1255
+00:58:22,470 --> 00:58:26,710
+They're not as
+micro-racidal and as
+
+1256
+00:58:26,710 --> 00:58:28,470
+cytotoxic as
+neutrophils. Neutrophils
+
+1257
+00:58:28,470 --> 00:58:29,940
+are just a lot
+more notorious.
+
+1258
+00:58:30,500 --> 00:58:33,530
+But, you know, as
+long as they, the
+
+1259
+00:58:33,530 --> 00:58:34,890
+longer they stay
+there, they can
+
+1260
+00:58:34,890 --> 00:58:36,690
+actually accumulate
+that toxicity.
+
+1261
+00:58:36,810 --> 00:58:39,170
+As we talked about, they
+recruit neutrophils.
+
+1262
+00:58:39,170 --> 00:58:42,930
+They require
+activation by pattern
+
+1263
+00:58:42,930 --> 00:58:45,750
+recognition receptors,
+and they actually display
+
+1264
+00:58:45,750 --> 00:58:48,950
+a little higher degree
+of specificity which
+
+1265
+00:58:48,950 --> 00:58:52,470
+makes them better as
+sentinels of the immune
+
+1266
+00:58:52,470 --> 00:58:54,850
+system like dendritic
+cells and again
+
+1267
+00:58:54,850 --> 00:58:57,670
+that specificity is still
+broad because remember
+
+1268
+00:58:57,670 --> 00:58:59,590
+they're still part
+of the innate immune
+
+1269
+00:58:59,590 --> 00:59:07,250
+response and as typical
+of all white blood
+
+1270
+00:59:07,250 --> 00:59:10,710
+cells they all produce
+cytokines this is
+
+1271
+00:59:10,710 --> 00:59:13,070
+just a slide that shows
+the main cytokines that
+
+1272
+00:59:13,070 --> 00:59:15,810
+phagocytes produce. For
+example, interleukin
+
+1273
+00:59:15,810 --> 00:59:18,090
+-1, which causes
+fever, it's a pyrogen.
+
+1274
+00:59:18,690 --> 00:59:20,950
+TNF-alpha, major
+
+1275
+00:59:21,950 --> 00:59:23,870
+the producer of
+inflammation,
+
+1276
+00:59:23,870 --> 00:59:25,620
+which is secreted
+by macrophages,
+
+1277
+00:59:26,060 --> 00:59:30,950
+and other interleukins
+like IL-8, IL-12,
+
+1278
+00:59:30,950 --> 00:59:32,850
+which are raw and
+attractive, like neutrophils
+
+1279
+00:59:32,850 --> 00:59:34,670
+and natural fuel
+cells. On the right
+
+1280
+00:59:34,670 --> 00:59:37,110
+side there shows,
+again, a comparing
+
+1281
+00:59:37,110 --> 00:59:39,970
+contrast between two
+major monoclear cells,
+
+1282
+00:59:39,970 --> 00:59:42,170
+which are enderitic
+cells and macrophages.
+
+1283
+00:59:42,850 --> 00:59:44,710
+Again, the enderitic
+cells are really
+
+1284
+00:59:44,710 --> 00:59:47,790
+predominantly for
+antigen presentation,
+
+1285
+00:59:48,470 --> 00:59:50,890
+especially to naive
+T cells. They're also
+
+1286
+00:59:50,890 --> 00:59:56,170
+involved in educating T
+cells, so differentiation
+
+1287
+00:59:56,170 --> 00:59:58,590
+of different type
+of T cells, while
+
+1288
+00:59:59,150 --> 01:00:00,910
+macrophages are
+the one really more
+
+1289
+01:00:00,910 --> 01:00:05,250
+into, you know, regulation
+of the inflammatory
+
+1290
+01:00:05,250 --> 01:00:08,360
+response, actual
+killing of the
+
+1291
+01:00:08,360 --> 01:00:10,800
+pathogen, but they can
+also do presentation.
+
+1292
+01:00:14,770 --> 01:00:16,630
+We have discussed
+this before, we
+
+1293
+01:00:16,630 --> 01:00:18,520
+discussed the process
+of phagocytosis
+
+1294
+01:00:18,520 --> 01:00:20,910
+and that some
+microbes use different
+
+1295
+01:00:20,910 --> 01:00:23,070
+mechanisms to
+evade phagocytosis
+
+1296
+01:00:23,070 --> 01:00:24,950
+like capsules. We
+talked about that.
+
+1297
+01:00:25,130 --> 01:00:27,490
+The pathogen
+M. tuberculosis
+
+1298
+01:00:29,270 --> 01:00:31,770
+habits phagolysosome
+fusion. This is why
+
+1299
+01:00:31,770 --> 01:00:33,990
+tuberculosis or the
+pathogen can stay in the
+
+1300
+01:00:33,990 --> 01:00:36,230
+body for a very long
+period of time and why
+
+1301
+01:00:36,230 --> 01:00:38,530
+it can reactivate down
+years years down the
+
+1302
+01:00:38,530 --> 01:00:40,950
+road by basically hiding
+inside macrophages
+
+1303
+01:00:41,270 --> 01:00:44,150
+typically in the
+phagolytosome or
+
+1304
+01:00:44,150 --> 01:00:45,540
+at least sorry
+in the phagosome
+
+1305
+01:00:46,730 --> 01:00:48,230
+which is also why it
+
+1306
+01:00:48,230 --> 01:00:51,170
+takes so long to treat TB
+
+1307
+01:00:51,330 --> 01:00:53,880
+is to get rid
+of all these you
+
+1308
+01:00:54,670 --> 01:00:56,510
+know M. tuberculosis
+bacteria
+
+1309
+01:00:56,710 --> 01:00:59,110
+or bacilli that are
+sitting inside those.
+
+1310
+01:00:59,290 --> 01:01:01,830
+L monocyte genes can
+actually escape the
+
+1311
+01:01:01,830 --> 01:01:04,570
+phagosome prior to the
+phagolytosome fusing
+
+1312
+01:01:04,570 --> 01:01:07,210
+and the inside genes
+makes a hemolycin
+
+1313
+01:01:07,210 --> 01:01:10,070
+called the stereolysin
+which can poke hole
+
+1314
+01:01:10,070 --> 01:01:12,550
+in the phagosome
+membrane and escape it.
+
+1315
+01:01:14,190 --> 01:01:17,810
+Also in response to
+this macrophages can
+
+1316
+01:01:17,810 --> 01:01:21,070
+actually stimulate their
+own self-destruction
+
+1317
+01:01:21,070 --> 01:01:24,610
+basically it's called
+autophagy and so
+
+1318
+01:01:24,610 --> 01:01:26,630
+that's basically in
+response to let's say if
+
+1319
+01:01:26,630 --> 01:01:28,830
+M tuberculosis continue
+to stay inside the
+
+1320
+01:01:28,830 --> 01:01:30,670
+macrophage the macrophage
+cannot clear it
+
+1321
+01:01:30,670 --> 01:01:32,850
+The macrophage then
+stimulates its own
+
+1322
+01:01:32,850 --> 01:01:37,070
+degradation with the purpose
+of getting rid itself
+
+1323
+01:01:37,070 --> 01:01:39,170
+of the pathogen. So
+you'll see that in a
+
+1324
+01:01:39,170 --> 01:01:41,290
+lot of chronic bacterial
+infections because
+
+1325
+01:01:41,290 --> 01:01:45,050
+chronic bacteria
+basically reside in these
+
+1326
+01:01:45,050 --> 01:01:47,390
+monocytes for an
+extended period of time.
+
+1327
+01:01:47,570 --> 01:01:49,210
+And that's one of the
+
+1328
+01:01:49,210 --> 01:01:50,850
+mechanisms to
+get rid of it.
+
+1329
+01:01:51,690 --> 01:01:54,030
+Disregulation of
+autophagy will
+
+1330
+01:01:54,030 --> 01:01:56,450
+result in prolonged
+inflammation and
+
+1331
+01:01:56,450 --> 01:01:59,290
+delayed clearance
+of this pathogen.
+
+1332
+01:02:00,930 --> 01:02:03,730
+And then just talk
+a little bit about
+
+1333
+01:02:03,810 --> 01:02:08,590
+different types of
+macrophages. So predominantly
+
+1334
+01:02:08,590 --> 01:02:10,410
+macrophages fall
+into two different
+
+1335
+01:02:10,410 --> 01:02:13,970
+lineages, M1 and M2,
+and there's a distinct
+
+1336
+01:02:13,970 --> 01:02:16,390
+difference between
+these two macrophages.
+
+1337
+01:02:17,210 --> 01:02:20,710
+M1 tend to be more
+inflammatory, M1
+
+1338
+01:02:20,710 --> 01:02:24,010
+macrophages they
+tend to respond to
+
+1339
+01:02:24,010 --> 01:02:27,530
+interferon gamma, they
+tend to kill more and
+
+1340
+01:02:27,530 --> 01:02:29,930
+that's really more
+if so inflammatory
+
+1341
+01:02:30,950 --> 01:02:35,150
+microcedal type of
+um microphage while
+
+1342
+01:02:35,150 --> 01:02:38,250
+the m2 are more into
+repair they're less
+
+1343
+01:02:38,250 --> 01:02:40,370
+microcedal they're
+not as inflammatory
+
+1344
+01:02:40,370 --> 01:02:43,930
+in that regard and
+so so sometimes
+
+1345
+01:02:43,930 --> 01:02:46,890
+microbes can exploit
+so you know like so
+
+1346
+01:02:46,890 --> 01:02:49,710
+like francisella
+tolerances will will
+
+1347
+01:02:49,710 --> 01:02:52,010
+cause my microphages
+to shift more to
+
+1348
+01:02:52,010 --> 01:02:54,390
+the m2 type so they're
+not as microcedal
+
+1349
+01:02:55,510 --> 01:02:58,510
+But they both are
+important in the body, so
+
+1350
+01:02:58,510 --> 01:03:00,290
+what you want to do is
+start out maybe with
+
+1351
+01:03:00,290 --> 01:03:03,970
+M1 types and kill
+the pathogen and all
+
+1352
+01:03:03,970 --> 01:03:05,450
+that, but then eventually
+you want to switch
+
+1353
+01:03:05,450 --> 01:03:07,330
+more to an M2 because
+at some point you
+
+1354
+01:03:07,330 --> 01:03:12,130
+want to resolve that,
+or at least once the
+
+1355
+01:03:12,580 --> 01:03:14,670
+microbes are killed,
+you don't want to just
+
+1356
+01:03:14,670 --> 01:03:16,690
+keep killing tissue and
+causing more damage,
+
+1357
+01:03:16,690 --> 01:03:18,610
+and now you still
+want to induce repair.
+
+1358
+01:03:18,610 --> 01:03:21,530
+So you should see a
+shift from M1 to M2.
+
+1359
+01:03:21,920 --> 01:03:24,330
+but you don't want to
+start with an m2 because
+
+1360
+01:03:24,330 --> 01:03:25,570
+then you're not going
+to get clearance
+
+1361
+01:03:25,570 --> 01:03:32,390
+of that pathogen just
+flushing out a little
+
+1362
+01:03:32,390 --> 01:03:35,890
+bit the macrophage
+regulation we can see here
+
+1363
+01:03:35,890 --> 01:03:40,110
+both the pro-inflammatory
+m1 macrophages
+
+1364
+01:03:40,110 --> 01:03:43,010
+are typically stimulated
+by interferon gamma
+
+1365
+01:03:43,330 --> 01:03:46,720
+which is also
+secreted by both
+
+1366
+01:03:46,720 --> 01:03:50,050
+macrophages themselves
+so it's kind of
+
+1367
+01:03:50,050 --> 01:03:52,930
+a positive feedback
+And additionally,
+
+1368
+01:03:52,930 --> 01:03:55,030
+my specialty T
+-helper-1 cells.
+
+1369
+01:03:55,190 --> 01:03:59,530
+So those are sometimes
+called classically
+
+1370
+01:03:59,530 --> 01:04:02,530
+activated, the M1s,
+macrophages, and they're
+
+1371
+01:04:02,530 --> 01:04:05,050
+pretty much involved
+in inflammation,
+
+1372
+01:04:06,190 --> 01:04:08,440
+you know, and
+killing of the
+
+1373
+01:04:08,440 --> 01:04:10,430
+antichocytosis
+of the cell,
+
+1374
+01:04:10,430 --> 01:04:13,130
+rather than
+healing and repair.
+
+1375
+01:04:13,510 --> 01:04:17,610
+DH-17 cells, or T
+-helper-17 cells, which
+
+1376
+01:04:17,610 --> 01:04:20,110
+we'll discuss later
+through their IL
+
+1377
+01:04:20,110 --> 01:04:24,370
+-17, can also cause
+macrophages to become
+
+1378
+01:04:24,370 --> 01:04:26,730
+more inflammatory
+in their reaction.
+
+1379
+01:04:27,190 --> 01:04:30,330
+On the other hand,
+Th2 cells or T
+
+1380
+01:04:30,330 --> 01:04:33,190
+helper 2 through IL
+-4 and IL-13 switch
+
+1381
+01:04:33,190 --> 01:04:35,410
+the phenotype of
+the macrophage
+
+1382
+01:04:35,410 --> 01:04:38,040
+into more of the
+wound healing type,
+
+1383
+01:04:38,890 --> 01:04:42,670
+basically what we
+refer to as M2 or
+
+1384
+01:04:42,670 --> 01:04:45,310
+alternatively activated
+sometimes they call.
+
+1385
+01:04:45,990 --> 01:04:48,770
+Either way a dysfunction
+of both of these
+
+1386
+01:04:48,770 --> 01:04:52,110
+can happen if the if
+m2 microphages are
+
+1387
+01:04:52,110 --> 01:04:53,870
+overexpressed you can
+get fibrosis because
+
+1388
+01:04:53,870 --> 01:04:55,410
+they can just cause
+a lot of healing
+
+1389
+01:04:55,770 --> 01:04:58,650
+too much basically
+and of course m1 can
+
+1390
+01:04:58,650 --> 01:05:00,350
+cause too much damage
+through inflammation.
+
+1391
+01:05:00,570 --> 01:05:01,130
+So
+
+1392
+01:05:11,640 --> 01:05:14,540
+let's switch and talk
+about the last innate
+
+1393
+01:05:14,540 --> 01:05:17,180
+cells referred to
+as natural killer
+
+1394
+01:05:17,180 --> 01:05:20,640
+cells. Again very
+important cells lymphocytes
+
+1395
+01:05:20,640 --> 01:05:22,740
+if you remember with
+lymphocytes there's
+
+1396
+01:05:22,740 --> 01:05:24,740
+t cells b cells and
+natural kill cells
+
+1397
+01:05:24,740 --> 01:05:27,440
+they're the least
+dominant of the kill
+
+1398
+01:05:27,440 --> 01:05:29,300
+of the lymphocytes
+these cells are most
+
+1399
+01:05:29,300 --> 01:05:31,720
+common than B cells
+and then natural kill
+
+1400
+01:05:31,720 --> 01:05:33,400
+cells composed probably
+like one to three
+
+1401
+01:05:33,400 --> 01:05:35,100
+percent of all
+lymphocytes but they are
+
+1402
+01:05:35,100 --> 01:05:38,060
+very very important
+cells they can innately
+
+1403
+01:05:38,060 --> 01:05:41,560
+engage antigen they
+don't have memory
+
+1404
+01:05:42,040 --> 01:05:44,510
+but they can
+recognize both vital
+
+1405
+01:05:44,510 --> 01:05:47,220
+infected cells and
+tumor cells and kill
+
+1406
+01:05:47,220 --> 01:05:50,020
+kill them on the spot
+how do they do that
+
+1407
+01:05:50,020 --> 01:05:51,720
+they have basically
+receptors referred
+
+1408
+01:05:51,720 --> 01:05:54,480
+to as killer
+activation receptors,
+
+1409
+01:05:54,600 --> 01:05:55,980
+CARs.
+
+1410
+01:05:56,280 --> 01:05:59,480
+And the counter to
+that, they also have
+
+1411
+01:05:59,480 --> 01:06:01,400
+what's called killer
+inhibition receptors,
+
+1412
+01:06:01,400 --> 01:06:04,320
+which those prevent them
+from killing our own
+
+1413
+01:06:04,330 --> 01:06:07,460
+cells. So usually
+if a virus infects a
+
+1414
+01:06:07,460 --> 01:06:11,080
+cell, these viruses
+will tend to, sorry, not
+
+1415
+01:06:11,080 --> 01:06:12,580
+the viruses, but the
+cells then tend to
+
+1416
+01:06:12,580 --> 01:06:15,140
+display with stress
+molecules or stress
+
+1417
+01:06:15,140 --> 01:06:19,460
+associated molecules
+called MYC-A and MICB and
+
+1418
+01:06:19,460 --> 01:06:23,000
+basically MIC or MIC
+stands for MHC class 1
+
+1419
+01:06:23,000 --> 01:06:26,200
+polypeptide related
+sequence and so they'll
+
+1420
+01:06:26,200 --> 01:06:30,420
+display MCC class 1
+related sequences which
+
+1421
+01:06:30,420 --> 01:06:33,740
+are showing that they
+have these stresses.
+
+1422
+01:06:34,400 --> 01:06:37,160
+At the same time
+viruses can cause the
+
+1423
+01:06:37,160 --> 01:06:41,120
+MHC class 1 to be
+depressed. That's kind of
+
+1424
+01:06:41,120 --> 01:06:43,320
+a mechanism that the
+viruses will do. Either
+
+1425
+01:06:43,320 --> 01:06:45,360
+way the natural kill
+cells will recognize
+
+1426
+01:06:45,360 --> 01:06:47,640
+these MICA and MICB
+through their cars
+
+1427
+01:06:47,640 --> 01:06:52,460
+and that result in death
+of that cell so once
+
+1428
+01:06:52,460 --> 01:06:54,540
+engagement happened
+natural kill cells
+
+1429
+01:06:54,540 --> 01:06:58,500
+can make also like
+perforans and granzymes
+
+1430
+01:06:58,500 --> 01:07:01,780
+which can kill either
+poke holes into the
+
+1431
+01:07:01,780 --> 01:07:07,490
+cell or cause it to
+undergo epoptosis well
+
+1432
+01:07:07,510 --> 01:07:10,280
+natural kill cells
+can you know the cure
+
+1433
+01:07:10,280 --> 01:07:13,260
+receptors will constantly
+go around and assess
+
+1434
+01:07:13,260 --> 01:07:15,900
+the MHC class 1 and
+if it's devoid of any
+
+1435
+01:07:15,960 --> 01:07:18,540
+foreign substance then
+they will just leave
+
+1436
+01:07:18,540 --> 01:07:20,720
+the cell B and this
+ensures that natural
+
+1437
+01:07:20,720 --> 01:07:22,920
+killer cells do not
+attack our own cells.
+
+1438
+01:07:24,760 --> 01:07:28,840
+The next few slides
+is going to just give
+
+1439
+01:07:28,840 --> 01:07:30,760
+you a little introduction
+to primary immune
+
+1440
+01:07:30,760 --> 01:07:32,920
+deficiencies. There's
+primary differences
+
+1441
+01:07:32,920 --> 01:07:34,400
+and secondary immune
+deficiencies and
+
+1442
+01:07:34,400 --> 01:07:36,440
+you guys will have
+actual lectures on each.
+
+1443
+01:07:36,880 --> 01:07:38,600
+I just want to give
+you just a little
+
+1444
+01:07:38,600 --> 01:07:41,180
+bit of a heads up
+basically before you
+
+1445
+01:07:41,180 --> 01:07:43,900
+start and to also
+allow you some clinical
+
+1446
+01:07:43,900 --> 01:07:45,560
+relevance the
+information we're talking
+
+1447
+01:07:45,560 --> 01:07:46,720
+about so everything
+we've talked
+
+1448
+01:07:46,720 --> 01:07:48,940
+about in regard to
+innate immune response
+
+1449
+01:07:48,990 --> 01:07:50,900
+we can have
+deficiencies in any
+
+1450
+01:07:50,900 --> 01:07:52,640
+of those and those
+can result in
+
+1451
+01:07:52,640 --> 01:07:56,280
+um obviously
+diseases for example
+
+1452
+01:07:57,080 --> 01:07:59,840
+defects in phagolyzone
+fusion occurs in
+
+1453
+01:07:59,840 --> 01:08:02,120
+Shidiak-Higashi
+syndrome which is a
+
+1454
+01:08:02,120 --> 01:08:04,880
+phagocyte disorder
+and of course these
+
+1455
+01:08:04,880 --> 01:08:07,740
+predispose these
+individuals to infections
+
+1456
+01:08:07,740 --> 01:08:10,600
+and chronic
+granulomatous disease and
+
+1457
+01:08:10,600 --> 01:08:13,630
+there's a defect in the
+ability of macrophages
+
+1458
+01:08:14,280 --> 01:08:16,680
+to actually produce
+oxygen radicals
+
+1459
+01:08:16,880 --> 01:08:18,860
+this predisposes
+these individuals
+
+1460
+01:08:18,860 --> 01:08:21,460
+for example
+to like fungal
+
+1461
+01:08:21,460 --> 01:08:23,160
+diseases like
+aspergulosis
+
+1462
+01:08:24,940 --> 01:08:27,000
+there are individuals
+with interferon
+
+1463
+01:08:27,000 --> 01:08:29,500
+gamma receptor deficiency
+and as you know
+
+1464
+01:08:29,500 --> 01:08:31,560
+interferon gamma
+is a very important
+
+1465
+01:08:31,590 --> 01:08:35,280
+cytokine especially
+with th1 and cell
+
+1466
+01:08:35,280 --> 01:08:37,920
+mediated immune response
+so that basically
+
+1467
+01:08:37,920 --> 01:08:40,040
+takes out their self
+-mediating response.
+
+1468
+01:08:40,340 --> 01:08:42,770
+And we talked
+today about LAD
+
+1469
+01:08:42,970 --> 01:08:45,540
+leukocyte adhesion
+deficiency
+
+1470
+01:08:45,640 --> 01:08:48,120
+and how that
+will prevent, for
+
+1471
+01:08:48,120 --> 01:08:50,040
+example, neutrophils
+and macrophages
+
+1472
+01:08:50,040 --> 01:08:52,400
+to reach the site
+of inflammation,
+
+1473
+01:08:52,600 --> 01:08:54,280
+which then
+predispose these
+
+1474
+01:08:54,280 --> 01:08:55,640
+individuals
+to infections.
+
+1475
+01:08:55,640 --> 01:08:56,500
+There's
+
+1476
+01:09:03,690 --> 01:09:06,390
+also complement
+disorders that can also
+
+1477
+01:09:06,390 --> 01:09:08,630
+predispose individuals
+to several infections.
+
+1478
+01:09:08,630 --> 01:09:10,110
+We've talked about
+those a little bit.
+
+1479
+01:09:10,110 --> 01:09:11,950
+Now, many of
+those predispose
+
+1480
+01:09:11,950 --> 01:09:15,150
+individuals to
+encapsulate the bacteria.
+
+1481
+01:09:15,150 --> 01:09:16,810
+So there's defects
+in alternative
+
+1482
+01:09:16,810 --> 01:09:19,150
+pathway and
+mendenlectin pathway,
+
+1483
+01:09:19,150 --> 01:09:21,690
+there's defects in
+classical pathway.
+
+1484
+01:09:22,070 --> 01:09:26,170
+So deficiencies in
+like C1, C2, and
+
+1485
+01:09:26,170 --> 01:09:30,190
+C4, and those like
+make immune complexes
+
+1486
+01:09:30,190 --> 01:09:32,850
+very difficult to
+clear, which results
+
+1487
+01:09:32,850 --> 01:09:35,380
+in more type 3
+hypersensitivities.
+
+1488
+01:09:36,190 --> 01:09:38,190
+And we talked about
+
+1489
+01:09:38,750 --> 01:09:40,910
+deficiency in
+complement regulation
+
+1490
+01:09:40,910 --> 01:09:42,890
+with hereditary
+injury *****
+
+1491
+01:09:42,890 --> 01:09:45,170
+because individuals
+don't express
+
+1492
+01:09:45,540 --> 01:09:48,050
+the protective
+complement component
+
+1493
+01:09:48,430 --> 01:09:52,150
+which then complement
+ends up lysing
+
+1494
+01:09:52,150 --> 01:09:54,230
+red blood cells
+overnight and
+
+1495
+01:09:54,230 --> 01:09:58,050
+resulting in that
+dark urine so anyway
+
+1496
+01:09:58,050 --> 01:10:00,030
+just a brief
+introduction you'll have
+
+1497
+01:10:00,400 --> 01:10:02,810
+actual lectures
+separate ones
+
+1498
+01:10:02,810 --> 01:10:05,510
+on primary immune
+deficiencies
+
+1499
+01:10:07,790 --> 01:10:10,150
+So with this lecture we
+focused predominantly
+
+1500
+01:10:10,150 --> 01:10:12,610
+on the innate immune
+response. We initially
+
+1501
+01:10:12,610 --> 01:10:14,310
+compared the innate
+and the adaptive a
+
+1502
+01:10:14,310 --> 01:10:17,010
+little bit and then we
+split the innate response
+
+1503
+01:10:17,010 --> 01:10:19,810
+into the primary or
+sorry first line of
+
+1504
+01:10:19,810 --> 01:10:22,250
+defense and second line
+of defense. First line
+
+1505
+01:10:22,250 --> 01:10:23,850
+of defense was like
+the physical chemical
+
+1506
+01:10:23,850 --> 01:10:26,070
+and biological barriers
+that we talked about
+
+1507
+01:10:26,070 --> 01:10:28,530
+and then we fleshed
+out the second line of
+
+1508
+01:10:28,530 --> 01:10:30,410
+defense as we talked
+about the inflammation,
+
+1509
+01:10:30,570 --> 01:10:32,790
+complement, phagocytosis,
+
+1510
+01:10:34,490 --> 01:10:38,470
+natural kill
+sub-response and
+
+1511
+01:10:38,970 --> 01:10:40,370
+all the other
+ones we discussed.
+
+1512
+01:10:41,030 --> 01:10:42,450
+And initially in
+the end we talked
+
+1513
+01:10:42,450 --> 01:10:46,370
+just briefly about
+a few phagocytes and
+
+1514
+01:10:46,370 --> 01:10:49,170
+complement deficiencies
+and the type
+
+1515
+01:10:49,170 --> 01:10:52,090
+of diseases they're
+associated with.

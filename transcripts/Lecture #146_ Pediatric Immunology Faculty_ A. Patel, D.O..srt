@@ -1,0 +1,7019 @@
+1
+00:00:02,870 --> 00:00:04,410
+Hi, guys. Good morning.
+
+2
+00:00:04,930 --> 00:00:07,140
+My name is Dr.
+Patel. I'm one of the
+
+3
+00:00:07,140 --> 00:00:09,510
+pediatricians, and
+today I'm going to
+
+4
+00:00:09,510 --> 00:00:11,830
+be presenting on
+pediatric immunology.
+
+5
+00:00:12,250 --> 00:00:13,810
+This is just
+my information.
+
+6
+00:00:13,870 --> 00:00:15,590
+I live in Sororio 123,
+
+7
+00:00:15,750 --> 00:00:17,170
+which is on the
+first floor,
+
+8
+00:00:17,170 --> 00:00:18,890
+and then this is
+my email address
+
+9
+00:00:18,890 --> 00:00:19,970
+if you have
+any questions.
+
+10
+00:00:21,630 --> 00:00:24,090
+All right, let's
+get started. So the
+
+11
+00:00:24,090 --> 00:00:28,070
+objectives of this lecture
+is recognizing some
+
+12
+00:00:28,070 --> 00:00:30,670
+basic concepts of pediatric
+immunodeficiencies
+
+13
+00:00:31,190 --> 00:00:33,150
+and then also
+some of the common
+
+14
+00:00:33,150 --> 00:00:36,450
+immune deficiencies.
+So those are divided
+
+15
+00:00:36,450 --> 00:00:39,370
+into sections of which
+part is affected.
+
+16
+00:00:39,370 --> 00:00:41,590
+So we're going to
+talk about fangocyte
+
+17
+00:00:41,610 --> 00:00:46,050
+disorders, combined T
+and B cell disorder, T
+
+18
+00:00:46,050 --> 00:00:48,630
+cell disorder, B cell
+disorder, and then
+
+19
+00:00:48,630 --> 00:00:50,930
+these categories of
+other which sort of
+
+20
+00:00:50,930 --> 00:00:54,010
+combine some multiple
+systems and the
+
+21
+00:00:54,010 --> 00:00:55,990
+specific pathologies
+that we're going to talk
+
+22
+00:00:55,990 --> 00:00:58,230
+about are leukocyte
+adhesion deficiency,
+
+23
+00:00:58,490 --> 00:01:00,350
+SCID or severe combined
+
+24
+00:01:00,350 --> 00:01:02,470
+immunodeficiency,
+DeJorge syndrome,
+
+25
+00:01:02,810 --> 00:01:05,810
+Bruton X-linked A
+-gamma globinemia,
+
+26
+00:01:05,810 --> 00:01:08,910
+hyper IgM and
+then Jobe syndrome
+
+27
+00:01:08,910 --> 00:01:11,990
+which is hyper IgE.
+We're also going to
+
+28
+00:01:11,990 --> 00:01:13,830
+talk about Wiscott
+-Eldrich syndrome
+
+29
+00:01:13,830 --> 00:01:16,570
+and then ataxia
+tolexandria. Okay.
+
+30
+00:01:17,210 --> 00:01:19,210
+And these are the
+acronyms that I will
+
+31
+00:01:19,210 --> 00:01:21,910
+probably be using
+throughout the slides.
+
+32
+00:01:22,450 --> 00:01:24,830
+All right. So we're
+going to start with
+
+33
+00:01:24,830 --> 00:01:26,450
+the starter question
+to make it fun.
+
+34
+00:01:26,910 --> 00:01:29,610
+And I know you guys
+get Dr. Hurst's lecture
+
+35
+00:01:29,610 --> 00:01:31,890
+as well prior to this,
+which helps you kind
+
+36
+00:01:31,890 --> 00:01:34,950
+of recognize
+immunodeficiencies. So I won't
+
+37
+00:01:34,950 --> 00:01:37,610
+spend too much time on
+this, but I do think
+
+38
+00:01:37,610 --> 00:01:39,490
+it's important to kind
+of go through. So in
+
+39
+00:01:39,490 --> 00:01:42,160
+your exams, when you
+get a question, you'll
+
+40
+00:01:42,160 --> 00:01:44,410
+have to kind of think
+to yourself okay what
+
+41
+00:01:44,410 --> 00:01:46,610
+are the important
+components of the question
+
+42
+00:01:46,610 --> 00:01:49,110
+that they want me to
+take away from this to
+
+43
+00:01:49,110 --> 00:01:51,510
+get my answer so even
+before you look at
+
+44
+00:01:51,510 --> 00:01:53,570
+your answer choices I
+want you guys to in your
+
+45
+00:01:53,570 --> 00:01:56,830
+head go through and
+highlight the things
+
+46
+00:01:56,830 --> 00:01:59,930
+that you think are
+important to know from this
+
+47
+00:01:59,930 --> 00:02:03,010
+question stem so for
+example our question
+
+48
+00:02:03,010 --> 00:02:05,450
+is a two-month-old infant
+is brought into your
+
+49
+00:02:05,450 --> 00:02:07,130
+office with a recent
+hospital admission
+
+50
+00:02:07,130 --> 00:02:10,670
+for two weeks for
+pneumocystis pneumonia or
+
+51
+00:02:10,670 --> 00:02:15,190
+*** requiring respiratory
+support and in
+
+52
+00:02:15,190 --> 00:02:17,610
+reviewing the chart the
+infant had had multiple
+
+53
+00:02:17,610 --> 00:02:20,090
+episodes of thrush
+that required prolonged
+
+54
+00:02:20,090 --> 00:02:22,810
+antifungal treatment.
+The growth chart shows
+
+55
+00:02:22,810 --> 00:02:24,390
+that the infant's head
+circumference weight
+
+56
+00:02:24,390 --> 00:02:27,660
+and length have been
+below the 1.5 percentile.
+
+57
+00:02:27,670 --> 00:02:31,470
+On exam he has severe
+seborrheic dermatitis
+
+58
+00:02:31,470 --> 00:02:34,570
+and a bulging right
+TM to panic membrane.
+
+59
+00:02:35,210 --> 00:02:37,590
+You've reviewed the x
+-ray from the hospital,
+
+60
+00:02:37,590 --> 00:02:39,590
+the just x-ray, and
+they comment on an
+
+61
+00:02:39,590 --> 00:02:43,250
+absent thymic shadow.
+The flow cytometry
+
+62
+00:02:43,250 --> 00:02:47,000
+shows decreased B,
+T, and NK cells and
+
+63
+00:02:47,000 --> 00:02:50,130
+decreased immunoglobulins.
+So what is the most
+
+64
+00:02:50,130 --> 00:02:53,130
+likely mechanism causing
+this presentation?
+
+65
+00:02:53,130 --> 00:02:55,730
+Okay, and most of the
+time as you get in
+
+66
+00:02:55,730 --> 00:02:59,330
+higher level questions,
+they will ask you
+
+67
+00:02:59,330 --> 00:03:01,470
+second-order, third
+-order questions. So
+
+68
+00:03:01,470 --> 00:03:03,110
+they'll ask you something
+like, what is the
+
+69
+00:03:03,110 --> 00:03:05,410
+side effect of the drug
+that you will treat
+
+70
+00:03:05,410 --> 00:03:07,890
+with? So that requires
+you to know, A,
+
+71
+00:03:07,890 --> 00:03:10,210
+what the diagnosis may
+be, B, what the treatment
+
+72
+00:03:10,210 --> 00:03:12,810
+would be, and then
+C, the side effect
+
+73
+00:03:12,810 --> 00:03:14,910
+of it, right? So third
+-order questions is
+
+74
+00:03:14,910 --> 00:03:16,950
+what you're working
+towards for step two.
+
+75
+00:03:17,930 --> 00:03:20,030
+But step one is going
+to be a little bit
+
+76
+00:03:20,030 --> 00:03:22,850
+more basic, asking you
+about more pathophys,
+
+77
+00:03:23,050 --> 00:03:25,570
+more diagnoses, and
+things like that.
+
+78
+00:03:25,570 --> 00:03:28,090
+So that's good. So
+in this question's
+
+79
+00:03:28,090 --> 00:03:29,690
+time, the things that
+I think are important
+
+80
+00:03:29,690 --> 00:03:32,650
+to highlight for you
+guys are the age.
+
+81
+00:03:32,650 --> 00:03:34,790
+So the age will always
+help you determine
+
+82
+00:03:34,790 --> 00:03:38,070
+what pathology is
+most common in this
+
+83
+00:03:38,070 --> 00:03:39,990
+age range, which is
+exactly what they're
+
+84
+00:03:39,990 --> 00:03:41,930
+asking you for when
+they ask you that
+
+85
+00:03:41,930 --> 00:03:44,590
+in a question. So age
+is super important.
+
+86
+00:03:44,990 --> 00:03:48,450
+The patient recently
+had *** pneumonia, so
+
+87
+00:03:48,450 --> 00:03:51,550
+pneumocystis, which is
+an uncommon pneumonia
+
+88
+00:03:51,550 --> 00:03:55,530
+to have, especially as
+an infant, right? uh
+
+89
+00:03:55,530 --> 00:03:57,930
+and then they've had
+multiple episodes of
+
+90
+00:03:57,930 --> 00:04:01,390
+thrush so remember
+thrush is candida okay so
+
+91
+00:04:01,390 --> 00:04:04,750
+they've had uh candida
+in their mouth um that
+
+92
+00:04:04,750 --> 00:04:08,190
+required prolonged anti
+-treatment antifungal
+
+93
+00:04:08,190 --> 00:04:10,370
+treatment right a
+little bit thrush that
+
+94
+00:04:10,370 --> 00:04:12,790
+goes away with some
+niastatin um which is the
+
+95
+00:04:12,790 --> 00:04:15,050
+antifungal that you
+treat with is okay fine
+
+96
+00:04:15,050 --> 00:04:17,950
+but this baby has had
+multiple episodes and
+
+97
+00:04:17,950 --> 00:04:20,730
+has required prolonged
+treatment, okay? Then
+
+98
+00:04:20,730 --> 00:04:22,450
+it also tells you from
+the growth chart that
+
+99
+00:04:22,450 --> 00:04:26,770
+this baby has failure
+to grow, right? So it
+
+100
+00:04:26,770 --> 00:04:29,030
+has trouble gaining
+weight in all aspects.
+
+101
+00:04:29,190 --> 00:04:31,530
+And then they have
+some severe skin
+
+102
+00:04:31,530 --> 00:04:34,570
+findings of
+dermatitis and then a
+
+103
+00:04:35,030 --> 00:04:37,930
+right bulging TM
+which shows you
+
+104
+00:04:37,930 --> 00:04:40,410
+otitis media in a
+two-month-old, okay?
+
+105
+00:04:40,630 --> 00:04:43,630
+On the x-ray you find
+that there's absent
+
+106
+00:04:43,630 --> 00:04:45,510
+thymic shadow which
+is also important for
+
+107
+00:04:45,510 --> 00:04:48,030
+immunology purposes and
+then the flow cytometry
+
+108
+00:04:48,030 --> 00:04:50,630
+will tell you exactly
+which cells are affected
+
+109
+00:04:50,630 --> 00:04:52,850
+okay all right so I
+want you guys to keep
+
+110
+00:04:52,850 --> 00:04:55,110
+that keep these
+highlighted points in mind
+
+111
+00:04:55,110 --> 00:04:57,670
+while we go through
+this uh powerpoint okay
+
+112
+00:04:57,670 --> 00:05:00,830
+all right so let's
+quickly talk about just
+
+113
+00:05:00,830 --> 00:05:03,790
+some basics um I like
+pictures a lot because
+
+114
+00:05:03,790 --> 00:05:06,190
+I'm a very picture
+person so I hope this
+
+115
+00:05:06,190 --> 00:05:09,750
+relates to you um so I
+like to think of innate
+
+116
+00:05:09,750 --> 00:05:12,970
+immunity as sort of your
+if there's something
+
+117
+00:05:12,970 --> 00:05:15,650
+going on there's a
+murder or a robbery
+
+118
+00:05:15,650 --> 00:05:17,770
+the first people on the
+scene are usually the
+
+119
+00:05:17,770 --> 00:05:20,870
+policemen right or
+women so um you'll find
+
+120
+00:05:20,870 --> 00:05:23,640
+all these cells are
+sort of the first call
+
+121
+00:05:23,640 --> 00:05:27,330
+in who comes to the
+site of infection or or
+
+122
+00:05:27,330 --> 00:05:30,570
+problem so you have mast
+cells um eosinophils
+
+123
+00:05:30,570 --> 00:05:34,950
+granulocytes neutrophils
+um uh you get nk
+
+124
+00:05:34,950 --> 00:05:37,790
+cells you get some of
+the phagocytic system
+
+125
+00:05:37,790 --> 00:05:40,930
+so monocytes and just
+dendritic cells which
+
+126
+00:05:40,930 --> 00:05:44,250
+are your APCs so antigen
+presenting cells so
+
+127
+00:05:44,250 --> 00:05:46,230
+they present the antigen
+to the t-cell and
+
+128
+00:05:46,230 --> 00:05:48,860
+was like here look
+this is the problem um
+
+129
+00:05:49,650 --> 00:05:51,250
+macrophages which
+will kind of just eat
+
+130
+00:05:51,250 --> 00:05:53,590
+everything up and then
+of course complement is
+
+131
+00:05:53,590 --> 00:05:56,290
+also in this innate system
+right so a complement
+
+132
+00:05:56,290 --> 00:05:59,530
+um is your is your c
+your all your proteins
+
+133
+00:05:59,530 --> 00:06:03,170
+and And then C2, 3,
+and then all the way
+
+134
+00:06:03,170 --> 00:06:07,430
+from 5 to 9 form that
+MAC complex, which then
+
+135
+00:06:07,430 --> 00:06:11,610
+help degrade bacteria,
+right? So complement
+
+136
+00:06:11,610 --> 00:06:14,650
+and all these granulocytes
+are part of the
+
+137
+00:06:14,650 --> 00:06:16,470
+innate system, which
+are your first kind
+
+138
+00:06:16,470 --> 00:06:19,630
+of responders, okay?
+Then you have adaptive.
+
+139
+00:06:19,630 --> 00:06:22,850
+So adaptive will be
+your longer, slower
+
+140
+00:06:22,850 --> 00:06:26,710
+process bones of
+players. And so
+
+141
+00:06:26,710 --> 00:06:28,670
+this is sort of your
+FBI, right? Right.
+
+142
+00:06:29,030 --> 00:06:32,530
+So they have more memory.
+They're able to do
+
+143
+00:06:32,530 --> 00:06:36,690
+more directed therapies
+and they have a lot
+
+144
+00:06:36,690 --> 00:06:39,010
+more resources. Right.
+So I think about it
+
+145
+00:06:39,010 --> 00:06:42,150
+like that in my head.
+So for humoral, I think
+
+146
+00:06:42,150 --> 00:06:46,790
+about B cells and
+kind of expanding out
+
+147
+00:06:46,790 --> 00:06:48,630
+their antibodies, like
+go catch them kind of
+
+148
+00:06:48,630 --> 00:06:51,590
+thing. And then I have
+cellular. So cellular
+
+149
+00:06:51,590 --> 00:06:56,710
+will be sort of the
+head chief person,
+
+150
+00:06:56,950 --> 00:07:00,530
+director, if you may, and
+they will differentiate
+
+151
+00:07:00,530 --> 00:07:04,490
+into CD4 and CD8
+cells, which are your
+
+152
+00:07:04,490 --> 00:07:07,210
+helper cells and your
+killer cells. Right. So,
+
+153
+00:07:07,210 --> 00:07:10,770
+again, these all help
+in, you know, they're
+
+154
+00:07:10,770 --> 00:07:13,030
+all interconnected. So
+T cells will activate
+
+155
+00:07:13,030 --> 00:07:16,010
+B cells and antigen
+presenting cells will
+
+156
+00:07:16,010 --> 00:07:19,030
+present to T cells.
+So you have all this
+
+157
+00:07:19,190 --> 00:07:20,610
+interconnectivity. And
+then, of course, you have
+
+158
+00:07:20,610 --> 00:07:22,850
+the NK cells and the
+T cells are sort of
+
+159
+00:07:22,850 --> 00:07:25,350
+in between these two
+because they can kill by
+
+160
+00:07:25,350 --> 00:07:28,190
+themselves or cytotoxic
+stuff. But they
+
+161
+00:07:28,190 --> 00:07:30,990
+also sometimes will
+activate other cells or
+
+162
+00:07:30,990 --> 00:07:33,750
+like create memory and
+stuff. So those are sort
+
+163
+00:07:33,750 --> 00:07:35,890
+of how you want to
+think about these two.
+
+164
+00:07:36,680 --> 00:07:38,650
+You can also, I
+guess, think about it
+
+165
+00:07:38,650 --> 00:07:41,570
+like in terms of EMS
+being your innate
+
+166
+00:07:41,570 --> 00:07:44,130
+system and then
+adaptive being your
+
+167
+00:07:44,130 --> 00:07:46,530
+hospital system, your
+emergency medicine
+
+168
+00:07:46,530 --> 00:07:49,030
+doc who will then
+have more experience
+
+169
+00:07:49,030 --> 00:07:50,430
+and more resources
+to kind of help
+
+170
+00:07:50,430 --> 00:07:53,950
+directed therapy to
+help your patient.
+
+171
+00:07:54,130 --> 00:07:56,890
+OK, and then I want
+to just quickly
+
+172
+00:07:56,890 --> 00:08:00,650
+go over T-cell
+dependent versus
+
+173
+00:08:00,650 --> 00:08:02,410
+T-cell independent
+activation.
+
+174
+00:08:02,790 --> 00:08:05,770
+So as you can see, T
+-cell independent, you
+
+175
+00:08:05,770 --> 00:08:08,450
+just have a B-cell with,
+and you can tell it's
+
+176
+00:08:08,450 --> 00:08:10,110
+a B-cell because it has
+all these antibodies
+
+177
+00:08:10,110 --> 00:08:13,650
+on it, and it attaches
+directly to the
+
+178
+00:08:13,650 --> 00:08:17,950
+pathogenic parts of the
+bacteria, which the B
+
+179
+00:08:17,950 --> 00:08:21,270
+-cell recognizes as
+abnormal, and then it will
+
+180
+00:08:21,270 --> 00:08:25,490
+expand and cause plasma
+cells, so maturation,
+
+181
+00:08:25,490 --> 00:08:28,030
+and then that will
+produce more IgM, which
+
+182
+00:08:28,030 --> 00:08:30,130
+will then be directed
+at this specific
+
+183
+00:08:30,130 --> 00:08:35,010
+bacteria. so this is
+one way the other way is
+
+184
+00:08:35,010 --> 00:08:39,410
+using T cells to help
+so you have another B
+
+185
+00:08:39,410 --> 00:08:43,040
+cell here and they're
+going to now present this
+
+186
+00:08:43,040 --> 00:08:45,290
+antigen they were
+gonna they're gonna be
+
+187
+00:08:45,290 --> 00:08:48,870
+the antigen presenting
+cell and that will go
+
+188
+00:08:48,870 --> 00:08:51,250
+to the T cell and be
+like hey look this is
+
+189
+00:08:51,250 --> 00:08:53,230
+this is something I
+found that seems abnormal
+
+190
+00:08:53,230 --> 00:08:55,990
+what should I do and
+so the T cell will be
+
+191
+00:08:55,990 --> 00:08:58,130
+like oh we need to
+attack these these are
+
+192
+00:08:58,130 --> 00:09:01,210
+abnormal so there are
+some cytokines or chemical
+
+193
+00:09:01,210 --> 00:09:04,130
+kind of communication
+methods to the b cell
+
+194
+00:09:04,130 --> 00:09:06,330
+which then will activate
+it which then will
+
+195
+00:09:06,330 --> 00:09:09,610
+create more plasma
+cells with specific
+
+196
+00:09:09,610 --> 00:09:11,910
+antibodies so these are
+smaller right so these
+
+197
+00:09:11,910 --> 00:09:14,490
+are probably igg as
+you can tell these are
+
+198
+00:09:14,490 --> 00:09:16,610
+igms so you have some
+restriction on where
+
+199
+00:09:16,610 --> 00:09:19,370
+they can travel and what
+they can kill and then
+
+200
+00:09:19,370 --> 00:09:22,310
+you form also memory
+b cells so that will
+
+201
+00:09:22,310 --> 00:09:25,690
+also cause more of these
+compounds to be able
+
+202
+00:09:25,690 --> 00:09:29,500
+to be recognized by
+the B cell. So the T
+
+203
+00:09:29,500 --> 00:09:32,390
+cell-dependent activation
+is a much stronger,
+
+204
+00:09:32,690 --> 00:09:35,060
+more long-lived
+immunoresponse
+
+205
+00:09:35,060 --> 00:09:37,450
+versus the independent
+one, which causes
+
+206
+00:09:37,450 --> 00:09:39,610
+a more short,
+robust response.
+
+207
+00:09:40,590 --> 00:09:44,690
+And then this is also
+the direct kind of
+
+208
+00:09:44,770 --> 00:09:47,850
+picture of antibody
+-mediated toxicity.
+
+209
+00:09:47,850 --> 00:09:51,010
+So once an antibody
+will attach the antigen,
+
+210
+00:09:51,010 --> 00:09:54,470
+then the NK cell,
+which is a granulocyte,
+
+211
+00:09:54,470 --> 00:09:56,770
+can come over,
+recognize the antibody
+
+212
+00:09:56,770 --> 00:09:58,490
+and they'll be like,
+oh, I have to kill
+
+213
+00:09:58,490 --> 00:10:00,390
+this. So then we'll
+release a bunch of
+
+214
+00:10:00,390 --> 00:10:04,340
+granulocytes, granulocytes
+and perforins,
+
+215
+00:10:04,410 --> 00:10:06,610
+which will cause
+little holes in the,
+
+216
+00:10:06,610 --> 00:10:09,970
+in the cell causing
+apoptosis, right? So,
+
+217
+00:10:10,170 --> 00:10:11,870
+okay, general
+overview, you guys know
+
+218
+00:10:11,870 --> 00:10:13,710
+this stuff, but I just
+like pictures. So,
+
+219
+00:10:14,150 --> 00:10:17,830
+all right. So for
+immunodeficiencies, remember
+
+220
+00:10:17,830 --> 00:10:20,090
+what I said, age is
+really important. So
+
+221
+00:10:20,090 --> 00:10:22,990
+at what age do they
+present with symptoms
+
+222
+00:10:22,990 --> 00:10:25,770
+of frequent infections?
+It will help you
+
+223
+00:10:25,950 --> 00:10:29,570
+determine what pathology
+it is. So as you can
+
+224
+00:10:29,570 --> 00:10:32,750
+see, the severe combined
+immune deficiency or
+
+225
+00:10:32,750 --> 00:10:35,870
+SCID and DeGeorge and
+the leukocyte adhesion
+
+226
+00:10:35,870 --> 00:10:38,710
+defects, those show
+up very early on,
+
+227
+00:10:38,710 --> 00:10:41,670
+right? So in the first
+couple months of life.
+
+228
+00:10:41,750 --> 00:10:44,370
+And then you get the
+antibody deficiencies
+
+229
+00:10:44,370 --> 00:10:46,890
+after six months to
+about two years. And I
+
+230
+00:10:46,890 --> 00:10:49,450
+want you guys to think
+about why, right? So
+
+231
+00:10:49,450 --> 00:10:52,670
+remember, mom's antibodies
+protect us until
+
+232
+00:10:52,670 --> 00:10:55,250
+about six months and
+then they start waning.
+
+233
+00:10:55,630 --> 00:10:58,210
+And remember the one
+that passes over is
+
+234
+00:10:58,210 --> 00:11:02,410
+your IgG. So the blood
+placental barrier is
+
+235
+00:11:02,410 --> 00:11:04,410
+strong but it lets some
+things through including
+
+236
+00:11:04,410 --> 00:11:06,770
+medications and
+antibodies. So IgG will
+
+237
+00:11:06,770 --> 00:11:09,430
+be able to cross
+through, IgM does not. So
+
+238
+00:11:09,430 --> 00:11:12,370
+IgG will help with
+our immune system and
+
+239
+00:11:12,370 --> 00:11:16,050
+protect us up until
+about six months and then
+
+240
+00:11:16,050 --> 00:11:18,310
+after six months the
+mom's antibodies kind
+
+241
+00:11:18,310 --> 00:11:20,910
+of start waning and
+then if you don't have
+
+242
+00:11:20,910 --> 00:11:23,450
+antibodies of your
+own as a baby then you
+
+243
+00:11:23,450 --> 00:11:26,530
+start seeing uh problems
+with antibody deficiencies
+
+244
+00:11:26,530 --> 00:11:28,970
+around this age okay
+so it kind of fits
+
+245
+00:11:28,970 --> 00:11:32,510
+um two to six year old
+you get less severe
+
+246
+00:11:32,510 --> 00:11:35,450
+antibody deficiencies
+like iga oftentimes
+
+247
+00:11:35,450 --> 00:11:37,630
+you can go your whole
+life without recognizing
+
+248
+00:11:37,630 --> 00:11:40,190
+that you have iga
+deficiency um unless
+
+249
+00:11:40,190 --> 00:11:42,470
+you get a blood
+transfusion or celiac or
+
+250
+00:11:42,470 --> 00:11:45,030
+something like that that
+might prompt testing.
+
+251
+00:11:46,050 --> 00:11:49,110
+And then some of the
+older children, they
+
+252
+00:11:49,110 --> 00:11:51,550
+can also get secondary
+immune deficiencies.
+
+253
+00:11:51,550 --> 00:11:54,830
+For example, if they
+get chemotherapy or have
+
+254
+00:11:54,830 --> 00:11:58,430
+a really bad EBV
+infection, that can also
+
+255
+00:11:58,430 --> 00:12:02,740
+really cramp down on
+their immunofunction.
+
+256
+00:12:03,350 --> 00:12:05,750
+And then also the
+common variable
+
+257
+00:12:05,750 --> 00:12:07,310
+immune deficiency
+also happens
+
+258
+00:12:07,310 --> 00:12:09,230
+in more older
+children, OK,
+
+259
+00:12:09,570 --> 00:12:12,190
+so this is an important
+chart. And then also,
+
+260
+00:12:12,190 --> 00:12:14,250
+I want you guys to look
+at this chart, too,
+
+261
+00:12:14,250 --> 00:12:16,730
+which is the inheritance
+pattern. So in
+
+262
+00:12:16,730 --> 00:12:18,530
+your question stem,
+it'll give you something
+
+263
+00:12:18,530 --> 00:12:21,530
+that will help you
+determine what kind of
+
+264
+00:12:22,050 --> 00:12:26,330
+inheritance it is. Or it
+will ask you, OK, this
+
+265
+00:12:26,330 --> 00:12:28,070
+is what they were
+diagnosed with. What is
+
+266
+00:12:28,070 --> 00:12:31,050
+the inheritance pattern?
+Or a mom has this
+
+267
+00:12:31,050 --> 00:12:33,970
+disease and she's stinky
+about having a child.
+
+268
+00:12:34,190 --> 00:12:36,550
+What is the chance
+that this baby will
+
+269
+00:12:36,550 --> 00:12:38,390
+have this disease
+as well? Right. So
+
+270
+00:12:38,390 --> 00:12:40,570
+that's how they'll
+ask the question.
+
+271
+00:12:40,570 --> 00:12:43,870
+So remember your X
+-linked ones are chronic
+
+272
+00:12:43,870 --> 00:12:46,430
+granulomatous disease,
+Wiscott-Aldrich,
+
+273
+00:12:46,570 --> 00:12:49,770
+X-linked agamaglomanemia,
+X-linked hyper
+
+274
+00:12:49,770 --> 00:12:53,670
+-IgM, and X-linked
+SCID, which is the most
+
+275
+00:12:53,670 --> 00:12:55,830
+common form of SCID,
+which we'll talk about.
+
+276
+00:12:56,190 --> 00:12:59,550
+Autosomal recessive
+will be your ataxia,
+
+277
+00:12:59,770 --> 00:13:02,990
+leukocyte adhesion defect,
+Chiragashi-Hagashi,
+
+278
+00:13:03,550 --> 00:13:05,450
+Schwann-Diamond
+syndrome, which is a bone
+
+279
+00:13:05,450 --> 00:13:08,350
+marrow defect, and
+autosomal recessive.
+
+280
+00:13:09,570 --> 00:13:13,690
+skin. The only
+autosomal dominant one
+
+281
+00:13:13,690 --> 00:13:15,410
+that we have that's
+immunodeficiency
+
+282
+00:13:15,410 --> 00:13:18,670
+is the hyper-IgE or
+the job syndrome.
+
+283
+00:13:18,930 --> 00:13:22,150
+And then some
+sporadic ones are the
+
+284
+00:13:22,150 --> 00:13:24,890
+genetic DeGeorge
+and common variable
+
+285
+00:13:25,030 --> 00:13:27,430
+immunodeficiencies. Those
+are sporadic, right?
+
+286
+00:13:27,430 --> 00:13:30,590
+So just try to think
+about the outliers
+
+287
+00:13:30,590 --> 00:13:32,690
+and remember the X
+-linked because those
+
+288
+00:13:32,690 --> 00:13:35,430
+will predominantly
+affect men, right?
+
+289
+00:13:35,430 --> 00:13:37,170
+Because they only
+have one copy of the X
+
+290
+00:13:37,170 --> 00:13:39,290
+gene, whereas females
+have two copies.
+
+291
+00:13:39,610 --> 00:13:40,090
+Okay,
+
+292
+00:13:40,370 --> 00:13:44,190
+and then remember for
+adaptive versus innate,
+
+293
+00:13:44,190 --> 00:13:46,350
+we talked about this
+already. For innate,
+
+294
+00:13:46,350 --> 00:13:49,130
+that's the quick first
+responders, and that's
+
+295
+00:13:49,130 --> 00:13:50,770
+going to be your
+phagocytes and complement
+
+296
+00:13:50,830 --> 00:13:53,410
+system. And the type
+of infections you get
+
+297
+00:13:53,410 --> 00:13:55,890
+are abscesses, soft
+tissue infections. With
+
+298
+00:13:55,890 --> 00:13:58,630
+complement, you get
+meningitis, sepsis
+
+299
+00:13:58,630 --> 00:14:02,850
+specifically from Neisseria
+meningitidis um and
+
+300
+00:14:02,850 --> 00:14:04,910
+then also uh the
+abscesses are going to be
+
+301
+00:14:04,910 --> 00:14:08,810
+Staph aureus uh coagulase
+negative serratia
+
+302
+00:14:08,810 --> 00:14:12,350
+aspergillus all those
+for adaptive immune
+
+303
+00:14:12,350 --> 00:14:15,190
+system those are your
+specialized kind of uh
+
+304
+00:14:15,370 --> 00:14:17,650
+providers and so that
+will be your b cells
+
+305
+00:14:17,650 --> 00:14:21,100
+and t cells so b cells
+specifically um cause
+
+306
+00:14:21,100 --> 00:14:24,070
+will lack of will cause
+cytopulmonary infections
+
+307
+00:14:24,070 --> 00:14:25,750
+and that's because
+those antibodies are
+
+308
+00:14:25,750 --> 00:14:28,930
+so important for that.
+And that will mostly
+
+309
+00:14:28,930 --> 00:14:33,090
+be your strep pneumo,
+H-influx, staph,
+
+310
+00:14:33,090 --> 00:14:35,950
+aureus, pseudomonas,
+enterovirus, and giardia.
+
+311
+00:14:36,450 --> 00:14:39,330
+For T-cells, think
+about opportunistic
+
+312
+00:14:39,330 --> 00:14:41,610
+infections. So it's
+really important
+
+313
+00:14:41,610 --> 00:14:45,050
+to know what your
+normal biome is composed
+
+314
+00:14:45,050 --> 00:14:48,310
+of and then what
+constitutes an
+
+315
+00:14:48,310 --> 00:14:51,790
+opportunistic infection,
+right? So candida,
+
+316
+00:14:51,790 --> 00:14:54,970
+pneumocystis,
+mycobacteria, CMV,
+
+317
+00:14:54,970 --> 00:14:57,020
+those are all
+opportunistic infections.
+
+318
+00:14:58,360 --> 00:15:00,130
+Okay, I hope that helps.
+
+319
+00:15:00,510 --> 00:15:02,130
+Let's keep going. Okay,
+
+320
+00:15:02,510 --> 00:15:05,010
+this is a great
+chart that I found
+
+321
+00:15:05,010 --> 00:15:06,910
+in Ruben's pathology,
+which is what
+
+322
+00:15:06,910 --> 00:15:09,350
+we used to use
+back in the day.
+
+323
+00:15:09,750 --> 00:15:11,550
+I thought it was
+really helpful, and
+
+324
+00:15:11,550 --> 00:15:14,450
+I'll kind of reference
+this photo on the
+
+325
+00:15:14,450 --> 00:15:17,210
+left every time I
+go through some of
+
+326
+00:15:17,210 --> 00:15:19,670
+the pathologies
+because it helps me
+
+327
+00:15:19,670 --> 00:15:22,010
+kind of figure out,
+okay, it stops working
+
+328
+00:15:22,010 --> 00:15:24,770
+here, so all this
+will be affected.
+
+329
+00:15:24,810 --> 00:15:26,410
+And I hope it helps you
+
+330
+00:15:26,410 --> 00:15:28,450
+as well to think about.
+
+331
+00:15:29,530 --> 00:15:31,270
+Okay, quickly, we'll talk
+
+332
+00:15:31,270 --> 00:15:32,610
+about the picture
+on the right.
+
+333
+00:15:32,610 --> 00:15:35,270
+Again, it talks
+about how, you
+
+334
+00:15:35,270 --> 00:15:36,810
+know, if T cells
+are affected,
+
+335
+00:15:36,930 --> 00:15:38,350
+you will see a low
+
+336
+00:15:38,350 --> 00:15:40,070
+lymphocyte count.
+You'll see,
+
+337
+00:15:41,310 --> 00:15:43,810
+oh, sorry, The way
+you measure it is
+
+338
+00:15:43,810 --> 00:15:46,550
+you'll check for
+lymphocyte count.
+
+339
+00:15:46,550 --> 00:15:48,380
+You'll check for
+lymphocyte flow cytometry,
+
+340
+00:15:48,610 --> 00:15:50,350
+specifically the
+T-cell markers.
+
+341
+00:15:50,570 --> 00:15:52,820
+You'll check for T
+-cell perforation.
+
+342
+00:15:53,450 --> 00:15:55,910
+And then the symptoms
+you will have are
+
+343
+00:15:55,910 --> 00:15:57,830
+failure to thrive,
+severe viral
+
+344
+00:15:57,830 --> 00:16:01,250
+infections, which include
+HPV infections, so
+
+345
+00:16:01,250 --> 00:16:05,190
+a lot of warts, and
+then recurrent HSV
+
+346
+00:16:05,190 --> 00:16:07,730
+encephalitis, right?
+So HSV is ******.
+
+347
+00:16:08,210 --> 00:16:12,050
+um and oftentimes they'll
+have the meningitis
+
+348
+00:16:12,050 --> 00:16:14,770
+encephalitis without
+having oral lesions
+
+349
+00:16:14,770 --> 00:16:17,810
+um you can get a life
+-threatening EPV infection
+
+350
+00:16:17,810 --> 00:16:20,030
+which can lead to
+something called HLH
+
+351
+00:16:20,030 --> 00:16:24,050
+which is called um
+hemophagocytic lymphocytosis
+
+352
+00:16:25,990 --> 00:16:29,590
+and uh that is basically
+your whole immune
+
+353
+00:16:29,590 --> 00:16:31,430
+system just goes
+haywire and it's a
+
+354
+00:16:31,430 --> 00:16:34,210
+cytokine storm um I've
+seen one patient in the
+
+355
+00:16:34,210 --> 00:16:36,710
+hospital with this and
+they get really sick,
+
+356
+00:16:36,710 --> 00:16:40,430
+they get multi-organ
+failure, they get fevers,
+
+357
+00:16:40,430 --> 00:16:43,410
+they get pancytopenic,
+so it's really
+
+358
+00:16:43,410 --> 00:16:47,670
+hard, and we have some
+immunosuppressants, but
+
+359
+00:16:47,670 --> 00:16:51,810
+no really, really good
+therapies for HLH.
+
+360
+00:16:52,180 --> 00:16:54,070
+Currently, we have
+anakinra, which is your
+
+361
+00:16:54,070 --> 00:16:58,530
+IL-1 inhibitor, and
+that seems to be uh
+
+362
+00:16:58,530 --> 00:17:03,290
+helping a little bit
+okay um now in terms of
+
+363
+00:17:03,290 --> 00:17:06,970
+fungal infections so
+severe candida aspergillus
+
+364
+00:17:06,970 --> 00:17:10,490
+for those bugs you
+can get osteomyelitis
+
+365
+00:17:10,490 --> 00:17:13,110
+you can get pneumonias
+again a weird place
+
+366
+00:17:13,110 --> 00:17:16,790
+to get them um for
+bacterial so more
+
+367
+00:17:16,790 --> 00:17:19,910
+commonly with b cells
+you get the recurrent
+
+368
+00:17:19,910 --> 00:17:22,330
+cytopulmonary like we
+talked about you get the
+
+369
+00:17:22,330 --> 00:17:25,970
+internal viral
+meningitis meningitis you
+
+370
+00:17:25,970 --> 00:17:27,850
+get bronchiectasis
+and then recurring
+
+371
+00:17:27,850 --> 00:17:35,570
+gastroenteritis um for
+uh for phagocytes you'll
+
+372
+00:17:35,570 --> 00:17:38,330
+get abscesses you get
+severe bacterial infections
+
+373
+00:17:38,330 --> 00:17:40,670
+for wound healing
+because remember you
+
+374
+00:17:40,670 --> 00:17:42,390
+need all those cells
+to kind of come there
+
+375
+00:17:42,390 --> 00:17:44,570
+to help lay down good
+foundations to heal
+
+376
+00:17:44,570 --> 00:17:49,170
+and then periodontal
+disease as well um and
+
+377
+00:17:49,170 --> 00:17:52,250
+then you can check
+for uh the neutrophil
+
+378
+00:17:52,250 --> 00:17:56,050
+count um or the oxidative
+burst uh which helps
+
+379
+00:17:56,050 --> 00:17:57,810
+you determine whether
+this is a phagocyte
+
+380
+00:17:57,810 --> 00:18:00,290
+disorder. For a B cell
+disorder, you want
+
+381
+00:18:00,290 --> 00:18:02,430
+to check for the
+immunoglobulin levels,
+
+382
+00:18:02,430 --> 00:18:04,590
+vaccine titers, because
+remember you should
+
+383
+00:18:04,590 --> 00:18:07,210
+have some sort of a
+memory about the vaccine
+
+384
+00:18:07,210 --> 00:18:08,910
+that you came across
+and these should be
+
+385
+00:18:08,910 --> 00:18:13,770
+IgM and usually IgG
+should be responsive of
+
+386
+00:18:13,770 --> 00:18:17,470
+those old memories.
+So IgG is your memory
+
+387
+00:18:17,470 --> 00:18:22,690
+cell, right? So
+lymphocyte flow cytometry,
+
+388
+00:18:22,730 --> 00:18:24,830
+which also will check
+for B cell markers can
+
+389
+00:18:24,830 --> 00:18:26,750
+also help you if there's
+a B cell problem.
+
+390
+00:18:26,950 --> 00:18:29,830
+For complement, really
+Neisseria is your main
+
+391
+00:18:29,830 --> 00:18:31,690
+one. And again, you're
+checking these two
+
+392
+00:18:31,690 --> 00:18:35,710
+levels of CH50 and
+AH50 in the lab work to
+
+393
+00:18:35,710 --> 00:18:39,150
+see if there's any
+deficiencies in the
+
+394
+00:18:39,150 --> 00:18:41,770
+complement system. You
+can also get early onset
+
+395
+00:18:41,770 --> 00:18:44,750
+lupus and encapsulated
+bacterial infections.
+
+396
+00:18:46,550 --> 00:18:49,950
+Okay, I think that
+was pretty much it.
+
+397
+00:18:49,950 --> 00:18:53,190
+Um, you'll get, uh,
+for Neisseria, you
+
+398
+00:18:53,190 --> 00:18:55,530
+can get Neisseria
+meningitis, or you
+
+399
+00:18:55,530 --> 00:18:57,970
+can disseminate
+gonococcal infections as
+
+400
+00:18:57,970 --> 00:19:01,270
+well. Um, and then,
+um, mycobacteria,
+
+401
+00:19:01,270 --> 00:19:03,490
+uh, is also something
+that you can get.
+
+402
+00:19:03,670 --> 00:19:04,630
+Okay.
+
+403
+00:19:06,390 --> 00:19:10,350
+All right. So in primary
+immune deficiency
+
+404
+00:19:10,350 --> 00:19:12,690
+disorders, uh,
+which is also the
+
+405
+00:19:12,690 --> 00:19:16,220
+acronym for PID, um,
+There are about 550
+
+406
+00:19:16,290 --> 00:19:20,310
+and still counting
+different disorders.
+
+407
+00:19:20,370 --> 00:19:23,490
+The diagnosis
+is tough because
+
+408
+00:19:23,930 --> 00:19:26,170
+it's really
+rare. So to have
+
+409
+00:19:26,170 --> 00:19:27,790
+immune deficiency
+is really rare.
+
+410
+00:19:27,970 --> 00:19:30,650
+The disease incidence
+is low and then your
+
+411
+00:19:30,650 --> 00:19:32,770
+index suspicion is
+usually low because
+
+412
+00:19:32,770 --> 00:19:35,010
+kids get a lot of
+infections, right? So we
+
+413
+00:19:35,010 --> 00:19:38,270
+say normally for
+preschool kids, they
+
+414
+00:19:38,270 --> 00:19:41,090
+usually get about six
+to 10 viral infections
+
+415
+00:19:41,090 --> 00:19:43,750
+a year and that's
+normal, right? Right. So
+
+416
+00:19:43,840 --> 00:19:46,250
+imagine if, you know,
+a parent comes in
+
+417
+00:19:46,250 --> 00:19:47,750
+like, oh, I don't
+know, like they keep
+
+418
+00:19:47,750 --> 00:19:49,930
+getting infections and
+they keep getting sick.
+
+419
+00:19:49,930 --> 00:19:51,930
+And my first thought
+is like, oh, yeah,
+
+420
+00:19:51,930 --> 00:19:54,170
+you know, the viral
+infection is 10 a year,
+
+421
+00:19:54,170 --> 00:19:55,810
+like preschool
+student. That's normal.
+
+422
+00:19:56,930 --> 00:20:00,650
+But it's helpful to
+we'll talk about some
+
+423
+00:20:00,650 --> 00:20:02,590
+of the alarming things
+that will help you
+
+424
+00:20:02,590 --> 00:20:04,210
+determine, OK, this is
+something I actually
+
+425
+00:20:04,210 --> 00:20:08,770
+need to pay attention
+to. um for uh there's
+
+426
+00:20:08,770 --> 00:20:11,350
+a lot of varied
+presentations on immune
+
+427
+00:20:11,350 --> 00:20:13,930
+deficiencies so um you
+won't have one that
+
+428
+00:20:13,930 --> 00:20:17,150
+presents exactly
+like the other um and
+
+429
+00:20:17,150 --> 00:20:19,670
+they can be complex
+phenotypes as well so it
+
+430
+00:20:19,670 --> 00:20:22,730
+doesn't always fit
+the bill um a lot of
+
+431
+00:20:22,730 --> 00:20:24,690
+this some of the alarming
+signs you can see
+
+432
+00:20:24,690 --> 00:20:27,730
+is infections with
+cutaneous lesions failure
+
+433
+00:20:27,730 --> 00:20:31,110
+to thrive and then
+autoimmunity um so
+
+434
+00:20:31,110 --> 00:20:33,930
+remember that can
+present with sort of non
+
+435
+00:20:33,930 --> 00:20:36,130
+-specific viral illnesses
+like fevers up and
+
+436
+00:20:36,130 --> 00:20:40,610
+down um or really bad
+severe allergies um
+
+437
+00:20:41,010 --> 00:20:44,410
+so uh this is challenging
+because again it
+
+438
+00:20:44,410 --> 00:20:46,710
+requires a lot of
+coordination of care as
+
+439
+00:20:46,710 --> 00:20:51,590
+well these are complex
+um usually we um
+
+440
+00:20:51,590 --> 00:20:54,370
+one of the autoimmunity
+diseases that could
+
+441
+00:20:54,370 --> 00:20:56,870
+clue you off is like
+if they get lupus like
+
+442
+00:20:56,870 --> 00:20:58,930
+early onset lupus
+before the age of five
+
+443
+00:20:58,930 --> 00:21:02,410
+which is really really
+rare or even pre
+
+444
+00:21:02,410 --> 00:21:06,510
+-pubertal is very
+uncommon and also getting
+
+445
+00:21:06,510 --> 00:21:09,690
+like small bowel
+enteropathy really early
+
+446
+00:21:09,690 --> 00:21:13,050
+on like less than six
+years of age has about
+
+447
+00:21:13,050 --> 00:21:16,210
+20% linked to having
+some sort of an
+
+448
+00:21:16,210 --> 00:21:19,490
+underlying autoimmune
+or immune dysfunction.
+
+449
+00:21:19,610 --> 00:21:21,630
+So these are
+some things that
+
+450
+00:21:21,630 --> 00:21:23,170
+can help clue
+you in that maybe
+
+451
+00:21:23,170 --> 00:21:24,930
+there's something
+else going on.
+
+452
+00:21:25,900 --> 00:21:28,150
+Remember the fever
+syndromes are a little
+
+453
+00:21:28,150 --> 00:21:30,410
+bit unique because
+they will have fevers
+
+454
+00:21:30,410 --> 00:21:33,610
+without any infectious
+triggers so no uri
+
+455
+00:21:33,610 --> 00:21:36,390
+symptoms the blood
+cultures has been negative
+
+456
+00:21:36,390 --> 00:21:38,810
+things like that
+and usually they'll
+
+457
+00:21:38,810 --> 00:21:41,450
+get it like once a
+month um in about it
+
+458
+00:21:41,450 --> 00:21:43,610
+takes about two weeks
+to recover so it'll be
+
+459
+00:21:43,610 --> 00:21:48,210
+a very prolonged um
+you know duration uh
+
+460
+00:21:48,210 --> 00:21:50,190
+that's because they
+have trouble clearing
+
+461
+00:21:50,190 --> 00:21:52,890
+the pathogen uh from
+the lack of proper
+
+462
+00:21:52,890 --> 00:21:55,250
+immune system so that
+can also clue you in.
+
+463
+00:21:55,850 --> 00:21:59,010
+So if it's more than
+10, the severity
+
+464
+00:21:59,010 --> 00:22:00,290
+of the symptoms
+is very bad.
+
+465
+00:22:00,290 --> 00:22:02,010
+They're requiring
+hospitalization,
+
+466
+00:22:02,170 --> 00:22:03,910
+really severe
+symptoms. They're
+
+467
+00:22:03,910 --> 00:22:06,890
+requiring prolonged
+IV antibiotics.
+
+468
+00:22:07,190 --> 00:22:08,690
+They don't respond very
+
+469
+00:22:08,690 --> 00:22:10,190
+well to oral antibiotics.
+
+470
+00:22:12,070 --> 00:22:14,230
+Then you're,
+and they have
+
+471
+00:22:14,230 --> 00:22:15,550
+a very prolonged
+duration.
+
+472
+00:22:15,970 --> 00:22:17,930
+Then you're
+starting to think,
+
+473
+00:22:18,670 --> 00:22:20,130
+okay, maybe there's
+something else
+
+474
+00:22:20,130 --> 00:22:21,530
+going on that I
+need to check on
+
+475
+00:22:21,530 --> 00:22:25,550
+okay um some of the
+remember like the
+
+476
+00:22:25,550 --> 00:22:27,250
+pathogens that we
+talked about the
+
+477
+00:22:27,630 --> 00:22:29,830
+opportunistic infection
+can also clue you
+
+478
+00:22:29,830 --> 00:22:34,050
+in or if they've been
+vaccinated by all of
+
+479
+00:22:34,050 --> 00:22:36,850
+these that you see here
+rotavirus uh varicella
+
+480
+00:22:36,850 --> 00:22:39,970
+and mmr and they
+still get diseases you
+
+481
+00:22:39,970 --> 00:22:41,630
+can have a little bit
+of breakthrough but you
+
+482
+00:22:41,630 --> 00:22:43,750
+have a much milder
+disease but if they have
+
+483
+00:22:43,750 --> 00:22:46,610
+a full-blown um you
+know varicella but
+
+484
+00:22:46,610 --> 00:22:48,770
+they've already been
+vaccinated that's also
+
+485
+00:22:48,770 --> 00:22:51,490
+an alarming sign that
+maybe they're not having
+
+486
+00:22:51,490 --> 00:22:53,950
+the same immune
+response and the memory.
+
+487
+00:22:54,250 --> 00:22:56,850
+And remember, they're
+live attenuated
+
+488
+00:22:56,850 --> 00:22:59,450
+vaccines, so they're much,
+much weaker. So normal
+
+489
+00:22:59,450 --> 00:23:01,690
+immune systems should
+be able to kind of
+
+490
+00:23:01,930 --> 00:23:04,750
+take care of that
+infection and also
+
+491
+00:23:04,750 --> 00:23:06,150
+develop memory
+from it, right?
+
+492
+00:23:06,150 --> 00:23:07,590
+That's the whole
+point of vaccines.
+
+493
+00:23:07,850 --> 00:23:10,430
+But in these cases, in
+these patients, they
+
+494
+00:23:10,430 --> 00:23:13,260
+won't be able to get
+good memory or defeat
+
+495
+00:23:13,590 --> 00:23:17,750
+the virus. So that can
+cause symptom breakthrough.
+
+496
+00:23:17,750 --> 00:23:20,590
+So that's another
+clue. in your lab work
+
+497
+00:23:20,590 --> 00:23:22,690
+it's possible that
+neutropenia slash
+
+498
+00:23:22,690 --> 00:23:26,170
+lymphocytopenia might be
+present you may get some
+
+499
+00:23:26,170 --> 00:23:29,510
+family history of a
+primary immunodeficiency
+
+500
+00:23:29,510 --> 00:23:31,410
+disorder especially in
+the autosomal dominance
+
+501
+00:23:31,410 --> 00:23:34,110
+that we talked about
+or if they have a
+
+502
+00:23:34,110 --> 00:23:36,990
+history of consiguity
+that can also help you
+
+503
+00:23:36,990 --> 00:23:39,550
+especially if it's an
+autosomal recessive
+
+504
+00:23:39,550 --> 00:23:41,870
+disorder that is showing
+up and you're like
+
+505
+00:23:41,870 --> 00:23:44,770
+how um and that that
+might be because the
+
+506
+00:23:44,770 --> 00:23:48,910
+parents are are um closely
+related um so that can
+
+507
+00:23:48,910 --> 00:23:52,290
+that can also uh show
+up as an autosomal
+
+508
+00:23:52,290 --> 00:23:56,310
+recessive disorder um
+and we talked about this
+
+509
+00:23:56,310 --> 00:24:02,150
+already okay let's
+move on um so you you
+
+510
+00:24:02,150 --> 00:24:03,870
+sort of get a good
+history of physical that's
+
+511
+00:24:03,870 --> 00:24:05,970
+definitely important
+getting the cbc with
+
+512
+00:24:05,970 --> 00:24:07,990
+differential counts you
+get some cultures you
+
+513
+00:24:07,990 --> 00:24:10,170
+get some imaging you
+get immuno titers you
+
+514
+00:24:10,170 --> 00:24:12,190
+can get titers of the
+vaccines that we give
+
+515
+00:24:12,190 --> 00:24:14,950
+so diphtheria and tetanus
+you can also check
+
+516
+00:24:14,950 --> 00:24:17,670
+for pneumococcus and
+haemophilus titers and
+
+517
+00:24:17,670 --> 00:24:19,090
+then the complement
+levels like we talked
+
+518
+00:24:19,090 --> 00:24:22,870
+about if those are all
+normal then we talk to
+
+519
+00:24:22,870 --> 00:24:24,730
+the immunologist and
+then we just kind of
+
+520
+00:24:24,730 --> 00:24:27,970
+consider following these
+up however if we get
+
+521
+00:24:27,970 --> 00:24:30,790
+abnormalities and then
+we can kind of go into
+
+522
+00:24:30,790 --> 00:24:33,710
+each section and be
+like what we can do more
+
+523
+00:24:33,710 --> 00:24:36,750
+things if we suspect
+a specific disorder so
+
+524
+00:24:36,750 --> 00:24:39,230
+for example if you
+suspect there's a defect
+
+525
+00:24:39,230 --> 00:24:41,630
+in b-cells um then
+you would check flow
+
+526
+00:24:41,630 --> 00:24:44,890
+cytometry like we talked
+about um and all those
+
+527
+00:24:44,890 --> 00:24:47,590
+functional b-cell
+studies versus a combined
+
+528
+00:24:47,590 --> 00:24:49,950
+defect you would check
+for t-cells b-cells
+
+529
+00:24:49,950 --> 00:24:54,690
+nk cells um and t-cell
+mitogen studies if you
+
+530
+00:24:54,690 --> 00:24:57,010
+suspect a phagocyte
+defect you're going to
+
+531
+00:24:57,010 --> 00:24:59,770
+check granulomatous
+uh chronic disease uh
+
+532
+00:24:59,770 --> 00:25:02,310
+you're going to check
+for those oxidative burst
+
+533
+00:25:02,310 --> 00:25:05,270
+um things you can also
+check for neutrophil
+
+534
+00:25:05,270 --> 00:25:09,070
+chemotaxis assays il
+-12 receptor expression
+
+535
+00:25:09,070 --> 00:25:11,770
+and then flow cytometry
+for the leukocyte
+
+536
+00:25:11,770 --> 00:25:16,750
+adhesion uh defects so
+um and the integrins
+
+537
+00:25:16,750 --> 00:25:19,990
+like cd11 cd18 and 15
+which we'll talk about
+
+538
+00:25:19,990 --> 00:25:21,730
+so this is sort of i
+just want you to have
+
+539
+00:25:21,730 --> 00:25:24,830
+a like overall kind of map
+of what an immunologist
+
+540
+00:25:24,830 --> 00:25:27,830
+would do in practice
+you would do
+
+541
+00:25:27,830 --> 00:25:31,150
+probably just this much,
+if any, and then you'd
+
+542
+00:25:31,150 --> 00:25:33,330
+send them to an immunologist
+if you still were
+
+543
+00:25:33,330 --> 00:25:36,310
+suspicious of something,
+right? So remember,
+
+544
+00:25:36,310 --> 00:25:37,830
+as a general pediatrician,
+you'd probably
+
+545
+00:25:37,830 --> 00:25:40,630
+just do the upper half
+and then send them.
+
+546
+00:25:41,710 --> 00:25:43,290
+Okay, so this is
+what we're going to
+
+547
+00:25:43,290 --> 00:25:45,530
+cover, and this is not
+what we're not going
+
+548
+00:25:45,530 --> 00:25:47,390
+to cover, because
+that's covered in Dr.
+
+549
+00:25:47,390 --> 00:25:50,370
+Hurst's lecture. So
+Dr. Hurst covers IgA
+
+550
+00:25:51,150 --> 00:25:53,250
+combined variable
+immunodifficiency.
+
+551
+00:25:53,250 --> 00:25:55,600
+He also covers
+chronic mycocutaneous
+
+552
+00:25:55,600 --> 00:25:58,150
+candidiasis,
+Chariaki Higashi,
+
+553
+00:25:58,330 --> 00:25:59,830
+Chronic Ganylonous
+Disease,
+
+554
+00:25:59,830 --> 00:26:01,410
+and Complement
+Deficiency.
+
+555
+00:26:03,170 --> 00:26:05,210
+He might not cover
+Complement Deficiency,
+
+556
+00:26:05,210 --> 00:26:07,990
+but that one is pretty
+straightforward, so
+
+557
+00:26:07,990 --> 00:26:09,990
+I did not cover it
+in this lecture. What
+
+558
+00:26:09,990 --> 00:26:12,210
+is covered in this
+lecture is all that we've
+
+559
+00:26:12,210 --> 00:26:13,910
+talked about and
+things that are listed,
+
+560
+00:26:13,910 --> 00:26:16,110
+okay? So let's get
+started. So I'm going
+
+561
+00:26:16,110 --> 00:26:18,350
+to start first with the
+phagocytic disorder,
+
+562
+00:26:18,350 --> 00:26:21,290
+which is the leukocyte
+adhesion deficiency.
+
+563
+00:26:21,290 --> 00:26:23,410
+There are many types,
+but we're going
+
+564
+00:26:23,410 --> 00:26:24,690
+to talk about just
+type 1 because that's
+
+565
+00:26:24,690 --> 00:26:27,190
+most common and the
+easiest to understand.
+
+566
+00:26:27,770 --> 00:26:29,510
+There's different types,
+
+567
+00:26:30,110 --> 00:26:34,030
+type 2, type 3 will
+affect different parts
+
+568
+00:26:34,030 --> 00:26:36,390
+of the proteins that
+help with chemotaxis.
+
+569
+00:26:36,390 --> 00:26:39,830
+Okay, so this is an
+autosomal recessive
+
+570
+00:26:39,830 --> 00:26:42,310
+disorder. Okay, it's
+a defect in the beta
+
+571
+00:26:42,310 --> 00:26:45,610
+2 integrin or the
+CD18 protein, which is
+
+572
+00:26:45,610 --> 00:26:47,750
+also referred to as
+the leukocyte function
+
+573
+00:26:47,750 --> 00:26:51,530
+associated antigen
+type 1 LFA. And you
+
+574
+00:26:51,530 --> 00:26:54,390
+can see it right here
+in this image um down
+
+575
+00:26:54,390 --> 00:26:58,390
+here uh you can see
+that the cd18 or the
+
+576
+00:26:58,390 --> 00:27:02,530
+beta 2 integrins um
+the uh the neutrophil
+
+577
+00:27:02,530 --> 00:27:05,890
+or the um granulocyte
+uses this to kind
+
+578
+00:27:05,890 --> 00:27:08,710
+of tumble remember
+that nice uh tumbling
+
+579
+00:27:08,710 --> 00:27:11,190
+and then it it connects
+to those proteins
+
+580
+00:27:11,190 --> 00:27:13,930
+which then connect to
+the cell uh the cell
+
+581
+00:27:13,930 --> 00:27:16,510
+um antigens and then
+that goes together
+
+582
+00:27:16,510 --> 00:27:19,850
+like this and then
+allows it to kind of um
+
+583
+00:27:20,230 --> 00:27:23,650
+diabetes so into the
+cell where it is needed
+
+584
+00:27:23,650 --> 00:27:27,110
+okay so that's the
+process so this effect
+
+585
+00:27:27,110 --> 00:27:29,870
+this will affect
+chemotaxis and migration
+
+586
+00:27:29,870 --> 00:27:32,740
+to the site of need
+so as you can imagine
+
+587
+00:27:32,740 --> 00:27:35,770
+clinically what you'll
+see is that you'll have
+
+588
+00:27:35,770 --> 00:27:39,770
+some sort of abscess
+or infection but you
+
+589
+00:27:39,770 --> 00:27:42,630
+won't see any pus there
+because remember the
+
+590
+00:27:42,630 --> 00:27:45,090
+phagocyte cells cannot
+get to the area to
+
+591
+00:27:45,090 --> 00:27:48,290
+cause the inflammation
+and wall off this
+
+592
+00:27:48,290 --> 00:27:51,130
+area with the bacteria
+and then defeat it so
+
+593
+00:27:51,130 --> 00:27:53,610
+pus is that inflammatory
+all that cells
+
+594
+00:27:53,610 --> 00:27:57,170
+breaking down all the
+the bacteria being being
+
+595
+00:27:57,170 --> 00:28:00,090
+broken right so they're
+not able to do that
+
+596
+00:28:00,670 --> 00:28:03,270
+you'll also have poor
+wound healing right
+
+597
+00:28:03,270 --> 00:28:05,430
+for the same reason
+they can't get to
+
+598
+00:28:05,430 --> 00:28:08,150
+that place to kind
+of help for clean it
+
+599
+00:28:08,150 --> 00:28:10,990
+up and then um for
+the fibroblast to
+
+600
+00:28:10,990 --> 00:28:13,010
+come and kind of fix
+things right Right.
+
+601
+00:28:13,290 --> 00:28:16,270
+So in babies, this
+will usually present
+
+602
+00:28:16,270 --> 00:28:19,150
+with delayed separation
+of the umbilical
+
+603
+00:28:19,150 --> 00:28:22,610
+cord. So here's up
+here is the picture
+
+604
+00:28:22,610 --> 00:28:24,710
+of what the normal
+umbilical cord will
+
+605
+00:28:24,710 --> 00:28:27,510
+do in that normal
+process of falling
+
+606
+00:28:27,510 --> 00:28:30,250
+off. And it usually
+takes about 14 days
+
+607
+00:28:30,250 --> 00:28:33,770
+maximum ish is what
+I've seen to fall off,
+
+608
+00:28:33,770 --> 00:28:35,530
+really falls off
+within a week or so.
+
+609
+00:28:35,930 --> 00:28:38,850
+And this will be
+very delayed. So as
+
+610
+00:28:38,850 --> 00:28:40,710
+in greater than
+30 days, I saw
+
+611
+00:28:40,710 --> 00:28:42,810
+somewhere it can take
+up to two months.
+
+612
+00:28:43,110 --> 00:28:45,990
+separate which is
+very very abnormal and
+
+613
+00:28:45,990 --> 00:28:47,490
+should clue you in that
+there might be some
+
+614
+00:28:47,490 --> 00:28:49,770
+sort of a leukocyte
+adhesion deficiency.
+
+615
+00:28:50,890 --> 00:28:52,810
+Obviously because the
+umbilical stump is
+
+616
+00:28:52,810 --> 00:28:54,950
+on for a very long time
+they're at risk for
+
+617
+00:28:54,950 --> 00:28:57,090
+developing umphillitis
+which is infection
+
+618
+00:28:57,090 --> 00:28:59,990
+of the umbilicus and
+also sepsis from that
+
+619
+00:28:59,990 --> 00:29:02,530
+because if you can
+imagine your umbilical
+
+620
+00:29:02,530 --> 00:29:04,450
+veins and your arteries
+were right there
+
+621
+00:29:04,450 --> 00:29:07,730
+with umbilical cord is
+attached right to the
+
+622
+00:29:07,730 --> 00:29:10,830
+baby so that has a
+direct connection to
+
+623
+00:29:10,830 --> 00:29:13,750
+your venous system and
+your arterial system,
+
+624
+00:29:13,750 --> 00:29:16,130
+which can, if that
+gets infected, the
+
+625
+00:29:16,130 --> 00:29:18,350
+bacteria can travel
+into the bloodstream and
+
+626
+00:29:18,350 --> 00:29:21,050
+cause sepsis, right?
+You can also get severe
+
+627
+00:29:21,050 --> 00:29:25,750
+gingivitis from this
+deficiency. In the
+
+628
+00:29:25,750 --> 00:29:28,970
+labs, you'll actually see
+increased neutrophils,
+
+629
+00:29:29,100 --> 00:29:33,530
+which will show
+greater than 20,000.
+
+630
+00:29:33,790 --> 00:29:35,950
+You'll get abscess
+of the neutrophils
+
+631
+00:29:35,950 --> 00:29:38,390
+at the infection site
+itself, which also
+
+632
+00:29:38,390 --> 00:29:41,090
+will clue you in. And
+then the treatment
+
+633
+00:29:41,090 --> 00:29:42,990
+for this is usually
+prophylactic
+
+634
+00:29:42,990 --> 00:29:46,430
+antibiotics and a
+stem cell transplant.
+
+635
+00:29:47,160 --> 00:29:49,690
+All right, that's that
+
+636
+00:29:49,690 --> 00:29:51,850
+one. Let's talk
+about SCID.
+
+637
+00:29:51,970 --> 00:29:54,490
+So SCID is a combined T
+
+638
+00:29:54,490 --> 00:29:56,100
+cell and B cell disorder.
+
+639
+00:29:56,100 --> 00:29:58,710
+So as I promised earlier,
+
+640
+00:29:59,130 --> 00:30:02,450
+these are the two
+places at which the
+
+641
+00:30:02,450 --> 00:30:06,770
+pathology will
+affect. So there's two
+
+642
+00:30:06,770 --> 00:30:13,850
+predominant kind of areas
+that go wrong in SCID.
+
+643
+00:30:13,850 --> 00:30:17,010
+So there's over
+20 genes that are
+
+644
+00:30:17,010 --> 00:30:19,690
+involved, but the two
+most common ones that we
+
+645
+00:30:19,690 --> 00:30:25,410
+think about are the
+defective IL-2R gamma
+
+646
+00:30:25,410 --> 00:30:28,130
+chain, which is an
+X-linked recessive
+
+647
+00:30:28,130 --> 00:30:30,690
+inheritance pattern,
+which is that one
+
+648
+00:30:30,690 --> 00:30:34,130
+down here, which prevents
+T cell maturation
+
+649
+00:30:34,130 --> 00:30:36,930
+in the thymus. Okay,
+so this is where the
+
+650
+00:30:36,930 --> 00:30:38,910
+cutoff happens. So
+you end up with just
+
+651
+00:30:38,910 --> 00:30:41,310
+stuck at the lymphoid
+progenitor stage.
+
+652
+00:30:42,510 --> 00:30:47,850
+And then the adenosine
+deaminase deficiency,
+
+653
+00:30:47,850 --> 00:30:51,210
+which is an autosomal
+recessive form,
+
+654
+00:30:51,210 --> 00:30:53,770
+which again, it stops
+it actually all the
+
+655
+00:30:53,770 --> 00:30:57,850
+way up here before the
+stem cell even gets
+
+656
+00:30:57,850 --> 00:31:00,430
+to the lymphoid
+progenitor cell. Okay.
+
+657
+00:31:01,130 --> 00:31:03,610
+This was historically
+called the bubble
+
+658
+00:31:03,610 --> 00:31:05,610
+baby disease or the
+bubble boy disease
+
+659
+00:31:05,610 --> 00:31:07,750
+because of the X
+-linked part before we
+
+660
+00:31:07,750 --> 00:31:10,140
+knew about the other
+autosomal recessives
+
+661
+00:31:10,140 --> 00:31:11,870
+and the other genes
+that are involved.
+
+662
+00:31:12,220 --> 00:31:14,250
+And so you can see
+here in the picture
+
+663
+00:31:14,250 --> 00:31:15,930
+that this baby is
+actually inside
+
+664
+00:31:15,930 --> 00:31:18,610
+the little incubator
+looking thing
+
+665
+00:31:18,610 --> 00:31:20,810
+and the sibling
+is trying to give
+
+666
+00:31:20,810 --> 00:31:22,670
+them a kiss and the
+mom is watching.
+
+667
+00:31:23,050 --> 00:31:27,230
+um so they used to need
+reverse uh isolation
+
+668
+00:31:27,230 --> 00:31:29,710
+in that they needed
+actually protection from
+
+669
+00:31:29,710 --> 00:31:32,110
+the outer world
+instead of them being
+
+670
+00:31:32,110 --> 00:31:34,270
+infectious and spreading
+it to other people so
+
+671
+00:31:34,270 --> 00:31:36,690
+they used to live in
+these bubbles before um
+
+672
+00:31:36,690 --> 00:31:39,490
+we we figured out more
+more information about
+
+673
+00:31:39,490 --> 00:31:41,920
+skid and how to treat
+it effectively this
+
+674
+00:31:41,920 --> 00:31:45,190
+will present very very
+early on so first month
+
+675
+00:31:45,190 --> 00:31:47,370
+to two months of life
+it usually presents,
+
+676
+00:31:47,370 --> 00:31:51,250
+you get loss of both
+cell-mediated and humoral
+
+677
+00:31:51,250 --> 00:31:53,350
+immunity. So if you
+can imagine the B
+
+678
+00:31:53,350 --> 00:31:56,270
+cells and also the T
+cells are affected, okay?
+
+679
+00:31:56,390 --> 00:31:59,450
+You get an absence of
+a thymic shadow because
+
+680
+00:31:59,450 --> 00:32:01,310
+remember the thymus
+is where you get
+
+681
+00:32:01,310 --> 00:32:04,250
+training of those T
+cells, right? So if that's
+
+682
+00:32:04,250 --> 00:32:05,770
+not happening,
+the thymus will be
+
+683
+00:32:05,770 --> 00:32:08,710
+underdeveloped and then
+germinal centers are where
+
+684
+00:32:08,710 --> 00:32:12,590
+your B cells will
+mature. So in lymphoid
+
+685
+00:32:12,590 --> 00:32:15,330
+tissue like lymph
+nodes and spleen. So
+
+686
+00:32:15,330 --> 00:32:17,850
+that's also something
+that you want to note.
+
+687
+00:32:17,850 --> 00:32:20,430
+So because B cells and
+T cells are affected,
+
+688
+00:32:20,430 --> 00:32:22,430
+it's going to be an
+abscess of both the
+
+689
+00:32:22,430 --> 00:32:24,570
+thymic shadow and
+germinal centers, okay?
+
+690
+00:32:25,710 --> 00:32:28,890
+On the newborn screen,
+so if you guys remember
+
+691
+00:32:28,890 --> 00:32:30,690
+what newborn screen
+is, so all babies
+
+692
+00:32:30,690 --> 00:32:33,490
+when they're born,
+certain states have
+
+693
+00:32:33,490 --> 00:32:36,370
+different newborn screens.
+So they compose about
+
+694
+00:32:36,370 --> 00:32:39,590
+50 different diseases
+uh it can be something
+
+695
+00:32:39,590 --> 00:32:42,750
+like pku hypothyroidism
+sickle cells
+
+696
+00:32:42,750 --> 00:32:46,150
+cf um cystic fibrosis
+sorry um congenital
+
+697
+00:32:46,150 --> 00:32:49,050
+adrenal uh hyperplasia
+so all these things
+
+698
+00:32:49,050 --> 00:32:51,070
+are tested in the
+newborn screen depending
+
+699
+00:32:51,070 --> 00:32:53,070
+on what state you're in
+and one of the things
+
+700
+00:32:53,070 --> 00:32:55,390
+that um is on the
+newborn screen is
+
+701
+00:32:55,390 --> 00:32:59,170
+something called the
+trex so that stands for t
+
+702
+00:32:59,170 --> 00:33:02,090
+-cell receptor excision
+circles, which are
+
+703
+00:33:02,090 --> 00:33:04,830
+basically circular
+DNA that's formed in T
+
+704
+00:33:04,830 --> 00:33:09,110
+cells in the thymus. So
+this will be very low
+
+705
+00:33:09,110 --> 00:33:12,190
+or undetectable. And
+if that's the case,
+
+706
+00:33:12,190 --> 00:33:14,150
+that will show up on
+the newborn screen as
+
+707
+00:33:14,150 --> 00:33:16,810
+undetectable trex,
+okay? And that might
+
+708
+00:33:16,810 --> 00:33:19,130
+clue you in that there's
+something going on.
+
+709
+00:33:20,290 --> 00:33:24,530
+The IL-2R gamma chain
+mutation affects about
+
+710
+00:33:24,530 --> 00:33:27,830
+30% of skin cases,
+which is deemed the
+
+711
+00:33:27,830 --> 00:33:31,810
+most common. And that
+one you'll have a low
+
+712
+00:33:33,130 --> 00:33:36,970
+you'll have low T cells
+but B cells will be
+
+713
+00:33:36,970 --> 00:33:39,830
+present but they really
+cannot function very
+
+714
+00:33:39,830 --> 00:33:42,990
+well so remember you
+need the you need
+
+715
+00:33:42,990 --> 00:33:45,570
+the the T cells to
+talk to the B cells to
+
+716
+00:33:45,570 --> 00:33:50,570
+kind of get all that
+good downstream effects
+
+717
+00:33:50,570 --> 00:33:54,050
+so in the x-link you
+will have no T cells
+
+718
+00:33:54,050 --> 00:33:57,870
+and less NK cells but
+the B cells will be
+
+719
+00:33:57,870 --> 00:34:00,990
+present. Again, non
+-functional though, okay?
+
+720
+00:34:02,070 --> 00:34:03,210
+Because they need that
+
+721
+00:34:03,210 --> 00:34:05,070
+signaling from
+the T cell.
+
+722
+00:34:06,030 --> 00:34:09,030
+The ADA, which is the
+adenosine deaminase
+
+723
+00:34:09,030 --> 00:34:12,370
+deficiency one, which
+is up here, all of the
+
+724
+00:34:12,370 --> 00:34:14,510
+lines will be down.
+And K cells, T cells,
+
+725
+00:34:14,510 --> 00:34:16,150
+and B cells, which makes
+sense, right? Because
+
+726
+00:34:16,150 --> 00:34:19,990
+it's upstream to the
+X-ling part or the
+
+727
+00:34:19,990 --> 00:34:23,330
+defective IL-2R part. So
+if it's upstream, it's
+
+728
+00:34:23,330 --> 00:34:25,610
+actually affecting
+before it even gets to
+
+729
+00:34:25,610 --> 00:34:27,710
+the lymphoid progenital
+cell. So the B cells
+
+730
+00:34:27,710 --> 00:34:31,450
+will also be affected,
+okay? So T cell, B
+
+731
+00:34:31,450 --> 00:34:35,010
+cell, and NK cells
+will all be down, okay?
+
+732
+00:34:36,690 --> 00:34:40,610
+What the ADA does
+is basically,
+
+733
+00:34:40,640 --> 00:34:45,110
+it's a, sorry, not ADA,
+
+734
+00:34:45,250 --> 00:34:48,470
+ADD, sorry. So that
+is basically, it
+
+735
+00:34:48,470 --> 00:34:51,350
+breaks down
+deoxyadenosine, which
+
+736
+00:34:51,350 --> 00:34:53,870
+is generated when
+the DNA is broken.
+
+737
+00:34:54,370 --> 00:34:57,370
+When this cannot be
+broken down, it builds
+
+738
+00:34:57,370 --> 00:35:00,150
+up in the cell and
+is very harmful.
+
+739
+00:35:00,150 --> 00:35:03,090
+So this causes cell
+death in the immune
+
+740
+00:35:03,090 --> 00:35:06,430
+cells. So like
+lymphocytes, T cells, NK
+
+741
+00:35:06,430 --> 00:35:08,530
+cells, B cells, things
+like that. Okay.
+
+742
+00:35:09,750 --> 00:35:12,170
+Okay. So these
+patients will present
+
+743
+00:35:12,170 --> 00:35:14,010
+with recurrent bacterial,
+
+744
+00:35:14,010 --> 00:35:16,530
+fungal, viral,
+protozoal infections.
+
+745
+00:35:16,670 --> 00:35:19,750
+They will also
+present with failure
+
+746
+00:35:19,750 --> 00:35:21,710
+to thrive,
+chronic diarrhea,
+
+747
+00:35:21,850 --> 00:35:22,810
+and thrush,
+
+748
+00:35:22,950 --> 00:35:23,490
+okay?
+
+749
+00:35:23,490 --> 00:35:26,170
+Again, think about
+B cells, C cells,
+
+750
+00:35:26,170 --> 00:35:28,410
+and how this affects
+this part, okay?
+
+751
+00:35:28,950 --> 00:35:32,210
+Before treatment,
+they used to
+
+752
+00:35:32,210 --> 00:35:33,610
+have a lifespan
+of about two
+
+753
+00:35:33,610 --> 00:35:37,010
+years maximum,
+but often the
+
+754
+00:35:37,510 --> 00:35:39,550
+recurrent infections
+and the severity
+
+755
+00:35:39,550 --> 00:35:41,150
+of the infections
+would kill these kids.
+
+756
+00:35:41,150 --> 00:35:44,530
+um if this was
+diagnosed early they
+
+757
+00:35:44,530 --> 00:35:48,510
+had a better long
+time survival um and
+
+758
+00:35:50,130 --> 00:35:51,170
+yeah
+
+759
+00:35:54,190 --> 00:35:56,410
+all right let's talk
+a little bit about
+
+760
+00:35:56,410 --> 00:35:59,210
+treatments i think this
+is so fascinating so uh
+
+761
+00:35:59,210 --> 00:36:01,910
+for treatment temporarily
+you can do prophylaxis
+
+762
+00:36:01,910 --> 00:36:03,890
+antibiotics you can
+do antivirals you
+
+763
+00:36:03,890 --> 00:36:06,110
+can do antifungals
+right to prevent them
+
+764
+00:36:06,110 --> 00:36:09,510
+from getting pervasive
+uh infections you can
+
+765
+00:36:09,510 --> 00:36:12,650
+also do because Because
+the B cells are affected
+
+766
+00:36:12,650 --> 00:36:16,350
+in specifically the
+ADA deficiency, you
+
+767
+00:36:16,350 --> 00:36:18,770
+can do immunoglobulin
+replacement therapies.
+
+768
+00:36:18,770 --> 00:36:21,650
+So, giving them
+immunoglobulins like IgG,
+
+769
+00:36:21,810 --> 00:36:23,550
+IVIG, for example,
+
+770
+00:36:23,930 --> 00:36:26,480
+IgM, you can give
+them immunoglobulins.
+
+771
+00:36:26,480 --> 00:36:29,010
+You also want to
+avoid doing any live
+
+772
+00:36:29,010 --> 00:36:31,290
+attenuator vaccines
+on these patients.
+
+773
+00:36:31,290 --> 00:36:33,850
+Because, again,
+they do not have the
+
+774
+00:36:33,850 --> 00:36:37,210
+immunofunction to
+develop immunity and that
+
+775
+00:36:37,210 --> 00:36:39,330
+will just end up
+harming them. Okay.
+
+776
+00:36:39,870 --> 00:36:42,790
+So the new treatments
+are actually really
+
+777
+00:36:42,790 --> 00:36:46,450
+exciting. So prior to
+this, they used to do
+
+778
+00:36:46,450 --> 00:36:49,170
+stem cell transplants
+for all these patients.
+
+779
+00:36:49,340 --> 00:36:51,610
+And that involved,
+you know, doing
+
+780
+00:36:51,610 --> 00:36:55,410
+chemotherapy to kind
+of obliterate any
+
+781
+00:36:55,410 --> 00:37:00,990
+bone marrow, any
+stem cells that could
+
+782
+00:37:00,990 --> 00:37:02,470
+have been into
+lymphoid cells that
+
+783
+00:37:02,470 --> 00:37:06,010
+may prevent the
+graft from sticking.
+
+784
+00:37:06,310 --> 00:37:09,310
+and to make space
+for the new cells.
+
+785
+00:37:09,310 --> 00:37:10,990
+So usually
+involves some sort
+
+786
+00:37:10,990 --> 00:37:13,110
+of conditioning
+with chemo drugs.
+
+787
+00:37:13,190 --> 00:37:16,910
+And usually you
+pick a donor that's
+
+788
+00:37:16,910 --> 00:37:18,530
+going to be a fully
+matched sibling
+
+789
+00:37:18,530 --> 00:37:21,210
+donor. So that's
+the best match that
+
+790
+00:37:21,210 --> 00:37:24,510
+you can get is a
+full sibling donor.
+
+791
+00:37:24,590 --> 00:37:27,330
+And they'll match
+the HLA parts
+
+792
+00:37:27,330 --> 00:37:29,110
+to make sure that
+they're good.
+
+793
+00:37:29,420 --> 00:37:30,610
+They'll be a good match
+
+794
+00:37:30,610 --> 00:37:31,810
+for each other. Okay.
+
+795
+00:37:32,010 --> 00:37:35,310
+um if the immune
+system is really really
+
+796
+00:37:35,310 --> 00:37:37,670
+down and they've had
+some severe infections
+
+797
+00:37:37,670 --> 00:37:39,130
+they're not going
+to do a bone marrow
+
+798
+00:37:39,130 --> 00:37:42,130
+transplant and you know
+give them chemo if the
+
+799
+00:37:42,130 --> 00:37:43,770
+baby's less than two
+months they're also
+
+800
+00:37:43,770 --> 00:37:45,890
+too young to receive
+chemo and do a transplant
+
+801
+00:37:45,890 --> 00:37:48,710
+so um those are some
+things to kind of
+
+802
+00:37:48,710 --> 00:37:51,730
+keep in mind that there
+there is good reasoning
+
+803
+00:37:51,730 --> 00:37:53,130
+to do the bone marrow
+transplant because
+
+804
+00:37:53,130 --> 00:37:54,750
+it's curative but also
+there's some things
+
+805
+00:37:54,750 --> 00:37:56,590
+that prevent the
+kid from getting the
+
+806
+00:37:56,590 --> 00:38:01,170
+bone marrow um uh the
+transplant okay which
+
+807
+00:38:01,170 --> 00:38:05,120
+is the same thing as
+hematopoietic okay um
+
+808
+00:38:05,550 --> 00:38:07,730
+if they for example
+don't have a fully
+
+809
+00:38:07,730 --> 00:38:11,390
+matched sibling donor
+um then you also have
+
+810
+00:38:11,390 --> 00:38:13,030
+to start thinking about
+other options that
+
+811
+00:38:13,030 --> 00:38:16,050
+you may have because
+if if the HLA don't
+
+812
+00:38:16,050 --> 00:38:18,490
+match then there's a
+high risk for rejection
+
+813
+00:38:19,750 --> 00:38:24,610
+okay um all right so
+specifically the other
+
+814
+00:38:24,610 --> 00:38:27,910
+therapies that we have
+is um for ada deficient
+
+815
+00:38:27,910 --> 00:38:29,850
+patients there's
+actually an enzyme
+
+816
+00:38:29,850 --> 00:38:33,090
+replacement therapy um
+which is really cool
+
+817
+00:38:33,090 --> 00:38:35,130
+because you just kind
+of give them the enzyme
+
+818
+00:38:35,130 --> 00:38:37,900
+and that breaks down
+some of that that
+
+819
+00:38:37,900 --> 00:38:40,090
+deoxy adenosine which
+we talked about is that
+
+820
+00:38:40,090 --> 00:38:42,670
+harmful substance
+that builds up and i'm
+
+821
+00:38:42,670 --> 00:38:44,690
+sorry i didn't mention
+but in in ada you'll
+
+822
+00:38:44,690 --> 00:38:48,850
+have an increased urine
+deoxyadenosine which
+
+823
+00:38:48,850 --> 00:38:51,410
+is that that uh the
+harmful material that
+
+824
+00:38:51,410 --> 00:38:55,770
+builds up that we talked
+about um okay sorry
+
+825
+00:38:55,770 --> 00:38:59,990
+so um we talked about
+this yes so it will
+
+826
+00:38:59,990 --> 00:39:02,050
+help break it down
+and therefore helps
+
+827
+00:39:02,050 --> 00:39:05,650
+patients um they require
+weekly im injections
+
+828
+00:39:05,650 --> 00:39:08,790
+so usually it's
+temporary but it can help
+
+829
+00:39:08,790 --> 00:39:10,970
+them kind of increase
+their immunity for a
+
+830
+00:39:10,970 --> 00:39:13,530
+little while um before
+they're ready for a
+
+831
+00:39:13,530 --> 00:39:16,670
+stem cell transplant
+or or gene therapy okay
+
+832
+00:39:16,670 --> 00:39:19,450
+so this is the really
+cool part so if you
+
+833
+00:39:19,450 --> 00:39:23,010
+don't have a match or
+the there's some trouble
+
+834
+00:39:23,010 --> 00:39:26,930
+uh with the actual
+stem cell transplant
+
+835
+00:39:26,930 --> 00:39:30,110
+you can also do gene
+therapy and that
+
+836
+00:39:30,110 --> 00:39:32,930
+eliminates some of the
+rejection and the incomplete
+
+837
+00:39:32,930 --> 00:39:35,410
+grafting that we see
+we have previously
+
+838
+00:39:35,410 --> 00:39:38,090
+seen in some stem
+cell transplants um
+
+839
+00:39:38,090 --> 00:39:40,130
+unfortunately this is
+not fda approved yet
+
+840
+00:39:40,130 --> 00:39:42,270
+there's a lot of clinical
+trials going on for
+
+841
+00:39:42,270 --> 00:39:44,910
+this, but it's super,
+super cool. So St. Jude
+
+842
+00:39:44,910 --> 00:39:46,830
+does this. They've
+done it successfully.
+
+843
+00:39:47,110 --> 00:39:50,330
+So what they'll do is
+they'll extract bone
+
+844
+00:39:50,330 --> 00:39:52,870
+marrow stem cells
+from the patient. They
+
+845
+00:39:52,870 --> 00:39:57,730
+will have a lentiviral
+vector, which they will
+
+846
+00:39:57,730 --> 00:40:02,630
+implant basically
+a viral vector and
+
+847
+00:40:02,630 --> 00:40:06,330
+implant the DNA that we
+want into it and that
+
+848
+00:40:06,330 --> 00:40:12,670
+viral vector would
+will then be placed in
+
+849
+00:40:12,670 --> 00:40:15,550
+the same area as the
+cells the stem cells so
+
+850
+00:40:15,550 --> 00:40:18,050
+when the virus then
+injects the cell with
+
+851
+00:40:18,050 --> 00:40:20,910
+new DNA all the cells
+the stem cells that
+
+852
+00:40:20,910 --> 00:40:22,910
+you gave that you
+retrieved from the patient
+
+853
+00:40:22,910 --> 00:40:25,690
+will all have that DNA
+that you want right
+
+854
+00:40:25,690 --> 00:40:29,470
+so we preserve those
+and then you give
+
+855
+00:40:29,470 --> 00:40:32,350
+them a little bit of
+conditioning with one of
+
+856
+00:40:32,350 --> 00:40:34,050
+the chemotherapy drugs
+and that will make
+
+857
+00:40:34,050 --> 00:40:36,730
+room for the stem cells
+in the transplant.
+
+858
+00:40:36,730 --> 00:40:39,750
+So then you would take
+the cells that you
+
+859
+00:40:39,750 --> 00:40:41,390
+preserve, the ones
+with the DNA that you
+
+860
+00:40:41,390 --> 00:40:43,830
+want and put them
+back into the patient.
+
+861
+00:40:43,830 --> 00:40:46,190
+So because it's
+their own stem cells,
+
+862
+00:40:46,190 --> 00:40:47,930
+you don't have to
+worry about matching,
+
+863
+00:40:47,930 --> 00:40:50,170
+right? Or rejection
+because it's their own
+
+864
+00:40:50,170 --> 00:40:53,770
+cells and you're
+eliminating usually a
+
+865
+00:40:53,770 --> 00:40:56,750
+chance of rejection
+of their own cells if
+
+866
+00:40:56,750 --> 00:40:59,890
+they will have any,
+which is very rare with
+
+867
+00:40:59,890 --> 00:41:01,670
+some conditioning
+of the chemotherapy.
+
+868
+00:41:01,690 --> 00:41:04,630
+So this is really,
+really cool, cool things,
+
+869
+00:41:04,630 --> 00:41:06,710
+cool stuff. So you
+basically take out their
+
+870
+00:41:06,710 --> 00:41:09,130
+own cells, you modify
+them the way you want
+
+871
+00:41:09,130 --> 00:41:11,630
+with some sort of a
+vector, and they use
+
+872
+00:41:11,630 --> 00:41:15,070
+lentiviral instead of
+a retroviral because
+
+873
+00:41:15,070 --> 00:41:17,610
+they found that the
+retroviral will actually
+
+874
+00:41:17,850 --> 00:41:20,850
+put them at more risk
+for developing cancers
+
+875
+00:41:21,710 --> 00:41:25,750
+in the future. So
+lentiviral is doing
+
+876
+00:41:25,750 --> 00:41:28,190
+a great job of putting
+the DNA in and not
+
+877
+00:41:28,190 --> 00:41:30,650
+causing that the dna
+to abnormally replicate
+
+878
+00:41:30,650 --> 00:41:34,170
+um so this is a very
+promising uh promising
+
+879
+00:41:34,170 --> 00:41:36,390
+new therapy for
+specifically the x
+
+880
+00:41:36,390 --> 00:41:40,370
+-legged skin um really
+cool really cool stuff
+
+881
+00:41:40,600 --> 00:41:43,970
+all right um let's go
+into the t-cell disorder
+
+882
+00:41:43,970 --> 00:41:48,070
+so thymic aplasia
+which is also one of
+
+883
+00:41:48,070 --> 00:41:49,890
+the syndromes that's
+associated with that
+
+884
+00:41:49,890 --> 00:41:51,510
+which you'll commonly
+see in your question
+
+885
+00:41:51,510 --> 00:41:54,150
+steps is going to be
+de george syndrome um
+
+886
+00:41:54,290 --> 00:41:56,370
+i'm sure you guys have
+heard of before it's
+
+887
+00:41:56,370 --> 00:42:01,630
+the 22q 11.2 micro
+deletion and it's basically
+
+888
+00:42:01,630 --> 00:42:03,870
+a failure to develop
+the third and fourth
+
+889
+00:42:03,870 --> 00:42:06,690
+pharyngeal arch uh
+pharyngeal pouch sorry
+
+890
+00:42:06,690 --> 00:42:09,130
+um dr solunius will
+be so disappointed in
+
+891
+00:42:09,130 --> 00:42:12,630
+me um and basically
+the concept is you're
+
+892
+00:42:12,630 --> 00:42:15,850
+going to have an absent
+uh thymus you will
+
+893
+00:42:15,850 --> 00:42:18,050
+have an absent
+parathyroid hormone uh
+
+894
+00:42:18,050 --> 00:42:20,730
+parathyroid gland. So,
+what you're going to find
+
+895
+00:42:20,730 --> 00:42:25,350
+is immune dysfunction
+and hypocalcemia,
+
+896
+00:42:25,350 --> 00:42:27,810
+okay, because of those
+specific things. You
+
+897
+00:42:27,810 --> 00:42:30,510
+can also get craniofacial
+abnormalities like
+
+898
+00:42:30,690 --> 00:42:33,090
+microognathia, which
+is a small jaw. You
+
+899
+00:42:33,090 --> 00:42:35,380
+can have retroognathia,
+which is a slightly
+
+900
+00:42:35,710 --> 00:42:39,010
+deviated jaw to the
+back, underdeveloped.
+
+901
+00:42:39,010 --> 00:42:41,230
+You can get a cleft
+palate, cleft lip. You
+
+902
+00:42:41,230 --> 00:42:43,750
+can also get cardiac
+abnormalities, right?
+
+903
+00:42:43,770 --> 00:42:47,190
+So tetralogy of the
+low, truncus arteriosus,
+
+904
+00:42:47,190 --> 00:42:48,670
+those are all things
+that you can find
+
+905
+00:42:48,670 --> 00:42:51,570
+with DeGeorge syndrome
+or that problem with
+
+906
+00:42:51,570 --> 00:42:53,930
+that third and fourth
+pharyngeal pouch forming.
+
+907
+00:42:54,010 --> 00:42:56,250
+Okay, go back to
+embryology, it'll make
+
+908
+00:42:56,250 --> 00:42:58,710
+sense why all these
+things are affected.
+
+909
+00:42:59,030 --> 00:43:01,630
+Okay, and the
+problem here is that
+
+910
+00:43:01,630 --> 00:43:02,870
+because there's
+no thymus, these
+
+911
+00:43:02,870 --> 00:43:05,170
+T cells don't get
+educated, right?
+
+912
+00:43:05,370 --> 00:43:07,910
+There's a decreased
+number in the periphery
+
+913
+00:43:07,910 --> 00:43:11,430
+um but they don't
+get educated so they
+
+914
+00:43:11,430 --> 00:43:13,890
+cannot get they
+cannot fight the the
+
+915
+00:43:13,890 --> 00:43:17,870
+infections as they should
+so um on chest x-ray
+
+916
+00:43:17,870 --> 00:43:21,050
+you'll find an absent
+thymic shadow okay
+
+917
+00:43:21,490 --> 00:43:26,210
+so here you can see it
+um here on the right
+
+918
+00:43:26,210 --> 00:43:28,870
+side you see this
+big kind of excuse me
+
+919
+00:43:28,870 --> 00:43:31,350
+opacity so most people
+think that's a pneumonia
+
+920
+00:43:31,350 --> 00:43:34,330
+but actually this is
+the thymic shadow in a
+
+921
+00:43:34,330 --> 00:43:36,470
+newborn and sometimes
+it can show up as this
+
+922
+00:43:36,470 --> 00:43:38,330
+patient's a little
+rotated but sometimes
+
+923
+00:43:38,330 --> 00:43:40,750
+you can see a large
+mediastinal like opacity
+
+924
+00:43:40,750 --> 00:43:43,190
+which you'll be like
+oh my god um but it's
+
+925
+00:43:43,190 --> 00:43:47,410
+actually the thymus okay
+so um babies have huge
+
+926
+00:43:47,410 --> 00:43:50,130
+thymuses and they
+regress over time as we
+
+927
+00:43:50,130 --> 00:43:52,030
+become into adulthood
+they get very very
+
+928
+00:43:52,030 --> 00:43:54,630
+small um because all of
+the education is mostly
+
+929
+00:43:54,630 --> 00:43:58,910
+done for the t-cells
+okay um in the lymph
+
+930
+00:43:58,910 --> 00:44:02,110
+nodes the paracortex
+will be underdeveloped.
+
+931
+00:44:03,150 --> 00:44:05,590
+Remember that the
+B cells and the NK
+
+932
+00:44:05,590 --> 00:44:07,470
+cells will be fine
+because they don't
+
+933
+00:44:07,470 --> 00:44:10,190
+get educated in the
+thymus, right? The
+
+934
+00:44:10,190 --> 00:44:12,160
+T cells get educated
+in the thymus.
+
+935
+00:44:13,070 --> 00:44:16,330
+Okay, and they go into
+the periphery after
+
+936
+00:44:16,330 --> 00:44:19,230
+they've been to the
+thymus, right? So they'll
+
+937
+00:44:19,230 --> 00:44:21,430
+be stuck in this kind
+of immature stage
+
+938
+00:44:21,430 --> 00:44:23,570
+and won't be able to
+go into that mature
+
+939
+00:44:23,570 --> 00:44:25,970
+stage. So you will have
+a decrease in peripheral
+
+940
+00:44:25,970 --> 00:44:31,390
+um sorry peripheral
+uh numbers okay and
+
+941
+00:44:31,390 --> 00:44:32,590
+that's why you have
+that decrease the
+
+942
+00:44:32,590 --> 00:44:35,930
+underdevelopment of
+the paracortex for the
+
+943
+00:44:35,930 --> 00:44:38,810
+treatment of de george
+syndrome uh or actually
+
+944
+00:44:38,810 --> 00:44:41,940
+more of a thymic aplasia
+in the immune part
+
+945
+00:44:41,940 --> 00:44:44,040
+is you're going to do
+prophylactic antivirals
+
+946
+00:44:44,090 --> 00:44:47,110
+antibiotics and
+antifungals you can also
+
+947
+00:44:47,110 --> 00:44:49,250
+do this is also really
+cool you can do a
+
+948
+00:44:49,250 --> 00:44:52,750
+one-time thymic tissue
+transplant which the
+
+949
+00:44:52,750 --> 00:44:57,270
+FDA approved in 2021
+really really cool um
+
+950
+00:44:57,270 --> 00:45:00,590
+and it's called re
+-thymic it's FDA approved
+
+951
+00:45:00,590 --> 00:45:03,150
+um like I said and
+you basically take
+
+952
+00:45:03,150 --> 00:45:05,770
+thymic tissue from babies
+less than nine months
+
+953
+00:45:05,770 --> 00:45:08,430
+who are undergoing
+heart surgery um and
+
+954
+00:45:08,430 --> 00:45:12,350
+then you transplant
+that into um into the
+
+955
+00:45:12,350 --> 00:45:15,370
+donor that you need um
+and you actually don't
+
+956
+00:45:15,370 --> 00:45:17,350
+even have to worry
+about HLA typing um
+
+957
+00:45:17,350 --> 00:45:18,650
+which is really cool
+because it's not a stem
+
+958
+00:45:18,650 --> 00:45:20,670
+cell it's just a part
+of the thymus that
+
+959
+00:45:20,670 --> 00:45:23,610
+you're you're putting
+implanting um so very
+
+960
+00:45:23,610 --> 00:45:26,630
+very cool stuff and
+they'll do it inside the
+
+961
+00:45:26,630 --> 00:45:29,290
+on the the inner part
+of the thigh and it
+
+962
+00:45:29,290 --> 00:45:31,970
+still provides the same
+functionality as as
+
+963
+00:45:31,970 --> 00:45:34,190
+the thymus would in
+the mediastinum really
+
+964
+00:45:34,190 --> 00:45:38,190
+cool okay sorry all
+right so let's talk
+
+965
+00:45:38,190 --> 00:45:41,030
+about the b cell disorder
+the bruton x-linked
+
+966
+00:45:41,290 --> 00:45:43,270
+agammaglubinemia. So the
+
+967
+00:45:43,270 --> 00:45:45,170
+defect is right here.
+
+968
+00:45:45,660 --> 00:45:48,250
+So you get a defect
+in the tyrosine kinase
+
+969
+00:45:48,250 --> 00:45:53,210
+which is encoded by the
+BTK gene which basically
+
+970
+00:45:53,210 --> 00:45:56,270
+makes light chains
+in antibodies. So you
+
+971
+00:45:56,270 --> 00:45:59,330
+don't get maturation
+of the B cells in the
+
+972
+00:45:59,330 --> 00:46:02,510
+peripheral blood and
+they get trapped in the
+
+973
+00:46:02,510 --> 00:46:04,890
+bone marrow. So as you
+can imagine if it cuts
+
+974
+00:46:04,890 --> 00:46:06,830
+off here it can't really
+go up to peripheral
+
+975
+00:46:06,830 --> 00:46:09,670
+sites and the B cells
+will be mostly trapped
+
+976
+00:46:09,670 --> 00:46:12,130
+in the bone marrow
+so you get very very
+
+977
+00:46:12,130 --> 00:46:15,590
+low or absent b cells
+in the peripheral blood
+
+978
+00:46:15,590 --> 00:46:18,950
+um you get absent lymph
+nodes you get absolute
+
+979
+00:46:18,950 --> 00:46:22,590
+tonsils um the
+primary follicles and
+
+980
+00:46:22,590 --> 00:46:25,030
+germinal centers and lymph
+nodes are also absent
+
+981
+00:46:25,030 --> 00:46:26,990
+specifically right
+because those are the
+
+982
+00:46:26,990 --> 00:46:30,060
+peripheral sites in
+which the b cells will um
+
+983
+00:46:30,060 --> 00:46:35,650
+will mature um so one
+of the the markers that
+
+984
+00:46:35,650 --> 00:46:38,710
+we have for b cells
+is CD19, right, 1920.
+
+985
+00:46:39,010 --> 00:46:42,270
+So those will be
+very, very low. That's
+
+986
+00:46:42,270 --> 00:46:44,110
+another marker of
+saying basically that B
+
+987
+00:46:44,110 --> 00:46:47,690
+cells are low. And this
+is, you can, for flow
+
+988
+00:46:47,690 --> 00:46:50,250
+cytometry, that can
+show you what CD
+
+989
+00:46:50,250 --> 00:46:53,190
+present, the CD markers
+are present. And that
+
+990
+00:46:53,190 --> 00:46:54,690
+can, that can help
+you determine whether
+
+991
+00:46:54,690 --> 00:46:57,570
+it's a T cell or or a
+B cell defect, right?
+
+992
+00:46:58,090 --> 00:46:59,550
+Remember the T cell
+
+993
+00:46:59,550 --> 00:47:01,990
+markers are
+CD3, CD4, CD8.
+
+994
+00:47:02,670 --> 00:47:06,630
+The B cell ones are
+mostly 19, 20, 20.
+
+995
+00:47:07,630 --> 00:47:08,590
+Okay,
+
+996
+00:47:08,990 --> 00:47:12,430
+this is a X-linked
+disorder, obviously,
+
+997
+00:47:12,430 --> 00:47:15,010
+as it has it in
+its name, so it
+
+998
+00:47:15,010 --> 00:47:17,270
+primarily affects
+boys, and you can
+
+999
+00:47:17,270 --> 00:47:20,030
+remember it by
+Bruton, boys, and BTK.
+
+1000
+00:47:20,650 --> 00:47:23,890
+Sorry, that's the
+gene. Okay, so
+
+1001
+00:47:23,890 --> 00:47:25,790
+you're going to
+get all these
+
+1002
+00:47:25,790 --> 00:47:27,890
+immunoglobulins will
+all be decreased,
+
+1003
+00:47:27,930 --> 00:47:31,210
+right? And remember,
+this presents after
+
+1004
+00:47:31,210 --> 00:47:33,610
+six months, because
+thanks to mom, we have
+
+1005
+00:47:33,610 --> 00:47:35,330
+antibodies for at
+least six months before
+
+1006
+00:47:35,330 --> 00:47:37,430
+they start waiting
+so these patients
+
+1007
+00:47:37,430 --> 00:47:39,490
+will be at risk for
+recurrent bacterial
+
+1008
+00:47:39,490 --> 00:47:42,350
+infections including
+h flu strep pneumo um
+
+1009
+00:47:42,350 --> 00:47:45,230
+so otitis media very
+common sinusitis very
+
+1010
+00:47:45,230 --> 00:47:47,510
+common pneumonia is
+very common you can
+
+1011
+00:47:47,510 --> 00:47:51,070
+also get gi bugs so
+interviral infections
+
+1012
+00:47:51,390 --> 00:47:54,580
+you cannot give these
+patients live vaccines
+
+1013
+00:47:54,580 --> 00:47:56,520
+much like all the other
+immunodeficiencies
+
+1014
+00:47:56,520 --> 00:47:59,230
+and the treatment
+is a lifelong
+
+1015
+00:47:59,230 --> 00:48:02,170
+immunoglobulin replacement
+therapy. So IVIG,
+
+1016
+00:48:03,450 --> 00:48:07,850
+IgM, IgA, IgE kind of
+replacements, okay?
+
+1017
+00:48:08,370 --> 00:48:09,710
+Pretty straightforward.
+
+1018
+00:48:10,010 --> 00:48:12,630
+Then we go to another
+B-cell disorder, which
+
+1019
+00:48:12,630 --> 00:48:15,470
+is hyper-IgM syndrome.
+So basically what
+
+1020
+00:48:15,470 --> 00:48:18,820
+happens is you have
+a defective CD40L,
+
+1021
+00:48:18,820 --> 00:48:22,830
+which is the ligand
+that helps convert, um,
+
+1022
+00:48:23,030 --> 00:48:26,130
+the class switching,
+uh, between IgM
+
+1023
+00:48:26,130 --> 00:48:29,910
+to IgG to IgA to
+IgE. Um, so you get
+
+1024
+00:48:29,910 --> 00:48:33,650
+very, uh, you get
+elevated IgM, um,
+
+1025
+00:48:33,670 --> 00:48:37,030
+or normal IgM and
+all the other cell,
+
+1026
+00:48:37,030 --> 00:48:39,770
+uh, the other
+immunoglobulins will be low.
+
+1027
+00:48:39,770 --> 00:48:42,550
+So IgG will be low,
+IgA will be low, IgE
+
+1028
+00:48:42,550 --> 00:48:45,390
+will be low. So you
+also get a failure to
+
+1029
+00:48:45,390 --> 00:48:47,890
+make germinal centers
+because that's a main
+
+1030
+00:48:47,890 --> 00:48:50,450
+area where the class
+switching will happen.
+
+1031
+00:48:50,510 --> 00:48:53,870
+This is also an X-linked
+recessive disease.
+
+1032
+00:48:53,890 --> 00:48:55,870
+Remember the difference
+between hyper
+
+1033
+00:48:55,870 --> 00:48:58,850
+IgM and X-linked is
+X-linked will be all
+
+1034
+00:48:58,850 --> 00:49:01,890
+low. IgM will also be
+low versus in the hyper
+
+1035
+00:49:01,890 --> 00:49:05,030
+IgM, only IgM will
+be normal or high.
+
+1036
+00:49:05,030 --> 00:49:07,670
+Everything else will be
+low. Okay. It's further
+
+1037
+00:49:07,670 --> 00:49:10,530
+down in the list in
+the kind of order.
+
+1038
+00:49:11,730 --> 00:49:14,970
+You get severe pyogenic
+infections early
+
+1039
+00:49:14,970 --> 00:49:17,290
+in life. So opportunistic
+infections with
+
+1040
+00:49:17,290 --> 00:49:19,990
+pneumocystis,
+cryptosporidium, and CMV
+
+1041
+00:49:19,990 --> 00:49:22,530
+are very commonly seen.
+And remember, there's
+
+1042
+00:49:22,530 --> 00:49:25,330
+an X-linked recessive
+disorder, same
+
+1043
+00:49:25,330 --> 00:49:29,090
+thing as Bruton and
+no-affect voice. Okay,
+
+1044
+00:49:29,670 --> 00:49:30,810
+all right, moving on.
+
+1045
+00:49:31,810 --> 00:49:34,070
+Another B-cell
+disorder is called
+
+1046
+00:49:34,070 --> 00:49:37,310
+Jobe syndrome or
+hyper-IGE syndrome.
+
+1047
+00:49:37,700 --> 00:49:40,410
+This is an autosomal
+dominant. So again,
+
+1048
+00:49:40,410 --> 00:49:42,790
+this is different than
+all the other ones.
+
+1049
+00:49:42,790 --> 00:49:45,070
+So remember that,
+autosomal dominant.
+
+1050
+00:49:45,510 --> 00:49:49,670
+There is a deficiency
+in the TH17 cells
+
+1051
+00:49:49,670 --> 00:49:52,890
+because there's a STAT3
+mutation on chromosome
+
+1052
+00:49:52,890 --> 00:49:58,410
+17, which encodes for
+basically developmental
+
+1053
+00:49:58,410 --> 00:50:01,730
+things for TH17 cells.
+So what you're not
+
+1054
+00:50:01,730 --> 00:50:04,650
+getting is all of
+this, TH17, which is
+
+1055
+00:50:04,650 --> 00:50:08,370
+really important in helping
+um prevent autoimmunity
+
+1056
+00:50:08,370 --> 00:50:12,190
+and break uh and uh
+tumor uh formation
+
+1057
+00:50:12,190 --> 00:50:17,090
+so you get less of the
+th 17 and the way i
+
+1058
+00:50:17,090 --> 00:50:19,350
+like to think about
+it is if you make less
+
+1059
+00:50:19,350 --> 00:50:22,170
+less of the 17 you're
+going to make more for
+
+1060
+00:50:22,170 --> 00:50:25,650
+the th2 um and therefore
+have some of those
+
+1061
+00:50:25,650 --> 00:50:30,230
+symptoms that we
+see for il-4 il-5 so
+
+1062
+00:50:30,230 --> 00:50:34,870
+allergies uh like
+dermatologic eczema picture.
+
+1063
+00:50:35,250 --> 00:50:38,450
+Your IgE will be
+increased. Your
+
+1064
+00:50:38,450 --> 00:50:40,650
+eosinophils will
+be increased.
+
+1065
+00:50:41,070 --> 00:50:44,690
+For the face, you'll
+get coarse face
+
+1066
+00:50:44,690 --> 00:50:47,060
+seeds, which is part
+of the genetic part.
+
+1067
+00:50:47,060 --> 00:50:50,190
+And then this is
+showing severe eczema
+
+1068
+00:50:50,190 --> 00:50:51,730
+that you can see in
+the upper picture
+
+1069
+00:50:51,730 --> 00:50:54,950
+over here in a
+darker skinned baby.
+
+1070
+00:50:55,410 --> 00:50:58,270
+You will also see
+retained baby teeth.
+
+1071
+00:50:58,270 --> 00:51:00,370
+So they'll have often
+two rows of teeth,
+
+1072
+00:51:00,370 --> 00:51:03,210
+um which sort of
+you can see here but
+
+1073
+00:51:03,210 --> 00:51:05,290
+it's hard to tell um
+the x-ray you'll be
+
+1074
+00:51:05,290 --> 00:51:07,890
+able to see two sets
+of teeth and again
+
+1075
+00:51:07,890 --> 00:51:10,960
+you'll see cold staph
+abscesses because
+
+1076
+00:51:10,960 --> 00:51:12,790
+they're not able to
+kind of get to that
+
+1077
+00:51:12,790 --> 00:51:16,510
+area okay um and you
+can also see fractures
+
+1078
+00:51:16,510 --> 00:51:20,230
+from minor trauma
+okay so that's job
+
+1079
+00:51:21,850 --> 00:51:25,010
+all right let's go
+into other so we have
+
+1080
+00:51:25,010 --> 00:51:27,510
+wiscot aldrich syndrome
+which is really
+
+1081
+00:51:27,510 --> 00:51:31,690
+interesting um It is
+X-linked recessive,
+
+1082
+00:51:31,690 --> 00:51:33,390
+so remember affecting
+boys, which is
+
+1083
+00:51:33,390 --> 00:51:35,250
+a picture of this
+little boy right here.
+
+1084
+00:51:35,290 --> 00:51:38,110
+You get a mutation
+in the WAAS
+
+1085
+00:51:38,510 --> 00:51:42,010
+gene, which affects
+not only B cells
+
+1086
+00:51:42,010 --> 00:51:43,970
+and T cells, but
+also platelets.
+
+1087
+00:51:43,970 --> 00:51:47,090
+So you're basically
+unable to reorganize the
+
+1088
+00:51:47,090 --> 00:51:51,830
+acting cytoskeleton,
+and that's super
+
+1089
+00:51:51,830 --> 00:51:54,790
+important in presenting
+the antigen. Remember,
+
+1090
+00:51:54,830 --> 00:51:57,010
+the B cells will present
+the antigen to the
+
+1091
+00:51:57,010 --> 00:51:58,950
+T cells, and then that
+will activate b cells
+
+1092
+00:51:58,950 --> 00:52:01,590
+and t cells right
+um so you have that
+
+1093
+00:52:01,590 --> 00:52:03,890
+problem and then the
+platelets also use actin
+
+1094
+00:52:03,890 --> 00:52:06,150
+cytoskeletons to kind
+of move around and and
+
+1095
+00:52:06,150 --> 00:52:09,590
+help with um with
+help with uh primary
+
+1096
+00:52:09,590 --> 00:52:14,210
+hemostasis so uh you get
+uh recurrent pyogenic
+
+1097
+00:52:14,210 --> 00:52:16,670
+infections so sinus
+ear pneumonia like you
+
+1098
+00:52:16,670 --> 00:52:18,570
+see in all the other
+ones the the things
+
+1099
+00:52:18,570 --> 00:52:20,590
+that are different in
+this one is you'll see
+
+1100
+00:52:20,590 --> 00:52:25,650
+thrombocytopenia okay
+uh you can see you will
+
+1101
+00:52:25,650 --> 00:52:28,470
+see smaller fewer
+platelets and bleeding
+
+1102
+00:52:28,470 --> 00:52:30,670
+is the most common
+cause of death actually.
+
+1103
+00:52:30,910 --> 00:52:35,890
+You'll find eczema as
+well. So skin eczema.
+
+1104
+00:52:35,890 --> 00:52:37,770
+So this is what you're
+seeing over here
+
+1105
+00:52:37,770 --> 00:52:41,370
+in graph B or picture
+B is some eczema
+
+1106
+00:52:41,370 --> 00:52:44,870
+here. In A you see a
+little petechiae on
+
+1107
+00:52:44,870 --> 00:52:47,330
+the baby boy's face and
+you can tell because
+
+1108
+00:52:47,330 --> 00:52:49,550
+these won't be able
+to be blanchable and
+
+1109
+00:52:49,550 --> 00:52:51,370
+he has a little bit
+of bruising as well
+
+1110
+00:52:51,370 --> 00:52:54,070
+as some ecchymosis under
+the right periorbital
+
+1111
+00:52:54,070 --> 00:52:56,570
+area, which could
+be a sign of
+
+1112
+00:52:56,570 --> 00:53:00,610
+bleeding. Okay. So these
+will not be blanchable.
+
+1113
+00:53:00,610 --> 00:53:02,650
+So when you press
+your thumb onto it,
+
+1114
+00:53:02,650 --> 00:53:05,490
+it will not make it
+go away. Okay. Okay.
+
+1115
+00:53:05,550 --> 00:53:08,630
+You have increased
+risk for autoimmunity
+
+1116
+00:53:08,630 --> 00:53:12,230
+and malignancy in this
+disorder, and you get
+
+1117
+00:53:12,230 --> 00:53:17,130
+decreased to normal
+IgG, IgM levels, but
+
+1118
+00:53:17,130 --> 00:53:20,290
+you get increase of
+IgG and IgA levels.
+
+1119
+00:53:20,970 --> 00:53:23,090
+You're going
+to avoid live
+
+1120
+00:53:23,090 --> 00:53:25,130
+attenuated vaccines
+in this one.
+
+1121
+00:53:25,330 --> 00:53:26,490
+For treatment,
+
+1122
+00:53:28,430 --> 00:53:30,430
+antibiotic
+prophylaxis and IV
+
+1123
+00:53:30,430 --> 00:53:34,190
+immunoglobulins are the
+temporary treatment.
+
+1124
+00:53:35,250 --> 00:53:39,150
+And now, and then
+previously, we thought
+
+1125
+00:53:39,150 --> 00:53:41,110
+that the bone marrow
+transplant was the only
+
+1126
+00:53:41,110 --> 00:53:43,510
+way to treat these
+patients um after
+
+1127
+00:53:43,510 --> 00:53:47,410
+conditioning but in f uh
+in 2025 so literally last
+
+1128
+00:53:47,410 --> 00:53:51,470
+year fda approved a
+gene therapy um via
+
+1129
+00:53:51,470 --> 00:53:54,350
+the viral vector that
+we talked about uh that
+
+1130
+00:53:54,350 --> 00:53:57,590
+starts making then
+the wasp gene and the
+
+1131
+00:53:57,590 --> 00:53:59,570
+protein which is really
+really cool which
+
+1132
+00:53:59,570 --> 00:54:02,290
+incorporates wasp gene
+which then enables the
+
+1133
+00:54:02,290 --> 00:54:04,030
+cell to make their
+own protein which is
+
+1134
+00:54:04,030 --> 00:54:07,190
+really cool um the rate
+of severe infections
+
+1135
+00:54:07,190 --> 00:54:10,050
+decreased by 93
+percent in six to eight
+
+1136
+00:54:10,050 --> 00:54:13,430
+months after they received
+the treatment, the
+
+1137
+00:54:13,430 --> 00:54:17,410
+gene therapy. It also
+reduced the incidence
+
+1138
+00:54:17,410 --> 00:54:19,730
+of bleeding, moderate
+to severe bleeding
+
+1139
+00:54:19,730 --> 00:54:22,750
+events by 60 percent
+in the first 12 months.
+
+1140
+00:54:22,970 --> 00:54:26,930
+We very often, very
+less commonly will
+
+1141
+00:54:26,930 --> 00:54:29,530
+give these patients
+platelet infusions
+
+1142
+00:54:30,650 --> 00:54:32,470
+because it's going to be
+
+1143
+00:54:32,470 --> 00:54:34,070
+temporary, it's
+not going to work.
+
+1144
+00:54:35,270 --> 00:54:37,810
+But you can do that
+if they have severe
+
+1145
+00:54:37,810 --> 00:54:39,930
+bleeding going on and
+you want to help them.
+
+1146
+00:54:40,410 --> 00:54:43,730
+If they have severe
+bleeding and they need
+
+1147
+00:54:43,730 --> 00:54:46,610
+frequent platelet
+infusions, the other
+
+1148
+00:54:46,610 --> 00:54:48,850
+thing we can also do is
+take out their spleen,
+
+1149
+00:54:48,850 --> 00:54:50,450
+so a splenectomy,
+because remember the
+
+1150
+00:54:50,450 --> 00:54:53,630
+spleen collects all
+your damaged cells, so
+
+1151
+00:54:53,630 --> 00:54:55,430
+they will also collect
+platelets as well.
+
+1152
+00:54:56,000 --> 00:54:57,890
+So that's one
+thing that you can
+
+1153
+00:54:57,890 --> 00:54:59,730
+do. And sometimes
+that's been shown
+
+1154
+00:54:59,730 --> 00:55:03,170
+to prevent platelet
+destruction.
+
+1155
+00:55:04,430 --> 00:55:05,410
+Okay.
+
+1156
+00:55:05,650 --> 00:55:07,250
+And then the last
+one we're going to
+
+1157
+00:55:07,250 --> 00:55:10,730
+talk about is ataxia,
+telectasia. Oh,
+
+1158
+00:55:10,730 --> 00:55:12,210
+my God, I can never
+say this word.
+
+1159
+00:55:13,610 --> 00:55:14,590
+Telectasia.
+
+1160
+00:55:14,710 --> 00:55:19,750
+So ATs. So this is
+also kind of cool.
+
+1161
+00:55:19,750 --> 00:55:22,970
+So it's a defect in
+the ATM gene, which is
+
+1162
+00:55:22,970 --> 00:55:26,150
+located on chromosome
+11. And what happens
+
+1163
+00:55:26,150 --> 00:55:30,520
+is you get failure to
+stop the progression
+
+1164
+00:55:30,520 --> 00:55:33,050
+or the checkpoints
+of the cell cycle.
+
+1165
+00:55:33,050 --> 00:55:38,270
+So a defective ATM
+prevents P53, which,
+
+1166
+00:55:38,270 --> 00:55:40,030
+remember, is really
+important for
+
+1167
+00:55:40,030 --> 00:55:42,110
+apoptosis. It's a
+checkpoint to make
+
+1168
+00:55:42,110 --> 00:55:43,950
+sure everything is
+copying correctly.
+
+1169
+00:55:43,950 --> 00:55:47,070
+And so what you get
+is you're more prone
+
+1170
+00:55:47,070 --> 00:55:49,390
+to mutations. and
+these patients will
+
+1171
+00:55:49,390 --> 00:55:51,770
+actually be at increased
+risk for lymphoma
+
+1172
+00:55:51,770 --> 00:55:52,890
+and leukemia
+because of that
+
+1173
+00:55:52,890 --> 00:55:58,530
+uncontrolled, you know,
+cell division because
+
+1174
+00:55:58,530 --> 00:56:00,630
+now you're eliminating
+the checkpoints.
+
+1175
+00:56:02,050 --> 00:56:05,730
+Okay, so they can't
+detect DNA damage, so
+
+1176
+00:56:05,730 --> 00:56:07,450
+they'll just keep
+replicating and replicating
+
+1177
+00:56:07,450 --> 00:56:11,150
+and eventually that
+will cause cancer.
+
+1178
+00:56:11,230 --> 00:56:14,450
+The onset of these
+symptoms are usually
+
+1179
+00:56:14,450 --> 00:56:18,130
+two to five years old
+um and they they really
+
+1180
+00:56:18,130 --> 00:56:21,070
+decline fast because
+this also affects
+
+1181
+00:56:21,070 --> 00:56:23,130
+the cerebellum so
+they get cerebellar
+
+1182
+00:56:23,130 --> 00:56:24,930
+defects like all the
+ones that we talked about
+
+1183
+00:56:24,930 --> 00:56:27,910
+in dpr so ataxia they
+can't walk straight
+
+1184
+00:56:27,910 --> 00:56:30,590
+they're kind of
+wobbling over dysarthria
+
+1185
+00:56:30,590 --> 00:56:33,570
+so they can't speak
+straight um dysmetria
+
+1186
+00:56:33,570 --> 00:56:35,650
+which is when you do
+the finger to nose
+
+1187
+00:56:35,650 --> 00:56:37,910
+and you end up going
+like this when you're
+
+1188
+00:56:37,910 --> 00:56:39,250
+when you tell them
+to touch your finger
+
+1189
+00:56:39,250 --> 00:56:41,510
+they're like like this
+right or they miss
+
+1190
+00:56:41,510 --> 00:56:44,310
+they miss your finger
+that's dysmetria
+
+1191
+00:56:45,510 --> 00:56:49,050
+with more severe decline
+you can think you
+
+1192
+00:56:49,050 --> 00:56:51,070
+can have things like
+dysphagia as well where
+
+1193
+00:56:51,070 --> 00:56:53,440
+they won't be able
+to swallow okay and
+
+1194
+00:56:53,510 --> 00:56:55,990
+that might not these signs
+might not be noticeable
+
+1195
+00:56:55,990 --> 00:56:58,430
+until like four to
+eight years of age
+
+1196
+00:56:58,430 --> 00:57:04,830
+um spider these are
+classified by um spider
+
+1197
+00:57:04,830 --> 00:57:07,530
+angiomas so talactasias
+so that's what
+
+1198
+00:57:07,530 --> 00:57:09,470
+you're seeing here which
+is the picture right
+
+1199
+00:57:09,470 --> 00:57:11,750
+these abnormal kind of
+capillary areas. And
+
+1200
+00:57:11,750 --> 00:57:15,280
+you can have ocular
+ones and cutaneous ones
+
+1201
+00:57:15,280 --> 00:57:18,390
+as well. There is
+extreme sensitivity to
+
+1202
+00:57:18,390 --> 00:57:21,410
+radiation. So when they
+get x-rays, you have
+
+1203
+00:57:21,410 --> 00:57:23,230
+to be very careful
+because remember x-rays
+
+1204
+00:57:23,230 --> 00:57:26,130
+cause DNA breaks and
+this patient already
+
+1205
+00:57:26,130 --> 00:57:29,190
+has defective recognition
+of those breaks.
+
+1206
+00:57:29,850 --> 00:57:31,950
+About two-thirds
+of these patients
+
+1207
+00:57:31,950 --> 00:57:34,190
+will actually be
+IgA deficient,
+
+1208
+00:57:34,190 --> 00:57:35,790
+which is actually
+really interesting.
+
+1209
+00:57:36,560 --> 00:57:38,650
+We talked about the
+risk of lymphoma,
+
+1210
+00:57:38,650 --> 00:57:42,470
+leukemia. They'll have
+increased IgG and IgE,
+
+1211
+00:57:42,470 --> 00:57:46,730
+but the T-cell will be
+variable in terms of
+
+1212
+00:57:46,730 --> 00:57:49,190
+how depressed the T
+-cell function will be.
+
+1213
+00:57:49,450 --> 00:57:50,410
+Also,
+
+1214
+00:57:50,530 --> 00:57:52,570
+alpha-fetoprotein
+will also be
+
+1215
+00:57:52,570 --> 00:57:54,910
+increased. I don't
+exactly know why.
+
+1216
+00:57:57,210 --> 00:58:01,410
+Lymphopenia and the
+cellular cerebellar
+
+1217
+00:58:01,510 --> 00:58:04,490
+atrophy can lead to a
+lot of uncoordinated
+
+1218
+00:58:04,490 --> 00:58:06,250
+movements, like we talked
+about the ataxia and
+
+1219
+00:58:06,250 --> 00:58:09,050
+frequent falls um and
+the treatment for this
+
+1220
+00:58:09,050 --> 00:58:12,230
+is usually immunoglobulin
+therapy and prophylactic
+
+1221
+00:58:12,230 --> 00:58:14,390
+antibiotics for the
+immune part of it
+
+1222
+00:58:15,390 --> 00:58:19,510
+okay let's go back
+to our question so um
+
+1223
+00:58:19,520 --> 00:58:21,110
+all the things that we
+talked about two month
+
+1224
+00:58:21,110 --> 00:58:23,250
+old *** pneumonia
+multiple episodes
+
+1225
+00:58:23,250 --> 00:58:26,030
+thrush requiring
+prolonged antifungal has
+
+1226
+00:58:26,030 --> 00:58:29,710
+dermatitis has otitis
+media failure to grow um
+
+1227
+00:58:29,710 --> 00:58:31,730
+oh i forgot to mention
+oh i forgot to to
+
+1228
+00:58:31,730 --> 00:58:34,110
+highlight this the
+watery diarrhea every
+
+1229
+00:58:34,110 --> 00:58:36,550
+day is also i don't
+know if i include that
+
+1230
+00:58:36,550 --> 00:58:38,110
+in the beginning but
+anyway the watery
+
+1231
+00:58:38,110 --> 00:58:40,630
+diarrhea would also cool
+you off absent thymic
+
+1232
+00:58:40,630 --> 00:58:43,560
+shadow decrease all
+cell lines and decrease
+
+1233
+00:58:43,560 --> 00:58:45,290
+immunoglobulins okay
+so you know it's
+
+1234
+00:58:45,290 --> 00:58:47,870
+going to be a very early
+present uh presenting
+
+1235
+00:58:47,890 --> 00:58:50,090
+pathology right
+because this patient
+
+1236
+00:58:50,090 --> 00:58:53,090
+is only two months they
+have an absent thymic
+
+1237
+00:58:53,090 --> 00:58:54,590
+shadow which tells
+you t cells are
+
+1238
+00:58:54,590 --> 00:58:56,950
+decreased but they already
+tell you that because
+
+1239
+00:58:56,950 --> 00:58:59,730
+they did a flow
+cytometry right Right.
+
+1240
+00:59:00,110 --> 00:59:02,030
+So you have all the
+cell lines that are
+
+1241
+00:59:02,030 --> 00:59:04,670
+affected and immunoglobulins
+are also affected,
+
+1242
+00:59:04,670 --> 00:59:06,730
+which is a downstream
+part of the decreased
+
+1243
+00:59:06,730 --> 00:59:11,690
+B cells part. Right.
+So this is a so the
+
+1244
+00:59:11,690 --> 00:59:13,830
+question after asked
+you the mechanism will
+
+1245
+00:59:13,830 --> 00:59:15,930
+also ask you, OK,
+what would the newborn
+
+1246
+00:59:15,930 --> 00:59:19,390
+screening show? And this
+disease, this question
+
+1247
+00:59:19,390 --> 00:59:22,750
+stem is asking about
+SCID. right and remember
+
+1248
+00:59:22,750 --> 00:59:24,850
+there's two flavors
+there's the x-linked
+
+1249
+00:59:24,850 --> 00:59:28,650
+IL-2R mutation or the
+autosomal recessive
+
+1250
+00:59:28,650 --> 00:59:32,550
+ADA deficient one this
+one's a male um which
+
+1251
+00:59:32,550 --> 00:59:35,130
+could tell you it's x
+-linked or or it could
+
+1252
+00:59:35,130 --> 00:59:37,600
+be red herring so just
+keep that in mind um
+
+1253
+00:59:37,600 --> 00:59:41,490
+all three cell levels
+are down which which
+
+1254
+00:59:41,490 --> 00:59:44,430
+goes along more with
+the ADA deficiency
+
+1255
+00:59:44,430 --> 00:59:46,930
+right um and remember
+you'll get the chronic
+
+1256
+00:59:46,930 --> 00:59:49,310
+diarrhea failure to thrive
+you get the recurrent
+
+1257
+00:59:49,310 --> 00:59:52,610
+infections, and the
+newborn screen would
+
+1258
+00:59:52,610 --> 00:59:55,650
+show very very low
+T-cells or the Trex,
+
+1259
+00:59:55,650 --> 00:59:59,190
+which is the DNA that's
+in the T-cells, okay?
+
+1260
+00:59:59,590 --> 01:00:03,250
+So this is a skin
+presentation, most likely
+
+1261
+01:00:03,250 --> 01:00:07,310
+the ADA one versus the
+X-linked IL-2R one,
+
+1262
+01:00:07,310 --> 01:00:10,390
+because if it was the
+IL-2R one, the B-cells
+
+1263
+01:00:10,390 --> 01:00:12,890
+would be okay, the T
+cells and NK cells would
+
+1264
+01:00:12,890 --> 01:00:15,830
+be severely low. Okay,
+so that helps you.
+
+1265
+01:00:16,270 --> 01:00:17,110
+Okay.
+
+1266
+01:00:17,950 --> 01:00:19,850
+Yeah, this is
+exactly sort
+
+1267
+01:00:19,850 --> 01:00:20,980
+of what we talked about.
+
+1268
+01:00:21,390 --> 01:00:23,210
+Oh, this is
+important. I wanted to
+
+1269
+01:00:23,210 --> 01:00:25,810
+show you guys where
+the ADA works.
+
+1270
+01:00:26,090 --> 01:00:29,710
+So this is the
+adenosine deaminase, and
+
+1271
+01:00:29,710 --> 01:00:33,630
+this is deficient in
+SCID, so you don't
+
+1272
+01:00:33,630 --> 01:00:36,140
+get this breakdown of
+the deoxyadenosine,
+
+1273
+01:00:36,310 --> 01:00:38,470
+which is what you
+get buildup of.
+
+1274
+01:00:39,310 --> 01:00:41,390
+So this was helpful
+to me, and this
+
+1275
+01:00:41,390 --> 01:00:44,130
+is important for
+recycling the DNA
+
+1276
+01:00:44,130 --> 01:00:47,190
+components, right,
+the ribosome 5
+
+1277
+01:00:47,190 --> 01:00:48,810
+-phosphate, which is
+that triangular part
+
+1278
+01:00:48,810 --> 01:00:50,710
+that forms the
+nucleosides, okay?
+
+1279
+01:00:51,890 --> 01:00:54,390
+This is another chart
+that kind of helps
+
+1280
+01:00:54,550 --> 01:00:56,670
+summarize things.
+We already talked
+
+1281
+01:00:56,670 --> 01:00:59,150
+about all of it, but
+if that helps you
+
+1282
+01:00:59,150 --> 01:01:01,130
+understand it better,
+that's also good.
+
+1283
+01:01:02,390 --> 01:01:04,450
+All right, let's do
+another question for
+
+1284
+01:01:04,450 --> 01:01:06,830
+retention. this is a
+five-year-old brought to
+
+1285
+01:01:06,830 --> 01:01:08,970
+the ed for three days
+of severe left ear pain
+
+1286
+01:01:08,970 --> 01:01:11,230
+associated with fever
+you check his medical
+
+1287
+01:01:11,230 --> 01:01:13,090
+history and note that
+he's had four episodes
+
+1288
+01:01:13,090 --> 01:01:15,290
+of acute otitis media
+this year despite
+
+1289
+01:01:15,290 --> 01:01:18,190
+having ear tubes placed
+by ent when he is three
+
+1290
+01:01:18,190 --> 01:01:20,310
+years old when
+you complete a med
+
+1291
+01:01:20,310 --> 01:01:23,610
+reconciliation medication
+reconciliation you note
+
+1292
+01:01:23,610 --> 01:01:25,830
+that he's completed a
+five he just completed
+
+1293
+01:01:25,830 --> 01:01:28,670
+a five-day course of
+sulfamethasone and
+
+1294
+01:01:28,760 --> 01:01:30,950
+trimethoprim so you guys
+will tell me what that
+
+1295
+01:01:30,950 --> 01:01:34,690
+that um antibiotic does
+uh for a skin infection
+
+1296
+01:01:34,690 --> 01:01:37,190
+that was superimposed
+on his eczematous
+
+1297
+01:01:37,190 --> 01:01:40,030
+lesions as per mother
+it has not improved
+
+1298
+01:01:40,030 --> 01:01:43,400
+though okay you suspect
+there's more than just
+
+1299
+01:01:43,400 --> 01:01:46,770
+another otitis media
+going on um and you
+
+1300
+01:01:46,770 --> 01:01:49,710
+get some basic blood
+work so what do you start
+
+1301
+01:01:49,710 --> 01:01:53,970
+with okay so i sort
+of gave you the answer
+
+1302
+01:01:53,970 --> 01:01:55,970
+for this one but again
+i wanted you to kind
+
+1303
+01:01:55,970 --> 01:01:59,350
+of think about it
+before uh beforehand um
+
+1304
+01:01:59,350 --> 01:02:01,710
+you would start with
+just a cbc right a cbc
+
+1305
+01:02:01,710 --> 01:02:03,550
+with differential which
+will have the breakdown
+
+1306
+01:02:03,550 --> 01:02:05,910
+of what cells they
+see um you'll get some
+
+1307
+01:02:05,910 --> 01:02:09,190
+igg levels you get um
+immunoglobulin levels
+
+1308
+01:02:09,190 --> 01:02:12,430
+uh you can get a plus
+uh chest x-ray plus
+
+1309
+01:02:12,430 --> 01:02:14,630
+or minus um you can
+get a blood culture
+
+1310
+01:02:14,630 --> 01:02:17,610
+depending on how sick
+the kid looks um and of
+
+1311
+01:02:17,610 --> 01:02:19,710
+course you will get an
+immunology console in
+
+1312
+01:02:19,710 --> 01:02:22,530
+the ed right um but i
+wouldn't be like oh yeah
+
+1313
+01:02:22,530 --> 01:02:24,370
+this patient just has
+no taste media let
+
+1314
+01:02:24,370 --> 01:02:25,610
+me just give them
+amoxicillin and send them
+
+1315
+01:02:25,610 --> 01:02:27,390
+home because it looks
+like they're there they
+
+1316
+01:02:27,390 --> 01:02:30,610
+could be sicker than
+that okay um they you
+
+1317
+01:02:30,610 --> 01:02:32,910
+get some uh you get
+cbc back and it shows a
+
+1318
+01:02:32,910 --> 01:02:36,670
+platelets of 50k okay
+normal is 150 to 400
+
+1319
+01:02:36,670 --> 01:02:43,190
+um the igm shows um
+shows it's 20 which is
+
+1320
+01:02:43,190 --> 01:02:46,690
+decreased normal should
+be 40 to 230 um and
+
+1321
+01:02:46,690 --> 01:02:49,850
+the iga is 500 which is
+a little bit elevated
+
+1322
+01:02:49,850 --> 01:02:53,250
+so normal is 70 to 400
+and the serum igg is
+
+1323
+01:02:53,250 --> 01:02:55,930
+900 which is actually
+normal. So what's
+
+1324
+01:02:55,930 --> 01:02:58,870
+pertinent here is we
+see thrombocytopenia and
+
+1325
+01:02:58,870 --> 01:03:02,990
+a decreased IgM, but
+IgA and IgG are fine, if
+
+1326
+01:03:02,990 --> 01:03:05,790
+not a little bit
+elevated for the IgA. So
+
+1327
+01:03:05,790 --> 01:03:07,510
+it's asking what is
+the most likely defect
+
+1328
+01:03:07,510 --> 01:03:10,390
+associated with this
+immunodeficiency? Okay,
+
+1329
+01:03:10,390 --> 01:03:13,330
+so we've got some skin
+infections. We've got
+
+1330
+01:03:13,330 --> 01:03:17,090
+two ear infections.
+He's an older-ish kid.
+
+1331
+01:03:18,630 --> 01:03:20,890
+You see that they
+have examinous
+
+1332
+01:03:20,890 --> 01:03:22,810
+lesions as well.
+So it has eczema,
+
+1333
+01:03:23,010 --> 01:03:25,910
+thrombocytopenia,
+and it's a male. It's
+
+1334
+01:03:25,910 --> 01:03:28,010
+telling you it's
+a male. Okay, so I
+
+1335
+01:03:28,010 --> 01:03:29,310
+want you guys to
+think about that.
+
+1336
+01:03:29,850 --> 01:03:33,550
+Okay, so these are the
+options that you'll
+
+1337
+01:03:33,550 --> 01:03:35,250
+have. So you have a
+micro deletion of long
+
+1338
+01:03:35,250 --> 01:03:38,370
+arm of chromosome
+22, which is A, B,
+
+1339
+01:03:38,370 --> 01:03:40,730
+mutation of the adenosine
+deaminase gene on
+
+1340
+01:03:40,730 --> 01:03:43,510
+chromosome 20, mutation
+of the Bruton tyrosine
+
+1341
+01:03:43,510 --> 01:03:45,650
+kinase gene on
+chromosome X, or mutation
+
+1342
+01:03:45,650 --> 01:03:48,250
+of the single
+transducer and activator
+
+1343
+01:03:48,250 --> 01:03:53,350
+of transcription 3
+on chromosome 17, and
+
+1344
+01:03:53,350 --> 01:03:54,910
+then the last one,
+mutation of the Wiscott
+
+1345
+01:03:54,910 --> 01:03:57,270
+-Eldrich syndrome gene
+on the X chromosome,
+
+1346
+01:03:57,270 --> 01:03:58,790
+okay? So you have to
+know a couple things.
+
+1347
+01:03:58,790 --> 01:04:01,090
+You have to know
+which, hopefully these
+
+1348
+01:04:01,090 --> 01:04:02,990
+are paired correctly,
+but sometimes they're
+
+1349
+01:04:02,990 --> 01:04:04,770
+not, and that's an easy
+giveaway that that's
+
+1350
+01:04:04,770 --> 01:04:06,650
+not the inheritance
+pattern, and that's
+
+1351
+01:04:06,650 --> 01:04:08,150
+not going to be the
+right answer, right?
+
+1352
+01:04:09,410 --> 01:04:10,870
+And then you kind
+of have to go from
+
+1353
+01:04:10,870 --> 01:04:14,010
+there, based off of
+which answer choice
+
+1354
+01:04:14,010 --> 01:04:15,450
+you think it's going
+to be most likely.
+
+1355
+01:04:15,900 --> 01:04:17,550
+So, let me think
+about it for a second.
+
+1356
+01:04:18,700 --> 01:04:20,590
+What do you think
+an answer would be?
+
+1357
+01:04:21,830 --> 01:04:23,850
+Here's the other
+slide for reference.
+
+1358
+01:04:24,790 --> 01:04:30,650
+And then I went through
+and kind of another
+
+1359
+01:04:30,850 --> 01:04:33,430
+testing strategy is
+going through the
+
+1360
+01:04:33,430 --> 01:04:37,510
+question answers and to
+see what disease they
+
+1361
+01:04:37,510 --> 01:04:39,630
+were kind of asking for,
+right? Because these
+
+1362
+01:04:39,630 --> 01:04:42,470
+things will show up
+again in a different
+
+1363
+01:04:42,470 --> 01:04:44,090
+way, in a different
+question stem. So it's
+
+1364
+01:04:44,090 --> 01:04:45,870
+really important to
+kind of be like, okay,
+
+1365
+01:04:45,870 --> 01:04:47,790
+go through each one
+and say, okay, this is
+
+1366
+01:04:47,790 --> 01:04:49,730
+what this disease is,
+this is what this disease
+
+1367
+01:04:49,730 --> 01:04:51,990
+is. So that's exactly
+what I did. So for
+
+1368
+01:04:51,990 --> 01:04:54,410
+A, chromosome 22,
+remember that's DeGeorge
+
+1369
+01:04:54,410 --> 01:04:57,210
+syndrome, the
+microdeletion. For answer
+
+1370
+01:04:57,210 --> 01:05:00,030
+choice B, the adenosine
+deaminase, the SCID.
+
+1371
+01:05:00,030 --> 01:05:01,470
+C is going to
+be your Bruton
+
+1372
+01:05:01,470 --> 01:05:04,810
+X-linked, a
+gamma globinemia.
+
+1373
+01:05:04,830 --> 01:05:06,910
+D is going to
+be the STAT3
+
+1374
+01:05:06,910 --> 01:05:08,610
+mutation, which
+is Job syndrome.
+
+1375
+01:05:08,610 --> 01:05:10,830
+And E, which is
+your Wiscot-Alder
+
+1376
+01:05:10,830 --> 01:05:13,430
+syndrome. Okay, so
+again, it helps.
+
+1377
+01:05:13,810 --> 01:05:15,090
+And then these are
+the things that
+
+1378
+01:05:15,090 --> 01:05:17,030
+I highlighted.
+Remember, five years
+
+1379
+01:05:17,030 --> 01:05:19,470
+old, the acute
+otitis media
+
+1380
+01:05:19,470 --> 01:05:21,910
+infections, despite
+having ear tubes,
+
+1381
+01:05:21,910 --> 01:05:24,110
+exemptions, lesions,
+not improving,
+
+1382
+01:05:24,110 --> 01:05:25,850
+platelets are
+low, IgM is low.
+
+1383
+01:05:26,350 --> 01:05:29,010
+So this answer
+was E, which
+
+1384
+01:05:29,010 --> 01:05:30,630
+is Wiskott
+-Aldridge syndrome.
+
+1385
+01:05:31,230 --> 01:05:33,650
+Okay, and this is the
+explanation of it.
+
+1386
+01:05:33,650 --> 01:05:35,930
+You guys can read this
+on your own time. And
+
+1387
+01:05:35,930 --> 01:05:39,350
+then these are the
+sources. um I found that
+
+1388
+01:05:39,350 --> 01:05:43,030
+uh the med lectures
+made easy on YouTube
+
+1389
+01:05:43,030 --> 01:05:45,790
+has a good primary immune
+deficiency disorder
+
+1390
+01:05:45,790 --> 01:05:48,270
+YouTube video is
+really helpful it might
+
+1391
+01:05:48,270 --> 01:05:50,670
+serve like a good
+supplement to this um
+
+1392
+01:05:50,670 --> 01:05:53,190
+or even the osmosis
+lectures on on immune
+
+1393
+01:05:53,190 --> 01:05:55,990
+deficiencies are really
+good um if you don't
+
+1394
+01:05:55,990 --> 01:05:57,970
+have osmosis you can
+google most of them
+
+1395
+01:05:57,970 --> 01:06:01,070
+uh and so hopefully
+you're able to get more
+
+1396
+01:06:01,070 --> 01:06:03,050
+of a I know these are
+difficult I know it's
+
+1397
+01:06:03,050 --> 01:06:04,810
+hard to memorize but
+the more you kind
+
+1398
+01:06:04,810 --> 01:06:06,530
+of review them the
+better you'll get at it
+
+1399
+01:06:06,530 --> 01:06:09,510
+and remember the basic
+overall concepts uh
+
+1400
+01:06:09,510 --> 01:06:11,350
+to kind of help you
+hone in that this is
+
+1401
+01:06:11,350 --> 01:06:14,350
+even a new deficiency
+even in the first place
+
+1402
+01:06:14,350 --> 01:06:17,330
+right so um so that's
+what i want you guys
+
+1403
+01:06:17,330 --> 01:06:19,130
+to get out of it so
+thank you for listening
+
+1404
+01:06:19,130 --> 01:06:21,210
+and watching this
+lecture um please give
+
+1405
+01:06:21,210 --> 01:06:23,330
+us feedback so i can
+help improve for next
+
+1406
+01:06:23,330 --> 01:06:26,270
+time um this is me
+when i was i don't know
+
+1407
+01:06:26,270 --> 01:06:28,770
+how old i was but
+um you know i love
+
+1408
+01:06:28,770 --> 01:06:31,770
+flowers so that's a
+picture of me so um please
+
+1409
+01:06:31,770 --> 01:06:33,410
+fill out the feedback
+form please please
+
+1410
+01:06:33,410 --> 01:06:35,790
+please is really helpful
+for all of us and
+
+1411
+01:06:35,790 --> 01:06:37,370
+for your education too
+so we're not giving
+
+1412
+01:06:37,370 --> 01:06:40,230
+you boring lectures
+okay thank you so much

@@ -1,0 +1,4750 @@
+1
+00:00:02,910 --> 00:00:05,170
+Hello everyone,
+my name is Lauren
+
+2
+00:00:05,170 --> 00:00:07,750
+Rudin and I am an
+academic medicine
+
+3
+00:00:07,750 --> 00:00:09,670
+scholar on the
+teaching track.
+
+4
+00:00:10,050 --> 00:00:11,470
+And today we're
+going to review
+
+5
+00:00:11,470 --> 00:00:14,210
+diagnosis of immediate
+hypersensitivity.
+
+6
+00:00:14,210 --> 00:00:17,030
+I want to thank Dr.
+Rio for allowing me
+
+7
+00:00:17,030 --> 00:00:18,990
+to present this topic
+to you all and for
+
+8
+00:00:18,990 --> 00:00:20,970
+her guidance while
+preparing this lecture.
+
+9
+00:00:23,730 --> 00:00:25,530
+Here are the learning
+objectives for
+
+10
+00:00:25,530 --> 00:00:27,690
+this lecture. I will
+not read them to
+
+11
+00:00:27,690 --> 00:00:29,550
+you, but I did
+mark some slides of
+
+12
+00:00:29,550 --> 00:00:31,630
+this lecture to inform
+you which learning
+
+13
+00:00:31,630 --> 00:00:33,410
+objective I will
+be speaking about
+
+14
+00:00:33,410 --> 00:00:35,830
+and when we will
+be switching gears.
+
+15
+00:00:35,830 --> 00:00:38,350
+I highly encourage
+you to use these
+
+16
+00:00:38,350 --> 00:00:40,490
+objectives as a
+guide while studying
+
+17
+00:00:40,810 --> 00:00:42,470
+this and all
+your lectures
+
+18
+00:00:42,470 --> 00:00:44,070
+during your
+preclinical years.
+
+19
+00:00:46,250 --> 00:00:48,610
+So let's get
+started with a case.
+
+20
+00:00:48,690 --> 00:00:51,310
+A four-year-old
+boy named Jack has
+
+21
+00:00:51,310 --> 00:00:52,670
+been brought into
+the emergency
+
+22
+00:00:52,670 --> 00:00:55,130
+department with
+swelling of the face,
+
+23
+00:00:55,250 --> 00:00:57,630
+generalized itchiness,
+and drowsiness.
+
+24
+00:00:57,970 --> 00:01:00,090
+These symptoms
+developed a few
+
+25
+00:01:00,090 --> 00:01:02,010
+minutes after eating
+a chocolate bar.
+
+26
+00:01:02,230 --> 00:01:04,530
+His mother explains
+that he has had
+
+27
+00:01:04,530 --> 00:01:06,530
+minor reactions
+to pistachios in
+
+28
+00:01:06,530 --> 00:01:08,530
+the past, including
+lip swelling.
+
+29
+00:01:08,770 --> 00:01:11,970
+The boy also has
+eczema, and his mother
+
+30
+00:01:11,970 --> 00:01:13,710
+thinks that in
+the past, this has
+
+31
+00:01:13,710 --> 00:01:15,950
+flared when he has
+eaten hazelnuts.
+
+32
+00:01:16,250 --> 00:01:18,270
+She has concluded
+that he might be
+
+33
+00:01:18,270 --> 00:01:20,490
+allergic to tree
+nuts and has tried to
+
+34
+00:01:20,490 --> 00:01:22,090
+eliminate them
+from the household.
+
+35
+00:01:22,370 --> 00:01:24,110
+The patient has never had
+
+36
+00:01:24,110 --> 00:01:25,490
+any symptoms from milk.
+
+37
+00:01:25,910 --> 00:01:28,230
+Jack asks if you're
+going to take
+
+38
+00:01:28,230 --> 00:01:30,170
+away the itch and
+if he can have
+
+39
+00:01:30,170 --> 00:01:31,830
+more chocolate
+when he gets home.
+
+40
+00:01:32,090 --> 00:01:33,950
+So what's your
+top differential
+
+41
+00:01:33,950 --> 00:01:35,430
+diagnosis for
+this patient?
+
+42
+00:01:35,890 --> 00:01:38,870
+I bet you're thinking,
+Lauren, I know
+
+43
+00:01:38,870 --> 00:01:40,550
+this is an immediate
+hypersensitivity
+
+44
+00:01:40,550 --> 00:01:42,830
+because that's the
+title of this lecture.
+
+45
+00:01:43,290 --> 00:01:45,390
+Now, the real
+questions I have for
+
+46
+00:01:45,390 --> 00:01:48,150
+you are, why did
+this boy have an
+
+47
+00:01:48,150 --> 00:01:50,130
+immediate
+hypersensitivity reaction?
+
+48
+00:01:50,550 --> 00:01:52,830
+What other signs
+and symptoms would
+
+49
+00:01:52,830 --> 00:01:55,070
+such a patient
+present with? What
+
+50
+00:01:55,210 --> 00:01:57,610
+other medical
+conditions may this
+
+51
+00:01:57,610 --> 00:01:59,610
+patient be predisposed
+to developing?
+
+52
+00:01:59,830 --> 00:02:02,670
+How do we treat this
+patient and why?
+
+53
+00:02:03,060 --> 00:02:05,450
+By the end of
+this lecture, you
+
+54
+00:02:05,450 --> 00:02:06,950
+should be able
+to confidently
+
+55
+00:02:06,950 --> 00:02:08,750
+answer each of
+these questions.
+
+56
+00:02:10,810 --> 00:02:13,390
+So what is
+hypersensitivity?
+
+57
+00:02:14,170 --> 00:02:16,430
+Hypersensitivity
+is an excessive or
+
+58
+00:02:16,430 --> 00:02:19,090
+inappropriate immune
+response to benign
+
+59
+00:02:19,090 --> 00:02:21,350
+foreign antigens
+that causes damage.
+
+60
+00:02:21,710 --> 00:02:24,970
+The immune response,
+not the antigen,
+
+61
+00:02:24,970 --> 00:02:27,070
+is the harmful
+part to the body.
+
+62
+00:02:27,130 --> 00:02:29,160
+This definition is quite
+
+63
+00:02:29,160 --> 00:02:31,690
+oversimplified,
+so we are going to
+
+64
+00:02:31,690 --> 00:02:33,870
+go into it a bit
+more in depth.
+
+65
+00:02:34,710 --> 00:02:37,350
+Hypersensitivity
+reactions are reliant on
+
+66
+00:02:37,350 --> 00:02:40,130
+the adaptive immune
+system, and previous
+
+67
+00:02:40,130 --> 00:02:43,510
+exposure to the antigen
+is required to prime the
+
+68
+00:02:43,510 --> 00:02:45,850
+adaptive immune
+response to produce the
+
+69
+00:02:45,850 --> 00:02:50,010
+respective antibody.
+That is, hypersensitivity
+
+70
+00:02:50,010 --> 00:02:53,390
+reactions do not take
+place when an individual
+
+71
+00:02:53,390 --> 00:02:56,990
+is first exposed to
+an allergen, which
+
+72
+00:02:56,990 --> 00:02:59,850
+is an extremely common
+misconception and an
+
+73
+00:02:59,850 --> 00:03:02,290
+important point to get
+across to patients.
+
+74
+00:03:03,650 --> 00:03:05,530
+Hypersensitivity
+occurs in response
+
+75
+00:03:05,530 --> 00:03:07,930
+to two general
+types of antigens,
+
+76
+00:03:08,090 --> 00:03:10,970
+foreign antigens
+like microbes and
+
+77
+00:03:10,970 --> 00:03:14,090
+environmental agents,
+and self-antigens.
+
+78
+00:03:14,670 --> 00:03:17,090
+Responses to self
+-antigens are a
+
+79
+00:03:17,090 --> 00:03:19,510
+result from failure
+of self-tolerance.
+
+80
+00:03:19,890 --> 00:03:22,070
+Tolerance is an
+important facet
+
+81
+00:03:22,070 --> 00:03:23,850
+because it keeps our
+immune system from
+
+82
+00:03:23,850 --> 00:03:26,090
+attacking itself,
+but it doesn't
+
+83
+00:03:26,090 --> 00:03:28,250
+function perfectly
+in all individuals.
+
+84
+00:03:28,430 --> 00:03:31,030
+This is what we
+call autoimmunity.
+
+85
+00:03:33,190 --> 00:03:36,290
+The system of hypersensitivity
+classification
+
+86
+00:03:36,290 --> 00:03:38,230
+that we use in
+the medical field
+
+87
+00:03:38,230 --> 00:03:41,230
+was first described
+by Gell and Coombs and
+
+88
+00:03:41,230 --> 00:03:43,450
+is based on the
+principal immunologic
+
+89
+00:03:43,450 --> 00:03:46,110
+mechanism responsible
+for tissue injury.
+
+90
+00:03:46,430 --> 00:03:49,070
+Each type of
+reaction is antigen
+
+91
+00:03:49,070 --> 00:03:50,710
+-specific and produces a
+
+92
+00:03:50,710 --> 00:03:52,730
+characteristic
+clinical disease.
+
+93
+00:03:53,000 --> 00:03:55,590
+We are going to review
+each of the four
+
+94
+00:03:55,590 --> 00:03:58,530
+types of hypersensitivity
+reactions, and
+
+95
+00:03:58,530 --> 00:04:00,530
+this slide demonstrates
+a helpful memory
+
+96
+00:04:00,530 --> 00:04:02,730
+aid to keep the
+numbers and mechanisms
+
+97
+00:04:02,730 --> 00:04:05,970
+straight in your head
+type 1 is known as
+
+98
+00:04:05,970 --> 00:04:09,070
+immediate hypersensitivity
+type 2 is known
+
+99
+00:04:09,070 --> 00:04:12,230
+as antibody mediated
+type 3 is known
+
+100
+00:04:12,230 --> 00:04:16,030
+as immune complex
+mediated and type 4 is
+
+101
+00:04:16,030 --> 00:04:19,730
+known as delayed type
+hypersensitivity we
+
+102
+00:04:19,730 --> 00:04:21,770
+will review this
+slide again once we
+
+103
+00:04:21,770 --> 00:04:24,450
+discuss each type to
+solidify the concepts
+
+104
+00:04:26,450 --> 00:04:30,290
+Type 1 hypersensitivity,
+also called
+
+105
+00:04:30,290 --> 00:04:34,970
+immediate hypersensitivity,
+is an IgE antibody
+
+106
+00:04:34,970 --> 00:04:37,990
+and mass cell
+mediated reaction to
+
+107
+00:04:37,990 --> 00:04:40,670
+certain antigens that
+causes rapid vascular
+
+108
+00:04:40,670 --> 00:04:44,370
+leakage, excessive
+mucosal secretions, and
+
+109
+00:04:44,370 --> 00:04:46,730
+contraction of
+bronchial and intestinal
+
+110
+00:04:46,730 --> 00:04:49,570
+smooth muscle, followed
+by inflammation.
+
+111
+00:04:52,890 --> 00:04:55,650
+The sequence of
+events and development
+
+112
+00:04:55,650 --> 00:04:57,530
+of immediate
+hypersensitivity
+
+113
+00:04:57,530 --> 00:04:59,770
+has a few steps
+which are illustrated
+
+114
+00:04:59,770 --> 00:05:01,550
+by the diagram
+on the right.
+
+115
+00:05:01,570 --> 00:05:04,770
+It looks quite complex,
+so I'm going to
+
+116
+00:05:04,770 --> 00:05:07,730
+break it down into a
+few more simpler steps.
+
+117
+00:05:07,970 --> 00:05:11,050
+During sensitization,
+the antigen
+
+118
+00:05:11,050 --> 00:05:13,990
+activates T
+helper 2 cells and
+
+119
+00:05:13,990 --> 00:05:16,890
+follicular helper T
+cells, which secrete
+
+120
+00:05:16,890 --> 00:05:19,710
+interleukin-4 and
+interleukin-13,
+
+121
+00:05:19,830 --> 00:05:23,830
+which then stimulate
+production of IgE and
+
+122
+00:05:23,830 --> 00:05:26,550
+facilitate its binding
+to its receptor on
+
+123
+00:05:26,550 --> 00:05:30,430
+mast cells. With subsequent
+antigen exposure,
+
+124
+00:05:30,610 --> 00:05:33,430
+immediate hypersensitivity
+reaction takes
+
+125
+00:05:33,430 --> 00:05:38,470
+place. The antigen
+crosslinks preformed IgE
+
+126
+00:05:38,470 --> 00:05:41,310
+on sensitized mast
+cells and triggers
+
+127
+00:05:41,310 --> 00:05:45,790
+degranulation. This
+then releases
+various mediators,
+
+128
+00:05:45,790 --> 00:05:48,370
+a few of which I
+will briefly mention.
+
+129
+00:05:49,030 --> 00:05:51,750
+Histamine causes
+increased vascular
+
+130
+00:05:51,750 --> 00:05:55,330
+permeability and vasodilation,
+leading to leakage
+
+131
+00:05:55,330 --> 00:05:58,010
+of fluid and plasma
+proteins into tissues
+
+132
+00:05:58,010 --> 00:06:00,910
+and stimulates the
+transient contraction
+
+133
+00:06:00,910 --> 00:06:03,690
+of bronchial and
+intestinal smooth muscle.
+
+134
+00:06:04,330 --> 00:06:07,270
+Proteases may damage
+local tissues.
+
+135
+00:06:07,910 --> 00:06:10,850
+Prostaglandins cause
+vascular dilation.
+
+136
+00:06:11,630 --> 00:06:14,070
+Leukotrienes
+stimulate prolonged
+
+137
+00:06:14,070 --> 00:06:16,030
+bronchial smooth
+muscle contraction.
+
+138
+00:06:16,410 --> 00:06:20,010
+This is referred to
+as the early, acute,
+
+139
+00:06:20,010 --> 00:06:22,830
+or immediate phase
+of an immediate
+
+140
+00:06:22,830 --> 00:06:26,150
+hypersensitivity reaction.
+These all mean the
+
+141
+00:06:26,150 --> 00:06:28,730
+same thing and are
+used interchangeably.
+
+142
+00:06:29,350 --> 00:06:32,150
+Other mast cell
+mediators are also
+
+143
+00:06:32,150 --> 00:06:34,250
+released but play
+a different role.
+
+144
+00:06:34,990 --> 00:06:36,650
+Cytokines stimulate the
+
+145
+00:06:36,650 --> 00:06:38,570
+recruitment of
+eosinophils,
+
+146
+00:06:38,730 --> 00:06:41,550
+neutrophils, and
+T-helper 2 cells,
+
+147
+00:06:41,550 --> 00:06:44,070
+which are primarily
+responsible for
+
+148
+00:06:44,070 --> 00:06:46,450
+the late or delayed
+phase reaction.
+
+149
+00:06:46,990 --> 00:06:48,890
+This phase's
+hallmarks are
+
+150
+00:06:48,890 --> 00:06:50,850
+inflammation and
+tissue damage.
+
+151
+00:06:51,310 --> 00:06:54,690
+Mass cell-derived TNF and
+
+152
+00:06:54,690 --> 00:06:57,070
+interleukin-4
+promote inflammation.
+
+153
+00:06:57,310 --> 00:07:01,450
+Interleukin-5 activates
+eosinophils, which,
+
+154
+00:07:01,450 --> 00:07:04,170
+along with neutrophils,
+release proteases
+
+155
+00:07:04,170 --> 00:07:07,590
+and cause tissue damage.
+Because immediate
+
+156
+00:07:07,590 --> 00:07:09,890
+hypersensitivity
+reactions have the
+
+157
+00:07:09,890 --> 00:07:12,710
+capability to cause
+two symptom flares, so
+
+158
+00:07:12,710 --> 00:07:15,710
+to speak, from a single
+antigen exposure,
+
+159
+00:07:15,830 --> 00:07:19,010
+we refer to it as
+causing biphasic
+
+160
+00:07:19,010 --> 00:07:21,130
+reactions, meaning
+two phases.
+
+161
+00:07:21,830 --> 00:07:24,870
+Type I hypersensitivities
+include
+
+162
+00:07:24,870 --> 00:07:27,610
+atopic diseases
+such as asthma,
+
+163
+00:07:27,670 --> 00:07:29,090
+allergic rhinitis,
+
+164
+00:07:29,250 --> 00:07:30,870
+allergic conjunctivitis,
+
+165
+00:07:30,870 --> 00:07:32,750
+and atopic dermatitis.
+
+166
+00:07:32,970 --> 00:07:36,670
+Type I hypersensitivities
+also include allergic
+
+167
+00:07:36,670 --> 00:07:40,510
+diseases such as
+anaphylaxis, urticaria,
+
+168
+00:07:40,510 --> 00:07:44,230
+and angioedema. It is
+very important to note
+
+169
+00:07:44,230 --> 00:07:48,250
+that type 2 and type
+3 hypersensitivity
+
+170
+00:07:48,250 --> 00:07:52,050
+reactions can also
+result in an anaphylactic
+
+171
+00:07:52,050 --> 00:07:55,990
+reaction within 24 hours
+of antigen exposure.
+
+172
+00:07:58,950 --> 00:08:02,830
+Type II hypersensitivity
+reactions are
+
+173
+00:08:02,830 --> 00:08:07,350
+caused by IgG and IgM
+antibodies against
+
+174
+00:08:07,350 --> 00:08:10,030
+cells or extracellular
+matrix components
+
+175
+00:08:10,030 --> 00:08:12,730
+which deposit in
+any tissue that
+
+176
+00:08:12,730 --> 00:08:15,150
+expresses the relevant
+target antigen.
+
+177
+00:08:15,570 --> 00:08:17,990
+This results in the
+hallmark cellular
+
+178
+00:08:17,990 --> 00:08:21,170
+destruction,
+inflammation, and cellular
+
+179
+00:08:21,170 --> 00:08:23,070
+dysfunction seen
+in these disorders.
+
+180
+00:08:23,070 --> 00:08:26,590
+Type 2 hypersensitivity
+disorders,
+
+181
+00:08:26,590 --> 00:08:29,170
+primarily due to
+cellular destruction,
+
+182
+00:08:29,290 --> 00:08:32,130
+also termed
+antibody-dependent
+
+183
+00:08:32,130 --> 00:08:33,890
+cellular cytotoxicity,
+
+184
+00:08:34,010 --> 00:08:36,970
+are autoimmune
+hemolytic anemia,
+
+185
+00:08:37,270 --> 00:08:39,830
+immune thrombocytopenia,
+
+186
+00:08:40,090 --> 00:08:42,690
+transfusion
+reactions, and
+
+187
+00:08:42,690 --> 00:08:44,730
+hemolytic disease
+of the newborn.
+
+188
+00:08:45,250 --> 00:08:48,150
+Examples of disorders
+due to inflammation
+
+189
+00:08:48,150 --> 00:08:51,250
+are Good-Pasture
+syndrome, which is
+
+190
+00:08:51,250 --> 00:08:53,230
+a renal disease you
+will learn about
+
+191
+00:08:53,230 --> 00:08:55,210
+in your second year
+of medical school,
+
+192
+00:08:55,470 --> 00:08:58,590
+rheumatic fever,
+and hyperacute
+
+193
+00:08:58,590 --> 00:08:59,850
+transplant rejection.
+
+194
+00:09:00,350 --> 00:09:01,510
+Finally,
+
+195
+00:09:01,790 --> 00:09:04,170
+cellular dysfunction
+caused by type 2
+
+196
+00:09:04,170 --> 00:09:07,970
+hypersensitivity results
+in myasthenia gravis,
+
+197
+00:09:08,050 --> 00:09:11,570
+Graves disease, and
+pentagus vulgaris.
+
+198
+00:09:11,790 --> 00:09:15,130
+So, I just threw a
+ton of disease names
+
+199
+00:09:15,130 --> 00:09:17,650
+at you, which are also
+listed on the next
+
+200
+00:09:17,650 --> 00:09:20,230
+slide. But how do
+they actually occur?
+
+201
+00:09:20,440 --> 00:09:21,750
+Let's check it out.
+
+202
+00:09:24,830 --> 00:09:28,770
+Bound IgG interacts
+with COMPLIMA and
+
+203
+00:09:28,770 --> 00:09:31,730
+with the FC receptor
+of macrophages.
+
+204
+00:09:31,990 --> 00:09:34,190
+Starting with panel A of
+
+205
+00:09:34,190 --> 00:09:35,650
+the diagram on the right,
+
+206
+00:09:35,810 --> 00:09:39,250
+type 2 hypersensitivity
+can occur when
+
+207
+00:09:39,250 --> 00:09:42,690
+IgG antibodies cross
+-link with antigens.
+
+208
+00:09:42,690 --> 00:09:45,490
+Then they bond to
+neutrophils and
+
+209
+00:09:45,490 --> 00:09:48,290
+macrophage FC
+receptors and activate
+
+210
+00:09:48,290 --> 00:09:52,200
+them, which results
+in inflammation. Both
+
+211
+00:09:52,200 --> 00:09:56,750
+IgG and IgM, when
+bound to antigens,
+
+212
+00:09:56,970 --> 00:09:59,310
+activate the classical
+pathway of the
+
+213
+00:09:59,310 --> 00:10:01,870
+complement system and
+produce inflammation.
+
+214
+00:10:02,170 --> 00:10:05,770
+When leukocytes are
+activated at the
+
+215
+00:10:05,770 --> 00:10:08,330
+site of antibody
+deposition, they
+
+216
+00:10:08,330 --> 00:10:11,350
+release reactive
+oxygen species and
+
+217
+00:10:11,350 --> 00:10:13,970
+lysosomal enzymes
+that damage tissues.
+
+218
+00:10:14,210 --> 00:10:18,030
+Panel B illustrates
+opsonization and
+
+219
+00:10:18,030 --> 00:10:21,770
+phagocytosis, two very
+high-yield concepts
+
+220
+00:10:21,770 --> 00:10:24,390
+when understanding
+mechanisms of disease.
+
+221
+00:10:24,530 --> 00:10:28,250
+When antibodies bind
+to antigens on cells,
+
+222
+00:10:28,250 --> 00:10:32,050
+the cells are opsonized,
+or tagged, to make
+
+223
+00:10:32,050 --> 00:10:34,670
+them more easily
+recognized so they can be
+
+224
+00:10:34,670 --> 00:10:37,810
+ingested and destroyed
+by host phagocytes.
+
+225
+00:10:37,810 --> 00:10:41,970
+When an erythrocyte or
+platelet is opsonized,
+
+226
+00:10:41,970 --> 00:10:45,450
+we can see autoimmune
+hemolytic anemia,
+
+227
+00:10:45,870 --> 00:10:48,150
+immune thrombocytopenia,
+
+228
+00:10:48,450 --> 00:10:50,590
+transfusion
+reactions, and
+
+229
+00:10:50,590 --> 00:10:52,610
+hemolytic disease
+of the newborn.
+
+230
+00:10:53,450 --> 00:10:55,650
+Panel C illustrates the
+
+231
+00:10:55,650 --> 00:10:57,630
+abnormal cellular
+responses.
+
+232
+00:10:58,390 --> 00:11:01,370
+Antibodies can directly
+activate receptors
+
+233
+00:11:01,370 --> 00:11:03,870
+and mimic their
+physiologic ligands,
+
+234
+00:11:03,870 --> 00:11:06,790
+such is with Graves'
+disease, a form
+
+235
+00:11:06,790 --> 00:11:09,690
+of antibody-mediated
+hyperthyroidism.
+
+236
+00:11:10,250 --> 00:11:13,630
+Antibodies can also
+block receptors, such
+
+237
+00:11:13,630 --> 00:11:16,210
+as in myasthenia
+gravis, when these
+
+238
+00:11:16,210 --> 00:11:19,630
+autoantibodies block
+nicotinic acetylcholine
+
+239
+00:11:19,630 --> 00:11:22,950
+receptors and prevent
+muscle cells from receiving
+
+240
+00:11:22,950 --> 00:11:25,390
+signals from motor
+neurons to contract,
+
+241
+00:11:25,390 --> 00:11:28,390
+resulting and muscle
+weakness and fatigue.
+
+242
+00:11:31,750 --> 00:11:36,630
+Type 3 hypersensitivity
+involves IgG,
+
+243
+00:11:36,750 --> 00:11:40,870
+IgM, and sometimes
+IgA antibodies
+
+244
+00:11:40,870 --> 00:11:43,950
+forming immune
+complexes with antigen.
+
+245
+00:11:44,170 --> 00:11:47,110
+These complexes are
+actually normal.
+
+246
+00:11:47,500 --> 00:11:50,230
+Type 3 hypersensitivity
+reactions
+
+247
+00:11:50,230 --> 00:11:53,070
+are prevented
+by activation of
+
+248
+00:11:53,070 --> 00:11:54,990
+the classical
+complement pathway,
+
+249
+00:11:55,200 --> 00:11:59,170
+especially C3, which
+inserts itself and
+
+250
+00:11:59,170 --> 00:12:01,850
+breaks up the lattice
+of the immune complex.
+
+251
+00:12:02,190 --> 00:12:05,030
+Red blood cells
+also transfer these
+
+252
+00:12:05,030 --> 00:12:07,290
+immune complexes
+from tissues in
+
+253
+00:12:07,290 --> 00:12:10,430
+blood using complement
+receptor 1, the
+
+254
+00:12:10,430 --> 00:12:13,370
+receptor for C3,
+to phagocytes of
+
+255
+00:12:13,370 --> 00:12:15,290
+the liver and spleen
+for breakdown.
+
+256
+00:12:16,280 --> 00:12:19,450
+However, problems
+arise when immune
+
+257
+00:12:19,450 --> 00:12:22,470
+complexes are formed
+in excessive amounts,
+
+258
+00:12:22,470 --> 00:12:24,870
+are not efficiently
+removed by
+
+259
+00:12:24,870 --> 00:12:28,130
+phagocytes and become
+deposited in tissues.
+
+260
+00:12:28,530 --> 00:12:31,590
+Immune complexes
+usually deposit in
+
+261
+00:12:31,590 --> 00:12:34,550
+blood vessels and
+present as vasculitis.
+
+262
+00:12:34,750 --> 00:12:38,750
+Once deposited in
+vessel walls, the FC
+
+263
+00:12:38,750 --> 00:12:41,590
+regions of antibodies
+activate complement
+
+264
+00:12:41,590 --> 00:12:44,230
+and bind neutrophils
+to induce release
+
+265
+00:12:44,230 --> 00:12:47,750
+of proteases and
+reactive oxygen species.
+
+266
+00:12:48,190 --> 00:12:51,450
+This inflammatory
+response within the vessel
+
+267
+00:12:51,450 --> 00:12:54,110
+wall may cause
+local hemorrhage or
+
+268
+00:12:54,110 --> 00:12:57,510
+thrombosis leading to
+ischemic tissue injury.
+
+269
+00:12:57,870 --> 00:12:59,690
+So, to reiterate,
+
+270
+00:13:00,210 --> 00:13:02,050
+three things
+stick together to
+
+271
+00:13:02,050 --> 00:13:03,950
+cause a type 3
+hypersensitivity.
+
+272
+00:13:04,790 --> 00:13:08,190
+Antibody, antigen,
+and complement.
+
+273
+00:13:11,070 --> 00:13:14,690
+Type 3 hypersensitivity
+reactions can be
+
+274
+00:13:14,690 --> 00:13:18,630
+local, called an ARTHIS
+reaction, or disseminated,
+
+275
+00:13:18,630 --> 00:13:21,910
+called serum
+sickness. The first
+
+276
+00:13:21,910 --> 00:13:25,190
+immune complex disease
+studied was serum sickness
+
+277
+00:13:25,190 --> 00:13:27,810
+and was observed
+when human subjects
+
+278
+00:13:27,810 --> 00:13:31,250
+received antitoxin
+-containing serum from
+
+279
+00:13:31,250 --> 00:13:34,050
+immunized animals for
+treatment of infection.
+
+280
+00:13:34,210 --> 00:13:37,190
+Some of these
+subjects developed a
+
+281
+00:13:37,190 --> 00:13:40,610
+systemic inflammatory
+disease with fever,
+
+282
+00:13:40,670 --> 00:13:44,410
+rash, and arthritis
+caused by antibodies
+
+283
+00:13:44,410 --> 00:13:47,110
+made against injected
+animal proteins,
+
+284
+00:13:47,110 --> 00:13:49,470
+which then formed
+complexes with
+
+285
+00:13:49,470 --> 00:13:52,330
+these proteins and
+deposited in tissues.
+
+286
+00:13:52,450 --> 00:13:56,190
+This phenomenon was
+replicated experimentally
+
+287
+00:13:56,190 --> 00:13:59,670
+to confirm this mechanism
+and can occur as
+
+288
+00:13:59,670 --> 00:14:02,770
+a complication of
+any therapy involving
+
+289
+00:14:02,770 --> 00:14:06,350
+injection of foreign
+proteins, such as antibodies
+
+290
+00:14:06,350 --> 00:14:09,790
+against microbial
+toxins, snake venoms,
+
+291
+00:14:10,030 --> 00:14:13,030
+animal-derived T
+-cells, or humanized
+
+292
+00:14:13,030 --> 00:14:15,530
+monoclonal antibodies
+that are commonly
+
+293
+00:14:15,530 --> 00:14:17,810
+used nowadays to
+treat disease.
+
+294
+00:14:18,070 --> 00:14:21,570
+Examples of serum
+sickness like type 3
+
+295
+00:14:21,570 --> 00:14:26,030
+hypersensitivity reactions
+are systemic lupus
+
+296
+00:14:26,030 --> 00:14:30,010
+erythematosus,
+colloquially called lupus,
+
+297
+00:14:30,290 --> 00:14:32,070
+rheumatoid arthritis,
+
+298
+00:14:32,630 --> 00:14:35,570
+post-streptococcal
+glomerulonephritis,
+
+299
+00:14:35,970 --> 00:14:39,690
+infections like
+hepatitis B, and some
+
+300
+00:14:39,690 --> 00:14:42,970
+drugs which act as
+haptons like penicillin.
+
+301
+00:14:43,310 --> 00:14:46,970
+In contrast, a
+localized immune
+
+302
+00:14:46,970 --> 00:14:49,510
+complex reaction
+was first studied in
+
+303
+00:14:49,510 --> 00:14:52,770
+animals and was
+induced by subcutaneous
+
+304
+00:14:52,770 --> 00:14:55,150
+administration of
+a protein antigen
+
+305
+00:14:55,150 --> 00:14:57,870
+to a previously
+immunized animal.
+
+306
+00:14:58,400 --> 00:15:00,730
+This injection
+resulted in the
+
+307
+00:15:00,730 --> 00:15:03,290
+formation of
+immune complexes at
+
+308
+00:15:03,290 --> 00:15:05,390
+the site of
+antigen injection
+
+309
+00:15:05,440 --> 00:15:09,670
+and resulted in a
+local vasculitis. A
+
+310
+00:15:09,670 --> 00:15:12,550
+classic example of
+localized type 3
+
+311
+00:15:12,550 --> 00:15:16,090
+hypersensitivity reaction
+is hypersensitivity
+
+312
+00:15:16,090 --> 00:15:19,170
+pneumonitis, also
+called farmer's lung.
+
+313
+00:15:21,570 --> 00:15:24,810
+Type 4 hypersensitivity
+reactions
+
+314
+00:15:24,810 --> 00:15:27,450
+are unique because
+they are caused
+
+315
+00:15:27,450 --> 00:15:29,830
+by T lymphocytes
+rather than
+
+316
+00:15:30,040 --> 00:15:32,030
+immunoglobulins like
+the other three.
+
+317
+00:15:32,210 --> 00:15:35,510
+These reactions
+result either from
+
+318
+00:15:35,510 --> 00:15:37,770
+inflammation
+caused by cytokines
+
+319
+00:15:37,770 --> 00:15:42,390
+produced by CD4, T
+helper 1, and T helper
+
+320
+00:15:42,390 --> 00:15:45,590
+17 cells, or by
+killing of host
+
+321
+00:15:45,590 --> 00:15:49,350
+cells by CD8 cytotoxic
+T lymphocytes.
+
+322
+00:15:50,090 --> 00:15:54,010
+CD4 T cells secrete
+cytokines that induce
+
+323
+00:15:54,010 --> 00:15:57,190
+local inflammation and
+activate macrophages.
+
+324
+00:15:57,470 --> 00:16:00,050
+Different diseases
+may be associated
+
+325
+00:16:00,050 --> 00:16:02,970
+with activation
+of T helper 1 and
+
+326
+00:16:02,970 --> 00:16:06,930
+T helper 17 cells.
+T helper 1 cells
+
+327
+00:16:06,930 --> 00:16:09,290
+are the source of
+interferon gamma,
+
+328
+00:16:09,410 --> 00:16:11,870
+the principal
+macrophage activating
+
+329
+00:16:11,870 --> 00:16:15,590
+cytokine, and T
+-helper 17 cells are
+
+330
+00:16:15,590 --> 00:16:17,430
+responsible for
+the recruitment of
+
+331
+00:16:17,430 --> 00:16:19,570
+leukocytes, including
+neutrophils.
+
+332
+00:16:19,810 --> 00:16:23,230
+Other diseases are
+associated with direct
+
+333
+00:16:23,230 --> 00:16:27,910
+cell cytotoxicity via
+CD8 T-cells, which
+
+334
+00:16:27,910 --> 00:16:30,730
+produce cytokines
+like interferon gamma.
+
+335
+00:16:33,650 --> 00:16:37,630
+Type 4 hypersensitivity
+is also unique
+
+336
+00:16:37,630 --> 00:16:40,930
+in that it occurs
+24 to 48 hours
+
+337
+00:16:40,930 --> 00:16:44,530
+after a sensitized
+individual is exposed
+
+338
+00:16:44,530 --> 00:16:47,390
+to the antigen,
+which is why this
+
+339
+00:16:47,390 --> 00:16:49,870
+type of hypersensitivity
+is referred
+
+340
+00:16:49,870 --> 00:16:52,790
+to as delayed type
+hypersensitivity.
+
+341
+00:16:52,990 --> 00:16:56,650
+This delay occurs
+because it takes time for
+
+342
+00:16:56,650 --> 00:16:59,710
+circulating effector
+T cells to migrate to
+
+343
+00:16:59,710 --> 00:17:02,710
+the site of antigen
+challenge, respond to
+
+344
+00:17:02,710 --> 00:17:06,470
+the antigen, and secrete
+cytokines to induce
+
+345
+00:17:06,470 --> 00:17:09,070
+a detectable reaction
+in the individual.
+
+346
+00:17:09,500 --> 00:17:13,410
+The major causes of
+type 4 hypersensitivity
+
+347
+00:17:13,410 --> 00:17:16,410
+reactions are
+autoimmunity and
+
+348
+00:17:16,410 --> 00:17:19,270
+exaggerated or
+persistent responses to
+
+349
+00:17:19,270 --> 00:17:21,870
+microbial or
+environmental antigens.
+
+350
+00:17:22,250 --> 00:17:25,570
+Examples include
+contact sensitivity to
+
+351
+00:17:25,570 --> 00:17:28,770
+chemicals, like
+topical drugs, plants
+
+352
+00:17:28,770 --> 00:17:31,630
+like poison ivy, and
+metals like nickel,
+
+353
+00:17:31,630 --> 00:17:33,570
+which is commonly
+found in jewelry.
+
+354
+00:17:34,130 --> 00:17:37,690
+In these situations,
+the antigen binds to
+
+355
+00:17:37,690 --> 00:17:40,610
+and modifies self
+-proteins in the skin,
+
+356
+00:17:40,610 --> 00:17:43,170
+creating new
+antigens that
+
+357
+00:17:43,170 --> 00:17:45,150
+can be recognized
+by T-cells.
+
+358
+00:17:45,690 --> 00:17:48,730
+The mechanism of type
+4 hypersensitivity
+
+359
+00:17:48,730 --> 00:17:51,910
+reactions is also
+utilized to our advantage
+
+360
+00:17:51,910 --> 00:17:54,850
+to determine if people
+have been previously
+
+361
+00:17:54,850 --> 00:17:59,510
+exposed to or respond
+to an antigen. A
+
+362
+00:17:59,510 --> 00:18:03,890
+classic example of this
+is the PPD test, which
+
+363
+00:18:03,890 --> 00:18:06,230
+stands for purified
+protein derivative,
+
+364
+00:18:06,230 --> 00:18:09,530
+which is injected
+intradermally and in
+
+365
+00:18:09,530 --> 00:18:13,450
+duration is measured 48
+hours after to predict
+
+366
+00:18:13,450 --> 00:18:16,450
+past or present
+mycobacterial infection.
+
+367
+00:18:16,930 --> 00:18:19,340
+An example of
+an autoimmune
+
+368
+00:18:19,340 --> 00:18:21,210
+disease that is
+caused by a type
+
+369
+00:18:21,210 --> 00:18:23,170
+4 hypersensitivity
+reaction
+
+370
+00:18:23,190 --> 00:18:24,930
+is type 1 diabetes,
+
+371
+00:18:25,050 --> 00:18:27,790
+which is caused by
+T cells responding
+
+372
+00:18:27,790 --> 00:18:31,130
+to pancreatic islet
+cell autoantigens,
+
+373
+00:18:31,650 --> 00:18:33,430
+damaging islets
+and eventually
+
+374
+00:18:33,430 --> 00:18:35,490
+preventing
+insulin secretion.
+
+375
+00:18:38,560 --> 00:18:41,010
+Circling back to
+the memory aid I
+
+376
+00:18:41,010 --> 00:18:43,330
+introduced at the
+beginning of this lecture,
+
+377
+00:18:43,330 --> 00:18:45,710
+this should make
+much more sense.
+
+378
+00:18:46,050 --> 00:18:48,270
+Now that we have
+talked about each type
+
+379
+00:18:48,270 --> 00:18:50,690
+of hypersensitivity,
+we are going
+
+380
+00:18:50,690 --> 00:18:53,590
+to dive deeper into
+a specific type of
+
+381
+00:18:53,590 --> 00:18:57,230
+type 1 hypersensitivity,
+anaphylaxis.
+
+382
+00:19:00,610 --> 00:19:03,650
+Anaphylaxis is
+defined as a serious
+
+383
+00:19:03,650 --> 00:19:05,810
+allergic
+hypersensitivity reaction
+
+384
+00:19:05,810 --> 00:19:08,810
+that can progress
+rapidly and may cause
+
+385
+00:19:08,810 --> 00:19:11,730
+death. It may
+involve the skin and
+
+386
+00:19:11,730 --> 00:19:14,210
+mucosa, including
+lips and tongue,
+
+387
+00:19:14,630 --> 00:19:16,890
+respiratory,
+cardiovascular,
+
+388
+00:19:16,890 --> 00:19:19,730
+and or gastrointestinal
+systems.
+
+389
+00:19:20,050 --> 00:19:23,190
+Life-threatening
+anaphylaxis is
+
+390
+00:19:23,190 --> 00:19:25,830
+characterized by
+respiratory and or
+
+391
+00:19:25,830 --> 00:19:28,930
+cardiovascular
+involvement and may occur
+
+392
+00:19:28,930 --> 00:19:31,990
+without skin and
+mucosa involvement.
+
+393
+00:19:32,810 --> 00:19:36,030
+Anaphylaxis is likely
+when any of the
+
+394
+00:19:36,030 --> 00:19:38,430
+following three
+criteria are fulfilled.
+
+395
+00:19:38,850 --> 00:19:42,570
+No known allergen
+exposure with sudden onset
+
+396
+00:19:42,570 --> 00:19:45,590
+of an illness,
+characterized as minutes
+
+397
+00:19:45,590 --> 00:19:49,070
+to several hours,
+with skin or mucosal
+
+398
+00:19:49,070 --> 00:19:52,990
+involvement and either
+respiratory or circulatory
+
+399
+00:19:52,990 --> 00:19:56,690
+involvement. a likely
+or known allergen
+
+400
+00:19:56,690 --> 00:19:59,790
+exposure with sudden
+onset of symptoms from
+
+401
+00:19:59,790 --> 00:20:04,270
+two or more systems,
+or a known allergen
+
+402
+00:20:04,270 --> 00:20:08,350
+exposure with sudden onset
+of either respiratory
+
+403
+00:20:08,350 --> 00:20:12,710
+involvement after
+exposure to a non-inhaled
+
+404
+00:20:12,710 --> 00:20:16,110
+allergen or cardiovascular
+involvement.
+
+405
+00:20:17,430 --> 00:20:20,490
+Anaphylaxis epidemiology
+shows a lifetime
+
+406
+00:20:20,490 --> 00:20:24,450
+prevalence of 0
+.3 to 5.1 percent.
+
+407
+00:20:24,590 --> 00:20:25,850
+However,
+
+408
+00:20:26,450 --> 00:20:29,130
+worrying data indicate
+that recurrence
+
+409
+00:20:29,130 --> 00:20:34,490
+of reactions occurs
+in 26.5 up to 54
+
+410
+00:20:34,490 --> 00:20:37,430
+percent of anaphylaxis
+patients during
+
+411
+00:20:37,430 --> 00:20:41,010
+a follow-up time
+of 1.5 to 25 years.
+
+412
+00:20:41,270 --> 00:20:44,390
+Therefore, it is
+super important that
+
+413
+00:20:44,390 --> 00:20:47,130
+all health care
+providers can confidently
+
+414
+00:20:47,130 --> 00:20:49,990
+identify and
+manage anaphylaxis.
+
+415
+00:20:51,890 --> 00:20:55,530
+Signs and symptoms
+of anaphylaxis vary
+
+416
+00:20:55,530 --> 00:20:58,430
+on an individual
+basis, and common
+
+417
+00:20:58,430 --> 00:21:01,510
+patient presentations
+vary by patient age.
+
+418
+00:21:01,510 --> 00:21:04,330
+This is not a
+comprehensive list of
+
+419
+00:21:04,330 --> 00:21:07,470
+potential signs by
+system, but there are more
+
+420
+00:21:07,470 --> 00:21:10,550
+common presentations
+than others. It is
+
+421
+00:21:10,550 --> 00:21:13,310
+very important to
+note that not all
+
+422
+00:21:13,310 --> 00:21:16,450
+anaphylactic reactions
+have skin or mucosal
+
+423
+00:21:16,450 --> 00:21:19,010
+involvement, although
+it is very common.
+
+424
+00:21:21,390 --> 00:21:24,390
+Medications, foods,
+and venomous insects
+
+425
+00:21:24,390 --> 00:21:27,710
+are the most common
+causes of anaphylaxis.
+
+426
+00:21:28,450 --> 00:21:30,750
+Antibiotics are the
+most common cause
+
+427
+00:21:30,750 --> 00:21:34,050
+of drug-induced
+anaphylaxis. Some
+
+428
+00:21:34,050 --> 00:21:36,110
+causes of
+anaphylaxis are more
+
+429
+00:21:36,110 --> 00:21:38,750
+situational, such
+as allergy testing
+
+430
+00:21:38,750 --> 00:21:41,430
+and allergen-specific
+immunotherapy.
+
+431
+00:21:42,010 --> 00:21:44,750
+Again, this is not
+a comprehensive list
+
+432
+00:21:44,750 --> 00:21:49,040
+of etiologies, just
+more common ones. The
+
+433
+00:21:49,040 --> 00:21:51,570
+primary mediators
+released by mast cells
+
+434
+00:21:51,570 --> 00:21:54,350
+during anaphylaxis
+include histamine,
+
+435
+00:21:54,490 --> 00:21:56,450
+prostaglandin D2,
+
+436
+00:21:56,690 --> 00:21:58,750
+leukotriene D4,
+
+437
+00:21:59,250 --> 00:22:01,050
+fleetly
+activating factor,
+
+438
+00:22:01,050 --> 00:22:03,370
+and preformed proteases.
+
+439
+00:22:03,930 --> 00:22:06,650
+The major
+pathophysiologic events
+
+440
+00:22:06,650 --> 00:22:08,970
+caused by these
+mediators include
+
+441
+00:22:08,970 --> 00:22:11,290
+smooth muscle
+spasm of bronchi,
+
+442
+00:22:11,630 --> 00:22:13,850
+coronary arteries,
+and the GI
+
+443
+00:22:13,850 --> 00:22:16,690
+tract, as well as
+increased vascular
+
+444
+00:22:16,690 --> 00:22:19,130
+permeability,
+vasodilation,
+
+445
+00:22:19,290 --> 00:22:21,830
+stimulation of
+sensory nerve endings
+
+446
+00:22:21,830 --> 00:22:24,710
+with reflex activation
+of vagal effector
+
+447
+00:22:24,710 --> 00:22:27,450
+pathways, and
+myocardial depression.
+
+448
+00:22:27,580 --> 00:22:30,010
+These effects
+result in your
+
+449
+00:22:30,010 --> 00:22:32,010
+classic symptoms
+of flushing,
+
+450
+00:22:32,290 --> 00:22:33,350
+urticaria,
+
+451
+00:22:33,630 --> 00:22:34,730
+angioedema,
+
+452
+00:22:35,010 --> 00:22:35,950
+wheezing,
+
+453
+00:22:35,950 --> 00:22:39,030
+decreased blood
+pressure or hypotension,
+
+454
+00:22:39,570 --> 00:22:41,430
+nausea, vomiting,
+
+455
+00:22:41,730 --> 00:22:42,430
+diarrhea,
+
+456
+00:22:42,970 --> 00:22:44,410
+uterine contractions,
+
+457
+00:22:44,410 --> 00:22:46,130
+and myocardial ischemia.
+
+458
+00:22:48,990 --> 00:22:51,810
+Cutaneous signs
+and symptoms, such
+
+459
+00:22:51,810 --> 00:22:55,010
+as angioedema and
+urticaria, occur
+
+460
+00:22:55,010 --> 00:22:58,570
+in 80-90% of
+anaphylaxis cases.
+
+461
+00:22:59,750 --> 00:23:02,390
+Angioedema is defined
+as a localized
+
+462
+00:23:02,390 --> 00:23:05,530
+subcutaneous or
+submucosal swelling,
+
+463
+00:23:05,530 --> 00:23:08,090
+which results
+from extravasation
+
+464
+00:23:08,090 --> 00:23:11,150
+of fluid into
+interstitial tissues.
+
+465
+00:23:12,110 --> 00:23:14,030
+Angioedema
+typically affects
+
+466
+00:23:14,030 --> 00:23:15,870
+areas with
+loose connective
+
+467
+00:23:15,870 --> 00:23:19,010
+tissue, such as
+the face, lips,
+
+468
+00:23:19,010 --> 00:23:19,910
+mouth,
+
+469
+00:23:20,130 --> 00:23:20,830
+throat,
+
+470
+00:23:21,030 --> 00:23:25,130
+larynx, uvula,
+extremities, and genitalia.
+
+471
+00:23:25,950 --> 00:23:28,090
+Angioedema can
+be mast cell
+
+472
+00:23:28,090 --> 00:23:30,350
+mediated, which is
+what happens when
+
+473
+00:23:30,350 --> 00:23:32,500
+it is a symptom
+of anaphylaxis.
+
+474
+00:23:32,750 --> 00:23:33,930
+However,
+
+475
+00:23:34,310 --> 00:23:37,110
+angioedema can
+also be bradykinin
+
+476
+00:23:37,110 --> 00:23:39,810
+-mediated, with a
+common trigger being
+
+477
+00:23:39,810 --> 00:23:43,390
+angiotensin-converting
+enzyme, or ACE,
+
+478
+00:23:43,430 --> 00:23:45,870
+inhibitors, which
+are a very common
+
+479
+00:23:45,870 --> 00:23:48,710
+drug used in management
+of hypertension
+
+480
+00:23:48,710 --> 00:23:51,370
+and other cardiovascular
+pathology.
+
+481
+00:23:52,230 --> 00:23:55,570
+Urticaria is the
+medical term for hives.
+
+482
+00:23:55,570 --> 00:23:58,650
+A typical urticarial
+lesion is an
+
+483
+00:23:58,650 --> 00:24:01,610
+intensely pruritic
+erythematous plaque.
+
+484
+00:24:01,830 --> 00:24:04,670
+Any area of the body
+can be affected.
+
+485
+00:24:04,810 --> 00:24:07,330
+There are a
+countless number of
+
+486
+00:24:07,330 --> 00:24:09,630
+causes of urticaria,
+ranging from
+
+487
+00:24:09,630 --> 00:24:12,510
+anaphylaxis to
+pressure to infection.
+
+488
+00:24:12,910 --> 00:24:15,710
+It is important to
+note that angioedema
+
+489
+00:24:15,710 --> 00:24:19,370
+and urticaria may
+occur in isolation or
+
+490
+00:24:19,370 --> 00:24:22,430
+together in the
+setting of anaphylaxis.
+
+491
+00:24:25,490 --> 00:24:27,870
+Anaphylaxis
+management is honestly
+
+492
+00:24:27,870 --> 00:24:29,810
+simpler than
+identifying it.
+
+493
+00:24:29,870 --> 00:24:32,370
+Once you think
+someone is having
+
+494
+00:24:32,370 --> 00:24:35,350
+an anaphylactic
+reaction, the first
+
+495
+00:24:35,350 --> 00:24:37,150
+thing you should
+do is remove
+
+496
+00:24:37,150 --> 00:24:39,590
+exposure to the
+allergen if possible.
+
+497
+00:24:39,890 --> 00:24:43,150
+Then, assess the
+patient's airway,
+
+498
+00:24:43,150 --> 00:24:46,990
+breathing, circulation,
+and mentation, and
+
+499
+00:24:46,990 --> 00:24:50,350
+administer epinephrine.
+I think everyone
+
+500
+00:24:50,350 --> 00:24:53,310
+is familiar with some
+version of an EpiPen,
+
+501
+00:24:53,310 --> 00:24:56,190
+which is a transportable,
+pre-measured
+
+502
+00:24:56,190 --> 00:24:58,970
+vehicle for intramuscular
+epinephrine.
+
+503
+00:24:59,170 --> 00:25:01,690
+This should be
+administered into the
+
+504
+00:25:01,690 --> 00:25:04,730
+anterolateral thigh
+for the quickest and
+
+505
+00:25:04,730 --> 00:25:07,050
+greatest amount of
+medication delivery.
+
+506
+00:25:07,230 --> 00:25:10,710
+There is a new
+epinephrine vehicle on
+
+507
+00:25:10,710 --> 00:25:13,150
+the market, which
+is an intranasal
+
+508
+00:25:13,150 --> 00:25:15,810
+version of epinephrine,
+which is packaged
+
+509
+00:25:15,810 --> 00:25:18,250
+and handled the
+same way as Narcan.
+
+510
+00:25:18,810 --> 00:25:20,570
+Once epinephrine is
+
+511
+00:25:20,570 --> 00:25:23,830
+administered, you
+must call 911.
+
+512
+00:25:24,420 --> 00:25:26,590
+All persons who have been
+
+513
+00:25:26,590 --> 00:25:29,530
+administrated epinephrine
+must go to the
+
+514
+00:25:29,530 --> 00:25:31,490
+emergency room
+for evaluation.
+
+515
+00:25:32,410 --> 00:25:34,010
+I'm going to
+say that again
+
+516
+00:25:34,010 --> 00:25:36,250
+because it is
+extremely important.
+
+517
+00:25:36,670 --> 00:25:38,870
+All persons who have been
+
+518
+00:25:38,870 --> 00:25:42,250
+administered epinephrine
+must go to the
+
+519
+00:25:42,250 --> 00:25:44,830
+emergency room
+for evaluation.
+
+520
+00:25:45,810 --> 00:25:48,390
+Once the call has
+been made to emergency
+
+521
+00:25:48,390 --> 00:25:51,770
+services, and if the
+patient can tolerate it,
+
+522
+00:25:52,150 --> 00:25:54,730
+have them lie supine
+and elevate their
+
+523
+00:25:54,730 --> 00:25:57,290
+lower extremities,
+and continuously
+
+524
+00:25:57,290 --> 00:26:00,550
+monitor their status
+until EMS arrives.
+
+525
+00:26:01,150 --> 00:26:03,610
+Now, I'm sure you
+have a few questions,
+
+526
+00:26:03,610 --> 00:26:06,830
+like why epinephrine?
+How many times
+
+527
+00:26:06,830 --> 00:26:08,890
+can you administer
+epinephrine if
+
+528
+00:26:08,890 --> 00:26:11,170
+symptoms don't
+improve with one dose?
+
+529
+00:26:11,270 --> 00:26:13,490
+Should you give a
+patient anything
+
+530
+00:26:13,490 --> 00:26:16,290
+alongside
+epinephrine, or is
+
+531
+00:26:16,290 --> 00:26:18,130
+epinephrine
+alone sufficient?
+
+532
+00:26:18,580 --> 00:26:20,750
+We are now going
+to go over such
+
+533
+00:26:20,750 --> 00:26:22,570
+details in the
+following slides.
+
+534
+00:26:24,530 --> 00:26:28,070
+A proper dose of
+epinephrine is listed here
+
+535
+00:26:28,070 --> 00:26:31,090
+on the slide and is
+weight-based. In an
+
+536
+00:26:31,090 --> 00:26:34,450
+emergency setting that
+is not a hospital, the
+
+537
+00:26:34,450 --> 00:26:37,370
+epinephrine you will
+have access to will most
+
+538
+00:26:37,370 --> 00:26:39,790
+likely be pre-dosed
+in the form of an
+
+539
+00:26:39,790 --> 00:26:43,070
+epinephrine auto-injector
+or intranasal spray.
+
+540
+00:26:43,430 --> 00:26:45,870
+But why do we
+use epinephrine
+
+541
+00:26:45,870 --> 00:26:47,160
+to treat anaphylaxis?
+
+542
+00:26:48,150 --> 00:26:51,330
+Epinephrine is a non
+-selective, direct
+
+543
+00:26:51,330 --> 00:26:54,810
+sympathomimetic agent
+with alpha-1, beta
+
+544
+00:26:54,810 --> 00:26:58,690
+-1, and beta-2
+effects. At low doses,
+
+545
+00:26:58,930 --> 00:27:01,350
+beta-agonist
+properties predominate,
+
+546
+00:27:01,350 --> 00:27:03,730
+whereas at high
+doses, alpha
+
+547
+00:27:03,730 --> 00:27:05,670
+-agonist properties
+predominate.
+
+548
+00:27:05,850 --> 00:27:08,330
+In the setting
+of anaphylaxis,
+
+549
+00:27:08,590 --> 00:27:11,590
+epinephrine's alpha
+effects are predominantly
+
+550
+00:27:11,590 --> 00:27:14,090
+vascular smooth
+muscle contraction.
+
+551
+00:27:14,670 --> 00:27:17,590
+Epinephrine's beta
+effects are increased
+
+552
+00:27:17,590 --> 00:27:20,270
+heart rate and
+increased myocardial
+
+553
+00:27:20,270 --> 00:27:23,950
+contractility via
+beta-1 receptors, and
+
+554
+00:27:23,950 --> 00:27:26,990
+bronchodilation via
+beta-2 receptors.
+
+555
+00:27:27,760 --> 00:27:29,830
+So how many times can you
+
+556
+00:27:29,830 --> 00:27:31,550
+give a patient
+epinephrine?
+
+557
+00:27:31,810 --> 00:27:35,430
+You can administer another
+dose of epinephrine
+
+558
+00:27:35,430 --> 00:27:39,370
+every 5 to 15 minutes,
+with most patients
+
+559
+00:27:39,370 --> 00:27:43,990
+responding to 1, 2,
+or at most 3 doses.
+
+560
+00:27:44,290 --> 00:27:47,510
+However, if symptoms
+do not resolve,
+
+561
+00:27:47,510 --> 00:27:50,070
+involved, then an
+intravenous infusion
+
+562
+00:27:50,070 --> 00:27:51,990
+of epinephrine
+may be warranted.
+
+563
+00:27:52,570 --> 00:27:54,650
+I have another
+question for you.
+
+564
+00:27:55,050 --> 00:27:57,790
+Are there any
+contraindications to using
+
+565
+00:27:57,790 --> 00:28:00,170
+epinephrine in the
+case of anaphylaxis?
+
+566
+00:28:01,530 --> 00:28:03,150
+The answer is no.
+
+567
+00:28:03,730 --> 00:28:05,550
+Give all patients with
+
+568
+00:28:05,550 --> 00:28:07,350
+anaphylaxis epinephrine.
+
+569
+00:28:07,650 --> 00:28:09,090
+It's that simple.
+
+570
+00:28:10,270 --> 00:28:12,990
+So what other medications
+should you give
+
+571
+00:28:12,990 --> 00:28:16,210
+in the setting of
+anaphylaxis, if any?
+
+572
+00:28:19,170 --> 00:28:21,790
+There's always a
+question of, should
+
+573
+00:28:21,790 --> 00:28:24,470
+I give an H1
+antihistamine like
+
+574
+00:28:24,470 --> 00:28:26,730
+Cetirazine or
+Benadryl, which is
+
+575
+00:28:26,730 --> 00:28:28,310
+the brand name for
+diphenhydramine?
+
+576
+00:28:28,920 --> 00:28:30,870
+The short answer is no.
+
+577
+00:28:31,010 --> 00:28:32,970
+The long answer is maybe.
+
+578
+00:28:33,510 --> 00:28:35,690
+I know you probably
+just rolled your
+
+579
+00:28:35,690 --> 00:28:37,750
+eyes at me, but it
+really is maybe.
+
+580
+00:28:38,850 --> 00:28:40,470
+Antihistamines
+can provide some
+
+581
+00:28:40,470 --> 00:28:41,890
+relief of symptoms like
+
+582
+00:28:41,890 --> 00:28:44,270
+urticaria and
+associated paritis.
+
+583
+00:28:44,730 --> 00:28:45,530
+However,
+
+584
+00:28:45,710 --> 00:28:48,170
+they should never be
+used alone to treat
+
+585
+00:28:48,170 --> 00:28:51,030
+anaphylaxis, because
+they have no effect
+
+586
+00:28:51,030 --> 00:28:53,770
+on upper or lower
+airway obstruction,
+
+587
+00:28:53,910 --> 00:28:56,350
+shock, or hypotension.
+
+588
+00:28:56,550 --> 00:28:58,710
+If you decide
+to administer
+
+589
+00:28:58,710 --> 00:28:59,970
+an antihistamine,
+
+590
+00:29:00,190 --> 00:29:03,310
+aim for a second
+-generation antihistamine
+
+591
+00:29:03,310 --> 00:29:06,050
+to decrease the risk
+of sedative effects.
+
+592
+00:29:06,710 --> 00:29:08,890
+How about H2
+antihistamines
+
+593
+00:29:08,890 --> 00:29:09,950
+like famotidine?
+
+594
+00:29:10,230 --> 00:29:12,490
+Some studies
+suggest patients
+
+595
+00:29:12,490 --> 00:29:14,810
+may benefit from
+symptom improvement,
+
+596
+00:29:14,810 --> 00:29:16,390
+but research is limited.
+
+597
+00:29:17,250 --> 00:29:19,070
+Another common question
+
+598
+00:29:19,070 --> 00:29:20,810
+is, do steroids help?
+
+599
+00:29:21,290 --> 00:29:23,090
+The answer is no.
+
+600
+00:29:23,890 --> 00:29:26,310
+Leukocorticoids do
+not have an active
+
+601
+00:29:26,310 --> 00:29:29,130
+role in the treatment
+of anaphylaxis due
+
+602
+00:29:29,130 --> 00:29:31,770
+to their delay in
+onset of action, and
+
+603
+00:29:31,770 --> 00:29:34,510
+there is no rigorously
+conducted published
+
+604
+00:29:34,510 --> 00:29:37,090
+literature that
+supports their use
+
+605
+00:29:37,090 --> 00:29:40,070
+in this setting.
+There is a theoretical
+
+606
+00:29:40,070 --> 00:29:42,310
+rationale for their
+use in preventing
+
+607
+00:29:42,310 --> 00:29:46,390
+biphasic reactions,
+but this is not true.
+
+608
+00:29:47,170 --> 00:29:49,130
+Glucocorticoids do not
+
+609
+00:29:49,130 --> 00:29:51,190
+prevent biphasic
+reactions.
+
+610
+00:29:51,250 --> 00:29:54,630
+The only supported
+use of glucocorticoids
+
+611
+00:29:54,630 --> 00:29:56,310
+in the setting
+of anaphylaxis
+
+612
+00:29:56,310 --> 00:29:58,850
+is for residual
+bronchospasm
+
+613
+00:29:58,850 --> 00:30:01,550
+that is not responsive
+to albuterol.
+
+614
+00:30:04,370 --> 00:30:07,570
+Other adjuvant measures
+you will more commonly
+
+615
+00:30:07,570 --> 00:30:10,690
+see utilized in the
+hospital when it
+
+616
+00:30:10,690 --> 00:30:13,400
+comes to anaphylaxis
+management include
+
+617
+00:30:13,400 --> 00:30:16,650
+albuterol to manage
+bronchospasm, since it is
+
+618
+00:30:16,650 --> 00:30:19,970
+a beta-2 agonist, and
+supplemental oxygen
+
+619
+00:30:19,970 --> 00:30:23,550
+if the patient is
+hypoxic. In more severe
+
+620
+00:30:23,550 --> 00:30:26,650
+cases of hypotension,
+which are refractory
+
+621
+00:30:26,650 --> 00:30:29,490
+to intramuscular or
+intranasal epinephrine,
+
+622
+00:30:29,950 --> 00:30:32,190
+isotonic fluids
+may be administered
+
+623
+00:30:32,190 --> 00:30:35,650
+alongside an epinephrine
+infusion and placement
+
+624
+00:30:35,650 --> 00:30:38,110
+of the patient in
+Trendelenburg position
+
+625
+00:30:38,110 --> 00:30:40,110
+in hopes of raising
+blood pressure.
+
+626
+00:30:40,470 --> 00:30:43,390
+Some hospital
+protocols may include
+
+627
+00:30:43,390 --> 00:30:45,930
+use of other
+vasopressors or glucagon.
+
+628
+00:30:46,510 --> 00:30:49,270
+Glucagon is commonly
+given to patients who
+
+629
+00:30:49,270 --> 00:30:52,290
+take beta blockers
+regularly because they are
+
+630
+00:30:52,290 --> 00:30:55,090
+more likely to not
+respond to epinephrine.
+
+631
+00:30:58,030 --> 00:31:01,110
+All patients with
+anaphylaxis should be
+
+632
+00:31:01,110 --> 00:31:04,030
+observed for at least
+four to six hours in
+
+633
+00:31:04,030 --> 00:31:07,070
+the emergency department
+because a late-phase
+
+634
+00:31:07,070 --> 00:31:09,590
+reaction is most
+likely to occur in this
+
+635
+00:31:09,590 --> 00:31:12,400
+time frame if it is
+going to occur at all.
+
+636
+00:31:12,400 --> 00:31:16,230
+The risk of biphasic
+reaction is increased
+
+637
+00:31:16,230 --> 00:31:18,450
+in patients with
+moderate to severe
+
+638
+00:31:18,450 --> 00:31:22,110
+anaphylaxis who did not
+respond initially to
+
+639
+00:31:22,110 --> 00:31:25,170
+epinephrine and required
+more than one dose.
+
+640
+00:31:25,990 --> 00:31:27,710
+These are the
+patients who should be
+
+641
+00:31:27,710 --> 00:31:29,710
+admitted for
+prolonged observation.
+
+642
+00:31:30,450 --> 00:31:33,450
+Other potential reasons
+for longer observation
+
+643
+00:31:33,450 --> 00:31:36,310
+periods include history
+of severe asthma
+
+644
+00:31:36,310 --> 00:31:39,490
+or wheezing, ingestion
+of the antigen,
+
+645
+00:31:39,490 --> 00:31:42,770
+and potential for
+continued absorption, and
+
+646
+00:31:42,770 --> 00:31:45,790
+of course, history of
+biphasic reactions.
+
+647
+00:31:46,010 --> 00:31:48,730
+For the remaining
+patient population who
+
+648
+00:31:48,730 --> 00:31:51,950
+respond well to one dose
+of epinephrine, they
+
+649
+00:31:51,950 --> 00:31:54,170
+can be discharged in
+four to six hours.
+
+650
+00:31:56,270 --> 00:31:58,270
+When it is time
+for discharge
+
+651
+00:31:58,270 --> 00:32:00,050
+planning for a
+patient who presented
+
+652
+00:32:00,050 --> 00:32:02,590
+with anaphylaxis,
+there are a few
+
+653
+00:32:02,590 --> 00:32:04,450
+key points that
+must be addressed.
+
+654
+00:32:04,750 --> 00:32:07,830
+First, and most
+importantly, these
+
+655
+00:32:07,830 --> 00:32:10,170
+patients must be
+discharged with some
+
+656
+00:32:10,170 --> 00:32:13,180
+vehicle of epinephrine
+for self-administration
+
+657
+00:32:13,180 --> 00:32:15,890
+and or a
+prescription for one.
+
+658
+00:32:15,910 --> 00:32:19,090
+This is usually an
+auto-injector, and
+
+659
+00:32:19,090 --> 00:32:21,350
+patients must be
+counseled on how to
+
+660
+00:32:21,350 --> 00:32:24,150
+use it and how to
+store it properly.
+
+661
+00:32:24,590 --> 00:32:27,050
+Patients should
+also establish an
+
+662
+00:32:27,050 --> 00:32:29,490
+anaphylaxis action
+plan if they
+
+663
+00:32:29,490 --> 00:32:31,290
+do not yet have
+one established.
+
+664
+00:32:31,690 --> 00:32:33,850
+This plan should
+include both
+
+665
+00:32:33,850 --> 00:32:37,090
+recognition and
+treatment of anaphylaxis
+
+666
+00:32:37,090 --> 00:32:40,070
+in layperson
+terminology and in
+
+667
+00:32:40,070 --> 00:32:41,930
+the patient's
+preferred language.
+
+668
+00:32:41,930 --> 00:32:45,010
+Just so you know,
+there is a general
+
+669
+00:32:45,010 --> 00:32:47,350
+anaphylaxis
+emergency care plan
+
+670
+00:32:47,350 --> 00:32:51,050
+available in both English
+and Spanish online
+
+671
+00:32:51,050 --> 00:32:53,170
+through the Food
+Allergy Research
+
+672
+00:32:53,170 --> 00:32:56,510
+and Education, or
+FAIR, program that
+
+673
+00:32:56,510 --> 00:32:58,590
+can be printed if
+you ever need one.
+
+674
+00:32:59,210 --> 00:33:02,930
+education on allergen
+avoidance and hidden
+
+675
+00:33:02,930 --> 00:33:06,290
+allergens like cross
+-contamination beauty
+
+676
+00:33:06,290 --> 00:33:08,970
+products and cooking
+methods as well as
+
+677
+00:33:08,970 --> 00:33:11,470
+substances with a known
+incidence of cross
+
+678
+00:33:11,470 --> 00:33:13,930
+-reactivity with a
+given allergen should
+
+679
+00:33:13,930 --> 00:33:18,050
+be delivered in the
+same manner finally you
+
+680
+00:33:18,050 --> 00:33:19,930
+should emphasize
+the importance of
+
+681
+00:33:19,930 --> 00:33:22,910
+outpatient follow-up with
+a primary care provider
+
+682
+00:33:22,910 --> 00:33:26,570
+and an allergist
+especially if anaphylaxis
+
+683
+00:33:26,570 --> 00:33:29,110
+occurred due to an
+unknown allergen.
+
+684
+00:33:29,680 --> 00:33:32,470
+A nice summary that
+can be used when
+
+685
+00:33:32,470 --> 00:33:34,770
+counseling patients
+can be remembered
+
+686
+00:33:34,770 --> 00:33:36,990
+with the mnemonic
+SAFE, which
+
+687
+00:33:36,990 --> 00:33:38,710
+describes the steps
+that need to be
+
+688
+00:33:38,710 --> 00:33:40,890
+completed once patients
+are discharged.
+
+689
+00:33:41,190 --> 00:33:44,190
+SAFE stands for
+seek support,
+
+690
+00:33:44,390 --> 00:33:47,410
+allergen identification
+and avoidance,
+
+691
+00:33:47,570 --> 00:33:49,870
+follow-up for
+specialty care,
+
+692
+00:33:49,870 --> 00:33:52,350
+and epinephrine
+for emergencies.
+
+693
+00:33:54,730 --> 00:33:57,410
+We are now going to
+switch gears a bit
+
+694
+00:33:57,410 --> 00:34:00,070
+to talk about the
+other general class of
+
+695
+00:34:00,070 --> 00:34:02,270
+immediate hypersensitivity
+reactions,
+
+696
+00:34:02,590 --> 00:34:03,870
+atopic diseases.
+
+697
+00:34:04,890 --> 00:34:06,930
+Atopy refers
+to the genetic
+
+698
+00:34:06,930 --> 00:34:09,630
+tendency to develop
+atopic diseases,
+
+699
+00:34:09,630 --> 00:34:11,770
+such as allergic
+rhinitis,
+
+700
+00:34:11,970 --> 00:34:12,790
+asthma,
+
+701
+00:34:13,170 --> 00:34:14,730
+atopic dermatitis,
+
+702
+00:34:14,970 --> 00:34:17,390
+angioedema,
+and urticaria.
+
+703
+00:34:17,790 --> 00:34:20,670
+Atopy is typically
+associated with
+
+704
+00:34:20,670 --> 00:34:22,310
+heightened immune
+responses to
+
+705
+00:34:22,310 --> 00:34:25,310
+common allergens,
+especially inhaled
+
+706
+00:34:25,310 --> 00:34:27,190
+allergens and
+food allergens.
+
+707
+00:34:27,930 --> 00:34:29,690
+Atopy can
+sometimes run in
+
+708
+00:34:29,690 --> 00:34:31,870
+families, and
+you may hear this
+
+709
+00:34:31,870 --> 00:34:34,190
+referred to as
+the atopic trait.
+
+710
+00:34:34,590 --> 00:34:37,330
+Atopy affects a
+significant portion
+
+711
+00:34:37,330 --> 00:34:39,810
+of the global
+population, with a
+
+712
+00:34:39,810 --> 00:34:42,370
+prevalence estimated
+between 10 and
+
+713
+00:34:42,370 --> 00:34:44,650
+30 percent in
+developed countries.
+
+714
+00:34:45,210 --> 00:34:48,430
+Atopic children
+commonly develop signs
+
+715
+00:34:48,430 --> 00:34:50,950
+and symptoms in a
+predictable sequence,
+
+716
+00:34:50,950 --> 00:34:54,210
+called the allergic
+march or atopic march.
+
+717
+00:34:54,250 --> 00:34:57,790
+The most common temporal
+progression of such
+
+718
+00:34:57,790 --> 00:35:01,610
+diagnoses is atopic
+dermatitis in infancy,
+
+719
+00:35:01,930 --> 00:35:04,170
+food allergy
+as a toddler,
+
+720
+00:35:04,450 --> 00:35:07,630
+then allergic rhinitis
+and asthma in elementary
+
+721
+00:35:07,630 --> 00:35:10,350
+school, but these
+can present later in
+
+722
+00:35:10,350 --> 00:35:13,650
+childhood. We are now
+going to talk about
+
+723
+00:35:13,650 --> 00:35:16,530
+each of these atopic
+diseases in more detail.
+
+724
+00:35:16,960 --> 00:35:20,490
+Before we do so, I
+want to point out that
+
+725
+00:35:20,490 --> 00:35:23,090
+atopy and allergy
+are commonly used
+
+726
+00:35:23,090 --> 00:35:25,830
+interchangeably, but
+they are different.
+
+727
+00:35:26,270 --> 00:35:29,010
+Allergy is defined
+as immediate
+
+728
+00:35:29,010 --> 00:35:34,070
+hypersensitivity mediated
+by IgE, but atopy is
+
+729
+00:35:34,070 --> 00:35:37,710
+the genetic tendency
+to develop allergy.
+
+730
+00:35:40,090 --> 00:35:43,390
+Atopic dermatitis,
+also known as eczema,
+
+731
+00:35:43,390 --> 00:35:46,550
+is a chronic, pruritic,
+which means itchy,
+
+732
+00:35:46,770 --> 00:35:48,630
+inflammatory
+skin disease.
+
+733
+00:35:48,750 --> 00:35:51,310
+It originally presents as
+
+734
+00:35:51,310 --> 00:35:53,190
+erythematous
+papules and vesicles
+
+735
+00:35:53,190 --> 00:35:55,130
+with exudation
+and crusting.
+
+736
+00:35:55,330 --> 00:35:58,590
+It then progresses
+to dry, scaly, or
+
+737
+00:35:58,590 --> 00:36:01,370
+excoriated papules
+or skin thickenings.
+
+738
+00:36:02,050 --> 00:36:04,490
+Pruritus is more
+pronounced at night and
+
+739
+00:36:04,490 --> 00:36:06,970
+is exacerbated by
+irritants such as wool.
+
+740
+00:36:07,310 --> 00:36:08,750
+and may occur following
+
+741
+00:36:08,750 --> 00:36:11,010
+ingestion of
+allergenic foods.
+
+742
+00:36:11,350 --> 00:36:14,260
+Scratching and rubbing
+cause the typical
+
+743
+00:36:14,260 --> 00:36:16,690
+dermatological skin
+eruption to flare.
+
+744
+00:36:16,890 --> 00:36:18,510
+There is often a strong
+
+745
+00:36:18,510 --> 00:36:20,450
+family history of atopy.
+
+746
+00:36:20,890 --> 00:36:23,650
+The distribution of
+lesions varies with
+
+747
+00:36:23,650 --> 00:36:26,490
+age, with the
+forehead, cheeks, and
+
+748
+00:36:26,490 --> 00:36:29,610
+extensor surfaces of
+limbs commonly affected
+
+749
+00:36:29,610 --> 00:36:32,710
+in early childhood,
+which then shifts
+
+750
+00:36:32,710 --> 00:36:35,510
+to flexural areas,
+such as the creases
+
+751
+00:36:35,510 --> 00:36:37,850
+of elbows and knees
+in adolescents,
+
+752
+00:36:37,890 --> 00:36:40,390
+and adults may
+develop eczema
+
+753
+00:36:40,390 --> 00:36:42,030
+on their hands as well.
+
+754
+00:36:42,370 --> 00:36:45,590
+Eczema affects
+about 15 to 30
+
+755
+00:36:45,590 --> 00:36:48,330
+percent of children
+and 2 to 10
+
+756
+00:36:48,330 --> 00:36:50,310
+percent of
+adults worldwide.
+
+757
+00:36:53,150 --> 00:36:56,650
+In patients with
+highly pigmented skin,
+
+758
+00:36:56,790 --> 00:37:00,310
+dry skin may appear
+whitish or gray,
+
+759
+00:37:00,730 --> 00:37:03,350
+erythema may appear
+violaceous or
+
+760
+00:37:03,350 --> 00:37:06,510
+may not be visible
+at all, and thickened
+
+761
+00:37:06,510 --> 00:37:08,850
+areas may appear
+hyperpigmented.
+
+762
+00:37:09,510 --> 00:37:12,710
+Treatment of atopic
+dermatitis includes
+
+763
+00:37:12,710 --> 00:37:15,810
+proper skin care,
+environmental control,
+
+764
+00:37:16,190 --> 00:37:18,070
+allergen avoidance, and
+
+765
+00:37:18,070 --> 00:37:19,590
+often pharmaceuticals.
+
+766
+00:37:19,910 --> 00:37:22,450
+The most effective
+preventive measure
+
+767
+00:37:22,450 --> 00:37:25,410
+is non-irritating
+topical lubricants.
+
+768
+00:37:25,690 --> 00:37:28,090
+Topical steroids
+are effective
+
+769
+00:37:28,090 --> 00:37:30,370
+for milder skin
+involvement.
+
+770
+00:37:30,490 --> 00:37:33,710
+For moderate to severe
+eczema, there are
+
+771
+00:37:33,710 --> 00:37:36,010
+several biologics
+that are options if
+
+772
+00:37:36,010 --> 00:37:38,730
+topical medications
+fail to resolve flares.
+
+773
+00:37:39,210 --> 00:37:41,430
+Frequent bathing
+and use of
+
+774
+00:37:41,430 --> 00:37:43,730
+irritating detergents,
+lotions, and
+
+775
+00:37:43,730 --> 00:37:45,710
+soaps are highly
+discouraged.
+
+776
+00:37:48,630 --> 00:37:51,050
+Allergic rhinitis
+is what we all
+
+777
+00:37:51,050 --> 00:37:53,190
+commonly refer
+to as allergies,
+
+778
+00:37:53,210 --> 00:37:55,350
+which presents
+with sneezing,
+
+779
+00:37:55,490 --> 00:37:57,530
+rhinorrhea,
+which means runny
+
+780
+00:37:57,530 --> 00:38:00,450
+nose, nasal
+obstruction, and may
+
+781
+00:38:00,450 --> 00:38:03,270
+also include
+nose, inner ear,
+
+782
+00:38:03,490 --> 00:38:05,310
+and or palate itching,
+
+783
+00:38:05,610 --> 00:38:06,790
+postnasal drip,
+
+784
+00:38:07,050 --> 00:38:09,890
+cough, irritability,
+and fatigue. cheek.
+
+785
+00:38:10,090 --> 00:38:12,730
+Those with
+concomitant allergic
+
+786
+00:38:12,730 --> 00:38:15,850
+conjunctivitis also
+report itching,
+
+787
+00:38:15,850 --> 00:38:18,390
+tearing, and or
+burning of the eyes.
+
+788
+00:38:19,130 --> 00:38:22,310
+Allergic rhinitis
+affects 10-12% of
+
+789
+00:38:22,310 --> 00:38:24,930
+Americans, with this
+prevalence varying
+
+790
+00:38:24,930 --> 00:38:27,910
+across geographic
+regions due to allergen
+
+791
+00:38:27,910 --> 00:38:30,370
+distribution, but
+the most common
+
+792
+00:38:30,370 --> 00:38:32,890
+are dust mites and
+allergenic plants.
+
+793
+00:38:33,490 --> 00:38:35,790
+There are several
+physical exam
+
+794
+00:38:35,790 --> 00:38:38,430
+findings associated
+with active allergic
+
+795
+00:38:38,430 --> 00:38:40,430
+rhinitis, which
+have colloquial
+
+796
+00:38:40,430 --> 00:38:42,430
+names that I will
+introduce you to.
+
+797
+00:38:42,780 --> 00:38:44,890
+We are going to
+start with allergic
+
+798
+00:38:44,890 --> 00:38:47,370
+shiners, which
+is infraorbital
+
+799
+00:38:47,370 --> 00:38:49,650
+edema and darkening
+that occurs
+
+800
+00:38:49,650 --> 00:38:52,090
+due to subcutaneous
+venodiletion.
+
+801
+00:38:52,570 --> 00:38:55,910
+The allergic salute
+is a transverse nasal
+
+802
+00:38:55,910 --> 00:38:59,170
+crease caused by repetitive
+rubbing and pushing
+
+803
+00:38:59,170 --> 00:39:02,110
+up of the tip of the
+nose with the hand.
+
+804
+00:39:02,490 --> 00:39:05,430
+Allergic facies
+consists of a highly
+
+805
+00:39:05,430 --> 00:39:08,210
+arched palate, open
+mouth due to mouth
+
+806
+00:39:08,210 --> 00:39:10,730
+breathing, and
+dental malocclusion.
+
+807
+00:39:13,290 --> 00:39:18,310
+On HEE-MT exam,
+the nasal mucosa of
+
+808
+00:39:18,310 --> 00:39:20,570
+patients with active
+allergic rhinitis
+
+809
+00:39:20,570 --> 00:39:23,750
+frequently has a
+pale, bluish hue or
+
+810
+00:39:23,750 --> 00:39:26,670
+pallor, along with
+edematous turbinates.
+
+811
+00:39:27,190 --> 00:39:30,310
+Clear rhinorrhea may
+be visible anteriorly,
+
+812
+00:39:30,310 --> 00:39:33,230
+or if the nasal
+passages are obstructed,
+
+813
+00:39:33,350 --> 00:39:35,410
+rhinorrhea may be
+visible dripping
+
+814
+00:39:35,410 --> 00:39:37,630
+down the posterior
+pharynx, which
+
+815
+00:39:37,630 --> 00:39:39,850
+is what we call a
+post-nasal drip.
+
+816
+00:39:40,770 --> 00:39:43,190
+Hyperplastic lymphoid
+tissue lining
+
+817
+00:39:43,190 --> 00:39:45,710
+the posterior pharynx
+is what we call
+
+818
+00:39:45,710 --> 00:39:48,130
+cobblestoning due
+to its resemblance
+
+819
+00:39:48,130 --> 00:39:50,270
+to cobblestones
+on physical exam.
+
+820
+00:39:50,870 --> 00:39:54,490
+Tympanic membranes
+may retract or serous
+
+821
+00:39:54,490 --> 00:39:57,310
+fluid may accumulate
+behind tympanic membranes
+
+822
+00:39:57,310 --> 00:40:00,010
+in patients with
+significant nasal mucosal
+
+823
+00:40:00,010 --> 00:40:02,510
+edema and eustachian
+tube dysfunction.
+
+824
+00:40:03,170 --> 00:40:05,510
+The hallmarks of
+allergic rhinitis
+
+825
+00:40:05,510 --> 00:40:07,110
+treatment
+include allergen
+
+826
+00:40:07,110 --> 00:40:09,050
+avoidance and
+antihistamines.
+
+827
+00:40:09,170 --> 00:40:11,610
+Other medications
+for symptomatic
+
+828
+00:40:11,610 --> 00:40:13,190
+treatment may include
+
+829
+00:40:13,190 --> 00:40:15,810
+glucocorticoids
+and decongestants.
+
+830
+00:40:18,710 --> 00:40:22,430
+Asthma is a more difficult
+disease to define,
+
+831
+00:40:22,430 --> 00:40:25,370
+but the most agreed
+-upon features of
+
+832
+00:40:25,370 --> 00:40:28,690
+asthma include airflow
+obstruction or limitation
+
+833
+00:40:28,690 --> 00:40:31,710
+secondary to an
+inflammatory process.
+
+834
+00:40:32,150 --> 00:40:33,490
+Histologically,
+
+835
+00:40:33,930 --> 00:40:35,530
+asthma is
+characterized by
+
+836
+00:40:35,530 --> 00:40:37,250
+excessive mucus
+production,
+
+837
+00:40:37,290 --> 00:40:40,050
+increased submucosal
+inflammation,
+
+838
+00:40:40,270 --> 00:40:42,490
+a thickened
+basement membrane,
+
+839
+00:40:42,490 --> 00:40:44,690
+and smooth muscle
+hypertrophy.
+
+840
+00:40:45,410 --> 00:40:48,050
+Asthma prevalence
+varies worldwide,
+
+841
+00:40:48,050 --> 00:40:51,850
+affecting about
+260 million people.
+
+842
+00:40:52,180 --> 00:40:54,290
+Asthma prevalence
+in the United
+
+843
+00:40:54,290 --> 00:40:56,810
+States differs by
+demographic groups,
+
+844
+00:40:56,810 --> 00:40:58,850
+with a higher
+prevalence among
+
+845
+00:40:58,850 --> 00:41:01,410
+individuals who are
+biologically male,
+
+846
+00:41:01,650 --> 00:41:05,370
+black, younger
+than 18, and those
+
+847
+00:41:05,370 --> 00:41:07,730
+who reside in low
+-income households.
+
+848
+00:41:10,470 --> 00:41:13,210
+Allergic asthma
+can begin at any
+
+849
+00:41:13,210 --> 00:41:15,490
+age and typically
+presents as
+
+850
+00:41:15,490 --> 00:41:17,630
+frequent episodes
+of wheezing,
+
+851
+00:41:17,630 --> 00:41:20,150
+dyspnea, chest tightness,
+
+852
+00:41:20,270 --> 00:41:21,090
+coughing,
+
+853
+00:41:21,330 --> 00:41:22,090
+fatigue,
+
+854
+00:41:22,330 --> 00:41:24,770
+malaise, and
+increased use of
+
+855
+00:41:24,770 --> 00:41:26,870
+accessory muscles
+of respiration.
+
+856
+00:41:27,050 --> 00:41:28,990
+On physical exam,
+
+857
+00:41:29,150 --> 00:41:31,510
+lung fields may
+produce hyper-resident
+
+858
+00:41:31,510 --> 00:41:33,810
+sounds or diminished
+stress sounds,
+
+859
+00:41:33,810 --> 00:41:36,530
+and a prolonged
+expiratory phase.
+
+860
+00:41:36,870 --> 00:41:39,570
+Pulmonary function
+testing will result
+
+861
+00:41:39,570 --> 00:41:42,130
+in an obstructive
+pattern, which is
+
+862
+00:41:42,130 --> 00:41:45,070
+consistent with asthma's
+pathophysiology of
+
+863
+00:41:45,070 --> 00:41:48,310
+inability to get air
+out due to bronchial
+
+864
+00:41:48,310 --> 00:41:50,290
+constriction and
+mucus production.
+
+865
+00:41:50,570 --> 00:41:53,390
+Treatment of allergic
+asthma alongside
+
+866
+00:41:53,390 --> 00:41:56,430
+allergen avoidance
+includes inhaled
+
+867
+00:41:56,430 --> 00:41:58,850
+beta agonists and
+glucocorticoids.
+
+868
+00:42:01,110 --> 00:42:03,990
+Lastly, we are
+going to discuss how
+
+869
+00:42:03,990 --> 00:42:05,990
+to work up a patient
+with a suspected
+
+870
+00:42:05,990 --> 00:42:09,290
+hypersensitivity
+reaction. To identify
+
+871
+00:42:09,290 --> 00:42:11,490
+a patient's
+particular allergens,
+
+872
+00:42:11,810 --> 00:42:14,870
+skin patch, skin
+prick, and intradermal
+
+873
+00:42:14,870 --> 00:42:17,790
+testing are most utilized
+and are considered
+
+874
+00:42:17,790 --> 00:42:20,490
+standard of diagnostic
+accuracy and
+
+875
+00:42:20,490 --> 00:42:22,810
+reliability compared
+to other methods.
+
+876
+00:42:23,190 --> 00:42:26,650
+Skin prick or patch
+testing uses highly
+
+877
+00:42:26,650 --> 00:42:29,670
+concentrated allergen
+extracts, which are
+
+878
+00:42:29,670 --> 00:42:31,710
+then applied to the
+skin and observed
+
+879
+00:42:31,710 --> 00:42:34,790
+for an allergic
+response. This response
+
+880
+00:42:34,790 --> 00:42:37,670
+is graded by measuring
+the diameter of
+
+881
+00:42:37,670 --> 00:42:40,330
+the wheel and erythematous
+reaction within
+
+882
+00:42:40,330 --> 00:42:43,990
+15 minutes of
+application. A mean wheel
+
+883
+00:42:43,990 --> 00:42:46,950
+diameter of 3
+millimeters is commonly
+
+884
+00:42:46,950 --> 00:42:48,970
+considered the
+threshold for positive
+
+885
+00:42:48,970 --> 00:42:52,010
+reaction, with the
+wheel size providing an
+
+886
+00:42:52,010 --> 00:42:54,670
+estimate of the degree
+of sensitization.
+
+887
+00:42:55,530 --> 00:42:58,210
+Intradermal
+testing utilizes a
+
+888
+00:42:58,210 --> 00:43:00,370
+less concentrated
+allergen extract
+
+889
+00:43:00,370 --> 00:43:02,170
+compared to skin
+-prick testing.
+
+890
+00:43:02,350 --> 00:43:06,090
+This extract is actually
+injected below the
+
+891
+00:43:06,090 --> 00:43:09,110
+skin and observed for
+an allergic response.
+
+892
+00:43:09,690 --> 00:43:11,890
+Evidence of
+sensitization to an
+
+893
+00:43:11,890 --> 00:43:16,450
+allergen is defined
+as a 5-10 mm wheel.
+
+894
+00:43:16,870 --> 00:43:20,310
+Highly sensitized
+individuals may develop
+
+895
+00:43:20,310 --> 00:43:23,330
+wheel diameters greater
+than 15 millimeters.
+
+896
+00:43:23,960 --> 00:43:26,570
+Both procedures
+can be done in an
+
+897
+00:43:26,570 --> 00:43:28,870
+outpatient setting
+and are associated
+
+898
+00:43:28,870 --> 00:43:31,610
+with a low risk
+of anaphylaxis.
+
+899
+00:43:31,610 --> 00:43:34,810
+However, these tests
+are not appropriate
+
+900
+00:43:34,810 --> 00:43:37,770
+if a patient has taken
+antihistamines in
+
+901
+00:43:37,770 --> 00:43:41,250
+the past 7 to 10
+days, has a widespread
+
+902
+00:43:41,250 --> 00:43:44,610
+dermatologic condition,
+or has a high
+
+903
+00:43:44,610 --> 00:43:47,410
+risk of anaphylaxis
+with in vivo testing.
+
+904
+00:43:49,630 --> 00:43:52,970
+If in vivo testing
+is unable to be
+
+905
+00:43:52,970 --> 00:43:56,430
+performed, a RAST test
+can be used instead.
+
+906
+00:43:56,610 --> 00:43:59,450
+This test measures
+allergen-specific
+
+907
+00:43:59,450 --> 00:44:03,130
+IgE antibodies in
+serum to identify
+
+908
+00:44:03,130 --> 00:44:05,630
+sensitization to
+potential allergens.
+
+909
+00:44:06,050 --> 00:44:08,750
+This method poses no
+risk to the patient,
+
+910
+00:44:08,750 --> 00:44:11,170
+and results are
+not influenced by
+
+911
+00:44:11,170 --> 00:44:13,530
+concomitant treatment
+with antihistamines.
+
+912
+00:44:13,670 --> 00:44:17,290
+As stated earlier, this
+method is preferable
+
+913
+00:44:17,290 --> 00:44:20,150
+to skin testing in
+patients with widespread
+
+914
+00:44:20,150 --> 00:44:22,970
+dermatologic conditions
+like dermatitis
+
+915
+00:44:22,970 --> 00:44:26,050
+or dermagraphism, as
+well as for infants.
+
+916
+00:44:26,470 --> 00:44:29,390
+Other tests that
+may be performed but
+
+917
+00:44:29,390 --> 00:44:31,690
+have little to no
+clinical value in
+
+918
+00:44:31,690 --> 00:44:33,530
+establishing of
+the diagnosis of
+
+919
+00:44:33,530 --> 00:44:36,590
+hypersensitivity
+include a complete blood
+
+920
+00:44:36,590 --> 00:44:39,890
+cell count and total
+serum IgE level.
+
+921
+00:44:40,470 --> 00:44:43,210
+Pulmonary function
+testing is useful
+
+922
+00:44:43,210 --> 00:44:45,270
+in patients with
+suspected atopy
+
+923
+00:44:45,270 --> 00:44:47,890
+because it allows
+for establishment of
+
+924
+00:44:47,890 --> 00:44:50,550
+a diagnosis of
+asthma along with a
+
+925
+00:44:50,550 --> 00:44:52,610
+thorough history
+and physical exam.
+
+926
+00:44:55,430 --> 00:44:57,870
+So let's finally
+circle back to
+
+927
+00:44:57,870 --> 00:45:00,650
+Jack. Why did he
+have an immediate
+
+928
+00:45:00,650 --> 00:45:02,290
+hypersensitivity
+reaction?
+
+929
+00:45:02,750 --> 00:45:05,930
+Well, he likely has
+a tree nut allergy,
+
+930
+00:45:05,930 --> 00:45:08,390
+given his prior
+exposures with minimal
+
+931
+00:45:08,390 --> 00:45:11,150
+reactions that are now
+growing in magnitude.
+
+932
+00:45:11,430 --> 00:45:14,870
+Therefore, he has
+been sensitized and is
+
+933
+00:45:14,870 --> 00:45:17,430
+now mounting a
+hypersensitive response.
+
+934
+00:45:17,550 --> 00:45:20,770
+In this specific case,
+it would be useful
+
+935
+00:45:20,770 --> 00:45:23,050
+to know which
+chocolate bar exactly
+
+936
+00:45:23,050 --> 00:45:25,530
+he ate and to assess
+its ingredients.
+
+937
+00:45:26,530 --> 00:45:28,390
+What other signs
+and symptoms
+
+938
+00:45:28,390 --> 00:45:30,230
+would such a patient
+present with?
+
+939
+00:45:30,610 --> 00:45:33,470
+Jack is exhibiting
+mucosal and skin
+
+940
+00:45:33,470 --> 00:45:35,390
+involvement as well
+as cardiovascular
+
+941
+00:45:35,390 --> 00:45:38,790
+involvement, but
+may also experience
+
+942
+00:45:38,790 --> 00:45:41,270
+respiratory involvement
+like wheezing
+
+943
+00:45:41,270 --> 00:45:44,550
+or dyspnea or severe
+gastrointestinal
+
+944
+00:45:44,550 --> 00:45:46,470
+involvement like
+repetitive vomiting.
+
+945
+00:45:47,370 --> 00:45:50,050
+What other medical
+conditions may this
+
+946
+00:45:50,050 --> 00:45:52,410
+patient be predisposed
+to developing?
+
+947
+00:45:53,110 --> 00:45:56,430
+Jack already has a
+history of atopic
+
+948
+00:45:56,430 --> 00:45:59,310
+dermatitis, and now
+with a suspected
+
+949
+00:45:59,310 --> 00:46:02,530
+food allergy, he
+may develop allergic
+
+950
+00:46:02,530 --> 00:46:05,470
+rhinitis and asthma
+as he grows older.
+
+951
+00:46:05,870 --> 00:46:08,870
+And finally, how do
+we treat this patient?
+
+952
+00:46:09,610 --> 00:46:10,770
+Epinephrine.
+
+953
+00:46:14,280 --> 00:46:16,590
+Here is a summary
+of what we talked
+
+954
+00:46:16,590 --> 00:46:18,950
+about today, as
+well as a concise
+
+955
+00:46:18,950 --> 00:46:20,850
+table that I found
+while putting this
+
+956
+00:46:20,850 --> 00:46:22,910
+lecture together
+for you to refer to.
+
+957
+00:46:23,330 --> 00:46:26,340
+I also added a few
+practice questions with
+
+958
+00:46:26,340 --> 00:46:27,950
+rationales for you
+all to use while
+
+959
+00:46:27,950 --> 00:46:30,990
+studying, as well as
+the references I used to
+
+960
+00:46:30,990 --> 00:46:32,970
+create this lecture
+if you'd like to see
+
+961
+00:46:32,970 --> 00:46:35,070
+this content delivered
+in a different way.
+
+962
+00:46:35,430 --> 00:46:37,630
+Thank you again
+for allowing me to
+
+963
+00:46:37,630 --> 00:46:39,350
+give you all a
+lecture on a super
+
+964
+00:46:39,350 --> 00:46:41,940
+important topic,
+and if you have any
+
+965
+00:46:41,940 --> 00:46:44,230
+questions, please
+feel free to email me.
