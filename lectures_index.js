@@ -761,5 +761,101 @@ window.receiveLectureIndex([
     "tags": "Lecture #96",
     "path": "content/json/l96.file.js",
     "readingTime": 15
+  },
+  {
+    "id": "l97",
+    "title": "Lecture #97: OMM Lab 23 Prep - Shoulder Counterstrain",
+    "module": "OMM",
+    "tags": "Lecture #97",
+    "path": "content/json/l97.file.js",
+    "readingTime": 10
+  },
+  {
+    "id": "l98",
+    "title": "Lecture #98: CNS Viral Infections",
+    "module": "Microbiology",
+    "tags": "Lecture #98",
+    "path": "content/json/l98.file.js",
+    "readingTime": 15
+  },
+  {
+    "id": "l99",
+    "title": "Lecture #99: CNS Bacterial Infections",
+    "module": "Microbiology",
+    "tags": "Lecture #99",
+    "path": "content/json/l99.file.js",
+    "readingTime": 15
+  },
+  {
+    "id": "l100",
+    "title": "Lecture #100: CNS Fungal & Parasitic Infections",
+    "module": "Microbiology",
+    "tags": "Lecture #100",
+    "path": "content/json/l100.file.js",
+    "readingTime": 15
+  },
+  {
+    "id": "l101",
+    "title": "Lecture #101: Pharmacology Antiherpes Antiviral Agents",
+    "module": "Pharmacology",
+    "tags": "Lecture #101",
+    "path": "content/json/l101.file.js",
+    "readingTime": 15
+  },
+  {
+    "id": "l102",
+    "title": "Lecture #102: Pharmacology: CNS Infections",
+    "module": "Pharmacology",
+    "tags": "Lecture #102",
+    "path": "content/json/l102.file.js",
+    "readingTime": 15
+  },
+  {
+    "id": "l103",
+    "title": "Lecture #103: Pathology of Skeletal Muscle",
+    "module": "Pathology",
+    "tags": "Lecture #103",
+    "path": "content/json/l103.file.js",
+    "readingTime": 20
+  },
+  {
+    "id": "l104",
+    "title": "Lecture #104: Pathology of Bone and Joints - Part 1",
+    "module": "Pathology",
+    "tags": "Lecture #104",
+    "path": "content/json/l104.file.js",
+    "readingTime": 20
+  },
+  {
+    "id": "l105",
+    "title": "Lecture #105: Pathology of Bone and Joints - Part 2",
+    "module": "Pathology",
+    "tags": "Lecture #105",
+    "path": "content/json/l105.file.js",
+    "readingTime": 10
+  },
+  {
+    "id": "l106",
+    "title": "Lecture #106: Pathology of Soft Tissue",
+    "module": "Pathology",
+    "tags": "Lecture #106",
+    "path": "content/json/l106.file.js",
+    "readingTime": 10
+  },
+  {
+    "id": "l107",
+    "title": "Lecture #107: DPR - History and Physical Exam of the Hand and Wrist",
+    "module": "DPR",
+    "tags": "Lecture #107",
+    "path": "content/json/l107.file.js",
+    "readingTime": 10
+  },
+  {
+    "id": "l108",
+    "title": "Lecture #108: DPR: History and Physical Exam of the Shoulder and Elbow",
+    "module": "DPR",
+    "tags": "Lecture #108",
+    "path": "content/json/l108.file.js",
+    "readingTime": 15
   }
 ]);

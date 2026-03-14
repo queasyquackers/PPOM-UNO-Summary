@@ -1640,11 +1640,18 @@ function renderTabContent() {
             bgLight: "bg-yellow-50",
             icon: "⛺",
           },
+          InHouse: {
+            bg: "bg-gradient-to-br from-indigo-600 via-purple-600 to-violet-700",
+            text: "text-indigo-700",
+            bgLight: "bg-indigo-50",
+            icon: "🏛️",
+            isPremium: true
+          }
         };
         resources["B&B"] = resources["BandB"];
 
-        const primary =
-          resources[ankingData.primarySource] || resources["FirstAid"];
+        const isInHouse = ankingData.primarySource && ankingData.primarySource.toLowerCase().includes("in-house");
+        const primary = isInHouse ? resources.InHouse : (resources[ankingData.primarySource] || resources["FirstAid"]);
 
         let html = `
                     <div class="max-w-4xl mx-auto">
@@ -1653,50 +1660,68 @@ function renderTabContent() {
             ? "bg-dark-surface/50 border border-dark-border"
             : "bg-white/50 border border-solarized-base1/20"
           } shadow-lg mb-4">
-                                <span class="text-3xl">🎯</span>
+                                <span class="text-3xl">${isInHouse ? "🎓" : "🎯"}</span>
                                 <h3 class="text-xl font-bold ${isDark
             ? "text-dark-text"
             : "text-solarized-base01"
-          }">Recommended Resources</h3>
+          }">${isInHouse ? "Institutional Material" : "Recommended Resources"}</h3>
                             </div>
                             <p class="text-sm ${isDark
             ? "text-dark-muted"
             : "text-solarized-base1"
-          }">Based on AnKing tag analysis</p>
+          }">${isInHouse ? "Focus on core lecture content" : "Based on AnKing tag analysis"}</p>
                         </div>
                         
                         <!-- Primary Resource -->
-                        <div class="mb-8 group">
-                            <div class="relative overflow-hidden rounded-2xl ${isDark
-            ? "bg-dark-surface border-2 border-dark-accent"
-            : "bg-white border-2 border-solarized-blue"
-          } shadow-2xl transform transition-all duration-300 hover:scale-[1.02]">
-                                <div class="absolute top-0 right-0 w-32 h-32 ${primary.bg
-          } opacity-10 rounded-full -mr-16 -mt-16"></div>
-                                <div class="relative p-8">
-                                    <div class="flex items-center gap-2 mb-4">
-                                        <div class="flex items-center gap-3 px-4 py-2 rounded-xl ${primary.bg
-          } text-white font-bold text-lg shadow-lg">
-                                            <span class="text-2xl">${primary.icon
-          }</span>
-                                            <span>${ankingData.primarySource
-          }</span>
+                        <div class="mb-8">
+                            <div class="relative overflow-hidden rounded-3xl ${primary.isPremium
+            ? (isDark ? "bg-dark-surface border-2 border-indigo-500/30 shadow-[0_0_50px_rgba(79,70,229,0.15)]" : "bg-white border-2 border-indigo-100 shadow-[0_0_40px_rgba(79,70,229,0.08)]")
+            : (isDark ? "bg-dark-surface border-2 border-dark-accent" : "bg-white border-2 border-solarized-blue")
+          } p-12 text-center transform transition-all duration-500">
+                                
+                                ${isInHouse ? `
+                                    <div class="absolute inset-0 opacity-[0.03] pointer-events-none" style="background-image: radial-gradient(circle at 2px 2px, currentColor 1px, transparent 0); background-size: 24px 24px;"></div>
+                                    
+                                    <div class="relative flex flex-col items-center">
+                                        <!-- Centered Large Logo -->
+                                        <div class="w-32 h-32 mb-8 rounded-full ${primary.bg} text-white flex items-center justify-center shadow-[0_0_30px_rgba(79,70,229,0.4)] animate-float">
+                                            <span class="text-6xl">${primary.icon}</span>
                                         </div>
-                                        <div class="px-3 py-1 rounded-full bg-yellow-400 text-yellow-900 text-xs font-bold uppercase flex items-center gap-1 shadow-md">
+
+                                        <div class="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-indigo-500/10 text-indigo-500 text-xs font-bold uppercase tracking-[0.2em] mb-6 border border-indigo-500/20">
+                                            <span class="animate-pulse">✨</span> High Priority Match
+                                        </div>
+
+                                        <h4 class="text-3xl font-serif mb-4 ${isDark ? "text-dark-text" : "text-solarized-base01"}">
+                                            Institutional Focus Required
+                                        </h4>
+                                        
+                                        <p class="text-xl ${isDark ? "text-dark-muted" : "text-solarized-base1"} max-w-lg mx-auto leading-relaxed mb-8">
+                                            Focus on in-house material; no strong 3rd party match was found for this specific content.
+                                        </p>
+
+                                        <div class="flex flex-col items-center">
+                                            <span class="text-xs font-bold uppercase tracking-widest ${isDark ? "text-indigo-400/60" : "text-indigo-500/60"} mb-2">Lecture Reference</span>
+                                            <span class="text-lg font-medium ${isDark ? "text-dark-text" : "text-solarized-base00"}">
+                                                ${ankingData.chapter.replace(/_/g, " ").replace(/>/g, " › ")}
+                                            </span>
+                                        </div>
+                                    </div>
+                                ` : `
+                                    <div class="relative flex flex-col items-center">
+                                        <div class="flex items-center gap-3 px-5 py-2.5 rounded-xl ${primary.bg} text-white font-bold text-lg shadow-lg mb-6">
+                                            <span class="text-2xl">${primary.icon}</span>
+                                            <span>${ankingData.primarySource}</span>
+                                        </div>
+                                        <div class="px-3 py-1 rounded-full bg-yellow-400 text-yellow-900 text-xs font-bold uppercase flex items-center gap-1 shadow-md mb-6">
                                             <span>⭐</span> Best Match
                                         </div>
-                                    </div>
-                                    <div class="pl-2">
-                                        <p class="text-lg ${isDark
-            ? "text-dark-text"
-            : "text-solarized-base00"
-          } leading-relaxed">
-                                            ${ankingData.chapter
-            .replace(/_/g, " ")
-            .replace(/>/g, " › ")}
+                                        <h4 class="text-sm font-bold uppercase tracking-widest ${isDark ? "text-dark-muted" : "text-solarized-base1"} mb-2">Topic / Chapter</h4>
+                                        <p class="text-2xl font-serif ${isDark ? "text-dark-text" : "text-solarized-base00"} leading-tight">
+                                            ${ankingData.chapter.replace(/_/g, " ").replace(/>/g, " › ")}
                                         </p>
                                     </div>
-                                </div>
+                                `}
                             </div>
                         </div>
                 `;
@@ -1932,7 +1957,7 @@ function renderMarkdown(html) {
       tableHtml += "</tr>";
     });
 
-    return "\n" + tableHtml + "</tbody></table></div>";
+    return "\n" + tableHtml + "</tbody></table></div>\n\n";
   });
 
   // High Yield Callouts
