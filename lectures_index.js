@@ -857,5 +857,21 @@ window.receiveLectureIndex([
     "tags": "Lecture #108",
     "path": "content/json/l108.file.js",
     "readingTime": 15
+  },
+  {
+    "id": "l110",
+    "title": "Lecture #110: Introduction to Orthopedics of the Upper Extremity",
+    "module": "Orthopedics",
+    "tags": "Lecture #110",
+    "path": "content/json/l110.file.js",
+    "readingTime": 10
+  },
+  {
+    "id": "l111",
+    "title": "Lecture #111: Orthopedics: Lower Extremity",
+    "module": "Orthopedics",
+    "tags": "Lecture #111",
+    "path": "content/json/l111.file.js",
+    "readingTime": 12
   }
 ]);

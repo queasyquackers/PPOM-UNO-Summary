@@ -2,8 +2,10 @@
 
 ## Goal
 
-Generate a comprehensive, high-yield summary of the provided lecture content.
+Generate a comprehensive, high-yield summary of the provided lecture content. 
 **CRITICAL PRIORITY:** You must capture **EVERY** clinical correlate, syndrome, disease, and disorder mentioned in the lecture.
+**LENGTH REQUIREMENT:** The lecture summary **MUST** fall within a **8-15 minute** reading time length (approx. 1,600 - 3,000 words), unless the lecture is exceptionally short or lacks sufficient detail to support such length.
+
 
 - **Scope:** Your primary source of truth is the **Transcript**.
 - **Rule:**
