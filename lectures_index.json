@@ -374,5 +374,13 @@
     "tags": "Lecture #59",
     "path": "content/json/l59.json",
     "readingTime": 5
+  },
+  {
+    "id": "l115",
+    "title": "Lecture #115: Sports Medicine: Overuse Injuries",
+    "module": "Orthopedics",
+    "tags": "Lecture #115",
+    "path": "content/json/l115.file.js",
+    "readingTime": 12
   }
 ]

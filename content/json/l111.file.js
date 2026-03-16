@@ -7,7 +7,6 @@ window.receiveLectureContent({
     "summary": `# Lecture #111: Orthopedics: Lower Extremity
 
 **Lecturer:** M. Heller, D.O. | **Session:** Lecture #111
-**Reading Time:** ~12-15 minutes (Comprehensive Narrative)
 
 ## 1. Introduction: Shattering the "Four-Minute Mile" Barrier
 Dr. Heller, a sports medicine specialist and NYITCOM alumnus, begins this deep dive into lower extremity orthopedics with a historical parallel: **Roger Bannister**. In 1954, Bannister—a medical student—ran the first sub-four-minute mile, a milestone once deemed physiologically impossible. Once he shattered that psychological barrier, the "impossible" became routine for top athletes worldwide. For medical students, lower extremity orthopedics often represents a similar barrier—a dense, complex region of anatomy and trauma. **The lesson: Persistence and diligence transform the daunting into the attainable.** 
@@ -252,21 +251,45 @@ To conclude, Dr. Heller presents a case of a patient post-reperfusion who develo
             }
         ]
     },
-    "reviewQuestions": [
+    "questions": [
         {
+            "id": 1,
             "question": "A 45-year-old male feels a sudden 'pop' in his ankle while playing tennis and feels like he was kicked. He is unable to stand on his toes. Which clinical test would confirm the diagnosis?",
-            "answer": "Thompson Test",
-            "explanation": "This describes an Achilles Tendon Rupture. The Thompson test (squeezing the calf) will fail to produce plantarflexion."
+            "options": [
+                "Lachman's Test",
+                "Thompson Test",
+                "McMurray Test",
+                "FADIR Test",
+                "Squeeze Test"
+            ],
+            "correctAnswer": 1,
+            "rationale": "This describes an Achilles Tendon Rupture. The Thompson test (squeezing the calf) will fail to produce plantarflexion when the tendon is ruptured."
         },
         {
+            "id": 2,
             "question": "A 19-year-old female basketball player lands from a jump and immediately feels a pop followed by rapid swelling. Why is she at higher risk than her male counterparts?",
-            "answer": "Increased Q-angle",
-            "explanation": "Female athletes have a wider pelvis and increased Q-angle, creating more valgus stress on the ACL during landing."
+            "options": [
+                "Increased pelvic tilt",
+                "Increased Q-angle",
+                "Decreased femoral anteversion",
+                "Increased bone density",
+                "Decreased ligament laxity"
+            ],
+            "correctAnswer": 1,
+            "rationale": "Female athletes have a wider pelvis and increased Q-angle, creating more valgus stress on the ACL during landing and pivoting."
         },
         {
+            "id": 3,
             "question": "The 'Dashboard Injury' mechanism is most likely to produce which combination of orthopedic injuries?",
-            "answer": "Posterior Hip Dislocation and PCL Tear",
-            "explanation": "The force striking the knee in a flexed position drives the femur backward (dislocation) and the tibia backward (PCL tear)."
+            "options": [
+                "Anterior Hip Dislocation and ACL Tear",
+                "Femoral Neck Fracture and Meniscal Tear",
+                "Posterior Hip Dislocation and PCL Tear",
+                "Patellar Dislocation and MCL Tear",
+                "Intertrochanteric Fracture and LCL Tear"
+            ],
+            "correctAnswer": 2,
+            "rationale": "The force striking the knee in a flexed position (like hitting a dashboard) drives the femur backward relative to the acetabulum (Posterior Dislocation) and the tibia backward relative to the femur (PCL tear)."
         }
     ],
     "pearls": [

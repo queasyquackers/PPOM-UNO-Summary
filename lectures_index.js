@@ -462,8 +462,21 @@ window.receiveLectureIndex([
     "tags": "",
     "path": "content/json/l59.file.js",
     "readingTime": 5
-  }
-  ,
+  },
+  {
+    "id": "l113",
+    "title": "L#113: Clinical Skills: MSK Hand and Nerve Exam",
+    "module": "Orthopedics",
+    "path": "content/json/l113.file.js",
+    "readingTime": "8-10 min"
+  },
+  {
+    "id": "l114",
+    "title": "L#114: Introduction to Musculoskeletal Ultrasound",
+    "module": "Radiology",
+    "path": "content/json/l114.file.js",
+    "readingTime": "12-15 min"
+  },
   {
     "id": "l60",
     "title": "Lecture #60: Sacral MET (Part 2)",
@@ -872,6 +885,46 @@ window.receiveLectureIndex([
     "module": "Orthopedics",
     "tags": "Lecture #111",
     "path": "content/json/l111.file.js",
+    "readingTime": 12
+  },
+  {
+    "id": "l112",
+    "title": "Lecture #112: Orthopedic Concerns of Spine",
+    "module": "Orthopedics",
+    "tags": "Lecture #112",
+    "path": "content/json/l112.file.js",
+    "readingTime": 14
+  },
+  {
+    "id": "l113",
+    "title": "Lecture #113: Imaging of the MSK System",
+    "module": "Radiology",
+    "tags": "Lecture #113",
+    "path": "content/json/l113.file.js",
+    "readingTime": 10
+  },
+  {
+    "id": "l114",
+    "title": "Lecture #114: Introduction to Musculoskeletal Ultrasound",
+    "module": "Radiology",
+    "tags": "Lecture #114",
+    "path": "content/json/l114.file.js",
+    "readingTime": 12
+  },
+  {
+    "id": "l115",
+    "title": "Lecture #115: Sports Medicine: Overuse Injuries",
+    "module": "Orthopedics",
+    "tags": "Lecture #115",
+    "path": "content/json/l115.file.js",
+    "readingTime": 12
+  },
+  {
+    "id": "l116",
+    "title": "Lecture #116: Pediatric Orthopedics",
+    "module": "Orthopedics",
+    "tags": "Lecture #116",
+    "path": "content/json/l116.file.js",
     "readingTime": 12
   }
 ]);
