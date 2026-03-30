@@ -926,5 +926,45 @@ window.receiveLectureIndex([
     "tags": "Lecture #116",
     "path": "content/json/l116.file.js",
     "readingTime": 12
+  },
+  {
+    "id": "l117",
+    "title": "Lecture #117: Pharmacology of NSAIDs",
+    "module": "Pharmacology",
+    "tags": "Lecture #117",
+    "path": "content/json/l117.file.js",
+    "readingTime": 15
+  },
+  {
+    "id": "l118",
+    "title": "Lecture #118: Pharmacology of NSAIDs Part 2",
+    "module": "Pharmacology",
+    "tags": "Lecture #118",
+    "path": "content/json/l118.file.js",
+    "readingTime": 18
+  },
+  {
+    "id": "l119",
+    "title": "L#119: Innate Immunity Part 1",
+    "module": "Immunology",
+    "tags": "Lecture #119",
+    "path": "content/json/l119.file.js",
+    "readingTime": 15
+  },
+  {
+    "id": "l120",
+    "title": "L#120: Innate Immunity Part 2",
+    "module": "Immunology",
+    "tags": "Lecture #120",
+    "path": "content/json/l120.file.js",
+    "readingTime": 15
+  },
+  {
+    "id": "l121",
+    "title": "Lecture #121: DPR: History and Physical Exam of the Spine",
+    "module": "DPR",
+    "tags": "Lecture #121",
+    "path": "content/json/l121.file.js",
+    "readingTime": 15
   }
 ]);

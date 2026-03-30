@@ -5,7 +5,8 @@ window.receiveLectureContent({
     "session": "Lecture #116",
     "module": "Orthopedics",
     "readingTime": "12-15 min",
-    "highYieldPdf": "pdfs/high_yield_L116.pdf",
+    "pdf": "content/L116_HighYield_Render.pdf",
+    "analysis": "content/L116_HighYield_Render_Analysis.md",
     "summary": `
 # Lecture #116: Pediatric Orthopedics
 

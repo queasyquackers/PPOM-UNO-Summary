@@ -18,4 +18,4 @@ def strip_srt(srt_file, output_file):
     with open(output_file, 'w', encoding='utf-8') as f:
         f.write(' '.join(text))
 
-strip_srt(r'e:\PPOM-UNO-Summary\transcripts\Lecture #103_ Pathology of Skeletal Muscle Faculty_ W. Zaloga, D.O..srt', r'e:\PPOM-UNO-Summary\stripped_l103.txt')
+strip_srt(r'e:\PPOM-UNO-Summary\transcripts\Lecture #121_ DPR_ History and Physical Exam of the Spine_Faculty_ M. Heller, D.O..srt', r'e:\PPOM-UNO-Summary\stripped_l121.txt')
