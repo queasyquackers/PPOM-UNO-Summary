@@ -966,5 +966,29 @@ window.receiveLectureIndex([
     "tags": "Lecture #121",
     "path": "content/json/l121.file.js",
     "readingTime": 15
+  },
+  {
+    "id": "l123",
+    "title": "Lecture #123: Adaptive Immunity Part 1",
+    "module": "Immunology",
+    "tags": "Lecture #123",
+    "path": "content/json/l123.file.js",
+    "readingTime": 15
+  },
+  {
+    "id": "l124",
+    "title": "Lecture #124: Adaptive Immunity Part 2",
+    "module": "Immunology",
+    "tags": "Lecture #124",
+    "path": "content/json/l124.file.js",
+    "readingTime": 15
+  },
+  {
+    "id": "l125",
+    "title": "Lecture #125: Intro to Immunologically Mediated Diseases",
+    "module": "Immunology",
+    "tags": "Lecture #125",
+    "path": "content/json/l125.file.js",
+    "readingTime": "12-15 min"
   }
 ]);
