@@ -1,4 +1,4 @@
-export const l130 = {
+window.L130 = {
     metadata: {
         title: "Lecture #130: Pharmacology of Gout and Pseudogout",
         lecturer: "D. Cummins, Pharm.D.",

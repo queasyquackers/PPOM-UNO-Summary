@@ -235,22 +235,14 @@ async function getLectureContent(id, path) {
   if (lecturesMap.has(id)) return lecturesMap.get(id);
 
   return new Promise((resolve, reject) => {
-    // Define global callback
-    // We wrap it to ensure we match the ID if possible, or just resolve whatever comes
+    // Define global callback for the standard format
     const originalCallback = window.receiveLectureContent;
 
     window.receiveLectureContent = (data) => {
-      // Cache the data
-      lecturesMap.set(data.id, data);
-
-      if (data.id === id) {
-        resolve(data);
-      } else {
-        // If we received data for another lecture (race condition?), 
-        // we still cached it. But we keep waiting for OUR data?
-        // For simplicity in this single-threaded UI, we resolve if we get *any* valid data 
-        // that matches (or we assume the last request is the one).
-        // Actually, if we get mismatched data, we should probably resolve it if it matches the requested ID.
+      const normalized = normalizeLectureData(data, id);
+      lecturesMap.set(normalized.id, normalized);
+      if (normalized.id === id) {
+        resolve(normalized);
       }
     };
 
@@ -261,12 +253,143 @@ async function getLectureContent(id, path) {
     };
     document.body.appendChild(script);
 
-    // Cleanup script after load
+    // After load, detect non-standard formats and normalize them
     script.onload = () => {
-      setTimeout(() => script.remove(), 100);
+      setTimeout(() => {
+        // Only proceed if the promise hasn't already resolved via receiveLectureContent
+        if (lecturesMap.has(id)) {
+          script.remove();
+          return;
+        }
+
+        let rawData = null;
+
+        // Format 1: window.contentData['lXXX'] (used by l123, l124, l125)
+        if (window.contentData && window.contentData[id]) {
+          rawData = window.contentData[id];
+          rawData._sourceId = id;
+        }
+
+        // Format 2: window.LXXX (used by l126, l127, l128, l129, l131, l132, l134, l135)
+        if (!rawData) {
+          const numId = id.replace(/^l/i, '');
+          const globalKey = 'L' + numId;
+          if (window[globalKey] && typeof window[globalKey] === 'object') {
+            rawData = window[globalKey];
+            rawData._sourceId = id;
+          }
+        }
+
+        // Format 3: window.lectureData (used by l133)
+        if (!rawData && window.lectureData && typeof window.lectureData === 'object') {
+          rawData = window.lectureData;
+          rawData._sourceId = id;
+          // Clean up global to prevent bleed-over
+          window.lectureData = null;
+        }
+
+        if (rawData) {
+          const normalized = normalizeLectureData(rawData, id);
+          lecturesMap.set(normalized.id, normalized);
+          resolve(normalized);
+        }
+
+        script.remove();
+      }, 150);
     };
   });
 }
+
+/**
+ * Normalizes lecture data from any of the known formats to the standard format
+ * expected by app.js rendering functions.
+ * Standard format fields: id (string), title, summary, questions, flashcards, mindmap, anking, ankingResource, pearls, pdf
+ */
+function normalizeLectureData(data, expectedId) {
+  if (!data || typeof data !== 'object') return data;
+
+  // Determine the canonical string ID (always 'lXXX' format)
+  let id = expectedId;
+  if (!id) {
+    // Try to derive from data
+    if (data.id) {
+      const numId = String(data.id).replace(/^l/i, '');
+      id = 'l' + numId;
+    } else if (data._sourceId) {
+      id = data._sourceId;
+    }
+  }
+
+  // Normalize: content -> summary
+  const summary = data.summary || data.content || '';
+
+  // Normalize: reviewQuestions -> questions, then normalize each question object
+  const rawQuestions = data.questions || data.reviewQuestions || [];
+  const questions = Array.isArray(rawQuestions)
+    ? rawQuestions.map(q => normalizeQuestion(q))
+    : rawQuestions;
+
+  // Normalize: mindMap -> mindmap (capital M variant)
+  const mindmap = data.mindmap || data.mindMap || '';
+
+  // Normalize: anking array (keep as-is, used for display)
+  const anking = data.anking || [];
+
+  // Normalize: ankingResource (keep as-is)
+  const ankingResource = data.ankingResource || null;
+
+  // Extract title from metadata.title if needed
+  const title = data.title || (data.metadata && data.metadata.title) || '';
+
+  // Extract pdf path
+  const pdf = data.pdf || data.highYieldPdf || data.highYieldLink || null;
+
+  return {
+    ...data,                   // keep all original fields
+    id: id,                    // normalized string ID
+    title: title,
+    summary: summary,          // always use 'summary'
+    questions: questions,      // always use 'questions' (normalized)
+    mindmap: mindmap,          // always use 'mindmap' (lowercase m)
+    anking: anking,
+    ankingResource: ankingResource,
+    pdf: pdf,
+  };
+}
+
+/**
+ * Normalizes an individual question object to the standard format:
+ * { question, options, answer, rationale }
+ * Handles: stem->question, explanation->rationale
+ */
+function normalizeQuestion(q) {
+  if (!q || typeof q !== 'object') return q;
+
+  // Normalize question text: stem -> question
+  const questionText = q.question || q.stem || '';
+
+  // Normalize rationale: explanation -> rationale
+  const rationale = q.rationale || q.explanation || '';
+
+  // Normalize answer: keep single letter like 'A', 'B', etc. as-is
+  // The renderer checks correctAnswer (numeric index); 
+  // if answer is a letter, also provide correctAnswer index for compatibility
+  const answer = q.answer || '';
+  let correctAnswer = q.correctAnswer;
+  if (correctAnswer === undefined && typeof answer === 'string' && /^[A-E]$/i.test(answer.trim())) {
+    correctAnswer = answer.trim().toUpperCase().charCodeAt(0) - 65; // 'A'->0, 'B'->1, etc.
+  }
+
+  return {
+    ...q,
+    question: questionText,
+    rationale: rationale,
+    answer: answer,
+    correctAnswer: correctAnswer,
+  };
+}
+
+
 
 function setupWelcomeAnimation() {
   const welcomeScreen = document.getElementById("welcomeScreen");
@@ -754,7 +877,8 @@ async function selectLecture(id) {
   // Toggle AnKing Tab Visibility
   const ankingTabBtn = document.querySelector('.tab-btn[data-tab="anking"]');
   if (ankingTabBtn) {
-    if (selectedLecture.ankingResource) {
+    const hasAnking = selectedLecture.ankingResource || (Array.isArray(selectedLecture.anking) && selectedLecture.anking.length > 0);
+    if (hasAnking) {
       ankingTabBtn.classList.remove("hidden");
     } else {
       ankingTabBtn.classList.add("hidden");
@@ -765,6 +889,7 @@ async function selectLecture(id) {
       }
     }
   }
+
 
   updateCompleteButton(); // Update checkbox state
 
@@ -1430,7 +1555,8 @@ function renderTabContent() {
       let currentLevel1 = null;
       let currentLevel2 = null;
 
-      const lines = (selectedLecture.summary || "").split("\n");
+      const lines = (selectedLecture.mindmap || selectedLecture.summary || "").split("\n");
+
       lines.forEach((line) => {
         if (line.startsWith("## ")) {
           currentLevel1 = {
