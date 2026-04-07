@@ -990,5 +990,85 @@ window.receiveLectureIndex([
     "tags": "Lecture #125",
     "path": "content/json/l125.file.js",
     "readingTime": "12-15 min"
+  },
+  {
+    "id": "l126",
+    "title": "Lecture #126: Mechanisms of Autoimmunity in Rheumatologic Disease",
+    "module": "Immunology",
+    "tags": "Lecture #126",
+    "path": "content/json/l126.file.js",
+    "readingTime": "12-15 min"
+  },
+  {
+    "id": "l127",
+    "title": "Lecture #127: Rheumatology 1: Rheumatologic dz of Joints",
+    "module": "Rheumatology",
+    "tags": "Lecture #127",
+    "path": "content/json/l127.file.js",
+    "readingTime": "15-20 min"
+  },
+  {
+    "id": "l128",
+    "title": "Lecture #128: Rheumatology 2: Systemic Rheumatologic Disease",
+    "module": "Rheumatology",
+    "tags": "Lecture #128",
+    "path": "content/json/l128.file.js",
+    "readingTime": "10-15 min"
+  },
+  {
+    "id": "l129",
+    "title": "Lecture #129: Rheumatology 3: Rheumatologic Diseases Affecting the Muscle",
+    "module": "Rheumatology",
+    "tags": "Lecture #129",
+    "path": "content/json/l129.file.js",
+    "readingTime": "10-15 min"
+  },
+  {
+    "id": "l130",
+    "title": "Lecture #130: Pharmacology of Gout and Pseudogout",
+    "module": "Pharmacology",
+    "tags": "Lecture #130",
+    "path": "content/json/l130.file.js",
+    "readingTime": "10-15 min"
+  },
+  {
+    "id": "l131",
+    "title": "Lecture #131: Pediatric Rheumatology",
+    "module": "Pediatrics",
+    "tags": "Lecture #131",
+    "path": "content/json/l131.file.js",
+    "readingTime": "10-15 min"
+  },
+  {
+    "id": "l132",
+    "title": "Lecture #132: Pharmacology of DMARDs Part 1",
+    "module": "Pharmacology",
+    "tags": "Lecture #132",
+    "path": "content/json/l132.file.js",
+    "readingTime": "10-15 min"
+  },
+  {
+    "id": "l133",
+    "title": "Lecture #133: Pharmacology: DMARDS 2",
+    "module": "Pharmacology",
+    "tags": "Lecture #133",
+    "path": "content/json/l133.file.js",
+    "readingTime": "10-15 min"
+  },
+  {
+    "id": "l134",
+    "title": "Lecture #134: DPR: History and Physical Exam of the Hip and Knee",
+    "module": "DPR",
+    "tags": "Lecture #134",
+    "path": "content/json/l134.file.js",
+    "readingTime": "10-15 min"
+  },
+  {
+    "id": "l135",
+    "title": "Lecture #135: DPR: History and Physical Exam of the Ankle and Foot",
+    "module": "DPR",
+    "tags": "Lecture #135",
+    "path": "content/json/l135.file.js",
+    "readingTime": "10-15 min"
   }
 ]);
