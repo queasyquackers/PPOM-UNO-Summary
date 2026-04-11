@@ -1,4 +1,4 @@
-const lectureData = {
+window.receiveLectureContent({
     metadata: {
         number: 139,
         id: "l139",
@@ -365,6 +365,4 @@ E. Prednisone
     * **LTRAs**: Montelukast (Singulair) - Blocks receptors
     * **LOX Inhibitor**: Zileuton - Blocks 5-LOX enzyme
     `
-};
-
-export default lectureData;
+});

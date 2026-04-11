@@ -1,4 +1,4 @@
-const l146 = {
+window.receiveLectureContent({
     metadata: {
         id: "l146",
         title: "Pediatric Immunology",
@@ -278,6 +278,4 @@ E. Normal levels of all antibodies
             rationale: "Job Syndrome (Hyper-IgE) is uniquely Autosomal Dominant among the primary immunodeficiencies discussed."
         }
     ]
-};
-
-export default l146;
+});

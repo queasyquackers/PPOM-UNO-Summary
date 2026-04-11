@@ -1,4 +1,4 @@
-window.receiveLectureData({
+window.receiveLectureContent({
   "metadata": {
     "id": "l138",
     "title": "Diagnosis of Immediate Hypersensitivity",
