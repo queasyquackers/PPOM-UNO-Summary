@@ -1070,5 +1070,85 @@ window.receiveLectureIndex([
     "tags": "Lecture #135",
     "path": "content/json/l135.file.js",
     "readingTime": "10-15 min"
+  },
+  {
+    "id": "l137",
+    "title": "Lecture #137: Test of Immune Function",
+    "module": "Immunology",
+    "tags": "Lecture #137",
+    "path": "content/json/l137.file.js",
+    "readingTime": "10-15 min"
+  },
+  {
+    "id": "l138",
+    "title": "Lecture #138: Diagnosis of Immediate Hypersensitivity",
+    "module": "Immunology",
+    "tags": "Lecture #138",
+    "path": "content/json/l138.file.js",
+    "readingTime": "12-15 min"
+  },
+  {
+    "id": "l139",
+    "title": "Lecture #139: Allergens and Allergic Rhinitis",
+    "module": "Immunology",
+    "tags": "Lecture #139",
+    "path": "content/json/l139.file.js",
+    "readingTime": "8-10 min"
+  },
+  {
+    "id": "l140",
+    "title": "Lecture #140: Anaphylaxis and Allergic Reactions",
+    "module": "Immunology",
+    "tags": "Lecture #140",
+    "path": "content/json/l140.file.js",
+    "readingTime": "12-15 min"
+  },
+  {
+    "id": "l141",
+    "title": "Lecture #141: Immunogenetics, Lymphocyte Activation, Immune Reg. and Tolerance 1",
+    "module": "Immunology",
+    "tags": "Lecture #141",
+    "path": "content/json/l141.file.js",
+    "readingTime": "10-15 min"
+  },
+  {
+    "id": "l142",
+    "title": "Lecture #142: Immunogenetics, Lymphocyte Activation, Immune Reg. and Tolerance 2",
+    "module": "Immunology",
+    "tags": "Lecture #142",
+    "path": "content/json/l142.file.js",
+    "readingTime": "12-18 min"
+  },
+  {
+    "id": "l143",
+    "title": "Lecture #143: Pharmacology Immunosuppressants Part 1",
+    "module": "Pharmacology",
+    "tags": "Lecture #143",
+    "path": "content/json/l143.file.js",
+    "readingTime": "12-18 min"
+  },
+  {
+    "id": "l144",
+    "title": "Lecture #144: Pharmacology Immunosuppressants Part 2",
+    "module": "Pharmacology",
+    "tags": "Lecture #144",
+    "path": "content/json/l144.file.js",
+    "readingTime": "12-18 min"
+  },
+  {
+    "id": "l145",
+    "title": "Lecture #145: Clinical Approach to Immunodeficiencies",
+    "module": "Immunology",
+    "tags": "Lecture #145",
+    "path": "content/json/l145.file.js",
+    "readingTime": "10-15 min"
+  },
+  {
+    "id": "l146",
+    "title": "Lecture #146: Pediatric Immunology",
+    "module": "Immunology",
+    "tags": "Lecture #146",
+    "path": "content/json/l146.file.js",
+    "readingTime": "12-15 min"
   }
-]);
+]);
