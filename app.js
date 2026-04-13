@@ -308,12 +308,15 @@ async function getLectureContent(id, path) {
 function normalizeLectureData(data, expectedId) {
   if (!data || typeof data !== 'object') return data;
 
+  const meta = data.metadata || {};
+
   // Determine the canonical string ID (always 'lXXX' format)
   let id = expectedId;
   if (!id) {
-    // Try to derive from data
-    if (data.id) {
-      const numId = String(data.id).replace(/^l/i, '');
+    // Try to derive from data or metadata
+    const rawId = data.id || meta.id;
+    if (rawId) {
+      const numId = String(rawId).replace(/^l/i, '');
       id = 'l' + numId;
     } else if (data._sourceId) {
       id = data._sourceId;
@@ -329,27 +332,45 @@ function normalizeLectureData(data, expectedId) {
     ? rawQuestions.map(q => normalizeQuestion(q))
     : rawQuestions;
 
+  // Normalize: flashcards (handle q/a aliases)
+  const rawFlashcards = data.flashcards || [];
+  const flashcards = Array.isArray(rawFlashcards)
+    ? rawFlashcards.map(f => ({
+      ...f,
+      front: f.front || f.q || '',
+      back: f.back || f.a || '',
+      tag: f.tag || 'Card'
+    }))
+    : rawFlashcards;
+
   // Normalize: mindMap -> mindmap (capital M variant)
   const mindmap = data.mindmap || data.mindMap || '';
 
-  // Normalize: anking array (keep as-is, used for display)
+  // Normalize: anking array
   const anking = data.anking || [];
 
-  // Normalize: ankingResource (keep as-is)
-  const ankingResource = data.ankingResource || null;
+  // Normalize: ankingResource (handle resources alias)
+  const ankingResource = data.ankingResource || data.resources || null;
 
-  // Extract title from metadata.title if needed
-  const title = data.title || (data.metadata && data.metadata.title) || '';
+  // Extract title/module from metadata if needed
+  const title = data.title || meta.title || '';
+  const module = data.module || meta.module || '';
+  const lecturer = data.lecturer || meta.lecturer || '';
+  const readingTime = data.readingTime || meta.readingTime || '';
 
   // Extract pdf path
-  const pdf = data.pdf || data.highYieldPdf || data.highYieldLink || null;
+  const pdf = data.pdf || meta.pdf || data.highYieldPdf || data.highYieldLink || null;
 
   return {
     ...data,                   // keep all original fields
     id: id,                    // normalized string ID
     title: title,
+    module: module,
+    lecturer: lecturer,
+    readingTime: readingTime,
     summary: summary,          // always use 'summary'
     questions: questions,      // always use 'questions' (normalized)
+    flashcards: flashcards,    // always use 'flashcards'
     mindmap: mindmap,          // always use 'mindmap' (lowercase m)
     anking: anking,
     ankingResource: ankingResource,
@@ -365,17 +386,21 @@ function normalizeLectureData(data, expectedId) {
 function normalizeQuestion(q) {
   if (!q || typeof q !== 'object') return q;
 
-  // Normalize question text: stem -> question
-  const questionText = q.question || q.stem || '';
+  // Normalize question text: stem, questionText -> question
+  const questionText = q.question || q.stem || q.questionText || '';
 
   // Normalize rationale: explanation -> rationale
   const rationale = q.rationale || q.explanation || '';
 
   // Normalize answer: keep single letter like 'A', 'B', etc. as-is
-  // The renderer checks correctAnswer (numeric index); 
-  // if answer is a letter, also provide correctAnswer index for compatibility
   const answer = q.answer || '';
   let correctAnswer = q.correctAnswer;
+
+  // Handle correctAnswerIndex alias (numeric)
+  if (correctAnswer === undefined && q.correctAnswerIndex !== undefined) {
+    correctAnswer = q.correctAnswerIndex;
+  }
+
   if (correctAnswer === undefined && typeof answer === 'string' && /^[A-E]$/i.test(answer.trim())) {
     correctAnswer = answer.trim().toUpperCase().charCodeAt(0) - 65; // 'A'->0, 'B'->1, etc.
   }
