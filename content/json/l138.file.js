@@ -1,12 +1,18 @@
 window.receiveLectureContent({
   id: "l138",
-  title: "Lecture #138: Diagnosis of Immediate Hypersensitivity",
+  title: "Diagnosis of Immediate Hypersensitivity",
   module: "Immunology",
   lecturer: "S. Punatar, D.O.",
+  session: "Lecture #138",
   readingTime: "12-15 min",
   pdf: "content/L138_HighYield_Render.pdf",
   analysis: "content/L138_HighYield_Render_Analysis.md",
-  summary: `### The Clinical Hook: A Peanut and a Drowsy Child
+  summary: `# Lecture #138: Diagnosis of Immediate Hypersensitivity
+
+**Lecturer:** S. Punatar, D.O.
+**Session:** Lecture #138
+
+### The Clinical Hook: A Peanut and a Drowsy Child
 Imagine 4-year-old Jack, rushed to the ER after eating a chocolate bar (Slide 3). He’s not just itching; he’s pale, his blood pressure is dropping, and he’s struggling to breathe. This isn't just a "reaction"; it's anaphylaxis—the most extreme and life-threatening manifestation of Type I hypersensitivity. Understanding the mechanisms, clinical presentations, and diagnostic tools for these "immediate" reactions is the difference between an outpatient follow-up and an emergency room save.
 
 ## Introduction to Hypersensitivity: The Gell-Coombs Framework (Slide 6)
@@ -181,5 +187,34 @@ To diagnose immediate hypersensitivity, we must prove both sensitization (presen
   },
   anking: [
       { match: "Hypersensitivity Type I", resources: "#AK_Step1_v11::#B&B::12_Immunology::02_Clinical::01_Hypersensitivity" }
-  ]
+  ],
+  pearls: [
+    { title: "Epinephrine is First-Line", content: "IM Epinephrine (1:1000) in the anterolateral thigh is the gold standard for anaphylaxis. Do not delay administration for other medications." },
+    { title: "Glucagon Rescue", content: "For patients on beta-blockers who do not respond to epinephrine during anaphylaxis, Glucagon is the recommended alternative." },
+    { title: "Skin Prick Threshold", content: "A positive Skin Prick Test result is a wheal ≥ 3mm larger than the negative saline control." },
+    { title: "The Atopic March", content: "The chronological progression of allergic diseases: Atopic Dermatitis → Food Allergy → Asthma → Allergic Rhinitis." }
+  ],
+  mindmap: `## Diagnosis of Immediate Hypersensitivity
+
+### Gell-Coombs Classification
+- **Type I (Immediate)**: IgE-mediated, mast cell degranulation.
+- **Type II (Cytotoxic)**: IgG/IgM binding cell surfaces.
+- **Type III (Immune Complex)**: Soluble complexes depositing in tissues.
+- **Type IV (Delayed)**: T-cell mediated.
+
+### Type I Mechanism
+- **Immediate Phase**: Cross-linking of IgE on mast cells -> Histamine release.
+- **Late Phase**: Leukotrienes and Eosinophil recruitment (2-24 hours).
+
+### Clinical Manifestations
+- **Atopy Triad**: Eczema, Allergic Rhinitis, Asthma.
+- **Anaphylaxis**: Multi-organ systemic reaction (Shock, Bronchospasm, GI symptoms).
+
+### Diagnostic Tools
+- **Skin Prick Test**: Wheal ≥ 3mm. Must stop antihistamines for 3-7 days.
+- **Serum IgE (RAST)**: Preferred when skin testing is impossible (e.g., extensive eczema).
+
+### Management
+- **Epinephrine**: First-line for anaphylaxis (IM anterolateral thigh).
+- **Glucagon**: Rescue for patients on beta-blockers.`
 });
