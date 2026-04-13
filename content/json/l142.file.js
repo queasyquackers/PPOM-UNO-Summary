@@ -178,98 +178,74 @@ Transplantation represents a unique immunologic challenge where a "non-self" pla
 | **Peripheral** | Anergy | Antigen recognition without co-stimulation (Signal 2) | Activation by harmless molecules |
 | **Active** | Tregs (FoxP3) | Active suppression of effectors | Multi-organ autoimmune syndromes (IPEX) |
 
-## Review Questions (Board-Style)
-
-**1. A 3-week-old male infant presents with severe diarrhea, a diffuse eczematous rash, and elevated blood glucose. Genetic testing reveals a mutation in the forkhead box P3 (FoxP3) transcription factor. Which of the following is the most likely underlying immunologic defect in this patient?**
-
-A. Failure of light chain rearrangement during B-cell development
-B. Loss of active suppression by Regulatory T-cells 
-C. Inability of CD8+ T-cells to acquire cytotoxic machinery
-D. Defective MHC Class I surface expression on nucleated cells
-E. Impaired migration of naive T-cells to the thymus
-
-<details>
-<summary><strong>Click to Reveal Answer</strong></summary>
-
-**Answer: B (Loss of active suppression by Regulatory T-cells)**
-
-**Rationale**:
-This patient has **IPEX Syndrome** (Immune dysregulation, Polyendocrinopathy, Enteropathy, X-linked), which is caused by a mutation in **FoxP3**. FoxP3 is essential for the development and function of **Regulatory T-cells (Tregs)**, which actively suppress immune responses. Without Tregs, the patient experiences systemic, severe autoimmunity.
-
-</details>
-
-**2. A 45-year-old female undergoes a kidney transplant. Ten minutes after the surgeon releases the vascular clamps, the graft becomes blue, cold, and mottled. Which of the following immunologic mechanisms is responsible for this occurrence?**
-
-A. Activation of recipient CD8+ T-cells by donor MHC molecules
-B. Processing of donor antigens by recipient dendritic cells
-C. Binding of pre-formed host antibodies to the graft endothelium
-D. Massive cytokine release from bystander macrophages
-E. Delayed-type hypersensitivity reaction involving Th17 cells
-
-<details>
-<summary><strong>Click to Reveal Answer</strong></summary>
-
-**Answer: C (Binding of pre-formed host antibodies to the graft endothelium)**
-
-**Rationale**:
-This is a **Hyperacute Rejection**, which occurs within minutes to hours. It is mediated by **pre-formed antibodies** (Type II Hypersensitivity) in the recipient that recognize the donor's ABO or HLA antigens. This leads to immediate complement activation and thrombosis of graft vessels.
-
-</details>
-
-**3. During a secondary immune response to a viral infection, the host clears the pathogen much faster than during the initial exposure. This efficiency is primarily attributed to memory T-cells, which differ from naive T-cells in that memory cells:**
-
-A. Are only capable of acknowledging Signal 1 (Antigen)
-B. Express MHC Class II to communicate with macrophages
-C. Have higher metabolic rates while in the resting state
-D. Require significantly less co-stimulation for activation
-E. Undergo receptor editing if they encounter self-antigen
-
-<details>
-<summary><strong>Click to Reveal Answer</strong></summary>
-
-**Answer: D (Require significantly less co-stimulation for activation)**
-
-**Rationale**:
-One of the key functional advantages of **memory cells** is that they have a lower threshold for activation compared to naive cells. Specifically, they require **less co-stimulation** (Signal 2) to become activated and proliferate, allowing for a more rapid and robust recall response.
-
-</details>
-
-**4. A T-lymphocyte escapes negative selection in the thymus and enters the periphery. It eventually recognizes its cognate self-antigen displayed on a resting macrophage that does not express B7. The T-cell becomes persistently unresponsive even upon subsequent encounters with the antigen. This state is known as:**
-
-A. Clonal Selection
-B. Receptor Editing
-C. Anergy 
-D. Homeostasis
-E. Effector Commitment
-
-<details>
-<summary><strong>Click to Reveal Answer</strong></summary>
-
-**Answer: C (Anergy)**
-
-**Rationale**:
-**Anergy** is a form of peripheral tolerance that occurs when a T-cell receives **Signal 1 (Antigen recognition)** but is denied **Signal 2 (Co-stimulation)**. This results in the cell becoming functionally inactive and unresponsive, even if encounters the antigen again in an inflammatory context.
-
-</details>
-
-**5. Which of the following processes occurs uniquely during B-cell development, allowing for the salvage of self-reactive clones that would otherwise be eliminated?**
-
-A. FoxP3-mediated suppression
-B. Metabolic reprogramming
-C. Negative selection in the thymus
-D. Receptor editing 
-E. Clonal expansion within the bone marrow
-
-<details>
-<summary><strong>Click to Reveal Answer</strong></summary>
-
-**Answer: D (Receptor editing)**
-
-**Rationale**:
-**Receptor editing** is unique to **B-cells**. During development in the bone marrow, if a B-cell receptor binds self-antigen too strongly, the cell can "edit" its receptor by initiating additional light chain gene rearrangements. This provides an alternative to apoptosis that allows potentially useful cells to stay in the pool if they can lose their self-reactivity.
-
-</details>
-`,
+  `,
+  "questions": [
+    {
+      "id": 1,
+      "question": "A 3-week-old male infant presents with severe diarrhea, a diffuse eczematous rash, and elevated blood glucose. Genetic testing reveals a mutation in the forkhead box P3 (FoxP3) transcription factor. Which of the following is the most likely underlying immunologic defect in this patient?",
+      "options": [
+        "Failure of light chain rearrangement during B-cell development",
+        "Loss of active suppression by Regulatory T-cells",
+        "Inability of CD8+ T-cells to acquire cytotoxic machinery",
+        "Defective MHC Class I surface expression on nucleated cells",
+        "Impaired migration of naive T-cells to the thymus"
+      ],
+      "correctAnswer": 1,
+      "rationale": "This patient has **IPEX Syndrome** (Immune dysregulation, Polyendocrinopathy, Enteropathy, X-linked), which is caused by a mutation in **FoxP3**. FoxP3 is essential for the development and function of **Regulatory T-cells (Tregs)**, which actively suppress immune responses. Without Tregs, the patient experiences systemic, severe autoimmunity."
+    },
+    {
+      "id": 2,
+      "question": "A 45-year-old female undergoes a kidney transplant. Ten minutes after the surgeon releases the vascular clamps, the graft becomes blue, cold, and mottled. Which of the following immunologic mechanisms is responsible for this occurrence?",
+      "options": [
+        "Activation of recipient CD8+ T-cells by donor MHC molecules",
+        "Processing of donor antigens by recipient dendritic cells",
+        "Binding of pre-formed host antibodies to the graft endothelium",
+        "Massive cytokine release from bystander macrophages",
+        "Delayed-type hypersensitivity reaction involving Th17 cells"
+      ],
+      "correctAnswer": 2,
+      "rationale": "This is a **Hyperacute Rejection**, which occurs within minutes to hours. It is mediated by **pre-formed antibodies** (Type II Hypersensitivity) in the recipient that recognize the donor's ABO or HLA antigens. This leads to immediate complement activation and thrombosis of graft vessels."
+    },
+    {
+      "id": 3,
+      "question": "During a secondary immune response to a viral infection, the host clears the pathogen much faster than during the initial exposure. This efficiency is primarily attributed to memory T-cells, which differ from naive T-cells in that memory cells:",
+      "options": [
+        "Are only capable of acknowledging Signal 1 (Antigen)",
+        "Express MHC Class II to communicate with macrophages",
+        "Have higher metabolic rates while in the resting state",
+        "Require significantly less co-stimulation for activation",
+        "Undergo receptor editing if they encounter self-antigen"
+      ],
+      "correctAnswer": 3,
+      "rationale": "One of the key functional advantages of **memory cells** is that they have a lower threshold for activation compared to naive cells. Specifically, they require **less co-stimulation** (Signal 2) to become activated and proliferate, allowing for a more rapid and robust recall response."
+    },
+    {
+      "id": 4,
+      "question": "A T-lymphocyte escapes negative selection in the thymus and enters the periphery. It eventually recognizes its cognate self-antigen displayed on a resting macrophage that does not express B7. The T-cell becomes persistently unresponsive even upon subsequent encounters with the antigen. This state is known as:",
+      "options": [
+        "Clonal Selection",
+        "Receptor Editing",
+        "Anergy",
+        "Homeostasis",
+        "Effector Commitment"
+      ],
+      "correctAnswer": 2,
+      "rationale": "**Anergy** is a form of peripheral tolerance that occurs when a T-cell receives **Signal 1 (Antigen recognition)** but is denied **Signal 2 (Co-stimulation)**. This results in the cell becoming functionally inactive and unresponsive, even if encounters the antigen again in an inflammatory context."
+    },
+    {
+      "id": 5,
+      "question": "Which of the following processes occurs uniquely during B-cell development, allowing for the salvage of self-reactive clones that would otherwise be eliminated?",
+      "options": [
+        "FoxP3-mediated suppression",
+        "Metabolic reprogramming",
+        "Negative selection in the thymus",
+        "Receptor editing",
+        "Clonal expansion within the bone marrow"
+      ],
+      "correctAnswer": 3,
+      "rationale": "**Receptor editing** is unique to **B-cells**. During development in the bone marrow, if a B-cell receptor binds self-antigen too strongly, the cell can \"edit\" its receptor by initiating additional light chain gene rearrangements. This provides an alternative to apoptosis that allows potentially useful cells to stay in the pool if they can lose their self-reactivity."
+    }
+  ],
   "flashcards": [
     { "front": "What is 'Clonal Selection'?", "back": "The concept that only lymphocytes specific to an antigen are activated and proliferate.", "tag": "Concept" },
     { "front": "Why is 'Clonal Expansion' essential?", "back": "To amplify rare antigen-specific cells into a clinically effective army.", "tag": "Concept" },
@@ -294,7 +270,7 @@ E. Clonal expansion within the bone marrow
     { "title": "FoxP3 Checkpoint", "content": "Regulatory T-cells (Tregs) are the proactive enforcement of peace within the body; without their FoxP3-mediated supervision, the immune system defaults to auto-destruction (IPEX)." },
     { "title": "Tricking the inspector", "content": "Transplantation success is the process of convincing molecular 'inspectors' (T-cells) to tolerate a 'foreign platform' (donor MHC) that their fundamental education says shouldn't be there." }
   ],
-  "mindMap": `
+  "mindmap": `
 ## Immune Response Lifecycle
 
 ### Clonal Selection & Expansion
