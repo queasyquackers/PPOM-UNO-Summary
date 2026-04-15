@@ -1150,5 +1150,13 @@ window.receiveLectureIndex([
     "tags": "Lecture #146",
     "path": "content/json/l146.file.js",
     "readingTime": "12-15 min"
+  },
+  {
+    "id": "l147",
+    "title": "Lecture #147: Public and Global Health: Role of Immunizations",
+    "module": "Public Health",
+    "tags": "Lecture #147",
+    "path": "content/json/l147.file.js",
+    "readingTime": "15-20 min"
   }
 ]);
