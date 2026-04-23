@@ -776,37 +776,74 @@ function getModuleClass(module) {
 function renderLectureList(searchQuery = "") {
   let filtered = [];
   const query = searchQuery.toLowerCase().trim();
+  const terms = query.split(/\s+/).filter(t => t.length > 0);
 
   // Search Logic
   if (!query) {
     filtered = lectures;
   } else if (window.SEARCH_INDEX) {
-    // Full-Text Search
+    // Advanced Token-based Search with Scoring
     const results = window.SEARCH_INDEX.map(item => {
       let score = 0;
-      const titleLower = item.title.toLowerCase();
-      const moduleLower = item.module.toLowerCase();
+      const titleLower = (item.title || "").toLowerCase();
+      const moduleLower = (item.module || "").toLowerCase();
+      const contentLower = (item.content || "").toLowerCase();
 
+      // 1. Whole query match (highest priority)
       if (titleLower.includes(query)) {
-        // Exact title match gets highest score
-        score += 100;
-        // Boost if title starts with the query
-        if (titleLower.startsWith(query)) score += 50;
+        score += 500;
+        if (titleLower.startsWith(query)) score += 100;
       }
-      if (moduleLower.includes(query)) score += 20;
+
+      // 2. Term-based matching
+      let termsMatchedInTitle = 0;
+      let allTermsMatched = true;
+
+      terms.forEach(term => {
+        let termMatched = false;
+        if (titleLower.includes(term)) {
+          score += 100;
+          termsMatchedInTitle++;
+          termMatched = true;
+        }
+        if (moduleLower.includes(term)) {
+          score += 50;
+          termMatched = true;
+        }
+        // Small score for content matches to ensure they appear but don't clutter the top
+        if (contentLower.includes(term)) {
+          score += 10;
+          termMatched = true;
+        }
+
+        if (!termMatched) allTermsMatched = false;
+      });
+
+      // 3. Multi-term Bonuses
+      if (terms.length > 1) {
+        if (allTermsMatched) score += 200;
+        if (termsMatchedInTitle === terms.length) score += 100;
+      }
 
       return { id: item.id, score };
-    }).filter(r => r.score > 0).sort((a, b) => b.score - a.score);
+    })
+      .filter(r => r.score > 0)
+      .sort((a, b) => b.score - a.score);
 
     // Map back to lecture metadata objects
     filtered = results.map(r => lectures.find(l => l.id === r.id)).filter(Boolean);
   } else {
-    // Fallback if index not loaded
-    filtered = lectures.filter(
-      (lec) =>
-        lec.title.toLowerCase().includes(query) ||
-        (lec.tags && lec.tags.toLowerCase().includes(query))
-    );
+    // Fallback if index not loaded - simple token match
+    filtered = lectures.filter(lec => {
+      const titleLower = (lec.title || "").toLowerCase();
+      const tagsLower = (lec.tags || "").toLowerCase();
+      const moduleLower = (lec.module || "").toLowerCase();
+      return terms.every(term =>
+        titleLower.includes(term) ||
+        tagsLower.includes(term) ||
+        moduleLower.includes(term)
+      );
+    });
   }
 
   const html = filtered
