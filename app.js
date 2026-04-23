@@ -784,9 +784,17 @@ function renderLectureList(searchQuery = "") {
     // Full-Text Search
     const results = window.SEARCH_INDEX.map(item => {
       let score = 0;
-      if (item.title.toLowerCase().includes(query)) score += 100;
-      if (item.module.toLowerCase().includes(query)) score += 50;
-      if (item.content.toLowerCase().includes(query)) score += 10;
+      const titleLower = item.title.toLowerCase();
+      const moduleLower = item.module.toLowerCase();
+
+      if (titleLower.includes(query)) {
+        // Exact title match gets highest score
+        score += 100;
+        // Boost if title starts with the query
+        if (titleLower.startsWith(query)) score += 50;
+      }
+      if (moduleLower.includes(query)) score += 20;
+
       return { id: item.id, score };
     }).filter(r => r.score > 0).sort((a, b) => b.score - a.score);
 
