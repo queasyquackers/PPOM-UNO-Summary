@@ -1,0 +1,224 @@
+SOURCE: Lecture # 176. C. Abraham, M.D. (PPT).pdf
+
+--- SLIDE 1 ---
+Microbiology: Skin and
+Mucous Membrane Infections
+Dr. Carl J. Abraham, Jr.
+Clinical Medicine
+cabrah04@nyit.edu
+Wilson Hall 424C
+Office of Academic Affairs
+--- SLIDE 2 ---
+• Session Objectives:
+1.Describe the roles of microbial virulence factors
+and host defense mechanisms play in the
+prevention of or development of skin and mucous
+membrane infections.
+2.Describe common medically important pathogens
+that cause skin and mucous membrane infection.
+3. Diagnose pathogens causing skin and mucous
+membrane infections.
+• Connections
+• ScholarRx: Bacterial Infections of the Skin
+Source: Course Syllabus
+--- SLIDE 3 ---
+Normal Flora of the Skin
+• Gram positives:
+• Staphylococcus aureus (30-60%), S. epidermidis (~100%)
+• Streptococcus pyogenes (Group A Streptococcus [GAS])
+• Diptheroids: Corynebacterium and Propionibacterium spp.
+• Gram negatives: Proteus & Pseudomonas spp.
+(transient)
+• Fungi: Candida albicans, dermatophytes
+--- SLIDE 4 ---
+Staphylococci catalase decomposes toxic hydrogen peroxide
+2 H 0 2 H 0 + O
+2 2 2 2
+• Gram-positive catalase positive, non-motile cocci
+• 0.5 – 1.5 μm diameter
+• Grows well on blood agar,
+high NaCl (10%) 18-40o C
+• Does not grow on MacConkey
+• Facultative anaerobe
+• May be sensitive or resistant to methicillin
+• e.g., MRSA = methicillin-resistant Staphylococcus aureus
+--- SLIDE 5 ---
+Staphylococcus aureus
+• Coagulase positive, beta hemolytic on blood agar
+• Key virulence factors
+• Coagulase converts fibrinogen to fibrin, clots and
+a fibrin shield inhibiting phagocytosis
+• Capsule inhibits opsonization and phagocytosis,
+protects from C’-medidated leukocyte destruction
+• Protein A binds IgG1, IgG2, IgG4 Fc receptors, inhibits
+opsonization, phagocytosis, leukocyte
+chemoattractant, anticomplement
+• Catalase prevents oxidative killing by immune cells
+• Hyaluronidase, fibrinolysin, lipase, nuclease
+• Penicillinase opens beta lactam ring inactivating
+penicillin
+• Cytolytic & exfoliative toxins, TSST, enterotoxin
+--- SLIDE 6 ---
+Staphylococcus aureus: Skin Diseases
+• Furuncle (boil): infected hair • Scalded skin syndrome
+follicle
+• Usually small children
+• Spreading local inflammation blisters,
+• Carbuncle: coalesced
+carbuncle
+peeling of squamous epithelium,
+cluster of furuncles
+recovery
+• Impetigo: skin infection via • Nickolsky sign: apply horizontal pressure
+to skin adjacent to lesion results in sheering
+cut or scrape, toxin- Click to see larger picture
+off of top layers of epidermis
+mediated keratin
+separation, flaccid blisters
+• Pyogenic wound infection
+--- SLIDE 7 ---
+Staphylococcus aureus: Other Diseases
+• Bloodstream infection • Toxic shock syndrome
+• Sepsis, septic shock • Superantigen stimulates T-cell
+proliferation, cytokine production,
+• Acute endocarditis
+endothelial destruction, capillary
+• Pneumomia leak, shock, multiorgan failure
+• Strawberry tongue
+• Empyema
+• Diffuse, erythematous rash
+• Osteomyelitis
+• Septic arthritis
+--- SLIDE 8 ---
+Coagulase-negative Staphylococci
+• Catalase-positive, coagulase-negative,
+novobiocin-sensitive, no hemolysis on blood agar
+• Staphylococcus epidermidis
+• Opportunistic pathogen
+• Slime layer facilitates adherence to foreign bodies (prosthetic joints,
+heart valves, intravenous catheters)
+• Staphylococcus saprophyticus
+• UTI (cystitis) in sexually active women
+--- SLIDE 9 ---
+Streptococci
+• Gram-positive, non-motile cocci in pairs and chains,
+0.5-1.2 μm
+• Catalase-negative, facultative anaerobic, range from
+strict anaerobics to capnophilic (use CO for growth)
+2
+• Mechanical factors • Erythrogenic toxin (scarlet
+fever rash)
+• Polysaccharide capsule
+antiphagocytic • Enzymes
+• Hyaluronic acid in GAS • Streptolysin O (causes beta-
+• M protein (GAS) hemolysis)
+antiphagocytic,
+• Streptolysin S
+superantigen
+• Streptokinase (A&B)
+• F protein banh1 agar_BAP_hemolysis_alpha betahemolysis100
+• DNAse (A-D)
+• Lipoteichoic acid
+• C5a peptidase
+• T protein
+• Others
+• Toxins
+• Pyrogenic exotoxins Gamma: no Alpha: Incomplete Beta: complete
+hemolysis (causes green zones) (causes clear zones)
+--- SLIDE 10 ---
+Exudative pharyngitis (usually GAS)
+• Sore throat, fever
+• Diagnosis: rapid antigen, culture if
+negative, anti-streptolycin-O
+antibodies (ASO)
+• Treatment: penicillin (1st line), amoxicillin,
+cephalexin, (anaphylaxis to PCN: clindamycin,
+clarithromycin)
+--- SLIDE 11 ---
+Streptococcal Skin Diseases
+• Impetigo • Cellulitis
+• Similar to staphylococcal impetigo, but bullae are • Rapidly spreading, painful, erythematous skin and
+tense and have gold crusts subcutaneous tissue infection
+• Scarlet fever • May result in bloodstream infection, endocarditis
+• High fever, sore throat, sandpaper rash • Necrotizing fasciitis
+• Erythrogenic toxin gene encoded by lysogenic • Rapidly advancing erythematous, warm bullae,
+bacteriophage) crepitus (gas in tissues) and dusky skin
+discoloration
+• Erysipelas
+• Intensely painful skin and soft tissue infection
+• Acute, rapidly progressing, superficial skin
+associated with fever, tachycardia, sepsis
+infection
+• May result in septic shock
+• Bright red, warm, tender, sharply demarcated
+plaque with raised borders • Requires emergent surgical debridement
+• Toxic shock syndrome
+• Similar to staphylococcal toxic shock
+--- SLIDE 12 ---
+Streptococci: Non-skin MM diseases
+• Pneumonia (S. pneumoniae)
+• Meningitis
+• Post-streptococcal sequelae (GAS)
+• Rheumatic fever (GAS pharyngitis
+or scarlet fever)
+• Post-streptococcal acute glomerulonephritis (GAS
+pharyngitis)
+--- SLIDE 13 ---
+Other Clinically Important Streptococci
+• Streptococcus agalactiae
+• Neonatal bloodstream infection and meningitis
+• Post-partum sepsis (colonizes birth canal)
+• Streptococcus pneumoniae
+• Pneumonia, sinusitis, otitis media, meningitis, bloodstream
+infection, sepsis
+• Viridans streptococci
+• Endocarditis, dental infections
+--- SLIDE 14 ---
+Pseudomonas aeruginosa
+• Gram-negative, motile, oxidase-positive, non-lactose fermenting bacillus
+• Colorless colonies on MacConkey agar
+• Ubiquitous in moist environments
+• Cell wall lipopolysaccharide (LPS) acts as an endotoxin resulting in sepsis
+• Exotoxin A and esoenzyme S inhibit protein synthesis
+• Infections of burns, surgical wounds, cystic fibrosis, ecthyma gangrenosum in
+neutropenia
+--- SLIDE 15 ---
+Propionibacterium acnes
+• Gram-positive, small,
+anaerobic (aerotolerant)
+• Colonizes skin, conjunctiva, external
+ear, oropharynx
+• Major cause of acne in young adults
+• Combines with sebum to stimulate host
+inflammatory response causing acne tissue damage
+--- SLIDE 16 ---
+Actinomyces isrealii
+• Gram-positive, elongated rods
+develop filamentous forms
+• Colonize URT, granulomatous
+sinusitis, lumpy jaw, pelvic/
+intrauterine abscess
+• Infection associated with sulfer
+granules
+--- SLIDE 17 ---
+Mycobacterium ulcerans: Buruli ulcer
+• Acid fast bacillus related to M. tuberculosis
+• Tropical Africa and Asia
+• Associated with aquatic environments
+• Large, erythematous ulcer
+--- SLIDE 18 ---
+Parvovirus B19 (Fifth Disease)
+• Non-enveloped, icosahedral,
+single-stranded, linear DNA virus
+• Causes erythema infectiosum
+• Childhood febrile illness
+• Slapped-cheek rash
+--- SLIDE 19 ---
+Thank you for reviewing and good luck!
+• Summary
+1. The normal flora of the skin is predominantly Gram-positive
+staphylococci and streptococci
+2. Skin flora and pathogens can cause various infections of the skin as well
+as toxin-mediated illness
+3. Biochemical tests can help identify pathogens to direct therapy
+• Feedback

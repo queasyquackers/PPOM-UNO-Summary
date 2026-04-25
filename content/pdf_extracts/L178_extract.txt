@@ -1,0 +1,1414 @@
+SOURCE: Lecture # 178. L. Goldstein, Pharm.D. (PPT).pdf
+
+--- SLIDE 1 ---
+Pharmacology of Antifungal Agents
+Leslie Goldstein, Pharm.D.
+Associate Professor of Pharmacology
+Department of Clinical Specialties
+lgolds01@nyit.edu
+--- SLIDE 2 ---
+I am available to groups and individuals for pharmacology
+help and discussions by appointment.
+lgolds01@nyit.edu
+--- SLIDE 3 ---
+Following this session, students should be able to:
+1. PK: Apply the pharmacokinetic profiles of the various systemic antifungal agents to their
+clinical relevance in optimizing therapy for the individual patient when given a case
+vignette.
+2. Mechanisms: Compare the mechanisms of action and mechanisms of resistance of the
+various classes of antifungal agents using specific examples.
+3. Therapeutic uses: Correlate the therapeutic uses with the antifungal spectrums and
+resistance patterns using specific examples.
+4. Adverse effects: Relate the common and potentially serious adverse effects and
+precautions of the various antifungal agents to the management of antifungal therapy when
+given a case vignette.
+5. Drug interactions: Explain the mechanisms and potential impact of drug interactions
+involving specific antifungal agents on the management of antifungal therapy in the individual
+patient using specific examples.
+3
+--- SLIDE 4 ---
+Preparation Materials
+Required
+• Practice Questions
+Optional materials:
+• Video lecture  Dr. Goldstein’s Notes Handout  ScholarRx Bricks  Guided Reading
+Questions
+• Textbooks and Examination Review Books (please see next slide)
+SUGGESTIONS:
+• Use the resources that work best for you.
+• You do not need to study all of them. (ScholarRx Bricks & Practice Questions are
+required.)
+• Working through the GUIDED READING QUESTIONS with pen/pencil and paper may
+help you recall what you have learned.
+Try answering them in your OWN WORDS first without looking at the readings, and then
+again after reviewing.
+• Practice questions (not graded): Simple Recall and Case Vignettes
+4
+--- SLIDE 5 ---
+Links
+Scholar Rx Brick:
+Name of Discipline/ Organ System: General Microbiology > Antimicrobial Agents > Antifungal Drugs
+Title of Brick(s): Drugs to Treat Fungal Infections
+Link(s): https://exchange.scholarrx.com/brick/drugs-to-treat-fungal-infections
+Access Medicine Katzung’s Basic & Clinical Pharmacology 16e, 2024: Chapter 48: Antifungal Agents
+https://accessmedicine-mhmedical-
+com.nyit.idm.oclc.org/content.aspx?bookid=3382&sectionid=281755133
+Access Medicine Katzung’s Pharmacology: Examination & Board Review 14e, 2024: Chapter 48:
+Antifungal Agents
+https://accessmedicine-mhmedical-
+com.nyit.idm.oclc.org/content.aspx?bookid=3461&sectionid=285598727
+LWW Health Library, Premium Basic Sciences: Lippincott’s Illustrated Reviews: Pharmacology, 8e,
+2022; Chapter 33: Antifungal Drugs
+https://premiumbasicsciences-lwwhealthlibrary-
+5
+com.nyit.idm.oclc.org/content.aspx?sectionid=253329130&bookid=3222
+--- SLIDE 6 ---
+Key points
+• Fungi are eukaryotic, with rigid cell walls composed mainly of fibrillar polysaccharides, largely
+β-1,3-glucan and chitin, that bind covalently to each other and to proteins. The fungal cell
+membrane contains ergosterol rather than the cholesterol, as in mammalian cells.
+• Fungal diseases are called mycoses and are often chronic infections. They may involve only
+the skin extending into the epidermis or may cause subcutaneous or systemic infections.
+• Clinical response to antifungal treatment can be lengthy because fungi are complex slow-
+growing organisms with thick walls often embedded deep in tissues.
+• Patients with chronic immune suppression due to organ transplantation, cancer chemotherapy,
+or HIV infection are susceptible to opportunistic fungal infections. Morbidity is high in
+immunosuppressed patients.
+• Targets of antifungal drugs include components of the cell wall, ergosterol in the membrane,
+and nuclear functions.
+• Drugs for the treatment of systemic mycoses include the polyene antifungals, azole antifungals,
+and echinocandins.
+• Many azole antifungals and other structurally diverse drugs are used topically for superficial
+fungal infections.
+6
+--- SLIDE 7 ---
+Key points: Targets and Drug Classes
+Polyenes: Amphotericin B and Nystatin: Amphipathic amphoteric molecules
+Bind ergosterol → form pores in the membranes → leakage
+Broad spectrum, Resistance is rare.
+• Amphtericin B: I.V.life-threatening infectionsnephrotoxicity, electrolyte wasting, infusion rxns
+• Lipid / liposomal formulations reduce toxicity.
+• Nystatin: topical only due to severe toxicity, including nephrotoxity, when given IV
+Flucytosine→ 5-FU: Inhibits fungal DNA and RNA synthesis → leads to impairment of protein
+synthesis and fungal cell proliferation
+• Resistance:  uptake by cytosine permease,  conversion to active nucleoside analog by
+cytosine deaminase,  conversion to toxic nucleotides, upregulated pyrimidine synthesis
+• Narrow spectrumoral only, high concentrations in CNSalways used in combination with
+another antifungalbone marrow toxicity
+Azoles (ketoconazole, itraconazole, fluconazole, voriconazole, isavuconazole, posaconazole)
+• Inhibit lanosterol 14-α-demethylase →  ergosterol synthesis in cell membrane → reduces
+membrane permeability, structural integrity, and impairs function
+• Resistance: ERG11 mutations, efflux pumps
+• Broad spectrum (in general) topical treatment of superficial infection, oral/IV systemic infections
+• serum liver enzymes/hepatoxicity, QT prolongation, CYP interactions
+7
+--- SLIDE 8 ---
+Key points: Targets and Drug Classes
+Echinocandins (caspofungin, micafungin, anadulafungin): Inhibit β-1,3-D-glucan → weakened cell
+wall → osmotic influx of water → cell swells → cell ruptures (lysis)
+• Narrow spectrum: Candida spp, Aspergillus IV, poor CNS penetrationlow toxicity, few DDIs
+Terbinafine: Inhibits squalene epoxidase (an early step in ergosterol synthesis) → reduces
+membrane permeability, structural integrity, and impairs function
+• Resistance is rising: mutations in squalene epoxidase gene, efflux pumps
+• Topical use for tinea, cutaneous candidiasissystemically for fungal nail infections
+(onychomycosis)
+• GI discomfort, headache, hepatoxicity, rashCYP2D6 inhibitor, moderate potential for drug
+interactions
+Griseofulvin: Binds microtubules in keratin precursor cells → disrupts the mitotic spindle → inhibits
+fungal cell mitosis
+• Resistance: altered microtubule structure, decreased uptake of drug
+• Narrow spectrum: tinea infections only (skin, hair, nails)
+• Orallong duration of treatmentGI upset, headache,  serum liver enzymescontraindicated
+in pregnancy
+8
+--- SLIDE 9 ---
+From: 33 Antifungal Drugs
+Lippincott® Illustrated Reviews: Pharmacology, 8e, 2023
+Exist as molds in the environment
+and yeasts in the human body
+Legend:
+Common pathogenic organisms of Kingdom Fungi.
+Date of download: 7/17/2023 Copyright © Wolters Kluwer
+--- SLIDE 10 ---
+Clinical response to antifungal treatment can be protracted because fungi are
+complex slow-growing organisms with thick walls often embedded in tissues.
+Opportunistic fungal pathogens Endemic fungal pathogens
+• Candida spp. • Blastomyces: Midwest, south-central,
+southeastern regions
+• Aspergillus spp.
+• Cryptococcus neoformans • Coccidioides: Southwestern US
+• Pneumocystis jirovecii • Histoplasma: Ohio and Mississippi
+River valleys
+• Mucorales order
+− Rhizopus • Paracoccidioides: South America
+The most common
+− Mucor
+causes of human • Sporothrix: worldwide
+− Rhizomucor
+infections in this group
+• others
+− and other species
+❖ Opportunistic fungi are usually residents of the human microbiota or saprophytes in the environment. Candida and
+Aspergillus are the most common infections. Immunodeficient patients are at highest risk of opportunistic infection.
+❖ Endemic fungi are not part of the normal human microbiome. Infection can result from inhalation of spores.
+(Sporothrix is through skin contact typically.) People who live in or travel to geographic areas where certain fungi
+are endemic are at risk for these infections. Weakened immune system or chronic lung disease increases the risk
+of endemic infection.
+❖ The incidence of fungal infections is rising. Morbidity in immunocompromised patients is high.
+10
+--- SLIDE 11 ---
+Ergosterol is the primary
+fungal cell membrane sterol.
+Cholesterol is the primary
+human cell membrane sterol.
+Drug targets
+Cell membrane: Ergosterol
+• Amphotericin B (polyenes)
+• Azoles
+• Terbinafine
+Cell-wall: -glucans
+• Echinocandins
+Nucleic acid synthesis
+• Flucytosine
+Targets of antifungal drugs. Except for flucytosine and griseofulvin (not
+Microtubules
+shown), all currently available antifungals target the fungal cell membrane
+• Griseofulvin
+or cell wall.
+Citation: Chapter 48 Antifungal Agents, Katzung BG, Kruidering-Hall M, Tuan R, Vanderah TW, Trevor AJ. Katzung & Trevor's Pharmacology: Examination & Board Review, 13e;
+2021, Figure 48-1. Available at: https://accessmedicine.mhmedical.com/content.aspx?bookid=3058&sectionid=255307290 Accessed: November 19, 2021
+Slide adapted by LG
+Copyright © 2021 McGraw-Hill Education. All rights reserved
+--- SLIDE 12 ---
+Mechanisms of Resistance to Antifungal Agents
+• Usually develops slowly
+• Fungal cells do not transfer genes among or between species, and they do not express
+enzymes that inactivate antifungal agents.
+The clinically important mechanisms of antifungal drug resistance are:
+1. Target protein alterations due to genetic mutations that reduce binding affinity
+2. Expression of efflux pumps that actively transport drug out of the fungal cell
+Mechanisms vary according to the subclass of antifungal drugs.
+• Candida albicans resistance mechanisms are the most studied.
+• Less is known about Aspergillus and C. neoformans resistance mechanisms.
+• Almost no information on resistance mechanisms of other pathogenic fungi is available.
+12
+--- SLIDE 13 ---
+Amphotericin B
+an amphipathic, amphoteric polyene macrolide
+obtained from the
+bacterium Streptomyces nodosus
+Broad spectrum, fungicidal
+Hydroxyl-rich side – polar – associates with water molecules
+Polyene side – nonpolar – avid association with ergosterol
+• polyene: a hydrocarbon with several carbon–carbon double bonds, especially one having
+a chain of alternating single and double bonds
+• amphipathic: the molecule has both hydrophobic and hydrophilic regions
+• amphoteric: the molecule can act as either and acid or base 13
+--- SLIDE 14 ---
+Pharmacokinetics of Amphotericin B Formulations
+TAKEAWAYS: IV only, highly protein bound, high concentration in tissues, poor penetration into
+CNS, slow elimination, cleared primarily by kidneys, long terminal half-life
+Lipid / liposomal formulations decrease accumulation in kidney tissue → lower nephrotoxicity
+which allows higher dosing and improved tolerability
+Conventional AMB deoxycholate AMB Liposomal / Lipid Complex
+A I.V.; Intrathecal I.V.
+D Amphotericin B is released from deoxycholate in the V increases with higher doses
+d
+bloodstream.
+(increased uptake by tissues)
+ Protein binding 90%
+ Higher concentrations in liver, spleen, and lungs
+ High concentrations in liver, spleen, kidney, bone marrow, than with conventional AMB
+lung
+o Higher concentration→ enhanced effect
+ Lower but sufficient concentrations may be achieved
+ Poor CNS penetration
+inflamed pleura, synovium, and aqueous humor
+ Poor CNS penetration even with inflamed meninges
+H Not metabolized Not metabolized
+Minor excretion in urine Minimal excretion in urine
+No dosage adjustments provided for kidney or liver No dosage adjustments provided for kidney or liver
+impairment impairment (not studied)
+t½ Variable Initial: 15-48 hoursTerminal: 15 days Nonlinear kinetics:
+t½ 100-173 hours following multiple doses
+terminal
+--- SLIDE 15 ---
+TAKEAWAY: This slide and the next are to help you
+Amphotericin B (AMB) Formulations conceptualize and understand AMB formulations.
+They are NOT for memorization.
+Conventional AMB
+The efficacy of the different formulations
+appears to be similar.
+• Amphotericin B is formulated with sodium
+deoxycholate (a bile salt), forming a
+Conventional AMB (C-AMB)
+•
+colloidal suspension that enhances AMB’s
+Liposomal AMB (L-AMB)
+•
+water solubility and stability
+AMB lipid complex (ABLC)
+•
+Liposomal and Lipid Complex AMB
+Liposomal AMB and AMB lipid complex:
+• AMB binds the lipids in the
+Infusion-related toxicity and nephrotoxicity
+lipid vehicles.
+AMB are reduced, which permits use of larger doses
+• AMB affinity is between that compared to conventional AMB.
+Lipid vehicle
+for fungal ergosterol and for
+AMB lipid formulations enhance delivery to the
+human cholesterol
+site of infection while minimizing organ toxicity.
+• The liposomes preferentially attach to the
+Higher doses can improve effectiveness,
+fungal cell wall.
+particularly in severe or resistant fungal
+• The active AMB molecule is released and
+infections.
+transfers to the cell membrane where it can
+15
+exert its activity that leads to cell death. Figure: https://www.vecteezy.com/vector-art/11894710-delivery-truck-icon-clipart-in-
+animated-caartoon-vector-illustration
+--- SLIDE 16 ---
+The putative structure of lipid-based
+formulations of AmB. (By Figdraw).
+• AmB lipid complex (ABLC) has ribbon-like
+structures and consists of AmB complexed
+with two lipids (dimyristoylphosphatidylcholine and
+dimyristoylphosphatidylglycerol, with a molar ratio of
+7:3) in a 1:1 drug-to-lipid molar ratio.
+• Liposomal AmB (L-AmB) is a single bilayer
+liposomal drug delivery system that consists
+of a mixture of specific proportions of
+amphophilic substances (e.g., phospholipids
+and cholesterol) to form closed spherical
+vesicles.
+• AmB deoxycholate consists of amphotericin
+B complexed with deoxycholate, a bile salt,
+forming a micellar suspension to enhance
+solubility.
+Figure - available from: Journal of Neurology
+https://www.researchgate.net/figure/The-putative-structure-of-lipid-based-formulations-of-
+AmB-By-Figdraw-a-AmB-lipid_fig4_377811114
+Figure micelle: Wikipedia By SuperManu - Own work, CC BY-SA 3.0, 16
+Slide adapted by LG
+https://commons.wikimedia.org/w/index.php?curid=2902736
+--- SLIDE 17 ---
+Amphotericin B Antifungal Action
+The amphipathic characteristic facilitates AMB’s avid combination with ergosterol in the fungal cell membrane
+along the double bond-rich side of the drug’s structure and associates with molecules of the polar heads along
+the hydroxyl-rich side. The amphoteric property (acid/base) enhances binding to ergosterol and helps to
+sequester ergosterol, further destabilizing the cell membrane.
+(1)
+AMB associates with
+ergosterol in fungal membrane
+
+forms pores
+
+Ions and other small molecules
+leak out
+plus
+(2) Ergosterol is sequestered further
+compromising membrane integrity
+
+https://drfungus.org/knowledge-base/antifungal-pharmacology/
+fungal cell death
+Acquired Resistance (very rare)
+• Mutations in various ERG genes likely reduces ergosterol concentration in
+Relative selectivity:
+the cell membrane of resistant isolates → reduces susceptibility to AMB.
+AMB binds human membrane sterols,
+• Replacement of ergosterol with precursor sterols → reduces susceptibility
+but less avidly than to ergosterol.
+to AMB.
+--- SLIDE 18 ---
+Amphotericin B Therapeutic Uses
+Aspergillosis Mucormycosis
+• Pulmonary • Rhino-orbital-cerebral and pulmonary
+infections
+• Extrapulmonary
+• High mortality rates
+• Febrile neutropenia
+Cryptococcal meningitis (C. neoformans)
+• Allogeneic bone marrow transplant
+Candidiasis, deeply invasive
+• Ocular (intraocular admin)
+Some species of Aspergillus, Candida, Scedasporium, Fusarium, and causes of chromoblastomycosis are intrinsically resistant.
+AMB is primarily for treatment of patients with progressive and potentially life-threatening
+fungal infections.
+AMB should not be used to treat noninvasive forms of fungal disease such as oral thrush,
+vaginal candidiasis, and esophageal candidiasis in patients with normal neutrophil counts.
+Pregnancy: AMB crosses the placenta and may be found in fetal circulation.
+AMB is recommended for treatment of serious fungal infections in pregnancy.
+18
+--- SLIDE 19 ---
+Aspergillusand Mucorin tissue.
+A: Aspergillushas septate hyphae with V-
+shaped branching.
+B: Mucorhas nonseptate hyphae with
+right-angle branching.
+Figure 50-9
+Aspergillus fumigatus—septate hyphae. Long arrow points to the septate hyphae of Aspergillus. Note the straight
+parallel cell walls of this mold. Short arrow points to the typical low-angle, Y-shaped branching. (Used with
+permission of Prof. Henry Sanchez, University of California, San Francisco School of Medicine.) Figure 50-10
+Citation: Opportunistic Mycoses, Levinson W, Chin-Hong P, Joyce EA, Nussbaum J, Schwartz B. Review of Medical Microbiology & Immunology: A Guide to Clinical Infectious
+Diseases, 15e; 2018. Available at: https://accessmedicine.mhmedical.com/ViewLarge.aspx?figid=208185545&gbosContainerID=0&gbosid=0&groupID=0 Accessed: October 30,
+19
+2019
+Copyright © 2019 McGraw-Hill Education. All rights reserved
+--- SLIDE 20 ---
+20
+--- SLIDE 21 ---
+WHAT YOU NEED TO KNOW:
+Example of Antifungal Treatment Regimen:
+Induction, Consolidation, Maintenance,
+Treatment of Cryptococcal Meningitis
+the drugs being used and why
+Amphotericin B: First-line in combination with flucytosine (patients with or without AIDS)
+Liposomal AMB or AMB lipid complex I.V. 1x daily
+PLUS
+Flucytosine (oral) q6h x 2-4 wks or until afebrile and CSF cultures are negative
+INDUCTION
+− Monitor / manage intracranial pressure
+phase
+− For HIV/AIDS patients, deferring ART for 5 weeks after initiation of therapy
+significantly improved survival compared to starting ART during the first 2
+weeks.
+ART=Antiretroviral therapy
+CONSOLIDATION
+Fluconazole 400-800 mg 1x daily for 8 weeks (non-AIDS) / 10 weeks (AIDS)
+phase
+MAINTENANCE Fluconazole 200mg 1x daily to prevent relapse 6-12 months (non-AIDS)
+phase ‒ For HIV/AIDS patients, discontinuation of therapy may be considered in
+(suppression) patients who remain asymptomatic, with CD4 cell count >100 cells/mm3 on ART
+The Sanford Guide to Antimicrobial Therapy, 52e, 2022; Table 11A (6): Cryptococcosis (IDSA Guideline: CID 50:291; 2010
+21
+--- SLIDE 22 ---
+(a)T2-weighted MR image of a
+patient with cryptococcal meningitis
+with bilateral infarctions in the
+caudate nuclei (white arrows).
+(b) T1- weighted MR image of a
+patient with toxoplasmosis.
+Arrows illustrate the frank lesions as
+well as edema (dark hypointense
+area surrounding the bright ringed
+lesion) resulting from injury.
+https://www.researchgate.net/figure/aT2-weighted-MR-image-of-a-patient-with-cryptococcal-meningitis-with-bilateral_fig3_49792340
+22
+--- SLIDE 23 ---
+Cryptococcus neoformans seen as encapsulated Cryptococcal meningitis.
+yeast on India ink preparation of the CSF from an
+This high-power photomicrograph of the
+HIV patient with cryptococcal meningitis.
+meninges, stained with mucicarmine, highlights
+encapsulated and budding yeast forms.
+The capsule of Cryptococcus neoformans stains
+with mucicarmine (arrows).
+The Atlas of Emergency Medicine, 3e, 2010; Figure 20-17
+Pathology, The Big Picture Figure, 2008; Figure 11-24
+(Photo contributor: Seth W. Wright, MD.)
+(Photo contributor: Seth W. Wright, MD.)
+23
+--- SLIDE 24 ---
+Amphotericin B Toxicities
+AMB therapy is often limited by toxicity, especially drug-induced renal impairment.
+➢ AMB lipid formulations reduce infusion reactions and nephrotoxicity.
+Toxicity Comments
+Nephrotoxicity Azotemia High serum levels of nitrogenous wastes products
+occurs in nearly all patients.
+Acute kidney injury  renal perfusion →  glomerular filtration rate (GFR)
+Renal tubular acidosis K+ and Mg2+ wasting occur
+Hydration with normal saline infusions is recommended.
+Hematologic • Anemia  erythropoietin production (by specialized kidney cells)
+Infusion-related • Fever, chills, rigor, vomiting, headache, malaise, hypotension, tachypnea
+• Thrombophlebitis
+• Premedication with acetaminophen, antihistamine, glucocortoicoid, meperidine
+may be helpful.
+Intrathecal • Headache, fever common; arachnoiditis, delirium, seizures possible
+24
+--- SLIDE 25 ---
+Check your knowledge
+What are the advantages of liposomal AMB and AMB lipid complex compared to AMB deoxycholate?
+• Infusion-related toxicity and nephrotoxicity are reduced, which permits use of larger doses
+compared to conventional AMB.
+• AMB lipid formulations enhance delivery to the site of infection while reducing organ toxicity.
+• Higher doses can improve effectiveness, particularly in severe or resistant fungal infections.
+What is AMB’s mechanism of antifungal action?
+• AMB associates with ergosterol in fungal membrane causing pores to form. Cations and other small
+molecules leak out.
+• Ergosterol is sequestered further compromising membrane integrity, leading to fungal cell death.
+What are the toxicities associated with AMB administration?
+• Infusion reactions, nephrotoxicity (azotemia, acute kidney injury, renal tubular acidosis), and anemia
+(impaired EPO synthesis)
+25
+--- SLIDE 26 ---
+Check your knowledge
+What physical properties of the amphotericin B molecule are probably important for its fungus-killing activity?
+• The amphipathic property allows the drug to interact with both hydrophilic polar head groups of the cell
+membrane and hydrophobic membrane core and ergosterol embedded in the membrane.
+• The amphoteric property (acid and base functional groups) enhances binding to ergosterol and helps to
+sequester ergosterol, further destabilizing the cell membrane.
+What accounts for its relatively selective toxicity against fungi?
+• AMB affinity for ergosterol in fungal membranes is many time greater than its affinity for cholesterol in
+mammalian membranes.
+What are the likely mechanisms of resistance?
+• Reduced concentrations of ergosterol due to mutations in various ERG genes or replacement with sterol
+precursors. Resistance to AMB is rare.
+AMB is an important therapeutic for what patients and infections?
+• AMB is primarily for treatment of patients with progressive and potentially life-threatening fungal
+infections.
+• AMB should not be used to treat noninvasive forms of fungal disease such as oral thrush, vaginal
+candidiasis, and esophageal candidiasis in patients with normal neutrophil counts.
+26
+--- SLIDE 27 ---
+Flucytosine (5-FC)
+fluorinated pyrimidine analog
+converted to 5-fluorouracil (5-FU) in fungal cells
+Cytosine Uracil
+5-FC 5-FU
+Flucytosine
+27
+Deamination of 5-FC: https://commons.wikimedia.org/wiki/File:Deamination_5-Fluorocytosine_to_5-Fluorouracil.svg
+--- SLIDE 28 ---
+Flucytosine (5-FC) Pharmacokinetics
+PK Oral (prodrug); rapid, good absorption, bioavailability ~90%, good CSF penetration, intracellular
+deamination in yeasts and certain gut bacteria to active 5-FU; urine excretion of 5-FC (renal dosing
+adjustments are necessary); t½ 3-6h, up to 200h in renal failure; admin q6h
+• AMB is nephrotoxic
+MOA Inhibits RNA and DNA synthesis (See next slide.) in many patients.
+Resistance emerges rapidly during therapy when the drug is used alone.
+• 5-FC dose must be
+• Loss of cytosine permease transporter
+adjusted in renal
+•  Cytosine deaminase activity or uPRT activity
+insufficiency.
+• 5-FC toxicities are
+Activity Fungistatic
+concentration-
+Narrow spectrum: Cryptococcus neoformans, Candida some species, most fungi that
+dependent.
+cause chromoblastomycosis, and some dematiaceous (darkly pigmented) fungi
+Uses Cryptococcus meningitis and selected invasive candidiasis
+5-FC has additive or synergistic effect with AMB (in vitro testing).
+AE Well tolerated when renal function is normal
+Certain bacteria in the
+Concentration-dependent adverse effects:
+gut microbiome
+• Heme: leukopenia, thrombocytopenia
+convert 5-FC to 5-FU,
+• Liver: elevated liver function enzymes (AST/ALT); liver necrosis reported which is absorbed and
+• GI: nausea, vomiting diarrhea can cause host cell
+toxicity.
+Pregnancy: adverse events seen in animal reproduction studies 28
+--- SLIDE 29 ---
+Flucytosine Mechanism of Action
+• Entry: fungal cell uptake via cytosine permeases
+• Activation: Deamination in fungal cell to 5-FC → 5-FU 5-FC
+uPRT
+Antifungal action: Activation by cellular kinases
+1. RNA: 5-FUTP incorporation into RNA → reduces RNA synthesis
+and, therefore, protein synthesis
+2. DNA: 5-FUMP → 5-FdUMP → potent thymidylate synthase inhibition
+→ reduces DNA synthesis
+Selectivity for fungal cell:
+Human cells lack cytosine permease, cytosine deaminase, and uracil
+phosphoribosyltransferase (uPRT) activity.
+Left figure: https://www.researchgate.net/figure/Metabolism-of-flucytosine-The-prodrug-gets-converted-to-5-fluorouracil-by-the-fungal_fig7_369346867
+29
+Right figure: Goodman & Gilman’s The Pharmacological Basis of Therapeutics, 14e, 2023; Chapter 61: Antifungal Agents (Figure 61-3)
+--- SLIDE 30 ---
+Check your knowledge
+What is the basis of flucytosine’s selectivity?
+• Mammalian cells cannot activate 5-FC as they do not have cytosine permease or cytosine
+deaminase.
+What is the basis of flucytosine’s toxicity?
+• Intracellular conversion to toxic 5-FU in fungal cell
+How does flucytosine induce cellular cytotoxicity?
+• 5-FUTP incorporation of FUTP into RNA → RNA synthesis
+• 5-FdUMP inhibits thymidylate synthase →  DNA synthesis
+What are the therapeutic uses of 5-FC and why?
+• Narrow spectrum of activity
+• Cryptococcal meningitis with AMB and selected invasive candidiasis with AMB.
+• Oral, crosses BBB; rapid development of resistance when used alone
+What are major adverse effects of 5-FC and how can they be reduced?
+• Well tolerated when renal function is normal – Adverse effects are concentration-dependent
+• Leukopenia, thrombocytopenia / elevated liver function enzymes (AST/ALT) / nausea, vomiting
+diarrhea
+• Monitor renal function
+30
+--- SLIDE 31 ---
+Azole
+Antifungals
+Azoles
+31
+--- SLIDE 32 ---
+Azole Antifungal Agents
+Broad spectrum of activity  Fungistatic
+Some azoles appear to fungicidal against Aspergillus spp.
+For Systemic Use Topical Products
+Itraconazole Clotrimazole
+s
+Fluconazole
+Ketoconazole
+e
+l
+o • Butoconazole
+Voriconazole
+z
+I
+a • Miconazole m
+i Posiconazole
+r
+i
+T • Econazole d
+a
+Isavuconazole
+(Prodrug: Isavuconazonium)
+• Luliconazole z
+o
+Oteseconazole l
+• Oxiconazole e
+s
+Oteseconazole is a tetrazole antifungal drug for oral
+• Sertaconazole
+treatment of recurrent vulvovaginal candidiasis.
+• Sulconazole
+Ketoconazole
+• Tiaconazole
+Because of its toxicity, oral ketoconazole has been
+• Terconazole
+replaced by systemic triazole antifungals.
+• Efinaconazole
+32
+--- SLIDE 33 ---
+TAKEAWAYS: Low protein binding → diffusion across BBB.
+Pharmacokinetics of Azole Antifungal Agents Bioavailability and t½ vary. Extensive hepatic metabolism (most
+drugs). Inhibition of CYP3A4 (and others).
+Route CSF Elimination / substrate t Drug
+1/2
+Bioavailability Penetration CYP inhibition (hours) Interactions
+Itraconazole Oral No Hepatic / CYP3A4 24-42
+H
+i
+Variable* CYP3A4, P-gp
+g
+h
+Fluconazole Oral, IV Yes Renal / minor hepatic 22-31
+p
+o
+>90% ~80% unchanged (urine)
+t
+e
+CYP2C19, 2C9, 3A4 n
+t
+i
+Voriconazole Oral, IV Yes Hepatic CYP2C19, 2C9, 3A4 6 a
+l
+f
+96% CYP3A4, 2C9
+o
+r
+Posaconazole Oral, IV No Minimal (~17% by UGT) 25 d
+r
+u
+Variable* excreted unchanged (feces)
+g
+CYP3A4, P-gp i
+n
+t
+Isavuconazole Oral, IV limited Hepatic / CYP3A4, UGT 130 e
+r
+a
+98% data CYP3A4, P-gp
+c
+t
+i
+Ketoconazole Oral No Hepatic 7-10 o
+n
+Variable* CYP3A4, P-gp s
+*Itraconazole, Posaconazole, Ketoconazole: acid environment for optimal absorption
+33
+Bold: strong inhibitors
+--- SLIDE 34 ---
+Azole antifungal action:
+Inhibition of 14--demethylase inhibits ergosterol biosynthesis
+14- demethylase (CYP51) is an enzyme expressed by ERG11 gene.
+Azole antifungals bind the iron in the heme group.
+heme
+squalene → → lanosterol 14-α-demethylase →… → ergosterol
+Resistance:
+azole antifungals
+1. Modifications of target enzymes
+Mutation in ERG11 gene →  binding of
+the azole to 14-α-demethylase and
+Azole antifungals block conversion of lanosterol to ergosterol,
+which decreases ergosterol concentration in fungal cell allows access of the natural substrate,
+membranes, inhibiting cell membrane formation lanosterol (observed in C. albicans).
+and
+2. Efflux pumps transport the azole out
+Accumulation of toxic 14-methylated sterols (intermediates) disrupts
+of the fungal cell.
+the integrity and function of the fungal cell membrane.
+3.  Production of lanosterol, which
+outcompetes the drug at the catalytic
+growth arrest
+site.
+At high concentrations, as can be achieved with topical application,
+some azoles directly increase fungal plasma membrane
+permeability.
+34
+Figure: https://creation.com/cells-heme
+--- SLIDE 35 ---
+Summary of azole antifungals spectrums of activity (susceptible fungi)
+Itraconazole Fluconazole Voriconazole Posaconazole Isavuconazole
+Aspergillosus ✓ ⎯ ✓ ✓ ✓
+Candidiasis ✓ ✓ ✓ ✓ ✓
+C. neoformans ✓ ✓ ✓ ✓ ✓
+Mucormycosis ⎯ ⎯ ⎯ ✓ ✓
+Dimorphic fungi ✓  ✓  
+Onychomycosis ✓    
+Tinea ✓ ✓   
+⎯ No activity
+ Less effective for these fungal infections than other options.
+ Effective but reserved for infections that can’t be treated with standard therapy.
+Tinea = Dermatophytosis
+TAKEAWAY: The spectrum of action directly influences usefulness in treatment specific infections.
+Remember to think about risks of resistance and adverse effects for the individual patient. 35
+--- SLIDE 36 ---
+TAKEAWAYS:
+Azole Antifungals Therapeutic Uses (susceptible fungi)
+Spectrums of action→uses, drug of choice, CNS penetration
+Itraconazole Fluconazole Voriconazole Posaconazole Isavuconazole
+Broadest spectrums of the azole antifungals.
+Good CNS Good CNS
+Broad spectrum Generally reserved for patients refractory to or
+penetration penetration
+intolerant of first-line drugs.
+Drug or choice for Initial choice for Drug of choice for Treatment of invasive Treatment of
+dimorphic fungi • Cryptococcal invasive infections infections invasive infections
+• Blastomycosis meningitis • Aspergillosis • Aspergillosis • Aspergillosis
+• Sporotrichosis consolidation and • Candidemia, • Mucormycosis, oral • Mucormycosis
+• Histoplasmosis maintenance including step down therapy Alternative for
+• Coccidiomycosis phases fluconazole-resistant • Oropharyngeal • Cryptococcal
+• Paracoccidioidomycosis • Candidemia • Disseminated candidiasis meningitis
+• Mucocutaneous Candida infections • Salvage therapy for (maintenance and
+Alternative for:
+candidiasis • Cryptococcal invasive fungal consolidation)
+• Onychomycosis
+• Coccidioidomycosis meningitis infections ISA penetrates brain
+(second to terbinafine)
+(alternative for parenchyma.
+• Tinea infections
+fluconazole)
+• Esophageal
+No activity against
+refractory to topical
+• Serious infections by candidiasis
+aspergillosis or
+antifungal treatment
+dimorphic fungi
+mucormycosis
+• Aspergillosis Posaconazole and isavuconazole are the only
+• Candidasis azoles with in vitro activity against Mucorales.
+Itraconazole, voriconazole, posaconazole and isavuconazole are also used for prophylaxis of invasive fungal infections in
+36
+hematologic malignancy, hematopoietic stem cell transplant, and solid organ transplant patients.
+--- SLIDE 37 ---
+Azole antifungals: Class adverse effects
+Monitor for signs and symptoms; Monitor blood levels as appropriate.
+System Class effects unless otherwise indicated (not a complete list)
+GI The most common side effect: Nausea, abdominal pain
+Hepatotoxicity Ranges from asymptomatic increase in serum hepatic enzymes (AST/ALT) to liver failure (rare)
+Cardiac Prolongation of QT interval → torsades de pointes → ventricular arrhythmias.
+Peripheral neuropathy Most common with itraconazole
+Neurological
+Voriconazole and posaconazole
+Onset: 1 to 18 months Also occurs with voriconazole and posaconazole
+IV formulated with cyclodextrin
+Immediate: urticaria, angioedema, anaphylactic shock
+can accumulate in renal
+Hypersensitivity Delayed: Range from rash to severe cutaneous reactions (SJS/TENS)
+insufficiency and acute kidney
+reactions Serum sickness, and others
+injury.
+Photosensitivity
+Pregnancy Avoid – may cause fetal harm. Use only if benefit to mother outweighs risk to fetus.
+Drug interactions • CYP3A4-related: Co-administration with many drugs metabolized by CYP3A4 is
+High potential contraindicated.
+• QT interval prolongation: Drugs that prolong QT interval or patients with long QT syndrome may
+cause torsades de pointes (ventricular arrhythmias)
+• pH-related: Ketoconazole, itraconazole caps, posaconazole require acidic environment (with food
+37
+or acidic carbonated beverage, eg, ginger ale); some should be taken on an empty stomach.
+--- SLIDE 38 ---
+Azole antifungals: Drug-specific adverse effects
+Itraconazole • Congestive heart failure Itraconazole is contraindicated in patients with heart failure.
+Voriconazole • Ophthalmic effects: Blurred vision, optic neuritis, vision color changes, scleritis
+• Peripheral neuropathy reported: May be rapid, debilitating, irreversible
+• Encephalopathy, hallucinations may occur with IV administration (high concentrations)
+• Periosteal disease: Voriconazole is trifluorinated; F− is integrated into extracellular matrix.
+Metabolic-related effects: Proposed mechanisms
+Adrenal suppression
+• Ketoconazole: strong inhibitor of steroidogenesis
+• Itraconazole and posaconazole: Effects on steroidogenesis are milder and occur less frequently.
+Inhibition of 17-alpha hydroxylase (CYP17) and C17,20 desmolase suppresses steroidogenesis.
+• Suppression of androgen synthesis leads to oligospermia, gynecomastia, menstrual irregularities (estrogens are
+derived from androgens), and decreased libido.
+Inhibition of 11- hydroxylase (CYP11A1) decreases glucocorticoid and mineralocorticoid synthesis.
+• Cortisol and aldosterone synthesis are suppressed
+Pseudohyperaldosteronism with hypertension and hypokalemia:
+Itraconazole and posaconazole: More frequently observed
+Azoles may inhibit the enzyme that inactivates cortisol, 11--hydroxysteroid dehydrogenase type 2, which is found in
+aldosterone-sensitive tissues.
+Like aldosterone, cortisol activates mineralocorticoid receptors → sodium and water reabsorption, which raises blood
+pressure, and causes potassium loss.
+38
+Fluconazole, voriconazole, isavuconazole: Low potential for adrenal suppression and pseudohyperaldosteronism.
+--- SLIDE 39 ---
+➢ When prescribing oral azole antifungal therapy, certain precautions should be
+considered and recommendations should be made to the patient.
+1. The patient’s concomitant drugs and comorbid conditions in view of the high potential for
+drug interactions.
+2. The patient’s risk of ventricular fibrillation in view of the drug’s QT interval prolonging effects.
+3. Food?: Take with food (for gastric acidity) or take on empty stomach?
+4. Patient education about the symptoms and signs of potential side effects (class and drug-
+specific effects) and hypersensitivity reactions.
+5. The importance of monitoring: liver function studies and therapeutic drug levels as
+appropriate.
+39
+--- SLIDE 40 ---
+Check your knowledge
+Which drug is first line for treatment of fungal infections by dimorphic fungi?
+• Itraconazole
+Which drug is first line for consolidation and maintenance of cryptococcal meningitis?
+• Fluconazole
+• Alternatives are voriconalzole, posaconazole and isavuconazole (isavuconozium is the prodrug).
+• Initial therapy regimen is amphotericin B + flucytosine
+Which drug is the preferred initial treatment for invasive aspergillosis?
+• Voriconazole
+Which drug is an alternative for the initial treatment of invasive aspergillosis in a patient with optic neuritis or
+peripheral neuropathy?
+• Posaconazole or isavuconazole and they are better tolerated than voriconazole.
+• Voriconazole can cause ocular, neurological, and severe dermatologic toxicities.
+Which drugs are used as step-down therapy for mucormycosis?
+• Posaconazole and isavuconazole
+• Amphotericin B is the preferred initial therapy.
+Which oral drug is first line for vulvovaginal candidiasis?
+• Fluconazole 40
+--- SLIDE 41 ---
+Check your knowledge
+What adverse effects can occur with all of the azole antifungals?
+• Minor GI disturbances (eg nausea, diarrhea);  serum aminotransferases (hepatic enzymes), hepatitis
+(rare); prolongation of QT interval; TdP/ventricular arrhythmias; metabolic-related hypokalemia,
+pseudoaldosteronisms and hypertension; immediate and delayed hypersensitivity reactions
+Which azole antifungal should be avoided in patients with a history of heart failure?
+• Itraconazole has negative inotropic effects (reduced force of contraction) and can worsen heart failure
+AND it is associated with new heart failure and with new and worsening hypertension. Metabolic-related
+effects observed more often than with other triazoles – except posaconazole.
+Which azole antifungal is associated with optic neuritis and other ocular toxicities?
+• Voriconazole: Optic neuritis, scleritis, episcleritis, photophobia
+Which azole antifungal is associated with peripheral neuropathy?
+• Voriconazole: Numbness and tingling in the extremities may be rapidly debilitating and irreversible.
+Encphalopathy is reported.
+Which azole antifungal is most likely to interfere with steroidogenesis?
+• Ketoconazole, an imidazole antifungal that is currently used only topically, has a high risk of adrenal
+suppression due to its strong inhibition of steroidogenesis.
+• Itraconazole and posaconazole have a moderate risk of adrenal suppression.
+• FYI: Cortisol, aldosterone, and the androgen precursors of sex hormones, dehydroepiandrostenedione
+(DHEA) and DHEA sulfate are synthesized in the adrenal cortex. 41
+--- SLIDE 42 ---
+Check your knowledge
+What is the major mechanism of drug interactions with the azole antifungal drugs?
+• CYP inhibition. All azole antifungals are strong CYP3A4 inhibitors, except fluconazole and isavuconazole,
+which both inhibit CYP3A4 but with moderate affinity for the enzyme.
+One of the azole antifungals is cleared renally and excreted unchanged in urine. Which one? What do we
+need to think about in terms of dosing this drug?
+• Fluconazole, 80% of the dose is excreted unchanged in the urine.
+• Dosage adjustment for patients with renal insufficiency.
+• Note: Fluconazole is a strong inhibitor of CYP2C19 and inhibit CYP2C9 and 3A4 with lower affinity.
+Two triazole antifungal drugs are formulated with cyclodextrin to solubilize the hydrophobic drugs for
+intravenous administration. What toxicity can occur in patients with renal insufficiency? What are the two
+drugs?
+• Accumulation of cyclodextrin in patients with renal insufficiency can cause toxicity to the kidney tubular
+cells. The drugs are voriconazole and posaconazole.
+One of the antifungals in this group does not require dosage adjustment for patients with renal insufficiency
+or liver impairment. What is it? Why are dosage adjustments not required?
+• The drug is posaconazole because it is minimally metabolized (~17% by UGT) by the liver, excreted
+unchanged in the feces, and is not cleared through the kidney.
+42
+--- SLIDE 43 ---
+Echinocandins
+-1,3-glucan synthase inhibitors
+Caspofungin
+Micafungin
+Anidulafungin
+Rezafungin
+Echinocandins
+large cyclic peptides linked
+to long-chain fatty acid
+43
+--- SLIDE 44 ---
+Echinocandins Pharmacokinetics Class Properties
+HERE IS HOW TO STATE THE PK PROPERTIES:
+IV only, highly protein bound, extensive tissue distribution but poor CNS penetration, slow hepatic non-
+CYP metabolism, excreted in feces with very little renal clearance → renal dosing adjustment not needed,
+drug-specific half-life
+Echinocandins
+A I.V. only
+D plasma albumin binding (>97%)
+extensive tissue distribution but poor distribution to CSF
+M extensive non-CYP metabolism and spontaneous degradation
+to amino acid components
+E urine / feces primarily as metabolites
+Dose adjustment for renal impairment not required.
+t½ Caspofungin…. 9-11 h, non-linear elimination kinetics
+Micafungin….... 11-15 h, linear elimination
+Anidulafungin.. 24-48 h, linear elimination
+Rezafungin…… ave ~150 h (once weekly dosing), linear elim.
+44
+--- SLIDE 45 ---
+Weakens cell wall → osmotic influx of
+Echinocandins are noncompetitive inhibitors of -1,3-glucan synthase.
+water → cells swells → rupture
+This action disrupts the rigidity, structural
+integrity, and function of the fungal cell wall,
+causing cell death.
+Activity:
+• Narrow spectrum
+• Candida (fungicidal)
+active against azole-resistant Candida spp.
+• Aspergillus (fungistatic)
+Resistance (Candida): rare to date
+Mutation in FKS1/2 gene encoding a protein in
+the glucan synthase complex →  affinity for
+the drugs.
+The fungal cell wall and membrane and the action of echinocandins. The strength of the fungal cell wall is maintained by fibrillar
+polysaccharides, largely β-1,3-glucan and chitin, which bind covalently to each other and to proteins. A glucan synthase complex in the
+plasma membrane catalyzes the synthesis of β-1,3-glucan; the glucan is extruded into the periplasm and incorporated into the cell wall.
+Echinocandins inhibit the activity of the glucan synthase complex, resulting in loss of the structural integrity of the cell wall. The Fks1p
+subunit of glucan synthase appears to be the target of echinocandins, and mutations in Fks1p cause resistance to echinocandins.
+Citation: Chapter 61 Antifungal Agents, Brunton LL, Hilal-Dandan R, Knollmann BC. Goodman & Gilman's: The Pharmacological Basis of Therapeutics, 13e; 2017, Figure 61-5.
+Available at: https://accessmedicine.mhmedical.com/content.aspx?bookid=2189&sectionid=172485840 Accessed: November 19, 2021
+Copyright © 2021 McGraw-Hill Education. All rights reserved
+--- SLIDE 46 ---
+Adverse Effects
+Caspofungin Therapeutic Uses: Serious Infections
+Generally well tolerated
+diarrhea, nausea, abdominal pain
+Invasive
+Candidemia Neutropenic − Phlebitis at infusion site
+Drug Aspergillosis Prophylaxis*
+(fungicidal) fever − Histamine-mediated effects: flushing,
+(fungistatic)
+urticaria, hypotension
+− Hepatic impairment: LFTs; hepatitis
+Caspofungin
+✓ ✓ ✓ ✓ reported.
+adults / peds
+− Cardiotoxicity – low rates reported
+Micafungin
+✓ ✓ ✓ ✓ Pregnancy: May cause fetal harm, based on
+adults / peds
+animal reproduction studies: weigh
+risk/benefit
+Anidulafungin
+✓ ✓ ✓ ✓
+adults / peds Drug interactions: Monitor therapy
+• Caspofungin + Cyclosporine → may 
+Rezafungin effective but
+✓
+each other’s levels → may  toxicity of
+adults not approved
+each
+*Prophylaxis against invasive fungal infections
+• Rifampin and other inducers of clearance
+Patients at risk for invasive fungal infections include acute leukemia
+may increase caspofungin levels.
+(neutropenia and intensive induction therapy) and hematopoietic stem
+• Micafungin + Sirolimus → sirolimus levels
+cell transplantation.
+• All of them may decrease therapeutic
+effects of Saccharomyces boulardii
+probiotic yeast supplement for tx of
+antibiotic-associated C. difficile diarrhea.
+46
+--- SLIDE 47 ---
+Check your knowledge
+What is the fungal cell target of the echinocandins?
+• They inhibit -1,3-glucan synthase complex, which disrupts the integrity of the fungal cell wall, leading to
+cell death.
+What is the spectrum of action of echinocandins?
+• Candida spp (fungicidal); Aspergillosus spp (fungistatic)
+What is the clinical importance of the echinocandins?
+• Treatment and prophylaxis of serious Candida infections; treatment of invasive aspergillosis not
+responsive to other drugs
+What is the effect of drug interactions with concurrently administered drugs?
+• Caspofungin and cyclosporine may increase plasma concentrations of each other increasing the risk of
+hepatotoxicity (echinocandins) and nephrotoxicity (cyclosporine)
+• Micafungin increases sirolimus levels increasing the risk of numerous toxicities.
+• All may diminish the therapeutic effects of Sacharomyces boulardii, a beneficial yeast in the gut
+microbiome.
+• Ibrexafungerp: CYP3A4 inducers (avoid) and inhibitors (caution)
+What are the recommendations for use of glucan synthase inhibitors in pregnancy?
+• Echinocandins: Animal reproduction studies suggest the potential for fetal harm. Use only if benefit to the
+mother outweighs the risk to the fetus.
+47
+--- SLIDE 48 ---
+Systemic Antifungal Drugs for
+Mucocutaneous Infections
+Griseofulvin
+Terbinafine
+Griseofulvin
+Terbinafine
+48
+--- SLIDE 49 ---
+Pharmacokinetics
+Griseofulvin Terbinafine
+• poor oral absorption → low bioavailability • well absorbed from GI tract
+Absorption is improved with microsized and • 40% bioavailability (marked hepatic first-
+ultramicrosized formulations and fatty food. pass effect)
+• deposits in keratin precursor cells of • >99% plasma protein bound
+skin, hair, nails
+• accumulates in skin, nails, and fat
+• concentrates in liver, fat, skeletal muscles
+• Hepatic metabolism via several CYPs
+• extensive hepatic metabolism
+• t½ initial ~12 hours
+• urine (metabolites) and feces
+• t½ steady state 200-400 hrs
+• t½ 9-24 hours
+ not recommended in patients with marked
+renal or hepatic impairment
+49
+--- SLIDE 50 ---
+Griseofulvin accumulates in keratin ⎯Fungistatic⎯
+Griseofulvin Treatment
+Dermatophytoses (tinea) of
+Binds keratin in keratin skin/scalp, hair, and nails
+precursor cells
+Treatment duration 6-18
+months
+Drug-keratin complex is taken up
+by dermatophyte as
+Terbinafine has replaced
+hair/skin/nails are replaced
+griseofulvin for the treatment
+of onychomycosis.
+Griseofulvin binds to
+fungal tubulin
+Interferes with
+microtubule function
+Inhibits fungal cell
+mitosis at metaphase
+50
+--- SLIDE 51 ---
+Terbinafine accumulates in keratin ⎯Fungicidal⎯
+Inhibits squalene epoxidase
+Terbinafine Treatment
+Spectrum: Tinea and Candida
+Drug of choice for
+Prevents ergosterol Accumulation of toxic
+synthesis amounts of squalene • onychomycosis (oral)
+(more effective than griseofulvin and
+itraconazole for fungal infections of
+Squalene accumulation
+Ergosterol depletion fingernails and toenails)
+causes membrane
+destabilizes
+Treatment x3 months
+dysfunction, osmotic
+the membrane.
+stress, impaired function • dermatophytoses (topical) and
+• cutaneous candidiasis (topical)
+Fungal cell death
+51
+--- SLIDE 52 ---
+Adverse Effects and Drug Interactions
+Griseofulvin Low incidence of serious Terbinafine Generally well tolerated
+adverse effects
+• GI effects, headache, rash
+• Headache, GI upset
+• Taste / smell disturbances
+• Rash, photosensitivity
+Rare but serious:
+• Hypersensitivity reactions:
+• Hepatotoxicity
+rashes, serum sickness, hepatitis,
+• Neutropenia
+hematologic effects, lupus-like syndrome
+• Hypersensitivity reactions
+DDIs: CYP inducer
+Rash, SJS/ TEN
+•  Contraceptive levels → contraceptive
+Drug interactions:
+failure
+• minor substrate of several CYPs
+•  Warfarin levels
+• strong inhibitor of CYP2D6
+Contraindications:
+Contraindications:
+• Pregnancy (teratogenic)
+• Chronic or active liver disease
+• Hepatic failure
+• Pregnancy (limited information)
+• Porphyria
+52
+SJS: Stevens Johnson syndrome; TEN: toxic epidermal necrolysis
+--- SLIDE 53 ---
+Review: Compare and contrast griseofulvin and terbinafine.
+ADME Oral, once daily Extensive hepatic metabolism
+G: Take with fatty food Terminal t½:
+G: 9-24 h; T: 200-400 h at steady state
+Mechanism of G: binds microtubules in new keratin and prevents mitosis
+action T: squalene epoxidase inhibitor reducing ergosterol synthesis
+Therapeutic uses Dermatophyte infections
+G: DOC for tinea capitis in children
+DOC: drug of choice
+T: DOC for onychomycosis
+Adverse effects Both generally well tolerated
+GI disturbances, hypersensitivity reactions
+Drug interactions G: CYP inducer
+T: Strong CYP2D6 inhibitor
+Contraindications G: liver failure, porphyria, pregnancy
+T: chronic or acute liver disease, avoid in pregnancy
+53
+--- SLIDE 54 ---
+Topical Antifungal Therapy
+There are numerous topical antifungal products. For your reference, they
+are listed on the following slides.
+• Creams, ointments, solutions, powders, vaginal suppositories
+Topical antifungal are for the treatment of limited superficial infections of
+skin and mucous membranes:
+• Candidiasis, dermatophytoses (tinea), fungal keratitis
+• Penetration into hyperkeratotic lesions is often poor.
+• Numerous topical antifungals are available.
+The products to know by name for this lecture are:
+Azoles Non-Azoles
+ Ketoconazole Nystatin
+Clotrimazole Terbinafine
+54
+--- SLIDE 55 ---
+Topical Antifungals Mechanisms of Action and Spectrums of Activity
+Drug Mechanism of action Spectrum of activity
+Nystatin – Polyene Binds ergosterol forming pores in the Candida only
+plasma membrane
+Azoles 14--demethylase inhibitors Fungistatic
+C. albicans, Dermatophytes,
+Malassezia furfur
+(pityriasis versicolor)
+Allylamines: Squalene epoxidase inhibitors Fungicidal
+Terbinafine, Naftafine Dermatophytes
+Benzylamine: Butenafine Malassezia furfur
+Ciclopirox Chelates trivalent metal ions → inhibits Fungicidal
+metal-dependent enzymes; also blocks C. albicans, Dermatophytes,
+intracellular transport, which disrupts DNA, Malassezia furfur
+RNA, protein synthesis
+Tolnaftate Distorts the hyphae and stunts growth of Fungicidal
+susceptible fungi; may involve inhibition of Dermatophytes
+squalene epoxidase Malassezia furfur
+Tavaborole Inhibits leucyl-tRNA synthase → protein Fungistatic
+synthesis inhibitor Trichophyton 55
+--- SLIDE 56 ---
+Therapeutic Uses of Topical Antifungal Agents
+Infection Azole Treatments Non-Azole Treatments
+Oral candidiasis Clotrimazole troches (lozenge) Nystatin oral suspension
+Miconazole buccal tablets  Swish and swallow, or swish and spit
+ Dissolve in mouth  Paint mucous membranes of infant’s
+(not chewed or swallowed) mouth
+ Treatment and prophylaxis  Unpleasant taste even though it contains
+ Pleasant-tasting sucrose
+Vulvovaginal candidiasis, Vaginal creams and suppositories
+uncomplicated Clotrimazole Terconazole Nystatin vaginal tablets
+Miconazole Tioconazole (must be prepared by compounding
+Butoconazole pharmacy)
+Cutaneous Various products for diaper dermatitis and Nystatin cream for diaper dermatitis and
+candidiasis intertrigo intertrigo
+Dermatophyte and Malassezia Various azole products for Terbinafine Ciclopirox
+infections, Trichophyton, Epidermophyton Naftafine Tolnaftate
+cutaneous Tinea pedis / cruris / corporis / versicolor Butenafine
+Onychomycosis Efinaconazole solution Ciclopirox lacquer
+Tavaborole solution
+Seborrheic dermatitis: Scalp: Ketoconazole shampoo Ciclopirox
+Malassezia Non-scalp: various topical creams, gels, or Zinc pyrithione
+foam Selenium sulfide
+56
+--- SLIDE 57 ---
+Mild oral candidiasis treatments
+Clotrimazole troche
+Nystatin oral
+(dissolve in mouth)
+suspension
+(swish and spit)
+57
+--- SLIDE 58 ---
+Candida albicans—thrush in mouth. Note whitish plaques on tongue.
+Review of Medical Microbiology and Immunology, 13e > Opportunistic Mycoses Figure 50-4
+58
+(Photo Courtesy of Richard P. Usatine, MD, and The Color Atlas of Family Medicine.)
+--- SLIDE 59 ---
+Summary of Antifungal Agents
+59
+--- SLIDE 60 ---
+From: 33 Antifungal Drugs, Figure 33.3
+Lippincott® Illustrated Reviews: Pharmacology, 8e, 2022
+Cellular targets of antifungal drugs.
+Copyright © Wolters Kluwer
+60
+--- SLIDE 61 ---
+Mycotic infections may involve the skin or subcutaneous tissues or may cause systemic infections.
+Fungi are eukaryotic with rigid cell walls composed of chitin. Their membrane contains ergosterol, rather than
+cholesterol. These structures are useful targets of drug therapy.
+Amphotericin B (AMB):
+• Broad spectrum of activity; fungicidal
+• AMB is a polyene antibiotic binds ergosterol in fungal cell membrane causing pore formation and leakage
+of cell components.
+• Relative selectivity: Ergosterol has greater affinity for AMB than cholesterol has.
+• Resistance is rare; possibly due to mutations in ERG gene or replacement of ergosterol with precursor
+sterols.
+• AMB is used for the treatment of serious systemic and CNS fungal infections, including during pregnancy.
+• Nephrotoxicity and infusion reactions (fever, chills, tachypnea) limit its use.
+Flucytosine (5-FC)
+• Prodrug converted to cytotoxic antimetabolite, 5-fluorouracil (5-FU), which is activated by phosphorylation
+and inhibits fungal RNA and DNA synthesis.
+• Narrow spectrum of activity; fungistatic
+• Resistance develops rapidly when it is used as a single agent, probably by reduced cytosine permease or
+cytosine deaminase activity.
+• 5-FC is an adjunct in the treatment of cryptococcal meningitis, and some invasive candidiasis
+• Generally well tolerated. Concentration-dependent leukopenia, nausea, vomiting, diarrhea. Monitor renal
+61
+function.
+--- SLIDE 62 ---
+Azole antifungal agents: imidazoles and triazoles.
+• Broad spectrum of activity, in general; fungistatic
+• PK: Most are substrates and strong inhibitors of CYP3A4 and other CYPs.
+• Mechanism: Competitive inhibitors of 14--demethylase (CYP51), blocking the conversion of lanosterol to
+ergosterol leading to membrane instability and inhibits fungal cell growth.
+• Resistance: ERG11 gene mutation, leading to decreased binding affinity of 14-α-demethylase and
+decreased azole efficacy. Some fungal strains upregulate efflux pumps or increase production of
+lanosterol.
+• Triazoles are generally used for treatment of systemic and cutaneous mycoses, while imidazoles are
+topical agents for cutaneous infections.
+• QT interval prolongation is a potentially serious adverse effect of all azole antifungals. Other side effects
+include GI disturbances and rash. There is a high risk of drug interactions.
+Echinocandins
+• Narrow spectrum; Candida spp (fungicidal), Aspergillus spp (fungistatic)
+• Mechanism: Noncompetitive inhibition of -1,3-glucan synthase, which decreases cell wall synthesis.
+• Resistance occurs by FKS-1 and FKS-2 alterations that result in decreased affinity for the echinocandins.
+• The drugs are well tolerated. Flushing may occur. Caspofungin increases systemic concentrations of the
+immunosuppressants cyclosporine and tacrolimus, and micafungin increases siroliumus levels. Cautious
+use of the echinocandins is recommended in patients taking these immunosuppressants.
+62
+--- SLIDE 63 ---
+Terbinafine
+• Broad spectrum, fungicidal
+• Mechanism: Noncompetitive inhibition of squalene epoxidase, which prevent ergosterol biosynthesis,
+leading to cell death.
+• Resistance is reported and linked to mutations in squalene epoxidase gene, SQLE
+• Terbinafine accumulates in keratin-rich tissues and is more effective than griseofulvin in the treatment of
+dermatophytoses of the nails, skin, and scalp; available for oral and topical use.
+• Side effects include GI upset and headache. Terbinafine it is contraindicated in patients with chronic or
+active hepatic disease. Terbinafine is a CYP substrate and CYP2D6 inhibitor.
+Griseofulvin
+• Narrow spectrum – dermatophytes; fungistatic
+• Binds human keratin in skin, hair, and nails and causes disruption of the mitotic spindle and inhibition of
+mitosis
+• Treatment of dermytophytoses of the scalp and hair. It has been largely replaced by terbinafine for the
+treatment of onychomycosis. Long duration of therapy – 6-18 months.
+• Ultramicrosize griseofulvin is adequately absorbed and absorption is enhanced by fatty food.
+• Side effects include GI upset, headache, rash, and photosensitivity, It is contraindicated in pregnancy
+and patients with porphyria or hepatic failure.
+63
+--- SLIDE 64 ---
+Topical antifungal agents
+• A number of antifungal drugs are used topically for superficial infections caused by C. albicans and
+dermatophytes.
+• Preparations include oral suspension, oral troches, vaginal creams and suppositories, skin creams,
+ointments, and powder.
+Nystatin
+• Polyene antibiotic that disrupts fungal membranes by binding to ergosterol.
+• (Recall: Amphotericin B is a polyene antibiotic.)
+• Topically to suppress local Candida infections, including mild oral-pharyngeal candidiasis (thrush)
+• Orally for secondary prevention of fungal peritonitis in patients on peritoneal dialysis
+• Nystatin is poorly absorbed from the gastrointestinal tract.
+• Nephrotoxic (like AMB), therefore nystatin is not administered systemically.
+Azole compounds:
+• miconazole, clotrimazole, ketoconazole, and several others and terbinafine topical products are used for
+superficial tinea infections and mucocutaneous Candida infections.
+Terbinafine, naftitine, butenafine: Squalene epoxidase inhibitors topically for tinea infection and cutaneous candidiasis
+Tolnaftate: Distorts hyphae and stunts fungal growth for treatment of tinea infections
+Ciclopirox: Inhibits transport or essential molecules and interferes with enzyme functions, DNA repair, and cell division
+signals and structures.
+Tavabarole: tRNA synthase inhibitor for treatment of onychomycosis. 64
+--- SLIDE 65 ---
+Dr. Aswant Kaur 65
+--- SLIDE 66 ---
+Check your knowledge
+What are the advantages of liposomal AMB and AMB lipid complex compared to AMB deoxycholate?
+• Infusion-related toxicity and nephrotoxicity are reduced, which permits use of larger doses
+compared to conventional AMB.
+• AMB lipid formulations enhance delivery to the site of infection while reducing organ toxicity.
+• Higher doses can improve effectiveness, particularly in severe or resistant fungal infections.
+What is AMB’s mechanism of antifungal action?
+• AMB associates with ergosterol in fungal membrane causing pores to form. Cations and other small
+molecules leak out.
+• Ergosterol is sequestered further compromising membrane integrity, leading to fungal cell death.
+What are the toxicities associated with AMB administration?
+• Infusion reactions, nephrotoxicity (azotemia, acute kidney injury, renal tubular acidosis), and anemia
+(impaired EPO synthesis)
+66
+--- SLIDE 67 ---
+Check your knowledge
+What physical properties of the amphotericin B molecule are probably important for its fungus-killing activity?
+• The amphipathic property allows the drug to interact with both hydrophilic polar head groups of the cell
+membrane and hydrophobic membrane core and ergosterol embedded in the membrane.
+• The amphoteric property (acid and base functional groups) enhances binding to ergosterol and helps to
+sequester ergosterol, further destabilizing the cell membrane.
+What accounts for its relatively selective toxicity against fungi?
+• AMB affinity for ergosterol in fungal membranes is many time greater than its affinity for cholesterol in
+mammalian membranes.
+• What are the likely mechanisms of resistance?
+• Reduced concentrations of ergosterol due to mutations in various ERG genes or replacement with sterol
+precursors. Resistance to AMB is rare.
+AMB is an important therapeutic for what patients and infections?
+• AMB is primarily for treatment of patients with progressive and potentially life-threatening fungal
+infections.
+• AMB should not be used to treat noninvasive forms of fungal disease such as oral thrush, vaginal
+candidiasis, and esophageal candidiasis in patients with normal neutrophil counts.
+67
+--- SLIDE 68 ---
+Check your knowledge
+What is the basis of flucytosine’s selectivity?
+• Mammalian cells cannot activate 5-FC as they do not have cytosine permease or cytosine
+deaminase.
+What is the basis of flucytosine’s toxicity?
+• Intracellular conversion to toxic 5-FU in fungal cell
+How does flucytosine induce cellular cytotoxicity?
+• 5-FUTP incorporation of FUTP into RNA → RNA synthesis (thus, protein synthesis)
+• 5-FdUMP inhibits thymidylate synthase →  DNA synthesis
+What are the therapeutic uses of 5-FC and why?
+• Narrow spectrum of activity
+• Cryptococcal meningitis with AMB and selected invasive candidiasis with AMB.
+• Oral, crosses BBB; rapid development of resistance when used alone
+What are major adverse effects of 5-FC and how can they be reduced?
+• Well tolerated when renal function is normal – Adverse effects are concentration-dependent
+• Leukopenia, thrombocytopenia / elevated liver function enzymes (AST/ALT) / nausea, vomiting
+diarrhea
+• Monitor renal function
+68
+--- SLIDE 69 ---
+Check your knowledge
+Which drug is first line for treatment of fungal infections by dimorphic fungi?
+• Itraconazole
+Which drug is first line for consolidation and maintenance of cryptococcal meningitis?
+• Fluconazole
+• Alternatives are voriconalzole, posaconazole and isavuconazole (isavuconozium is the prodrug).
+• Initial therapy regimen is amphotericin B + flucytosine
+Which drug is the preferred initial treatment for invasive aspergillosis?
+• Voriconazole
+Which drug is an alternative for the initial treatment of invasive aspergillosis in a patient with optic neuritis or
+peripheral neuropathy?
+• Posaconazole or isavuconazole and they are better tolerated than voriconazole.
+• Voriconazole can cause ocular, neurological, and severe dermatologic toxicities.
+Which drugs are used as step-down therapy for mucormycosis?
+• Posaconazole and isavuconazole
+• Amphotericin B is the preferred initial therapy.
+Which oral drug is first line for vulvovaginal candidiasis?
+• Fluconazole 69
+--- SLIDE 70 ---
+Check your knowledge
+What adverse effects can occur with all of the azole antifungals?
+• Minor GI disturbances (eg nausea, diarrhea);  serum aminotransferases (hepatic enzymes), hepatitis
+(rare); prolongation of QT interval; TdP/ventricular arrhythmias; metabolic-related hypokalemia,
+pseudoaldosteronisms and hypertension; immediate and delayed hypersensitivity reactions
+Which azole antifungal should be avoided in patients with a history of heart failure?
+• Itraconazole has negative inotropic effects (reduced force of contraction) and can worsen heart failure
+AND it is associated with new heart failure and with new and worsening hypertension. Metabolic-related
+effects observed more often than with other triazoles – except posaconazole.
+Which azole antifungal is associated with optic neuritis and other ocular toxicities?
+• Voriconazole: Optic neuritis, scleritis, episcleritis, photophobia
+Which azole antifungal is associated with peripheral neuropathy?
+• Voriconazole: Numbness and tingling in the extremities may be rapidly debilitating and irreversible.
+Encphalopathy is reported.
+Which azole antifungal is most likely to interfere with steroidogenesis?
+• Ketoconazole, an imidazole antifungal that is currently used only topically, has a high risk of adrenal
+suppression due to its strong inhibition of steroidogenesis.
+• Itraconazole and posaconazole have a moderate risk of adrenal suppression.
+• FYI: Cortisol, aldosterone, and the androgen precursors of sex hormones, dehydroepiandrostenedione
+(DHEA) and DHEA sulfate are synthesized in the adrenal cortex. 70
+--- SLIDE 71 ---
+Check your knowledge
+What is the major mechanism of drug interactions with the azole antifungal drugs?
+• CYP inhibition. All azole antifungals are strong CYP3A4 inhibitors, except fluconazole and isavuconazole,
+which both inhibit CYP3A4 but with moderate affinity for the enzyme.
+One of the azole antifungals is cleared renally and excreted unchanged in urine. Which one? What do we
+need to think about in terms of dosing this drug?
+• Fluconazole, 80% of the dose is excreted unchanged in the urine.
+• Dosage adjustment for patients with renal insufficiency.
+• Note: Fluconazole is a strong inhibitor of CYP2C19 and inhibit CYP2C9 and 3A4 with lower affinity.
+Two triazole antifungal drugs are formulated with cyclodextrin to solubilize the hydrophobic drugs for
+intravenous administration. What toxicity can occur in patients with renal insufficiency? What are the two
+drugs?
+• Accumulation of cyclodextrin in patients with renal insufficiency can cause toxicity to the kidney tubular
+cells. The drugs are voriconazole and posaconazole.
+One of the antifungals in this group does not require dosage adjustment for patients with renal insufficiency
+or liver impairment. What is it? Why are dosage adjustments not required?
+• The drug is posaconazole because it is minimally metabolized (~17% by UGT) by the liver, excreted
+unchanged in the feces, and is not cleared through the kidney.
+71
+--- SLIDE 72 ---
+Check your knowledge
+What is the fungal cell target of the echinocandins?
+• They inhibit -1,3-glucan synthase complex, which disrupts the integrity of the fungal cell wall, leading to
+cell death.
+What is the spectrum of action of echinocandins?
+• Candida spp (fungicidal); Aspergillosus spp (fungistatic)
+What is the clinical importance of the echinocandins?
+• Treatment and prophylaxis of serious Candida infections; treatment of invasive aspergillosis not
+responsive to other drugs
+What is the effect of drug interactions with concurrently administered drugs?
+• Caspofungin and cyclosporine may increase plasma concentrations of each other increasing the risk of
+hepatotoxicity (echinocandins) and nephrotoxicity (cyclosporine)
+• Micafungin increases sirolimus levels increasing the risk of numerous toxicities.
+• All may diminish the therapeutic effects of Sacharomyces boulardii, a beneficial yeast in the gut
+microbiome.
+• Ibrexafungerp: CYP3A4 inducers (avoid) and inhibitors (caution)
+What are the recommendations for use of glucan synthase inhibitors in pregnancy?
+• Echinocandins: Animal reproduction studies suggest the potential for fetal harm. Use only if benefit to the
+mother outweighs the risk to the fetus.
+72
+--- SLIDE 73 ---
+Review: Compare and contrast griseofulvin and terbinafine.
+ADME Oral, once daily Extensive hepatic metabolism
+G: Take with fatty food Terminal t½:
+G: 9-24 h; T: 200-400 h at steady state
+Mechanism of G: binds microtubules in new keratin and prevents mitosis
+action T: squalene epoxidase inhibitor reducing ergosterol synthesis
+Therapeutic uses Dermatophyte infections
+G: DOC for tinea capitis in children
+DOC: drug of choice
+T: DOC for onychomycosis
+Adverse effects Both generally well tolerated
+GI disturbances, hypersensitivity reactions
+Drug interactions G: CYP inducer
+T: Strong CYP2D6 inhibitor
+Contraindications G: liver failure, porphyria, pregnancy
+T: chronic or acute liver disease, avoid in pregnancy
+73
+--- SLIDE 74 ---
+Resources
+• Access Medicine Ganong’s Review of Medical Physiology, 26e, 2019; General Principles
+• Access Medicine Goodman and Gilman’s The Pharmacological Basis of Therapeutics 14e, 2023; Chapter 61:
+Antifungal Agents
+• Access Medicine Harrison’s Principles of Internal Medicine, 21e, 2022; Chapter 211: Pathogenesis, Diagnosis, and
+Treatment of Fungal Infections
+• Access Medicine Jawetz, Melnick, & Adelberg Mdedical Microbiology, 28e, 2019; Chapter 45: Medical Mycology
+• Access Medicine Katzung’s Basic & Clinical Pharmacology 16e, 2024; Chapter 48: Antifungal Agents
+• Clinical Key Murray, Rosenthal, and Pfaller Medical Microbiology 9e, 2022; Chapter 61: Antifungal Agents
+• UpToDate Lexidrug monographs
+74
+--- SLIDE 75 ---
+Lecture Feedback Form
+https://comresearchdata.nyit.edu/redcap/surveys/?s=HRCY448FWYXREL4R

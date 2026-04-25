@@ -1,0 +1,902 @@
+SOURCE: Lecture # 173. L. Goldstein, Pharm.D. (PPT).pdf
+
+--- SLIDE 1 ---
+Chemotherapy of Antiprotozoal Agents
+Amoebiasis Giardiasis Trichomoniasis Trypanosomiasis Leishmaniasis  Toxoplasmosis
+Leslie Goldstein, Pharm.D.
+Associate Professor of Pharmacology
+Department of Clinical Specialties
+Rockefeller Building, Room 204
+lgolds01@nyit.edu
+--- SLIDE 2 ---
+Following completion of the preparation material, students should be able to:
+1. List the clinically relevant pharmacokinetic properties of the various
+chemotherapeutic agents used in the treatment of protozoan infections and give
+examples.
+2. Apply the structure activity relationships and mechanisms of action of the various
+chemotherapeutics to their use in the treatment of specific protozoan infections
+and give examples.
+3. Relate the mechanisms of adverse effects and drug interactions to the patients’
+drug therapy.
+4. Write a second order, board-style question to assess your understanding of the
+antiprozoal agents. (Please see the Practice Questions PDF for examples.)
+2
+--- SLIDE 3 ---
+Preparation Materials (links are in the CPG and on the next slide)
+Required
+• ScholarRx Bricks  Practice Questions (questions FOR learning)
+Optional materials:
+• Video Lecture  Dr. Goldstein’s Word handout  Guided Reading Questions
+• Textbook resources with links are listed on the next slide
+SUGGESTIONS:
+• Use the resources that work best for you.
+• You do not need to study all of them.
+• Work through the GUIDED READING QUESTIONS with pen/pencil and paper.
+Try answering them in your OWN WORDS first without looking at the readings, and
+then again after reviewing.
+3
+--- SLIDE 4 ---
+Links
+ScholarRx
+Name of Discipline/ Organ System: General Microbiology > Infectious Agents > Parasites and
+Fungi
+Title of Brick(s): Protozoa and Ectoparasites
+Link: https://exchange.scholarrx.com/brick/protozoa-and-ectoparasites
+Access Medicine Katzung’s Basic & Clinical Pharmacology, 16e, 2024; Chapter 52: Antiprotozoal
+Drugs > Malaria
+https://accessmedicine-mhmedical-
+com.nyit.idm.oclc.org/content.aspx?bookid=3382&sectionid=281755910#1204144707
+LWW Health Library, Premium Basic Sciences: Lippincott’s Illustrated Reviews: Pharmacology 8e,
+2023; Chapter 35 Antiprotozoal Drugs > Malaria https://premiumbasicsciences-lwwhealthlibrary-
+com.nyit.idm.oclc.org/content.aspx?sectionid=253329448&bookid=3222
+Access Medicine Katzung & Trevor’s Pharmacology: Examination & Board Review, 13e, 2021;
+Chapter 52: Antiprotozoal Drugs > Malaria
+https://nyit.idm.oclc.org/login?url=https://accessmedicine-mhmedical-
+com/content.aspx?bookid=3058&sectionid=255307694
+4
+--- SLIDE 5 ---
+Key points: Pathogenic protozoa
+• A wide variety of protozoal parasites can be transmitted to human hosts by insect vectors, directly from
+other mammalian reservoirs, of from one person to another. The immune system is critical in protecting
+against the pathological effects of infection.
+• Amoebiasis caused by Entamoeba histolytica, spread by the fecal-oral route, infects the intestines and
+can lead to amoebic dysentery or liver abscess.
+• Giardia lamblia is transmitted through contaminated water and leads to diarrhea, cramping, and
+malabsorption.
+• Trichomonas vaginalis is the most common nonviral sexually transmitted infection worldwide. Infections
+range from an acute severe inflammatory disease to asymptomatic carrier state.
+• African trypanosomiasis (sleeping sickness) is caused by Trypanosoma brucei spread by tsetse flies and
+can lead to CNS infection and coma. Chagas disease, caused by Trypanosoma cruzi and transmitted by
+triatomine bugs, can lead to severe heart and digestive disease.
+• Leishmania species transmitted by sandflies cause cutaneous / mucocutaneous and visceral disease.
+Visceral leishmaniasis is life-threatening.
+• Toxoplasma gondii is an obligate intracellular parasite transmitted to humans from cats (the only
+definitive host), but more commonly via undercooked infected meat products. The infection is often
+asymptomatic but can cause serious complications in pregnant individuals and immunocompromised
+patients.
+• Drug therapy treats infection and reduces transmission. Effective vaccines against protozoal infections
+are not available. 5
+--- SLIDE 6 ---
+Key points (Starred drugs are in bold font.)
+Antiprotozoal drugs target protozoal enzymes, metabolic processes, and organelles not present in humans
+and, therefore, are more selective for parasitic cells than for human cells. In addition, many protozoa need
+anaerobic or microaerophilic environments to function, whereas human cells require oxygen.
+• The drugs interfere with protozoal nucleic acid synthesis, inhibit protein synthesis or metabolic
+processes, disrupt protozoal organelles and/or membrane integrity.
+• Metronidazole, tinidazole, secnidazole, and nitazoxanole are nitroimidazole compounds active against
+anaerobic and microaerophilic parasites. They are converted by parasitic pyruvate:ferrodoxin
+oxidoreductase to toxic nitro free radical intermediates, which cause death of the parasite. Resistance,
+though uncommon, arises through decreased activation or increased inactivation of drug.
+• Metronidazole PK: several routes of administration, widely distributed, hepatic metabolism,
+bioavailability nearly 100%, and eliminated in urine/feces as active drug and metabolites.
+• Metronidazole is used in infants, children, and adults for the treatment of amoebiasis, giardiasis,
+trichomoniasis, and anaerobic bacterial infections.
+• Tinidazole is used orally or intravaginally for adults and children 3 years old for the same parasitic infections.
+• Secnidazole is a long-acting nitroimidazole labeled for oral single-dose treatment of bacterial vaginosis and vaginal
+trichomoniasis in patients 12 years old.
+• Nitazoxanide is a broad-spectrum antiparasitic agent used orally for the treatment of and cryptosporidiosis-
+associated diarrhea, giardiasis, and other parasitic infections.
+• Paromomycin is an aminoglycoside (protein synthesis inhibitor), which is not absorbed from the GI tract.
+It is administered orally for intestinal amebiasis and certain other luminal parasitic infections. 6
+--- SLIDE 7 ---
+Key points: Trypanosomiasis
+• Sleeping sickness, caused byTrypanasoma brucei, is endemic in some regions of sub-Saharan Africa.
+T. brucei gambiense causes human West African trypanosomiasis – gambiense HAT. It has an
+incubation period of weeks to months and is usually slowly progressive. T. brucei rhodesiense causes
+human East African trypanosomiasis – rhodesiense HAT. It has an incubation period of less than three
+weeks and is usually rapidly progressive within weeks. Gambiense HAT accounts for a larger burden of
+disease than rhodesiense HAT.
+• The approach to treatment selection is guided by patient age and weight, drug availability, neurological
+signs and symptoms, and CSF findings.
+• Fexinidazole is an oral drug preferred for both gambiense and rhodesiense early-stage
+(hemolymphatic) HAT in children ≥6 years old, ≥20 kg. It is oral, safer than the other drugs, and crosses
+the blood-brain barrier.
+• Children <6 years old, <20 kg with early-stage gambiense HAT are treated with IM or IV pentamidine
+and, for rhodesiense HAT, with IV suramin.
+• Late-stage (meningoencephalitic) gambiense HAT, nonsevere disease, is oral fexinidazole. Oral
+nifurtimox with IV eflornithine combination therapy (NECT) is more effective in severe disease and the
+preferred treatment.
+• Late-stage rhodesiense HAT is treated with the arsenical melarsoprol, which is very toxic.
+7
+--- SLIDE 8 ---
+Key points
+• Fexinidazole, like other nitroimidazoles, is activated by parasite nitroreductase to nitro free radicals that
+damage DNA and proteins (the proposed mechanism). PK: oral with the main meal of the day, widely
+distributed, extensively metabolized via CYPs to active metabolites, half-life between 9 and 27 hours.
+Adverse effects include neuropsychiatric effects, nausea/vomiting, headache, dizziness, tremor,
+neutropenia, and QT interval prolongation. Follow-up clinical evaluation should be performed at 6, 12,
+18, and 24 months after completion of therapy or at any time symptoms recur due to risk of recurrence,
+which has been observed in patients with severe late-stage gambiense HAT.
+• Pentamidine isethionate impairs the parasite’s mitochondrial activity and interferes with polyamine
+synthesis, RNA polymerase, and ribosomal functions and prevents synthesis of proteins, nucleic acids,
+and phospholipids. PK: slow IV infusion; terminal elimination weeks to months. Common adverse effects
+include nausea, fatigue, hypoglycemia, and injection site pain and local abscess. Potentially serious
+toxicities include reversible bone marrow suppression, hepatoxicity, nephrotoxicity, and neuropathy.
+• Nifurtimox is an oral trypanocidal imidazole compound taken with food for improved absorption,
+metabolized in the liver, excreted in urine as metabolites, and has a half-life of ~3 hours. Common
+adverse effects include nausea/vomiting, headache, dizziness, and polyneuropathy.
+• Eflornithine is an irreversible inhibitor of ornithine decarboxylase, which rapidly depletes the parasites
+of polyamines. It is given by slow IV infusion and has a half-life of ~3 hours. Toxicities include fever,
+pruritis, hypertension, nausea/vomiting/diarrhea, headache, dizziness, seizure, and bone marrow
+suppression.
+8
+--- SLIDE 9 ---
+Key points
+• Suramin is the preferred agent for early-stage rhodesiense HAT in children <6 years old, <20 kg. It forms
+stable complexes with proteins, interacting with a wide variety of biomolecules such as serine
+oligopeptidase, dihydrofolate reductase, thymidylate synthase, and several glycolytic enzymes, inhibiting
+energy metabolism in the parasite. It is given by slow IV infusion weekly over four weeks, does not
+penetrate the CSF, and has a very long half-life (is detectable in urine for 3 months). Early adverse
+effects include nausea, vomiting, and fatigue. Severe toxicities that occur over time include bone marrow
+toxicity, nephrotoxicity, peripheral nephropathy, chronic diarrhea, and more. Suramin is also active
+against the nematode (worm) Onchocerca volvulus that causes river blindness. Coinfected patients
+experience severe immunologic reactions. Therefore, coinfection should be excluded before
+administering suramin.
+• Melarsoprol is the only agent effective against late-stage rhodesiense HAT. It is an arsenical prodrug
+converted to the active and extremely toxic melarsen oxide, which reacts avidly and reversibly with
+sulfhydryl groups. It forms a melarsen oxide-trypanothione complex that inhibits trypanothione reductase
+activity. Melarsen oxide inactivates most enzymes of both parasite and host. Melarsoprol reactive
+encephalopathy occurs in up to 18% of patients and is fatal in many of the cases. The drug is toxic to
+heart, liver, kidneys, and nerves among others.
+9
+--- SLIDE 10 ---
+Key points
+• American trypanosomiasis – Chagas disease – is caused by transmission by the triatomine bug
+(Reduviidae family). It is treated with the oral imidazole compound benznidazole (preferred, more
+tolerable, twice daily dose) or nifurtimox (alternative, three times daily dose). They are reduced by
+parasitic nitroreductase to nitro free radicals that form covalent attachment to biomolecules. Both drugs
+are trypanocidal against trypomastigote and amastigore forms of T. cruzi. Treatment of acute disease
+reduces parasitemia, morbidity, and mortality. Cure rate is >80%, but with geographic variations. For
+chronic disease, cures are possible but the drugs are less effective than for acute disease. Adverse
+effects include nausea/vomiting, headache, dizziness, and polyneuropathy.
+• Leishmania is a trypanosomatid protozoa transmitted by the bite of certain species of sand fly. Diseases
+include cutaneous leishmaniasis (Old World and New World varieties) and visceral leishmaniasis (kala-
+azar). Leishmania species differ in their sensitivity to chemotherapeutic agents.
+• Sodium stibogluconate (most countries) and meglumine (French-speaking countries) are pentavalent
+antimonial agents widely used first-line agents. Pentavalent prodrugs are reduced to trivalent antimonial
+by parasitic reductase, which inhibits trypanothione reductase, which interferes with trypanothione redox
+system, inducing rapid efflux of trypanothione and glutathione from the cell and also inhibiting
+trypanothione reductase. PK: IV administration, drug is sequestered in tissues, terminal half-life of up to
+80 hours. The antimonials are fairly well tolerated. Adverse effects include dose-related muscle aches,
+nausea/vomiting, fatigue, and rash and nonspecific EKG changes, such as T wave suppression and QT
+interval prolongation. Additional potentially serious toxicities include bone marrow suppression,
+hepatotoxicity, nephrotoxicity, and pancreatitis. 10
+--- SLIDE 11 ---
+Key points
+• Amphotericin B liposomal IV is recommended in certain areas of India and Nepal where there is
+resistance to the antimonials. Amphotericin B has a high cure rate in the treatment of mucocutaneous and
+visceral leishmaniasis. Toxicities are infusion reactions (“shake and bake”), nephrotoxicity, anemia,
+hypersensitivity reactions, and more.
+• Miltefosine is the first consistently effective and safe oral drug for visceral, mucosal, and cutaneous
+leishmaniasis, but efficacy varies significantly by species and by geography. Its mechanism is not known.
+It is also effective against free-living encephalitic amoeba, such as Naegleria fowleri. As a phospholipid, it
+may interact with phospholipids and steroids in parasitic cell membranes, inhibition of cytochrome c
+oxidase which inhibits mitochondrial function, and apoptosis-like death. Adverse effects are common,
+generally mild nausea/vomiting/diarrhea, anemia/decreased platelet count, increased serum
+aminotransferases, increased serum creatinine, headache, dizziness, rash, urticaria, SJS (rare).
+Contraindicated in all trimesters of pregnancy – teratogenic, fetotoxic. Breast feeding should be avoided.
+Reduced sperm count, mobility, and morphology, decreased ejaculate volume, scrotal pain and
+tenderness in males.
+11
+--- SLIDE 12 ---
+Key points
+• Toxoplasmosis is an acute, self-limiting illness in most people, which does not require treatment.
+Immunocompetent persons with primary infection are usually asymptomatic. Toxoplamosis has a
+worldwide distribution.
+• Pregnant patients are treated for acute acquired toxoplasmosis to prevent transmission to the fetus.
+Treatment at <14 weeks gestation is with spiramycin, an oral macrolide that concentrates in the
+placenta. If >18 weeks gestation and documented fetal infection, then pyrimethamine plus
+sulfadiazine plus leucovorin is administered.
+• HIV/AIDS patients with cerebral toxoplasmosis are treated with oral pyrimethamine plus sulfadiazine
+plus leucovorin or TMP-SMX IV, followed by suppressive therapy with pyrimethamine + sulfadiazine
++ leucovorin.
+• Toxoplamosis prophylaxis in HIV/AIDS patients is oral TMP-SMX.
+12
+--- SLIDE 13 ---
+Outline
+Drugs for the treatment of:
+1. Amoebiasis, giardiasis, trichomoniasis
+2. Human African trypanosomiasis (HAT) (sleeping sickness)
+• gambiense HAT
+• rhodesiense HAT
+3. American trypanosomiasis (Chagas disease)
+4. Leishmaniasis
+5. Toxoplasmosis
+Some drugs are FDA approved. Others are not FDA approved and are available
+from the CDC or through an FDA investigational new drug protocol.
+13
+--- SLIDE 14 ---
+Agents used in the treatment of
+Entamoeba histolytica, Giardia, and Trichomonas infections
+Metronidazole
+Tinidazole: better tolerated than metronidazole and less frequent dosing
+a nitroimidazole Secnidazole: bacterial vaginosis only
+Paromomycin
+Nitazoxanide: Diarrhea caused by giardiasis and cryptosporidiosis (adults,
+children); and other parasitic diarrheal diseases in children
+Iodoquinol; Diloxanide furoate: Marketing has been discontinued.
+14
+--- SLIDE 15 ---
+Entamoeba histolytica. A. Cyst structures. B. Giardia lamblia. A. Cyst structures. B. Trichomonas vaginalis. The parasite and
+Trophozoite structures. C. Trophozoite in stool Trophozoite structures. C. Cyst in stool its structures are shown in relation to the
+(arrow). D. Cyst (arrow) in stool iodine size of a polymorphonuclear leukocyte
+iodine preparation. D. Trophozoite in
+preparation and cysts in stool iodine (top). The micrograph below illustrates
+stool. (CandD, Reproduced with
+preparation. their use for motility. (Reproduced with
+permission from Connor DH, Chandler
+permission from Nester EW, Anderson
+FW, Schwartz DQ, et al: Pathology of
+DG, Roberts CE Jr, et al: Microbiology: A
+Infectious Diseases. Stamford CT:
+Human Perspective, 6th ed. New York,
+Appleton & Lange; 1997.) NY: McGraw Hill; 2008.)
+Citation: Chapter 52 Sarcomastigophora—The Amebas, and Chapter 53: Sarcomastigophora —The Flagellates Ryan KJ. Sherris & Ryan's
+Medical Microbiology, 8e; 2022. Available at: https://accessmedicine.mhmedical.com/content.aspx?bookid=3107&sectionid=260930186
+Accessed: May 10, 2023
+Copyright © 2023 McGraw-Hill Education. All rights reserved 15
+--- SLIDE 16 ---
+Metronidazole Pharmacokinetics
+A Oral, ~100% bioavailability, IV
+topical, intravaginal → low systemic concentrations
+D Widely distributed, Penetrates body tissues and fluids well,
+bile, seminal fluid, bone, liver, and liver abscesses, lung and vaginal secretions, saliva and CSF
+M Hepatic, CYP2A6, several metabolites including active metabolite Tinidazole: CYP3A4
+E Urine, some unchanged drug and metabolites
+t½ 8 h adults; longer in premature and term neonates Tinidazole: ~13 h
+Dosing: Adults: 3 times daily Tinidazole: once daily
+PK relevance:
+Metronidazole and tinidazole have good oral bioavailability and penetrate infected tissues in
+therapeutic concentrations, including abscesses.
+Tinidazole has a longer half-life → less frequent dosing.
+16
+--- SLIDE 17 ---
+Metronidazole Regeneration / Resistance Mechanisms
+Metronidazole
+reduction
+Metronidazole
+nitroso radical
+Regeneration Highly reactive
+of reduced nitroso
+metronidazole radicals
+Oxidation of
+nitroso
+radicals
+Resistance (uncommon) http://watcut.uwaterloo.ca/webnotes/Pharmacology/AntimicrobialChemotherapy.html
+•  drug activation: Impaired O scavenging capabilities →  local O →  reduction of metronidazole
+2 2
+• Futile cycling: Increased inactivation of the active toxic intermediate
+17
+• Lower PFOR levels and ferrodoxin levels: These organisms respond at higher drug doses
+--- SLIDE 18 ---
+Metronidazole Clinical Applications
+Activity:
+Therapeutic uses:
+Anaerobic and microaerophilic pathogens,
+Amoebiasis
+such as amitochondriate protozoa T.
+Trichomoniasis
+vaginalis, E. histolytica, and G. lamblia
+Giardiasis
+• Kills E. hystolytica trophozoites
+Anaerobic bacterial infections
+• but not cysts
+Tinidazole equally effective
+• Acts on organisms in bowel wall and
+• amoebiasis, giardiasis, trichomoniasis
+liver
+Helicobacter pylori (combination Tx)
+• Eradicates extra-intestinal infection
+• Longer t½ ; may be better tolerated
+(liver abscess is most common)
+than metronidazole
+Follow up with a luminal amebicide for Secnidazole
+eradication of parasites. • bacterial vaginosis, trichomoniasis
+18
+--- SLIDE 19 ---
+Metronidazole Side Effects
+Generally well tolerated US Boxed Warning
+• Common: headache, nausea, dry mouth, and a Metronidazole and tinidazole have been
+metallic taste shown to be carcinogenic in mice and
+rats.
+• Occasional: vomiting, diarrhea, and abdominal
+distress, thrush, dark urine Practice point:
+• Dizziness, vertigo • Unnecessary use of the drugs should
+• Very rarely, encephalopathy, convulsions be avoided. Use should be reserved
+for indicated conditions.
+• Paresthesia
+• Pregnancy: Treatment is recommended.
+Drug interactions: (not a complete list)
+Metronidazole crosses placenta but appears to
+• Metronidazole: Warfarin
+have a low risk to the developing fetus.
+• Tinidazole: CYP3A4-mediated
+➢ Vaginal administration, tinidazole, and
+interaction
+secnidazole should be avoided.
+It has been thought that metronidazole ingested with alcohol causes a disulfiram-like reaction.
+Reevaluation of available data suggests that this is not the case (Feldman & Jaszczenski, 2023)
+19
+--- SLIDE 20 ---
+Paromomycin: A Luminal Aminoglycoside
+PK Oral; poor absorption – remains in the intestine = luminal; 100% fecal excretion
+Mechanism Protein synthesis inhibitor by binding the 16S rRNA of the 30S ribosome interfering
+of action with the protein synthesis machinery
+Uses Acute and chronic intestinal (luminal) amebiasis following nitroimidazole
+treatment
+• Cryptosporidium-associated diarrhea in patients with HIV
+Cryptosporidium is a protozoan parasite spread by the fecal-oral route from
+contaminated water sources.
+• Giardia lamblia alternative for mild giardiasis
+• Hepatic encephalopathy:
+Reduces systemic ammonia levels by killing ammonia-producing bacteria in the gut.
+• Topical: cutaneous leishmaniasis IV: visceral leishmaniasis
+Side effects GI effects: abdominal cramps, diarrhea, nausea, vomiting
+Parenteral: nephrotoxicity, ototoxicity, muscle weakness
+(as for all aminoglycosides)
+20
+--- SLIDE 21 ---
+Check your knowledge
+What are the medical justifications for using two different drugs in the treatment of amoebiasis? What are the
+drugs described in this PowerPoint?
+• Metronidazole is a tissue-acting drug to eliminate invasive trophozoites, particularly in cases of amoebic
+liver abscess or systemic infection.
+• Paromomycin (oral) is a luminal agent that acts in the intestines to eliminate amoeba cysts and
+trophozoites, which prevents recurrence and transmission.
+What are their mechanisms of action?
+• Metronidazole: Activation by parasite nitroreductase to nitroso free radicals (reactive oxygen species)
+that damage DNA and proteins
+• Paromomycin: Protein synthesis inhibitor, binds 16S rRNA on the 30S ribosome.
+What other organisms are susceptible to each of the drugs?
+• Metronidazole is active against the protozoa Trichomonas vaginalis and Giardia lamblia as well
+Entamoeba histolytica.
+• FYI: Metronidazole is also effective against obligate anaerobic gram-negative and gram-positive
+bacteria, including C. difficile.
+• Paromomycin is active against luminal protoazoa G. lamblia and Cryptosporidium and Leishmania,
+which causes cutaneous, mucosal, and visceral infection.
+21
+--- SLIDE 22 ---
+Agents for the treatment of
+Human African Trypanosomiasis (HAT)
+Gambiense HAT Rhodesiense HAT
+T. brucei gambiense T. brucei rhodesiense
+Fexinidazole Fexinidazole
+Pentamidine Suramin
+Nifurtimox Melarsoprol
+Arsenic
+#33
+Eflornithine
+The approach to treatment selection is based on assessment of neurological signs and
+symptoms of severe disease. CSF examination is required for patients with signs and symptoms of
+late-stage severe disease and for patients who cannot be treated with fexinidazole.
+22
+--- SLIDE 23 ---
+African sleeping sickness. Trypanosoma brucei in a routine blood
+smear. (Reproduced with permission from Nester EW, Anderson DG,
+Stages in the life cycle of the hemoflagellates
+Roberts CE Jr, et al: Microbiology: A Human Perspective, 6th ed. New
+(Trypanosomidae).
+York, NY: McGraw Hill; 2008.)
+Citation: Chapter 53 Sarcomastigophora—The Flagellates, Ryan KJ. Sherris & Ryan's Medical Microbiology, 8e;
+2022. Available at: https://accessmedicine.mhmedical.com/content.aspx?bookid=3107&sectionid=260930292
+Accessed: May 10, 2023 Copyright © 2023 McGraw-Hill Education. All rights reserved
+23
+--- SLIDE 24 ---
+Trypanosomiasis, caused by the bite of the tsetse fly
+Gambiense HAT Rhodesiense HAT
+2 C
+2 a
+0 West African sleeping sickness u
+East African sleeping sickness
+2 s
+e
+n
+d
+i • Trypanosoma brucei gambiense
+n • Trypanosoma brucei rhodesiense ~
+o 5
+i %
+t
+c Causes the chronic form of the disease.
+e Causes acute, rapidly progressive disease o
+f f
+n t
+i West and Central Africa h
+n e
+East and Southern Africa
+a
+c
+m
+a
+• Democratic Republic of Congo
+s
+u
+e
+h • Tanzania
+s
+f o • Angola o
+f
+s • southern Uganda h
+e
+u
+s • South Sudan
+a m
+c
+a
+• Malawi
+e n
+h • Central African Republic
+i
+t n
+f f
+o • Zambia (formerly Northern Rhodesia) e
+• Chad c
+% t
+i
+5 o
+9 • Zimbabwe (formerly Southern Rhodesia) n
+• northern Uganda
+~
+i
+n
+d
+e 2
+A few hundred cases reported annually to
+s 7,000-10,000 cases reported annually 0
+u 2
+a 2
+C the WHO.
+https://www.cdc.gov/sleeping-sickness/causes/?CDC_AAref_Val=https://www.cdc.gov/parasites/sleepingsickness/epi.html 24
+--- SLIDE 25 ---
+Overview of Treatment for HAT
+Gambiense HAT Rhodesiense HAT
+<6 years old, <20 kg 6 years, 20 kg Patients of all ages
+(1) Pentamidine (1) Fexinidazole1 (1) Fexinidazole1 6 years, 20 kg
+(A) Pentamidine (1) Suramin <6 years old, <20 kg
+Early-stage disease
+(A) Eflornithine2 (A) Pentamidine, acute disease, until
+hemolymphatic stage
+(R) NECT3 suramin can be obtained
+(R) Melarsoprol
+(1) Fexinidazole1 (nonsevere disease) (1) Melarsoprol, with oral prednisolone
+Late-stage disease
+(1) NECT (severe disease, all ages) If onset of encephalopathy, discontinue
+meningoencephalic
+(A) Eflornithine3, if NECT not available melarsoprol.
+stage
+(R) Melarsoprol (A) Fexinidazole if melarsoprol cannot be used
+Pregnancy (WHO guidelines) Safety data are very limited Goal: Life-saving therapy
+Treatment may reduce the likelihood of vertical transmission.
+Newborns should be examined, undergo blood evaluation for circulating trypanosomes, and be
+followed clinically.
+1st trimester: Pentamidine, Fexinidazole Acute, rapidly progressive disease – do not delay
+2nd trimester: Nifurtimox, Eflornithine, NECT treatment.
+1Fexinidazole should be administered only if there is a high confidence of long-term (up to 24
+months) follow up for early detection of relapse.
+2Eflorinithine monotherapy
+3NECT=Nifuritimox-Eflornithine Combination Therapy
+(1) First-line, (A) Alternative if preferred drug is not available,
+(R) Rescue = Treatment in cases of treatment failure with a preferred or alternative agent 25
+--- SLIDE 26 ---
+Pharmacokinetics and Mechanisms of Drugs for gambiense HAT
+Proposed
+PK Profiles Mechanisms of Action
+Fexinidazole Oral with meal, large V , high protein Activation by parasite nitroreductase to nitroso free
+d
+binding, t½ up to 27 h radicals that damage DNA and proteins
+loading dose qd x4d,
+then maintenance dose qd x6d
+Pentamidine IV, IM Interference with kinetoplast DNA, inhibits RNA and
+Binds plasma and tissue proteins ribosomal function, and nucleic acid synthesis
+high concentrations in organs
+poor CNS penetration Kinetoplast: Structure in mitochondria of Trypanosoma
+t½ 6-10 h and Leishmania essential for survival and energy
+production
+1x daily for 7-10 days
+Nifurtimox Oral, t½ ~3 h Like the fexinidazole
+3x daily x10 days
+(PK info is limited.)
+Eflornithine IV every 6h x 7d • Suicide inhibitor of ornithine decarboxylase
+t½ 1.5-5 h • Inhibits polyamine synthesis, cell growth and
+(PK info is limited.) differentiation
+26
+--- SLIDE 27 ---
+Adverse Effects of Drugs for gambiense HAT
+Adverse effects: Common / Potentially Serious (not a complete list)
+Fexinidazole Relatively well tolerated
+Neuropsychiatric effects (agitation, anxiety, insomnia, hallucination, psychosis)
+Neutropenia (monitor)
+QTc prolongation
+Pentamidine Relatively well tolerated
+Common: nausea, anorexia, dizziness, pruritis, injection site reaction
+Electrolyte abnormalities / hypoglycemia / renal insufficiency
+Nifurtimox Common (generally reversible)
+Nausea, vomiting, anorexia, weight loss headache, dizziness, vertigo, insomnia,
+polyneuropathy
+Eflornithine Frequent, generally reversible:
+fever, pruritus, hypertension, nausea, vomiting, diarrhea, abdominal pain, headaches,
+dizziness, hearing loss, seizure, arthralgia, rash, alopecia, and bone marrow
+suppression – anemia, leukopenia, thrombocytopenia
+27
+--- SLIDE 28 ---
+Pharmacokinetics and Mechanisms of Drugs for rhodesiense HAT
+Suramin, polyanionic compound Melarsoprol arsenical
+PK Slow IV infusion, protein binding 99% Slow IV (very irritating)
+Does not cross BBB Penetrates CSF
+Excreted in urine, detectable up to 3 months Rapid conversion to active trivalent melarsen oxide
+t½ 44-54 days Terminal t½ ~35 h
+MOA Inhibits glycolytic enzymes, disrupting energy Melarsen oxide reacts avidly and reversibly with
+metabolism sulfhydryl groups on adjacent carbon atoms, including
+Blocks NADH oxidation, impairing respiration forming a melarsen oxide-trypanothione complex,
+and energy production which inhibits trypanothione reductase
+Blocks purinergic signaling, interfering with Inactivates many enzymes of both the host and
+cellular processes the organism.
+Adverse Immediate hypersensitivity reaction with Melarsoprol reactive encephalopathy – can be fatal
+effects shock Toxicity to all organs can occur:
+nephrotoxicity, peripheral nephropathy, Heart, liver, kidney, bone marrow, GI tract, nerves
+exfoliative dermatitis, bone marrow toxicity (including paralysis)
+Coinfection: Onchocerca volvulus (worm, river Avoid in pregnancy.
+blindness) → severe immune reaction
+Avoid suramin in patients who may have
+O. volvulus coinfection 28
+--- SLIDE 29 ---
+Check your knowledge
+What are the therapeutic uses of fexinidazole?
+• All patients ≥6 years old, ≥20 kg for treatment of early-stage gambiense and rhodesiense HAT
+and in nonsevere late-stage gambiense HAT.
+What are the favorable properties of fexinidazole compared to the other anti-HAT drugs?
+• Oral, safer than the other drugs, crosses the blood-brain barrier.
+Why is long-term follow-up after fexinidazole treatment essential?
+• Follow-up for up to 24 months is required to detect relapse. Treatment failures can occur.
+Recurrence rates vary based on the patient’s adherence to the oral therapy (fexinidazole),
+severity of the disease, and the patient’s immune response.
+What are the preferred agents for severe late-stage gambiense HAT and for rhodesiense HAT?
+• Gambiense HAT: NECT – nifurtimox eflornithine combination therapy
+• Rhodesiense HAT: melarsoprol, the only effective agent
+Melarsoprol would be effective in early- and late-stage infection of both HAT diseases so why is it
+the first-line drug only in late-stage rhodesiense HAT?
+• It is very toxic and toxicity occurs frequently. Severe and common effects include heart, liver,
+kidney, bone marrow, GI tract, nerve toxicities. 29
+--- SLIDE 30 ---
+Check your knowledge
+• What are the mechanisms of action and major toxicities of the drugs for HAT treatment?
+Fexinidazole Activation by parasite nitroreductase to nitro free radicals that damage DNA and proteins
+• Neuropsychiatric effects; neutropenia; QTc prolongation
+Pentamidine Possibly interference with kinetoplast DNA, RNA and ribosomal function, and nucleic acid
+synthesis
+• Electrolyte abnormalities, hypoglycemia, renal insufficiency
+Nifurtimox Activation by parasite nitroreductase to nitroso free radicals (reactive oxygen species) that
+damage DNA and proteins
+• GI complaints, vertigo, insomnia, polyneuropathy
+Eflornithine Suicide inhibitor of ornithine decarboxylase which suppresses polyamine synthesis, cell
+growth and differentiation
+• Diarrhea, leukopenia, anemia, hair loss, tinnitus, elevated LFTs, dizziness, headache
+Suramin Possibly forms stable complexes with proteins and reacts with a variety of biomolecules
+• Effects are common: immediate hypersensitivity reaction with shock, skin eruptions,
+vomiting, photophobia, peripheral neuropathy, anaphylaxis, nephrotox.
+Melarsoprol Melarsen oxide reacts avidly and reversibly with sulfhydryl groups on adjacent carbon
+atoms, which inactivates many enzymes of both the host and the organism, including
+forming a melarsen oxide-trypanothione complex, which inhibits trypanothione reductase
+30
+• Severe effects common: heart, liver, kidney, bone marrow, GI tract, nerve toxicities
+--- SLIDE 31 ---
+Agents for the treatment of
+AMERICAN trypanosomiasis
+Trypanosoma cruzi
+Chagas disease
+benznidazole nifurtimox
+Benznidazole
+Nifurtimox
+Chagas disease.
+A. Acute myocarditis with atrophic
+myofibers separated by inflammatory cells.
+B.Trypanosoma cruzi amastigotes clustered
+in myofiber from the same case.
+(Reproduced with permission from Connor
+DH, Chandler FW, Schwartz DQ, et al:
+Pathology of Infectious Diseases. Stamford
+CT: Appleton & Lange; 1997.)
+31
+--- SLIDE 32 ---
+Pharmacology: Benznidazole and Nifurtimox
+Benznidazole (preferred agent) Nifurtimox
+PK Oral; eliminated in urine/feces; Oral; eliminated in urine as metabolites
+t ½ ~12h t½ ~3h
+Dosing 2x daily x 60 days Dosing 3x daily x 60 days
+Mechanism Reduced by trypanosomal enzyme trypanosomal nitroreductase → nitro anion free radicals →
+generate reactive oxygen species that form covalent attachments with parasite’s DNA and
+other macromolecules → membrane injury, enzyme inactivation, DNA damage
+Varies with geography, phase, and form of the disease
+Effectiveness
+Acute Chagas disease: Cure rates >80% (variable)
+Adverse effects Photosensitivity → rash, may progress to Common: GI and CNS effects
+include severe dermatitis rarely Nausea/vomiting, abdominal discomfort
+Peripheral neuropathy Irritability, disorientation, headache,
+Bone marrow suppression (rare) dizziness, insomnia
+Severe effects → interrupt therapy Less common: paresthesia, polyneuropathy,
+tremors
+Avoid in Animal reproduction studies suggest harm to the fetus. Data on the treatment of acute
+pregnancy Chagas disease is limited. There are no specific recommendations for preventing vertical
+transmission of disease in pregnant patients.
+32
+--- SLIDE 33 ---
+Disseminated cutaneous leishmaniasis associated with Chronic nonhealing leishmaniasis recidivans:
+specific anergy induced by Leishmania aethiopica Satellite lesions developing around an old sore
+infection.
+Agents for the treatment of leishmaniasis
+Sodium Stibogluconate / Meglumine Antimoniate
+Amphotericin B, liposomal
+ Miltefosine
+Antimony
+Paromomycin
+Sb #51
+33
+Sodium Stibogluconate
+--- SLIDE 34 ---
+Leishmaniasis
+• Vector borne – sand fly
+• Leishmania are a heterogenous group of protozoa (Order: Trypanosomatida).
+• Endemic in Southern Europe, subtropical, tropical regions
+• Obligate intracellular parasites that infect and proliferate in macrophages,
+monocytes, and other types of phagocytes
+• Diseases are characterized by inflammation, infiltration, and necrosis.
+Leishmania species produce widely varying clinical syndromes ranging from self-
+healing cutaneous ulcers to fatal visceral disease.
+Visceral leishmaniasis
+Mucosal leishmaniasis
+Cutaneous leishmaniasis (Old World and New World varieties)
+34
+--- SLIDE 35 ---
+Pharmacology of the Pentavalent Antimonials: Sod. Stibogluconate, Meglumine
+PK IV, IM sequester in tissues (eg liver, spleen) urine, unchanged t½ ~30-80 h
+terminal
+MOA Mechanism unclear. Likely involves several pathways:
+Pentavalent antimonial is reduced within the parasite→ toxic Sb3+ species→ may bind thiol groups and interfere
+with various enzymatic systems→ inhibits ATP and GTP availability, disrupts DNA transcription and replication,
+and other metabolic pathways→ kills amastigotes in phagolysosomes of macrophages
+Uses Leishmaniasis:
+Cutaneous: intralesional injection (also paromomycin topical / nondrug approaches: cryo- and thermotherapy)
+Mucosal forms: First-line therapy throughout the world
+Leishmaniasis, visceral (Kala-azar): Alternative to liposomal amphotericin B (AMB is first-line)
+Efficacy: >95% effective outside certain regions of India
+AEs Relatively well-tolerated. Toxicity increases over the course of therapy (cumulative doses) and is reversible.
+• Cardiac: nonspecific EKG changes: T wave suppression, QTc interval prolongation
+• Hematology: Anemia, leukopenia, thrombocytopenia may occur (correct iron deficiency prior to therapy)
+• Hepatotoxicity; pancreatitis; renal toxicity; muscle aches, nausea, vomiting, fatigue, rash
+➢ Practice point: Monitoring, prior to and weekly during therapy: EKG, CBC, and serum creatinine,
+transaminases, lipase and amylase levels.
+Pregnancy Safe use has not been established.
+Visceral leishmaniasis is potentially fatal, patients should always be treated without delay. 35
+--- SLIDE 36 ---
+Leishmaniasis: Additional drug treatments
+Drug Cutaneous Visceral Post kala-azar
+Proposed mechanism leishmaniasis leishmaniasis dermal lesions
+Amphotericin B IV daily for 6-7 doses  Preferred option, including pregnancy IV to cumulative dose
+liposomal or IV 0.5-1 mg/kg daily or IV to cumulative dose
+Deoxycholate every other day for  Secondary prophylaxis (Mediterranean,
+(infusion reactions, cumulative 15-30 mg/kg South Asia, the Americas)
+nephrotoxicity, anemia) dose IV every 3-4 weeks
+Forms complex with ergosterol in the cell membrane (like the antifungal action), forming pores, causing leakage of
+cellular contents.
+Miltefosine Oral TID x 28 days Oral TID x28 days Preferred option
+alternative Oral x12 weeks
+Probably interacts with phospholipids and steroids in parasitic cell membranes, inhibition of cytochrome c oxidase which
+inhibits mitochondrial function, and apoptosis-like death
+Paromomycin Topical ointment or cream IV or IM x21 days in comb. w miltefosine
+protein synthesis or antimonial
+inhibitor Preferred in East Africa
+Pentamidine Alternative Secondary prophylaxis
+Isothionate IV or IM weekly x3 doses (east Africa)
+unknown mechanism Suboptimal efficacy and IV every 3-4 weeks
+toxicity
+Fluconazole Oral daily x 6 weeks
+36
+Ketoconazole Oral daily x 28 days
+--- SLIDE 37 ---
+Agents used in the treatment of
+toxoplasmosis
+Spiramycin
+Pyrimethamine + leucovorin (folinic acid) + sulfadiazine
+Toxoplasma gondii. A. Invasive
+trophozoite forms. B. Cyst in
+(alternatives for sulfadiazine: Atovaquone or Clindamycin)
+tissue. (Reproduced with
+permission from Nester EW,
+Anderson DG, Roberts CE Jr,
+et al: Microbiology: A Human
+Perspective, 6th ed. New York,
+NY: McGraw Hill; 2008.)
+Citation: Chapter 51 Apicomplexa and Microsporidia, Ryan KJ. Sherris & Ryan's Medical Microbiology, 8e; 2022. Available
+at: https://accessmedicine.mhmedical.com/content.aspx?sectionid=260929904&bookid=3107 Accessed: May 10, 2023
+Copyright © 2023 McGraw-Hill Education. All rights reserved 37
+--- SLIDE 38 ---
+Toxoplasmosis
+Toxoplasma gondii: Cats are natural hosts.
+• Toxoplasmosis is an acute, self-limiting illness in most people.
+• In pregnancy, vertical transmission to the fetus causes congenital toxoplasmosis.
+• Immunocompromised HIV/AIDS patients are at risk for developing toxoplasmic
+encephalitis.
+Pregnancy:
+oral Spiramycin (a macrolide antibiotic) at <14 weeks gestation
+oral Pyrimethamine + leucovorin + sulfadiazine 14 weeks gestation and
+documented fetal infection
+HIV/AIDS: Treatment of cerebral toxoplasmosis
+oral Pyrimethamine + leucovorin + sulfadiazine or IV TMP-SMX
+(alternatives if sulfonamide is not tolerated: atovaquone or clindamycin)
+38
+--- SLIDE 39 ---
+Check your knowledge
+Which of the following is frequently used for the treatment of leishmaniasis?
+A. Folate synthesis inhibition disrupts DNA synthesis.
+B. Nitroso free radicals generate reactive oxygen species that form covalent attachments with
+parasite’s DNA and other macromolecules causing membrane injury, enzyme inactivation, DNA
+damage
+C. Protein synthesis inhibition by binding the 16S rRNA of the 30S ribosome, which interferes with
+the protein synthesis machinery.
+D. Toxic Sb3+ interferes with various enzymatic systems, which disrupts ATP and GTP availability,
+DNA transcription and replication, and other metabolic pathways
+• D. Pentavalent antimonials sodium stibogluconate and meglumine inhibit ATP and GTP
+availability, disrupt DNA transcription and replication, and other metabolic pathways
+What are the drugs in each of the options?
+A. Pyrimethamine: DHFR inhibitor and Sulfadiazine: dihydropteroate synthase (DHPS)
+B. Metronidazole, fexinidazole, nifurtimox, benznidazole
+C. Paromomycin
+39
+--- SLIDE 40 ---
+Check your knowledge
+Looking at the mechanisms of action of the antiprotozoal drugs, what is the common thread?
+• Antiparasitic drugs generate free radicals and reactive oxygen species during activation, which
+damage cellular and molecular structures, or complex and inactivate cellular proteins or
+interfere with metabolism. Thus, parasites die.
+What are the preferred drugs for treatment of the following parasitic infections?
+• Amoebiasis: metronidazole (systemic); paromomycin (luminal)
+• Gambiense HAT: fexinidazole early-stage, nonsevere late-stage 6 years old; NECT severe late stage
+• Rhodesiense HAT: fexinidazole early-stage 6 years old; melarsoprol late-stage
+• Chagas disease: benznidazole (better tolerated); nifurtimox
+• Mucocutaneous leishmaniasis: sod. stibogluconate / meglumine
+• Visceral leishmaniasis: amphotercin B / pentavalent antimonial / miltefosine (oral)
+• Toxoplasmosis, first trimester: spiramycin
+• Toxoplasmosis, 14 weeks gestation: pyrimethamine + sulfadiazine + leucovorin
+40
+--- SLIDE 41 ---
+The answers to the Check Your Knowledge questions
+summarize the pharmacology of the non-plasmodial
+antiprotozoal drugs.
+41
+--- SLIDE 42 ---
+Check your knowledge
+What are the medical justifications for using two different drugs in the treatment of amoebiasis? What are the
+drugs described in this PowerPoint?
+• Metronidazole is a tissue-acting drug to eliminate invasive trophozoites, particularly in cases of amoebic
+liver abscess or systemic infection.
+• Paromomycin (oral) is a luminal agent that acts in the intestines to eliminate amoeba cysts and
+trophozoites, which prevents recurrence and transmission.
+What are their mechanisms of action?
+• Metronidazole: Activation by parasite nitroreductase to nitroso free radicals (reactive oxygen species)
+that damage DNA and proteins
+• Paromomycin: Protein synthesis inhibitor, binds 16S rRNA on the 30S ribosome.
+What other organisms are susceptible to each of the drugs?
+• Metronidazole is active against the protozoa Trichomonas vaginalis and Giardia lamblia as well
+Entamoeba histolytica.
+• FYI: Metronidazole is also effective against obligate anaerobic gram-negativeand gram-positive bacteria,
+including C. difficile.
+• Paromomycin is active against luminal protoazoa G. lamblia and Cryptosporidium and Leishmania,
+which causes cutaneous, mucosal, and visceral infection.
+42
+--- SLIDE 43 ---
+Check your knowledge
+What are the therapeutic uses of fexinidazole?
+• All patients ≥6 years old, ≥20 kg for treatment of early-stage gambiense and rhodesiense HAT
+and in nonsevere late-stage gambiense HAT.
+What are the favorable properties of fexinidazole compared to the other anti-HAT drugs?
+• Oral, safer than the other drugs, crosses the blood-brain barrier.
+Why is long-term follow-up after fexinidazole treatment essential?
+• Follow-up for up to 24 months is required to detect relapse. Treatment failures can occur.
+Recurrence rates vary based on the patient’s adherence to the oral therapy (fexinidazole),
+severity of the disease, and the patient’s immune response.
+What are the preferred agents for severe late-stage gambiense HAT and for rhodesiense HAT?
+• Gambiense HAT: NECT – nifurtimox eflornithine combination therapy
+• Rhodesiense HAT: melarsoprol, the only effective agent
+Melarsoprol would be effective in early- and late-stage infection of both HAT diseases so why is it
+the first-line drug only in late-stage rhodesiense HAT?
+• It is very toxic and toxicity occurs frequently. Severe and common effects include heart, liver,
+kidney, bone marrow, GI tract, nerve toxicities. 43
+--- SLIDE 44 ---
+Check your knowledge
+• What are the mechanisms of action and major toxicities of the drugs for HAT treatment?
+Fexinidazole Activation by parasite nitroreductase to nitroso free radicals (reactive oxygen species) that
+damage DNA and proteins
+• Neuropsychiatric effects; neutropenia; QTc prolongation
+Pentamidine Possibly interference with kinetoplast DNA, RNA and ribosomal function, and nucleic acid
+synthesis
+• Electrolyte abnormalities, hypoglycemia, renal insufficiency
+Nifurtimox Activation by parasite nitroreductase to nitroso free radicals that damage DNA and proteins
+• GI complaints, vertigo, insomnia, polyneuropathy
+Eflornithine Suicide inhibitor of ornithine decarboxylase which suppresses polyamine synthesis, cell
+growth and differentiation
+• Diarrhea, leukopenia, anemia, hair loss, tinnitus, elevated LFTs, dizziness, headache
+Suramin Possibly forms stable complexes with proteins and reacts with a variety of biomolecules
+• Adverse effects are common: immediate hypersensitivity reaction with shock, skin
+eruptions, vomiting, photophobia, peripheral neuropathy, anaphylaxis, nephrotoxicity
+Melarsoprol Melarsen oxide reacts avidly and reversibly with sulfhydryl groups on adjacent carbon
+atoms, which inactivates many enzymes of both the host and the organism, including
+forming a melarsen oxide-trypanothione complex, which inhibits trypanothione reductase
+• Severe effects common: heart, liver, kidney, bone marrow, GI tract, nerve toxicities 44
+--- SLIDE 45 ---
+Check your knowledge
+Which of the following is frequently used for the treatment of leishmaniasis?
+A. Folate synthesis inhibition disrupts DNA synthesis.
+B. Nitroso free radicals generate reactive oxygen species that form covalent attachments with parasite’s
+DNA and other macromolecules causing membrane injury, enzyme inactivation, DNA damage
+C. Protein synthesis inhibition by binding the 16S rRNA of the 30S ribosome, which interferes with the
+protein synthesis machinery.
+D. Toxic Sb3+ interferes with various enzymatic systems, which disrupts ATP and GTP availability, DNA
+transcription and replication, and other metabolic pathways
+• Answer: D. Pentavalent antimonials sodium stibogluconate and meglumine inhibit ATP and GTP
+availability, disrupt DNA transcription and replication, and other metabolic pathways
+What are the drugs in each of the options?
+A. Pyrimethamine: DHFR inhibitor and Sulfadiazine: dihydropteroate synthase (DHPS)
+B. Metronidazole, fexinidazole, nifurtimox, benznidazole
+C. Paromomycin
+45
+--- SLIDE 46 ---
+Check your knowledge
+Looking at the mechanisms of action of the antiprotozoal drugs, what is the common thread?
+• Antiparasitic drugs generate free radicals and reactive oxygen species during activation, which damage
+cellular and molecular structures, or complex and inactivate cellular proteins or interfere with
+metabolism. Thus, parasites die.
+What are the preferred drugs for treatment of the following parasitic infections?
+• Amoebiasis: metronidazole (systemic); paromomycin (luminal)
+• Gambiense HAT: fexinidazole early-stage, nonsevere late-stage 6 years old; NECT severe late stage
+• Rhodesiense HAT: fexinidazole early-stage 6 years old; melarsoprol late-stage
+• Chagas disease: benznidazole (better tolerated); nifurtimox
+• Mucocutaneous leishmaniasis: sod. stibogluconate / meglumine
+• Visceral leishmaniasis: amphotercin B / pentavalent antimonial / miltefosine (oral)
+• Toxoplasmosis, first trimester: spiramycin
+• Toxoplasmosis, 14 weeks gestation: pyrimethamine + sulfadiazine + leucovorin
+46
+--- SLIDE 47 ---
+References
+• Access Medicine Goodman & Gilman’s The Pharmacological Basis of Therapeutics 14e, 2023; Chapter 67:
+Chemotherapy of Protozoal Infections: Amebiasis, Giardiasis, Trichomoniasis, Trypanosomiasis, Leishmaniasis,
+and Other Protozoal Infection
+• Access Medicine Harrison’s Principles of Internal Medicine, 21e, 2023; Chapter 222. Pharmacology of Agents
+Used to Treat Parasitic Infections and Chapter 227: Chagas Disease and African Trypanosomiasis
+• Access Medicine Jawetz, Melnick & Adleberg’s Medical Microbiology, 28e, 2019 Chapter 46: Medical
+Parasitology
+• Access Medicine Katzung’s Basic & Clinical Pharmacology, 16e, 2024; Chapter 52: Antiprotozoal Drugs
+• Access Medicine Sherris & Ryan’s Medical Microbiology, 8e, 2022; Chapter 52: Sarcomastigophora: The
+Amebas; Chapter 53: Sacromastigophora: The Flagellates
+• Centers for Disease Control and Prevention http://www.cdc.gov/parasites/
+• Lexidrugs monographs
+• The Sanford Guide to Antimicrobial Therapy, 52e, 2022
+• UpToDate: various topics; literature reviews are current
+• World Health Organization WHO: Essential Medicines and Health Products Information Portal
+https://www.who.int/
+• Feldman R, Jaszczenski R. Can Metronidazole Cause a Disulfiram-Like Reaction? A Case-Control Study
+Propensity Matched by Age, Sex, and Ethanol Concentration. WMJ. 2023 Jul;122(3):171-177. PMID: 37494646.
+https://pubmed.ncbi.nlm.nih.gov/37494646/
+47
+--- SLIDE 48 ---
+Lecture Feedback Form:
+https://comresearchdata.nyit.edu/redcap/surveys/?s=HRCY448FWYXREL4R

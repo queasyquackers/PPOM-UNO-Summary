@@ -1,0 +1,3346 @@
+1
+00:00:00,670 --> 00:00:03,110
+Welcome students to
+the Pharmacology of
+
+2
+00:00:03,110 --> 00:00:06,290
+Antiretroviral Agents,
+Dr. Goldstein speaking.
+
+3
+00:00:06,290 --> 00:00:10,570
+This is one lecture in two
+parts. We'll begin with an
+
+4
+00:00:10,570 --> 00:00:14,750
+overview to look at the
+various drug targets and how
+
+5
+00:00:14,750 --> 00:00:20,270
+they relate to the replication
+process of HIV, and two
+
+6
+00:00:20,270 --> 00:00:23,990
+drug classes, the nucleoside
+reverse transcriptase
+
+7
+00:00:23,990 --> 00:00:28,490
+inhibitors and the integrase
+strand transfer inhibitors.
+
+8
+00:00:29,410 --> 00:00:31,930
+Please contact me if you'd like
+
+9
+00:00:31,930 --> 00:00:33,450
+to talk about pharmacology.
+
+10
+00:00:37,300 --> 00:00:39,690
+The learning objectives
+are the same for
+
+11
+00:00:39,690 --> 00:00:42,090
+both parts because
+it is one lecture.
+
+12
+00:00:45,270 --> 00:00:50,830
+The therapeutic use is
+central to the pharmacology
+
+13
+00:00:50,830 --> 00:00:53,070
+of these drugs.
+They are used in
+
+14
+00:00:53,070 --> 00:00:55,590
+combination. The combinations
+are going to be related
+
+15
+00:00:55,590 --> 00:01:02,170
+to the mechanisms
+of action and to the
+
+16
+00:01:02,170 --> 00:01:05,550
+adverse effects, the
+pharmacokinetic properties,
+
+17
+00:01:05,750 --> 00:01:06,930
+etc.
+
+18
+00:01:08,300 --> 00:01:10,350
+Here are some links.
+
+19
+00:01:13,140 --> 00:01:17,890
+basic statistics show
+us that HIV is still a
+
+20
+00:01:17,890 --> 00:01:22,690
+problem with new cases
+diagnosed with treatment
+
+21
+00:01:22,690 --> 00:01:26,390
+experienced patients who
+need changes in their
+
+22
+00:01:26,390 --> 00:01:30,590
+therapy and with people
+who thankfully are
+
+23
+00:01:31,110 --> 00:01:35,650
+adhering to therapy and
+living into older age.
+
+24
+00:01:39,550 --> 00:01:43,650
+Here are the key points.
+I won't go over them with
+
+25
+00:01:43,650 --> 00:01:48,350
+you. They're here for you,
+help prepare you for the
+
+26
+00:01:48,350 --> 00:01:53,150
+lecture or to use them or
+not use them. It's up to you.
+
+27
+00:01:59,380 --> 00:02:03,740
+Here's an electron
+micrograph of HIV virus. This
+
+28
+00:02:03,740 --> 00:02:08,360
+is the small ground, small
+green spheres, small green
+
+29
+00:02:08,360 --> 00:02:11,640
+circles attaching to a
+white blood cell which is
+
+30
+00:02:11,640 --> 00:02:16,180
+the large orange colored
+structure in the middle.
+
+31
+00:02:18,580 --> 00:02:23,040
+This is an excellent
+resource that I strongly
+
+32
+00:02:23,040 --> 00:02:27,140
+advise you to look
+at later on in your
+
+33
+00:02:27,140 --> 00:02:31,020
+practice when you do
+need to have information
+
+34
+00:02:31,020 --> 00:02:36,120
+about HIV guidelines,
+about HIV in general,
+
+35
+00:02:36,460 --> 00:02:38,980
+about opportunistic infections,
+
+36
+00:02:38,980 --> 00:02:41,520
+everything related to HIV.
+
+37
+00:02:42,580 --> 00:02:47,240
+Because care of HIV AIDS
+patients has shifted from
+
+38
+00:02:47,240 --> 00:02:50,380
+specialists, infectious
+disease specialists, to the
+
+39
+00:02:50,380 --> 00:02:54,260
+primary care physicians. And
+primary care physicians are
+
+40
+00:02:54,260 --> 00:02:58,820
+strongly encouraged to be
+trained in treating HIV.
+
+41
+00:03:02,980 --> 00:03:07,480
+Picture of the virus here
+on the upper right side.
+
+42
+00:03:09,710 --> 00:03:13,620
+This outer kind of
+fluffy region, this is
+
+43
+00:03:13,620 --> 00:03:18,500
+made up of glycoproteins,
+glycoprotein GP120.
+
+44
+00:03:19,860 --> 00:03:26,030
+And here, extending
+down, GP141.
+
+45
+00:03:27,400 --> 00:03:37,640
+We see the capsid and
+the two retro, sorry,
+
+46
+00:03:37,640 --> 00:03:40,220
+reverse transcriptases
+in the middle.
+
+47
+00:03:41,880 --> 00:03:45,260
+The lower figure is
+showing us the docking.
+
+48
+00:03:45,260 --> 00:03:52,240
+Here's our HIV with our
+GP120, and that will
+
+49
+00:03:52,240 --> 00:04:00,560
+dock to the host cell
+by grabbing on to CD4.
+
+50
+00:04:01,680 --> 00:04:08,460
+and this opens up GP41
+which will then sort
+
+51
+00:04:08,460 --> 00:04:14,540
+of pull the virus to
+the host cell cause
+
+52
+00:04:14,540 --> 00:04:18,460
+fusion and it will
+enter the host cell.
+
+53
+00:04:22,180 --> 00:04:23,980
+This is a picture of HIV
+
+54
+00:04:23,980 --> 00:04:26,340
+budding from the infected cell.
+
+55
+00:04:26,520 --> 00:04:29,640
+There are so, so, so many,
+
+56
+00:04:29,640 --> 00:04:32,680
+many, many variants of HIV.
+
+57
+00:04:34,960 --> 00:04:38,600
+And these are the
+antiretroviral drug classes.
+
+58
+00:04:38,600 --> 00:04:42,260
+In this lecture we'll be
+talking about these two.
+
+59
+00:04:44,600 --> 00:04:48,620
+Many antiretroviral drugs
+are formulated in two
+
+60
+00:04:48,620 --> 00:04:51,740
+drug combinations and three
+drug combinations. These
+
+61
+00:04:51,740 --> 00:04:55,680
+are called fixed-dose
+combinations, which makes it
+
+62
+00:04:55,680 --> 00:05:00,240
+so much easier for patients
+to stick to therapy.
+
+63
+00:05:00,360 --> 00:05:04,580
+If they can be taking
+one pill once a
+
+64
+00:05:04,580 --> 00:05:07,840
+day, it really
+encourages adherence.
+
+65
+00:05:09,940 --> 00:05:18,760
+Here is our HIV replication
+process with drugs indicated
+
+66
+00:05:18,760 --> 00:05:23,240
+on here. We have our
+drugs that prevent fusion.
+
+67
+00:05:25,960 --> 00:05:32,200
+We have our recent drug that
+will inhibit the capsid.
+
+68
+00:05:34,260 --> 00:05:39,520
+We have drugs that inhibit
+retrovirus, I mean reverse
+
+69
+00:05:39,520 --> 00:05:43,580
+transcriptase, RT, reverse
+transcriptase. Drugs
+
+70
+00:05:43,580 --> 00:05:47,940
+that inhibit the integrase
+step, the integration
+
+71
+00:05:47,940 --> 00:05:53,400
+into the host chromosome.
+Drugs that inhibit the
+
+72
+00:05:53,480 --> 00:05:59,380
+splitting up of the
+polyprotein, and therefore the
+
+73
+00:06:00,020 --> 00:06:04,760
+various proteins are not
+released to be functional.
+
+74
+00:06:04,880 --> 00:06:08,520
+And here we have
+the assembly, the
+
+75
+00:06:08,520 --> 00:06:11,860
+capsid inhibitor will
+inhibit that again,
+
+76
+00:06:12,060 --> 00:06:16,040
+and budding and
+release and maturation.
+
+77
+00:06:19,100 --> 00:06:22,760
+VIRAL RESISTANCE IS
+A TREMENDOUS PROBLEM.
+
+78
+00:06:23,240 --> 00:06:27,580
+HIV REVERSE TRANSCRIPTASE
+IS ERROR PRONE, LAX
+
+79
+00:06:27,580 --> 00:06:29,980
+APPROPRIATING FUNCTION,
+AND MUTATIONS ARE
+
+80
+00:06:29,980 --> 00:06:33,520
+FREQUENT. THAT'S JUST
+THE NATURE OF THE HIV.
+
+81
+00:06:33,520 --> 00:06:35,780
+IT HAS A HIGH MUTATION RATE AND
+
+82
+00:06:35,780 --> 00:06:38,180
+TREMENDOUS NUMBER OF
+INFECTIOUS VARIANTS.
+
+83
+00:06:38,680 --> 00:06:43,700
+VIRAL LOGIC FAILURE IS
+DEFINED AS THE INABILITY TO
+
+84
+00:06:43,700 --> 00:06:47,640
+ACHIEVE OR MAINTAIN SUPRESSION
+OF VIRAL REPLICATION to an
+
+85
+00:06:47,640 --> 00:06:53,320
+HIV-RNA level of less than
+200 copies per milliliter.
+
+86
+00:06:53,680 --> 00:07:00,060
+Transmitted drug
+resistance is acquired
+
+87
+00:07:00,060 --> 00:07:02,220
+through person
+-to-person spread,
+
+88
+00:07:03,360 --> 00:07:08,460
+and there is a high
+likelihood that all untreated
+
+89
+00:07:08,680 --> 00:07:13,280
+infected individuals harbor
+viruses with single amino
+
+90
+00:07:13,280 --> 00:07:18,240
+acid mutations that confer
+some degree of resistance.
+
+91
+00:07:22,360 --> 00:07:24,980
+These are in untreated people.
+
+92
+00:07:27,870 --> 00:07:31,440
+Goals of therapy, we
+always want to know what it
+
+93
+00:07:31,440 --> 00:07:34,740
+is we want to achieve
+with our drug therapy so
+
+94
+00:07:34,740 --> 00:07:39,300
+we can monitor for it.
+So maximally and durably
+
+95
+00:07:39,300 --> 00:07:43,040
+suppressed plasma HIV RNA,
+so that's a viral load,
+
+96
+00:07:43,340 --> 00:07:46,020
+suppressing the
+viral load, restoring
+
+97
+00:07:46,020 --> 00:07:50,060
+and preserving
+immunologic function, CD4,
+
+98
+00:07:51,160 --> 00:07:56,180
+reducing HIV-associated
+morbidity, prolonging the
+
+99
+00:07:56,180 --> 00:08:01,060
+duration and quality of
+survival so the patient can
+
+100
+00:08:01,060 --> 00:08:06,600
+live a normal life, and
+preventing transmission.
+
+101
+00:08:09,880 --> 00:08:15,340
+Antiretroviral therapy,
+ART, is recommended in all
+
+102
+00:08:15,340 --> 00:08:19,620
+HIV-infected individuals
+to prevent transmission.
+
+103
+00:08:19,620 --> 00:08:23,300
+These are all patient
+populations who are
+
+104
+00:08:23,300 --> 00:08:30,540
+infected with HIV. Consistent
+and effective use of
+
+105
+00:08:30,540 --> 00:08:33,460
+antiretroviral therapy
+resulting in sustained
+
+106
+00:08:33,460 --> 00:08:37,420
+reduction in viral load
+in conjunction with
+
+107
+00:08:37,420 --> 00:08:41,760
+behaviors are essential
+tools for preventing
+
+108
+00:08:41,760 --> 00:08:46,240
+****** and blood-borne
+transmission of HIV. The
+
+109
+00:08:51,540 --> 00:08:56,000
+principles of antiretroviral
+therapy, the current
+
+110
+00:08:56,000 --> 00:09:01,380
+standard of care is 3 to 4
+antiretroviral agents for
+
+111
+00:09:01,380 --> 00:09:05,500
+the entire duration of
+treatment, which is lifelong.
+
+112
+00:09:06,700 --> 00:09:08,800
+Two NRTIs,
+
+113
+00:09:09,820 --> 00:09:13,060
+key, and an INSTi are
+
+114
+00:09:18,840 --> 00:09:22,980
+the preferred initial
+antiretroviral regimen.
+
+115
+00:09:24,360 --> 00:09:27,920
+Alternatives for the
+base, it's always going to
+
+116
+00:09:27,920 --> 00:09:31,460
+have two NRTIs as long
+as we can find effective
+
+117
+00:09:31,460 --> 00:09:37,840
+ones, which we will in
+the therapy-naive patient.
+
+118
+00:09:38,880 --> 00:09:42,800
+So we have a non
+-nucleoside reverse
+
+119
+00:09:42,800 --> 00:09:46,500
+transcriptase inhibitor
+or a boosted protease
+
+120
+00:09:46,500 --> 00:09:48,420
+inhibitor. So those
+are the options.
+
+121
+00:09:48,900 --> 00:09:53,580
+Recently, fairly recently,
+relatively recently,
+
+122
+00:09:53,580 --> 00:09:59,620
+some two drug regimens
+have been approved for
+
+123
+00:09:59,620 --> 00:10:02,740
+selected patients. I'll
+point that out later on.
+
+124
+00:10:03,500 --> 00:10:08,040
+The outcome of therapy should
+be an undetectable viral
+
+125
+00:10:08,040 --> 00:10:13,120
+load within 24 weeks of
+starting treatment. and CD4
+
+126
+00:10:13,120 --> 00:10:20,540
+count increase of 50 to 150
+cells per cubic millimeter,
+
+127
+00:10:20,540 --> 00:10:24,150
+which is the same as a
+microliter, in the first year.
+
+128
+00:10:26,200 --> 00:10:30,620
+Treatment failure generally
+requires implementation
+
+129
+00:10:30,620 --> 00:10:36,790
+of a completely new
+combination of drugs. And
+
+130
+00:10:36,790 --> 00:10:45,740
+treatment failure is usually
+a result of non-adherence.
+
+131
+00:10:46,560 --> 00:10:51,540
+Adhering to the
+therapy continuously is
+
+132
+00:10:51,540 --> 00:10:56,880
+essential for achieving
+these outcomes.
+
+133
+00:11:00,920 --> 00:11:04,820
+the adverse effects of
+antiretroviral therapy and
+
+134
+00:11:04,820 --> 00:11:09,420
+this is class effect just
+for all of them has something
+
+135
+00:11:09,420 --> 00:11:12,340
+called immune reconstitution
+inflammatory syndrome
+
+136
+00:11:12,820 --> 00:11:18,280
+as a person who has aids
+who has a low cd4 count
+
+137
+00:11:18,280 --> 00:11:22,480
+is being treated with
+effective antiretroviral
+
+138
+00:11:22,480 --> 00:11:26,970
+therapy. That CD4 count
+will increase as the
+
+139
+00:11:26,970 --> 00:11:31,200
+viral load decreases.
+And as it does, the host
+
+140
+00:11:31,200 --> 00:11:35,180
+immune system becomes
+reconstituted, becomes active
+
+141
+00:11:35,180 --> 00:11:39,980
+again. And it will then
+recognize and attack
+
+142
+00:11:41,740 --> 00:11:45,400
+subclinical opportunistic
+infections or malignancies.
+
+143
+00:11:45,400 --> 00:11:48,820
+So you get this inflammatory
+syndrome occurring.
+
+144
+00:11:49,750 --> 00:11:52,300
+There are, of course,
+class and drug-specific
+
+145
+00:11:52,300 --> 00:11:56,200
+toxicities. As a general
+statement, the later
+
+146
+00:11:56,200 --> 00:11:58,640
+generation drugs, and
+we'll talk about first
+
+147
+00:11:58,640 --> 00:12:02,120
+generation and second
+generation, are generally more
+
+148
+00:12:02,120 --> 00:12:05,320
+tolerable than the first
+generation versions.
+
+149
+00:12:05,680 --> 00:12:08,800
+So we'll see that the
+second generation versions
+
+150
+00:12:08,800 --> 00:12:12,420
+tend to be the ones that
+are in clinical use.
+
+151
+00:12:13,620 --> 00:12:18,260
+And And nearly all of
+them are associated with
+
+152
+00:12:18,260 --> 00:12:21,420
+significant pharmacokinetic
+drug interactions.
+
+153
+00:12:21,420 --> 00:12:24,540
+And we're talking about
+they are substrates
+
+154
+00:12:24,540 --> 00:12:27,520
+of these various
+metabolic enzymes and P
+
+155
+00:12:27,520 --> 00:12:31,760
+-glycoprotein and certain
+other efflux transporters.
+
+156
+00:12:34,330 --> 00:12:36,880
+Some of them are
+inhibitors. Some of
+
+157
+00:12:36,880 --> 00:12:38,980
+them are inducers.
+Some of them do both
+
+158
+00:12:38,980 --> 00:12:42,140
+of metabolic enzymes
+and transporters.
+
+159
+00:12:44,560 --> 00:12:47,680
+So we'll begin with
+the nucleoside reverse
+
+160
+00:12:47,680 --> 00:12:50,680
+transcriptase inhibitors,
+and there is one
+
+161
+00:12:50,680 --> 00:12:54,620
+nucleotide reverse
+transcriptase inhibitors.
+
+162
+00:12:54,860 --> 00:12:57,680
+As I go through, I'm
+including both of
+
+163
+00:12:57,680 --> 00:12:59,850
+them, but I'll just
+say nucleoside because
+
+164
+00:12:59,850 --> 00:13:01,840
+I don't want to say
+the whole thing.
+
+165
+00:13:02,560 --> 00:13:05,000
+The ones in clinical
+use at the moment
+
+166
+00:13:05,000 --> 00:13:07,280
+are listed here
+with stars on them.
+
+167
+00:13:07,520 --> 00:13:11,280
+These on the bottom
+are actually no longer
+
+168
+00:13:11,280 --> 00:13:14,540
+marketed. These are
+first generation.
+
+169
+00:13:17,070 --> 00:13:19,340
+Zydovudane is the
+first generation too,
+
+170
+00:13:19,340 --> 00:13:21,340
+but it has an
+important clinical use.
+
+171
+00:13:22,260 --> 00:13:25,300
+So these two NRTIs
+are referred to as
+
+172
+00:13:25,300 --> 00:13:29,060
+the backbone of
+antiretroviral therapy.
+
+173
+00:13:29,560 --> 00:13:34,780
+And wherever possible,
+there will always be two
+
+174
+00:13:34,780 --> 00:13:38,600
+NRTIs put together. And
+I say whenever possible,
+
+175
+00:13:38,600 --> 00:13:40,480
+thinking about people
+who are heavily
+
+176
+00:13:40,480 --> 00:13:45,040
+treatment experienced, which
+means they are harboring
+
+177
+00:13:45,040 --> 00:13:50,440
+quite a variety of
+resistant HIV strains.
+
+178
+00:13:54,120 --> 00:13:57,860
+This is just a
+little slide to show
+
+179
+00:13:57,860 --> 00:14:03,800
+your definition. A
+nucleoside is the
+
+180
+00:14:03,860 --> 00:14:12,680
+nucleic acid base
+with the ribose on it.
+
+181
+00:14:13,560 --> 00:14:20,040
+Now, a nucleotide has
+a phosphate group on
+
+182
+00:14:20,040 --> 00:14:23,660
+it, or two or three. So
+if there's a phosphate
+
+183
+00:14:23,660 --> 00:14:25,870
+group there, it
+becomes a nucleotide.
+
+184
+00:14:27,240 --> 00:14:33,220
+This is how the NRTIs
+are categorized.
+
+185
+00:14:33,220 --> 00:14:39,740
+They are nucleotide analogs,
+
+186
+00:14:40,160 --> 00:14:42,200
+thymidine, cytidine,
+
+187
+00:14:42,200 --> 00:14:44,160
+guanosine, and adenosine.
+
+188
+00:14:45,660 --> 00:14:47,320
+Zydovudine is the one in this
+
+189
+00:14:47,320 --> 00:14:49,120
+group, the thymidine group.
+
+190
+00:14:49,840 --> 00:14:52,800
+These two, lamivudine and m
+
+191
+00:14:52,800 --> 00:14:55,420
+-tricitabine, are in
+the cytidine group.
+
+192
+00:14:55,800 --> 00:14:58,020
+Abacavir is the only
+one in the guanosine
+
+193
+00:14:58,020 --> 00:15:02,480
+group, and tenofavir
+is in the adenosine
+
+194
+00:15:02,480 --> 00:15:04,820
+group. So let's talk
+about what happens here.
+
+195
+00:15:05,080 --> 00:15:08,000
+These are really basically
+pro-drugs because
+
+196
+00:15:08,000 --> 00:15:11,340
+they need to be phosphorylated
+intracellularly,
+
+197
+00:15:11,340 --> 00:15:14,880
+and they are phosphorylated
+by host kinases.
+
+198
+00:15:17,900 --> 00:15:23,440
+So, we get the parent
+compound becomes
+
+199
+00:15:23,440 --> 00:15:25,320
+monophosphate, diphosphate,
+
+200
+00:15:25,320 --> 00:15:29,240
+triphosphate, and that
+is the active form.
+
+201
+00:15:29,700 --> 00:15:32,280
+That is true for the cytidine
+
+202
+00:15:32,280 --> 00:15:34,260
+group and the guanosine group.
+
+203
+00:15:35,700 --> 00:15:37,320
+Tenofovir, however,
+
+204
+00:15:38,220 --> 00:15:42,080
+has a phosphate on it.
+It is a nucleotide.
+
+205
+00:15:42,080 --> 00:15:44,080
+It is already coming
+in with a phosphate.
+
+206
+00:15:44,080 --> 00:15:50,640
+Therefore, it gets
+phosphorylated twice, and
+
+207
+00:15:50,640 --> 00:15:53,100
+they're calling that
+the monophosphate, even
+
+208
+00:15:53,100 --> 00:15:55,480
+though this has a
+phosphate on it already.
+
+209
+00:15:56,100 --> 00:16:00,900
+And it gets a second phosphate,
+so it's a diphosphate,
+
+210
+00:16:00,900 --> 00:16:04,480
+but it actually has
+three phosphates on it.
+
+211
+00:16:04,480 --> 00:16:11,630
+So it ends up to
+be a compound with
+
+212
+00:16:11,630 --> 00:16:13,800
+three phosphates
+on it. and so it'll
+
+213
+00:16:13,800 --> 00:16:15,840
+act the same way
+as the other ones.
+
+214
+00:16:18,780 --> 00:16:21,070
+As I said, they're
+phosphorylated
+
+215
+00:16:21,160 --> 00:16:24,940
+intracellularly and they
+act by terminating the
+
+216
+00:16:24,940 --> 00:16:28,280
+elongation of the
+proviral DNA chain due
+
+217
+00:16:28,280 --> 00:16:32,680
+to the absence of the
+3' hydroxyl group.
+
+218
+00:16:33,680 --> 00:16:36,340
+This is the natural process.
+
+219
+00:16:36,720 --> 00:16:42,160
+We have our ribose here
+and our 3' prime and the
+
+220
+00:16:42,160 --> 00:16:45,820
+phosphate from the previous
+see here's the phosphate
+
+221
+00:16:45,820 --> 00:16:49,700
+on the five prime phosphate
+from the previous will
+
+222
+00:16:49,700 --> 00:16:56,630
+bind there the drug however
+this is the drug and
+
+223
+00:16:57,680 --> 00:17:01,500
+this is kind of flipped so
+imagine it flipped here's
+
+224
+00:17:01,500 --> 00:17:04,040
+the three prime here you
+see there is no hydroxyl
+
+225
+00:17:04,040 --> 00:17:11,130
+group so this step can't
+occur so as a result we
+
+226
+00:17:11,130 --> 00:17:13,900
+get termination of the
+elongation of the proviral
+
+227
+00:17:13,900 --> 00:17:17,200
+DNA chain due to the absence
+of that 3-hydroxyl group
+
+228
+00:17:17,200 --> 00:17:24,060
+and we it also blocks
+competitively inhibits
+
+229
+00:17:24,060 --> 00:17:29,040
+incorporation of the native
+nucleotide into it so it's
+
+230
+00:17:29,040 --> 00:17:32,800
+a it's blocking here, and
+it's also blocking here.
+
+231
+00:17:36,280 --> 00:17:39,920
+Viral resistance,
+high level resistance
+
+232
+00:17:39,920 --> 00:17:43,280
+requires three to four
+codon substitutions.
+
+233
+00:17:43,280 --> 00:17:45,160
+If these drugs are
+used alone, it might
+
+234
+00:17:45,160 --> 00:17:47,760
+take a little while,
+but it always occurs.
+
+235
+00:17:48,640 --> 00:17:52,280
+A single amino acid
+substitution confers
+
+236
+00:17:52,280 --> 00:17:54,800
+high level resistance
+to lamivudine
+
+237
+00:17:54,800 --> 00:17:57,820
+and M-tricitabine.
+These are, recall,
+
+238
+00:17:58,320 --> 00:18:00,020
+structurally related.
+
+239
+00:18:00,020 --> 00:18:03,300
+In fact, they're very closely
+related. M-tricitabine
+
+240
+00:18:03,300 --> 00:18:10,800
+is actually lamivudine
+with a fluorine atom on it.
+
+241
+00:18:14,900 --> 00:18:18,460
+So high resistance
+to these two drugs,
+
+242
+00:18:20,180 --> 00:18:25,400
+a lower level resistance
+to abacavir, and this
+
+243
+00:18:25,400 --> 00:18:29,880
+is a four in the second
+generation, abacavir,
+
+244
+00:18:29,880 --> 00:18:33,940
+lamivudine, m-tricitabine,
+and tenofavir. Interestingly,
+
+245
+00:18:34,280 --> 00:18:42,340
+that mutation, the
+methionine to the valine
+
+246
+00:18:42,340 --> 00:18:47,140
+or isoleucine at amino
+acid number 184 restores
+
+247
+00:18:47,140 --> 00:18:50,340
+susceptibility to
+tenofovir and zidovidine.
+
+248
+00:18:52,640 --> 00:18:56,220
+And I put a couple of
+other mutations here.
+
+249
+00:18:56,380 --> 00:19:01,280
+K65R is also quite common
+and cross resistance
+
+250
+00:19:01,280 --> 00:19:04,200
+is reported following
+prolonged therapy. So I do
+
+251
+00:19:04,200 --> 00:19:07,240
+want you to remember
+this particular mutation.
+
+252
+00:19:12,470 --> 00:19:13,610
+Now toxicity.
+
+253
+00:19:14,150 --> 00:19:17,410
+Something called
+mitochondrial toxicity,
+
+254
+00:19:17,410 --> 00:19:20,350
+a very important
+concept to understand.
+
+255
+00:19:20,630 --> 00:19:25,530
+It's been well documented
+with the first generation
+
+256
+00:19:25,530 --> 00:19:28,710
+NRTIs. There are other
+drugs that also cause
+
+257
+00:19:28,710 --> 00:19:32,410
+mitochondrial toxicity
+that are not part of this
+
+258
+00:19:32,410 --> 00:19:35,790
+lecture at all. It is a
+concept you do need to
+
+259
+00:19:35,790 --> 00:19:39,910
+understand and recognize
+in your clinical practice.
+
+260
+00:19:40,110 --> 00:19:46,950
+So, how does this happen?
+Well, these NRTIs inhibit
+
+261
+00:19:46,950 --> 00:19:49,910
+reverse transcriptase,
+which is polymerase,
+
+262
+00:19:50,060 --> 00:19:56,330
+and they do not inhibit
+our own polymerase, except
+
+263
+00:19:56,330 --> 00:20:02,030
+for the DNA polymerase
+gamma, which is in the
+
+264
+00:20:02,030 --> 00:20:06,850
+mitochondria. And as a
+result of this inhibition,
+
+265
+00:20:06,850 --> 00:20:12,650
+inhibiting the DNA polymerase
+gamma from doing its
+
+266
+00:20:12,650 --> 00:20:17,410
+job, then the mitochondria
+function breaks down.
+
+267
+00:20:19,950 --> 00:20:24,850
+these older generation
+drugs are the ones
+
+268
+00:20:24,850 --> 00:20:28,070
+that are highly associated
+with the mitochondrial
+
+269
+00:20:28,070 --> 00:20:30,990
+toxicity especially
+zelcytabine which
+
+270
+00:20:30,990 --> 00:20:33,100
+was the first one to
+have been withdrawn
+
+271
+00:20:34,450 --> 00:20:37,090
+zidovudine is down
+here towards the
+
+272
+00:20:37,090 --> 00:20:39,070
+bottom but it can
+still cause it
+
+273
+00:20:39,950 --> 00:20:43,250
+And the rest of them,
+the second generation,
+
+274
+00:20:43,370 --> 00:20:46,710
+are really
+associated with a low
+
+275
+00:20:46,710 --> 00:20:49,410
+potential for this
+mitochondrial toxicity.
+
+276
+00:20:52,240 --> 00:20:53,680
+So what are the manifestations?
+
+277
+00:20:53,900 --> 00:20:55,930
+I listed it down here.
+
+278
+00:20:56,330 --> 00:21:00,070
+Myopathy, peripheral
+neuropathy, lipoatrophy,
+
+279
+00:21:00,070 --> 00:21:03,010
+lactic acidosis,
+hepatic steatosis.
+
+280
+00:21:03,010 --> 00:21:05,450
+And this lipoatrophy, hepatic
+
+281
+00:21:05,450 --> 00:21:08,510
+steatosis, I put
+especially right here.
+
+282
+00:21:11,850 --> 00:21:16,190
+because it's a very, very
+serious adverse effect,
+
+283
+00:21:16,190 --> 00:21:20,890
+adverse drug event, and it
+can be fatal. So people who
+
+284
+00:21:20,890 --> 00:21:25,430
+are presenting with signs
+or symptoms of mitochondrial
+
+285
+00:21:25,810 --> 00:21:29,010
+toxicity, the drug must be
+stopped, and the patient
+
+286
+00:21:29,010 --> 00:21:34,970
+must be evaluated. Now,
+other toxicities that occur
+
+287
+00:21:34,970 --> 00:21:39,730
+with NRTIs may be related
+to mitochondrial toxicity,
+
+288
+00:21:40,590 --> 00:21:42,090
+pancreatitis, bone marrow
+
+289
+00:21:42,090 --> 00:21:44,730
+suppression, and
+cardiomyopathy.
+
+290
+00:21:44,910 --> 00:21:49,370
+These are important for
+students to remember.
+
+291
+00:21:49,590 --> 00:21:54,850
+They are really relevant
+on board exams, but more
+
+292
+00:21:54,850 --> 00:21:58,470
+importantly, they're really
+relevant to patient care.
+
+293
+00:22:02,590 --> 00:22:06,210
+Some specific features
+here now of these
+
+294
+00:22:06,210 --> 00:22:08,950
+different drugs. We'll
+start with tenofovir.
+
+295
+00:22:08,950 --> 00:22:11,930
+Tenofovir comes
+in two salt forms,
+
+296
+00:22:12,170 --> 00:22:16,970
+disoproxel fumarate
+and alafenamide. So
+
+297
+00:22:16,970 --> 00:22:19,750
+that's what those letters
+DF and AF stand for.
+
+298
+00:22:20,790 --> 00:22:26,550
+So you'll see tenofovir
+written by its acronyms TDF
+
+299
+00:22:26,550 --> 00:22:31,370
+and TAF. much shorter than
+writing out the whole word.
+
+300
+00:22:32,290 --> 00:22:35,870
+They are oral well
+-absorbed P-glycoprotein
+
+301
+00:22:35,870 --> 00:22:41,130
+substrates. They are not
+substrates of CYP3A4. In
+
+302
+00:22:41,130 --> 00:22:43,310
+fact, they have minimal
+hepatic metabolism
+
+303
+00:22:43,310 --> 00:22:46,330
+and they go out through
+the urine as tenofovir.
+
+304
+00:22:48,690 --> 00:22:52,230
+I put half-lives here in
+terms of the intracellular
+
+305
+00:22:52,230 --> 00:22:54,530
+half-life because that's
+what really counts.
+
+306
+00:22:54,990 --> 00:22:56,910
+The intracellular half-life
+
+307
+00:22:56,910 --> 00:22:59,830
+is from 10 hours to 50 hours.
+
+308
+00:23:04,950 --> 00:23:09,390
+Tenofovir disaproxyl
+fumarate is rapidly converted
+
+309
+00:23:09,390 --> 00:23:14,150
+after absorption to tenofovir.
+And then the tenofovir
+
+310
+00:23:14,150 --> 00:23:17,510
+circulates and is taken
+up by the host cells.
+
+311
+00:23:17,510 --> 00:23:21,850
+This is an important
+distinction with its daughter,
+
+312
+00:23:22,510 --> 00:23:24,770
+tenofovir alafenamide.
+
+313
+00:23:25,570 --> 00:23:30,310
+TAF is administered at
+lower doses, so naturally
+
+314
+00:23:30,310 --> 00:23:32,150
+it achieves lower
+plasma concentrations.
+
+315
+00:23:32,150 --> 00:23:35,990
+That's a typical
+pharmacokinetic property.
+
+316
+00:23:36,600 --> 00:23:37,510
+However,
+
+317
+00:23:37,770 --> 00:23:40,730
+the intracellular
+concentrations of
+
+318
+00:23:40,730 --> 00:23:42,900
+the active tenofovir
+diphosphate,
+
+319
+00:23:42,970 --> 00:23:47,070
+that's three phosphates,
+don't forget, are higher.
+
+320
+00:23:47,310 --> 00:23:49,670
+Now, why is this?
+
+321
+00:23:49,890 --> 00:23:54,410
+Because TAF
+circulates as itself.
+
+322
+00:23:54,710 --> 00:24:00,270
+It circulates as
+TAF, whereas TDF
+
+323
+00:24:00,270 --> 00:24:03,990
+is rapidly converted
+to tenofavir.
+
+324
+00:24:04,550 --> 00:24:10,570
+Now, TAF is taken up into
+cells, and it is inside
+
+325
+00:24:10,570 --> 00:24:13,790
+the cell that the TAF
+is first metabolized to
+
+326
+00:24:13,790 --> 00:24:19,030
+tenofavir and then to
+the diphosphate, which of
+
+327
+00:24:19,030 --> 00:24:21,850
+course has three phosphates
+on it. So that's the
+
+328
+00:24:21,850 --> 00:24:23,490
+difference there, and
+we're going to see that
+
+329
+00:24:23,490 --> 00:24:28,310
+that is an important
+difference in a few moments.
+
+330
+00:24:29,850 --> 00:24:33,070
+The therapeutic
+applications of both of them
+
+331
+00:24:33,070 --> 00:24:37,230
+are the same. They're
+interchangeable, and you
+
+332
+00:24:37,230 --> 00:24:40,760
+can see here how very
+important these drugs are.
+
+333
+00:24:40,760 --> 00:24:44,710
+First-line NRTIs for
+the treatment of HIV-1,
+
+334
+00:24:44,970 --> 00:24:47,910
+pregnant patients
+all trimesters,
+
+335
+00:24:48,110 --> 00:24:50,250
+children from 2 years old,
+
+336
+00:24:50,750 --> 00:24:54,190
+people from 2
+years old. However,
+
+337
+00:24:54,730 --> 00:24:58,030
+the alafetamide
+TAF is for older
+
+338
+00:24:58,030 --> 00:25:01,350
+pediatric patients
+from 12 years old.
+
+339
+00:25:02,150 --> 00:25:05,230
+Pre-exposure prophylaxis,
+post-exposure
+
+340
+00:25:05,230 --> 00:25:09,150
+prophylaxis, and now
+hepatitis B virus.
+
+341
+00:25:09,150 --> 00:25:15,450
+That's going to become
+relevant in a moment.
+
+342
+00:25:16,950 --> 00:25:22,490
+So tenofovir, TDF and TAF
+are used as monotherapy for
+
+343
+00:25:22,490 --> 00:25:25,730
+the treatment of chronic
+HPV, and they are effective.
+
+344
+00:25:27,130 --> 00:25:31,110
+And also for prophylaxis
+in patients who are
+
+345
+00:25:31,110 --> 00:25:36,730
+immunocompromised and likely
+to be introduced to HPV.
+
+346
+00:25:36,820 --> 00:25:44,050
+Both TDF and TAF suppress
+HBV infection, obviously,
+
+347
+00:25:44,290 --> 00:25:47,770
+so if they are withdrawn,
+
+348
+00:25:48,310 --> 00:25:53,210
+severe acute exacerbation
+of HBV infection
+
+349
+00:25:53,210 --> 00:25:59,270
+can occur as HBV replication
+is increased, and
+
+350
+00:25:59,270 --> 00:26:03,290
+it can be increased to
+a great rate, and that
+
+351
+00:26:03,290 --> 00:26:06,070
+can lead to hepatitis,
+liver inflammation.
+
+352
+00:26:06,330 --> 00:26:09,230
+It is, after all,
+a liver virus.
+
+353
+00:26:09,950 --> 00:26:13,130
+So in patients who
+are co-infected with
+
+354
+00:26:13,130 --> 00:26:18,590
+HIV and HBV, treated
+with tenofovir,
+
+355
+00:26:20,790 --> 00:26:24,730
+then they may, very
+likely, will need
+
+356
+00:26:24,730 --> 00:26:29,370
+to have another anti
+-HBV drug started.
+
+357
+00:26:32,870 --> 00:26:34,550
+Adverse effects.
+
+358
+00:26:36,000 --> 00:26:39,070
+generally well-tolerated,
+which is great since
+
+359
+00:26:39,070 --> 00:26:43,550
+they're a component
+of just about the vast
+
+360
+00:26:43,550 --> 00:26:48,310
+majority of antiretroviral
+therapy regimens.
+
+361
+00:26:49,310 --> 00:26:53,630
+Main toxicities, kidney
+and bone adverse effects,
+
+362
+00:26:53,630 --> 00:27:00,010
+renal impairment, which can
+be seen with increases in
+
+363
+00:27:00,010 --> 00:27:03,670
+serum creatinine, protein
+spilling into the urine,
+
+364
+00:27:04,290 --> 00:27:06,370
+glucose spilling
+into the urine,
+
+365
+00:27:06,950 --> 00:27:10,690
+hypophosphatemia, and
+acute tubular necrosis.
+
+366
+00:27:10,690 --> 00:27:14,930
+Kidney injury with proximal
+tubular dysfunction.
+
+367
+00:27:14,930 --> 00:27:19,230
+This is a syndrome
+called Fanconi syndrome.
+
+368
+00:27:20,250 --> 00:27:23,370
+Acute kidney injury,
+chronic kidney disease,
+
+369
+00:27:23,370 --> 00:27:27,290
+nephrogenic diabetes,
+insipidus. So what are we doing?
+
+370
+00:27:27,290 --> 00:27:30,070
+We have to, whenever a
+person is on to nofavir,
+
+371
+00:27:30,070 --> 00:27:33,750
+the renal function
+absolutely must be monitored.
+
+372
+00:27:34,070 --> 00:27:37,670
+And the drug also causes
+a decrease in bone mineral
+
+373
+00:27:37,670 --> 00:27:41,770
+density. Now I mentioned
+before, the TAF is
+
+374
+00:27:41,770 --> 00:27:45,610
+administered in lower doses
+and it is also associated
+
+375
+00:27:45,610 --> 00:27:49,790
+with less long-term
+kidney and bone toxicity.
+
+376
+00:27:51,090 --> 00:27:53,110
+Drug interactions.
+
+377
+00:27:53,270 --> 00:27:57,050
+Well, putting tenofovir
+with abacavir together
+
+378
+00:27:57,050 --> 00:27:59,790
+is associated with
+high rates of virologic
+
+379
+00:27:59,790 --> 00:28:03,010
+failure, so those two
+NRIs aren't combined.
+
+380
+00:28:03,510 --> 00:28:06,150
+P-glycoprotein inhibitors.
+
+381
+00:28:06,770 --> 00:28:11,810
+Ritonavir, which is
+frequently used in ART
+
+382
+00:28:11,810 --> 00:28:15,970
+and cabecostats, same deal,
+may increase tenofovir
+
+383
+00:28:15,970 --> 00:28:18,590
+levels. What are we
+thinking about here?
+
+384
+00:28:18,850 --> 00:28:20,230
+Toxicities.
+
+385
+00:28:21,610 --> 00:28:24,990
+TAF only. P-glycoprotein
+
+386
+00:28:24,990 --> 00:28:27,230
+inducers are contraindicated.
+
+387
+00:28:27,280 --> 00:28:32,630
+They will reduce
+the efficacy of TAF.
+
+388
+00:28:43,990 --> 00:28:48,310
+because of decreased
+TAF levels as the
+
+389
+00:28:48,310 --> 00:28:53,030
+drug gets pumped out
+of the circulation
+
+390
+00:28:53,390 --> 00:28:55,410
+or is prevented
+from getting into
+
+391
+00:28:55,410 --> 00:28:57,070
+the circulation in
+the first place.
+
+392
+00:28:57,530 --> 00:28:59,910
+So TAF only, P-glycoprotein
+
+393
+00:28:59,910 --> 00:29:01,410
+inducer. So what are they?
+
+394
+00:29:02,370 --> 00:29:05,350
+Well, these are drugs
+you've seen before.
+
+395
+00:29:05,490 --> 00:29:08,590
+Rifampin, carbamazepine,
+oxcarbazepine,
+
+396
+00:29:08,590 --> 00:29:10,270
+phenytoin, phenobarbital.
+
+397
+00:29:11,890 --> 00:29:15,170
+We talked about
+them as inducers of
+
+398
+00:29:15,170 --> 00:29:19,310
+CYP3A4. They also
+induce P-glycoprotein.
+
+399
+00:29:22,990 --> 00:29:26,750
+Moving now to M-tricitabine
+and lamivudine. These
+
+400
+00:29:26,750 --> 00:29:30,410
+are cytidine analogs. M
+-tricitabine is fluorinated
+
+401
+00:29:30,410 --> 00:29:32,330
+lamivudine, and they
+should not be used
+
+402
+00:29:32,330 --> 00:29:34,950
+together because they will
+compete with each other
+
+403
+00:29:35,590 --> 00:29:38,670
+and therefore
+reduce the efficacy.
+
+404
+00:29:38,670 --> 00:29:41,810
+Oral, well-absorbed,
+good bioavailability,
+
+405
+00:29:41,810 --> 00:29:44,530
+excreted in urine on chains.
+You see this pattern?
+
+406
+00:29:45,090 --> 00:29:50,010
+Half-life of lamivudine
+intracellular is 10 to 15
+
+407
+00:29:50,010 --> 00:29:53,330
+hours and it is adequate
+for one's daily dosing.
+
+408
+00:29:53,370 --> 00:29:55,770
+M-tricitabine is longer but
+
+409
+00:29:55,770 --> 00:29:57,390
+it's also dosed once a day.
+
+410
+00:29:59,550 --> 00:30:03,990
+Both of these drugs also
+suppress HBV infection.
+
+411
+00:30:04,250 --> 00:30:08,370
+Lamivudine is
+approved for HBV but
+
+412
+00:30:08,370 --> 00:30:11,410
+HBV is mostly resistant
+to lamivudine.
+
+413
+00:30:11,670 --> 00:30:15,010
+M-trizytabine is not approved
+for it, but it suppresses
+
+414
+00:30:15,010 --> 00:30:19,950
+HPV. So in individuals
+who are co-infected with
+
+415
+00:30:19,950 --> 00:30:25,210
+HIV and HPV, withdrawal of
+lamivudine or M-trizytabine
+
+416
+00:30:25,210 --> 00:30:31,450
+can lead to exacerbation
+of HPV and hepatitis.
+
+417
+00:30:33,130 --> 00:30:39,010
+resistance we talked about
+the m184 valine isoleucine
+
+418
+00:30:39,010 --> 00:30:43,950
+point mutations for high
+level resistance these two
+
+419
+00:30:43,950 --> 00:30:48,050
+also cause reduced
+susceptibility the drugs are well
+
+420
+00:30:48,050 --> 00:30:51,130
+tolerated this is a drug
+specific effect this
+
+421
+00:30:51,130 --> 00:30:55,250
+hyperpigmentation caused by m
+-tricitabine that usually only
+
+422
+00:30:55,250 --> 00:30:59,390
+occurs mostly on the hands
+and the soles of the feet
+
+423
+00:31:05,150 --> 00:31:07,850
+abacavir and zidovidine
+now these two are not
+
+424
+00:31:07,850 --> 00:31:11,230
+related to each other unlike
+the other two slides i
+
+425
+00:31:11,230 --> 00:31:15,550
+showed you so abacavir is
+a guanosine analog oral
+
+426
+00:31:15,550 --> 00:31:18,390
+well absorbed now this
+one undergoes hepatic
+
+427
+00:31:18,390 --> 00:31:23,410
+metabolism by alcohol
+dehydrogenase dehydrogenase
+
+428
+00:31:23,410 --> 00:31:27,350
+and glucuronal transferase.
+It goes out through the
+
+429
+00:31:27,350 --> 00:31:32,690
+urine as metabolites. And
+the half-life intracellular
+
+430
+00:31:32,690 --> 00:31:36,270
+is 12 to 26 hours. It
+is given once a day.
+
+431
+00:31:38,150 --> 00:31:43,550
+It is converted
+intracellularly to this
+
+432
+00:31:43,550 --> 00:31:49,650
+compound called carbovir
+monophosphate, which will
+
+433
+00:31:49,650 --> 00:31:54,450
+then become the active
+carbovir triphosphate.
+
+434
+00:31:54,450 --> 00:31:57,070
+So that's a special
+feature of abacavir.
+
+435
+00:31:58,450 --> 00:32:01,790
+Here's another very
+important special feature.
+
+436
+00:32:04,530 --> 00:32:07,550
+HLA-B5701 allele.
+
+437
+00:32:07,610 --> 00:32:11,730
+All patients must be
+screened for this allele.
+
+438
+00:32:12,140 --> 00:32:16,150
+Okay, so what happens?
+What is the potential
+
+439
+00:32:16,150 --> 00:32:19,410
+problem in patients
+who have this allele?
+
+440
+00:32:19,670 --> 00:32:23,010
+Hypersensitivity
+reactions with multi-organ
+
+441
+00:32:23,010 --> 00:32:26,850
+involvement that is
+potentially fatal.
+
+442
+00:32:28,430 --> 00:32:29,890
+Therefore,
+
+443
+00:32:30,510 --> 00:32:33,110
+abacavir should never
+be given to patients
+
+444
+00:32:33,110 --> 00:32:37,870
+who are positive for
+HLA-B5701 genotype.
+
+445
+00:32:40,490 --> 00:32:42,950
+or restarted in
+patients who have
+
+446
+00:32:42,950 --> 00:32:44,990
+had a hypersensitivity
+reaction.
+
+447
+00:32:45,330 --> 00:32:49,750
+Resistance, here we have
+our 184 again and K65.
+
+448
+00:32:53,810 --> 00:32:56,430
+Abacavir is frequently
+paired with lamivudine
+
+449
+00:32:56,430 --> 00:32:59,050
+as a component of
+the NRTI backbone.
+
+450
+00:32:59,890 --> 00:33:03,870
+I mentioned before, don't
+pair it with tenofavir
+
+451
+00:33:03,870 --> 00:33:07,010
+because of the high
+rate of virologic
+
+452
+00:33:07,010 --> 00:33:11,190
+failure. And in terms of
+drug interactions, well,
+
+453
+00:33:11,190 --> 00:33:14,650
+alcohol can increase
+abacavir levels because
+
+454
+00:33:14,650 --> 00:33:19,970
+of competition for
+alcohol dehydrogenase.
+
+455
+00:33:22,430 --> 00:33:25,490
+Cidovudine, the
+thymidine analog.
+
+456
+00:33:26,150 --> 00:33:30,670
+This is given twice a day
+when it's given ******.
+
+457
+00:33:34,350 --> 00:33:37,570
+it's mostly used intravenously
+
+458
+00:33:39,430 --> 00:33:42,930
+and we'll see when we get as i
+
+459
+00:33:42,930 --> 00:33:44,890
+mentioned this is
+a first generation
+
+460
+00:33:45,710 --> 00:33:50,050
+nrti and it does not have
+much use anymore however
+
+461
+00:33:50,050 --> 00:33:53,190
+it does have very important
+use when it comes to
+
+462
+00:33:53,190 --> 00:33:55,990
+pregnancy and we'll talk
+about that when we get there
+
+463
+00:33:56,450 --> 00:34:02,570
+It does have hepatic
+metabolism by glucuronal
+
+464
+00:34:02,570 --> 00:34:05,610
+transferase. A lot
+of it is excreted
+
+465
+00:34:05,610 --> 00:34:09,290
+unchanged in the urine, and
+it's got an intracellular
+
+466
+00:34:09,290 --> 00:34:11,390
+half-life of only
+about seven hours.
+
+467
+00:34:12,200 --> 00:34:17,430
+The others clearly
+have advantages
+
+468
+00:34:17,430 --> 00:34:19,190
+that zidovidine does not.
+
+469
+00:34:20,590 --> 00:34:23,530
+perinatal IV infusion
+to prevent vertical
+
+470
+00:34:23,530 --> 00:34:27,350
+transmission, and it's
+also for neonates. So
+
+471
+00:34:27,350 --> 00:34:31,330
+those are the two major
+uses of zidovudine.
+
+472
+00:34:33,530 --> 00:34:36,870
+Some questions, review
+questions, if you would like
+
+473
+00:34:36,870 --> 00:34:41,950
+to pause your video and see
+if you can answer them on
+
+474
+00:34:41,950 --> 00:34:45,570
+your own. What are the
+important clinically relevant
+
+475
+00:34:45,570 --> 00:34:49,750
+takeaways about the PK
+properties of the NRTI's class?
+
+476
+00:34:49,950 --> 00:34:52,530
+How is viral resistance
+related to the
+
+477
+00:34:52,530 --> 00:34:55,510
+NRTI's mechanism of
+action and effects?
+
+478
+00:34:55,510 --> 00:34:58,470
+How is mitochondrial
+toxicity related
+
+479
+00:34:58,470 --> 00:35:00,890
+to the NRTI's
+mechanism of action?
+
+480
+00:35:06,920 --> 00:35:08,250
+And here are the answers.
+
+481
+00:35:11,920 --> 00:35:15,220
+Oral minimal systemic
+metabolism, except for
+
+482
+00:35:15,220 --> 00:35:18,460
+abacavir. Active drug
+excreted in the urine, once
+
+483
+00:35:18,460 --> 00:35:21,080
+daily dosing, that's the
+second generation drugs.
+
+484
+00:35:21,080 --> 00:35:24,920
+Point mutations in reverse
+transcriptase amino acids
+
+485
+00:35:24,920 --> 00:35:29,420
+at the drug's binding
+sites. We talked about M184,
+
+486
+00:35:29,840 --> 00:35:33,820
+thionine to valine or
+isoleucine. Confers high-level
+
+487
+00:35:33,820 --> 00:35:36,480
+resistance to lamivudine
+and M-tricitabine, but
+
+488
+00:35:36,480 --> 00:35:40,100
+improves susceptibility of
+tenofavir and cydovidine.
+
+489
+00:35:41,450 --> 00:35:45,340
+K65R confers reduced
+susceptibility to all four
+
+490
+00:35:45,340 --> 00:35:50,040
+NRTIs. The NRTIs, the first
+generation especially,
+
+491
+00:35:50,340 --> 00:35:53,900
+bind mitochondrial
+DNA polymerase gamma,
+
+492
+00:35:53,900 --> 00:35:56,800
+resulting in myopathy,
+peripheral neuropathy,
+
+493
+00:35:57,320 --> 00:35:59,340
+lipoatrophy,
+
+494
+00:35:59,500 --> 00:36:02,540
+lactic acidosis,
+hepatic steatosis,
+
+495
+00:36:02,540 --> 00:36:05,540
+and possibly pancreatitis.
+
+496
+00:36:06,020 --> 00:36:08,260
+This is a low potential with
+
+497
+00:36:08,260 --> 00:36:10,540
+the second-generation NRTIs.
+
+498
+00:36:12,600 --> 00:36:14,080
+More questions.
+
+499
+00:36:14,080 --> 00:36:17,630
+What are the main toxicities
+of tenofovir and abacavir?
+
+500
+00:36:17,630 --> 00:36:21,420
+Which of the second
+-generation NRTIs should not
+
+501
+00:36:21,420 --> 00:36:24,860
+be combined, and why? What
+screening tests must be
+
+502
+00:36:24,860 --> 00:36:28,340
+performed prior to
+administering abacavir, and why?
+
+503
+00:36:28,340 --> 00:36:31,460
+What drugs can cause
+reactivation of HPV
+
+504
+00:36:31,460 --> 00:36:33,480
+and hepatitis when
+withdrawn in patients
+
+505
+00:36:33,480 --> 00:36:39,280
+with HIV? HIV, HBV co
+-infection. And I'll
+
+506
+00:36:39,280 --> 00:36:41,140
+give you a moment to
+pause your computer,
+
+507
+00:36:41,280 --> 00:36:42,540
+your video.
+
+508
+00:36:49,890 --> 00:36:54,790
+The tenofovir causes kidney and
+
+509
+00:36:54,790 --> 00:36:57,570
+bone toxicity,
+particularly the TDF,
+
+510
+00:36:57,750 --> 00:37:00,610
+the disoproxyl fumarate salt,
+
+511
+00:37:00,770 --> 00:37:04,510
+impaired renal function,
+proximal tubule dysfunction,
+
+512
+00:37:04,930 --> 00:37:10,570
+Fanconi syndrome, that
+is, acute kidney injury,
+
+513
+00:37:10,570 --> 00:37:14,150
+chronic kidney injury,
+nephrogenic diabetes insipidus.
+
+514
+00:37:14,150 --> 00:37:17,150
+And I also asked about
+abacavir and forgot to put
+
+515
+00:37:17,150 --> 00:37:22,830
+it on here, which is the
+hypersensitivity reaction.
+
+516
+00:37:23,860 --> 00:37:27,770
+Lamivudine and m-tricitabine
+should not be put together
+
+517
+00:37:27,770 --> 00:37:30,770
+because they're really
+the same drug and they
+
+518
+00:37:30,770 --> 00:37:34,130
+compete with each other for
+intracellular phosphorylation
+
+519
+00:37:34,130 --> 00:37:36,290
+and that's going to decrease
+their effectiveness.
+
+520
+00:37:37,770 --> 00:37:44,730
+Screening tests about
+abacavir is the HLA-B57 star
+
+521
+00:37:44,730 --> 00:37:50,150
+5701 associated with severe
+multi-organ hypersensitivity
+
+522
+00:37:50,150 --> 00:37:52,310
+reactions in patients
+positive for this
+
+523
+00:37:52,310 --> 00:37:58,690
+allele and lamivudine
+amtricitamine tenofavir. All
+
+524
+00:37:58,690 --> 00:38:03,190
+can cause reactivation
+of HBV and hepatitis when
+
+525
+00:38:03,190 --> 00:38:07,530
+withdrawn in patients who
+are co-infected with HPV.
+
+526
+00:38:08,710 --> 00:38:14,530
+And now the integrase
+inhibitors or with their long
+
+527
+00:38:14,530 --> 00:38:17,310
+name is integrase strand
+transfer inhibitors, the
+
+528
+00:38:17,310 --> 00:38:23,070
+INSTIs. These five are
+important in therapy. In fact,
+
+529
+00:38:23,070 --> 00:38:31,990
+the INSTI is first line
+base to go with the 2NRTI
+
+530
+00:38:31,990 --> 00:38:36,410
+backbone. They have activity
+against HIV-1 and 2.
+
+531
+00:38:36,850 --> 00:38:39,530
+NSTs are well-tolerated,
+highly effective,
+
+532
+00:38:39,530 --> 00:38:41,690
+and have a high
+barrier to resistance.
+
+533
+00:38:43,630 --> 00:38:47,630
+I've put here really just
+the clinically relevant
+
+534
+00:38:47,630 --> 00:38:50,550
+information of the
+NSTs. I've divided it
+
+535
+00:38:50,550 --> 00:38:53,390
+into second generation,
+which I have on the left
+
+536
+00:38:53,390 --> 00:38:57,650
+side, and first generation
+on the right side.
+
+537
+00:38:57,650 --> 00:39:01,370
+The second generation
+are the preferred NSTs.
+
+538
+00:39:01,930 --> 00:39:05,430
+They're all once daily
+except for raltegravir.
+
+539
+00:39:05,430 --> 00:39:07,970
+Raltegravir is once
+daily only at the
+
+540
+00:39:07,970 --> 00:39:10,370
+higher dose. Otherwise,
+it's twice daily.
+
+541
+00:39:14,430 --> 00:39:20,130
+The first three are
+available in combinations.
+
+542
+00:39:20,450 --> 00:39:22,530
+That's what this is.
+
+543
+00:39:23,170 --> 00:39:24,970
+Raltegravir is not.
+
+544
+00:39:28,130 --> 00:39:32,970
+especially because of
+originally it was always
+
+545
+00:39:32,970 --> 00:39:36,110
+only twice a day and the
+others are once a day
+
+546
+00:39:37,590 --> 00:39:38,790
+so
+
+547
+00:39:40,470 --> 00:39:45,450
+we have our three here
+we have our three here
+
+548
+00:39:47,960 --> 00:39:52,730
+and this little c on here
+stands for kubicastat
+
+549
+00:39:52,730 --> 00:39:58,990
+because it is boosted it has
+to be have a pharmacokinetic
+
+550
+00:39:58,990 --> 00:40:03,650
+enhancer on it with
+kubicastat that's how it's
+
+551
+00:40:03,650 --> 00:40:06,530
+formulated it's formulated
+in these four drugs
+
+552
+00:40:06,530 --> 00:40:13,270
+elvitegravir kubicastat
+tenofavir and m-tricitamine
+
+553
+00:40:15,790 --> 00:40:20,340
+virologic efficacy so
+what does this mean is
+
+554
+00:40:20,970 --> 00:40:25,630
+the drug effective in
+individuals harboring
+
+555
+00:40:25,630 --> 00:40:31,090
+elvitegravir or reltegravir
+resistant hiv well it
+
+556
+00:40:31,090 --> 00:40:33,990
+is known that dolutegravir
+does need a higher
+
+557
+00:40:33,990 --> 00:40:37,510
+dose but it does in
+vitro with bictegravir
+
+558
+00:40:37,510 --> 00:40:42,110
+yes but the clinical data
+are not available yet
+
+559
+00:40:42,830 --> 00:40:46,570
+adverse effects these
+are class adverse effects
+
+560
+00:40:46,570 --> 00:40:49,310
+here weight gain nausea
+diarrhea headache insomnia
+
+561
+00:40:49,310 --> 00:40:52,890
+these are quite common
+depression and suicidality
+
+562
+00:40:52,890 --> 00:40:56,530
+are rare generally
+occurring in patients
+
+563
+00:40:56,530 --> 00:41:02,410
+who already have psychiatric
+conditions and here
+
+564
+00:41:02,410 --> 00:41:07,070
+are drug specific adverse
+effects I leave it to
+
+565
+00:41:07,070 --> 00:41:09,950
+you to work through those.
+You should know them.
+
+566
+00:41:11,750 --> 00:41:14,610
+CYP3A4 drug-drug
+interactions that I've
+
+567
+00:41:14,610 --> 00:41:18,450
+been going on about
+all of these months
+
+568
+00:41:18,450 --> 00:41:21,570
+because they matter
+to patient care.
+
+569
+00:41:22,310 --> 00:41:25,530
+Bictegravir is a
+CYP3A4 substrate.
+
+570
+00:41:26,190 --> 00:41:31,170
+Dolutegravir, to some
+extent, but its drug levels
+
+571
+00:41:31,170 --> 00:41:35,210
+can still be affected by
+inducers or inhibitors.
+
+572
+00:41:35,210 --> 00:41:41,650
+Elvitegravir is a
+CYP3A4 substrate and it
+
+573
+00:41:41,650 --> 00:41:48,050
+needs boosting so a
+CYP3A4 inhibitor with it.
+
+574
+00:41:49,310 --> 00:41:54,570
+Raltegravir no it is a
+no CYP3A4 or CYP at all.
+
+575
+00:41:55,530 --> 00:41:58,470
+I'm going to jump down
+here to other significant
+
+576
+00:41:58,470 --> 00:42:01,630
+DDIs. Here's our p
+-glycoprotein again.
+
+577
+00:42:04,650 --> 00:42:09,290
+So bictegravir,
+anything that affects p
+
+578
+00:42:09,290 --> 00:42:14,170
+-glycoprotein or UGT1A1.
+P-glycoprotein UGT1A1.
+
+579
+00:42:16,930 --> 00:42:18,090
+UGT1A1.
+
+580
+00:42:18,770 --> 00:42:21,930
+UGT1A1. That's
+easy to remember.
+
+581
+00:42:24,290 --> 00:42:26,130
+And acids.
+
+582
+00:42:26,690 --> 00:42:29,130
+Oral absorption
+of instes may be
+
+583
+00:42:29,130 --> 00:42:31,550
+reduced by polyvalent cations.
+
+584
+00:42:31,670 --> 00:42:34,910
+So, antacids should not
+be taken at the same time.
+
+585
+00:42:35,020 --> 00:42:37,130
+Separate by at least two hours.
+
+586
+00:42:40,130 --> 00:42:43,430
+Mechanism of action
+is illustrated here.
+
+587
+00:42:45,030 --> 00:42:49,210
+The instes block the catalytic
+activity of HIV-encoded
+
+588
+00:42:49,210 --> 00:42:53,190
+integrase to prevent the
+integration of the virus
+
+589
+00:42:53,190 --> 00:42:56,960
+DNA into the host chromosome.
+So here's a picture of
+
+590
+00:42:57,010 --> 00:43:03,330
+virus DNA inserting itself
+into the host chromosome.
+
+591
+00:43:03,520 --> 00:43:07,030
+And here's a picture of,
+in this case, raltegravir,
+
+592
+00:43:07,030 --> 00:43:10,670
+the first one to be developed,
+blocking that effect.
+
+593
+00:43:12,850 --> 00:43:16,190
+Human beings do not
+have integrase, so these
+
+594
+00:43:16,190 --> 00:43:20,110
+drugs are completely
+selective for HIV. activity
+
+595
+00:43:26,190 --> 00:43:31,330
+is HIV one and two potent
+used for treatment naive
+
+596
+00:43:31,330 --> 00:43:36,110
+and treatment experienced
+patients of all ages resistance
+
+597
+00:43:36,110 --> 00:43:39,110
+you don't have to remember
+these but the concept
+
+598
+00:43:39,110 --> 00:43:43,930
+is the same point mutations
+at the site of action and
+
+599
+00:43:44,210 --> 00:43:48,510
+as these point mutations
+occur additional mutations
+
+600
+00:43:48,510 --> 00:43:52,190
+can accumulate and that
+can lead to high level
+
+601
+00:43:52,190 --> 00:43:55,630
+resistance and cross resistance
+these drugs must be used
+
+602
+00:43:55,630 --> 00:44:02,610
+together in a potent
+antiretroviral therapy regimen.
+
+603
+00:44:02,910 --> 00:44:04,930
+Drugs are well-tolerated. Some
+
+604
+00:44:04,930 --> 00:44:07,010
+had egg GI effects,
+which we saw.
+
+605
+00:44:07,410 --> 00:44:10,470
+Now, cabotegravir
+is not on that list
+
+606
+00:44:11,330 --> 00:44:16,490
+because it has, actually,
+everything about it is
+
+607
+00:44:16,490 --> 00:44:19,150
+different, and I'll talk
+about that on the next slide.
+
+608
+00:44:21,850 --> 00:44:23,790
+Dolotegravir and
+Bictegravir have
+
+609
+00:44:23,790 --> 00:44:25,290
+a high barrier to resistance.
+
+610
+00:44:25,470 --> 00:44:30,470
+Reltegravir and
+Elvitegravir, a lower barrier
+
+611
+00:44:30,470 --> 00:44:33,470
+to resistance. And these
+are first generation.
+
+612
+00:44:33,630 --> 00:44:35,610
+These are second generation.
+
+613
+00:44:39,290 --> 00:44:42,450
+Now, Cabotegravir is a long
+
+614
+00:44:42,450 --> 00:44:45,930
+-acting intramuscular
+suspension.
+
+615
+00:44:46,290 --> 00:44:52,490
+It was developed for two
+-drug therapy in selected
+
+616
+00:44:52,490 --> 00:44:55,430
+patients. So not three
+drugs anymore. You
+
+617
+00:44:55,430 --> 00:45:00,910
+see there's no NRTI on
+this treatment regimen.
+
+618
+00:45:02,250 --> 00:45:09,050
+It can only be administered
+into the gluteal muscles.
+
+619
+00:45:09,930 --> 00:45:15,990
+and therefore this is an
+interesting side note that
+
+620
+00:45:15,990 --> 00:45:18,530
+we haven't seen before
+in our pharmacology that
+
+621
+00:45:18,530 --> 00:45:22,030
+we've talked about it
+may not be an option for
+
+622
+00:45:22,030 --> 00:45:24,770
+people who have buttocks
+implants or fillers because
+
+623
+00:45:24,770 --> 00:45:28,410
+that's the only place
+that it is to be injected
+
+624
+00:45:31,290 --> 00:45:36,150
+cabotagravir is paired
+with rilpivirine so it
+
+625
+00:45:36,150 --> 00:45:40,290
+also comes in an oral form
+and this is specifically
+
+626
+00:45:40,290 --> 00:45:46,970
+for an oral lead-in
+so the pill is taken
+
+627
+00:45:46,970 --> 00:45:51,190
+once a month once a day
+for a month the whole
+
+628
+00:45:51,190 --> 00:45:54,170
+idea is to make sure the
+patient tolerates it,
+
+629
+00:45:54,610 --> 00:45:59,070
+along with rapivirine
+oral for a month, and then
+
+630
+00:45:59,610 --> 00:46:04,610
+the switch over, that's
+the wrong circle, the
+
+631
+00:46:04,610 --> 00:46:10,190
+switch over to the IM
+form, which can be given
+
+632
+00:46:10,190 --> 00:46:13,070
+every four weeks or every
+eight weeks, or it can
+
+633
+00:46:13,070 --> 00:46:16,550
+be said as every once a
+month or twice a month,
+
+634
+00:46:16,550 --> 00:46:18,390
+and that's going to
+be a patient-specific
+
+635
+00:46:18,390 --> 00:46:23,510
+decision between the
+prescriber and the patient.
+
+636
+00:46:23,510 --> 00:46:26,050
+Now, the oral is also
+useful for bridging
+
+637
+00:46:26,050 --> 00:46:28,550
+therapy in case the
+patient knows they're
+
+638
+00:46:28,550 --> 00:46:32,670
+going to miss the
+scheduled IM dose, and
+
+639
+00:46:32,670 --> 00:46:35,470
+so they can bridge it
+over with the oral.
+
+640
+00:46:39,470 --> 00:46:44,310
+But this is selected
+patients. This is only two
+
+641
+00:46:44,310 --> 00:46:48,890
+drugs. So the patient
+will need to have been on
+
+642
+00:46:48,890 --> 00:46:53,250
+the typical three-drug
+antiretroviral therapy.
+
+643
+00:46:54,670 --> 00:46:57,610
+The patient must
+have no baseline
+
+644
+00:46:57,610 --> 00:47:00,610
+resistance to either
+medication, naturally,
+
+645
+00:47:00,610 --> 00:47:04,290
+because if the patient
+is resistant to one,
+
+646
+00:47:04,290 --> 00:47:06,070
+then it's the same
+as having only one
+
+647
+00:47:06,070 --> 00:47:10,510
+drug on board. No prior
+virologic failures.
+
+648
+00:47:12,170 --> 00:47:17,470
+No HBV, unless they're
+also on a drug for HBV.
+
+649
+00:47:17,530 --> 00:47:21,510
+They're not pregnant. They're
+not planning on becoming
+
+650
+00:47:21,510 --> 00:47:25,310
+pregnant. And they are
+not receiving medications
+
+651
+00:47:25,310 --> 00:47:28,570
+with significant drug
+interactions with
+
+652
+00:47:28,570 --> 00:47:32,290
+cabotegravir or repilverine.
+So these are basically
+
+653
+00:47:32,290 --> 00:47:37,850
+stable patients, and they've
+been stable over time.
+
+654
+00:47:38,110 --> 00:47:40,550
+No virologic failures.
+
+655
+00:47:41,570 --> 00:47:46,950
+Cabotegravir, or just
+cabotegravir, is also used for
+
+656
+00:47:46,950 --> 00:47:52,810
+pre-exposure prophylaxis in
+HIV negative individuals.
+
+657
+00:47:55,050 --> 00:47:56,090
+Some
+
+658
+00:48:02,230 --> 00:48:05,030
+questions. What properties
+make insties the
+
+659
+00:48:05,030 --> 00:48:08,050
+preferred first-line
+choice for ART backbone?
+
+660
+00:48:08,330 --> 00:48:11,630
+Which two are the first
+-line insties? What
+
+661
+00:48:11,630 --> 00:48:14,470
+is the role of cabotegravir
+-repivirin-2 drug
+
+662
+00:48:14,470 --> 00:48:17,530
+art in the treatment
+of HIV-1? What is
+
+663
+00:48:17,530 --> 00:48:21,110
+another therapeutic use
+of cabotegravir? I am.
+
+664
+00:48:21,270 --> 00:48:22,810
+I'll give you a moment to
+
+665
+00:48:22,810 --> 00:48:25,950
+pause your video, if you wish.
+
+666
+00:48:31,170 --> 00:48:33,570
+Insties are well-tolerated,
+highly effective,
+
+667
+00:48:33,570 --> 00:48:35,430
+and have a high
+barrier to resistance.
+
+668
+00:48:35,830 --> 00:48:38,650
+Dolotegravir and Bictegravir
+are second-generation
+
+669
+00:48:38,650 --> 00:48:41,090
+insties with a higher,
+it's actually a high
+
+670
+00:48:41,090 --> 00:48:43,870
+barrier to resistance,
+higher than the first
+
+671
+00:48:43,870 --> 00:48:47,150
+-generation insties, and
+they are available in
+
+672
+00:48:47,150 --> 00:48:50,190
+fixed-dose combinations,
+allowing one pill once
+
+673
+00:48:50,190 --> 00:48:52,950
+daily dosing for improved
+patient adherence.
+
+674
+00:48:54,610 --> 00:48:57,450
+Cabotegravir, Rilpivirin is
+indicated for patients who
+
+675
+00:48:57,450 --> 00:49:00,630
+have no baseline resistance
+to either medication, No
+
+676
+00:49:00,630 --> 00:49:04,250
+prior virologic failures,
+do not have active HPV
+
+677
+00:49:04,250 --> 00:49:08,530
+unless they're taking a drug
+for it, are not pregnant and
+
+678
+00:49:08,530 --> 00:49:11,650
+are not planning on becoming
+pregnant, and are not
+
+679
+00:49:11,650 --> 00:49:19,270
+receiving medications that
+will interfere with the levels
+
+680
+00:49:19,270 --> 00:49:24,170
+of cabotegravir or rilpivirine.
+And the cabotegravir
+
+681
+00:49:24,170 --> 00:49:28,730
+without rapivirine is
+also used for pre-exposure
+
+682
+00:49:28,730 --> 00:49:32,850
+prophylaxis maintenance
+therapy once every two months.
+
+683
+00:49:36,090 --> 00:49:41,370
+In summary, I'm not
+going to read you all of
+
+684
+00:49:41,370 --> 00:49:44,970
+this, but it's a summary
+of everything we've talked
+
+685
+00:49:44,970 --> 00:49:49,050
+about regarding the drug
+therapy in part one.

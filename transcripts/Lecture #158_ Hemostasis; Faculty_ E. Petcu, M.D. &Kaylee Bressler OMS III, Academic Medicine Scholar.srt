@@ -1,0 +1,2358 @@
+1
+00:00:02,270 --> 00:00:04,270
+Hello everyone, my
+name is Kaylee Bressler
+
+2
+00:00:04,270 --> 00:00:06,210
+and I'm an academic
+medicine scholar.
+
+3
+00:00:06,210 --> 00:00:08,270
+I'm going to be giving
+you the lecture on
+
+4
+00:00:08,270 --> 00:00:11,310
+hemostasis this year
+thanks to Dr. Petku.
+
+5
+00:00:12,210 --> 00:00:14,250
+So here are our
+learning objectives.
+
+6
+00:00:14,250 --> 00:00:16,590
+The first one is to describe
+the steps that occur
+
+7
+00:00:16,590 --> 00:00:19,610
+in primary and secondary
+hemostasis. Then we're going
+
+8
+00:00:19,610 --> 00:00:22,210
+to differentiate between
+the intrinsic, extrinsic,
+
+9
+00:00:22,210 --> 00:00:24,810
+and common pathways of
+the coagulation cascade.
+
+10
+00:00:24,950 --> 00:00:28,090
+Then we will identify
+mechanisms of anticoagulation
+
+11
+00:00:28,090 --> 00:00:30,630
+that prevent
+hypercoagulability states.
+
+12
+00:00:30,830 --> 00:00:32,850
+We will describe
+fibrinolysis as the
+
+13
+00:00:32,850 --> 00:00:35,050
+final step in hemostasis
+and then apply
+
+14
+00:00:35,050 --> 00:00:37,750
+these principles to
+clinical scenarios.
+
+15
+00:00:39,300 --> 00:00:41,610
+So before we get started,
+I just want you to take a
+
+16
+00:00:41,610 --> 00:00:44,990
+second and think about why
+hemostasis is important, what
+
+17
+00:00:44,990 --> 00:00:47,850
+it is, why do we need to
+know about it, and how it's
+
+18
+00:00:47,850 --> 00:00:50,870
+going to help us when we are
+physicians in the future.
+
+19
+00:00:52,430 --> 00:00:55,850
+Great, so hemostasis is a
+process in which bleeding
+
+20
+00:00:55,850 --> 00:00:58,910
+is stopped. So this is
+important when there are
+
+21
+00:00:58,910 --> 00:01:01,490
+penetrating injuries
+resulting in substantial blood
+
+22
+00:01:01,490 --> 00:01:04,110
+loss and also when you
+get a paper cut. One of
+
+23
+00:01:04,110 --> 00:01:06,610
+the biggest ways that
+hemostasis is relevant to us
+
+24
+00:01:06,610 --> 00:01:09,430
+as future physicians is
+the way in which it can be
+
+25
+00:01:09,430 --> 00:01:12,930
+affected by drugs. So
+there's warfarin, heparin,
+
+26
+00:01:13,020 --> 00:01:15,010
+anoxaparin, all of these
+are highly prescribed
+
+27
+00:01:15,010 --> 00:01:18,310
+drugs and they are
+anticoagulants. So these are going
+
+28
+00:01:18,310 --> 00:01:20,770
+to prevent hemostasis
+from functioning correctly
+
+29
+00:01:20,770 --> 00:01:23,990
+and put patients at an
+increased risk for bleeds.
+
+30
+00:01:25,760 --> 00:01:28,470
+So the point of this lecture
+today is to go through
+
+31
+00:01:28,470 --> 00:01:31,290
+the entire process of
+stopping a bleed, which is
+
+32
+00:01:31,290 --> 00:01:34,570
+hemostasis. We will discuss the
+different steps involved and
+
+33
+00:01:34,570 --> 00:01:39,370
+the feedback mechanisms and
+make sure that that allow
+
+34
+00:01:39,370 --> 00:01:41,630
+us to make sure that we're
+not clotting too much.
+
+35
+00:01:41,630 --> 00:01:44,710
+And then at the end, I've
+included information about
+
+36
+00:01:44,710 --> 00:01:47,390
+different disorders about
+hemostasis and how drugs will
+
+37
+00:01:47,390 --> 00:01:49,870
+affect this process. But you
+will also have additional
+
+38
+00:01:49,870 --> 00:01:52,250
+lectures that go into much
+more detail about this,
+
+39
+00:01:52,250 --> 00:01:54,930
+especially the mechanisms
+of actions of those drugs.
+
+40
+00:01:55,510 --> 00:01:57,510
+So first, we're just
+going to outline the
+
+41
+00:01:57,510 --> 00:01:59,510
+major steps of hemostasis,
+and then we're going
+
+42
+00:01:59,510 --> 00:02:01,650
+to go into each of
+these into more details.
+
+43
+00:02:02,330 --> 00:02:06,370
+So first, there is an injury
+to the endothelium. This
+
+44
+00:02:06,370 --> 00:02:09,270
+can be either internally,
+like a plaque breaks off
+
+45
+00:02:09,270 --> 00:02:12,290
+from somewhere and damages
+the blood vessel, or it can
+
+46
+00:02:12,290 --> 00:02:15,490
+be external from an injury
+occurring outside the body.
+
+47
+00:02:15,690 --> 00:02:21,350
+Then we move into primary
+hemostasis, and then we
+
+48
+00:02:21,350 --> 00:02:25,930
+have secondary hemostasis,
+which consists of two
+
+49
+00:02:25,930 --> 00:02:28,530
+different pathways, the
+intrinsic and extrinsic
+
+50
+00:02:28,530 --> 00:02:32,110
+pathway. These come together
+into the common pathway.
+
+51
+00:02:33,370 --> 00:02:37,050
+These are what consists
+of clotting factors, so
+
+52
+00:02:37,050 --> 00:02:39,690
+the secondary hemostasis
+is also commonly referred
+
+53
+00:02:39,690 --> 00:02:43,070
+to as the coagulation
+cascade. Lastly, we have
+
+54
+00:02:43,210 --> 00:02:46,070
+fibrinolysis, which is the
+process of getting rid of
+
+55
+00:02:46,070 --> 00:02:49,190
+the clot when the endothelium
+has been repaired.
+
+56
+00:02:49,590 --> 00:02:51,030
+Additionally, we're
+going to talk about those
+
+57
+00:02:51,030 --> 00:02:53,670
+feedback mechanisms
+that keep this in check.
+
+58
+00:02:54,910 --> 00:02:57,470
+So first, we're going
+to talk about the
+
+59
+00:02:57,470 --> 00:03:00,170
+normal endothelium. So
+as you guys all know,
+
+60
+00:03:00,370 --> 00:03:04,670
+it's a single layer of cells
+that makes up the wall of
+
+61
+00:03:04,670 --> 00:03:07,010
+the blood vessel. And under
+normal conditions, when
+
+62
+00:03:07,010 --> 00:03:09,450
+there's no injury, it has
+many properties that make it
+
+63
+00:03:09,450 --> 00:03:12,890
+antithrombotic. So there are
+different effector molecules
+
+64
+00:03:12,890 --> 00:03:15,330
+that are released from the
+endothelium. Some of these
+
+65
+00:03:15,330 --> 00:03:19,110
+are nitric oxide, prostacyclin,
+and diphosphatases.
+
+66
+00:03:19,110 --> 00:03:21,790
+These prevent platelets
+from sticking to the vessel
+
+67
+00:03:21,790 --> 00:03:24,130
+wall and just allow them
+to pass through smoothly.
+
+68
+00:03:24,710 --> 00:03:27,370
+There are also membrane
+-bound molecules
+
+69
+00:03:27,370 --> 00:03:29,770
+present on the
+endothelium that inhibit
+
+70
+00:03:29,770 --> 00:03:31,970
+clotting factors
+from being activated.
+
+71
+00:03:32,330 --> 00:03:35,370
+Heparin-like molecules
+bind antithrombin-3.
+
+72
+00:03:35,510 --> 00:03:38,690
+There is thrombomodulin,
+which binds thrombin
+
+73
+00:03:38,690 --> 00:03:41,310
+and protein C. Both
+of these lead to
+
+74
+00:03:41,310 --> 00:03:43,870
+inactivation of specific
+clotting factors.
+
+75
+00:03:44,070 --> 00:03:47,070
+The endothelium also
+releases tissue factor
+
+76
+00:03:47,070 --> 00:03:50,010
+pathway inhibitor,
+which does the same as
+
+77
+00:03:50,010 --> 00:03:52,750
+those. They inactivate
+different factors.
+
+78
+00:03:53,530 --> 00:03:58,450
+And then lastly, there's
+TPA, which we know as a
+
+79
+00:03:58,450 --> 00:04:01,150
+drug mostly, but it's also
+commonly found in the body.
+
+80
+00:04:01,250 --> 00:04:04,030
+It's released from the
+endothelium, which initiates
+
+81
+00:04:04,030 --> 00:04:06,970
+fibrinolysis in degradation
+of fibrin that would
+
+82
+00:04:06,970 --> 00:04:10,210
+stabilize a clot. So under
+normal conditions, your
+
+83
+00:04:10,210 --> 00:04:12,810
+body just wants blood to
+flow smoothly and they're
+
+84
+00:04:12,810 --> 00:04:15,470
+not trying to stop the
+platelets or make a plug.
+
+85
+00:04:16,530 --> 00:04:21,550
+But then when we have an
+injury, that's when the
+
+86
+00:04:21,550 --> 00:04:25,390
+process of hemostasis
+begins. So that injury to the
+
+87
+00:04:25,390 --> 00:04:28,750
+endothelium then exposes
+the subendothelial collagen
+
+88
+00:04:28,750 --> 00:04:31,620
+that's exposed before.
+That's kind of the orange
+
+89
+00:04:31,620 --> 00:04:34,130
+underneath the blue. So
+the blue cells are your
+
+90
+00:04:34,130 --> 00:04:37,550
+endothelium, and then underneath
+you have the collagen.
+
+91
+00:04:38,650 --> 00:04:41,370
+So the damaged cells
+then release a substance
+
+92
+00:04:41,370 --> 00:04:44,510
+called endothelin. That
+causes vasoconstriction.
+
+93
+00:04:44,510 --> 00:04:47,590
+That causes the
+bloodstream to flow down,
+
+94
+00:04:47,590 --> 00:04:51,850
+the blood to flow slow
+down so that the clot
+
+95
+00:04:51,850 --> 00:04:54,070
+can form. The platelets
+slow down. There's more
+
+96
+00:04:54,070 --> 00:04:57,230
+chance for them to
+release different factors.
+
+97
+00:04:59,490 --> 00:05:03,330
+The exposed collagen binds
+von Willebrand factor.
+
+98
+00:05:03,330 --> 00:05:06,350
+This is a protein that
+promotes platelet adhesion.
+
+99
+00:05:06,820 --> 00:05:09,290
+It can come from a few
+different places. It's in
+
+100
+00:05:09,290 --> 00:05:11,830
+the plasma, and then it
+is released from alpha
+
+101
+00:05:11,830 --> 00:05:14,110
+granules from within
+platelets, and then also
+
+102
+00:05:14,110 --> 00:05:17,630
+weibol piloti bodies that
+are found in endothelial
+
+103
+00:05:17,630 --> 00:05:20,890
+cells. So it is important
+to know where it's
+
+104
+00:05:20,890 --> 00:05:23,210
+coming from in the specific
+granule, so definitely
+
+105
+00:05:23,210 --> 00:05:25,710
+know that alpha granule
+in the weibol piloti
+
+106
+00:05:26,590 --> 00:05:32,050
+bodies. So once that von
+Willebrand factor has bound
+
+107
+00:05:32,050 --> 00:05:35,290
+to the exposed collagen,
+the next step is going
+
+108
+00:05:35,290 --> 00:05:39,730
+to be platelet adhesion. So
+platelets have a receptor
+
+109
+00:05:39,730 --> 00:05:43,770
+on their membrane called
+GP1B receptor and that
+
+110
+00:05:43,770 --> 00:05:47,470
+is what is going to bind to
+the von Willebrand factor.
+
+111
+00:05:47,470 --> 00:05:50,210
+So that's why this
+vasoconstriction is important.
+
+112
+00:05:50,210 --> 00:05:53,790
+It slows down the blood
+so that these receptors
+
+113
+00:05:53,790 --> 00:05:56,110
+have a chance to bind to
+the von Willebrand factor.
+
+114
+00:05:57,510 --> 00:06:00,210
+Next is activation.
+Once the platelets have
+
+115
+00:06:00,210 --> 00:06:02,270
+bound, they change
+shape and they release
+
+116
+00:06:02,270 --> 00:06:04,810
+more mediators to
+advance forming the clot.
+
+117
+00:06:04,950 --> 00:06:07,990
+There are two specific
+granules within platelets
+
+118
+00:06:07,990 --> 00:06:09,850
+that you need to know.
+We talked about the alpha
+
+119
+00:06:09,850 --> 00:06:12,730
+granules secreting von
+Willebrand factor. It also
+
+120
+00:06:12,730 --> 00:06:15,210
+secretes many other factors
+that help with clotting.
+
+121
+00:06:15,210 --> 00:06:19,110
+They're listed here for you
+to review, but I underlined
+
+122
+00:06:19,110 --> 00:06:21,670
+the important ones. Von
+Willebrand factor is
+
+123
+00:06:21,670 --> 00:06:24,100
+really the most important
+one for the alpha granule.
+
+124
+00:06:25,170 --> 00:06:28,770
+And then the dense
+granule secretes ADP
+
+125
+00:06:28,770 --> 00:06:30,650
+and calcium, which
+are two important
+
+126
+00:06:30,650 --> 00:06:32,810
+molecules that help to
+advance the process.
+
+127
+00:06:32,810 --> 00:06:35,770
+Calcium is needed in
+secondary hemostasis, so we
+
+128
+00:06:35,770 --> 00:06:39,490
+will come back to this
+one later on. But ADP is
+
+129
+00:06:39,490 --> 00:06:42,530
+released and it binds to a
+different receptor that is
+
+130
+00:06:42,530 --> 00:06:46,550
+present on platelets. This
+is the P2Y12 receptor.
+
+131
+00:06:47,110 --> 00:06:49,870
+When this binding
+happens, it triggers
+
+132
+00:06:49,870 --> 00:06:52,350
+the platelet to then
+expose an additional
+
+133
+00:06:52,350 --> 00:06:56,050
+receptor, which is
+the GP2B3A receptor.
+
+134
+00:06:56,050 --> 00:06:58,690
+And this is important
+for the next step.
+
+135
+00:06:59,130 --> 00:07:01,990
+And then additionally,
+there's also thromboxin A2
+
+136
+00:07:01,990 --> 00:07:03,970
+that's released. This is,
+again, helping with the
+
+137
+00:07:03,970 --> 00:07:06,630
+vasoconstriction of
+slowing the blood down so
+
+138
+00:07:06,630 --> 00:07:09,950
+that all the platelets can
+bind and form this clot.
+
+139
+00:07:11,130 --> 00:07:13,420
+All right, so next
+we have aggregation.
+
+140
+00:07:14,550 --> 00:07:19,630
+so this is that newly
+exposed receptor the gp2b3a
+
+141
+00:07:19,630 --> 00:07:24,390
+it will now bind fibrinogen
+so this helps even more
+
+142
+00:07:24,390 --> 00:07:26,890
+for the platelets to aggregate
+and it's a more secure
+
+143
+00:07:26,890 --> 00:07:29,570
+connection between the
+platelets platelets have
+
+144
+00:07:29,570 --> 00:07:32,250
+multiple of these receptors
+so you can can see in this
+
+145
+00:07:32,250 --> 00:07:34,530
+photo that they're kind
+of connecting to each
+
+146
+00:07:34,530 --> 00:07:38,330
+other to help them create
+this stable fibrin mesh so
+
+147
+00:07:38,330 --> 00:07:41,810
+this is the last step in
+the primary hemostasis and
+
+148
+00:07:41,810 --> 00:07:44,610
+this is what helps form
+that initial platelet plug.
+
+149
+00:07:45,610 --> 00:07:47,510
+So we're going to pause really
+
+150
+00:07:47,510 --> 00:07:48,910
+quick to answer a question.
+
+151
+00:07:49,370 --> 00:07:51,130
+Which of the following has the
+
+152
+00:07:51,130 --> 00:07:53,290
+correct receptor
+and ligand pair?
+
+153
+00:08:00,600 --> 00:08:03,100
+If you need more time you
+can go ahead and pause
+
+154
+00:08:03,100 --> 00:08:05,380
+the video but we're going
+to go over the answer.
+
+155
+00:08:06,120 --> 00:08:11,320
+So the correct answer is
+GP2B3A receptor binds to
+
+156
+00:08:11,420 --> 00:08:13,940
+fibrinogen. So you want to
+be careful and distinguish
+
+157
+00:08:13,940 --> 00:08:17,600
+this from fibrin, so it's
+specifically binding fibrinogen.
+
+158
+00:08:17,600 --> 00:08:20,180
+The next step we'll go
+over how we get to fibrin.
+
+159
+00:08:20,600 --> 00:08:24,220
+The GP1B receptor is
+what binds the von
+
+160
+00:08:24,220 --> 00:08:29,420
+Willebrand factor, and
+then the P2Y12 receptor
+
+161
+00:08:29,420 --> 00:08:32,400
+binds ADP that's
+released from platelets.
+
+162
+00:08:35,070 --> 00:08:37,450
+All right, so now we're
+going to move on to secondary
+
+163
+00:08:37,450 --> 00:08:39,820
+hemostasis. This is also
+known as the coagulation
+
+164
+00:08:39,820 --> 00:08:42,580
+cascade. I know it looks
+a little intimidating
+
+165
+00:08:42,580 --> 00:08:46,120
+this is just an overview
+of the entire system. The
+
+166
+00:08:46,120 --> 00:08:49,140
+most important thing to
+keep in mind is that the
+
+167
+00:08:49,140 --> 00:08:51,840
+point of this is to stabilize
+the platelet plug so
+
+168
+00:08:51,840 --> 00:08:55,100
+that we are the end result
+is that we're converting
+
+169
+00:08:55,100 --> 00:08:57,540
+fibrinogen to fibrin
+which is a more stable
+
+170
+00:08:57,540 --> 00:08:59,920
+molecule. So that's really
+the entire point of this
+
+171
+00:08:59,920 --> 00:09:03,160
+entire cascade is to get
+from fibrinogen to fibrin.
+
+172
+00:09:04,540 --> 00:09:07,800
+So first we have the intrinsic
+pathway. The important
+
+173
+00:09:07,800 --> 00:09:09,960
+things to know for each
+pathway is going to be
+
+174
+00:09:09,960 --> 00:09:13,700
+how it is triggered, the
+specific differentiating
+
+175
+00:09:13,700 --> 00:09:17,000
+factors that are involved,
+and then the corresponding
+
+176
+00:09:17,000 --> 00:09:19,000
+lab tests that will be
+useful when you guys
+
+177
+00:09:19,000 --> 00:09:22,300
+go on to rotations and
+then also for your boards.
+
+178
+00:09:22,700 --> 00:09:25,520
+So the intrinsic pathway
+is triggered when there is
+
+179
+00:09:25,520 --> 00:09:28,680
+damage inside the vessel to
+the endothelium. So it does
+
+180
+00:09:28,680 --> 00:09:32,360
+not result in blood loss.
+So think intrinsic internal.
+
+181
+00:09:32,510 --> 00:09:35,530
+So this can also happen
+when there are specific
+
+182
+00:09:35,530 --> 00:09:38,760
+negatively charged
+substances that trigger
+
+183
+00:09:38,760 --> 00:09:40,880
+the activation of that
+first factor, which
+
+184
+00:09:40,880 --> 00:09:43,480
+is factor 12. So some
+of those are collagen,
+
+185
+00:09:43,960 --> 00:09:46,140
+calycrein, and kininogen.
+
+186
+00:09:46,640 --> 00:09:48,980
+Just trying to remember
+collagen. So if you
+
+187
+00:09:48,980 --> 00:09:51,080
+think of that endothelial
+wall breaking, right
+
+188
+00:09:51,080 --> 00:09:53,660
+underneath it is collagen.
+And when that's exposed,
+
+189
+00:09:53,660 --> 00:09:56,460
+it's going to activate
+this first factor.
+
+190
+00:09:57,840 --> 00:10:00,600
+So the important factors
+to remember for this are
+
+191
+00:10:00,600 --> 00:10:05,180
+factor 12, factor 11, factor
+9, and factor 8. So if
+
+192
+00:10:05,180 --> 00:10:07,400
+you just kind of go down
+the pathway and exclude
+
+193
+00:10:07,400 --> 00:10:11,280
+10, those first four are
+what we're looking at here.
+
+194
+00:10:11,680 --> 00:10:14,720
+And then it's called
+a cascade because once
+
+195
+00:10:14,720 --> 00:10:16,580
+the first one's
+activated, it goes on to
+
+196
+00:10:16,580 --> 00:10:19,120
+activate the next and
+the next and so on.
+
+197
+00:10:19,180 --> 00:10:21,500
+And then the important
+lab test that we're
+
+198
+00:10:21,500 --> 00:10:25,320
+going to talk about here
+is the APTT, which stands
+
+199
+00:10:25,320 --> 00:10:28,140
+for activated partial
+thromboplastin time.
+
+200
+00:10:28,460 --> 00:10:31,080
+These are lab results
+that you'll get back if
+
+201
+00:10:31,080 --> 00:10:32,780
+you think someone has
+a bleeding disorder.
+
+202
+00:10:32,780 --> 00:10:34,820
+You'll test for a lot
+of these blood markers.
+
+203
+00:10:35,060 --> 00:10:38,260
+So normal for this one
+is 25 to 40 seconds.
+
+204
+00:10:38,700 --> 00:10:42,640
+So if it's increased,
+it's higher than 40. That
+
+205
+00:10:42,640 --> 00:10:44,620
+means there's a problem
+with this part of the
+
+206
+00:10:44,620 --> 00:10:47,060
+cascade, and you want to
+look at these clotting
+
+207
+00:10:47,060 --> 00:10:50,620
+factors. This is also
+used to monitor heparin
+
+208
+00:10:50,620 --> 00:10:54,180
+therapy since its
+effects are on thrombin,
+
+209
+00:10:54,180 --> 00:10:58,320
+which you can see here
+on the side, is needed to
+
+210
+00:10:58,320 --> 00:11:03,220
+activate factor VIII,
+and then also factor Xa.
+
+211
+00:11:06,280 --> 00:11:09,120
+Next, we have the
+extrinsic pathway.
+
+212
+00:11:09,120 --> 00:11:11,560
+So this one is triggered
+when there is an external
+
+213
+00:11:11,560 --> 00:11:13,800
+trauma that results in
+injury to the vessel
+
+214
+00:11:13,800 --> 00:11:16,840
+wall and you have blood
+loss after that. So think
+
+215
+00:11:16,840 --> 00:11:21,120
+extrinsic external
+injury. So you're damaging
+
+216
+00:11:21,120 --> 00:11:23,800
+the entire vessel wall,
+not just the endothelium.
+
+217
+00:11:24,300 --> 00:11:27,620
+So factor two is found in
+the deeper layers of the
+
+218
+00:11:27,620 --> 00:11:31,220
+vessel wall. So that's also
+helpful to have you think
+
+219
+00:11:31,220 --> 00:11:33,640
+about external because
+that's what's going to be
+
+220
+00:11:33,640 --> 00:11:36,860
+exposed when this kind of
+damage occurs. It's going to
+
+221
+00:11:36,860 --> 00:11:39,400
+be the muscle cells in
+the fibroblast, which is a
+
+222
+00:11:39,400 --> 00:11:43,920
+much deeper injury. The
+important factor here, we have
+
+223
+00:11:43,920 --> 00:11:48,060
+factor 3 and factor 7.
+They come together and they
+
+224
+00:11:48,060 --> 00:11:51,500
+form a complex that is
+going to activate factor 10.
+
+225
+00:11:52,280 --> 00:11:55,700
+The lab value that's used
+to monitor this pathway is
+
+226
+00:11:55,700 --> 00:11:59,520
+APT, which stands for
+activated prothrombin time. It
+
+227
+00:11:59,520 --> 00:12:02,700
+is normally 11 to 15
+seconds, so any increase in
+
+228
+00:12:02,700 --> 00:12:05,160
+this time means there is a
+problem with these factors.
+
+229
+00:12:05,720 --> 00:12:09,340
+And then it is used to
+monitor warfarin therapy.
+
+230
+00:12:09,520 --> 00:12:12,440
+And this is because
+factor 7 is a vitamin K
+
+231
+00:12:12,440 --> 00:12:14,720
+dependent factor produced
+by the liver, and
+
+232
+00:12:14,720 --> 00:12:17,560
+warfarin decreases the
+amount of vitamin K
+
+233
+00:12:17,560 --> 00:12:20,640
+that you have available
+to you, so it's going
+
+234
+00:12:20,640 --> 00:12:23,740
+to decrease the amount
+of factor 7 you have.
+
+235
+00:12:26,570 --> 00:12:28,900
+All right, so we made it
+to the common pathway. So
+
+236
+00:12:28,900 --> 00:12:33,200
+this is the last step of
+each pathway results in
+
+237
+00:12:33,200 --> 00:12:36,000
+activation of factor 10, and
+that is the first step in
+
+238
+00:12:36,000 --> 00:12:38,760
+the common pathway. So both
+intrinsic and extrinsic
+
+239
+00:12:38,760 --> 00:12:43,080
+come together and results
+in this final pathway.
+
+240
+00:12:43,320 --> 00:12:46,420
+So this goes on to activate
+thrombin and factor
+
+241
+00:12:46,420 --> 00:12:49,880
+13, which results in a
+stable fibrin mesh that is
+
+242
+00:12:49,880 --> 00:12:51,920
+cross-linked with each
+other. So this is how we get
+
+243
+00:12:51,920 --> 00:12:54,660
+from that fibrinogen to
+the fibrin, and then it
+
+244
+00:12:54,660 --> 00:12:57,360
+becomes cross-linked, and
+it becomes even stronger.
+
+245
+00:12:59,100 --> 00:13:01,280
+And then we're going to
+talk about thrombin for a
+
+246
+00:13:01,280 --> 00:13:03,680
+minute. So So thrombin has
+many roles in hemostasis,
+
+247
+00:13:03,680 --> 00:13:06,860
+and it also feeds back on
+itself. You can see it at
+
+248
+00:13:06,860 --> 00:13:09,980
+many points in the coagulation
+cascade, but it's not
+
+249
+00:13:09,980 --> 00:13:13,300
+actually made till down
+here in the common pathway.
+
+250
+00:13:13,300 --> 00:13:16,360
+It was also one of those
+molecules released from
+
+251
+00:13:16,360 --> 00:13:19,440
+platelets. So it comes from
+a few different places.
+
+252
+00:13:20,100 --> 00:13:26,200
+It's important to know
+that it has a role in the
+
+253
+00:13:26,430 --> 00:13:30,000
+formation of the clot, but
+it's also important to remember
+
+254
+00:13:30,000 --> 00:13:33,620
+that on a healthy endothelium,
+it has anticoagulant
+
+255
+00:13:33,620 --> 00:13:36,660
+effects together with
+protein C. So we're going to
+
+256
+00:13:36,660 --> 00:13:40,680
+go over that again, but
+just know that depending on
+
+257
+00:13:40,680 --> 00:13:44,000
+whether the endothelium is
+healthy or damaged, there's
+
+258
+00:13:44,000 --> 00:13:46,440
+always going to be thrombin
+and its role changes.
+
+259
+00:13:48,180 --> 00:13:51,180
+And then we also can see
+how important that calcium
+
+260
+00:13:51,180 --> 00:13:53,780
+was that was released upon
+platelet activation and
+
+261
+00:13:53,780 --> 00:13:57,480
+primary hemostasis it's
+necessary in many steps in this
+
+262
+00:13:57,480 --> 00:14:00,480
+coagulation cascade so
+that is why calcium is a
+
+263
+00:14:00,480 --> 00:14:03,920
+really important activator
+that is released by platelets
+
+264
+00:14:04,300 --> 00:14:06,860
+and then finally the platelets
+are going to contract
+
+265
+00:14:06,860 --> 00:14:09,240
+and leave the clot and the
+fiber mesh comes closer
+
+266
+00:14:09,240 --> 00:14:11,940
+together and this is what
+brings those edges of
+
+267
+00:14:11,940 --> 00:14:15,940
+the vessel wall closer
+together and heals that injury
+
+268
+00:14:18,380 --> 00:14:21,620
+all right I know that was
+a lot you guys can go back
+
+269
+00:14:21,620 --> 00:14:24,080
+through and look at it remember
+to just really remember
+
+270
+00:14:24,080 --> 00:14:28,240
+why each pathway is triggered
+the different factors
+
+271
+00:14:28,240 --> 00:14:30,640
+involved and then those
+lab tests those are the
+
+272
+00:14:30,640 --> 00:14:33,200
+three main important things
+so we're going to go over
+
+273
+00:14:33,200 --> 00:14:36,120
+this question a young girl
+falls and scrapes her knee
+
+274
+00:14:36,120 --> 00:14:38,900
+after the platelet plug is
+formed what pathway will
+
+275
+00:14:38,900 --> 00:14:41,740
+be activated next to stabilize
+the platelet plug all
+
+276
+00:14:49,600 --> 00:14:52,140
+right if you need more
+time go ahead and pause it?
+
+277
+00:14:52,820 --> 00:14:56,900
+So the correct answer is
+the extrinsic pathway. So
+
+278
+00:14:56,900 --> 00:14:59,700
+she falls, she scrapes her
+knee, that's an external
+
+279
+00:14:59,700 --> 00:15:03,420
+injury. So the entire blood
+vessel is being broken
+
+280
+00:15:03,420 --> 00:15:06,760
+and she's obviously bleeding.
+So extrinsic, external.
+
+281
+00:15:09,120 --> 00:15:13,560
+Next, we're going to talk
+about the feedback that is
+
+282
+00:15:13,560 --> 00:15:16,360
+important to make sure that
+the hemostasis process does
+
+283
+00:15:16,360 --> 00:15:18,840
+not get out of control and
+there's too much clotting.
+
+284
+00:15:19,040 --> 00:15:22,320
+So one really important way
+is through proteins C and
+
+285
+00:15:22,320 --> 00:15:26,580
+S. These are also two
+vitamin K-dependent proteins
+
+286
+00:15:26,580 --> 00:15:29,380
+that are synthesized in the
+liver. They come together
+
+287
+00:15:29,380 --> 00:15:32,730
+and they form a complex with
+thrombin and thrombomodulin,
+
+288
+00:15:32,740 --> 00:15:37,820
+and that then goes on to
+inhibit factors 5 and 8.
+
+289
+00:15:39,120 --> 00:15:41,760
+Additionally, antithrombin
+is a molecule that binds
+
+290
+00:15:41,760 --> 00:15:46,640
+and degrades thrombin, and
+then it also inactivates
+
+291
+00:15:46,640 --> 00:15:51,060
+factors 9 and 10. So these
+are really important not only
+
+292
+00:15:51,060 --> 00:15:53,720
+for the clotting cascade
+but also for the effects
+
+293
+00:15:53,720 --> 00:15:58,270
+of warfarin on vitamin K
+and heparin on antithrombin.
+
+294
+00:16:01,260 --> 00:16:04,560
+The very last step once the
+endothelium is healed is
+
+295
+00:16:04,560 --> 00:16:07,240
+to get rid of the clot
+and this is the process of
+
+296
+00:16:07,240 --> 00:16:10,960
+fibrinolysis. So we have
+plasminogen which is converted
+
+297
+00:16:10,960 --> 00:16:13,450
+to plasmin and this is done
+through a few different
+
+298
+00:16:13,450 --> 00:16:16,420
+molecules. The most likely
+one you guys have heard
+
+299
+00:16:16,420 --> 00:16:20,840
+of is TPA. Other ones are
+calicreon, streptokinase,
+
+300
+00:16:20,840 --> 00:16:24,740
+and urokinase. And then
+plasmin is the molecule
+
+301
+00:16:24,740 --> 00:16:28,780
+that converts that cross
+-linked fibrin mesh into soluble
+
+302
+00:16:28,980 --> 00:16:31,660
+fibrin and releases it
+from the clot. So this is
+
+303
+00:16:31,660 --> 00:16:34,660
+the very final step that
+gets rid of the clot and
+
+304
+00:16:34,660 --> 00:16:37,690
+we're now back to just a
+normal healthy endothelium.
+
+305
+00:16:40,920 --> 00:16:42,500
+All right so we have another
+
+306
+00:16:42,500 --> 00:16:45,440
+question. What is
+the main role of
+
+307
+00:16:45,970 --> 00:16:47,300
+antithrombin? I'll
+give you guys a
+
+308
+00:16:47,300 --> 00:16:48,900
+little bit more time
+with this one. If
+
+309
+00:17:06,300 --> 00:17:07,510
+you need more time
+
+310
+00:17:07,700 --> 00:17:10,240
+pause the video we're going
+to go over the answer.
+
+311
+00:17:11,040 --> 00:17:15,440
+So the correct answer is to
+bind and degrade thrombin.
+
+312
+00:17:15,440 --> 00:17:18,940
+So I think antithrombin
+wants to stop thrombin and
+
+313
+00:17:18,940 --> 00:17:23,300
+then together they're going
+to to inhibit clotting
+
+314
+00:17:23,460 --> 00:17:26,320
+factors from being activated.
+Thrombin can no longer
+
+315
+00:17:26,320 --> 00:17:30,000
+activate factors, so we're going
+to have decreased clotting.
+
+316
+00:17:30,000 --> 00:17:32,870
+So that's kind of the
+feedback on the coagulation
+
+317
+00:17:32,870 --> 00:17:35,240
+cascade to make sure we
+don't have too much clotting.
+
+318
+00:17:37,500 --> 00:17:39,980
+So next we're just going
+to go over what happens
+
+319
+00:17:39,980 --> 00:17:41,710
+when there are some
+issues with hemostasis.
+
+320
+00:17:42,740 --> 00:17:45,940
+In primary hemostasis,
+you can have deficiencies
+
+321
+00:17:45,940 --> 00:17:48,120
+in the molecules and
+in the receptors.
+
+322
+00:17:48,280 --> 00:17:51,320
+so one of those would be
+von Willebrand disease this
+
+323
+00:17:51,320 --> 00:17:54,580
+is a deficiency of von
+Willebrand factor so you're
+
+324
+00:17:54,580 --> 00:17:57,100
+not going to have that
+initial platelet adhesion
+
+325
+00:17:57,100 --> 00:17:59,880
+if you don't have von
+Willebrand factor to bind to
+
+326
+00:17:59,880 --> 00:18:02,180
+the collagen for those
+platelet receptors to then
+
+327
+00:18:02,180 --> 00:18:06,880
+bind to so this could cause
+increased bleeding and
+
+328
+00:18:06,880 --> 00:18:10,280
+then we have Bernard
+Soulier syndrome which is a
+
+329
+00:18:10,280 --> 00:18:14,280
+deficiency of the GP1b
+receptor so remember that is
+
+330
+00:18:14,280 --> 00:18:16,440
+the receptor on the platelet
+that binds to the von
+
+331
+00:18:16,440 --> 00:18:18,510
+Willebrand factor. So you're
+going to have a similar
+
+332
+00:18:18,510 --> 00:18:21,900
+problem as von Willebrand
+disease, and you're not
+
+333
+00:18:21,900 --> 00:18:24,140
+going to be able to have
+that platelet adhesion.
+
+334
+00:18:24,520 --> 00:18:28,960
+And then we have glansman
+thrombocenia, which
+
+335
+00:18:28,960 --> 00:18:33,440
+is a deficiency of the
+GP2B3A receptors. So
+
+336
+00:18:33,440 --> 00:18:36,360
+these are that last
+receptor that's exposed on
+
+337
+00:18:36,360 --> 00:18:39,560
+the platelets once ADP
+binds to its receptor.
+
+338
+00:18:39,700 --> 00:18:43,560
+This is going to decrease
+aggregation. So platelets
+
+339
+00:18:43,560 --> 00:18:48,520
+might be able to initially
+adhere to the collagen,
+
+340
+00:18:48,520 --> 00:18:50,860
+but they're not going
+to be able to aggregate
+
+341
+00:18:50,860 --> 00:18:52,920
+as well, and they're not
+going to be able to then
+
+342
+00:18:52,920 --> 00:18:56,820
+bind that fibrinogen and
+make that fibrin mesh.
+
+343
+00:18:57,160 --> 00:19:01,600
+And then we also have disorders
+of secondary hemostasis.
+
+344
+00:19:01,600 --> 00:19:03,670
+So I'm sure you guys have
+all heard of hemophilia.
+
+345
+00:19:03,700 --> 00:19:06,640
+So this is when you have low
+levels of clotting factors.
+
+346
+00:19:06,640 --> 00:19:09,880
+They're usually X-linked
+recessive diseases. The
+
+347
+00:19:09,880 --> 00:19:13,020
+two most common ones are
+hemophilia A and hemophilia B.
+
+348
+00:19:13,230 --> 00:19:15,300
+Hemophilia A is
+when you have a lack
+
+349
+00:19:15,300 --> 00:19:18,620
+of factor 8, and
+then hemophilia B
+
+350
+00:19:18,620 --> 00:19:21,280
+is when you have a
+lack of factor 9.
+
+351
+00:19:21,580 --> 00:19:23,700
+So all of these
+disorders are going to
+
+352
+00:19:23,700 --> 00:19:26,100
+decrease the body's
+ability to adequately
+
+353
+00:19:26,100 --> 00:19:28,760
+form a clot, and
+you're going to have
+
+354
+00:19:28,760 --> 00:19:32,300
+increased risk of bleeding
+in these patients.
+
+355
+00:19:34,680 --> 00:19:38,140
+Okay, next we have a summary
+of the different lab tests
+
+356
+00:19:38,140 --> 00:19:40,800
+we talked about and just
+kind of what you should be
+
+357
+00:19:40,800 --> 00:19:44,080
+thinking when you see an
+elevated result so first we
+
+358
+00:19:44,080 --> 00:19:46,840
+have decreased platelet number
+so that's the definition
+
+359
+00:19:46,840 --> 00:19:50,900
+of thrombocytopenia
+thrombocytopenia so with that you're
+
+360
+00:19:50,900 --> 00:19:52,840
+gonna get an increased
+bleeding time that's one of
+
+361
+00:19:52,840 --> 00:19:56,020
+the tests on the lab results
+you can look for and then
+
+362
+00:19:56,020 --> 00:19:58,080
+if you have a normal
+platelet number but you have
+
+363
+00:19:58,080 --> 00:20:00,480
+increased bleeding time you
+want to think about a platelet
+
+364
+00:20:00,480 --> 00:20:03,380
+dysfunction so you want
+to think about those first
+
+365
+00:20:03,380 --> 00:20:06,880
+three under primary hemostasis
+von Willebrand's disease,
+
+366
+00:20:07,800 --> 00:20:11,220
+glansman thrombocytopenia,
+and the other one.
+
+367
+00:20:12,000 --> 00:20:16,480
+And then finally, we have
+elevated PTINR or APTT.
+
+368
+00:20:16,740 --> 00:20:19,160
+So these, whenever you
+see them elevated, you
+
+369
+00:20:19,160 --> 00:20:21,400
+want to think of the
+coagulation cascade. So
+
+370
+00:20:21,400 --> 00:20:23,450
+it's going to have to do
+with a clotting factor.
+
+371
+00:20:23,940 --> 00:20:25,600
+So when you have
+
+372
+00:20:26,120 --> 00:20:29,620
+just an elevated PTINR,
+you want to think
+
+373
+00:20:29,620 --> 00:20:32,080
+of the extrinsic pathway.
+And specifically,
+
+374
+00:20:32,080 --> 00:20:34,250
+you want to think of
+a factor 7 deficiency.
+
+375
+00:20:34,820 --> 00:20:39,360
+When you have just an
+elevated APTT, you want to
+
+376
+00:20:39,360 --> 00:20:41,980
+think of the intrinsic
+pathway, and this is going
+
+377
+00:20:41,980 --> 00:20:44,240
+to be your hemophilia
+disorder, so you could have
+
+378
+00:20:44,240 --> 00:20:49,300
+a decreased level of factors
+8, 9, and then sometimes
+
+379
+00:20:49,300 --> 00:20:52,700
+11. And then when you
+have an elevated PTINR
+
+380
+00:20:52,780 --> 00:20:57,480
+and APTT, it's both extrinsic
+and intrinsic pathways,
+
+381
+00:20:57,480 --> 00:21:00,080
+you want to think of a
+deficiency of vitamin K.
+
+382
+00:21:00,460 --> 00:21:04,500
+This will deplete
+factors 2, 5, 8, and
+
+383
+00:21:04,500 --> 00:21:07,580
+10, and that has to
+do with the extrinsic,
+
+384
+00:21:07,580 --> 00:21:09,740
+intrinsic, and the
+common pathway.
+
+385
+00:21:10,310 --> 00:21:11,860
+So this will be helpful for you
+
+386
+00:21:11,860 --> 00:21:13,420
+guys to come back and review
+
+387
+00:21:14,160 --> 00:21:15,520
+later on.
+
+388
+00:21:18,300 --> 00:21:23,120
+Lastly, we have a brief overview
+of the main antiplatelet
+
+389
+00:21:23,120 --> 00:21:27,260
+and anticoagulant drugs.
+There's a lot more that's
+
+390
+00:21:27,260 --> 00:21:28,960
+going to be given to you in
+another lecture. You guys
+
+391
+00:21:28,960 --> 00:21:32,240
+are going have specific farm
+lectures this is here just
+
+392
+00:21:32,240 --> 00:21:35,080
+to help you start connecting
+physiology to pharmacology
+
+393
+00:21:35,080 --> 00:21:37,080
+and how you're going to
+use this information in the
+
+394
+00:21:37,080 --> 00:21:40,500
+future so our anti-platelets
+these prevent primary
+
+395
+00:21:40,500 --> 00:21:43,400
+hemostasis so prevention of
+that platelet plug formation
+
+396
+00:21:43,400 --> 00:21:47,460
+we have aspirin which we
+know is a cox-1 inhibitor and
+
+397
+00:21:47,460 --> 00:21:50,760
+cox-1 is required to make
+thromboxane in platelets so
+
+398
+00:21:50,760 --> 00:21:53,470
+you're going to have decreased
+platelet aggregation.
+
+399
+00:21:53,980 --> 00:22:00,190
+And then you have
+clopidogrel, which is a P2Y12
+
+400
+00:22:00,340 --> 00:22:04,520
+receptor inhibitor. It
+binds and inactivates the
+
+401
+00:22:04,520 --> 00:22:09,740
+platelet, being able to
+express the GP2B3A receptor.
+
+402
+00:22:09,770 --> 00:22:12,500
+So if that can't be
+expressed, it's similar
+
+403
+00:22:12,500 --> 00:22:16,060
+to the glansman
+thrombocypenia, and that's
+
+404
+00:22:16,060 --> 00:22:18,840
+going to be decrease
+platelet aggregation.
+
+405
+00:22:19,160 --> 00:22:22,800
+And then we have anticoagulants.
+So these are preventing
+
+406
+00:22:22,800 --> 00:22:25,020
+synthesis of certain
+clotting factors. So this is
+
+407
+00:22:25,020 --> 00:22:28,340
+our secondary hemostasis.
+We have heparin, which binds
+
+408
+00:22:28,340 --> 00:22:32,160
+to antithrombin 3, and it
+increases that affinity for
+
+409
+00:22:32,160 --> 00:22:36,060
+factor 10a and thrombin,
+and it's going to bind and
+
+410
+00:22:36,060 --> 00:22:40,880
+inactivate them. So decreased
+levels of factor 10a and
+
+411
+00:22:40,880 --> 00:22:44,760
+thrombin. And remember,
+heparin is monitored with APTT.
+
+412
+00:22:45,420 --> 00:22:47,580
+And then finally,
+we have warfarin
+
+413
+00:22:47,580 --> 00:22:50,040
+that inhibits the enzyme that
+
+414
+00:22:50,220 --> 00:22:53,080
+activates vitamin K. So
+you're going to have a lower
+
+415
+00:22:53,080 --> 00:22:56,100
+level of functional vitamin
+K that can be used. So
+
+416
+00:22:56,100 --> 00:22:58,680
+you're not going to be able
+to make as many of the vitamin
+
+417
+00:22:58,680 --> 00:23:03,440
+K dependent factors. So
+those are 2, 7, 9, and 10.
+
+418
+00:23:03,440 --> 00:23:06,520
+And then also protein C and
+protein S are also vitamin
+
+419
+00:23:06,520 --> 00:23:10,840
+K dependent, and that is
+monitored with APT and INR.
+
+420
+00:23:12,920 --> 00:23:15,700
+And then lastly, we have
+one more question. So a
+
+421
+00:23:15,700 --> 00:23:18,780
+50-year-old man comes
+into the ED complaining of
+
+422
+00:23:18,780 --> 00:23:21,380
+black stools for the past
+week. When you ask about
+
+423
+00:23:21,380 --> 00:23:23,680
+his diet, he tells you
+that he is a very picky
+
+424
+00:23:23,680 --> 00:23:26,660
+eater and eats a lot
+of cereal, grains, and
+
+425
+00:23:26,660 --> 00:23:30,400
+potatoes. He does not eat
+much of meat, fruits, or
+
+426
+00:23:30,400 --> 00:23:33,360
+vegetables. You think
+that he may have a vitamin
+
+427
+00:23:33,360 --> 00:23:36,120
+deficiency that is making
+him bleed. Which of the
+
+428
+00:23:36,120 --> 00:23:39,480
+following has been depleted
+due to his poor diet?
+
+429
+00:23:55,100 --> 00:23:57,840
+All right, we're going
+to go over the answer.
+
+430
+00:23:58,680 --> 00:24:02,040
+So the factors that are
+going to be depleted are
+
+431
+00:24:02,040 --> 00:24:06,720
+factors two and seven. So
+he has a poor diet. You
+
+432
+00:24:06,720 --> 00:24:08,580
+think he has a vitamin
+deficiency. That vitamin
+
+433
+00:24:08,580 --> 00:24:11,500
+deficiency you're thinking
+of is vitamin K. So
+
+434
+00:24:11,500 --> 00:24:14,720
+then you're looking to see
+what is vitamin K dependent,
+
+435
+00:24:14,720 --> 00:24:18,340
+and that's going to be
+factors 2, 7, 9, and
+
+436
+00:24:18,340 --> 00:24:21,080
+10, as well as protein C
+and protein F. So those
+
+437
+00:24:21,080 --> 00:24:22,800
+are really big ones that
+you guys want to make sure
+
+438
+00:24:22,800 --> 00:24:25,040
+you know, all the vitamin
+K dependent factors.
+
+439
+00:24:26,900 --> 00:24:30,480
+All right, so in summary, I
+want you guys to think big
+
+440
+00:24:30,480 --> 00:24:32,700
+picture first and then try
+to add in all the small
+
+441
+00:24:32,700 --> 00:24:35,520
+details. If you guys really
+know this outline, it's
+
+442
+00:24:35,520 --> 00:24:39,200
+going to help. So start from
+here and then see if you
+
+443
+00:24:39,200 --> 00:24:42,920
+can outline it from this
+general outline with more
+
+444
+00:24:42,920 --> 00:24:46,240
+specific details of like
+the receptors involved the
+
+445
+00:24:46,240 --> 00:24:49,620
+clotting factors involved and
+like what happens when there's
+
+446
+00:24:49,620 --> 00:24:54,280
+dysfunction or like not
+enough of one thing so we
+
+447
+00:24:54,280 --> 00:24:57,240
+have an injury to the
+endothelium we start with primary
+
+448
+00:24:57,240 --> 00:24:59,700
+hemostasis so that's all
+about platelets you want
+
+449
+00:24:59,700 --> 00:25:02,580
+to remember adhesion activation
+aggregation the three
+
+450
+00:25:02,580 --> 00:25:06,040
+a's those are all to form
+the initial platelet plug
+
+451
+00:25:06,040 --> 00:25:09,960
+then we have secondary hemostasis
+this is the coagulation
+
+452
+00:25:09,960 --> 00:25:12,200
+cascade with all the
+different clotting factors.
+
+453
+00:25:12,720 --> 00:25:14,220
+Intrinsic, you
+want to remember,
+
+454
+00:25:14,220 --> 00:25:16,030
+is triggered by
+something internal.
+
+455
+00:25:16,180 --> 00:25:19,520
+Extrinsic is triggered
+by external injury that
+
+456
+00:25:19,520 --> 00:25:21,900
+causes bleeding. And
+then both of them come
+
+457
+00:25:21,900 --> 00:25:23,860
+together in the common
+pathway that's going to
+
+458
+00:25:23,860 --> 00:25:26,000
+stabilize that fibrin
+mesh. And then finally,
+
+459
+00:25:26,000 --> 00:25:28,560
+you have fibrinolysis
+that clears the fibrin
+
+460
+00:25:28,560 --> 00:25:30,970
+away and leaves you with
+a healed endothelium.
+
+461
+00:25:31,470 --> 00:25:34,600
+So know this outline and
+then just be able to name
+
+462
+00:25:34,600 --> 00:25:36,900
+the specific things I
+pointed out, and you guys are
+
+463
+00:25:36,900 --> 00:25:41,200
+all going to do amazing
+here are some resources
+
+464
+00:25:41,200 --> 00:25:44,000
+i used also i know there's
+a lot of good summary
+
+465
+00:25:44,000 --> 00:25:47,680
+videos for like boards
+and beyond and i think con
+
+466
+00:25:47,680 --> 00:25:50,730
+academy so you guys can look
+at those it's really just
+
+467
+00:25:50,730 --> 00:25:54,240
+repetition you kind of
+gotta draw it out yourself
+
+468
+00:25:54,240 --> 00:25:58,020
+let it sink in quiz yourself
+questions are the best
+
+469
+00:25:58,020 --> 00:26:03,080
+way to do it and then here
+is the lecture feedback
+
+470
+00:26:03,080 --> 00:26:05,540
+form so if you guys could
+fill this out it'd be
+
+471
+00:26:05,540 --> 00:26:08,220
+really helpful to know
+what you liked and what you
+
+472
+00:26:08,220 --> 00:26:11,880
+didn't like. Please feel
+free to email me if you
+
+473
+00:26:11,880 --> 00:26:15,440
+have any specific questions
+or if you see me on campus
+
+474
+00:26:15,440 --> 00:26:19,000
+feel free to stop me and
+best of luck studying.

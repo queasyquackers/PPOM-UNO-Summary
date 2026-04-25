@@ -1,0 +1,752 @@
+SOURCE: Lecture # 185. L. Goldstein, Pharm.D. (PPT).pdf
+
+--- SLIDE 1 ---
+Pharmacology of Antiretroviral Agents Part 2
+NNRTIs, Protease Inhibitors
+Entry Inhibitors, Capsid Inhibitor
+Leslie Goldstein, Pharm.D.
+Associate Professor
+Department of Clinical Specialties
+Division of Pharmacology
+lgolds01@nyit.edu
+--- SLIDE 2 ---
+I am available to groups and individuals for pharmacology
+help and discussions by appointment.
+lgolds01@nyit.edu
+2
+--- SLIDE 3 ---
+Following completion of the preparation materials, students should be able to:
+1. Compare and contrast the within-class and between-class pharmacokinetic properties of the
+antiretroviral agents.
+2. Describe the structure-activity relationships, mechanism of action, and mechanisms of viral
+resistance of each class of antiretroviral agents in relation to specifically targeted viral proteins
+and give examples.
+3. Explain the clinical rationales for selection of specific antiretroviral therapy (ART) and give
+examples for:
+ART-naïve patients Transgender patients
+Switch to 2-drug ART Women (assigned female at birth)
+Treatment-experienced patients Pregnant people and peripartum care
+Pre-exposure prophylaxis (PrEP) Neonates
+Post-exposure prohylaxis (PEP) Pediatric patients
+Older patients
+4. Differentiate the class and drug-specific adverse effects and their impact on patient adherence
+to therapy.
+5. Explain the mechanism-related and metabolism- and transport-related drug interactions for
+specific drugs, including the antiretroviral drugs that should not be used in combination.
+--- SLIDE 4 ---
+Links
+ScholarRx Brick: Pharmacology of Antiretroviral Drugs > General Microbiology
+Bricks: Antimicrobial Agents > Antiviral Drugs > Drugs to Treat and Prevent HIV Infection
+https://exchange.scholarrx.com/brick/drugs-to-treat-and-prevent-hiv-infection
+Access Medicine Katzung’s Basic & Clinical Pharmacology, 16e, 2024, Chapter 49: Antiviral
+Agents > Antiretroviral Agents https://accessmedicine-mhmedical-
+com.nyit.idm.oclc.org/content.aspx?bookid=3382&sectionid=281755260
+LWW Health Library, Premium Basic Sciences: Lippincott’s Illustrated Reviews: Pharmacology, 8e,
+2023; Chapter 34: Antiviral Drugs > Section VII. Treatment of HIV Infection
+https://premiumbasicsciences-lwwhealthlibrary-
+com.nyit.idm.oclc.org/content.aspx?sectionid=253329261&bookid=3222#253329364
+4
+--- SLIDE 5 ---
+https://clinicalinfo.hiv.gov/en/guidelines is an excellent
+resource.
+It offers information on HIV/AIDS treatment, prevention, and
+research.
+--- SLIDE 6 ---
+Antiretroviral Drug Classes
+NRTIs
+Capsid
+INSTIs
+inhibitor
+ART
+Drug
+Classes
+Entry
+NNRTIs
+inhibitors
+PIs
+Many ARV drugs are formulated as 2-drug and 3-drug fixed-dose combinations
+for improved adherence to therapy.
+6
+--- SLIDE 7 ---
+Non-nucleoside
+Reverse Transcriptase Inhibitors
+Doravirine
+Rilpivirine
+Efavirenz
+Nevirapine
+Etravirine
+NNRTIs are highly effective in the treatment of
+HIV-1 infections when used with 2 NRTIs.
+They have a low barrier to resistance, side effects, and a high
+potential for drug interactions.
+7
+--- SLIDE 8 ---
+NNRTI Characteristics
+Characteristics DOR EFV RPV*
+Dosing Once daily Once daily Once daily
+Food requirement With or without food Empty stomach With food (needs acid pH)
+Single drug tab yes yes yes
+Fixed-dose combos DOR-TDF-emtricitabine EFV-TDF-emtricitabine RPV-TDF-emtricitabine
+RPV-TAF-emtricitabine
+Adverse effects Generally well tolerated Neuropsych side effects Generally well tolerated
+Dizziness, abnormal Depression
+dreams, headache Headache
+depression, insomnia, QTc prolongation
+more
+Skin rash
+QTc prolongation
+CYP3A4 DDIs CYP3A4 substrate CYP3A4 substrate CYP3A4 substrate
+Mixed inducer / inhibitor
+Other significant None Inducer of PPIs:  gastric pH →
+DDIs CYP2B6, 2C19  absorption → avoid
+*Rilpivirine: Treatment-naïve adults with HIV RNA 100,000 copies/ mL and CD4 count 200 c/mm3 due to increased
+risk of virologic failure in patients with baseline viral load >100,000 copies/mL.
+8
+--- SLIDE 9 ---
+NNRTIs are noncompetitive inhibitors.
+bind to allosteric site
+induce conformational  activity of the
+on reverse
+change enzyme
+transcriptase
+NNRTIs do
+not require
+activation by
+cellular
+enzymes
+red balls = catalytic site RT
+domain
+(p66 monomer)
+yellow balls = NNRTI
+the palm
+in its binding pocket
+domain
+9
+http://en.wikipedia.org/wiki/File:RTenzyme-hand.jpg
+--- SLIDE 10 ---
+NNRTIs: HIV Resistance Adverse Effects  Drug Interactions
+Resistance
+− Single amino acid changes in binding pocket confers high-level drug resistance.
+− High-level cross-resistance occurs within the NNRTI class.
+− Transmitted resistance of NNRTI-resistant HIV is more common than with INSTIs and PIs.
+Resistance testing should be performed before initiation of NNRTI-based ART,
+even in ART-naïve patients.
+Rashes: Drug interactions: High potential
+• Substrates and inducers or inhibitors of
+• Occur frequently with all NNRTIs, usually
+metabolic enzymes
+during the first 4 weeks of therapy
+– Usually mild and self-limited • Efavirenz-methadone → CYP2B6, 3A4
+– SJS/TEN rarely induction may methadone levels and
+lead to opioid withdrawal symptoms
+• GI disturbances
+10
+--- SLIDE 11 ---
+NNRTIs What you should know about nevirapine and etravirine
+Nevirapine Etravirine
+• Low barrier to resistance • Higher barrier to resistance
+• Not recommended for initial ART • Option for treatment-experienced
+patients (if the drug/HIV is susceptible)
+• Mainly used as an option for presumptive
+therapy in neonates at high-risk of HIV: • Reduced toxicity compared to efavirenz
+ZDV + emtricitabine + nevirapine • May cause rash
+• AEs: Hepatotoxicity, hepatic necrosis, • CYP3A4 substrate and inducer
+rash, SJS/TEN/organ dysfunction
+• CYP2C9, 2C19 inhibitor
+• NVP should not be used in females with
+CD4 count >250 cells/mm3 or males >400
+cells/mm3 due to association with severe,
+life-threatening, and fatal hepatotoxicity.
+11
+--- SLIDE 12 ---
+Efavirenz Rash. Drug exanthem typical of efavirenz.
+The Atlas of Emergency Medicine, 3e, Figure 20.40 (Photo contributor: Stephen Burdette, MD.)
+--- SLIDE 13 ---
+Questions to Review the Key Points
+1. What are the important (clinically relevant) take-aways about the PK properties of the
+NNRTIs class?
+2. How is viral resistance related to NNRTIs’ mechanism of action?
+3. What criteria must be met before rilpivirine is administered to the ART-naïve patient?
+4. What are the class and drug-specific toxicities to remember?
+5. Which patients are at highest risk for nevirapine-related hepatotoxicity?
+1. Oral / extensive protein binding / extensive hepatic metabolism by CYPs / drug and metabolites
+excreted in urine/feces / once daily dosing
+2. Single mutations in RT drug binding site confers high level resistance and cross-resistance.
+Etravirine has a higher barrier to resistance (used for treatment-experienced patients).
+3. ART-naïve patients with viral load of >100,000 copies/mL and CD4 count of 200 c/mm3 should
+not be initiated on rilpivirine due to increased risk of virologic failure.
+4. Rash, GI discomfort. Efavirenz, rilpivirine neuropsychiatric effects and QT interval prolongation.
+Doravirine some neuropsychiatric effects. Nevirapine hepatotoxicity. Discontinue NNRTI at first
+sign of rash.
+5. Females with CD4 count >250 c/mm3 and males with CD4 count >400 c/mm3
+--- SLIDE 14 ---
+HIV Protease Inhibitors
+ Atazanavir, boosted
+ Darunavir, boosted
+Activity: HIV-1
+Darunavir has more activity against HIV-2 than some other PIs.
+PI-based regimens have demonstrated virologic potency, durability
+in treatment-naïve patients, and a high barrier to resistance.
+PIs have are associated with numerous side effects and drug interactions.
+Lopinavir/r, fosamprenavir/r, saquinavir/r have lower efficacy, greater pill burden, or
+increased toxicity and are not recommended for initial treatment in ART-naïve patients.
+14
+--- SLIDE 15 ---
+Boosting the activity of PIs through CYP3A4 Inhibition
+Ritonavir and Cobicistat are potent CYP3A4 and P-gp inhibitors.
+This property is used to clinical advantage:
+Active PI
+concentrations
++
+low-dose
+duration of action
+Ritonavir or Cobicistat
+improved virologic activity
+of the protease inhibitor
+EASL
+41st Meeting of the European Association for the Study of Liver Diseases
+Vienna, Austria
+April 26-30, 2006 https://www.natap.org/2006/EASL/EASL_01.htm
+--- SLIDE 16 ---
+Characteristics of PIs
+Characteristics ATVc or ATVr DRVc or DRVr
+Dosing Once daily Once daily: PI-naïve
+with food Twice daily: Treatment-experienced pt
+Fixed-dose combos ATVc DRVc and DRVc-TAF-emtricitabine
+Adverse effects:
+Class: nausea/vomiting/diarrhea, cardiac conduction abnormalities, glucose and lipid metabolism
+– Cushingoid fat redistribution, LDL, TG, hyperglycemia, insulin resistance
+Drug-specific Jaundice Skin rash (can be severe)
+adverse effects  Indirect bilirubin (benign) Caution in patients with h/o sulfonamide
+Cholelithiasis allergy.
+Nephrolithiasis Increased serum transaminases
+Kidney injury Liver toxicity, including hepatitis, reported.
+Contraindicated in severe liver disease
+CYP3A4 DDIs CYP3A4 substrate, inhibitor CYP3A4 substrate, inhibitor
+Other significant PPIs, other drugs that Not applicable
+DDIs  gastric pH →  absorption →
+separate administration
+Pregnancy: Boosted ATV or DRV twice daily are preferred PIs for initial therapy in all trimesters.16
+--- SLIDE 17 ---
+Reversible inhibitors of HIV-1 protease
+Prevent proteolytic cleavage of
+HIV gag and pol proteins
+into a number of essential enzymes
+
+Release of immature, noninfectious viral
+particles
+High-level resistance to PIs requires accumulation
+of multiple point mutations in the pol gene.
+Transmitted resistance is uncommon.
+Cross-resistance between PIs is variable and
+depends on the involved drugs.
+Legend:
+Mechanism of action of an HIV PI. Shown here is a phenylalanine-proline target
+peptide sequence (in blue) for the protease enzyme (in golden brown) with chemical
+structures of the native amino acids (in lower box) to emphasize homology of their
+structures to that of saquinavir (at top).
+Citation: Chapter 64 Antiretroviral Agents and Treatment of HIV Infection, Brunton LL, Hilal-Dandan R, Knollmann BC. Goodman & Gilman's: The Pharmacological Basis of
+Therapeutics, 13e; 2017. Available at: https://accessmedicine.mhmedical.com/content.aspx?bookid=2189&sectionid=172486528 Accessed: April 22, 2021
+Copyright © 2021 McGraw-Hill Education. All rights reserved Slide adapted by LG
+--- SLIDE 18 ---
+PIs: High Potential for Drug Interactions
+Problem Relevant examples
+Drugs with narrow therapeutic window
+CYP3A4 inhibition → • Statins:  levels→  muscle toxicity risk (rhabdomyolysis,
+Elevated levels of acute kidney injury if severe)
+substrate drugs • Midazolam: narrow therapeutic window
+• Many, many more
+Digoxin (cardiotonic) is a substrate of P-glycoprotein; inhibition
+P-glycoprotein inhibition
+of P-gp →  risk of digoxin toxicity
+Proposed mech: UGT Hormonal (estrogen) contraceptive decreased efficacy; use
+induction by ritonavir/PI alternative method of contraception1
+Methadone levels are decreased → may induce opioid
+Unknown mechanism
+withdrawal syndrome2
+--- SLIDE 19 ---
+Questions
+1. What are the most commonly used PIs in ART for initial therapy?
+2. What is the rationale for concomitant administration of ritonavir or cobicistat?
+3. What adverse effects are associated with the PIs class?
+• Boosted atazanavir and boosted darunavir, which have demonstrated virologic
+potency, durability in treatment-naïve patients, and a high barrier to resistance.
+• Strong inhibition of CYP3A4 increases the plasma concentrations of the PIs,
+increases the duration of action, and improves the efficacy PI.
+• PIs class adverse effects include nausea, vomiting, diarrhea; cardiac conduction
+abnormalities; disturbances in glucose and lipid metabolism: hyperlipidemia,
+hypertriglyceridemia, Cushingoid fat redistribution, hyperglycemia and insulin
+resistance, in addition to drug-specific effects. ATV can cause
+hyperbilirubinemia, jaundice, gall and kidney stones. DRV can cause rash and
+liver toxicity.
+19
+--- SLIDE 20 ---
+Entry Inhibitors
+
+Maraviroc
+Enfuvirtide
+Fostemsavir
+Ibalizumab
+Top: Diagram of an HIV virion, with major envelope and capsid protein components labeled. Image
+credit: http://www.avert.org/hiv-structure-and-life-cycle.htm
+Bottom: R5 strains preferentially bind to CCR5 coreceptors; R4 strains preferentially bind to CXCR4 coreceptors
+http://what-when-how.com/acp-medicine/hiv-and-aids-part-2/
+20
+--- SLIDE 21 ---
+CCR5 Inhibitor
+Maraviroc
+Activity:
+CCR5-tropic strains
+of HIV-1only
+21
+--- SLIDE 22 ---
+Maraviroc pharmacology
+PK Oral, variable bioavailability 23-33%, CYP3A4, feces/urine
+t½ 14-18 hours → 2x daily dosing
+MOA Blocks binding of the HIV outer envelope protein gp120 to the CCR5 chemokine
+receptor
+Activity Activity: CCR5-tropic strains of HIV only
+Resistance 1)Shift in tropism to CXCR4 or dual tropism
+2)Mutations in the V3 loop of gp120 that allow virus binding in the presence of
+inhibitor
+Prior to therapy, tropism testing should be performed for presence of CCR5-tropic HIV-1 infection.
+Therapy not recommended in patients with CXCR4- or dual/mixed tropic HIV-1 infection; efficacy
+not demonstrated in this population.
+Uses Treatment of CCR5-tropic HIV-1 infection 16 years old with other ARV drugs
+Adverse Hepatotoxicity:
+effects May be preceded by severe rash or evidence of systemic allergic reaction
+Drug CYP3A4 strong inhibitors and inducers
+interactions Consider therapy modification 22
+--- SLIDE 23 ---
+Fusion Inhibitor
+Enfuvirtide
+Activity: HIV-1
+Pharmacotherapy. 2004;24(2) © 2004 ; Pharmacotherapy Publication;
+http://www.medscape.com/viewarticle/468807_2 23
+--- SLIDE 24 ---
+Enfuvirtide Pharmacology
+Chemistry Synthetic peptide (36 amino acids) derived from a part of the transmembrane
+gp41 protein of HIV-1 involved in the fusion
+PK SubQ; Metabolized by proteolytic hydrolysis, t½ ~4 hours → 2x daily
+MOA Binds HIV envelope protein gp41 Inhibits the conformational change in gp41
+required for membrane fusion → Inhibits the fusion of HIV-1 virus with CD4
+cells
+Resistance Mutations in the codon of the enfuvirtide binding domain of gp41
+Use Treatment-experienced: Adults and children ≥ 6 years old
+Evidence of HIV replication despite ongoing antiretroviral therapy
+Combination with at least two other active antiretroviral drugs
+Adverse Frequent local cutaneous reactions (injection site) pain, erythema, induration,
+effects and nodules and twice daily dosing make long-term use difficult.
+Drug No known metabolic interactions
+interactions
+24
+--- SLIDE 25 ---
+Fusion Inhibitor
+Fostemsavir
+Activity HIV-1
+https://www.hiv.uw.edu/go/antiretroviral-therapy/general-information/core-concept/all
+25
+--- SLIDE 26 ---
+Fostemsavir Pharmacology
+PK Prodrug, oral → Hydrolysis to temsavir
+CYP3A4 metabolism, P-gp substrate → High potential for drug
+interactions. Strong CYP3A4 inducers should be avoided.
+MOA Binds HIV-1 gp120 envelope adjacent to the gp120-CD4 binding site
+→ prevents the gp120 conformational change → prevents
+attachment of CD4
+Use Treatment of HIV-1 infection in heavily treatment-experienced adults
+with multidrug-resistant HIV-1 infection failing their current ART due
+to resistance, intolerance, or safety considerations.
+Adverse Nausea (most common)
+effects Elevations of hepatic enzymes, esp. in HBV, HCV coinfection
+QT interval prolongation
+Drug Strong CYP3A4 inducers are contraindicated.
+interactions
+26
+--- SLIDE 27 ---
+Post-attachment
+inhibitor
+Ibalizumab
+• I.V. once every 14 days (after loading dose)
+• Mechanism:
+Monoclonal antibody blocks domain 2
+
+Interferes with post-attachment steps
+required for HIV-1 entry into host cells
+• Preserves normal immune function
+• Heavily treatment-experienced adults
+Domain 2 = 2nd extracellular domain
+TMB-355 in figure = ibalizumab
+http://www.taimedbiologics.com/pipeline/33
+--- SLIDE 28 ---
+Capsid Inhibitor
+Lenacapavir
+Lenacapavir directly binds the interface
+between capsid protein (p24) subunits in
+hexamers, changing its conformation,
+which stabilizes it, prevents viral
+uncoating, and disrupts the viral lifecycle.
+Lenacapravir inhibits HIV-1 replication in
+multiple steps by blocking:
+• Capsid-mediated nuclear uptake of
+proviral DNA
+• Virus assembly and release by interfering with Gag/Gag-Pol functioning, which
+reduces production of capsid protein subunits.
+• Capsid core formation by disrupting the rate of capsid subunit association,
+leading to malformed capsids. 28
+--- SLIDE 29 ---
+Lenacapavir PK, Uses, and Adverse Effects
+A Oral initiation  subQ maintenance E Feces, unchanged drug and metabolites
+D Protein binding >98% t½ Oral: 10-12 days
+Widely distributed – very large Vd subQ: 8-12 weeks
+M Complex, including CYP3A Oral and subQ loading dose schedule
+Maintenance: subQ once every 6 months
+Therapeutic use
+• HIV-1 in heavily treatment-experienced adults with multidrug-resistant HIV-
+1 infection failing their current antiviral therapy due to resistance,
+intolerance, or safety concerns
+• Use in combination therapy with other antivirals.
+Adverse effects
+• Generally well tolerated. Injection site reactions frequently reported
+• Contraindication: Concomitant CYP3A4 inducers
+29
+--- SLIDE 30 ---
+Treatment Guidelines
+https://clinicalinfo.hiv.gov/en/guidelines
+ART is recommended for all people living with HIV
+to improve their health and reduce the risk of HIV
+transmission to HIV-uninfected sex partners.
+--- SLIDE 31 ---
+Initial ART (Treatment-Naïve Patients)
+2 NRTIs plus an INSTI
+Alternatives: an NNRTI or a boosted PI
+1. Tenofovir / Emtricitabine
+• fixed-dose combination with another ARV
+• 3-drugs in one pill, once daily
+2. Abacavir with Lamivudine
+• For HLA-B*5701-negative patients
+ Resistance testing should be used as a guide to selection of an antiviral
+regimen in both treatment-naïve and treatment-experienced individuals.
+31
+--- SLIDE 32 ---
+Two-Drug Regimens for Adults with HIV-1
+Treatment-naïve patients with no known or
+suspected resistance to the individual
+Dolutegravir-Lamivudine [Dovato]
+components of the drug
+Switch from 3-drug to 2-drug regimen as below.
+Switch from 3-drug to 2-drug treatment of HIV-
+Dolutegravir-Rilpivirine [Juluca]
+1 infection in adults who have been
+Atazanavir boosted + lamivudine
+virologically suppressed on stable ART for at
+Darunavir boosted + lamivudine
+least 6 months with no treatment failure and no
+Darunavir boosted + rilpivirine resistance to the individual components.
+Lamivudine-containing regimens are not recommended for patients with HBV
+coinfection. Severe acute exacerbation of HBV due to emergence of lamivudine-
+resistant HBV variants has been reported.
+--- SLIDE 33 ---
+Treatment-experienced patients
+• Conduct resistance testing
+while the patient is taking a failing regimen
+• Goals of treatment:
+1. To reestablish maximal virologic suppression, with HIV-RNA suppressed
+below the limit of detection of a sensitive assay
+2. If maximum virologic suppression is not possible, then preserve CD4 cell
+count, avoid progression, minimize toxicities
+• Select ART with activity against the drug-resistant viral strains
+3 active drugs → more sustained response
+• Assess adherence frequently and simplify the regimen when
+feasible
+33
+--- SLIDE 34 ---
+Pre-Exposure Prophylaxis (PrEP)
+For prevention of HIV-1 infection in adults
+who are at very high risk for acquiring HIV
+− TDF-Emtricitabine orally daily for
+• such as individuals who engage in sexual
+men or women (long experience
+activity within a high prevalence area or
+with this drug)
+social network or intravenous drug users
+− TAF-Emtricitabine orally daily for
+PrEP as part of a comprehensive
+adolescents, transgender women,
+prevention strategy
+and men with bone and renal
+• confirm negative HIV-1 test prior to starting
+problems who are not eligible for
+PrEP
+TDF
+• reconfirm for HIV-1 infection at least every 6
+months while the patient receives PrEP
+− Cabotegravir I.M. in gluteal muscle
+• comprehensive prevention strategy,
+every 2 months for adults (no renal
+including the importance of adherence, risk
+or lipid monitoring is required)
+reduction counselling, ready access to
+condoms
+34
+--- SLIDE 35 ---
+Post-Exposure Prophylaxis (PEP) for healthcare workers
+• Risk of transmission is increased when the source has a high viral
+load, the volume is large, and the exposure is deep.
+• Preferred: TDF-emtricitabine with dolutegravir or raltegravir
+• Alternatives: TDF-emtricitabine with darunavir/r or atazanavir/r
+• 4-weeks duration
+• Start as soon as possible
+• Consultation with a physician who has experience with
+antiretroviral drugs is recommended
+• Follow-up counseling, post-exposure testing, and medical
+evaluation whether or not the HCP received PEP
+35
+--- SLIDE 36 ---
+Transgender People with HIV
+• ART is recommended for all transgender people living with HIV to improve their
+health and reduce the risk of HIV transmission to HIV-uninfected sex partners.
+• HIV care services should be provided within a gender-affirmative care model.
+• Prior to ART initiation, a pregnancy test should be performed for individuals of
+child-bearing potential.
+• Some ARV drugs may have pharmacokinetic interactions with gender-affirming
+hormone therapy. Clinical effects and hormone levels should be routinely
+monitored with appropriate titrations of estradiol, testosterone, and androgen
+blockers as needed.
+• Gender-affirming hormone therapies are associated with hyperlipidemia,
+elevated cardiovascular risk, and osteopenia. Therefore, clinicians should
+choose ART regimens that will not increase the risk of these adverse effects.
+36
+--- SLIDE 37 ---
+Women with HIV (assigned female at birth)
+(non-pregnant and using hormonal contraception)
+Effects on hormone Transmission, Intrauterine devices
+levels: acquisition of HIV: (IUDs):
+PIs / NNRTIs are inducers Regardless of hormonal Appear to be a safe and
+and/or inhibitors of contraceptive use: effective contraceptive
+hormones: • Consistent use of options for HIV-infected
+• Inducers  hormone condoms (male or women.
+levels → risk of female) during sex
+pregnancy • Adhere to an HIV
+• Inhibitors  hormone regimen that effectively
+levels → risk of toxicities maintains viral
+suppression.
+--- SLIDE 38 ---
+Pregnant People with HIV
+Goal: To maintain a viral load below the limit of detection throughout the pregnancy to
+reduce transmission to the fetus and newborn.
+All HIV-infected pregnant people should receive a combination antepartum
+antiretroviral (ARV) drug regimen, regardless of CD4 count or HIV RNA copy number.
+Therapy selection considerations ART:
+• Extensive experience with the drugs Preferred:
+in pregnancy 2-NRTI backbone plus Dolutegravir
+• Well tolerated Alternative 3rd drug:
+• Good short-term safety profile INSTI: Bictegravir, Raltegravir
+PI: Atazanavir, boosted
+• PK not significantly altered during
+pregnancy NNRTI: Efavirenz, Rilpivirine
+• High placental transfer to fetus Others are not recommended due to
+limited safety or dosing information.
+• No evidence of teratogenicity
+38
+--- SLIDE 39 ---
+Prevention of Intrapartum Mother-to-Child Transmission
+Zidovudine I.V. during labor if patient has HIV RNA >1,000 copies/mL
+(or unknown HIV RNA) near delivery
+Zidovudine is not required for HIV-infected women receiving combination ART
+who have HIV RNA ≤1,000 copies/ mL consistently during late pregnancy and
+near delivery and no concerns regarding adherence to the regimen.
+Unknown HIV status
+• Rapid HIV screening test
+• If positive, confirmatory testing
+• Initiate mother and infant HIV drugs pending results
+• If HIV test results are negative, stop infant ARV therapy
+39
+--- SLIDE 40 ---
+Neonate Prophylaxis of infection
+Management in the newborn is based on risk of HIV infection and depends on the
+mother’s use of antepartum antiretroviral agents and viral load within four weeks
+of delivery.
+Low risk: Zidovudine (ZDV) x 4 weeks
+• Infants 37 weeks gestation; maternal ART 10 weeks and achieved or maintained viral
+suppression (<50 copies/mL) for the remainder of the pregnancy and no concerns related to
+adherence
+Infants that do not meet the above criteria or the high-risk criteria:
+ZDV for 4 to 6 weeks
+High risk: Presumptive ART from birth for 2 to 6 weeks
+ZDV + emtricitabine + nevirapine, or ZDV + emtricitabine + raltegravir
+• A newborn whose mother did not receive antepartum drugs or received only intrapartum drugs
+or did not have viral suppression within 4 weeks of delivery or had acute or primary HIV during
+pregnancy.
+40
+--- SLIDE 41 ---
+Treatment of HIV infection in Pediatric Patients
+Preferred: INSTI-based ART regimen
+➢ Adherence can be difficult in children and the child’s growth and
+development can affect HIV treatment
+Not recommended:
+• Efavirenz-based regimens, etravirine-based regimens, maraviroc-
+based regimens, cabotegravir, 2-drug regimens, and ARV regimens
+with low efficacy or with insufficient data.
+Breastfeeding
+• Mothers with acute or primary HIV infection during breastfeeding should
+immediately discontinue breastfeeding.
+• There is no consensus on appropriate management of ARV prophylaxis for
+infants of individuals with sustained viral suppression who are breastfed.
+--- SLIDE 42 ---
+Treatment of the Older Patient with HIV
+Concerns that may complicate management HIV infection
+• Adverse drug events from ART and concomitant drugs may occur more
+frequently.
+• Greater risk of drug-drug interactions.
+• Decline in neurocognitive function with aging is faster in people with HIV than
+without HIV.
+• Additional medical and social services may be required to effectively manage
+both HIV and comorbid conditions.
+42
+--- SLIDE 43 ---
+COMBINATIONS THAT SHOULD NOT BE USED
+both are thymidine analogs
+
+Zidovudine + Stavudine in
+Antagonism
+any regimen
+intracellular phosphorylation
+of stavudine is inhibited
+Didanosine + Stavudine in
+Fatal lactic acidosis has been reported
+any regimen
+Didanosine + Zalcitabine Additive peripheral neuropathy
+Both are adenosine analogs
+
+Didanosine + Tenofovir Competition at site of action
+
+High rate of virologic failure
+43
+--- SLIDE 44 ---
+COMBINATIONS THAT SHOULD NOT BE USED
+both are cytidine analogs
+
+Lamivudine + Zalcitadine Antagonism
+Lamivudine and zalcitabine may inhibit the
+intracellular phosphorylation of one another
+Emtricitabine is analog of Lamivudine
+Lamivudine+Emtricitabine 
+Enhanced toxicity
+Triple NRTI therapy Suboptimal virologic activity or lack of data
+44
+--- SLIDE 45 ---
+Summary
+45
+--- SLIDE 46 ---
+HIV genome and virion structure.
+The HIV-1 genome is shown at the top.
+Viral proteins are synthesized as
+precursor polyproteins (Gag-Pol [Pr160],
+Gag [Pr55], and Env [gp160]), which are
+enzymatically processed to yield mature
+virion proteins.
+Gag-Pol and Gag are cleaved by the viral
+protease PR to produce the indicated
+smaller proteins.
+Env is cleaved by a cellular PR, producing
+SU gp120 and TM gp41.
+The placements of virion proteins in the
+virus particle are indicated by symbols
+(bottom of figure).
+HIV-2 and SIV lack the vpu gene but
+contain a vpx gene.
+(Reproduced from Peterlin BM: Molecular biology of HIV. In
+Levy JA [editor]. The Viruses. Vol 4: The Retroviridae. Plenum,
+1995. Modified there from Luciw PA, Shacklett BL: HIV:
+Molecular Organization, Pathogenicity and Treatment. Morrow
+WJW, Haigwood NL [editors]. Elsevier, 1993.)
+Citation: Chapter 44 AIDS and Lentiviruses, Riedel S, Hobden JA, Miller S, Morse SA, Mietzner TA, Detrick B, Mitchell TG, Sakanari JA, Hotez P, Mejia R. Jawetz, Melnick, &
+Adelberg's Medical Microbiology, 28e; 2019, Figure 44-2. Available at: https://accessmedicine.mhmedical.com/content.aspx?bookid=2629&sectionid=217775940 Accessed: April
+23, 2024
+Copyright © 2024 McGraw-Hill Education. All rights reserved
+--- SLIDE 47 ---
+• NNRTIs are allosteric inhibitors of RT, inhibiting its polymerase activity. They
+do not require phosphorylation for activity.
+• NNRTI resistance occurs rapidly with monotherapy. Etravirine has a high
+barrier to resistance compared to the other NNRTIs and is used for
+treatment-experienced patients.
+• NNRTIs are associated with skin rash and GI disturbances. Efavirenz,
+rilpirivine, and, to a lesser extent, doravirine are associated with
+neuropsychiatric adverse effects. Nevirapine is associated with
+hepatotoxicity. Risk factors are females with CD4 >250 cells/microL and
+males with CD4 >400 cells/microL
+• NNRTIs are substrates and inducers/inhibitors of CYPs. There is a high
+potential for drug interactions.
+47
+--- SLIDE 48 ---
+• HIV protease inhibitors (PIs) reversibly bind the enzyme, which prevents the
+cleavage of the viral polyprotein into reverse transcriptase, protease, integrase,
+and structural proteins. This action prevents viral maturation and results in the
+production of noninfectious virus.
+• Resistance occurs with stepwise accumulation of mutations of the protease
+gene, leading to high-level resistance. Suboptimal PI concentrations result in
+more rapid appearance of resistant strains.
+• PIs are extensively metabolized. They are substrates of CYP3A4 and excreted
+in urine as metabolites (very little unchanged drug). They are used with a
+pharmacokinetic enhancer (boosted), ritonavir or cobicistat, which are potent
+inhibitors of CYP3A4. There is a high potential for drug interactions
+• GI adverse effects are common – nausea, vomiting, diarrhea. They cause
+hyperglycemia/diabetes, hypertriglyceridemia, hypercholesterolemia, fat
+accumulation in the abdomen and base of the neck and breast enlargement.
+• Atazanavir/r and darunavir/r are preferred in the current guidelines due to
+improved adverse effect profile, virologic efficacy, and ease of dosing.
+48
+--- SLIDE 49 ---
+Entry inhibitors have diverse actions and effects.
+• Maraviroc blocks CCR5 coreceptor that facilitates HIV entry through the host
+cell membrane. Viral tropism must be determined prior to initiating maraviroc
+therapy. Virologic failure is usually due to presence of CXCR4 coreceptor.
+Maraviroc is metabolized by CYP3A4. Therapy adjustments may be required
+in the presence of strong CYP3A4 inhibitors or inducers. Maraviroc is
+generally well tolerated. A concern is severe hepatotoxicity that may be
+preceded by a fever or rash. Liver function monitoring is recommended.
+• Enfuvirtide a 36-amino acid synthetic peptide with a sequence derived from a
+part of the transmembrane gp41 protein of HIV-1. It binds gp41, preventing
+conformational change. It is administered by subcutaneous injection twice
+daily for treatment-experienced patients. Most adverse effects are related to
+the injection including pain, erythema, induration, and nodules, which occur in
+almost all patients.
+49
+--- SLIDE 50 ---
+• Fostemsavir oral prodrug is rapidly converted to temsavir, which is an attachment
+inhibitor. It binds directly to HIV-1 envelope gp120 near the gp120-CD4 site and
+prevents the gp120 conformational change and viral entry. It is for heavily treatment-
+experienced adults. CYP3A4 metabolism, half-life ~11 hours (twice daily dose). Strong
+CYP3A4 inducers should be avoided. The drug can cause elevations of hepatic
+enzymes, especially in patients with HBV, HCV coinfection, and QT interval
+prolongation.
+• Ibalizumab is a post-attachment inhibitor by binding CD4, which interferes with the post-
+attachment steps required for HIV entry into host cells. IV infusion every 2 weeks for
+treatment of heavily ARV-experienced HIV-1 infected adults as part of a regimen of
+other potentially active agents whenever possible. It may cause dizziness, diarrhea,
+nausea, rash.
+• Lenacapavir is a capsid inhibitor the interferes with several steps in the viral replication
+process used in combination with other ARVs for heavily treatment-experienced
+patients. It is generally well tolerated. Injection site reactions are frequent. Concomitant
+CYP3A4 inducers are contraindicated.
+50
+--- SLIDE 51 ---
+Illustration by Michela Buttignol for Verywell Health
+51
+--- SLIDE 52 ---
+References
+• NIH HIV information: https://clinicalinfo.hiv.gov/en/guidelines
+• Access Medicine Goodman & Gilman’s The Pharmacological Basis of Therapeutics 14e, 2022:
+Chapters 64: Antiretroviral Agents and Treatment of HIV Infection
+• Access Medicine Katzung & Vanderah’s, Basic & Clinical Pharmacology 15e, 2021: Chapter
+49: Antiviral Agents
+• Access Medicine Harrison’s Principles of Internal Medicine, 21e, 2023; Chapter 202: Human
+Immunodeficiency Virus Disease: AIDS and Related Disorders
+• Access Medicine Sherris Medical Microbiology, 8e, 2023; Chapter 18: Human Retroviruses
+• Lexicomp monographs May 2023
+• UpToDate, various, literature review current through Apr 2023
+52
+--- SLIDE 53 ---
+Lecture Feedback Form:
+https://comresearchdata.nyit.edu/redcap/surveys/?s=HRCY448FWYXREL4R

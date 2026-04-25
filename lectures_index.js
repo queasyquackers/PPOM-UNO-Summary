@@ -1158,5 +1158,93 @@ window.receiveLectureIndex([
     "tags": "Lecture #147",
     "path": "content/json/l147.file.js",
     "readingTime": "15-20 min"
+  },
+  {
+    "id": "l149",
+    "title": "Lecture #149: Hematology: ABO Groups, Rh Disease, and Transfusion Medicine",
+    "module": "Hematology",
+    "tags": "Lecture #149",
+    "path": "content/json/l149.file.js",
+    "readingTime": "15-20 min"
+  },
+  {
+    "id": "l150",
+    "title": "Lecture #150: Hematopoiesis",
+    "module": "Hematology",
+    "tags": "Lecture #150",
+    "path": "content/json/l150.file.js",
+    "readingTime": "10-15 min"
+  },
+  {
+    "id": "l151",
+    "title": "Lecture 151: Laboratory Medicine and Anemias Part 1",
+    "module": "Hematology",
+    "tags": "Lecture #151",
+    "path": "content/json/l151.file.js",
+    "readingTime": "12-15 min"
+  },
+  {
+    "id": "l152",
+    "title": "Lecture 152: Laboratory Medicine and Anemias Part 2",
+    "module": "Hematology",
+    "tags": "Lecture #152",
+    "path": "content/json/l152.file.js",
+    "readingTime": "12-15 min"
+  },
+  {
+    "id": "l153",
+    "title": "Lecture 153: Pharmacology of Anemias",
+    "module": "Pharmacology",
+    "tags": "Lecture #153",
+    "path": "content/json/l153.file.js",
+    "readingTime": "12-15 min"
+  },
+  {
+    "id": "l154",
+    "title": "Lecture 154: Study Sheet: Leukemias, Lymphomas, Hemorrhage, and Thrombosis",
+    "module": "Pathology",
+    "tags": "Lecture #154",
+    "path": "content/json/l154.file.js",
+    "readingTime": "15-20 min"
+  },
+  {
+    "id": "l155",
+    "title": "Lecture 155: Pathology of Hemorrhage and Thrombosis",
+    "module": "Pathology",
+    "tags": "Lecture #155",
+    "path": "content/json/l155.file.js",
+    "readingTime": "12-15 min"
+  },
+  {
+    "id": "l156",
+    "title": "Lecture 156: Pharmacology of Antineoplastic Agents 1",
+    "module": "Pharmacology",
+    "tags": "Lecture #156",
+    "path": "content/json/l156.file.js",
+    "readingTime": "15-20 min"
+  },
+  {
+    "id": "l157",
+    "title": "Lecture 157: Pharmacology: Antineoplastic Drugs Part 2",
+    "module": "Pharmacology",
+    "tags": "Lecture #157",
+    "path": "content/json/l157.file.js",
+    "readingTime": "15-20 min"
+  },
+  {
+    "id": "l158",
+    "title": "Lecture 158: Hemostasis",
+    "module": "Hematology",
+    "tags": "Lecture #158",
+    "path": "content/json/l158.file.js",
+    "readingTime": "15-20 min"
+  },
+  {
+    "id": "l159",
+    "title": "Lecture 159: Introduction to the Gynecological and Obstetrical History",
+    "module": "Clinical Medicine",
+    "tags": "Lecture #159",
+    "path": "content/json/l159.file.js",
+    "readingTime": "15-20 min"
   }
 ]);

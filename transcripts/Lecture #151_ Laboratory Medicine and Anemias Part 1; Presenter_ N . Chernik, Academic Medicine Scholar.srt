@@ -1,0 +1,5536 @@
+1
+00:00:01,180 --> 00:00:04,100
+Hello everyone, and welcome
+to a two-part lecture
+
+2
+00:00:04,100 --> 00:00:07,460
+series on laboratory
+medicine and anemias. My name
+
+3
+00:00:07,460 --> 00:00:10,240
+is Noah Chernick, and
+before we get started with
+
+4
+00:00:10,240 --> 00:00:12,720
+the lectures, I want to
+quickly thank Dr. Saggio for
+
+5
+00:00:12,720 --> 00:00:15,020
+all of his guidance in
+developing these lectures.
+
+6
+00:00:15,900 --> 00:00:18,840
+I'm available to address
+any questions, concerns,
+
+7
+00:00:18,840 --> 00:00:21,960
+or comments that you
+may have in regards to
+
+8
+00:00:21,960 --> 00:00:25,400
+this lecture or anything
+anemia-related. Please
+
+9
+00:00:25,400 --> 00:00:27,520
+reach out if you want
+to meet one-on-one or
+
+10
+00:00:27,520 --> 00:00:30,000
+in a group setting. either
+are completely fine.
+
+11
+00:00:31,040 --> 00:00:33,660
+Here are our learning
+objectives for today's
+
+12
+00:00:33,660 --> 00:00:36,440
+lecture, both for
+part 1 and for part 2.
+
+13
+00:00:37,800 --> 00:00:41,140
+And for our lecture
+layout today, part 1
+
+14
+00:00:41,140 --> 00:00:43,460
+will again just dive
+into the general
+
+15
+00:00:43,460 --> 00:00:46,520
+concepts of anemia
+and microcytic anemia.
+
+16
+00:00:46,520 --> 00:00:48,860
+Part 2 will deal with the
+
+17
+00:00:48,860 --> 00:00:51,140
+normocytic and
+macrocytic anemias.
+
+18
+00:00:52,760 --> 00:00:55,980
+So before we discuss
+specific microcytic
+
+19
+00:00:55,980 --> 00:00:58,100
+anemias, I want to
+quickly talk about some
+
+20
+00:00:58,100 --> 00:01:00,680
+of the the basics of
+underlying anemias.
+
+21
+00:01:01,660 --> 00:01:05,780
+So, very simply, anemia
+is a significant deficit
+
+22
+00:01:05,780 --> 00:01:08,840
+or decrease in the mass
+of circulating red blood
+
+23
+00:01:08,840 --> 00:01:11,960
+cells. But why do we
+care about this decrease?
+
+24
+00:01:11,960 --> 00:01:14,400
+Red blood cells, as
+most of you should know,
+
+25
+00:01:14,400 --> 00:01:17,360
+transport oxygen to cells
+and tissues. If we have a
+
+26
+00:01:17,360 --> 00:01:20,040
+decrease of the function
+or number of red blood
+
+27
+00:01:20,040 --> 00:01:23,000
+cells, we have a decreased
+capacity to carry and
+
+28
+00:01:23,000 --> 00:01:26,080
+deliver oxygen and just
+carry out everyday life.
+
+29
+00:01:27,180 --> 00:01:30,440
+So, the main players
+with anemia are
+
+30
+00:01:30,440 --> 00:01:33,200
+known as erythrocytes,
+red blood cells.
+
+31
+00:01:33,200 --> 00:01:36,240
+Their function, again,
+is to carry oxygen and
+
+32
+00:01:36,240 --> 00:01:39,860
+carbon dioxide to the
+peripheral vasculature and
+
+33
+00:01:39,860 --> 00:01:43,000
+then bring CO2 back to
+the lungs for exchange.
+
+34
+00:01:43,000 --> 00:01:46,660
+Their shape is biconcave,
+meaning that they have
+
+35
+00:01:46,660 --> 00:01:50,060
+a very nice middle area
+that is kind of flattened
+
+36
+00:01:50,060 --> 00:01:51,940
+and lower than the
+rest of the blood cell.
+
+37
+00:01:52,100 --> 00:01:55,080
+They're also anucleate
+cells, and they really don't
+
+38
+00:01:55,080 --> 00:01:58,440
+have any organelles within
+the cell. This is all in an
+
+39
+00:01:58,440 --> 00:02:01,520
+effort to increase the amount
+of cytoplasm in the cell.
+
+40
+00:02:01,520 --> 00:02:03,920
+The more cytoplasm
+we have, the more
+
+41
+00:02:03,920 --> 00:02:06,320
+hemoglobin, and the
+more oxygen-carrying
+
+42
+00:02:06,320 --> 00:02:08,500
+capacity each red
+blood cell will have.
+
+43
+00:02:08,540 --> 00:02:12,020
+These cells are also
+extremely flexible, which is
+
+44
+00:02:12,020 --> 00:02:14,260
+really important when
+you consider they have to
+
+45
+00:02:14,260 --> 00:02:18,280
+navigate very small
+capillaries in the peripheral
+
+46
+00:02:18,280 --> 00:02:21,960
+vasculature. And this
+flexibility is actually due
+
+47
+00:02:21,960 --> 00:02:24,300
+to special membrane
+proteins, and we'll learn a
+
+48
+00:02:24,300 --> 00:02:26,520
+little bit more about this
+in the following lecture.
+
+49
+00:02:26,620 --> 00:02:29,380
+And their lifespan
+is about 120 days.
+
+50
+00:02:29,380 --> 00:02:32,580
+Even in healthy individuals,
+you usually see about
+
+51
+00:02:32,580 --> 00:02:36,040
+1% of all red blood cells
+turn over each and every
+
+52
+00:02:36,040 --> 00:02:39,560
+day. And they're simply
+removed because they're old.
+
+53
+00:02:41,060 --> 00:02:43,640
+So I want to talk a little
+bit more about the life cycle
+
+54
+00:02:43,640 --> 00:02:46,640
+of a red blood cell. Red
+blood cells are produced in
+
+55
+00:02:46,640 --> 00:02:48,800
+the bone marrow via a process
+called erythropoiesis.
+
+56
+00:02:50,080 --> 00:02:52,640
+Erythropoietin growth
+factor, also known as
+
+57
+00:02:52,640 --> 00:02:56,140
+EPO or EPO, helps
+stimulate this process.
+
+58
+00:02:56,580 --> 00:02:59,540
+The interstitial cells
+in the peritubular
+
+59
+00:02:59,540 --> 00:03:03,220
+capillary of the renal
+cortex sense a decrease in
+
+60
+00:03:03,220 --> 00:03:05,780
+O2 and actually secrete
+the erythropoietin.
+
+61
+00:03:06,500 --> 00:03:09,380
+This EPO then signals
+to the bone marrow to
+
+62
+00:03:09,380 --> 00:03:11,760
+actually start generating
+new red blood cells.
+
+63
+00:03:11,760 --> 00:03:14,900
+And just a little fact,
+for your knowledge,
+
+64
+00:03:15,040 --> 00:03:17,540
+erythropoietin and
+hematocrit, which essentially
+
+65
+00:03:17,540 --> 00:03:20,420
+is the percentage of red
+blood cells that comprise
+
+66
+00:03:20,420 --> 00:03:23,340
+your entire serum, are
+inversely proportional.
+
+67
+00:03:24,120 --> 00:03:25,740
+Reticulocytes are very, very
+
+68
+00:03:25,740 --> 00:03:27,660
+important in this
+entire process.
+
+69
+00:03:27,660 --> 00:03:30,420
+These are also known as
+immature red blood cells
+
+70
+00:03:30,420 --> 00:03:32,520
+that are released into
+circulation from the
+
+71
+00:03:32,520 --> 00:03:36,380
+bone marrow. And in about
+24 to 48 hours from their
+
+72
+00:03:36,380 --> 00:03:39,320
+release, they will mature
+into full red blood
+
+73
+00:03:39,320 --> 00:03:42,420
+cells. This reticulocyte
+count in any normal
+
+74
+00:03:42,420 --> 00:03:45,260
+individual is usually
+around one to two percent.
+
+75
+00:03:45,700 --> 00:03:48,220
+And on visualization
+with the peripheral blood
+
+76
+00:03:48,220 --> 00:03:51,800
+smear, these reticulocytes
+appear more basophilic,
+
+77
+00:03:51,800 --> 00:03:54,980
+also known as a purplish
+color, compared to
+
+78
+00:03:54,980 --> 00:03:57,640
+mature red blood cells.
+And this is due to
+
+79
+00:03:57,640 --> 00:04:00,760
+ribosomal RNA still being
+present in these cells.
+
+80
+00:04:01,120 --> 00:04:04,600
+And finally, once these
+reticulocytes mature and they
+
+81
+00:04:04,600 --> 00:04:08,060
+go through about 120 days
+of normal function as red
+
+82
+00:04:08,060 --> 00:04:11,280
+blood cells, these senescent
+or now old red blood cells
+
+83
+00:04:11,280 --> 00:04:14,420
+are removed by macrophages
+in the spleen, liver, and
+
+84
+00:04:14,420 --> 00:04:16,930
+bone marrow, and this
+system is known as the
+
+85
+00:04:16,930 --> 00:04:20,560
+reticuloendothelial system that
+recycles the red blood cells.
+
+86
+00:04:28,030 --> 00:04:30,490
+Generally, we can break
+anemia down into three
+
+87
+00:04:30,490 --> 00:04:34,170
+separate types of anemias.
+All of these categories are
+
+88
+00:04:34,170 --> 00:04:36,750
+fairly intuitive with the
+pathophysiology behind
+
+89
+00:04:36,750 --> 00:04:40,510
+them. The first one is simply
+blood loss. We're losing
+
+90
+00:04:40,510 --> 00:04:43,890
+more blood than we're able
+to produce. Our production
+
+91
+00:04:43,890 --> 00:04:46,290
+is not affected, but
+we're simply losing more
+
+92
+00:04:46,290 --> 00:04:49,010
+blood than the body can
+maintain via new production.
+
+93
+00:04:50,070 --> 00:04:53,330
+The second category is
+actual decrease in red
+
+94
+00:04:53,330 --> 00:04:55,830
+blood cell production.
+We have an issue with
+
+95
+00:04:55,830 --> 00:04:58,710
+erythropoiesis. The body
+cannot produce enough red
+
+96
+00:04:58,710 --> 00:05:01,330
+blood cells to keep up
+with the destruction, and
+
+97
+00:05:01,330 --> 00:05:03,910
+we usually see a decreased
+reticulocyte count.
+
+98
+00:05:03,910 --> 00:05:06,670
+The bone marrow is not
+responding properly to
+
+99
+00:05:06,670 --> 00:05:10,350
+this new sense of anemia.
+And finally, you could
+
+100
+00:05:10,350 --> 00:05:12,600
+see almost the opposite
+of decreased production,
+
+101
+00:05:12,810 --> 00:05:15,950
+which is increased
+destruction, also known as
+
+102
+00:05:15,950 --> 00:05:19,130
+hemolysis. And this
+is more destruction of
+
+103
+00:05:19,130 --> 00:05:21,250
+red blood cells than
+we actually can create.
+
+104
+00:05:21,250 --> 00:05:24,030
+And usually we'll see
+splenomegaly and jaundice
+
+105
+00:05:24,030 --> 00:05:26,090
+due to increased red
+blood cell breakdown.
+
+106
+00:05:27,470 --> 00:05:30,870
+So the clinical presentation
+of anemia, there are
+
+107
+00:05:30,870 --> 00:05:33,730
+vast signs and symptoms
+that will usually vary with
+
+108
+00:05:33,730 --> 00:05:37,030
+the underlying etologies.
+But all of these signs
+
+109
+00:05:37,030 --> 00:05:39,490
+and symptoms can kind
+of be pushed back to one
+
+110
+00:05:39,490 --> 00:05:42,390
+underlying reason. And that's
+essentially the resulting
+
+111
+00:05:42,390 --> 00:05:46,910
+tissue hypoxia due to
+the decrease O2. And some
+
+112
+00:05:46,910 --> 00:05:49,650
+of these symptoms can
+include weakness, fatigue,
+
+113
+00:05:49,650 --> 00:05:53,780
+malaise, dyspnea on
+mild exertion, some big
+
+114
+00:05:53,780 --> 00:05:56,410
+buzzwords and things that
+you may more commonly see in
+
+115
+00:05:56,410 --> 00:05:59,490
+clinic are pallor, especially
+in the conjunctiva.
+
+116
+00:05:59,490 --> 00:06:01,730
+You may see pale
+skin. You could
+
+117
+00:06:01,730 --> 00:06:03,570
+see something
+called spoon nails,
+
+118
+00:06:03,850 --> 00:06:06,250
+dizziness, headache, faintness,
+
+119
+00:06:06,650 --> 00:06:09,810
+cardiac issues, cardiac
+failure in some severe
+
+120
+00:06:09,810 --> 00:06:13,010
+cases. and there are a
+few specific anemias that
+
+121
+00:06:13,010 --> 00:06:15,430
+may have specific
+underlying pathologies,
+
+122
+00:06:15,430 --> 00:06:18,330
+such as sickle cell
+disease, along with sickle
+
+123
+00:06:18,330 --> 00:06:21,030
+cell pain crisis, and
+potentially renal failure.
+
+124
+00:06:21,030 --> 00:06:23,250
+However, in general,
+these symptoms
+
+125
+00:06:23,250 --> 00:06:25,610
+are broad and don't
+necessarily correlate
+
+126
+00:06:25,610 --> 00:06:27,830
+with the severity
+of the anemia.
+
+127
+00:06:27,910 --> 00:06:30,970
+Essentially, what that
+means is some individual
+
+128
+00:06:30,970 --> 00:06:33,730
+may present with a very
+severe anemia, but their
+
+129
+00:06:33,730 --> 00:06:36,810
+symptoms may not present
+similarly. They may just
+
+130
+00:06:36,810 --> 00:06:39,270
+say, yeah, I feel tired
+from time to time. then
+
+131
+00:06:39,270 --> 00:06:42,170
+you look at their hemoglobin
+levels and it's 7.2.
+
+132
+00:06:43,550 --> 00:06:47,170
+So there are a few
+measurements for anemia and
+
+133
+00:06:47,170 --> 00:06:49,270
+the first ones we
+actually will look at are
+
+134
+00:06:49,270 --> 00:06:52,570
+on every single CBC or
+complete blood count.
+
+135
+00:06:53,030 --> 00:06:55,790
+So these three values
+are your red blood cell
+
+136
+00:06:55,790 --> 00:06:58,730
+count, your hemoglobin,
+and your hematocrit.
+
+137
+00:06:58,730 --> 00:07:01,150
+And there's actually a
+rule of three if we look at
+
+138
+00:07:01,150 --> 00:07:04,390
+these three values. For
+normal, each of them should
+
+139
+00:07:04,390 --> 00:07:08,030
+be 5, 15, and 45 respectfully.
+So if you multiply
+
+140
+00:07:08,030 --> 00:07:10,830
+the red blood cell count by
+3, you get the hemoglobin.
+
+141
+00:07:10,950 --> 00:07:13,880
+Multiply hemoglobin by
+3, you get hematocrit.
+
+142
+00:07:14,030 --> 00:07:17,170
+And just as a clinical
+pearl, this isn't necessarily
+
+143
+00:07:17,170 --> 00:07:19,090
+something that is important
+for your education
+
+144
+00:07:19,090 --> 00:07:21,710
+right now, but it will be
+in two years when you're
+
+145
+00:07:21,710 --> 00:07:25,190
+in the wards on rotations,
+is that one unit of
+
+146
+00:07:25,190 --> 00:07:28,110
+packed red blood cells will
+increase your hemoglobin
+
+147
+00:07:28,110 --> 00:07:31,770
+by 1 and your hematocrit
+by 3. And again, we see
+
+148
+00:07:31,770 --> 00:07:36,170
+this rule of 3 being in
+play here. 1 times 3 is 3.
+
+149
+00:07:38,090 --> 00:07:40,010
+Additionally, just
+to kind of continue
+
+150
+00:07:40,010 --> 00:07:41,470
+to talk about
+these measurements,
+
+151
+00:07:41,470 --> 00:07:44,350
+the red blood cell count
+is the actual number of red
+
+152
+00:07:44,350 --> 00:07:47,510
+blood cells in the blood.
+The hemoglobin is the
+
+153
+00:07:47,510 --> 00:07:50,470
+concentration of hemoglobin
+in the blood, and it actually
+
+154
+00:07:50,470 --> 00:07:53,450
+reflects a red blood cell's
+ability to carry oxygen.
+
+155
+00:07:53,630 --> 00:07:56,090
+And finally, hematocrit
+measures the percentage
+
+156
+00:07:56,090 --> 00:07:58,430
+of erythrocyte volume
+in the blood sample.
+
+157
+00:07:58,430 --> 00:08:01,010
+This essentially shows
+what percentage of the
+
+158
+00:08:01,010 --> 00:08:04,190
+entire whole blood is
+actually red blood cells.
+
+159
+00:08:04,330 --> 00:08:07,490
+And importantly, in
+patients with anemia, they
+
+160
+00:08:07,490 --> 00:08:10,810
+typically have low hemoglobin
+and hematocrit, and
+
+161
+00:08:10,810 --> 00:08:13,630
+you should also see low
+red blood cell counts.
+
+162
+00:08:16,450 --> 00:08:19,150
+So, hemoglobin. You've heard
+me reference it a couple
+
+163
+00:08:19,150 --> 00:08:22,430
+times, but let's actually
+describe what it is. Hemoglobin
+
+164
+00:08:22,430 --> 00:08:24,730
+is the oxygen-carrying
+aspect of the red blood
+
+165
+00:08:24,730 --> 00:08:27,870
+cell. It's almost the star of
+the show without hemoglobin
+
+166
+00:08:27,870 --> 00:08:30,890
+red blood cells are fairly
+useless and it's composed
+
+167
+00:08:30,890 --> 00:08:35,790
+of two very self-explanatory
+parts heme which is actually
+
+168
+00:08:35,790 --> 00:08:38,890
+made up of iron and
+protoporphyrin and then globin
+
+169
+00:08:38,890 --> 00:08:42,730
+which are protein chains
+typically in a normal hemoglobin
+
+170
+00:08:42,730 --> 00:08:46,310
+which is hba you will
+have two alpha chains and
+
+171
+00:08:46,310 --> 00:08:50,150
+then two beta chains and as
+you can see here the heme
+
+172
+00:08:50,150 --> 00:08:53,870
+is actually comprised of
+protoporphyrin and then iron.
+
+173
+00:08:56,330 --> 00:08:59,390
+So there are additional
+measurements that we can use
+
+174
+00:08:59,390 --> 00:09:02,330
+to help identify specific
+anemias and then also start
+
+175
+00:09:02,330 --> 00:09:05,790
+to classify them. The
+first value in a very very
+
+176
+00:09:05,790 --> 00:09:08,810
+key one is something called
+mean cell volume, which is
+
+177
+00:09:08,810 --> 00:09:11,530
+essentially the average
+size of the red blood cell.
+
+178
+00:09:12,390 --> 00:09:15,110
+Another key value that
+kind of goes hand-in-hand
+
+179
+00:09:15,110 --> 00:09:17,390
+with the size of the red
+blood cell is the red
+
+180
+00:09:17,390 --> 00:09:20,170
+blood cell distribution
+width. And this actually
+
+181
+00:09:20,170 --> 00:09:23,870
+measures the variability
+of the MCV. And what that
+
+182
+00:09:23,870 --> 00:09:26,650
+means is it looks at all
+the red blood cells in
+
+183
+00:09:26,650 --> 00:09:30,850
+a CBC and sees what the
+range of sizes is. So if
+
+184
+00:09:30,850 --> 00:09:34,050
+all the cells are a
+similar size, then they'll
+
+185
+00:09:34,050 --> 00:09:38,290
+have a low variation, low
+variance, and a low RDW.
+
+186
+00:09:38,530 --> 00:09:41,510
+However, if we have
+cells of many different
+
+187
+00:09:41,510 --> 00:09:44,350
+sizes, some are big,
+some red blood cells are
+
+188
+00:09:44,350 --> 00:09:47,590
+small, some red blood
+cells or normal size,
+
+189
+00:09:47,590 --> 00:09:50,230
+we will see a higher
+RDW because we have a
+
+190
+00:09:50,230 --> 00:09:53,810
+larger range or larger
+variance in the size.
+
+191
+00:09:54,190 --> 00:09:57,190
+To measure the actual
+amount of hemoglobin per red
+
+192
+00:09:57,190 --> 00:10:01,010
+blood cell, we can look at two
+values, the mean corpuscular
+
+193
+00:10:01,010 --> 00:10:03,670
+hemoglobin, which is the
+amount of hemoglobin in
+
+194
+00:10:03,670 --> 00:10:06,710
+an average erythrocyte,
+and the mean corpuscular
+
+195
+00:10:06,710 --> 00:10:10,050
+hemoglobin concentration, which
+provides the percentage of
+
+196
+00:10:10,050 --> 00:10:13,430
+hemoglobin concentration
+in an average erythrocyte.
+
+197
+00:10:13,570 --> 00:10:15,910
+And finally, something
+you've already heard me
+
+198
+00:10:15,910 --> 00:10:19,390
+reference once or twice is
+the reticulocyte count, which
+
+199
+00:10:19,390 --> 00:10:22,170
+is the percentage of total
+red blood cells that are
+
+200
+00:10:22,170 --> 00:10:25,570
+reticulocytes. This is really
+important in determining
+
+201
+00:10:25,570 --> 00:10:29,450
+when we see an anemia
+if the underlying cause
+
+202
+00:10:29,450 --> 00:10:31,790
+could be the bone marrow
+or if the bone marrow is
+
+203
+00:10:31,790 --> 00:10:35,610
+responding appropriately to
+the anemia. And what I mean
+
+204
+00:10:35,610 --> 00:10:39,770
+by that is that when we
+have an anemia and the bone
+
+205
+00:10:39,770 --> 00:10:42,710
+marrow is signaled from
+erythropoietin to start
+
+206
+00:10:42,710 --> 00:10:45,690
+generating more red blood
+cells, you would expect to see
+
+207
+00:10:45,690 --> 00:10:48,890
+more reticulocytes or a
+higher reticulocyte count.
+
+208
+00:10:49,350 --> 00:10:52,390
+And if we see this increased
+reticulocyte count,
+
+209
+00:10:52,390 --> 00:10:54,630
+we know the marrow is
+responding appropriately.
+
+210
+00:10:54,630 --> 00:10:57,770
+It recognizes the anemia
+and is trying to push
+
+211
+00:10:57,770 --> 00:11:01,590
+more red blood cells out
+to correct for it. If we
+
+212
+00:11:01,590 --> 00:11:04,770
+have an anemia without this
+increase in reticulocyte
+
+213
+00:11:04,770 --> 00:11:06,970
+count, it actually
+could point to the bone
+
+214
+00:11:06,970 --> 00:11:10,410
+marrow being the underlying
+issue for the anemia.
+
+215
+00:11:10,550 --> 00:11:13,890
+But just one little caveat
+with this, remember that
+
+216
+00:11:13,890 --> 00:11:16,790
+like most other things in
+the body there can be a
+
+217
+00:11:16,790 --> 00:11:20,170
+delay so the bone marrow
+takes some time to respond
+
+218
+00:11:21,640 --> 00:11:25,290
+so after we do some of our
+lab tests we can actually
+
+219
+00:11:25,290 --> 00:11:28,150
+now look and visualize the
+red blood cells themselves
+
+220
+00:11:28,150 --> 00:11:30,630
+and it's a follow-up
+test that we could do for
+
+221
+00:11:30,630 --> 00:11:33,650
+an abnormal cpc and it's
+called a peripheral blood
+
+222
+00:11:33,650 --> 00:11:36,470
+smear and this is where we
+actually visually inspect
+
+223
+00:11:36,470 --> 00:11:39,120
+the red blood cells for
+their shape and their color
+
+224
+00:11:39,120 --> 00:11:42,310
+and you use a special
+stain in this peripheral
+
+225
+00:11:42,310 --> 00:11:44,810
+blood smear and it's known
+as the right gasmus stain.
+
+226
+00:11:45,170 --> 00:11:48,170
+When we examine a normal
+peripheral blood smear,
+
+227
+00:11:48,200 --> 00:11:50,630
+you want to notice a few
+different things, and the
+
+228
+00:11:50,630 --> 00:11:53,030
+most important being this
+almost central area of
+
+229
+00:11:53,030 --> 00:11:56,130
+pallor that you can see.
+And this is actually due
+
+230
+00:11:56,130 --> 00:11:59,610
+to the biconcave disc shape
+of the red blood cell.
+
+231
+00:11:59,810 --> 00:12:03,090
+What I mean by that is,
+if you can remember, that
+
+232
+00:12:03,090 --> 00:12:06,790
+red blood cell almost has
+a, and I'm going to take out
+
+233
+00:12:06,790 --> 00:12:09,930
+my pen, my apologies for
+my poor drawing skills,
+
+234
+00:12:11,830 --> 00:12:20,370
+have a kind of disc shape in
+the cell, and it's actually
+
+235
+00:12:20,370 --> 00:12:22,970
+in this middle piece,
+you have less cytoplasm,
+
+236
+00:12:22,970 --> 00:12:25,690
+right? We just have less
+volume in this middle area.
+
+237
+00:12:26,320 --> 00:12:28,430
+Because we have less
+cytoplasm in this
+
+238
+00:12:28,430 --> 00:12:30,950
+middle area, you
+have less hemoglobin.
+
+239
+00:12:31,150 --> 00:12:33,710
+Hemoglobin is actually
+responsible for the coloring of
+
+240
+00:12:33,710 --> 00:12:37,290
+the red blood cell. So, if
+we have less coloring, we
+
+241
+00:12:37,290 --> 00:12:40,850
+have less hemoglobin in this
+middle area, it won't appear
+
+242
+00:12:40,850 --> 00:12:44,410
+as red compared to the
+outer portions, maybe here
+
+243
+00:12:44,410 --> 00:12:47,950
+or here, that have more
+hemoglobin. So I know that's a
+
+244
+00:12:47,950 --> 00:12:51,150
+little bit of a complex or
+long explanation, but it will
+
+245
+00:12:51,150 --> 00:12:53,510
+kind of come into play
+later on when we learn about
+
+246
+00:12:53,510 --> 00:12:56,770
+some abnormal shapes of red
+blood cells. So again, just
+
+247
+00:12:56,770 --> 00:12:59,710
+remember, the reason why
+we kind of see the central
+
+248
+00:12:59,710 --> 00:13:03,050
+area of pallor is because
+there's actual decrease in
+
+249
+00:13:03,050 --> 00:13:06,530
+hemoglobin because of this
+kind of biconcave disc shape.
+
+250
+00:13:07,910 --> 00:13:10,890
+So we've talked about
+a couple different lab
+
+251
+00:13:10,890 --> 00:13:13,530
+values. We could talk about
+how we visualize the red
+
+252
+00:13:13,530 --> 00:13:16,790
+blood cells under certain
+peripheral blood smears
+
+253
+00:13:16,790 --> 00:13:19,610
+and what they look like
+and the reasons why.
+
+254
+00:13:19,990 --> 00:13:22,930
+But we actually want to
+get into classifications
+
+255
+00:13:22,930 --> 00:13:26,530
+and recognition of certain
+anemias. So the first thing
+
+256
+00:13:26,530 --> 00:13:28,930
+you will do when someone
+comes in with a potential
+
+257
+00:13:28,930 --> 00:13:31,700
+anemia, right, they come in
+with fatigue conjunctival
+
+258
+00:13:31,700 --> 00:13:37,270
+pallor maybe they're
+becoming exerted or very
+
+259
+00:13:37,270 --> 00:13:40,050
+tired with just walking
+the first test you should
+
+260
+00:13:40,050 --> 00:13:44,070
+be ordering is a cbc if your
+hemoglobin your hematocrit
+
+261
+00:13:44,070 --> 00:13:47,010
+and or your red blood
+cell count is low by
+
+262
+00:13:47,010 --> 00:13:50,850
+definition your patient is
+anemic but we can't stop
+
+263
+00:13:50,850 --> 00:13:53,750
+there we actually have to
+determine the type of anemia
+
+264
+00:13:53,750 --> 00:13:57,210
+the patient may have and
+more importantly, understand
+
+265
+00:13:57,210 --> 00:14:00,450
+and figure out the
+underlying pathology behind
+
+266
+00:14:00,450 --> 00:14:03,770
+the anemia. The next best
+step you should take in
+
+267
+00:14:03,770 --> 00:14:07,230
+kind of making this analysis
+is looking at the MCV.
+
+268
+00:14:07,450 --> 00:14:11,450
+This MCV actually breaks down
+anemias into three separate
+
+269
+00:14:11,450 --> 00:14:14,730
+types, all based off of
+the average size. So we
+
+270
+00:14:14,730 --> 00:14:17,810
+have a microcytic, or smaller
+red blood cells, with an
+
+271
+00:14:17,810 --> 00:14:21,870
+MCV of under 80, a normocytic,
+which is an MCV of 80
+
+272
+00:14:21,870 --> 00:14:24,950
+to 100. Again, these are
+normal size red blood cells.
+
+273
+00:14:25,150 --> 00:14:27,630
+And finally, we have
+a macrocytic, which
+
+274
+00:14:27,630 --> 00:14:31,190
+is a large or MCV
+greater than 100.
+
+275
+00:14:36,140 --> 00:14:38,540
+This slide just represents
+some of the different
+
+276
+00:14:38,540 --> 00:14:41,260
+anemias broken down
+into their microcytic,
+
+277
+00:14:41,260 --> 00:14:44,260
+normocytic, and macrocytic.
+And these are all things
+
+278
+00:14:44,260 --> 00:14:46,880
+we will be discussing
+over the next two videos.
+
+279
+00:14:48,920 --> 00:14:52,280
+So for the rest of this
+first part of this two-part
+
+280
+00:14:52,280 --> 00:14:55,800
+series we'll be discussing the
+microcytic anemias remember
+
+281
+00:14:55,800 --> 00:14:59,740
+all of these are an mcv
+under 80 meaning these red
+
+282
+00:14:59,740 --> 00:15:04,280
+blood cells are smaller
+than normal there are five
+
+283
+00:15:04,280 --> 00:15:07,580
+different types of microcytic
+anemia that we will be
+
+284
+00:15:07,580 --> 00:15:10,320
+discussing in the rest of
+this lecture and they are the
+
+285
+00:15:10,320 --> 00:15:13,780
+following iron deficiency
+anemia anemia of chronic disease
+
+286
+00:15:13,780 --> 00:15:17,860
+lead poisoning cytoblastic
+anemia and thalassemias.
+
+287
+00:15:17,980 --> 00:15:22,040
+In general, for all
+microcytic anemias, your
+
+288
+00:15:22,040 --> 00:15:24,260
+red blood cells are
+smaller than normal.
+
+289
+00:15:24,720 --> 00:15:27,780
+For iron deficiency anemia
+and anemia of chronic
+
+290
+00:15:27,780 --> 00:15:30,500
+disease, please note
+that these two anemias
+
+291
+00:15:30,500 --> 00:15:33,020
+are actually microcytic
+only in the later
+
+292
+00:15:33,020 --> 00:15:36,400
+stages. They start out
+as normocytic anemias.
+
+293
+00:15:36,710 --> 00:15:39,140
+And because of this
+reason, you actually have a
+
+294
+00:15:39,140 --> 00:15:42,100
+mix of normal and smaller
+red blood cell sizes.
+
+295
+00:15:42,140 --> 00:15:45,110
+Because we have this
+increase in variance between
+
+296
+00:15:45,110 --> 00:15:47,800
+the normal and smaller
+sizes, you're actually
+
+297
+00:15:47,800 --> 00:15:51,850
+going to see a higher
+RDW in these two anemias.
+
+298
+00:15:55,520 --> 00:16:00,110
+So the actual reason for
+microcytic anemias being
+
+299
+00:16:00,110 --> 00:16:02,780
+microcytic have to do with
+red blood cell divisions
+
+300
+00:16:02,780 --> 00:16:05,980
+and a decrease in the
+production of hemoglobin.
+
+301
+00:16:06,740 --> 00:16:08,860
+Erythroblasts, also known
+as the red blood cell
+
+302
+00:16:08,860 --> 00:16:12,380
+progenitors in the bone
+marrow, like to keep a certain
+
+303
+00:16:12,380 --> 00:16:16,170
+ratio of hemoglobin to
+cytoplasm. As the red blood cell
+
+304
+00:16:16,170 --> 00:16:18,980
+divides, as you can see
+on the left of this image,
+
+305
+00:16:19,600 --> 00:16:23,760
+the amount of hemoglobin
+is normal, and will go
+
+306
+00:16:23,760 --> 00:16:26,400
+through one or two cell
+divisions before the erythroblast
+
+307
+00:16:26,400 --> 00:16:30,200
+is happy and can go
+off into the peripheral
+
+308
+00:16:30,200 --> 00:16:33,680
+blood as a normal acidic
+cell with a normal amount of
+
+309
+00:16:33,680 --> 00:16:36,740
+hemoglobin. However, if
+we have a decreased amount
+
+310
+00:16:36,740 --> 00:16:40,940
+of hemoglobin compared
+to the total amount of
+
+311
+00:16:40,940 --> 00:16:44,740
+cytoplasm as seen in
+microcytic anemias, we actually
+
+312
+00:16:44,740 --> 00:16:47,460
+have to undergo further
+cell divisions in order to
+
+313
+00:16:47,460 --> 00:16:50,680
+achieve that same ratio of
+hemoglobin to cytoplasm.
+
+314
+00:16:51,460 --> 00:16:55,600
+And again, microcytic anemias
+in general, for all the
+
+315
+00:16:55,600 --> 00:16:58,180
+five we're going to discuss,
+are due to a decrease
+
+316
+00:16:58,180 --> 00:17:01,100
+in the production of
+hemoglobin. Somewhere along the
+
+317
+00:17:01,100 --> 00:17:04,560
+production, either from its
+reactants, raw materials,
+
+318
+00:17:04,720 --> 00:17:07,780
+maybe some of the proteins
+are not working properly,
+
+319
+00:17:08,120 --> 00:17:10,360
+hemoglobin cannot
+be made properly.
+
+320
+00:17:10,360 --> 00:17:12,620
+And since we have
+less hemoglobin, we
+
+321
+00:17:12,620 --> 00:17:14,600
+have to undergo
+further cell divisions,
+
+322
+00:17:14,600 --> 00:17:16,260
+meaning we create
+smaller cells.
+
+323
+00:17:17,220 --> 00:17:20,000
+And again, just to
+reiterate, microcytic
+
+324
+00:17:20,000 --> 00:17:24,980
+anemias are at its basis
+due to an issue with
+
+325
+00:17:24,980 --> 00:17:27,900
+creating hemoglobin. and
+hemoglobin is responsible
+
+326
+00:17:27,900 --> 00:17:30,200
+for the pigmentation
+in red blood cells.
+
+327
+00:17:30,360 --> 00:17:33,260
+Knowing this information,
+we can kind of guess what
+
+328
+00:17:33,260 --> 00:17:35,480
+we should be seeing on a
+peripheral blood smear.
+
+329
+00:17:35,610 --> 00:17:37,860
+Since we have less
+hemoglobin, you'll have
+
+330
+00:17:37,860 --> 00:17:41,420
+hypopigmentation, and also
+known as hypochromatic
+
+331
+00:17:41,420 --> 00:17:43,940
+red blood cells.
+Under the microscope,
+
+332
+00:17:43,940 --> 00:17:46,700
+they'll appear paler due
+to a lack of pigment.
+
+333
+00:17:46,820 --> 00:17:49,020
+And also due to a
+decreased amount of
+
+334
+00:17:49,020 --> 00:17:51,720
+hemoglobin, the central
+area of pallor will appear
+
+335
+00:17:51,720 --> 00:17:54,600
+larger. This, again,
+goes back to that idea
+
+336
+00:17:54,600 --> 00:17:57,980
+of the biconcave disc,
+that central region
+
+337
+00:17:57,980 --> 00:18:00,680
+has less cytoplasm
+compared to the edges.
+
+338
+00:18:00,680 --> 00:18:04,000
+If we even decrease
+the hemoglobin more,
+
+339
+00:18:04,000 --> 00:18:06,220
+because we can't produce
+it, you're going to
+
+340
+00:18:06,220 --> 00:18:09,320
+see less pigmentation
+in that central area.
+
+341
+00:18:10,980 --> 00:18:14,800
+So, what are the labs for
+microcytic anemia? We go
+
+342
+00:18:14,800 --> 00:18:18,500
+through our CBC, we look at
+our MCV, we realize, okay,
+
+343
+00:18:18,500 --> 00:18:22,080
+this is microcytic. What
+should I do next? the next
+
+344
+00:18:22,080 --> 00:18:25,500
+best step for any lab
+study is ordering an iron
+
+345
+00:18:25,500 --> 00:18:29,440
+study and the iron study
+is very very important for
+
+346
+00:18:29,440 --> 00:18:32,230
+both your clinical practice
+as well as an examination
+
+347
+00:18:32,230 --> 00:18:35,720
+purposes and I want to go
+through each of these values
+
+348
+00:18:35,720 --> 00:18:39,660
+very quickly and talk
+about them so it may be a
+
+349
+00:18:39,660 --> 00:18:41,700
+little bit easier for you
+guys to understand the
+
+350
+00:18:41,700 --> 00:18:44,480
+results of these iron studies
+as we go through each of
+
+351
+00:18:44,480 --> 00:18:47,740
+the five anemias in the
+microcytic category just
+
+352
+00:18:47,740 --> 00:18:50,940
+remember that medicine has
+a whole bunch of things that
+
+353
+00:18:50,940 --> 00:18:54,000
+you just have to brute force
+memorize. This is actually
+
+354
+00:18:54,000 --> 00:18:56,280
+one that you can kind of
+rationalize and not have
+
+355
+00:18:56,280 --> 00:18:59,860
+to commit to memory, but
+it's only if you're able
+
+356
+00:18:59,860 --> 00:19:02,320
+to understand these values
+and what they represent.
+
+357
+00:19:02,440 --> 00:19:05,520
+So let's start with
+serum iron, and it simply
+
+358
+00:19:05,520 --> 00:19:09,080
+represents the amount of iron
+in the blood. Very simple.
+
+359
+00:19:09,560 --> 00:19:13,900
+Serum ferritin represents
+the storage of iron.
+
+360
+00:19:14,280 --> 00:19:16,940
+So it shows how much
+iron is stored in the
+
+361
+00:19:16,940 --> 00:19:19,140
+bone marrow, macrophages,
+and the liver.
+
+362
+00:19:19,580 --> 00:19:21,340
+And again, just
+remember ferritin
+
+363
+00:19:21,340 --> 00:19:23,420
+is the protein
+that stores iron.
+
+364
+00:19:23,580 --> 00:19:27,300
+So far, not too bad. Total
+iron binding capacity
+
+365
+00:19:27,300 --> 00:19:29,800
+is one that may be a little
+bit confusing via the
+
+366
+00:19:29,800 --> 00:19:31,940
+name, but when we actually
+think about what it
+
+367
+00:19:31,940 --> 00:19:34,880
+is, it becomes a lot
+easier. So it's actually the
+
+368
+00:19:34,880 --> 00:19:37,280
+amount of transferrin
+circulating in the blood.
+
+369
+00:19:38,240 --> 00:19:41,440
+TIBC, in a nutshell,
+you can just think of as
+
+370
+00:19:41,440 --> 00:19:44,240
+transferrin. And transferrin
+is a protein that's
+
+371
+00:19:44,240 --> 00:19:46,920
+produced in the liver
+and actually picks up the
+
+372
+00:19:46,920 --> 00:19:49,680
+iron from the GI system
+and will transport it
+
+373
+00:19:49,680 --> 00:19:52,280
+throughout the plasma to
+its final destination.
+
+374
+00:19:52,550 --> 00:19:54,500
+And there's actually a
+little bit of a relationship
+
+375
+00:19:54,500 --> 00:19:57,600
+between iron storage, also
+known as ferritin, and
+
+376
+00:19:57,600 --> 00:20:00,880
+TIBC. When the iron stores
+in the bone marrow are
+
+377
+00:20:00,880 --> 00:20:03,460
+lower, you actually have
+signals sent to the liver
+
+378
+00:20:03,460 --> 00:20:07,300
+to produce more transferrin.
+So the bone marrow is
+
+379
+00:20:07,300 --> 00:20:10,500
+going to say to the liver,
+hey, we need more iron,
+
+380
+00:20:10,500 --> 00:20:12,980
+and the liver in response
+will produce more
+
+381
+00:20:12,980 --> 00:20:17,140
+transferrin, increasing our
+total iron binding capacity.
+
+382
+00:20:17,600 --> 00:20:20,900
+And finally we have percent
+saturation, which is
+
+383
+00:20:20,900 --> 00:20:23,220
+essentially just the percentage
+of transferrin that is
+
+384
+00:20:23,220 --> 00:20:27,200
+bound to iron. So we could
+see this increase with either
+
+385
+00:20:27,200 --> 00:20:31,040
+an increase in iron in
+the serum or a decrease in
+
+386
+00:20:31,040 --> 00:20:34,460
+the transferrin amount,
+right? This is simple math.
+
+387
+00:20:35,140 --> 00:20:37,840
+Ferritin and TIBC, as we
+kind of already touched
+
+388
+00:20:37,840 --> 00:20:41,170
+upon, are usually opposite.
+If we have increased
+
+389
+00:20:41,170 --> 00:20:43,820
+ferritin, it usually means
+we have a lot of iron in
+
+390
+00:20:43,820 --> 00:20:47,540
+storage. So there's no need
+to bring a lot more iron
+
+391
+00:20:47,540 --> 00:20:51,140
+from the plasma or the GI
+system into the cells. So
+
+392
+00:20:51,140 --> 00:20:55,160
+our TIBC, also known as
+transferrin, will be lower.
+
+393
+00:20:55,540 --> 00:20:57,880
+And it's actually the
+opposite if we have low
+
+394
+00:20:57,880 --> 00:21:01,240
+iron stores. The bone
+marrow will signal to
+
+395
+00:21:01,240 --> 00:21:04,240
+the liver that we need
+more iron and in response
+
+396
+00:21:04,240 --> 00:21:06,760
+we will increase our
+transferrin, therefore
+
+397
+00:21:06,760 --> 00:21:09,800
+increasing our total
+iron binding capacity.
+
+398
+00:21:10,740 --> 00:21:13,340
+So our first
+microcytic anemia is
+
+399
+00:21:13,340 --> 00:21:15,300
+going to be iron
+deficiency anemia.
+
+400
+00:21:18,760 --> 00:21:23,480
+So in iron deficiency
+anemia, it's fairly self
+
+401
+00:21:23,480 --> 00:21:26,160
+-explanatory, we have
+a deficiency of iron.
+
+402
+00:21:26,180 --> 00:21:29,060
+And without iron, the
+body cannot produce heme.
+
+403
+00:21:29,060 --> 00:21:31,700
+And iron deficiency anemia
+is actually the most
+
+404
+00:21:31,700 --> 00:21:35,160
+common cause of anemia
+worldwide, over 12% of
+
+405
+00:21:35,160 --> 00:21:37,380
+the world's population
+according to up-to-date.
+
+406
+00:21:37,540 --> 00:21:40,280
+And very simply, we can
+think of iron deficiency
+
+407
+00:21:40,280 --> 00:21:44,440
+as a formula where our
+iron loss is greater
+
+408
+00:21:44,440 --> 00:21:47,180
+than our iron intake.
+So we can either have
+
+409
+00:21:47,180 --> 00:21:49,980
+an increase in loss or
+a decrease in intake.
+
+410
+00:21:50,170 --> 00:21:53,480
+And in general, iron
+excretion from the body is not
+
+411
+00:21:53,480 --> 00:21:57,080
+very well regulated. So you
+could have iron loss via
+
+412
+00:21:57,080 --> 00:22:01,200
+bleeding whether that's a
+gi issue or cancer it also
+
+413
+00:22:01,200 --> 00:22:03,820
+could just be menses and
+females and you also have
+
+414
+00:22:03,820 --> 00:22:07,220
+just general loss of epithelial
+cells from the skin gut
+
+415
+00:22:07,220 --> 00:22:11,220
+and gu track and iron can
+also be due to intake issues
+
+416
+00:22:11,220 --> 00:22:14,760
+right our ability to absorb
+or ingest iron may be
+
+417
+00:22:14,760 --> 00:22:18,820
+decreased iron is absorbed
+in the duodenum so any
+
+418
+00:22:18,820 --> 00:22:22,200
+issue in the duodenum can
+actually affect the uptake you
+
+419
+00:22:22,200 --> 00:22:25,400
+also can have an adequate
+nutritional supply of iron.
+
+420
+00:22:25,400 --> 00:22:28,300
+And in general, for
+treatment of iron deficiency,
+
+421
+00:22:28,300 --> 00:22:30,260
+the first-line treatment is
+
+422
+00:22:30,260 --> 00:22:32,170
+just oral iron supplementation.
+
+423
+00:22:33,840 --> 00:22:37,800
+So, iron metabolism. This
+is a very important slide,
+
+424
+00:22:37,800 --> 00:22:39,980
+and I know there seems
+like there's a lot of text,
+
+425
+00:22:39,980 --> 00:22:42,720
+and the image seems scary
+because it's a pathway,
+
+426
+00:22:42,720 --> 00:22:46,040
+and nobody likes looking
+at chemical pathways. But I
+
+427
+00:22:46,040 --> 00:22:48,400
+promise, if you just
+think about it, and we'll
+
+428
+00:22:48,400 --> 00:22:51,280
+highlight the important parts,
+it won't be as daunting.
+
+429
+00:22:51,620 --> 00:22:54,100
+So first off, this
+little mnemonic
+
+430
+00:22:54,100 --> 00:22:56,180
+in the top right
+middle portion,
+
+431
+00:22:56,320 --> 00:22:58,820
+Iron Fist Bro,
+actually shows the
+
+432
+00:22:58,820 --> 00:23:00,860
+different aspects of
+the small intestine
+
+433
+00:23:00,860 --> 00:23:04,140
+where iron, folate,
+and B12 are absorbed.
+
+434
+00:23:04,360 --> 00:23:07,480
+So iron in the body
+is usually recycled in
+
+435
+00:23:07,480 --> 00:23:10,320
+general from circulated
+and stored pools,
+
+436
+00:23:10,320 --> 00:23:12,980
+right, coming in and
+out from ferritin.
+
+437
+00:23:13,200 --> 00:23:16,310
+In the blood, as we spoke
+about, iron is carried as
+
+438
+00:23:16,310 --> 00:23:18,900
+transferrin. Transferrin
+is a protein that's made
+
+439
+00:23:18,900 --> 00:23:22,320
+in the liver and essentially
+all it's made to really
+
+440
+00:23:22,320 --> 00:23:25,220
+do is just deliver iron
+to the cells that help
+
+441
+00:23:25,220 --> 00:23:28,800
+synthesize hemoglobin and
+other important products. In
+
+442
+00:23:28,800 --> 00:23:32,020
+the GI system, iron has
+to be consumed in either
+
+443
+00:23:32,020 --> 00:23:35,700
+meat or vegetable products.
+In meat it's known as heme,
+
+444
+00:23:35,700 --> 00:23:40,220
+in vegetable it's known
+as non-heme, and you see
+
+445
+00:23:40,220 --> 00:23:43,600
+iron absorbed by the
+enterocytes within the duodenum.
+
+446
+00:23:43,680 --> 00:23:47,960
+For non-heme iron Fe3+, it
+actually must be reduced
+
+447
+00:23:47,960 --> 00:23:51,600
+to Fe2+, by something
+called ferireductase, also
+
+448
+00:23:51,600 --> 00:23:55,080
+known as cytochrome B, on
+the surface of the enterocyte
+
+449
+00:23:55,080 --> 00:23:58,340
+in the duodenum. Once
+it's reduced, it can then
+
+450
+00:23:58,340 --> 00:24:00,620
+be transported into the
+cell by something called
+
+451
+00:24:00,620 --> 00:24:05,160
+DMT1. Heme is absorbed by
+transporters in the enterocyte
+
+452
+00:24:05,160 --> 00:24:07,580
+themselves. And you
+can look over here and
+
+453
+00:24:07,580 --> 00:24:10,180
+actually has a very nice
+picture of this same process.
+
+454
+00:24:10,760 --> 00:24:14,500
+Once iron is absorbed into
+the enterocyte, regardless
+
+455
+00:24:14,500 --> 00:24:17,700
+of if it's heme or non
+-heme, it leaves via
+
+456
+00:24:17,700 --> 00:24:21,200
+the same protein, something
+known as ferroportin.
+
+457
+00:24:21,440 --> 00:24:25,240
+Once it leaves the enterocyte
+via ferroportin, it
+
+458
+00:24:25,240 --> 00:24:28,660
+is grabbed by transferrin
+and then is transported
+
+459
+00:24:28,660 --> 00:24:31,820
+eventually to its final
+destination, where it's stored
+
+460
+00:24:31,820 --> 00:24:35,720
+as ferritin. And this
+whole process of absorbing
+
+461
+00:24:35,720 --> 00:24:39,900
+and bringing in iron from
+the GI system is kind
+
+462
+00:24:39,900 --> 00:24:42,220
+of controlled by an acute
+phase reactant known as
+
+463
+00:24:42,220 --> 00:24:44,940
+hepcidin, which helps
+regulate this process by
+
+464
+00:24:44,940 --> 00:24:48,980
+decreasing ferroportin. So
+if hepcidin is released,
+
+465
+00:24:48,980 --> 00:24:51,620
+you'll actually see a decrease
+in absorption of iron.
+
+466
+00:24:53,060 --> 00:24:56,500
+So some takeaways from that
+very long-winded slide.
+
+467
+00:24:56,500 --> 00:25:00,540
+Iron is absorbed in the
+duodenum. Heme is absorbed better
+
+468
+00:25:00,540 --> 00:25:03,320
+than non-heme iron. Non
+-heme iron just has to be
+
+469
+00:25:03,320 --> 00:25:08,780
+converted via a cytochrome
+B and then absorbed by DMT1.
+
+470
+00:25:08,900 --> 00:25:12,600
+Once iron is finally
+absorbed into the duodenal
+
+471
+00:25:12,600 --> 00:25:15,880
+enterocyte, it leaves
+via ferroportin. In the
+
+472
+00:25:15,880 --> 00:25:19,180
+plasma, it's attached to
+transferrin. In the cell,
+
+473
+00:25:19,180 --> 00:25:22,240
+it's attached to ferritin.
+And then hepcidin is
+
+474
+00:25:22,240 --> 00:25:24,800
+one of these acute phase
+reactants that regulates
+
+475
+00:25:24,800 --> 00:25:27,920
+this entire process by
+decreasing ferroportin.
+
+476
+00:25:30,600 --> 00:25:33,420
+So let's talk about some
+usual causes of iron
+
+477
+00:25:33,420 --> 00:25:36,680
+deficiency. A major one we
+kind of talked about this
+
+478
+00:25:36,680 --> 00:25:39,780
+and probably is what
+is happening and to our
+
+479
+00:25:39,780 --> 00:25:42,200
+friend over here from
+Monty Python is something
+
+480
+00:25:42,200 --> 00:25:45,900
+called blood loss, right?
+We're losing more iron and
+
+481
+00:25:45,900 --> 00:25:47,820
+we're losing more blood
+than we could produce.
+
+482
+00:25:48,080 --> 00:25:50,500
+There also could be
+things such as dietary
+
+483
+00:25:50,500 --> 00:25:52,640
+deficiencies, right?
+Most iron comes from the
+
+484
+00:25:52,640 --> 00:25:54,980
+meat and vegetables that
+we consume. If you have
+
+485
+00:25:54,980 --> 00:25:57,220
+nutritional insufficiencies
+in your diet,
+
+486
+00:25:57,220 --> 00:25:59,150
+iron could be one of the
+supplements affected.
+
+487
+00:25:59,560 --> 00:26:02,560
+If we break it down by
+age, it becomes a little
+
+488
+00:26:02,560 --> 00:26:05,760
+bit more specific. So
+in infants, human breast
+
+489
+00:26:05,760 --> 00:26:08,280
+milk is naturally low in
+iron. So that's actually
+
+490
+00:26:08,280 --> 00:26:11,400
+the most common cause.
+In children, most kids
+
+491
+00:26:11,400 --> 00:26:13,440
+are usually finicky. You
+know, they eat chicken
+
+492
+00:26:13,440 --> 00:26:15,320
+finger and french fries
+and that's about it.
+
+493
+00:26:15,580 --> 00:26:18,200
+My self was included
+in that group.
+
+494
+00:26:18,360 --> 00:26:19,940
+It's usually poor diet.
+
+495
+00:26:20,440 --> 00:26:23,470
+Adults, 20 to 50 is a
+little bit more segmented.
+
+496
+00:26:23,470 --> 00:26:26,580
+In males, you see the
+most common cause being a
+
+497
+00:26:26,580 --> 00:26:29,500
+bleed, so peptic ulcer
+disease, which is in the
+
+498
+00:26:29,500 --> 00:26:32,940
+upper GI tract, and in
+females, it's actually split,
+
+499
+00:26:33,040 --> 00:26:35,520
+menorrhagia, which is an
+increase of blood loss
+
+500
+00:26:35,520 --> 00:26:39,760
+with men's disease, or
+pregnancy, which essentially
+
+501
+00:26:39,760 --> 00:26:42,240
+is just an increase in
+overall iron demands.
+
+502
+00:26:42,300 --> 00:26:46,400
+In the elderly, it is again
+split, but this time by
+
+503
+00:26:46,400 --> 00:26:50,570
+geographic location. In the
+western world, you see more
+
+504
+00:26:50,570 --> 00:26:54,840
+causes such as colon polyps
+and cancer, and in the
+
+505
+00:26:54,840 --> 00:26:58,400
+developing world it's
+actually more hookworms. And a
+
+506
+00:26:58,400 --> 00:27:01,220
+little bit of a clinical
+pearl for you guys, again not
+
+507
+00:27:01,220 --> 00:27:03,680
+necessarily super important
+right now, but in the
+
+508
+00:27:03,680 --> 00:27:07,080
+future it can make you look
+smart on rotations. Any elderly
+
+509
+00:27:07,080 --> 00:27:10,360
+individual with an iron
+deficiency anemia, you have
+
+510
+00:27:10,360 --> 00:27:12,740
+to assume that they have
+some form of colon polyp
+
+511
+00:27:12,740 --> 00:27:16,660
+or colon cancer until proven
+otherwise. And the only
+
+512
+00:27:16,660 --> 00:27:19,520
+way that we can prove that
+is usually via colonoscopy.
+
+513
+00:27:20,090 --> 00:27:21,960
+There are some
+other causes to keep
+
+514
+00:27:21,960 --> 00:27:24,060
+in mind. Like we
+said, malnutrition,
+
+515
+00:27:24,180 --> 00:27:26,940
+we get issues with
+actual absorption, such
+
+516
+00:27:26,940 --> 00:27:30,140
+as, you know, celiac
+disease, or surgeries.
+
+517
+00:27:30,300 --> 00:27:33,480
+Surgeries such as gastric
+bypass surgery, where we
+
+518
+00:27:33,480 --> 00:27:36,580
+have food bypassing the
+duodenum, or gastrectomy,
+
+519
+00:27:36,580 --> 00:27:39,360
+where the stomach acid
+actually helps increase
+
+520
+00:27:39,360 --> 00:27:42,960
+Fe2. Those could also be
+causes of iron deficiency.
+
+521
+00:27:43,620 --> 00:27:46,680
+and there are actually four
+stages of iron deficiency
+
+522
+00:27:46,680 --> 00:27:49,460
+so the first stage is
+the storage of iron is
+
+523
+00:27:49,460 --> 00:27:52,540
+depleted in the cells so we're
+going to drop our ferritin
+
+524
+00:27:52,540 --> 00:27:55,180
+amounts right we're
+draining the storage at the
+
+525
+00:27:55,180 --> 00:27:57,280
+same time the bone marrow
+is going to go to the
+
+526
+00:27:57,280 --> 00:28:00,780
+liver and say hey we need
+more iron please make more
+
+527
+00:28:00,780 --> 00:28:03,600
+transferrin to pick it
+up from the GI system so
+
+528
+00:28:03,600 --> 00:28:06,260
+the cells are going to
+recruit all the iron from the
+
+529
+00:28:06,260 --> 00:28:08,780
+plasma right they're going
+to drain their own supplies
+
+530
+00:28:08,780 --> 00:28:12,740
+and then go into the
+actual stores from the
+
+531
+00:28:12,740 --> 00:28:15,800
+plasma. Once the serum
+iron is depleted, we'll see
+
+532
+00:28:15,800 --> 00:28:18,360
+some more values change.
+We're going to see a decrease
+
+533
+00:28:18,360 --> 00:28:21,420
+in serum iron, a decrease
+in percent saturation,
+
+534
+00:28:21,720 --> 00:28:24,120
+and our total iron binding
+capacity is going to
+
+535
+00:28:24,120 --> 00:28:27,900
+continue to increase. We
+can kind of rationalize
+
+536
+00:28:27,900 --> 00:28:30,180
+the reason for this
+decrease in saturation
+
+537
+00:28:30,180 --> 00:28:33,520
+simply because the serum
+iron is dropping and the
+
+538
+00:28:33,520 --> 00:28:36,820
+TIPC is increasing. If we
+have a decreasing value
+
+539
+00:28:36,820 --> 00:28:38,940
+in the numerator, an
+increasing value in the
+
+540
+00:28:38,940 --> 00:28:41,480
+denominator, we're going
+to see the value drop.
+
+541
+00:28:41,960 --> 00:28:45,140
+The third stage is
+actually normocytic anemia.
+
+542
+00:28:45,280 --> 00:28:47,860
+So early stage iron
+deficiency is actually a
+
+543
+00:28:47,860 --> 00:28:50,560
+normocytic disease.
+The body will begin to
+
+544
+00:28:50,560 --> 00:28:52,700
+make normal size red
+blood cells, but they'll
+
+545
+00:28:52,700 --> 00:28:55,020
+reduce the quantity.
+So the body kind of
+
+546
+00:28:55,020 --> 00:28:57,560
+goes into this quality
+over quantity mindset.
+
+547
+00:28:57,860 --> 00:29:00,840
+We're going to see a decrease
+in hemoglobin, hematocytic,
+
+548
+00:29:00,840 --> 00:29:04,200
+and red blood cells, and
+the RDW at this point is
+
+549
+00:29:04,200 --> 00:29:07,560
+normal. And finally, you're
+going to see a microcytic
+
+550
+00:29:08,100 --> 00:29:11,880
+hypochromic anemia in the
+late stages. At this point,
+
+551
+00:29:11,880 --> 00:29:14,480
+the bone marrow is kind of
+just throwing a prayer on
+
+552
+00:29:14,480 --> 00:29:17,100
+whatever type of iron it
+can get. It's going to make
+
+553
+00:29:17,100 --> 00:29:19,720
+smaller red blood cells to
+conserve that concentration
+
+554
+00:29:19,720 --> 00:29:23,020
+of hemoglobin, and we also
+have fewer cells made.
+
+555
+00:29:23,020 --> 00:29:26,380
+And this is when we see our
+MCV of under 80, and this
+
+556
+00:29:26,380 --> 00:29:29,720
+is also where we see our
+RDW increase. And this is
+
+557
+00:29:29,720 --> 00:29:32,660
+because when you think about
+it, these normocytic cells
+
+558
+00:29:32,660 --> 00:29:35,760
+in the early stages are
+around for about four months.
+
+559
+00:29:35,860 --> 00:29:39,100
+So when we move to
+a microcytic stage,
+
+560
+00:29:39,100 --> 00:29:41,400
+you're actually going to
+increase the variation
+
+561
+00:29:41,400 --> 00:29:44,440
+of sizes of the red
+blood cells. Some
+
+562
+00:29:44,440 --> 00:29:46,540
+will be normocytic,
+some will be microcytic.
+
+563
+00:29:48,400 --> 00:29:50,320
+So our laboratory findings
+
+564
+00:29:50,320 --> 00:29:52,280
+for iron deficiency anemia.
+
+565
+00:29:52,540 --> 00:29:55,680
+Again, we're going to see
+our MCV under 80 in the
+
+566
+00:29:55,680 --> 00:29:59,580
+later stages. This again is
+a microcytic anemia. On our
+
+567
+00:29:59,580 --> 00:30:02,480
+peripheral blood smear,
+we'll see microcytic and
+
+568
+00:30:02,480 --> 00:30:05,210
+hypochromic red blood cells.
+There's going to be less
+
+569
+00:30:05,210 --> 00:30:08,140
+pigmentation due to less
+hemoglobin, and we spoke about
+
+570
+00:30:08,140 --> 00:30:11,080
+this already. We're going
+to see ferritin decrease,
+
+571
+00:30:11,080 --> 00:30:13,540
+right? The cells are going
+to go through all of their
+
+572
+00:30:13,540 --> 00:30:17,260
+iron stores to try and
+recruit more iron. The TIBC
+
+573
+00:30:17,260 --> 00:30:20,640
+is going to increase, and
+this is because the liver is
+
+574
+00:30:20,640 --> 00:30:22,980
+going to produce more
+transferrin in an attempt to
+
+575
+00:30:22,980 --> 00:30:26,380
+recruit more iron from the
+GI system into the plasma
+
+576
+00:30:26,380 --> 00:30:29,360
+and eventually into the
+cells. Our percent saturation
+
+577
+00:30:29,360 --> 00:30:31,940
+of transferrin will decrease
+and again this is just
+
+578
+00:30:31,940 --> 00:30:35,680
+simple math. We decrease our
+CRM iron, we increase our
+
+579
+00:30:35,680 --> 00:30:38,760
+TIBC, we're going to drop
+that percent saturation.
+
+580
+00:30:39,320 --> 00:30:42,260
+Free erythrocyte
+protoporphyrin, again
+
+581
+00:30:42,260 --> 00:30:45,980
+protoporphyrin combines
+with iron to create heme. If
+
+582
+00:30:45,980 --> 00:30:48,480
+we lose iron but we can
+make our protoporphyrin
+
+583
+00:30:48,480 --> 00:30:50,180
+fine, we're actually
+going to have a backlog
+
+584
+00:30:50,180 --> 00:30:53,480
+of reactants, a backlog
+of protoporphyrin.
+
+585
+00:30:54,240 --> 00:30:57,220
+And finally, RDW is
+going to increase,
+
+586
+00:30:57,220 --> 00:30:58,880
+and this is again
+due to the increased
+
+587
+00:30:58,880 --> 00:31:01,540
+mixings of sizes of
+the red blood cells.
+
+588
+00:31:03,900 --> 00:31:07,040
+So, the clinical features
+of iron deficiency, they
+
+589
+00:31:07,040 --> 00:31:09,620
+include our nonspecific
+symptoms of anemia, such as
+
+590
+00:31:09,620 --> 00:31:13,160
+fatigue, malaise, dyspnea.
+We also have some specific
+
+591
+00:31:13,160 --> 00:31:17,120
+symptoms, such as PICA, which
+is the desire to eat non
+
+592
+00:31:17,450 --> 00:31:20,840
+-nutritive substances, such
+as ice, clay, and dirt.
+
+593
+00:31:21,820 --> 00:31:24,500
+Coilinicchia, which is also
+known as spoon nails, which
+
+594
+00:31:24,500 --> 00:31:27,480
+are these thin, concave nails
+that may resemble spoons,
+
+595
+00:31:27,580 --> 00:31:30,780
+alopecia, which is hair
+loss, angular chelitis,
+
+596
+00:31:30,780 --> 00:31:33,460
+which are lesions at the
+corner of the mouth, but this,
+
+597
+00:31:33,460 --> 00:31:36,000
+again, is not necessarily
+specific to iron deficiency.
+
+598
+00:31:36,020 --> 00:31:39,540
+You can see CNS symptoms,
+such as restless leg syndrome,
+
+599
+00:31:39,640 --> 00:31:42,280
+and more kind of buzzwordy
+ones, conjunctival
+
+600
+00:31:42,280 --> 00:31:45,300
+pallor, and finally, you can
+see something called Plummer
+
+601
+00:31:45,300 --> 00:31:48,460
+-Vizin syndrome, which is
+a triad of iron deficiency
+
+602
+00:31:48,460 --> 00:31:52,100
+anemia, esophageal webs,
+and atrophic loussitis.
+
+603
+00:31:55,200 --> 00:31:57,780
+So our next microcytic
+anemia that we are
+
+604
+00:31:57,780 --> 00:32:00,180
+going to discuss is
+anemia of chronic disease.
+
+605
+00:32:00,560 --> 00:32:03,620
+So in anemia of chronic
+disease, it's usually
+
+606
+00:32:03,620 --> 00:32:06,500
+associated with some
+chronic inflammatory or
+
+607
+00:32:06,500 --> 00:32:09,760
+disease process, and it's
+very common, actually
+
+608
+00:32:09,760 --> 00:32:12,200
+the most common in any
+hospitalized patient.
+
+609
+00:32:12,940 --> 00:32:15,980
+the pathophysiology is
+usually due to inflammatory
+
+610
+00:32:15,980 --> 00:32:19,600
+mediators such as interleukin
+-6 being released in
+
+611
+00:32:19,600 --> 00:32:23,180
+inflammation or infection
+type reactions and it will
+
+612
+00:32:23,180 --> 00:32:25,620
+limit the free iron via
+an increase in hepcidin
+
+613
+00:32:25,620 --> 00:32:28,720
+production and remember we
+talked about hepcidin a little
+
+614
+00:32:28,720 --> 00:32:32,000
+bit before it will block
+ferroportin so decreasing
+
+615
+00:32:32,000 --> 00:32:34,600
+the amount of iron coming
+in it also limits the
+
+616
+00:32:34,600 --> 00:32:37,200
+iron transfer from
+macrophages to the erythroid
+
+617
+00:32:37,200 --> 00:32:40,860
+precursor cells and it also
+suppresses EPO production.
+
+618
+00:32:41,120 --> 00:32:44,560
+And again, this is all a
+response to inflammation,
+
+619
+00:32:44,560 --> 00:32:46,580
+which is usually,
+and this response is
+
+620
+00:32:46,580 --> 00:32:49,900
+an evolutionary trait,
+as bacteria need iron
+
+621
+00:32:49,900 --> 00:32:52,400
+for survival. The
+bodies realize this and
+
+622
+00:32:52,400 --> 00:32:55,460
+actually is attempted to
+limit bacterial growth.
+
+623
+00:32:55,800 --> 00:32:58,820
+And iron in response
+is locked away
+
+624
+00:32:58,820 --> 00:33:00,500
+in the macrophages
+of the bone marrow.
+
+625
+00:33:00,680 --> 00:33:03,480
+Your labs for anemia of
+chronic disease will include
+
+626
+00:33:03,480 --> 00:33:07,420
+a decrease in TIPC because
+our iron stores are really
+
+627
+00:33:07,420 --> 00:33:10,360
+high already. Ferritin
+will be increased, and this
+
+628
+00:33:10,360 --> 00:33:12,840
+is because we're holding
+on to more iron in the bone
+
+629
+00:33:12,840 --> 00:33:16,620
+marrow. Our percent saturation
+will decrease because
+
+630
+00:33:16,620 --> 00:33:19,500
+we have less iron in
+circulation, and our serum iron
+
+631
+00:33:19,500 --> 00:33:21,780
+is also going to be
+decreased because the iron is
+
+632
+00:33:21,780 --> 00:33:24,900
+now sequestered in the bone.
+We don't want it circulating
+
+633
+00:33:24,900 --> 00:33:27,720
+in the plasma because
+that's where the bacteria
+
+634
+00:33:27,720 --> 00:33:30,720
+could potentially get it,
+and the treatment is usually
+
+635
+00:33:30,720 --> 00:33:32,800
+to treat the underlying
+disease or inflammation.
+
+636
+00:33:35,380 --> 00:33:38,560
+So anemia of chronic disease
+and iron deficiency can
+
+637
+00:33:38,560 --> 00:33:41,460
+kind of present similarly
+with their symptoms, and
+
+638
+00:33:41,460 --> 00:33:45,200
+it's actually a very big
+question on exams, both
+
+639
+00:33:45,200 --> 00:33:48,120
+in-house and on your boards,
+about how to differentiate
+
+640
+00:33:48,120 --> 00:33:51,340
+between these two on
+iron studies. So again, I
+
+641
+00:33:51,340 --> 00:33:53,220
+want you guys to think
+about the underlying
+
+642
+00:33:53,270 --> 00:33:57,010
+pathophysiology processes. If
+we can think of iron deficiency
+
+643
+00:33:57,010 --> 00:33:59,920
+as just simply we don't
+have enough iron, and
+
+644
+00:33:59,920 --> 00:34:02,440
+you understand how the body
+will respond, it actually
+
+645
+00:34:02,440 --> 00:34:05,000
+becomes very easy. Then
+you can think about anemia
+
+646
+00:34:05,000 --> 00:34:07,060
+of chronic disease, and
+it's almost the opposite.
+
+647
+00:34:07,180 --> 00:34:10,560
+So, with that being said,
+when we see iron deficiency
+
+648
+00:34:10,560 --> 00:34:13,900
+anemia, we're going to have
+low iron stores, aka low
+
+649
+00:34:13,900 --> 00:34:18,040
+ferritin, and high total iron
+binding capacity, or high
+
+650
+00:34:18,040 --> 00:34:21,120
+transferrin. In anemia of
+chronic disease, we have
+
+651
+00:34:21,120 --> 00:34:24,280
+the opposite, right? We put
+all of our iron in the bone
+
+652
+00:34:24,280 --> 00:34:27,100
+marrow. Because of that
+we're going to decrease our
+
+653
+00:34:27,100 --> 00:34:30,220
+TIBC because we already have
+enough iron in our stores.
+
+654
+00:34:30,680 --> 00:34:33,510
+And again please just don't
+just memorize your lab
+
+655
+00:34:33,510 --> 00:34:36,580
+values. I know you have
+a lot on your plate so if
+
+656
+00:34:36,580 --> 00:34:38,500
+you have the time to kind
+of rationalize through
+
+657
+00:34:38,500 --> 00:34:41,160
+these values it really
+helps a lot down the road.
+
+658
+00:34:42,400 --> 00:34:45,100
+Our next microcytic
+anemia is going to be
+
+659
+00:34:45,100 --> 00:34:47,620
+citeroblastic anemia
+and also lead poisoning.
+
+660
+00:34:51,000 --> 00:34:55,340
+So in citeroblastic anemia
+we still have an issue with
+
+661
+00:34:55,340 --> 00:34:57,860
+heme synthesis but it's
+no longer the issue with
+
+662
+00:34:57,860 --> 00:35:01,020
+iron right our iron which
+you can see down here in this
+
+663
+00:35:01,020 --> 00:35:04,680
+nice picture of the pathway
+is not an issue it's
+
+664
+00:35:04,680 --> 00:35:08,140
+actually now with the
+protoporphyrin synthesis and heme
+
+665
+00:35:08,140 --> 00:35:10,680
+is actually generated in
+both the mitochondria and the
+
+666
+00:35:10,680 --> 00:35:14,240
+cytoplasm this process goes
+through both and through
+
+667
+00:35:14,240 --> 00:35:16,640
+this process there are
+four specific enzymes and
+
+668
+00:35:16,640 --> 00:35:19,840
+reactions that are important
+so the first one is amino
+
+669
+00:35:19,840 --> 00:35:23,820
+level unic acid synthetase
+which converts succinyl-CoA
+
+670
+00:35:23,820 --> 00:35:27,410
+to aminolevallunic acid
+with the help of vitamin B6.
+
+671
+00:35:27,410 --> 00:35:29,740
+This enzyme also
+moves the reaction
+
+672
+00:35:29,740 --> 00:35:32,300
+from the mitochondria
+to the cytoplasm.
+
+673
+00:35:33,420 --> 00:35:37,980
+The second enzyme,
+aminolevallunic acid dehydratase,
+
+674
+00:35:37,980 --> 00:35:41,860
+converts aminolevallunic
+acid to porphobilinogen.
+
+675
+00:35:41,860 --> 00:35:46,220
+This eventually will come
+down the line and this
+
+676
+00:35:46,320 --> 00:35:49,140
+porphobilogen will be
+converted to protoporphyrin and
+
+677
+00:35:49,140 --> 00:35:53,180
+transported back into the
+mitochondria. My apologies.
+
+678
+00:35:53,660 --> 00:35:56,940
+At this point, ferroketolase
+will come along and
+
+679
+00:35:56,940 --> 00:35:59,980
+be the final aspect of
+this pathway, attaching
+
+680
+00:35:59,980 --> 00:36:03,300
+iron, which we see here,
+to our protoporphyrin. And
+
+681
+00:36:03,300 --> 00:36:05,660
+these three key enzymes
+are the usual major
+
+682
+00:36:05,660 --> 00:36:09,440
+suspects of why there will
+be a cytoplastic anemia.
+
+683
+00:36:10,420 --> 00:36:13,980
+So again, the pathophysiology
+is actually defective
+
+684
+00:36:13,980 --> 00:36:17,160
+protoporphyrin synthesis.
+The issue still relies on
+
+685
+00:36:17,160 --> 00:36:19,880
+making heme, but it's no
+longer an issue of iron.
+
+686
+00:36:19,880 --> 00:36:21,370
+And there are a few
+different causes.
+
+687
+00:36:21,480 --> 00:36:23,440
+It could be a
+congenital defect.
+
+688
+00:36:23,440 --> 00:36:26,690
+Usually the most common
+defect is in aminolevallunic
+
+689
+00:36:26,690 --> 00:36:29,700
+acid synthase, which
+is an X-linked trait.
+
+690
+00:36:30,300 --> 00:36:32,840
+Acquired causes
+include alcoholism,
+
+691
+00:36:32,840 --> 00:36:35,480
+which poisons the
+mitochondria, lead,
+
+692
+00:36:35,480 --> 00:36:37,340
+which inhibits ALAD
+and ferroketolase,
+
+693
+00:36:37,560 --> 00:36:41,000
+and also vitamin B6 deficiency,
+which again is needed
+
+694
+00:36:41,000 --> 00:36:45,040
+for aminolevallunic acid
+synthase. and this is commonly
+
+695
+00:36:45,040 --> 00:36:47,220
+seen as a side effect of
+tuberculosis treatment,
+
+696
+00:36:47,220 --> 00:36:51,940
+so with the antibiotic
+isoniazid. So again, if you
+
+697
+00:36:51,940 --> 00:36:55,960
+hear the buzzwords, tuberculosis
+patients, cyroblastic
+
+698
+00:36:55,960 --> 00:36:59,400
+anemia, start thinking
+maybe this is B6 deficiency.
+
+699
+00:37:01,020 --> 00:37:05,380
+So lead poisoning is another
+kind of cause of cyroblastic
+
+700
+00:37:05,380 --> 00:37:07,680
+anemia, but it's also a
+little bit more specific.
+
+701
+00:37:07,800 --> 00:37:11,880
+So lead will inhibit two
+different aspects of the
+
+702
+00:37:11,880 --> 00:37:16,380
+pathway. So it inhibits
+ferroketolase and aminolabalunic
+
+703
+00:37:16,380 --> 00:37:19,100
+acid dehydratase, which is
+the last step and second
+
+704
+00:37:19,100 --> 00:37:22,600
+step. We're going to see a
+decrease in heme synthesis and
+
+705
+00:37:22,600 --> 00:37:25,880
+an increase in red blood
+cell protoporphyrin. Again,
+
+706
+00:37:25,880 --> 00:37:29,720
+we can make the protoporphyrin,
+but it can't be attached
+
+707
+00:37:29,720 --> 00:37:32,640
+to the iron because
+that's the last step where
+
+708
+00:37:32,640 --> 00:37:37,980
+ferroketolase comes into play.
+It also inhibits ribosomal
+
+709
+00:37:38,120 --> 00:37:41,740
+RNA degradation, which
+causes basophilic stippling.
+
+710
+00:37:42,340 --> 00:37:45,580
+Essentially, lead denatures
+ribonuclease, which
+
+711
+00:37:45,580 --> 00:37:48,380
+helps break down ribosomes.
+If we can't break down
+
+712
+00:37:48,380 --> 00:37:51,200
+our ribosomes, you'll have
+the ribosomal RNA remain
+
+713
+00:37:51,200 --> 00:37:54,040
+in the cells, which causes
+basophilic stippling.
+
+714
+00:37:54,040 --> 00:37:57,420
+Don't worry too much
+about the pathophys behind
+
+715
+00:37:57,420 --> 00:38:00,580
+why the basophilic stippling
+occurs, but I always
+
+716
+00:38:00,580 --> 00:38:02,840
+like to just include it
+for completion's sake.
+
+717
+00:38:03,100 --> 00:38:05,880
+so the symptoms of lead
+poisoning is actually
+
+718
+00:38:05,880 --> 00:38:10,780
+pretty nice with this mnemonic
+lead so it starts with
+
+719
+00:38:10,780 --> 00:38:13,340
+lead lines on the gingivate
+and the metiphysis
+
+720
+00:38:13,340 --> 00:38:16,230
+of the long bones could you
+could have encephalopathy
+
+721
+00:38:16,230 --> 00:38:18,960
+which is just confusion
+as well as erythrocyte
+
+722
+00:38:18,960 --> 00:38:21,120
+basophilic stippling
+which we just spoke about
+
+723
+00:38:21,120 --> 00:38:23,880
+you could have abdominal
+colic and citeroblastic
+
+724
+00:38:23,880 --> 00:38:27,120
+anemia and you also have
+wrist drop and foot drop
+
+725
+00:38:27,780 --> 00:38:30,740
+and your exposures when
+you think about it usually
+
+726
+00:38:30,740 --> 00:38:33,840
+children in older houses i
+don't know why a lot of test
+
+727
+00:38:33,840 --> 00:38:36,080
+questions kind of push
+towards this i don't know how
+
+728
+00:38:36,080 --> 00:38:39,260
+many houses have lead paint
+at this point but typically
+
+729
+00:38:39,260 --> 00:38:43,250
+if you see a clinical
+vignette where the child
+
+730
+00:38:43,250 --> 00:38:46,830
+you know the family moved
+into a house from the 1930s
+
+731
+00:38:47,610 --> 00:38:51,920
+1970s 60s and they're now
+presenting with lead poisoning
+
+732
+00:38:51,920 --> 00:38:54,300
+type symptoms start
+thinking about oh maybe this
+
+733
+00:38:54,300 --> 00:38:57,080
+is the issue and then an
+adult you could think about
+
+734
+00:38:57,080 --> 00:39:00,540
+occupation hazards i personally
+have never tried lead
+
+735
+00:39:00,540 --> 00:39:03,420
+but according to this
+advertisement from probably like
+
+736
+00:39:03,420 --> 00:39:09,520
+1910 they're very yummy
+so cytooblastic anemia lab
+
+737
+00:39:09,520 --> 00:39:13,480
+findings again our mcv is
+under 80. total iron binding
+
+738
+00:39:13,480 --> 00:39:16,560
+capacity is going to be
+low we have all the iron
+
+739
+00:39:16,560 --> 00:39:20,190
+we need our issues no longer
+in iron depletion or iron
+
+740
+00:39:20,190 --> 00:39:22,980
+storage, right? Our ferritin
+is going to be high,
+
+741
+00:39:22,980 --> 00:39:25,620
+therefore our TIBC will be
+low because we're producing
+
+742
+00:39:25,620 --> 00:39:29,200
+less transparent. Our percent
+saturation, again high,
+
+743
+00:39:29,200 --> 00:39:32,440
+we're in a general iron
+overload state. And again,
+
+744
+00:39:32,440 --> 00:39:34,140
+because we're iron overloaded,
+we're going to have an
+
+745
+00:39:34,140 --> 00:39:37,520
+increase in serum iron. And
+just to reiterate this one
+
+746
+00:39:37,520 --> 00:39:41,040
+more time, this is not an
+issue of iron. We are in
+
+747
+00:39:41,040 --> 00:39:44,580
+iron overload. Our issue
+relies on the protoporphyrin
+
+748
+00:39:44,580 --> 00:39:47,620
+production. We have enough
+iron to create the heme.
+
+749
+00:39:48,620 --> 00:39:52,320
+So for our cyderoblastic
+anemia findings on bone marrow
+
+750
+00:39:52,320 --> 00:39:55,640
+aspirate we see ring
+cyderoblasts that only appear
+
+751
+00:39:55,640 --> 00:39:58,900
+with prussian blue stains
+and this is due to just
+
+752
+00:39:58,900 --> 00:40:02,010
+overall excess iron
+accumulating in the perinuclear
+
+753
+00:40:02,010 --> 00:40:05,280
+mitochondria and you need a
+prussian blue stain to see
+
+754
+00:40:05,280 --> 00:40:07,840
+this and again this is
+only seen on bone marrow
+
+755
+00:40:07,840 --> 00:40:11,500
+aspirate not in a peripheral
+blood smear. On blood smear
+
+756
+00:40:11,500 --> 00:40:13,640
+you're going to see the
+basophilic stippling of the
+
+757
+00:40:13,640 --> 00:40:16,500
+red blood cells and this is
+again due to the aggregates
+
+758
+00:40:16,500 --> 00:40:19,440
+of the residual ribosomes
+and the ribosomal RNA.
+
+759
+00:40:19,800 --> 00:40:22,140
+And this is again
+seen on normal right
+
+760
+00:40:22,140 --> 00:40:24,260
+giezma peripheral
+blood smear staining.
+
+761
+00:40:25,220 --> 00:40:29,320
+Our final microcytic anemia
+will be thalassemias.
+
+762
+00:40:31,940 --> 00:40:35,640
+So thalassemia is an anemia
+due to a decreased synthesis
+
+763
+00:40:35,640 --> 00:40:39,080
+in the globin chains of
+hemoglobin. We now have an
+
+764
+00:40:39,080 --> 00:40:41,800
+issue with the other aspect
+of hemoglobin, right? We
+
+765
+00:40:41,800 --> 00:40:44,460
+talked about our issues with
+production of heme through
+
+766
+00:40:44,460 --> 00:40:47,560
+protoporphyrin or maybe iron
+loss and now we're talking
+
+767
+00:40:47,560 --> 00:40:51,380
+about our globin issues
+and in a normal hemoglobin
+
+768
+00:40:51,380 --> 00:40:54,980
+cell you have two beta chains
+and two alpha chains as
+
+769
+00:40:54,980 --> 00:40:59,480
+your globins and in the past
+you know this was typically
+
+770
+00:40:59,480 --> 00:41:02,660
+an inherited mutation and
+this had some evolutionary
+
+771
+00:41:02,660 --> 00:41:07,120
+benefit as a asymptomatic
+mutation of some of these
+
+772
+00:41:07,120 --> 00:41:09,520
+globin chains actually he'll
+protect against malaria.
+
+773
+00:41:10,380 --> 00:41:13,380
+Thalassemias are separated
+into alpha thalassemia
+
+774
+00:41:13,380 --> 00:41:16,380
+and beta thalassemia, and
+they're based and named
+
+775
+00:41:16,380 --> 00:41:19,480
+off of the globin that is
+decreased in production,
+
+776
+00:41:19,800 --> 00:41:22,440
+right? So alpha thalassemia
+will have decreased
+
+777
+00:41:22,440 --> 00:41:25,420
+alpha globin, and beta
+thalassemia will have decreased
+
+778
+00:41:25,420 --> 00:41:28,220
+beta globin. And the
+body will react to the
+
+779
+00:41:28,220 --> 00:41:30,720
+decrease in one globin
+chain, usually by increasing
+
+780
+00:41:30,720 --> 00:41:34,200
+production of others. So
+you could also see unbound
+
+781
+00:41:34,200 --> 00:41:36,580
+alpha and beta chains
+precipitate within the red
+
+782
+00:41:36,580 --> 00:41:39,600
+blood cells and this is
+because if we lose all of
+
+783
+00:41:39,600 --> 00:41:42,100
+our beta globin production
+the body's going to try
+
+784
+00:41:42,100 --> 00:41:44,400
+and produce more alpha
+globin to try and compensate
+
+785
+00:41:44,400 --> 00:41:47,940
+but these unbound alpha
+globins actually will
+
+786
+00:41:47,940 --> 00:41:50,660
+precipitate and cause damage
+to the cell and decrease
+
+787
+00:41:50,660 --> 00:41:54,260
+cell production and
+lifespan you could also see
+
+788
+00:41:54,260 --> 00:41:57,280
+membrane alterations
+increasing the risk of rupture
+
+789
+00:41:57,580 --> 00:42:00,180
+on your peripheral blood
+smear you're going to see
+
+790
+00:42:00,180 --> 00:42:04,540
+target cells and this is
+just essentially due to an
+
+791
+00:42:04,540 --> 00:42:09,120
+increase in total surface
+area and a decrease in volume,
+
+792
+00:42:09,260 --> 00:42:11,980
+right? We have less
+hemoglobin. We can produce less
+
+793
+00:42:11,980 --> 00:42:14,180
+hemoglobin. You're going
+to see these target
+
+794
+00:42:14,180 --> 00:42:17,600
+cells. You also may see
+nucleated red blood cells
+
+795
+00:42:17,600 --> 00:42:20,480
+just in an attempt for the
+bone marrow to throw out
+
+796
+00:42:20,480 --> 00:42:23,680
+very, very immature red
+blood cells to try and get
+
+797
+00:42:23,680 --> 00:42:26,660
+them out. And as you
+can recall, our immature
+
+798
+00:42:26,660 --> 00:42:29,620
+erythroid precursor cells
+still have their nucleus.
+
+799
+00:42:29,980 --> 00:42:33,280
+Our lab findings, you
+typically will see a
+
+800
+00:42:33,280 --> 00:42:36,560
+very low MCV. If you
+see a MCV less than
+
+801
+00:42:36,560 --> 00:42:38,700
+70, some alarm bells
+should be going off in
+
+802
+00:42:38,700 --> 00:42:40,650
+your head that maybe
+this is thalassemia.
+
+803
+00:42:40,780 --> 00:42:44,220
+That does not mean that it
+cannot be greater than 70.
+
+804
+00:42:44,660 --> 00:42:46,840
+And also, your red
+blood cell count
+
+805
+00:42:46,840 --> 00:42:49,150
+could be normal in
+a mild thalassemia.
+
+806
+00:42:52,180 --> 00:42:55,420
+So, just very briefly,
+I want to review the
+
+807
+00:42:55,420 --> 00:42:58,300
+hemoglobin configurations.
+We have four types of
+
+808
+00:42:58,300 --> 00:43:01,320
+globin chains, alpha,
+beta, gamma, and delta.
+
+809
+00:43:01,580 --> 00:43:05,160
+In a normal adult, we see
+mostly HbA, which is 2
+
+810
+00:43:05,160 --> 00:43:08,480
+alpha, 2 beta. We see a
+little bit of HbA2, which
+
+811
+00:43:08,480 --> 00:43:11,020
+is 2 alpha, 2 delta.
+And then you could also
+
+812
+00:43:11,020 --> 00:43:14,340
+have hemoglobin F, which
+you see a lot more in fetal
+
+813
+00:43:15,120 --> 00:43:18,300
+hemoglobin smears, which
+is 2 alpha, 2 gamma.
+
+814
+00:43:18,540 --> 00:43:21,040
+All of these have
+two alpha chains, the
+
+815
+00:43:21,040 --> 00:43:22,760
+one commonality
+between all of them.
+
+816
+00:43:23,380 --> 00:43:27,500
+So in alpha thalassemia, the
+alpha chain is the issue.
+
+817
+00:43:27,500 --> 00:43:30,900
+We usually see gene deletions
+in alpha thalassemia,
+
+818
+00:43:30,900 --> 00:43:33,340
+so therefore we have a
+decrease in alpha chain
+
+819
+00:43:33,340 --> 00:43:36,340
+production. There are four
+alpha genes present on
+
+820
+00:43:36,340 --> 00:43:40,000
+chromosome 16, if you can
+see here, kind of these four.
+
+821
+00:43:40,720 --> 00:43:43,700
+As the number of gene deletions
+increase, the severity
+
+822
+00:43:43,700 --> 00:43:47,180
+of the thalassemia also
+increases, and it's usually
+
+823
+00:43:47,180 --> 00:43:50,280
+mostly prevalent in the Asian
+and African populations.
+
+824
+00:43:51,260 --> 00:43:55,220
+So there are four separate
+types of alpha thalassemia.
+
+825
+00:43:55,220 --> 00:43:58,740
+The first one is minima,
+one gene deletion. These
+
+826
+00:43:58,740 --> 00:44:03,640
+usually are asymptomatic or
+silent carriers. Alpha thalassemia
+
+827
+00:44:03,640 --> 00:44:07,410
+minor, two gene deletions,
+is usually a mild
+
+828
+00:44:07,410 --> 00:44:10,440
+microcytic anemia with an
+increase in red blood cells. And
+
+829
+00:44:10,440 --> 00:44:13,260
+you can see two different
+types of this type of deletion.
+
+830
+00:44:13,260 --> 00:44:15,660
+You could have the cyst
+deletion, meaning the
+
+831
+00:44:15,660 --> 00:44:20,600
+deletion is lost on the same
+gene, and this actually has
+
+832
+00:44:20,600 --> 00:44:24,000
+an increased rate of a severe
+anemia in the offspring,
+
+833
+00:44:24,000 --> 00:44:27,000
+right, because the offspring
+will receive one of these
+
+834
+00:44:27,000 --> 00:44:31,220
+two genes, and if it receives
+the gene with no alpha
+
+835
+00:44:31,220 --> 00:44:34,400
+chains or alpha globin genes,
+then there's a risk for a
+
+836
+00:44:34,400 --> 00:44:38,520
+higher rate of a severe
+thalassemia. The trans deletions,
+
+837
+00:44:38,520 --> 00:44:41,520
+you have a gene deleted
+on each copy of the gene.
+
+838
+00:44:41,640 --> 00:44:44,020
+The cis is usually
+more common in the
+
+839
+00:44:44,020 --> 00:44:45,750
+Asian population,
+while the trans
+
+840
+00:44:45,750 --> 00:44:47,530
+deletion is more
+common in the African.
+
+841
+00:44:48,100 --> 00:44:53,400
+Three alpha chains or alpha
+globin losses is hemoglobin
+
+842
+00:44:53,400 --> 00:44:56,080
+H disease, and this is when
+you start to see excess
+
+843
+00:44:56,080 --> 00:44:59,340
+beta globin form the tetramers,
+right? The bodies can
+
+844
+00:44:59,340 --> 00:45:02,000
+try and produce more beta
+globin to try and account for
+
+845
+00:45:02,000 --> 00:45:04,260
+this drop in alpha globin,
+and you're going to start
+
+846
+00:45:04,260 --> 00:45:07,740
+to see this precipitation of
+these beta You're going to
+
+847
+00:45:07,740 --> 00:45:10,860
+see hemoglobin H seen on
+electrophoresis, which is
+
+848
+00:45:10,860 --> 00:45:13,540
+just four beta globins. And
+finally, you're going to see
+
+849
+00:45:13,540 --> 00:45:17,380
+hemoglobin BARTs, which is
+no alpha globin chains. You
+
+850
+00:45:17,380 --> 00:45:21,200
+now have gamma tetromers
+form in utero, right? Because
+
+851
+00:45:21,200 --> 00:45:25,340
+when we produce our HBF in
+utero, we no longer have
+
+852
+00:45:25,340 --> 00:45:27,280
+alpha chains, so we're
+going to have our four gamma
+
+853
+00:45:27,280 --> 00:45:31,560
+chains. This, unfortunately,
+is very sad. It is incompatible
+
+854
+00:45:31,560 --> 00:45:35,980
+with life, and HBBARTs is
+seen on electrophoresis.
+
+855
+00:45:37,420 --> 00:45:40,360
+So beta thalassemia
+is now issues
+
+856
+00:45:40,360 --> 00:45:42,540
+with the beta chain.
+Our beta chain is
+
+857
+00:45:42,540 --> 00:45:45,060
+not produced due
+to gene mutations.
+
+858
+00:45:45,060 --> 00:45:47,780
+This is in contrast
+to the gene deletions
+
+859
+00:45:47,780 --> 00:45:49,430
+that we see in
+alpha thalassemia.
+
+860
+00:45:50,280 --> 00:45:54,100
+This results in an
+absent beta chain or
+
+861
+00:45:54,100 --> 00:45:56,660
+diminished beta chain,
+which are denoted by the B
+
+862
+00:45:56,660 --> 00:46:00,040
+sub 0 or B sub plus in
+the beta globin chain.
+
+863
+00:46:00,200 --> 00:46:03,460
+Again, we have two genes
+present of the beta globin
+
+864
+00:46:03,460 --> 00:46:06,850
+on chromosome 11, and
+again similarly to alpha
+
+865
+00:46:06,850 --> 00:46:09,920
+thalassemia as we increase
+the number of deletions the
+
+866
+00:46:09,920 --> 00:46:12,780
+severity of thalassemia
+increases and we see the
+
+867
+00:46:12,780 --> 00:46:15,880
+prevalence more in mediterranean
+and african populations
+
+868
+00:46:16,920 --> 00:46:20,600
+beta thalassemia minor
+is the milder form you
+
+869
+00:46:20,600 --> 00:46:23,160
+usually have a mutation
+on one gene it's usually
+
+870
+00:46:23,160 --> 00:46:26,200
+asymptomatic with increased
+red blood cell counts and
+
+871
+00:46:26,200 --> 00:46:29,600
+it's due to decreased
+beta globin you could see
+
+872
+00:46:29,600 --> 00:46:33,330
+some delta globin
+produced creating the hba2
+
+873
+00:46:33,330 --> 00:46:35,880
+hemoglobin but this again
+doesn't really cause any severe
+
+874
+00:46:35,880 --> 00:46:39,050
+issues, but you will
+see an increase in HbA2.
+
+875
+00:46:39,370 --> 00:46:40,940
+These individuals, for the most
+
+876
+00:46:40,940 --> 00:46:43,000
+part, are okay
+and can live life.
+
+877
+00:46:43,460 --> 00:46:47,240
+Beta thalassemia intermedia
+is a variable anemia, and
+
+878
+00:46:47,240 --> 00:46:50,820
+then finally beta thalassemia
+major, my apologies, is
+
+879
+00:46:50,820 --> 00:46:54,380
+a mutation on both genes.
+There's no beta globin chains,
+
+880
+00:46:54,380 --> 00:46:57,790
+so you're going to see a
+drastic increase in HbA2
+
+881
+00:46:58,690 --> 00:47:00,640
+with the delta
+globin and the gamma
+
+882
+00:47:00,640 --> 00:47:02,760
+globin with HbF being produced.
+
+883
+00:47:03,740 --> 00:47:08,040
+So in beta thalassemia major,
+you're going to see both
+
+884
+00:47:08,040 --> 00:47:12,540
+these increases in HbA2
+and HbF. However, it won't
+
+885
+00:47:12,540 --> 00:47:15,920
+appear right away from
+birth. HbF, because we're not
+
+886
+00:47:15,920 --> 00:47:18,200
+using beta globins, are
+actually protective for the
+
+887
+00:47:18,200 --> 00:47:22,440
+first few months of their
+lives. But you will eventually
+
+888
+00:47:22,440 --> 00:47:25,060
+see the unpaired alpha
+chains precipitate and damage
+
+889
+00:47:25,060 --> 00:47:28,120
+red blood cell membranes,
+and you also see ineffective
+
+890
+00:47:28,120 --> 00:47:31,420
+collective erythropoiesis
+and extravascular hemolysis,
+
+891
+00:47:31,490 --> 00:47:33,900
+which is the removal of
+red blood cells by the
+
+892
+00:47:33,900 --> 00:47:37,140
+spleen because they are just
+not being transferred well.
+
+893
+00:47:37,460 --> 00:47:40,140
+You're also going to see
+erythroid hyperplasia, so
+
+894
+00:47:40,140 --> 00:47:42,620
+that's expansion of red
+blood cell production into
+
+895
+00:47:42,620 --> 00:47:44,760
+the skull and the facial
+bones. The bone marrow
+
+896
+00:47:44,760 --> 00:47:47,740
+is scrambling to try and
+produce more red blood cells
+
+897
+00:47:47,740 --> 00:47:49,980
+because the hemoglobin
+really can't be produced
+
+898
+00:47:49,980 --> 00:47:52,640
+well, so it's going to
+go into any bone it can.
+
+899
+00:47:52,640 --> 00:47:55,420
+You're going to see this
+crew cut and chipmunk facies,
+
+900
+00:47:55,420 --> 00:47:57,340
+and here's your crew cut
+and here's your chipmunk
+
+901
+00:47:57,340 --> 00:48:00,040
+facies, You're also going
+to see extramedullary
+
+902
+00:48:00,620 --> 00:48:02,860
+hematopoiesis. So again,
+we're going to start
+
+903
+00:48:02,860 --> 00:48:05,340
+producing red blood cells
+in the spleen and the liver.
+
+904
+00:48:05,600 --> 00:48:07,380
+You also have a
+risk of aplastic
+
+905
+00:48:07,380 --> 00:48:09,280
+crisis with paravirus anemia.
+
+906
+00:48:09,540 --> 00:48:11,680
+Your peripheral blood
+smear, again, you're
+
+907
+00:48:11,680 --> 00:48:13,460
+going to see a microcytic
+hypochromic red
+
+908
+00:48:13,460 --> 00:48:15,560
+blood cells with target
+cells and nucleated
+
+909
+00:48:15,560 --> 00:48:17,880
+or very, very immature
+red blood cells.
+
+910
+00:48:18,360 --> 00:48:20,820
+Nucleated, again, is just
+another term for very
+
+911
+00:48:20,820 --> 00:48:23,920
+young red blood cells because
+remember, they lose their
+
+912
+00:48:23,920 --> 00:48:26,740
+nucleus as they develop
+in the bone marrow. and
+
+913
+00:48:26,740 --> 00:48:28,620
+treatment is usually
+chronic red blood cell
+
+914
+00:48:28,620 --> 00:48:32,040
+transfusions iron chelations
+and splenectomy but this is
+
+915
+00:48:32,040 --> 00:48:36,240
+a very severe disease
+here's your electrophoresis
+
+916
+00:48:36,240 --> 00:48:38,380
+i'm not going to go over
+each of these but if you
+
+917
+00:48:38,380 --> 00:48:41,240
+have any specific questions
+please feel free to reach
+
+918
+00:48:41,240 --> 00:48:49,700
+out and here's a simple
+algorithm so it is now
+
+919
+00:48:49,700 --> 00:48:51,940
+time for some questions i'm
+going to go through each
+
+920
+00:48:51,940 --> 00:48:53,840
+of them and then we'll
+talk about them together.
+
+921
+00:48:54,420 --> 00:48:55,600
+So question one,
+
+922
+00:48:56,280 --> 00:48:59,840
+a 57-year-old male presents
+to the ED after being
+
+923
+00:48:59,840 --> 00:49:03,300
+found unresponsive outside
+a liquor store. According
+
+924
+00:49:03,300 --> 00:49:05,080
+to previous records, this
+has happened at least
+
+925
+00:49:05,080 --> 00:49:07,980
+20 times. He's laying on
+the hospital bed. He has
+
+926
+00:49:07,980 --> 00:49:10,760
+IV fluid administration,
+potassium repletion.
+
+927
+00:49:10,760 --> 00:49:14,420
+They're all initiated. His
+vitals seem fairly normal.
+
+928
+00:49:14,500 --> 00:49:18,840
+His labs reveal an increase
+in AST, ALT, and GGT,
+
+929
+00:49:19,120 --> 00:49:22,180
+which are all markers
+for alcohol *****. His
+
+930
+00:49:22,180 --> 00:49:25,960
+hemoglobin is low, and his
+MCV is microcytic, so what do
+
+931
+00:49:25,960 --> 00:49:27,680
+we think we should be
+seeing on a peripheral blood
+
+932
+00:49:27,680 --> 00:49:31,540
+smear? Could we see
+hypersegmented neutrophils?
+
+933
+00:49:31,850 --> 00:49:33,580
+Probably not.
+That's going to be
+
+934
+00:49:33,580 --> 00:49:35,860
+seen more in
+macrocytic anemias.
+
+935
+00:49:36,080 --> 00:49:37,580
+Ring cytoarblasts,
+
+936
+00:49:37,800 --> 00:49:41,020
+okay, I'm actually thinking
+this is a cytoarblastic
+
+937
+00:49:41,020 --> 00:49:43,620
+anemia, right? This
+could be alcohol *****.
+
+938
+00:49:43,960 --> 00:49:46,660
+So maybe this is,
+you know, I know ring
+
+939
+00:49:46,660 --> 00:49:50,400
+cytoblasts are an issue
+in cytoblastic anemia.
+
+940
+00:49:50,400 --> 00:49:52,820
+Are we going to see
+macrocytes? I don't
+
+941
+00:49:52,820 --> 00:49:55,200
+think so. Are we going
+to see target cells?
+
+942
+00:49:55,600 --> 00:49:58,990
+Probably not. That actually
+has more to do with
+
+943
+00:49:59,110 --> 00:50:01,700
+thalassemias. So now
+we're left with basophilic
+
+944
+00:50:01,700 --> 00:50:04,060
+stippling and ring
+cytoblasts. Both are
+
+945
+00:50:04,060 --> 00:50:07,700
+things seen in cytoblastic
+anemia. However,
+
+946
+00:50:07,700 --> 00:50:10,300
+we're asking about
+peripheral blood smear here.
+
+947
+00:50:12,060 --> 00:50:15,320
+We see ring cytoroblasts
+on bone marrow
+
+948
+00:50:15,320 --> 00:50:17,580
+aspirate. So our
+correct answer is
+
+949
+00:50:17,580 --> 00:50:20,260
+going to be D,
+basophilic stippling.
+
+950
+00:50:21,520 --> 00:50:24,820
+So this question actually
+has two correct answers.
+
+951
+00:50:24,820 --> 00:50:26,800
+So we're going to go through
+it. Seven-year-old boy
+
+952
+00:50:26,800 --> 00:50:28,860
+is brought to the clinic
+by his mother, recently
+
+953
+00:50:28,860 --> 00:50:31,240
+immigrated from Italy,
+concerned because she's had a
+
+954
+00:50:31,240 --> 00:50:33,900
+blood disorder, wants to
+make sure her son is okay.
+
+955
+00:50:33,900 --> 00:50:36,300
+The father is healthy. The
+mother sometimes suffers
+
+956
+00:50:36,300 --> 00:50:38,700
+from mild fatigue, yellowing
+of the eyes, which are
+
+957
+00:50:38,700 --> 00:50:43,620
+signs of extravascular
+hemolysis, actually. Physical
+
+958
+00:50:43,620 --> 00:50:46,680
+exam's fine. CBC shows a
+low hemoglobin and a low
+
+959
+00:50:46,680 --> 00:50:50,100
+MCV. What type of hemoglobin
+is most likely to be
+
+960
+00:50:50,100 --> 00:50:53,840
+increased in this boy's
+electrophoresis? So, okay, he's
+
+961
+00:50:53,840 --> 00:50:57,120
+Italian. The mom has some
+signs of, like, fatigue,
+
+962
+00:50:57,120 --> 00:51:00,320
+anemia, maybe a little
+jaundice. I'm thinking maybe
+
+963
+00:51:00,320 --> 00:51:05,340
+this is the thalassemia,
+right? So what hemoglobins
+
+964
+00:51:05,340 --> 00:51:08,780
+are increased? We have a
+decrease in hemoglobin B,
+
+965
+00:51:09,060 --> 00:51:09,700
+right?
+
+966
+00:51:10,080 --> 00:51:12,960
+So are we going to see an
+increase in hemoglobin A,
+
+967
+00:51:12,960 --> 00:51:16,140
+which has two alpha and two
+beta chains? Probably not.
+
+968
+00:51:16,520 --> 00:51:17,960
+Will I see an increase with
+
+969
+00:51:17,960 --> 00:51:19,940
+hemoglobin F and hemoglobin A2?
+
+970
+00:51:20,460 --> 00:51:24,180
+Probably. So let's keep those
+open. How about hemoglobin
+
+971
+00:51:24,180 --> 00:51:27,340
+S? No, you'll learn that's
+in sickle cell disease
+
+972
+00:51:27,340 --> 00:51:31,080
+and hemoglobin C. again no
+you're going to see that's
+
+973
+00:51:31,080 --> 00:51:36,920
+in HBC disease. So our two
+correct answers again are
+
+974
+00:51:37,700 --> 00:51:42,220
+B and C hemoglobin F
+and hemoglobin A2 will
+
+975
+00:51:42,220 --> 00:51:44,580
+be increased. Again
+we're losing our beta
+
+976
+00:51:44,580 --> 00:51:48,090
+globins so we're going
+to go to our gamma chains
+
+977
+00:51:48,090 --> 00:51:52,140
+for hemoglobin F and
+our delta chains for
+
+978
+00:51:52,140 --> 00:51:55,640
+hemoglobin A2 that combine
+with hemoglobin A's.
+
+979
+00:51:56,120 --> 00:52:00,040
+Question 3. 59-year-old
+female, 20-year history of
+
+980
+00:52:00,040 --> 00:52:02,620
+rheumatoid arthritis,
+Hashimoto's, comes to the clinic
+
+981
+00:52:02,620 --> 00:52:05,740
+for recent exacerbations
+of her arthritis and also
+
+982
+00:52:05,740 --> 00:52:08,860
+now new-onset fatigue. She
+doesn't take her medications
+
+983
+00:52:08,860 --> 00:52:12,100
+consistently. Her physical
+exam is fairly unremarkable,
+
+984
+00:52:12,100 --> 00:52:15,800
+but the CBC shows anemia.
+Her MCV is low, and
+
+985
+00:52:15,800 --> 00:52:20,200
+her ESR, which is an acute
+inflammatory marker is 92,
+
+986
+00:52:20,200 --> 00:52:23,420
+which is very elevated. You
+order an iron study, which
+
+987
+00:52:23,420 --> 00:52:26,400
+lab findings will you
+most likely find? So first
+
+988
+00:52:26,400 --> 00:52:29,340
+off, what do we think this
+is? It's most likely anemia
+
+989
+00:52:29,340 --> 00:52:32,460
+of chronic disease, right?
+So in anemia of chronic
+
+990
+00:52:32,460 --> 00:52:36,420
+disease, we're going to see
+an increase in ferritin.
+
+991
+00:52:37,400 --> 00:52:41,480
+Our TIBC should be
+decreased, right? Because
+
+992
+00:52:41,480 --> 00:52:45,020
+our ferritin and TIBC
+usually go opposites. our
+
+993
+00:52:45,020 --> 00:52:47,040
+CRM iron is going to be
+decreased because we're
+
+994
+00:52:47,040 --> 00:52:48,920
+trying to keep all of
+it in the bone marrow,
+
+995
+00:52:48,920 --> 00:52:51,660
+and the percent saturation
+is also going to
+
+996
+00:52:51,660 --> 00:52:54,320
+be decreased because,
+again, we're losing our
+
+997
+00:52:54,320 --> 00:52:57,680
+CRM iron and we're
+increasing our TIPC, and
+
+998
+00:52:57,680 --> 00:53:01,300
+this percent saturation
+is CRM iron over TIPC.
+
+999
+00:53:01,680 --> 00:53:03,720
+And if you really
+want to think about it
+
+1000
+00:53:03,720 --> 00:53:06,220
+and play the game, you
+can't have an increase
+
+1001
+00:53:06,220 --> 00:53:08,780
+and decrease of
+ferritin in the same
+
+1002
+00:53:08,780 --> 00:53:11,820
+answer. So this answer
+choice is going to be
+
+1003
+00:53:13,040 --> 00:53:17,040
+C, an increase in
+ferritin. Again, we're
+
+1004
+00:53:17,040 --> 00:53:19,840
+driving all of the
+iron into our stores.
+
+1005
+00:53:21,020 --> 00:53:24,380
+Question four, a 67-year
+-old male presents to your
+
+1006
+00:53:24,380 --> 00:53:27,080
+office because he's been
+feeling fatigued, lost 15
+
+1007
+00:53:27,080 --> 00:53:30,260
+pounds in the last three
+months, 30-pack-year ******,
+
+1008
+00:53:30,260 --> 00:53:33,100
+drinks regularly. He's
+noticed ****** streaks in a
+
+1009
+00:53:33,100 --> 00:53:36,560
+stool. On physical exam, you
+note pale conjunctiva. The
+
+1010
+00:53:36,560 --> 00:53:39,820
+CBC shows a low hemoglobin
+and a microcytic anemia.
+
+1011
+00:53:39,820 --> 00:53:42,500
+What type of anemia is he
+most likely experiencing?
+
+1012
+00:53:43,610 --> 00:53:46,680
+Okay, so I need to read
+through this, right? We
+
+1013
+00:53:46,680 --> 00:53:49,260
+spoke about earlier, in
+elderly individuals, a
+
+1014
+00:53:49,260 --> 00:53:53,040
+very common sign of blood
+loss could be, you know,
+
+1015
+00:53:53,720 --> 00:53:55,120
+through the GI system.
+
+1016
+00:53:55,260 --> 00:53:58,930
+We see a loss of weight,
+15 pounds in three
+
+1017
+00:53:58,930 --> 00:54:00,250
+months, which is a
+little bit alarming,
+
+1018
+00:54:00,480 --> 00:54:03,760
+chronic ******, chronic
+drinker we could be thinking
+
+1019
+00:54:03,760 --> 00:54:07,000
+that maybe this is some
+form of colon cancer again
+
+1020
+00:54:07,080 --> 00:54:10,220
+colon cancer and blood
+loss is actually one of the
+
+1021
+00:54:10,220 --> 00:54:14,840
+driving causes of answer
+c iron deficiency anemia
+
+1022
+00:54:16,320 --> 00:54:18,880
+and anemia of chronic
+disease they really
+
+1023
+00:54:18,880 --> 00:54:20,620
+want to present with
+these symptoms you'd want
+
+1024
+00:54:20,620 --> 00:54:23,280
+to think someone who's
+more of a individual
+
+1025
+00:54:23,280 --> 00:54:26,200
+with you know chronic
+illness or infection
+
+1026
+00:54:26,480 --> 00:54:29,060
+Cytoroblastic anemia,
+you could make the kind
+
+1027
+00:54:29,060 --> 00:54:31,920
+of claim for drinks
+alcohol regularly, right?
+
+1028
+00:54:31,940 --> 00:54:33,360
+But when you read the ******
+
+1029
+00:54:33,360 --> 00:54:35,040
+streaks, pale conjunctiva,
+
+1030
+00:54:35,200 --> 00:54:38,040
+you kind of push you
+more towards blood loss.
+
+1031
+00:54:38,660 --> 00:54:40,580
+Thalassemia doesn't
+really present very
+
+1032
+00:54:40,580 --> 00:54:43,040
+similar here, right?
+Especially in a 67-year
+
+1033
+00:54:43,040 --> 00:54:45,060
+-old male, would this
+be the first time they
+
+1034
+00:54:45,060 --> 00:54:47,340
+present with thalassemia?
+Probably not.
+
+1035
+00:54:47,700 --> 00:54:48,860
+Lead poisoning,
+
+1036
+00:54:49,060 --> 00:54:51,800
+you know, the vignette
+doesn't describe
+
+1037
+00:54:51,800 --> 00:54:54,200
+any form of like
+potential exposure,
+
+1038
+00:54:54,200 --> 00:54:55,920
+so I kind of stay
+away from that.
+
+1039
+00:54:56,640 --> 00:54:59,560
+So, our last question,
+question 5, we have an 8
+
+1040
+00:54:59,560 --> 00:55:01,660
+-year-old boy who was
+adopted from China two
+
+1041
+00:55:01,660 --> 00:55:03,880
+years ago, brought into
+the office by his adopted
+
+1042
+00:55:03,880 --> 00:55:06,220
+mother for complaints of
+fatigue, abdominal pain,
+
+1043
+00:55:06,220 --> 00:55:08,540
+and bouts of confusion.
+His teacher has
+
+1044
+00:55:08,540 --> 00:55:10,820
+confirmed these same concerns
+that the mothers had.
+
+1045
+00:55:10,820 --> 00:55:12,660
+There's no available
+history in the
+
+1046
+00:55:12,660 --> 00:55:14,480
+patient's birth
+mother or father.
+
+1047
+00:55:14,480 --> 00:55:17,500
+Physical exam shows
+lines on the gingiva.
+
+1048
+00:55:17,580 --> 00:55:22,840
+The CBC is 72, MCV, and
+the iron study is the
+
+1049
+00:55:22,840 --> 00:55:27,600
+following. We have high
+serum iron, high ferritin,
+
+1050
+00:55:27,600 --> 00:55:31,340
+TIBC is low, and percent
+saturation is high.
+
+1051
+00:55:31,360 --> 00:55:33,120
+What's the most
+likely contributing
+
+1052
+00:55:33,120 --> 00:55:34,680
+factor to this presentation?
+
+1053
+00:55:34,840 --> 00:55:36,780
+First thing you should
+probably do here is
+
+1054
+00:55:36,780 --> 00:55:38,500
+kind of identify what's
+going on with the
+
+1055
+00:55:38,500 --> 00:55:40,580
+kid. All right, so
+we kind of have these
+
+1056
+00:55:40,580 --> 00:55:43,080
+symptoms, fatigue,
+abdominal pain, confusion.
+
+1057
+00:55:43,200 --> 00:55:44,820
+All right, that doesn't really,
+
+1058
+00:55:44,820 --> 00:55:46,500
+you know, scream at anything.
+
+1059
+00:55:46,620 --> 00:55:49,900
+Lines on the gingiva could
+be leading us towards a
+
+1060
+00:55:49,900 --> 00:55:51,860
+certain type of anemia.
+I'm not going to talk about
+
+1061
+00:55:51,860 --> 00:55:54,640
+it right now just to kind
+of continue to work it.
+
+1062
+00:55:54,760 --> 00:55:57,300
+Even if you don't recognize
+lines on the gingiva,
+
+1063
+00:55:57,300 --> 00:56:00,260
+we can use our kind of
+inference to look further.
+
+1064
+00:56:00,280 --> 00:56:03,840
+So we look at iron, right?
+Are serum iron's high?
+
+1065
+00:56:04,260 --> 00:56:06,360
+Okay, that doesn't
+usually happen in iron
+
+1066
+00:56:06,360 --> 00:56:09,000
+deficiency anemia or
+anemia of chronic disease.
+
+1067
+00:56:09,000 --> 00:56:11,660
+So that kind of
+eliminates answer E.
+
+1068
+00:56:11,760 --> 00:56:14,700
+And that also kind of
+eliminates answer C, right?
+
+1069
+00:56:14,700 --> 00:56:16,320
+Because nutritional
+insufficiency is iron
+
+1070
+00:56:16,320 --> 00:56:19,000
+deficiency. and chronic
+underlying inflammatory
+
+1071
+00:56:19,000 --> 00:56:21,420
+state. It's usually
+anemia of chronic disease.
+
+1072
+00:56:21,980 --> 00:56:25,040
+Increased ferritin
+can be, you know,
+
+1073
+00:56:25,280 --> 00:56:26,980
+iron deficiency anemia.
+
+1074
+00:56:26,980 --> 00:56:30,100
+Actually, my apologies.
+Increased ferritin can
+
+1075
+00:56:30,100 --> 00:56:33,120
+be anemia of chronic
+disease, but we've already
+
+1076
+00:56:33,120 --> 00:56:35,140
+ruled that out because
+our serum iron is high.
+
+1077
+00:56:35,560 --> 00:56:37,620
+TIBC is low, again, partially
+
+1078
+00:56:37,620 --> 00:56:39,080
+because ferritin is high.
+
+1079
+00:56:39,120 --> 00:56:40,860
+Percent saturation is high.
+
+1080
+00:56:41,320 --> 00:56:44,820
+Okay, so now we're
+between A, B, and D.
+
+1081
+00:56:45,250 --> 00:56:48,200
+So for A, genetic condition
+affecting alpha globin
+
+1082
+00:56:48,200 --> 00:56:50,420
+chain via an error in
+the promoter sequence.
+
+1083
+00:56:50,620 --> 00:56:53,900
+Okay, I think they're talking
+about alpha thalassemia
+
+1084
+00:56:53,900 --> 00:56:57,340
+here, but the explanation
+here is actually wrong, an
+
+1085
+00:56:57,340 --> 00:57:00,320
+error in the promoter
+sequence. If you can remember,
+
+1086
+00:57:00,500 --> 00:57:04,540
+alpha thalassemia is
+due to a gene deletion,
+
+1087
+00:57:04,540 --> 00:57:07,000
+not errors in the
+promoter sequence.
+
+1088
+00:57:07,440 --> 00:57:09,980
+Beta thalassemia is due to
+
+1089
+00:57:09,980 --> 00:57:11,740
+errors in the
+promoter sequence.
+
+1090
+00:57:11,810 --> 00:57:14,600
+So A and B are actually
+flipped explanations
+
+1091
+00:57:14,600 --> 00:57:16,780
+of one another. And
+additionally, when
+
+1092
+00:57:16,780 --> 00:57:17,980
+you look at kind
+of these presenting
+
+1093
+00:57:17,980 --> 00:57:20,780
+symptoms, abdominal
+pain, confusion, right?
+
+1094
+00:57:20,780 --> 00:57:22,880
+Maybe this individual
+also has some wrist
+
+1095
+00:57:22,880 --> 00:57:25,560
+drop. They have the lead
+lines on the gingiva.
+
+1096
+00:57:25,560 --> 00:57:27,440
+This should be screaming
+lead poisoning.
+
+1097
+00:57:28,200 --> 00:57:31,460
+Okay, but what's, you know,
+an underlying cause or risk
+
+1098
+00:57:31,460 --> 00:57:34,300
+factor? How about a recent
+move to a home built in
+
+1099
+00:57:34,300 --> 00:57:40,160
+the 1920s, right? maybe this
+individual this child had
+
+1100
+00:57:40,160 --> 00:57:43,260
+some lead chips and thought
+they were delicious and
+
+1101
+00:57:43,260 --> 00:57:47,140
+now has some lead poisoning
+so this kind of concludes
+
+1102
+00:57:47,140 --> 00:57:49,480
+the lecture here's just a
+little bit of a flow chart
+
+1103
+00:57:49,480 --> 00:57:51,960
+more a little bit more
+clinically oriented but a good
+
+1104
+00:57:51,960 --> 00:57:55,180
+read and here's just kind
+of a breakdown of what we've
+
+1105
+00:57:55,180 --> 00:57:59,180
+learned and also where we're
+going here are my references
+
+1106
+00:57:59,180 --> 00:58:02,880
+and finally here's my
+lecture feedback form please
+
+1107
+00:58:02,880 --> 00:58:05,840
+guys if you have some time
+I know you're all busy I
+
+1108
+00:58:05,840 --> 00:58:08,580
+I would love some feedback,
+whether it's good or bad.
+
+1109
+00:58:08,830 --> 00:58:11,100
+Please give me some feedback.
+This is my first time
+
+1110
+00:58:11,100 --> 00:58:14,160
+making a lecture, so any
+feedback would be greatly
+
+1111
+00:58:14,160 --> 00:58:16,500
+supported. Thank you all,
+I hope you're all doing
+
+1112
+00:58:16,500 --> 00:58:19,820
+well. Happy studying, good
+luck with your future comps,
+
+1113
+00:58:19,820 --> 00:58:23,240
+and enjoy the next part
+of the lecture, part two.

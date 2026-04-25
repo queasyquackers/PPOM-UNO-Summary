@@ -1,0 +1,6056 @@
+1
+00:00:00,670 --> 00:00:02,810
+Welcome students
+to the Pharmacology
+
+2
+00:00:02,810 --> 00:00:05,710
+of the Cancer Drugs.
+This is part one.
+
+3
+00:00:05,710 --> 00:00:08,270
+We'll talk about the
+conventional ones
+
+4
+00:00:08,270 --> 00:00:11,210
+that have been around
+for years, decades.
+
+5
+00:00:11,310 --> 00:00:15,590
+They are non-selective
+cytotoxic chemotherapy.
+
+6
+00:00:15,750 --> 00:00:20,470
+Please don't be alarmed
+at the number of slides.
+
+7
+00:00:20,470 --> 00:00:23,010
+I will actually only be talking
+
+8
+00:00:23,010 --> 00:00:25,350
+about fewer than half of them.
+
+9
+00:00:25,350 --> 00:00:27,530
+The rest of them
+are introduction
+
+10
+00:00:27,530 --> 00:00:30,870
+slides, title slides,
+pictures, questions.
+
+11
+00:00:30,870 --> 00:00:33,230
+I will take time
+on the questions.
+
+12
+00:00:34,530 --> 00:00:36,450
+Dr. Goldstein speaking.
+
+13
+00:00:37,590 --> 00:00:41,810
+Please contact me if
+you'd like some help.
+
+14
+00:00:43,900 --> 00:00:47,250
+You may be asking
+yourselves, why do I need to
+
+15
+00:00:47,250 --> 00:00:49,890
+know this if I'm not
+planning to be an oncologist?
+
+16
+00:00:50,990 --> 00:00:54,710
+Because the primary care
+physicians and all healthcare
+
+17
+00:00:54,710 --> 00:00:57,890
+professionals are members
+of the Cancer Survivors
+
+18
+00:00:57,890 --> 00:01:01,910
+Healthcare Team. You will
+be seeing patients who
+
+19
+00:01:01,910 --> 00:01:06,190
+are on cancer drugs, who
+have been on cancer drugs.
+
+20
+00:01:08,030 --> 00:01:10,770
+The learning
+objectives are typical
+
+21
+00:01:10,770 --> 00:01:12,990
+mechanisms,
+mechanisms, mechanisms,
+
+22
+00:01:13,350 --> 00:01:14,850
+pharmacokinetics.
+
+23
+00:01:15,780 --> 00:01:18,550
+And I'll just go right
+through all of these.
+
+24
+00:01:18,710 --> 00:01:24,450
+I put the drugs into
+this table to help you
+
+25
+00:01:24,450 --> 00:01:28,130
+see exactly what it is
+that you need to know.
+
+26
+00:01:30,270 --> 00:01:33,730
+The drugs are on the left
+-hand side, the drug classes,
+
+27
+00:01:33,730 --> 00:01:37,730
+I should say, and the
+mechanisms are on the right.
+
+28
+00:01:37,730 --> 00:01:39,650
+Of course, that's not all
+you need to know. You need
+
+29
+00:01:39,650 --> 00:01:43,790
+to know mechanisms of
+resistance, mechanisms of
+
+30
+00:01:43,790 --> 00:01:47,530
+anything related to the drugs,
+mechanisms of toxicities.
+
+31
+00:01:49,090 --> 00:01:52,350
+The next lecture will
+talk about the biologic
+
+32
+00:01:52,350 --> 00:01:55,270
+and small molecule agents
+that I've listed here.
+
+33
+00:01:55,730 --> 00:01:58,470
+The hormonal anti
+-cancer therapeutics
+
+34
+00:01:58,470 --> 00:02:00,870
+are not covered in
+this lecture. They
+
+35
+00:02:00,870 --> 00:02:03,110
+will be covered
+next year for you.
+
+36
+00:02:04,760 --> 00:02:07,460
+Let's take a look at
+some general concepts.
+
+37
+00:02:07,730 --> 00:02:10,250
+The goals. Well,
+to rid the body
+
+38
+00:02:10,250 --> 00:02:12,170
+of malignant cells, certainly.
+
+39
+00:02:12,390 --> 00:02:15,210
+If cure is not possible,
+then the goal is to
+
+40
+00:02:15,210 --> 00:02:17,730
+shrink the tumors and
+relieve the symptoms.
+
+41
+00:02:19,010 --> 00:02:23,270
+Drugs are not the
+only method for
+
+42
+00:02:23,270 --> 00:02:26,090
+removing cancer. in a patient.
+
+43
+00:02:26,370 --> 00:02:30,870
+Also surgery, radiation,
+and anti-cancer
+
+44
+00:02:30,870 --> 00:02:34,150
+drugs frequently
+used all together.
+
+45
+00:02:36,910 --> 00:02:38,610
+We need to always remember
+
+46
+00:02:38,610 --> 00:02:40,570
+what are the patient's goals.
+
+47
+00:02:42,210 --> 00:02:46,850
+This is just normal DNA
+structure and replication.
+
+48
+00:02:46,850 --> 00:02:50,770
+I'll let you have a
+look at this to get you
+
+49
+00:02:50,770 --> 00:02:53,810
+into the context of
+what we're talking about
+
+50
+00:02:53,810 --> 00:02:58,030
+with the damage to the
+DNA that the drugs cause.
+
+51
+00:02:59,410 --> 00:03:01,410
+The cell cycle.
+
+52
+00:03:02,090 --> 00:03:06,890
+These are the phases
+for proliferation.
+
+53
+00:03:07,630 --> 00:03:08,830
+G1.
+
+54
+00:03:10,190 --> 00:03:14,690
+That's when the cell
+is accumulating all
+
+55
+00:03:14,690 --> 00:03:17,030
+of the products
+that it needs, the
+
+56
+00:03:17,030 --> 00:03:21,810
+proteins it needs to
+move towards mitosis.
+
+57
+00:03:22,490 --> 00:03:25,830
+This point is a
+checkpoint. It's called the
+
+58
+00:03:25,830 --> 00:03:29,350
+G1 checkpoint, obviously,
+because it's in G1.
+
+59
+00:03:30,370 --> 00:03:34,050
+DNA synthesis phase
+here in the S phase.
+
+60
+00:03:35,910 --> 00:03:40,990
+The cell is accumulating
+all it needs for mitosis,
+
+61
+00:03:40,990 --> 00:03:45,360
+duplicating the DNA,
+getting ready to move into
+
+62
+00:03:45,360 --> 00:03:48,930
+mitosis, And we have another
+checkpoint to make sure
+
+63
+00:03:48,930 --> 00:03:54,530
+that the DNA is going
+through intact and normal.
+
+64
+00:03:54,790 --> 00:03:57,390
+And then the mitosis phase.
+
+65
+00:03:58,870 --> 00:04:02,570
+And the cycle starts again
+in proliferating cells.
+
+66
+00:04:04,570 --> 00:04:10,050
+Here we have white blood
+cell in apoptosis. please
+
+67
+00:04:10,050 --> 00:04:14,470
+notice it's more or less
+falling apart and it's got
+
+68
+00:04:14,580 --> 00:04:18,390
+it's coated all these little
+particles are coated in
+
+69
+00:04:18,390 --> 00:04:24,110
+membrane so that it's not
+damaging any tissues around
+
+70
+00:04:24,110 --> 00:04:30,000
+it we're going to be talking
+about alkylation anti
+
+71
+00:04:30,310 --> 00:04:34,750
+-metabolites for DNA synthesis
+and cell division and
+
+72
+00:04:34,750 --> 00:04:37,490
+then part two was going to
+be the targeted therapy.
+
+73
+00:04:38,090 --> 00:04:43,350
+All of this requires
+apoptosis, I
+
+74
+00:04:43,350 --> 00:04:48,550
+should say, requires
+intact proteins that
+
+75
+00:04:48,550 --> 00:04:52,810
+will trigger the
+apoptotic pathway.
+
+76
+00:04:59,180 --> 00:05:02,600
+The theme of the apoptotic
+pathway, you certainly don't
+
+77
+00:05:02,600 --> 00:05:05,280
+need to memorize it, it's
+just to give you an idea.
+
+78
+00:05:06,620 --> 00:05:10,260
+We have chemotherapeutic
+targets intracellularly
+
+79
+00:05:10,260 --> 00:05:13,680
+because we are damaging
+DNA from the inside.
+
+80
+00:05:13,680 --> 00:05:16,940
+We have targeted
+therapeutics that act
+
+81
+00:05:16,940 --> 00:05:20,600
+externally and also act
+internally on particular
+
+82
+00:05:21,180 --> 00:05:23,600
+metabolic pathways
+of the cancer
+
+83
+00:05:23,600 --> 00:05:27,080
+cell and that can
+trigger apoptosis.
+
+84
+00:05:29,460 --> 00:05:32,680
+And mechanisms of
+resistance. Many of
+
+85
+00:05:32,680 --> 00:05:34,800
+these will seem
+familiar after learning
+
+86
+00:05:34,800 --> 00:05:38,560
+about them and for
+antimicrobial therapy.
+
+87
+00:05:38,560 --> 00:05:40,620
+With the cancer drugs,
+
+88
+00:05:41,000 --> 00:05:45,900
+if the tumor is able
+to repair the DNA,
+
+89
+00:05:45,900 --> 00:05:47,940
+it will go on to proliferate.
+
+90
+00:05:48,700 --> 00:05:55,440
+If the systems that are
+involved in repair are not
+
+91
+00:05:55,440 --> 00:05:58,940
+functional, believe it or
+not, the tumor cell will go
+
+92
+00:05:58,940 --> 00:06:05,200
+on to proliferate. The
+reason this is important is
+
+93
+00:06:05,200 --> 00:06:13,560
+because these pathways increase
+cell damage as they ligate
+
+94
+00:06:14,020 --> 00:06:18,980
+and, I'm sorry, as they
+snip and re-ligate in their
+
+95
+00:06:18,980 --> 00:06:22,480
+repair. If the repair systems
+are not working, we're
+
+96
+00:06:22,480 --> 00:06:25,360
+not getting that function.
+And if we're not getting
+
+97
+00:06:25,360 --> 00:06:29,060
+that function, we're not
+going to trigger apoptosis.
+
+98
+00:06:30,740 --> 00:06:34,760
+or apoptotic pathways
+are impaired. The
+
+99
+00:06:34,760 --> 00:06:37,600
+tumor cell will go
+on to proliferate.
+
+100
+00:06:37,800 --> 00:06:40,420
+Decreased accumulation,
+we see this
+
+101
+00:06:40,420 --> 00:06:42,480
+with the antibiotic resistance.
+
+102
+00:06:43,360 --> 00:06:47,580
+Increased expression of
+drug detoxification, so
+
+103
+00:06:47,580 --> 00:06:52,040
+glutathione conjugation,
+anything that neutralizes free
+
+104
+00:06:52,040 --> 00:06:57,980
+radicals. Target alterations
+or the ability to bypass
+
+105
+00:06:57,980 --> 00:07:02,820
+a target and tumor cell
+continues to proliferate.
+
+106
+00:07:02,990 --> 00:07:07,800
+Evasion of the immune attack.
+This is the most recent
+
+107
+00:07:09,430 --> 00:07:17,180
+strategy is to prevent
+evasion of the immune attack.
+
+108
+00:07:18,830 --> 00:07:21,760
+and I put it in this
+little chart to try and
+
+109
+00:07:21,760 --> 00:07:27,380
+help you visualize it
+chemotherapy treatment
+
+110
+00:07:27,380 --> 00:07:33,740
+strategies slow-growing
+cancers we just have to put
+
+111
+00:07:33,740 --> 00:07:37,180
+in something that gets
+into the DNA and wrecks
+
+112
+00:07:37,180 --> 00:07:40,940
+it basically so that the
+apoptotic pathway gets
+
+113
+00:07:40,940 --> 00:07:44,760
+triggered rapidly
+proliferating cells DNA
+
+114
+00:07:44,760 --> 00:07:48,020
+asynthesis and mitosis
+interrupt those processes.
+
+115
+00:07:48,550 --> 00:07:52,040
+Endocrine therapy, I'm not
+going to go into that one.
+
+116
+00:07:52,360 --> 00:08:00,420
+Multi-drug combinations
+because it maximizes
+
+117
+00:08:00,420 --> 00:08:05,500
+the effect and
+hopefully minimizes the
+
+118
+00:08:05,500 --> 00:08:08,300
+development of resistance
+to the cancer drugs.
+
+119
+00:08:11,080 --> 00:08:14,280
+Maximum individual
+doses are administered
+
+120
+00:08:14,280 --> 00:08:16,920
+as frequently as
+possible. Don't
+
+121
+00:08:16,920 --> 00:08:20,400
+forget, chemotherapeutics
+are toxic.
+
+122
+00:08:20,630 --> 00:08:23,660
+And the conventional
+chemotherapeutics really
+
+123
+00:08:23,660 --> 00:08:27,020
+are poisons. They
+poison the tumor and
+
+124
+00:08:27,020 --> 00:08:31,080
+they poison proliferating
+non-cancer cells.
+
+125
+00:08:31,340 --> 00:08:36,820
+So maximal doses
+depend on the time that
+
+126
+00:08:36,820 --> 00:08:39,220
+the body needs to recover
+from side effects.
+
+127
+00:08:39,220 --> 00:08:42,900
+Neutropenia is the big
+one, so the decrease
+
+128
+00:08:42,900 --> 00:08:46,160
+in the white blood cell
+count, the type and
+
+129
+00:08:46,160 --> 00:08:48,380
+the stage of the cancer,
+the treatment goals.
+
+130
+00:08:48,400 --> 00:08:51,700
+Are we attempting
+to cure the patient?
+
+131
+00:08:51,840 --> 00:08:54,100
+Is it merely palliative?
+
+132
+00:08:55,560 --> 00:08:59,700
+ideally we would like to
+avoid major toxicities
+
+133
+00:08:59,700 --> 00:09:04,260
+bone marrow suppression
+peripheral neuropathy etc
+
+134
+00:09:04,560 --> 00:09:08,080
+nephrotoxicity hepatotoxicity
+but it's not always
+
+135
+00:09:08,080 --> 00:09:15,340
+possible and then the common
+toxicities we have the
+
+136
+00:09:15,340 --> 00:09:19,580
+ability to at least reduce
+the severity of them we
+
+137
+00:09:19,580 --> 00:09:22,260
+have antiemetics we have
+some very good ones now,
+
+138
+00:09:22,660 --> 00:09:27,160
+painkillers, and then
+non-medical strategies.
+
+139
+00:09:32,500 --> 00:09:33,820
+Toxicities.
+
+140
+00:09:34,620 --> 00:09:38,480
+Chemotherapies disrupt DNA
+function in proliferating
+
+141
+00:09:38,480 --> 00:09:41,800
+normal cells along
+with the tumor cells.
+
+142
+00:09:43,560 --> 00:09:46,120
+Pharmacokinetics and
+toxicities of cancer
+
+143
+00:09:46,120 --> 00:09:49,520
+drugs vary among the
+individual patients.
+
+144
+00:09:53,220 --> 00:09:57,180
+therefore it is
+absolutely essential
+
+145
+00:09:57,180 --> 00:09:59,640
+to recognize the
+toxicities early
+
+146
+00:10:01,380 --> 00:10:07,720
+monitor for them alter
+the doses if that's
+
+147
+00:10:07,720 --> 00:10:10,620
+appropriate for relieving
+the symptoms and reducing
+
+148
+00:10:10,620 --> 00:10:16,760
+the risk and vigorous
+supportive care dose
+
+149
+00:10:16,760 --> 00:10:19,360
+limiting toxicities i'll
+be talking about with these
+
+150
+00:10:19,360 --> 00:10:23,280
+conventional agents.
+These are specific adverse
+
+151
+00:10:23,280 --> 00:10:27,760
+effects of a drug
+severe enough to prevent
+
+152
+00:10:27,760 --> 00:10:31,420
+an increase in the dose.
+That's the definition.
+
+153
+00:10:33,040 --> 00:10:37,460
+And the dose-limiting
+toxicities are critical
+
+154
+00:10:37,460 --> 00:10:39,880
+for determining the
+maximum tolerated
+
+155
+00:10:39,880 --> 00:10:43,520
+dose, which is done in
+the clinical trials.
+
+156
+00:10:44,130 --> 00:10:47,480
+So these are averages. we
+still have our individual
+
+157
+00:10:47,480 --> 00:10:52,420
+patient. I put the adverse
+effects, the toxicities
+
+158
+00:10:52,420 --> 00:10:55,960
+here in this chart on
+the right-hand side. You
+
+159
+00:10:55,960 --> 00:11:00,660
+see, you may notice that
+they're all related to
+
+160
+00:11:00,660 --> 00:11:05,940
+rapidly proliferating normal
+cells, except this one.
+
+161
+00:11:08,340 --> 00:11:11,600
+metabolic complications
+of tumor of
+
+162
+00:11:11,600 --> 00:11:14,200
+chemotherapy are this
+thing are this syndrome
+
+163
+00:11:14,200 --> 00:11:17,400
+called tumor lysis
+syndrome and blood
+
+164
+00:11:17,400 --> 00:11:21,140
+cancers normally also
+called liquid cancers
+
+165
+00:11:21,920 --> 00:11:29,260
+the chemotherapy is initiated
+and massive destruction
+
+166
+00:11:29,260 --> 00:11:32,460
+of the tumor cells in the
+blood occurs and these
+
+167
+00:11:32,460 --> 00:11:36,840
+tumor cells just dump their
+contacts, contents into the
+
+168
+00:11:36,840 --> 00:11:40,860
+blood, leading to this
+tumor lysis syndrome related
+
+169
+00:11:40,860 --> 00:11:45,100
+to increased uric acid,
+increased phosphate, decreased
+
+170
+00:11:45,100 --> 00:11:49,280
+calcium and hyperkalemia.
+So you can just imagine.
+
+171
+00:11:49,700 --> 00:11:54,300
+Drug-specific toxicities,
+many of them will
+
+172
+00:11:54,300 --> 00:11:58,360
+cause hepatic, renal, and
+neurotoxicity. Many cause
+
+173
+00:11:58,360 --> 00:12:01,700
+pulmonary, and some
+cause cardiac toxicity.
+
+174
+00:12:01,880 --> 00:12:04,700
+And then secondary
+malignancies.
+
+175
+00:12:04,920 --> 00:12:11,320
+Leukemia is one that
+is common to most
+
+176
+00:12:11,320 --> 00:12:14,300
+of these conventional
+chemotherapies.
+
+177
+00:12:15,340 --> 00:12:19,280
+Teratogenicity,
+fetotoxicity. And then the
+
+178
+00:12:19,430 --> 00:12:22,140
+targeted drugs have
+their own set of
+
+179
+00:12:22,140 --> 00:12:24,920
+toxicities, which we'll
+talk about in part two.
+
+180
+00:12:27,720 --> 00:12:29,900
+Alkylating agents
+is the first group
+
+181
+00:12:29,900 --> 00:12:31,360
+that we're going to talk about.
+
+182
+00:12:31,540 --> 00:12:35,780
+These are cell cycle
+nonspecific. They
+
+183
+00:12:35,780 --> 00:12:38,580
+interfere with the
+integrity of the DNA.
+
+184
+00:12:38,860 --> 00:12:43,480
+These are often used
+for the slow growing.
+
+185
+00:12:44,920 --> 00:12:45,960
+Cancers,
+
+186
+00:12:46,280 --> 00:12:52,820
+which many of them
+are responsive because
+
+187
+00:12:59,260 --> 00:13:04,820
+something called a neutrophilic
+the attack which I'll
+
+188
+00:13:04,820 --> 00:13:13,880
+get into and the next
+few slides okay this is a
+
+189
+00:13:13,880 --> 00:13:17,720
+typical structure of a drug
+this is the first one that
+
+190
+00:13:17,720 --> 00:13:26,040
+was used met clorethamine
+it converts to this this
+
+191
+00:13:26,040 --> 00:13:39,160
+nucleophilic molecule and it
+will hook up to the reactive
+
+192
+00:13:39,160 --> 00:13:44,020
+molecule the reactive
+atoms on the purines and
+
+193
+00:13:44,020 --> 00:13:49,060
+pyrimidines. We see here this
+is the alkylated N7 guanine,
+
+194
+00:13:49,060 --> 00:13:53,740
+which is a typically reactive
+site for these drugs.
+
+195
+00:13:54,800 --> 00:14:00,220
+And when there are two sides
+bifunctional, like this
+
+196
+00:14:00,220 --> 00:14:05,580
+one, it's going to hook up
+to another N7 guanine, an
+
+197
+00:14:05,580 --> 00:14:11,680
+alkylated. And this action can
+cause inter and intrastrand
+
+198
+00:14:11,680 --> 00:14:15,360
+cross-linking which leads
+to the DNA just breaks.
+
+199
+00:14:19,200 --> 00:14:26,620
+Importantly, in order
+for cell deaths to occur,
+
+200
+00:14:26,680 --> 00:14:31,240
+the apoptosis must be
+triggered and responsive.
+
+201
+00:14:31,700 --> 00:14:34,960
+So essential
+mechanisms. First it's
+
+202
+00:14:34,960 --> 00:14:38,580
+got to recognize that
+there's a lesion.
+
+203
+00:14:39,180 --> 00:14:43,220
+Then the checkpoints
+proteins have to be activated
+
+204
+00:14:43,220 --> 00:14:50,430
+then the mismatch repair and
+DNA damage repair systems
+
+205
+00:14:50,430 --> 00:14:55,960
+need to be intact so they
+come in and they induce more
+
+206
+00:14:55,960 --> 00:14:59,200
+strand breaks in order to
+repair the enzymes they do
+
+207
+00:14:59,200 --> 00:15:04,440
+a snip and then they do
+a ligate so when there is
+
+208
+00:15:04,440 --> 00:15:10,640
+massive DNA damage and there
+are numerous sites in which
+
+209
+00:15:10,640 --> 00:15:16,480
+the repair systems need to
+be responding in terms of
+
+210
+00:15:16,480 --> 00:15:20,940
+single strand and double
+strand lesions then there can
+
+211
+00:15:20,940 --> 00:15:25,660
+be massive damage and the
+apoptotic pathway will be
+
+212
+00:15:25,660 --> 00:15:32,100
+triggered and for the result
+to happen apoptosis there
+
+213
+00:15:32,100 --> 00:15:37,420
+must be functional p53 and
+other proteins that trigger
+
+214
+00:15:37,420 --> 00:15:44,980
+apoptosis and mutations
+in p53 and these other DNA
+
+215
+00:15:44,980 --> 00:15:52,260
+damage repair proteins can
+cause the tumor cell cycle
+
+216
+00:15:52,260 --> 00:15:55,640
+to just move forward and
+the cell will proliferate.
+
+217
+00:15:56,020 --> 00:16:00,780
+Now these drugs are not
+used alone we don't use any
+
+218
+00:16:00,780 --> 00:16:04,920
+drugs alone for unless it's
+palliative then we might
+
+219
+00:16:06,040 --> 00:16:11,880
+because of the we want
+to reduce the risk of
+
+220
+00:16:11,880 --> 00:16:14,800
+resistance developing and
+we want to increase the
+
+221
+00:16:14,800 --> 00:16:24,180
+efficacy I put this same
+chart here of toxicity so you
+
+222
+00:16:24,180 --> 00:16:27,340
+can And if you learn it
+once, you don't have to
+
+223
+00:16:27,340 --> 00:16:30,160
+keep learning it for
+each individual drug. I
+
+224
+00:16:30,160 --> 00:16:34,240
+included here the alkylating
+agents also can cause
+
+225
+00:16:34,240 --> 00:16:39,660
+amenorrhea and azospermia.
+It's usually reversible.
+
+226
+00:16:43,220 --> 00:16:45,960
+Okay, cyclophosphamide
+is not the first one
+
+227
+00:16:45,960 --> 00:16:48,840
+that was developed, but
+it is so widely used.
+
+228
+00:16:48,920 --> 00:16:52,320
+I am going to just
+be talking about
+
+229
+00:16:52,320 --> 00:16:55,360
+cyclophosphamide. the
+only alkylating agent that
+
+230
+00:16:55,360 --> 00:16:58,380
+I'm going to mention,
+and there are many.
+
+231
+00:16:58,400 --> 00:17:02,560
+You may be tested on
+the boards with many of
+
+232
+00:17:02,560 --> 00:17:04,600
+these alkylating agents,
+but if you get the
+
+233
+00:17:04,600 --> 00:17:08,740
+idea of this one, when
+you're studying for the
+
+234
+00:17:08,740 --> 00:17:11,660
+boards, you'll be able
+to understand the rest.
+
+235
+00:17:13,820 --> 00:17:19,260
+So here we have pharmacokinetics,
+really important
+
+236
+00:17:19,260 --> 00:17:24,160
+with cyclophosphamide.
+and also I-phosphamide.
+
+237
+00:17:24,260 --> 00:17:26,960
+Here we have cyclophosphamide
+
+238
+00:17:27,640 --> 00:17:32,140
+and hepatic metabolism
+using CYPs to
+
+239
+00:17:32,140 --> 00:17:35,970
+this form, this 4
+-hydroxycyclophosphamide,
+
+240
+00:17:36,450 --> 00:17:40,130
+which then can be inactivated.
+
+241
+00:17:41,510 --> 00:17:44,400
+This is the pathway we
+want to look at here.
+
+242
+00:17:46,200 --> 00:17:50,000
+4-hydroxycyclophosphamide
+gets converted to aldo.
+
+243
+00:17:51,980 --> 00:17:58,400
+Phosphamide, which
+is then converted to
+
+244
+00:17:58,400 --> 00:18:06,740
+the phosphoramide
+mustard and acrylene.
+
+245
+00:18:06,740 --> 00:18:09,940
+It is the phosphorified
+mustard. If you see
+
+246
+00:18:09,940 --> 00:18:12,000
+mustard, you know it's
+an alkylating agent.
+
+247
+00:18:12,140 --> 00:18:19,820
+That is the anti
+-cancer molecule.
+
+248
+00:18:21,800 --> 00:18:26,740
+So aldophosphamide via aldehyde
+
+249
+00:18:27,280 --> 00:18:31,420
+dehydrogenase is inactivated.
+
+250
+00:18:33,040 --> 00:18:35,900
+All right, let's talk about
+acrolein for a moment.
+
+251
+00:18:36,740 --> 00:18:40,540
+Acrolein has nothing to
+do with cancer. It does
+
+252
+00:18:40,540 --> 00:18:44,740
+not have any anti-cancer
+activity, but what it
+
+253
+00:18:44,740 --> 00:18:49,340
+is is an irritant. When
+it accumulates in the
+
+254
+00:18:49,340 --> 00:18:54,280
+urinary bladder, it can
+cause hemorrhagic cystitis.
+
+255
+00:18:54,480 --> 00:18:57,480
+So hemorrhagic cystitis
+is an important
+
+256
+00:18:57,480 --> 00:19:00,720
+adverse effect of
+cyclophosphamide.
+
+257
+00:19:02,340 --> 00:19:06,860
+To review, cyclophosphamide
+is a pro-drug.
+
+258
+00:19:06,860 --> 00:19:09,540
+It's converted
+through these various
+
+259
+00:19:09,540 --> 00:19:13,320
+pathways to the
+phosphoramide mustard.
+
+260
+00:19:15,040 --> 00:19:18,320
+aldophosphamide is also
+converted to acrolein
+
+261
+00:19:18,320 --> 00:19:24,240
+aldophosphamide is inactivated
+by aldehyde dehydrogenase
+
+262
+00:19:28,440 --> 00:19:31,480
+cytotoxicity well
+alkylation it's just exactly
+
+263
+00:19:31,480 --> 00:19:36,380
+what i described before
+with the inter and
+
+264
+00:19:36,380 --> 00:19:40,480
+interstrand cross-linking
+it also causes abnormal base
+
+265
+00:19:40,480 --> 00:19:43,860
+pairing miscoating strand
+breakage, of course,
+
+266
+00:19:44,460 --> 00:19:49,060
+depurination by removal
+of guanine residues.
+
+267
+00:19:49,060 --> 00:19:53,520
+So just as non
+-selective, it gets into
+
+268
+00:19:53,520 --> 00:19:58,780
+the DNA and it
+virtually splits it up.
+
+269
+00:19:59,060 --> 00:20:03,040
+Resistance? Well, increased
+expression of aldehyde
+
+270
+00:20:03,040 --> 00:20:05,840
+dehydrogenase. I'm
+sure you remember that
+
+271
+00:20:05,840 --> 00:20:09,310
+aldophosphamide is
+inactivated by aldehyde
+
+272
+00:20:09,310 --> 00:20:13,260
+dehydrogenase. So if there
+is a higher number of these
+
+273
+00:20:13,260 --> 00:20:17,860
+enzymes available,
+a greater amount of
+
+274
+00:20:17,890 --> 00:20:21,340
+aldophosphamide will be
+inactivated and therefore will
+
+275
+00:20:21,340 --> 00:20:24,860
+not be converted to the
+phosphoramide mustard.
+
+276
+00:20:26,240 --> 00:20:29,720
+Also glutathione
+transferase for
+
+277
+00:20:29,720 --> 00:20:33,300
+detoxification of
+the intermediates.
+
+278
+00:20:36,140 --> 00:20:39,300
+pretty straightforward
+all right what
+
+279
+00:20:39,300 --> 00:20:42,160
+do we use it for
+this is the takeaway
+
+280
+00:20:45,140 --> 00:20:46,560
+cyclophosphamide is widely used
+
+281
+00:20:46,560 --> 00:20:48,120
+in the treatment
+of solid tumors
+
+282
+00:20:48,440 --> 00:20:51,200
+hematologic cancers
+and it is a potent
+
+283
+00:20:51,200 --> 00:20:53,820
+immunosuppressant for
+autoimmune disorders
+
+284
+00:20:54,040 --> 00:20:55,880
+that's it that's all i want you
+
+285
+00:20:55,880 --> 00:20:57,420
+to take away from this slide
+
+286
+00:20:58,380 --> 00:21:00,820
+sorry i keep pushing
+the wrong button
+
+287
+00:21:05,000 --> 00:21:08,060
+toxicities now let's
+talk about acrolein and
+
+288
+00:21:08,060 --> 00:21:12,680
+hemorrhagic cystitis
+well we've got something
+
+289
+00:21:12,680 --> 00:21:15,920
+to help first of all
+there has to be vigorous
+
+290
+00:21:19,580 --> 00:21:26,320
+hydration so we saline
+solution at high rate in
+
+291
+00:21:26,320 --> 00:21:29,620
+order to go through the
+kidney and dilute the
+
+292
+00:21:29,620 --> 00:21:33,080
+acrolein, but we also have
+something called mesna, and
+
+293
+00:21:33,080 --> 00:21:36,740
+this is the chemical
+structure here, very simple.
+
+294
+00:21:36,740 --> 00:21:40,920
+Here's acrolein, and it
+just hooks up with it.
+
+295
+00:21:41,160 --> 00:21:45,600
+That's it, and carries it
+away, so that reduces the
+
+296
+00:21:45,600 --> 00:21:50,300
+potential for acrolein
+producing this direct toxicity
+
+297
+00:21:50,300 --> 00:21:55,260
+to the bladder, And then we
+have, in addition to that,
+
+298
+00:21:55,800 --> 00:21:57,920
+bone marrow suppression. We see
+
+299
+00:21:57,920 --> 00:21:59,720
+that with the
+alkylating agents.
+
+300
+00:21:59,720 --> 00:22:02,560
+Congestive heart failure.
+This is important
+
+301
+00:22:02,560 --> 00:22:06,700
+toxicity because
+cyclophosphamide is
+
+302
+00:22:06,700 --> 00:22:09,380
+used with other
+agents that also cause
+
+303
+00:22:10,140 --> 00:22:11,200
+cardiotoxicity.
+
+304
+00:22:12,090 --> 00:22:14,080
+I'm circling it. I want you to
+
+305
+00:22:14,080 --> 00:22:16,080
+remember the congestive
+heart failure.
+
+306
+00:22:16,550 --> 00:22:19,180
+And arrhythmias,
+cardiotoxicity.
+
+307
+00:22:19,840 --> 00:22:21,040
+So,
+
+308
+00:22:21,720 --> 00:22:28,140
+acrolein with mesna
+reversal or antidote,
+
+309
+00:22:28,140 --> 00:22:31,300
+bone marrow suppression,
+and cardiotoxicity.
+
+310
+00:22:32,540 --> 00:22:36,380
+What class of drugs induces
+cell death by nucleophilic
+
+311
+00:22:36,380 --> 00:22:39,600
+attack on DNA bases,
+especially the N7 guanine,
+
+312
+00:22:39,600 --> 00:22:44,140
+leading to interstrand and
+interstrand cross-linking,
+
+313
+00:22:44,140 --> 00:22:47,100
+abnormal base pairing,
+miscoding, a strand breakage?
+
+314
+00:22:47,640 --> 00:22:49,740
+the alkylating agents.
+
+315
+00:22:51,480 --> 00:22:55,160
+The DNA damage activates
+the DNA repair systems
+
+316
+00:22:55,160 --> 00:22:58,640
+that create DNA strand
+breaks by repair enzymes,
+
+317
+00:22:58,640 --> 00:23:01,780
+which activates the apoptotic
+pathway. The answers,
+
+318
+00:23:01,780 --> 00:23:05,320
+of course, are all at the
+end of the presentation.
+
+319
+00:23:06,820 --> 00:23:09,720
+I hope that you'll
+try and answer
+
+320
+00:23:09,720 --> 00:23:11,240
+these without looking first.
+
+321
+00:23:12,120 --> 00:23:14,300
+What cellular mechanisms are
+
+322
+00:23:14,300 --> 00:23:15,700
+essential for cell death?
+
+323
+00:23:16,700 --> 00:23:18,640
+recognition of the addict,
+
+324
+00:23:18,920 --> 00:23:22,580
+intact MMR and DNA
+damage repair systems to
+
+325
+00:23:22,580 --> 00:23:25,800
+induce DNA strand breaks
+by the repair enzymes,
+
+326
+00:23:25,920 --> 00:23:30,160
+normal p53 gene, activation
+of checkpoint proteins,
+
+327
+00:23:30,160 --> 00:23:33,140
+and resistance develops
+rapidly when a drug is
+
+328
+00:23:33,140 --> 00:23:35,780
+used as a single agent,
+which doesn't answer the
+
+329
+00:23:35,780 --> 00:23:40,140
+question, but it's an
+important concept to recall.
+
+330
+00:23:41,060 --> 00:23:45,480
+And active metabolite,
+phosphoramide mustard.
+
+331
+00:23:45,480 --> 00:23:49,680
+So cyclophosphamide itself
+is a prodrug converted
+
+332
+00:23:50,400 --> 00:23:53,220
+through this pathway
+I have here to the
+
+333
+00:23:53,220 --> 00:23:57,140
+phosphoramide mustard, which
+is the alkylating agent.
+
+334
+00:23:58,880 --> 00:24:01,460
+What is the name of the
+urotoxic metabolite,
+
+335
+00:24:01,460 --> 00:24:03,990
+and how can the
+toxicity be mitigated?
+
+336
+00:24:05,840 --> 00:24:08,260
+Acrolein, mesna.
+
+337
+00:24:08,600 --> 00:24:11,860
+What is a mechanism of tumor
+
+338
+00:24:11,860 --> 00:24:13,540
+resistance? I should say,
+
+339
+00:24:14,840 --> 00:24:16,320
+what are mechanisms?
+
+340
+00:24:17,880 --> 00:24:21,360
+Increased expression of
+aldehyde dehydrogenase
+
+341
+00:24:21,360 --> 00:24:24,740
+increases the rate of
+metabolism. Increased expression
+
+342
+00:24:24,740 --> 00:24:29,100
+of glutathione transferase
+detoxifies alkylating
+
+343
+00:24:29,100 --> 00:24:32,800
+intermediates. And what is
+cyclophosphamide used for?
+
+344
+00:24:33,540 --> 00:24:38,200
+Numerous solid and
+hematologic tumors and
+
+345
+00:24:38,200 --> 00:24:41,320
+immunosuppression and
+autoimmune disease. And what
+
+346
+00:24:41,320 --> 00:24:43,960
+are some common toxicities
+of cyclophosphamide?
+
+347
+00:24:43,960 --> 00:24:47,120
+Bone marrow suppression,
+liver toxicity,
+
+348
+00:24:47,400 --> 00:24:49,980
+cardiotoxicity. I didn't
+have these on the previous
+
+349
+00:24:49,980 --> 00:24:52,790
+slide. Lung toxicity,
+malignancies. These are
+
+350
+00:24:52,790 --> 00:24:56,740
+class effects. Got to
+remember the class effects.
+
+351
+00:24:57,960 --> 00:25:00,920
+Now moving to the
+platinum drugs.
+
+352
+00:25:00,920 --> 00:25:03,230
+Platinum coordination
+complexes, platinum
+
+353
+00:25:03,230 --> 00:25:05,380
+analogs. I have a
+few different names.
+
+354
+00:25:06,100 --> 00:25:10,020
+I have stars on cisplatin,
+carboplatin, oxaloplatin
+
+355
+00:25:10,020 --> 00:25:12,540
+because they're all really
+important for you to
+
+356
+00:25:12,540 --> 00:25:16,900
+recognize. They could all be
+on the boards and you will
+
+357
+00:25:16,900 --> 00:25:21,140
+likely have patients who
+are on these drugs if
+
+358
+00:25:21,140 --> 00:25:24,480
+you see patients with cancer
+or who have had cancer.
+
+359
+00:25:26,220 --> 00:25:27,400
+All right.
+
+360
+00:25:27,680 --> 00:25:32,440
+It's platinum. It's a metal.
+So it gets inside cells
+
+361
+00:25:32,440 --> 00:25:37,680
+through the copper
+transporter and it degrades
+
+362
+00:25:37,680 --> 00:25:40,520
+the copper transporter on
+the way. And there can be
+
+363
+00:25:40,520 --> 00:25:43,400
+some passive diffusion too.
+you'll read about that.
+
+364
+00:25:44,020 --> 00:25:47,420
+Then it undergoes
+a process called
+
+365
+00:25:47,420 --> 00:25:49,320
+aquation. This is just water.
+
+366
+00:25:49,440 --> 00:25:54,100
+Water replaces
+the chloride ions.
+
+367
+00:25:56,360 --> 00:26:00,580
+So we have water on
+both of those sites
+
+368
+00:26:00,740 --> 00:26:06,520
+and that is highly
+reactive, that molecule.
+
+369
+00:26:08,000 --> 00:26:12,900
+Therefore, this highly
+reacted molecule
+
+370
+00:26:12,900 --> 00:26:19,340
+gets into the DNA,
+very similarly to
+
+371
+00:26:19,340 --> 00:26:21,500
+what we saw with the
+alkylating agents.
+
+372
+00:26:22,160 --> 00:26:26,060
+We see that kind of indicated
+here in this picture
+
+373
+00:26:26,060 --> 00:26:30,340
+with the intra- and inter
+-strand breaks, and that
+
+374
+00:26:30,340 --> 00:26:37,320
+will cause an induction of
+the DNA repair pathways,
+
+375
+00:26:37,480 --> 00:26:43,840
+the MMR, and if
+apoptosis pathways are
+
+376
+00:26:43,840 --> 00:26:46,540
+functional, then
+apoptosis is triggered.
+
+377
+00:26:46,580 --> 00:26:49,460
+So it's nonspecific, just
+
+378
+00:26:49,460 --> 00:26:51,340
+gets in and messes up the DNA.
+
+379
+00:26:54,720 --> 00:26:58,460
+resistance decreased
+uptake so how how was the
+
+380
+00:26:58,460 --> 00:27:01,440
+uptake decreased well if
+the copper transporter
+
+381
+00:27:01,440 --> 00:27:05,580
+is down regulated or
+if there's decreased
+
+382
+00:27:05,580 --> 00:27:08,760
+expression of it so the
+drugs do not move in
+
+383
+00:27:09,180 --> 00:27:12,560
+that's as you can see is
+the predominant mechanism
+
+384
+00:27:13,920 --> 00:27:17,900
+these two molecules the
+i should say transporters
+
+385
+00:27:17,900 --> 00:27:21,620
+are efflux transporters
+and they're copper effluxed
+
+386
+00:27:21,620 --> 00:27:25,240
+transporters. They're in
+our cells naturally in
+
+387
+00:27:25,240 --> 00:27:29,640
+order to regulate the levels
+of copper within cells.
+
+388
+00:27:30,700 --> 00:27:33,800
+So platinum, the
+platinum compounds,
+
+389
+00:27:33,800 --> 00:27:36,780
+can be effluxed via
+these transporters.
+
+390
+00:27:37,800 --> 00:27:40,880
+Drugs can be
+inactivated. This is
+
+391
+00:27:40,880 --> 00:27:43,180
+actually the reactive products,
+
+392
+00:27:43,460 --> 00:27:48,640
+glutathione, metallothionine,
+metallo so that tells
+
+393
+00:27:48,640 --> 00:27:56,040
+you platinum and some
+others or repair the tumor
+
+394
+00:27:56,040 --> 00:28:02,680
+is capable of repairing
+the damage and that's I'm
+
+395
+00:28:03,040 --> 00:28:05,420
+sure you can see it's
+intuitive all of these
+
+396
+00:28:05,420 --> 00:28:11,960
+mechanisms and this is a
+figure that demonstrates what
+
+397
+00:28:12,000 --> 00:28:15,560
+I was just talking about.
+The copper transporter.
+
+398
+00:28:15,800 --> 00:28:19,520
+We see our glutathione
+and metallothionine
+
+399
+00:28:20,220 --> 00:28:23,620
+and our copper
+transporter efflux pumps.
+
+400
+00:28:23,880 --> 00:28:28,180
+And this is another
+efflux pump called MRP2.
+
+401
+00:28:33,140 --> 00:28:35,080
+And this is just
+a picture of the
+
+402
+00:28:35,080 --> 00:28:38,220
+actual mechanisms
+that we talked about.
+
+403
+00:28:41,880 --> 00:28:43,560
+common features.
+
+404
+00:28:43,980 --> 00:28:46,040
+So I'm talking
+about all three now.
+
+405
+00:28:46,560 --> 00:28:50,440
+All are IV. All don't
+really get into the CNS.
+
+406
+00:28:50,440 --> 00:28:53,920
+All are cleared renally.
+Dosage adjustment and renal
+
+407
+00:28:53,920 --> 00:28:57,240
+impairment. Whenever you
+see this, think this.
+
+408
+00:28:59,560 --> 00:29:02,180
+Synergy with radiation therapy.
+
+409
+00:29:02,620 --> 00:29:05,580
+So I mentioned before,
+surgery radiation
+
+410
+00:29:05,580 --> 00:29:08,800
+and chemotherapy
+are commonly used
+
+411
+00:29:08,800 --> 00:29:13,760
+together this drug
+drug interaction I
+
+412
+00:29:13,880 --> 00:29:16,640
+won't be talking too much
+about drug drug interactions
+
+413
+00:29:16,640 --> 00:29:19,920
+other than drugs that
+have the same toxicities
+
+414
+00:29:19,920 --> 00:29:25,810
+but this is an important
+one T before P T is the
+
+415
+00:29:25,810 --> 00:29:28,800
+taxane which I'll talk
+about in a little bit and P
+
+416
+00:29:28,800 --> 00:29:33,200
+is platinum so taxane has
+to go before the platinum
+
+417
+00:29:33,200 --> 00:29:39,940
+in a sequential infusion.
+So taxane patients goes
+
+418
+00:29:39,940 --> 00:29:43,080
+in, receives the infusion
+of taxane, and when that's
+
+419
+00:29:43,080 --> 00:29:47,460
+completed, receives the
+infusion of the platinum
+
+420
+00:29:47,460 --> 00:29:51,680
+compound. And this mechanism
+isn't really clear.
+
+421
+00:29:52,180 --> 00:29:56,740
+This was discovered in
+clinical trials that the
+
+422
+00:29:56,740 --> 00:30:00,300
+taxane really needed to go
+before the platinum because
+
+423
+00:30:00,300 --> 00:30:05,080
+if it's the other way
+around, then there's a
+
+424
+00:30:05,080 --> 00:30:10,140
+greater risk of the taxane
+bone marrow suppression.
+
+425
+00:30:10,840 --> 00:30:18,560
+So if we give the taxane
+first, we have limited bone
+
+426
+00:30:18,560 --> 00:30:22,380
+marrow suppression caused
+by the taxane and increased
+
+427
+00:30:22,380 --> 00:30:26,020
+efficacy because the taxane
+levels are not decreased.
+
+428
+00:30:28,700 --> 00:30:36,280
+All right, cisplatin,
+covalent binding to
+
+429
+00:30:36,280 --> 00:30:39,740
+plasma proteins, non
+-enzymatic inactivation,
+
+430
+00:30:39,740 --> 00:30:42,620
+vigorous saline solution,
+which I'll get to
+
+431
+00:30:42,620 --> 00:30:44,970
+when we get to that
+dose-limiting effect,
+
+432
+00:30:44,970 --> 00:30:49,960
+vigorous saline solution,
+and a long half-life.
+
+433
+00:30:51,420 --> 00:30:56,120
+Major anti-tumor activity
+in a broad range of solid
+
+434
+00:30:56,120 --> 00:30:59,400
+tumors. I'm not going to
+list them here. Just remember
+
+435
+00:30:59,400 --> 00:31:02,460
+it's effective against lots
+and lots of solid tumors.
+
+436
+00:31:03,300 --> 00:31:07,200
+Carboplatin. The takeaway
+message with carboplatin
+
+437
+00:31:07,200 --> 00:31:10,500
+is it's less reactive
+than the other two.
+
+438
+00:31:10,760 --> 00:31:14,380
+There's less renal and GI
+toxicity. We still need
+
+439
+00:31:14,950 --> 00:31:17,640
+some hydration, but it
+doesn't need to be that
+
+440
+00:31:17,640 --> 00:31:20,240
+same vigorous hydration
+because it doesn't cause
+
+441
+00:31:20,240 --> 00:31:23,120
+that nephrotoxicity that
+we see with cisplatin.
+
+442
+00:31:24,000 --> 00:31:27,440
+Also a broad range,
+broad spectrum drug.
+
+443
+00:31:28,280 --> 00:31:30,980
+Oxaloplatin, again,
+it's highly reactive.
+
+444
+00:31:31,100 --> 00:31:34,680
+Now the cytotoxicity on
+this drug does not depend
+
+445
+00:31:34,680 --> 00:31:39,440
+on that activity of the
+mismatch repair system.
+
+446
+00:31:39,620 --> 00:31:43,120
+It's probably related
+to its structure. What's
+
+447
+00:31:43,120 --> 00:31:46,640
+it used for? It's not
+used for as many things.
+
+448
+00:31:46,680 --> 00:31:50,340
+I put here the colorectal
+and gastric cancer.
+
+449
+00:31:50,340 --> 00:31:54,440
+I've included here
+FOLFOX. This is how the
+
+450
+00:31:54,440 --> 00:31:57,780
+cancer regimens are
+talked about in letters.
+
+451
+00:31:58,170 --> 00:32:01,480
+I'll go into this more
+as we get to more drugs,
+
+452
+00:32:01,480 --> 00:32:06,320
+but this stands for
+folinic acid, this stands
+
+453
+00:32:06,320 --> 00:32:10,400
+for 5-FU, and this part
+stands for oxaloplatin.
+
+454
+00:32:14,730 --> 00:32:17,860
+oxaloplatin is a component
+of the first-line care
+
+455
+00:32:17,860 --> 00:32:22,800
+chemotherapy for advanced
+****** and colorectal cancer
+
+456
+00:32:23,550 --> 00:32:27,640
+which is very difficult
+to treat cancer all right
+
+457
+00:32:27,640 --> 00:32:31,100
+dose-limiting toxicities
+nephrotoxicity with cisplatin
+
+458
+00:32:31,360 --> 00:32:37,080
+we need that vigorous
+chloride diuresis with normal
+
+459
+00:32:37,080 --> 00:32:41,840
+saline Plus, usually, a
+diuretic to reduce toxicity.
+
+460
+00:32:41,840 --> 00:32:44,780
+Different experts have
+different opinions about that.
+
+461
+00:32:45,120 --> 00:32:47,140
+Highly emetogenic.
+
+462
+00:32:47,900 --> 00:32:52,680
+About 100% of patients
+will experience the
+
+463
+00:32:52,680 --> 00:32:57,020
+vomiting from cisplatin,
+and it's persistent.
+
+464
+00:32:57,020 --> 00:33:01,400
+It happens early on, and
+it can happen days later.
+
+465
+00:33:02,480 --> 00:33:04,340
+And, of course,
+there's not just one
+
+466
+00:33:04,340 --> 00:33:07,400
+toxicity. We have
+toxicity to the nerves,
+
+467
+00:33:07,400 --> 00:33:10,020
+toxicity to the
+ears, ototoxicity.
+
+468
+00:33:10,020 --> 00:33:11,940
+Think about other
+drugs that cause
+
+469
+00:33:11,940 --> 00:33:14,880
+ototoxicity, like furosemide,
+
+470
+00:33:15,000 --> 00:33:17,040
+which is a diuretic.
+
+471
+00:33:17,060 --> 00:33:19,080
+Bone marrow suppression.
+
+472
+00:33:20,100 --> 00:33:23,420
+Whenever we have
+proliferating cells, think
+
+473
+00:33:23,420 --> 00:33:25,740
+bone marrow. Whenever
+we have damage to
+
+474
+00:33:25,740 --> 00:33:28,260
+proliferating cells,
+think bone marrow.
+
+475
+00:33:28,280 --> 00:33:30,960
+And, of course, nerve toxicity.
+
+476
+00:33:32,260 --> 00:33:34,580
+carboplatin as I
+said before it's less
+
+477
+00:33:34,580 --> 00:33:37,220
+reactive so it's more
+tolerable to patients
+
+478
+00:33:39,340 --> 00:33:42,990
+bone marrow suppression
+being the major dose
+
+479
+00:33:43,120 --> 00:33:46,620
+limiting toxicity and
+oxaloplatin is peripheral
+
+480
+00:33:46,620 --> 00:33:50,280
+neuropathy and this
+is something that it
+
+481
+00:33:50,280 --> 00:33:54,700
+has its own kind of
+idiosyncrasy which is And
+
+482
+00:33:54,700 --> 00:33:58,760
+the acute toxicity is
+exacerbated by cold.
+
+483
+00:33:59,140 --> 00:34:03,200
+So patients are often advised
+to protect their hands
+
+484
+00:34:03,200 --> 00:34:05,580
+when they're reaching into
+the freezer or have someone
+
+485
+00:34:05,580 --> 00:34:09,460
+else take out the frozen
+food, wear gloves when it's
+
+486
+00:34:09,460 --> 00:34:12,340
+cold out, that sort of
+thing. And then there's a
+
+487
+00:34:12,340 --> 00:34:17,380
+delayed progressive
+neuropathy. that and neuropathy
+
+488
+00:34:17,380 --> 00:34:20,580
+peripheral neuropathy is that
+feeling of pins and needles
+
+489
+00:34:20,580 --> 00:34:25,540
+in the hands and feet fingers
+and toes and hands and
+
+490
+00:34:25,540 --> 00:34:30,580
+feet and up part way up
+the arms and legs and it's
+
+491
+00:34:30,580 --> 00:34:36,440
+painful and it really impacts
+the patient and then all
+
+492
+00:34:36,440 --> 00:34:41,060
+of them can cause leukemia
+pulmonary fibrosis months
+
+493
+00:34:41,060 --> 00:34:44,560
+to years later. These are
+really delayed toxicities.
+
+494
+00:34:46,680 --> 00:34:49,740
+How does the mechanism
+on the platinum analog
+
+495
+00:34:49,740 --> 00:34:53,300
+compare with the mechanism
+of the alkylating agents?
+
+496
+00:34:54,480 --> 00:34:57,960
+The alkylating agents
+have a nucleophilic attack
+
+497
+00:34:57,960 --> 00:35:00,980
+on DNA causing all that
+cross-linking and activate
+
+498
+00:35:00,980 --> 00:35:05,420
+the repair mechanisms
+that triggers apoptosis.
+
+499
+00:35:05,420 --> 00:35:07,800
+The platinum analogs
+diffuse through the copper
+
+500
+00:35:07,800 --> 00:35:12,660
+transporter. They are then
+acquitted to positively
+
+501
+00:35:12,660 --> 00:35:15,800
+charged molecules, and
+those molecules produce
+
+502
+00:35:15,800 --> 00:35:18,800
+a nucleophilic attack on
+the DNA. Cross-linking,
+
+503
+00:35:18,800 --> 00:35:23,140
+activation of DNA repair
+mechanisms, apoptosis.
+
+504
+00:35:23,860 --> 00:35:28,120
+And platinum
+analogs bind also to
+
+505
+00:35:28,120 --> 00:35:30,420
+nuclear and
+cytoplasmic proteins.
+
+506
+00:35:30,840 --> 00:35:34,880
+Of course, as always,
+for apoptosis to occur,
+
+507
+00:35:34,880 --> 00:35:37,940
+the apoptotic systems
+need to be intact.
+
+508
+00:35:38,550 --> 00:35:40,500
+And what are the
+main mechanisms
+
+509
+00:35:40,500 --> 00:35:42,900
+of resistance to
+platinum analogs?
+
+510
+00:35:42,900 --> 00:35:46,060
+E-flux, inactivation,
+
+511
+00:35:46,200 --> 00:35:49,000
+loss of DNA, mismatch repair,
+
+512
+00:35:49,140 --> 00:35:55,180
+and I forgot to
+mention reduced influx.
+
+513
+00:36:04,990 --> 00:36:07,790
+What is the definition of
+dose-limiting toxicities?
+
+514
+00:36:09,440 --> 00:36:11,930
+Specific adverse effects
+of a drug that is
+
+515
+00:36:11,930 --> 00:36:14,590
+severe enough to prevent
+an increase in the
+
+516
+00:36:14,590 --> 00:36:17,150
+dose. In other words,
+increasing the dose, the
+
+517
+00:36:17,150 --> 00:36:19,910
+patient just will not
+be able to tolerate it.
+
+518
+00:36:20,130 --> 00:36:23,970
+And specific, these
+dose-limiting toxicities
+
+519
+00:36:23,970 --> 00:36:26,910
+are critical in
+determining the maximum
+
+520
+00:36:26,910 --> 00:36:29,310
+tolerated dose during
+clinical trials,
+
+521
+00:36:29,490 --> 00:36:32,790
+especially in oncology.
+So that's where the dosing
+
+522
+00:36:32,790 --> 00:36:35,970
+recommendations come
+from, the clinical trials.
+
+523
+00:36:36,580 --> 00:36:38,030
+What are the dose-limiting
+
+524
+00:36:38,030 --> 00:36:40,870
+toxicities of the
+platinum drugs?
+
+525
+00:36:41,550 --> 00:36:43,630
+Cisplatin, nephrotoxicity,
+
+526
+00:36:43,630 --> 00:36:45,930
+carboplatin, bone
+marrow suppression,
+
+527
+00:36:46,190 --> 00:36:48,350
+oxaloplatin, peripheral
+
+528
+00:36:48,350 --> 00:36:50,210
+neuropathy, acute and delayed.
+
+529
+00:36:50,690 --> 00:36:53,370
+And sequential
+administration of a platinum
+
+530
+00:36:53,370 --> 00:36:56,370
+analog with paclitaxel
+or docetaxel.
+
+531
+00:36:56,370 --> 00:36:58,950
+Why is the taxane
+administered first?
+
+532
+00:36:59,520 --> 00:37:02,530
+To limit the myelosuppression
+or bone marrow
+
+533
+00:37:02,530 --> 00:37:06,050
+suppression of the taxane
+and increase the efficacy
+
+534
+00:37:06,050 --> 00:37:09,110
+of the combination, the
+taxane in particular.
+
+535
+00:37:10,660 --> 00:37:13,770
+Pharmaco, and this is the
+reason. I put it down here.
+
+536
+00:37:13,770 --> 00:37:16,590
+You can read it at the end
+when you see the answers.
+
+537
+00:37:19,210 --> 00:37:21,750
+Antimetabolites now.
+We're moving away from
+
+538
+00:37:21,750 --> 00:37:24,430
+the alkylating agents,
+from the platinum
+
+539
+00:37:24,430 --> 00:37:27,690
+agents, and we'll be
+talking about drugs that
+
+540
+00:37:27,690 --> 00:37:31,470
+act in the S phase of
+the cell cycle, the
+
+541
+00:37:31,470 --> 00:37:34,270
+phase in which the DNA
+is being synthesized.
+
+542
+00:37:35,470 --> 00:37:38,810
+Definition. An
+antimetabolite is a substance
+
+543
+00:37:38,810 --> 00:37:41,470
+that is similar in
+structure to a metabolite
+
+544
+00:37:41,470 --> 00:37:45,690
+or enzymatic substrate,
+and it interferes with
+
+545
+00:37:45,690 --> 00:37:48,430
+the normal division
+and function of cells.
+
+546
+00:37:49,410 --> 00:37:51,830
+Antimetabolites are
+analogs and competitive
+
+547
+00:37:51,830 --> 00:37:54,290
+antagonists of
+natural substances.
+
+548
+00:37:54,950 --> 00:37:58,810
+The natural
+substances are folic
+
+549
+00:37:58,810 --> 00:38:00,830
+acid, pyrimidines, and purines.
+
+550
+00:38:03,270 --> 00:38:06,990
+Antimetabolites inhibit
+nucleotide synthesis,
+
+551
+00:38:06,990 --> 00:38:10,190
+which depletes the
+pool of nucleotides
+
+552
+00:38:10,190 --> 00:38:15,110
+necessary to synthesize
+DNA and also RNA.
+
+553
+00:38:16,750 --> 00:38:20,270
+Antimetabolites induce
+cell death in rapidly
+
+554
+00:38:20,270 --> 00:38:24,250
+dividing cells by interfering
+with DNA synthesis.
+
+555
+00:38:26,230 --> 00:38:28,890
+Those are the principles of
+
+556
+00:38:28,890 --> 00:38:31,490
+mechanisms of antimetabolites.
+
+557
+00:38:34,230 --> 00:38:37,130
+The toxicity is pretty
+much what we saw with
+
+558
+00:38:37,130 --> 00:38:39,170
+the alkylating agents.
+There's nothing different
+
+559
+00:38:39,170 --> 00:38:43,270
+here. So I'm not going
+to read you this slide.
+
+560
+00:38:45,090 --> 00:38:48,810
+Let's talk about
+methotrexate. It is a folate
+
+561
+00:38:48,810 --> 00:38:52,850
+antagonist. antagonist. I've
+indicated here why it matters
+
+562
+00:38:52,850 --> 00:38:58,270
+and what folic acid's
+function is in the body.
+
+563
+00:38:59,550 --> 00:39:02,690
+Looking at the structures,
+they look nearly
+
+564
+00:39:02,690 --> 00:39:06,430
+identical, don't they? And
+I've put arrows showing
+
+565
+00:39:06,430 --> 00:39:09,430
+the differences with the
+methotrexate structure.
+
+566
+00:39:12,050 --> 00:39:17,190
+pharmacokinetics matters
+with methotrexate for
+
+567
+00:39:17,190 --> 00:39:21,150
+cancer it's administered
+in these high doses that
+
+568
+00:39:21,150 --> 00:39:29,750
+we talked about IV for
+prevention of cancer in the
+
+569
+00:39:29,750 --> 00:39:35,930
+CNS for acute lymphoblastic
+leukemia It's given
+
+570
+00:39:35,930 --> 00:39:40,730
+intrathecally right into
+the cerebrospinal fluid.
+
+571
+00:39:42,130 --> 00:39:45,630
+For immunosuppressant
+indications, we see oral,
+
+572
+00:39:45,630 --> 00:39:50,370
+IM, sub-Q. It's given in
+low doses once weekly.
+
+573
+00:39:54,390 --> 00:39:58,250
+Now, methotrexate, remember,
+looks like folic acid.
+
+574
+00:39:58,450 --> 00:40:01,870
+However, it's taken up
+by the reduced folate
+
+575
+00:40:01,870 --> 00:40:05,700
+transporter. Folic
+acid is converted by a
+
+576
+00:40:05,700 --> 00:40:10,380
+dihydrofolate reductase
+to active folate. It's
+
+577
+00:40:10,380 --> 00:40:15,720
+called the F4, the
+tetrahydrofolate version.
+
+578
+00:40:18,040 --> 00:40:22,320
+it's bound to plasma proteins
+and if it's displaced
+
+579
+00:40:22,320 --> 00:40:26,410
+because it is so toxic at
+these cancer doses increase
+
+580
+00:40:26,410 --> 00:40:29,780
+displacing them from plasma
+proteins can increase
+
+581
+00:40:29,780 --> 00:40:33,180
+the risk of toxicity even
+if it's only transient
+
+582
+00:40:33,180 --> 00:40:37,580
+the toxicity can be
+substantial just because that's
+
+583
+00:40:37,580 --> 00:40:41,120
+what methotrexate does.
+Narrow therapeutic window.
+
+584
+00:40:43,220 --> 00:40:45,640
+Poor CNS ***********.
+You could have
+
+585
+00:40:45,640 --> 00:40:47,720
+figured that out when
+you saw intracecal.
+
+586
+00:40:48,880 --> 00:40:51,160
+However, very very high doses
+
+587
+00:40:51,160 --> 00:40:54,180
+can ********* into the CNS.
+
+588
+00:40:55,340 --> 00:40:58,680
+The kidney and liver
+can accumulate the drug.
+
+589
+00:40:59,080 --> 00:41:01,300
+Nephrotoxicity and
+hepatotoxicity.
+
+590
+00:41:03,580 --> 00:41:06,520
+Methotrexate is a
+substrate of several
+
+591
+00:41:06,520 --> 00:41:10,200
+efflux pumps, and
+this is a regular
+
+592
+00:41:10,200 --> 00:41:13,960
+uptake transporter
+for the liver.
+
+593
+00:41:15,340 --> 00:41:18,280
+Now, once it gets inside,
+
+594
+00:41:18,720 --> 00:41:23,130
+methotrexate, like
+folic acid, gets some
+
+595
+00:41:23,130 --> 00:41:25,370
+glutamates put on
+it, polyglutamation.
+
+596
+00:41:27,200 --> 00:41:29,000
+And this is active.
+
+597
+00:41:29,300 --> 00:41:33,500
+It's active for folic acid.
+It's active for methotrexate.
+
+598
+00:41:33,500 --> 00:41:38,420
+The original tetrahydrofolate
+is active. The
+
+599
+00:41:38,420 --> 00:41:41,780
+original methotrexate is active.
+So all of that is active.
+
+600
+00:41:41,780 --> 00:41:45,660
+But once the glutamates are
+on it, it becomes charged
+
+601
+00:41:45,660 --> 00:41:49,580
+and it will not go back
+out of the cell. It remains
+
+602
+00:41:49,580 --> 00:41:54,720
+inside the cell where it
+will do its toxic action.
+
+603
+00:41:55,440 --> 00:41:59,360
+And therefore, it has a
+long biologic half-life.
+
+604
+00:42:02,060 --> 00:42:04,280
+That's what I'm
+talking about here.
+
+605
+00:42:06,440 --> 00:42:09,460
+Whatever is not
+inside the cell goes
+
+606
+00:42:09,460 --> 00:42:11,960
+out through the
+kidneys, unchanged.
+
+607
+00:42:13,580 --> 00:42:17,380
+the doses of course is going
+to depend on the patient
+
+608
+00:42:18,380 --> 00:42:22,540
+for the half-lives so the
+half-lives are measured in
+
+609
+00:42:22,540 --> 00:42:27,320
+the patients who have are
+receiving them for cancer
+
+610
+00:42:27,320 --> 00:42:32,260
+treatment children and adults
+you don't have to memorize
+
+611
+00:42:32,260 --> 00:42:38,680
+that just get the concept
+okay here's the mechanism
+
+612
+00:42:38,790 --> 00:42:42,540
+that's been recognized for
+the treatment of cancer.
+
+613
+00:42:43,420 --> 00:42:45,760
+Methotrexate and
+the polyglutamate
+
+614
+00:42:45,760 --> 00:42:48,500
+block dihydrofolate reductase.
+
+615
+00:42:51,530 --> 00:42:53,260
+It's right here on the chart.
+
+616
+00:42:53,380 --> 00:42:56,340
+And that will
+decrease the active
+
+617
+00:42:56,340 --> 00:42:59,680
+tetrahydrofolate
+synthesis naturally.
+
+618
+00:43:02,200 --> 00:43:07,260
+And decreased tetrahydrofolate
+is going to reduce
+
+619
+00:43:07,260 --> 00:43:11,280
+the synthesis of
+thymidylate and also purine
+
+620
+00:43:11,280 --> 00:43:15,100
+nucleotides necessary for
+RNA and DNA synthesis.
+
+621
+00:43:16,340 --> 00:43:17,740
+Additionally,
+
+622
+00:43:17,880 --> 00:43:20,220
+because this is blocked,
+
+623
+00:43:20,780 --> 00:43:24,100
+mesotrexate and the
+polyglutamates are going to
+
+624
+00:43:24,500 --> 00:43:27,440
+increase in concentration
+behind that blocked
+
+625
+00:43:27,440 --> 00:43:32,860
+dihydrofolate reductase.
+And that accumulation has
+
+626
+00:43:32,860 --> 00:43:39,320
+been found to cause direct
+inhibition of thymitylate
+
+627
+00:43:39,320 --> 00:43:42,980
+synthase, which is
+needed for DNA synthesis,
+
+628
+00:43:42,980 --> 00:43:47,400
+and these other factors, which
+
+629
+00:43:47,400 --> 00:43:49,300
+are needed for
+purine synthesis.
+
+630
+00:43:50,240 --> 00:43:52,000
+In any case,
+
+631
+00:43:52,320 --> 00:43:57,300
+cell cycle arrest,
+activation of P53, apoptosis,
+
+632
+00:43:57,560 --> 00:44:00,420
+and cell death in the S phase.
+
+633
+00:44:02,720 --> 00:44:05,620
+Dihydrofolate
+reductase, thymethylate
+
+634
+00:44:05,620 --> 00:44:07,880
+synthase, and these other guys.
+
+635
+00:44:13,740 --> 00:44:16,720
+Methotrexate resistance
+impaired transport,
+
+636
+00:44:16,720 --> 00:44:20,220
+so it doesn't get in.
+The reduced folate
+
+637
+00:44:20,220 --> 00:44:24,860
+transporters are reduced
+in number, for example.
+
+638
+00:44:26,080 --> 00:44:30,160
+Increased expression of the
+drug efflux transporters.
+
+639
+00:44:31,680 --> 00:44:35,700
+This is multidrug
+resistance protein.
+
+640
+00:44:38,180 --> 00:44:42,280
+production of
+dihydrofolate reductase
+
+641
+00:44:42,280 --> 00:44:45,220
+that doesn't bind
+to the mesotrexate,
+
+642
+00:44:45,260 --> 00:44:49,180
+increased concentration
+of dihydrofolate reductase
+
+643
+00:44:49,180 --> 00:44:55,980
+so that folic acid is
+able to be synthesized, is
+
+644
+00:44:55,980 --> 00:44:58,630
+able to be used to
+synthesize tetrahydrofolate,
+
+645
+00:44:59,740 --> 00:45:04,280
+and reduced ability to
+produce these polyglutamates.
+
+646
+00:45:04,280 --> 00:45:07,000
+It's mainly this
+accumulation of polyglutamate
+
+647
+00:45:07,000 --> 00:45:11,640
+that is responsible for
+mesotrexate function.
+
+648
+00:45:13,680 --> 00:45:18,900
+Broad spectrum,
+mesotrexate is just like
+
+649
+00:45:19,460 --> 00:45:22,850
+the platinum drugs,
+like cyclophosphamide.
+
+650
+00:45:22,850 --> 00:45:25,830
+It's just used in so
+many combinations.
+
+651
+00:45:26,360 --> 00:45:32,240
+Solid tumors, hematologic
+tumors, childhood acute
+
+652
+00:45:32,240 --> 00:45:35,820
+lymphoblastic leukemia.
+It can produce cures.
+
+653
+00:45:37,000 --> 00:45:38,820
+for ALL.
+
+654
+00:45:40,010 --> 00:45:42,860
+Autoimmune disease.
+We saw that with the
+
+655
+00:45:42,860 --> 00:45:45,360
+disease-modifying
+anti-rheumatic drugs.
+
+656
+00:45:46,160 --> 00:45:51,180
+Abortifacient. Well, it
+is fetotoxic, and this
+
+657
+00:45:51,180 --> 00:45:58,780
+abortifacient effect, this
+fetotoxic effect, puts methotrexate
+
+658
+00:45:58,780 --> 00:46:03,680
+as a treatment for
+tubular ectopic pregnancy.
+
+659
+00:46:05,860 --> 00:46:07,740
+Bone marrow suppression,
+
+660
+00:46:07,740 --> 00:46:10,400
+mucositis, stomatitis,
+nausea, vomiting, diarrhea,
+
+661
+00:46:10,400 --> 00:46:13,960
+hepatotoxicity, pneumonitis,
+that can occur at any time.
+
+662
+00:46:14,860 --> 00:46:15,940
+Neurotoxicity,
+
+663
+00:46:15,940 --> 00:46:17,240
+so it's the same list that
+
+664
+00:46:17,240 --> 00:46:18,740
+we saw with everything else.
+
+665
+00:46:19,060 --> 00:46:20,200
+Fetal loss.
+
+666
+00:46:22,160 --> 00:46:23,800
+Reproductive toxicity,
+
+667
+00:46:23,800 --> 00:46:25,160
+the impaired fertility.
+
+668
+00:46:27,720 --> 00:46:30,620
+And Leucovorin rescue.
+
+669
+00:46:33,380 --> 00:46:36,600
+The other name for
+leucovorin is folinic acid,
+
+670
+00:46:36,600 --> 00:46:38,840
+but I'm going to refer
+to it as leucovorin.
+
+671
+00:46:38,840 --> 00:46:41,100
+But you can see folinic
+acid looks like folic
+
+672
+00:46:41,100 --> 00:46:47,300
+acid. It is actually an
+active form of folate.
+
+673
+00:46:47,700 --> 00:46:50,420
+It is converted to this, active
+
+674
+00:46:50,420 --> 00:46:53,380
+methylene tetrahydrofolate.
+
+675
+00:46:53,380 --> 00:46:57,460
+And it's used as a
+rescue to rescue the host
+
+676
+00:46:57,460 --> 00:47:00,090
+cells from the toxicity
+of the methotrexate.
+
+677
+00:47:01,440 --> 00:47:07,380
+It is given after the
+infusion of the methotrexate,
+
+678
+00:47:07,380 --> 00:47:10,480
+after 24 hours after
+usually or thereabouts.
+
+679
+00:47:10,480 --> 00:47:14,280
+It is given in one or two
+or three doses, depending
+
+680
+00:47:14,280 --> 00:47:16,940
+on the dose of methotrexate
+that was given.
+
+681
+00:47:18,340 --> 00:47:23,360
+It will rescue the patient's
+bone marrow from the
+
+682
+00:47:23,360 --> 00:47:29,200
+toxicity, liver, and GI
+toxicity. That said, it's
+
+683
+00:47:29,200 --> 00:47:32,560
+not going to reverse
+neurotoxicity or pulmonary
+
+684
+00:47:32,560 --> 00:47:36,620
+toxicity, but at least
+it will help salvage the
+
+685
+00:47:36,620 --> 00:47:40,820
+host cells from the toxicity
+of the methotrexate.
+
+686
+00:47:41,820 --> 00:47:45,560
+Polinic acid,
+leucovorin rescue.
+
+687
+00:47:47,700 --> 00:47:52,520
+Looking now at 5
+-fluorouracil, I put a star on
+
+688
+00:47:52,520 --> 00:47:56,400
+capocytamine only because
+it is a pro-drug of 5
+
+689
+00:47:56,400 --> 00:47:59,760
+-FU. And if you know 5-FU,
+you know capocytamine.
+
+690
+00:48:01,400 --> 00:48:04,380
+This one's injectable.
+This one's oral.
+
+691
+00:48:05,980 --> 00:48:07,660
+Here's uracil,
+
+692
+00:48:08,560 --> 00:48:12,380
+fluoropyrimidine, fluorouracil,
+
+693
+00:48:12,380 --> 00:48:14,540
+and here's fluorouracil.
+
+694
+00:48:16,860 --> 00:48:19,100
+Structural analog of uracil.
+
+695
+00:48:23,420 --> 00:48:27,520
+5FU is converted to, with
+
+696
+00:48:27,520 --> 00:48:30,020
+phosphorylation,
+to these forms.
+
+697
+00:48:30,400 --> 00:48:32,640
+And I put a hyphen in there so
+
+698
+00:48:32,640 --> 00:48:33,820
+you can tell the difference.
+
+699
+00:48:35,540 --> 00:48:37,580
+Distributed throughout,
+gets into the
+
+700
+00:48:37,580 --> 00:48:41,340
+brain, gets into
+the CSF. I keep
+
+701
+00:48:41,340 --> 00:48:43,120
+pushing the wrong
+button, I am sorry.
+
+702
+00:48:44,480 --> 00:48:46,860
+Metabolism, here's the enzyme,
+
+703
+00:48:48,260 --> 00:48:50,660
+dihydropyrimidine,
+okay, pyrimidine,
+
+704
+00:48:50,660 --> 00:48:53,130
+that's uracil, dehydrogenase.
+
+705
+00:48:55,300 --> 00:48:59,980
+And this is in the liver,
+other tissues as well,
+
+706
+00:48:59,980 --> 00:49:05,400
+and that will convert 5
+-FU to a non-toxic form.
+
+707
+00:49:06,280 --> 00:49:09,840
+Now, 5-FU is also
+partially metabolized to
+
+708
+00:49:09,840 --> 00:49:12,640
+carbon dioxide, excreted
+by the lungs, obviously.
+
+709
+00:49:12,720 --> 00:49:16,140
+So not much goes
+through the urine.
+
+710
+00:49:17,120 --> 00:49:21,100
+Half-life, plasma half
+-life, not very long,
+
+711
+00:49:21,100 --> 00:49:25,100
+but it is taken up
+into the cells, and
+
+712
+00:49:25,100 --> 00:49:28,300
+therefore the biologic
+half-life is prolonged.
+
+713
+00:49:28,480 --> 00:49:31,480
+Kappa-citabine I mentioned
+is just the pro-drug.
+
+714
+00:49:33,920 --> 00:49:37,200
+now pharmacogenomics the enzyme
+
+715
+00:49:37,640 --> 00:49:39,420
+pharmacogenomics must be coming
+
+716
+00:49:41,000 --> 00:49:45,680
+patients with deficient
+dehydropyridine dehydrogenase
+
+717
+00:49:46,320 --> 00:49:51,320
+are at risk for a severe
+excessive toxicity because
+
+718
+00:49:51,320 --> 00:49:56,180
+the 5-FU is not being
+detoxified so for a given
+
+719
+00:49:56,180 --> 00:50:00,040
+dose there is a much
+greater concentration of
+
+720
+00:50:00,040 --> 00:50:04,600
+active drug. This is an
+autosomal recessive trait.
+
+721
+00:50:04,600 --> 00:50:10,000
+Fortunately, we see
+deficiency in DPD only rarely.
+
+722
+00:50:12,700 --> 00:50:14,440
+Okay, action.
+
+723
+00:50:16,080 --> 00:50:19,020
+I hate buzzwords, but this is
+
+724
+00:50:19,020 --> 00:50:21,040
+a buzzword. I mean less death.
+
+725
+00:50:22,310 --> 00:50:24,200
+So let's take a look.
+
+726
+00:50:24,400 --> 00:50:25,840
+Number one,
+
+727
+00:50:26,340 --> 00:50:31,160
+the 5-FU is converted
+eventually to
+
+728
+00:50:36,300 --> 00:50:38,040
+the deoxy form.
+
+729
+00:50:40,860 --> 00:50:45,560
+Then there's this
+5-FU, so 5-fluorine
+
+730
+00:50:46,260 --> 00:50:49,760
+deoxyuridine monophosphate,
+hooks up with
+
+731
+00:50:49,760 --> 00:50:53,510
+folate, which hooks
+up with thimitolate
+
+732
+00:50:53,510 --> 00:50:55,880
+synthase, so we get
+this three-way complex.
+
+733
+00:50:56,180 --> 00:50:59,280
+And that complex, therefore,
+inhibits the activity
+
+734
+00:50:59,280 --> 00:51:03,380
+of thymidylate synthase.
+And thymidylate,
+
+735
+00:51:03,380 --> 00:51:07,400
+which is thymidine
+monophosphate, is not formed.
+
+736
+00:51:07,460 --> 00:51:09,580
+Thymine less death.
+
+737
+00:51:09,580 --> 00:51:14,160
+No thymine, then DNA
+can't be synthesized.
+
+738
+00:51:14,310 --> 00:51:16,800
+Now, that's not the
+only thing that happens.
+
+739
+00:51:18,320 --> 00:51:24,240
+The drug can be triphosphorylated,
+incorporated into
+
+740
+00:51:24,240 --> 00:51:27,140
+DNA, and that's going to
+cause DNA strand breaks.
+
+741
+00:51:27,540 --> 00:51:32,620
+And also by similar
+pathway, the RNA pathway,
+
+742
+00:51:33,180 --> 00:51:35,900
+it can be taken up into RNA
+
+743
+00:51:37,120 --> 00:51:40,620
+and that will inhibit
+the synthesis of RNA.
+
+744
+00:51:40,620 --> 00:51:43,240
+Pretty straightforward.
+We have the analog.
+
+745
+00:51:43,240 --> 00:51:46,600
+It's an antimetabolite.
+It does what the
+
+746
+00:51:46,600 --> 00:51:49,860
+metabolite would do, only
+it blocks everything up.
+
+747
+00:51:52,680 --> 00:51:53,780
+Resistance.
+
+748
+00:51:56,040 --> 00:51:59,060
+well if it doesn't get
+converted it's not going
+
+749
+00:51:59,060 --> 00:52:02,700
+to work if there's another
+substrate that it doesn't
+
+750
+00:52:02,700 --> 00:52:06,160
+bind to it won't work
+what do we use it for
+
+751
+00:52:06,160 --> 00:52:10,320
+lots of things but i'm
+bringing back this full fox
+
+752
+00:52:12,380 --> 00:52:17,620
+folinic acid leucovorin
+which is full
+
+753
+00:52:17,620 --> 00:52:22,540
+of folinic acid
+5fu and oxaloplan
+
+754
+00:52:24,050 --> 00:52:26,520
+and another one
+we're going to talk
+
+755
+00:52:26,520 --> 00:52:29,440
+about arenotecan
+it's the same concept
+
+756
+00:52:31,420 --> 00:52:36,180
+topical it is used topically
+for certain skin cancers
+
+757
+00:52:36,180 --> 00:52:40,900
+class toxicities bone
+marrow suppressions gicns
+
+758
+00:52:40,900 --> 00:52:47,820
+neurotoxicity something called
+hand foot syndrome as seen with
+
+759
+00:52:47,820 --> 00:52:51,720
+5fu it can be seen with
+other toxic drugs as well.
+
+760
+00:52:51,720 --> 00:52:55,400
+But 5-FU is known for it,
+and especially capocitabine.
+
+761
+00:52:56,040 --> 00:52:58,220
+Capocitabine in
+particular, because
+
+762
+00:52:58,220 --> 00:53:01,900
+capocitabine is a pill,
+and it's taken daily.
+
+763
+00:53:03,340 --> 00:53:07,780
+5-FU is usually given by
+an infusion over several
+
+764
+00:53:07,780 --> 00:53:11,420
+days. So I have a picture
+of that hand-foot syndrome.
+
+765
+00:53:11,420 --> 00:53:16,060
+And then we can see some
+cardiovascular issues here.
+
+766
+00:53:16,340 --> 00:53:20,540
+They don't happen very
+often but we still need to
+
+767
+00:53:20,540 --> 00:53:25,480
+be looking for them okay
+this is the hand foot
+
+768
+00:53:25,480 --> 00:53:32,600
+syndrome see all of this
+erythema here and eat the skin
+
+769
+00:53:32,600 --> 00:53:39,080
+can actually peel off so
+that's disclamation here
+
+770
+00:53:39,080 --> 00:53:43,060
+we see some stomatitis
+the redness around here
+
+771
+00:53:43,060 --> 00:53:46,040
+They're in the red tongue
+because they're inflamed.
+
+772
+00:53:48,320 --> 00:53:51,940
+Prelimiting analogs. Now
+we're looking at cytidine.
+
+773
+00:53:52,160 --> 00:53:56,300
+Sorry, cytarabine.
+It's also called erycea
+
+774
+00:53:56,300 --> 00:54:02,580
+because this is a
+ribose and this is
+
+775
+00:54:02,580 --> 00:54:06,020
+an arabinose. That's
+why it's called era.
+
+776
+00:54:08,160 --> 00:54:09,520
+Arabinose. I spelled it wrong.
+
+777
+00:54:14,160 --> 00:54:16,780
+Gemcitabine is a
+commonly used drug. I'm
+
+778
+00:54:16,780 --> 00:54:18,510
+still not gonna
+talk about it though
+
+779
+00:54:18,510 --> 00:54:20,970
+because Cytarabine
+will give you the idea.
+
+780
+00:54:25,890 --> 00:54:27,980
+Pharmacokinetics, of
+course, it's injected,
+
+781
+00:54:27,980 --> 00:54:30,000
+distributes to the CNS.
+
+782
+00:54:31,760 --> 00:54:36,000
+It is degraded by cytidine
+deaminase. If you see
+
+783
+00:54:36,000 --> 00:54:41,600
+deaminase, you know that's
+an inactivation enzyme.
+
+784
+00:54:42,860 --> 00:54:44,020
+in the liver.
+
+785
+00:54:44,740 --> 00:54:47,620
+It's high in many
+normal tissues, and
+
+786
+00:54:47,620 --> 00:54:50,220
+that's the whole
+concept with citerabine.
+
+787
+00:54:50,480 --> 00:54:55,060
+Cells that have high levels
+of cytidine deaminase
+
+788
+00:54:55,060 --> 00:54:59,780
+are less likely to develop
+the toxicities that
+
+789
+00:54:59,780 --> 00:55:03,660
+we see with the cancer
+cells that the citerabine
+
+790
+00:55:03,660 --> 00:55:06,200
+treats. Well, citerabine
+doesn't treat that
+
+791
+00:55:06,200 --> 00:55:13,180
+much, but cytidine deaminase
+is lower in cells of
+
+792
+00:55:13,180 --> 00:55:16,320
+acute myelogenous
+leukemia and that's what
+
+793
+00:55:16,320 --> 00:55:21,940
+cytidine is that's what
+cyterabine is used to treat
+
+794
+00:55:24,650 --> 00:55:27,120
+and of course it's
+taken up into the
+
+795
+00:55:27,120 --> 00:55:29,300
+cells and we'll
+see how that works
+
+796
+00:55:30,810 --> 00:55:33,160
+so cyterabine now we have of
+
+797
+00:55:33,160 --> 00:55:36,340
+kinase deoxycytidine kinase
+
+798
+00:55:36,840 --> 00:55:40,380
+recognizes the
+structure of cytarabine
+
+799
+00:55:40,380 --> 00:55:43,210
+and therefore it gets
+triphosphorylated.
+
+800
+00:55:44,640 --> 00:55:46,520
+All right,
+triphosphorylated. So what
+
+801
+00:55:46,520 --> 00:55:48,950
+are we thinking
+about? Well, it will
+
+802
+00:55:50,300 --> 00:55:53,920
+block the effects of
+the DNA polymerase.
+
+803
+00:55:54,000 --> 00:55:56,720
+Competitive inhibition
+of DNA polymerase.
+
+804
+00:55:56,820 --> 00:56:02,560
+The alpha will block the
+DNA synthesis and the beta
+
+805
+00:56:02,560 --> 00:56:06,860
+will prevent repair. so
+alpha the first step beta the
+
+806
+00:56:06,860 --> 00:56:10,860
+second step and it's
+incorporated into the DNA so
+
+807
+00:56:10,860 --> 00:56:14,700
+that'll block chain elongation
+that'll activate the
+
+808
+00:56:14,700 --> 00:56:22,220
+checkpoint proteins and apoptosis
+mechanisms of resistance
+
+809
+00:56:22,220 --> 00:56:27,380
+well it doesn't get
+converted to the active form.
+
+810
+00:56:28,880 --> 00:56:32,320
+There's decreased transport,
+so it doesn't get in,
+
+811
+00:56:33,960 --> 00:56:41,140
+and increase in the
+deactivation. So that's it.
+
+812
+00:56:43,020 --> 00:56:47,040
+Drug of choice for acute
+myelogenous leukemia
+
+813
+00:56:47,040 --> 00:56:50,040
+is given with this
+Rubicin or this Rubicin.
+
+814
+00:56:51,180 --> 00:56:54,050
+There's nothing else
+really to remember about
+
+815
+00:56:54,050 --> 00:56:56,980
+cytarabine. I've got the
+toxicities down here.
+
+816
+00:56:56,980 --> 00:56:59,540
+See, it's everything
+that you've seen already.
+
+817
+00:57:00,840 --> 00:57:03,420
+And the CNS toxicities.
+
+818
+00:57:06,220 --> 00:57:09,880
+So the purine analogs,
+I'll talk about 6
+
+819
+00:57:09,970 --> 00:57:12,820
+-mercaptopurine. That's
+the only one I'll mention.
+
+820
+00:57:15,020 --> 00:57:16,940
+This is the pathway,
+
+821
+00:57:18,240 --> 00:57:20,520
+6-MP. It's a pro-drug.
+
+822
+00:57:21,460 --> 00:57:25,600
+It gets converted to sioenosine
+
+823
+00:57:25,600 --> 00:57:28,140
+monophosphate by this enzyme,
+
+824
+00:57:28,640 --> 00:57:34,720
+hypoxanthine guanine,
+phosphoribosyltransferase.
+
+825
+00:57:35,460 --> 00:57:40,480
+I've got the definitions
+down here for you and that
+
+826
+00:57:40,480 --> 00:57:43,300
+gets converted to these
+toxic nucleotides that's
+
+827
+00:57:43,300 --> 00:57:45,920
+the main mechanism there's
+also a side mechanism
+
+828
+00:57:45,920 --> 00:57:50,080
+over here where it inhibits
+de novo purine synthesis
+
+829
+00:57:50,080 --> 00:57:56,780
+now it's inactivated by this
+pathway siopurine methyl
+
+830
+00:57:56,780 --> 00:58:02,880
+transferase and this
+pathway, xanthine oxidase.
+
+831
+00:58:05,860 --> 00:58:08,640
+Here are some pharmacogenomics
+
+832
+00:58:08,640 --> 00:58:10,200
+we need to be thinking about.
+
+833
+00:58:11,280 --> 00:58:18,420
+Slow metabolizers, because
+of reduced activity of
+
+834
+00:58:18,420 --> 00:58:21,520
+thiopurine methyltransferase,
+are going to have a
+
+835
+00:58:21,520 --> 00:58:25,020
+reduction in this inactivating
+product, which is just
+
+836
+00:58:25,020 --> 00:58:29,820
+going to shunt the 6-MP over
+to these other pathways.
+
+837
+00:58:29,860 --> 00:58:38,100
+Now, a drug interaction, so
+allopurinol and other drugs
+
+838
+00:58:38,100 --> 00:58:43,380
+that block xanthine oxidase,
+we're not going to get
+
+839
+00:58:43,380 --> 00:58:47,360
+this pathway, so it shunts
+it to these other pathways.
+
+840
+00:58:50,140 --> 00:58:54,860
+In any case, if this
+is blocked, or if this
+
+841
+00:58:54,860 --> 00:58:57,080
+is blocked, and
+certainly if both are
+
+842
+00:58:57,080 --> 00:59:00,220
+blocked, we're going to
+get an increased risk
+
+843
+00:59:00,220 --> 00:59:03,520
+of the toxicity caused
+by mercaptopurine.
+
+844
+00:59:06,460 --> 00:59:08,700
+And therapeutic uses,
+
+845
+00:59:09,200 --> 00:59:12,080
+acute lymphoblastic leukemia,
+
+846
+00:59:12,200 --> 00:59:15,900
+some various regiments, and it
+
+847
+00:59:15,900 --> 00:59:18,090
+is a potent immunosuppressant.
+
+848
+00:59:18,580 --> 00:59:21,580
+It is actually used
+in Crohn's disease.
+
+849
+00:59:23,920 --> 00:59:26,460
+Toxicities, just
+what you expect.
+
+850
+00:59:26,980 --> 00:59:28,920
+And here's our drug interaction
+
+851
+00:59:28,920 --> 00:59:30,480
+that I just mentioned.
+
+852
+00:59:35,480 --> 00:59:37,640
+Just back up a minute.
+So why do we care about
+
+853
+00:59:37,640 --> 00:59:41,940
+xanthine oxidase? Well,
+this drug treats ALL,
+
+854
+00:59:41,980 --> 00:59:46,640
+which is a hematologic
+cancer. So when the drug
+
+855
+00:59:46,640 --> 00:59:51,440
+is first initiated, you
+get this massive killing
+
+856
+00:59:51,440 --> 00:59:55,180
+of the leukemia cells,
+and what comes out?
+
+857
+00:59:55,380 --> 00:59:59,780
+Uric acid, among
+other products.
+
+858
+00:59:59,980 --> 01:00:03,310
+What do we use to treat
+uric acid increases?
+
+859
+01:00:03,820 --> 01:00:07,100
+Xanthine oxidase.
+That's why it matters.
+
+860
+01:00:07,700 --> 01:00:09,340
+How do we manage it?
+
+861
+01:00:09,620 --> 01:00:12,160
+The recommendation
+is to decrease
+
+862
+01:00:12,160 --> 01:00:17,540
+the dose of the
+6-mercaptopurine.
+
+863
+01:00:20,980 --> 01:00:23,600
+What structural and
+mechanistic features
+
+864
+01:00:23,600 --> 01:00:25,940
+are common to the anti
+-metabolites class?
+
+865
+01:00:27,540 --> 01:00:29,600
+Analogs of natural substrates
+
+866
+01:00:29,600 --> 01:00:32,320
+interfere with DNA
+and RNA synthesis.
+
+867
+01:00:32,680 --> 01:00:35,420
+Inhibit nucleotide synthesis.
+deplete the pool of
+
+868
+01:00:35,420 --> 01:00:39,420
+nucleotides necessary for
+RNA and DNA synthesis,
+
+869
+01:00:39,620 --> 01:00:42,560
+cell cycle arrest in
+the S phase, cell death.
+
+870
+01:00:42,960 --> 01:00:47,040
+And how does inhibition
+of D-dihydrofolate
+
+871
+01:00:47,040 --> 01:00:49,220
+reductase lead to
+cell cycle arrest?
+
+872
+01:00:49,760 --> 01:00:55,640
+And here we go. So,
+polymethotrexate, glutamates,
+
+873
+01:00:56,160 --> 01:00:57,940
+dihydrofolate reductase,
+
+874
+01:00:58,260 --> 01:01:04,080
+decreased tetrahydrofolate, and
+
+875
+01:01:04,080 --> 01:01:05,940
+pairs RNA and DNA synthesis.
+
+876
+01:01:05,960 --> 01:01:09,840
+Plus, we get this other
+action due to accumulation
+
+877
+01:01:09,840 --> 01:01:14,440
+behind the block dihydrofolate
+reductase in which
+
+878
+01:01:14,440 --> 01:01:18,820
+thymethylate synthase and
+other enzymes are inhibited.
+
+879
+01:01:20,360 --> 01:01:23,340
+How does leucovorin
+reduce bone marrow,
+
+880
+01:01:23,340 --> 01:01:25,560
+liver, and GI toxicity
+of methotrexate
+
+881
+01:01:25,560 --> 01:01:29,620
+therapy? Because it
+replaces active folate.
+
+882
+01:01:29,760 --> 01:01:33,280
+What is the mechanism of
+action of fluorouracil?
+
+883
+01:01:35,180 --> 01:01:45,760
+Well, it gets converted
+to 5-F5-fluorodeoxyuridine
+
+884
+01:01:45,760 --> 01:01:49,660
+monophosphate, which
+complexes with folate and
+
+885
+01:01:49,660 --> 01:01:52,660
+thymetylate synthase and
+blocks thymetylate synthase
+
+886
+01:01:52,690 --> 01:01:55,800
+and therefore blocks
+DNA synthesis.
+
+887
+01:01:56,240 --> 01:02:01,580
+Also it will get
+incorporated into RNA
+
+888
+01:02:01,580 --> 01:02:04,120
+and DNA and prevent
+their synthesis.
+
+889
+01:02:04,980 --> 01:02:07,180
+What is the function
+of Leucovorin in
+
+890
+01:02:07,180 --> 01:02:09,500
+the Folfox regimen
+which I actually
+
+891
+01:02:09,770 --> 01:02:13,080
+didn't mention to you but
+it's very very important.
+
+892
+01:02:15,840 --> 01:02:21,920
+we talked about lucovorin
+being a rescue agent with
+
+893
+01:02:21,920 --> 01:02:26,560
+methotrexate that's not it's
+purpose here I said that
+
+894
+01:02:29,420 --> 01:02:35,660
+5F the fluorinated
+deoxyuridine monophosphate
+
+895
+01:02:36,240 --> 01:02:39,120
+complexes with folate which is
+
+896
+01:02:39,120 --> 01:02:41,620
+uridine monophosphate
+just does that
+
+897
+01:02:44,000 --> 01:02:49,740
+so by using this
+leucovorin it's going to
+
+898
+01:02:49,740 --> 01:02:54,700
+stabilize that bond with
+thimitolate synthase and
+
+899
+01:02:54,700 --> 01:02:58,280
+that will increase the
+inhibition of the enzyme
+
+900
+01:02:58,280 --> 01:03:01,380
+and efficacy of the
+full fox treatment also
+
+901
+01:03:01,380 --> 01:03:04,400
+full ferry which is
+arenotecan which i'll talk
+
+902
+01:03:04,400 --> 01:03:07,600
+about when i get there
+so please know this part
+
+903
+01:03:10,780 --> 01:03:14,920
+Leucovorin is given
+just prior to the 5
+
+904
+01:03:14,920 --> 01:03:19,140
+-FU. With methotrexate,
+leucovorin is given
+
+905
+01:03:19,140 --> 01:03:23,180
+about 24 hours after
+the methotrexate.
+
+906
+01:03:24,020 --> 01:03:28,840
+What drug is a cytidine
+analog activated to the
+
+907
+01:03:28,840 --> 01:03:31,840
+triphosphate deoxyform, which
+inhibits blah, blah, blah,
+
+908
+01:03:33,020 --> 01:03:34,120
+citerabine?
+
+909
+01:03:34,740 --> 01:03:37,960
+It inhibits DNA
+polymerase alpha
+
+910
+01:03:37,960 --> 01:03:40,840
+and beta and also
+is incorporated.
+
+911
+01:03:41,840 --> 01:03:46,040
+And poor metabolizers
+are at increased risk of
+
+912
+01:03:46,460 --> 01:03:52,300
+mercaptopurine, and that's
+thiopurine methyl transferase.
+
+913
+01:03:55,330 --> 01:03:59,050
+This is just a summary
+of the anti-metabolites.
+
+914
+01:03:59,050 --> 01:04:01,980
+I know it's probably got
+confusing along the way.
+
+915
+01:04:03,250 --> 01:04:05,620
+Which takes us
+to our anti-tumor
+
+916
+01:04:05,620 --> 01:04:08,380
+antibiotics. Why are
+they called antibiotics?
+
+917
+01:04:08,700 --> 01:04:13,440
+Because the original ones
+were derived from the
+
+918
+01:04:13,440 --> 01:04:19,180
+streptomyces microbe, which
+is a gram-positive bacterium.
+
+919
+01:04:20,060 --> 01:04:24,750
+and the others were semi
+or semi-synthetic so
+
+920
+01:04:25,120 --> 01:04:27,400
+doxorubicin is the only
+one i'm going to talk
+
+921
+01:04:27,400 --> 01:04:30,720
+about donorubicin was
+the first one i mentioned
+
+922
+01:04:30,720 --> 01:04:34,020
+before that it's
+donorubicin is given with
+
+923
+01:04:34,940 --> 01:04:38,940
+citerabine for treatment
+of aml but that's just
+
+924
+01:04:38,940 --> 01:04:42,380
+about its only use
+doxorubicin is super important
+
+925
+01:04:44,980 --> 01:04:45,940
+IV,
+
+926
+01:04:46,080 --> 01:04:48,640
+let's see, what do I want
+to, we'll talk about that
+
+927
+01:04:48,640 --> 01:04:52,640
+it's protein, sorry, p
+-glycoprotein substrate does not
+
+928
+01:04:52,640 --> 01:04:58,460
+cross into the CNS. We see
+our CYPs are involved here,
+
+929
+01:04:58,460 --> 01:05:00,980
+so we have to be thinking
+about drug interactions.
+
+930
+01:05:01,900 --> 01:05:06,160
+It goes out through the
+feces, not the urine, and
+
+931
+01:05:06,770 --> 01:05:11,240
+the half-life is multi
+-phasic you don't have to
+
+932
+01:05:11,240 --> 01:05:17,200
+memorize that anthracyclines
+are red they just are
+
+933
+01:05:18,500 --> 01:05:21,580
+that's a natural color
+so you can think rubicin
+
+934
+01:05:21,580 --> 01:05:26,100
+think ruby think red
+and they can turn urine
+
+935
+01:05:26,100 --> 01:05:28,560
+red and that can be
+concerning to the patient
+
+936
+01:05:28,560 --> 01:05:30,800
+but it's just the drug
+coming out that way
+
+937
+01:05:35,460 --> 01:05:39,600
+plex mechanism of action
+topoisomerase 2 inhibition
+
+938
+01:05:39,600 --> 01:05:42,950
+i'll talk more about that
+when i get to that enzyme.
+
+939
+01:05:43,600 --> 01:05:47,920
+In any case, we get
+our doxorubicin or our
+
+940
+01:05:47,920 --> 01:05:52,400
+rubicin, topo-2, DNA
+complex, so they're all stuck
+
+941
+01:05:52,400 --> 01:05:55,680
+together, and that causes
+irreparable DNA breaks
+
+942
+01:05:55,680 --> 01:05:59,340
+and apoptosis. Then
+it can get into it,
+
+943
+01:05:59,340 --> 01:06:04,300
+intercalated, so it inserts
+between the base pairs
+
+944
+01:06:04,300 --> 01:06:09,480
+that causes the uncoiling,
+blocks the synthesis
+
+945
+01:06:09,480 --> 01:06:12,140
+and repair and that causes
+the strand to break.
+
+946
+01:06:13,280 --> 01:06:17,980
+And free radical formation
+is semiquinone oxygen
+
+947
+01:06:17,980 --> 01:06:22,800
+and oxygen free radicals.
+They cause damage
+
+948
+01:06:22,800 --> 01:06:28,620
+to all types of products
+within the cell proteins
+
+949
+01:06:28,620 --> 01:06:35,560
+and DNA and that causes
+the strand to break,
+
+950
+01:06:36,580 --> 01:06:39,780
+and also membrane
+damage. Forgot to mention
+
+951
+01:06:39,780 --> 01:06:43,000
+that. Causes damage to
+the membrane function.
+
+952
+01:06:44,000 --> 01:06:45,200
+Okay,
+
+953
+01:06:46,060 --> 01:06:49,920
+multi-drug resistance
+is common, and what
+
+954
+01:06:49,920 --> 01:06:54,680
+we're seeing here is
+efflux, mainly efflux, but
+
+955
+01:06:54,680 --> 01:06:58,540
+also inactivation
+of these semiquinone
+
+956
+01:06:58,540 --> 01:07:02,300
+radicals, oxidative
+radicals, decrease their
+
+957
+01:07:02,300 --> 01:07:07,220
+mutations in the topo-2
+increased repair break.
+
+958
+01:07:11,680 --> 01:07:13,460
+Cardiotoxicity. This is a big
+
+959
+01:07:13,460 --> 01:07:15,660
+thing with the anthracyclines.
+
+960
+01:07:16,380 --> 01:07:17,760
+Cardiotoxicity.
+
+961
+01:07:18,840 --> 01:07:23,200
+Cumulative dose
+-related, so over time.
+
+962
+01:07:23,640 --> 01:07:28,000
+Irreversible progression
+to cardiomyopathy
+
+963
+01:07:28,000 --> 01:07:31,280
+and acute left
+ventricular failure.
+
+964
+01:07:31,420 --> 01:07:34,320
+So this is a delayed reaction.
+
+965
+01:07:34,420 --> 01:07:38,400
+It's very difficult to treat.
+
+966
+01:07:38,640 --> 01:07:42,480
+Patients who do
+experience this might
+
+967
+01:07:42,480 --> 01:07:44,480
+actually need a
+heart transplant.
+
+968
+01:07:45,920 --> 01:07:48,200
+A more acute kind is this
+
+969
+01:07:48,200 --> 01:07:50,700
+pericarditis or
+myocarditis syndrome.
+
+970
+01:07:51,200 --> 01:07:54,340
+Now, bone marrow suppression.
+
+971
+01:07:56,200 --> 01:07:57,480
+Neurotoxicity.
+
+972
+01:07:57,820 --> 01:07:59,520
+CNS toxicity.
+
+973
+01:07:59,640 --> 01:08:05,240
+And then these are quite
+irritating. So we can
+
+974
+01:08:05,240 --> 01:08:09,260
+get the extravasation
+and necrosis of tissues.
+
+975
+01:08:10,370 --> 01:08:12,220
+Radiation recall,
+I have a picture of
+
+976
+01:08:12,220 --> 01:08:15,860
+that. And of course,
+secondary cancers.
+
+977
+01:08:16,440 --> 01:08:19,700
+So this is a picture
+of radiation recall.
+
+978
+01:08:21,240 --> 01:08:25,620
+This is just sun. The patient
+was irradiated, but then
+
+979
+01:08:25,620 --> 01:08:30,640
+much later went out in the
+sun and the sun this is
+
+980
+01:08:30,640 --> 01:08:34,960
+damaged from the just from
+the toxicity the radiation
+
+981
+01:08:34,960 --> 01:08:38,060
+recall basically and you
+see it's blistering it's
+
+982
+01:08:38,060 --> 01:08:43,640
+terrible here we have necrosis
+caused by extravasation
+
+983
+01:08:49,710 --> 01:08:53,370
+doxorubicin and trastuzumab
+we'll be talking
+
+984
+01:08:53,370 --> 01:08:56,070
+about trastuzumab they
+both cause cardiac
+
+985
+01:08:56,070 --> 01:08:59,510
+toxicity. And when you
+add cyclophosphamide
+
+986
+01:08:59,510 --> 01:09:02,610
+to the group, we get
+more cardiotoxicity.
+
+987
+01:09:05,770 --> 01:09:08,670
+Paclitaxel plus
+the anthracycline,
+
+988
+01:09:08,670 --> 01:09:11,290
+we talked about T before P.
+
+989
+01:09:14,450 --> 01:09:17,310
+And the anthracycline
+should be administered
+
+990
+01:09:17,310 --> 01:09:20,210
+before the taxane
+here, A before T.
+
+991
+01:09:22,470 --> 01:09:26,930
+and then we have regular
+metabolic and transport
+
+992
+01:09:26,930 --> 01:09:30,990
+related things okay natural
+products they're the
+
+993
+01:09:30,990 --> 01:09:34,750
+vinca alkaloids and the
+topoisomerase inhibitors
+
+994
+01:09:34,750 --> 01:09:37,570
+oh I'm sorry the mitotic
+inhibitors that's these
+
+995
+01:09:37,570 --> 01:09:41,150
+two and the topoisomerase
+inhibitors that's these
+
+996
+01:09:41,150 --> 01:09:44,430
+two let's start with the
+vinca's these are called
+
+997
+01:09:44,430 --> 01:09:47,660
+natural products because
+they come from plants.
+
+998
+01:09:49,410 --> 01:09:52,250
+Vincristine is the only
+one that I have a star
+
+999
+01:09:52,250 --> 01:09:56,030
+on. All of these tend to
+have different properties,
+
+1000
+01:09:56,230 --> 01:09:58,710
+but I'm just going to
+talk about vincristine.
+
+1001
+01:10:00,910 --> 01:10:05,030
+IV, p-glycoprotein
+substrate, doesn't get much
+
+1002
+01:10:05,030 --> 01:10:09,890
+into the CNS. We have
+our CYP3A4 again. Now,
+
+1003
+01:10:10,330 --> 01:10:11,950
+this is a never forget.
+
+1004
+01:10:12,490 --> 01:10:16,230
+Intrathecal administration
+is contraindicated.
+
+1005
+01:10:16,730 --> 01:10:22,730
+It can cause
+terrible CNS damage.
+
+1006
+01:10:23,350 --> 01:10:26,250
+Some patients might have
+such terrible damage,
+
+1007
+01:10:26,250 --> 01:10:29,030
+they even lose their legs,
+and it can be deadly.
+
+1008
+01:10:32,510 --> 01:10:35,990
+Mechanism of action,
+it inhibits microtubule
+
+1009
+01:10:35,990 --> 01:10:40,050
+polymerization. And I'll talk
+about that on the next slide.
+
+1010
+01:10:40,630 --> 01:10:43,390
+Multidrug resistance
+is common. I talked
+
+1011
+01:10:43,390 --> 01:10:45,010
+about that with
+the anthocyclines.
+
+1012
+01:10:46,350 --> 01:10:48,950
+So we get cross-resistance.
+
+1013
+01:10:50,190 --> 01:10:53,790
+These are a number
+of the efflux pumps.
+
+1014
+01:10:54,710 --> 01:10:56,570
+Multidrug resistance.
+
+1015
+01:10:57,390 --> 01:11:00,470
+Multidrug-associated
+resistance protein.
+
+1016
+01:11:00,470 --> 01:11:02,770
+Breast cancer
+resistance protein.
+
+1017
+01:11:02,970 --> 01:11:04,070
+P-glycoprotein.
+
+1018
+01:11:04,850 --> 01:11:09,470
+protein or mutations
+in the site of action.
+
+1019
+01:11:10,490 --> 01:11:13,410
+Vincristine,
+pediatric and adult
+
+1020
+01:11:13,410 --> 01:11:17,310
+leukemias, lymphomas,
+and solid tumors.
+
+1021
+01:11:19,450 --> 01:11:22,170
+Vincristine is the
+treatment of choice to
+
+1022
+01:11:22,170 --> 01:11:26,190
+induce remission in
+children with leukemia.
+
+1023
+01:11:28,250 --> 01:11:31,710
+Neurotoxicity is the main
+dose limiting toxicity. I
+
+1024
+01:11:31,710 --> 01:11:36,290
+have a slide to demonstrate
+this in a few slides now
+
+1025
+01:11:36,290 --> 01:11:39,230
+constipation this is
+peculiar we don't usually see
+
+1026
+01:11:39,230 --> 01:11:43,610
+this we usually see diarrhea
+then christine constipation
+
+1027
+01:11:43,610 --> 01:11:49,190
+**** severe abdominal
+pain and obstruction and
+
+1028
+01:11:49,190 --> 01:11:53,110
+again extravasation it causes
+blisters at the injection
+
+1029
+01:11:53,110 --> 01:11:57,720
+site and then we have
+our CYP, P-glycoprotein.
+
+1030
+01:12:00,650 --> 01:12:02,370
+Here's the activity.
+
+1031
+01:12:03,030 --> 01:12:06,570
+Bank of alkaloids bind to
+beta tubulin and block the
+
+1032
+01:12:06,570 --> 01:12:10,270
+polymerization of that beta
+tubulin so microtubules
+
+1033
+01:12:10,270 --> 01:12:15,450
+are not formed. And in
+that way, It blocks mitosis
+
+1034
+01:12:15,450 --> 01:12:21,290
+in the metaphase, and that
+will lead to apoptosis.
+
+1035
+01:12:23,210 --> 01:12:24,410
+Now,
+
+1036
+01:12:25,210 --> 01:12:26,550
+the taxanes.
+
+1037
+01:12:27,640 --> 01:12:29,630
+This is the natural product,
+
+1038
+01:12:29,630 --> 01:12:31,190
+and it comes from the yew tree.
+
+1039
+01:12:32,130 --> 01:12:37,950
+Cell division, again, it
+prevents the cell division.
+
+1040
+01:12:38,490 --> 01:12:41,290
+Paclitaxel and docetaxel are
+
+1041
+01:12:41,290 --> 01:12:43,090
+both very, very
+important drugs.
+
+1042
+01:12:43,990 --> 01:12:48,450
+So I've underlined some
+important pharmacokinetic
+
+1043
+01:12:48,450 --> 01:12:52,450
+properties here.
+Paclitaxel, docetaxel, both
+
+1044
+01:12:52,450 --> 01:12:56,010
+P-glycoprotein substrates,
+CYP3A4 metabolism,
+
+1045
+01:12:56,270 --> 01:12:59,190
+***** excretion of metabolites.
+
+1046
+01:13:00,470 --> 01:13:05,970
+paclitaxel has non-linear
+clearance non-linear and
+
+1047
+01:13:05,970 --> 01:13:09,630
+this is probably not hasn't
+been definitely shown but
+
+1048
+01:13:09,630 --> 01:13:14,190
+probably related to the fact
+that it does not dissolve
+
+1049
+01:13:14,190 --> 01:13:19,790
+in the iv fluid and the
+diluent so it has to be
+
+1050
+01:13:19,790 --> 01:13:24,290
+mixed together with this
+castor oil product and that
+
+1051
+01:13:24,290 --> 01:13:27,070
+could be the reason why it
+has non-linear clearance.
+
+1052
+01:13:27,510 --> 01:13:30,570
+NAB paclitaxel
+is a nanoparticle
+
+1053
+01:13:30,570 --> 01:13:32,670
+albumin-bound paclitaxel.
+
+1054
+01:13:33,890 --> 01:13:37,150
+It is soluble in
+aqueous solution.
+
+1055
+01:13:37,430 --> 01:13:42,490
+And cabazitaxel is a leader
+addition to the group
+
+1056
+01:13:43,710 --> 01:13:49,110
+and it might be more
+useful in certain
+
+1057
+01:13:49,110 --> 01:13:54,290
+cancers where the MDR
+proteins are expressed.
+
+1058
+01:13:55,290 --> 01:13:59,030
+High potential for CYP
+-mediated drug interactions.
+
+1059
+01:14:00,850 --> 01:14:02,450
+Now,
+
+1060
+01:14:02,650 --> 01:14:08,670
+taxanes bind to the beta
+-tubulin and stabilize the
+
+1061
+01:14:08,670 --> 01:14:14,070
+microtubules so that the
+polymer does not disassemble.
+
+1062
+01:14:15,310 --> 01:14:20,350
+this causes defects in the
+mitotic symbol a spindle
+
+1063
+01:14:20,350 --> 01:14:26,310
+assembly chromosome segregation
+cell division and the
+
+1064
+01:14:26,310 --> 01:14:30,510
+microtubules accumulate cell
+cycle arrest and apoptosis
+
+1065
+01:14:32,530 --> 01:14:35,590
+broad spectrum these
+drugs are broad spent
+
+1066
+01:14:35,670 --> 01:14:37,950
+cabazitaxel not but
+the others are broad
+
+1067
+01:14:37,950 --> 01:14:41,030
+spectrum of solid tumors
+that's a takeaway with
+
+1068
+01:14:41,030 --> 01:14:44,490
+the therapeutic use
+resistance we see is MDR
+
+1069
+01:14:44,490 --> 01:14:48,150
+genes again and mutations
+in beta tubulin.
+
+1070
+01:14:48,290 --> 01:14:49,550
+Toxicities,
+
+1071
+01:14:49,690 --> 01:14:56,290
+these are the dose limiting
+
+1072
+01:14:56,290 --> 01:14:58,450
+effects, the ones on the top.
+
+1073
+01:14:58,730 --> 01:15:02,510
+Peripheral neuropathy is
+known as glove and stocking.
+
+1074
+01:15:03,260 --> 01:15:06,630
+I'll show you the picture
+on the next slide.
+
+1075
+01:15:06,930 --> 01:15:09,530
+Radiation recall again, fluid
+
+1076
+01:15:09,530 --> 01:15:13,350
+retention,
+extravasation, and AB4T.
+
+1077
+01:15:14,050 --> 01:15:17,510
+So you can see the
+similarities from
+
+1078
+01:15:17,510 --> 01:15:19,470
+one group to the
+next to the next.
+
+1079
+01:15:21,090 --> 01:15:24,170
+Now I put this peripheral
+neuropathy slide here
+
+1080
+01:15:24,170 --> 01:15:27,630
+because the vinca alkaloids
+and the taxanes are so
+
+1081
+01:15:27,630 --> 01:15:31,830
+well noted for it, but
+notice how many other drugs
+
+1082
+01:15:31,830 --> 01:15:34,630
+can cause peripheral
+neuropathy. But I'll just
+
+1083
+01:15:34,630 --> 01:15:39,750
+put vincas and taxanes,
+and here's our platinums.
+
+1084
+01:15:40,330 --> 01:15:43,550
+Vincas and taxane, taxane,
+
+1085
+01:15:43,550 --> 01:15:48,450
+oxaloplatin, vincas and taxane.
+
+1086
+01:15:48,490 --> 01:15:50,570
+So at all of these
+various locations,
+
+1087
+01:15:50,570 --> 01:15:54,150
+we get damage to the
+peripheral nerve.
+
+1088
+01:15:55,910 --> 01:15:57,790
+Glove and stocking.
+
+1089
+01:15:58,210 --> 01:16:01,430
+Gloves, stockings.
+
+1090
+01:16:05,970 --> 01:16:10,330
+Now, camptocesans
+comes from this tree,
+
+1091
+01:16:10,330 --> 01:16:13,570
+camptoceca acuminata,
+from the bark.
+
+1092
+01:16:13,870 --> 01:16:15,630
+Just arenotecan is the only
+
+1093
+01:16:15,630 --> 01:16:17,200
+one I'm asking you to remember.
+
+1094
+01:16:18,450 --> 01:16:20,690
+And these are some structural
+
+1095
+01:16:21,200 --> 01:16:25,050
+important features
+of the structure.
+
+1096
+01:16:26,010 --> 01:16:29,110
+Requirements is the C20 here,
+
+1097
+01:16:29,710 --> 01:16:33,770
+chiral center, and the
+C10 hydroxyl group.
+
+1098
+01:16:43,100 --> 01:16:46,680
+Renotecan is a pro-drug, and
+
+1099
+01:16:46,680 --> 01:16:50,470
+it's converted to this SN38.
+
+1100
+01:16:50,960 --> 01:16:53,260
+So SN38 is the active form.
+
+1101
+01:16:53,900 --> 01:16:55,800
+Topotecan is not a pro-drug.
+
+1102
+01:16:58,360 --> 01:17:02,400
+It can be closed or open
+ring, and it's the closed
+
+1103
+01:17:02,400 --> 01:17:06,900
+ring form that's active
+of SN38 for Renotecan.
+
+1104
+01:17:08,140 --> 01:17:12,520
+the the rings are closed
+and open are in dynamic
+
+1105
+01:17:12,520 --> 01:17:16,680
+equilibrium and i circled
+some important features
+
+1106
+01:17:16,680 --> 01:17:24,860
+of arenotecan ugt1a1 is
+required for inactivation
+
+1107
+01:17:24,860 --> 01:17:31,980
+of sn38 if ugt1a1 you
+that's udp glucuronol
+
+1108
+01:17:31,980 --> 01:17:37,840
+transferase, 1A1, is in
+low levels, low activity,
+
+1109
+01:17:37,840 --> 01:17:40,440
+then there will be greater
+concentrations of the
+
+1110
+01:17:40,440 --> 01:17:44,680
+SN38, increasing potentially
+the adverse effects.
+
+1111
+01:17:46,620 --> 01:17:50,740
+Diarrhea is an important
+toxicity of arenotecan.
+
+1112
+01:17:50,740 --> 01:17:52,960
+It can be severe. It can
+cause hospitalization.
+
+1113
+01:17:56,220 --> 01:17:58,020
+Mechanism of action.
+
+1114
+01:17:58,360 --> 01:18:03,740
+Camptothesis is
+topoisomerase one inhibition.
+
+1115
+01:18:05,490 --> 01:18:10,100
+Drug binds of the
+topoisomerase and the NIC DNA
+
+1116
+01:18:10,100 --> 01:18:13,960
+complex. The DNA strand
+resealing is prevented. The
+
+1117
+01:18:13,960 --> 01:18:18,360
+single strand break in the
+DNA accumulate and eventually
+
+1118
+01:18:18,360 --> 01:18:22,360
+the replication fork
+collides with the complex
+
+1119
+01:18:25,080 --> 01:18:28,240
+and that will cause
+irreversible double strand
+
+1120
+01:18:28,240 --> 01:18:31,100
+DNA break and that will
+lead to cell death.
+
+1121
+01:18:31,300 --> 01:18:34,820
+And the mechanisms of
+resistance, probably
+
+1122
+01:18:34,820 --> 01:18:37,220
+pretty much the same
+as the other ones.
+
+1123
+01:18:40,960 --> 01:18:43,600
+Arenotecan, numerous
+solid tumors. And here we
+
+1124
+01:18:43,600 --> 01:18:49,300
+have the full theory for
+colorectal cancer, metastatic
+
+1125
+01:18:49,300 --> 01:18:52,960
+colorectal cancer. It's
+the same combination
+
+1126
+01:18:52,960 --> 01:18:56,300
+we saw, only it's
+arenotecan instead. It seems
+
+1127
+01:18:56,300 --> 01:19:00,340
+to be equally effective
+to the full FOX regimen.
+
+1128
+01:19:00,780 --> 01:19:04,180
+bone marrow suppression
+both of them
+
+1129
+01:19:04,180 --> 01:19:08,540
+diarrhea dose limiting
+for arenotecan
+
+1130
+01:19:10,300 --> 01:19:12,960
+please remember the diary it's
+
+1131
+01:19:12,960 --> 01:19:14,760
+really terrible
+it's really terrible
+
+1132
+01:19:17,500 --> 01:19:21,140
+antipipidophilotoxins this
+is a topo 2 you can remember
+
+1133
+01:19:21,140 --> 01:19:25,020
+it by looking at the
+double l here in the name.
+
+1134
+01:19:27,080 --> 01:19:29,060
+Myelosuppression, bone
+marrow suppression,
+
+1135
+01:19:29,060 --> 01:19:31,260
+is the dose-limiting toxicity.
+
+1136
+01:19:33,660 --> 01:19:35,140
+Numerous cancers.
+
+1137
+01:19:36,540 --> 01:19:39,720
+Okay, it's the same
+idea. It's the formation,
+
+1138
+01:19:39,720 --> 01:19:42,840
+however, of the drug
+with the DNA in the Topo2
+
+1139
+01:19:42,840 --> 01:19:47,020
+complex. We saw that with
+doxorubicin, and that
+
+1140
+01:19:47,020 --> 01:19:51,300
+prevents the resealing of
+the double-stranded DNA.
+
+1141
+01:19:51,570 --> 01:19:53,800
+Oops, hit the
+wrong button again.
+
+1142
+01:19:53,900 --> 01:19:56,720
+The enzyme remains bound
+to the free end of the
+
+1143
+01:19:56,720 --> 01:19:59,520
+broken DNA strand, and
+what happens is these DNA
+
+1144
+01:19:59,520 --> 01:20:04,620
+breaks accumulate, and
+therefore we get apoptosis,
+
+1145
+01:20:04,820 --> 01:20:09,280
+cell cycle arrest in
+late S and the G2 phase,
+
+1146
+01:20:09,560 --> 01:20:12,280
+and the usual mechanisms
+of resistance.
+
+1147
+01:20:13,760 --> 01:20:17,020
+A broad-spectrum
+chemotherapy therapy causes
+
+1148
+01:20:17,020 --> 01:20:19,860
+irreversible cardiotoxicity
+that can lead to left
+
+1149
+01:20:19,860 --> 01:20:23,100
+ventricular dysfunction,
+cardiomyopathy, and
+
+1150
+01:20:23,100 --> 01:20:26,640
+heart failure, apparently
+resulting from the
+
+1151
+01:20:26,640 --> 01:20:29,860
+generation of free radicals
+and lipid peroxidation.
+
+1152
+01:20:29,860 --> 01:20:33,200
+What is the mechanism of
+action of this drug? So
+
+1153
+01:20:33,200 --> 01:20:37,960
+now I'm asking for the
+anti-cancer mechanism,
+
+1154
+01:20:38,400 --> 01:20:41,380
+DNA intercalation,
+inhibition of TOPO2,
+
+1155
+01:20:42,220 --> 01:20:45,640
+and generation of free
+radicals. And some of the
+
+1156
+01:20:45,640 --> 01:20:49,380
+others, bone marrow suppression,
+mucositis, stomatitis.
+
+1157
+01:20:49,620 --> 01:20:52,230
+A patient with a
+history of rhabdosarcoma
+
+1158
+01:20:52,230 --> 01:20:54,620
+treated with a
+chemotherapy regimen that
+
+1159
+01:20:54,620 --> 01:20:57,340
+includes vincristine
+continues to suffer
+
+1160
+01:20:57,340 --> 01:20:59,560
+from painful pins and
+needles sensation,
+
+1161
+01:20:59,560 --> 01:21:02,380
+motor weakness, and muscle
+cramps in the upper and
+
+1162
+01:21:02,380 --> 01:21:06,320
+lower extremities. What
+is this adverse effect?
+
+1163
+01:21:07,300 --> 01:21:10,740
+Peripheral neuropathy,
+sensory motor peripheral
+
+1164
+01:21:10,740 --> 01:21:14,800
+neuropathy, and the dose
+-limiting toxicity of vincristine.
+
+1165
+01:21:16,960 --> 01:21:19,420
+What is the difference
+between the mechanisms of
+
+1166
+01:21:19,420 --> 01:21:22,020
+action of the vinca
+alkaloids and the taxanes?
+
+1167
+01:21:22,940 --> 01:21:25,120
+The vinca alkaloids inhibit
+
+1168
+01:21:25,120 --> 01:21:27,460
+polymerization of
+the microtubules.
+
+1169
+01:21:27,680 --> 01:21:30,780
+Taxanes stabilize
+the microtubules and
+
+1170
+01:21:30,780 --> 01:21:34,480
+prevent depolymerization,
+disassembly. And then
+
+1171
+01:21:34,480 --> 01:21:36,900
+they both suppress
+microtubule function,
+
+1172
+01:21:37,180 --> 01:21:38,780
+cell cycle arrest,
+
+1173
+01:21:39,120 --> 01:21:41,980
+and mitosis and apoptosis.
+
+1174
+01:21:42,300 --> 01:21:44,920
+A patient diagnosed with
+breast cancer receives
+
+1175
+01:21:44,920 --> 01:21:47,960
+paclitaxel intravenous infusion
+once weekly every three
+
+1176
+01:21:47,960 --> 01:21:51,680
+weeks as a component of
+her adjuvant chemotherapy
+
+1177
+01:21:51,680 --> 01:21:55,080
+regimen that includes
+doxorubicin and cyclophosphamide.
+
+1178
+01:21:55,420 --> 01:21:58,380
+What are the dose
+-limiting toxicities
+
+1179
+01:21:58,380 --> 01:22:00,940
+of each drug in the regimen?
+
+1180
+01:22:02,300 --> 01:22:04,140
+Paclitaxel, bone marrow
+
+1181
+01:22:04,140 --> 01:22:06,140
+suppression
+Peripheral neuropathy
+
+1182
+01:22:07,120 --> 01:22:10,100
+Doxorubicin, cardiotoxicity
+Bone marrow suppression
+
+1183
+01:22:10,480 --> 01:22:12,620
+Cyclophosphamide, bone
+marrow suppression
+
+1184
+01:22:12,620 --> 01:22:16,080
+Hemorrhagic cystitis And
+I should have put here
+
+1185
+01:22:16,860 --> 01:22:17,940
+Cardiotoxicity
+
+1186
+01:22:18,640 --> 01:22:20,500
+I don't know why I forgot A
+
+1187
+01:22:30,280 --> 01:22:34,360
+patient with a K-RAS Mutated
+metastatic colorectal
+
+1188
+01:22:34,360 --> 01:22:38,080
+cancer Is given the Fulferi
+regimen What does IRI
+
+1189
+01:22:38,800 --> 01:22:42,180
+Represent and what is its
+dose-limiting side effect.
+
+1190
+01:22:44,240 --> 01:22:48,720
+Arenotecan, pro-drug
+converted to SN38. Topo-1
+
+1191
+01:22:48,720 --> 01:22:52,000
+inhibitor prevents resealing
+of DNA strand, leading
+
+1192
+01:22:52,000 --> 01:22:54,520
+to strand breaks, cell
+cycle arrest, and S phase.
+
+1193
+01:22:55,080 --> 01:22:58,320
+And DNA strand breaks
+cause cell cycle arrest.
+
+1194
+01:22:59,700 --> 01:23:03,200
+This one is for the
+pipidofila toxins.
+
+1195
+01:23:05,000 --> 01:23:09,500
+What are other dose-limiting
+toxicities of the drug.
+
+1196
+01:23:10,160 --> 01:23:14,460
+Bone marrow suppression,
+mucositis, stomatitis.
+
+1197
+01:23:15,380 --> 01:23:18,420
+28-year-old male
+diagnosed with testicular
+
+1198
+01:23:18,420 --> 01:23:19,940
+cancer is treated
+with the first
+
+1199
+01:23:19,940 --> 01:23:24,020
+line regimen, which
+is abbreviated BEP.
+
+1200
+01:23:24,180 --> 01:23:27,580
+E represents a drug
+that prevents resealing
+
+1201
+01:23:27,580 --> 01:23:30,040
+of the double-stranded
+breaks in DNA,
+
+1202
+01:23:30,040 --> 01:23:33,440
+ultimately leading to
+cell cycle arrest in the S
+
+1203
+01:23:33,440 --> 01:23:37,100
+and G2 phase. What is
+the name of the drug.
+
+1204
+01:23:38,860 --> 01:23:42,080
+Etoposide, which
+inhibits Topo-2,
+
+1205
+01:23:42,440 --> 01:23:46,600
+forming that complex
+drug DNA Topo-2 complex,
+
+1206
+01:23:46,600 --> 01:23:49,220
+prevents resealing of the
+double-stranded breaks,
+
+1207
+01:23:49,220 --> 01:23:52,300
+causing irreversible
+double-stranded breaks.
+
+1208
+01:23:52,300 --> 01:23:55,660
+And as you can see,
+this one belongs
+
+1209
+01:23:55,660 --> 01:23:58,760
+down here. I just
+got the order wrong.
+
+1210
+01:24:01,880 --> 01:24:04,700
+what are the mechanisms
+of action of the other two
+
+1211
+01:24:04,700 --> 01:24:08,520
+drugs in the BEP regimen
+well honestly I don't expect
+
+1212
+01:24:08,520 --> 01:24:11,420
+you to know that it can
+come up in the boards so I'm
+
+1213
+01:24:11,420 --> 01:24:13,900
+going to mention it I'm
+not going to test you on it
+
+1214
+01:24:14,330 --> 01:24:19,360
+B stands for bleomycin which
+is an anti-tumor antibiotic
+
+1215
+01:24:19,360 --> 01:24:25,660
+and it's involved with
+iron, causes pulmonary
+
+1216
+01:24:25,890 --> 01:24:29,820
+fibrosis, which is called
+bleomycin lung. We saw busulfan
+
+1217
+01:24:29,820 --> 01:24:33,140
+lung before. This is
+bleomycin lung. And then the
+
+1218
+01:24:33,140 --> 01:24:35,380
+P stands for the platinum,
+which you know all about.
+
+1219
+01:24:38,240 --> 01:24:41,920
+Now, this treatment, BEP
+regimen for the treatment
+
+1220
+01:24:41,920 --> 01:24:45,980
+of testicular cancer,
+is frequently curative.
+
+1221
+01:24:46,700 --> 01:24:48,900
+what is an important
+mechanism of
+
+1222
+01:24:48,900 --> 01:24:50,900
+resistance common to
+the anthracyclines
+
+1223
+01:24:50,900 --> 01:24:53,440
+and the anti-tumor
+natural products
+
+1224
+01:24:54,300 --> 01:24:57,360
+efflux via upregulated
+expression of
+
+1225
+01:24:57,360 --> 01:25:00,100
+efflux pumps and I've
+listed them out here
+
+1226
+01:25:01,780 --> 01:25:03,580
+and this is a summary that
+
+1227
+01:25:03,580 --> 01:25:05,220
+I'm not going to read to you
+
+1228
+01:25:05,800 --> 01:25:08,740
+I gave you a little
+concept map here
+
+1229
+01:25:09,420 --> 01:25:12,340
+remember cancers are
+treated according to cancer
+
+1230
+01:25:12,340 --> 01:25:15,820
+genetics and their biology
+now It's no longer,
+
+1231
+01:25:15,940 --> 01:25:19,840
+the cancer is located in
+the lung or the cancer
+
+1232
+01:25:19,840 --> 01:25:22,760
+is located in the stomach
+or wherever it's located
+
+1233
+01:25:22,760 --> 01:25:25,880
+and therefore we pick
+our treatment that way?
+
+1234
+01:25:25,880 --> 01:25:29,440
+No. We pick our treatments
+according to the genetics
+
+1235
+01:25:29,440 --> 01:25:32,760
+of the cancer and the
+biology of the cancer.
+
+1236
+01:25:34,200 --> 01:25:37,390
+this is the conventionals
+here different sites of
+
+1237
+01:25:37,390 --> 01:25:41,020
+action it's a lot of them
+that i didn't talk about
+
+1238
+01:25:41,020 --> 01:25:45,900
+hopefully it's here just
+to help you visualize the
+
+1239
+01:25:45,900 --> 01:25:49,560
+various points various
+sites of action for the
+
+1240
+01:25:49,560 --> 01:25:54,960
+conventional chemos this is
+mechanisms of resistance i made
+
+1241
+01:25:54,960 --> 01:25:58,800
+this concept map Hopefully,
+it's helpful to you.
+
+1242
+01:26:00,320 --> 01:26:05,240
+And some tables of
+all these important
+
+1243
+01:26:05,240 --> 01:26:08,500
+points. And this
+is seen in a lot of
+
+1244
+01:26:08,500 --> 01:26:11,680
+different publications
+of our chemo man.
+
+1245
+01:26:12,400 --> 01:26:14,780
+And that concludes part one.
+
+1246
+01:26:15,670 --> 01:26:19,220
+Oh, and of course, just
+to let you know, we
+
+1247
+01:26:19,220 --> 01:26:22,700
+have the answers here
+to all the questions.
+
+1248
+01:26:25,820 --> 01:26:27,200
+Here we go.
