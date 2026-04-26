@@ -27,6 +27,8 @@ window.receiveLectureContent({
 # Lecture #170: Behavioral Medicine and Psychiatry Essentials
 
 **Lecturer:** L. Hoffman, Ph.D.
+**Session:** Lecture #170
+
 
 ## 1. Ego Defense Mechanisms
 Automatic psychological processes that protect the individual from anxiety.
@@ -146,7 +148,7 @@ Automatic psychological processes that protect the individual from anxiety.
   ],
   "pearls": [
     { "title": "Schizoid vs Avoidant", "content": "Schizoid = loner by **choice** (content). Avoidant = loner by **fear** (wants friends but is scared of rejection)." },
-    | title: "Displacement vs Projection", content: "Displacement = Anger at A, yell at B. Projection = I am angry at A, but I tell A 'Why are YOU so angry at me?'" },
+    { title: "Displacement vs Projection", content: "Displacement = Anger at A, yell at B. Projection = I am angry at A, but I tell A 'Why are YOU so angry at me?'" },
     { "title": "The Rule of the 'S's", "content": "**S**uppression and **S**ublimation are the 'S'uperior (mature) defenses." },
     { "title": "Fluid vs Crystallized", "content": "Old people are wise (Crystallized) but slow at puzzles (Fluid)." }
   ]

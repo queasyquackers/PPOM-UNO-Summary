@@ -27,6 +27,8 @@ window.receiveLectureContent({
 # Lecture #167: HIV, AIDS, and Human Retroviruses
 
 **Lecturer:** C. Abraham, M.D.
+**Session:** Lecture #167
+
 
 ## 1. HIV Structure and Genes
 HIV is a diploid (two identical copies), single-stranded, positive-sense, enveloped RNA virus.
@@ -177,6 +179,6 @@ Associated with **Adult T-cell Leukemia/Lymphoma (ATLL)** and Tropical Spastic P
     { "title": "The Window Period", "content": "If you suspect acute HIV but the test is negative, order the viral load. The antibodies take weeks; the virus takes days." },
     { "title": "Navir tease", "content": "Protease inhibitors end in **-navir**. Remember: 'Never (navir) tease (protease) a pro (protease).'" },
     { "title": "AZT Anemia", "content": "Zidovudine (AZT) 'zaps' the bone marrow. Expect a high MCV but low Hb." },
-    | title: "CCR5 vs CXCR4", content: "CCR5 = Macrophage tropic (Early). CXCR4 = T-cell tropic (Late/Bad)." }
+    { title: "CCR5 vs CXCR4", content: "CCR5 = Macrophage tropic (Early). CXCR4 = T-cell tropic (Late/Bad)." }
   ]
 });
