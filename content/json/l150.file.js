@@ -1,102 +1,160 @@
 window.receiveLectureContent({
-    title: "Lecture 150: Hematopoiesis",
-    date: "11/04",
-    time: "2:00pm - 3:00pm",
-    presenters: ["M.M. Plummer, M.D."],
-    module: "Hematology",
-    summary: `
-        <div class="summary-section">
-            <p><strong>Overview of Hematopoiesis</strong></p>
-            <p>Hematopoiesis is the complex, highly regulated process by which all mature blood cells are formed from a single type of precursor called the <strong>Hematopoietic Stem Cell (HSC)</strong>. This process occurs primarily in the bone marrow in adults, but its location shifts dramatically during fetal development. Understanding the maturation stages of blood cells is essential for diagnosing hematologic disorders, including anemias and leukemias (Slide 2-10).</p>
-            <ul>
-                <li><strong>Fetal Phases:</strong>
-                    <ul>
-                        <li><strong>Yolk Sac Phase:</strong> Begins around the 3rd week of gestation.</li>
-                        <li><strong>Hepatic/Splenic Phase:</strong> The liver and spleen take over during the first and second trimesters, primarily focused on erythropoiesis.</li>
-                        <li><strong>Myeloid Phase:</strong> The bone marrow becomes the primary site of hematopoiesis from the second trimester through birth and into adulthood (Slide 25-33).</li>
-                    </ul>
-                </li>
-            </ul>
-        </div>
-
-        <div class="summary-section">
-            <h3>Bone Marrow Structure and Cellularity</h3>
-            <p>Bone marrow is divided into <strong>red marrow</strong> (hematopoietically active) and <strong>yellow marrow</strong> (mostly adipocytes). Red marrow is highly vascular, containing sinusoids where mature cells enter circulation. In newborns, almost all bone marrow is red. As individuals age, red marrow is gradually replaced by yellow marrow, except in specific areas like the axial skeleton (Slide 41-62).</p>
-            <ul>
-                <li><strong>Sites of Active Marrow:</strong> In adults, red marrow is found primarily in the **flat bones** (sternum, pelvis/iliac crest) and the proximal ends of the femur and humerus. Clinical bone marrow biopsies are most commonly performed on the posterior iliac crest (Slide 37-40).</li>
-                <li><strong>Normal Cellularity for Age:</strong> A rule of thumb for estimating normal bone marrow cellularity is: **100 - Age +/- 10%**. For example, a 50-year-old should have approximately 40-60% cellularity. Values significantly above or below this range indicate **hypercellularity** (e.g., in leukemia) or **hypocellularity/aplasia** (Slide 146-156).</li>
-            </ul>
-        </div>
-
-        <div class="summary-section">
-            <h3>The Tri-Lineage Maturation</h3>
-            <p>A normal bone marrow biopsy should demonstrate **tri-lineage maturation**, meaning the presence of precursors for the three main blood cell types: myeloid (WBCs), erythroid (RBCs), and megakaryocytic (platelets). These all originate from the pluripotent hematopoietic stem cell (Slide 91-112).</p>
-            <ul>
-                <li><strong>Megakaryocytes:</strong> These are the largest cells in the marrow and are the precursors to platelets. Their large size makes them easily identifiable even on lower power magnification (Slide 84-88).</li>
-                <li><strong>Erythroid Series:</strong> Precursors for red blood cells, often appearing as small, dark blue cells in the marrow.</li>
-                <li><strong>Myeloid Series:</strong> Precursors for granulocytes (neutrophils, eosinophils, basophils).</li>
-            </ul>
-        </div>
-        
-        ::::correlate
-        Aplastic Anemia
-        - **Pathophysiology:** A condition of bone marrow failure characterized by a reduction in all three cell lines (**pancytopenia**). The marrow becomes **hypocellular** and is largely replaced by fat.
-        - **Presentation:** Fatigue (anemia), frequent infections (leukopenia), and easy bruising/bleeding (thrombocytopenia).
-        - **Diagnosis:** Bone marrow biopsy showing cellularity far below the expected range for age (often <10-25%).
-        - **Lecturer's Point:** This is a classic example of a **hypocellular** marrow state where the hematopoietic "factory" has shut down.
-        ::::
-    `,
-    anking: [
-        {
-            resource: "Boards and Beyond",
-            title: "Hematopoiesis",
-            tags: ["#B&B::10_Hematology::01_Basic_Concepts::01_Hematopoiesis"]
-        },
-        {
-            resource: "First Aid",
-            title: "Hematopoiesis",
-            tags: ["#FirstAid::Hematology::Physiology::Hematopoiesis"]
-        },
-        {
-            resource: "Pathoma",
-            title: "Bone Marrow Failure",
-            tags: ["#Pathoma::Chapter_13_Hematology::Bone_Marrow_Failure"]
-        }
-    ],
-    pearls: [
-        {
-            title: "Marrow Cellularity Rule",
-            content: "Normal marrow cellularity percentage is approximately **100 minus the patient's age**. A 70-year-old having 30% cells and 70% fat is normal."
-        },
-        {
-            title: "Fetal Hematopoiesis Mnemonic",
-            content: "**Y**oung **L**iver **S**ynthesizes **B**lood: **Y**olk sac (3-8wks), **L**iver (6wks-birth), **S**pleen (10-28wks), **B**one marrow (18wks to adult)."
-        },
-        {
-            title: "Identifying Megakaryocytes",
-            content: "Megakaryocytes are the 'giants' of the bone marrow. If you see an exceptionally large cell with a multi-lobed nucleus, it is likely a megakaryocyte."
-        }
-    ],
-    flashcards: [
-        {
-            question: "What is the primary site of hematopoiesis in the first few weeks of gestation?",
-            answer: "Yolk sac (blood islands)."
-        },
-        {
-            question: "What is the primary site of hematopoiesis in a healthy 30-year-old adult?",
-            answer: "Bone marrow (specifically flat bones like the pelvis and sternum)."
-        },
-        {
-            question: "How do you calculate the expected normal bone marrow cellularity for a 60-year-old?",
-            answer: "100 - 60 = 40% (Range: 30-50%)."
-        },
-        {
-            question: "Which cell type in the bone marrow is the precursor to platelets?",
-            answer: "Megakaryocyte."
-        },
-        {
-            question: "What are the three lineages required for a 'normal' bone marrow assessment?",
-            answer: "Erythroid, Myeloid, and Megakaryocytic."
-        }
+  "metadata": {
+    "id": "l150",
+    "title": "Hematology: Hematopoiesis",
+    "lecturer": "M.M. Plummer, M.D.",
+    "session": "Lecture #150",
+    "module": "Hematology",
+    "readingTime": "12-15 min"
+  },
+  "resources": {
+    "ankingResource": {
+      "primarySource": "Boards and Beyond",
+      "chapter": "Hematology > Basic Concepts > Hematopoiesis",
+      "alternatives": [
+        { "resource": "FirstAid", "chapter": "Hematology > Physiology > Hematopoiesis" },
+        { "resource": "Pathoma", "chapter": "Hematology > WBC Disorders > Bone Marrow Failure" }
+      ]
+    },
+    "anking": [
+      { "match": "Yolk sac hematopoiesis", "resources": "AnKing Step 1 v11: #B&B::10_Hematology::01_Basic_Concepts::01_Hematopoiesis" },
+      { "match": "Marrow cellularity formula", "resources": "AnKing Step 1 v11: #B&B::10_Hematology::01_Basic_Concepts::01_Hematopoiesis" },
+      { "match": "Aplastic Anemia", "resources": "AnKing Step 1 v11: #Pathoma::13_Hematology::02_WBC_Disorders::Bone_Marrow_Failure" }
     ]
+  },
+  "summary": `
+# Lecture #150: Hematology: Hematopoiesis
+
+**Lecturer:** M.M. Plummer, M.D.
+**Session:** Lecture #150
+
+## Overview of Hematopoiesis
+
+Story Mode: Hematopoiesis is the highly regulated process by which all mature blood cells are formed from a single type of precursor called the pluripotential Hematopoietic Stem Cell (HSC). This process begins early in fetal development and undergoes a journey through different organs before settling in the bone marrow.
+
+*   **Fetal Phases of Hematopoiesis:**
+    *   **Yolk Sac Phase:** Begins around the 3rd week of gestation (blood islands).
+    *   **Hepatic/Splenic Phase:** The liver becomes the primary site around 6 weeks and dominates during the first and second trimesters. The spleen also contributes.
+    *   **Myeloid (Bone Marrow) Phase:** The bone marrow takes over from the late second trimester onward, remaining the sole site of normal hematopoiesis into adulthood.
+
+:::mnemonic
+**Fetal Hematopoiesis Location**
+**Y**oung **L**iver **S**ynthesizes **B**lood:
+- **Y**olk sac (3-8 wks)
+- **L**iver (6 wks-birth)
+- **S**pleen (10-28 wks)
+- **B**one marrow (18 wks-adult)
+:::
+
+## Bone Marrow, Extramedullary Hematopoiesis, and Growth Factors
+
+Story Mode: In healthy adults, active red marrow is found primarily in the **flat bones** (sternum, pelvis/iliac crest) and proximal long bones. The rest is inactive yellow (fatty) marrow. Normal marrow cellularity is estimated by **100 - Patient's Age**. 
+
+If the bone marrow fails to meet the body's demands (e.g., due to severe chronic anemia, marrow fibrosis, or metastatic infiltration), the body can undergo **Extramedullary Hematopoiesis (EMH)**. The liver and spleen reactivate their fetal hematopoietic capabilities to produce blood cells, often resulting in hepatosplenomegaly.
+
+Hematopoiesis is driven by specific growth factors:
+*   **Erythropoietin (EPO):** Produced by the **kidneys** in response to hypoxia. Drives RBC production.
+*   **Thrombopoietin (TPO):** Produced by the **kidney and liver**. Drives platelet production.
+
+## Tri-Lineage Maturation Pathways
+
+Story Mode: A normal bone marrow biopsy must demonstrate progressive "tri-lineage maturation" of myeloid, erythroid, and megakaryocytic precursors. Understanding the specific stages of these pathways is critical for diagnosing leukemias and infections.
+
+*   **Granulopoiesis (Neutrophil Maturation):**
+    *   *Pathway:* Myeloblast $\\rightarrow$ **Promyelocyte** $\\rightarrow$ Myelocyte $\\rightarrow$ Metamyelocyte $\\rightarrow$ **Band** $\\rightarrow$ Segmented Neutrophil.
+    *   **Promyelocytes:** Large cells with distinct, thick primary granules. Arrest at this stage is the hallmark of Acute Promyelocytic Leukemia (APL).
+    *   **Bands:** The immediate precursor to mature neutrophils. Their nucleus is horseshoe-shaped. An increase in circulating bands is called a **"left shift"**, a classic sign of a severe bacterial infection causing the marrow to release immature cells early.
+*   **Erythropoiesis (RBC Maturation):**
+    *   *Pathway:* Pronormoblast $\\rightarrow$ Basophilic/Polychromatophilic/Orthochromic normoblasts $\\rightarrow$ **Reticulocyte** $\\rightarrow$ Mature RBC.
+    *   **Reticulocytes:** The immediate anucleated precursors to mature RBCs. They contain residual RNA meshwork. An elevated reticulocyte count indicates a healthy, functioning bone marrow appropriately responding to anemia (e.g., hemorrhage or hemolysis).
+*   **Megakaryopoiesis:**
+    *   **Megakaryocytes:** The largest cells in the marrow ("giants" with multi-lobed nuclei). They fragment their cytoplasm directly into the blood vessels to produce platelets.
+
+:::correlate
+Aplastic Anemia
+
+- **Pathophysiology:** A bone marrow failure state characterized by a severe reduction in all three cell lines (**pancytopenia**). The marrow becomes profoundly **hypocellular** and is replaced by yellow adipose tissue.
+- **Presentation:** Fatigue (anemia), opportunistic infections (leukopenia), and mucosal bleeding (thrombocytopenia).
+- **Diagnosis:** Bone marrow biopsy reveals an "empty marrow" with cellularity often below 10-25%.
+:::
+\`,
+  "questions": [
+    {
+      "id": 1,
+      "question": "A 70-year-old male undergoes a routine bone marrow biopsy as part of a workup for mild anemia. The pathologist reports that the marrow consists of approximately 30% hematopoietic cells and 70% adipose tissue. Based on this finding, which of the following is the most accurate interpretation of the patient's bone marrow cellularity?",
+      "options": [
+        "Profoundly hypocellular, consistent with aplastic anemia",
+        "Hypercellular, suggesting an early myeloproliferative disorder",
+        "Normal cellularity for the patient's age",
+        "Hypocellular, likely due to a recent viral infection",
+        "Hypercellular, consistent with a compensatory response to anemia"
+      ],
+      "correctAnswer": 3,
+      "rationale": "Normal bone marrow cellularity is estimated by the formula '100 - age'. For a 70-year-old patient, the expected cellularity is approximately 30% (with the remaining 70% being fat). Therefore, a biopsy showing 30% cellularity is perfectly normal for his age."
+    },
+    {
+      "id": 2,
+      "question": "During the 14th week of gestation, an ultrasound is performed on a fetus, and a sample of fetal blood is obtained. At this specific stage of fetal development, which organ is the primary site of hematopoiesis?",
+      "options": [
+        "Yolk sac",
+        "Bone marrow",
+        "Spleen",
+        "Liver",
+        "Thymus"
+      ],
+      "correctAnswer": 4,
+      "rationale": "Fetal hematopoiesis follows the 'Young Liver Synthesizes Blood' mnemonic. The yolk sac is the primary site from weeks 3-8. The liver takes over around week 6 and remains the dominant site of hematopoiesis throughout the first and second trimesters (up to about 28 weeks). The bone marrow becomes the primary site later in the third trimester."
+    },
+    {
+      "id": 3,
+      "question": "A 25-year-old female presents with severe fatigue, recurrent sinus infections, and petechiae on her lower extremities. Complete blood count reveals a hemoglobin of 7.2 g/dL, WBC count of 1,200/mm³, and platelets of 15,000/mm³. A bone marrow biopsy is performed. Which of the following classic findings would most likely be observed on her biopsy?",
+      "options": [
+        "A hypercellular marrow packed with monotonous lymphoblasts",
+        "A hypocellular marrow extensively replaced by adipose tissue",
+        "A normocellular marrow with absent megakaryocytes",
+        "A hypercellular marrow with a high myeloid-to-erythroid ratio",
+        "A marrow showing extensive fibrosis and teardrop cells"
+      ],
+      "correctAnswer": 2,
+      "rationale": "The patient's presentation of pancytopenia (anemia, leukopenia, and thrombocytopenia) strongly suggests aplastic anemia. The hallmark finding on a bone marrow biopsy for aplastic anemia is a profoundly hypocellular ('empty') marrow that is largely replaced by fat (adipose tissue)."
+    },
+    {
+      "id": 4,
+      "question": "A medical student is examining a normal bone marrow aspirate smear under the microscope. She identifies an exceptionally large cell with a voluminous, granular cytoplasm and a massive, multi-lobed nucleus. This cell is essential for primary hemostasis. What is the identity of this cell?",
+      "options": [
+        "Myeloblast",
+        "Pronormoblast",
+        "Megakaryocyte",
+        "Macrophage",
+        "Osteoclast"
+      ],
+      "correctAnswer": 3,
+      "rationale": "Megakaryocytes are the largest cells in the bone marrow. They are easily identifiable by their massive size and complex, multi-lobed nuclei. Megakaryocytes fragment their cytoplasm to produce platelets, which are essential for primary hemostasis."
+    },
+    {
+      "id": 5,
+      "question": "A 45-year-old patient presents to the emergency department with fever, chills, and productive cough. A complete blood count reveals a significantly elevated WBC count. A peripheral blood smear shows numerous neutrophils and a marked increase in immature granulocytes with horseshoe-shaped nuclei. What is the specific name of these immature cells, and what does their presence in the peripheral blood indicate?",
+      "options": [
+        "Promyelocytes; indicating an acute leukemia",
+        "Myeloblasts; indicating bone marrow failure",
+        "Bands; indicating a 'left shift' due to severe infection",
+        "Reticulocytes; indicating a compensatory response to hemolysis",
+        "Metamyelocytes; indicating extramedullary hematopoiesis"
+      ],
+      "correctAnswer": 3,
+      "rationale": "The cells described with horseshoe-shaped nuclei are 'bands', the immediate precursors to mature segmented neutrophils. An increase in circulating band cells is known clinically as a 'left shift', which occurs when the bone marrow is stimulated (often by severe bacterial infection) to rapidly release immature neutrophils into the blood to fight the infection."
+    }
+  ],
+  "flashcards": [
+    { "front": "What is the primary site of hematopoiesis in the first few weeks of gestation (weeks 3-8)?", "back": "Yolk sac (blood islands).", "tag": "Concept" },
+    { "front": "What organ produces Erythropoietin (EPO) in response to hypoxia?", "back": "The kidney.", "tag": "Physiology" },
+    { "front": "What is the phenomenon called when the liver and spleen reactivate to produce blood cells due to bone marrow failure?", "back": "**Extramedullary Hematopoiesis (EMH)**.", "tag": "Pathology" },
+    { "front": "What does a 'left shift' on a CBC differential indicate, and what specific cell is elevated?", "back": "Indicates a severe infection causing early release of WBCs. Elevated cell: **Band cells** (horseshoe-shaped nucleus).", "tag": "Clinical" },
+    { "front": "What is the immediate, anucleated precursor to a mature RBC, which serves as a marker of marrow response?", "back": "**Reticulocyte**.", "tag": "Histology" }
+  ],
+  "pearls": [
+    { "title": "Fetal Hematopoiesis Mnemonic", "content": "**Y**oung **L**iver **S**ynthesizes **B**lood: **Y**olk sac (3-8wks), **L**iver (6wks-birth), **S**pleen (10-28wks), **B**one marrow (18wks to adult)." },
+    { "title": "The Left Shift", "content": "When the body faces a severe infection, the marrow panics and releases neutrophils before they are fully mature 'segmented' cells. These immature neutrophils are called 'bands'. Seeing bands = Left shift." },
+    { "title": "Granulocyte Maturation Sequence", "content": "Myeloblast -> **Promyelocyte** (thick granules) -> Myelocyte -> Metamyelocyte (kidney-bean nucleus) -> **Band** (horseshoe nucleus) -> Neutrophil." }
+  ]
 });
