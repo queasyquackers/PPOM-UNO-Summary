@@ -1232,5 +1232,86 @@ window.receiveLectureIndex([
     "tags": "Lecture #159",
     "path": "content/json/l159.file.js",
     "readingTime": "15-20 min"
+  },
+  {
+    "id": "l161",
+    "title": "Lecture #161: Pathology of Hemorrhage",
+    "module": "Hematology",
+    "tags": "Lecture #161",
+    "path": "content/json/l161.file.js",
+    "readingTime": "15-20 min"
+  },
+  {
+    "id": "l162",
+    "title": "Lecture #162: Pathology of Thrombosis",
+    "module": "Hematology",
+    "tags": "Lecture #162",
+    "path": "content/json/l162.file.js",
+    "readingTime": "15-20 min"
+  },
+  {
+    "id": "l163",
+    "title": "Lecture #163: Pediatric Considerations in Hematology and Oncology",
+    "module": "Hematology",
+    "tags": "Lecture #163",
+    "path": "content/json/l163.file.js",
+    "readingTime": "15-20 min"
+  },
+  {
+    "id": "l164",
+    "title": "Lecture #164: Pharmacology: Drugs Used in Coagulation Disorders, Part 1",
+    "module": "Hematology",
+    "tags": "Lecture #164",
+    "path": "content/json/l164.file.js",
+    "readingTime": "15-20 min"
+  },
+  {
+    "id": "l165",
+    "title": "Lecture #165: Pharmacology: Drugs Used in Coagulation Disorders, Part 2",
+    "module": "Hematology",
+    "tags": "Lecture #165",
+    "path": "content/json/l165.file.js",
+    "readingTime": "15-20 min"
+  },
+  {
+    "id": "l166",
+    "title": "Lecture #166: Microbiology: Emerging Blood Borne Bacterial, Viral, Protozoal & Global Parasitic Infections",
+    "module": "Hematology",
+    "tags": "Lecture #166",
+    "path": "content/json/l166.file.js",
+    "readingTime": "15-20 min"
+  },
+  {
+    "id": "l167",
+    "title": "Lecture #167: Microbiology: HIV, AIDS and Human Retroviruses",
+    "module": "Hematology",
+    "tags": "Lecture #167",
+    "path": "content/json/l167.file.js",
+    "readingTime": "15-20 min"
+  },
+  {
+    "id": "l168",
+    "title": "Lecture #168: Microbiology: Hemorrhagic Viral Infections",
+    "module": "Hematology",
+    "tags": "Lecture #168",
+    "path": "content/json/l168.file.js",
+    "readingTime": "15-20 min"
+  },
+  {
+    "id": "l169",
+    "title": "Lecture #169: Microbiology: Opportunistic Infections",
+    "module": "Hematology",
+    "tags": "Lecture #169",
+    "path": "content/json/l169.file.js",
+    "readingTime": "15-20 min"
+  },
+  {
+    "id": "l170",
+    "title": "Lecture #170: DPR: Introduction to Behavioral Medicine",
+    "module": "Psychiatry",
+    "tags": "Lecture #170",
+    "path": "content/json/l170.file.js",
+    "readingTime": "10-15 min"
   }
-]);
+]);
+
