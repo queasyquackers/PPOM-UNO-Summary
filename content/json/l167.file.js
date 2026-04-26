@@ -39,7 +39,7 @@ HIV is a diploid (two identical copies), single-stranded, positive-sense, envelo
 ## 2. The HIV Life Cycle and Drug Targets
 1.  **Attachment:** gp120 binds CD4 and co-receptor (**CCR5** on macrophages early; **CXCR4** on T-cells late). *Maraviroc* blocks CCR5.
 2.  **Fusion:** gp41 mediates entry. *Enfuvirtide* blocks this.
-3.  **Reverse Transcription:** RNA $\rightarrow$ DNA. *NRTIs* (Tenofovir, Zidovudine) and *NNRTIs* (Efavirenz).
+3.  **Reverse Transcription:** RNA → DNA. *NRTIs* (Tenofovir, Zidovudine) and *NNRTIs* (Efavirenz).
 4.  **Integration:** Viral DNA into host genome. *Integrase Inhibitors* (-tegravir).
 5.  **Cleavage:** Protease cleaves polyproteins into functional units. *Protease Inhibitors* (-navir).
 

@@ -34,7 +34,7 @@ window.receiveLectureContent({
 Presents with **mucocutaneous bleeding** (petechiae, purpura, epistaxis).
 *   **Immune Thrombocytopenic Purpura (ITP):** Anti-GpIIb/IIIa antibodies. Children (acute, post-viral); Adults (chronic, SLE-associated).
 *   **Thrombotic Microangiopathies (MAHA):**
-    *   **TTP:** ADAMTS13 deficiency $\rightarrow$ ultra-large vWF multimers $\rightarrow$ microthrombi. Pentad: **FAT RN**.
+    *   **TTP:** ADAMTS13 deficiency → ultra-large vWF multimers → microthrombi. Pentad: **FAT RN**.
     *   **HUS:** Shiga toxin (E. coli O157:H7) damages endothelium. Triad: MAHA, Thrombocytopenia, Acute Renal Failure.
 *   **Qualitative Platelet Defects:**
     *   **Bernard-Soulier:** GpIb deficiency (Adhesion). **Big Platelets**. Failure to agglutinate with Ristocetin (does NOT correct with normal plasma).
@@ -44,7 +44,7 @@ Presents with **mucocutaneous bleeding** (petechiae, purpura, epistaxis).
 Presents with **deep tissue bleeding** (hemarthrosis, large ecchymoses).
 *   **Hemophilia A (VIII) and B (IX):** X-linked. High PTT.
 *   **Mixing Studies:** Used to differentiate factor deficiency from inhibitors.
-    *   **Correction:** Patient plasma + Normal plasma $\rightarrow$ PTT returns to normal. Diagnosis = **Factor Deficiency**.
+    *   **Correction:** Patient plasma + Normal plasma → PTT returns to normal. Diagnosis = **Factor Deficiency**.
     *   **No Correction:** PTT remains prolonged. Diagnosis = **Inhibitor** (e.g., Anti-VIII antibodies or Lupus Anticoagulant).
 *   **von Willebrand Disease (vWD):** Most common inherited bleeding disorder.
     *   **Type 1:** Partial quantitative deficiency (most common).

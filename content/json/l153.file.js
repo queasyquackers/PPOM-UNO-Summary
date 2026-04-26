@@ -43,7 +43,7 @@ window.receiveLectureContent({
 
 ## 2. Vitamin B12 and Folate (The "DNA Duo")
 *   **The Folate Trap:** Giving folate for B12 deficiency "fixes" the anemia (macrocytosis) but allows **neurological damage** to progress.
-*   **B12 Absorption:** Salivary R-binder $\rightarrow$ Stomach **Intrinsic Factor** (parietal cells) $\rightarrow$ **Terminal Ileum** absorption.
+*   **B12 Absorption:** Salivary R-binder → Stomach **Intrinsic Factor** (parietal cells) → **Terminal Ileum** absorption.
 *   **Management:** Folate is oral; B12 is usually **IM** or deep SC if there is an absorption defect (Pernicious Anemia).
 
 ## 3. Sickle Cell Management

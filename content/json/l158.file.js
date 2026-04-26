@@ -46,8 +46,8 @@ Hemostasis is the process by which the body stops bleeding. It must be rapid, lo
 
 ## 3. Secondary Hemostasis (The Coagulation Cascade)
 A series of zymogen activations leading to the formation of a stable fibrin clot.
-*   **Intrinsic Pathway:** Triggered by Factor XII (Hageman Factor) contact with collagen or glass. (XII -> XI -> IX -> VIII).
-*   **Extrinsic Pathway:** Triggered by **Tissue Factor (Factor III)** exposure. (III -> VII).
+*   **Intrinsic Pathway:** Triggered by Factor XII (Hageman Factor) contact with collagen or glass. (XII → XI → IX → VIII).
+*   **Extrinsic Pathway:** Triggered by **Tissue Factor (Factor III)** exposure. (III → VII).
 *   **Common Pathway:** Both converge on **Factor X**.
     *   Factor Xa + Va (along with Calcium and phospholipids) form the **Prothrombinase complex**.
     *   This converts Prothrombin (II) to **Thrombin (IIa)**.

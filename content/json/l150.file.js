@@ -70,9 +70,9 @@ Specific cytokines drive this differentiation:
 *   **IL-3:** Acts as a broad stimulant for all myeloid lineages ("Multi-CSF").
 
 ### Maturation Key Stages
-*   **Granulopoiesis:** Myeloblast $\rightarrow$ **Promyelocyte** (contains primary granules/Auer rods) $\rightarrow$ Myelocyte $\rightarrow$ Metamyelocyte $\rightarrow$ **Band** $\rightarrow$ Neutrophil.
+*   **Granulopoiesis:** Myeloblast → **Promyelocyte** (contains primary granules/Auer rods) → Myelocyte → Metamyelocyte → **Band** → Neutrophil.
 *   **The Left Shift:** An increase in **Bands** (>10% of WBCs) indicating the marrow is releasing immature cells to fight an acute bacterial infection.
-*   **Erythropoiesis:** Pronormoblast $\rightarrow$ Normoblast stages $\rightarrow$ **Reticulocyte** $\rightarrow$ RBC.
+*   **Erythropoiesis:** Pronormoblast → Normoblast stages → **Reticulocyte** → RBC.
     *   **Reticulocytes** contain residual rRNA and are the gold standard for measuring "marrow response" to anemia.
 
 :::correlate
@@ -155,7 +155,7 @@ Aplastic Anemia
       "question": "A patient's CBC shows 15% band cells. This finding is often referred to as a 'left shift'. In the normal sequence of granulocyte maturation, which cell type immediately precedes the band cell?",
       "options": ["Myeloblast", "Promyelocyte", "Myelocyte", "Metamyelocyte", "Segmented Neutrophil"],
       "correctAnswer": 4,
-      "rationale": "The sequence is: Myeloblast -> Promyelocyte -> Myelocyte -> Metamyelocyte -> Band -> Segmented Neutrophil."
+      "rationale": "The sequence is: Myeloblast → Promyelocyte → Myelocyte → Metamyelocyte → Band → Segmented Neutrophil."
     },
     {
       "id": 9,
@@ -180,7 +180,7 @@ Aplastic Anemia
   ],
   "flashcards": [
     { "front": "What is the defining surface marker for hematopoietic stem cells?", "back": "**CD34+**.", "tag": "Concept" },
-    { "front": "What is the sequence of fetal hematopoiesis organs?", "back": "**Yolk Sac** (3-8wks) -> **Liver** (6wks-birth) -> **Spleen** (10-28wks) -> **Bone Marrow** (18wks+).", "tag": "Physiology" },
+    { "front": "What is the sequence of fetal hematopoiesis organs?", "back": "**Yolk Sac** (3-8wks) → **Liver** (6wks-birth) → **Spleen** (10-28wks) → **Bone Marrow** (18wks+).", "tag": "Physiology" },
     { "front": "What does a reticulocyte count measure?", "back": "The bone marrow's **response** to anemia (effective erythropoiesis).", "tag": "Clinical" },
     { "front": "What are **Dacrocytes** and when do you see them?", "back": "**Teardrop cells**; seen in myelofibrosis or extramedullary hematopoiesis.", "tag": "Histology" },
     { "front": "Which cytokine stimulates eosinophils?", "back": "**IL-5**.", "tag": "Biochemistry" },

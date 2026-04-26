@@ -39,7 +39,7 @@ Antineoplastic agents exploit the rapid division of cancer cells. They are class
 
 ## 2. Antimetabolites (S-Phase)
 *   **Methotrexate (MTX):**
-    *   **Mechanism:** Competitively inhibits **Dihydrofolate Reductase (DHFR)** $\rightarrow$ decreases dTMP synthesis.
+    *   **Mechanism:** Competitively inhibits **Dihydrofolate Reductase (DHFR)** → decreases dTMP synthesis.
     *   **Resistance:** Decreased polyglutamation or altered DHFR.
     *   **Toxicity:** Myelosuppression, Mucositis, Hepatotoxicity. **Leucovorin (folinic acid) rescue** provides a reduced form of folate to bypass the block in normal cells.
 *   **5-Fluorouracil (5-FU):**
