@@ -464,20 +464,6 @@ window.receiveLectureIndex([
     "readingTime": 5
   },
   {
-    "id": "l113",
-    "title": "L#113: Clinical Skills: MSK Hand and Nerve Exam",
-    "module": "Orthopedics",
-    "path": "content/json/l113.file.js",
-    "readingTime": "8-10 min"
-  },
-  {
-    "id": "l114",
-    "title": "L#114: Introduction to Musculoskeletal Ultrasound",
-    "module": "Radiology",
-    "path": "content/json/l114.file.js",
-    "readingTime": "12-15 min"
-  },
-  {
     "id": "l60",
     "title": "Lecture #60: Sacral MET (Part 2)",
     "module": "OMM",

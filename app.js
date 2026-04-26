@@ -10,6 +10,24 @@ let sidebarVisible = true;
 let currentFontSize = 100; // Percentage
 let completedLectures = new Set(); // Track completed IDs
 let activeRecall = false; // Active Recall Mode State
+let pendingResolvers = new Map(); // Registry for pending lecture loads
+
+// Global callback for lectures that use the window.receiveLectureContent(data) format
+window.receiveLectureContent = (data) => {
+  if (!data) return;
+  // Try to find the ID. In newer files it's in metadata.id
+  const id = (data.metadata && data.metadata.id) || data.id;
+  if (!id) return;
+
+  const normalized = normalizeLectureData(data, id);
+  lecturesMap.set(normalized.id, normalized);
+
+  const resolver = pendingResolvers.get(normalized.id);
+  if (resolver) {
+    resolver(normalized);
+    pendingResolvers.delete(normalized.id);
+  }
+};
 
 document.addEventListener("DOMContentLoaded", async function () {
   // Load Theme
@@ -234,21 +252,17 @@ function checkDeepLink() {
 async function getLectureContent(id, path) {
   if (lecturesMap.has(id)) return lecturesMap.get(id);
 
+  // If already loading this specific ID, return the existing promise's result indirectly
+  // (Simplest way is just to let it run; the pendingResolvers check below handles the callback)
+  
   return new Promise((resolve, reject) => {
-    // Define global callback for the standard format
-    const originalCallback = window.receiveLectureContent;
-
-    window.receiveLectureContent = (data) => {
-      const normalized = normalizeLectureData(data, id);
-      lecturesMap.set(normalized.id, normalized);
-      if (normalized.id === id) {
-        resolve(normalized);
-      }
-    };
+    // Register this promise's resolver
+    pendingResolvers.set(id, resolve);
 
     const script = document.createElement('script');
     script.src = path;
     script.onerror = () => {
+      pendingResolvers.delete(id);
       reject(new Error("Network error loading lecture content"));
     };
     document.body.appendChild(script);
@@ -291,7 +305,12 @@ async function getLectureContent(id, path) {
         if (rawData) {
           const normalized = normalizeLectureData(rawData, id);
           lecturesMap.set(normalized.id, normalized);
-          resolve(normalized);
+          
+          const resolver = pendingResolvers.get(id);
+          if (resolver) {
+            resolver(normalized);
+            pendingResolvers.delete(id);
+          }
         }
 
         script.remove();
@@ -347,10 +366,17 @@ function normalizeLectureData(data, expectedId) {
   const mindmap = data.mindmap || data.mindMap || '';
 
   // Normalize: anking array
-  const anking = data.anking || [];
+  let anking = data.anking || [];
+  if (anking.length === 0 && data.resources && data.resources.anking) {
+    anking = data.resources.anking;
+  }
 
   // Normalize: ankingResource (handle resources alias)
-  const ankingResource = data.ankingResource || data.resources || null;
+  let ankingResource = data.ankingResource || data.resources || null;
+  // Unwrap nested ankingResource if present (l149+ format)
+  if (ankingResource && ankingResource.ankingResource) {
+    ankingResource = ankingResource.ankingResource;
+  }
 
   // Extract title/module from metadata if needed
   const title = data.title || meta.title || '';
