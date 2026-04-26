@@ -5,7 +5,7 @@ window.receiveLectureContent({
     "lecturer": "S. Lewis, M.D.",
     "session": "Lecture #159",
     "module": "Clinical Medicine",
-    "readingTime": "12-15 min"
+    "readingTime": "25-30 min"
   },
   "resources": {
     "ankingResource": {
@@ -18,130 +18,138 @@ window.receiveLectureContent({
     },
     "anking": [
       { "match": "Pap Smear Screening", "resources": "AnKing Step 2 v11: #B&B::06_ObGyn::Gyne::09_Cervical_Cancer" },
-      { "match": "Menopause Definition", "resources": "AnKing Step 1 v11: #FirstAid::Reproductive::Physiology::Menopause" },
-      { "match": "Postmenopausal Bleeding", "resources": "AnKing Step 2 v11: #OME::14_Gynecology::06_Endometrial_Cancer" }
+      { "match": "Naegele's Rule", "resources": "AnKing Step 2 v11: #B&B::06_ObGyn::Obst::01_Prenatal_Care::EDD" },
+      { "match": "GTPAL system", "resources": "AnKing Step 2 v11: #B&B::06_ObGyn::Obst::01_Prenatal_Care::GTPAL" }
     ]
   },
   "summary": `
-# Lecture #159: Introduction to the Gynecological and Obstetrical History
+# Lecture #159: Gynecological and Obstetrical History
 
 **Lecturer:** S. Lewis, M.D.
-**Session:** Lecture #159
 
-## Gynecological History
+## 1. Gynecological History
+*   **Menstrual History:** 
+    *   **Menarche:** Age of onset.
+    *   **LMP:** First day of the Last Menstrual Period.
+    *   **Cycle:** Duration (days of bleeding) and Frequency (days between starts).
+    *   **Terms:** 
+        *   **Menorrhagia:** Heavy/prolonged bleeding.
+        *   **Metrorrhagia:** Bleeding between periods.
+        *   **Menometrorrhagia:** Heavy bleeding between periods.
+        *   **Dysmenorrhea:** Painful menstruation.
+*   **Menopause:** 12 consecutive months of amenorrhea. Average age 51. **Postmenopausal bleeding is endometrial cancer until proven otherwise.**
+*   **Sexual History (The 5 P's):** Partners, Practices, Protection, Past STIs, Prevention of pregnancy.
 
-Story Mode: Obtaining a thorough gynecological history is essential for identifying pathology early, discussing sensitive topics (like safe sex or abuse), and providing anticipatory guidance across a woman's lifespan, from menarche to menopause. A structured approach is critical.
+## 2. Obstetrical History
+*   **GTPAL System:**
+    *   **G (Gravida):** Total number of pregnancies.
+    *   **T (Term):** Deliveries $\ge$ 37 weeks.
+    *   **P (Preterm):** Deliveries between 20 and 36 6/7 weeks.
+    *   **A (Abortion):** Pregnancies ending < 20 weeks (includes miscarriages and induced).
+    *   **L (Living):** Number of currently living children.
+*   **Naegele's Rule (Estimated Date of Delivery):** 
+    *   **EDD = LMP + 7 days - 3 months + 1 year.**
+*   **Complications:** Ask about Preeclampsia, Gestational Diabetes, and method of delivery (Vaginal vs. C-section).
 
-*   **The Menstrual Cycle:** Always determine the **age of menarche** (onset of first menses) and the exact first day of the **Last Menstrual Period (LMP)**. To objectively quantify flow intensity, ask how many pads or tampons are saturated per day or hour. Inquire about any intermenstrual bleeding, post-coital bleeding, or severe pain (dysmenorrhea).
-*   **Menopause:** Clinically defined as **one full year without menses** (amenorrhea). The average age of onset is 51. 
-    *   **Red Flag:** Any vaginal bleeding that occurs *after* a patient has officially entered menopause is considered highly abnormal and is a classic presenting sign of **endometrial (uterine) cancer** until proven otherwise.
-*   **Breast Health:** Ask about self-discovered lumps, skin dimpling, nipple retraction, or discharge. Confirm if the patient is up to date on their screening **mammograms**.
+## 3. Cervical Cancer Screening (Pap Smear)
+*   **Start Age:** 21 years (regardless of sexual activity).
+*   **Target:** **Transformation Zone** (Squamocolumnar Junction). This is where 90% of cancers originate.
+*   **Frequency:** Every 3 years (age 21-29); Every 3-5 years (age 30+ with HPV co-testing).
 
-## Sexual History and Contraception
-
-Story Mode: Taking a sexual history requires a non-judgmental, objective, and open-minded approach. Never assume a patient's sexual orientation or activity status based on age or marital status.
-
-*   **The 5 P's of Sexual History:** Partners (number and gender), Practices (vaginal, oral, anal), Protection from STIs, Past history of STIs, and Prevention of pregnancy.
-*   **Contraception and Preconception:** If the patient is trying to prevent pregnancy, review their current method for proper usage and satisfaction. 
-    *   **Preconception Care:** If a reproductive-aged female is sexually active with a male partner and is *not* using contraception, she must be advised to take a daily **prenatal vitamin containing folic acid (folate)** to prevent neural tube defects in the event of an unplanned pregnancy.
-
-## Obstetrical History
-
-Story Mode: A patient's past obstetrical history is the single most powerful predictor of their future pregnancy outcomes. 
-
-*   **The GP System (Gravida/Para):** 
-    *   **Gravida (G):** The total number of times a woman has been pregnant, regardless of the outcome.
-    *   **Para (P):** The number of births (often subdivided into Term, Preterm, Abortions/Miscarriages, and Living children - TPAL).
-*   **Complications:** Always ask about the method of delivery (vaginal vs. cesarean section) and any complications (e.g., preeclampsia, gestational diabetes, postpartum hemorrhage).
-*   **Postpartum Care:** The postpartum period is a vulnerable time. Utilize screening tools like the **Edinburgh Postnatal Depression Scale** to objectively assess for postpartum depression or anxiety, and evaluate for physical complications like mastitis if breastfeeding.
-
-:::highyield
-The Pap Smear and Cervical Cancer Screening
-
-- **Purpose:** The Pap smear (Papanicolaou test) is a cytology screening test designed to detect precancerous dysplastic cells before they progress to invasive **cervical cancer**.
-- **Etiology:** Over 90% of cervical cancers are caused by persistent infection with high-risk strains of the **Human Papillomavirus (HPV)** (especially strains 16 and 18).
-- **Anatomy:** The cervix has two distinct epithelial linings: the columnar epithelium (inside the endocervical canal) and the squamous epithelium (on the ectocervix). 
-- **The Target:** The exact point where these two tissues meet is called the **squamocolumnar junction (SCJ)** or transformation zone. This zone is highly dynamic and is the specific site where over 90% of cervical neoplasias originate. During a Pap smear, this exact junction must be sampled.
-- **Guidelines:** Current guidelines recommend initiating cervical cancer screening at **age 21**, regardless of the age of onset of sexual activity.
-:::
-\`,
+## 4. Sensitive Topics and Prevention
+*   **Intimate Partner Violence (IPV):** Must screen all women. Ask: "Do you feel safe at home?"
+*   **Preconception Care:** All women of childbearing age should take **Folic Acid** (400 mcg daily) to prevent Neural Tube Defects.
+`,
   "questions": [
     {
       "id": 1,
-      "question": "A 58-year-old female presents to the clinic complaining of a single episode of light vaginal spotting that occurred yesterday. She states her last menstrual period was four years ago, and she has not experienced any hot flashes or vaginal dryness recently. Which of the following is the most critical next step in the evaluation of this patient?",
-      "options": [
-        "Reassure her that occasional spotting is a normal part of menopause.",
-        "Perform a Pap smear to rule out cervical cancer.",
-        "Initiate hormone replacement therapy (HRT) to stabilize her uterine lining.",
-        "Perform an endometrial biopsy or transvaginal ultrasound to evaluate for endometrial cancer.",
-        "Advise her to keep a menstrual diary and return in six months."
-      ],
-      "correctAnswer": 4,
-      "rationale": "This patient has postmenopausal bleeding. Menopause is defined as 12 consecutive months of amenorrhea. Any vaginal bleeding occurring after this point is highly abnormal and is considered a classic presenting sign of endometrial (uterine) cancer. It requires immediate evaluation, typically beginning with a transvaginal ultrasound (to measure endometrial thickness) or a direct endometrial biopsy."
+      "question": "A patient's LMP was March 10, 2023. Using Naegele's rule, what is her Estimated Date of Delivery (EDD)?",
+      "options": ["December 10, 2023", "December 17, 2023", "January 17, 2024", "January 10, 2024", "December 3, 2023"],
+      "correctAnswer": 2,
+      "rationale": "Naegele's rule: LMP + 7 days (March 17) - 3 months (December 17) + 1 year (December 17, 2023). Wait, March is the 3rd month. 3 - 3 = 0 (December of previous year) + 1 year = Dec 17 of current year if early, or next year. Calculation: March 10 + 7 days = March 17. March 17 - 3 months = Dec 17. Since it was March 2023, the EDD is Dec 17, 2023."
     },
     {
       "id": 2,
-      "question": "A 24-year-old female presents for a routine wellness exam. She is sexually active with one male partner and states they 'use the pull-out method' because they are not currently trying to have a baby, but 'wouldn't be upset if it happened.' She is generally healthy and takes no daily medications. Besides discussing more reliable contraceptive options, what specific daily supplement should the physician strongly recommend?",
-      "options": [
-        "Iron supplementation to prevent anemia of pregnancy",
-        "Calcium and Vitamin D for fetal bone development",
-        "A prenatal vitamin containing folic acid (folate)",
-        "Vitamin B12 to prevent neurological complications",
-        "Daily low-dose aspirin to prevent preeclampsia"
-      ],
-      "correctAnswer": 3,
-      "rationale": "Any reproductive-aged female who is sexually active with a male partner and is not using reliable contraception is at high risk for an unplanned pregnancy. The neural tube closes very early in embryonic development (around week 4, often before a woman knows she is pregnant). Therefore, all women who might become pregnant should take a daily prenatal vitamin containing folic acid to prevent neural tube defects (like spina bifida)."
+      "question": "A woman is currently pregnant. She has one child born at 39 weeks, one child born at 34 weeks, and one miscarriage at 10 weeks. All children are living. What is her GTPAL?",
+      "options": ["G3 T1 P1 A1 L2", "G4 T1 P1 A1 L2", "G4 T2 P0 A1 L2", "G3 T2 P1 A0 L3", "G4 T1 P1 A1 L3"],
+      "correctAnswer": 2,
+      "rationale": "G: 4 (Current + 3 past). T: 1 (39 weeks). P: 1 (34 weeks). A: 1 (10 weeks). L: 2 (The two born alive). Wait, the question says 'All children are living'. The miscarriage is not a child. So L=2. G4 T1 P1 A1 L2."
     },
     {
       "id": 3,
-      "question": "During a routine gynecological examination, a physician prepares to perform a Pap smear on a 25-year-old female. To ensure the highest diagnostic yield for detecting cervical neoplasia, the physician must ensure the sampling brush specifically sweeps which of the following anatomical areas?",
-      "options": [
-        "The lateral vaginal fornices",
-        "The deep endocervical canal",
-        "The external surface of the ectocervix",
-        "The squamocolumnar junction (transformation zone)",
-        "The endometrial cavity"
-      ],
-      "correctAnswer": 4,
-      "rationale": "The squamocolumnar junction (SCJ), or transformation zone, is the dynamic area of the cervix where the glandular columnar epithelium of the endocervical canal meets the stratified squamous epithelium of the ectocervix. Because this area is undergoing constant metaplasia, it is highly susceptible to HPV infection and is the exact site where over 90% of cervical dysplasias and cancers originate. A Pap smear must sample this specific junction."
+      "question": "A 52-year-old woman hasn't had a period in 14 months. She presents today with light spotting. What is the most appropriate next step?",
+      "options": ["Reassurance that this is normal menopause", "Start HRT", "Endometrial biopsy", "Repeat exam in 6 months", "Check FSH levels"],
+      "correctAnswer": 3,
+      "rationale": "Any postmenopausal bleeding (defined as bleeding after 12 months of amenorrhea) is endometrial cancer until proven otherwise. Endometrial biopsy or transvaginal ultrasound (to check stripe thickness) is mandatory."
     },
     {
       "id": 4,
-      "question": "A 20-year-old female college student presents to the student health clinic to request testing for sexually transmitted infections. She reports becoming sexually active with a new female partner three months ago. According to current medical guidelines, should a routine Pap smear be performed at this visit?",
-      "options": [
-        "Yes, because she is sexually active.",
-        "Yes, because she has a new sexual partner.",
-        "No, because she only has female partners.",
-        "No, because cervical cancer screening does not begin until age 21.",
-        "Yes, to establish a baseline prior to age 21."
-      ],
-      "correctAnswer": 4,
-      "rationale": "Current guidelines recommend that routine cervical cancer screening (Pap smears) should be initiated at age 21 for all immunocompetent individuals with a cervix, regardless of their age of coitarche (onset of sexual activity), sexual orientation, or number of partners. Screening before age 21 is not recommended because HPV infections in this age group are extremely common and almost always clear spontaneously without causing cancer, whereas treating the transient dysplasia can cause unnecessary harm to the cervix."
+      "question": "A 19-year-old female presents for a routine checkup. She has been sexually active since age 16. Should a Pap smear be performed today?",
+      "options": ["Yes, because she has been active for >3 years", "Yes, to establish a baseline", "No, screening starts at age 21", "Only if she has multiple partners", "Only if she hasn't had the HPV vaccine"],
+      "correctAnswer": 3,
+      "rationale": "Current guidelines recommend starting cervical cancer screening at age 21, regardless of the age of sexual debut. Screening before 21 leads to unnecessary procedures for transient HPV infections."
     },
     {
       "id": 5,
-      "question": "When obtaining a patient's obstetrical history, the physician uses the Gravida/Para (G/P) system. A patient states she is currently pregnant. She has a healthy 3-year-old son who was born at 39 weeks gestation. She also reports having a spontaneous miscarriage at 8 weeks gestation two years ago. How should this patient's history be documented?",
+      "question": "What is the primary site sampled during a Pap smear to detect cervical dysplasia?",
+      "options": ["Fundus of the uterus", "Lateral vaginal walls", "Transformation zone", "Endometrial cavity", "Ovarian surface"],
+      "correctAnswer": 3,
+      "rationale": "The transformation zone (where columnar epithelium meets squamous epithelium) is the site of active cell turnover and where the vast majority of HPV-related dysplasia occurs."
+    },
+    {
+      "id": 6,
+      "question": "A patient reports 'bleeding between my regular periods.' Which medical term best describes this symptom?",
+      "options": ["Menorrhagia", "Metrorrhagia", "Dysmenorrhea", "Amenorrhea", "Oligomenorrhea"],
+      "correctAnswer": 2,
+      "rationale": "Metrorrhagia is defined as intermenstrual bleeding. Menorrhagia is heavy/prolonged menses. Oligomenorrhea is infrequent menses."
+    },
+    {
+      "id": 7,
+      "question": "All women of childbearing age should take folic acid daily. What is the standard recommended dose for low-risk women to prevent neural tube defects?",
+      "options": ["40 mcg", "400 mcg (0.4 mg)", "4 mg", "40 mg", "100 mg"],
+      "correctAnswer": 2,
+      "rationale": "The standard recommendation for all women of childbearing age is 400 mcg (0.4 mg) of folic acid daily. High-risk women (history of NTD) require 4 mg."
+    },
+    {
+      "id": 8,
+      "question": "A 25-year-old G1P0 at 10 weeks gestation presents for her first prenatal visit. When asked about her home life, she seems hesitant. What is the most appropriate way to screen for domestic violence?",
       "options": [
-        "G2 P1",
-        "G2 P2",
-        "G3 P1",
-        "G3 P2",
-        "G4 P1"
+        "Ask only if her partner is present",
+        "Screen only if you see physical bruises",
+        "Ask 'Do you feel safe in your home?' routinely and privately",
+        "Avoid asking to keep the visit comfortable",
+        "Assume she is safe because she is pregnant"
       ],
       "correctAnswer": 3,
-      "rationale": "Gravida (G) is the total number of pregnancies, including the current one. Para (P) is the number of pregnancies that reached viable gestational age (typically defined as >20 weeks), regardless of whether the child was born alive or stillborn. This patient has been pregnant 3 times (the son, the miscarriage, and the current pregnancy), so she is Gravida 3. She has had only 1 pregnancy progress past 20 weeks (the son), so she is Para 1. The correct documentation is G3 P1."
+      "rationale": "Intimate Partner Violence (IPV) screening is mandatory at every prenatal visit. It must be done privately (without the partner or family present) using direct but supportive questions."
+    },
+    {
+      "id": 9,
+      "question": "A woman has had twin boys born at 35 weeks and a daughter born at 40 weeks. She is not currently pregnant. What is her Gravida and Para?",
+      "options": ["G2 P2", "G3 P3", "G2 P3", "G3 P2", "G2 P1"],
+      "correctAnswer": 1,
+      "rationale": "Gravida is the number of pregnancies (2). Para is the number of pregnancies reaching >20 weeks (2). Twins count as one pregnancy (G1) and one delivery (P1)."
+    },
+    {
+      "id": 10,
+      "question": "A 16-year-old girl has not yet started her period but has normal breast and pubic hair development. What is the medical term for her lack of menses?",
+      "options": ["Primary Amenorrhea", "Secondary Amenorrhea", "Dysmenorrhea", "Menarche", "Precocious Puberty"],
+      "correctAnswer": 1,
+      "rationale": "Primary amenorrhea is the absence of menses by age 15 with secondary sex characteristics, or by age 13 without them."
     }
   ],
   "flashcards": [
-    { "front": "What is the strict clinical definition of menopause?", "back": "One full year (12 consecutive months) without menses (amenorrhea).", "tag": "Physiology" },
-    { "front": "What highly concerning diagnosis must be ruled out immediately in any patient presenting with **postmenopausal vaginal bleeding**?", "back": "Endometrial (uterine) cancer.", "tag": "Pathology" },
-    { "front": "At what age do current guidelines recommend initiating routine cervical cancer screening (Pap smears)?", "back": "Age 21.", "tag": "Screening" },
-    { "front": "From which specific anatomical area of the cervix must a Pap smear specimen be obtained to detect dysplasia?", "back": "The **squamocolumnar junction** (SCJ) / transformation zone.", "tag": "Anatomy" },
-    { "front": "Why must any woman capable of becoming pregnant take a daily prenatal vitamin containing folic acid?", "back": "To prevent **neural tube defects** (like spina bifida) in the event of an early, unplanned pregnancy.", "tag": "Pharmacology" }
+    { "front": "What is **Naegele's Rule** for EDD?", "back": "**LMP + 7 days - 3 months + 1 year**.", "tag": "OB" },
+    { "front": "What does the 'A' in **GTPAL** stand for?", "back": "**Abortion** (any pregnancy lost < 20 weeks).", "tag": "OB" },
+    { "front": "What is the definition of **Menopause**?", "back": "**12 months** of amenorrhea.", "tag": "Gyn" },
+    { "front": "At what age should **Pap smears** begin?", "back": "Age **21**.", "tag": "Screening" },
+    { "front": "What is the most concerning cause of **postmenopausal bleeding**?", "back": "**Endometrial Cancer**.", "tag": "Pathology" },
+    { "front": "What is the recommended dose of **Folic Acid** for low-risk women?", "back": "**400 mcg** (0.4 mg) daily.", "tag": "Prevention" }
   ],
   "pearls": [
-    { "title": "Quantifying Menstrual Flow", "content": "The most objective way for a patient to describe the heaviness of their menstrual flow is to quantify it by the number of pads or tampons completely saturated daily or hourly." },
-    { "title": "The Postmenopausal Red Flag", "content": "Never dismiss postmenopausal bleeding. While it is often due to benign vaginal atrophy, it is the classic presenting sign of endometrial cancer and always warrants an immediate workup." },
-    { "title": "The Transformation Zone", "content": "The squamocolumnar junction is dynamic. As women age, it recedes higher up into the endocervical canal, which is why an endocervical brush is necessary during a Pap smear to ensure adequate sampling of this critical area." }
+    { "title": "GTPAL vs GP", "content": "GP is the quick version (G=total, P=viable). GTPAL is the detailed version. Remember: twins count as one G and one P, but two Ls." },
+    { "title": "The Postmenopausal Rule", "content": "Bleeding after menopause = Endometrial Biopsy. No exceptions." },
+    { "title": "Neural Tube Defense", "content": "The neural tube closes by day 28. If a woman waits until she 'feels' pregnant to start vitamins, it's already too late. Start now." },
+    { "title": "Screen Privately", "content": "Always ask about safety at home when the patient is alone. Partners who are abusers often refuse to leave the room." }
   ]
 });

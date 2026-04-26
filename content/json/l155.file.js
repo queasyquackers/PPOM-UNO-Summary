@@ -5,7 +5,7 @@ window.receiveLectureContent({
     "lecturer": "M. Plummer, M.D.",
     "session": "Lecture #155",
     "module": "Pathology",
-    "readingTime": "15-20 min"
+    "readingTime": "25-30 min"
   },
   "resources": {
     "ankingResource": {
@@ -19,162 +19,143 @@ window.receiveLectureContent({
     "anking": [
       { "match": "TTP Pentad & ADAMTS13", "resources": "AnKing Step 1 v11: #Pathoma::12_Red_Blood_Cell_Disorders::10_Microangiopathic_Hemolytic_Anemia" },
       { "match": "Factor V Leiden mutation", "resources": "AnKing Step 1 v11: #Pathoma::12_Red_Blood_Cell_Disorders::13_Thrombosis" },
-      { "match": "Hemophilia A (Factor VIII)", "resources": "AnKing Step 1 v11: #Pathoma::12_Red_Blood_Cell_Disorders::12_Secondary_Hemostasis_Disorders" }
+      { "match": "Hemophilia A (Factor VIII)", "resources": "AnKing Step 1 v11: #Pathoma::12_Red_Blood_Cell_Disorders::12_Secondary_Hemostasis_Disorders" },
+      { "match": "Vitamin K Deficiency", "resources": "AnKing Step 1 v11: #FirstAid::Hematology_Oncology::Pathology::Vitamin_K_Deficiency" }
     ]
   },
   "summary": `
 # Lecture #155: Pathology: Hemorrhage and Thrombosis
 
 **Lecturer:** M. Plummer, M.D.
-**Session:** Lecture #155
 
-## Disorders of Platelets and Primary Hemostasis
+## 1. Primary Hemostasis (Platelets)
+Defects lead to mucosal bleeding (epistaxis, menorrhagia) and petechiae.
+*   **Immune Thrombocytopenic Purpura (ITP):** IgG antibodies against platelet markers (GpIIb/IIIa). Consumed in spleen.
+*   **Platelet Dysfunction:**
+    *   **Bernard-Soulier:** Deficiency of **GpIb** (adhesion defect). Large platelets.
+    *   **Glanzmann Thrombasthenia:** Deficiency of **GpIIb/IIIa** (aggregation defect).
+*   **Microangiopathic Hemolytic Anemia (MAHA):**
+    *   **TTP:** Deficiency of **ADAMTS13**. Pentad: Fever, Anemia (schistocytes), Thrombocytopenia, Renal failure, Neuro symptoms (**FAT RN**).
+    *   **HUS:** Shiga toxin (E. coli O157:H7). Dominant renal failure + bloody diarrhea in children.
+    *   **Treatment:** Plasmapheresis (for TTP). **NEVER** give platelets (it fuels the fire).
 
-Story Mode: When evaluating a bleeding patient, the very first step is to determine if the defect lies in primary hemostasis (the formation of the initial platelet plug) or secondary hemostasis (the coagulation cascade that stabilizes the plug with fibrin). Primary hemostasis defects classically present with superficial bleeding: petechiae (pinpoint hemorrhages), purpura, and excessive mucosal bleeding (epistaxis, heavy menses). The defect can be due to a lack of platelets (thrombocytopenia) or a lack of platelet function.
+## 2. Secondary Hemostasis (Factors)
+Defects lead to deep tissue bleeding (hemarthrosis, hematomas).
+*   **Hemophilia A (VIII) and B (IX):** X-linked recessive. **High PTT**, normal PT/BT.
+*   **von Willebrand Disease (vWD):** Most common inherited bleeding disorder.
+    *   **Pathophysiology:** Defect in platelet adhesion AND carrier for Factor VIII.
+    *   **Labs:** **High Bleeding Time** (BT), may have high PTT. Abnormal Ristocetin cofactor test.
+*   **Vitamin K Deficiency:**
+    *   Necessary for gamma-carboxylation of factors **II, VII, IX, X, C, S**.
+    *   **Causes:** Newborns (lack of gut flora), malabsorption, long-term antibiotics.
+    *   **Labs:** **High PT** (Factor VII has shortest half-life) and High PTT.
 
-*   **Immune Thrombocytopenic Purpura (ITP):**
-    *   **Pathophysiology:** An autoimmune condition where the body produces IgG antibodies against its own platelet antigens (e.g., GpIIb/IIIa). Splenic macrophages then consume the antibody-coated platelets.
-    *   **Clinical:** Can be acute (classically seen in children weeks after a viral illness, usually self-limiting) or chronic (classically seen in adult females, often requires treatment with steroids, IVIG, or splenectomy).
-*   **Platelet Function Disorders:**
-    *   **Bernard-Soulier Syndrome:** A genetic deficiency of the **GpIb** receptor. Platelets cannot *adhere* to von Willebrand Factor (vWF) on the exposed subendothelial collagen.
-    *   **Glanzmann Thrombasthenia:** A genetic deficiency of the **GpIIb/IIIa** receptor. Platelets cannot *aggregate* (bind to each other via fibrinogen).
+## 3. Mixed Hemostasis Disorders
+*   **Disseminated Intravascular Coagulation (DIC):** Widespread activation of clotting consuming all factors/platelets.
+    *   **Causes:** Sepsis, Trauma, Obstetric complications (Tissue Factor from placenta), APL (Auer rods).
+    *   **Labs:** **High PT, High PTT, Low Platelets, High D-dimer, Low Fibrinogen.**
 
-:::correlate
-Thrombotic Thrombocytopenic Purpura (TTP)
+## 4. Thrombosis (Thrombophilia)
+*   **Virchow's Triad:** Endothelial injury, Stasis/Turbulence, Hypercoagulability.
+*   **Hereditary Thrombophilia:**
+    *   **Factor V Leiden:** Resistance to Protein C inactivation. Most common cause.
+    *   **Prothrombin 20210A:** Increased prothrombin expression.
+    *   **Protein C or S Deficiency:** Loss of natural anticoagulants. Risk for **Warfarin-induced skin necrosis**.
+    *   **Antithrombin III (ATIII) Deficiency:** Heparin won't work (PTT won't rise).
+*   **Antiphospholipid Syndrome (APS):** Acquired. Venous/Arterial clots + Recurrent miscarriages.
 
-- **Pathophysiology:** Caused by a deficiency or autoimmune inhibition of the **ADAMTS13** enzyme. Normally, ADAMTS13 acts as "scissors" to cleave large, sticky vWF multimers into smaller pieces. Without it, the large vWF multimers spontaneously grab platelets, forming widespread microthrombi in small vessels.
-- **Presentation (The Pentad):** (1) Fever, (2) Microangiopathic Hemolytic Anemia (MAHA - due to RBCs being sheared by the microthrombi), (3) Thrombocytopenia (platelets are consumed in the clots), (4) Renal failure, and (5) Neurologic symptoms.
-- **Diagnosis:** A peripheral blood smear reveals **schistocytes** (helmet cells). Labs show normal PT/PTT (because the coagulation cascade is not the primary issue).
-- **Lecturer's Point:** TTP is a severe medical emergency. The treatment of choice is urgent **plasmapheresis** to remove the autoantibodies and provide functional ADAMTS13.
-:::
-
-### Hemolytic Uremic Syndrome (HUS)
-
-Story Mode: HUS is frequently compared to TTP on exams because they share many features (MAHA with schistocytes + thrombocytopenia). The critical difference is in the trigger and the dominant organ damage.
-
-*   **Typical HUS:** Classically triggered by **Shiga toxin-producing *E. coli* O157:H7** (or *Shigella*). The classic scenario is a child who develops bloody diarrhea after eating undercooked hamburger, followed days later by **acute renal failure**, hemolytic anemia (schistocytes), and thrombocytopenia.
-*   **Atypical HUS:** Caused by uncontrolled complement activation (genetic mutations in complement regulatory proteins). Not associated with diarrhea.
-*   **TTP vs. HUS Board Pearl:** Both share MAHA + thrombocytopenia. TTP = **neurologic** symptoms dominant + ADAMTS13 deficiency. HUS = **renal failure** dominant + often preceded by bloody diarrhea (Shiga toxin).
-
-## Coagulation Factor Disorders (Secondary Hemostasis)
-
-Story Mode: If a patient presents with deep tissue bleeding (e.g., bleeding into joints/hemarthrosis, large deep hematomas, or delayed bleeding after surgery), suspect a defect in secondary hemostasis. These defects involve missing or dysfunctional coagulation factors, preventing the formation of a stable fibrin clot.
-
-*   **Hemophilia A and B:**
-    *   **Pathophysiology:** X-linked recessive genetic disorders. Hemophilia A is a deficiency of **Factor VIII**, while Hemophilia B (Christmas disease) is a deficiency of **Factor IX**.
-    *   **Clinical:** Severe deep tissue bleeding and hemarthrosis.
-    *   **Labs:** Markedly elevated PTT (intrinsic pathway), but normal PT (extrinsic pathway) and normal bleeding time (platelets are fine).
-*   **von Willebrand Disease (vWD):**
-    *   **Pathophysiology:** The most common inherited bleeding disorder. vWF has two jobs: it allows platelets to adhere to the vessel wall, and it carries/protects Factor VIII in the blood.
-    *   **Clinical:** Patients classically present with mild mucosal bleeding (like a primary hemostasis defect) rather than deep tissue bleeding.
-    *   **Labs:** Increased bleeding time. PTT may be normal or mildly prolonged depending on the severity of Factor VIII degradation.
-*   **Disseminated Intravascular Coagulation (DIC):**
-    *   **Pathophysiology:** A catastrophic state of widespread, pathologic activation of the coagulation cascade (often triggered by sepsis, trauma, or obstetric complications). 
-    *   **Mechanism:** Massive clotting consumes all available platelets and coagulation factors, simultaneously causing widespread microthrombi (ischemia) and severe bleeding (due to depletion).
-    *   **Labs:** Elevated PT, elevated PTT, thrombocytopenia, low fibrinogen, and critically, a highly elevated **D-dimer** (indicating massive fibrin degradation).
-
-## Thrombosis and Hypercoagulability
-
-Story Mode: While bleeding disorders involve a failure to clot, hypercoagulable states (thrombophilias) involve an inappropriate tendency to form thrombi. This risk is conceptually modeled by **Virchow's Triad**: (1) Endothelial injury, (2) Abnormal blood flow (stasis or turbulence), and (3) Hypercoagulability.
-
-*   **Distinguishing Thrombi:** 
-    *   A true thrombus that formed *pre-mortem* (while blood was flowing) will exhibit **Lines of Zahn**, which are alternating microscopic layers of pale platelets/fibrin and dark red blood cells. 
-    *   A *post-mortem* clot will lack these lines and appear as a gelatinous, "currant jelly" mass.
-
-:::highyield
-**Factor V Leiden**
-
-The most common **hereditary** cause of hypercoagulability (thrombophilia) in Caucasian populations. It is caused by a point mutation in the Factor V gene. Normally, Activated Protein C acts as a regulatory brake on the coagulation cascade by cleaving and inactivating Factor V. The **Factor V Leiden mutation** alters the cleavage site, making the factor resistant to inactivation by Protein C. 
-
-This results in a persistent, unchecked pro-coagulant state, significantly increasing the patient's risk of Deep Vein Thrombosis (DVT) and Pulmonary Embolism (PE).
-:::
-
-*   **Secondary (Acquired) Causes of Thrombosis:**
-    *   Prolonged immobilization / bed rest (venous stasis)
-    *   **Oral contraceptives / Hormone Replacement Therapy** (estrogen is pro-coagulant)
-    *   Pregnancy (physiologic hypercoagulable state)
-    *   Obesity
-    *   Malignancy (especially pancreatic, lung — tumor cells release procoagulant factors)
-    *   Post-surgical state
-    *   **DVT → PE:** The most feared consequence of venous thrombosis is embolization of a deep vein thrombus (usually from the iliofemoral veins) to the pulmonary vasculature, causing a potentially fatal Pulmonary Embolism.
-\`,
+## 5. Embolism & Infarction
+*   **Pulmonary Embolism (PE):** Usually from lower extremity DVT.
+*   **Fat Embolism:** Long bone fracture. Triad: Dyspnea, Neuro changes, **Petechial rash**.
+*   **Amniotic Fluid Embolism:** Fetal squames in maternal pulmonary vessels. Triggers DIC.
+*   **Infarct Types:**
+    *   **Red (Hemorrhagic):** Loose tissue (Lung), dual blood supply, or reperfusion.
+    *   **White (Anemic):** Solid organs (Heart, Kidney) with end-artery supply.
+`,
   "questions": [
     {
       "id": 1,
-      "question": "A 32-year-old female presents to the emergency department with confusion, fever, and a petechial rash. Laboratory tests reveal a hemoglobin of 8.0 g/dL, a platelet count of 25,000/μL, and an elevated creatinine of 2.2 mg/dL. Her PT and PTT are within normal limits. A peripheral blood smear demonstrates numerous schistocytes. Which of the following is the most likely underlying pathophysiological mechanism for her condition?",
-      "options": [
-        "Deficiency of the GpIb platelet receptor",
-        "Autoantibody-mediated destruction of platelets by splenic macrophages",
-        "Widespread activation of the coagulation cascade with factor consumption",
-        "Deficiency or inhibition of the ADAMTS13 metalloprotease",
-        "A point mutation in the Factor V gene conferring resistance to Protein C"
-      ],
-      "correctAnswer": 4,
-      "rationale": "The patient's presentation of fever, thrombocytopenia, microangiopathic hemolytic anemia (schistocytes), renal failure, and neurologic symptoms (confusion) is the classic pentad of Thrombotic Thrombocytopenic Purpura (TTP). TTP is caused by a severe deficiency or autoantibody inhibition of the ADAMTS13 enzyme, leading to the accumulation of ultra-large vWF multimers that form platelet-rich microthrombi."
+      "question": "A 25-year-old female presents with confusion, a temperature of 101°F, and dark urine. Labs show Hb 8.0 g/dL, Platelets 15,000/µL, and numerous schistocytes. PT and PTT are normal. What is the definitive treatment?",
+      "options": ["Platelet transfusion", "Corticosteroids", "Plasmapheresis", "Splenectomy", "Heparin"],
+      "correctAnswer": 3,
+      "rationale": "The patient has the classic TTP pentad (FAT RN). TTP is a medical emergency caused by ADAMTS13 deficiency. The treatment of choice is urgent plasmapheresis to remove autoantibodies and replenish the enzyme. Platelet transfusion is contraindicated as it may worsen the microthrombosis."
     },
     {
       "id": 2,
-      "question": "A 5-year-old boy is brought to the clinic due to frequent, large, swollen joints after minor trauma. He recently experienced severe bleeding following a dental extraction. His maternal uncle has a history of similar bleeding issues. Laboratory evaluation shows a normal bleeding time, a normal PT, and a significantly prolonged PTT. A defect in which of the following coagulation factors is most likely responsible?",
-      "options": [
-        "Factor VII",
-        "Factor VIII",
-        "Factor X",
-        "Factor XIII",
-        "Tissue Factor"
-      ],
+      "question": "A 6-year-old boy presents with bloody diarrhea after eating an undercooked hamburger. Three days later, he develops acute renal failure and thrombocytopenia. What is the most likely pathogen?",
+      "options": ["Streptococcus pneumoniae", "E. coli O157:H7", "Salmonella typhi", "Clostridium difficile", "Staphylococcus aureus"],
       "correctAnswer": 2,
-      "rationale": "The clinical picture of deep tissue bleeding (hemarthrosis), an X-linked recessive family history (maternal uncle), a normal PT, and a prolonged PTT is classic for Hemophilia. Hemophilia A is caused by a deficiency of Factor VIII, an essential component of the intrinsic coagulation pathway (which is evaluated by the PTT test)."
+      "rationale": "Typical Hemolytic Uremic Syndrome (HUS) is triggered by Shiga toxin-producing E. coli (like O157:H7). It presents as the triad of MAHA (hemolytic anemia), thrombocytopenia, and acute renal failure, usually following bloody diarrhea."
     },
     {
       "id": 3,
-      "question": "A 25-year-old Caucasian female with no significant past medical history presents with sudden onset shortness of breath and pleuritic chest pain. A CT pulmonary angiogram confirms a pulmonary embolism. She reports taking oral contraceptives. Further genetic testing reveals she has the most common inherited thrombophilia. This condition results in a hypercoagulable state due to which of the following mechanisms?",
-      "options": [
-        "Increased production of prothrombin",
-        "Deficiency of antithrombin III",
-        "Resistance of a coagulation factor to cleavage by Activated Protein C",
-        "Deficiency of Protein S",
-        "Overexpression of von Willebrand Factor"
-      ],
-      "correctAnswer": 3,
-      "rationale": "The patient likely has Factor V Leiden, the most common hereditary thrombophilia, which became clinically apparent due to the additive risk of taking oral contraceptives. Factor V Leiden is a point mutation that alters the cleavage site on Factor V, rendering it resistant to inactivation by Activated Protein C. This leads to persistent thrombin generation and a pro-coagulant state."
+      "question": "A patient with a history of recurrent DVTs is started on Heparin, but their PTT fails to rise despite increasing doses. Which deficiency is most likely present?",
+      "options": ["Protein C", "Protein S", "Factor V Leiden", "Antithrombin III", "Prothrombin"],
+      "correctAnswer": 4,
+      "rationale": "Heparin works by binding to and activating Antithrombin III (ATIII). If a patient is deficient in ATIII, heparin has nothing to bind to, and the PTT will not prolong as expected."
     },
     {
       "id": 4,
-      "question": "A patient with severe Gram-negative sepsis develops widespread oozing from their intravenous catheter sites and venipuncture wounds. Laboratory analysis shows a platelet count of 40,000/μL, prolonged PT, prolonged PTT, and a profoundly elevated D-dimer. Which of the following best explains the elevated D-dimer in this clinical scenario?",
-      "options": [
-        "Autoimmune destruction of platelets",
-        "Degradation of cross-linked fibrin",
-        "Cleavage of von Willebrand Factor multimers",
-        "Inhibition of the extrinsic coagulation pathway",
-        "Release of primary granules from promyeloblasts"
-      ],
-      "correctAnswer": 2,
-      "rationale": "The patient is experiencing Disseminated Intravascular Coagulation (DIC), triggered by sepsis. DIC involves massive, widespread coagulation that consumes platelets and factors (prolonging PT/PTT and causing thrombocytopenia). The extensive clot formation is simultaneously matched by aggressive fibrinolysis. D-dimer is a specific degradation product of cross-linked fibrin; its marked elevation reflects the massive breakdown of the countless thrombi formed during DIC."
+      "question": "Which bleeding disorder is characterized by a deficiency in GpIb, leading to impaired platelet adhesion and the presence of abnormally large platelets?",
+      "options": ["ITP", "vWD", "Bernard-Soulier Syndrome", "Glanzmann Thrombasthenia", "DIC"],
+      "correctAnswer": 3,
+      "rationale": "Bernard-Soulier syndrome is a deficiency of GpIb, the receptor for vWF. This prevents platelets from adhering to the subendothelial matrix. A characteristic finding is 'Giant Platelets' on the peripheral smear."
     },
     {
       "id": 5,
-      "question": "A 22-year-old female presents with a history of easy bruising and heavy menstrual periods (menorrhagia) since menarche. She occasionally experiences prolonged nosebleeds. Her laboratory workup reveals a normal platelet count, a normal PT, and a mildly prolonged bleeding time. Ristocetin cofactor assay activity is decreased. Her condition is most likely characterized by an impairment in which of the following physiological processes?",
-      "options": [
-        "Platelet aggregation via GpIIb/IIIa",
-        "Conversion of fibrinogen to fibrin",
-        "Platelet adhesion to subendothelial collagen",
-        "Activation of the extrinsic coagulation cascade",
-        "Cleavage of ultra-large vWF multimers"
-      ],
+      "question": "A woman at 38 weeks gestation suddenly develops severe respiratory distress, hypotension, and generalized bleeding from her IV sites. An autopsy would most likely reveal which of the following in her pulmonary vessels?",
+      "options": ["Fat globules", "Atherosclerotic plaque", "Fetal squames and lanugo hair", "Air bubbles", "Bacterial vegetations"],
       "correctAnswer": 3,
-      "rationale": "The patient's presentation of mucosal bleeding (menorrhagia, epistaxis) with a prolonged bleeding time and decreased ristocetin cofactor activity is highly suggestive of von Willebrand Disease (vWD), the most common inherited bleeding disorder. von Willebrand Factor (vWF) is crucial for the initial step of primary hemostasis: it acts as a bridge, binding the platelet GpIb receptor to the exposed subendothelial collagen, enabling platelet adhesion."
+      "rationale": "The patient has suffered an Amniotic Fluid Embolism, a catastrophic obstetric complication. The amniotic fluid (containing fetal skin cells/squames and hair) enters maternal circulation, causing respiratory failure and triggering massive DIC (bleeding from IV sites)."
+    },
+    {
+      "id": 6,
+      "question": "Which factors require Vitamin K-dependent gamma-carboxylation for their activation?",
+      "options": ["I, II, V, VII", "II, VII, IX, X", "VIII, IX, XI, XII", "III, IV, VI, VIII", "I, X, XI, XII"],
+      "correctAnswer": 2,
+      "rationale": "Factors II, VII, IX, and X, as well as Proteins C and S, require Vitamin K to undergo gamma-carboxylation of their glutamic acid residues, which allows them to bind calcium and participate in the coagulation cascade."
+    },
+    {
+      "id": 7,
+      "question": "A patient presents with widespread bleeding and clotting after a septic event. Labs show elevated PT, elevated PTT, low platelets, and a very high D-dimer. What is the most specific laboratory finding that differentiates DIC from other causes of prolonged coag studies?",
+      "options": ["Low platelets", "High PTT", "Elevated D-dimer", "Low hemoglobin", "Schistocytes"],
+      "correctAnswer": 3,
+      "rationale": "D-dimer is a product of the breakdown of cross-linked fibrin. While PT, PTT, and platelets are abnormal in many conditions, a markedly elevated D-dimer confirms the massive activation of both the coagulation and fibrinolytic systems characteristic of DIC."
+    },
+    {
+      "id": 8,
+      "question": "A 22-year-old female with a history of three first-trimester miscarriages and a previous DVT is found to have a falsely prolonged PTT. What is the most likely diagnosis?",
+      "options": ["Factor VIII inhibitor", "Hemophilia A", "Antiphospholipid Syndrome", "vWD", "Factor V Leiden"],
+      "correctAnswer": 3,
+      "rationale": "Antiphospholipid Syndrome (APS) is an acquired hypercoagulable state. It presents with thrombosis and pregnancy loss. Paradoxically, the Lupus Anticoagulant antibody interferes with phospholipids in the PTT test, causing a falsely prolonged PTT *in vitro*, even though the patient is hypercoagulable *in vivo*."
+    },
+    {
+      "id": 9,
+      "question": "In a patient with Factor V Leiden, the hypercoagulable state is due to which mechanism?",
+      "options": ["Increased production of Factor V", "Resistance of Factor V to cleavage by Protein C", "Deficiency of Factor V", "Autoantibody against Factor V", "Failure of Factor V to bind vWF"],
+      "correctAnswer": 2,
+      "rationale": "Factor V Leiden is a point mutation that changes the cleavage site of Factor V, making it resistant to inactivation by Activated Protein C (the body's natural anticoagulant brake), leading to a persistent pro-thrombotic state."
+    },
+    {
+      "id": 10,
+      "question": "Which organ typically experiences a 'White' (Anemic) infarct due to its end-artery blood supply?",
+      "options": ["Lung", "Liver", "Kidney", "Small Intestine", "Uterus"],
+      "correctAnswer": 3,
+      "rationale": "White infarcts occur in solid organs with end-artery supplies, such as the heart, kidney, and spleen. Red (hemorrhagic) infarcts occur in loose tissues like the lung or organs with dual blood supply like the liver."
     }
   ],
   "flashcards": [
-    { "front": "What is the classic 'pentad' of symptoms in Thrombotic Thrombocytopenic Purpura (TTP)?", "back": "Fever, Microangiopathic Hemolytic Anemia (MAHA/schistocytes), Thrombocytopenia, Renal failure, and Neurologic changes.", "tag": "Clinical" },
-    { "front": "Which coagulation factor is deficient in Hemophilia A, and how does this affect the PT and PTT?", "back": "Factor VIII deficiency; results in a prolonged PTT and a normal PT.", "tag": "Pathology" },
-    { "front": "What is the mechanism of the Factor V Leiden mutation?", "back": "A mutation that makes Factor V resistant to cleavage/inactivation by Activated Protein C, causing a hypercoagulable state.", "tag": "Pathology" },
-    { "front": "Which laboratory test specifically detects the degradation of cross-linked fibrin and is markedly elevated in DIC?", "back": "D-dimer.", "tag": "Diagnosis" },
-    { "front": "What is the most common inherited bleeding disorder, and what is the primary defect?", "back": "von Willebrand Disease (vWD); a defect in platelet adhesion to subendothelial collagen.", "tag": "Pathology" }
+    { "front": "What is the acronym for the **TTP Pentad**?", "back": "**FAT RN**: **F**ever, **A**nemia (MAHA), **T**hrombocytopenia, **R**enal failure, **N**euro symptoms.", "tag": "Clinical" },
+    { "front": "What is the mechanism of **Bernard-Soulier Syndrome**?", "back": "Deficiency of **GpIb**; results in impaired platelet **adhesion**.", "tag": "Pathology" },
+    { "front": "Why is **PT** prolonged first in Vitamin K deficiency?", "back": "Factor **VII** has the shortest half-life of all clotting factors.", "tag": "Physiology" },
+    { "front": "What is the hallmark of **Factor V Leiden**?", "back": "Resistance to inactivation by **Activated Protein C**.", "tag": "Pathology" },
+    { "front": "What are the classic labs for **DIC**?", "back": "High PT, High PTT, Low Platelets, Low Fibrinogen, **High D-dimer**.", "tag": "Labs" },
+    { "front": "What is the triad for a **Fat Embolism**?", "back": "Dyspnea, Neuro symptoms, and a **Petechial rash**.", "tag": "Clinical" }
   ],
   "pearls": [
-    { "title": "ADAMTS13 Mnemonic", "content": "Think of the ADAMTS13 enzyme as 'Scissors' that normally cut large vWF multimers. No scissors = giant sticky vWF = too many microthrombi (TTP)." },
-    { "title": "PT vs PTT", "content": "PT (Prothrombin Time) evaluates the **Extrinsic** pathway (Factor VII). PTT (Partial Thromboplastin Time) evaluates the **Intrinsic** pathway (XII, XI, IX, VIII)." },
-    { "title": "Lines of Zahn", "content": "The presence of Lines of Zahn (alternating pale and dark layers) indicates a 'real' thrombus that formed pre-mortem in flowing blood. Post-mortem clots lack these lines." }
+    { "title": "Never Give Platelets in TTP", "content": "Transfusing platelets in a TTP patient is like 'adding fuel to the fire.' It provides more substrate for the microthrombi to form, potentially worsening the disease." },
+    { "title": "The D-dimer Key", "content": "D-dimer only forms from **cross-linked fibrin**. If you see a high D-dimer, you know that clots were not only formed but were also being actively broken down (DIC/PE)." },
+    { "title": "Lines of Zahn", "content": "Microscopic alternating layers of platelets/fibrin (pale) and RBCs (dark). Their presence proves the clot formed while the heart was still beating." },
+    { "title": "vWD vs. Hemophilia", "content": "vWD = Mucosal bleeding (epistaxis). Hemophilia = Deep bleeding (hemarthrosis). Both can have a prolonged PTT." }
   ]
 });

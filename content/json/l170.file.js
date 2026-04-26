@@ -1,85 +1,153 @@
-const l170 = {
-    id: "l170",
-    title: "Lecture 170: DPR: Introduction to Behavioral Medicine",
-    author: "L. Hoffman, Ph.D.",
-    narrative: "This lecture introduces the foundational skills required for conducting a diagnostic patient encounter in behavioral and mental health. Dr. Hoffman emphasizes that while the physical exam remains important to rule out physiological mimickers (like hypothyroidism causing depression), the cornerstone of psychiatry is the psychiatric history and the Mental Status Exam (MSE). The lecture guides student physicians through the sensitive art of building rapport, managing difficult transitions, and conducting life-saving screenings for suicide and homicide risk.",
-    sections: [
-        {
-            title: "1. The Therapeutic Alliance & Interview Dynamics",
-            content: "Successful behavioral medicine starts with the interview environment and the physician's professional conduct:\n\n- **Professionalism & Bias:** Maintain a non-judgmental attitude and be aware of pre-existing biases. \n- **Patient Language:** Use the patient's own words to validate their experience and demonstrate active listening.\n- **Sensitive Transitions:** Use explicit transition statements when moving to personal topics (e.g., 'Now I'd like to ask some questions about your social history and relationships...').\n- **Counseling Timing:** Gather the history and complete the exam before moving into education/counseling."
-        },
-        {
-            title: "2. The Psychiatric History (HPI & Screening)",
-            content: "A behavioral HPI requires a careful timeline and the use of standardized screening measures:\n\n- **HPI Components:** Focus on the onset (acute vs. gradual), triggers, and how symptoms have changed over time. Ask specifically: 'How have you been coping?' and assess the impact on daily function.\n- **Social History & Pediatric Risk:** Beyond living situation and relationships, specifically consider if **children** in the home are witnessing the struggle or being neglected, as they may require intervention.\n- **Screening Tools (The 'Rule of 2s'):** \n    - **PHQ-2 (Patient Health Questionnaire-2):** Initial screen for depression.\n    - **GAD-2 (Generalized Anxiety Disorder-2):** Initial screen for anxiety.\n    - Positive results on these brief screens should be followed up with the full PHQ-9 or GAD-7 assessments."
-        },
-        {
-            title: "3. The Mental Status Exam (MSE)",
-            content: "The MSE is the 'physical exam' of behavioral medicine—a systematic observation of the patient's current psychological state:\n\n- **Appearance & Behavior:** Grooming, posture, and **Psychomotor activity** (Agitaded/increased vs. Retarded/decreased).\n- **Speech:** Rate (pressured vs. slow), volume, and rhythm.\n- **Mood vs. Affect:** **Mood** is the patient's internal sustained emotion ('climate'); **Affect** is the physician's observation of their immediate emotional expression ('weather').\n- **Thought Process:** The organizational flow of thoughts.\n    - **Linear:** Goal-directed and logical.\n    - **Circumstantial:** Provides unnecessary detail but eventually returns to the point.\n    - **Tangential:** Moves from one topic to another and never returns to the original point.\n    - **Flight of Ideas:** Rapidly skipping between ideas with only tenuous connections.\n- **Thought Content:** What is on their mind (Suicidality, delusions, obsessions, hallucinations).\n- **Insight & Judgment:** Does the patient recognize they are ill? Can they weigh the consequences of their decisions?"
-        },
-        {
-            title: "4. Risk Assessment & Self-Harm",
-            content: "Assessing the risk of harm to self or others is a mandatory component of every psychiatric evaluation:\n\n- **Suicide Assessment:** Must includes specific questions about **Ideation** ('Have you had thoughts of hurting yourself?'), **Plan** ('Do you have a specific method?'), and **Access/Means** ('Do you have access to weapons or pills?').\n- **Self-Harm vs. Suicidality:** Distinguish between suicidal intent and non-suicidal self-injury (NSSI) like skin picking, hair pulling (BFRBs), or cutting/burning."
-        },
-        {
-            title: "5. Physiological Mimickers & OMT",
-            content: "Psychiatric symptoms often have physiological causes that must be ruled out:\n\n- **Rule Outs:** **Hypothyroidism** can mimic depression; **arrhythmias** or **hyperthyroidism** can mimic anxiety; **B12 deficiency** can cause cognitive decline.\n- **Diagnostic Baseline:** Tests like CBC, CMP, EKG, and UA are used both to rule out mimickers and to establish baselines before starting medications that may affect heart rhythm or metabolic markers.\n- **OMT:** Consider techniques to normalize the autonomic nervous system (Sympathetic vs. Parasympathetic balance) through **Rib Raising** or **Suboccipital Release**."
-        }
-    ],
-    clinical_pearls: [
-        {
-            title: "The MSE Weather Analogy",
-            content: "To distinguish Mood from Affect: **Mood** is like the **Climate** (the overarching emotional state reported by the patient), while **Affect** is like the **Weather** (the immediate emotional response you see in the room)."
-        },
-        {
-            title: "SIGECAPS Mnemonic",
-            content: "A classic board tool for depression symptoms: **S**leep, **I**nterest, **G**uilt, **E**nergy, **C**oncentration, **A**ppetite, **P**sychomotor agitation/retardation, **S**uicidality."
-        },
-        {
-            title: "Transition Phrases",
-            content: "Don't just jump into suicide questions. Use a soft entry: 'Because many people in your situation feel quite overwhelmed, I want to ask if you've had any thoughts of harming yourself...'"
-        },
-        {
-            title: "The PHQ-2 Threshold",
-            content: "If a patient scores a 3 or more on the PHQ-2, you **must** proceed to the PHQ-9. In practice, missing a diagnosis of depression increases the risk of mortality through both suicide and decreased compliance with chronic medical treatments."
-        }
-    ],
-    anking_resources: [
-        {
-            category: "Psychiatric Evaluation & MSE",
-            resources: [
-                {
-                    name: "OnlineMedEd",
-                    path: "Psychiatry -> Behavioral Science Basics -> Evaluation",
-                    description: "Excellent overview of the MSE components and interview flow."
-                }
-            ]
-        },
-        {
-            category: "Mood & Anxiety Disorders",
-            resources: [
-                {
-                    name: "B&B",
-                    path: "03. Psych -> 02. Psychiatric Disorders -> 01. Depression",
-                    description: "Covers diagnostic criteria (SIGECAPS) and screening tools."
-                },
-                {
-                    name: "Physeo",
-                    path: "11. Psychiatry -> 01. Mood Disorders -> 01. Depressive Disorders",
-                    description: "Visual breakdown of the PHQ-9 items and diagnostic thresholds."
-                }
-            ]
-        },
-        {
-            category: "Clinical Ethics & Communication",
-            resources: [
-                {
-                    name: "Step 2 AnKing (Cheesy Dorian)",
-                    path: "Step 2 -> Psych -> Ethics/Patient Encounters",
-                    description: "Focused on transition statements and building rapport."
-                }
-            ]
-        }
+window.receiveLectureContent({
+  "metadata": {
+    "id": "l170",
+    "title": "Introduction to Behavioral Medicine",
+    "lecturer": "L. Hoffman, Ph.D.",
+    "session": "Lecture #170",
+    "module": "Psychiatry",
+    "readingTime": "25-30 min"
+  },
+  "resources": {
+    "ankingResource": {
+      "primarySource": "Boards and Beyond",
+      "chapter": "Psychiatry > Psychology",
+      "alternatives": [
+        { "resource": "OnlineMedEd", "chapter": "Psychiatry > Evaluation" },
+        { "resource": "First Aid", "chapter": "Psychiatry" }
+      ]
+    },
+    "anking": [
+      { "match": "Defense Mechanisms", "resources": "AnKing Step 1 v11: #FirstAid::Psychiatry::Psychology::Defense_Mechanisms" },
+      { "match": "Personality Disorders", "resources": "AnKing Step 1 v11: #FirstAid::Psychiatry::Pathology::Personality_Disorders" },
+      { "match": "Grief Stages", "resources": "AnKing Step 1 v11: #FirstAid::Psychiatry::Psychology::Grief" },
+      { "match": "Mental Status Exam", "resources": "AnKing Step 2 v11: #B&B::12_Psych::01_Evaluation::01_MSE" }
     ]
-};
+  },
+  "summary": `
+# Lecture #170: Behavioral Medicine and Psychiatry Essentials
 
-export default l170;
+**Lecturer:** L. Hoffman, Ph.D.
+
+## 1. Ego Defense Mechanisms
+Automatic psychological processes that protect the individual from anxiety.
+*   **Mature (Healthy):**
+    *   **Altruism:** Helping others to feel better.
+    *   **Sublimation:** Channeling "bad" impulses into socially acceptable actions (e.g., aggression into sports).
+    *   **Suppression:** **Consciously** putting aside a thought (The only conscious one!).
+    *   **Humor:** Using comedy to cope with stress.
+*   **Immature/Intermediate:**
+    *   **Projection:** Attributing your own "bad" feelings to someone else (e.g., "I'm not mad at you, YOU'RE mad at me").
+    *   **Denial:** Refusing to believe reality.
+    *   **Splitting:** Seeing people as all good or all bad (classic in Borderline Personality Disorder).
+    *   **Displacement:** Taking out anger on a neutral third party (e.g., mad at boss, kick the dog).
+    *   **Reaction Formation:** Doing the exact opposite of what you feel (e.g., being overly nice to someone you hate).
+
+## 2. Personality Disorders
+*   **Cluster A (Weird):** Paranoid, Schizoid (loner, happy), Schizotypal (magical thinking).
+*   **Cluster B (Wild):** Antisocial (criminal), Borderline (splitting), Histrionic (attention-seeking), Narcissistic.
+*   **Cluster C (Worried):** Avoidant (loner, wants friends), Dependent, Obsessive-Compulsive (perfectionist, OCPD).
+
+## 3. Developmental and Social Psychology
+*   **Grief (Kübler-Ross):** **D**enial, **A**nger, **B**argaining, **D**epression, **A**cceptance.
+*   **Conditioning:**
+    *   **Classical:** Pairing a stimulus (Bell) with a response (Salivation).
+    *   **Operant:** Learning based on rewards (Reinforcement) and punishments.
+*   **Intelligence:** 
+    *   **Fluid:** Ability to solve new problems (declines with age).
+    *   **Crystallized:** Accumulated knowledge (increases/stable with age).
+
+## 4. The Mental Status Exam (MSE)
+*   **Mood:** The "climate" (sustained internal state).
+*   **Affect:** The "weather" (observed emotional expression).
+*   **Thought Process:** 
+    *   **Circumstantial:** Drifts but returns to point.
+    *   **Tangential:** Drifts and never returns.
+    *   **Flight of Ideas:** Rapid shifts, often seen in Mania.
+`,
+  "questions": [
+    {
+      "id": 1,
+      "question": "A 25-year-old medical student feels extremely angry at his professor after receiving a poor grade on an exam. Instead of yelling at the professor, he goes to the gym and has an intense workout. Which defense mechanism is he using?",
+      "options": ["Displacement", "Reaction Formation", "Sublimation", "Suppression", "Projection"],
+      "correctAnswer": 3,
+      "rationale": "Sublimation is a mature defense mechanism where an individual channels unacceptable or aggressive impulses into socially acceptable and productive activities (like exercise or art)."
+    },
+    {
+      "id": 2,
+      "question": "A woman who was recently diagnosed with breast cancer tells her family, 'The doctors must have mixed up my biopsy with someone else's. I feel perfectly fine and there is no way I have cancer.' Which stage of grief is she experiencing?",
+      "options": ["Anger", "Bargaining", "Denial", "Depression", "Acceptance"],
+      "correctAnswer": 3,
+      "rationale": "Denial is the first stage of the Kübler-Ross model of grief, characterized by a refusal to accept the reality of the situation."
+    },
+    {
+      "id": 3,
+      "question": "A 30-year-old male is described as being a 'loner' who has no close friends and prefers to spend all his time alone playing video games. He states he does not feel lonely and has no desire for social relationships. Which personality disorder is most likely?",
+      "options": ["Avoidant", "Schizoid", "Schizotypal", "Paranoid", "Antisocial"],
+      "correctAnswer": 2,
+      "rationale": "Schizoid personality disorder is characterized by a lifelong pattern of social withdrawal and a lack of desire for social relationships (Cluster A - Weird)."
+    },
+    {
+      "id": 4,
+      "question": "A patient with Borderline Personality Disorder tells his nurse, 'You are the only kind person in this whole hospital. All the other nurses are evil and trying to hurt me.' This is an example of which defense mechanism?",
+      "options": ["Projection", "Splitting", "Denial", "Dissociation", "Intellectualization"],
+      "correctAnswer": 2,
+      "rationale": "Splitting is the inability to integrate positive and negative qualities of others into a cohesive image, leading to 'all good' or 'all bad' perceptions. It is a hallmark of Borderline Personality Disorder."
+    },
+    {
+      "id": 5,
+      "question": "During a psychiatric interview, a patient answers questions by providing excessive, unnecessary detail and drifting off-topic, but eventually returns to the original point of the question. How should this thought process be described?",
+      "options": ["Tangential", "Circumstantial", "Flight of ideas", "Loosening of associations", "Word salad"],
+      "correctAnswer": 2,
+      "rationale": "Circumstantiality is a thought process where the patient provides tedious detail and 'circles' the point before eventually returning to it. Tangentiality is when they never return to the point."
+    },
+    {
+      "id": 6,
+      "question": "A man is passed over for a promotion at work. When he gets home, he yells at his wife for 'making the house a mess' even though the house is clean. Which defense mechanism is being used?",
+      "options": ["Projection", "Displacement", "Sublimation", "Suppression", "Reaction Formation"],
+      "correctAnswer": 2,
+      "rationale": "Displacement involves transferring feelings (anger) from the original source (the boss) to a neutral or less threatening target (the wife)."
+    },
+    {
+      "id": 7,
+      "question": "Which of the following describes the ONLY conscious defense mechanism?",
+      "options": ["Suppression", "Sublimation", "Altruism", "Humor", "Repression"],
+      "correctAnswer": 1,
+      "rationale": "Suppression is the conscious decision to put aside thoughts or feelings that are distressing. All other defense mechanisms are considered unconscious processes."
+    },
+    {
+      "id": 8,
+      "question": "A 40-year-old man becomes obsessively preoccupied with order, perfectionism, and control. He is so focused on the rules of his projects that he often misses deadlines. He sees no problem with his behavior and thinks everyone else should be as organized as him. What is the most likely diagnosis?",
+      "options": ["OCD", "OCPD", "Avoidant Personality Disorder", "Narcissistic Personality Disorder", "Dependent Personality Disorder"],
+      "correctAnswer": 2,
+      "rationale": "Obsessive-Compulsive Personality Disorder (OCPD) is ego-syntonic (the patient doesn't think they have a problem) and is characterized by perfectionism and control. OCD is ego-dystonic (the patient knows the compulsions are irrational and is distressed by them)."
+    },
+    {
+      "id": 9,
+      "question": "A patient with a history of recurrent arrests for assault and theft shows no remorse for his actions and frequently lies to manipulate others for personal gain. Which Cluster of personality disorders does this belong to?",
+      "options": ["Cluster A", "Cluster B", "Cluster C", "Cluster D", "None of the above"],
+      "correctAnswer": 2,
+      "rationale": "Antisocial personality disorder (Cluster B - Wild) is characterized by a disregard for the rights of others, lack of remorse, and impulsivity."
+    },
+    {
+      "id": 10,
+      "question": "An elderly patient performs poorly on a test requiring her to solve a new, complex puzzle she has never seen before, but she excels at a vocabulary test and a history quiz. This demonstrates a decline in which type of intelligence?",
+      "options": ["Crystallized", "Fluid", "Emotional", "Spatial", "Mathematical"],
+      "correctAnswer": 2,
+      "rationale": "Fluid intelligence (the ability to solve new problems and adapt to new situations) naturally declines with age. Crystallized intelligence (accumulated knowledge and skills) remains stable or increases."
+    }
+  ],
+  "flashcards": [
+    { "front": "What is the mnemonic for the **stages of grief**?", "back": "**DABDA** (Denial, Anger, Bargaining, Depression, Acceptance).", "tag": "Psychology" },
+    { "front": "Which defense mechanism involves seeing people as **'all good' or 'all bad'**?", "back": "**Splitting**.", "tag": "Psychology" },
+    { "front": "What is the difference between **Mood** and **Affect**?", "back": "Mood is the sustained internal state (climate); Affect is the observed immediate expression (weather).", "tag": "Psychiatry" },
+    { "front": "Which personality cluster is described as **'Weird'**?", "back": "**Cluster A** (Paranoid, Schizoid, Schizotypal).", "tag": "Psychiatry" },
+    { "front": "What is **Sublimation**?", "back": "Channeling unacceptable impulses into **productive** ones (Mature defense).", "tag": "Psychology" },
+    { "front": "What is the only **conscious** defense mechanism?", "back": "**Suppression**.", "tag": "Psychology" }
+  ],
+  "pearls": [
+    { "title": "Schizoid vs Avoidant", "content": "Schizoid = loner by **choice** (content). Avoidant = loner by **fear** (wants friends but is scared of rejection)." },
+    | title: "Displacement vs Projection", content: "Displacement = Anger at A, yell at B. Projection = I am angry at A, but I tell A 'Why are YOU so angry at me?'" },
+    { "title": "The Rule of the 'S's", "content": "**S**uppression and **S**ublimation are the 'S'uperior (mature) defenses." },
+    { "title": "Fluid vs Crystallized", "content": "Old people are wise (Crystallized) but slow at puzzles (Fluid)." }
+  ]
+});
