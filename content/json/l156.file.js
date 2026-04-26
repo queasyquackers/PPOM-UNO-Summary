@@ -27,6 +27,7 @@ window.receiveLectureContent({
 # Lecture #156: Pharmacology of Antineoplastic Agents 1
 
 **Lecturer:** L. Goldstein, Pharm.D.
+**Session:** Lecture #156
 
 ## 1. Principles of Chemotherapy
 Antineoplastic agents exploit the rapid division of cancer cells. They are classified by their relationship to the cell cycle:
@@ -53,7 +54,8 @@ Antineoplastic agents exploit the rapid division of cancer cells. They are class
 ## 3. Alkylating Agents (Non-Specific)
 *   **Cyclophosphamide:**
     *   **Mechanism:** Cross-links DNA at guanine N-7. Requires liver activation (P450).
-    *   **Toxicity:** **Hemorrhagic Cystitis** (caused by metabolite **Acrolein**). Prevented by **Mesna** and hydration.
+    *   **Toxicity:** **Hemorrhagic Cystitis** (caused by metabolite **Acrolein**).
+    *   **Prevention:** **Mesna** (2-mercaptoethane sulfonate) and aggressive hydration. Mesna binds and neutralizes acrolein in the bladder.
 *   **Nitrosoureas (Carmustine, Lomustine):**
     *   **Unique Feature:** Highly lipophilic; cross the **Blood-Brain Barrier**.
     *   **Indication:** Brain tumors (Glioblastoma).

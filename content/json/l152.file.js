@@ -27,50 +27,37 @@ window.receiveLectureContent({
 # Lecture #152: Hematology: Laboratory Medicine and Anemias Part 2
 
 **Lecturer:** N. Chernik, Academic Medicine Scholar
+**Session:** Lecture #152
 
 ## 1. Macrocytic Anemias (MCV > 100 fL)
 Macrocytosis is divided based on the presence of **Hypersegmented Neutrophils** (≥ 5 lobes).
-
-### Megaloblastic (Impaired DNA Synthesis)
-*   **Folate (B9) Deficiency:**
-    *   **Absorbed:** Jejunum.
-    *   **Causes:** Poor diet (tea and toast), Alcoholism, Pregnancy, Methotrexate.
-    *   **Labs:** High Homocysteine, **Normal MMA**.
-    *   **Clinical:** Glossitis. NO neurological symptoms.
-*   **Vitamin B12 (Cobalamin) Deficiency:**
-    *   **Absorbed:** Terminal Ileum (requires Intrinsic Factor).
-    *   **Causes:** Pernicious anemia, Veganism, Crohn's/Ileal resection, Fish tapeworm (*Diphyllobothrium latum*).
-    *   **Labs:** High Homocysteine, **High MMA**.
-    *   **Clinical:** **Subacute Combined Degeneration (SCD)** of the spinal cord (dorsal columns/lateral corticospinal tract).
-
-### Non-Megaloblastic
-*   Macrocytosis without DNA synthesis impairment.
-*   **Causes:** Alcoholism, Liver disease, Reticulocytosis (retics are larger). Neutrophils are NOT hypersegmented.
+*   **Megaloblastic (Impaired DNA Synthesis):**
+    *   **Folate (B9) Deficiency:** Absorbed in **jejunum**. Causes: "tea and toast" diet, alcoholism, methotrexate. Labs: ↑ Homocysteine, **Normal MMA**. No neuro symptoms.
+    *   **Vitamin B12 (Cobalamin) Deficiency:** Absorbed in **terminal ileum** (requires IF). Causes: pernicious anemia, veganism, Crohn's, *D. latum*. Labs: ↑ Homocysteine, **High MMA**.
+    *   **SCD (Subacute Combined Degeneration):** Dorsal columns (vibration/proprioception) + lateral corticospinal tracts (spasticity).
+*   **Mnemonic:** **MMA** = **M**ethylmalonic acid = **M**ethylcobalamin = **B12** only.
 
 ## 2. Normocytic Anemias (MCV 80-100 fL)
-Categorized by the **Reticulocyte Count** and the type of hemolysis.
+Categorized by **Corrected Reticulocyte Count (CRC)**: CRC > 3% = hemolysis/blood loss; CRC < 3% = underproduction.
 
-### Intravascular Hemolysis (RBCs burst in blood)
-*   **Paroxysmal Nocturnal Hemoglobinuria (PNH):**
-    *   Acquired mutation in **PIGA** gene; loss of GPI-anchor.
-    *   Loss of **CD55 (DAF)** and **CD59 (MIRL)** which normally protect RBCs from complement.
-    *   **Clinical:** Hemoglobinuria in the morning (acidosis at night triggers complement), venous thrombosis (Buddy-Chiari).
-    *   **Treatment:** **Eculizumab** (C5 inhibitor).
-*   **G6PD Deficiency:**
-    *   X-linked. Reduced NADPH leads to reduced Glutathione.
-    *   **Triggers:** Fava beans, Infections, Sulfa drugs, Nitrofurantoin, Primaquine.
-    *   **Smear:** **Heinz Bodies** (denatured Hb) and **Bite Cells** (Degmacytes).
+### Intravascular vs. Extravascular Hemolysis
+| Feature | **Intravascular** | **Extravascular** |
+| :--- | :--- | :--- |
+| **Location** | Within blood vessels | Spleen/Liver (RES) |
+| **Findings** | **Schistocytes**, ↓↓ haptoglobin, hemoglobinuria, **hemosiderinuria** | **Spherocytes**, splenomegaly, ↑ urobilinogen |
+| **Causes** | Mechanical (valves), complement (PNH), G6PD | HS, Warm AIHA, Rh-HDFN |
 
-### Extravascular Hemolysis (RBCs cleared by Spleen)
-*   **Hereditary Spherocytosis:**
-    *   Autosomal dominant defect in **Ankyrin, Spectrin, or Band 3**.
-    *   Loss of membrane leads to spherocyte formation (less flexible).
-    *   **Labs:** High **MCHC**, High RDW.
-    *   **Diagnosis:** **Osmotic Fragility Test** or EMA binding (flow cytometry).
-*   **Autoimmune Hemolytic Anemia (AIHA):**
-    *   **Warm (IgG):** Spherocytes. Associated with SLE, CLL, Drugs (Methyldopa).
-    *   **Cold (IgM):** Agglutination in extremities. Associated with *Mycoplasma pneumoniae* or EBV.
-    *   **Diagnosis:** **Direct Coombs Test**.
+### Intrinsic Hemolytic Anemias — "MAD" Mnemonic
+1.  **M - Membrane Defects:**
+    *   **Hereditary Spherocytosis:** Ankyrin/Spectrin defect. ↑ MCHC, ↑ osmotic fragility. Splenectomy is curative.
+    *   **PNH:** GPI anchor defect (PIGA gene) → loss of **CD55/CD59**. Venous thrombosis is #1 cause of death. Tx: Eculizumab.
+2.  **A - Abnormal Hemoglobin:**
+    *   **Sickle Cell (HbS):** Glu→Val mutation. Dactylitis in infants; Acute Chest Syndrome in adults.
+    *   **HbC:** Glu→Lys mutation. Bar-shaped crystals.
+3.  **D - Deficient Enzymes:**
+    *   **G6PD Deficiency:** X-linked. **Heinz bodies** (oxidized Hb) + **Bite cells**.
+    *   **Triggers:** Fava beans, Sulfa drugs, Infections, Nitrofurantoin, Primaquine.
+    *   **PK Deficiency:** ↓ ATP → rigid RBCs (Burr cells). ↑ 2,3-BPG (right-shift O₂ curve).
 
 ## 3. Bone Marrow Failure Syndromes
 *   **Aplastic Anemia:** Pancytopenia with hypocellular marrow (fat). Causes: Idiopathic, Viral (EBV, Hepatitis), Drugs (Chloramphenicol, Carbamazepine, Benzene).

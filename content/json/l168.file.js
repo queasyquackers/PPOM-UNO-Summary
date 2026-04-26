@@ -27,6 +27,7 @@ window.receiveLectureContent({
 # Lecture #168: Hemorrhagic Viral Infections
 
 **Lecturer:** T. Slieman, Ph.D.
+**Session:** Lecture #168
 
 ## 1. Filoviridae (Ebola and Marburg)
 *   **Structure:** Long, filamentous, enveloped, negative-sense SSRNA.

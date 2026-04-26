@@ -27,19 +27,21 @@ window.receiveLectureContent({
 # Lecture #154: Pathology: Leukemias, Lymphomas, and Plasma Cell Neoplasms
 
 **Lecturer:** M. Plummer, M.D.
+**Session:** Lecture #154
 
 ## 1. Acute Leukemias (>20% Blasts)
 Acute leukemias are defined by the accumulation of immature "blasts" in the bone marrow, crowding out normal hematopoiesis.
 *   **Acute Lymphoblastic Leukemia (ALL):** Most common childhood cancer. **Tdt+** (marker of lymphoblasts).
-    *   **B-ALL:** Often t(12;21) [good prognosis] or t(9;22) [bad prognosis, adult form].
+    *   **B-ALL:** Often **CD10+ (CALLA)**. Prognosis: t(12;21) [good, children] vs t(9;22) [poor, adults].
     *   **T-ALL:** Presents as a **mediastinal mass** in adolescents ("T-cell, Teenager, Thymic mass").
-*   **Acute Myeloid Leukemia (AML):** Most common in older adults. **MPO+** (myeloperoxidase).
-    *   **Acute Promyelocytic Leukemia (APL):** **t(15;17)** translocation. Fuses PML with RARA (retinoic acid receptor).
-    *   **Finding:** Numerous **Auer Rods**. Trigger for **DIC**.
-    *   **Treatment:** **ATRA** (Vitamin A derivative) forces maturation.
+*   **Acute Myeloid Leukemia (AML):** Most common in older adults. **MPO+** (myeloperoxidase). **CD34+** blasts.
+    *   **Acute Promyelocytic Leukemia (APL / M3):** **t(15;17)** translocation.
+    *   **Finding:** Numerous **Auer Rods** (crystallized MPO).
+    *   **Clinical:** High risk of **DIC** (procoagulants released from granules).
+    *   **Treatment:** **ATRA** + Arsenic trioxide.
 
 ## 2. Chronic Leukemias
-*   **Chronic Lymphocytic Leukemia (CLL):** Most common adult leukemia. Neoplastic proliferation of mature B-cells (CD5+, CD20+).
+*   **Chronic Lymphocytic Leukemia (CLL):** Most common adult leukemia. Neoplastic proliferation of mature B-cells (**CD5+, CD20+, CD23+**).
     *   **Smear:** **Smudge cells**.
     *   **Complication:** Hypogammaglobulinemia (infection risk) or transformation to DLBCL (**Richter Transformation**).
 *   **Chronic Myelogenous Leukemia (CML):** Driven by the **Philadelphia Chromosome t(9;22)**; creates **BCR-ABL** tyrosine kinase.

@@ -28,6 +28,7 @@ window.receiveLectureContent({
 # Lecture #161: Pathology of Hemorrhage
 
 **Lecturer:** Maria Maratta Plummer, M.D.
+**Session:** Lecture #161
 
 ## 1. Primary Hemostasis Disorders (Platelet/Vessel)
 Presents with **mucocutaneous bleeding** (petechiae, purpura, epistaxis).

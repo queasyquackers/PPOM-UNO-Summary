@@ -26,6 +26,7 @@ window.receiveLectureContent({
 # Lecture #158: Pathology: Hemostasis
 
 **Lecturers:** K. Bressler OMS III, E. Petcu, M.D.
+**Session:** Lecture #158
 
 ## 1. Overview: The Delicate Balance
 Hemostasis is the process by which the body stops bleeding. It must be rapid, localized, and reversible.
@@ -41,7 +42,7 @@ Hemostasis is the process by which the body stops bleeding. It must be rapid, lo
 3.  **Platelet Activation & Secretion:** Platelets change shape and release granules:
     *   **Alpha Granules:** Contain **vWF**, Fibrinogen, Fibronectin, and **Platelet Factor 4 (PF4)**.
     *   **Dense Granules:** Contain **ADP**, **Calcium** (Factor IV), and Serotonin.
-4.  **Platelet Aggregation:** ADP induces expression of **GpIIb/IIIa** receptors. Fibrinogen acts as a bridge between GpIIb/IIIa receptors on adjacent platelets. **TXA2** (Thromboxane) further promotes aggregation.
+4.  **Platelet Aggregation:** ADP binds to the **P2Y12 receptor**, inducing the expression of **GpIIb/IIIa** receptors. Fibrinogen acts as a bridge between GpIIb/IIIa receptors on adjacent platelets. **TXA2** (Thromboxane) further promotes aggregation.
 
 ## 3. Secondary Hemostasis (The Coagulation Cascade)
 A series of zymogen activations leading to the formation of a stable fibrin clot.

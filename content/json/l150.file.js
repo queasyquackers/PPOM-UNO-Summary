@@ -27,6 +27,7 @@ window.receiveLectureContent({
 # Lecture #150: Hematology: Hematopoiesis
 
 **Lecturer:** M.M. Plummer, M.D.
+**Session:** Lecture #150
 
 ## 1. The Hematopoietic Stem Cell (HSC)
 All mature blood cells originate from a single precursor: the **Pluripotential Hematopoietic Stem Cell (HSC)**. 
@@ -55,11 +56,18 @@ Hematopoiesis undergoes a predictable "migration" during development:
     *   **Morphologic Clue:** The appearance of **Dacrocytes (Teardrop Cells)** on a peripheral smear often signals that the marrow is "crowded" or fibrotic, forcing RBCs to "squeeze" out, or that EMH is occurring.
 
 ## 4. Lineage Maturation & Growth Factors
-Specific cytokines drive the differentiation of HSCs into mature cells:
-*   **Erythropoietin (EPO):** Produced by the **peritubular interstitial cells of the kidney** in response to hypoxia. Drives RBC production.
-*   **Thrombopoietin (TPO):** Produced by the **liver and kidney**. Drives Megakaryocyte/Platelet production.
-*   **IL-5:** Specifically drives **Eosinophil** production (High-yield for asthma/parasite questions).
-*   **IL-3:** Acts as a broad stimulant for all myeloid lineages.
+The pluripotential HSC differentiates into two main progenitor lines:
+*   **Common Myeloid Progenitor (CMP):** Gives rise to Erythrocytes, Megakaryocytes, Granulocytes, and Monocytes.
+*   **Common Lymphoid Progenitor (CLP):** Gives rise to B cells, T cells, and NK cells.
+
+Specific cytokines drive this differentiation:
+*   **Erythropoietin (EPO):** Produced by the **peritubular interstitial cells of the kidney** (renal cortex) in response to hypoxia.
+*   **Thrombopoietin (TPO):** Produced by the **liver**. Drives Megakaryocyte/Platelet production.
+*   **GM-CSF:** Stimulates both granulocyte and monocyte production.
+*   **G-CSF / M-CSF:** Specific for granulocytes (neutrophils) and monocytes, respectively.
+*   **IL-5:** Specifically drives **Eosinophil** production.
+*   **IL-7:** Crucial for **CLP** differentiation into B and T cell lineages.
+*   **IL-3:** Acts as a broad stimulant for all myeloid lineages ("Multi-CSF").
 
 ### Maturation Key Stages
 *   **Granulopoiesis:** Myeloblast $\rightarrow$ **Promyelocyte** (contains primary granules/Auer rods) $\rightarrow$ Myelocyte $\rightarrow$ Metamyelocyte $\rightarrow$ **Band** $\rightarrow$ Neutrophil.

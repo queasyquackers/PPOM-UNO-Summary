@@ -26,6 +26,7 @@ window.receiveLectureContent({
 # Lecture #165: Coagulation Pharmacology: Antiplatelets and Thrombolytics
 
 **Lecturer:** L. Goldstein, Pharm.D.
+**Session:** Lecture #165
 
 ## 1. Antiplatelet Agents (Target Primary Hemostasis)
 *   **Irreversible COX-1 Inhibitor:** **Aspirin**. Inhibits TXA2 synthesis for the life of the platelet (7-10 days).

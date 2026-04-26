@@ -27,6 +27,7 @@ window.receiveLectureContent({
 # Lecture #164: Pharmacology: Drugs Used in Coagulation Disorders
 
 **Lecturer:** L. Goldstein, Pharm.D.
+**Session:** Lecture #164
 
 ## 1. Anticoagulants (Target Secondary Hemostasis)
 Prevent the formation of new clots or the propagation of existing ones.

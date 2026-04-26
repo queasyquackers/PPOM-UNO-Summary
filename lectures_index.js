@@ -1234,6 +1234,14 @@ window.receiveLectureIndex([
     "readingTime": "15-20 min"
   },
   {
+    "id": "l160",
+    "title": "Lecture #160: OMM: Muscle Energy Technique for Lower Extremity",
+    "module": "OMM",
+    "tags": "Lecture #160",
+    "path": "content/json/l160.file.js",
+    "readingTime": "10-15 min"
+  },
+  {
     "id": "l161",
     "title": "Lecture #161: Pathology of Hemorrhage",
     "module": "Hematology",

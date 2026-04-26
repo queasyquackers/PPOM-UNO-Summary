@@ -28,6 +28,7 @@ window.receiveLectureContent({
 # Lecture #163: Pediatric Hematology and Oncology
 
 **Lecturer:** T. Chan, D.O.
+**Session:** Lecture #163
 
 ## 1. Acute Lymphoblastic Leukemia (ALL)
 Most common childhood cancer. Peak incidence age 2-5.
@@ -64,9 +65,10 @@ Proliferation of specialized dendritic cells (Langerhans cells).
 *   **Presentation:** Eosinophilic granuloma (bone fractures), Hand-Schüller-Christian (triad: diabetes insipidus, exophthalmos, bone lesions).
 
 ## 5. Pediatric Anemias
-*   **Physiologic Nadir:** Normal drop in Hb at 6-9 weeks.
-*   **Iron Deficiency:** Often due to **excessive cow's milk** intake in toddlers.
-*   **Sickle Cell Disease:** High risk of sepsis from **encapsulated bacteria** (Salmonella osteomyelitis).
+*   **Physiologic Nadir:** Normal drop in Hb (to ~11) at **2–3 months** (9-12 weeks) due to increased oxygenation at birth shutting down EPO.
+*   **Transient Erythroblastopenia of Childhood (TEC):** Acquired pure red cell aplasia occurring later (**1–4 years**). Usually follows a viral infection.
+*   **Iron Deficiency:** Often due to **excessive cow's milk** intake (>24 oz/day) in toddlers.
+*   **Sickle Cell Disease:** High risk of sepsis from **encapsulated bacteria** (Salmonella osteomyelitis, S. pneumoniae sepsis).
 `,
   "questions": [
     {

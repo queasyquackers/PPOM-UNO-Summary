@@ -27,6 +27,7 @@ window.receiveLectureContent({
 # Lecture #157: Pharmacology of Antineoplastic Agents 2
 
 **Lecturer:** L. Goldstein, Pharm.D.
+**Session:** Lecture #157
 
 ## 1. Small Molecule Tyrosine Kinase Inhibitors (TKIs)
 Intracellular inhibitors that usually block the ATP-binding site of a kinase. Suffix: **-tinib**.

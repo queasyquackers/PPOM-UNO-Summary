@@ -27,6 +27,7 @@ window.receiveLectureContent({
 # Lecture #169: Opportunistic Infections in the Immunocompromised
 
 **Lecturer:** C. Abraham, M.D.
+**Session:** Lecture #169
 
 ## 1. Pneumocystis jirovecii (PCP) - CD4 < 200
 *   **Clinical:** Subacute dry cough, dyspnea, fever. **Ground-glass opacities** on CXR.
@@ -63,7 +64,9 @@ window.receiveLectureContent({
 *   **Bacillary Angiomatosis (*Bartonella henselae*):** Red-purple papules. Histology: **Neutrophilic** infiltrate (vs. lymphocytic in KS).
 
 ## 5. Other Vulnerabilities
-*   **Neutropenia (< 500):** Risk of *Pseudomonas*, *Aspergillus*, *Candida*.
+*   **Neutropenia (ANC < 500):** 
+    *   High risk of *Pseudomonas* sepsis, *Candida*, and **Aspergillus**.
+    *   **Aspergillus:** Septate hyphae with **45° (acute) branching**. Diagnosis: **Galactomannan** assay.
 *   **Splenectomy:** Risk of encapsulated bacteria (*S. pneumoniae, H. influenzae, N. meningitidis*).
 `,
   "questions": [

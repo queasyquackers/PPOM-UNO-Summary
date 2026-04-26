@@ -27,6 +27,7 @@ window.receiveLectureContent({
 # Lecture #151: Hematology: Laboratory Medicine and Anemias Part 1
 
 **Lecturer:** N. Chernik, Academic Medicine Scholar
+**Session:** Lecture #151
 
 ## 1. Introduction to Anemia Evaluation
 Anemia is defined as a decrease in the oxygen-carrying capacity of the blood, usually due to a reduction in RBC mass.
@@ -50,16 +51,17 @@ Microcytosis results from an inability to synthesize Hemoglobin (Heme + Globin).
         *   *Minor (B/B+):* Asymptomatic. Increased **HbA2** (>3.5%) on electrophoresis.
         *   *Major (B0/B0):* Presents after 6 months (as HbF fades). Massive expansion of marrow space causes **"Chipmunk Facies"** and **"Crew-cut" skull** on X-ray. Target cells on smear.
 2.  **A - Anemia of Chronic Disease (ACD):**
-    *   **Mechanism:** Inflammation causes the liver to release **Hepcidin**. Hepcidin locks iron inside macrophages (by degrading ferroportin), making it unavailable for erythropoiesis.
-    *   **Labs:** **High Ferritin**, **Low TIBC**, Low Serum Iron.
+    *   **Mechanism:** Inflammation (specifically **IL-6**) causes the liver to release **Hepcidin**. Hepcidin locks iron inside macrophages and enterocytes by degrading **ferroportin**, making it unavailable for erythropoiesis.
+    *   **Labs:** **High Ferritin** (sequestered), **Low TIBC** (liver reduces transferrin production), Low Serum Iron, Low % Saturation.
 3.  **I - Iron Deficiency Anemia (IDA):**
-    *   **Most Common Cause:** Chronic blood loss (GI bleed in elderly, menses in young females).
-    *   **Clinical:** **Pica** (craving non-food items like ice/dirt), **Pagophagia** (ice craving), and **Koilonychia** (spoon nails).
+    *   **Most Common Cause:** Chronic blood loss (GI bleed in elderly = colon cancer until proven otherwise; menses in young females).
+    *   **Clinical:** **Pica** (craving ice/dirt), **Pagophagia**, and **Koilonychia** (spoon nails).
     *   **Plummer-Vinson Syndrome:** Triad of IDA, **esophageal webs**, and atrophic glossitis.
-    *   **Labs:** **Low Ferritin**, **High TIBC**, Low Serum Iron, High RDW.
+    *   **Labs:** **Low Ferritin** (best marker of iron stores), **High TIBC**, Low Serum Iron, High RDW.
 4.  **L - Lead Poisoning:**
-    *   Inhibits ALAD and Ferrochelatase.
-    *   **Finding:** **Basophilic Stippling** (denatured rRNA). Lead lines on gums (Burton lines).
+    *   Inhibits **Ferrochelatase** and **ALA dehydratase**.
+    *   **Mnemonic (LLEEAAD):** **L**ead lines (Burton lines on gums), **L**ong bone lines (epiphysis on X-ray), **E**ncephalopathy, **E**rythrocyte stippling (**Basophilic stippling**), **A**bdominal colic, **A**nemia (microcytic), **D**rops (wrist/foot drop).
+    *   **Basophilic Stippling:** Caused by inhibition of pyrimidine 5'-nucleotidase → precipitation of ribosomal RNA.
 5.  **S - Sideroblastic Anemia (Protoporphyrin Defect):**
     *   **Hereditary:** X-linked defect in **ALAS** (rate-limiting enzyme).
     *   **Acquired:** Alcoholism (mitochondrial toxin), Lead, and **Isoniazid (Vitamin B6 deficiency)**.

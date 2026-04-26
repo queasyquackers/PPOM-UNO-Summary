@@ -28,6 +28,7 @@ window.receiveLectureContent({
 # Lecture #166: Emerging Blood-Borne and Global Pathogens
 
 **Lecturer:** C. Abraham, M.D.
+**Session:** Lecture #166
 
 ## 1. Bartonella henselae
 *   **Disease:** Cat Scratch Disease (CSD) in immunocompetent; **Bacillary Angiomatosis** in AIDS.
@@ -47,6 +48,11 @@ window.receiveLectureContent({
     *   **Vector:** *Ixodes* tick. Endemic to NE USA.
     *   **Diagnosis:** Peripheral smear showing **Maltese cross** or ring forms.
     *   **Toxicity:** Severe hemolysis in **asplenic** patients.
+*   **Ehrlichia and Anaplasma:**
+    *   **Vector:** Ticks (*Amblyomma* for Ehrlichia, *Ixodes* for Anaplasma).
+    *   **Diagnosis:** **Morulae** (berry-like clusters of bacteria) inside WBCs.
+    *   **Mnemonic (MEGA berry):** **M**onocytes = **E**hrlichia; **G**ranulocytes = **A**naplasma.
+    *   **Treatment:** Doxycycline.
 *   **Plasmodium species (Malaria):**
     *   **P. falciparum:** Most severe. Irregular fevers. Sequestration in brain/lungs/kidneys.
     *   **P. vivax/ovale:** 48h fever cycle. **Hypnozoite** stage in liver requires **Primaquine** (Check G6PD!).

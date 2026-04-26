@@ -27,6 +27,7 @@ window.receiveLectureContent({
 # Lecture #155: Pathology: Hemorrhage and Thrombosis
 
 **Lecturer:** M. Plummer, M.D.
+**Session:** Lecture #155
 
 ## 1. Primary Hemostasis (Platelets)
 Defects lead to mucosal bleeding (epistaxis, menorrhagia) and petechiae.
@@ -57,6 +58,11 @@ Defects lead to deep tissue bleeding (hemarthrosis, hematomas).
 
 ## 4. Thrombosis (Thrombophilia)
 *   **Virchow's Triad:** Endothelial injury, Stasis/Turbulence, Hypercoagulability.
+*   **Thrombus Morphology:**
+    *   **Lines of Zahn:** Microscopic alternating pale layers (platelets/fibrin) and dark layers (RBCs). Their presence indicates the thrombus formed in **flowing blood** (pre-mortem).
+    *   **Mural Thrombi:** Formed in heart chambers or aorta.
+    *   **Arterial Thrombi:** Usually occlusive; most common in coronary, cerebral, and femoral arteries.
+    *   **Venous Thrombi (Phlebothrombosis):** Almost always occlusive; often form in stasis.
 *   **Hereditary Thrombophilia:**
     *   **Factor V Leiden:** Resistance to Protein C inactivation. Most common cause.
     *   **Prothrombin 20210A:** Increased prothrombin expression.

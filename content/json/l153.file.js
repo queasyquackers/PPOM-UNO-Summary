@@ -30,31 +30,33 @@ window.receiveLectureContent({
 **Session:** Lecture #153
 
 ## 1. Iron Supplements
-*   **Iron Absorption "Rules":**
-    *   **The Acid "Why":** Iron is best absorbed in the **Ferrous (Fe2+) state**. Gastric acid and **Vitamin C** help convert the ferric (Fe3+) iron in our food into the usable Fe2+ state.
-    *   **The Blocking "Why":** Anything that raises the pH (Antacids, PPIs) or binds iron (Milk/Calcium, Tea/Tannins) will stop absorption.
-*   **Adverse Effects:** **Black stools**. High-yield context: You must distinguish this from "Melena" (bleeding). Iron-induced stools are usually greenish-black and the patient doesn't have other signs of a bleed.
+*   **Oral Iron:** Ferrous Sulfate (most common).
+    *   **The Acid "Why":** Iron is best absorbed in the **Ferrous (Fe2+) state**. **Vitamin C** (ascorbic acid) helps maintain iron in the Fe2+ state.
+    *   **The Blocking "Why":** Antacids, PPIs, Milk (Calcium), and Tea/Tannins inhibit absorption.
+    *   **Adverse Effects:** Constipation, **Black stools** (must distinguish from melena).
+*   **Parenteral (IV) Iron:** Used for patients who cannot tolerate oral iron or have malabsorption (e.g., gastric bypass, IBD).
+    *   **Formulations:** **Iron Sucrose**, **Ferric Carboxymaltose**.
 *   **Acute Iron Toxicity:** 
-    *   **Mechanism:** Iron is directly corrosive to the GI mucosa. It causes **Necrotizing Gastritis**. 
-    *   **The X-ray Clue:** Iron is a metal; it is **radio-opaque** and shows up on X-rays as bright white pills.
+    *   **Clinical:** Necrotizing gastritis, abdominal pain, bloody diarrhea, **metabolic acidosis**.
+    *   **Imaging:** Bright white, **radio-opaque** pills on X-ray.
+    *   **Management:** **Deferoxamine** (iron chelator).
 
 ## 2. Vitamin B12 and Folate (The "DNA Duo")
-*   **The Folate Trap:**
-    *   **Pathophysiology:** B12 is needed to remove a methyl group from folate. If B12 is missing, folate gets "trapped" in the methyl-tetrahydrofolate form. 
-    *   **The Danger:** If you give a B12-deficient patient just Folate, you provide a "detour" that fixes the DNA/Anemia, but you don't fix the **Methylmalonic Acid (MMA)** build-up. MMA continues to eat away at the spinal cord myelin.
-*   **B12 Absorption (The "Bodyguard" System):**
-    1.  Salivary glands make **R-binder**.
-    2.  Stomach (parietal cells) make **Intrinsic Factor (IF)**.
-    3.  In the duodenum, B12 swaps R-binder for IF.
-    4.  The B12-IF complex travels to the **Terminal Ileum** for absorption.
-    *   **Clinical:** Surgery to the stomach (gastrectomy) or terminal ileum (Crohn's) will cause B12 deficiency.
+*   **The Folate Trap:** Giving folate for B12 deficiency "fixes" the anemia (macrocytosis) but allows **neurological damage** to progress.
+*   **B12 Absorption:** Salivary R-binder $\rightarrow$ Stomach **Intrinsic Factor** (parietal cells) $\rightarrow$ **Terminal Ileum** absorption.
+*   **Management:** Folate is oral; B12 is usually **IM** or deep SC if there is an absorption defect (Pernicious Anemia).
 
-## 3. Hydroxyurea: The "Dilution" Strategy
-*   **The "Why":** In Sickle Cell Disease, HbS "clumps" when it's alone.
-*   **The Strategy:** Hydroxyurea stimulates the production of **HbF (Fetal Hemoglobin)**. HbF "gets in the way" of the HbS clumps, preventing the sickling of the cells.
+## 3. Sickle Cell Management
+*   **Hydroxyurea:** Stimulates **HbF (Fetal Hemoglobin)** production, which inhibits HbS polymerization. Also used in myeloproliferative disorders to lower WBCs/platelets.
+*   **L-Glutamine:** Reduces oxidative stress in sickle cells.
 
-## 4. ESAs (Epoetin alfa)
-*   **Safety Context:** "More isn't better." Pushing the Hemoglobin above 11 makes the blood too thick (**Hyperviscosity**), leading to clots (MI, Stroke).
+## 4. Erythropoiesis Stimulating Agents (ESAs)
+*   **Drugs:** **Epoetin alfa**, **Darbepoetin alfa** (longer half-life).
+*   **Indications:** Anemia of chronic kidney disease (CKD), chemotherapy-induced anemia.
+*   **Black Box Warnings:** 
+    *   **Thrombosis/Hypertension:** Increased risk of MI/Stroke if Hb target is >11 g/dL.
+    *   **Tumor Progression:** May shorten survival in certain cancer patients.
+*   **Rare AE:** **Pure Red Cell Aplasia (PRCA)** due to development of anti-EPO antibodies.
 `,
   "questions": [
     {

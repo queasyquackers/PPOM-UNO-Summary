@@ -43,7 +43,11 @@ HIV is a diploid (two identical copies), single-stranded, positive-sense, envelo
 4.  **Integration:** Viral DNA into host genome. *Integrase Inhibitors* (-tegravir).
 5.  **Cleavage:** Protease cleaves polyproteins into functional units. *Protease Inhibitors* (-navir).
 
-## 3. Clinical Progression
+## 3. Diagnosis and Progression
+*   **Modern Screening Algorithm:**
+    1.  **HIV-1/2 Ag/Ab Immunoassay:** Detects both **p24 antigen** (early) and **IgM/IgG antibodies**.
+    2.  **HIV-1/2 Antibody Differentiation Assay:** If Ag/Ab is positive, this distinguishes between HIV-1 and HIV-2.
+    3.  **HIV-1 Nucleic Acid Test (NAT):** Done if the differentiation assay is indeterminate or negative to look for acute infection (viral load).
 *   **Acute Infection:** Mononucleosis-like symptoms, high viral load, negative antibody test (Window period).
 *   **Latent Phase:** Asymptomatic, virus replicates in lymph nodes.
 *   **AIDS:** CD4 < 200 or presence of an AIDS-defining illness.

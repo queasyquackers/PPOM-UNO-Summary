@@ -28,6 +28,7 @@ window.receiveLectureContent({
 # Lecture #162: Pathology of Thrombosis
 
 **Lecturer:** Maria Maratta Plummer, M.D.
+**Session:** Lecture #162
 
 ## 1. Virchow's Triad
 Thrombosis results from the interplay of three factors:

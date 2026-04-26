@@ -26,6 +26,7 @@ window.receiveLectureContent({
 # Lecture #159: Gynecological and Obstetrical History
 
 **Lecturer:** S. Lewis, M.D.
+**Session:** Lecture #159
 
 ## 1. Gynecological History
 *   **Menstrual History:** 
@@ -54,10 +55,18 @@ window.receiveLectureContent({
 ## 3. Cervical Cancer Screening (Pap Smear)
 *   **Start Age:** 21 years (regardless of sexual activity).
 *   **Target:** **Transformation Zone** (Squamocolumnar Junction). This is where 90% of cancers originate.
-*   **Frequency:** Every 3 years (age 21-29); Every 3-5 years (age 30+ with HPV co-testing).
+*   **Gardasil (HPV Vaccine):** Recommended for ages 9–45 (ideally 11–12).
+*   **Frequency:** 
+    *   21–29: Every 3 years with cytology alone.
+    *   30–65: Every 3 years with cytology OR every 5 years with co-testing (HPV + cytology).
 
-## 4. Sensitive Topics and Prevention
-*   **Intimate Partner Violence (IPV):** Must screen all women. Ask: "Do you feel safe at home?"
+## 4. Breast Health
+*   **Breast Self-Exam (BSE):** Not routinely recommended for average-risk women (high false positive), but if done, should be **5–7 days after menses** (breasts are least lumpy).
+*   **Clinical Breast Exam (CBE):** Every 1–3 years for ages 20–39; annually age 40+.
+*   **Mammography:** Annually starting at **age 40** (ACOG) or 50 (USPSTF).
+
+## 5. Sensitive Topics and Prevention
+*   **Intimate Partner Violence (IPV):** Must screen all women privately. Ask: "Do you feel safe at home?"
 *   **Preconception Care:** All women of childbearing age should take **Folic Acid** (400 mcg daily) to prevent Neural Tube Defects.
 `,
   "questions": [
