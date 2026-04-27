@@ -15,9 +15,20 @@ let pendingResolvers = new Map(); // Registry for pending lecture loads
 // Global callback for lectures that use the window.receiveLectureContent(data) format
 window.receiveLectureContent = (data) => {
   if (!data) return;
+  
   // Try to find the ID. In newer files it's in metadata.id
-  const id = (data.metadata && data.metadata.id) || data.id;
-  if (!id) return;
+  let id = (data.metadata && data.metadata.id) || data.id;
+  
+  // Fallback: If no ID is found in the data, try to infer it from pending resolvers
+  if (!id && pendingResolvers.size === 1) {
+    id = pendingResolvers.keys().next().value;
+  }
+
+  if (!id) {
+    // If still no ID (e.g. multiple pending loads), store in buffer for script.onload to pick up
+    window._lastReceivedLectureData = data;
+    return;
+  }
 
   const normalized = normalizeLectureData(data, id);
   lecturesMap.set(normalized.id, normalized);
@@ -278,8 +289,14 @@ async function getLectureContent(id, path) {
 
         let rawData = null;
 
+        // Fallback 0: Data was captured in buffer but ID was missing
+        if (window._lastReceivedLectureData) {
+          rawData = window._lastReceivedLectureData;
+          window._lastReceivedLectureData = null;
+        }
+
         // Format 1: window.contentData['lXXX'] (used by l123, l124, l125)
-        if (window.contentData && window.contentData[id]) {
+        if (!rawData && window.contentData && window.contentData[id]) {
           rawData = window.contentData[id];
           rawData._sourceId = id;
         }
