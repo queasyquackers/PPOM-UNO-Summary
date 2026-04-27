@@ -1,164 +1,159 @@
 window.receiveLectureContent({
-  "metadata": {
-    "id": "l159",
-    "title": "Introduction to the Gynecological and Obstetrical History",
-    "lecturer": "S. Lewis, M.D.",
-    "session": "Lecture #159",
-    "module": "Clinical Medicine",
-    "readingTime": "25-30 min"
+  metadata: {
+    title: "Introduction to Gyn/Ob History",
+    lecturer: "Steven Lewis, M.D. (Session 159)",
+    readingTime: "10-15 min",
+    difficulty: "Intermediate",
+    tags: ["DPR", "Clinical Skills", "Obstetrics", "Gynecology", "History Taking"]
   },
-  "resources": {
-    "ankingResource": {
-      "primarySource": "Boards and Beyond",
-      "chapter": "Reproductive > Gynecology > Cervical Cancer Screening",
-      "alternatives": [
-        { "resource": "Sketchy Path", "chapter": "Reproductive & GU > Cervical Neoplasia" },
-        { "resource": "First Aid", "chapter": "Reproductive > Gynecology > Cervical Pathology" }
+  resources: {
+    ankingResource: {
+      primarySource: "First Aid",
+      chapter: "Reproductive > Basics",
+      alternatives: [
+        { resource: "Boards and Beyond", chapter: "Reproductive > Obstetric Concepts" },
+        { resource: "Step-Up to Medicine", chapter: "Gynecology" }
       ]
     },
-    "anking": [
-      { "match": "Pap Smear Screening", "resources": "AnKing Step 2 v11: #B&B::06_ObGyn::Gyne::09_Cervical_Cancer" },
-      { "match": "Naegele's Rule", "resources": "AnKing Step 2 v11: #B&B::06_ObGyn::Obst::01_Prenatal_Care::EDD" },
-      { "match": "GTPAL system", "resources": "AnKing Step 2 v11: #B&B::06_ObGyn::Obst::01_Prenatal_Care::GTPAL" }
+    anking: [
+      { match: "GTPAL / Obstetric History", resources: "AnKing Step 2 v11: #B&B::06_ObGyn::02_Obstetrics::01_Prenatal_Care" },
+      { match: "Cervical Cancer Screening (Pap Smear)", resources: "AnKing Step 1 v11: #Pathoma::16_Female_Genital_System_and_Breast::02_Cervix" },
+      { match: "Menopause Symptoms", resources: "AnKing Step 1 v11: #FirstAid::Reproductive::Pathology::Menopause" }
     ]
   },
-  "summary": `
-# Lecture #159: Gynecological and Obstetrical History
+  summary: `
+# Story Mode: The Life Cycles of Women
 
-**Lecturer:** S. Lewis, M.D.
-**Session:** Lecture #159
+The Gynecological and Obstetrical (Gyn/Ob) history is one of the most sensitive and information-dense parts of a clinical interview. It requires not just technical knowledge of menstrual cycles and surgical outcomes, but a high degree of empathy and non-judgmental communication. We are documenting the story of a woman's reproductive life, from her first period to her final years. This is not just a checklist; it is a map of her hormonal and physical journey.
 
-## 1. Gynecological History
-*   **Menstrual History:** 
-    *   **Menarche:** Age of onset.
-    *   **LMP:** First day of the Last Menstrual Period.
-    *   **Cycle:** Duration (days of bleeding) and Frequency (days between starts).
-    *   **Terms:** 
-        *   **Menorrhagia:** Heavy/prolonged bleeding.
-        *   **Metrorrhagia:** Bleeding between periods.
-        *   **Menometrorrhagia:** Heavy bleeding between periods.
-        *   **Dysmenorrhea:** Painful menstruation.
-*   **Menopause:** 12 consecutive months of amenorrhea. Average age 51. **Postmenopausal bleeding is endometrial cancer until proven otherwise.**
-*   **Sexual History (The 5 P's):** Partners, Practices, Protection, Past STIs, Prevention of pregnancy.
+---
 
-## 2. Obstetrical History
-*   **GTPAL System:**
-    *   **G (Gravida):** Total number of pregnancies.
-    *   **T (Term):** Deliveries $\ge$ 37 weeks.
-    *   **P (Preterm):** Deliveries between 20 and 36 6/7 weeks.
-    *   **A (Abortion):** Pregnancies ending < 20 weeks (includes miscarriages and induced).
-    *   **L (Living):** Number of currently living children.
-*   **Naegele's Rule (Estimated Date of Delivery):** 
-    *   **EDD = LMP + 7 days - 3 months + 1 year.**
-*   **Complications:** Ask about Preeclampsia, Gestational Diabetes, and method of delivery (Vaginal vs. C-section).
+## 1. The Gynecological Foundation: The Rhythms of Life
+We start with the basics of the menstrual cycle. This isn't just about dates; it's about identifying underlying hormonal health and recognizing patterns of dysfunction.
 
-## 3. Cervical Cancer Screening (Pap Smear)
-*   **Start Age:** 21 years (regardless of sexual activity).
-*   **Target:** **Transformation Zone** (Squamocolumnar Junction). This is where 90% of cancers originate.
-*   **Gardasil (HPV Vaccine):** Recommended for ages 9–45 (ideally 11–12).
-*   **Frequency:** 
-    *   21–29: Every 3 years with cytology alone.
-    *   30–65: Every 3 years with cytology OR every 5 years with co-testing (HPV + cytology).
+*   **Menarche**: The age of the first period. Early menarche (<12) is a risk factor for breast and endometrial cancer due to increased lifetime estrogen exposure.
+*   **The LMP**: Always ask for the **first day** of the Last Menstrual Period. This is the global "Time Zero" for calculating pregnancy and investigating cycle irregularities.
+*   **The Cycle Metrics**:
+    *   **Frequency**: How many days from the start of one period to the start of the next? (Normal is 21–35 days). 
+    *   **Duration**: How many days does the actual bleeding last? (Normal is 2–7 days).
+    *   **Flow (The Quantifier)**: Don't settle for "heavy" or "light." Ask: "How many pads or tampons do you soak through on your heaviest day?" Do you have to change them during the night? Do you pass clots?
+*   **Dysmenorrhea**: Painful periods. Differentiate between "normal" cramping and pain that keeps her from work or school (which might suggest Endometriosis).
+*   **Menopause (The Quiet Exit)**: Defined clinically as **12 consecutive months** of amenorrhea in a woman of appropriate age.
+    *   **CRITICAL RED FLAG**: Any vaginal bleeding after menopause is **Endometrial Cancer** until proven otherwise. It requires an urgent endometrial biopsy or ultrasound.
 
-## 4. Breast Health
-*   **Breast Self-Exam (BSE):** Not routinely recommended for average-risk women (high false positive), but if done, should be **5–7 days after menses** (breasts are least lumpy).
-*   **Clinical Breast Exam (CBE):** Every 1–3 years for ages 20–39; annually age 40+.
-*   **Mammography:** Annually starting at **age 40** (ACOG) or 50 (USPSTF).
+---
 
-## 5. Sensitive Topics and Prevention
-*   **Intimate Partner Violence (IPV):** Must screen all women privately. Ask: "Do you feel safe at home?"
-*   **Preconception Care:** All women of childbearing age should take **Folic Acid** (400 mcg daily) to prevent Neural Tube Defects.
+## 2. Preventive Screening: The Guardrails of Health
+### I. The Pap Smear (Cervical Cancer)
+*   **The Target**: The **Transformation Zone** (Squamocolumnar junction). This is where the delicate columnar cells of the inner cervix meet the tough squamous cells of the outer cervix. It is where 90% of cervical cancers start.
+*   **The Screening Rules**: 
+    *   Starts at **age 21**, regardless of sexual history. 
+    *   From 21–29: Pap every 3 years. 
+    *   From 30–65: Pap + HPV co-testing every 5 years (preferred).
+*   **The History**: Always ask about previous abnormal results. If she has had a "Colposcopy" or "LEEP" procedure, her risk profile changes.
+
+### II. Mammograms and Breast Health
+*   **The History**: Ask about lumps, skin dimpling (**"Peau d'orange"**), or nipple discharge (especially if bloody or spontaneous).
+*   **Self-Exams**: While no longer recommended as a primary screening tool by some guidelines, if performed, they should be done **5–7 days after menses** when breast tissue is softest and least congested by estrogen.
+
+---
+
+## 3. The Sexual History: The "Poker Face" 5 P's
+When asking about sexual health, maintain a neutral, professional "poker face." Normalize the questions by saying, "To provide the best care, I ask these questions of all my patients."
+
+1.  **Partners**: Number and gender of partners. (Crucial for assessing STI risk).
+2.  **Practices**: Types of intercourse (vaginal, ****, oral). This determines where you should test for STIs (e.g., throat or rectal swabs).
+3.  **Protection**: Barrier methods. Ask how *consistently* they are used.
+4.  **Past STIs**: History of infections like Chlamydia or Gonorrhea (which can lead to Pelvic Inflammatory Disease and infertility).
+5.  **Prevention of Pregnancy**: Current contraception. Is she happy with it? Is she taking it correctly? (e.g., "How many pills do you miss in a month?").
+
+---
+
+## 4. Obstetrical History: The GTPAL Code
+This is the shorthand clinicians use to summarize a patient's entire pregnancy history. It's a "code" that tells a story of fertility and loss.
+
+*   **G (Gravida)**: Total number of times pregnant (including the current one!).
+*   **T (Term)**: Deliveries after 37 weeks.
+*   **P (Preterm)**: Deliveries between 20 and 37 weeks.
+*   **A (Abortion)**: Pregnancies ending before 20 weeks (includes both spontaneous miscarriages and elective terminations).
+*   **L (Living)**: Number of children currently living.
+*   **Note on Twins**: A twin pregnancy counts as **G1**, but the delivery counts as **T1** (or P1), and the living children count as **L2**.
+
+### Naegele's Rule: The Due Date Math
+If you know the first day of the LMP, you can estimate the **Expected Date of Confinement (EDC)**:
+**LMP + 7 Days - 3 Months + 1 Year.**
+*(Example: LMP May 10 -> May 17 -> Feb 17 next year).*
+
+---
+
+## 5. The Hidden Red Flags
+*   **Intimate Partner Violence (IPV)**: Screen every patient, every time, in private. "Are you safe in your relationship? Has anyone ever hurt you or made you feel afraid?"
+*   **Urinary Incontinence**: Many women consider this "normal" after childbirth, but it is treatable. Ask: "Do you leak urine when you cough or sneeze?"
+*   **Postpartum Depression**: Always screen mothers at their follow-up visits. The transition to motherhood is a period of extreme psychiatric vulnerability.
 `,
-  "questions": [
+  questions: [
     {
-      "id": 1,
-      "question": "A patient's LMP was March 10, 2023. Using Naegele's rule, what is her Estimated Date of Delivery (EDD)?",
-      "options": ["December 10, 2023", "December 17, 2023", "January 17, 2024", "January 10, 2024", "December 3, 2023"],
-      "correctAnswer": 2,
-      "rationale": "Naegele's rule: LMP + 7 days (March 17) - 3 months (December 17) + 1 year (December 17, 2023). Wait, March is the 3rd month. 3 - 3 = 0 (December of previous year) + 1 year = Dec 17 of current year if early, or next year. Calculation: March 10 + 7 days = March 17. March 17 - 3 months = Dec 17. Since it was March 2023, the EDD is Dec 17, 2023."
-    },
-    {
-      "id": 2,
-      "question": "A woman is currently pregnant. She has one child born at 39 weeks, one child born at 34 weeks, and one miscarriage at 10 weeks. All children are living. What is her GTPAL?",
-      "options": ["G3 T1 P1 A1 L2", "G4 T1 P1 A1 L2", "G4 T2 P0 A1 L2", "G3 T2 P1 A0 L3", "G4 T1 P1 A1 L3"],
-      "correctAnswer": 2,
-      "rationale": "G: 4 (Current + 3 past). T: 1 (39 weeks). P: 1 (34 weeks). A: 1 (10 weeks). L: 2 (The two born alive). Wait, the question says 'All children are living'. The miscarriage is not a child. So L=2. G4 T1 P1 A1 L2."
-    },
-    {
-      "id": 3,
-      "question": "A 52-year-old woman hasn't had a period in 14 months. She presents today with light spotting. What is the most appropriate next step?",
-      "options": ["Reassurance that this is normal menopause", "Start HRT", "Endometrial biopsy", "Repeat exam in 6 months", "Check FSH levels"],
-      "correctAnswer": 3,
-      "rationale": "Any postmenopausal bleeding (defined as bleeding after 12 months of amenorrhea) is endometrial cancer until proven otherwise. Endometrial biopsy or transvaginal ultrasound (to check stripe thickness) is mandatory."
-    },
-    {
-      "id": 4,
-      "question": "A 19-year-old female presents for a routine checkup. She has been sexually active since age 16. Should a Pap smear be performed today?",
-      "options": ["Yes, because she has been active for >3 years", "Yes, to establish a baseline", "No, screening starts at age 21", "Only if she has multiple partners", "Only if she hasn't had the HPV vaccine"],
-      "correctAnswer": 3,
-      "rationale": "Current guidelines recommend starting cervical cancer screening at age 21, regardless of the age of sexual debut. Screening before 21 leads to unnecessary procedures for transient HPV infections."
-    },
-    {
-      "id": 5,
-      "question": "What is the primary site sampled during a Pap smear to detect cervical dysplasia?",
-      "options": ["Fundus of the uterus", "Lateral vaginal walls", "Transformation zone", "Endometrial cavity", "Ovarian surface"],
-      "correctAnswer": 3,
-      "rationale": "The transformation zone (where columnar epithelium meets squamous epithelium) is the site of active cell turnover and where the vast majority of HPV-related dysplasia occurs."
-    },
-    {
-      "id": 6,
-      "question": "A patient reports 'bleeding between my regular periods.' Which medical term best describes this symptom?",
-      "options": ["Menorrhagia", "Metrorrhagia", "Dysmenorrhea", "Amenorrhea", "Oligomenorrhea"],
-      "correctAnswer": 2,
-      "rationale": "Metrorrhagia is defined as intermenstrual bleeding. Menorrhagia is heavy/prolonged menses. Oligomenorrhea is infrequent menses."
-    },
-    {
-      "id": 7,
-      "question": "All women of childbearing age should take folic acid daily. What is the standard recommended dose for low-risk women to prevent neural tube defects?",
-      "options": ["40 mcg", "400 mcg (0.4 mg)", "4 mg", "40 mg", "100 mg"],
-      "correctAnswer": 2,
-      "rationale": "The standard recommendation for all women of childbearing age is 400 mcg (0.4 mg) of folic acid daily. High-risk women (history of NTD) require 4 mg."
-    },
-    {
-      "id": 8,
-      "question": "A 25-year-old G1P0 at 10 weeks gestation presents for her first prenatal visit. When asked about her home life, she seems hesitant. What is the most appropriate way to screen for domestic violence?",
-      "options": [
-        "Ask only if her partner is present",
-        "Screen only if you see physical bruises",
-        "Ask 'Do you feel safe in your home?' routinely and privately",
-        "Avoid asking to keep the visit comfortable",
-        "Assume she is safe because she is pregnant"
+      question: "A patient reports her Last Menstrual Period (LMP) began on August 15th, 2023. Using Naegele's Rule, what is her estimated date of delivery (EDD)?",
+      options: [
+        { text: "May 15th, 2024" },
+        { text: "May 22nd, 2024", isCorrect: true },
+        { text: "November 22nd, 2024" },
+        { text: "May 8th, 2024" }
       ],
-      "correctAnswer": 3,
-      "rationale": "Intimate Partner Violence (IPV) screening is mandatory at every prenatal visit. It must be done privately (without the partner or family present) using direct but supportive questions."
+      explanation: "Naegele's Rule: Aug 15 + 7 days = Aug 22. Aug 22 - 3 months = May 22. Add one year = May 22, 2024."
     },
     {
-      "id": 9,
-      "question": "A woman has had twin boys born at 35 weeks and a daughter born at 40 weeks. She is not currently pregnant. What is her Gravida and Para?",
-      "options": ["G2 P2", "G3 P3", "G2 P3", "G3 P2", "G2 P1"],
-      "correctAnswer": 1,
-      "rationale": "Gravida is the number of pregnancies (2). Para is the number of pregnancies reaching >20 weeks (2). Twins count as one pregnancy (G1) and one delivery (P1)."
+      question: "A 60-year-old woman who has been postmenopausal for 10 years presents with 2 days of vaginal spotting. She denies pain or trauma. What is the most appropriate next step?",
+      options: [
+        { text: "Reassure her that vaginal atrophy can cause light bleeding" },
+        { text: "Order an endometrial biopsy", isCorrect: true },
+        { text: "Start her on low-dose estrogen cream" },
+        { text: "Follow up in 6 months to see if it recurs" }
+      ],
+      explanation: "Postmenopausal bleeding is ENDOMETRIAL CANCER until proven otherwise. You must sample the tissue (biopsy) or visualize the thickness of the lining (ultrasound) immediately."
     },
     {
-      "id": 10,
-      "question": "A 16-year-old girl has not yet started her period but has normal breast and pubic hair development. What is the medical term for her lack of menses?",
-      "options": ["Primary Amenorrhea", "Secondary Amenorrhea", "Dysmenorrhea", "Menarche", "Precocious Puberty"],
-      "correctAnswer": 1,
-      "rationale": "Primary amenorrhea is the absence of menses by age 15 with secondary sex characteristics, or by age 13 without them."
+      question: "A patient has been pregnant 5 times. She had one miscarriage at 8 weeks, one twin delivery at 39 weeks, one preterm delivery at 32 weeks, and one ectopic pregnancy at 6 weeks. She is currently pregnant again. What is her GTPAL?",
+      options: [
+        { text: "G5 T1 P1 A2 L3", isCorrect: true },
+        { text: "G5 T2 P1 A2 L3" },
+        { text: "G4 T1 P1 A2 L3" },
+        { text: "G5 T1 P1 A1 L3" }
+      ],
+      explanation: "G=5 (total). T=1 (the twin delivery). P=1 (the 32-weeker). A=2 (miscarriage + ectopic; both < 20 weeks). L=3 (two twins + one preterm child)."
+    },
+    {
+      question: "Which of the following describes the recommended cervical cancer screening for a 25-year-old female with no prior abnormal paps?",
+      options: [
+        { text: "Pap smear every year" },
+        { text: "Pap smear every 3 years", isCorrect: true },
+        { text: "Pap smear + HPV co-testing every 5 years" },
+        { text: "Screening is not necessary until age 30" }
+      ],
+      explanation: "For women aged 21-29, the recommendation is cytology (Pap smear) alone every 3 years. Co-testing with HPV is not recommended until age 30."
+    },
+    {
+      question: "A woman mentions she has been 'feeling down' since the birth of her baby 4 weeks ago. She admits she is having trouble sleeping even when the baby is asleep and feels like she isn't a good mother. Which of the following is the most likely diagnosis?",
+      options: [
+        { text: "Postpartum Blues" },
+        { text: "Postpartum Depression", isCorrect: true },
+        { text: "Postpartum Psychosis" },
+        { text: "Normal maternal adjustment" }
+      ],
+      explanation: "Postpartum Blues typically resolve within 2 weeks. Symptoms persisting beyond 2 weeks with functional impairment (insomnia, feelings of inadequacy) suggest Postpartum Depression."
     }
   ],
-  "flashcards": [
-    { "front": "What is **Naegele's Rule** for EDD?", "back": "**LMP + 7 days - 3 months + 1 year**.", "tag": "OB" },
-    { "front": "What does the 'A' in **GTPAL** stand for?", "back": "**Abortion** (any pregnancy lost < 20 weeks).", "tag": "OB" },
-    { "front": "What is the definition of **Menopause**?", "back": "**12 months** of amenorrhea.", "tag": "Gyn" },
-    { "front": "At what age should **Pap smears** begin?", "back": "Age **21**.", "tag": "Screening" },
-    { "front": "What is the most concerning cause of **postmenopausal bleeding**?", "back": "**Endometrial Cancer**.", "tag": "Pathology" },
-    { "front": "What is the recommended dose of **Folic Acid** for low-risk women?", "back": "**400 mcg** (0.4 mg) daily.", "tag": "Prevention" }
+  flashcards: [
+    { front: "Define **Primary Amenorrhea**.", back: "Failure of menarche to occur by age 15.", tag: "Gyn" },
+    { front: "What is the **Transformation Zone**?", back: "The squamocolumnar junction of the cervix; most common site for **cervical cancer**.", tag: "Gyn" },
+    { front: "What is the significance of **bloody nipple discharge**?", back: "Highly suspicious for **Intraductal Papilloma** or malignancy; requires workup.", tag: "Gyn" },
+    { front: "Define **Gravida**.", back: "The total number of pregnancies, regardless of outcome.", tag: "Ob" },
+    { front: "What is the **GTPAL** for a woman with twins (term) and one singleton (preterm)?", back: "**G2 T1 P1 A0 L3**.", tag: "Ob" }
   ],
-  "pearls": [
-    { "title": "GTPAL vs GP", "content": "GP is the quick version (G=total, P=viable). GTPAL is the detailed version. Remember: twins count as one G and one P, but two Ls." },
-    { "title": "The Postmenopausal Rule", "content": "Bleeding after menopause = Endometrial Biopsy. No exceptions." },
-    { "title": "Neural Tube Defense", "content": "The neural tube closes by day 28. If a woman waits until she 'feels' pregnant to start vitamins, it's already too late. Start now." },
-    { "title": "Screen Privately", "content": "Always ask about safety at home when the patient is alone. Partners who are abusers often refuse to leave the room." }
+  pearls: [
+    { title: "Estrogen and Cancer", content: "Unopposed estrogen (early menarche, late menopause, obesity) is the primary driver of endometrial and breast cancer. Progesterone is the 'protective' counterpart." },
+    { title: "The 'P' in Para", content: "Para is the number of pregnancies that reached **viability** (>20 weeks). Twins count as P1 (one event), but L2 (two people)." },
+    { title: "Post-coital Bleeding", content: "Bleeding after intercourse is a classic red flag for **cervical cancer** or a cervical polyp." },
+    { title: "Ask the 'Safe' Question", content: "Always screen for IPV when the patient is alone. Partners may be the perpetrators and will not allow the patient to speak freely." }
   ]
 });

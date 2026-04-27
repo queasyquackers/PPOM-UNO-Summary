@@ -1,162 +1,162 @@
 window.receiveLectureContent({
-  "metadata": {
-    "id": "l166",
-    "title": "Microbiology: Emerging Blood-Borne and Global Pathogens",
-    "lecturer": "C. Abraham, M.D.",
-    "session": "Lecture #166",
-    "module": "Hematology",
-    "readingTime": "25-30 min"
+  metadata: {
+    title: "Microbiology: Emerging Blood-Borne Pathogens",
+    lecturer: "C. Abraham, M.D. (Session 166)",
+    readingTime: "10-15 min",
+    difficulty: "Advanced",
+    tags: ["Microbiology", "Parasitology", "Bartonella", "Malaria", "Zika", "COVID-19"]
   },
-  "resources": {
-    "ankingResource": {
-      "primarySource": "SketchyMicro",
-      "chapter": "Parasites > Blood Protozoa",
-      "alternatives": [
-        { "resource": "Physeo", topic: "Microbiology" },
-        { "resource": "First Aid", topic: "Microbiology > Virology" }
+  resources: {
+    ankingResource: {
+      primarySource: "SketchyMicro",
+      chapter: "Parasites",
+      alternatives: [
+        { resource: "First Aid", chapter: "Microbiology > Parasitology" },
+        { resource: "Boards and Beyond", chapter: "Infectious Disease > Parasites" }
       ]
     },
-    "anking": [
-      { "match": "Bartonella", "resources": "AnKing Step 1 v11: #SketchyMicro::01_Bacteria::03_Gram_Negative_Rods::07_Bartonella_henselae" },
-      { "match": "Borrelia burgdorferi", "resources": "AnKing Step 1 v11: #SketchyMicro::01_Bacteria::05_Spirochetes::02_Borrelia_burgdorferi" },
-      { "match": "Babesia", "resources": "AnKing Step 1 v11: #SketchyMicro::02_Parasites::02_Protozoa::03_Babesia" },
-      { "match": "Malaria", "resources": "AnKing Step 1 v11: #SketchyMicro::02_Parasites::02_Protozoa::04_Plasmodium_species" },
-      { "match": "Trypanosoma and Leishmania", "resources": "AnKing Step 1 v11: #SketchyMicro::02_Parasites::02_Protozoa::05_Trypanosoma_brucei_&_cruzi_and_Leishmania" }
+    anking: [
+      { match: "Bartonella henselae", resources: "AnKing Step 1 v11: #SketchyMicro::01_Bacteria::03_Gram_Negative_Rods::05_Bartonella_henselae" },
+      { match: "Plasmodium (Malaria)", resources: "AnKing Step 1 v11: #SketchyMicro::04_Parasites::01_Protozoa::03_Plasmodium_species" },
+      { match: "Zika Virus", resources: "AnKing Step 1 v11: #FirstAid::Microbiology::Virology::RNA_viruses::Zika" }
     ]
   },
-  "summary": `
-# Lecture #166: Emerging Blood-Borne and Global Pathogens
+  summary: `
+# Story Mode: The Hidden Invaders and Global Frontiers
 
-**Lecturer:** C. Abraham, M.D.
-**Session:** Lecture #166
+The world of infectious disease is never static. It is a constantly shifting landscape where pathogens jump from animals to humans (Zoonosis), travel across oceans in the bellies of mosquitoes (Vectors), and adapt to our very cells. This lecture is a deep dive into the "Emerging" threats—those that travel through our blood, hiding in our erythrocytes or colonizing our endothelium. We will journey from the high-altitude valleys of the Andes to the crowded trenches of World War I, and finally to the modern global pandemic.
 
-## 1. Bartonella henselae
-*   **Disease:** Cat Scratch Disease (CSD) in immunocompetent; **Bacillary Angiomatosis** in AIDS.
-*   **Pathology:** Gram-negative pleomorphic rod. Requires **Warthin-Starry silver stain**. 
-*   **Differentiation:** Bacillary angiomatosis (neutrophilic infiltrate) vs. Kaposi Sarcoma (lymphocytic infiltrate).
+## 1. The Bartonella Trilogy: A Tale of Three Species
+The *Bartonella* genus consists of pleomorphic gram-negative rods that are notoriously slow-growing (taking 2–6 weeks in culture) and difficult to see on a standard Gram stain. To find them, we must use the **Warthin-Starry silver stain**, which reveals them as dark, irregular clusters. They are masters of the endovasculature, infecting **CD34+ progenitor cells** and erythrocytes.
 
-## 2. Borrelia burgdorferi (Lyme Disease)
-*   **Vector:** *Ixodes* tick (Deer tick).
-*   **Stages:**
-    1.  **Early Localized:** Erythema migrans (bull's-eye).
-    2.  **Early Disseminated:** Bell's palsy (often bilateral), AV block, migratory arthralgias.
-    3.  **Late Disseminated:** Chronic arthritis, encephalopathy.
-*   **Treatment:** **Doxycycline** (early); **Ceftriaxone** (late/cardiac/CNS).
+### I. Bartonella henselae (The Domestic Threat)
+*   **The Story**: This is the agent of **Cat Scratch Disease**. It is transmitted by cat fleas or directly via a scratch or bite. 
+*   **The Clinical Journey**: 3–5 days after the scratch, a small red papule appears at the site. This is followed by painful **regional lymphadenopathy** (usually the axillary or cervical nodes) and fever. 
+*   **The Immunocompromised Horror**: In patients with advanced AIDS, *B. henselae* doesn't just cause a swollen node; it causes **Bacillary Angiomatosis**. This presents as raised, red-purple, vascular skin nodules that look nearly identical to Kaposi’s Sarcoma. On biopsy, however, you’ll see **neutrophilic infiltrates** (Kaposi’s has spindle cells and lymphocytes). It can also cause **Peliosis Hepatis**, where the liver becomes riddled with blood-filled cystic spaces.
+*   **Treatment**: Azithromycin or Doxycycline.
 
-## 3. Intraerythrocytic Parasites
-*   **Babesia microti:**
-    *   **Vector:** *Ixodes* tick. Endemic to NE USA.
-    *   **Diagnosis:** Peripheral smear showing **Maltese cross** or ring forms.
-    *   **Toxicity:** Severe hemolysis in **asplenic** patients.
-*   **Ehrlichia and Anaplasma:**
-    *   **Vector:** Ticks (*Amblyomma* for Ehrlichia, *Ixodes* for Anaplasma).
-    *   **Diagnosis:** **Morulae** (berry-like clusters of bacteria) inside WBCs.
-    *   **Mnemonic (MEGA berry):** **M**onocytes = **E**hrlichia; **G**ranulocytes = **A**naplasma.
-    *   **Treatment:** Doxycycline.
-*   **Plasmodium species (Malaria):**
-    *   **P. falciparum:** Most severe. Irregular fevers. Sequestration in brain/lungs/kidneys.
-    *   **P. vivax/ovale:** 48h fever cycle. **Hypnozoite** stage in liver requires **Primaquine** (Check G6PD!).
-    *   **P. malariae:** 72h cycle.
+### II. Bartonella quintana (The Soldier’s Plague)
+*   **The Story**: Known as **Trench Fever**, this was the scourge of soldiers in World War I. Today, it is primarily seen in settings of poverty, overcrowding, and homelessness.
+*   **The Vector**: **Human Body Lice** (specifically their feces).
+*   **The Presentation**: It causes a relapsing fever that typically recurs every five days (hence "quintana"). Patients complain of severe headache, back pain, and excruciating leg pain (shin splints).
+*   **Treatment**: Prolonged Doxycycline + Gentamicin.
 
-## 4. Protozoa (Vector-Borne)
-*   **Trypanosoma cruzi (Chagas):** Reduviid (Kissing) bug. Causes dilated cardiomyopathy, megacolon, megaesophagus.
-*   **Trypanosoma brucei:** Tsetse fly. African sleeping sickness. 
-*   **Leishmania donovani:** Sandfly. Visceral leishmaniasis (Kala-azar) - massive splenomegaly + pancytopenia. Diagnosis: Amastigotes in macrophages.
+### III. Bartonella bacilliformis (The Andean Scourge)
+*   **The Story**: Found only in the high-altitude valleys of the Andes (Peru, Ecuador, Colombia).
+*   **The Vector**: The bite of the **Sandfly**.
+*   **Two Phases**:
+    1.  **Oroya Fever (Acute)**: A catastrophic hemolytic anemia where the bacteria coat up to 80% of erythrocytes. Untreated, it has a 90% mortality rate.
+    2.  **Verruga Peruana (Chronic)**: If the patient survives the acute phase, they develop "Peruvian Warts"—disfiguring, blood-filled vascular nodules.
 
-## 5. Emerging Viruses
-*   **Zika Virus:** *Aedes* mosquito. Microcephaly and Guillain-Barré.
-*   **Ebola/Marburg:** Filoviruses. Direct contact with fluids. DIC and shock.
+---
+
+## 2. The Micro-Predators: Blood-Borne Parasites
+### I. Malaria (The Ancient Killer)
+Malaria is caused by *Plasmodium* species and remains one of the world's greatest health burdens.
+*   **The Life Cycle**: The **Anopheles mosquito** injects sporozoites -> they travel to the **liver** (Exoerythrocytic phase) -> they rupture into the **blood** (Erythrocytic phase), causing the classic cyclic fevers.
+*   **The Species**:
+    *   **P. falciparum**: The most deadly. It causes **Cerebral Malaria** because parasitized RBCs develop "knobs" that stick to capillary walls (sequestration), causing organ failure and coma. Fevers are irregular.
+    *   **P. vivax/ovale**: These form **Hypnozoites**—dormant stages in the liver that can "wake up" months or years later. You **must** treat with **Primaquine** to prevent relapse (check for G6PD deficiency first!).
+    *   **P. malariae**: Notable for a 72-hour fever cycle (quartan).
+
+### II. Babesia microti (The Lyme Look-alike)
+*   **The Vector**: The **Ixodes tick** (the same one that carries Lyme disease!).
+*   **The Hallmark**: On a blood smear, look for the **Maltese Cross** (tetrads of parasites). 
+*   **Clinical**: Like malaria, it causes hemolytic anemia and fever. It is particularly dangerous in **asplenic** patients, who cannot clear the infected cells.
+
+### III. Trypanosomiasis (Sleeping Sickness vs. Chagas)
+*   **T. cruzi (Chagas)**: Found in the Americas. Transmitted by the **Reduviid bug** (Kissing bug) which poops near the bite site. Chronic complications include **Megacolon**, **Megaesophagus**, and **Dilated Cardiomyopathy**.
+*   **T. brucei (African Sleeping Sickness)**: Transmitted by the **Tsetse fly**. It progresses from a systemic illness (Winterbottom's sign: posterior cervical nodes) to a CNS invasion that reverses the sleep/wake cycle.
+
+---
+
+## 3. The Modern Emerging Viruses
+### I. Zika Virus (The Neurotropic Threat)
+*   **Family**: Flaviviridae (+ssRNA).
+*   **Vector**: Aedes mosquito.
+*   **The Congenital Crisis**: While adults get a mild rash and conjunctivitis, the real danger is to the fetus. If a mother is infected during the first trimester, the virus attacks the developing fetal brain, leading to **Congenital Zika Syndrome**—characterized by **severe microcephaly**, collapsed skull, and profound developmental delay.
+
+### II. SARS-CoV-2 (The Global Disrupter)
+*   **Family**: Coronaviridae (Enveloped, +ssRNA).
+*   **Mechanism**: Uses its Spike protein to bind to **ACE2 receptors** on human cells.
+*   **The Cytokine Storm**: The virus itself causes damage, but the body's over-reaction (the inflammatory phase) is what often leads to ARDS and septic shock.
+*   **Management Pearl**: Steroids (Dexamethasone) are life-saving in the **late inflammatory phase** but can be **harmful** if given during the early viral replication phase.
+
+---
+
+## 4. Key Vector & Pathogen Summary Table
+| Pathogen | Vector | Geographic Hint | Pathognomonic Finding |
+| :--- | :--- | :--- | :--- |
+| **B. henselae** | Cat Flea | Worldwide | Regional Lymphadenopathy |
+| **B. quintana** | Body Lice | Urban Poverty | 5-day Relapsing Fever |
+| **B. bacilliformis**| Sandfly | Andes Mountains | Hemolytic Anemia / Peruvian Warts |
+| **P. falciparum** | Mosquito | Tropics | Banana-shaped Gametocytes |
+| **Babesia** | Ixodes Tick | NE United States | Maltese Cross on Smear |
+| **T. cruzi** | Reduviid Bug | South/Central America| Romaña's Sign (Swollen eye) |
 `,
-  "questions": [
+  questions: [
     {
-      "id": 1,
-      "question": "A 35-year-old male from Connecticut presents with fever, chills, and fatigue. He remembers a tick bite 2 weeks ago but no rash. A peripheral blood smear shows ring forms and several structures resembling a 'Maltese cross.' What is the most likely diagnosis?",
-      "options": ["Lyme Disease", "Babesiosis", "Malaria", "Rocky Mountain Spotted Fever", "Ehrlichiosis"],
-      "correctAnswer": 2,
-      "rationale": "The Maltese cross appearance on peripheral smear is pathognomonic for Babesia. It is transmitted by the same Ixodes tick that carries Lyme disease and is endemic to the Northeastern US."
-    },
-    {
-      "id": 2,
-      "question": "A patient with AIDS presents with several raised, red-purple vascular skin lesions. A biopsy is performed, and a Warthin-Starry silver stain reveals small, pleomorphic rods. Which of the following is the most likely pathogen?",
-      "options": ["HHV-8", "Bartonella henselae", "Staphylococcus aureus", "Mycobacterium avium", "Treponema pallidum"],
-      "correctAnswer": 2,
-      "rationale": "In an HIV patient, red vascular lesions that stain with silver (Warthin-Starry) indicate Bacillary Angiomatosis caused by Bartonella henselae. Kaposi Sarcoma (HHV-8) would not show bacteria on silver stain."
-    },
-    {
-      "id": 3,
-      "question": "A traveler returns from a 2-week safari in East Africa. He was compliant with his Chloroquine prophylaxis. Three months later, he develops recurring fevers every 48 hours. A blood smear shows Plasmodium vivax. What medication must be added to his treatment to prevent further relapse?",
-      "options": ["Chloroquine", "Mefloquine", "Artesunate", "Primaquine", "Doxycycline"],
-      "correctAnswer": 4,
-      "rationale": "Plasmodium vivax and P. ovale form dormant hypnozoites in the liver. Chloroquine only kills the blood stages. Primaquine is required to eradicate the liver stages and prevent relapse. Always check for G6PD deficiency before starting Primaquine."
-    },
-    {
-      "id": 4,
-      "question": "A 25-year-old male presents with sudden onset of facial drooping on both sides (bilateral facial nerve palsy). He mentions a recent camping trip in Massachusetts. Which of the following is the most likely cause?",
-      "options": ["HSV-1", "Borrelia burgdorferi", "Sarcoidosis", "HIV", "Guillain-Barré Syndrome"],
-      "correctAnswer": 2,
-      "rationale": "Bilateral Bell's palsy (facial nerve palsy) is a classic finding of Stage 2 (early disseminated) Lyme disease, caused by the spirochete Borrelia burgdorferi."
-    },
-    {
-      "id": 5,
-      "question": "A man from Brazil presents with difficulty swallowing and chronic constipation. An X-ray shows significant dilation of the esophagus and colon. He also has signs of heart failure. Which of the following vectors is responsible for his condition?",
-      "options": ["Tsetse fly", "Sandfly", "Reduviid (Kissing) bug", "Anopheles mosquito", "Aedes mosquito"],
-      "correctAnswer": 3,
-      "rationale": "The patient has Chagas disease (Trypanosoma cruzi), which causes the 'mega' triad: megacolon, megaesophagus, and dilated cardiomyopathy. It is transmitted by the feces of the Reduviid bug."
-    },
-    {
-      "id": 6,
-      "question": "A patient with visceral leishmaniasis presents with massive splenomegaly and pancytopenia. A bone marrow biopsy is performed. What finding would confirm the diagnosis?",
-      "options": [
-        "Maltese cross in RBCs",
-        "Amastigotes within macrophages",
-        "Trypomastigotes in the blood",
-        "Trophozoites in the liver",
-        "Schizonts in the RBCs"
+      question: "A 45-year-old homeless man in New York City presents with a fever that seems to occur every 5 days. He also complains of severe pain in his shins. He is found to have body lice. What is the most likely causative organism?",
+      options: [
+        { text: "Bartonella henselae" },
+        { text: "Bartonella quintana", isCorrect: true },
+        { text: "Borrelia recurrentis" },
+        { text: "Rickettsia prowazekii" }
       ],
-      "correctAnswer": 2,
-      "rationale": "Leishmania donovani lives inside macrophages as amastigotes (lacking flagella). Finding these in a tissue sample (bone marrow, spleen) is diagnostic for visceral leishmaniasis (Kala-azar)."
+      explanation: "Bartonella quintana causes Trench Fever, characterized by a 5-day relapsing fever and severe leg/bone pain. It is transmitted by human body lice and is often seen in homeless populations."
     },
     {
-      "id": 7,
-      "question": "A 30-year-old woman returns from Central America and develops fever and a rash. She is 12 weeks pregnant. What is the most significant concern for the fetus if she is infected with Zika virus?",
-      "options": ["Spina bifida", "Microcephaly", "Congenital heart defects", "Limb deformities", "Neonatal sepsis"],
-      "correctAnswer": 2,
-      "rationale": "Zika virus infection during pregnancy is strongly associated with severe congenital brain abnormalities, most notably microcephaly."
+      question: "Which of the following findings on a liver biopsy would most specifically suggest a diagnosis of Bacillary Angiomatosis rather than Kaposi Sarcoma in an AIDS patient?",
+      options: [
+        { text: "Spindle-shaped cells" },
+        { text: "Lymphocytic infiltrate" },
+        { text: "Neutrophilic infiltrate", isCorrect: true },
+        { text: "Extravasated erythrocytes" }
+      ],
+      explanation: "While both present as vascular skin lesions in HIV, Bacillary Angiomatosis (Bartonella) is characterized by a neutrophilic infiltrate, whereas Kaposi Sarcoma (HHV-8) features a lymphocytic infiltrate and spindle cells."
     },
     {
-      "id": 8,
-      "question": "Which of the following describes the fever pattern of Plasmodium malariae?",
-      "options": ["Daily (quotidian)", "Every 48 hours (tertian)", "Every 72 hours (quartan)", "Irregular", "No fever"],
-      "correctAnswer": 3,
-      "rationale": "P. malariae is known for its 72-hour (quartan) fever cycle. P. vivax/ovale have a 48-hour (tertian) cycle."
+      question: "A traveler returning from a hiking trip in Peru develops a sudden, severe hemolytic anemia. Blood smear shows small, pleomorphic rods within 75% of his red blood cells. What is the vector for this disease?",
+      options: [
+        { text: "Anopheles mosquito" },
+        { text: "Sandfly", isCorrect: true },
+        { text: "Tsetse fly" },
+        { text: "Reduviid bug" }
+      ],
+      explanation: "The description of severe hemolytic anemia in the Andes points to the acute phase of Bartonella bacilliformis (Oroya Fever), which is transmitted by the Sandfly."
     },
     {
-      "id": 9,
-      "question": "A patient with Lyme disease presents with a new-onset third-degree AV block. What is the most appropriate treatment at this stage?",
-      "options": ["Oral Doxycycline", "Oral Amoxicillin", "IV Ceftriaxone", "Permanent Pacemaker", "Observation only"],
-      "correctAnswer": 3,
-      "rationale": "In cases of severe Lyme disease involving the CNS (meningitis) or the heart (AV block), IV Ceftriaxone is the preferred treatment over oral antibiotics."
+      question: "A patient is diagnosed with Malaria caused by Plasmodium vivax. In addition to Chloroquine, the physician prescribes Primaquine. What is the primary purpose of adding Primaquine?",
+      options: [
+        { text: "To treat the erythrocytic stage in Chloroquine-resistant areas" },
+        { text: "To prevent transmission to mosquitoes" },
+        { text: "To eradicate hypnozoites in the liver", isCorrect: true },
+        { text: "To prevent cerebral malaria" }
+      ],
+      explanation: "P. vivax and P. ovale form dormant hypnozoites in the liver. Standard treatments like Chloroquine only kill the blood stage; Primaquine is required to kill the liver stage and prevent clinical relapse."
     },
     {
-      "id": 10,
-      "question": "Which of the following intraerythrocytic pathogens is most likely to cause a life-threatening, overwhelming infection in a patient who has had a splenectomy?",
-      "options": ["Plasmodium falciparum", "Babesia microti", "Bartonella henselae", "Trypanosoma cruzi", "Leishmania donovani"],
-      "correctAnswer": 2,
-      "rationale": "While malaria is dangerous, Babesia is particularly lethal in asplenic patients because the spleen is critical for clearing these parasites from the circulation. Asplenic patients with Babesia can develop high-grade parasitemia and septic shock."
+      question: "An infant is born with severe microcephaly, redundant scalp skin, and intracranial calcifications. The mother traveled to Brazil during her first trimester. What is the genome of the most likely causative virus?",
+      options: [
+        { text: "Double-stranded DNA" },
+        { text: "Negative-sense, single-stranded RNA" },
+        { text: "Positive-sense, single-stranded RNA", isCorrect: true },
+        { text: "Double-stranded RNA" }
+      ],
+      explanation: "The presentation is classic for Congenital Zika Syndrome. Zika virus is a member of the Flaviviridae family, which are enveloped, positive-sense, single-stranded RNA viruses."
     }
   ],
-  "flashcards": [
-    { "front": "What is the vector for **Lyme Disease**?", "back": "**Ixodes** tick.", "tag": "Microbiology" },
-    { "front": "What does a **Maltese cross** on blood smear indicate?", "back": "**Babesiosis**.", "tag": "Microbiology" },
-    { "front": "Which drug kills **Malaria hypnozoites**?", "back": "**Primaquine**.", "tag": "Pharmacology" },
-    { "front": "What are the three 'megas' of **Chagas disease**?", "back": "Megacolon, Megaesophagus, Dilated Cardiomyopathy.", "tag": "Pathology" },
-    { "front": "What stain is used for **Bartonella**?", "back": "**Warthin-Starry** silver stain.", "tag": "Microbiology" },
-    { "front": "What is the vector for **Leishmania**?", "back": "**Sandfly**.", "tag": "Microbiology" }
+  flashcards: [
+    { front: "What is the specialized stain used to see **Bartonella**?", back: "The **Warthin-Starry** (Silver) stain.", tag: "Microbiology" },
+    { front: "Which Bartonella species causes **Peruvian Warts**?", back: "**B. bacilliformis** (chronic phase).", tag: "Microbiology" },
+    { front: "What is the hallmark of **Babesia** on a blood smear?", back: "The **Maltese Cross** (tetrads).", tag: "Microbiology" },
+    { front: "Define **Winterbottom's Sign**.", back: "Posterior cervical lymphadenopathy in **African Sleeping Sickness**.", tag: "Microbiology" },
+    { front: "Which receptor does **SARS-CoV-2** utilize for entry?", back: "The **ACE2** receptor.", tag: "Microbiology" }
   ],
-  "pearls": [
-    { "title": "Ixodes Triple Threat", "content": "If a patient from CT has Lyme symptoms + severe anemia + no response to Doxy, think Babesia co-infection." },
-    { "title": "Bartonella vs KS", "content": "Silver stain = Bartonella. No silver stain = KS." },
-    { "title": "Vivax/Ovale Liver Rule", "content": "Primaquine is the only drug that 'vacates' (Vivax/Ovale) the liver." },
-    { "title": "The Kissing Bug", "content": "Chagas = Kissing (Reduviid) bug. It bites the face and poops near the wound. Don't rub it in!" }
+  pearls: [
+    { title: "Bartonella and CD34", content: "Bartonella species are unique in their ability to infect CD34+ endothelial progenitor cells, leading to the vascular proliferation seen in Bacillary Angiomatosis." },
+    { title: "The Ixodes Duo", content: "If a patient has Babesiosis (Maltese cross), always screen them for Lyme Disease (Borrelia), as the same tick transmits both." },
+    { title: "Primaquine Warning", content: "Never give Primaquine without checking for G6PD deficiency, as it can trigger a life-threatening hemolytic crisis." },
+    { title: "Zika vs. Others", content: "Unlike many other Flaviviruses, Zika can be transmitted sexually and vertically, not just by mosquitoes." }
   ]
 });

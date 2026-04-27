@@ -1,188 +1,163 @@
 window.receiveLectureContent({
-  "metadata": {
-    "id": "l167",
-    "title": "Microbiology: HIV and Human Retroviruses",
-    "lecturer": "C. Abraham, M.D.",
-    "session": "Lecture #167",
-    "module": "Hematology",
-    "readingTime": "25-30 min"
+  metadata: {
+    title: "Microbiology: HIV and Retroviruses",
+    lecturer: "C. Abraham, M.D. (Session 167)",
+    readingTime: "10-15 min",
+    difficulty: "Advanced",
+    tags: ["Microbiology", "Virology", "HIV", "AIDS", "ART", "Retroviruses"]
   },
-  "resources": {
-    "ankingResource": {
-      "primarySource": "SketchyMicro",
-      "chapter": "Viruses > Retroviridae",
-      "alternatives": [
-        { "resource": "Physeo", topic: "Microbiology" },
-        { "resource": "SketchyPharm", topic: "HIV Antivirals" }
+  resources: {
+    ankingResource: {
+      primarySource: "SketchyMicro",
+      chapter: "RNA Viruses > Retroviruses",
+      alternatives: [
+        { resource: "First Aid", chapter: "Microbiology > Virology > RNA Viruses > HIV" },
+        { resource: "Boards and Beyond", chapter: "Infectious Disease > HIV" }
       ]
     },
-    "anking": [
-      { "match": "HIV structure and life cycle", "resources": "AnKing Step 1 v11: #SketchyMicro::04_Viruses::06_Retroviridae::01_HIV" },
-      { "match": "ART medications", "resources": "AnKing Step 1 v11: #SketchyPharm::06_Antimicrobials::04_Antivirals::02_HIV_Antivirals" },
-      { "match": "AIDS defining illnesses", "resources": "AnKing Step 1 v11: #FirstAid::Microbiology::Virology::HIV" },
-      { "match": "HTLV-1", "resources": "AnKing Step 1 v11: #FirstAid::Microbiology::Virology::HTLV-1" }
+    anking: [
+      { match: "HIV Life Cycle", resources: "AnKing Step 1 v11: #FirstAid::Microbiology::Virology::RNA_viruses::HIV::Replication" },
+      { match: "HIV Genes (gag, pol, env)", resources: "AnKing Step 1 v11: #FirstAid::Microbiology::Virology::RNA_viruses::HIV::Structure" },
+      { match: "Antiretroviral Therapy (ART)", resources: "AnKing Step 1 v11: #SketchyPharm::08_Antimicrobials::05_Antivirals::04_HIV_ART" }
     ]
   },
-  "summary": `
-# Lecture #167: HIV, AIDS, and Human Retroviruses
+  summary: `
+# Story Mode: The Hijacker in the Genetic Blueprint
 
-**Lecturer:** C. Abraham, M.D.
-**Session:** Lecture #167
+In the vast kingdom of viruses, most are like smash-and-grab burglars: they enter the cell, steal the machinery to make copies, and then destroy the house as they leave. But retroviruses, and specifically HIV, are different. They are high-level identity thieves. They don’t just use your cellular machinery; they write themselves into your very DNA, becoming a permanent part of your genetic "blueprint." This lecture explores the origin, structure, and clinical siege of the Human Immunodeficiency Virus.
 
+---
 
-## 1. HIV Structure and Genes
-HIV is a diploid (two identical copies), single-stranded, positive-sense, enveloped RNA virus.
-*   **env (gp160):** Cleaved into **gp120** (attachment to CD4) and **gp41** (fusion and entry).
-*   **gag (p24):** Capsid protein (used in early screening tests).
-*   **pol:** Encodes Reverse Transcriptase, Integrase, and Protease.
+## 1. The Shadow of the Past: Origin and HTLV
+Before we dive into HIV, we must recognize its cousin: **HTLV-1** (Human T-cell Leukemia Virus). 
+*   **HTLV-1**: Endemic to Japan, the Caribbean, and parts of Africa. It causes a slowly progressive neurologic disease called **Tropical Spastic Paraparesis** (weakness and rigidity in the legs) and a devastating malignancy known as **Adult T-cell Leukemia/Lymphoma (ATLL)**. Unlike HIV, there is no effective antiretroviral therapy to prevent ATLL once infected.
+*   **The Origin of HIV**: HIV began as a zoonotic jump. Between **1884 and 1924**, in the Belgian Congo, the **Simian Immunodeficiency Virus (SIV)** from chimpanzees crossed into humans, likely through the hunting and processing of "bushmeat." It traveled along trade routes to Kinshasa, where it began its silent global expansion.
 
-## 2. The HIV Life Cycle and Drug Targets
-1.  **Attachment:** gp120 binds CD4 and co-receptor (**CCR5** on macrophages early; **CXCR4** on T-cells late). *Maraviroc* blocks CCR5.
-2.  **Fusion:** gp41 mediates entry. *Enfuvirtide* blocks this.
-3.  **Reverse Transcription:** RNA → DNA. *NRTIs* (Tenofovir, Zidovudine) and *NNRTIs* (Efavirenz).
-4.  **Integration:** Viral DNA into host genome. *Integrase Inhibitors* (-tegravir).
-5.  **Cleavage:** Protease cleaves polyproteins into functional units. *Protease Inhibitors* (-navir).
+---
 
-## 3. Diagnosis and Progression
-*   **Modern Screening Algorithm:**
-    1.  **HIV-1/2 Ag/Ab Immunoassay:** Detects both **p24 antigen** (early) and **IgM/IgG antibodies**.
-    2.  **HIV-1/2 Antibody Differentiation Assay:** If Ag/Ab is positive, this distinguishes between HIV-1 and HIV-2.
-    3.  **HIV-1 Nucleic Acid Test (NAT):** Done if the differentiation assay is indeterminate or negative to look for acute infection (viral load).
-*   **Acute Infection:** Mononucleosis-like symptoms, high viral load, negative antibody test (Window period).
-*   **Latent Phase:** Asymptomatic, virus replicates in lymph nodes.
-*   **AIDS:** CD4 < 200 or presence of an AIDS-defining illness.
-    *   **Defining Illnesses:** PCP, Esophageal Candidiasis, Kaposi Sarcoma, Toxoplasmosis, CMV Retinitis, Cryptococcal meningitis.
+## 2. The Structure of the Enemy
+HIV is an enveloped, positive-sense, single-stranded RNA virus. It travels with **two copies** of its genome and a toolbox of specialized enzymes.
 
-## 4. Opportunistic Infections and Prophylaxis
-| CD4 Count | Infection | Prophylaxis |
-| :--- | :--- | :--- |
-| **< 200** | *Pneumocystis jirovecii* (PJP) | **TMP-SMX** |
-| **< 100** | *Toxoplasma gondii* | **TMP-SMX** |
-| **< 50** | *Mycobacterium avium* complex (MAC) | **Azithromycin** |
+### The Three Master Genes:
+1.  **gag (Group-specific Antigen)**: Encodes the structural proteins. The most important is **p24**, the capsid protein that we detect in early screening.
+2.  **pol (Polymerase)**: The machinery. It encodes:
+    *   **Reverse Transcriptase**: Converts viral RNA to DNA (notoriously error-prone, leading to the virus's ability to mutate and escape the immune system).
+    *   **Integrase**: The "splicer" that inserts viral DNA into the host chromosome.
+    *   **Protease**: The "cleaver" that cuts polyproteins into functional units during maturation.
+3.  **env (Envelope)**: The keys to the kingdom. 
+    *   **gp120**: The attachment protein. It binds to the **CD4 receptor** and a co-receptor.
+    *   **gp41**: The fusion protein. Once gp120 binds, gp41 pulls the viral envelope and cell membrane together to allow entry.
 
-## 5. Antiretroviral Therapy (ART) Toxicity
-*   **NRTIs:** Lactic acidosis, Peripheral neuropathy. **Zidovudine** causes anemia. **Abacavir** causes hypersensitivity (check **HLA-B*5701**).
-*   **NNRTIs:** Rash, CNS symptoms (**Efavirenz** causes vivid dreams/psychosis).
-*   **Protease Inhibitors:** Metabolic syndrome (Hyperglycemia, Insulin resistance, **Lipodystrophy**).
-*   **Integrase Inhibitors:** Increased Creatine Kinase (CK).
+---
 
-## 6. HTLV-1
-Associated with **Adult T-cell Leukemia/Lymphoma (ATLL)** and Tropical Spastic Paraparesis. Look for "Flower cells" (lymphocytes with cloverleaf nuclei) on blood smear.
+## 3. The Seven-Step Heist: The Life Cycle
+1.  **Binding**: gp120 binds CD4 and a co-receptor. 
+    *   **CCR5**: Used in early infection (**M-tropic**; found on macrophages/dendritic cells). 
+    *   **CXCR4**: Used in late-stage infection (**T-mropic**; found on T-cells).
+2.  **Fusion**: gp41 allows the viral core to enter the cytoplasm.
+3.  **Reverse Transcription**: The viral RNA is turned into DNA. This is where most mutations occur.
+4.  **Integration**: Viral DNA moves to the nucleus and is spliced into the host genome by **Integrase**. The virus is now a **Provirus**.
+5.  **Replication**: The host cell prints viral RNA and proteins.
+6.  **Assembly**: New virus particles gather at the cell surface.
+7.  **Budding and Maturation**: The virus leaves the cell. **Protease** cleaves the proteins to make the virus infectious. Without maturation, the virus is a "blank," unable to infect new cells.
+
+---
+
+## 4. The Clinical Journey: The Story of Bobby
+We follow a patient, **Bobby**, through the stages of infection:
+
+### I. The Acute Phase (The "Flu" that isn't)
+2–4 weeks after exposure, Bobby develops a fever, sore throat, and lymphadenopathy. This is the **Acute Retroviral Syndrome**.
+*   **The Numbers**: The viral load is in the millions; the CD4 count drops sharply. Bobby is at his most infectious point during this phase.
+
+### II. The Latent Phase (The Silent War)
+Over the next 8–10 years, Bobby feels fine. But in his lymph nodes, a war of attrition is occurring. The virus is replicating, and the immune system is trying to keep up.
+*   **The Set Point**: The viral load stabilizes at a "set point." The higher the set point, the faster the progression to AIDS.
+
+### III. The AIDS Crisis
+When Bobby's **CD4 count drops below 200**, or if he develops an **AIDS-defining illness** (like PCP or Kaposi’s), he is officially diagnosed with AIDS. His immune system is now so depleted that "vultures" (opportunistic infections) can strike.
+
+---
+
+## 5. The Arsenal: Antiretroviral Therapy (ART)
+We use "Triple Therapy" to corner the virus. 
+
+*   **NRTIs (Nucleoside Reverse Transcriptase Inhibitors)**: These are "fake" building blocks. They require **phosphorylation** by host kinases to become active. Once the virus uses them, DNA chain elongation stops. (e.g., Zidovudine, Tenofovir).
+*   **NNRTIs**: These bind directly to Reverse Transcriptase at a different site to shut it down. They do **not** require phosphorylation. (e.g., Efavirenz).
+*   **Protease Inhibitors (-navir)**: These block the "cleaver," preventing maturation.
+*   **Integrase Inhibitors (-tegravir)**: These block the virus from entering the host's blueprint.
+*   **Entry Inhibitors (Maraviroc)**: These bind to the **CCR5** co-receptor. They only work if the virus is CCR5-tropic!
+
+---
+
+## 6. The Modern Frontiers
+*   **U=U**: If a patient has an **Undetectable** viral load, the virus is **Untransmittable** through ***.
+*   **PrEP (Pre-Exposure Prophylaxis)**: High-risk individuals can take a daily pill (**Tenofovir/Emtricitabine**) to prevent infection.
+*   **The Future**: Researchers are experimenting with **genetic engineering**, harvesting a patient's T-cells and using CRISPR to remove the CCR5 gene, making the cells "invincible" to common HIV strains.
 `,
-  "questions": [
+  questions: [
     {
-      "id": 1,
-      "question": "A 24-year-old male presents with fever, sore throat, and generalized lymphadenopathy two weeks after high-risk sexual exposure. An HIV-1/2 antibody/antigen screen is negative. What is the most appropriate next step to diagnose acute HIV infection?",
-      "options": [
-        "Repeat the antibody screen in 3 months",
-        "Perform an HIV viral load (RNA PCR)",
-        "Perform a Western Blot",
-        "Perform a CD4 count",
-        "Reassure the patient it is likely infectious mononucleosis"
+      question: "A patient is started on a medication that binds to the CCR5 receptor on host cells. Before starting this drug, which of the following tests must be performed to ensure the drug will be effective?",
+      options: [
+        { text: "Viral load testing" },
+        { text: "CD4 count" },
+        { text: "Viral tropism assay", isCorrect: true },
+        { text: "HLA-B*5701 testing" }
       ],
-      "correctAnswer": 2,
-      "rationale": "During the 'window period' of acute HIV infection, the viral load is extremely high, but the body has not yet produced detectable levels of antibodies. An HIV RNA PCR (viral load) is the most sensitive test during this phase."
+      explanation: "Maraviroc is a CCR5 antagonist. Since some HIV strains can switch to using the CXCR4 receptor (T-tropic) or use both (dual-tropic), a tropism assay is required to ensure the patient's virus exclusively uses the CCR5 receptor."
     },
     {
-      "id": 2,
-      "question": "A patient with HIV is started on a new antiretroviral regimen. Two weeks later, he presents with a severe rash, fever, and respiratory symptoms. You suspect a hypersensitivity reaction. Which genetic marker should have been tested before starting this patient's medication?",
-      "options": ["HLA-B27", "HLA-B57:01", "HLA-DR4", "CCR5", "CXCR4"],
-      "correctAnswer": 2,
-      "rationale": "Abacavir (an NRTI) is associated with a severe, potentially fatal hypersensitivity reaction in patients who carry the HLA-B*57:01 allele. Screening for this allele is mandatory before starting abacavir."
-    },
-    {
-      "id": 3,
-      "question": "An HIV-positive patient with a CD4 count of 150 cells/mm³ should be started on prophylaxis for which of the following opportunistic infections?",
-      "options": [
-        "Pneumocystis jirovecii",
-        "Toxoplasma gondii",
-        "Mycobacterium avium complex",
-        "Cytomegalovirus",
-        "Cryptococcus neoformans"
+      question: "Which of the following HIV proteins is responsible for the fusion of the viral envelope with the host cell membrane, allowing the viral core to enter the cytoplasm?",
+      options: [
+        { text: "gp120" },
+        { text: "gp41", isCorrect: true },
+        { text: "p24" },
+        { text: "Reverse Transcriptase" }
       ],
-      "correctAnswer": 1,
-      "rationale": "Prophylaxis for PJP (with TMP-SMX) is indicated when the CD4 count drops below 200. Prophylaxis for Toxoplasma starts at < 100, and MAC at < 50."
+      explanation: "gp120 is for attachment (binding to CD4/co-receptor), while gp41 is for fusion. A useful mnemonic is: 41 is 'one' (fusion) and 120 is 'zero' (attachment/zero-ing in)."
     },
     {
-      "id": 4,
-      "question": "Which HIV viral protein is responsible for the initial attachment to the host CD4 receptor?",
-      "options": ["gp41", "gp120", "p24", "Reverse Transcriptase", "Integrase"],
-      "correctAnswer": 2,
-      "rationale": "The envelope protein gp160 is cleaved into gp120 and gp41. **gp120** mediates the initial attachment to the CD4 receptor and co-receptors (CCR5/CXCR4). **gp41** mediates the subsequent fusion and entry."
-    },
-    {
-      "id": 5,
-      "question": "A patient on HIV therapy complains of a change in his body shape, with increased fat in his neck and abdomen but thinning of his arms and legs. He is also found to have a new-onset fasting glucose of 140 mg/dL. Which class of HIV medications is most likely responsible?",
-      "options": [
-        "NRTIs",
-        "NNRTIs",
-        "Protease Inhibitors",
-        "Integrase Inhibitors",
-        "Fusion Inhibitors"
+      question: "An HIV-positive patient is diagnosed with Adult T-cell Leukemia/Lymphoma (ATLL). Which of the following viruses is the most likely causative agent for this specific malignancy?",
+      options: [
+        { text: "HIV-1" },
+        { text: "HIV-2" },
+        { text: "HTLV-1", isCorrect: true },
+        { text: "EBV" }
       ],
-      "correctAnswer": 3,
-      "rationale": "Protease inhibitors (the '-navirs') are classically associated with metabolic side effects, including lipodystrophy (fat redistribution), hyperglycemia, and hyperlipidemia."
+      explanation: "HTLV-1 (Human T-cell Lymphotropic Virus type 1) is specifically associated with ATLL and Tropical Spastic Paraparesis."
     },
     {
-      "id": 6,
-      "question": "A patient with HIV presents with a CD4 count of 30. He has persistent fever, night sweats, and weight loss. A biopsy of a lymph node shows acid-fast bacilli that grow poorly at 37°C but well at 42°C. What is the most likely pathogen?",
-      "options": [
-        "Mycobacterium tuberculosis",
-        "Mycobacterium avium complex (MAC)",
-        "Pneumocystis jirovecii",
-        "Histoplasma capsulatum",
-        "CMV"
+      question: "A medical student is accidentally stuck by a needle while treating a patient with a high HIV viral load. Which of the following is the most appropriate next step in management?",
+      options: [
+        { text: "Wait 2 weeks for a p24 antigen test" },
+        { text: "Start triple-drug Post-Exposure Prophylaxis (PEP) immediately", isCorrect: true },
+        { text: "Start Pre-Exposure Prophylaxis (PrEP)" },
+        { text: "Reassure the student that the risk is negligible" }
       ],
-      "correctAnswer": 2,
-      "rationale": "MAC is a common opportunistic infection when CD4 < 50. It presents with systemic 'B-symptoms' and can be distinguished from TB by its lack of person-to-person transmission and specific growth characteristics."
+      explanation: "Post-Exposure Prophylaxis (PEP) should be started as soon as possible (ideally within 2 hours, no later than 72 hours) after a high-risk exposure to prevent the establishment of infection."
     },
     {
-      "id": 7,
-      "question": "Which of the following drugs is an NNRTI that is well-known for causing psychiatric side effects, such as vivid dreams and psychosis?",
-      "options": ["Tenofovir", "Zidovudine", "Efavirenz", "Ritonavir", "Dolutegravir"],
-      "correctAnswer": 3,
-      "rationale": "Efavirenz is a Non-Nucleoside Reverse Transcriptase Inhibitor (NNRTI) that commonly causes CNS side effects including dizziness, insomnia, and disturbing vivid dreams."
-    },
-    {
-      "id": 8,
-      "question": "A 30-year-old male from Japan presents with skin lesions and a high WBC count. Blood smear shows lymphocytes with cloverleaf-shaped nuclei ('flower cells'). What virus is the most likely cause?",
-      "options": ["HIV-1", "HIV-2", "HTLV-1", "EBV", "HHV-8"],
-      "correctAnswer": 3,
-      "rationale": "HTLV-1 is endemic in Japan and the Caribbean. It causes Adult T-cell Leukemia/Lymphoma (ATLL), characterized by the classic 'flower cells' on peripheral smear."
-    },
-    {
-      "id": 9,
-      "question": "In the 'coreceptor switch' that occurs in late-stage HIV, the virus changes its tropism. What is the shift in coreceptor usage?",
-      "options": [
-        "From CD4 to CD8",
-        "From CXCR4 to CCR5",
-        "From CCR5 to CXCR4",
-        "From p24 to gp120",
-        "From RNA to DNA"
+      question: "Which class of antiretroviral drugs requires intracellular phosphorylation by host cell enzymes to become active inhibitors of viral replication?",
+      options: [
+        { text: "NRTIs", isCorrect: true },
+        { text: "NNRTIs" },
+        { text: "Protease Inhibitors" },
+        { text: "Integrase Inhibitors" }
       ],
-      "correctAnswer": 3,
-      "rationale": "Early in infection, HIV is typically 'M-tropic' and uses the **CCR5** co-receptor (found on macrophages). In late-stage disease, the virus can mutate to become 'T-tropic,' using the **CXCR4** co-receptor found on T-cells, which correlates with a more rapid decline in CD4 count."
-    },
-    {
-      "id": 10,
-      "question": "Which NRTI was the first HIV drug developed and is still used today to prevent vertical transmission from mother to fetus, but is limited by significant bone marrow suppression?",
-      "options": ["Tenofovir", "Emtricitabine", "Zidovudine (AZT)", "Abacavir", "Lamivudine"],
-      "correctAnswer": 3,
-      "rationale": "Zidovudine (AZT) is the classic NRTI. It is used in pregnancy to reduce transmission to the fetus but is notorious for causing macrocytic anemia and neutropenia due to bone marrow suppression."
+      explanation: "NRTIs (Nucleoside Reverse Transcriptase Inhibitors) are nucleoside analogs that must be phosphorylated by host cell kinases to become the active triphosphate form that competes with natural nucleotides."
     }
   ],
-  "flashcards": [
-    { "front": "What gene encodes the HIV envelope proteins (gp120/gp41)?", "back": "**env**.", "tag": "Microbiology" },
-    { "front": "Which co-receptor is used by HIV early in the disease?", "back": "**CCR5**.", "tag": "Microbiology" },
-    { "front": "What is the specific prophylaxis for **Toxoplasma** when CD4 < 100?", "back": "**TMP-SMX**.", "tag": "Pharmacology" },
-    { "front": "Which drug is an entry inhibitor that binds to **CCR5**?", "back": "**Maraviroc**.", "tag": "Pharmacology" },
-    { "front": "What is the hallmark morphological finding of **HTLV-1** ATLL?", "back": "**Flower cells** (cloverleaf nuclei).", "tag": "Pathology" },
-    { "front": "Which genetic allele is associated with Abacavir hypersensitivity?", "back": "**HLA-B*57:01**.", "tag": "Pharmacology" }
+  flashcards: [
+    { front: "What is the function of the **pol** gene?", back: "Encodes the enzymes: **Reverse Transcriptase, Integrase, and Protease**.", tag: "Microbiology" },
+    { front: "Which co-receptor is used by HIV in **early** (macrophage-tropic) infection?", back: "**CCR5**.", tag: "Microbiology" },
+    { front: "What is the diagnostic definition of **AIDS**?", back: "**CD4 count < 200** or the presence of an **AIDS-defining illness**.", tag: "Microbiology" },
+    { front: "Define the **Window Period** in HIV testing.", back: "The time between infection and the ability of tests to detect the virus (shortened by p24 antigen testing).", tag: "Microbiology" },
+    { front: "What does **Zidovudine (AZT)** specifically inhibit?", back: "**Reverse Transcriptase** (it is an NRTI).", tag: "Microbiology" }
   ],
-  "pearls": [
-    { "title": "The Window Period", "content": "If you suspect acute HIV but the test is negative, order the viral load. The antibodies take weeks; the virus takes days." },
-    { "title": "Navir tease", "content": "Protease inhibitors end in **-navir**. Remember: 'Never (navir) tease (protease) a pro (protease).'" },
-    { "title": "AZT Anemia", "content": "Zidovudine (AZT) 'zaps' the bone marrow. Expect a high MCV but low Hb." },
-    { title: "CCR5 vs CXCR4", content: "CCR5 = Macrophage tropic (Early). CXCR4 = T-cell tropic (Late/Bad)." }
+  pearls: [
+    { title: "The HIV Screening Algorithm", content: "4th Generation Assay (p24 Ag + HIV Ab) -> If positive, Differentiation Assay (HIV-1 vs HIV-2) -> If indeterminate, HIV RNA Nucleic Acid Test." },
+    { title: "HLA-B*5701 and Abacavir", content: "Always screen for the HLA-B*5701 allele before starting Abacavir; its presence carries a high risk of a life-threatening hypersensitivity reaction." },
+    { title: "The Delta-32 Mutation", content: "Individuals with a homozygous CCR5-delta 32 mutation are resistant to M-tropic (early) HIV infection because the virus cannot enter their cells." },
+    { title: "Maturation vs. Budding", content: "A virus can bud from a cell without protease, but it cannot 'mature.' Without maturation, it is non-infectious junk." }
   ]
 });

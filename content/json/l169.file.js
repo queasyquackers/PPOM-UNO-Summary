@@ -1,164 +1,152 @@
 window.receiveLectureContent({
-  "metadata": {
-    "id": "l169",
-    "title": "Microbiology: Opportunistic Infections",
-    "lecturer": "C. Abraham, M.D.",
-    "session": "Lecture #169",
-    "module": "Hematology",
-    "readingTime": "25-30 min"
+  metadata: {
+    title: "Microbiology: Opportunistic Infections",
+    lecturer: "C. Abraham, M.D. (Session 169)",
+    readingTime: "10-15 min",
+    difficulty: "Advanced",
+    tags: ["Microbiology", "AIDS", "Opportunistic Infections", "Fungal", "PML", "Toxoplasmosis"]
   },
-  "resources": {
-    "ankingResource": {
-      "primarySource": "SketchyMicro",
-      "chapter": "Fungal > Opportunistic Fungi",
-      "alternatives": [
-        { "resource": "Physeo", topic: "Microbiology" },
-        { "resource": "First Aid", topic: "Microbiology > Virology" }
+  resources: {
+    ankingResource: {
+      primarySource: "SketchyMicro",
+      chapter: "Fungi / Parasites",
+      alternatives: [
+        { resource: "First Aid", chapter: "Microbiology > AIDS-defining illnesses" },
+        { resource: "Boards and Beyond", chapter: "Infectious Disease > Opportunistic Infections" }
       ]
     },
-    "anking": [
-      { "match": "Pneumocystis jirovecii", "resources": "AnKing Step 1 v11: #SketchyMicro::03_Fungi::05_Opportunistic_Fungi::04_Pneumocystis_jirovecii" },
-      { "match": "Toxoplasma gondii", "resources": "AnKing Step 1 v11: #SketchyMicro::02_Parasites::02_Protozoa::02_Toxoplasma_gondii" },
-      { "match": "Cryptococcus neoformans", "resources": "AnKing Step 1 v11: #SketchyMicro::03_Fungi::05_Opportunistic_Fungi::03_Cryptococcus_neoformans" },
-      { "match": "CMV and JC virus", "resources": "AnKing Step 1 v11: #FirstAid::Microbiology::Virology::HIV_OI" }
+    anking: [
+      { match: "Pneumocystis jirovecii (PCP)", resources: "AnKing Step 1 v11: #SketchyMicro::03_Fungi::05_Opportunistic_Fungi::04_Pneumocystis_jirovecii" },
+      { match: "Toxoplasma gondii", resources: "AnKing Step 1 v11: #SketchyMicro::04_Parasites::01_Protozoa::02_Toxoplasma_gondii" },
+      { match: "Cryptococcus neoformans", resources: "AnKing Step 1 v11: #SketchyMicro::03_Fungi::05_Opportunistic_Fungi::02_Cryptococcus_neoformans" }
     ]
   },
-  "summary": `
-# Lecture #169: Opportunistic Infections in the Immunocompromised
+  summary: `
+# Story Mode: The Vultures and the Siege
 
-**Lecturer:** C. Abraham, M.D.
-**Session:** Lecture #169
+In a healthy individual, the immune system is an impenetrable fortress. But when the walls are breached—whether by a virus like HIV, a surgeon's knife, or the scorched earth of chemotherapy—the environment changes. Organisms that were once harmless neighbors (Commensals) or distant background noise (Saprophytes) suddenly become "vultures" circling the vulnerable. This lecture explores the opportunistic siege that occurs when the guard is down.
 
-## 1. Pneumocystis jirovecii (PCP) - CD4 < 200
-*   **Clinical:** Subacute dry cough, dyspnea, fever. **Ground-glass opacities** on CXR.
-*   **Diagnosis:** Silver stain (GMS) shows disk-shaped (cup/saucer) yeasts.
-*   **Treatment:** **TMP-SMX**. Add **Corticosteroids** if pO2 < 70 mmHg or A-a gradient > 35.
+---
 
-## 2. CNS Infections - CD4 < 100
-*   **Toxoplasma gondii:** 
-    *   **Presentation:** Focal neuro deficits, seizures. 
-    *   **Imaging:** **Multiple ring-enhancing lesions** (often in basal ganglia).
-    *   **Treatment:** Pyrimethamine and Sulfadiazine.
-*   **Cryptococcus neoformans:** 
-    *   **Presentation:** Meningitis (fever, headache). 
-    *   **Diagnosis:** India ink (clear halo), latex agglutination (polysaccharide capsule). 
-    *   **Imaging:** **Soap bubble** lesions in basal ganglia.
-*   **JC Virus (PML):** 
-    *   **Presentation:** Rapidly progressive neuro decline. 
-    *   **Imaging:** Non-enhancing white matter lesions (demyelination). No mass effect.
+## 1. The Breach: Defining Vulnerability
+Immune deficiency is not just a low white cell count; it is any state where the body's natural defenses are compromised.
+*   **Physical Barriers**: A severe burn or a central venous catheter turns the skin from a shield into a doorway for *Staph epidermidis* and *Pseudomonas*.
+*   **The Microbiome Shift**: Broad-spectrum antibiotics kill the "good" bacteria, leading to *C. difficile* overgrowth. In stem-cell transplant patients, even a "healthy" probiotic can lead to *Lactobacillus* sepsis.
+*   **The Extremes of Age**: Neonates have no memory cells; the elderly have a waning system, leading to the reactivation of dormant viruses like Shingles (******* Zoster*).
+*   **The Complement Gap**: Patients with SLE or those taking **Eculizumab** (which inhibits C5) have a specific hole in their armor that makes them magnets for **Neisseria** infections.
 
-## 3. GI and Systemic Infections - CD4 < 50
-*   **Cytomegalovirus (CMV):** 
-    *   **Retinitis:** "Pizza pie" appearance (hemorrhage + exudates). 
-    *   **Esophagitis:** Linear ulcerations (vs. punched out in HSV). 
-    *   **Histology:** **Owl's eye** inclusions.
-*   **Mycobacterium avium complex (MAC):** 
-    *   **Clinical:** B-symptoms (fever, weight loss) + anemia/hepatosplenomegaly. 
-    *   **Prophylaxis:** Azithromycin (only if not on ART).
-*   **Cryptosporidium:** 
-    *   **Clinical:** Chronic, profuse, watery diarrhea. 
-    *   **Diagnosis:** Acid-fast oocysts in stool.
+---
 
-## 4. Vascular and Skin Lesions
-*   **Kaposi Sarcoma (HHV-8):** Purple plaques/nodules. Histology: Spindle cells with slit-like vascular spaces.
-*   **Bacillary Angiomatosis (*Bartonella henselae*):** Red-purple papules. Histology: **Neutrophilic** infiltrate (vs. lymphocytic in KS).
+## 2. The Respiratory Siege: PCP and the Steroid Paradox
+*   **Pneumocystis jirovecii (PCP)**:
+    *   **The Presentation**: A subacute, dry cough and progressive shortness of breath. X-ray shows diffuse "ground-glass" opacities.
+    *   **The Diagnosis**: It cannot be cultured. We must use **Methenamine Silver Stain** on lung fluid to see the "crushed ping-pong ball" cysts.
+    *   **The CD4 Count**: Usually occurs when **CD4 < 200**.
+    *   **The Paradox**: When you kill PCP with high-dose **TMP-SMX**, the dying fungi release a massive wave of inflammation. To prevent the patient from drowning in their own immune response, you **must add steroids** if their oxygen levels are low (PaO2 < 70).
 
-## 5. Other Vulnerabilities
-*   **Neutropenia (ANC < 500):** 
-    *   High risk of *Pseudomonas* sepsis, *Candida*, and **Aspergillus**.
-    *   **Aspergillus:** Septate hyphae with **45° (acute) branching**. Diagnosis: **Galactomannan** assay.
-*   **Splenectomy:** Risk of encapsulated bacteria (*S. pneumoniae, H. influenzae, N. meningitidis*).
+---
+
+## 3. The Neurological War: Toxo, JC, and Crypto
+When an AIDS patient presents with a headache or a seizure, the MRI is the map of the battlefield.
+
+### I. Toxoplasma gondii (The Ring-Enhancer)
+*   **The Story**: Reactivation of cysts from undercooked meat or cat feces. 
+*   **MRI**: Multiple **ring-enhancing lesions** in the gray matter (especially the basal ganglia).
+*   **Treatment**: Pyrimethamine and Sulfadiazine.
+
+### II. PML / JC Virus (The Demyelinator)
+*   **The Story**: A "silent" virus that 90% of us carry. In severe immunosuppression, it attacks the oligodendrocytes.
+*   **MRI**: **Non-enhancing white matter lesions** (no "ring").
+*   **Presentation**: Subacute cognitive decline and focal motor deficits. No specific treatment exists other than restoring the immune system with ART.
+
+### III. Cryptococcus (The High-Pressure Yeast)
+*   **The Story**: An encapsulated yeast inhaled from bird droppings. It travels to the meninges.
+*   **The Crisis**: The thick capsule blocks the drainage of CSF. This causes a massive increase in **Intracranial Pressure**.
+*   **The Diagnosis**: India Ink (shows the "halos" of the capsule) or **Latex Agglutination** for the capsular antigen.
+*   **Management**: Induction with **Amphotericin B + Flucytosine**. You must perform serial lumbar punctures to manually drain the pressure and save the patient's brain and eyes.
+
+---
+
+## 4. The End-Stage Threats: MAC and CMV
+When the **CD4 count drops below 50**, the most aggressive opportunists appear.
+
+*   **Mycobacterium avium complex (MAC)**:
+    *   **Clinical**: High fevers, drenching night sweats, and a sky-high **Alkaline Phosphatase**.
+    *   **Special Case**: **Lady Windermere Syndrome**—MAC lung disease seen in thin, elderly women who suppress their cough.
+*   **CMV (Cytomegalovirus)**:
+    *   **Retinitis**: The "Pizza Pie" retina (hemorrhage + white exudates). It can blind a patient in days.
+    *   **GI**: Deep, linear ulcers in the esophagus.
+
+---
+
+## 5. The IRIS Trap
+**Immune Reconstitution Inflammatory Syndrome (IRIS)** is the most cruel irony in HIV medicine. 
+*   **The Mechanism**: You start ART -> the CD4 count rises -> the immune system "wakes up" and sees the massive burden of PCP or Cryptococcus that was already there. It launches a violent attack.
+*   **The Strategy**: We must clear the "fuel" before starting the "fire." We typically wait **2–4 weeks** after starting treatment for an opportunistic infection before we begin ART.
 `,
-  "questions": [
+  questions: [
     {
-      "id": 1,
-      "question": "An HIV-positive patient with a CD4 count of 80 presents with a severe headache and fever. An MRI of the brain shows multiple 'soap bubble' lesions in the basal ganglia. What is the most appropriate next step in diagnosis?",
-      "options": ["Brain biopsy", "Lumbar puncture for India ink and latex agglutination", "Serum Toxoplasma IgG", "Start empiric Pyrimethamine", "HIV viral load"],
-      "correctAnswer": 2,
-      "rationale": "Soap bubble lesions in the basal ganglia are characteristic of Cryptococcus neoformans. The diagnosis is confirmed via CSF analysis (lumbar puncture) looking for the polysaccharide capsule with India ink or latex agglutination."
-    },
-    {
-      "id": 2,
-      "question": "A patient with AIDS (CD4 = 40) presents with blurred vision and 'floaters.' Funduscopic exam reveals perivascular hemorrhages and fluffy white exudates described as a 'pizza pie' appearance. What is the treatment of choice?",
-      "options": ["Fluconazole", "TMP-SMX", "Ganciclovir", "Azithromycin", "Pyrimethamine"],
-      "correctAnswer": 3,
-      "rationale": "The description matches CMV retinitis, which occurs in severely immunocompromised patients (CD4 < 50). Ganciclovir or Foscarnet is the standard treatment."
-    },
-    {
-      "id": 3,
-      "question": "An AIDS patient with CD4 = 150 presents with a dry cough and exertional dyspnea. An arterial blood gas shows a pO2 of 65 mmHg. He is started on TMP-SMX. What other medication should be added to his regimen?",
-      "options": ["Azithromycin", "Prednisone", "Ganciclovir", "Fluconazole", "Amphotericin B"],
-      "correctAnswer": 2,
-      "rationale": "In patients with PCP, corticosteroids (Prednisone) are indicated if the pO2 is < 70 mmHg or the A-a gradient is > 35 mmHg to reduce the risk of respiratory failure from the inflammatory response to dying organisms."
-    },
-    {
-      "id": 4,
-      "question": "A patient with HIV develops several raised purple skin nodules. A biopsy shows spindle cells and extravasated red blood cells. What virus is associated with this condition?",
-      "options": ["HIV-1", "HHV-6", "HHV-8", "EBV", "HPV-16"],
-      "correctAnswer": 3,
-      "rationale": "Kaposi Sarcoma is caused by Human Herpesvirus 8 (HHV-8). The biopsy findings of spindle cells and slit-like vascular spaces are classic."
-    },
-    {
-      "id": 5,
-      "question": "An AIDS patient with a CD4 count of 75 presents with seizures. Imaging shows multiple ring-enhancing lesions in the brain. He is started on empiric treatment for Toxoplasmosis. If the lesions do not improve with treatment, what is the most likely alternative diagnosis?",
-      "options": ["PML (JC Virus)", "Primary CNS Lymphoma (EBV)", "Cryptococcosis", "Neurosyphilis", "Brain abscess"],
-      "correctAnswer": 2,
-      "rationale": "Primary CNS lymphoma is the most common CNS mass lesion in AIDS patients after Toxoplasmosis. It is associated with EBV and often presents as a single ring-enhancing lesion (though multiple can occur). If 'Toxo' treatment fails, biopsy for lymphoma is the next step."
-    },
-    {
-      "id": 6,
-      "question": "A patient with advanced AIDS develops chronic, profuse, watery diarrhea. A stool sample is sent for modified acid-fast staining, which shows red-stained oocysts. What is the pathogen?",
-      "options": ["Giardia lamblia", "Entamoeba histolytica", "Cryptosporidium", "Salmonella", "Shigella"],
-      "correctAnswer": 3,
-      "rationale": "Cryptosporidium is a common cause of severe diarrhea in immunocompromised hosts. The acid-fast oocysts in stool are pathognomonic."
-    },
-    {
-      "id": 7,
-      "question": "Which of the following describes the imaging finding of PML caused by the JC virus?",
-      "options": [
-        "Multiple ring-enhancing lesions with mass effect",
-        "Bilateral ground-glass opacities",
-        "Non-enhancing white matter lesions without mass effect",
-        "Single large lesion with midline shift",
-        "Hydrocephalus with meningeal enhancement"
+      question: "An AIDS patient with a CD4 count of 120 presents with a new-onset seizure. MRI of the brain shows multiple ring-enhancing lesions in the basal ganglia. Which of the following is the most likely diagnosis?",
+      options: [
+        { text: "Primary CNS Lymphoma" },
+        { text: "Toxoplasmosis", isCorrect: true },
+        { text: "Progressive Multifocal Leukoencephalopathy (PML)" },
+        { text: "Cryptococcal Meningitis" }
       ],
-      "correctAnswer": 3,
-      "rationale": "PML causes demyelination of subcortical white matter. On imaging, it appears as multi-focal, non-enhancing white matter lesions that lack mass effect (unlike Toxo or Lymphoma)."
+      explanation: "Multiple ring-enhancing lesions in the gray matter of an HIV patient are highly characteristic of Toxoplasmosis. Primary CNS Lymphoma often presents as a single, large ring-enhancing lesion."
     },
     {
-      "id": 8,
-      "question": "A patient who recently underwent a splenectomy is at highest risk for life-threatening sepsis from which of the following?",
-      "options": ["Pseudomonas", "Aspergillus", "Streptococcus pneumoniae", "CMV", "Listeria"],
-      "correctAnswer": 3,
-      "rationale": "The spleen is essential for clearing encapsulated bacteria. Patients who are asplenic are at risk for Overwhelming Post-Splenectomy Infection (OPSI), primarily from S. pneumoniae, H. influenzae, and N. meningitidis."
+      question: "A patient is diagnosed with Pneumocystis jirovecii pneumonia (PCP). His arterial blood gas shows a PaO2 of 62 mmHg. In addition to Trimethoprim-Sulfamethoxazole, which of the following should be added to his regimen?",
+      options: [
+        { text: "Caspofungin" },
+        { text: "Prednisone", isCorrect: true },
+        { text: "Fluconazole" },
+        { text: "Azithromycin" }
+      ],
+      explanation: "In severe PCP (defined by a PaO2 < 70 mmHg or an A-a gradient > 35), adjunctive corticosteroids are indicated to reduce the inflammatory response triggered by dying organisms, which can worsen gas exchange."
     },
     {
-      "id": 9,
-      "question": "A patient with AIDS presents with painful swallowing (odynophagia). An endoscopy shows white, cottage-cheese like plaques on the esophageal mucosa. What is the most likely diagnosis?",
-      "options": ["CMV esophagitis", "HSV esophagitis", "Candida esophagitis", "GERD", "Barrett's esophagus"],
-      "correctAnswer": 3,
-      "rationale": "Candida esophagitis is the most common cause of odynophagia in AIDS patients. It presents with white plaques that can be scraped off."
+      question: "A patient with advanced AIDS (CD4 = 25) presents with a severe headache. Lumbar puncture reveals an opening pressure of 30 cm H2O. India ink stain is positive for encapsulated yeasts. What is the most appropriate initial management to prevent permanent vision loss?",
+      options: [
+        { text: "Start oral Fluconazole" },
+        { text: "Immediate surgical decompression" },
+        { text: "Serial therapeutic lumbar punctures", isCorrect: true },
+        { text: "Start ganciclovir" }
+      ],
+      explanation: "In Cryptococcal meningitis, the yeast capsules block CSF resorption, leading to high intracranial pressure. Serial LPs are often necessary to manually lower the pressure and prevent complications like blindness and herniation."
     },
     {
-      "id": 10,
-      "question": "A patient with HIV and a CD4 count of 20 presents with systemic symptoms, anemia, and hepatosplenomegaly. Blood cultures grow an acid-fast organism. What is the most likely pathogen?",
-      "options": ["M. tuberculosis", "M. avium complex", "M. leprae", "Pneumocystis", "Nocardia"],
-      "correctAnswer": 2,
-      "rationale": "MAC causes disseminated disease in advanced AIDS (CD4 < 50). It is characterized by 'B-symptoms' and can be cultured from the blood, unlike typical TB."
+      question: "A 40-year-old male with a history of SLE and chronic prednisone use presents with fever and a stiff neck. CSF Gram stain reveals Gram-negative diplococci. Which specific part of the immune system is most likely compromised?",
+      options: [
+        { text: "T-cell mediated immunity" },
+        { text: "Terminal complement (C5-C9)", isCorrect: true },
+        { text: "Neutrophil oxidative burst" },
+        { text: "IgA production" }
+      ],
+      explanation: "Patients with SLE or those taking C5 inhibitors (like Eculizumab) are at high risk for Neisseria species infections (the Gram-negative diplococci seen here) due to an inability to form the Membrane Attack Complex (MAC)."
+    },
+    {
+      question: "Which of the following is the most appropriate reason to delay starting Antiretroviral Therapy (ART) for 2 weeks in a patient recently diagnosed with Cryptococcal meningitis?",
+      options: [
+        { text: "To avoid cytochrome P450 interactions" },
+        { text: "To allow the patient to adjust to one medication at a time" },
+        { text: "To prevent Immune Reconstitution Inflammatory Syndrome (IRIS)", isCorrect: true },
+        { text: "ART is not effective until the fungal burden is zero" }
+      ],
+      explanation: "Starting ART causes a rapid rise in CD4 cells. If there is a high burden of Cryptococcus, the resulting inflammatory response (IRIS) in the closed space of the skull can be fatal due to cerebral edema."
     }
   ],
-  "flashcards": [
-    { "front": "What is the classic CXR finding for **PCP**?", "back": "Bilateral **ground-glass** opacities.", "tag": "Microbiology" },
-    { "front": "Which CNS infection causes **ring-enhancing** lesions in AIDS?", "back": "**Toxoplasmosis**.", "tag": "Microbiology" },
-    { "front": "What does a funduscopic **'pizza pie'** appearance indicate?", "back": "**CMV Retinitis**.", "tag": "Microbiology" },
-    { "front": "What is the specific morphology of **Cryptococcus** on EM/stain?", "back": "Encapsulated yeast (India ink halo).", "tag": "Microbiology" },
-    { "front": "Which AIDS-defining illness is caused by **HHV-8**?", "back": "**Kaposi Sarcoma**.", "tag": "Microbiology" },
-    { "front": "What do **Birbeck granules** indicate?", "back": "**Langerhans Cell Histiocytosis** (Wait, wrong lecture, but good review! For 169: **Owl's Eye** = CMV).", "tag": "Pathology" }
+  flashcards: [
+    { front: "What is the threshold for **Toxoplasma** prophylaxis?", back: "**CD4 < 100** and IgG positive.", tag: "Microbiology" },
+    { front: "What is the threshold for **PCP** prophylaxis?", back: "**CD4 < 200**.", tag: "Microbiology" },
+    { front: "Which stain is used to see **MAC** in blood or bone marrow?", back: "**Ziehl-Neelsen** (Modified Acid-Fast).", tag: "Microbiology" },
+    { front: "What is the 'pizza pie' retina indicative of?", back: "**CMV Retinitis**.", tag: "Microbiology" },
+    { front: "Which virus causes **PML**?", back: "**JC Polyomavirus**.", tag: "Microbiology" }
   ],
-  "pearls": [
-    { "title": "PCP Steroids Rule", "content": "PaO2 < 70 = Prednisone. Dying bugs cause inflammation that kills the patient faster than the infection itself." },
-    { "title": "Toxo vs Lymphoma", "content": "Toxo is usually multiple, basal ganglia, and responds to drugs. Lymphoma is usually single, periventricular, and doesn't." },
-    { "title": "Encapsulated logic", "content": "No spleen = No protection against 'SHiN' (Strep pneumo, H. flu, Neisseria)." },
-    { "title": "The JC Virus", "content": "PML = 'P'atches of 'M'essing up 'L'eukocytes (white matter). Demyelination without inflammation." }
+  pearls: [
+    { title: "Methenamine Silver Stain", content: "Used for both PCP (Fungi) and Bartonella (Bacteria). It turns the organisms black/dark brown." },
+    { title: "The Steroid PaO2 Rule", content: "Add steroids to PCP treatment if PaO2 < 70 or A-a gradient > 35." },
+    { title: "Cryptococcus Titer", content: "The Cryptococcal Antigen (CrAg) titer in the CSF is a better prognostic marker than the blood titer." },
+    { title: "Corynebacterium in Shunts", content: "While Staph is more common, Corynebacterium is a classic board-association for VP shunt infections." }
   ]
 });

@@ -1,192 +1,187 @@
 window.receiveLectureContent({
-  "metadata": {
-    "id": "l156",
-    "title": "Pharmacology of Antineoplastic Agents 1",
-    "lecturer": "L. Goldstein, Pharm.D.",
-    "session": "Lecture #156",
-    "module": "Pharmacology",
-    "readingTime": "25-30 min"
+  metadata: {
+    title: "Pharmacology of Antineoplastic Agents 1",
+    lecturer: "L. Goldstein, Pharm.D. (Session 156)",
+    readingTime: "10-15 min",
+    difficulty: "Advanced",
+    tags: ["Oncology", "Pharmacology", "Alkylating Agents", "Antimetabolites", "Cytotoxic Chemotherapy"]
   },
-  "resources": {
-    "ankingResource": {
-      "primarySource": "Sketchy Pharm",
-      "chapter": "Hematology & Oncology > Antineoplastic Agents",
-      "alternatives": [
-        { "resource": "Boards and Beyond", "chapter": "Hematology > Pharmacology > Chemotherapy Principles" },
-        { "resource": "First Aid", "chapter": "Hematology/Oncology > Pharmacology" }
+  resources: {
+    ankingResource: {
+      primarySource: "Sketchy Pharm",
+      chapter: "Hematology & Oncology > Antineoplastic Agents",
+      alternatives: [
+        { resource: "Boards and Beyond", chapter: "Hematology > Pharmacology > Chemotherapy Principles" },
+        { resource: "First Aid", chapter: "Hematology/Oncology > Pharmacology" }
       ]
     },
-    "anking": [
-      { "match": "Tumor Lysis Syndrome", "resources": "AnKing Step 1 v11: #FirstAid::Hematology_Oncology::Oncology::Tumor_Lysis_Syndrome" },
-      { "match": "Antimetabolites", "resources": "AnKing Step 1 v11: #SketchyPharm::05_Hematology_&_Oncology::02_Antineoplastics::01_Antimetabolites" },
-      { "match": "Alkylating Agents", "resources": "AnKing Step 1 v11: #SketchyPharm::05_Hematology_&_Oncology::02_Antineoplastics::02_Alkylating_Agents" },
-      { "match": "Anthracyclines", "resources": "AnKing Step 1 v11: #SketchyPharm::05_Hematology_&_Oncology::02_Antineoplastics::03_Antitumor_Antibiotics" }
+    anking: [
+      { match: "Tumor Lysis Syndrome", resources: "AnKing Step 1 v11: #FirstAid::Hematology_Oncology::Oncology::Tumor_Lysis_Syndrome" },
+      { match: "Antimetabolites", resources: "AnKing Step 1 v11: #SketchyPharm::05_Hematology_&_Oncology::02_Antineoplastics::01_Antimetabolites" },
+      { match: "Alkylating Agents", resources: "AnKing Step 1 v11: #SketchyPharm::05_Hematology_&_Oncology::02_Antineoplastics::02_Alkylating_Agents" },
+      { match: "Anthracyclines", resources: "AnKing Step 1 v11: #SketchyPharm::05_Hematology_&_Oncology::02_Antineoplastics::03_Antitumor_Antibiotics" }
     ]
   },
-  "summary": `
-# Lecture #156: Pharmacology of Antineoplastic Agents 1
+  summary: `
+# Story Mode: The Poisoned Blueprint
 
-**Lecturer:** L. Goldstein, Pharm.D.
-**Session:** Lecture #156
+Welcome to the world of cytotoxic chemotherapy, where the goal is as simple as it is brutal: kill the cancer before it kills the patient. In this first part of our journey through antineoplastic agents, we explore the "classic" hammers—the drugs that don't care about specific mutations but instead target the fundamental mechanics of cell division. These are the poisons that attack the blueprint (DNA), the tools (enzymes), and the scaffolding (microtubules) of life itself.
 
-## 1. Principles of Chemotherapy
-Antineoplastic agents exploit the rapid division of cancer cells. They are classified by their relationship to the cell cycle:
-*   **Cell Cycle Non-Specific (CCNS):** Effective throughout the cycle. (e.g., Alkylating agents, Nitrosoureas).
-*   **Cell Cycle Specific (CCS):** 
-    *   **S-Phase:** Antimetabolites (Methotrexate, 5-FU).
-    *   **G2-Phase:** Bleomycin.
-    *   **M-Phase:** Microtubule inhibitors (Vincristine, Taxanes).
+## Phase I: The Rules of the Game
+Before we look at the drugs, we must understand the battlefield. Cancer is not a single entity; it is a collection of cells that have forgotten how to die. 
 
-## 2. Antimetabolites (S-Phase)
-*   **Methotrexate (MTX):**
-    *   **Mechanism:** Competitively inhibits **Dihydrofolate Reductase (DHFR)** → decreases dTMP synthesis.
-    *   **Resistance:** Decreased polyglutamation or altered DHFR.
-    *   **Toxicity:** Myelosuppression, Mucositis, Hepatotoxicity. **Leucovorin (folinic acid) rescue** provides a reduced form of folate to bypass the block in normal cells.
-*   **5-Fluorouracil (5-FU):**
-    *   **Mechanism:** Pyrimidine analog; complexes with folic acid to inhibit **Thymidylate Synthase**.
-    *   **Toxicity:** **Hand-Foot Syndrome** (palmar-plantar erythrodysesthesia) and diarrhea.
-*   **Cytarabine (Ara-C):**
-    *   **Mechanism:** Pyrimidine analog; inhibits DNA polymerase.
-    *   **Toxicity:** Major myelosuppression (**Pancytopenia**).
-*   **6-Mercaptopurine (6-MP):**
-    *   **Interaction:** Metabolized by Xanthine Oxidase. **Allopurinol** inhibits this enzyme, leading to toxicity (increase 6-MP levels).
+### The Cell Cycle & Growth Fraction
+Cytotoxic drugs typically target rapidly dividing cells. This is why tumors with a high **Growth Fraction** (like lymphomas and leukemias) respond better than slow-growing solid tumors (like colon or lung cancer). Most of our drugs are either **Cell Cycle Specific (CCS)**, acting only during a certain phase (like the S-phase or M-phase), or **Cell Cycle Non-Specific (CCNS)**, like the alkylating agents that can strike a cell even when it is resting in G0.
 
-## 3. Alkylating Agents (Non-Specific)
-*   **Cyclophosphamide:**
-    *   **Mechanism:** Cross-links DNA at guanine N-7. Requires liver activation (P450).
-    *   **Toxicity:** **Hemorrhagic Cystitis** (caused by metabolite **Acrolein**).
-    *   **Prevention:** **Mesna** (2-mercaptoethane sulfonate) and aggressive hydration. Mesna binds and neutralizes acrolein in the bladder.
-*   **Nitrosoureas (Carmustine, Lomustine):**
-    *   **Unique Feature:** Highly lipophilic; cross the **Blood-Brain Barrier**.
-    *   **Indication:** Brain tumors (Glioblastoma).
-*   **Cisplatin / Carboplatin:**
-    *   **Mechanism:** Cross-links DNA via platinum.
-    *   **Toxicity:** **Ototoxicity** and **Nephrotoxicity**. Prevented by aggressive hydration and **Amifostine** (free radical scavenger).
+### The Problem of Resistance
+Tumors are clever. They develop defenses almost immediately:
+1.  **Efflux Pumps**: P-glycoprotein (MDR1) acts like a molecular bouncer, throwing the drug back out of the cell as soon as it enters.
+2.  **Detoxification**: Cells increase levels of **Glutathione**, which acts as a "chemical sponge" to neutralize drugs.
+3.  **Target Modification**: Enzymes like **Topoisomerase** mutate so the drug can no longer bind.
 
-## 4. Antitumor Antibiotics
-*   **Doxorubicin / Daunorubicin:**
-    *   **Mechanism:** Intercalates DNA; generates free radicals.
-    *   **Toxicity:** **Dilated Cardiomyopathy**. Prevented by **Dexrazoxane** (iron chelator).
-*   **Bleomycin:**
-    *   **Mechanism:** Induces free radical formation; causes DNA strand breaks.
-    *   **Toxicity:** **Pulmonary Fibrosis**. Note: Marrow-sparing.
+---
 
-## 5. Microtubule Inhibitors (M-Phase)
-*   **Vincristine / Vinblastine:**
-    *   **Mechanism:** Bind beta-tubulin and **inhibit assembly** (polymerization).
-    *   **Vincristine Toxicity:** **Peripheral Neuropathy** (foot drop, loss of DTRs). Marrow-sparing.
-    *   **Vinblastine Toxicity:** Myelosuppression.
-*   **Paclitaxel (Taxanes):**
-    *   **Mechanism:** **Hyper-stabilize** microtubules; inhibit disassembly.
+## Phase II: The Alkylating Agents – The Molecular Napalm
+Alkylating agents are the "old guard" of chemotherapy. Their mechanism is simple: they add an alkyl group to DNA, specifically at the **N7 position of Guanine**. This causes the DNA strands to cross-link, preventing them from being read or replicated.
+
+### Cyclophosphamide: The Trojan Horse
+Cyclophosphamide is a **pro-drug**. It is inactive until the liver's CYP450 system "activates" it. However, this activation has a dark side. It produces two main metabolites:
+*   **Phosphoramide Mustard**: The "killer" that alkylates the DNA.
+*   **Acrolein**: The "poison" that accumulates in the bladder.
+
+**The Clinical Pearl**: Acrolein causes **Hemorrhagic Cystitis** (bloody bladder). To prevent this, we give **MESNA**, a drug that stays in the bladder and neutralizes Acrolein before it can burn the lining.
+
+---
+
+## Phase III: The Platinum Metals – The Heavy Hitters
+Drugs like **Cisplatin**, **Carboplatin**, and **Oxaliplatin** aren't technically alkylators, but they act like them. They enter the cell via copper transporters and undergo "aquation" (swapping chloride for water) to become highly reactive.
+
+### The Platinum Trinity:
+1.  **Cisplatin**: The most potent but most toxic. It causes **nephrotoxicity** (kidney damage) and extreme **emetogenicity** (nearly 100% of patients will vomit without aggressive anti-emetics). It also causes **Ototoxicity** (hearing loss).
+2.  **Carboplatin**: Less reactive than cisplatin, making it easier on the kidneys and stomach, but it is a "marrow killer" (dose-limiting **bone marrow suppression**).
+3.  **Oxaliplatin**: The backbone of colorectal cancer treatment (FOLFOX). Its unique "quirk" is **peripheral neuropathy**, which is triggered or worsened by **COLD**. A patient might feel like they are swallowing glass if they drink ice water.
+
+---
+
+## Phase IV: The Antimetabolites – The Molecular Imposters
+If alkylating agents are napalm, antimetabolites are "saboteurs." They look like the natural building blocks of DNA (purines and pyrimidines) but contain a "glitch." When the cell tries to use them, the machinery jams.
+
+### Methotrexate (MTX): The Folate Saboteur
+Methotrexate looks exactly like Folic Acid. It inhibits **Dihydrofolate Reductase (DHFR)**, stopping the production of active folate. No active folate = no DNA synthesis = cell death.
+*   **The Trap**: Once inside the cell, MTX is "polyglutamated." This adds a charge to the molecule, trapping it inside the cell to do more damage.
+*   **The Rescue**: We give **Leucovorin (Folinic Acid)** after high-dose MTX. Leucovorin provides a "bypass" of the blocked DHFR enzyme, rescuing normal cells from death.
+
+### 5-Fluorouracil (5-FU): Thymine-less Death
+5-FU is a pyrimidine analog that inhibits **Thymidylate Synthase**. It creates "Thymine-less death"—the cell literally runs out of one of the four letters of the genetic code.
+*   **The Toxicity**: Watch out for **Hand-Foot Syndrome** (palmar-plantar erythrodysesthesia), where the skin on the palms and soles becomes red, peels, and blisters.
+*   **The Interaction**: Unlike with MTX, Leucovorin actually **increases** the toxicity of 5-FU by helping it bind tighter to its target.
+
+### Cytarabine (Ara-C): The S-Phase Specialized
+Ara-C is an arabinose sugar analog. It is the "go-to" for **Acute Myeloid Leukemia (AML)**. It blocks DNA polymerase and inserts itself into DNA, causing chain termination.
+
+### 6-Mercaptopurine (6-MP): The Allopurinol Alert
+6-MP is a purine analog. It is metabolized by **Xanthine Oxidase**. 
+*   **Danger**: If a patient is taking **Allopurinol** (which blocks Xanthine Oxidase), 6-MP levels will skyrocket to toxic levels. You **must** reduce the 6-MP dose by 75% if giving Allopurinol.
+
+---
+
+## Phase V: The Natural Products – Scaffolding & Scissor Sabotage
+
+### Microtubule Inhibitors: The Cell Scaffolding Saboteurs
+*   **Vincristine**: Derived from the periwinkle plant. It blocks microtubule **assembly**. It is famous for causing **peripheral neuropathy** and severe **constipation** (autonomic neuropathy). 
+    *   **CRITICAL WARNING**: **Never** give Vincristine intrathecally. It is 100% fatal if it enters the spinal fluid.
+*   **Taxanes (Paclitaxel)**: Derived from the Yew tree. These block microtubule **disassembly**. They "freeze" the cell in mitosis. 
+
+### Topoisomerase Inhibitors: The Scissor Saboteurs
+DNA is like a twisted phone cord. Topoisomerases are the scissors that cut the cord to relieve tension so it can be unzipped. 
+*   **Irinotecan (Topo I Inhibitor)**: Used for colon cancer. "I run to the can"—it causes severe **diarrhea**.
+*   **Etoposide (Topo II Inhibitor)**: Blocks the resealing of double-strand DNA breaks.
+
+### Doxorubicin: The Red Devil
+An anti-tumor antibiotic that is bright red. It turns the patient's urine red (harmless but scary). 
+*   **The Danger**: It creates **free radicals** that specifically attack the heart, causing irreversible **Dilated Cardiomyopathy**. It also causes **Radiation Recall**—if a patient had radiation months ago, the drug can cause a "sunburn" in the exact spot of the old radiation.
+
+---
+
+## The Big Picture Table: Toxicities to Remember
+
+| Drug | Major "Signature" Toxicity |
+| :--- | :--- |
+| **Cyclophosphamide** | Hemorrhagic Cystitis (Use MESNA) |
+| **Cisplatin** | Nephrotoxicity & Ototoxicity |
+| **Oxaliplatin** | Cold-induced Neuropathy |
+| **Doxorubicin** | Cardiotoxicity (Red Devil) |
+| **Vincristine** | Neuropathy & Constipation (Never Intrathecal!) |
+| **Irinotecan** | Diarrhea ("I run to the can") |
+| **5-FU / 5-Fluorouracil**| Hand-Foot Syndrome |
+| **Bleomycin** | Pulmonary Fibrosis |
+
+In the next session, we leave the "hammers" behind and look at the "scalpels"—targeted therapies and immunotherapy.
 `,
-  "questions": [
+  questions: [
     {
-      "id": 1,
-      "question": "A 45-year-old female is receiving high-dose Methotrexate for osteosarcoma. Twenty-four hours after the infusion, she is given Leucovorin. What is the pharmacological goal of the Leucovorin administration?",
-      "options": [
-        "To increase the uptake of Methotrexate into tumor cells",
-        "To bypass the inhibited dihydrofolate reductase in normal cells",
-        "To alkalinize the urine and prevent renal precipitation",
-        "To act as a competitive inhibitor of thymidylate synthase",
-        "To stimulate the bone marrow to produce more WBCs"
+      question: "Which metabolite of cyclophosphamide is responsible for hemorrhagic cystitis, and what agent is used to prevent it?",
+      options: [
+        { text: "Phosphoramide mustard; Leucovorin" },
+        { text: "Acrolein; MESNA", isCorrect: true },
+        { text: "Glutathione; Allopurinol" },
+        { text: "Uric acid; Rasburicase" }
       ],
-      "correctAnswer": 2,
-      "rationale": "Methotrexate inhibits DHFR. Leucovorin (folinic acid) is a reduced form of folate that does not require DHFR to be converted into the active forms needed for DNA synthesis. It 'rescues' normal cells from the toxicity of Methotrexate by providing the end-product they can no longer make."
+      explanation: "Acrolein is the toxic metabolite of cyclophosphamide that irritates the bladder lining. MESNA (2-mercaptoethane sulfonate) is a thiol compound that concentrates in the bladder and neutralizes acrolein."
     },
     {
-      "id": 2,
-      "question": "A patient with colon cancer being treated with 5-Fluorouracil (5-FU) develops painful redness and swelling on the palms of her hands and soles of her feet. What is the name of this specific adverse effect?",
-      "options": ["Raynaud phenomenon", "Hand-Foot Syndrome", "Livedo reticularis", "Acrocyanosis", "Sweet syndrome"],
-      "correctAnswer": 2,
-      "rationale": "Hand-Foot Syndrome (palmar-plantar erythrodysesthesia) is a classic side effect of 5-FU and its prodrug Capecitabine. It presents as painful erythema and peeling of the hands and feet."
-    },
-    {
-      "id": 3,
-      "question": "A 10-year-old boy with ALL is receiving maintenance therapy with 6-mercaptopurine (6-MP). He is also started on Allopurinol for gout. Which of the following is the most likely consequence of this drug combination?",
-      "options": [
-        "Decreased efficacy of 6-MP",
-        "Severe bone marrow suppression",
-        "Increased risk of renal failure",
-        "Reduced absorption of Allopurinol",
-        "Acute liver failure"
+      question: "A patient being treated for colorectal cancer with FOLFOX (which includes Oxaliplatin) reports that their hands feel like they are being pricked by needles whenever they take something out of the freezer. What is the mechanism of this drug's primary action?",
+      options: [
+        { text: "Inhibition of Dihydrofolate Reductase" },
+        { text: "Inhibition of Microtubule polymerization" },
+        { text: "DNA cross-linking via aquated intermediates", isCorrect: true },
+        { text: "Topoisomerase II inhibition" }
       ],
-      "correctAnswer": 2,
-      "rationale": "6-MP is inactivated by xanthine oxidase. Allopurinol inhibits xanthine oxidase. Therefore, Allopurinol prevents the degradation of 6-MP, leading to toxic levels and severe myelosuppression. The dose of 6-MP must be reduced by 75% if given with Allopurinol."
+      explanation: "Oxaliplatin is a platinum compound that causes DNA cross-linking. Its signature side effect is a cold-induced peripheral neuropathy."
     },
     {
-      "id": 4,
-      "question": "A 55-year-old male with a brain tumor is treated with Carmustine. What property of this drug allows it to be effective for this specific cancer?",
-      "options": [
-        "Inhibition of topoisomerase II",
-        "High lipophilicity allows it to cross the blood-brain barrier",
-        "Specific binding to neural receptors",
-        "Activation by glial enzymes",
-        "Induction of blood-brain barrier permeability"
+      question: "Why must the dose of 6-Mercaptopurine be drastically reduced if the patient is also taking Allopurinol?",
+      options: [
+        { text: "Allopurinol increases the renal excretion of 6-MP" },
+        { text: "Allopurinol inhibits Xanthine Oxidase, the primary enzyme for 6-MP inactivation", isCorrect: true },
+        { text: "Allopurinol displaces 6-MP from plasma proteins" },
+        { text: "Allopurinol induces CYP3A4, which over-activates 6-MP" }
       ],
-      "correctAnswer": 2,
-      "rationale": "Nitrosoureas (Carmustine, Lomustine) are extremely lipophilic alkylating agents, which allows them to readily cross the blood-brain barrier, making them first-line for primary brain malignancies like Glioblastoma."
+      explanation: "6-Mercaptopurine (6-MP) is inactivated by the enzyme Xanthine Oxidase. Allopurinol is a Xanthine Oxidase inhibitor used to treat hyperuricemia. Combining them leads to dangerously high levels of 6-MP."
     },
     {
-      "id": 5,
-      "question": "A patient undergoing chemotherapy for ovarian cancer with Cisplatin is given Amifostine along with aggressive IV fluids. What is the purpose of Amifostine in this context?",
-      "options": [
-        "To prevent nausea",
-        "To reduce nephrotoxicity",
-        "To prevent hair loss",
-        "To increase the half-life of Cisplatin",
-        "To prevent hemorrhagic cystitis"
+      question: "Which of the following drugs is a cell-cycle specific agent that acts by blocking the assembly of microtubules?",
+      options: [
+        { text: "Paclitaxel" },
+        { text: "Vincristine", isCorrect: true },
+        { text: "Etoposide" },
+        { text: "Cyclophosphamide" }
       ],
-      "correctAnswer": 2,
-      "rationale": "Cisplatin is notoriously nephrotoxic. While aggressive hydration is the mainstay of prevention, Amifostine (a cytoprotective agent) acts as a free radical scavenger in the kidneys to further reduce toxicity."
+      explanation: "Vincristine (Vinca alkaloid) blocks microtubule polymerization (assembly). Paclitaxel (Taxane) blocks disassembly (stabilizes them). Etoposide and Cyclophosphamide are CCNS or act in other phases."
     },
     {
-      "id": 6,
-      "question": "A 60-year-old male receives Doxorubicin as part of his lymphoma treatment. His physician warns him about the risk of irreversible dilated cardiomyopathy. What drug can be co-administered to help prevent this cardiac toxicity?",
-      "options": ["Mesna", "Leucovorin", "Dexrazoxane", "Amifostine", "Allopurinol"],
-      "correctAnswer": 3,
-      "rationale": "Doxorubicin causes cardiotoxicity through the generation of free radicals. Dexrazoxane is an iron chelator that reduces the formation of these free radicals in cardiac tissue."
-    },
-    {
-      "id": 7,
-      "question": "Which of the following chemotherapeutic agents is well-known for causing pulmonary fibrosis but is notably 'marrow-sparing'?",
-      "options": ["Cyclophosphamide", "Methotrexate", "Bleomycin", "Vinblastine", "Cisplatin"],
-      "correctAnswer": 3,
-      "rationale": "Bleomycin's most famous side effect is dose-limiting pulmonary fibrosis. It is unique among cytotoxic drugs because it does not cause significant myelosuppression (marrow-sparing)."
-    },
-    {
-      "id": 8,
-      "question": "A patient develops 'foot drop' and loss of deep tendon reflexes after starting chemotherapy. Which drug is most likely responsible?",
-      "options": ["Vincristine", "Vinblastine", "Paclitaxel", "5-FU", "Cyclophosphamide"],
-      "correctAnswer": 1,
-      "rationale": "Vincristine is the classic cause of peripheral neuropathy (due to microtubule assembly inhibition in long axons), which presents as areflexia and motor weakness like foot drop."
-    },
-    {
-      "id": 9,
-      "question": "Cyclophosphamide causes hemorrhagic cystitis via which toxic metabolite?",
-      "options": ["PML-RARA", "Acrolein", "Guanine N-7", "Methotrexate polyglutamate", "Uric acid"],
-      "correctAnswer": 2,
-      "rationale": "Acrolein is the toxic metabolite of cyclophosphamide that accumulates in the bladder and causes sloughing of the mucosa (hemorrhagic cystitis)."
-    },
-    {
-      "id": 10,
-      "question": "What is the primary laboratory marker of 'Tumor Lysis Syndrome' that causes acute kidney injury?",
-      "options": ["Hyperkalemia", "Hyperphosphatemia", "Hyperuricemia", "Hypocalcemia", "Hypoglycemia"],
-      "correctAnswer": 3,
-      "rationale": "While TLS causes all of the 'Hyper' findings, it is the Hyperuricemia (uric acid) that precipitates in the renal tubules and causes the mechanical obstruction leading to AKI."
+      question: "What is the purpose of Leucovorin (Folinic Acid) when administered 24 hours after high-dose Methotrexate?",
+      options: [
+        { text: "To increase the binding of MTX to Dihydrofolate Reductase" },
+        { text: "To rescue normal cells by providing a source of reduced folate", isCorrect: true },
+        { text: "To prevent hemorrhagic cystitis" },
+        { text: "To alkalinize the urine and prevent crystal nephropathy" }
+      ],
+      explanation: "Leucovorin is folinic acid, a reduced form of folate that does not require DHFR for activation. It 'rescues' normal cells from MTX toxicity by bypassing the blocked enzyme."
     }
   ],
-  "flashcards": [
-    { "front": "What is the mechanism of **Methotrexate**?", "back": "Inhibition of **Dihydrofolate Reductase (DHFR)**.", "tag": "Pharmacology" },
-    { "front": "What prevents **Cyclophosphamide** induced hemorrhagic cystitis?", "back": "**Mesna** + Hydration.", "tag": "Pharmacology" },
-    { "front": "Which drug is used for 'Leucovorin rescue'?", "back": "**Folinic Acid** (Leucovorin).", "tag": "Pharmacology" },
-    { "front": "What is the mechanism of **Taxanes** (Paclitaxel)?", "back": "Hyper-stabilize microtubules (inhibit disassembly).", "tag": "Pharmacology" },
-    { "front": "Which drug class cross the BBB for brain tumors?", "back": "**Nitrosoureas** (Carmustine, Lomustine).", "tag": "Pharmacology" },
-    { "front": "What is the major dose-limiting toxicity of **Bleomycin**?", "back": "Pulmonary Fibrosis.", "tag": "Toxicity" }
+  flashcards: [
+    { front: "What is the mechanism of **Methotrexate**?", back: "Inhibition of **Dihydrofolate Reductase (DHFR)**.", tag: "Pharmacology" },
+    { front: "What prevents **Cyclophosphamide** induced hemorrhagic cystitis?", back: "**Mesna** + Hydration.", tag: "Pharmacology" },
+    { front: "Which drug is used for 'Leucovorin rescue'?", back: "**Folinic Acid** (Leucovorin).", tag: "Pharmacology" },
+    { front: "What is the mechanism of **Taxanes** (Paclitaxel)?", back: "Hyper-stabilize microtubules (inhibit disassembly).", tag: "Pharmacology" },
+    { front: "Which drug class cross the BBB for brain tumors?", back: "**Nitrosoureas** (Carmustine, Lomustine).", tag: "Pharmacology" },
+    { front: "What is the major dose-limiting toxicity of **Bleomycin**?", back: "Pulmonary Fibrosis.", tag: "Toxicity" }
   ],
-  "pearls": [
-    { "title": "The 'V' Rule", "content": "**Vincristine** = Nerves (Peripheral neuropathy). **Vinblastine** = Bone marrow (Blasts the marrow)." },
-    { "title": "5-FU vs. MTX", "content": "Both are S-phase. MTX inhibits the *recycling* of folate (DHFR). 5-FU inhibits the *synthesis* of thymidine (Thymidylate Synthase)." },
-    { "title": "Acrolein is the Bladder Villain", "content": "If a patient has red urine after Cyclophosphamide, the acrolein is eating their bladder wall. Give them Mesna." },
-    { "title": "Amifostine for the Kidney", "content": "Cisplatin is 'Cis-platin' (sounds like Piss-platin because it kills the kidneys). Use Amifostine to protect them." }
+  pearls: [
+    { title: "The 'V' Rule", content: "**Vincristine** = Nerves (Peripheral neuropathy). **Vinblastine** = Bone marrow (Blasts the marrow)." },
+    { title: "5-FU vs. MTX", content: "Both are S-phase. MTX inhibits the *recycling* of folate (DHFR). 5-FU inhibits the *synthesis* of thymidine (Thymidylate Synthase)." },
+    { title: "Acrolein is the Bladder Villain", content: "If a patient has red urine after Cyclophosphamide, the acrolein is eating their bladder wall. Give them Mesna." },
+    { title: "Amifostine for the Kidney", content: "Cisplatin is 'Cis-platin' (sounds like Piss-platin because it kills the kidneys). Use Amifostine to protect them." }
   ]
 });

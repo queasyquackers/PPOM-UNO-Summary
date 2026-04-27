@@ -1,169 +1,149 @@
 window.receiveLectureContent({
-  "metadata": {
-    "id": "l168",
-    "title": "Microbiology: Hemorrhagic Viral Infections",
-    "lecturer": "T. Slieman, Ph.D.",
-    "session": "Lecture #168",
-    "module": "Hematology",
-    "readingTime": "25-30 min"
+  metadata: {
+    title: "Microbiology: Hemorrhagic Viral Infections",
+    lecturer: "T. Slieman, Ph.D. (Session 168)",
+    readingTime: "10-15 min",
+    difficulty: "Advanced",
+    tags: ["Microbiology", "Virology", "Ebola", "Dengue", "Yellow Fever", "Lassa"]
   },
-  "resources": {
-    "ankingResource": {
-      "primarySource": "SketchyMicro",
-      "chapter": "Viruses > RNA (-) Sense",
-      "alternatives": [
-        { "resource": "Physeo", topic: "Microbiology" },
-        { "resource": "First Aid", topic: "Microbiology > Virology" }
+  resources: {
+    ankingResource: {
+      primarySource: "SketchyMicro",
+      chapter: "RNA Viruses",
+      alternatives: [
+        { resource: "First Aid", chapter: "Microbiology > Virology > RNA Viruses" },
+        { resource: "Boards and Beyond", chapter: "Infectious Disease > Viral Hemorrhagic Fevers" }
       ]
     },
-    "anking": [
-      { "match": "Filovirus (Ebola/Marburg)", "resources": "AnKing Step 1 v11: #SketchyMicro::04_Viruses::02_RNA_Negative_Sense::04_Filoviridae" },
-      { "match": "Flavivirus (Dengue/Yellow Fever)", "resources": "AnKing Step 1 v11: #SketchyMicro::04_Viruses::01_RNA_Positive_Sense::04_Flaviviridae" },
-      { "match": "Bunyavirus (Hantavirus)", "resources": "AnKing Step 1 v11: #SketchyMicro::04_Viruses::02_RNA_Negative_Sense::05_Bunyaviridae" },
-      { "match": "Arenavirus (Lassa)", "resources": "AnKing Step 1 v11: #SketchyMicro::04_Viruses::02_RNA_Negative_Sense::06_Arenaviridae" }
+    anking: [
+      { match: "Filoviridae (Ebola/Marburg)", resources: "AnKing Step 1 v11: #SketchyMicro::02_RNA_Viruses::05_Negative_Sense::04_Filovirus" },
+      { match: "Flaviviridae (Dengue/Yellow Fever)", resources: "AnKing Step 1 v11: #SketchyMicro::02_RNA_Viruses::02_Positive_Sense::03_Flavivirus" },
+      { match: "Arenaviridae (Lassa)", resources: "AnKing Step 1 v11: #SketchyMicro::02_RNA_Viruses::05_Negative_Sense::03_Arenavirus" }
     ]
   },
-  "summary": `
-# Lecture #168: Hemorrhagic Viral Infections
+  summary: `
+# Story Mode: The Storm of the Internal Bleeding
 
-**Lecturer:** T. Slieman, Ph.D.
-**Session:** Lecture #168
+In the world of virology, there are common colds, and then there are "the storms." Hemorrhagic fever viruses are the absolute elite of human pathogens. They don't just target an organ; they dismantle the very integrity of the vascular system. When these viruses strike, the body’s own immune response—the massive release of cytokines—becomes a destructive force that causes blood vessels to leak, leading to internal bleeding, shock, and often death. This lecture covers the four main families of these "storm-bringers."
 
-## 1. Filoviridae (Ebola and Marburg)
-*   **Structure:** Long, filamentous, enveloped, negative-sense SSRNA.
-*   **Transmission:** Direct contact with infected blood/fluids or infected fruit bats/primates. High mortality (up to 90%).
-*   **Pathogenesis:** Viral replication in macrophages and dendritic cells triggers a **cytokine storm**, leading to widespread vascular leak and DIC.
-*   **Diagnosis:** RT-PCR in specialized high-containment labs.
+---
 
-## 2. Flaviviridae (Dengue and Yellow Fever)
-*   **Dengue Virus:**
-    *   **Vector:** *Aedes aegypti* mosquito.
-    *   **Clinical:** **Breakbone fever** (severe myalgia), retro-orbital pain, rash.
-    *   **Dengue Hemorrhagic Fever:** Occurs upon **re-infection** with a different serotype due to **Antibody-Dependent Enhancement (ADE)**.
-*   **Yellow Fever Virus:**
-    *   **Clinical:** Jaundice, **black vomitus** (hematemesis), fever.
-    *   **Pathology:** **Councilman bodies** (eosinophilic apoptotic globules in hepatocytes).
-    *   **Sign:** **Faget sign** (fever with a paradoxically slow pulse).
-    *   **Prevention:** Live-attenuated vaccine.
+## 1. The Filoviridae: The Shepherd’s Crook (Ebola & Marburg)
+If you were to look under an electron microscope, you would see long, filamentous viruses that often loop into the shape of a shepherd’s crook. These are the Filoviruses.
 
-## 3. Bunyaviridae (Hantavirus)
-*   **Structure:** Enveloped, segmented (3), negative-sense SSRNA.
-*   **Hantavirus:**
-    *   **Transmission:** Inhalation of aerosols from **rodent** (deer mouse) urine/feces.
-    *   **Hantavirus Pulmonary Syndrome (HPS):** Severe capillary leak in lungs (pulmonary edema), high mortality.
-    *   **Hemorrhagic Fever with Renal Syndrome (HFRS):** Common in Europe/Asia.
+*   **The Reservoir**: The African fruit bat is the natural host. Humans are accidental hosts who usually get infected through contact with bat excreta or by handling infected primates.
+*   **The Pathogenesis**: Ebola and Marburg target the "sentinels" of the immune system—monocytes, macrophages, and dendritic cells. They then hijack these cells to produce a **Cytokine Storm**. This storm destroys the endothelial lining of our blood vessels.
+*   **The Result**: Massive vascular leakage, edema, **DIC** (Disseminated Intravascular Coagulation), and hypovolemic shock.
+*   **The Fatality**: Mortality rates range from 50% to a staggering 90% (specifically the Zaire strain).
+*   **Case Note**: In 2014, the world realized how small the planet had become when a patient traveled from West Africa to Texas, introducing Ebola to the United States and infecting several healthcare workers.
 
-## 4. Arenaviridae (Lassa Fever)
-*   **Structure:** Enveloped, segmented (2), negative-sense SSRNA. **Sandy** appearance on EM (due to host ribosomes).
-*   **Lassa Fever:** 
-    *   **Vector:** Multimammate rat (*Mastomys*).
-    *   **Clinical:** Endemic in West Africa. 1/3 of survivors develop **deafness**.
-*   **LCMV (Lymphocytic Choriomeningitis Virus):** Also an arenavirus; causes meningitis.
+---
 
-## 5. Summary of Families and Vectors
-| Family | Viruses | Vector/Host |
-| :--- | :--- | :--- |
-| **Filo** | Ebola, Marburg | Fruit bats, Primates |
-| **Flavi** | Dengue, Yellow Fever | *Aedes* mosquito |
-| **Bunya** | Hantavirus, Rift Valley | Rodents, Mosquitoes |
-| **Arena** | Lassa, LCMV | Rodents |
+## 2. The Flaviviridae: The Yellow and the Painful
+These viruses are primarily **Arboviruses**, meaning they are transmitted by "Arthropod-borne" vectors—specifically the **Aedes mosquito**.
+
+### I. Yellow Fever (The Jaundiced Plague)
+*   **The Story**: Historically famous for decimating populations during the building of the Panama Canal.
+*   **The Presentation**: It presents with a classic triad: High fever, **Jaundice** (the "Yellow"), and **Hemorrhage** (often seen as "Black Vomit" or hematemesis due to digested blood in the stomach).
+*   **The Pathology**: On liver biopsy, you will see **Councilman Bodies**—eosinophilic, apoptotic globules of hepatocytes.
+*   **Prevention**: A highly effective live-attenuated vaccine exists, but remember: you cannot give live vaccines to infants < 6 months, pregnant women, or the immunocompromised.
+
+### II. Dengue Virus (The Breakbone Fever)
+*   **The Presentation**: Causes excruciating joint and muscle pain, making patients feel as if their bones are literally breaking.
+*   **The Trap (ADE)**: There are 4 different serotypes. If you are infected with Serotype 1, you develop life-long immunity to Serotype 1. However, if you are later infected with Serotype 2, your old antibodies won't kill it. Instead, they bind to the new virus and actually **help** it enter your macrophages. This is called **Antibody-Dependent Enhancement (ADE)** and is why a second Dengue infection is much more likely to result in lethal **Dengue Hemorrhagic Fever**.
+
+---
+
+## 3. The Bunyaviridae: The Southwest Desert Mystery
+Unlike the others, one of the most important Bunyaviruses in the US is **not** transmitted by a mosquito.
+
+*   **Hantavirus (Sin Nombre Virus)**: 
+    *   **The Vector**: The **Deer Mouse** (*Peromyscus*).
+    *   **The Transmission**: Inhalation of aerosolized mouse urine or droppings (often when cleaning out old cabins or sheds).
+    *   **The Weather Connection**: Outbreaks often follow a cycle of heavy rain (which increases the mouse food supply and population) followed by dryness (which causes the droppings to turn to dust and aerosolize).
+    *   **The Syndrome**: **Hantavirus Pulmonary Syndrome (HPS)**. It starts with flu-like symptoms but rapidly progresses to severe, life-threatening pulmonary edema. 
+    *   **Geography**: Famous in the **Four Corners** region (NM, AZ, CO, UT).
+
+---
+
+## 4. The Arenaviridae: The West African Rat (Lassa Fever)
+*   **The Vector**: The **Multi-mammate rat**. 
+*   **The Story**: Found in West Africa (Nigeria, Sierra Leone). 
+*   **The Complication**: While 80% of cases are mild, Lassa fever has one very specific and common long-term consequence: **Deafness**. Roughly 1/3 of survivors lose their hearing to some degree.
+*   **The Treatment**: **Ribavirin** can be effective if started early.
+
+---
+
+## 5. Segmented RNA Viruses: The 'BOAR' Mnemonic
+Several of these families have **segmented** genomes, which allows them to swap genetic material (Antigenic Shift).
+*   **B**unya (3 segments: Small, Medium, Large)
+*   **O**rthomyxo (8 segments - Influenza)
+*   **A**rena (2 segments - Lassa)
+*   **R**eo (10-12 segments - Rotavirus)
 `,
-  "questions": [
+  questions: [
     {
-      "id": 1,
-      "question": "A 35-year-old humanitarian worker returns from West Africa with high fever, sore throat, and severe vomiting. Within days, he begins bleeding from his IV sites and has bloody diarrhea. An EM of the virus shows long, filamentous structures. What is the most likely diagnosis?",
-      "options": ["Lassa Fever", "Dengue Fever", "Ebola Hemorrhagic Fever", "Yellow Fever", "Hantavirus"],
-      "correctAnswer": 3,
-      "rationale": "The combination of travel to West Africa, hemorrhagic symptoms, and the characteristic 'long, filamentous' morphology on EM is pathognomonic for Filoviruses like Ebola or Marburg."
-    },
-    {
-      "id": 2,
-      "question": "A traveler returns from Thailand with 'the worst muscle and bone pain of my life,' fever, and pain behind his eyes. He is diagnosed with a viral infection. Two years later, he travels to Brazil and develops a severe hemorrhagic fever. What is the mechanism of this more severe second infection?",
-      "options": [
-        "Reactivation of a latent virus",
-        "Direct neurotoxicity of the virus",
-        "Antibody-Dependent Enhancement (ADE)",
-        "Mutation of the viral envelope",
-        "Coinfection with a different family of viruses"
+      question: "A liver biopsy from a patient who died of a severe hemorrhagic fever reveals eosinophilic apoptotic bodies within hepatocytes. The patient's clinical course was marked by jaundice and 'black vomit.' Which of the following is the most likely causative agent?",
+      options: [
+        { text: "Ebola Virus" },
+        { text: "Yellow Fever Virus", isCorrect: true },
+        { text: "Dengue Virus" },
+        { text: "Lassa Virus" }
       ],
-      "correctAnswer": 3,
-      "rationale": "Dengue has four serotypes. A primary infection provides immunity to that serotype but only weak cross-immunity. Upon a secondary infection with a different serotype, non-neutralizing antibodies from the first infection help the new virus enter macrophages more efficiently, leading to a massive cytokine release and hemorrhagic fever."
+      explanation: "Yellow Fever is characterized by jaundice (liver failure), hemorrhage (black vomit), and the presence of Councilman bodies (apoptotic hepatocytes) on biopsy."
     },
     {
-      "id": 3,
-      "question": "A patient from rural Nigeria recovers from a severe viral illness but is found to have significant sensorineural hearing loss. What was the most likely cause of his original illness?",
-      "options": ["Ebola", "Yellow Fever", "Dengue", "Lassa Fever", "Hantavirus"],
-      "correctAnswer": 4,
-      "rationale": "Lassa Fever (an arenavirus) is famous for causing deafness in approximately one-third of survivors. It is endemic in West Africa and transmitted by rodents."
-    },
-    {
-      "id": 4,
-      "question": "A camper in the southwestern United States develops a rapid-onset respiratory failure after sweeping out a cabin infested with mice. Laboratory studies show significant pulmonary edema. What is the most likely pathogen?",
-      "options": ["Lassa Virus", "Hantavirus (Sin Nombre)", "Ebola Virus", "Dengue Virus", "West Nile Virus"],
-      "correctAnswer": 2,
-      "rationale": "Hantavirus Pulmonary Syndrome (HPS) is transmitted by the inhalation of aerosolized rodent (deer mouse) droppings. It classically presents as non-cardiogenic pulmonary edema following exposure to mouse-infested environments."
-    },
-    {
-      "id": 5,
-      "question": "A traveler returns from a jungle expedition in the Amazon with fever, jaundice, and black-colored vomit. A liver biopsy shows eosinophilic, apoptotic hepatocytes known as Councilman bodies. What is the most likely diagnosis?",
-      "options": ["Hepatitis A", "Hepatitis B", "Yellow Fever", "Dengue Fever", "Malaria"],
-      "correctAnswer": 3,
-      "rationale": "Yellow Fever presents with the triad of fever, jaundice, and hematemesis ('black vomit'). Councilman bodies are the classic histopathological finding of apoptotic hepatocytes in Yellow Fever (though they can also be seen in viral hepatitis)."
-    },
-    {
-      "id": 6,
-      "question": "Which of the following viruses is characterized by a 'sandy' appearance on electron microscopy due to the accidental incorporation of host ribosomes?",
-      "options": ["Arenaviruses", "Bunyaviruses", "Filoviruses", "Flaviviruses", "Retroviruses"],
-      "correctAnswer": 1,
-      "rationale": "Arenaviruses (like Lassa and LCMV) derive their name from 'arena' (sand), referring to the grainy appearance of the viral particles on EM caused by host ribosomes."
-    },
-    {
-      "id": 7,
-      "question": "What is the specific vector for the transmission of Dengue and Yellow Fever?",
-      "options": ["Anopheles mosquito", "Aedes aegypti mosquito", "Ixodes tick", "Culex mosquito", "Tsetse fly"],
-      "correctAnswer": 2,
-      "rationale": "The *Aedes aegypti* (and *Aedes albopictus*) mosquito is the primary vector for Dengue, Yellow Fever, Zika, and Chikungunya viruses."
-    },
-    {
-      "id": 8,
-      "question": "Which of the following viral families contains negative-sense RNA viruses that are segmented into three pieces?",
-      "options": ["Filoviridae", "Flaviviridae", "Bunyaviridae", "Arenaviridae", "Retroviridae"],
-      "correctAnswer": 3,
-      "rationale": "Bunyaviruses have a genome consisting of three segments (L, M, and S). Arenaviruses have two segments. Filo and Flavi are not segmented."
-    },
-    {
-      "id": 9,
-      "question": "The Faget sign is a clinical finding characterized by which of the following?",
-      "options": [
-        "Fever with a paradoxically slow pulse",
-        "High fever with rapid heart rate",
-        "Hypothermia with a fast pulse",
-        "Localized rash on the palms and soles",
-        "Severe bone pain relieved by aspirin"
+      question: "A 28-year-old traveler returns from a mission trip to Nigeria. A week later, he develops fever and malaise. While he eventually recovers, he notices that he can no longer hear out of his left ear. Which of the following viruses is the most likely cause?",
+      options: [
+        { text: "Lassa Virus", isCorrect: true },
+        { text: "Marburg Virus" },
+        { text: "Rift Valley Fever Virus" },
+        { text: "Crimean-Congo Hemorrhagic Fever" }
       ],
-      "correctAnswer": 1,
-      "rationale": "Faget sign (pulse-temperature dissociation) is the presence of a relative bradycardia despite a high fever. It is classically associated with Yellow Fever."
+      explanation: "Sensorineural hearing loss is the most common permanent sequela of Lassa fever infection, occurring in approximately 1/3 of patients."
     },
     {
-      "id": 10,
-      "question": "A researcher is studying a virus that causes massive cytokine release and endothelial damage, leading to DIC and internal bleeding. The virus has a long, thread-like shape. Which of the following is the most likely host for this virus in nature?",
-      "options": ["Deer mouse", "Fruit bat", "Mastomys rat", "Aedes mosquito", "Ticks"],
-      "correctAnswer": 2,
-      "rationale": "The description matches Filoviruses (Ebola/Marburg). Fruit bats are considered the primary natural reservoir for these viruses."
+      question: "Which of the following describes the mechanism behind the increased severity of a second Dengue infection compared to the first?",
+      options: [
+        { text: "Viral reassortment in a segmented genome" },
+        { text: "Direct destruction of the bone marrow" },
+        { text: "Antibody-dependent enhancement", isCorrect: true },
+        { text: "Exotoxin production" }
+      ],
+      explanation: "Antibody-dependent enhancement (ADE) occurs when non-neutralizing antibodies from a previous infection facilitate viral entry into host cells via Fc receptors, leading to higher viral loads and a more massive inflammatory response."
+    },
+    {
+      question: "A hiker in New Mexico develops sudden-onset respiratory distress 2 weeks after cleaning out a rodent-infested storage shed. He is diagnosed with a viral hemorrhagic fever. Which of the following is the primary reservoir for this virus?",
+      options: [
+        { text: "Fruit bats" },
+        { text: "Deer mouse", isCorrect: true },
+        { text: "Multi-mammate rat" },
+        { text: "Aedes mosquito" }
+      ],
+      explanation: "The description of Hantavirus Pulmonary Syndrome (HPS) in the US Southwest following exposure to rodent droppings points to the Deer Mouse (*Peromyscus*) as the reservoir."
+    },
+    {
+      question: "A patient with suspected Ebola is in the ICU. Which of the following best describes the initial cellular targets of the virus that lead to the systemic 'Cytokine Storm'?",
+      options: [
+        { text: "Hepatocytes" },
+        { text: "Erythrocytes" },
+        { text: "Macrophages and Dendritic cells", isCorrect: true },
+        { text: "Neurons" }
+      ],
+      explanation: "Filoviruses like Ebola primarily infect monocytes, macrophages, and dendritic cells. These cells then release a massive amount of pro-inflammatory cytokines, leading to systemic vascular leakage and shock."
     }
   ],
-  "flashcards": [
-    { "front": "What does a 'filamentous' virus on EM suggest?", "back": "**Filovirus** (Ebola or Marburg).", "tag": "Microbiology" },
-    { "front": "What are **Councilman bodies** and where are they seen?", "back": "Eosinophilic apoptotic hepatocytes; seen in **Yellow Fever** and Viral Hepatitis.", "tag": "Pathology" },
-    { "front": "What is the mechanism of **Dengue Hemorrhagic Fever**?", "back": "**Antibody-Dependent Enhancement (ADE)** from a second serotype infection.", "tag": "Microbiology" },
-    { "front": "What long-term complication is associated with **Lassa Fever**?", "back": "**Deafness** (Sensorineural hearing loss).", "tag": "Clinical" },
-    { "front": "Which rodent transmits **Hantavirus** in the US?", "back": "The **Deer mouse** (*Peromyscus maniculatus*).", "tag": "Microbiology" },
-    { "front": "How many segments are in a **Bunyavirus** genome?", "back": "**Three**.", "tag": "Microbiology" }
+  flashcards: [
+    { front: "What are **Councilman bodies**?", back: "Eosinophilic apoptotic hepatocytes seen in **Yellow Fever**.", tag: "Microbiology" },
+    { front: "Name the **segmented** RNA viruses.", back: "**BOAR**: Bunyaviridae, Orthomyxoviridae, Arenaviridae, Reoviridae.", tag: "Microbiology" },
+    { front: "What is the vector for **Dengue**?", back: "**Aedes aegypti** mosquito.", tag: "Microbiology" },
+    { front: "Which virus causes **Hantavirus Pulmonary Syndrome**?", back: "**Sin Nombre Virus** (Bunyaviridae).", tag: "Microbiology" },
+    { front: "What is the shape of **Ebola** under EM?", back: "Long, filamentous (**Shepherd's crook**).", tag: "Microbiology" }
   ],
-  "pearls": [
-    { "title": "Breakbone Fever", "content": "If the patient feels like their bones are literally breaking, it's Dengue. If they also have retro-orbital pain, it's definitely Dengue." },
-    { "title": "The Sandy Arena", "content": "Arenaviruses (Lassa) = Sand = Host Ribosomes." },
-    { "title": "ADE Logic", "content": "ADE is the reason why getting Dengue twice is much more dangerous than getting it once. The old antibodies act as a Trojan Horse for the new virus." },
-    { "title": "Councilman for Yellow", "content": "Traveler + Jaundice + Black Vomit + Councilman Body = Yellow Fever." }
+  pearls: [
+    { title: "The ADE Trap", content: "Dengue is the classic example of how 'partial immunity' can actually be more dangerous than no immunity at all." },
+    { title: "Segmented Math", back: "Bunya has 3 segments; Arena has 2. This is high-yield for board exams." },
+    { title: "Ribavirin and Lassa", content: "Ribavirin is the go-to antiviral for Lassa fever, but it is not effective for Filoviruses like Ebola." },
+    { title: "Yellow Fever Vaccine", content: "It is a live vaccine; always ask about egg allergies, as it is grown in chick embryos." }
   ]
 });

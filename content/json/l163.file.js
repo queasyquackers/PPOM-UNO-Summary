@@ -1,165 +1,164 @@
 window.receiveLectureContent({
-  "metadata": {
-    "id": "l163",
-    "title": "Pediatric Hematology and Oncology",
-    "lecturer": "T. Chan, D.O.",
-    "session": "Lecture #163",
-    "module": "Hematology",
-    "readingTime": "25-30 min"
+  metadata: {
+    title: "Pediatric Hematology and Oncology",
+    lecturer: "Thomas Chan, D.O. (Session 163)",
+    readingTime: "10-15 min",
+    difficulty: "Advanced",
+    tags: ["Pediatrics", "Hematology", "Oncology", "Leukemia", "Anemia", "Solid Tumors"]
   },
-  "resources": {
-    "ankingResource": {
-      "primarySource": "Pathoma",
-      "chapter": "13_Anemia",
-      "alternatives": [
-        { "resource": "Boards and Beyond", "chapter": "Pediatrics > Pediatric Hematology" },
-        { "resource": "First Aid", "chapter": "Hematology & Oncology" },
-        { "resource": "Sketchy Path", "chapter": "Hematology > Anemia" }
+  resources: {
+    ankingResource: {
+      primarySource: "Boards and Beyond",
+      chapter: "Pediatrics > Hematology/Oncology",
+      alternatives: [
+        { resource: "Pathoma", chapter: "Hematology > Leukemias" },
+        { resource: "First Aid", chapter: "Pediatrics > Pathology" }
       ]
     },
-    "anking": [
-      { "match": "ALL markers", "resources": "AnKing Step 1 v11: #Pathoma::14_WBC_Disorders::02_Acute_Leukemias::ALL" },
-      { "match": "Neuroblastoma vs Wilms", "resources": "AnKing Step 1 v11: #FirstAid::Reproductive::Pathology::Pediatric_Tumors" },
-      { "match": "Retinoblastoma", "resources": "AnKing Step 1 v11: #Pathoma::17_Eye::01_Eyelid_&_Conjunctiva::Retinoblastoma" },
-      { "match": "Langerhans Cell Histiocytosis", "resources": "AnKing Step 1 v11: #Pathoma::14_WBC_Disorders::06_Langerhans_Cell_Histiocytosis" }
+    anking: [
+      { match: "Pediatric Anemias (TEC / DBA)", resources: "AnKing Step 2 v11: #B&B::05_Hematology::01_Anemia::07_Pediatric_Anemia" },
+      { match: "Acute Lymphoblastic Leukemia (ALL)", resources: "AnKing Step 1 v11: #Pathoma::13_WBC_Disorders::02_Acute_Leukemia::ALL" },
+      { match: "Neuroblastoma & Wilms Tumor", resources: "AnKing Step 1 v11: #FirstAid::Renal::Pathology::Wilms_Tumor" }
     ]
   },
-  "summary": `
-# Lecture #163: Pediatric Hematology and Oncology
+  summary: `
+# Story Mode: The Small Factory Under Siege
 
-**Lecturer:** T. Chan, D.O.
-**Session:** Lecture #163
+Pediatric hematology and oncology are unique because we are dealing with a "factory" (the bone marrow) that is still growing, adapting, and extremely plastic. While children can develop many of the same diseases as adults, the presentation, epidemiology, and prognosis are often vastly different. This lecture focuses on the "Red Flags" that tell a pediatrician when a simple "tired kid" is actually a medical emergency.
 
-## 1. Acute Lymphoblastic Leukemia (ALL)
-Most common childhood cancer. Peak incidence age 2-5.
-*   **Morphology:** Small blue cells with high N:C ratio. **TdT+** (DNA polymerase found only in lymphoblasts).
-*   **B-cell ALL (80%):** Markers: **CD10 (CALLA), CD19, CD20**.
-    *   **Prognosis:** **t(12;21)** = Good (children); **t(9;22)** = Bad (adults).
-    *   Requires prophylaxis of the **CNS and Scrotum** (sanctuary sites).
-*   **T-cell ALL (20%):** Markers: **CD2 to CD8**. Presents as a **Mediastinal mass** in adolescents (thymic mass).
+---
 
-## 2. Small Round Blue Cell Tumors
-*   **Neuroblastoma:** Adrenal medulla origin (neural crest cells).
-    *   **Features:** **Crosses midline**. N-myc amplification = poor prognosis.
-    *   **Pathology:** **Homer-Wright rosettes**. High HVA/VMA in urine.
-    *   **Paraneoplastic:** Opsoclonus-myoclonus (dancing eyes/feet).
-*   **Wilms Tumor (Nephroblastoma):** Renal tumor.
-    *   **Features:** Large flank mass, **does NOT cross midline**.
-    *   **Associations:** **WAGR Syndrome** (Wilms, Aniridia, Genitourinary, Retardation) and Beckwith-Wiedemann.
+## 1. Pediatric Anemias: The Stuttering Factory
+Anemia in children is a common finding, often picked up during routine screening (ages 1–2). The "Factory Analogy" is your best tool: **Reticulocytes** are the new products. If retics are high, the factory is working overtime (hemolysis or bleeding). If retics are low, the factory has shut down.
 
-## 3. Eye and Bone Tumors
-*   **Retinoblastoma:** Most common intraocular tumor.
-    *   **Presentation:** **Leukocoria** (white pupillary reflex).
-    *   **Genetics:** Mutation in **RB1** gene on chromosome 13.
-    *   **Pathology:** **Flexner-Wintersteiner rosettes**.
-*   **Osteosarcoma:** Malignant osteoblasts. Occurs at **Metaphysis** (knee).
-    *   **X-ray:** **Sunburst pattern** and **Codman triangle**.
-*   **Ewing Sarcoma:** Undifferentiated neuroectodermal cells. Occurs at **Diaphysis** of long bones.
-    *   **X-ray:** **Onion skinning**.
-    *   **Genetics:** **t(11;22)** EWS-FLI1 fusion.
+### I. The "Normal" Low: Physiologic Nadir
+*   **The Story**: A healthy 6–8 week old baby is found to have a hemoglobin of 10 g/dL.
+*   **The Mechanism**: At birth, babies have a huge amount of Hemoglobin F. Once they start breathing air, their oxygen levels rise. This signals the marrow to "take a break." Erythropoietin production drops.
+*   **The Outcome**: This is a normal, healthy transition. It normalizes as the baby starts making adult hemoglobin (HbA). **No treatment needed**.
 
-## 4. Langerhans Cell Histiocytosis (LCH)
-Proliferation of specialized dendritic cells (Langerhans cells).
-*   **Markers:** **CD1a+** and **S100+**.
-*   **Pathology:** **Birbeck granules** (look like tennis rackets on EM).
-*   **Presentation:** Eosinophilic granuloma (bone fractures), Hand-Schüller-Christian (triad: diabetes insipidus, exophthalmos, bone lesions).
+### II. The Viral Shutdown: Transient Erythroblastopenia of Childhood (TEC)
+*   **The Story**: A 2-year-old looks pale a few weeks after a minor cold.
+*   **The Labs**: Normocytic anemia with **Low Reticulocytes**.
+*   **The Reality**: A temporary, acquired shutdown of the RBC production line, likely triggered by a virus. It resolves on its own within 1–2 months.
 
-## 5. Pediatric Anemias
-*   **Physiologic Nadir:** Normal drop in Hb (to ~11) at **2–3 months** (9-12 weeks) due to increased oxygenation at birth shutting down EPO.
-*   **Transient Erythroblastopenia of Childhood (TEC):** Acquired pure red cell aplasia occurring later (**1–4 years**). Usually follows a viral infection.
-*   **Iron Deficiency:** Often due to **excessive cow's milk** intake (>24 oz/day) in toddlers.
-*   **Sickle Cell Disease:** High risk of sepsis from **encapsulated bacteria** (Salmonella osteomyelitis, S. pneumoniae sepsis).
+### III. The Genetic Defects: Diamond-Blackfan (DBA) vs. Fanconi
+*   **Diamond-Blackfan Anemia (DBA)**: 
+    *   **The Defect**: A congenital "Pure Red Cell Aplasia" (only RBCs are missing).
+    *   **The Clues**: **Macrocytic** anemia + **Physical Anomalies** (specifically **Triphalangeal Thumbs**, short stature, and craniofacial defects).
+*   **Fanconi Anemia**: 
+    *   **The Defect**: A congenital "Bone Marrow Failure." Everything is missing (Pancytopenia).
+    *   **The Clues**: Short stature, café-au-lait spots, and **Absent or Hypoplastic Thumbs**.
+    *   **The Risk**: These children have a high risk of developing AML.
+
+---
+
+## 2. Sickle Cell Disease: High-Stakes Pediatric Crises
+In children, Sickle Cell Disease is not just about pain; it's about sudden, life-threatening events.
+
+*   **Splenic Sequestration**: 
+    *   **The Crisis**: The spleen suddenly "traps" a massive volume of the child's blood.
+    *   **The Signs**: Sudden, massive enlargement of the spleen + Sudden drop in Hb + **Hypovolemic Shock**. This is a surgical emergency.
+*   **Aplastic Crisis**: 
+    *   **The Trigger**: **Parvovirus B19**.
+    *   **The Sign**: Hb drops and **Reticulocytes are ZERO**. The virus has killed the factory's worker cells.
+*   **Acute Chest Syndrome**: 
+    *   **The Sign**: Fever, chest pain, and a new infiltrate on chest X-ray. It is the leading cause of death in pediatric SCD patients.
+
+---
+
+## 3. Pediatric Oncology: The Big Three
+### I. ALL: The King of Childhood Cancer
+*   **The Presentation**: Fever, bone pain (often refusing to walk), and lymphadenopathy.
+*   **The Markers**: **TdT+** (DNA polymerase) and **CD10+** (CALLA).
+*   **The Association**: **Down Syndrome** (specifically if the child is **OVER 5 years old**).
+
+### II. The Abdominal Masses: Neuroblastoma vs. Wilms
+This is a classic "board" comparison.
+*   **Neuroblastoma**:
+    *   **The Origin**: Adrenal medulla (sympathetic chain).
+    *   **The Sign**: A firm, irregular mass that **CROSSES the midline**.
+    *   **The Syndrome**: **Opsoclonus-Myoclonus** ("Dancing eyes, dancing feet").
+    *   **The Labs**: Elevated **VMA and HVA** in the urine.
+*   **Wilms Tumor (Nephroblastoma)**:
+    *   **The Sign**: A smooth, firm mass that **does NOT cross the midline**.
+    *   **The Syndrome**: Often associated with **WAGR** (Wilms, Aniridia, Genitourinary anomalies, Range of developmental delay).
+
+### III. The Bone Tumors
+*   **Osteosarcoma**: Metaphysis (near the joint). "Sunburst" pattern or Codman triangle on X-ray.
+*   **Ewing Sarcoma**: Diaphysis (the shaft). "Onion-skin" appearance. Associated with the **t(11;22)** translocation.
+
+---
+
+## 4. The "Red Flag" Summary
+If you see these in a child, do not delay:
+*   Night pain (pain that wakes a child from sleep).
+*   Painless, rubbery lymph nodes.
+*   Unexplained weight loss.
+*   "Blueberry Muffin" rash (Leukemia cutis - common in neonatal AML).
 `,
-  "questions": [
+  questions: [
     {
-      "id": 1,
-      "question": "A 4-year-old girl is brought to the pediatrician for a routine wellness exam. On physical exam, a large, firm abdominal mass is palpated on the right side. The mass does not cross the midline. The girl is otherwise healthy except for a history of hemihypertrophy of her left leg. What is the most likely diagnosis?",
-      "options": ["Neuroblastoma", "Wilms Tumor", "Hepatoblastoma", "Renal Cell Carcinoma", "Pheochromocytoma"],
-      "correctAnswer": 2,
-      "rationale": "Wilms tumor is the most common renal malignancy in children. It typically presents as a large flank mass that does not cross the midline. Hemihypertrophy and macroglossia are part of Beckwith-Wiedemann syndrome, which is associated with Wilms tumor."
-    },
-    {
-      "id": 2,
-      "question": "A 3-year-old boy presents with an abdominal mass that crosses the midline. He also has periorbital ecchymosis ('raccoon eyes') and spontaneous, jerky eye movements with muscle twitching. Laboratory testing shows elevated levels of vanillylmandelic acid (VMA) in the urine. Which of the following is most likely to be seen on histopathological examination of the mass?",
-      "options": ["Flexner-Wintersteiner rosettes", "Homer-Wright rosettes", "Birbeck granules", "Reed-Sternberg cells", "Auer rods"],
-      "correctAnswer": 2,
-      "rationale": "The patient has Neuroblastoma (crosses midline, VMA+). The classic paraneoplastic syndrome is opsoclonus-myoclonus ('dancing eyes, dancing feet'). Homer-Wright rosettes are characteristic of neuroblastoma (and medulloblastoma)."
-    },
-    {
-      "id": 3,
-      "question": "A 14-year-old boy presents with persistent pain and swelling in his left thigh. An X-ray shows a lytic lesion in the diaphysis of the femur with a classic 'onion-skin' periosteal reaction. Biopsy reveals small, round, blue cells. What is the most likely chromosomal translocation associated with this condition?",
-      "options": ["t(9;22)", "t(12;21)", "t(14;18)", "t(11;22)", "t(15;17)"],
-      "correctAnswer": 4,
-      "rationale": "Ewing sarcoma typically occurs in the diaphysis of long bones and presents with the 'onion-skin' appearance on X-ray. It is associated with the t(11;22) translocation involving the EWS and FLI1 genes."
-    },
-    {
-      "id": 4,
-      "question": "A 5-year-old boy presents with a white pupillary reflex (leukocoria) in his left eye. His father had his left eye removed as a child for similar reasons. A mutation in which of the following genes is responsible for this condition?",
-      "options": ["WT1", "RB1", "N-myc", "TP53", "APC"],
-      "correctAnswer": 2,
-      "rationale": "Leukocoria in a child is highly suggestive of Retinoblastoma. The familial form is caused by a germline mutation in the RB1 tumor suppressor gene on chromosome 13."
-    },
-    {
-      "id": 5,
-      "question": "A 4-year-old boy is diagnosed with ALL. Flow cytometry shows that the blasts are positive for TdT, CD10, and CD19. Which translocation, if present, would confer the most favorable prognosis?",
-      "options": ["t(9;22)", "t(12;21)", "t(8;14)", "t(14;18)", "t(11;14)"],
-      "correctAnswer": 2,
-      "rationale": "In childhood B-ALL (CD10/19+), the t(12;21) translocation (TEL-AML1) is associated with an excellent prognosis. The t(9;22) translocation (Philadelphia chromosome) is associated with a poor prognosis."
-    },
-    {
-      "id": 6,
-      "question": "A child presents with a 'punched-out' bone lesion in the skull and diabetes insipidus. Electron microscopy of a skin biopsy shows tennis-racket shaped cytoplasmic organelles. What are these organelles called?",
-      "options": ["Auer rods", "Birbeck granules", "Heinz bodies", "Howell-Jolly bodies", "Pappenheimer bodies"],
-      "correctAnswer": 2,
-      "rationale": "The patient has Langerhans Cell Histiocytosis (Hand-Schüller-Christian variant). The pathognomonic finding on EM is the Birbeck granule, which looks like a tennis racket."
-    },
-    {
-      "id": 7,
-      "question": "An adolescent male presents with a large anterior mediastinal mass, superior vena cava syndrome, and pleural effusions. Flow cytometry of the pleural fluid shows TdT+ and CD3+ cells. What is the most likely diagnosis?",
-      "options": ["B-cell ALL", "T-cell ALL", "Hodgkin Lymphoma", "Burkitt Lymphoma", "Thymoma"],
-      "correctAnswer": 2,
-      "rationale": "T-cell ALL often presents in adolescent males as a mediastinal (thymic) mass. The 'T' in T-cell ALL stands for Teens, Thymus, and T-cell markers (CD2-CD8)."
-    },
-    {
-      "id": 8,
-      "question": "A 2-year-old toddler is found to have microcytic anemia. The parents mention he drinks about 40 ounces of cow's milk per day. What is the mechanism of his anemia?",
-      "options": [
-        "Inhibition of EPO by cow's milk proteins",
-        "Iron deficiency due to poor intake and occult GI bleeding",
-        "Direct hemolysis of RBCs by milk enzymes",
-        "Deficiency of Vitamin B12",
-        "Lead poisoning from contaminated milk"
+      question: "A 4-year-old child presents with a large abdominal mass that crosses the midline. Physical exam reveals jerking movements of the eyes and extremities. Which of the following is the most likely diagnosis?",
+      options: [
+        { text: "Wilms Tumor" },
+        { text: "Neuroblastoma", isCorrect: true },
+        { text: "Hepatoblastoma" },
+        { text: "Renal Cell Carcinoma" }
       ],
-      "correctAnswer": 2,
-      "rationale": "Excessive cow's milk intake (>24 oz/day) in toddlers causes iron deficiency anemia because milk is low in iron, displaces iron-rich foods, and can cause microscopic intestinal bleeding due to bovine protein intolerance."
+      explanation: "Neuroblastoma arises from the sympathetic chain, frequently crosses the midline, and is uniquely associated with the paraneoplastic 'opsoclonus-myoclonus' syndrome (dancing eyes/feet)."
     },
     {
-      "id": 9,
-      "question": "A child with Sickle Cell Disease presents with a fever of 102°F and localized bone pain in the tibia. Blood cultures are pending. Which organism must be empirically covered due to its high prevalence in this population?",
-      "options": ["Staphylococcus aureus", "Streptococcus pyogenes", "Salmonella", "Pseudomonas", "Escherichia coli"],
-      "correctAnswer": 3,
-      "rationale": "While S. aureus is the most common cause of osteomyelitis in the general population, Salmonella is uniquely common in patients with Sickle Cell Disease due to functional asplenia and other factors."
+      question: "A 7-year-old child with Down Syndrome presents with new-onset fatigue and bruising. Bone marrow biopsy reveals blasts that are TdT+ and CD10+. Which of the following is the most likely diagnosis?",
+      options: [
+        { text: "Acute Myeloid Leukemia (M7)" },
+        { text: "Acute Lymphoblastic Leukemia", isCorrect: true },
+        { text: "Chronic Myelogenous Leukemia" },
+        { text: "Juvenile Myelomonocytic Leukemia" }
+      ],
+      explanation: "Children with Down Syndrome have an increased risk of ALL after the age of 5. TdT and CD10 are classic markers for B-ALL."
     },
     {
-      "id": 10,
-      "question": "Which of the following bone tumors is characterized by malignant osteoblasts and typically occurs around the knee at the metaphysis?",
-      "options": ["Ewing Sarcoma", "Osteosarcoma", "Chondrosarcoma", "Giant Cell Tumor", "Osteoid Osteoma"],
-      "correctAnswer": 2,
-      "rationale": "Osteosarcoma is a primary bone malignancy occurring in the metaphysis of long bones (60% around the knee). It is characterized by the production of osteoid (bone matrix) by malignant cells."
+      question: "A child with Sickle Cell Disease presents with a sudden drop in hemoglobin from 8 g/dL to 3 g/dL. The reticulocyte count is 0.1%. Which of the following viruses is the most likely cause?",
+      options: [
+        { text: "EBV" },
+        { text: "CMV" },
+        { text: "Parvovirus B19", isCorrect: true },
+        { text: "HIV" }
+      ],
+      explanation: "In SCD, an aplastic crisis is marked by a drop in Hb and a very low reticulocyte count (marrow shutdown). This is classically caused by Parvovirus B19, which infects erythroid precursors."
+    },
+    {
+      question: "A 3-year-old child presents with a smooth, painless abdominal mass that does not cross the midline. The child has no irises (aniridia). What is the most likely diagnosis?",
+      options: [
+        { text: "Wilms Tumor", isCorrect: true },
+        { text: "Neuroblastoma" },
+        { text: "Teratoma" },
+        { text: "Pheochromocytoma" }
+      ],
+      explanation: "The WAGR syndrome (Wilms tumor, Aniridia, Genitourinary anomalies, and Range of developmental delay) is a classic association for Nephroblastoma (Wilms tumor)."
+    },
+    {
+      question: "Which of the following X-ray findings is most characteristic of Ewing Sarcoma?",
+      options: [
+        { text: "Sunburst pattern in the metaphysis" },
+        { text: "Onion-skinning of the periosteum", isCorrect: true },
+        { text: "Codman triangle in the epiphysis" },
+        { text: "Lytic lesion in the skull" }
+      ],
+      explanation: "Ewing Sarcoma presents with a characteristic 'onion-skin' periosteal reaction, typically in the diaphysis (shaft) of long bones."
     }
   ],
-  "flashcards": [
-    { "front": "What is the pathognomonic marker for **lymphoblasts** (ALL)?", "back": "**TdT+**.", "tag": "Pathology" },
-    { "front": "What is the classic translocation for **Ewing Sarcoma**?", "back": "**t(11;22)**.", "tag": "Pathology" },
-    { "front": "Which abdominal tumor **crosses the midline** in a child?", "back": "**Neuroblastoma**.", "tag": "Diagnosis" },
-    { "front": "What do **Birbeck granules** look like and what do they indicate?", "back": "Tennis rackets; **Langerhans Cell Histiocytosis**.", "tag": "Pathology" },
-    { "front": "What is the **WAGR** acronym?", "back": "**W**ilms tumor, **A**niridia, **G**enitourinary anomalies, **R**etardation.", "tag": "OB" },
-    { "front": "What is the 'good' prognosis translocation in childhood B-ALL?", "back": "**t(12;21)**.", "tag": "Pathology" }
+  flashcards: [
+    { front: "What is the **Physiologic Nadir**?", back: "A normal drop in Hb occurring around 6-8 weeks of age.", tag: "Pediatrics" },
+    { front: "Which leukemia is associated with Down Syndrome **under age 5**?", back: "**AML (M7)**.", tag: "Oncology" },
+    { front: "What is the hallmark of **Diamond-Blackfan Anemia**?", back: "Pure red cell aplasia + **Triphalangeal Thumbs**.", tag: "Hematology" },
+    { front: "What are the markers for **ALL**?", back: "**TdT+** and **CD10+**.", tag: "Oncology" },
+    { front: "Which bone tumor is associated with **t(11;22)**?", back: "**Ewing Sarcoma**.", tag: "Oncology" }
   ],
-  "pearls": [
-    { "title": "Neuroblastoma vs Wilms", "content": "Neuroblastoma: Crosses midline, Raccoon eyes, VMA/HVA in urine. Wilms: Does NOT cross midline, associated with Beckwith-Wiedemann (big tongue/big body)." },
-    { "title": "T-ALL Mnemonic", "content": "**T**eens, **T**hymic mass, **T**-cell markers (CD3, etc.)." },
-    { "title": "Onion vs Sunburst", "content": "**Ewing** = Onion skin (Diaphysis). **Osteosarcoma** = Sunburst/Codman (Metaphysis)." },
-    { "title": "Birbeck Rackets", "content": "If you see 'tennis rackets' on an exam, it's Histiocytosis X (Langerhans)." }
+  pearls: [
+    { title: "The 'Cross' Rule", content: "Neuroblastoma **crosses** the midline. Wilms tumor **stays** on its side." },
+    { title: "Reticulocyte Count Logic", content: "If the child is anemic: High Retic = Loss/Destruction. Low Retic = Production failure." },
+    { title: "Dancing Eyes", content: "Opsoclonus-myoclonus syndrome is a high-yield 'look-out' for occult Neuroblastoma." },
+    { title: "Osteo vs Ewing", content: "Osteosarcoma = Sunburst (Metaphysis). Ewing = Onion-skin (Diaphysis)." }
   ]
 });

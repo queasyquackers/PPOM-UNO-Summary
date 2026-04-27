@@ -1151,7 +1151,7 @@ window.receiveLectureIndex([
     "module": "Hematology",
     "tags": "Lecture #149",
     "path": "content/json/l149.file.js",
-    "readingTime": "15-20 min"
+    "readingTime": "10-15 min"
   },
   {
     "id": "l150",
@@ -1167,7 +1167,7 @@ window.receiveLectureIndex([
     "module": "Hematology",
     "tags": "Lecture #151",
     "path": "content/json/l151.file.js",
-    "readingTime": "12-15 min"
+    "readingTime": "10-15 min"
   },
   {
     "id": "l152",
@@ -1175,7 +1175,7 @@ window.receiveLectureIndex([
     "module": "Hematology",
     "tags": "Lecture #152",
     "path": "content/json/l152.file.js",
-    "readingTime": "12-15 min"
+    "readingTime": "10-15 min"
   },
   {
     "id": "l153",
@@ -1183,23 +1183,23 @@ window.receiveLectureIndex([
     "module": "Pharmacology",
     "tags": "Lecture #153",
     "path": "content/json/l153.file.js",
-    "readingTime": "12-15 min"
+    "readingTime": "10-15 min"
   },
   {
     "id": "l154",
-    "title": "Lecture 154: Study Sheet: Leukemias, Lymphomas, Hemorrhage, and Thrombosis",
+    "title": "Lecture 154: Pathology: Leukemias, Lymphomas, and Plasma Cell Neoplasms",
     "module": "Pathology",
     "tags": "Lecture #154",
     "path": "content/json/l154.file.js",
-    "readingTime": "15-20 min"
+    "readingTime": "10-15 min"
   },
   {
     "id": "l155",
-    "title": "Lecture 155: Pathology of Hemorrhage and Thrombosis",
+    "title": "Lecture 155: Pathology: Hemorrhage and Thrombosis",
     "module": "Pathology",
     "tags": "Lecture #155",
     "path": "content/json/l155.file.js",
-    "readingTime": "12-15 min"
+    "readingTime": "10-15 min"
   },
   {
     "id": "l156",
@@ -1207,7 +1207,7 @@ window.receiveLectureIndex([
     "module": "Pharmacology",
     "tags": "Lecture #156",
     "path": "content/json/l156.file.js",
-    "readingTime": "15-20 min"
+    "readingTime": "10-15 min"
   },
   {
     "id": "l157",
@@ -1215,7 +1215,7 @@ window.receiveLectureIndex([
     "module": "Pharmacology",
     "tags": "Lecture #157",
     "path": "content/json/l157.file.js",
-    "readingTime": "15-20 min"
+    "readingTime": "10-15 min"
   },
   {
     "id": "l158",
@@ -1223,7 +1223,7 @@ window.receiveLectureIndex([
     "module": "Hematology",
     "tags": "Lecture #158",
     "path": "content/json/l158.file.js",
-    "readingTime": "15-20 min"
+    "readingTime": "10-15 min"
   },
   {
     "id": "l159",
@@ -1231,7 +1231,7 @@ window.receiveLectureIndex([
     "module": "Clinical Medicine",
     "tags": "Lecture #159",
     "path": "content/json/l159.file.js",
-    "readingTime": "15-20 min"
+    "readingTime": "10-15 min"
   },
   {
     "id": "l160",
@@ -1247,7 +1247,7 @@ window.receiveLectureIndex([
     "module": "Hematology",
     "tags": "Lecture #161",
     "path": "content/json/l161.file.js",
-    "readingTime": "15-20 min"
+    "readingTime": "10-15 min"
   },
   {
     "id": "l162",
@@ -1255,7 +1255,7 @@ window.receiveLectureIndex([
     "module": "Hematology",
     "tags": "Lecture #162",
     "path": "content/json/l162.file.js",
-    "readingTime": "15-20 min"
+    "readingTime": "10-15 min"
   },
   {
     "id": "l163",
@@ -1263,7 +1263,7 @@ window.receiveLectureIndex([
     "module": "Hematology",
     "tags": "Lecture #163",
     "path": "content/json/l163.file.js",
-    "readingTime": "15-20 min"
+    "readingTime": "10-15 min"
   },
   {
     "id": "l164",
@@ -1271,7 +1271,7 @@ window.receiveLectureIndex([
     "module": "Hematology",
     "tags": "Lecture #164",
     "path": "content/json/l164.file.js",
-    "readingTime": "15-20 min"
+    "readingTime": "10-15 min"
   },
   {
     "id": "l165",
@@ -1279,7 +1279,7 @@ window.receiveLectureIndex([
     "module": "Hematology",
     "tags": "Lecture #165",
     "path": "content/json/l165.file.js",
-    "readingTime": "15-20 min"
+    "readingTime": "10-15 min"
   },
   {
     "id": "l166",
@@ -1287,7 +1287,7 @@ window.receiveLectureIndex([
     "module": "Hematology",
     "tags": "Lecture #166",
     "path": "content/json/l166.file.js",
-    "readingTime": "15-20 min"
+    "readingTime": "10-15 min"
   },
   {
     "id": "l167",
@@ -1295,7 +1295,7 @@ window.receiveLectureIndex([
     "module": "Hematology",
     "tags": "Lecture #167",
     "path": "content/json/l167.file.js",
-    "readingTime": "15-20 min"
+    "readingTime": "10-15 min"
   },
   {
     "id": "l168",
@@ -1303,7 +1303,7 @@ window.receiveLectureIndex([
     "module": "Hematology",
     "tags": "Lecture #168",
     "path": "content/json/l168.file.js",
-    "readingTime": "15-20 min"
+    "readingTime": "10-15 min"
   },
   {
     "id": "l169",
@@ -1311,7 +1311,7 @@ window.receiveLectureIndex([
     "module": "Hematology",
     "tags": "Lecture #169",
     "path": "content/json/l169.file.js",
-    "readingTime": "15-20 min"
+    "readingTime": "10-15 min"
   },
   {
     "id": "l170",
