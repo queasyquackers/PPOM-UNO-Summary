@@ -1352,6 +1352,14 @@ window.receiveLectureIndex([
     "tags": "Lecture #173",
     "path": "content/json/l173.file.js",
     "readingTime": "13-16 min"
+  },
+  {
+    "id": "l174",
+    "title": "Lecture #174: Histology of Skin Part 1 (Epidermis, Dermis, Hypodermis)",
+    "module": "Histology",
+    "tags": "Lecture #174",
+    "path": "content/json/l174.file.js",
+    "readingTime": "11-13 min"
   }
 ]);
 
