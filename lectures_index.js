@@ -1392,6 +1392,14 @@ window.receiveLectureIndex([
     "tags": "Lecture #178",
     "path": "content/json/l178.file.js",
     "readingTime": "13-16 min"
+  },
+  {
+    "id": "l179",
+    "title": "Lecture #179: DPR — History and Physical Exam of the Integumentary System",
+    "module": "DPR",
+    "tags": "Lecture #179",
+    "path": "content/json/l179.file.js",
+    "readingTime": "11-13 min"
   }
 ]);
 
