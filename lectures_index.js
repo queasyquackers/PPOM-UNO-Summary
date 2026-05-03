@@ -1368,6 +1368,14 @@ window.receiveLectureIndex([
     "tags": "Lecture #175",
     "path": "content/json/l175.file.js",
     "readingTime": "11-13 min"
+  },
+  {
+    "id": "l176",
+    "title": "Lecture #176: Microbiology of Skin and Mucous Membrane Infections",
+    "module": "Microbiology",
+    "tags": "Lecture #176",
+    "path": "content/json/l176.file.js",
+    "readingTime": "11-13 min"
   }
 ]);
 
