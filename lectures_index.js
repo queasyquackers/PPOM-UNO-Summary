@@ -1328,6 +1328,14 @@ window.receiveLectureIndex([
     "tags": "Lecture #171a",
     "path": "content/json/l171a.file.js",
     "readingTime": "6-8 min"
+  },
+  {
+    "id": "l171b",
+    "title": "Lecture #171b: Billing and Coding for OMT",
+    "module": "OMM",
+    "tags": "Lecture #171b",
+    "path": "content/json/l171b.file.js",
+    "readingTime": "10-13 min"
   }
 ]);
 
