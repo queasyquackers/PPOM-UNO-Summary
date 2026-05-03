@@ -12,10 +12,21 @@ let completedLectures = new Set(); // Track completed IDs
 let activeRecall = false; // Active Recall Mode State
 let pendingResolvers = new Map(); // Registry for pending lecture loads
 let currentBlock = null; // Block filter state for sidebar
+let lectureTabMemory = {}; // { lectureId: tabName } — last tab viewed per lecture
+
+function loadLectureTabMemory() {
+  try {
+    const saved = localStorage.getItem('onepass_tab_memory');
+    if (saved) lectureTabMemory = JSON.parse(saved) || {};
+  } catch (_) { lectureTabMemory = {}; }
+}
+function saveLectureTabMemory() {
+  try { localStorage.setItem('onepass_tab_memory', JSON.stringify(lectureTabMemory)); } catch (_) {}
+}
 
 // Block Categorization System
 const BLOCKS = {
-  neuro: { name: "Neuroscience", shortName: "NEURO", range: "L1a – L46", color: "#2C3E6B", darkColor: "#7B93DB", start: 1, end: 46 },
+  neuro: { name: "Neurology", shortName: "NEURO", range: "L1a – L46", color: "#2C3E6B", darkColor: "#7B93DB", start: 1, end: 46 },
   psych: { name: "Psychiatry", shortName: "PSYCH", range: "L47 – L96", color: "#7B4B7A", darkColor: "#C68BC5", start: 47, end: 96 },
   msk:   { name: "MSK", shortName: "MSK", range: "L97 – L147", color: "#2D6A4F", darkColor: "#6BBF8A", start: 97, end: 147 },
   heme:  { name: "Heme-Onc", shortName: "HEME", range: "L148 – L192", color: "#8B1A1A", darkColor: "#E05555", start: 148, end: 192 },
@@ -42,11 +53,14 @@ function openBlock(blockKey) {
   renderLectureList(document.getElementById("searchInput").value);
   // Scroll lecture list to top
   document.getElementById("lectureList").scrollTop = 0;
+  // Re-render welcome page so the lead block swaps to whichever block was clicked
+  updateWelcomeMessage();
 }
 
 function clearBlockFilter() {
   currentBlock = null;
   renderLectureList(document.getElementById("searchInput").value);
+  updateWelcomeMessage();
 }
 
 // Global callback for lectures that use the window.receiveLectureContent(data) format
@@ -93,6 +107,7 @@ document.addEventListener("DOMContentLoaded", async function () {
 
   // Load Progress
   loadProgress();
+  loadLectureTabMemory();
 
   // Load Lecture Index
   await loadLectureIndex();
@@ -246,12 +261,6 @@ function toggleLectureComplete(id) {
     completedLectures.delete(id);
   } else {
     completedLectures.add(id);
-    // Confetti!
-    const btn = document.getElementById("markCompleteBtn");
-    if (btn) {
-      // Trigger Rain Effect from Top
-      createConfetti(undefined, undefined, true);
-    }
   }
   saveProgress();
   updateCompleteButton();
@@ -523,29 +532,21 @@ function setupEventListeners() {
   document.getElementById("searchInput").addEventListener("input", (e) => {
     debouncedSearch(e.target.value);
   });
-  document.getElementById("darkModeToggle").addEventListener("click", (e) => {
-    createRipple(e);
-    toggleDarkMode();
-  });
-  document.getElementById("tocToggle").addEventListener("click", (e) => {
-    createRipple(e);
-    toggleTableOfContents();
-  });
-  document.getElementById("sidebarToggle").addEventListener("click", (e) => {
-    createRipple(e);
-    toggleSidebar();
-  });
+  document.getElementById("darkModeToggle")?.addEventListener("click", () => toggleDarkMode());
+  document.getElementById("tocToggle").addEventListener("click", () => toggleTableOfContents());
+  document.getElementById("sidebarToggle").addEventListener("click", () => toggleSidebar());
   document.getElementById("closeLecture").addEventListener("click", () => {
     closeLecture();
   });
+  document.getElementById("prevLectureBtn")?.addEventListener("click", () => goToAdjacentLecture(-1));
+  document.getElementById("nextLectureBtn")?.addEventListener("click", () => goToAdjacentLecture(1));
   document.getElementById("backToTop").addEventListener("click", () => {
     document
       .getElementById("contentScroll")
       .scrollTo({ top: 0, behavior: "smooth" });
   });
   document.querySelectorAll(".tab-btn").forEach((btn) => {
-    btn.addEventListener("click", function (e) {
-      createRipple(e);
+    btn.addEventListener("click", function () {
       switchTab(this.dataset.tab);
     });
   });
@@ -639,6 +640,16 @@ function setupKeyboardShortcuts() {
       // Toggle Complete Shortcut (C)
       if ((e.key === "c" || e.key === "C") && document.activeElement.tagName !== 'INPUT') {
         toggleLectureComplete(selectedLecture.id);
+      }
+
+      // Prev/Next lecture (J = prev, K = next, vim-style)
+      if ((e.key === "j" || e.key === "J") && document.activeElement.tagName !== 'INPUT') {
+        e.preventDefault();
+        goToAdjacentLecture(-1);
+      }
+      if ((e.key === "k" || e.key === "K") && document.activeElement.tagName !== 'INPUT') {
+        e.preventDefault();
+        goToAdjacentLecture(1);
       }
     }
   });
@@ -879,8 +890,8 @@ function renderLectureList(searchQuery = "") {
     });
   }
 
-  // Block filter
-  if (currentBlock && !query) {
+  // Block filter — applies even when searching, so users can search within a block
+  if (currentBlock) {
     const block = BLOCKS[currentBlock];
     if (block) {
       filtered = filtered.filter(lec => {
@@ -936,7 +947,35 @@ function renderLectureList(searchQuery = "") {
     </button>`;
   });
 
+  // Empty-state when filter/search yields nothing
+  if (filtered.length === 0) {
+    const hasQuery = !!query;
+    const hasBlock = !!currentBlock;
+    const blockName = hasBlock ? BLOCKS[currentBlock]?.name : "";
+    let hint = "";
+    if (hasQuery && hasBlock) {
+      hint = `No matches for <span class="font-bold text-claude-text dark:text-dark-text">"${query}"</span> in ${blockName}.`;
+    } else if (hasQuery) {
+      hint = `No matches for <span class="font-bold text-claude-text dark:text-dark-text">"${query}"</span>.`;
+    } else if (hasBlock) {
+      hint = `${blockName} has no lectures yet.`;
+    } else {
+      hint = `No lectures available.`;
+    }
+    html += `
+      <div class="px-3 py-8 text-center font-sans">
+        <div class="text-xs uppercase tracking-[0.2em] text-claude-muted dark:text-dark-muted mb-3">${hint}</div>
+        <div class="flex flex-col gap-2 items-center text-[11px]">
+          ${hasQuery ? `<button onclick="document.getElementById('searchInput').value=''; renderLectureList('');" class="underline decoration-1 underline-offset-2 text-claude-accent dark:text-dark-accent hover:opacity-80">Clear search</button>` : ''}
+          ${hasBlock ? `<button onclick="clearBlockFilter()" class="underline decoration-1 underline-offset-2 text-claude-accent dark:text-dark-accent hover:opacity-80">Show all blocks</button>` : ''}
+        </div>
+      </div>`;
+  }
+
   document.getElementById("lectureList").innerHTML = html;
+
+  // Refresh prev/next button enabled state since visible order may have changed
+  updatePrevNextButtons();
 
   // Update Counts
   const completedCount = [...completedLectures].filter(id => lectures.find(l => l.id === id)).length;
@@ -951,6 +990,102 @@ function renderLectureList(searchQuery = "") {
         </div>
     </div>
   `;
+}
+
+// Returns the lecture IDs currently visible in the sidebar (in display order),
+// so prev/next navigation mirrors whatever filter the user is looking at.
+function getVisibleLectureIds() {
+  const buttons = document.querySelectorAll('#lectureList button[onclick^="selectLecture("]');
+  const ids = [];
+  buttons.forEach(btn => {
+    const m = btn.getAttribute('onclick').match(/selectLecture\('([^']+)'\)/);
+    if (m) ids.push(m[1]);
+  });
+  return ids;
+}
+
+function goToAdjacentLecture(direction) {
+  if (!selectedLecture) return;
+  const ids = getVisibleLectureIds();
+  if (ids.length === 0) return;
+  const idx = ids.indexOf(selectedLecture.id);
+  if (idx === -1) return;
+  const nextIdx = idx + direction;
+  if (nextIdx < 0 || nextIdx >= ids.length) return;
+  selectLecture(ids[nextIdx]);
+}
+
+function appendEndOfSummary(contentDiv) {
+  if (!selectedLecture || !contentDiv) return;
+
+  const currentBlockInfo = getBlockInfo(selectedLecture.id);
+  if (!currentBlockInfo) return;
+  const blockColor = isDark ? currentBlockInfo.darkColor : currentBlockInfo.color;
+
+  // Find the next 3 unread lectures in the same block (excluding the current one)
+  const moreInBlock = lectures
+    .filter(l => {
+      if (l.id === selectedLecture.id) return false;
+      const bi = getBlockInfo(l.id);
+      return bi && bi.key === currentBlockInfo.key && !completedLectures.has(l.id);
+    })
+    .slice(0, 3);
+
+  // If no unread, fall back to the next 3 lectures in block by ID order
+  const moreItems = moreInBlock.length > 0 ? moreInBlock : lectures
+    .filter(l => {
+      if (l.id === selectedLecture.id) return false;
+      const bi = getBlockInfo(l.id);
+      return bi && bi.key === currentBlockInfo.key;
+    })
+    .slice(0, 3);
+
+  const footer = document.createElement("div");
+  footer.className = "mt-16";
+  footer.innerHTML = `
+    <div class="end-of-summary">End of summary</div>
+    ${moreItems.length > 0 ? `
+      <div class="mt-10 pt-6 border-t-2" style="border-color: ${blockColor}">
+        <div class="flex items-baseline gap-3 mb-5">
+          <span class="text-[10px] font-sans font-bold uppercase tracking-[0.3em]" style="color: ${blockColor}">More in ${currentBlockInfo.shortName}</span>
+          <span class="flex-1 h-px bg-claude-border dark:bg-dark-border"></span>
+          <button onclick="openBlock('${currentBlockInfo.key}'); closeLecture();" class="text-[10px] font-sans uppercase tracking-[0.25em] text-claude-muted dark:text-dark-muted hover:text-claude-text dark:hover:text-dark-text">View block →</button>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+          ${moreItems.map((l, i) => `
+            <button onclick="selectLecture('${l.id}')" class="group text-left">
+              <div class="flex items-baseline gap-2 mb-2">
+                <span class="masthead-wordmark opacity-40 leading-none text-xl" style="color: ${blockColor}">${String(i + 1).padStart(2, '0')}</span>
+                <span class="flex-1 h-[1px]" style="background: ${blockColor}; opacity: 0.4"></span>
+                <span class="text-[10px] font-mono font-bold tracking-wider opacity-70" style="color: ${blockColor}">${(l.id || "").toUpperCase()}</span>
+              </div>
+              <h4 class="font-display font-bold text-lg leading-tight text-claude-text dark:text-dark-text group-hover:underline decoration-1 underline-offset-4 mb-1" style="text-decoration-color: ${blockColor}">${l.title}</h4>
+              <div class="text-[10px] font-sans uppercase tracking-[0.2em] text-claude-muted dark:text-dark-muted">${l.module || ""} &nbsp;·&nbsp; ${l.readingTime || 5}m</div>
+            </button>
+          `).join('')}
+        </div>
+        <div class="text-center mt-6 text-[10px] font-sans uppercase tracking-[0.25em] text-claude-muted dark:text-dark-muted">Press <kbd class="border border-claude-border dark:border-dark-border px-1.5 py-0.5 normal-case tracking-normal">K</kbd> for the next lecture</div>
+      </div>
+    ` : `
+      <p class="text-center text-[10px] font-sans uppercase tracking-[0.3em] text-claude-muted dark:text-dark-muted mt-6">You have reached the end of this block.</p>
+    `}
+  `;
+  contentDiv.appendChild(footer);
+}
+
+function updatePrevNextButtons() {
+  const prev = document.getElementById('prevLectureBtn');
+  const next = document.getElementById('nextLectureBtn');
+  if (!prev || !next) return;
+  if (!selectedLecture) {
+    prev.disabled = true;
+    next.disabled = true;
+    return;
+  }
+  const ids = getVisibleLectureIds();
+  const idx = ids.indexOf(selectedLecture.id);
+  prev.disabled = idx <= 0;
+  next.disabled = idx === -1 || idx >= ids.length - 1;
 }
 
 async function selectLecture(id) {
@@ -974,8 +1109,28 @@ async function selectLecture(id) {
   const moduleEl = document.getElementById("lectureModule");
   if (moduleEl) moduleEl.textContent = meta.module;
 
+  // Block kicker (color-coded category tag at top of lecture) + giant L## hero
+  const blockTagEl = document.getElementById("lectureBlockTag");
+  const kickerRule = document.getElementById("lectureKickerRule");
+  const heroEl = document.getElementById("lectureIdHero");
+  const blockMeta = getBlockInfo(id);
+  if (blockMeta) {
+    const blockColor = isDark ? blockMeta.darkColor : blockMeta.color;
+    if (blockTagEl) {
+      blockTagEl.textContent = `${blockMeta.shortName} · ${blockMeta.name}`;
+      blockTagEl.style.color = blockColor;
+    }
+    if (kickerRule) kickerRule.style.background = blockColor;
+    if (heroEl) {
+      heroEl.textContent = (meta.id || "").toUpperCase();
+      heroEl.style.color = blockColor;
+    }
+    document.documentElement.style.setProperty('--block-color', blockColor);
+  }
+
   // Highlight selection in sidebar immediately
   selectedLecture = meta;
+  try { localStorage.setItem("onepass_last_lecture", id); } catch (_) {}
   renderLectureList(document.getElementById("searchInput").value);
 
   // Show Skeleton/Loading State
@@ -993,6 +1148,17 @@ async function selectLecture(id) {
 
   // Update selectedLecture with full data
   selectedLecture = fullData;
+
+  // Restore the user's last tab for this lecture (if any), so each lecture
+  // remembers whether the user was in Summary, Questions, Flashcards, etc.
+  const remembered = lectureTabMemory[id];
+  if (remembered && remembered !== activeTab) {
+    activeTab = remembered;
+    document.querySelectorAll(".tab-btn").forEach((btn) => {
+      if (btn.dataset.tab === remembered) btn.dataset.active = "true";
+      else delete btn.dataset.active;
+    });
+  }
 
   // Set block color CSS variable for dynamic theming
   const blockInfo = getBlockInfo(id);
@@ -1022,6 +1188,7 @@ async function selectLecture(id) {
 
 
   updateCompleteButton(); // Update checkbox state
+  updatePrevNextButtons();
 
 
   // Update URL state
@@ -1042,44 +1209,13 @@ async function selectLecture(id) {
 
 function renderSkeleton() {
   const contentDiv = document.getElementById("tabContent");
-  const isDark = document.documentElement.classList.contains("dark");
-  const bgClass = isDark ? "bg-dark-surface" : "bg-claude-border";
-
-  // Create a shimmer effect with multiple random-width lines
-  let html = `
-        <div class="max-w-4xl mx-auto p-8 animate-pulse space-y-8">
-            <!-- Header Skeleton -->
-            <div class="space-y-4">
-                <div class="h-8 ${bgClass} rounded-lg w-3/4"></div>
-                <div class="h-4 ${bgClass} rounded w-1/4"></div>
-            </div>
-            
-            <!-- Content Blocks -->
-            <div class="space-y-3">
-                <div class="h-4 ${bgClass} rounded w-full"></div>
-                <div class="h-4 ${bgClass} rounded w-5/6"></div>
-                <div class="h-4 ${bgClass} rounded w-full"></div>
-                <div class="h-4 ${bgClass} rounded w-4/5"></div>
-            </div>
-            
-             <!-- Content Blocks -->
-            <div class="space-y-3">
-                <div class="h-4 ${bgClass} rounded w-11/12"></div>
-                <div class="h-4 ${bgClass} rounded w-full"></div>
-                <div class="h-4 ${bgClass} rounded w-3/4"></div>
-            </div>
-            
-            <!-- Image/Table placeholder -->
-            <div class="h-64 ${bgClass} rounded-xl w-full"></div>
-            
-             <div class="space-y-3">
-                <div class="h-4 ${bgClass} rounded w-full"></div>
-                <div class="h-4 ${bgClass} rounded w-5/6"></div>
-            </div>
-        </div>
-    `;
-
-  contentDiv.innerHTML = html;
+  contentDiv.innerHTML = `
+    <div class="flex flex-col items-center justify-center py-32 font-sans uppercase tracking-[0.3em] text-[10px] text-claude-muted dark:text-dark-muted">
+      <div class="w-8 h-px bg-claude-muted dark:bg-dark-muted mb-3 opacity-60"></div>
+      Loading
+      <div class="w-8 h-px bg-claude-muted dark:bg-dark-muted mt-3 opacity-60"></div>
+    </div>
+  `;
 }
 
 function updateCompleteButton() {
@@ -1121,6 +1257,8 @@ function closeLecture() {
   document.getElementById("welcomeScreen").classList.remove("hidden");
   document.getElementById("lectureContent").classList.add("hidden");
   renderLectureList(document.getElementById("searchInput").value);
+  // Refresh welcome page so lead block + Continue reading reflect latest activity
+  updateWelcomeMessage();
 
   // Clear URL
   const newUrl = new URL(window.location);
@@ -1132,8 +1270,11 @@ function closeLecture() {
 function switchTab(tab) {
   activeTab = tab;
 
-  // Update URL if lecture is selected
+  // Update URL + per-lecture tab memory if a lecture is selected
   if (selectedLecture) {
+    lectureTabMemory[selectedLecture.id] = tab;
+    saveLectureTabMemory();
+
     const newUrl = new URL(window.location);
     newUrl.searchParams.set("lecture", selectedLecture.id);
     newUrl.searchParams.set("tab", tab);
@@ -1312,6 +1453,9 @@ function renderTabContent() {
       tocDiv.classList.remove("hidden");
       tocDiv.style.display = ""; // Restore css class behavior
       try { highlightSearchTerms(); } catch (e) { console.warn("Highlight error:", e); }
+
+      // End-of-summary editorial mark + Next lecture pointer
+      appendEndOfSummary(contentDiv);
     } else if (activeTab === "questions") {
       const questions = selectedLecture.questions;
 
@@ -1519,10 +1663,6 @@ function renderTabContent() {
               btn.innerHTML =
                 '<span>Hide Answer</span><svg class="w-4 h-4 rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>';
               btn.classList.add("bg-gray-100", "dark:bg-white/10");
-
-              // Confetti effect!
-              const rect = btn.getBoundingClientRect();
-              createConfetti(rect.left + rect.width / 2, rect.top);
             } else {
               el.classList.add("hidden");
               btn.innerHTML =
@@ -2612,53 +2752,291 @@ function renderMarkdown(html) {
 }
 
 function updateWelcomeMessage() {
-  const msg =
-    lectures.length > 0
-      ? lectures.length +
-      " lecture" +
-      (lectures.length !== 1 ? "s" : "") +
-      " · Select one to begin reading"
-      : "No lectures loaded. Ensure lectures_data.js exists.";
-  document.getElementById("welcomeMessage").textContent = msg;
+  const totalCompleted = [...completedLectures].filter(id => lectures.find(l => l.id === id)).length;
+  const overallPct = lectures.length ? Math.round((totalCompleted / lectures.length) * 100) : 0;
 
-  // Render Block Cards
-  const cardsDiv = document.getElementById("welcomeBlockCards");
-  if (cardsDiv) {
-    let cardsHtml = "";
-    Object.entries(BLOCKS).forEach(([key, block]) => {
-      const blockLectures = lectures.filter(l => {
-        const bi = getBlockInfo(l.id);
-        return bi && bi.key === key;
-      });
-      const completed = blockLectures.filter(l => completedLectures.has(l.id)).length;
-      const total = blockLectures.length;
-      const pct = total > 0 ? Math.round((completed / total) * 100) : 0;
-      const color = isDark ? block.darkColor : block.color;
+  const msg = lectures.length > 0
+    ? `${lectures.length} lectures · ${overallPct}% read`
+    : "No lectures loaded";
+  const msgEl = document.getElementById("welcomeMessage");
+  if (msgEl) msgEl.textContent = msg;
 
-      cardsHtml += `
-        <button onclick="openBlock('${key}')" class="group text-left p-6 border editorial-border bg-claude-surface dark:bg-dark-surface shadow-sm hover:shadow-md transition-all duration-200 hover:-translate-y-0.5" style="border-top: 4px solid ${color}">
-          <div class="text-xs font-bold uppercase tracking-wider font-sans mb-1" style="color: ${color}">${block.shortName}</div>
-          <div class="text-sm font-display text-claude-text dark:text-dark-text mb-2">${block.name}</div>
-          <div class="text-[10px] text-claude-muted dark:text-dark-muted font-sans">${block.range}</div>
-          <div class="mt-2 w-full h-1 bg-claude-border dark:bg-dark-border rounded-full overflow-hidden">
-            <div class="h-full rounded-full transition-all duration-500" style="width: ${pct}%; background: ${color}"></div>
-          </div>
-          <div class="text-[10px] text-claude-muted dark:text-dark-muted font-sans mt-2 uppercase tracking-widest">${pct}% · ${completed}/${total}</div>
-        </button>`;
+  // Issue / date in masthead
+  const issueEl = document.getElementById("mastheadIssue");
+  const dateEl = document.getElementById("mastheadDate");
+  const now = new Date();
+  if (issueEl) issueEl.textContent = `Vol. I · No. ${now.getFullYear() - 2024}`;
+  if (dateEl) {
+    const months = ["January","February","March","April","May","June","July","August","September","October","November","December"];
+    dateEl.textContent = `${months[now.getMonth()]} ${now.getFullYear()}`;
+  }
+
+  // Compute per-block stats
+  const blockStats = Object.entries(BLOCKS).map(([key, block]) => {
+    const blockLectures = lectures.filter(l => {
+      const bi = getBlockInfo(l.id);
+      return bi && bi.key === key;
     });
-    cardsDiv.innerHTML = cardsHtml;
+    const completed = blockLectures.filter(l => completedLectures.has(l.id)).length;
+    const total = blockLectures.length;
+    const pct = total > 0 ? Math.round((completed / total) * 100) : 0;
+    const color = isDark ? block.darkColor : block.color;
+    return { key, block, completed, total, pct, color };
+  });
+
+  // Pick the "lead" block:
+  //   1. Currently-selected block (clicking any block in the nav or cards swaps the lead live)
+  //   2. Block of the last-viewed lecture
+  //   3. Most-progressed in-progress block
+  //   4. First block
+  const leadHintId = localStorage.getItem("onepass_last_lecture");
+  const leadHintBlock = leadHintId ? getBlockInfo(leadHintId) : null;
+  const inProgress = blockStats.filter(b => b.completed > 0 && b.completed < b.total);
+  let lead = blockStats[0];
+  if (currentBlock) {
+    const fromCurrent = blockStats.find(b => b.key === currentBlock);
+    if (fromCurrent) lead = fromCurrent;
+  } else if (leadHintBlock) {
+    const fromLast = blockStats.find(b => b.key === leadHintBlock.key);
+    if (fromLast) lead = fromLast;
+  } else if (inProgress.length > 0) {
+    lead = inProgress.reduce((a, b) => a.pct > b.pct ? a : b);
+  }
+  const others = blockStats.filter(b => b.key !== lead.key);
+
+  // Helper: next unread lectures within a block
+  const upNextInBlock = (key, limit) => lectures
+    .filter(l => {
+      const bi = getBlockInfo(l.id);
+      return bi && bi.key === key && !completedLectures.has(l.id);
+    })
+    .slice(0, limit);
+  const leadUpNext = upNextInBlock(lead.key, 4);
+
+  // Block nav strip — active block gets an underline in its color
+  const navEl = document.getElementById("welcomeBlockNav");
+  if (navEl) {
+    const navHtml = blockStats.map((b, i) => {
+      const isActive = b.key === lead.key;
+      const activeStyle = isActive
+        ? `border-bottom: 2px solid ${b.color}; padding-bottom: 2px;`
+        : '';
+      return `
+        <button onclick="openBlock('${b.key}')" class="hover:opacity-70 transition-opacity" style="color: ${b.color}; ${activeStyle}">${b.block.shortName}</button>
+        ${i < blockStats.length - 1 ? '<span class="text-claude-border dark:text-dark-border">·</span>' : ''}
+      `;
+    }).join('');
+    navEl.innerHTML = `
+      <button onclick="document.getElementById('searchInput').focus()" class="text-claude-text dark:text-dark-text hover:opacity-70 transition-opacity">Latest</button>
+      <span class="text-claude-border dark:text-dark-border">·</span>
+      ${navHtml}
+    `;
   }
 
-  // Add Footer
-  const welcomeScreen = document.getElementById("welcomeScreen");
-  if (welcomeScreen && !document.getElementById("qh-footer")) {
-    const footer = document.createElement("div");
-    footer.id = "qh-footer";
-    footer.className =
-      "absolute bottom-4 text-xs font-sans opacity-40 tracking-widest uppercase text-claude-muted dark:text-dark-muted";
-    footer.textContent = "Created by QH";
-    welcomeScreen.appendChild(footer);
+  // Continue reading — strictly the LAST LECTURE the user opened, with a Resume button.
+  // Distinct in purpose from the Lead block (which is a block-level entry point).
+  const continueEl = document.getElementById("continueReading");
+  const lastId = localStorage.getItem("onepass_last_lecture");
+  const lastMeta = lastId ? lectures.find(l => l.id === lastId) : null;
+  if (continueEl) {
+    if (lastMeta) {
+      const lastBlock = getBlockInfo(lastMeta.id);
+      const lbColor = lastBlock ? (isDark ? lastBlock.darkColor : lastBlock.color) : "#D97757";
+      const lastTab = (lectureTabMemory && lectureTabMemory[lastId]) || "summary";
+      const tabLabel = lastTab.charAt(0).toUpperCase() + lastTab.slice(1).replace("-", " ");
+      const isComplete = completedLectures.has(lastMeta.id);
+      continueEl.classList.remove("hidden");
+      continueEl.innerHTML = `
+        <div class="flex items-center gap-3 mb-3">
+          <span class="text-[10px] font-sans font-bold uppercase tracking-[0.3em]" style="color: ${lbColor}">Pick up where you left off</span>
+          <span class="flex-1 h-px" style="background: ${lbColor}; opacity: 0.4;"></span>
+          <span class="text-[10px] font-sans uppercase tracking-[0.25em] text-claude-muted dark:text-dark-muted">${isComplete ? 'Completed' : 'In progress'} · ${tabLabel}</span>
+        </div>
+        <div class="grid md:grid-cols-[auto_1fr_auto] gap-4 md:gap-6 items-center">
+          <div class="masthead-wordmark text-claude-muted dark:text-dark-muted leading-none" style="font-size: clamp(2.25rem, 4.5vw, 3.5rem); color: ${lbColor}; opacity: 0.85;">${(lastMeta.id || "").toUpperCase()}</div>
+          <button onclick="selectLecture('${lastMeta.id}')" class="group text-left">
+            <div class="text-[10px] font-sans uppercase tracking-[0.25em] mb-1" style="color: ${lbColor}">${lastMeta.module || ''}</div>
+            <h3 class="font-display font-bold text-xl md:text-2xl leading-tight text-claude-text dark:text-dark-text group-hover:underline decoration-1 underline-offset-4" style="text-decoration-color: ${lbColor}">${lastMeta.title}</h3>
+          </button>
+          <button onclick="selectLecture('${lastMeta.id}')" class="hidden md:flex items-center gap-2 text-[11px] font-sans uppercase tracking-[0.25em] border border-claude-text dark:border-dark-text px-4 py-2 hover:bg-claude-text hover:text-claude-bg dark:hover:bg-dark-text dark:hover:text-dark-bg transition-colors">
+            Resume
+            <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
+          </button>
+        </div>
+      `;
+    } else {
+      continueEl.classList.add("hidden");
+      continueEl.innerHTML = "";
+    }
   }
+
+  // Lead + 3-up
+  const cardsDiv = document.getElementById("welcomeBlockCards");
+  if (!cardsDiv) return;
+
+  const leadStatus = lead.completed === 0 ? "Not started"
+    : lead.completed === lead.total ? "Complete"
+    : "In progress";
+
+  // Roman numerals for the secondary cards
+  const roman = ["II", "III", "IV", "V"];
+
+  // Block initial for the lead card visual anchor (e.g. "N" for Neurology)
+  const leadInitial = (lead.block.name || "?").charAt(0).toUpperCase();
+
+  cardsDiv.innerHTML = `
+    <!-- Lead block: editorial article card with giant initial visual anchor -->
+    <div class="mb-10 md:mb-12">
+      <!-- Issue numeral for this lead (matches Roman numerals on secondaries) -->
+      <div class="flex items-baseline gap-3 mb-3">
+        <span class="masthead-wordmark opacity-30 leading-none text-3xl" style="color: ${lead.color}">I</span>
+        <span class="flex-1 h-[2px]" style="background: ${lead.color}"></span>
+      </div>
+      <div class="grid md:grid-cols-[1fr_auto] gap-6 md:gap-10 items-start mb-6">
+        <button onclick="openBlock('${lead.key}')" class="group text-left">
+          <div class="flex items-center gap-3 mb-3">
+            <span class="text-[10px] font-sans font-bold uppercase tracking-[0.3em]" style="color: ${lead.color}">Lead Block · ${lead.block.shortName}</span>
+            <span class="flex-1 h-px" style="background: ${lead.color}; opacity: 0.4;"></span>
+            <span class="text-[10px] font-sans uppercase tracking-[0.25em] text-claude-muted dark:text-dark-muted">${leadStatus}</span>
+          </div>
+          <h2 class="masthead-wordmark leading-[1.0] text-claude-text dark:text-dark-text mb-3 group-hover:underline decoration-1 underline-offset-[6px]" style="font-size: clamp(2.5rem, 6vw, 4.5rem); text-decoration-color: ${lead.color};">
+            ${lead.block.name}
+          </h2>
+          <p class="font-serif italic text-base md:text-lg text-claude-muted dark:text-dark-muted leading-snug max-w-prose mb-4">
+            ${lead.block.range} &nbsp;·&nbsp; ${lead.total} lecture${lead.total !== 1 ? 's' : ''}.
+            ${lead.completed > 0 ? `You have read ${lead.completed} of ${lead.total}.` : 'Begin the block whenever you are ready.'}
+          </p>
+          <!-- Inline progress (replaces sidebar) -->
+          <div class="flex items-baseline gap-4 max-w-md">
+            <span class="font-display font-bold leading-none" style="font-size: clamp(2rem, 3.5vw, 3rem); color: ${lead.color}">${lead.pct}<span class="text-xl">%</span></span>
+            <div class="flex-1">
+              <div class="w-full h-[2px] bg-claude-border dark:bg-dark-border overflow-hidden mb-1">
+                <div class="h-full transition-all duration-500" style="width: ${lead.pct}%; background: ${lead.color}"></div>
+              </div>
+              <div class="text-[10px] font-sans uppercase tracking-[0.25em] text-claude-muted dark:text-dark-muted">${lead.completed} of ${lead.total} read</div>
+            </div>
+          </div>
+        </button>
+        <!-- Giant block initial as visual anchor -->
+        <button onclick="openBlock('${lead.key}')" class="hidden md:block self-stretch flex items-center justify-center px-2" aria-label="Open ${lead.block.name} block">
+          <div class="masthead-wordmark leading-none select-none" style="font-size: clamp(8rem, 18vw, 16rem); color: ${lead.color}; line-height: 0.85;">${leadInitial}</div>
+        </button>
+      </div>
+
+      ${leadUpNext.length > 0 ? `
+        <div class="border-t border-claude-border dark:border-dark-border pt-5">
+          <div class="flex items-baseline gap-3 mb-3">
+            <span class="text-[10px] font-sans font-bold uppercase tracking-[0.3em]" style="color: ${lead.color}">Up Next in ${lead.block.shortName}</span>
+            <span class="flex-1 h-px bg-claude-border dark:bg-dark-border"></span>
+            <button onclick="openBlock('${lead.key}')" class="text-[10px] font-sans uppercase tracking-[0.25em] text-claude-muted dark:text-dark-muted hover:text-claude-text dark:hover:text-dark-text">View all →</button>
+          </div>
+          <div class="grid md:grid-cols-2 gap-x-8 gap-y-1.5">
+            ${leadUpNext.map(l => `
+              <button onclick="selectLecture('${l.id}')" class="group text-left flex items-baseline gap-3 py-1.5 border-b border-claude-border/50 dark:border-dark-border/50 hover:border-claude-text dark:hover:border-dark-text transition-colors">
+                <span class="text-[10px] font-mono font-bold tracking-wider w-9 shrink-0" style="color: ${lead.color}">${(l.id || "").toUpperCase()}</span>
+                <span class="flex-1 font-serif text-sm text-claude-text dark:text-dark-text leading-snug truncate group-hover:underline decoration-1 underline-offset-2">${l.title}</span>
+                <span class="text-[10px] font-sans text-claude-muted dark:text-dark-muted opacity-70 shrink-0">${l.readingTime || 5}m</span>
+              </button>
+            `).join('')}
+          </div>
+        </div>
+      ` : ''}
+    </div>
+
+    <!-- Section divider -->
+    <div class="flex items-baseline gap-3 mb-5">
+      <span class="text-[10px] font-sans font-bold uppercase tracking-[0.3em] text-claude-text dark:text-dark-text">Also in this issue</span>
+      <span class="flex-1 h-px bg-claude-border dark:bg-dark-border"></span>
+    </div>
+
+    <!-- 3-up secondary blocks with sample lectures -->
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-8">
+      ${others.map((o, i) => {
+        const sampleLectures = upNextInBlock(o.key, 2);
+        return `
+        <div class="flex flex-col">
+          <button onclick="openBlock('${o.key}')" class="group text-left transition-all duration-200">
+            <div class="flex items-baseline gap-3 mb-2">
+              <span class="masthead-wordmark opacity-30 leading-none text-2xl" style="color: ${o.color}">${roman[i] || ''}</span>
+              <span class="flex-1 h-[2px]" style="background: ${o.color}"></span>
+            </div>
+            <div class="text-[10px] font-sans font-bold uppercase tracking-[0.3em] mb-1.5" style="color: ${o.color}">${o.block.shortName}</div>
+            <h3 class="font-display font-bold text-2xl leading-[1.1] text-claude-text dark:text-dark-text mb-2 group-hover:underline decoration-1 underline-offset-4">${o.block.name}</h3>
+            <p class="font-serif italic text-xs text-claude-muted dark:text-dark-muted mb-3">${o.block.range} &nbsp;·&nbsp; ${o.total} lectures</p>
+          </button>
+          ${sampleLectures.length > 0 ? `
+            <div class="space-y-1.5 mb-3 flex-1">
+              ${sampleLectures.map(l => `
+                <button onclick="selectLecture('${l.id}')" class="group text-left w-full flex items-baseline gap-2 py-1 border-t border-claude-border/50 dark:border-dark-border/50 hover:border-claude-text dark:hover:border-dark-text transition-colors">
+                  <span class="text-[9px] font-mono font-bold tracking-wider w-7 shrink-0 opacity-60" style="color: ${o.color}">${(l.id || "").toUpperCase()}</span>
+                  <span class="flex-1 font-serif text-[13px] text-claude-text dark:text-dark-text leading-tight truncate group-hover:underline decoration-1 underline-offset-2">${l.title}</span>
+                </button>
+              `).join('')}
+            </div>
+          ` : '<div class="flex-1"></div>'}
+          <button onclick="openBlock('${o.key}')" class="text-left">
+            <div class="w-full h-[1px] bg-claude-border dark:bg-dark-border overflow-hidden">
+              <div class="h-full transition-all duration-500" style="height: 2px; width: ${o.pct}%; background: ${o.color}"></div>
+            </div>
+            <div class="text-[10px] font-sans uppercase tracking-[0.25em] text-claude-muted dark:text-dark-muted mt-2">${o.pct}% &nbsp;·&nbsp; ${o.completed} of ${o.total}</div>
+          </button>
+        </div>
+      `}).join('')}
+    </div>
+
+    <!-- Full curriculum index -->
+    <section class="mt-14 pt-8 border-t-2 border-claude-text dark:border-dark-text">
+      <div class="flex items-baseline gap-3 mb-6">
+        <span class="text-[10px] font-sans font-bold uppercase tracking-[0.3em] text-claude-text dark:text-dark-text">Index</span>
+        <span class="text-[10px] font-sans uppercase tracking-[0.25em] text-claude-muted dark:text-dark-muted">Full curriculum</span>
+        <span class="flex-1 h-px bg-claude-border dark:bg-dark-border"></span>
+        <span class="text-[10px] font-sans uppercase tracking-[0.25em] text-claude-muted dark:text-dark-muted">${lectures.length} lectures</span>
+      </div>
+      <div class="grid grid-cols-2 md:grid-cols-4 gap-x-6 gap-y-6">
+        ${blockStats.map(b => {
+          const blockLectures = lectures.filter(l => {
+            const bi = getBlockInfo(l.id);
+            return bi && bi.key === b.key;
+          });
+          return `
+            <div>
+              <div class="flex items-baseline gap-2 mb-2 pb-2 border-b" style="border-color: ${b.color}">
+                <span class="text-[10px] font-sans font-bold uppercase tracking-[0.25em]" style="color: ${b.color}">${b.block.shortName}</span>
+                <span class="text-[10px] font-sans uppercase tracking-[0.2em] text-claude-muted dark:text-dark-muted ml-auto">${b.completed}/${b.total}</span>
+              </div>
+              <div class="flex flex-col">
+                ${blockLectures.map(l => {
+                  const isComplete = completedLectures.has(l.id);
+                  return `
+                    <button onclick="selectLecture('${l.id}')" class="group text-left flex items-baseline gap-2 py-0.5 hover:bg-claude-surface/50 dark:hover:bg-dark-surface/30 -mx-1 px-1 transition-colors ${isComplete ? 'opacity-50' : ''}">
+                      <span class="text-[10px] font-mono font-bold tracking-wider w-9 shrink-0" style="color: ${b.color}">${(l.id || "").toUpperCase()}</span>
+                      <span class="flex-1 font-serif text-[12px] leading-tight text-claude-text dark:text-dark-text truncate group-hover:underline decoration-1 underline-offset-2">${l.title}</span>
+                      ${isComplete ? `<svg class="w-2.5 h-2.5 shrink-0 opacity-60" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M5 13l4 4L19 7"/></svg>` : ''}
+                    </button>
+                  `;
+                }).join('')}
+              </div>
+            </div>
+          `;
+        }).join('')}
+      </div>
+    </section>
+
+    <!-- Colophon footer -->
+    <footer class="mt-12 pt-6 border-t-2 border-claude-text dark:border-dark-text">
+      <div class="flex flex-wrap items-center justify-between gap-4 text-[10px] font-sans uppercase tracking-[0.3em] text-claude-muted dark:text-dark-muted mb-3">
+        <span>OnePass · A Curriculum Reader</span>
+        <span>Created by QH</span>
+      </div>
+      <div class="flex flex-wrap items-center gap-x-6 gap-y-2 text-[10px] font-sans uppercase tracking-[0.25em] text-claude-muted dark:text-dark-muted">
+        <span class="flex items-center gap-1.5"><kbd class="border border-claude-border dark:border-dark-border px-1.5 py-0.5 normal-case tracking-normal">/</kbd> Search</span>
+        <span class="flex items-center gap-1.5"><kbd class="border border-claude-border dark:border-dark-border px-1.5 py-0.5 normal-case tracking-normal">J</kbd><kbd class="border border-claude-border dark:border-dark-border px-1.5 py-0.5 normal-case tracking-normal">K</kbd> Prev / Next lecture</span>
+        <span class="flex items-center gap-1.5"><kbd class="border border-claude-border dark:border-dark-border px-1.5 py-0.5 normal-case tracking-normal">[</kbd> Toggle sidebar</span>
+        <span class="flex items-center gap-1.5"><kbd class="border border-claude-border dark:border-dark-border px-1.5 py-0.5 normal-case tracking-normal">C</kbd> Mark complete</span>
+        <span class="flex items-center gap-1.5"><kbd class="border border-claude-border dark:border-dark-border px-1.5 py-0.5 normal-case tracking-normal">Esc</kbd> Close</span>
+      </div>
+    </footer>
+  `;
 }
 
 // New function renderMindMapTree added here (Global Scope)
@@ -2948,6 +3326,23 @@ function setupPearlbookModal() {
   function openModal() {
     if (!selectedLecture) return;
 
+    // Color-contextualize the Pearlbook header to match the active block
+    const blockMeta = getBlockInfo(selectedLecture.id);
+    if (blockMeta) {
+      const blockColor = isDark ? blockMeta.darkColor : blockMeta.color;
+      const kicker = document.getElementById('pearlbookKicker');
+      const rule = document.getElementById('pearlbookKickerRule');
+      const accent = document.getElementById('pearlbookAccent');
+      if (kicker) {
+        kicker.style.color = blockColor;
+        kicker.textContent = `${blockMeta.shortName} · Pull-out`;
+      }
+      if (rule) rule.style.background = blockColor;
+      if (accent) accent.style.color = blockColor;
+    }
+    const lectureNameEl = document.getElementById('pearlbookLectureName');
+    if (lectureNameEl) lectureNameEl.textContent = selectedLecture.title || '';
+
     renderPearlbookContent();
     modal.classList.remove('hidden');
     requestAnimationFrame(() => {
@@ -2984,36 +3379,26 @@ function setupPearlbookModal() {
     }
 
     const pearlsContainer = document.createElement("div");
-    pearlsContainer.className = "grid grid-cols-1 gap-6";
+    pearlsContainer.className = "flex flex-col gap-8";
+
+    const blockMeta = selectedLecture ? getBlockInfo(selectedLecture.id) : null;
+    const blockColor = blockMeta ? (isDark ? blockMeta.darkColor : blockMeta.color) : (isDark ? "#E8956D" : "#D97757");
 
     pearls.forEach((pearl, index) => {
       const pearlCard = document.createElement("div");
-      pearlCard.className = `p-6 rounded-2xl border transition-all duration-300 ${isDark
-        ? "bg-dark-bg/50 border-dark-border hover:border-dark-accent/50"
-        : "bg-white border-claude-border/10 hover:border-claude-accent/30"
-        } shadow-sm hover:shadow-md animate-in`;
-      pearlCard.style.animationDelay = `${index * 50}ms`;
+      pearlCard.className = `pb-8 ${index < pearls.length - 1 ? 'border-b border-claude-border dark:border-dark-border' : ''}`;
 
       const renderedContent = typeof renderMarkdown === "function"
         ? renderMarkdown(pearl.content)
         : pearl.content;
 
       pearlCard.innerHTML = `
-                <div class="flex items-start gap-4">
-                    <div class="shrink-0 w-10 h-10 rounded-full flex items-center justify-center ${isDark
-          ? "bg-dark-accent/10 text-dark-accent"
-          : "bg-orange-500/10 text-orange-600"
-        }">
-                        <span class="font-bold font-sans text-lg">${index + 1}</span>
-                    </div>
-                    <div class="flex-1">
-                        <h3 class="text-lg font-bold mb-2 font-sans ${isDark ? "text-dark-text" : "text-claude-text"
-        }">${pearl.title}</h3>
-                        <div class="prose dark:prose-invert max-w-none text-base leading-relaxed ${isDark ? "text-dark-muted" : "text-claude-text"
-        }">
-                            ${renderedContent}
-                        </div>
-                    </div>
+                <div class="flex items-baseline gap-4 mb-3">
+                    <span class="font-display font-bold text-3xl leading-none" style="color: ${blockColor}">${String(index + 1).padStart(2, '0')}</span>
+                    <h3 class="flex-1 font-display font-bold text-xl md:text-2xl leading-tight ${isDark ? "text-dark-text" : "text-claude-text"}">${pearl.title}</h3>
+                </div>
+                <div class="prose dark:prose-invert max-w-none text-base leading-relaxed pl-12 ${isDark ? "text-dark-muted" : "text-claude-text"}">
+                    ${renderedContent}
                 </div>
             `;
       pearlsContainer.appendChild(pearlCard);
