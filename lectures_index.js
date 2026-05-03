@@ -1408,6 +1408,14 @@ window.receiveLectureIndex([
     "tags": "Lecture #180",
     "path": "content/json/l180.file.js",
     "readingTime": "12-15 min"
+  },
+  {
+    "id": "l181",
+    "title": "Lecture #181: Non-Neoplastic Skin Pathology",
+    "module": "Pathology",
+    "tags": "Lecture #181",
+    "path": "content/json/l181.file.js",
+    "readingTime": "13-16 min"
   }
 ]);
 
