@@ -1185,11 +1185,11 @@ window.receiveLectureIndex([
   },
   {
     "id": "l155",
-    "title": "Lecture 155: Pathology: Hemorrhage and Thrombosis",
+    "title": "Lecture #155: Pathology of Lymphomas and Plasma Cell Neoplasms",
     "module": "Pathology",
     "tags": "Lecture #155",
     "path": "content/json/l155.file.js",
-    "readingTime": 4
+    "readingTime": 9
   },
   {
     "id": "l156",

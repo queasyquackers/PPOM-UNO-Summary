@@ -68,10 +68,13 @@ function generateIndex() {
                     lectureData.pearls.forEach(p => fullText += `${p.title} ${p.content} `);
                 }
 
+                // Fall back to metadata.* for files that put title/module
+                // inside a metadata block (e.g. L155 format).
+                const meta = lectureData.metadata || {};
                 searchIndex.push({
-                    id: lectureData.id,
-                    title: lectureData.title || "Untitled",
-                    module: lectureData.module || "Unknown",
+                    id: lectureData.id || meta.id,
+                    title: lectureData.title || meta.title || "Untitled",
+                    module: lectureData.module || meta.module || "Unknown",
                     content: fullText.replace(/\s+/g, ' ').replace(/"/g, "'").trim() // Normalize whitespace and quotes
                 });
             } else {
@@ -82,11 +85,12 @@ function generateIndex() {
         }
     }
 
-    // Sort index by ID (natural sort)
+    // Sort index by ID (natural sort) — coerce to string and tolerate
+    // entries without an id field instead of crashing the whole build.
     searchIndex.sort((a, b) => {
-        const idA = a.id.replace(/\D/g, '');
-        const idB = b.id.replace(/\D/g, '');
-        return parseInt(idA || 0) - parseInt(idB || 0);
+        const idA = String(a && a.id != null ? a.id : '').replace(/\D/g, '');
+        const idB = String(b && b.id != null ? b.id : '').replace(/\D/g, '');
+        return parseInt(idA || '0', 10) - parseInt(idB || '0', 10);
     });
 
     console.log(`Generated index with ${searchIndex.length} entries.`);
