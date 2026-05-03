@@ -32,6 +32,15 @@ const BLOCKS = {
   heme:  { name: "Heme-Onc", shortName: "HEME", range: "L148 – L192", color: "#8B1A1A", darkColor: "#E05555", start: 148, end: 192 },
 };
 
+// Strip the "Lecture #XYZ:" prefix from titles before display.
+// The L## hero / sidebar tag already conveys the lecture number, so the prefix
+// is redundant in user-visible contexts. Search and data matching still use the
+// full title (so "L170" or "Lecture #170" will still find the right row).
+function displayTitle(title) {
+  if (!title) return '';
+  return title.replace(/^Lecture\s*#[^:]+:\s*/i, '');
+}
+
 function getBlockInfo(id) {
   if (!id) return null;
   const numMatch = id.replace(/^l/i, "").match(/(\d+)/);
@@ -940,7 +949,7 @@ function renderLectureList(searchQuery = "") {
               ${lec.readingTime || 5} min
             </div>
           </div>
-          <div class="${isActive ? 'font-bold' : 'font-medium'} text-sm text-claude-text dark:text-dark-text leading-snug font-display">${lec.title}</div>
+          <div class="${isActive ? 'font-bold' : 'font-medium'} text-sm text-claude-text dark:text-dark-text leading-snug font-display">${displayTitle(lec.title)}</div>
         </div>
         ${isComplete ? `<div class="ml-2 flex-shrink-0 text-claude-success dark:text-green-400"><svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg></div>` : ''}
       </div>
@@ -1059,7 +1068,7 @@ function appendEndOfSummary(contentDiv) {
                 <span class="flex-1 h-[1px]" style="background: ${blockColor}; opacity: 0.4"></span>
                 <span class="text-[10px] font-mono font-bold tracking-wider opacity-70" style="color: ${blockColor}">${(l.id || "").toUpperCase()}</span>
               </div>
-              <h4 class="font-display font-bold text-lg leading-tight text-claude-text dark:text-dark-text group-hover:underline decoration-1 underline-offset-4 mb-1" style="text-decoration-color: ${blockColor}">${l.title}</h4>
+              <h4 class="font-display font-bold text-lg leading-tight text-claude-text dark:text-dark-text group-hover:underline decoration-1 underline-offset-4 mb-1" style="text-decoration-color: ${blockColor}">${displayTitle(l.title)}</h4>
               <div class="text-[10px] font-sans uppercase tracking-[0.2em] text-claude-muted dark:text-dark-muted">${l.module || ""} &nbsp;·&nbsp; ${l.readingTime || 5}m</div>
             </button>
           `).join('')}
@@ -1104,7 +1113,7 @@ async function selectLecture(id) {
 
   // Set Title/Module immediately from metadata
   const titleEl = document.getElementById("lectureTitle");
-  if (titleEl) titleEl.textContent = meta.title;
+  if (titleEl) titleEl.textContent = displayTitle(meta.title);
 
   const moduleEl = document.getElementById("lectureModule");
   if (moduleEl) moduleEl.textContent = meta.module;
@@ -2863,7 +2872,7 @@ function updateWelcomeMessage() {
           <div class="masthead-wordmark text-claude-muted dark:text-dark-muted leading-none" style="font-size: clamp(2.25rem, 4.5vw, 3.5rem); color: ${lbColor}; opacity: 0.85;">${(lastMeta.id || "").toUpperCase()}</div>
           <button onclick="selectLecture('${lastMeta.id}')" class="group text-left">
             <div class="text-[10px] font-sans uppercase tracking-[0.25em] mb-1" style="color: ${lbColor}">${lastMeta.module || ''}</div>
-            <h3 class="font-display font-bold text-xl md:text-2xl leading-tight text-claude-text dark:text-dark-text group-hover:underline decoration-1 underline-offset-4" style="text-decoration-color: ${lbColor}">${lastMeta.title}</h3>
+            <h3 class="font-display font-bold text-xl md:text-2xl leading-tight text-claude-text dark:text-dark-text group-hover:underline decoration-1 underline-offset-4" style="text-decoration-color: ${lbColor}">${displayTitle(lastMeta.title)}</h3>
           </button>
           <button onclick="selectLecture('${lastMeta.id}')" class="hidden md:flex items-center gap-2 text-[11px] font-sans uppercase tracking-[0.25em] border border-claude-text dark:border-dark-text px-4 py-2 hover:bg-claude-text hover:text-claude-bg dark:hover:bg-dark-text dark:hover:text-dark-bg transition-colors">
             Resume
@@ -2941,7 +2950,7 @@ function updateWelcomeMessage() {
             ${leadUpNext.map(l => `
               <button onclick="selectLecture('${l.id}')" class="group text-left flex items-baseline gap-3 py-1.5 border-b border-claude-border/50 dark:border-dark-border/50 hover:border-claude-text dark:hover:border-dark-text transition-colors">
                 <span class="text-[10px] font-mono font-bold tracking-wider w-9 shrink-0" style="color: ${lead.color}">${(l.id || "").toUpperCase()}</span>
-                <span class="flex-1 font-serif text-sm text-claude-text dark:text-dark-text leading-snug truncate group-hover:underline decoration-1 underline-offset-2">${l.title}</span>
+                <span class="flex-1 font-serif text-sm text-claude-text dark:text-dark-text leading-snug truncate group-hover:underline decoration-1 underline-offset-2">${displayTitle(l.title)}</span>
                 <span class="text-[10px] font-sans text-claude-muted dark:text-dark-muted opacity-70 shrink-0">${l.readingTime || 5}m</span>
               </button>
             `).join('')}
@@ -2976,7 +2985,7 @@ function updateWelcomeMessage() {
               ${sampleLectures.map(l => `
                 <button onclick="selectLecture('${l.id}')" class="group text-left w-full flex items-baseline gap-2 py-1 border-t border-claude-border/50 dark:border-dark-border/50 hover:border-claude-text dark:hover:border-dark-text transition-colors">
                   <span class="text-[9px] font-mono font-bold tracking-wider w-7 shrink-0 opacity-60" style="color: ${o.color}">${(l.id || "").toUpperCase()}</span>
-                  <span class="flex-1 font-serif text-[13px] text-claude-text dark:text-dark-text leading-tight truncate group-hover:underline decoration-1 underline-offset-2">${l.title}</span>
+                  <span class="flex-1 font-serif text-[13px] text-claude-text dark:text-dark-text leading-tight truncate group-hover:underline decoration-1 underline-offset-2">${displayTitle(l.title)}</span>
                 </button>
               `).join('')}
             </div>
@@ -3017,7 +3026,7 @@ function updateWelcomeMessage() {
                   return `
                     <button onclick="selectLecture('${l.id}')" class="group text-left flex items-baseline gap-2 py-0.5 hover:bg-claude-surface/50 dark:hover:bg-dark-surface/30 -mx-1 px-1 transition-colors ${isComplete ? 'opacity-50' : ''}">
                       <span class="text-[10px] font-mono font-bold tracking-wider w-9 shrink-0" style="color: ${b.color}">${(l.id || "").toUpperCase()}</span>
-                      <span class="flex-1 font-serif text-[12px] leading-tight text-claude-text dark:text-dark-text truncate group-hover:underline decoration-1 underline-offset-2">${l.title}</span>
+                      <span class="flex-1 font-serif text-[12px] leading-tight text-claude-text dark:text-dark-text truncate group-hover:underline decoration-1 underline-offset-2">${displayTitle(l.title)}</span>
                       ${isComplete ? `<svg class="w-2.5 h-2.5 shrink-0 opacity-60" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M5 13l4 4L19 7"/></svg>` : ''}
                     </button>
                   `;
@@ -3348,7 +3357,7 @@ function setupPearlbookModal() {
       if (accent) accent.style.color = blockColor;
     }
     const lectureNameEl = document.getElementById('pearlbookLectureName');
-    if (lectureNameEl) lectureNameEl.textContent = selectedLecture.title || '';
+    if (lectureNameEl) lectureNameEl.textContent = displayTitle(selectedLecture.title);
 
     renderPearlbookContent();
     modal.classList.remove('hidden');
