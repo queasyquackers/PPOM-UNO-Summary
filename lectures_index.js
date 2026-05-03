@@ -1384,6 +1384,14 @@ window.receiveLectureIndex([
     "tags": "Lecture #177",
     "path": "content/json/l177.file.js",
     "readingTime": "13-16 min"
+  },
+  {
+    "id": "l178",
+    "title": "Lecture #178: Pharmacology of Antifungal Agents",
+    "module": "Pharmacology",
+    "tags": "Lecture #178",
+    "path": "content/json/l178.file.js",
+    "readingTime": "13-16 min"
   }
 ]);
 
