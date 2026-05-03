@@ -38,7 +38,8 @@ const BLOCKS = {
 // full title (so "L170" or "Lecture #170" will still find the right row).
 function displayTitle(title) {
   if (!title) return '';
-  return title.replace(/^Lecture\s*#[^:]+:\s*/i, '');
+  // Strips both "Lecture #N:" and "Lecture N:" prefixes (with or without #)
+  return title.replace(/^Lecture\s*#?\s*[^:]+:\s*/i, '');
 }
 
 function getBlockInfo(id) {
