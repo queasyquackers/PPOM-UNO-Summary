@@ -182,57 +182,62 @@ The lever-length distinction is a frequent exam point—remember the directions 
     {
       question: "A second-year medical student is performing the HISTWIP technique on a patient with a dropped right cuboid. The patient is prone with the right leg dropped off the table. Where should the student place the thumbs immediately before the thrust?",
       options: [
-        { text: "On the dorsum of the foot, over the talus" },
-        { text: "On the plantar surface of the foot in a V-shape over the cuboid", isCorrect: true },
-        { text: "On the anterior surface of the proximal fibular head" },
-        { text: "On the medial malleolus, with both hands stacked" },
-        { text: "Around the calcaneus, with fingers interlaced" }
+        "On the dorsum of the foot, over the talus",
+        "On the plantar surface of the foot in a V-shape over the cuboid",
+        "On the anterior surface of the proximal fibular head",
+        "On the medial malleolus, with both hands stacked",
+        "Around the calcaneus, with fingers interlaced"
       ],
-      explanation: "The HISTWIP technique uses a V-shape thumb placement on the plantar surface of the foot directly over the dropped tarsal (cuboid, navicular, or cuneiform). The thrust is delivered downward through the thumbs simultaneously with a whip-like action at the ankle and knee."
+      correctAnswer: 1,
+      rationale: "The HISTWIP technique uses a V-shape thumb placement on the plantar surface of the foot directly over the dropped tarsal (cuboid, navicular, or cuneiform). The thrust is delivered downward through the thumbs simultaneously with a whip-like action at the ankle and knee."
     },
     {
       question: "A patient is diagnosed with a posterior tibia on talus somatic dysfunction. The physician positions the patient supine, wraps both hands around the foot with fingers interlaced on the dorsum, and uses thumb pressure at the ball of the foot to dorsiflex to the motion barrier. What is the next step?",
       options: [
-        { text: "Deliver a downward thrust on the proximal tibia" },
-        { text: "Apply a medial thrust through the talus" },
-        { text: "Deliver a tractional thrust while increasing dorsiflexion", isCorrect: true },
-        { text: "Internally rotate the ankle and thrust posteriorly" },
-        { text: "Externally rotate the foot and thrust toward the buttock" }
+        "Deliver a downward thrust on the proximal tibia",
+        "Apply a medial thrust through the talus",
+        "Deliver a tractional thrust while increasing dorsiflexion",
+        "Internally rotate the ankle and thrust posteriorly",
+        "Externally rotate the foot and thrust toward the buttock"
       ],
-      explanation: "For a posterior tibia on talus, after engaging the dorsiflexion barrier, the physician applies traction along the long axis of the leg and delivers a tractional thrust while continuing to increase dorsiflexion. This restores anterior glide of the tibia on the talus."
+      correctAnswer: 2,
+      rationale: "For a posterior tibia on talus, after engaging the dorsiflexion barrier, the physician applies traction along the long axis of the leg and delivers a tractional thrust while continuing to increase dorsiflexion. This restores anterior glide of the tibia on the talus."
     },
     {
       question: "Which of the following best describes the mechanical setup for the HVLA treatment of a left posterior fibular head?",
       options: [
-        { text: "Short lever; internal rotation of the ankle; thrust posteriorly into the table" },
-        { text: "Short lever; downward thrust on the proximal tibia with calcaneal traction" },
-        { text: "Long lever; external rotation of the foot; thrust toward the buttock against an MCP wedge", isCorrect: true },
-        { text: "Long lever; supine patient; tractional thrust along the leg" },
-        { text: "Short lever; thumbs in a V on the plantar surface; whip action at the ankle" }
+        "Short lever; internal rotation of the ankle; thrust posteriorly into the table",
+        "Short lever; downward thrust on the proximal tibia with calcaneal traction",
+        "Long lever; external rotation of the foot; thrust toward the buttock against an MCP wedge",
+        "Long lever; supine patient; tractional thrust along the leg",
+        "Short lever; thumbs in a V on the plantar surface; whip action at the ankle"
       ],
-      explanation: "Posterior fibular head HVLA uses a long lever fulcrum with the patient prone and knee flexed at 90 degrees. The MCP of the cephalad index finger creates a wedge fulcrum behind the fibular head; the foot is externally rotated and the thrust is directed toward the patient's buttock. Anterior fibular head HVLA, by contrast, is a short lever technique with internal rotation and a posterior thrust."
+      correctAnswer: 2,
+      rationale: "Posterior fibular head HVLA uses a long lever fulcrum with the patient prone and knee flexed at 90 degrees. The MCP of the cephalad index finger creates a wedge fulcrum behind the fibular head; the foot is externally rotated and the thrust is directed toward the patient's buttock. Anterior fibular head HVLA, by contrast, is a short lever technique with internal rotation and a posterior thrust."
     },
     {
       question: "During HVLA treatment for a posterior tibia on femur dysfunction, the physician places the dorsum of the patient's foot on the anterior medial aspect of his shoulder before grasping the proximal tibia. Why is this foot position critical?",
       options: [
-        { text: "It dorsiflexes the foot to engage the ankle barrier" },
-        { text: "It induces plantar flexion to take tension off the gastrocnemius", isCorrect: true },
-        { text: "It everts the foot to mobilize the cuboid simultaneously" },
-        { text: "It internally rotates the tibia to align the joint surfaces" },
-        { text: "It compresses the popliteal fossa to numb the area" }
+        "It dorsiflexes the foot to engage the ankle barrier",
+        "It induces plantar flexion to take tension off the gastrocnemius",
+        "It everts the foot to mobilize the cuboid simultaneously",
+        "It internally rotates the tibia to align the joint surfaces",
+        "It compresses the popliteal fossa to numb the area"
       ],
-      explanation: "Resting the dorsum of the foot on the physician's shoulder induces plantar flexion of the foot, which slackens the gastrocnemius. A tense gastrocnemius would block the posterior-to-anterior thrust on the proximal tibia. Patient relaxation is a recurring theme across all the lower extremity HVLA techniques."
+      correctAnswer: 1,
+      rationale: "Resting the dorsum of the foot on the physician's shoulder induces plantar flexion of the foot, which slackens the gastrocnemius. A tense gastrocnemius would block the posterior-to-anterior thrust on the proximal tibia. Patient relaxation is a recurring theme across all the lower extremity HVLA techniques."
     },
     {
       question: "A physician completes an HVLA technique for an anterior tibia on talus dysfunction with no audible cavitation. What should the physician do next?",
       options: [
-        { text: "Repeat the HVLA thrust immediately with greater force" },
-        { text: "Reassess tibial glide and ankle range of motion to determine effectiveness", isCorrect: true },
-        { text: "Switch to muscle energy without reassessing" },
-        { text: "Document the lack of cavitation as treatment failure and proceed to the next joint" },
-        { text: "Apply a long lever fulcrum across the tibia" }
+        "Repeat the HVLA thrust immediately with greater force",
+        "Reassess tibial glide and ankle range of motion to determine effectiveness",
+        "Switch to muscle energy without reassessing",
+        "Document the lack of cavitation as treatment failure and proceed to the next joint",
+        "Apply a long lever fulcrum across the tibia"
       ],
-      explanation: "Reassessment is mandatory after every HVLA technique, regardless of whether a cavitation was heard. The audible 'pop' is not the goal—restoration of motion and resolution of the somatic dysfunction is. Repeating HVLA without reassessing or escalating force is not appropriate; if the dysfunction persists, an alternative technique (e.g., muscle energy) is reasonable."
+      correctAnswer: 1,
+      rationale: "Reassessment is mandatory after every HVLA technique, regardless of whether a cavitation was heard. The audible 'pop' is not the goal—restoration of motion and resolution of the somatic dysfunction is. Repeating HVLA without reassessing or escalating force is not appropriate; if the dysfunction persists, an alternative technique (e.g., muscle energy) is reasonable."
     }
   ],
   flashcards: [
