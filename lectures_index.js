@@ -1376,6 +1376,14 @@ window.receiveLectureIndex([
     "tags": "Lecture #176",
     "path": "content/json/l176.file.js",
     "readingTime": "11-13 min"
+  },
+  {
+    "id": "l177",
+    "title": "Lecture #177: Microbiology of Zoonotic Infections",
+    "module": "Microbiology",
+    "tags": "Lecture #177",
+    "path": "content/json/l177.file.js",
+    "readingTime": "13-16 min"
   }
 ]);
 
