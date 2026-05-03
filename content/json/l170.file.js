@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l170",
+  module: "DPR",
   metadata: {
     title: "Behavioral Medicine: The Patient Encounter",
     lecturer: "L. Hoffman, Ph.D. (Session 170)",

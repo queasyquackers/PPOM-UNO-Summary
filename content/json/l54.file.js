@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l54",
+  module: "Neuro",
     "id": "l54",
     "title": "Lecture 54: Aphasia and Common Strokes",
     "module": "Neurology",

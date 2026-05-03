@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l62",
+  module: "Neuro",
     "id": "l62",
     "title": "Lecture #62: Brachial Plexus Lesions and Neuropathies",
     "lecturer": "Matthew Mihlbachler, Ph.D.",

@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l113",
+  module: "Unknown",
     "id": "l113",
     "title": "Lecture #113: Imaging of the MSK System",
     "lecturer": "J. Mazzie, D.O.",

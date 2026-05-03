@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l106",
+  module: "Unknown",
     "id": "l106",
     "title": "Lecture #106: Pathology of Soft Tissue",
     "lecturer": "W. Zaloga, D.O.",

@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l153",
+  module: "Neuro",
   "metadata": {
     "id": "l153",
     "title": "Pharmacology of Anemias",

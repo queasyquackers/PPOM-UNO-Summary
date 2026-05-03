@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l103",
+  module: "Neuro",
     "id": "l103",
     "title": "Lecture #103: Pathology of Skeletal Muscle",
     "lecturer": "W. Zaloga, D.O.",

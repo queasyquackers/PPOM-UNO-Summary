@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l68",
+  module: "Neuro",
     "id": "l68",
     "title": "Lecture #68: Physiology: Drug Addiction",
     "lecturer": "G. Otazu, Ph.D.",

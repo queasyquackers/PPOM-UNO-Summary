@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l57",
+  module: "Neuro",
     "id": "l57",
     "title": "Lecture 57: Parkinson's Disease and its Variants",
     "module": "Neurology",

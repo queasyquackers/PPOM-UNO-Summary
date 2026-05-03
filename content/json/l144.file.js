@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l144",
+  module: "Neuro",
   "metadata": {
     "id": "l144",
     "title": "Pharmacology Immunosuppressants Part 2",

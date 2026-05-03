@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l156",
+  module: "Neuro",
   metadata: {
     title: "Pharmacology of Antineoplastic Agents 1",
     lecturer: "L. Goldstein, Pharm.D. (Session 156)",

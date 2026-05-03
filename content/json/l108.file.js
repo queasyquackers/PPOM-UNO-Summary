@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l108",
+  module: "OMM",
     "id": "l108",
     "title": "Lecture #108: DPR: History and Physical Exam of the Shoulder and Elbow",
     "lecturer": "A. Coladner, D.O.",

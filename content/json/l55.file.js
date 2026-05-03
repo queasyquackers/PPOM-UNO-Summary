@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l55",
+  module: "Neuro",
     "id": "l55",
     "title": "Lecture 55: Cerebrovascular Diseases",
     "module": "Neurology",

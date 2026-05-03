@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l25",
+  module: "Neuro",
   "id": "l25",
   "title": "Lecture 25: Limbic System - Neuroanatomy, Regional Function and Limbic Pathology",
   "lecturer": "Jennifer Xie, Ph.D.",

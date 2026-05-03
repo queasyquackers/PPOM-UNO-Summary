@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l112",
+  module: "Neuro",
     "id": "l112",
     "title": "Lecture #112: Orthopedic Concerns of the Spine",
     "lecturer": "M. Heller, D.O.",

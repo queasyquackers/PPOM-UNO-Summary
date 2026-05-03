@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l158",
+  module: "Unknown",
   metadata: {
     title: "Pathology: Hemostasis",
     lecturer: "E. Petcu, M.D. & K. Bressler (Session 158)",

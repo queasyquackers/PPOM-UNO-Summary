@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l119",
+  module: "Unknown",
     "id": "l119",
     "title": "Innate Immunity Part 1",
     "lecturer": "T. Slieman, Ph.D.",

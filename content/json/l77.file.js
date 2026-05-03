@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l77",
+  module: "DPR",
     "id": "l77",
     "title": "Lecture #77: Neurodevelopmental and Behavioral Problems in Children and School Dysfunction",
     "lecturer": "Dr. Adam Hurst",

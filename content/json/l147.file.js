@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l147",
+  module: "DPR",
   "metadata": {
     "id": "l147",
     "title": "Public and Global Health: Role of Immunizations",

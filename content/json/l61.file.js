@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l61",
+  module: "Neuro",
     "id": "l61",
     "title": "Lecture #61: Gait and Movement",
     "lecturer": "Adena Leder, D.O.",

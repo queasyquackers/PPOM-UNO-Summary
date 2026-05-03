@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l149",
+  module: "Unknown",
   "metadata": {
     "id": "l149",
     "title": "Hematology: ABO Groups, Rh Disease, and Transfusion Medicine",

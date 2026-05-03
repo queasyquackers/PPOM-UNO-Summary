@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l56",
+  module: "Neuro",
     "id": "l56",
     "title": "Lecture 56: Neurodegenerative Disease and Selective Neuropathy",
     "module": "Neurology",

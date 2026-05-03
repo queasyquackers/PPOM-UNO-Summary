@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l143",
+  module: "Pharmacology",
   "metadata": {
     "id": "l143",
     "title": "Pharmacology Immunosuppressants Part 1",

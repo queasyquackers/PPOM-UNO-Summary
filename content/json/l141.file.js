@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l141",
+  module: "Microbiology",
   "metadata": {
     "id": "l141",
     "title": "Immunogenetics, Lymphocyte Activation, Immune Reg. and Tolerance 1",

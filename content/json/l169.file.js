@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l169",
+  module: "Neuro",
   metadata: {
     title: "Microbiology: Opportunistic Infections",
     lecturer: "C. Abraham, M.D. (Session 169)",

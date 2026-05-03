@@ -1,15 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>OnePass</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link
-    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Merriweather:wght@300;400;700;900&display=swap"
-    rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
   <script src="https://cdn.tailwindcss.com"></script>
   <script>
     tailwind.config = {
@@ -18,760 +15,173 @@
         extend: {
           fontFamily: {
             sans: ["Inter", "system-ui", "sans-serif"],
-            serif: ["Merriweather", "Georgia", "serif"],
-            display: ["Merriweather", "Georgia", "serif"],
+            serif: ["Source Serif 4", "Georgia", "serif"],
+            display: ["EB Garamond", "Georgia", "serif"],
           },
           colors: {
-            solarized: {
-              base3: "#fdf6e3",
-              base2: "#eee8d5",
-              base1: "#93a1a1",
-              base0: "#839496",
-              base00: "#657b83",
-              base01: "#586e75",
-              yellow: "#b58900",
-              orange: "#cb4b16",
-              red: "#dc322f",
-              magenta: "#d33682",
-              violet: "#6c71c4",
-              blue: "#268bd2",
-              cyan: "#2aa198",
-              green: "#859900",
-            },
-            dark: {
-              bg: "#04040b", /* Deep Void */
-              surface: "#12121e", /* Glass Surface */
-              border: "#2a273f",
-              text: "#e0def4",
-              muted: "#908caa",
-              accent: "#7aa2f7", /* Brighter accent */
-              hover: "#1e1e2e",
-            },
-            glass: {
-              100: "rgba(255, 255, 255, 0.05)",
-              200: "rgba(255, 255, 255, 0.1)",
-              300: "rgba(255, 255, 255, 0.15)",
-              border: "rgba(255, 255, 255, 0.08)",
-            }
+            claude: { bg: "#F4F1EA", text: "#1a1a1a", muted: "#666666", accent: "#D97757", border: "#E0D8C8", surface: "#FFFFFF" },
+            dark: { bg: "#1A1410", text: "#E8E0D4", muted: "#9A8E7A", accent: "#E8956D", border: "#352E26", surface: "#231E18" },
           },
         },
       },
     };
   </script>
   <style>
-    * {
-      font-feature-settings: "cv02", "cv03", "cv04", "cv11";
-    }
-
-    html {
-      scroll-behavior: smooth;
-    }
-
-    body {
-      /* Porcelain Day - Light Mode with Subtle Gradients */
-      background-color: #fdf6e3;
-
-      /* Typography Polish */
-      .prose h1,
-      .prose h2,
-      .prose h3 {
-        font-family: 'Inter', sans-serif;
-        font-weight: 800;
-        letter-spacing: -0.01em;
-        position: relative;
-      }
-
-      .prose h1 {
-        margin-top: 1.5em;
-        margin-bottom: 0.75em;
-        font-size: 2.25em;
-        /* Main title can keep a subtle gradient or be solid */
-        background: linear-gradient(to right, #268bd2, #2aa198);
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-      }
-
-      .dark .prose h1 {
-        background: linear-gradient(to right, #60a5fa, #c084fc);
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-      }
-
-      /* User Reference Style for H2/H3 */
-      .prose h2 {
-        margin-top: 2em;
-        margin-bottom: 1em;
-        font-size: 1.75em;
-        padding-left: 0.75em;
-        color: #268bd2;
-        /* Solarized Blue */
-        border-left: 6px solid #268bd2;
-        border-bottom: none;
-        /* Remove previous underline */
-        border-radius: 2px;
-        line-height: 1.2;
-      }
-
-      .dark .prose h2 {
-        color: #818cf8;
-        /* Indigo-400/Blue-400 mix to match image */
-        border-color: #818cf8;
-      }
-
-      .prose h3 {
-        margin-top: 1.5em;
-        font-size: 1.4em;
-        padding-left: 0.75em;
-        color: #2aa198;
-        /* Solarized Cyan */
-        border-left: 4px solid #2aa198;
-        border-radius: 2px;
-      }
-
-      .dark .prose h3 {
-        color: #94a3b8;
-        border-color: #475569;
-      }
-
-      /* Optional Badge Style if needed */
-      .heading-badge {
-        display: inline-block;
-        background: rgba(255, 255, 255, 0.1);
-        border-radius: 6px;
-        padding: 2px 8px;
-        font-size: 0.5em;
-        vertical-align: middle;
-        margin-left: 12px;
-        color: rgba(255, 255, 255, 0.7);
-        font-weight: 600;
-        letter-spacing: 0.5px;
-      }
-
-      /* Scrollbar Polish */
-      background-image: radial-gradient(circle at 10% 20%, rgba(211, 54, 130, 0.03), transparent 20%),
-      radial-gradient(circle at 90% 80%, rgba(38, 139, 210, 0.03), transparent 20%),
-      radial-gradient(circle at 50% 50%, rgba(255, 255, 255, 0.8), transparent 50%);
-      background-attachment: fixed;
-    }
-
-    .dark body {
-      background-color: #04040b;
-      background-image:
-        radial-gradient(circle at 15% 50%, rgba(76, 29, 149, 0.08), transparent 25%),
-        radial-gradient(circle at 85% 30%, rgba(37, 99, 235, 0.08), transparent 25%);
-    }
-
-    /* Custom Scrollbar */
-    ::-webkit-scrollbar {
-      width: 8px;
-      height: 8px;
-    }
-
-    ::-webkit-scrollbar-track {
-      background: transparent;
-    }
-
-    ::-webkit-scrollbar-thumb {
-      background: rgba(147, 161, 161, 0.3);
-      border-radius: 4px;
-    }
-
-    .dark ::-webkit-scrollbar-thumb {
-      background: rgba(255, 255, 255, 0.1);
-    }
-
-    .dark ::-webkit-scrollbar-thumb:hover {
-      background: rgba(255, 255, 255, 0.2);
-    }
-
-    /* Keyframes */
-    @keyframes float {
-
-      0%,
-      100% {
-        transform: translateY(0);
-      }
-
-      50% {
-        transform: translateY(-10px);
-      }
-    }
-
-    @keyframes aurora {
-      0% {
-        background-position: 0% 50%;
-        opacity: 0.5;
-      }
-
-      50% {
-        background-position: 100% 50%;
-        opacity: 0.8;
-      }
-
-      100% {
-        background-position: 0% 50%;
-        opacity: 0.5;
-      }
-    }
-
-    .animate-float {
-      animation: float 6s ease-in-out infinite;
-    }
-
-    @keyframes slideIn {
-      from {
-        opacity: 0;
-        transform: translateY(10px);
-      }
-
-      to {
-        opacity: 1;
-        transform: translateY(0);
-      }
-    }
-
-    @keyframes fadeIn {
-      from {
-        opacity: 0;
-      }
-
-      to {
-        opacity: 1;
-      }
-    }
-
-    @keyframes slideUp {
-      from {
-        opacity: 0;
-        transform: translateY(20px);
-      }
-
-      to {
-        opacity: 1;
-        transform: translateY(0);
-      }
-    }
-
-    @keyframes ripple {
-      to {
-        transform: scale(4);
-        opacity: 0;
-      }
-    }
-
-    @keyframes confetti-fall {
-      to {
-        transform: translateY(100vh) rotate(360deg);
-        opacity: 0;
-      }
-    }
-
-    .animate-in {
-      animation: slideIn 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-    }
-
-    .fade-in {
-      animation: fadeIn 0.4s cubic-bezier(0.4, 0, 0.2, 1);
-    }
-
-    .slide-up {
-      animation: slideUp 0.5s cubic-bezier(0.4, 0, 0.2, 1);
-    }
-
-    .confetti {
-      position: absolute;
-      width: 8px;
-      height: 8px;
-      background: #f00;
-      animation: confetti-fall 2s linear forwards;
-      z-index: 1000;
-      pointer-events: none;
-    }
-
-    @keyframes confetti-fall {
-      0% {
-        transform: translateY(0) rotate(0deg);
-        opacity: 1;
-      }
-
-      100% {
-        transform: translate(var(--tx, 20px), 100vh) rotate(360deg);
-        opacity: 0;
-      }
-    }
-
-    .ripple-container {
-      position: relative;
-      overflow: hidden;
-    }
-
-    .ripple {
-      position: absolute;
-      border-radius: 50%;
-      background: rgba(255, 255, 255, 0.3);
-      transform: scale(0);
-      animation: ripple 0.6s linear;
-      pointer-events: none;
-    }
-
-    .frosted {
-      backdrop-filter: blur(20px) saturate(180%);
-      -webkit-backdrop-filter: blur(20px) saturate(180%);
-      background: rgba(255, 255, 255, 0.85);
-      /* Whiter, cleaner glass for light mode */
-      border-right: 1px solid rgba(0, 0, 0, 0.03);
-    }
-
-    .dark .frosted {
-      background: rgba(10, 10, 20, 0.6);
-      border-right: 1px solid rgba(255, 255, 255, 0.08);
-    }
-
-    .glass-panel {
-      background: rgba(255, 255, 255, 0.7);
-      backdrop-filter: blur(16px) saturate(150%);
-      border: 1px solid rgba(255, 255, 255, 0.5);
-      /* Lighter border for day mode */
-      box-shadow: 0 8px 32px rgba(38, 139, 210, 0.1);
-      /* Subtle colored shadow */
-    }
-
-    .dark .glass-panel {
-      background: rgba(18, 18, 30, 0.5);
-      border: 1px solid rgba(255, 255, 255, 0.05);
-      box-shadow: 0 4px 30px rgba(0, 0, 0, 0.4);
-    }
-
-    .gradient-overlay {
-      background: linear-gradient(180deg,
-          rgba(38, 139, 210, 0.05) 0%,
-          transparent 100%);
-    }
-
-    .dark .gradient-overlay {
-      background: linear-gradient(180deg,
-          rgba(122, 162, 247, 0.05) 0%,
-          transparent 100%);
-    }
-
-    .glow-focus:focus {
-      box-shadow: 0 0 0 3px rgba(38, 139, 210, 0.3);
-    }
-
-    .dark .glow-focus:focus {
-      box-shadow: 0 0 0 3px rgba(108, 113, 196, 0.3);
-    }
-
-    .glossary-hover {
-      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-    }
-
-    .glossary-hover:hover {
-      transform: translateX(4px) scale(1.01);
-      box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);
-    }
-
-    #readingProgress {
-      position: fixed;
-      top: 0;
-      left: 0;
-      height: 3px;
-      background: linear-gradient(90deg, #268bd2, #2aa198);
-      z-index: 9999;
-      transition: width 0.1s ease;
-    }
-
-    .dark #readingProgress {
-      background: linear-gradient(90deg, #6c71c4, #268bd2);
-    }
-
-    #tableOfContents {
-      position: sticky;
-      top: 20px;
-      max-height: calc(100vh - 40px);
-      overflow-y: auto;
-      transition: all 0.3s ease;
-    }
-
-    .toc-link {
-      transition: all 0.2s ease;
-      border-left: 2px solid transparent;
-    }
-
-    .toc-link:hover {
-      border-left-color: #268bd2;
-      background: rgba(38, 139, 210, 0.1);
-    }
-
-    .dark .toc-link:hover {
-      border-left-color: #6c71c4;
-      background: rgba(108, 113, 196, 0.1);
-    }
-
-    .module-card-cardiovascular {
-      border-left-color: #dc322f !important;
-    }
-
-    .module-card-respiratory {
-      border-left-color: #268bd2 !important;
-    }
-
-    .module-card-renal {
-      border-left-color: #2aa198 !important;
-    }
-
-    .module-card-gi {
-      border-left-color: #b58900 !important;
-    }
-
-    .module-card-neuro {
-      border-left-color: #6c71c4 !important;
-    }
-
-    .module-card-endo {
-      border-left-color: #859900 !important;
-    }
-
-    .module-card-heme {
-      border-left-color: #d33682 !important;
-    }
-
-    .confetti {
-      position: fixed;
-      width: 10px;
-      height: 10px;
-      background: #268bd2;
-      top: -10px;
-      z-index: 9999;
-      animation: confetti-fall 3s linear forwards;
-    }
-
-    .sidebar-hidden #sidebar {
-      transform: translateX(-100%);
-      position: absolute;
-      height: 100%;
-      z-index: 50;
-    }
-
-    .sidebar-hidden #mainContent {
-      margin-left: 0;
-    }
-
-    /* Back to Top */
-    #backToTop {
-      transition: opacity 0.3s, transform 0.3s;
-      opacity: 0;
-      pointer-events: none;
-      transform: translateY(20px);
-    }
-
-    #backToTop.visible {
-      opacity: 1;
-      pointer-events: auto;
-      transform: translateY(0);
-    }
+    body { background-color: #F4F1EA; color: #1a1a1a; font-family: 'Source Serif 4', serif; }
+    .dark body { background-color: #1A1410; color: #E8E0D4; }
+    
+    /* Typography */
+    .prose h1, .prose h2, .prose h3 { font-family: 'EB Garamond', serif; color: #1a1a1a; }
+    .dark .prose h1, .dark .prose h2, .dark .prose h3 { color: #E8E0D4; }
+    .prose h1 { font-size: 2.75rem; font-weight: 700; margin-bottom: 1rem; line-height: 1.1; }
+    .prose h2 { font-size: 1.75rem; font-weight: 600; margin-top: 2rem; margin-bottom: 0.75rem; border-top: 1px solid #1a1a1a; padding-top: 1rem; }
+    .dark .prose h2 { border-color: #E8E0D4; }
+    .prose h3 { font-size: 1.25rem; font-weight: 600; margin-top: 1.5rem; margin-bottom: 0.5rem; }
+    .prose p { font-size: 1.125rem; line-height: 1.7; margin-bottom: 1.25rem; }
+    .prose ul, .prose ol { margin-bottom: 1.25rem; padding-left: 1.5rem; }
+    .prose li { margin-bottom: 0.5rem; }
+    
+    /* Scrollbar */
+    ::-webkit-scrollbar { width: 5px; height: 5px; }
+    ::-webkit-scrollbar-track { background: transparent; }
+    ::-webkit-scrollbar-thumb { background: #E5DFD5; }
+    .dark ::-webkit-scrollbar-thumb { background: #352E26; }
+
+    /* Layout specific */
+    .sidebar-hidden #sidebar { display: none; }
+    .editorial-border { border: 1px solid #1a1a1a; }
+    .dark .editorial-border { border-color: #E8E0D4; }
   </style>
 </head>
-
-<body
-  class="bg-solarized-base3 dark:bg-dark-bg font-serif text-solarized-base00 dark:text-dark-muted transition-colors duration-300">
-  <div id="readingProgress" style="width: 0%"></div>
-  <div class="flex h-screen">
-    <!-- Reading Progress Bar -->
-    <div id="readingProgressBar"
-      class="fixed top-0 left-0 h-1 bg-gradient-to-r from-blue-500 to-cyan-400 z-50 transition-all duration-150 ease-out w-0">
-    </div>
-
+<body class="bg-claude-bg dark:bg-dark-bg font-serif text-claude-text dark:text-dark-text transition-colors duration-200">
+  <div id="readingProgressBar" class="fixed top-0 left-0 h-1 bg-claude-accent z-50 transition-all duration-150 ease-out w-0"></div>
+  <div class="flex h-screen overflow-hidden">
     <!-- Sidebar -->
-    <div id="sidebar"
-      class="w-80 border-r border-solarized-base2/50 dark:border-white/5 bg-white/60 dark:bg-dark-surface/30 flex flex-col shadow-2xl frosted transition-all duration-300 z-20">
-      <div class="p-6 border-b border-solarized-base1/20 dark:border-dark-border gradient-overlay">
-        <div class="flex items-center justify-between mb-4">
-          <h1 class="text-2xl font-bold text-solarized-blue dark:text-dark-accent tracking-tight font-sans">
-            OnePass
-          </h1>
-          <button id="darkModeToggle"
-            class="p-2 rounded-lg hover:bg-solarized-base3 dark:hover:bg-dark-hover transition-all duration-300 ripple-container group">
-            <!-- Moon Icon (for Light Mode) -->
-            <svg id="moonIcon"
-              class="w-5 h-5 text-solarized-base01 dark:text-dark-text transition-transform duration-300 group-hover:rotate-12 dark:hidden"
-              fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z" />
-            </svg>
-            <!-- Sun Icon (for Dark Mode) -->
-            <svg id="sunIcon"
-              class="w-5 h-5 text-yellow-400 transition-transform duration-300 group-hover:rotate-90 hidden dark:block"
-              fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z" />
-            </svg>
+    <div id="sidebar" class="w-80 flex flex-col bg-claude-bg dark:bg-dark-bg border-r border-claude-border dark:border-dark-border z-20 shrink-0">
+      <div class="p-6 border-b border-claude-border dark:border-dark-border">
+        <div class="flex items-center justify-between mb-6">
+          <h1 class="text-3xl font-bold font-display uppercase tracking-widest">OnePass</h1>
+          <button id="darkModeToggle" class="text-claude-muted hover:text-claude-text dark:hover:text-dark-text transition-colors">
+            <svg id="moonIcon" class="w-5 h-5 dark:hidden" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z" /></svg>
+            <svg id="sunIcon" class="w-5 h-5 hidden dark:block" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z" /></svg>
           </button>
         </div>
         <div class="relative">
-          <svg
-            class="absolute left-3 top-1/2 transform -translate-y-1/2 w-4 h-4 text-solarized-base1 dark:text-dark-muted transition-colors duration-300"
-            fill="none" stroke="currentColor" viewBox="0 0 24 24" id="searchIcon">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-              d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
-          </svg>
-          <input type="text" id="searchInput" placeholder="Search lectures... (Press /)"
-            class="w-full pl-10 pr-4 py-2.5 rounded-xl border border-solarized-base1/30 dark:border-dark-border bg-solarized-base3 dark:bg-dark-bg text-solarized-base00 dark:text-dark-text placeholder-solarized-base1 dark:placeholder-dark-muted focus:outline-none focus:ring-2 focus:ring-solarized-blue dark:focus:ring-dark-accent font-sans transition-all duration-300 glow-focus" />
+          <input type="text" id="searchInput" placeholder="Search lectures... (/)" class="w-full pb-2 bg-transparent border-b border-claude-border dark:border-dark-border text-sm font-sans placeholder-claude-muted focus:outline-none focus:border-claude-text dark:focus:border-dark-text transition-colors rounded-none" />
         </div>
       </div>
-      <div id="lectureList" class="flex-1 overflow-y-auto p-4 space-y-2"></div>
-      <div class="p-4 border-t border-solarized-base1/20 dark:border-dark-border">
-        <div class="text-xs text-solarized-base1 dark:text-dark-muted text-center font-sans">
-          <span id="lectureCount">0 lectures</span> loaded
-          <div class="mt-2 text-[10px] opacity-60">
-            💡 Shortcuts: ←/→ tabs, Esc close, / search
-          </div>
-        </div>
+      <div id="lectureList" class="flex-1 overflow-y-auto p-4 space-y-1"></div>
+      <div class="p-4 border-t border-claude-border dark:border-dark-border text-center">
+        <span id="lectureCount" class="text-xs font-sans text-claude-muted tracking-widest uppercase">0 lectures</span>
       </div>
     </div>
 
     <!-- Main Content -->
-    <div id="mainContent"
-      class="flex-1 flex flex-col bg-solarized-base3/50 dark:bg-transparent overflow-hidden relative">
-      <!-- Sidebar Toggle (Floating) -->
-      <button id="sidebarToggle"
-        class="absolute top-4 left-4 p-2 rounded-lg text-solarized-base1 dark:text-dark-muted hover:bg-solarized-base2/50 dark:hover:bg-dark-surface/50 transition-all duration-300 z-10">
-        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
-        </svg>
+    <div id="mainContent" class="flex-1 flex flex-col relative overflow-hidden bg-claude-bg dark:bg-dark-bg">
+      <button id="sidebarToggle" class="absolute top-4 left-4 z-30 p-2 text-claude-muted hover:text-claude-text dark:hover:text-dark-text transition-colors">
+        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4 6h16M4 12h16M4 18h16" /></svg>
       </button>
 
       <!-- Welcome Screen -->
-      <div id="welcomeScreen" class="flex-1 flex items-center justify-center perspective-1000">
-        <div id="welcomeCard"
-          class="glass-panel animate-float text-center p-12 rounded-3xl transform transition-transform duration-100 ease-out hover:scale-105 cursor-default select-none max-w-2xl w-full mx-4">
-          <div
-            class="w-24 h-24 mx-auto mb-8 rounded-3xl bg-gradient-to-br from-solarized-blue to-solarized-cyan dark:from-dark-accent dark:to-violet-600 flex items-center justify-center shadow-lg transform transition-transform duration-500 hover:rotate-12">
-            <svg class="w-12 h-12 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
-            </svg>
-          </div>
-          <h2
-            class="text-5xl font-black text-transparent bg-clip-text bg-gradient-to-r from-solarized-base01 to-solarized-blue dark:from-white dark:to-dark-accent mb-6 font-display">
-            Welcome to<br />OnePass
-          </h2>
-          <p class="text-xl text-solarized-base1 dark:text-dark-muted max-w-md mx-auto leading-relaxed"
-            id="welcomeMessage">
-            Loading lectures...
-          </p>
+      <div id="welcomeScreen" class="flex-1 flex flex-col items-center justify-center px-8 overflow-y-auto">
+        <div class="max-w-2xl w-full text-center">
+          <h2 class="text-6xl md:text-8xl font-bold font-display mb-6">OnePass</h2>
+          <div class="h-px bg-claude-border dark:bg-dark-border w-24 mx-auto mb-6"></div>
+          <p class="text-xl md:text-2xl font-serif text-claude-muted dark:text-dark-muted italic mb-12">Every lecture. Every detail. One pass.</p>
+          <div id="welcomeBlockCards" class="grid grid-cols-1 md:grid-cols-2 gap-6 text-left mb-12"></div>
+          <p id="welcomeMessage" class="text-sm font-sans text-claude-muted uppercase tracking-widest">Loading lectures...</p>
         </div>
       </div>
 
       <!-- Lecture Content -->
-      <div id="lectureContent" class="hidden flex-1 flex flex-col min-h-0">
-        <div
-          class="border-b-2 border-solarized-base1/20 dark:border-dark-border bg-solarized-base2/50 dark:bg-dark-surface/50 backdrop-blur-sm gradient-overlay relative">
-          <button id="closeLecture"
-            class="absolute top-4 right-4 p-2 rounded-lg text-solarized-base1 dark:text-dark-muted hover:bg-solarized-base3/50 dark:hover:bg-dark-hover hover:text-red-500 dark:hover:text-red-400 transition-all duration-300 z-10">
-            <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
-            </svg>
+      <div id="lectureContent" class="hidden flex-1 flex flex-col min-h-0 bg-claude-bg dark:bg-dark-bg">
+        <div class="border-b border-claude-border dark:border-dark-border relative pt-12 pb-6 px-12 md:px-24 shrink-0">
+          <button id="closeLecture" class="absolute top-6 right-6 p-2 text-claude-muted hover:text-claude-text dark:hover:text-dark-text transition-colors">
+            <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M6 18L18 6M6 6l12 12" /></svg>
           </button>
-          <div class="pt-8 pb-4 pr-16 pl-20">
-            <h2 id="lectureTitle"
-              class="text-3xl font-bold text-solarized-base01 dark:text-dark-text tracking-tight font-sans"></h2>
+          <div class="mb-4 flex items-center gap-4 text-xs font-sans uppercase tracking-widest text-claude-muted">
+            <span id="lectureModule"></span>
+            <span id="readingTime"></span>
           </div>
-          <div class="px-8 pb-2 flex items-center gap-3">
-            <div
-              class="inline-block px-3 py-1 rounded-full text-xs font-semibold uppercase tracking-wider bg-solarized-blue/10 dark:bg-dark-accent/10 text-solarized-blue dark:text-dark-accent font-sans"
-              id="lectureModule"></div>
-            <span id="readingTime" class="text-xs text-solarized-base1 dark:text-dark-muted font-sans"></span>
-            <button id="tocToggle"
-              class="hidden ripple-container text-xs px-4 py-2 rounded-xl border border-solarized-blue dark:border-dark-accent bg-white/80 dark:bg-dark-surface/80 shadow-sm hover:shadow-md text-solarized-blue dark:text-dark-accent hover:bg-solarized-blue/10 dark:hover:bg-dark-accent/10 transition-all duration-300 font-sans flex items-center gap-2">
-              <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
-              </svg>
-              <span class="font-semibold">Outline</span>
+          <h2 id="lectureTitle" class="text-4xl md:text-5xl font-bold font-display leading-tight mb-8"></h2>
+          
+          <div class="flex flex-wrap items-center gap-4" id="lectureActions">
+            <button id="tocToggle" class="w-[180px] h-10 whitespace-nowrap justify-center text-xs font-sans uppercase tracking-widest border border-claude-border dark:border-dark-border hover:bg-claude-surface dark:hover:bg-dark-surface transition-colors flex items-center gap-2">
+              Outline
             </button>
-
-            <!-- Pearlbook Toggle -->
-            <button id="pearlbookToggle"
-              class="ripple-container text-xs px-4 py-2 rounded-xl border border-orange-500 dark:border-orange-400 bg-white/80 dark:bg-dark-surface/80 shadow-sm hover:shadow-md text-orange-600 dark:text-orange-300 hover:bg-orange-50 dark:hover:bg-orange-900/10 transition-all duration-300 font-sans flex items-center gap-2 ml-3">
-              <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                  d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.086 0l-.547.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z" />
-              </svg>
-              <span class="font-semibold">Pearlbook</span>
+            <button id="pearlbookToggle" class="w-[180px] h-10 whitespace-nowrap justify-center text-xs font-sans uppercase tracking-widest border border-claude-border dark:border-dark-border hover:bg-claude-surface dark:hover:bg-dark-surface transition-colors flex items-center gap-2">
+              Pearlbook
             </button>
-
-            <!-- Active Recall Toggle (Header) -->
-            <button id="activeRecallToggle" onclick="toggleActiveRecall()"
-              class="hidden ml-3 ripple-container text-xs px-4 py-2 rounded-xl border border-violet-500 dark:border-violet-400 bg-white/80 dark:bg-dark-surface/80 shadow-sm hover:shadow-md text-violet-600 dark:text-violet-300 hover:bg-violet-50 dark:hover:bg-violet-900/10 transition-all duration-300 font-sans flex items-center gap-2 group">
-              <svg id="activeRecallIcon" class="w-4 h-4 transition-transform duration-300 group-hover:scale-110"
-                fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                  d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                  d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z" />
-              </svg>
-              <span class="font-semibold">Active Recall</span>
+            <button id="activeRecallToggle" onclick="toggleActiveRecall()" class="w-[180px] h-10 whitespace-nowrap justify-center text-xs font-sans uppercase tracking-widest border border-claude-border dark:border-dark-border hover:bg-claude-surface dark:hover:bg-dark-surface transition-colors flex items-center gap-2">
+              <svg id="activeRecallIcon" class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" /><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z" /></svg>
+              Active Recall
             </button>
-
-            <!-- Mark Complete Button -->
-            <button id="markCompleteBtn"
-              class="ml-3 ripple-container text-xs px-4 py-2 rounded-xl border border-green-500 dark:border-green-500 bg-white/80 dark:bg-dark-surface/80 shadow-sm hover:shadow-md text-green-600 dark:text-green-400 hover:bg-green-50 dark:hover:bg-green-900/10 transition-all duration-300 font-sans flex items-center gap-2 group">
-              <svg id="markCompleteIcon" class="w-4 h-4 transition-transform duration-300 group-hover:scale-110"
-                fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                  d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
-              </svg>
-              <span id="markCompleteText" class="font-semibold">Mark Complete</span>
+            <button id="markCompleteBtn" class="w-[180px] h-10 whitespace-nowrap justify-center text-xs font-sans uppercase tracking-widest border border-claude-border dark:border-dark-border hover:bg-claude-surface dark:hover:bg-dark-surface transition-colors flex items-center gap-2">
+              <svg id="markCompleteIcon" class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M5 13l4 4L19 7" /></svg>
+              <span id="markCompleteText">Complete</span>
             </button>
           </div>
         </div>
 
-        <div
-          class="flex border-b border-solarized-base1/20 dark:border-dark-border bg-white/40 dark:bg-dark-surface/40 px-6 font-sans overflow-x-auto gap-2 backdrop-blur-md">
-          <button
-            class="tab-btn px-6 py-3 font-bold text-sm border-b-2 border-transparent text-solarized-base1 dark:text-dark-muted hover:text-solarized-base00 dark:hover:text-white transition-all duration-300 data-[active=true]:border-solarized-blue dark:data-[active=true]:border-dark-accent data-[active=true]:text-solarized-blue dark:data-[active=true]:text-white whitespace-nowrap"
-            data-tab="summary">
-            Summary
-          </button>
-          <button
-            class="tab-btn px-6 py-3 font-bold text-sm border-b-2 border-transparent text-solarized-base1 dark:text-dark-muted hover:text-solarized-base00 dark:hover:text-white transition-all duration-300 data-[active=true]:border-solarized-blue dark:data-[active=true]:border-dark-accent data-[active=true]:text-solarized-blue dark:data-[active=true]:text-white whitespace-nowrap"
-            data-tab="questions">
-            Questions
-          </button>
-          <button
-            class="tab-btn px-6 py-3 font-bold text-sm border-b-2 border-transparent text-solarized-base1 dark:text-dark-muted hover:text-solarized-base00 dark:hover:text-white transition-all duration-300 data-[active=true]:border-solarized-blue dark:data-[active=true]:border-dark-accent data-[active=true]:text-solarized-blue dark:data-[active=true]:text-white whitespace-nowrap"
-            data-tab="flashcards">
-            Flashcards
-          </button>
-          <button
-            class="tab-btn px-6 py-3 font-bold text-sm border-b-2 border-transparent text-solarized-base1 dark:text-dark-muted hover:text-solarized-base00 dark:hover:text-white transition-all duration-300 data-[active=true]:border-solarized-blue dark:data-[active=true]:border-dark-accent data-[active=true]:text-solarized-blue dark:data-[active=true]:text-white whitespace-nowrap"
-            data-tab="mindmap">
-            Mind Map
-          </button>
-          <button
-            class="tab-btn px-6 py-3 font-bold text-sm border-b-2 border-transparent text-solarized-base1 dark:text-dark-muted hover:text-solarized-base00 dark:hover:text-white transition-all duration-300 data-[active=true]:border-solarized-blue dark:data-[active=true]:border-dark-accent data-[active=true]:text-solarized-blue dark:data-[active=true]:text-white whitespace-nowrap"
-            data-tab="anking">
-            Anking
-          </button>
-          <button
-            class="tab-btn px-6 py-3 font-bold text-sm border-b-2 border-transparent text-solarized-base1 dark:text-dark-muted hover:text-solarized-base00 dark:hover:text-white transition-all duration-300 data-[active=true]:border-solarized-blue dark:data-[active=true]:border-dark-accent data-[active=true]:text-solarized-blue dark:data-[active=true]:text-white whitespace-nowrap"
-            data-tab="high-yield">
-            High Yield
-          </button>
+        <div class="flex border-b border-claude-border dark:border-dark-border px-12 md:px-24 overflow-x-auto shrink-0 hide-scrollbar">
+          <button class="tab-btn py-4 pr-8 font-sans text-xs uppercase tracking-widest text-claude-muted border-b border-transparent data-[active=true]:border-claude-text data-[active=true]:text-claude-text dark:data-[active=true]:border-dark-text dark:data-[active=true]:text-dark-text hover:text-claude-text dark:hover:text-dark-text transition-colors" data-tab="summary">Summary</button>
+          <button class="tab-btn py-4 px-8 font-sans text-xs uppercase tracking-widest text-claude-muted border-b border-transparent data-[active=true]:border-claude-text data-[active=true]:text-claude-text dark:data-[active=true]:border-dark-text dark:data-[active=true]:text-dark-text hover:text-claude-text dark:hover:text-dark-text transition-colors" data-tab="questions">Questions</button>
+          <button class="tab-btn py-4 px-8 font-sans text-xs uppercase tracking-widest text-claude-muted border-b border-transparent data-[active=true]:border-claude-text data-[active=true]:text-claude-text dark:data-[active=true]:border-dark-text dark:data-[active=true]:text-dark-text hover:text-claude-text dark:hover:text-dark-text transition-colors" data-tab="flashcards">Flashcards</button>
+          <button class="tab-btn py-4 px-8 font-sans text-xs uppercase tracking-widest text-claude-muted border-b border-transparent data-[active=true]:border-claude-text data-[active=true]:text-claude-text dark:data-[active=true]:border-dark-text dark:data-[active=true]:text-dark-text hover:text-claude-text dark:hover:text-dark-text transition-colors" data-tab="mindmap">Mind Map</button>
+          <button class="tab-btn py-4 px-8 font-sans text-xs uppercase tracking-widest text-claude-muted border-b border-transparent data-[active=true]:border-claude-text data-[active=true]:text-claude-text dark:data-[active=true]:border-dark-text dark:data-[active=true]:text-dark-text hover:text-claude-text dark:hover:text-dark-text transition-colors" data-tab="anking">Anking</button>
+          <button class="tab-btn py-4 pl-8 font-sans text-xs uppercase tracking-widest text-claude-muted border-b border-transparent data-[active=true]:border-claude-text data-[active=true]:text-claude-text dark:data-[active=true]:border-dark-text dark:data-[active=true]:text-dark-text hover:text-claude-text dark:hover:text-dark-text transition-colors" data-tab="high-yield">High Yield</button>
         </div>
 
-        <div class="flex-1 overflow-y-auto" id="contentScroll">
-          <div class="flex w-[95%] max-w-[1800px] mx-auto gap-12">
-            <div id="tableOfContents"
-              class="hidden w-72 p-0 border-r-0 sticky top-0 h-full overflow-y-auto mix-blend-multiply dark:mix-blend-normal opacity-80 pt-12">
-            </div>
-            <div id="tabContent" class="flex-1 p-12 max-w-none"></div>
+        <div id="contentScroll" class="flex-1 overflow-y-auto">
+          <div class="flex max-w-[1400px] mx-auto">
+            <div id="tableOfContents" class="hidden w-64 border-r border-claude-border dark:border-dark-border p-8 sticky top-0 h-full overflow-y-auto font-sans text-sm hidden lg:block"></div>
+            <div id="tabContent" class="flex-1 p-8 md:p-16 prose max-w-[900px] mx-auto"></div>
           </div>
         </div>
       </div>
-
-      <!-- Back to Top Button -->
-      <button id="backToTop"
-        class="fixed bottom-8 right-8 p-3 rounded-full bg-solarized-blue dark:bg-dark-accent text-white shadow-lg transform translate-y-20 opacity-0 transition-all duration-300 hover:scale-110 hover:shadow-xl z-50"
-        onclick="document.getElementById('contentScroll').scrollTo({top: 0, behavior: 'smooth'})">
-        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 10l7-7m0 0l7 7m-7-7v18" />
-        </svg>
+      
+      <button id="backToTop" class="fixed bottom-8 right-8 p-3 rounded-full border border-claude-border bg-claude-bg text-claude-text opacity-0 pointer-events-none transition-opacity duration-300">
+        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M5 10l7-7m0 0l7 7m-7-7v18" /></svg>
       </button>
+    </div>
+  </div>
+
+  <div id="imageLightbox" class="fixed inset-0 z-50 hidden bg-claude-bg/95 dark:bg-dark-bg/95 backdrop-blur-sm opacity-0 transition-opacity" tabindex="-1">
+    <div class="absolute top-6 right-6 flex gap-4">
+      <button id="lightboxZoomIn" class="p-2 border border-claude-border rounded-full hover:bg-claude-surface"><svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0zM10 7v3m0 0v3m0-3h3m-3 0H7"></path></svg></button>
+      <button id="lightboxZoomOut" class="p-2 border border-claude-border rounded-full hover:bg-claude-surface"><svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0zM13 10H7"></path></svg></button>
+      <button id="lightboxClose" class="p-2 border border-claude-border rounded-full hover:bg-claude-surface"><svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M6 18L18 6M6 6l12 12"></path></svg></button>
+    </div>
+    <div class="w-full h-full flex items-center justify-center p-8">
+      <img id="lightboxImage" src="" alt="Full size" class="max-w-full max-h-full object-contain cursor-grab active:cursor-grabbing shadow-2xl border editorial-border">
+    </div>
+  </div>
+
+  <div id="pearlbookModal" class="fixed inset-0 z-50 hidden bg-claude-bg/95 dark:bg-dark-bg/95 backdrop-blur-sm opacity-0 transition-opacity" tabindex="-1">
+    <div class="w-full h-full flex items-center justify-center p-4 md:p-8">
+      <div class="w-full max-w-4xl max-h-full flex flex-col bg-claude-bg dark:bg-dark-bg border editorial-border shadow-2xl">
+        <div class="px-8 py-6 border-b border-claude-border flex justify-between items-center">
+          <div>
+            <h2 class="text-3xl font-display font-bold text-claude-accent">Pearlbook</h2>
+            <p class="text-sm font-sans text-claude-muted tracking-widest uppercase">Clinical Pearls</p>
+          </div>
+          <button id="closePearlbook" class="p-2 hover:bg-claude-surface transition-colors rounded-full border border-claude-border">
+            <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M6 18L18 6M6 6l12 12"></path></svg>
+          </button>
+        </div>
+        <div id="pearlbookContent" class="flex-1 overflow-y-auto p-8 prose max-w-none"></div>
+      </div>
     </div>
   </div>
 
   <script src="https://d3js.org/d3.v7.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
   <script>
-    // Initialize PDF.js worker
     window.addEventListener("load", () => {
-      if (window.pdfjsLib) {
-        window.pdfjsLib.GlobalWorkerOptions.workerSrc =
-          "https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js";
-      }
+      if (window.pdfjsLib) window.pdfjsLib.GlobalWorkerOptions.workerSrc = "https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js";
     });
   </script>
-
   <script src="./lectures_search_index.js"></script>
-  <script src="./app.js" defer></script>
-  <!-- Lightbox Modal -->
-  <div id="imageLightbox"
-    class="fixed inset-0 z-50 hidden bg-black/95 backdrop-blur-sm transition-opacity duration-300 opacity-0"
-    tabindex="-1">
-    <div class="absolute top-4 right-4 flex gap-4">
-      <button id="lightboxZoomIn" class="p-2 text-white/70 hover:text-white transition-colors bg-white/10 rounded-full">
-        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-            d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0zM10 7v3m0 0v3m0-3h3m-3 0H7"></path>
-        </svg>
-      </button>
-      <button id="lightboxZoomOut"
-        class="p-2 text-white/70 hover:text-white transition-colors bg-white/10 rounded-full">
-        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-            d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0zM13 10H7"></path>
-        </svg>
-      </button>
-      <button id="lightboxClose"
-        class="p-2 text-white/70 hover:text-red-400 transition-colors bg-white/10 rounded-full">
-        <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
-        </svg>
-      </button>
-    </div>
-    <div class="w-full h-full flex items-center justify-center p-4 overflow-hidden">
-      <img id="lightboxImage" src="" alt="Full size"
-        class="max-w-full max-h-full object-contain transition-transform duration-200 origin-center cursor-grab active:cursor-grabbing">
-    </div>
-  </div>
-  <!-- Pearlbook Modal -->
-  <div id="pearlbookModal"
-    class="fixed inset-0 z-50 hidden bg-black/60 backdrop-blur-md transition-opacity duration-300 opacity-0"
-    tabindex="-1">
-    <div class="w-full h-full flex items-center justify-center p-4">
-      <div
-        class="glass-panel w-full max-w-4xl max-h-[85vh] rounded-3xl shadow-2xl overflow-hidden flex flex-col transform transition-transform duration-300 scale-95 border-0">
-
-        <!-- Modal Header -->
-        <div
-          class="px-8 py-6 border-b border-solarized-base1/10 dark:border-dark-border flex items-center justify-between bg-solarized-base2/50 dark:bg-dark-bg/50 backdrop-blur-md">
-          <div class="flex items-center gap-4">
-            <div
-              class="w-12 h-12 rounded-2xl bg-gradient-to-br from-orange-400 to-orange-500 flex items-center justify-center shadow-lg">
-              <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                  d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.086 0l-.547.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z" />
-              </svg>
-            </div>
-            <div>
-              <h2 class="text-2xl font-bold font-display text-orange-500 dark:text-orange-400">Pearlbook</h2>
-              <p class="text-sm text-solarized-base1 dark:text-dark-muted font-sans">Clinical Pearls & High Yield Facts
-              </p>
-            </div>
-          </div>
-          <button id="closePearlbook"
-            class="p-2 rounded-xl text-solarized-base1 dark:text-dark-muted hover:bg-red-50 dark:hover:bg-red-900/10 hover:text-red-500 dark:hover:text-red-400 transition-colors">
-            <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
-            </svg>
-          </button>
-        </div>
-
-        <!-- Modal Content -->
-        <div id="pearlbookContent"
-          class="flex-1 overflow-y-auto p-8 custom-scrollbar bg-solarized-base3 dark:bg-dark-surface relative">
-          <!-- Dynamic Content -->
-        </div>
-
-        <!-- Modal Footer -->
-        <div
-          class="px-8 py-4 border-t border-solarized-base1/10 dark:border-dark-border bg-solarized-base2/30 dark:bg-dark-bg/30 text-center">
-          <p class="text-xs text-solarized-base1 dark:text-dark-muted font-sans opacity-60">Press ESC to close</p>
-        </div>
-      </div>
-    </div>
-  </div>
+  <script src="./app.js?v=atlantic9" defer></script>
 </body>
-
 </html>

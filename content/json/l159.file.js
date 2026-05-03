@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l159",
+  module: "DPR",
   metadata: {
     title: "Introduction to Gyn/Ob History",
     lecturer: "Steven Lewis, M.D. (Session 159)",

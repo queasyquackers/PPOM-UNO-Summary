@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l110",
+  module: "Unknown",
     "id": "l110",
     "title": "Lecture #110: Introduction to Orthopedics of the Upper Extremity",
     "lecturer": "M. Heller, D.O. (Presented by N. Chernik, Academic Medicine Scholar)",

@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l145",
+  module: "Unknown",
   "metadata": {
     "id": "l145",
     "title": "Clinical Approach to Immunodeficiencies",

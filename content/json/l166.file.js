@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l166",
+  module: "Neuro",
   metadata: {
     title: "Microbiology: Emerging Blood-Borne Pathogens",
     lecturer: "C. Abraham, M.D. (Session 166)",

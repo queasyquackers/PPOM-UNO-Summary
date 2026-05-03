@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l116",
+  module: "OMM",
     "id": "l116",
     "title": "Pediatric Orthopedics",
     "lecturer": "M. Scotten, M.D.",

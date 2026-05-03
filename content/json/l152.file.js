@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l152",
+  module: "Neuro",
   "metadata": {
     "id": "l152",
     "title": "Laboratory Medicine and Anemias Part 2",

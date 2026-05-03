@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l167",
+  module: "Microbiology",
   metadata: {
     title: "Microbiology: HIV and Retroviruses",
     lecturer: "C. Abraham, M.D. (Session 167)",

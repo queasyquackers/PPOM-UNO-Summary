@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l104",
+  module: "Unknown",
     "id": "l104",
     "title": "Lecture #104: Pathology of Bone and Joints - Part 1",
     "lecturer": "E. Petcu, M.D.",

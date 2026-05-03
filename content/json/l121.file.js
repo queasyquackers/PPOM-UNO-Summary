@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l121",
+  module: "OMM",
     "id": "l121",
     "title": "DPR: History and Physical Exam of the Spine",
     "lecturer": "M. Heller, D.O.",

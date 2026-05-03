@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l64",
+  module: "Neuro",
     "id": "l64",
     "title": "Lecture #64: Introduction to Neuropharmacology",
     "lecturer": "L. Goldstein, Pharm.D.",

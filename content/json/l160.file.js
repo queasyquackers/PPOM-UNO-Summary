@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l160",
+  module: "OMM",
   metadata: {
     title: "OMM Lab 28: Lower Extremity ME",
     lecturer: "P. Kooyman, D.O. (Session 160)",

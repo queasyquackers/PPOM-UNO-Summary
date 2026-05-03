@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l151",
+  module: "Unknown",
   "metadata": {
     "id": "l151",
     "title": "Laboratory Medicine and Anemias Part 1",

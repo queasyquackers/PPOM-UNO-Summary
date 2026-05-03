@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l164",
+  module: "Pharmacology",
   metadata: {
     title: "Pharmacology of Coagulation: Anticoagulants",
     lecturer: "L. Goldstein, Pharm.D. (Session 164)",

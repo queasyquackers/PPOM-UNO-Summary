@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l150",
+  module: "Unknown",
   "metadata": {
     "id": "l150",
     "title": "Hematopoiesis",

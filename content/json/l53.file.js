@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l53",
+  module: "Neuro",
     "id": "l53",
     "title": "Lecture 53: Pharmacology: Antiseizure Drugs, Part 2",
     "module": "Pharmacology",

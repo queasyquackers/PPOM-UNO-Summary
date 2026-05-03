@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l50",
+  module: "Neuro",
     "id": "l50",
     "title": "Lecture 50: Seizures and Epilepsy",
     "module": "Neurology",

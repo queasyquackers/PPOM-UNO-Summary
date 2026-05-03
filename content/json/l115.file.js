@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l115",
+  module: "Unknown",
     "id": "l115",
     "title": "Lecture #115: Sports Medicine: Overuse Injuries",
     "lecturer": "H. Zwibel, D.O.",

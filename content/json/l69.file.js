@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l69",
+  module: "DPR",
     "id": "l69",
     "title": "Lecture #69: Substance Use Disorders",
     "lecturer": "A. Coladner, D.O.",

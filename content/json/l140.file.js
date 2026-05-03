@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l140",
+  module: "Neuro",
   "id": "l140",
   "title": "Anaphylaxis and Allergic Reactions",
   "lecturer": "J. Maccagnano, D.O.",

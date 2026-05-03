@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l65",
+  module: "Neuro",
     "id": "l65",
     "title": "Lecture #65: Pharmacology of General Anesthetics Part 2",
     "lecturer": "L. Goldstein, Pharm.D.",

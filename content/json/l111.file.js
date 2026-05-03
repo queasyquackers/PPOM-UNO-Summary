@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l111",
+  module: "Neuro",
     "id": "l111",
     "title": "Lecture #111: Orthopedics: Lower Extremity",
     "lecturer": "M. Heller, D.O.",

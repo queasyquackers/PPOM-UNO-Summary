@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l58",
+  module: "Neuro",
     "id": "l58",
     "title": "Lecture 58: Pharmacology: Parkinson and Alzheimer",
     "module": "Neurology",

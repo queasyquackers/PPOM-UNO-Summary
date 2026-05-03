@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l142",
+  module: "Unknown",
   "metadata": {
     "id": "l142",
     "title": "Immunogenetics, Lymphocyte Activation, Immune Reg. and Tolerance 2",

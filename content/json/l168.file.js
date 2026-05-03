@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l168",
+  module: "Neuro",
   metadata: {
     title: "Microbiology: Hemorrhagic Viral Infections",
     lecturer: "T. Slieman, Ph.D. (Session 168)",

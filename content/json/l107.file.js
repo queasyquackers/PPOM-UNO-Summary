@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l107",
+  module: "DPR",
     "id": "l107",
     "title": "Lecture #107: DPR - History and Physical Exam of the Hand and Wrist",
     "lecturer": "R. Morgan, D.O.",

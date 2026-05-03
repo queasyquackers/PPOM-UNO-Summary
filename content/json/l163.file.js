@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l163",
+  module: "Neuro",
   metadata: {
     title: "Pediatric Hematology and Oncology",
     lecturer: "Thomas Chan, D.O. (Session 163)",

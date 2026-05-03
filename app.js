@@ -11,6 +11,43 @@ let currentFontSize = 100; // Percentage
 let completedLectures = new Set(); // Track completed IDs
 let activeRecall = false; // Active Recall Mode State
 let pendingResolvers = new Map(); // Registry for pending lecture loads
+let currentBlock = null; // Block filter state for sidebar
+
+// Block Categorization System
+const BLOCKS = {
+  neuro: { name: "Neuroscience", shortName: "NEURO", range: "L1a – L46", color: "#2C3E6B", darkColor: "#7B93DB", start: 1, end: 46 },
+  psych: { name: "Psychiatry", shortName: "PSYCH", range: "L47 – L96", color: "#7B4B7A", darkColor: "#C68BC5", start: 47, end: 96 },
+  msk:   { name: "MSK", shortName: "MSK", range: "L97 – L147", color: "#2D6A4F", darkColor: "#6BBF8A", start: 97, end: 147 },
+  heme:  { name: "Heme-Onc", shortName: "HEME", range: "L148 – L192", color: "#8B1A1A", darkColor: "#E05555", start: 148, end: 192 },
+};
+
+function getBlockInfo(id) {
+  if (!id) return null;
+  const numMatch = id.replace(/^l/i, "").match(/(\d+)/);
+  if (!numMatch) return BLOCKS.neuro; // default for l1a etc
+  const num = parseInt(numMatch[1]);
+  if (num <= 46) return { ...BLOCKS.neuro, key: "neuro" };
+  if (num <= 96) return { ...BLOCKS.psych, key: "psych" };
+  if (num <= 147) return { ...BLOCKS.msk, key: "msk" };
+  return { ...BLOCKS.heme, key: "heme" };
+}
+
+function openBlock(blockKey) {
+  currentBlock = blockKey;
+  // Show sidebar if hidden
+  if (!sidebarVisible) {
+    sidebarVisible = true;
+    document.body.classList.remove("sidebar-hidden");
+  }
+  renderLectureList(document.getElementById("searchInput").value);
+  // Scroll lecture list to top
+  document.getElementById("lectureList").scrollTop = 0;
+}
+
+function clearBlockFilter() {
+  currentBlock = null;
+  renderLectureList(document.getElementById("searchInput").value);
+}
 
 // Global callback for lectures that use the window.receiveLectureContent(data) format
 window.receiveLectureContent = (data) => {
@@ -644,11 +681,11 @@ function updateActiveToC() {
   // Highlight sidebar links using data-target attribute
   document.querySelectorAll(".toc-link").forEach(link => {
     if (link.dataset.target === activeId) {
-      link.classList.add("text-solarized-blue", "dark:text-dark-accent", "font-semibold");
-      link.classList.remove("text-solarized-base00", "dark:text-dark-text");
+      link.classList.add("text-claude-accent", "dark:text-dark-accent", "font-semibold");
+      link.classList.remove("text-claude-text", "dark:text-dark-text");
     } else {
-      link.classList.remove("text-solarized-blue", "dark:text-dark-accent", "font-semibold");
-      link.classList.add("text-solarized-base00", "dark:text-dark-text");
+      link.classList.remove("text-claude-accent", "dark:text-dark-accent", "font-semibold");
+      link.classList.add("text-claude-text", "dark:text-dark-text");
     }
   });
 }
@@ -666,21 +703,8 @@ function debounce(func, wait) {
 }
 
 function createRipple(e) {
-  const button = e.currentTarget;
-  if (!button.classList.contains("ripple-container")) {
-    button.classList.add("ripple-container");
-  }
-  const ripple = document.createElement("span");
-  ripple.classList.add("ripple");
-  const rect = button.getBoundingClientRect();
-  const size = Math.max(rect.width, rect.height);
-  const x = e.clientX - rect.left - size / 2;
-  const y = e.clientY - rect.top - size / 2;
-  ripple.style.width = ripple.style.height = size + "px";
-  ripple.style.left = x + "px";
-  ripple.style.top = y + "px";
-  button.appendChild(ripple);
-  setTimeout(() => ripple.remove(), 600);
+  // Disabled to prevent flex container layout shifts
+  return;
 }
 
 function animateSearchIcon() {
@@ -771,8 +795,10 @@ function toggleTableOfContents() {
   const toc = document.getElementById("tableOfContents");
   if (tocVisible) {
     toc.classList.remove("hidden");
+    toc.style.display = ""; // fallback to css classes
   } else {
     toc.classList.add("hidden");
+    toc.style.display = "none"; // force hide over lg:block
   }
 }
 
@@ -808,107 +834,91 @@ function renderLectureList(searchQuery = "") {
   if (!query) {
     filtered = lectures;
   } else if (window.SEARCH_INDEX) {
-    // Advanced Token-based Search with Scoring
     const results = window.SEARCH_INDEX.map(item => {
       let score = 0;
       const titleLower = (item.title || "").toLowerCase();
       const moduleLower = (item.module || "").toLowerCase();
       const contentLower = (item.content || "").toLowerCase();
-
-      // 1. Whole query match (highest priority)
-      if (titleLower.includes(query)) {
-        score += 500;
-        if (titleLower.startsWith(query)) score += 100;
-      }
-
-      // 2. Term-based matching
+      if (titleLower.includes(query)) { score += 500; if (titleLower.startsWith(query)) score += 100; }
       let termsMatchedInTitle = 0;
       let allTermsMatched = true;
-
       terms.forEach(term => {
         let termMatched = false;
-        if (titleLower.includes(term)) {
-          score += 100;
-          termsMatchedInTitle++;
-          termMatched = true;
-        }
-        if (moduleLower.includes(term)) {
-          score += 50;
-          termMatched = true;
-        }
-        // Small score for content matches to ensure they appear but don't clutter the top
-        if (contentLower.includes(term)) {
-          score += 10;
-          termMatched = true;
-        }
-
+        if (titleLower.includes(term)) { score += 100; termsMatchedInTitle++; termMatched = true; }
+        if (moduleLower.includes(term)) { score += 50; termMatched = true; }
+        if (contentLower.includes(term)) { score += 10; termMatched = true; }
         if (!termMatched) allTermsMatched = false;
       });
-
-      // 3. Multi-term Bonuses
-      if (terms.length > 1) {
-        if (allTermsMatched) score += 200;
-        if (termsMatchedInTitle === terms.length) score += 100;
-      }
-
+      if (terms.length > 1) { if (allTermsMatched) score += 200; if (termsMatchedInTitle === terms.length) score += 100; }
       return { id: item.id, score };
-    })
-      .filter(r => r.score > 0)
-      .sort((a, b) => b.score - a.score);
-
-    // Map back to lecture metadata objects
+    }).filter(r => r.score > 0).sort((a, b) => b.score - a.score);
     filtered = results.map(r => lectures.find(l => l.id === r.id)).filter(Boolean);
   } else {
-    // Fallback if index not loaded - simple token match
     filtered = lectures.filter(lec => {
       const titleLower = (lec.title || "").toLowerCase();
       const tagsLower = (lec.tags || "").toLowerCase();
       const moduleLower = (lec.module || "").toLowerCase();
-      return terms.every(term =>
-        titleLower.includes(term) ||
-        tagsLower.includes(term) ||
-        moduleLower.includes(term)
-      );
+      return terms.every(term => titleLower.includes(term) || tagsLower.includes(term) || moduleLower.includes(term));
     });
   }
 
-  const html = filtered
-    .map((lec) => {
-      const isActive = selectedLecture?.id === lec.id;
-      const isComplete = completedLectures.has(lec.id);
-      const moduleClass = isActive ? getModuleClass(lec.module) : "";
+  // Block filter
+  if (currentBlock && !query) {
+    const block = BLOCKS[currentBlock];
+    if (block) {
+      filtered = filtered.filter(lec => {
+        const bi = getBlockInfo(lec.id);
+        return bi && bi.key === currentBlock;
+      });
+    }
+  }
 
-      return `<button onclick="selectLecture('${lec.id
-        }')" class="group relative ripple-container w-full text-left p-3 my-1 rounded-xl transition-all duration-300 border border-transparent ${isActive
-          ? "bg-solarized-blue/10 dark:bg-white/5 border-solarized-blue/20 dark:border-white/10 shadow-lg scale-[1.02] backdrop-blur-sm"
-          : "hover:bg-black/5 dark:hover:bg-white/10 hover:border-black/5 dark:hover:border-white/10 hover:shadow-md hover:scale-[1.01]"
-        }">
-        <div class="absolute inset-x-0 bottom-0 h-px bg-gradient-to-r from-transparent via-white/10 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
-        <div class="flex justify-between items-center">
-            <div class="flex-1 min-w-0">
-                <div class="flex items-center justify-between mb-1">
-                   <div class="flex items-center gap-2">
-                       ${isActive ? `<div class="w-1.5 h-1.5 rounded-full bg-solarized-blue dark:bg-dark-accent shadow-glow"></div>` : ''} 
-                       <div class="text-[10px] font-bold text-solarized-cyan dark:text-dark-accent uppercase tracking-wider font-sans truncate opacity-80">${lec.module
-        }</div>
-                   </div>
-                   <div class="text-[10px] text-solarized-base1 dark:text-dark-muted font-sans opacity-60 flex items-center gap-1">
-                      <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-                      ${lec.readingTime || 5} min
-                   </div>
-                </div>
-                <div class="${isActive ? 'font-bold' : 'font-medium'} text-sm text-solarized-base01 dark:text-dark-text leading-snug font-sans trunc-multiline group-hover:text-solarized-blue dark:group-hover:text-white transition-colors">${lec.title
-        }</div>
+  // Group by block for section headers
+  let lastBlock = null;
+  let html = "";
+
+  // Block filter header
+  if (currentBlock) {
+    const block = BLOCKS[currentBlock];
+    html += `<div class="block-section-header flex items-center justify-between" style="color: ${isDark ? block.darkColor : block.color}">
+      <span>${block.name} · ${block.range}</span>
+      <button onclick="clearBlockFilter()" class="text-claude-muted dark:text-dark-muted hover:text-red-500 text-lg leading-none">&times;</button>
+    </div>`;
+  }
+
+  filtered.forEach((lec) => {
+    const block = getBlockInfo(lec.id);
+    const blockColor = isDark ? (block?.darkColor || "#E8956D") : (block?.color || "#D97757");
+    const isActive = selectedLecture?.id === lec.id;
+    const isComplete = completedLectures.has(lec.id);
+
+    // Section header for block grouping (when not filtered)
+    if (!currentBlock && !query && block && block.key !== lastBlock) {
+      lastBlock = block.key;
+      html += `<div class="block-section-header" style="color: ${blockColor}">${block.name} · ${block.range}</div>`;
+    }
+
+    html += `<button onclick="selectLecture('${lec.id}')" class="group relative w-full text-left p-3 my-0.5 transition-all duration-200 border-l-3 ${
+      isActive
+        ? "bg-claude-highlight dark:bg-dark-highlight"
+        : "hover:bg-claude-surface/50 dark:hover:bg-dark-hover"
+    }" style="border-left: 3px solid ${isActive ? blockColor : blockColor + '40'}">
+      <div class="flex justify-between items-center">
+        <div class="flex-1 min-w-0">
+          <div class="flex items-center justify-between mb-1">
+            <div class="text-[10px] font-bold uppercase tracking-wider font-sans truncate" style="color: ${blockColor}">${lec.module}</div>
+            <div class="text-[10px] text-claude-muted dark:text-dark-muted font-sans opacity-60 flex items-center gap-1">
+              <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+              ${lec.readingTime || 5} min
             </div>
-            ${isComplete ? `
-            <div class="ml-2 flex-shrink-0 text-green-500 dark:text-green-400 transform transition-transform duration-500 bounce-in">
-                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg>
-            </div>
-            ` : ''}
+          </div>
+          <div class="${isActive ? 'font-bold' : 'font-medium'} text-sm text-claude-text dark:text-dark-text leading-snug font-display">${lec.title}</div>
         </div>
-      </button>`;
-    })
-    .join("");
+        ${isComplete ? `<div class="ml-2 flex-shrink-0 text-claude-success dark:text-green-400"><svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg></div>` : ''}
+      </div>
+    </button>`;
+  });
+
   document.getElementById("lectureList").innerHTML = html;
 
   // Update Counts
@@ -916,11 +926,11 @@ function renderLectureList(searchQuery = "") {
   document.getElementById("lectureCount").innerHTML = `
     <div class="flex flex-col gap-1">
         <span>${lectures.length} lecture${lectures.length !== 1 ? "s" : ""} loaded</span>
-        <div class="text-[10px] opacity-80 font-bold ${isDark ? 'text-green-400' : 'text-green-600'}">
+        <div class="text-[10px] opacity-80 font-bold text-claude-success dark:text-green-400">
             ${Math.round((completedCount / lectures.length) * 100) || 0}% Completed (${completedCount}/${lectures.length})
         </div>
-        <div class="w-full h-1 bg-gray-200 dark:bg-gray-700 rounded-full overflow-hidden mt-1">
-            <div class="h-full bg-green-500 transition-all duration-500" style="width: ${(completedCount / lectures.length) * 100}%"></div>
+        <div class="w-full h-1 bg-claude-border dark:bg-dark-border rounded-full overflow-hidden mt-1">
+            <div class="h-full bg-claude-success transition-all duration-500" style="width: ${(completedCount / lectures.length) * 100}%"></div>
         </div>
     </div>
   `;
@@ -967,6 +977,13 @@ async function selectLecture(id) {
   // Update selectedLecture with full data
   selectedLecture = fullData;
 
+  // Set block color CSS variable for dynamic theming
+  const blockInfo = getBlockInfo(id);
+  if (blockInfo) {
+    const color = isDark ? blockInfo.darkColor : blockInfo.color;
+    document.documentElement.style.setProperty('--block-color', color);
+  }
+
   // Calculate Reading Time (refreshed with real content)
   calculateReadingTime();
 
@@ -1009,7 +1026,7 @@ async function selectLecture(id) {
 function renderSkeleton() {
   const contentDiv = document.getElementById("tabContent");
   const isDark = document.documentElement.classList.contains("dark");
-  const bgClass = isDark ? "bg-white/5" : "bg-gray-200";
+  const bgClass = isDark ? "bg-dark-surface" : "bg-claude-border";
 
   // Create a shimmer effect with multiple random-width lines
   let html = `
@@ -1060,15 +1077,15 @@ function updateCompleteButton() {
   // Toggle between Filled (Complete) and Outline (Incomplete)
   if (isComplete) {
     // Active/Clicked State -> Filled Green
-    btn.classList.add("bg-green-500", "text-white");
-    btn.classList.remove("bg-white/80", "text-green-600", "dark:bg-dark-surface/80", "dark:text-green-400");
+    btn.classList.add("bg-claude-accent/20", "text-claude-accent", "dark:bg-dark-accent/20", "dark:text-dark-accent");
+    btn.classList.remove("text-claude-text", "dark:text-dark-text");
 
     icon.innerHTML = '<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>';
     text.textContent = "Completed";
   } else {
     // Default State -> Outline Green
-    btn.classList.remove("bg-green-500", "text-white");
-    btn.classList.add("bg-white/80", "text-green-600", "dark:bg-dark-surface/80", "dark:text-green-400");
+    btn.classList.remove("bg-claude-accent/20", "text-claude-accent", "dark:bg-dark-accent/20", "dark:text-dark-accent");
+    btn.classList.add("text-claude-text", "dark:text-dark-text");
 
     icon.innerHTML = '<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>';
     text.textContent = "Mark Complete";
@@ -1118,10 +1135,7 @@ function switchTab(tab) {
   const arToggle = document.getElementById("activeRecallToggle");
   if (arToggle) {
     if (tab === "summary") {
-      arToggle.classList.remove("hidden");
       updateActiveRecallButtonState(); // Ensure correct state is shown
-    } else {
-      arToggle.classList.add("hidden");
     }
   }
 
@@ -1134,6 +1148,16 @@ function switchTab(tab) {
 function renderTabContent() {
   const contentDiv = document.getElementById("tabContent");
   const tocDiv = document.getElementById("tableOfContents");
+  const tocToggle = document.getElementById("tocToggle");
+  const arToggle = document.getElementById("activeRecallToggle");
+  const pearlbookBtn = document.getElementById("pearlbookBtn");
+  const completeBtn = document.getElementById("markCompleteBtn");
+
+  // Ensure all buttons are visible on all tabs as requested
+  if (tocToggle) tocToggle.classList.remove("hidden");
+  if (arToggle) arToggle.classList.remove("hidden");
+  if (pearlbookBtn) pearlbookBtn.classList.remove("hidden");
+  if (completeBtn) completeBtn.classList.remove("hidden");
 
   // Apply current font size
   contentDiv.style.fontSize = currentFontSize + "%";
@@ -1177,7 +1201,7 @@ function renderTabContent() {
       }
 
       // Ensure Base Classes are present (Recovery from previous bug state if hot-reloading)
-      contentDiv.classList.add("flex-1", "p-12", "max-w-none");
+      contentDiv.classList.add("flex-1", "max-w-none", "prose");
 
       // Ensure Header Toggle is visible
       const arToggle = document.getElementById("activeRecallToggle");
@@ -1196,13 +1220,13 @@ function renderTabContent() {
           '<div class="overflow-x-auto rounded-2xl border ' +
           (isDark
             ? "border-white/10 bg-white/5 backdrop-blur-md"
-            : "border-solarized-base1/10 bg-white/50 backdrop-blur-md") +
+            : "border-claude-border bg-claude-bg") +
           ' shadow-xl my-12 p-1"><table class="min-w-full divide-y ' +
           (isDark ? "divide-white/5" : "divide-solarized-base1/10") +
           '"><thead class="' +
           (isDark
             ? "bg-white/10 text-white"
-            : "bg-solarized-blue/90 text-white") +
+            : "bg-claude-accent/90 text-white") +
           ' rounded-t-xl"><tr>';
 
         headers.forEach((header, index) => {
@@ -1223,12 +1247,12 @@ function renderTabContent() {
         selectedLecture.drugData.forEach((row) => {
           tableHtml += `<tr class="${isDark
             ? "even:bg-white/5 hover:bg-white/10"
-            : "even:bg-solarized-base3/30 hover:bg-solarized-base2/50"
+            : "even:bg-claude-bg/30 hover:bg-claude-surface/50"
             } transition-colors duration-200">`;
           headers.forEach((header) => {
             let cellContent = row[header] || "";
             cellContent = cellContent.replace(/\n/g, "<br/>");
-            tableHtml += `<td class="px-6 py-4 text-base leading-relaxed font-serif ${isDark ? "text-dark-muted" : "text-solarized-base00"
+            tableHtml += `<td class="px-6 py-4 text-base leading-relaxed font-serif ${isDark ? "text-dark-muted" : "text-claude-text"
               }">${cellContent}</td>`;
           });
           tableHtml += "</tr>";
@@ -1239,10 +1263,37 @@ function renderTabContent() {
       }
 
       contentDiv.innerHTML = html;
+
+      // Drop Cap: find first text node with substantial text and wrap its first letter
+      const walker = document.createTreeWalker(contentDiv, NodeFilter.SHOW_TEXT, null, false);
+      let node;
+      while (node = walker.nextNode()) {
+        const parent = node.parentElement;
+        // Skip text in headings, lists, bylines, or badges
+        if (parent.closest('h1, h2, h3, h4, ul, ol, button, .text-xs, .byline, [class*="badge"]')) continue;
+        
+        const text = node.textContent.trim();
+        // Look for substantial paragraph text (not metadata)
+        if (text.length > 40 && !/^(Lecturer|Session|Topic|Module):/i.test(text)) {
+          const firstChar = text.charAt(0);
+          const rest = node.textContent.replace(/^\s*/, '').substring(1);
+          
+          const dropCapSpan = document.createElement('span');
+          dropCapSpan.className = 'float-left font-display text-7xl mr-3 mt-1 leading-none font-bold';
+          dropCapSpan.style.color = 'var(--block-color, #1a1a1a)';
+          dropCapSpan.textContent = firstChar;
+          
+          const restNode = document.createTextNode(rest);
+          parent.insertBefore(dropCapSpan, node);
+          parent.insertBefore(restNode, node);
+          parent.removeChild(node);
+          break;
+        }
+      }
+
       generateTableOfContents();
       tocDiv.classList.remove("hidden");
-      document.getElementById("tocToggle").classList.remove("hidden");
-      document.getElementById("tocToggle").classList.remove("hidden");
+      tocDiv.style.display = ""; // Restore css class behavior
       try { highlightSearchTerms(); } catch (e) { console.warn("Highlight error:", e); }
     } else if (activeTab === "questions") {
       const questions = selectedLecture.questions;
@@ -1255,18 +1306,18 @@ function renderTabContent() {
       if (!hasQuestions) {
         contentDiv.innerHTML = `
                 <div class="flex flex-col items-center justify-center py-20 text-center opacity-60">
-                    <svg class="w-24 h-24 mb-6 text-solarized-base1 dark:text-dark-muted opacity-50" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z"></path></svg>
-                    <p class="text-2xl font-bold font-sans text-solarized-base01 dark:text-dark-text mb-2">No Questions Yet</p>
-                    <p class="text-lg text-solarized-base1 dark:text-dark-muted max-w-md mx-auto leading-relaxed">This lecture doesn't have any practice questions available at the moment.</p>
+                    <svg class="w-24 h-24 mb-6 text-claude-muted dark:text-dark-muted opacity-50" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z"></path></svg>
+                    <p class="text-2xl font-bold font-sans text-claude-text dark:text-dark-text mb-2">No Questions Yet</p>
+                    <p class="text-lg text-claude-muted dark:text-dark-muted max-w-md mx-auto leading-relaxed">This lecture doesn't have any practice questions available at the moment.</p>
                 </div>
             `;
       } else {
         let questionsHtml = `
                 <div class="max-w-3xl mx-auto">
                     <div class="flex justify-between items-center mb-8">
-                        <h3 class="text-xl font-bold uppercase tracking-wider ${isDark ? "text-dark-muted" : "text-solarized-base1"
+                        <h3 class="text-xl font-bold uppercase tracking-wider ${isDark ? "text-dark-muted" : "text-claude-muted"
           }">Practice Questions</h3>
-                        <button onclick="toggleAllAnswers()" class="px-4 py-2 rounded-lg bg-solarized-blue/10 hover:bg-solarized-blue/20 text-solarized-blue dark:text-dark-accent font-bold text-sm transition-colors">
+                        <button onclick="toggleAllAnswers()" class="px-4 py-2 rounded-lg bg-claude-accent/10 hover:bg-claude-accent/20 text-claude-accent dark:text-dark-accent font-bold text-sm transition-colors">
                             Toggle All Answers
                         </button>
                     </div>
@@ -1283,9 +1334,9 @@ function renderTabContent() {
             q.options.forEach((opt, i) => {
               const letter = String.fromCharCode(65 + i); // A, B, C...
               optionsHtml += `
-                            <li class="flex items-start gap-3 p-3 rounded-lg hover:bg-solarized-base2/50 dark:hover:bg-white/5 transition-colors cursor-default group">
-                                <span class="flex-shrink-0 w-6 h-6 rounded-full bg-solarized-base1/20 dark:bg-white/10 text-solarized-base01 dark:text-dark-muted flex items-center justify-center text-xs font-bold group-hover:bg-solarized-blue group-hover:text-white dark:group-hover:bg-dark-accent transition-colors">${letter}</span>
-                                <span class="text-lg text-solarized-base00 dark:text-dark-muted leading-relaxed">${opt}</span>
+                            <li class="flex items-start gap-3 p-3 rounded-lg hover:bg-claude-surface/50 dark:hover:bg-white/5 transition-colors cursor-default group">
+                                <span class="flex-shrink-0 w-6 h-6 rounded-full bg-claude-border dark:bg-white/10 text-claude-text dark:text-dark-muted flex items-center justify-center text-xs font-bold group-hover:bg-claude-accent group-hover:text-white dark:group-hover:bg-dark-accent transition-colors">${letter}</span>
+                                <span class="text-lg text-claude-text dark:text-dark-muted leading-relaxed">${opt}</span>
                             </li>`;
             });
             optionsHtml += "</ul>";
@@ -1309,7 +1360,7 @@ function renderTabContent() {
                                 <div class="flex items-start gap-4">
                                     <span class="flex-shrink-0 w-8 h-8 rounded-full ${isDark
                 ? "bg-dark-accent/20 text-dark-accent"
-                : "bg-solarized-blue/10 text-solarized-blue"
+                : "bg-claude-accent/10 text-claude-accent"
               } flex items-center justify-center font-bold font-sans text-sm mt-1">${index + 1
               }</span>
                                     <div class="flex-1">
@@ -1323,9 +1374,9 @@ function renderTabContent() {
                             
                             <div class="border-t ${isDark
                 ? "border-dark-border"
-                : "border-solarized-base1/10"
+                : "border-claude-border/10"
               }">
-                                <button onclick="toggleAnswer('${qId}')" id="btn-${qId}" class="w-full py-4 bg-gray-50 dark:bg-white/5 hover:bg-gray-100 dark:hover:bg-white/10 text-solarized-blue dark:text-dark-accent font-bold text-sm uppercase tracking-wider transition-colors flex items-center justify-center gap-2">
+                                <button onclick="toggleAnswer('${qId}')" id="btn-${qId}" class="w-full py-4 bg-claude-surface dark:bg-white/5 hover:bg-claude-surface dark:hover:bg-white/10 text-claude-accent dark:text-dark-accent font-bold text-sm uppercase tracking-wider transition-colors flex items-center justify-center gap-2">
                                     <span>Reveal Answer</span>
                                     <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
                                 </button>
@@ -1377,9 +1428,9 @@ function renderTabContent() {
             questionText = questionText.replace(
               /^([A-E])\.\s+(.*)$/gm,
               (match, letter, text) => {
-                return `<div class="flex items-start gap-3 p-2 rounded-lg hover:bg-solarized-base2/50 dark:hover:bg-white/5 transition-colors cursor-default group my-1">
-                            <span class="flex-shrink-0 w-6 h-6 rounded-full bg-solarized-base1/20 dark:bg-white/10 text-solarized-base01 dark:text-dark-muted flex items-center justify-center text-xs font-bold group-hover:bg-solarized-blue group-hover:text-white dark:group-hover:bg-dark-accent transition-colors">${letter}</span>
-                            <span class="text-lg text-solarized-base00 dark:text-dark-muted leading-relaxed">${text}</span>
+                return `<div class="flex items-start gap-3 p-2 rounded-lg hover:bg-claude-surface/50 dark:hover:bg-white/5 transition-colors cursor-default group my-1">
+                            <span class="flex-shrink-0 w-6 h-6 rounded-full bg-claude-border dark:bg-white/10 text-claude-text dark:text-dark-muted flex items-center justify-center text-xs font-bold group-hover:bg-claude-accent group-hover:text-white dark:group-hover:bg-dark-accent transition-colors">${letter}</span>
+                            <span class="text-lg text-claude-text dark:text-dark-muted leading-relaxed">${text}</span>
                         </div>`;
               }
             );
@@ -1394,7 +1445,7 @@ function renderTabContent() {
                                 <div class="flex items-start gap-4">
                                     <span class="flex-shrink-0 w-8 h-8 rounded-full ${isDark
                 ? "bg-dark-accent/20 text-dark-accent"
-                : "bg-solarized-blue/10 text-solarized-blue"
+                : "bg-claude-accent/10 text-claude-accent"
               } flex items-center justify-center font-bold font-sans text-sm mt-1">${index + 1
               }</span>
                                     <div class="flex-1 prose dark:prose-invert max-w-none">
@@ -1407,9 +1458,9 @@ function renderTabContent() {
                 ? `
                             <div class="border-t ${isDark
                   ? "border-dark-border"
-                  : "border-solarized-base1/10"
+                  : "border-claude-border/10"
                 }">
-                                <button onclick="toggleAnswer('${qId}')" id="btn-${qId}" class="w-full py-4 bg-gray-50 dark:bg-white/5 hover:bg-gray-100 dark:hover:bg-white/10 text-solarized-blue dark:text-dark-accent font-bold text-sm uppercase tracking-wider transition-colors flex items-center justify-center gap-2">
+                                <button onclick="toggleAnswer('${qId}')" id="btn-${qId}" class="w-full py-4 bg-claude-surface dark:bg-white/5 hover:bg-claude-surface dark:hover:bg-white/10 text-claude-accent dark:text-dark-accent font-bold text-sm uppercase tracking-wider transition-colors flex items-center justify-center gap-2">
                                     <span>Reveal Answer</span>
                                     <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
                                 </button>
@@ -1497,13 +1548,13 @@ function renderTabContent() {
               confetti.style.left = x + "px";
               confetti.style.top = y + "px";
               confetti.style.backgroundColor = [
-                "#268bd2",
-                "#2aa198",
-                "#859900",
-                "#b58900",
-                "#dc322f",
-                "#d33682",
-                "#6c71c4",
+                "#D97757",
+                "#2C3E6B",
+                "#7B4B7A",
+                "#2D6A4F",
+                "#8B1A1A",
+                "#E8956D",
+                "#5A8A5E",
               ][Math.floor(Math.random() * 7)];
               confetti.style.transform = `rotate(${Math.random() * 360}deg)`;
 
@@ -1539,7 +1590,7 @@ function renderTabContent() {
       }
 
       tocDiv.classList.add("hidden");
-      document.getElementById("tocToggle").classList.add("hidden");
+      // tocToggle visibility logic removed to keep buttons persistent
     } else if (activeTab === "flashcards") {
       const flashcards =
         selectedLecture.flashcards ||
@@ -1581,28 +1632,28 @@ function renderTabContent() {
                                 <!-- FRONT -->
                                 <div class="absolute w-full h-full backface-hidden rounded-2xl p-6 ${isDark
               ? "bg-dark-surface border border-dark-border"
-              : "bg-white border border-solarized-base1/10"
+              : "bg-claude-bg border border-claude-border"
             } flex flex-col items-center justify-center text-center">
                                     <span class="absolute top-4 right-4 px-2 py-1 rounded text-xs font-bold uppercase tracking-wider ${tagClass}">${card.tag || "Card"
             }</span>
                                     <div class="text-xl font-bold font-sans ${isDark
               ? "text-dark-text"
-              : "text-solarized-base00"
+              : "text-claude-text"
             }">${card.front}</div>
                                     <div class="mt-4 text-xs font-bold uppercase tracking-widest opacity-40 ${isDark
               ? "text-dark-muted"
-              : "text-solarized-base1"
+              : "text-claude-muted"
             }">Click to Flip</div>
                                 </div>
 
                                 <!-- BACK -->
                                 <div class="absolute w-full h-full backface-hidden rotate-y-180 rounded-2xl p-6 ${isDark
               ? "bg-dark-surface border border-dark-accent"
-              : "bg-solarized-base3 border border-solarized-blue/30"
+              : "bg-claude-bg border border-claude-accent/30"
             } flex flex-col items-center justify-center text-center overflow-y-auto custom-scrollbar">
                                     <div class="text-lg font-serif leading-relaxed ${isDark
               ? "text-dark-text"
-              : "text-solarized-base01"
+              : "text-claude-text"
             }">${card.back}</div>
                                 </div>
                             </div>
@@ -1630,20 +1681,19 @@ function renderTabContent() {
       } else {
         contentDiv.innerHTML = `
                 <div class="flex flex-col items-center justify-center py-20 text-center opacity-60">
-                    <svg class="w-16 h-16 mb-4 text-solarized-base1 dark:text-dark-muted" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.428 15.428a2 2 0 00-1.022-.547l-2.387-.477a6 6 0 00-3.86.517l-.318.158a6 6 0 01-3.86.517L6.05 15.21a2 2 0 00-1.806.547M8 4h8l-1 1v5.172a2 2 0 00.586 1.414l5 5c1.26 1.26.367 3.414-1.415 3.414H4.828c-1.782 0-2.674-2.154-1.414-3.414l5-5A2 2 0 009 10.172V5L8 4z"></path></svg>
-                    <p class="text-xl font-sans font-medium text-solarized-base01 dark:text-dark-text">No flashcards available</p>
+                    <svg class="w-16 h-16 mb-4 text-claude-muted dark:text-dark-muted" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.428 15.428a2 2 0 00-1.022-.547l-2.387-.477a6 6 0 00-3.86.517l-.318.158a6 6 0 01-3.86.517L6.05 15.21a2 2 0 00-1.806.547M8 4h8l-1 1v5.172a2 2 0 00.586 1.414l5 5c1.26 1.26.367 3.414-1.415 3.414H4.828c-1.782 0-2.674-2.154-1.414-3.414l5-5A2 2 0 009 10.172V5L8 4z"></path></svg>
+                    <p class="text-xl font-sans font-medium text-claude-text dark:text-dark-text">No flashcards available</p>
                 </div>
             `;
       }
       tocDiv.classList.add("hidden");
-      document.getElementById("tocToggle").classList.add("hidden");
+      // tocToggle visibility logic removed to keep buttons persistent
     } else if (activeTab === "mindmap") {
-      contentDiv.innerHTML = `<div id="mindmap-container" class="w-full h-[600px] overflow-hidden bg-white/50 dark:bg-dark-surface/50 rounded-xl relative border ${isDark ? "border-dark-border" : "border-solarized-base1/20"
+      contentDiv.innerHTML = `<div id="mindmap-container" class="w-full h-[600px] overflow-hidden bg-white/50 dark:bg-dark-surface/50 rounded-xl relative border ${isDark ? "border-dark-border" : "border-claude-border/20"
         }"></div>`;
 
       // Hide Outline Button & TOC
-      const tocToggle = document.getElementById("tocToggle");
-      if (tocToggle) tocToggle.classList.add("hidden");
+      // tocToggle visibility logic removed to keep buttons persistent
       if (tocDiv) tocDiv.classList.add("hidden");
 
       // Extract hierarchy from markdown
@@ -1703,7 +1753,7 @@ function renderTabContent() {
       renderMindMapTree(root);
 
       tocDiv.classList.add("hidden");
-      document.getElementById("tocToggle").classList.add("hidden");
+      // tocToggle visibility logic removed to keep buttons persistent
     } else if (activeTab === "high-yield") {
       const pdfPath =
         selectedLecture.highYieldPdf ||
@@ -1713,14 +1763,14 @@ function renderTabContent() {
       contentDiv.innerHTML = `
                 <div id="pdfContainer" class="flex flex-col items-center gap-4 w-full" data-pdf-path="${pdfPath}">
                     <div id="pdfLoading" class="flex flex-col items-center justify-center py-20">
-                        <div class="animate-spin rounded-full h-12 w-12 border-b-2 border-solarized-blue dark:border-dark-accent mb-4"></div>
-                        <p class="text-lg font-sans text-solarized-base1 dark:text-dark-muted">Loading High Yield PDF...</p>
+                        <div class="animate-spin rounded-full h-12 w-12 border-b-2 border-claude-accent dark:border-dark-accent mb-4"></div>
+                        <p class="text-lg font-sans text-claude-muted dark:text-dark-muted">Loading High Yield PDF...</p>
                     </div>
                 </div>
             `;
 
       tocDiv.classList.add("hidden");
-      document.getElementById("tocToggle").classList.add("hidden");
+      // tocToggle visibility logic removed to keep buttons persistent
 
       // Render PDF using PDF.js
       if (window.pdfjsLib) {
@@ -1763,7 +1813,7 @@ function renderTabContent() {
               canvas.style.width = "100%";
               canvas.style.maxWidth = "100%";
               canvas.style.height = "auto";
-              canvas.className = `rounded-xl shadow-lg border ${isDark ? "border-dark-border" : "border-solarized-base1/20"
+              canvas.className = `rounded-xl shadow-lg border ${isDark ? "border-dark-border" : "border-claude-border/20"
                 }`;
 
               // Re-query container to ensure we are still attached or check existence
@@ -1792,7 +1842,7 @@ function renderTabContent() {
 
               currentContainer.innerHTML = `
                                 ${fallbackMessage}
-                                <iframe src="${pdfPath}" class="w-full h-[800px] rounded-xl border ${isDark ? "border-dark-border" : "border-solarized-base1/20"
+                                <iframe src="${pdfPath}" class="w-full h-[800px] rounded-xl border ${isDark ? "border-dark-border" : "border-claude-border/20"
                 }"></iframe>
                             `;
             }
@@ -1880,25 +1930,25 @@ function renderTabContent() {
                         <div class="text-center mb-8">
                             <div class="inline-flex items-center gap-3 px-6 py-3 rounded-full ${isDark
             ? "bg-dark-surface/50 border border-dark-border"
-            : "bg-white/50 border border-solarized-base1/20"
+            : "bg-white/50 border border-claude-border/20"
           } shadow-lg mb-4">
                                 <span class="text-3xl">${isInHouse ? "🎓" : "🎯"}</span>
                                 <h3 class="text-xl font-bold ${isDark
             ? "text-dark-text"
-            : "text-solarized-base01"
+            : "text-claude-text"
           }">${isInHouse ? "Institutional Material" : "Recommended Resources"}</h3>
                             </div>
                             <p class="text-sm ${isDark
             ? "text-dark-muted"
-            : "text-solarized-base1"
+            : "text-claude-muted"
           }">${isInHouse ? "Focus on core lecture content" : "Based on AnKing tag analysis"}</p>
                         </div>
                         
                         <!-- Primary Resource -->
                         <div class="mb-8">
                             <div class="relative overflow-hidden rounded-3xl ${primary.isPremium
-            ? (isDark ? "bg-dark-surface border-2 border-indigo-500/30 shadow-[0_0_50px_rgba(79,70,229,0.15)]" : "bg-white border-2 border-indigo-100 shadow-[0_0_40px_rgba(79,70,229,0.08)]")
-            : (isDark ? "bg-dark-surface border-2 border-dark-accent" : "bg-white border-2 border-solarized-blue")
+            ? (isDark ? "bg-dark-surface border-2 border-indigo-500/30 shadow-[0_0_50px_rgba(79,70,229,0.15)]" : "bg-claude-bg border-2 border-indigo-100 shadow-[0_0_40px_rgba(79,70,229,0.08)]")
+            : (isDark ? "bg-dark-surface border-2 border-dark-accent" : "bg-claude-bg border-2 border-claude-accent")
           } p-12 text-center transform transition-all duration-500">
                                 
                                 ${isInHouse ? `
@@ -1914,17 +1964,17 @@ function renderTabContent() {
                                             <span class="animate-pulse">✨</span> High Priority Match
                                         </div>
 
-                                        <h4 class="text-3xl font-serif mb-4 ${isDark ? "text-dark-text" : "text-solarized-base01"}">
+                                        <h4 class="text-3xl font-serif mb-4 ${isDark ? "text-dark-text" : "text-claude-text"}">
                                             Institutional Focus Required
                                         </h4>
                                         
-                                        <p class="text-xl ${isDark ? "text-dark-muted" : "text-solarized-base1"} max-w-lg mx-auto leading-relaxed mb-8">
+                                        <p class="text-xl ${isDark ? "text-dark-muted" : "text-claude-muted"} max-w-lg mx-auto leading-relaxed mb-8">
                                             Focus on in-house material; no strong 3rd party match was found for this specific content.
                                         </p>
 
                                         <div class="flex flex-col items-center">
                                             <span class="text-xs font-bold uppercase tracking-widest ${isDark ? "text-indigo-400/60" : "text-indigo-500/60"} mb-2">Lecture Reference</span>
-                                            <span class="text-lg font-medium ${isDark ? "text-dark-text" : "text-solarized-base00"}">
+                                            <span class="text-lg font-medium ${isDark ? "text-dark-text" : "text-claude-text"}">
                                                 ${ankingData.chapter.replace(/_/g, " ").replace(/>/g, " › ")}
                                             </span>
                                         </div>
@@ -1938,8 +1988,8 @@ function renderTabContent() {
                                         <div class="px-3 py-1 rounded-full bg-yellow-400 text-yellow-900 text-xs font-bold uppercase flex items-center gap-1 shadow-md mb-6">
                                             <span>⭐</span> Best Match
                                         </div>
-                                        <h4 class="text-sm font-bold uppercase tracking-widest ${isDark ? "text-dark-muted" : "text-solarized-base1"} mb-2">Topic / Chapter</h4>
-                                        <p class="text-2xl font-serif ${isDark ? "text-dark-text" : "text-solarized-base00"} leading-tight">
+                                        <h4 class="text-sm font-bold uppercase tracking-widest ${isDark ? "text-dark-muted" : "text-claude-muted"} mb-2">Topic / Chapter</h4>
+                                        <p class="text-2xl font-serif ${isDark ? "text-dark-text" : "text-claude-text"} leading-tight">
                                             ${ankingData.chapter.replace(/_/g, " ").replace(/>/g, " › ")}
                                         </p>
                                     </div>
@@ -1953,7 +2003,7 @@ function renderTabContent() {
                         <div class="mb-6">
                             <h4 class="text-sm font-bold uppercase tracking-wider ${isDark
               ? "text-dark-muted"
-              : "text-solarized-base1"
+              : "text-claude-muted"
             } mb-4 flex items-center gap-2">
                                 <span class="w-8 h-px ${isDark
               ? "bg-dark-border"
@@ -1973,7 +2023,7 @@ function renderTabContent() {
             html += `
                             <div class="group rounded-xl ${isDark
                 ? "bg-dark-surface/30 hover:bg-dark-surface border border-dark-border"
-                : "bg-solarized-base2/30 hover:bg-white border border-solarized-base1/10"
+                : "bg-claude-surface/30 hover:bg-white border border-claude-border/10"
               } p-5 transition-all duration-300 hover:shadow-lg hover:scale-[1.01]">
                                 <div class="flex items-start gap-4">
                                     <div class="flex items-center gap-2 px-3 py-1.5 rounded-lg ${altStyle.bg
@@ -1984,7 +2034,7 @@ function renderTabContent() {
                                     <div class="flex-1 min-w-0">
                                         <p class="text-sm ${isDark
                 ? "text-dark-muted"
-                : "text-solarized-base00"
+                : "text-claude-text"
               } leading-relaxed">
                                             ${alt.chapter
                 .replace(/_/g, " ")
@@ -2007,13 +2057,13 @@ function renderTabContent() {
       } else {
         contentDiv.innerHTML = `
                     <div class="flex flex-col items-center justify-center py-20 text-center">
-                        <div class="w-32 h-32 mb-6 rounded-full ${isDark ? "bg-dark-surface" : "bg-solarized-base2"
+                        <div class="w-32 h-32 mb-6 rounded-full ${isDark ? "bg-dark-surface" : "bg-claude-surface"
           } flex items-center justify-center shadow-lg">
                             <span class="text-6xl">🏫</span>
                         </div>
-                        <h3 class="text-2xl font-bold mb-4 ${isDark ? "text-dark-text" : "text-solarized-base01"
+                        <h3 class="text-2xl font-bold mb-4 ${isDark ? "text-dark-text" : "text-claude-text"
           }">In-House Lecture is Best</h3>
-                        <p class="text-lg ${isDark ? "text-dark-muted" : "text-solarized-base1"
+                        <p class="text-lg ${isDark ? "text-dark-muted" : "text-claude-muted"
           } max-w-md mx-auto leading-relaxed">
                             This lecture doesn't have a strong match with third-party resources. Focus on your in-house materials!
                         </p>
@@ -2022,11 +2072,9 @@ function renderTabContent() {
       }
 
       tocDiv.classList.add("hidden");
-      document.getElementById("tocToggle").classList.add("hidden");
+      // tocToggle visibility logic removed to keep buttons persistent
     } else {
-      // Hide Active Recall Toggle for other tabs
-      const arToggle = document.getElementById("activeRecallToggle");
-      if (arToggle) arToggle.classList.add("hidden");
+      // Active Recall Toggle remains visible for all tabs
     }
   } catch (e) {
     console.error("Error rendering tab content:", e);
@@ -2046,7 +2094,7 @@ function generateTableOfContents() {
 
   let html =
     '<h3 class="text-sm font-bold uppercase tracking-wider mb-4 ' +
-    (isDark ? "text-dark-muted" : "text-solarized-base1") +
+    (isDark ? "text-dark-muted" : "text-claude-muted") +
     '">Contents</h3><nav class="space-y-1">';
   headings.forEach((h, index) => {
     const id = "heading-" + index;
@@ -2055,7 +2103,7 @@ function generateTableOfContents() {
     const padding = (level - 1) * 12;
     html += `<a href="#" onclick="document.getElementById('${id}').scrollIntoView({behavior: 'smooth'}); return false;" data-target="${id}" class="block text-sm py-1 toc-link transition-colors duration-200 ${isDark
       ? "text-dark-text hover:text-dark-accent"
-      : "text-solarized-base00 hover:text-solarized-blue"
+      : "text-claude-text hover:text-claude-accent"
       }" style="padding-left: ${padding}px">${h.textContent}</a>`;
   });
   html += "</nav>";
@@ -2131,17 +2179,17 @@ function renderMarkdown(html) {
 
     let tableHtml =
       '<div class="overflow-x-auto rounded-xl border ' +
-      (isDark ? "border-dark-border" : "border-solarized-base1/30") +
+      (isDark ? "border-dark-border" : "border-claude-border/30") +
       ' shadow-lg my-8"><table class="min-w-full divide-y ' +
       (isDark ? "divide-dark-border" : "divide-solarized-base1/20") +
       '"><thead class="' +
-      (isDark ? "bg-dark-surface" : "bg-solarized-base2") +
+      (isDark ? "bg-dark-surface" : "bg-claude-surface") +
       '"><tr>';
 
     headerCells.forEach((cell) => {
       tableHtml +=
         '<th class="px-6 py-4 text-left text-xs font-bold uppercase tracking-wider font-sans ' +
-        (isDark ? "text-dark-accent" : "text-solarized-cyan") +
+        (isDark ? "text-dark-accent" : "text-claude-accent") +
         ' sticky top-0">' +
         cell +
         "</th>";
@@ -2151,7 +2199,7 @@ function renderMarkdown(html) {
       '</tr></thead><tbody class="divide-y ' +
       (isDark
         ? "divide-dark-border bg-dark-bg"
-        : "divide-solarized-base1/10 bg-white") +
+        : "divide-claude-border bg-claude-bg") +
       '">';
 
     bodyRows.forEach((row) => {
@@ -2165,13 +2213,13 @@ function renderMarkdown(html) {
 
       tableHtml +=
         '<tr class="' +
-        (isDark ? "hover:bg-dark-surface" : "hover:bg-solarized-base2/30") +
+        (isDark ? "hover:bg-dark-surface" : "hover:bg-claude-surface/30") +
         ' transition-colors duration-200">';
       cells.forEach((cell) => {
         const formatted = cell.trim().replace(/<br>/g, "<br/>");
         tableHtml +=
           '<td class="px-6 py-4 text-base leading-relaxed font-serif ' +
-          (isDark ? "text-dark-muted" : "text-solarized-base00") +
+          (isDark ? "text-dark-muted" : "text-claude-text") +
           '">' +
           formatted +
           "</td>";
@@ -2194,7 +2242,7 @@ function renderMarkdown(html) {
         ' shadow-sm"><div class="flex items-center gap-3 mb-3"><span class="text-2xl">⚡</span><h4 class="text-lg font-bold uppercase tracking-wide font-sans ' +
         (isDark ? "text-yellow-400" : "text-yellow-700") +
         '">High Yield</h4></div><div class="text-lg font-serif leading-relaxed ' +
-        (isDark ? "text-dark-text" : "text-solarized-base00") +
+        (isDark ? "text-dark-text" : "text-claude-text") +
         '">' +
         content.trim().replace(/\n/g, "<br/>") +
         "</div></div>"
@@ -2212,7 +2260,7 @@ function renderMarkdown(html) {
       ' shadow-sm"><div class="flex items-center gap-3 mb-3"><span class="text-2xl">💡</span><h4 class="text-lg font-bold uppercase tracking-wide font-sans ' +
       (isDark ? "text-orange-400" : "text-orange-700") +
       '">Clinical Pearl</h4></div><div class="text-lg font-serif leading-relaxed ' +
-      (isDark ? "text-dark-text" : "text-solarized-base00") +
+      (isDark ? "text-dark-text" : "text-claude-text") +
       '">' +
       content.trim().replace(/\n/g, "<br/>") +
       "</div></div>"
@@ -2241,11 +2289,11 @@ function renderMarkdown(html) {
             .replace(/^[\*\-]\s*/, "")
             .replace(
               /\*\*(.*?)\*\*/g,
-              '<strong class="font-bold text-solarized-base01 dark:text-dark-text">$1</strong>'
+              '<strong class="font-bold text-claude-text dark:text-dark-text">$1</strong>'
             );
           processedContent +=
             '<li class="text-lg font-serif leading-relaxed ' +
-            (isDark ? "text-dark-text" : "text-solarized-base00") +
+            (isDark ? "text-dark-text" : "text-claude-text") +
             '">' +
             itemText +
             "</li>";
@@ -2258,7 +2306,7 @@ function renderMarkdown(html) {
             // Fix: Just parse bold syntax normally, don't strip leading/trailing chars indiscriminately
             let processedLine = line.replace(
               /\*\*(.*?)\*\*/g,
-              '<strong class="font-bold text-solarized-base01 dark:text-dark-text">$1</strong>'
+              '<strong class="font-bold text-claude-text dark:text-dark-text">$1</strong>'
             );
 
             // Check if it's a "key: value" pair that should be bolded automatically?
@@ -2268,7 +2316,7 @@ function renderMarkdown(html) {
 
             processedContent +=
               '<p class="mb-2 text-lg font-serif leading-relaxed ' +
-              (isDark ? "text-dark-text" : "text-solarized-base00") +
+              (isDark ? "text-dark-text" : "text-claude-text") +
               '">' +
               processedLine +
               "</p>";
@@ -2311,11 +2359,11 @@ function renderMarkdown(html) {
             .replace(/^[\*\-]\s*/, "")
             .replace(
               /\*\*(.*?)\*\*/g,
-              '<strong class="font-bold text-solarized-base01 dark:text-dark-text">$1</strong>'
+              '<strong class="font-bold text-claude-text dark:text-dark-text">$1</strong>'
             );
           processedContent +=
             '<li class="text-lg font-serif leading-relaxed ' +
-            (isDark ? "text-dark-text" : "text-solarized-base00") +
+            (isDark ? "text-dark-text" : "text-claude-text") +
             '">' +
             itemText +
             "</li>";
@@ -2328,8 +2376,8 @@ function renderMarkdown(html) {
             const processedLine = line.replace(/^[\s\*]+|[\s\*]+$/g, "");
             processedContent +=
               '<p class="mb-2 text-lg font-serif leading-relaxed ' +
-              (isDark ? "text-dark-text" : "text-solarized-base00") +
-              '"><strong class="font-bold text-solarized-base01 dark:text-dark-text">' +
+              (isDark ? "text-dark-text" : "text-claude-text") +
+              '"><strong class="font-bold text-claude-text dark:text-dark-text">' +
               processedLine +
               "</strong></p>";
           }
@@ -2363,7 +2411,7 @@ function renderMarkdown(html) {
         itemsHtml +=
           '<div class="flex gap-3 items-start"><span class="mt-2 w-1.5 h-1.5 rounded-full flex-shrink-0 ' +
           (isDark ? "bg-dark-accent" : "bg-solarized-cyan") +
-          '"></span><span class="text-solarized-base00 dark:text-dark-muted">' +
+          '"></span><span class="text-claude-text dark:text-dark-muted">' +
           cleaned +
           "</span></div>";
       });
@@ -2371,10 +2419,10 @@ function renderMarkdown(html) {
         '<details class="my-8 group"><summary class="cursor-pointer px-6 py-4 rounded-xl border ' +
         (isDark
           ? "bg-dark-surface/50 border-dark-border hover:bg-dark-surface text-dark-accent"
-          : "bg-solarized-blue/5 border-solarized-blue/20 hover:bg-solarized-blue/10 text-solarized-blue") +
+          : "bg-claude-accent/5 border-claude-accent/20 hover:bg-claude-accent/10 text-claude-accent") +
         ' transition-all duration-300 flex items-center gap-3 font-bold text-sm list-none font-sans shadow-sm"><svg class="w-5 h-5 flex-shrink-0 transition-transform duration-200 group-open:rotate-90" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg><span>Slides ' +
         label +
-        '</span></summary><div class="mt-4 ml-2 pl-6 border-l-2 border-solarized-base1/20 dark:border-dark-border text-base font-serif leading-relaxed space-y-3 slide-up">' +
+        '</span></summary><div class="mt-4 ml-2 pl-6 border-l-2 border-claude-border/20 dark:border-dark-border text-base font-serif leading-relaxed space-y-3 slide-up">' +
         itemsHtml +
         "</div></details>"
       );
@@ -2384,76 +2432,50 @@ function renderMarkdown(html) {
   // Remove leading page breaks (dashes at start of content)
   html = html.replace(/^[\s\n]*(-{3,5}|\*{3})[\s\n]+/, "");
 
-  // H1 (Lecture Title Style) - reduced bottom margin for tighter spacing
+  // H1 (Lecture Title Style)
   html = html.replace(
     /^# (.*$)/gm,
-    '<h1 class="text-4xl font-bold mb-4 pb-4 border-b-2 ' +
-    (isDark
-      ? "border-dark-border text-transparent bg-clip-text bg-gradient-to-r from-violet-400 to-indigo-500"
-      : "border-solarized-base1/20 text-transparent bg-clip-text bg-gradient-to-r from-solarized-blue to-solarized-cyan") +
-    ' font-sans text-left">$1</h1>'
+    '<h1 class="text-4xl font-bold mb-4 pb-4 border-b border-claude-border dark:border-dark-border text-claude-text dark:text-dark-text font-display text-left">$1</h1>'
   );
 
-  // H2 (Poppy Block Style - Centered, Block, 4 Dots)
+  // H2 (Section Header — thin terracotta rule above)
   html = html.replace(
     /^## (.*$)/gm,
-    '<div class="my-16 p-8 rounded-2xl ' +
-    (isDark
-      ? "bg-dark-surface shadow-lg border border-dark-border"
-      : "bg-white shadow-xl border border-white/50") +
-    ' text-center transform hover:scale-[1.02] transition-transform duration-300"><div class="flex justify-center gap-2 mb-4"><div class="w-1.5 h-1.5 rounded-full bg-red-500"></div><div class="w-1.5 h-1.5 rounded-full bg-yellow-500"></div><div class="w-1.5 h-1.5 rounded-full bg-green-500"></div><div class="w-1.5 h-1.5 rounded-full bg-blue-500"></div></div><h2 class="text-3xl font-black ' +
-    (isDark
-      ? "text-transparent bg-clip-text bg-gradient-to-r from-violet-400 to-indigo-500"
-      : "text-transparent bg-clip-text bg-gradient-to-r from-solarized-cyan to-solarized-blue") +
-    ' font-display tracking-tight">$1</h2></div>'
+    '<div class="mt-12 mb-6 pt-8 border-t-2 border-claude-accent dark:border-dark-accent"><h2 class="text-3xl font-bold text-claude-text dark:text-dark-text font-display tracking-tight">$1</h2></div>'
   );
 
   // H3 (Subsections)
   html = html.replace(
     /^### (.*$)/gm,
-    '<h3 class="text-2xl font-bold mt-8 mb-4 ' +
-    (isDark ? "text-dark-accent" : "text-solarized-blue") +
-    ' font-sans flex items-center gap-2 text-left"><span class="w-2 h-8 rounded-full ' +
-    (isDark ? "bg-dark-accent" : "bg-solarized-blue") +
-    '"></span>$1</h3>'
+    '<h3 class="text-2xl font-bold mt-8 mb-4 text-claude-text dark:text-dark-text font-display text-left">$1</h3>'
   );
 
   // H4 (Sub-subsections)
   html = html.replace(
     /^#### (.*$)/gm,
-    '<h4 class="text-xl font-bold mt-6 mb-3 ' +
-    (isDark ? "text-dark-text" : "text-solarized-base01") +
-    ' font-sans flex items-center gap-2 text-left"><span class="w-1.5 h-1.5 rounded-full ' +
-    (isDark ? "bg-dark-muted" : "bg-solarized-base1") +
-    '"></span>$1</h4>'
+    '<h4 class="text-xl font-bold mt-6 mb-3 text-claude-text dark:text-dark-text font-display text-left">$1</h4>'
   );
 
   // HR (Hidden)
   html = html.replace(/^\*{3,}$/gm, "");
   html = html.replace(/^-{3,}$/gm, "");
 
-  // Blockquotes
+  // Blockquotes (Pull Quote Style)
   html = html.replace(
     /^> (.*$)/gm,
-    '<div class="my-8 pl-8 pr-6 py-6 border-l-4 ' +
-    (isDark
-      ? "border-dark-accent bg-dark-surface/50"
-      : "border-solarized-yellow bg-solarized-yellow/10") +
-    " rounded-r-xl italic text-xl font-serif " +
-    (isDark ? "text-dark-text" : "text-solarized-base01") +
-    ' shadow-sm relative"><span class="absolute top-2 left-2 text-4xl opacity-20 font-serif">"</span>$1</div>'
+    '<div class="my-10 py-6 px-8 border-t border-b border-claude-accent dark:border-dark-accent text-center italic text-xl font-display text-claude-text dark:text-dark-text leading-relaxed max-w-[85%] mx-auto">$1</div>'
   );
 
   // Bold
   html = html.replace(
     /\*\*(.*?)\*\*/g,
-    '<strong class="recall-target font-bold text-solarized-base01 dark:text-dark-text">$1</strong>'
+    '<strong class="recall-target font-bold text-claude-text dark:text-dark-text">$1</strong>'
   );
 
   // Italics
   html = html.replace(
     /(\*|_)(.*?)\1/g,
-    '<em class="italic text-solarized-base01 dark:text-dark-text">$2</em>'
+    '<em class="italic text-claude-text dark:text-dark-text">$2</em>'
   );
 
   // Lists (Improved Parsing & Interactivity)
@@ -2478,7 +2500,7 @@ function renderMarkdown(html) {
     if (level >= 2) typeStyle = 'square';
 
     return (
-      '<ul><li class="relative pl-2 leading-relaxed text-lg text-solarized-base00 dark:text-dark-muted font-serif hover:scale-[1.01] origin-left transition-transform duration-200 cursor-default" style="margin-left: ' +
+      '<ul><li class="relative pl-2 leading-relaxed text-lg text-claude-text dark:text-dark-muted font-serif hover:scale-[1.01] origin-left transition-transform duration-200 cursor-default" style="margin-left: ' +
       ml +
       'rem; list-style-type: ' + typeStyle + ';">' +
       content +
@@ -2489,7 +2511,7 @@ function renderMarkdown(html) {
   html = html.replace(/^(\s*)\d+\.\s+(.*)$/gm, (match, indent, content) => {
     const ml = indent.length * 0.5;
     return (
-      '<ol><li class="relative pl-2 leading-relaxed text-lg text-solarized-base00 dark:text-dark-muted font-serif hover:scale-[1.01] origin-left transition-transform duration-200 cursor-default" style="margin-left: ' +
+      '<ol><li class="relative pl-2 leading-relaxed text-lg text-claude-text dark:text-dark-muted font-serif hover:scale-[1.01] origin-left transition-transform duration-200 cursor-default" style="margin-left: ' +
       ml +
       'rem">' +
       content +
@@ -2505,13 +2527,13 @@ function renderMarkdown(html) {
   html = html.replace(
     /<ul>/g,
     '<ul class="list-disc list-outside ml-6 my-6 space-y-2 marker:' +
-    (isDark ? "text-dark-accent" : "text-solarized-blue") +
+    (isDark ? "text-dark-accent" : "text-claude-accent") +
     '">'
   );
   html = html.replace(
     /<ol>/g,
     '<ol class="list-decimal list-outside ml-6 my-6 space-y-2 marker:font-bold marker:' +
-    (isDark ? "text-dark-accent" : "text-solarized-blue") +
+    (isDark ? "text-dark-accent" : "text-claude-accent") +
     '">'
   );
 
@@ -2547,24 +2569,26 @@ function renderMarkdown(html) {
   // Paragraphs
   html = html.replace(
     /\n\n/g,
-    '</div><div class="mb-8 leading-loose text-lg font-serif text-solarized-base00 dark:text-dark-muted text-justify hyphens-auto">'
+    '</div><div class="mb-6 leading-relaxed text-lg font-serif text-claude-text dark:text-dark-text">'
   );
   html = html.replace(/\n/g, " ");
 
   // Slide Citations: "(Slide X)" -> Badge
   html = html.replace(
     /\(Slide\s+(\d+)\)/gi,
-    '<span class="inline-flex items-center px-2 py-0.5 rounded text-xs font-medium bg-solarized-blue/10 dark:bg-dark-accent/10 text-solarized-blue dark:text-dark-accent mx-1 align-baseline cursor-default select-none" title="From Slide $1">Slide $1</span>'
+    '<span class="inline-flex items-center px-2 py-0.5 rounded text-xs font-medium bg-claude-accent/10 dark:bg-dark-accent/10 text-claude-accent dark:text-dark-accent mx-1 align-baseline cursor-default select-none" title="From Slide $1">Slide $1</span>'
   );
 
   // Cross-Links: "[[L102]]" -> Clickable Link
   html = html.replace(/\[\[(L\d+)\]\]/gi, function (match, lectureId) {
     const id = lectureId.toLowerCase(); // Ensure lowercase matching if your IDs are case-sensitive
-    return `<button onclick="selectLecture('${id}'); return false;" class="text-solarized-blue dark:text-dark-accent hover:underline font-bold transition-colors inline-flex items-center gap-0.5"><svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"/></svg>${lectureId}</button>`;
+    return `<button onclick="selectLecture('${id}'); return false;" class="text-claude-accent dark:text-dark-accent hover:underline font-bold transition-colors inline-flex items-center gap-0.5"><svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"/></svg>${lectureId}</button>`;
   });
 
+
+
   return (
-    '<div class="mb-8 leading-loose text-lg font-serif text-solarized-base00 dark:text-white text-justify hyphens-auto">' +
+    '<div class="mb-6 leading-relaxed text-lg font-serif text-claude-text dark:text-dark-text">' +
     html +
     "</div>"
   );
@@ -2576,9 +2600,37 @@ function updateWelcomeMessage() {
       ? lectures.length +
       " lecture" +
       (lectures.length !== 1 ? "s" : "") +
-      " loaded. Select one to begin."
+      " · Select one to begin reading"
       : "No lectures loaded. Ensure lectures_data.js exists.";
   document.getElementById("welcomeMessage").textContent = msg;
+
+  // Render Block Cards
+  const cardsDiv = document.getElementById("welcomeBlockCards");
+  if (cardsDiv) {
+    let cardsHtml = "";
+    Object.entries(BLOCKS).forEach(([key, block]) => {
+      const blockLectures = lectures.filter(l => {
+        const bi = getBlockInfo(l.id);
+        return bi && bi.key === key;
+      });
+      const completed = blockLectures.filter(l => completedLectures.has(l.id)).length;
+      const total = blockLectures.length;
+      const pct = total > 0 ? Math.round((completed / total) * 100) : 0;
+      const color = isDark ? block.darkColor : block.color;
+
+      cardsHtml += `
+        <button onclick="openBlock('${key}')" class="group text-left p-6 border editorial-border bg-claude-surface dark:bg-dark-surface shadow-sm hover:shadow-md transition-all duration-200 hover:-translate-y-0.5" style="border-top: 4px solid ${color}">
+          <div class="text-xs font-bold uppercase tracking-wider font-sans mb-1" style="color: ${color}">${block.shortName}</div>
+          <div class="text-sm font-display text-claude-text dark:text-dark-text mb-2">${block.name}</div>
+          <div class="text-[10px] text-claude-muted dark:text-dark-muted font-sans">${block.range}</div>
+          <div class="mt-2 w-full h-1 bg-claude-border dark:bg-dark-border rounded-full overflow-hidden">
+            <div class="h-full rounded-full transition-all duration-500" style="width: ${pct}%; background: ${color}"></div>
+          </div>
+          <div class="text-[10px] text-claude-muted dark:text-dark-muted font-sans mt-2 uppercase tracking-widest">${pct}% · ${completed}/${total}</div>
+        </button>`;
+    });
+    cardsDiv.innerHTML = cardsHtml;
+  }
 
   // Add Footer
   const welcomeScreen = document.getElementById("welcomeScreen");
@@ -2586,36 +2638,9 @@ function updateWelcomeMessage() {
     const footer = document.createElement("div");
     footer.id = "qh-footer";
     footer.className =
-      "absolute bottom-4 text-xs font-sans opacity-40 tracking-widest uppercase";
+      "absolute bottom-4 text-xs font-sans opacity-40 tracking-widest uppercase text-claude-muted dark:text-dark-muted";
     footer.textContent = "Created by QH";
     welcomeScreen.appendChild(footer);
-  }
-
-  // Antigravity Effect
-  if (welcomeScreen) {
-    const card = welcomeScreen.querySelector(".bg-white"); // Target the card
-    if (card) {
-      document.addEventListener("mousemove", (e) => {
-        if (welcomeScreen.classList.contains("hidden")) return;
-
-        const x = e.clientX;
-        const y = e.clientY;
-        const rect = card.getBoundingClientRect();
-        const cardX = rect.left + rect.width / 2;
-        const cardY = rect.top + rect.height / 2;
-
-        const angleX = (y - cardY) / 25;
-        const angleY = (cardX - x) / 25;
-
-        card.style.transform = `rotateX(${angleX}deg) rotateY(${angleY}deg) scale(1.02)`;
-        card.style.transition = "transform 0.1s ease-out";
-      });
-
-      document.addEventListener("mouseleave", () => {
-        card.style.transform = "rotateX(0) rotateY(0) scale(1)";
-        card.style.transition = "transform 0.5s ease-out";
-      });
-    }
   }
 }
 
@@ -2934,8 +2959,8 @@ function setupPearlbookModal() {
     if (!pearls || pearls.length === 0) {
       contentDiv.innerHTML = `
                 <div class="flex flex-col items-center justify-center py-20 text-center opacity-60">
-                    <svg class="w-16 h-16 mb-4 text-solarized-base1 dark:text-dark-muted" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"></path></svg>
-                    <p class="text-xl font-sans font-medium text-solarized-base01 dark:text-dark-text">No Pearls available for this lecture</p>
+                    <svg class="w-16 h-16 mb-4 text-claude-muted dark:text-dark-muted" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"></path></svg>
+                    <p class="text-xl font-sans font-medium text-claude-text dark:text-dark-text">No Pearls available for this lecture</p>
                 </div>
             `;
       return;
@@ -2948,7 +2973,7 @@ function setupPearlbookModal() {
       const pearlCard = document.createElement("div");
       pearlCard.className = `p-6 rounded-2xl border transition-all duration-300 ${isDark
         ? "bg-dark-bg/50 border-dark-border hover:border-dark-accent/50"
-        : "bg-white border-solarized-base1/10 hover:border-solarized-blue/30"
+        : "bg-white border-claude-border/10 hover:border-claude-accent/30"
         } shadow-sm hover:shadow-md animate-in`;
       pearlCard.style.animationDelay = `${index * 50}ms`;
 
@@ -2965,9 +2990,9 @@ function setupPearlbookModal() {
                         <span class="font-bold font-sans text-lg">${index + 1}</span>
                     </div>
                     <div class="flex-1">
-                        <h3 class="text-lg font-bold mb-2 font-sans ${isDark ? "text-dark-text" : "text-solarized-base01"
+                        <h3 class="text-lg font-bold mb-2 font-sans ${isDark ? "text-dark-text" : "text-claude-text"
         }">${pearl.title}</h3>
-                        <div class="prose dark:prose-invert max-w-none text-base leading-relaxed ${isDark ? "text-dark-muted" : "text-solarized-base00"
+                        <div class="prose dark:prose-invert max-w-none text-base leading-relaxed ${isDark ? "text-dark-muted" : "text-claude-text"
         }">
                             ${renderedContent}
                         </div>
@@ -2981,20 +3006,7 @@ function setupPearlbookModal() {
   }
 
   btn.addEventListener('click', (e) => {
-    // Create ripple
-    const circle = document.createElement('span');
-    const diameter = Math.max(btn.clientWidth, btn.clientHeight);
-    const radius = diameter / 2;
-    circle.style.width = circle.style.height = `${diameter}px`;
-    circle.style.left = `${e.clientX - btn.getBoundingClientRect().left - radius}px`;
-    circle.style.top = `${e.clientY - btn.getBoundingClientRect().top - radius}px`;
-    circle.classList.add('ripple');
-    const ripple = btn.getElementsByClassName('ripple')[0];
-    if (ripple) {
-      ripple.remove();
-    }
-    btn.appendChild(circle);
-
+    e.stopPropagation();
     openModal();
   });
 
@@ -3033,15 +3045,15 @@ function updateActiveRecallButtonState() {
 
   if (activeRecall) {
     // Enabled State -> Filled Violet
-    btn.classList.add("bg-violet-500", "text-white");
-    btn.classList.remove("bg-white/80", "text-violet-600", "dark:bg-dark-surface/80", "dark:text-violet-300");
+    btn.classList.add("bg-claude-accent/20", "text-claude-accent", "dark:bg-dark-accent/20", "dark:text-dark-accent");
+    btn.classList.remove("text-claude-text", "dark:text-dark-text");
 
     // Icon: Eye Off (Hidden)
     icon.innerHTML = '<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13.875 18.825A10.05 10.05 0 0112 19c-4.478 0-8.268-2.943-9.543-7a9.97 9.97 0 011.563-3.029m5.858.908a3 3 0 114.243 4.243M9.878 9.878l4.242 4.242M9.88 9.88l-3.29-3.29m7.532 7.532l3.29 3.29M3 3l3.59 3.59m0 0A9.953 10.05 0 0112 5c4.478 0 8.268 2.943 9.543 7a10.025 10.05 0 01-4.132 5.411m0 0L21 21" />';
   } else {
     // Disabled State -> Outline
-    btn.classList.remove("bg-violet-500", "text-white");
-    btn.classList.add("bg-white/80", "text-violet-600", "dark:bg-dark-surface/80", "dark:text-violet-300");
+    btn.classList.remove("bg-claude-accent/20", "text-claude-accent", "dark:bg-dark-accent/20", "dark:text-dark-accent");
+    btn.classList.add("text-claude-text", "dark:text-dark-text");
 
     // Icon: Eye (Visible)
     icon.innerHTML = '<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" /><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z" />';
@@ -3071,7 +3083,7 @@ function highlightSearchTerms() {
   let found = false;
   matches.slice(0, 50).forEach(node => {
     const span = document.createElement('span');
-    span.innerHTML = node.nodeValue.replace(regex, '<mark class="bg-yellow-200 dark:bg-yellow-900/50 text-solarized-base00 dark:text-white rounded-sm px-0.5">$1</mark>');
+    span.innerHTML = node.nodeValue.replace(regex, '<mark class="bg-yellow-200 dark:bg-yellow-900/50 text-claude-text dark:text-white rounded-sm px-0.5">$1</mark>');
     node.parentNode.replaceChild(span, node);
     found = true;
   });

@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l52",
+  module: "Neuro",
     "id": "l52",
     "title": "Lecture 52: Pharmacology: Antiseizure Drugs 1",
     "module": "Pharmacology",

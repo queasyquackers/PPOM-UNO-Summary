@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l146",
+  module: "Unknown",
   "metadata": {
     "id": "l146",
     "title": "Pediatric Immunology",

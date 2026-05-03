@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l165",
+  module: "Pharmacology",
   metadata: {
     title: "Pharmacology: Antiplatelets and Fibrinolytics",
     lecturer: "L. Goldstein, Pharm.D. (Session 165)",

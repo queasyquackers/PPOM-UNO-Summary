@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l51",
+  module: "DPR",
     "id": "l51",
     "title": "Lecture 51: Differential Diagnosis of Memory Disorders",
     "module": "Neurology",

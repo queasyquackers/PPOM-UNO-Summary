@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l102",
+  module: "Neuro",
     "id": "l102",
     "title": "Lecture #102: Pharmacology: CNS Infections",
     "lecturer": "M. Pino, Ph.D.",

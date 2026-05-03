@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l162",
+  module: "Neuro",
   metadata: {
     title: "Pathology of Thrombosis",
     lecturer: "Maria M. Plummer, M.D. (Session 162)",

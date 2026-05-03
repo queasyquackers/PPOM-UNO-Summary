@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l117",
+  module: "Pharmacology",
     "id": "l117",
     "title": "Pharmacology of NSAIDs",
     "lecturer": "L. Goldstein, Pharm.D.",

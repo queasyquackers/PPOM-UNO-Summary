@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l66",
+  module: "Neuro",
     "id": "l66",
     "title": "Lecture #66: Pharmacology: Local Anesthetics",
     "lecturer": "L. Goldstein",

@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l67",
+  module: "Neuro",
     "id": "l67",
     "title": "Lecture #67: Pharmacology: Opioid Analgesics",
     "lecturer": "M. Pino, Ph.D.",

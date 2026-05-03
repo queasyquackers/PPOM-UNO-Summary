@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l49",
+  module: "Neuro",
     "id": "l49",
     "title": "Lecture 49: Sleep and Sleep Disturbances",
     "module": "Neurology",

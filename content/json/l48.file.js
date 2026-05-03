@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l48",
+  module: "Neuro",
     "id": "l48",
     "title": "Lecture 48: Pharmacology: Sedative Hypnotics",
     "module": "Neurology",

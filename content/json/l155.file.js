@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l155",
+  module: "Unknown",
   "metadata": {
     "id": "l155",
     "title": "Pathology: Hemorrhage and Thrombosis",

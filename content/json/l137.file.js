@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l137",
+  module: "Unknown",
     "id": "l137",
     "title": "Test of Immune Function",
     "lecturer": "S. Punatar, D.O.",

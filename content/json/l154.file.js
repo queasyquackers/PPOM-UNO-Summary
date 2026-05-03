@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l154",
+  module: "Unknown",
   "metadata": {
     "id": "l154",
     "title": "Pathology: Leukemias, Lymphomas, and Plasma Cell Neoplasms",

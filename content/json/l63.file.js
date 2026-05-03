@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l63",
+  module: "Neuro",
     "id": "l63",
     "title": "Lecture #63: Headache",
     "lecturer": "Adam Reno, D.O.",

@@ -11,16 +11,16 @@ def extract_content(file_content):
     data = {}
     
     # Extract ID
-    id_match = re.search(r'["\']id["\']:\s*["\']([^"\']+)["\']', file_content)
+    id_match = re.search(r'["\']?id["\']?:\s*["\']([^"\']+)["\']', file_content)
     data['id'] = id_match.group(1) if id_match else "unknown"
     
     # Extract Title
-    title_match = re.search(r'["\']title["\']:\s*["\']([^"\']+)["\']', file_content)
+    title_match = re.search(r'["\']?title["\']?:\s*["\']([^"\']+)["\']', file_content)
     data['title'] = title_match.group(1).strip() if title_match else "Untitled"
     data['title'] = data['title'].replace("**", "")
 
     # Extract Module
-    module_match = re.search(r'["\']module["\']:\s*["\']([^"\']+)["\']', file_content)
+    module_match = re.search(r'["\']?module["\']?:\s*["\']([^"\']+)["\']', file_content)
     data['module'] = module_match.group(1).strip() if module_match else "Unknown"
 
     # Minimal cleaner for text content

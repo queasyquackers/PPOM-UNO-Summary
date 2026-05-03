@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l161",
+  module: "Unknown",
   metadata: {
     title: "Pathology of Hemorrhage",
     lecturer: "Maria M. Plummer, M.D. (Session 161)",

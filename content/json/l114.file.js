@@ -1,4 +1,6 @@
 window.receiveLectureContent({
+  id: "l114",
+  module: "Neuro",
     "id": "l114",
     "title": "Introduction to Musculoskeletal Ultrasound",
     "lecturer": "J. Mazzie, D.O.",
