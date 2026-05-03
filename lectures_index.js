@@ -1344,6 +1344,14 @@ window.receiveLectureIndex([
     "tags": "Lecture #172",
     "path": "content/json/l172.file.js",
     "readingTime": "13-17 min"
+  },
+  {
+    "id": "l173",
+    "title": "Lecture #173: Chemotherapy of Protozoal Infections",
+    "module": "Pharmacology",
+    "tags": "Lecture #173",
+    "path": "content/json/l173.file.js",
+    "readingTime": "13-16 min"
   }
 ]);
 
