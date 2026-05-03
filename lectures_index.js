@@ -5,7 +5,7 @@ window.receiveLectureIndex([
     "module": "OMM",
     "tags": "Lecture #1a",
     "path": "content/json/l1a.file.js",
-    "readingTime": 3
+    "readingTime": 4
   },
   {
     "id": "l1b",
@@ -13,7 +13,7 @@ window.receiveLectureIndex([
     "module": "OMM",
     "tags": "Lab Prep Lecture",
     "path": "content/json/l1b.file.js",
-    "readingTime": 3
+    "readingTime": 4
   },
   {
     "id": "l2",
@@ -21,7 +21,7 @@ window.receiveLectureIndex([
     "module": "Neuro",
     "tags": "Lecture #2",
     "path": "content/json/l2.file.js",
-    "readingTime": 3
+    "readingTime": 4
   },
   {
     "id": "l3",
@@ -29,7 +29,7 @@ window.receiveLectureIndex([
     "module": "Neuroanatomy",
     "tags": "Lecture #3",
     "path": "content/json/l3.file.js",
-    "readingTime": 3
+    "readingTime": 4
   },
   {
     "id": "l4",
@@ -37,7 +37,7 @@ window.receiveLectureIndex([
     "module": "Neuroanatomy",
     "tags": "Lecture #4",
     "path": "content/json/l4.file.js",
-    "readingTime": 3
+    "readingTime": 4
   },
   {
     "id": "l5",
@@ -45,7 +45,7 @@ window.receiveLectureIndex([
     "module": "Neuroanatomy",
     "tags": "Lecture #5",
     "path": "content/json/l5.file.js",
-    "readingTime": 2
+    "readingTime": 3
   },
   {
     "id": "l6",
@@ -53,7 +53,7 @@ window.receiveLectureIndex([
     "module": "Neuroanatomy",
     "tags": "Lecture #6",
     "path": "content/json/l6.file.js",
-    "readingTime": 3
+    "readingTime": 4
   },
   {
     "id": "l7",
@@ -61,7 +61,7 @@ window.receiveLectureIndex([
     "module": "Neuroanatomy",
     "tags": "Lecture #7",
     "path": "content/json/l7.file.js",
-    "readingTime": 2
+    "readingTime": 3
   },
   {
     "id": "l8",
@@ -69,7 +69,7 @@ window.receiveLectureIndex([
     "module": "Neuroscience",
     "tags": "",
     "path": "content/json/l8.file.js",
-    "readingTime": 3
+    "readingTime": 4
   },
   {
     "id": "l9",
@@ -77,7 +77,7 @@ window.receiveLectureIndex([
     "module": "Neuroscience",
     "tags": "",
     "path": "content/json/l9.file.js",
-    "readingTime": 2
+    "readingTime": 3
   },
   {
     "id": "l10",
@@ -85,7 +85,7 @@ window.receiveLectureIndex([
     "module": "Neuroscience",
     "tags": "",
     "path": "content/json/l10.file.js",
-    "readingTime": 1
+    "readingTime": 2
   },
   {
     "id": "l11",
@@ -93,7 +93,7 @@ window.receiveLectureIndex([
     "module": "Neuroscience",
     "tags": "",
     "path": "content/json/l11.file.js",
-    "readingTime": 1
+    "readingTime": 2
   },
   {
     "id": "l12",
@@ -101,7 +101,7 @@ window.receiveLectureIndex([
     "module": "Neuroscience",
     "tags": "",
     "path": "content/json/l12.file.js",
-    "readingTime": 1
+    "readingTime": 2
   },
   {
     "id": "l13",
@@ -109,7 +109,7 @@ window.receiveLectureIndex([
     "module": "Neuroscience",
     "tags": "",
     "path": "content/json/l13.file.js",
-    "readingTime": 1
+    "readingTime": 2
   },
   {
     "id": "l15",
@@ -117,7 +117,7 @@ window.receiveLectureIndex([
     "module": "Neuroscience",
     "tags": "",
     "path": "content/json/l15.file.js",
-    "readingTime": 2
+    "readingTime": 3
   },
   {
     "id": "l16",
@@ -125,7 +125,7 @@ window.receiveLectureIndex([
     "module": "Neuroscience",
     "tags": "",
     "path": "content/json/l16.file.js",
-    "readingTime": 2
+    "readingTime": 3
   },
   {
     "id": "l17",
@@ -133,7 +133,7 @@ window.receiveLectureIndex([
     "module": "Neuroscience",
     "tags": "",
     "path": "content/json/l17.file.js",
-    "readingTime": 2
+    "readingTime": 3
   },
   {
     "id": "l18",
@@ -141,7 +141,7 @@ window.receiveLectureIndex([
     "module": "Neuroscience",
     "tags": "",
     "path": "content/json/l18.file.js",
-    "readingTime": 1
+    "readingTime": 2
   },
   {
     "id": "l19",
@@ -149,7 +149,7 @@ window.receiveLectureIndex([
     "module": "Neuroscience",
     "tags": "",
     "path": "content/json/l19.file.js",
-    "readingTime": 1
+    "readingTime": 2
   },
   {
     "id": "l20",
@@ -157,7 +157,7 @@ window.receiveLectureIndex([
     "module": "Neuroscience",
     "tags": "",
     "path": "content/json/l20.file.js",
-    "readingTime": 1
+    "readingTime": 2
   },
   {
     "id": "l21",
@@ -165,7 +165,7 @@ window.receiveLectureIndex([
     "module": "Neuroscience",
     "tags": "",
     "path": "content/json/l21.file.js",
-    "readingTime": 1
+    "readingTime": 2
   },
   {
     "id": "l22",
@@ -173,7 +173,7 @@ window.receiveLectureIndex([
     "module": "Neuroscience",
     "tags": "",
     "path": "content/json/l22.file.js",
-    "readingTime": 1
+    "readingTime": 2
   },
   {
     "id": "l23",
@@ -181,7 +181,7 @@ window.receiveLectureIndex([
     "module": "Neuroscience",
     "tags": "",
     "path": "content/json/l23.file.js",
-    "readingTime": 1
+    "readingTime": 2
   },
   {
     "id": "l24",
@@ -189,7 +189,7 @@ window.receiveLectureIndex([
     "module": "Neuroscience",
     "tags": "",
     "path": "content/json/l24.file.js",
-    "readingTime": 1
+    "readingTime": 2
   },
   {
     "id": "l25",
@@ -197,7 +197,7 @@ window.receiveLectureIndex([
     "module": "Neuroscience",
     "tags": "",
     "path": "content/json/l25.file.js",
-    "readingTime": 1
+    "readingTime": 5
   },
   {
     "id": "l26",
@@ -205,7 +205,7 @@ window.receiveLectureIndex([
     "module": "Neuroscience",
     "tags": "",
     "path": "content/json/l26.file.js",
-    "readingTime": 1
+    "readingTime": 2
   },
   {
     "id": "l27",
@@ -213,7 +213,7 @@ window.receiveLectureIndex([
     "module": "Neuroscience",
     "tags": "",
     "path": "content/json/l27.file.js",
-    "readingTime": 1
+    "readingTime": 2
   },
   {
     "id": "l28",
@@ -221,7 +221,7 @@ window.receiveLectureIndex([
     "module": "Neuroscience",
     "tags": "",
     "path": "content/json/l28.file.js",
-    "readingTime": 1
+    "readingTime": 2
   },
   {
     "id": "l29",
@@ -229,7 +229,7 @@ window.receiveLectureIndex([
     "module": "Neuroscience",
     "tags": "",
     "path": "content/json/l29.file.js",
-    "readingTime": 1
+    "readingTime": 2
   },
   {
     "id": "l30",
@@ -237,7 +237,7 @@ window.receiveLectureIndex([
     "module": "Neurology",
     "tags": "",
     "path": "content/json/l30.file.js",
-    "readingTime": 1
+    "readingTime": 2
   },
   {
     "id": "l31",
@@ -245,7 +245,7 @@ window.receiveLectureIndex([
     "module": "Neurology",
     "tags": "",
     "path": "content/json/l31.file.js",
-    "readingTime": 1
+    "readingTime": 2
   },
   {
     "id": "l32",
@@ -253,7 +253,7 @@ window.receiveLectureIndex([
     "module": "Neurology",
     "tags": "",
     "path": "content/json/l32.file.js",
-    "readingTime": 1
+    "readingTime": 2
   },
   {
     "id": "l33",
@@ -261,7 +261,7 @@ window.receiveLectureIndex([
     "module": "Neurology",
     "tags": "",
     "path": "content/json/l33.file.js",
-    "readingTime": 1
+    "readingTime": 2
   },
   {
     "id": "l34",
@@ -269,7 +269,7 @@ window.receiveLectureIndex([
     "module": "Neurology",
     "tags": "",
     "path": "content/json/l34.file.js",
-    "readingTime": 1
+    "readingTime": 2
   },
   {
     "id": "l35",
@@ -277,7 +277,7 @@ window.receiveLectureIndex([
     "module": "Neurology",
     "tags": "",
     "path": "content/json/l35.file.js",
-    "readingTime": 1
+    "readingTime": 2
   },
   {
     "id": "l36",
@@ -285,7 +285,7 @@ window.receiveLectureIndex([
     "module": "Neurology",
     "tags": "",
     "path": "content/json/l36.file.js",
-    "readingTime": 1
+    "readingTime": 2
   },
   {
     "id": "l37",
@@ -293,7 +293,7 @@ window.receiveLectureIndex([
     "module": "Neurology",
     "tags": "",
     "path": "content/json/l37.file.js",
-    "readingTime": 1
+    "readingTime": 2
   },
   {
     "id": "l38",
@@ -301,7 +301,7 @@ window.receiveLectureIndex([
     "module": "Neurology",
     "tags": "",
     "path": "content/json/l38.file.js",
-    "readingTime": 1
+    "readingTime": 2
   },
   {
     "id": "l39",
@@ -309,7 +309,7 @@ window.receiveLectureIndex([
     "module": "Neurology",
     "tags": "",
     "path": "content/json/l39.file.js",
-    "readingTime": 1
+    "readingTime": 2
   },
   {
     "id": "l40",
@@ -317,7 +317,7 @@ window.receiveLectureIndex([
     "module": "Neurology",
     "tags": "",
     "path": "content/json/l40.file.js",
-    "readingTime": 1
+    "readingTime": 2
   },
   {
     "id": "l41",
@@ -325,7 +325,7 @@ window.receiveLectureIndex([
     "module": "Neurology",
     "tags": "",
     "path": "content/json/l41.file.js",
-    "readingTime": 1
+    "readingTime": 2
   },
   {
     "id": "l42",
@@ -333,7 +333,7 @@ window.receiveLectureIndex([
     "module": "Neurology",
     "tags": "",
     "path": "content/json/l42.file.js",
-    "readingTime": 1
+    "readingTime": 2
   },
   {
     "id": "l43",
@@ -341,7 +341,7 @@ window.receiveLectureIndex([
     "module": "Neurology",
     "tags": "",
     "path": "content/json/l43.file.js",
-    "readingTime": 1
+    "readingTime": 2
   },
   {
     "id": "l44",
@@ -349,7 +349,7 @@ window.receiveLectureIndex([
     "module": "Neurology",
     "tags": "",
     "path": "content/json/l44.file.js",
-    "readingTime": 1
+    "readingTime": 2
   },
   {
     "id": "l45",
@@ -357,7 +357,7 @@ window.receiveLectureIndex([
     "module": "Neurology",
     "tags": "",
     "path": "content/json/l45.file.js",
-    "readingTime": 1
+    "readingTime": 2
   },
   {
     "id": "l46",
@@ -365,7 +365,7 @@ window.receiveLectureIndex([
     "module": "Neurology",
     "tags": "",
     "path": "content/json/l46.file.js",
-    "readingTime": 1
+    "readingTime": 2
   },
   {
     "id": "l48",
@@ -373,7 +373,7 @@ window.receiveLectureIndex([
     "module": "Neurology",
     "tags": "",
     "path": "content/json/l48.file.js",
-    "readingTime": 10
+    "readingTime": 9
   },
   {
     "id": "l49",
@@ -381,7 +381,7 @@ window.receiveLectureIndex([
     "module": "Neurology",
     "tags": "",
     "path": "content/json/l49.file.js",
-    "readingTime": 11
+    "readingTime": 6
   },
   {
     "id": "l50",
@@ -389,7 +389,7 @@ window.receiveLectureIndex([
     "module": "Neurology",
     "tags": "",
     "path": "content/json/l50.file.js",
-    "readingTime": 10
+    "readingTime": 5
   },
   {
     "id": "l51",
@@ -397,7 +397,7 @@ window.receiveLectureIndex([
     "module": "Neurology",
     "tags": "",
     "path": "content/json/l51.file.js",
-    "readingTime": 9
+    "readingTime": 4
   },
   {
     "id": "l52",
@@ -405,7 +405,7 @@ window.receiveLectureIndex([
     "module": "Pharmacology",
     "tags": "",
     "path": "content/json/l52.file.js",
-    "readingTime": 8
+    "readingTime": 7
   },
   {
     "id": "l53",
@@ -413,7 +413,7 @@ window.receiveLectureIndex([
     "module": "Pharmacology",
     "tags": "",
     "path": "content/json/l53.file.js",
-    "readingTime": 9
+    "readingTime": 6
   },
   {
     "id": "l54",
@@ -421,7 +421,7 @@ window.receiveLectureIndex([
     "module": "Neurology",
     "tags": "",
     "path": "content/json/l54.file.js",
-    "readingTime": 8
+    "readingTime": 6
   },
   {
     "id": "l55",
@@ -429,7 +429,7 @@ window.receiveLectureIndex([
     "module": "Neurology",
     "tags": "",
     "path": "content/json/l55.file.js",
-    "readingTime": 25
+    "readingTime": 5
   },
   {
     "id": "l56",
@@ -437,7 +437,7 @@ window.receiveLectureIndex([
     "module": "Neurology",
     "tags": "",
     "path": "content/json/l56.file.js",
-    "readingTime": 24
+    "readingTime": 4
   },
   {
     "id": "l57",
@@ -445,7 +445,7 @@ window.receiveLectureIndex([
     "module": "Neurology",
     "tags": "",
     "path": "content/json/l57.file.js",
-    "readingTime": 30
+    "readingTime": 5
   },
   {
     "id": "l58",
@@ -453,7 +453,7 @@ window.receiveLectureIndex([
     "module": "Neurology",
     "tags": "",
     "path": "content/json/l58.file.js",
-    "readingTime": 20
+    "readingTime": 4
   },
   {
     "id": "l59",
@@ -461,7 +461,7 @@ window.receiveLectureIndex([
     "module": "Clinical Medicine",
     "tags": "",
     "path": "content/json/l59.file.js",
-    "readingTime": 5
+    "readingTime": 9
   },
   {
     "id": "l60",
@@ -469,9 +469,8 @@ window.receiveLectureIndex([
     "module": "OMM",
     "tags": "Lecture #60",
     "path": "content/json/l60.file.js",
-    "readingTime": 3
-  }
-  ,
+    "readingTime": 4
+  },
   {
     "id": "l61",
     "title": "Lecture #61: Gait and Movement",
@@ -479,96 +478,86 @@ window.receiveLectureIndex([
     "tags": "Lecture #61",
     "path": "content/json/l61.file.js",
     "readingTime": 5
-  }
-  ,
+  },
   {
     "id": "l62",
     "title": "Lecture #62: Brachial Plexus Lesions and Neuropathies",
     "module": "Neurology",
     "tags": "Lecture #62",
     "path": "content/json/l62.file.js",
-    "readingTime": 5
-  }
-  ,
+    "readingTime": 8
+  },
   {
     "id": "l63",
     "title": "Lecture #63: Headache",
     "module": "Neurology",
     "tags": "Lecture #63",
     "path": "content/json/l63.file.js",
-    "readingTime": 5
-  }
-  ,
+    "readingTime": 4
+  },
   {
     "id": "l64",
     "title": "Lecture #64: General Anesthetics Part I",
     "module": "Neuropharmacology",
     "tags": "Lecture #64",
     "path": "content/json/l64.file.js",
-    "readingTime": 5
-  }
-  ,
+    "readingTime": 4
+  },
   {
     "id": "l65",
     "title": "Lecture #65: Pharmacology of General Anesthetics Part 2",
     "module": "Neuropharmacology",
     "tags": "Lecture #65",
     "path": "content/json/l65.file.js",
-    "readingTime": 5
-  }
-  ,
+    "readingTime": 6
+  },
   {
     "id": "l66",
     "title": "Lecture #66: Local Anesthetics",
     "module": "Neuropharmacology",
     "tags": "Lecture #66",
     "path": "content/json/l66.file.js",
-    "readingTime": 5
-  }
-  ,
+    "readingTime": 6
+  },
   {
     "id": "l67",
     "title": "Lecture #67: Opioids",
     "module": "Neuropharmacology",
     "tags": "Lecture #67",
     "path": "content/json/l67.file.js",
-    "readingTime": 6
-  }
-  ,
+    "readingTime": 5
+  },
   {
     "id": "l68",
     "title": "Lecture #68: Physiology: Drug Addiction",
     "module": "Neuropharmacology",
     "tags": "Lecture #68",
     "path": "content/json/l68.file.js",
-    "readingTime": 5
-  }
-  ,
+    "readingTime": 8
+  },
   {
     "id": "l69",
     "title": "Lecture #69: Substance Use Disorders",
     "module": "Neuropharmacology",
     "tags": "Lecture #69",
     "path": "content/json/l69.file.js",
-    "readingTime": 5
-  }
-  ,
+    "readingTime": 8
+  },
   {
     "id": "l70",
     "title": "Lecture #70: Pediatric H&P I",
     "module": "Pediatrics",
     "tags": "Lecture #70",
     "path": "content/json/l70.file.js",
-    "readingTime": 5
-  }
-  ,
+    "readingTime": 7
+  },
   {
     "id": "l71",
     "title": "Lecture #71: Basics of Diagnosis: AC, SC, and GH Joints",
     "module": "OMM",
     "tags": "Lecture #71",
     "path": "content/json/l71.file.js",
-    "readingTime": 5
+    "readingTime": 6
   },
   {
     "id": "l72",
@@ -576,7 +565,7 @@ window.receiveLectureIndex([
     "module": "Neurology",
     "tags": "Lecture #72",
     "path": "content/json/l72.file.js",
-    "readingTime": 6
+    "readingTime": 8
   },
   {
     "id": "l73",
@@ -584,7 +573,7 @@ window.receiveLectureIndex([
     "module": "Neurology",
     "tags": "Lecture #73",
     "path": "content/json/l73.file.js",
-    "readingTime": 6
+    "readingTime": 8
   },
   {
     "id": "l74",
@@ -600,7 +589,7 @@ window.receiveLectureIndex([
     "module": "Neurology",
     "tags": "Lecture #75",
     "path": "content/json/l75.file.js",
-    "readingTime": 8
+    "readingTime": 7
   },
   {
     "id": "l76",
@@ -608,7 +597,7 @@ window.receiveLectureIndex([
     "module": "Neurology",
     "tags": "Lecture #76",
     "path": "content/json/l76.file.js",
-    "readingTime": 8
+    "readingTime": 10
   },
   {
     "id": "l77",
@@ -616,7 +605,7 @@ window.receiveLectureIndex([
     "module": "Pediatrics",
     "tags": "Lecture #77",
     "path": "content/json/l77.file.js",
-    "readingTime": 8
+    "readingTime": 9
   },
   {
     "id": "l78",
@@ -624,7 +613,7 @@ window.receiveLectureIndex([
     "module": "Pediatrics",
     "tags": "Lecture #78",
     "path": "content/json/l78.file.js",
-    "readingTime": 8
+    "readingTime": 7
   },
   {
     "id": "l79",
@@ -632,7 +621,7 @@ window.receiveLectureIndex([
     "module": "Pharmacology",
     "tags": "Lecture #79",
     "path": "content/json/l79.file.js",
-    "readingTime": 8
+    "readingTime": 5
   },
   {
     "id": "l80",
@@ -640,7 +629,7 @@ window.receiveLectureIndex([
     "module": "Psychiatry",
     "tags": "Lecture #80",
     "path": "content/json/l80.file.js",
-    "readingTime": 10
+    "readingTime": 12
   },
   {
     "id": "l81",
@@ -648,7 +637,7 @@ window.receiveLectureIndex([
     "module": "Psychiatry",
     "tags": "Lecture #81",
     "path": "content/json/l81.file.js",
-    "readingTime": 10
+    "readingTime": 5
   },
   {
     "id": "l82",
@@ -656,7 +645,7 @@ window.receiveLectureIndex([
     "module": "Psychiatry",
     "tags": "Lecture #82",
     "path": "content/json/l82.file.js",
-    "readingTime": 10
+    "readingTime": 4
   },
   {
     "id": "l83",
@@ -664,7 +653,7 @@ window.receiveLectureIndex([
     "module": "Neurology",
     "tags": "Lecture #83",
     "path": "content/json/l83.file.js",
-    "readingTime": 15
+    "readingTime": 5
   },
   {
     "id": "l84",
@@ -672,7 +661,7 @@ window.receiveLectureIndex([
     "module": "Pediatrics",
     "tags": "Lecture #84",
     "path": "content/json/l84.file.js",
-    "readingTime": 8
+    "readingTime": 10
   },
   {
     "id": "l86",
@@ -680,7 +669,7 @@ window.receiveLectureIndex([
     "module": "Pharmacology",
     "tags": "Lecture #86",
     "path": "content/json/l86.file.js",
-    "readingTime": 12
+    "readingTime": 9
   },
   {
     "id": "l87",
@@ -688,7 +677,7 @@ window.receiveLectureIndex([
     "module": "Pharmacology",
     "tags": "Lecture #87",
     "path": "content/json/l87.file.js",
-    "readingTime": 12
+    "readingTime": 6
   },
   {
     "id": "l88",
@@ -696,7 +685,7 @@ window.receiveLectureIndex([
     "module": "Psychiatry",
     "tags": "Lecture #88",
     "path": "content/json/l88.file.js",
-    "readingTime": 12
+    "readingTime": 4
   },
   {
     "id": "l89",
@@ -704,7 +693,7 @@ window.receiveLectureIndex([
     "module": "Psychiatry",
     "tags": "Lecture #89",
     "path": "content/json/l89.file.js",
-    "readingTime": 12
+    "readingTime": 2
   },
   {
     "id": "l90",
@@ -712,7 +701,7 @@ window.receiveLectureIndex([
     "module": "Psychiatry",
     "tags": "Lecture #90",
     "path": "content/json/l90.file.js",
-    "readingTime": 15
+    "readingTime": 6
   },
   {
     "id": "l91",
@@ -720,6 +709,7 @@ window.receiveLectureIndex([
     "module": "Psychiatry",
     "tags": "Lecture #91",
     "path": "content/json/l91.file.js",
+    "readingTime": 5
   },
   {
     "id": "l92",
@@ -727,7 +717,7 @@ window.receiveLectureIndex([
     "module": "Psychiatry",
     "tags": "Lecture #92",
     "path": "content/json/l92.file.js",
-    "readingTime": 15
+    "readingTime": 7
   },
   {
     "id": "l93",
@@ -735,7 +725,7 @@ window.receiveLectureIndex([
     "module": "Psychiatry",
     "tags": "Lecture #93",
     "path": "content/json/l93.file.js",
-    "readingTime": 15
+    "readingTime": 4
   },
   {
     "id": "l94",
@@ -743,7 +733,7 @@ window.receiveLectureIndex([
     "module": "Psychiatry",
     "tags": "Lecture #94",
     "path": "content/json/l94.file.js",
-    "readingTime": 15
+    "readingTime": 5
   },
   {
     "id": "l95",
@@ -751,7 +741,7 @@ window.receiveLectureIndex([
     "module": "Psychiatry",
     "tags": "Lecture #95",
     "path": "content/json/l95.file.js",
-    "readingTime": 15
+    "readingTime": 8
   },
   {
     "id": "l96",
@@ -759,7 +749,7 @@ window.receiveLectureIndex([
     "module": "DPR",
     "tags": "Lecture #96",
     "path": "content/json/l96.file.js",
-    "readingTime": 15
+    "readingTime": 4
   },
   {
     "id": "l97",
@@ -767,7 +757,7 @@ window.receiveLectureIndex([
     "module": "OMM",
     "tags": "Lecture #97",
     "path": "content/json/l97.file.js",
-    "readingTime": 10
+    "readingTime": 3
   },
   {
     "id": "l98",
@@ -775,7 +765,7 @@ window.receiveLectureIndex([
     "module": "Microbiology",
     "tags": "Lecture #98",
     "path": "content/json/l98.file.js",
-    "readingTime": 15
+    "readingTime": 4
   },
   {
     "id": "l99",
@@ -783,7 +773,7 @@ window.receiveLectureIndex([
     "module": "Microbiology",
     "tags": "Lecture #99",
     "path": "content/json/l99.file.js",
-    "readingTime": 15
+    "readingTime": 5
   },
   {
     "id": "l100",
@@ -791,7 +781,7 @@ window.receiveLectureIndex([
     "module": "Microbiology",
     "tags": "Lecture #100",
     "path": "content/json/l100.file.js",
-    "readingTime": 15
+    "readingTime": 5
   },
   {
     "id": "l101",
@@ -799,7 +789,7 @@ window.receiveLectureIndex([
     "module": "Pharmacology",
     "tags": "Lecture #101",
     "path": "content/json/l101.file.js",
-    "readingTime": 15
+    "readingTime": 5
   },
   {
     "id": "l102",
@@ -807,7 +797,7 @@ window.receiveLectureIndex([
     "module": "Pharmacology",
     "tags": "Lecture #102",
     "path": "content/json/l102.file.js",
-    "readingTime": 15
+    "readingTime": 6
   },
   {
     "id": "l103",
@@ -815,7 +805,7 @@ window.receiveLectureIndex([
     "module": "Pathology",
     "tags": "Lecture #103",
     "path": "content/json/l103.file.js",
-    "readingTime": 20
+    "readingTime": 6
   },
   {
     "id": "l104",
@@ -823,7 +813,7 @@ window.receiveLectureIndex([
     "module": "Pathology",
     "tags": "Lecture #104",
     "path": "content/json/l104.file.js",
-    "readingTime": 20
+    "readingTime": 8
   },
   {
     "id": "l105",
@@ -831,7 +821,7 @@ window.receiveLectureIndex([
     "module": "Pathology",
     "tags": "Lecture #105",
     "path": "content/json/l105.file.js",
-    "readingTime": 10
+    "readingTime": 5
   },
   {
     "id": "l106",
@@ -839,7 +829,7 @@ window.receiveLectureIndex([
     "module": "Pathology",
     "tags": "Lecture #106",
     "path": "content/json/l106.file.js",
-    "readingTime": 10
+    "readingTime": 11
   },
   {
     "id": "l107",
@@ -847,7 +837,7 @@ window.receiveLectureIndex([
     "module": "DPR",
     "tags": "Lecture #107",
     "path": "content/json/l107.file.js",
-    "readingTime": 10
+    "readingTime": 11
   },
   {
     "id": "l108",
@@ -855,7 +845,7 @@ window.receiveLectureIndex([
     "module": "DPR",
     "tags": "Lecture #108",
     "path": "content/json/l108.file.js",
-    "readingTime": 15
+    "readingTime": 5
   },
   {
     "id": "l110",
@@ -863,7 +853,7 @@ window.receiveLectureIndex([
     "module": "Orthopedics",
     "tags": "Lecture #110",
     "path": "content/json/l110.file.js",
-    "readingTime": 10
+    "readingTime": 23
   },
   {
     "id": "l111",
@@ -871,7 +861,7 @@ window.receiveLectureIndex([
     "module": "Orthopedics",
     "tags": "Lecture #111",
     "path": "content/json/l111.file.js",
-    "readingTime": 12
+    "readingTime": 9
   },
   {
     "id": "l112",
@@ -879,7 +869,7 @@ window.receiveLectureIndex([
     "module": "Orthopedics",
     "tags": "Lecture #112",
     "path": "content/json/l112.file.js",
-    "readingTime": 14
+    "readingTime": 8
   },
   {
     "id": "l113",
@@ -887,7 +877,7 @@ window.receiveLectureIndex([
     "module": "Radiology",
     "tags": "Lecture #113",
     "path": "content/json/l113.file.js",
-    "readingTime": 10
+    "readingTime": 7
   },
   {
     "id": "l114",
@@ -895,7 +885,7 @@ window.receiveLectureIndex([
     "module": "Radiology",
     "tags": "Lecture #114",
     "path": "content/json/l114.file.js",
-    "readingTime": 12
+    "readingTime": 6
   },
   {
     "id": "l115",
@@ -903,7 +893,7 @@ window.receiveLectureIndex([
     "module": "Orthopedics",
     "tags": "Lecture #115",
     "path": "content/json/l115.file.js",
-    "readingTime": 12
+    "readingTime": 5
   },
   {
     "id": "l116",
@@ -911,7 +901,7 @@ window.receiveLectureIndex([
     "module": "Orthopedics",
     "tags": "Lecture #116",
     "path": "content/json/l116.file.js",
-    "readingTime": 12
+    "readingTime": 9
   },
   {
     "id": "l117",
@@ -919,7 +909,7 @@ window.receiveLectureIndex([
     "module": "Pharmacology",
     "tags": "Lecture #117",
     "path": "content/json/l117.file.js",
-    "readingTime": 15
+    "readingTime": 10
   },
   {
     "id": "l118",
@@ -927,7 +917,7 @@ window.receiveLectureIndex([
     "module": "Pharmacology",
     "tags": "Lecture #118",
     "path": "content/json/l118.file.js",
-    "readingTime": 18
+    "readingTime": 5
   },
   {
     "id": "l119",
@@ -935,7 +925,7 @@ window.receiveLectureIndex([
     "module": "Immunology",
     "tags": "Lecture #119",
     "path": "content/json/l119.file.js",
-    "readingTime": 15
+    "readingTime": 8
   },
   {
     "id": "l120",
@@ -943,7 +933,7 @@ window.receiveLectureIndex([
     "module": "Immunology",
     "tags": "Lecture #120",
     "path": "content/json/l120.file.js",
-    "readingTime": 15
+    "readingTime": 9
   },
   {
     "id": "l121",
@@ -951,7 +941,7 @@ window.receiveLectureIndex([
     "module": "DPR",
     "tags": "Lecture #121",
     "path": "content/json/l121.file.js",
-    "readingTime": 15
+    "readingTime": 9
   },
   {
     "id": "l123",
@@ -959,7 +949,7 @@ window.receiveLectureIndex([
     "module": "Immunology",
     "tags": "Lecture #123",
     "path": "content/json/l123.file.js",
-    "readingTime": 15
+    "readingTime": 9
   },
   {
     "id": "l124",
@@ -967,7 +957,7 @@ window.receiveLectureIndex([
     "module": "Immunology",
     "tags": "Lecture #124",
     "path": "content/json/l124.file.js",
-    "readingTime": 15
+    "readingTime": 4
   },
   {
     "id": "l125",
@@ -975,7 +965,7 @@ window.receiveLectureIndex([
     "module": "Immunology",
     "tags": "Lecture #125",
     "path": "content/json/l125.file.js",
-    "readingTime": "12-15 min"
+    "readingTime": 7
   },
   {
     "id": "l126",
@@ -983,7 +973,7 @@ window.receiveLectureIndex([
     "module": "Immunology",
     "tags": "Lecture #126",
     "path": "content/json/l126.file.js",
-    "readingTime": "12-15 min"
+    "readingTime": 7
   },
   {
     "id": "l127",
@@ -991,7 +981,7 @@ window.receiveLectureIndex([
     "module": "Rheumatology",
     "tags": "Lecture #127",
     "path": "content/json/l127.file.js",
-    "readingTime": "15-20 min"
+    "readingTime": 6
   },
   {
     "id": "l128",
@@ -999,7 +989,7 @@ window.receiveLectureIndex([
     "module": "Rheumatology",
     "tags": "Lecture #128",
     "path": "content/json/l128.file.js",
-    "readingTime": "10-15 min"
+    "readingTime": 7
   },
   {
     "id": "l129",
@@ -1007,7 +997,7 @@ window.receiveLectureIndex([
     "module": "Rheumatology",
     "tags": "Lecture #129",
     "path": "content/json/l129.file.js",
-    "readingTime": "10-15 min"
+    "readingTime": 9
   },
   {
     "id": "l130",
@@ -1015,7 +1005,7 @@ window.receiveLectureIndex([
     "module": "Pharmacology",
     "tags": "Lecture #130",
     "path": "content/json/l130.file.js",
-    "readingTime": "10-15 min"
+    "readingTime": 5
   },
   {
     "id": "l131",
@@ -1023,7 +1013,7 @@ window.receiveLectureIndex([
     "module": "Pediatrics",
     "tags": "Lecture #131",
     "path": "content/json/l131.file.js",
-    "readingTime": "10-15 min"
+    "readingTime": 8
   },
   {
     "id": "l132",
@@ -1031,7 +1021,7 @@ window.receiveLectureIndex([
     "module": "Pharmacology",
     "tags": "Lecture #132",
     "path": "content/json/l132.file.js",
-    "readingTime": "10-15 min"
+    "readingTime": 5
   },
   {
     "id": "l133",
@@ -1039,7 +1029,7 @@ window.receiveLectureIndex([
     "module": "Pharmacology",
     "tags": "Lecture #133",
     "path": "content/json/l133.file.js",
-    "readingTime": "10-15 min"
+    "readingTime": 11
   },
   {
     "id": "l134",
@@ -1047,7 +1037,7 @@ window.receiveLectureIndex([
     "module": "DPR",
     "tags": "Lecture #134",
     "path": "content/json/l134.file.js",
-    "readingTime": "10-15 min"
+    "readingTime": 16
   },
   {
     "id": "l135",
@@ -1055,7 +1045,7 @@ window.receiveLectureIndex([
     "module": "DPR",
     "tags": "Lecture #135",
     "path": "content/json/l135.file.js",
-    "readingTime": "10-15 min"
+    "readingTime": 16
   },
   {
     "id": "l137",
@@ -1063,7 +1053,7 @@ window.receiveLectureIndex([
     "module": "Immunology",
     "tags": "Lecture #137",
     "path": "content/json/l137.file.js",
-    "readingTime": "10-15 min"
+    "readingTime": 7
   },
   {
     "id": "l138",
@@ -1071,7 +1061,7 @@ window.receiveLectureIndex([
     "module": "Immunology",
     "tags": "Lecture #138",
     "path": "content/json/l138.file.js",
-    "readingTime": "12-15 min"
+    "readingTime": 4
   },
   {
     "id": "l139",
@@ -1079,7 +1069,7 @@ window.receiveLectureIndex([
     "module": "Immunology",
     "tags": "Lecture #139",
     "path": "content/json/l139.file.js",
-    "readingTime": "8-10 min"
+    "readingTime": 9
   },
   {
     "id": "l140",
@@ -1087,7 +1077,7 @@ window.receiveLectureIndex([
     "module": "Immunology",
     "tags": "Lecture #140",
     "path": "content/json/l140.file.js",
-    "readingTime": "12-15 min"
+    "readingTime": 7
   },
   {
     "id": "l141",
@@ -1095,7 +1085,7 @@ window.receiveLectureIndex([
     "module": "Immunology",
     "tags": "Lecture #141",
     "path": "content/json/l141.file.js",
-    "readingTime": "10-15 min"
+    "readingTime": 7
   },
   {
     "id": "l142",
@@ -1103,7 +1093,7 @@ window.receiveLectureIndex([
     "module": "Immunology",
     "tags": "Lecture #142",
     "path": "content/json/l142.file.js",
-    "readingTime": "12-18 min"
+    "readingTime": 11
   },
   {
     "id": "l143",
@@ -1111,7 +1101,7 @@ window.receiveLectureIndex([
     "module": "Pharmacology",
     "tags": "Lecture #143",
     "path": "content/json/l143.file.js",
-    "readingTime": "12-18 min"
+    "readingTime": 7
   },
   {
     "id": "l144",
@@ -1119,7 +1109,7 @@ window.receiveLectureIndex([
     "module": "Pharmacology",
     "tags": "Lecture #144",
     "path": "content/json/l144.file.js",
-    "readingTime": "12-18 min"
+    "readingTime": 6
   },
   {
     "id": "l145",
@@ -1127,7 +1117,7 @@ window.receiveLectureIndex([
     "module": "Immunology",
     "tags": "Lecture #145",
     "path": "content/json/l145.file.js",
-    "readingTime": "10-15 min"
+    "readingTime": 7
   },
   {
     "id": "l146",
@@ -1135,7 +1125,7 @@ window.receiveLectureIndex([
     "module": "Immunology",
     "tags": "Lecture #146",
     "path": "content/json/l146.file.js",
-    "readingTime": "12-15 min"
+    "readingTime": 15
   },
   {
     "id": "l147",
@@ -1143,7 +1133,7 @@ window.receiveLectureIndex([
     "module": "Public Health",
     "tags": "Lecture #147",
     "path": "content/json/l147.file.js",
-    "readingTime": "15-20 min"
+    "readingTime": 17
   },
   {
     "id": "l149",
@@ -1151,7 +1141,7 @@ window.receiveLectureIndex([
     "module": "Hematology",
     "tags": "Lecture #149",
     "path": "content/json/l149.file.js",
-    "readingTime": "10-15 min"
+    "readingTime": 10
   },
   {
     "id": "l150",
@@ -1159,7 +1149,7 @@ window.receiveLectureIndex([
     "module": "Hematology",
     "tags": "Lecture #150",
     "path": "content/json/l150.file.js",
-    "readingTime": "10-15 min"
+    "readingTime": 10
   },
   {
     "id": "l151",
@@ -1167,7 +1157,7 @@ window.receiveLectureIndex([
     "module": "Hematology",
     "tags": "Lecture #151",
     "path": "content/json/l151.file.js",
-    "readingTime": "10-15 min"
+    "readingTime": 6
   },
   {
     "id": "l152",
@@ -1175,7 +1165,7 @@ window.receiveLectureIndex([
     "module": "Hematology",
     "tags": "Lecture #152",
     "path": "content/json/l152.file.js",
-    "readingTime": "10-15 min"
+    "readingTime": 5
   },
   {
     "id": "l153",
@@ -1183,7 +1173,7 @@ window.receiveLectureIndex([
     "module": "Pharmacology",
     "tags": "Lecture #153",
     "path": "content/json/l153.file.js",
-    "readingTime": "10-15 min"
+    "readingTime": 6
   },
   {
     "id": "l154",
@@ -1191,15 +1181,15 @@ window.receiveLectureIndex([
     "module": "Pathology",
     "tags": "Lecture #154",
     "path": "content/json/l154.file.js",
-    "readingTime": "10-15 min"
+    "readingTime": 5
   },
   {
     "id": "l155",
-    "title": "Lecture 155: Pathology: Hemorrhage and Thrombosis",
+    "title": "Lecture #155: Pathology of Lymphomas and Plasma Cell Neoplasms",
     "module": "Pathology",
     "tags": "Lecture #155",
     "path": "content/json/l155.file.js",
-    "readingTime": "10-15 min"
+    "readingTime": 9
   },
   {
     "id": "l156",
@@ -1207,7 +1197,7 @@ window.receiveLectureIndex([
     "module": "Pharmacology",
     "tags": "Lecture #156",
     "path": "content/json/l156.file.js",
-    "readingTime": "10-15 min"
+    "readingTime": 6
   },
   {
     "id": "l157",
@@ -1215,7 +1205,7 @@ window.receiveLectureIndex([
     "module": "Pharmacology",
     "tags": "Lecture #157",
     "path": "content/json/l157.file.js",
-    "readingTime": "10-15 min"
+    "readingTime": 5
   },
   {
     "id": "l158",
@@ -1223,7 +1213,7 @@ window.receiveLectureIndex([
     "module": "Hematology",
     "tags": "Lecture #158",
     "path": "content/json/l158.file.js",
-    "readingTime": "10-15 min"
+    "readingTime": 4
   },
   {
     "id": "l159",
@@ -1231,7 +1221,7 @@ window.receiveLectureIndex([
     "module": "Clinical Medicine",
     "tags": "Lecture #159",
     "path": "content/json/l159.file.js",
-    "readingTime": "10-15 min"
+    "readingTime": 5
   },
   {
     "id": "l160",
@@ -1239,7 +1229,7 @@ window.receiveLectureIndex([
     "module": "OMM",
     "tags": "Lecture #160",
     "path": "content/json/l160.file.js",
-    "readingTime": "10-15 min"
+    "readingTime": 4
   },
   {
     "id": "l161",
@@ -1247,7 +1237,7 @@ window.receiveLectureIndex([
     "module": "Hematology",
     "tags": "Lecture #161",
     "path": "content/json/l161.file.js",
-    "readingTime": "10-15 min"
+    "readingTime": 4
   },
   {
     "id": "l162",
@@ -1255,7 +1245,7 @@ window.receiveLectureIndex([
     "module": "Hematology",
     "tags": "Lecture #162",
     "path": "content/json/l162.file.js",
-    "readingTime": "10-15 min"
+    "readingTime": 4
   },
   {
     "id": "l163",
@@ -1263,7 +1253,7 @@ window.receiveLectureIndex([
     "module": "Hematology",
     "tags": "Lecture #163",
     "path": "content/json/l163.file.js",
-    "readingTime": "10-15 min"
+    "readingTime": 4
   },
   {
     "id": "l164",
@@ -1271,7 +1261,7 @@ window.receiveLectureIndex([
     "module": "Hematology",
     "tags": "Lecture #164",
     "path": "content/json/l164.file.js",
-    "readingTime": "10-15 min"
+    "readingTime": 4
   },
   {
     "id": "l165",
@@ -1279,7 +1269,7 @@ window.receiveLectureIndex([
     "module": "Hematology",
     "tags": "Lecture #165",
     "path": "content/json/l165.file.js",
-    "readingTime": "10-15 min"
+    "readingTime": 4
   },
   {
     "id": "l166",
@@ -1287,7 +1277,7 @@ window.receiveLectureIndex([
     "module": "Hematology",
     "tags": "Lecture #166",
     "path": "content/json/l166.file.js",
-    "readingTime": "10-15 min"
+    "readingTime": 5
   },
   {
     "id": "l167",
@@ -1295,7 +1285,7 @@ window.receiveLectureIndex([
     "module": "Hematology",
     "tags": "Lecture #167",
     "path": "content/json/l167.file.js",
-    "readingTime": "10-15 min"
+    "readingTime": 5
   },
   {
     "id": "l168",
@@ -1303,7 +1293,7 @@ window.receiveLectureIndex([
     "module": "Hematology",
     "tags": "Lecture #168",
     "path": "content/json/l168.file.js",
-    "readingTime": "10-15 min"
+    "readingTime": 4
   },
   {
     "id": "l169",
@@ -1311,7 +1301,7 @@ window.receiveLectureIndex([
     "module": "Hematology",
     "tags": "Lecture #169",
     "path": "content/json/l169.file.js",
-    "readingTime": "10-15 min"
+    "readingTime": 4
   },
   {
     "id": "l170",
@@ -1319,7 +1309,7 @@ window.receiveLectureIndex([
     "module": "Psychiatry",
     "tags": "Lecture #170",
     "path": "content/json/l170.file.js",
-    "readingTime": "10-15 min"
+    "readingTime": 4
   },
   {
     "id": "l171a",
@@ -1327,7 +1317,7 @@ window.receiveLectureIndex([
     "module": "OMM",
     "tags": "Lecture #171a",
     "path": "content/json/l171a.file.js",
-    "readingTime": "6-8 min"
+    "readingTime": 11
   },
   {
     "id": "l171b",
@@ -1335,7 +1325,7 @@ window.receiveLectureIndex([
     "module": "OMM",
     "tags": "Lecture #171b",
     "path": "content/json/l171b.file.js",
-    "readingTime": "10-13 min"
+    "readingTime": 11
   },
   {
     "id": "l172",
@@ -1343,7 +1333,7 @@ window.receiveLectureIndex([
     "module": "Pharmacology",
     "tags": "Lecture #172",
     "path": "content/json/l172.file.js",
-    "readingTime": "13-17 min"
+    "readingTime": 14
   },
   {
     "id": "l173",
@@ -1351,7 +1341,7 @@ window.receiveLectureIndex([
     "module": "Pharmacology",
     "tags": "Lecture #173",
     "path": "content/json/l173.file.js",
-    "readingTime": "13-16 min"
+    "readingTime": 11
   },
   {
     "id": "l174",
@@ -1359,7 +1349,7 @@ window.receiveLectureIndex([
     "module": "Histology",
     "tags": "Lecture #174",
     "path": "content/json/l174.file.js",
-    "readingTime": "11-13 min"
+    "readingTime": 12
   },
   {
     "id": "l175",
@@ -1367,7 +1357,7 @@ window.receiveLectureIndex([
     "module": "Histology",
     "tags": "Lecture #175",
     "path": "content/json/l175.file.js",
-    "readingTime": "11-13 min"
+    "readingTime": 12
   },
   {
     "id": "l176",
@@ -1375,7 +1365,7 @@ window.receiveLectureIndex([
     "module": "Microbiology",
     "tags": "Lecture #176",
     "path": "content/json/l176.file.js",
-    "readingTime": "11-13 min"
+    "readingTime": 13
   },
   {
     "id": "l177",
@@ -1383,7 +1373,7 @@ window.receiveLectureIndex([
     "module": "Microbiology",
     "tags": "Lecture #177",
     "path": "content/json/l177.file.js",
-    "readingTime": "13-16 min"
+    "readingTime": 13
   },
   {
     "id": "l178",
@@ -1391,7 +1381,7 @@ window.receiveLectureIndex([
     "module": "Pharmacology",
     "tags": "Lecture #178",
     "path": "content/json/l178.file.js",
-    "readingTime": "13-16 min"
+    "readingTime": 11
   },
   {
     "id": "l179",
@@ -1399,7 +1389,7 @@ window.receiveLectureIndex([
     "module": "DPR",
     "tags": "Lecture #179",
     "path": "content/json/l179.file.js",
-    "readingTime": "11-13 min"
+    "readingTime": 13
   },
   {
     "id": "l180",
@@ -1407,7 +1397,7 @@ window.receiveLectureIndex([
     "module": "Dermatology",
     "tags": "Lecture #180",
     "path": "content/json/l180.file.js",
-    "readingTime": "12-15 min"
+    "readingTime": 13
   },
   {
     "id": "l181",
@@ -1415,7 +1405,7 @@ window.receiveLectureIndex([
     "module": "Pathology",
     "tags": "Lecture #181",
     "path": "content/json/l181.file.js",
-    "readingTime": "13-16 min"
+    "readingTime": 13
   },
   {
     "id": "l182",
@@ -1423,7 +1413,6 @@ window.receiveLectureIndex([
     "module": "Pathology",
     "tags": "Lecture #182",
     "path": "content/json/l182.file.js",
-    "readingTime": "14-17 min"
+    "readingTime": 14
   }
 ]);
-

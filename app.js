@@ -947,7 +947,7 @@ function renderLectureList(searchQuery = "") {
             <div class="text-[10px] font-bold uppercase tracking-wider font-sans truncate" style="color: ${blockColor}">${lec.module}</div>
             <div class="text-[10px] text-claude-muted dark:text-dark-muted font-sans opacity-60 flex items-center gap-1">
               <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-              ${lec.readingTime || 5} min
+              ${formatReadingMinutes(lec.readingTime)} min
             </div>
           </div>
           <div class="${isActive ? 'font-bold' : 'font-medium'} text-sm text-claude-text dark:text-dark-text leading-snug font-display">${displayTitle(lec.title)}</div>
@@ -1070,7 +1070,7 @@ function appendEndOfSummary(contentDiv) {
                 <span class="text-[10px] font-mono font-bold tracking-wider opacity-70" style="color: ${blockColor}">${(l.id || "").toUpperCase()}</span>
               </div>
               <h4 class="font-display font-bold text-lg leading-tight text-claude-text dark:text-dark-text group-hover:underline decoration-1 underline-offset-4 mb-1" style="text-decoration-color: ${blockColor}">${displayTitle(l.title)}</h4>
-              <div class="text-[10px] font-sans uppercase tracking-[0.2em] text-claude-muted dark:text-dark-muted">${l.module || ""} &nbsp;·&nbsp; ${l.readingTime || 5}m</div>
+              <div class="text-[10px] font-sans uppercase tracking-[0.2em] text-claude-muted dark:text-dark-muted">${l.module || ""} &nbsp;·&nbsp; ${formatReadingMinutes(l.readingTime)} min</div>
             </button>
           `).join('')}
         </div>
@@ -1255,10 +1255,44 @@ function updateCompleteButton() {
   }
 }
 
+// Coerce a readingTime field (number, "5", "5 min", "12-15 min", etc.) into a
+// plain integer minute count. Returns null if no number can be found, so callers
+// can decide on a fallback. Used everywhere we render reading time so the index
+// can never produce "13-16 min min" output.
+function readingMinutes(value) {
+  if (value === null || value === undefined) return null;
+  if (typeof value === 'number' && isFinite(value)) return Math.max(1, Math.round(value));
+  if (typeof value === 'string') {
+    // For ranges like "12-15 min" prefer the upper bound so the estimate
+    // doesn't undersell longer lectures.
+    const range = value.match(/(\d+)\s*[-–]\s*(\d+)/);
+    if (range) return Math.max(1, parseInt(range[2], 10));
+    const single = value.match(/(\d+)/);
+    if (single) return Math.max(1, parseInt(single[1], 10));
+  }
+  return null;
+}
+
+// Compute reading minutes from raw summary text. Mirrors `calculateReadingTime`
+// but returns the number instead of writing to the DOM, so we can fall back to
+// it when a lecture's stored readingTime is missing.
+function readingMinutesFromSummary(summary) {
+  if (!summary || typeof summary !== 'string') return null;
+  const words = summary.trim().split(/\s+/).filter(Boolean).length;
+  if (words === 0) return null;
+  return Math.max(1, Math.ceil(words / 200));
+}
+
+function formatReadingMinutes(value, fallback = 5) {
+  const n = readingMinutes(value);
+  return n !== null ? n : fallback;
+}
+
 function calculateReadingTime() {
   if (!selectedLecture || !selectedLecture.summary) return;
-  const words = selectedLecture.summary.split(/\s+/).length;
-  const minutes = Math.ceil(words / 200);
+  const minutes = readingMinutesFromSummary(selectedLecture.summary)
+    || readingMinutes(selectedLecture.readingTime)
+    || 5;
   document.getElementById("readingTime").textContent = `${minutes} min read`;
 }
 
@@ -2952,7 +2986,7 @@ function updateWelcomeMessage() {
               <button onclick="selectLecture('${l.id}')" class="group text-left flex items-baseline gap-3 py-1.5 border-b border-claude-border/50 dark:border-dark-border/50 hover:border-claude-text dark:hover:border-dark-text transition-colors">
                 <span class="text-[10px] font-mono font-bold tracking-wider w-9 shrink-0" style="color: ${lead.color}">${(l.id || "").toUpperCase()}</span>
                 <span class="flex-1 font-serif text-sm text-claude-text dark:text-dark-text leading-snug truncate group-hover:underline decoration-1 underline-offset-2">${displayTitle(l.title)}</span>
-                <span class="text-[10px] font-sans text-claude-muted dark:text-dark-muted opacity-70 shrink-0">${l.readingTime || 5}m</span>
+                <span class="text-[10px] font-sans text-claude-muted dark:text-dark-muted opacity-70 shrink-0">${formatReadingMinutes(l.readingTime)} min</span>
               </button>
             `).join('')}
           </div>
