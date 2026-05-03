@@ -1360,6 +1360,14 @@ window.receiveLectureIndex([
     "tags": "Lecture #174",
     "path": "content/json/l174.file.js",
     "readingTime": "11-13 min"
+  },
+  {
+    "id": "l175",
+    "title": "Lecture #175: Histology of Skin Part 2 (Hair, Nails, Glands, Sensory Receptors)",
+    "module": "Histology",
+    "tags": "Lecture #175",
+    "path": "content/json/l175.file.js",
+    "readingTime": "11-13 min"
   }
 ]);
 
