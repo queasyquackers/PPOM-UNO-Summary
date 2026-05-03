@@ -1336,6 +1336,14 @@ window.receiveLectureIndex([
     "tags": "Lecture #171b",
     "path": "content/json/l171b.file.js",
     "readingTime": "10-13 min"
+  },
+  {
+    "id": "l172",
+    "title": "Lecture #172: Chemotherapy of Malaria",
+    "module": "Pharmacology",
+    "tags": "Lecture #172",
+    "path": "content/json/l172.file.js",
+    "readingTime": "13-17 min"
   }
 ]);
 
