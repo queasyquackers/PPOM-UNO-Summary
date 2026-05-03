@@ -1320,6 +1320,110 @@ window.receiveLectureIndex([
     "tags": "Lecture #170",
     "path": "content/json/l170.file.js",
     "readingTime": "10-15 min"
+  },
+  {
+    "id": "l171a",
+    "title": "Lecture #171a: HVLA for the Lower Extremity (Lab 29 Prep)",
+    "module": "OMM",
+    "tags": "Lecture #171a",
+    "path": "content/json/l171a.file.js",
+    "readingTime": "6-8 min"
+  },
+  {
+    "id": "l171b",
+    "title": "Lecture #171b: Billing and Coding for OMT",
+    "module": "OMM",
+    "tags": "Lecture #171b",
+    "path": "content/json/l171b.file.js",
+    "readingTime": "10-13 min"
+  },
+  {
+    "id": "l172",
+    "title": "Lecture #172: Chemotherapy of Malaria",
+    "module": "Pharmacology",
+    "tags": "Lecture #172",
+    "path": "content/json/l172.file.js",
+    "readingTime": "13-17 min"
+  },
+  {
+    "id": "l173",
+    "title": "Lecture #173: Chemotherapy of Protozoal Infections",
+    "module": "Pharmacology",
+    "tags": "Lecture #173",
+    "path": "content/json/l173.file.js",
+    "readingTime": "13-16 min"
+  },
+  {
+    "id": "l174",
+    "title": "Lecture #174: Histology of Skin Part 1 (Epidermis, Dermis, Hypodermis)",
+    "module": "Histology",
+    "tags": "Lecture #174",
+    "path": "content/json/l174.file.js",
+    "readingTime": "11-13 min"
+  },
+  {
+    "id": "l175",
+    "title": "Lecture #175: Histology of Skin Part 2 (Hair, Nails, Glands, Sensory Receptors)",
+    "module": "Histology",
+    "tags": "Lecture #175",
+    "path": "content/json/l175.file.js",
+    "readingTime": "11-13 min"
+  },
+  {
+    "id": "l176",
+    "title": "Lecture #176: Microbiology of Skin and Mucous Membrane Infections",
+    "module": "Microbiology",
+    "tags": "Lecture #176",
+    "path": "content/json/l176.file.js",
+    "readingTime": "11-13 min"
+  },
+  {
+    "id": "l177",
+    "title": "Lecture #177: Microbiology of Zoonotic Infections",
+    "module": "Microbiology",
+    "tags": "Lecture #177",
+    "path": "content/json/l177.file.js",
+    "readingTime": "13-16 min"
+  },
+  {
+    "id": "l178",
+    "title": "Lecture #178: Pharmacology of Antifungal Agents",
+    "module": "Pharmacology",
+    "tags": "Lecture #178",
+    "path": "content/json/l178.file.js",
+    "readingTime": "13-16 min"
+  },
+  {
+    "id": "l179",
+    "title": "Lecture #179: DPR — History and Physical Exam of the Integumentary System",
+    "module": "DPR",
+    "tags": "Lecture #179",
+    "path": "content/json/l179.file.js",
+    "readingTime": "11-13 min"
+  },
+  {
+    "id": "l180",
+    "title": "Lecture #180: Dermatology — Viral Exanthems",
+    "module": "Dermatology",
+    "tags": "Lecture #180",
+    "path": "content/json/l180.file.js",
+    "readingTime": "12-15 min"
+  },
+  {
+    "id": "l181",
+    "title": "Lecture #181: Non-Neoplastic Skin Pathology",
+    "module": "Pathology",
+    "tags": "Lecture #181",
+    "path": "content/json/l181.file.js",
+    "readingTime": "13-16 min"
+  },
+  {
+    "id": "l182",
+    "title": "Lecture #182: Pathology of Skin Tumors",
+    "module": "Pathology",
+    "tags": "Lecture #182",
+    "path": "content/json/l182.file.js",
+    "readingTime": "14-17 min"
   }
 ]);
 
