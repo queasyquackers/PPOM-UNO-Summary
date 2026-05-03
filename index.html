@@ -6,7 +6,7 @@
   <title>OnePass</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;0,8..60,900;1,8..60,400&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
   <script src="https://cdn.tailwindcss.com"></script>
   <script>
     tailwind.config = {
@@ -27,30 +27,123 @@
     };
   </script>
   <style>
+    :root { --block-color: #D97757; }
     body { background-color: #F4F1EA; color: #1a1a1a; font-family: 'Source Serif 4', serif; }
     .dark body { background-color: #1A1410; color: #E8E0D4; }
-    
-    /* Typography */
+
+    /* Editorial typography for prose */
     .prose h1, .prose h2, .prose h3 { font-family: 'EB Garamond', serif; color: #1a1a1a; }
     .dark .prose h1, .dark .prose h2, .dark .prose h3 { color: #E8E0D4; }
-    .prose h1 { font-size: 2.75rem; font-weight: 700; margin-bottom: 1rem; line-height: 1.1; }
-    .prose h2 { font-size: 1.75rem; font-weight: 600; margin-top: 2rem; margin-bottom: 0.75rem; border-top: 1px solid #1a1a1a; padding-top: 1rem; }
-    .dark .prose h2 { border-color: #E8E0D4; }
-    .prose h3 { font-size: 1.25rem; font-weight: 600; margin-top: 1.5rem; margin-bottom: 0.5rem; }
-    .prose p { font-size: 1.125rem; line-height: 1.7; margin-bottom: 1.25rem; }
+    .prose h1 { font-size: 2.75rem; font-weight: 700; margin-bottom: 1rem; line-height: 1.1; letter-spacing: -0.01em; }
+    .prose h2 {
+      font-size: 1.75rem; font-weight: 700; line-height: 1.2;
+      margin-top: 2.5rem; margin-bottom: 0.75rem;
+      padding-top: 1rem;
+      border-top: 1px solid currentColor;
+      position: relative;
+    }
+    .prose h2::before {
+      content: "";
+      position: absolute;
+      top: -1px; left: 0;
+      width: 48px; height: 3px;
+      background: var(--block-color);
+    }
+    .prose h3 {
+      font-size: 1.2rem; font-weight: 600;
+      margin-top: 1.75rem; margin-bottom: 0.5rem;
+      font-variant: small-caps;
+      letter-spacing: 0.05em;
+    }
+    .prose p { font-size: 1.1875rem; line-height: 1.65; margin-bottom: 1.25rem; }
+    /* Editorial first-line small caps after each h2 */
+    .prose h2 + p::first-line {
+      font-variant: small-caps;
+      letter-spacing: 0.06em;
+      font-weight: 500;
+    }
     .prose ul, .prose ol { margin-bottom: 1.25rem; padding-left: 1.5rem; }
-    .prose li { margin-bottom: 0.5rem; }
-    
+    .prose li { margin-bottom: 0.5rem; line-height: 1.6; }
+    .prose a {
+      color: inherit;
+      text-decoration: underline;
+      text-decoration-color: var(--block-color);
+      text-decoration-thickness: 1px;
+      text-underline-offset: 3px;
+      transition: text-decoration-thickness 0.15s;
+    }
+    .prose a:hover { text-decoration-thickness: 2px; }
+    .prose blockquote {
+      border-left: 3px solid var(--block-color);
+      padding-left: 1.25rem;
+      margin: 1.5rem 0;
+      font-style: italic;
+      font-family: 'EB Garamond', serif;
+      font-size: 1.25rem;
+      line-height: 1.5;
+      color: #444;
+    }
+    .dark .prose blockquote { color: #B8AC9C; }
+    .prose hr {
+      border: 0;
+      height: 1px;
+      background: currentColor;
+      opacity: 0.2;
+      margin: 2.5rem auto;
+      width: 60%;
+    }
+
+    /* Tab strip: active state uses block color */
+    .tab-btn[data-active="true"] { border-bottom-color: var(--block-color) !important; }
+
+    /* Reading progress bar uses block color */
+    #readingProgressBar { background-color: var(--block-color) !important; }
+
+    /* kbd styling */
+    kbd {
+      font-family: 'Inter', system-ui, sans-serif;
+      font-size: 10px;
+      line-height: 1;
+    }
+
+    /* Magazine masthead wordmark — heavy, condensed, tightly spaced */
+    .masthead-wordmark {
+      font-family: 'Source Serif 4', 'EB Garamond', Georgia, serif;
+      font-weight: 900;
+      letter-spacing: -0.05em;
+      font-feature-settings: "kern" 1, "liga" 1;
+    }
+
     /* Scrollbar */
     ::-webkit-scrollbar { width: 5px; height: 5px; }
     ::-webkit-scrollbar-track { background: transparent; }
     ::-webkit-scrollbar-thumb { background: #E5DFD5; }
     .dark ::-webkit-scrollbar-thumb { background: #352E26; }
+    .hide-scrollbar::-webkit-scrollbar { display: none; }
+    .hide-scrollbar { scrollbar-width: none; }
 
     /* Layout specific */
     .sidebar-hidden #sidebar { display: none; }
     .editorial-border { border: 1px solid #1a1a1a; }
     .dark .editorial-border { border-color: #E8E0D4; }
+
+    /* End-of-summary editorial mark */
+    .end-of-summary {
+      text-align: center;
+      margin: 4rem 0 2rem;
+      font-family: 'Inter', sans-serif;
+      font-size: 10px;
+      letter-spacing: 0.3em;
+      text-transform: uppercase;
+      color: #666;
+    }
+    .dark .end-of-summary { color: #9A8E7A; }
+    .end-of-summary::before, .end-of-summary::after {
+      content: ""; display: inline-block;
+      width: 24px; height: 1px; vertical-align: middle;
+      background: currentColor; margin: 0 0.75rem;
+      opacity: 0.5;
+    }
   </style>
 </head>
 <body class="bg-claude-bg dark:bg-dark-bg font-serif text-claude-text dark:text-dark-text transition-colors duration-200">
@@ -58,21 +151,33 @@
   <div class="flex h-screen overflow-hidden">
     <!-- Sidebar -->
     <div id="sidebar" class="w-80 flex flex-col bg-claude-bg dark:bg-dark-bg border-r border-claude-border dark:border-dark-border z-20 shrink-0">
-      <div class="p-6 border-b border-claude-border dark:border-dark-border">
-        <div class="flex items-center justify-between mb-6">
-          <h1 class="text-3xl font-bold font-display uppercase tracking-widest">OnePass</h1>
-          <button id="darkModeToggle" class="text-claude-muted hover:text-claude-text dark:hover:text-dark-text transition-colors">
-            <svg id="moonIcon" class="w-5 h-5 dark:hidden" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z" /></svg>
-            <svg id="sunIcon" class="w-5 h-5 hidden dark:block" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z" /></svg>
-          </button>
-        </div>
+      <div class="p-6 pb-4 border-b border-claude-border dark:border-dark-border">
+        <!-- Masthead -->
+        <button onclick="closeLecture()" title="Back to home" class="block w-full text-left mb-5 group">
+          <div class="h-[2px] bg-claude-text dark:bg-dark-text mb-1.5 group-hover:opacity-80 transition-opacity"></div>
+          <div class="flex items-baseline justify-between">
+            <h1 class="masthead-wordmark text-2xl leading-none text-claude-text dark:text-dark-text">
+              OnePass<span class="text-claude-accent dark:text-dark-accent">.</span>
+            </h1>
+            <span class="text-[9px] font-sans uppercase tracking-[0.25em] text-claude-muted dark:text-dark-muted">Reader</span>
+          </div>
+          <div class="h-px bg-claude-text dark:bg-dark-text mt-1.5"></div>
+        </button>
+        <!-- Search -->
         <div class="relative">
-          <input type="text" id="searchInput" placeholder="Search lectures... (/)" class="w-full pb-2 bg-transparent border-b border-claude-border dark:border-dark-border text-sm font-sans placeholder-claude-muted focus:outline-none focus:border-claude-text dark:focus:border-dark-text transition-colors rounded-none" />
+          <svg class="absolute left-0 top-1/2 -translate-y-1/2 w-3.5 h-3.5 text-claude-muted dark:text-dark-muted opacity-60 pointer-events-none" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/></svg>
+          <input type="text" id="searchInput" placeholder="Search lectures…" class="w-full pl-6 pb-2 bg-transparent border-b border-claude-border dark:border-dark-border text-sm font-sans placeholder-claude-muted focus:outline-none focus:border-claude-text dark:focus:border-dark-text transition-colors rounded-none" />
+          <span class="absolute right-0 top-1/2 -translate-y-1/2 text-[10px] font-sans text-claude-muted dark:text-dark-muted opacity-50">/</span>
         </div>
       </div>
       <div id="lectureList" class="flex-1 overflow-y-auto p-4 space-y-1"></div>
-      <div class="p-4 border-t border-claude-border dark:border-dark-border text-center">
-        <span id="lectureCount" class="text-xs font-sans text-claude-muted tracking-widest uppercase">0 lectures</span>
+      <!-- Sidebar colophon: stats + dark-mode toggle -->
+      <div class="px-4 py-3 border-t border-claude-border dark:border-dark-border flex items-center justify-between gap-2">
+        <span id="lectureCount" class="text-[10px] font-sans text-claude-muted dark:text-dark-muted tracking-[0.2em] uppercase">0 lectures</span>
+        <button id="darkModeToggle" title="Toggle dark mode" class="text-claude-muted hover:text-claude-text dark:hover:text-dark-text transition-colors p-1 -m-1">
+          <svg id="moonIcon" class="w-4 h-4 dark:hidden" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z" /></svg>
+          <svg id="sunIcon" class="w-4 h-4 hidden dark:block" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z" /></svg>
+        </button>
       </div>
     </div>
 
@@ -83,65 +188,125 @@
       </button>
 
       <!-- Welcome Screen -->
-      <div id="welcomeScreen" class="flex-1 flex flex-col items-center justify-center px-8 overflow-y-auto">
-        <div class="max-w-2xl w-full text-center">
-          <h2 class="text-6xl md:text-8xl font-bold font-display mb-6">OnePass</h2>
-          <div class="h-px bg-claude-border dark:bg-dark-border w-24 mx-auto mb-6"></div>
-          <p class="text-xl md:text-2xl font-serif text-claude-muted dark:text-dark-muted italic mb-12">Every lecture. Every detail. One pass.</p>
-          <div id="welcomeBlockCards" class="grid grid-cols-1 md:grid-cols-2 gap-6 text-left mb-12"></div>
-          <p id="welcomeMessage" class="text-sm font-sans text-claude-muted uppercase tracking-widest">Loading lectures...</p>
+      <div id="welcomeScreen" class="flex-1 flex flex-col overflow-y-auto">
+        <div class="w-full max-w-[1100px] mx-auto px-8 md:px-12 pt-8 md:pt-10 pb-16">
+          <!-- Masthead: 3-tier (kicker / wordmark / slogan) -->
+          <header class="mb-6 md:mb-8">
+            <div class="flex items-center justify-between text-[10px] font-sans uppercase tracking-[0.3em] text-claude-muted dark:text-dark-muted mb-2">
+              <span id="mastheadIssue">Vol. I</span>
+              <span class="hidden sm:inline">A Medical Curriculum Reader</span>
+              <span id="mastheadDate">Loading…</span>
+            </div>
+            <div class="h-[3px] bg-claude-text dark:bg-dark-text"></div>
+            <h1 class="masthead-wordmark leading-none text-claude-text dark:text-dark-text text-center pt-2 pb-1" style="font-size: clamp(3rem, 10vw, 7rem);">
+              OnePass<span class="text-claude-accent dark:text-dark-accent">.</span>
+            </h1>
+            <div class="h-px bg-claude-text dark:bg-dark-text"></div>
+            <p class="text-center font-sans uppercase tracking-[0.35em] text-[10px] sm:text-[11px] text-claude-muted dark:text-dark-muted mt-2">Every lecture &nbsp;·&nbsp; Every detail &nbsp;·&nbsp; One pass</p>
+          </header>
+
+          <!-- Block nav strip -->
+          <nav id="welcomeBlockNav" class="flex flex-wrap items-center justify-center gap-x-6 gap-y-2 pb-4 mb-6 border-b border-claude-border dark:border-dark-border text-[11px] font-sans font-bold uppercase tracking-[0.2em]"></nav>
+
+          <!-- Continue reading (only renders if a lecture has been opened) -->
+          <div id="continueReading" class="hidden mb-8"></div>
+
+          <!-- Section label -->
+          <div class="flex items-baseline gap-3 mb-4">
+            <span class="text-[10px] font-sans font-bold uppercase tracking-[0.3em] text-claude-text dark:text-dark-text">The Curriculum</span>
+            <span class="flex-1 h-px bg-claude-border dark:bg-dark-border"></span>
+            <span id="welcomeMessage" class="text-[10px] font-sans uppercase tracking-[0.25em] text-claude-muted dark:text-dark-muted">Loading…</span>
+          </div>
+
+          <!-- Lead block + secondary blocks rendered by JS -->
+          <div id="welcomeBlockCards"></div>
         </div>
       </div>
 
       <!-- Lecture Content -->
       <div id="lectureContent" class="hidden flex-1 flex flex-col min-h-0 bg-claude-bg dark:bg-dark-bg">
-        <div class="border-b border-claude-border dark:border-dark-border relative pt-12 pb-6 px-12 md:px-24 shrink-0">
-          <button id="closeLecture" class="absolute top-6 right-6 p-2 text-claude-muted hover:text-claude-text dark:hover:text-dark-text transition-colors">
-            <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M6 18L18 6M6 6l12 12" /></svg>
-          </button>
-          <div class="mb-4 flex items-center gap-4 text-xs font-sans uppercase tracking-widest text-claude-muted">
-            <span id="lectureModule"></span>
-            <span id="readingTime"></span>
+        <div class="relative pt-12 pb-0 px-12 md:px-24 shrink-0">
+          <!-- Top right: prev/next/close -->
+          <div class="absolute top-6 right-6 flex items-center gap-1">
+            <button id="prevLectureBtn" title="Previous lecture (J)" class="p-2 text-claude-muted hover:text-claude-text dark:hover:text-dark-text transition-colors disabled:opacity-30 disabled:cursor-not-allowed">
+              <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15 19l-7-7 7-7" /></svg>
+            </button>
+            <button id="nextLectureBtn" title="Next lecture (K)" class="p-2 text-claude-muted hover:text-claude-text dark:hover:text-dark-text transition-colors disabled:opacity-30 disabled:cursor-not-allowed">
+              <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9 5l7 7-7 7" /></svg>
+            </button>
+            <span class="w-px h-6 bg-claude-border dark:bg-dark-border mx-1"></span>
+            <button id="closeLecture" title="Close (Esc)" class="p-2 text-claude-muted hover:text-claude-text dark:hover:text-dark-text transition-colors">
+              <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M6 18L18 6M6 6l12 12" /></svg>
+            </button>
           </div>
-          <h2 id="lectureTitle" class="text-4xl md:text-5xl font-bold font-display leading-tight mb-8"></h2>
-          
-          <div class="flex flex-wrap items-center gap-4" id="lectureActions">
-            <button id="tocToggle" class="w-[180px] h-10 whitespace-nowrap justify-center text-xs font-sans uppercase tracking-widest border border-claude-border dark:border-dark-border hover:bg-claude-surface dark:hover:bg-dark-surface transition-colors flex items-center gap-2">
+
+          <!-- Block kicker (color-coded) -->
+          <div id="lectureKicker" class="flex items-center gap-3 mb-4">
+            <span id="lectureBlockTag" class="text-[10px] font-sans font-bold uppercase tracking-[0.3em]"></span>
+            <span class="flex-1 h-px" id="lectureKickerRule" style="background: currentColor; opacity: 0.4;"></span>
+          </div>
+
+          <!-- Headline + giant L## hero -->
+          <div class="grid md:grid-cols-[1fr_auto] gap-6 md:gap-10 items-start mb-6">
+            <div class="min-w-0">
+              <h2 id="lectureTitle" class="masthead-wordmark leading-[1.0] mb-4" style="font-size: clamp(2rem, 4.5vw, 3.5rem);"></h2>
+              <!-- Byline-style metadata -->
+              <div class="flex flex-wrap items-center gap-x-4 gap-y-1 text-xs font-sans uppercase tracking-[0.25em] text-claude-muted dark:text-dark-muted">
+                <span id="lectureModule"></span>
+                <span class="opacity-40">·</span>
+                <span id="readingTime"></span>
+              </div>
+            </div>
+            <!-- Giant lecture ID, color-coded by block -->
+            <div id="lectureIdHero" class="hidden md:block masthead-wordmark leading-none select-none shrink-0" style="font-size: clamp(4.5rem, 9vw, 8rem); line-height: 0.85;"></div>
+          </div>
+          <div class="border-b border-claude-border dark:border-dark-border mb-5"></div>
+
+          <!-- Slim editorial action toolbar -->
+          <div class="flex flex-wrap items-center gap-x-5 gap-y-2 pb-5 text-[11px] font-sans uppercase tracking-[0.2em]" id="lectureActions">
+            <button id="tocToggle" class="flex items-center gap-2 text-claude-muted dark:text-dark-muted hover:text-claude-text dark:hover:text-dark-text transition-colors">
+              <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4 6h16M4 12h10M4 18h7" /></svg>
               Outline
             </button>
-            <button id="pearlbookToggle" class="w-[180px] h-10 whitespace-nowrap justify-center text-xs font-sans uppercase tracking-widest border border-claude-border dark:border-dark-border hover:bg-claude-surface dark:hover:bg-dark-surface transition-colors flex items-center gap-2">
+            <span class="text-claude-border dark:text-dark-border">·</span>
+            <button id="pearlbookToggle" class="flex items-center gap-2 text-claude-muted dark:text-dark-muted hover:text-claude-text dark:hover:text-dark-text transition-colors">
+              <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" stroke-width="1.5"/><circle cx="12" cy="12" r="3" stroke-width="1.5"/></svg>
               Pearlbook
             </button>
-            <button id="activeRecallToggle" onclick="toggleActiveRecall()" class="w-[180px] h-10 whitespace-nowrap justify-center text-xs font-sans uppercase tracking-widest border border-claude-border dark:border-dark-border hover:bg-claude-surface dark:hover:bg-dark-surface transition-colors flex items-center gap-2">
-              <svg id="activeRecallIcon" class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" /><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z" /></svg>
+            <span class="text-claude-border dark:text-dark-border">·</span>
+            <button id="activeRecallToggle" onclick="toggleActiveRecall()" class="flex items-center gap-2 text-claude-muted dark:text-dark-muted hover:text-claude-text dark:hover:text-dark-text transition-colors">
+              <svg id="activeRecallIcon" class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" /><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z" /></svg>
               Active Recall
             </button>
-            <button id="markCompleteBtn" class="w-[180px] h-10 whitespace-nowrap justify-center text-xs font-sans uppercase tracking-widest border border-claude-border dark:border-dark-border hover:bg-claude-surface dark:hover:bg-dark-surface transition-colors flex items-center gap-2">
-              <svg id="markCompleteIcon" class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M5 13l4 4L19 7" /></svg>
-              <span id="markCompleteText">Complete</span>
+            <span class="text-claude-border dark:text-dark-border">·</span>
+            <button id="markCompleteBtn" class="flex items-center gap-2 text-claude-muted dark:text-dark-muted hover:text-claude-text dark:hover:text-dark-text transition-colors">
+              <svg id="markCompleteIcon" class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>
+              <span id="markCompleteText">Mark Complete</span>
             </button>
           </div>
         </div>
 
-        <div class="flex border-b border-claude-border dark:border-dark-border px-12 md:px-24 overflow-x-auto shrink-0 hide-scrollbar">
-          <button class="tab-btn py-4 pr-8 font-sans text-xs uppercase tracking-widest text-claude-muted border-b border-transparent data-[active=true]:border-claude-text data-[active=true]:text-claude-text dark:data-[active=true]:border-dark-text dark:data-[active=true]:text-dark-text hover:text-claude-text dark:hover:text-dark-text transition-colors" data-tab="summary">Summary</button>
-          <button class="tab-btn py-4 px-8 font-sans text-xs uppercase tracking-widest text-claude-muted border-b border-transparent data-[active=true]:border-claude-text data-[active=true]:text-claude-text dark:data-[active=true]:border-dark-text dark:data-[active=true]:text-dark-text hover:text-claude-text dark:hover:text-dark-text transition-colors" data-tab="questions">Questions</button>
-          <button class="tab-btn py-4 px-8 font-sans text-xs uppercase tracking-widest text-claude-muted border-b border-transparent data-[active=true]:border-claude-text data-[active=true]:text-claude-text dark:data-[active=true]:border-dark-text dark:data-[active=true]:text-dark-text hover:text-claude-text dark:hover:text-dark-text transition-colors" data-tab="flashcards">Flashcards</button>
-          <button class="tab-btn py-4 px-8 font-sans text-xs uppercase tracking-widest text-claude-muted border-b border-transparent data-[active=true]:border-claude-text data-[active=true]:text-claude-text dark:data-[active=true]:border-dark-text dark:data-[active=true]:text-dark-text hover:text-claude-text dark:hover:text-dark-text transition-colors" data-tab="mindmap">Mind Map</button>
-          <button class="tab-btn py-4 px-8 font-sans text-xs uppercase tracking-widest text-claude-muted border-b border-transparent data-[active=true]:border-claude-text data-[active=true]:text-claude-text dark:data-[active=true]:border-dark-text dark:data-[active=true]:text-dark-text hover:text-claude-text dark:hover:text-dark-text transition-colors" data-tab="anking">Anking</button>
-          <button class="tab-btn py-4 pl-8 font-sans text-xs uppercase tracking-widest text-claude-muted border-b border-transparent data-[active=true]:border-claude-text data-[active=true]:text-claude-text dark:data-[active=true]:border-dark-text dark:data-[active=true]:text-dark-text hover:text-claude-text dark:hover:text-dark-text transition-colors" data-tab="high-yield">High Yield</button>
+        <!-- Tab strip: editorial section nav -->
+        <div class="flex border-b border-t border-claude-border dark:border-dark-border px-12 md:px-24 overflow-x-auto shrink-0 hide-scrollbar bg-claude-surface/30 dark:bg-dark-surface/30">
+          <button class="tab-btn py-3 pr-7 font-sans text-[11px] uppercase tracking-[0.25em] text-claude-muted dark:text-dark-muted border-b-2 border-transparent data-[active=true]:text-claude-text dark:data-[active=true]:text-dark-text hover:text-claude-text dark:hover:text-dark-text transition-colors" data-tab="summary">Summary</button>
+          <button class="tab-btn py-3 px-7 font-sans text-[11px] uppercase tracking-[0.25em] text-claude-muted dark:text-dark-muted border-b-2 border-transparent data-[active=true]:text-claude-text dark:data-[active=true]:text-dark-text hover:text-claude-text dark:hover:text-dark-text transition-colors" data-tab="questions">Questions</button>
+          <button class="tab-btn py-3 px-7 font-sans text-[11px] uppercase tracking-[0.25em] text-claude-muted dark:text-dark-muted border-b-2 border-transparent data-[active=true]:text-claude-text dark:data-[active=true]:text-dark-text hover:text-claude-text dark:hover:text-dark-text transition-colors" data-tab="flashcards">Flashcards</button>
+          <button class="tab-btn py-3 px-7 font-sans text-[11px] uppercase tracking-[0.25em] text-claude-muted dark:text-dark-muted border-b-2 border-transparent data-[active=true]:text-claude-text dark:data-[active=true]:text-dark-text hover:text-claude-text dark:hover:text-dark-text transition-colors" data-tab="mindmap">Mind Map</button>
+          <button class="tab-btn py-3 px-7 font-sans text-[11px] uppercase tracking-[0.25em] text-claude-muted dark:text-dark-muted border-b-2 border-transparent data-[active=true]:text-claude-text dark:data-[active=true]:text-dark-text hover:text-claude-text dark:hover:text-dark-text transition-colors" data-tab="anking">Anking</button>
+          <button class="tab-btn py-3 pl-7 font-sans text-[11px] uppercase tracking-[0.25em] text-claude-muted dark:text-dark-muted border-b-2 border-transparent data-[active=true]:text-claude-text dark:data-[active=true]:text-dark-text hover:text-claude-text dark:hover:text-dark-text transition-colors" data-tab="high-yield">High Yield</button>
         </div>
 
         <div id="contentScroll" class="flex-1 overflow-y-auto">
           <div class="flex max-w-[1400px] mx-auto">
             <div id="tableOfContents" class="hidden w-64 border-r border-claude-border dark:border-dark-border p-8 sticky top-0 h-full overflow-y-auto font-sans text-sm hidden lg:block"></div>
-            <div id="tabContent" class="flex-1 p-8 md:p-16 prose max-w-[900px] mx-auto"></div>
+            <div id="tabContent" class="flex-1 px-8 py-10 md:px-12 md:py-14 prose max-w-[680px] mx-auto"></div>
           </div>
         </div>
       </div>
       
-      <button id="backToTop" class="fixed bottom-8 right-8 p-3 rounded-full border border-claude-border bg-claude-bg text-claude-text opacity-0 pointer-events-none transition-opacity duration-300">
-        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M5 10l7-7m0 0l7 7m-7-7v18" /></svg>
+      <button id="backToTop" class="fixed bottom-6 right-6 px-3 py-1.5 border border-claude-text dark:border-dark-text bg-claude-bg dark:bg-dark-bg text-claude-text dark:text-dark-text text-[10px] font-sans uppercase tracking-[0.25em] opacity-0 pointer-events-none transition-opacity duration-300 flex items-center gap-2 hover:bg-claude-text hover:text-claude-bg dark:hover:bg-dark-text dark:hover:text-dark-bg">
+        <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 10l7-7m0 0l7 7m-7-7v18" /></svg>
+        Top
       </button>
     </div>
   </div>
@@ -159,15 +324,18 @@
 
   <div id="pearlbookModal" class="fixed inset-0 z-50 hidden bg-claude-bg/95 dark:bg-dark-bg/95 backdrop-blur-sm opacity-0 transition-opacity" tabindex="-1">
     <div class="w-full h-full flex items-center justify-center p-4 md:p-8">
-      <div class="w-full max-w-4xl max-h-full flex flex-col bg-claude-bg dark:bg-dark-bg border editorial-border shadow-2xl">
-        <div class="px-8 py-6 border-b border-claude-border flex justify-between items-center">
-          <div>
-            <h2 class="text-3xl font-display font-bold text-claude-accent">Pearlbook</h2>
-            <p class="text-sm font-sans text-claude-muted tracking-widest uppercase">Clinical Pearls</p>
+      <div class="w-full max-w-3xl max-h-full flex flex-col bg-claude-bg dark:bg-dark-bg border editorial-border shadow-2xl">
+        <!-- Editorial pull-out header -->
+        <div class="px-8 pt-6 pb-5 border-b border-claude-text dark:border-dark-text">
+          <div class="flex items-center gap-3 mb-3">
+            <span id="pearlbookKicker" class="text-[10px] font-sans font-bold uppercase tracking-[0.3em]">Pull-out</span>
+            <span class="flex-1 h-px" id="pearlbookKickerRule" style="background: currentColor; opacity: 0.4;"></span>
+            <button id="closePearlbook" class="p-1.5 hover:opacity-70 transition-opacity">
+              <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M6 18L18 6M6 6l12 12"></path></svg>
+            </button>
           </div>
-          <button id="closePearlbook" class="p-2 hover:bg-claude-surface transition-colors rounded-full border border-claude-border">
-            <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M6 18L18 6M6 6l12 12"></path></svg>
-          </button>
+          <h2 class="text-4xl md:text-5xl font-display font-bold leading-none tracking-tight text-claude-text dark:text-dark-text">Pearlbook<span id="pearlbookAccent" class="text-claude-accent dark:text-dark-accent">.</span></h2>
+          <p class="text-[11px] font-sans text-claude-muted dark:text-dark-muted tracking-[0.25em] uppercase mt-2">Clinical pearls &nbsp;·&nbsp; <span id="pearlbookLectureName"></span></p>
         </div>
         <div id="pearlbookContent" class="flex-1 overflow-y-auto p-8 prose max-w-none"></div>
       </div>
@@ -182,6 +350,6 @@
     });
   </script>
   <script src="./lectures_search_index.js"></script>
-  <script src="./app.js?v=atlantic9" defer></script>
+  <script src="./app.js?v=atlantic15" defer></script>
 </body>
 </html>
