@@ -1289,6 +1289,10 @@ function switchTab(tab) {
     }
   });
 
+  // Tag tabContent so Tailwind's data-[tab=...] variants can widen non-summary tabs
+  const tabContent = document.getElementById("tabContent");
+  if (tabContent) tabContent.dataset.tab = tab;
+
   // Explicitly handle Active Recall Toggle Visibility
   const arToggle = document.getElementById("activeRecallToggle");
   if (arToggle) {
@@ -1310,6 +1314,9 @@ function renderTabContent() {
   const arToggle = document.getElementById("activeRecallToggle");
   const pearlbookBtn = document.getElementById("pearlbookBtn");
   const completeBtn = document.getElementById("markCompleteBtn");
+
+  // Sync data-tab so Tailwind data-[tab=...] variants pick up the right max-width
+  if (contentDiv) contentDiv.dataset.tab = activeTab;
 
   // Ensure all buttons are visible on all tabs as requested
   if (tocToggle) tocToggle.classList.remove("hidden");
