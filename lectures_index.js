@@ -1400,6 +1400,14 @@ window.receiveLectureIndex([
     "tags": "Lecture #179",
     "path": "content/json/l179.file.js",
     "readingTime": "11-13 min"
+  },
+  {
+    "id": "l180",
+    "title": "Lecture #180: Dermatology — Viral Exanthems",
+    "module": "Dermatology",
+    "tags": "Lecture #180",
+    "path": "content/json/l180.file.js",
+    "readingTime": "12-15 min"
   }
 ]);
 
