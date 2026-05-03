@@ -1320,6 +1320,14 @@ window.receiveLectureIndex([
     "tags": "Lecture #170",
     "path": "content/json/l170.file.js",
     "readingTime": "10-15 min"
+  },
+  {
+    "id": "l171a",
+    "title": "Lecture #171a: HVLA for the Lower Extremity (Lab 29 Prep)",
+    "module": "OMM",
+    "tags": "Lecture #171a",
+    "path": "content/json/l171a.file.js",
+    "readingTime": "6-8 min"
   }
 ]);
 
