@@ -1416,6 +1416,14 @@ window.receiveLectureIndex([
     "tags": "Lecture #181",
     "path": "content/json/l181.file.js",
     "readingTime": "13-16 min"
+  },
+  {
+    "id": "l182",
+    "title": "Lecture #182: Pathology of Skin Tumors",
+    "module": "Pathology",
+    "tags": "Lecture #182",
+    "path": "content/json/l182.file.js",
+    "readingTime": "14-17 min"
   }
 ]);
 
