@@ -26,10 +26,20 @@ function saveLectureTabMemory() {
 
 // Block Categorization System
 const BLOCKS = {
-  neuro: { name: "Neurology", shortName: "NEURO", range: "L1a – L46", color: "#2C3E6B", darkColor: "#7B93DB", start: 1, end: 46 },
-  psych: { name: "Psychiatry", shortName: "PSYCH", range: "L47 – L96", color: "#7B4B7A", darkColor: "#C68BC5", start: 47, end: 96 },
-  msk:   { name: "MSK", shortName: "MSK", range: "L97 – L147", color: "#2D6A4F", darkColor: "#6BBF8A", start: 97, end: 147 },
-  heme:  { name: "Heme-Onc", shortName: "HEME", range: "L148 – L192", color: "#8B1A1A", darkColor: "#E05555", start: 148, end: 192 },
+  neuro: { name: "Neurology", shortName: "NEURO", range: "L1a – L46", color: "#2C3E6B", darkColor: "#7B93DB", start: 1, end: 46, number: 1 },
+  psych: { name: "Psychiatry", shortName: "PSYCH", range: "L47 – L96", color: "#7B4B7A", darkColor: "#C68BC5", start: 47, end: 96, number: 2 },
+  msk:   { name: "MSK", shortName: "MSK", range: "L97 – L147", color: "#2D6A4F", darkColor: "#6BBF8A", start: 97, end: 147, number: 3 },
+  heme:  { name: "Heme-Onc", shortName: "HEME", range: "L148 – L192", color: "#8B1A1A", darkColor: "#E05555", start: 148, end: 192, number: 4 },
+};
+
+// Roman numeral for each block, indexed by block key. Matches the curriculum
+// block number (Neuro = Block I, Psych = II, MSK = III, Heme-Onc = IV) so the
+// numeral stays stable regardless of which block is currently the lead card.
+const BLOCK_NUMERALS = {
+  neuro: "I",
+  psych: "II",
+  msk:   "III",
+  heme:  "IV",
 };
 
 // Strip the "Lecture #XYZ:" prefix from titles before display.
@@ -2929,18 +2939,16 @@ function updateWelcomeMessage() {
     : lead.completed === lead.total ? "Complete"
     : "In progress";
 
-  // Roman numerals for the secondary cards
-  const roman = ["II", "III", "IV", "V"];
-
   // Block initial for the lead card visual anchor (e.g. "N" for Neurology)
   const leadInitial = (lead.block.name || "?").charAt(0).toUpperCase();
 
   cardsDiv.innerHTML = `
     <!-- Lead block: editorial article card with giant initial visual anchor -->
     <div class="mb-10 md:mb-12">
-      <!-- Issue numeral for this lead (matches Roman numerals on secondaries) -->
+      <!-- Issue numeral for this lead — matches the curriculum block number
+           (Neuro=I, Psych=II, MSK=III, Heme-Onc=IV). -->
       <div class="flex items-baseline gap-3 mb-3">
-        <span class="masthead-wordmark opacity-30 leading-none text-3xl" style="color: ${lead.color}">I</span>
+        <span class="masthead-wordmark opacity-30 leading-none text-3xl" style="color: ${lead.color}">${BLOCK_NUMERALS[lead.key] || ''}</span>
         <span class="flex-1 h-[2px]" style="background: ${lead.color}"></span>
       </div>
       <div class="grid md:grid-cols-[1fr_auto] gap-6 md:gap-10 items-start mb-6">
@@ -3008,7 +3016,7 @@ function updateWelcomeMessage() {
         <div class="flex flex-col">
           <button onclick="openBlock('${o.key}')" class="group text-left transition-all duration-200">
             <div class="flex items-baseline gap-3 mb-2">
-              <span class="masthead-wordmark opacity-30 leading-none text-2xl" style="color: ${o.color}">${roman[i] || ''}</span>
+              <span class="masthead-wordmark opacity-30 leading-none text-2xl" style="color: ${o.color}">${BLOCK_NUMERALS[o.key] || ''}</span>
               <span class="flex-1 h-[2px]" style="background: ${o.color}"></span>
             </div>
             <div class="text-[10px] font-sans font-bold uppercase tracking-[0.3em] mb-1.5" style="color: ${o.color}">${o.block.shortName}</div>
