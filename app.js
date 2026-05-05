@@ -560,6 +560,15 @@ function setupEventListeners() {
   });
   document.getElementById("prevLectureBtn")?.addEventListener("click", () => goToAdjacentLecture(-1));
   document.getElementById("nextLectureBtn")?.addEventListener("click", () => goToAdjacentLecture(1));
+
+  // Compact header (sticky bar that appears once the big title scrolls off-screen)
+  document.getElementById("compactCloseBtn")?.addEventListener("click", () => closeLecture());
+  document.getElementById("compactPrevBtn")?.addEventListener("click", () => goToAdjacentLecture(-1));
+  document.getElementById("compactNextBtn")?.addEventListener("click", () => goToAdjacentLecture(1));
+  document.getElementById("compactRecallBtn")?.addEventListener("click", () => toggleActiveRecall());
+  document.getElementById("compactCompleteBtn")?.addEventListener("click", () => {
+    if (selectedLecture) toggleLectureComplete(selectedLecture.id);
+  });
   document.getElementById("backToTop").addEventListener("click", () => {
     document
       .getElementById("contentScroll")
@@ -696,6 +705,20 @@ function setupReadingProgress() {
       backToTop.classList.remove("opacity-0", "pointer-events-none");
     } else {
       backToTop.classList.add("opacity-0", "pointer-events-none");
+    }
+
+    // Reveal compact header once the big title's action toolbar is no longer visible.
+    // Use getBoundingClientRect so the trigger is independent of offsetParent quirks.
+    const compactHeader = document.getElementById("compactHeader");
+    const lectureActions = document.getElementById("lectureActions");
+    const toc = document.getElementById("tableOfContents");
+    if (compactHeader && lectureActions) {
+      const actionsRect = lectureActions.getBoundingClientRect();
+      const scrollRect = contentScroll.getBoundingClientRect();
+      const shouldShow = actionsRect.bottom <= scrollRect.top;
+      compactHeader.classList.toggle("active", shouldShow);
+      // Push TOC sidebar down so it sits below the (taller) sticky stack when compact is visible
+      if (toc) toc.style.top = shouldShow ? "105px" : "49px";
     }
 
     // Scroll Spy Logic
@@ -1096,16 +1119,24 @@ function appendEndOfSummary(contentDiv) {
 function updatePrevNextButtons() {
   const prev = document.getElementById('prevLectureBtn');
   const next = document.getElementById('nextLectureBtn');
+  const compactPrev = document.getElementById('compactPrevBtn');
+  const compactNext = document.getElementById('compactNextBtn');
   if (!prev || !next) return;
   if (!selectedLecture) {
     prev.disabled = true;
     next.disabled = true;
+    if (compactPrev) compactPrev.disabled = true;
+    if (compactNext) compactNext.disabled = true;
     return;
   }
   const ids = getVisibleLectureIds();
   const idx = ids.indexOf(selectedLecture.id);
-  prev.disabled = idx <= 0;
-  next.disabled = idx === -1 || idx >= ids.length - 1;
+  const prevDisabled = idx <= 0;
+  const nextDisabled = idx === -1 || idx >= ids.length - 1;
+  prev.disabled = prevDisabled;
+  next.disabled = nextDisabled;
+  if (compactPrev) compactPrev.disabled = prevDisabled;
+  if (compactNext) compactNext.disabled = nextDisabled;
 }
 
 async function selectLecture(id) {
@@ -1129,6 +1160,12 @@ async function selectLecture(id) {
   const moduleEl = document.getElementById("lectureModule");
   if (moduleEl) moduleEl.textContent = meta.module;
 
+  // Mirror title/id into the compact sticky bar
+  const compactTitleEl = document.getElementById("compactLectureTitle");
+  if (compactTitleEl) compactTitleEl.textContent = displayTitle(meta.title);
+  const compactIdEl = document.getElementById("compactLectureId");
+  if (compactIdEl) compactIdEl.textContent = (meta.id || "").toUpperCase();
+
   // Block kicker (color-coded category tag at top of lecture) + giant L## hero
   const blockTagEl = document.getElementById("lectureBlockTag");
   const kickerRule = document.getElementById("lectureKickerRule");
@@ -1145,6 +1182,8 @@ async function selectLecture(id) {
       heroEl.textContent = (meta.id || "").toUpperCase();
       heroEl.style.color = blockColor;
     }
+    const compactIdEl = document.getElementById("compactLectureId");
+    if (compactIdEl) compactIdEl.style.color = blockColor;
     document.documentElement.style.setProperty('--block-color', blockColor);
   }
 
@@ -1225,6 +1264,11 @@ async function selectLecture(id) {
 
   const contentScroll = document.getElementById("contentScroll");
   if (contentScroll) contentScroll.scrollTop = 0;
+  // Reset compact header when switching lectures so it doesn't stay shown over a fresh title
+  const compactHeader = document.getElementById("compactHeader");
+  if (compactHeader) compactHeader.classList.remove("active");
+  const toc = document.getElementById("tableOfContents");
+  if (toc) toc.style.top = "49px";
 }
 
 function renderSkeleton() {
@@ -1262,6 +1306,21 @@ function updateCompleteButton() {
 
     icon.innerHTML = '<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>';
     text.textContent = "Mark Complete";
+  }
+
+  // Mirror state to the compact header's complete button
+  const compactBtn = document.getElementById("compactCompleteBtn");
+  const compactIcon = document.getElementById("compactCompleteIcon");
+  if (compactBtn && compactIcon) {
+    if (isComplete) {
+      compactBtn.classList.add("text-claude-accent", "dark:text-dark-accent");
+      compactBtn.title = "Completed — click to undo";
+      compactIcon.innerHTML = '<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>';
+    } else {
+      compactBtn.classList.remove("text-claude-accent", "dark:text-dark-accent");
+      compactBtn.title = "Mark Complete";
+      compactIcon.innerHTML = '<path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />';
+    }
   }
 }
 
@@ -3518,6 +3577,18 @@ function updateActiveRecallButtonState() {
 
     // Icon: Eye (Visible)
     icon.innerHTML = '<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" /><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z" />';
+  }
+
+  // Mirror state to compact header's recall button
+  const compactBtn = document.getElementById("compactRecallBtn");
+  if (compactBtn) {
+    if (activeRecall) {
+      compactBtn.classList.add("text-claude-accent", "dark:text-dark-accent");
+      compactBtn.title = "Active Recall (on)";
+    } else {
+      compactBtn.classList.remove("text-claude-accent", "dark:text-dark-accent");
+      compactBtn.title = "Active Recall";
+    }
   }
 }
 // Helper: Highlight Search Terms
