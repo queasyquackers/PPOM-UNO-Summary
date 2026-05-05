@@ -144,6 +144,15 @@
       background: currentColor; margin: 0 0.75rem;
       opacity: 0.5;
     }
+
+    /* Compact lecture header — slides in once the big title scrolls off-screen */
+    #compactHeader {
+      max-height: 0;
+      opacity: 0;
+      overflow: hidden;
+      transition: max-height 0.25s ease, opacity 0.2s ease;
+    }
+    #compactHeader.active { max-height: 56px; opacity: 1; }
   </style>
 </head>
 <body class="bg-claude-bg dark:bg-dark-bg font-serif text-claude-text dark:text-dark-text transition-colors duration-200">
@@ -225,7 +234,8 @@
 
       <!-- Lecture Content -->
       <div id="lectureContent" class="hidden flex-1 flex flex-col min-h-0 bg-claude-bg dark:bg-dark-bg">
-        <div class="relative pt-12 pb-0 px-12 md:px-24 shrink-0">
+        <div id="contentScroll" class="flex-1 overflow-y-auto">
+        <div class="relative pt-12 pb-0 px-12 md:px-24">
           <!-- Top right: prev/next/close -->
           <div class="absolute top-6 right-6 flex items-center gap-1">
             <button id="prevLectureBtn" title="Previous lecture (J)" class="p-2 text-claude-muted hover:text-claude-text dark:hover:text-dark-text transition-colors disabled:opacity-30 disabled:cursor-not-allowed">
@@ -286,19 +296,48 @@
           </div>
         </div>
 
-        <!-- Tab strip: editorial section nav -->
-        <div class="flex border-b border-t border-claude-border dark:border-dark-border px-12 md:px-24 overflow-x-auto shrink-0 hide-scrollbar bg-claude-surface/30 dark:bg-dark-surface/30">
+        <!-- Sticky header stack: compact bar (revealed on scroll past title) + tab strip -->
+        <div class="sticky top-0 z-20">
+          <!-- Compact lecture header: hidden by default, slides in when big title scrolls off-screen -->
+          <div id="compactHeader" class="bg-claude-bg/95 dark:bg-dark-bg/95 backdrop-blur-md border-b border-claude-border dark:border-dark-border">
+            <div class="flex items-center gap-3 px-12 md:px-24 py-2.5">
+              <span id="compactLectureId" class="masthead-wordmark text-base leading-none shrink-0"></span>
+              <span class="opacity-30 shrink-0 text-sm">·</span>
+              <span id="compactLectureTitle" class="font-display text-sm truncate flex-1 text-claude-text dark:text-dark-text"></span>
+              <div class="flex items-center gap-0.5 shrink-0 text-claude-muted dark:text-dark-muted">
+                <button id="compactRecallBtn" title="Active Recall" class="p-1.5 hover:text-claude-text dark:hover:text-dark-text transition-colors">
+                  <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" /><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z" /></svg>
+                </button>
+                <button id="compactCompleteBtn" title="Mark Complete" class="p-1.5 hover:text-claude-text dark:hover:text-dark-text transition-colors">
+                  <svg id="compactCompleteIcon" class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>
+                </button>
+                <span class="w-px h-4 bg-claude-border dark:bg-dark-border mx-1"></span>
+                <button id="compactPrevBtn" title="Previous (J)" class="p-1.5 hover:text-claude-text dark:hover:text-dark-text transition-colors disabled:opacity-30 disabled:cursor-not-allowed">
+                  <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15 19l-7-7 7-7" /></svg>
+                </button>
+                <button id="compactNextBtn" title="Next (K)" class="p-1.5 hover:text-claude-text dark:hover:text-dark-text transition-colors disabled:opacity-30 disabled:cursor-not-allowed">
+                  <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9 5l7 7-7 7" /></svg>
+                </button>
+                <button id="compactCloseBtn" title="Close (Esc)" class="p-1.5 hover:text-claude-text dark:hover:text-dark-text transition-colors">
+                  <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M6 18L18 6M6 6l12 12" /></svg>
+                </button>
+              </div>
+            </div>
+          </div>
+
+          <!-- Tab strip: editorial section nav -->
+          <div class="flex border-b border-t border-claude-border dark:border-dark-border px-12 md:px-24 overflow-x-auto hide-scrollbar bg-claude-bg/90 dark:bg-dark-bg/90 backdrop-blur-md">
           <button class="tab-btn py-3 pr-7 font-sans text-[11px] uppercase tracking-[0.25em] text-claude-muted dark:text-dark-muted border-b-2 border-transparent data-[active=true]:text-claude-text dark:data-[active=true]:text-dark-text hover:text-claude-text dark:hover:text-dark-text transition-colors" data-tab="summary">Summary</button>
           <button class="tab-btn py-3 px-7 font-sans text-[11px] uppercase tracking-[0.25em] text-claude-muted dark:text-dark-muted border-b-2 border-transparent data-[active=true]:text-claude-text dark:data-[active=true]:text-dark-text hover:text-claude-text dark:hover:text-dark-text transition-colors" data-tab="questions">Questions</button>
           <button class="tab-btn py-3 px-7 font-sans text-[11px] uppercase tracking-[0.25em] text-claude-muted dark:text-dark-muted border-b-2 border-transparent data-[active=true]:text-claude-text dark:data-[active=true]:text-dark-text hover:text-claude-text dark:hover:text-dark-text transition-colors" data-tab="flashcards">Flashcards</button>
           <button class="tab-btn py-3 px-7 font-sans text-[11px] uppercase tracking-[0.25em] text-claude-muted dark:text-dark-muted border-b-2 border-transparent data-[active=true]:text-claude-text dark:data-[active=true]:text-dark-text hover:text-claude-text dark:hover:text-dark-text transition-colors" data-tab="mindmap">Mind Map</button>
           <button class="tab-btn py-3 px-7 font-sans text-[11px] uppercase tracking-[0.25em] text-claude-muted dark:text-dark-muted border-b-2 border-transparent data-[active=true]:text-claude-text dark:data-[active=true]:text-dark-text hover:text-claude-text dark:hover:text-dark-text transition-colors" data-tab="anking">Anking</button>
           <button class="tab-btn py-3 pl-7 font-sans text-[11px] uppercase tracking-[0.25em] text-claude-muted dark:text-dark-muted border-b-2 border-transparent data-[active=true]:text-claude-text dark:data-[active=true]:text-dark-text hover:text-claude-text dark:hover:text-dark-text transition-colors" data-tab="high-yield">High Yield</button>
+          </div>
         </div>
 
-        <div id="contentScroll" class="flex-1 overflow-y-auto">
           <div class="flex max-w-[1400px] mx-auto">
-            <div id="tableOfContents" class="hidden w-64 border-r border-claude-border dark:border-dark-border p-8 sticky top-0 h-full overflow-y-auto font-sans text-sm hidden lg:block"></div>
+            <div id="tableOfContents" class="hidden w-64 border-r border-claude-border dark:border-dark-border p-8 sticky top-[49px] h-[calc(100vh-49px)] overflow-y-auto font-sans text-sm hidden lg:block"></div>
             <div id="tabContent" class="flex-1 px-8 py-10 md:px-12 md:py-14 prose max-w-[680px] data-[tab=questions]:max-w-[960px] data-[tab=flashcards]:max-w-[960px] data-[tab=anking]:max-w-[960px] data-[tab=high-yield]:max-w-[960px] mx-auto"></div>
           </div>
         </div>
