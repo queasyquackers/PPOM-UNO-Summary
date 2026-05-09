@@ -237,13 +237,13 @@ footer { text-align: left; padding: 40px 20px; font-family: 'Caveat', cursive; f
   <div class="hero-sub">Weeks 16–20 · Hematology · Pathology · Pharmacology · Microbiology · Dermatology</div>
 </div>
 <nav>
-  <button class="nav-btn active" onclick="go('heme')">🩸 Heme</button>
-  <button class="nav-btn" onclick="go('path')">🔬 Path</button>
-  <button class="nav-btn" onclick="go('pharm')">💊 Pharm</button>
-  <button class="nav-btn" onclick="go('micro')">🧫 Micro</button>
-  <button class="nav-btn" onclick="go('derm')">🔎 Derm</button>
-  <button class="nav-btn" onclick="go('dpr')">🩺 DPR</button>
-  <button class="nav-btn" onclick="go('omm')">🖐️ OMM</button>
+  <button class="nav-btn active" onclick="go('heme', this)">🩸 Heme</button>
+  <button class="nav-btn" onclick="go('path', this)">🔬 Path</button>
+  <button class="nav-btn" onclick="go('pharm', this)">💊 Pharm</button>
+  <button class="nav-btn" onclick="go('micro', this)">🧫 Micro</button>
+  <button class="nav-btn" onclick="go('derm', this)">🔎 Derm</button>
+  <button class="nav-btn" onclick="go('dpr', this)">🩺 DPR</button>
+  <button class="nav-btn" onclick="go('omm', this)">🖐️ OMM</button>
 </nav>
 
 <!-- ═══════════════════════════════════════ -->
@@ -264,7 +264,7 @@ footer { text-align: left; padding: 40px 20px; font-family: 'Caveat', cursive; f
         <li><strong>Antibodies:</strong> naturally occurring by 3–6 months; predominantly <strong>IgM</strong> (Type A/B); Type O produces significant <strong>IgG</strong> (crosses placenta!)</li>
         <li>ABO antibodies fix complement → rapid <strong>intravascular hemolysis</strong></li>
       </ul>
-      <div class="memo">Bombay Phenotype (h/h) = no H-gene → can't make H-substance → phenotypes as O but has anti-H → can ONLY receive Bombay blood</div>
+      <div class="memo">Bombay Phenotype (h/h) = no H-gene → can't make H-substance → phenotypes as O but has anti-H → can ONLY receive Bombay blood. <strong>Reverse-grouping trap:</strong> serum has anti-A + anti-B + <em>anti-H</em> (vs true Type O which has only anti-A + anti-B).</div>
     </div>
     <div class="card">
       <h3>Rh System &amp; HDFN</h3>
@@ -351,6 +351,9 @@ footer { text-align: left; padding: 40px 20px; font-family: 'Caveat', cursive; f
         <li><strong>% Saturation:</strong> fraction of transferrin bound to iron</li>
         <li>Ferritin and TIBC are <strong>inversely related</strong> — low stores → liver ↑ transferrin production</li>
         <li><strong>Iron absorption:</strong> duodenum; regulated by <strong>hepcidin</strong> (blocks ferroportin)</li>
+        <li><strong>Absorption pathway:</strong> dietary Fe³⁺ → reduced by <strong>DcytB ferrireductase</strong> → enters enterocyte via <strong>DMT1</strong> → exits basolateral via <strong>ferroportin</strong> → bound by <strong>transferrin</strong>. Vitamin C enhances; PPIs/antacids/gastrectomy reduce.</li>
+        <li><strong>FEP (Free Erythrocyte Protoporphyrin):</strong> ↑ in IDA and lead poisoning; <strong>normal in thalassemia</strong> — useful discriminator.</li>
+        <li><strong>IDA stages:</strong> stores deplete first (↓ ferritin) → serum iron drops → <em>normocytic with ↑RDW</em> → only later becomes microcytic. Early IDA can fool you.</li>
       </ul>
     </div>
     <div class="card full">
@@ -446,6 +449,34 @@ footer { text-align: left; padding: 40px 20px; font-family: 'Caveat', cursive; f
       </ul>
     </div>
     <div class="card full">
+      <h3>Additional Anemia Pearls</h3>
+      <div class="vs">
+        <div class="vs-col">
+          <div class="vs-head">Orotic Aciduria</div>
+          <ul>
+            <li><strong>UMP synthase</strong> deficiency → can't make pyrimidines → megaloblastic anemia</li>
+            <li><strong>NOT corrected by B12 or folate</strong> (key trap)</li>
+            <li><strong>Orotic acid in urine + NO hyperammonemia</strong> (vs OTC deficiency, which has hyperammonemia)</li>
+            <li>Tx: <strong>uridine triacetate</strong></li>
+          </ul>
+        </div>
+        <div class="vs-col">
+          <div class="vs-head">Non-Megaloblastic Macrocytic</div>
+          <ul>
+            <li>Causes: <strong>alcohol, liver disease, hypothyroidism, hydroxyurea, 5-FU, AZT</strong></li>
+            <li><strong>NO hypersegmented neutrophils</strong> (key distinction from B12/folate)</li>
+            <li>MCV usually only mildly elevated (100–110)</li>
+          </ul>
+        </div>
+      </div>
+      <ul>
+        <li><strong>Universal hemolysis labs:</strong> ↑ LDH, ↑ unconjugated bilirubin, ↓ haptoglobin, ↑ reticulocytes, <strong>pigmented (bilirubin) gallstones</strong></li>
+        <li><strong>Hemosiderinuria:</strong> appears days after intravascular hemolysis (renal tubular cells shed iron); distinct from acute hemoglobinuria</li>
+        <li><strong>Drug-induced AIHA:</strong> methyldopa (warm), penicillin/cephalosporins (hapten), quinidine (immune complex). Direct Coombs (+).</li>
+        <li><strong>Pernicious anemia mechanism:</strong> autoimmune destruction of <strong>parietal cells</strong> → no IF + ↑ gastric pH + atrophic gastritis. Associated with Hashimoto's, vitiligo, T1DM. <strong>↑ gastric adenocarcinoma risk</strong>.</li>
+      </ul>
+    </div>
+    <div class="card full">
       <h3>High-Yield Peripheral Smear Findings</h3>
       <div class="tbl-wrap"><table>
         <tr><th>Finding</th><th>Associated Condition(s)</th></tr>
@@ -506,6 +537,8 @@ footer { text-align: left; padding: 40px 20px; font-family: 'Caveat', cursive; f
         <li><strong>Protein C & S:</strong> Vitamin K dependent. Inactivate factors <strong>Va</strong> and <strong>VIIIa</strong>.</li>
         <li><strong>Antithrombin (ATIII):</strong> Binds and degrades <strong>Thrombin</strong>, <strong>IXa</strong>, and <strong>Xa</strong>. (Heparin works by greatly enhancing ATIII).</li>
         <li><strong>Fibrinolysis:</strong> Plasminogen is converted to <strong>Plasmin</strong> (by tPA), which degrades the fibrin mesh.</li>
+        <li><strong>Vit K factor mnemonic "1972 + C/S":</strong> Factors II, VII, IX, X + Protein C & S all require vit-K-dependent γ-carboxylation (warfarin's targets).</li>
+        <li><strong>Vit K deficiency labs:</strong> prolongs <strong>BOTH PT and PTT</strong>. Factor VII shortest t½ → PT rises first.</li>
       </ul>
     </div>
     <div class="card">
@@ -547,7 +580,7 @@ footer { text-align: left; padding: 40px 20px; font-family: 'Caveat', cursive; f
         <li><strong>Prothrombin Gene Mutation (G20210A):</strong> 2nd most common. ↑ prothrombin levels → ↑ thrombin generation</li>
         <li><strong>Antithrombin Deficiency:</strong> heparin resistance (heparin works through AT!). ↑ risk of venous thrombosis</li>
         <li><strong>Protein C or S Deficiency:</strong> cannot inactivate Va/VIIIa. Warfarin skin necrosis (C has shortest half-life)</li>
-        <li><strong>Antiphospholipid Syndrome:</strong> lupus anticoagulant, anti-cardiolipin, anti-β2GP1. <strong>Paradox:</strong> ↑ aPTT in vitro but <strong>hypercoagulable in vivo</strong>. Recurrent pregnancy loss + thrombosis.</li>
+        <li><strong>Antiphospholipid Syndrome:</strong> lupus anticoagulant, anti-cardiolipin, anti-β2GP1. <strong>Paradox:</strong> ↑ aPTT in vitro but <strong>hypercoagulable in vivo</strong>. Recurrent pregnancy loss + thrombosis. <strong>Mixing study does NOT correct</strong> (unlike factor deficiency); <strong>false-positive RPR/VDRL</strong>.</li>
       </ul>
     </div>
     <div class="card">
@@ -625,7 +658,10 @@ footer { text-align: left; padding: 40px 20px; font-family: 'Caveat', cursive; f
       <ul>
         <li><strong>AML:</strong> Auer rods (pathognomonic), MPO (+), <strong>APL</strong> (M3) = t(15;17) → treat with <strong>ATRA</strong> (all-trans retinoic acid) + arsenic. DIC is a major complication.</li>
         <li><strong>CML:</strong> <strong>Philadelphia chromosome</strong> t(9;22) → BCR-ABL. Very high WBC. Tx: Imatinib (TKI). Blast crisis = transformation to acute leukemia.</li>
+        <li><strong>Down Syndrome:</strong> ↑ risk of both ALL and AML (especially AMKL — acute megakaryoblastic). Transient myeloproliferative disorder in newborns may resolve or progress.</li>
       </ul>
+      <div class="alert warning"><strong>Tumor Lysis Syndrome:</strong> rapid cell death (esp. ALL/Burkitt with chemo) → <strong>↑K, ↑PO₄, ↑uric acid, ↓Ca</strong> → AKI + arrhythmia. Prevent: aggressive hydration + <strong>allopurinol</strong> (low risk) or <strong>rasburicase</strong> (high risk). <strong>Hyperleukocytosis</strong> (WBC &gt;100k) → leukostasis (CNS/pulmonary symptoms) — oncologic emergency.</div>
+      <div class="alert warning"><strong>Reye Syndrome:</strong> aspirin + viral illness (esp. influenza, varicella) in children → encephalopathy + microvesicular fatty liver. <strong>Never give ASA to kids with viral illness.</strong></div>
       <div class="tbl-wrap"><table>
         <tr><th>Feature</th><th>Hodgkin Lymphoma</th><th>Non-Hodgkin Lymphoma</th></tr>
         <tr><td><strong>Cell</strong></td><td><strong>Reed-Sternberg cells</strong> ("owl-eye" bilobed nuclei, CD15/CD30+)</td><td>Variable (B-cell most common)</td></tr>
@@ -649,7 +685,7 @@ footer { text-align: left; padding: 40px 20px; font-family: 'Caveat', cursive; f
     <div class="card full">
       <h3>Hematopoietic Stem Cell Differentiation</h3>
       <ul>
-        <li><strong>Pluripotent HSC</strong> → common myeloid progenitor (CMP) + common lymphoid progenitor (CLP)</li>
+        <li><strong>Pluripotent HSC</strong> → common myeloid progenitor (CMP) + common lymphoid progenitor (CLP). <strong>HSC marker: CD34+</strong> (used to identify/harvest stem cells for BMT).</li>
         <li><strong>CMP →</strong> megakaryocyte (platelets), erythrocyte (RBCs), granulocytes (neutrophils, eosinophils, basophils), monocytes</li>
         <li><strong>CLP →</strong> T cells, B cells, NK cells</li>
         <li><strong>Erythropoiesis:</strong> proerythroblast → basophilic → polychromatic → orthochromatic → reticulocyte → mature RBC</li>
@@ -671,8 +707,9 @@ footer { text-align: left; padding: 40px 20px; font-family: 'Caveat', cursive; f
         <tr><td><strong>ALL</strong></td><td>Lymphoblasts (TdT +)</td><td>Children. B-cell most common. T-cell presents as mediastinal mass. Associated with Down Syndrome.</td></tr>
         <tr><td><strong>CLL</strong></td><td>Mature B cells (CD19, 20, 23, <strong>CD5+</strong>)</td><td>Older adults. Smudge cells on smear. Can transform to DLBCL (Richter).</td></tr>
         <tr><td><strong>Follicular Lymphoma</strong></td><td>B cells</td><td><strong>t(14;18)</strong> → BCL-2 overexpression (prevents apoptosis). Indolent course.</td></tr>
-        <tr><td><strong>Burkitt Lymphoma</strong></td><td>B cells</td><td><strong>t(8;14)</strong> → c-myc overexpression. "Starry sky" histology. Endemic (jaw) vs sporadic (abdomen).</td></tr>
-        <tr><td><strong>Hodgkin Lymphoma</strong></td><td>B cells</td><td><strong>Reed-Sternberg cells</strong> (CD15+, CD30+). Nodular sclerosis most common (good prognosis). B symptoms. Contiguous spread.</td></tr>
+        <tr><td><strong>Burkitt Lymphoma</strong></td><td>B cells</td><td><strong>t(8;14)</strong> → c-myc overexpression. "Starry sky" histology. Endemic (jaw, EBV+) vs sporadic (abdomen).</td></tr>
+        <tr><td><strong>Mantle Cell Lymphoma</strong></td><td>B cells (CD5+, CD20+)</td><td><strong>t(11;14)</strong> → <strong>Cyclin D1 (BCL-1)</strong> overexpression. Aggressive; older men. CD5+ but CD23− (vs CLL which is CD5+/CD23+).</td></tr>
+        <tr><td><strong>Hodgkin Lymphoma</strong></td><td>B cells</td><td><strong>Reed-Sternberg cells</strong> (CD15+, CD30+). B symptoms. Contiguous spread.<br><strong>Subtypes:</strong> Nodular sclerosis (most common, young women, good prognosis); <strong>Lymphocyte-depleted</strong> (worst prognosis, strongest EBV link); <strong>Nodular Lymphocyte-Predominant (NLPHL)</strong> = "popcorn cells" — CD20+/CD45+ but <strong>CD15−/CD30−</strong> (opposite phenotype, excellent prognosis).</td></tr>
         <tr><td><strong>Myeloproliferative Disorders</strong></td><td>Myeloid lineage</td><td>Polycythemia Vera (↑ RBCs, pruritus), Essential Thrombocythemia (↑ plts), Primary Myelofibrosis (fibrotic marrow). All have ↑ basophils.</td></tr>
         <tr><td><strong>Multiple Myeloma</strong></td><td>Plasma cells</td><td>Monoclonal M spike on SPEP. &gt;10% plasma cells. <strong>CRAB:</strong> hyperCalcemia, Renal failure, Anemia, Bone lesions.</td></tr>
         <tr><td><strong>Hairy Cell Leukemia</strong></td><td>Mature B cells</td><td>Adult males. Massive splenomegaly, "dry tap" bone marrow. <strong>TRAP positive</strong>. Excellent prognosis.</td></tr>
@@ -684,7 +721,9 @@ footer { text-align: left; padding: 40px 20px; font-family: 'Caveat', cursive; f
         <li><strong>Primary Hemostasis Defects:</strong> Platelet/vWF issues. Present with mucosal bleeding, petechiae, purpura. e.g. ITP, TTP, HUS, vWD.</li>
         <li><strong>ITP (Immune Thrombocytopenic Purpura):</strong> Anti-GpIIb/IIIa antibodies. Acute (kids post-viral) vs Chronic (adults). Splenic destruction.</li>
         <li><strong>TTP (Thrombotic Thrombocytopenic Purpura):</strong> ADAMTS13 deficiency → uncleaved vWF multimers → microthrombi. <strong>Pentad:</strong> FAT RN (Fever, Anemia, Thrombocytopenia, Renal, Neuro). Schistocytes.</li>
-        <li><strong>Qualitative Platelet Disorders:</strong> Normal platelet count, but prolonged bleeding time. <strong>Bernard-Soulier:</strong> deficiency in GpIb (adhesion defect). <strong>Glanzmann thrombasthenia:</strong> deficiency in GpIIb/IIIa (aggregation defect).</li>
+        <li><strong>Qualitative Platelet Disorders:</strong> Normal platelet count, but prolonged bleeding time. <strong>Bernard-Soulier:</strong> GpIb deficiency (adhesion defect) — <strong>giant platelets + mild thrombocytopenia</strong>. <strong>Glanzmann:</strong> GpIIb/IIIa deficiency — normal platelet size/count.</li>
+        <li><strong>Ristocetin Cofactor Assay:</strong> tests vWF function. <strong>vWD</strong> = no agglutination, corrects when vWF added. <strong>Bernard-Soulier</strong> = no agglutination, <em>fails to correct</em> with vWF (GpIb is broken).</li>
+        <li><strong>Henoch-Schönlein Purpura (IgA Vasculitis):</strong> classic peds tetrad — <strong>palpable purpura</strong> (buttocks/lower legs) + <strong>arthralgia</strong> + <strong>abdominal pain</strong> + <strong>IgA nephropathy</strong>. Often post-URI. Normal platelets/coags. Usually self-limited.</li>
         <li><strong>Secondary Hemostasis Defects:</strong> Coagulation factor issues. Present with deep tissue bleeding, hemarthrosis. e.g. Hemophilia A (VIII) &amp; B (IX).</li>
       </ul>
     </div>
@@ -695,7 +734,18 @@ footer { text-align: left; padding: 40px 20px; font-family: 'Caveat', cursive; f
         <li><strong>Factor V Leiden:</strong> Most common inherited thrombophilia. Mutated Factor V is resistant to cleavage by Protein C.</li>
         <li><strong>Lines of Zahn:</strong> Alternating pale (platelet/fibrin) and dark (RBC) layers. Distinguishes true pre-mortem thrombus from post-mortem clot.</li>
         <li><strong>Arterial vs Venous:</strong> Arterial thrombi usually at sites of turbulence/endothelial injury (atherosclerosis). Venous thrombi usually at sites of stasis (DVT).</li>
+        <li><strong>Trousseau Syndrome:</strong> migratory superficial thrombophlebitis with visceral malignancy — classically <strong>pancreatic adenocarcinoma</strong> (also lung, GI). May precede cancer diagnosis.</li>
+        <li><strong>Paradoxical Embolism:</strong> venous thrombus crosses to arterial circulation via <strong>PFO/ASD</strong> → systemic embolism (stroke despite DVT source).</li>
       </ul>
+    </div>
+    <div class="card full">
+      <h3>Embolism Vignettes (Non-Thrombotic)</h3>
+      <div class="tbl-wrap"><table>
+        <tr><th>Type</th><th>Trigger</th><th>Classic Presentation</th></tr>
+        <tr><td><strong>Fat Embolism</strong></td><td>Long-bone or pelvic fracture (1–3 days post)</td><td><strong>Triad:</strong> respiratory distress + neurologic changes + <strong>petechial rash</strong> (axilla/conjunctiva). Fat globules in urine.</td></tr>
+        <tr><td><strong>Amniotic Fluid Embolism</strong></td><td>Labor/delivery, abruption</td><td>Sudden cardiopulmonary collapse + <strong>DIC</strong> in laboring patient. High mortality.</td></tr>
+        <tr><td><strong>Air Embolism</strong></td><td>Central line, surgery, decompression sickness ("the bends")</td><td>Sudden dyspnea, neuro symptoms; treat with <strong>hyperbaric O₂</strong>; left-lateral decubitus to trap air in RV.</td></tr>
+      </table></div>
     </div>
   </div>
 
@@ -711,6 +761,16 @@ footer { text-align: left; padding: 40px 20px; font-family: 'Caveat', cursive; f
         <li><strong>Pemphigus Vulgaris:</strong> IgG against desmoglein 1/3 (desmosomes). <strong>Flaccid</strong> bullae, rupture easily, oral mucosa involved. Positive Nikolsky. "Tombstone" appearance.</li>
       </ul>
     </div>
+    <div class="card full">
+      <h3>Additional Non-Neoplastic Path (Lec 181)</h3>
+      <ul>
+        <li><strong>Erythema Multiforme:</strong> T-cell-mediated (Type IV). <strong>Target ("iris") lesions</strong> on extensor surfaces/palms/soles. <strong>#1 trigger = HSV recurrence</strong>; also Mycoplasma. SJS = severe form with mucosal involvement.</li>
+        <li><strong>Lichen Planus path:</strong> <strong>sawtooth rete ridges</strong>, <strong>Civatte (apoptotic) bodies</strong>, band-like lymphocytic infiltrate at the DEJ. Hep C association.</li>
+        <li><strong>Dermatitis Herpetiformis path:</strong> <strong>neutrophilic microabscesses at dermal papillae tips</strong> + <strong>granular IgA</strong> deposition (NOT linear). Anti-tissue/epidermal transglutaminase. Tx: gluten-free diet + dapsone.</li>
+        <li><strong>Hereditary Angioedema:</strong> <strong>C1-esterase inhibitor deficiency</strong> → unopposed <strong>bradykinin</strong>. Recurrent non-pruritic facial/laryngeal/GI swelling. <em>NO urticaria</em>; <em>does NOT respond to epi/antihistamines</em>. Tx: <strong>C1-INH concentrate, ecallantide, icatibant</strong>. (ACE-I angioedema = same bradykinin mechanism.)</li>
+        <li><strong>Pemphigus IF:</strong> <strong>"fishnet" intercellular IgG</strong> (around keratinocytes). <strong>BP IF:</strong> <strong>linear IgG along BMZ</strong>. Distinguish on direct immunofluorescence.</li>
+      </ul>
+    </div>
     <div class="card">
       <h3>Skin Tumors (Lec 182)</h3>
       <ul>
@@ -719,6 +779,40 @@ footer { text-align: left; padding: 40px 20px; font-family: 'Caveat', cursive; f
         <li><strong>Basal Cell Carcinoma (BCC):</strong> Most common skin cancer. Sun-exposed areas (upper lip). Pearly papule with telangiectasias. <strong>Palisading</strong> nuclei with retraction artifact. Rarely metastasizes.</li>
         <li><strong>Squamous Cell Carcinoma (SCC):</strong> Second most common. Sun exposure, arsenic, chronic wounds (Marjolin ulcer). Lower lip. <strong>Keratin pearls</strong> and intercellular bridges.</li>
         <li><strong>Melanoma:</strong> Malignant tumor of melanocytes. ABCDE criteria. S-100, HMB-45, Melan-A positive. <strong>Depth of invasion (Breslow thickness)</strong> is the most important prognostic factor.</li>
+      </ul>
+    </div>
+    <div class="card full">
+      <h3>Skin Tumor Pathology — Additional Details</h3>
+      <div class="vs">
+        <div class="vs-col">
+          <div class="vs-head">Acanthosis Nigricans</div>
+          <ul>
+            <li>Hyperpigmented, velvety plaques (axilla, neck, groin)</li>
+            <li><strong>Insulin resistance</strong> (T2DM, PCOS, obesity) — most common cause</li>
+            <li><strong>Sudden/widespread onset = paranEoplastic</strong> sign of <strong>gastric adenocarcinoma</strong> (or other GI malignancy)</li>
+          </ul>
+        </div>
+        <div class="vs-col">
+          <div class="vs-head">BCC Molecular / Gorlin Syndrome</div>
+          <ul>
+            <li>BCC pathway: <strong>PTCH1 → SMO → GLI1 (Hedgehog signaling)</strong></li>
+            <li><strong>Gorlin (Nevoid BCC) Syndrome:</strong> AD, PTCH1 mutation. Multiple BCCs at young age + odontogenic keratocysts + medulloblastoma + palmar/plantar pits</li>
+            <li>Targeted therapy: <strong>Vismodegib</strong> (SMO inhibitor) for advanced/metastatic BCC</li>
+          </ul>
+        </div>
+      </div>
+      <div class="tbl-wrap"><table>
+        <tr><th colspan="3" style="text-align:center;background:#37474f;color:white;">Melanoma — 4 Clinicopathologic Subtypes</th></tr>
+        <tr><th>Subtype</th><th>Features</th><th>Pearl</th></tr>
+        <tr><td><strong>Superficial Spreading</strong></td><td>Most common (~70%); horizontal radial growth phase</td><td>Best prognosis if caught early</td></tr>
+        <tr><td><strong>Nodular</strong></td><td>Early <strong>vertical</strong> growth phase (no radial phase)</td><td><strong>Worst prognosis</strong>; thick at diagnosis</td></tr>
+        <tr><td><strong>Lentigo Maligna</strong></td><td>Sun-damaged skin in elderly (face/neck)</td><td>Long radial growth phase; better prognosis</td></tr>
+        <tr><td><strong>Acral Lentiginous</strong></td><td>Palms, soles, subungual</td><td><strong>Most common in darker-skinned patients</strong> (Bob Marley). Not UV-related.</td></tr>
+      </table></div>
+      <ul>
+        <li><strong>Melanoma molecular:</strong> <strong>BRAF V600E (~50%)</strong>, NRAS, CDKN2A. Targeted therapy: <strong>vemurafenib/dabrafenib</strong> (BRAF), <strong>ipilimumab</strong> (CTLA-4), <strong>pembrolizumab/nivolumab</strong> (PD-1).</li>
+        <li><strong>Breslow T-staging:</strong> T1 ≤1 mm · T2 1–2 mm · T3 2–4 mm · T4 &gt;4 mm. Ulceration upgrades stage. <strong>SLN biopsy</strong> indicated for ≥0.8 mm or ulcerated lesions.</li>
+        <li><strong>FAMMM Syndrome:</strong> familial atypical multiple mole melanoma — AD, <strong>CDKN2A</strong> mutation; ↑ pancreatic cancer risk.</li>
       </ul>
     </div>
   </div>
@@ -736,7 +830,10 @@ footer { text-align: left; padding: 40px 20px; font-family: 'Caveat', cursive; f
         <tr><td><strong>Stratum Corneum</strong></td><td>Outermost layer of anucleate, dead keratinocytes (squames). Barrier function.</td></tr>
       </table></div>
       <ul>
-        <li><strong>Melanocytes:</strong> Neural crest derived. Synthesize melanin in melanosomes and transfer them to keratinocytes to protect DNA from UV.</li>
+        <li><strong>Melanocytes:</strong> Neural crest derived. Synthesize melanin in melanosomes (Tyrosine → DOPA → melanin) and transfer them to keratinocytes — form a "pigment cap" over the keratinocyte nucleus to shield DNA from UV.</li>
+        <li><strong>Langerhans Cells:</strong> dendritic <em>antigen-presenting cells</em> (NOT macrophages); MHC I/II. Contain <strong>Birbeck granules</strong> (tennis-racket-shaped on EM) — pathognomonic for <strong>Langerhans Cell Histiocytosis</strong>.</li>
+        <li><strong>Filaggrin / Loricrin / Keratohyalin granules:</strong> form the cornified cell envelope (epidermal barrier). <strong>Filaggrin loss-of-function</strong> mutation = <strong>atopic dermatitis</strong> (and ichthyosis vulgaris).</li>
+        <li><strong>DEJ Collagens:</strong> <strong>Type IV</strong> = lamina densa of basement membrane (Goodpasture, Alport target); <strong>Type VII</strong> = anchoring fibrils — defective in <strong>dystrophic epidermolysis bullosa</strong>.</li>
         <li><strong>Dermis:</strong> Papillary dermis (loose CT, capillaries, Meissner corpuscles) vs Reticular dermis (dense irregular CT, hair follicles, glands, Pacinian corpuscles).</li>
       </ul>
     </div>
@@ -761,6 +858,9 @@ footer { text-align: left; padding: 40px 20px; font-family: 'Caveat', cursive; f
         <li><strong>Heat Production:</strong> BMR, muscle activity (shivering), non-shivering thermogenesis (brown fat in neonates via UCP1/thermogenin).</li>
         <li><strong>Heat Loss:</strong> <strong>Radiation</strong> (60% at rest), <strong>Evaporation</strong> (22% at rest, primary mechanism during exercise/sweating), Conduction, Convection.</li>
         <li><strong>Fever vs Hyperthermia:</strong> Fever = set point is raised by pyrogens (PGE2). Hyperthermia = set point is normal, but body cannot dissipate heat fast enough (e.g. heat stroke).</li>
+        <li><strong>Pyrogen Cascade:</strong> infection/tissue damage → TLR/macrophage → <strong>IL-1, IL-6, TNF, IFN</strong> → preoptic hypothalamic endothelium → <strong>PGE2</strong> → ↑ set point. Antipyretics (NSAIDs/APAP) inhibit at <strong>PGE2 (COX)</strong>; corticosteroids inhibit cytokine release.</li>
+        <li><strong>Sweat physiology:</strong> eccrine glands innervated by <strong>postganglionic CHOLINERGIC sympathetic</strong> (boards trap — sympathetic but ACh, not NE). Duct contains <strong>CFTR + ENaC</strong> — explains the elevated sweat chloride in CF.</li>
+        <li><strong>Fever phases:</strong> "Chills" (set-point rising → vasoconstriction + shivering, feels cold) → "Crisis" (resolution → vasodilation + sweating).</li>
       </ul>
     </div>
     <div class="card">
@@ -779,6 +879,18 @@ footer { text-align: left; padding: 40px 20px; font-family: 'Caveat', cursive; f
         <li><strong>Heat Stroke:</strong> Medical emergency! Core temp &gt;40°C (104°F) + <strong>CNS dysfunction</strong> (confusion, ataxia, coma). Anhidrosis (classic/non-exertional) or profuse sweating (exertional). Tx: Rapid cooling (ice water immersion is gold standard for exertional).</li>
       </ul>
       <div class="alert"><strong>Key distinction:</strong> Mental status changes (confusion, delirium) are the hallmark of Heat Stroke vs Heat Exhaustion.</div>
+    </div>
+    <div class="card full">
+      <h3>Heat Stroke — Pathophysiology &amp; Treatment Pearls</h3>
+      <ul>
+        <li><strong>Cascade:</strong> hyperthermia → cellular protein denaturation → gut barrier breakdown → endotoxin release → systemic inflammatory response → endothelial damage → <strong>MOSF + DIC + rhabdomyolysis + AKI</strong></li>
+        <li><strong>Classic vs Exertional:</strong> Classic = elderly, no AC, comorbidities/drugs, anhidrotic. Exertional = athletes/military in first ~4 days; profuse sweating preserved.</li>
+        <li><strong>CNS findings:</strong> ataxia, seizures, <strong>upgoing plantars (Babinski)</strong>, cerebellar dysfunction (cerebellum especially heat-sensitive)</li>
+        <li><strong>Cooling:</strong> <strong>evaporative cooling + large fan</strong> = preferred for classic heat stroke. <strong>Ice-water immersion</strong> = gold standard for exertional only. Treat shivering during cooling with <strong>benzodiazepines</strong>.</li>
+        <li><strong>Antipyretics (APAP/NSAIDs) have NO ROLE</strong> — set point isn't elevated; they may worsen hepatic/renal injury</li>
+        <li><strong>Vasopressor choice:</strong> prefer β1 (dobutamine) over α-agonists (norepi worsens cutaneous vasoconstriction)</li>
+      </ul>
+      <div class="alert warning"><strong>Drugs that impair thermoregulation</strong> (predispose to heat illness): <strong>anticholinergics</strong> (impair sweating), <strong>phenothiazines/antipsychotics</strong> (anticholinergic + central dopamine), <strong>diuretics</strong> (volume), <strong>β-blockers/CCBs</strong> (blunt tachycardic response), <strong>sympathomimetics</strong> (↑ heat production), <strong>ethanol</strong> (ADH suppression, vasodilation).</div>
     </div>
   </div>
 </div>
@@ -838,6 +950,21 @@ footer { text-align: left; padding: 40px 20px; font-family: 'Caveat', cursive; f
       <div class="alert warning">
         <strong>Warfarin Skin Necrosis:</strong> Due to rapid initial depletion of Protein C (natural anticoagulant with short half-life). Must bridge with heparin.
       </div>
+      <div class="alert warning">
+        <strong>Warfarin teratogenicity (fetal warfarin syndrome):</strong> nasal hypoplasia, stippled epiphyses, IUGR, CNS malformations. <strong>Use heparin/LMWH in pregnancy</strong> (don't cross placenta).
+      </div>
+      <div class="memo"><strong>Why bridge warfarin with heparin?</strong> Factor VII has the shortest t½ (~6 h) → INR rises first and looks therapeutic, but Factor II (~50 h) is still circulating, so true antithrombotic effect lags ~5 days. Without bridging, the patient is <em>under-anticoagulated and pro-thrombotic</em> early (Protein C drops faster than Factor II → transient hypercoagulable state).</div>
+    </div>
+    <div class="card full">
+      <h3>Anticoagulant &amp; Antiplatelet Pearls</h3>
+      <ul>
+        <li><strong>Fondaparinux:</strong> synthetic <strong>pentasaccharide</strong> — pure Factor Xa inhibitor via AT. <strong>Safe in HIT</strong> (no PF4 cross-reactivity). <strong>NOT reversed by protamine</strong>. Renal clearance.</li>
+        <li><strong>HIT type II timing:</strong> typically 5–14 days after heparin start. <strong>Avoid LMWH</strong> (cross-reactivity). Switch to <strong>argatroban</strong> (hepatic clearance — safe in renal failure), bivalirudin, or fondaparinux.</li>
+        <li><strong>Clopidogrel pharmacogenomics:</strong> prodrug activated by <strong>CYP2C19</strong>. <strong>Poor metabolizers → treatment failure</strong> (esp. East Asian populations); consider prasugrel or ticagrelor instead.</li>
+        <li><strong>Ticagrelor adverse effects:</strong> distinctive <strong>dyspnea</strong> (~15%) and <strong>bradyarrhythmias</strong> (mechanism: ↑ adenosine).</li>
+        <li><strong>Reye Syndrome:</strong> ASA + viral illness in children → encephalopathy + microvesicular hepatic steatosis. <strong>Avoid ASA in kids</strong> (use APAP/ibuprofen).</li>
+        <li><strong>Aspirin-Exacerbated Respiratory Disease (Samter triad):</strong> asthma + nasal polyps + ASA/NSAID sensitivity (mechanism: ↑ leukotriene shunt).</li>
+      </ul>
     </div>
 
     <div class="card">
@@ -927,6 +1054,57 @@ footer { text-align: left; padding: 40px 20px; font-family: 'Caveat', cursive; f
         <tr><td><strong>Nitrosoureas</strong></td><td>Carmustine, Lomustine</td><td>Alkylating agents that <strong>cross BBB</strong> (lipophilic).</td><td>Used for CNS tumors. Tox: delayed myelosuppression (4–6 wks).</td></tr>
       </table></div>
       <div class="memo"><strong>Vinca vs Taxanes:</strong> Both target microtubules but opposite mechanisms. Vincas = "Vin-DESTABILIZE" (block polymerization). Taxanes = "Tax-STABILIZE" (block depolymerization). Both arrest cells in M-phase.</div>
+      <div class="alert warning"><strong>Vincristine NEVER intrathecal — fatal.</strong> "IV use only" labels exist because of repeat fatal medication errors when confused with intrathecal methotrexate.</div>
+    </div>
+
+    <div class="card full">
+      <h3>Hormone Therapy &amp; Newer Targeted Agents</h3>
+      <div class="tbl-wrap"><table>
+        <tr><th>Class / Agent</th><th>Target</th><th>Indication / Pearl</th></tr>
+        <tr><td><strong>Tamoxifen</strong></td><td>SERM (antagonist in breast, agonist in endometrium/bone)</td><td>ER+ breast ca. AE: <strong>endometrial ca</strong>, hot flashes, DVT/PE</td></tr>
+        <tr><td><strong>Raloxifene</strong></td><td>SERM (antagonist in breast AND endometrium)</td><td>Postmenopausal osteoporosis. No endometrial ca risk.</td></tr>
+        <tr><td><strong>Aromatase Inhibitors</strong> (letrozole, anastrozole, exemestane)</td><td>Block peripheral conversion of androgens → estrogen</td><td>Postmenopausal ER+ breast ca. AE: osteoporosis, arthralgia.</td></tr>
+        <tr><td><strong>CDK4/6 Inhibitors</strong> (palbociclib, ribociclib, abemaciclib)</td><td>Block Rb phosphorylation → G1 arrest</td><td>HR+/HER2− metastatic breast ca (paired w/ aromatase inhibitor). AE: neutropenia.</td></tr>
+        <tr><td><strong>PARP Inhibitors</strong> (olaparib, rucaparib)</td><td>Block ssDNA repair → synthetic lethality</td><td><strong>BRCA1/2-mutated</strong> breast/ovarian/prostate. AE: myelosuppression.</td></tr>
+        <tr><td><strong>Bortezomib</strong> (proteasome inhibitor) + <strong>Lenalidomide/Thalidomide</strong></td><td>Proteasome / IMiD</td><td><strong>Multiple Myeloma</strong> (VRd regimen). Thalidomide: <strong>phocomelia</strong> teratogenicity + DVT risk.</td></tr>
+        <tr><td><strong>Daratumumab</strong></td><td>Anti-CD38 mAb</td><td>Multiple Myeloma. Interferes with ABO crossmatch.</td></tr>
+      </table></div>
+    </div>
+
+    <div class="card full">
+      <h3>Immune Checkpoint Inhibitors (ICIs) &amp; CAR-T</h3>
+      <div class="tbl-wrap"><table>
+        <tr><th>Drug</th><th>Target</th><th>Indications</th></tr>
+        <tr><td><strong>Ipilimumab</strong></td><td>CTLA-4</td><td>Melanoma</td></tr>
+        <tr><td><strong>Pembrolizumab, Nivolumab</strong></td><td>PD-1</td><td>Melanoma, NSCLC, RCC, Hodgkin, MSI-high tumors</td></tr>
+        <tr><td><strong>Atezolizumab, Durvalumab, Avelumab</strong></td><td>PD-L1</td><td>Bladder, NSCLC, TNBC</td></tr>
+      </table></div>
+      <ul>
+        <li><strong>Mechanism:</strong> release the "brake" on T-cells → allow anti-tumor immunity</li>
+        <li><strong>Immune-related Adverse Events (irAEs):</strong> autoimmune toxicity in any organ — <strong>colitis, hepatitis, hypophysitis, thyroiditis, pneumonitis, dermatitis, type 1 DM</strong>. Tx: <strong>high-dose steroids</strong> ± hold drug.</li>
+      </ul>
+      <ul>
+        <li><strong>CAR-T cells:</strong> patient's T-cells engineered with chimeric antigen receptor.
+          <ul>
+            <li><strong>Anti-CD19</strong> (tisagenlecleucel, axicabtagene): relapsed B-ALL, DLBCL</li>
+            <li><strong>Anti-BCMA</strong>: multiple myeloma</li>
+          </ul>
+        </li>
+        <li><strong>Cytokine Release Syndrome (CRS):</strong> fever, hypotension, hypoxia, multi-organ dysfunction. Mediated by IL-6. <strong>Tx: tocilizumab</strong> (anti-IL-6R).</li>
+        <li><strong>ICANS</strong> (Immune effector Cell-Associated Neurotoxicity Syndrome): aphasia, encephalopathy, seizures.</li>
+      </ul>
+    </div>
+
+    <div class="card full">
+      <h3>Tumor Lysis Syndrome (TLS) &amp; Other Pharm Pearls</h3>
+      <ul>
+        <li><strong>TLS:</strong> rapid tumor cell death (esp. high-burden ALL, Burkitt, large lymphomas after chemo) → ↑ K, ↑ phosphate, ↑ uric acid, <strong>↓ Ca</strong> (binds phosphate) → <strong>AKI + arrhythmia</strong>.</li>
+        <li><strong>Prevention:</strong> aggressive IV hydration + <strong>allopurinol</strong> (low risk; xanthine oxidase inhibitor) or <strong>rasburicase</strong> (high risk; recombinant urate oxidase — directly degrades uric acid).</li>
+        <li><strong>6-Mercaptopurine + Allopurinol interaction:</strong> 6-MP is metabolized by xanthine oxidase → allopurinol blocks this → <strong>reduce 6-MP dose to 25%</strong>. <strong>TPMT poor metabolizers</strong> → severe myelosuppression with normal doses (test before starting).</li>
+        <li><strong>Capecitabine:</strong> oral prodrug of 5-FU. Hand-foot syndrome.</li>
+        <li><strong>Trastuzumab cardiotoxicity is REVERSIBLE</strong> (unlike doxorubicin's irreversible cardiomyopathy). Get baseline ECHO before starting; re-check periodically.</li>
+        <li><strong>Cisplatin:</strong> add <strong>ototoxicity</strong> + highly emetogenic (premedicate with 5-HT3 antagonist + dexamethasone + NK1 antagonist).</li>
+      </ul>
     </div>
   </div>
 
@@ -951,6 +1129,15 @@ footer { text-align: left; padding: 40px 20px; font-family: 'Caveat', cursive; f
       </ul>
     </div>
 
+    <div class="card">
+      <h3>Additional Antimalarial Pearls</h3>
+      <ul>
+        <li><strong>Mefloquine:</strong> prophylaxis in chloroquine-resistant areas. <strong>Neuropsychiatric AEs</strong> (vivid dreams, anxiety, depression, psychosis) — <strong>contraindicated in psych or seizure history</strong>. QT prolongation.</li>
+        <li><strong>Quinine:</strong> severe malaria adjunct (often with doxycycline for Babesia). Tox: <strong>cinchonism</strong> (tinnitus, headache, blurry vision), <strong>hypoglycemia</strong> (esp. in pregnancy via insulin release), QT prolongation.</li>
+        <li><strong>Doxycycline in malaria:</strong> "<strong>delayed death</strong>" mechanism — inhibits the apicoplast (organelle of plasmodial origin) → parasite dies in next replication cycle.</li>
+        <li><strong>Plasmodium fever periodicity:</strong> <strong>Tertian (q48h)</strong> = vivax/ovale; <strong>Quartan (q72h)</strong> = malariae; falciparum is irregular. <strong>Schüffner's dots</strong> = vivax/ovale RBC stippling. P. malariae → chronic <strong>immune-complex glomerulonephritis</strong>.</li>
+      </ul>
+    </div>
     <div class="card">
       <h3>Other Protozoal Infections</h3>
       <ul>
@@ -982,6 +1169,21 @@ footer { text-align: left; padding: 40px 20px; font-family: 'Caveat', cursive; f
         <li><strong>Clotrimazole / Miconazole:</strong> Topical azoles for superficial dermatophyte and candidal infections.</li>
       </ul>
     </div>
+    <div class="card full">
+      <h3>Antifungal Clinical Pearls</h3>
+      <ul>
+        <li><strong>Cryptococcal meningitis 3-phase regimen:</strong>
+          <ul>
+            <li><strong>Induction</strong> (≥2 wk): Amphotericin B + Flucytosine</li>
+            <li><strong>Consolidation</strong> (8 wk): high-dose Fluconazole</li>
+            <li><strong>Maintenance</strong>: low-dose Fluconazole (≥1 yr or until CD4 recovery)</li>
+          </ul>
+        </li>
+        <li><strong>Posaconazole &amp; Isavuconazole:</strong> the only azoles with reliable activity against <strong>Mucor / Rhizopus</strong> (zygomycetes). Use isavuconazole as alternative to AmB for mucormycosis.</li>
+        <li><strong>Echinocandin spectrum:</strong> fungi<em>cidal</em> vs Candida; fungi<em>static</em> vs Aspergillus. <strong>NO CNS penetration</strong> — cannot use for cryptococcal meningitis.</li>
+        <li><strong>Griseofulvin = CYP inducer</strong> (↓ warfarin, ↓ OCP levels) and disulfiram-like reaction with alcohol.</li>
+      </ul>
+    </div>
   </div>
 
   <div class="sub">📋 Lec 184 & 185 — Antiretroviral Therapy (ART)</div>
@@ -993,11 +1195,12 @@ footer { text-align: left; padding: 40px 20px; font-family: 'Caveat', cursive; f
 
     <div class="card">
       <h3>NRTIs (Nucleoside/tide RT Inhibitors)</h3>
-      <p><i>Tenofovir, Emtricitabine, Lamivudine, Abacavir</i></p>
+      <p><i>Tenofovir, Emtricitabine, Lamivudine, Abacavir, Zidovudine</i></p>
       <ul>
         <li><strong>Mechanism:</strong> Competitively inhibit RT; lack 3'-OH group causing chain termination. Needs host phosphorylation.</li>
-        <li><strong>Tenofovir (TDF vs TAF):</strong> TDF causes renal toxicity and bone loss. TAF is a prodrug.</li>
+        <li><strong>Tenofovir (TDF vs TAF):</strong> TDF causes renal toxicity (specifically <strong>Fanconi syndrome</strong> — proximal tubulopathy, phosphate wasting) and bone loss. TAF is a prodrug with less toxicity.</li>
         <li><strong>Abacavir:</strong> <strong>HLA-B*5701</strong> screening mandatory to prevent fatal hypersensitivity.</li>
+        <li><strong>Zidovudine (AZT):</strong> classic NRTI for <strong>perinatal/PMTCT prophylaxis</strong>. AE: <strong>bone marrow suppression</strong> (anemia, neutropenia).</li>
         <li><strong>Class Tox:</strong> Mitochondrial toxicity (lactic acidosis, hepatic steatosis) — mostly older generation.</li>
       </ul>
     </div>
@@ -1016,7 +1219,7 @@ footer { text-align: left; padding: 40px 20px; font-family: 'Caveat', cursive; f
       <p><i>Efavirenz, Rilpivirine</i></p>
       <ul>
         <li><strong>Mechanism:</strong> Allosteric inhibitors of RT. Do not require phosphorylation. Low barrier to resistance.</li>
-        <li><strong>Tox:</strong> Rash. <strong>Efavirenz:</strong> Neuropsychiatric effects (vivid dreams, depression). CYP inducers/inhibitors.</li>
+        <li><strong>Tox:</strong> Rash — including <strong>SJS/TEN and DRESS</strong> (especially nevirapine, also efavirenz). <strong>Efavirenz:</strong> Neuropsychiatric effects (vivid dreams, depression). CYP inducers/inhibitors.</li>
       </ul>
     </div>
 
@@ -1037,6 +1240,7 @@ footer { text-align: left; padding: 40px 20px; font-family: 'Caveat', cursive; f
         <li><strong>Maraviroc:</strong> <strong>CCR5 antagonist</strong> → blocks viral entry via CCR5 co-receptor. Must perform <strong>tropism assay</strong> first (only works on R5-tropic virus). AE: hepatotoxicity, cough.</li>
         <li><strong>Ibalizumab:</strong> Monoclonal Ab against CD4. Post-attachment inhibitor. IV, used in multidrug-resistant HIV.</li>
         <li><strong>Ritonavir / Cobicistat:</strong> CYP3A4 inhibitors used as <strong>pharmacokinetic boosters</strong> (increase levels of PIs and some INSTIs). Ritonavir itself is a PI but used at sub-therapeutic doses for boosting.</li>
+        <li><strong>Cabotegravir + Rilpivirine (Cabenuva):</strong> long-acting <strong>IM injection q1–2 months</strong> as maintenance therapy in virologically suppressed patients — adherence aid. Cabotegravir alone is also approved for <strong>injectable PrEP</strong>.</li>
       </ul>
     </div>
   </div>
@@ -1069,6 +1273,17 @@ footer { text-align: left; padding: 40px 20px; font-family: 'Caveat', cursive; f
         <tr><td><strong>Leptospira interrogans</strong></td><td><strong>Leptospirosis:</strong> biphasic — flu-like → <strong>Weil's disease</strong> (jaundice, renal failure, hemorrhage). Conjunctival suffusion.</td><td>Contact with water contaminated by animal (rat) urine</td><td>Dark-field microscopy, MAT serology. Tx: Penicillin or Doxycycline.</td></tr>
       </table></div>
       <div class="memo"><strong>Ixodes tick triple threat:</strong> Same tick transmits Lyme (Borrelia), Babesiosis (Babesia), and Anaplasmosis (Anaplasma). Always consider co-infection!</div>
+    </div>
+    <div class="card full">
+      <h3>Additional Vector-Borne / Zoonotic Pathogens</h3>
+      <div class="tbl-wrap"><table>
+        <tr><th>Pathogen</th><th>Disease / Presentation</th><th>Vector / Reservoir</th><th>Diagnostic / Treatment</th></tr>
+        <tr><td><strong>Trypanosoma brucei</strong> (gambiense / rhodesiense)</td><td><strong>African sleeping sickness:</strong> chancre → hemolymphatic stage with <strong>Winterbottom's sign</strong> (posterior cervical LAD) → late CNS stage (somnolence, coma)</td><td>Tsetse fly (Sub-Saharan Africa)</td><td>Trypomastigotes on smear/CSF. Early: <strong>pentamidine / suramin</strong>. Late CNS: <strong>melarsoprol</strong> (arsenical — reactive encephalopathy) or eflornithine.</td></tr>
+        <tr><td><strong>Bartonella quintana</strong></td><td><strong>Trench fever:</strong> q5-day relapsing fevers. Bacillary angiomatosis in HIV. Homeless/poor hygiene populations.</td><td>Body louse</td><td>Doxycycline + gentamicin.</td></tr>
+        <tr><td><strong>Zika virus</strong></td><td>Mild febrile illness + maculopapular rash + conjunctivitis. <strong>Congenital Zika syndrome: microcephaly</strong>, intracranial calcifications. Adults: <strong>Guillain-Barré syndrome</strong> association.</td><td><strong>Aedes</strong> mosquito + <strong>sexual transmission</strong> + vertical</td><td>RT-PCR (acute) / IgM. Supportive. Avoid pregnancy/travel to endemic areas.</td></tr>
+        <tr><td><strong>Bacillus anthracis</strong></td><td><strong>Cutaneous</strong> (most common): painless ulcer with <strong>black eschar</strong> + edema. <strong>Inhalational ("woolsorter's"):</strong> mediastinal widening, pleural effusions, sepsis. <strong>GI</strong>: ulcers, bloody diarrhea.</td><td>Spores in soil/wool/hides; bioterror via aerosol</td><td><strong>Edema Factor</strong> (CaM-dependent AC → ↑cAMP); <strong>Lethal Factor</strong> (Zn metalloprotease cleaving MAPKK). Tx: ciprofloxacin or doxycycline.</td></tr>
+        <tr><td><strong>Yersinia pestis</strong></td><td><strong>Bubonic plague:</strong> painful regional lymphadenopathy ("bubo") + fever. <strong>Pneumonic:</strong> rapidly fatal pneumonia, person-to-person transmissible.</td><td>Rat flea (rodents); aerosol (pneumonic)</td><td>Streptomycin or doxycycline. Bioterror agent.</td></tr>
+      </table></div>
     </div>
   </div>
 
@@ -1110,8 +1325,10 @@ footer { text-align: left; padding: 40px 20px; font-family: 'Caveat', cursive; f
         <tr><td><strong>Any CD4</strong></td><td><strong>Kaposi Sarcoma (HHV-8)</strong></td><td>Violaceous (purple) papules/nodules on skin, mucosa, viscera. Most common AIDS-associated malignancy.</td><td>Biopsy. Tx: ART ± chemo. Distinguish from bacillary angiomatosis (Bartonella).</td></tr>
         <tr><td><strong>&lt; 200</strong></td><td><strong>Histoplasma capsulatum</strong></td><td>Disseminated: fever, pancytopenia, hepatosplenomegaly, oral ulcers. Endemic: Ohio/Mississippi River valleys.</td><td>Urine/serum antigen. Yeast in macrophages. Tx: Amphotericin B → Itraconazole.</td></tr>
         <tr><td><strong>&lt; 200</strong></td><td><strong>JC Virus (PML)</strong></td><td>Progressive multifocal leukoencephalopathy: progressive focal neuro deficits, demyelination. No mass effect on MRI.</td><td>JC virus PCR in CSF. No specific treatment — restore immunity with ART.</td></tr>
+        <tr><td><strong>Any CD4 (chronic in low CD4)</strong></td><td><strong>Cryptosporidium parvum</strong></td><td>Severe chronic watery diarrhea (&gt;1 month) → AIDS-defining if chronic. Acid-fast oocysts on stool stain.</td><td>Stool acid-fast / antigen. Tx: <strong>nitazoxanide</strong> + ART (most effective).</td></tr>
       </table></div>
       <div class="alert"><strong>Toxo vs CNS Lymphoma on MRI:</strong> Both ring-enhancing. Toxo = <em>multiple</em> lesions, responds to empiric TMP-SMX. Lymphoma (EBV-associated) = <em>single</em> lesion, doesn't respond. Get brain biopsy if no response to empiric tx.</div>
+      <div class="memo"><strong>AIDS-defining illness boards trap:</strong> includes invasive cervical ca, KS, primary CNS lymphoma, esophageal candidiasis, chronic crypto, HIV wasting syndrome. <strong>Hodgkin lymphoma is NOT AIDS-defining</strong> (despite increased incidence in HIV).</div>
     </div>
 
     <div class="card">
@@ -1157,7 +1374,7 @@ footer { text-align: left; padding: 40px 20px; font-family: 'Caveat', cursive; f
         <tr><th>Family</th><th>Virus</th><th>Reservoir / Vector</th><th>Key Features</th><th>Treatment</th></tr>
         <tr><td><strong>Filoviridae</strong></td><td>Ebola, Marburg</td><td>Fruit bats → bodily fluids (human-to-human)</td><td>Severe hemorrhage, shock, DIC. Up to 90% mortality (Ebola). Filamentous on EM.</td><td>Supportive. Ebola: monoclonal Ab therapy (mAb114, REGN-EB3).</td></tr>
         <tr><td><strong>Flaviviridae</strong></td><td>Dengue</td><td><em>Aedes</em> mosquito</td><td><strong>"Break-bone fever"</strong> (severe myalgias), retro-orbital pain. Dengue hemorrhagic fever/shock on <strong>re-infection</strong> (antibody-dependent enhancement).</td><td>Supportive. Avoid aspirin/NSAIDs (bleeding risk).</td></tr>
-        <tr><td><strong>Flaviviridae</strong></td><td>Yellow Fever</td><td><em>Aedes</em> mosquito</td><td>High fever, jaundice ("yellow"), <strong>black vomitus</strong>. Councilman bodies on liver biopsy.</td><td>Supportive. <strong>Live attenuated vaccine</strong> available.</td></tr>
+        <tr><td><strong>Flaviviridae</strong></td><td>Yellow Fever</td><td><em>Aedes</em> mosquito</td><td>High fever, jaundice ("yellow"), <strong>black vomitus</strong>. <strong>Faget sign:</strong> fever + paradoxical bradycardia (classic clue). Councilman bodies on liver biopsy.</td><td>Supportive. <strong>Live attenuated vaccine</strong> available.</td></tr>
         <tr><td><strong>Arenaviridae</strong></td><td>Lassa</td><td>Multimammate rat (rodent urine/feces). West Africa.</td><td>80% mild; severe → hemorrhage, organ failure. Most common complication: <strong>deafness</strong> (⅓ of survivors).</td><td><strong>Ribavirin</strong> (only HF virus with specific antiviral).</td></tr>
         <tr><td><strong>Bunyaviridae</strong></td><td>Hantavirus</td><td>Deer mouse (rodent feces/urine aerosolized). <strong>Four Corners</strong> region (US Southwest).</td><td><strong>Hantavirus Pulmonary Syndrome (HPS):</strong> rapidly progressive pulmonary edema, respiratory failure. High mortality (38%). No person-to-person transmission.</td><td>Supportive (ECMO in severe cases). No specific antiviral.</td></tr>
         <tr><td><strong>Bunyaviridae</strong></td><td>Crimean-Congo HF (Nairovirus)</td><td><em>Hyalomma</em> tick; livestock</td><td>Hemorrhagic fever; common in Central Asia, Middle East, Africa.</td><td>Ribavirin. Supportive.</td></tr>
@@ -1170,7 +1387,7 @@ footer { text-align: left; padding: 40px 20px; font-family: 'Caveat', cursive; f
       <div class="tbl-wrap"><table>
         <tr><th>Category</th><th>Pathogen</th><th>Key Presentation</th><th>Diagnosis / Treatment</th></tr>
         <tr><td rowspan="3"><strong>Bacterial</strong></td><td><strong>S. aureus</strong></td><td>Impetigo (honey-crusted), folliculitis, furuncles/carbuncles, cellulitis, abscesses. <strong>SSSS</strong> (exfoliative toxin). Coagulase (+).</td><td>I&D for abscesses. TMP-SMX or Doxycycline (MRSA). Nafcillin/Oxacillin (MSSA).</td></tr>
-        <tr><td><strong>S. pyogenes (GAS)</strong></td><td><strong>Erysipelas</strong> (sharply demarcated, raised borders, "butterfly" face), cellulitis, necrotizing fasciitis, impetigo (bullous).</td><td>Penicillin. Surgical debridement for nec fasc.</td></tr>
+        <tr><td><strong>S. pyogenes (GAS)</strong></td><td><strong>Erysipelas</strong> (sharply demarcated, raised borders, "butterfly" face), cellulitis, necrotizing fasciitis, impetigo (bullous), scarlet fever (sandpaper rash + strawberry tongue, TSST-like).<br><strong>Post-strep sequelae rule:</strong> <strong>Rheumatic fever</strong> follows <em>pharyngitis only</em>; <strong>PSGN</strong> can follow either pharyngitis OR skin (impetigo). Antibiotics prevent RF but NOT PSGN.</td><td>Penicillin. Surgical debridement for nec fasc.</td></tr>
         <tr><td><strong>Pseudomonas</strong></td><td>Hot tub folliculitis, burn wound infections (blue-green pus, fruity/sweet odor), ecthyma gangrenosum, otitis externa ("swimmer's ear").</td><td>Anti-pseudomonal: Piperacillin-Tazobactam, Cefepime, Fluoroquinolones.</td></tr>
         <tr><td rowspan="2"><strong>Fungal</strong></td><td><strong>Dermatophytes</strong></td><td>Tinea corporis/pedis/capitis/cruris/unguium. Branching septate hyphae on KOH.</td><td>Topical azoles. Oral terbinafine/griseofulvin for nails/scalp.</td></tr>
         <tr><td><strong>Sporothrix schenckii</strong></td><td><strong>Sporotrichosis:</strong> "rose gardener's disease." Nodular lymphangitis — ascending nodules along lymphatic drainage from inoculation site.</td><td>Itraconazole. Severe: Amphotericin B.</td></tr>
@@ -1221,6 +1438,19 @@ footer { text-align: left; padding: 40px 20px; font-family: 'Caveat', cursive; f
         <li><strong>Rash spread patterns:</strong> Centrifugal (trunk→extremities, e.g. roseola); Centripetal (extremities→trunk); Cephalocaudal (head→feet, e.g. measles, rubella)</li>
       </ul>
       <div class="alert"><strong>Roseola vs Measles:</strong> Roseola = rash AFTER fever breaks (child well). Measles = rash DURING high fever with prodrome (child sick).</div>
+    </div>
+    <div class="card full">
+      <h3>Herpes Zoster (Shingles) &amp; HSV Variants</h3>
+      <ul>
+        <li><strong>Herpes Zoster (Shingles):</strong> reactivation of VZV from dorsal root ganglion. Painful vesicular rash in <strong>single dermatome</strong>; does NOT cross midline. ~40% of patients &gt;60 develop <strong>postherpetic neuralgia</strong>. Vaccine: <strong>Shingrix</strong> (recombinant, age ≥50).</li>
+        <li><strong>Herpes Zoster Ophthalmicus (V1):</strong> dermatomal vesicles in trigeminal V1 distribution. <strong>Hutchinson sign</strong> = vesicles on tip of nose → nasociliary nerve involvement → high risk of corneal involvement and vision loss. Urgent ophthalmology + acyclovir.</li>
+        <li><strong>Ramsay Hunt Syndrome (zoster oticus):</strong> reactivation in geniculate ganglion → <strong>ipsilateral facial paralysis + ear pain + vesicles in ear canal/auricle</strong> ± hearing loss/vertigo. CN VII/VIII. Tx: acyclovir + steroids. (Bell's palsy mimic.)</li>
+        <li><strong>Eczema Herpeticum:</strong> disseminated HSV in eczema patients. Painful punched-out monomorphic erosions. Dermatologic emergency — acyclovir IV.</li>
+        <li><strong>Herpetic Whitlow:</strong> HSV on a finger (occupational hazard for dentists, healthcare workers).</li>
+        <li><strong>Herpetic Gladiatorum:</strong> HSV outbreaks in wrestlers/contact athletes (skin-to-skin).</li>
+        <li><strong>Forschheimer spots:</strong> petechiae on the soft palate in <strong>rubella</strong> — the rubella enanthem (parallel to Koplik spots in measles).</li>
+        <li><strong>Reye Syndrome:</strong> aspirin + viral illness (varicella, influenza) → encephalopathy + microvesicular hepatic steatosis. <strong>Don't give ASA to kids with viral illness.</strong></li>
+      </ul>
     </div>
   </div>
 
@@ -1395,8 +1625,33 @@ footer { text-align: left; padding: 40px 20px; font-family: 'Caveat', cursive; f
         <tr><td><strong>Tinea Versicolor</strong></td><td>Hypo/hyperpigmented macules on trunk; worse in <strong>hot, moist</strong> environments (summer).</td><td>KOH: <strong>"spaghetti &amp; meatballs"</strong> (hyphae + spores). Tx: antifungals + selenium sulfide.</td></tr>
         <tr><td><strong>Tinea Corporis</strong></td><td>Annular erythematous scaly plaque with central clearing ("ringworm").</td><td>KOH: <strong>branching hyphae</strong>. Tx: topical antifungals.</td></tr>
       </table></div>
-      <div class="memo"><strong>Workup for papulosquamous rash:</strong> KOH prep (tinea vs tinea versicolor) → VDRL (secondary syphilis) → ASO titer (strep → guttate psoriasis vs PR). Always rule out secondary syphilis — it's "the great mimicker."</div>
+      <div class="memo"><strong>Workup for papulosquamous rash:</strong> KOH prep (tinea vs tinea versicolor) → VDRL (secondary syphilis) → ASO titer (strep → guttate psoriasis vs PR). Always rule out secondary syphilis — it's "the great mimicker." Secondary syphilis classic: <strong>copper-colored macules on palms/soles + condyloma lata + mucous patches</strong>.</div>
       <div class="alert"><strong>Seb derm vs SLE:</strong> Seb derm = nasolabial folds INVOLVED. SLE butterfly rash = nasolabial folds SPARED. Both can have facial erythema!</div>
+    </div>
+    <div class="card full">
+      <h3>Stasis Dermatitis &amp; Pityriasis Rubra Pilaris (Lec 186)</h3>
+      <div class="vs">
+        <div class="vs-col">
+          <div class="vs-head">Stasis Dermatitis</div>
+          <ul>
+            <li>Chronic <strong>venous insufficiency</strong> → ↑ hydrostatic pressure → fluid + RBC extravasation</li>
+            <li><strong>Brown discoloration</strong> (hemosiderin), <strong>medial ankle</strong> location, pitting edema, scaling/crusting plaques</li>
+            <li>Can ulcerate at <strong>medial malleolus</strong> (vs arterial ulcers = lateral, painful)</li>
+            <li><strong>Often misdiagnosed as bilateral cellulitis</strong> — distinguishes by being <em>chronic + bilateral + no fever/leukocytosis</em></li>
+            <li>Tx: leg elevation, compression stockings, topical steroids; treat venous insufficiency</li>
+          </ul>
+        </div>
+        <div class="vs-col">
+          <div class="vs-head">Pityriasis Rubra Pilaris (PRP)</div>
+          <ul>
+            <li>Salmon-orange erythematous scaly plaques + follicular hyperkeratosis</li>
+            <li><strong>"Islands of sparing"</strong> = unaffected skin within affected areas (pathognomonic clue)</li>
+            <li><strong>Salmon-orange palmoplantar keratoderma</strong></li>
+            <li>Cephalocaudal progression; can become erythrodermic</li>
+            <li>Tx: retinoids, methotrexate, biologics</li>
+          </ul>
+        </div>
+      </div>
     </div>
 
     <div class="card full">
@@ -1460,6 +1715,63 @@ footer { text-align: left; padding: 40px 20px; font-family: 'Caveat', cursive; f
       </ul>
       <div class="memo"><strong>SSSS vs TEN:</strong> SSSS = superficial (intra-epidermal), NO mucous membrane involvement, caused by S. aureus toxin, better prognosis. TEN = full-thickness (subepidermal), mucous membranes INVOLVED, drug-induced, high mortality.</div>
     </div>
+    <div class="card full">
+      <h3>Angioedema &amp; Drug Eruption Pearls</h3>
+      <div class="vs">
+        <div class="vs-col">
+          <div class="vs-head">Hereditary Angioedema (HAE)</div>
+          <ul>
+            <li><strong>C1-esterase inhibitor deficiency</strong> → unopposed <strong>bradykinin</strong></li>
+            <li>Recurrent non-pruritic facial / laryngeal / bowel-wall swelling (abdominal pain mimicking acute abdomen)</li>
+            <li><strong>NO urticaria</strong>; <strong>NO response to epi/antihistamines/steroids</strong></li>
+            <li>Tx: <strong>C1-INH concentrate, ecallantide (kallikrein inhibitor), icatibant (B2 receptor antagonist)</strong></li>
+            <li>ACE-inhibitor angioedema = same bradykinin mechanism</li>
+          </ul>
+        </div>
+        <div class="vs-col">
+          <div class="vs-head">DRESS Syndrome</div>
+          <ul>
+            <li><strong>D</strong>rug <strong>R</strong>eaction with <strong>E</strong>osinophilia &amp; <strong>S</strong>ystemic <strong>S</strong>ymptoms</li>
+            <li>Onset <strong>2–8 weeks</strong> after starting drug (longer latency than SJS)</li>
+            <li><strong>Eosinophilia + atypical lymphocytes + HHV-6 reactivation</strong> (key features)</li>
+            <li>Hepatitis, nephritis, pneumonitis, myocarditis</li>
+            <li>Triggers: <strong>anticonvulsants</strong> (lamotrigine, carbamazepine, phenytoin), <strong>allopurinol</strong>, dapsone, sulfa</li>
+            <li>Tx: stop drug, systemic steroids</li>
+          </ul>
+        </div>
+      </div>
+      <ul>
+        <li><strong>Fixed Drug Eruption:</strong> well-demarcated round/oval erythematous plaque that <strong>recurs at the same site</strong> with each drug exposure. Heals with hyperpigmentation. Triggers: <strong>sulfa, NSAIDs, tetracyclines, barbiturates</strong>.</li>
+        <li><strong>Morbilliform drug eruption:</strong> most common drug rash. Symmetric maculopapular eruption 4–14 days after starting drug. Usually self-limited.</li>
+        <li><strong>Necrotizing Fasciitis details:</strong> "<strong>dishwater pus</strong>," crepitus, pain out of proportion to exam. <strong>LRINEC score</strong> guides risk stratification. Surgical debridement is the definitive treatment — antibiotics alone are not enough.</li>
+      </ul>
+    </div>
+    <div class="card full">
+      <h3>Vitiligo &amp; Wood's Lamp Findings</h3>
+      <div class="vs">
+        <div class="vs-col">
+          <div class="vs-head">Vitiligo</div>
+          <ul>
+            <li><strong>Autoimmune destruction of melanocytes</strong> → well-demarcated depigmented (chalk-white) macules</li>
+            <li>Symmetric distribution (face, hands, body folds, periorificial)</li>
+            <li>Associated with other autoimmune disease: <strong>Hashimoto's, T1DM, pernicious anemia, Addison's, alopecia areata</strong></li>
+            <li><strong>Wood's lamp</strong> accentuates depigmentation (sharp glow)</li>
+            <li>Tx: topical steroids/calcineurin inhibitors, narrow-band UVB, JAK inhibitors (ruxolitinib)</li>
+          </ul>
+        </div>
+        <div class="vs-col">
+          <div class="vs-head">Wood's Lamp Findings</div>
+          <ul>
+            <li><strong>Tinea versicolor:</strong> yellow-gold fluorescence</li>
+            <li><strong>Erythrasma</strong> (Corynebacterium): <strong>coral-red</strong> fluorescence</li>
+            <li><strong>Pseudomonas</strong> wound infection: green</li>
+            <li><strong>Vitiligo:</strong> bright accentuation of depigmentation</li>
+            <li><strong>Porphyria cutanea tarda:</strong> coral-red urine fluorescence</li>
+            <li><strong>Tinea capitis</strong> (Microsporum): blue-green (rare; most US cases are Trichophyton — non-fluorescent)</li>
+          </ul>
+        </div>
+      </div>
+    </div>
   </div>
 </div>
 
@@ -1494,6 +1806,39 @@ footer { text-align: left; padding: 40px 20px; font-family: 'Caveat', cursive; f
         <li><strong>STI History:</strong> non-judgmental, ask about partners, protection (barrier use), prior STI testing/diagnoses</li>
       </ul>
       <div class="memo"><strong>GTPAL Example:</strong> G3P1011 = 3 pregnancies, 1 term delivery, 0 preterm, 1 abortion, 1 living child.</div>
+    </div>
+    <div class="card full">
+      <h3>Current Pregnancy &amp; Postpartum Visit</h3>
+      <div class="vs">
+        <div class="vs-col">
+          <div class="vs-head">Symptoms in Current Pregnancy</div>
+          <ul>
+            <li>Vaginal bleeding (any = workup)</li>
+            <li>N/V (severity, hyperemesis gravidarum)</li>
+            <li>Breast fullness/tenderness</li>
+            <li>Fatigue, urinary frequency</li>
+            <li>Vaginal discharge (color, odor — rule out chorioamnionitis)</li>
+            <li>Fetal movement (after ~20 wks)</li>
+            <li>Contractions, leakage of fluid (PROM)</li>
+          </ul>
+        </div>
+        <div class="vs-col">
+          <div class="vs-head">Postpartum Visit Components</div>
+          <ul>
+            <li><strong>Lochia</strong> (color/duration), abdominal pain, fever (endometritis)</li>
+            <li><strong>Mastitis</strong> screen (red, painful, warm breast + fever)</li>
+            <li>Breast vs bottle feeding problems</li>
+            <li><strong>Edinburgh Postnatal Depression Scale (EPDS)</strong> — postpartum depression screening; ≥10 concerning</li>
+            <li>Social support, partner involvement</li>
+            <li>Contraception/family planning</li>
+            <li>Bonding with infant; self-harm or harm-to-infant ideation</li>
+          </ul>
+        </div>
+      </div>
+      <ul>
+        <li><strong>Sexual history breadth:</strong> ask about oral/vaginal/anal contact, sexual orientation, partner gender preference, current vs lifetime partners, problems with arousal/orgasm, IPV screening</li>
+        <li><strong>Thyroid ROS as part of gyn intake:</strong> weight changes, fatigue, hair loss, hot/cold intolerance, palpitations, neck mass — thyroid disease commonly drives menstrual abnormalities and postpartum depression</li>
+      </ul>
     </div>
   </div>
 
@@ -1537,6 +1882,38 @@ footer { text-align: left; padding: 40px 20px; font-family: 'Caveat', cursive; f
       </ul>
       <div class="alert"><strong>Always assess for safety:</strong> every behavioral health encounter must include screening for suicidal ideation, homicidal ideation, and access to lethal means.</div>
     </div>
+    <div class="card full">
+      <h3>Organic Mimics &amp; Workup for Behavioral Symptoms</h3>
+      <ul>
+        <li>Always rule out medical/organic causes before attributing symptoms to a primary psychiatric diagnosis. Standard workup:
+          <ul>
+            <li><strong>EKG</strong> (arrhythmia → anxiety/palpitations; baseline before QT-prolonging psych meds)</li>
+            <li><strong>CBC</strong> (B12 deficiency → depression/cognitive change; anemia → fatigue)</li>
+            <li><strong>CMP</strong> (electrolytes, liver, renal — hyponatremia → AMS; uremia → confusion)</li>
+            <li><strong>TSH</strong> (hypothyroid → depression; hyperthyroid → anxiety)</li>
+            <li><strong>Lipid panel</strong> (baseline before atypical antipsychotics)</li>
+            <li><strong>UA</strong> (UTI → AMS in geriatrics — classic vignette)</li>
+          </ul>
+        </li>
+        <li><strong>Classic mimic pairs:</strong> hypothyroidism → depression; arrhythmia/pheochromocytoma → anxiety; UTI → delirium in elderly; B12 deficiency → cognitive impairment + neuropsych</li>
+      </ul>
+    </div>
+    <div class="card">
+      <h3>Additional Screening &amp; Suicide Drill-Down</h3>
+      <ul>
+        <li><strong>PHQ-2 / GAD-2:</strong> ultra-brief 2-question pre-screens (positive → administer full PHQ-9 / GAD-7)</li>
+        <li><strong>Suicide-attempt drill-down:</strong> method used, how was patient discovered, feelings when help arrived, current SI/plan/intent/access to means</li>
+        <li><strong>Self-harm beyond SI:</strong> skin-picking, hair-pulling (BFRBs), cutting, burning, substance abuse — all warrant assessment</li>
+      </ul>
+    </div>
+    <div class="card">
+      <h3>Osteopathic Approach to the Behavioral Patient</h3>
+      <ul>
+        <li><strong>Suboccipital release:</strong> ↓ sympathetic tone via vagal modulation — useful for anxiety, tension headache</li>
+        <li><strong>Rib raising:</strong> normalizes sympathetic tone (T1–T12) — useful for anxiety, pain, GI/respiratory symptoms tied to stress</li>
+        <li>Both are gentle, low-risk indirect techniques compatible with most psychiatric patients</li>
+      </ul>
+    </div>
   </div>
 
 <div class="sub">📋 Lec 179 — History &amp; Physical Exam of the Integumentary System</div>
@@ -1549,8 +1926,8 @@ footer { text-align: left; padding: 40px 20px; font-family: 'Caveat', cursive; f
         <tr><td><strong>Patch</strong></td><td>&gt;1 cm</td><td>Flat, non-palpable (large macule)</td><td>Café-au-lait spot, tinea versicolor</td></tr>
         <tr><td><strong>Papule</strong></td><td>&lt;1 cm</td><td>Solid, <strong>elevated</strong></td><td>Acne, wart, lichen planus</td></tr>
         <tr><td><strong>Plaque</strong></td><td>&gt;1 cm</td><td>Elevated, flat-topped (large papule or coalescence of papules)</td><td>Psoriasis, eczema</td></tr>
-        <tr><td><strong>Nodule</strong></td><td>1–2 cm</td><td>Solid, palpable, <strong>deeper</strong> in dermis/subcutis</td><td>Lipoma, erythema nodosum</td></tr>
-        <tr><td><strong>Tumor</strong></td><td>&gt;2 cm</td><td>Large nodule</td><td>Large lipoma, malignancy</td></tr>
+        <tr><td><strong>Nodule</strong></td><td>1–5 cm</td><td>Solid, palpable, <strong>deeper</strong> in dermis/subcutis</td><td>Lipoma, erythema nodosum</td></tr>
+        <tr><td><strong>Tumor</strong></td><td>&gt;5 cm</td><td>Large nodule</td><td>Large lipoma, malignancy</td></tr>
         <tr><td><strong>Vesicle</strong></td><td>&lt;1 cm</td><td>Fluid-filled (<strong>clear</strong>)</td><td>HSV, varicella, contact dermatitis</td></tr>
         <tr><td><strong>Bulla</strong></td><td>&gt;1 cm</td><td>Large vesicle</td><td>Bullous pemphigoid, burns</td></tr>
         <tr><td><strong>Pustule</strong></td><td>varies</td><td>Fluid-filled (<strong>pus</strong>)</td><td>Acne, folliculitis, impetigo</td></tr>
@@ -1562,12 +1939,34 @@ footer { text-align: left; padding: 40px 20px; font-family: 'Caveat', cursive; f
       <ul>
         <li><strong>Scale:</strong> flaking dead epidermis (psoriasis, dermatitis)</li>
         <li><strong>Crust:</strong> dried serum, blood, or pus on surface (impetigo = honey-colored crust)</li>
+        <li><strong>Eschar:</strong> thick black/brown crust indicating necrosis (anthrax, burns, pressure ulcer)</li>
         <li><strong>Erosion:</strong> superficial loss of epidermis (heals WITHOUT scarring)</li>
         <li><strong>Ulcer:</strong> full-thickness loss through epidermis into dermis (heals WITH scarring)</li>
         <li><strong>Fissure:</strong> linear crack in skin (athlete's foot, anal fissure)</li>
         <li><strong>Excoriation:</strong> scratch mark — linear erosion from patient scratching</li>
         <li><strong>Lichenification:</strong> thickened, leathery skin from chronic rubbing (atopic dermatitis)</li>
         <li><strong>Atrophy:</strong> thinning of skin (topical steroid overuse)</li>
+        <li><strong>Scar / Hypertrophic scar / Keloid:</strong> fibrous replacement after injury. Keloid extends <em>beyond</em> wound borders (more common in darker skin).</li>
+        <li><strong>Xerosis:</strong> abnormally dry skin</li>
+      </ul>
+    </div>
+    <div class="card">
+      <h3>Shape, Configuration &amp; Distribution Vocabulary</h3>
+      <ul>
+        <li><strong>Shape (individual lesion):</strong> annular (ring), discoid/nummular (coin), <strong>targetoid</strong> (concentric rings — EM), arcuate (arc), stellate, linear, oval/ovoid</li>
+        <li><strong>Configuration (multiple lesions):</strong> grouped/clustered (HSV), <strong>reticulate</strong> (lacy, livedo), <strong>serpiginous</strong> (snake-like, larva migrans), confluent, discrete, geometric (contact dermatitis)</li>
+        <li><strong>Pattern terms:</strong> guttate (drop-like), follicular, dermatomal, blaschkoid (along Blaschko's lines)</li>
+        <li><strong>Distribution categories:</strong> sun-exposed, extensor, flexural, intertriginous, <strong>acral</strong> (distal extremities), web-space (scabies), mucosal, dermatomal</li>
+      </ul>
+    </div>
+    <div class="card">
+      <h3>Hair, Nail &amp; Melanoma Exam</h3>
+      <ul>
+        <li><strong>Alopecia:</strong> cicatricial (scarring — follicles destroyed; no orifices) vs non-cicatricial (orifices preserved). <strong>Hair pull test:</strong> grasp ~50 hairs, gently pull — &gt;6 extracted = active loss.</li>
+        <li><strong>Exclamation point hairs:</strong> alopecia areata (hairs taper at base)</li>
+        <li><strong>Hirsutism vs Hypertrichosis:</strong> hirsutism = androgen-pattern hair in females (PCOS, CAH); hypertrichosis = excess hair in non-androgenic distribution</li>
+        <li><strong>Nail terminology:</strong> <strong>pitting</strong> (psoriasis, alopecia areata), <strong>onycholysis</strong> (separation from nail bed — psoriasis, hyperthyroid), <strong>leukonychia</strong> (white discoloration), onychorrhexis (longitudinal ridging), trachyonychia (rough)</li>
+        <li><strong>Melanoma HARMM mnemonic</strong> (in addition to ABCDE): <strong>H</strong>istory of prior melanoma, <strong>A</strong>ge &gt;50, <strong>R</strong>egular dermatologist absent, <strong>M</strong>ole changing, <strong>M</strong>ale gender</li>
       </ul>
     </div>
     <div class="card">
@@ -1718,11 +2117,18 @@ footer { text-align: left; padding: 40px 20px; font-family: 'Caveat', cursive; f
 
 <!-- ═══ JAVASCRIPT ═══ -->
 <script>
-function go(id) {
+function go(id, btn) {
   document.querySelectorAll('.panel').forEach(p => p.classList.remove('active'));
   document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active'));
-  document.getElementById('panel-' + id).classList.add('active');
-  event.target.classList.add('active');
+  var panel = document.getElementById('panel-' + id);
+  if (panel) panel.classList.add('active');
+  // Prefer the button passed in (Safari/iPad-safe). Fall back to matching by onclick if needed.
+  if (btn && btn.classList) {
+    btn.classList.add('active');
+  } else {
+    var match = document.querySelector('.nav-btn[onclick*="\'' + id + '\'"]');
+    if (match) match.classList.add('active');
+  }
   window.scrollTo({top: 0, behavior: 'smooth'});
 }
 </script>
