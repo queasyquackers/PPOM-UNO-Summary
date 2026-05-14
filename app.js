@@ -128,6 +128,7 @@ document.addEventListener("DOMContentLoaded", async function () {
   // Load Progress
   loadProgress();
   loadLectureTabMemory();
+  loadHighlights();
 
   // Load Lecture Index
   await loadLectureIndex();
@@ -139,6 +140,7 @@ document.addEventListener("DOMContentLoaded", async function () {
   setupWelcomeAnimation();
   setupLightbox();
   setupPearlbookModal();
+  setupHighlightToolbar();
 });
 
 let lightboxState = {
@@ -1248,6 +1250,7 @@ async function selectLecture(id) {
 
   updateCompleteButton(); // Update checkbox state
   updatePrevNextButtons();
+  updateHighlightCountBadge();
 
 
   // Update URL state
@@ -1576,6 +1579,10 @@ function renderTabContent() {
 
       // End-of-summary editorial mark + Next lecture pointer
       appendEndOfSummary(contentDiv);
+
+      // Restore user highlights last so they survive everything above
+      try { restoreHighlights(); } catch (e) { console.warn("Highlight restore error:", e); }
+      updateHighlightCountBadge();
     } else if (activeTab === "questions") {
       const questions = selectedLecture.questions;
 
@@ -3627,5 +3634,318 @@ function highlightSearchTerms() {
         mark.scrollIntoView({ behavior: 'smooth', block: 'center' });
       }
     }, 100);
+  }
+}
+
+// ============================================================
+// User highlights on summary text
+// ============================================================
+// Storage: localStorage 'onepass_highlights' -> { [lectureId]: [{ id, text, before, after }] }
+// before/after are short context strings used to relocate the highlight
+// after a re-render (or after a summary edit) without needing DOM paths.
+
+const HIGHLIGHTS_KEY = 'onepass_highlights';
+const HIGHLIGHT_CONTEXT_LEN = 30;
+let highlightsByLecture = {};
+let pendingHighlightAction = null; // 'add' or { removeId }
+
+function loadHighlights() {
+  try {
+    const raw = localStorage.getItem(HIGHLIGHTS_KEY);
+    highlightsByLecture = raw ? (JSON.parse(raw) || {}) : {};
+  } catch (_) { highlightsByLecture = {}; }
+}
+
+function saveHighlights() {
+  try { localStorage.setItem(HIGHLIGHTS_KEY, JSON.stringify(highlightsByLecture)); } catch (_) {}
+}
+
+function getCurrentHighlights() {
+  if (!selectedLecture) return [];
+  return highlightsByLecture[selectedLecture.id] || [];
+}
+
+function setCurrentHighlights(list) {
+  if (!selectedLecture) return;
+  if (!list || list.length === 0) {
+    delete highlightsByLecture[selectedLecture.id];
+  } else {
+    highlightsByLecture[selectedLecture.id] = list;
+  }
+  saveHighlights();
+}
+
+function genHighlightId() {
+  return 'h' + Date.now().toString(36) + Math.random().toString(36).slice(2, 7);
+}
+
+// Flatten the prose subtree into a string + ordered map of text-node spans,
+// so character offsets in the flat string can be translated to a Range.
+function buildTextIndex(root) {
+  const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT, null, false);
+  const entries = [];
+  let pos = 0, n;
+  while (n = walker.nextNode()) {
+    const len = n.nodeValue.length;
+    entries.push({ node: n, start: pos, end: pos + len });
+    pos += len;
+  }
+  return { entries, text: entries.map(e => e.node.nodeValue).join('') };
+}
+
+function offsetToPoint(entries, offset) {
+  for (let i = 0; i < entries.length; i++) {
+    const e = entries[i];
+    if (offset >= e.start && offset <= e.end) {
+      return { node: e.node, offset: offset - e.start };
+    }
+  }
+  if (entries.length) {
+    const last = entries[entries.length - 1];
+    return { node: last.node, offset: last.node.nodeValue.length };
+  }
+  return null;
+}
+
+// Wrap every text-node portion that intersects the range in a <mark>
+// carrying the given hlId. Works across inline formatting tags.
+function wrapRangeInMark(range, hlId) {
+  const rootNode = range.commonAncestorContainer.nodeType === 1
+    ? range.commonAncestorContainer
+    : range.commonAncestorContainer.parentNode;
+
+  const walker = document.createTreeWalker(rootNode, NodeFilter.SHOW_TEXT, null, false);
+  const nodes = [];
+  let n;
+  while (n = walker.nextNode()) {
+    if (range.intersectsNode(n)) nodes.push(n);
+  }
+
+  for (const node of nodes) {
+    let start = 0, end = node.nodeValue.length;
+    if (node === range.startContainer) start = range.startOffset;
+    if (node === range.endContainer) end = range.endOffset;
+    if (start >= end) continue;
+
+    // Don't nest highlights — skip text already inside a user-highlight mark
+    const parent = node.parentNode;
+    if (parent && parent.classList && parent.classList.contains('user-highlight')) continue;
+
+    const text = node.nodeValue;
+    const mark = document.createElement('mark');
+    mark.className = 'user-highlight';
+    mark.dataset.hlId = hlId;
+    mark.textContent = text.substring(start, end);
+
+    const frag = document.createDocumentFragment();
+    if (start > 0) frag.appendChild(document.createTextNode(text.substring(0, start)));
+    frag.appendChild(mark);
+    if (end < text.length) frag.appendChild(document.createTextNode(text.substring(end)));
+    parent.replaceChild(frag, node);
+  }
+}
+
+function restoreHighlights() {
+  if (!selectedLecture || activeTab !== 'summary') return;
+  const contentDiv = document.getElementById('tabContent');
+  if (!contentDiv) return;
+  const list = getCurrentHighlights();
+  if (!list.length) return;
+
+  for (const hl of list) {
+    // Rebuild the text index between iterations because each wrap mutates the DOM
+    const { entries, text } = buildTextIndex(contentDiv);
+    if (!text) return;
+
+    const needle = (hl.before || '') + hl.text + (hl.after || '');
+    let startIdx = needle ? text.indexOf(needle) : -1;
+    if (startIdx >= 0) {
+      startIdx += (hl.before || '').length;
+    } else {
+      startIdx = text.indexOf(hl.text);
+      if (startIdx < 0) continue;
+    }
+    const endIdx = startIdx + hl.text.length;
+
+    const startPoint = offsetToPoint(entries, startIdx);
+    const endPoint = offsetToPoint(entries, endIdx);
+    if (!startPoint || !endPoint) continue;
+
+    const range = document.createRange();
+    try {
+      range.setStart(startPoint.node, startPoint.offset);
+      range.setEnd(endPoint.node, endPoint.offset);
+      wrapRangeInMark(range, hl.id);
+    } catch (_) { /* skip on error */ }
+  }
+}
+
+function captureContext(range, root) {
+  const { entries, text } = buildTextIndex(root);
+  if (!text) return { before: '', after: '' };
+
+  let startIdx = -1, endIdx = -1;
+  for (const e of entries) {
+    if (e.node === range.startContainer) startIdx = e.start + range.startOffset;
+    if (e.node === range.endContainer) endIdx = e.start + range.endOffset;
+  }
+  if (startIdx < 0 || endIdx < 0) return { before: '', after: '' };
+
+  const before = text.substring(Math.max(0, startIdx - HIGHLIGHT_CONTEXT_LEN), startIdx);
+  const after = text.substring(endIdx, Math.min(text.length, endIdx + HIGHLIGHT_CONTEXT_LEN));
+  return { before, after };
+}
+
+function addHighlightFromSelection() {
+  const sel = window.getSelection();
+  if (!sel || sel.isCollapsed || sel.rangeCount === 0) return;
+  const range = sel.getRangeAt(0);
+  const contentDiv = document.getElementById('tabContent');
+  if (!contentDiv || !contentDiv.contains(range.commonAncestorContainer)) return;
+
+  // range.toString() is more reliable than sel.toString() across browsers/iframes
+  const text = range.toString().trim();
+  if (!text) return;
+
+  const { before, after } = captureContext(range, contentDiv);
+  const id = genHighlightId();
+
+  wrapRangeInMark(range, id);
+  sel.removeAllRanges();
+
+  const list = getCurrentHighlights().slice();
+  list.push({ id, text, before, after });
+  setCurrentHighlights(list);
+  updateHighlightCountBadge();
+}
+
+function removeHighlightById(hlId) {
+  const contentDiv = document.getElementById('tabContent');
+  if (contentDiv) {
+    contentDiv.querySelectorAll(`mark.user-highlight[data-hl-id="${hlId}"]`).forEach(m => {
+      const parent = m.parentNode;
+      while (m.firstChild) parent.insertBefore(m.firstChild, m);
+      parent.removeChild(m);
+      if (parent.normalize) parent.normalize();
+    });
+  }
+  setCurrentHighlights(getCurrentHighlights().filter(h => h.id !== hlId));
+  updateHighlightCountBadge();
+}
+
+function updateHighlightCountBadge() {
+  const badge = document.getElementById('summaryHighlightCount');
+  if (!badge) return;
+  const count = selectedLecture ? getCurrentHighlights().length : 0;
+  if (count > 0) {
+    badge.textContent = String(count);
+    badge.style.display = '';
+  } else {
+    badge.style.display = 'none';
+  }
+}
+
+function positionHighlightToolbar(x, y) {
+  const tb = document.getElementById('highlightToolbar');
+  if (!tb) return;
+  tb.style.left = x + 'px';
+  tb.style.top = y + 'px';
+}
+
+function showAddHighlightToolbar(rect) {
+  const tb = document.getElementById('highlightToolbar');
+  if (!tb) return;
+  const label = document.getElementById('highlightToolbarLabel');
+  if (label) label.textContent = 'Highlight';
+  pendingHighlightAction = 'add';
+  const x = rect.left + window.scrollX + rect.width / 2;
+  const y = rect.top + window.scrollY;
+  positionHighlightToolbar(x, y);
+  tb.classList.add('visible');
+}
+
+function showRemoveHighlightToolbar(markEl) {
+  const tb = document.getElementById('highlightToolbar');
+  if (!tb) return;
+  const label = document.getElementById('highlightToolbarLabel');
+  if (label) label.textContent = 'Remove';
+  pendingHighlightAction = { removeId: markEl.dataset.hlId };
+  const rect = markEl.getBoundingClientRect();
+  const x = rect.left + window.scrollX + rect.width / 2;
+  const y = rect.top + window.scrollY;
+  positionHighlightToolbar(x, y);
+  tb.classList.add('visible');
+}
+
+function hideHighlightToolbar() {
+  const tb = document.getElementById('highlightToolbar');
+  if (!tb) return;
+  tb.classList.remove('visible');
+  pendingHighlightAction = null;
+}
+
+let highlightToolbarRafId = null;
+function refreshHighlightToolbarFromSelection() {
+  if (activeTab !== 'summary') { hideHighlightToolbar(); return; }
+  const sel = window.getSelection();
+  if (!sel || sel.isCollapsed || sel.rangeCount === 0) {
+    // Don't hide here if we're showing a Remove toolbar — that's driven by click, not selection
+    if (pendingHighlightAction !== 'add' && pendingHighlightAction) return;
+    hideHighlightToolbar();
+    return;
+  }
+
+  const range = sel.getRangeAt(0);
+  const contentDiv = document.getElementById('tabContent');
+  if (!contentDiv || !contentDiv.contains(range.commonAncestorContainer)) {
+    hideHighlightToolbar(); return;
+  }
+  const text = range.toString().trim();
+  if (!text) { hideHighlightToolbar(); return; }
+
+  const rect = range.getBoundingClientRect();
+  if (rect.width === 0 && rect.height === 0) { hideHighlightToolbar(); return; }
+  showAddHighlightToolbar(rect);
+}
+
+function setupHighlightToolbar() {
+  const tb = document.getElementById('highlightToolbar');
+  if (!tb) return;
+
+  // pointerdown (not click) so the wrap happens before the selection collapses
+  tb.addEventListener('pointerdown', (e) => {
+    e.preventDefault();
+    e.stopPropagation();
+    if (pendingHighlightAction === 'add') {
+      addHighlightFromSelection();
+    } else if (pendingHighlightAction && pendingHighlightAction.removeId) {
+      removeHighlightById(pendingHighlightAction.removeId);
+    }
+    hideHighlightToolbar();
+  });
+
+  document.addEventListener('selectionchange', () => {
+    if (highlightToolbarRafId) cancelAnimationFrame(highlightToolbarRafId);
+    highlightToolbarRafId = requestAnimationFrame(refreshHighlightToolbarFromSelection);
+  });
+
+  document.addEventListener('click', (e) => {
+    if (activeTab !== 'summary') return;
+    if (e.target.closest && e.target.closest('#highlightToolbar')) return;
+
+    const mark = e.target.closest && e.target.closest('mark.user-highlight');
+    if (mark) {
+      const sel = window.getSelection();
+      if (sel && !sel.isCollapsed && sel.toString().trim()) return;
+      showRemoveHighlightToolbar(mark);
+      return;
+    }
+    const sel = window.getSelection();
+    if (!sel || sel.isCollapsed) hideHighlightToolbar();
+  });
+
+  const scrollContainer = document.getElementById('contentScroll');
+  if (scrollContainer) {
+    scrollContainer.addEventListener('scroll', hideHighlightToolbar, { passive: true });
   }
 }
