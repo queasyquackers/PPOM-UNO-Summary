@@ -1171,6 +1171,85 @@ function goToAdjacentLecture(direction) {
   selectLecture(ids[nextIdx]);
 }
 
+// Render the "Also covered in…" cross-reference panel under the summary.
+// Reads window.CONCEPT_INDEX (built by scripts/build_concept_index.js) and
+// shows every concept this lecture shares with at least one other lecture.
+// Each concept's cross-refs are capped at 6 visible, with a "show all"
+// expander for runaway hits like NSAIDs or Dopamine.
+function renderConceptCrossrefs(contentDiv, lectureId) {
+  if (!contentDiv || !lectureId) return;
+  const idx = window.CONCEPT_INDEX;
+  if (!idx || !idx.byLecture || !idx.concepts) return;
+
+  const conceptKeys = idx.byLecture[lectureId] || [];
+  if (conceptKeys.length === 0) return;
+
+  // Build {concept, otherLectures} entries, drop any concept that only lives in this lecture.
+  const entries = conceptKeys
+    .map(key => {
+      const c = idx.concepts[key];
+      if (!c) return null;
+      const others = c.lectures.filter(id => id !== lectureId);
+      return others.length > 0 ? { key, label: c.label, others } : null;
+    })
+    .filter(Boolean)
+    .sort((a, b) => a.label.localeCompare(b.label));
+
+  if (entries.length === 0) return;
+
+  const block = getBlockInfo(lectureId);
+  const blockColor = isDark ? (block?.darkColor || "#E8956D") : (block?.color || "#D97757");
+
+  const VISIBLE = 6;
+  const titleById = new Map(lectures.map(l => [l.id, l.title]));
+
+  const renderLectureLink = (id) => {
+    const title = titleById.get(id) || id;
+    const safeTitle = title.replace(/"/g, "&quot;");
+    return `<button onclick="selectLecture('${id}')" title="${safeTitle}" class="concept-xref-lec font-mono text-[11px] tracking-wider hover:underline decoration-1 underline-offset-2" style="color: ${blockColor}">${(id || "").toUpperCase()}</button>`;
+  };
+
+  const items = entries.map(({ key, label, others }) => {
+    const visible = others.slice(0, VISIBLE).map(renderLectureLink).join(", ");
+    const hiddenCount = others.length - VISIBLE;
+    const expander = hiddenCount > 0
+      ? ` <button class="concept-xref-more text-[10px] font-sans uppercase tracking-[0.15em] text-claude-muted dark:text-dark-muted hover:text-claude-text dark:hover:text-dark-text" data-key="${key}">+${hiddenCount} more</button>`
+      : "";
+    const hiddenLinks = hiddenCount > 0
+      ? `<span class="concept-xref-hidden hidden" data-key="${key}">, ${others.slice(VISIBLE).map(renderLectureLink).join(", ")}</span>`
+      : "";
+    return `
+      <div class="concept-xref-item flex flex-wrap items-baseline gap-x-2 gap-y-1 py-1.5">
+        <span class="font-display font-semibold text-[15px] text-claude-text dark:text-dark-text shrink-0">${label}</span>
+        <span class="text-claude-muted dark:text-dark-muted text-[10px] font-sans uppercase tracking-[0.2em] shrink-0">·</span>
+        <span class="font-sans">${visible}${hiddenLinks}${expander}</span>
+      </div>`;
+  }).join("");
+
+  const panel = document.createElement("div");
+  panel.className = "mt-12 pt-6 border-t";
+  panel.style.borderColor = blockColor + "55";
+  panel.innerHTML = `
+    <div class="flex items-baseline gap-3 mb-3">
+      <span class="text-[10px] font-sans font-bold uppercase tracking-[0.3em]" style="color: ${blockColor}">Also covered in</span>
+      <span class="flex-1 h-px" style="background: ${blockColor}; opacity: 0.4"></span>
+      <span class="text-[10px] font-sans uppercase tracking-[0.25em] text-claude-muted dark:text-dark-muted">${entries.length} concept${entries.length !== 1 ? "s" : ""}</span>
+    </div>
+    <div class="space-y-0.5">${items}</div>`;
+
+  // Wire "+N more" expanders.
+  panel.querySelectorAll(".concept-xref-more").forEach(btn => {
+    btn.addEventListener("click", (e) => {
+      const key = btn.dataset.key;
+      const hidden = panel.querySelector(`.concept-xref-hidden[data-key="${key}"]`);
+      if (hidden) hidden.classList.remove("hidden");
+      btn.remove();
+    });
+  });
+
+  contentDiv.appendChild(panel);
+}
+
 function appendEndOfSummary(contentDiv) {
   if (!selectedLecture || !contentDiv) return;
 
@@ -1691,6 +1770,11 @@ function renderTabContent() {
       tocDiv.classList.remove("hidden");
       tocDiv.style.display = ""; // Restore css class behavior
       try { highlightSearchTerms(); } catch (e) { console.warn("Highlight error:", e); }
+
+      // Cross-lecture concept references — inserted before the editorial mark
+      // so it reads as part of the article apparatus, not after the "end" sign.
+      try { renderConceptCrossrefs(contentDiv, selectedLecture.id); }
+      catch (e) { console.warn("Concept crossref error:", e); }
 
       // End-of-summary editorial mark + Next lecture pointer
       appendEndOfSummary(contentDiv);
