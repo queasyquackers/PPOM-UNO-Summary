@@ -1,0 +1,10 @@
+{
+  "name": "onepass",
+  "private": true,
+  "description": "OnePass medical curriculum reader.",
+  "scripts": {
+    "build:search": "node scripts/rebuild_index.js",
+    "check:search": "node scripts/check_search_index.js",
+    "check": "npm run check:search"
+  }
+}
