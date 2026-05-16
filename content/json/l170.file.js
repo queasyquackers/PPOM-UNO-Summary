@@ -128,14 +128,14 @@ Never assume a patient is purely "psychiatric" until you have ruled out the "Med
       explanation: "Tangential thought process occurs when a patient drifts away from the question and never returns to the point. Circumstantial thought would eventually come back to the answer."
     },
     {
-      question: "Which of the following is the leading cause of death for individuals aged 15–25 in the United States?",
+      question: "Which of the following is the second leading cause of death for individuals aged 15–25 in the United States (trailing only unintentional injury)?",
       options: [
         { text: "Accidental overdose" },
         { text: "Suicide", isCorrect: true },
         { text: "Homicide" },
         { text: "Malignancy" }
       ],
-      explanation: "According to the lecture statistics, suicide is the second leading cause of death in this age group, trailing only accidental injuries (which was the third leading cause in previous years, now often grouped as the 'top' tier of preventable death in youth)."
+      explanation: "Suicide is the second leading cause of death for this age group, trailing only unintentional injury (motor vehicle crashes, drownings, etc.). 90% of those who die by suicide have an underlying mental illness, most commonly untreated depression."
     },
     {
       question: "A doctor realizes he is feeling unusually angry and defensive whenever a particular patient speaks. This is an example of which clinical phenomenon?",

@@ -190,7 +190,7 @@ Acute Leukemia — Marrow Crowding
         "Aplastic marrow, consistent with post-chemotherapy ablation",
         "The cellularity cannot be interpreted without knowing the patient's gender"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 2,
       "rationale": "Expected cellularity = 100 − age (±10%). For a 50-year-old: 100 − 50 = 50% (range 40-60%). A cellularity of 25% is significantly below the expected range, indicating a hypocellular marrow. This is concerning for conditions like aplastic anemia, drug-induced marrow suppression, or myelodysplastic syndrome. Aplastic marrow (essentially no cells) would be more extreme."
     },
     {
@@ -203,7 +203,7 @@ Acute Leukemia — Marrow Crowding
         "Band form",
         "Proerythroblast"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 2,
       "rationale": "Dr. Plummer emphasized that lineage commitment (neutrophil vs. eosinophil vs. basophil) occurs at the late myelocyte to early metamyelocyte stage, when specific (secondary) granules become visible. Before this point, all granulocyte precursors look morphologically identical. The myeloblast and promyelocyte stages are too early — they only have primary (azurophilic) granules."
     },
     {
@@ -216,7 +216,7 @@ Acute Leukemia — Marrow Crowding
         "Pernicious anemia with megaloblastic changes",
         "Iron deficiency from chronic blood loss"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "rationale": "In myelofibrosis, the bone marrow is replaced by fibrosis and cannot produce adequate blood cells. Hematopoiesis shifts to its fetal sites — the liver and spleen (extramedullary hematopoiesis, EMH). This causes hepatosplenomegaly. The peripheral smear shows a leukoerythroblastic picture with tear-drop cells (squeezed through fibrotic marrow) and nucleated RBCs (released from EMH sites before full maturation)."
     },
     {
@@ -229,7 +229,7 @@ Acute Leukemia — Marrow Crowding
         "The child has developed autoantibodies that destroy his mature lymphocytes",
         "The leukemia has directly invaded and destroyed the thymus"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 2,
       "rationale": "This is the key concept Dr. Plummer emphasized: 'It's like sending babies to war — they cannot do anything.' In acute leukemia, the marrow is packed with immature blasts that are non-functional. Despite a sky-high WBC count, there are very few mature, functional neutrophils available to fight infection. The blasts also crowd out normal erythroid and megakaryocytic lineages, causing anemia (Hb 6) and thrombocytopenia (platelets 15K)."
     },
     {
@@ -242,7 +242,7 @@ Acute Leukemia — Marrow Crowding
         "CD20",
         "CD56"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 2,
       "rationale": "CD34 is the surface marker that identifies pluripotent hematopoietic stem cells in the bone marrow. It is used clinically to identify and collect stem cells for bone marrow transplantation. CD3 marks T-cells, CD19/CD20 mark B-cells, and CD56 marks NK cells — these are all lineage-specific markers for mature cells, not the undifferentiated HSC."
     }
   ],
