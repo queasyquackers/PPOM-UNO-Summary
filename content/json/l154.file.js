@@ -107,7 +107,7 @@ Multiple Myeloma is a cancer of **Plasma Cells** (the antibody factories).
         "Chronic Myelogenous Leukemia",
         "Burkitt Lymphoma"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "rationale": "TdT is the hallmark of lymphoblasts, and CD10 (CALLA) confirms B-cell lineage. This is the classic childhood ALL."
     },
     {
@@ -119,7 +119,7 @@ Multiple Myeloma is a cancer of **Plasma Cells** (the antibody factories).
         "BCR-ABL fusion protein",
         "c-myc overexpression"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 2,
       "rationale": "The high WBC with basophilia and low LAP score is diagnostic of CML, which is driven by the Philadelphia chromosome t(9;22) and the BCR-ABL tyrosine kinase."
     },
     {
@@ -131,7 +131,7 @@ Multiple Myeloma is a cancer of **Plasma Cells** (the antibody factories).
         "Early hematogenous spread to the liver and lungs.",
         "Exclusive involvement of the bone marrow."
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "rationale": "The cells are Reed-Sternberg cells, diagnostic of Hodgkin Lymphoma. HL typically spreads in a predictable, contiguous fashion."
     },
     {
@@ -143,7 +143,7 @@ Multiple Myeloma is a cancer of **Plasma Cells** (the antibody factories).
         "Rouleaux formation",
         "Bite cells"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 2,
       "rationale": "The patient has the CRAB symptoms of Multiple Myeloma. High levels of monoclonal protein (M-spike) reduce the repulsive charge between RBCs, causing them to stack like coins (Rouleaux)."
     },
     {
@@ -155,7 +155,7 @@ Multiple Myeloma is a cancer of **Plasma Cells** (the antibody factories).
         "t(14;18)",
         "t(9;22)"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 2,
       "rationale": "While the patient has a MALToma (associated with H. pylori), the question asks for the translocation associated with the BCL-2 overexpressing indolent lymphoma, which is Follicular Lymphoma t(14;18)."
     }
   ],

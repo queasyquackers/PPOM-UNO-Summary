@@ -134,7 +134,7 @@ For patients whose kidneys no longer produce natural erythropoietin (CKD), we us
         "Reduce or hold the dose to target a hemoglobin of 10-11 g/dL.",
         "Switch to Darbepoetin alfa for better control."
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 2,
       "rationale": "Target hemoglobin for ESAs in CKD is 10-11 g/dL. Hemoglobin >11 g/dL is associated with a significantly increased risk of stroke and myocardial infarction (Black Box Warning)."
     },
     {
@@ -146,7 +146,7 @@ For patients whose kidneys no longer produce natural erythropoietin (CKD), we us
         "The folic acid will have no effect on his labs or symptoms.",
         "He will develop acute iron overload."
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "rationale": "This is the 'Folate Trap.' Folate corrects the megaloblastic anemia by bypassing the B12-dependent step in DNA synthesis, but it does nothing for the B12-dependent Methylmalonyl-CoA pathway required for myelin maintenance."
     },
     {
@@ -158,7 +158,7 @@ For patients whose kidneys no longer produce natural erythropoietin (CKD), we us
         "Cytokine-induced elevation of Hepcidin leading to Ferroportin degradation.",
         "Direct inhibition of Erythropoietin receptors by TNF-alpha."
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 2,
       "rationale": "Chronic inflammation (IL-6) stimulates Hepcidin, which causes the degradation of Ferroportin. Iron remains trapped inside macrophages and enterocytes, leading to Anemia of Chronic Disease."
     },
     {
@@ -170,7 +170,7 @@ For patients whose kidneys no longer produce natural erythropoietin (CKD), we us
         "N-acetylcysteine",
         "Hydroxocobalamin"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "rationale": "The child has acute iron poisoning. Deferoxamine is the iron chelator used to bind free iron and allow its excretion in the urine."
     },
     {
@@ -182,7 +182,7 @@ For patients whose kidneys no longer produce natural erythropoietin (CKD), we us
         "Ribonucleotide Reductase",
         "Ferrochelatase"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 2,
       "rationale": "Hydroxyurea inhibits Ribonucleotide Reductase (RNR), which reduces the pool of deoxyribonucleotides available for DNA synthesis, inducing stress erythropoiesis and switching on gamma-globin (HbF) production."
     }
   ],

@@ -172,7 +172,7 @@ Modern transfusion medicine rarely uses whole blood. Instead, a single donation 
         "Maternal NK cells directly kill fetal RBCs via antibody-dependent cellular cytotoxicity in the bone marrow",
         "The fetus develops autoantibodies against its own D-antigen"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "rationale": "In Rh-HDFN, maternal IgG anti-D (formed during sensitization in the first pregnancy) crosses the placenta and coats fetal Rh+ RBCs. These opsonized cells are then removed by macrophages in the fetal spleen (extravascular hemolysis). IgM does not cross the placenta. This is a classic anamnestic (secondary) immune response — high titer, high affinity IgG."
     },
     {
@@ -185,7 +185,7 @@ Modern transfusion medicine rarely uses whole blood. Instead, a single donation 
         "The patient's platelets are being destroyed by anti-HPA-1A antibodies",
         "The donor blood was contaminated with bacteria"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 2,
       "rationale": "The DAT (Direct Coombs test) detects IgG or C3 already bound to RBCs in the patient's circulation. A positive DAT in the setting of a transfusion reaction confirms that antibodies have coated the transfused cells, supporting a diagnosis of hemolytic transfusion reaction (either acute or delayed). The IAT, by contrast, detects free antibodies in serum."
     },
     {
@@ -198,7 +198,7 @@ Modern transfusion medicine rarely uses whole blood. Instead, a single donation 
         "Pre-formed IgM anti-ABO antibodies fixing complement and causing intravascular hemolysis",
         "Volume overload from rapid infusion"
       ],
-      "correctAnswer": 4,
+      "correctAnswer": 3,
       "rationale": "The acute onset of fever, flank pain, and red/dark urine (hemoglobinuria) in a first-time transfusion recipient points to an Acute Hemolytic Transfusion Reaction (AHTR). Since this patient has never been transfused, the antibodies are 'naturally occurring' — these are pre-formed IgM anti-A or anti-B antibodies that activate complement at body temperature, causing immediate intravascular hemolysis. This is most commonly caused by ABO incompatibility due to clerical error."
     },
     {
@@ -211,7 +211,7 @@ Modern transfusion medicine rarely uses whole blood. Instead, a single donation 
         "Anaphylactic transfusion reaction",
         "Bacterial contamination of the platelet unit"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "rationale": "The key differentiator between TACO and TRALI is the CVP/PCWP. TACO (cardiogenic pulmonary edema) presents with elevated CVP because the heart is overloaded. TRALI (non-cardiogenic pulmonary edema caused by donor anti-neutrophil antibodies activating recipient lung neutrophils) presents with a NORMAL CVP. Both cause bilateral infiltrates and respiratory distress, but the hemodynamics distinguish them."
     },
     {
@@ -224,7 +224,7 @@ Modern transfusion medicine rarely uses whole blood. Instead, a single donation 
         "To reduce the risk of febrile non-hemolytic transfusion reactions",
         "To prevent transmission of cytomegalovirus"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 2,
       "rationale": "Irradiation (gamma or X-ray) inactivates viable donor T-lymphocytes in the blood product. In immunocompetent recipients, donor T-cells are rapidly cleared. In immunocompromised patients (leukemia, bone marrow transplant, neonates), donor T-cells can engraft and mount an immune attack against the host → TA-GVHD, which is >90% fatal. Leukoreduction reduces FNHTR and CMV risk but does NOT reliably prevent TA-GVHD."
     }
   ],

@@ -105,35 +105,35 @@ When the CRC is low and the marrow biopsy shows nothing but fat, we have **Aplas
       "id": 1,
       "question": "A 55-year-old chronic alcoholic presents with fatigue and a unsteady gait. MCV is 112 fL. Peripheral smear shows hypersegmented neutrophils. Homocysteine is elevated, and Methylmalonic Acid (MMA) is also significantly elevated. What is the most likely long-term complication if only folic acid is given?",
       "options": ["Worsening anemia", "Irreversible spinal cord damage", "Acute myeloid leukemia", "Hemolytic crisis", "Hepatic failure"],
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "rationale": "The elevated MMA and neurologic symptoms confirm B12 deficiency. Giving folic acid alone will correct the megaloblastic anemia (as it bypasses the 'folate trap') but will not address the biochemical defect causing myelin damage, leading to irreversible Subacute Combined Degeneration."
     },
     {
       "id": 2,
       "question": "A 22-year-old male presents with dark urine in the morning and a new blood clot in his hepatic vein (Budd-Chiari syndrome). A flow cytometry test is performed. Which of the following findings would confirm the diagnosis?",
       "options": ["Presence of HbS on electrophoresis", "Low levels of CD55 and CD59 on RBCs", "Positive osmotic fragility test", "Heinz bodies on crystal violet stain", "High levels of Hepcidin"],
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "rationale": "The patient has the classic presentation of PNH: morning hemoglobinuria and venous thrombosis (the leading cause of death). PNH is caused by a loss of GPI-anchored proteins, specifically CD55 (DAF) and CD59 (MIRL), which protect RBCs from complement-mediated lysis."
     },
     {
       "id": 3,
       "question": "A 10-year-old boy of Mediterranean descent presents with jaundice and a palpable spleen. Labs show a high MCHC and a positive osmotic fragility test. What is the most appropriate definitive treatment to resolve his anemia?",
       "options": ["Eculizumab", "Hydroxyurea", "Splenectomy", "Monthly B12 injections", "Iron chelation"],
-      "correctAnswer": 3,
+      "correctAnswer": 2,
       "rationale": "Hereditary Spherocytosis is an extravascular hemolytic anemia where the spleen destroys the abnormal spherocytes. While the underlying membrane defect remains, removing the spleen (splenectomy) stops the premature destruction of RBCs and resolves the anemia."
     },
     {
       "id": 4,
-      "question": "An 8-month-old infant with sickle cell disease presents with symmetric swelling and extreme pain in the hands and feet. What is the most likely finding on a peripheral smear in this patient?",
+      "question": "A 2-year-old child with sickle cell disease presents with symmetric swelling and extreme pain in the hands and feet. What is the most likely finding on a peripheral smear in this patient?",
       "options": ["Target cells", "Howell-Jolly bodies", "Schistocytes", "Bite cells", "Ringed sideroblasts"],
-      "correctAnswer": 2,
-      "rationale": "The infant is experiencing dactylitis (vaso-occlusive crisis). While sickle cells and target cells may be seen, the hallmark of chronic splenic damage (which begins early in SCD) is the presence of Howell-Jolly bodies (nuclear remnants) due to functional asplenia."
+      "correctAnswer": 1,
+      "rationale": "The child is experiencing dactylitis (vaso-occlusive crisis). By age 2, repeated splenic micro-infarctions have produced functional asplenia, and the hallmark smear finding is Howell-Jolly bodies (nuclear remnants normally cleared by the spleen). Target cells and sickle cells may also be seen."
     },
     {
       "id": 5,
       "question": "A patient with short stature and absent thumbs is found to have a low count of RBCs, WBCs, and platelets. Marrow biopsy shows fatty replacement. Which of the following is the most likely diagnosis?",
       "options": ["Diamond-Blackfan Anemia", "Fanconi Anemia", "Aplastic Anemia (Idiopathic)", "PNH", "B12 Deficiency"],
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "rationale": "Fanconi Anemia is a congenital aplastic anemia (pancytopenia) associated with physical malformations, classically absent or hypoplastic thumbs and short stature. Diamond-Blackfan is a pure red cell aplasia and is usually associated with triphalangeal thumbs."
     }
   ],
