@@ -4,6 +4,8 @@
   "description": "OnePass medical curriculum reader.",
   "scripts": {
     "build:search": "node scripts/rebuild_index.js",
+    "build:concepts": "node scripts/build_concept_index.js",
+    "build:all": "npm run build:search && npm run build:concepts",
     "check:search": "node scripts/check_search_index.js",
     "check": "npm run check:search"
   }
