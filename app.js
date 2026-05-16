@@ -560,6 +560,10 @@ function setupEventListeners() {
   document.getElementById("darkModeToggle")?.addEventListener("click", () => toggleDarkMode());
   document.getElementById("tocToggle").addEventListener("click", () => toggleTableOfContents());
   document.getElementById("sidebarToggle").addEventListener("click", () => toggleSidebar());
+  document.getElementById("mobileSidebarBackdrop")?.addEventListener("click", () => {
+    document.body.classList.remove("mobile-sidebar-open");
+  });
+  setupSwipeNavigation();
   document.getElementById("closeLecture").addEventListener("click", () => {
     closeLecture();
   });
@@ -878,7 +882,17 @@ function toggleTableOfContents() {
   }
 }
 
+function isMobileViewport() {
+  return window.matchMedia("(max-width: 767px)").matches;
+}
+
 function toggleSidebar() {
+  // Mobile: sidebar is an overlay drawer — toggle the open state.
+  // Desktop: sidebar is in the layout flow — toggle display via .sidebar-hidden.
+  if (isMobileViewport()) {
+    document.body.classList.toggle("mobile-sidebar-open");
+    return;
+  }
   sidebarVisible = !sidebarVisible;
   const body = document.body;
   if (sidebarVisible) {
@@ -886,6 +900,41 @@ function toggleSidebar() {
   } else {
     body.classList.add("sidebar-hidden");
   }
+}
+
+// Horizontal swipe on the lecture content area triggers prev/next.
+// Threshold (80px) and slope guard (|dy| < 50) tuned to avoid firing
+// during vertical reading scroll. Skipped when swipe starts on an
+// interactive element (so buttons, links, marks still work normally).
+function setupSwipeNavigation() {
+  const target = document.getElementById("lectureContent");
+  if (!target) return;
+  let startX = 0, startY = 0, tracking = false;
+
+  target.addEventListener("touchstart", (e) => {
+    if (e.touches.length !== 1) { tracking = false; return; }
+    const t = e.touches[0];
+    // Don't hijack swipes that start on actionable elements.
+    const tag = (e.target.tagName || "").toUpperCase();
+    if (["BUTTON", "A", "INPUT", "TEXTAREA", "SELECT", "MARK"].includes(tag)) {
+      tracking = false;
+      return;
+    }
+    startX = t.clientX;
+    startY = t.clientY;
+    tracking = true;
+  }, { passive: true });
+
+  target.addEventListener("touchend", (e) => {
+    if (!tracking) return;
+    tracking = false;
+    const t = e.changedTouches[0];
+    const dx = t.clientX - startX;
+    const dy = t.clientY - startY;
+    if (Math.abs(dx) < 80 || Math.abs(dy) > 50) return;
+    // Swipe right (dx > 0) → previous lecture; swipe left → next.
+    goToAdjacentLecture(dx > 0 ? -1 : 1);
+  }, { passive: true });
 }
 
 function getModuleClass(module) {
@@ -1207,6 +1256,10 @@ async function selectLecture(id) {
   // Find metadata first
   const meta = lectures.find((l) => l.id === id);
   if (!meta) return;
+
+  // On mobile the sidebar is an overlay drawer — close it so the user
+  // actually lands on the content they just tapped.
+  if (isMobileViewport()) document.body.classList.remove("mobile-sidebar-open");
 
   // UI Setup - Show loading state
   const welcomeScreen = document.getElementById("welcomeScreen");

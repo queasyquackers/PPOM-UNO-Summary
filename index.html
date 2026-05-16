@@ -123,9 +123,46 @@
     .hide-scrollbar { scrollbar-width: none; }
 
     /* Layout specific */
-    .sidebar-hidden #sidebar { display: none; }
+    @media (min-width: 768px) {
+      .sidebar-hidden #sidebar { display: none; }
+    }
+
+    /* Desktop-only inline Table of Contents — JS unconditionally removes the
+       Tailwind `hidden` class on summary render, so we enforce hide-below-lg
+       in CSS instead of relying on the utility class. */
+    @media (max-width: 1023px) {
+      #tableOfContents { display: none !important; }
+    }
     .editorial-border { border: 1px solid #1a1a1a; }
     .dark .editorial-border { border-color: #E8E0D4; }
+
+    /* Mobile: sidebar becomes a slide-in drawer instead of taking layout space.
+       On desktop (>= md) the original flex behavior takes over.
+       Toggle behavior: body.mobile-sidebar-open flips the transform. */
+    #mobileSidebarBackdrop { display: none; }
+    @media (max-width: 767px) {
+      #sidebar {
+        position: fixed;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        width: min(20rem, 85vw);
+        transform: translateX(-100%);
+        transition: transform 0.25s ease-out;
+        z-index: 40;
+        box-shadow: 4px 0 24px rgba(0, 0, 0, 0.15);
+      }
+      body.mobile-sidebar-open #sidebar { transform: translateX(0); }
+      body.mobile-sidebar-open #mobileSidebarBackdrop {
+        display: block;
+        position: fixed;
+        inset: 0;
+        z-index: 35;
+        background: rgba(0, 0, 0, 0.4);
+        backdrop-filter: blur(2px);
+        -webkit-backdrop-filter: blur(2px);
+      }
+    }
 
     /* End-of-summary editorial mark */
     .end-of-summary {
@@ -258,7 +295,8 @@
 </head>
 <body class="bg-claude-bg dark:bg-dark-bg font-serif text-claude-text dark:text-dark-text transition-colors duration-200">
   <div id="readingProgressBar" class="fixed top-0 left-0 h-1 bg-claude-accent z-50 transition-all duration-150 ease-out w-0"></div>
-  <div class="flex h-screen overflow-hidden">
+  <div id="mobileSidebarBackdrop" aria-hidden="true"></div>
+  <div class="flex h-screen h-[100dvh] overflow-hidden">
     <!-- Sidebar -->
     <div id="sidebar" class="w-80 flex flex-col bg-claude-bg dark:bg-dark-bg border-r border-claude-border dark:border-dark-border z-20 shrink-0">
       <div class="p-6 pb-4 border-b border-claude-border dark:border-dark-border">
@@ -299,7 +337,7 @@
 
       <!-- Welcome Screen -->
       <div id="welcomeScreen" class="flex-1 flex flex-col overflow-y-auto">
-        <div class="w-full max-w-[1100px] mx-auto px-8 md:px-12 pt-8 md:pt-10 pb-16">
+        <div class="w-full max-w-[1100px] mx-auto px-4 sm:px-8 md:px-12 pt-8 md:pt-10 pb-16">
           <!-- Masthead: 3-tier (kicker / wordmark / slogan) -->
           <header class="mb-6 md:mb-8">
             <div class="flex items-center justify-between text-[10px] font-sans uppercase tracking-[0.3em] text-claude-muted dark:text-dark-muted mb-2">
@@ -336,7 +374,7 @@
       <!-- Lecture Content -->
       <div id="lectureContent" class="hidden flex-1 flex flex-col min-h-0 bg-claude-bg dark:bg-dark-bg">
         <div id="contentScroll" class="flex-1 overflow-y-auto">
-        <div class="relative pt-12 pb-0 px-12 md:px-24">
+        <div class="relative pt-12 pb-0 px-4 sm:px-8 md:px-24">
           <!-- Top right: prev/next/close -->
           <div class="absolute top-6 right-6 flex items-center gap-1">
             <button id="prevLectureBtn" title="Previous lecture (J)" class="p-2 text-claude-muted hover:text-claude-text dark:hover:text-dark-text transition-colors disabled:opacity-30 disabled:cursor-not-allowed">
@@ -401,7 +439,7 @@
         <div class="sticky top-0 z-20">
           <!-- Compact lecture header: hidden by default, slides in when big title scrolls off-screen -->
           <div id="compactHeader" class="bg-claude-bg/95 dark:bg-dark-bg/95 backdrop-blur-md border-b border-claude-border dark:border-dark-border">
-            <div class="flex items-center gap-3 px-12 md:px-24 py-2.5">
+            <div class="flex items-center gap-3 px-4 sm:px-8 md:px-24 py-2.5">
               <span id="compactLectureId" class="masthead-wordmark text-base leading-none shrink-0"></span>
               <span class="opacity-30 shrink-0 text-sm">·</span>
               <span id="compactLectureTitle" class="font-display text-sm truncate flex-1 text-claude-text dark:text-dark-text"></span>
@@ -427,7 +465,7 @@
           </div>
 
           <!-- Tab strip: editorial section nav -->
-          <div class="flex border-b border-t border-claude-border dark:border-dark-border px-12 md:px-24 overflow-x-auto hide-scrollbar bg-claude-bg/90 dark:bg-dark-bg/90 backdrop-blur-md">
+          <div class="flex border-b border-t border-claude-border dark:border-dark-border px-4 sm:px-8 md:px-24 overflow-x-auto hide-scrollbar bg-claude-bg/90 dark:bg-dark-bg/90 backdrop-blur-md">
           <button class="tab-btn py-3 pr-7 font-sans text-[11px] uppercase tracking-[0.25em] text-claude-muted dark:text-dark-muted border-b-2 border-transparent data-[active=true]:text-claude-text dark:data-[active=true]:text-dark-text hover:text-claude-text dark:hover:text-dark-text transition-colors" data-tab="summary">Summary<span id="summaryHighlightCount" class="highlight-count" style="display:none"></span></button>
           <button class="tab-btn py-3 px-7 font-sans text-[11px] uppercase tracking-[0.25em] text-claude-muted dark:text-dark-muted border-b-2 border-transparent data-[active=true]:text-claude-text dark:data-[active=true]:text-dark-text hover:text-claude-text dark:hover:text-dark-text transition-colors" data-tab="questions">Questions</button>
           <button class="tab-btn py-3 px-7 font-sans text-[11px] uppercase tracking-[0.25em] text-claude-muted dark:text-dark-muted border-b-2 border-transparent data-[active=true]:text-claude-text dark:data-[active=true]:text-dark-text hover:text-claude-text dark:hover:text-dark-text transition-colors" data-tab="flashcards">Flashcards</button>
@@ -439,7 +477,7 @@
 
           <div class="flex max-w-[1400px] mx-auto">
             <div id="tableOfContents" class="hidden w-64 border-r border-claude-border dark:border-dark-border p-8 sticky top-[49px] h-[calc(100vh-49px)] overflow-y-auto font-sans text-sm hidden lg:block"></div>
-            <div id="tabContent" class="flex-1 px-8 py-10 md:px-12 md:py-14 prose max-w-[680px] data-[tab=questions]:max-w-[960px] data-[tab=flashcards]:max-w-[960px] data-[tab=anking]:max-w-[960px] data-[tab=high-yield]:max-w-[960px] mx-auto"></div>
+            <div id="tabContent" class="flex-1 px-4 py-6 sm:px-8 sm:py-10 md:px-12 md:py-14 prose max-w-[680px] data-[tab=questions]:max-w-[960px] data-[tab=flashcards]:max-w-[960px] data-[tab=anking]:max-w-[960px] data-[tab=high-yield]:max-w-[960px] mx-auto"></div>
           </div>
         </div>
       </div>
