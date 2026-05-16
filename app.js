@@ -553,6 +553,9 @@ function setupEventListeners() {
 
   document.getElementById("searchInput").addEventListener("input", (e) => {
     debouncedSearch(e.target.value);
+    // Strip stale in-content highlights immediately when the box empties,
+    // independent of the debounced list re-render.
+    if (!e.target.value.trim()) clearSearchHighlights();
   });
   document.getElementById("darkModeToggle")?.addEventListener("click", () => toggleDarkMode());
   document.getElementById("tocToggle").addEventListener("click", () => toggleTableOfContents());
@@ -898,8 +901,61 @@ function getModuleClass(module) {
   return "";
 }
 
+// Build a ~200-char excerpt of `content` centered on the first matching term,
+// with all matches wrapped in <mark> for the sidebar search snippet.
+// Returns "" when nothing matches; otherwise a string with leading/trailing
+// ellipses when truncated. The caller controls when this is called (only
+// when a content match actually contributed to the score).
+function buildSearchSnippet(content, terms) {
+  if (!content || !terms || terms.length === 0) return "";
+  const lower = content.toLowerCase();
+
+  // Earliest position of any term — what we'll center the window on.
+  let firstPos = Infinity;
+  for (const term of terms) {
+    if (!term) continue;
+    const pos = lower.indexOf(term);
+    if (pos !== -1 && pos < firstPos) firstPos = pos;
+  }
+  if (firstPos === Infinity) return "";
+
+  const BEFORE = 60;
+  const AFTER = 160;
+  let start = Math.max(0, firstPos - BEFORE);
+  let end = Math.min(content.length, firstPos + AFTER);
+
+  // Snap to word boundaries so we don't slice mid-word.
+  if (start > 0) {
+    const space = content.indexOf(" ", start);
+    if (space !== -1 && space < firstPos) start = space + 1;
+  }
+  if (end < content.length) {
+    const space = content.lastIndexOf(" ", end);
+    if (space !== -1 && space > firstPos) end = space;
+  }
+
+  let snippet = content.slice(start, end)
+    .replace(/[*#_`~]+/g, "")    // strip markdown emphasis chars
+    .replace(/\s+/g, " ")
+    .trim();
+
+  // Escape HTML before wrapping in <mark>.
+  snippet = snippet
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;");
+
+  const escapedTerms = terms.map(t => t.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"));
+  const regex = new RegExp(`(${escapedTerms.join("|")})`, "gi");
+  snippet = snippet.replace(regex, '<mark class="search-snippet-mark">$1</mark>');
+
+  return (start > 0 ? "…" : "") + snippet + (end < content.length ? "…" : "");
+}
+
 function renderLectureList(searchQuery = "") {
   let filtered = [];
+  const snippetsById = new Map();
   const query = searchQuery.toLowerCase().trim();
   const terms = query.split(/\s+/).filter(t => t.length > 0);
 
@@ -912,6 +968,7 @@ function renderLectureList(searchQuery = "") {
       const titleLower = (item.title || "").toLowerCase();
       const moduleLower = (item.module || "").toLowerCase();
       const contentLower = (item.content || "").toLowerCase();
+      let contentMatched = false;
       if (titleLower.includes(query)) { score += 500; if (titleLower.startsWith(query)) score += 100; }
       let termsMatchedInTitle = 0;
       let allTermsMatched = true;
@@ -919,10 +976,14 @@ function renderLectureList(searchQuery = "") {
         let termMatched = false;
         if (titleLower.includes(term)) { score += 100; termsMatchedInTitle++; termMatched = true; }
         if (moduleLower.includes(term)) { score += 50; termMatched = true; }
-        if (contentLower.includes(term)) { score += 10; termMatched = true; }
+        if (contentLower.includes(term)) { score += 10; termMatched = true; contentMatched = true; }
         if (!termMatched) allTermsMatched = false;
       });
       if (terms.length > 1) { if (allTermsMatched) score += 200; if (termsMatchedInTitle === terms.length) score += 100; }
+      if (contentMatched) {
+        const snippet = buildSearchSnippet(item.content, terms);
+        if (snippet) snippetsById.set(item.id, snippet);
+      }
       return { id: item.id, score };
     }).filter(r => r.score > 0).sort((a, b) => b.score - a.score);
     filtered = results.map(r => lectures.find(l => l.id === r.id)).filter(Boolean);
@@ -986,6 +1047,7 @@ function renderLectureList(searchQuery = "") {
             </div>
           </div>
           <div class="${isActive ? 'font-bold' : 'font-medium'} text-sm text-claude-text dark:text-dark-text leading-snug font-display">${displayTitle(lec.title)}</div>
+          ${snippetsById.has(lec.id) ? `<div class="search-snippet text-[11px] font-serif italic text-claude-muted dark:text-dark-muted leading-snug mt-1.5">${snippetsById.get(lec.id)}</div>` : ''}
         </div>
         ${isComplete ? `<div class="ml-2 flex-shrink-0 text-claude-success dark:text-green-400"><svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg></div>` : ''}
       </div>
@@ -3600,41 +3662,60 @@ function updateActiveRecallButtonState() {
 }
 // Helper: Highlight Search Terms
 function highlightSearchTerms() {
-  const query = document.getElementById("searchInput").value.trim();
-  if (!query || query.length < 2) return;
+  const query = (document.getElementById("searchInput").value || "").trim().toLowerCase();
+  if (!query) return;
+
+  // Tokenize the same way renderLectureList scores — so "horner syndrome" highlights
+  // both "horner" and "syndrome", not only the full literal phrase.
+  const terms = query.split(/\s+/).filter(t => t.length >= 2);
+  if (terms.length === 0) return;
 
   const contentDiv = document.getElementById("tabContent");
   if (!contentDiv) return;
 
-  // Simple tree walker to find text nodes
-  const walker = document.createTreeWalker(contentDiv, NodeFilter.SHOW_TEXT, null, false);
-  const regex = new RegExp(`(${query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'gi');
-  const matches = [];
+  const escapedTerms = terms.map(t => t.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"));
+  const matchRegex = new RegExp(`(${escapedTerms.join("|")})`, "gi");
 
+  // Walk text nodes, skip anything already inside a <mark> so we don't
+  // double-wrap user highlights or re-process search marks on tab switch.
+  const walker = document.createTreeWalker(contentDiv, NodeFilter.SHOW_TEXT, null, false);
+  const matches = [];
   let node;
   while (node = walker.nextNode()) {
-    if (regex.test(node.nodeValue)) {
-      matches.push(node);
-    }
+    if (node.parentNode && node.parentNode.tagName === "MARK") continue;
+    const lower = node.nodeValue.toLowerCase();
+    if (terms.some(t => lower.includes(t))) matches.push(node);
   }
 
-  // Highlight matches (limit first 50 to avoid freezing)
   let found = false;
   matches.slice(0, 50).forEach(node => {
-    const span = document.createElement('span');
-    span.innerHTML = node.nodeValue.replace(regex, '<mark class="bg-yellow-200 dark:bg-yellow-900/50 text-claude-text dark:text-white rounded-sm px-0.5">$1</mark>');
+    const span = document.createElement("span");
+    const escaped = node.nodeValue
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;");
+    span.innerHTML = escaped.replace(matchRegex, '<mark class="search-mark">$1</mark>');
     node.parentNode.replaceChild(span, node);
     found = true;
   });
 
   if (found) {
     setTimeout(() => {
-      const mark = contentDiv.querySelector('mark');
-      if (mark) {
-        mark.scrollIntoView({ behavior: 'smooth', block: 'center' });
-      }
+      const mark = contentDiv.querySelector("mark.search-mark");
+      if (mark) mark.scrollIntoView({ behavior: "smooth", block: "center" });
     }, 100);
   }
+}
+
+// Strip search-marks from the currently rendered lecture without disturbing
+// user highlights. Called when the search box empties.
+function clearSearchHighlights() {
+  const contentDiv = document.getElementById("tabContent");
+  if (!contentDiv) return;
+  contentDiv.querySelectorAll("mark.search-mark").forEach(mark => {
+    const text = document.createTextNode(mark.textContent);
+    mark.parentNode.replaceChild(text, mark);
+  });
 }
 
 // ============================================================
