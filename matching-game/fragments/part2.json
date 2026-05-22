@@ -1,0 +1,603 @@
+{
+  "bugs": [
+    {
+      "name": "Bartonella henselae",
+      "geography": "Worldwide",
+      "disease": "Cat Scratch Disease",
+      "symptoms": "Papule at scratch site then painful regional lymphadenopathy; bacillary angiomatosis in AIDS",
+      "treatment": "Azithromycin or Doxycycline",
+      "lecture": "L166"
+    },
+    {
+      "name": "Bartonella quintana",
+      "geography": "Urban poverty and overcrowding (homelessness)",
+      "disease": "Trench Fever",
+      "symptoms": "Relapsing fever every 5 days with severe shin and back pain; spread by body lice",
+      "treatment": "Doxycycline plus Gentamicin",
+      "lecture": "L166"
+    },
+    {
+      "name": "Bartonella bacilliformis",
+      "geography": "High-altitude Andes valleys (Peru, Ecuador, Colombia)",
+      "disease": "Carrion disease (Oroya Fever / Verruga Peruana)",
+      "symptoms": "Acute severe hemolytic anemia then chronic blood-filled Peruvian Warts; spread by sandfly",
+      "treatment": "Chloramphenicol or other antibiotics (Andean scourge)",
+      "lecture": "L166"
+    },
+    {
+      "name": "Plasmodium falciparum",
+      "geography": "Tropics worldwide, especially sub-Saharan Africa",
+      "disease": "Severe (cerebral) malaria",
+      "symptoms": "Irregular fever, RBC knobs causing capillary sequestration, coma, organ failure",
+      "treatment": "IV artesunate (severe); oral artemether-lumefantrine (uncomplicated)",
+      "lecture": "L172"
+    },
+    {
+      "name": "Plasmodium vivax",
+      "geography": "Asia and Latin America (chloroquine-sensitive zones)",
+      "disease": "Relapsing tertian malaria",
+      "symptoms": "48-hour fever cycle; dormant liver hypnozoites causing relapse months later",
+      "treatment": "Chloroquine plus primaquine for radical cure (check G6PD first)",
+      "lecture": "L172"
+    },
+    {
+      "name": "Plasmodium ovale",
+      "geography": "West Africa",
+      "disease": "Relapsing tertian malaria",
+      "symptoms": "48-hour fever cycle; dormant liver hypnozoites causing relapse",
+      "treatment": "Chloroquine plus primaquine or tafenoquine for radical cure",
+      "lecture": "L172"
+    },
+    {
+      "name": "Plasmodium malariae",
+      "geography": "Tropics worldwide",
+      "disease": "Quartan malaria",
+      "symptoms": "72-hour quartan fever cycle; no hypnozoites",
+      "treatment": "Chloroquine",
+      "lecture": "L166"
+    },
+    {
+      "name": "Babesia microti",
+      "geography": "Northeastern United States",
+      "disease": "Babesiosis",
+      "symptoms": "Hemolytic anemia and fever; Maltese cross tetrads on smear; severe in asplenics",
+      "treatment": "Atovaquone plus azithromycin",
+      "lecture": "L166"
+    },
+    {
+      "name": "Trypanosoma cruzi",
+      "geography": "South and Central America",
+      "disease": "Chagas disease",
+      "symptoms": "Romana's sign (swollen eye); chronic megacolon, megaesophagus, dilated cardiomyopathy",
+      "treatment": "Benznidazole or nifurtimox (Reduviid bug vector)",
+      "lecture": "L166"
+    },
+    {
+      "name": "Trypanosoma brucei",
+      "geography": "Sub-Saharan Africa",
+      "disease": "African Sleeping Sickness",
+      "symptoms": "Winterbottom's sign (posterior cervical nodes); CNS invasion reverses sleep/wake cycle",
+      "treatment": "Suramin (early) or melarsoprol (CNS); Tsetse fly vector",
+      "lecture": "L166"
+    },
+    {
+      "name": "Zika virus",
+      "geography": "Tropical Americas (Brazil), Africa, Asia",
+      "disease": "Congenital Zika Syndrome",
+      "symptoms": "Mild rash and conjunctivitis in adults; severe fetal microcephaly if infected in pregnancy",
+      "treatment": "Supportive care; no specific antiviral",
+      "lecture": "L166"
+    },
+    {
+      "name": "SARS-CoV-2",
+      "geography": "Worldwide",
+      "disease": "COVID-19",
+      "symptoms": "Respiratory illness; cytokine storm causing ARDS and septic shock; binds ACE2 receptor",
+      "treatment": "Dexamethasone in late inflammatory phase (harmful if given early)",
+      "lecture": "L166"
+    },
+    {
+      "name": "HIV (Human Immunodeficiency Virus)",
+      "geography": "Worldwide (origin Belgian Congo via SIV)",
+      "disease": "AIDS",
+      "symptoms": "Acute retroviral syndrome then CD4 decline below 200 with opportunistic infections",
+      "treatment": "Triple-drug antiretroviral therapy (ART)",
+      "lecture": "L167"
+    },
+    {
+      "name": "HTLV-1",
+      "geography": "Japan, the Caribbean, parts of Africa",
+      "disease": "Adult T-cell Leukemia/Lymphoma (ATLL)",
+      "symptoms": "ATLL malignancy and tropical spastic paraparesis (leg weakness/rigidity)",
+      "treatment": "No effective antiretroviral therapy prevents ATLL",
+      "lecture": "L167"
+    },
+    {
+      "name": "Ebola virus",
+      "geography": "Sub-Saharan Africa (West Africa)",
+      "disease": "Ebola hemorrhagic fever",
+      "symptoms": "Cytokine storm, vascular leak, DIC, hypovolemic shock; 50-90% mortality",
+      "treatment": "Supportive care (Ribavirin ineffective for filoviruses)",
+      "lecture": "L168"
+    },
+    {
+      "name": "Marburg virus",
+      "geography": "Sub-Saharan Africa",
+      "disease": "Marburg hemorrhagic fever",
+      "symptoms": "Cytokine storm with vascular leak and hemorrhage; fruit bat reservoir",
+      "treatment": "Supportive care",
+      "lecture": "L168"
+    },
+    {
+      "name": "Yellow Fever virus",
+      "geography": "Tropical Africa and South America",
+      "disease": "Yellow Fever",
+      "symptoms": "Triad of high fever, jaundice, and black vomit; Councilman bodies on liver biopsy",
+      "treatment": "Supportive care; live-attenuated vaccine for prevention",
+      "lecture": "L168"
+    },
+    {
+      "name": "Dengue virus",
+      "geography": "Tropics worldwide (Aedes mosquito range)",
+      "disease": "Dengue / Dengue Hemorrhagic Fever",
+      "symptoms": "Breakbone fever; second infection worsened by antibody-dependent enhancement",
+      "treatment": "Supportive care; fluid management",
+      "lecture": "L168"
+    },
+    {
+      "name": "Hantavirus (Sin Nombre virus)",
+      "geography": "Four Corners region of US Southwest (NM, AZ, CO, UT)",
+      "disease": "Hantavirus Pulmonary Syndrome",
+      "symptoms": "Flu-like prodrome then rapid severe pulmonary edema; deer mouse droppings exposure",
+      "treatment": "Supportive care with respiratory support",
+      "lecture": "L168"
+    },
+    {
+      "name": "Lassa virus",
+      "geography": "West Africa (Nigeria, Sierra Leone)",
+      "disease": "Lassa Fever",
+      "symptoms": "Often mild febrile illness; sensorineural deafness in one-third of survivors",
+      "treatment": "Ribavirin if started early",
+      "lecture": "L168"
+    },
+    {
+      "name": "Pneumocystis jirovecii",
+      "geography": "Worldwide",
+      "disease": "Pneumocystis pneumonia (PCP)",
+      "symptoms": "Subacute dry cough and dyspnea; ground-glass opacities; occurs at CD4 < 200",
+      "treatment": "TMP-SMX; add steroids if PaO2 < 70",
+      "lecture": "L169"
+    },
+    {
+      "name": "Toxoplasma gondii",
+      "geography": "Worldwide",
+      "disease": "Cerebral Toxoplasmosis",
+      "symptoms": "Headache or seizure; multiple ring-enhancing basal ganglia lesions on MRI",
+      "treatment": "Pyrimethamine plus sulfadiazine",
+      "lecture": "L169"
+    },
+    {
+      "name": "JC virus",
+      "geography": "Worldwide",
+      "disease": "Progressive Multifocal Leukoencephalopathy (PML)",
+      "symptoms": "Subacute cognitive decline; non-enhancing white matter lesions on MRI",
+      "treatment": "No specific therapy; restore immunity with ART",
+      "lecture": "L169"
+    },
+    {
+      "name": "Cryptococcus neoformans",
+      "geography": "Worldwide (bird droppings)",
+      "disease": "Cryptococcal Meningitis",
+      "symptoms": "Headache with high intracranial pressure; encapsulated yeast on India ink",
+      "treatment": "Amphotericin B plus flucytosine; serial LPs for pressure",
+      "lecture": "L169"
+    },
+    {
+      "name": "Mycobacterium avium complex",
+      "geography": "Worldwide",
+      "disease": "Disseminated MAC",
+      "symptoms": "High fevers, night sweats, elevated alkaline phosphatase; CD4 < 50",
+      "treatment": "Azithromycin/clarithromycin plus ethambutol (plus rifabutin)",
+      "lecture": "L169"
+    },
+    {
+      "name": "Cytomegalovirus (CMV)",
+      "geography": "Worldwide",
+      "disease": "CMV Retinitis / Colitis",
+      "symptoms": "Pizza-pie retina (hemorrhage plus exudates); deep linear esophageal ulcers; CD4 < 50",
+      "treatment": "Ganciclovir or valganciclovir",
+      "lecture": "L169"
+    },
+    {
+      "name": "Clostridioides difficile",
+      "geography": "Worldwide",
+      "disease": "Pseudomembranous colitis",
+      "symptoms": "Watery diarrhea after broad-spectrum antibiotic use disrupts microbiome",
+      "treatment": "Oral vancomycin or fidaxomicin",
+      "lecture": "L169"
+    }
+  ],
+  "drugs": [
+    {
+      "name": "Unfractionated Heparin",
+      "disease": "Acute thrombosis prevention/treatment (DVT, PE, ACS)",
+      "mechanism": "Binds antithrombin III, accelerating inactivation of thrombin (IIa) and factor Xa",
+      "adverseEffects": "Heparin-induced thrombocytopenia (HIT); bleeding (reverse with protamine)",
+      "lecture": "L164"
+    },
+    {
+      "name": "Low Molecular Weight Heparin (Enoxaparin)",
+      "disease": "DVT/PE treatment and prophylaxis; anticoagulation in pregnancy",
+      "mechanism": "Antithrombin-mediated inhibition predominantly of factor Xa",
+      "adverseEffects": "Bleeding; lower HIT risk; accumulates in renal failure",
+      "lecture": "L164"
+    },
+    {
+      "name": "Fondaparinux",
+      "disease": "Anticoagulation, preferred if history of HIT",
+      "mechanism": "Synthetic pentasaccharide that exclusively inhibits factor Xa via antithrombin",
+      "adverseEffects": "Bleeding",
+      "lecture": "L164"
+    },
+    {
+      "name": "Warfarin",
+      "disease": "Long-term anticoagulation (AFib, mechanical valves, DVT/PE)",
+      "mechanism": "Inhibits VKORC1, blocking gamma-carboxylation of factors II, VII, IX, X and proteins C/S",
+      "adverseEffects": "Bleeding, skin necrosis, teratogenic (reverse with vitamin K or PCC/FFP)",
+      "lecture": "L164"
+    },
+    {
+      "name": "Rivaroxaban / Apixaban",
+      "disease": "AFib stroke prevention and DVT/PE treatment",
+      "mechanism": "Direct oral inhibitors of factor Xa",
+      "adverseEffects": "Bleeding (reverse with andexanet alfa)",
+      "lecture": "L164"
+    },
+    {
+      "name": "Dabigatran",
+      "disease": "AFib stroke prevention and DVT/PE treatment",
+      "mechanism": "Direct oral inhibitor binding the active site of thrombin (IIa)",
+      "adverseEffects": "GI dyspepsia; bleeding (reverse with idarucizumab)",
+      "lecture": "L164"
+    },
+    {
+      "name": "Argatroban",
+      "disease": "Anticoagulation in active HIT",
+      "mechanism": "Direct thrombin inhibitor",
+      "adverseEffects": "Bleeding",
+      "lecture": "L164"
+    },
+    {
+      "name": "Aspirin",
+      "disease": "Antiplatelet prophylaxis for MI and stroke",
+      "mechanism": "Irreversibly acetylates COX-1, abolishing thromboxane A2 synthesis",
+      "adverseEffects": "GI ulcers; tinnitus and mixed acid-base disturbance at high doses",
+      "lecture": "L165"
+    },
+    {
+      "name": "Clopidogrel",
+      "disease": "Antiplatelet therapy for ACS and post-stent",
+      "mechanism": "Irreversible P2Y12 ADP-receptor blocker; prodrug activated by CYP2C19",
+      "adverseEffects": "Bleeding; ineffective in CYP2C19 poor metabolizers; rare neutropenia",
+      "lecture": "L165"
+    },
+    {
+      "name": "Ticagrelor",
+      "disease": "Antiplatelet therapy for ACS",
+      "mechanism": "Reversible P2Y12 inhibitor not requiring hepatic activation",
+      "adverseEffects": "Dyspnea unrelated to heart failure; bleeding",
+      "lecture": "L165"
+    },
+    {
+      "name": "Abciximab",
+      "disease": "Antiplatelet therapy during PCI",
+      "mechanism": "Blocks GpIIb/IIIa receptor, preventing fibrinogen-mediated platelet aggregation",
+      "adverseEffects": "Thrombocytopenia; bleeding",
+      "lecture": "L165"
+    },
+    {
+      "name": "Alteplase (tPA)",
+      "disease": "Acute ischemic stroke and STEMI",
+      "mechanism": "Converts plasminogen to plasmin, which digests the fibrin mesh of a clot",
+      "adverseEffects": "Intracranial hemorrhage; contraindicated with prior ICH",
+      "lecture": "L165"
+    },
+    {
+      "name": "Aminocaproic Acid / Tranexamic Acid",
+      "disease": "Reversal of fibrinolytic (tPA) overdose; bleeding control",
+      "mechanism": "Lysine analog that blocks plasminogen activation and binding to fibrin",
+      "adverseEffects": "Thrombosis risk",
+      "lecture": "L165"
+    },
+    {
+      "name": "NRTIs (Zidovudine, Tenofovir)",
+      "disease": "HIV infection (component of ART)",
+      "mechanism": "Phosphorylated nucleoside analogs that cause viral DNA chain termination",
+      "adverseEffects": "Marrow suppression (AZT); Abacavir hypersensitivity (HLA-B*5701)",
+      "lecture": "L167"
+    },
+    {
+      "name": "NNRTIs (Efavirenz)",
+      "disease": "HIV infection (component of ART)",
+      "mechanism": "Bind reverse transcriptase at a non-active site; no phosphorylation needed",
+      "adverseEffects": "CNS/neuropsychiatric effects, rash",
+      "lecture": "L167"
+    },
+    {
+      "name": "Protease Inhibitors (-navir)",
+      "disease": "HIV infection (component of ART)",
+      "mechanism": "Block HIV protease, preventing cleavage of polyproteins and viral maturation",
+      "adverseEffects": "Metabolic effects (lipodystrophy, hyperglycemia)",
+      "lecture": "L167"
+    },
+    {
+      "name": "Integrase Inhibitors (-tegravir)",
+      "disease": "HIV infection (component of ART)",
+      "mechanism": "Block integrase, preventing viral DNA insertion into the host genome",
+      "adverseEffects": "Generally well tolerated",
+      "lecture": "L167"
+    },
+    {
+      "name": "Maraviroc",
+      "disease": "HIV infection (CCR5-tropic strains)",
+      "mechanism": "Entry inhibitor that binds the CCR5 co-receptor blocking viral attachment",
+      "adverseEffects": "Ineffective against CXCR4-tropic virus (requires tropism assay)",
+      "lecture": "L167"
+    },
+    {
+      "name": "Tenofovir/Emtricitabine (PrEP)",
+      "disease": "HIV pre-exposure prophylaxis in high-risk individuals",
+      "mechanism": "Daily NRTI combination preventing establishment of HIV infection",
+      "adverseEffects": "Renal effects, bone density loss",
+      "lecture": "L167"
+    },
+    {
+      "name": "Chloroquine / Hydroxychloroquine",
+      "disease": "Chloroquine-sensitive malaria (treatment and prophylaxis)",
+      "mechanism": "Blocks heme polymerization into hemozoin, so toxic free heme damages parasite",
+      "adverseEffects": "Retinopathy and cardiotoxicity with chronic high-dose use",
+      "lecture": "L172"
+    },
+    {
+      "name": "Mefloquine",
+      "disease": "Malaria prophylaxis in chloroquine-resistant areas",
+      "mechanism": "Blood schizonticide of unclear mechanism",
+      "adverseEffects": "Neuropsychiatric effects including vivid dreams and frank psychosis",
+      "lecture": "L172"
+    },
+    {
+      "name": "Atovaquone-Proguanil",
+      "disease": "Malaria prophylaxis and treatment (chloroquine-resistant)",
+      "mechanism": "Atovaquone collapses parasite mitochondrial bc1; proguanil inhibits DHFR",
+      "adverseEffects": "Generally well tolerated; GI upset, headache, transaminitis",
+      "lecture": "L172"
+    },
+    {
+      "name": "Artemisinins (Artemether, Artesunate)",
+      "disease": "First-line treatment of falciparum malaria",
+      "mechanism": "Endoperoxide bridge cleaved by heme generates radicals damaging the parasite",
+      "adverseEffects": "Generally well tolerated; black-water fever at high parasite burden",
+      "lecture": "L172"
+    },
+    {
+      "name": "Quinine",
+      "disease": "Treatment of chloroquine-resistant malaria (with doxycycline)",
+      "mechanism": "Blood schizonticide of poorly understood mechanism",
+      "adverseEffects": "Cinchonism (tinnitus earliest); hypoglycemia; QT prolongation",
+      "lecture": "L172"
+    },
+    {
+      "name": "Primaquine",
+      "disease": "Radical cure of P. vivax/ovale (hypnozoite eradication)",
+      "mechanism": "8-aminoquinoline generating reactive oxygen species in parasite mitochondria",
+      "adverseEffects": "Acute hemolytic anemia in G6PD deficiency; screen G6PD first",
+      "lecture": "L172"
+    },
+    {
+      "name": "Tafenoquine",
+      "disease": "Radical cure and prophylaxis of malaria",
+      "mechanism": "Long-acting 8-aminoquinoline generating reactive oxygen species",
+      "adverseEffects": "Hemolysis in G6PD deficiency (requires activity >=70%)",
+      "lecture": "L172"
+    },
+    {
+      "name": "Sulfadoxine-Pyrimethamine",
+      "disease": "Intermittent preventive treatment of malaria in pregnancy (IPTp)",
+      "mechanism": "Synergistic folate inhibition (blocks dihydropteroate synthase and DHFR)",
+      "adverseEffects": "Stevens-Johnson syndrome/TEN; megaloblastic anemia",
+      "lecture": "L172"
+    },
+    {
+      "name": "Doxycycline (antimalarial use)",
+      "disease": "Malaria prophylaxis and adjunct to quinine treatment",
+      "mechanism": "Inhibits the parasite apicoplast causing delayed death",
+      "adverseEffects": "Photosensitivity; tooth enamel staining (avoid age <8 and pregnancy)",
+      "lecture": "L172"
+    },
+    {
+      "name": "TMP-SMX",
+      "disease": "Treatment and prophylaxis of Pneumocystis pneumonia",
+      "mechanism": "Sequential folate-synthesis inhibition",
+      "adverseEffects": "Sulfa hypersensitivity; rash; marrow suppression",
+      "lecture": "L169"
+    },
+    {
+      "name": "Amphotericin B",
+      "disease": "Induction therapy for cryptococcal meningitis",
+      "mechanism": "Binds ergosterol forming membrane pores in fungal cells",
+      "adverseEffects": "Nephrotoxicity, infusion reactions, electrolyte wasting",
+      "lecture": "L169"
+    },
+    {
+      "name": "Eculizumab",
+      "disease": "Complement-mediated disease (PNH, atypical HUS)",
+      "mechanism": "Monoclonal antibody inhibiting complement C5",
+      "adverseEffects": "Predisposes to Neisseria infections (impaired membrane attack complex)",
+      "lecture": "L169"
+    }
+  ],
+  "correlates": [
+    {
+      "name": "Immune Thrombocytopenic Purpura (ITP)",
+      "pathophysiology": "IgG autoantibodies against GpIIb/IIIa drive splenic macrophage destruction of platelets",
+      "treatment": "Corticosteroids, IVIG; splenectomy in refractory cases",
+      "lecture": "L161"
+    },
+    {
+      "name": "Thrombotic Thrombocytopenic Purpura (TTP)",
+      "pathophysiology": "ADAMTS13 deficiency leaves large vWF multimers that trap platelets into microthrombi",
+      "treatment": "Plasma exchange; avoid platelet transfusion",
+      "lecture": "L161"
+    },
+    {
+      "name": "Hemolytic Uremic Syndrome (HUS)",
+      "pathophysiology": "Shiga-like toxin from E. coli O157:H7 injures endothelium causing renal microthrombi",
+      "treatment": "Supportive care; dialysis as needed",
+      "lecture": "L161"
+    },
+    {
+      "name": "Hemophilia",
+      "pathophysiology": "X-linked deficiency of factor VIII (A) or factor IX (B) impairs secondary hemostasis",
+      "treatment": "Factor replacement (VIII or IX)",
+      "lecture": "L161"
+    },
+    {
+      "name": "von Willebrand Disease",
+      "pathophysiology": "vWF deficiency impairs platelet adhesion and destabilizes factor VIII (double hit)",
+      "treatment": "Desmopressin (DDAVP)",
+      "lecture": "L161"
+    },
+    {
+      "name": "Disseminated Intravascular Coagulation (DIC)",
+      "pathophysiology": "Systemic insult triggers widespread clotting that consumes platelets and factors",
+      "treatment": "Treat underlying cause; transfuse platelets, FFP, cryoprecipitate",
+      "lecture": "L161"
+    },
+    {
+      "name": "Bernard-Soulier Syndrome",
+      "pathophysiology": "GpIb deficiency impairs platelet adhesion; giant platelets on smear",
+      "treatment": "Platelet transfusion for bleeding",
+      "lecture": "L161"
+    },
+    {
+      "name": "Glanzmann Thrombasthenia",
+      "pathophysiology": "GpIIb/IIIa deficiency prevents platelet aggregation",
+      "treatment": "Platelet transfusion for bleeding",
+      "lecture": "L161"
+    },
+    {
+      "name": "Waterhouse-Friderichsen Syndrome",
+      "pathophysiology": "Bilateral adrenal hemorrhage from DIC during meningococcemia",
+      "treatment": "Emergent corticosteroids and antibiotics for the sepsis",
+      "lecture": "L161"
+    },
+    {
+      "name": "Factor V Leiden",
+      "pathophysiology": "Mutant factor V resists inactivation by activated protein C, causing hypercoagulability",
+      "treatment": "Anticoagulation after a thrombotic event",
+      "lecture": "L162"
+    },
+    {
+      "name": "Pulmonary Embolism",
+      "pathophysiology": "Embolized DVT lodges in the pulmonary arteries; saddle embolus causes sudden death",
+      "treatment": "Anticoagulation; thrombolysis for massive PE",
+      "lecture": "L162"
+    },
+    {
+      "name": "Fat Embolism Syndrome",
+      "pathophysiology": "Marrow fat enters circulation after long bone fracture",
+      "treatment": "Supportive respiratory care",
+      "lecture": "L162"
+    },
+    {
+      "name": "Trousseau Syndrome",
+      "pathophysiology": "Occult malignancy releases procoagulants causing migratory thrombophlebitis",
+      "treatment": "Anticoagulation and treat underlying cancer",
+      "lecture": "L162"
+    },
+    {
+      "name": "Splenic Sequestration Crisis",
+      "pathophysiology": "Sickle cell spleen suddenly traps a large blood volume causing hypovolemic shock",
+      "treatment": "Emergent transfusion; splenectomy for recurrence",
+      "lecture": "L163"
+    },
+    {
+      "name": "Aplastic Crisis",
+      "pathophysiology": "Parvovirus B19 infects erythroid precursors halting RBC production (reticulocytes zero)",
+      "treatment": "Transfusion support until marrow recovers",
+      "lecture": "L163"
+    },
+    {
+      "name": "Acute Chest Syndrome",
+      "pathophysiology": "Pulmonary vaso-occlusion in sickle cell disease causing new infiltrate and hypoxia",
+      "treatment": "Oxygen, antibiotics, transfusion, analgesia",
+      "lecture": "L163"
+    },
+    {
+      "name": "Diamond-Blackfan Anemia",
+      "pathophysiology": "Congenital pure red cell aplasia with macrocytic anemia and triphalangeal thumbs",
+      "treatment": "Corticosteroids; transfusions",
+      "lecture": "L163"
+    },
+    {
+      "name": "Warfarin-Induced Skin Necrosis",
+      "pathophysiology": "Rapid protein C drop on starting warfarin causes transient hypercoagulable microthrombosis",
+      "treatment": "Bridge with heparin when initiating warfarin",
+      "lecture": "L164"
+    },
+    {
+      "name": "Heparin-Induced Thrombocytopenia (HIT)",
+      "pathophysiology": "IgG against heparin-PF4 complexes activates platelets causing thrombosis and low counts",
+      "treatment": "Stop heparin; start a direct thrombin inhibitor (argatroban)",
+      "lecture": "L164"
+    },
+    {
+      "name": "Bacillary Angiomatosis",
+      "pathophysiology": "Bartonella infection of vascular endothelium causes proliferative red-purple skin nodules in AIDS",
+      "treatment": "Erythromycin or doxycycline",
+      "lecture": "L166"
+    },
+    {
+      "name": "Acute Retroviral Syndrome",
+      "pathophysiology": "Initial high-level HIV viremia 2-4 weeks after exposure causes a mononucleosis-like illness",
+      "treatment": "Initiate antiretroviral therapy",
+      "lecture": "L167"
+    },
+    {
+      "name": "AIDS",
+      "pathophysiology": "Progressive HIV depletion of CD4 T-cells below 200 enabling opportunistic infections",
+      "treatment": "Lifelong antiretroviral therapy plus opportunistic infection prophylaxis",
+      "lecture": "L167"
+    },
+    {
+      "name": "Dengue Hemorrhagic Fever",
+      "pathophysiology": "Antibody-dependent enhancement on a second dengue serotype boosts viral entry and inflammation",
+      "treatment": "Aggressive supportive fluid management",
+      "lecture": "L168"
+    },
+    {
+      "name": "Immune Reconstitution Inflammatory Syndrome (IRIS)",
+      "pathophysiology": "Rising CD4 count after starting ART triggers a violent inflammatory response to existing pathogen burden",
+      "treatment": "Delay ART 2-4 weeks after treating the opportunistic infection",
+      "lecture": "L169"
+    },
+    {
+      "name": "Cerebral (Severe) Falciparum Malaria",
+      "pathophysiology": "Infected RBCs adhere to brain endothelium causing microvascular obstruction and hyperparasitemia",
+      "treatment": "IV artesunate, then transition to oral ACT",
+      "lecture": "L172"
+    },
+    {
+      "name": "G6PD Deficiency",
+      "pathophysiology": "X-linked G6PD loss prevents NADPH/glutathione regeneration, causing oxidative hemolysis",
+      "treatment": "Remove oxidative trigger; supportive care; transfuse if severe",
+      "lecture": "L172"
+    },
+    {
+      "name": "Black-Water Fever",
+      "pathophysiology": "Massive intravascular hemolysis in severe malaria causing hemoglobinuria and AKI",
+      "treatment": "Supportive care with antimalarial therapy",
+      "lecture": "L172"
+    }
+  ]
+}

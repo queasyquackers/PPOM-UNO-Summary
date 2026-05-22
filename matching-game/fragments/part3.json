@@ -1,0 +1,776 @@
+{
+  "bugs": [
+    {
+      "name": "Entamoeba histolytica",
+      "geography": "Mexico, Central/South America, India, Africa",
+      "disease": "Amebiasis / amebic liver abscess",
+      "symptoms": "Bloody diarrhea; RUQ pain with 'anchovy paste' liver abscess",
+      "treatment": "Metronidazole followed by paromomycin (luminal)",
+      "lecture": "L173"
+    },
+    {
+      "name": "Giardia lamblia",
+      "geography": "Worldwide (contaminated water)",
+      "disease": "Giardiasis",
+      "symptoms": "Foul-smelling, fatty, non-bloody diarrhea and bloating",
+      "treatment": "Metronidazole",
+      "lecture": "L173"
+    },
+    {
+      "name": "Trichomonas vaginalis",
+      "geography": "Worldwide (sexually transmitted)",
+      "disease": "Trichomoniasis",
+      "symptoms": "Frothy green-yellow discharge; strawberry cervix; motile trophozoite",
+      "treatment": "Metronidazole (treat sexual partners)",
+      "lecture": "L173"
+    },
+    {
+      "name": "Trypanosoma brucei gambiense",
+      "geography": "West and Central Africa",
+      "disease": "West African sleeping sickness (chronic HAT)",
+      "symptoms": "Chronic course; Winterbottom's sign; somnolence progressing to coma",
+      "treatment": "Fexinidazole (oral); NECT for severe CNS disease",
+      "lecture": "L173"
+    },
+    {
+      "name": "Trypanosoma brucei rhodesiense",
+      "geography": "East and Southern Africa",
+      "disease": "East African sleeping sickness (acute HAT)",
+      "symptoms": "Acute, rapidly fatal; fever, lymphadenopathy, CNS decline",
+      "treatment": "Fexinidazole early; melarsoprol + prednisolone for late CNS",
+      "lecture": "L173"
+    },
+    {
+      "name": "Trypanosoma cruzi",
+      "geography": "Mexico, Central and South America",
+      "disease": "Chagas disease",
+      "symptoms": "Romaña sign acutely; dilated cardiomyopathy, megaesophagus, megacolon",
+      "treatment": "Benznidazole (preferred); nifurtimox alternative",
+      "lecture": "L173"
+    },
+    {
+      "name": "Leishmania donovani",
+      "geography": "India, East Africa, endemic tropics",
+      "disease": "Visceral leishmaniasis (kala-azar)",
+      "symptoms": "Fever, weight loss, hepatosplenomegaly, pancytopenia; fatal if untreated",
+      "treatment": "Liposomal amphotericin B",
+      "lecture": "L173"
+    },
+    {
+      "name": "Leishmania braziliensis",
+      "geography": "Central and South America",
+      "disease": "Mucocutaneous leishmaniasis (espundia)",
+      "symptoms": "Disfiguring nasal and oropharyngeal mucosal destruction",
+      "treatment": "Liposomal amphotericin B or pentavalent antimonials",
+      "lecture": "L173"
+    },
+    {
+      "name": "Toxoplasma gondii",
+      "geography": "Worldwide (cat reservoir)",
+      "disease": "Toxoplasmosis",
+      "symptoms": "Ring-enhancing brain lesions in AIDS; congenital chorioretinitis-hydrocephalus-calcifications",
+      "treatment": "Pyrimethamine + sulfadiazine + leucovorin",
+      "lecture": "L173"
+    },
+    {
+      "name": "Staphylococcus aureus",
+      "geography": "Worldwide (30-60% nasal colonization)",
+      "disease": "Pyogenic skin infection (boils, abscesses)",
+      "symptoms": "Furuncle/carbuncle; pus-producing wound; coagulase-positive",
+      "treatment": "Nafcillin/oxacillin; vancomycin if MRSA",
+      "lecture": "L176"
+    },
+    {
+      "name": "Staphylococcus epidermidis",
+      "geography": "Worldwide (universal skin commensal)",
+      "disease": "Prosthetic device / catheter infection",
+      "symptoms": "Indolent device infection; biofilm-forming, coagulase-negative",
+      "treatment": "Vancomycin plus device removal",
+      "lecture": "L176"
+    },
+    {
+      "name": "Staphylococcus saprophyticus",
+      "geography": "Worldwide",
+      "disease": "UTI in young sexually-active women",
+      "symptoms": "Dysuria, frequency; coagulase-negative, novobiocin-resistant",
+      "treatment": "TMP-SMX or nitrofurantoin",
+      "lecture": "L176"
+    },
+    {
+      "name": "Streptococcus pyogenes",
+      "geography": "Worldwide",
+      "disease": "Cellulitis, erysipelas, necrotizing fasciitis",
+      "symptoms": "Bright raised erysipelas; pharyngitis; pain out of proportion in nec fasc",
+      "treatment": "Penicillin; surgical debridement for necrotizing fasciitis",
+      "lecture": "L176"
+    },
+    {
+      "name": "Pseudomonas aeruginosa",
+      "geography": "Worldwide (moist environments)",
+      "disease": "Ecthyma gangrenosum / hot tub folliculitis",
+      "symptoms": "Necrotic ulcer with black eschar in neutropenia; blue-green pigment",
+      "treatment": "Anti-pseudomonal beta-lactam (cefepime, piperacillin-tazobactam)",
+      "lecture": "L176"
+    },
+    {
+      "name": "Cutibacterium acnes",
+      "geography": "Worldwide (pilosebaceous units)",
+      "disease": "Acne vulgaris",
+      "symptoms": "Inflammatory comedones; gram-positive aerotolerant rod",
+      "treatment": "Topical retinoids, benzoyl peroxide, antibiotics",
+      "lecture": "L176"
+    },
+    {
+      "name": "Actinomyces israelii",
+      "geography": "Worldwide (oral flora)",
+      "disease": "Cervicofacial actinomycosis (lumpy jaw)",
+      "symptoms": "Lumpy jaw with draining sinus tracts; yellow sulfur granules",
+      "treatment": "Prolonged penicillin G",
+      "lecture": "L176"
+    },
+    {
+      "name": "Mycobacterium ulcerans",
+      "geography": "Tropical Africa and Asia (aquatic areas)",
+      "disease": "Buruli ulcer",
+      "symptoms": "Painless slowly enlarging skin ulcer with undermined edges",
+      "treatment": "Rifampin + streptomycin or clarithromycin",
+      "lecture": "L176"
+    },
+    {
+      "name": "Parvovirus B19",
+      "geography": "Worldwide",
+      "disease": "Erythema infectiosum (fifth disease)",
+      "symptoms": "Slapped-cheek rash, lacy reticular trunk rash; aplastic crisis, hydrops fetalis",
+      "treatment": "Supportive; IVIG or intrauterine transfusion in at-risk groups",
+      "lecture": "L176"
+    },
+    {
+      "name": "Yersinia pestis",
+      "geography": "Southwestern US (sylvatic), endemic worldwide",
+      "disease": "Plague (bubonic, pneumonic, septicemic)",
+      "symptoms": "Painful inguinal buboes; flea bite; digital gangrene",
+      "treatment": "Streptomycin or gentamicin",
+      "lecture": "L177"
+    },
+    {
+      "name": "Yersinia enterocolitica",
+      "geography": "Worldwide (contaminated meat/milk)",
+      "disease": "Pseudoappendicitis / mesenteric adenitis",
+      "symptoms": "RLQ pain mimicking appendicitis with bloody diarrhea in a child",
+      "treatment": "Often self-limited; severe cases doxycycline or TMP-SMX",
+      "lecture": "L177"
+    },
+    {
+      "name": "Bacillus anthracis",
+      "geography": "Worldwide (animal hides/wool)",
+      "disease": "Anthrax (cutaneous, GI, inhalation)",
+      "symptoms": "Painless black eschar with edema; mediastinal widening in inhalation form",
+      "treatment": "Ciprofloxacin or doxycycline plus additional agents",
+      "lecture": "L177"
+    },
+    {
+      "name": "Borrelia burgdorferi",
+      "geography": "Northeast and upper Midwest US",
+      "disease": "Lyme disease",
+      "symptoms": "Erythema migrans bull's-eye rash; AV block, Bell's palsy, Lyme arthritis",
+      "treatment": "Doxycycline; ceftriaxone for cardiac/neuro/arthritic disease",
+      "lecture": "L177"
+    },
+    {
+      "name": "Borrelia recurrentis",
+      "geography": "Refugee camps, war zones (Ethiopia, Sudan, Somalia)",
+      "disease": "Louse-borne relapsing fever",
+      "symptoms": "Recurrent febrile episodes from antigenic variation",
+      "treatment": "Tetracycline",
+      "lecture": "L177"
+    },
+    {
+      "name": "Leptospira interrogans",
+      "geography": "Tropical regions; Hawaii in the US",
+      "disease": "Leptospirosis (Weil disease if severe)",
+      "symptoms": "Calf myalgias, conjunctival suffusion; jaundice and AKI in Weil disease",
+      "treatment": "Doxycycline (mild); IV penicillin (severe)",
+      "lecture": "L177"
+    },
+    {
+      "name": "Rickettsia rickettsii",
+      "geography": "Southeastern US (NC, TN, AR, MO, VA)",
+      "disease": "Rocky Mountain spotted fever",
+      "symptoms": "Fever, headache; rash starting on wrists/ankles spreading centripetally",
+      "treatment": "Doxycycline (empirically, even in children)",
+      "lecture": "L177"
+    },
+    {
+      "name": "Rickettsia prowazekii",
+      "geography": "Crowding/war zones; flying squirrels in the US",
+      "disease": "Epidemic typhus",
+      "symptoms": "Fever, headache, centrifugal rash sparing palms/soles; Brill-Zinsser recrudescence",
+      "treatment": "Doxycycline",
+      "lecture": "L177"
+    },
+    {
+      "name": "Ehrlichia chaffeensis",
+      "geography": "Southeastern and south-central US",
+      "disease": "Human monocytic ehrlichiosis",
+      "symptoms": "Fever, leukopenia, thrombocytopenia; morulae in monocytes",
+      "treatment": "Doxycycline",
+      "lecture": "L177"
+    },
+    {
+      "name": "Anaplasma phagocytophilum",
+      "geography": "Northeast and upper Midwest US",
+      "disease": "Human granulocytic anaplasmosis",
+      "symptoms": "Fever, leukopenia, thrombocytopenia; morulae in neutrophils",
+      "treatment": "Doxycycline",
+      "lecture": "L177"
+    },
+    {
+      "name": "Coxiella burnetii",
+      "geography": "Worldwide (livestock-associated)",
+      "disease": "Q fever",
+      "symptoms": "Atypical pneumonia and granulomatous hepatitis; culture-negative endocarditis",
+      "treatment": "Doxycycline; add hydroxychloroquine for chronic endocarditis",
+      "lecture": "L177"
+    },
+    {
+      "name": "Francisella tularensis",
+      "geography": "South-central US (Arkansas, Oklahoma, Missouri)",
+      "disease": "Tularemia (rabbit fever)",
+      "symptoms": "Ulceroglandular: skin ulcer with regional lymphadenopathy; very low infectious dose",
+      "treatment": "Streptomycin or gentamicin",
+      "lecture": "L177"
+    },
+    {
+      "name": "Brucella melitensis",
+      "geography": "Mediterranean, Middle East, Latin America",
+      "disease": "Brucellosis (undulant fever)",
+      "symptoms": "Undulant fevers, night sweats, back pain; from unpasteurized dairy",
+      "treatment": "Doxycycline + rifampin for 6 weeks",
+      "lecture": "L177"
+    },
+    {
+      "name": "Cryptococcus neoformans",
+      "geography": "Worldwide (soil with bird droppings)",
+      "disease": "Cryptococcal meningitis",
+      "symptoms": "Subacute headache, fever, meningismus in AIDS; India ink-positive yeast",
+      "treatment": "Liposomal amphotericin B + flucytosine, then fluconazole",
+      "lecture": "L178"
+    },
+    {
+      "name": "Candida albicans",
+      "geography": "Worldwide",
+      "disease": "Candidiasis / candidemia",
+      "symptoms": "Oral thrush, esophageal/vaginal candidiasis; bloodstream infection",
+      "treatment": "Echinocandin for candidemia; fluconazole for mucosal disease",
+      "lecture": "L178"
+    },
+    {
+      "name": "Aspergillus fumigatus",
+      "geography": "Worldwide",
+      "disease": "Invasive aspergillosis",
+      "symptoms": "Halo sign on chest CT in neutropenia; positive galactomannan",
+      "treatment": "Voriconazole",
+      "lecture": "L178"
+    },
+    {
+      "name": "Mucorales",
+      "geography": "Worldwide",
+      "disease": "Mucormycosis",
+      "symptoms": "Rhino-orbital-cerebral invasion in diabetic ketoacidosis and transplant patients",
+      "treatment": "Liposomal amphotericin B plus emergent surgical debridement",
+      "lecture": "L178"
+    },
+    {
+      "name": "Dermatophytes (Trichophyton)",
+      "geography": "Worldwide",
+      "disease": "Tinea / onychomycosis",
+      "symptoms": "Annular scaly tinea plaques; thickened discolored nails",
+      "treatment": "Topical antifungals; oral terbinafine for onychomycosis",
+      "lecture": "L178"
+    },
+    {
+      "name": "Malassezia furfur",
+      "geography": "Worldwide (sebum-rich skin)",
+      "disease": "Seborrheic dermatitis",
+      "symptoms": "Greasy yellow scaly plaques on scalp, eyebrows, nasolabial folds",
+      "treatment": "Ketoconazole shampoo, topical corticosteroids",
+      "lecture": "L181"
+    },
+    {
+      "name": "Rubella virus",
+      "geography": "Worldwide (unvaccinated populations)",
+      "disease": "Rubella (German measles)",
+      "symptoms": "Mild fine maculopapular rash; posterior auricular lymphadenopathy",
+      "treatment": "Supportive; prevented by MMR vaccine",
+      "lecture": "L180"
+    },
+    {
+      "name": "Measles virus",
+      "geography": "Worldwide (unvaccinated populations)",
+      "disease": "Measles (rubeola)",
+      "symptoms": "Cough, coryza, conjunctivitis, Koplik spots; cephalocaudal rash",
+      "treatment": "Supportive; vitamin A in severe cases; MMR for prevention",
+      "lecture": "L180"
+    },
+    {
+      "name": "Human herpesvirus 6",
+      "geography": "Worldwide",
+      "disease": "Roseola (sixth disease)",
+      "symptoms": "High fever 3-5 days then rash appears as fever defervesces",
+      "treatment": "Supportive",
+      "lecture": "L180"
+    },
+    {
+      "name": "Varicella-zoster virus",
+      "geography": "Worldwide",
+      "disease": "Chickenpox / shingles",
+      "symptoms": "Dewdrop-on-rose-petal vesicles in varying stages; dermatomal rash in zoster",
+      "treatment": "Acyclovir/valacyclovir; varicella and Shingrix vaccines",
+      "lecture": "L180"
+    },
+    {
+      "name": "Herpes simplex virus",
+      "geography": "Worldwide",
+      "disease": "Herpes labialis / genital herpes",
+      "symptoms": "Recurrent grouped vesicles on erythematous base; prodromal tingling",
+      "treatment": "Acyclovir, valacyclovir, or famciclovir",
+      "lecture": "L180"
+    },
+    {
+      "name": "Coxsackievirus A16",
+      "geography": "Worldwide (summer/fall outbreaks)",
+      "disease": "Hand-foot-mouth disease",
+      "symptoms": "Painful oral ulcers plus vesicles on palms, soles, and buttocks",
+      "treatment": "Supportive",
+      "lecture": "L180"
+    },
+    {
+      "name": "Molluscum contagiosum virus",
+      "geography": "Worldwide",
+      "disease": "Molluscum contagiosum",
+      "symptoms": "Discrete flesh-colored dome-shaped papules with central umbilication",
+      "treatment": "Self-resolving; curettage or cryotherapy if treated",
+      "lecture": "L180"
+    },
+    {
+      "name": "Monkeypox virus",
+      "geography": "Central/West Africa; global 2022 outbreak",
+      "disease": "Mpox (monkeypox)",
+      "symptoms": "Centripetal rash including palms/soles; all lesions at same stage",
+      "treatment": "Supportive; tecovirimat for severe cases",
+      "lecture": "L180"
+    }
+  ],
+  "drugs": [
+    {
+      "name": "Metronidazole",
+      "disease": "Amebiasis, giardiasis, trichomoniasis, anaerobic infections",
+      "mechanism": "Prodrug activated by parasite nitroreductase to DNA-damaging radicals",
+      "adverseEffects": "Metallic taste; disulfiram-like reaction with alcohol",
+      "lecture": "L173"
+    },
+    {
+      "name": "Paromomycin",
+      "disease": "Luminal eradication of intestinal amebic cysts",
+      "mechanism": "Aminoglycoside binding 16S rRNA on 30S ribosome; not orally absorbed",
+      "adverseEffects": "GI upset only (oral); aminoglycoside toxicity if parenteral",
+      "lecture": "L173"
+    },
+    {
+      "name": "Fexinidazole",
+      "disease": "Early- and late-stage African trypanosomiasis (sleeping sickness)",
+      "mechanism": "Nitroimidazole activated by nitroreductase; oral, crosses the BBB",
+      "adverseEffects": "Relapse if 24-month follow-up not feasible",
+      "lecture": "L173"
+    },
+    {
+      "name": "Pentamidine",
+      "disease": "Early-stage Gambiense HAT in young children",
+      "mechanism": "Binds parasite kinetoplast DNA; IV/IM only, poor CNS penetration",
+      "adverseEffects": "Hypoglycemia then hyperglycemia; nephrotoxicity, hypotension",
+      "lecture": "L173"
+    },
+    {
+      "name": "Suramin",
+      "disease": "Early-stage Rhodesiense HAT in young children",
+      "mechanism": "Polyanion inhibiting parasite glycolytic enzymes and NADH oxidation",
+      "adverseEffects": "Immediate hypersensitivity shock; nephrotoxicity, neuropathy",
+      "lecture": "L173"
+    },
+    {
+      "name": "Eflornithine",
+      "disease": "Severe late-stage Gambiense HAT (part of NECT)",
+      "mechanism": "Suicide inhibitor of ornithine decarboxylase, blocking polyamine synthesis",
+      "adverseEffects": "Bone marrow suppression; IV-only administration",
+      "lecture": "L173"
+    },
+    {
+      "name": "Melarsoprol",
+      "disease": "Late-stage Rhodesiense HAT with CNS involvement",
+      "mechanism": "Trivalent arsenical binding parasite trypanothione and enzymes",
+      "adverseEffects": "Reactive encephalopathy (sometimes fatal); coadminister prednisolone",
+      "lecture": "L173"
+    },
+    {
+      "name": "Benznidazole",
+      "disease": "Chagas disease (acute and early seropositive)",
+      "mechanism": "Nitroreductase-activated free radical generator",
+      "adverseEffects": "Photosensitive dermatitis; peripheral neuropathy; marrow suppression",
+      "lecture": "L173"
+    },
+    {
+      "name": "Pentavalent antimonials",
+      "disease": "Cutaneous and visceral leishmaniasis",
+      "mechanism": "Reduced to trivalent antimony, binding parasite sulfhydryl groups",
+      "adverseEffects": "Cumulative cardiac, pancreatic, renal, and marrow toxicity",
+      "lecture": "L173"
+    },
+    {
+      "name": "Miltefosine",
+      "disease": "Cutaneous, mucocutaneous, and visceral leishmaniasis",
+      "mechanism": "Disrupts parasite phospholipid metabolism; only oral antileishmanial",
+      "adverseEffects": "Teratogenic; absolutely contraindicated in pregnancy",
+      "lecture": "L173"
+    },
+    {
+      "name": "Pyrimethamine + sulfadiazine + leucovorin",
+      "disease": "Toxoplasmosis (AIDS encephalitis; 2nd/3rd trimester)",
+      "mechanism": "Sequential folate synthesis inhibition (DHFR + DHPS); leucovorin rescue",
+      "adverseEffects": "Bone marrow suppression mitigated by leucovorin",
+      "lecture": "L173"
+    },
+    {
+      "name": "Spiramycin",
+      "disease": "First-trimester toxoplasmosis to prevent vertical transmission",
+      "mechanism": "Macrolide that concentrates in the placenta",
+      "adverseEffects": "Minimal fetal exposure; does not treat established fetal infection",
+      "lecture": "L173"
+    },
+    {
+      "name": "Amphotericin B",
+      "disease": "Serious systemic mycoses (cryptococcus, mucor, dimorphic fungi)",
+      "mechanism": "Binds ergosterol forming membrane pores; fungicidal",
+      "adverseEffects": "Nephrotoxicity; 'shake and bake' infusion reactions",
+      "lecture": "L178"
+    },
+    {
+      "name": "Nystatin",
+      "disease": "Oral, cutaneous, and vaginal candidiasis",
+      "mechanism": "Polyene binding ergosterol; topical/oral non-absorbed only",
+      "adverseEffects": "Too toxic for systemic use; minimal with topical use",
+      "lecture": "L178"
+    },
+    {
+      "name": "Flucytosine",
+      "disease": "Cryptococcal meningitis (combination therapy)",
+      "mechanism": "Converted by fungal cytosine deaminase to 5-FU, blocking DNA/RNA synthesis",
+      "adverseEffects": "Bone marrow suppression from gut conversion to 5-FU",
+      "lecture": "L178"
+    },
+    {
+      "name": "Fluconazole",
+      "disease": "Candidiasis and cryptococcal consolidation/maintenance",
+      "mechanism": "Inhibits fungal 14-alpha-demethylase; best CNS penetration; no mold activity",
+      "adverseEffects": "Hepatotoxicity; QT prolongation; CYP drug interactions",
+      "lecture": "L178"
+    },
+    {
+      "name": "Voriconazole",
+      "disease": "Invasive aspergillosis (first-line)",
+      "mechanism": "Azole blocking ergosterol synthesis via 14-alpha-demethylase",
+      "adverseEffects": "Visual disturbances / photopsia; phototoxicity raising SCC risk",
+      "lecture": "L178"
+    },
+    {
+      "name": "Itraconazole",
+      "disease": "Dimorphic fungi (Histoplasma, Blastomyces, Sporothrix)",
+      "mechanism": "Azole inhibiting 14-alpha-demethylase; needs acidic gastric pH",
+      "adverseEffects": "Negative inotrope; avoid in heart failure",
+      "lecture": "L178"
+    },
+    {
+      "name": "Posaconazole",
+      "disease": "Mucormycosis and prophylaxis in prolonged neutropenia",
+      "mechanism": "Azole with extended spectrum covering Mucorales",
+      "adverseEffects": "Hepatotoxicity; QT prolongation; CYP interactions",
+      "lecture": "L178"
+    },
+    {
+      "name": "Ketoconazole",
+      "disease": "Tinea versicolor and seborrheic dermatitis (topical)",
+      "mechanism": "Azole inhibiting 14-alpha-demethylase",
+      "adverseEffects": "Severe hepatotoxicity; anti-androgen effects (gynecomastia)",
+      "lecture": "L178"
+    },
+    {
+      "name": "Echinocandins (caspofungin)",
+      "disease": "Invasive candidiasis and candidemia (first-line)",
+      "mechanism": "Inhibit beta-1,3-glucan synthase, cracking the fungal cell wall",
+      "adverseEffects": "Excellent safety; mild GI upset and flushing",
+      "lecture": "L178"
+    },
+    {
+      "name": "Terbinafine",
+      "disease": "Onychomycosis and dermatophyte infections",
+      "mechanism": "Inhibits squalene epoxidase; ergosterol depletion plus toxic squalene buildup",
+      "adverseEffects": "Taste disturbance (dysgeusia); rare severe hepatotoxicity",
+      "lecture": "L178"
+    },
+    {
+      "name": "Griseofulvin",
+      "disease": "Tinea capitis in children",
+      "mechanism": "Binds fungal microtubules disrupting mitosis; deposits in keratin",
+      "adverseEffects": "CYP450 induction; disulfiram-like reaction with alcohol",
+      "lecture": "L178"
+    },
+    {
+      "name": "Doxycycline",
+      "disease": "Lyme disease, RMSF, ehrlichiosis, anaplasmosis, Q fever",
+      "mechanism": "Tetracycline inhibiting bacterial 30S ribosomal protein synthesis",
+      "adverseEffects": "Photosensitivity; dental staining (brief courses negligible)",
+      "lecture": "L177"
+    },
+    {
+      "name": "Isotretinoin",
+      "disease": "Severe nodulocystic acne vulgaris",
+      "mechanism": "Oral retinoid normalizing keratinization and reducing sebum",
+      "adverseEffects": "Highly teratogenic; requires iPLEDGE monitoring",
+      "lecture": "L181"
+    },
+    {
+      "name": "Dapsone",
+      "disease": "Dermatitis herpetiformis (rapid symptom control)",
+      "mechanism": "Sulfone with anti-inflammatory and antimicrobial activity",
+      "adverseEffects": "Hemolysis, especially in G6PD deficiency; methemoglobinemia",
+      "lecture": "L181"
+    },
+    {
+      "name": "Vismodegib",
+      "disease": "Locally advanced or metastatic basal cell carcinoma",
+      "mechanism": "Smoothened inhibitor blocking hedgehog pathway signaling",
+      "adverseEffects": "Muscle spasms, alopecia, dysgeusia; teratogenic",
+      "lecture": "L182"
+    },
+    {
+      "name": "Vemurafenib",
+      "disease": "BRAF V600E-mutant metastatic melanoma",
+      "mechanism": "BRAF kinase inhibitor blocking RAS/MAPK proliferation signaling",
+      "adverseEffects": "Cutaneous squamous cell carcinomas; combine with MEK inhibitor",
+      "lecture": "L182"
+    },
+    {
+      "name": "Checkpoint inhibitors (anti-PD-1, anti-CTLA-4)",
+      "disease": "Advanced (Stage III/IV) melanoma",
+      "mechanism": "Block T-cell checkpoints to unleash anti-tumor immune response",
+      "adverseEffects": "Immune-related adverse events (colitis, dermatitis, endocrinopathies)",
+      "lecture": "L182"
+    },
+    {
+      "name": "Topical 5-fluorouracil",
+      "disease": "Actinic keratosis and superficial basal cell carcinoma",
+      "mechanism": "Pyrimidine analog inhibiting thymidylate synthase in atypical cells",
+      "adverseEffects": "Local erythema, erosion, and inflammation at treated sites",
+      "lecture": "L182"
+    }
+  ],
+  "correlates": [
+    {
+      "name": "Amebic Liver Abscess",
+      "pathophysiology": "Entamoeba trophozoites invade colon, travel via portal vein, and form necrotic liver abscesses",
+      "treatment": "Metronidazole then paromomycin; drainage only if impending rupture",
+      "lecture": "L173"
+    },
+    {
+      "name": "Chagas Cardiomyopathy",
+      "pathophysiology": "T. cruzi persists in cardiomyocytes causing chronic immunologic dilated cardiomyopathy with apical aneurysm",
+      "treatment": "Benznidazole if early; supportive heart failure/antiarrhythmic care once established",
+      "lecture": "L173"
+    },
+    {
+      "name": "Staphylococcal Scalded Skin Syndrome",
+      "pathophysiology": "S. aureus exfoliative toxins cleave desmoglein-1 in the granular layer causing intraepidermal separation",
+      "treatment": "Anti-staphylococcal IV antibiotics and supportive fluid care",
+      "lecture": "L176"
+    },
+    {
+      "name": "Necrotizing Fasciitis",
+      "pathophysiology": "Rapid bacterial invasion of deep fascial planes with proteases, thrombosis, and tissue necrosis",
+      "treatment": "Emergent surgical debridement plus broad-spectrum IV antibiotics",
+      "lecture": "L176"
+    },
+    {
+      "name": "Inhalation Anthrax (Woolsorter's Disease)",
+      "pathophysiology": "Inhaled spores germinate in mediastinal nodes, releasing tripartite toxin causing hemorrhagic mediastinitis",
+      "treatment": "IV ciprofloxacin/doxycycline + clindamycin + additional agent; raxibacumab",
+      "lecture": "L177"
+    },
+    {
+      "name": "Cryptococcal Meningitis",
+      "pathophysiology": "Inhaled encapsulated yeast disseminates from lungs to CNS in HIV patients with CD4 under 100",
+      "treatment": "Induction with liposomal amphotericin B + flucytosine, then fluconazole",
+      "lecture": "L178"
+    },
+    {
+      "name": "Psoriasis",
+      "pathophysiology": "Th17-driven keratinocyte hyperproliferation with maturation accelerated to 8-10 days",
+      "treatment": "Topical steroids and vitamin D analogs, phototherapy, biologics for severe disease",
+      "lecture": "L181"
+    },
+    {
+      "name": "Albinism",
+      "pathophysiology": "Autosomal recessive tyrosinase defect; melanocytes present but cannot synthesize melanin",
+      "treatment": "No cure; rigorous lifelong sun protection and dermatologic surveillance",
+      "lecture": "L174"
+    },
+    {
+      "name": "Vitiligo",
+      "pathophysiology": "T-cell-mediated autoimmune destruction of melanocytes producing depigmented patches",
+      "treatment": "Topical corticosteroids, calcineurin inhibitors, narrowband UVB phototherapy",
+      "lecture": "L174"
+    },
+    {
+      "name": "Telogen Effluvium",
+      "pathophysiology": "Stressor synchronizes anagen follicles into telogen, causing diffuse shedding ~3 months later",
+      "treatment": "Address the trigger; reassurance, with full regrowth in 6-12 months",
+      "lecture": "L175"
+    },
+    {
+      "name": "Acne Vulgaris",
+      "pathophysiology": "Follicular hyperkeratinization, androgenic sebum overproduction, C. acnes, and inflammation",
+      "treatment": "Topical retinoids and benzoyl peroxide; antibiotics; isotretinoin for severe disease",
+      "lecture": "L181"
+    },
+    {
+      "name": "Congenital Rubella Syndrome",
+      "pathophysiology": "Maternal rubella infection in pregnancy disrupts fetal organogenesis via cell apoptosis",
+      "treatment": "Prevent with pre-pregnancy MMR; supportive care for hearing, eye, cardiac defects",
+      "lecture": "L180"
+    },
+    {
+      "name": "Stevens-Johnson Syndrome / Toxic Epidermal Necrolysis",
+      "pathophysiology": "Type IV cytotoxic T-cell drug reaction causing widespread keratinocyte apoptosis and epidermal necrosis",
+      "treatment": "Stop the offending drug immediately; burn-unit-level supportive care",
+      "lecture": "L181"
+    },
+    {
+      "name": "Urticaria",
+      "pathophysiology": "Type I IgE-mediated mast cell degranulation causing histamine-driven dermal edema",
+      "treatment": "Antihistamines; identify and avoid trigger",
+      "lecture": "L181"
+    },
+    {
+      "name": "Hereditary Angioedema",
+      "pathophysiology": "Autosomal dominant C1 esterase inhibitor deficiency causing unopposed bradykinin and angioedema",
+      "treatment": "C1 inhibitor concentrate, ecallantide, or icatibant (not antihistamines)",
+      "lecture": "L181"
+    },
+    {
+      "name": "Atopic Dermatitis",
+      "pathophysiology": "Filaggrin mutations and immune dysregulation cause barrier dysfunction and spongiotic dermatitis",
+      "treatment": "Emollients, topical corticosteroids, and calcineurin inhibitors",
+      "lecture": "L181"
+    },
+    {
+      "name": "Erythema Multiforme",
+      "pathophysiology": "Type IV interface reaction, most often triggered by HSV, producing targetoid lesions",
+      "treatment": "Treat the trigger (suppressive acyclovir for HSV); supportive care",
+      "lecture": "L181"
+    },
+    {
+      "name": "Lichen Planus",
+      "pathophysiology": "CD8+ T-cell attack on basal keratinocytes; associated with hepatitis C",
+      "treatment": "Topical corticosteroids; self-limited over months to years",
+      "lecture": "L181"
+    },
+    {
+      "name": "Pemphigus Vulgaris",
+      "pathophysiology": "IgG autoantibodies against desmoglein 3 cause suprabasal acantholysis and flaccid bullae",
+      "treatment": "Systemic corticosteroids plus rituximab or other immunosuppressants",
+      "lecture": "L181"
+    },
+    {
+      "name": "Bullous Pemphigoid",
+      "pathophysiology": "IgG autoantibodies against hemidesmosomal BP180 cause subepidermal tense bullae",
+      "treatment": "Corticosteroids; doxycycline plus niacinamide for milder cases",
+      "lecture": "L181"
+    },
+    {
+      "name": "Dermatitis Herpetiformis",
+      "pathophysiology": "IgA against tissue transglutaminase deposits at dermal papillary tips; linked to celiac disease",
+      "treatment": "Strict gluten-free diet plus dapsone for rapid relief",
+      "lecture": "L181"
+    },
+    {
+      "name": "Rosacea",
+      "pathophysiology": "Innate immune dysregulation with elevated cathelicidin and possible Demodex mite role",
+      "treatment": "Trigger avoidance, topical metronidazole/ivermectin, oral doxycycline",
+      "lecture": "L181"
+    },
+    {
+      "name": "Erythema Nodosum",
+      "pathophysiology": "Septal panniculitis; hypersensitivity reaction to strep, sarcoidosis, IBD, or drugs",
+      "treatment": "Treat underlying cause; NSAIDs for pain",
+      "lecture": "L181"
+    },
+    {
+      "name": "Seborrheic Keratosis",
+      "pathophysiology": "Benign basaloid keratinocyte hyperplasia with horn cysts; FGFR3/PIK3CA mutations",
+      "treatment": "Benign; cryotherapy or curettage if cosmetically desired",
+      "lecture": "L182"
+    },
+    {
+      "name": "Acanthosis Nigricans",
+      "pathophysiology": "Insulin/IGF-1 stimulation of keratinocytes; or paraneoplastic with GI adenocarcinoma",
+      "treatment": "Treat insulin resistance; investigate GI cancer if sudden in older adults",
+      "lecture": "L182"
+    },
+    {
+      "name": "Actinic Keratosis",
+      "pathophysiology": "UV-induced p53 mutation causing partial-thickness keratinocyte atypia; precursor to SCC",
+      "treatment": "Cryotherapy, topical 5-FU, imiquimod, photodynamic therapy",
+      "lecture": "L182"
+    },
+    {
+      "name": "Squamous Cell Carcinoma",
+      "pathophysiology": "UV-induced p53 mutations drive malignant keratinocytes invading through the basement membrane",
+      "treatment": "Excision or Mohs surgery; cemiplimab for advanced disease",
+      "lecture": "L182"
+    },
+    {
+      "name": "Basal Cell Carcinoma",
+      "pathophysiology": "UV-induced PTCH1 loss causes constitutive hedgehog pathway activation and basaloid proliferation",
+      "treatment": "Surgical excision or Mohs; vismodegib for advanced disease",
+      "lecture": "L182"
+    },
+    {
+      "name": "Dysplastic Nevus",
+      "pathophysiology": "BRAF/NRAS mutation plus CDKN2A loss producing cytologic atypia and architectural disorder",
+      "treatment": "Monitor; excise concerning lesions; surveillance if familial syndrome",
+      "lecture": "L182"
+    },
+    {
+      "name": "Melanoma",
+      "pathophysiology": "Malignant melanocyte transformation from UV-induced DNA damage and BRAF V600E mutations",
+      "treatment": "Wide local excision by Breslow depth; immunotherapy and BRAF/MEK inhibitors for advanced disease",
+      "lecture": "L182"
+    },
+    {
+      "name": "Herpes Zoster (Shingles)",
+      "pathophysiology": "Reactivation of latent VZV in a dorsal root or cranial nerve ganglion",
+      "treatment": "Acyclovir/valacyclovir within 72 hours; Shingrix vaccine for prevention",
+      "lecture": "L180"
+    },
+    {
+      "name": "Ramsay Hunt Syndrome",
+      "pathophysiology": "Herpes zoster reactivation in the geniculate ganglion involving cranial nerve VII",
+      "treatment": "Acyclovir plus corticosteroids",
+      "lecture": "L180"
+    },
+    {
+      "name": "Pityriasis Rosea",
+      "pathophysiology": "Self-limited eruption, likely HHV-6/7, with a herald patch then Christmas-tree truncal rash",
+      "treatment": "Supportive; self-resolves over 6-8 weeks",
+      "lecture": "L180"
+    }
+  ]
+}

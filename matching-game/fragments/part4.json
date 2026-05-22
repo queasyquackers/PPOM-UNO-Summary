@@ -1,0 +1,518 @@
+{
+  "bugs": [
+    {
+      "name": "Malassezia furfur",
+      "geography": "Worldwide; favors hot, humid climates",
+      "disease": "Tinea (pityriasis) versicolor",
+      "symptoms": "Hypo/hyperpigmented trunk macules; spaghetti-and-meatballs on KOH",
+      "treatment": "Selenium sulfide shampoo or topical antifungals",
+      "lecture": "L186"
+    },
+    {
+      "name": "Trichophyton rubrum",
+      "geography": "Worldwide",
+      "disease": "Tinea corporis (ringworm) and onychomycosis",
+      "symptoms": "Annular scaly plaque with central clearing; branching hyphae on KOH",
+      "treatment": "Topical antifungals; oral terbinafine for widespread disease",
+      "lecture": "L186"
+    },
+    {
+      "name": "Corynebacterium minutissimum",
+      "geography": "Worldwide",
+      "disease": "Erythrasma",
+      "symptoms": "Brown intertriginous patches; coral-red fluorescence on Wood's lamp",
+      "treatment": "Topical or oral erythromycin",
+      "lecture": "L186"
+    },
+    {
+      "name": "Staphylococcus aureus",
+      "geography": "Worldwide",
+      "disease": "Staphylococcal scalded skin syndrome (SSSS)",
+      "symptoms": "Scalded tender skin with flaccid bullae, mucosa SPARED, positive Nikolsky",
+      "treatment": "IV nafcillin or oxacillin (vancomycin if MRSA)",
+      "lecture": "L189"
+    },
+    {
+      "name": "Neisseria meningitidis",
+      "geography": "Worldwide; outbreaks in crowded living (dorms, military)",
+      "disease": "Meningococcemia",
+      "symptoms": "Fever, neck stiffness, altered mentation, petechial/purpuric rash",
+      "treatment": "IV ceftriaxone plus IV vancomycin",
+      "lecture": "L189"
+    },
+    {
+      "name": "Group A Streptococcus",
+      "geography": "Worldwide",
+      "disease": "Necrotizing fasciitis (also toxic shock syndrome)",
+      "symptoms": "Pain out of proportion, crepitus, rapidly spreading systemic toxicity",
+      "treatment": "Immediate surgical debridement plus broad-spectrum antibiotics",
+      "lecture": "L189"
+    },
+    {
+      "name": "Rickettsia rickettsii",
+      "geography": "Southeast and South-Central United States",
+      "disease": "Rocky Mountain spotted fever",
+      "symptoms": "Fever, headache, petechial rash starting at wrists/ankles spreading centrally",
+      "treatment": "Empiric doxycycline, even in children",
+      "lecture": "L189"
+    },
+    {
+      "name": "Varicella-zoster virus",
+      "geography": "Worldwide",
+      "disease": "Herpes zoster ophthalmicus",
+      "symptoms": "Unilateral V1 vesicular rash; Hutchinson sign (vesicles on nose tip)",
+      "treatment": "Oral acyclovir/valacyclovir within 72 h plus urgent ophthalmology consult",
+      "lecture": "L189"
+    },
+    {
+      "name": "Measles virus (Rubeola)",
+      "geography": "Worldwide; active US outbreaks",
+      "disease": "Measles",
+      "symptoms": "Cough, coryza, conjunctivitis, Koplik spots, cephalocaudal rash",
+      "treatment": "Supportive care plus vitamin A; MMR vaccine for prevention",
+      "lecture": "L189"
+    },
+    {
+      "name": "Herpes simplex virus",
+      "geography": "Worldwide",
+      "disease": "Erythema multiforme",
+      "symptoms": "Targetoid lesions with dusky center on palms and soles",
+      "treatment": "Acyclovir if HSV-induced; supportive care",
+      "lecture": "L189"
+    },
+    {
+      "name": "Human immunodeficiency virus (HIV-1)",
+      "geography": "Worldwide",
+      "disease": "HIV infection / AIDS",
+      "symptoms": "CD4 decline, opportunistic infections, severe seborrheic dermatitis",
+      "treatment": "Two NRTIs plus an integrase inhibitor (dolutegravir or bictegravir)",
+      "lecture": "L184"
+    }
+  ],
+  "drugs": [
+    {
+      "name": "Tenofovir (TDF/TAF)",
+      "disease": "HIV-1 infection (NRTI backbone); also hepatitis B",
+      "mechanism": "Nucleotide reverse transcriptase inhibitor causing DNA chain termination",
+      "adverseEffects": "Nephrotoxicity (Fanconi syndrome) and decreased bone density; TAF milder",
+      "lecture": "L184"
+    },
+    {
+      "name": "Emtricitabine (FTC)",
+      "disease": "HIV-1 infection (NRTI backbone partner)",
+      "mechanism": "Cytidine-analog NRTI; chain termination of proviral DNA",
+      "adverseEffects": "Palmoplantar hyperpigmentation; M184V resistance",
+      "lecture": "L184"
+    },
+    {
+      "name": "Lamivudine (3TC)",
+      "disease": "HIV-1 infection (NRTI backbone); also hepatitis B",
+      "mechanism": "Cytidine-analog NRTI; chain termination of proviral DNA",
+      "adverseEffects": "Well tolerated; M184V high-level resistance",
+      "lecture": "L184"
+    },
+    {
+      "name": "Abacavir (ABC)",
+      "disease": "HIV-1 infection (NRTI backbone partner with lamivudine)",
+      "mechanism": "Guanosine-analog NRTI; chain termination of proviral DNA",
+      "adverseEffects": "Fatal hypersensitivity in HLA-B*5701 carriers; never rechallenge",
+      "lecture": "L184"
+    },
+    {
+      "name": "Zidovudine (AZT)",
+      "disease": "HIV vertical-transmission prevention in pregnancy and neonates",
+      "mechanism": "Thymidine-analog NRTI; chain termination of proviral DNA",
+      "adverseEffects": "Bone marrow suppression (anemia, neutropenia)",
+      "lecture": "L184"
+    },
+    {
+      "name": "Dolutegravir (DTG)",
+      "disease": "HIV-1 infection (first-line third agent)",
+      "mechanism": "Second-generation integrase strand transfer inhibitor (INSTI)",
+      "adverseEffects": "Weight gain; high resistance barrier and well tolerated",
+      "lecture": "L184"
+    },
+    {
+      "name": "Bictegravir (BIC)",
+      "disease": "HIV-1 infection (first-line third agent, fixed-dose Biktarvy)",
+      "mechanism": "Second-generation integrase strand transfer inhibitor (INSTI)",
+      "adverseEffects": "Weight gain; well tolerated, high resistance barrier",
+      "lecture": "L184"
+    },
+    {
+      "name": "Raltegravir (RAL)",
+      "disease": "HIV-1 infection; HIV post-exposure prophylaxis",
+      "mechanism": "First-generation INSTI metabolized by UGT1A1, not CYP",
+      "adverseEffects": "Lower resistance barrier; no CYP-based drug interactions",
+      "lecture": "L184"
+    },
+    {
+      "name": "Cabotegravir (CAB)",
+      "disease": "HIV maintenance (with rilpivirine) and PrEP",
+      "mechanism": "Long-acting injectable integrase strand transfer inhibitor (INSTI)",
+      "adverseEffects": "Injection-site reactions; gluteal IM every 4-8 weeks",
+      "lecture": "L184"
+    },
+    {
+      "name": "Efavirenz",
+      "disease": "HIV-1 infection (NNRTI third agent, older)",
+      "mechanism": "Non-nucleoside allosteric reverse transcriptase inhibitor",
+      "adverseEffects": "Neuropsychiatric effects (vivid dreams); QT prolongation",
+      "lecture": "L185"
+    },
+    {
+      "name": "Rilpivirine",
+      "disease": "HIV-1 infection (NNRTI; viral load <100,000, CD4 >=200)",
+      "mechanism": "Non-nucleoside allosteric reverse transcriptase inhibitor",
+      "adverseEffects": "Needs acid stomach for absorption; virologic failure at high VL",
+      "lecture": "L185"
+    },
+    {
+      "name": "Nevirapine",
+      "disease": "HIV-1 infection; presumptive therapy in high-risk neonates",
+      "mechanism": "Non-nucleoside allosteric reverse transcriptase inhibitor",
+      "adverseEffects": "Severe hepatotoxicity (women CD4 >250, men CD4 >400)",
+      "lecture": "L185"
+    },
+    {
+      "name": "Atazanavir",
+      "disease": "HIV-1 infection (boosted protease inhibitor)",
+      "mechanism": "Protease inhibitor blocking gag/gag-pol polyprotein cleavage",
+      "adverseEffects": "Indirect hyperbilirubinemia/jaundice; gallstones, kidney stones",
+      "lecture": "L185"
+    },
+    {
+      "name": "Darunavir",
+      "disease": "HIV-1 infection (boosted protease inhibitor)",
+      "mechanism": "Protease inhibitor blocking gag/gag-pol polyprotein cleavage",
+      "adverseEffects": "Sulfa-moiety rash; avoid in sulfa allergy; hepatotoxicity",
+      "lecture": "L185"
+    },
+    {
+      "name": "Ritonavir / Cobicistat",
+      "disease": "Pharmacokinetic boosting of HIV protease inhibitors",
+      "mechanism": "Potent CYP3A4 inhibitor that raises partner PI levels",
+      "adverseEffects": "Many CYP3A4 interactions; statin-induced rhabdomyolysis",
+      "lecture": "L185"
+    },
+    {
+      "name": "Maraviroc",
+      "disease": "HIV-1 infection (CCR5-tropic virus only)",
+      "mechanism": "CCR5 antagonist blocking gp120 co-receptor engagement",
+      "adverseEffects": "Hepatotoxicity; requires tropism testing before use",
+      "lecture": "L185"
+    },
+    {
+      "name": "Enfuvirtide",
+      "disease": "HIV-1 infection in treatment-experienced patients",
+      "mechanism": "gp41 fusion inhibitor; 36-amino-acid synthetic peptide",
+      "adverseEffects": "Injection-site reactions (dose-limiting); subcutaneous BID",
+      "lecture": "L185"
+    },
+    {
+      "name": "Lenacapavir",
+      "disease": "HIV-1 infection in heavily treatment-experienced patients",
+      "mechanism": "Capsid inhibitor disrupting uncoating, nuclear import, assembly",
+      "adverseEffects": "Injection-site reactions; subcutaneous every 6 months",
+      "lecture": "L185"
+    },
+    {
+      "name": "Hydroxychloroquine",
+      "disease": "Systemic and cutaneous lupus erythematosus",
+      "mechanism": "Antimalarial immunomodulator reducing autoimmune inflammation",
+      "adverseEffects": "Retinal toxicity with long-term use",
+      "lecture": "L187"
+    },
+    {
+      "name": "Dapsone",
+      "disease": "Dermatitis herpetiformis (rapid skin relief)",
+      "mechanism": "Sulfone with anti-inflammatory/antimicrobial activity",
+      "adverseEffects": "Hemolysis, especially in G6PD deficiency; methemoglobinemia",
+      "lecture": "L187"
+    },
+    {
+      "name": "Vismodegib",
+      "disease": "Locally advanced or metastatic basal cell carcinoma",
+      "mechanism": "Smoothened inhibitor blocking Hedgehog pathway signaling",
+      "adverseEffects": "Muscle spasms, alopecia, dysgeusia",
+      "lecture": "L188"
+    },
+    {
+      "name": "5-Fluorouracil (topical)",
+      "disease": "Actinic keratosis field treatment; superficial BCC and SCC in situ",
+      "mechanism": "Topical antimetabolite chemotherapy killing dysplastic keratinocytes",
+      "adverseEffects": "Local erythema, erosion, inflammation during treatment",
+      "lecture": "L188"
+    },
+    {
+      "name": "Propranolol",
+      "disease": "Complicated infantile (strawberry) hemangioma",
+      "mechanism": "Non-selective beta-blocker promoting hemangioma involution",
+      "adverseEffects": "Hypoglycemia, bradycardia, hypotension",
+      "lecture": "L188"
+    },
+    {
+      "name": "Intramuscular epinephrine",
+      "disease": "Anaphylaxis with urticaria and airway compromise",
+      "mechanism": "Alpha/beta agonist reversing vasodilation and bronchospasm",
+      "adverseEffects": "Tachycardia, hypertension, tremor, anxiety",
+      "lecture": "L189"
+    },
+    {
+      "name": "Icatibant",
+      "disease": "Hereditary angioedema acute attacks",
+      "mechanism": "Bradykinin B2 receptor antagonist",
+      "adverseEffects": "Injection-site reactions; ineffective for histaminergic angioedema",
+      "lecture": "L189"
+    },
+    {
+      "name": "Clindamycin",
+      "disease": "Toxic shock syndrome and necrotizing soft-tissue infection",
+      "mechanism": "Ribosomal inhibitor that suppresses bacterial exotoxin production",
+      "adverseEffects": "C. difficile colitis",
+      "lecture": "L189"
+    },
+    {
+      "name": "Doxycycline",
+      "disease": "Rocky Mountain spotted fever",
+      "mechanism": "Tetracycline antibiotic; 30S ribosomal protein-synthesis inhibitor",
+      "adverseEffects": "Tooth discoloration in children; benefit outweighs risk in RMSF",
+      "lecture": "L189"
+    },
+    {
+      "name": "Nifedipine",
+      "disease": "Chilblains (pernio)",
+      "mechanism": "Calcium channel blocker causing peripheral vasodilation",
+      "adverseEffects": "Headache, peripheral edema, flushing",
+      "lecture": "L191"
+    },
+    {
+      "name": "Alteplase (thrombolytics)",
+      "disease": "Severe frostbite (level 1C recommendation)",
+      "mechanism": "Tissue plasminogen activator lysing microvascular thrombi",
+      "adverseEffects": "Bleeding risk",
+      "lecture": "L191"
+    },
+    {
+      "name": "Dantrolene",
+      "disease": "Malignant hyperthermia and neuroleptic malignant syndrome",
+      "mechanism": "Ryanodine receptor blocker stopping skeletal muscle Ca release",
+      "adverseEffects": "Muscle weakness, hepatotoxicity",
+      "lecture": "L190"
+    },
+    {
+      "name": "Benzodiazepines (lorazepam/diazepam)",
+      "disease": "Shivering suppression during heat stroke cooling",
+      "mechanism": "GABA-A potentiation suppressing the shivering reflex",
+      "adverseEffects": "Sedation, respiratory depression",
+      "lecture": "L192"
+    },
+    {
+      "name": "Dobutamine",
+      "disease": "Refractory hypotension in heat stroke or hypothermia",
+      "mechanism": "Beta-agonist augmenting cardiac contractility without vasoconstriction",
+      "adverseEffects": "Tachyarrhythmias",
+      "lecture": "L192"
+    }
+  ],
+  "correlates": [
+    {
+      "name": "Immune Reconstitution Inflammatory Syndrome (IRIS)",
+      "pathophysiology": "Reconstituted immunity on ART suddenly attacks subclinical opportunistic infections",
+      "treatment": "Continue ART; treat the underlying infection; steroids if severe",
+      "lecture": "L184"
+    },
+    {
+      "name": "NRTI Lactic Acidosis with Hepatic Steatosis",
+      "pathophysiology": "NRTI inhibition of mitochondrial DNA polymerase gamma impairs oxidative phosphorylation",
+      "treatment": "Discontinue NRTI immediately; supportive care for lactate clearance",
+      "lecture": "L184"
+    },
+    {
+      "name": "Abacavir Hypersensitivity Syndrome",
+      "pathophysiology": "Abacavir binds HLA-B*5701, creating a neo-self-antigen recognized by cytotoxic T cells",
+      "treatment": "Stop abacavir permanently; never rechallenge (can be fatal)",
+      "lecture": "L184"
+    },
+    {
+      "name": "Nevirapine Hepatotoxicity",
+      "pathophysiology": "Hypersensitivity-mediated hepatocellular injury, worse with higher CD4 counts",
+      "treatment": "Stop nevirapine immediately and permanently; supportive care",
+      "lecture": "L185"
+    },
+    {
+      "name": "Protease Inhibitor Lipodystrophy",
+      "pathophysiology": "PIs impair GLUT4 glucose uptake and adipocyte differentiation via SREBP interference",
+      "treatment": "Switch to non-PI regimen; CYP-safe statins; metformin; diet and exercise",
+      "lecture": "L185"
+    },
+    {
+      "name": "Psoriasis",
+      "pathophysiology": "T-cell (Th1/Th17) driven keratinocyte hyperproliferation with parakeratosis",
+      "treatment": "Topical steroids/vitamin D, phototherapy, methotrexate, biologics",
+      "lecture": "L186"
+    },
+    {
+      "name": "Stasis Dermatitis",
+      "pathophysiology": "Chronic venous hypertension causes capillary leak and hemosiderin deposition",
+      "treatment": "Compression therapy (cornerstone), leg elevation, topical steroids",
+      "lecture": "L186"
+    },
+    {
+      "name": "Pityriasis Rosea",
+      "pathophysiology": "Self-limited eruption, possibly HHV-6/7 triggered; herald patch then Christmas-tree rash",
+      "treatment": "Symptomatic care; antihistamines and reassurance",
+      "lecture": "L186"
+    },
+    {
+      "name": "Lichen Planus",
+      "pathophysiology": "T-cell-mediated interface dermatitis; strong hepatitis C association",
+      "treatment": "Topical/intralesional steroids; phototherapy; treat underlying HCV",
+      "lecture": "L186"
+    },
+    {
+      "name": "Mycosis Fungoides",
+      "pathophysiology": "Cutaneous T-cell lymphoma progressing through patch, plaque, and tumor stages",
+      "treatment": "Topical steroids and phototherapy early; systemic therapy for advanced disease",
+      "lecture": "L186"
+    },
+    {
+      "name": "Systemic Lupus Erythematosus",
+      "pathophysiology": "Loss of self-tolerance with antinuclear autoantibodies and immune-complex deposition",
+      "treatment": "Photoprotection, hydroxychloroquine, corticosteroids, immunosuppressants",
+      "lecture": "L187"
+    },
+    {
+      "name": "Dermatomyositis",
+      "pathophysiology": "Humoral autoimmune attack on perimysial capillaries causing muscle ischemia",
+      "treatment": "Corticosteroids, methotrexate/azathioprine; screen for occult malignancy",
+      "lecture": "L187"
+    },
+    {
+      "name": "Systemic Sclerosis (Scleroderma)",
+      "pathophysiology": "Fibroblast overproduction of collagen sclerosing skin and internal organs",
+      "treatment": "Immunosuppressants; ACE inhibitors for scleroderma renal crisis",
+      "lecture": "L187"
+    },
+    {
+      "name": "Sarcoidosis",
+      "pathophysiology": "Th1-driven non-caseating granulomatous inflammation of unknown cause",
+      "treatment": "Corticosteroids first-line; methotrexate or hydroxychloroquine",
+      "lecture": "L187"
+    },
+    {
+      "name": "Sturge-Weber Syndrome",
+      "pathophysiology": "Somatic GNAQ mutation causing V1 port wine stain and leptomeningeal angiomas",
+      "treatment": "Anticonvulsants, pulsed-dye laser, IOP control for glaucoma",
+      "lecture": "L188"
+    },
+    {
+      "name": "Basal Cell Carcinoma",
+      "pathophysiology": "Cumulative UV damage and PTCH1 loss driving Hedgehog pathway activation",
+      "treatment": "Excision or Mohs surgery; vismodegib for advanced disease",
+      "lecture": "L188"
+    },
+    {
+      "name": "Melanoma",
+      "pathophysiology": "UV-induced malignant transformation of melanocytes, often BRAF V600E mutant",
+      "treatment": "Wide local excision; immunotherapy and BRAF/MEK inhibitors for advanced disease",
+      "lecture": "L188"
+    },
+    {
+      "name": "Actinic Keratosis",
+      "pathophysiology": "UV-induced p53-driven keratinocyte dysplasia; premalignant precursor to SCC",
+      "treatment": "Cryotherapy, topical 5-fluorouracil, imiquimod, photodynamic therapy",
+      "lecture": "L188"
+    },
+    {
+      "name": "Squamous Cell Carcinoma",
+      "pathophysiology": "UV or HPV-driven malignant keratinocytes invading through the basement membrane",
+      "treatment": "Excision (Mohs for high-risk sites); cemiplimab for advanced disease",
+      "lecture": "L188"
+    },
+    {
+      "name": "Hereditary Angioedema",
+      "pathophysiology": "C1 esterase inhibitor deficiency causes uncontrolled bradykinin-mediated edema",
+      "treatment": "Icatibant, ecallantide, C1-INH concentrate, or FFP; early intubation",
+      "lecture": "L189"
+    },
+    {
+      "name": "Stevens-Johnson Syndrome / Toxic Epidermal Necrolysis",
+      "pathophysiology": "Drug-specific CD8 T-cell-mediated keratinocyte apoptosis with epidermal detachment",
+      "treatment": "Stop offending drug; burn unit; fluid resuscitation and wound care",
+      "lecture": "L189"
+    },
+    {
+      "name": "Toxic Shock Syndrome",
+      "pathophysiology": "Superantigen-driven massive T-cell activation, cytokine storm, and capillary leak",
+      "treatment": "Remove source; clindamycin plus vancomycin; fluids and vasopressors",
+      "lecture": "L189"
+    },
+    {
+      "name": "Pemphigus Vulgaris",
+      "pathophysiology": "IgG autoantibodies against desmoglein-3 cause intraepidermal flaccid bullae",
+      "treatment": "Systemic corticosteroids, rituximab; IVIG/plasmapheresis if severe",
+      "lecture": "L189"
+    },
+    {
+      "name": "DRESS Syndrome",
+      "pathophysiology": "Delayed type IV drug hypersensitivity with eosinophilia and visceral organ injury",
+      "treatment": "Withdraw offending drug; ICU support; long corticosteroid taper",
+      "lecture": "L189"
+    },
+    {
+      "name": "Necrotizing Fasciitis",
+      "pathophysiology": "Rapidly spreading bacterial soft-tissue infection with fascial necrosis from toxins",
+      "treatment": "Immediate surgical debridement plus broad-spectrum antibiotics",
+      "lecture": "L189"
+    },
+    {
+      "name": "Kawasaki Disease",
+      "pathophysiology": "Medium-vessel vasculitis of childhood causing coronary artery aneurysms",
+      "treatment": "IVIG plus high-dose aspirin; echocardiogram after diagnosis",
+      "lecture": "L189"
+    },
+    {
+      "name": "Frostbite",
+      "pathophysiology": "Tissue freezing forms ice crystals; rewarming triggers microvascular thrombosis",
+      "treatment": "Rapid rewarming in 37-39 C water; analgesia, tetanus, thrombolytics if severe",
+      "lecture": "L191"
+    },
+    {
+      "name": "Accidental Hypothermia",
+      "pathophysiology": "Core temperature below 35 C impairs metabolism, causing bradyarrhythmias and arrest",
+      "treatment": "Staged rewarming (passive to active core/ECMO); not dead until warm and dead",
+      "lecture": "L191"
+    },
+    {
+      "name": "Trench Foot (Immersion Foot)",
+      "pathophysiology": "Prolonged wet, non-freezing exposure causes neurovascular injury without freezing",
+      "treatment": "Remove wet footwear, dry the feet, loose dressing, delay debridement",
+      "lecture": "L191"
+    },
+    {
+      "name": "Chilblains (Pernio)",
+      "pathophysiology": "Intermittent damp non-freezing cold causes inflammatory violaceous nodules",
+      "treatment": "Nifedipine plus supportive care; warming and time",
+      "lecture": "L191"
+    },
+    {
+      "name": "Heat Stroke",
+      "pathophysiology": "Core temperature above 40 C causes protein denaturation and multi-organ failure",
+      "treatment": "Aggressive evaporative cooling, IV fluids, ICU; antipyretics are useless",
+      "lecture": "L192"
+    },
+    {
+      "name": "Heat Exhaustion",
+      "pathophysiology": "Heat-related volume and electrolyte depletion with preserved mental status",
+      "treatment": "Cool environment, leg elevation, oral or IV fluid/electrolyte replacement",
+      "lecture": "L192"
+    },
+    {
+      "name": "Rhabdomyolysis",
+      "pathophysiology": "Skeletal muscle breakdown releases myoglobin, risking tubular obstruction and AKI",
+      "treatment": "Aggressive isotonic IV fluids; treat the underlying cause",
+      "lecture": "L192"
+    }
+  ]
+}
