@@ -1,0 +1,736 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Bugs, Drugs &amp; Correlates &middot; OnePass</title>
+<meta name="description" content="Block 4 board-prep matching game — bugs, drugs, and clinical correlates from lectures 149-192.">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="Matching">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" id="themeColorMeta" content="#F4F1EA">
+<style>/*__FONTS__*/</style>
+<script>
+/* Apply saved theme before paint to avoid a flash. Shares the key with the OnePass site. */
+(function(){try{var t=localStorage.getItem('theme');var d=t==='dark'||(!t&&window.matchMedia&&window.matchMedia('(prefers-color-scheme:dark)').matches);if(d){document.documentElement.classList.add('dark');var m=document.getElementById('themeColorMeta');if(m)m.setAttribute('content','#1A1410');}}catch(e){}})();
+</script>
+<style>
+:root{
+  color-scheme:light;
+  --bg:#F4F1EA; --text:#1a1a1a; --muted:#666666; --accent:#D97757;
+  --border:#E0D8C8; --surface:#FFFFFF;
+  --accent-soft:#F2E2D9; --accent-glow:rgba(217,119,87,.32);
+  --good:#3F7D4E; --bad:#BF4D3A; --bad-bg:#F3E4DF;
+  --display:'EB Garamond',Georgia,'Times New Roman',serif;
+  --serif:'Source Serif 4',Georgia,'Times New Roman',serif;
+  --sans:'Inter',system-ui,-apple-system,'Segoe UI',sans-serif;
+}
+html.dark{
+  color-scheme:dark;
+  --bg:#1A1410; --text:#E8E0D4; --muted:#9A8E7A; --accent:#E8956D;
+  --border:#352E26; --surface:#231E18;
+  --accent-soft:#33271F; --accent-glow:rgba(232,149,109,.34);
+  --good:#86B58B; --bad:#E0876F; --bad-bg:#33231D;
+}
+*{box-sizing:border-box;margin:0;padding:0;}
+html{-webkit-text-size-adjust:100%;text-size-adjust:100%;}
+body{
+  font-family:var(--serif);
+  background:var(--bg);
+  color:var(--text);
+  min-height:100vh;min-height:100dvh;
+  -webkit-tap-highlight-color:transparent;
+  transition:background-color .2s,color .2s;
+}
+button{font-family:inherit;color:inherit;-webkit-tap-highlight-color:transparent;touch-action:manipulation;}
+.hidden{display:none!important;}
+
+/* ---- rules ---- */
+.rule{height:1px;background:var(--text);}
+.rule-bold{height:3px;}
+
+/* ---- masthead ---- */
+.masthead{
+  max-width:1040px;margin:0 auto;
+  padding-top:calc(16px + env(safe-area-inset-top));
+  padding-left:max(20px,env(safe-area-inset-left));
+  padding-right:max(20px,env(safe-area-inset-right));
+}
+.mast-top{
+  display:flex;align-items:center;justify-content:space-between;gap:12px;
+  font-family:var(--sans);font-size:10px;font-weight:700;
+  letter-spacing:.28em;text-transform:uppercase;color:var(--muted);
+  margin-bottom:9px;
+}
+.brandback{color:var(--muted);text-decoration:none;transition:color .15s;}
+.brandback .dot{color:var(--accent);}
+.issue{letter-spacing:.3em;}
+.theme-btn{
+  background:none;border:none;cursor:pointer;color:var(--muted);
+  display:flex;padding:4px;margin:-4px;transition:color .15s;
+}
+.theme-btn svg{width:16px;height:16px;display:block;}
+.theme-btn .sun{display:none;}
+html.dark .theme-btn .moon{display:none;}
+html.dark .theme-btn .sun{display:block;}
+.wordmark{
+  font-family:var(--display);font-weight:700;
+  font-size:clamp(2rem,8vw,4rem);line-height:1.04;letter-spacing:-.02em;
+  text-align:center;padding:10px 0 8px;
+}
+.wordmark .dot{color:var(--accent);}
+.slogan{
+  text-align:center;font-family:var(--sans);font-size:10px;font-weight:600;
+  letter-spacing:.24em;text-transform:uppercase;color:var(--muted);
+  margin-top:9px;
+}
+
+/* ---- main ---- */
+.wrap{
+  max-width:1040px;margin:0 auto;
+  padding-top:22px;
+  padding-bottom:calc(40px + env(safe-area-inset-bottom));
+  padding-left:max(20px,env(safe-area-inset-left));
+  padding-right:max(20px,env(safe-area-inset-right));
+}
+
+/* ---- panel ---- */
+.panel{
+  background:var(--surface);border:1px solid var(--border);border-radius:5px;
+  padding:22px;margin-bottom:16px;
+}
+.panel h2{
+  font-family:var(--display);font-weight:700;font-size:1.6rem;letter-spacing:-.01em;
+}
+.panel .hint{color:var(--muted);font-size:.98rem;margin-top:3px;line-height:1.45;}
+.lbl{
+  font-family:var(--sans);font-size:10px;font-weight:700;
+  letter-spacing:.2em;text-transform:uppercase;color:var(--muted);
+  margin:22px 0 9px;
+}
+.lbl .n{color:var(--accent);margin-right:5px;}
+#lecCount{
+  font-family:var(--sans);font-weight:600;font-size:10px;
+  letter-spacing:.01em;text-transform:none;color:var(--muted);
+}
+
+/* ---- option buttons ---- */
+.opts{display:flex;flex-wrap:wrap;gap:7px;}
+.opt{
+  font-family:var(--sans);font-weight:600;font-size:.85rem;
+  background:var(--surface);color:var(--text);
+  border:1px solid var(--border);border-radius:5px;
+  padding:10px 14px;cursor:pointer;
+  transition:border-color .12s,background .12s,color .12s;
+}
+.opt.sel{background:var(--text);color:var(--bg);border-color:var(--text);}
+@media(hover:hover){
+  .opt:hover{border-color:var(--text);}
+  .opt.sel:hover{opacity:.88;}
+}
+
+/* ---- lecture filter ---- */
+details.filter{
+  border:1px solid var(--border);border-radius:5px;background:var(--surface);
+}
+details.filter summary{
+  cursor:pointer;list-style:none;padding:11px 13px;
+  font-family:var(--sans);font-weight:600;font-size:.82rem;
+  display:flex;align-items:center;justify-content:space-between;
+}
+details.filter summary::-webkit-details-marker{display:none;}
+details.filter summary::after{content:"+";color:var(--accent);font-weight:700;font-size:1rem;}
+details.filter[open] summary::after{content:"\2013";}
+.fmini{display:flex;gap:18px;padding:0 13px 9px;}
+.fmini button{
+  background:none;border:none;cursor:pointer;
+  font-family:var(--sans);font-size:.7rem;font-weight:700;
+  letter-spacing:.1em;text-transform:uppercase;color:var(--accent);
+}
+.fchips{display:flex;flex-wrap:wrap;gap:6px;padding:0 13px 13px;}
+.fchip{
+  font-family:var(--sans);font-weight:600;font-size:.72rem;
+  background:transparent;color:var(--muted);
+  border:1px solid var(--border);border-radius:4px;
+  padding:6px 9px;cursor:pointer;transition:all .12s;
+}
+.fchip.on{background:var(--accent-soft);border-color:var(--accent);color:var(--text);}
+
+/* ---- start button ---- */
+.start{
+  margin-top:24px;width:100%;cursor:pointer;
+  font-family:var(--display);font-weight:700;font-size:1.35rem;
+  background:var(--accent);color:#fff;border:1px solid var(--accent);
+  border-radius:5px;padding:15px;transition:opacity .12s;
+}
+@media(hover:hover){.start:hover{opacity:.9;}}
+.start:disabled{
+  background:transparent;color:var(--muted);border:1px solid var(--border);
+  cursor:not-allowed;font-family:var(--sans);font-weight:600;font-size:.92rem;
+}
+.bestline{
+  text-align:center;margin-top:13px;color:var(--muted);
+  font-family:var(--sans);font-size:.76rem;font-weight:600;letter-spacing:.03em;
+}
+
+/* ---- play topbar ---- */
+.topbar{
+  display:flex;flex-wrap:wrap;gap:14px;align-items:center;justify-content:space-between;
+  background:var(--surface);border:1px solid var(--border);border-radius:5px;
+  padding:13px 16px;margin-bottom:16px;
+}
+.stats{display:flex;flex-wrap:wrap;gap:8px 18px;}
+.stat{
+  display:flex;flex-direction:column;gap:2px;
+  font-family:var(--sans);font-size:8.5px;font-weight:700;
+  letter-spacing:.15em;text-transform:uppercase;color:var(--muted);
+}
+.stat b{
+  font-family:var(--display);font-weight:700;font-size:1.3rem;
+  letter-spacing:0;color:var(--text);
+}
+.stat.score b{color:var(--accent);}
+.tb-actions{display:flex;gap:7px;}
+.tb-actions button{
+  font-family:var(--sans);font-weight:600;font-size:.78rem;
+  background:var(--surface);color:var(--text);
+  border:1px solid var(--border);border-radius:5px;
+  padding:9px 13px;cursor:pointer;transition:border-color .12s,color .12s;
+}
+@media(hover:hover){.tb-actions button:hover{border-color:var(--text);}}
+
+.taskline{
+  text-align:center;margin-bottom:15px;
+  font-family:var(--sans);font-size:.74rem;font-weight:600;
+  letter-spacing:.13em;text-transform:uppercase;color:var(--muted);
+}
+.taskline b{color:var(--accent);font-weight:700;}
+
+/* ---- board ---- */
+.board{display:grid;grid-template-columns:1fr 1fr;gap:14px;align-items:start;}
+.col-head{
+  font-family:var(--sans);font-size:10px;font-weight:700;
+  letter-spacing:.18em;text-transform:uppercase;color:var(--muted);
+  text-align:center;padding-bottom:8px;margin-bottom:6px;
+  border-bottom:1px solid var(--border);
+}
+.col{display:flex;flex-direction:column;gap:8px;}
+.card{
+  position:relative;display:block;width:100%;text-align:left;cursor:pointer;
+  background:var(--surface);border:1px solid var(--border);border-radius:5px;
+  padding:12px;font-family:var(--serif);font-size:.93rem;line-height:1.36;
+  color:var(--text);
+  transition:border-color .12s,background .12s,box-shadow .12s,transform .1s;
+}
+.card.anchor{font-family:var(--display);font-weight:700;font-size:1.04rem;}
+@media(hover:hover){.card:hover:not(.matched){border-color:var(--text);}}
+.card.sel{
+  border-color:var(--accent);background:var(--accent-soft);
+  box-shadow:inset 0 0 0 1px var(--accent);
+}
+.card.matched{
+  cursor:default;background:transparent;border-color:var(--border);
+  color:var(--muted);
+}
+.card.wrong{animation:shake .4s;border-color:var(--bad);background:var(--bad-bg);}
+.card.hintglow{border-color:var(--accent);box-shadow:0 0 0 3px var(--accent-glow);}
+.card .lec{
+  display:none;position:absolute;top:-9px;right:9px;
+  font-family:var(--sans);font-size:9px;font-weight:700;letter-spacing:.07em;
+  background:var(--accent);color:#fff;padding:2px 6px;border-radius:3px;
+}
+.card.matched .lec{display:block;}
+.card .tick{display:none;}
+.card.matched .tick{display:inline;color:var(--good);font-weight:700;margin-right:5px;}
+@keyframes shake{0%,100%{transform:translateX(0);}20%{transform:translateX(-6px);}
+  40%{transform:translateX(6px);}60%{transform:translateX(-4px);}80%{transform:translateX(4px);}}
+@keyframes pop{0%{transform:scale(1);}50%{transform:scale(1.04);}100%{transform:scale(1);}}
+.card.justmatched{animation:pop .3s;}
+
+/* ---- summary overlay ---- */
+.overlay{
+  position:fixed;inset:0;z-index:50;overflow-y:auto;
+  background:rgba(0,0,0,.6);
+  display:flex;align-items:center;justify-content:center;
+  padding:max(24px,env(safe-area-inset-top)) 20px max(24px,env(safe-area-inset-bottom));
+}
+.modal{
+  background:var(--bg);border:1px solid var(--text);border-radius:5px;
+  box-shadow:0 24px 60px rgba(0,0,0,.35);
+  max-width:420px;width:100%;padding:24px;margin:auto;
+}
+.modal-kicker{
+  display:flex;align-items:center;gap:11px;
+  font-family:var(--sans);font-size:10px;font-weight:700;
+  letter-spacing:.26em;text-transform:uppercase;color:var(--accent);
+  margin-bottom:11px;
+}
+.kick-rule{flex:1;height:1px;background:var(--border);}
+.modal h2{
+  font-family:var(--display);font-weight:700;font-size:2rem;
+  line-height:1.08;letter-spacing:-.01em;
+}
+.modal .sub{
+  font-family:var(--sans);font-size:.76rem;font-weight:600;
+  letter-spacing:.03em;color:var(--muted);margin:7px 0 17px;
+}
+.scoregrid{display:grid;grid-template-columns:1fr 1fr;gap:9px;}
+.scorebox{
+  background:var(--surface);border:1px solid var(--border);border-radius:5px;
+  padding:15px 12px;text-align:center;
+}
+.scorebox.big{grid-column:1/-1;}
+.scorebox .v{font-family:var(--display);font-weight:700;font-size:1.8rem;color:var(--text);}
+.scorebox.big .v{font-size:2.7rem;color:var(--accent);}
+.scorebox .k{
+  font-family:var(--sans);font-size:9px;font-weight:700;
+  letter-spacing:.16em;text-transform:uppercase;color:var(--muted);margin-top:5px;
+}
+.newbest{
+  text-align:center;color:var(--accent);
+  font-family:var(--sans);font-size:.78rem;font-weight:700;
+  letter-spacing:.16em;text-transform:uppercase;margin-top:14px;
+}
+.modal-actions{display:flex;flex-direction:column;gap:9px;margin-top:18px;}
+.btn-primary,.btn-ghost{
+  font-family:var(--sans);font-weight:600;font-size:.95rem;
+  padding:14px;border-radius:5px;cursor:pointer;transition:opacity .12s,border-color .12s;
+}
+.btn-primary{background:var(--accent);color:#fff;border:1px solid var(--accent);}
+.btn-ghost{background:transparent;color:var(--text);border:1px solid var(--border);}
+@media(hover:hover){
+  .btn-primary:hover{opacity:.9;}
+  .btn-ghost:hover{border-color:var(--text);}
+}
+
+.footer{
+  text-align:center;color:var(--muted);
+  font-family:var(--sans);font-size:9.5px;font-weight:600;
+  letter-spacing:.16em;text-transform:uppercase;
+  margin-top:34px;padding-top:18px;border-top:1px solid var(--border);
+}
+
+@media(max-width:600px){
+  .panel{padding:17px 15px;}
+  .board{gap:10px;}
+  .card{font-size:.87rem;padding:10px 11px;}
+  .card.anchor{font-size:.96rem;}
+  .topbar{padding:12px;}
+  .stats{gap:7px 14px;}
+}
+@media(prefers-reduced-motion:reduce){
+  *{animation-duration:.01ms!important;transition-duration:.01ms!important;}
+}
+</style>
+</head>
+<body>
+<header class="masthead">
+  <div class="mast-top">
+    <a class="brandback" href="https://queasyquackers.github.io/PPOM-UNO-Summary/" title="Open OnePass">OnePass<span class="dot">.</span></a>
+    <span class="issue">Block IV</span>
+    <button id="themeToggle" class="theme-btn" type="button" aria-label="Toggle dark mode" title="Toggle dark mode">
+      <svg class="moon" viewBox="0 0 24 24" fill="none" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z"/></svg>
+      <svg class="sun" viewBox="0 0 24 24" fill="none" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z"/></svg>
+    </button>
+  </div>
+  <div class="rule rule-bold"></div>
+  <h1 class="wordmark">Bugs, Drugs &amp; Correlates<span class="dot">.</span></h1>
+  <div class="rule"></div>
+  <p class="slogan">A board-prep matching game &nbsp;&middot;&nbsp; Lectures 149&ndash;192</p>
+</header>
+
+<main class="wrap">
+
+  <!-- ============ SETUP ============ -->
+  <section id="setup">
+    <div class="panel">
+      <h2>Build your round</h2>
+      <p class="hint">Pick a category, then what you want to match it against.</p>
+
+      <div class="lbl"><span class="n">1</span>Category</div>
+      <div class="opts" id="catOpts"></div>
+
+      <div class="lbl"><span class="n">2</span>Match against</div>
+      <div class="opts" id="attrOpts"></div>
+
+      <div class="lbl"><span class="n">3</span>Pairs per round</div>
+      <div class="opts" id="sizeOpts"></div>
+
+      <div class="lbl"><span class="n">4</span>Lectures <span id="lecCount"></span></div>
+      <details class="filter">
+        <summary>Filter by lecture</summary>
+        <div class="fmini">
+          <button id="lecAll" type="button">Select all</button>
+          <button id="lecNone" type="button">Clear</button>
+        </div>
+        <div class="fchips" id="lecChips"></div>
+      </details>
+
+      <button class="start" id="startBtn" type="button">Start round &#9654;</button>
+      <div class="bestline" id="setupBest"></div>
+    </div>
+  </section>
+
+  <!-- ============ PLAY ============ -->
+  <section id="play" class="hidden">
+    <div class="topbar">
+      <div class="stats">
+        <span class="stat">Pairs<b id="sPairs">0/0</b></span>
+        <span class="stat">Time<b id="sTime">0:00</b></span>
+        <span class="stat score">Score<b id="sScore">0</b></span>
+        <span class="stat streak">Streak<b id="sStreak">0</b></span>
+        <span class="stat miss">Misses<b id="sMiss">0</b></span>
+      </div>
+      <div class="tb-actions">
+        <button id="hintBtn" type="button" title="Reveal one pair (&minus;5)">Hint</button>
+        <button id="restartBtn" type="button">Restart</button>
+        <button id="quitBtn" type="button">Quit</button>
+      </div>
+    </div>
+    <div class="taskline" id="taskLine"></div>
+    <div class="board">
+      <div class="col-head" id="headL">Prompt</div>
+      <div class="col-head" id="headR">Match</div>
+      <div class="col" id="colL"></div>
+      <div class="col" id="colR"></div>
+    </div>
+  </section>
+
+  <div class="footer">Built from Block 4 lecture slides (L149&ndash;192) &middot; verify against source material</div>
+</main>
+
+<!-- ============ SUMMARY ============ -->
+<div class="overlay hidden" id="overlay">
+  <div class="modal">
+    <div class="modal-kicker">Block IV Matching<span class="kick-rule"></span></div>
+    <h2 id="mTitle">Round complete</h2>
+    <div class="sub" id="mSub"></div>
+    <div class="scoregrid">
+      <div class="scorebox big"><div class="v" id="mScore">0</div><div class="k">Score</div></div>
+      <div class="scorebox"><div class="v" id="mTime">0:00</div><div class="k">Time</div></div>
+      <div class="scorebox"><div class="v" id="mAcc">0%</div><div class="k">Accuracy</div></div>
+    </div>
+    <div class="newbest hidden" id="mNewBest">New personal best</div>
+    <div class="bestline" id="mBest"></div>
+    <div class="modal-actions">
+      <button class="btn-primary" id="nextBtn" type="button">Next round &#9654;</button>
+      <button class="btn-ghost" id="settingsBtn" type="button">Change settings</button>
+    </div>
+  </div>
+</div>
+
+<script>
+/* ================= DATA ================= */
+const MATCHING_DATA = __MATCHING_DATA__;
+
+/* ================= CONFIG ================= */
+const CATS = {
+  bugs:{
+    label:'Bugs', anchorLabel:'Bug',
+    attrs:[
+      {field:'geography',   label:'Geographic Distribution'},
+      {field:'disease',     label:'Disease'},
+      {field:'symptoms',    label:'Symptoms'},
+      {field:'treatment',   label:'Treatment'}
+    ]
+  },
+  drugs:{
+    label:'Drugs', anchorLabel:'Drug',
+    attrs:[
+      {field:'disease',        label:'Disease / Indication'},
+      {field:'mechanism',      label:'Mechanism'},
+      {field:'adverseEffects', label:'Adverse Effects'}
+    ]
+  },
+  correlates:{
+    label:'Clinical Correlates', anchorLabel:'Correlate',
+    attrs:[
+      {field:'pathophysiology', label:'Pathophysiology'},
+      {field:'treatment',       label:'Treatment'}
+    ]
+  }
+};
+const SIZES=[4,6,8,10];
+
+/* ================= STATE ================= */
+const cfg={cat:'bugs', attrIdx:1, size:6, lectures:new Set()};
+let round=null, timer=null;
+
+/* ================= HELPERS ================= */
+const $=id=>document.getElementById(id);
+const shuffle=a=>{a=a.slice();for(let i=a.length-1;i>0;i--){const j=Math.random()*(i+1)|0;[a[i],a[j]]=[a[j],a[i]];}return a;};
+const esc=s=>s.replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
+const fmtTime=s=>Math.floor(s/60)+':'+String(s%60).padStart(2,'0');
+const lecNum=l=>parseInt(String(l).replace(/[^0-9]/g,''),10)||0;
+function curAttr(){return CATS[cfg.cat].attrs[cfg.attrIdx];}
+function bestKey(){return `mgb4::${cfg.cat}::${curAttr().field}::${cfg.size}`;}
+function getBest(){return parseInt(localStorage.getItem(bestKey())||'0',10);}
+function setBest(v){localStorage.setItem(bestKey(),String(v));}
+
+/* lectures available for current category */
+function catLectures(){
+  const s=new Set();
+  MATCHING_DATA[cfg.cat].forEach(it=>s.add(it.lecture));
+  return [...s].sort((a,b)=>lecNum(a)-lecNum(b));
+}
+/* pool: items in category whose attr field is non-empty and lecture is selected */
+function pool(){
+  const f=curAttr().field;
+  return MATCHING_DATA[cfg.cat].filter(it=>
+    it[f] && String(it[f]).trim() && cfg.lectures.has(it.lecture));
+}
+
+/* ================= SETUP UI ================= */
+function renderSetup(){
+  // category
+  $('catOpts').innerHTML=Object.keys(CATS).map(k=>
+    `<button class="opt" data-cat="${k}" data-k="${k}">${CATS[k].label} `+
+    `<span style="opacity:.7">(${MATCHING_DATA[k].length})</span></button>`).join('');
+  $('catOpts').querySelectorAll('.opt').forEach(b=>b.onclick=()=>{
+    cfg.cat=b.dataset.k; cfg.attrIdx=Math.min(cfg.attrIdx,CATS[cfg.cat].attrs.length-1);
+    cfg.lectures=new Set(catLectures()); renderSetup();
+  });
+  // attribute
+  $('attrOpts').innerHTML=CATS[cfg.cat].attrs.map((a,i)=>
+    `<button class="opt" data-cat="${cfg.cat}" data-i="${i}">${a.label}</button>`).join('');
+  $('attrOpts').querySelectorAll('.opt').forEach(b=>b.onclick=()=>{
+    cfg.attrIdx=+b.dataset.i; renderSetup();
+  });
+  // sizes
+  $('sizeOpts').innerHTML=SIZES.map(s=>
+    `<button class="opt sm" data-s="${s}">${s} pairs</button>`).join('');
+  $('sizeOpts').querySelectorAll('.opt').forEach(b=>b.onclick=()=>{
+    cfg.size=+b.dataset.s; renderSetup();
+  });
+  // lectures
+  if(cfg.lectures.size===0) cfg.lectures=new Set(catLectures());
+  const lecs=catLectures();
+  cfg.lectures=new Set([...cfg.lectures].filter(l=>lecs.includes(l)));
+  $('lecChips').innerHTML=lecs.map(l=>
+    `<button class="fchip" data-l="${l}">${l}</button>`).join('');
+  $('lecChips').querySelectorAll('.fchip').forEach(b=>b.onclick=()=>{
+    const l=b.dataset.l;
+    cfg.lectures.has(l)?cfg.lectures.delete(l):cfg.lectures.add(l);
+    renderSetup();
+  });
+  $('lecAll').onclick=()=>{cfg.lectures=new Set(lecs);renderSetup();};
+  $('lecNone').onclick=()=>{cfg.lectures=new Set();renderSetup();};
+
+  // reflect selections
+  mark('catOpts','k',cfg.cat);
+  mark('attrOpts','i',String(cfg.attrIdx));
+  mark('sizeOpts','s',String(cfg.size));
+  $('lecChips').querySelectorAll('.fchip').forEach(b=>
+    b.classList.toggle('on',cfg.lectures.has(b.dataset.l)));
+
+  // lecture count + pool size
+  const p=pool();
+  $('lecCount').textContent=`— ${cfg.lectures.size}/${lecs.length} selected, ${p.length} ${cfg.cat} in play`;
+
+  // best + start enable
+  const enough=p.length>=2;
+  $('startBtn').disabled=!enough;
+  $('startBtn').textContent=enough?'Start round ▶':'Not enough items — widen lecture filter';
+  const b=getBest();
+  $('setupBest').textContent=b?`Best score for this exact setup: ${b}`:'';
+}
+function mark(containerId,attr,val){
+  $(containerId).querySelectorAll('.opt').forEach(b=>
+    b.classList.toggle('sel',b.dataset[attr]===val));
+}
+
+/* ================= ROUND ================= */
+function buildRound(){
+  const f=curAttr().field;
+  const p=shuffle(pool());
+  // greedy: prefer items with distinct attr-values to reduce ambiguous answers
+  const picked=[], usedVals=new Set();
+  for(const it of p){
+    if(picked.length>=cfg.size) break;
+    const v=String(it[f]).trim().toLowerCase();
+    if(!usedVals.has(v)){picked.push(it);usedVals.add(v);}
+  }
+  for(const it of p){ // top up if distinct values ran short
+    if(picked.length>=cfg.size) break;
+    if(!picked.includes(it)) picked.push(it);
+  }
+  const left=picked.map(it=>({
+    item:it, side:'L', state:'idle',
+    display: it.name,
+    expect:  String(it[f]),
+    anchor:  true
+  }));
+  const right=shuffle(picked).map(it=>({
+    item:it, side:'R', state:'idle',
+    display: String(it[f]),
+    matchVal:String(it[f]),
+    anchor:  false
+  }));
+  round={
+    left:shuffle(left), right, size:picked.length,
+    matched:0, wrong:0, streak:0, score:0, hints:0,
+    pick:null, start:Date.now(), done:false
+  };
+}
+
+function startRound(){
+  buildRound();
+  $('setup').classList.add('hidden');
+  $('play').classList.remove('hidden');
+  $('overlay').classList.add('hidden');
+  const a=CATS[cfg.cat], at=curAttr();
+  $('headL').textContent=a.anchorLabel;
+  $('headR').textContent=at.label;
+  $('taskLine').innerHTML=`Match each <b>${esc(a.anchorLabel)}</b> to its <b>${esc(at.label)}</b>`;
+  renderBoard(); updateStats();
+  clearInterval(timer);
+  timer=setInterval(()=>{ if(!round.done) updateStats(); },1000);
+}
+
+function renderBoard(){
+  ['L','R'].forEach(side=>{
+    const col=$(side==='L'?'colL':'colR');
+    const cards=round[side==='L'?'left':'right'];
+    col.innerHTML='';
+    cards.forEach((c,i)=>{
+      const el=document.createElement('button');
+      el.className='card'+(c.anchor?' anchor':'');
+      el.innerHTML=`<span class="lec">${esc(c.item.lecture)}</span>`+
+        `<span class="tick">✔</span>${esc(c.display)}`;
+      el.onclick=()=>onPick(side,i);
+      c.el=el; col.appendChild(el);
+    });
+  });
+  applyStates();
+}
+function applyStates(){
+  [...round.left,...round.right].forEach(c=>{
+    c.el.classList.remove('sel','matched');
+    if(c.state==='sel') c.el.classList.add('sel');
+    if(c.state==='matched') c.el.classList.add('matched');
+  });
+}
+
+function onPick(side,i){
+  if(round.done) return;
+  const card=round[side==='L'?'left':'right'][i];
+  if(card.state==='matched') return;
+  const p=round.pick;
+  if(!p){ select(card); return; }
+  if(p===card){ card.state='idle'; round.pick=null; applyStates(); return; }
+  if(p.side===card.side){ p.state='idle'; select(card); return; }
+  // opposite sides -> evaluate
+  const L=p.side==='L'?p:card, R=p.side==='R'?p:card;
+  round.pick=null;
+  if(L.expect===R.matchVal){ correct(L,R); }
+  else { wrong(L,R); }
+}
+function select(c){ c.state='sel'; round.pick=c; applyStates(); }
+
+function correct(L,R){
+  L.state=R.state='matched';
+  round.matched++; round.streak++;
+  round.score += 10 + (round.streak-1)*2;
+  applyStates();
+  [L,R].forEach(c=>{
+    c.el.classList.add('justmatched');
+    setTimeout(()=>c.el&&c.el.classList.remove('justmatched'),320);
+  });
+  updateStats();
+  if(round.matched===round.size) endRound();
+}
+function wrong(L,R){
+  round.wrong++; round.streak=0;
+  round.score=Math.max(0,round.score-3);
+  [L,R].forEach(c=>{
+    c.el.classList.add('wrong');
+    setTimeout(()=>c.el&&c.el.classList.remove('wrong'),420);
+  });
+  L.state=R.state='idle';
+  applyStates(); updateStats();
+}
+
+function useHint(){
+  if(round.done) return;
+  const L=round.left.find(c=>c.state!=='matched');
+  if(!L) return;
+  const R=round.right.find(c=>c.state!=='matched'&&c.matchVal===L.expect);
+  if(!R) return;
+  round.hints++; round.streak=0;
+  round.score=Math.max(0,round.score-5);
+  if(round.pick){round.pick.state='idle';round.pick=null;}
+  [L,R].forEach(c=>{
+    c.el.classList.add('hintglow');
+    setTimeout(()=>c.el&&c.el.classList.remove('hintglow'),1400);
+  });
+  applyStates(); updateStats();
+}
+
+function updateStats(){
+  const secs=Math.floor((Date.now()-round.start)/1000);
+  $('sPairs').textContent=round.matched+'/'+round.size;
+  $('sTime').textContent=fmtTime(secs);
+  $('sScore').textContent=round.score;
+  $('sStreak').textContent=round.streak;
+  $('sMiss').textContent=round.wrong;
+}
+
+function endRound(){
+  round.done=true; clearInterval(timer);
+  const secs=Math.floor((Date.now()-round.start)/1000);
+  const timeBonus=Math.max(0,round.size*6-secs);
+  const finalScore=round.score+timeBonus;
+  const attempts=round.size+round.wrong;
+  const acc=Math.round(round.size/attempts*100);
+  const prevBest=getBest();
+  const isBest=finalScore>prevBest;
+  if(isBest) setBest(finalScore);
+
+  $('mScore').textContent=finalScore;
+  $('mTime').textContent=fmtTime(secs);
+  $('mAcc').textContent=acc+'%';
+  $('mSub').textContent=`${round.size} pairs · ${round.wrong} misses`+
+    (round.hints?` · ${round.hints} hint${round.hints>1?'s':''}`:'')+
+    ` · +${timeBonus} time bonus`;
+  $('mTitle').textContent = round.wrong===0&&round.hints===0 ? 'Perfect round' : 'Round complete';
+  $('mNewBest').classList.toggle('hidden',!isBest);
+  $('mBest').textContent='Best for this setup: '+getBest();
+  setTimeout(()=>$('overlay').classList.remove('hidden'),520);
+}
+
+/* ================= NAV ================= */
+$('hintBtn').onclick=useHint;
+$('restartBtn').onclick=()=>startRound();
+$('quitBtn').onclick=()=>backToSetup();
+$('nextBtn').onclick=()=>startRound();
+$('settingsBtn').onclick=()=>backToSetup();
+function backToSetup(){
+  clearInterval(timer);
+  $('overlay').classList.add('hidden');
+  $('play').classList.add('hidden');
+  $('setup').classList.remove('hidden');
+  renderSetup();
+}
+$('startBtn').onclick=()=>{ if(!$('startBtn').disabled) startRound(); };
+document.addEventListener('keydown',e=>{
+  if(e.key==='Escape'&&round&&!round.done&&round.pick){
+    round.pick.state='idle';round.pick=null;applyStates();
+  }
+});
+
+/* ================= THEME ================= */
+$('themeToggle').onclick=()=>{
+  const dark=document.documentElement.classList.toggle('dark');
+  try{localStorage.setItem('theme',dark?'dark':'light');}catch(e){}
+  const m=$('themeColorMeta');
+  if(m) m.setAttribute('content',dark?'#1A1410':'#F4F1EA');
+};
+
+/* ================= INIT ================= */
+cfg.lectures=new Set(catLectures());
+renderSetup();
+</script>
+</body>
+</html>

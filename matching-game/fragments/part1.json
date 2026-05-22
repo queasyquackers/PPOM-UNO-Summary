@@ -1,0 +1,545 @@
+{
+  "bugs": [],
+  "drugs": [
+    {
+      "name": "Ferrous sulfate (oral iron)",
+      "disease": "Iron deficiency anemia",
+      "mechanism": "Replaces depleted iron stores; absorbed as Fe2+ in the duodenum",
+      "adverseEffects": "GI irritation, constipation, black stools",
+      "lecture": "L153"
+    },
+    {
+      "name": "Iron dextran / iron sucrose (IV iron)",
+      "disease": "Iron deficiency anemia with malabsorption or rapid blood loss",
+      "mechanism": "Parenteral iron repletion bypassing the closed gut",
+      "adverseEffects": "Anaphylaxis (high-molecular-weight dextran); test dose required",
+      "lecture": "L153"
+    },
+    {
+      "name": "Deferoxamine",
+      "disease": "Acute iron poisoning / iron overload",
+      "mechanism": "Iron chelator that binds free iron for urinary excretion",
+      "adverseEffects": "Hypotension; may cause reddish urine",
+      "lecture": "L153"
+    },
+    {
+      "name": "Epoetin alfa (ESA)",
+      "disease": "Anemia of chronic kidney disease or chemotherapy",
+      "mechanism": "Binds EPO receptor on erythroid progenitors, activating JAK-STAT",
+      "adverseEffects": "Thrombosis/stroke/MI if Hb pushed >11 g/dL (black box)",
+      "lecture": "L153"
+    },
+    {
+      "name": "Hydroxyurea",
+      "disease": "Sickle cell disease",
+      "mechanism": "Inhibits ribonucleotide reductase, inducing fetal hemoglobin (HbF)",
+      "adverseEffects": "Bone marrow suppression; teratogenic",
+      "lecture": "L153"
+    },
+    {
+      "name": "Hydroxocobalamin (Cyanokit)",
+      "disease": "Cyanide poisoning (also a form of B12)",
+      "mechanism": "Binds cyanide to form non-toxic cyanocobalamin",
+      "adverseEffects": "Reddish discoloration of skin and urine",
+      "lecture": "L153"
+    },
+    {
+      "name": "Vitamin B12 (cobalamin)",
+      "disease": "B12 deficiency / pernicious anemia",
+      "mechanism": "Cofactor for methionine synthase and methylmalonyl-CoA conversion",
+      "adverseEffects": "Well tolerated; must rule out before giving folate alone",
+      "lecture": "L153"
+    },
+    {
+      "name": "Folic acid (folate)",
+      "disease": "Folate deficiency megaloblastic anemia",
+      "mechanism": "Restores tetrahydrofolate for DNA synthesis",
+      "adverseEffects": "Masks B12-deficiency anemia while neuropathy progresses (folate trap)",
+      "lecture": "L153"
+    },
+    {
+      "name": "Cyclophosphamide",
+      "disease": "Lymphomas, leukemias, breast cancer (alkylating agent)",
+      "mechanism": "Pro-drug; alkylates DNA at N7 of guanine causing cross-links",
+      "adverseEffects": "Hemorrhagic cystitis from acrolein; prevented with MESNA",
+      "lecture": "L156"
+    },
+    {
+      "name": "MESNA",
+      "disease": "Prophylaxis of cyclophosphamide-induced hemorrhagic cystitis",
+      "mechanism": "Thiol that concentrates in bladder and neutralizes acrolein",
+      "adverseEffects": "Generally well tolerated",
+      "lecture": "L156"
+    },
+    {
+      "name": "Cisplatin",
+      "disease": "Solid tumors (platinum agent)",
+      "mechanism": "Aquated intermediate cross-links DNA",
+      "adverseEffects": "Nephrotoxicity, ototoxicity, severe emesis",
+      "lecture": "L156"
+    },
+    {
+      "name": "Carboplatin",
+      "disease": "Solid tumors (platinum agent)",
+      "mechanism": "DNA cross-linking, less reactive than cisplatin",
+      "adverseEffects": "Dose-limiting bone marrow suppression",
+      "lecture": "L156"
+    },
+    {
+      "name": "Oxaliplatin",
+      "disease": "Colorectal cancer (FOLFOX backbone)",
+      "mechanism": "DNA cross-linking via aquated platinum intermediate",
+      "adverseEffects": "Cold-induced peripheral neuropathy",
+      "lecture": "L156"
+    },
+    {
+      "name": "Methotrexate",
+      "disease": "Leukemias, lymphomas, many cancers (antimetabolite)",
+      "mechanism": "Inhibits dihydrofolate reductase, blocking active folate",
+      "adverseEffects": "Myelosuppression, mucositis; rescued by leucovorin",
+      "lecture": "L156"
+    },
+    {
+      "name": "Leucovorin (folinic acid)",
+      "disease": "Rescue after high-dose methotrexate",
+      "mechanism": "Reduced folate that bypasses blocked DHFR to rescue normal cells",
+      "adverseEffects": "Increases 5-FU toxicity when combined",
+      "lecture": "L156"
+    },
+    {
+      "name": "5-Fluorouracil",
+      "disease": "Colorectal and other solid cancers (antimetabolite)",
+      "mechanism": "Inhibits thymidylate synthase causing thymine-less death",
+      "adverseEffects": "Hand-foot syndrome (palmar-plantar erythrodysesthesia)",
+      "lecture": "L156"
+    },
+    {
+      "name": "Cytarabine (Ara-C)",
+      "disease": "Acute myeloid leukemia",
+      "mechanism": "Arabinose analog blocks DNA polymerase and terminates chains",
+      "adverseEffects": "Myelosuppression",
+      "lecture": "L156"
+    },
+    {
+      "name": "6-Mercaptopurine",
+      "disease": "Acute lymphoblastic leukemia (purine analog)",
+      "mechanism": "Purine analog inactivated by xanthine oxidase",
+      "adverseEffects": "Toxic accumulation with allopurinol; reduce dose 75%",
+      "lecture": "L156"
+    },
+    {
+      "name": "Vincristine",
+      "disease": "Leukemias and lymphomas (vinca alkaloid)",
+      "mechanism": "Blocks microtubule assembly, arresting mitosis",
+      "adverseEffects": "Peripheral neuropathy, constipation; fatal if given intrathecally",
+      "lecture": "L156"
+    },
+    {
+      "name": "Paclitaxel (taxane)",
+      "disease": "Breast and other solid cancers",
+      "mechanism": "Hyperstabilizes microtubules, blocking disassembly",
+      "adverseEffects": "Peripheral neuropathy, myelosuppression",
+      "lecture": "L156"
+    },
+    {
+      "name": "Irinotecan",
+      "disease": "Colon cancer (topoisomerase I inhibitor)",
+      "mechanism": "Inhibits topoisomerase I, causing DNA strand breaks",
+      "adverseEffects": "Severe diarrhea",
+      "lecture": "L156"
+    },
+    {
+      "name": "Etoposide",
+      "disease": "Various cancers (topoisomerase II inhibitor)",
+      "mechanism": "Blocks topoisomerase II resealing of double-strand DNA breaks",
+      "adverseEffects": "Myelosuppression, secondary leukemia risk",
+      "lecture": "L156"
+    },
+    {
+      "name": "Doxorubicin (Red Devil)",
+      "disease": "Lymphomas, breast cancer (anthracycline antibiotic)",
+      "mechanism": "Generates free radicals and intercalates DNA",
+      "adverseEffects": "Irreversible dilated cardiomyopathy; radiation recall",
+      "lecture": "L156"
+    },
+    {
+      "name": "Bleomycin",
+      "disease": "Hodgkin lymphoma, germ cell tumors",
+      "mechanism": "Generates free radicals causing DNA strand breaks",
+      "adverseEffects": "Pulmonary fibrosis",
+      "lecture": "L156"
+    },
+    {
+      "name": "Carmustine / lomustine (nitrosoureas)",
+      "disease": "Brain tumors",
+      "mechanism": "Lipophilic alkylating agents that cross the blood-brain barrier",
+      "adverseEffects": "Delayed myelosuppression, CNS toxicity",
+      "lecture": "L156"
+    },
+    {
+      "name": "Imatinib",
+      "disease": "Chronic myeloid leukemia (BCR-ABL+)",
+      "mechanism": "Tyrosine kinase inhibitor blocking BCR-ABL ATP-binding site",
+      "adverseEffects": "Periorbital edema; T315I mutation confers resistance",
+      "lecture": "L157"
+    },
+    {
+      "name": "Erlotinib / gefitinib",
+      "disease": "EGFR-mutant lung cancer",
+      "mechanism": "Small-molecule EGFR tyrosine kinase inhibitor",
+      "adverseEffects": "Acneiform rash",
+      "lecture": "L157"
+    },
+    {
+      "name": "Trastuzumab",
+      "disease": "HER2-positive breast cancer",
+      "mechanism": "Monoclonal antibody against the HER2/neu receptor",
+      "adverseEffects": "Reversible cardiotoxicity (decreased LVEF)",
+      "lecture": "L157"
+    },
+    {
+      "name": "Bevacizumab",
+      "disease": "Colon and other solid cancers (anti-angiogenic)",
+      "mechanism": "Monoclonal antibody that binds and neutralizes VEGF",
+      "adverseEffects": "Hypertension, hemorrhage, impaired wound healing",
+      "lecture": "L157"
+    },
+    {
+      "name": "Cetuximab",
+      "disease": "KRAS wild-type colorectal cancer",
+      "mechanism": "Monoclonal antibody against EGFR",
+      "adverseEffects": "Ineffective if KRAS is mutated; acneiform rash",
+      "lecture": "L157"
+    },
+    {
+      "name": "Rituximab",
+      "disease": "CD20-positive B-cell lymphomas",
+      "mechanism": "Monoclonal antibody targeting CD20 on B cells",
+      "adverseEffects": "Infusion reactions",
+      "lecture": "L157"
+    },
+    {
+      "name": "Bortezomib",
+      "disease": "Multiple myeloma",
+      "mechanism": "Proteasome inhibitor blocking NF-kB; misfolded proteins accumulate",
+      "adverseEffects": "Herpes zoster reactivation; peripheral neuropathy",
+      "lecture": "L157"
+    },
+    {
+      "name": "Lenalidomide",
+      "disease": "Multiple myeloma (IMiD)",
+      "mechanism": "Binds cereblon, degrading transcription factors cancer cells need",
+      "adverseEffects": "Severe teratogen (phocomelia); thrombosis risk",
+      "lecture": "L157"
+    },
+    {
+      "name": "Pembrolizumab",
+      "disease": "Metastatic melanoma and other cancers (checkpoint inhibitor)",
+      "mechanism": "PD-1 inhibitor that releases the brakes on T cells",
+      "adverseEffects": "Immune-related adverse events (colitis, pneumonitis, hypophysitis)",
+      "lecture": "L157"
+    },
+    {
+      "name": "Ipilimumab",
+      "disease": "Metastatic melanoma (checkpoint inhibitor)",
+      "mechanism": "CTLA-4 inhibitor that enhances T-cell activation",
+      "adverseEffects": "Immune-related adverse events (autoimmune organ inflammation)",
+      "lecture": "L157"
+    },
+    {
+      "name": "CAR T-cell therapy",
+      "disease": "Relapsed CD19-positive B-cell malignancies",
+      "mechanism": "Patient T cells engineered to recognize tumor antigen CD19",
+      "adverseEffects": "Cytokine release syndrome (high fever, multi-organ failure)",
+      "lecture": "L157"
+    },
+    {
+      "name": "ATRA (all-trans retinoic acid)",
+      "disease": "Acute promyelocytic leukemia (APL/M3)",
+      "mechanism": "Forces malignant promyelocytes to differentiate and mature",
+      "adverseEffects": "Differentiation (retinoic acid) syndrome",
+      "lecture": "L154"
+    },
+    {
+      "name": "Eculizumab",
+      "disease": "Paroxysmal nocturnal hemoglobinuria",
+      "mechanism": "Anti-C5 monoclonal antibody blocking terminal complement",
+      "adverseEffects": "Increased risk of Neisseria meningitidis infection",
+      "lecture": "L152"
+    },
+    {
+      "name": "RhoGAM (anti-D immunoglobulin)",
+      "disease": "Prevention of Rh hemolytic disease of the newborn",
+      "mechanism": "Passive anti-D IgG clears fetal RBCs before maternal sensitization",
+      "adverseEffects": "Well tolerated; given at 28 weeks and within 72h of delivery",
+      "lecture": "L149"
+    },
+    {
+      "name": "Tranexamic acid",
+      "disease": "Massive hemorrhage / massive transfusion",
+      "mechanism": "Antifibrinolytic that prevents clot dissolution",
+      "adverseEffects": "Thrombosis risk",
+      "lecture": "L149"
+    }
+  ],
+  "correlates": [
+    {
+      "name": "Bombay phenotype (Oh)",
+      "pathophysiology": "Homozygous non-functional H gene means no H-substance, so no A or B antigens form and anti-H is produced",
+      "treatment": "Can only receive blood from another Bombay donor",
+      "lecture": "L149"
+    },
+    {
+      "name": "Hemolytic disease of the fetus and newborn (HDFN)",
+      "pathophysiology": "Sensitized Rh-negative mother makes IgG anti-D that crosses the placenta to destroy fetal Rh+ RBCs",
+      "treatment": "RhoGAM prophylaxis; in utero or exchange transfusion plus phototherapy",
+      "lecture": "L149"
+    },
+    {
+      "name": "Acute hemolytic transfusion reaction (AHTR)",
+      "pathophysiology": "ABO incompatibility (clerical error); preformed IgM fixes complement causing intravascular hemolysis",
+      "treatment": "Stop transfusion; IV fluids, pressors, diuresis for renal protection",
+      "lecture": "L149"
+    },
+    {
+      "name": "Transfusion-associated circulatory overload (TACO)",
+      "pathophysiology": "Volume overload causes cardiogenic pulmonary edema with elevated CVP/PCWP",
+      "treatment": "Diuretics (furosemide); slow infusion rate",
+      "lecture": "L149"
+    },
+    {
+      "name": "Transfusion-related acute lung injury (TRALI)",
+      "pathophysiology": "Donor anti-neutrophil antibodies activate recipient pulmonary neutrophils; non-cardiogenic edema with normal CVP",
+      "treatment": "Supportive care; avoid implicated donors",
+      "lecture": "L149"
+    },
+    {
+      "name": "Transfusion-associated graft-versus-host disease (TA-GVHD)",
+      "pathophysiology": "Donor T cells engraft in an immunocompromised host and attack host tissues",
+      "treatment": "Prevented by irradiation of blood products; >90% fatal once established",
+      "lecture": "L149"
+    },
+    {
+      "name": "Extramedullary hematopoiesis",
+      "pathophysiology": "Failing bone marrow shifts blood cell production back to fetal sites, the liver and spleen",
+      "treatment": "Treat underlying cause (e.g., myelofibrosis); supportive transfusion",
+      "lecture": "L150"
+    },
+    {
+      "name": "Acute leukemia (marrow crowding)",
+      "pathophysiology": "Malignant blast expansion fills marrow, crowding out normal lineages causing pancytopenia",
+      "treatment": "Induction chemotherapy; lineage-directed therapy after flow cytometry",
+      "lecture": "L150"
+    },
+    {
+      "name": "Iron deficiency anemia",
+      "pathophysiology": "Iron loss or increased demand outpaces intake, depleting stores for hemoglobin synthesis",
+      "treatment": "Oral ferrous sulfate; identify and treat the bleeding source",
+      "lecture": "L151"
+    },
+    {
+      "name": "Anemia of chronic disease",
+      "pathophysiology": "Chronic inflammation (IL-6) raises hepcidin, locking iron in macrophages",
+      "treatment": "Treat the underlying inflammatory disease",
+      "lecture": "L151"
+    },
+    {
+      "name": "Sideroblastic anemia",
+      "pathophysiology": "Defective protoporphyrin synthesis causes iron to accumulate in mitochondria as ringed sideroblasts",
+      "treatment": "Pyridoxine (vitamin B6); remove offending agent (alcohol, isoniazid)",
+      "lecture": "L151"
+    },
+    {
+      "name": "Lead poisoning",
+      "pathophysiology": "Lead inhibits ALAD and ferrochelatase, impairing heme synthesis; basophilic stippling appears",
+      "treatment": "Chelation (e.g., succimer, EDTA, dimercaprol)",
+      "lecture": "L151"
+    },
+    {
+      "name": "Alpha-thalassemia",
+      "pathophysiology": "Deletion of alpha-globin genes on chromosome 16 reduces alpha-chain synthesis",
+      "treatment": "Supportive; severe HbH disease may need transfusion; Hb Bart's is lethal",
+      "lecture": "L151"
+    },
+    {
+      "name": "Beta-thalassemia",
+      "pathophysiology": "Beta-globin gene mutations on chromosome 11 reduce beta-chain synthesis; elevated HbA2",
+      "treatment": "Major: chronic transfusion with iron chelation; minor: none needed",
+      "lecture": "L151"
+    },
+    {
+      "name": "Plummer-Vinson syndrome",
+      "pathophysiology": "Iron deficiency anemia associated with esophageal webs and atrophic glossitis",
+      "treatment": "Iron repletion; dilation of esophageal webs if needed",
+      "lecture": "L151"
+    },
+    {
+      "name": "Megaloblastic anemia (B12/folate deficiency)",
+      "pathophysiology": "Impaired DNA synthesis from B12 or folate deficiency causes large cells and hypersegmented neutrophils",
+      "treatment": "Replace the deficient vitamin; confirm B12 status before giving folate",
+      "lecture": "L152"
+    },
+    {
+      "name": "Subacute combined degeneration",
+      "pathophysiology": "B12 deficiency raises methylmalonic acid, damaging dorsal columns and lateral corticospinal tracts",
+      "treatment": "B12 replacement; deficits may be irreversible if delayed",
+      "lecture": "L152"
+    },
+    {
+      "name": "Hereditary spherocytosis",
+      "pathophysiology": "Defects in ankyrin, spectrin, or band 3 cause membrane loss and rigid spheres trapped in the spleen",
+      "treatment": "Splenectomy",
+      "lecture": "L152"
+    },
+    {
+      "name": "Sickle cell disease",
+      "pathophysiology": "Glutamate-to-valine mutation in beta-globin; HbS polymerizes under hypoxia/acidosis",
+      "treatment": "Hydroxyurea; hydration, analgesia, vaccination against encapsulated organisms",
+      "lecture": "L152"
+    },
+    {
+      "name": "Paroxysmal nocturnal hemoglobinuria (PNH)",
+      "pathophysiology": "Acquired PIGA mutation removes GPI-anchored CD55/CD59, leaving RBCs defenseless against complement",
+      "treatment": "Eculizumab (anti-C5)",
+      "lecture": "L152"
+    },
+    {
+      "name": "G6PD deficiency",
+      "pathophysiology": "Lack of NADPH leaves RBCs vulnerable to oxidative stress, denaturing hemoglobin into Heinz bodies",
+      "treatment": "Avoid oxidant triggers (fava beans, sulfa drugs); supportive care",
+      "lecture": "L152"
+    },
+    {
+      "name": "Aplastic anemia",
+      "pathophysiology": "Marrow failure with fatty replacement causing pancytopenia",
+      "treatment": "Immunosuppression or hematopoietic stem cell transplant",
+      "lecture": "L152"
+    },
+    {
+      "name": "Fanconi anemia",
+      "pathophysiology": "Inherited defect in DNA cross-link repair causing pancytopenia",
+      "treatment": "Hematopoietic stem cell transplant; supportive care",
+      "lecture": "L152"
+    },
+    {
+      "name": "Diamond-Blackfan anemia",
+      "pathophysiology": "Congenital pure red cell aplasia with intrinsic ribosomal defect",
+      "treatment": "Corticosteroids; transfusion support",
+      "lecture": "L152"
+    },
+    {
+      "name": "Acute myeloid leukemia (AML)",
+      "pathophysiology": "Clonal expansion of myeloid blasts; Auer rods of crystallized myeloperoxidase",
+      "treatment": "Induction chemotherapy (e.g., cytarabine-based)",
+      "lecture": "L154"
+    },
+    {
+      "name": "Acute promyelocytic leukemia (APL/M3)",
+      "pathophysiology": "t(15;17) disrupts the retinoic acid receptor; granule release triggers DIC",
+      "treatment": "ATRA (all-trans retinoic acid) to force differentiation",
+      "lecture": "L154"
+    },
+    {
+      "name": "Acute lymphoblastic leukemia (ALL)",
+      "pathophysiology": "Clonal proliferation of TdT-positive lymphoblasts; most common childhood cancer",
+      "treatment": "Multi-agent chemotherapy with CNS prophylaxis",
+      "lecture": "L154"
+    },
+    {
+      "name": "Chronic lymphocytic leukemia (CLL)",
+      "pathophysiology": "Accumulation of fragile mature B cells; smudge cells and hypogammaglobulinemia",
+      "treatment": "BTK inhibitors (ibrutinib); watch-and-wait if asymptomatic",
+      "lecture": "L154"
+    },
+    {
+      "name": "Chronic myelogenous leukemia (CML)",
+      "pathophysiology": "Philadelphia chromosome t(9;22) creates the constitutively active BCR-ABL tyrosine kinase",
+      "treatment": "Imatinib or other BCR-ABL tyrosine kinase inhibitors",
+      "lecture": "L154"
+    },
+    {
+      "name": "Follicular lymphoma",
+      "pathophysiology": "t(14;18) overexpresses anti-apoptotic BCL-2, so cells refuse to die",
+      "treatment": "Watch-and-wait; rituximab-based therapy when symptomatic",
+      "lecture": "L155"
+    },
+    {
+      "name": "Burkitt lymphoma",
+      "pathophysiology": "t(8;14) overexpresses c-MYC; fastest-growing tumor with starry-sky histology",
+      "treatment": "Intensive chemotherapy with tumor lysis prophylaxis (hydration, rasburicase)",
+      "lecture": "L155"
+    },
+    {
+      "name": "Hodgkin lymphoma",
+      "pathophysiology": "Reed-Sternberg cells (CD15+/CD30+) secrete cytokines summoning a reactive infiltrate; contiguous nodal spread",
+      "treatment": "ABVD chemotherapy",
+      "lecture": "L155"
+    },
+    {
+      "name": "Diffuse large B-cell lymphoma (DLBCL)",
+      "pathophysiology": "Most common adult NHL; rapidly enlarging mass, often extranodal, may arise de novo or from transformation",
+      "treatment": "R-CHOP; CAR-T for relapsed disease",
+      "lecture": "L155"
+    },
+    {
+      "name": "Mantle cell lymphoma",
+      "pathophysiology": "t(11;14) overexpresses cyclin D1, pushing cells past the G1/S checkpoint; CD5+/CD23-",
+      "treatment": "Chemoimmunotherapy; BTK inhibitors",
+      "lecture": "L155"
+    },
+    {
+      "name": "MALT lymphoma (marginal zone)",
+      "pathophysiology": "Chronic mucosal inflammation (H. pylori, Sjogren, Hashimoto) drives clonal B-cell proliferation",
+      "treatment": "H. pylori eradication can cure gastric MALT lymphoma",
+      "lecture": "L155"
+    },
+    {
+      "name": "Adult T-cell leukemia/lymphoma (ATLL)",
+      "pathophysiology": "HTLV-1 retrovirus drives malignant T cells; flower cells, lytic bone lesions, hypercalcemia",
+      "treatment": "Combination chemotherapy; antiviral plus interferon regimens",
+      "lecture": "L155"
+    },
+    {
+      "name": "Mycosis fungoides",
+      "pathophysiology": "Indolent skin-homing CD4+ T-cell lymphoma with Pautrier microabscesses",
+      "treatment": "Skin-directed therapy (topical steroids, phototherapy)",
+      "lecture": "L155"
+    },
+    {
+      "name": "Multiple myeloma",
+      "pathophysiology": "Malignant plasma cell clone produces an M-spike causing CRAB (hypercalcemia, renal failure, anemia, lytic bone lesions)",
+      "treatment": "Lenalidomide + bortezomib + dexamethasone (RVd)",
+      "lecture": "L155"
+    },
+    {
+      "name": "MGUS",
+      "pathophysiology": "M-protein <3 g/dL with <10% marrow plasma cells and no end-organ damage",
+      "treatment": "Lifelong surveillance; progresses to myeloma ~1% per year",
+      "lecture": "L155"
+    },
+    {
+      "name": "Waldenstrom macroglobulinemia",
+      "pathophysiology": "Lymphoplasmacytic lymphoma producing IgM (MYD88 L265P); no lytic bone lesions",
+      "treatment": "Plasmapheresis for hyperviscosity; BTK inhibitors",
+      "lecture": "L155"
+    },
+    {
+      "name": "AL amyloidosis",
+      "pathophysiology": "Misfolded light chains deposit as beta-pleated sheets in tissues; macroglossia, restrictive cardiomyopathy",
+      "treatment": "Plasma-cell-directed chemotherapy; Congo red confirms diagnosis",
+      "lecture": "L155"
+    },
+    {
+      "name": "Tumor lysis syndrome",
+      "pathophysiology": "Massive tumor cell death releases uric acid, potassium, and phosphate causing metabolic derangement",
+      "treatment": "Aggressive hydration plus allopurinol or rasburicase",
+      "lecture": "L156"
+    },
+    {
+      "name": "Disseminated intravascular coagulation (DIC)",
+      "pathophysiology": "Widespread activation of coagulation consumes clotting factors and platelets",
+      "treatment": "Treat underlying cause; FFP, cryoprecipitate, and platelet support",
+      "lecture": "L149"
+    }
+  ]
+}
