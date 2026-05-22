@@ -96,8 +96,10 @@ button{font-family:inherit;color:inherit;-webkit-tap-highlight-color:transparent
   letter-spacing:.28em;text-transform:uppercase;color:var(--muted);
   margin-bottom:9px;
 }
-.brandback{color:var(--muted);text-decoration:none;transition:color .15s;}
+.brandback{color:var(--text);text-decoration:none;transition:opacity .15s;}
+.brandback .arrow{color:var(--accent);margin-right:5px;}
 .brandback .dot{color:var(--accent);}
+.brandback:hover{opacity:.6;}
 .issue{letter-spacing:.3em;}
 .theme-btn{
   background:none;border:none;cursor:pointer;color:var(--muted);
@@ -360,7 +362,7 @@ details.filter[open] summary::after{content:"\2013";}
 <body>
 <header class="masthead">
   <div class="mast-top">
-    <a class="brandback" href="https://queasyquackers.github.io/PPOM-UNO-Summary/" title="Open OnePass">OnePass<span class="dot">.</span></a>
+    <a class="brandback" href="https://queasyquackers.github.io/PPOM-UNO-Summary/" title="Back to OnePass"><span class="arrow">&#8592;</span>OnePass<span class="dot">.</span></a>
     <span class="issue">Block IV</span>
     <button id="themeToggle" class="theme-btn" type="button" aria-label="Toggle dark mode" title="Toggle dark mode">
       <svg class="moon" viewBox="0 0 24 24" fill="none" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z"/></svg>
