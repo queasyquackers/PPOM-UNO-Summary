@@ -327,6 +327,22 @@ details.filter[open] summary::after{content:"\2013";}
   font-family:var(--sans);font-size:.78rem;font-weight:700;
   letter-spacing:.16em;text-transform:uppercase;margin-top:14px;
 }
+.misswrap{margin-top:18px;}
+.misshead{
+  font-family:var(--sans);font-size:9.5px;font-weight:700;
+  letter-spacing:.18em;text-transform:uppercase;color:var(--muted);
+  margin-bottom:8px;
+}
+.misslist{
+  display:flex;flex-direction:column;gap:7px;
+  max-height:200px;overflow-y:auto;
+  border:1px solid var(--border);border-radius:5px;
+  background:var(--surface);padding:10px 12px;
+  font-family:var(--serif);font-size:.86rem;line-height:1.36;
+}
+.missrow .anchor-name{font-family:var(--display);font-weight:700;color:var(--text);}
+.missrow .arrow{color:var(--accent);margin:0 6px;}
+.missrow .answer{color:var(--muted);}
 .modal-actions{display:flex;flex-direction:column;gap:9px;margin-top:18px;}
 .btn-primary,.btn-ghost{
   font-family:var(--sans);font-weight:600;font-size:.95rem;
@@ -347,6 +363,11 @@ details.filter[open] summary::after{content:"\2013";}
 }
 
 @media(max-width:600px){
+  .masthead{padding-top:calc(12px + env(safe-area-inset-top));}
+  .wordmark{font-size:clamp(1.6rem,7vw,2.4rem);padding:6px 0 4px;}
+  .slogan{margin-top:7px;}
+  .mast-top{margin-bottom:7px;}
+  .wrap{padding-top:16px;}
   .panel{padding:17px 15px;}
   .board{gap:10px;}
   .card{font-size:.87rem;padding:10px 11px;}
@@ -389,10 +410,13 @@ details.filter[open] summary::after{content:"\2013";}
       <div class="lbl"><span class="n">2</span>Match against</div>
       <div class="opts" id="attrOpts"></div>
 
-      <div class="lbl"><span class="n">3</span>Pairs per round</div>
+      <div class="lbl"><span class="n">3</span>Direction</div>
+      <div class="opts" id="dirOpts"></div>
+
+      <div class="lbl"><span class="n">4</span>Pairs per round</div>
       <div class="opts" id="sizeOpts"></div>
 
-      <div class="lbl"><span class="n">4</span>Lectures <span id="lecCount"></span></div>
+      <div class="lbl"><span class="n">5</span>Lectures <span id="lecCount"></span></div>
       <details class="filter">
         <summary>Filter by lecture</summary>
         <div class="fmini">
@@ -415,7 +439,6 @@ details.filter[open] summary::after{content:"\2013";}
         <span class="stat">Time<b id="sTime">0:00</b></span>
         <span class="stat score">Score<b id="sScore">0</b></span>
         <span class="stat streak">Streak<b id="sStreak">0</b></span>
-        <span class="stat miss">Misses<b id="sMiss">0</b></span>
       </div>
       <div class="tb-actions">
         <button id="hintBtn" type="button" title="Reveal one pair (&minus;5)">Hint</button>
@@ -448,6 +471,10 @@ details.filter[open] summary::after{content:"\2013";}
     </div>
     <div class="newbest hidden" id="mNewBest">New personal best</div>
     <div class="bestline" id="mBest"></div>
+    <div class="misswrap hidden" id="missWrap">
+      <div class="misshead">Review what tripped you up</div>
+      <div class="misslist" id="missList"></div>
+    </div>
     <div class="modal-actions">
       <button class="btn-primary" id="nextBtn" type="button">Next round &#9654;</button>
       <button class="btn-ghost" id="settingsBtn" type="button">Change settings</button>
@@ -487,9 +514,10 @@ const CATS = {
   }
 };
 const SIZES=[4,6,8,10];
+const DIRECTIONS=['forward','reverse']; // forward: name -> attribute; reverse: attribute -> name
 
 /* ================= STATE ================= */
-const cfg={cat:'bugs', attrIdx:1, size:6, lectures:new Set()};
+const cfg={cat:'bugs', attrIdx:1, dir:'forward', size:6, lectures:new Set()};
 let round=null, timer=null;
 
 /* ================= HELPERS ================= */
@@ -499,7 +527,7 @@ const esc=s=>s.replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
 const fmtTime=s=>Math.floor(s/60)+':'+String(s%60).padStart(2,'0');
 const lecNum=l=>parseInt(String(l).replace(/[^0-9]/g,''),10)||0;
 function curAttr(){return CATS[cfg.cat].attrs[cfg.attrIdx];}
-function bestKey(){return `mgb4::${cfg.cat}::${curAttr().field}::${cfg.size}`;}
+function bestKey(){return `mgb4::${cfg.cat}::${curAttr().field}::${cfg.dir}::${cfg.size}`;}
 function getBest(){return parseInt(localStorage.getItem(bestKey())||'0',10);}
 function setBest(v){localStorage.setItem(bestKey(),String(v));}
 
@@ -532,6 +560,14 @@ function renderSetup(){
   $('attrOpts').querySelectorAll('.opt').forEach(b=>b.onclick=()=>{
     cfg.attrIdx=+b.dataset.i; renderSetup();
   });
+  // direction (labels reflect the current category + attribute pick)
+  const anchorL=CATS[cfg.cat].anchorLabel, attrL=curAttr().label;
+  $('dirOpts').innerHTML=
+    `<button class="opt" data-d="forward">${esc(anchorL)} &rarr; ${esc(attrL)}</button>`+
+    `<button class="opt" data-d="reverse">${esc(attrL)} &rarr; ${esc(anchorL)}</button>`;
+  $('dirOpts').querySelectorAll('.opt').forEach(b=>b.onclick=()=>{
+    cfg.dir=b.dataset.d; renderSetup();
+  });
   // sizes
   $('sizeOpts').innerHTML=SIZES.map(s=>
     `<button class="opt sm" data-s="${s}">${s} pairs</button>`).join('');
@@ -555,6 +591,7 @@ function renderSetup(){
   // reflect selections
   mark('catOpts','k',cfg.cat);
   mark('attrOpts','i',String(cfg.attrIdx));
+  mark('dirOpts','d',cfg.dir);
   mark('sizeOpts','s',String(cfg.size));
   $('lecChips').querySelectorAll('.fchip').forEach(b=>
     b.classList.toggle('on',cfg.lectures.has(b.dataset.l)));
@@ -579,33 +616,46 @@ function mark(containerId,attr,val){
 function buildRound(){
   const f=curAttr().field;
   const p=shuffle(pool());
-  // greedy: prefer items with distinct attr-values to reduce ambiguous answers
-  const picked=[], usedVals=new Set();
+  // greedy: prefer items whose attr value isn't a near-duplicate of one already
+  // picked (substring either way), so a clinically-reasonable pick can't be
+  // wrong just because two right-column cards overlap.
+  const picked=[], usedVals=[];
+  const norm=s=>String(s).trim().toLowerCase();
   for(const it of p){
     if(picked.length>=cfg.size) break;
-    const v=String(it[f]).trim().toLowerCase();
-    if(!usedVals.has(v)){picked.push(it);usedVals.add(v);}
+    const v=norm(it[f]); if(!v) continue;
+    if(usedVals.some(u=>u===v||u.includes(v)||v.includes(u))) continue;
+    picked.push(it); usedVals.push(v);
   }
-  for(const it of p){ // top up if distinct values ran short
+  // top up if the distinct-value filter ran short (better a near-dup than too few)
+  for(const it of p){
     if(picked.length>=cfg.size) break;
     if(!picked.includes(it)) picked.push(it);
   }
-  const left=picked.map(it=>({
-    item:it, side:'L', state:'idle',
+  // Build anchor (the item-name card) and target (the attribute card) for each pair.
+  // Direction decides which column anchors land in.
+  const anchors=picked.map(it=>({
+    item:it, state:'idle',
     display: it.name,
     expect:  String(it[f]),
     anchor:  true
   }));
-  const right=shuffle(picked).map(it=>({
-    item:it, side:'R', state:'idle',
+  const targets=picked.map(it=>({
+    item:it, state:'idle',
     display: String(it[f]),
     matchVal:String(it[f]),
     anchor:  false
   }));
+  const left=cfg.dir==='reverse' ? targets : anchors;
+  const right=cfg.dir==='reverse' ? anchors : targets;
+  left.forEach(c=>c.side='L');
+  right.forEach(c=>c.side='R');
   round={
-    left:shuffle(left), right, size:picked.length,
+    left:shuffle(left), right:shuffle(right), size:picked.length,
     matched:0, wrong:0, streak:0, score:0, hints:0,
-    pick:null, start:Date.now(), done:false
+    pick:null, start:Date.now(), done:false,
+    // misses keyed by item.id so we can show "you tripped on X" at end of round
+    missMap:new Map()
   };
 }
 
@@ -615,9 +665,12 @@ function startRound(){
   $('play').classList.remove('hidden');
   $('overlay').classList.add('hidden');
   const a=CATS[cfg.cat], at=curAttr();
-  $('headL').textContent=a.anchorLabel;
-  $('headR').textContent=at.label;
-  $('taskLine').innerHTML=`Match each <b>${esc(a.anchorLabel)}</b> to its <b>${esc(at.label)}</b>`;
+  const rev=cfg.dir==='reverse';
+  $('headL').textContent=rev?at.label:a.anchorLabel;
+  $('headR').textContent=rev?a.anchorLabel:at.label;
+  $('taskLine').innerHTML=rev
+    ? `Match each <b>${esc(at.label)}</b> to its <b>${esc(a.anchorLabel)}</b>`
+    : `Match each <b>${esc(a.anchorLabel)}</b> to its <b>${esc(at.label)}</b>`;
   renderBoard(); updateStats();
   clearInterval(timer);
   timer=setInterval(()=>{ if(!round.done) updateStats(); },1000);
@@ -678,6 +731,10 @@ function correct(L,R){
 function wrong(L,R){
   round.wrong++; round.streak=0;
   round.score=Math.max(0,round.score-3);
+  // Attribute the miss to the anchor item (the "question" — whichever side it's on)
+  const anchorCard=L.anchor?L:(R.anchor?R:L);
+  const id=anchorCard.item.id;
+  round.missMap.set(id,(round.missMap.get(id)||0)+1);
   [L,R].forEach(c=>{
     c.el.classList.add('wrong');
     setTimeout(()=>c.el&&c.el.classList.remove('wrong'),420);
@@ -708,7 +765,6 @@ function updateStats(){
   $('sTime').textContent=fmtTime(secs);
   $('sScore').textContent=round.score;
   $('sStreak').textContent=round.streak;
-  $('sMiss').textContent=round.wrong;
 }
 
 function endRound(){
@@ -731,7 +787,28 @@ function endRound(){
   $('mTitle').textContent = round.wrong===0&&round.hints===0 ? 'Perfect round' : 'Round complete';
   $('mNewBest').classList.toggle('hidden',!isBest);
   $('mBest').textContent='Best for this setup: '+getBest();
+  renderMissList();
   setTimeout(()=>$('overlay').classList.remove('hidden'),520);
+}
+
+function renderMissList(){
+  const wrap=$('missWrap'), list=$('missList');
+  if(!round.missMap.size){ wrap.classList.add('hidden'); list.innerHTML=''; return; }
+  // Anchors carry the item-name display and the expected attr value — reuse them
+  // so the review row reads the same way regardless of direction.
+  const anchorCards=[...round.left,...round.right].filter(c=>c.anchor);
+  const byId=new Map(anchorCards.map(c=>[c.item.id,c]));
+  const rows=[...round.missMap.entries()]
+    .sort((a,b)=>b[1]-a[1])
+    .map(([id,n])=>{
+      const c=byId.get(id); if(!c) return '';
+      const tag=n>1?` <span class="answer">&middot; ${n} misses</span>`:'';
+      return `<div class="missrow"><span class="anchor-name">${esc(c.display)}</span>`+
+             `<span class="arrow">&rarr;</span>`+
+             `<span class="answer">${esc(c.expect)}</span>${tag}</div>`;
+    }).join('');
+  list.innerHTML=rows;
+  wrap.classList.remove('hidden');
 }
 
 /* ================= NAV ================= */
