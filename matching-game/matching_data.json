@@ -1511,6 +1511,350 @@
       "adverseEffects": "Bone marrow suppression (anemia, neutropenia)",
       "lecture": "L184",
       "id": "d118"
+    },
+    {
+      "name": "Capecitabine",
+      "disease": "Colorectal and other solid tumors (oral 5-FU prodrug)",
+      "mechanism": "Oral prodrug converted in liver and tumor to 5-FU, which inhibits thymidylate synthase",
+      "adverseEffects": "Hand-foot syndrome (palmar-plantar erythema), diarrhea, myelosuppression",
+      "lecture": "L156",
+      "id": "d119"
+    },
+    {
+      "name": "Gemcitabine",
+      "disease": "Pancreatic, non-small cell lung, ovarian, and bladder cancers",
+      "mechanism": "Difluoro-deoxycytidine analog; triphosphate inhibits DNA polymerase and causes chain termination",
+      "adverseEffects": "Myelosuppression, flu-like symptoms, hepatic enzyme elevations",
+      "lecture": "L156",
+      "id": "d120"
+    },
+    {
+      "name": "Daunorubicin",
+      "disease": "Acute myeloid leukemia (with cytarabine, '7+3' regimen)",
+      "mechanism": "Anthracycline; intercalates DNA, inhibits topoisomerase II, and generates free radicals",
+      "adverseEffects": "Cumulative dose-dependent cardiotoxicity, myelosuppression, vesicant",
+      "lecture": "L156",
+      "id": "d121"
+    },
+    {
+      "name": "Idarubicin",
+      "disease": "Acute myeloid leukemia (alternative to daunorubicin)",
+      "mechanism": "Anthracycline; intercalates DNA and inhibits topoisomerase II",
+      "adverseEffects": "Cardiotoxicity (less than daunorubicin), myelosuppression",
+      "lecture": "L156",
+      "id": "d122"
+    },
+    {
+      "name": "Mitoxantrone",
+      "disease": "Acute myeloid leukemia, prostate cancer, multiple sclerosis",
+      "mechanism": "Anthracenedione; intercalates DNA and inhibits topoisomerase II",
+      "adverseEffects": "Cardiotoxicity, blue-green discoloration of urine and sclerae",
+      "lecture": "L156",
+      "id": "d123"
+    },
+    {
+      "name": "Mitomycin",
+      "disease": "Bladder, anal, and upper GI cancers",
+      "mechanism": "Bioreductive alkylator that crosslinks DNA after cellular activation",
+      "adverseEffects": "Delayed myelosuppression, hemolytic-uremic syndrome",
+      "lecture": "L156",
+      "id": "d124"
+    },
+    {
+      "name": "Dactinomycin",
+      "disease": "Pediatric sarcomas (Wilms tumor, rhabdomyosarcoma, Ewing)",
+      "mechanism": "Intercalates DNA and blocks DNA-dependent RNA polymerase",
+      "adverseEffects": "Myelosuppression, mucositis, vesicant",
+      "lecture": "L156",
+      "id": "d125"
+    },
+    {
+      "name": "Topotecan",
+      "disease": "Ovarian and small-cell lung cancer",
+      "mechanism": "Camptothecin; inhibits topoisomerase I, stabilizing the cleavage complex",
+      "adverseEffects": "Severe neutropenia, diarrhea",
+      "lecture": "L156",
+      "id": "d126"
+    },
+    {
+      "name": "Docetaxel",
+      "disease": "Breast, prostate, and non-small cell lung cancers",
+      "mechanism": "Taxane; stabilizes microtubules and arrests cells in M phase",
+      "adverseEffects": "Neutropenia, fluid retention, peripheral neuropathy, hypersensitivity",
+      "lecture": "L156",
+      "id": "d127"
+    },
+    {
+      "name": "Teniposide",
+      "disease": "Pediatric acute lymphoblastic leukemia (refractory)",
+      "mechanism": "Podophyllotoxin; inhibits topoisomerase II",
+      "adverseEffects": "Myelosuppression, hypersensitivity, secondary leukemias",
+      "lecture": "L156",
+      "id": "d128"
+    },
+    {
+      "name": "Nivolumab",
+      "disease": "Melanoma, non-small cell lung cancer, renal cell carcinoma",
+      "mechanism": "Anti-PD-1 monoclonal antibody; releases T-cell inhibition of tumor",
+      "adverseEffects": "Immune-related adverse events (colitis, pneumonitis, hepatitis, endocrinopathies)",
+      "lecture": "L157",
+      "id": "d129"
+    },
+    {
+      "name": "Atezolizumab",
+      "disease": "Urothelial carcinoma, non-small cell lung cancer, triple-negative breast cancer",
+      "mechanism": "Anti-PD-L1 monoclonal antibody; blocks tumor PD-L1 engagement of T-cell PD-1",
+      "adverseEffects": "Immune-related adverse events (colitis, pneumonitis, hepatitis, endocrinopathies)",
+      "lecture": "L157",
+      "id": "d130"
+    },
+    {
+      "name": "Tisagenlecleucel",
+      "disease": "B-cell acute lymphoblastic leukemia (pediatric/young adult), refractory DLBCL",
+      "mechanism": "Anti-CD19 chimeric antigen receptor (CAR) T-cell therapy; autologous engineered T cells",
+      "adverseEffects": "Cytokine release syndrome, neurotoxicity (ICANS), B-cell aplasia",
+      "lecture": "L157",
+      "id": "d131"
+    },
+    {
+      "name": "Desmopressin (DDAVP)",
+      "disease": "Mild hemophilia A, von Willebrand disease, central diabetes insipidus",
+      "mechanism": "Vasopressin V2 receptor agonist; releases vWF and factor VIII from endothelial stores",
+      "adverseEffects": "Hyponatremia (fluid retention), facial flushing, tachyphylaxis",
+      "lecture": "L161",
+      "id": "d132"
+    },
+    {
+      "name": "Emicizumab",
+      "disease": "Hemophilia A (including patients with factor VIII inhibitors)",
+      "mechanism": "Bispecific monoclonal antibody that bridges activated factor IX and factor X, mimicking factor VIIIa",
+      "adverseEffects": "Thrombotic microangiopathy when given with activated prothrombin complex",
+      "lecture": "L161",
+      "id": "d133"
+    },
+    {
+      "name": "Aminocaproic acid",
+      "disease": "Hyperfibrinolysis (e.g., post-cardiac-surgery bleeding, DIC with fibrinolysis)",
+      "mechanism": "Lysine analog; blocks plasminogen activation and binding to fibrin",
+      "adverseEffects": "Thrombosis, hypotension, myopathy with prolonged use",
+      "lecture": "L161",
+      "id": "d134"
+    },
+    {
+      "name": "Bivalirudin",
+      "disease": "Anticoagulation during PCI and cardiac surgery; HIT",
+      "mechanism": "Direct thrombin inhibitor; bivalent reversible hirudin analog",
+      "adverseEffects": "Bleeding (shorter half-life than other DTIs makes it more controllable)",
+      "lecture": "L164",
+      "id": "d135"
+    },
+    {
+      "name": "Edoxaban",
+      "disease": "Atrial fibrillation, VTE treatment and prevention",
+      "mechanism": "Direct oral factor Xa inhibitor (DOAC)",
+      "adverseEffects": "Bleeding; reduced efficacy at high CrCl",
+      "lecture": "L164",
+      "id": "d136"
+    },
+    {
+      "name": "Cilostazol",
+      "disease": "Intermittent claudication in peripheral arterial disease",
+      "mechanism": "Phosphodiesterase-3 inhibitor; increases platelet cAMP and causes vasodilation",
+      "adverseEffects": "Headache, palpitations; contraindicated in heart failure",
+      "lecture": "L164",
+      "id": "d137"
+    },
+    {
+      "name": "Dipyridamole",
+      "disease": "Secondary stroke prevention (with aspirin); pharmacologic stress testing",
+      "mechanism": "Inhibits adenosine reuptake and phosphodiesterase, raising cAMP and producing antiplatelet and vasodilatory effects",
+      "adverseEffects": "Headache, flushing, coronary steal",
+      "lecture": "L164",
+      "id": "d138"
+    },
+    {
+      "name": "Lepirudin",
+      "disease": "Heparin-induced thrombocytopenia (historical, no longer marketed)",
+      "mechanism": "Direct thrombin inhibitor; recombinant hirudin from leech salivary gland",
+      "adverseEffects": "Bleeding, anaphylaxis on re-exposure",
+      "lecture": "L164",
+      "id": "d139"
+    },
+    {
+      "name": "Desirudin",
+      "disease": "DVT prophylaxis following hip replacement surgery",
+      "mechanism": "Direct thrombin inhibitor; hirudin analog given subcutaneously",
+      "adverseEffects": "Bleeding, injection-site reactions",
+      "lecture": "L164",
+      "id": "d140"
+    },
+    {
+      "name": "Betrixaban",
+      "disease": "Extended VTE prophylaxis in acutely ill hospitalized medical patients",
+      "mechanism": "Direct oral factor Xa inhibitor (DOAC)",
+      "adverseEffects": "Bleeding",
+      "lecture": "L164",
+      "id": "d141"
+    },
+    {
+      "name": "Tenecteplase",
+      "disease": "ST-elevation myocardial infarction",
+      "mechanism": "Recombinant tPA variant with longer half-life and greater fibrin specificity; single IV bolus",
+      "adverseEffects": "Bleeding, intracranial hemorrhage",
+      "lecture": "L165",
+      "id": "d142"
+    },
+    {
+      "name": "Reteplase",
+      "disease": "ST-elevation myocardial infarction, massive pulmonary embolism",
+      "mechanism": "Recombinant tPA deletion mutant; activates plasminogen to plasmin",
+      "adverseEffects": "Bleeding, intracranial hemorrhage",
+      "lecture": "L165",
+      "id": "d143"
+    },
+    {
+      "name": "Streptokinase",
+      "disease": "Acute MI (historical, largely replaced by tPA variants)",
+      "mechanism": "Bacterial protein from beta-hemolytic streptococci; forms complex with plasminogen, producing a systemic lytic state",
+      "adverseEffects": "Bleeding, allergic reaction/hypersensitivity (antigenic); cannot re-administer within 6 months",
+      "lecture": "L165",
+      "id": "d144"
+    },
+    {
+      "name": "Urokinase",
+      "disease": "Massive pulmonary embolism, occluded catheter clearance",
+      "mechanism": "Human renal enzyme; direct plasminogen activator",
+      "adverseEffects": "Bleeding",
+      "lecture": "L165",
+      "id": "d145"
+    },
+    {
+      "name": "Prasugrel",
+      "disease": "Acute coronary syndrome managed with PCI (dual antiplatelet therapy)",
+      "mechanism": "P2Y12 ADP receptor inhibitor; irreversible thienopyridine prodrug with more efficient activation than clopidogrel",
+      "adverseEffects": "Bleeding (greater than clopidogrel); contraindicated in prior stroke/TIA",
+      "lecture": "L165",
+      "id": "d146"
+    },
+    {
+      "name": "Cangrelor",
+      "disease": "PCI adjunct when oral P2Y12 loading is not feasible",
+      "mechanism": "P2Y12 ADP receptor inhibitor; reversible IV ADP analog with rapid onset and offset",
+      "adverseEffects": "Bleeding, dyspnea",
+      "lecture": "L165",
+      "id": "d147"
+    },
+    {
+      "name": "Abciximab",
+      "disease": "PCI and non-ST-elevation acute coronary syndrome",
+      "mechanism": "GP IIb/IIIa receptor inhibitor; Fab fragment of a monoclonal antibody",
+      "adverseEffects": "Bleeding, thrombocytopenia",
+      "lecture": "L165",
+      "id": "d148"
+    },
+    {
+      "name": "Eptifibatide",
+      "disease": "Non-ST-elevation acute coronary syndrome, PCI",
+      "mechanism": "GP IIb/IIIa receptor inhibitor; cyclic heptapeptide",
+      "adverseEffects": "Bleeding, thrombocytopenia",
+      "lecture": "L165",
+      "id": "d149"
+    },
+    {
+      "name": "Tirofiban",
+      "disease": "Non-ST-elevation acute coronary syndrome, PCI",
+      "mechanism": "GP IIb/IIIa receptor inhibitor; small-molecule non-peptide",
+      "adverseEffects": "Bleeding, thrombocytopenia",
+      "lecture": "L165",
+      "id": "d150"
+    },
+    {
+      "name": "Ticlopidine",
+      "disease": "Stroke prevention (largely replaced by safer P2Y12 inhibitors)",
+      "mechanism": "P2Y12 ADP receptor inhibitor; irreversible thienopyridine",
+      "adverseEffects": "Neutropenia, thrombotic thrombocytopenic purpura (TTP)",
+      "lecture": "L165",
+      "id": "d151"
+    },
+    {
+      "name": "Ribavirin",
+      "disease": "Lassa fever and other arenavirus/bunyavirus hemorrhagic fevers",
+      "mechanism": "Guanosine analog; multiple antiviral mechanisms including inosine monophosphate dehydrogenase inhibition",
+      "adverseEffects": "Hemolytic anemia, teratogenic (pregnancy category X)",
+      "lecture": "L168",
+      "id": "d152"
+    },
+    {
+      "name": "Ganciclovir",
+      "disease": "CMV retinitis, esophagitis, and disseminated disease in immunocompromised",
+      "mechanism": "Acyclic guanosine analog phosphorylated by viral UL97 kinase; inhibits CMV DNA polymerase",
+      "adverseEffects": "Myelosuppression (neutropenia, thrombocytopenia), nephrotoxicity",
+      "lecture": "L169",
+      "id": "d153"
+    },
+    {
+      "name": "Valganciclovir",
+      "disease": "CMV treatment and prophylaxis in transplant recipients (oral)",
+      "mechanism": "Oral prodrug rapidly hydrolyzed to ganciclovir; inhibits CMV DNA polymerase",
+      "adverseEffects": "Myelosuppression, GI intolerance",
+      "lecture": "L169",
+      "id": "d154"
+    },
+    {
+      "name": "Cidofovir",
+      "disease": "Ganciclovir-resistant CMV retinitis",
+      "mechanism": "Cytidine nucleotide analog; inhibits viral DNA polymerase without requiring viral kinase activation",
+      "adverseEffects": "Severe nephrotoxicity (give with IV saline and probenecid)",
+      "lecture": "L169",
+      "id": "d155"
+    },
+    {
+      "name": "Foscarnet",
+      "disease": "Ganciclovir-resistant CMV and acyclovir-resistant HSV/VZV",
+      "mechanism": "Pyrophosphate analog; directly inhibits viral DNA and reverse transcriptase polymerases without activation",
+      "adverseEffects": "Nephrotoxicity, electrolyte disturbances (hypocalcemia, hypomagnesemia, hypokalemia), seizures",
+      "lecture": "L169",
+      "id": "d156"
+    },
+    {
+      "name": "Imiquimod",
+      "disease": "Actinic keratosis, superficial basal cell carcinoma, external genital warts",
+      "mechanism": "Topical TLR7 agonist; induces local cytokine release and cell-mediated immune response",
+      "adverseEffects": "Local erythema, erosion, flu-like symptoms",
+      "lecture": "L182",
+      "id": "d157"
+    },
+    {
+      "name": "Didanosine (ddI)",
+      "disease": "HIV (first-generation NRTI, no longer marketed in US)",
+      "mechanism": "Adenosine analog NRTI; inhibits HIV reverse transcriptase and causes chain termination",
+      "adverseEffects": "Pancreatitis, peripheral neuropathy, lactic acidosis with hepatic steatosis",
+      "lecture": "L184",
+      "id": "d158"
+    },
+    {
+      "name": "Stavudine (d4T)",
+      "disease": "HIV (first-generation thymidine NRTI, no longer marketed in US)",
+      "mechanism": "Thymidine analog NRTI; inhibits HIV reverse transcriptase and causes chain termination",
+      "adverseEffects": "Lipoatrophy, peripheral neuropathy, lactic acidosis with hepatic steatosis",
+      "lecture": "L184",
+      "id": "d159"
+    },
+    {
+      "name": "Lopinavir",
+      "disease": "HIV (older protease inhibitor, always co-formulated with ritonavir boost)",
+      "mechanism": "HIV protease inhibitor; prevents cleavage of viral polyprotein",
+      "adverseEffects": "GI intolerance, dyslipidemia, insulin resistance; high pill burden",
+      "lecture": "L185",
+      "id": "d160"
+    },
+    {
+      "name": "Fosamprenavir",
+      "disease": "HIV (protease inhibitor, prodrug of amprenavir; not preferred for initial therapy)",
+      "mechanism": "HIV protease inhibitor; prevents cleavage of viral polyprotein",
+      "adverseEffects": "Rash (sulfa moiety), dyslipidemia, GI intolerance",
+      "lecture": "L185",
+      "id": "d161"
     }
   ],
   "correlates": [
