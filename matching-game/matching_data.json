@@ -1863,791 +1863,1333 @@
       "pathophysiology": "Abacavir binds HLA-B*5701, creating a neo-self-antigen recognized by cytotoxic T cells",
       "treatment": "Stop abacavir permanently; never rechallenge (can be fatal)",
       "lecture": "L184",
-      "id": "c1"
+      "id": "c1",
+      "presentation": "32M with HIV started on abacavir 9 days ago presents with fever, rash, GI symptoms, and dyspnea; HLA-B*5701 positive"
     },
     {
       "name": "Acanthosis Nigricans",
       "pathophysiology": "Insulin/IGF-1 stimulation of keratinocytes; or paraneoplastic with GI adenocarcinoma",
       "treatment": "Treat insulin resistance; investigate GI cancer if sudden in older adults",
       "lecture": "L182",
-      "id": "c2"
+      "id": "c2",
+      "presentation": "45F with obesity and type 2 diabetes has velvety hyperpigmented plaques in the axillae and posterior neck"
     },
     {
       "name": "Accidental Hypothermia",
       "pathophysiology": "Core temperature below 35 C impairs metabolism, causing bradyarrhythmias and arrest",
       "treatment": "Staged rewarming (passive to active core/ECMO); not dead until warm and dead",
       "lecture": "L191",
-      "id": "c3"
+      "id": "c3",
+      "presentation": "60M alcoholic found outdoors overnight; core temperature 28°C, J waves on ECG, altered mental status"
     },
     {
       "name": "Acne Vulgaris",
       "pathophysiology": "Follicular hyperkeratinization, androgenic sebum overproduction, C. acnes, and inflammation",
       "treatment": "Topical retinoids and benzoyl peroxide; antibiotics; isotretinoin for severe disease",
       "lecture": "L181",
-      "id": "c4"
+      "id": "c4",
+      "presentation": "16F with comedones, inflammatory papules, and pustules on the face, chest, and back"
     },
     {
       "name": "Actinic Keratosis",
       "pathophysiology": "UV-induced p53 mutation causing partial-thickness keratinocyte atypia; precursor to SCC",
       "treatment": "Cryotherapy, topical 5-FU, imiquimod, photodynamic therapy",
       "lecture": "L182",
-      "id": "c5"
+      "id": "c5",
+      "presentation": "70M farmer with rough scaly erythematous papules on sun-exposed scalp and forearms"
     },
     {
       "name": "Acute Chest Syndrome",
       "pathophysiology": "Multi-factorial (infection, fat embolism, infarction) causing new pulmonary infiltrate and respiratory symptoms; leading cause of death in SCD",
       "treatment": "Oxygen; antibiotics; exchange transfusion if severe",
       "lecture": "L163",
-      "id": "c6"
+      "id": "c6",
+      "presentation": "12-year-old with sickle cell disease has fever, chest pain, hypoxia, and a new pulmonary infiltrate"
     },
     {
       "name": "Acute hemolytic transfusion reaction (AHTR)",
       "pathophysiology": "ABO incompatibility (clerical error); preformed IgM fixes complement causing intravascular hemolysis",
       "treatment": "Stop transfusion; IV fluids, pressors, diuresis for renal protection",
       "lecture": "L149",
-      "id": "c7"
+      "id": "c7",
+      "presentation": "45F develops fever, back pain, dark urine, and hypotension during transfusion of ABO-incompatible blood"
     },
     {
       "name": "Acute leukemia (marrow crowding)",
       "pathophysiology": "Malignant blast expansion fills marrow, crowding out normal lineages causing pancytopenia",
       "treatment": "Induction chemotherapy; lineage-directed therapy after flow cytometry",
       "lecture": "L150",
-      "id": "c8"
+      "id": "c8",
+      "presentation": "7-year-old with weeks of fatigue, easy bruising, fever, and pallor; pancytopenia on CBC"
     },
     {
       "name": "Acute lymphoblastic leukemia (ALL)",
       "pathophysiology": "Clonal proliferation of TdT-positive lymphoblasts; most common childhood cancer",
       "treatment": "Multi-agent chemotherapy with CNS prophylaxis",
       "lecture": "L154",
-      "id": "c9"
+      "id": "c9",
+      "presentation": "5-year-old with bone pain, fevers, lymphadenopathy, and pancytopenia; >20% TdT+ lymphoblasts on marrow biopsy"
     },
     {
       "name": "Acute myeloid leukemia (AML)",
       "pathophysiology": "Clonal expansion of myeloid blasts; Auer rods of crystallized myeloperoxidase",
       "treatment": "Induction chemotherapy (e.g., cytarabine-based)",
       "lecture": "L154",
-      "id": "c10"
+      "id": "c10",
+      "presentation": "55M with fatigue and gum bleeding; circulating myeloblasts with Auer rods on peripheral smear"
     },
     {
       "name": "Acute promyelocytic leukemia (APL/M3)",
       "pathophysiology": "t(15;17) disrupts the retinoic acid receptor; granule release triggers DIC",
       "treatment": "ATRA (all-trans retinoic acid) to force differentiation",
       "lecture": "L154",
-      "id": "c11"
+      "id": "c11",
+      "presentation": "35F with bleeding from multiple sites; promyelocytes with bundles of Auer rods, t(15;17), and DIC"
     },
     {
       "name": "Acute Retroviral Syndrome",
       "pathophysiology": "Initial high-level HIV viremia 2-4 weeks after exposure causes a mononucleosis-like illness",
       "treatment": "Initiate antiretroviral therapy",
       "lecture": "L167",
-      "id": "c12"
+      "id": "c12",
+      "presentation": "25M with recent high-risk sexual exposure has a mono-like illness; HIV RNA positive, ELISA negative"
     },
     {
       "name": "AIDS",
       "pathophysiology": "Progressive HIV depletion of CD4 T-cells below 200 enabling opportunistic infections",
       "treatment": "Lifelong antiretroviral therapy plus opportunistic infection prophylaxis",
       "lecture": "L167",
-      "id": "c14"
+      "id": "c14",
+      "presentation": "30M HIV-positive presents with oral thrush, Pneumocystis pneumonia, and a CD4 count of 80"
     },
     {
       "name": "Albinism",
       "pathophysiology": "Autosomal recessive tyrosinase defect; melanocytes present but cannot synthesize melanin",
       "treatment": "No cure; rigorous lifelong sun protection and dermatologic surveillance",
       "lecture": "L174",
-      "id": "c16"
+      "id": "c16",
+      "presentation": "Infant with complete absence of skin and hair pigmentation, white lashes, and nystagmus; tyrosinase deficient"
     },
     {
       "name": "Alpha-thalassemia",
       "pathophysiology": "Deletion of alpha-globin genes on chromosome 16 reduces alpha-chain synthesis",
       "treatment": "Supportive; severe HbH disease may need transfusion; Hb Bart's is lethal",
       "lecture": "L151",
-      "id": "c17"
+      "id": "c17",
+      "presentation": "Southeast Asian neonate with microcytic anemia and target cells; hemoglobin Bart's on electrophoresis"
     },
     {
       "name": "Amebic Liver Abscess",
       "pathophysiology": "Entamoeba trophozoites invade colon, travel via portal vein, and form necrotic liver abscesses",
       "treatment": "Metronidazole then paromomycin; drainage only if impending rupture",
       "lecture": "L173",
-      "id": "c18"
+      "id": "c18",
+      "presentation": "40M returning from Mexico has RUQ pain, fever, and a single right-lobe liver lesion with 'anchovy paste' material"
     },
     {
       "name": "Anemia of chronic disease",
       "pathophysiology": "Chronic inflammation (IL-6) raises hepcidin, locking iron in macrophages",
       "treatment": "Treat the underlying inflammatory disease",
       "lecture": "L151",
-      "id": "c19"
+      "id": "c19",
+      "presentation": "60F with rheumatoid arthritis has mild normocytic anemia; high ferritin, low TIBC, low serum iron"
     },
     {
       "name": "Aplastic anemia",
       "pathophysiology": "Marrow failure with fatty replacement causing pancytopenia",
       "treatment": "Immunosuppression or hematopoietic stem cell transplant",
       "lecture": "L152",
-      "id": "c20"
+      "id": "c20",
+      "presentation": "28M with recent benzene exposure has pancytopenia and a hypocellular fatty-replaced marrow biopsy"
     },
     {
       "name": "Aplastic Crisis",
       "pathophysiology": "Parvovirus B19 infection causes temporary RBC production arrest; very low (not necessarily zero) reticulocyte count is the key finding",
       "treatment": "Supportive care (fluids); transfusion if severe",
       "lecture": "L163",
-      "id": "c21"
+      "id": "c21",
+      "presentation": "8-year-old with sickle cell disease and recent parvovirus B19 infection has severe anemia and reticulocytopenia"
     },
     {
       "name": "Atopic Dermatitis",
       "pathophysiology": "Filaggrin mutations and immune dysregulation cause barrier dysfunction and spongiotic dermatitis",
       "treatment": "Emollients, topical corticosteroids, and dupilumab (IL-4/13 inhibitor)",
       "lecture": "L181",
-      "id": "c22"
+      "id": "c22",
+      "presentation": "2-year-old with personal and family history of asthma has chronic itchy excoriated plaques in the antecubital fossae"
     },
     {
       "name": "Bacillary Angiomatosis",
       "pathophysiology": "Bartonella infection of vascular endothelium causes proliferative red-purple skin nodules in AIDS",
       "treatment": "Erythromycin or doxycycline",
       "lecture": "L166",
-      "id": "c23"
+      "id": "c23",
+      "presentation": "38M with AIDS (CD4 <100) develops red friable vascular papules and nodules on the skin"
     },
     {
       "name": "Basal Cell Carcinoma",
       "pathophysiology": "UV-induced PTCH1 loss causes constitutive hedgehog pathway activation and basaloid proliferation",
       "treatment": "Surgical excision or Mohs; cryotherapy; topical imiquimod or 5-FU",
       "lecture": "L182",
-      "id": "c24"
+      "id": "c24",
+      "presentation": "65M with chronic sun exposure has a pearly papule with telangiectasias and central ulceration on the nose"
     },
     {
       "name": "Bernard-Soulier Syndrome",
       "pathophysiology": "GpIb deficiency impairs platelet adhesion; giant platelets on smear",
       "treatment": "Platelet transfusion for bleeding",
       "lecture": "L161",
-      "id": "c25"
+      "id": "c25",
+      "presentation": "Child with mucosal bleeding has giant platelets, prolonged bleeding time, and absent ristocetin aggregation (defective GpIb)"
     },
     {
       "name": "Beta-thalassemia",
       "pathophysiology": "Beta-globin gene mutations on chromosome 11 reduce beta-chain synthesis; elevated HbA2",
       "treatment": "Major: chronic transfusion with iron chelation; minor: none needed",
       "lecture": "L151",
-      "id": "c26"
+      "id": "c26",
+      "presentation": "Mediterranean child with severe microcytic anemia, hepatosplenomegaly, and frontal bossing; HbA2 elevated"
     },
     {
       "name": "Black-Water Fever",
       "pathophysiology": "Massive intravascular hemolysis in severe malaria causing hemoglobinuria and AKI",
       "treatment": "Supportive care with antimalarial therapy",
       "lecture": "L172",
-      "id": "c27"
+      "id": "c27",
+      "presentation": "Returning traveler with falciparum malaria develops massive intravascular hemolysis, hemoglobinuria, and acute kidney injury"
     },
     {
       "name": "Bombay phenotype (Oh)",
       "pathophysiology": "Homozygous non-functional H gene means no H-substance, so no A or B antigens form and anti-H is produced",
       "treatment": "Can only receive blood from another Bombay donor",
       "lecture": "L149",
-      "id": "c28"
+      "id": "c28",
+      "presentation": "Patient typed as group O has a hemolytic transfusion reaction with type O blood; lacks H antigen"
     },
     {
       "name": "Bullous Pemphigoid",
       "pathophysiology": "IgG autoantibodies against hemidesmosomal BP180 cause subepidermal tense bullae",
       "treatment": "Corticosteroids; doxycycline plus niacinamide for milder cases",
       "lecture": "L181",
-      "id": "c29"
+      "id": "c29",
+      "presentation": "72F with tense subepidermal bullae on flexural areas; linear IgG at the basement membrane on immunofluorescence"
     },
     {
       "name": "Burkitt lymphoma",
       "pathophysiology": "t(8;14) overexpresses c-MYC; fastest-growing tumor with starry-sky histology",
       "treatment": "Intensive chemotherapy with tumor lysis prophylaxis (hydration, rasburicase)",
       "lecture": "L155",
-      "id": "c30"
+      "id": "c30",
+      "presentation": "African child with a rapidly enlarging jaw mass; 'starry-sky' pattern on biopsy and t(8;14) MYC translocation"
     },
     {
       "name": "Cerebral (Severe) Falciparum Malaria",
       "pathophysiology": "Infected RBCs adhere to brain endothelium causing microvascular obstruction and hyperparasitemia",
       "treatment": "IV artesunate, then transition to oral ACT",
       "lecture": "L172",
-      "id": "c31"
+      "id": "c31",
+      "presentation": "Returning traveler from sub-Saharan Africa with high fever, coma, and seizures; >5% parasitized RBCs"
     },
     {
       "name": "Chagas Cardiomyopathy",
       "pathophysiology": "T. cruzi persists in cardiomyocytes causing chronic immunologic dilated cardiomyopathy with apical aneurysm",
       "treatment": "Benznidazole if early; supportive heart failure/antiarrhythmic care once established",
       "lecture": "L173",
-      "id": "c32"
+      "id": "c32",
+      "presentation": "55M from rural Brazil with progressive heart failure, megacolon, and megaesophagus decades after acute infection"
     },
     {
       "name": "Chilblains (Pernio)",
       "pathophysiology": "Intermittent damp non-freezing cold causes inflammatory violaceous nodules",
       "treatment": "Nifedipine plus supportive care; warming and time",
       "lecture": "L191",
-      "id": "c33"
+      "id": "c33",
+      "presentation": "30F outdoor worker has tender pruritic violaceous papules on the toes after damp-cold exposure"
     },
     {
       "name": "Chronic lymphocytic leukemia (CLL)",
       "pathophysiology": "Accumulation of fragile mature B cells; smudge cells and hypogammaglobulinemia",
       "treatment": "BTK inhibitors (ibrutinib); watch-and-wait if asymptomatic",
       "lecture": "L154",
-      "id": "c34"
+      "id": "c34",
+      "presentation": "70M with incidental lymphocytosis >5000 and smudge cells on smear; otherwise asymptomatic"
     },
     {
       "name": "Chronic myelogenous leukemia (CML)",
       "pathophysiology": "Philadelphia chromosome t(9;22) creates the constitutively active BCR-ABL tyrosine kinase",
       "treatment": "Imatinib or other BCR-ABL tyrosine kinase inhibitors",
       "lecture": "L154",
-      "id": "c35"
+      "id": "c35",
+      "presentation": "50F with massive splenomegaly, fatigue, and leukocytosis with left shift; BCR-ABL t(9;22) positive"
     },
     {
       "name": "Congenital Rubella Syndrome",
       "pathophysiology": "Maternal rubella infection in pregnancy disrupts fetal organogenesis via cell apoptosis",
       "treatment": "Prevent with pre-pregnancy MMR; supportive care for hearing, eye, cardiac defects",
       "lecture": "L180",
-      "id": "c36"
+      "id": "c36",
+      "presentation": "Newborn of unvaccinated mother with sensorineural deafness, cataracts, and patent ductus arteriosus"
     },
     {
       "name": "Cryptococcal Meningitis",
       "pathophysiology": "Inhaled encapsulated yeast disseminates from lungs to CNS in HIV patients with CD4 under 100",
       "treatment": "Induction with liposomal amphotericin B + flucytosine, then fluconazole",
       "lecture": "L178",
-      "id": "c37"
+      "id": "c37",
+      "presentation": "AIDS patient with subacute headache, fever, and altered mental status; India ink shows encapsulated yeast in CSF"
     },
     {
       "name": "Dengue Hemorrhagic Fever",
       "pathophysiology": "Antibody-dependent enhancement on a second dengue serotype boosts viral entry and inflammation",
       "treatment": "Aggressive supportive fluid management",
       "lecture": "L168",
-      "id": "c38"
+      "id": "c38",
+      "presentation": "Returning traveler with second dengue infection has high fever, plasma leakage, thrombocytopenia, and shock"
     },
     {
       "name": "Dermatitis Herpetiformis",
       "pathophysiology": "IgA against tissue transglutaminase deposits at dermal papillary tips; linked to celiac disease",
       "treatment": "Strict gluten-free diet plus dapsone for rapid relief",
       "lecture": "L181",
-      "id": "c39"
+      "id": "c39",
+      "presentation": "30M with celiac disease has intensely pruritic grouped vesicles on the elbows and knees; granular IgA at dermal papillae"
     },
     {
       "name": "Dermatomyositis",
       "pathophysiology": "Humoral autoimmune attack on perimysial capillaries causing muscle ischemia",
       "treatment": "Corticosteroids, methotrexate/azathioprine; screen for occult malignancy",
       "lecture": "L187",
-      "id": "c40"
+      "id": "c40",
+      "presentation": "50F with proximal muscle weakness, heliotrope eyelid rash, and Gottron papules; elevated CK and anti-Mi-2"
     },
     {
       "name": "Diamond-Blackfan anemia",
       "pathophysiology": "Congenital pure red cell aplasia with intrinsic ribosomal defect",
       "treatment": "Corticosteroids; transfusion support",
       "lecture": "L152",
-      "id": "c41"
+      "id": "c41",
+      "presentation": "Infant with severe macrocytic anemia, craniofacial anomalies, and triphalangeal thumbs; pure red cell aplasia"
     },
     {
       "name": "Diffuse large B-cell lymphoma (DLBCL)",
       "pathophysiology": "Most common adult NHL; rapidly enlarging mass, often extranodal, may arise de novo or from transformation",
       "treatment": "R-CHOP; CAR-T for relapsed disease",
       "lecture": "L155",
-      "id": "c42"
+      "id": "c42",
+      "presentation": "60M with a rapidly enlarging cervical lymph node mass; large CD20+ B cells on biopsy"
     },
     {
       "name": "Disseminated intravascular coagulation (DIC)",
       "pathophysiology": "Widespread activation of coagulation consumes clotting factors and platelets",
       "treatment": "Treat underlying cause; FFP, cryoprecipitate, and platelet support",
       "lecture": "L149",
-      "id": "c43"
+      "id": "c43",
+      "presentation": "65F with sepsis develops oozing from IV sites; prolonged PT/PTT, low platelets, high D-dimer, low fibrinogen"
     },
     {
       "name": "DRESS Syndrome",
       "pathophysiology": "Delayed type IV drug hypersensitivity with eosinophilia and visceral organ injury",
       "treatment": "Withdraw offending drug; ICU support; long corticosteroid taper",
       "lecture": "L189",
-      "id": "c44"
+      "id": "c44",
+      "presentation": "30F started on phenytoin 4 weeks ago has fever, diffuse rash, lymphadenopathy, eosinophilia, and hepatitis"
     },
     {
       "name": "Dysplastic Nevus",
       "pathophysiology": "BRAF/NRAS mutation plus CDKN2A loss producing cytologic atypia and architectural disorder",
       "treatment": "Monitor; excise concerning lesions; surveillance if familial syndrome",
       "lecture": "L182",
-      "id": "c45"
+      "id": "c45",
+      "presentation": "30M with family history of melanoma has an asymmetric pigmented lesion >6 mm with variegated color and irregular borders"
     },
     {
       "name": "Erythema Multiforme",
       "pathophysiology": "Type IV interface reaction, most often triggered by HSV, producing targetoid lesions",
       "treatment": "Treat the trigger (suppressive acyclovir for HSV); supportive care",
       "lecture": "L181",
-      "id": "c46"
+      "id": "c46",
+      "presentation": "20M with a recent HSV outbreak has target lesions on the palms and extensor surfaces"
     },
     {
       "name": "Erythema Nodosum",
       "pathophysiology": "Septal panniculitis; hypersensitivity reaction to strep, sarcoidosis, IBD, or drugs",
       "treatment": "Treat underlying cause; NSAIDs for pain",
       "lecture": "L181",
-      "id": "c47"
+      "id": "c47",
+      "presentation": "30F with sarcoidosis has tender erythematous nodules on the anterior shins"
     },
     {
       "name": "Extramedullary hematopoiesis",
       "pathophysiology": "Failing bone marrow shifts blood cell production back to embryonic sites: liver, spleen, and lymph nodes",
       "treatment": "Treat underlying cause (e.g., myelofibrosis); supportive transfusion",
       "lecture": "L150",
-      "id": "c48"
+      "id": "c48",
+      "presentation": "Patient with chronic hemolysis has hepatosplenomegaly and paraspinal masses on imaging"
     },
     {
       "name": "Factor V Leiden",
       "pathophysiology": "Mutant factor V resists inactivation by activated protein C, causing hypercoagulability",
       "treatment": "Anticoagulation after a thrombotic event",
       "lecture": "L162",
-      "id": "c49"
+      "id": "c49",
+      "presentation": "30F with unprovoked DVT and family history of clotting; activated protein C resistance on testing"
     },
     {
       "name": "Fanconi anemia",
       "pathophysiology": "Inherited defect in DNA cross-link repair causing pancytopenia",
       "treatment": "Hematopoietic stem cell transplant; supportive care",
       "lecture": "L152",
-      "id": "c50"
+      "id": "c50",
+      "presentation": "8-year-old of short stature with café-au-lait spots, absent thumbs, and pancytopenia; chromosomal breakage on DEB test"
     },
     {
       "name": "Fat Embolism Syndrome",
       "pathophysiology": "Marrow fat enters circulation after long bone fracture",
       "treatment": "Supportive respiratory care",
       "lecture": "L162",
-      "id": "c51"
+      "id": "c51",
+      "presentation": "25M 24-72 hours after a long-bone fracture has hypoxia, confusion, and a petechial rash on the chest/axillae"
     },
     {
       "name": "Follicular lymphoma",
       "pathophysiology": "t(14;18) overexpresses anti-apoptotic BCL-2, so cells refuse to die",
       "treatment": "Watch-and-wait; rituximab-based therapy when symptomatic",
       "lecture": "L155",
-      "id": "c52"
+      "id": "c52",
+      "presentation": "60M with painless waxing and waning lymphadenopathy; t(14;18) BCL2 translocation in CD10+ B cells"
     },
     {
       "name": "Frostbite",
       "pathophysiology": "Tissue freezing forms ice crystals; rewarming triggers microvascular thrombosis",
       "treatment": "Rapid rewarming in 37-39 C water; analgesia, tetanus, thrombolytics if severe",
       "lecture": "L191",
-      "id": "c53"
+      "id": "c53",
+      "presentation": "30M ice climber with white, waxy, anesthetic fingers after prolonged cold exposure; blisters form on rewarming"
     },
     {
       "name": "G6PD deficiency",
       "pathophysiology": "Lack of NADPH leaves RBCs vulnerable to oxidative stress, denaturing hemoglobin into Heinz bodies",
       "treatment": "Avoid oxidant triggers (fava beans, sulfa drugs); supportive care",
       "lecture": "L152",
-      "id": "c54"
+      "id": "c54",
+      "presentation": "African-American male develops hemolytic anemia after antimalarial therapy; Heinz bodies and bite cells on smear"
     },
     {
       "name": "Glanzmann Thrombasthenia",
       "pathophysiology": "GpIIb/IIIa deficiency prevents platelet aggregation",
       "treatment": "Platelet transfusion for bleeding",
       "lecture": "L161",
-      "id": "c55"
+      "id": "c55",
+      "presentation": "Child with mucocutaneous bleeding and normal platelet count; absent platelet aggregation to all agonists except ristocetin"
     },
     {
       "name": "Heat Exhaustion",
       "pathophysiology": "Heat-related volume and electrolyte depletion with preserved mental status",
       "treatment": "Cool environment, leg elevation, oral or IV fluid/electrolyte replacement",
       "lecture": "L192",
-      "id": "c56"
+      "id": "c56",
+      "presentation": "Marathon runner has fatigue, headache, nausea, and temperature 39°C with intact mental status"
     },
     {
       "name": "Heat Stroke",
       "pathophysiology": "Core temperature above 40 C causes protein denaturation and multi-organ failure",
       "treatment": "Aggressive evaporative cooling, IV fluids, ICU; antipyretics are useless",
       "lecture": "L192",
-      "id": "c57"
+      "id": "c57",
+      "presentation": "Football player collapses with core temperature 41°C, altered mental status, and (classic) anhidrosis"
     },
     {
       "name": "Hemolytic disease of the fetus and newborn (HDFN)",
       "pathophysiology": "Sensitized Rh-negative mother makes IgG anti-D that crosses the placenta to destroy fetal Rh+ RBCs",
       "treatment": "RhoGAM prophylaxis; in utero or exchange transfusion plus phototherapy",
       "lecture": "L149",
-      "id": "c58"
+      "id": "c58",
+      "presentation": "Newborn of an Rh-negative mother with prior Rh+ pregnancy has hemolytic anemia, jaundice, and hydrops fetalis"
     },
     {
       "name": "Hemolytic Uremic Syndrome (HUS)",
       "pathophysiology": "Shiga-like toxin from E. coli O157:H7 injures endothelium causing renal microthrombi",
       "treatment": "Supportive care; dialysis as needed",
       "lecture": "L161",
-      "id": "c59"
+      "id": "c59",
+      "presentation": "5-year-old with bloody diarrhea after undercooked beef develops hemolytic anemia, thrombocytopenia, and acute kidney injury"
     },
     {
       "name": "Hemophilia",
       "pathophysiology": "X-linked deficiency of factor VIII (A) or factor IX (B) impairs secondary hemostasis",
       "treatment": "Factor replacement (VIII or IX)",
       "lecture": "L161",
-      "id": "c60"
+      "id": "c60",
+      "presentation": "Male infant with prolonged bleeding after circumcision and hemarthroses; prolonged PTT, normal PT and platelets"
     },
     {
       "name": "Heparin-Induced Thrombocytopenia (HIT)",
       "pathophysiology": "IgG against heparin-PF4 complexes activates platelets causing thrombosis and low counts",
       "treatment": "Stop heparin; start a direct thrombin inhibitor (argatroban)",
       "lecture": "L164",
-      "id": "c61"
+      "id": "c61",
+      "presentation": "Post-op patient on heparin >5 days has a 50% platelet drop and new arterial or venous thrombosis"
     },
     {
       "name": "Hereditary Angioedema",
       "pathophysiology": "Autosomal dominant C1 esterase inhibitor deficiency causing unopposed bradykinin and angioedema",
       "treatment": "C1 inhibitor concentrate, ecallantide, or icatibant (not antihistamines)",
       "lecture": "L181",
-      "id": "c62"
+      "id": "c62",
+      "presentation": "20F with recurrent non-pruritic face and lip swelling plus abdominal pain; low C4 and C1 esterase inhibitor deficiency"
     },
     {
       "name": "Hereditary spherocytosis",
       "pathophysiology": "Defects in ankyrin, spectrin, or band 3 cause membrane loss and rigid spheres trapped in the spleen",
       "treatment": "Splenectomy",
       "lecture": "L152",
-      "id": "c63"
+      "id": "c63",
+      "presentation": "Northern European child with anemia, jaundice, and splenomegaly; spherocytes on smear and positive osmotic fragility"
     },
     {
       "name": "Herpes Zoster (Shingles)",
       "pathophysiology": "Reactivation of latent VZV in a dorsal root or cranial nerve ganglion",
       "treatment": "Acyclovir/valacyclovir within 72 hours; Shingrix vaccine for prevention",
       "lecture": "L180",
-      "id": "c64"
+      "id": "c64",
+      "presentation": "70M with painful unilateral vesicular eruption in a single thoracic dermatome"
     },
     {
       "name": "Hodgkin lymphoma",
       "pathophysiology": "Reed-Sternberg cells (CD15+/CD30+) secrete cytokines summoning a reactive infiltrate; contiguous nodal spread",
       "treatment": "ABVD chemotherapy",
       "lecture": "L155",
-      "id": "c65"
+      "id": "c65",
+      "presentation": "20M with painless cervical lymphadenopathy, B symptoms, and Reed-Sternberg cells (CD15+/CD30+) on biopsy"
     },
     {
       "name": "Immune Reconstitution Inflammatory Syndrome (IRIS)",
       "pathophysiology": "Rising CD4 count after starting ART triggers a violent inflammatory response to existing pathogen burden",
       "treatment": "Delay ART 2-4 weeks after treating the opportunistic infection",
       "lecture": "L169",
-      "id": "c66"
+      "id": "c66",
+      "presentation": "AIDS patient 2-12 weeks after starting ART has paradoxical worsening of an existing opportunistic infection"
     },
     {
       "name": "Immune Thrombocytopenic Purpura (ITP)",
       "pathophysiology": "IgG autoantibodies against GpIIb/IIIa drive splenic macrophage destruction of platelets",
       "treatment": "Corticosteroids, IVIG; splenectomy in refractory cases",
       "lecture": "L161",
-      "id": "c67"
+      "id": "c67",
+      "presentation": "5-year-old with petechiae and isolated thrombocytopenia 1-3 weeks after a viral illness; marrow normal"
     },
     {
       "name": "Inhalation Anthrax (Woolsorter's Disease)",
       "pathophysiology": "Inhaled spores germinate in mediastinal nodes, releasing tripartite toxin causing hemorrhagic mediastinitis",
       "treatment": "IV ciprofloxacin/doxycycline + clindamycin + additional agent; raxibacumab",
       "lecture": "L177",
-      "id": "c68"
+      "id": "c68",
+      "presentation": "Woolsorter develops a flu-like illness progressing to mediastinal widening, hemorrhagic mediastinitis, and shock"
     },
     {
       "name": "Iron deficiency anemia",
       "pathophysiology": "Iron loss or increased demand outpaces intake, depleting stores for hemoglobin synthesis",
       "treatment": "Oral ferrous sulfate; identify and treat the bleeding source",
       "lecture": "L151",
-      "id": "c69"
+      "id": "c69",
+      "presentation": "30F with heavy menses has microcytic hypochromic anemia, low ferritin, high TIBC, low serum iron, and pica"
     },
     {
       "name": "Kawasaki Disease",
       "pathophysiology": "Medium-vessel vasculitis of childhood causing coronary artery aneurysms",
       "treatment": "IVIG plus high-dose aspirin; echocardiogram after diagnosis",
       "lecture": "L189",
-      "id": "c70"
+      "id": "c70",
+      "presentation": "4-year-old with fever >5 days, conjunctivitis, strawberry tongue, polymorphous rash, and cervical lymphadenopathy"
     },
     {
       "name": "Lead poisoning",
       "pathophysiology": "Lead inhibits ALAD and ferrochelatase, impairing heme synthesis; basophilic stippling appears",
       "treatment": "Chelation (e.g., succimer, EDTA, dimercaprol)",
       "lecture": "L151",
-      "id": "c71"
+      "id": "c71",
+      "presentation": "5-year-old in old housing has abdominal pain, microcytic anemia with basophilic stippling, and elevated blood lead"
     },
     {
       "name": "Lichen Planus",
       "pathophysiology": "CD8+ T-cell attack on basal keratinocytes; associated with hepatitis C",
       "treatment": "Topical corticosteroids; self-limited over months to years",
       "lecture": "L181",
-      "id": "c72"
+      "id": "c72",
+      "presentation": "Adult with pruritic flat-topped polygonal violaceous papules on the wrists and Wickham striae on oral mucosa"
     },
     {
       "name": "Mantle cell lymphoma",
       "pathophysiology": "t(11;14) overexpresses cyclin D1, pushing cells past the G1/S checkpoint; CD5+/CD23-",
       "treatment": "Chemoimmunotherapy; BTK inhibitors",
       "lecture": "L155",
-      "id": "c74"
+      "id": "c74",
+      "presentation": "60M with disseminated lymphadenopathy and GI involvement; cyclin D1+ B cells with t(11;14)"
     },
     {
       "name": "Megaloblastic anemia (B12/folate deficiency)",
       "pathophysiology": "Impaired DNA synthesis from B12 or folate deficiency causes large cells and hypersegmented neutrophils",
       "treatment": "Replace the deficient vitamin; confirm B12 status before giving folate",
       "lecture": "L152",
-      "id": "c75"
+      "id": "c75",
+      "presentation": "70M strict vegan with macrocytic anemia, hypersegmented neutrophils, and paresthesias from B12 deficiency"
     },
     {
       "name": "Melanoma",
       "pathophysiology": "Malignant melanocyte transformation from UV-induced DNA damage and BRAF V600E mutations",
       "treatment": "Wide local excision by Breslow depth; immunotherapy and BRAF/MEK inhibitors for advanced disease",
       "lecture": "L182",
-      "id": "c76"
+      "id": "c76",
+      "presentation": "40M with a changing pigmented lesion meeting ABCDE criteria; biopsy shows atypical melanocytes invading >1 mm"
     },
     {
       "name": "Multiple myeloma",
       "pathophysiology": "Malignant plasma cell clone produces an M-spike causing CRAB (hypercalcemia, renal failure, anemia, lytic bone lesions)",
       "treatment": "Lenalidomide + bortezomib + dexamethasone (RVd)",
       "lecture": "L155",
-      "id": "c78"
+      "id": "c78",
+      "presentation": "65M with bone pain, fatigue, hypercalcemia, renal failure, and M-spike on SPEP; rouleaux on smear"
     },
     {
       "name": "Necrotizing Fasciitis",
       "pathophysiology": "Rapid bacterial invasion of deep fascial planes with proteases, thrombosis, and tissue necrosis",
       "treatment": "Emergent surgical debridement plus broad-spectrum IV antibiotics",
       "lecture": "L176",
-      "id": "c80"
+      "id": "c80",
+      "presentation": "Diabetic with rapidly spreading erythema, pain out of proportion to exam, crepitus, and systemic toxicity"
     },
     {
       "name": "Nevirapine Hepatotoxicity",
       "pathophysiology": "Hypersensitivity-mediated hepatocellular injury, worse with higher CD4 counts",
       "treatment": "Stop nevirapine immediately and permanently; supportive care",
       "lecture": "L185",
-      "id": "c81"
+      "id": "c81",
+      "presentation": "HIV patient started on nevirapine has fever, rash, and severe hepatitis within the first 6 weeks"
     },
     {
       "name": "NRTI Lactic Acidosis with Hepatic Steatosis",
       "pathophysiology": "NRTI inhibition of mitochondrial DNA polymerase gamma impairs oxidative phosphorylation",
       "treatment": "Discontinue NRTI immediately; supportive care for lactate clearance",
       "lecture": "L184",
-      "id": "c82"
+      "id": "c82",
+      "presentation": "HIV patient on long-term NRTI therapy has nausea, abdominal pain, hepatomegaly, and severe lactic acidosis"
     },
     {
       "name": "Paroxysmal nocturnal hemoglobinuria (PNH)",
       "pathophysiology": "Acquired PIGA mutation removes GPI-anchored CD55/CD59, leaving RBCs defenseless against complement",
       "treatment": "Eculizumab (anti-C5)",
       "lecture": "L152",
-      "id": "c83"
+      "id": "c83",
+      "presentation": "Adult with episodic dark morning urine, thrombosis at unusual sites, and pancytopenia; CD55/CD59 deficient by flow"
     },
     {
       "name": "Pemphigus Vulgaris",
       "pathophysiology": "IgG autoantibodies against desmoglein 3 cause suprabasal acantholysis and flaccid bullae",
       "treatment": "Systemic corticosteroids plus rituximab or other immunosuppressants",
       "lecture": "L181",
-      "id": "c84"
+      "id": "c84",
+      "presentation": "50F with painful flaccid bullae and oral erosions; positive Nikolsky sign and anti-desmoglein 3 antibodies"
     },
     {
       "name": "Pityriasis Rosea",
       "pathophysiology": "Self-limited eruption, likely HHV-6/7, with a herald patch then Christmas-tree truncal rash",
       "treatment": "Supportive; self-resolves over 6-8 weeks",
       "lecture": "L180",
-      "id": "c85"
+      "id": "c85",
+      "presentation": "20F with a single 'herald patch' followed by oval scaly plaques in a 'Christmas tree' distribution on the trunk"
     },
     {
       "name": "Plummer-Vinson syndrome",
       "pathophysiology": "Iron deficiency anemia associated with esophageal webs and atrophic glossitis",
       "treatment": "Iron repletion; dilation of esophageal webs if needed",
       "lecture": "L151",
-      "id": "c86"
+      "id": "c86",
+      "presentation": "Middle-aged woman with iron deficiency anemia, dysphagia, and esophageal webs; increased risk of esophageal SCC"
     },
     {
       "name": "Protease Inhibitor Lipodystrophy",
       "pathophysiology": "PIs impair GLUT4 glucose uptake and adipocyte differentiation via SREBP interference",
       "treatment": "Switch to non-PI regimen; CYP-safe statins; metformin; diet and exercise",
       "lecture": "L185",
-      "id": "c87"
+      "id": "c87",
+      "presentation": "HIV patient on protease inhibitors has central fat accumulation, facial wasting, dyslipidemia, and insulin resistance"
     },
     {
       "name": "Psoriasis",
       "pathophysiology": "Th17-driven keratinocyte hyperproliferation with maturation accelerated to 8-10 days",
       "treatment": "Topical steroids and vitamin D analogs, phototherapy, biologics for severe disease",
       "lecture": "L181",
-      "id": "c88"
+      "id": "c88",
+      "presentation": "30M with well-demarcated erythematous plaques and silvery scales on the extensor surfaces; Auspitz sign positive"
     },
     {
       "name": "Pulmonary Embolism",
       "pathophysiology": "Embolized DVT lodges in the pulmonary arteries; saddle embolus causes sudden death",
       "treatment": "Anticoagulation; thrombolysis for massive PE",
       "lecture": "L162",
-      "id": "c89"
+      "id": "c89",
+      "presentation": "Post-op patient has sudden dyspnea, pleuritic chest pain, tachycardia, and hypoxia; positive CT pulmonary angiogram"
     },
     {
       "name": "Ramsay Hunt Syndrome",
       "pathophysiology": "Herpes zoster reactivation in the geniculate ganglion involving cranial nerve VIII",
       "treatment": "Acyclovir plus corticosteroids",
       "lecture": "L180",
-      "id": "c90"
+      "id": "c90",
+      "presentation": "60M with facial palsy, vesicles in the external auditory canal, and ipsilateral hearing loss from VZV reactivation"
     },
     {
       "name": "Rhabdomyolysis",
       "pathophysiology": "Skeletal muscle breakdown releases myoglobin, risking tubular obstruction and AKI",
       "treatment": "Aggressive isotonic IV fluids; treat the underlying cause",
       "lecture": "L192",
-      "id": "c91"
+      "id": "c91",
+      "presentation": "Bodybuilder after intense exercise has muscle pain, tea-colored urine, CK >10,000, and acute kidney injury"
     },
     {
       "name": "Rosacea",
       "pathophysiology": "Innate immune dysregulation with elevated cathelicidin and possible Demodex mite role",
       "treatment": "Trigger avoidance, topical metronidazole/ivermectin, oral doxycycline",
       "lecture": "L181",
-      "id": "c92"
+      "id": "c92",
+      "presentation": "40F with central facial erythema, telangiectasias, and inflammatory papules without comedones; flushes with alcohol"
     },
     {
       "name": "Sarcoidosis",
       "pathophysiology": "Th1-driven non-caseating granulomatous inflammation of unknown cause",
       "treatment": "Corticosteroids first-line; methotrexate or hydroxychloroquine",
       "lecture": "L187",
-      "id": "c93"
+      "id": "c93",
+      "presentation": "30F African-American with bilateral hilar lymphadenopathy, erythema nodosum, and non-caseating granulomas on biopsy"
     },
     {
       "name": "Seborrheic Keratosis",
       "pathophysiology": "Benign basaloid keratinocyte hyperplasia with horn cysts; activating FGFR3 mutations",
       "treatment": "Benign; cryotherapy or curettage if cosmetically desired",
       "lecture": "L182",
-      "id": "c94"
+      "id": "c94",
+      "presentation": "70M with multiple waxy 'stuck-on' brown papules on the trunk and face"
     },
     {
       "name": "Sickle cell disease",
       "pathophysiology": "Glutamate-to-valine mutation in beta-globin; HbS polymerizes under hypoxia/acidosis",
       "treatment": "Hydroxyurea; hydration, analgesia, vaccination against encapsulated organisms",
       "lecture": "L152",
-      "id": "c95"
+      "id": "c95",
+      "presentation": "African-American child with painful vaso-occlusive crises, dactylitis, and hemoglobin SS on electrophoresis"
     },
     {
       "name": "Sideroblastic anemia",
       "pathophysiology": "Defective protoporphyrin synthesis causes iron to accumulate in mitochondria as ringed sideroblasts",
       "treatment": "Pyridoxine (vitamin B6); remove offending agent (alcohol, isoniazid)",
       "lecture": "L151",
-      "id": "c96"
+      "id": "c96",
+      "presentation": "Alcoholic with microcytic anemia, high serum iron and ferritin, and ringed sideroblasts on marrow biopsy"
     },
     {
       "name": "Splenic Sequestration Crisis",
       "pathophysiology": "Sickle cell spleen suddenly traps a large blood volume causing hypovolemic shock",
       "treatment": "Urgent transfusion; volume resuscitation; splenectomy if recurrent",
       "lecture": "L163",
-      "id": "c97"
+      "id": "c97",
+      "presentation": "Child with sickle cell disease has sudden hypotension, severe anemia, and a rapidly enlarging spleen"
     },
     {
       "name": "Squamous Cell Carcinoma",
       "pathophysiology": "UV-induced p53 mutations drive malignant keratinocytes invading through the basement membrane",
       "treatment": "Excision or Mohs surgery; cemiplimab for advanced disease",
       "lecture": "L182",
-      "id": "c98"
+      "id": "c98",
+      "presentation": "70M with chronic sun exposure has a scaly hyperkeratotic ulcerated nodule on the lower lip"
     },
     {
       "name": "Staphylococcal Scalded Skin Syndrome",
       "pathophysiology": "S. aureus exfoliative toxins cleave desmoglein-1 in the granular layer causing intraepidermal separation",
       "treatment": "Anti-staphylococcal IV antibiotics and supportive fluid care",
       "lecture": "L176",
-      "id": "c99"
+      "id": "c99",
+      "presentation": "Toddler with diffuse desquamating erythema and positive Nikolsky sign after staph infection; mucosa spared"
     },
     {
       "name": "Stasis Dermatitis",
       "pathophysiology": "Chronic venous hypertension causes capillary leak and hemosiderin deposition",
       "treatment": "Compression therapy (cornerstone), leg elevation, topical steroids",
       "lecture": "L186",
-      "id": "c100"
+      "id": "c100",
+      "presentation": "70F with chronic venous insufficiency has bilateral lower-leg edema, hyperpigmentation, and itchy eczematous patches"
     },
     {
       "name": "Stevens-Johnson Syndrome / Toxic Epidermal Necrolysis",
       "pathophysiology": "Type IV cytotoxic T-cell drug reaction causing widespread keratinocyte apoptosis and epidermal necrosis",
       "treatment": "Stop the offending drug immediately; burn-unit-level supportive care",
       "lecture": "L181",
-      "id": "c101"
+      "id": "c101",
+      "presentation": "Patient 1-3 weeks after starting a sulfonamide has painful mucosal erosions and >10% epidermal detachment"
     },
     {
       "name": "Sturge-Weber Syndrome",
       "pathophysiology": "Somatic GNAQ mutation causing V1 port wine stain and leptomeningeal angiomas",
       "treatment": "Anticonvulsants, pulsed-dye laser, IOP control for glaucoma",
       "lecture": "L188",
-      "id": "c102"
+      "id": "c102",
+      "presentation": "Infant with a port-wine stain in the V1 distribution has seizures, glaucoma, and 'tram-track' intracranial calcifications"
     },
     {
       "name": "Subacute combined degeneration",
       "pathophysiology": "B12 deficiency raises methylmalonic acid, damaging dorsal columns and lateral corticospinal tracts",
       "treatment": "B12 replacement; deficits may be irreversible if delayed",
       "lecture": "L152",
-      "id": "c103"
+      "id": "c103",
+      "presentation": "Elderly patient with B12 deficiency has loss of vibration and proprioception, lateral CST signs, and dementia"
     },
     {
       "name": "Systemic Lupus Erythematosus",
       "pathophysiology": "Loss of self-tolerance with antinuclear autoantibodies and immune-complex deposition",
       "treatment": "Photoprotection, hydroxychloroquine, corticosteroids, immunosuppressants",
       "lecture": "L187",
-      "id": "c104"
+      "id": "c104",
+      "presentation": "30F African-American with malar rash, oral ulcers, arthritis, and serositis; ANA and anti-dsDNA positive"
     },
     {
       "name": "Systemic Sclerosis (Scleroderma)",
       "pathophysiology": "Fibroblast overproduction of collagen sclerosing skin and internal organs",
       "treatment": "Immunosuppressants; ACE inhibitors for scleroderma renal crisis",
       "lecture": "L187",
-      "id": "c105"
+      "id": "c105",
+      "presentation": "40F with skin thickening, sclerodactyly, Raynaud phenomenon, and esophageal dysmotility; anti-Scl-70 positive"
     },
     {
       "name": "Thrombotic Thrombocytopenic Purpura (TTP)",
       "pathophysiology": "ADAMTS13 deficiency leaves large vWF multimers that trap platelets into microthrombi",
       "treatment": "Plasma exchange; avoid platelet transfusion",
       "lecture": "L161",
-      "id": "c107"
+      "id": "c107",
+      "presentation": "30F with fever, neurologic changes, thrombocytopenia, microangiopathic hemolytic anemia, and renal failure; ADAMTS13 deficient"
     },
     {
       "name": "Toxic Shock Syndrome",
       "pathophysiology": "Superantigen-driven massive T-cell activation, cytokine storm, and capillary leak",
       "treatment": "Remove source; clindamycin plus vancomycin; fluids and vasopressors",
       "lecture": "L189",
-      "id": "c108"
+      "id": "c108",
+      "presentation": "Menstruating woman using tampons has high fever, hypotension, diffuse macular rash, and later desquamation"
     },
     {
       "name": "Transfusion-associated circulatory overload (TACO)",
       "pathophysiology": "Volume overload causes cardiogenic pulmonary edema with elevated CVP/PCWP",
       "treatment": "Diuretics (furosemide); slow infusion rate",
       "lecture": "L149",
-      "id": "c109"
+      "id": "c109",
+      "presentation": "Elderly patient receiving rapid transfusion develops hypertension, dyspnea, and pulmonary edema within 6 hours"
     },
     {
       "name": "Transfusion-associated graft-versus-host disease (TA-GVHD)",
       "pathophysiology": "Donor T cells engraft in an immunocompromised host and attack host tissues",
       "treatment": "Prevented by irradiation of blood products; >90% fatal once established",
       "lecture": "L149",
-      "id": "c110"
+      "id": "c110",
+      "presentation": "Immunocompromised patient 1-2 weeks post-transfusion has fever, rash, diarrhea, and pancytopenia from engrafting donor T cells"
     },
     {
       "name": "Transfusion-related acute lung injury (TRALI)",
       "pathophysiology": "Donor anti-neutrophil antibodies activate recipient pulmonary neutrophils; non-cardiogenic edema with normal CVP",
       "treatment": "Supportive care; avoid implicated donors",
       "lecture": "L149",
-      "id": "c111"
+      "id": "c111",
+      "presentation": "Patient develops acute bilateral pulmonary infiltrates and hypoxia within 6 hours of transfusion; donor anti-HLA antibodies implicated"
     },
     {
       "name": "Trench Foot (Immersion Foot)",
       "pathophysiology": "Prolonged wet, non-freezing exposure causes neurovascular injury without freezing",
       "treatment": "Elevation; dry, loose dressing; late debridement",
       "lecture": "L191",
-      "id": "c112"
+      "id": "c112",
+      "presentation": "Soldier after prolonged cold-wet exposure has macerated, painful, swollen feet with skin discoloration"
     },
     {
       "name": "Trousseau Syndrome",
       "pathophysiology": "Occult malignancy releases procoagulants causing migratory thrombophlebitis",
       "treatment": "Anticoagulation and treat underlying cancer",
       "lecture": "L162",
-      "id": "c113"
+      "id": "c113",
+      "presentation": "Patient with occult pancreatic adenocarcinoma has migratory superficial thrombophlebitis at different sites"
     },
     {
       "name": "Tumor lysis syndrome",
       "pathophysiology": "Massive tumor cell death releases uric acid, potassium, and phosphate causing metabolic derangement",
       "treatment": "Aggressive hydration plus allopurinol or rasburicase",
       "lecture": "L156",
-      "id": "c114"
+      "id": "c114",
+      "presentation": "Patient 12-72 hours after starting chemotherapy for high-grade lymphoma has hyperkalemia, hyperphosphatemia, hyperuricemia, hypocalcemia, and AKI"
     },
     {
       "name": "Urticaria",
       "pathophysiology": "Type I IgE-mediated mast cell degranulation causing histamine-driven dermal edema",
       "treatment": "Antihistamines; identify and avoid trigger",
       "lecture": "L181",
-      "id": "c115"
+      "id": "c115",
+      "presentation": "20F has transient pruritic raised wheals lasting <24 hours after eating shellfish; IgE-mediated"
     },
     {
       "name": "Vitiligo",
       "pathophysiology": "T-cell-mediated autoimmune destruction of melanocytes producing depigmented patches",
       "treatment": "Topical corticosteroids, calcineurin inhibitors, narrowband UVB phototherapy",
       "lecture": "L174",
-      "id": "c116"
+      "id": "c116",
+      "presentation": "30M with well-demarcated depigmented patches on the hands and face; autoimmune melanocyte destruction"
     },
     {
       "name": "von Willebrand Disease",
       "pathophysiology": "vWF deficiency impairs platelet adhesion and destabilizes factor VIII (double hit)",
       "treatment": "Desmopressin (DDAVP)",
       "lecture": "L161",
-      "id": "c117"
+      "id": "c117",
+      "presentation": "Adolescent with easy bruising, epistaxis, and heavy menses; prolonged bleeding time, normal platelet count, low vWF"
     },
     {
       "name": "Warfarin-Induced Skin Necrosis",
       "pathophysiology": "Rapid protein C drop on starting warfarin causes transient hypercoagulable microthrombosis",
       "treatment": "Bridge with heparin when initiating warfarin",
       "lecture": "L164",
-      "id": "c119"
+      "id": "c119",
+      "presentation": "Patient with protein C deficiency develops skin necrosis on the breast or thigh 3-10 days after starting warfarin"
     },
     {
       "name": "Waterhouse-Friderichsen Syndrome",
       "pathophysiology": "Bilateral adrenal hemorrhage from DIC during meningococcemia",
       "treatment": "Emergent corticosteroids and antibiotics for the sepsis",
       "lecture": "L161",
-      "id": "c120"
+      "id": "c120",
+      "presentation": "Child with meningococcal sepsis develops adrenal hemorrhage, refractory shock, and DIC"
+    }
+  ],
+  "dermterms": [
+    {
+      "name": "Macule",
+      "definition": "Flat, non-palpable, circumscribed area <1 cm differing from surrounding skin only in color",
+      "example": "Freckle; vitiligo patch; tinea versicolor",
+      "lecture": "L179",
+      "id": "dt1"
+    },
+    {
+      "name": "Patch",
+      "definition": "Flat, non-palpable, circumscribed area >1 cm differing only in color (essentially a large macule)",
+      "example": "Cafe-au-lait spot; mongolian spot",
+      "lecture": "L179",
+      "id": "dt2"
+    },
+    {
+      "name": "Papule",
+      "definition": "Solid, elevated, circumscribed lesion <1 cm above the skin surface",
+      "example": "Acne papule; molluscum; lichen planus",
+      "lecture": "L179",
+      "id": "dt3"
+    },
+    {
+      "name": "Plaque",
+      "definition": "Solid, broadly elevated, flat-topped lesion >1 cm (often a coalescence of papules)",
+      "example": "Psoriasis plaque; lichen simplex chronicus",
+      "lecture": "L179",
+      "id": "dt4"
+    },
+    {
+      "name": "Nodule",
+      "definition": "Solid, circumscribed, elevated lesion 1-5 cm extending deeper into dermis or subcutis",
+      "example": "Lipoma; erythema nodosum; rheumatoid nodule",
+      "lecture": "L179",
+      "id": "dt5"
+    },
+    {
+      "name": "Tumor",
+      "definition": "Solid, circumscribed elevated mass >5 cm",
+      "example": "Large lipoma; cutaneous neoplasm",
+      "lecture": "L179",
+      "id": "dt6"
+    },
+    {
+      "name": "Vesicle",
+      "definition": "Elevated, circumscribed lesion filled with clear serous fluid, <1 cm",
+      "example": "HSV; varicella; contact dermatitis",
+      "lecture": "L179",
+      "id": "dt7"
+    },
+    {
+      "name": "Bulla",
+      "definition": "Elevated, circumscribed lesion filled with clear serous fluid, >1 cm (essentially a large vesicle)",
+      "example": "Bullous pemphigoid; second-degree burn",
+      "lecture": "L179",
+      "id": "dt8"
+    },
+    {
+      "name": "Pustule",
+      "definition": "Elevated, circumscribed lesion filled with purulent fluid (any size)",
+      "example": "Acne pustule; folliculitis; impetigo",
+      "lecture": "L179",
+      "id": "dt9"
+    },
+    {
+      "name": "Wheal",
+      "definition": "Transient, elevated, erythematous area of dermal edema (welt or hive)",
+      "example": "Urticaria; dermatographism",
+      "lecture": "L179",
+      "id": "dt10"
+    },
+    {
+      "name": "Scale",
+      "definition": "Accumulation of loose or adherent desquamated keratin from the stratum corneum",
+      "example": "Silvery scale of psoriasis; seborrheic dermatitis",
+      "lecture": "L179",
+      "id": "dt11"
+    },
+    {
+      "name": "Crust",
+      "definition": "Dried serum, blood, or pus overlying damaged skin",
+      "example": "Honey-colored crust of impetigo",
+      "lecture": "L179",
+      "id": "dt12"
+    },
+    {
+      "name": "Eschar",
+      "definition": "Type of thick adherent crust indicating underlying skin necrosis",
+      "example": "Anthrax eschar; deep burn; pressure ulcer",
+      "lecture": "L179",
+      "id": "dt13"
+    },
+    {
+      "name": "Erosion",
+      "definition": "Superficial depression from loss of epidermis only; heals WITHOUT scarring",
+      "example": "Post-vesicular erosion; pemphigus",
+      "lecture": "L179",
+      "id": "dt14"
+    },
+    {
+      "name": "Excoriation",
+      "definition": "Linear erosion caused by scratching or abrasion",
+      "example": "Atopic dermatitis with chronic itch",
+      "lecture": "L179",
+      "id": "dt15"
+    },
+    {
+      "name": "Ulceration",
+      "definition": "Depression from loss of epidermis AND at least part of the dermis; heals WITH scarring",
+      "example": "Venous stasis ulcer; arterial ulcer; pressure ulcer",
+      "lecture": "L179",
+      "id": "dt16"
+    },
+    {
+      "name": "Fissure",
+      "definition": "Linear cleavage or crack in the skin extending into the dermis",
+      "example": "Athlete's foot; anal fissure; cheilitis",
+      "lecture": "L179",
+      "id": "dt17"
+    },
+    {
+      "name": "Atrophy",
+      "definition": "Thinning of the skin layers — fine wrinkling (epidermal) or surface depression (dermal)",
+      "example": "Topical corticosteroid overuse; aged skin",
+      "lecture": "L179",
+      "id": "dt18"
+    },
+    {
+      "name": "Lichenification",
+      "definition": "Thickening of the epidermis with accentuation of normal skin markings from chronic rubbing",
+      "example": "Chronic atopic dermatitis; lichen simplex chronicus",
+      "lecture": "L179",
+      "id": "dt19"
+    },
+    {
+      "name": "Hypertrophic scar",
+      "definition": "Area of fibrous tissue proliferation that is elevated but confined to the original wound borders",
+      "example": "Post-surgical scar that stays within the incision",
+      "lecture": "L179",
+      "id": "dt20"
+    },
+    {
+      "name": "Keloid",
+      "definition": "Excessive fibrous tissue proliferation that extends beyond the original wound borders",
+      "example": "Earlobe or chest keloid (more common in darker skin)",
+      "lecture": "L179",
+      "id": "dt21"
+    },
+    {
+      "name": "Xerosis",
+      "definition": "Abnormally dry skin",
+      "example": "Winter-related dry skin; atopic dermatitis",
+      "lecture": "L179",
+      "id": "dt22"
+    },
+    {
+      "name": "Annular",
+      "definition": "Ring-shaped lesion with variation in appearance between the periphery and the center",
+      "example": "Tinea corporis; granuloma annulare",
+      "lecture": "L179",
+      "id": "dt23"
+    },
+    {
+      "name": "Nummular (discoid)",
+      "definition": "Circular or coin-shaped lesion with uniform appearance throughout",
+      "example": "Nummular dermatitis",
+      "lecture": "L179",
+      "id": "dt24"
+    },
+    {
+      "name": "Targetoid",
+      "definition": "Ring-shaped lesion with two distinct concentric zones of differing appearance",
+      "example": "Erythema multiforme target lesions",
+      "lecture": "L179",
+      "id": "dt25"
+    },
+    {
+      "name": "Arcuate",
+      "definition": "Incomplete ring or arc-shaped lesion",
+      "example": "Resolving urticaria; arcuate plaques of mycosis fungoides",
+      "lecture": "L179",
+      "id": "dt26"
+    },
+    {
+      "name": "Stellate",
+      "definition": "Lesion with multiple angulated edges resembling a star",
+      "example": "Stellate purpura of meningococcemia",
+      "lecture": "L179",
+      "id": "dt27"
+    },
+    {
+      "name": "Serpiginous",
+      "definition": "Lesion that wanders as if following the track of a snake",
+      "example": "Cutaneous larva migrans",
+      "lecture": "L179",
+      "id": "dt28"
+    },
+    {
+      "name": "Reticulate",
+      "definition": "Net-like or lacy arrangement of lesions",
+      "example": "Livedo reticularis; erythema infectiosum body rash",
+      "lecture": "L179",
+      "id": "dt29"
+    },
+    {
+      "name": "Grouped (clustered)",
+      "definition": "Multiple lesions positioned immediately adjacent to one another",
+      "example": "Grouped vesicles of HSV; herpes zoster",
+      "lecture": "L179",
+      "id": "dt30"
+    },
+    {
+      "name": "Confluent",
+      "definition": "Multiple lesions joining together into a single continuous area",
+      "example": "Coalescing morbilliform drug rash",
+      "lecture": "L179",
+      "id": "dt31"
+    },
+    {
+      "name": "Discrete",
+      "definition": "Distinct lesions that remain clearly separate from each other",
+      "example": "Discrete viral papules of molluscum",
+      "lecture": "L179",
+      "id": "dt32"
+    },
+    {
+      "name": "Geometric",
+      "definition": "Lesions with sharp borders or a pattern suggesting an external object pressed against the skin",
+      "example": "Contact dermatitis from a watch strap or jewelry",
+      "lecture": "L179",
+      "id": "dt33"
+    },
+    {
+      "name": "Dermatomal",
+      "definition": "Lesions following the cutaneous distribution of a single spinal nerve root; unilateral and does not cross midline",
+      "example": "Herpes zoster (shingles)",
+      "lecture": "L179",
+      "id": "dt34"
+    },
+    {
+      "name": "Guttate",
+      "definition": "Small drop-like lesions appearing as if applied with a dropper",
+      "example": "Guttate psoriasis after streptococcal pharyngitis",
+      "lecture": "L179",
+      "id": "dt35"
+    },
+    {
+      "name": "Follicular",
+      "definition": "Lesions centered around hair follicles",
+      "example": "Folliculitis; keratosis pilaris",
+      "lecture": "L179",
+      "id": "dt36"
+    },
+    {
+      "name": "Blaschkoid",
+      "definition": "Lesions arranged along Blaschko's lines (developmental skin migration paths)",
+      "example": "Linear epidermal nevus; incontinentia pigmenti",
+      "lecture": "L179",
+      "id": "dt37"
+    },
+    {
+      "name": "Acral",
+      "definition": "Affecting the distal portions of the extremities — hands and feet",
+      "example": "Hand-foot-mouth disease; acral lentiginous melanoma",
+      "lecture": "L179",
+      "id": "dt38"
+    },
+    {
+      "name": "Extensor",
+      "definition": "Affecting extensor surfaces — posterior arms/forearms, anterior thighs/legs, elbows, knees",
+      "example": "Psoriasis; dermatitis herpetiformis",
+      "lecture": "L179",
+      "id": "dt39"
+    },
+    {
+      "name": "Flexural",
+      "definition": "Affecting flexor surfaces — antecubital and popliteal fossae",
+      "example": "Atopic dermatitis in children",
+      "lecture": "L179",
+      "id": "dt40"
+    },
+    {
+      "name": "Intertriginous",
+      "definition": "Affecting areas where two skin surfaces contact each other — axilla, inguinal, inframammary, intergluteal",
+      "example": "Candidal intertrigo; inverse psoriasis",
+      "lecture": "L179",
+      "id": "dt41"
+    },
+    {
+      "name": "Truncal",
+      "definition": "Affecting the chest, back, and abdomen",
+      "example": "Pityriasis rosea Christmas-tree distribution",
+      "lecture": "L179",
+      "id": "dt42"
+    },
+    {
+      "name": "Centrifugal spread",
+      "definition": "Rash that starts on the trunk and spreads outward to the extremities",
+      "example": "Roseola infantum",
+      "lecture": "L179",
+      "id": "dt43"
+    },
+    {
+      "name": "Centripetal spread",
+      "definition": "Rash that starts on the extremities and spreads inward toward the trunk",
+      "example": "Rocky Mountain spotted fever",
+      "lecture": "L179",
+      "id": "dt44"
+    },
+    {
+      "name": "Cephalocaudal spread",
+      "definition": "Rash that starts on the head and spreads downward toward the feet",
+      "example": "Measles; rubella",
+      "lecture": "L179",
+      "id": "dt45"
+    },
+    {
+      "name": "Alopecia",
+      "definition": "Baldness; loss of hair from an area where it normally grows",
+      "example": "Subdivided into cicatricial vs non-cicatricial",
+      "lecture": "L179",
+      "id": "dt46"
+    },
+    {
+      "name": "Cicatricial alopecia",
+      "definition": "Scarring alopecia in which follicular orifices are destroyed and hair loss is permanent",
+      "example": "Discoid lupus erythematosus; lichen planopilaris",
+      "lecture": "L179",
+      "id": "dt47"
+    },
+    {
+      "name": "Alopecia areata",
+      "definition": "Localized non-scarring autoimmune hair loss occurring in round or oval patches",
+      "example": "Patchy bald spots with characteristic exclamation point hairs",
+      "lecture": "L179",
+      "id": "dt48"
+    },
+    {
+      "name": "Telogen effluvium",
+      "definition": "Transient diffuse increased shedding of normal hairs ~3 months after a stressor",
+      "example": "Postpartum or post-illness hair shedding noticed while brushing",
+      "lecture": "L179",
+      "id": "dt49"
+    },
+    {
+      "name": "Androgenic alopecia",
+      "definition": "Pattern hair loss — the most common type of progressive hair loss",
+      "example": "Male-pattern or female-pattern baldness",
+      "lecture": "L179",
+      "id": "dt50"
+    },
+    {
+      "name": "Traction alopecia",
+      "definition": "Hair loss caused by chronic pulling tension on the hair; can become permanent if prolonged",
+      "example": "Tight braids, ponytails, hair extensions",
+      "lecture": "L179",
+      "id": "dt51"
+    },
+    {
+      "name": "Hirsutism",
+      "definition": "Excess hair growth in women in a male-pattern distribution (face, chest, back)",
+      "example": "Polycystic ovary syndrome; congenital adrenal hyperplasia",
+      "lecture": "L179",
+      "id": "dt52"
+    },
+    {
+      "name": "Hypertrichosis",
+      "definition": "Excess hair growth for age, race, and sex in a non-androgenic (non-male-pattern) distribution",
+      "example": "Drug-induced from minoxidil, cyclosporine, or phenytoin",
+      "lecture": "L179",
+      "id": "dt53"
+    },
+    {
+      "name": "Exclamation point hairs",
+      "definition": "Short, tapered, easily extracted broken hairs found at the periphery of bald patches",
+      "example": "Pathognomonic for alopecia areata",
+      "lecture": "L179",
+      "id": "dt54"
+    },
+    {
+      "name": "Chromonychia",
+      "definition": "Any abnormal discoloration of the nail",
+      "example": "Many causes — drug-induced, infectious, traumatic",
+      "lecture": "L179",
+      "id": "dt55"
+    },
+    {
+      "name": "Leukonychia",
+      "definition": "White discoloration of the nail (the most common chromonychia)",
+      "example": "Trauma; hypoalbuminemia; arsenic poisoning (Mees lines)",
+      "lecture": "L179",
+      "id": "dt56"
+    },
+    {
+      "name": "Onycholysis",
+      "definition": "Detachment of the nail plate from the distal nail bed",
+      "example": "Psoriasis; hyperthyroidism; onychomycosis; trauma",
+      "lecture": "L179",
+      "id": "dt57"
+    },
+    {
+      "name": "Nail pitting",
+      "definition": "Small punctate depressions in the nail surface from abnormal keratinization",
+      "example": "Psoriasis; alopecia areata",
+      "lecture": "L179",
+      "id": "dt58"
+    },
+    {
+      "name": "Onychorrhexis",
+      "definition": "Distal longitudinal splitting of the nail (brittle nails)",
+      "example": "Iron deficiency; lichen planus; aging",
+      "lecture": "L179",
+      "id": "dt59"
+    },
+    {
+      "name": "Onychoschizia",
+      "definition": "Horizontal or lamellar splitting at the free end of the nail",
+      "example": "Frequent water exposure; trauma; nail polish remover",
+      "lecture": "L179",
+      "id": "dt60"
+    },
+    {
+      "name": "Trachyonychia",
+      "definition": "Rough, sandpaper-like surface texture of the nails",
+      "example": "Alopecia areata; lichen planus; psoriasis",
+      "lecture": "L179",
+      "id": "dt61"
     }
   ]
 }
