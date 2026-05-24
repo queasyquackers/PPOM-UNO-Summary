@@ -583,7 +583,6 @@ function renderSetup(){
     cfg.size=+b.dataset.s; renderSetup();
   });
   // lectures
-  if(cfg.lectures.size===0) cfg.lectures=new Set(catLectures());
   const lecs=catLectures();
   cfg.lectures=new Set([...cfg.lectures].filter(l=>lecs.includes(l)));
   $('lecChips').innerHTML=lecs.map(l=>
