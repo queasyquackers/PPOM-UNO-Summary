@@ -2762,5 +2762,434 @@
       "id": "c120",
       "presentation": "Child with meningococcal sepsis develops adrenal hemorrhage, refractory shock, and DIC"
     }
+  ],
+  "dermterms": [
+    {
+      "name": "Macule",
+      "definition": "Flat, non-palpable, circumscribed area <1 cm differing from surrounding skin only in color",
+      "example": "Freckle; vitiligo patch; tinea versicolor",
+      "lecture": "L179",
+      "id": "dt1"
+    },
+    {
+      "name": "Patch",
+      "definition": "Flat, non-palpable, circumscribed area >1 cm differing only in color (essentially a large macule)",
+      "example": "Cafe-au-lait spot; mongolian spot",
+      "lecture": "L179",
+      "id": "dt2"
+    },
+    {
+      "name": "Papule",
+      "definition": "Solid, elevated, circumscribed lesion <1 cm above the skin surface",
+      "example": "Acne papule; molluscum; lichen planus",
+      "lecture": "L179",
+      "id": "dt3"
+    },
+    {
+      "name": "Plaque",
+      "definition": "Solid, broadly elevated, flat-topped lesion >1 cm (often a coalescence of papules)",
+      "example": "Psoriasis plaque; lichen simplex chronicus",
+      "lecture": "L179",
+      "id": "dt4"
+    },
+    {
+      "name": "Nodule",
+      "definition": "Solid, circumscribed, elevated lesion 1-5 cm extending deeper into dermis or subcutis",
+      "example": "Lipoma; erythema nodosum; rheumatoid nodule",
+      "lecture": "L179",
+      "id": "dt5"
+    },
+    {
+      "name": "Tumor",
+      "definition": "Solid, circumscribed elevated mass >5 cm",
+      "example": "Large lipoma; cutaneous neoplasm",
+      "lecture": "L179",
+      "id": "dt6"
+    },
+    {
+      "name": "Vesicle",
+      "definition": "Elevated, circumscribed lesion filled with clear serous fluid, <1 cm",
+      "example": "HSV; varicella; contact dermatitis",
+      "lecture": "L179",
+      "id": "dt7"
+    },
+    {
+      "name": "Bulla",
+      "definition": "Elevated, circumscribed lesion filled with clear serous fluid, >1 cm (essentially a large vesicle)",
+      "example": "Bullous pemphigoid; second-degree burn",
+      "lecture": "L179",
+      "id": "dt8"
+    },
+    {
+      "name": "Pustule",
+      "definition": "Elevated, circumscribed lesion filled with purulent fluid (any size)",
+      "example": "Acne pustule; folliculitis; impetigo",
+      "lecture": "L179",
+      "id": "dt9"
+    },
+    {
+      "name": "Wheal",
+      "definition": "Transient, elevated, erythematous area of dermal edema (welt or hive)",
+      "example": "Urticaria; dermatographism",
+      "lecture": "L179",
+      "id": "dt10"
+    },
+    {
+      "name": "Scale",
+      "definition": "Accumulation of loose or adherent desquamated keratin from the stratum corneum",
+      "example": "Silvery scale of psoriasis; seborrheic dermatitis",
+      "lecture": "L179",
+      "id": "dt11"
+    },
+    {
+      "name": "Crust",
+      "definition": "Dried serum, blood, or pus overlying damaged skin",
+      "example": "Honey-colored crust of impetigo",
+      "lecture": "L179",
+      "id": "dt12"
+    },
+    {
+      "name": "Eschar",
+      "definition": "Type of thick adherent crust indicating underlying skin necrosis",
+      "example": "Anthrax eschar; deep burn; pressure ulcer",
+      "lecture": "L179",
+      "id": "dt13"
+    },
+    {
+      "name": "Erosion",
+      "definition": "Superficial depression from loss of epidermis only; heals WITHOUT scarring",
+      "example": "Post-vesicular erosion; pemphigus",
+      "lecture": "L179",
+      "id": "dt14"
+    },
+    {
+      "name": "Excoriation",
+      "definition": "Linear erosion caused by scratching or abrasion",
+      "example": "Atopic dermatitis with chronic itch",
+      "lecture": "L179",
+      "id": "dt15"
+    },
+    {
+      "name": "Ulceration",
+      "definition": "Depression from loss of epidermis AND at least part of the dermis; heals WITH scarring",
+      "example": "Venous stasis ulcer; arterial ulcer; pressure ulcer",
+      "lecture": "L179",
+      "id": "dt16"
+    },
+    {
+      "name": "Fissure",
+      "definition": "Linear cleavage or crack in the skin extending into the dermis",
+      "example": "Athlete's foot; anal fissure; cheilitis",
+      "lecture": "L179",
+      "id": "dt17"
+    },
+    {
+      "name": "Atrophy",
+      "definition": "Thinning of the skin layers — fine wrinkling (epidermal) or surface depression (dermal)",
+      "example": "Topical corticosteroid overuse; aged skin",
+      "lecture": "L179",
+      "id": "dt18"
+    },
+    {
+      "name": "Lichenification",
+      "definition": "Thickening of the epidermis with accentuation of normal skin markings from chronic rubbing",
+      "example": "Chronic atopic dermatitis; lichen simplex chronicus",
+      "lecture": "L179",
+      "id": "dt19"
+    },
+    {
+      "name": "Hypertrophic scar",
+      "definition": "Area of fibrous tissue proliferation that is elevated but confined to the original wound borders",
+      "example": "Post-surgical scar that stays within the incision",
+      "lecture": "L179",
+      "id": "dt20"
+    },
+    {
+      "name": "Keloid",
+      "definition": "Excessive fibrous tissue proliferation that extends beyond the original wound borders",
+      "example": "Earlobe or chest keloid (more common in darker skin)",
+      "lecture": "L179",
+      "id": "dt21"
+    },
+    {
+      "name": "Xerosis",
+      "definition": "Abnormally dry skin",
+      "example": "Winter-related dry skin; atopic dermatitis",
+      "lecture": "L179",
+      "id": "dt22"
+    },
+    {
+      "name": "Annular",
+      "definition": "Ring-shaped lesion with variation in appearance between the periphery and the center",
+      "example": "Tinea corporis; granuloma annulare",
+      "lecture": "L179",
+      "id": "dt23"
+    },
+    {
+      "name": "Nummular (discoid)",
+      "definition": "Circular or coin-shaped lesion with uniform appearance throughout",
+      "example": "Nummular dermatitis",
+      "lecture": "L179",
+      "id": "dt24"
+    },
+    {
+      "name": "Targetoid",
+      "definition": "Ring-shaped lesion with two distinct concentric zones of differing appearance",
+      "example": "Erythema multiforme target lesions",
+      "lecture": "L179",
+      "id": "dt25"
+    },
+    {
+      "name": "Arcuate",
+      "definition": "Incomplete ring or arc-shaped lesion",
+      "example": "Resolving urticaria; arcuate plaques of mycosis fungoides",
+      "lecture": "L179",
+      "id": "dt26"
+    },
+    {
+      "name": "Stellate",
+      "definition": "Lesion with multiple angulated edges resembling a star",
+      "example": "Stellate purpura of meningococcemia",
+      "lecture": "L179",
+      "id": "dt27"
+    },
+    {
+      "name": "Serpiginous",
+      "definition": "Lesion that wanders as if following the track of a snake",
+      "example": "Cutaneous larva migrans",
+      "lecture": "L179",
+      "id": "dt28"
+    },
+    {
+      "name": "Reticulate",
+      "definition": "Net-like or lacy arrangement of lesions",
+      "example": "Livedo reticularis; erythema infectiosum body rash",
+      "lecture": "L179",
+      "id": "dt29"
+    },
+    {
+      "name": "Grouped (clustered)",
+      "definition": "Multiple lesions positioned immediately adjacent to one another",
+      "example": "Grouped vesicles of HSV; herpes zoster",
+      "lecture": "L179",
+      "id": "dt30"
+    },
+    {
+      "name": "Confluent",
+      "definition": "Multiple lesions joining together into a single continuous area",
+      "example": "Coalescing morbilliform drug rash",
+      "lecture": "L179",
+      "id": "dt31"
+    },
+    {
+      "name": "Discrete",
+      "definition": "Distinct lesions that remain clearly separate from each other",
+      "example": "Discrete viral papules of molluscum",
+      "lecture": "L179",
+      "id": "dt32"
+    },
+    {
+      "name": "Geometric",
+      "definition": "Lesions with sharp borders or a pattern suggesting an external object pressed against the skin",
+      "example": "Contact dermatitis from a watch strap or jewelry",
+      "lecture": "L179",
+      "id": "dt33"
+    },
+    {
+      "name": "Dermatomal",
+      "definition": "Lesions following the cutaneous distribution of a single spinal nerve root; unilateral and does not cross midline",
+      "example": "Herpes zoster (shingles)",
+      "lecture": "L179",
+      "id": "dt34"
+    },
+    {
+      "name": "Guttate",
+      "definition": "Small drop-like lesions appearing as if applied with a dropper",
+      "example": "Guttate psoriasis after streptococcal pharyngitis",
+      "lecture": "L179",
+      "id": "dt35"
+    },
+    {
+      "name": "Follicular",
+      "definition": "Lesions centered around hair follicles",
+      "example": "Folliculitis; keratosis pilaris",
+      "lecture": "L179",
+      "id": "dt36"
+    },
+    {
+      "name": "Blaschkoid",
+      "definition": "Lesions arranged along Blaschko's lines (developmental skin migration paths)",
+      "example": "Linear epidermal nevus; incontinentia pigmenti",
+      "lecture": "L179",
+      "id": "dt37"
+    },
+    {
+      "name": "Acral",
+      "definition": "Affecting the distal portions of the extremities — hands and feet",
+      "example": "Hand-foot-mouth disease; acral lentiginous melanoma",
+      "lecture": "L179",
+      "id": "dt38"
+    },
+    {
+      "name": "Extensor",
+      "definition": "Affecting extensor surfaces — posterior arms/forearms, anterior thighs/legs, elbows, knees",
+      "example": "Psoriasis; dermatitis herpetiformis",
+      "lecture": "L179",
+      "id": "dt39"
+    },
+    {
+      "name": "Flexural",
+      "definition": "Affecting flexor surfaces — antecubital and popliteal fossae",
+      "example": "Atopic dermatitis in children",
+      "lecture": "L179",
+      "id": "dt40"
+    },
+    {
+      "name": "Intertriginous",
+      "definition": "Affecting areas where two skin surfaces contact each other — axilla, inguinal, inframammary, intergluteal",
+      "example": "Candidal intertrigo; inverse psoriasis",
+      "lecture": "L179",
+      "id": "dt41"
+    },
+    {
+      "name": "Truncal",
+      "definition": "Affecting the chest, back, and abdomen",
+      "example": "Pityriasis rosea Christmas-tree distribution",
+      "lecture": "L179",
+      "id": "dt42"
+    },
+    {
+      "name": "Centrifugal spread",
+      "definition": "Rash that starts on the trunk and spreads outward to the extremities",
+      "example": "Roseola infantum",
+      "lecture": "L179",
+      "id": "dt43"
+    },
+    {
+      "name": "Centripetal spread",
+      "definition": "Rash that starts on the extremities and spreads inward toward the trunk",
+      "example": "Rocky Mountain spotted fever",
+      "lecture": "L179",
+      "id": "dt44"
+    },
+    {
+      "name": "Cephalocaudal spread",
+      "definition": "Rash that starts on the head and spreads downward toward the feet",
+      "example": "Measles; rubella",
+      "lecture": "L179",
+      "id": "dt45"
+    },
+    {
+      "name": "Alopecia",
+      "definition": "Baldness; loss of hair from an area where it normally grows",
+      "example": "Subdivided into cicatricial vs non-cicatricial",
+      "lecture": "L179",
+      "id": "dt46"
+    },
+    {
+      "name": "Cicatricial alopecia",
+      "definition": "Scarring alopecia in which follicular orifices are destroyed and hair loss is permanent",
+      "example": "Discoid lupus erythematosus; lichen planopilaris",
+      "lecture": "L179",
+      "id": "dt47"
+    },
+    {
+      "name": "Alopecia areata",
+      "definition": "Localized non-scarring autoimmune hair loss occurring in round or oval patches",
+      "example": "Patchy bald spots with characteristic exclamation point hairs",
+      "lecture": "L179",
+      "id": "dt48"
+    },
+    {
+      "name": "Telogen effluvium",
+      "definition": "Transient diffuse increased shedding of normal hairs ~3 months after a stressor",
+      "example": "Postpartum or post-illness hair shedding noticed while brushing",
+      "lecture": "L179",
+      "id": "dt49"
+    },
+    {
+      "name": "Androgenic alopecia",
+      "definition": "Pattern hair loss — the most common type of progressive hair loss",
+      "example": "Male-pattern or female-pattern baldness",
+      "lecture": "L179",
+      "id": "dt50"
+    },
+    {
+      "name": "Traction alopecia",
+      "definition": "Hair loss caused by chronic pulling tension on the hair; can become permanent if prolonged",
+      "example": "Tight braids, ponytails, hair extensions",
+      "lecture": "L179",
+      "id": "dt51"
+    },
+    {
+      "name": "Hirsutism",
+      "definition": "Excess hair growth in women in a male-pattern distribution (face, chest, back)",
+      "example": "Polycystic ovary syndrome; congenital adrenal hyperplasia",
+      "lecture": "L179",
+      "id": "dt52"
+    },
+    {
+      "name": "Hypertrichosis",
+      "definition": "Excess hair growth for age, race, and sex in a non-androgenic (non-male-pattern) distribution",
+      "example": "Drug-induced from minoxidil, cyclosporine, or phenytoin",
+      "lecture": "L179",
+      "id": "dt53"
+    },
+    {
+      "name": "Exclamation point hairs",
+      "definition": "Short, tapered, easily extracted broken hairs found at the periphery of bald patches",
+      "example": "Pathognomonic for alopecia areata",
+      "lecture": "L179",
+      "id": "dt54"
+    },
+    {
+      "name": "Chromonychia",
+      "definition": "Any abnormal discoloration of the nail",
+      "example": "Many causes — drug-induced, infectious, traumatic",
+      "lecture": "L179",
+      "id": "dt55"
+    },
+    {
+      "name": "Leukonychia",
+      "definition": "White discoloration of the nail (the most common chromonychia)",
+      "example": "Trauma; hypoalbuminemia; arsenic poisoning (Mees lines)",
+      "lecture": "L179",
+      "id": "dt56"
+    },
+    {
+      "name": "Onycholysis",
+      "definition": "Detachment of the nail plate from the distal nail bed",
+      "example": "Psoriasis; hyperthyroidism; onychomycosis; trauma",
+      "lecture": "L179",
+      "id": "dt57"
+    },
+    {
+      "name": "Nail pitting",
+      "definition": "Small punctate depressions in the nail surface from abnormal keratinization",
+      "example": "Psoriasis; alopecia areata",
+      "lecture": "L179",
+      "id": "dt58"
+    },
+    {
+      "name": "Onychorrhexis",
+      "definition": "Distal longitudinal splitting of the nail (brittle nails)",
+      "example": "Iron deficiency; lichen planus; aging",
+      "lecture": "L179",
+      "id": "dt59"
+    },
+    {
+      "name": "Onychoschizia",
+      "definition": "Horizontal or lamellar splitting at the free end of the nail",
+      "example": "Frequent water exposure; trauma; nail polish remover",
+      "lecture": "L179",
+      "id": "dt60"
+    },
+    {
+      "name": "Trachyonychia",
+      "definition": "Rough, sandpaper-like surface texture of the nails",
+      "example": "Alopecia areata; lichen planus; psoriasis",
+      "lecture": "L179",
+      "id": "dt61"
+    }
   ]
 }

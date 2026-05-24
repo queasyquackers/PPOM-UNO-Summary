@@ -31,5 +31,4 @@ with open(out, 'w', encoding='utf-8') as fh:
     fh.write(html)
 
 print('wrote', out, '-', round(len(html) / 1024), 'KB')
-print('bugs', len(data['bugs']), 'drugs', len(data['drugs']),
-      'correlates', len(data['correlates']))
+print(' · '.join(f'{k} {len(v)}' for k, v in data.items()))
