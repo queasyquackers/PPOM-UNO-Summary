@@ -602,22 +602,23 @@ function buildRound(){
     if(usedVals.some(u=>u===v||u.includes(v)||v.includes(u))) continue;
     picked.push(it); usedVals.push(v);
   }
-  // top up if the distinct-value filter ran short (better a near-dup than too few)
-  for(const it of p){
-    if(picked.length>=cfg.size) break;
-    if(!picked.includes(it)) picked.push(it);
-  }
+  // If the distinct-value filter ran short, the round will simply be smaller —
+  // never top up with a near-duplicate, because equal field values would cause
+  // false-positive matches against the wrong anchor.
   // Build anchor (the item-name card) and target (the attribute card) for each pair.
-  // Direction decides which column anchors land in.
+  // Both carry expect AND matchVal (set to the field value) so the equality check
+  // works the same regardless of which side an anchor/target lands on.
   const anchors=picked.map(it=>({
     item:it, state:'idle',
     display: it.name,
     expect:  String(it[f]),
+    matchVal:String(it[f]),
     anchor:  true
   }));
   const targets=picked.map(it=>({
     item:it, state:'idle',
     display: String(it[f]),
+    expect:  String(it[f]),
     matchVal:String(it[f]),
     anchor:  false
   }));
