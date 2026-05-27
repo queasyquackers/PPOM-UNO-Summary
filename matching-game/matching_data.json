@@ -1995,6 +1995,14 @@
       "presentation": "30M HIV-positive presents with oral thrush, Pneumocystis pneumonia, and a CD4 count of 80"
     },
     {
+      "name": "Air Embolism",
+      "pathophysiology": "Air enters vasculature during central line placement, mechanical ventilation, chest wall injury, or surgery; >100 mL needed to obstruct pulmonary circulation",
+      "treatment": "Place patient in left lateral decubitus / Trendelenburg; 100% O2; hyperbaric chamber if available",
+      "lecture": "L162",
+      "presentation": "Patient develops sudden cardiovascular collapse, neurologic symptoms mimicking stroke, and apnea during central line placement or after a chest wall injury",
+      "id": "c182"
+    },
+    {
       "name": "Albinism",
       "pathophysiology": "Autosomal recessive tyrosinase defect; melanocytes present but cannot synthesize melanin",
       "treatment": "No cure; rigorous lifelong sun protection and dermatologic surveillance",
@@ -2019,6 +2027,14 @@
       "presentation": "40M returning from Mexico has RUQ pain, fever, and a single right-lobe liver lesion with 'anchovy paste' material"
     },
     {
+      "name": "Amniotic Fluid Embolism",
+      "pathophysiology": "Amniotic fluid and fetal elements enter maternal circulation via a placental tear; vasoactive substances cause intense pulmonary vasoconstriction and DIC",
+      "treatment": "Supportive ICU care; oxygenation, hemodynamic support, transfusions and DIC management",
+      "lecture": "L162",
+      "presentation": "Peripartum woman has sudden severe dyspnea, cyanosis, shock, neurologic impairment, and DIC; autopsy shows fetal squamous cells in pulmonary microvasculature",
+      "id": "c183"
+    },
+    {
       "name": "Anemia of chronic disease",
       "pathophysiology": "Chronic inflammation (IL-6) raises hepcidin, locking iron in macrophages",
       "treatment": "Treat the underlying inflammatory disease",
@@ -2035,6 +2051,22 @@
       "id": "c125"
     },
     {
+      "name": "Antiphospholipid Antibody Syndrome (APS)",
+      "pathophysiology": "Autoantibodies (lupus anticoagulant, anticardiolipin, anti-beta-2-glycoprotein I) activate endothelium, monocytes, and platelets, causing arterial and venous thrombosis",
+      "treatment": "Long-term anticoagulation (warfarin); LMWH plus aspirin during pregnancy",
+      "lecture": "L162",
+      "presentation": "Young woman with recurrent miscarriages, DVT/PE, and stroke; prolonged PTT that fails to correct on mixing study, false-positive RPR, and SLE features",
+      "id": "c184"
+    },
+    {
+      "name": "Antithrombin III Deficiency",
+      "pathophysiology": "Inherited (AD) or acquired deficiency of antithrombin III impairs inhibition of thrombin and factor Xa; characteristic insensitivity to heparin",
+      "treatment": "Direct thrombin or Xa inhibitors; warfarin long-term; antithrombin III concentrate; avoid relying on heparin",
+      "lecture": "L162",
+      "presentation": "Young adult with recurrent venous thromboses whose PTT fails to prolong appropriately with heparin administration",
+      "id": "c185"
+    },
+    {
       "name": "Aplastic anemia",
       "pathophysiology": "Marrow failure with fatty replacement causing pancytopenia",
       "treatment": "Immunosuppression or hematopoietic stem cell transplant",
@@ -2049,6 +2081,14 @@
       "lecture": "L163",
       "id": "c21",
       "presentation": "8-year-old with sickle cell disease and recent parvovirus B19 infection has severe anemia and reticulocytopenia"
+    },
+    {
+      "name": "Atheroembolism (Cholesterol Embolism)",
+      "pathophysiology": "Atheromatous plaque rupture (often after intra-arterial catheterization) releases cholesterol crystals that lodge in small downstream arteries",
+      "treatment": "Supportive care; statins; control cardiovascular risk factors; avoid further instrumentation",
+      "lecture": "L162",
+      "presentation": "Older patient after cardiac catheterization develops livedo reticularis, blue toes with palpable pulses, acute kidney injury, and eosinophilia; biopsy shows cholesterol clefts",
+      "id": "c186"
     },
     {
       "name": "Atopic Dermatitis",
@@ -2203,6 +2243,14 @@
       "id": "c132"
     },
     {
+      "name": "Chronic Immune Thrombocytopenic Purpura",
+      "pathophysiology": "Autoantibodies (usually against GpIIb/IIIa or GpIb-IX) opsonize platelets for splenic macrophage destruction; primary (idiopathic) or secondary to SLE/HIV/CLL",
+      "treatment": "Glucocorticoids; splenectomy for refractory cases (normalizes count in ~2/3); IVIG for acute flares",
+      "lecture": "L161",
+      "presentation": "Adult woman with insidious onset of mucocutaneous bleeding, petechiae, easy bruising, epistaxis, and menorrhagia; isolated thrombocytopenia with otherwise normal blood counts and PT/PTT",
+      "id": "c177"
+    },
+    {
       "name": "Chronic lymphocytic leukemia (CLL)",
       "pathophysiology": "Accumulation of fragile mature B cells; smudge cells and hypogammaglobulinemia",
       "treatment": "BTK inhibitors (ibrutinib); watch-and-wait if asymptomatic",
@@ -2265,6 +2313,22 @@
       "lecture": "L186",
       "presentation": "Obese diabetic with a beefy-red intertriginous eruption with satellite pustules beyond the border and maceration of skin folds; KOH shows budding yeast and pseudohyphae",
       "id": "c136"
+    },
+    {
+      "name": "Decompression Sickness",
+      "pathophysiology": "Rapid ascent causes dissolved nitrogen to form gas bubbles in tissues, joints, and vasculature; chronic form (Caisson disease) causes avascular necrosis",
+      "treatment": "Immediate 100% O2 and hyperbaric recompression therapy",
+      "lecture": "L162",
+      "presentation": "SCUBA diver after rapid ascent has joint pain (the bends), respiratory distress (the chokes), neurologic symptoms, and skin mottling",
+      "id": "c187"
+    },
+    {
+      "name": "Deep Vein Thrombosis (DVT)",
+      "pathophysiology": "Virchow triad (stasis, endothelial injury, hypercoagulability) drives thrombus in deep leg veins; ~90% in lower extremities",
+      "treatment": "Anticoagulation (LMWH bridge to warfarin or DOAC); IVC filter if anticoagulation contraindicated",
+      "lecture": "L162",
+      "presentation": "Post-op or immobilized patient develops unilateral calf swelling, pain, warmth, and a positive Homans sign; compression ultrasound is diagnostic",
+      "id": "c188"
     },
     {
       "name": "Dengue Hemorrhagic Fever",
@@ -2331,6 +2395,14 @@
       "id": "c139"
     },
     {
+      "name": "Disorders of Fibrinolysis (Plasmin Overactivity)",
+      "pathophysiology": "Plasmin overactivity (urokinase release after radical prostatectomy, or reduced alpha-2-antiplasmin in cirrhosis) excessively cleaves fibrinogen and inactivates clotting factors",
+      "treatment": "Aminocaproic acid (blocks plasminogen activation)",
+      "lecture": "L161",
+      "presentation": "Cirrhotic or post-radical-prostatectomy patient with bleeding, prolonged PT/PTT and bleeding time, normal platelet count, elevated fibrin split products but no D-dimer (no fibrin thrombi)",
+      "id": "c178"
+    },
+    {
       "name": "Disseminated intravascular coagulation (DIC)",
       "pathophysiology": "Widespread activation of coagulation consumes clotting factors and platelets",
       "treatment": "Treat underlying cause; FFP, cryoprecipitate, and platelet support",
@@ -2385,6 +2457,14 @@
       "lecture": "L186",
       "presentation": "50M with brown, well-demarcated patches in the groin and axillae; Wood lamp shows coral-red fluorescence from porphyrins",
       "id": "c141"
+    },
+    {
+      "name": "Ewing Sarcoma",
+      "pathophysiology": "Primitive neuroectodermal tumor with t(11;22) EWSR1-FLI1 fusion; small round blue cells in long-bone diaphysis",
+      "treatment": "Neoadjuvant chemotherapy, surgical resection, and radiation",
+      "lecture": "L163",
+      "presentation": "Caucasian adolescent with progressively worsening diaphyseal long-bone pain (worse at night), fever, leukocytosis, and an onion-skin periosteal reaction on x-ray",
+      "id": "c193"
     },
     {
       "name": "Extramedullary hematopoiesis",
@@ -2515,6 +2595,22 @@
       "presentation": "Male infant with prolonged bleeding after circumcision and hemarthroses; prolonged PTT, normal PT and platelets"
     },
     {
+      "name": "Hemorrhagic Disease of the Newborn",
+      "pathophysiology": "Newborn vitamin K stores are low (poor placental transfer, sterile gut, immature liver) so vitamin K-dependent factors II/VII/IX/X are inadequate",
+      "treatment": "Prophylactic vitamin K IM at birth; vitamin K replacement and FFP for active bleeding",
+      "lecture": "L163",
+      "presentation": "Home-birth newborn who did not receive vitamin K presents at 1-12 weeks with bleeding from the umbilicus, GI tract, or an intracranial hemorrhage; prolonged PT with normal PTT and platelets",
+      "id": "c194"
+    },
+    {
+      "name": "Henoch-Schonlein Purpura (IgA Vasculitis)",
+      "pathophysiology": "IgA immune complex deposition in small vessel walls causing leukocytoclastic vasculitis after viral URI or strep infection",
+      "treatment": "Supportive care; corticosteroids for severe abdominal or renal disease",
+      "lecture": "L161",
+      "presentation": "Child after a URI with palpable purpura on the buttocks and lower extremities, colicky abdominal pain, polyarthralgia, and hematuria from IgA nephropathy",
+      "id": "c179"
+    },
+    {
       "name": "Heparin-Induced Thrombocytopenia (HIT)",
       "pathophysiology": "IgG against heparin-PF4 complexes activates platelets causing thrombosis and low counts",
       "treatment": "Stop heparin; start a direct thrombin inhibitor (argatroban)",
@@ -2569,6 +2665,22 @@
       "lecture": "L155",
       "id": "c65",
       "presentation": "20M with painless cervical lymphadenopathy, B symptoms, and Reed-Sternberg cells (CD15+/CD30+) on biopsy"
+    },
+    {
+      "name": "Hyperhomocysteinemia",
+      "pathophysiology": "Deficiency of cystathione beta-synthase or of B6/B12/folate elevates homocysteine, damaging endothelium and promoting arterial and venous thrombosis",
+      "treatment": "B6, B12, and folate supplementation; treat underlying cause",
+      "lecture": "L162",
+      "presentation": "Young adult with premature atherosclerosis, recurrent thromboses, marfanoid habitus, lens dislocation, and elevated serum homocysteine",
+      "id": "c189"
+    },
+    {
+      "name": "Hyperleukocytosis",
+      "pathophysiology": "WBC >100,000/uL in acute leukemia causes leukocyte aggregates (white thrombi) that occlude pulmonary and CNS microvasculature",
+      "treatment": "Aggressive hydration, leukapheresis, urgent induction chemotherapy; manage tumor lysis prophylactically",
+      "lecture": "L163",
+      "presentation": "Newly diagnosed leukemia patient with WBC >100,000 develops dyspnea, hypoxia, headache, mental status changes, and visual disturbances from leukostasis",
+      "id": "c195"
     },
     {
       "name": "Immune Reconstitution Inflammatory Syndrome (IRIS)",
@@ -2747,6 +2859,14 @@
       "presentation": "Diabetic with rapidly spreading erythema, pain out of proportion to exam, crepitus, and systemic toxicity"
     },
     {
+      "name": "Neuroblastoma",
+      "pathophysiology": "Malignant tumor of primordial neural crest cells of the sympathetic chain or adrenal medulla; N-myc amplification confers poor prognosis",
+      "treatment": "Risk-stratified surgery, chemotherapy, radiation, and immunotherapy (anti-GD2); observation for low-risk infants",
+      "lecture": "L163",
+      "presentation": "Child under 5 with an abdominal mass crossing the midline, opsoclonus-myoclonus (dancing eyes, dancing feet), secretory diarrhea (VIP), elevated urine HVA/VMA, and Homer-Wright rosettes on biopsy",
+      "id": "c196"
+    },
+    {
       "name": "Nevirapine Hepatotoxicity",
       "pathophysiology": "Hypersensitivity-mediated hepatocellular injury, worse with higher CD4 counts",
       "treatment": "Stop nevirapine immediately and permanently; supportive care",
@@ -2777,6 +2897,22 @@
       "lecture": "L186",
       "presentation": "55M with thickened, yellow, crumbly toenails with subungual debris; KOH shows septate branching hyphae",
       "id": "c158"
+    },
+    {
+      "name": "Osteosarcoma",
+      "pathophysiology": "Malignant osteoblastic tumor associated with Rb and TP53 (Li-Fraumeni) mutations; metaphysis of long bones at the knee",
+      "treatment": "Neoadjuvant chemotherapy and limb-salvage surgical resection",
+      "lecture": "L163",
+      "presentation": "Adolescent in a growth spurt with persistent worsening knee pain and swelling; x-ray of the distal femur shows a sunburst pattern with Codman triangle",
+      "id": "c197"
+    },
+    {
+      "name": "Paradoxical Embolism",
+      "pathophysiology": "Venous thrombus crosses to the arterial circulation through a patent foramen ovale or septal defect",
+      "treatment": "Anticoagulation; closure of the intracardiac shunt",
+      "lecture": "L162",
+      "presentation": "Young patient with a DVT presents with an unexplained ischemic stroke; bubble-study echocardiogram demonstrates a right-to-left shunt",
+      "id": "c190"
     },
     {
       "name": "Paroxysmal nocturnal hemoglobinuria (PNH)",
@@ -2811,6 +2947,14 @@
       "id": "c160"
     },
     {
+      "name": "Physiologic Anemia of Infancy (Physiologic Nadir)",
+      "pathophysiology": "Postnatal rise in tissue oxygenation downregulates EPO, suppressing erythropoiesis until levels self-correct around 6-8 weeks",
+      "treatment": "No treatment needed; reassurance and follow-up",
+      "lecture": "L163",
+      "presentation": "Healthy 2-month-old infant has a hemoglobin of 10-11 g/dL on routine labs with normal WBC and platelet counts and no red flags",
+      "id": "c198"
+    },
+    {
       "name": "Pityriasis Rosea",
       "pathophysiology": "Self-limited eruption, likely HHV-6/7, with a herald patch then Christmas-tree truncal rash",
       "treatment": "Supportive; self-resolves over 6-8 weeks",
@@ -2841,6 +2985,22 @@
       "lecture": "L185",
       "id": "c87",
       "presentation": "HIV patient on protease inhibitors has central fat accumulation, facial wasting, dyslipidemia, and insulin resistance"
+    },
+    {
+      "name": "Protein C or S Deficiency",
+      "pathophysiology": "Deficient vitamin K-dependent anticoagulants cannot inactivate factors Va and VIIIa; warfarin transiently worsens this by dropping protein C first (skin necrosis)",
+      "treatment": "Heparin bridge when starting warfarin; long-term anticoagulation; protein C concentrate in severe deficiency",
+      "lecture": "L162",
+      "presentation": "Young adult with recurrent DVTs starting in adolescence; develops painful skin necrosis on the trunk shortly after warfarin is initiated",
+      "id": "c191"
+    },
+    {
+      "name": "Prothrombin Gene Mutation (G20210A)",
+      "pathophysiology": "G20210A single-nucleotide variant in the 3' UTR raises prothrombin levels and 3-fold increases venous thrombosis risk",
+      "treatment": "Anticoagulation for thrombotic events; lifestyle and OCP avoidance; long-term anticoagulation if recurrent",
+      "lecture": "L162",
+      "presentation": "Young adult with unprovoked DVT or PE and a family history of clots; genetic testing reveals the G20210A prothrombin variant",
+      "id": "c192"
     },
     {
       "name": "Psoriasis",
@@ -2889,6 +3049,14 @@
       "lecture": "L187",
       "presentation": "50M with recurrent tender erythematous swollen auricles that spare the lobule, saddle-nose deformity, and arthritis; may have aortic insufficiency",
       "id": "c164"
+    },
+    {
+      "name": "Retinoblastoma",
+      "pathophysiology": "Biallelic inactivation of the RB1 tumor suppressor (two-hit hypothesis); hereditary form is bilateral and increases osteosarcoma risk",
+      "treatment": "Enucleation if vision cannot be saved; chemoreduction with focal laser or cryotherapy for salvageable eyes",
+      "lecture": "L163",
+      "presentation": "Toddler with leukocoria (white pupillary reflex), strabismus, and decreased vision; small round blue cells with Flexner-Wintersteiner rosettes on biopsy",
+      "id": "c199"
     },
     {
       "name": "Rhabdomyolysis",
@@ -3139,6 +3307,14 @@
       "presentation": "Patient develops acute bilateral pulmonary infiltrates and hypoxia within 6 hours of transfusion; donor anti-HLA antibodies implicated"
     },
     {
+      "name": "Transient Erythroblastopenia of Childhood (TEC)",
+      "pathophysiology": "Transient autoimmune suppression of erythroid precursors, typically 2-3 months after a viral illness; reticulocytopenia with normocytic anemia",
+      "treatment": "Supportive care; spontaneous recovery in 1-2 months; transfusion only if symptomatic",
+      "lecture": "L163",
+      "presentation": "Previously healthy 1-3 year old with slowly developing pallor, normocytic anemia (Hb 6-8), low reticulocytes, but normal WBC and platelets with no organomegaly or bone pain",
+      "id": "c200"
+    },
+    {
       "name": "Trench Foot (Immersion Foot)",
       "pathophysiology": "Prolonged wet, non-freezing exposure causes neurovascular injury without freezing",
       "treatment": "Elevation; dry, loose dressing; late debridement",
@@ -3171,12 +3347,28 @@
       "presentation": "Patient 12-72 hours after starting chemotherapy for high-grade lymphoma has hyperkalemia, hyperphosphatemia, hyperuricemia, hypocalcemia, and AKI"
     },
     {
+      "name": "Uremic Platelet Dysfunction",
+      "pathophysiology": "Retained nitrogenous waste products impair platelet aggregation, adhesion, and platelet-endothelium interaction",
+      "treatment": "Dialysis; desmopressin (DDAVP) for acute bleeding; cryoprecipitate; conjugated estrogens",
+      "lecture": "L161",
+      "presentation": "Patient with chronic kidney disease has mucocutaneous bleeding and prolonged bleeding time despite a normal platelet count and normal PT/PTT",
+      "id": "c180"
+    },
+    {
       "name": "Urticaria",
       "pathophysiology": "Type I IgE-mediated mast cell degranulation causing histamine-driven dermal edema",
       "treatment": "Antihistamines; identify and avoid trigger",
       "lecture": "L181",
       "id": "c115",
       "presentation": "20F has transient pruritic raised wheals lasting <24 hours after eating shellfish; IgE-mediated"
+    },
+    {
+      "name": "Vitamin K Deficiency Bleeding",
+      "pathophysiology": "Lack of vitamin K-dependent gamma-carboxylation of factors II, VII, IX, X and proteins C and S impairs both intrinsic and extrinsic clotting",
+      "treatment": "Vitamin K replacement (oral or parenteral); FFP for acute bleeding",
+      "lecture": "L161",
+      "presentation": "Adult on prolonged antibiotics or with malabsorption (cystic fibrosis, pancreatic insufficiency) develops prolonged PT and PTT with normal platelet count and bleeding time",
+      "id": "c181"
     },
     {
       "name": "Vitiligo",
@@ -3209,6 +3401,14 @@
       "lecture": "L161",
       "id": "c120",
       "presentation": "Child with meningococcal sepsis develops adrenal hemorrhage, refractory shock, and DIC"
+    },
+    {
+      "name": "Wilms Tumor (Nephroblastoma)",
+      "pathophysiology": "Childhood embryonal renal malignancy with blastemal, stromal, and epithelial elements; associated with WT1/WT2 mutations (WAGR, Denys-Drash, Beckwith-Wiedemann)",
+      "treatment": "Nephrectomy plus chemotherapy; radiation for higher stages; >90% cure rate",
+      "lecture": "L163",
+      "presentation": "Child age 2-5 with an asymptomatic unilateral abdominal mass that does not cross the midline, hypertension, and painless hematuria",
+      "id": "c201"
     }
   ],
   "dermterms": [
