@@ -3409,6 +3409,518 @@
       "lecture": "L163",
       "presentation": "Child age 2-5 with an asymptomatic unilateral abdominal mass that does not cross the midline, hypertension, and painless hematuria",
       "id": "c201"
+    },
+    {
+      "name": "Factor VII Deficiency",
+      "pathophysiology": "Deficiency of factor VII, the only factor unique to the extrinsic pathway, impairs initiation of coagulation",
+      "presentation": "Patient presents with bleeding and an isolated prolonged PT/INR while the aPTT remains normal",
+      "treatment": "Recombinant factor VIIa or fresh frozen plasma",
+      "lecture": "L158",
+      "id": "c202"
+    },
+    {
+      "name": "Factor XI Deficiency (Hemophilia C)",
+      "pathophysiology": "Deficiency of intrinsic-pathway factor XI impairs amplification of thrombin generation; common in Ashkenazi Jews",
+      "presentation": "Patient presents with post-surgical or post-traumatic bleeding and an isolated prolonged aPTT with a normal PT",
+      "treatment": "Fresh frozen plasma or factor XI concentrate",
+      "lecture": "L158",
+      "id": "c203"
+    },
+    {
+      "name": "IV Iron Infusion Reaction",
+      "pathophysiology": "Parenteral iron, especially high-molecular-weight iron dextran, can trigger an anaphylactoid hypersensitivity reaction",
+      "presentation": "Patient presents with flushing, dizziness, hypotension, and dyspnea during an IV iron dextran infusion",
+      "treatment": "Stop infusion and treat anaphylaxis; give a test dose with iron dextran",
+      "lecture": "L153",
+      "id": "c204"
+    },
+    {
+      "name": "Folate Masking of Vitamin B12 Deficiency",
+      "pathophysiology": "Folic acid corrects the megaloblastic anemia of B12 deficiency but does not halt impaired myelin synthesis, allowing neurologic damage to progress",
+      "presentation": "Patient presents with resolving anemia after folate supplementation but progressive paresthesias, ataxia, and neuropsychiatric changes",
+      "treatment": "Confirm normal B12 before folate monotherapy; replace B12",
+      "lecture": "L153",
+      "id": "c205"
+    },
+    {
+      "name": "Erythropoiesis-Stimulating Agent Thrombotic Toxicity",
+      "pathophysiology": "ESAs raise hemoglobin and blood viscosity; overshooting target hemoglobin increases thrombotic and cardiovascular risk",
+      "presentation": "Patient presents with new hypertension and a thrombotic event (MI, stroke, VTE, or thrombosed access) after escalating ESA therapy",
+      "treatment": "Use lowest effective ESA dose targeting Hb 10-11 g/dL; monitor BP",
+      "lecture": "L153",
+      "id": "c206"
+    },
+    {
+      "name": "ESA-Induced Pure Red Cell Aplasia",
+      "pathophysiology": "Neutralizing anti-erythropoietin antibodies against the ESA cross-react with endogenous EPO, abolishing erythropoiesis",
+      "presentation": "Patient presents with sudden transfusion-dependent anemia and a collapsed reticulocyte count after months of subcutaneous epoetin alfa for CKD",
+      "treatment": "Discontinue all ESAs (contraindicated); supportive transfusion",
+      "lecture": "L153",
+      "id": "c207"
+    },
+    {
+      "name": "Hydroxyurea Myelosuppression",
+      "pathophysiology": "Hydroxyurea inhibits ribonucleotide reductase and suppresses the marrow, making myelosuppression the dose-limiting toxicity",
+      "presentation": "Patient with sickle cell disease on hydroxyurea presents with neutropenia (and possible thrombocytopenia) on routine CBC during dose titration",
+      "treatment": "Hold or dose-reduce hydroxyurea; monitor CBC with differential",
+      "lecture": "L153",
+      "id": "c208"
+    },
+    {
+      "name": "Hairy Cell Leukemia",
+      "pathophysiology": "Indolent neoplasm of mature B cells with cytoplasmic 'hairy' projections, classically TRAP-positive",
+      "presentation": "Patient presents as an older man with massive splenomegaly and a 'dry tap' on bone marrow aspiration due to marrow fibrosis",
+      "treatment": "Cladribine (purine analog); excellent prognosis",
+      "lecture": "L154",
+      "id": "c209"
+    },
+    {
+      "name": "Polycythemia Vera",
+      "pathophysiology": "JAK2-driven myeloproliferative neoplasm with clonal proliferation of myeloid cells and markedly increased red cell mass",
+      "presentation": "Patient presents with pruritus after a warm shower, plethora, headache, and an elevated red cell mass with basophilia",
+      "treatment": "Therapeutic phlebotomy (plus hydroxyurea/aspirin)",
+      "lecture": "L154",
+      "id": "c210"
+    },
+    {
+      "name": "Essential Thrombocythemia",
+      "pathophysiology": "Myeloproliferative neoplasm marked by clonal proliferation with markedly increased platelets",
+      "presentation": "Patient presents with a markedly elevated platelet count found on routine labs, with thrombosis or paradoxical bleeding",
+      "treatment": "Hydroxyurea; aspirin",
+      "lecture": "L154",
+      "id": "c211"
+    },
+    {
+      "name": "Primary Myelofibrosis",
+      "pathophysiology": "Myeloproliferative neoplasm in which the bone marrow is progressively replaced by fibrosis",
+      "presentation": "Patient presents with massive splenomegaly, a leukoerythroblastic smear with teardrop cells, and a dry tap on aspiration",
+      "treatment": "JAK inhibitor (ruxolitinib); supportive care",
+      "lecture": "L154",
+      "id": "c212"
+    },
+    {
+      "name": "Acute Megakaryoblastic Leukemia",
+      "pathophysiology": "Rare AML subtype of megakaryoblast lineage strongly associated with Down syndrome in children under age 5",
+      "presentation": "Patient presents as a child under 5 with Down syndrome with fatigue, bruising, and marrow blasts",
+      "treatment": "AML-directed chemotherapy",
+      "lecture": "L154",
+      "id": "c213"
+    },
+    {
+      "name": "Marginal Zone / MALT Lymphoma",
+      "pathophysiology": "Indolent B-cell lymphoma arising in chronically inflamed mucosa, classically triggered by H. pylori, Sjogren, or Hashimoto",
+      "presentation": "Patient presents with epigastric pain and a low-grade gastric B-cell lymphoma with H. pylori on biopsy",
+      "treatment": "H. pylori eradication (antibiotics plus PPI)",
+      "lecture": "L155",
+      "id": "c214"
+    },
+    {
+      "name": "Adult T-cell Leukemia/Lymphoma (ATLL)",
+      "pathophysiology": "Aggressive mature T-cell malignancy caused by the HTLV-1 retrovirus (endemic to Japan and the Caribbean)",
+      "presentation": "Patient presents with skin lesions, lymphadenopathy, hypercalcemia with lytic bone lesions, and 'flower cells' on smear",
+      "treatment": "Multiagent chemotherapy (poor prognosis)",
+      "lecture": "L155",
+      "id": "c215"
+    },
+    {
+      "name": "Mycosis Fungoides",
+      "pathophysiology": "Indolent skin-homing CD4+ T-cell lymphoma with epidermal Pautrier microabscesses",
+      "presentation": "Patient presents with progressive skin patches, plaques, and tumors, with CD4+ T cells bearing cerebriform nuclei",
+      "treatment": "Skin-directed therapy (topical steroids, phototherapy)",
+      "lecture": "L155",
+      "id": "c216"
+    },
+    {
+      "name": "Sezary Syndrome",
+      "pathophysiology": "Leukemic, blood-involving phase of mycosis fungoides (CD4+ T-cell lymphoma)",
+      "presentation": "Patient presents with diffuse erythroderma and circulating Sezary cells with cerebriform nuclei",
+      "treatment": "Systemic therapy (e.g., extracorporeal photopheresis)",
+      "lecture": "L155",
+      "id": "c217"
+    },
+    {
+      "name": "Anaplastic Large Cell Lymphoma",
+      "pathophysiology": "Aggressive CD30-positive T-cell lymphoma, frequently ALK-positive in younger patients",
+      "presentation": "Patient presents as a younger patient with lymphadenopathy and CD30+/ALK+ large anaplastic cells on biopsy",
+      "treatment": "Brentuximab vedotin-based chemotherapy",
+      "lecture": "L155",
+      "id": "c218"
+    },
+    {
+      "name": "Primary CNS Lymphoma",
+      "pathophysiology": "Almost always a B-cell DLBCL of the CNS, strongly associated with HIV and EBV",
+      "presentation": "Patient presents as an immunocompromised patient with a single ring-enhancing lesion crossing the corpus callosum",
+      "treatment": "High-dose methotrexate",
+      "lecture": "L155",
+      "id": "c219"
+    },
+    {
+      "name": "Nodular Lymphocyte-Predominant Hodgkin Lymphoma",
+      "pathophysiology": "Non-classical Hodgkin lymphoma whose 'popcorn' (L&H) cell is CD20+/CD45+ but CD15-/CD30- (inverse of classical HL)",
+      "presentation": "Patient presents with isolated indolent lymphadenopathy and popcorn cells on biopsy, with an excellent prognosis",
+      "treatment": "Rituximab-based therapy or radiation",
+      "lecture": "L155",
+      "id": "c220"
+    },
+    {
+      "name": "Monoclonal Gammopathy of Undetermined Significance (MGUS)",
+      "pathophysiology": "Premalignant plasma cell dyscrasia with M-protein <3 g/dL, <10% marrow plasma cells, and no end-organ damage",
+      "presentation": "Patient presents with an incidental serum M-spike on electrophoresis without CRAB features",
+      "treatment": "Surveillance (progresses to myeloma ~1% per year)",
+      "lecture": "L155",
+      "id": "c221"
+    },
+    {
+      "name": "Smoldering Multiple Myeloma",
+      "pathophysiology": "Intermediate plasma cell dyscrasia with M-protein >=3 g/dL or 10-60% marrow plasma cells but no end-organ damage",
+      "presentation": "Patient presents with a high M-spike and increased marrow plasma cells but no CRAB findings",
+      "treatment": "Close observation",
+      "lecture": "L155",
+      "id": "c222"
+    },
+    {
+      "name": "Waldenstrom Macroglobulinemia",
+      "pathophysiology": "Lymphoplasmacytic lymphoma producing monoclonal IgM (usually MYD88 L265P mutated) without lytic bone lesions",
+      "presentation": "Patient presents with hyperviscosity (visual changes, mucosal bleeding, neurologic symptoms) and peripheral neuropathy with a high IgM",
+      "treatment": "Plasmapheresis for hyperviscosity, then a BTK inhibitor (ibrutinib)",
+      "lecture": "L155",
+      "id": "c223"
+    },
+    {
+      "name": "Plasma Cell Leukemia",
+      "pathophysiology": "Aggressive plasma cell neoplasm with high M-protein and circulating plasma cells exceeding 2 x 10^9/L",
+      "presentation": "Patient presents with widely disseminated disease and circulating malignant plasma cells on peripheral smear",
+      "treatment": "Aggressive multiagent chemotherapy",
+      "lecture": "L155",
+      "id": "c224"
+    },
+    {
+      "name": "AL Amyloidosis",
+      "pathophysiology": "Misfolded monoclonal light chains form beta-pleated sheets depositing in tissues, staining Congo red with apple-green birefringence",
+      "presentation": "Patient presents with macroglossia, periorbital 'raccoon eyes' purpura, restrictive cardiomyopathy with low-voltage ECG, and nephrotic-range proteinuria",
+      "treatment": "Plasma cell-directed therapy (e.g., bortezomib-based)",
+      "lecture": "L155",
+      "id": "c225"
+    },
+    {
+      "name": "Doxorubicin (Anthracycline) Cardiotoxicity",
+      "pathophysiology": "Anthracyclines generate iron-dependent oxygen free radicals causing cumulative, dose-related irreversible cardiac myocyte injury",
+      "presentation": "Patient presents with progressive dyspnea, fatigue, and edema after cumulative doxorubicin, with echo showing reduced LVEF and dilated cardiomyopathy",
+      "treatment": "Limit cumulative dose and monitor LVEF; dexrazoxane cardioprotection",
+      "lecture": "L156",
+      "id": "c226"
+    },
+    {
+      "name": "Cyclophosphamide/Ifosfamide Hemorrhagic Cystitis",
+      "pathophysiology": "The urotoxic metabolite acrolein is excreted in urine and is directly toxic to bladder epithelium",
+      "presentation": "Patient presents with gross hematuria, dysuria, and suprapubic pain during or after cyclophosphamide or ifosfamide therapy",
+      "treatment": "Vigorous hydration plus mesna, which inactivates acrolein in the urine",
+      "lecture": "L156",
+      "id": "c227"
+    },
+    {
+      "name": "Cisplatin Nephrotoxicity",
+      "pathophysiology": "Cisplatin accumulates in and directly damages renal proximal tubular epithelial cells; the dose-limiting toxicity",
+      "presentation": "Patient presents with rising serum creatinine and electrolyte wasting (Mg, K) after cisplatin chemotherapy",
+      "treatment": "Vigorous saline diuresis; amifostine; consider carboplatin",
+      "lecture": "L156",
+      "id": "c228"
+    },
+    {
+      "name": "Cisplatin Ototoxicity and Neuropathy",
+      "pathophysiology": "Cisplatin causes cumulative damage to cochlear hair cells and dorsal root ganglion sensory neurons",
+      "presentation": "Patient presents with high-frequency hearing loss, tinnitus, and a stocking-glove sensory neuropathy following cisplatin therapy",
+      "treatment": "Audiometric and neurologic monitoring with dose reduction",
+      "lecture": "L156",
+      "id": "c229"
+    },
+    {
+      "name": "Oxaliplatin Cold-Induced Neuropathy",
+      "pathophysiology": "Oxaliplatin produces an acute, cold-triggered sensory neuropathy plus a delayed cumulative dorsal root ganglion neuropathy",
+      "presentation": "Patient presents with paresthesias of the hands, feet, and perioral region triggered by cold exposure shortly after a FOLFOX infusion",
+      "treatment": "Avoid cold exposure; dose reduction for progressive neuropathy",
+      "lecture": "L156",
+      "id": "c230"
+    },
+    {
+      "name": "Busulfan Pulmonary Fibrosis",
+      "pathophysiology": "The alkylating agent busulfan causes chronic pulmonary epithelial injury leading to interstitial fibrosis ('busulfan lung')",
+      "presentation": "Patient presents with progressive dyspnea and nonproductive cough with diffuse interstitial infiltrates months after busulfan therapy",
+      "treatment": "Discontinue the agent; supportive care and glucocorticoids",
+      "lecture": "L156",
+      "id": "c231"
+    },
+    {
+      "name": "Methotrexate Toxicity (Mucositis/Myelosuppression)",
+      "pathophysiology": "Methotrexate inhibits dihydrofolate reductase, depleting reduced folate needed for DNA synthesis in marrow and GI mucosa",
+      "presentation": "Patient presents with painful oral mucositis, stomatitis, and pancytopenia following high-dose methotrexate",
+      "treatment": "Leucovorin (folinic acid) rescue",
+      "lecture": "L156",
+      "id": "c232"
+    },
+    {
+      "name": "Fluorouracil/Capecitabine Hand-Foot Syndrome",
+      "pathophysiology": "Fluoropyrimidine toxicity to palmar and plantar epithelium causes palmar-plantar erythrodysesthesia, especially with capecitabine",
+      "presentation": "Patient presents with painful erythema, swelling, and desquamation of the palms and soles during capecitabine or 5-FU therapy",
+      "treatment": "Dose reduction or interruption; supportive skin care",
+      "lecture": "L156",
+      "id": "c233"
+    },
+    {
+      "name": "Fluorouracil Coronary Vasospasm",
+      "pathophysiology": "5-FU can induce coronary artery vasospasm leading to myocardial ischemia",
+      "presentation": "Patient presents with anginal chest pain (and possible arrhythmia) during a 5-FU infusion",
+      "treatment": "Discontinue 5-FU; nitrates or calcium channel blockers",
+      "lecture": "L156",
+      "id": "c234"
+    },
+    {
+      "name": "Cytarabine Cerebellar Neurotoxicity",
+      "pathophysiology": "High-dose cytarabine distributes to the CNS and is toxic to cerebellar neurons",
+      "presentation": "Patient presents with ataxia, dysarthria, and nystagmus after high-dose cytarabine therapy",
+      "treatment": "Discontinue or reduce dose; supportive care",
+      "lecture": "L156",
+      "id": "c235"
+    },
+    {
+      "name": "Vincristine Peripheral Neuropathy",
+      "pathophysiology": "Vincristine disrupts axonal microtubules in peripheral and autonomic nerves; the dose-limiting toxicity",
+      "presentation": "Patient presents with pins-and-needles paresthesias, motor weakness, and severe constipation following a vincristine-containing regimen",
+      "treatment": "Dose reduction; bowel regimen; never give intrathecally",
+      "lecture": "L156",
+      "id": "c236"
+    },
+    {
+      "name": "Irinotecan-Induced Diarrhea",
+      "pathophysiology": "Irinotecan causes acute cholinergic diarrhea and delayed severe diarrhea, worsened by deficient UGT1A1 metabolism of active SN-38",
+      "presentation": "Patient presents with severe watery diarrhea and dehydration after irinotecan, either acute (cholinergic) or delayed",
+      "treatment": "Atropine for acute diarrhea; loperamide for delayed diarrhea",
+      "lecture": "L156",
+      "id": "c237"
+    },
+    {
+      "name": "Bleomycin Pulmonary Fibrosis",
+      "pathophysiology": "A bleomycin-DNA-iron complex generates free radicals that damage lung tissue, producing interstitial fibrosis",
+      "presentation": "Patient presents with progressive dyspnea, dry cough, and bibasilar crackles after BEP therapy for testicular cancer",
+      "treatment": "Discontinue bleomycin; monitor pulmonary function; glucocorticoids",
+      "lecture": "L156",
+      "id": "c238"
+    },
+    {
+      "name": "Trastuzumab Cardiotoxicity",
+      "pathophysiology": "HER2 blockade in cardiomyocytes impairs myocardial function; risk is highest when combined with anthracyclines",
+      "presentation": "Patient presents with declining LVEF and signs of heart failure during HER2-targeted therapy, often after prior doxorubicin",
+      "treatment": "Monitor LVEF; hold the drug and manage heart failure; avoid concurrent anthracycline",
+      "lecture": "L157",
+      "id": "c239"
+    },
+    {
+      "name": "Warfarin Supratherapeutic INR Bleeding",
+      "pathophysiology": "Excess VKORC1 inhibition depletes vitamin K-dependent factors II, VII, IX, X, raising bleeding risk sharply once INR exceeds 4",
+      "presentation": "Patient presents with an INR of 11 and active bleeding while on chronic warfarin therapy",
+      "treatment": "Hold warfarin; oral vitamin K; IV vitamin K plus 4-factor PCC (or FFP) for serious bleeding",
+      "lecture": "L164",
+      "id": "c240"
+    },
+    {
+      "name": "Fetal Warfarin Syndrome",
+      "pathophysiology": "Warfarin crosses the placenta and disrupts vitamin K-dependent gamma-carboxylation during fetal development",
+      "presentation": "Patient presents as a newborn whose mother took warfarin in the first trimester, with nasal hypoplasia and stippled epiphyses",
+      "treatment": "Prevent by avoiding warfarin in pregnancy; substitute LMWH or heparin",
+      "lecture": "L164",
+      "id": "c241"
+    },
+    {
+      "name": "Warfarin Purple Toe Syndrome",
+      "pathophysiology": "Early warfarin therapy may release atheromatous cholesterol microemboli into the distal circulation",
+      "presentation": "Patient presents with painful purple/blue discoloration of the toes weeks after starting warfarin",
+      "treatment": "Discontinue warfarin; supportive care",
+      "lecture": "L164",
+      "id": "c242"
+    },
+    {
+      "name": "Heparin Overdose Bleeding",
+      "pathophysiology": "Excess unfractionated heparin overaccelerates antithrombin-mediated inactivation of thrombin and factor Xa",
+      "presentation": "Patient presents with bleeding and a markedly prolonged aPTT during a heparin infusion",
+      "treatment": "Protamine sulfate (ionically binds and neutralizes UFH)",
+      "lecture": "L164",
+      "id": "c243"
+    },
+    {
+      "name": "Heparin Resistance",
+      "pathophysiology": "Antithrombin deficiency or elevated heparin-binding acute-phase proteins (factor VIII, fibrinogen) blunt heparin's effect",
+      "presentation": "Patient presents with failure to reach a therapeutic aPTT despite very high doses of heparin",
+      "treatment": "Antithrombin repletion or switch to a non-heparin anticoagulant",
+      "lecture": "L164",
+      "id": "c244"
+    },
+    {
+      "name": "Spinal/Epidural Hematoma from Anticoagulation",
+      "pathophysiology": "Anticoagulant or antiplatelet therapy at the time of neuraxial anesthesia allows a hematoma to compress the cord or cauda equina",
+      "presentation": "Patient presents with back pain, leg weakness, and bowel/bladder dysfunction after spinal anesthesia while anticoagulated",
+      "treatment": "Emergent surgical decompression; avoid neuraxial techniques in anticoagulated patients",
+      "lecture": "L164",
+      "id": "c245"
+    },
+    {
+      "name": "Heparin-Induced Osteoporosis",
+      "pathophysiology": "Long-term unfractionated heparin use reduces bone density",
+      "presentation": "Patient presents with fragility fractures after prolonged long-term heparin therapy",
+      "treatment": "Discontinue or limit long-term heparin; bone-protective measures",
+      "lecture": "L164",
+      "id": "c246"
+    },
+    {
+      "name": "Factor Xa Inhibitor Bleeding",
+      "pathophysiology": "DOAC factor Xa inhibitors (rivaroxaban, apixaban) directly block free and clot-bound factor Xa",
+      "presentation": "Patient presents with severe gastrointestinal bleeding while taking rivaroxaban or apixaban",
+      "treatment": "4-factor PCC; andexanet alfa (recombinant decoy factor Xa)",
+      "lecture": "L164",
+      "id": "c247"
+    },
+    {
+      "name": "Dabigatran Bleeding",
+      "pathophysiology": "Dabigatran directly inhibits free and clot-bound thrombin; overanticoagulation or trauma causes bleeding",
+      "presentation": "Patient presents with major bleeding while taking dabigatran",
+      "treatment": "Idarucizumab, a monoclonal antibody fragment that specifically binds dabigatran",
+      "lecture": "L164",
+      "id": "c248"
+    },
+    {
+      "name": "Thrombolytic (tPA) Hemorrhage",
+      "pathophysiology": "Fibrinolytics generate plasmin that lyses protective hemostatic plugs and degrades circulating coagulation factors, producing a systemic lytic state",
+      "presentation": "Patient presents with sudden severe headache and neurologic decline (intracranial hemorrhage) after alteplase for acute ischemic stroke",
+      "treatment": "Stop the fibrinolytic; cryoprecipitate/FFP and supportive care",
+      "lecture": "L165",
+      "id": "c249"
+    },
+    {
+      "name": "Streptokinase Hypersensitivity",
+      "pathophysiology": "Streptokinase is a bacterial protein, so cross-reacting anti-streptococcal antibodies trigger allergic reactions and neutralize its activity",
+      "presentation": "Patient presents with fever, chills, and an allergic reaction after streptokinase, often with prior streptococcal exposure",
+      "treatment": "Discontinue streptokinase; supportive/antiallergic therapy; avoid re-exposure",
+      "lecture": "L165",
+      "id": "c250"
+    },
+    {
+      "name": "Aspirin-Induced Reye Syndrome",
+      "pathophysiology": "Aspirin use in children during a viral illness precipitates mitochondrial injury with hepatic failure and encephalopathy",
+      "presentation": "Patient presents as a child recovering from a viral illness who develops vomiting, lethargy, and encephalopathy after receiving aspirin",
+      "treatment": "Avoid aspirin in children with viral illness; supportive care",
+      "lecture": "L165",
+      "id": "c251"
+    },
+    {
+      "name": "Aspirin-Exacerbated Respiratory Disease",
+      "pathophysiology": "Aspirin's COX inhibition shunts arachidonic acid to leukotrienes, precipitating rhinosinusitis and bronchospasm",
+      "presentation": "Patient presents with nasal polyps, urticaria, rhinosinusitis, and bronchospasm shortly after taking aspirin",
+      "treatment": "Discontinue and avoid aspirin; treat bronchospasm; consider aspirin desensitization",
+      "lecture": "L165",
+      "id": "c252"
+    },
+    {
+      "name": "Ticagrelor-Induced Dyspnea",
+      "pathophysiology": "The reversible P2Y12 inhibitor ticagrelor causes dyspnea and bradyarrhythmias in addition to bleeding",
+      "presentation": "Patient presents with new-onset dyspnea and bradyarrhythmia after starting ticagrelor",
+      "treatment": "Reassurance as dyspnea usually resolves; discontinue if severe",
+      "lecture": "L165",
+      "id": "c253"
+    },
+    {
+      "name": "Febrile Non-Hemolytic Transfusion Reaction (FNHTR)",
+      "pathophysiology": "Cytokines released from donor leukocytes during storage trigger fever; the most common transfusion reaction, with no hemolysis",
+      "presentation": "Patient presents with fever and chills during or shortly after a transfusion, without flank pain, hypotension, or signs of hemolysis",
+      "treatment": "Antipyretics; prevent with leukoreduction of products",
+      "lecture": "L149",
+      "id": "c254"
+    },
+    {
+      "name": "Anaphylactic Transfusion Reaction",
+      "pathophysiology": "Anti-IgA antibodies in an IgA-deficient recipient react against IgA in donor plasma",
+      "presentation": "Patient presents with rapid urticaria, bronchospasm, and shock within seconds to minutes of starting a transfusion",
+      "treatment": "Stop transfusion; epinephrine; give washed (IgA-depleted) products",
+      "lecture": "L149",
+      "id": "c255"
+    },
+    {
+      "name": "Delayed Hemolytic Transfusion Reaction (DHTR)",
+      "pathophysiology": "Anamnestic antibody response to minor RBC antigens (Kidd, Kell, Duffy) on re-exposure causes extravascular hemolysis",
+      "presentation": "Patient presents days after a transfusion with a falling hemoglobin, low-grade fever, and jaundice from delayed extravascular hemolysis",
+      "treatment": "Supportive care; extended RBC phenotype matching for future units",
+      "lecture": "L149",
+      "id": "c256"
+    },
+    {
+      "name": "Hydrops Fetalis",
+      "pathophysiology": "Severe fetal anemia (Rh-HDFN or alpha-thalassemia Hb Bart's) causes high-output cardiac failure and extramedullary hematopoiesis",
+      "presentation": "Patient presents as a fetus/newborn with diffuse edema, ascites, pleural and pericardial effusions, and hepatosplenomegaly",
+      "treatment": "Intrauterine transfusion; deliver and support; RhoGAM prophylaxis to prevent",
+      "lecture": "L149",
+      "id": "c257"
+    },
+    {
+      "name": "Kernicterus",
+      "pathophysiology": "Unconjugated bilirubin from hemolytic disease of the newborn crosses the immature blood-brain barrier and deposits in the basal ganglia",
+      "presentation": "Patient presents as a jaundiced newborn with lethargy, poor feeding, hypotonia, and a high-pitched cry progressing to opisthotonos",
+      "treatment": "Phototherapy; exchange transfusion for severe hyperbilirubinemia",
+      "lecture": "L149",
+      "id": "c258"
+    },
+    {
+      "name": "Hemoglobin C Disease",
+      "pathophysiology": "Glu-to-Lys substitution on the beta-globin chain causes hemoglobin C to crystallize, producing a mild chronic hemolytic anemia",
+      "presentation": "Patient presents with a mild hemolytic anemia, target cells, and rod-shaped HbC crystals on the peripheral smear",
+      "treatment": "Supportive care",
+      "lecture": "L152",
+      "id": "c259"
+    },
+    {
+      "name": "Pyruvate Kinase Deficiency",
+      "pathophysiology": "Autosomal recessive deficiency of pyruvate kinase depletes RBC ATP, causing rigid cells and chronic extravascular hemolysis",
+      "presentation": "Patient presents as a child with chronic hemolytic anemia, jaundice, splenomegaly, and burr cells (echinocytes) on smear",
+      "treatment": "Supportive care; splenectomy in severe cases",
+      "lecture": "L152",
+      "id": "c260"
+    },
+    {
+      "name": "Warm Autoimmune Hemolytic Anemia",
+      "pathophysiology": "IgG autoantibodies bind RBCs at body temperature, leading to splenic (extravascular) destruction; linked to SLE, CLL, and methyldopa",
+      "presentation": "Patient presents with anemia, jaundice, spherocytes, and a positive direct Coombs test, often with underlying SLE or CLL",
+      "treatment": "Corticosteroids; treat underlying cause; rituximab/splenectomy if refractory",
+      "lecture": "L152",
+      "id": "c261"
+    },
+    {
+      "name": "Cold Agglutinin Disease",
+      "pathophysiology": "IgM autoantibodies bind RBCs in cold peripheral blood and fix complement, causing complement-mediated hemolysis; linked to Mycoplasma and EBV",
+      "presentation": "Patient presents with acrocyanosis and hemolysis triggered by cold exposure, often after Mycoplasma pneumonia or infectious mononucleosis",
+      "treatment": "Avoid cold exposure; treat underlying infection; rituximab if needed",
+      "lecture": "L152",
+      "id": "c262"
+    },
+    {
+      "name": "Pernicious Anemia",
+      "pathophysiology": "Autoimmune destruction of gastric parietal cells eliminates intrinsic factor, causing vitamin B12 malabsorption and megaloblastic anemia",
+      "presentation": "Patient presents with macrocytic anemia, glossitis, and neurologic symptoms, with anti-intrinsic-factor antibodies and atrophic gastritis",
+      "treatment": "Lifelong parenteral (or high-dose oral) vitamin B12",
+      "lecture": "L152",
+      "id": "c263"
+    },
+    {
+      "name": "Orotic Aciduria",
+      "pathophysiology": "UMP synthase deficiency blocks pyrimidine synthesis, producing a megaloblastic anemia that is NOT corrected by B12 or folate",
+      "presentation": "Patient presents as a child with megaloblastic anemia and failure to thrive, with orotic acid in the urine but NO hyperammonemia",
+      "treatment": "Uridine triacetate",
+      "lecture": "L152",
+      "id": "c264"
+    },
+    {
+      "name": "Functional Asplenia (Autosplenectomy)",
+      "pathophysiology": "Repeated splenic infarction in sickle cell disease destroys the spleen by age 5-6, eliminating protection against encapsulated organisms",
+      "presentation": "Patient presents as a young child with sickle cell disease with Howell-Jolly bodies on smear and overwhelming infection by encapsulated bacteria",
+      "treatment": "Daily penicillin prophylaxis until age 5; pneumococcal, Hib, and meningococcal vaccines",
+      "lecture": "L163",
+      "id": "c265"
     }
   ],
   "dermterms": [
