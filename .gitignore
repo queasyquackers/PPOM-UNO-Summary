@@ -6,3 +6,6 @@ content/*_Analysis.md
 
 # Lecture pipeline working bundles (transcripts, slide text, generated drafts before install)
 _pipeline/
+
+# New-semester raw files awaiting ingest (renumbering)
+_incoming/

@@ -6,6 +6,12 @@ lecture_pipeline.py  --  One command to turn a lecture into a high-yield summary
 The generation itself is done by Claude Code (free, uses your subscription), so this
 script handles everything *around* it:
 
+    0. ingest        (new-semester files only) Drop the semester's raw files into
+                     _incoming/, then run ingest to renumber them with a +200 offset
+                     per semester (semester 2 lecture #1 -> Lecture #201) and move
+                     them into transcripts/ and pdfs/. This keeps lecture numbers
+                     globally unique even though each semester restarts at #1.
+
     1. prep    <N>   Find the transcript + slide PDF for lecture N, extract clean text,
                      and write a self-contained bundle in _pipeline/L<N>/ that tells
                      Claude Code exactly what to produce and where.
@@ -22,6 +28,8 @@ script handles everything *around* it:
                      render the high-yield PDF, and optionally git commit / push.
 
 Usage:
+    python lecture_pipeline.py ingest                      # semester 2 (+200): #1 -> L201
+    python lecture_pipeline.py ingest --semester 3         # semester 3 (+400): #1 -> L401
     python lecture_pipeline.py prep 193
     python lecture_pipeline.py install 193                 # place + register, no git
     python lecture_pipeline.py install 193 --commit        # + git commit in both repos
@@ -160,6 +168,78 @@ def run_git(repo, args, check=True):
     if check and result.returncode != 0:
         die(f"git {' '.join(args)} failed in {repo.name}:\n{result.stderr}")
     return result
+
+
+# --------------------------------------------------------------------------- #
+# ingest (new-semester renumbering)
+# --------------------------------------------------------------------------- #
+# Each semester's lectures restart at #1, but this pipeline needs globally unique
+# numbers (filenames, window.L<N>, index/config registrations all key on it).
+# Semester s gets a +(s-1)*200 offset: semester 2 lecture #1 -> Lecture #201.
+SEMESTER_BLOCK = 200
+
+def cmd_ingest(args):
+    offset = (args.semester - 1) * SEMESTER_BLOCK
+    incoming = SUMMARY_REPO / "_incoming"
+    incoming.mkdir(exist_ok=True)
+    print(f"\n=== INGEST semester {args.semester} (lecture #N -> #{offset}+N) ===")
+
+    files = [f for f in sorted(incoming.iterdir()) if f.is_file()]
+    if not files:
+        print(
+            f"\n_incoming/ is empty. Drop the new semester's raw files there\n"
+            f"({incoming}) -- transcripts (.srt/.txt) and slide PDFs, named with\n"
+            f"their original numbers (e.g. 'Lecture #1_ ...') -- then re-run:\n"
+            f"    python lecture_pipeline.py ingest --semester {args.semester}\n"
+        )
+        return
+
+    # First lecture-number token in the name: '#1', '# 1', or 'L1' (not 'L19' inside 'L190').
+    num_pat = re.compile(r"(#\s*|\bL)(\d+)(?!\d)")
+    moved, skipped, ingested_numbers = [], [], []
+    for f in files:
+        if f.suffix.lower() in {".srt", ".txt"}:
+            dest_dir = SUMMARY_REPO / "transcripts"
+        elif f.suffix.lower() == ".pdf":
+            dest_dir = SUMMARY_REPO / "pdfs"
+        else:
+            skipped.append((f.name, "not a transcript (.srt/.txt) or slide PDF"))
+            continue
+        m = num_pat.search(f.name)
+        if not m:
+            skipped.append((f.name, "no lecture number ('#N' or 'LN') in filename"))
+            continue
+        n = int(m.group(2))
+        if n >= SEMESTER_BLOCK:
+            skipped.append((f.name, f"number {n} looks already offset -- move it manually if intended"))
+            continue
+        new_n = n + offset
+        new_name = f.name[: m.start(2)] + str(new_n) + f.name[m.end(2):]
+        dest = dest_dir / new_name
+        if dest.exists():
+            skipped.append((f.name, f"{dest_dir.name}/{new_name} already exists"))
+            continue
+        shutil.move(str(f), str(dest))
+        moved.append((f.name, f"{dest_dir.name}/{new_name}"))
+        ingested_numbers.append(new_n)
+
+    for old, new in moved:
+        info(f"{old}  ->  {new}")
+    for name, why in skipped:
+        info(f"SKIPPED  {name}  ({why})")
+
+    if ingested_numbers:
+        nums = sorted(set(ingested_numbers))
+        print(
+            f"\n[OK] Ingested {len(moved)} file(s) as lecture(s) "
+            f"{', '.join(str(x) for x in nums)}.\n"
+            f"     From here the normal flow applies, using the NEW numbers:\n"
+            f"         python lecture_pipeline.py prep {nums[0]}\n"
+            f"         /generate-lecture {nums[0]}        (in Claude Code)\n"
+            f"         python lecture_pipeline.py install {nums[0]} --commit\n"
+        )
+    else:
+        print("\n[!] Nothing ingested -- see SKIPPED reasons above.\n")
 
 
 # --------------------------------------------------------------------------- #
@@ -572,6 +652,16 @@ def main():
     parser.add_argument("--summary-repo", type=Path, help="Path to PPOM-UNO-Summary")
     parser.add_argument("--problems-repo", type=Path, help="Path to PPOM-UNO-Problems")
     sub = parser.add_subparsers(dest="command", required=True)
+
+    p_ing = sub.add_parser(
+        "ingest",
+        help="Renumber new-semester files from _incoming/ (+200 per semester) into transcripts/ + pdfs/",
+    )
+    p_ing.add_argument(
+        "--semester", type=int, default=2,
+        help="Semester of the files in _incoming/ (default 2: lecture #1 -> L201; 3 -> L401)",
+    )
+    p_ing.set_defaults(func=cmd_ingest)
 
     p_prep = sub.add_parser("prep", help="Extract inputs + build the generation bundle")
     p_prep.add_argument("number", type=int, help="Lecture number, e.g. 193")

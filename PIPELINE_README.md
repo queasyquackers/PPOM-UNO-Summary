@@ -15,6 +15,23 @@ is no API key and no extra cost.
   PDF in either repo's `pdfs/`. (Both repos already mirror these.)
 - Python packages already installed here: `pdfplumber` (or `pymupdf`), `pypdf`.
 
+## New semester? Ingest first (numbering restarts at #1 each semester)
+
+Lecture numbers must be globally unique (filenames, `window.L<N>`, and all registrations
+key on them), so each semester gets a +200 block: **semester 2 lecture #1 → L201**,
+semester 3 → L401, etc.
+
+```
+# Drop the new semester's raw files (transcripts .srt/.txt + slide PDFs, with their
+# original numbers like "Lecture #1_ ...") into _incoming/, then:
+python lecture_pipeline.py ingest                 # semester 2 (default): #1 -> L201
+python lecture_pipeline.py ingest --semester 3    # semester 3: #1 -> L401
+```
+
+This renames the files in place and moves them into `transcripts/` and `pdfs/`.
+From then on use the **new** numbers everywhere: `prep 201`, `/generate-lecture 201`,
+`install 201`. (`_incoming/` is git-ignored, like `_pipeline/`.)
+
 ## The 3-step flow
 
 ```
