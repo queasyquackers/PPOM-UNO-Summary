@@ -1494,5 +1494,13 @@ window.receiveLectureIndex([
     "tags": "Lecture #192",
     "path": "content/json/l192.file.js",
     "readingTime": 13
+  },
+  {
+    "id": "cv22",
+    "title": "Lecture #22: Cardiac Action Potentials",
+    "module": "Physiology",
+    "tags": "Lecture #22",
+    "path": "content/json/cv22.file.js",
+    "readingTime": 11
   }
 ]);

@@ -30,6 +30,10 @@ const BLOCKS = {
   psych: { name: "Psychiatry", shortName: "PSYCH", range: "L47 – L96", color: "#7B4B7A", darkColor: "#C68BC5", start: 47, end: 96, number: 2 },
   msk:   { name: "MSK", shortName: "MSK", range: "L97 – L147", color: "#2D6A4F", darkColor: "#6BBF8A", start: 97, end: 147, number: 3 },
   heme:  { name: "Heme-Onc", shortName: "HEME", range: "L148 – L192", color: "#8B1A1A", darkColor: "#E05555", start: 148, end: 192, number: 4 },
+  // Cardiovascular (semester 2). Scaffolded empty, ready for lectures 1–41.
+  // Its lectures use a "cv" id prefix (cv1..cv41) so their display numbers stay
+  // 1–41 without colliding with Neuro's l1–l41. See getBlockInfo() below.
+  cardio: { name: "Cardiovascular", shortName: "CARDIO", range: "CV1 – CV41", color: "#136F73", darkColor: "#5FBFC2", start: 1, end: 41, number: 5 },
 };
 
 // Roman numeral for each block, indexed by block key. Matches the curriculum
@@ -40,6 +44,7 @@ const BLOCK_NUMERALS = {
   psych: "II",
   msk:   "III",
   heme:  "IV",
+  cardio: "V",
 };
 
 // Strip the "Lecture #XYZ:" prefix from titles before display.
@@ -54,6 +59,9 @@ function displayTitle(title) {
 
 function getBlockInfo(id) {
   if (!id) return null;
+  // Cardiovascular lectures carry a "cv" id prefix (cv1..cv41) so their display
+  // number can stay 1–41 without clashing with Neuro's l1–l41. Match them first.
+  if (/^cv/i.test(id)) return { ...BLOCKS.cardio, key: "cardio" };
   const numMatch = id.replace(/^l/i, "").match(/(\d+)/);
   if (!numMatch) return BLOCKS.neuro; // default for l1a etc
   const num = parseInt(numMatch[1]);
