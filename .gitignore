@@ -3,3 +3,6 @@
 
 # Auto-generated analysis files from generate_high_yield.py (the rendered PDFs are kept; the .md scratch files are not)
 content/*_Analysis.md
+
+# Lecture pipeline working bundles (transcripts, slide text, generated drafts before install)
+_pipeline/
