@@ -183,18 +183,23 @@ def cmd_ingest(args):
     offset = (args.semester - 1) * SEMESTER_BLOCK
     print(f"\n=== INGEST semester {args.semester} (lecture #N -> #{offset}+N) ===")
 
-    # Both repos mirror transcripts/ + pdfs/ (prep searches both), so each repo
-    # gets its own _incoming/ and files route into that same repo's folders.
-    repos = [SUMMARY_REPO]
-    if PROBLEMS_REPO.exists():
-        repos.append(PROBLEMS_REPO)
+    # Summary/_incoming is the one you normally use -- created on demand. The
+    # Problems repo mirrors transcripts/ + pdfs/ too (prep searches both), so if
+    # you keep an _incoming/ there it is scanned as well and its files route into
+    # that repo's own folders. Never created for you: if it isn't there, you don't
+    # want it.
+    summary_incoming = SUMMARY_REPO / "_incoming"
+    summary_incoming.mkdir(exist_ok=True)
+    incomings = [summary_incoming]
+    problems_incoming = PROBLEMS_REPO / "_incoming"
+    if problems_incoming.is_dir():
+        incomings.append(problems_incoming)
 
     # First lecture-number token in the name: '#1', '# 1', or 'L1' (not 'L19' inside 'L190').
     num_pat = re.compile(r"(#\s*|\bL)(\d+)(?!\d)")
     moved, skipped, ingested_numbers = [], [], []
-    for repo in repos:
-        incoming = repo / "_incoming"
-        incoming.mkdir(exist_ok=True)
+    for incoming in incomings:
+        repo = incoming.parent
         for f in sorted(incoming.iterdir()):
             if not f.is_file():
                 continue
@@ -227,9 +232,9 @@ def cmd_ingest(args):
     if not moved and not skipped:
         print(
             "\nNothing to ingest. Drop the new semester's raw files -- transcripts\n"
-            "(.srt/.txt) and slide PDFs, named with their original numbers\n"
-            "(e.g. 'Lecture #1_ ...') -- into either repo's _incoming/ folder:\n"
-            + "".join(f"    {r / '_incoming'}\n" for r in repos)
+            "(.srt/.txt) and slide PDFs together, named with their original numbers\n"
+            "(e.g. 'Lecture #1_ ...') -- into:\n"
+            + "".join(f"    {p}\n" for p in incomings)
             + f"then re-run:\n"
             f"    python lecture_pipeline.py ingest --semester {args.semester}\n"
         )
@@ -243,7 +248,7 @@ def cmd_ingest(args):
     if ingested_numbers:
         nums = sorted(set(ingested_numbers))
         print(
-            f"\n[OK] Ingested {len(moved)} file(s) across {len(repos)} repo(s) as lecture(s) "
+            f"\n[OK] Ingested {len(moved)} file(s) as lecture(s) "
             f"{', '.join(str(x) for x in nums)}.\n"
             f"     From here the normal flow applies, using the NEW numbers:\n"
             f"         python lecture_pipeline.py prep {nums[0]}\n"
