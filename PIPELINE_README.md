@@ -28,9 +28,14 @@ python lecture_pipeline.py ingest                 # semester 2 (default): #1 -> 
 python lecture_pipeline.py ingest --semester 3    # semester 3: #1 -> L401
 ```
 
-This renames the files in place and moves them into `transcripts/` and `pdfs/`.
+**Both repos have an `_incoming/` folder and both are scanned**, so it doesn't matter which
+one you drop files into — `PPOM-UNO-Summary/_incoming/` or `PPOM-UNO-Problems/_incoming/`
+(or a mix). Files are renamed and moved into *that same repo's* `transcripts/` and `pdfs/`,
+and `prep` searches both repos, so either location works. Run the command from the Summary
+repo either way.
+
 From then on use the **new** numbers everywhere: `prep 201`, `/generate-lecture 201`,
-`install 201`. (`_incoming/` is git-ignored, like `_pipeline/`.)
+`install 201`. (`_incoming/` is git-ignored in both repos, like `_pipeline/`.)
 
 ## The 3-step flow
 

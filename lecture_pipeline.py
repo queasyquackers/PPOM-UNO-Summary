@@ -7,9 +7,10 @@ The generation itself is done by Claude Code (free, uses your subscription), so 
 script handles everything *around* it:
 
     0. ingest        (new-semester files only) Drop the semester's raw files into
-                     _incoming/, then run ingest to renumber them with a +200 offset
-                     per semester (semester 2 lecture #1 -> Lecture #201) and move
-                     them into transcripts/ and pdfs/. This keeps lecture numbers
+                     _incoming/ -- in either repo; both are scanned -- then run
+                     ingest to renumber them with a +200 offset per semester
+                     (semester 2 lecture #1 -> Lecture #201) and move them into
+                     that repo's transcripts/ and pdfs/. This keeps lecture numbers
                      globally unique even though each semester restarts at #1.
 
     1. prep    <N>   Find the transcript + slide PDF for lecture N, extract clean text,
@@ -180,58 +181,69 @@ SEMESTER_BLOCK = 200
 
 def cmd_ingest(args):
     offset = (args.semester - 1) * SEMESTER_BLOCK
-    incoming = SUMMARY_REPO / "_incoming"
-    incoming.mkdir(exist_ok=True)
     print(f"\n=== INGEST semester {args.semester} (lecture #N -> #{offset}+N) ===")
 
-    files = [f for f in sorted(incoming.iterdir()) if f.is_file()]
-    if not files:
-        print(
-            f"\n_incoming/ is empty. Drop the new semester's raw files there\n"
-            f"({incoming}) -- transcripts (.srt/.txt) and slide PDFs, named with\n"
-            f"their original numbers (e.g. 'Lecture #1_ ...') -- then re-run:\n"
-            f"    python lecture_pipeline.py ingest --semester {args.semester}\n"
-        )
-        return
+    # Both repos mirror transcripts/ + pdfs/ (prep searches both), so each repo
+    # gets its own _incoming/ and files route into that same repo's folders.
+    repos = [SUMMARY_REPO]
+    if PROBLEMS_REPO.exists():
+        repos.append(PROBLEMS_REPO)
 
     # First lecture-number token in the name: '#1', '# 1', or 'L1' (not 'L19' inside 'L190').
     num_pat = re.compile(r"(#\s*|\bL)(\d+)(?!\d)")
     moved, skipped, ingested_numbers = [], [], []
-    for f in files:
-        if f.suffix.lower() in {".srt", ".txt"}:
-            dest_dir = SUMMARY_REPO / "transcripts"
-        elif f.suffix.lower() == ".pdf":
-            dest_dir = SUMMARY_REPO / "pdfs"
-        else:
-            skipped.append((f.name, "not a transcript (.srt/.txt) or slide PDF"))
-            continue
-        m = num_pat.search(f.name)
-        if not m:
-            skipped.append((f.name, "no lecture number ('#N' or 'LN') in filename"))
-            continue
-        n = int(m.group(2))
-        if n >= SEMESTER_BLOCK:
-            skipped.append((f.name, f"number {n} looks already offset -- move it manually if intended"))
-            continue
-        new_n = n + offset
-        new_name = f.name[: m.start(2)] + str(new_n) + f.name[m.end(2):]
-        dest = dest_dir / new_name
-        if dest.exists():
-            skipped.append((f.name, f"{dest_dir.name}/{new_name} already exists"))
-            continue
-        shutil.move(str(f), str(dest))
-        moved.append((f.name, f"{dest_dir.name}/{new_name}"))
-        ingested_numbers.append(new_n)
+    for repo in repos:
+        incoming = repo / "_incoming"
+        incoming.mkdir(exist_ok=True)
+        for f in sorted(incoming.iterdir()):
+            if not f.is_file():
+                continue
+            if f.suffix.lower() in {".srt", ".txt"}:
+                dest_dir = repo / "transcripts"
+            elif f.suffix.lower() == ".pdf":
+                dest_dir = repo / "pdfs"
+            else:
+                skipped.append((repo.name, f.name, "not a transcript (.srt/.txt) or slide PDF"))
+                continue
+            m = num_pat.search(f.name)
+            if not m:
+                skipped.append((repo.name, f.name, "no lecture number ('#N' or 'LN') in filename"))
+                continue
+            n = int(m.group(2))
+            if n >= SEMESTER_BLOCK:
+                skipped.append((repo.name, f.name, f"number {n} looks already offset -- move it manually if intended"))
+                continue
+            new_n = n + offset
+            new_name = f.name[: m.start(2)] + str(new_n) + f.name[m.end(2):]
+            dest_dir.mkdir(exist_ok=True)
+            dest = dest_dir / new_name
+            if dest.exists():
+                skipped.append((repo.name, f.name, f"{dest_dir.name}/{new_name} already exists"))
+                continue
+            shutil.move(str(f), str(dest))
+            moved.append((repo.name, f.name, f"{dest_dir.name}/{new_name}"))
+            ingested_numbers.append(new_n)
 
-    for old, new in moved:
-        info(f"{old}  ->  {new}")
-    for name, why in skipped:
-        info(f"SKIPPED  {name}  ({why})")
+    if not moved and not skipped:
+        print(
+            "\nNothing to ingest. Drop the new semester's raw files -- transcripts\n"
+            "(.srt/.txt) and slide PDFs, named with their original numbers\n"
+            "(e.g. 'Lecture #1_ ...') -- into either repo's _incoming/ folder:\n"
+            + "".join(f"    {r / '_incoming'}\n" for r in repos)
+            + f"then re-run:\n"
+            f"    python lecture_pipeline.py ingest --semester {args.semester}\n"
+        )
+        return
+
+    for repo_name, old, new in moved:
+        info(f"[{repo_name}] {old}  ->  {new}")
+    for repo_name, name, why in skipped:
+        info(f"[{repo_name}] SKIPPED  {name}  ({why})")
 
     if ingested_numbers:
         nums = sorted(set(ingested_numbers))
         print(
-            f"\n[OK] Ingested {len(moved)} file(s) as lecture(s) "
+            f"\n[OK] Ingested {len(moved)} file(s) across {len(repos)} repo(s) as lecture(s) "
             f"{', '.join(str(x) for x in nums)}.\n"
             f"     From here the normal flow applies, using the NEW numbers:\n"
             f"         python lecture_pipeline.py prep {nums[0]}\n"
