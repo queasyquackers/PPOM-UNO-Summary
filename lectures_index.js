@@ -1510,5 +1510,13 @@ window.receiveLectureIndex([
     "tags": "Lecture #1",
     "path": "content/json/cv1.file.js",
     "readingTime": 15
+  },
+  {
+    "id": "cv2",
+    "title": "Lecture #2: Balanced Ligamentous Tension (BLT) - Cervical, Thoracic, Lumbosacral, Fibula",
+    "module": "OMM",
+    "tags": "Lecture #2",
+    "path": "content/json/cv2.file.js",
+    "readingTime": 15
   }
 ]);
