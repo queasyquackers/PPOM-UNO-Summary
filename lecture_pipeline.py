@@ -28,11 +28,22 @@ script handles everything *around* it:
                      (lectures_index.js + config.js + Problems/index.html), optionally
                      render the high-yield PDF, and optionally git commit / push.
 
+                     install also enforces the answer-key rules from
+                     question_generation_prompt_v5.txt (even A-E spread, no run of
+                     3+, correct answer is the longest option in <=25%). These are
+                     invisible when reading questions one at a time -- the tell only
+                     shows in aggregate -- so a failure BLOCKS the install.
+                         --fix        even out the key by reordering options
+                                      (never edits text, so content is untouched)
+                         --no-verify  downgrade the failure to a warning
+
 Usage:
     python lecture_pipeline.py ingest                      # semester 2 (+200): #1 -> L201
     python lecture_pipeline.py ingest --semester 3         # semester 3 (+400): #1 -> L401
     python lecture_pipeline.py prep 193
+    python lecture_pipeline.py prep 22 --block cardio      # Cardiovascular block (CV22)
     python lecture_pipeline.py install 193                 # place + register, no git
+    python lecture_pipeline.py install 193 --fix           # + auto-even the answer key
     python lecture_pipeline.py install 193 --commit        # + git commit in both repos
     python lecture_pipeline.py install 193 --commit --push # + push to GitHub ("upload")
 
@@ -585,38 +596,127 @@ def validate_js(path, must_contain):
     return text
 
 
-def validate_question_quality(text, name):
-    """Warn on the answer-key giveaways the question prompt explicitly bans:
-    uneven A-E distribution, long runs of one letter, and the 'correct answer is
-    the longest option' tell. Warnings only -- these are quality, not validity."""
-    idx = [int(m) for m in re.findall(r'"correctAnswerIndex":\s*(\d+)', text)]
-    if not idx:
-        return
+# Answer-key giveaway thresholds, from question_generation_prompt_v5.txt:
+#   - correct answer roughly evenly spread across A-E
+#   - no long runs of the same letter
+#   - the correct answer must NOT be the longest option in >25% of questions
+MAX_LETTER_SPREAD = 3      # max(count) - min(count) across A-E
+MAX_SAME_LETTER_RUN = 2    # consecutive questions sharing an answer letter
+MAX_LONGEST_ANSWER_FRAC = 0.25
+
+LETTERS = "ABCDE"
+
+
+def parse_question_array(text):
+    """Return the question list from a Test_*.js file, or None if it isn't
+    plain-JSON-compatible (hand-edited files may not be)."""
+    try:
+        start, end = text.index("["), text.rindex("]")
+    except ValueError:
+        return None
+    try:
+        data = json.loads(text[start : end + 1])
+    except json.JSONDecodeError:
+        return None
+    return data if isinstance(data, list) and data else None
+
+
+def check_question_quality(data):
+    """Return a list of human-readable problems (empty == passes).
+    `data` is the parsed question array."""
+    problems = []
+    idx = [q.get("correctAnswerIndex") for q in data]
+    if any(i is None for i in idx):
+        problems.append("some questions are missing correctAnswerIndex")
+        return problems
+
     counts = {i: idx.count(i) for i in range(5)}
     spread = max(counts.values()) - min(counts.values())
-    if spread > 3:
-        info(f"[warn] {name}: uneven answer distribution {counts} (prompt wants ~even A-E).")
-    run = mx = 1
-    for a, b in zip(idx, idx[1:]):
-        run = run + 1 if a == b else 1
-        mx = max(mx, run)
-    if mx > 2:
-        info(f"[warn] {name}: {mx} consecutive questions share the same answer letter.")
-    # 'correct is longest option' tell
-    blocks = re.findall(r'"options":\s*\[(.*?)\]\s*,\s*"correctAnswerIndex":\s*(\d+)', text, re.DOTALL)
-    longest = total = 0
-    for opts_blob, ci in blocks:
-        lens = [len(t) for t in re.findall(r'"text":\s*"((?:[^"\\]|\\.)*)"', opts_blob)]
-        if len(lens) < 2:
-            continue
-        total += 1
-        if lens.index(max(lens)) == int(ci):
-            longest += 1
-    if total and longest / total > 0.25:
-        info(
-            f"[warn] {name}: correct answer is the longest option in "
-            f"{longest}/{total} ({longest/total*100:.0f}%) -- prompt allows <=25%."
+    if spread > MAX_LETTER_SPREAD:
+        pretty = ", ".join(f"{LETTERS[i]}={counts[i]}" for i in range(5))
+        problems.append(
+            f"uneven answer distribution ({pretty}); spread {spread} > {MAX_LETTER_SPREAD}"
         )
+
+    run = mx = 1
+    worst_at = 0
+    for i, (a, b) in enumerate(zip(idx, idx[1:]), start=1):
+        run = run + 1 if a == b else 1
+        if run > mx:
+            mx, worst_at = run, i
+    if mx > MAX_SAME_LETTER_RUN:
+        problems.append(
+            f"{mx} consecutive questions share an answer letter "
+            f"(around Q{worst_at}); max allowed is {MAX_SAME_LETTER_RUN}"
+        )
+
+    longest_ids = []
+    for q in data:
+        opts = q.get("options") or []
+        if len(opts) < 2:
+            continue
+        lens = [len(o.get("text", "")) for o in opts]
+        if lens.index(max(lens)) == q["correctAnswerIndex"]:
+            longest_ids.append(q.get("id"))
+    frac = len(longest_ids) / len(data)
+    if frac > MAX_LONGEST_ANSWER_FRAC:
+        problems.append(
+            f"correct answer is the longest option in {len(longest_ids)}/{len(data)} "
+            f"({frac*100:.0f}%), over the {MAX_LONGEST_ANSWER_FRAC*100:.0f}% limit. "
+            f"Lengthen a distractor in: {', '.join('Q'+str(i) for i in longest_ids[:12])}"
+            + (" ..." if len(longest_ids) > 12 else "")
+        )
+    return problems
+
+
+def _balanced_positions(n, k=5, seed=1729):
+    """A balanced, non-obvious sequence of answer positions: ~n/k of each letter
+    and no run longer than MAX_SAME_LETTER_RUN. Deterministic (fixed seed) so a
+    re-run reproduces the same layout; not a plain cycle, which would itself be
+    a pattern students could learn."""
+    import random
+
+    counts = [n // k + (1 if i < n % k else 0) for i in range(k)]
+    pool = [i for i, c in enumerate(counts) for _ in range(c)]
+    rnd = random.Random(seed)
+    for _ in range(500):
+        rnd.shuffle(pool)
+        run = mx = 1
+        for a, b in zip(pool, pool[1:]):
+            run = run + 1 if a == b else 1
+            mx = max(mx, run)
+        if mx <= MAX_SAME_LETTER_RUN:
+            return pool
+    return pool
+
+
+def rebalance_answers(data):
+    """Even out the answer key by REORDERING options within each question.
+    Only option order changes -- no text is edited, so the medical content and
+    every explanation stay exactly as written. Returns the number of questions
+    whose answer position moved.
+
+    Note this cannot fix the 'correct answer is longest' tell: that needs a
+    distractor lengthened, which is a writing task, not a permutation."""
+    targets = _balanced_positions(len(data))
+    moved = 0
+    for q, target in zip(data, targets):
+        ci = q["correctAnswerIndex"]
+        if ci == target:
+            continue
+        opts = q["options"]
+        opts[ci], opts[target] = opts[target], opts[ci]
+        q["correctAnswerIndex"] = target
+        moved += 1
+    return moved
+
+
+def write_question_file(path, var_name, data):
+    body = json.dumps(data, indent=2, ensure_ascii=False)
+    path.write_text(
+        f"const {var_name} = {body};\n\nwindow.{var_name} = {var_name};\n",
+        encoding="utf-8",
+    )
 
 
 def summary_index_entry(ids, title, module, reading_time):
@@ -815,7 +915,36 @@ def cmd_install(args):
             f"    window.{ids['test_var']} = {ids['test_var']};\n"
             f"Without it the Problems site loads this test as empty."
         )
-    validate_question_quality(quest_text, quest_src.name)
+
+    # --- Answer-key quality gate ---------------------------------------- #
+    # These giveaways are invisible on read-through (each question looks fine;
+    # the tell is only in the aggregate), so they are checked mechanically and
+    # block the install rather than printing a warning nobody reads.
+    qdata = parse_question_array(quest_text)
+    if qdata is None:
+        info(f"[warn] {quest_src.name}: not plain JSON -- skipping answer-key checks.")
+    else:
+        problems = check_question_quality(qdata)
+        if problems and args.fix:
+            moved = rebalance_answers(qdata)
+            write_question_file(quest_src, ids["test_var"], qdata)
+            quest_text = quest_src.read_text(encoding="utf-8")
+            info(f"--fix: reordered options in {moved} question(s) to even out the answer key.")
+            problems = check_question_quality(qdata)
+        if problems:
+            msg = "\n".join(f"       - {p}" for p in problems)
+            if args.no_verify:
+                info(f"[warn] {quest_src.name} answer-key issues (--no-verify):\n{msg}")
+            else:
+                die(
+                    f"{quest_src.name} fails the answer-key rules in "
+                    f"question_generation_prompt_v5.txt:\n{msg}\n\n"
+                    f"     Re-run with --fix to auto-even the distribution "
+                    f"(reorders options only, never edits text),\n"
+                    f"     or --no-verify to install anyway."
+                )
+        else:
+            info("answer-key checks passed (distribution, runs, longest-answer).")
     meta = json.loads(meta_src.read_text(encoding="utf-8"))
     module = meta.get("module") or "Clinical Medicine"
     week = meta.get("week")
@@ -932,6 +1061,14 @@ def main():
     p_inst.add_argument("--commit", action="store_true", help="git commit in both repos")
     p_inst.add_argument("--push", action="store_true", help="git commit AND push (upload)")
     p_inst.add_argument("--no-pdf", action="store_true", help="Skip high-yield PDF render")
+    p_inst.add_argument(
+        "--fix", action="store_true",
+        help="Auto-even the answer key by reordering options (never edits text)",
+    )
+    p_inst.add_argument(
+        "--no-verify", action="store_true",
+        help="Downgrade answer-key failures to warnings instead of blocking",
+    )
     p_inst.set_defaults(func=cmd_install)
 
     args = parser.parse_args()

@@ -9,3 +9,7 @@ _pipeline/
 
 # New-semester raw files awaiting ingest (renumbering)
 _incoming/
+
+# Python bytecode cache
+__pycache__/
+*.pyc

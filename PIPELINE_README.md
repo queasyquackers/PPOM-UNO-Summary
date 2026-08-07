@@ -57,6 +57,47 @@ python lecture_pipeline.py install 193 --commit --push   # + push to GitHub (upl
 `--push` publishes to whatever branch each repo is currently on. Leave it off to review the
 diff first, then `git push` yourself. Add `--no-pdf` to skip the high-yield PDF render.
 
+## The answer-key gate (why `install` can refuse)
+
+`question_generation_prompt_v5.txt` bans three answer-key giveaways. They're **invisible when
+you read questions one at a time** — each looks fine, and the tell only appears in aggregate —
+so `install` checks them mechanically and **blocks** rather than warning:
+
+| Rule | Limit |
+|------|-------|
+| Even A–E spread | max−min count ≤ 3 |
+| Same letter in a row | ≤ 2 consecutive |
+| Correct answer is the longest option | ≤ 25% of questions |
+
+```
+python lecture_pipeline.py install 193 --fix   # auto-even the key, then install
+```
+
+`--fix` **reorders the options** within a question and updates `correctAnswerIndex`. It never
+edits text, so every stem, distractor and explanation stays exactly as written. It fixes the
+spread and run problems.
+
+It deliberately **cannot** fix the longest-answer tell — that needs a distractor actually
+lengthened, which is writing, not permutation. When that check fails the error names the
+specific questions to fix. `--no-verify` downgrades any failure to a warning.
+
+> Worth knowing: the first generated draft of CV22 failed two of these (17/30 answers on "B",
+> longest-answer 60%). Expect the gate to fire on real drafts — that's it working.
+
+## Cardiovascular block
+
+Cardio lectures are a separate semester whose numbers restart at 1, so they use a `cv` slug
+(`cv22` → displays **CV22**) to stay clear of Neuro's `l1`–`l41`:
+
+```
+python lecture_pipeline.py prep 22 --block cardio
+python lecture_pipeline.py install 22 --block cardio --fix --commit
+```
+
+Raw cardio files are read straight from `_incoming/` (no `ingest` step, no +200 offset), and
+the transcript may be a PDF. `--block` must match between `prep` and `install`; the bundle
+records it in `sources.json` and `install` refuses on a mismatch.
+
 ## What `install` edits
 | Site | File written | Registrations updated |
 |------|--------------|-----------------------|
@@ -74,3 +115,11 @@ that's already registered is a safe no-op.
   fills during generation. If a label needs tweaking, edit the one line in `config.js`.
 - The generation slash command lives in `.claude/commands/generate-lecture.md`. `.claude/`
   is git-ignored, so it's local to this machine (copy it to another machine if needed).
+- `.claude/settings.json` (both repos) pre-approves the pipeline commands so runs aren't
+  interrupted by permission prompts. `git push` is in `deny` on purpose — uploads stay a
+  deliberate, manual step. Also git-ignored, so it's per-machine.
+- **Batching:** one lecture is ~28k output tokens (a 30-question set is 150 written
+  rationales). Quality degrades on the *aggregate* answer-key properties long before the
+  medical content suffers, which is what the gate above catches. To do several at once,
+  generate each lecture in its **own** subagent so each starts with a clean context —
+  that's better than several in one long session, not just faster.
