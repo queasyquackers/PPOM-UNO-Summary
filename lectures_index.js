@@ -1518,5 +1518,13 @@ window.receiveLectureIndex([
     "tags": "Lecture #2",
     "path": "content/json/cv2.file.js",
     "readingTime": 15
+  },
+  {
+    "id": "cv3",
+    "title": "Lecture #3: Embryology of the Genitourinary System",
+    "module": "Anatomy",
+    "tags": "Lecture #3",
+    "path": "content/json/cv3.file.js",
+    "readingTime": 15
   }
 ]);
