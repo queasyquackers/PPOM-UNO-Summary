@@ -1526,5 +1526,13 @@ window.receiveLectureIndex([
     "tags": "Lecture #3",
     "path": "content/json/cv3.file.js",
     "readingTime": 15
+  },
+  {
+    "id": "cv4",
+    "title": "Lecture #4: Solute Transport & Fluid Movement Through Biological Barriers",
+    "module": "Physiology",
+    "tags": "Lecture #4",
+    "path": "content/json/cv4.file.js",
+    "readingTime": 15
   }
 ]);
