@@ -1502,5 +1502,13 @@ window.receiveLectureIndex([
     "tags": "Lecture #22",
     "path": "content/json/cv22.file.js",
     "readingTime": 11
+  },
+  {
+    "id": "cv1",
+    "title": "Lecture #1: Principles of Balanced Ligamentous Tension (BLT)",
+    "module": "OMM",
+    "tags": "Lecture #1",
+    "path": "content/json/cv1.file.js",
+    "readingTime": 15
   }
 ]);
