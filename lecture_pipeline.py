@@ -250,16 +250,24 @@ def extract_pdf_text_plain(pdf_path):
 def find_cardio_inputs(n):
     """Cardio raw files live in Summary/_incoming with their original (1-41)
     numbers, so they can't share the numbered transcripts/ + pdfs/ folders with
-    Neuro. Distinguish the transcript PDF from the slide PDF by filename."""
+    Neuro. Transcripts are .srt/.txt files or PDFs named '(Transcript)';
+    slides are the '(PPT)' PDFs.
+
+    Matching is anchored to the leading 'Lecture #N' because lecture titles can
+    contain their own numbers (e.g. L2's SRT is titled 'OMM Lab #31 Prep') and
+    an unanchored search would let those hijack another lecture's prep. '0*'
+    accepts zero-padded downloads like 'Lecture #01_'."""
     incoming = SUMMARY_REPO / "_incoming"
-    pat = lecture_num_regex(n)
+    pat = re.compile(rf"^Lecture\s*#\s*0*{n}(?!\d)", re.IGNORECASE)
     transcript = slides = None
     if incoming.exists():
         for f in sorted(incoming.iterdir()):
             if not f.is_file() or not pat.search(f.name):
                 continue
             low = f.name.lower()
-            if f.suffix.lower() == ".pdf" and "tran" in low:      # transcript / trancript
+            if f.suffix.lower() in {".srt", ".txt"} or (
+                f.suffix.lower() == ".pdf" and "tran" in low   # transcript / trancript
+            ):
                 transcript = transcript or f
             elif "ppt" in low or f.suffix.lower() in {".pdf", ".pptx"}:
                 slides = slides or f
@@ -380,9 +388,12 @@ def cmd_prep(args):
             die(f"No slide PDF for cardio lecture {n} in {SUMMARY_REPO / '_incoming'}")
         if pdf.suffix.lower() != ".pdf":
             die(f"Slide file for lecture {n} is {pdf.suffix} ({pdf.name}); convert to PDF first.")
-        info(f"transcript: {transcript.name}  (PDF)")
+        info(f"transcript: {transcript.name}  ({transcript.suffix.lstrip('.').upper()})")
         info(f"slides:     {pdf.name}")
-        transcript_text = extract_pdf_text_plain(transcript)
+        if transcript.suffix.lower() == ".pdf":
+            transcript_text = extract_pdf_text_plain(transcript)
+        else:
+            transcript_text = extract_transcript(transcript)  # .srt/.txt (clean_srt)
     else:
         transcript_folders = [SUMMARY_REPO / "transcripts", PROBLEMS_REPO / "transcripts"]
         pdf_folders = [SUMMARY_REPO / "pdfs", PROBLEMS_REPO / "pdfs"]
