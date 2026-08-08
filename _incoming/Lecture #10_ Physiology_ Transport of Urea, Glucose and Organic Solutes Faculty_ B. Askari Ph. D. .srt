@@ -1,0 +1,3666 @@
+1
+00:00:00,470 --> 00:00:03,050
+Hello, everyone, and
+welcome back to our
+
+2
+00:00:03,050 --> 00:00:07,190
+series of lectures
+on renal physiology.
+
+3
+00:00:07,290 --> 00:00:10,390
+And by this time, I hope
+you've finished looking
+
+4
+00:00:10,390 --> 00:00:14,750
+at the transport of
+all the electrolytes,
+
+5
+00:00:16,070 --> 00:00:21,210
+vital electrolytes, save
+for protons and bicarbonate,
+
+6
+00:00:21,210 --> 00:00:25,160
+which we will go over in
+the next lecture. But today
+
+7
+00:00:25,160 --> 00:00:30,420
+we will be talking about
+the transport of metabolites
+
+8
+00:00:30,850 --> 00:00:39,330
+and components of metabolism,
+mainly the transport
+
+9
+00:00:39,330 --> 00:00:44,870
+of urea, glucose, and
+collectively organic solutes.
+
+10
+00:00:46,030 --> 00:00:48,840
+So again, let's start
+off with a scenario.
+
+11
+00:00:49,010 --> 00:00:50,630
+And in this case,
+
+12
+00:00:50,810 --> 00:00:54,270
+you're, you know, you're
+doing your first week in EM.
+
+13
+00:00:54,490 --> 00:00:56,870
+And a young girl
+was brought to your,
+
+14
+00:00:56,870 --> 00:01:00,010
+brought into the
+ER by her parents.
+
+15
+00:01:01,270 --> 00:01:05,470
+She's 12 years old.
+She's an athlete,
+
+16
+00:01:06,210 --> 00:01:10,570
+healthy 12 year old,
+and absolutely, you
+
+17
+00:01:10,570 --> 00:01:12,750
+know, and a healthy
+athletic 12 year old.
+
+18
+00:01:12,870 --> 00:01:16,940
+But suddenly, in the
+last two months, she's
+
+19
+00:01:16,940 --> 00:01:18,980
+turned into a completely
+different person. She
+
+20
+00:01:18,980 --> 00:01:22,930
+is lethargic, she can
+barely get out of bed,
+
+21
+00:01:23,090 --> 00:01:28,050
+she's easily fatigued,
+their young girl,
+
+22
+00:01:28,050 --> 00:01:30,290
+their parents are just
+beside themselves.
+
+23
+00:01:30,530 --> 00:01:33,550
+She's lost a lot of weight,
+and they say like her
+
+24
+00:01:33,920 --> 00:01:37,210
+schoolwork is suffering
+because she's not focused.
+
+25
+00:01:37,210 --> 00:01:44,610
+uh so taking your history
+you know that you you
+
+26
+00:01:44,610 --> 00:01:49,030
+you are told that she is
+she can't stop going to
+
+27
+00:01:49,030 --> 00:01:52,150
+the bathroom she goes to
+the bathroom 12 to 13 times
+
+28
+00:01:52,150 --> 00:01:57,130
+a day uh and she she's
+like constantly drinking
+
+29
+00:01:57,130 --> 00:02:00,610
+water and complaining
+of being thirsty uh her
+
+30
+00:02:00,610 --> 00:02:04,010
+physical examinations reveal
+signs of dehydration. So
+
+31
+00:02:04,010 --> 00:02:06,370
+there's something going
+on with her fluid status.
+
+32
+00:02:06,990 --> 00:02:11,130
+When you actually ask
+them to collect urine for
+
+33
+00:02:11,130 --> 00:02:15,050
+24-hour urine quantification,
+you see that she's
+
+34
+00:02:16,230 --> 00:02:22,050
+excreting a very, very
+high amount of fluids,
+
+35
+00:02:22,470 --> 00:02:26,410
+seven and a half liters a
+day, when normal average
+
+36
+00:02:26,410 --> 00:02:31,590
+anywhere between 0.8 and 1
+.5 liters. And then you do
+
+37
+00:02:31,590 --> 00:02:35,620
+analysis of her urine, just,
+you know, simple urinalysis,
+
+38
+00:02:39,310 --> 00:02:40,910
+significantly proteinuria.
+
+39
+00:02:41,590 --> 00:02:43,930
+The urine is remarkably
+
+40
+00:02:45,450 --> 00:02:47,350
+glycosiuric. There's
+a lot of sugars,
+
+41
+00:02:48,050 --> 00:02:49,930
+you know, glucose in the urine,
+
+42
+00:02:49,930 --> 00:02:52,230
+and the blood test doesn't
+
+43
+00:02:54,810 --> 00:02:59,930
+really you know at that
+instant just shows normal
+
+44
+00:02:59,930 --> 00:03:03,250
+glycemia but uh but
+it's it's just atypical
+
+45
+00:03:03,850 --> 00:03:05,850
+and you start thinking how
+
+46
+00:03:05,850 --> 00:03:07,410
+these things could be related
+
+47
+00:03:09,050 --> 00:03:12,990
+so fatigue lethargy
+frequent urination thirst
+
+48
+00:03:12,990 --> 00:03:16,530
+and sugar and urine
+that's the that's the main
+
+49
+00:03:19,390 --> 00:03:21,970
+relationships that
+you're looking for.
+
+50
+00:03:22,660 --> 00:03:25,430
+So these are our objectives.
+So hopefully by the end
+
+51
+00:03:25,430 --> 00:03:31,170
+of the session, we can talk
+about the renal processes
+
+52
+00:03:31,170 --> 00:03:36,890
+undergoing the regulation
+of glucose urea and uric
+
+53
+00:03:36,890 --> 00:03:44,030
+acid, and then the same with
+proteins of oligopeptides
+
+54
+00:03:44,030 --> 00:03:48,570
+and amino acids, and
+then looking at organic
+
+55
+00:03:48,570 --> 00:03:55,790
+collectively, just a big
+group of compounds that we'll
+
+56
+00:03:55,790 --> 00:03:58,810
+put under the umbrella of
+either an organic acid or
+
+57
+00:03:58,810 --> 00:04:03,090
+an organic base. And what
+is the significance of
+
+58
+00:04:03,090 --> 00:04:07,690
+these organic base and organic
+acid secretory systems.
+
+59
+00:04:09,230 --> 00:04:11,290
+So we'll start
+off with glucose.
+
+60
+00:04:12,070 --> 00:04:12,870
+So
+
+61
+00:04:14,330 --> 00:04:16,790
+maintenance of plasma
+glucose and glucose
+
+62
+00:04:16,790 --> 00:04:19,510
+regulation is
+incredibly important.
+
+63
+00:04:24,250 --> 00:04:29,370
+And our kidneys end up,
+you know, we want to save
+
+64
+00:04:29,370 --> 00:04:32,510
+all our glucose for metabolic
+reasons. You don't to
+
+65
+00:04:32,510 --> 00:04:36,690
+get rid of and you know of
+of of your plasma glucose
+
+66
+00:04:36,690 --> 00:04:39,870
+who's anybody who's
+ever felt who's ever had
+
+67
+00:04:39,900 --> 00:04:44,390
+hypoglycemia can attest to
+that um there are or you know
+
+68
+00:04:44,390 --> 00:04:48,610
+our brain exclusively uses
+glucose as a fuel source
+
+69
+00:04:48,610 --> 00:04:55,170
+and any kind of a loss
+um or decreases in plasma
+
+70
+00:04:55,170 --> 00:04:58,750
+glucose and glucose
+availability has central nervous
+
+71
+00:04:58,750 --> 00:05:03,290
+system effects, cognitive
+effects, and if you've never,
+
+72
+00:05:03,290 --> 00:05:08,070
+you know, if you've ever
+become hypoglycemic, had
+
+73
+00:05:08,070 --> 00:05:11,750
+a hypoglycemic episode,
+you can really experience
+
+74
+00:05:11,750 --> 00:05:16,010
+and feel that is thinking
+becomes very, very difficult.
+
+75
+00:05:16,050 --> 00:05:22,230
+So glucose is regulated
+by primarily by insulin
+
+76
+00:05:22,610 --> 00:05:25,570
+and a variety of other
+hormones. We're not
+
+77
+00:05:25,570 --> 00:05:29,390
+going to talk a lot about
+them in these lectures
+
+78
+00:05:29,390 --> 00:05:33,010
+of endocrinology. When
+we do endocrinology,
+
+79
+00:05:33,670 --> 00:05:37,050
+we'll get the full
+breakdown of it.
+
+80
+00:05:37,050 --> 00:05:41,530
+However, glucose, again,
+it's not bound to anything
+
+81
+00:05:41,530 --> 00:05:45,770
+in the plasma. There's no
+plasma binding to proteins,
+
+82
+00:05:46,270 --> 00:05:50,030
+and it's freely filtered
+in the glomerulus.
+
+83
+00:05:50,030 --> 00:05:55,330
+Again, 100% filtration
+in the glomerulus.
+
+84
+00:05:55,330 --> 00:05:57,690
+And the wonderful
+thing about glucose,
+
+85
+00:05:57,690 --> 00:06:01,670
+which makes it a lot
+simpler, is almost the
+
+86
+00:06:01,670 --> 00:06:06,750
+entirety of the amount
+that's filtered.
+
+87
+00:06:06,750 --> 00:06:10,170
+The filtered load of
+glucose is reabsorbed
+
+88
+00:06:10,170 --> 00:06:12,710
+in the proximal
+convoluted tubule.
+
+89
+00:06:14,130 --> 00:06:18,970
+The other sections of the
+nephron do very little. I'm
+
+90
+00:06:18,970 --> 00:06:23,130
+not going to say it never
+happens, but 99% of it
+
+91
+00:06:23,130 --> 00:06:26,950
+is taken away in the proximal
+convoluted tubule, and
+
+92
+00:06:26,950 --> 00:06:30,410
+the rest is done in the
+other sections of the distal
+
+93
+00:06:30,410 --> 00:06:32,990
+nephron, the thick ascending
+limbs, the collecting
+
+94
+00:06:32,990 --> 00:06:38,910
+tubules, and the dorsal
+collecting tubules, and the
+
+95
+00:06:39,100 --> 00:06:44,210
+collecting ducts, to the
+point that in a healthy
+
+96
+00:06:44,210 --> 00:06:51,550
+individual, you will not have
+any glucose in your urine.
+
+97
+00:06:51,810 --> 00:06:56,630
+So where does your
+absorption occur? Well, as I
+
+98
+00:06:56,630 --> 00:06:59,370
+said, it occurs in the
+proximal convoluted tubules.
+
+99
+00:07:00,710 --> 00:07:11,350
+And it's absorbed by
+two members of this
+
+100
+00:07:11,350 --> 00:07:16,330
+family of co-transporters
+called the sodium
+
+101
+00:07:16,330 --> 00:07:22,390
+glucose co-transporters,
+SGLT1 1 and SGLT2.
+
+102
+00:07:23,450 --> 00:07:27,490
+So again, they're found
+in the proximal tubule.
+
+103
+00:07:27,990 --> 00:07:31,810
+S1 segment of the proximal
+convoluted tubule is
+
+104
+00:07:31,810 --> 00:07:38,210
+rich in SGLT2. Again,
+these two are, these, these
+
+105
+00:07:38,210 --> 00:07:43,080
+trans, these co-transporters
+are found on the apical
+
+106
+00:07:43,080 --> 00:07:45,200
+side, right? So this is
+where we get filtration.
+
+107
+00:07:45,810 --> 00:07:50,010
+And uses, glucose gets
+taken into the cell,
+
+108
+00:07:50,460 --> 00:07:53,850
+piggybacking on the
+concentration gradient
+
+109
+00:07:53,850 --> 00:07:58,450
+developed by, remember
+who, our old friend,
+
+110
+00:07:59,030 --> 00:08:01,230
+the sodium-potassium ATPase.
+
+111
+00:08:01,230 --> 00:08:04,650
+The concentration
+gradient for sodium will
+
+112
+00:08:04,650 --> 00:08:10,070
+drive the transport of
+glucose into the cytosol.
+
+113
+00:08:11,230 --> 00:08:17,390
+SGL2 is the isoform
+that is most responsible
+
+114
+00:08:17,390 --> 00:08:24,960
+for the majority of
+glucose reabsorption in the
+
+115
+00:08:26,690 --> 00:08:32,250
+S1 segment of the proximal
+convoluted tubule.
+
+116
+00:08:33,090 --> 00:08:36,930
+in the S3 segment and
+probably the latter parts
+
+117
+00:08:36,930 --> 00:08:39,650
+of the S2 segment, once
+you get to the proximal
+
+118
+00:08:39,650 --> 00:08:43,530
+straight tubule, the
+isoform changes. Instead of
+
+119
+00:08:43,530 --> 00:08:48,370
+SGL2, you have SGLT1. The
+difference between them
+
+120
+00:08:48,370 --> 00:08:51,430
+is even though they're
+both on the apical side,
+
+121
+00:08:51,550 --> 00:08:54,830
+the stoichiometry changes.
+
+122
+00:08:55,110 --> 00:09:01,090
+So it moves two molecules
+of sodium from one molecule
+
+123
+00:09:01,090 --> 00:09:12,250
+of glucose. So it'll create
+a gradient better than
+
+124
+00:09:15,390 --> 00:09:18,230
+across the apical
+membrane than it does any
+
+125
+00:09:18,230 --> 00:09:21,090
+other section. Why is
+this important? Well,
+
+126
+00:09:21,090 --> 00:09:25,310
+this is a target
+of a novel class of
+
+127
+00:09:25,310 --> 00:09:28,460
+compounds. These are
+called the group uretics.
+
+128
+00:09:28,880 --> 00:09:30,930
+Initially, they were
+developed for the treatment
+
+129
+00:09:30,930 --> 00:09:34,230
+of type 2 diabetes, but
+it's been found that they
+
+130
+00:09:34,230 --> 00:09:38,110
+have remarkably, they are
+remarkably efficacious
+
+131
+00:09:38,110 --> 00:09:41,430
+in the treatment of
+congestive heart failure.
+
+132
+00:09:41,450 --> 00:09:44,890
+And to the point that,
+you know, I've spoken to
+
+133
+00:09:45,070 --> 00:09:48,370
+cardiologists and they say
+they are just basically putting
+
+134
+00:09:48,370 --> 00:09:53,990
+almost all their patients
+on SGL2 inhibitors because
+
+135
+00:09:53,990 --> 00:09:58,090
+of its beneficial effects.
+I don't think, I haven't
+
+136
+00:09:58,090 --> 00:10:02,170
+seen anything lately about
+what the proposed mechanism,
+
+137
+00:10:02,170 --> 00:10:06,370
+why is it so good? Because
+these effects, it seems
+
+138
+00:10:06,370 --> 00:10:09,490
+like they're independent
+on the effects on glucose
+
+139
+00:10:09,490 --> 00:10:15,430
+excretion. And it's not really
+clear 100% what is going
+
+140
+00:10:15,430 --> 00:10:24,050
+on to make the heart pump
+better in this context.
+
+141
+00:10:24,980 --> 00:10:26,610
+They don't think it's got to
+
+142
+00:10:26,610 --> 00:10:29,010
+do with water load management.
+
+143
+00:10:29,010 --> 00:10:31,710
+But again, I haven't done
+
+144
+00:10:31,710 --> 00:10:35,950
+the latest literature review.
+
+145
+00:10:37,150 --> 00:10:41,570
+Excuse me. So once the
+glucose gets into the
+
+146
+00:10:41,570 --> 00:10:45,310
+cytosol, it gets reabsorbed
+back into the basolateral
+
+147
+00:10:45,310 --> 00:10:51,590
+side by glucose channels.
+And these are the glute
+
+148
+00:10:52,320 --> 00:10:56,210
+channels. They are
+different. The glutes are
+
+149
+00:10:56,210 --> 00:10:59,370
+different than the SGLTs.
+Let's just remember that.
+
+150
+00:11:00,010 --> 00:11:03,850
+Glutes are channels
+for glucose.
+
+151
+00:11:03,850 --> 00:11:07,470
+There is no co
+-transporter activity.
+
+152
+00:11:08,070 --> 00:11:11,710
+And also, they're on
+the opposite side.
+
+153
+00:11:11,710 --> 00:11:13,850
+They are not on the
+apical side, they're
+
+154
+00:11:13,850 --> 00:11:17,310
+only found on the
+basolateral side. So it's
+
+155
+00:11:17,310 --> 00:11:19,170
+very important to
+make that distinction.
+
+156
+00:11:20,990 --> 00:11:25,670
+They're sodium
+dependent and they
+
+157
+00:11:25,670 --> 00:11:31,530
+remove glucose in a
+facilitated manner.
+
+158
+00:11:33,690 --> 00:11:37,190
+Now, you know, it's
+one of the reasons
+
+159
+00:11:37,190 --> 00:11:40,590
+that so much of it is
+reabsorbed, 100% of
+
+160
+00:11:40,590 --> 00:11:43,030
+it, is to do, it has
+to do with the brush
+
+161
+00:11:43,030 --> 00:11:48,150
+border of the proximal
+convoluted tubules.
+
+162
+00:11:48,270 --> 00:11:52,890
+This massive increase in
+surface area has a lot of
+
+163
+00:11:52,890 --> 00:11:57,190
+SGL2 inhibition, excuse
+me, SGL2 transporters.
+
+164
+00:11:57,190 --> 00:12:01,090
+You know, so you can just
+see very clearly, just by
+
+165
+00:12:01,090 --> 00:12:04,830
+the surface area component
+of it, that why you
+
+166
+00:12:04,830 --> 00:12:12,210
+can have such extensive
+reabsorption of glucose,
+
+167
+00:12:12,210 --> 00:12:14,410
+again, to the point that
+you almost don't need any
+
+168
+00:12:14,410 --> 00:12:17,530
+more reabsorption once
+you get past these stages.
+
+169
+00:12:17,930 --> 00:12:23,890
+How about, you know, so
+what is going on with urine
+
+170
+00:12:23,890 --> 00:12:27,850
+excretion? So maybe we can
+talk about the titration
+
+171
+00:12:27,850 --> 00:12:31,090
+curves when we are
+talking in this context
+
+172
+00:12:31,090 --> 00:12:35,610
+between the relationships
+between glucose and the
+
+173
+00:12:35,610 --> 00:12:43,670
+plasma and the rates of
+glucose reabsorption. And
+
+174
+00:12:43,670 --> 00:12:49,050
+in this case, in this graph,
+in this glucose titration
+
+175
+00:12:49,050 --> 00:12:54,130
+curve, this is done by
+looking at via an infusion
+
+176
+00:12:54,130 --> 00:12:59,330
+of glucose. So not a
+one-time load like you
+
+177
+00:12:59,330 --> 00:13:01,930
+would have if you ate a
+piece of cake. You would
+
+178
+00:13:01,930 --> 00:13:10,930
+have an IV infusing glucose
+at a determinable rate.
+
+179
+00:13:11,230 --> 00:13:15,550
+So one of the things that
+we always have to remember,
+
+180
+00:13:15,650 --> 00:13:18,530
+a low filtered load of
+glucose, anything that's
+
+181
+00:13:18,530 --> 00:13:22,410
+lower than 200 milligrams
+per deciliter, is completely
+
+182
+00:13:22,410 --> 00:13:26,110
+reabsorbed. We have no
+glucose found in the urine.
+
+183
+00:13:26,110 --> 00:13:31,330
+So the clearance is
+complete. And you can see
+
+184
+00:13:31,330 --> 00:13:36,340
+that here. If you look
+at the filtered load upon
+
+185
+00:13:36,340 --> 00:13:39,120
+infusion, right? So this
+is the concentration.
+
+186
+00:13:40,750 --> 00:13:45,990
+And the more you infuse,
+the more the filtered
+
+187
+00:13:45,990 --> 00:13:48,830
+load becomes. It
+keeps going on in a
+
+188
+00:13:48,830 --> 00:13:52,650
+linear manner. You can
+just say like in a 200,
+
+189
+00:13:53,180 --> 00:13:55,310
+in the first 10 minutes,
+
+190
+00:13:55,530 --> 00:13:59,270
+200 in, you know,
+it's basically exactly
+
+191
+00:13:59,270 --> 00:14:03,730
+the same amount per
+unit of time, constant
+
+192
+00:14:03,730 --> 00:14:08,630
+infusion. And you can
+see that the delivery
+
+193
+00:14:08,630 --> 00:14:13,290
+to the Bowman's
+capsule is also linear.
+
+194
+00:14:16,080 --> 00:14:18,550
+Once you get past
+the threshold,
+
+195
+00:14:18,550 --> 00:14:21,630
+though, the
+relationships change.
+
+196
+00:14:21,770 --> 00:14:28,670
+So the threshold is
+relatively low for infusion.
+
+197
+00:14:28,670 --> 00:14:32,710
+It's about 200 milligrams
+per deciliter, which
+
+198
+00:14:32,710 --> 00:14:36,470
+is higher than normal
+plasma glucose. Our plasma
+
+199
+00:14:36,470 --> 00:14:39,610
+glucose is around 100
+milligrams in a healthy
+
+200
+00:14:39,610 --> 00:14:49,150
+person going up to the
+high 100s before you
+
+201
+00:14:49,150 --> 00:14:54,350
+get to 200 if in a non
+-insulin-dependent person.
+
+202
+00:14:54,920 --> 00:14:59,810
+And that's partly why
+people are not diabetic
+
+203
+00:14:59,810 --> 00:15:03,050
+when insulin resistance
+or the lack of
+
+204
+00:15:03,050 --> 00:15:06,790
+insulin is ends up what's
+driving the increases
+
+205
+00:15:06,790 --> 00:15:09,830
+in plasma glucose,
+right? So healthy people
+
+206
+00:15:09,830 --> 00:15:12,270
+do not excrete any
+glucose in the urine.
+
+207
+00:15:12,410 --> 00:15:15,390
+But even people with
+diabetes mellitus,
+
+208
+00:15:15,730 --> 00:15:18,070
+the glucose urea doesn't really
+
+209
+00:15:19,370 --> 00:15:25,070
+occur until 200 milligrams
+per deciliter, until
+
+210
+00:15:25,070 --> 00:15:27,620
+the threshold. And this
+is the plasma threshold
+
+211
+00:15:28,390 --> 00:15:30,730
+that's indicated here.
+
+212
+00:15:32,850 --> 00:15:41,010
+And you could measure
+that because not only is
+
+213
+00:15:41,010 --> 00:15:44,830
+the urine, not only is
+glucose being infused,
+
+214
+00:15:45,050 --> 00:15:52,390
+but also glucose is being
+released in the urine,
+
+215
+00:15:52,390 --> 00:15:56,390
+being excreted at almost
+the same rate that
+
+216
+00:15:56,390 --> 00:15:58,990
+it is getting infused,
+until you get to the
+
+217
+00:15:58,990 --> 00:16:02,890
+threshold. Then you start
+getting a shift. And
+
+218
+00:16:02,890 --> 00:16:05,450
+the first part of it, as
+you go higher than the
+
+219
+00:16:06,690 --> 00:16:07,850
+threshold,
+
+220
+00:16:08,010 --> 00:16:14,930
+you start getting a change
+in the slope up until
+
+221
+00:16:15,510 --> 00:16:20,490
+around 400, where you
+reach a plateau. And this
+
+222
+00:16:20,490 --> 00:16:25,530
+plateau is called the
+transport maximum, the TM.
+
+223
+00:16:25,770 --> 00:16:32,970
+So glucose will hit its TM
+at around 400 milligrams per
+
+224
+00:16:32,970 --> 00:16:45,950
+minute. And this TM is an
+indicator that our apical
+
+225
+00:16:45,950 --> 00:16:51,070
+transporters are fully
+saturated, that there is no
+
+226
+00:16:51,070 --> 00:16:56,010
+available free transporters
+left. So any glucose that makes
+
+227
+00:16:56,010 --> 00:17:00,810
+it past the Bowman's capsule
+will end up remaining in
+
+228
+00:17:00,810 --> 00:17:04,490
+the nephron and being
+excreted. And if you remember,
+
+229
+00:17:06,660 --> 00:17:10,350
+the nephrons have
+very low capacity for
+
+230
+00:17:10,350 --> 00:17:13,590
+reabsorbing glucose
+after you leave the
+
+231
+00:17:13,590 --> 00:17:16,110
+proximal convoluted
+tubule. So that's why
+
+232
+00:17:16,110 --> 00:17:22,470
+you'll have glucose
+remaining in the urine.
+
+233
+00:17:23,430 --> 00:17:27,650
+There is a lot of
+differences among nephrons in
+
+234
+00:17:27,790 --> 00:17:30,850
+one person, within
+different kidneys, and of
+
+235
+00:17:30,850 --> 00:17:33,530
+course in the population.
+And the filtered load
+
+236
+00:17:33,530 --> 00:17:37,550
+of nephrons can be dependent
+on a lot of different
+
+237
+00:17:37,550 --> 00:17:42,250
+things. of densities
+of the SGLTs along the
+
+238
+00:17:42,250 --> 00:17:45,630
+proximal tubule, the
+size of the glomerulus.
+
+239
+00:17:45,830 --> 00:17:48,430
+Obviously, if you have
+more glomerulus, you'll,
+
+240
+00:17:48,430 --> 00:17:50,570
+you know, if you have a
+bigger glomerulus, you
+
+241
+00:17:50,570 --> 00:17:53,850
+have more surface area.
+So you have a more of a
+
+242
+00:17:53,850 --> 00:17:56,930
+filtered load and that
+filtered load, the higher
+
+243
+00:17:56,930 --> 00:17:59,690
+the filtered load can
+have different effects.
+
+244
+00:17:59,690 --> 00:18:02,250
+So there's a, you know,
+the person to person,
+
+245
+00:18:02,250 --> 00:18:06,150
+there's a, there's a big
+variability in the, um,
+
+246
+00:18:06,490 --> 00:18:10,210
+the, the, the
+mechanisms that are,
+
+247
+00:18:10,210 --> 00:18:12,270
+that, that, that
+affect glucose.
+
+248
+00:18:15,950 --> 00:18:18,650
+And that's really about,
+that's it, you know, that's
+
+249
+00:18:18,650 --> 00:18:20,790
+the final thing about
+glucose. So if we're going to
+
+250
+00:18:20,790 --> 00:18:26,010
+think about in terms of, uh,
+metabolites, uh, the next
+
+251
+00:18:27,090 --> 00:18:29,750
+Next, one that we have
+to look at that is very
+
+252
+00:18:29,750 --> 00:18:35,350
+important in context of
+renal function is urea.
+
+253
+00:18:35,350 --> 00:18:38,870
+And what is urea and
+where do we get urea from?
+
+254
+00:18:38,970 --> 00:18:42,850
+Well, urea is very important.
+
+255
+00:18:42,850 --> 00:18:47,110
+It's obviously the
+namesake of the hepatic
+
+256
+00:18:47,110 --> 00:18:50,770
+urea cycle, which is
+one of the main ways we
+
+257
+00:18:50,770 --> 00:18:56,710
+get rid of ammonium,
+ammonium ion in our body.
+
+258
+00:18:58,650 --> 00:19:03,790
+So an ammonium ion is the
+primary nitrogenous waste
+
+259
+00:19:03,790 --> 00:19:07,970
+of amino acid catabolism,
+the breakdown of amino
+
+260
+00:19:07,970 --> 00:19:13,310
+acids. In the urea cycle you
+can see here that urea can
+
+261
+00:19:13,310 --> 00:19:17,750
+bind with bicarbonate to
+give you ornithine, which
+
+262
+00:19:17,750 --> 00:19:20,890
+is an amino acid, but not
+an essential amino acid.
+
+263
+00:19:20,890 --> 00:19:23,870
+It's not really used that
+much in protein synthesis.
+
+264
+00:19:24,310 --> 00:19:26,230
+What it does, it gives up a
+
+265
+00:19:26,230 --> 00:19:31,250
+phosphate to turn
+into citrulline.
+
+266
+00:19:31,330 --> 00:19:34,730
+Citrulline is another amino
+acid, and citrulline will
+
+267
+00:19:34,730 --> 00:19:39,010
+leave the mitochondria and
+go into the Well, it'll
+
+268
+00:19:39,010 --> 00:19:47,690
+interact with aspartate to
+give you arginine. Arginine
+
+269
+00:19:47,690 --> 00:19:51,690
+is, you know, and arginine
+can either be metabolized
+
+270
+00:19:51,690 --> 00:19:56,190
+to urea or enter any kind
+of a synthetic pathway.
+
+271
+00:19:57,010 --> 00:20:01,470
+Another component of
+the breakdown of the
+
+272
+00:20:02,270 --> 00:20:05,090
+molecule that's made
+from aspartate and
+
+273
+00:20:05,090 --> 00:20:09,550
+citrulline, that is
+arginosuccinate, is fumarate,
+
+274
+00:20:09,550 --> 00:20:13,130
+and that enters the
+citric acid cycle,
+
+275
+00:20:13,620 --> 00:20:19,290
+and ornithine then can
+recycle back into the
+
+276
+00:20:19,290 --> 00:20:25,370
+mitochondria to re-enter
+the cycle again. And
+
+277
+00:20:25,370 --> 00:20:28,990
+so it just keeps its
+gives its own substrate in
+
+278
+00:20:28,990 --> 00:20:30,970
+order to drive it. And
+where would you get
+
+279
+00:20:30,970 --> 00:20:33,410
+ammonia from? Well,
+ammonia, you get it from
+
+280
+00:20:33,410 --> 00:20:36,170
+breakdown of amino acids,
+amino acid metabolism.
+
+281
+00:20:36,930 --> 00:20:39,520
+You know, glutamate
+is straightforward
+
+282
+00:20:40,420 --> 00:20:43,290
+biochemistry, but
+ammonium ion is a
+
+283
+00:20:43,290 --> 00:20:48,790
+big component of
+amino acid balance.
+
+284
+00:20:48,910 --> 00:20:52,110
+And you can see here,
+when you have something
+
+285
+00:20:52,110 --> 00:20:57,410
+like glutamic acid, it
+can get converted by
+
+286
+00:20:57,410 --> 00:21:00,050
+losing an ammonium to
+alpha-ketoglutarate.
+
+287
+00:21:00,110 --> 00:21:02,670
+If you remember, alpha
+-ketoglutarate can then
+
+288
+00:21:02,670 --> 00:21:05,610
+enter the Krebs cycle.
+If you add, you know,
+
+289
+00:21:05,730 --> 00:21:10,750
+if that today, I'm sorry,
+if you, or if you add
+
+290
+00:21:10,750 --> 00:21:12,950
+ammonium to alpha
+-ketoglutarate, You can make
+
+291
+00:21:12,950 --> 00:21:18,290
+glutamate, and then glutamate
+can be metabolized to
+
+292
+00:21:18,290 --> 00:21:22,570
+glutamine by another
+ammonium. Again, the point
+
+293
+00:21:22,570 --> 00:21:27,070
+is ammonium is a big part
+of amino acid balance.
+
+294
+00:21:31,550 --> 00:21:37,690
+So these products can
+change depending on the
+
+295
+00:21:37,690 --> 00:21:41,950
+availability of amino acids.
+So why is urea important?
+
+296
+00:21:42,360 --> 00:21:44,650
+Well, you know, first, a couple
+
+297
+00:21:44,650 --> 00:21:46,550
+of things. Urea is small,
+
+298
+00:21:46,670 --> 00:21:50,330
+60 Daltons. It's very polar,
+and it's water-soluble.
+
+299
+00:21:51,350 --> 00:21:54,350
+Normal plasma concentrations,
+we always have some
+
+300
+00:21:54,350 --> 00:22:00,450
+degree of urea in our blood.
+And again, because we're
+
+301
+00:22:00,450 --> 00:22:04,090
+constantly breaking down
+proteins, it's a waste
+
+302
+00:22:04,090 --> 00:22:09,150
+product to be excreted. and
+more so it is critical for
+
+303
+00:22:09,150 --> 00:22:12,730
+water regulation and salt
+reabsorption. I'll talk
+
+304
+00:22:12,730 --> 00:22:18,230
+about how urea is important
+in this process in the
+
+305
+00:22:18,230 --> 00:22:23,710
+lecture about concentration
+ability of the kidney.
+
+306
+00:22:23,800 --> 00:22:27,130
+The primary route of
+excretion is in the
+
+307
+00:22:27,130 --> 00:22:30,290
+urine. There's some
+via sweat and stool.
+
+308
+00:22:32,450 --> 00:22:35,270
+It's freely filtered
+at the glomerulus,
+
+309
+00:22:35,270 --> 00:22:38,930
+100%. You reabsorb
+a lot of it, and
+
+310
+00:22:38,930 --> 00:22:41,470
+then you secrete a
+substantial amount.
+
+311
+00:22:41,750 --> 00:22:46,570
+So reabsorbed, then they
+secrete. So the amount
+
+312
+00:22:46,570 --> 00:22:50,910
+that we always find in
+the urine is more than the
+
+313
+00:22:50,910 --> 00:22:54,050
+amount filtered because of
+that secreted component.
+
+314
+00:22:54,610 --> 00:22:57,550
+Normal levels of urea
+are not toxic because
+
+315
+00:22:57,550 --> 00:23:00,310
+we measure it, and we
+measure it in our blood
+
+316
+00:23:00,310 --> 00:23:03,610
+as blood urea, not
+nitrogen. That's one of
+
+317
+00:23:03,610 --> 00:23:07,810
+the important, and it's
+one of the important
+
+318
+00:23:08,990 --> 00:23:13,210
+components of a basic
+metabolic panel. You probably
+
+319
+00:23:13,210 --> 00:23:16,450
+remember that probably
+from some of your CBL
+
+320
+00:23:16,450 --> 00:23:19,570
+-calsic cases. And you can
+see that it's very much
+
+321
+00:23:19,570 --> 00:23:23,130
+dependent. It's a very,
+you get a big range of
+
+322
+00:23:23,130 --> 00:23:27,510
+BUN values. So I can't
+think of anything else that
+
+323
+00:23:27,510 --> 00:23:32,210
+can double in terms of
+laboratory diagnostics.
+
+324
+00:23:32,590 --> 00:23:35,990
+You can correct me, but
+right off the top of
+
+325
+00:23:35,990 --> 00:23:37,590
+my head, I can't think
+of anything that if
+
+326
+00:23:37,590 --> 00:23:41,670
+you double the lowest
+amount, you won't have.
+
+327
+00:23:41,790 --> 00:23:44,810
+It's not considered
+pathological, right even
+
+328
+00:23:44,810 --> 00:23:49,250
+potassium if you have 4.4
+milligrams per deciliter
+
+329
+00:23:49,250 --> 00:23:53,450
+um and you double it you
+know 8.8 that's dangerous
+
+330
+00:23:53,450 --> 00:23:56,350
+you don't want to have
+that high sodium you know
+
+331
+00:23:56,350 --> 00:23:59,450
+if you have 110 if you
+go to 220 that's high you
+
+332
+00:23:59,450 --> 00:24:02,530
+don't want that um but
+not so much with bun but
+
+333
+00:24:02,530 --> 00:24:06,650
+bun you have a um large
+standard deviation you
+
+334
+00:24:06,650 --> 00:24:11,690
+have a large amount that
+that you can um that you
+
+335
+00:24:11,690 --> 00:24:15,430
+can manipulate and um
+mainly because, you know,
+
+336
+00:24:15,790 --> 00:24:18,230
+again, you can make a
+lot of it and get rid of
+
+337
+00:24:18,230 --> 00:24:22,310
+it and or reuse it. So
+it's the control that's
+
+338
+00:24:22,310 --> 00:24:25,550
+based on the amounts
+that it's metabolized.
+
+339
+00:24:31,390 --> 00:24:32,990
+So as you can see,
+
+340
+00:24:33,510 --> 00:24:40,660
+the majority, a large part
+of the filtered load of urea
+
+341
+00:24:41,430 --> 00:24:45,190
+is reabsorbed in the proximal
+convoluted tubule, not
+
+342
+00:24:45,190 --> 00:24:49,190
+so much as you would find
+with bicarbonate or glucose.
+
+343
+00:24:49,190 --> 00:24:51,650
+Bicarbonate and glucose
+are almost completely
+
+344
+00:24:51,650 --> 00:24:57,470
+reabsorbed. Urea is about
+50% of it reabsorbed, but a
+
+345
+00:24:57,470 --> 00:25:03,090
+substantial amount is secreted
+back into the nephron, and
+
+346
+00:25:03,090 --> 00:25:09,410
+then whatever is left is
+reabsorbed in the medullary
+
+347
+00:25:09,410 --> 00:25:15,050
+collecting duct to the point
+that the amount of urea found
+
+348
+00:25:15,050 --> 00:25:19,850
+in urine is about 50% of
+the filtered load of urea.
+
+349
+00:25:26,450 --> 00:25:32,090
+Reabsorption is done
+by the concentration
+
+350
+00:25:32,090 --> 00:25:39,070
+gradient, and that
+is what drives most,
+
+351
+00:25:39,150 --> 00:25:43,370
+almost, that's what
+drives urea reabsorption.
+
+352
+00:25:43,840 --> 00:25:46,690
+Some of the things that can
+affect reabsorption like
+
+353
+00:25:46,690 --> 00:25:53,410
+potassium, like sodium,
+changes in urine flow are very,
+
+354
+00:25:53,410 --> 00:25:59,030
+very important. So the more
+urine flow you have, the
+
+355
+00:25:59,030 --> 00:26:02,050
+higher your urea excretion.
+That could, you know, that
+
+356
+00:26:02,050 --> 00:26:03,990
+could be seen clinically.
+It's one of the things
+
+357
+00:26:03,990 --> 00:26:11,450
+that you would see with if
+there is excesses in BUN above
+
+358
+00:26:11,450 --> 00:26:18,630
+the normal ranges. A simple
+way is to give somebody
+
+359
+00:26:18,630 --> 00:26:21,850
+an IV and hydrate them and
+increase the urine flow.
+
+360
+00:26:21,850 --> 00:26:25,270
+And if you increase urine
+flow, you end up reabsorbing
+
+361
+00:26:27,830 --> 00:26:32,730
+less water and urea, and
+you can filter a lot more.
+
+362
+00:26:32,990 --> 00:26:37,290
+And vice versa is when
+you have decreased
+
+363
+00:26:38,030 --> 00:26:40,990
+urine flow. If you
+have progressive renal
+
+364
+00:26:40,990 --> 00:26:45,870
+disease, if you're severely
+dehydrated, and your
+
+365
+00:26:45,870 --> 00:26:48,830
+renal blood flow and
+GFR drop, and then urine
+
+366
+00:26:48,830 --> 00:26:53,030
+flow drops, you can
+have urea retention, and
+
+367
+00:26:53,030 --> 00:26:56,710
+then increases in blood,
+urea, and nitrogen.
+
+368
+00:26:58,710 --> 00:27:04,250
+So what are the
+transport mechanisms?
+
+369
+00:27:07,950 --> 00:27:10,970
+In the proximal tubule,
+it's paracellular.
+
+370
+00:27:11,190 --> 00:27:13,970
+It's either done by solvent
+
+371
+00:27:13,970 --> 00:27:16,070
+drag, piggybacking on water,
+
+372
+00:27:19,970 --> 00:27:24,250
+or the concentration gradient
+
+373
+00:27:24,250 --> 00:27:28,190
+of urea compared to plasma.
+
+374
+00:27:28,190 --> 00:27:35,730
+So you get a favorable
+gradient to promote uptake.
+
+375
+00:27:38,070 --> 00:27:42,490
+into thin descending limb
+and ascending limb, an
+
+376
+00:27:42,490 --> 00:27:44,850
+equal amount that's
+reabsorbed is secreted back
+
+377
+00:27:44,850 --> 00:27:49,670
+into the loop of Henle. And
+this is done translatorly.
+
+378
+00:27:52,510 --> 00:27:56,530
+So I flipped these
+around. So pay attention
+
+379
+00:27:56,530 --> 00:27:59,510
+to this one. So I didn't
+put it on the same side.
+
+380
+00:28:00,730 --> 00:28:03,090
+Maybe I should have.
+I'm not, I didn't do
+
+381
+00:28:03,090 --> 00:28:06,750
+it to make you confused.
+But in this case,
+
+382
+00:28:06,750 --> 00:28:08,470
+this is a secretion,
+right? Because it's
+
+383
+00:28:08,470 --> 00:28:10,830
+going from basal
+lateral to interstitial.
+
+384
+00:28:11,270 --> 00:28:14,630
+It does so by one characterized
+
+385
+00:28:14,630 --> 00:28:16,450
+and one mysterious way.
+
+386
+00:28:16,590 --> 00:28:21,450
+Urea goes from the
+basal side into the
+
+387
+00:28:21,450 --> 00:28:25,870
+cell via this UTA2
+urea transporter
+
+388
+00:28:27,550 --> 00:28:30,700
+family of proteins. And
+then once inside the,
+
+389
+00:28:30,700 --> 00:28:33,770
+in the cytosol, then
+again, it will go out
+
+390
+00:28:34,390 --> 00:28:40,190
+into the urine by,
+by another member of,
+
+391
+00:28:40,190 --> 00:28:43,630
+of this family of
+transporters, the UTA2.
+
+392
+00:28:43,650 --> 00:28:47,710
+The other one is a mystery,
+and really nobody really
+
+393
+00:28:47,710 --> 00:28:52,410
+knows how. How do we
+know? It's, um it's a
+
+394
+00:28:52,410 --> 00:28:57,930
+transporter it exhibits
+saturation kinetics and similar
+
+395
+00:28:57,930 --> 00:29:03,890
+hallmarks to what we saw
+with glucose so the rest
+
+396
+00:29:03,890 --> 00:29:06,690
+of the reabsorption occurs
+in the collecting duct
+
+397
+00:29:06,690 --> 00:29:10,590
+again that's also transcellular
+and we're going back
+
+398
+00:29:10,590 --> 00:29:14,560
+to the normal luminal
+versus basolateral this is
+
+399
+00:29:14,560 --> 00:29:17,170
+reabsorption right so
+whenever we're talking about
+
+400
+00:29:17,170 --> 00:29:20,650
+luminal to basolateral
+we're talking reabsorption
+
+401
+00:29:20,650 --> 00:29:26,020
+And again, it uses one of
+these urea transporters,
+
+402
+00:29:26,510 --> 00:29:33,970
+UTA1, to get into the
+cytosol, and then UTA3 to
+
+403
+00:29:33,970 --> 00:29:37,290
+leave the cytosol and go
+into the interstitial.
+
+404
+00:29:39,150 --> 00:29:42,630
+So normal urine flow
+and hydration status,
+
+405
+00:29:42,630 --> 00:29:45,390
+it's 50% of the
+filter load, but that
+
+406
+00:29:45,390 --> 00:29:48,910
+changes depending on
+those two variables.
+
+407
+00:29:51,770 --> 00:29:55,070
+So that's one product that
+you can find from amino
+
+408
+00:29:55,070 --> 00:29:58,310
+acids. What about amino
+acids themselves? What
+
+409
+00:29:58,310 --> 00:30:02,790
+about non-metabolized amino
+acids? We do have amino
+
+410
+00:30:03,130 --> 00:30:06,370
+acids in our blood, around
+2.5 millimolar is the
+
+411
+00:30:06,370 --> 00:30:11,570
+average concentration you
+find in the plasma, and
+
+412
+00:30:11,570 --> 00:30:15,390
+this is mostly due to
+absorption by the GI tract.
+
+413
+00:30:16,370 --> 00:30:20,490
+Other parts of it are
+either, you know, products
+
+414
+00:30:20,490 --> 00:30:24,270
+of protein catabolism,
+or if you have de novo
+
+415
+00:30:24,270 --> 00:30:27,150
+synthesis of non-essential
+amino acids. Remember,
+
+416
+00:30:27,330 --> 00:30:30,630
+essential talks about its
+ability to behave through
+
+417
+00:30:31,910 --> 00:30:33,390
+the diet.
+
+418
+00:30:36,590 --> 00:30:41,510
+Amino acids are freely
+filtered into glomerulus, and
+
+419
+00:30:41,510 --> 00:30:44,970
+they are also reabsorbed to
+a very high degree. Again,
+
+420
+00:30:44,970 --> 00:30:49,150
+100% filtered load in our
+Bowman's capsule. Almost
+
+421
+00:30:49,150 --> 00:30:52,650
+all of it is reabsorbed
+in the proximal convoluted
+
+422
+00:30:52,650 --> 00:30:57,430
+tubule, 99% more. So by the
+time you get to the urine,
+
+423
+00:30:58,190 --> 00:31:02,410
+it's almost nothing left.
+There are small amounts in
+
+424
+00:31:02,410 --> 00:31:05,870
+the collecting tubule, in
+the medullary collecting
+
+425
+00:31:05,870 --> 00:31:10,770
+ducts, and in the thin
+descending limb, but the lion's
+
+426
+00:31:10,770 --> 00:31:14,490
+share occurs in the proximal
+convoluted tubule. And
+
+427
+00:31:14,490 --> 00:31:17,790
+it's done so by a variety
+of different transporters
+
+428
+00:31:20,630 --> 00:31:25,030
+and transcellular roots.
+And I have them indicated
+
+429
+00:31:25,030 --> 00:31:27,990
+here. I'm not going to go
+through each one. As you
+
+430
+00:31:27,990 --> 00:31:33,790
+can see, they all will
+depend on the concentration
+
+431
+00:31:33,790 --> 00:31:38,590
+gradient of sodium to get
+into the cell, right? Again,
+
+432
+00:31:38,730 --> 00:31:41,610
+our sodium potassium ATPase is
+
+433
+00:31:41,610 --> 00:31:45,210
+what gives us the
+sodium gradient,
+
+434
+00:31:45,390 --> 00:31:49,470
+low inside, high outside,
+and then amino acids, either
+
+435
+00:31:49,470 --> 00:31:56,950
+co-transporters or counterporters
+will cause the, you
+
+436
+00:31:56,950 --> 00:32:02,710
+know, will stimulate the
+reabsorption of amino acids.
+
+437
+00:32:02,710 --> 00:32:07,570
+And then the amino acids
+are then moved into the The
+
+438
+00:32:07,570 --> 00:32:11,670
+basolateral side, so either
+co-transporters, channels,
+
+439
+00:32:11,670 --> 00:32:14,970
+or, you know, or different
+antiporters. Again,
+
+440
+00:32:15,010 --> 00:32:19,270
+knowing the individual ones
+is not as important as knowing
+
+441
+00:32:19,270 --> 00:32:23,590
+that it's the sodium gradient
+is what drives almost
+
+442
+00:32:23,590 --> 00:32:26,610
+everything in this context.
+I mean, the only one that
+
+443
+00:32:26,610 --> 00:32:30,010
+you can probably say doesn't
+are these channels for
+
+444
+00:32:30,010 --> 00:32:35,050
+phenylalanine, tryptophan,
+and tyrosine. but again
+
+445
+00:32:35,240 --> 00:32:38,210
+nobody expects you to know
+the distinction between the
+
+446
+00:32:38,210 --> 00:32:42,150
+different amino acids and
+how they get from the luminal
+
+447
+00:32:42,150 --> 00:32:46,750
+side into the interstitial
+side unless you decide to
+
+448
+00:32:46,860 --> 00:32:49,075
+you know go and study tubular
+
+449
+00:32:50,690 --> 00:32:52,510
+mechanisms of reabsorption
+
+450
+00:32:53,070 --> 00:32:56,110
+and which is a lot
+of fun but again
+
+451
+00:32:56,110 --> 00:32:57,910
+that's not neither
+here or there
+
+452
+00:33:00,050 --> 00:33:03,290
+So amino acids, what's
+one level above amino
+
+453
+00:33:03,290 --> 00:33:06,470
+acids? Well, oligopeptides.
+And these are not
+
+454
+00:33:06,470 --> 00:33:10,530
+proteins. These are multi
+-amino acid, you know,
+
+455
+00:33:12,450 --> 00:33:16,590
+peptides, anywhere
+between 2 to 20 residues
+
+456
+00:33:16,590 --> 00:33:19,290
+of amino acids. And
+you find a lot of
+
+457
+00:33:19,290 --> 00:33:20,700
+them, you know, a
+lot of our hormones,
+
+458
+00:33:21,390 --> 00:33:24,150
+vasoactive hormones are
+
+459
+00:33:26,630 --> 00:33:29,640
+for chain peptides.
+
+460
+00:33:32,390 --> 00:33:36,840
+Glutathione, which is a
+major antioxidant molecule
+
+461
+00:33:39,330 --> 00:33:42,850
+in our body, is a, you
+know, a three amino acid
+
+462
+00:33:42,850 --> 00:33:46,950
+peptide. So there are a
+lot of oligopeptides in the
+
+463
+00:33:46,950 --> 00:33:54,200
+plasma. And again, so
+they get filtered and they
+
+464
+00:33:54,630 --> 00:33:57,750
+are small enough to get
+through the charge barrier
+
+465
+00:33:59,110 --> 00:34:02,670
+and they have to get
+reabsorbed. And again, the
+
+466
+00:34:02,670 --> 00:34:07,070
+proximal convoluted tubule
+does, you know, more
+
+467
+00:34:07,070 --> 00:34:11,530
+than 99% of the filtered
+load of oligopeptides
+
+468
+00:34:11,530 --> 00:34:16,830
+and the rest of it is
+reabsorbed in the proximal
+
+469
+00:34:18,070 --> 00:34:21,770
+straight tubule, and
+the rest of the nephrons
+
+470
+00:34:21,770 --> 00:34:25,470
+contribute very little
+to peptide transport.
+
+471
+00:34:26,010 --> 00:34:27,890
+Now, how does this work?
+
+472
+00:34:28,050 --> 00:34:35,110
+Two different mechanisms.
+The first one requires its
+
+473
+00:34:35,110 --> 00:34:41,630
+metabolism to amino acids.
+And this happens by the
+
+474
+00:34:41,630 --> 00:34:46,330
+actions of brush border
+peptidases. Now you remember our
+
+475
+00:34:46,330 --> 00:34:49,550
+brush borders on them? You
+can have, you can see the
+
+476
+00:34:49,550 --> 00:34:52,850
+huge surface area that one
+sees on the brush border.
+
+477
+00:34:52,850 --> 00:34:57,130
+And imagine all these
+peptidases that are facing the
+
+478
+00:34:57,130 --> 00:35:02,650
+urine. And here it'll take
+the peptides and metabolize
+
+479
+00:35:02,650 --> 00:35:05,870
+them and breaks them
+apart into smaller pieces.
+
+480
+00:35:05,870 --> 00:35:09,270
+Now, these are a lot of
+different types of peptidases.
+
+481
+00:35:10,210 --> 00:35:13,890
+Imminopeptidases,
+endopeptidase, dipeptidase,
+
+482
+00:35:13,890 --> 00:35:17,080
+eggs. There's just a
+lot of them. And so
+
+483
+00:35:17,410 --> 00:35:19,930
+many of them that they
+actually don't even name
+
+484
+00:35:19,930 --> 00:35:21,920
+them. They just have
+letter designations.
+
+485
+00:35:22,930 --> 00:35:26,770
+And they will break the
+oligopeptide to their small
+
+486
+00:35:26,770 --> 00:35:30,010
+individual, to their individual
+amino acid components,
+
+487
+00:35:30,010 --> 00:35:32,770
+and then the amino acid
+will just jump in on the
+
+488
+00:35:32,770 --> 00:35:36,110
+amino acid transporter,
+the sodium amino acid
+
+489
+00:35:36,110 --> 00:35:44,030
+transporters, and get located
+into the cytosol and then
+
+490
+00:35:44,030 --> 00:35:51,470
+leaves the cytosol via
+different amino acid channels.
+
+491
+00:35:52,090 --> 00:35:56,190
+The other way is the
+peptidase is inside
+
+492
+00:35:56,190 --> 00:36:00,610
+the cell, and the
+oligopeptide will, in
+
+493
+00:36:00,610 --> 00:36:05,250
+this case, sorry,
+that's really horrible,
+
+494
+00:36:05,410 --> 00:36:08,070
+but yeah, I apologize for that.
+
+495
+00:36:08,630 --> 00:36:10,730
+The oligopeptide
+gets into the cell
+
+496
+00:36:10,730 --> 00:36:12,600
+via a transporter,
+an oligopeptide
+
+497
+00:36:13,750 --> 00:36:18,570
+proton co-transporter
+called PEPT1 or PEPT2,
+
+498
+00:36:18,570 --> 00:36:22,470
+and inside the cell,
+you have intercellular
+
+499
+00:36:22,470 --> 00:36:24,810
+peptidases that will
+break it apart, and
+
+500
+00:36:24,810 --> 00:36:26,910
+then the amino acid will
+then leave the cell.
+
+501
+00:36:27,110 --> 00:36:30,390
+So PEPT1 is a low
+affinity, high capacity
+
+502
+00:36:30,390 --> 00:36:35,090
+transporter, and PEPT2 is a
+high affinity, low capacity
+
+503
+00:36:35,090 --> 00:36:37,670
+transporter. It binds
+really well because there's
+
+504
+00:36:37,670 --> 00:36:42,470
+so little oligopeptides
+getting in. And PEPT1
+
+505
+00:36:42,610 --> 00:36:49,390
+is, will bind a lot
+of different types of
+
+506
+00:36:49,390 --> 00:36:54,610
+oligopeptides. So all of it
+will lead to amino acids.
+
+507
+00:36:55,190 --> 00:36:59,470
+And, and which ones
+get digested in the
+
+508
+00:36:59,470 --> 00:37:02,770
+lumen versus the ones
+that get into the cell,
+
+509
+00:37:02,770 --> 00:37:04,970
+that is really not
+something that's known.
+
+510
+00:37:07,250 --> 00:37:11,710
+So breakdown of amino
+acids, amino acids,
+
+511
+00:37:12,150 --> 00:37:14,990
+oligopeptides. How
+about proteins? Well,
+
+512
+00:37:15,370 --> 00:37:18,380
+the GFR, the
+glomerification barrier
+
+513
+00:37:20,490 --> 00:37:22,530
+prevents the filtration
+of large amounts
+
+514
+00:37:22,530 --> 00:37:26,310
+of protein, especially
+larger proteins.
+
+515
+00:37:27,230 --> 00:37:30,670
+So it doesn't eliminate it.
+
+516
+00:37:30,790 --> 00:37:35,290
+You just have very, very
+little getting through.
+
+517
+00:37:36,110 --> 00:37:39,830
+So, you know, when it
+comes to large proteins,
+
+518
+00:37:39,830 --> 00:37:42,050
+and remember, albumin
+is the largest, is one
+
+519
+00:37:42,050 --> 00:37:44,650
+of the larger ones, and
+it's also more, one of
+
+520
+00:37:44,650 --> 00:37:49,900
+the, you know, more
+abundant plasma proteins,
+
+521
+00:37:50,170 --> 00:37:57,210
+96, 99% of it is
+reabsorbed in the proximal
+
+522
+00:37:57,210 --> 00:37:59,290
+convoluted tubing.
+So you have very
+
+523
+00:37:59,290 --> 00:38:03,110
+little in the urine,
+but it's not zero.
+
+524
+00:38:06,890 --> 00:38:09,530
+They also, again,
+that's one of the bigger
+
+525
+00:38:09,530 --> 00:38:12,710
+ones, low molecular
+rate proteins are also
+
+526
+00:38:14,090 --> 00:38:16,090
+reabsorbed. And how they're
+
+527
+00:38:16,090 --> 00:38:19,090
+reabsorbed is not
+through channels.
+
+528
+00:38:20,120 --> 00:38:25,830
+It's done by a mechanism,
+is by endocytosis and
+
+529
+00:38:25,830 --> 00:38:29,670
+specifically receptor
+mediated endocytosis to
+
+530
+00:38:29,670 --> 00:38:35,730
+reabsorb the proteins and
+polypeptides. And again, it
+
+531
+00:38:35,730 --> 00:38:37,550
+occurs in the proximal
+convoluted tumor because
+
+532
+00:38:37,550 --> 00:38:42,550
+we have such a large surface
+area. So what happens?
+
+533
+00:38:42,550 --> 00:38:46,430
+Any kind of protein
+that gets filtered, that
+
+534
+00:38:46,430 --> 00:38:50,090
+makes it through the
+glomerular filtration barrier,
+
+535
+00:38:50,090 --> 00:38:58,570
+will interact through
+different areas, different
+
+536
+00:38:58,570 --> 00:39:04,490
+parts of the sequence
+to specific areas on the
+
+537
+00:39:04,490 --> 00:39:08,950
+plasma membrane. And these
+are called coded pits.
+
+538
+00:39:09,950 --> 00:39:14,050
+And one of the more common
+ones is a clathrin-coated
+
+539
+00:39:14,050 --> 00:39:20,760
+pit, which is important
+for protein reabsorption.
+
+540
+00:39:21,170 --> 00:39:25,870
+So once the protein binds
+to this coated pit, it
+
+541
+00:39:25,870 --> 00:39:29,390
+gets internalized. The pit
+will basically invaginate,
+
+542
+00:39:30,220 --> 00:39:33,590
+bind, and take the protein
+and everything with it
+
+543
+00:39:33,590 --> 00:39:39,390
+into the cell. There, it'll
+bind with an endosome,
+
+544
+00:39:39,390 --> 00:39:45,950
+and then with a lysosome,
+and all of them together,
+
+545
+00:39:47,730 --> 00:39:50,690
+you know, especially
+things like lysosome,
+
+546
+00:39:50,690 --> 00:39:55,290
+where you have a higher
+pH, and peptidases will
+
+547
+00:39:55,290 --> 00:40:00,490
+start breaking apart
+the protein and then
+
+548
+00:40:00,490 --> 00:40:04,490
+releasing the individual
+amino acids into the
+
+549
+00:40:04,490 --> 00:40:08,770
+cytosol. Well, they'll
+get reabsorbed back into,
+
+550
+00:40:08,910 --> 00:40:12,870
+back into the
+interstitial space.
+
+551
+00:40:12,970 --> 00:40:18,190
+Because it requires,
+you know, membrane,
+
+552
+00:40:18,270 --> 00:40:22,130
+you know, formation, vesicular
+formation, Internalization,
+
+553
+00:40:22,800 --> 00:40:30,690
+that's energy of using
+process, and cell movement
+
+554
+00:40:30,690 --> 00:40:33,710
+is always microtubular
+involved. So any kind of a
+
+555
+00:40:33,710 --> 00:40:38,710
+metabolic poison that inhibits
+those pathways will stop
+
+556
+00:40:38,710 --> 00:40:43,750
+the reabsorption of large
+proteins. So either metabolic
+
+557
+00:40:43,750 --> 00:40:51,190
+inhibitors or these mycotoxins
+like cytocholacin B.
+
+558
+00:40:52,030 --> 00:40:56,170
+Cytocholacin B is a fungal
+alkaloid that will basically
+
+559
+00:40:56,170 --> 00:41:03,050
+stop any kind of microtubular
+-associated movement.
+
+560
+00:41:05,830 --> 00:41:10,050
+So those can, you know,
+
+561
+00:41:10,510 --> 00:41:14,070
+block this effect, and you
+will see substantial amounts
+
+562
+00:41:14,070 --> 00:41:19,190
+of protein in the urine.
+Now, you can see that in
+
+563
+00:41:19,190 --> 00:41:23,710
+people if they go foraging
+for mushrooms, and if they,
+
+564
+00:41:24,110 --> 00:41:26,970
+you know, will eat
+a look-alike that
+
+565
+00:41:26,970 --> 00:41:28,330
+they don't know,
+and they'll have all
+
+566
+00:41:28,330 --> 00:41:31,090
+these, you know,
+horrible effects.
+
+567
+00:41:31,570 --> 00:41:34,610
+But one of the, you know, modes
+
+568
+00:41:34,610 --> 00:41:36,670
+of diagnosis is like looking at
+
+569
+00:41:37,350 --> 00:41:39,570
+proteinuria to give you an
+
+570
+00:41:39,570 --> 00:41:41,810
+idea of where the damage is.
+
+571
+00:41:46,430 --> 00:41:50,370
+So, these are the
+specific metabolites, but
+
+572
+00:41:50,370 --> 00:41:53,210
+I wanted to talk about
+these two systems that
+
+573
+00:41:53,210 --> 00:41:58,000
+are very, very important
+in the kidney for
+
+574
+00:41:58,000 --> 00:42:03,990
+either secretion or
+reabsorption of classes of
+
+575
+00:42:05,170 --> 00:42:08,210
+compounds. And these
+are the organic acid
+
+576
+00:42:08,210 --> 00:42:10,950
+and the organic base
+secretory systems.
+
+577
+00:42:11,870 --> 00:42:15,170
+So what happens, any
+kind of an organic
+
+578
+00:42:15,170 --> 00:42:20,810
+acid, anything that
+RCO negative, you know,
+
+579
+00:42:20,870 --> 00:42:24,350
+and it doesn't matter
+what the R is, what
+
+580
+00:42:24,350 --> 00:42:26,690
+the R group is, you
+know, if it's got a
+
+581
+00:42:28,410 --> 00:42:31,230
+acidic moiety, that's
+considered to be
+
+582
+00:42:31,230 --> 00:42:33,330
+an organic acid.
+That could be an
+
+583
+00:42:33,330 --> 00:42:35,810
+endogenous compound,
+it could be a drug,
+
+584
+00:42:35,990 --> 00:42:37,970
+you know, these are all
+
+585
+00:42:37,970 --> 00:42:40,790
+become, will get secreted into,
+
+586
+00:42:41,050 --> 00:42:45,730
+filtered and then secreted
+into the lumen and
+
+587
+00:42:45,730 --> 00:42:48,990
+reabsorbed, all very
+much dependent on what
+
+588
+00:42:48,990 --> 00:42:53,310
+you're talking about. But
+a lot of these organic
+
+589
+00:42:53,310 --> 00:42:56,450
+acids are products of
+metabolite and glucose,
+
+590
+00:42:56,450 --> 00:42:59,610
+fatty acid metabolism,
+so getting them back
+
+591
+00:42:59,610 --> 00:43:03,050
+is very important for
+energy metabolism.
+
+592
+00:43:04,330 --> 00:43:06,010
+And basically,
+
+593
+00:43:07,630 --> 00:43:10,050
+you know, call them
+carboxylate, anything that's
+
+594
+00:43:10,050 --> 00:43:15,970
+got a carboxylate. And
+And it has a key M,
+
+595
+00:43:16,150 --> 00:43:23,090
+so when these compounds
+hit their membrane limit,
+
+596
+00:43:23,150 --> 00:43:29,750
+you can have, you'll find
+remnants of them in the
+
+597
+00:43:29,750 --> 00:43:35,900
+urine. Ketone bodies are
+organic acids that are
+
+598
+00:43:35,900 --> 00:43:40,990
+the result of fatty acid
+metabolism, and you can
+
+599
+00:43:40,990 --> 00:43:44,930
+detect them in the urine
+if you have excess fatty
+
+600
+00:43:44,930 --> 00:43:49,910
+acid breakdown, which
+can happen in glucose, in
+
+601
+00:43:49,910 --> 00:43:53,590
+diabetes. It can also
+happen in severe exercise.
+
+602
+00:43:53,590 --> 00:43:56,450
+You can, you know, you become
+
+603
+00:43:56,550 --> 00:43:58,330
+ketotic. This is what happens.
+
+604
+00:44:00,000 --> 00:44:02,740
+So you don't have to
+know the individual ones.
+
+605
+00:44:02,740 --> 00:44:06,830
+It's just a system.
+So these are done by a
+
+606
+00:44:06,830 --> 00:44:11,330
+variety of different solute
+carriers, both on the
+
+607
+00:44:11,330 --> 00:44:16,170
+apical and on the basolateral
+side. And depending
+
+608
+00:44:16,170 --> 00:44:18,710
+on which one it is,
+they can go either way.
+
+609
+00:44:22,330 --> 00:44:26,010
+And they overlap in their
+substrate specificity.
+
+610
+00:44:26,010 --> 00:44:28,230
+So they're very non
+-selective. Again, as
+
+611
+00:44:28,230 --> 00:44:35,110
+long as it's an organic
+acid and you have to
+
+612
+00:44:35,110 --> 00:44:37,490
+excrete it, it will go
+through these systems.
+
+613
+00:44:37,750 --> 00:44:40,210
+One of them is one of
+the common ones that we
+
+614
+00:44:40,210 --> 00:44:44,510
+can use to measure renal
+function is para-aminohipurate,
+
+615
+00:44:44,510 --> 00:44:46,810
+PAH, and you've
+talked about that in
+
+616
+00:44:46,810 --> 00:44:51,590
+concept of clearance.
+It's a water, it's a water
+
+617
+00:44:51,930 --> 00:44:56,470
+-soluble organic anion or
+organic, you know, acid,
+
+618
+00:44:56,470 --> 00:44:58,130
+they're synonymous, right?
+
+619
+00:44:58,270 --> 00:45:02,610
+OA, it works, right? Organic
+acid secretory system
+
+620
+00:45:02,610 --> 00:45:05,710
+or, you know, organic
+anion secretory system.
+
+621
+00:45:07,950 --> 00:45:12,510
+And at low plasma
+concentrations, we can
+
+622
+00:45:12,510 --> 00:45:15,930
+use PAH experimentally
+to measure renal
+
+623
+00:45:15,930 --> 00:45:18,670
+plasma flow, and it
+will actually give you a
+
+624
+00:45:18,670 --> 00:45:21,270
+value called effective
+renal plasma flow.
+
+625
+00:45:23,970 --> 00:45:29,330
+So another type of organic
+acid that's also excreted
+
+626
+00:45:31,130 --> 00:45:37,210
+is uric acid. Uric acid
+also will jump on a
+
+627
+00:45:37,210 --> 00:45:41,150
+lot of these transporters,
+but these organic
+
+628
+00:45:41,150 --> 00:45:44,150
+acid transporters, the
+oats. Again, there's
+
+629
+00:45:44,150 --> 00:45:45,970
+a lot of them. You
+don't have to know them.
+
+630
+00:45:46,930 --> 00:45:49,850
+But again, you know, uric acid
+
+631
+00:45:49,850 --> 00:45:52,170
+undergoes both reabsorption
+
+632
+00:45:53,610 --> 00:45:57,470
+and secretion. You can see
+the secretion down here.
+
+633
+00:45:58,270 --> 00:45:59,270
+So
+
+634
+00:46:01,030 --> 00:46:07,010
+there is a ATP-dependent
+uric acid transporter.
+
+635
+00:46:07,570 --> 00:46:10,530
+You can see this
+here, the BCRP.
+
+636
+00:46:11,450 --> 00:46:15,990
+The BCRP will take
+your uric acid from the
+
+637
+00:46:15,990 --> 00:46:20,090
+cytosol and push it
+into the urine. There
+
+638
+00:46:20,090 --> 00:46:26,350
+is an uncharacterized
+pathway also called
+
+639
+00:46:26,350 --> 00:46:30,170
+NPT-104 using a
+transporter called NPT-104
+
+640
+00:46:30,220 --> 00:46:36,550
+and MRP. These are all
+secretory mechanisms. The
+
+641
+00:46:36,550 --> 00:46:40,150
+reabsorption happens through
+OATS and through this
+
+642
+00:46:40,150 --> 00:46:43,430
+uric acid transporter,
+and then the uric acid
+
+643
+00:46:43,430 --> 00:46:47,410
+transporter, one of the
+variations of it ends up removing
+
+644
+00:46:48,410 --> 00:46:53,110
+uric acid and taking it
+back into the plasma.
+
+645
+00:46:57,880 --> 00:47:00,800
+Those are the acids. What
+about the bases? Well, the
+
+646
+00:47:00,800 --> 00:47:07,660
+organic, there is a system
+very similar, and it's
+
+647
+00:47:07,720 --> 00:47:13,840
+not as extensive. So you
+have, again, 100% of it is in
+
+648
+00:47:13,840 --> 00:47:16,540
+the filtered load, and a
+variable amount of organic
+
+649
+00:47:16,540 --> 00:47:24,980
+bases get secreted into the
+nephron. And these could
+
+650
+00:47:24,980 --> 00:47:29,740
+be organic, and again, I've
+said organic base secretory
+
+651
+00:47:29,740 --> 00:47:34,140
+system. It could also be,
+it's also called organic,
+
+652
+00:47:34,280 --> 00:47:39,440
+as I call it, yeah, it
+should be OB, I'm sorry,
+
+653
+00:47:40,280 --> 00:47:41,860
+OBSS.
+
+654
+00:47:46,430 --> 00:47:49,900
+You either call it an
+organic base or organic
+
+655
+00:47:49,900 --> 00:47:54,660
+cation secretory system.
+So those are synonymous.
+
+656
+00:47:54,960 --> 00:47:58,040
+These are important
+for endogenous
+
+657
+00:47:58,040 --> 00:48:00,680
+cations, things like
+dopamine, epinephrine,
+
+658
+00:48:01,190 --> 00:48:03,820
+norepinephrine, histamine,
+anything, you know, any
+
+659
+00:48:03,820 --> 00:48:07,580
+of those compounds that
+remains in the blood and it's
+
+660
+00:48:07,580 --> 00:48:13,100
+not metabolized can get
+secreted into the urine.
+
+661
+00:48:14,680 --> 00:48:17,680
+The most important one
+obviously is creatinine,
+
+662
+00:48:17,680 --> 00:48:20,880
+which is the breakdown
+product of phosphocreatinine,
+
+663
+00:48:21,560 --> 00:48:26,440
+and we use creatinine
+to give us an
+
+664
+00:48:26,440 --> 00:48:33,290
+estimation of our GFR. So
+anything that can affect
+
+665
+00:48:33,920 --> 00:48:35,960
+the secretion of creatinine
+
+666
+00:48:35,960 --> 00:48:38,600
+into the nephron can give us
+
+667
+00:48:40,220 --> 00:48:43,300
+variations in our
+ability to measure
+
+668
+00:48:43,300 --> 00:48:48,680
+GFR. Again, a big part
+of drug secretion,
+
+669
+00:48:50,260 --> 00:48:51,960
+morphine, you know,
+
+670
+00:48:52,180 --> 00:48:56,100
+is, uses the organic
+base circuitry
+
+671
+00:48:56,100 --> 00:48:59,900
+system to get into,
+into the nephron.
+
+672
+00:49:01,240 --> 00:49:04,000
+Atropine, you know,
+quinine, which is an anti
+
+673
+00:49:04,000 --> 00:49:07,380
+-malarial. The most important
+one that, you know, you
+
+674
+00:49:07,380 --> 00:49:10,720
+should remember is the
+potassium sparing diuretics.
+
+675
+00:49:11,160 --> 00:49:14,060
+Potassium sparing diuretics,
+amylride triamptory,
+
+676
+00:49:14,060 --> 00:49:15,660
+remember they work on
+the distal convoluted
+
+677
+00:49:15,660 --> 00:49:19,580
+tubule. They require the
+organic base secretory
+
+678
+00:49:19,580 --> 00:49:23,860
+system to get into the
+nephron and have diuretic
+
+679
+00:49:23,860 --> 00:49:26,540
+efficacy. If they don't
+get into the nephron, they
+
+680
+00:49:26,540 --> 00:49:31,060
+can't bind to their target
+channels. So it becomes
+
+681
+00:49:31,060 --> 00:49:34,660
+very, very important
+for their functionality.
+
+682
+00:49:36,380 --> 00:49:38,720
+So this table kind of breaks
+
+683
+00:49:38,720 --> 00:49:43,040
+down what endogenous, exogenous
+
+684
+00:49:44,000 --> 00:49:49,860
+capabilities of
+organic and of the
+
+685
+00:49:49,860 --> 00:49:52,380
+secretion by the
+proximal tubule.
+
+686
+00:49:52,720 --> 00:49:56,020
+So some, you know,
+for example, and, you
+
+687
+00:49:56,020 --> 00:49:59,280
+know, bile salts
+members of, you know,
+
+688
+00:49:59,700 --> 00:50:04,140
+citric acid cycle, fatty
+acids, ragiuric acid.
+
+689
+00:50:04,140 --> 00:50:12,410
+These are all anions that
+get secreted endogenously.
+
+690
+00:50:12,410 --> 00:50:15,020
+Catiions indicated some
+of that. Creatinine
+
+691
+00:50:15,020 --> 00:50:19,480
+does both because it
+depends on its charge.
+
+692
+00:50:19,760 --> 00:50:25,460
+And exogenous, you know,
+almost almost all the
+
+693
+00:50:25,460 --> 00:50:31,600
+diuretics we use for clinical
+practice, almost all,
+
+694
+00:50:31,600 --> 00:50:35,200
+not all, are secreted by
+the organic anion secretory
+
+695
+00:50:35,200 --> 00:50:39,780
+system into the nephron.
+Exception, ameloride and
+
+696
+00:50:39,780 --> 00:50:42,980
+triamterine, the two
+potassium sparing diuretics.
+
+697
+00:50:43,460 --> 00:50:45,700
+Some of the NSAIDs that we
+
+698
+00:50:45,700 --> 00:50:47,940
+use, indometicin, salicylate,
+
+699
+00:50:48,380 --> 00:50:51,420
+non-steroidal anti
+-inflammatory drugs.
+
+700
+00:50:52,160 --> 00:50:57,840
+And then penicillin G
+is one that is secreted
+
+701
+00:50:59,660 --> 00:51:03,260
+and a compound called
+probenicid, which we use in
+
+702
+00:51:03,260 --> 00:51:06,920
+a variety of different
+clinical scenarios to
+
+703
+00:51:06,920 --> 00:51:11,040
+inhibit the activity of
+the organic acid secretory
+
+704
+00:51:11,040 --> 00:51:13,760
+system. In fact, probenicid
+was first developed
+
+705
+00:51:14,400 --> 00:51:18,380
+to save penicillin in the
+urine. When penicillin
+
+706
+00:51:18,380 --> 00:51:21,060
+G was first developed,
+it was right in the
+
+707
+00:51:21,060 --> 00:51:23,640
+middle of World War
+II, and they have not
+
+708
+00:51:23,640 --> 00:51:28,660
+ramped up the amounts
+made for the use in war.
+
+709
+00:51:28,700 --> 00:51:34,600
+So they needed every
+microgram of penicillin that
+
+710
+00:51:34,600 --> 00:51:38,850
+was made, and you end up
+secreting a lot of it in
+
+711
+00:51:38,920 --> 00:51:41,620
+the urine. How do you stop
+doing that? Well, they
+
+712
+00:51:41,620 --> 00:51:44,720
+found out that by giving
+probenicid, you inhibit
+
+713
+00:51:44,720 --> 00:51:49,300
+the secretion of penicillin
+G into the nephron. And
+
+714
+00:51:49,300 --> 00:51:53,780
+you can actually lower
+dose of penicillin for
+
+715
+00:51:53,780 --> 00:51:58,950
+people because you don't
+get rid of it as much. So
+
+716
+00:51:58,950 --> 00:52:04,860
+you end up having efficacy
+by increasing the potency
+
+717
+00:52:05,170 --> 00:52:11,660
+of penicillin in the
+amounts that's in the body.
+
+718
+00:52:12,260 --> 00:52:15,620
+Of course, if you did
+that and somebody had
+
+719
+00:52:15,620 --> 00:52:19,000
+a UTI, then you're blocking
+its effects because
+
+720
+00:52:19,000 --> 00:52:21,000
+that's where you need
+penicillin to work.
+
+721
+00:52:21,680 --> 00:52:23,980
+So it's both good and bad.
+
+722
+00:52:24,080 --> 00:52:27,380
+And anything that
+comes out of the phase
+
+723
+00:52:27,380 --> 00:52:32,000
+two of our drug
+metabolism pathways,
+
+724
+00:52:32,000 --> 00:52:33,940
+you know, the
+pharmacokinetics of drugs,
+
+725
+00:52:34,280 --> 00:52:38,140
+glucuronation and
+glutathioneation, sulfation, all
+
+726
+00:52:38,140 --> 00:52:46,140
+phase one metabolic processes
+that once they're done,
+
+727
+00:52:46,140 --> 00:52:50,100
+they can actually help
+the drug to get excreted.
+
+728
+00:52:52,130 --> 00:52:55,760
+So let's go back to this.
+So, you know, high sugar,
+
+729
+00:52:55,760 --> 00:52:58,740
+young age, she finds into
+the demographic and she
+
+730
+00:52:58,740 --> 00:53:02,000
+is, you know, your young
+patient is diagnosed as
+
+731
+00:53:02,000 --> 00:53:05,160
+type one diabetes mellitus.
+and you know that's because
+
+732
+00:53:05,160 --> 00:53:08,380
+their blood sugar is
+very very high at that
+
+733
+00:53:08,380 --> 00:53:12,520
+instant her you know she had
+normal glycemia uh mainly
+
+734
+00:53:12,520 --> 00:53:15,660
+because probably probably
+not mainly probably because
+
+735
+00:53:15,660 --> 00:53:19,990
+um she wasn't eating
+anything she did so and
+
+736
+00:53:20,370 --> 00:53:24,940
+whatever uh amount of glucose
+that she had she was she
+
+737
+00:53:24,940 --> 00:53:28,900
+was losing it. So, and that
+would act as a diuretic,
+
+738
+00:53:28,900 --> 00:53:34,330
+stay in the glucose,
+drive more water out, and
+
+739
+00:53:35,120 --> 00:53:38,060
+patient became dehydrated, and
+
+740
+00:53:38,060 --> 00:53:40,920
+then you had fatigue
+and lethargy.
+
+741
+00:53:42,600 --> 00:53:45,300
+Look at your feedback
+form, and the next
+
+742
+00:53:45,300 --> 00:53:49,540
+two lectures we'll
+talk about acid base,
+
+743
+00:53:49,790 --> 00:53:52,120
+and then we finalize
+by talking about
+
+744
+00:53:52,120 --> 00:53:54,280
+the kidney and its
+ability to concentrate
+
+745
+00:53:54,280 --> 00:53:57,200
+and dilute depending
+on the situations.
+
+746
+00:53:57,470 --> 00:53:59,120
+All right. Thank
+you, everybody.

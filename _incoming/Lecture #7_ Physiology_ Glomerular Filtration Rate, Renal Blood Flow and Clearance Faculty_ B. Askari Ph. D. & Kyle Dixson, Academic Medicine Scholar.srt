@@ -1,0 +1,6148 @@
+1
+00:00:00,310 --> 00:00:02,830
+Hello everybody, my name
+is Kyle Dixon. I'm one of
+
+2
+00:00:02,830 --> 00:00:06,690
+your 2026 academic medicine
+scholars, teaching scholar.
+
+3
+00:00:06,770 --> 00:00:09,290
+Today we're going to be
+going over GFR, renal
+
+4
+00:00:09,290 --> 00:00:12,730
+blood flow, and clearance
+as a part of the renal
+
+5
+00:00:12,730 --> 00:00:15,970
+physiology section. I want
+to thank Dr. Ascari for
+
+6
+00:00:15,970 --> 00:00:18,510
+helping me with this lecture,
+letting me do it, as well
+
+7
+00:00:18,510 --> 00:00:21,530
+as revamping the entire
+renal physiology section
+
+8
+00:00:21,530 --> 00:00:23,870
+for you guys. You guys are
+lucky to have these lectures.
+
+9
+00:00:23,870 --> 00:00:26,490
+I also want to thank Dr.
+Goldstein for helping
+
+10
+00:00:26,490 --> 00:00:29,850
+out and Brian Koflanovich
+as well for helping out.
+
+11
+00:00:29,850 --> 00:00:32,190
+He's another scholar that's
+working on this series.
+
+12
+00:00:32,310 --> 00:00:33,930
+So let's begin.
+
+13
+00:00:35,190 --> 00:00:38,070
+So my reason for doing
+this lecture was because
+
+14
+00:00:38,070 --> 00:00:40,830
+renal physiology is a
+very difficult topic, but
+
+15
+00:00:40,830 --> 00:00:43,190
+it's a very important
+topic. The kidneys are
+
+16
+00:00:43,190 --> 00:00:46,390
+involved in basically all
+homeostatic mechanisms.
+
+17
+00:00:46,870 --> 00:00:50,110
+Previous years, it's been tough
+to convey this information
+
+18
+00:00:50,110 --> 00:00:52,450
+well, and I think what
+Dr. Ascari is doing this
+
+19
+00:00:52,450 --> 00:00:54,750
+year is great, and I wanted
+to help him out the best
+
+20
+00:00:54,750 --> 00:00:58,590
+I could. So on this slide
+you can see some stuff about
+
+21
+00:00:58,590 --> 00:01:01,220
+me so on the left there
+I'm with a emerald tree boa
+
+22
+00:01:01,220 --> 00:01:04,650
+they have the largest fangs
+of any non venomous snake
+
+23
+00:01:04,650 --> 00:01:07,630
+I'm not gonna put that on
+the exam don't worry but I
+
+24
+00:01:07,630 --> 00:01:10,790
+do research with dr. Molnar
+involving snakes and I
+
+25
+00:01:10,790 --> 00:01:14,570
+love reptiles the top right
+there that's me with my first
+
+26
+00:01:14,570 --> 00:01:17,470
+friend group in med school
+from first year b6 I
+
+27
+00:01:17,470 --> 00:01:19,970
+still talk to them today
+they help me with literally
+
+28
+00:01:19,970 --> 00:01:23,330
+everything rotations boards
+and I highly recommend if you
+
+29
+00:01:23,330 --> 00:01:25,890
+can find a tight-net friend
+group like that in school
+
+30
+00:01:25,890 --> 00:01:28,850
+it's gonna help you
+immeasurably and then the bottom
+
+31
+00:01:28,850 --> 00:01:32,050
+right is probably my
+favorite part of scholar year
+
+32
+00:01:32,050 --> 00:01:34,810
+so far which was teaching
+neuroanatomy it was great
+
+33
+00:01:34,810 --> 00:01:37,150
+working with the faculty at
+our school they were excellent
+
+34
+00:01:37,150 --> 00:01:39,850
+and then working with my
+fellow scholars as well
+
+35
+00:01:39,850 --> 00:01:43,770
+and yeah let's move on to
+the learning objectives and
+
+36
+00:01:43,770 --> 00:01:47,850
+a case i think a great
+way to open up any medical
+
+37
+00:01:47,850 --> 00:01:50,550
+physiology lecture would to
+just generally start with a
+
+38
+00:01:50,550 --> 00:01:52,990
+case study we're all going
+to be future physicians
+
+39
+00:01:52,990 --> 00:01:56,150
+working in the medical field
+and medicine is really patient
+
+40
+00:01:56,150 --> 00:01:59,370
+-centered so let's start
+by looking at this patient
+
+41
+00:01:59,370 --> 00:02:02,790
+so which I want you to do
+is to just pause the video
+
+42
+00:02:02,910 --> 00:02:06,830
+read the initial paragraph
+read the test results and
+
+43
+00:02:06,830 --> 00:02:09,290
+then read the questions as
+well and just start to think
+
+44
+00:02:09,290 --> 00:02:12,470
+about how you may want to
+answer those questions the
+
+45
+00:02:12,470 --> 00:02:14,490
+point of this lecture is
+going to be to go over
+
+46
+00:02:14,490 --> 00:02:16,770
+everything that you need to
+know to basically answer this
+
+47
+00:02:16,770 --> 00:02:19,730
+question right here so if
+you have some answers to the
+
+48
+00:02:19,730 --> 00:02:22,050
+things below or some
+differentials you might be
+
+49
+00:02:22,050 --> 00:02:24,790
+thinking about it might be
+smart to write those down now.
+
+50
+00:02:25,870 --> 00:02:28,110
+So I'm not going to be
+reading these learning
+
+51
+00:02:28,110 --> 00:02:32,790
+objectives verbatim, but
+to learn pathology, you
+
+52
+00:02:32,790 --> 00:02:35,210
+need to know physiology,
+and to learn physiology,
+
+53
+00:02:35,210 --> 00:02:37,270
+you really need to
+know anatomy. So we're
+
+54
+00:02:37,270 --> 00:02:39,290
+going to start with the
+anatomy in this lecture,
+
+55
+00:02:39,390 --> 00:02:42,310
+which ties into the
+blood flow of the kidney,
+
+56
+00:02:42,310 --> 00:02:43,810
+and that's the whole
+purpose of this lecture.
+
+57
+00:02:43,810 --> 00:02:45,290
+There's going to be
+many other lectures for
+
+58
+00:02:45,290 --> 00:02:47,490
+this renal series, but
+mine is really on the
+
+59
+00:02:47,490 --> 00:02:49,790
+blood flow. Then we're
+going to correlate that
+
+60
+00:02:49,790 --> 00:02:54,170
+with the kidney's ability
+to alter physiology.
+
+61
+00:02:54,200 --> 00:02:56,090
+And then we're going
+to finish off with that
+
+62
+00:02:56,090 --> 00:02:58,330
+case study that I already
+mentioned, and then
+
+63
+00:02:58,330 --> 00:03:00,150
+we're going to go into
+questions at the end.
+
+64
+00:03:01,170 --> 00:03:04,170
+Okay, let's start with
+some anatomy review. So the
+
+65
+00:03:04,170 --> 00:03:07,290
+kidneys, they're located
+below the diaphragm, and
+
+66
+00:03:07,290 --> 00:03:10,350
+they're retroperitoneal. So
+what does that mean? They're
+
+67
+00:03:10,350 --> 00:03:13,570
+outside the peritoneum. so
+they're basically attached
+
+68
+00:03:13,570 --> 00:03:17,490
+to the body cavity wall on
+the back of the abdominal
+
+69
+00:03:17,490 --> 00:03:21,650
+cavity unlike the GI
+organs which are mostly
+
+70
+00:03:21,650 --> 00:03:26,790
+within the peritoneum and
+free-floating kidneys are
+
+71
+00:03:26,790 --> 00:03:30,670
+towards the back and basically
+span the length of t12
+
+72
+00:03:30,670 --> 00:03:34,290
+to l3 with the right kidney
+being lower than the left
+
+73
+00:03:34,290 --> 00:03:38,310
+because of the liver each
+kidney there's two right
+
+74
+00:03:38,310 --> 00:03:42,150
+are being shaped with the
+medial side called the hilum
+
+75
+00:03:42,150 --> 00:03:45,810
+containing blood vessels
+and the ureters exiting.
+
+76
+00:03:46,490 --> 00:03:50,150
+They're both covered by a
+dense elastic connective
+
+77
+00:03:50,150 --> 00:03:52,650
+tissue sheath called
+the renal fascia.
+
+78
+00:03:52,650 --> 00:03:55,590
+It envelopes not only
+the kidney but also the
+
+79
+00:03:55,590 --> 00:03:58,830
+suprarenal glands or
+the adrenal glands. The
+
+80
+00:03:58,830 --> 00:04:01,850
+kidneys are deceptively
+small which is kind of
+
+81
+00:04:01,850 --> 00:04:04,530
+a testament to how much
+they do for the body.
+
+82
+00:04:04,770 --> 00:04:08,050
+The kidneys only take
+up about 0.5 percent
+
+83
+00:04:08,050 --> 00:04:11,010
+of total body weight.
+But despite this,
+
+84
+00:04:11,010 --> 00:04:12,950
+the blood flow through
+them is massive.
+
+85
+00:04:13,190 --> 00:04:15,850
+I know you guys haven't
+had cardio yet, but
+
+86
+00:04:15,850 --> 00:04:19,170
+cardiac output is heart
+rate times stroke volume.
+
+87
+00:04:19,370 --> 00:04:22,870
+So the normal cardiac output
+
+88
+00:04:22,870 --> 00:04:24,990
+per minute is
+about five liters.
+
+89
+00:04:25,370 --> 00:04:29,230
+The kidneys receive 20%
+of this each minute, so
+
+90
+00:04:29,230 --> 00:04:32,270
+about one liter, which
+once again is fascinating
+
+91
+00:04:32,270 --> 00:04:35,310
+considering how small
+the organs are. You can
+
+92
+00:04:35,310 --> 00:04:39,230
+basically fit 150 cc's
+of fluid in each kidney
+
+93
+00:04:39,500 --> 00:04:43,130
+so that would mean over
+three times the amount
+
+94
+00:04:43,130 --> 00:04:45,750
+of that fluid flows
+through them each minute.
+
+95
+00:04:46,240 --> 00:04:49,010
+You can see on the left
+of this slide the entire
+
+96
+00:04:49,010 --> 00:04:52,510
+blood flow path to the
+kidneys from the heart.
+
+97
+00:04:52,550 --> 00:04:56,030
+The major connection
+between the kidneys and the
+
+98
+00:04:56,030 --> 00:04:59,470
+heart is the aorta with
+the renal artery coming
+
+99
+00:04:59,470 --> 00:05:02,230
+off of the aorta. This
+means that if there's any
+
+100
+00:05:02,230 --> 00:05:04,890
+damage to the aorta, the
+kidneys can be affected.
+
+101
+00:05:05,070 --> 00:05:07,870
+Blood then flows
+through the segmental
+
+102
+00:05:07,870 --> 00:05:10,090
+arteries and interlobal
+arteries which
+
+103
+00:05:10,090 --> 00:05:12,310
+feed the individual
+lobes of the kidney.
+
+104
+00:05:13,470 --> 00:05:16,390
+Arcuate arteries basically
+encircle the kidney.
+
+105
+00:05:17,730 --> 00:05:22,110
+After the interlobular
+arteries you then get to the
+
+106
+00:05:22,110 --> 00:05:25,070
+afferent arterial. This
+is a very important
+
+107
+00:05:25,070 --> 00:05:27,790
+structure that we'll get
+more into as the lecture goes
+
+108
+00:05:27,790 --> 00:05:31,210
+on. From there blood reaches
+the glomerulus, which
+
+109
+00:05:31,210 --> 00:05:34,490
+we'll also get to, then
+the afferent arteriole,
+
+110
+00:05:34,590 --> 00:05:38,550
+and then the peritubular
+capillaries or vasa recta.
+
+111
+00:05:38,890 --> 00:05:41,570
+These encircle
+the nephron or the
+
+112
+00:05:41,570 --> 00:05:44,010
+functional part of the kidney.
+
+113
+00:05:45,030 --> 00:05:47,910
+Interestingly, most blood
+that reaches the kidney
+
+114
+00:05:47,910 --> 00:05:50,490
+stays in the cortex or
+the outer part of it.
+
+115
+00:05:50,650 --> 00:05:55,390
+The blood stays in the
+peritubular capillaries, but
+
+116
+00:05:55,390 --> 00:05:57,950
+about five to ten percent
+of blood that reaches the
+
+117
+00:05:57,950 --> 00:06:00,530
+kidney goes to the salty
+medulla which is the inner
+
+118
+00:06:00,530 --> 00:06:03,250
+part of the kidney. You
+can see on that left figure
+
+119
+00:06:03,250 --> 00:06:05,610
+the vasorector all the way
+on the bottom encircling
+
+120
+00:06:05,670 --> 00:06:09,190
+the thick and thin ascending
+and descending limb.
+
+121
+00:06:09,570 --> 00:06:12,510
+I call the medulla salty
+because it's a way for
+
+122
+00:06:12,510 --> 00:06:15,250
+me to remember that it's
+highly concentrated and
+
+123
+00:06:15,430 --> 00:06:18,270
+this pattern of blood
+flow keeps it that way.
+
+124
+00:06:18,730 --> 00:06:22,050
+But that also means that the
+medulla is highly sensitive
+
+125
+00:06:22,050 --> 00:06:25,410
+to hypoxia and ischemic
+damage. You will learn
+
+126
+00:06:25,410 --> 00:06:29,350
+later about acute tubular
+necrosis, which basically
+
+127
+00:06:29,350 --> 00:06:32,230
+occurs because of this low
+blood flow of the medulla.
+
+128
+00:06:32,730 --> 00:06:37,250
+Even in low blood flow
+states, the cortex still gets
+
+129
+00:06:37,250 --> 00:06:41,190
+mostly enough oxygen, but
+the medulla will suffer.
+
+130
+00:06:41,670 --> 00:06:44,310
+I know a lot of times we
+don't talk about the venous
+
+131
+00:06:44,310 --> 00:06:48,150
+system, but here there's
+some clinical correlates. So
+
+132
+00:06:48,150 --> 00:06:51,950
+the renal vein connects to
+the inferior vena cava, and
+
+133
+00:06:51,950 --> 00:06:55,050
+if you remember from anatomy
+the left renal vein is
+
+134
+00:06:55,050 --> 00:06:58,310
+longer because the left kidney
+is further from the IVC.
+
+135
+00:06:58,470 --> 00:07:01,870
+Something called nutcracker
+syndrome is a very rare
+
+136
+00:07:01,870 --> 00:07:05,030
+vascular compression
+disorder where the left renal
+
+137
+00:07:05,030 --> 00:07:08,290
+vein is squeezed between
+the abdominal aorta and
+
+138
+00:07:08,290 --> 00:07:11,110
+the superior mesenteric
+artery which branches off
+
+139
+00:07:11,110 --> 00:07:13,690
+of the aorta. This is
+once again due to it being
+
+140
+00:07:13,690 --> 00:07:16,430
+longer and having to cross
+over to that left kidney.
+
+141
+00:07:16,990 --> 00:07:20,210
+This can lead to blood
+in the urine, left flank
+
+142
+00:07:20,210 --> 00:07:24,090
+pain, pelvic pressure
+pain, varicose veins in
+
+143
+00:07:24,090 --> 00:07:26,670
+the pelvis, and the
+varicose seals which are
+
+144
+00:07:26,670 --> 00:07:30,310
+basically scrotal varicose
+veins. It also has that
+
+145
+00:07:30,310 --> 00:07:33,550
+an extra connection of the
+left gonadal vein which
+
+146
+00:07:33,550 --> 00:07:36,070
+makes varicose seals
+more common on the left.
+
+147
+00:07:36,670 --> 00:07:39,830
+My lecture doesn't really
+cover the functions of the
+
+148
+00:07:39,830 --> 00:07:43,110
+kidney or the functions of
+nephron but I thought it
+
+149
+00:07:43,110 --> 00:07:45,030
+would be important to
+include this slide because it
+
+150
+00:07:45,030 --> 00:07:47,770
+helped me study when I was
+taking renal physiology.
+
+151
+00:07:48,090 --> 00:07:50,390
+This was created by
+Isabel Artez, who
+
+152
+00:07:50,390 --> 00:07:52,610
+you saw on the Get
+to Know You slide.
+
+153
+00:07:52,830 --> 00:07:56,630
+She was part of that B6 crew
+I mentioned. The nephron
+
+154
+00:07:56,630 --> 00:07:59,270
+is the functional unit of
+the kidney. It includes
+
+155
+00:07:59,270 --> 00:08:02,230
+the renal corpuscle, which
+is the glomerulus, which
+
+156
+00:08:02,230 --> 00:08:04,500
+you see on the top, which
+is a tuft of capillaries.
+
+157
+00:08:05,490 --> 00:08:07,730
+Bowman's capsule, which
+is that mouth-looking
+
+158
+00:08:07,730 --> 00:08:10,270
+thing right next to the
+glomerulus at the top.
+
+159
+00:08:10,810 --> 00:08:14,750
+And the rest is composed
+of tubular cells. We break
+
+160
+00:08:14,750 --> 00:08:17,770
+down the nephron based on
+sections. The first part
+
+161
+00:08:17,770 --> 00:08:20,750
+is the proximal convoluted
+tubule. The second is the
+
+162
+00:08:20,750 --> 00:08:23,230
+lupahenle, which is broken
+into the descending limb
+
+163
+00:08:23,230 --> 00:08:27,030
+and the ascending limb.
+Then we move to the distal
+
+164
+00:08:27,090 --> 00:08:31,230
+convoluted tubule, and
+finally the collecting duct.
+
+165
+00:08:31,430 --> 00:08:33,940
+If you see the bottom
+left, I've mentioned
+
+166
+00:08:33,940 --> 00:08:36,990
+diuretics. The numbers
+next to them correspond
+
+167
+00:08:36,990 --> 00:08:40,490
+on the actual nephron
+where they act,
+
+168
+00:08:40,750 --> 00:08:42,350
+So feel free to come back to
+
+169
+00:08:42,350 --> 00:08:44,090
+this after you
+learn about PHARM.
+
+170
+00:08:44,210 --> 00:08:47,510
+I've also put the renal
+tubular acidosis and
+
+171
+00:08:47,510 --> 00:08:50,850
+where they occur by saying
+RTA in different areas.
+
+172
+00:08:50,850 --> 00:08:53,230
+And I've even put
+rare disorders like
+
+173
+00:08:53,230 --> 00:08:56,390
+Fanconi and Little
+syndrome where they occur.
+
+174
+00:08:56,450 --> 00:08:58,330
+These are all board relevant.
+
+175
+00:08:58,530 --> 00:09:00,490
+In regards to
+blood flow, like we
+
+176
+00:09:00,490 --> 00:09:02,690
+mentioned, we have the
+afferent arteriole, so
+
+177
+00:09:02,690 --> 00:09:04,750
+the blood coming
+into the glomerulus.
+
+178
+00:09:05,070 --> 00:09:07,710
+Then you have the glomerulus
+itself, which is a tuft
+
+179
+00:09:07,710 --> 00:09:09,810
+of capillaries. and then
+you have the efferent
+
+180
+00:09:09,810 --> 00:09:12,950
+arterial, which is leaving
+the tuft of capillaries.
+
+181
+00:09:13,270 --> 00:09:16,310
+What you don't see here is
+the peritubular capillaries
+
+182
+00:09:16,310 --> 00:09:18,460
+and the vasorector, which
+both come off of the
+
+183
+00:09:18,460 --> 00:09:21,630
+efferent arterial, which I
+mentioned on the last slide.
+
+184
+00:09:21,630 --> 00:09:24,550
+Once again, those peritubular
+capillaries surround
+
+185
+00:09:24,550 --> 00:09:27,570
+the tubules in the cortex
+to perform the active
+
+186
+00:09:27,570 --> 00:09:31,330
+reabsorption, whereas
+the vasorector are in the
+
+187
+00:09:31,330 --> 00:09:34,110
+medulla and they preserve
+that osmotic gradient.
+
+188
+00:09:34,470 --> 00:09:36,830
+and the vasorecta are
+also the reason why
+
+189
+00:09:36,830 --> 00:09:40,310
+the medulla has that
+low blood flow state.
+
+190
+00:09:41,050 --> 00:09:44,150
+Peritubular capillaries
+stay in the cortex or the
+
+191
+00:09:44,150 --> 00:09:48,150
+top and vasorecta are in
+the medulla or the middle.
+
+192
+00:09:48,590 --> 00:09:51,730
+So you would see the
+vasorecta mostly where you see
+
+193
+00:09:51,730 --> 00:09:55,070
+those two loops of Henle
+areas, so the descending
+
+194
+00:09:55,070 --> 00:09:57,670
+limb of the loop and the
+ascending limb of the loop.
+
+195
+00:09:57,750 --> 00:10:00,770
+Just as an overview,
+things that stay in this
+
+196
+00:10:00,770 --> 00:10:04,030
+tubular structure will
+be urinated out. anything
+
+197
+00:10:04,030 --> 00:10:06,270
+that leaves would go back
+into the bloodstream.
+
+198
+00:10:07,350 --> 00:10:09,610
+Like I said, this isn't
+really the point of my
+
+199
+00:10:09,610 --> 00:10:12,190
+lecture to go over
+anything on here, but I
+
+200
+00:10:12,190 --> 00:10:14,610
+thought it was important
+and feel free to come back
+
+201
+00:10:14,610 --> 00:10:16,690
+to this when you cover
+it in other lectures.
+
+202
+00:10:17,310 --> 00:10:19,730
+So we've looked at
+the gross blood flow
+
+203
+00:10:19,730 --> 00:10:21,810
+anatomy, we've
+looked at the nephron
+
+204
+00:10:21,810 --> 00:10:24,690
+itself, but what about
+the renal corpuscle?
+
+205
+00:10:24,970 --> 00:10:27,790
+This is considered
+the glomerulus, which
+
+206
+00:10:27,790 --> 00:10:30,810
+once again is a fancy
+word for a tuft of
+
+207
+00:10:30,810 --> 00:10:33,850
+capillaries, and and
+Bowman's capsule, which is
+
+208
+00:10:33,850 --> 00:10:36,010
+that mouth-looking
+thing on the last slide.
+
+209
+00:10:36,330 --> 00:10:38,830
+Bowman's capsule is a
+part of the nephron, where
+
+210
+00:10:38,830 --> 00:10:42,930
+the glomerulus is a
+separate capillary network.
+
+211
+00:10:43,060 --> 00:10:45,290
+This is where
+blood is able to be
+
+212
+00:10:45,290 --> 00:10:48,610
+filtered and
+filtrate is formed.
+
+213
+00:10:49,270 --> 00:10:52,410
+This basically explains
+how things in the
+
+214
+00:10:52,410 --> 00:10:54,650
+blood can get filtered
+into the kidney,
+
+215
+00:10:54,970 --> 00:10:58,710
+reabsorbed, or excreted
+out of the kidney in urine.
+
+216
+00:10:58,920 --> 00:11:02,210
+The glomerulus, once again,
+is fed by that afferent
+
+217
+00:11:02,210 --> 00:11:05,850
+arteriole, A for afferent,
+that's the blood coming in.
+
+218
+00:11:05,950 --> 00:11:09,770
+And then, after reaching
+the glomerulus, it leads
+
+219
+00:11:09,770 --> 00:11:12,210
+to the efferent
+arteriole, which then goes
+
+220
+00:11:12,210 --> 00:11:15,130
+into those peritubular
+capillaries and vasorecta.
+
+221
+00:11:16,610 --> 00:11:19,310
+Bowman's capsule consists
+of a double-walled
+
+222
+00:11:19,310 --> 00:11:22,670
+epithelial structure
+enclosing the glomerulus.
+
+223
+00:11:22,670 --> 00:11:24,410
+and it consists
+of simple squamous
+
+224
+00:11:24,410 --> 00:11:27,870
+epithelium on the parietal
+layer and specialized
+
+225
+00:11:27,870 --> 00:11:30,510
+podocytes, which just
+means foot processes,
+
+226
+00:11:30,870 --> 00:11:33,730
+with intergegiating
+foot processes connected
+
+227
+00:11:33,730 --> 00:11:35,850
+by a slit diaphragm
+on the visceral
+
+228
+00:11:35,850 --> 00:11:39,170
+layer, and it's interspersed
+by some proteins.
+
+229
+00:11:39,170 --> 00:11:41,570
+We will cover this
+more in depth later.
+
+230
+00:11:41,850 --> 00:11:45,820
+So picture like a net
+that you use to grab
+
+231
+00:11:46,050 --> 00:11:48,930
+fish out of water. so
+the net has to have
+
+232
+00:11:48,930 --> 00:11:51,970
+holes in it and there
+has to be parts that let
+
+233
+00:11:51,970 --> 00:11:53,990
+things through or don't
+let things through.
+
+234
+00:11:54,350 --> 00:11:56,930
+The net of the renal
+corpuscle is what
+
+235
+00:11:56,930 --> 00:11:58,770
+you see on the
+right two pictures.
+
+236
+00:11:58,910 --> 00:12:03,630
+So the middle is an actual
+electron microscope image
+
+237
+00:12:04,290 --> 00:12:07,170
+and the one on the right
+is just a cartoon example.
+
+238
+00:12:07,630 --> 00:12:11,750
+So anything getting from
+the blood into the nephron
+
+239
+00:12:11,750 --> 00:12:15,190
+has to go past the capillary
+endothelium, basement
+
+240
+00:12:15,190 --> 00:12:20,370
+membrane foot processes
+and slit diaphragm of not
+
+241
+00:12:20,370 --> 00:12:24,190
+only the capillary at first
+but then bowman's capsule
+
+242
+00:12:25,400 --> 00:12:27,870
+starting from the capillary
+side you have that
+
+243
+00:12:27,870 --> 00:12:33,370
+fenestrated endothelium then
+moving towards the bowman
+
+244
+00:12:33,370 --> 00:12:36,210
+space you have the
+glomerular basement membrane
+
+245
+00:12:36,320 --> 00:12:39,550
+and then finally the
+podocyte foot process is
+
+246
+00:12:39,550 --> 00:12:42,570
+the last thing the filtrate
+will pass through The
+
+247
+00:12:42,570 --> 00:12:44,970
+entirety of the structure
+is shown on the left.
+
+248
+00:12:45,690 --> 00:12:48,470
+You can see that transition
+from the capillary
+
+249
+00:12:48,470 --> 00:12:51,190
+into the other side
+of the Bowman space.
+
+250
+00:12:51,850 --> 00:12:55,430
+Also of note are mesangial
+cells which are basically
+
+251
+00:12:55,740 --> 00:13:00,490
+macrophages and also
+contractile to alter blood flow.
+
+252
+00:13:00,770 --> 00:13:03,150
+The sympathetic
+nervous system has a
+
+253
+00:13:03,150 --> 00:13:05,230
+impact here which
+we'll get into later.
+
+254
+00:13:06,050 --> 00:13:09,080
+And granular cells are the
+same things as juxtaglomerular
+
+255
+00:13:09,330 --> 00:13:12,670
+cells so juxta just
+means next to. These are
+
+256
+00:13:12,670 --> 00:13:16,470
+mechanoreceptive cells that
+store and release renin, which
+
+257
+00:13:16,470 --> 00:13:19,570
+is part of the RAS system
+to regulate blood pressure.
+
+258
+00:13:20,210 --> 00:13:24,430
+The macula densa is a
+part of the tubular system
+
+259
+00:13:24,430 --> 00:13:28,950
+that senses sodium.
+This is also in relation
+
+260
+00:13:28,950 --> 00:13:31,390
+to regulating blood
+flow and blood pressure.
+
+261
+00:13:31,790 --> 00:13:33,830
+Interesting to note,
+there's about 1 million
+
+262
+00:13:33,830 --> 00:13:36,770
+of these glomeruli and
+nephrons per kidney.
+
+263
+00:13:37,310 --> 00:13:40,830
+as we age they decrease
+which decreases kidney
+
+264
+00:13:40,830 --> 00:13:44,410
+function it's a very unique
+system because it's arterial
+
+265
+00:13:44,410 --> 00:13:48,670
+to arterial where most
+organ structures are
+
+266
+00:13:48,670 --> 00:13:53,590
+basically a artery then an
+arterial a capillary network
+
+267
+00:13:53,590 --> 00:13:56,910
+a venule and then a vein
+here we have the afferent
+
+268
+00:13:56,910 --> 00:14:00,610
+arterial the capillary
+peritubular or vasorecta
+
+269
+00:14:00,610 --> 00:14:04,070
+and then we have the efferent
+arterial so if you were
+
+270
+00:14:04,070 --> 00:14:06,190
+to remove a kidney you
+would think that kidney
+
+271
+00:14:06,190 --> 00:14:10,590
+function would go down
+proportionally 50% but actually
+
+272
+00:14:10,590 --> 00:14:13,690
+the remaining kidney can
+sometimes hypertrophy.
+
+273
+00:14:14,110 --> 00:14:17,630
+The remaining kidney can
+open up blood flow to itself
+
+274
+00:14:17,630 --> 00:14:20,230
+which we'll get into later
+how it actually does that,
+
+275
+00:14:22,050 --> 00:14:25,370
+increasing its ability to
+filter and perform its job.
+
+276
+00:14:25,870 --> 00:14:28,970
+So what's really the
+physics behind renal
+
+277
+00:14:28,970 --> 00:14:30,830
+blood flow or blood
+flow in general?
+
+278
+00:14:30,950 --> 00:14:35,290
+We use something called
+Pusuli's Law and Ohm's Law.
+
+279
+00:14:36,330 --> 00:14:39,190
+You won't necessarily
+have to do math on
+
+280
+00:14:39,190 --> 00:14:41,250
+exams or calculate
+these, but it's good
+
+281
+00:14:41,250 --> 00:14:43,310
+to know the factors
+that influence them.
+
+282
+00:14:43,450 --> 00:14:46,290
+So blood flow in
+general is related
+
+283
+00:14:46,290 --> 00:14:49,350
+to change in pressure
+over resistance.
+
+284
+00:14:49,710 --> 00:14:52,190
+Resistance is
+related to the length
+
+285
+00:14:52,190 --> 00:14:54,590
+of the vessel, the
+viscosity of the
+
+286
+00:14:54,590 --> 00:14:56,950
+blood, and the
+radius of the vessel.
+
+287
+00:14:57,300 --> 00:14:59,920
+You could think of a
+hose as an example,
+
+288
+00:15:00,010 --> 00:15:03,130
+just a standard water
+hose. When you turn the
+
+289
+00:15:03,130 --> 00:15:05,090
+hose on, the water
+flows throughout the
+
+290
+00:15:05,090 --> 00:15:08,210
+hose and then leaves
+into the outside world.
+
+291
+00:15:08,890 --> 00:15:11,530
+Inside the hose is more
+pressure than outside
+
+292
+00:15:11,530 --> 00:15:14,230
+the hose, pushing water
+out. And that's that
+
+293
+00:15:14,230 --> 00:15:17,950
+delta P on the top of
+the equation there for Q.
+
+294
+00:15:18,530 --> 00:15:21,150
+Now, resistance is
+in the denominator.
+
+295
+00:15:21,610 --> 00:15:24,090
+Increasing resistance
+will decrease Q or
+
+296
+00:15:24,090 --> 00:15:26,450
+blood flow or, in
+this case, water flow.
+
+297
+00:15:26,490 --> 00:15:28,590
+So how do you
+increase resistance?
+
+298
+00:15:28,590 --> 00:15:30,910
+you can lengthen the hose.
+
+299
+00:15:31,080 --> 00:15:33,510
+You can put something
+more viscous in the
+
+300
+00:15:33,510 --> 00:15:37,270
+hose, maybe something
+like milk or honey.
+
+301
+00:15:37,730 --> 00:15:39,930
+Both of those
+factors will increase
+
+302
+00:15:39,930 --> 00:15:42,510
+resistance and decrease
+flow of the water.
+
+303
+00:15:43,550 --> 00:15:45,570
+Decreasing resistance
+will increase
+
+304
+00:15:45,570 --> 00:15:47,970
+the Q or the blood
+flow or water flow.
+
+305
+00:15:48,530 --> 00:15:50,090
+So how would you do that?
+
+306
+00:15:50,270 --> 00:15:54,450
+You would increase the
+radius of the hose. This is
+
+307
+00:15:54,450 --> 00:15:58,150
+very important. So radius
+is to the fourth power.
+
+308
+00:15:59,040 --> 00:16:01,130
+In neither of these
+equations, you would
+
+309
+00:16:01,130 --> 00:16:03,470
+see anything else with
+that much influence.
+
+310
+00:16:03,610 --> 00:16:06,850
+So increasing or
+decreasing radius basically
+
+311
+00:16:06,850 --> 00:16:11,890
+has the biggest impact
+on any blood flow.
+
+312
+00:16:12,350 --> 00:16:16,030
+So changing the size
+of the hose radius
+
+313
+00:16:16,590 --> 00:16:19,370
+outcompetes the length
+of the hose, the pressure
+
+314
+00:16:19,370 --> 00:16:22,970
+difference, and pretty
+much any viscosity.
+
+315
+00:16:23,450 --> 00:16:27,090
+The body is amazing, and
+physiology is amazing.
+
+316
+00:16:27,090 --> 00:16:30,830
+so we've evolved to use
+this to our advantage.
+
+317
+00:16:30,970 --> 00:16:33,890
+You can't really change
+viscosity immediately,
+
+318
+00:16:33,890 --> 00:16:35,930
+you can't really change
+length of vessels
+
+319
+00:16:35,930 --> 00:16:39,410
+immediately, but
+radius can be changed,
+
+320
+00:16:39,990 --> 00:16:43,890
+vasoconstriction and
+vasodilation. And the major region
+
+321
+00:16:43,890 --> 00:16:46,550
+for this in the kidney
+is the afferent and the
+
+322
+00:16:46,550 --> 00:16:50,070
+efferent arteriole, which we
+talked about. Changing these
+
+323
+00:16:50,070 --> 00:16:53,490
+parameters on these arteries
+alter renal blood flow
+
+324
+00:16:53,490 --> 00:16:58,430
+blood pressure and the total
+GFR now if you take the
+
+325
+00:16:58,430 --> 00:17:02,670
+blood flow equation Q equals
+Delta P over R and you
+
+326
+00:17:02,670 --> 00:17:06,630
+solve for Delta P you get
+R times Q equals change in
+
+327
+00:17:06,630 --> 00:17:10,990
+pressure this means that
+vasoconstriction increases
+
+328
+00:17:10,990 --> 00:17:15,330
+blood pressure which is pretty
+self-explanatory but what
+
+329
+00:17:15,330 --> 00:17:18,570
+isn't is how much that
+actually affects the numbers
+
+330
+00:17:18,570 --> 00:17:21,550
+the heart must work harder
+to get blood through a
+
+331
+00:17:21,550 --> 00:17:24,810
+constricted vessel. You see
+on the right there in regards
+
+332
+00:17:24,810 --> 00:17:29,230
+to the heart and pressure
+a 20% occlusion of a
+
+333
+00:17:29,230 --> 00:17:34,580
+healthy artery changes the
+pressure from 120 milligrams
+
+334
+00:17:34,580 --> 00:17:39,610
+millimeters of mercury to
+293 milligrams of mercury.
+
+335
+00:17:40,290 --> 00:17:44,130
+And only a 19%
+decrease in radius of a
+
+336
+00:17:44,130 --> 00:17:47,850
+vessel will have the
+volume flow rate.
+
+337
+00:17:48,330 --> 00:17:53,330
+So even small
+alterations of dilation
+
+338
+00:17:53,330 --> 00:17:56,150
+and constriction can
+have huge impacts,
+
+339
+00:17:56,150 --> 00:17:57,750
+which we'll see
+with the kidney.
+
+340
+00:17:58,370 --> 00:18:01,850
+Once again, these
+laws apply to any
+
+341
+00:18:01,850 --> 00:18:04,030
+vessel, but this is
+a great way to start
+
+342
+00:18:04,030 --> 00:18:05,750
+to look at the
+kidney specifically.
+
+343
+00:18:06,630 --> 00:18:09,230
+The figure on the right
+is very important.
+
+344
+00:18:10,330 --> 00:18:12,610
+As blood travels
+from the heart to the
+
+345
+00:18:12,610 --> 00:18:15,730
+aorta, down to the renal
+artery, and eventually
+
+346
+00:18:15,730 --> 00:18:17,930
+into the smaller and
+smaller arteries,
+
+347
+00:18:18,050 --> 00:18:21,830
+vascular resistance
+increases because the vessels
+
+348
+00:18:21,830 --> 00:18:24,790
+are getting smaller. The
+radius is decreasing.
+
+349
+00:18:24,830 --> 00:18:28,730
+Because of this sudden
+change in radius,
+
+350
+00:18:29,090 --> 00:18:31,070
+pressure is basically backed
+
+351
+00:18:31,070 --> 00:18:32,930
+up into the larger arteries.
+
+352
+00:18:32,930 --> 00:18:36,050
+It's similar to like
+a bottleneck effect.
+
+353
+00:18:36,730 --> 00:18:40,390
+Things before the bottleneck
+have pressure build up
+
+354
+00:18:40,390 --> 00:18:43,450
+and things after them have
+a decrease in pressure.
+
+355
+00:18:44,280 --> 00:18:47,110
+this is why as you go from
+left to right on the graph
+
+356
+00:18:47,110 --> 00:18:51,150
+the pressure is decreasing
+it's no coincidence that
+
+357
+00:18:51,150 --> 00:18:54,830
+the sites of largest vascular
+resistance are the change
+
+358
+00:18:54,830 --> 00:18:57,650
+from the renal artery to
+the aferin arterial and
+
+359
+00:18:57,650 --> 00:19:01,450
+the glomerular capillary
+to the aferin arterial this
+
+360
+00:19:01,450 --> 00:19:05,630
+is because changing the
+radius on these arterials has
+
+361
+00:19:05,630 --> 00:19:08,790
+a huge effect on blood
+flow blood pressure and
+
+362
+00:19:08,790 --> 00:19:14,390
+physiology overall You saw
+previously how small the glomerulus
+
+363
+00:19:14,390 --> 00:19:16,990
+was and how small the
+afferent and efferent
+
+364
+00:19:16,990 --> 00:19:20,550
+arterials were. If they were
+met with the same pressure
+
+365
+00:19:20,550 --> 00:19:23,790
+that the renal artery was
+met with, they would burst.
+
+366
+00:19:24,210 --> 00:19:28,350
+This is why this large
+vascular resistance is
+
+367
+00:19:28,350 --> 00:19:31,990
+necessary. As you might
+remember from physics,
+
+368
+00:19:32,470 --> 00:19:35,930
+areas of high pressure move
+to areas of low pressure.
+
+369
+00:19:35,930 --> 00:19:38,710
+Or more accurately,
+things in a high-pressure
+
+370
+00:19:38,710 --> 00:19:41,510
+environment tend to move to
+a low-pressure environment.
+
+371
+00:19:41,730 --> 00:19:43,750
+This is why I mentioned
+in the first bullet
+
+372
+00:19:43,750 --> 00:19:46,070
+point there's net
+filtration in the afferent
+
+373
+00:19:46,070 --> 00:19:48,530
+arterioles and glomerular
+capillaries and
+
+374
+00:19:48,530 --> 00:19:51,670
+net reabsorption in the
+peritubular capillaries.
+
+375
+00:19:51,670 --> 00:19:54,270
+This is why the
+filterability can occur.
+
+376
+00:19:54,650 --> 00:19:57,550
+The afferent arterioles
+and glomerular capillaries
+
+377
+00:19:57,550 --> 00:20:00,790
+have just enough pressure
+to push out the things that
+
+378
+00:20:00,790 --> 00:20:04,030
+they need into the nephron
+and into Bowman's space.
+
+379
+00:20:04,370 --> 00:20:06,890
+The peritubular
+capillaries have that
+
+380
+00:20:06,890 --> 00:20:09,110
+decrease in pressure,
+allowing them to
+
+381
+00:20:09,110 --> 00:20:11,350
+accept a higher
+pressure environment.
+
+382
+00:20:11,970 --> 00:20:15,270
+Factors that influence
+the relaxation or
+
+383
+00:20:15,270 --> 00:20:17,590
+constriction of the
+afferent and efferent
+
+384
+00:20:17,590 --> 00:20:21,190
+arterios allow for sensitive
+control of hydrostatic
+
+385
+00:20:21,190 --> 00:20:24,530
+pressure and the ability
+to push molecules
+
+386
+00:20:24,530 --> 00:20:27,110
+and fluids into
+different compartments.
+
+387
+00:20:27,730 --> 00:20:33,110
+If systemic blood pressure
+goes up, the afferent
+
+388
+00:20:33,110 --> 00:20:37,090
+arterioles can constrict,
+causing a larger drop in pressure
+
+389
+00:20:37,090 --> 00:20:40,190
+to keep the downstream
+glomerular pressure stable.
+
+390
+00:20:40,290 --> 00:20:44,410
+A lot of times in renal
+physiology and cardiovascular
+
+391
+00:20:44,410 --> 00:20:46,310
+physiology, they
+use something called
+
+392
+00:20:46,310 --> 00:20:49,530
+MAP, which is mean
+arterial pressure. This is
+
+393
+00:20:49,530 --> 00:20:52,670
+calculated by taking
+systolic blood pressure plus
+
+394
+00:20:52,670 --> 00:20:56,170
+2 times diastolic blood
+pressure divided by 3.
+
+395
+00:20:56,710 --> 00:21:00,170
+It gives a more accurate
+measure of blood flow and
+
+396
+00:21:00,170 --> 00:21:03,010
+perfusion, and it gives
+you basically the average
+
+397
+00:21:03,010 --> 00:21:05,610
+pressure within your arteries
+during a single heartbeat.
+
+398
+00:21:05,610 --> 00:21:08,830
+So just as an example,
+the normal map for an
+
+399
+00:21:08,830 --> 00:21:13,750
+adult human is 70 to 105
+millimeters of mercury,
+
+400
+00:21:13,750 --> 00:21:16,710
+whereas in the afferent
+arterial towards the
+
+401
+00:21:16,710 --> 00:21:20,250
+beginning, it's around 60 to
+50 millimeters of mercury.
+
+402
+00:21:20,790 --> 00:21:23,070
+And that's where
+the y-axis comes
+
+403
+00:21:23,070 --> 00:21:24,750
+from on that figure
+on the right.
+
+404
+00:21:25,470 --> 00:21:29,340
+you can almost think of it
+in an analogy to traffic
+
+405
+00:21:29,620 --> 00:21:32,490
+let's say you have a giant
+highway with thousands
+
+406
+00:21:32,490 --> 00:21:35,950
+of cars and a single
+exit ramp where only one
+
+407
+00:21:35,950 --> 00:21:39,550
+car at a time can get off
+on the giant highway with
+
+408
+00:21:39,550 --> 00:21:41,490
+all those cars on it
+have a large pressure
+
+409
+00:21:41,490 --> 00:21:44,510
+there's a lot of movement
+there's changing lanes but
+
+410
+00:21:44,510 --> 00:21:47,250
+once you hit that bottleneck
+similar to the aphron
+
+411
+00:21:47,250 --> 00:21:51,090
+arterial the one lane
+cars can go only straight
+
+412
+00:21:51,090 --> 00:21:53,930
+and there's not much
+movement and you lose some of
+
+413
+00:21:53,930 --> 00:21:56,070
+that energy and you lose
+some of that pressure.
+
+414
+00:21:57,350 --> 00:21:59,630
+This diagram shows
+perfectly what
+
+415
+00:21:59,630 --> 00:22:01,510
+I just explained
+on the last slide.
+
+416
+00:22:01,780 --> 00:22:03,890
+From left to right you
+have the renal artery
+
+417
+00:22:03,890 --> 00:22:07,090
+pressure, then the efferent
+arterial resistance, then
+
+418
+00:22:07,090 --> 00:22:10,530
+glomerular capillary
+pressure, then efferent
+
+419
+00:22:10,530 --> 00:22:13,750
+arterial resistance, and
+then peritubular capillary
+
+420
+00:22:13,750 --> 00:22:16,870
+pressure. You notice renal
+artery pressure is at
+
+421
+00:22:16,870 --> 00:22:19,690
+that map I talked about.
+It's pretty much at 100.
+
+422
+00:22:19,990 --> 00:22:22,890
+But glomerular
+capillary pressure is
+
+423
+00:22:22,890 --> 00:22:25,010
+altered depending on
+resistance in both
+
+424
+00:22:25,010 --> 00:22:26,990
+the afferent and
+efferent arterial.
+
+425
+00:22:27,230 --> 00:22:30,580
+Increasing that resistance
+by vasoconstricting,
+
+426
+00:22:30,580 --> 00:22:33,870
+as you see on the 1.5,
+so the second one down,
+
+427
+00:22:34,070 --> 00:22:37,030
+creates that bottleneck
+effect I was talking about
+
+428
+00:22:37,030 --> 00:22:41,150
+where the renal artery
+pressure stays at 100, but
+
+429
+00:22:41,150 --> 00:22:44,130
+then the glomerular
+capillary pressure drops down
+
+430
+00:22:44,130 --> 00:22:48,670
+to 40 from 60. This decreased
+pressure in the glomerular
+
+431
+00:22:48,670 --> 00:22:52,210
+capillary will affect
+the ability for that area
+
+432
+00:22:52,210 --> 00:22:56,490
+to push fluid and
+electrolytes into the nephron.
+
+433
+00:22:56,690 --> 00:22:59,950
+Now on the reverse, when
+you have a relaxation
+
+434
+00:22:59,950 --> 00:23:02,750
+of the aferin arterial,
+so the bottom row,
+
+435
+00:23:03,110 --> 00:23:05,950
+glomerular capillary
+pressure increases because
+
+436
+00:23:05,950 --> 00:23:08,610
+you're having more
+flow into the area. Now
+
+437
+00:23:08,610 --> 00:23:11,070
+as you see in both, the
+aferin arterial is doing
+
+438
+00:23:11,070 --> 00:23:13,130
+the reverse of what the
+afferent arterial is
+
+439
+00:23:13,130 --> 00:23:16,410
+doing. This further
+accentuates the process.
+
+440
+00:23:16,830 --> 00:23:19,990
+However in some
+scenarios they may go a
+
+441
+00:23:19,990 --> 00:23:22,470
+similar way so maybe the
+afferent and the efferent
+
+442
+00:23:22,470 --> 00:23:24,730
+are both working in
+the same direction.
+
+443
+00:23:25,590 --> 00:23:30,010
+I want to mention too that
+each glomerulus in the
+
+444
+00:23:30,010 --> 00:23:34,190
+million about a million
+nephrons of each kidney could
+
+445
+00:23:34,190 --> 00:23:36,870
+be doing different things.
+Not all of them have to be
+
+446
+00:23:36,870 --> 00:23:39,150
+doing the same thing when
+it comes to the afferent
+
+447
+00:23:39,150 --> 00:23:41,790
+arterial resistance and
+efferent arterial resistance.
+
+448
+00:23:41,790 --> 00:23:43,910
+Your body's
+constantly adapting to
+
+449
+00:23:43,910 --> 00:23:45,890
+changing fluid
+levels, what you eat,
+
+450
+00:23:45,890 --> 00:23:50,450
+things you consume, and fluid
+levels as well. So usually
+
+451
+00:23:50,450 --> 00:23:52,090
+when I'm talking about
+this stuff, it's just
+
+452
+00:23:52,090 --> 00:23:57,890
+considering one nephron at a
+time or glomerulus at a time.
+
+453
+00:23:58,250 --> 00:24:01,010
+Now I want to talk
+about regular blood flow
+
+454
+00:24:01,010 --> 00:24:04,310
+versus renal blood flow
+versus renal plasma flow.
+
+455
+00:24:04,420 --> 00:24:06,000
+This can be a little confusing.
+
+456
+00:24:06,390 --> 00:24:08,750
+Q, which we already
+talked about, deals with
+
+457
+00:24:08,750 --> 00:24:11,250
+the specific hemodynamics
+within the vessels of
+
+458
+00:24:11,250 --> 00:24:14,710
+the kidney or any other
+artery. While total
+
+459
+00:24:14,710 --> 00:24:17,810
+renal blood flow deals
+with the actual full volume
+
+460
+00:24:17,810 --> 00:24:20,110
+of blood reaching the
+kidney specifically.
+
+461
+00:24:20,670 --> 00:24:23,070
+And renal plasma flow
+is the renal blood
+
+462
+00:24:23,070 --> 00:24:26,430
+flow minus the cells
+within the blood.
+
+463
+00:24:26,690 --> 00:24:29,850
+So cell-free
+plasma each minute.
+
+464
+00:24:30,250 --> 00:24:33,810
+renal blood flow is a great
+measure of overall oxygen
+
+465
+00:24:33,810 --> 00:24:37,130
+and nutrient delivery to
+the kidneys renal plasma
+
+466
+00:24:37,130 --> 00:24:40,910
+flow looks actually at the
+filterable fluid the kidneys
+
+467
+00:24:40,910 --> 00:24:44,390
+will get per minute hematocrit
+is the percent of total
+
+468
+00:24:44,390 --> 00:24:47,410
+blood volume that consists
+of red blood cells so
+
+469
+00:24:47,410 --> 00:24:50,990
+men normally have 41 to 50
+percent and female normally
+
+470
+00:24:50,990 --> 00:24:54,870
+36 to 47 percent children
+can be variable depending
+
+471
+00:24:54,870 --> 00:24:58,330
+on age. Anemia, this number
+would be low. In something
+
+472
+00:24:58,330 --> 00:25:01,510
+like polycythemia or
+dehydration, it would be high.
+
+473
+00:25:01,790 --> 00:25:05,770
+Since hematocrit is
+percent of RBCs, then one
+
+474
+00:25:05,770 --> 00:25:08,810
+minus hematocrit is
+approximately blood plasma
+
+475
+00:25:08,810 --> 00:25:11,530
+percentage. These are
+all approximations.
+
+476
+00:25:11,930 --> 00:25:14,050
+Hematocrit, like I
+already mentioned,
+
+477
+00:25:14,050 --> 00:25:16,150
+relates to the blood
+viscosity, so the
+
+478
+00:25:16,150 --> 00:25:18,530
+N factor from the
+Q formula earlier.
+
+479
+00:25:18,790 --> 00:25:22,610
+Increase in hematocrit
+means basically more RBCs,
+
+480
+00:25:22,610 --> 00:25:26,490
+which increases viscosity
+and increases in resistance
+
+481
+00:25:26,490 --> 00:25:29,710
+and a decrease in overall
+flow through the kidneys. So
+
+482
+00:25:29,710 --> 00:25:32,190
+you can see how some
+pathological processes might
+
+483
+00:25:32,190 --> 00:25:37,610
+impact this. So that's why
+finding renal plasma flow
+
+484
+00:25:37,610 --> 00:25:41,590
+would be taking the renal
+blood flow times the percentage
+
+485
+00:25:41,590 --> 00:25:44,270
+of one minus hermetocrine,
+because that's going
+
+486
+00:25:44,270 --> 00:25:47,530
+to be the percentage of
+blood that just contains the
+
+487
+00:25:47,530 --> 00:25:51,870
+plasma and then you just
+divide the term over to find
+
+488
+00:25:51,870 --> 00:25:55,630
+the renal blood flow from
+the renal plasma flow i
+
+489
+00:25:55,730 --> 00:25:58,090
+don't think you would have
+to really calculate any of
+
+490
+00:25:58,090 --> 00:26:00,690
+these numbers on an exam
+but it's good to know the
+
+491
+00:26:00,690 --> 00:26:05,070
+relationships the normals
+are about one liter a minute
+
+492
+00:26:05,070 --> 00:26:07,230
+for renal blood flow like
+i mentioned on the first
+
+493
+00:26:07,230 --> 00:26:11,290
+slide and then renal plasma
+flow is about 600 to 650
+
+494
+00:26:11,290 --> 00:26:15,870
+milliliters a minute. The
+term effective is basically a
+
+495
+00:26:15,870 --> 00:26:22,230
+term that is looking at a
+marker that is estimated.
+
+496
+00:26:22,850 --> 00:26:27,190
+In studies this can be
+found using something
+
+497
+00:26:27,190 --> 00:26:30,370
+called para-aminohyperic
+acid or PAH.
+
+498
+00:26:30,510 --> 00:26:34,550
+This is due to the fact
+that PAH in plasma is almost
+
+499
+00:26:34,550 --> 00:26:37,330
+fully excreted out of
+the kidney into urine.
+
+500
+00:26:37,330 --> 00:26:39,370
+So it gets filtered in
+and then it stays in the
+
+501
+00:26:39,370 --> 00:26:42,650
+tubule and then is peed
+out. Meaning that its renal
+
+502
+00:26:42,650 --> 00:26:45,390
+plasma flow is basically
+equal to its clearance.
+
+503
+00:26:45,390 --> 00:26:49,330
+So as much that's in the
+plasma goes into the kidney,
+
+504
+00:26:49,330 --> 00:26:51,730
+into the bladder, and
+then it's urinated out.
+
+505
+00:26:52,210 --> 00:26:57,950
+The clearance of PAH is found
+by multiplying the urine
+
+506
+00:26:57,950 --> 00:27:04,050
+flow rate times the
+concentration of PAH in the
+
+507
+00:27:04,050 --> 00:27:08,010
+urine divided by the
+concentration of PAH in the blood.
+
+508
+00:27:08,410 --> 00:27:09,370
+or plasma.
+
+509
+00:27:09,660 --> 00:27:11,490
+We will come back to clearance.
+
+510
+00:27:11,830 --> 00:27:14,210
+In the modern day, you
+can use radioactive
+
+511
+00:27:14,210 --> 00:27:18,710
+tracers in syntigraphy to
+find renal plasma flow.
+
+512
+00:27:19,370 --> 00:27:21,130
+These are important topics
+
+513
+00:27:21,130 --> 00:27:23,430
+clinically and also
+on board exams.
+
+514
+00:27:24,630 --> 00:27:27,070
+So taking in everything
+we just learned and
+
+515
+00:27:27,070 --> 00:27:29,190
+then moving on to
+glomerular filtration,
+
+516
+00:27:29,230 --> 00:27:31,850
+I wanted to give you guys
+some stats about what
+
+517
+00:27:31,850 --> 00:27:34,310
+happens every day in the
+kidney. So So cardiac
+
+518
+00:27:34,310 --> 00:27:36,910
+output, like I said, per
+minute is about 5 liters.
+
+519
+00:27:37,410 --> 00:27:39,210
+That's how much
+the heart pumps.
+
+520
+00:27:39,510 --> 00:27:43,210
+Now 20% of this, or 1
+liter, reaches the kidneys,
+
+521
+00:27:43,210 --> 00:27:45,840
+which you can convert to
+about 1,000 milliliters.
+
+522
+00:27:45,870 --> 00:27:49,470
+So 400 milliliters of
+this is unfilterable,
+
+523
+00:27:49,470 --> 00:27:51,290
+which we'll get into
+what kind of things are
+
+524
+00:27:51,290 --> 00:27:53,310
+unfilterable. So usually
+those are like large
+
+525
+00:27:53,310 --> 00:27:57,790
+substances like red
+blood cells or albumin.
+
+526
+00:27:58,170 --> 00:28:01,030
+And 600 milliliters
+of this 1,000
+
+527
+00:28:01,030 --> 00:28:03,330
+constitutes plasma
+that can be filtered.
+
+528
+00:28:03,330 --> 00:28:06,790
+But only about 20% of
+this plasma actually
+
+529
+00:28:06,790 --> 00:28:08,730
+gets filtered into
+Bowman's space.
+
+530
+00:28:09,250 --> 00:28:11,570
+So if you convert
+that, then it's 120
+
+531
+00:28:11,570 --> 00:28:14,130
+milliliters a minute
+that's filtered.
+
+532
+00:28:14,210 --> 00:28:17,950
+So to find the daily
+amount, there's about
+
+533
+00:28:17,950 --> 00:28:23,150
+1440 minutes a day.
+You take 1440 times 120
+
+534
+00:28:23,150 --> 00:28:28,290
+milliliters, and you
+get 172,800 milliliters.
+
+535
+00:28:28,490 --> 00:28:32,910
+So about 173 liters a day
+of plasma is filtered into
+
+536
+00:28:32,910 --> 00:28:35,470
+the tubules of the kidney.
+Wow, isn't that amazing?
+
+537
+00:28:35,870 --> 00:28:38,910
+But you might be
+thinking to yourself,
+
+538
+00:28:38,910 --> 00:28:43,690
+do we pee 173
+liters a day? I hope
+
+539
+00:28:43,690 --> 00:28:45,370
+you don't because
+that would be crazy.
+
+540
+00:28:45,450 --> 00:28:47,370
+So obviously not.
+
+541
+00:28:47,530 --> 00:28:51,350
+The actual amount that
+we urinate out is about 1
+
+542
+00:28:51,350 --> 00:28:55,850
+.73 liters or 1% of this.
+So what happened then?
+
+543
+00:28:56,290 --> 00:28:59,590
+About 99% of things that
+are filtered through
+
+544
+00:28:59,590 --> 00:29:02,370
+the kidney are reabsorbed
+back into the blood.
+
+545
+00:29:03,190 --> 00:29:06,790
+So plasma volume equates
+to around 3 liters total.
+
+546
+00:29:06,790 --> 00:29:10,430
+So that means this volume
+is filtered about 60
+
+547
+00:29:10,430 --> 00:29:13,350
+times a day. So all of
+that plasma is filtered
+
+548
+00:29:13,350 --> 00:29:15,790
+about 60 times a day.
+Pretty amazing stuff.
+
+549
+00:29:16,430 --> 00:29:19,190
+So when we talk
+about filtration,
+
+550
+00:29:19,190 --> 00:29:22,010
+things can get
+terminology heavy.
+
+551
+00:29:22,270 --> 00:29:25,830
+So this slide goes over
+what everything means.
+
+552
+00:29:26,140 --> 00:29:28,730
+Like I said, only
+about 1% of things that
+
+553
+00:29:28,730 --> 00:29:31,130
+actually get filtered
+end up in the urine.
+
+554
+00:29:31,210 --> 00:29:33,950
+This diagram on the
+left is everything
+
+555
+00:29:33,950 --> 00:29:36,070
+that basically happens
+within the nephron
+
+556
+00:29:36,070 --> 00:29:38,710
+and the vasculature
+in a nutshell.
+
+557
+00:29:39,470 --> 00:29:42,030
+Excretion is just another
+term for urination.
+
+558
+00:29:42,030 --> 00:29:45,150
+So excretion then would
+equal the things that are
+
+559
+00:29:45,150 --> 00:29:48,330
+filtered through into the
+nephron minus the things
+
+560
+00:29:48,330 --> 00:29:50,850
+that are brought back into
+the blood or reabsorbed.
+
+561
+00:29:51,750 --> 00:29:55,210
+and the things
+secreted to stay within
+
+562
+00:29:55,210 --> 00:29:58,250
+the tubules and
+eventually excreted.
+
+563
+00:29:58,290 --> 00:30:01,150
+Things that are reabsorbed
+and secreted have to be
+
+564
+00:30:01,150 --> 00:30:04,330
+filtered first, but the
+difference is one thing goes
+
+565
+00:30:04,330 --> 00:30:06,590
+back into the blood and one
+thing stays in the urine.
+
+566
+00:30:06,610 --> 00:30:10,490
+We talked about the
+pressures of the afferent
+
+567
+00:30:10,490 --> 00:30:14,410
+arterioles and glomerular
+capillaries. This is what drives
+
+568
+00:30:14,410 --> 00:30:17,510
+the formation of the
+ultrafiltrate or filtrate,
+
+569
+00:30:17,510 --> 00:30:21,270
+and that just means the fluid
+that's left after things
+
+570
+00:30:21,270 --> 00:30:24,230
+come from the blood and
+go into the actual tubular
+
+571
+00:30:24,230 --> 00:30:27,550
+system. You see that
+glomerular filtrate fluid
+
+572
+00:30:27,550 --> 00:30:30,810
+left after the ultrafiltration
+occurs. We touched
+
+573
+00:30:30,810 --> 00:30:32,950
+upon clearance which is
+the rate at which substance
+
+574
+00:30:32,950 --> 00:30:35,250
+is removed from the body
+by the kidney and put into
+
+575
+00:30:35,250 --> 00:30:37,750
+urine to be excreted.
+This is going to be the
+
+576
+00:30:37,750 --> 00:30:40,530
+concentration of whatever
+substance in urine times the
+
+577
+00:30:40,530 --> 00:30:43,770
+urine flow rate divided by
+the plasma concentration.
+
+578
+00:30:44,550 --> 00:30:47,570
+GFR or glomerular filtration
+rate is expressed in
+
+579
+00:30:47,570 --> 00:30:49,950
+milliliters a minute, and
+it's the actual volume
+
+580
+00:30:49,950 --> 00:30:52,110
+of fluid filtered from
+the blood by the kidneys
+
+581
+00:30:52,110 --> 00:30:55,470
+glomeruli into the kidney
+tubules per unit of time.
+
+582
+00:30:56,010 --> 00:30:59,210
+It is the number one
+indicator of kidney function.
+
+583
+00:30:59,330 --> 00:31:02,050
+To get actual GFR, you
+would need to do a 24
+
+584
+00:31:02,050 --> 00:31:04,790
+-hour urine test, but in
+the clinic, most people
+
+585
+00:31:04,790 --> 00:31:08,120
+use eGFR, which is a
+blood test for creatinine
+
+586
+00:31:08,120 --> 00:31:12,130
+levels. I've linked the
+resources you can use to
+
+587
+00:31:12,130 --> 00:31:14,870
+calculate this in different
+people on rotations.
+
+588
+00:31:15,890 --> 00:31:18,710
+Okay, so by now we've
+talked about the blood
+
+589
+00:31:18,710 --> 00:31:21,430
+flow to the kidney,
+how the blood flow is
+
+590
+00:31:21,430 --> 00:31:23,710
+regulated, what factors
+influence the blood
+
+591
+00:31:23,710 --> 00:31:27,340
+flow, as well as some
+filtration definitions,
+
+592
+00:31:27,690 --> 00:31:31,010
+but what actually is
+being filtered and what
+
+593
+00:31:31,010 --> 00:31:35,370
+influences the ability
+to be filtered or not.
+
+594
+00:31:35,880 --> 00:31:38,350
+So first we'll talk
+about what's in the blood
+
+595
+00:31:38,350 --> 00:31:40,850
+that will reach the
+renal corpuscle, what
+
+596
+00:31:40,850 --> 00:31:43,030
+barriers exist, which we
+already kind of touched
+
+597
+00:31:43,030 --> 00:31:45,570
+on, and what are the
+underlying pressures
+
+598
+00:31:45,570 --> 00:31:48,410
+in physics behind why
+things get filtered.
+
+599
+00:31:48,930 --> 00:31:52,170
+So things that are in the
+blood that will filter freely
+
+600
+00:31:52,170 --> 00:31:55,830
+are small, positively
+charged, inorganic molecules.
+
+601
+00:31:55,830 --> 00:32:00,050
+And they basically share
+a similar concentration
+
+602
+00:32:00,050 --> 00:32:02,930
+in filtrate to the blood,
+meaning they filter freely.
+
+603
+00:32:02,930 --> 00:32:06,630
+These include electrolytes
+like sodium and chloride,
+
+604
+00:32:06,630 --> 00:32:10,010
+glucose, amino acids, urea,
+creatine, and vitamins.
+
+605
+00:32:10,230 --> 00:32:14,310
+Anything that's large,
+negatively charged, and a
+
+606
+00:32:14,310 --> 00:32:17,390
+blood cell will not
+usually filter freely. What
+
+607
+00:32:17,390 --> 00:32:19,750
+we're referring to here
+is physiologic conditions.
+
+608
+00:32:19,930 --> 00:32:22,090
+In many pathological
+conditions,
+
+609
+00:32:22,090 --> 00:32:23,680
+you'll see this
+gets interrupted.
+
+610
+00:32:24,010 --> 00:32:25,290
+Please take a moment to look
+
+611
+00:32:25,290 --> 00:32:26,790
+at the chart on the right.
+
+612
+00:32:27,010 --> 00:32:30,970
+You'll notice something like
+sodium is filtering very
+
+613
+00:32:30,970 --> 00:32:34,490
+freely, whereas something
+like albumin really has
+
+614
+00:32:34,490 --> 00:32:37,590
+no shot of getting through
+the filter barrier in a
+
+615
+00:32:37,590 --> 00:32:40,930
+physiologic state you'll
+notice too that sodium and
+
+616
+00:32:40,930 --> 00:32:44,210
+potassium filter more freely
+than chloride because of
+
+617
+00:32:44,210 --> 00:32:46,270
+their positive charge even
+though they're basically
+
+618
+00:32:46,270 --> 00:32:50,130
+the same size so the three
+barriers to filtration
+
+619
+00:32:50,130 --> 00:32:52,630
+we already covered on an
+earlier slide but i'll go
+
+620
+00:32:52,630 --> 00:32:54,830
+through them again because
+it's important so on the
+
+621
+00:32:54,830 --> 00:32:57,670
+capillary side of the glomerulus
+you have the fenestrated
+
+622
+00:32:57,670 --> 00:33:01,910
+endothelial cells these
+are size exclusive they
+
+623
+00:33:01,910 --> 00:33:05,390
+only allow things under 100
+nanometers to fit through
+
+624
+00:33:05,390 --> 00:33:09,090
+them the basement membrane
+basically separates the
+
+625
+00:33:09,090 --> 00:33:13,270
+capillary side from the
+bowman space side it contains
+
+626
+00:33:13,270 --> 00:33:16,670
+type 4 collagen heparin
+sulfate glycoproteins and
+
+627
+00:33:16,670 --> 00:33:20,050
+proteoglycans it is
+negatively charged this is
+
+628
+00:33:20,050 --> 00:33:24,250
+electromagnetic exclusion
+negative things repel negative
+
+629
+00:33:24,250 --> 00:33:28,510
+things so that this is why
+the barrier repels negative
+
+630
+00:33:28,510 --> 00:33:31,690
+charges closer to The
+Bowman space is the visceral
+
+631
+00:33:31,690 --> 00:33:34,710
+epithelialator with the
+podocyte foot processes.
+
+632
+00:33:34,710 --> 00:33:38,250
+These once again are size
+exclusive and usually
+
+633
+00:33:38,250 --> 00:33:40,710
+they have to be less
+than 50 nanometers.
+
+634
+00:33:41,470 --> 00:33:43,950
+Slit diaphragms also
+occur here which are just
+
+635
+00:33:43,950 --> 00:33:46,630
+basically slits to allow
+small things to pass by.
+
+636
+00:33:46,670 --> 00:33:48,690
+This is once again our net.
+
+637
+00:33:49,010 --> 00:33:52,530
+Many different nephrotic
+and nephritic syndromes
+
+638
+00:33:52,530 --> 00:33:56,490
+attack these areas of
+the filtration barrier.
+
+639
+00:33:56,700 --> 00:33:59,490
+For example, diseases
+against type 4 collagen
+
+640
+00:33:59,490 --> 00:34:02,310
+can affect the ability
+for kidneys to filter.
+
+641
+00:34:02,390 --> 00:34:05,530
+So what is actually
+driving this filterability?
+
+642
+00:34:05,530 --> 00:34:08,550
+You have hydrostatic
+and oncotic pressure.
+
+643
+00:34:09,070 --> 00:34:11,450
+Hydrostatic pressure
+is basically a pressure
+
+644
+00:34:11,450 --> 00:34:14,050
+exerted by a fluid at
+rest due to gravity.
+
+645
+00:34:14,130 --> 00:34:16,390
+So more fluid and
+more blood pressure
+
+646
+00:34:16,390 --> 00:34:19,130
+means higher
+hydrostatic pressure.
+
+647
+00:34:19,450 --> 00:34:24,210
+Oncotic pressure is a pulling
+pressure that is enacted
+
+648
+00:34:24,210 --> 00:34:27,430
+by large molecules particularly
+proteins like albumin
+
+649
+00:34:27,430 --> 00:34:29,990
+in the blood. This pressure
+is one of the reasons
+
+650
+00:34:29,990 --> 00:34:32,930
+fluid doesn't just leave
+arteries and veins in the body.
+
+651
+00:34:32,930 --> 00:34:37,350
+The combination of these
+determines the GFR or filter
+
+652
+00:34:37,350 --> 00:34:41,440
+ability of this sequence.
+Please look at the formula
+
+653
+00:34:41,610 --> 00:34:45,470
+on the bottom there. So
+some things want to move the
+
+654
+00:34:45,470 --> 00:34:48,190
+fluid into Bowman space and
+some things want to take
+
+655
+00:34:48,190 --> 00:34:51,490
+it out of Bowman space back
+into the capillary. Things
+
+656
+00:34:51,490 --> 00:34:55,350
+that favor filtration are
+the hydrostatic pressure in
+
+657
+00:34:55,350 --> 00:34:58,930
+the glomerular capillaries
+as GC and the oncotic
+
+658
+00:34:58,930 --> 00:35:02,050
+pressure of the filtrate in
+the Bowman space, which I will
+
+659
+00:35:02,050 --> 00:35:04,690
+make a note is very small
+because I just mentioned
+
+660
+00:35:04,690 --> 00:35:07,870
+that large proteins that
+usually exert an oncotic
+
+661
+00:35:07,870 --> 00:35:12,110
+pressure aren't supposed to
+be found in the Bowman space.
+
+662
+00:35:12,110 --> 00:35:15,550
+Things that work against
+filterability are the
+
+663
+00:35:15,550 --> 00:35:18,190
+hydrostatic pressure
+in Bowman space and the
+
+664
+00:35:18,190 --> 00:35:20,670
+oncotic pressure in the
+glomerular capillary.
+
+665
+00:35:20,890 --> 00:35:25,020
+K sub F is a glomerular
+permeability value.
+
+666
+00:35:25,470 --> 00:35:27,850
+It is under active
+control and it
+
+667
+00:35:27,850 --> 00:35:29,510
+differs between organ to organ.
+
+668
+00:35:29,910 --> 00:35:32,790
+The summation and
+combination of all of these
+
+669
+00:35:32,790 --> 00:35:35,530
+factors, whether they
+oppose or favor filtration,
+
+670
+00:35:35,530 --> 00:35:38,490
+will determine the
+actual filterability
+
+671
+00:35:38,490 --> 00:35:41,810
+of the fluid passing
+through the glomerulus.
+
+672
+00:35:42,290 --> 00:35:45,310
+These usually aren't
+calculated clinically,
+
+673
+00:35:45,580 --> 00:35:47,610
+but we'll get to
+that later, how
+
+674
+00:35:47,610 --> 00:35:49,770
+GFR is actually
+looked at clinically.
+
+675
+00:35:50,180 --> 00:35:53,150
+This slide is to
+further show the
+
+676
+00:35:53,150 --> 00:35:54,710
+importance of these pressures.
+
+677
+00:35:54,720 --> 00:35:57,030
+On the right, the
+first thing I noticed
+
+678
+00:35:57,030 --> 00:36:00,110
+was the lack of
+oncotic pressure in
+
+679
+00:36:00,110 --> 00:36:02,190
+Bowman's space, like
+I already mentioned.
+
+680
+00:36:02,670 --> 00:36:06,270
+I had a teacher in ninth
+grade that used to say
+
+681
+00:36:06,270 --> 00:36:09,410
+molecules will naturally
+flow from an area of high
+
+682
+00:36:09,410 --> 00:36:12,570
+to low. So if you look at
+the fluid or hydrostatic
+
+683
+00:36:13,230 --> 00:36:16,310
+pressures of the
+glomerular capillary blood
+
+684
+00:36:16,310 --> 00:36:19,870
+versus the fluid pressure
+in Bowman space, it's 60
+
+685
+00:36:19,870 --> 00:36:22,350
+versus 15. The fluid's
+going to want to flow
+
+686
+00:36:22,350 --> 00:36:27,250
+from the 60 to the 15. So
+from the PGC to the PBS.
+
+687
+00:36:27,690 --> 00:36:29,850
+You still do have
+that albumin in the
+
+688
+00:36:29,850 --> 00:36:31,830
+plasma and that's
+where that 29 comes
+
+689
+00:36:31,830 --> 00:36:34,770
+from, which is noted
+with a pi symbol.
+
+690
+00:36:34,910 --> 00:36:37,690
+You can start thinking
+about now changes in
+
+691
+00:36:37,690 --> 00:36:40,410
+blood pressure and changes
+in protein content of
+
+692
+00:36:40,410 --> 00:36:42,990
+the blood may have an
+effect on these numbers.
+
+693
+00:36:42,990 --> 00:36:46,290
+The net filtration pressure
+is a positive number
+
+694
+00:36:46,290 --> 00:36:49,770
+here at 16, meaning that
+things will be flowing from
+
+695
+00:36:49,770 --> 00:36:52,290
+the glomerular capillary
+into the Bowman space.
+
+696
+00:36:52,350 --> 00:36:54,810
+On the left is an
+image from First
+
+697
+00:36:54,810 --> 00:36:58,050
+Aid, which also
+shows this very well.
+
+698
+00:36:58,150 --> 00:37:01,530
+You can even see some of
+the words I mentioned,
+
+699
+00:37:01,530 --> 00:37:03,650
+excreted, secreted,
+reabsorbed, and filtered,
+
+700
+00:37:04,050 --> 00:37:06,370
+as well as some
+effects of some drugs
+
+701
+00:37:06,370 --> 00:37:08,250
+like ACE inhibitors
+or NSAIDs, which
+
+702
+00:37:08,250 --> 00:37:09,710
+will be covered
+in other lectures.
+
+703
+00:37:10,830 --> 00:37:14,870
+It is very important to always
+remember which pressures
+
+704
+00:37:14,870 --> 00:37:17,670
+are driving filtration
+and which are against it.
+
+705
+00:37:18,110 --> 00:37:21,030
+So here's some more
+filtration formulas to know.
+
+706
+00:37:21,030 --> 00:37:24,230
+Like already mentioned,
+GFR is best estimated with
+
+707
+00:37:24,230 --> 00:37:27,190
+creatinine clearance in
+urine, but clinically we use
+
+708
+00:37:27,190 --> 00:37:31,170
+EGFR, which is estimated
+with blood creatinine levels.
+
+709
+00:37:32,590 --> 00:37:36,750
+RPF is best estimated
+with PAH clearance, which
+
+710
+00:37:36,750 --> 00:37:39,690
+once again is the urine
+flow rate times the urine
+
+711
+00:37:39,690 --> 00:37:42,970
+concentration divided by
+plasma concentration. So
+
+712
+00:37:42,970 --> 00:37:47,670
+filtration fraction, which
+is the GFR over the RPF or
+
+713
+00:37:47,670 --> 00:37:50,690
+clearance of creatinine
+over clearance of PAH,
+
+714
+00:37:50,690 --> 00:37:54,050
+indicates what percentage
+of renal plasma is filtered
+
+715
+00:37:54,050 --> 00:37:56,950
+into the Bowman's capsule.
+So normally it's about
+
+716
+00:37:56,950 --> 00:38:00,010
+20% like I already mentioned
+or one fifth of the
+
+717
+00:38:00,010 --> 00:38:03,390
+plasma entering the kidneys
+is really filtered. It
+
+718
+00:38:03,390 --> 00:38:06,110
+helps identify changes
+in kidney blood flow and
+
+719
+00:38:06,110 --> 00:38:10,230
+glomerular function. In specific
+scenarios like dehydration
+
+720
+00:38:10,230 --> 00:38:13,430
+or a pathology called
+renal artery stenosis,
+
+721
+00:38:13,590 --> 00:38:18,270
+GFR is maintained but RPF
+will decrease causing an
+
+722
+00:38:18,270 --> 00:38:21,930
+increase in filtration
+fraction. In scenarios of
+
+723
+00:38:21,930 --> 00:38:25,750
+glomerular disease where
+the kidney can't keep up and
+
+724
+00:38:25,750 --> 00:38:31,250
+GFR falls and the renal
+plasma flow stays the same,
+
+725
+00:38:31,250 --> 00:38:33,990
+you would see a decrease
+in filtration fraction.
+
+726
+00:38:34,730 --> 00:38:38,390
+Filtered load is just GFR
+times the plasma concentration
+
+727
+00:38:38,390 --> 00:38:41,510
+of some substance, such
+as sodium or glucose.
+
+728
+00:38:41,510 --> 00:38:43,950
+It's the amount of
+substance filtered into the
+
+729
+00:38:43,950 --> 00:38:47,530
+nephron each We can use
+this to see how much of a
+
+730
+00:38:47,530 --> 00:38:50,810
+substance is reabsorbed,
+secreted, or excreted. For
+
+731
+00:38:50,810 --> 00:38:54,870
+example, if you have a
+GFR of 125 milliliters a
+
+732
+00:38:54,870 --> 00:38:58,410
+minute and a plasma glucose
+of 1 milligram per milliliter,
+
+733
+00:38:58,410 --> 00:39:01,910
+the filtered load would
+just be 125 times 1,
+
+734
+00:39:01,910 --> 00:39:05,770
+and if all 125 milligrams
+a minute are reabsorbed,
+
+735
+00:39:05,830 --> 00:39:08,570
+no glucose would then
+appear in the urine. So
+
+736
+00:39:08,570 --> 00:39:10,790
+if the filtered load
+exceeds the kidney's
+
+737
+00:39:10,790 --> 00:39:13,930
+reabsorptive capacity,
+capacity, glucose appears in
+
+738
+00:39:13,930 --> 00:39:16,630
+the urine, as can occur
+in diabetes mellitus.
+
+739
+00:39:16,900 --> 00:39:20,210
+So if you're filtering
+more than what the kidneys
+
+740
+00:39:20,210 --> 00:39:22,610
+can keep up with, things
+are going to start showing
+
+741
+00:39:22,610 --> 00:39:24,430
+up in the urine,
+especially things that can
+
+742
+00:39:24,430 --> 00:39:27,870
+pass through that filtration
+barrier like glucose.
+
+743
+00:39:29,040 --> 00:39:31,490
+The plant protein inulin is the
+
+744
+00:39:31,490 --> 00:39:34,570
+gold standard for GFR testing.
+
+745
+00:39:34,880 --> 00:39:38,930
+It does not bind to plasma
+proteins. it is a hundred
+
+746
+00:39:38,930 --> 00:39:42,910
+percent freely filtered
+through the kidney it never
+
+747
+00:39:42,910 --> 00:39:47,790
+gets reabsorbed and it's
+never secreted and 0% of it
+
+748
+00:39:47,790 --> 00:39:50,510
+is synthesized degraded or
+stored in the body because
+
+749
+00:39:50,510 --> 00:39:53,990
+it comes from a plant so why
+isn't this used clinically
+
+750
+00:39:53,990 --> 00:39:57,310
+if it's such a perfect
+marker for GFR and clearance
+
+751
+00:39:57,310 --> 00:40:00,270
+because it isn't naturally
+produced by the human
+
+752
+00:40:00,270 --> 00:40:04,510
+body to actually perform an
+inulin clearance test, you
+
+753
+00:40:04,510 --> 00:40:08,230
+would need a continuous IV
+infusion and timed urine
+
+754
+00:40:08,230 --> 00:40:11,430
+collection, which could be
+burdensome and expensive.
+
+755
+00:40:11,650 --> 00:40:14,110
+In more clinical
+research settings, it
+
+756
+00:40:14,110 --> 00:40:15,930
+can be used, but
+in daily clinical
+
+757
+00:40:15,930 --> 00:40:19,070
+practice, it would
+be not smart to use.
+
+758
+00:40:19,230 --> 00:40:22,450
+I actually misspoke, so
+inulin is not a protein,
+
+759
+00:40:22,450 --> 00:40:25,130
+it's a polysaccharide, but
+that doesn't change much.
+
+760
+00:40:25,350 --> 00:40:28,970
+While inulin is the
+gold standard, for the
+
+761
+00:40:28,970 --> 00:40:32,450
+reasons I've explained,
+we tend to use creatinine.
+
+762
+00:40:32,610 --> 00:40:34,130
+Creatinine is the closest
+
+763
+00:40:34,130 --> 00:40:36,170
+endogenous substance to inulin.
+
+764
+00:40:37,150 --> 00:40:39,670
+It's predictably
+produced at a constant
+
+765
+00:40:39,670 --> 00:40:42,170
+rate in the body. It's
+freely filtered by
+
+766
+00:40:42,170 --> 00:40:44,270
+the kidneys, and it's
+neither reabsorbed
+
+767
+00:40:44,270 --> 00:40:47,010
+nor significantly
+metabolized in the body.
+
+768
+00:40:47,100 --> 00:40:50,210
+You may hear a lot of people
+say creatine when they're
+
+769
+00:40:50,250 --> 00:40:52,710
+talking about kidney
+function, but they're actually
+
+770
+00:40:52,710 --> 00:40:54,950
+wrong. We're talking
+about creatinine here.
+
+771
+00:40:54,950 --> 00:40:58,010
+Creatinine is a waste product
+of daily muscle breakdown
+
+772
+00:40:58,010 --> 00:41:00,670
+where creatine is an energy
+source the body produces
+
+773
+00:41:00,670 --> 00:41:03,130
+and can be increased by
+dietary supplementation.
+
+774
+00:41:03,510 --> 00:41:05,770
+You may know some people
+or some friends who
+
+775
+00:41:05,770 --> 00:41:07,790
+go to the gym and take
+creatine supplementation
+
+776
+00:41:07,850 --> 00:41:10,090
+to improve strength
+and muscle endurance.
+
+777
+00:41:10,790 --> 00:41:15,320
+Normal serum creatine
+is between 0.74 and 1.35
+
+778
+00:41:15,320 --> 00:41:19,790
+milligrams per deciliter
+for men and 0.59 to 1.04
+
+779
+00:41:19,790 --> 00:41:23,710
+milligrams per deciliter per
+woman this all depends on
+
+780
+00:41:23,710 --> 00:41:27,490
+muscle mass and lab standards
+once again just to note
+
+781
+00:41:27,490 --> 00:41:33,490
+the clearance and GFR for
+creatinine would be needed
+
+782
+00:41:33,490 --> 00:41:37,170
+to use a urine sample over
+24 hours but estimated
+
+783
+00:41:37,170 --> 00:41:40,390
+GFR eGFR is when you take
+the actual blood sample
+
+784
+00:41:40,390 --> 00:41:45,170
+for serum creatine
+creatinine and because it's a
+
+785
+00:41:45,170 --> 00:41:49,130
+muscle mass breakdown product,
+muscle mass, age, diet,
+
+786
+00:41:49,130 --> 00:41:52,850
+and activity all can
+influence it in minor ways.
+
+787
+00:41:53,010 --> 00:41:56,650
+It actually isn't perfect
+like inulin is, and it
+
+788
+00:41:56,650 --> 00:41:59,870
+does slightly overestimate
+GFR, but it is one of
+
+789
+00:41:59,870 --> 00:42:02,650
+the best markers we have.
+A newer biomarker is
+
+790
+00:42:02,650 --> 00:42:06,070
+Cystatin C, which is an
+alternative endogenous
+
+791
+00:42:06,070 --> 00:42:09,230
+marker, and it's produced
+by all nucleated cells,
+
+792
+00:42:09,230 --> 00:42:12,550
+but it's less influenced
+by muscle mass or diet.
+
+793
+00:42:12,670 --> 00:42:15,010
+However, they're finding
+it can be influenced
+
+794
+00:42:15,010 --> 00:42:17,010
+more by thyroid
+disease, diabetes, and
+
+795
+00:42:17,010 --> 00:42:19,750
+smoking. So if a substance
+has a clearance and
+
+796
+00:42:19,750 --> 00:42:23,210
+GFR that are 100% equal,
+it's something like
+
+797
+00:42:23,210 --> 00:42:25,840
+inulin, and it's not
+secreted or reabsorbed.
+
+798
+00:42:26,190 --> 00:42:29,940
+If clearance is greater
+than GFR, this is something
+
+799
+00:42:29,940 --> 00:42:32,010
+similar to creatinine,
+and there would be
+
+800
+00:42:32,010 --> 00:42:35,150
+a net secretion of this
+substance, substance X.
+
+801
+00:42:35,350 --> 00:42:38,070
+If GFR is higher
+than clearance, that
+
+802
+00:42:38,070 --> 00:42:39,770
+would mean there would
+be a net reabsorption
+
+803
+00:42:39,770 --> 00:42:42,230
+of X or it's not
+freely filtered.
+
+804
+00:42:42,670 --> 00:42:45,870
+I forgot to mention on the
+last slide why creatinine
+
+805
+00:42:45,870 --> 00:42:49,630
+clearance runs slightly
+higher than the estimated
+
+806
+00:42:49,630 --> 00:42:53,490
+EGFR. Because the kidneys
+themselves secrete a very
+
+807
+00:42:53,490 --> 00:42:56,130
+small amount of extra
+creatinine into the urine
+
+808
+00:42:56,130 --> 00:43:00,290
+through the renal tubules.
+This is why creatine clearance,
+
+809
+00:43:00,290 --> 00:43:04,650
+creatinine clearance, is
+slightly more high than
+
+810
+00:43:04,650 --> 00:43:08,350
+an EGFR derived from a
+blood test of creatinine.
+
+811
+00:43:08,590 --> 00:43:10,970
+This slide, I wouldn't
+memorize this, but this is
+
+812
+00:43:10,970 --> 00:43:14,570
+just the biochemical pathway
+of getting from amino
+
+813
+00:43:14,570 --> 00:43:18,750
+acids to creatine to
+creatinine. So just to nail
+
+814
+00:43:18,750 --> 00:43:20,150
+it into your head that
+there are two different
+
+815
+00:43:20,150 --> 00:43:22,830
+things, creatine and
+creatinine. And I know I
+
+816
+00:43:23,100 --> 00:43:26,090
+misspoke here and there,
+but I hope you guys get it.
+
+817
+00:43:26,750 --> 00:43:29,150
+So why is any of
+this important?
+
+818
+00:43:29,790 --> 00:43:34,330
+Basically, EGFR is a major
+factor in looking at kidney
+
+819
+00:43:34,330 --> 00:43:36,850
+function. And as physicians,
+we're going to see
+
+820
+00:43:36,850 --> 00:43:39,910
+patients who have different
+pathologies, patients on
+
+821
+00:43:39,910 --> 00:43:43,390
+different medications, and we
+have to adjust the treatments
+
+822
+00:43:43,390 --> 00:43:47,670
+using those medications
+and how we look at the
+
+823
+00:43:47,670 --> 00:43:50,690
+pathologies based on how
+their kidneys are functioning.
+
+824
+00:43:50,850 --> 00:43:53,930
+I've linked on the top left
+two great resources you
+
+825
+00:43:53,930 --> 00:43:58,110
+can use on rotations to
+determine GFR and clearance.
+
+826
+00:43:58,110 --> 00:44:01,050
+And it is actually good
+to know for exam purposes
+
+827
+00:44:01,050 --> 00:44:03,730
+the different stages of
+chronic kidney disease,
+
+828
+00:44:03,730 --> 00:44:06,130
+because they will give
+you symptomatology and how
+
+829
+00:44:06,130 --> 00:44:08,690
+the patients are doing
+and expect you to know the
+
+830
+00:44:08,690 --> 00:44:11,550
+difference between stage 4
+and stage 2, for example.
+
+831
+00:44:11,770 --> 00:44:15,050
+Permanent kidney failure
+and dialysis is a serious
+
+832
+00:44:15,050 --> 00:44:18,130
+thing. I know loved
+ones affected by it, and
+
+833
+00:44:18,130 --> 00:44:20,990
+it truly is life-altering.
+So if you can maintain
+
+834
+00:44:20,990 --> 00:44:23,250
+health and maintain
+good kidney health, that
+
+835
+00:44:23,250 --> 00:44:25,590
+would definitely benefit
+you in the long run.
+
+836
+00:44:25,850 --> 00:44:29,610
+This is a clinical
+correlate from a book called
+
+837
+00:44:29,610 --> 00:44:32,050
+Clinical Pathophysiology
+Made Ridiculously
+
+838
+00:44:32,050 --> 00:44:34,690
+simple. It's cheap, it's on
+Amazon, I highly recommend
+
+839
+00:44:34,690 --> 00:44:37,230
+it. The point I'm trying
+to make here is that
+
+840
+00:44:37,230 --> 00:44:40,130
+in any type of renal
+failure or renal damage,
+
+841
+00:44:40,130 --> 00:44:42,020
+you're going to see an
+increase in creatinine.
+
+842
+00:44:42,570 --> 00:44:45,610
+Further studies are
+needed to nail down what
+
+843
+00:44:45,610 --> 00:44:48,690
+kind of renal failure
+might be occurring.
+
+844
+00:44:49,230 --> 00:44:52,230
+So for example, if there's
+an insult to the blood
+
+845
+00:44:52,230 --> 00:44:55,230
+supply of the kidney, such
+as in pre-renal failure,
+
+846
+00:44:55,230 --> 00:44:57,670
+remember we talked about
+the renal arteries and all
+
+847
+00:44:57,670 --> 00:45:00,050
+the blood vessels that
+supply the kidney. Let's
+
+848
+00:45:00,050 --> 00:45:03,150
+say there's an insult there.
+The kidney freaks out.
+
+849
+00:45:03,610 --> 00:45:07,170
+It thinks that the body as
+a whole doesn't have enough
+
+850
+00:45:07,170 --> 00:45:10,270
+fluid and sodium because
+it's not getting fed with
+
+851
+00:45:10,270 --> 00:45:14,590
+blood. So what happens is it
+sequesters all the sodium,
+
+852
+00:45:14,590 --> 00:45:17,630
+keeps it in the body.
+Sodium excretion goes down.
+
+853
+00:45:17,630 --> 00:45:21,810
+Urine sodium is down. And
+this overall decrease in fluid
+
+854
+00:45:21,810 --> 00:45:24,630
+flow through the kidney
+gives the kidney basically
+
+855
+00:45:24,630 --> 00:45:28,590
+more time to reabsorb a lot
+of things, including urea.
+
+856
+00:45:28,710 --> 00:45:31,670
+This lack of fluid and
+hypovolemia that the
+
+857
+00:45:31,670 --> 00:45:34,030
+kidney senses makes it
+want to hold on to more
+
+858
+00:45:34,030 --> 00:45:37,510
+fluid and water, and
+urea basically follows.
+
+859
+00:45:37,510 --> 00:45:40,810
+But like we mentioned,
+creatinine is not reabsorbed.
+
+860
+00:45:40,810 --> 00:45:46,070
+So that's why the serum BUN
+to creatinine ratio is greater
+
+861
+00:45:46,070 --> 00:45:49,630
+than 20 to 1. The kidney
+can work fine. It just
+
+862
+00:45:49,630 --> 00:45:52,770
+isn't receiving that adequate
+blood supply. And like I
+
+863
+00:45:52,770 --> 00:45:54,870
+said, this could be an
+insult to the arteries, or it
+
+864
+00:45:54,870 --> 00:45:57,510
+could be something like
+dehydration or congestive heart
+
+865
+00:45:57,510 --> 00:45:59,910
+failure, which you guys will
+get into much more later.
+
+866
+00:46:00,190 --> 00:46:02,770
+But at this level,
+the take-home message
+
+867
+00:46:02,770 --> 00:46:06,290
+is the serum creatinine
+went up, and that's
+
+868
+00:46:06,290 --> 00:46:08,790
+a sign of non-specific
+kidney insult.
+
+869
+00:46:09,160 --> 00:46:11,030
+So up to this
+point, we've covered
+
+870
+00:46:11,030 --> 00:46:12,630
+the anatomy of
+the renal system,
+
+871
+00:46:12,630 --> 00:46:14,670
+especially blood
+supply, filtration,
+
+872
+00:46:14,670 --> 00:46:16,490
+the cortex versus the medulla.
+
+873
+00:46:16,730 --> 00:46:19,450
+We've looked at the
+correlation between the anatomy
+
+874
+00:46:19,450 --> 00:46:22,430
+and the functions, such
+as with GFR, resistance,
+
+875
+00:46:22,570 --> 00:46:25,650
+blood pressure, hydrostatic
+and oncotic pressure, as
+
+876
+00:46:25,650 --> 00:46:28,570
+well as the filtration
+barriers. Now I want to get
+
+877
+00:46:28,570 --> 00:46:32,030
+into autoregulation and
+the vasoactive substance
+
+878
+00:46:32,030 --> 00:46:35,890
+influences on the kidney.
+As we age, as we get sick,
+
+879
+00:46:35,890 --> 00:46:40,270
+as we succumb to injury,
+as we exercise, as we have
+
+880
+00:46:40,270 --> 00:46:44,150
+different availability of
+food and water, our body's
+
+881
+00:46:44,150 --> 00:46:47,490
+internal dynamics change.
+But like any other organ
+
+882
+00:46:47,490 --> 00:46:49,830
+system in the body, we want
+to maintain homeostasis.
+
+883
+00:46:50,190 --> 00:46:53,150
+So the kidney's way of
+doing this is to support a
+
+884
+00:46:53,150 --> 00:46:57,150
+constant GFR and renal blood
+flow despite changes in
+
+885
+00:46:57,150 --> 00:47:00,490
+perfusion pressure. So
+even in times of low blood
+
+886
+00:47:00,490 --> 00:47:03,910
+flow, the kidney should
+still be able to reabsorb 99
+
+887
+00:47:03,910 --> 00:47:08,010
+% of that fluid that comes
+through and electrolytes
+
+888
+00:47:08,010 --> 00:47:11,450
+that come through and excrete
+that 1% that need to get
+
+889
+00:47:11,450 --> 00:47:14,770
+out of the body. So how
+does the kidney adapt is
+
+890
+00:47:14,770 --> 00:47:18,570
+really what autoregulation
+is. You can see the two
+
+891
+00:47:18,570 --> 00:47:22,390
+and third bullet points go
+over some situations that
+
+892
+00:47:22,390 --> 00:47:25,150
+the kidney is trying to
+avoid. And there's basically
+
+893
+00:47:25,150 --> 00:47:30,510
+three main mechanisms to
+counteract these changes.
+
+894
+00:47:30,590 --> 00:47:33,830
+There's the myogenic
+mechanism, an innate smooth
+
+895
+00:47:33,830 --> 00:47:38,050
+muscle tone, the macula
+densa cells, which are
+
+896
+00:47:38,050 --> 00:47:41,350
+chemoreceptors and the
+JG cells or granular
+
+897
+00:47:41,350 --> 00:47:44,330
+cells, which are
+mechanoreceptors in relation to
+
+898
+00:47:44,330 --> 00:47:47,650
+the tubuloglomerular
+feedback mechanism, as well
+
+899
+00:47:47,650 --> 00:47:50,050
+as influence from the
+autonomic nervous system.
+
+900
+00:47:50,170 --> 00:47:53,950
+The myogenic mechanism
+refers to the ability of
+
+901
+00:47:53,950 --> 00:47:56,670
+the afferent and efferent
+arterials of the kidney
+
+902
+00:47:56,670 --> 00:48:00,350
+to vasodilate and
+vasoconstrict. This is why the
+
+903
+00:48:00,350 --> 00:48:02,970
+opening physiology I went
+over is very important.
+
+904
+00:48:02,970 --> 00:48:05,950
+In times of high blood
+pressure and too much
+
+905
+00:48:05,950 --> 00:48:09,830
+flow to the kidney, the
+afferent arterial can stretch
+
+906
+00:48:09,830 --> 00:48:13,630
+and feel this change.
+In response to this, it
+
+907
+00:48:13,630 --> 00:48:16,950
+vasoconstricts, creating
+that bottleneck effect.
+
+908
+00:48:16,950 --> 00:48:20,050
+This decreases
+incoming renal blood
+
+909
+00:48:20,050 --> 00:48:22,630
+flow and proportionally
+decreases GFR,
+
+910
+00:48:22,890 --> 00:48:26,410
+maintaining a filtration
+fraction of normal.
+
+911
+00:48:26,790 --> 00:48:29,170
+If the opposite is
+true, in a low broad
+
+912
+00:48:29,170 --> 00:48:32,410
+pressure setting, there's
+a decrease in stretch
+
+913
+00:48:32,410 --> 00:48:35,270
+in the afferent
+arterial, which triggers
+
+914
+00:48:35,270 --> 00:48:39,110
+it to vasodilate,
+increasing RBF and GFR.
+
+915
+00:48:39,720 --> 00:48:41,990
+These are responses
+to high perfusion
+
+916
+00:48:41,990 --> 00:48:44,310
+and low perfusion,
+respectively.
+
+917
+00:48:44,650 --> 00:48:46,990
+Another way to sense
+this is sodium.
+
+918
+00:48:47,330 --> 00:48:50,830
+The macula densa is a
+group of cells found in
+
+919
+00:48:50,830 --> 00:48:54,330
+the straight distal
+tubule of the nephron.
+
+920
+00:48:54,330 --> 00:48:57,770
+They are chemoreceptors
+sensing sodium levels.
+
+921
+00:48:58,320 --> 00:49:01,590
+In times of high perfusion
+and high sodium content,
+
+922
+00:49:01,590 --> 00:49:05,670
+The macula densa signals
+this, and it basically
+
+923
+00:49:05,670 --> 00:49:09,370
+says, wow, we have an
+increased GFR signal here. In
+
+924
+00:49:09,370 --> 00:49:12,830
+response, ATP and thromboxane
+A2 can be released.
+
+925
+00:49:13,030 --> 00:49:17,230
+This constricts the afferent
+arterial, decreasing
+
+926
+00:49:17,230 --> 00:49:21,540
+GFR and decreasing RBF,
+similar to the myogenic
+
+927
+00:49:21,540 --> 00:49:24,030
+mechanism for an increase
+in blood pressure.
+
+928
+00:49:24,080 --> 00:49:26,250
+Mirroring that of a
+decreased perfusion or
+
+929
+00:49:26,250 --> 00:49:29,090
+decreased blood pressure,
+Low sodium transport
+
+930
+00:49:29,090 --> 00:49:32,170
+to the macula denser will
+decrease GFR signals,
+
+931
+00:49:32,550 --> 00:49:35,590
+increasing prostaglandin
+and renin release.
+
+932
+00:49:35,790 --> 00:49:38,250
+This causes afferent dilation,
+
+933
+00:49:38,370 --> 00:49:41,730
+increase in GFR,
+and increase in RBF.
+
+934
+00:49:41,870 --> 00:49:45,290
+If I haven't talked about
+it yet, anything that
+
+935
+00:49:45,290 --> 00:49:49,410
+constricts the afferent
+arterial will decrease GFR.
+
+936
+00:49:49,770 --> 00:49:53,450
+Anything that vasodilates
+it will increase GFR. The
+
+937
+00:49:53,450 --> 00:49:56,910
+reverse is true for the
+efferent arterial. Anything that
+
+938
+00:49:57,040 --> 00:50:01,030
+vasoconstricts the efferent
+arteriole will increase
+
+939
+00:50:01,030 --> 00:50:05,250
+GFR. Anything that vasodilates
+the efferent arteriole
+
+940
+00:50:05,250 --> 00:50:08,670
+will decrease GFR. You
+always have to be thinking of
+
+941
+00:50:08,670 --> 00:50:11,630
+the glomerulus in the middle
+of these two arterioles.
+
+942
+00:50:12,950 --> 00:50:15,630
+Anything that increases
+that pressure between
+
+943
+00:50:15,630 --> 00:50:18,750
+the two arterioles will
+increase GFR because
+
+944
+00:50:18,750 --> 00:50:21,330
+it's increasing that
+hydrostatic pressure.
+
+945
+00:50:21,610 --> 00:50:26,290
+If you need to, go back to
+that last slide of where I
+
+946
+00:50:26,290 --> 00:50:28,630
+showed the different changes
+in the numbers of the
+
+947
+00:50:28,630 --> 00:50:31,930
+afferent and efferent arterials
+depending on their tone.
+
+948
+00:50:32,020 --> 00:50:34,510
+I almost like to think
+about it like you're
+
+949
+00:50:34,510 --> 00:50:38,190
+trapping blood in that
+glomerular capillary bed.
+
+950
+00:50:38,190 --> 00:50:42,230
+For example, if you're opening
+just the afferent arterial
+
+951
+00:50:42,230 --> 00:50:45,350
+or if you're closing just
+the efferent arterial,
+
+952
+00:50:45,350 --> 00:50:48,050
+you're trapping blood in
+that middle space, increasing
+
+953
+00:50:48,050 --> 00:50:52,890
+pressure there and pushing
+for that increase in GFR,
+
+954
+00:50:53,170 --> 00:50:55,970
+and the reverse is true if
+you want it to decrease GFR.
+
+955
+00:50:56,470 --> 00:51:00,730
+On the left is the
+response to low perfusion.
+
+956
+00:51:01,170 --> 00:51:04,510
+Low perfusion, the sympathetic
+neurons are activated.
+
+957
+00:51:04,510 --> 00:51:07,430
+There's a decreased arterial
+pressure in the aferin
+
+958
+00:51:07,430 --> 00:51:10,070
+arterial, and the macula
+densa might be sensing low
+
+959
+00:51:10,070 --> 00:51:15,290
+sodium. This can trigger the
+JG cells, which stimulate
+
+960
+00:51:15,290 --> 00:51:18,450
+renin release from them, and
+then you get into the RAS
+
+961
+00:51:18,450 --> 00:51:21,170
+pathway, which will be covered
+heavily in another lecture,
+
+962
+00:51:21,170 --> 00:51:22,910
+but I'm just going to touch
+upon it a little later
+
+963
+00:51:22,910 --> 00:51:25,990
+too. On the right is just
+some other scenarios. For
+
+964
+00:51:25,990 --> 00:51:30,870
+example, the NA delivery to
+the macula densa will stimulate
+
+965
+00:51:30,870 --> 00:51:34,050
+the ATP release, which
+is actually a vasodilator
+
+966
+00:51:34,050 --> 00:51:38,010
+in this setting, of the
+efferent arteriole and
+
+967
+00:51:38,010 --> 00:51:41,670
+vasoconstrictor of the efferent
+arteriole. So this is going
+
+968
+00:51:41,670 --> 00:51:45,590
+over that third mechanism,
+the nervous system's input.
+
+969
+00:51:46,110 --> 00:51:48,590
+On On the top we have
+some very high yield
+
+970
+00:51:48,590 --> 00:51:52,810
+DO friendly viscerosomatics
+and Chapman points.
+
+971
+00:51:52,810 --> 00:51:55,730
+These are a must know
+for the level 1 and
+
+972
+00:51:55,730 --> 00:51:59,050
+level 2 and level 3
+exams for DO students.
+
+973
+00:51:59,090 --> 00:52:02,390
+Then on the bottom is a topic
+that usually isn't covered
+
+974
+00:52:02,390 --> 00:52:05,730
+too much in detail, but
+it's the sympathetic or
+
+975
+00:52:05,730 --> 00:52:09,510
+fight or flight nervous
+system's effect on the kidneys.
+
+976
+00:52:10,190 --> 00:52:14,110
+In times of stress, fight
+or flight, or times of low
+
+977
+00:52:14,110 --> 00:52:17,930
+perfusion, such in pathologies
+like congestive heart
+
+978
+00:52:17,930 --> 00:52:21,390
+failure, the sympathetic
+nervous system is activated. And
+
+979
+00:52:21,390 --> 00:52:24,490
+you see on the left and
+right, the activation is very
+
+980
+00:52:24,490 --> 00:52:27,610
+similar. There's low blood
+pressure sensed in the
+
+981
+00:52:27,610 --> 00:52:31,110
+internal carotid arteries,
+the carotid sinus baroreceptor
+
+982
+00:52:31,230 --> 00:52:35,790
+activity decreases, and the
+sympathetic nerves of the
+
+983
+00:52:35,790 --> 00:52:39,970
+sympathetic chain ganglular
+of T10 to T11 release
+
+984
+00:52:39,970 --> 00:52:43,670
+norepinephrine. Now, on
+the left side is the direct
+
+985
+00:52:43,750 --> 00:52:46,750
+effects, and the right side
+is the indirect effects.
+
+986
+00:52:47,590 --> 00:52:51,990
+Directly, this stimulates
+the alpha-1 receptors,
+
+987
+00:52:51,990 --> 00:52:55,050
+and as you may remember,
+this is a GQ mechanism with
+
+988
+00:52:55,050 --> 00:52:59,350
+calcium, causing
+vasoconstriction of the afferent
+
+989
+00:52:59,350 --> 00:53:02,050
+arterial and efferent
+arterial, but more of the
+
+990
+00:53:02,050 --> 00:53:04,470
+afferent arterial. As we
+already mentioned, when
+
+991
+00:53:04,470 --> 00:53:07,910
+you do this, decreases renal
+blood flow and decreases
+
+992
+00:53:07,910 --> 00:53:10,770
+GFR, because you're
+creating that bottleneck.
+
+993
+00:53:11,230 --> 00:53:14,330
+Indirectly, norepinephrine
+can interestingly bind
+
+994
+00:53:14,330 --> 00:53:18,150
+to the juxtaglomerular
+cells or granular cells.
+
+995
+00:53:18,470 --> 00:53:21,190
+These cells contain
+B1 receptors.
+
+996
+00:53:21,430 --> 00:53:24,630
+This triggers the RAS
+cascade and the release of
+
+997
+00:53:24,630 --> 00:53:27,890
+renin. This once again
+leads to vasoconstriction.
+
+998
+00:53:28,750 --> 00:53:31,770
+So why is this important?
+Why are we decreasing blood
+
+999
+00:53:31,770 --> 00:53:34,390
+flow to the kidney during
+sympathetic activation?
+
+1000
+00:53:34,450 --> 00:53:37,430
+Because in times of stress,
+the last thing we need
+
+1001
+00:53:37,430 --> 00:53:40,910
+to worry about is filtering
+blood and making urine.
+
+1002
+00:53:41,110 --> 00:53:44,110
+We want blood flow to
+the muscles and the
+
+1003
+00:53:44,110 --> 00:53:46,970
+more vital organs for
+fighting or flighting.
+
+1004
+00:53:47,310 --> 00:53:50,170
+So like the heart, lungs,
+and the skeletal muscle.
+
+1005
+00:53:50,470 --> 00:53:53,730
+But in chronic times of
+sympathetic activation,
+
+1006
+00:53:53,730 --> 00:53:55,790
+like once again in
+congestive heart failure,
+
+1007
+00:53:55,790 --> 00:53:57,830
+this decrease in
+blood flow to the
+
+1008
+00:53:57,830 --> 00:53:59,450
+kidney can be very detrimental.
+
+1009
+00:54:00,030 --> 00:54:03,290
+This is once again
+some responses of
+
+1010
+00:54:03,290 --> 00:54:07,550
+the body to differing
+renal perfusions.
+
+1011
+00:54:08,730 --> 00:54:13,310
+ADH is anti-duretic hormone,
+also known as vasopressin,
+
+1012
+00:54:13,310 --> 00:54:15,930
+which is released by
+the posterior pituitary
+
+1013
+00:54:15,930 --> 00:54:18,670
+in conjunction with control
+by the hypothalamus.
+
+1014
+00:54:18,950 --> 00:54:21,510
+It helps the body
+hold on to water in
+
+1015
+00:54:21,510 --> 00:54:25,790
+times of decreased
+baroreceptor activity.
+
+1016
+00:54:26,410 --> 00:54:29,570
+Renin, once again, is part
+of that RAS system, and
+
+1017
+00:54:29,570 --> 00:54:32,750
+that will be activated in
+any times that the kidney
+
+1018
+00:54:32,750 --> 00:54:37,390
+senses a low perfusion or
+low body fluid volume to
+
+1019
+00:54:37,390 --> 00:54:40,270
+increase blood pressure. I
+wanted to give you guys an
+
+1020
+00:54:40,270 --> 00:54:43,450
+overview of vasoactive
+substances. So vasoactive just
+
+1021
+00:54:43,450 --> 00:54:46,460
+means that they either
+vasoconstrict or vasodilate.
+
+1022
+00:54:47,650 --> 00:54:50,890
+So here we're referring to
+the kidney specifically.
+
+1023
+00:54:51,250 --> 00:54:54,230
+Some things to mention is
+rena once again is that
+
+1024
+00:54:54,230 --> 00:54:57,990
+starting cascade of the RAS
+pathway. It's stored by JG
+
+1025
+00:54:57,990 --> 00:55:01,630
+cells and released in
+conjunction with decreased
+
+1026
+00:55:01,630 --> 00:55:04,810
+perfusion and a sense of low
+blood pressure in the body.
+
+1027
+00:55:05,530 --> 00:55:08,590
+angiotensin 2 is a huge
+player in the RAS system
+
+1028
+00:55:08,590 --> 00:55:12,030
+and it preferentially
+constricts the efferent
+
+1029
+00:55:12,030 --> 00:55:14,870
+arteriole in the kidneys
+because of greater
+
+1030
+00:55:14,870 --> 00:55:18,750
+at1 receptor amounts in
+the efferent arteriole
+
+1031
+00:55:18,890 --> 00:55:22,570
+what would this do the GFR
+usually should increase
+
+1032
+00:55:22,570 --> 00:55:24,710
+it right because you're
+constricting that last
+
+1033
+00:55:24,710 --> 00:55:28,330
+part and increasing the
+pressure in the glomerular
+
+1034
+00:55:28,330 --> 00:55:32,390
+capillary bed atp here
+while it's usually an
+
+1035
+00:55:32,390 --> 00:55:37,470
+energy molecule, it
+actually works in the
+
+1036
+00:55:37,470 --> 00:55:41,530
+juxtaglomerular feedback
+mechanism to vasoconstrict.
+
+1037
+00:55:41,850 --> 00:55:45,150
+Only high-dose
+dopamine vasoconstricts
+
+1038
+00:55:45,410 --> 00:55:47,790
+because when you get
+over a certain amount
+
+1039
+00:55:47,790 --> 00:55:50,830
+of it, it activates
+the alpha-1 receptors
+
+1040
+00:55:50,830 --> 00:55:53,910
+on the afferent and
+afferent arterioles.
+
+1041
+00:55:54,230 --> 00:55:57,510
+Cocaine and meth also
+affect the kidney, damaging
+
+1042
+00:55:57,510 --> 00:56:00,810
+it by creating this
+vasoconstriction, as they do
+
+1043
+00:56:00,810 --> 00:56:03,090
+in other arteries of the
+body and blood vessels.
+
+1044
+00:56:03,550 --> 00:56:07,430
+Some vasodilasers are
+the prostaglandins.
+
+1045
+00:56:07,510 --> 00:56:09,830
+They almost act as
+like a shield for the
+
+1046
+00:56:09,830 --> 00:56:12,810
+kidney for low blood
+flow and ischemia. They
+
+1047
+00:56:12,810 --> 00:56:15,050
+just relax everything,
+the prostaglandins.
+
+1048
+00:56:15,390 --> 00:56:17,630
+Nitric oxide kind of acts as
+
+1049
+00:56:17,630 --> 00:56:20,730
+a maintaining vasodilator.
+
+1050
+00:56:20,950 --> 00:56:23,460
+Without it, there would
+be non-stop constriction.
+
+1051
+00:56:24,110 --> 00:56:28,650
+ANP and BNP work almost
+against antidiuretic
+
+1052
+00:56:28,650 --> 00:56:32,190
+hormone, which i mentioned
+in the last slide they
+
+1053
+00:56:32,190 --> 00:56:34,590
+want you to get rid of
+excess water in the body
+
+1054
+00:56:34,850 --> 00:56:38,450
+once again low dose dopamine
+is a vasodilator because
+
+1055
+00:56:38,450 --> 00:56:42,410
+it only acts on d1 and d2
+receptors not alpha receptors
+
+1056
+00:56:42,650 --> 00:56:44,730
+so you could start to
+think with these questions
+
+1057
+00:56:44,730 --> 00:56:48,330
+on the bottom how giving
+certain medications or doing
+
+1058
+00:56:48,330 --> 00:56:52,550
+certain things would affect
+the vasoconstriction ability
+
+1059
+00:56:52,550 --> 00:56:56,090
+and vasodilation capabilities
+of the kidney so this
+
+1060
+00:56:56,090 --> 00:56:59,350
+is the big bad brass system
+like I mentioned Brian
+
+1061
+00:56:59,350 --> 00:57:02,370
+is going to cover this in
+detail within his lecture but
+
+1062
+00:57:02,370 --> 00:57:04,250
+I just wanted to give you
+a nice little diagram about
+
+1063
+00:57:04,250 --> 00:57:06,670
+it just as a taste I
+think it's always good to
+
+1064
+00:57:06,670 --> 00:57:10,210
+remember this whole system
+works based on a drop in blood
+
+1065
+00:57:10,210 --> 00:57:13,570
+pressure and a drop in fluid
+volume once you realize
+
+1066
+00:57:13,570 --> 00:57:18,010
+that if it's being activated
+you can kind of use that
+
+1067
+00:57:18,010 --> 00:57:21,490
+to guess the physiology or
+interpret the physiology.
+
+1068
+00:57:21,770 --> 00:57:25,310
+For example, angiotensin
+2 acts directly
+
+1069
+00:57:25,310 --> 00:57:26,790
+on blood vessels stimulating
+
+1070
+00:57:26,790 --> 00:57:28,670
+vasoconstriction.
+Like we talked about,
+
+1071
+00:57:28,790 --> 00:57:31,550
+decreasing the radius of
+a vessel will increase its
+
+1072
+00:57:31,550 --> 00:57:34,490
+pressure. The body has
+sensed that it has a drop in
+
+1073
+00:57:34,490 --> 00:57:36,750
+blood pressure, so it wants
+to increase that pressure.
+
+1074
+00:57:37,910 --> 00:57:42,510
+Sodium and water act to
+increase blood pressure,
+
+1075
+00:57:42,510 --> 00:57:45,830
+so eventually in the RAS
+system something called
+
+1076
+00:57:45,830 --> 00:57:48,750
+aldosterone is released
+and it stimulates the
+
+1077
+00:57:48,750 --> 00:57:51,530
+reabsorption of sodium in
+water. It all makes sense.
+
+1078
+00:57:52,040 --> 00:57:54,660
+This is one of the most
+high-yield physiological
+
+1079
+00:57:54,670 --> 00:57:58,050
+mechanisms that they love
+to ask questions about and
+
+1080
+00:57:58,050 --> 00:58:00,360
+it's super important to
+know for clinical practice.
+
+1081
+00:58:01,810 --> 00:58:05,510
+ACE inhibitors and ARBs
+are constantly being given
+
+1082
+00:58:05,510 --> 00:58:08,430
+out to people with high
+blood pressure and the
+
+1083
+00:58:08,430 --> 00:58:12,470
+reason is right here this
+isn't a pathology lecture
+
+1084
+00:58:12,470 --> 00:58:14,370
+but I just wanted to make
+a list of things that
+
+1085
+00:58:14,370 --> 00:58:19,030
+can affect what we went
+over today I would suggest
+
+1086
+00:58:19,030 --> 00:58:22,130
+copying pasting everything
+on this slide and maybe
+
+1087
+00:58:22,130 --> 00:58:25,270
+just putting it into AI
+and asking AI how does
+
+1088
+00:58:25,270 --> 00:58:29,070
+this affect renal blood
+flow GFR and basically the
+
+1089
+00:58:29,070 --> 00:58:32,210
+why behind that okay
+let's get back to the case
+
+1090
+00:58:32,210 --> 00:58:35,970
+so this patient is suffering
+from diabetic nephropathy
+
+1091
+00:58:35,970 --> 00:58:39,210
+and because of chronic
+hyperglycemia due to
+
+1092
+00:58:39,230 --> 00:58:43,930
+not following medications
+the glomeruli are
+
+1093
+00:58:43,930 --> 00:58:46,990
+basically damaged in the
+kidney interesting to note
+
+1094
+00:58:46,990 --> 00:58:50,030
+in early disease there
+this actually causes
+
+1095
+00:58:50,030 --> 00:58:54,090
+glomerular hyperfiltration
+and gfr actually initially
+
+1096
+00:58:54,090 --> 00:58:57,910
+increases not decreases
+this is due to sugar
+
+1097
+00:58:57,910 --> 00:59:02,690
+activating the efferent
+arterioles to dilate and an
+
+1098
+00:59:02,690 --> 00:59:05,250
+increase in the glomerular
+capillary pressure.
+
+1099
+00:59:05,770 --> 00:59:09,590
+So non-enzymatic
+glycosylation occurs,
+
+1100
+00:59:10,010 --> 00:59:12,590
+the glomerular basement
+membrane thickens,
+
+1101
+00:59:12,890 --> 00:59:14,750
+misangiocells proliferate and
+
+1102
+00:59:14,750 --> 00:59:17,410
+deposit excess
+extracellular matrix,
+
+1103
+00:59:17,870 --> 00:59:20,030
+podocytes actually
+become damaged and
+
+1104
+00:59:20,030 --> 00:59:22,650
+are lost, and you
+lose that filtration
+
+1105
+00:59:22,650 --> 00:59:24,570
+membrane or net that
+we talked about.
+
+1106
+00:59:24,830 --> 00:59:28,730
+Albubin begins to leak
+into the tubules and urine,
+
+1107
+00:59:28,770 --> 00:59:31,270
+sclerosis of the
+glomerular lie occur and
+
+1108
+00:59:31,270 --> 00:59:34,290
+there's actually nephron
+loss over time leading to
+
+1109
+00:59:34,290 --> 00:59:37,570
+chronic kidney disease.
+Renal biopsy would show
+
+1110
+00:59:37,570 --> 00:59:40,830
+glomerular basement
+membrane thickness actually,
+
+1111
+00:59:41,070 --> 00:59:43,890
+mesangial expansion,
+and diffuse glomerular
+
+1112
+00:59:43,890 --> 00:59:46,070
+sclerosis. Something called
+
+1113
+00:59:46,070 --> 00:59:48,930
+Kimmelstein-Wilson
+nodules can form as well.
+
+1114
+00:59:49,070 --> 00:59:51,010
+Like I mentioned initially
+there's an increase
+
+1115
+00:59:51,010 --> 00:59:56,090
+in GFR but then due to
+nephron loss and glomerular
+
+1116
+00:59:56,090 --> 00:59:59,630
+loss, GFR just plummets.
+Because of that initial
+
+1117
+00:59:59,630 --> 01:00:03,110
+afferent dilation, you
+get that increase in
+
+1118
+01:00:03,110 --> 01:00:05,130
+pressure in the area,
+increase in sugar in the
+
+1119
+01:00:05,130 --> 01:00:08,510
+area, and it damages the
+whole filtration system.
+
+1120
+01:00:08,730 --> 01:00:13,090
+Interestingly too, so you
+have this proteinuria and
+
+1121
+01:00:13,090 --> 01:00:16,930
+albuminuria in the urine,
+so albumin in the urine. So
+
+1122
+01:00:16,930 --> 01:00:19,490
+you're losing protein out
+of the blood. And like we
+
+1123
+01:00:19,490 --> 01:00:23,430
+talked about, protein is
+a sieve that acts with
+
+1124
+01:00:23,430 --> 01:00:29,180
+oncotic pressure so usually
+the albumin in the blood keeps
+
+1125
+01:00:29,180 --> 01:00:32,550
+fluid within the vessels
+of the body but now you're
+
+1126
+01:00:32,550 --> 01:00:35,310
+losing all that albumin
+and urine so what happens
+
+1127
+01:00:35,310 --> 01:00:39,100
+fluid can move away from
+the intravascular space and
+
+1128
+01:00:39,250 --> 01:00:41,850
+move into the
+intersitial tissues
+
+1129
+01:00:41,850 --> 01:00:45,910
+so and outside of
+the vasculature
+
+1130
+01:00:46,410 --> 01:00:49,570
+interestingly to increase
+glucose reabsorption in
+
+1131
+01:00:49,570 --> 01:00:53,110
+the proximal tubule reduces
+sodium delivery to the
+
+1132
+01:00:53,110 --> 01:00:56,110
+macula densa. So the macula
+densa is like, oh, we're
+
+1133
+01:00:56,110 --> 01:00:59,400
+getting no sodium. Let's
+increase the tubuloglomerular
+
+1134
+01:00:59,400 --> 01:01:02,870
+feedback mechanism and
+activate RAS. And this
+
+1135
+01:01:02,870 --> 01:01:06,790
+is that chronic sympathetic
+-esque activation I
+
+1136
+01:01:06,790 --> 01:01:09,870
+talked about. You're
+maintaining that intraglomerular
+
+1137
+01:01:09,870 --> 01:01:13,190
+pressure and worsening
+kidney damage over time. So
+
+1138
+01:01:13,190 --> 01:01:16,250
+what could have prevented
+this blood pressure control
+
+1139
+01:01:16,250 --> 01:01:19,670
+tight blood glucose
+control something like an
+
+1140
+01:01:19,670 --> 01:01:23,370
+sgl t2 inhibitor or something
+like an ace inhibitor
+
+1141
+01:01:23,370 --> 01:01:26,050
+or arb could help you want
+to decrease hypertension
+
+1142
+01:01:26,050 --> 01:01:29,410
+and you want to decrease
+the hyperglycemia regular
+
+1143
+01:01:29,410 --> 01:01:33,710
+exercise normal healthy
+habits smoking cessation
+
+1144
+01:01:34,530 --> 01:01:38,830
+and then eating a diet low
+in sodium egfr should have
+
+1145
+01:01:38,830 --> 01:01:41,950
+been monitored serum
+creatinine electrolytes and
+
+1146
+01:01:41,950 --> 01:01:45,610
+urine albumin should be monitored
+as well. We must counsel
+
+1147
+01:01:45,610 --> 01:01:49,690
+patients like this on drug
+use and avoiding certain
+
+1148
+01:01:49,690 --> 01:01:53,450
+medications such as NSAIDs
+because they're nephrotoxic.
+
+1149
+01:01:53,450 --> 01:01:58,030
+And then you would also
+have to talk about the
+
+1150
+01:01:58,030 --> 01:02:01,590
+consequences of dialysis
+or kidney transplantation.
+
+1151
+01:02:01,630 --> 01:02:04,750
+You want to slow
+that declining GFR.
+
+1152
+01:02:05,550 --> 01:02:08,750
+These next two slides
+are just practice
+
+1153
+01:02:08,750 --> 01:02:11,110
+questions from the
+textbook. they're not really
+
+1154
+01:02:11,110 --> 01:02:13,690
+board style or a style
+that you'll see on
+
+1155
+01:02:13,690 --> 01:02:15,810
+your exam but they're
+a good gauge for how
+
+1156
+01:02:15,810 --> 01:02:18,330
+well you understand the
+content we went over.
+
+1157
+01:02:18,390 --> 01:02:20,070
+I highly recommend doing them.
+
+1158
+01:02:20,450 --> 01:02:23,510
+What you'll find as you
+move through second year and
+
+1159
+01:02:23,510 --> 01:02:26,290
+you get to board studying
+is that questions are
+
+1160
+01:02:26,290 --> 01:02:29,770
+necessary to learn any of
+this information. So I highly
+
+1161
+01:02:29,770 --> 01:02:32,390
+recommend you do these and
+you can check yourself by
+
+1162
+01:02:32,390 --> 01:02:34,770
+looking up the answers if
+you need in the textbook.
+
+1163
+01:02:35,170 --> 01:02:37,170
+Please email me or Dr. Ascari
+
+1164
+01:02:37,170 --> 01:02:38,150
+if you have any questions.
+
+1165
+01:02:38,750 --> 01:02:40,890
+We're now on to the board-style
+
+1166
+01:02:40,890 --> 01:02:43,130
+questions I made.
+There are six.
+
+1167
+01:02:43,130 --> 01:02:45,890
+I want you to pause
+the video right now,
+
+1168
+01:02:45,890 --> 01:02:48,330
+go through them, work
+on them yourself, and
+
+1169
+01:02:48,330 --> 01:02:49,910
+then I'll give you the
+answers at the end.
+
+1170
+01:02:50,870 --> 01:02:53,050
+So when some people
+do these questions,
+
+1171
+01:02:53,050 --> 01:02:54,610
+they like to read
+the actual question
+
+1172
+01:02:54,610 --> 01:02:56,870
+first, so the last
+sentence, basically.
+
+1173
+01:02:56,910 --> 01:02:59,950
+I don't find that helpful
+for myself. I usually
+
+1174
+01:02:59,950 --> 01:03:02,610
+like to look at patient
+demographics first and then
+
+1175
+01:03:02,610 --> 01:03:05,850
+physical exam findings
+and focus on labs as well.
+
+1176
+01:03:06,110 --> 01:03:09,110
+try to always look for
+what is important in
+
+1177
+01:03:09,110 --> 01:03:10,430
+the question because
+there's going to be a
+
+1178
+01:03:10,430 --> 01:03:13,130
+lot of distractors
+especially they love to
+
+1179
+01:03:13,130 --> 01:03:16,810
+do that on the boards
+here's four and five
+
+1180
+01:03:18,610 --> 01:03:24,650
+okay so the answers are
+cac bbb so number one
+
+1181
+01:03:24,650 --> 01:03:27,490
+was tying the effects
+of nsaids decreasing
+
+1182
+01:03:27,490 --> 01:03:31,450
+prostaglandins to
+hydrostatic pressure and gfr
+
+1183
+01:03:31,540 --> 01:03:34,180
+trying to get you guys
+to think about how nsaids
+
+1184
+01:03:34,290 --> 01:03:37,730
+nephrotoxic so that's
+why it was c decrease in
+
+1185
+01:03:37,730 --> 01:03:40,490
+the hydrostatic pressure
+and decrease in gfr
+
+1186
+01:03:40,950 --> 01:03:43,230
+number two the purpose
+wasn't really the
+
+1187
+01:03:43,230 --> 01:03:46,390
+calculation it was the
+the determining of what
+
+1188
+01:03:46,670 --> 01:03:51,150
+to calculate so the
+hydrostatic pressure right we
+
+1189
+01:03:51,150 --> 01:03:55,690
+said filters favors filtration
+the other two factors
+
+1190
+01:03:55,690 --> 01:04:00,410
+there filter moving fluid
+the other way from bowman's
+
+1191
+01:04:00,410 --> 01:04:03,750
+to the glomerular capillary
+so you have to know what
+
+1192
+01:04:03,750 --> 01:04:07,260
+to subtract there and
+that's why you get A is 10.
+
+1193
+01:04:07,890 --> 01:04:10,450
+Number three is a woman
+suffering from a panic
+
+1194
+01:04:10,450 --> 01:04:14,790
+attack. Choices A, B, and
+E really revolve around the
+
+1195
+01:04:14,790 --> 01:04:17,970
+RAS system which is in
+response to low perfusion
+
+1196
+01:04:17,970 --> 01:04:20,410
+and low pressure so those
+wouldn't be the answer.
+
+1197
+01:04:20,630 --> 01:04:25,010
+Here her map rose from
+90 to 130 so the two main
+
+1198
+01:04:25,010 --> 01:04:27,550
+mechanisms we talked about
+in relation to that would be
+
+1199
+01:04:27,550 --> 01:04:30,530
+the tubular gomeric feedback
+and myogenic response.
+
+1200
+01:04:30,690 --> 01:04:33,070
+You could argue that
+the sympathetics would
+
+1201
+01:04:33,070 --> 01:04:37,290
+also increase but this
+is asking how the body
+
+1202
+01:04:37,290 --> 01:04:40,350
+is keeping the GFR
+and renal blood flow
+
+1203
+01:04:40,350 --> 01:04:46,950
+relatively stable and
+GFR. So the answer is C.
+
+1204
+01:04:47,710 --> 01:04:50,210
+Number four was just testing
+your knowledge about the
+
+1205
+01:04:50,210 --> 01:04:53,950
+vasoactive substances. So we
+were looking for angiotensin
+
+1206
+01:04:54,050 --> 01:04:58,770
+2 and what does angiotensin
+2 do in regards to
+
+1207
+01:04:58,770 --> 01:05:02,530
+the afferent and efferent
+arterial it preferably constricts
+
+1208
+01:05:02,530 --> 01:05:05,190
+the efferent increasing
+the capillary hydrostatic
+
+1209
+01:05:05,190 --> 01:05:09,150
+pressure and increasing gfr
+number five is describing
+
+1210
+01:05:09,150 --> 01:05:12,790
+hemorrhagic shock and
+sympathetic overdrive so that's
+
+1211
+01:05:12,790 --> 01:05:15,610
+why the answer is b the
+rest don't really make sense
+
+1212
+01:05:15,820 --> 01:05:18,790
+number six you may have
+struggled with because you
+
+1213
+01:05:18,790 --> 01:05:22,390
+didn't have this lecture
+yet but anytime a question
+
+1214
+01:05:22,390 --> 01:05:27,170
+mentions hemoptysis, linear
+immunofluorescent staining,
+
+1215
+01:05:27,730 --> 01:05:30,510
+definitely think of
+Goodpasture syndrome,
+
+1216
+01:05:30,690 --> 01:05:33,270
+which is the syndrome I
+was talking about when we
+
+1217
+01:05:33,270 --> 01:05:37,110
+went over the netting that
+is an anti-type 4 collagen
+
+1218
+01:05:37,110 --> 01:05:40,430
+antibody syndrome. This
+disrupts the glomerular basal
+
+1219
+01:05:40,430 --> 01:05:42,830
+membrane and the middle
+layer of the filtration
+
+1220
+01:05:42,830 --> 01:05:47,130
+barrier, allowing for blood
+in the urine, dark urine,
+
+1221
+01:05:47,390 --> 01:05:49,390
+fatigue, and hemoptysis.
+
+1222
+01:05:49,530 --> 01:05:53,670
+While Goodpasture does have
+the hemoptysis it doesn't
+
+1223
+01:05:53,670 --> 01:05:56,590
+have the chronic sinusitis
+nosebleeds and saddle
+
+1224
+01:05:56,590 --> 01:05:59,350
+nose deformity that something
+like GPA would have.
+
+1225
+01:05:59,670 --> 01:06:03,470
+Okay I hope you guys enjoyed
+my lecture a few tips for
+
+1226
+01:06:03,470 --> 01:06:05,850
+studying for this information
+would be using multiple
+
+1227
+01:06:05,850 --> 01:06:08,790
+resources so in conjunction
+with this lecture maybe
+
+1228
+01:06:08,790 --> 01:06:11,830
+using boards and beyond
+YouTube videos are also great
+
+1229
+01:06:11,830 --> 01:06:15,030
+dirty medicine has a great
+series online and then things
+
+1230
+01:06:15,030 --> 01:06:17,050
+like the first aid book
+really helped me when I was
+
+1231
+01:06:17,050 --> 01:06:19,890
+studying this information
+as well I think hearing it
+
+1232
+01:06:19,890 --> 01:06:22,510
+from multiple different
+perspectives is always helpful.
+
+1233
+01:06:22,810 --> 01:06:25,350
+And if you have any
+questions, feel free to email
+
+1234
+01:06:25,350 --> 01:06:29,450
+me and I'll see you guys
+in the GI block next
+
+1235
+01:06:29,450 --> 01:06:31,670
+semester where I'm
+going to present some GI
+
+1236
+01:06:31,670 --> 01:06:34,710
+parasites to you guys. So
+I wish you guys luck the
+
+1237
+01:06:34,710 --> 01:06:36,730
+rest of this semester and
+I hope to see you soon.

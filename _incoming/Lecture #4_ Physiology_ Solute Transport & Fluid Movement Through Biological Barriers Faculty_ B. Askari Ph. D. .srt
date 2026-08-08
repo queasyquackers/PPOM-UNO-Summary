@@ -1,0 +1,4484 @@
+1
+00:00:00,510 --> 00:00:05,110
+Hello, everyone, and welcome
+to our first series of
+
+2
+00:00:05,110 --> 00:00:10,110
+lecture in your second year.
+My name is Bardiya Askeri.
+
+3
+00:00:10,110 --> 00:00:16,050
+Some of you may have
+remembered me from the one solo
+
+4
+00:00:16,050 --> 00:00:21,750
+lecture I gave you in
+Foundations. And this, in a way,
+
+5
+00:00:21,750 --> 00:00:28,290
+is a continuation from that
+lecture. So if you don't
+
+6
+00:00:28,290 --> 00:00:31,630
+remember the lecture, I
+suggest that you kind of go
+
+7
+00:00:31,630 --> 00:00:35,940
+take a look at it either
+after you do this to kind of
+
+8
+00:00:35,940 --> 00:00:38,150
+familiarize yourself with
+some of the additional
+
+9
+00:00:38,150 --> 00:00:44,690
+concepts, but we will go through
+some of the touch on some
+
+10
+00:00:44,930 --> 00:00:47,830
+of the things that we talked
+about in that lecture.
+
+11
+00:00:48,910 --> 00:00:52,130
+The title of our lecture
+is the physiology
+
+12
+00:00:52,130 --> 00:00:56,250
+of the solute transport
+and fluid, fluid
+
+13
+00:00:56,250 --> 00:00:59,170
+movements through
+biological barriers.
+
+14
+00:01:00,010 --> 00:01:06,290
+And it sets up the next
+lectures on renal physiology,
+
+15
+00:01:06,290 --> 00:01:11,390
+or this is my belief, it
+helps you understand the
+
+16
+00:01:11,390 --> 00:01:15,170
+functionality and the roles.
+And it, and this lecture
+
+17
+00:01:15,170 --> 00:01:19,050
+will introduce you to some
+of the language that we use
+
+18
+00:01:19,050 --> 00:01:24,130
+interchangeably in in the
+next series of lectures.
+
+19
+00:01:25,270 --> 00:01:28,510
+So these are our session
+objectives. They're
+
+20
+00:01:28,510 --> 00:01:33,550
+broken down in our CPG,
+but you can also read here.
+
+21
+00:01:34,070 --> 00:01:36,990
+So five objectives,
+
+22
+00:01:37,490 --> 00:01:40,670
+a lot of definition,
+identifying the structural
+
+23
+00:01:40,670 --> 00:01:46,410
+differences to different
+capillaries is the only part that
+
+24
+00:01:46,410 --> 00:01:52,530
+may be a little bit different
+and applying the principles
+
+25
+00:01:52,530 --> 00:01:55,450
+that we know about the
+physiological forces responsible
+
+26
+00:01:55,450 --> 00:02:00,030
+for water and solute
+movements across barriers.
+
+27
+00:02:01,130 --> 00:02:05,150
+So like that lecture,
+let's start off with the
+
+28
+00:02:05,150 --> 00:02:09,070
+scenario. So, you know,
+you've all come off your
+
+29
+00:02:10,280 --> 00:02:13,330
+first year. This is the
+last time you're going have
+
+30
+00:02:13,330 --> 00:02:15,550
+a summer vacation so you
+want to get back into
+
+31
+00:02:15,550 --> 00:02:19,830
+shape and you know you
+ate a lot of junk food and
+
+32
+00:02:20,750 --> 00:02:24,590
+you won't you know you kind
+of like didn't like the
+
+33
+00:02:24,590 --> 00:02:29,010
+way that you physically
+looked at the end of uh
+
+34
+00:02:29,010 --> 00:02:33,030
+may so you decide to
+exercise you have a friend
+
+35
+00:02:33,030 --> 00:02:38,730
+um that who's also a uh
+does hot yoga and they talk
+
+36
+00:02:38,730 --> 00:02:43,990
+you into going you know
+jogging to the hot yoga
+
+37
+00:02:46,690 --> 00:02:51,750
+studio um and uh going
+through one session so
+
+38
+00:02:51,750 --> 00:02:53,890
+when you leave the studio
+you just kind of like
+
+39
+00:02:53,890 --> 00:02:56,150
+after sweating you know
+if you've ever been to hot
+
+40
+00:02:56,150 --> 00:02:59,750
+yoga you know that you
+sweat from every possible
+
+41
+00:02:59,910 --> 00:03:04,100
+sweat gland in your body
+and when you come out you
+
+42
+00:03:05,590 --> 00:03:07,990
+leave the studio, you
+realize that, geez,
+
+43
+00:03:07,990 --> 00:03:10,810
+everything just feels
+looser. You're tightening
+
+44
+00:03:11,230 --> 00:03:15,330
+your belt. And then you look
+at your arms and you see
+
+45
+00:03:15,330 --> 00:03:17,790
+like, geez, everything is
+so prominent. The veins
+
+46
+00:03:17,790 --> 00:03:21,850
+and everything are sticking
+out and you are parched.
+
+47
+00:03:22,150 --> 00:03:27,230
+So what just happened to
+me? I was feeling okay two
+
+48
+00:03:27,350 --> 00:03:33,350
+hours ago and what is going
+on in my body and how can I
+
+49
+00:03:33,650 --> 00:03:37,200
+explain it to somebody
+who's not very very familiar
+
+50
+00:03:37,200 --> 00:03:40,370
+and what else is going
+on that you don't know.
+
+51
+00:03:40,650 --> 00:03:43,840
+So hopefully this
+next bunch of slides
+
+52
+00:03:43,870 --> 00:03:49,070
+can help you
+differentiate some of the
+
+53
+00:03:49,070 --> 00:03:54,070
+phenomena that happens
+in these contexts.
+
+54
+00:03:54,710 --> 00:03:57,090
+So vigorous exercise,
+
+55
+00:03:57,090 --> 00:03:59,670
+excessive sweating, and
+what has it got to do
+
+56
+00:03:59,670 --> 00:04:02,070
+with prominent vasculature
+and weight loss?
+
+57
+00:04:04,080 --> 00:04:08,100
+You may remember this
+slide. It's a breakdown of
+
+58
+00:04:10,890 --> 00:04:14,510
+our fluid compartments
+in what's considered
+
+59
+00:04:14,510 --> 00:04:18,530
+to be an idealized
+person, which I'd like
+
+60
+00:04:18,530 --> 00:04:21,270
+to tell you that it's
+really not that ideal.
+
+61
+00:04:22,130 --> 00:04:25,450
+You know, when I was
+in school, this 72, you
+
+62
+00:04:25,450 --> 00:04:29,750
+know, mythical 72 kilogram
+person was considered to
+
+63
+00:04:29,750 --> 00:04:34,130
+be, you know, the average,
+but it's really not
+
+64
+00:04:34,370 --> 00:04:37,150
+a good one, even though
+we still use a lot
+
+65
+00:04:37,150 --> 00:04:39,670
+of the the numbers that
+are coming from it.
+
+66
+00:04:39,670 --> 00:04:41,490
+But I want everybody
+to understand that this
+
+67
+00:04:41,490 --> 00:04:43,830
+is just a very, very
+imaginary construct.
+
+68
+00:04:44,790 --> 00:04:48,350
+Obviously, our body
+weights not only are in
+
+69
+00:04:48,350 --> 00:04:50,890
+totality are different,
+but they're very much
+
+70
+00:04:50,890 --> 00:04:53,530
+dependent on age,
+they're dependent on
+
+71
+00:04:53,530 --> 00:04:56,310
+adiposity, and I've kind
+of included that here.
+
+72
+00:04:56,670 --> 00:05:00,790
+The national average
+of our weight has been
+
+73
+00:05:02,590 --> 00:05:09,830
+increased by 20-some-odd
+pounds in the last 35 years.
+
+74
+00:05:10,750 --> 00:05:17,900
+So we've all become a
+lot fatter, and that
+
+75
+00:05:18,310 --> 00:05:20,670
+actually can make
+a difference in the
+
+76
+00:05:20,670 --> 00:05:23,270
+total amounts of the
+volumes we're talking
+
+77
+00:05:23,270 --> 00:05:26,410
+about. But generally,
+ballpark figures,
+
+78
+00:05:27,230 --> 00:05:30,450
+the breakdown is here,
+that we can, you know,
+
+79
+00:05:30,450 --> 00:05:34,250
+if you break apart the
+total amount of water
+
+80
+00:05:34,250 --> 00:05:36,870
+we have in our body,
+the total body water,
+
+81
+00:05:37,130 --> 00:05:43,430
+you know, in this imaginary
+172 kilogram person,
+
+82
+00:05:43,510 --> 00:05:49,250
+comes out around 345 liters
+total body water. of that,
+
+83
+00:05:49,820 --> 00:05:57,110
+40% of it is inside the
+cells, intercellular fluid,
+
+84
+00:05:57,110 --> 00:06:04,090
+and the rest of it is
+found in the interstitium,
+
+85
+00:06:04,410 --> 00:06:10,710
+in transcellular compartments,
+and in our plasma.
+
+86
+00:06:12,570 --> 00:06:16,510
+I want to break down
+the volumes. Those were
+
+87
+00:06:16,510 --> 00:06:19,250
+just percentages. This
+is sort of what they fall
+
+88
+00:06:19,250 --> 00:06:25,590
+into, and you may remember
+my comment in a lecture
+
+89
+00:06:25,590 --> 00:06:29,430
+last year, know your
+electrolytes, and this
+
+90
+00:06:30,150 --> 00:06:32,750
+slide gives us a
+breakdown of the
+
+91
+00:06:32,750 --> 00:06:36,690
+general major
+electrolytes and players
+
+92
+00:06:37,510 --> 00:06:42,130
+and other variables that
+are important in body
+
+93
+00:06:42,130 --> 00:06:46,750
+fluid regulation. So we
+make the distinction here,
+
+94
+00:06:46,750 --> 00:06:48,950
+plasma membrane, and
+I'm going to make that
+
+95
+00:06:49,420 --> 00:06:52,790
+distinction over and over
+again, so pay attention,
+
+96
+00:06:53,130 --> 00:06:58,250
+versus a capillary
+barrier, versus a
+
+97
+00:06:58,250 --> 00:07:00,570
+epithelial cell
+barrier. There are
+
+98
+00:07:00,570 --> 00:07:03,630
+differences, and
+I'll touch on them.
+
+99
+00:07:04,030 --> 00:07:08,270
+As you can see, there is
+very little differences
+
+100
+00:07:11,170 --> 00:07:15,310
+in electrolytes across
+capillary barriers. There
+
+101
+00:07:15,310 --> 00:07:20,230
+are some, but not really,
+really dramatic. Huge
+
+102
+00:07:20,230 --> 00:07:25,490
+electrolyte differences when
+you compare intracellular
+
+103
+00:07:25,490 --> 00:07:28,690
+fluids to interstitial
+fluid and to plasma.
+
+104
+00:07:29,110 --> 00:07:34,890
+And transcellular fluid,
+you can think of it as the
+
+105
+00:07:34,890 --> 00:07:39,350
+liquids that are found in
+specific anatomical areas.
+
+106
+00:07:39,350 --> 00:07:46,430
+For example, the blood
+-brain barrier separates the
+
+107
+00:07:46,430 --> 00:07:48,930
+central nervous system,
+and the fluid within that,
+
+108
+00:07:48,930 --> 00:07:54,710
+the cerebrospinal fluid,
+is a transcellular fluid.
+
+109
+00:07:54,710 --> 00:07:59,110
+Fluids in our GI system
+would be considered that,
+
+110
+00:07:59,110 --> 00:08:05,750
+storage of bile salts
+in the gallbladder, it's
+
+111
+00:08:05,750 --> 00:08:10,030
+obviously it's in a fluid
+milieu, so those are all
+
+112
+00:08:10,030 --> 00:08:13,290
+transcellular fluids, and the
+regulation is really based
+
+113
+00:08:13,290 --> 00:08:19,770
+dependent on the cells
+surrounding those barriers.
+
+114
+00:08:22,790 --> 00:08:25,610
+I may have shared this last
+
+115
+00:08:26,590 --> 00:08:30,610
+year, but if not,
+it's here now.
+
+116
+00:08:30,900 --> 00:08:34,210
+If you took solute transport,
+and this is basically a
+
+117
+00:08:34,210 --> 00:08:37,090
+summary slide from last
+year's lectures, movement
+
+118
+00:08:37,090 --> 00:08:41,830
+through plasma membranes of
+everything except for water.
+
+119
+00:08:42,370 --> 00:08:44,850
+You can see that it
+breaks down into passive
+
+120
+00:08:44,850 --> 00:08:47,810
+versus carrier mediated.
+If you Remember,
+
+121
+00:08:48,050 --> 00:08:53,330
+passive movement is really
+based on movement of
+
+122
+00:08:53,330 --> 00:09:01,450
+compounds based on their
+concentration gradient.
+
+123
+00:09:01,510 --> 00:09:07,830
+Carrier-mediated, it's
+always movement of compounds
+
+124
+00:09:07,830 --> 00:09:12,150
+against a concentration.
+And they can either be
+
+125
+00:09:12,150 --> 00:09:19,470
+direct active transport
+by expending energy, like
+
+126
+00:09:19,470 --> 00:09:23,350
+any kind of a pump or an
+ATPase. One molecule of ATP
+
+127
+00:09:23,350 --> 00:09:28,690
+is used to move one
+molecule of X against its
+
+128
+00:09:28,690 --> 00:09:31,690
+concentration gradient.
+That's a primary active
+
+129
+00:09:31,690 --> 00:09:35,050
+transporter. Secondary active
+transporters will depend
+
+130
+00:09:35,050 --> 00:09:40,210
+on the activity of these
+primary active transporters
+
+131
+00:09:40,210 --> 00:09:43,610
+for the movements. And
+we'll touch on these kind
+
+132
+00:09:43,610 --> 00:09:51,330
+of definitions repeatedly
+in not only this lecture,
+
+133
+00:09:51,330 --> 00:09:54,750
+but the upcoming lectures
+on renal physiology.
+
+134
+00:09:55,540 --> 00:09:58,410
+So let's start off
+by talking about the
+
+135
+00:09:58,410 --> 00:10:02,650
+movements of water and
+water homeostasis. Again,
+
+136
+00:10:02,650 --> 00:10:05,670
+we talked about solutes,
+so this is water.
+
+137
+00:10:05,810 --> 00:10:11,090
+So obviously, normal cell
+function requires a very
+
+138
+00:10:11,090 --> 00:10:16,930
+tightly regulated intracellular
+milieu and the regulation
+
+139
+00:10:16,930 --> 00:10:19,850
+of the concentration because
+small changes in concentration
+
+140
+00:10:19,850 --> 00:10:23,550
+can have really dramatic
+effects on the various
+
+141
+00:10:26,670 --> 00:10:29,330
+processes that are
+happening within the cell.
+
+142
+00:10:29,870 --> 00:10:36,790
+And this term homeostasis,
+the maintenance of volume
+
+143
+00:10:36,790 --> 00:10:40,610
+and composition of body
+fluids, is accomplished by
+
+144
+00:10:40,610 --> 00:10:44,970
+transport of substances and
+water in and out of the cell.
+
+145
+00:10:46,650 --> 00:10:49,970
+In a healthy person, this
+happens without any significant
+
+146
+00:10:49,970 --> 00:10:53,450
+changes in the volume or
+composition of the body
+
+147
+00:10:53,450 --> 00:10:56,510
+fluid compartments, you
+know, on a day-to-day basis.
+
+148
+00:10:56,630 --> 00:11:00,990
+So we have various
+numbers of systems to,
+
+149
+00:11:01,330 --> 00:11:04,230
+you know, designed to achieve
+
+150
+00:11:04,230 --> 00:11:08,470
+homeostasis. Up here
+and in this inset, I've
+
+151
+00:11:08,470 --> 00:11:10,930
+set up what happens,
+for example,
+
+152
+00:11:12,490 --> 00:11:17,090
+when, you know, when we
+have changes in water,
+
+153
+00:11:17,290 --> 00:11:20,570
+either water deficit,
+when you're really, really
+
+154
+00:11:20,570 --> 00:11:24,910
+thirsty or water excess when
+you drank a lot of fluid.
+
+155
+00:11:26,150 --> 00:11:28,450
+Open, you know, the
+human body is considered
+
+156
+00:11:28,450 --> 00:11:31,250
+an open system and,
+you know, anything
+
+157
+00:11:31,250 --> 00:11:34,580
+we gain we lose every
+time that we mismanage
+
+158
+00:11:34,690 --> 00:11:37,620
+this balance is
+when we have issues.
+
+159
+00:11:38,110 --> 00:11:41,790
+So maintenance of steady
+-state balance is integral
+
+160
+00:11:41,790 --> 00:11:46,910
+to our health and almost
+everything in our for
+
+161
+00:11:46,910 --> 00:11:50,610
+maintaining a steady state
+requires a set point.
+
+162
+00:11:51,000 --> 00:11:54,610
+Think about it in terms of
+a thermostat. You design,
+
+163
+00:11:54,610 --> 00:11:57,570
+you know, you go home and
+you set up your thermostats
+
+164
+00:11:57,570 --> 00:12:02,250
+for 74 degrees and 74 degrees
+if it goes too much then
+
+165
+00:12:02,250 --> 00:12:07,930
+nothing will kick in, but
+if it's below 74 then the
+
+166
+00:12:07,930 --> 00:12:13,210
+heat turns on and temperature
+will go up. So the effector
+
+167
+00:12:13,210 --> 00:12:17,910
+signals must be, so whatever
+sets it up must be able
+
+168
+00:12:17,910 --> 00:12:20,910
+to generate an effector
+signal that can lead to
+
+169
+00:12:20,910 --> 00:12:27,330
+changes. And of course, you
+must have something to respond,
+
+170
+00:12:27,330 --> 00:12:30,910
+so you need a, you know,
+you need to have a furnace
+
+171
+00:12:30,910 --> 00:12:33,650
+in order to heat up your
+house. So, you know, having
+
+172
+00:12:33,650 --> 00:12:40,790
+a thermostat without a heat
+source is pointless, you
+
+173
+00:12:40,790 --> 00:12:43,510
+know, setting up a thermostat
+if you don't have an air
+
+174
+00:12:43,510 --> 00:12:46,810
+conditioner to cool your
+house doesn't do anything. And
+
+175
+00:12:46,810 --> 00:12:50,230
+of course, it must be sensitive
+enough for the changes.
+
+176
+00:12:50,230 --> 00:12:54,090
+You don't want something
+to only get activated when
+
+177
+00:12:54,090 --> 00:12:57,550
+you're 20 degrees above
+the temperature you've set.
+
+178
+00:12:58,830 --> 00:13:04,490
+So water can move through
+intercellular and extracellular
+
+179
+00:13:04,490 --> 00:13:09,950
+compartments across the
+plasma membrane. We'll
+
+180
+00:13:09,950 --> 00:13:12,390
+talk a little bit about
+that. And water moves between
+
+181
+00:13:12,390 --> 00:13:16,770
+the vascular and interstitial
+compartments across capillary
+
+182
+00:13:16,770 --> 00:13:20,770
+walls. But the pathways
+and the driving forces for
+
+183
+00:13:20,770 --> 00:13:28,370
+these water movements are
+different. and the schematic
+
+184
+00:13:28,370 --> 00:13:33,070
+on the lower right-hand
+side kind of gives you,
+
+185
+00:13:33,070 --> 00:13:38,390
+gives you an idea. So water
+is going between interstitial
+
+186
+00:13:38,390 --> 00:13:42,150
+fluid and extracellular
+fluid, and at the same time
+
+187
+00:13:42,150 --> 00:13:44,910
+water is going back and
+forth between intracellular
+
+188
+00:13:44,910 --> 00:13:49,110
+fluid and extracellular
+fluid, but what controls them
+
+189
+00:13:49,110 --> 00:13:54,090
+are different, and what can
+control them is different.
+
+190
+00:13:54,530 --> 00:14:00,870
+And going back to the
+top in this case, and
+
+191
+00:14:00,870 --> 00:14:03,370
+it's something that
+we'll go back to, what
+
+192
+00:14:03,370 --> 00:14:06,170
+happens if you're, you
+know, when you have
+
+193
+00:14:06,170 --> 00:14:08,630
+an H, when you have a
+water deficit? Well,
+
+194
+00:14:08,870 --> 00:14:11,470
+the set point, then your
+
+195
+00:14:14,470 --> 00:14:20,390
+concentration of water
+is going to be lower, and
+
+196
+00:14:20,390 --> 00:14:24,170
+that's going to activate
+the thirst response, and
+
+197
+00:14:24,170 --> 00:14:26,570
+that thirst response,
+A, you're thirsty, you
+
+198
+00:14:26,570 --> 00:14:31,730
+feel thirsty, and B, you'll
+stimulate the secretion
+
+199
+00:14:31,730 --> 00:14:39,050
+of ADH, AVP, and that'll
+influence water input.
+
+200
+00:14:40,280 --> 00:14:43,430
+And then vice versa,
+if you have too much
+
+201
+00:14:43,430 --> 00:14:45,630
+water, let's say you
+drank a lot of, a lot
+
+202
+00:14:45,630 --> 00:14:51,330
+of, you know, water,
+and there you can
+
+203
+00:14:51,330 --> 00:14:54,130
+have the set point is
+going to be altered.
+
+204
+00:14:54,290 --> 00:14:58,710
+It's going to be
+too low. So then you
+
+205
+00:14:58,710 --> 00:15:02,770
+get a withdrawal
+of this ADH-AVP and
+
+206
+00:15:02,770 --> 00:15:05,830
+that's going to
+stimulate water output.
+
+207
+00:15:05,990 --> 00:15:09,790
+And then water is
+lost through variable,
+
+208
+00:15:09,950 --> 00:15:12,330
+various, excuse me, various.
+
+209
+00:15:17,960 --> 00:15:21,120
+So water movement across
+biological membrane
+
+210
+00:15:21,120 --> 00:15:24,140
+is always passive. What
+does that mean? There
+
+211
+00:15:24,140 --> 00:15:27,960
+is no pump. There is no
+active transport that
+
+212
+00:15:27,960 --> 00:15:30,580
+regulates water movement.
+Water movement is
+
+213
+00:15:30,580 --> 00:15:33,280
+always driven by its
+concentration gradient.
+
+214
+00:15:33,700 --> 00:15:40,080
+Now, in a artificial setting,
+we can, you know, we can
+
+215
+00:15:40,080 --> 00:15:43,820
+see the water can move through
+a lipid bilayer, except
+
+216
+00:15:43,820 --> 00:15:50,040
+that it's really, really
+low and it's a finite rate,
+
+217
+00:15:50,040 --> 00:15:56,470
+so it takes forever to
+equilibrate concentrations.
+
+218
+00:15:57,880 --> 00:16:03,300
+Slow diffusion can also
+depend on the lipid
+
+219
+00:16:03,300 --> 00:16:08,240
+composition of the
+cells in that tissue.
+
+220
+00:16:08,340 --> 00:16:13,340
+All lipid bilayers are
+not created equally,
+
+221
+00:16:13,340 --> 00:16:16,240
+even though we draw them
+as such. I mean, this
+
+222
+00:16:16,240 --> 00:16:18,980
+is one of the times
+that, you know, things
+
+223
+00:16:18,980 --> 00:16:22,560
+like this end up being,
+you know, promoting a
+
+224
+00:16:23,940 --> 00:16:28,580
+false impression that
+they have, there is a
+
+225
+00:16:28,580 --> 00:16:34,400
+polarity and the various
+different types of
+
+226
+00:16:35,020 --> 00:16:41,380
+lipids can go to change
+into different organs.
+
+227
+00:16:41,380 --> 00:16:44,500
+Obviously, let's say your
+neurons will have different
+
+228
+00:16:44,500 --> 00:16:49,520
+plasma membrane components
+than cardiac myocytes.
+
+229
+00:16:49,680 --> 00:16:53,040
+Regardless of that, the
+movement of water across
+
+230
+00:16:53,040 --> 00:16:57,340
+cell membranes occurs
+through a transmembrane pore,
+
+231
+00:16:59,300 --> 00:17:03,880
+collectively called
+aquaporins. These are passive
+
+232
+00:17:03,880 --> 00:17:07,880
+conduits for water. It's a
+large family of intrinsic
+
+233
+00:17:07,880 --> 00:17:12,900
+membrane proteins, so they
+require insertion into the
+
+234
+00:17:12,900 --> 00:17:18,320
+lipid bilayer, obviously,
+to give it a, to, for,
+
+235
+00:17:18,320 --> 00:17:22,900
+for its function. And they
+facilitate the rapid transport
+
+236
+00:17:22,900 --> 00:17:25,940
+of water across cell
+membranes. They basically
+
+237
+00:17:25,940 --> 00:17:30,800
+are opening up a pore into,
+into the cell membrane.
+
+238
+00:17:30,980 --> 00:17:35,420
+The table on the right
+gives you the number of, you
+
+239
+00:17:35,420 --> 00:17:39,160
+know, the isoforms in this
+big superfamily. There
+
+240
+00:17:39,160 --> 00:17:43,520
+are 13 components of it.
+I don't expect anybody to
+
+241
+00:17:43,520 --> 00:17:47,980
+memorize the ones. You will
+refer to a couple of them.
+
+242
+00:17:48,120 --> 00:17:51,480
+For example, we'll come
+back later on to aquaporin
+
+243
+00:17:51,480 --> 00:17:54,460
+2 in our collecting ducts.
+But you can see, like
+
+244
+00:17:54,460 --> 00:17:58,680
+in terms of the kidney,
+aquaporin 1, aquaporin 3,
+
+245
+00:17:59,280 --> 00:18:06,560
+4, 6, 7, 8, you know,
+they're all fairly
+
+246
+00:18:06,560 --> 00:18:10,640
+represented, 11 are
+well represented in the
+
+247
+00:18:10,640 --> 00:18:13,080
+kidney. But really, the
+most important one that
+
+248
+00:18:13,080 --> 00:18:17,040
+we'll talk about
+eventually is aquaporin 2.
+
+249
+00:18:18,890 --> 00:18:20,900
+Water is not the
+only thing that
+
+250
+00:18:20,900 --> 00:18:26,760
+they can serve
+as a conduit for.
+
+251
+00:18:26,880 --> 00:18:31,420
+They can actually also be
+permeable to glycerol. Glycerol
+
+252
+00:18:31,420 --> 00:18:34,840
+is important for formation
+of triglycerides and
+
+253
+00:18:34,840 --> 00:18:40,160
+phospholipidins, so it's a
+substrate for further work.
+
+254
+00:18:40,740 --> 00:18:44,140
+So the driving force,
+obviously, as I said,
+
+255
+00:18:44,140 --> 00:18:47,120
+it's a concentration of
+water, and reevaluate
+
+256
+00:18:47,700 --> 00:18:50,340
+that using the osmotic
+pressure difference.
+
+257
+00:18:50,760 --> 00:18:54,100
+And osmotic pressure,
+it's indicated by pi, and
+
+258
+00:18:54,100 --> 00:18:56,980
+that's what I'll refer
+to back and forth. The
+
+259
+00:18:56,980 --> 00:19:01,900
+osmotic pressure pi of
+intercellular fluid and
+
+260
+00:19:01,900 --> 00:19:06,960
+extracellular fluid is
+determined by ions and by
+
+261
+00:19:06,960 --> 00:19:11,160
+molecules, macromolecules,
+like glucose and proteins.
+
+262
+00:19:11,520 --> 00:19:14,740
+We call it osmotic
+pressure, but it's not
+
+263
+00:19:14,740 --> 00:19:17,180
+a pressure in the
+sense of a hydrostatic
+
+264
+00:19:17,180 --> 00:19:20,560
+pressure. When we
+say osmotic pressure
+
+265
+00:19:20,560 --> 00:19:23,140
+difference, we really
+just mean osmolality.
+
+266
+00:19:23,740 --> 00:19:27,960
+It's just osmolality
+expressed in pressure units.
+
+267
+00:19:28,360 --> 00:19:31,960
+And you've seen
+this number before,
+
+268
+00:19:32,240 --> 00:19:34,740
+the osmolality of
+intracellular and
+
+269
+00:19:34,740 --> 00:19:38,660
+extracellular fluid
+is around between 280
+
+270
+00:19:38,660 --> 00:19:42,200
+-295 milliosmoles per
+kilogram of water.
+
+271
+00:19:42,510 --> 00:19:46,660
+And when these values
+are the same across a
+
+272
+00:19:46,660 --> 00:19:51,100
+plasma membrane, the cell
+volume remains constant.
+
+273
+00:19:54,630 --> 00:19:57,600
+So in almost all cases,
+
+274
+00:19:58,060 --> 00:20:01,520
+osmolarity inside
+the cell is equal to
+
+275
+00:20:01,520 --> 00:20:05,460
+osmolarity outside the
+cell. right? If there was
+
+276
+00:20:05,460 --> 00:20:08,780
+a delta, if there
+was a difference in
+
+277
+00:20:09,890 --> 00:20:14,800
+osmolality, cells would
+either shrink or swell.
+
+278
+00:20:17,220 --> 00:20:21,780
+So how is it related to
+osmolality? You know, I
+
+279
+00:20:21,780 --> 00:20:24,940
+always tell everybody, if
+you can hear me say, if
+
+280
+00:20:24,940 --> 00:20:27,720
+you've spoken to me, that
+I don't want to give you
+
+281
+00:20:28,640 --> 00:20:33,260
+a lot of equations. I
+don't expect anybody to
+
+282
+00:20:33,260 --> 00:20:38,100
+memorize equations or
+apply the equations to any
+
+283
+00:20:38,860 --> 00:20:42,460
+questions. But the point that I
+
+284
+00:20:42,460 --> 00:20:47,760
+bring this up is
+the osmolarity is
+
+285
+00:20:49,760 --> 00:20:55,260
+proportional, directly
+proportional to pressure
+
+286
+00:20:55,380 --> 00:20:58,600
+differences. And you can
+measure the, you can calculate
+
+287
+00:20:58,600 --> 00:21:05,180
+the pressure using Vanhoef
+equation. The variables
+
+288
+00:21:05,180 --> 00:21:07,760
+will be the gas constant
+of the compound, the
+
+289
+00:21:07,760 --> 00:21:09,960
+absolute temperature, and
+obviously the osmolality.
+
+290
+00:21:11,200 --> 00:21:14,320
+Here I am just telling
+you that if one change of
+
+291
+00:21:14,320 --> 00:21:17,720
+one milliosmol equals
+to a change of about 20
+
+292
+00:21:17,720 --> 00:21:22,840
+millimeters of mercury at 37
+degrees body temperature so
+
+293
+00:21:22,840 --> 00:21:29,020
+small amounts of osmolarity
+can lead to significant
+
+294
+00:21:29,020 --> 00:21:33,560
+changes in pressure 20
+millimeters of mercury is
+
+295
+00:21:33,560 --> 00:21:36,480
+really a huge pressure
+difference you can feel it
+
+296
+00:21:37,340 --> 00:21:41,500
+if somebody pressed
+against your skin.
+
+297
+00:21:42,180 --> 00:21:48,480
+And remember, water will
+move by osmosis toward the
+
+298
+00:21:48,480 --> 00:21:51,900
+solution with the higher
+osmolality. So the higher
+
+299
+00:21:51,900 --> 00:21:54,280
+the osmolality, you want
+to think of it as the
+
+300
+00:21:54,280 --> 00:21:58,400
+lower the concentration of
+water. And everything goes
+
+301
+00:21:58,400 --> 00:22:00,440
+toward the higher
+concentration, you know, toward.
+
+302
+00:22:02,900 --> 00:22:07,850
+So a higher concentration
+always pushes
+
+303
+00:22:09,620 --> 00:22:16,200
+a movement in solutes. In
+this case, higher osmolality
+
+304
+00:22:16,200 --> 00:22:25,620
+will pull water across a
+plasma membrane. So, and
+
+305
+00:22:25,620 --> 00:22:28,420
+this movement by osmotic
+gradient is obviously
+
+306
+00:22:28,420 --> 00:22:32,860
+called osmosis. It is not
+the only driving force. There
+
+307
+00:22:32,860 --> 00:22:37,100
+is another driving force,
+and that is the hydrostatic
+
+308
+00:22:37,100 --> 00:22:42,580
+pressure. That's a real
+pressure, and it's, the
+
+309
+00:22:42,580 --> 00:22:45,460
+movement is dependent, the
+water movement of water
+
+310
+00:22:45,460 --> 00:22:52,120
+is dependent on both.
+However, animal cells are not
+
+311
+00:22:52,120 --> 00:22:56,460
+rigid. We don't have a cell
+wall and we don't really
+
+312
+00:22:56,460 --> 00:23:01,160
+tolerate any significant
+changes in hydrostatic
+
+313
+00:23:01,160 --> 00:23:04,040
+pressure without something
+bad happening, without
+
+314
+00:23:04,040 --> 00:23:09,560
+deformation. So, for example,
+in this case I have here,
+
+315
+00:23:10,880 --> 00:23:17,640
+osmolality outside is 290
+milliosmoles, osmolality
+
+316
+00:23:17,640 --> 00:23:23,080
+inside is 295 milliosmoles.
+there is no difference
+
+317
+00:23:23,080 --> 00:23:27,660
+in hydrostatic pressure.
+So despite that, you
+
+318
+00:23:27,660 --> 00:23:33,060
+have movement of water
+going into the cell because
+
+319
+00:23:33,060 --> 00:23:39,380
+water will go toward higher
+osmolality. Osmolality
+
+320
+00:23:39,380 --> 00:23:42,880
+is going to be pulling
+water. Water concentration
+
+321
+00:23:42,880 --> 00:23:48,740
+here is higher compared
+to water concentration
+
+322
+00:23:48,740 --> 00:23:52,200
+here, and concentrations
+go from high to low.
+
+323
+00:23:52,460 --> 00:23:54,860
+But in the end,
+except when we're
+
+324
+00:23:54,860 --> 00:23:57,500
+talking about
+osmolality of water,
+
+325
+00:23:57,680 --> 00:23:59,920
+right? Osmols of water.
+
+326
+00:24:00,820 --> 00:24:04,640
+So this hydrostatic
+pressure is not
+
+327
+00:24:04,640 --> 00:24:07,360
+a significant driving
+force for water
+
+328
+00:24:07,360 --> 00:24:10,260
+transport across
+a plasma membrane.
+
+329
+00:24:11,040 --> 00:24:15,940
+So that's really that
+portion. So a summary so far.
+
+330
+00:24:15,940 --> 00:24:18,960
+I just want us to reiterate
+pathways and driving
+
+331
+00:24:18,960 --> 00:24:22,870
+forces for water and
+solutes are different across
+
+332
+00:24:22,870 --> 00:24:26,180
+cell membranes and across
+barriers. We did a lot
+
+333
+00:24:26,180 --> 00:24:29,520
+of solute transport
+across cell membranes last
+
+334
+00:24:29,520 --> 00:24:32,900
+year. This was water movement
+across cell membranes.
+
+335
+00:24:34,940 --> 00:24:37,700
+Diffusion through the
+lipid bilayer depends
+
+336
+00:24:37,700 --> 00:24:41,300
+on lipid composition
+and movement of water
+
+337
+00:24:41,300 --> 00:24:46,340
+occurs through aquaporins,
+and hydrostatic
+
+338
+00:24:46,340 --> 00:24:49,140
+pressure is not a
+significant driving force,
+
+339
+00:24:49,220 --> 00:24:53,360
+but inter-rosmotic pressure is.
+
+340
+00:24:55,720 --> 00:25:01,080
+So let's go back to the
+anatomy of our body fluids.
+
+341
+00:25:01,800 --> 00:25:06,200
+And now we start talking about
+
+342
+00:25:06,600 --> 00:25:10,760
+capillary barriers and
+the movement across
+
+343
+00:25:10,760 --> 00:25:15,620
+biological barriers that
+are not plasma membranes.
+
+344
+00:25:15,710 --> 00:25:19,200
+So we will talk a
+little bit about
+
+345
+00:25:19,200 --> 00:25:22,220
+epithelial cells and
+capillary barriers
+
+346
+00:25:23,260 --> 00:25:27,380
+and what roles they play in the
+
+347
+00:25:27,380 --> 00:25:31,420
+control of water and
+solute movements.
+
+348
+00:25:34,880 --> 00:25:38,280
+So how do the different
+gradients of all the
+
+349
+00:25:38,280 --> 00:25:42,000
+substances in the
+interstitium and intercellular
+
+350
+00:25:42,000 --> 00:25:46,220
+milieu contribute to the
+movement of water? So
+
+351
+00:25:46,220 --> 00:25:48,360
+one thing we have to
+kind of always remember
+
+352
+00:25:48,360 --> 00:25:51,310
+is that the product of
+the diffusible ions on one
+
+353
+00:25:51,310 --> 00:25:53,690
+side will be equal
+to the product of the
+
+354
+00:25:53,690 --> 00:25:56,980
+diffusible ions on the
+other side of the membrane.
+
+355
+00:25:57,620 --> 00:25:58,660
+There
+
+356
+00:26:03,320 --> 00:26:05,560
+is an electrochemical
+gradient produced
+
+357
+00:26:05,560 --> 00:26:08,860
+by unequal distribution.
+And unequal
+
+358
+00:26:08,860 --> 00:26:12,980
+distribution of charged
+particles is what
+
+359
+00:26:13,340 --> 00:26:16,560
+creates our transmembrane
+potential differences,
+
+360
+00:26:16,560 --> 00:26:19,720
+also known as the
+membrane potential, that
+
+361
+00:26:19,720 --> 00:26:22,520
+we can calculate using
+the Nernst equation.
+
+362
+00:26:22,760 --> 00:26:29,600
+And sodium chloride is
+largely excluded from the
+
+363
+00:26:29,600 --> 00:26:38,020
+intercellular component
+of our body by the
+
+364
+00:26:38,020 --> 00:26:40,920
+activity of the sodium
+-potassium ATBs. And you can
+
+365
+00:26:40,920 --> 00:26:43,060
+see that here. So we
+have the plasma membrane.
+
+366
+00:26:43,660 --> 00:26:47,380
+Sodium is 142 millimolars.
+
+367
+00:26:47,860 --> 00:26:52,000
+Chloride is 102. The
+other sodiums that
+
+368
+00:26:52,000 --> 00:26:53,680
+don't match with
+chloride usually
+
+369
+00:26:53,680 --> 00:26:56,870
+are bound to other
+anions like citrate
+
+370
+00:26:57,300 --> 00:27:06,920
+or any other kind of
+negative monovalent ion in
+
+371
+00:27:06,920 --> 00:27:11,380
+the solution. While sodium
+in intracellular fluid
+
+372
+00:27:11,380 --> 00:27:15,360
+is 15, chloride is almost
+the same. There's a
+
+373
+00:27:15,360 --> 00:27:18,180
+big difference in potassium,
+right? Potassium is
+
+374
+00:27:18,180 --> 00:27:21,260
+low outside, high inside,
+and that's all virtue
+
+375
+00:27:21,260 --> 00:27:25,500
+of the activity of the
+sodium-potassium ATPase.
+
+376
+00:27:25,860 --> 00:27:30,440
+Why does, you know,
+and it's really, really
+
+377
+00:27:30,440 --> 00:27:33,080
+important. How is it
+important? Well, if there's
+
+378
+00:27:33,080 --> 00:27:36,740
+an absence of sodium
+potassium ATPase, cells
+
+379
+00:27:36,740 --> 00:27:41,580
+will swell and burst,
+even if the concentration,
+
+380
+00:27:41,660 --> 00:27:46,640
+the osmolalities are
+equal inside and outside.
+
+381
+00:27:50,010 --> 00:27:52,060
+But that's because
+we're not taking
+
+382
+00:27:52,060 --> 00:27:55,040
+into consideration
+other molecules.
+
+383
+00:27:55,100 --> 00:27:59,520
+specifically impermeable
+molecules, which in this case,
+
+384
+00:27:59,520 --> 00:28:02,460
+we are really are talking
+about cytosolic proteins.
+
+385
+00:28:03,040 --> 00:28:06,520
+Cytosolic proteins are
+mostly negatively charged.
+
+386
+00:28:06,520 --> 00:28:12,630
+And this difference in
+the protein amounts in
+
+387
+00:28:12,630 --> 00:28:18,080
+intracellular versus
+interstitial is what ends
+
+388
+00:28:18,080 --> 00:28:24,240
+up giving us another
+player in our diffusion
+
+389
+00:28:24,240 --> 00:28:29,120
+gradient. And this osmotic
+diffusion gradient,
+
+390
+00:28:29,120 --> 00:28:33,500
+created by negatively charged
+impermeable molecules,
+
+391
+00:28:33,620 --> 00:28:37,920
+is what attract water
+into that compartment.
+
+392
+00:28:39,840 --> 00:28:44,020
+The mechanism that does
+that is described in
+
+393
+00:28:44,020 --> 00:28:48,480
+what's called the Gibbs
+-Dunnan Equilibrium. And the
+
+394
+00:28:48,480 --> 00:28:51,760
+Gibbs-Dunnan Equilibrium
+guides the behavior of
+
+395
+00:28:51,760 --> 00:28:56,020
+charged particle near a
+semi-permeable membrane.
+
+396
+00:28:56,650 --> 00:29:01,110
+The next slides will go
+into a little bit detail
+
+397
+00:29:01,980 --> 00:29:05,420
+about that. So the Gibbs
+-Dunnan Equilibrium, again, how
+
+398
+00:29:05,420 --> 00:29:09,700
+cells and blood vessels
+manage electric charge, ion
+
+399
+00:29:09,700 --> 00:29:13,040
+concentrations, and fluid
+movements. Named after an
+
+400
+00:29:13,040 --> 00:29:18,140
+American engineer and an
+English chemist, this was
+
+401
+00:29:20,600 --> 00:29:23,720
+the chemist was, they
+were working together on a
+
+402
+00:29:23,720 --> 00:29:28,460
+university project and their
+collaborations expanded from
+
+403
+00:29:28,460 --> 00:29:32,060
+outside of their realms of
+their interests. One of the
+
+404
+00:29:32,060 --> 00:29:34,680
+more fascinating stories,
+if you're curious about it.
+
+405
+00:29:35,180 --> 00:29:38,920
+So one of the things
+it's given, most
+
+406
+00:29:38,920 --> 00:29:41,580
+proteins are negatively
+charged in a physiological
+
+407
+00:29:42,610 --> 00:29:44,460
+environment. A lot
+of our proteins have
+
+408
+00:29:44,460 --> 00:29:46,940
+higher proportion of
+acidic amino acids,
+
+409
+00:29:47,700 --> 00:29:59,940
+glutamic acid aspartate,
+and and a phosphate
+
+410
+00:29:59,940 --> 00:30:08,560
+additions to proteins,
+not only in a
+
+411
+00:30:08,560 --> 00:30:13,000
+signaling moiety, but
+also just natively bound.
+
+412
+00:30:15,000 --> 00:30:18,240
+So if we have a semi
+-permeable barrier,
+
+413
+00:30:19,380 --> 00:30:27,440
+and we have, we, we
+add, you know, we, our
+
+414
+00:30:27,440 --> 00:30:32,080
+extracellular fluid is
+equimolar sodium and chloride,
+
+415
+00:30:32,080 --> 00:30:38,140
+while our intracellular
+fluid is, is sodium without
+
+416
+00:30:38,140 --> 00:30:42,560
+any chloride and protein
+content, indicated
+
+417
+00:30:42,560 --> 00:30:48,320
+here as X. I put X150 to
+indicate this is negative
+
+418
+00:30:48,320 --> 00:30:57,400
+150 charges, right? 150
+milliequivalents for the
+
+419
+00:30:57,400 --> 00:31:01,340
+one millimolar of proteins
+that we have. have.
+
+420
+00:31:01,500 --> 00:31:06,080
+So if the membrane is
+permeable to sodium chloride
+
+421
+00:31:06,080 --> 00:31:10,880
+and water, but it's
+impermeable to X, what happens?
+
+422
+00:31:11,320 --> 00:31:13,200
+So A,
+
+423
+00:31:13,730 --> 00:31:15,940
+chloride will move
+down its concentration
+
+424
+00:31:15,940 --> 00:31:19,580
+gradient, right? There is
+a, you know, 150 to zero,
+
+425
+00:31:19,580 --> 00:31:22,320
+so chloride will move
+down, but it will not
+
+426
+00:31:22,320 --> 00:31:27,780
+equilibrate because
+eventually, as chloride moves
+
+427
+00:31:27,780 --> 00:31:33,600
+in, sodium will move
+in to be equal voltage,
+
+428
+00:31:39,520 --> 00:31:44,400
+and sodium concentration
+will go up, chloride
+
+429
+00:31:44,400 --> 00:31:49,180
+will go up also, but
+not to the equilibration
+
+430
+00:31:49,180 --> 00:31:55,210
+until there is a
+transmembrane difference.
+
+431
+00:31:56,860 --> 00:31:59,540
+So as sodium enters the cell,
+
+432
+00:31:59,700 --> 00:32:01,840
+sodium intercellular increases,
+
+433
+00:32:02,060 --> 00:32:04,180
+sodium exocellular decreases,
+
+434
+00:32:04,180 --> 00:32:06,560
+and this will create an inside
+
+435
+00:32:06,560 --> 00:32:08,300
+negative membrane voltage.
+
+436
+00:32:08,990 --> 00:32:11,980
+And this is a good
+thing. You attract
+
+437
+00:32:11,980 --> 00:32:16,900
+sodium, creates a
+membrane voltage,
+
+438
+00:32:17,380 --> 00:32:19,100
+a membrane potential.
+
+439
+00:32:19,400 --> 00:32:20,780
+we've talked about.
+
+440
+00:32:21,600 --> 00:32:26,300
+So we said this, sodium goes
+up, chloride will go up,
+
+441
+00:32:26,640 --> 00:32:29,580
+sodium outside will go
+down, chloride outside will
+
+442
+00:32:29,580 --> 00:32:33,680
+go down, right? So let's
+say 10 millimolar shift.
+
+443
+00:32:36,380 --> 00:32:38,940
+However, it's still
+not in equilibrium.
+
+444
+00:32:38,940 --> 00:32:41,410
+This is just an
+intermediate step, because
+
+445
+00:32:43,200 --> 00:32:47,080
+if you cross multiply an
+equation, and I'm not going
+
+446
+00:32:47,080 --> 00:32:50,240
+to do that, we find that
+the product are not equal.
+
+447
+00:32:51,340 --> 00:32:57,180
+So the constraint of the
+system is the total number
+
+448
+00:32:57,180 --> 00:33:01,140
+of charges. So they must be
+equal. They must equilibrium,
+
+449
+00:33:01,140 --> 00:33:03,600
+total number of positive
+charges must equal the
+
+450
+00:33:03,600 --> 00:33:06,340
+total number of negative
+charges in each compartment.
+
+451
+00:33:06,480 --> 00:33:12,080
+So we need this to
+move until sodium and
+
+452
+00:33:12,080 --> 00:33:15,100
+chloride are equal. And
+then the final ratio
+
+453
+00:33:15,100 --> 00:33:20,160
+corresponds to the nurse
+potential of both ions.
+
+454
+00:33:20,340 --> 00:33:23,120
+So in the final equilibrium,
+
+455
+00:33:23,260 --> 00:33:25,440
+sodium and chloride
+will be distributed
+
+456
+00:33:25,440 --> 00:33:28,460
+so the concentration
+is balanced. And
+
+457
+00:33:28,460 --> 00:33:32,880
+this balance is called
+the Donnan ratio.
+
+458
+00:33:33,060 --> 00:33:37,940
+So when the ratios of
+positive and negative
+
+459
+00:33:37,940 --> 00:33:42,420
+ions are balanced, are
+in equilibrium. It's
+
+460
+00:33:42,420 --> 00:33:44,680
+called the Donnan
+ratio. They're in
+
+461
+00:33:44,680 --> 00:33:49,760
+equilibrium, but more
+asthmatic active, you know,
+
+462
+00:33:49,940 --> 00:33:53,600
+particles are on the
+inside than on the outside,
+
+463
+00:33:53,940 --> 00:33:59,660
+right? So you still
+have more, you know, in
+
+464
+00:33:59,660 --> 00:34:05,560
+this case, you'll have
+280, right? Versus 170
+
+465
+00:34:09,940 --> 00:34:11,540
+millimolar comparison.
+
+466
+00:34:12,710 --> 00:34:14,960
+Water can't be in an
+equilibrium, right, because
+
+467
+00:34:14,960 --> 00:34:17,460
+these are concentrations.
+So water will move
+
+468
+00:34:17,460 --> 00:34:21,260
+into the cell to change
+the concentration. And
+
+469
+00:34:21,260 --> 00:34:23,520
+very little water
+needs to go into the
+
+470
+00:34:23,520 --> 00:34:25,920
+cell to generate a
+hydrostatic pressure,
+
+471
+00:34:28,220 --> 00:34:31,040
+to generate hydrostatic
+pressure to oppose the
+
+472
+00:34:31,040 --> 00:34:36,480
+additional entry of water.
+And this equilibrium
+
+473
+00:34:36,480 --> 00:34:42,500
+hydrostatic pressure
+opposes the osmotic pressure
+
+474
+00:34:42,500 --> 00:34:46,420
+difference, right? So the
+delta mu, the hydrostatic
+
+475
+00:34:46,420 --> 00:34:50,620
+pressure, is opposite
+the osmotic pressure. And
+
+476
+00:34:50,620 --> 00:34:55,720
+equilibrium means that the
+differences are the same.
+
+477
+00:34:59,080 --> 00:35:02,660
+But if water is
+moving in, and very
+
+478
+00:35:02,660 --> 00:35:07,840
+little can cause a
+change in pressure,
+
+479
+00:35:09,760 --> 00:35:13,220
+then the distribution
+of ions toward
+
+480
+00:35:13,220 --> 00:35:15,040
+the Donnan ratio
+can lead to water
+
+481
+00:35:15,040 --> 00:35:16,940
+entry and cell
+swelling and bursting.
+
+482
+00:35:17,280 --> 00:35:18,960
+Does this happen?
+
+483
+00:35:19,720 --> 00:35:23,340
+No, because the Donnan
+equilibrium ignores
+
+484
+00:35:23,340 --> 00:35:25,840
+all the other ions,
+other than sodium,
+
+485
+00:35:25,840 --> 00:35:30,240
+chloride, and the proteins
+that are negative.
+
+486
+00:35:32,140 --> 00:35:37,020
+It's just an important
+reminder that the negative
+
+487
+00:35:37,020 --> 00:35:41,980
+charge on impermeant
+solutes lead to bursting,
+
+488
+00:35:42,090 --> 00:35:46,420
+and cells have to work in
+order to counteract this
+
+489
+00:35:46,420 --> 00:35:50,800
+passive swelling. This is
+osmotic work, and we need
+
+490
+00:35:50,800 --> 00:35:54,900
+osmotic work to exclude
+sodium chloride from the
+
+491
+00:35:54,900 --> 00:35:58,420
+cell and to make the cell
+functionally impermeable to
+
+492
+00:35:58,420 --> 00:36:02,600
+sodium chloride. Again,
+functionally impermeable.
+
+493
+00:36:04,000 --> 00:36:07,940
+So, and this is a steady
+state maintained by
+
+494
+00:36:07,940 --> 00:36:10,500
+active transport, and
+it's maintained by
+
+495
+00:36:10,500 --> 00:36:13,500
+our old friend, the
+sodium-potassium ATPase.
+
+496
+00:36:17,300 --> 00:36:23,260
+sodium-potassium ATPase
+will pump sodium out,
+
+497
+00:36:24,980 --> 00:36:32,550
+bring sodium in, excuse me,
+potassium in, and maintain
+
+498
+00:36:32,970 --> 00:36:38,180
+a balance of water and
+chloride in order to maintain
+
+499
+00:36:38,180 --> 00:36:43,840
+the volume now we can block
+this and in fact it's it's
+
+500
+00:36:43,840 --> 00:36:46,720
+something that happens
+not only in nature but in
+
+501
+00:36:46,720 --> 00:36:52,380
+drug therapy digitalis
+glycosides are a class of drugs
+
+502
+00:36:52,380 --> 00:36:55,560
+you learn about them later
+on that are derived from the
+
+503
+00:36:55,560 --> 00:37:01,720
+digitalis purpurea gland
+plant foxglove it it has a
+
+504
+00:37:02,420 --> 00:37:05,200
+alkaloid that can block the
+
+505
+00:37:05,200 --> 00:37:07,860
+activity of
+digitalis glycosides.
+
+506
+00:37:08,300 --> 00:37:14,200
+And once you block the sodium
+potassium ATPase, water
+
+507
+00:37:14,200 --> 00:37:19,840
+will go in, the cells will
+expand and burst. And why
+
+508
+00:37:19,840 --> 00:37:22,260
+would a plant do that? Well,
+why do plants create any
+
+509
+00:37:22,260 --> 00:37:26,900
+alkaloids, right? They do
+that as toxins to prevent
+
+510
+00:37:27,580 --> 00:37:32,400
+themselves from being
+eaten. So it's a defense
+
+511
+00:37:32,400 --> 00:37:35,020
+mechanism that humans
+have used for drug
+
+512
+00:37:35,020 --> 00:37:38,500
+therapy, like everything
+else that we use from
+
+513
+00:37:38,500 --> 00:37:44,260
+extracting from nature
+for our therapeutic needs.
+
+514
+00:37:45,240 --> 00:37:53,540
+So the response to cell
+swelling is if you have
+
+515
+00:37:53,540 --> 00:37:57,160
+a decrease in extracellular
+fluid osmolality.
+
+516
+00:37:57,720 --> 00:38:01,480
+This attracts water
+into the cell. The cells
+
+517
+00:38:01,480 --> 00:38:06,780
+respond by activating
+solute efflux, and this
+
+518
+00:38:06,780 --> 00:38:10,270
+is called the regulatory
+volume decrease,
+
+519
+00:38:10,940 --> 00:38:13,540
+right? And this
+exact opposite things
+
+520
+00:38:13,540 --> 00:38:16,160
+happen in a response
+to cell shrinkage.
+
+521
+00:38:16,880 --> 00:38:20,840
+You have an increase in
+extracellular of fluid
+
+522
+00:38:20,840 --> 00:38:25,080
+osmolality. This sucks water
+out of the cell, so the
+
+523
+00:38:25,080 --> 00:38:28,760
+cells will respond by
+activating solute uptake,
+
+524
+00:38:28,760 --> 00:38:31,680
+right? And this is known
+as regulatory volume
+
+525
+00:38:31,680 --> 00:38:35,600
+increase. All of it is
+constant work to maintain the
+
+526
+00:38:35,600 --> 00:38:39,540
+Donnan equilibrium. But
+you'll never, you know,
+
+527
+00:38:39,540 --> 00:38:41,380
+again, the cells are
+always doing it. You never
+
+528
+00:38:41,380 --> 00:38:44,700
+reach it. It's always an
+attempt to get that far.
+
+529
+00:38:46,440 --> 00:38:50,860
+So, before we talk about
+barriers, let's have a
+
+530
+00:38:50,860 --> 00:38:54,580
+couple of slides talking
+about the microcirculation.
+
+531
+00:38:56,240 --> 00:39:00,160
+And because, again, the
+movement across cellular
+
+532
+00:39:00,160 --> 00:39:03,280
+barriers really falls
+down to a lot about the
+
+533
+00:39:03,280 --> 00:39:08,980
+movement across in the
+microcirculation. You'll be
+
+534
+00:39:08,980 --> 00:39:12,240
+doing the cardiovascular
+system soon, but remember
+
+535
+00:39:12,240 --> 00:39:14,640
+the primary function of
+the cardiovascular system
+
+536
+00:39:14,640 --> 00:39:17,840
+is to maintain a suitable
+environment for survival
+
+537
+00:39:17,840 --> 00:39:20,900
+and function, and that
+does so by nutrient
+
+538
+00:39:20,900 --> 00:39:25,940
+exchange, and the microcirculation
+is, you know, it's
+
+539
+00:39:25,940 --> 00:39:30,500
+considered to be the
+business end of our system.
+
+540
+00:39:30,700 --> 00:39:35,240
+So in generalities, if they are
+
+541
+00:39:37,640 --> 00:39:41,140
+capillaries are the
+primary site of gas,
+
+542
+00:39:41,140 --> 00:39:44,900
+nutrient, water, and waste
+product exchange, and
+
+543
+00:39:44,900 --> 00:39:47,380
+these are the blood
+vessels that go from the
+
+544
+00:39:47,380 --> 00:39:51,260
+first order arterioles
+to first order venules.
+
+545
+00:39:51,260 --> 00:39:54,680
+So they're not arterioles
+and they're not
+
+546
+00:39:54,680 --> 00:39:58,640
+venules. They come off
+of them. In most, but
+
+547
+00:39:58,640 --> 00:40:01,860
+not all, that flow
+through microcirculation
+
+548
+00:40:01,860 --> 00:40:04,840
+is there to serve our
+nutritional needs.
+
+549
+00:40:05,380 --> 00:40:07,560
+However, in some
+tissues, that's
+
+550
+00:40:07,560 --> 00:40:09,040
+not the case. For example,
+
+551
+00:40:09,440 --> 00:40:11,500
+in the kidney, one example,
+
+552
+00:40:11,500 --> 00:40:13,580
+and the skin is another one.
+
+553
+00:40:13,640 --> 00:40:17,940
+One of the interesting
+things across these
+
+554
+00:40:19,700 --> 00:40:23,140
+capillaries, you
+have right at the
+
+555
+00:40:23,140 --> 00:40:26,500
+junction of the arterioles
+to the capillaries.
+
+556
+00:40:26,500 --> 00:40:28,720
+You can have pre
+-capillary sphincters.
+
+557
+00:40:30,740 --> 00:40:33,320
+These pre-capillary
+sphincters are
+
+558
+00:40:33,320 --> 00:40:36,160
+found at the transition
+of capillaries
+
+559
+00:40:36,160 --> 00:40:38,400
+and some arterioles.
+Again, not all.
+
+560
+00:40:39,340 --> 00:40:43,040
+They're smooth muscle cells,
+vascular smooth muscle
+
+561
+00:40:43,040 --> 00:40:47,170
+cells. They're not innervated,
+so there's no ganglia
+
+562
+00:40:47,170 --> 00:40:51,080
+associated with it that
+controls contraction. They are
+
+563
+00:40:51,080 --> 00:40:55,120
+very responsive to paracrine
+and autocrine influences.
+
+564
+00:40:55,120 --> 00:40:59,420
+So the tissues and the
+cells surrounding them
+
+565
+00:40:59,420 --> 00:41:07,420
+probably control its
+relaxation and constriction
+
+566
+00:41:07,420 --> 00:41:09,820
+to a large degree. And
+you can see that can
+
+567
+00:41:09,820 --> 00:41:11,960
+really make sense, right?
+If you don't have a
+
+568
+00:41:11,960 --> 00:41:16,620
+lot of glucose, you have
+too much, let's say,
+
+569
+00:41:16,780 --> 00:41:19,600
+metabolites, of, you know,
+
+570
+00:41:19,760 --> 00:41:22,700
+anaerobic or aerobic
+metabolism that
+
+571
+00:41:22,700 --> 00:41:29,180
+can act as a stimulus
+for dilation to
+
+572
+00:41:29,520 --> 00:41:35,960
+increase the flow to
+bring back nutrients.
+
+573
+00:41:37,040 --> 00:41:38,240
+So,
+
+574
+00:41:40,860 --> 00:41:48,080
+they become integral to
+modulating exchange within
+
+575
+00:41:48,080 --> 00:41:52,440
+the capillaries because they
+can affect concentrations
+
+576
+00:41:52,440 --> 00:41:58,080
+and different variables.
+The endothelial cells
+
+577
+00:41:58,080 --> 00:42:04,560
+in capillaries are linked
+together in varying degrees
+
+578
+00:42:04,560 --> 00:42:08,660
+via tight junctions,
+adhering junctions, and intra
+
+579
+00:42:08,660 --> 00:42:13,220
+-endothelial junctions. And
+these are proteins such
+
+580
+00:42:13,220 --> 00:42:17,820
+as the clodins as well as
+occludins that can fit,
+
+581
+00:42:18,000 --> 00:42:20,060
+that basically stick
+
+582
+00:42:20,840 --> 00:42:28,800
+the side of the endothelial
+cells to make sure that
+
+583
+00:42:28,800 --> 00:42:38,460
+nothing can go through
+the gaps in these cells.
+
+584
+00:42:42,580 --> 00:42:46,680
+In broad definition, there
+are some differences.
+
+585
+00:42:46,760 --> 00:42:50,200
+Epithelium is an
+uninterrupted sheet of
+
+586
+00:42:50,200 --> 00:42:53,790
+cells that are joined
+together by complexes.
+
+587
+00:42:54,560 --> 00:42:58,940
+Vascular endothelium
+is a subset of
+
+588
+00:42:58,940 --> 00:43:01,740
+epithelium. They're
+highly specialized,
+
+589
+00:43:01,740 --> 00:43:04,580
+specific type of
+epithelial tissues.
+
+590
+00:43:06,040 --> 00:43:08,760
+And this table here
+gives you the difference
+
+591
+00:43:08,760 --> 00:43:10,860
+between the histological
+differences,
+
+592
+00:43:11,540 --> 00:43:14,000
+cell types. You can
+see some, you know, the
+
+593
+00:43:14,000 --> 00:43:16,120
+epithelium, you have
+various different
+
+594
+00:43:16,120 --> 00:43:19,800
+morphologies, while
+endothelium is only one.
+
+595
+00:43:20,370 --> 00:43:22,680
+Where they are, you know,
+
+596
+00:43:23,020 --> 00:43:25,680
+endothelium is really
+the internal surfaces
+
+597
+00:43:25,680 --> 00:43:28,280
+of the cardiovascular
+and lymphatic
+
+598
+00:43:28,280 --> 00:43:32,980
+systems, and they
+constitute the capillaries.
+
+599
+00:43:34,090 --> 00:43:36,080
+Epithelial cells,
+a lot of them have
+
+600
+00:43:36,080 --> 00:43:39,020
+papillary projections,
+brush borders,
+
+601
+00:43:39,020 --> 00:43:42,320
+while endothelial
+cells are smooth.
+
+602
+00:43:42,730 --> 00:43:44,820
+Epithelial cells
+have a distinct
+
+603
+00:43:44,820 --> 00:43:47,380
+polarity. They have poles,
+
+604
+00:43:47,900 --> 00:43:50,500
+basolateral and apical poles,
+
+605
+00:43:50,500 --> 00:43:52,700
+while endothelial doesn't.
+
+606
+00:43:52,900 --> 00:43:55,520
+Different types of secretion.
+The majority of the
+
+607
+00:43:55,520 --> 00:43:59,420
+secretions of epithelial
+cells is mucus, complex
+
+608
+00:43:59,420 --> 00:44:06,060
+carbohydrates along with
+water, and prostaglandin E2,
+
+609
+00:44:06,580 --> 00:44:10,220
+one of the species of
+prostaglandins that are
+
+610
+00:44:10,220 --> 00:44:13,640
+derived from arachidonic
+acid. And they rapidly
+
+611
+00:44:13,640 --> 00:44:17,320
+regenerate. They have a
+high regeneration capacity.
+
+612
+00:44:19,940 --> 00:44:21,640
+Endothelial cells don't.
+
+613
+00:44:22,150 --> 00:44:26,080
+They have very limited
+regenerative capacity. When you
+
+614
+00:44:26,080 --> 00:44:29,920
+damage endothelial cells,
+it's pretty bad. You have
+
+615
+00:44:29,920 --> 00:44:33,760
+long-term damage. They're
+considered to be simple squamous
+
+616
+00:44:33,760 --> 00:44:39,580
+cells, and they secrete a
+lot more interesting and
+
+617
+00:44:39,580 --> 00:44:45,940
+biologically diverse secretions,
+such as nitric oxide,
+
+618
+00:44:47,010 --> 00:44:49,530
+PGI-2, also called
+clostacyclin,
+
+619
+00:44:50,280 --> 00:44:54,600
+and various growth
+factors and vasoactive
+
+620
+00:44:54,600 --> 00:44:57,920
+factors. And you
+can see here, again,
+
+621
+00:44:58,140 --> 00:45:03,380
+a comparison between an
+arterial precapillary
+
+622
+00:45:03,380 --> 00:45:07,280
+sphincter and a true
+capillary. You can see that
+
+623
+00:45:07,280 --> 00:45:12,280
+the ratio of endothelial
+cells to vascular smooth
+
+624
+00:45:12,280 --> 00:45:17,220
+muscle is dramatic. There
+is no smooth muscle in
+
+625
+00:45:17,220 --> 00:45:21,860
+capillaries. It's really
+all endothelial cells.
+
+626
+00:45:23,300 --> 00:45:27,080
+They really just are
+just a single continuous
+
+627
+00:45:27,080 --> 00:45:30,260
+layer of endothelial
+cells. They have a basement
+
+628
+00:45:30,260 --> 00:45:35,280
+membrane and interspersed
+cells called pericytes.
+
+629
+00:45:35,280 --> 00:45:38,440
+Pericytes are also
+called mural cells. They
+
+630
+00:45:38,440 --> 00:45:41,840
+have contractile ability,
+but they're not smooth
+
+631
+00:45:41,840 --> 00:45:45,420
+muscle cells. So they may
+act like smooth muscle
+
+632
+00:45:45,420 --> 00:45:48,440
+cells, but they're not
+smooth muscle cells. And
+
+633
+00:45:48,440 --> 00:45:50,860
+they're essential for
+regulation of blood flow.
+
+634
+00:45:51,270 --> 00:45:54,240
+We can categorize
+capillaries into three
+
+635
+00:45:54,240 --> 00:45:58,240
+distinctions based on
+their degree of leakiness,
+
+636
+00:45:58,240 --> 00:46:01,380
+if you want to use
+regular vernacular.
+
+637
+00:46:01,840 --> 00:46:05,600
+Most of our capillaries
+are continuous capillaries.
+
+638
+00:46:05,600 --> 00:46:07,600
+This is a good example
+of it right over here.
+
+639
+00:46:09,500 --> 00:46:12,280
+They have tight
+junctions, adhering
+
+640
+00:46:12,280 --> 00:46:14,200
+junctions, and a
+great example of it
+
+641
+00:46:14,200 --> 00:46:17,420
+is most of the
+blood-brain barrier.
+
+642
+00:46:17,940 --> 00:46:20,960
+You also have
+fenestrated capillaries.
+
+643
+00:46:22,720 --> 00:46:25,820
+In this case, the
+endothelial cells are
+
+644
+00:46:25,820 --> 00:46:28,680
+thin and perforated
+with fenestrations.
+
+645
+00:46:28,880 --> 00:46:32,140
+Fenestration is another
+word for window. Fenestra
+
+646
+00:46:32,140 --> 00:46:36,680
+is Latin for window. If
+any of you ever go to
+
+647
+00:46:36,680 --> 00:46:40,820
+Europe, please go to
+Prague and go to where the
+
+648
+00:46:40,820 --> 00:46:43,940
+first and second defenestrations
+of Prague happened.
+
+649
+00:46:43,940 --> 00:46:47,290
+It's one of my favorite
+historical occurrences.
+
+650
+00:46:48,200 --> 00:46:51,800
+And these fenestrated
+capillaries often
+
+651
+00:46:51,800 --> 00:46:54,900
+surround epithelia such
+as small intestine,
+
+652
+00:46:55,260 --> 00:46:57,080
+glands, and the kidney.
+
+653
+00:46:57,280 --> 00:47:00,040
+And then finally you have
+discontinuous sinusoidal
+
+654
+00:47:00,320 --> 00:47:05,160
+capillaries. So they have
+large gaps and very large
+
+655
+00:47:05,160 --> 00:47:09,960
+windows, large fenestrae. And
+it's close contact between
+
+656
+00:47:09,960 --> 00:47:14,160
+body and tissue and exchange
+of materials. So places
+
+657
+00:47:14,160 --> 00:47:17,100
+like the liver, where you
+have exchange of proteins
+
+658
+00:47:17,100 --> 00:47:22,360
+and lipoproteins, or spleen,
+where you have exchange
+
+659
+00:47:23,520 --> 00:47:27,370
+of cells is where you have
+discontinuous sinusoidal
+
+660
+00:47:27,480 --> 00:47:30,940
+capillaries. Here's
+another slide, shows them
+
+661
+00:47:30,940 --> 00:47:35,380
+bigger. This is a nice
+electron microscope, shows you
+
+662
+00:47:35,380 --> 00:47:41,280
+the cell body of the pericyte
+and how it sends out these
+
+663
+00:47:41,280 --> 00:47:46,200
+projections and it can cause
+contraction, constriction
+
+664
+00:47:46,200 --> 00:47:50,140
+of capillaries just by
+the action of one cell.
+
+665
+00:47:50,440 --> 00:47:54,820
+Here is a fenestrated
+capillary versus
+
+666
+00:47:54,820 --> 00:47:57,860
+a sinusoidal. You
+can see the degree
+
+667
+00:47:57,860 --> 00:47:59,820
+of the holes that
+are different.
+
+668
+00:48:00,360 --> 00:48:04,700
+If you are from Wisconsin
+or you like cheese,
+
+669
+00:48:04,720 --> 00:48:08,320
+this is a baby Swiss, while
+this is regular Swiss.
+
+670
+00:48:08,320 --> 00:48:11,660
+I do not know how they
+taste. I know how baby
+
+671
+00:48:11,660 --> 00:48:17,000
+Swiss and Swiss cheese
+taste, but yeah, I don't know
+
+672
+00:48:17,000 --> 00:48:19,580
+if the capillaries have
+a taste difference, but
+
+673
+00:48:19,580 --> 00:48:23,080
+that's neither here or
+there or important at all.
+
+674
+00:48:24,520 --> 00:48:28,180
+So how is water exchange across
+
+675
+00:48:28,180 --> 00:48:31,780
+capillary walls generated?
+
+676
+00:48:31,940 --> 00:48:35,760
+So interstitial fluid
+surrounds and bathes all the
+
+677
+00:48:35,760 --> 00:48:38,460
+cells of our body that are
+non-blood, right? Obviously
+
+678
+00:48:38,460 --> 00:48:43,720
+blood is in the vasculature
+and is surrounded by blood,
+
+679
+00:48:43,720 --> 00:48:47,940
+not by interstitial fluid.
+And capillary walls separate
+
+680
+00:48:47,940 --> 00:48:51,520
+the intravascular and
+interstitial compartments.
+
+681
+00:48:51,640 --> 00:48:54,860
+And in some tissues,
+this is not,
+
+682
+00:48:54,860 --> 00:48:57,700
+is a non-nutritional exchange.
+
+683
+00:48:58,800 --> 00:49:03,680
+So what can guide, regulate
+this exchange? Well,
+
+684
+00:49:03,900 --> 00:49:05,820
+the first one
+we'll talk about is
+
+685
+00:49:05,820 --> 00:49:09,360
+hydrostatic pressure.
+And this includes all
+
+686
+00:49:09,360 --> 00:49:11,600
+the sources of
+intravascular pressure.
+
+687
+00:49:11,770 --> 00:49:15,240
+So not only the, not
+only the pressure that we
+
+688
+00:49:15,240 --> 00:49:19,100
+get from gravity, right?
+So hydrostatic pressure
+
+689
+00:49:19,100 --> 00:49:22,560
+when you're standing
+up is higher in your
+
+690
+00:49:22,560 --> 00:49:25,280
+lower extremities than
+they are in your upper
+
+691
+00:49:25,280 --> 00:49:31,120
+extremities, but not
+when you're lying down.
+
+692
+00:49:33,080 --> 00:49:35,400
+And in this case, if you're
+
+693
+00:49:35,400 --> 00:49:36,530
+going to make a schematic,
+
+694
+00:49:36,880 --> 00:49:42,020
+you can draw hydrostatic
+pressure inside the
+
+695
+00:49:42,020 --> 00:49:45,920
+capillary versus hydrostatic
+pressure in the interstitium.
+
+696
+00:49:45,920 --> 00:49:49,240
+And this is always
+higher. And this will push
+
+697
+00:49:49,240 --> 00:49:53,560
+water from the capillary
+into the interstitium.
+
+698
+00:49:54,200 --> 00:49:59,640
+So it's a very important
+force for driving fluid
+
+699
+00:49:59,640 --> 00:50:04,080
+across cell barriers. Also
+small solutes. Electrolytes
+
+700
+00:50:04,080 --> 00:50:08,400
+permeate freely across
+most cell barriers and
+
+701
+00:50:08,400 --> 00:50:16,500
+the borough along with the
+water. But the pressure
+
+702
+00:50:16,500 --> 00:50:21,620
+difference is much, much
+higher than any kind
+
+703
+00:50:21,620 --> 00:50:26,200
+of an oncotic influence
+on these small solutes. So
+
+704
+00:50:26,200 --> 00:50:30,220
+they do not exert a driving
+force for water movement
+
+705
+00:50:30,220 --> 00:50:34,080
+across cell barriers.
+So the only net osmotic
+
+706
+00:50:34,080 --> 00:50:38,940
+force that acts across
+capillary walls can be caused
+
+707
+00:50:38,940 --> 00:50:43,280
+by asymmetric distribution
+of plasma proteins.
+
+708
+00:50:43,280 --> 00:50:49,300
+That can cause differences
+in these two variables,
+
+709
+00:50:49,300 --> 00:50:54,340
+but not in the plasma
+hydrostatic variables.
+
+710
+00:50:56,940 --> 00:51:00,420
+So proteins make a
+big difference in the
+
+711
+00:51:00,420 --> 00:51:02,700
+cellular barriers.
+If you remember that
+
+712
+00:51:04,620 --> 00:51:09,700
+they can be zero because
+the barrier will not allow
+
+713
+00:51:09,700 --> 00:51:12,780
+proteins to cross. And we
+really are talking about
+
+714
+00:51:12,780 --> 00:51:16,220
+proteins, we're talking
+about albumin. Albumin is the
+
+715
+00:51:16,220 --> 00:51:22,660
+lion's share of plasma
+proteins, about 54%. And here's
+
+716
+00:51:22,660 --> 00:51:24,740
+a sample of blood. If you
+take a little, you know,
+
+717
+00:51:24,740 --> 00:51:27,680
+if you spin it down, you
+can see the red blood cells,
+
+718
+00:51:27,860 --> 00:51:30,480
+white blood cells, platelets in
+
+719
+00:51:30,480 --> 00:51:33,460
+the buffy coat and the plasma,
+
+720
+00:51:33,700 --> 00:51:36,920
+nice and clear and a
+healthy person, yellowish,
+
+721
+00:51:36,920 --> 00:51:40,440
+the majority of it
+is albumin. You can
+
+722
+00:51:40,440 --> 00:51:46,720
+visualize it very
+nicely and it's because
+
+723
+00:51:48,240 --> 00:51:53,720
+albumin binds a lot of
+compounds so you have a
+
+724
+00:51:57,800 --> 00:52:02,040
+variable molecular
+weight and differences in
+
+725
+00:52:02,040 --> 00:52:08,120
+charge, depending on
+what is bound to it. And
+
+726
+00:52:08,120 --> 00:52:10,660
+this can be observed
+if you run a two
+
+727
+00:52:10,660 --> 00:52:15,600
+-dimensional gel based on
+molecular weight and pH,
+
+728
+00:52:15,760 --> 00:52:19,140
+just a drop of human plasma,
+you can see the majority
+
+729
+00:52:19,140 --> 00:52:25,160
+of what you find is in
+the albumin compartment.
+
+730
+00:52:25,600 --> 00:52:28,360
+Other parts are
+immunoglobulins,
+
+731
+00:52:28,360 --> 00:52:30,330
+you know, especially IgG.
+
+732
+00:52:31,560 --> 00:52:35,360
+And so IgG, you know,
+
+733
+00:52:37,220 --> 00:52:39,800
+immunoglobulins, the
+various different ones will
+
+734
+00:52:39,800 --> 00:52:43,550
+break up, you know,
+about 38% of the plasma
+
+735
+00:52:43,550 --> 00:52:46,110
+proteins and the rest of
+them are broken down to
+
+736
+00:52:46,380 --> 00:52:51,600
+fibrinogen and miscellaneous
+enzymes and hormones.
+
+737
+00:52:51,960 --> 00:52:53,460
+But protein
+
+738
+00:52:58,410 --> 00:53:01,490
+concentrations are
+higher in plasma than
+
+739
+00:53:01,490 --> 00:53:03,910
+they are in interstitial,
+right, unless
+
+740
+00:53:06,030 --> 00:53:10,450
+the proteins can get across
+the capillary barrier.
+
+741
+00:53:10,450 --> 00:53:13,510
+If they can't get across
+the capillary barrier,
+
+742
+00:53:13,600 --> 00:53:17,830
+then we have set up
+a gradient. And this
+
+743
+00:53:17,830 --> 00:53:21,750
+gradient pulls the fluid
+back into the capillary.
+
+744
+00:53:21,790 --> 00:53:25,730
+And this is called the
+colloid osmotic pressure,
+
+745
+00:53:25,730 --> 00:53:30,070
+also known as the oncotic
+pressure. Delta mu,
+
+746
+00:53:30,070 --> 00:53:34,010
+you know, onc, I'll
+indicate it. So for when it
+
+747
+00:53:34,010 --> 00:53:37,690
+comes to protein, we
+refer to it as oncotic,
+
+748
+00:53:38,240 --> 00:53:41,170
+because that's where you
+can have a concentration
+
+749
+00:53:41,170 --> 00:53:45,030
+difference across the
+capillary barrier. You don't
+
+750
+00:53:45,030 --> 00:53:47,830
+have electrolytes.
+Electrolytes will go through
+
+751
+00:53:47,830 --> 00:53:51,510
+those capillary fenestrae
+without any problem.
+
+752
+00:53:52,610 --> 00:53:57,350
+The concept of ultrafiltration
+occurs when you
+
+753
+00:53:57,350 --> 00:54:03,230
+have higher hydrostatic
+pressure than oncotic pressure,
+
+754
+00:54:03,230 --> 00:54:06,850
+and you push the water
+out of the capillary.
+
+755
+00:54:07,940 --> 00:54:11,190
+but vice versa can also
+be true. If you have more
+
+756
+00:54:11,190 --> 00:54:14,130
+plasma proteins in the
+intravascular compartment
+
+757
+00:54:14,180 --> 00:54:16,780
+than in the
+interstitial, you can
+
+758
+00:54:16,780 --> 00:54:19,330
+pull it back into
+the capillary.
+
+759
+00:54:20,010 --> 00:54:23,510
+And water is at equilibrium
+when the colloid
+
+760
+00:54:23,510 --> 00:54:27,510
+and osmotic hydrostatic
+pressures are equal.
+
+761
+00:54:28,730 --> 00:54:32,270
+So the regular relationship
+between these two and
+
+762
+00:54:32,270 --> 00:54:36,130
+the roles in regulating
+fluid exchange was was
+
+763
+00:54:36,130 --> 00:54:42,790
+explored and characterized
+by Henry Starling and this
+
+764
+00:54:42,790 --> 00:54:48,370
+is also known as Starling's
+hypothesis where he
+
+765
+00:54:48,420 --> 00:54:53,810
+calculated the rate of fluid
+movement based on three
+
+766
+00:54:53,810 --> 00:54:56,930
+or if you want to call it
+five different variables.
+
+767
+00:54:58,070 --> 00:55:02,210
+The variables are capillary
+hydrostatic pressure,
+
+768
+00:55:02,450 --> 00:55:04,970
+interstitial
+hydrostatic pressure,
+
+769
+00:55:05,650 --> 00:55:07,170
+oncotic pressure,
+
+770
+00:55:07,710 --> 00:55:10,930
+plasma versus interstitial,
+
+771
+00:55:10,930 --> 00:55:13,450
+and the filtration coefficient.
+
+772
+00:55:14,110 --> 00:55:18,110
+So what is the filtration
+coefficient? Well,
+
+773
+00:55:18,110 --> 00:55:25,430
+it's a quantitative
+assessment of the capillary
+
+774
+00:55:25,430 --> 00:55:29,050
+wall permeability and
+the total surface area.
+
+775
+00:55:29,450 --> 00:55:36,330
+So KFs are different in
+different tissues, and they
+
+776
+00:55:36,330 --> 00:55:39,850
+are variables. And you can
+see the total surface area
+
+777
+00:55:39,850 --> 00:55:44,390
+and the permeability can
+change not only by actions
+
+778
+00:55:44,390 --> 00:55:51,550
+of the sphincters, but
+by actions of other cells
+
+779
+00:55:51,550 --> 00:55:55,430
+that are associated with
+the capillary barrier, such
+
+780
+00:55:55,430 --> 00:56:00,170
+as pericytes, as I mentioned
+before, and mesangial
+
+781
+00:56:00,330 --> 00:56:06,170
+cells, which we'll talk
+about in the next lectures.
+
+782
+00:56:09,390 --> 00:56:13,230
+Further solute exchange
+across cellular barriers
+
+783
+00:56:13,230 --> 00:56:17,450
+can occur either paracellularly
+or transcellularly.
+
+784
+00:56:18,470 --> 00:56:22,510
+So this is for anything
+that is lipid-insoluble,
+
+785
+00:56:22,510 --> 00:56:26,810
+so not lipids, not
+gas, usually proteins.
+
+786
+00:56:29,790 --> 00:56:36,650
+Endothelial cells deposit
+a layer of glycocalyx
+
+787
+00:56:36,810 --> 00:56:40,730
+in their basement
+membrane. And these
+
+788
+00:56:40,730 --> 00:56:43,230
+are macromolecules
+with negative charges.
+
+789
+00:56:43,370 --> 00:56:48,810
+And they'll repel other
+macromolecules with negative
+
+790
+00:56:48,810 --> 00:56:52,310
+charges and favor molecules
+with positive charges.
+
+791
+00:56:53,930 --> 00:56:58,590
+And so they can
+cross the barrier
+
+792
+00:56:58,590 --> 00:57:01,310
+based on that paracellularly.
+
+793
+00:57:03,350 --> 00:57:06,670
+Transcellular is more
+of an active process.
+
+794
+00:57:07,070 --> 00:57:09,590
+Not really for
+neutral molecules.
+
+795
+00:57:09,850 --> 00:57:16,090
+It's mostly for
+different size molecules.
+
+796
+00:57:16,090 --> 00:57:19,030
+So you can have, and
+in some cases, water.
+
+797
+00:57:19,130 --> 00:57:23,050
+you can have
+translocation of the
+
+798
+00:57:23,050 --> 00:57:26,370
+compound across a
+cellular barrier,
+
+799
+00:57:26,630 --> 00:57:34,170
+not around it. And it
+requires endocytosis, movement
+
+800
+00:57:34,170 --> 00:57:39,230
+through the cell, and
+then exocytosis. So
+
+801
+00:57:39,230 --> 00:57:43,290
+endocytosis can either
+occur by nonspecific uptake.
+
+802
+00:57:43,450 --> 00:57:49,370
+It can happen by
+internalization, by pinching off
+
+803
+00:57:51,010 --> 00:57:54,850
+large particles,
+macrophages are
+
+804
+00:57:54,850 --> 00:57:57,150
+famous for their
+phagocytic activities,
+
+805
+00:57:57,330 --> 00:58:01,870
+and receptor-mediated
+endocytosis, where based
+
+806
+00:58:01,870 --> 00:58:06,350
+on a binding by specific
+molecules to their
+
+807
+00:58:06,350 --> 00:58:09,350
+specific cell receptors,
+they are removed. You
+
+808
+00:58:09,350 --> 00:58:12,650
+can see this in a lot
+of degradative pathways.
+
+809
+00:58:13,550 --> 00:58:17,130
+Yeah, and the paracellular
+pathways are for
+
+810
+00:58:17,130 --> 00:58:20,190
+solutes that are smaller
+than albumin that can
+
+811
+00:58:20,190 --> 00:58:26,130
+cross, that must traverse
+the wall by diffusion.
+
+812
+00:58:29,330 --> 00:58:37,030
+One of the results of these
+movements is the creation
+
+813
+00:58:37,030 --> 00:58:40,650
+of an electrochemical
+gradient across epithelial
+
+814
+00:58:40,650 --> 00:58:43,390
+barriers. This is not a
+plasma membrane. This is
+
+815
+00:58:43,390 --> 00:58:48,960
+epithelial barriers, one
+side of a luminal barrier to
+
+816
+00:58:48,960 --> 00:58:53,070
+another, right? So if this
+is in the lumen, you can
+
+817
+00:58:53,070 --> 00:59:02,010
+have a difference in charge
+compared to interstitium.
+
+818
+00:59:02,870 --> 00:59:05,790
+Again, not plasma membrane,
+so let's be careful
+
+819
+00:59:05,790 --> 00:59:09,150
+about that. This is
+called the transepithelial
+
+820
+00:59:09,150 --> 00:59:15,690
+voltage, VTE, and it's
+the difference in the
+
+821
+00:59:15,690 --> 00:59:21,140
+potential energy in
+between either sides of a
+
+822
+00:59:21,230 --> 00:59:25,130
+barrier. And they can have
+high or low electrical
+
+823
+00:59:25,130 --> 00:59:30,290
+resistance based on
+their tight junctions.
+
+824
+00:59:30,390 --> 00:59:32,990
+The tighter, the more
+junctions they have,
+
+825
+00:59:32,990 --> 00:59:35,430
+the higher the
+electrical resistance,
+
+826
+00:59:36,430 --> 00:59:39,650
+the lower, the leakier
+they are, the lower
+
+827
+00:59:39,650 --> 00:59:42,090
+the electrical resistance.
+And in general,
+
+828
+00:59:42,550 --> 00:59:46,530
+leaky epithelia perform bulk
+transepithelial transport,
+
+829
+00:59:46,530 --> 00:59:50,530
+while tight epithelia
+generate transepithelial
+
+830
+00:59:50,530 --> 00:59:53,730
+concentration and osmotic
+gradients. And we'll see
+
+831
+00:59:53,730 --> 00:59:58,310
+that dramatically when we
+talk about our nephrons.
+
+832
+00:59:58,910 --> 01:00:03,890
+And we'll finish off
+by talking about the
+
+833
+01:00:03,890 --> 01:00:07,170
+effects of salinity on
+body fluid compartments.
+
+834
+01:00:07,170 --> 01:00:11,530
+And how, if we, and
+how do these fluids
+
+835
+01:00:11,530 --> 01:00:17,070
+change in response
+to different stimuli?
+
+836
+01:00:17,510 --> 01:00:20,310
+So adding different
+combinations of water and
+
+837
+01:00:20,310 --> 01:00:22,510
+solute-free water to
+the extracellular fluid
+
+838
+01:00:22,510 --> 01:00:25,510
+will alter the volume and
+composition of all the
+
+839
+01:00:25,510 --> 01:00:28,270
+body fluid compartments.
+And these effects are
+
+840
+01:00:28,270 --> 01:00:30,670
+really seen when we give
+intravenous therapy.
+
+841
+01:00:30,750 --> 01:00:33,270
+So let's talk about
+normal. Normal we
+
+842
+01:00:33,270 --> 01:00:35,150
+have here, total
+body water, right?
+
+843
+01:00:36,990 --> 01:00:40,290
+based on the numbers we
+had before. If I give
+
+844
+01:00:40,290 --> 01:00:44,550
+somebody an infusion of
+1.5 liters of isotonic
+
+845
+01:00:44,550 --> 01:00:47,870
+saline, the effect
+of osmolality doesn't
+
+846
+01:00:47,870 --> 01:00:50,150
+change, right? The saline,
+the concentration is
+
+847
+01:00:50,150 --> 01:00:52,790
+the same as interstitial
+exocellular fluid.
+
+848
+01:00:53,290 --> 01:00:58,670
+All I'll do is add 18, you
+know, 1.5 liters to the
+
+849
+01:00:58,670 --> 01:01:02,570
+exocellular fluid volume,
+and you don't have any
+
+850
+01:01:02,570 --> 01:01:06,250
+changes in osmotic gradient
+across the membrane,
+
+851
+01:01:06,250 --> 01:01:10,670
+right? And these numbers,
+especially when it
+
+852
+01:01:10,670 --> 01:01:16,390
+comes to looking at these
+movements, are based on
+
+853
+01:01:16,390 --> 01:01:20,110
+the blood body fluids of
+a 70 kilogram per person.
+
+854
+01:01:20,270 --> 01:01:22,770
+Just know the
+generalities, that there is
+
+855
+01:01:22,770 --> 01:01:28,170
+movement if you give an
+isotonic solution just
+
+856
+01:01:28,170 --> 01:01:32,410
+into the extracellular
+fluid compartment.
+
+857
+01:01:32,410 --> 01:01:35,070
+That is the plasma and
+interstitial fluid.
+
+858
+01:01:35,650 --> 01:01:41,100
+and there is no movement
+in or out of intercellular
+
+859
+01:01:41,100 --> 01:01:44,050
+fluid. How about the
+opposite one? What if I give
+
+860
+01:01:44,050 --> 01:01:48,350
+you 1.5 liters of solute
+-free water? Well, nobody
+
+861
+01:01:48,350 --> 01:01:52,670
+will do that. Infusion water
+is bad, right? But we do
+
+862
+01:01:52,670 --> 01:01:57,110
+that similarly when we
+give isotonic glucose,
+
+863
+01:01:57,110 --> 01:02:02,150
+dextrose solutions. The dextrose
+will will get metabolized
+
+864
+01:02:02,150 --> 01:02:06,710
+very quickly to carbon
+dioxide and water. And
+
+865
+01:02:06,710 --> 01:02:11,170
+remember, carbon dioxide
+gases are not solutes. So
+
+866
+01:02:11,170 --> 01:02:13,950
+there's no solutes left
+behind in the exocellular
+
+867
+01:02:13,950 --> 01:02:18,470
+fluid. So what happens then?
+Well, then initially, the
+
+868
+01:02:18,810 --> 01:02:24,530
+fluid volume will go into
+the exocellular fluid,
+
+869
+01:02:24,530 --> 01:02:30,490
+and then decreasing its
+osmolality, right? Because
+
+870
+01:02:30,490 --> 01:02:34,130
+you're only adding water
+for all practical purposes.
+
+871
+01:02:34,470 --> 01:02:40,810
+Then this draws in
+water. So you get a loss
+
+872
+01:02:40,810 --> 01:02:43,650
+of water into the
+interstitial, into
+
+873
+01:02:43,650 --> 01:02:47,250
+intercellular fluid
+until they equilibrate.
+
+874
+01:02:47,950 --> 01:02:53,690
+So adding 1.5 liters of
+isotonic glucose is similar
+
+875
+01:02:53,690 --> 01:02:58,070
+to adding 1.5 liters of
+water-free, except we
+
+876
+01:02:58,070 --> 01:03:01,880
+don't do that because if
+you add solute-free water
+
+877
+01:03:02,610 --> 01:03:05,630
+at any site, you cause
+massive tissue damage,
+
+878
+01:03:05,630 --> 01:03:09,130
+right, to the site of
+injection because you'll
+
+879
+01:03:09,130 --> 01:03:12,110
+just burst the cells. The
+cells will just explode.
+
+880
+01:03:12,410 --> 01:03:17,270
+How about the opposite of
+that addition of pure and
+
+881
+01:03:17,270 --> 01:03:21,050
+ACL. And this is not really
+infusion of a sodium chloride
+
+882
+01:03:21,050 --> 01:03:25,950
+solution. We can just
+usually see that in ingestion
+
+883
+01:03:25,950 --> 01:03:29,410
+of sodium chloride. And
+let's do potato chips. I
+
+884
+01:03:29,410 --> 01:03:34,280
+did the calculation. 13.5
+grams of sodium chloride is,
+
+885
+01:03:34,280 --> 01:03:38,710
+you know, and is kind of
+like a little bit less than
+
+886
+01:03:38,710 --> 01:03:43,010
+the amount we would get in
+a bag of potato chips. So
+
+887
+01:03:43,010 --> 01:03:46,170
+a lot of potato, a lot of
+salt when we do our potato
+
+888
+01:03:46,170 --> 01:03:52,190
+chips snacking. So what
+happens then? Well, then the
+
+889
+01:03:52,190 --> 01:03:55,050
+sodium chloride is all in
+the extracellular fluid,
+
+890
+01:03:55,050 --> 01:03:58,770
+right? Then the osmolality
+will go up. What happens
+
+891
+01:03:58,770 --> 01:04:04,390
+then? Well, then we start
+getting fluid water movement
+
+892
+01:04:04,390 --> 01:04:11,030
+going from the intercellular
+space to the extracellular
+
+893
+01:04:11,030 --> 01:04:15,870
+space until the osmolalities
+equilibrate, which are
+
+894
+01:04:15,870 --> 01:04:20,490
+still probably a little
+bit higher, but that's a
+
+895
+01:04:20,630 --> 01:04:27,190
+cellular response before we
+have a total body response.
+
+896
+01:04:29,650 --> 01:04:35,950
+So as a final note, interstitium
+was always considered
+
+897
+01:04:35,950 --> 01:04:38,250
+to be an artificial space,
+something that we use
+
+898
+01:04:38,250 --> 01:04:41,550
+in our discussions, but
+there's more and more people
+
+899
+01:04:41,550 --> 01:04:45,330
+who actually think that
+this is a real space and
+
+900
+01:04:45,730 --> 01:04:51,360
+it's unrecognized and
+therefore can be manipulated.
+
+901
+01:04:52,430 --> 01:04:55,230
+If so, I think it's
+really interesting.
+
+902
+01:04:55,230 --> 01:04:56,910
+If you're interested in it,
+
+903
+01:04:57,150 --> 01:05:01,050
+Neil D. Thies, he's an
+NYU pathologist. They've
+
+904
+01:05:01,050 --> 01:05:04,210
+done some really
+interesting histology on it.
+
+905
+01:05:04,390 --> 01:05:05,350
+Anyway,
+
+906
+01:05:05,570 --> 01:05:09,150
+now that's this
+lecture. Thank you very
+
+907
+01:05:09,150 --> 01:05:11,710
+much, and here is
+the lecture feedback
+
+908
+01:05:11,710 --> 01:05:17,450
+form, and wait until
+our next lecture.

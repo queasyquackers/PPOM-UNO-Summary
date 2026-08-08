@@ -1,0 +1,4958 @@
+1
+00:00:00,470 --> 00:00:02,790
+Hello, everyone. I hope
+you're all doing well,
+
+2
+00:00:02,790 --> 00:00:06,830
+and welcome to the next
+lecture in our series
+
+3
+00:00:06,830 --> 00:00:09,010
+of lectures on renal
+physiology. I think by
+
+4
+00:00:09,010 --> 00:00:13,210
+this time you have
+hopefully have looked at
+
+5
+00:00:13,750 --> 00:00:20,810
+the functional anatomy and
+the control of GFR and renal
+
+6
+00:00:20,810 --> 00:00:24,610
+blood flow and the variables
+that regulate that, and
+
+7
+00:00:24,610 --> 00:00:30,170
+then are familiar with the
+reabsorption of sodium and
+
+8
+00:00:30,170 --> 00:00:33,350
+water, and to a degree,
+chloride, even if they didn't
+
+9
+00:00:33,350 --> 00:00:36,430
+spell it out, a lot of the
+pathways for sodium and
+
+10
+00:00:36,430 --> 00:00:39,890
+chloride go hand in hand. But
+today, we'll be talking about
+
+11
+00:00:39,890 --> 00:00:44,160
+more of the electrolytes that
+are involved in physiology
+
+12
+00:00:44,160 --> 00:00:47,480
+and the role of the kidney
+in their homeostasis.
+
+13
+00:00:48,930 --> 00:00:51,150
+So here are our
+session objectives.
+
+14
+00:00:51,750 --> 00:00:54,000
+We're going to talk
+about potassium.
+
+15
+00:00:54,210 --> 00:00:56,730
+We'll talk a little
+bit about the renal
+
+16
+00:00:56,730 --> 00:00:58,510
+and angiotensin
+-aldosterone system
+
+17
+00:00:58,610 --> 00:01:01,550
+and potassium
+balance, acid base.
+
+18
+00:01:02,580 --> 00:01:05,790
+And it will, you know, that
+we'll start talking about
+
+19
+00:01:05,790 --> 00:01:08,720
+acid base and how it affects
+potassium homeostasis.
+
+20
+00:01:08,870 --> 00:01:12,530
+And then we'll finish off
+by talking about calcium,
+
+21
+00:01:12,530 --> 00:01:15,590
+magnesium, and phosphate
+in the nephron. And
+
+22
+00:01:15,590 --> 00:01:21,570
+you'll see that as we progress,
+it becomes less complicated
+
+23
+00:01:22,240 --> 00:01:24,980
+when it comes to it,
+but you can also imagine
+
+24
+00:01:24,980 --> 00:01:29,050
+the reason for the
+complication is its importance.
+
+25
+00:01:29,670 --> 00:01:31,890
+So like in my previous
+lectures, I'll
+
+26
+00:01:31,890 --> 00:01:34,470
+start off by a scenario,
+a similar scenario
+
+27
+00:01:34,470 --> 00:01:36,790
+to one of the earlier
+lectures I have.
+
+28
+00:01:37,040 --> 00:01:39,090
+Somebody, you know, you
+have just spent your
+
+29
+00:01:39,090 --> 00:01:40,870
+last three summers
+trying to get into shape.
+
+30
+00:01:40,870 --> 00:01:43,710
+You're running, you're
+going to hot yoga, and one
+
+31
+00:01:43,710 --> 00:01:48,710
+day after a session of
+hot yoga and jogging.
+
+32
+00:01:49,370 --> 00:01:53,270
+You leave the studio and
+you feel like you're going
+
+33
+00:01:53,270 --> 00:01:56,330
+to fall down. You're
+lightheaded and you feel your
+
+34
+00:01:56,330 --> 00:02:00,430
+heart fluttering in your chest
+and you don't know what's
+
+35
+00:02:00,430 --> 00:02:06,730
+going on. And your instructors
+are on top of everything,
+
+36
+00:02:06,730 --> 00:02:09,250
+immediately give you
+some coconut water and a
+
+37
+00:02:09,250 --> 00:02:12,230
+banana and you sit there
+and you drink your coconut
+
+38
+00:02:12,230 --> 00:02:17,130
+water and after five minutes
+you feel great and you
+
+39
+00:02:17,130 --> 00:02:21,450
+wonder this is magic what is
+in coconut water and bananas
+
+40
+00:02:21,450 --> 00:02:25,370
+that can work so quickly
+and make you feel better
+
+41
+00:02:27,090 --> 00:02:30,830
+so this is what basically
+the scenario we're
+
+42
+00:02:30,830 --> 00:02:34,090
+talking about and hopefully
+by the end of this lecture,
+
+43
+00:02:34,090 --> 00:02:39,050
+we can address a possible
+solution to this.
+
+44
+00:02:39,830 --> 00:02:42,990
+So we'll start talking
+again. We're talking about
+
+45
+00:02:42,990 --> 00:02:49,430
+the nephron, and you already
+have discussed water,
+
+46
+00:02:49,430 --> 00:02:51,970
+sodium, and I said to a
+degree of chloride, and today
+
+47
+00:02:51,970 --> 00:03:00,050
+we'll talk about these
+players, potassium, calcium,
+
+48
+00:03:00,050 --> 00:03:02,090
+magnesium, and phosphate,
+and then the next lecture
+
+49
+00:03:02,090 --> 00:03:07,970
+we'll talk about the rest
+of these players and these
+
+50
+00:03:07,970 --> 00:03:11,490
+compounds. But today's
+our electrolytes, our non
+
+51
+00:03:11,490 --> 00:03:18,230
+-bicarbonate electrolytes.
+And again, we reiterated the
+
+52
+00:03:18,650 --> 00:03:21,970
+important player here
+is the nephron and
+
+53
+00:03:22,540 --> 00:03:28,000
+the kidney keeps a
+very, very tight watch
+
+54
+00:03:28,000 --> 00:03:33,950
+on, on these electrolytes.
+And, you know,
+
+55
+00:03:34,470 --> 00:03:37,090
+we've already stated,
+the kidney filters and
+
+56
+00:03:37,090 --> 00:03:41,510
+then reabsorbs, and it
+can also filter, secrete,
+
+57
+00:03:41,930 --> 00:03:45,410
+and it also can filter,
+reabsorb, and secrete.
+
+58
+00:03:45,410 --> 00:03:50,410
+So all three of these
+major functions are going
+
+59
+00:03:50,410 --> 00:03:54,810
+on, sometimes simultaneously,
+in order to give us
+
+60
+00:03:55,970 --> 00:04:00,270
+excretion and whatever
+is left in the
+
+61
+00:04:00,270 --> 00:04:03,270
+urine. And it's a
+very simple algebraic
+
+62
+00:04:05,830 --> 00:04:08,410
+relationship. So
+excretion is basically
+
+63
+00:04:08,410 --> 00:04:13,230
+filtration minus
+reabsorption plus secretion.
+
+64
+00:04:13,540 --> 00:04:16,270
+You can put numerical
+values if you want
+
+65
+00:04:16,270 --> 00:04:19,250
+to figure it out
+again, but it's very
+
+66
+00:04:19,250 --> 00:04:21,670
+algebraic, nothing
+complicated about it.
+
+67
+00:04:22,970 --> 00:04:26,090
+In general, we can say
+that reabsorption is much
+
+68
+00:04:26,090 --> 00:04:29,790
+more quantitatively more
+important than tubular
+
+69
+00:04:29,790 --> 00:04:33,390
+secretion. There's much
+more reabsorption going on
+
+70
+00:04:33,390 --> 00:04:36,450
+than there is secretion.
+You can just see very few
+
+71
+00:04:36,450 --> 00:04:43,850
+compounds or physiological
+compounds are secreted,
+
+72
+00:04:43,850 --> 00:04:47,530
+only potassium, protons,
+and to a degree urea.
+
+73
+00:04:47,530 --> 00:04:52,110
+We can talk about having
+physiological purposes.
+
+74
+00:04:53,870 --> 00:04:57,930
+Drugs get secreted
+either because we want to
+
+75
+00:04:57,930 --> 00:05:01,030
+get rid of them. Urinary
+excretion of drugs is
+
+76
+00:05:01,030 --> 00:05:09,330
+one of the major pathways
+of drug metabolism.
+
+77
+00:05:09,750 --> 00:05:15,830
+Also, sometimes you need
+to have drugs get into the
+
+78
+00:05:15,830 --> 00:05:20,810
+nephron for it to have an
+effect. So diuretics are very
+
+79
+00:05:20,810 --> 00:05:24,090
+important because you need
+them to get into the lumen
+
+80
+00:05:24,090 --> 00:05:28,570
+for them to have their
+activity. And antibiotics,
+
+81
+00:05:28,610 --> 00:05:32,470
+you know, for any kind of
+infection, you need to get
+
+82
+00:05:32,470 --> 00:05:35,970
+urine, you need to get
+the drug into the urinary
+
+83
+00:05:35,970 --> 00:05:41,590
+compartment in order for it
+to have, be most efficacious.
+
+84
+00:05:42,330 --> 00:05:48,150
+And some of our electrolytes
+are highly absorbed, 99
+
+85
+00:05:48,150 --> 00:05:54,590
+to 100 percent are absorbed
+because of the role of
+
+86
+00:05:54,590 --> 00:05:57,510
+the kidney and what's
+happening inside the kidney.
+
+87
+00:05:58,550 --> 00:06:01,990
+Start off with one of
+the most important ones,
+
+88
+00:06:01,990 --> 00:06:05,650
+potassium. And potassium
+balance and the renal regulation
+
+89
+00:06:05,650 --> 00:06:08,610
+of potassium should be
+one of those important
+
+90
+00:06:08,610 --> 00:06:13,510
+things that as medical
+students you should familiar
+
+91
+00:06:13,510 --> 00:06:19,970
+familiarize yourself with
+um you get electrolyte panel
+
+92
+00:06:19,970 --> 00:06:23,790
+chem sevens potassium is
+always there it's very very
+
+93
+00:06:23,790 --> 00:06:27,270
+important and i would
+like you to think about it
+
+94
+00:06:27,270 --> 00:06:29,250
+one of the first things you
+want to look at is always
+
+95
+00:06:29,250 --> 00:06:35,090
+potassium with almost
+any kind of diagnosis or
+
+96
+00:06:35,090 --> 00:06:38,030
+chief complaint that comes
+in because changes in
+
+97
+00:06:38,030 --> 00:06:43,530
+potassium homeostasis can
+have such widespread effects.
+
+98
+00:06:44,370 --> 00:06:47,010
+You've seen something
+like this before, you
+
+99
+00:06:47,010 --> 00:06:50,910
+know that we have a huge,
+we have a very large
+
+100
+00:06:50,910 --> 00:06:55,030
+difference in
+intercellular versus
+
+101
+00:06:55,030 --> 00:07:00,030
+extracellular potassium. It's
+the opposite relationship
+
+102
+00:07:00,400 --> 00:07:03,070
+to that of sodium
+and chloride, right?
+
+103
+00:07:03,510 --> 00:07:07,670
+You know, we have low
+amounts of potassium outside,
+
+104
+00:07:07,690 --> 00:07:11,910
+high amounts of potassium
+inside the cell. And this
+
+105
+00:07:11,910 --> 00:07:16,130
+extracellular potassium is
+very, very tightly maintained.
+
+106
+00:07:16,130 --> 00:07:22,050
+In fact, it can be outside
+of normal range, even by
+
+107
+00:07:22,050 --> 00:07:27,530
+tenths of a millimolar,
+can be considered dangerous
+
+108
+00:07:28,540 --> 00:07:31,570
+acutely. Even chronically,
+it can lead to
+
+109
+00:07:31,570 --> 00:07:34,290
+a variety of metabolic
+disturbances. So
+
+110
+00:07:34,520 --> 00:07:38,730
+I have in these three
+tables how changes in
+
+111
+00:07:38,730 --> 00:07:44,730
+the different compartments
+can affect cell
+
+112
+00:07:44,730 --> 00:07:48,130
+function and generalized
+effects. So, for
+
+113
+00:07:48,130 --> 00:07:50,790
+example, if we decrease
+intracellular calcium,
+
+114
+00:07:51,200 --> 00:07:53,010
+cells will shrink.
+
+115
+00:07:53,590 --> 00:07:57,290
+If we increase
+intracellular potassium,
+
+116
+00:07:57,290 --> 00:07:58,850
+did I say calcium?
+I meant potassium.
+
+117
+00:07:59,130 --> 00:08:01,730
+If we increase
+intracellular potassium,
+
+118
+00:08:01,980 --> 00:08:05,030
+cells will swell. They
+can have different
+
+119
+00:08:05,030 --> 00:08:08,850
+effects on DNA protein
+synthesis and growth.
+
+120
+00:08:09,150 --> 00:08:12,350
+You have decreased
+intracellular potassium,
+
+121
+00:08:12,350 --> 00:08:17,010
+you'll get a reduction
+and a slowing of growth.
+
+122
+00:08:17,010 --> 00:08:20,890
+Increases in intercellular
+potassium, their
+
+123
+00:08:20,890 --> 00:08:25,450
+effects are not as clear,
+but definitely hypo,
+
+124
+00:08:28,750 --> 00:08:32,570
+that's actually wrong
+terminology, decreases in
+
+125
+00:08:32,570 --> 00:08:40,350
+intercellular potassium can
+cause reduction in growth. If
+
+126
+00:08:40,350 --> 00:08:44,870
+you change the ratios, it
+can have effects, but, you
+
+127
+00:08:44,870 --> 00:08:47,570
+know, but changes in
+extracellular potassium also
+
+128
+00:08:47,570 --> 00:08:52,390
+can have a wide variety of
+effects. So, for example,
+
+129
+00:08:52,670 --> 00:08:59,630
+decreasing extracellular
+potassium hypokalemia can
+
+130
+00:08:59,630 --> 00:09:05,050
+result in acidosis, it can
+cause constriction of blood
+
+131
+00:09:05,050 --> 00:09:09,510
+vessels, so you can actually
+become hypertensive.
+
+132
+00:09:10,490 --> 00:09:13,470
+Neuromuscular-wise, you
+can get muscle weakness,
+
+133
+00:09:13,470 --> 00:09:19,770
+paralysis, and if, you
+know, the decrease in muscle
+
+134
+00:09:19,770 --> 00:09:23,650
+failure, you can have
+respiratory failure and abdominal
+
+135
+00:09:23,650 --> 00:09:30,030
+distension. And, you know,
+if you've ever seen pictures
+
+136
+00:09:30,030 --> 00:09:35,030
+of children in famine zones,
+you'll always see them
+
+137
+00:09:35,030 --> 00:09:41,030
+with distended bellies, and
+part and parcel of what's
+
+138
+00:09:41,030 --> 00:09:43,810
+responsible for the distended
+bellies that one sees
+
+139
+00:09:43,810 --> 00:09:49,110
+in these children is
+the loss, is the chronic
+
+140
+00:09:49,110 --> 00:09:52,800
+hypokalemia that they're in
+because of the lack of food.
+
+141
+00:09:56,890 --> 00:09:59,530
+Hyperkalemia, increasing
+your potassium,
+
+142
+00:09:59,710 --> 00:10:04,370
+stimulates activity
+and excitability, but
+
+143
+00:10:04,370 --> 00:10:06,910
+too much of that is a
+good thing. You can,
+
+144
+00:10:07,070 --> 00:10:09,390
+too much contraction,
+too much constriction can
+
+145
+00:10:09,390 --> 00:10:12,670
+actually lead to flaccid
+paralysis. You get to a
+
+146
+00:10:12,670 --> 00:10:16,550
+point that it's firing
+off so many signals that
+
+147
+00:10:17,050 --> 00:10:19,750
+the muscles stop
+responding to it.
+
+148
+00:10:21,150 --> 00:10:25,910
+And again, very important.
+Oh, so very important in
+
+149
+00:10:25,910 --> 00:10:30,190
+cardiac activity. This is
+what can kill you acutely.
+
+150
+00:10:30,350 --> 00:10:36,130
+Changes in extracellular
+potassium have to be
+
+151
+00:10:36,130 --> 00:10:41,510
+tightly controlled and
+addressed because the
+
+152
+00:10:42,190 --> 00:10:45,870
+effects on electrophysiology
+in the heart can be
+
+153
+00:10:45,870 --> 00:10:50,210
+dramatic and again can
+cause fatal arrhythmias.
+
+154
+00:10:51,530 --> 00:10:56,090
+And in the last one,
+I have an effect,
+
+155
+00:10:56,090 --> 00:10:59,930
+the effects of
+changing the ratios,
+
+156
+00:10:59,930 --> 00:11:03,670
+either by increasing,
+for example,
+
+157
+00:11:04,750 --> 00:11:11,510
+extracellular potassium,
+that decreases the
+
+158
+00:11:11,510 --> 00:11:13,790
+ratio, right, because
+you're increasing the
+
+159
+00:11:13,790 --> 00:11:16,950
+denominator. You can
+cause depolarization and
+
+160
+00:11:16,950 --> 00:11:22,730
+hyperactivity. And if you
+increase that ratio, right,
+
+161
+00:11:22,730 --> 00:11:29,110
+you know, it's, say, by
+increasing intracellular
+
+162
+00:11:29,110 --> 00:11:31,890
+potassium, you can
+cause hyperpolarization.
+
+163
+00:11:33,650 --> 00:11:40,270
+Hyperpolarization makes
+excitable cells less able to
+
+164
+00:11:40,270 --> 00:11:44,210
+respond to a stimulus. So
+cells can't reach the threshold
+
+165
+00:11:44,210 --> 00:11:47,610
+to activate an action
+potential. And it's very
+
+166
+00:11:47,610 --> 00:11:53,210
+important in excitable cells,
+cells that respond to electrical
+
+167
+00:11:53,210 --> 00:11:56,930
+activity, or cells that
+have automaticity, that have
+
+168
+00:11:56,930 --> 00:12:00,990
+the ability to initiate
+their own action potential.
+
+169
+00:12:01,250 --> 00:12:09,710
+And increasing the ratio of
+intracellular to extracellular
+
+170
+00:12:09,710 --> 00:12:13,070
+potassium is a very good
+way to tamp that down.
+
+171
+00:12:18,340 --> 00:12:21,800
+Homeostasis is,
+
+172
+00:12:22,260 --> 00:12:26,260
+again, we get most of our
+potassium through our diet.
+
+173
+00:12:27,150 --> 00:12:30,020
+Part of it gets
+excreted as part of our
+
+174
+00:12:30,020 --> 00:12:33,300
+food, the majority
+of it gets absorbed,
+
+175
+00:12:33,570 --> 00:12:37,680
+and once absorbed, it
+gets shunted to different
+
+176
+00:12:37,680 --> 00:12:43,060
+tissues, and the rest of it
+is filtered into kidney and
+
+177
+00:12:43,060 --> 00:12:46,760
+what's left comes out of
+the urine then the lion's
+
+178
+00:12:46,760 --> 00:12:51,600
+share of potassium is it
+can be found in our muscle
+
+179
+00:12:51,600 --> 00:12:54,800
+cells skeletal muscles
+smooth muscle cardiac
+
+180
+00:12:54,800 --> 00:13:00,340
+muscle about 75 percent of
+the total amount of potassium
+
+181
+00:13:00,340 --> 00:13:03,900
+in our body is found in
+muscle cells which is
+
+182
+00:13:03,900 --> 00:13:07,280
+very very you know which which
+which becomes understandable
+
+183
+00:13:07,280 --> 00:13:12,040
+when you see it if you
+have massive amounts
+
+184
+00:13:12,040 --> 00:13:15,500
+of muscle damage you know
+if you have damage to
+
+185
+00:13:15,500 --> 00:13:20,540
+skeletal muscle if you have
+a crush injury or if in some
+
+186
+00:13:20,540 --> 00:13:23,580
+cases of rhabdomyolysis
+one of the first things
+
+187
+00:13:23,580 --> 00:13:28,380
+you want to take a look at
+is potassium you know the
+
+188
+00:13:28,380 --> 00:13:32,220
+plasma potassium levels
+and how to approach that.
+
+189
+00:13:32,420 --> 00:13:37,110
+Any kind of hemolytic
+activity also becomes
+
+190
+00:13:38,560 --> 00:13:43,060
+important in potassium
+amounts in the plasma,
+
+191
+00:13:43,060 --> 00:13:44,900
+and you put the two of
+them together, which
+
+192
+00:13:44,900 --> 00:13:49,600
+you really see in
+traumatic and injuries. You
+
+193
+00:13:49,600 --> 00:13:52,700
+can see why it becomes
+very, very important.
+
+194
+00:13:55,960 --> 00:14:02,620
+The gut plays a small role
+in potassium excretion,
+
+195
+00:14:02,760 --> 00:14:07,500
+a very small role in
+response to either adrenal
+
+196
+00:14:07,500 --> 00:14:13,300
+hormones, increases in
+potassium intake, or when
+
+197
+00:14:13,300 --> 00:14:17,200
+you have situations where
+your kidneys have lost
+
+198
+00:14:17,200 --> 00:14:19,880
+their abilities to
+excrete potassium. So in
+
+199
+00:14:19,880 --> 00:14:26,540
+people who have renal disease
+or are on their way to
+
+200
+00:14:26,540 --> 00:14:29,300
+renal failure and they
+can't excrete potassium,
+
+201
+00:14:29,480 --> 00:14:32,540
+the GI tract tries to
+pick up some of the slack.
+
+202
+00:14:32,540 --> 00:14:35,400
+It doesn't work. It
+fails because eventually
+
+203
+00:14:35,400 --> 00:14:42,560
+the ceiling for their
+effect is very limited.
+
+204
+00:14:46,120 --> 00:14:49,000
+And as we said before,
+internal potassium
+
+205
+00:14:49,000 --> 00:14:52,780
+balance is really,
+really important for
+
+206
+00:14:56,040 --> 00:15:01,290
+cell function. And you
+don't need a little to
+
+207
+00:15:02,900 --> 00:15:06,480
+cause a dramatic, you only
+need a little bit of a
+
+208
+00:15:06,480 --> 00:15:10,000
+shuttle between intracellular
+to extracellular
+
+209
+00:15:10,000 --> 00:15:14,340
+to have really large
+effects on extracellular
+
+210
+00:15:14,340 --> 00:15:17,640
+potassium. And these
+changes can have severe
+
+211
+00:15:17,640 --> 00:15:21,520
+consequences for cardiac
+and neuromuscular function.
+
+212
+00:15:23,670 --> 00:15:26,220
+So let's talk about
+the big picture. What
+
+213
+00:15:26,220 --> 00:15:31,280
+happens, you know, when
+we are faced with a large
+
+214
+00:15:31,360 --> 00:15:32,720
+potassium load.
+
+215
+00:15:32,860 --> 00:15:36,140
+And I will do the simplest,
+easiest way possible.
+
+216
+00:15:36,140 --> 00:15:41,380
+If you have eaten a lot
+of food that has potassium
+
+217
+00:15:41,380 --> 00:15:44,420
+in it, let's say you sat
+down and you know you had
+
+218
+00:15:44,420 --> 00:15:49,660
+six bananas and you washed
+it down with four glasses
+
+219
+00:15:49,660 --> 00:15:53,160
+of coconut water. Don't
+do that, that's really
+
+220
+00:15:53,160 --> 00:15:55,660
+sounds horrible, but you
+know what I'm trying to say.
+
+221
+00:15:56,360 --> 00:15:59,200
+You can see that, you
+know, and I've marked this
+
+222
+00:15:59,200 --> 00:16:02,280
+in these two graphs. Then
+you can take a look at
+
+223
+00:16:02,280 --> 00:16:06,400
+this in terms of the
+temporal sequence. The y-axis
+
+224
+00:16:06,680 --> 00:16:12,320
+or the x-axis is in
+hours, so the first bar
+
+225
+00:16:12,320 --> 00:16:17,300
+is one hour. And you
+can see that within
+
+226
+00:16:17,300 --> 00:16:24,120
+minutes, once you take a
+large plasma, you know,
+
+227
+00:16:24,120 --> 00:16:28,440
+a large potassium load
+and it gets absorbed,
+
+228
+00:16:29,000 --> 00:16:35,420
+you have a very, very initial
+high and fast increase
+
+229
+00:16:35,420 --> 00:16:39,580
+in plasma concentration.
+This happens within minutes,
+
+230
+00:16:39,670 --> 00:16:43,840
+and then it starts coming
+down. It starts coming down
+
+231
+00:16:43,840 --> 00:16:48,240
+because around the same time
+that the plasma levels go
+
+232
+00:16:48,240 --> 00:16:54,180
+up, the cells start shunting
+potassium into the cells.
+
+233
+00:16:54,400 --> 00:16:58,860
+That takes a little bit
+longer, but you maximize it at
+
+234
+00:16:59,940 --> 00:17:04,000
+after about an hour. By
+two hours you've reached a
+
+235
+00:17:04,000 --> 00:17:08,920
+maximum and then you start
+seeing the levels come down.
+
+236
+00:17:09,560 --> 00:17:15,620
+And that decrease is
+
+237
+00:17:15,620 --> 00:17:18,420
+at the same time
+that your body starts
+
+238
+00:17:18,420 --> 00:17:22,740
+getting rid of the
+extra potassium.
+
+239
+00:17:23,080 --> 00:17:26,640
+So again, the regulation
+is very, very tight. You
+
+240
+00:17:26,640 --> 00:17:35,720
+see that within two hours
+of having a high load
+
+241
+00:17:35,720 --> 00:17:39,520
+of potassium, you've almost
+decreased the increase
+
+242
+00:17:39,520 --> 00:17:42,780
+in, you've cut down on
+the increase by like
+
+243
+00:17:42,780 --> 00:17:46,360
+almost 50%, and it's down
+to a basal, almost basal
+
+244
+00:17:46,360 --> 00:17:49,740
+levels by three hours.
+So you can see that the
+
+245
+00:17:49,740 --> 00:17:54,100
+importance is to keep it
+very, very, very tight.
+
+246
+00:17:59,500 --> 00:18:06,370
+And what stimulates
+these movements, it's
+
+247
+00:18:07,480 --> 00:18:10,940
+really by most of the
+actions of different
+
+248
+00:18:10,940 --> 00:18:16,160
+hormones. A couple of the
+most important ones in
+
+249
+00:18:16,160 --> 00:18:19,280
+the direct regulation of
+physiological increases
+
+250
+00:18:19,280 --> 00:18:24,640
+of potassium are
+insulin and aldosterone.
+
+251
+00:18:25,440 --> 00:18:32,660
+And both of them will
+enhance the movement of
+
+252
+00:18:32,660 --> 00:18:37,160
+extracellular potassium to
+intercellular potassium by our
+
+253
+00:18:37,160 --> 00:18:40,660
+old friend, the sodium
+-potassium ATPase. Remember,
+
+254
+00:18:40,860 --> 00:18:46,660
+sodium-potassium ATPase
+takes three potassiums,
+
+255
+00:18:46,660 --> 00:18:49,960
+puts them inside the cell,
+translocates them inside
+
+256
+00:18:49,960 --> 00:18:54,580
+the cell, takes two moles
+of sodium, pushes them
+
+257
+00:18:54,580 --> 00:19:00,920
+outside the cell, and I'm
+sorry, the opposite. Three
+
+258
+00:19:00,920 --> 00:19:03,360
+sodiums go outside the
+cell, two potassiums go
+
+259
+00:19:03,360 --> 00:19:09,170
+inside the cell, and one
+molecule of ATPase is used.
+
+260
+00:19:09,660 --> 00:19:14,900
+Insulin, how it goes,
+how it increases is
+
+261
+00:19:14,900 --> 00:19:19,740
+after every meal, we
+get a spike in insulin,
+
+262
+00:19:19,740 --> 00:19:23,660
+not only because of the
+increase in sugars, but
+
+263
+00:19:23,660 --> 00:19:26,100
+also because of the
+increase in potassium.
+
+264
+00:19:26,120 --> 00:19:28,860
+The increase in
+potassium will depolarize
+
+265
+00:19:28,860 --> 00:19:32,000
+pancreatic beta cells,
+and the depolarization of
+
+266
+00:19:32,000 --> 00:19:35,860
+pancreatic beta cells
+stimulates insulin release.
+
+267
+00:19:36,340 --> 00:19:41,020
+Same stimulus will also
+cause depolarization of cells
+
+268
+00:19:41,020 --> 00:19:45,260
+in the adrenal glomerulosa,
+the source of aldosterone,
+
+269
+00:19:45,260 --> 00:19:49,240
+and that will stimulate
+aldosterone release.
+
+270
+00:19:49,800 --> 00:19:54,140
+Epinephrine, physiologically,
+
+271
+00:19:54,140 --> 00:19:57,240
+we don't have any epinephrine.
+
+272
+00:19:57,440 --> 00:20:02,180
+There is no change in epi
+-secretion in physiological
+
+273
+00:20:03,140 --> 00:20:07,460
+changes in potassium.
+Epinephrine is a stress hormone,
+
+274
+00:20:07,460 --> 00:20:11,440
+a product of the adrenal
+medulla. So you have it only
+
+275
+00:20:11,440 --> 00:20:17,840
+in situations where you have,
+where there is a metabolic
+
+276
+00:20:17,840 --> 00:20:21,720
+stress involved. In those
+cases, if you have a
+
+277
+00:20:21,720 --> 00:20:25,720
+pathophysiological increase
+in potassium, you get an
+
+278
+00:20:25,720 --> 00:20:30,100
+increase in epi secretion and
+this increase in epi secretion
+
+279
+00:20:30,100 --> 00:20:34,620
+will stimulate the you
+know the the translocation
+
+280
+00:20:34,780 --> 00:20:41,780
+of of potassium you know
+um stress responses if you
+
+281
+00:20:41,780 --> 00:20:43,840
+want to think of the scenario
+where they couldn't be
+
+282
+00:20:43,840 --> 00:20:47,020
+important any kind of an
+injury if you have for example
+
+283
+00:20:47,020 --> 00:20:51,660
+again a crush injury you're
+in pain your epi levels are
+
+284
+00:20:51,660 --> 00:20:55,040
+sky high and this is one of
+the ways that the body was
+
+285
+00:20:55,040 --> 00:21:00,440
+going to respond to the
+stress of an injury is by
+
+286
+00:21:00,440 --> 00:21:04,860
+making sure that potassium
+levels are tightly regulated.
+
+287
+00:21:08,240 --> 00:21:14,300
+One of the bigger
+controllers and
+
+288
+00:21:14,300 --> 00:21:18,100
+manipulators of
+potassium homeostasis
+
+289
+00:21:18,100 --> 00:21:21,940
+are states of our
+acid-base balance.
+
+290
+00:21:22,120 --> 00:21:29,340
+So what are, we'll start
+off by looking at acidosis,
+
+291
+00:21:29,340 --> 00:21:34,320
+is how can changes in
+acid-base balance in
+
+292
+00:21:34,320 --> 00:21:37,800
+the body affect internal
+potassium distribution.
+
+293
+00:21:38,380 --> 00:21:41,700
+So if you are
+undergoing acidosis,
+
+294
+00:21:41,700 --> 00:21:43,840
+and remember acidosis
+is a process.
+
+295
+00:21:44,860 --> 00:21:49,240
+So you are undergoing
+acidosis to become acidemic,
+
+296
+00:21:49,240 --> 00:21:55,120
+right? So acidemia is a
+state of high acidity. Well,
+
+297
+00:21:55,120 --> 00:22:01,820
+acidosis is the process
+that leads to high acidity.
+
+298
+00:22:01,820 --> 00:22:05,980
+Again, this is just
+language and nomenclature.
+
+299
+00:22:06,610 --> 00:22:09,500
+So we'll start off
+here. So if we have high
+
+300
+00:22:09,500 --> 00:22:16,660
+amounts of potassium,
+of protons, right?
+
+301
+00:22:17,320 --> 00:22:22,720
+High levels of protons will
+give us lower pH, right?
+
+302
+00:22:22,960 --> 00:22:27,520
+So what happens if we have
+high amounts of protons
+
+303
+00:22:27,520 --> 00:22:30,980
+in the plasma? Well, it
+does two things. First
+
+304
+00:22:30,980 --> 00:22:34,980
+two targets that it can
+act are, and we'll talk
+
+305
+00:22:34,980 --> 00:22:37,640
+about the larger storage
+of potassium in muscle
+
+306
+00:22:37,640 --> 00:22:41,140
+cells. It affects two
+different transporters.
+
+307
+00:22:41,480 --> 00:22:43,400
+It can affect
+
+308
+00:22:44,280 --> 00:22:48,160
+the sodium proton
+antiporter, and I have this
+
+309
+00:22:48,160 --> 00:22:53,680
+under A, and it can affect
+the sodium bicarbonate
+
+310
+00:22:53,960 --> 00:22:55,480
+co-transporter.
+
+311
+00:22:56,200 --> 00:22:59,100
+How does it do that?
+Well, if you have excess
+
+312
+00:22:59,100 --> 00:23:03,140
+protons, the excess
+protons will inhibit the
+
+313
+00:23:03,140 --> 00:23:12,200
+activity by actually
+causing a block for the
+
+314
+00:23:12,200 --> 00:23:15,060
+efflux of protons by
+mass action. Just by
+
+315
+00:23:15,060 --> 00:23:17,980
+having more of them in
+there, this is blocked.
+
+316
+00:23:18,580 --> 00:23:22,400
+So if the movement
+of protons out of the
+
+317
+00:23:22,400 --> 00:23:26,280
+cell is blocked by
+excess protons, and
+
+318
+00:23:26,280 --> 00:23:29,760
+it's basically holding
+the door shut. Then
+
+319
+00:23:29,760 --> 00:23:32,840
+sodium also will not
+go inside the cell.
+
+320
+00:23:33,800 --> 00:23:37,560
+What about it
+affecting bicarbonate?
+
+321
+00:23:37,560 --> 00:23:40,320
+Well, then it'll just
+bind with bicarbonate
+
+322
+00:23:40,320 --> 00:23:45,180
+to give you carbonic
+acid, H2CO3.
+
+323
+00:23:45,440 --> 00:23:49,560
+H2CO3, we'll talk about it
+in acid-base balance, is
+
+324
+00:23:49,560 --> 00:23:53,360
+a substrate and it gets
+metabolized in the plasma.
+
+325
+00:23:53,360 --> 00:23:58,980
+So if we remove this, we
+also will block the activity
+
+326
+00:23:58,980 --> 00:24:05,480
+of the co-transporter,
+so sodium will not go in.
+
+327
+00:24:06,580 --> 00:24:09,600
+Sodium doesn't go
+in, bicarb doesn't go
+
+328
+00:24:09,600 --> 00:24:13,380
+in, it blocks the
+removal of protons.
+
+329
+00:24:14,340 --> 00:24:21,640
+And this lack of
+sodium influx will give
+
+330
+00:24:21,640 --> 00:24:26,200
+us a, eventually
+cause a decrease in
+
+331
+00:24:27,740 --> 00:24:30,740
+intercellular sodium. If you
+
+332
+00:24:30,740 --> 00:24:32,660
+have low intercellular sodium,
+
+333
+00:24:32,900 --> 00:24:38,460
+the substrate for the sodium
+potassium ATPase is not
+
+334
+00:24:38,460 --> 00:24:43,660
+there, so you don't have any
+more potassium being taken
+
+335
+00:24:43,660 --> 00:24:49,060
+from outside the cell and
+taken into inside the cell.
+
+336
+00:24:49,380 --> 00:24:53,760
+So that becomes an issue.
+Another effect of the
+
+337
+00:24:53,760 --> 00:24:58,460
+increase in intracellular
+protons as a consequence
+
+338
+00:24:58,460 --> 00:25:03,400
+of the effects on the
+co-transporters and
+
+339
+00:25:03,400 --> 00:25:07,260
+the counter and the
+antiporter is it'll drive
+
+340
+00:25:07,260 --> 00:25:12,920
+off potassium of any
+protein that it's bound to.
+
+341
+00:25:13,220 --> 00:25:20,500
+And what it does, these
+proteins become protonated,
+
+342
+00:25:20,500 --> 00:25:23,740
+driving off potassium,
+and then potassium
+
+343
+00:25:23,740 --> 00:25:26,380
+will then leak out of
+the cell via potassium
+
+344
+00:25:26,380 --> 00:25:31,060
+channels. And in its last
+effect, an increase in
+
+345
+00:25:31,060 --> 00:25:34,500
+acidity, an increase in
+protons, will block this
+
+346
+00:25:34,500 --> 00:25:39,620
+sodium-potassium-2
+-chloride co-transporter
+
+347
+00:25:39,620 --> 00:25:43,120
+that is found on a variety
+of different tissues.
+
+348
+00:25:43,120 --> 00:25:50,640
+All of them, the net
+result is being severe
+
+349
+00:25:50,640 --> 00:25:54,300
+electrolyte abnormalities
+when we have
+
+350
+00:25:54,300 --> 00:26:02,500
+acidosis. So, what are
+the net effects is,
+
+351
+00:26:02,720 --> 00:26:06,280
+right? If we don't have
+sodium going in, we can't
+
+352
+00:26:06,280 --> 00:26:08,320
+have sodium going out,
+and if we don't have
+
+353
+00:26:08,320 --> 00:26:12,280
+sodium going out, we can't
+have potassium coming in.
+
+354
+00:26:12,280 --> 00:26:16,780
+put that in combination
+of this co-transporter,
+
+355
+00:26:16,780 --> 00:26:20,320
+and what you end up is
+having is hyperkalemia.
+
+356
+00:26:20,320 --> 00:26:26,380
+So acidosis becomes a
+big driver of potassium
+
+357
+00:26:26,380 --> 00:26:29,360
+imbalance by promoting
+hyperkalemia.
+
+358
+00:26:29,820 --> 00:26:32,660
+What do you think is going
+to happen in alkalosis?
+
+359
+00:26:33,440 --> 00:26:35,560
+And if we were in
+one room, I would
+
+360
+00:26:35,560 --> 00:26:37,580
+say raise your hand
+and win a cookie.
+
+361
+00:26:38,700 --> 00:26:41,360
+You're not going to win
+a cookie. The opposite of
+
+362
+00:26:41,360 --> 00:26:46,400
+this is also true. So if
+you have alkalemia, right,
+
+363
+00:26:46,560 --> 00:26:51,020
+undergoing alkalosis, this
+causes the cells to take up
+
+364
+00:26:51,020 --> 00:26:55,170
+potassium, and a consequence
+of that will be hypokalemia.
+
+365
+00:26:55,170 --> 00:26:59,370
+How does that happen?
+Well, here now we have the
+
+366
+00:26:59,370 --> 00:27:06,060
+pH going up. pH goes up,
+what's going to happen to our
+
+367
+00:27:06,960 --> 00:27:10,820
+bicarb levels that means
+they're elevated this is why
+
+368
+00:27:10,820 --> 00:27:14,840
+we look at bicarb levels
+when we have our electrolytes
+
+369
+00:27:14,840 --> 00:27:20,860
+become very very important
+if our bicarb levels are
+
+370
+00:27:20,860 --> 00:27:26,040
+elevated what's going to
+happen to what's going to
+
+371
+00:27:26,040 --> 00:27:33,380
+happen to our our antiporter.
+Well, now instead of
+
+372
+00:27:33,380 --> 00:27:37,640
+blocking, it's going to bind
+with the proton to give you
+
+373
+00:27:38,520 --> 00:27:42,180
+carbonic acid. It's
+going to keep sucking
+
+374
+00:27:42,180 --> 00:27:46,980
+out protons. More sodium
+is going to go in.
+
+375
+00:27:47,940 --> 00:27:51,740
+What is it going to do
+to the co-transporter?
+
+376
+00:27:51,740 --> 00:27:54,680
+Well, now we have a higher
+concentration outside.
+
+377
+00:27:54,680 --> 00:28:01,020
+It's going to drive
+bicarb in, and if bicarb
+
+378
+00:28:01,020 --> 00:28:04,180
+goes in, sodium goes
+in. And this is simple.
+
+379
+00:28:04,600 --> 00:28:07,700
+Once you increase
+sodium, you'll increase
+
+380
+00:28:07,700 --> 00:28:11,040
+the availability for
+sodium-potassium ATPase
+
+381
+00:28:11,120 --> 00:28:15,320
+by increasing the substrate,
+and then potassium
+
+382
+00:28:15,320 --> 00:28:21,160
+is pushed into the cell.
+So alkalosis increases
+
+383
+00:28:21,160 --> 00:28:28,800
+in bicarb can give you
+hypokalemia, right?
+
+384
+00:28:29,220 --> 00:28:38,680
+So potassium influx will
+give you hypokalemia
+
+385
+00:28:38,680 --> 00:28:45,920
+as a consequence of
+increased bicarb.
+
+386
+00:28:47,420 --> 00:28:52,320
+and this also uh this
+is a bi-directional
+
+387
+00:28:52,320 --> 00:28:55,320
+relationship right
+because uh the opposite
+
+388
+00:28:55,320 --> 00:28:58,980
+is also true so
+hypokalemia can cause
+
+389
+00:28:58,980 --> 00:29:04,020
+alkalosis and hyperkalemia
+can cause acidosis
+
+390
+00:29:08,910 --> 00:29:13,230
+so um that's the big picture
+how about at the level
+
+391
+00:29:13,230 --> 00:29:17,830
+of the nephron um so here
+are some general generalities
+
+392
+00:29:17,830 --> 00:29:22,310
+about what happens to the
+potassium in the nephron.
+
+393
+00:29:22,310 --> 00:29:26,230
+As you can see, the majority
+of it is reabsorbed from
+
+394
+00:29:26,230 --> 00:29:30,430
+a filtered load of around
+810 millimolars per day.
+
+395
+00:29:32,370 --> 00:29:36,850
+Not all of it is reabsorbed.
+
+396
+00:29:43,710 --> 00:29:48,090
+A good amount is
+secreted, depending on the
+
+397
+00:29:48,090 --> 00:29:52,470
+condition. So we have
+a small amount getting
+
+398
+00:29:52,470 --> 00:29:58,150
+excreted, more than sodium.
+So there's a little bit
+
+399
+00:29:58,150 --> 00:30:02,390
+more regulation involved
+in potassium than it
+
+400
+00:30:02,390 --> 00:30:06,830
+is sodium. So, and it's
+very, very straightforward,
+
+401
+00:30:06,830 --> 00:30:09,210
+right? If you have
+a lower normal diet,
+
+402
+00:30:09,790 --> 00:30:13,810
+kidneys can achieve this
+very easily, can maintain
+
+403
+00:30:13,810 --> 00:30:19,870
+potassium in low and normal
+diet conditions by adjusting
+
+404
+00:30:19,870 --> 00:30:23,270
+filtration and reabsorption.
+However, if you take a
+
+405
+00:30:23,270 --> 00:30:27,110
+lot of potassium, then your
+kidneys must start to get
+
+406
+00:30:27,110 --> 00:30:30,390
+rid of them. And that's
+when excretion becomes a
+
+407
+00:30:30,390 --> 00:30:36,550
+really big part of a potassium
+balance. Again, under
+
+408
+00:30:36,550 --> 00:30:41,070
+normal conditions, not so
+much, but when we have chronic
+
+409
+00:30:41,070 --> 00:30:44,870
+high intake, secretion
+becomes very, very important.
+
+410
+00:30:45,830 --> 00:30:50,290
+So the handling is a
+combination of filtration,
+
+411
+00:30:50,610 --> 00:30:53,270
+reabsorption, and secretion.
+
+412
+00:30:53,630 --> 00:30:57,930
+So where do we have these
+things occurring? Well,
+
+413
+00:30:58,400 --> 00:31:01,990
+filtration obviously occurs at
+
+414
+00:31:01,990 --> 00:31:04,490
+the level of Bowman's capsule.
+
+415
+00:31:04,630 --> 00:31:07,530
+The proximal convoluted tubule
+
+416
+00:31:08,480 --> 00:31:14,850
+absorbs around 80% of the
+filtered load of potassium.
+
+417
+00:31:14,850 --> 00:31:20,190
+A little bit of it is
+reabsorbed in the descending,
+
+418
+00:31:21,280 --> 00:31:25,530
+the thin descending loop
+of Henle. But the majority,
+
+419
+00:31:25,730 --> 00:31:30,310
+the biggest proportion
+outside of the
+
+420
+00:31:30,310 --> 00:31:33,430
+proximal convoluted
+tubule occurs at the
+
+421
+00:31:33,430 --> 00:31:36,150
+level of the gayscending
+loop of Henle.
+
+422
+00:31:36,150 --> 00:31:41,370
+Very little in the distal
+collecting tubule and
+
+423
+00:31:41,370 --> 00:31:45,230
+some in the cortical
+and medullary collecting
+
+424
+00:31:45,230 --> 00:31:49,360
+ducts but that's under
+low or normal conditions
+
+425
+00:31:50,090 --> 00:31:54,970
+but if you have normal
+high right some of the
+
+426
+00:31:55,930 --> 00:31:59,630
+extremes really no very
+little effect on the
+
+427
+00:31:59,630 --> 00:32:01,850
+proximal tubule and
+on the thin descending
+
+428
+00:32:01,850 --> 00:32:06,010
+loop tubule but uh
+you start having uh
+
+429
+00:32:06,010 --> 00:32:09,470
+secretion in the distal
+convoluted tubule and the
+
+430
+00:32:09,470 --> 00:32:14,830
+connecting tubule and
+the medullary, yeah,
+
+431
+00:32:15,250 --> 00:32:17,610
+the medullary and cortical
+collecting tubules.
+
+432
+00:32:17,610 --> 00:32:20,630
+So secretion becomes
+very important in
+
+433
+00:32:20,630 --> 00:32:25,870
+normal high as opposed to
+low normal concentration
+
+434
+00:32:25,870 --> 00:32:30,090
+of dietary intake of
+dietary potassium.
+
+435
+00:32:32,010 --> 00:32:34,970
+So let's start off at
+the top after filtration.
+
+436
+00:32:35,030 --> 00:32:40,750
+Once, you know, once the
+ultrafiltrate is made
+
+437
+00:32:40,750 --> 00:32:44,950
+in the Bowman's capsule.
+The first area that the
+
+438
+00:32:45,650 --> 00:32:48,490
+electrolytes will see
+is the proximal tubule.
+
+439
+00:32:49,230 --> 00:32:58,510
+So potassium is reabsorbed
+by two paracellular
+
+440
+00:32:58,510 --> 00:33:05,450
+mechanisms in proximal
+tubules. So the forces are
+
+441
+00:33:05,450 --> 00:33:09,470
+electrochemical and then
+straightforward chemical. The
+
+442
+00:33:09,470 --> 00:33:17,180
+electrochemical force
+is the lumen positivity,
+
+443
+00:33:17,350 --> 00:33:23,350
+the transepithelial voltage
+that one finds in the
+
+444
+00:33:23,350 --> 00:33:27,480
+change in transepithelial
+voltage one finds in the
+
+445
+00:33:28,450 --> 00:33:31,710
+proximal tubule. Initial
+parts of the proximal
+
+446
+00:33:31,710 --> 00:33:37,690
+tubule, the lumen, the urine
+is more negative compared
+
+447
+00:33:37,690 --> 00:33:41,750
+to the basolateral side,
+but that decreases as
+
+448
+00:33:41,750 --> 00:33:45,530
+more and more electrolytes
+are absorbed. So by the
+
+449
+00:33:45,530 --> 00:33:50,630
+time you get to the bottom
+of the proximal tubule,
+
+450
+00:33:50,870 --> 00:33:55,250
+and again, to the proximal
+convoluted tubule, to the
+
+451
+00:33:55,250 --> 00:34:04,090
+initial parts of the proximal
+straight tubule, you have
+
+452
+00:34:04,090 --> 00:34:09,590
+a highly positive intraluminal
+membrane potential.
+
+453
+00:34:09,590 --> 00:34:15,250
+And this electromotor force
+pushes potassium out by
+
+454
+00:34:15,250 --> 00:34:18,970
+parasite, via the paracellular
+pathways indicated here.
+
+455
+00:34:18,970 --> 00:34:22,510
+The other one is a concept
+called solvent drag, which
+
+456
+00:34:22,540 --> 00:34:28,470
+water will, that the more
+flow you have, the more it
+
+457
+00:34:28,470 --> 00:34:32,190
+just piggybacks on water,
+on the movement of water
+
+458
+00:34:32,190 --> 00:34:38,070
+through paracellular pathways.
+So this concept is called
+
+459
+00:34:38,070 --> 00:34:43,290
+solvent drag, and it's a
+big driver in diffusion of
+
+460
+00:34:43,290 --> 00:34:48,790
+solutes in trans-epithelial,
+trans-capillary exchanges.
+
+461
+00:34:52,570 --> 00:35:02,290
+So, also, another way that
+they control potassium
+
+462
+00:35:02,290 --> 00:35:08,810
+is by the actions of a
+potassium channel called the
+
+463
+00:35:08,810 --> 00:35:11,830
+renal outer medullary
+potassium channel. That's
+
+464
+00:35:11,830 --> 00:35:14,570
+where it was first
+characterized. that's why they
+
+465
+00:35:14,570 --> 00:35:18,510
+called it renal outer
+medullary potassium channel
+
+466
+00:35:18,510 --> 00:35:21,570
+since the discovery it's
+been found in a lot of
+
+467
+00:35:21,570 --> 00:35:26,570
+other places and now it's
+defined by its name inwardly
+
+468
+00:35:26,570 --> 00:35:29,550
+rectifying potassium
+channels but you see this
+
+469
+00:35:29,550 --> 00:35:32,150
+designation all the time
+so they're the same thing
+
+470
+00:35:32,150 --> 00:35:35,750
+so rom k channels that's
+much easier to say than
+
+471
+00:35:35,750 --> 00:35:40,990
+inwardly rectifying
+especially when you're wearing
+
+472
+00:35:42,830 --> 00:35:46,290
+Invisalign and you're lisping
+everything, so I'm going
+
+473
+00:35:46,290 --> 00:35:51,330
+to say ROMK. We have expression
+of ROMK on both luminal
+
+474
+00:35:51,330 --> 00:35:56,610
+and basolateral sides
+that causes the leaking of
+
+475
+00:35:56,610 --> 00:36:00,590
+potassium from the
+intracellular compartment into
+
+476
+00:36:00,590 --> 00:36:04,870
+extracellular compartment.
+There's more of them on the
+
+477
+00:36:04,870 --> 00:36:12,270
+basolateral side. So in terms
+of the quantity of the number
+
+478
+00:36:12,270 --> 00:36:15,310
+of cells here, I mean, this
+is obviously a schematic.
+
+479
+00:36:16,270 --> 00:36:18,510
+You'll have more of them,
+so you have more of a
+
+480
+00:36:18,510 --> 00:36:22,610
+flux going into the
+basolateral side. And the last
+
+481
+00:36:22,910 --> 00:36:27,870
+component of it is the
+potassium chloride co
+
+482
+00:36:27,870 --> 00:36:31,970
+-transporter that's involved
+in the efflux of potassium.
+
+483
+00:36:37,220 --> 00:36:41,160
+Most important section
+of the nephron for the
+
+484
+00:36:41,160 --> 00:36:43,100
+reabsorption of
+potassium is the thick
+
+485
+00:36:43,100 --> 00:36:50,560
+-ascending limit. And it
+does so by the sodium
+
+486
+00:36:50,560 --> 00:36:55,700
+-potassium 2-chloride
+cotransporter, the NKCC.
+
+487
+00:36:56,180 --> 00:37:00,940
+And this is a very, very
+important cotransporter in
+
+488
+00:37:00,940 --> 00:37:04,540
+the nephron. Now, what
+happens, the nephron by this
+
+489
+00:37:04,540 --> 00:37:10,260
+point is highly positive.
+The luminal side is more
+
+490
+00:37:10,260 --> 00:37:14,600
+positive compared to the
+interstitial side. This
+
+491
+00:37:14,630 --> 00:37:18,360
+electropositivity will
+push sodium and chloride
+
+492
+00:37:18,360 --> 00:37:24,660
+through parasailor pathways
+into the interstitial space.
+
+493
+00:37:24,660 --> 00:37:32,560
+Additionally, the sodium
+chloride, sodium potassium
+
+494
+00:37:32,560 --> 00:37:36,080
+to chloride co-transporter
+will take one mole
+
+495
+00:37:36,080 --> 00:37:42,300
+of sodium, one mole of
+chloride and two moles, one
+
+496
+00:37:42,300 --> 00:37:44,640
+mole of potassium and two
+moles of chloride and co
+
+497
+00:37:44,640 --> 00:37:47,920
+-transports them together
+to the inside of the cell.
+
+498
+00:37:50,130 --> 00:37:53,460
+Now, obviously, two of
+them are going down their
+
+499
+00:37:53,460 --> 00:37:56,160
+concentration gradient.
+Sodium chloride, potassium is
+
+500
+00:37:56,160 --> 00:37:58,980
+going against this
+concentration gradient. So you
+
+501
+00:37:58,980 --> 00:38:02,840
+need the electromotive
+force that's developed by
+
+502
+00:38:02,840 --> 00:38:10,820
+the sodium potassium ATPase
+to maintain the differences
+
+503
+00:38:10,820 --> 00:38:13,640
+in concentration gradient
+that are integral to
+
+504
+00:38:13,640 --> 00:38:17,840
+the use, to the functionality
+of this co-transport.
+
+505
+00:38:18,080 --> 00:38:22,800
+So once the potassium goes
+out, it'll start coming out
+
+506
+00:38:22,800 --> 00:38:27,660
+again, either on the luminal
+side or on the basolateral
+
+507
+00:38:27,660 --> 00:38:32,280
+side via the ROMK channel.
+Now what happens here is
+
+508
+00:38:32,280 --> 00:38:37,600
+the potassium that leaks
+out then just basically will
+
+509
+00:38:37,600 --> 00:38:47,300
+start getting recycled
+through the NKCC. And you can
+
+510
+00:38:47,300 --> 00:38:51,640
+see how this recycling feeds
+into the lumen positivity,
+
+511
+00:38:51,640 --> 00:38:56,760
+because the top part, if we
+don't have this recycling,
+
+512
+00:38:56,760 --> 00:39:01,260
+this is an electrically
+neutral transferring, right?
+
+513
+00:39:01,260 --> 00:39:05,760
+So there is two positives,
+two negatives, so zero
+
+514
+00:39:05,760 --> 00:39:11,490
+difference in charge. But if
+the potassium is recirculating,
+
+515
+00:39:11,490 --> 00:39:18,520
+recycling, then you have
+loss of two chlorides and
+
+516
+00:39:18,520 --> 00:39:21,960
+the loss of only one sodium,
+so you'll have more positivity
+
+517
+00:39:21,960 --> 00:39:26,100
+on the outside. So you
+can see that this system
+
+518
+00:39:26,100 --> 00:39:30,400
+kind of feeds into itself,
+promotes its own usefulness.
+
+519
+00:39:31,540 --> 00:39:35,680
+See how I actually think
+this is a really elegant
+
+520
+00:39:35,680 --> 00:39:39,920
+little system, this the
+recycling, to maintain not
+
+521
+00:39:39,920 --> 00:39:42,720
+only the appropriate
+concentration, but to use
+
+522
+00:39:42,720 --> 00:39:48,720
+them to save something
+that you need. And then the
+
+523
+00:39:48,720 --> 00:39:52,400
+other portions of potassium
+are then reabsorbed and
+
+524
+00:39:52,400 --> 00:39:57,740
+then taken back into the
+interstitium through the
+
+525
+00:39:57,740 --> 00:40:01,880
+rom-K channel on the
+basolateral side. Why is
+
+526
+00:40:01,880 --> 00:40:05,480
+this important? Well,
+because this guy is a target.
+
+527
+00:40:06,080 --> 00:40:09,100
+It's a target of the
+class of diuretics
+
+528
+00:40:09,100 --> 00:40:10,820
+we call the loop
+diuretics. They're
+
+529
+00:40:10,820 --> 00:40:13,440
+also called high
+ceiling diuretics.
+
+530
+00:40:14,380 --> 00:40:16,680
+Because once you
+disrupt it, you
+
+531
+00:40:16,680 --> 00:40:21,200
+end up losing a lot of sodium,
+
+532
+00:40:22,240 --> 00:40:25,020
+potassium, chloride,
+and along with it water.
+
+533
+00:40:25,020 --> 00:40:28,860
+So it's got to have very
+high potential for diuresis.
+
+534
+00:40:31,860 --> 00:40:34,580
+What happens in the
+collecting duct?
+
+535
+00:40:34,580 --> 00:40:37,840
+Similar, but some
+different players.
+
+536
+00:40:41,980 --> 00:40:48,540
+The collecting tubules
+got cells that are called
+
+537
+00:40:48,540 --> 00:40:50,740
+principal cells, and
+their major function
+
+538
+00:40:50,740 --> 00:40:53,940
+is the secretion of
+potassium into the lumen.
+
+539
+00:40:54,080 --> 00:40:58,260
+The other important
+transporter that
+
+540
+00:40:58,260 --> 00:41:01,660
+they have is an
+epithelial sodium channel
+
+541
+00:41:01,660 --> 00:41:06,400
+called, again by
+its initials, ENAC.
+
+542
+00:41:06,700 --> 00:41:11,180
+ENAC is found in the principal
+
+543
+00:41:11,180 --> 00:41:13,340
+cells of the collecting tubule.
+
+544
+00:41:13,560 --> 00:41:16,780
+These are, and the other
+population of cells
+
+545
+00:41:16,780 --> 00:41:20,880
+are called the intercalated
+cells. The majority
+
+546
+00:41:20,880 --> 00:41:23,020
+of the cells of the
+collecting duct are principal
+
+547
+00:41:23,020 --> 00:41:26,000
+cells, minorities around
+intercalated cells.
+
+548
+00:41:27,900 --> 00:41:31,460
+You majority of it occurs
+in principal cells.
+
+549
+00:41:31,460 --> 00:41:35,700
+So what happens here?
+Well, here, again,
+
+550
+00:41:35,960 --> 00:41:39,760
+the movement, you know,
+by the time you get here,
+
+551
+00:41:39,920 --> 00:41:47,180
+our potential is more negative.
+
+552
+00:41:48,020 --> 00:41:51,130
+So instead of pushing
+things out, it will start
+
+553
+00:41:51,130 --> 00:41:53,980
+holding on to any kind
+of a positive ion,
+
+554
+00:41:53,980 --> 00:41:59,020
+or using it sort of as
+a magnet to pull it in.
+
+555
+00:42:01,360 --> 00:42:03,940
+If you're asking me,
+well, Dr. Ascari,
+
+556
+00:42:03,940 --> 00:42:06,020
+why doesn't it do
+that to sodium?
+
+557
+00:42:06,450 --> 00:42:08,450
+I'm going to tell you
+what I tell everybody.
+
+558
+00:42:08,450 --> 00:42:10,820
+I don't know. No,
+I'm only joking.
+
+559
+00:42:11,100 --> 00:42:15,060
+The reason is that the
+concentration gradient,
+
+560
+00:42:15,640 --> 00:42:19,780
+the chemical force for
+driving sodium, the low
+
+561
+00:42:19,780 --> 00:42:24,140
+intercellular sodium
+compared to outside, is a
+
+562
+00:42:24,140 --> 00:42:27,700
+stronger driving force
+than this transepithelial
+
+563
+00:42:27,700 --> 00:42:33,840
+voltage, so you'll have more
+of a pushing action than
+
+564
+00:42:33,840 --> 00:42:36,820
+you have of holding
+anything back. However, it
+
+565
+00:42:36,820 --> 00:42:44,460
+does act as a magnet for
+potassium. In this case,
+
+566
+00:42:44,880 --> 00:42:47,520
+once you, you know,
+this is, you You know,
+
+567
+00:42:47,520 --> 00:42:50,700
+you don't really lose
+that much as you're
+
+568
+00:42:50,700 --> 00:42:56,390
+going into, you know,
+your cells become,
+
+569
+00:42:59,380 --> 00:43:01,970
+your lumen doesn't
+become positive,
+
+570
+00:43:03,060 --> 00:43:04,560
+right? It becomes
+more negative.
+
+571
+00:43:04,560 --> 00:43:10,180
+And the reason is this
+exchange is neutral, right?
+
+572
+00:43:10,180 --> 00:43:13,620
+One positive goes in, one
+positive goes out. You
+
+573
+00:43:13,620 --> 00:43:18,220
+need to have this electrical
+neutrality in order to
+
+574
+00:43:18,220 --> 00:43:25,420
+have a function of the
+efficient function of ENAC.
+
+575
+00:43:25,480 --> 00:43:26,760
+Again,
+
+576
+00:43:27,160 --> 00:43:32,000
+sodium potassium ATPase is
+important for creating the
+
+577
+00:43:32,000 --> 00:43:36,600
+environment where potassium
+can come in and then
+
+578
+00:43:36,600 --> 00:43:42,480
+recycle like it did before
+to kind of give us a constant
+
+579
+00:43:42,860 --> 00:43:47,060
+back and forth, while
+maintaining the high
+
+580
+00:43:47,060 --> 00:43:50,960
+potassium inside, so
+it can be secreted into
+
+581
+00:43:50,960 --> 00:43:55,900
+the luminal, into the
+luminal compartment.
+
+582
+00:43:58,800 --> 00:44:01,100
+In the collecting
+tubules, you'll
+
+583
+00:44:01,100 --> 00:44:02,640
+have different populations.
+
+584
+00:44:03,520 --> 00:44:07,480
+So you have
+intercalated cells, and
+
+585
+00:44:07,480 --> 00:44:10,000
+the intercalated
+cells have two types,
+
+586
+00:44:10,900 --> 00:44:14,240
+type A or alpha or type
+B beta. This is one
+
+587
+00:44:14,240 --> 00:44:15,880
+of the few times that
+they go interchangeably.
+
+588
+00:44:16,720 --> 00:44:19,780
+A lot of the times when
+you see alpha, beta, A, B
+
+589
+00:44:19,780 --> 00:44:22,180
+designations, they're very
+unique to those systems.
+
+590
+00:44:22,180 --> 00:44:24,520
+This is one of the times
+that they go back and forth.
+
+591
+00:44:26,840 --> 00:44:30,080
+So what's important here?
+Well, type A intercalated
+
+592
+00:44:30,080 --> 00:44:32,780
+cells are very, very
+important, or alpha
+
+593
+00:44:32,780 --> 00:44:36,400
+intercalated cells of a
+primary role in the secretion
+
+594
+00:44:36,400 --> 00:44:39,920
+of protons, while beta
+intercalated cells are
+
+595
+00:44:39,920 --> 00:44:44,680
+integral for the
+reabsorption of bicarbonate.
+
+596
+00:44:46,420 --> 00:44:49,720
+I have put a schematic of
+both of them. It's, you
+
+597
+00:44:49,720 --> 00:44:51,840
+can see that, you know,
+ultra structurally, they're
+
+598
+00:44:51,840 --> 00:44:53,700
+a little bit different.
+they have these huge
+
+599
+00:44:53,700 --> 00:44:56,350
+brush borders, you can see
+the distinction between
+
+600
+00:44:56,350 --> 00:44:59,500
+them under electron microscope.
+But in this context,
+
+601
+00:44:59,500 --> 00:45:02,140
+we can just look at them
+as one set of cells.
+
+602
+00:45:02,560 --> 00:45:05,260
+So the difference is where
+
+603
+00:45:05,260 --> 00:45:08,360
+these, where these
+things occur.
+
+604
+00:45:08,660 --> 00:45:15,120
+The secretion of protons
+occurs at the luminal
+
+605
+00:45:15,120 --> 00:45:21,220
+side via an HK, a
+hydrogen potassium pump.
+
+606
+00:45:21,280 --> 00:45:25,440
+There, we need the pump
+because we are pulling
+
+607
+00:45:25,440 --> 00:45:27,660
+in potassium against
+its concentration
+
+608
+00:45:27,660 --> 00:45:30,860
+gradient, and at the
+same time losing protons.
+
+609
+00:45:31,140 --> 00:45:39,640
+The X, and there is a leakage
+of protons also in this
+
+610
+00:45:39,640 --> 00:45:47,530
+context via them, via a
+ATPase, a hydrogen ATPase.
+
+611
+00:45:48,020 --> 00:45:52,680
+So two different
+molecules, two different
+
+612
+00:45:52,680 --> 00:45:56,580
+molecules using ATP,
+but one does with
+
+613
+00:45:58,260 --> 00:46:00,990
+bringing in potassium
+against its concentration
+
+614
+00:46:00,990 --> 00:46:02,850
+gradient, the other one
+is pushing potassium
+
+615
+00:46:03,420 --> 00:46:07,160
+across the plasma membrane.
+Again, the gradient
+
+616
+00:46:07,160 --> 00:46:09,810
+is built by the sodium
+-potassium ATPase.
+
+617
+00:46:09,840 --> 00:46:14,720
+In beta cells, you have
+an antiporter, a chloride
+
+618
+00:46:15,760 --> 00:46:18,720
+bicarbonate antiporter,
+and you have, of
+
+619
+00:46:18,720 --> 00:46:21,180
+course, our old friend,
+the ROMK channel. This is
+
+620
+00:46:21,180 --> 00:46:24,320
+where they first discovered
+it, right? And so
+
+621
+00:46:28,120 --> 00:46:31,160
+the reabsorption
+of potassium occurs
+
+622
+00:46:33,740 --> 00:46:38,800
+by the HK ATPase, right,
+by bringing potassium
+
+623
+00:46:38,800 --> 00:46:42,580
+in from the lumen and
+then driving potassium
+
+624
+00:46:42,580 --> 00:46:46,620
+out by its concentration
+gradient using the
+
+625
+00:46:46,620 --> 00:46:50,140
+ROM-K channel. So you
+can see that this is,
+
+626
+00:46:50,880 --> 00:46:53,460
+you know, these pathways kind
+
+627
+00:46:53,460 --> 00:46:55,480
+of will lead into each other
+
+628
+00:46:56,900 --> 00:46:59,520
+and becomes very,
+very important
+
+629
+00:46:59,520 --> 00:47:02,300
+when you have
+hypokalemic alkalosis.
+
+630
+00:47:06,220 --> 00:47:13,240
+So what else can modulate
+potassium secretion in the
+
+631
+00:47:13,240 --> 00:47:18,460
+distal circuitry system? Well,
+you can have factors that
+
+632
+00:47:18,460 --> 00:47:23,240
+are in the lumen. So big
+players are sodium and water.
+
+633
+00:47:23,240 --> 00:47:26,400
+So increases in flow rate,
+if you have increases in
+
+634
+00:47:26,400 --> 00:47:30,120
+sodium, if you have increases
+in water, you will have,
+
+635
+00:47:31,660 --> 00:47:39,160
+you will stimulate
+potassium secretion,
+
+636
+00:47:39,160 --> 00:47:41,340
+right? Because we
+have more sodium goes
+
+637
+00:47:41,340 --> 00:47:43,740
+through ENAC, potassium
+gets secreted.
+
+638
+00:47:44,480 --> 00:47:46,360
+Inhibitors look obviously if
+
+639
+00:47:46,360 --> 00:47:47,340
+you have too much potassium,
+
+640
+00:47:47,740 --> 00:47:48,300
+right?
+
+641
+00:47:50,490 --> 00:47:53,660
+So if you have too much
+potassium you're not going
+
+642
+00:47:53,660 --> 00:48:01,280
+to be needing stimulation
+or secretion right if
+
+643
+00:48:01,280 --> 00:48:04,600
+it's high in the lumen then
+you don't want any more
+
+644
+00:48:04,600 --> 00:48:11,110
+to go in diuretics are
+really a big player diuretics
+
+645
+00:48:11,110 --> 00:48:17,220
+can cause in the lumen
+luminal diuretics can
+
+646
+00:48:17,220 --> 00:48:25,260
+cause the loss of potassium
+by enhancing secretion.
+
+647
+00:48:27,580 --> 00:48:30,240
+You know, peritubular
+factors, things that are in
+
+648
+00:48:30,240 --> 00:48:35,960
+between, obviously, if you
+have high potassium inside
+
+649
+00:48:36,090 --> 00:48:39,380
+peritubular interstitial
+blood, you're going to want to
+
+650
+00:48:39,380 --> 00:48:42,620
+get rid of your potassium.
+Any kind of an intake,
+
+651
+00:48:42,620 --> 00:48:45,800
+increases in intake, increases
+in potassium by injury,
+
+652
+00:48:46,680 --> 00:48:49,440
+you know, increases in pH, all
+
+653
+00:48:49,440 --> 00:48:52,780
+of them will cause increases
+
+654
+00:48:58,000 --> 00:48:59,220
+in secretion.
+
+655
+00:49:07,310 --> 00:49:12,130
+A little bit, right, and
+then potassium secretion
+
+656
+00:49:12,130 --> 00:49:14,650
+in the collecting ducts,
+you know, occurs by
+
+657
+00:49:14,650 --> 00:49:17,530
+diffusion from the
+principal cells, and again,
+
+658
+00:49:17,530 --> 00:49:21,050
+electrical chemical
+gradient becomes important.
+
+659
+00:49:23,570 --> 00:49:26,350
+If we have an increase
+in luminal sodium.
+
+660
+00:49:26,350 --> 00:49:29,250
+This will enhance
+apical sodium entry
+
+661
+00:49:29,250 --> 00:49:32,310
+through ENAC. ENAC
+will depolarize.
+
+662
+00:49:32,640 --> 00:49:35,130
+Cells go, you know,
+sodium going in through
+
+663
+00:49:35,130 --> 00:49:39,150
+ENAC will depolarize
+the cell and it becomes
+
+664
+00:49:39,150 --> 00:49:42,370
+more positive and that
+pushes potassium out,
+
+665
+00:49:42,710 --> 00:49:45,010
+right? So this function
+will push potassium
+
+666
+00:49:45,010 --> 00:49:51,270
+out. And if you have
+something that blocks this
+
+667
+00:49:51,350 --> 00:49:58,870
+apical channel, which
+you have in a class of
+
+668
+00:49:58,870 --> 00:50:01,650
+diuretics called potassium
+-sparing diuretics,
+
+669
+00:50:01,750 --> 00:50:06,530
+ameloride triamterine,
+they will inhibit the
+
+670
+00:50:06,530 --> 00:50:11,190
+movement of sodium and
+hence the loss of potassium.
+
+671
+00:50:13,550 --> 00:50:21,830
+and there are other
+situations if you replace
+
+672
+00:50:21,830 --> 00:50:26,950
+aluminum chloride with anions
+that are not as reabsorbed
+
+673
+00:50:26,950 --> 00:50:30,570
+as readily as chloride
+are mainly toward larger
+
+674
+00:50:30,570 --> 00:50:34,510
+size right this you know
+the peritubular is not
+
+675
+00:50:34,510 --> 00:50:38,670
+a big gate these are very
+small spaces so if you
+
+676
+00:50:38,670 --> 00:50:41,830
+have larger anions they
+just will not go through.
+
+677
+00:50:42,130 --> 00:50:46,590
+So they can affect
+lumen negativity
+
+678
+00:50:46,590 --> 00:50:53,750
+and changes in
+potassium transport.
+
+679
+00:50:54,950 --> 00:50:57,870
+So now we talk a little
+bit about renin-angiotensin
+
+680
+00:50:57,870 --> 00:51:00,490
+system. I've spoken to
+about it before, but in this
+
+681
+00:51:00,490 --> 00:51:03,350
+context, we really only are
+going to talk about this
+
+682
+00:51:03,350 --> 00:51:07,630
+wing of it. I mentioned
+before, aldosterone is a major
+
+683
+00:51:07,630 --> 00:51:10,950
+part of the renin-angiotensin
+-aldosterone system.
+
+684
+00:51:10,950 --> 00:51:13,450
+It is a product of
+the renal cortex.
+
+685
+00:51:15,650 --> 00:51:21,430
+And in the renin-angiotensin
+system, it is released
+
+686
+00:51:21,430 --> 00:51:25,970
+upon stimulation by angiotensin
+II. And angiotensin 2
+
+687
+00:51:25,970 --> 00:51:33,010
+will act on its receptor,
+angiotensin AT2 receptor and
+
+688
+00:51:33,010 --> 00:51:39,070
+AT1 receptors, and stimulate
+the release of mineralocorticoid
+
+689
+00:51:39,070 --> 00:51:42,450
+receptor, which will
+enhance sodium reabsorption
+
+690
+00:51:42,450 --> 00:51:46,950
+and potassium excretion.
+It does so in principal
+
+691
+00:51:46,950 --> 00:51:52,530
+cells of the collecting
+duct, and it does that by not
+
+692
+00:51:52,530 --> 00:51:55,930
+only increasing the activity,
+but also increasing the
+
+693
+00:51:55,930 --> 00:52:02,930
+number of the sodium-potassium
+ATPase. The activity is
+
+694
+00:52:02,930 --> 00:52:08,570
+initial, so there's a
+phosphorylation event that
+
+695
+00:52:08,570 --> 00:52:11,750
+aldosterone will stimulate
+to increase its activity, and
+
+696
+00:52:11,750 --> 00:52:14,710
+then after a while, because
+it is a steroid receptor
+
+697
+00:52:14,710 --> 00:52:19,810
+and FX gene transcription,
+you start getting the creation
+
+698
+00:52:21,070 --> 00:52:23,790
+of new proteins and
+insertion of the protein into
+
+699
+00:52:23,790 --> 00:52:31,590
+the basolateral side of
+collecting of principal cells.
+
+700
+00:52:31,590 --> 00:52:34,830
+The other product
+of the adrenal
+
+701
+00:52:34,830 --> 00:52:37,410
+cortex are the glucocorticoids.
+
+702
+00:52:38,250 --> 00:52:40,670
+And glucocorticoids,
+
+703
+00:52:41,110 --> 00:52:45,790
+again, their stress,
+they get released upon to
+
+704
+00:52:45,790 --> 00:52:48,710
+maintain carbohydrate
+metabolism along with a
+
+705
+00:52:48,710 --> 00:52:51,590
+lot of other different
+physiological functions.
+
+706
+00:52:51,590 --> 00:52:56,750
+Natural and synthetic
+glucocorticoids can
+
+707
+00:52:56,750 --> 00:53:00,690
+enhance potassium excretion
+by increasing flow,
+
+708
+00:53:00,690 --> 00:53:06,890
+water, and sodium along
+the collecting tubules.
+
+709
+00:53:07,730 --> 00:53:11,230
+It does also, you know,
+not only water and
+
+710
+00:53:11,230 --> 00:53:14,550
+flow, but also
+increasing GFR. So all of
+
+711
+00:53:14,550 --> 00:53:18,090
+them will lead to
+availability of sodium in
+
+712
+00:53:18,090 --> 00:53:21,210
+water and then enhancing
+potassium loss.
+
+713
+00:53:21,390 --> 00:53:24,870
+So unphysiologically
+high glucocorticoids,
+
+714
+00:53:25,070 --> 00:53:28,510
+either when you're
+taking medication
+
+715
+00:53:28,510 --> 00:53:30,890
+for a variety of
+different conditions,
+
+716
+00:53:31,140 --> 00:53:33,060
+glucocorticoids are
+one of our big guns.
+
+717
+00:53:34,550 --> 00:53:38,930
+It acts the mineralocorticoid
+receptor. It's a
+
+718
+00:53:38,930 --> 00:53:43,660
+complex biology. I don't expect
+you to know the intricate
+
+719
+00:53:43,660 --> 00:53:46,150
+details. ****, most people
+don't even understand
+
+720
+00:53:46,150 --> 00:53:50,030
+it. but this is all you have
+to know is unphysiologically
+
+721
+00:53:50,030 --> 00:53:52,630
+high glucocorticoids
+will stimulate potassium.
+
+722
+00:53:52,630 --> 00:53:56,390
+If you want to know the
+gross details, I will
+
+723
+00:53:56,390 --> 00:54:00,990
+gladly enlighten you and
+I can sit down and show
+
+724
+00:54:00,990 --> 00:54:05,410
+you the breakdown, but you
+don't need to know it as
+
+725
+00:54:06,760 --> 00:54:10,450
+just for your own curiosity.
+I can tell you that,
+
+726
+00:54:10,450 --> 00:54:15,790
+but there's very few people
+know the gross details.
+
+727
+00:54:16,250 --> 00:54:19,270
+Alright, that was potassium.
+So the next series
+
+728
+00:54:19,270 --> 00:54:22,260
+of slides are going to
+be talking about calcium.
+
+729
+00:54:22,710 --> 00:54:25,730
+Now calcium, just as
+potassium, is incredibly
+
+730
+00:54:25,730 --> 00:54:28,610
+important in a variety
+of different enzymatic
+
+731
+00:54:29,630 --> 00:54:33,530
+pathways, and like
+potassium, its levels are
+
+732
+00:54:33,960 --> 00:54:39,390
+tightly controlled. Unlike
+potassium, the majority
+
+733
+00:54:39,390 --> 00:54:44,810
+of calcium stores in our
+body is in our bones.
+
+734
+00:54:45,250 --> 00:54:49,180
+There, it's bound to phosphate
+
+735
+00:54:50,600 --> 00:54:54,860
+in the form of hydroxyapatite.
+
+736
+00:54:55,450 --> 00:54:59,550
+And calcium and phosphate
+balance goes hand
+
+737
+00:54:59,550 --> 00:55:01,770
+in hand because the
+source is the same.
+
+738
+00:55:02,010 --> 00:55:06,340
+And we really try to
+keep the formation and
+
+739
+00:55:06,940 --> 00:55:11,470
+removal from the plasma
+into this physiological
+
+740
+00:55:11,470 --> 00:55:13,890
+process under very,
+very tight control.
+
+741
+00:55:15,070 --> 00:55:15,990
+Again,
+
+742
+00:55:16,210 --> 00:55:20,050
+we, you know, most of the
+calcium we get is through
+
+743
+00:55:20,050 --> 00:55:23,650
+our diet. We want to keep
+it tight. And what we
+
+744
+00:55:23,650 --> 00:55:26,070
+lose is basically what
+we get. The rest of it is
+
+745
+00:55:26,070 --> 00:55:29,670
+all under tight control
+where do we find calcium
+
+746
+00:55:29,670 --> 00:55:33,310
+well you can they're
+either ionized free calcium
+
+747
+00:55:33,630 --> 00:55:38,330
+it's bound to proteins
+and which proteins you
+
+748
+00:55:38,330 --> 00:55:40,750
+might ask well mostly
+it's bound to albumin
+
+749
+00:55:41,070 --> 00:55:44,790
+albumin has got a lot
+of different you know um
+
+750
+00:55:46,530 --> 00:55:49,450
+binding sites high
+affinity low affinity
+
+751
+00:55:49,450 --> 00:55:51,730
+for a number of
+different compounds
+
+752
+00:55:52,000 --> 00:55:54,870
+It's also bound to alpha
+and beta globulins,
+
+753
+00:55:54,870 --> 00:55:57,950
+and it's bound to
+clotting factors.
+
+754
+00:55:57,950 --> 00:56:04,190
+In fact, a good way for
+anti-clotting is to chelate
+
+755
+00:56:04,340 --> 00:56:09,110
+calcium, to remove calcium
+from any kind of a biological
+
+756
+00:56:09,110 --> 00:56:15,110
+media. You can see immediate
+loss of ability to clot.
+
+757
+00:56:18,150 --> 00:56:24,670
+uh so protons compete with
+calcium to to uh negative
+
+758
+00:56:24,670 --> 00:56:30,810
+sites on small proteins or
+small molecules so again the
+
+759
+00:56:30,810 --> 00:56:33,810
+rate you know in when we
+have acidosis or alkalosis
+
+760
+00:56:33,810 --> 00:56:38,570
+we can um change plasma
+potassium levels right potassium
+
+761
+00:56:38,570 --> 00:56:41,190
+levels will go up if you
+have acidosis you have too
+
+762
+00:56:41,190 --> 00:56:46,610
+much H, it'll push calcium
+off these sites into the
+
+763
+00:56:46,610 --> 00:56:50,710
+free ionized form. Alkalosis
+does the exact opposite.
+
+764
+00:56:50,870 --> 00:56:55,050
+And in fact, acute
+alkalosis, the signs and
+
+765
+00:56:55,050 --> 00:56:58,310
+symptoms are very much
+like hypocalcemia.
+
+766
+00:56:59,130 --> 00:57:02,310
+And, you know, hypercalcemia is
+
+767
+00:57:02,310 --> 00:57:04,610
+you'll get a lot of excitable,
+
+768
+00:57:04,850 --> 00:57:08,330
+hyperexcitability from cells
+that ability to be excited
+
+769
+00:57:08,330 --> 00:57:12,370
+so we're talking about
+neurons muscle cells and
+
+770
+00:57:12,370 --> 00:57:18,870
+hypercalcemia will cause a
+depression of that um i had used
+
+771
+00:57:18,870 --> 00:57:23,890
+improper terminology in
+this slide that i presented
+
+772
+00:57:24,250 --> 00:57:27,050
+to you so if you're
+looking at this and reading
+
+773
+00:57:27,050 --> 00:57:30,710
+my uh and and reading
+the lecture i apologize
+
+774
+00:57:30,710 --> 00:57:35,770
+but this is a more
+appropriate term for what I
+
+775
+00:57:35,770 --> 00:57:40,790
+was trying to convey in
+the first version of it.
+
+776
+00:57:43,910 --> 00:57:49,190
+So, two-thirds of
+filtered calcium is
+
+777
+00:57:49,190 --> 00:57:51,250
+reabsorbed in the
+proximal tubule. Remember,
+
+778
+00:57:51,250 --> 00:57:53,570
+everything is absorbed
+iso-osmotically, so
+
+779
+00:57:53,570 --> 00:57:55,630
+the concentration
+doesn't really change.
+
+780
+00:57:55,750 --> 00:57:59,350
+the majority of it is
+reabsorbed in the thick
+
+781
+00:57:59,350 --> 00:58:02,260
+ascending limb some of
+it is reabsorbed in the
+
+782
+00:58:02,260 --> 00:58:04,850
+distal collecting duct
+and the rest of it is
+
+783
+00:58:04,850 --> 00:58:08,510
+reabsorbed in in the in
+the cortical and measuring
+
+784
+00:58:08,510 --> 00:58:11,970
+collecting ducts this
+reabsorption in the
+
+785
+00:58:11,970 --> 00:58:15,530
+proximal tubule it is not
+subject to any control
+
+786
+00:58:15,570 --> 00:58:20,190
+and it occurs via paracellular
+roots remember our
+
+787
+00:58:20,190 --> 00:58:23,850
+intraluminal transmembrane
+potential is is
+
+788
+00:58:23,850 --> 00:58:29,870
+positive, and this positivity
+will push calcium through
+
+789
+00:58:29,870 --> 00:58:33,110
+paracellular drag,
+either by diffusion or by
+
+790
+00:58:33,110 --> 00:58:38,900
+solvent drag. Very much
+a non-regulated process.
+
+791
+00:58:39,700 --> 00:58:42,570
+It's got high permeability,
+whatever those
+
+792
+00:58:42,570 --> 00:58:46,010
+junctions are, they
+love, they love calcium.
+
+793
+00:58:49,630 --> 00:58:54,730
+And obviously the higher
+the sodium flow is
+
+794
+00:58:58,190 --> 00:59:01,810
+reabsorption and if you
+decrease reabsorption you
+
+795
+00:59:01,810 --> 00:59:05,370
+decrease calcium reabsorption
+and if you decrease
+
+796
+00:59:05,370 --> 00:59:07,910
+calcium reabsorption
+you'll have excess calcium
+
+797
+00:59:07,910 --> 00:59:12,070
+in your urine you'll
+get calciuria. So this
+
+798
+00:59:12,070 --> 00:59:15,550
+paracellular reabsorption
+is very much dependent on
+
+799
+00:59:15,550 --> 00:59:20,790
+water and salt. So water
+reabsorption, too much
+
+800
+00:59:20,790 --> 00:59:29,730
+water, you have calciuria,
+you have hypocalciuria,
+
+801
+00:59:29,870 --> 00:59:33,490
+you have more
+calcium reabsorption,
+
+802
+00:59:36,010 --> 00:59:37,330
+hypocalcium, right? Yeah.
+
+803
+00:59:37,570 --> 00:59:41,270
+And the opposite of that,
+if you have a salt load by
+
+804
+00:59:41,950 --> 00:59:44,550
+decreasing sodium and
+water reabsorption.
+
+805
+00:59:46,490 --> 00:59:50,230
+In the tau, in the thick
+ascending limb, where you
+
+806
+00:59:50,230 --> 00:59:55,150
+have the majority of
+calcium reabsorption, This
+
+807
+00:59:55,150 --> 00:59:59,090
+also occurs passively via
+paracellular root, and it's
+
+808
+00:59:59,090 --> 01:00:04,310
+completely dependent on
+the potassium recycling
+
+809
+01:00:04,310 --> 01:00:10,530
+that one sees in combination
+of ROM-K and the NKCC.
+
+810
+01:00:10,530 --> 01:00:15,170
+This positive lumen
+will push calcium from
+
+811
+01:00:15,170 --> 01:00:21,150
+paracellular roots into
+the substancial space.
+
+812
+01:00:21,610 --> 01:00:25,180
+The other pathway that's very
+important in this context
+
+813
+01:00:25,180 --> 01:00:28,730
+is the calcium sensing
+receptor. Calcium sensing
+
+814
+01:00:28,730 --> 01:00:32,810
+receptor is found in,
+you'll hear more about it in
+
+815
+01:00:32,810 --> 01:00:35,910
+endocrine, but once calcium
+concentration reaches a
+
+816
+01:00:35,910 --> 01:00:39,470
+certain level, it can start
+acting as an agonist on
+
+817
+01:00:39,470 --> 01:00:43,890
+this receptor, the calcium
+sensing receptor. And the
+
+818
+01:00:43,890 --> 01:00:47,570
+higher the calcium, the more
+prone it is to stimulate
+
+819
+01:00:47,570 --> 01:00:50,730
+this receptor, and And
+stimulation of this receptor
+
+820
+01:00:50,730 --> 01:01:05,890
+will cause an inhibition
+of the ROMK and NKCC. If we
+
+821
+01:01:05,890 --> 01:01:10,710
+block these two, we will
+lose the lumen positivity
+
+822
+01:01:10,820 --> 01:01:15,630
+of the nephron. and if we
+lose the lumen positivity,
+
+823
+01:01:15,690 --> 01:01:19,110
+we end up losing the impetus
+
+824
+01:01:19,110 --> 01:01:23,530
+for calcium to get reabsorbed.
+
+825
+01:01:24,670 --> 01:01:29,470
+How about in the distal
+convoluted tubules?
+
+826
+01:01:29,850 --> 01:01:31,790
+About 8 percent of the filtered
+
+827
+01:01:31,790 --> 01:01:34,590
+load of calcium is reabsorbed.
+
+828
+01:01:35,050 --> 01:01:39,170
+It's an important site
+despite the small amounts, and
+
+829
+01:01:39,170 --> 01:01:43,890
+it's not paracellular it's
+transcellular and it does so
+
+830
+01:01:43,890 --> 01:01:47,550
+by a couple of different
+transporters by three
+
+831
+01:01:47,550 --> 01:01:52,370
+transporters actually so calcium
+will enter the cell via these
+
+832
+01:01:52,370 --> 01:01:57,370
+calcium channels called trp
+v5 and v6 this is on the
+
+833
+01:01:57,370 --> 01:02:02,550
+luminal side so calcium
+will enter the cell by these
+
+834
+01:02:03,790 --> 01:02:07,170
+biluminal calcium
+channels. Once they're
+
+835
+01:02:07,170 --> 01:02:10,350
+inside the cell, they're
+either exchanged for
+
+836
+01:02:10,350 --> 01:02:16,630
+sodium by this sodium
+-calcium counter
+
+837
+01:02:16,630 --> 01:02:22,550
+transporter, which takes
+molecules of calcium.
+
+838
+01:02:23,230 --> 01:02:24,590
+It will be,
+
+839
+01:02:25,970 --> 01:02:30,930
+take calcium and exchange
+it with sodium using the
+
+840
+01:02:30,930 --> 01:02:37,150
+concentration gradient of
+sodium to drive out calcium.
+
+841
+01:02:37,150 --> 01:02:41,670
+And it'll also get pushed
+out by a calcium ATPase,
+
+842
+01:02:41,670 --> 01:02:46,050
+which takes one molecule
+of calcium and replaces
+
+843
+01:02:46,050 --> 01:02:50,750
+it with two molecules of
+protons using up one ATP.
+
+844
+01:02:52,630 --> 01:02:57,270
+So if we have low
+
+845
+01:02:57,910 --> 01:02:59,510
+extracellular calcium,
+
+846
+01:03:00,190 --> 01:03:02,030
+we won't have too much of a
+
+847
+01:03:02,030 --> 01:03:05,290
+substance, you know,
+we will have low
+
+848
+01:03:07,150 --> 01:03:10,090
+NCX activity, and then this
+
+849
+01:03:10,090 --> 01:03:13,690
+ATPase becomes
+this major pathway.
+
+850
+01:03:13,830 --> 01:03:19,220
+But the counter, the bi
+-directional exchanger
+
+851
+01:03:19,270 --> 01:03:24,370
+becomes very important
+when calcium in
+
+852
+01:03:24,370 --> 01:03:27,480
+the plant, when you
+have hypercalcemia. So,
+
+853
+01:03:28,130 --> 01:03:33,650
+normal calcium regulation,
+the calcium, the ATPase,
+
+854
+01:03:33,950 --> 01:03:37,730
+but higher amounts of
+calcium, you start getting
+
+855
+01:03:37,730 --> 01:03:42,390
+involvement of the
+bidirectional exchanger.
+
+856
+01:03:45,000 --> 01:03:49,410
+So, magnesium, a lot
+of, it's very similar
+
+857
+01:03:49,410 --> 01:03:51,350
+to calcium in terms
+of its regulation.
+
+858
+01:03:51,990 --> 01:03:58,770
+You can find a lot of it
+with bone, even though it's
+
+859
+01:03:58,770 --> 01:04:02,790
+not a component of hydroxyapatite.
+It's not chemically
+
+860
+01:04:02,790 --> 01:04:06,570
+linked to hydroxyapatite,
+but it is found in bone.
+
+861
+01:04:07,170 --> 01:04:11,350
+And a lot of the diffusible
+magnesium complexes
+
+862
+01:04:11,350 --> 01:04:16,010
+outside in the plasma
+are bound to phosphates,
+
+863
+01:04:16,750 --> 01:04:20,890
+to citrates, to
+oxalates, other anions.
+
+864
+01:04:21,290 --> 01:04:23,870
+And if whenever we have
+any kind of a disturbance
+
+865
+01:04:23,870 --> 01:04:26,390
+of magnesium metabolism,
+we really are talking about
+
+866
+01:04:26,390 --> 01:04:29,210
+abnormal loss. I can't
+think of a situation where
+
+867
+01:04:29,210 --> 01:04:31,830
+you can have hypermagnesemia,
+even though I'm
+
+868
+01:04:31,830 --> 01:04:34,010
+sure there are some, but,
+you know, I mean, oh,
+
+869
+01:04:34,010 --> 01:04:39,070
+actually, not because of
+excess intake, but mostly
+
+870
+01:04:39,070 --> 01:04:41,650
+because of renal failure. I
+can't think of a situation
+
+871
+01:04:41,650 --> 01:04:45,280
+where you can have a lot
+of excess intake unless
+
+872
+01:04:45,280 --> 01:04:48,870
+it is a toxicological
+situation. I can't think of
+
+873
+01:04:48,870 --> 01:04:54,310
+any kind of a physiological
+situation where you
+
+874
+01:04:54,310 --> 01:04:57,430
+can take a lot of magnesium.
+Again, it's got a, I
+
+875
+01:04:57,430 --> 01:05:00,220
+would imagine, but if I'm
+wrong, please correct me.
+
+876
+01:05:01,010 --> 01:05:04,250
+It's one of those things.
+A lot of the times when you
+
+877
+01:05:04,250 --> 01:05:09,230
+have loss is because
+either you have diarrhea, a
+
+878
+01:05:09,230 --> 01:05:14,820
+lot of fluid loss, you have
+lack of GI absorption or
+
+879
+01:05:15,550 --> 01:05:20,090
+diuretics or issues with the
+kidney if you have excess
+
+880
+01:05:20,090 --> 01:05:25,580
+diuresis or lack of diuresis.
+The clinical manifestations
+
+881
+01:05:25,580 --> 01:05:33,190
+are mostly neurological
+disturbances, especially,
+
+882
+01:05:33,190 --> 01:05:37,080
+again, if you have hypolevels,
+cardiac arrhythmias,
+
+883
+01:05:37,470 --> 01:05:40,370
+and increases in peripheral
+resistance. In fact,
+
+884
+01:05:41,110 --> 01:05:44,090
+magnesium is a very
+good supplement to
+
+885
+01:05:44,090 --> 01:05:47,390
+take if you have
+blood pressure issues.
+
+886
+01:05:49,870 --> 01:05:53,150
+They're not the most expensive
+things, but they promote
+
+887
+01:05:53,150 --> 01:05:56,670
+flow, and they are very,
+you know, they vasodilate,
+
+888
+01:05:56,770 --> 01:06:04,750
+and magnesium is good for
+healthy blood vessels.
+
+889
+01:06:07,750 --> 01:06:10,540
+Where do we have
+magnesium transport in the
+
+890
+01:06:10,540 --> 01:06:12,660
+nephron? Well, we have
+them in three places,
+
+891
+01:06:13,550 --> 01:06:16,310
+proximal tubule,
+the case sending
+
+892
+01:06:16,310 --> 01:06:20,210
+limb, and distal
+collecting tubule.
+
+893
+01:06:20,430 --> 01:06:21,610
+Again,
+
+894
+01:06:21,870 --> 01:06:25,070
+it's paracellular in
+the proximal tubule,
+
+895
+01:06:25,070 --> 01:06:29,250
+driven by the positivity
+of the internal
+
+896
+01:06:30,930 --> 01:06:34,230
+the luminal voltage, again, by
+
+897
+01:06:34,230 --> 01:06:36,890
+either solvent drag
+or by diffusion.
+
+898
+01:06:37,110 --> 01:06:39,610
+And like calcium, again,
+
+899
+01:06:40,270 --> 01:06:45,530
+the activity of
+potassium recycling will
+
+900
+01:06:45,530 --> 01:06:48,590
+give us the lumen
+positivity that pushes
+
+901
+01:06:48,590 --> 01:06:53,850
+magnesium into the
+interstitial compartment,
+
+902
+01:06:54,110 --> 01:06:58,570
+and then in the distal
+convoluted tubule,
+
+903
+01:06:58,570 --> 01:07:06,280
+you actually have
+mechanisms to control the
+
+904
+01:07:08,910 --> 01:07:13,170
+concentrations, mostly
+by it piggybacking
+
+905
+01:07:13,170 --> 01:07:19,120
+the same channel that
+we saw with calcium.
+
+906
+01:07:19,850 --> 01:07:24,370
+It uses TRPM, one of
+the calcium channels.
+
+907
+01:07:24,370 --> 01:07:27,530
+It'll piggyback it
+and get inside the
+
+908
+01:07:27,530 --> 01:07:34,630
+cell, and then it jumps
+on the NKCX to get
+
+909
+01:07:34,630 --> 01:07:41,290
+out of the cell into
+the basolateral side.
+
+910
+01:07:41,720 --> 01:07:47,260
+This process is
+stimulated by EGF
+
+911
+01:07:48,470 --> 01:07:52,530
+receptor, epidermal
+growth factor receptor.
+
+912
+01:07:52,790 --> 01:07:55,410
+This is an interesting
+receptor. If you've
+
+913
+01:07:55,410 --> 01:07:57,030
+ever done work with
+it, you can see it's
+
+914
+01:07:57,030 --> 01:08:00,170
+ubiquitous. It can
+interact with a variety of
+
+915
+01:08:00,170 --> 01:08:03,150
+different other receptors
+and transporters.
+
+916
+01:08:03,850 --> 01:08:07,670
+It's called EGF receptor
+because that's where they
+
+917
+01:08:07,670 --> 01:08:10,990
+first discovered it in response
+to looking for epidermal
+
+918
+01:08:10,990 --> 01:08:13,470
+growth factor. And then
+once you find more and more
+
+919
+01:08:13,470 --> 01:08:16,130
+things, you find the
+interactions. So it's just not
+
+920
+01:08:16,130 --> 01:08:21,360
+a growth factor. It's a
+major regulator of changes.
+
+921
+01:08:24,190 --> 01:08:28,270
+So what regulates
+magnesium reabsorption?
+
+922
+01:08:28,270 --> 01:08:28,790
+Well,
+
+923
+01:08:30,750 --> 01:08:33,950
+you can, as I said,
+like EGF does that. And
+
+924
+01:08:33,950 --> 01:08:36,970
+here are some of the
+factors affecting magnesium
+
+925
+01:08:36,970 --> 01:08:41,230
+reabsorption. Volume
+contraction can increase
+
+926
+01:08:41,360 --> 01:08:45,370
+magnesium reabsorption
+in the proximal tubule.
+
+927
+01:08:46,430 --> 01:08:48,650
+Obviously, volume expansion can
+
+928
+01:08:48,650 --> 01:08:51,530
+decrease magnesium
+reabsorption.
+
+929
+01:08:52,010 --> 01:08:57,550
+PTH, calcitonin, glucagon,
+metabolic alkalosis
+
+930
+01:08:57,550 --> 01:09:04,470
+promotes magnesium
+reabsorption Meanwhile,
+
+931
+01:09:04,930 --> 01:09:09,730
+loop diuretics, any kind of
+diuretics, excess calcium
+
+932
+01:09:09,730 --> 01:09:13,110
+and excess magnesium will
+cause a decrease of it because
+
+933
+01:09:13,110 --> 01:09:16,170
+you want to promote their
+loss, right? Too much more,
+
+934
+01:09:16,170 --> 01:09:18,630
+you want to get rid of it.
+And the same thing occurs
+
+935
+01:09:19,280 --> 01:09:24,110
+in distal collecting duct,
+if you want to, you know.
+
+936
+01:09:25,530 --> 01:09:30,830
+So, again, a lot of the
+mechanisms of calcium
+
+937
+01:09:31,050 --> 01:09:33,850
+is the same mechanism
+you find for magnesium.
+
+938
+01:09:35,690 --> 01:09:40,770
+Okay, and the last ion we'll
+talk about is phosphate.
+
+939
+01:09:40,910 --> 01:09:44,470
+So, phosphate is the most
+important of calcium. And
+
+940
+01:09:45,030 --> 01:09:47,690
+what makes it fun, it's
+because calcium and phosphate
+
+941
+01:09:47,690 --> 01:09:49,910
+go hand in hand in
+terms of the regulation,
+
+942
+01:09:49,910 --> 01:09:53,450
+because they're both part
+of this mongo protein
+
+943
+01:09:54,620 --> 01:09:59,510
+hydroxyapatite, which is the
+major mineral that we find in
+
+944
+01:09:59,510 --> 01:10:02,790
+bone. So you can see that
+we're constantly making
+
+945
+01:10:02,790 --> 01:10:07,370
+and resorbing bone to making
+sure that our exocelular
+
+946
+01:10:07,370 --> 01:10:12,490
+potassium concentrations
+are tightly controlled.
+
+947
+01:10:12,610 --> 01:10:15,370
+A majority of the
+phosphate we get is through
+
+948
+01:10:15,370 --> 01:10:18,610
+our diet, but we also
+excrete a lot in our food.
+
+949
+01:10:18,770 --> 01:10:20,690
+And you know where
+the phosphate is
+
+950
+01:10:20,690 --> 01:10:23,290
+in our diet, red
+meat, a lot of it.
+
+951
+01:10:23,290 --> 01:10:25,190
+And you find it in
+the form of ATP.
+
+952
+01:10:25,190 --> 01:10:27,170
+That's where we get
+most of our phosphate.
+
+953
+01:10:29,110 --> 01:10:35,670
+And again, the amount that's
+filtered and excreted is
+
+954
+01:10:35,670 --> 01:10:39,270
+the same amount that's
+absorbed, 900 milligrams per
+
+955
+01:10:39,270 --> 01:10:41,790
+day. We lose about, again,
+we want to keep this tight.
+
+956
+01:10:42,110 --> 01:10:43,110
+Um,
+
+957
+01:10:43,910 --> 01:10:45,790
+phosphates are
+higher in children,
+
+958
+01:10:45,790 --> 01:10:47,690
+and take a wild guess why.
+
+959
+01:10:47,810 --> 01:10:49,850
+Again, we're not
+doing Socratic because
+
+960
+01:10:49,850 --> 01:10:51,930
+this is Zoom, but
+because kids are growing.
+
+961
+01:10:52,290 --> 01:10:58,570
+So total levels are higher in
+
+962
+01:10:58,570 --> 01:11:00,790
+children than they
+are in adults.
+
+963
+01:11:01,850 --> 01:11:06,870
+Again, soft tissue
+phosphates are different,
+
+964
+01:11:06,870 --> 01:11:09,330
+they're more, you know,
+soft tissue phosphates are
+
+965
+01:11:09,330 --> 01:11:13,990
+basically phosphates we
+use for nucleic acids,
+
+966
+01:11:13,990 --> 01:11:18,050
+right, for phosphoproteins,
+for phospholipids.
+
+967
+01:11:18,050 --> 01:11:21,930
+So all our tissues will
+have phosphates bound to
+
+968
+01:11:21,930 --> 01:11:28,130
+other chemicals in order
+for daily activities.
+
+969
+01:11:30,390 --> 01:11:33,250
+So where do we get
+phosphate regulation?
+
+970
+01:11:33,250 --> 01:11:35,290
+This is nice and simple.
+It's probably the
+
+971
+01:11:35,290 --> 01:11:37,330
+easiest way, and
+hopefully everything was
+
+972
+01:11:37,330 --> 01:11:39,650
+as easy as this, right?
+You would say that.
+
+973
+01:11:41,050 --> 01:11:45,950
+All the phosphate reabsorption
+occurs in the proximal
+
+974
+01:11:45,950 --> 01:11:51,430
+convoluted tubule, and it
+does so by three phosphate
+
+975
+01:11:51,430 --> 01:11:55,830
+transporters, the NAP
+and the PIT. So the two
+
+976
+01:11:56,070 --> 01:12:00,830
+isoforms of the NAP, the sodium
+phosphate co-transporter.
+
+977
+01:12:00,830 --> 01:12:04,590
+It takes different molar
+values of sodium phosphate,
+
+978
+01:12:04,590 --> 01:12:08,610
+of sodium and phosphate,
+and or actually it's
+
+979
+01:12:08,610 --> 01:12:11,810
+hydrogen phosphate, you
+know, that's the major form
+
+980
+01:12:11,810 --> 01:12:18,010
+that we have in our plasma
+into the cell, and it gets
+
+981
+01:12:18,010 --> 01:12:21,550
+reabsorbed by mechanisms
+that are not very clear.
+
+982
+01:12:21,690 --> 01:12:27,630
+And any compound that
+regulates phosphate
+
+983
+01:12:27,630 --> 01:12:31,670
+and calcium will act
+on it. So vitamin D,
+
+984
+01:12:32,250 --> 01:12:37,370
+parathyroid hormone,
+glucocorticoids, all of
+
+985
+01:12:37,370 --> 01:12:44,190
+them have regulate
+phosphate reabsorption.
+
+986
+01:12:45,670 --> 01:12:49,470
+and acid-base balance
+will also have a role in
+
+987
+01:12:49,470 --> 01:12:53,010
+it because it traps
+phosphates, right? The more
+
+988
+01:12:54,290 --> 01:12:59,470
+acid you have, the more
+dihydrogen phosphate
+
+989
+01:12:59,470 --> 01:13:02,350
+and phosphoric acid,
+which will make the,
+
+990
+01:13:02,350 --> 01:13:05,370
+their ability to get
+reabsorbed different.
+
+991
+01:13:06,660 --> 01:13:09,510
+Okay, and we come to the
+end of this lecture, and
+
+992
+01:13:09,510 --> 01:13:12,870
+simple enough, you know,
+you were feeling horrible,
+
+993
+01:13:12,870 --> 01:13:17,190
+you had something that had
+high amounts of potassium,
+
+994
+01:13:18,070 --> 01:13:21,390
+cocoa water, coconut
+water is famous for that,
+
+995
+01:13:21,390 --> 01:13:23,670
+a lot of potassium,
+bananas, obviously, we
+
+996
+01:13:23,670 --> 01:13:25,870
+would always tell you,
+eat your bananas, and
+
+997
+01:13:27,110 --> 01:13:31,190
+that could treat the
+issues that you felt.
+
+998
+01:13:31,570 --> 01:13:32,550
+Okay,
+
+999
+01:13:34,130 --> 01:13:36,510
+the lecture feedback
+form, that concludes
+
+1000
+01:13:36,510 --> 01:13:38,610
+this lecture. Next
+lecture, we'll talk about
+
+1001
+01:13:38,610 --> 01:13:42,630
+some of the non
+-electrolytes, and then we
+
+1002
+01:13:42,630 --> 01:13:46,770
+finalize with acid
+base and concentration
+
+1003
+01:13:48,220 --> 01:13:50,850
+abilities of the kidney.
+All right, thank you.

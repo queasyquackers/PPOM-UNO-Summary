@@ -1,0 +1,4152 @@
+1
+00:00:07,420 --> 00:00:10,860
+Hi everyone, our
+lecture today is in
+
+2
+00:00:10,860 --> 00:00:13,640
+Arterial Blood
+Pressure Regulation.
+
+3
+00:00:15,240 --> 00:00:18,540
+For this lecture we have
+four learning objectives,
+
+4
+00:00:18,720 --> 00:00:22,980
+so we will discuss the
+short-term and the long-term
+
+5
+00:00:22,980 --> 00:00:30,160
+blood pressure regulation,
+how these two processes
+
+6
+00:00:30,320 --> 00:00:36,240
+maintain the normal levels
+of arterial blood pressure.
+
+7
+00:00:36,720 --> 00:00:40,800
+So for the short-term blood
+pressure regulation, we
+
+8
+00:00:40,800 --> 00:00:45,000
+will discuss about
+baroreceptors, chemoreceptors,
+
+9
+00:00:45,160 --> 00:00:46,340
+atrial reflex,
+
+10
+00:00:46,940 --> 00:00:50,580
+and the central nervous
+system ischemic response.
+
+11
+00:00:50,780 --> 00:00:53,940
+And for the long
+-term blood pressure
+
+12
+00:00:53,940 --> 00:00:56,200
+regulation, we
+will discuss about
+
+13
+00:00:56,330 --> 00:00:59,680
+the role of the renin
+-angiotensin system
+
+14
+00:01:00,170 --> 00:01:04,380
+in the kidneys and
+in the vasculature.
+
+15
+00:01:05,670 --> 00:01:08,660
+Also, we will discuss
+a little bit about the
+
+16
+00:01:08,660 --> 00:01:14,040
+hypovolemic shock, how
+this process can be
+
+17
+00:01:15,000 --> 00:01:18,380
+regulated by arterial
+blood pressure,
+
+18
+00:01:19,020 --> 00:01:21,820
+and we will discuss
+some clinical
+
+19
+00:01:21,820 --> 00:01:24,520
+applications of blood
+pressure regulation.
+
+20
+00:01:27,320 --> 00:01:30,180
+So here is some review
+of the definitions
+
+21
+00:01:30,180 --> 00:01:32,800
+that we already saw in
+our previous lectures.
+
+22
+00:01:32,800 --> 00:01:36,780
+So we need to just
+review that to explain
+
+23
+00:01:36,780 --> 00:01:39,660
+the mechanism of blood
+pressure regulation.
+
+24
+00:01:40,400 --> 00:01:45,300
+So stroke volume is
+the amount of the
+
+25
+00:01:45,300 --> 00:01:49,020
+blood pump by the
+heart in each beat.
+
+26
+00:01:49,420 --> 00:01:53,500
+Cardiac output is the volume
+of blood that the heart
+
+27
+00:01:53,500 --> 00:01:58,100
+pumps through the circulation
+per minute. So, cardiac
+
+28
+00:01:58,100 --> 00:02:02,660
+output is stroke volume
+multiplied by heart rate.
+
+29
+00:02:02,960 --> 00:02:07,080
+And the average number
+that we consider normal
+
+30
+00:02:07,080 --> 00:02:10,460
+is around 5 liters per
+minute for cardiac output.
+
+31
+00:02:11,760 --> 00:02:17,720
+So, we will also need
+to review this concept
+
+32
+00:02:17,720 --> 00:02:21,240
+about total peripheral
+resistance. So, when
+
+33
+00:02:21,240 --> 00:02:25,080
+you see the term systemic
+vascular resistance,
+
+34
+00:02:25,440 --> 00:02:28,360
+both means the same.
+
+35
+00:02:28,520 --> 00:02:32,220
+So, total peripheral
+resistance is equal to mean
+
+36
+00:02:32,220 --> 00:02:35,140
+arterial pressure divided
+by cardiac output.
+
+37
+00:02:35,660 --> 00:02:39,080
+And the mean arterial
+pressure is the aberration
+
+38
+00:02:39,080 --> 00:02:43,200
+arterial pressure through
+one cardiac cycle.
+
+39
+00:02:45,100 --> 00:02:50,860
+So to have an ideal tissue
+perfusion, we should have
+
+40
+00:02:50,860 --> 00:02:54,680
+a mean arterial pressure
+higher than 60 millimeters
+
+41
+00:02:54,680 --> 00:02:58,160
+of mercury. If for some
+reason this mean arterial
+
+42
+00:02:58,160 --> 00:03:03,540
+pressure drop, we will
+have a deficit in the
+
+43
+00:03:03,540 --> 00:03:07,110
+tissue perfusion and this
+is an emergency situation.
+
+44
+00:03:07,500 --> 00:03:11,560
+So here are the two
+equations that we
+
+45
+00:03:11,560 --> 00:03:15,880
+use to calculate mean
+arterial pressure.
+
+46
+00:03:16,100 --> 00:03:18,060
+Cardiac output
+
+47
+00:03:18,400 --> 00:03:22,320
+multiplied by total
+peripheral resistance and
+
+48
+00:03:22,320 --> 00:03:27,360
+also mean arterial pressure
+is equal two times the
+
+49
+00:03:27,360 --> 00:03:31,280
+diastolic plus the
+systolic divided by three.
+
+50
+00:03:33,340 --> 00:03:37,200
+So cardiac output
+is crucial for
+
+51
+00:03:37,200 --> 00:03:39,560
+the determination
+of blood pressure.
+
+52
+00:03:39,720 --> 00:03:43,540
+So the two parameters
+that will define cardiac
+
+53
+00:03:43,540 --> 00:03:48,660
+output is stroke
+volume and heart rate.
+
+54
+00:03:48,920 --> 00:03:51,240
+So let's start with heart rate.
+
+55
+00:03:51,240 --> 00:03:53,000
+Heart rate can be controlled
+
+56
+00:03:53,340 --> 00:03:56,500
+by the nervous system,
+sympathetic and
+
+57
+00:03:56,500 --> 00:04:00,960
+parasympathetic. So if we have
+activation of the sympathetic,
+
+58
+00:04:00,960 --> 00:04:03,340
+we will have one
+increase in heart rate.
+
+59
+00:04:03,500 --> 00:04:09,360
+For example, when we
+are doing some physical
+
+60
+00:04:09,360 --> 00:04:12,080
+activity, we activate
+our sympathetic
+
+61
+00:04:12,270 --> 00:04:15,420
+and that will increase
+the heart rate and
+
+62
+00:04:15,420 --> 00:04:18,760
+will result in increase
+of cardiac output.
+
+63
+00:04:22,160 --> 00:04:25,650
+If we have activation
+of the parasympathetic,
+
+64
+00:04:26,060 --> 00:04:29,220
+they will cause a decrease
+in the heart rate.
+
+65
+00:04:30,400 --> 00:04:33,660
+So another factor
+that will determine
+
+66
+00:04:33,660 --> 00:04:36,400
+cardiac output is
+the stroke volume.
+
+67
+00:04:36,730 --> 00:04:40,310
+So if we have one increase in
+
+68
+00:04:40,320 --> 00:04:42,340
+the central venous pressure,
+
+69
+00:04:42,520 --> 00:04:46,200
+that will lead to increase
+in the preload, that
+
+70
+00:04:46,200 --> 00:04:50,680
+preload and end of the
+diastolic volume means
+
+71
+00:04:50,680 --> 00:04:54,440
+the same thing, that will
+increase stroke volume.
+
+72
+00:04:56,060 --> 00:05:00,980
+Another factor that can
+change stroke volume is
+
+73
+00:05:00,990 --> 00:05:04,480
+contractility. If we have an
+increase of contractility,
+
+74
+00:05:04,480 --> 00:05:08,360
+that will cause one
+increase in stroke volume.
+
+75
+00:05:09,190 --> 00:05:12,990
+And if we have one
+increase in the afterload,
+
+76
+00:05:13,520 --> 00:05:17,140
+that will cause a decrease
+in the stroke volume.
+
+77
+00:05:18,100 --> 00:05:23,080
+So the takeaway of this
+slide is that we need to
+
+78
+00:05:23,080 --> 00:05:26,260
+remember that every
+time we have a change in
+
+79
+00:05:26,260 --> 00:05:30,220
+cardiac output that can
+happen for two reasons or
+
+80
+00:05:30,220 --> 00:05:34,320
+we have a change in
+heart rate or changing in
+
+81
+00:05:34,320 --> 00:05:38,160
+stroke volume or perhaps
+perhaps we have change
+
+82
+00:05:38,160 --> 00:05:48,360
+in both blood pressure
+is a hydraulic equation.
+
+83
+00:05:49,320 --> 00:05:53,500
+So blood pressure is
+equal cardiac output
+
+84
+00:05:53,500 --> 00:05:56,660
+multiplied by total
+peripheral resistance.
+
+85
+00:05:56,830 --> 00:06:00,000
+If I have an increase
+in cardiac output,
+
+86
+00:06:00,060 --> 00:06:02,700
+I will have an increase
+in blood pressure.
+
+87
+00:06:03,350 --> 00:06:06,930
+If we have an increase in
+total peripheral resistance,
+
+88
+00:06:07,060 --> 00:06:10,800
+we also will have an
+increase in blood pressure.
+
+89
+00:06:11,840 --> 00:06:15,580
+And if we have a decrease
+in cardiac output
+
+90
+00:06:15,580 --> 00:06:18,840
+and decrease in the total
+peripheral resistance,
+
+91
+00:06:18,840 --> 00:06:21,280
+we will have a decrease
+in blood pressure.
+
+92
+00:06:26,850 --> 00:06:29,710
+So blood pressure
+regulation is basically
+
+93
+00:06:29,710 --> 00:06:33,370
+divided in two
+regulations. We have
+
+94
+00:06:33,370 --> 00:06:37,450
+the short term and we
+have the long term.
+
+95
+00:06:38,690 --> 00:06:42,530
+So short term is when
+we need to quickly
+
+96
+00:06:42,530 --> 00:06:46,930
+regulate the blood pressure
+and the long term is
+
+97
+00:06:46,930 --> 00:06:52,450
+when since we born
+until we become a senior
+
+98
+00:06:54,290 --> 00:06:59,190
+in the long of your life
+we need to control our
+
+99
+00:06:59,190 --> 00:07:02,910
+blood pressure so this we
+call the long term and the
+
+100
+00:07:02,910 --> 00:07:06,810
+short term is when we
+have some specific events
+
+101
+00:07:06,930 --> 00:07:10,610
+that for some reason I have
+a drop in my blood pressure
+
+102
+00:07:10,610 --> 00:07:15,650
+and I need to increase
+very quick, that will
+
+103
+00:07:15,650 --> 00:07:19,230
+happen via the short-term
+blood pressure regulation.
+
+104
+00:07:21,130 --> 00:07:27,210
+I take credit here, this
+part for this cat is from
+
+105
+00:07:27,210 --> 00:07:32,550
+one of my previous students,
+Maricelli, that she was a
+
+106
+00:07:32,550 --> 00:07:41,110
+scholar in the lab and she
+used her cat to explain
+
+107
+00:07:41,110 --> 00:07:44,570
+the mechanism of short-term
+blood pressure regulation.
+
+108
+00:07:46,790 --> 00:07:50,630
+So again, we have these
+two physiologic systems
+
+109
+00:07:50,630 --> 00:07:55,130
+primarily responsible for
+blood pressure management,
+
+110
+00:07:55,130 --> 00:07:59,510
+the short-term and the long
+-term. In the short-term,
+
+111
+00:07:59,510 --> 00:08:04,550
+we have the bottle receptors
+and also the chemio
+
+112
+00:08:04,550 --> 00:08:08,590
+receptors. So these receptors
+will be activated in
+
+113
+00:08:08,590 --> 00:08:12,270
+a short term in order to
+regulate blood pressure.
+
+114
+00:08:12,890 --> 00:08:17,310
+In the other side, the
+long-term blood pressure is
+
+115
+00:08:17,310 --> 00:08:21,510
+basically regulated by the
+Renin-Agiotensin system.
+
+116
+00:08:22,750 --> 00:08:26,210
+So let's take a
+look first the short
+
+117
+00:08:26,210 --> 00:08:28,590
+-term. What do we have
+in the short-term?
+
+118
+00:08:29,570 --> 00:08:35,950
+We have these battle
+receptors, so battle receptors
+
+119
+00:08:35,950 --> 00:08:41,170
+are receptors that can
+sense changes in blood
+
+120
+00:08:41,170 --> 00:08:44,220
+pressure and also we
+have the chemoreceptors.
+
+121
+00:08:44,950 --> 00:08:49,870
+Both receptors are
+located in the aortic
+
+122
+00:08:50,190 --> 00:08:56,110
+arch and also here
+in the carotid sinus.
+
+123
+00:08:57,490 --> 00:09:01,370
+So these receptors
+they can sense when
+
+124
+00:09:01,370 --> 00:09:03,730
+we have a change in
+the blood pressure.
+
+125
+00:09:04,310 --> 00:09:08,070
+So this information
+via afferent here in
+
+126
+00:09:08,070 --> 00:09:11,610
+blue will send the message
+if the blood pressure
+
+127
+00:09:11,610 --> 00:09:16,730
+is too high or too
+low to the medulla
+
+128
+00:09:16,730 --> 00:09:23,470
+via these two nerves
+number nine number ten
+
+129
+00:09:24,140 --> 00:09:28,190
+glossopharyngeal in
+the vagus and then as a
+
+130
+00:09:28,190 --> 00:09:33,530
+response via efferent here
+in green they will activate
+
+131
+00:09:33,530 --> 00:09:38,850
+or sympathetic or
+parasympathetic that will
+
+132
+00:09:38,850 --> 00:09:42,190
+have effect in the blood
+vessels and in the heart.
+
+133
+00:09:44,290 --> 00:09:46,370
+The long-term blood pressure
+
+134
+00:09:46,370 --> 00:09:49,560
+regulation is a
+systemic regulation.
+
+135
+00:09:51,490 --> 00:09:52,570
+So,
+
+136
+00:09:53,000 --> 00:09:57,930
+in a situation that we
+have a drop in blood
+
+137
+00:09:57,930 --> 00:10:00,210
+pressure, the blood
+pressure is really low,
+
+138
+00:10:00,530 --> 00:10:04,310
+that will activate our
+kidneys to produce renin.
+
+139
+00:10:04,890 --> 00:10:08,850
+Renin is an enzyme
+that can convert
+
+140
+00:10:08,850 --> 00:10:12,390
+angiotensinogen
+in angiotensin-1.
+
+141
+00:10:12,570 --> 00:10:14,970
+So angiotensinogen is this
+
+142
+00:10:14,970 --> 00:10:17,130
+peptide produced by the liver.
+
+143
+00:10:17,330 --> 00:10:20,970
+It's always circulating
+in the circulation, in
+
+144
+00:10:20,970 --> 00:10:24,710
+the bloodstream. But in
+the presence of renin,
+
+145
+00:10:25,030 --> 00:10:30,850
+angiotensin inogen is cleaved
+and form angiotensin 1.
+
+146
+00:10:32,080 --> 00:10:34,810
+Angiotensin 1 has no effect.
+
+147
+00:10:35,190 --> 00:10:39,330
+Angiotensin 1 need be
+converted in angiotensin 2.
+
+148
+00:10:39,940 --> 00:10:45,670
+And angiotensin 2 is the
+most potent vasoconstrictor
+
+149
+00:10:45,670 --> 00:10:48,990
+that we have in
+your body. So, this
+
+150
+00:10:48,990 --> 00:10:54,010
+conversion happens via
+ACE, is the enzyme that's
+
+151
+00:10:54,010 --> 00:10:57,370
+produced by several
+tissues, but the main
+
+152
+00:10:57,370 --> 00:11:00,530
+source is the endothelial
+cells from the lungs.
+
+153
+00:11:02,790 --> 00:11:05,710
+So, once we have high levels of
+
+154
+00:11:05,710 --> 00:11:08,610
+angiotensin II in
+our circulation,
+
+155
+00:11:09,270 --> 00:11:13,010
+angiotensin II will bind
+to a specific receptor
+
+156
+00:11:13,010 --> 00:11:18,850
+we call angiotensin
+type 1 receptor, and
+
+157
+00:11:18,850 --> 00:11:21,650
+we can find this
+receptor in the majority
+
+158
+00:11:21,650 --> 00:11:24,730
+of tissues in your body,
+in the vasculature,
+
+159
+00:11:24,990 --> 00:11:28,750
+in the kidney, in
+adrenal cortex,
+
+160
+00:11:28,870 --> 00:11:30,710
+in several tissues.
+
+161
+00:11:30,930 --> 00:11:34,570
+But the main effect of
+the angiotensin II is
+
+162
+00:11:34,570 --> 00:11:38,530
+they will bind to its
+receptor in the vascular
+
+163
+00:11:38,530 --> 00:11:41,200
+smooth muscle cells and
+cause vasoconstriction.
+
+164
+00:11:42,170 --> 00:11:46,230
+Angiotensin II also activates
+the sympathetic activate
+
+165
+00:11:46,230 --> 00:11:49,630
+that also will contribute
+to vasoconstriction.
+
+166
+00:11:50,730 --> 00:11:55,610
+They will activate the
+pituitary gland to release
+
+167
+00:11:55,610 --> 00:12:01,530
+ADH. They will activate
+the adrenal cortex that
+
+168
+00:12:01,530 --> 00:12:06,690
+will produce aldosterone
+and aldosterone will
+
+169
+00:12:06,690 --> 00:12:13,050
+retain sodium and also
+angiotensin 2 can act in
+
+170
+00:12:13,050 --> 00:12:18,240
+the kidney causing water
+and sodium reabsorption.
+
+171
+00:12:18,550 --> 00:12:22,290
+All together, they will
+increase blood pressure.
+
+172
+00:12:22,430 --> 00:12:26,430
+So you can see how complex
+is the renegotiating system.
+
+173
+00:12:26,430 --> 00:12:30,490
+They can act in different
+tissues and all the
+
+174
+00:12:30,490 --> 00:12:34,290
+effects will lead to an
+increase in the blood pressure.
+
+175
+00:12:34,710 --> 00:12:41,970
+So today one of the drugs
+of choice to decrease
+
+176
+00:12:41,970 --> 00:12:45,170
+blood pressure is use
+drugs that can inhibit
+
+177
+00:12:45,170 --> 00:12:48,670
+the renin-angiotensin
+system. We have drugs
+
+178
+00:12:48,670 --> 00:12:53,250
+that, for example, will
+inhibit the ACE enzyme,
+
+179
+00:12:53,390 --> 00:12:56,470
+angiotensin-convert enzyme.
+
+180
+00:12:56,770 --> 00:13:01,210
+So these are the ACE
+inhibitors. So they will
+
+181
+00:13:01,210 --> 00:13:03,850
+inhibit the conversion
+of angiotensin 1 to
+
+182
+00:13:03,850 --> 00:13:08,730
+angiotensin 2. So you
+have less levels of this
+
+183
+00:13:08,730 --> 00:13:16,540
+potent vasoconstrictor.
+Another drug is the ARB,
+
+184
+00:13:17,330 --> 00:13:21,950
+are the drugs that will
+block the angiotensin
+
+185
+00:13:21,950 --> 00:13:27,030
+receptor. So we have a drug
+that will act here and the
+
+186
+00:13:27,030 --> 00:13:31,630
+ones that will act
+blocking, they impede that
+
+187
+00:13:31,630 --> 00:13:38,350
+angiotensin to bind to the
+angiotensin type 1 receptor.
+
+188
+00:13:39,590 --> 00:13:43,890
+So, again, based on all
+this information, today
+
+189
+00:13:43,890 --> 00:13:48,590
+exist several drugs that
+interfere in the system
+
+190
+00:13:48,590 --> 00:13:54,030
+in order to decrease
+blood pressure. So, those
+
+191
+00:13:54,030 --> 00:13:58,310
+drugs are highly used
+to control hypertension.
+
+192
+00:14:04,440 --> 00:14:07,190
+So, short-term blood
+pressure regulation,
+
+193
+00:14:07,190 --> 00:14:09,880
+they will regulate
+the diameter of the
+
+194
+00:14:09,880 --> 00:14:13,340
+vessel, heart rate
+and contractility.
+
+195
+00:14:13,980 --> 00:14:19,340
+This regulation happens in
+seconds to minutes. It's
+
+196
+00:14:19,340 --> 00:14:25,700
+very quick and occurs through
+the neural pathway. So
+
+197
+00:14:25,700 --> 00:14:28,520
+what is the key players? We
+have the bottom receptors,
+
+198
+00:14:29,060 --> 00:14:31,310
+we have the chemoreceptors,
+
+199
+00:14:31,940 --> 00:14:35,800
+we have the central
+nervous system ischemic
+
+200
+00:14:35,800 --> 00:14:40,840
+response and atrial reflex.
+All of them play a role
+
+201
+00:14:40,840 --> 00:14:43,480
+in the short-term blood
+pressure regulation.
+
+202
+00:14:45,970 --> 00:14:49,860
+So again, here we have
+the short-term blood
+
+203
+00:14:49,860 --> 00:14:54,020
+pressure regulation. Remember
+that these receptors,
+
+204
+00:15:02,980 --> 00:15:05,700
+the Let's imagine that
+they can sense that
+
+205
+00:15:05,700 --> 00:15:08,160
+the blood pressure
+is pretty high. They
+
+206
+00:15:08,160 --> 00:15:10,820
+will send this information
+to the medulla,
+
+207
+00:15:10,820 --> 00:15:13,360
+saying the blood
+pressure is pretty high.
+
+208
+00:15:13,980 --> 00:15:18,460
+And as a response
+via efferent, they
+
+209
+00:15:18,460 --> 00:15:21,520
+will activate the
+parasympathetic
+
+210
+00:15:22,600 --> 00:15:30,440
+to try to slow down heart
+rate and vasodilate, cause
+
+211
+00:15:30,440 --> 00:15:35,200
+vasodilation. together they
+will drop blood pressure.
+
+212
+00:15:35,480 --> 00:15:39,960
+Now let's think in
+another situation. If
+
+213
+00:15:39,960 --> 00:15:43,740
+you have a low blood
+pressure, these receptors
+
+214
+00:15:43,740 --> 00:15:46,700
+will sense and will
+tell to your brain,
+
+215
+00:15:46,700 --> 00:15:49,580
+listen, the blood
+pressure is pretty low.
+
+216
+00:15:50,340 --> 00:15:53,800
+What we should do?
+Well, let's activate the
+
+217
+00:15:53,800 --> 00:15:57,360
+sympathetic and the
+sympathetic will cause
+
+218
+00:15:57,360 --> 00:16:01,840
+vasoconstriction,
+increase heart rate, and
+
+219
+00:16:01,840 --> 00:16:04,380
+together they will
+increase blood pressure.
+
+220
+00:16:05,100 --> 00:16:09,700
+So here is just the
+summary of this figure.
+
+221
+00:16:10,660 --> 00:16:14,140
+What you need to
+remember is where those
+
+222
+00:16:14,840 --> 00:16:18,800
+baroreceptors and the
+chemoreceptors are located.
+
+223
+00:16:20,400 --> 00:16:26,200
+The afferent and
+efferent pathway.
+
+224
+00:16:28,830 --> 00:16:32,220
+and where they act. So
+in this figure we can
+
+225
+00:16:32,220 --> 00:16:37,140
+see that the efferent
+via sympathetic and
+
+226
+00:16:37,500 --> 00:16:40,420
+parasympathetic, they
+can act in the heart,
+
+227
+00:16:40,540 --> 00:16:43,260
+in the blood vessel,
+but also in the
+
+228
+00:16:43,260 --> 00:16:45,580
+adrenal medulla. That's
+not showing here.
+
+229
+00:16:50,910 --> 00:16:55,570
+So who never faces
+this kind of situation
+
+230
+00:16:55,570 --> 00:16:58,450
+when you realize you
+are late to go to
+
+231
+00:16:58,450 --> 00:17:01,610
+school and you jump
+quickly from your bed.
+
+232
+00:17:02,310 --> 00:17:05,090
+So again this is
+Marichelle's cat.
+
+233
+00:17:06,150 --> 00:17:10,230
+So what's happened? You
+are sleeping or your
+
+234
+00:17:10,230 --> 00:17:14,050
+alarms start ringing and
+you jump from the bed.
+
+235
+00:17:14,230 --> 00:17:16,630
+You feel like your
+heart is going
+
+236
+00:17:16,630 --> 00:17:18,970
+to jump from your mouth, right?
+
+237
+00:17:19,510 --> 00:17:25,750
+You have palpitation
+and then you stabilize.
+
+238
+00:17:25,910 --> 00:17:27,850
+So, if you are laid down
+
+239
+00:17:28,090 --> 00:17:35,290
+and you stand too quick,
+there is a drop in the blood
+
+240
+00:17:35,290 --> 00:17:38,360
+pressure that will be sensed
+by the body receptors.
+
+241
+00:17:38,710 --> 00:17:41,930
+So the body receptors
+will send this information
+
+242
+00:17:41,930 --> 00:17:47,310
+to your brain, say the
+blood pressure is low.
+
+243
+00:17:48,370 --> 00:17:50,670
+So from the medulla,
+
+244
+00:17:50,890 --> 00:17:54,290
+the efferent reflex
+will increase the
+
+245
+00:17:54,290 --> 00:17:57,730
+sympathetic activity
+and as a result,
+
+246
+00:17:58,070 --> 00:18:01,570
+they will cause
+increase of heart rate,
+
+247
+00:18:02,070 --> 00:18:04,770
+increase of stroke volume, and
+
+248
+00:18:04,770 --> 00:18:06,290
+then increase of
+blood pressure.
+
+249
+00:18:07,110 --> 00:18:10,870
+So it's very common when
+someone is laid down and wake
+
+250
+00:18:10,870 --> 00:18:14,550
+up very fast, they have
+palpitations and dizziness,
+
+251
+00:18:15,270 --> 00:18:20,190
+right? Because you need
+to wake up very slowly,
+
+252
+00:18:20,190 --> 00:18:24,170
+sit in your bed first,
+and then you stand up.
+
+253
+00:18:24,430 --> 00:18:27,870
+If you do this too quickly,
+you will activate your
+
+254
+00:18:27,870 --> 00:18:30,430
+bioreceptor reflex and
+that's why you feel this
+
+255
+00:18:30,430 --> 00:18:33,630
+palpitation and dizziness
+because the amount of
+
+256
+00:18:33,630 --> 00:18:38,270
+blood from this position
+to your brain will drop.
+
+257
+00:18:39,410 --> 00:18:42,690
+So this is the
+bioreceptor reflex.
+
+258
+00:18:46,830 --> 00:18:47,910
+So
+
+259
+00:18:53,600 --> 00:18:57,640
+these receptors that is in
+the sinus of carotid and
+
+260
+00:18:57,640 --> 00:19:01,280
+the aortic arch, they
+will sense if the blood
+
+261
+00:19:01,280 --> 00:19:06,760
+pressure is drop they will
+send this information for
+
+262
+00:19:06,760 --> 00:19:11,300
+your medulla via afferent
+and then the efferent
+
+263
+00:19:11,300 --> 00:19:17,840
+you will have activation of
+your sympathetic activity
+
+264
+00:19:17,840 --> 00:19:22,860
+that will cause
+vasoconstriction so increase of
+
+265
+00:19:22,860 --> 00:19:26,020
+systemic vascular
+resistance and will increase
+
+266
+00:19:26,020 --> 00:19:32,240
+cardiac output and that will
+increase blood pressure.
+
+267
+00:19:35,040 --> 00:19:40,540
+The specific region in
+the in the medulla that
+
+268
+00:19:40,540 --> 00:19:46,940
+regulate the blood pressure
+is the NTS nucleus tractus
+
+269
+00:19:46,940 --> 00:19:52,250
+solitarius. This is the
+specific region that
+
+270
+00:19:52,250 --> 00:19:57,100
+control blood pressure. So
+there is some researchers,
+
+271
+00:19:57,320 --> 00:20:00,800
+scientists, that they
+study the blood pressure
+
+272
+00:20:00,800 --> 00:20:04,640
+regulation in the brain
+because we know the brain
+
+273
+00:20:04,640 --> 00:20:07,880
+plays a key role in
+regulating blood pressure.
+
+274
+00:20:15,350 --> 00:20:20,390
+So this is the summary of
+the bottle receptor reflex.
+
+275
+00:20:20,430 --> 00:20:24,110
+So here is a situation where
+we have one increase of
+
+276
+00:20:24,110 --> 00:20:27,410
+blood pressure and the bottle
+receptor will sense that.
+
+277
+00:20:27,650 --> 00:20:32,010
+So as a response,
+decrease sympathetic
+
+278
+00:20:32,550 --> 00:20:35,830
+activation and increase
+the parasympathetic.
+
+279
+00:20:37,230 --> 00:20:41,110
+So in the end, you have
+a decrease in heart rate,
+
+280
+00:20:41,110 --> 00:20:43,190
+decrease cardiac output,
+
+281
+00:20:43,990 --> 00:20:47,130
+decrease peripheral
+resistance, and all together
+
+282
+00:20:47,130 --> 00:20:49,330
+they will cause decrease
+in blood pressure.
+
+283
+00:20:50,430 --> 00:20:53,350
+And in another situation,
+
+284
+00:20:53,910 --> 00:20:54,810
+when you're having
+
+285
+00:20:56,290 --> 00:21:00,470
+decrease of blood
+pressure, also this
+
+286
+00:21:00,470 --> 00:21:02,450
+will be sensed by
+the baroreceptors,
+
+287
+00:21:03,270 --> 00:21:09,610
+so they will stimulate
+the sympathetic and shut
+
+288
+00:21:09,610 --> 00:21:13,330
+down the parasympathetic
+in order to have increase
+
+289
+00:21:13,330 --> 00:21:17,410
+of heart rate,
+vasoconstriction, increase of
+
+290
+00:21:17,410 --> 00:21:20,450
+peripheral resistance,
+increase of cardiac output
+
+291
+00:21:20,450 --> 00:21:23,170
+because we have increase
+of heart rate, and
+
+292
+00:21:23,170 --> 00:21:25,970
+together they will cause
+increase in blood pressure.
+
+293
+00:21:28,210 --> 00:21:36,420
+So, how we can activate
+our baroreceptor
+
+294
+00:21:36,570 --> 00:21:40,730
+reflex without
+waking up very fast?
+
+295
+00:21:42,170 --> 00:21:45,390
+Well, you can use the
+valsalva maneuver.
+
+296
+00:21:46,490 --> 00:21:52,610
+So the valsalva maneuver
+is this forceful exhalation
+
+297
+00:21:52,610 --> 00:21:57,050
+against the closed airway.
+So you close your mouth,
+
+298
+00:21:57,050 --> 00:22:02,650
+your nose, and what you
+are going to do, you are
+
+299
+00:22:02,650 --> 00:22:06,150
+going to cause one increase
+in intrathoracic pressure.
+
+300
+00:22:07,170 --> 00:22:12,170
+So in this way, you trick
+your baroreceptor. your
+
+301
+00:22:12,170 --> 00:22:15,430
+battle receptor when you do
+the valsalva maneuver they
+
+302
+00:22:15,430 --> 00:22:21,890
+will sense that the blood
+pressure is going up so as
+
+303
+00:22:21,890 --> 00:22:27,090
+a response you will the
+battle receptor will sense
+
+304
+00:22:27,090 --> 00:22:32,030
+will send this information
+to the medulla saying oh the
+
+305
+00:22:32,030 --> 00:22:37,170
+the blood pressure it seems
+to be high so what the
+
+306
+00:22:37,170 --> 00:22:40,690
+efferent part will do.
+They will activate the
+
+307
+00:22:40,690 --> 00:22:47,630
+parasympathetic and they will
+shut down the sympathetic and
+
+308
+00:22:47,630 --> 00:22:51,310
+as a response we will have
+a decrease in heart rate.
+
+309
+00:22:52,370 --> 00:22:58,950
+So this is a maneuver
+that you can also use when
+
+310
+00:22:58,950 --> 00:23:02,410
+you have a case of a
+supraventricular tachycardia.
+
+311
+00:23:03,010 --> 00:23:08,010
+Someone come to the ER with
+tachycardia, if you ask
+
+312
+00:23:08,010 --> 00:23:11,830
+the patient to proceed
+doing the Valsalva maneuver,
+
+313
+00:23:12,220 --> 00:23:17,560
+they will be able to decrease
+their heart rate, basic
+
+314
+00:23:17,560 --> 00:23:21,690
+because they are activating
+the baroreceptor reflex.
+
+315
+00:23:27,520 --> 00:23:28,460
+So, the
+
+316
+00:23:34,850 --> 00:23:37,810
+way that we have
+to activate the
+
+317
+00:23:37,810 --> 00:23:41,990
+baroreceptors is by
+doing carotid massage.
+
+318
+00:23:42,310 --> 00:23:46,430
+So, this is also a,
+let's say, a manipulation
+
+319
+00:23:46,430 --> 00:23:48,750
+that you can see a
+lot in ER when you
+
+320
+00:23:48,750 --> 00:23:51,530
+have a patient with
+tachycardia and you need
+
+321
+00:23:51,530 --> 00:23:53,750
+to decrease the heart
+rate pretty quick,
+
+322
+00:23:53,990 --> 00:23:58,970
+you do a massage here in
+the carotid, exactly where
+
+323
+00:23:58,970 --> 00:24:02,590
+we could find the bowel
+receptors. When you do this
+
+324
+00:24:02,590 --> 00:24:06,690
+massage, you trick your
+bowel receptors. You make
+
+325
+00:24:06,690 --> 00:24:09,430
+your bowel receptors feel
+that the blood pressure is
+
+326
+00:24:09,430 --> 00:24:12,410
+going up, but it's not.
+You are doing the massage.
+
+327
+00:24:12,930 --> 00:24:17,370
+So the viral receptor will
+send this message to the
+
+328
+00:24:17,370 --> 00:24:21,670
+central nervous system,
+specifically in the NTS area.
+
+329
+00:24:22,090 --> 00:24:23,890
+And as a response,
+
+330
+00:24:24,110 --> 00:24:28,140
+the efferent will increase
+
+331
+00:24:28,150 --> 00:24:30,650
+the parasympathetic activity.
+
+332
+00:24:31,720 --> 00:24:35,070
+And that will cause
+a drop of heart rate.
+
+333
+00:24:36,710 --> 00:24:40,740
+I include here in
+this slide, it's
+
+334
+00:24:40,790 --> 00:24:44,970
+something astral but
+it's just for you read
+
+335
+00:24:45,470 --> 00:24:49,530
+when you start studying
+for your boards.
+
+336
+00:24:51,210 --> 00:24:54,770
+There is something that
+we call carotid sinus
+
+337
+00:24:54,770 --> 00:24:59,830
+hypersensitivity
+syndrome is when you can,
+
+338
+00:24:59,830 --> 00:25:07,910
+let's say, accidentally
+or hyper-stimulated
+
+339
+00:25:07,980 --> 00:25:12,070
+the baroreceptor. So that
+you can find in older
+
+340
+00:25:12,070 --> 00:25:16,450
+patients, more in male,
+not much in female,
+
+341
+00:25:16,850 --> 00:25:19,190
+patients that have
+atherosclerotic
+
+342
+00:25:19,190 --> 00:25:22,170
+disease or they have
+prior neck surgery
+
+343
+00:25:22,170 --> 00:25:26,070
+or neck irradiation
+to treat cancer.
+
+344
+00:25:27,030 --> 00:25:32,370
+So their baroreceptor
+system is hypersensitive,
+
+345
+00:25:32,530 --> 00:25:36,190
+so all the time they
+sense that there
+
+346
+00:25:36,190 --> 00:25:38,050
+is alteration in
+blood pressure.
+
+347
+00:25:38,390 --> 00:25:40,930
+So for the board exam
+
+348
+00:25:43,810 --> 00:25:46,690
+questions. You will
+see things like elderly
+
+349
+00:25:46,690 --> 00:25:49,890
+male patients
+presenting with syncope
+
+350
+00:25:52,050 --> 00:25:57,450
+episodes occurring while
+trying to put their
+
+351
+00:25:57,450 --> 00:26:00,050
+shirt or when they are
+shaving or they are
+
+352
+00:26:00,050 --> 00:26:04,090
+brushing their hair because
+they can accidentally
+
+353
+00:26:04,090 --> 00:26:08,310
+hyper-stimulate the
+viral receptors. So
+
+354
+00:26:12,900 --> 00:26:17,340
+here's the summary of
+the short-term blood
+
+355
+00:26:17,340 --> 00:26:21,980
+pressure regulation by
+the bottle receptors. So
+
+356
+00:26:21,980 --> 00:26:24,440
+you will see when you
+have increase of blood
+
+357
+00:26:24,440 --> 00:26:29,320
+pressure, what is the effect
+of the bottle receptor
+
+358
+00:26:29,320 --> 00:26:31,960
+reflex, and when you
+have decrease of blood
+
+359
+00:26:31,960 --> 00:26:38,300
+pressure, how the bottle
+receptor reflex acts.
+
+360
+00:26:40,340 --> 00:26:46,220
+So here we finalize the
+receptor reflex. The next one
+
+361
+00:26:46,220 --> 00:26:49,160
+that we are going to discuss
+is the chymio receptors.
+
+362
+00:26:50,260 --> 00:26:55,580
+The chymio receptors similar
+to the body receptors,
+
+363
+00:26:55,580 --> 00:26:59,540
+they are also located
+here in the aortic arch
+
+364
+00:26:59,540 --> 00:27:05,800
+and also in the carotid.
+Those receptors are very
+
+365
+00:27:05,800 --> 00:27:12,380
+sensitive to detect changes
+in oxygen, CO2 and pH.
+
+366
+00:27:18,820 --> 00:27:22,840
+So when they sense that
+the levels, for example,
+
+367
+00:27:22,840 --> 00:27:26,480
+of oxygen is decreasing
+the blood and there
+
+368
+00:27:26,480 --> 00:27:29,900
+is an increase of CO2
+and a decrease in pH,
+
+369
+00:27:30,280 --> 00:27:33,980
+they will send this
+information using the same
+
+370
+00:27:33,980 --> 00:27:39,960
+nerves utilized by the
+receptors, the nerve 9 and 10,
+
+371
+00:27:40,560 --> 00:27:45,700
+send this information to the
+medulla and as a response
+
+372
+00:27:45,700 --> 00:27:50,860
+we will have one increase
+in sympathetic activity
+
+373
+00:27:50,860 --> 00:27:54,080
+and that will lead to
+increase of blood pressure.
+
+374
+00:28:01,220 --> 00:28:04,340
+So here we have the two
+receptors that play a role
+
+375
+00:28:04,340 --> 00:28:07,240
+in the short-term regulation
+of blood pressure,
+
+376
+00:28:07,240 --> 00:28:13,500
+the battle receptors here
+and the chemoreceptors.
+
+377
+00:28:15,240 --> 00:28:19,220
+So the chemoreceptors
+they can sense a
+
+378
+00:28:19,220 --> 00:28:22,500
+decrease in the pH and
+oxygen and also when
+
+379
+00:28:22,500 --> 00:28:24,720
+we have an increase
+of CO2 that will
+
+380
+00:28:24,720 --> 00:28:28,040
+cause one increase in
+sympathetic activity.
+
+381
+00:28:28,680 --> 00:28:32,160
+In the body receptors
+they can sense one
+
+382
+00:28:32,160 --> 00:28:34,960
+increase in blood pressure
+and that's what they
+
+383
+00:28:34,960 --> 00:28:38,260
+are going to cause or
+they can also sense
+
+384
+00:28:38,260 --> 00:28:41,400
+a decrease in blood
+pressure and that are
+
+385
+00:28:41,400 --> 00:28:44,620
+the consequences of the
+baroreceptor reflex.
+
+386
+00:28:47,340 --> 00:28:51,440
+So the next topic that
+we are going to discuss
+
+387
+00:28:51,440 --> 00:28:56,200
+is the central nervous
+system ischemic reflex.
+
+388
+00:28:56,660 --> 00:29:00,280
+It's a reflex that also
+plays a role in the
+
+389
+00:29:00,280 --> 00:29:02,620
+short-term regulation
+of blood pressure.
+
+390
+00:29:04,140 --> 00:29:08,140
+Let's say for any
+reason you have a
+
+391
+00:29:08,140 --> 00:29:11,740
+severe drop in the
+cerebral blood flow.
+
+392
+00:29:12,790 --> 00:29:16,120
+There is no much blood
+coming to your brain,
+
+393
+00:29:16,250 --> 00:29:20,380
+or because of bleeding,
+some accident.
+
+394
+00:29:20,810 --> 00:29:23,060
+So that will cause ischemia.
+
+395
+00:29:24,610 --> 00:29:29,960
+During ischemia, we have
+an accumulation of CO2.
+
+396
+00:29:31,480 --> 00:29:36,740
+This accumulation of CO2
+will cause excitation
+
+397
+00:29:36,740 --> 00:29:40,960
+of neurons of the vasomotor
+center in the brain.
+
+398
+00:29:42,360 --> 00:29:45,000
+And as a response, we will have
+
+399
+00:29:45,000 --> 00:29:48,020
+this powerful vasoconstriction
+
+400
+00:29:49,060 --> 00:29:52,480
+that will cause an
+increase in blood pressure.
+
+401
+00:29:53,420 --> 00:29:56,640
+So every time we
+have a decrease of
+
+402
+00:29:56,640 --> 00:29:59,360
+blood flow in the
+brain, one of the
+
+403
+00:29:59,560 --> 00:30:02,520
+symptoms that we will
+see in the patient is an
+
+404
+00:30:02,520 --> 00:30:05,480
+increase in blood pressure
+because of this reflex.
+
+405
+00:30:10,650 --> 00:30:14,960
+And another reflex that
+happens and also controls
+
+406
+00:30:14,960 --> 00:30:18,550
+blood pressure regulation
+in a short term
+
+407
+00:30:18,830 --> 00:30:22,070
+is a reflex that we
+call cushion reflex.
+
+408
+00:30:22,630 --> 00:30:28,110
+In some test book you can
+also find cushion reflex
+
+409
+00:30:29,130 --> 00:30:34,570
+as a cushion
+response, is a type of
+
+410
+00:30:34,570 --> 00:30:38,090
+central nervous system
+ischemic response,
+
+411
+00:30:38,230 --> 00:30:41,970
+is a medical emergency,
+is a life-threatening.
+
+412
+00:30:42,330 --> 00:30:48,110
+So what is the possible
+causes of cushion reflex?
+
+413
+00:30:48,270 --> 00:30:51,550
+If you have any head injury,
+
+414
+00:30:52,430 --> 00:30:56,050
+some intracranial bleeding,
+
+415
+00:30:56,750 --> 00:30:59,750
+some tumors is
+growing in the brain,
+
+416
+00:30:59,930 --> 00:31:03,350
+inflammation in the
+central nervous system,
+
+417
+00:31:03,910 --> 00:31:10,230
+if you have excess of CSF
+overproduction or the mechanism
+
+418
+00:31:10,230 --> 00:31:15,870
+that the drain the CSF is
+not working well and if
+
+419
+00:31:15,870 --> 00:31:20,120
+have some metabolic variations
+for example hyponatremia
+
+420
+00:31:20,120 --> 00:31:26,670
+low levels of sodium so all
+these situations can cause
+
+421
+00:31:26,670 --> 00:31:32,930
+one increase in intracranial
+pressure if you have
+
+422
+00:31:32,930 --> 00:31:37,990
+increase of pressure in the
+brain that will constrict the
+
+423
+00:31:37,990 --> 00:31:43,150
+arteriolus and that will
+cause a decrease in cerebral
+
+424
+00:31:43,150 --> 00:31:50,150
+blood flow that's is very
+similar here to this reflex
+
+425
+00:31:50,150 --> 00:31:53,610
+when we also have a decrease
+in cerebral blood flow.
+
+426
+00:31:55,410 --> 00:31:59,350
+So that will cause
+ischemia. In ischemia we
+
+427
+00:31:59,350 --> 00:32:03,210
+know we have high levels
+of CO2 and low pH,
+
+428
+00:32:03,330 --> 00:32:05,890
+so become very acid.
+
+429
+00:32:07,730 --> 00:32:11,710
+And as a response you
+have activation of the
+
+430
+00:32:11,710 --> 00:32:15,710
+sympathetics, that will
+increase blood pressure.
+
+431
+00:32:16,870 --> 00:32:21,450
+However, when we, when you
+increase blood pressure,
+
+432
+00:32:21,450 --> 00:32:24,390
+that will be sensed by
+the viral receptors.
+
+433
+00:32:25,010 --> 00:32:29,230
+And what the viral receptors
+will do, will send this
+
+434
+00:32:29,230 --> 00:32:33,770
+information to the brain
+and say, you know now, so in
+
+435
+00:32:33,770 --> 00:32:38,030
+the beginning we have this
+decrease in cerebral blood
+
+436
+00:32:38,030 --> 00:32:41,330
+flow, but now we have an
+increase of blood pressure.
+
+437
+00:32:41,630 --> 00:32:44,390
+So, this information goes
+to the central nervous
+
+438
+00:32:44,390 --> 00:32:48,990
+system and the bowel
+receptors will activate the
+
+439
+00:32:48,990 --> 00:32:53,370
+parasympathetic and that
+will decrease heart rate.
+
+440
+00:32:53,970 --> 00:32:57,870
+So, the Cushing
+reflex triide is
+
+441
+00:32:57,870 --> 00:33:00,460
+characterized by hypertension,
+
+442
+00:33:00,910 --> 00:33:06,330
+then low heart rate and
+respiratory depression.
+
+443
+00:33:14,130 --> 00:33:17,530
+So the last system
+that we will discuss
+
+444
+00:33:17,530 --> 00:33:19,790
+that play a role in
+the short-term blood
+
+445
+00:33:19,790 --> 00:33:23,370
+pressure regulation is
+the atrial reflex that
+
+446
+00:33:23,370 --> 00:33:26,610
+is also called as a
+main bridget reflex.
+
+447
+00:33:27,590 --> 00:33:32,350
+This is a physiological
+reflex that is mediate by the
+
+448
+00:33:32,350 --> 00:33:36,730
+stretch receptors located
+in the atria of the heart.
+
+449
+00:33:38,150 --> 00:33:42,430
+So how this reflex is
+activated. Let's say you
+
+450
+00:33:42,430 --> 00:33:45,170
+have an increase in the
+venous return to the
+
+451
+00:33:47,570 --> 00:33:52,750
+heart, oops, here,
+that will cause a
+
+452
+00:33:52,750 --> 00:33:57,390
+distension of these
+receptors and as a result
+
+453
+00:33:57,390 --> 00:33:59,930
+you will have an
+increase in heart rate.
+
+454
+00:34:01,830 --> 00:34:05,490
+So if we see here this
+schematic figure, if you have
+
+455
+00:34:05,490 --> 00:34:07,890
+increase of blood volume,
+because you will have
+
+456
+00:34:07,890 --> 00:34:12,070
+increase of venous return
+to the heart that will cause
+
+457
+00:34:12,070 --> 00:34:16,610
+one activation of these
+receptors located in the
+
+458
+00:34:16,610 --> 00:34:22,270
+atrium, they sense this
+amount of blood and as a
+
+459
+00:34:22,270 --> 00:34:26,290
+result they will send this
+information to the brain and
+
+460
+00:34:26,290 --> 00:34:29,250
+the brain will activate
+the sympathetic and will
+
+461
+00:34:29,250 --> 00:34:33,750
+inhibit the parasympathetic.
+So as a result you have
+
+462
+00:34:33,750 --> 00:34:37,510
+increase of heart rate.
+So, during this mechanism,
+
+463
+00:34:37,870 --> 00:34:45,390
+your body reflex will
+say to remove this excess
+
+464
+00:34:45,390 --> 00:34:49,290
+of blood in the heart,
+let's increase heart rate.
+
+465
+00:34:55,860 --> 00:35:03,360
+And this is not much part of
+the blood pressure regulation
+
+466
+00:35:03,360 --> 00:35:05,920
+that I mentioned in the
+beginning, but I would
+
+467
+00:35:05,920 --> 00:35:12,840
+like to mention about the
+AMP, that is a peptide that
+
+468
+00:35:12,840 --> 00:35:16,040
+you will see a lot during
+the cardiovascular lectures.
+
+469
+00:35:17,100 --> 00:35:23,720
+So when you also stretch
+the atrium, let's say
+
+470
+00:35:23,720 --> 00:35:28,740
+for increase of venous
+return, you can activate
+
+471
+00:35:28,770 --> 00:35:33,040
+a specific cardiomyocytes
+in the atrium that will
+
+472
+00:35:33,040 --> 00:35:38,900
+produce this AMP, atrial
+natriuretic peptides.
+
+473
+00:35:39,320 --> 00:35:45,480
+So these peptides, they
+will activate the cyclic GMP
+
+474
+00:35:45,480 --> 00:35:54,680
+mechanism and these peptides,
+they cause vasodilation.
+
+475
+00:35:56,070 --> 00:35:59,760
+So when they cause
+vasodilation, we will
+
+476
+00:35:59,760 --> 00:36:02,340
+have a drop in total
+peripheral resistance
+
+477
+00:36:02,340 --> 00:36:04,420
+and that will drop
+blood pressure.
+
+478
+00:36:05,220 --> 00:36:09,260
+This peptide also has
+some effect in the kidney,
+
+479
+00:36:10,050 --> 00:36:15,640
+so they cause a decrease
+of sodium reabsorption,
+
+480
+00:36:16,360 --> 00:36:21,740
+they dilate the
+efferent arteriolus,
+
+481
+00:36:21,860 --> 00:36:25,700
+so all together they will
+cause a drop in blood
+
+482
+00:36:25,700 --> 00:36:31,500
+pressure. They will cause
+diuresis and this is
+
+483
+00:36:31,500 --> 00:36:34,660
+important for you to remember
+that this peptide they
+
+484
+00:36:34,660 --> 00:36:38,800
+can be released in the
+bloodstream when we have a
+
+485
+00:36:38,800 --> 00:36:44,740
+atrial stretch and this
+peptide is a vasodilator and
+
+486
+00:36:44,740 --> 00:36:48,880
+also has important
+actions in the kidney and
+
+487
+00:36:49,200 --> 00:36:53,600
+together all these effects
+will drop blood pressure.
+
+488
+00:36:56,520 --> 00:36:59,880
+So, here we have some
+review questions.
+
+489
+00:37:03,230 --> 00:37:05,440
+So when you are
+studying, it is good to
+
+490
+00:37:05,440 --> 00:37:08,380
+remember where the bowel
+receptors are located.
+
+491
+00:37:09,830 --> 00:37:12,060
+Which cranial
+nerves are involved
+
+492
+00:37:12,060 --> 00:37:14,010
+in the bowel receptor reflex?
+
+493
+00:37:14,970 --> 00:37:16,820
+So 9 and 10.
+
+494
+00:37:18,520 --> 00:37:22,880
+Which part of the medulla
+receives the afferent
+
+495
+00:37:22,880 --> 00:37:29,620
+signals involved in the
+baroreceptor reflex? The NTS.
+
+496
+00:37:30,980 --> 00:37:34,580
+Briefly describe
+baroreceptor reflex in the
+
+497
+00:37:34,580 --> 00:37:38,280
+case that we have
+hypotension. So this is one
+
+498
+00:37:38,280 --> 00:37:42,620
+case that we mentioned
+before when you are sleeping
+
+499
+00:37:42,620 --> 00:37:45,740
+or laid down and you
+stand up very quick.
+
+500
+00:37:47,000 --> 00:37:52,070
+And also explain how increase
+of blood pressure and
+
+501
+00:37:52,070 --> 00:37:55,860
+decrease in heart rate
+occurs in the cushion reflex.
+
+502
+00:37:57,680 --> 00:38:02,220
+So I have all the answers
+for these questions here.
+
+503
+00:38:03,460 --> 00:38:06,840
+So this is a review of
+the first part of our
+
+504
+00:38:06,840 --> 00:38:09,240
+lecture, so if you have
+any questions please
+
+505
+00:38:09,240 --> 00:38:13,000
+contact me later, but
+it's very straightforward.
+
+506
+00:38:18,880 --> 00:38:21,280
+Here we have one
+pretext question.
+
+507
+00:38:22,650 --> 00:38:25,220
+I will give you
+one minute to read.
+
+508
+00:38:35,060 --> 00:38:38,460
+So this question is about
+
+509
+00:38:38,710 --> 00:38:42,520
+what happens if I
+cut the vagus nerve.
+
+510
+00:38:43,240 --> 00:38:48,990
+There is some surgeries
+that do vagotomy for many
+
+511
+00:38:49,600 --> 00:38:54,860
+reasons and how that
+would affect the blood
+
+512
+00:38:54,860 --> 00:38:58,040
+pressure regulation or the
+bottle receptor reflex.
+
+513
+00:39:01,930 --> 00:39:03,840
+So here is the answer.
+
+514
+00:39:08,640 --> 00:39:13,480
+So if you go back in the in
+the slides I have showing
+
+515
+00:39:13,480 --> 00:39:16,950
+the bottle receptor, you
+can see exactly which
+
+516
+00:39:18,800 --> 00:39:24,120
+one is connected with the
+vagus, the butto-receptors
+
+517
+00:39:24,120 --> 00:39:27,700
+in the aortic arch or the
+butto-receptors in the
+
+518
+00:39:27,700 --> 00:39:32,020
+carotid. So, this is
+something is anatomic
+
+519
+00:39:32,020 --> 00:39:34,520
+acknowledgement that is very
+important for you to know.
+
+520
+00:39:35,780 --> 00:39:41,660
+So, if you have some
+damage or cut of
+
+521
+00:39:41,660 --> 00:39:46,750
+the vagus nerve,
+that would remove the
+
+522
+00:39:46,750 --> 00:39:49,420
+parasympathetic
+stimulation to the heart.
+
+523
+00:39:50,520 --> 00:39:57,400
+Therefore, with the unopposed
+sympathetic stimulation
+
+524
+00:39:57,400 --> 00:40:00,660
+in the heart, the heart
+rate would increase.
+
+525
+00:40:06,420 --> 00:40:11,820
+So until here we just
+discussed about the short
+
+526
+00:40:11,820 --> 00:40:16,860
+-term regulation of blood
+pressure. Now we will
+
+527
+00:40:16,860 --> 00:40:19,720
+discuss the long-term
+blood pressure regulation.
+
+528
+00:40:20,560 --> 00:40:24,140
+So, the long-term blood
+pressure regulation is really,
+
+529
+00:40:24,140 --> 00:40:28,140
+really important since
+the day we're born and
+
+530
+00:40:28,140 --> 00:40:33,200
+until we get old. Because
+if you don't have regulation
+
+531
+00:40:33,200 --> 00:40:37,560
+of your blood pressure,
+that will cause several
+
+532
+00:40:37,560 --> 00:40:43,020
+issues. For example, you
+can develop stroke, vision
+
+533
+00:40:43,020 --> 00:40:47,900
+problems, heart attack,
+kidney disease, heart failure,
+
+534
+00:40:48,280 --> 00:40:49,540
+sexual dysfunction.
+
+535
+00:40:50,160 --> 00:40:53,460
+So having a good control of
+
+536
+00:40:53,460 --> 00:40:55,480
+your blood pressure is crucial.
+
+537
+00:40:56,380 --> 00:41:00,420
+And the system that mainly
+control long-term blood
+
+538
+00:41:00,420 --> 00:41:03,760
+pressure regulation is the
+Renin-Ajotin-Sin system.
+
+539
+00:41:03,940 --> 00:41:06,420
+So this type of regulation they
+
+540
+00:41:06,420 --> 00:41:09,200
+take hours, day, month, years.
+
+541
+00:41:10,460 --> 00:41:16,060
+So this is a hormonal system
+that in the end we have
+
+542
+00:41:16,060 --> 00:41:19,640
+this peptide that we call
+angiotensin 2. This is the
+
+543
+00:41:19,640 --> 00:41:23,620
+most potent vasoconstrictor
+that we have in your body.
+
+544
+00:41:24,340 --> 00:41:30,020
+So when you have activation
+of this system, you will
+
+545
+00:41:30,020 --> 00:41:32,720
+have all these effects that
+we already mentioned. So
+
+546
+00:41:32,720 --> 00:41:36,660
+you will have vasoconstriction,
+sympathetic activation,
+
+547
+00:41:37,560 --> 00:41:42,060
+high levels of ADH, high
+levels of aldosterone,
+
+548
+00:41:42,440 --> 00:41:47,200
+you will affect negatively
+your kidney function,
+
+549
+00:41:47,200 --> 00:41:50,970
+so you have water and
+sodium reabsorption.
+
+550
+00:41:50,970 --> 00:41:54,580
+And all these effects
+caused by angiotensin
+
+551
+00:41:54,580 --> 00:41:58,340
+2 will lead to increasing
+blood pressure.
+
+552
+00:42:01,040 --> 00:42:02,940
+So kidney,
+
+553
+00:42:03,770 --> 00:42:08,040
+the effect of angiotensin
+2 in the kidney and in
+
+554
+00:42:08,040 --> 00:42:10,700
+the vascular smooth
+muscle that will cause
+
+555
+00:42:10,700 --> 00:42:15,100
+vasoconstriction is one of
+the main effects of the renal
+
+556
+00:42:15,100 --> 00:42:18,740
+angiotensin system that
+will lead to increase of
+
+557
+00:42:18,740 --> 00:42:22,540
+blood pressure and then
+development of hypertension.
+
+558
+00:42:25,780 --> 00:42:29,520
+So let's see the renal
+blood pressure regulation
+
+559
+00:42:29,520 --> 00:42:34,660
+that involves the just
+agglomerular apparatus. So
+
+560
+00:42:34,660 --> 00:42:41,140
+here, I will be very, I
+will simplify because you
+
+561
+00:42:41,140 --> 00:42:45,140
+will have these in details
+in renal physiology.
+
+562
+00:42:45,640 --> 00:42:51,260
+But just to focus on
+how this system plays a
+
+563
+00:42:51,260 --> 00:42:56,020
+role in control of blood
+pressure, I make this
+
+564
+00:42:56,030 --> 00:43:02,940
+relatively simple
+schematic figure to try and
+
+565
+00:43:02,940 --> 00:43:08,560
+understand how this
+system plays a role in
+
+566
+00:43:08,560 --> 00:43:12,300
+the regulation of blood
+pressure. So, let's say
+
+567
+00:43:12,300 --> 00:43:14,950
+in a situation that
+you have hypoperfusion,
+
+568
+00:43:15,840 --> 00:43:20,620
+low blood flow
+coming to the kidney,
+
+569
+00:43:21,820 --> 00:43:25,000
+mainly because the
+blood pressure drops.
+
+570
+00:43:25,980 --> 00:43:30,540
+So you have a decrease in
+renal perfusion pressure.
+
+571
+00:43:30,540 --> 00:43:32,860
+Let's imagine someone with,
+
+572
+00:43:33,580 --> 00:43:35,920
+I don't know, let's
+say it's a very hot
+
+573
+00:43:35,920 --> 00:43:41,720
+day, someone start
+to have dehydration
+
+574
+00:43:41,740 --> 00:43:44,540
+and the blood pressure
+starts to drop.
+
+575
+00:43:45,800 --> 00:43:49,080
+That can lead to a decrease in
+
+576
+00:43:49,080 --> 00:43:51,060
+the renal perfusion pressure.
+
+577
+00:43:53,500 --> 00:43:59,540
+And when you also, there
+is situation that you
+
+578
+00:43:59,540 --> 00:44:06,260
+can have hyponatremia
+drop in sodium chloride,
+
+579
+00:44:06,260 --> 00:44:10,260
+you are dehydrating, and
+that can be sensed by your
+
+580
+00:44:10,260 --> 00:44:13,560
+kidney, but in a specific
+part of the kidney.
+
+581
+00:44:13,960 --> 00:44:19,260
+So here we make a
+zoom and you can
+
+582
+00:44:19,260 --> 00:44:23,460
+see the just
+glomerular apparatus.
+
+583
+00:44:23,700 --> 00:44:27,740
+It's all this part. They
+contain the macula densa,
+
+584
+00:44:28,180 --> 00:44:33,700
+the just a glomerular or
+granular cells in the dark
+
+585
+00:44:33,700 --> 00:44:40,880
+purple and the mesangial
+cells in the light purple.
+
+586
+00:44:41,740 --> 00:44:44,240
+Also you have here the afferent
+
+587
+00:44:44,240 --> 00:44:48,100
+arteriola and the
+efferent arteriola.
+
+588
+00:44:48,320 --> 00:44:53,760
+Inside of the afferent
+arteriola we have a bottle
+
+589
+00:44:53,760 --> 00:44:58,560
+receptors. So if we have a
+drop in the renal perfusion,
+
+590
+00:44:58,800 --> 00:45:02,080
+the viral receptor
+here, they will sense.
+
+591
+00:45:02,820 --> 00:45:05,380
+They will sense two
+things. They can
+
+592
+00:45:05,380 --> 00:45:11,380
+sense that the blood
+pressure is low and
+
+593
+00:45:12,060 --> 00:45:15,400
+then the macula
+densa is here in this
+
+594
+00:45:15,760 --> 00:45:19,360
+light green. They
+can sense that
+
+595
+00:45:19,360 --> 00:45:21,200
+there is low levels of sodium.
+
+596
+00:45:22,470 --> 00:45:24,600
+So, what they are
+going to do, they will
+
+597
+00:45:24,600 --> 00:45:32,380
+activate the just
+agglomerular or granular
+
+598
+00:45:32,380 --> 00:45:36,660
+cells, these black purple
+cells, and these cells
+
+599
+00:45:36,660 --> 00:45:38,680
+are the ones that will
+release the renin.
+
+600
+00:45:38,940 --> 00:45:42,900
+So, you will have an
+increase of renin release,
+
+601
+00:45:43,150 --> 00:45:46,440
+and we know that renin
+is this enzyme that
+
+602
+00:45:46,440 --> 00:45:50,680
+will convert angiotensinogen
+and angiotensin 1.
+
+603
+00:45:51,780 --> 00:45:55,340
+and the ACE enzyme will convert
+
+604
+00:45:55,340 --> 00:45:57,660
+angiotensin-1 and
+angiotensin-2.
+
+605
+00:46:01,060 --> 00:46:04,340
+So, if I have increase
+of angiotensin-2,
+
+606
+00:46:04,340 --> 00:46:08,280
+I will have
+vasoconstriction and all the
+
+607
+00:46:08,960 --> 00:46:12,960
+consequences I showed
+in the previous slides,
+
+608
+00:46:12,960 --> 00:46:16,520
+increase aldosterone, cause
+vasoconstriction, and all
+
+609
+00:46:16,520 --> 00:46:20,540
+these will lead to increase
+of blood pressure. So
+
+610
+00:46:26,190 --> 00:46:29,210
+here I put some summary.
+So when you have
+
+611
+00:46:29,210 --> 00:46:34,030
+release of renin from
+those granular cells,
+
+612
+00:46:34,030 --> 00:46:37,250
+they will activate the
+renin-angiotensin system,
+
+613
+00:46:37,250 --> 00:46:40,530
+will cause
+vasoconstriction, they will
+
+614
+00:46:40,530 --> 00:46:43,930
+also increase sodium
+and water reabsorption,
+
+615
+00:46:44,450 --> 00:46:47,410
+and that will cause
+increase in blood pressure.
+
+616
+00:46:51,950 --> 00:46:54,530
+So when we measure
+blood pressure in
+
+617
+00:46:54,530 --> 00:46:56,800
+the patient, this is
+an indirect method.
+
+618
+00:46:57,970 --> 00:47:01,650
+We do the same in the
+lab. We can measure
+
+619
+00:47:01,650 --> 00:47:04,230
+blood pressure in
+rodents, for example, and
+
+620
+00:47:04,230 --> 00:47:07,730
+we measure in the tail
+of the rats or mice.
+
+621
+00:47:08,790 --> 00:47:11,950
+This technique is
+the same technique
+
+622
+00:47:11,950 --> 00:47:14,930
+used in human and is
+an indirect method.
+
+623
+00:47:14,930 --> 00:47:18,070
+So they give an estimation how
+
+624
+00:47:18,070 --> 00:47:19,830
+is the real blood pressure.
+
+625
+00:47:20,150 --> 00:47:22,370
+The best way to
+measure blood pressure
+
+626
+00:47:22,370 --> 00:47:24,890
+is a direct method,
+when you can put
+
+627
+00:47:24,890 --> 00:47:27,930
+the catheter directly
+in the artery.
+
+628
+00:47:28,250 --> 00:47:33,510
+So, in the research lab,
+we are able to do that. So,
+
+629
+00:47:33,510 --> 00:47:41,090
+we implant a pressure catheter
+in the carotid, and in
+
+630
+00:47:41,090 --> 00:47:44,010
+this way, we can measure
+continuous blood pressure.
+
+631
+00:47:44,310 --> 00:47:47,650
+So here is one preliminary
+data from our lab,
+
+632
+00:47:47,650 --> 00:47:51,890
+just showing, comparing
+normal and obese mice.
+
+633
+00:47:53,270 --> 00:47:57,890
+So we can record blood
+pressure for 24, 48 hours,
+
+634
+00:47:57,890 --> 00:48:02,390
+and we can exactly see when
+blood pressure is higher.
+
+635
+00:48:02,710 --> 00:48:05,390
+In this case, it is
+in the dark cycle.
+
+636
+00:48:06,090 --> 00:48:09,890
+And this is very important
+because when the patients
+
+637
+00:48:09,890 --> 00:48:13,030
+go to the clinic or to
+the hospital they do one
+
+638
+00:48:13,030 --> 00:48:16,850
+measurement and maybe
+the time they measure was
+
+639
+00:48:16,850 --> 00:48:20,970
+normal or the time they
+measure was high that doesn't
+
+640
+00:48:20,970 --> 00:48:28,270
+represent the whole uh
+the whole idea how is the
+
+641
+00:48:28,270 --> 00:48:31,050
+blood pressure of this
+patient just taking one
+
+642
+00:48:31,050 --> 00:48:35,550
+measurement so the ideal is
+take at least 24, 48 hours.
+
+643
+00:48:35,730 --> 00:48:37,990
+Maybe the blood
+pressure is higher in
+
+644
+00:48:37,990 --> 00:48:39,930
+the morning, maybe
+it's in the night.
+
+645
+00:48:41,570 --> 00:48:45,220
+And another thing that we need
+to take into consideration
+
+646
+00:48:45,220 --> 00:48:50,510
+is when you do this
+indirect method that is just
+
+647
+00:48:50,510 --> 00:48:55,030
+one measurement, we have
+several factors that play
+
+648
+00:48:55,030 --> 00:48:59,790
+a role. One of them is the
+white coat syndrome. It's
+
+649
+00:48:59,790 --> 00:49:02,610
+just the fact that the
+patient sees someone in the
+
+650
+00:49:02,610 --> 00:49:06,470
+white coat, They get so
+stressed and nervous that when
+
+651
+00:49:06,470 --> 00:49:08,770
+they measure their blood
+pressure, it will be high.
+
+652
+00:49:11,170 --> 00:49:15,170
+What doesn't actually mean that
+
+653
+00:49:15,170 --> 00:49:16,670
+the patient has hypertension,
+
+654
+00:49:17,060 --> 00:49:20,770
+right? And more recently,
+I will not have time to
+
+655
+00:49:20,770 --> 00:49:24,810
+discuss that, but we know today
+that there is a difference
+
+656
+00:49:24,810 --> 00:49:27,750
+in blood pressure
+regulation in men and women.
+
+657
+00:49:28,310 --> 00:49:31,590
+So the mechanism
+that regulates blood
+
+658
+00:49:31,590 --> 00:49:34,110
+pressure in women is
+different from men.
+
+659
+00:49:34,110 --> 00:49:35,210
+However,
+
+660
+00:49:35,670 --> 00:49:38,890
+all the treatments we
+have nowadays, the anti
+
+661
+00:49:38,890 --> 00:49:44,030
+-hypertensive treatments,
+they are the same for
+
+662
+00:49:44,030 --> 00:49:46,910
+men and women. And
+most of them have been
+
+663
+00:49:46,910 --> 00:49:51,550
+developed in pre-clinical
+research using males.
+
+664
+00:49:51,970 --> 00:50:01,390
+So this is something that
+has been more take attention
+
+665
+00:50:01,390 --> 00:50:05,080
+of the scientists and
+the medical community
+
+666
+00:50:05,090 --> 00:50:09,850
+that in a couple of years
+we will treat hypertension
+
+667
+00:50:10,410 --> 00:50:15,690
+maybe in a different way
+if it's a man or a woman.
+
+668
+00:50:16,260 --> 00:50:17,570
+So we need to take in
+
+669
+00:50:17,570 --> 00:50:19,510
+consideration the
+sex difference.
+
+670
+00:50:22,520 --> 00:50:25,150
+So, here we have
+the summary of the
+
+671
+00:50:25,150 --> 00:50:28,090
+activation of the renal
+angiotensin system.
+
+672
+00:50:28,090 --> 00:50:31,410
+This is just, once
+again, the summary.
+
+673
+00:50:34,490 --> 00:50:39,370
+And the takeaway about
+this system is that
+
+674
+00:50:39,370 --> 00:50:42,210
+every time we have
+increase of angiotensin II,
+
+675
+00:50:42,210 --> 00:50:46,830
+it's a vasoconstrictor,
+very potent. They will
+
+676
+00:50:46,830 --> 00:50:52,610
+cause effect in many
+tissues, and all the
+
+677
+00:50:52,610 --> 00:50:56,930
+effects will lead to
+increase of blood pressure.
+
+678
+00:50:57,390 --> 00:50:59,670
+Angiotensin too,
+something that I didn't
+
+679
+00:50:59,670 --> 00:51:03,310
+mention before, can also
+increase the thirst.
+
+680
+00:51:03,310 --> 00:51:07,170
+So the patient or the
+person will drink more.
+
+681
+00:51:07,170 --> 00:51:09,210
+And if you have more volume,
+
+682
+00:51:09,370 --> 00:51:12,590
+you can increase
+stroke volume, and that
+
+683
+00:51:12,590 --> 00:51:14,850
+can lead to increase
+of cardiac output.
+
+684
+00:51:14,850 --> 00:51:17,090
+and you have increase
+of blood pressure.
+
+685
+00:51:19,370 --> 00:51:23,790
+So angiotensin-2 is
+this potent peptide
+
+686
+00:51:23,790 --> 00:51:26,270
+that causes vasoconstriction
+and they bind in
+
+687
+00:51:26,270 --> 00:51:30,190
+a specific receptor
+called AT1 receptor.
+
+688
+00:51:32,390 --> 00:51:36,290
+So we know that when
+angiotensin-2 binds to this
+
+689
+00:51:36,290 --> 00:51:39,910
+receptor they will cause
+vasoconstriction but
+
+690
+00:51:39,910 --> 00:51:43,550
+also there is another
+other effects, several
+
+691
+00:51:43,550 --> 00:51:47,230
+effects. And most of these
+effects are negative.
+
+692
+00:51:47,230 --> 00:51:49,900
+So, for example, they
+can cause hypertrophy
+
+693
+00:51:51,250 --> 00:51:54,590
+of smooth muscle cells,
+fibrosis, inflammation,
+
+694
+00:51:54,730 --> 00:51:57,210
+migration, calcification,
+
+695
+00:51:57,490 --> 00:51:59,390
+contraction. All these will
+
+696
+00:51:59,390 --> 00:52:01,190
+cause a vascular remodeling.
+
+697
+00:52:01,510 --> 00:52:05,390
+So, angiotensin II
+in high levels can be
+
+698
+00:52:05,390 --> 00:52:09,190
+very detrimental for
+the vascular system.
+
+699
+00:52:09,530 --> 00:52:14,410
+Also angiotensin 2 can
+increase the oxidative stress
+
+700
+00:52:14,410 --> 00:52:17,890
+and we know oxidative
+stress is detrimental for
+
+701
+00:52:17,890 --> 00:52:22,310
+the vascular function. So
+this is just for you keep
+
+702
+00:52:22,310 --> 00:52:25,250
+in mind that angiotensin
+2 not only cause
+
+703
+00:52:25,250 --> 00:52:30,650
+vasoconstriction but also have
+another other effects that
+
+704
+00:52:30,650 --> 00:52:35,050
+cause vascular damage,
+vascular dysfunction that
+
+705
+00:52:35,050 --> 00:52:38,470
+will contribute also for
+increase of blood pressure.
+
+706
+00:52:40,230 --> 00:52:42,830
+So the clinical relevance. So
+
+707
+00:52:42,830 --> 00:52:45,270
+hypertension is
+a silence killer.
+
+708
+00:52:46,350 --> 00:52:49,450
+People will discover that
+they have high blood pressure
+
+709
+00:52:49,450 --> 00:52:52,210
+when they have the symptoms
+and most of the time
+
+710
+00:52:52,210 --> 00:52:56,970
+is late. Or I have a
+headache or I start bleeding,
+
+711
+00:52:57,170 --> 00:53:00,670
+and then they will detect
+that the blood pressure is
+
+712
+00:53:00,670 --> 00:53:03,170
+pretty high. Some patient
+doesn't have any symptoms.
+
+713
+00:53:06,250 --> 00:53:08,590
+So what is the risk factors?
+
+714
+00:53:08,590 --> 00:53:10,890
+I have a list all of them here,
+
+715
+00:53:10,890 --> 00:53:13,730
+and most of them we can avoid.
+
+716
+00:53:14,490 --> 00:53:15,490
+Obesity,
+
+717
+00:53:15,490 --> 00:53:17,710
+development of type 2 diabetes,
+
+718
+00:53:19,290 --> 00:53:22,390
+overconsumption of
+diet high in sodium,
+
+719
+00:53:22,390 --> 00:53:28,500
+So, all fast food,
+some drinks that we
+
+720
+00:53:28,500 --> 00:53:33,090
+consume is really high
+in salt, like sodas,
+
+721
+00:53:33,510 --> 00:53:37,830
+excess of alcohol, smoking,
+sedentarism. All these
+
+722
+00:53:37,830 --> 00:53:42,990
+really contributes to the
+development of hypertension.
+
+723
+00:53:43,290 --> 00:53:46,510
+So, 90% of the cases
+of hypertension
+
+724
+00:53:46,510 --> 00:53:48,790
+we call primary hypertension.
+
+725
+00:53:49,850 --> 00:53:53,110
+is we don't know
+the exact cause.
+
+726
+00:53:53,990 --> 00:53:56,590
+And the secondary hypertension
+
+727
+00:53:56,820 --> 00:53:59,750
+corresponds for
+10% of the case.
+
+728
+00:53:59,950 --> 00:54:03,330
+Those ones are the ones
+that have a specific
+
+729
+00:54:03,330 --> 00:54:05,550
+problem, for example,
+in the kidneys.
+
+730
+00:54:05,830 --> 00:54:08,630
+But unfortunately,
+the majority of the
+
+731
+00:54:08,630 --> 00:54:13,030
+hypertension cases, we
+don't know how they start.
+
+732
+00:54:14,590 --> 00:54:19,610
+So here I put a table.
+again this is you will have
+
+733
+00:54:19,610 --> 00:54:23,010
+these lectures but just
+to know that we have a
+
+734
+00:54:23,010 --> 00:54:28,230
+guidelines that is from
+American Heart Association and
+
+735
+00:54:28,230 --> 00:54:30,970
+based on the values you
+will determine if the
+
+736
+00:54:30,970 --> 00:54:34,930
+person had elevated blood
+pressure or they already
+
+737
+00:54:34,930 --> 00:54:39,230
+have hypertension so those
+guidelines you always need
+
+738
+00:54:39,230 --> 00:54:43,170
+to be up to the date
+because they always reveal.
+
+739
+00:54:43,990 --> 00:54:48,090
+And some of the last
+things I have heard is
+
+740
+00:54:48,090 --> 00:54:50,310
+that maybe in the
+future we will have
+
+741
+00:54:50,310 --> 00:54:54,080
+separate guidelines for
+men and for women to
+
+742
+00:54:54,830 --> 00:54:58,650
+determine if they have
+hypertension or not.
+
+743
+00:54:59,930 --> 00:55:04,350
+And lastly, I will
+talk about shock.
+
+744
+00:55:05,170 --> 00:55:10,630
+So, shock is a life-threatening
+circulatory disorder.
+
+745
+00:55:10,630 --> 00:55:13,450
+is high mortality rate
+every time you have a
+
+746
+00:55:13,450 --> 00:55:19,650
+shock is a panic is when
+you have a drop in the blood
+
+747
+00:55:19,650 --> 00:55:23,410
+pressure if you don't have
+an ideal blood pressure
+
+748
+00:55:23,410 --> 00:55:26,630
+so high blood pressure
+is danger but low blood
+
+749
+00:55:26,630 --> 00:55:34,050
+pressure as is danger as
+well so if you don't have a
+
+750
+00:55:34,290 --> 00:55:38,950
+good blood pressure, it's
+too low, the blood will
+
+751
+00:55:38,950 --> 00:55:46,490
+not reach many tissues,
+brain, kidney, gut, and if
+
+752
+00:55:46,490 --> 00:55:50,230
+you don't have enough blood
+coming to the tissues,
+
+753
+00:55:50,710 --> 00:55:53,530
+you will have organ damage.
+
+754
+00:55:54,230 --> 00:55:58,770
+So let's say in the case
+of hypovolemic So, from
+
+755
+00:55:58,770 --> 00:56:02,010
+the bottom to the top, you
+have the types of shock,
+
+756
+00:56:02,150 --> 00:56:06,270
+so hypovolemic,
+cardiogenic, when you have
+
+757
+00:56:06,270 --> 00:56:11,230
+a heart failure, and
+you have the septic and
+
+758
+00:56:11,230 --> 00:56:14,310
+anaphylactic shock.
+That's very important.
+
+759
+00:56:14,890 --> 00:56:19,950
+All this shock will
+lead to low tissue
+
+760
+00:56:19,950 --> 00:56:25,210
+perfusion due to drop
+in blood pressure.
+
+761
+00:56:25,730 --> 00:56:28,230
+So, the treatment, you
+need to give volume,
+
+762
+00:56:28,330 --> 00:56:30,130
+you need to increase
+blood pressure to
+
+763
+00:56:30,130 --> 00:56:33,730
+start to reperfuse the
+tissues with blood.
+
+764
+00:56:34,850 --> 00:56:38,650
+So, let's say you have
+some accident, you
+
+765
+00:56:38,650 --> 00:56:43,010
+have a huge bleeding,
+you lose blood volume,
+
+766
+00:56:43,010 --> 00:56:46,390
+that will cause a
+drop in cardiac output
+
+767
+00:56:46,390 --> 00:56:50,030
+because you decrease
+stroke volume. That will
+
+768
+00:56:50,030 --> 00:56:52,630
+cause a decrease in
+blood pressure and shock.
+
+769
+00:56:53,210 --> 00:56:58,990
+If your heart is weak,
+it's not pumping well,
+
+770
+00:56:58,990 --> 00:57:01,840
+you will have a drop in
+cardiac output because
+
+771
+00:57:01,840 --> 00:57:04,730
+probably your heart
+rate will start to drop.
+
+772
+00:57:04,730 --> 00:57:09,770
+That also will cause a
+drop in blood pressure.
+
+773
+00:57:10,070 --> 00:57:13,950
+How about the septic
+and anaphylactic shock?
+
+774
+00:57:14,510 --> 00:57:17,790
+In those kind of shock
+you have a release
+
+775
+00:57:17,790 --> 00:57:19,940
+of, for example, histamine or
+
+776
+00:57:21,320 --> 00:57:26,270
+bradykinine that cause
+a huge vasodilation.
+
+777
+00:57:26,910 --> 00:57:30,590
+And if you have a huge
+vasodilation, you will
+
+778
+00:57:30,590 --> 00:57:33,350
+decrease the total
+peripheral resistance.
+
+779
+00:57:33,760 --> 00:57:36,510
+And if you have a decrease
+in total peripheral
+
+780
+00:57:36,510 --> 00:57:39,910
+resistance, you have a
+decrease in blood pressure.
+
+781
+00:57:43,410 --> 00:57:46,790
+So shock is pretty much
+that. It's when you have
+
+782
+00:57:48,150 --> 00:57:53,030
+hypoperfusion. It's not
+enough oxygen and nutrients
+
+783
+00:57:53,030 --> 00:57:57,530
+getting to the tissues, so you
+need to revert the situation
+
+784
+00:57:57,530 --> 00:58:01,190
+as soon as possible by
+increasing blood pressure.
+
+785
+00:58:03,410 --> 00:58:06,270
+So here is the
+summary of what I just
+
+786
+00:58:06,520 --> 00:58:09,590
+told you. So let's say
+in the case you have
+
+787
+00:58:10,910 --> 00:58:16,870
+accident or you have a
+bleeding that will drop the
+
+788
+00:58:16,870 --> 00:58:20,570
+blood volume, you have a
+drop in blood pressure.
+
+789
+00:58:22,050 --> 00:58:26,750
+So that can activate the
+baroreceptor reflex to
+
+790
+00:58:26,750 --> 00:58:31,250
+try to reverse the
+situation, increasing heart
+
+791
+00:58:31,250 --> 00:58:36,590
+rate, increase peripheral
+So, one very typical
+
+792
+00:58:36,590 --> 00:58:43,470
+characteristic of
+hypovolemic shock, you have
+
+793
+00:58:43,470 --> 00:58:47,370
+this huge vasoconstriction.
+So, the patient will
+
+794
+00:58:47,370 --> 00:58:52,140
+develop this increase in
+peripheral resistance in
+
+795
+00:58:52,330 --> 00:58:57,150
+order to try to increase
+blood pressure. So,
+
+796
+00:58:57,150 --> 00:59:02,070
+this is very typical of
+some bleeding situation.
+
+797
+00:59:02,070 --> 00:59:09,170
+The patient will definitely
+develop vasoconstriction
+
+798
+00:59:09,450 --> 00:59:12,790
+and increase of
+peripheral resistance
+
+799
+00:59:12,790 --> 00:59:17,450
+in order to try to
+increase blood pressure.
+
+800
+00:59:17,970 --> 00:59:20,790
+Also, when we have a
+decrease of blood pressure,
+
+801
+00:59:20,790 --> 00:59:24,870
+you will stimulate the
+kidney to release renin and
+
+802
+00:59:24,870 --> 00:59:28,250
+activate the renin
+-angiotensin system because we
+
+803
+00:59:28,250 --> 00:59:31,950
+need angiotensin too to
+cause vasoconstriction.
+
+804
+00:59:34,050 --> 00:59:37,540
+So again, this is
+something that is
+
+805
+00:59:37,540 --> 00:59:40,410
+highly asked in the
+board exam. So here
+
+806
+00:59:40,410 --> 00:59:43,750
+I just put from the
+USM and Lee book,
+
+807
+00:59:44,370 --> 00:59:46,410
+the hypovolemic shock,
+
+808
+00:59:46,690 --> 00:59:53,190
+when you have burn, huge
+burn, dehydration, bleeding.
+
+809
+00:59:53,890 --> 00:59:58,820
+So the patient will
+develop first this high
+
+810
+00:59:58,950 --> 01:00:01,550
+vasoconstriction,
+increase of peripheral
+
+811
+01:00:01,550 --> 01:00:05,050
+resistance via the
+baron receptor reflex.
+
+812
+01:00:08,570 --> 01:00:11,450
+So, during the
+hypovolemic shock
+
+813
+01:00:11,450 --> 01:00:15,190
+you have decrease
+of the preload,
+
+814
+01:00:15,490 --> 01:00:23,170
+that is the decrease
+of venous return to the
+
+815
+01:00:23,170 --> 01:00:26,450
+heart. You will decrease
+cardiac output, but you
+
+816
+01:00:26,450 --> 01:00:30,870
+see, you will increase
+the systemic vascular
+
+817
+01:00:30,870 --> 01:00:34,750
+resistance because you
+have this vasoconstriction
+
+818
+01:00:34,750 --> 01:00:37,890
+that's trying to
+compensate the situation.
+
+819
+01:00:38,090 --> 01:00:41,410
+And the treatment, you
+need to give volume.
+
+820
+01:00:41,730 --> 01:00:44,710
+If you give volume,
+you increase stroke
+
+821
+01:00:44,710 --> 01:00:48,070
+volume, increase
+cardiac output, and that
+
+822
+01:00:48,070 --> 01:00:50,070
+can lead to increasing
+blood pressure.
+
+823
+01:00:56,290 --> 01:01:01,090
+So again, we have some
+basic review questions. So
+
+824
+01:01:01,090 --> 01:01:05,210
+I list here the ones that
+I think will help you to
+
+825
+01:01:09,470 --> 01:01:12,170
+to keep the main
+information that
+
+826
+01:01:12,170 --> 01:01:14,410
+you need to know
+about this lecture.
+
+827
+01:01:15,110 --> 01:01:18,490
+So, in the next slides,
+I have all the answers.
+
+828
+01:01:19,390 --> 01:01:21,970
+So, if you have any
+question, please
+
+829
+01:01:21,970 --> 01:01:24,290
+contact me and we
+can discuss more. But
+
+830
+01:01:24,290 --> 01:01:26,590
+again, very
+straightforward questions.
+
+831
+01:01:28,810 --> 01:01:32,950
+And when you have your
+pharmacology lectures in
+
+832
+01:01:32,950 --> 01:01:36,080
+anti-hypertensive. I
+hope you will remember
+
+833
+01:01:36,150 --> 01:01:39,970
+about the renin-angiotensin
+system. So there is two
+
+834
+01:01:39,970 --> 01:01:45,490
+ways that we can interfere
+in this system. We
+
+835
+01:01:45,490 --> 01:01:48,490
+can interfere this system
+using ACE inhibitor.
+
+836
+01:01:49,350 --> 01:01:53,110
+So if we use ACE
+inhibitor, we will not lead
+
+837
+01:01:53,110 --> 01:01:58,190
+angiotensin-2 to become
+angiotensin-1 become
+
+838
+01:01:58,190 --> 01:02:04,690
+angiotensin 2, and also
+we can use the ARBs, our
+
+839
+01:02:04,690 --> 01:02:08,490
+drugs that block the
+receptor for angiotensin 2.
+
+840
+01:02:08,490 --> 01:02:10,790
+So even though we can have
+
+841
+01:02:10,790 --> 01:02:12,770
+high levels of angiotensin 2,
+
+842
+01:02:13,030 --> 01:02:15,410
+the herbs here, they will not
+
+843
+01:02:15,730 --> 01:02:20,170
+let this peptide to
+bind to its receptor.
+
+844
+01:02:20,650 --> 01:02:23,190
+So that's all for this lecture.
+
+845
+01:02:23,330 --> 01:02:27,930
+This is all the reference
+have been used. Thank
+
+846
+01:02:27,930 --> 01:02:32,570
+you and if you have any
+question here is my email.

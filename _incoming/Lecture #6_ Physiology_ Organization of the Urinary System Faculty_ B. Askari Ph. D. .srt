@@ -1,0 +1,4487 @@
+1
+00:00:00,630 --> 00:00:03,850
+Hello, everybody, and
+welcome to the first lecture
+
+2
+00:00:03,850 --> 00:00:09,470
+in our series of actual
+lectures on renal physiology.
+
+3
+00:00:09,550 --> 00:00:12,010
+And the title of our
+lecture is we're going to
+
+4
+00:00:12,010 --> 00:00:14,340
+start off with some
+straightforward functional
+
+5
+00:00:14,610 --> 00:00:18,270
+anatomy and organization
+of the urinary system
+
+6
+00:00:18,270 --> 00:00:21,370
+before we start going
+into the intricate details
+
+7
+00:00:21,370 --> 00:00:25,290
+that are involved in the
+function of the kidney.
+
+8
+00:00:28,790 --> 00:00:31,490
+The session objectives
+are here, so we're going
+
+9
+00:00:31,490 --> 00:00:34,030
+to talk about the major
+functions of the kidney,
+
+10
+00:00:34,390 --> 00:00:38,230
+the growth structures, and
+their interrelationships.
+
+11
+00:00:38,850 --> 00:00:41,250
+Then we're going to go
+a little bit narrower.
+
+12
+00:00:41,250 --> 00:00:44,010
+We're going to look at
+the gomerular filtration
+
+13
+00:00:44,010 --> 00:00:47,930
+barrier, and then the
+components of the duct
+
+14
+00:00:47,930 --> 00:00:53,570
+system and the nephron,
+and then talk about
+
+15
+00:00:53,570 --> 00:00:57,620
+the JG apparatus and
+its role in homeostasis,
+
+16
+00:00:58,230 --> 00:01:00,930
+and then finish off
+by talking about the
+
+17
+00:01:00,930 --> 00:01:04,170
+control of urination,
+but that really has
+
+18
+00:01:04,170 --> 00:01:05,910
+to do more with the
+function of the kidney,
+
+19
+00:01:05,910 --> 00:01:08,870
+so it has to do more
+with objective one.
+
+20
+00:01:10,570 --> 00:01:14,870
+So like always, let's start
+off with a scenario. So
+
+21
+00:01:15,190 --> 00:01:19,770
+you start off your rotation
+in EM. When a young woman,
+
+22
+00:01:19,770 --> 00:01:23,110
+teenager, is brought into
+the ER by her parents,
+
+23
+00:01:23,110 --> 00:01:25,950
+she's an athlete, she's an
+avid soccer player, she's
+
+24
+00:01:25,950 --> 00:01:29,870
+got no significant past
+medical history, she's tall,
+
+25
+00:01:29,990 --> 00:01:33,630
+in shape, and she's
+in acute distress.
+
+26
+00:01:33,650 --> 00:01:36,470
+When you see her, she
+is curled up in the
+
+27
+00:01:36,470 --> 00:01:39,610
+fetal position in a
+bed. She's nauseous,
+
+28
+00:01:39,850 --> 00:01:43,850
+She looks dehydrated,
+and she's suffering.
+
+29
+00:01:43,850 --> 00:01:45,670
+She has deep
+bilateral flank pain.
+
+30
+00:01:46,620 --> 00:01:51,070
+She's hardly urinating
+in half a liter a day.
+
+31
+00:01:52,510 --> 00:01:55,330
+And the little bit
+of urine you manage
+
+32
+00:01:55,330 --> 00:01:59,970
+to collect had
+blood, substantial
+
+33
+00:01:59,970 --> 00:02:03,870
+amounts of blood,
+protein, and glucose.
+
+34
+00:02:03,870 --> 00:02:05,370
+However, she's not diabetic.
+
+35
+00:02:05,370 --> 00:02:09,290
+Her plasma glucose is normal.
+
+36
+00:02:09,290 --> 00:02:12,090
+So you don't know
+how to explain that.
+
+37
+00:02:12,210 --> 00:02:16,250
+You talk to her
+parents and she is
+
+38
+00:02:16,250 --> 00:02:19,730
+health conscious and
+loves social media.
+
+39
+00:02:20,290 --> 00:02:23,770
+And through some
+something, they
+
+40
+00:02:23,770 --> 00:02:25,370
+tell you that she had gotten,
+
+41
+00:02:26,170 --> 00:02:29,290
+you know, based on some
+social media influencer,
+
+42
+00:02:29,550 --> 00:02:33,790
+some fitness influencer,
+she had ordered
+
+43
+00:02:33,790 --> 00:02:37,050
+some herbal teas from
+a very famous European
+
+44
+00:02:37,050 --> 00:02:40,610
+spa and had just drunk
+some of it. And you
+
+45
+00:02:40,610 --> 00:02:43,130
+wonder if there's a
+cause and effect here.
+
+46
+00:02:46,790 --> 00:02:50,210
+So, herbal tea, deep
+pain, lack of urine,
+
+47
+00:02:50,210 --> 00:02:54,210
+significant urinalysis.
+What could they have and how
+
+48
+00:02:54,210 --> 00:02:56,230
+would the function,
+knowing a little bit about
+
+49
+00:02:56,230 --> 00:02:58,570
+the functional anatomy
+of the kidney, help you
+
+50
+00:02:58,570 --> 00:03:04,290
+describe the sequence of
+symptoms following this?
+
+51
+00:03:05,870 --> 00:03:08,330
+So let's talk about the
+kidney, and what does it
+
+52
+00:03:08,330 --> 00:03:10,610
+look like? Well, and what
+it is? Well, this is the
+
+53
+00:03:10,610 --> 00:03:13,270
+functional anatomy of the
+kidney, this slide here,
+
+54
+00:03:13,270 --> 00:03:17,960
+and the kidneys serve three
+functions of important
+
+55
+00:03:18,830 --> 00:03:21,830
+one, filtration, removing
+metabolic products and
+
+56
+00:03:21,830 --> 00:03:26,350
+toxins, and excreting them,
+removal of waste products.
+
+57
+00:03:27,190 --> 00:03:29,830
+Second one is regulation
+of fluid status,
+
+58
+00:03:29,830 --> 00:03:32,050
+electrolyte balance,
+and acid-base balance.
+
+59
+00:03:32,380 --> 00:03:34,130
+We'll talk about
+every single one of
+
+60
+00:03:34,130 --> 00:03:35,850
+those over the next
+series of lectures.
+
+61
+00:03:36,150 --> 00:03:40,000
+And then finally, it's
+got an important hormonal
+
+62
+00:03:42,010 --> 00:03:45,670
+responsibility. It's a
+production and activation of
+
+63
+00:03:45,670 --> 00:03:49,930
+hormones involved in the
+formation of red blood cells,
+
+64
+00:03:50,270 --> 00:03:54,410
+in calcium metabolism,
+and control of blood
+
+65
+00:03:54,410 --> 00:03:57,950
+pressure and flow.
+So it's linked to
+
+66
+00:03:57,950 --> 00:04:04,770
+hematology, it's linked
+to bone formation,
+
+67
+00:04:05,190 --> 00:04:09,410
+muscle, bone and muscle
+
+68
+00:04:09,410 --> 00:04:12,270
+metabolism, and cardiovascular
+
+69
+00:04:15,410 --> 00:04:19,490
+cardiovascular events. So
+you've taken anatomy, so
+
+70
+00:04:19,490 --> 00:04:22,650
+you all know it's a pair
+of bean-shaped structures
+
+71
+00:04:22,650 --> 00:04:26,510
+the size of your fist that
+lie behind the peritoneum
+
+72
+00:04:26,510 --> 00:04:30,030
+on each side of the
+vertebral column. It's small.
+
+73
+00:04:30,030 --> 00:04:34,990
+It's only about 0.5% of
+the total body weight.
+
+74
+00:04:35,510 --> 00:04:38,750
+obviously, you know,
+men are are heavier
+
+75
+00:04:38,750 --> 00:04:41,510
+than average men are
+heavier than average
+
+76
+00:04:41,510 --> 00:04:47,510
+females, so men have a
+slightly larger kidney.
+
+77
+00:04:49,570 --> 00:04:50,690
+Then
+
+78
+00:04:53,270 --> 00:04:57,070
+we can start off with the
+hylas indicated in the
+
+79
+00:04:57,070 --> 00:05:01,510
+circle here, and the hylas
+is indicated here, here,
+
+80
+00:05:01,720 --> 00:05:05,530
+and that's the site
+of entry for the renal
+
+81
+00:05:05,530 --> 00:05:09,230
+artery, indicated
+in the red, and the
+
+82
+00:05:09,230 --> 00:05:13,320
+renal vein, indicated
+here in the blue, and
+
+83
+00:05:17,780 --> 00:05:25,300
+the entrance and the
+exit of the tubules.
+
+84
+00:05:29,810 --> 00:05:33,950
+The renal artery
+breaks up into anterior
+
+85
+00:05:33,950 --> 00:05:38,990
+-posterior branches, and then
+these anterior-posterior
+
+86
+00:05:38,990 --> 00:05:42,310
+branches will eventually
+give rise to the
+
+87
+00:05:42,310 --> 00:05:45,290
+arcuate and then the
+interlobular arteries.
+
+88
+00:05:46,530 --> 00:05:50,350
+So they do different things.
+The arcuate arteries,
+
+89
+00:05:50,350 --> 00:05:54,430
+one, they skirt the
+corticomedullary junction, and
+
+90
+00:05:54,430 --> 00:05:57,340
+then they branch into the
+ascending interlobular
+
+91
+00:05:57,340 --> 00:06:01,090
+arteries, which will
+eventually give us the apparent
+
+92
+00:06:01,090 --> 00:06:04,390
+arterioles when we get
+into the arteriolar system.
+
+93
+00:06:04,510 --> 00:06:07,390
+The renal sinus seen here
+
+94
+00:06:08,710 --> 00:06:13,490
+includes the pelvis and
+urine-filled spaces called
+
+95
+00:06:13,490 --> 00:06:17,850
+the calluses, the major and
+the minor, And they're all
+
+96
+00:06:17,850 --> 00:06:22,170
+surrounded by renal
+parenchymal cells, except where
+
+97
+00:06:22,170 --> 00:06:28,350
+you reach the upper end of
+the ureter, the top part
+
+98
+00:06:28,350 --> 00:06:33,050
+of the kidney, which is
+seen probably around here.
+
+99
+00:06:36,610 --> 00:06:44,470
+A fibrous capsule covers
+each kidney, and this capsule
+
+100
+00:06:44,470 --> 00:06:48,670
+eventually will reflect
+into the hilus at this,
+
+101
+00:06:49,490 --> 00:06:53,330
+you know, in these
+junctions here.
+
+102
+00:06:54,070 --> 00:06:57,770
+And the inner layers
+will eventually
+
+103
+00:06:58,510 --> 00:07:04,230
+coat the renal sinus, and
+the outer layers will give
+
+104
+00:07:04,230 --> 00:07:07,230
+us the, you know, blood
+vessels and renal pelvis.
+
+105
+00:07:07,990 --> 00:07:11,590
+Grossly, if you cross,
+
+106
+00:07:12,610 --> 00:07:18,190
+you know, you divide the
+kidney into two equal
+
+107
+00:07:18,190 --> 00:07:20,490
+halves, and basically
+across a longitudinal
+
+108
+00:07:20,490 --> 00:07:23,010
+cross section, excuse
+me, I had a mental block,
+
+109
+00:07:23,250 --> 00:07:26,810
+You can differentiate
+just based on their color,
+
+110
+00:07:26,810 --> 00:07:30,350
+the cortex and the
+medulla. The cortex is a
+
+111
+00:07:30,350 --> 00:07:33,590
+granular outer region
+through the presence of
+
+112
+00:07:33,590 --> 00:07:37,190
+glomeruli and highly
+convoluted tubules. These
+
+113
+00:07:37,190 --> 00:07:40,290
+are not macroscopic.
+These are not microscopic.
+
+114
+00:07:40,350 --> 00:07:41,210
+They're macroscopy.
+
+115
+00:07:41,230 --> 00:07:45,310
+You can actually
+see the glomeruli
+
+116
+00:07:45,310 --> 00:07:47,410
+if you look really,
+really closely.
+
+117
+00:07:47,450 --> 00:07:50,770
+The medulla is a darker
+inner region. it lacks
+
+118
+00:07:50,770 --> 00:07:54,870
+gourmet airline and
+where you have parallel
+
+119
+00:07:54,870 --> 00:07:57,350
+arrangements of tubules
+of small blood vessels,
+
+120
+00:07:57,350 --> 00:08:01,610
+and it's divided into
+renal pyramids. And these
+
+121
+00:08:01,610 --> 00:08:04,770
+pyramids face the
+corticomedullary border
+
+122
+00:08:04,770 --> 00:08:09,970
+and the tip will terminate
+in the renal pelvis.
+
+123
+00:08:12,370 --> 00:08:15,570
+The vasculature of
+the kidney is where
+
+124
+00:08:15,570 --> 00:08:19,410
+everybody starts having
+some issues because it's
+
+125
+00:08:19,410 --> 00:08:22,730
+got a very atypical
+and unique vasculature.
+
+126
+00:08:23,730 --> 00:08:29,370
+So kidneys have very high
+blood flow and there is, you
+
+127
+00:08:29,370 --> 00:08:33,350
+know, for what did we say,
+it's for the small proportion
+
+128
+00:08:33,350 --> 00:08:36,950
+of the total body weight,
+they take one of the
+
+129
+00:08:36,950 --> 00:08:41,070
+largest amounts of blood
+flow from the heart, about 20
+
+130
+00:08:41,070 --> 00:08:46,150
+-25% of the cardiac output,
+almost a quarter, fifth to
+
+131
+00:08:46,150 --> 00:08:49,970
+a quarter of our cardiac
+output goes to our kidneys.
+
+132
+00:08:50,110 --> 00:08:52,890
+And this high blood
+flow is important.
+
+133
+00:08:52,890 --> 00:08:54,990
+It provides the blood
+plasma necessary
+
+134
+00:08:55,170 --> 00:08:57,170
+to form the ultrafiltrate.
+
+135
+00:08:57,590 --> 00:09:00,270
+Now the renal circulation, once
+
+136
+00:09:00,270 --> 00:09:03,070
+you go away from
+the renal artery,
+
+137
+00:09:04,630 --> 00:09:10,950
+goes into two different
+systems. It starts off with the
+
+138
+00:09:10,950 --> 00:09:15,290
+first arteriolar system,
+the afferent arteriole. The
+
+139
+00:09:15,290 --> 00:09:18,570
+afferent arteriole is a
+high-resistance arteriolar
+
+140
+00:09:18,570 --> 00:09:22,750
+network bringing blood into
+the glomerulus. So I have it
+
+141
+00:09:22,750 --> 00:09:27,530
+here indicated as AA, so it
+goes into the glomerulus.
+
+142
+00:09:27,690 --> 00:09:30,590
+Glomerulus is a high
+-pressure capillary
+
+143
+00:09:30,590 --> 00:09:34,510
+network, and its
+function is filtration.
+
+144
+00:09:36,850 --> 00:09:40,600
+Then, as opposed to
+other tissue organs,
+
+145
+00:09:40,600 --> 00:09:43,170
+where you can go from
+arterial to capillary,
+
+146
+00:09:43,170 --> 00:09:45,270
+then to venial,
+and then to veins,
+
+147
+00:09:45,510 --> 00:09:50,170
+kidney is different. Kidney
+will go from arteriolar
+
+148
+00:09:50,170 --> 00:09:54,310
+to capillary, and then
+back to arteriolar,
+
+149
+00:09:55,150 --> 00:09:57,550
+the efferent arteriolar system.
+
+150
+00:09:57,550 --> 00:10:00,530
+And these are second
+high pressure,
+
+151
+00:10:01,150 --> 00:10:04,620
+in high, excuse me, high
+resistance arterioles.
+
+152
+00:10:05,210 --> 00:10:11,090
+The pressure is not as
+high, right, because this is
+
+153
+00:10:11,090 --> 00:10:13,890
+one of the functions of
+glomeruli, so dissipate the
+
+154
+00:10:13,890 --> 00:10:17,170
+pressure, use the pressure
+to push the ultrafiltrate.
+
+155
+00:10:17,170 --> 00:10:19,830
+But the apparent arteriole
+is high resistance.
+
+156
+00:10:20,750 --> 00:10:28,330
+It can manipulate its
+resistance to a high degree.
+
+157
+00:10:28,330 --> 00:10:30,810
+And then after that,
+we have peritubular
+
+158
+00:10:30,930 --> 00:10:34,390
+capillaries, which is our
+low-pressure capillary
+
+159
+00:10:34,390 --> 00:10:38,710
+networks surrounding the
+renal tubules. And that's
+
+160
+00:10:39,350 --> 00:10:43,470
+mostly in the cortex, if
+you go further deeper into
+
+161
+00:10:43,470 --> 00:10:47,890
+the kidney, before you get
+to the medulla, you get
+
+162
+00:10:47,890 --> 00:10:51,930
+to the juxtamedullary
+area, juxtamedullary, the
+
+163
+00:10:51,930 --> 00:10:55,670
+corticomedullary, there
+you can have juxtamedullary
+
+164
+00:10:55,670 --> 00:11:01,150
+glomeruli, at or near the
+medullary cortical junction.
+
+165
+00:11:01,650 --> 00:11:06,070
+then the difference
+here is the peritubular
+
+166
+00:11:06,070 --> 00:11:09,990
+capillaries of these
+nephrons descend into the
+
+167
+00:11:09,990 --> 00:11:13,530
+renal papilla to give
+these hairpin-shaped
+
+168
+00:11:13,530 --> 00:11:17,990
+vessels called the vasorecta.
+And here's an example
+
+169
+00:11:17,990 --> 00:11:20,070
+of vasorecta here.
+So, you know, in this
+
+170
+00:11:20,070 --> 00:11:22,620
+case, it's, you know,
+peritubular capillaries.
+
+171
+00:11:22,930 --> 00:11:27,750
+Vasorecta would be
+the capillaries you
+
+172
+00:11:27,750 --> 00:11:30,330
+see here. We'll talk
+about the vasorecta
+
+173
+00:11:30,330 --> 00:11:33,590
+later on, in one of
+our later lectures.
+
+174
+00:11:33,930 --> 00:11:38,170
+So 90% of the blood
+entering the kidney perfuses
+
+175
+00:11:38,270 --> 00:11:42,210
+the superficial glomeruli
+and the cortex, and 10%
+
+176
+00:11:42,210 --> 00:11:46,830
+perfuse the juxtaglomeruli
+and the medulla. So you can
+
+177
+00:11:46,830 --> 00:11:50,430
+see right off the bat that
+there's unequal perfusion.
+
+178
+00:11:53,050 --> 00:11:57,290
+This makes the juxtamedullary
+glomeruli and the
+
+179
+00:11:57,290 --> 00:12:02,570
+medulla, relatively anoxic
+compared to the superficial
+
+180
+00:12:02,570 --> 00:12:05,030
+glomerula and the
+cortex. And that becomes
+
+181
+00:12:05,030 --> 00:12:09,390
+very, very important later
+on when we talk about control
+
+182
+00:12:09,390 --> 00:12:13,570
+of erythropoietin and
+red blood cell formation.
+
+183
+00:12:13,730 --> 00:12:18,310
+And then finally, we have
+lymphatic vessels that
+
+184
+00:12:18,310 --> 00:12:21,790
+drain cortical interstitial
+fluid and contain
+
+185
+00:12:21,790 --> 00:12:25,770
+the renal hormones, such
+as erythropoietin, and
+
+186
+00:12:25,770 --> 00:12:29,130
+they leave the kidney
+following the arteries
+
+187
+00:12:29,130 --> 00:12:32,410
+toward the hilus, and they
+don't, you know, these
+
+188
+00:12:32,410 --> 00:12:35,630
+lymphatic vessels are
+really found in the
+
+189
+00:12:35,630 --> 00:12:38,410
+cortex, and they're absent
+from the renal medulla.
+
+190
+00:12:40,270 --> 00:12:43,790
+The functional unit
+of the kidney is the
+
+191
+00:12:43,790 --> 00:12:47,790
+nephron, and we have
+about a million of them,
+
+192
+00:12:47,790 --> 00:12:51,510
+you know, anywhere
+between 800,000 to 1.2
+
+193
+00:12:51,510 --> 00:12:55,810
+million nephrons per
+kidney. That actually is
+
+194
+00:12:57,610 --> 00:13:02,450
+relatively equal
+in male and female
+
+195
+00:13:04,290 --> 00:13:08,390
+kidneys. Interesting
+enough, that number
+
+196
+00:13:08,390 --> 00:13:10,450
+is also similar in
+different species.
+
+197
+00:13:10,650 --> 00:13:14,550
+So rats have about a million
+nephrons, which always
+
+198
+00:13:14,550 --> 00:13:17,190
+puzzles them because
+their kidneys are this
+
+199
+00:13:17,190 --> 00:13:21,710
+big compared to ours, which
+is the size of a fist.
+
+200
+00:13:21,930 --> 00:13:26,650
+But each nephron consists
+of a glomerulus and a
+
+201
+00:13:26,650 --> 00:13:30,370
+tubule, and this schematic
+here that I made kind of
+
+202
+00:13:30,370 --> 00:13:36,890
+indicates that glomeruli
+coming from the afferent
+
+203
+00:13:36,890 --> 00:13:42,950
+arterial leaving through
+the efferent arteriole, the
+
+204
+00:13:42,950 --> 00:13:47,050
+glomerular capillaries,
+and then the epithelial
+
+205
+00:13:47,050 --> 00:13:51,490
+structures that constitute
+the nephron. So each nephron
+
+206
+00:13:51,490 --> 00:13:55,890
+is independent until it
+reaches the collecting
+
+207
+00:13:56,350 --> 00:14:00,890
+tubules, and you can see
+that here, different nephrons
+
+208
+00:14:00,890 --> 00:14:06,770
+will all result in the
+same, end up in the same
+
+209
+00:14:11,050 --> 00:14:14,850
+collecting ducts. So
+there are two populations
+
+210
+00:14:14,850 --> 00:14:17,390
+of nephrons within the
+renal cortex. We have
+
+211
+00:14:17,390 --> 00:14:20,910
+superficial nephrons,
+which have very short loops
+
+212
+00:14:21,160 --> 00:14:23,770
+extending to the boundary
+between the outer
+
+213
+00:14:23,770 --> 00:14:28,510
+and inner medulla. And
+as I mentioned before,
+
+214
+00:14:28,670 --> 00:14:31,570
+the juxtamedullary nephrons
+that are associated
+
+215
+00:14:31,570 --> 00:14:35,710
+with juxtamedullary
+glomeruli, and they play a
+
+216
+00:14:35,710 --> 00:14:38,490
+special role in her
+production of concentrated
+
+217
+00:14:38,490 --> 00:14:42,070
+urine, with long loops
+extending into the medulla.
+
+218
+00:14:43,130 --> 00:14:48,190
+So initially, we have
+the renal corpuscle,
+
+219
+00:14:48,190 --> 00:14:51,470
+and this is the renal
+corpuscle is here,
+
+220
+00:14:51,630 --> 00:14:54,970
+consists of the glomerulus
+and the Bowman's capsule.
+
+221
+00:14:56,390 --> 00:14:59,050
+It's the cytoformation
+of the glomerular
+
+222
+00:14:59,050 --> 00:15:02,170
+filtrate, compromising
+of the glomerulus,
+
+223
+00:15:03,990 --> 00:15:08,570
+tubule, and Bowman's capsule,
+the glomerular capsule.
+
+224
+00:15:12,110 --> 00:15:14,090
+I should have
+mentioned the tubule
+
+225
+00:15:14,090 --> 00:15:17,170
+associated with that,
+so this whole thing is
+
+226
+00:15:19,050 --> 00:15:23,750
+constitutes that. The
+tubular glomerulus is a
+
+227
+00:15:23,750 --> 00:15:26,110
+cluster of capillaries
+from which plasma
+
+228
+00:15:26,110 --> 00:15:30,310
+filtrate originates. Our
+tubules are epithelial
+
+229
+00:15:30,310 --> 00:15:33,590
+structures. They're
+subdivided into different
+
+230
+00:15:34,810 --> 00:15:39,030
+histologically and
+functionally distinct sections.
+
+231
+00:15:39,030 --> 00:15:43,290
+You can detect them under
+normal histology and
+
+232
+00:15:43,290 --> 00:15:46,870
+under EEM very clearly.
+And then we have Bowman's
+
+233
+00:15:46,870 --> 00:15:49,850
+capsule, the glomerular
+capsule up here. It's
+
+234
+00:15:49,850 --> 00:15:53,470
+an epithelial structure
+surrounding the glomerulus.
+
+235
+00:15:53,470 --> 00:15:58,970
+And inside the Bowman's
+capsule, in between the
+
+236
+00:15:58,970 --> 00:16:02,230
+two epithelial layers,
+we have Bowman's space.
+
+237
+00:16:02,530 --> 00:16:07,330
+Bowman's space becomes
+contiguous with the lumen
+
+238
+00:16:07,330 --> 00:16:11,710
+of the nephron. What comes
+out of the glomerulus
+
+239
+00:16:11,710 --> 00:16:15,170
+into Bowman's space
+is the ultrafiltrate,
+
+240
+00:16:15,170 --> 00:16:20,350
+and what comes out of
+the nephron is urine. So
+
+241
+00:16:20,350 --> 00:16:25,330
+you go from plasma to
+ultrafiltrate to urine.
+
+242
+00:16:28,190 --> 00:16:31,830
+And Bowman's space,
+obviously, is the
+
+243
+00:16:31,830 --> 00:16:34,390
+space between the
+parietal layer, the
+
+244
+00:16:34,390 --> 00:16:37,630
+inner layer, and
+glomerular capillaries.
+
+245
+00:16:44,070 --> 00:16:47,550
+Embryologically, the
+urinary system is derived
+
+246
+00:16:47,550 --> 00:16:52,150
+from the uretric bud from
+the collecting duct to
+
+247
+00:16:52,150 --> 00:16:55,210
+the ureters. The tubular
+epithelium between
+
+248
+00:16:55,210 --> 00:16:59,470
+Bowman's capsule and the
+connecting ducts arise from
+
+249
+00:16:59,470 --> 00:17:02,950
+condensed mesenchymal
+cells, and the proximal
+
+250
+00:17:02,950 --> 00:17:05,710
+end of the tubular
+epithelium, which is the
+
+251
+00:17:05,710 --> 00:17:10,310
+proximal tubules, attaches
+to the vascular bundle
+
+252
+00:17:10,310 --> 00:17:14,110
+that develops into the
+glomerular capillary tuft.
+
+253
+00:17:15,050 --> 00:17:19,470
+The thinning of one
+end of the epithelium
+
+254
+00:17:19,470 --> 00:17:22,970
+leads to the emergence
+of the parietal layer.
+
+255
+00:17:23,150 --> 00:17:25,990
+So this is the parietal layer,
+
+256
+00:17:26,650 --> 00:17:31,170
+right? The ones that
+surrounds Bowman's capsule.
+
+257
+00:17:33,730 --> 00:17:37,430
+And the other side
+will thicken and just
+
+258
+00:17:37,430 --> 00:17:39,930
+attach to the
+glomerular capillaries.
+
+259
+00:17:40,650 --> 00:17:46,730
+These visceral epithelial
+cells will later fold
+
+260
+00:17:46,730 --> 00:17:51,010
+into cells called podocytes,
+and you can see them
+
+261
+00:17:51,010 --> 00:17:54,970
+here in this EM. They sit
+on top of capillaries.
+
+262
+00:17:55,970 --> 00:17:59,250
+You can see them attached here,
+
+263
+00:18:00,730 --> 00:18:01,650
+right,
+
+264
+00:18:04,110 --> 00:18:07,090
+the EM. And these podocytes are
+
+265
+00:18:07,090 --> 00:18:10,050
+modified epithelial
+cells. Remember,
+
+266
+00:18:10,610 --> 00:18:12,470
+like pericytes.
+
+267
+00:18:13,130 --> 00:18:17,110
+Again, they represent the
+visceral layer of Bowman's
+
+268
+00:18:17,110 --> 00:18:20,730
+capsule, and they're continuous
+with the parietal layer
+
+269
+00:18:20,730 --> 00:18:23,810
+of Bowman's capsule. They
+have contractile ability.
+
+270
+00:18:25,790 --> 00:18:28,250
+So they're epithelial cells
+
+271
+00:18:28,250 --> 00:18:30,630
+with contractile elements.
+
+272
+00:18:31,430 --> 00:18:33,210
+And as I said before,
+
+273
+00:18:33,550 --> 00:18:37,470
+ultrafiltrate will
+drain from Bowman's
+
+274
+00:18:37,470 --> 00:18:43,450
+capsule into the tubule
+and into the proximal
+
+275
+00:18:43,450 --> 00:18:46,150
+tubule and then further
+into the nephron.
+
+276
+00:18:51,750 --> 00:18:57,630
+Coming out of the glomerulus
+has to go through the
+
+277
+00:18:57,630 --> 00:19:00,490
+glomerular filtration barrier.
+So what is the glomerular
+
+278
+00:19:00,490 --> 00:19:05,270
+filtration barrier? So in
+a mature kidney, one of the
+
+279
+00:19:05,270 --> 00:19:08,190
+things that we see are
+the podocytes covering the
+
+280
+00:19:08,190 --> 00:19:12,210
+glomerular capillaries. And
+this EM shows that very nicely.
+
+281
+00:19:12,210 --> 00:19:17,230
+You can see the cell body
+in purple and of one. You
+
+282
+00:19:17,230 --> 00:19:22,950
+can see the cell body of
+another one in green. So you
+
+283
+00:19:22,950 --> 00:19:26,150
+can see that their foot
+processes interdigitate with
+
+284
+00:19:26,150 --> 00:19:31,710
+each other. So if the
+glomerulus is inside my hands,
+
+285
+00:19:31,830 --> 00:19:36,870
+you can say that each
+hand is one protocyte, and
+
+286
+00:19:36,870 --> 00:19:43,530
+they will go around the
+glomerulus and creating a
+
+287
+00:19:43,530 --> 00:19:51,670
+network of projections of
+endothelial cells, the glomerular
+
+288
+00:19:51,670 --> 00:19:56,190
+endothelial cells will
+secrete the glycocalyx.
+
+289
+00:19:57,810 --> 00:20:02,890
+These are negatively
+charged glycosaminoglycans,
+
+290
+00:20:02,890 --> 00:20:10,450
+and this deposition is
+a charge barrier, so it
+
+291
+00:20:10,450 --> 00:20:13,550
+prevents the leakage of
+large negatively charged
+
+292
+00:20:13,550 --> 00:20:19,850
+macromolecules. The endothelial
+cells are fenestrated,
+
+293
+00:20:19,850 --> 00:20:22,710
+very large fenestration.
+They're not sinusoidal,
+
+294
+00:20:22,710 --> 00:20:25,890
+they're still fenestrated,
+but large fenestrations,
+
+295
+00:20:25,890 --> 00:20:30,230
+and they don't have any
+restrictions to either
+
+296
+00:20:30,230 --> 00:20:34,930
+water, small solutes,
+electrolytes, and small
+
+297
+00:20:34,930 --> 00:20:38,870
+proteins out of the capillary,
+peptides specifically.
+
+298
+00:20:39,410 --> 00:20:42,570
+And the basement membrane
+between the endothelial
+
+299
+00:20:42,570 --> 00:20:48,370
+cells and the protocyte
+has three layers, the inner
+
+300
+00:20:48,370 --> 00:20:52,050
+thinner layer, the thick
+layer, and the outer thinner
+
+301
+00:20:52,050 --> 00:20:56,070
+layer. And they also
+contain the heparan sulfate
+
+302
+00:20:56,070 --> 00:21:01,350
+proteoglycans. So the basement
+membrane and the glycocalyx
+
+303
+00:21:01,350 --> 00:21:07,950
+together form a very
+large negatively charged
+
+304
+00:21:07,950 --> 00:21:21,330
+net that stops the filtration
+of negatively charged
+
+305
+00:21:22,370 --> 00:21:27,270
+proteins and any cell
+that's trying to get into
+
+306
+00:21:28,030 --> 00:21:33,010
+glomerular space because
+they have the cell membrane,
+
+307
+00:21:33,100 --> 00:21:36,960
+the phospholipids will give
+it a net negative charge.
+
+308
+00:21:39,670 --> 00:21:43,730
+So the podocytes, again,
+
+309
+00:21:44,730 --> 00:21:48,030
+they have, you know,
+they have put processes
+
+310
+00:21:51,610 --> 00:21:54,870
+that give you secondary,
+primary and secondary
+
+311
+00:21:55,530 --> 00:21:58,030
+processes that are
+linked to the cell body.
+
+312
+00:21:58,030 --> 00:22:00,890
+These are called petty
+cells. You can actually
+
+313
+00:22:00,890 --> 00:22:02,770
+see the petty cells and
+you can actually see
+
+314
+00:22:02,770 --> 00:22:06,470
+them under EM, but under
+the EM, you can really
+
+315
+00:22:06,470 --> 00:22:10,450
+see the distinction
+between the fenestrations
+
+316
+00:22:11,590 --> 00:22:13,350
+indicated here.
+
+317
+00:22:18,540 --> 00:22:26,880
+Where did my...
+Fenestrations are...
+
+318
+00:22:26,880 --> 00:22:29,880
+Sorry. You can see
+the fenestrated
+
+319
+00:22:30,520 --> 00:22:33,880
+endothelium here,
+and the pedicels are
+
+320
+00:22:33,880 --> 00:22:36,740
+these foot processes
+that stick out.
+
+321
+00:22:37,540 --> 00:22:40,340
+They are connected
+by slit diagrams,
+
+322
+00:22:40,940 --> 00:22:42,600
+diaphragms, excuse me.
+
+323
+00:22:42,960 --> 00:22:46,700
+These are filtration slits, and
+
+324
+00:22:46,700 --> 00:22:49,420
+they are controlled. They have
+
+325
+00:22:50,140 --> 00:22:53,140
+diaphragms that can
+manipulate their
+
+326
+00:22:53,140 --> 00:22:56,560
+width anywhere from
+4 to 14 nanometers.
+
+327
+00:22:58,470 --> 00:23:00,940
+And then you have
+a lot of large
+
+328
+00:23:00,940 --> 00:23:03,720
+negatively charged
+glycoproteins
+
+329
+00:23:04,260 --> 00:23:07,740
+that cover the
+protocyte cell body.
+
+330
+00:23:08,020 --> 00:23:10,660
+And again, these contribute to
+
+331
+00:23:10,660 --> 00:23:13,520
+the restriction
+of large anions.
+
+332
+00:23:13,720 --> 00:23:19,500
+So it's important the
+integrity of the slit diaphragm
+
+333
+00:23:19,500 --> 00:23:23,540
+and the PETI cells are
+maintained by a number of
+
+334
+00:23:23,540 --> 00:23:27,740
+different integral membrane
+proteins, such as nephrin-1,
+
+335
+00:23:27,960 --> 00:23:31,580
+neph-1, also known as
+Curel1 and Potosin.
+
+336
+00:23:31,580 --> 00:23:34,160
+Why are these
+important? Well, they
+
+337
+00:23:34,160 --> 00:23:37,720
+can be manipulated
+by phosphorylation
+
+338
+00:23:38,560 --> 00:23:42,720
+and they can change
+permeability according to
+
+339
+00:23:42,720 --> 00:23:46,280
+phosphorylation. And any
+kind of defect or damage to
+
+340
+00:23:46,280 --> 00:23:50,060
+these proteins can make
+the barriers leaky and
+
+341
+00:23:50,060 --> 00:23:52,980
+result in the appearance
+of large proteins, such as
+
+342
+00:23:52,980 --> 00:23:57,460
+albumin in the urines.
+So, for example, nephrotic
+
+343
+00:23:57,460 --> 00:24:01,700
+syndrome is an example
+of one that a defect in
+
+344
+00:24:01,700 --> 00:24:09,400
+these proteins leads to
+albumin in ultrafiltrate.
+
+345
+00:24:10,720 --> 00:24:14,840
+Mesangial cells are
+incredibly important. Unlike
+
+346
+00:24:14,840 --> 00:24:18,600
+potocytes, they originate
+from embryonic mesangial
+
+347
+00:24:18,600 --> 00:24:23,260
+cells, and they're integral
+to maintaining structural
+
+348
+00:24:23,260 --> 00:24:27,680
+integrity of the glomerular
+microvasculature.
+
+349
+00:24:27,680 --> 00:24:31,160
+They're smooth muscle-like.
+They are more like smooth
+
+350
+00:24:31,160 --> 00:24:34,000
+muscle than they are like
+epithelial cells, even
+
+351
+00:24:34,000 --> 00:24:40,100
+though they are still not
+considered to be vascular
+
+352
+00:24:40,100 --> 00:24:42,810
+smooth muscle cells. They
+have a lot of similarities,
+
+353
+00:24:43,260 --> 00:24:47,300
+but they have contractile
+properties similar to
+
+354
+00:24:47,300 --> 00:24:51,200
+vascular smooth muscle cells.
+and compounds that affect
+
+355
+00:24:51,200 --> 00:24:53,800
+vascular smooth muscle
+cells and the arterioles
+
+356
+00:24:53,800 --> 00:24:58,680
+will usually have the same
+effects on mesangial cells.
+
+357
+00:24:58,720 --> 00:25:02,200
+Their main role is to
+influence glomerular filtration
+
+358
+00:25:02,200 --> 00:25:07,580
+rate by regulating blood
+flow of the glomerular
+
+359
+00:25:07,580 --> 00:25:10,700
+capillaries or by altering
+the capillary surface
+
+360
+00:25:10,700 --> 00:25:16,420
+area, right, affecting
+filtration coefficient. They
+
+361
+00:25:16,420 --> 00:25:20,180
+also are important in
+secreting the extracellular
+
+362
+00:25:20,180 --> 00:25:26,640
+matrix, and they have
+phagocytic activity by removing
+
+363
+00:25:26,690 --> 00:25:29,720
+macromolecules from
+mesangium and getting rid of
+
+364
+00:25:29,720 --> 00:25:33,440
+them. So they kind of have
+a macrophage-like phenotype
+
+365
+00:25:33,950 --> 00:25:38,520
+and vascular smooth muscle
+cell-like phenotype.
+
+366
+00:25:39,140 --> 00:25:42,440
+And they secrete a
+variety of different
+
+367
+00:25:44,680 --> 00:25:47,260
+autocrine and
+paracrine mediators,
+
+368
+00:25:47,260 --> 00:25:50,080
+such as prostaglandins
+and cytokines.
+
+369
+00:25:51,580 --> 00:25:56,800
+You can find mesangial
+cells also outside of the
+
+370
+00:25:56,800 --> 00:26:00,640
+glomerular, extra-glomerular
+mesangial cells. And these
+
+371
+00:26:00,640 --> 00:26:03,240
+are found outside of the
+glomerular, right? It's
+
+372
+00:26:03,240 --> 00:26:05,820
+very easy. If it's extra
+-glomerular, you can find
+
+373
+00:26:05,820 --> 00:26:08,860
+them outside the glomerulus.
+They're usually found
+
+374
+00:26:08,860 --> 00:26:12,160
+between the afferent and
+efferent arterioles and they
+
+375
+00:26:12,160 --> 00:26:17,280
+interact with an area, a
+specialized area near the
+
+376
+00:26:17,280 --> 00:26:20,180
+glomerulus called the
+macula densa. These are
+
+377
+00:26:20,180 --> 00:26:24,500
+specialized tubular epithelial
+cells and they're granular
+
+378
+00:26:24,500 --> 00:26:28,780
+cells and they form
+a complex called the
+
+379
+00:26:28,780 --> 00:26:34,260
+juxtaglomerular apparatus.
+And the JGA, we'll go into its
+
+380
+00:26:34,260 --> 00:26:38,780
+functions later on, is one
+of the components of the
+
+381
+00:26:38,780 --> 00:26:46,420
+mechanisms known for
+maintaining homeostasis by
+
+382
+00:26:46,420 --> 00:26:49,580
+activating the tubular
+glomerular feedback mechanism.
+
+383
+00:26:51,140 --> 00:26:56,020
+How about the tubular
+components of the nephron?
+
+384
+00:26:56,260 --> 00:26:58,900
+So they're derived
+from the uretric bud
+
+385
+00:26:58,900 --> 00:27:02,160
+and metanephrine
+blastema, and this is the
+
+386
+00:27:02,160 --> 00:27:05,440
+epithelial structure
+that creates urine.
+
+387
+00:27:06,200 --> 00:27:10,900
+I have it indicated here
+on the right-hand side.
+
+388
+00:27:11,000 --> 00:27:15,080
+I have it indicated also
+in urine in yellow to
+
+389
+00:27:15,080 --> 00:27:17,860
+kind of give it the idea
+that this is where we
+
+390
+00:27:17,860 --> 00:27:21,880
+have urine and what color
+and the role it does.
+
+391
+00:27:22,960 --> 00:27:26,300
+So again, Bowman's capsule,
+glomerular capsule,
+
+392
+00:27:26,300 --> 00:27:29,100
+surrounds the glomerulus
+and contains Bowman's
+
+393
+00:27:29,100 --> 00:27:32,820
+space. First thing out of
+the Bowman's capsule are
+
+394
+00:27:32,820 --> 00:27:36,100
+the proximal tubules.
+Proximal tubules are divided
+
+395
+00:27:36,100 --> 00:27:38,820
+into three segments based
+on their appearance.
+
+396
+00:27:38,820 --> 00:27:44,260
+The first section,
+macroscopically, you can
+
+397
+00:27:44,260 --> 00:27:46,560
+detect it. It's the
+proximal convoluted
+
+398
+00:27:46,560 --> 00:27:49,600
+tubule. You can naturally
+see it wind around.
+
+399
+00:27:49,780 --> 00:27:54,260
+It's also broken down
+into three sections, and
+
+400
+00:27:54,260 --> 00:27:58,020
+sections one and two, S1
+and S2, constitute the
+
+401
+00:27:58,020 --> 00:28:02,080
+proximal convoluted tubule.
+These are, they have
+
+402
+00:28:02,080 --> 00:28:08,400
+extensive microvilli
+and some in their apical
+
+403
+00:28:10,600 --> 00:28:13,320
+site. Remember, these
+are all epithelial cells,
+
+404
+00:28:13,320 --> 00:28:16,400
+so they're highly polar.
+They have basolateral and
+
+405
+00:28:16,400 --> 00:28:21,760
+apical. Apical faces
+the urine, the lumen,
+
+406
+00:28:21,760 --> 00:28:27,520
+inside of the nephron, and
+the basolateral sits on
+
+407
+00:28:29,680 --> 00:28:34,380
+the basement membrane and
+faces the interstitial.
+
+408
+00:28:37,100 --> 00:28:41,640
+They are extremely
+mitochondria-rich. In fact,
+
+409
+00:28:41,640 --> 00:28:43,360
+you know, I've actually
+looked at them under
+
+410
+00:28:45,080 --> 00:28:48,620
+the electron microscope.
+You can compare the density
+
+411
+00:28:48,620 --> 00:28:53,820
+of their mitochondria to
+energetic tissues like
+
+412
+00:28:53,820 --> 00:28:57,920
+the heart. So they're
+really an important source
+
+413
+00:28:58,820 --> 00:29:03,860
+of energy for the function
+that they have. And then
+
+414
+00:29:03,860 --> 00:29:07,840
+you have at the terminal
+end of the proximal tubule,
+
+415
+00:29:07,840 --> 00:29:11,440
+you'll have the proximal
+straight tubule, PST.
+
+416
+00:29:11,440 --> 00:29:15,460
+And this is the last
+part of the S2 and the S3
+
+417
+00:29:15,460 --> 00:29:18,720
+sections. These cells have
+diminished ultrastructural
+
+418
+00:29:18,720 --> 00:29:23,420
+complexity compared to
+proximal convoluted tubule.
+
+419
+00:29:23,900 --> 00:29:26,420
+From there, you go to
+the thin descending
+
+420
+00:29:26,420 --> 00:29:29,140
+limb, and the thin
+descending limb,
+
+421
+00:29:29,760 --> 00:29:32,700
+then you go into the loop
+of Henle, and then to
+
+422
+00:29:32,700 --> 00:29:35,920
+the thin ascending limb.
+The thin descending
+
+423
+00:29:35,920 --> 00:29:39,420
+and thin ascending limbs
+are less complex and
+
+424
+00:29:39,420 --> 00:29:43,060
+have flatter cells than
+the proximal convoluted
+
+425
+00:29:43,640 --> 00:29:45,920
+tubule, either sections of it.
+
+426
+00:29:46,340 --> 00:29:50,240
+After the thin ascending,
+so now we were going,
+
+427
+00:29:50,240 --> 00:29:51,840
+you know, there's a
+directionality that we
+
+428
+00:29:51,840 --> 00:29:54,140
+have to follow here.
+So, you know, we've gone
+
+429
+00:29:54,140 --> 00:29:56,540
+this way and now we're
+going this way and now
+
+430
+00:29:56,540 --> 00:30:00,140
+we're coming back up and
+now we are here, right?
+
+431
+00:30:00,420 --> 00:30:05,140
+So the thick ascending
+limb of the loop of Henley,
+
+432
+00:30:05,260 --> 00:30:06,420
+tau.
+
+433
+00:30:06,560 --> 00:30:10,800
+These cells also have
+tall interdigitations,
+
+434
+00:30:10,800 --> 00:30:14,730
+and they're also
+energetically rich in
+
+435
+00:30:15,000 --> 00:30:19,000
+invaginated basolateral
+membranes, when
+
+436
+00:30:19,000 --> 00:30:23,640
+you see them under the
+electron microscope.
+
+437
+00:30:23,840 --> 00:30:29,960
+Then we proceed to the
+distal convoluted tubule,
+
+438
+00:30:30,870 --> 00:30:37,160
+here again convoluted,
+and then into the cortical
+
+439
+00:30:37,160 --> 00:30:41,140
+collecting duct and the
+medullary collecting ducts.
+
+440
+00:30:41,140 --> 00:30:44,720
+And the distal convoluted
+tubule, the cells
+
+441
+00:30:44,720 --> 00:30:47,060
+are similar to the
+thick ascending limb
+
+442
+00:30:49,860 --> 00:30:52,180
+morphologically.
+They respond to
+
+443
+00:30:52,180 --> 00:30:53,860
+different drugs and
+they have different
+
+444
+00:30:53,860 --> 00:30:57,380
+channel profiles,
+transporter profiles.
+
+445
+00:30:57,620 --> 00:31:01,060
+And then the cortical
+collecting duct has got two
+
+446
+00:31:01,060 --> 00:31:04,860
+very unique sets of cells
+called the principal and
+
+447
+00:31:04,860 --> 00:31:07,780
+intercalated cells. And we'll
+go over that when we talk
+
+448
+00:31:07,780 --> 00:31:10,840
+about some of the functionality
+of these sections.
+
+449
+00:31:11,180 --> 00:31:18,100
+And this is some EM of
+proximal convoluted tubule,
+
+450
+00:31:18,100 --> 00:31:22,600
+S1, S2, and S3. You can
+see that the length of
+
+451
+00:31:22,600 --> 00:31:28,620
+the brush border is higher
+in S1 compared to S2.
+
+452
+00:31:29,080 --> 00:31:35,540
+you can see the high
+number of mitochondria.
+
+453
+00:31:37,300 --> 00:31:40,620
+These are all mitochondria
+that you see here.
+
+454
+00:31:42,300 --> 00:31:47,740
+You know, I mean, you
+probably have to find better
+
+455
+00:31:47,740 --> 00:31:51,610
+ways than to visually
+compare the two, but these
+
+456
+00:31:51,860 --> 00:31:54,140
+are also a little bit
+shorter, and the brush
+
+457
+00:31:54,140 --> 00:31:56,760
+border is not as elaborate
+as you can find in the
+
+458
+00:31:57,450 --> 00:32:02,240
+PCT, but again, we don't
+want to really go that
+
+459
+00:32:02,240 --> 00:32:06,340
+much into the histological
+distinctions. Remember,
+
+460
+00:32:06,340 --> 00:32:08,880
+they face the lumen,
+which is very important.
+
+461
+00:32:10,700 --> 00:32:15,920
+So what are some of the
+functional distinction between
+
+462
+00:32:15,920 --> 00:32:19,460
+the sections of the nephron?
+Well, let's start off
+
+463
+00:32:19,460 --> 00:32:22,000
+with the proximal tubule,
+right? Proximal convoluted
+
+464
+00:32:22,000 --> 00:32:26,140
+tubule up here, right?
+proximal convoluted tubule.
+
+465
+00:32:26,280 --> 00:32:35,300
+So once the ultrafiltrate
+is absorbed, is created
+
+466
+00:32:35,300 --> 00:32:37,700
+in the glomerulus,
+the job of the nephron
+
+467
+00:32:37,700 --> 00:32:40,060
+is to take almost
+everything that can be used
+
+468
+00:32:40,060 --> 00:32:45,520
+that's usable and necessary
+back into the body.
+
+469
+00:32:45,880 --> 00:32:50,920
+That means 67% of the
+filtered water and
+
+470
+00:32:50,920 --> 00:32:56,120
+electrolytes are reabsorbed
+together, water and
+
+471
+00:32:56,120 --> 00:33:00,140
+electrolytes. So this is
+an isoosmotic reabsorption.
+
+472
+00:33:01,120 --> 00:33:06,100
+Also, it reabsorbs
+almost all the glucose
+
+473
+00:33:07,240 --> 00:33:10,480
+proteins, amino
+acids, and most of the
+
+474
+00:33:10,480 --> 00:33:13,320
+bicarbonate that's found
+in the ultrafiltrate.
+
+475
+00:33:14,160 --> 00:33:18,880
+This section is highly
+permeable to water due to the
+
+476
+00:33:19,300 --> 00:33:24,340
+non-regulated expression
+of aquaporin-1 in the
+
+477
+00:33:24,340 --> 00:33:28,160
+apical and basolateral
+membranes. So you have
+
+478
+00:33:28,160 --> 00:33:31,620
+a heavy driving force and
+you have high permeability.
+
+479
+00:33:31,620 --> 00:33:34,790
+So water goes right
+through these cells.
+
+480
+00:33:36,540 --> 00:33:40,480
+Thin descending limb
+of the loop of Henle
+
+481
+00:33:40,830 --> 00:33:44,940
+and the thin ascending
+limbs of loop of
+
+482
+00:33:44,940 --> 00:33:51,260
+Henle, they are
+relatively impermeable to
+
+483
+00:33:51,260 --> 00:33:55,180
+solutes, but they are
+permeable to water.
+
+484
+00:33:55,420 --> 00:33:59,120
+So water is reabsorbed,
+about 15% of
+
+485
+00:33:59,120 --> 00:34:03,200
+it reabsorbed in
+the thin descending
+
+486
+00:34:03,200 --> 00:34:07,760
+limb, also mediated
+by aquaporins. Um,
+
+487
+00:34:08,660 --> 00:34:13,880
+what is, what results
+in the ultrafiltrate
+
+488
+00:34:13,880 --> 00:34:20,960
+as it, uh, enters, leaves
+the thin ascending,
+
+489
+00:34:20,960 --> 00:34:23,100
+descending and
+ascending and reaches
+
+490
+00:34:23,100 --> 00:34:33,800
+the thick section is
+a very concentrated
+
+491
+00:34:37,510 --> 00:34:39,300
+ultrafiltrate,
+right? Because we've
+
+492
+00:34:39,300 --> 00:34:43,500
+gotten rid of water
+and we keep the salts.
+
+493
+00:34:44,080 --> 00:34:49,060
+So it's got higher
+concentration than
+
+494
+00:34:49,060 --> 00:34:53,020
+you would find in
+the proximal tubule.
+
+495
+00:34:53,190 --> 00:34:57,180
+You get to the thick
+ascending limb, then it flips.
+
+496
+00:34:57,460 --> 00:35:02,330
+It's impermeable to water.
+So water does not cross
+
+497
+00:35:02,330 --> 00:35:05,760
+the thick ascending limb
+of the loop of Henle.
+
+498
+00:35:05,760 --> 00:35:11,040
+It is incredibly permeable
+to sodium, chloride,
+
+499
+00:35:11,320 --> 00:35:12,520
+and potassium,
+
+500
+00:35:12,700 --> 00:35:13,560
+magnesium,
+
+501
+00:35:13,680 --> 00:35:14,720
+and calcium.
+
+502
+00:35:14,880 --> 00:35:22,800
+So sodium chloride is
+absorbed, potassium is both
+
+503
+00:35:22,990 --> 00:35:26,120
+reabsorbed and then
+secreted, and we'll go into
+
+504
+00:35:26,120 --> 00:35:30,120
+the distinctions later
+on, through transport
+
+505
+00:35:30,120 --> 00:35:38,580
+mechanisms. So these are
+transported via transporters.
+
+506
+00:35:45,530 --> 00:35:48,410
+Magnesium and
+calcium are absorbed
+
+507
+00:35:48,410 --> 00:35:53,860
+parasailally, so they
+go in between the cells.
+
+508
+00:35:56,350 --> 00:36:03,230
+And, you know, so if
+the cells are, you know,
+
+509
+00:36:03,230 --> 00:36:06,710
+if These are the
+thick ascending cells.
+
+510
+00:36:06,710 --> 00:36:10,990
+This is the lumen. This
+is the interstitium.
+
+511
+00:36:13,050 --> 00:36:18,730
+Calcium and magnesium
+will go in between,
+
+512
+00:36:19,090 --> 00:36:25,810
+not through these cells to
+get to the interstitium.
+
+513
+00:36:26,770 --> 00:36:31,790
+and then whatever is left
+of the bicarb that's not
+
+514
+00:36:31,880 --> 00:36:35,500
+reabsorbed in the proximal
+tubule is reabsorbed
+
+515
+00:36:35,500 --> 00:36:38,610
+in the thick ascending
+limb. And then the distal
+
+516
+00:36:38,610 --> 00:36:42,170
+convoluted tubule and the
+collecting ducts reabsorb
+
+517
+00:36:42,170 --> 00:36:45,730
+around 8% of the remaining
+sodium chloride and
+
+518
+00:36:45,730 --> 00:36:49,550
+they secrete variable
+amounts of either protons,
+
+519
+00:36:50,010 --> 00:36:55,370
+hydrogen ions, or potassium,
+depending on different
+
+520
+00:36:55,590 --> 00:37:00,550
+stimuli. And the water is
+also reabsorbed to a varying
+
+521
+00:37:00,550 --> 00:37:05,130
+degree, again, based on
+regulation by hormones.
+
+522
+00:37:05,440 --> 00:37:09,770
+So by the time you get
+to the urine, you have
+
+523
+00:37:09,770 --> 00:37:13,150
+basically reabsorbed
+almost all the sodium,
+
+524
+00:37:13,310 --> 00:37:17,410
+all the chloride, all
+the glucose, all the
+
+525
+00:37:17,410 --> 00:37:26,450
+amino acids, the
+majority of proteins, and
+
+526
+00:37:27,250 --> 00:37:30,410
+anything. And what's
+left is basically water,
+
+527
+00:37:30,950 --> 00:37:33,730
+a little bit of salt, and waste
+
+528
+00:37:33,730 --> 00:37:36,070
+products like urea
+and uric acid.
+
+529
+00:37:40,870 --> 00:37:47,470
+So, the solute and
+permeabilities are different
+
+530
+00:37:47,470 --> 00:37:50,230
+in each section of the
+nephron. And this is a
+
+531
+00:37:50,230 --> 00:37:54,510
+very, very broad viewpoint
+of it, breaking down.
+
+532
+00:37:54,510 --> 00:37:57,770
+And the numbers indicate
+the osmolarities in
+
+533
+00:37:57,770 --> 00:38:04,050
+the tubule as you're
+going through the nephron.
+
+534
+00:38:04,130 --> 00:38:09,230
+So the kidneys are
+amazing. They are
+
+535
+00:38:09,230 --> 00:38:12,050
+capable of producing
+a high range of
+
+536
+00:38:12,950 --> 00:38:15,810
+osmolalities in the
+urine, from high to low.
+
+537
+00:38:16,210 --> 00:38:18,250
+And they'll do that
+based on different
+
+538
+00:38:18,250 --> 00:38:19,950
+permeabilities and
+different functions.
+
+539
+00:38:20,450 --> 00:38:23,270
+And this is just general.
+Again, you know, we'll
+
+540
+00:38:23,270 --> 00:38:25,970
+go through specifics later
+on and how they do it.
+
+541
+00:38:26,230 --> 00:38:30,910
+Proximal tubule water
+reabsorption is paracellular,
+
+542
+00:38:30,910 --> 00:38:36,090
+while solute reabsorption is
+transcellular and paracellular.
+
+543
+00:38:36,090 --> 00:38:40,250
+If you go back to the
+last lecture to get the
+
+544
+00:38:40,250 --> 00:38:43,730
+distinction between trans
+and para, I suggest you do.
+
+545
+00:38:45,040 --> 00:38:48,250
+Thin descending limb
+of loop of Henle,
+
+546
+00:38:48,650 --> 00:38:52,790
+water reabsorption
+is paracellular,
+
+547
+00:38:53,250 --> 00:38:57,890
+solid reabsorption is minimal,
+so there's almost none,
+
+548
+00:38:57,890 --> 00:39:03,110
+so it's not really considered
+to be that important.
+
+549
+00:39:06,730 --> 00:39:10,030
+in the thin ascending
+loop of Henle.
+
+550
+00:39:10,290 --> 00:39:14,270
+There's very little
+water reabsorption, but
+
+551
+00:39:14,270 --> 00:39:17,230
+solute reabsorption is
+paracellular. There's
+
+552
+00:39:17,230 --> 00:39:19,470
+some water reabsorption,
+just not as much as
+
+553
+00:39:19,470 --> 00:39:21,450
+you would find in the
+thin descending limb.
+
+554
+00:39:22,170 --> 00:39:25,990
+This gets reinforced in
+the thick ascending limb,
+
+555
+00:39:25,990 --> 00:39:28,450
+where again, you have
+absolutely no water
+
+556
+00:39:28,450 --> 00:39:32,030
+reabsorption. And solute
+reabsorption, as I indicated
+
+557
+00:39:32,030 --> 00:39:35,810
+before, is both transcellular
+and paracellular.
+
+558
+00:39:35,970 --> 00:39:39,250
+Distal tubule, you
+don't have any water
+
+559
+00:39:39,250 --> 00:39:42,930
+reabsorption, and the
+solute reabsorption is
+
+560
+00:39:42,930 --> 00:39:46,470
+all paracellular. And
+the collecting duct,
+
+561
+00:39:46,920 --> 00:39:50,245
+the water reabsorption
+is transcellular,
+
+562
+00:39:50,590 --> 00:39:53,170
+again via aquaporins,
+every time,
+
+563
+00:39:58,050 --> 00:40:00,570
+and solute reabsorption is
+
+564
+00:40:00,570 --> 00:40:02,530
+transcellular and paracellular.
+
+565
+00:40:02,710 --> 00:40:03,410
+And
+
+566
+00:40:05,770 --> 00:40:12,040
+I'm going to correct myself
+and add both transcellular
+
+567
+00:40:12,040 --> 00:40:16,790
+and paracellular to
+the proximal tubule. I
+
+568
+00:40:16,790 --> 00:40:19,130
+apologize for missing that
+out. I don't want to give
+
+569
+00:40:19,130 --> 00:40:23,850
+you a false message, you
+know, conflicting messages,
+
+570
+00:40:24,460 --> 00:40:27,350
+because I did mention
+that there are aquaporins,
+
+571
+00:40:27,350 --> 00:40:31,320
+and they contribute to
+transcellular movement.
+
+572
+00:40:35,410 --> 00:40:39,070
+The JG apparatus, as I like
+to call the juxtaglomerular
+
+573
+00:40:39,070 --> 00:40:41,550
+apparatus, it's not me,
+everybody calls them that,
+
+574
+00:40:41,750 --> 00:40:45,450
+consists of extra
+glomerular mesangial cells,
+
+575
+00:40:45,450 --> 00:40:50,530
+the macula densa, and
+granular cells. And the macula
+
+576
+00:40:50,530 --> 00:40:52,670
+densa is a patch of
+specialized tubular
+
+577
+00:40:52,670 --> 00:40:56,830
+epithelial cells at the
+transition of the collecting
+
+578
+00:40:56,830 --> 00:41:00,430
+duct, distal collecting
+duct, and the thick
+
+579
+00:41:00,430 --> 00:41:07,210
+ascending limb. And it
+contacts the glomerulus that
+
+580
+00:41:10,270 --> 00:41:12,890
+is bound to the nephron.
+
+581
+00:41:13,940 --> 00:41:16,830
+These cells have large nuclei
+that are closely packed.
+
+582
+00:41:16,830 --> 00:41:19,710
+I indicated it here. So,
+you know, this is how we
+
+583
+00:41:19,710 --> 00:41:24,270
+usually indicate the nephron,
+right? But but really,
+
+584
+00:41:24,270 --> 00:41:26,490
+the ultra structure is a
+little bit different. If you
+
+585
+00:41:26,490 --> 00:41:30,090
+look here, you can see that
+the glomeruli here kind of
+
+586
+00:41:30,090 --> 00:41:34,830
+loops in or is here and the
+distal convoluted tubule
+
+587
+00:41:34,830 --> 00:41:40,310
+loops in and interacts with
+the afferent arterioles
+
+588
+00:41:40,310 --> 00:41:43,470
+and the glomerulus itself.
+And this little area here
+
+589
+00:41:43,470 --> 00:41:47,810
+is the macula densa, right?
+This area here becomes the
+
+590
+00:41:47,810 --> 00:41:51,310
+macula densa. And you can
+see it here. The granular
+
+591
+00:41:51,310 --> 00:41:54,170
+cells are very, very clear
+because they have granules
+
+592
+00:41:54,170 --> 00:41:59,050
+in them. And these granules
+are packed with an enzyme
+
+593
+00:41:59,050 --> 00:42:04,110
+called renin. And I will
+talk about renin in a couple
+
+594
+00:42:04,110 --> 00:42:07,890
+of cells. They're specialized
+smooth muscle cells.
+
+595
+00:42:08,290 --> 00:42:12,850
+They store and release
+the enzyme renin.
+
+596
+00:42:13,070 --> 00:42:16,290
+The JGA is part the
+feedback mechanism that
+
+597
+00:42:16,290 --> 00:42:18,230
+directly regulates
+renal blood flow and
+
+598
+00:42:18,230 --> 00:42:21,050
+filtration rates and
+indirectly modulates
+
+599
+00:42:21,050 --> 00:42:23,950
+sodium balance and
+systemic blood pressure.
+
+600
+00:42:25,000 --> 00:42:28,110
+And the two main
+roles, the first one is
+
+601
+00:42:28,110 --> 00:42:30,670
+tubular glomerular
+feedback, and that's the
+
+602
+00:42:30,670 --> 00:42:33,350
+regulation of glomerular
+filtration rate
+
+603
+00:42:33,490 --> 00:42:39,770
+depending on water and
+sodium chloride load reaching
+
+604
+00:42:39,770 --> 00:42:44,830
+the macula densa. So the
+more macula, the more the
+
+605
+00:42:44,830 --> 00:42:49,510
+macula densa senses a higher
+load. A higher load to the
+
+606
+00:42:49,790 --> 00:42:53,770
+macula densa means
+less water, so it
+
+607
+00:42:53,770 --> 00:42:56,990
+stimulates processes
+to retain water,
+
+608
+00:42:57,270 --> 00:43:02,670
+vice versa. If it's too
+dilute, it stops it, so
+
+609
+00:43:02,670 --> 00:43:07,930
+you end up losing more
+water to maintain the
+
+610
+00:43:07,930 --> 00:43:13,350
+balance. It also controls
+renal blood flow, detects
+
+611
+00:43:13,350 --> 00:43:15,390
+changes in the pressure
+of the renal artery
+
+612
+00:43:15,390 --> 00:43:21,210
+via baroreceptors in the
+afferent arterioles to
+
+613
+00:43:21,210 --> 00:43:24,690
+regulate the renin-angiotensin
+aldosterone system.
+
+614
+00:43:24,690 --> 00:43:27,610
+So it's pronounced
+renin in the dictionary.
+
+615
+00:43:28,110 --> 00:43:29,730
+That's how it's pronounced.
+
+616
+00:43:29,770 --> 00:43:32,410
+Some people pronounce
+renin. It's wrong.
+
+617
+00:43:32,410 --> 00:43:34,650
+Do not pronounce it
+renin. It's renin.
+
+618
+00:43:35,990 --> 00:43:39,590
+so make sure that you
+pronounce it correctly.
+
+619
+00:43:39,930 --> 00:43:44,550
+The innervation is by the
+sympathetic nervous system.
+
+620
+00:43:44,590 --> 00:43:48,030
+There is no parasympathetic
+nervous system
+
+621
+00:43:49,610 --> 00:43:53,450
+innervation in the
+kidney. It is a
+
+622
+00:43:53,450 --> 00:43:54,970
+unique system. It's
+one of the unique
+
+623
+00:43:54,970 --> 00:43:57,010
+systems that you
+only get sympathetic.
+
+624
+00:43:57,810 --> 00:44:02,290
+The three major effects
+are vasoconstriction,
+
+625
+00:44:02,290 --> 00:44:06,790
+enhanced sodium reabsorption
+by proximal tubule, and
+
+626
+00:44:06,790 --> 00:44:11,070
+stimulation of renin
+secretion by norepinephrine.
+
+627
+00:44:11,210 --> 00:44:15,010
+Again, this is normal
+autonomic physiology.
+
+628
+00:44:15,160 --> 00:44:19,590
+Norepinephrine will act on
+our arteries, arterioles, on
+
+629
+00:44:19,590 --> 00:44:22,710
+smooth muscle cells,
+specifically alpha-1 receptors
+
+630
+00:44:22,710 --> 00:44:26,310
+to cause vasoconstriction.
+It acts on alpha-1, alpha
+
+631
+00:44:26,310 --> 00:44:30,190
+-2 receptors on proxima
+tubular cells to enhance
+
+632
+00:44:30,190 --> 00:44:35,230
+sodium reabsorption, and
+beta-1 receptors on granular
+
+633
+00:44:35,230 --> 00:44:40,070
+cells on the JG apparatus
+to stimulate renin. It's
+
+634
+00:44:40,070 --> 00:44:43,850
+got afferent innervation.
+The afferents are sensory
+
+635
+00:44:43,850 --> 00:44:47,730
+fibers. They detect
+baroreceptor and chemoreceptor
+
+636
+00:44:47,730 --> 00:44:53,070
+influences to maintain
+perfusion pressure and
+
+637
+00:44:53,210 --> 00:44:58,930
+make sure that our electrolyte
+balances are normal.
+
+638
+00:44:58,930 --> 00:45:04,260
+And of course, it's got
+pain receptors for injury.
+
+639
+00:45:08,040 --> 00:45:13,070
+The other important
+section that we have to be
+
+640
+00:45:13,070 --> 00:45:14,830
+aware about is the role of
+
+641
+00:45:14,830 --> 00:45:17,510
+kidney as an endocrine organ.
+
+642
+00:45:18,150 --> 00:45:22,270
+So it produces
+renin, it produces
+
+643
+00:45:22,930 --> 00:45:26,310
+vitamin D and erythropoietin.
+
+644
+00:45:27,510 --> 00:45:32,430
+Paracrine, it produces
+bradykinin and prostaglandins
+
+645
+00:45:33,290 --> 00:45:37,830
+that can act locally to
+control local circulation.
+
+646
+00:45:39,690 --> 00:45:41,430
+The definitions are here.
+
+647
+00:45:41,670 --> 00:45:44,650
+Renin, I'll start off with
+that. We'll go back to
+
+648
+00:45:44,650 --> 00:45:48,970
+the renin and its role in
+later slides. But as an
+
+649
+00:45:48,970 --> 00:45:53,860
+introduction, it's an enzyme,
+also called angiotensinogenase,
+
+650
+00:45:55,840 --> 00:45:59,150
+commonly known as renin.
+It's an enzyme that
+
+651
+00:45:59,150 --> 00:46:03,250
+initiates the renin
+-angiotensin-aldosterone system.
+
+652
+00:46:06,070 --> 00:46:12,790
+and it's a plasma protein
+30 to 50 kilodalton plasma
+
+653
+00:46:12,790 --> 00:46:17,690
+protein and what it does
+it by definition right
+
+654
+00:46:17,690 --> 00:46:22,370
+it's an angiotensinogenase it
+metabolizes angiotensinogen
+
+655
+00:46:22,370 --> 00:46:25,090
+which is a liver protein
+a big one it's an
+
+656
+00:46:25,090 --> 00:46:28,710
+alpha 1 globulin 452
+amino acids i don't expect
+
+657
+00:46:28,710 --> 00:46:31,530
+anybody to memorize amino
+acids by the way. Just know
+
+658
+00:46:31,530 --> 00:46:35,570
+the generalities and, you
+know, and what they mean,
+
+659
+00:46:35,590 --> 00:46:39,250
+right? So renin is released
+in the plasma. What
+
+660
+00:46:39,250 --> 00:46:43,470
+it will do, it will cleave
+off a 10 amino acid piece
+
+661
+00:46:43,470 --> 00:46:47,330
+of angiotensinogen, and
+that's angiotensin 1.
+
+662
+00:46:47,350 --> 00:46:52,850
+Angiotensin 1 has no biological
+activity. It requires
+
+663
+00:46:53,850 --> 00:46:56,270
+conversion by an enzyme called
+
+664
+00:46:56,270 --> 00:46:58,510
+angiotensin converting enzyme.
+
+665
+00:46:58,650 --> 00:47:02,810
+Angiotensin converting enzyme
+is found on the endothelial
+
+666
+00:47:02,810 --> 00:47:10,530
+surface of the cardiovascular
+system. However,
+
+667
+00:47:10,570 --> 00:47:14,190
+a lot of the times you
+will hear saying that this
+
+668
+00:47:14,190 --> 00:47:17,770
+conversion occurs in the
+lung. And that's more, that
+
+669
+00:47:17,770 --> 00:47:21,790
+has more to do with how the
+blood flow is regulated.
+
+670
+00:47:21,790 --> 00:47:27,730
+As we said, what percentage
+of, you know, I'm not
+
+671
+00:47:27,730 --> 00:47:32,590
+asking Socratic questions in
+a Zoom session, excuse me.
+
+672
+00:47:32,590 --> 00:47:38,510
+We said that kidneys get
+20-25% of cardiac output,
+
+673
+00:47:39,010 --> 00:47:43,970
+right? So 20-25% of the
+cardiac output comes
+
+674
+00:47:43,970 --> 00:47:46,690
+out, goes into the
+kidney, will come back
+
+675
+00:47:46,690 --> 00:47:49,970
+out, out of the veins.
+So the two kidneys
+
+676
+00:47:50,530 --> 00:47:54,470
+will bring back
+20-25 percent of
+
+677
+00:47:54,470 --> 00:47:56,670
+the total blood volume, right?
+
+678
+00:47:57,250 --> 00:48:02,470
+The rest of the systems
+are feeding into that.
+
+679
+00:48:02,470 --> 00:48:04,450
+So when our venous
+return was going back
+
+680
+00:48:04,450 --> 00:48:09,240
+into our heart, um, is
+now a mix of different
+
+681
+00:48:09,650 --> 00:48:12,190
+blood from different, uh,
+
+682
+00:48:12,490 --> 00:48:15,010
+tissues. One of
+them has got rena,
+
+683
+00:48:15,010 --> 00:48:16,980
+and now we want to metabolize,
+
+684
+00:48:17,830 --> 00:48:21,910
+and who's been, that's got
+angiotensin 1. So what we
+
+685
+00:48:21,910 --> 00:48:24,590
+want to do is make sure
+that all the angiotensin 1
+
+686
+00:48:24,590 --> 00:48:28,710
+is metabolized into
+angiotensin 2. And the best
+
+687
+00:48:28,710 --> 00:48:32,640
+place for it to do that is in
+the lungs. Because remember,
+
+688
+00:48:32,730 --> 00:48:35,130
+our blood comes from
+the veins into the right
+
+689
+00:48:35,130 --> 00:48:38,650
+side of the heart, comes
+out of the right ventricle,
+
+690
+00:48:38,650 --> 00:48:44,610
+and 100% of the blood output
+for each beat comes out
+
+691
+00:48:44,610 --> 00:48:47,330
+and goes into the lungs.
+So it's a really great
+
+692
+00:48:47,330 --> 00:48:53,730
+way to get angiotensin II,
+which is the effector molecule
+
+693
+00:48:53,730 --> 00:48:56,810
+of the renin-angiotensin
+system. What does Ang
+
+694
+00:48:56,810 --> 00:49:00,610
+II do? Well, it stimulates
+sodium reabsorption,
+
+695
+00:49:00,610 --> 00:49:04,630
+vasoconstriction, elastone
+secretion, and antidiuretic
+
+696
+00:49:04,630 --> 00:49:08,770
+hormone secretion, and will
+go into its physiology.
+
+697
+00:49:10,090 --> 00:49:14,550
+It also is integral for
+the formation of vitamin
+
+698
+00:49:14,550 --> 00:49:17,870
+D, even though vitamin
+D is sort of a misnomer.
+
+699
+00:49:17,870 --> 00:49:21,430
+It's not really a vitamin,
+right? It's a vitamin,
+
+700
+00:49:21,430 --> 00:49:24,230
+if you don't know the
+history, vital amines.
+
+701
+00:49:24,230 --> 00:49:28,050
+They were usually aminergic
+compounds that had
+
+702
+00:49:28,050 --> 00:49:32,310
+an amino group. We don't
+have that on vitamin D.
+
+703
+00:49:32,610 --> 00:49:37,550
+It's actually a fat-soluble
+secosteroid hormone,
+
+704
+00:49:37,550 --> 00:49:41,570
+and it promotes calcium
+conversion in the body.
+
+705
+00:49:42,010 --> 00:49:45,430
+It does it two ways,
+intestinal calcium
+
+706
+00:49:45,430 --> 00:49:48,790
+absorption, reducing
+calcium loss.
+
+707
+00:49:49,430 --> 00:49:55,570
+And it's ingested and
+produced, the precursors are
+
+708
+00:49:55,570 --> 00:49:58,710
+produced by the actions of
+ultraviolet light on your skin
+
+709
+00:49:58,710 --> 00:50:02,070
+right that's basically what
+everybody says go stand
+
+710
+00:50:02,070 --> 00:50:07,550
+in the sun you will get your
+vitamin d you know um you
+
+711
+00:50:07,550 --> 00:50:09,350
+don't need that much of it
+believe it or not they say
+
+712
+00:50:09,350 --> 00:50:14,030
+10 to 15 minutes a day is
+usually good enough um but it
+
+713
+00:50:14,030 --> 00:50:17,090
+is formed from cholesterol
+and from the pathways to
+
+714
+00:50:17,090 --> 00:50:20,130
+form cholesterol even
+though it's not derived from
+
+715
+00:50:20,130 --> 00:50:23,210
+cholesterol let's derive from
+a precursor of cholesterol.
+
+716
+00:50:23,780 --> 00:50:27,830
+7-dehydrocholesterol,
+which is found in the skin.
+
+717
+00:50:27,990 --> 00:50:29,650
+UV sunlight
+
+718
+00:50:31,270 --> 00:50:34,630
+gives us vitamin
+D3, and vitamin
+
+719
+00:50:34,630 --> 00:50:38,590
+D3 is in turn metabolized to
+
+720
+00:50:40,890 --> 00:50:45,970
+25-hydroxyvitamin D and
+then to dihydroxy 1,
+
+721
+00:50:45,970 --> 00:50:49,420
+25-dihydroxyvitamin D,
+which is the functional
+
+722
+00:50:50,130 --> 00:50:51,170
+vitamin.
+
+723
+00:50:51,750 --> 00:50:56,710
+And its conversion is under
+the control of parathyroid
+
+724
+00:50:56,710 --> 00:51:00,110
+hormone. And vitamin D
+acts on vitamin D receptors
+
+725
+00:51:00,110 --> 00:51:02,850
+throughout the body. It's
+another interesting story.
+
+726
+00:51:02,850 --> 00:51:05,650
+We're not going to go that
+much into it. But it's
+
+727
+00:51:05,650 --> 00:51:10,380
+got its own receptors. It
+has signaling capabilities.
+
+728
+00:51:12,070 --> 00:51:15,110
+And the last component
+of the endocrine kidney
+
+729
+00:51:15,110 --> 00:51:17,970
+would be erythropoietin.
+Now going to talking
+
+730
+00:51:17,970 --> 00:51:23,770
+about erythropoietin
+next semester, but as an
+
+731
+00:51:24,160 --> 00:51:27,750
+introduction, it is the
+most important regulator
+
+732
+00:51:27,910 --> 00:51:31,110
+in the proliferation of
+erythroid progenitors
+
+733
+00:51:31,110 --> 00:51:33,230
+and the production
+of red blood cells.
+
+734
+00:51:34,210 --> 00:51:37,700
+So it stimulates the
+proliferation and maturation
+
+735
+00:51:37,700 --> 00:51:40,910
+of progenitors to give us
+red blood cells in the bone
+
+736
+00:51:40,910 --> 00:51:44,350
+marrow. This was the
+first human hematopoietic
+
+737
+00:51:45,010 --> 00:51:51,130
+growth factor to be isolated,
+and it made Amgen rich.
+
+738
+00:51:52,070 --> 00:51:53,650
+In humans,
+
+739
+00:51:54,040 --> 00:51:56,070
+especially in adults,
+
+740
+00:51:56,550 --> 00:51:59,470
+actually let's do
+that the other way, in
+
+741
+00:51:59,470 --> 00:52:03,170
+adult humans, 90% is
+produced in kidneys,
+
+742
+00:52:03,670 --> 00:52:06,010
+in these cells that
+are called peritubular
+
+743
+00:52:06,990 --> 00:52:09,370
+interstitial cells. Another
+
+744
+00:52:09,370 --> 00:52:11,520
+10 percent in parasinusoidal
+
+745
+00:52:12,510 --> 00:52:18,390
+cells in the liver, and
+they respond to changes in
+
+746
+00:52:18,390 --> 00:52:23,390
+tissue oxygen content to
+make EPO, but I'll go into
+
+747
+00:52:23,390 --> 00:52:27,430
+the full detail in that
+later on. So they are
+
+748
+00:52:27,430 --> 00:52:31,590
+responsive to hypoxia, and
+this cartoon here gives us a
+
+749
+00:52:31,590 --> 00:52:34,950
+nice little example of how
+hypoxia actually increases
+
+750
+00:52:34,950 --> 00:52:39,230
+the number of EPO-producing
+cells in the kidney.
+
+751
+00:52:41,750 --> 00:52:45,430
+A component of the
+paracrine kidney is the
+
+752
+00:52:45,490 --> 00:52:50,410
+kyninogen or the
+calocrine system. You can
+
+753
+00:52:50,410 --> 00:52:52,550
+think of this as a
+parallel system to the
+
+754
+00:52:52,550 --> 00:52:55,930
+renin-angiotensin system
+because they share
+
+755
+00:52:55,930 --> 00:53:00,270
+this guy here, angiotensin
+-converting enzyme.
+
+756
+00:53:01,010 --> 00:53:04,550
+These things were
+discovered at the same time.
+
+757
+00:53:05,030 --> 00:53:08,130
+The difference is while
+angiotensin-converting
+
+758
+00:53:08,130 --> 00:53:11,350
+enzyme activates
+angiotensin-1 for
+
+759
+00:53:11,350 --> 00:53:14,590
+the final effector
+molecule, angiotensin-2,
+
+760
+00:53:14,890 --> 00:53:21,590
+the kininogen calocrine
+system's effective mediator
+
+761
+00:53:21,590 --> 00:53:26,430
+is bradykinin, And
+angiotensin-converting enzyme
+
+762
+00:53:26,430 --> 00:53:30,830
+breaks down bradykinin
+into inactive fragments. In
+
+763
+00:53:30,830 --> 00:53:34,390
+fact, it was initially called
+bradykinin-potentiating
+
+764
+00:53:34,390 --> 00:53:37,090
+enzyme until they found
+out that bradykinin
+
+765
+00:53:37,090 --> 00:53:42,070
+-potentiating enzyme and
+angiotensin-converting enzyme
+
+766
+00:53:42,070 --> 00:53:47,530
+were the exact same molecule.
+So bradykinin can act
+
+767
+00:53:47,530 --> 00:53:51,790
+directly on tubular cells
+in the nephron to reduce
+
+768
+00:53:51,790 --> 00:53:55,550
+sodium reabsorption,
+but it also stimulates
+
+769
+00:53:55,550 --> 00:54:00,290
+endothelial cells to release
+nitric oxide and different
+
+770
+00:54:00,290 --> 00:54:05,320
+products of arachidonic
+acid to regulate naturesis
+
+771
+00:54:05,650 --> 00:54:16,510
+and dilation of blood
+vessels in the glomerulus.
+
+772
+00:54:18,090 --> 00:54:20,730
+And then finally we come
+to the ureter and the
+
+773
+00:54:20,730 --> 00:54:24,590
+bladder, so by the time
+we get to the most distal
+
+774
+00:54:24,590 --> 00:54:27,150
+portion of the collecting
+duct, the filtrate
+
+775
+00:54:27,150 --> 00:54:32,230
+is the urine. There is
+no modification of that
+
+776
+00:54:32,950 --> 00:54:36,230
+in the pelvis,
+ureter, bladder, and
+
+777
+00:54:36,230 --> 00:54:39,710
+urethra. So once it
+leaves, enters the
+
+778
+00:54:39,710 --> 00:54:42,670
+urine, the renal
+pelvis, it is done.
+
+779
+00:54:42,870 --> 00:54:47,370
+The ureters obviously serve
+as a conduit for the passage
+
+780
+00:54:47,370 --> 00:54:50,630
+of urine from the urine
+pelvis to the bladder,
+
+781
+00:54:50,630 --> 00:54:55,510
+right? So the ureters connect
+the kidney to the bladder
+
+782
+00:54:55,510 --> 00:55:05,230
+and then the bladder, and
+then the bladder, excuse me,
+
+783
+00:55:05,690 --> 00:55:08,330
+the outflow of the
+bladder is the urethra.
+
+784
+00:55:08,330 --> 00:55:12,230
+In men, it goes in
+between the prostate and
+
+785
+00:55:12,230 --> 00:55:15,740
+then ends in the
+genitalia for urination.
+
+786
+00:55:16,690 --> 00:55:20,370
+Luminar beach ureter is
+lined by transitional
+
+787
+00:55:20,370 --> 00:55:24,230
+epithelium. If you, you
+know, hopefully you've taken
+
+788
+00:55:24,230 --> 00:55:26,510
+a look at the histology,
+you can see that it's
+
+789
+00:55:26,510 --> 00:55:29,330
+very, very interesting
+in terms of its ability
+
+790
+00:55:29,530 --> 00:55:34,750
+to go from very complex
+
+791
+00:55:34,750 --> 00:55:37,150
+epithelial to a straightforward
+
+792
+00:55:40,050 --> 00:55:43,310
+tuboidal epithelial based on
+
+793
+00:55:43,310 --> 00:55:44,910
+how much filling there is.
+
+794
+00:55:45,430 --> 00:55:50,270
+And it is a syncytium.
+I can't even pronounce
+
+795
+00:55:50,270 --> 00:55:52,250
+that. I'm sorry. I
+usually could pronounce
+
+796
+00:55:52,250 --> 00:55:57,590
+it, but I have,
+whatchamacallit, Invisalign,
+
+797
+00:55:57,590 --> 00:55:59,670
+so I'm kind of
+lisping a little bit.
+
+798
+00:56:03,570 --> 00:56:07,530
+Peristalsis in the
+urethral originates from
+
+799
+00:56:07,530 --> 00:56:11,370
+pacemaker cells in the
+proximal portion of the renal
+
+800
+00:56:11,370 --> 00:56:16,970
+pelvis, and this is a
+stimulus for urination.
+
+801
+00:56:17,310 --> 00:56:19,640
+Autonomic nervous
+system can modulate the
+
+802
+00:56:19,640 --> 00:56:21,320
+peristalsis, but
+that's not an absolute
+
+803
+00:56:21,320 --> 00:56:23,190
+requirement. You all
+kind of know that.
+
+804
+00:56:23,590 --> 00:56:25,810
+Sometimes you have
+to urinate, but other
+
+805
+00:56:25,810 --> 00:56:27,970
+times you can control
+your urination.
+
+806
+00:56:29,230 --> 00:56:33,450
+And the sympathetic nervous
+system via a variety
+
+807
+00:56:33,450 --> 00:56:39,670
+of different plexi enhance
+urethral contractility.
+
+808
+00:56:41,730 --> 00:56:49,210
+The main portion of the
+bladder that collects urine
+
+809
+00:56:49,210 --> 00:56:52,210
+and funnel-shaped neck
+that connects with urethra
+
+810
+00:56:52,210 --> 00:56:55,150
+is that's considered to be
+the bladder the lumen as
+
+811
+00:56:55,150 --> 00:56:58,700
+i said is is lined by
+transitional epithelium um
+
+812
+00:56:58,700 --> 00:57:04,990
+it's got three poorly layered
+uh of of smooth muscle
+
+813
+00:57:04,990 --> 00:57:09,350
+uh detrestle muscles and
+these lack a cap gap junction
+
+814
+00:57:09,350 --> 00:57:13,950
+so they don't act as a
+syncytium um at the lower
+
+815
+00:57:13,950 --> 00:57:17,430
+trip at the lower tip
+of of the ladder the the
+
+816
+00:57:17,430 --> 00:57:20,520
+bladder the la the bladder
+opens up into the urethra
+
+817
+00:57:21,330 --> 00:57:27,470
+and they are controlled
+of the muscles by two
+
+818
+00:57:27,470 --> 00:57:30,470
+different sphincters,
+internal and external
+
+819
+00:57:30,690 --> 00:57:31,690
+sphincters.
+
+820
+00:57:32,750 --> 00:57:36,770
+We have sympathetic
+nervous system innervation
+
+821
+00:57:36,770 --> 00:57:42,090
+on these things, on
+these sphincters,
+
+822
+00:57:42,350 --> 00:57:46,010
+and they start off
+from lumbar splantic
+
+823
+00:57:46,010 --> 00:57:48,790
+nerves going to the
+hypogastric plexus
+
+824
+00:57:49,090 --> 00:57:52,970
+and then ending
+up in the distal
+
+825
+00:57:52,970 --> 00:57:54,870
+portion of the
+hypogastric nerve.
+
+826
+00:57:55,450 --> 00:57:57,490
+And parasympathetic
+intervasion, so
+
+827
+00:57:57,490 --> 00:57:59,430
+unlike the kidney,
+we do have both.
+
+828
+00:58:02,190 --> 00:58:05,350
+Ganglia is the
+intermediate cell column,
+
+829
+00:58:05,690 --> 00:58:10,950
+and preganglionic is
+the pre-pelvic-splantic
+
+830
+00:58:10,950 --> 00:58:14,810
+nerve, and goes to
+postganglionic neurons that go
+
+831
+00:58:14,810 --> 00:58:17,670
+to the body and neck. And
+then we have pneumotor
+
+832
+00:58:17,670 --> 00:58:27,670
+neurons that also control
+bladder contractility
+
+833
+00:58:27,670 --> 00:58:37,890
+coming from S2 and S4
+of your spine and motor
+
+834
+00:58:39,110 --> 00:58:42,610
+neuron ganglias in the
+central nervous system.
+
+835
+00:58:44,590 --> 00:58:49,250
+And finally, talk a
+little bit about bladder
+
+836
+00:58:49,250 --> 00:58:51,890
+tone. So bladder tone
+is defined by its
+
+837
+00:58:51,890 --> 00:58:55,850
+relationship between
+volume and pressure, and it
+
+838
+00:58:55,850 --> 00:58:58,930
+can be measured. It's
+actually a diagnostic,
+
+839
+00:58:59,330 --> 00:59:03,450
+you can use diagnostically
+by a systometrogram.
+
+840
+00:59:04,200 --> 00:59:07,420
+So we'll break it down.
+If you look at the basal
+
+841
+00:59:08,650 --> 00:59:11,870
+systometrogram here in the
+solid line. I've broken
+
+842
+00:59:11,870 --> 00:59:16,290
+it down into three sections,
+A, B, and C. So let's
+
+843
+00:59:16,350 --> 00:59:21,010
+start off with A. So if
+we have an increase in
+
+844
+00:59:21,010 --> 00:59:23,810
+bladder volume, and this
+is anywhere between 0 to
+
+845
+00:59:23,810 --> 00:59:29,550
+50 mLs, we see a moderately
+steep increase in
+
+846
+00:59:29,550 --> 00:59:35,090
+pressure in the initial
+sections, right, in the first
+
+847
+00:59:35,090 --> 00:59:38,850
+50. But the other parts,
+by the time we get to 100
+
+848
+00:59:38,850 --> 00:59:44,650
+mL, we don't have any
+changes in pressure. So it's
+
+849
+00:59:45,160 --> 00:59:49,090
+a steep increase in
+pressure and then it stops.
+
+850
+00:59:49,290 --> 00:59:51,730
+And then as the
+volume increases,
+
+851
+00:59:51,730 --> 00:59:55,130
+it goes above
+that 50 mL, right,
+
+852
+00:59:55,520 --> 01:00:01,270
+into around 300 mL, you get
+almost no pressure increase.
+
+853
+01:00:01,270 --> 01:00:04,870
+And this reflects a
+relaxation of bladder smooth
+
+854
+01:00:04,870 --> 01:00:08,410
+muscle, right? The more fluid
+comes, the bigger it gets.
+
+855
+01:00:09,210 --> 01:00:13,230
+And then at volumes over
+400 ml, right? And you
+
+856
+01:00:13,230 --> 01:00:18,530
+have here in C, you have
+a massive increase in
+
+857
+01:00:18,530 --> 01:00:23,330
+pressure. So bladder tone
+in this case is up to
+
+858
+01:00:23,440 --> 01:00:26,950
+its maximal amount.
+And at this point, this
+
+859
+01:00:26,950 --> 01:00:32,210
+amount triggers the
+micturition reflex.
+
+860
+01:00:32,370 --> 01:00:35,470
+And this reflex is
+independent of any
+
+861
+01:00:35,470 --> 01:00:37,190
+kind of innervations,
+right? You don't
+
+862
+01:00:37,190 --> 01:00:40,730
+need innervation in
+order to urinate.
+
+863
+01:00:42,090 --> 01:00:46,150
+Normally, it's inhibited by
+
+864
+01:00:47,970 --> 01:00:55,410
+the biocenters in the
+pontine nucleus, by the urge.
+
+865
+01:00:55,410 --> 01:00:59,570
+And the urge for voluntary
+bladder emptying starts
+
+866
+01:00:59,570 --> 01:01:05,850
+like around halfway through
+B, 150 mLs. And then the
+
+867
+01:01:05,850 --> 01:01:09,110
+voiding phase comes with
+a voluntary relaxions of
+
+868
+01:01:09,110 --> 01:01:13,990
+the external sphincter,
+followed by relaxation of the
+
+869
+01:01:13,990 --> 01:01:19,330
+internal sphincter and
+these afferent signals are
+
+870
+01:01:19,330 --> 01:01:22,770
+sent when a small amount of
+urine reaches the proximal
+
+871
+01:01:22,770 --> 01:01:25,590
+urethra. And this is
+something you've experienced.
+
+872
+01:01:25,590 --> 01:01:29,570
+If you urinate a little
+bit, the urge to urinate a
+
+873
+01:01:29,570 --> 01:01:33,390
+lot is almost immediate
+and it's difficult to stop.
+
+874
+01:01:34,150 --> 01:01:40,050
+So and the myctoturition
+reflex is there's no
+
+875
+01:01:40,050 --> 01:01:43,190
+any, there's no longer
+any inhibition from the
+
+876
+01:01:43,190 --> 01:01:48,740
+PMC to the parasympathetic
+and everything just
+
+877
+01:01:48,740 --> 01:01:52,210
+relaxes. The bladder will,
+the sphincters relax,
+
+878
+01:01:52,250 --> 01:01:55,670
+the bladder contracts
+and urine is expelled.
+
+879
+01:01:56,410 --> 01:01:58,830
+And the initial
+bladder contraction
+
+880
+01:01:58,830 --> 01:02:02,710
+sensory impulses from
+stretch receptors and
+
+881
+01:02:02,710 --> 01:02:06,290
+establishes self
+-regeneration process.
+
+882
+01:02:06,690 --> 01:02:10,770
+So indication I have
+here, the Cysto-Metrogram,
+
+883
+01:02:10,770 --> 01:02:15,180
+the CMG, the diagnostic
+test that can measure
+
+884
+01:02:15,690 --> 01:02:19,510
+bladder pressure, capacity,
+and muscle function. So
+
+885
+01:02:19,950 --> 01:02:23,010
+basically what it
+is, is insertion
+
+886
+01:02:23,010 --> 01:02:24,870
+of a catheter
+through the urethra,
+
+887
+01:02:25,250 --> 01:02:29,020
+emptying the bladder and
+then adding increments
+
+888
+01:02:29,450 --> 01:02:35,070
+of water and seeing what
+the responses are. So
+
+889
+01:02:35,070 --> 01:02:38,850
+50 ml increments of water
+until you reach a point
+
+890
+01:02:38,850 --> 01:02:44,030
+and see where this process
+will get activated.
+
+891
+01:02:44,070 --> 01:02:46,690
+And it kind of gives
+you an indication
+
+892
+01:02:46,690 --> 01:02:51,650
+on its capacity to respond to
+
+893
+01:02:55,410 --> 01:02:56,990
+central nervous system.
+
+894
+01:02:57,790 --> 01:03:01,270
+And finally, let's
+go back. Why did
+
+895
+01:03:01,270 --> 01:03:03,510
+that young lady
+have this problem?
+
+896
+01:03:03,510 --> 01:03:05,110
+Well, this is a real
+story, actually.
+
+897
+01:03:08,290 --> 01:03:13,440
+The herbal tea that she
+had ordered consisted
+
+898
+01:03:13,490 --> 01:03:17,430
+of a lot of lookalikes
+that had this very,
+
+899
+01:03:17,430 --> 01:03:22,650
+very toxic compound called
+aristocolic acid. And
+
+900
+01:03:22,650 --> 01:03:26,110
+aristocolic acid causes
+acute kidney injury.
+
+901
+01:03:27,570 --> 01:03:32,950
+And this was a
+dramatic effect. It was
+
+902
+01:03:32,950 --> 01:03:35,130
+observed in a number
+of people who had gone,
+
+903
+01:03:35,290 --> 01:03:38,460
+who had this tea, who
+ended up needing dialysis
+
+904
+01:03:39,250 --> 01:03:42,450
+and kidney transplants
+because it was such
+
+905
+01:03:42,450 --> 01:03:47,310
+a, so much damage was
+to their kidneys. these.
+
+906
+01:03:47,890 --> 01:03:48,810
+Anyway,
+
+907
+01:03:49,010 --> 01:03:54,270
+thank you and I'll talk
+to you and you'll hear
+
+908
+01:03:54,270 --> 01:03:56,590
+from me in two or three
+lectures. You have a
+
+909
+01:03:56,590 --> 01:03:59,930
+couple of scholars coming
+up for the next two
+
+910
+01:03:59,930 --> 01:04:03,210
+lectures. Thank you and
+we'll see you around.

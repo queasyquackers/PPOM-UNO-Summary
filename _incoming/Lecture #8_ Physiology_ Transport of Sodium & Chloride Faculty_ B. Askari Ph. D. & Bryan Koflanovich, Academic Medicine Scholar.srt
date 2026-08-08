@@ -1,0 +1,3821 @@
+1
+00:00:01,080 --> 00:00:03,260
+Hello, brilliant minds
+and future physicians.
+
+2
+00:00:03,260 --> 00:00:05,700
+My name is Brian
+Kalfanovich. I am one of your
+
+3
+00:00:05,700 --> 00:00:08,860
+academic medicine
+scholars, and I am happy
+
+4
+00:00:08,860 --> 00:00:11,580
+to be delivering this
+lecture on renal physiology,
+
+5
+00:00:11,580 --> 00:00:14,420
+regulation of sodium
+and water excretion.
+
+6
+00:00:14,660 --> 00:00:17,260
+Specifically, we're going
+to be looking at how the
+
+7
+00:00:17,260 --> 00:00:20,680
+kidney is defending blood
+volume and osmolality. I
+
+8
+00:00:20,680 --> 00:00:23,660
+would like to thank Dr.
+Ascari for his input, as well
+
+9
+00:00:23,660 --> 00:00:25,920
+as allowing me to deliver
+the lecture for you
+
+10
+00:00:25,920 --> 00:00:29,040
+guys, as well as Dr. Goldstein
+for her input as well.
+
+11
+00:00:29,200 --> 00:00:31,900
+This lecture is really
+fascinating as it covers
+
+12
+00:00:31,900 --> 00:00:35,220
+some pinnacle topics within
+internal medicine, and
+
+13
+00:00:35,220 --> 00:00:38,580
+if there are any questions
+at any point, please do
+
+14
+00:00:38,580 --> 00:00:41,500
+not hesitate to contact
+me by email at any time.
+
+15
+00:00:42,700 --> 00:00:45,340
+Here are your learning
+objectives for today's
+
+16
+00:00:45,340 --> 00:00:48,820
+lecture. I implore you to
+pause and read through these
+
+17
+00:00:48,820 --> 00:00:51,480
+thoroughly, and then at
+the end of the lecture,
+
+18
+00:00:51,480 --> 00:00:53,340
+please come back to
+these learning objectives
+
+19
+00:00:53,340 --> 00:00:56,480
+and try to mind map all of
+the different objectives
+
+20
+00:00:56,480 --> 00:00:58,880
+with what you've learned
+throughout the slides.
+
+21
+00:01:00,560 --> 00:01:03,620
+Everything in today's
+lecture maps back to Vanders
+
+22
+00:01:03,620 --> 00:01:07,060
+Renal Physiology, Chapters
+6 and 7. This is available
+
+23
+00:01:07,060 --> 00:01:09,940
+for free online through
+NYT's Medical Library,
+
+24
+00:01:09,940 --> 00:01:12,820
+which I included instructions
+for on this slide.
+
+25
+00:01:13,460 --> 00:01:17,210
+You do not need the
+textbook itself for the
+
+26
+00:01:17,210 --> 00:01:20,040
+materials that I cover in
+this lecture, but I encourage
+
+27
+00:01:20,040 --> 00:01:21,720
+in case you want to
+look through it for
+
+28
+00:01:21,720 --> 00:01:24,800
+yourself to see where I
+get my points from, as well
+
+29
+00:01:24,800 --> 00:01:27,120
+as at the end of each
+chapter, there are practice
+
+30
+00:01:27,120 --> 00:01:30,140
+questions that you can
+use. I also used UWorld
+
+31
+00:01:30,140 --> 00:01:32,000
+to make sure that the
+points I was bringing
+
+32
+00:01:32,000 --> 00:01:35,480
+up correlated towards
+Bord's relevancy as well.
+
+33
+00:01:37,180 --> 00:01:39,520
+This lecture can be
+broken down into three
+
+34
+00:01:39,520 --> 00:01:41,760
+parts. The first part,
+I'm going to lay down
+
+35
+00:01:41,760 --> 00:01:44,320
+the foundational knowledge
+of sodium and water
+
+36
+00:01:44,320 --> 00:01:47,220
+movement and why it
+matters in terms of
+
+37
+00:01:47,220 --> 00:01:50,800
+maintaining cardiovascular
+and renal homeostasis.
+
+38
+00:01:50,980 --> 00:01:54,320
+Then we're going to talk
+about the regulation
+
+39
+00:01:54,320 --> 00:01:57,600
+of these movements in a
+step-by-step manner in
+
+40
+00:01:57,600 --> 00:02:01,260
+Part 2. In Part 3, we're
+going to explain why
+
+41
+00:02:01,260 --> 00:02:03,860
+dysregulation causes
+certain disease states.
+
+42
+00:02:05,140 --> 00:02:07,720
+To start this lecture,
+I have an opening
+
+43
+00:02:07,720 --> 00:02:09,680
+question which you
+can pause and read.
+
+44
+00:02:10,000 --> 00:02:11,860
+We are going to revisit this
+
+45
+00:02:11,860 --> 00:02:13,640
+question at the
+end of the lecture.
+
+46
+00:02:13,960 --> 00:02:16,740
+it describes a patient
+who has congestive heart
+
+47
+00:02:16,740 --> 00:02:20,320
+failure, who is presenting
+with signs of fluid
+
+48
+00:02:20,320 --> 00:02:24,300
+overload, as well as labs
+showing low blood sodium.
+
+49
+00:02:25,000 --> 00:02:27,500
+So I want you to keep this
+question in the back of
+
+50
+00:02:27,500 --> 00:02:30,790
+your mind as we go through
+each of the parts and
+
+51
+00:02:30,900 --> 00:02:34,820
+start piecing together the
+reasons mechanistically
+
+52
+00:02:34,820 --> 00:02:38,880
+why the kidney is contributing
+to such a presentation
+
+53
+00:02:38,880 --> 00:02:42,820
+in heart failure let's
+begin laying the foundation
+
+54
+00:02:42,820 --> 00:02:45,920
+by reviewing the body
+fluid compartments we
+
+55
+00:02:45,920 --> 00:02:49,640
+know that 60 of body weight
+is water two-thirds of
+
+56
+00:02:49,640 --> 00:02:52,700
+that being intracellular
+fluid one-thirds being
+
+57
+00:02:52,700 --> 00:02:55,980
+extracellular fluid
+extracellular fluid being further
+
+58
+00:02:55,980 --> 00:02:59,100
+broken down into
+interstitial fluid and blood
+
+59
+00:02:59,100 --> 00:03:04,720
+plasma the main takeaway
+of this slide is that ecf
+
+60
+00:03:04,720 --> 00:03:08,420
+and icf are an osmotic
+equilibrium with each other.
+
+61
+00:03:09,500 --> 00:03:12,420
+Water will cross the
+cell membranes freely
+
+62
+00:03:12,420 --> 00:03:15,020
+so that both compartments
+will always reach
+
+63
+00:03:15,020 --> 00:03:18,340
+the same osmolality
+level. Recall that
+
+64
+00:03:18,340 --> 00:03:21,740
+osmolarity and osmolality
+are the same umbrella
+
+65
+00:03:21,740 --> 00:03:24,620
+term describing total
+solute concentration.
+
+66
+00:03:25,280 --> 00:03:30,240
+Because your cells
+contain NAK ATPase, your
+
+67
+00:03:30,240 --> 00:03:34,460
+intracellular sodium concentration
+will be fairly stable,
+
+68
+00:03:34,600 --> 00:03:37,760
+but additions and
+losses of sodium
+
+69
+00:03:37,760 --> 00:03:40,960
+will mostly occur
+within the ECF.
+
+70
+00:03:41,180 --> 00:03:44,800
+Therefore, ECF is
+the major osmol
+
+71
+00:03:44,800 --> 00:03:47,560
+which will influence
+water movement.
+
+72
+00:03:47,960 --> 00:03:51,280
+So, if there's one
+sentence that you guys
+
+73
+00:03:51,280 --> 00:03:53,560
+need to remember
+from this slide, it's
+
+74
+00:03:53,560 --> 00:03:56,400
+where sodium moves,
+water will follow.
+
+75
+00:03:57,640 --> 00:04:00,920
+Now let's talk about
+reabsorption of sodium along the
+
+76
+00:04:00,920 --> 00:04:03,200
+nephron. Hopefully you
+guys learned the different
+
+77
+00:04:03,200 --> 00:04:06,280
+segments of the nephron and what
+takes place at each segment.
+
+78
+00:04:06,280 --> 00:04:09,600
+If not, these next few
+slides should be sufficient
+
+79
+00:04:09,600 --> 00:04:12,440
+for your knowledge of sodium
+and water reabsorption.
+
+80
+00:04:12,440 --> 00:04:15,540
+On the bottom right,
+you'll see a nice flow that
+
+81
+00:04:15,540 --> 00:04:19,140
+describes the exact pathway
+and steps for sodium
+
+82
+00:04:19,140 --> 00:04:22,340
+reabsorption, which we
+will describe step by step.
+
+83
+00:04:22,440 --> 00:04:25,360
+First, sodium starts in
+the tubular lumen, and
+
+84
+00:04:25,360 --> 00:04:28,120
+if it stays there, it
+will be excreted as urine.
+
+85
+00:04:28,300 --> 00:04:31,360
+Sodium then crosses the
+tubular wall actively
+
+86
+00:04:31,360 --> 00:04:34,660
+through apical transporters.
+So remember, this is
+
+87
+00:04:34,660 --> 00:04:37,280
+an active transport process
+in which sodium gets
+
+88
+00:04:37,280 --> 00:04:41,220
+reabsorbed. The transporter
+on the apical wall
+
+89
+00:04:41,220 --> 00:04:44,340
+depends on the segment
+that you're in the nephron.
+
+90
+00:04:44,640 --> 00:04:47,960
+Proximal tubule does your
+bulk reabsorption of sodium,
+
+91
+00:04:47,960 --> 00:04:51,740
+which is about 65%, with
+multiple transporters,
+
+92
+00:04:51,740 --> 00:04:54,940
+such as the sodium-hydrogen
+antiport and the sodium
+
+93
+00:04:54,940 --> 00:04:58,160
+-glucose importer. The
+descending limb has no
+
+94
+00:04:58,160 --> 00:05:02,040
+reabsorption of sodium, only
+water. The thick ascending
+
+95
+00:05:02,040 --> 00:05:05,100
+limb is the opposite,
+where there's only sodium
+
+96
+00:05:05,100 --> 00:05:08,300
+reabsorption and no water
+reabsorption. Therefore, it's
+
+97
+00:05:08,300 --> 00:05:11,580
+known as the diluting segment,
+and the apical transporter
+
+98
+00:05:11,580 --> 00:05:14,820
+is the sodium-potassium
+chloride multiporter.
+
+99
+00:05:15,040 --> 00:05:18,620
+This is also the target
+that loop diuretics use.
+
+100
+00:05:19,320 --> 00:05:23,080
+the DCT as the sodium
+chloride symporter,
+
+101
+00:05:23,080 --> 00:05:25,860
+which is the target
+of thiazide diuretics,
+
+102
+00:05:26,180 --> 00:05:30,620
+collecting duct as ENAC,
+which is the apical
+
+103
+00:05:30,620 --> 00:05:33,820
+transporter that is fine
+-tuned by aldosterone, which is
+
+104
+00:05:33,820 --> 00:05:36,500
+a key hormone that we will
+discuss in this lecture.
+
+105
+00:05:37,420 --> 00:05:40,120
+Following this, sodium
+will exit into the
+
+106
+00:05:40,120 --> 00:05:43,680
+interstitium basolaterally
+through sodium potassium
+
+107
+00:05:43,680 --> 00:05:48,780
+ATPases, also through active
+transport, and then it
+
+108
+00:05:48,780 --> 00:05:51,320
+reclaimed into a bloodstream
+by entering nearby
+
+109
+00:05:51,320 --> 00:05:54,120
+capillaries, such as the
+paratubular capillaries
+
+110
+00:05:54,120 --> 00:05:57,580
+and the vasorecta and
+the medulla, the nephron.
+
+111
+00:05:59,680 --> 00:06:02,580
+Now we'll talk about
+reabsorption of water along
+
+112
+00:06:02,580 --> 00:06:04,820
+the nephron in a deliberate
+parallel to how we
+
+113
+00:06:04,820 --> 00:06:07,380
+discussed reabsorption
+of sodium last slide.
+
+114
+00:06:07,380 --> 00:06:10,260
+You can see that the slides
+are formatted similarly.
+
+115
+00:06:10,340 --> 00:06:12,980
+However, there are a
+few key differences that
+
+116
+00:06:12,980 --> 00:06:16,380
+I need to highlight. In
+step 2, you'll see that
+
+117
+00:06:16,380 --> 00:06:19,240
+water crosses the
+tubule wall in a passive
+
+118
+00:06:19,240 --> 00:06:23,740
+manner through osmosis.
+When before, with sodium,
+
+119
+00:06:23,900 --> 00:06:27,280
+sodium only crossed the
+tubular wall actively
+
+120
+00:06:27,280 --> 00:06:30,140
+through specific
+apical transporters.
+
+121
+00:06:30,600 --> 00:06:34,540
+In the proximal tubule,
+water is freely permeable
+
+122
+00:06:34,540 --> 00:06:38,100
+and reabsorbed using
+the aquaporin 1 channel,
+
+123
+00:06:38,100 --> 00:06:42,720
+and this is isoasmodic
+bulk transport because
+
+124
+00:06:42,720 --> 00:06:47,240
+about 65% of sodium got
+reabsorbed here, and what
+
+125
+00:06:47,240 --> 00:06:50,360
+does water like to do?
+Water follows the sodium.
+
+126
+00:06:50,500 --> 00:06:54,840
+The descending thin limb
+is permeable with aquaporin
+
+127
+00:06:54,840 --> 00:06:58,080
+1, but recall this
+segment has no solute
+
+128
+00:06:58,080 --> 00:07:01,440
+reabsorption. The thick
+ascending limb is the opposite,
+
+129
+00:07:01,440 --> 00:07:05,460
+where it's water impermeable
+and only salt gets
+
+130
+00:07:05,460 --> 00:07:10,080
+reabsorbed here with and
+KCC2. This is why the thick
+
+131
+00:07:10,080 --> 00:07:12,880
+ascending limb is known
+as the diluting segment.
+
+132
+00:07:13,140 --> 00:07:17,240
+The collecting duct is
+a unique area that has
+
+133
+00:07:17,240 --> 00:07:21,480
+permeability of water
+controlled by ADH. So
+
+134
+00:07:21,480 --> 00:07:24,840
+when ADH is present, it
+serves as an on switch,
+
+135
+00:07:24,840 --> 00:07:28,140
+bringing aquaporin
+-2 channels to the
+
+136
+00:07:28,140 --> 00:07:31,640
+principal cells, allowing
+for water reabsorption.
+
+137
+00:07:32,260 --> 00:07:36,300
+Then, when water is
+reabsorbed, it moves down
+
+138
+00:07:36,300 --> 00:07:38,900
+its osmotic gradient
+into the interstitium.
+
+139
+00:07:39,500 --> 00:07:43,760
+Recall last slide,
+sodium needed NAK ATPase
+
+140
+00:07:43,760 --> 00:07:47,040
+to be pumped through
+into the interstitium.
+
+141
+00:07:47,040 --> 00:07:50,040
+This time, water just
+does it passively.
+
+142
+00:07:50,520 --> 00:07:53,720
+Then, water will enter the
+nearby capillaries and will
+
+143
+00:07:53,720 --> 00:07:56,940
+be reclaimed into the
+bloodstream. This slide goes
+
+144
+00:07:56,940 --> 00:08:00,840
+into further detail to explain
+why ADH is so important
+
+145
+00:08:00,840 --> 00:08:03,700
+in the reabsorption of
+water, and it falls under
+
+146
+00:08:03,700 --> 00:08:06,050
+this concept known as
+countercurrent multiplication,
+
+147
+00:08:06,050 --> 00:08:09,700
+which I will describe
+briefly in this lecture, but
+
+148
+00:08:09,700 --> 00:08:12,580
+there is more detail that
+you will find in a future
+
+149
+00:08:12,580 --> 00:08:17,380
+lecture about it. So the main
+concept is that the water
+
+150
+00:08:17,380 --> 00:08:21,440
+is separated from the salt
+due to the loop of Henle.
+
+151
+00:08:21,660 --> 00:08:24,500
+Without this separation,
+water would just
+
+152
+00:08:24,500 --> 00:08:27,160
+follow salt along
+wherever it traveled.
+
+153
+00:08:27,380 --> 00:08:30,220
+The thick ascending
+limb pumps salt
+
+154
+00:08:30,220 --> 00:08:32,780
+into the renal
+medulla, creating a
+
+155
+00:08:32,780 --> 00:08:35,740
+hyperosmotic gradient
+in the medulla.
+
+156
+00:08:35,980 --> 00:08:38,500
+Then at the collecting duct,
+
+157
+00:08:38,660 --> 00:08:43,480
+ADH is the main player deciding
+if water gets reabsorbed
+
+158
+00:08:43,480 --> 00:08:47,220
+or not. If ADH is
+present, you will have the
+
+159
+00:08:47,220 --> 00:08:52,340
+insertion of aquaporin-2
+flowing water down the gradient
+
+160
+00:08:52,340 --> 00:08:55,760
+into that concentrated
+medulum that we talked about.
+
+161
+00:08:56,300 --> 00:09:00,060
+If ADH is not present,
+your tubule will stay
+
+162
+00:09:00,060 --> 00:09:03,900
+impermeable, and water can't
+be reabsorbed, therefore
+
+163
+00:09:03,900 --> 00:09:07,720
+it's dilute. So this is
+what allows the kidney
+
+164
+00:09:07,720 --> 00:09:11,160
+to control water excretion
+independently of sodium,
+
+165
+00:09:11,160 --> 00:09:14,400
+and this also explains
+why loop diuretics, which
+
+166
+00:09:14,400 --> 00:09:18,440
+control NKCC2 at this
+thick ascending limb, are
+
+167
+00:09:18,440 --> 00:09:21,900
+so powerful at their
+jobs of being a diuretic.
+
+168
+00:09:22,580 --> 00:09:26,040
+And here we have a summary
+slide that shows this side
+
+169
+00:09:26,040 --> 00:09:29,940
+-by-side comparison and the
+differences between sodium
+
+170
+00:09:29,940 --> 00:09:33,280
+reabsorption and water
+reabsorption along the nephron.
+
+171
+00:09:33,950 --> 00:09:36,780
+And here is a nice summary
+table that I made for you
+
+172
+00:09:36,780 --> 00:09:39,900
+guys for sodium and water
+reabsorption along the
+
+173
+00:09:39,900 --> 00:09:42,900
+nephron segments, along
+with some nice clinical
+
+174
+00:09:42,900 --> 00:09:46,500
+applications that you may see
+while learning about renal
+
+175
+00:09:46,500 --> 00:09:49,500
+physiology I suggest that
+you make your own table
+
+176
+00:09:49,500 --> 00:09:52,040
+similar to this and expand
+it to the other lectures
+
+177
+00:09:52,040 --> 00:09:55,760
+that you're learning as
+well so far in part one of
+
+178
+00:09:55,760 --> 00:09:58,100
+this lecture we've discussed
+where the sodium and
+
+179
+00:09:58,100 --> 00:10:01,760
+water move now we need to
+talk about why this matters
+
+180
+00:10:01,760 --> 00:10:04,480
+for the whole body and
+that means we need to talk
+
+181
+00:10:04,480 --> 00:10:08,000
+about the cardiovascular
+system the kidney and the
+
+182
+00:10:08,000 --> 00:10:10,700
+heart are locked in a
+mutual dependency with one
+
+183
+00:10:10,700 --> 00:10:14,360
+another with the universal
+goal being maintenance of
+
+184
+00:10:14,360 --> 00:10:17,980
+an effective blood circulation.
+The kidney's job is
+
+185
+00:10:17,980 --> 00:10:21,600
+to filter blood, but in order
+to do so, it is dependent
+
+186
+00:10:21,600 --> 00:10:24,060
+on the heart having
+enough effective blood
+
+187
+00:10:24,060 --> 00:10:28,460
+pressure to reach the glomerulus
+in order to push plasma
+
+188
+00:10:28,460 --> 00:10:31,240
+through the glomerulus so
+blood can get filtered.
+
+189
+00:10:31,660 --> 00:10:36,460
+On the flip side, the kidney's
+job is also to maintain
+
+190
+00:10:36,460 --> 00:10:41,160
+enough blood volume in
+order for there to be enough
+
+191
+00:10:41,160 --> 00:10:44,080
+filling within the chambers
+of the heart so the
+
+192
+00:10:44,080 --> 00:10:48,000
+heart has enough blood to
+work with to pump out how does
+
+193
+00:10:48,000 --> 00:10:50,900
+the kidney maintain that
+blood volume through control
+
+194
+00:10:50,900 --> 00:10:55,700
+of sodium and water so
+the more sodium the kidney
+
+195
+00:10:55,700 --> 00:10:59,400
+decides to retain the more
+water that will follow
+
+196
+00:10:59,400 --> 00:11:05,340
+and the more of ECF the blood
+volume will increase and
+
+197
+00:11:05,340 --> 00:11:08,280
+therefore the vascular
+system will be better filled
+
+198
+00:11:09,240 --> 00:11:11,580
+let me provide you with
+enough cardiovascular
+
+199
+00:11:11,580 --> 00:11:14,980
+physiology to make renal
+regulation make sense
+
+200
+00:11:15,240 --> 00:11:18,500
+effective blood circulation
+as highlighted in the
+
+201
+00:11:18,500 --> 00:11:22,720
+red outlined box requires
+two important factors
+
+202
+00:11:22,860 --> 00:11:26,280
+one enough pressure to
+drive the blood forward
+
+203
+00:11:26,280 --> 00:11:30,080
+and two enough blood
+volume to fill the vascular
+
+204
+00:11:30,080 --> 00:11:33,160
+system the pressure
+needed to drive blood
+
+205
+00:11:33,160 --> 00:11:37,020
+forward depends on flow
+which is otherwise known
+
+206
+00:11:37,020 --> 00:11:40,800
+as cardiac output and
+resistance of the blood
+
+207
+00:11:40,800 --> 00:11:44,720
+vessels how well the
+vessels constrict or relax
+
+208
+00:11:44,720 --> 00:11:49,020
+which we call total
+peripheral resistance in terms
+
+209
+00:11:49,020 --> 00:11:52,260
+of an equation we call
+this the mean arterial
+
+210
+00:11:52,260 --> 00:11:57,180
+pressure which is total
+cardiac output times total
+
+211
+00:11:57,180 --> 00:12:02,220
+peripheral resistance flow
+or cardiac output can be
+
+212
+00:12:02,220 --> 00:12:06,140
+further described as heart
+rate times stroke volume.
+
+213
+00:12:06,140 --> 00:12:09,760
+Stroke volume is the blood
+volume pumped per beat.
+
+214
+00:12:10,640 --> 00:12:14,400
+The total peripheral
+resistance is defined by
+
+215
+00:12:14,400 --> 00:12:18,940
+constriction or relaxation
+of the systemic arterioles
+
+216
+00:12:18,940 --> 00:12:22,080
+specifically. So when
+the arterioles are
+
+217
+00:12:22,080 --> 00:12:25,940
+constricted, the vessel
+radius is smaller therefore
+
+218
+00:12:25,940 --> 00:12:30,140
+there's more resistance
+causing increased pressure
+
+219
+00:12:30,380 --> 00:12:35,200
+so pause and think about
+this conceptually and try
+
+220
+00:12:35,200 --> 00:12:38,360
+to relate it to the
+mathematical equations here
+
+221
+00:12:39,280 --> 00:12:42,740
+the second factor of this
+harmonious relationship for
+
+222
+00:12:42,740 --> 00:12:45,840
+effective blood circulation
+is having enough blood
+
+223
+00:12:45,840 --> 00:12:49,640
+volume in order to fill
+the vascular system we know
+
+224
+00:12:49,640 --> 00:12:52,780
+blood volume is also known
+as your plasma volume
+
+225
+00:12:52,780 --> 00:12:56,540
+within your extracellular
+fluid and the main determinant
+
+226
+00:12:56,540 --> 00:12:59,680
+of this blood volume will
+be your sodium and water
+
+227
+00:12:59,680 --> 00:13:04,120
+balance that is going to be
+controlled by your kidney
+
+228
+00:13:04,120 --> 00:13:07,920
+as well as renally related
+hormonal mechanisms
+
+229
+00:13:07,920 --> 00:13:11,220
+that we're going to talk
+about in detail this lecture
+
+230
+00:13:11,220 --> 00:13:14,420
+some other factors are
+ones that you can think of
+
+231
+00:13:14,420 --> 00:13:18,180
+pretty logically such as
+fluid intake or restrictions
+
+232
+00:13:18,690 --> 00:13:21,120
+Other fluid losses,
+such as sweating,
+
+233
+00:13:21,320 --> 00:13:25,580
+diarrhea, vomiting, or
+fluid shifts like starling
+
+234
+00:13:25,580 --> 00:13:29,940
+forces in the case of low
+albumin, for example, and
+
+235
+00:13:29,940 --> 00:13:32,980
+then also your red blood
+cells play a part in the
+
+236
+00:13:32,980 --> 00:13:36,740
+blood volume. But I want
+you to mostly hone in on
+
+237
+00:13:36,740 --> 00:13:40,280
+these renal and renally
+related hormonal mechanisms.
+
+238
+00:13:40,380 --> 00:13:42,900
+That is the main
+part of this lecture
+
+239
+00:13:42,900 --> 00:13:44,780
+that we are going
+to be discussing.
+
+240
+00:13:45,560 --> 00:13:47,820
+Let's now summarize
+this concept
+
+241
+00:13:47,820 --> 00:13:49,700
+in a fully integrated picture.
+
+242
+00:13:50,400 --> 00:13:53,300
+The kidneys through
+sodium and water
+
+243
+00:13:53,300 --> 00:13:55,780
+balance are going to
+influence the blood
+
+244
+00:13:55,780 --> 00:13:59,080
+volume. A higher blood
+volume means more blood
+
+245
+00:13:59,080 --> 00:14:00,940
+is going to be
+returning to the heart.
+
+246
+00:14:00,940 --> 00:14:05,440
+Therefore, you will have more
+ventricular filling before
+
+247
+00:14:05,440 --> 00:14:08,160
+the heart takes a beat,
+otherwise known as a higher
+
+248
+00:14:08,160 --> 00:14:12,060
+preload, which means you
+will have an increased stroke
+
+249
+00:14:12,060 --> 00:14:16,940
+volume which is an increased
+cardiac output second
+
+250
+00:14:16,940 --> 00:14:21,220
+your efferent arterials
+are going to be controlling
+
+251
+00:14:21,220 --> 00:14:25,280
+resistance when they constrict
+total peripheral resistance
+
+252
+00:14:25,280 --> 00:14:29,640
+increases blood pressure
+is determined by both of
+
+253
+00:14:29,640 --> 00:14:36,160
+these factors MAP equals
+cardiac output times tpr so
+
+254
+00:14:36,160 --> 00:14:39,820
+the kidneys mainly influence
+cardiac output while the
+
+255
+00:14:39,820 --> 00:14:43,980
+arterioles mainly influence
+resistance and together they
+
+256
+00:14:43,980 --> 00:14:47,620
+maintain organ perfusion
+there's a very important
+
+257
+00:14:47,620 --> 00:14:50,380
+concept i need you guys to
+remember and that's effective
+
+258
+00:14:50,380 --> 00:14:53,460
+circulating volume by
+definition it's the portion of
+
+259
+00:14:53,460 --> 00:14:56,360
+arterial circulation that's
+physically able to perfuse
+
+260
+00:14:56,360 --> 00:15:01,000
+your tissues otherwise how
+much of circulating volume
+
+261
+00:15:01,000 --> 00:15:05,160
+is effective this is not
+the same as the total
+
+262
+00:15:05,160 --> 00:15:08,260
+extracellular fluid volume
+and you can think of it like
+
+263
+00:15:08,260 --> 00:15:13,760
+plumbing ecf is how much water
+is actually in your pipes
+
+264
+00:15:13,870 --> 00:15:17,580
+but when you turn your sink
+on effective circulating
+
+265
+00:15:17,580 --> 00:15:20,120
+volume is how much water
+is able to reach the
+
+266
+00:15:20,120 --> 00:15:24,120
+taps or your organs in
+parallel this is important
+
+267
+00:15:24,120 --> 00:15:27,540
+because your body can only
+make changes on volume
+
+268
+00:15:27,540 --> 00:15:34,060
+based on what it's perceiving
+and if your effective
+
+269
+00:15:34,060 --> 00:15:37,520
+circulating volume is low
+your body might perceive
+
+270
+00:15:37,520 --> 00:15:40,960
+that as low volume which
+we will discuss further
+
+271
+00:15:42,440 --> 00:15:45,690
+let's put part one
+together with a question i
+
+272
+00:15:45,700 --> 00:15:48,840
+want you guys to pause
+here read the question
+
+273
+00:15:49,100 --> 00:15:50,820
+and give your best answer based
+
+274
+00:15:50,820 --> 00:15:52,280
+on what you've learned so far
+
+275
+00:15:56,280 --> 00:15:58,300
+The correct answer is D.
+
+276
+00:15:58,520 --> 00:16:01,380
+This is the physiologic
+basis of hypertension
+
+277
+00:16:01,380 --> 00:16:03,240
+and why a physician
+might recommend
+
+278
+00:16:03,240 --> 00:16:05,860
+their patient to have
+a low sodium diet.
+
+279
+00:16:06,600 --> 00:16:10,170
+Retaining sodium
+causes water retention
+
+280
+00:16:10,170 --> 00:16:13,360
+because osmolality needs
+to be held constant,
+
+281
+00:16:13,700 --> 00:16:17,140
+expanding the extracellular
+fluid and plasma
+
+282
+00:16:17,140 --> 00:16:19,960
+volume, therefore
+raising blood pressure.
+
+283
+00:16:21,770 --> 00:16:23,640
+Now we've made it
+to how the body
+
+284
+00:16:23,640 --> 00:16:25,160
+is regulating those movements.
+
+285
+00:16:26,640 --> 00:16:30,600
+First, the body must sense
+changes in water and sodium,
+
+286
+00:16:30,600 --> 00:16:33,680
+and it does that through
+different receptors, such
+
+287
+00:16:33,680 --> 00:16:36,760
+as the baroreceptors, the
+osmoreceptors, and the
+
+288
+00:16:36,760 --> 00:16:40,480
+macula densa. Then, the
+body responds appropriately
+
+289
+00:16:40,480 --> 00:16:44,740
+through different hormonal
+cascades, such as the RAS,
+
+290
+00:16:44,960 --> 00:16:48,760
+ADH, and natrietic
+peptides. And there are
+
+291
+00:16:48,760 --> 00:16:51,820
+also protecting
+stabilizers that are
+
+292
+00:16:51,820 --> 00:16:54,640
+important to keep the
+front end steady so the
+
+293
+00:16:54,640 --> 00:16:57,520
+back end of the kidney
+can be adjusted.
+
+294
+00:16:58,300 --> 00:17:01,300
+We're going to talk
+about these step by step.
+
+295
+00:17:03,100 --> 00:17:06,780
+The kidney's goal of
+sodium regulation is a
+
+296
+00:17:06,780 --> 00:17:10,200
+straightforward one that
+has a lot of moving parts.
+
+297
+00:17:11,960 --> 00:17:17,100
+Essentially, the kidney
+wants to keep 99% of sodium
+
+298
+00:17:17,100 --> 00:17:22,040
+reabsorption consistent,
+And then that last 1% of
+
+299
+00:17:22,040 --> 00:17:25,460
+sodium, that's the part
+that's going to get adjusted.
+
+300
+00:17:26,100 --> 00:17:31,020
+To do this, it wants to keep
+the GFR, how much filtrate
+
+301
+00:17:31,020 --> 00:17:34,480
+is reaching the nephron,
+the same, and then also
+
+302
+00:17:34,480 --> 00:17:38,420
+keep sodium delivery to the
+distal nephron consistent.
+
+303
+00:17:38,420 --> 00:17:41,500
+This is why most of
+your bulk reabsorption
+
+304
+00:17:41,500 --> 00:17:44,740
+of sodium happens
+more proximally.
+
+305
+00:17:45,080 --> 00:17:47,100
+By keeping the proximal nephron
+
+306
+00:17:47,100 --> 00:17:48,740
+sodium condition steady,
+
+307
+00:17:48,880 --> 00:17:51,140
+the distal nephron
+can be the adjustable
+
+308
+00:17:51,140 --> 00:17:54,920
+valve that matches output
+and intake. This is
+
+309
+00:17:54,920 --> 00:17:57,400
+where your blood
+volume, blood pressure,
+
+310
+00:17:57,400 --> 00:18:00,720
+through actions like
+ADH and aldosterone, and
+
+311
+00:18:00,720 --> 00:18:03,840
+every diuretic drug
+live, the distal nephron.
+
+312
+00:18:04,340 --> 00:18:07,500
+To understand blood
+pressure control, you also
+
+313
+00:18:07,500 --> 00:18:10,340
+need to understand that
+blood pressure control
+
+314
+00:18:10,400 --> 00:18:13,800
+is being handled by multiple
+systems at different
+
+315
+00:18:13,800 --> 00:18:18,680
+time frames this table
+summarizes the brief
+
+316
+00:18:18,680 --> 00:18:21,020
+overview in which we will
+go into further detail
+
+317
+00:18:21,020 --> 00:18:24,980
+of in this lecture but
+to quickly summarize
+
+318
+00:18:25,400 --> 00:18:28,540
+short-term seconds to
+minutes will be your arterial
+
+319
+00:18:28,540 --> 00:18:31,640
+baroreflex which will be
+stretch receptors in your
+
+320
+00:18:31,640 --> 00:18:36,200
+carotid sinus and aortic arch
+that will change sympathetic
+
+321
+00:18:36,200 --> 00:18:39,560
+tone based on what it's
+detecting in terms of stretch
+
+322
+00:18:39,560 --> 00:18:43,900
+intermediate minutes to
+hours will specifically
+
+323
+00:18:43,900 --> 00:18:49,000
+be the angiotensin 2 actions
+of ras which will engage
+
+324
+00:18:49,000 --> 00:18:53,520
+in constricting blood
+vessels lastly your long-term
+
+325
+00:18:53,520 --> 00:18:57,160
+blood pressure control and
+your ultimate blood volume
+
+326
+00:18:57,160 --> 00:19:00,880
+slash blood pressure in the
+long run is controlled by
+
+327
+00:19:00,880 --> 00:19:05,600
+the kidney itself such as
+through actions of aldosterone
+
+328
+00:19:05,600 --> 00:19:09,580
+which we will go over this
+is why chronic hypertension
+
+329
+00:19:09,580 --> 00:19:14,780
+is treated as a kidney
+volume problem here is
+
+330
+00:19:14,780 --> 00:19:17,640
+your short-term blood
+pressure control the arterial
+
+331
+00:19:17,640 --> 00:19:21,240
+baroreceptors i will briefly
+overview these in this
+
+332
+00:19:21,240 --> 00:19:23,860
+lecture but you will receive
+more information about them
+
+333
+00:19:23,860 --> 00:19:26,800
+in your cardiovascular
+physiology lectures later on
+
+334
+00:19:27,380 --> 00:19:31,020
+These are stretch-sensitive
+mechanoreceptors that
+
+335
+00:19:31,020 --> 00:19:33,720
+will increase their firing
+rate when they detect
+
+336
+00:19:33,720 --> 00:19:36,600
+increased blood pressure
+through increased
+
+337
+00:19:36,600 --> 00:19:40,160
+arterial wall stretch.
+You have two of them, one
+
+338
+00:19:40,160 --> 00:19:43,460
+in the aortic arch and
+one in the carotid body.
+
+339
+00:19:43,850 --> 00:19:48,060
+When they detect that
+increased blood pressure, they
+
+340
+00:19:48,060 --> 00:19:50,860
+will send signals through
+their respective afferent
+
+341
+00:19:50,860 --> 00:19:54,520
+nerves into the medulla
+and then the medulla
+
+342
+00:19:54,520 --> 00:19:58,800
+will modulate sympathetic
+or parasympathetic output
+
+343
+00:19:58,800 --> 00:20:02,580
+in order to change blood
+pressure in the short term
+
+344
+00:20:05,100 --> 00:20:07,910
+here's a side-by-side
+comparison of what the
+
+345
+00:20:07,910 --> 00:20:11,940
+baroreceptors will do in
+response to increased or
+
+346
+00:20:11,940 --> 00:20:15,940
+decreased blood pressure
+or increased or decreased
+
+347
+00:20:15,940 --> 00:20:19,760
+arterial wall stretch on
+the left side you will
+
+348
+00:20:19,760 --> 00:20:22,340
+see what the baroreceptor
+does in response to an
+
+349
+00:20:22,340 --> 00:20:26,300
+increased arterial wall
+stretch when that happens
+
+350
+00:20:26,300 --> 00:20:29,140
+the baroreceptors will
+increase their firing rate
+
+351
+00:20:29,450 --> 00:20:32,900
+which in turn will tell
+the medulla to decrease
+
+352
+00:20:32,900 --> 00:20:36,520
+sympathetic tone and
+increase parasympathetic
+
+353
+00:20:36,520 --> 00:20:39,980
+outflow as a result you
+will have vasodilation
+
+354
+00:20:39,980 --> 00:20:43,100
+and decreased heart
+rate and contractility
+
+355
+00:20:43,340 --> 00:20:46,460
+ultimately leading to
+blood pressure falling.
+
+356
+00:20:47,080 --> 00:20:49,940
+On the right side, when
+you have decreased blood
+
+357
+00:20:49,940 --> 00:20:52,920
+pressure, it will be the opposite.
+You will have an increased
+
+358
+00:20:52,920 --> 00:20:55,480
+sympathetic tone and
+decreased parasympathetic
+
+359
+00:20:55,480 --> 00:20:59,200
+output, resulting in
+vasoconstriction, increased heart rate
+
+360
+00:20:59,200 --> 00:21:02,120
+and heart contractility,
+and blood pressure rising.
+
+361
+00:21:02,540 --> 00:21:05,040
+Note how these
+are not affecting
+
+362
+00:21:05,040 --> 00:21:06,820
+the blood volume in any way.
+
+363
+00:21:07,220 --> 00:21:10,780
+rather it is just sympathetic
+and parasympathetic
+
+364
+00:21:10,780 --> 00:21:14,160
+output being changed
+in a short-term manner
+
+365
+00:21:15,360 --> 00:21:18,200
+besides the arterial
+baroreceptors that we
+
+366
+00:21:18,200 --> 00:21:20,860
+just talked about there
+are other vascular
+
+367
+00:21:20,860 --> 00:21:23,540
+baroreceptors in your
+body as well that also
+
+368
+00:21:23,540 --> 00:21:26,380
+influence blood pressure
+in some capacity
+
+369
+00:21:26,520 --> 00:21:29,660
+you have cardiopulmonary
+baroreceptors that are located
+
+370
+00:21:29,660 --> 00:21:32,580
+on your heart as well as
+your pulmonary vasculature
+
+371
+00:21:32,580 --> 00:21:36,920
+which will detect venous
+filling so blood volume and
+
+372
+00:21:36,920 --> 00:21:40,980
+this is a big player in
+influencing abh output when
+
+373
+00:21:40,980 --> 00:21:44,100
+blood volume is low which we
+will talk about in further
+
+374
+00:21:44,100 --> 00:21:46,730
+detail towards the end
+of the lecture intrarenal
+
+375
+00:21:47,100 --> 00:21:52,000
+baroreceptors are located at
+the juxtaglomeria or granular
+
+376
+00:21:52,000 --> 00:21:55,940
+cells within the renal
+afferent arterial over here
+
+377
+00:21:58,400 --> 00:22:02,480
+and this is important
+because when it detects
+
+378
+00:22:02,480 --> 00:22:05,560
+low pressure it will
+influence the release
+
+379
+00:22:05,560 --> 00:22:09,200
+of renin which begins
+our discussion about
+
+380
+00:22:09,200 --> 00:22:13,320
+the renin angiotensin
+aldosterone system
+
+381
+00:22:14,540 --> 00:22:16,620
+this slide is your
+overview of the
+
+382
+00:22:16,620 --> 00:22:19,140
+renin angiotensin
+aldosterone system
+
+383
+00:22:19,340 --> 00:22:22,020
+which we will talk about
+step by step on the
+
+384
+00:22:22,020 --> 00:22:25,940
+following slides this system
+turns on when the body
+
+385
+00:22:25,940 --> 00:22:30,220
+senses it is being under
+filled or under perfused we
+
+386
+00:22:30,220 --> 00:22:33,460
+just talked about the
+vascular baroreceptors that
+
+387
+00:22:33,460 --> 00:22:36,860
+live in your juxtaglomerular
+apparatus that is
+
+388
+00:22:36,860 --> 00:22:40,220
+one of the examples that
+helped switch on the RAS
+
+389
+00:22:40,220 --> 00:22:44,720
+system then when the RAS
+system is turned on it
+
+390
+00:22:44,720 --> 00:22:47,440
+will defend arterial blood
+pressure and effective
+
+391
+00:22:47,440 --> 00:22:51,140
+circulating volume to
+homeostatic levels by retaining
+
+392
+00:22:51,140 --> 00:22:54,260
+salt and water and
+constricting blood vessels.
+
+393
+00:22:54,530 --> 00:22:57,800
+I want you guys to pay
+attention to the specific
+
+394
+00:22:57,800 --> 00:23:01,280
+members of the cast of
+the RAS system and note
+
+395
+00:23:01,280 --> 00:23:04,740
+where each is made and
+located within your body.
+
+396
+00:23:05,860 --> 00:23:07,400
+Angiotensinogen is the
+
+397
+00:23:07,400 --> 00:23:09,040
+precursor protein at the liver.
+
+398
+00:23:09,580 --> 00:23:14,240
+Renin is the enzyme from the
+juxtaglomerular cells and
+
+399
+00:23:14,240 --> 00:23:17,320
+serves as the rate limiting
+step of the RAS system.
+
+400
+00:23:18,000 --> 00:23:21,520
+Angiotensin one is an
+inactive intermediate that
+
+401
+00:23:21,520 --> 00:23:28,000
+gets turned into angiotensin
+two from ace angiotensin
+
+402
+00:23:28,000 --> 00:23:31,520
+converting enzyme ace
+is located mainly on the
+
+403
+00:23:31,520 --> 00:23:35,440
+endothelium of the vessels
+within your lung and then
+
+404
+00:23:35,440 --> 00:23:39,700
+finally the last step of
+ras is aldosterone this is a
+
+405
+00:23:39,700 --> 00:23:42,940
+steroid hormone located
+within your adrenal cortex
+
+406
+00:23:43,640 --> 00:23:47,440
+Part 1 of the RAS
+walkthrough is understanding
+
+407
+00:23:47,440 --> 00:23:50,480
+what causes renin
+to be released and
+
+408
+00:23:50,480 --> 00:23:52,600
+the conversions that
+happen afterwards.
+
+409
+00:23:52,960 --> 00:23:57,840
+Renin is the rate-limiting
+enzyme of your RAS
+
+410
+00:23:57,840 --> 00:24:01,760
+system and is released by
+juxtaglomerular or granular
+
+411
+00:24:01,760 --> 00:24:05,320
+cells in response to
+three specific triggers
+
+412
+00:24:05,320 --> 00:24:09,520
+that your juxtaglomerular
+apparatus will detect.
+
+413
+00:24:09,800 --> 00:24:13,700
+First, you have sympathetic
+beta-1 receptor nerve
+
+414
+00:24:13,700 --> 00:24:17,360
+fibers that can cause
+the release of renin. You
+
+415
+00:24:17,360 --> 00:24:21,420
+also have the intrarenal
+baroreceptors located
+
+416
+00:24:21,420 --> 00:24:23,860
+at the afferent arterial,
+which we talked about,
+
+417
+00:24:23,860 --> 00:24:28,600
+as well as the macula
+densa. The macula densa will
+
+418
+00:24:28,600 --> 00:24:31,900
+detect if sodium to the
+distal convoluted tubule
+
+419
+00:24:31,900 --> 00:24:36,000
+is low and in response
+cause release of renin.
+
+420
+00:24:36,100 --> 00:24:41,220
+From there, renin gets
+released, and its job is
+
+421
+00:24:41,220 --> 00:24:44,920
+to cleave angiotensinogen,
+this precursor enzyme,
+
+422
+00:24:45,200 --> 00:24:46,960
+into angiotensin 1.
+
+423
+00:24:47,120 --> 00:24:50,260
+And then angiotensin 1 is
+
+424
+00:24:50,260 --> 00:24:53,780
+converted to
+angiotensin 2 by ACE.
+
+425
+00:24:54,520 --> 00:24:58,200
+Angiotensin 2 is one of
+the main effector hormones
+
+426
+00:24:58,200 --> 00:25:00,920
+of the RAS system, which
+we will talk about next
+
+427
+00:25:00,920 --> 00:25:05,740
+slide here are your actions
+of angiotensin 2 it's a
+
+428
+00:25:05,740 --> 00:25:09,520
+peptide hormone that binds
+to at1 receptors that perform
+
+429
+00:25:09,520 --> 00:25:12,180
+the following actions
+pay attention to the ones
+
+430
+00:25:12,180 --> 00:25:14,240
+that are highlighted as
+they are most significant
+
+431
+00:25:14,240 --> 00:25:18,100
+for blood pressure control
+first it will vasoconstrict
+
+432
+00:25:18,100 --> 00:25:22,800
+systemic arterioles which
+we learned increases the
+
+433
+00:25:22,800 --> 00:25:25,600
+total peripheral resistance
+therefore increasing
+
+434
+00:25:25,600 --> 00:25:29,700
+blood pressure this is the
+main mechanism of intermediate
+
+435
+00:25:29,700 --> 00:25:33,720
+blood pressure control
+in the kidneys it's a
+
+436
+00:25:33,720 --> 00:25:36,650
+little bit different with how
+it prefers vasoconstriction
+
+437
+00:25:36,670 --> 00:25:40,440
+angiotensin 2 will
+constrict the efferent
+
+438
+00:25:40,440 --> 00:25:44,940
+arterial preferably over
+the afferent arterial it'll
+
+439
+00:25:44,940 --> 00:25:47,860
+still constrict both but the
+efferent a little bit more
+
+440
+00:25:47,860 --> 00:25:52,160
+due to the density of
+at1 receptors the reason
+
+441
+00:25:52,160 --> 00:25:56,120
+this happens is it allows
+the preservation of GFR which
+
+442
+00:25:56,120 --> 00:25:58,600
+we saw was one of our
+goals of kidney regulation
+
+443
+00:26:00,200 --> 00:26:03,970
+furthermore angiotensin
+2 works for sodium
+
+444
+00:26:03,970 --> 00:26:06,960
+reabsorption to increase
+blood pressure by stimulating
+
+445
+00:26:06,960 --> 00:26:11,060
+several apical transporters
+within the nephron
+
+446
+00:26:11,810 --> 00:26:14,640
+additionally it will
+stimulate the release of
+
+447
+00:26:14,640 --> 00:26:18,060
+aldosterone the final
+step of the RAS system
+
+448
+00:26:18,100 --> 00:26:22,500
+and finally it will also
+talk to your brain to
+
+449
+00:26:22,500 --> 00:26:25,980
+increased factors such
+as thirst, salt appetite,
+
+450
+00:26:26,220 --> 00:26:29,900
+sympathetic drive, and
+release of ADH, all
+
+451
+00:26:29,900 --> 00:26:32,760
+further factors that will
+contribute to increasing
+
+452
+00:26:32,760 --> 00:26:35,180
+blood volume and
+therefore blood pressure.
+
+453
+00:26:36,120 --> 00:26:38,400
+The last effector to discuss
+
+454
+00:26:38,400 --> 00:26:40,800
+in the RAS is aldosterone.
+
+455
+00:26:41,180 --> 00:26:44,380
+Aldosterone is activated
+by angiotensin II and is a
+
+456
+00:26:44,380 --> 00:26:48,300
+steroid hormone that binds to
+intracellular mineralocorticoid
+
+457
+00:26:48,300 --> 00:26:51,320
+receptors to induce
+transcriptional changes.
+
+458
+00:26:51,720 --> 00:26:54,920
+Because aldosterone is a
+steroid hormone, it has
+
+459
+00:26:54,920 --> 00:26:58,680
+a longer duration of
+effect. Therefore, it is one
+
+460
+00:26:58,680 --> 00:27:01,460
+of the main effectors in
+long-term blood pressure
+
+461
+00:27:01,460 --> 00:27:05,800
+control versus angiotensin
+2, which was a peptide
+
+462
+00:27:05,800 --> 00:27:08,060
+hormone that had a shorter
+duration of effect.
+
+463
+00:27:08,380 --> 00:27:11,760
+The main action of aldosterone
+for this lecture is
+
+464
+00:27:11,760 --> 00:27:15,300
+that it'll increase apical
+ENAC and basolateral nik
+
+465
+00:27:15,300 --> 00:27:21,380
+atpases to increase sodium
+reabsorption also aldosterone
+
+466
+00:27:21,380 --> 00:27:24,520
+increases potassium
+excretion which is why it's
+
+467
+00:27:24,520 --> 00:27:28,260
+called the potassium waster
+this is important because
+
+468
+00:27:28,260 --> 00:27:31,920
+certain diuretics that
+target this area are known as
+
+469
+00:27:31,920 --> 00:27:35,080
+potassium sparing diuretics
+which you will learn about
+
+470
+00:27:35,080 --> 00:27:40,340
+in your pharmacology
+lecture another action of
+
+471
+00:27:40,340 --> 00:27:43,020
+aldosterone out of the scope
+of this lecture but still
+
+472
+00:27:43,020 --> 00:27:46,320
+important for completeness
+sake, is that it will increase
+
+473
+00:27:46,320 --> 00:27:50,440
+proton secretion by action
+on intercollated cells.
+
+474
+00:27:51,450 --> 00:27:54,320
+An interesting fun fact
+that I want to throw in here
+
+475
+00:27:54,320 --> 00:27:57,620
+is that glucocorticoids, such
+as cortisol, can also bind
+
+476
+00:27:57,620 --> 00:28:00,540
+to the same receptor
+aldosterone does, but normally
+
+477
+00:28:00,540 --> 00:28:03,840
+they are inactivated by
+this enzyme called 11-beta
+
+478
+00:28:03,840 --> 00:28:08,720
+-hydroxysteroid dehydrogenase,
+don't remember that, which
+
+479
+00:28:08,720 --> 00:28:11,820
+protects the MR receptor for
+aldosterone specifically.
+
+480
+00:28:12,120 --> 00:28:15,540
+for some reason if you eat
+a lot of licorice it'll
+
+481
+00:28:15,540 --> 00:28:18,360
+inhibit that enzyme and
+will cause an apparent
+
+482
+00:28:18,460 --> 00:28:21,580
+mineralocorticoid excess
+that's just a fun fact for you
+
+483
+00:28:21,580 --> 00:28:25,860
+guys common theme you'll
+start to notice in human
+
+484
+00:28:25,860 --> 00:28:29,420
+physiology is that
+downstream effectors usually
+
+485
+00:28:29,420 --> 00:28:33,140
+serve as negative feedback
+for the own initial steps
+
+486
+00:28:33,140 --> 00:28:36,480
+within their system so for
+example here you can see
+
+487
+00:28:36,480 --> 00:28:40,120
+that angiotensin 2 production
+will directly inhibit
+
+488
+00:28:40,120 --> 00:28:42,860
+the release of renin from
+juxtaglomerular cells.
+
+489
+00:28:44,300 --> 00:28:49,200
+Also, what inhibits the RAS
+system will be if the end
+
+490
+00:28:49,200 --> 00:28:52,820
+result has been reached,
+therefore saying if intravascular
+
+491
+00:28:52,820 --> 00:28:55,120
+volume and blood pressure
+is increased, that
+
+492
+00:28:55,120 --> 00:28:58,220
+will also serve as a trigger
+to decrease renin release.
+
+493
+00:28:58,760 --> 00:28:59,960
+Of note, though,
+
+494
+00:29:00,080 --> 00:29:03,500
+if the underlying
+deficit persists, a.k.a.
+
+495
+00:29:03,720 --> 00:29:07,400
+the body notices a
+decreased effective
+
+496
+00:29:07,400 --> 00:29:10,860
+circulating volume, it
+will cause the loop to keep
+
+497
+00:29:10,860 --> 00:29:13,380
+firing and renin to
+keep being released,
+
+498
+00:29:13,380 --> 00:29:16,600
+which is known as
+pathologic RAS activation.
+
+499
+00:29:16,800 --> 00:29:19,880
+Let's go over an example
+of that in the next slide.
+
+500
+00:29:20,660 --> 00:29:24,600
+Renal artery stenosis is a
+common condition that you
+
+501
+00:29:24,600 --> 00:29:28,960
+will see on board exams
+because it challenges your
+
+502
+00:29:28,960 --> 00:29:32,960
+understanding on how RAS
+activation works. What
+
+503
+00:29:32,960 --> 00:29:35,740
+happens is that there's a
+narrowed or stenosed renal
+
+504
+00:29:35,740 --> 00:29:40,040
+artery caused by conditions
+such as plaque buildup or
+
+505
+00:29:40,040 --> 00:29:43,180
+a unique condition called
+fibromuscular dysplasia
+
+506
+00:29:43,470 --> 00:29:47,880
+and caused the kidney to
+see low pressure or a low
+
+507
+00:29:47,880 --> 00:29:53,020
+ECV. This will cause chronic
+renal release or pathologic
+
+508
+00:29:53,020 --> 00:29:56,040
+RAS activation, therefore
+leading to chronic
+
+509
+00:29:56,040 --> 00:29:59,560
+hypertension. The classic
+presentation is a patient
+
+510
+00:29:59,560 --> 00:30:02,840
+who presents with worsening
+hypertension and they're
+
+511
+00:30:02,840 --> 00:30:06,200
+often on three or more
+antihypertensives and their
+
+512
+00:30:06,200 --> 00:30:09,340
+blood pressure hasn't
+improved in subsequent visits
+
+513
+00:30:11,940 --> 00:30:15,380
+this is a nice summary
+flow chart i found of ras i
+
+514
+00:30:15,380 --> 00:30:17,960
+suggest you guys to make a
+similar flow chart if that
+
+515
+00:30:17,960 --> 00:30:22,440
+works for you we talked
+about negative feedback loops
+
+516
+00:30:22,440 --> 00:30:27,060
+for the ras system but there
+are also peptides known
+
+517
+00:30:27,060 --> 00:30:31,200
+as natriatic peptides that
+i like to call the anti
+
+518
+00:30:31,200 --> 00:30:35,480
+-ras so these are unique
+atrial and brain natriatic
+
+519
+00:30:35,480 --> 00:30:39,600
+peptides because they're
+released from cardiac myocytes
+
+520
+00:30:39,700 --> 00:30:43,590
+in response to increased
+cardiac stretch the
+
+521
+00:30:43,940 --> 00:30:48,180
+actions will be the
+opposite from ras to drive
+
+522
+00:30:48,180 --> 00:30:53,260
+sodium and water loss
+also known as naturesis so
+
+523
+00:30:53,260 --> 00:30:56,380
+it'll dilate the
+afferent arterial inhibit
+
+524
+00:30:56,380 --> 00:31:00,260
+renin and aldosterone
+release and angiotensin's
+
+525
+00:31:00,260 --> 00:31:03,640
+reabsorption of sodium
+and promote vasodilation
+
+526
+00:31:04,640 --> 00:31:08,780
+BNP or brain natriatic
+peptide is interesting
+
+527
+00:31:08,780 --> 00:31:12,540
+because it will rise with
+ventricular stretch and
+
+528
+00:31:12,540 --> 00:31:15,400
+is a key biomarker that
+will be used in detecting
+
+529
+00:31:15,400 --> 00:31:20,800
+heart failure there are
+some additional natrietic
+
+530
+00:31:20,800 --> 00:31:23,400
+factors that i included
+for completeness sake
+
+531
+00:31:24,000 --> 00:31:27,240
+dopamine gets peripherally
+converted from l-dopa
+
+532
+00:31:27,240 --> 00:31:30,440
+in the proximal tubule
+and serves as a natrietic
+
+533
+00:31:30,440 --> 00:31:33,620
+paracrine signal to
+reduce sodium reabsorption
+
+534
+00:31:34,160 --> 00:31:38,100
+endothelin also has natrietic
+actions through unknown
+
+535
+00:31:38,100 --> 00:31:42,160
+mechanisms and even high
+plasma potassium calcium can
+
+536
+00:31:42,160 --> 00:31:46,120
+act as a switch that will
+inhibit sodium reabsorption
+
+537
+00:31:47,230 --> 00:31:50,380
+recall the goals of
+regulation of the kidney which
+
+538
+00:31:50,380 --> 00:31:53,700
+i have here again on the
+top right we want to keep
+
+539
+00:31:53,700 --> 00:31:57,940
+the gfr steady and the 99
+percent of sodium that gets
+
+540
+00:31:57,940 --> 00:32:02,220
+reabsorbed consistent therefore
+that final one percent
+
+541
+00:32:02,220 --> 00:32:08,380
+can be delivered to the
+distal nephron and be adjusted
+
+542
+00:32:08,380 --> 00:32:13,320
+appropriately there are
+three intra renal guardians
+
+543
+00:32:13,320 --> 00:32:17,760
+that I have here to protect
+goals 1 and 2 of the
+
+544
+00:32:17,760 --> 00:32:21,840
+kidney the first being
+prostaglandins prostaglandins are
+
+545
+00:32:21,840 --> 00:32:24,760
+released by your macula
+densa cells in response to
+
+546
+00:32:24,760 --> 00:32:29,180
+angiotensin 2 remember
+what angiotensin 2 does it
+
+547
+00:32:29,180 --> 00:32:33,600
+vasoconstricts the efferent
+and the afferent arterioles
+
+548
+00:32:33,600 --> 00:32:38,680
+although it prefers the
+efferent more in response
+
+549
+00:32:38,680 --> 00:32:43,580
+prostaglandins will dilate the
+afferent arterial so now we
+
+550
+00:32:43,580 --> 00:32:48,080
+have the efferent constricted
+and the afferent dilated
+
+551
+00:32:48,080 --> 00:32:52,260
+the reason that prostaglandins
+do this is to keep
+
+552
+00:32:52,260 --> 00:32:57,060
+your renal blood flow and
+gfr steady matching goal 1
+
+553
+00:32:57,060 --> 00:33:01,620
+this also explains why
+NSAIDs can potentially cause
+
+554
+00:33:01,620 --> 00:33:06,980
+acute kidney injury if you
+have NSAIDs inhibiting the
+
+555
+00:33:06,980 --> 00:33:10,680
+synthesis of prostaglandins
+in a patient whose volume
+
+556
+00:33:10,680 --> 00:33:15,260
+depleted and has angiotensin
+2 acting it will cause
+
+557
+00:33:15,260 --> 00:33:20,040
+unopposed afferent constriction
+and therefore your GFR
+
+558
+00:33:20,040 --> 00:33:23,280
+will crash and you will
+have an acute kidney injury.
+
+559
+00:33:23,880 --> 00:33:27,280
+The final two intrarenal
+guardians sound
+
+560
+00:33:27,280 --> 00:33:30,620
+pretty similar but act
+in opposite directions.
+
+561
+00:33:31,560 --> 00:33:35,860
+Tubuloglomerular feedback
+is your tubular feedback to
+
+562
+00:33:35,860 --> 00:33:40,000
+your glomerulus to change
+the glomerular output. This
+
+563
+00:33:40,000 --> 00:33:44,700
+is done by the macula densa
+at the DCT. If it senses
+
+564
+00:33:44,700 --> 00:33:49,960
+high salt it's a sign that
+your GFR is high so it will
+
+565
+00:33:49,960 --> 00:33:53,760
+tell the afferent arterial
+to constrict to lower that
+
+566
+00:33:53,760 --> 00:33:57,400
+GFR back to normal protecting
+goal one that we talked
+
+567
+00:33:57,400 --> 00:34:03,500
+about glomerular tubular
+balance or GTB goes like this
+
+568
+00:34:03,500 --> 00:34:09,300
+whatever your GFR is your
+proximal tubule will always
+
+569
+00:34:09,300 --> 00:34:15,600
+match that so if your gfr
+rises 20 for any reason your
+
+570
+00:34:15,600 --> 00:34:19,780
+proximal tubule will
+reabsorb the same fraction of
+
+571
+00:34:19,780 --> 00:34:24,220
+whatever is filtered therefore
+you have a balance in
+
+572
+00:34:24,220 --> 00:34:29,020
+sodium reabsorption and match
+goal 2 of renal regulation
+
+573
+00:34:29,060 --> 00:34:32,180
+this is a summary table
+talking about the changes
+
+574
+00:34:32,180 --> 00:34:35,380
+within glomerular
+filtration rate renal blood
+
+575
+00:34:35,380 --> 00:34:39,180
+flow, and filtration fraction
+with respect to changes
+
+576
+00:34:39,180 --> 00:34:44,200
+in afferent and efferent
+renal arterial dilation
+
+577
+00:34:44,200 --> 00:34:48,220
+or constriction. I wanted
+to include this just
+
+578
+00:34:48,220 --> 00:34:52,840
+for a synthetic purpose
+and as a supplement to
+
+579
+00:34:52,840 --> 00:34:56,480
+Kyle's GFR lecture. Shout
+out to my good friend.
+
+580
+00:34:58,430 --> 00:35:02,480
+So far, we've spent
+most of part two on the
+
+581
+00:35:02,480 --> 00:35:06,940
+way the body will adjust
+volume through sodium,
+
+582
+00:35:07,280 --> 00:35:08,080
+RAS,
+
+583
+00:35:08,400 --> 00:35:09,960
+and intrarenal guardians.
+
+584
+00:35:10,180 --> 00:35:14,020
+Now, we're going to talk
+about how when the kidney
+
+585
+00:35:14,020 --> 00:35:18,860
+detects abnormal concentration
+or osmolality, it
+
+586
+00:35:18,860 --> 00:35:24,380
+will adjust water via ADH,
+antidiuretic hormone. Recall
+
+587
+00:35:24,380 --> 00:35:28,500
+when we talk osmolality
+that is what's going to
+
+588
+00:35:28,500 --> 00:35:33,380
+track sodium the goal of
+water excretion is to keep
+
+589
+00:35:33,380 --> 00:35:36,560
+the plasma osmolality
+within the normal range of
+
+590
+00:35:36,560 --> 00:35:43,760
+275 to 295 as well as serum
+sodium within 135 to 145
+
+591
+00:35:44,380 --> 00:35:48,020
+while preserving the
+vascular volume that ras is
+
+592
+00:35:48,020 --> 00:35:53,800
+defending retain more water
+you dilute osmolality excrete
+
+593
+00:35:53,800 --> 00:35:58,320
+more water you concentrate
+it water sets concentration
+
+594
+00:35:58,890 --> 00:36:03,880
+so how does ADH act when
+it detects changes in
+
+595
+00:36:03,880 --> 00:36:08,300
+osmolality it is produced
+by a hypothalamic super
+
+596
+00:36:08,300 --> 00:36:11,560
+optic or paraventricular
+nuclei and secreted it into
+
+597
+00:36:11,560 --> 00:36:14,620
+the bloodstream by the
+posterior pituitary gland the
+
+598
+00:36:14,620 --> 00:36:17,940
+action is to insert aquaporin
+2 into the collecting
+
+599
+00:36:17,940 --> 00:36:22,760
+duct to promote water
+reabsorption so if ADH is up,
+
+600
+00:36:22,760 --> 00:36:26,140
+you will have a low volume
+urine because more water
+
+601
+00:36:26,140 --> 00:36:28,760
+is being reabsorbed. And
+if more water is being
+
+602
+00:36:28,760 --> 00:36:33,260
+reabsorbed, it will dilute the
+serum sodium concentration.
+
+603
+00:36:33,260 --> 00:36:36,320
+Therefore, it will fall
+back to a normal level.
+
+604
+00:36:37,030 --> 00:36:41,120
+The opposite is true. If
+ADH is low, you will have a
+
+605
+00:36:41,120 --> 00:36:44,600
+dilute high volume urine
+because less water is being
+
+606
+00:36:44,600 --> 00:36:48,280
+reabsorbed and your serum
+sodium levels will rise.
+
+607
+00:36:49,000 --> 00:36:52,900
+At high levels,
+ADH also acts on V1
+
+608
+00:36:52,900 --> 00:36:56,460
+receptors as a
+vasoconstrictor. This is
+
+609
+00:36:56,460 --> 00:37:00,280
+why ADH also has a
+name vasopressin.
+
+610
+00:37:00,780 --> 00:37:04,280
+On the right box, you will
+see some clinical correlates
+
+611
+00:37:04,280 --> 00:37:07,560
+that you will see multiple
+times throughout your
+
+612
+00:37:07,560 --> 00:37:09,920
+med school career, but I
+wanted to highlight them now.
+
+613
+00:37:10,280 --> 00:37:13,300
+Too much ADH is called
+symptom of inappropriate
+
+614
+00:37:13,300 --> 00:37:18,160
+antidiuretic hormone, which is
+where you're having continuous
+
+615
+00:37:18,160 --> 00:37:23,380
+water retention, therefore
+hyponatremia. Too little
+
+616
+00:37:23,380 --> 00:37:27,640
+ADH or ineffective ADH
+response is known as diabetes
+
+617
+00:37:27,640 --> 00:37:32,240
+insipidus, which is water
+loss and hypernatremia.
+
+618
+00:37:33,410 --> 00:37:37,080
+So far in our discussion
+of ADH, I've been
+
+619
+00:37:37,080 --> 00:37:39,640
+harping on the fact that
+the main way your body
+
+620
+00:37:39,640 --> 00:37:43,800
+senses changes and
+triggers ADH release is
+
+621
+00:37:43,800 --> 00:37:47,200
+through changes in
+osmolality. This is true
+
+622
+00:37:47,200 --> 00:37:50,340
+for normal conditions
+in your day-to-day life.
+
+623
+00:37:51,020 --> 00:37:55,180
+You have osmoreceptors that
+are located within your
+
+624
+00:37:55,180 --> 00:37:59,100
+brain that will detect
+changes in plasma osmolality
+
+625
+00:37:59,100 --> 00:38:03,980
+or sodium concentration and
+cause the release of ADH.
+
+626
+00:38:04,220 --> 00:38:09,360
+However, you also have
+baroreceptors, your
+
+627
+00:38:09,360 --> 00:38:11,260
+cardiopulmonary,
+and your arterial
+
+628
+00:38:11,260 --> 00:38:14,620
+baroreceptors that play
+a role in ADH release.
+
+629
+00:38:14,960 --> 00:38:18,720
+Specifically, this role
+is in emergency situations
+
+630
+00:38:18,720 --> 00:38:22,100
+when your body is losing
+a lot of blood volume.
+
+631
+00:38:22,100 --> 00:38:25,920
+Your baroreceptors will
+actually take over as
+
+632
+00:38:25,920 --> 00:38:29,200
+the main sensory input
+to trigger ADH release.
+
+633
+00:38:29,200 --> 00:38:32,380
+This makes sense because
+if you're losing critical
+
+634
+00:38:32,380 --> 00:38:36,500
+levels of blood volume,
+the best way to maintain
+
+635
+00:38:36,500 --> 00:38:40,460
+a blood volume is to put
+as much water in your body
+
+636
+00:38:40,460 --> 00:38:44,150
+as you can and what
+better to do that than adh
+
+637
+00:38:44,150 --> 00:38:47,260
+let's talk about that in
+further detail next slide
+
+638
+00:38:47,580 --> 00:38:51,620
+as we discussed normal
+conditions osmoreceptors
+
+639
+00:38:51,620 --> 00:38:55,980
+rule we want this to be
+the case because adh works
+
+640
+00:38:55,980 --> 00:38:59,540
+best when you are
+reabsorbing water in order to
+
+641
+00:38:59,540 --> 00:39:03,620
+balance levels of plasma
+sodium and osmolality.
+
+642
+00:39:03,900 --> 00:39:05,060
+However,
+
+643
+00:39:05,360 --> 00:39:07,120
+under critical conditions,
+
+644
+00:39:07,120 --> 00:39:08,880
+such as a massive hemorrhage,
+
+645
+00:39:08,900 --> 00:39:10,340
+there's a different story.
+
+646
+00:39:10,580 --> 00:39:14,200
+Here, you want to
+maintain as much
+
+647
+00:39:14,200 --> 00:39:16,700
+blood volume as
+possible to stay alive.
+
+648
+00:39:17,020 --> 00:39:20,300
+So, your baroreceptors
+take over
+
+649
+00:39:20,300 --> 00:39:23,340
+and override the
+osmoreceptor input,
+
+650
+00:39:23,680 --> 00:39:25,520
+triggering your body to release
+
+651
+00:39:25,520 --> 00:39:27,660
+as much ADH as possible.
+
+652
+00:39:27,960 --> 00:39:30,700
+This is because you
+want to maintain as
+
+653
+00:39:30,700 --> 00:39:32,860
+much blood volume as
+you can keep those
+
+654
+00:39:32,860 --> 00:39:35,580
+organs perfused and
+hopefully stay alive
+
+655
+00:39:36,700 --> 00:39:40,340
+however there is a major
+trade-off that the body must
+
+656
+00:39:40,340 --> 00:39:44,000
+sacrifice in order to do
+this and that is because
+
+657
+00:39:44,000 --> 00:39:47,460
+you are retaining water in
+excess and overriding the
+
+658
+00:39:47,460 --> 00:39:50,680
+osmo receptors there is
+no adjustment that can be
+
+659
+00:39:50,680 --> 00:39:55,220
+made to sodium so sodium will
+fall causing hyponatremia
+
+660
+00:39:55,660 --> 00:39:58,900
+hopefully when you make
+it to the hospital, they
+
+661
+00:39:58,900 --> 00:40:02,180
+will correct those sodium
+levels for you over time.
+
+662
+00:40:03,040 --> 00:40:07,780
+Interestingly enough, to
+reopen our conversation about
+
+663
+00:40:07,780 --> 00:40:11,300
+effective circulating
+volume, this dangerous volume
+
+664
+00:40:11,300 --> 00:40:16,080
+drop can be falsely perceived
+by your body as a low
+
+665
+00:40:16,080 --> 00:40:21,860
+ECV and cause ADH to be
+released inappropriately as
+
+666
+00:40:23,160 --> 00:40:27,460
+well additional regulators of
+adh that i find interesting
+
+667
+00:40:27,460 --> 00:40:31,040
+are angiotensin 2 which
+makes sense because
+
+668
+00:40:31,040 --> 00:40:34,520
+angiotensin itself will be
+activated under low volume
+
+669
+00:40:34,520 --> 00:40:39,520
+states so you will want
+adh to play along with that
+
+670
+00:40:39,520 --> 00:40:45,800
+other triggers are pain
+severe stress nausea vomiting
+
+671
+00:40:45,800 --> 00:40:49,740
+these are all examples of
+non-osmotic triggers along
+
+672
+00:40:49,740 --> 00:40:52,720
+with the baroreceptor
+trigger that we talked about
+
+673
+00:40:54,080 --> 00:40:57,780
+alcohol also
+inhibits adh causing
+
+674
+00:40:57,780 --> 00:41:00,160
+that high volume dilute urine
+
+675
+00:41:02,480 --> 00:41:05,760
+it wouldn't be a lecture
+about sodium and water
+
+676
+00:41:05,760 --> 00:41:08,400
+without talking about
+your appetite for them
+
+677
+00:41:08,580 --> 00:41:11,700
+because your kidneys can
+only do so much you need to
+
+678
+00:41:11,700 --> 00:41:15,300
+actually put salt and water
+in your body in order to
+
+679
+00:41:15,300 --> 00:41:18,940
+compensate for changes
+that are being made so we
+
+680
+00:41:18,940 --> 00:41:22,540
+talked about angiotensin
+2 being a trigger for salt
+
+681
+00:41:22,540 --> 00:41:26,680
+appetite and thirst but
+there are also triggers that
+
+682
+00:41:26,680 --> 00:41:30,160
+make sense like reduced
+plasma volume and increased
+
+683
+00:41:30,160 --> 00:41:34,260
+serum osmolality as well as
+the feeling of a dry mouth
+
+684
+00:41:36,720 --> 00:41:39,920
+i included this slide
+here for completeness sake
+
+685
+00:41:39,920 --> 00:41:42,980
+so you have a whole picture
+of the three timescales
+
+686
+00:41:42,980 --> 00:41:45,220
+of blood pressure control
+that we talked about
+
+687
+00:41:45,220 --> 00:41:49,240
+which aligns with learning
+objective number four
+
+688
+00:41:49,240 --> 00:41:52,600
+in our lecture please don't
+freak out when you see
+
+689
+00:41:52,600 --> 00:41:57,320
+all of these words rather
+pause read them along
+
+690
+00:41:57,500 --> 00:41:59,680
+and see if they
+make sense to you
+
+691
+00:42:02,340 --> 00:42:05,020
+we've made it to the
+final part of this lecture
+
+692
+00:42:05,020 --> 00:42:07,820
+where we are going to
+apply everything we've
+
+693
+00:42:07,820 --> 00:42:11,080
+learned so far and
+integrate it into a very
+
+694
+00:42:11,080 --> 00:42:13,980
+fascinating condition
+known as heart failure.
+
+695
+00:42:16,460 --> 00:42:19,160
+Heart failure occurs
+for several reasons
+
+696
+00:42:19,160 --> 00:42:21,930
+out of the scope of
+this lecture. However,
+
+697
+00:42:22,000 --> 00:42:25,280
+the theme is the same. The
+heart muscles are weakened
+
+698
+00:42:25,280 --> 00:42:29,320
+and there is a weak pump.
+With a weak pump, you
+
+699
+00:42:29,320 --> 00:42:32,220
+are unable to deliver
+enough blood to the arteries
+
+700
+00:42:32,220 --> 00:42:35,940
+and not enough blood is
+able to reach your tissues.
+
+701
+00:42:36,180 --> 00:42:37,480
+Therefore,
+
+702
+00:42:37,960 --> 00:42:41,440
+you have a decreased
+effective circulating volume.
+
+703
+00:42:42,260 --> 00:42:45,800
+This decreased effective
+circulating volume will
+
+704
+00:42:45,800 --> 00:42:50,020
+cause your body to
+recognize it as low volume.
+
+705
+00:42:50,220 --> 00:42:51,240
+Therefore,
+
+706
+00:42:51,460 --> 00:42:55,040
+sensors such as your
+intra renal baroreceptors
+
+707
+00:42:55,040 --> 00:42:59,540
+will trigger release
+of RAS, sympathetics,
+
+708
+00:42:59,600 --> 00:43:04,120
+antidiuretic hormone, and
+cause the kidney to retain
+
+709
+00:43:04,120 --> 00:43:07,760
+sodium and water. This
+results in total body
+
+710
+00:43:07,760 --> 00:43:11,580
+volume increasing your
+extracellular fluid volume,
+
+711
+00:43:11,890 --> 00:43:14,760
+causing many of the signs
+and symptoms that you see
+
+712
+00:43:14,760 --> 00:43:17,280
+in heart failure on the
+right side of your screen,
+
+713
+00:43:17,280 --> 00:43:20,220
+such as pitting edema on
+the lower extremities,
+
+714
+00:43:20,680 --> 00:43:23,300
+ascites, and pulmonary edema.
+
+715
+00:43:23,600 --> 00:43:28,020
+However, the theme stays
+the same the pump is
+
+716
+00:43:28,020 --> 00:43:31,480
+still weak therefore your
+effective circulating
+
+717
+00:43:31,480 --> 00:43:36,220
+volume never recovers
+still low because of this
+
+718
+00:43:36,220 --> 00:43:40,320
+a vicious cycle happens
+where your body will
+
+719
+00:43:40,320 --> 00:43:45,240
+still perceive as low
+volume and trigger RAS
+
+720
+00:43:45,240 --> 00:43:51,720
+sympathetics and ADHD
+continuously although we
+
+721
+00:43:51,720 --> 00:43:55,000
+discussed natriotic
+peptides being the anti-RAS.
+
+722
+00:43:56,000 --> 00:44:00,420
+The effects we discussed
+last slide of RAS
+
+723
+00:44:00,420 --> 00:44:04,340
+and sympathetics are too
+vicious and too prominent
+
+724
+00:44:04,340 --> 00:44:07,000
+for the natriotic
+peptides to overcome.
+
+725
+00:44:07,360 --> 00:44:10,800
+BNP is often used as a severity
+
+726
+00:44:10,800 --> 00:44:12,260
+marker in heart failure.
+
+727
+00:44:13,660 --> 00:44:18,160
+Hyponatremia is another
+severity marker where if it's
+
+728
+00:44:18,160 --> 00:44:21,800
+present in a heart failure
+patient it often indicates
+
+729
+00:44:21,800 --> 00:44:26,740
+higher risk of mortality
+this is because of the ECV
+
+730
+00:44:26,740 --> 00:44:30,920
+being so low that it triggers
+the non-osmotic release
+
+731
+00:44:30,920 --> 00:44:35,660
+of antidiuretic hormone
+similar to the baroreceptor
+
+732
+00:44:35,660 --> 00:44:39,860
+trigger that we talked about
+previously for ADH release
+
+733
+00:44:41,780 --> 00:44:44,840
+pharmacologically we
+attempt to treat our failure
+
+734
+00:44:44,840 --> 00:44:48,700
+by calming down the
+kidneys over firing signals
+
+735
+00:44:48,700 --> 00:44:53,080
+we will use loop diuretics
+acutely to reduce
+
+736
+00:44:53,080 --> 00:44:57,640
+total body volume we
+will use aces and arbs to
+
+737
+00:44:57,640 --> 00:45:01,740
+lower angiotensin 2 mr
+antagonists to lower
+
+738
+00:45:01,740 --> 00:45:06,140
+aldosterone and sometimes
+sucubitril in combination
+
+739
+00:45:06,140 --> 00:45:09,420
+to increase the level
+of natriotic peptide.
+
+740
+00:45:10,060 --> 00:45:13,940
+I want you guys
+now to revisit the
+
+741
+00:45:13,940 --> 00:45:16,480
+opening question
+of this lecture.
+
+742
+00:45:17,100 --> 00:45:20,460
+See if you can answer
+the following questions
+
+743
+00:45:20,460 --> 00:45:24,100
+that we discussed
+in the next slide.
+
+744
+00:45:25,600 --> 00:45:28,440
+Here is the opening
+question revisited.
+
+745
+00:45:28,520 --> 00:45:30,700
+Hopefully now you can answer
+
+746
+00:45:30,700 --> 00:45:32,160
+the following three questions.
+
+747
+00:45:33,180 --> 00:45:37,000
+if the patient is fluid
+overloaded wires kidneys acting
+
+748
+00:45:37,000 --> 00:45:39,400
+like he's dehydrated by
+retaining more salt and
+
+749
+00:45:39,400 --> 00:45:42,920
+water this is because the
+kidney defends effective
+
+750
+00:45:42,920 --> 00:45:46,320
+circulating volume which is
+low in heart failure despite
+
+751
+00:45:46,320 --> 00:45:50,120
+high total volume if he's
+retaining salt and water
+
+752
+00:45:50,120 --> 00:45:53,900
+why is the sodium low because
+of the barrel receptor
+
+753
+00:45:53,900 --> 00:45:57,980
+override mechanism that we
+discussed driving ADH and
+
+754
+00:45:57,980 --> 00:46:03,520
+a non-osmotic trigger that's
+why hyponatremia is often
+
+755
+00:46:03,520 --> 00:46:08,780
+a signal of high mortality
+why do we treat them
+
+756
+00:46:08,780 --> 00:46:11,380
+with drugs that act on the
+kidney for a heart problem
+
+757
+00:46:11,450 --> 00:46:14,420
+because the damage is being
+done through inappropriate
+
+758
+00:46:14,420 --> 00:46:17,600
+signaling to the kidney that
+low effective circulating
+
+759
+00:46:17,600 --> 00:46:22,120
+volume so we attempt to
+switch those signals off
+
+760
+00:46:24,300 --> 00:46:27,240
+thank you all again for
+sticking through it with me
+
+761
+00:46:27,240 --> 00:46:30,060
+in this lecture this is
+one of my favorite topics
+
+762
+00:46:30,060 --> 00:46:33,340
+in medicine because it shows
+you how well integrated
+
+763
+00:46:33,340 --> 00:46:36,460
+the body is and all the
+small moving parts that
+
+764
+00:46:36,460 --> 00:46:39,480
+come together for one
+overarching goal of maintaining
+
+765
+00:46:39,480 --> 00:46:42,980
+blood volume and blood
+pressure please contact
+
+766
+00:46:42,980 --> 00:46:46,320
+me at any time with any
+questions through my email
+
+767
+00:46:46,560 --> 00:46:49,620
+i'll always be happy
+to provide any kind of
+
+768
+00:46:49,620 --> 00:46:52,260
+knowledge or mentorship
+that i can or redirect
+
+769
+00:46:52,260 --> 00:46:56,080
+you to the best source
+for them you guys are
+
+770
+00:46:56,080 --> 00:46:58,170
+all amazing best of
+luck in your medical
+
+771
+00:46:58,170 --> 00:47:00,580
+journeys and have a
+wonderful rest of your day.
