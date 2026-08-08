@@ -7,8 +7,7 @@ content/*_Analysis.md
 # Lecture pipeline working bundles (transcripts, slide text, generated drafts before install)
 _pipeline/
 
-# New-semester raw files awaiting ingest (renumbering)
-_incoming/
+# _incoming/ (new-semester raw drops) IS tracked, so drops sync between machines.
 
 # Python bytecode cache
 __pycache__/

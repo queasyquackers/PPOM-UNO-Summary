@@ -35,7 +35,8 @@ repos for inputs, and `install` copies the slide PDF into `PPOM-UNO-Problems/pdf
 files routed into that repo's own `transcripts/`/`pdfs/` — but it's never created for you.)
 
 From then on use the **new** numbers everywhere: `prep 201`, `/generate-lecture 201`,
-`install 201`. (`_incoming/` is git-ignored, like `_pipeline/`.)
+`install 201`. (`_incoming/` is tracked by git so raw drops sync between machines —
+commit + push after dropping files, and pull on the other machine before running `prep`.)
 
 ## The 3-step flow
 
