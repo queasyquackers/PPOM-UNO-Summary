@@ -1534,5 +1534,77 @@ window.receiveLectureIndex([
     "tags": "Lecture #4",
     "path": "content/json/cv4.file.js",
     "readingTime": 15
+  },
+  {
+    "id": "cv6",
+    "title": "Lecture #6: Organization of the Urinary System",
+    "module": "Physiology",
+    "tags": "Lecture #6",
+    "path": "content/json/cv6.file.js",
+    "readingTime": 15
+  },
+  {
+    "id": "cv7",
+    "title": "Lecture #7: Glomerular Filtration Rate, Renal Blood Flow, and Clearance",
+    "module": "Physiology",
+    "tags": "Lecture #7",
+    "path": "content/json/cv7.file.js",
+    "readingTime": 16
+  },
+  {
+    "id": "cv8",
+    "title": "Lecture #8: Renal Physiology: Regulation of Sodium & Water Excretion",
+    "module": "Physiology",
+    "tags": "Lecture #8",
+    "path": "content/json/cv8.file.js",
+    "readingTime": 18
+  },
+  {
+    "id": "cv9",
+    "title": "Lecture #9: Transport of Potassium, Calcium, Magnesium & Phosphate",
+    "module": "Physiology",
+    "tags": "Lecture #9",
+    "path": "content/json/cv9.file.js",
+    "readingTime": 19
+  },
+  {
+    "id": "cv10",
+    "title": "Lecture #10: Transport of Urea, Glucose & Organic Solutes",
+    "module": "Physiology",
+    "tags": "Lecture #10",
+    "path": "content/json/cv10.file.js",
+    "readingTime": 15
+  },
+  {
+    "id": "cv11",
+    "title": "Lecture #11: Introduction to Osteopathy in the Cranial Field",
+    "module": "OMM",
+    "tags": "Lecture #11",
+    "path": "content/json/cv11.file.js",
+    "readingTime": 15
+  },
+  {
+    "id": "cv12",
+    "title": "Lecture #12: Sphenobasilar Synchondrosis (SBS) Strain Patterns",
+    "module": "OMM",
+    "tags": "Lecture #12",
+    "path": "content/json/cv12.file.js",
+    "readingTime": 15
+  },
+  {
+    "id": "cv13",
+    "title": "Lecture #13: Introduction to Osteopathy in the Cranial Field (OMM Lab 32 Prep)",
+    "module": "OMM",
+    "tags": "Lecture #13",
+    "path": "content/json/cv13.file.js",
+    "readingTime": 14
+  },
+  {
+    "id": "cv21",
+    "title": "Lecture #21: OMM Lab #33 Prep \u2014 Palpation of Cranial Strain Patterns, Condylar Decompression & Lifts",
+    "module": "OMM",
+    "tags": "Lecture #21",
+    "path": "content/json/cv21.file.js",
+    "readingTime": 14
   }
 ]);
