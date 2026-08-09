@@ -1606,5 +1606,45 @@ window.receiveLectureIndex([
     "tags": "Lecture #21",
     "path": "content/json/cv21.file.js",
     "readingTime": 14
+  },
+  {
+    "id": "cv16",
+    "title": "Lecture #16: Hemodynamics and Circulation",
+    "module": "Physiology",
+    "tags": "Lecture #16",
+    "path": "content/json/cv16.file.js",
+    "readingTime": 19
+  },
+  {
+    "id": "cv17",
+    "title": "Lecture #17: Arterial Blood Pressure Regulation",
+    "module": "Physiology",
+    "tags": "Lecture #17",
+    "path": "content/json/cv17.file.js",
+    "readingTime": 19
+  },
+  {
+    "id": "cv18",
+    "title": "Lecture #18: Histology of the Heart",
+    "module": "Histology",
+    "tags": "Lecture #18",
+    "path": "content/json/cv18.file.js",
+    "readingTime": 16
+  },
+  {
+    "id": "cv19",
+    "title": "Lecture #19: Histology of the Blood Vessels and Lymphatics",
+    "module": "Histology",
+    "tags": "Lecture #19",
+    "path": "content/json/cv19.file.js",
+    "readingTime": 17
+  },
+  {
+    "id": "cv23",
+    "title": "Lecture #23: Cardiac Impulse Initiation, Propagation, and Autonomic Regulation",
+    "module": "Physiology",
+    "tags": "Lecture #23",
+    "path": "content/json/cv23.file.js",
+    "readingTime": 20
   }
 ]);
