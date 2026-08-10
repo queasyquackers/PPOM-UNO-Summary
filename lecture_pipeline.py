@@ -191,6 +191,22 @@ def run_git(repo, args, check=True):
 # unique -- l22 already exists in Neuro -- cardio lectures carry a "cv" prefix
 # (cv22 -> displays "CV22", routes to the Cardiovascular block). See app.js
 # getBlockInfo() (Summary) and config.js getTestSection() (Problems).
+
+# CPR Block 1 curriculum weeks, keyed by lecture number. The boundaries are
+# uneven (week 3 spans 11 lectures, the others 10), so they are listed rather
+# than computed. Derived at install time so a hand-written meta.json cannot
+# record the wrong week.
+CARDIO_WEEKS = ((1, 10, 1), (11, 20, 2), (21, 31, 3), (32, 41, 4))
+
+
+def cardio_week(n):
+    """Curriculum week for cardio lecture n, or None if outside 1-41."""
+    for lo, hi, week in CARDIO_WEEKS:
+        if lo <= n <= hi:
+            return week
+    return None
+
+
 def block_ids(n, block):
     if block == "cardio":
         return {
@@ -204,7 +220,7 @@ def block_ids(n, block):
             "pdf_key": f"CV{n}",              # key in Problems/scripts/pdf_mapping.js
             "id_token": f"CV{n}",            # "(CV22)" token in the config test name
             "bundle_name": f"CV{n}",
-            "append_index": True,            # cardio lectures append at the end of the index
+            "separate_numbering": True,      # cv1-41 is its own number space; sort among cv entries
         }
     return {
         "block": "main",
@@ -217,7 +233,7 @@ def block_ids(n, block):
         "pdf_key": f"L{n}",
         "id_token": f"L{n}",
         "bundle_name": f"L{n}",
-        "append_index": False,
+        "separate_numbering": False,
     }
 
 
@@ -749,9 +765,11 @@ def insert_into_lectures_index(index_path, ids, entry_block):
     if f'"id": "{slug}"' in text:
         info(f"lectures_index.js already has {slug} -- skipping.")
         return
-    # Cardio lectures (cv-prefixed) always append at the end of the index.
-    nums = [(int(m.group(1)), m.start()) for m in re.finditer(r'"id":\s*"l(\d+)[a-z]?"', text)]
-    target = None if ids["append_index"] else next((pos for num, pos in nums if num > n), None)
+    # Cardio lectures live in their own 1-41 number space, so they sort among the
+    # other cv entries (which sit after the main block) rather than among l ones.
+    pat = r'"id":\s*"cv(\d+)"' if ids["separate_numbering"] else r'"id":\s*"l(\d+)[a-z]?"'
+    nums = [(int(m.group(1)), m.start()) for m in re.finditer(pat, text)]
+    target = next((pos for num, pos in nums if num > n), None)
     if target is not None:
         # position of the "  {" that begins that entry
         brace = text.rfind("  {", 0, target)
@@ -781,13 +799,14 @@ def insert_into_config(config_path, ids, week, topic):
         info(f"config.js already registers {test_var} -- skipping.")
         return
     entry = f'    {{ name: "{config_test_name(ids, week, topic)}", data: window.{test_var} }},'
-    # Main lectures insert in numeric order; cardio (append_index) go at the end
-    # alongside the other non-numbered entries (e.g. the Pathoma block).
+    # Each numbering space sorts within itself: main lectures among Test_L*, cardio
+    # among Test_CV* (which sit after the main entries and the Pathoma block).
+    pat = r"window\.Test_CV(\d+)\b" if ids["separate_numbering"] else r"window\.Test_L(\d+)\b"
     nums = [
         (int(m.group(1)), m.start() + start)
-        for m in re.finditer(r"window\.Test_L(\d+)\b", block)
+        for m in re.finditer(pat, block)
     ]
-    target = None if ids["append_index"] else next((pos for num, pos in nums if num > n), None)
+    target = next((pos for num, pos in nums if num > n), None)
     if target is not None:
         line_start = text.rfind("\n", 0, target) + 1
         text = text[:line_start] + entry + "\n" + text[line_start:]
@@ -809,11 +828,12 @@ def insert_script_tag(index_html, ids):
         info(f"index.html already includes {test_file} -- skipping.")
         return
     tag = f'    <script src="{test_file}"></script>\n'
-    nums = [
-        (int(m.group(1)), m.start())
-        for m in re.finditer(r'<script src="Test_L(\d+)\.js"></script>', text)
-    ]
-    target = None if ids["append_index"] else next((pos for num, pos in nums if num > n), None)
+    # Load order is functionally irrelevant here, but keep each number space in
+    # numeric order so the tag list stays readable alongside config.js.
+    pat = (r'<script src="Test_CV(\d+)\.js"></script>' if ids["separate_numbering"]
+           else r'<script src="Test_L(\d+)\.js"></script>')
+    nums = [(int(m.group(1)), m.start()) for m in re.finditer(pat, text)]
+    target = next((pos for num, pos in nums if num > n), None)
     if target is not None:
         line_start = text.rfind("\n", 0, target) + 1
         text = text[:line_start] + tag + text[line_start:]
@@ -962,6 +982,15 @@ def cmd_install(args):
     topic = meta.get("topic")
     if week is None or not topic:
         die("meta.json must include numeric 'week' and string 'topic'.")
+    if block == "cardio":
+        # The curriculum week follows from the lecture number, so trust the map
+        # over whatever the generator guessed.
+        derived = cardio_week(n)
+        if derived is None:
+            die(f"cardio lecture {n} is outside the 1-41 week map.")
+        if derived != week:
+            info(f"meta.json week {week} -> {derived} (CPR week map for lecture {n})")
+        week = derived
 
     title_match = re.search(r'"title":\s*"([^"]+)"', summary_text)
     title = title_match.group(1) if title_match else f"Lecture #{n}"

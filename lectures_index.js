@@ -1496,14 +1496,6 @@ window.receiveLectureIndex([
     "readingTime": 13
   },
   {
-    "id": "cv22",
-    "title": "Lecture #22: Cardiac Action Potentials",
-    "module": "Physiology",
-    "tags": "Lecture #22",
-    "path": "content/json/cv22.file.js",
-    "readingTime": 11
-  },
-  {
     "id": "cv1",
     "title": "Lecture #1: Principles of Balanced Ligamentous Tension (BLT)",
     "module": "OMM",
@@ -1600,14 +1592,6 @@ window.receiveLectureIndex([
     "readingTime": 14
   },
   {
-    "id": "cv21",
-    "title": "Lecture #21: OMM Lab #33 Prep \u2014 Palpation of Cranial Strain Patterns, Condylar Decompression & Lifts",
-    "module": "OMM",
-    "tags": "Lecture #21",
-    "path": "content/json/cv21.file.js",
-    "readingTime": 14
-  },
-  {
     "id": "cv16",
     "title": "Lecture #16: Hemodynamics and Circulation",
     "module": "Physiology",
@@ -1638,6 +1622,22 @@ window.receiveLectureIndex([
     "tags": "Lecture #19",
     "path": "content/json/cv19.file.js",
     "readingTime": 17
+  },
+  {
+    "id": "cv21",
+    "title": "Lecture #21: OMM Lab #33 Prep — Palpation of Cranial Strain Patterns, Condylar Decompression & Lifts",
+    "module": "OMM",
+    "tags": "Lecture #21",
+    "path": "content/json/cv21.file.js",
+    "readingTime": 14
+  },
+  {
+    "id": "cv22",
+    "title": "Lecture #22: Cardiac Action Potentials",
+    "module": "Physiology",
+    "tags": "Lecture #22",
+    "path": "content/json/cv22.file.js",
+    "readingTime": 11
   },
   {
     "id": "cv23",
