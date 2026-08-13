@@ -31,6 +31,8 @@ With your hands in the vault hold (vault contact) on the patient's head, the SBS
   - **Right torsion:** right index finger comes **up toward the operator** while the right pinky moves toward the patient's feet; the left hand does the opposite (left index toward the feet).
   - **Left torsion:** the mirror image — left index finger rotates up toward you, left pinky toward the feet.
 
+:::diagram cv21-vault-hold-strain-patterns:::
+
 ## Palpating the Non-Physiologic Strain Patterns (Slides 5, 7)
 
 The non-physiologic patterns — lateral strains and vertical shears — involve the occiput and sphenoid moving around **parallel axes in the same direction**, something the SBS was never built to do. Palpation here has a famous trap: what your fingers do is the *opposite* of the pattern's name, because the pattern is named for where the **basisphenoid** goes, not where your index fingers drift.
@@ -39,6 +41,8 @@ The non-physiologic patterns — lateral strains and vertical shears — involve
 - **Left lateral strain:** index fingers move toward the **right**, pinkies toward the **left**.
 - **Superior shear (superior vertical strain):** both index fingers point/move **toward the feet** while the pinkies move **toward the head** — the hands rotate anteriorly.
 - **Inferior shear (inferior vertical strain):** index fingers move **toward the head**, pinkies **toward the feet** — the hands rotate posteriorly.
+
+:::diagram cv21-lateral-strain-naming:::
 
 :::highyield
 Lateral strains are named for the direction of the BASISPHENOID (the slide chart says: named for the side of the pinkies), NOT for the direction the index fingers move. In a right lateral strain your index fingers drift LEFT while your pinkies drift RIGHT. This "opposite of what you expect" naming rule is the classic exam trap of this lecture.
@@ -145,6 +149,8 @@ Nasopharyngeal physiology depends on motion of the facial bones. If the bones of
 - **Maxilla (Slide 30):** hangs from the frontal; if the frontal is not moving well and the zygoma is not moving well, the maxilla cannot move properly during primary respiration.
 - **Zygoma (Slide 31):** its motion is very influential in assisting the **pumping motion of the maxilla** — a zygomatic restriction means a maxillary restriction.
 - **The maxillary sinus pump (Slide 32):** produced by the **movement between the maxilla and the zygoma**; a restriction anywhere in that mechanism impairs maxillary sinus drainage.
+
+:::diagram cv21-maxillary-sinus-pump:::
 
 :::correlate
 Maxillary Sinusitis

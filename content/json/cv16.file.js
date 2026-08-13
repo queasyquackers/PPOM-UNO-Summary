@@ -63,6 +63,8 @@ Here is the first quantitative rule of the lecture. Flow through the system is c
   - Capillaries: v = 5.5 L/min / 2,500 cm2 = **2.2 cm/min**.
   - Same flow, wildly different velocities — driven entirely by cross-sectional area.
 
+:::diagram cv16-velocity-vs-total-area:::
+
 :::highyield
 Velocity of blood flow is inversely proportional to TOTAL cross-sectional area (v = Q/A). Capillaries have the highest total cross-sectional area and the lowest velocity; the aorta has the smallest total cross-sectional area and the highest velocity. Flow stays constant throughout — only velocity changes.
 :::
@@ -99,6 +101,8 @@ Rearranging Ohm's law lets you compute resistance from a flow and two pressures 
 
 ## Decompensated Heart Failure: Hemodynamics in Action (Slide 18)
 
+:::diagram cv16-cardiorenal-loop:::
+
 :::correlate
 Decompensated Heart Failure
 
@@ -121,6 +125,8 @@ Now the concept the lecturer called the key of the lecture and "highly asked in 
 - **The r to the 4th consequence:** doubling the radius (1 → 2) increases flow **16-fold** (2 x 2 x 2 x 2).
 - **Anemia as the classic viscosity example [Lecturer Emphasis] (Slide 23):** in anemia the number of red cells decreases, so **viscosity decreases**, so **flow increases**. (The lecturer corrected a momentary slip: in anemia viscosity goes DOWN and flow goes UP.)
 - The USMLE First Aid table summarizing resistance, pressure, and flow is recommended for board studiers [Lecturer Emphasis].
+
+:::diagram cv16-poiseuille-r4:::
 
 :::highyield
 Poiseuille's equation: Q = (delta P x pi x r^4) / (8 x L x viscosity). Radius is raised to the FOURTH power — doubling the radius of a vessel (or an IV catheter) increases flow 16-fold. This is the single most board-tested relationship of the lecture, and it is why arterioles (adjustable radius) are the body's flow-control valves.

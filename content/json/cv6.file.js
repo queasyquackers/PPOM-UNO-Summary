@@ -46,6 +46,8 @@ This is where students start having trouble: the kidney's vasculature is atypica
 - **Unequal perfusion [Lecturer Emphasis]:** **90%** of renal blood perfuses the **superficial glomeruli and cortex**; only **10%** perfuses the **juxtamedullary glomeruli and medulla** — leaving the medulla **relatively anoxic**. This becomes very important for erythropoietin control and red cell formation.
 - **Lymphatics:** drain cortical interstitial fluid, carry renal hormones (e.g., erythropoietin), follow the arteries to the hilus, and are **absent from the medulla**.
 
+:::diagram cv6-renal-vascular-circuit:::
+
 :::highyield
 The renal circulation is the classic exception: arteriole → glomerular capillary → arteriole, with two high-resistance arterioles flanking a high-pressure filtering bed and low-pressure peritubular capillaries downstream. Perfusion is lopsided — 90% cortex / 10% medulla — leaving the medulla relatively hypoxic, the set-up for erythropoietin regulation.
 :::
@@ -80,6 +82,8 @@ Everything leaving the blood for Bowman's space crosses a three-part barrier who
   - Basement membrane + glycocalyx form a large negatively charged net that **stops negatively charged proteins and cells** (cell membranes are net-negative from their phospholipids).
 - **Podocyte architecture (Slide 11):** primary and secondary processes end in **foot processes (pedicels)** that interdigitate over the basement membrane; between them are **filtration slits** bridged by **slit diaphragms** adjustable from **4 to 14 nm**. Negatively charged glycoproteins coat the podocyte surfaces, further restricting large anions.
 - **Slit diaphragm integrity proteins [Lecturer Emphasis]:** **nephrin, NEPH1 (Kirrel1), and podocin** — regulated by **phosphorylation**, which tunes permeability. **Defects make the barrier leaky**, letting albumin into the urine.
+
+:::diagram cv6-filtration-barrier-selectivity:::
 
 :::correlate
 Nephrotic Syndrome
@@ -157,6 +161,8 @@ The kidneys span dilute to concentrated urine because each segment has different
 :::highyield
 The water rule: proximal tubule and thin descending limb reabsorb water freely (AQP1); the thin ascending limb, thick ascending limb, and distal tubule reabsorb essentially NO water; the collecting duct reabsorbs water transcellularly through aquaporins under hormonal control.
 :::
+
+:::diagram cv6-nephron-transit:::
 
 ## The Juxtaglomerular Apparatus (Slide 17)
 

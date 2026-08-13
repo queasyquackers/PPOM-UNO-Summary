@@ -69,6 +69,8 @@ The everyday demonstration: your alarm rings, you realize you are late, and you 
   - **More norepinephrine, less acetylcholine** → increased HR, increased contraction force, **vasoconstriction** → increased CO and increased peripheral resistance → **BP rises**.
 - The jump-out-of-bed sequence (Slide 10): positional change → baroreceptor reflex activated → increased sympathetic activity → increased HR, increased SV, increased BP → felt as **palpitations and dizziness**.
 
+:::diagram cv17-baroreflex-loop:::
+
 :::highyield
 Baroreceptor logic is pure stretch: more stretch = more firing = parasympathetic response (slow down, dilate); less stretch = less firing = sympathetic response (speed up, constrict). The afferents are CN IX (carotid sinus) and CN X (aortic arch); the control center is the NTS in the medulla.
 :::
@@ -117,6 +119,8 @@ When blood flow to the brain itself becomes critically low, the brain does not n
 
 - **CNS ischemic reflex (Slide 19):** severe decrease in cerebral blood flow (e.g., bleeding, accident) → **ischemia** → **CO2 accumulation** → **excitation of vasomotor center neurons** → **powerful vasoconstriction** → **increased BP**.
   - Whenever cerebral blood flow drops, expect the patient's blood pressure to rise because of this reflex [Lecturer Emphasis].
+
+:::diagram cv17-cushing-stacked-reflexes:::
 
 :::correlate
 Cushing Reflex (Cushing Response)
@@ -190,6 +194,8 @@ Long-term blood pressure control matters from the day you are born until old age
   - **Baroreceptors inside the afferent arteriole** sense a **drop in renal perfusion pressure** (e.g., dehydration on a hot day dropping BP).
   - The **macula densa** senses **low NaCl** (hyponatremia).
   - Both signals converge on the **granular (JG) cells**, which **release renin** → RAAS activation → vasoconstriction plus sodium and water reabsorption → increased BP.
+
+:::diagram cv17-raas-cascade-jga:::
 
 :::highyield
 RAAS in one line: low BP → JG (granular) cells release renin (triggered by low afferent arteriolar stretch and low NaCl at the macula densa) → renin cleaves liver-made angiotensinogen to angiotensin I (inactive) → ACE in the lung endothelium makes angiotensin II — the body's most potent vasoconstrictor — which binds AT1 receptors to vasoconstrict, activate sympathetics, release ADH and aldosterone, retain sodium and water, and increase thirst. Every arrow raises BP.

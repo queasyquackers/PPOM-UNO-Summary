@@ -70,6 +70,8 @@ Movement at the cranial base normally occurs in a gear-like fashion: the midline
   - Repercussions run both ways: cranial strains can affect the spine all the way down, a hard sit-down fall can drive headaches from below, and a postpartum sacrum stuck forward can drag on the entire dural system [Lecturer Emphasis].
 - **Other sources of altered cranial motion (Slide 19):** fascial pull from below, local cranial dysfunction, spinal/pelvic asymmetry — a short leg tilting the sacrum transmits pull to the head, so a restricted upper neck may be driven from above or below.
 
+:::diagram cv12-core-link-cranium-to-sacrum:::
+
 ## The Strain Pattern Framework (Slides 22-23)
 
 For every strain pattern, know six characteristics (Slide 22): the **axes**, the **motion** (direction of rotation of sphenoid and occiput), the **nomenclature** (generally named for the motion of the **basisphenoid relative to the basiocciput** — just as T1 FRSright names T1 moving on T2; the sphenoid is the "segment above"), the **morphology**, the **etiology**, and the **palpatory diagnosis** through vault contact.
@@ -91,6 +93,8 @@ Flexion/extension is what you feel first when your hands go on — happening all
 - **Extension (Slide 27):** sphenoid rotates **posteriorly**, occiput **anteriorly** → the **SBS drops**; paired bones **internally rotate**; **decreased transverse**, **increased AP and vertical diameter** — the tall narrow "Bert" head.
 - **Vault palpation (Slide 28):** in **flexion** the fingers **spread apart** and move **inferiorly toward the feet** (transverse swelling as the greater wings and occipital squama drop); in **extension** the fingers **come together medially** and move **superiorly toward the vertex**. The palms do not approximate or twist [Lecturer Emphasis].
 
+:::diagram cv12-flexion-extension-vault-translation:::
+
 ## Sidebending/Rotation (Slides 29-36)
 
 Case 1 continued: the fingers of your right hand spread out more and are pulled inferiorly toward the feet (Slide 29) — sidebending-rotation, the most confusing physiologic pattern because two motions occur simultaneously on three axes (Slide 31):
@@ -101,6 +105,8 @@ Case 1 continued: the fingers of your right hand spread out more and are pulled 
 - **Vault palpation (Slide 35):** on the convex side the fingers move **inferiorly and separate** — **"DOWN and OUT"**; on the concave side they move superiorly and approximate. Egg analogy: crack the egg open (sidebending), spill the contents (rotation).
 - In the case, the right hand spreading and dropping toward the feet = **right sidebending-rotation**; the tight sternocleidomastoid pulling from below contributed.
 - **Visual findings (Slide 36):** SBS strains distort the whole face — an orbit (seven bones) higher or wider, the zygomatic rim higher or flattened, the chin deviated, an ear protruding or flattened. Facial asymmetry is a soft sign of craniosomatic dysfunction [Lecturer Emphasis].
+
+:::diagram cv12-sidebending-rotation-three-axes:::
 
 ## Case 1: Torticollis, CN XI, and the Jugular Foramen (Slides 37-42)
 

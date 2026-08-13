@@ -109,6 +109,8 @@ Acid-base status is one of the biggest manipulators of potassium homeostasis. No
 - **Alkalosis promotes HYPOKALEMIA (Slide 10).** Every arrow reverses: high pH and [HCO3-] pull protons out through the Na+/H+ exchanger and drive bicarbonate inward through the Na+/HCO3- cotransporter. Intracellular [Na+] rises, the Na+/K+ ATPase is stimulated, and K+ is pushed into cells.
 - **Bidirectional [Lecturer Emphasis]:** hyperkalemia causes intracellular alkalosis with **extracellular acidosis**; hypokalemia causes intracellular acidosis with **extracellular alkalosis**.
 
+:::diagram cv9-acidosis-k-shift:::
+
 :::highyield
 Acidosis drives K+ OUT of cells (hyperkalemia); alkalosis drives K+ INTO cells (hypokalemia). The relationship runs both ways: hyperkalemia produces extracellular acidosis and hypokalemia produces extracellular alkalosis. This is why bicarbonate is read alongside potassium on every panel.
 :::
@@ -129,6 +131,8 @@ The kidney filters roughly **810 mmol/day** of K+ and excretes about 60 mmol/day
 - **Reabsorption pattern:** **PCT ~80%** (isosmotic); **thin descending limb** secretes K+ into the lumen; **thick ascending limb ~10%**; about 10% of the filtered load reaches the DCT.
 - **The distal K+ secretory system sets urinary K+:** DCT, connecting tubule, cortical collecting tubule and medullary collecting duct. On a low K+ diet they **reabsorb**; on a normal/high K+ diet they **secrete**, accounting for most urinary K+.
 
+:::diagram cv9-k-journey-down-nephron:::
+
 ## Proximal Tubule: Paracellular Physics (Slide 13)
 
 The proximal tubule does the bulk work with no dedicated regulation - physics, not hormones - and two paracellular mechanisms carry K+ across.
@@ -146,6 +150,8 @@ This is the most important segment for K+ reabsorption, and its mechanism sets u
 - **The recycling loop:** K+ entering via NKCC leaks back to the lumen through **apical ROMK**. The transport would otherwise be electrically neutral, but recycling leaves net loss of 2 Cl- against only 1 Na+ - generating the **lumen-positive Vte (+6 mV)**.
 - **Why that matters:** that voltage drives **paracellular reabsorption of Na+, K+, Ca++ and Mg++**. The system feeds its own usefulness - "a really elegant little system."
 - **Inhibiting NKCC abolishes the lumen-positive Vte**, blocking paracellular K+ reabsorption too. Remaining cellular K+ exits basolaterally through ROMK.
+
+:::diagram cv9-tal-k-recycling-vte:::
 
 :::correlate
 Loop (High-Ceiling) Diuretics
