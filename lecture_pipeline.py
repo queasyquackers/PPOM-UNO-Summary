@@ -468,6 +468,61 @@ def cmd_prep(args):
     )
 
 
+def diagram_instructions(ids):
+    """The animated-diagram deliverable, identical for both blocks.
+
+    Kept as its own section so the rules live in exactly one place: the
+    generating agent reads them here, and check_diagrams.py enforces the same
+    list mechanically at install."""
+    slug = ids["slug"]
+    return f"""### 4. `{slug}.diagrams.js`  -- animated concept diagrams (skip only if nothing warrants one)
+
+Some concepts do not survive being written down: anything with sequence,
+direction, a gradient, a feedback loop, or timing. For those, add a small
+animated SVG. Anatomy and physiology (especially renal) are the usual
+candidates; drug tables and classifications are not.
+
+Judgement first: pick only concepts where MOTION teaches something a static
+picture cannot. Aim for 1-4 per lecture. Zero is a legitimate answer for a
+lecture that is all lists and classification -- write no file in that case.
+Do not pad; a diagram should mean "this one is worth stopping at".
+
+Write the file into this bundle folder as `{slug}.diagrams.js`:
+
+    window.LECTURE_DIAGRAMS = window.LECTURE_DIAGRAMS || {{}};
+    window.LECTURE_DIAGRAMS["{slug}-<slug>"] = {{
+      title:   "<short label>",
+      caption: "<2-3 sentences: what it shows and what to take away>",
+      svg:     `<svg viewBox="0 0 620 260" role="img" aria-label="<plain-language description>"> ... </svg>`
+    }};
+
+Then place each one in the summary by adding a line
+
+    :::diagram {slug}-<slug>:::
+
+on its own line (blank line above and below) immediately after the section it
+illustrates. The summary renderer swaps that directive for the diagram.
+
+RULES -- `python scripts/check_diagrams.py` enforces these and the install fails if they break:
+1. CSS keyframes ONLY. No <animate>/SMIL, no JS timers. Target is Safari on iPad.
+2. Colors ONLY via the shared variables -- var(--dg-ink), --dg-muted, --dg-surface,
+   --dg-panel, --dg-line, --dg-accent, --dg-warm, --dg-cool, --dg-good. Never a hex
+   literal: the site has a dark mode and hardcoded colors break it.
+3. Every <svg> needs a viewBox, NO width/height attributes, plus role and aria-label.
+4. Nothing essential may be hover-only -- a touch screen has no hover.
+5. It must still teach when frozen (reduced-motion stops all animation).
+6. Prefix every CSS class per diagram (.dg{ids['num']}a-, .dg{ids['num']}b-, ...) so diagrams cannot style each other.
+7. NO CSS comments inside the diagram's <style> -- the summary renderer turns the
+   asterisks into <em> tags and shreds the stylesheet. Explain in `caption` instead.
+8. Keep the viewBox ~600-660 wide and <= ~320 tall so it stays legible in a narrow column.
+9. Every number, label and arrow direction must match THIS lecture's stated values.
+   If the lecture's numbers differ from the standard teaching, follow the lecture
+   and say so in the caption. Never invent values.
+
+`E:\\PPOM-UNO-Summary\\lecture_diagrams.js` holds the shared stylesheet and a worked
+reference example ("cv7-filtration-forces") -- read it before writing your own."""
+
+
 def build_generate_instructions(n, title_hint, lecturer_hint, ids=None):
     ids = ids or block_ids(n, "main")
     rel_summary_prompt = SUMMARY_PROMPT
@@ -540,6 +595,8 @@ correct answer must NOT be the longest option in at least 75% of questions.
     }}
 `topic` becomes the config.js label: "Cardio-<topic> ({ids['id_token']})".
 
+{diagram_instructions(ids)}
+
 ## When done
 Tell the user to run:
     python lecture_pipeline.py install {n} --block cardio --commit
@@ -571,9 +628,9 @@ Wrap the result as a JS assignment matching the existing schema
       "lecturer": "<Name, credentials>",
       "pdf": "content/L{n}_HighYield_Render.pdf",
       "content": `<markdown summary per the prompt>`,
-      "flashcards": [ { "front": ..., "back": ..., "tag": "Concept|Clinical|Glossary" }, ... ],
-      "questions": [ { "question": ..., "options": ["A. ...","B. ...","C. ...","D. ...","E. ..."],
-                      "answer": "C", "rationale": ..., "hidden": true }, ... ],  // 5 review MCQs (structured array, NOT markdown)
+      "flashcards": [ {{ "front": ..., "back": ..., "tag": "Concept|Clinical|Glossary" }}, ... ],
+      "questions": [ {{ "question": ..., "options": ["A. ...","B. ...","C. ...","D. ...","E. ..."],
+                      "answer": "C", "rationale": ..., "hidden": true }}, ... ],  // 5 review MCQs (structured array, NOT markdown)
       "anking": [ ... ],
       "ankingResource": {{ ... }},
       "pearls": [ ... ],
@@ -602,6 +659,8 @@ Output ONLY the JS array (skip the "Part 1: Thinking Process" prose in the file)
       "readingTime": <estimate: summary words / {WORDS_PER_MINUTE}, min 2>
     }}
 `topic` becomes the config.js label: "<week>-<topic> (L{n})".
+
+{diagram_instructions(ids)}
 
 ## When done
 Tell the user to run:
@@ -891,6 +950,61 @@ def register_pdf_source(ids, bundle):
     return mapping_value
 
 
+def install_diagrams(ids, bundle, summary_text, no_verify=False):
+    """Copy the lecture's animated diagrams into content/diagrams/ and validate.
+
+    The file is optional: a lecture of pure classification legitimately has no
+    diagram. But if the summary references one, the file has to be there --
+    otherwise the reader gets a "Diagram not found" box where a picture should
+    be, which is exactly the sort of thing nobody notices until a student does.
+
+    No registration step is needed: app.js loads content/diagrams/<slug>.diagrams.js
+    on demand when the lecture opens.
+    """
+    src = bundle / f"{ids['slug']}.diagrams.js"
+    referenced = set(re.findall(r":::diagram\s+([a-z0-9\-]+)\s*:::", summary_text, re.I))
+
+    if not src.exists():
+        if referenced:
+            die(
+                f"The summary references {len(referenced)} diagram(s) "
+                f"({', '.join(sorted(referenced))}) but {src.name} is missing from the bundle."
+            )
+        info("no diagrams for this lecture (none authored).")
+        return
+
+    dst_dir = SUMMARY_REPO / "content" / "diagrams"
+    dst_dir.mkdir(parents=True, exist_ok=True)
+    shutil.copyfile(src, dst_dir / src.name)
+    info(f"copied -> content/diagrams/{src.name}")
+
+    defined = set(re.findall(r'window\.LECTURE_DIAGRAMS\["([^"]+)"\]', src.read_text(encoding="utf-8")))
+    dangling = referenced - defined
+    unused = defined - referenced
+    if dangling:
+        die(f"summary references undefined diagram(s): {', '.join(sorted(dangling))}")
+    if unused:
+        info(f"[warn] defined but never placed in the summary: {', '.join(sorted(unused))}")
+
+    checker = SUMMARY_REPO / "scripts" / "check_diagrams.py"
+    if not checker.exists():
+        return
+    result = subprocess.run(
+        [sys.executable, str(checker)], capture_output=True, text=True, cwd=str(SUMMARY_REPO)
+    )
+    mine = [ln for ln in result.stdout.splitlines()
+            if ln.strip().startswith("-") and f"{ids['slug']}-" in ln]
+    if mine:
+        msg = "\n".join(f"    {ln.strip()}" for ln in mine)
+        if no_verify:
+            info(f"[warn] diagram issues (--no-verify):\n{msg}")
+        else:
+            die(f"{src.name} breaks the diagram rules:\n{msg}\n\n"
+                f"     Fix them in the bundle and re-run install, or use --no-verify.")
+    else:
+        info(f"diagram checks passed ({len(defined)} diagram(s)).")
+
+
 def render_high_yield_pdf(ids, bundle):
     sources = json.loads((bundle / "sources.json").read_text(encoding="utf-8"))
     pdf_src = Path(sources["pdf_file"])
@@ -1007,6 +1121,9 @@ def cmd_install(args):
     info(f"copied -> {summary_dst.relative_to(SUMMARY_REPO)}")
     shutil.copyfile(quest_src, quest_dst)
     info(f"copied -> PPOM-UNO-Problems/{quest_dst.name}")
+
+    # --- Animated diagrams (optional deliverable) ---
+    install_diagrams(ids, bundle, summary_text, no_verify=args.no_verify)
 
     # --- Register in both sites ---
     insert_into_lectures_index(

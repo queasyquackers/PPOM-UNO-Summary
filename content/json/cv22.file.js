@@ -67,6 +67,8 @@ With the ingredients in hand, the fast-response AP tells a five-act story. Depol
 - **Phase 3 — Rapid repolarization (Slide 20):** L-type Ca²⁺ channels close as delayed rectifier K⁺ current peaks; below -30 mV the **inward rectifier K⁺ current (I_K1)** opens and drives Vm to rest.
 - **Phase 4 — Resting potential (Slide 21):** Na⁺ and Ca²⁺ channels closed; **I_K1 stays open**, holding Vm near E(K⁺). Pumps restore ion gradients.
 
+:::diagram cv22-fast-ap-phases-currents:::
+
 :::mnemonic
 **Fast-Response AP Phase Currents**
 **"0 Na, 1 to, 2 Ca-plateau, 3 K-out, 4 K1"**
@@ -104,6 +106,8 @@ Electrical excitation must be converted into mechanical force. The AP travels al
 - SR release is the **major** source of the systolic Ca²⁺ rise that triggers contraction.
 - **Relaxation (diastole):** cytosolic Ca²⁺ is removed by **SERCA** (back into SR) and by the **Na⁺/Ca²⁺ exchanger** (out of the cell).
 
+:::diagram cv22-cicr-calcium-cycle:::
+
 ## The Slow-Response Action Potential (Slides 29-33)
 
 Pacemaker tissue plays by different rules. Its AP is simpler (three phases), less negative, and — crucially — **never truly rests**, giving the heart its automaticity.
@@ -122,6 +126,8 @@ The final theme ties AP duration to safety. A nerve AP lasts ~1 ms; a cardiac AP
 - **Relative refractory period:** begins once Vm falls below threshold (Na⁺ channels recovering) and ends at the start of phase 4; a stronger-than-normal stimulus yields a smaller AP.
 - **Slow-response fibers:** ERP is set by the time for **Ca²⁺ channels** to recover, and the relative refractory period extends well into phase 4.
 - **No tetanus:** the long plateau and ERP prevent a second AP during contraction and most of relaxation, so cardiac muscle cannot summate/tetanize the way skeletal muscle does — essential for the heart's pump function.
+
+:::diagram cv22-na-gates-refractory:::
 
 :::highyield
 Class III antiarrhythmics (potassium channel blockers) prolong AP duration and therefore prolong the effective refractory period — a direct clinical application of the AP-duration/ERP relationship the lecturer emphasizes.

@@ -67,6 +67,8 @@ The dura is not passive packaging. Its folds act as **check ligaments**, guiding
   - Arterial blood arrives via the **carotid and vertebral arteries**; venous blood returns significantly to the heart through the sinus system.
   - The drainage path runs with the **falx cerebri** down toward the **confluence of sinuses**, involves the **tentorium cerebelli** and **straight sinus**, then the **sigmoid sinus**, exits at the **jugular foramen**, and becomes the **jugular vein** returning to the heart.
 
+:::diagram cv13-venous-sinus-drainage:::
+
 :::correlate
 Cranial Nerve Entrapment (Component of Cranial Somatic Dysfunction)
 
@@ -117,6 +119,8 @@ The movement of the PRM is an alternating change in shape of the cranium, cyclin
 - **Midline bones of the cranial base (Slide 18):** all rotate through **transverse axes**, adjacent bones moving in **opposite directions in gear-like fashion**.
   - The other (paired) bones have very complicated axes — not covered here.
 - **The sacrum follows (Slide 24):** the sacrum is in **five pieces at birth** and does not fully fuse until about **age 25**, but the dura attaches anteriorly at **S2**, so the sacral base moves **superiorly and posteriorly during inhalation** and **inferiorly and anteriorly during exhalation**.
+
+:::diagram cv13-prm-phase-cycle:::
 
 :::highyield
 One mechanism, one picture: inhalation phase = flexion of midline bones + external rotation of paired bones + transverse widening with A-P narrowing + sacral base postero-superior + CNS coiling. Exhalation phase is the exact mirror (extension, internal rotation, A-P lengthening, sacral base antero-inferior, CNS uncoiling). Every cranial contact in lab is interpreted against this template.
@@ -171,6 +175,8 @@ The one treatment of this lab is a technique the lecturer uses on every patient,
   - The motion carries the **occipital condyles posteriorly**, tenses the regional ligaments, and stretches the contracted muscles of the **occipital triangle**.
   - The patient **holds one or more deep inspirations to their limit** to enhance articular release.
   - **Reassess:** retest the **rate and amplitude of the CRI at the basioccipital region**, and/or recheck occipitoatlantal motion for normalization.
+
+:::diagram cv13-oa-decompression:::
 
 :::highyield
 OA decompression rules: land on the C1 posterior tubercle (C2 spinous process = too far), have the patient tuck the chin — flex the head, not the neck — and hold until the occipital condyles decompress from the C1 superior facets. The standard technique is NOT for infants and small children (consider from about age 8-10); the atlas-directed alternative fits the pediatric mechanism. Per Dr. Ann Wales: treat the OA at the beginning and at the end of every treatment.

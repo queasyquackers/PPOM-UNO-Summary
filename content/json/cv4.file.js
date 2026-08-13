@@ -95,6 +95,8 @@ Why must cells spend energy just to keep their volume? The product of diffusible
   - **Decreased ECF osmolality** → water attracted into the cell (swelling) → cells activate **solute efflux** → **Regulatory Volume Decrease (RVD)**.
   - **Increased ECF osmolality** → water drawn out of the cell (shrinkage) → cells activate **solute uptake** → **Regulatory Volume Increase (RVI)**.
 
+:::diagram cv4-donnan-versus-pump:::
+
 :::correlate
 Digitalis Glycoside Toxicity (Foxglove)
 
@@ -178,6 +180,8 @@ The interplay of hydrostatic and oncotic pressures was characterized by Ernest H
   - Kf differs extremely between tissues, and both parameters change dynamically: **precapillary sphincters** adjust capillary hydrostatic pressure, while contractile cells — **pericytes** and (in the kidney) **mesangial cells**, coming in the next lectures — adjust surface area.
 - Filtration occurs when the balance is positive; absorption when it is negative.
 
+:::diagram cv4-starling-forces-along-capillary:::
+
 ## Solute Exchange Across Cellular Barriers: Paracellular vs. Transcellular (Slide 24)
 
 Gases and lipids cross endothelial and epithelial membranes freely — the capillary wall is a significant barrier only to **lipid-insoluble** substances (usually proteins). Two routes exist, and charge matters as much as size.
@@ -213,6 +217,8 @@ The payoff: adding different combinations of NaCl and solute-free water to the E
 - **Isotonic saline:** same concentration as the ECF — expands ECF volume by 1.5 L with **no change in osmotic gradient** and **no movement into or out of the ICF**.
 - **Isotonic dextrose = solute-free water in disguise [Lecturer Emphasis]:** dextrose is rapidly metabolized to CO₂ and water — and **gases are not solutes** — so nothing is left behind in the ECF. The added water lowers ECF osmolality and is drawn into cells.
 - **Salt load:** the NaCl stays extracellular, raising ECF osmolality and pulling water out of cells — the cellular response precedes the total-body response.
+
+:::diagram cv4-iv-fluid-compartment-shift:::
 
 :::correlate
 Solute-Free Water Infusion Injury

@@ -337,6 +337,24 @@ function checkDeepLink() {
   }
 }
 
+// A lecture's diagrams live beside its content, at
+// content/diagrams/<id>.diagrams.js, and are injected on demand exactly like the
+// lecture file itself - so adding diagrams to a lecture needs no edit to
+// index.html. Most lectures have none, so a 404 here is an ordinary outcome and
+// resolves quietly instead of failing the page.
+const diagramsRequested = new Set();
+function loadLectureDiagrams(id) {
+  if (!id || diagramsRequested.has(id)) return Promise.resolve();
+  diagramsRequested.add(id);
+  return new Promise((resolve) => {
+    const script = document.createElement("script");
+    script.src = `content/diagrams/${id}.diagrams.js`;
+    script.onload = () => { script.remove(); resolve(); };
+    script.onerror = () => { script.remove(); resolve(); };
+    document.body.appendChild(script);
+  });
+}
+
 async function getLectureContent(id, path) {
   if (lecturesMap.has(id)) return lecturesMap.get(id);
 
@@ -1402,7 +1420,12 @@ async function selectLecture(id) {
 
   // Fetch Full Data
   // document.body.classList.add('cursor-wait'); // Removed in favor of skeleton
-  const fullData = await getLectureContent(id, meta.path);
+  // Diagrams must be in the registry before the summary renders, so load them
+  // alongside the content rather than after it.
+  const [fullData] = await Promise.all([
+    getLectureContent(id, meta.path),
+    loadLectureDiagrams(id),
+  ]);
   // document.body.classList.remove('cursor-wait');
 
   if (!fullData) {
@@ -2247,9 +2270,19 @@ function renderTabContent() {
       tocDiv.classList.add("hidden");
       // tocToggle visibility logic removed to keep buttons persistent
     } else if (activeTab === "high-yield") {
-      const pdfPath =
-        selectedLecture.highYieldPdf ||
-        `content/L${selectedLecture.id.replace(/^l/i, "")}_HighYield_Render.pdf`;
+      // Use the path the summary declares, but only when it names a high-yield
+      // render: a few older summaries put the raw slide deck in "pdf" (l65, l66,
+      // l151, l152), and for those the naming convention is the working path.
+      // The convention must respect the cv prefix (cv6 -> CV6) rather than
+      // assuming every id is l-numbered, which is why cardio PDFs never loaded.
+      const idToken = /^cv/i.test(selectedLecture.id)
+        ? selectedLecture.id.replace(/^cv/i, "CV")
+        : `L${selectedLecture.id.replace(/^l/i, "")}`;
+      const declaredPdf =
+        selectedLecture.highYieldPdf || selectedLecture.pdf || "";
+      const pdfPath = /_HighYield_Render\.pdf$/i.test(declaredPdf)
+        ? declaredPdf
+        : `content/${idToken}_HighYield_Render.pdf`;
 
       // Container for PDF pages
       contentDiv.innerHTML = `
@@ -2602,6 +2635,17 @@ function generateTableOfContents() {
   toc.innerHTML = html;
 }
 
+// The diagram stylesheet is appended once, the first time a diagram is rendered,
+// rather than shipped in index.html - lectures without diagrams cost nothing.
+function ensureDiagramStyles() {
+  if (document.getElementById("lecture-diagram-styles")) return;
+  if (!window.LECTURE_DIAGRAM_CSS) return;
+  const el = document.createElement("style");
+  el.id = "lecture-diagram-styles";
+  el.textContent = window.LECTURE_DIAGRAM_CSS;
+  document.head.appendChild(el);
+}
+
 function renderMarkdown(html) {
   if (!html) return "";
 
@@ -2720,6 +2764,37 @@ function renderMarkdown(html) {
     });
 
     return "\n" + tableHtml + "</tbody></table></div>\n\n";
+  });
+
+  // Animated concept diagrams:  :::diagram <key>:::
+  // The directive is swapped for an inert token here and the real markup is
+  // substituted back at the very end, AFTER every other transform has run.
+  // Injecting the SVG at this point instead would feed it through the rest of
+  // the chain, where the italic rule chews up CSS comments ("/* ... */") and
+  // breaks the diagram's <style> block.
+  const diagramSlots = [];
+  html = html.replace(/:::diagram\s+([a-z0-9\-]+)\s*:::/gi, function (match, key) {
+    const d = (window.LECTURE_DIAGRAMS || {})[key];
+    if (!d) {
+      // Missing key: say so in place rather than leaving a raw directive or a
+      // silent gap, so a typo is obvious while authoring.
+      diagramSlots.push(
+        '<div class="my-6 p-4 rounded-lg border border-dashed text-sm font-sans ' +
+        (isDark ? "border-dark-border text-dark-muted" : "border-claude-border text-claude-muted") +
+        '">Diagram &ldquo;' + key + '&rdquo; not found.</div>'
+      );
+    } else {
+      ensureDiagramStyles();
+      diagramSlots.push(
+        '<figure class="lecture-diagram">' +
+        (d.title ? '<div class="lecture-diagram-title">' + d.title + "</div>" : "") +
+        d.svg +
+        (d.caption ? "<figcaption>" + d.caption + "</figcaption>" : "") +
+        "</figure>"
+      );
+    }
+    // Token is bare alphanumerics: nothing in the transform chain matches it.
+    return "\n\nxLECTUREDIAGRAM" + (diagramSlots.length - 1) + "ENDx\n\n";
   });
 
   // High Yield Callouts
@@ -3079,11 +3154,24 @@ function renderMarkdown(html) {
 
 
 
-  return (
+  html =
     '<div class="mb-6 leading-relaxed text-lg font-serif text-claude-text dark:text-dark-text">' +
     html +
-    "</div>"
-  );
+    "</div>";
+
+  // Diagrams go back in last, untouched by any transform above. The surrounding
+  // paragraph <div> is closed and reopened so the <figure> is a sibling of the
+  // prose rather than nested inside a text block.
+  if (diagramSlots.length) {
+    html = html.replace(/xLECTUREDIAGRAM(\d+)ENDx/g, function (m, i) {
+      return (
+        '</div>' + diagramSlots[Number(i)] +
+        '<div class="mb-6 leading-relaxed text-lg font-serif text-claude-text dark:text-dark-text">'
+      );
+    });
+  }
+
+  return html;
 }
 
 function updateWelcomeMessage() {

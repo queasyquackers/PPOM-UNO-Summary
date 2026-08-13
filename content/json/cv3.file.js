@@ -66,6 +66,8 @@ The adult kidney is assembled from two interacting parts, and the lecture is emp
 - **Interaction (Slide 11):** the blastema signals the ureteric bud to branch and grow; the bud induces the blastema to condense and form tubules.
 - **Sequence of function:** the excretory portion makes the urine; the collecting portion delivers it to the ureter, then the bladder — and then you pee.
 
+:::diagram cv3-ureteric-bud-blastema-induction:::
+
 :::highyield
 The metanephric (adult) kidney is a CONGLOMERATE of two systems: mesonephric-derived collecting plumbing (ureter, renal pelvis, major/minor calyces, collecting ducts, collecting tubules — via the ureteric bud) joined to metanephric blastema-derived excretory units (Bowman's capsule, proximal convoluted tubule, loop of Henle, distal convoluted tubule). The junction between the two lies between the distal convoluted tubule and the collecting tubule — the lecturer said outright: "memorize this for the exam."
 :::
@@ -111,6 +113,8 @@ The bladder looks like one organ but is a patchwork of two embryonic sources, an
 - The **rest of the bladder** is made from the **urogenital sinus** — so the bladder is a composite organ with a mesonephric patch.
 - The mesonephric ducts and the ureters/ureteric buds open in the trigone region.
 
+:::diagram cv3-cloaca-partition-trigone-exstrophy:::
+
 :::highyield
 The trigone of the bladder forms by EXSTROPHY of the distal mesonephric ducts into the posterior bladder wall — the lecturer specifically tagged this as one to remember for the board exams. The trigone is mesonephric; the rest of the bladder is urogenital sinus.
 :::
@@ -123,6 +127,8 @@ The metanephric kidney is born in the pelvis, next to the bladder, and must clim
 - **Changing vascularization [Lecturer Emphasis]:** supplied by the **internal iliac** when low, then the common/external iliac region, and ultimately by the **aorta** as it climbs — the kidney "vascularizes itself on the way up."
 - **The ureter gets longer** as the kidney rises.
 - **Stopping signal:** the ascent stops when the kidney meets the **suprarenal (adrenal) gland**, which never moves from its position. Somehow the adrenal gland says: you have reached your destination.
+
+:::diagram cv3-kidney-ascent-revascularization:::
 
 ## Where "Uro" Meets "Genital" (Slide 22)
 

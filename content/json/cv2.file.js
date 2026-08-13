@@ -69,6 +69,9 @@ The balance point is not the same thing as the release. Balancing (equal tension
 The worked example is **C3 extended, rotated, and side bent right (C3 ERS right)** with the patient **supine**. The genius of this setup is the **opposite contacts**: one finger on the **left articular pillar of C3** and one on the **right articular pillar of C4**. Lifting both fingers toward the ceiling accomplishes three things at once — it gets you through the paraspinal soft tissue so you can sense and control the segments, it naturally **extends** the cervical spine (perfect for an extended dysfunction: lift further for more extension, back off for less), and it creates **right rotation of C3 relative to C4**. The C4 contact acts as a **counterbalance**, preventing C4 from rotating right along with C3.
 
 - **Side bending control:** translate **both** contact fingers (C3 and C4) **toward the left** — left translation creates **right side bending**, matching the ERS right dysfunction.
+
+:::diagram cv2-cervical-lift-and-translate:::
+
 - **Extra details not in the handout [Lecturer Emphasis]:**
   - **Flexed dysfunction (e.g., C3 FRS right):** simply backing off the lift may not reach the flexion balance point — instead, **lift the head and upper neck slightly** until you sense C3 coming to balance on C4.
   - **Lower cervical segments (C6, C7):** you would need to **lift/flex the neck further** to target these levels.
@@ -84,6 +87,8 @@ Per the Nicholas Atlas, this supine technique is for **T1 and T2 non-neutral (Ty
 - **Step C — Side bend and rotate T2 to the LEFT:** the bilateral contact on the T2 transverse processes lets you control both motions. Relatively speaking, **T1 then rotates and side bends right** — which is the somatic dysfunction.
 - **Step D — Fine-tune:** side bend and rotate **T1 to the right** to find the balance point.
 - **Sequence logic:** steps B, C, D target flexion, then rotation, then side bending.
+
+:::diagram cv2-t1-relative-motion:::
 
 ## BLT of the Thoracic Spine: T4-12 Neutral (Type I), Supine (Slide 10)
 
@@ -126,6 +131,8 @@ The fibular technique is unique in this lab because it aims at **two** targets: 
   - Pushing anteriorly on the lateral malleolus also carries it **slightly superiorly**; pushing anteriorly on a posterior fibular head shifts it anteriorly and **slightly superiorly**. (For an anterior fibular head, whether the same superior motion applies is debatable [Lecturer Emphasis].)
 - **Interosseous membrane component:** after taking the dysfunction into its anterior motion (at the malleolus or fibular head), fine-tune with a **total motion — both hands moving in the same direction, superiorly or inferiorly** — to address the membrane.
 - **After the release — reassess:** recheck the fibular head diagnosis; you can even hold the fibular head as you did for treatment and **shift it anterior-posterior, then superior-inferior**, checking for improved **ease and evenness of motion** in the different directions.
+
+:::diagram cv2-fibula-seesaw:::
 
 :::correlate
 Posterior Fibular Head Somatic Dysfunction

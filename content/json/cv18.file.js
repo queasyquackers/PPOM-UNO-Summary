@@ -21,6 +21,8 @@ Dr. Gerdes — who has spent roughly 50 years in heart failure research — open
   - Capillaries do **not** proliferate in this setting → density falls to about **2,500 capillaries/mm²**.
   - Greater oxygen demand of the overworked heart means about **half of the capillaries are already open at rest** → flow can only **double** with exertion → **reduced capillary reserve, reduced exercise capacity**.
 
+:::diagram cv18-capillary-reserve-recruitment:::
+
 :::correlate
 Hypertensive Hypertrophy with Reduced Capillary Reserve
 
@@ -119,6 +121,9 @@ Here is the cellular star of the block. Compare the three muscle types first, be
   - Across the ventricular wall, myocyte direction rotates about **180 degrees — like a Japanese fan** — from endo- to epimyocardium.
   - In a transmural section: myocytes/capillaries at the surfaces appear **cross-sectioned** while the middle layer runs **longitudinally**.
   - The **capillary-to-myocyte ratio is approximately 1:1** in adults (true in humans as well).
+
+:::diagram cv18-transmural-fiber-rotation:::
+
 - **Ultrastructure (Slides 16, 18):**
   - Myocytes are **very irregular in cross-sectional profile** (unlike skeletal muscle) and **very tightly packed**, with a high degree of vascularity.
   - **Mitochondria occupy ~25-35% of the cell** (about 35% in rat, ~25% in the slower-metabolizing human heart) versus only **3-5% in skeletal muscle** → cardiac muscle is **highly dependent on aerobic metabolism**.
@@ -213,6 +218,9 @@ The payoff of the whole lecture, distilled from decades of the lecturer's own wo
   - **Pressure overload** (most common cause, e.g., hypertension) → LV **wall thickening** from an **increase in myocyte DIAMETER**.
   - **Chamber dilatation** (dilated heart failure) → **myocyte LENGTHENING from series addition of sarcomeres**.
   - Physiological and pathological changes in ventricular anatomy are generally **reflected by changes in myocyte shape** [Lecturer Emphasis — established in his laboratory].
+
+:::diagram cv18-sarcomere-addition-remodeling:::
+
 - **Myocardial fibrosis:**
   - **Interstitial fibrosis** — collagen accumulating **between myocytes**; collagen has the **tensile strength of steel**, so the ventricle stiffens and **relaxation is impaired**.
   - **Myocardial infarction** — myocyte **necrosis with replacement fibrosis**: histologically a large fibrotic area **where myocytes should be but are missing**.

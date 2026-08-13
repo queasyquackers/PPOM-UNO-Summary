@@ -107,6 +107,9 @@ Dr. Wales: Still called it osteopathy because "you start with the bones." Before
   - **Midline bone motion:** about **transverse axes**, termed **flexion and extension** (like a vertebra moving on a transverse axis). The bones move in opposite, **gear-like** fashion: during the **flexion/inhalation phase the sphenobasilar junction moves upward** (matching the reduced vertical diameter); during extension it moves downward.
   - **Paired bones:** produce the widening transverse diameter — **external rotation** during inhalation, **internal rotation** during exhalation.
   - Full phase pattern: **inhalation = flexion of midline bones + external rotation of paired bones; exhalation = extension of midline bones + internal rotation of paired bones.**
+
+:::diagram cv11-prm-inhalation-exhalation-cycle:::
+
 - **Base vs. vault (Slide 35):** Sutherland held that **true articular mobility occurs in the base, accommodated by movement of the vault**. Fundamental or **primary dysfunctions arise in the cranial base** (challenging to work on); treating the base often gives a **more profound result** than staying on the periphery (parietals, frontals).
 
 ## Mobility of the Dural Membranes (Slides 36-48)
@@ -142,6 +145,8 @@ Sutherland's word choice is precise: bones and membranes have **mobility** (they
   - **Inhalation:** the CNS **coils**, becoming **shorter and fatter**, and the spinal cord **lifts like a tadpole's tail**.
   - **Exhalation:** the opposite — uncoiling.
 
+:::diagram cv11-neural-tube-coiling:::
+
 :::correlate
 Traumatic Brain Injury / Post-Concussion Syndrome
 
@@ -163,6 +168,8 @@ This is the component Sutherland called the **fundamental principle** — both b
   - **Interstitial pressure is negative**, and fluids will not move themselves against a negative interstitial pressure: circulation brings fluid in, but at the site of exchange there would be **stasis** without some action creating fluctuation.
   - **Bathtub analogy [Lecturer Emphasis]:** a tub with a drip in at the faucet and an equal drip out at the drain lets particulates settle to the bottom. Put a hand in and stir the water back and forth, and everything stays mixed — creating **continuously changing concentration gradients that facilitate cellular exchange**.
   - The concept: an **interstitial mechanism based on fluid fluctuation**, necessary for cellular exchange, functioning together with the forces of circulation.
+
+:::diagram cv11-fluctuation-vs-circulation:::
 
 :::highyield
 Circulation is NOT sufficient for cellular exchange. Interstitial pressure is negative, so unstirred fluid stagnates; fluctuation — the to-and-fro action of the PRM — maintains continuously changing concentration gradients at the microcirculation. Whether a tissue can respond to disease or challenge depends on effective cellular exchange, so the presence or absence of the PRM anywhere in the body is itself diagnostic.

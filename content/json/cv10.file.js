@@ -32,6 +32,8 @@ Glucose is the substance the kidney is least willing to lose: the brain uses it 
 - **Basolateral exit, the GLUTs:** **GLUT1 and GLUT2** are **channels, not cotransporters** — **Na+-independent**, **facilitated diffusion**, and found **only basolaterally**. The lecturer was emphatic that GLUTs and SGLTs differ in family, membrane side, and mechanism [Lecturer Emphasis].
 - **Why capacity is so large:** the **brush border** gives an enormous apical surface area densely packed with SGLT2.
 
+:::diagram cv10-proximal-cell-sodium-gradient:::
+
 :::mnemonic
 **Sorting SGLT2 from SGLT1**
 **"2 comes first, 1 takes two"**
@@ -60,6 +62,8 @@ Infuse glucose intravenously at a controlled rate — not a one-time oral load �
 - **Region C, plateau at ~400 mg/min = the transport maximum (Tm):** the **apical SGLTs are fully saturated**; no free transporters remain, so they cannot respond to further increases in filtered load. Every additional filtered glucose molecule stays in the lumen and is excreted, because distal segments cannot reclaim it.
 - **Splay — why the curve bends gradually:** nephrons are not identical. It reflects **anatomical and kinetic differences among nephrons** — a **larger glomerulus** delivers a larger load, and **SGLT1/SGLT2 densities** differ along the proximal tubule — so single-nephron filtered load can be mismatched to that nephron's reabsorptive capacity, with large person-to-person variability on top.
 
+:::diagram cv10-glucose-titration-curve:::
+
 :::highyield
 Glucose: 100% filtered, >99% reabsorbed proximally. Threshold = 200 mg/dL (glucose first appears in urine); Tm = ~400 mg/min (SGLTs fully saturated). Because the threshold is double the normal plasma glucose of 100 mg/dL, healthy people never have glycosuria, and diabetics do not spill until they cross 200 mg/dL.
 :::
@@ -83,6 +87,8 @@ Urea is the one solute here both **reabsorbed and secreted** in quantity, and th
   - Facilitated diffusion via **urea transporters (UTs)** of the **SLC14** family; **UT-A2** mediates this route, and the lecturer flagged that one leg remains **uncharacterized**. We know they are carriers because they show **saturation kinetics**, just like the glucose system.
 - **Medullary collecting duct — REABSORPTION, TRANSCELLULAR:** ~50% of luminal urea is reclaimed via **UT-A1** (apical) then **UT-A3** (basolateral). Luminal to basolateral is by definition reabsorption; the lecturer deliberately flipped the loop diagram to force reasoning from direction rather than picture memorization [Lecturer Emphasis].
 - **Urine flow is the master variable (Slide 9):** **low flow** means more water and urea reabsorbed and only ~**15%** of filtered urea excreted; **high flow** means as much as ~**70%** excreted.
+
+:::diagram cv10-urea-nephron-journey:::
 
 :::correlate
 Urea Retention and the Elevated BUN

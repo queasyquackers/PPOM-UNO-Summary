@@ -57,6 +57,8 @@ Why is ADH so powerful? Because the loop of Henle first separates the water from
   - **ADH absent** → tubule stays impermeable → **dilute urine**.
 - **This is what lets the kidney control water excretion independently of sodium** — and it explains why **loop diuretics** (blocking NKCC2 at the TAL) are the **most powerful diuretics**: they collapse the gradient itself.
 
+:::diagram cv8-countercurrent-adh-gradient:::
+
 | Segment | Na+ reabsorbed | Water reabsorbed | Apical transporter | Clinical application |
 | --- | --- | --- | --- | --- |
 | Proximal tubule | ~65% (bulk) | ~65% (AQP1) | NHE3 (Na/H antiport), SGLT (Na-glucose) | Isosmotic bulk reabsorption — water follows sodium |
@@ -237,6 +239,8 @@ Recall goals 1 and 2: keep GFR steady and keep distal sodium delivery consistent
   - Whatever the GFR, the **proximal tubule reabsorbs the same fraction** of what is filtered — if GFR rises 20%, proximal reabsorption rises in proportion — keeping distal sodium delivery balanced (Goal 2).
 - The Slide 36 table (GFR/RBF/filtration fraction vs. afferent/efferent tone) was included as a synthesis supplement to the earlier GFR lecture.
 
+:::diagram cv8-afferent-efferent-gfr-defense:::
+
 :::correlate
 NSAID-Induced Acute Kidney Injury
 
@@ -299,6 +303,8 @@ Now integrate everything. Heart failure — whatever its cause — means a weake
 - **The vicious cycle:** weak pump → decreased cardiac output → **decreased ECV** → intrarenal baroreceptors and other sensors perceive **low volume** → **RAAS, sympathetics, and ADH** fire → kidney **retains sodium and water** → ECF rises, producing **pitting edema of the lower extremities, ascites, and pulmonary edema**. But the pump is still weak, so **ECV never recovers** and the signals keep firing.
 - **Why natriuretic peptides cannot save the day:** blood pools in the chambers and stretches the myocytes, raising ANP/BNP — but the RAAS and sympathetic effects are too vicious and too prominent for the natriuretic peptides to overcome. **BNP is used clinically as a severity marker.**
 - **Hyponatremia as a severity marker:** the ECV is so low that it triggers **non-osmotic ADH release** (the baroreceptor-override mechanism) → water retained in excess of sodium → a **hypervolemic hyponatremia** — and its presence often indicates **higher mortality risk**.
+
+:::diagram cv8-heart-failure-vicious-cycle:::
 
 :::correlate
 Congestive Heart Failure (Renal Volume-Defense Maladaptation)

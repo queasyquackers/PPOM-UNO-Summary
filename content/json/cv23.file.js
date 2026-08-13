@@ -61,6 +61,8 @@ To fire an action potential, the membrane must travel from its most negative poi
 - **3. Threshold level (Slide 9):**
   - **Raising (making less negative) the threshold = greater distance = slower heart rate.** Lowering the threshold = shorter distance = faster heart rate.
 
+:::diagram cv23-pacemaker-rate-levers:::
+
 :::highyield
 Heart rate = distance / speed. Distance is set by the maximum diastolic potential and the threshold; speed is the slope of phase 4. Vagal stimulation attacks all three levers (hyperpolarizes via IKACh, reduces If and ICa, flattening the slope) - which is why acetylcholine is such a powerful brake.
 :::
@@ -190,6 +192,9 @@ The ventricles are activated in a very specific order, and each element of that 
   - Net effect: depolarization and repolarization vectors point in **generally the same direction**, so the **T wave normally follows QRS polarity** - upright QRS, upright T wave.
 - **Mechanical payoff of repolarization (Slide 31):** relaxation starts at the **apex, epicardially**, to **optimize ventricular relaxation** - the ventricle cannot dilate until the outer wall relaxes.
 - **The three ECG waveforms (Slide 30):** atrial depolarization = **P wave**; ventricular depolarization = **QRS complex**; ventricular repolarization = **T wave**. AV nodal and His-Purkinje activation appear on neither.
+
+:::diagram cv23-transmural-depol-repol:::
+
 - **Lecturer's sample question (Slide 27):** which medication slows **ventricular** conduction - an L-type calcium channel blocker or a **sodium channel blocker**? Answer: the **sodium channel blocker**, because ventricular and Purkinje fibers generate **fast response** action potentials dependent on INa.
 
 ## Conduction Velocity Across the Heart (Slides 32-33)
@@ -210,6 +215,8 @@ Conduction velocity (CV) is simply the **speed at which action potentials propag
 - **Determinants of CV [Lecturer Emphasis]:** **action potential type** (fast vs. slow response, i.e., dV/dt and amplitude), **cell size**, **gap junction type** (high- vs. low-conductance connexins), and **fibrosis content**.
 - **Minimum requirement (Slide 33):** the First Aid ordering is **Purkinje > atria > ventricles > AV node**, and pacemaker dominance is **SA > AV > bundle of His/Purkinje/ventricles**.
   - **Lecturer's nuance:** First Aid lists atrial CV as faster than ventricular; the lecturer notes the table values are comparable and the discrepancy "is probably due to different sources." Do not lose sleep over atria-versus-ventricles; know that Purkinje is fastest and the AV node is slowest.
+
+:::diagram cv23-wavefront-to-ecg:::
 
 :::mnemonic
 **Why the AV Node Is Slow and Purkinje Is Fast - Same Three Variables, Opposite Values**

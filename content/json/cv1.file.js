@@ -80,6 +80,8 @@ If the operator is not the corrective force, what is? The philosophical core of 
   - In a bad somatic dysfunction, the area often **does not move with breathing** — obvious at the ribs, incredibly subtle at the ankle, but still there.
   - Use positioning to **restore breathing motion**, and breathing itself can work the articulation free, restoring both normal relations and normal tension.
 
+:::diagram cv1-respiratory-cooperation:::
+
 ## What the Point of Balance Engages: Reset, Perfusion, Microcirculation (Slides 29-35)
 
 A variety of inherent forces can act directly on an area of strain, and their action becomes *perceptible* as the point of balanced tension is achieved. This section is the physiologic payoff of the lecture: somatic dysfunction is much more than a "tight, stiff spot" — it participates in neural, circulatory, and even cellular physiology, sometimes in a very consequential way.
@@ -97,6 +99,8 @@ A variety of inherent forces can act directly on an area of strain, and their ac
   - This exchange depends on **small inherent motions** that the local strain also suppresses.
 - **Sutherland's goal of treatment (Slide 34):** "to improve the **interchange of all the fluids of the body across all tissue interfaces**."
 - **Evaluation mandate (Slide 35):** the evaluation of somatic dysfunction should include its impact on the **local expression of inherent motion — respiration, pulse, and the primary respiratory mechanism** (plus the sense of congestion). This provides *evidence of the physiologic impact* the dysfunction is having — expand your exam beyond "tight and stiff" [Lecturer Emphasis].
+
+:::diagram cv1-dysfunction-perfusion-loop:::
 
 :::correlate
 Somatic Dysfunction (Ligamentous Articular Strain)
@@ -134,6 +138,8 @@ The point of balanced ligamentous/membranous tension is defined as "the point in
   - **Direct:** carry the articulation *into* the strain → the slacked strap comes up to tension → also a point of balanced tension.
   - **Critical rule for direct positioning:** you do **not** attempt to overcome the resistance — you **match tension** in a manner that allows the **inherent force** to make the correction.
 - **When to lean in [Lecturer Emphasis]:** in really sick patients — shallow breathing, weak pulse, inhibited or weak primary respiratory mechanism — slacking the tissues does not bring up any inherent forces. Leaning gently into the barrier **adds energy to the equation and "stirs the tissues to action,"** bringing forth the powers within the patient. Direct action, yes — but never forcing through a barrier.
+
+:::diagram cv1-point-of-balanced-tension:::
 
 ## The Five Approaches and the Assists (Slides 45-51)
 

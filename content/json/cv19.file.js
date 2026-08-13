@@ -71,6 +71,8 @@ The aorta and pulmonary arteries take the full force of ventricular contraction,
   - Collagen fibers and elastic fibers (**not sheets**); **fibroblasts and macrophages** are the main cells.
   - **Vasa vasorum and nervi vascularis** — nerves actually enter the adventitia of these large vessels.
 
+:::diagram cv19-elastic-recoil-windkessel:::
+
 ## Muscular Arteries (Slides 14-15)
 
 These are most of the "named" arteries of the body — the lecturer's examples are the internal thoracic artery and the right coronary artery. Their hallmark is a dramatic, smooth-muscle-packed media bracketed by conspicuous elastic laminae.
@@ -139,6 +141,8 @@ Not all blood needs to pass through a capillary bed. AV shunts provide direct ar
   - When precapillary sphincters along the thoroughfare are **open**, blood perfuses the capillary bed; when they are **closed**, blood runs straight through the shunt channel.
 - **Locations:** skin of the **fingertips, nose, lips**, and **erectile tissue**.
 - **Thermoregulation at the body surface:** **closing** a skin AV shunt forces blood through the capillary bed, **enhancing heat loss**; when shunts are open (capillary sphincters constricted), blood bypasses the skin capillaries and does not warm the skin — conserving heat.
+
+:::diagram cv19-av-shunt-thermoregulation:::
 
 :::correlate
 Arteriovenous (AV) Fistula
@@ -243,6 +247,8 @@ The lymphatics are the body's one-way drainage system. They begin blind in the t
   - [Lecturer Emphasis] Sluggish lymphatic flow may inadequately remove toxins; the lecturer believes **OMM lymphatic procedures** may be shown to help this process.
 - **Wall structure:** lymphatic vessels progressively **thicken toward the heart** as walls develop more connective tissue and smooth muscle, but the layering stays **indistinct** — even the **thoracic duct** has relatively disorganized layers for such a large vessel.
 - **Histologic identification:** thoracic duct and lymphatic vessels show valves, coagulated lymph, and **WBCs but NO RBCs** in the lumen.
+
+:::diagram cv19-lymph-uptake-and-propulsion:::
 `,
   "flashcards": [
     { "front": "Name the three tunics of a blood vessel wall and the dominant component of each.", "back": "Tunica intima: endothelium + basal lamina + subendothelial loose CT. Tunica media: circumferential smooth muscle. Tunica adventitia: connective tissue with vasa vasorum and nervi vascularis.", "tag": "Glossary" },

@@ -23,6 +23,8 @@ To learn pathology you need physiology, and to learn physiology you need anatomy
 - **Cortex vs. the "salty" medulla:** most blood stays in the **cortex** (peritubular capillaries; active reabsorption). Only **5-10%** reaches the **medulla** via the **vasa recta**, preserving the concentrated osmotic gradient (countercurrent exchange) — at the price of hypoxia sensitivity.
 - **Veins:** renal vein → IVC; the **left renal vein is longer** and receives the **left gonadal vein**.
 
+:::diagram cv7-renal-blood-flow-path:::
+
 :::correlate
 Acute Tubular Necrosis (Medullary Ischemia)
 
@@ -72,6 +74,8 @@ As blood enters smaller renal vessels, resistance climbs and pressure falls — 
 - **MAP = (SBP + 2xDBP) / 3**; normal **70-105 mmHg**, falling to ~**50-60 mmHg** by the afferent arteriole.
 - **Boron figure (Slide 10):** with renal artery pressure ~100 mmHg, **afferent constriction** drops glomerular capillary pressure (60 → 40); **afferent relaxation** raises it. The efferent usually does the reverse, accentuating the effect — and each of the ~1 million nephrons can behave differently at any moment.
 
+:::diagram cv7-arteriolar-tone-gfr:::
+
 ## Q vs. RBF vs. RPF, Hematocrit, and PAH (Slide 11)
 
 | Term | Definition | Normal / Formula |
@@ -115,6 +119,8 @@ The filter selects by **size AND charge** (physiologic conditions — pathology 
 - **Favor filtration:** glomerular capillary hydrostatic pressure **P(GC) ~60 mmHg**, plus Bowman space oncotic pressure (**~0** — proteins are not supposed to be there).
 - **Oppose filtration:** Bowman space hydrostatic pressure **~15 mmHg**, plus glomerular capillary oncotic pressure **~29 mmHg** (albumin).
 - The First Aid figure previews how **ACE inhibitors and NSAIDs** shift these pressures (later lectures).
+
+:::diagram cv7-filtration-forces:::
 
 :::highyield
 Always know which Starling forces drive filtration and which oppose it. Net filtration pressure = 60 − 15 − 29 = +16 mmHg → fluid flows from glomerular capillary into Bowman space. Changes in blood pressure or blood protein content move these numbers — and therefore GFR.
@@ -184,6 +190,8 @@ The kidney wants a **constant GFR and RBF despite changes in perfusion pressure*
 - **1. Myogenic mechanism** (innate smooth muscle tone): **high BP** → afferent arteriole **stretches** → **vasoconstricts** → **↓RBF and ↓GFR proportionally (FF unchanged)**. **Low BP** → less stretch → **vasodilation** → ↑RBF, ↑GFR.
 - **2. Tubuloglomerular feedback:** the **macula densa** (chemoreceptors sensing NaCl in the straight distal tubule) plus **JG cells** (mechanoreceptors). **High NaCl** = high-GFR signal → **ATP + thromboxane A2** → **afferent constriction** → ↓GFR, ↓RBF. **Low NaCl** → **prostaglandins + renin** → **afferent dilation** (and RAAS) → ↑GFR, ↑RBF.
 - **3. Autonomic nervous system** (next section).
+
+:::diagram cv7-tubuloglomerular-feedback:::
 
 :::highyield
 The golden rules [Lecturer Emphasis]: constricting the AFFERENT arteriole DECREASES GFR; dilating it INCREASES GFR. The efferent is the reverse: constrict → GFR rises; dilate → GFR falls. Think of trapping blood in the glomerular capillary bed between the two arterioles.
