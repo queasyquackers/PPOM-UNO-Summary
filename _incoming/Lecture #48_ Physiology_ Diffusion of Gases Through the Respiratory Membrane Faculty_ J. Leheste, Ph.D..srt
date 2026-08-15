@@ -1,0 +1,2377 @@
+1
+00:00:00,890 --> 00:00:03,010
+Hello, everyone.
+Welcome to our second
+
+2
+00:00:03,010 --> 00:00:05,490
+lecture on respiratory
+physiology.
+
+3
+00:00:05,490 --> 00:00:08,630
+Today, we're going to talk
+about diffusion of gases
+
+4
+00:00:08,630 --> 00:00:10,410
+through the
+respiratory membrane.
+
+5
+00:00:10,410 --> 00:00:12,850
+My name is Dr. Jörg LeHest.
+
+6
+00:00:14,470 --> 00:00:17,850
+These learning objectives
+are consistent with
+
+7
+00:00:17,850 --> 00:00:20,970
+the event description,
+which is that it focuses
+
+8
+00:00:20,970 --> 00:00:23,210
+on the principles
+behind the mechanisms of
+
+9
+00:00:23,210 --> 00:00:26,050
+gas exchange based on the
+fundamental properties
+
+10
+00:00:26,050 --> 00:00:28,350
+of gases and their
+behavior and solution.
+
+11
+00:00:28,750 --> 00:00:31,130
+The fundamental laws
+of physics governing
+
+12
+00:00:31,130 --> 00:00:33,390
+these processes
+will be explored.
+
+13
+00:00:35,530 --> 00:00:38,730
+Let's begin with the
+general gas law, which is
+
+14
+00:00:38,730 --> 00:00:42,430
+described as P, which is
+pressure, times volume,
+
+15
+00:00:42,430 --> 00:00:46,450
+that's V, equaling N, which
+is the number of molecules
+
+16
+00:00:46,450 --> 00:00:50,050
+in moles, times R,
+which is a gas constant
+
+17
+00:00:50,050 --> 00:00:53,530
+specific for each type of
+gas, times the temperature.
+
+18
+00:00:53,830 --> 00:00:57,170
+So there's a relationship,
+in other words, between
+
+19
+00:00:57,170 --> 00:01:00,570
+pressure and volume and
+number of gas molecules
+
+20
+00:01:00,570 --> 00:01:03,730
+and a couple of other
+factors. Let's explore.
+
+21
+00:01:04,060 --> 00:01:06,990
+So here we have the
+standard propane gas tank
+
+22
+00:01:06,990 --> 00:01:10,760
+that everybody knows with
+gas molecules inside,
+
+23
+00:01:11,030 --> 00:01:13,750
+which is depicted here
+on the right. And due
+
+24
+00:01:13,750 --> 00:01:16,110
+to Brownian motion, these
+molecules are moving
+
+25
+00:01:16,110 --> 00:01:18,810
+around and bumping into
+each other. That is what
+
+26
+00:01:18,810 --> 00:01:21,330
+is reducing the pressure
+inside the cylinder.
+
+27
+00:01:22,290 --> 00:01:26,270
+So if we assume that the
+volume is constant in the
+
+28
+00:01:26,270 --> 00:01:30,570
+cylinder, we can take out
+the V here in our formula. So
+
+29
+00:01:30,570 --> 00:01:35,250
+what remains is that the
+pressure is a function of the
+
+30
+00:01:35,250 --> 00:01:38,430
+number of gas molecules
+times the constant times
+
+31
+00:01:38,430 --> 00:01:42,510
+temperature. So in other words,
+what can we do to alter the
+
+32
+00:01:42,510 --> 00:01:46,110
+pressure? Well we can either
+go to the refilling station
+
+33
+00:01:46,110 --> 00:01:50,230
+and add more gas so that
+will increase the pressure,
+
+34
+00:01:50,310 --> 00:01:56,210
+or we can move the cylinder
+from a cool, dry space
+
+35
+00:01:56,210 --> 00:01:59,230
+where it's supposed to be
+into the sun, and that would
+
+36
+00:01:59,230 --> 00:02:01,510
+also increase the pressure
+because of the temperature.
+
+37
+00:02:02,490 --> 00:02:04,150
+So how does this
+matter to the human
+
+38
+00:02:04,150 --> 00:02:07,590
+body? Well, for the
+human body, we assume
+
+39
+00:02:08,080 --> 00:02:11,810
+BTPS. That stands
+for body temperature,
+
+40
+00:02:13,400 --> 00:02:18,150
+ambient pressure, and
+saturation with water.
+
+41
+00:02:18,370 --> 00:02:22,290
+So for human purposes, or
+for medical purposes, we
+
+42
+00:02:22,290 --> 00:02:26,670
+assume that the gas is at
+37 degrees Celsius. That's
+
+43
+00:02:26,670 --> 00:02:30,670
+310 degrees Kelvin, so that's
+normal body temperature.
+
+44
+00:02:30,670 --> 00:02:35,970
+We assume ambient pressure,
+and we further assume
+
+45
+00:02:35,970 --> 00:02:38,550
+that the gas is saturated
+with water vapor.
+
+46
+00:02:38,550 --> 00:02:41,590
+So that's exactly the
+condition that the gas is
+
+47
+00:02:41,590 --> 00:02:44,770
+in that resides in our
+lungs. It's at body
+
+48
+00:02:44,770 --> 00:02:47,850
+temperature. It's at
+ambient pressure. so there
+
+49
+00:02:47,850 --> 00:02:50,750
+are no huge pressure
+differences between inside
+
+50
+00:02:50,750 --> 00:02:54,630
+and outside, and there
+is a lot of water vapor.
+
+51
+00:02:55,030 --> 00:02:58,530
+Sometimes it becomes
+important to standardize
+
+52
+00:02:58,530 --> 00:03:02,390
+things further. Then
+we consider the STPD.
+
+53
+00:03:02,550 --> 00:03:07,690
+So for that, we assume a
+standard temperature, which
+
+54
+00:03:07,690 --> 00:03:11,570
+is zero degrees Celsius,
+that's 273 Kelvin. in.
+
+55
+00:03:11,870 --> 00:03:15,790
+We utilize the standard
+pressure which is at sea
+
+56
+00:03:15,790 --> 00:03:20,610
+level 760 millimeters mercury
+and further on we assume
+
+57
+00:03:20,610 --> 00:03:24,350
+that the gas is dry. That
+simplifies things a lot.
+
+58
+00:03:26,570 --> 00:03:31,390
+This is Boyle's law and
+Boyle's law considers that the
+
+59
+00:03:31,390 --> 00:03:35,670
+product of pressure and
+volume of a gas is constant.
+
+60
+00:03:36,780 --> 00:03:39,770
+So that of course since
+we already know from the
+
+61
+00:03:39,770 --> 00:03:42,330
+previous slide that temperature
+plays a role has to assume
+
+62
+00:03:42,330 --> 00:03:45,830
+that the temperature
+is constant. So it says
+
+63
+00:03:45,830 --> 00:03:49,050
+basically that the pressure
+and volume of this container
+
+64
+00:03:49,050 --> 00:03:52,970
+here on the left is the
+same as the pressure volume
+
+65
+00:03:55,350 --> 00:03:57,890
+product of the
+container in the right.
+
+66
+00:03:58,670 --> 00:04:01,810
+So how is that possible?
+Well pressure and volume
+
+67
+00:04:01,990 --> 00:04:04,550
+are inversely
+proportional. So in other
+
+68
+00:04:04,550 --> 00:04:07,810
+words if the volume
+goes down that would be
+
+69
+00:04:07,810 --> 00:04:10,610
+according to the red
+arrow, the pressure
+
+70
+00:04:10,610 --> 00:04:13,450
+goes up, so they're
+inversely proportional.
+
+71
+00:04:15,830 --> 00:04:18,270
+Conversely, if the volume goes
+
+72
+00:04:18,270 --> 00:04:20,750
+up, so the volume increases,
+
+73
+00:04:21,170 --> 00:04:24,770
+then the pressure goes
+down. That makes sense
+
+74
+00:04:24,770 --> 00:04:28,970
+because all of these gas
+molecules are bumping into
+
+75
+00:04:28,970 --> 00:04:31,530
+each other much less and
+that reduces the pressure.
+
+76
+00:04:31,830 --> 00:04:37,550
+So while the pressure and
+volumes in both containers
+
+77
+00:04:37,550 --> 00:04:41,610
+are vastly different,
+their product is the same.
+
+78
+00:04:42,510 --> 00:04:45,610
+So that's what this law
+says. And how does this
+
+79
+00:04:45,610 --> 00:04:50,210
+matter? Well, our
+breathing is rhythmical, so
+
+80
+00:04:50,210 --> 00:04:53,570
+we breathe in and we
+breathe out, and that's only
+
+81
+00:04:53,570 --> 00:04:57,270
+possible due to pressure
+volume differences.
+
+82
+00:04:57,270 --> 00:05:00,830
+So we all know that if
+we take a breath, the
+
+83
+00:05:00,830 --> 00:05:03,990
+volume of our rib cage
+has to expand so that
+
+84
+00:05:03,990 --> 00:05:07,130
+reduces the pressure
+inside, making the air from
+
+85
+00:05:07,130 --> 00:05:09,070
+the outside flowing
+into our lungs. If we
+
+86
+00:05:09,070 --> 00:05:12,190
+breathe out, if we expire,
+the opposite happens.
+
+87
+00:05:12,190 --> 00:05:15,330
+And so all of this is
+governed by Boyle's
+
+88
+00:05:15,330 --> 00:05:17,270
+Law, and that's how
+Boyle's Law matters.
+
+89
+00:05:18,010 --> 00:05:21,550
+This is Dalton's Law,
+and Dalton's Law says
+
+90
+00:05:21,550 --> 00:05:27,510
+that the pressure of a
+mix of gases consists
+
+91
+00:05:27,510 --> 00:05:32,010
+of a product of the
+partial pressures of all
+
+92
+00:05:32,010 --> 00:05:35,230
+of the gases in that
+particular container.
+
+93
+00:05:35,970 --> 00:05:38,110
+So in other words,
+
+94
+00:05:38,490 --> 00:05:43,490
+the partial pressure of one
+gas in this mix is equal
+
+95
+00:05:43,490 --> 00:05:46,790
+to its pressure at
+barometric pressure, that's
+
+96
+00:05:46,790 --> 00:05:50,730
+Pb, times the fractional
+concentration of the gas.
+
+97
+00:05:51,810 --> 00:05:55,710
+And in physiological
+context, this
+
+98
+00:05:55,710 --> 00:05:58,110
+is corrected for
+by water vapor,
+
+99
+00:05:58,570 --> 00:06:01,770
+so Dalton's law then
+becomes the partial pressure
+
+100
+00:06:01,770 --> 00:06:06,830
+of a gas equaling the pressure
+of the gas at barometric
+
+101
+00:06:06,830 --> 00:06:09,870
+pressure minus the
+pressure of the water vapor
+
+102
+00:06:10,190 --> 00:06:14,290
+times the fractional
+proportion of the gas.
+
+103
+00:06:15,230 --> 00:06:23,090
+And if one survives at the
+total gas pressure of this
+
+104
+00:06:23,090 --> 00:06:27,350
+mix of gases, one has to
+add up all of these partial
+
+105
+00:06:27,350 --> 00:06:31,910
+pressures and produce a sum
+of them, and that sum has to
+
+106
+00:06:31,910 --> 00:06:35,590
+equal the total pressure
+of that particular mixture.
+
+107
+00:06:38,850 --> 00:06:43,250
+So partial pressure is
+sometimes really difficult to
+
+108
+00:06:43,250 --> 00:06:48,230
+work with, especially in a
+medical diagnostic the context.
+
+109
+00:06:48,230 --> 00:06:53,550
+So we need some form of
+equation that allows us to
+
+110
+00:06:53,550 --> 00:06:57,010
+convert the partial pressure
+of a gas into a concentration
+
+111
+00:06:57,010 --> 00:07:00,510
+in blood, in liquid phase
+in this case. And that
+
+112
+00:07:00,510 --> 00:07:03,490
+is exactly what Henry's law
+is doing. So it converts
+
+113
+00:07:03,490 --> 00:07:08,690
+the partial pressure into
+milliliters of gas per 100
+
+114
+00:07:08,690 --> 00:07:11,790
+milliliters of blood, or we
+can also use percentages.
+
+115
+00:07:11,970 --> 00:07:16,110
+So in order to do this,
+we have to multiply
+
+116
+00:07:16,110 --> 00:07:20,490
+the partial pressure of
+a gas with its solubility
+
+117
+00:07:20,490 --> 00:07:24,130
+in blood in this case,
+and then arrive in
+
+118
+00:07:24,130 --> 00:07:28,310
+it with a number of
+dissolved gas in blood.
+
+119
+00:07:28,610 --> 00:07:32,990
+What's really important
+to consider when talking
+
+120
+00:07:32,990 --> 00:07:36,190
+about Henry's law is
+that this only applies to
+
+121
+00:07:36,190 --> 00:07:39,030
+gases that are free in
+solution, so which we
+
+122
+00:07:39,030 --> 00:07:43,830
+already know is very little
+for oxygen, because most
+
+123
+00:07:43,830 --> 00:07:46,390
+of the oxygen is bind
+to hemoglobin. There's
+
+124
+00:07:46,390 --> 00:07:49,110
+only very little that is
+not bound to hemoglobin.
+
+125
+00:07:50,390 --> 00:07:57,430
+And it applies much more
+so for carbon dioxide,
+
+126
+00:07:57,430 --> 00:08:01,410
+because a lot of the carbon
+dioxide, actually majority,
+
+127
+00:08:01,610 --> 00:08:07,090
+is transported in a soluble
+form, either dissolved
+
+128
+00:08:07,090 --> 00:08:11,190
+directly as CO2 or as
+part of bicarbonate buffer
+
+129
+00:08:11,190 --> 00:08:15,190
+system, and both contribute
+to the partial pressure.
+
+130
+00:08:15,430 --> 00:08:21,330
+So in other words, only a
+gas that is dissolved in a
+
+131
+00:08:21,330 --> 00:08:24,590
+solution, such as blood,
+contributes to the partial
+
+132
+00:08:24,590 --> 00:08:30,770
+pressure. Gases that are bound
+to proteins such as hemoglobin
+
+133
+00:08:30,770 --> 00:08:36,310
+or albumin, they're not
+considered as part of a
+
+134
+00:08:36,310 --> 00:08:38,990
+partial pressure. they don't
+exert a partial pressure.
+
+135
+00:08:40,630 --> 00:08:44,970
+Fick's law considers
+the diffusion of gases,
+
+136
+00:08:45,330 --> 00:08:49,930
+and so it considers the
+volume of gas that is
+
+137
+00:08:49,930 --> 00:08:53,830
+transferred per unit of time,
+that's what Vx stands for,
+
+138
+00:08:54,190 --> 00:08:57,450
+and it equals the
+diffusion coefficient of a
+
+139
+00:08:57,450 --> 00:09:00,330
+gas, so that's different
+for different gases,
+
+140
+00:09:00,530 --> 00:09:04,090
+times the surface area,
+times the partial pressure
+
+141
+00:09:04,090 --> 00:09:07,410
+gradient of that gas, divided
+by the thickness of the
+
+142
+00:09:07,410 --> 00:09:11,830
+membrane. So right away you
+should see that this part
+
+143
+00:09:11,830 --> 00:09:15,350
+of the equation contains all
+of the components that we
+
+144
+00:09:15,350 --> 00:09:19,810
+find in alveoli where gas
+exchange actually occurs.
+
+145
+00:09:21,710 --> 00:09:25,590
+Another thing that I would
+like to mention is that
+
+146
+00:09:25,590 --> 00:09:29,150
+the diffusion coefficient
+for gases is much,
+
+147
+00:09:29,150 --> 00:09:35,630
+much larger for CO2, about
+50 times as high as it
+
+148
+00:09:35,630 --> 00:09:38,830
+is for O2. So in other
+words, it's much easier
+
+149
+00:09:38,830 --> 00:09:44,570
+to get CO2 into solution
+or into blood as oxygen.
+
+150
+00:09:44,570 --> 00:09:46,370
+So in other words, again,
+
+151
+00:09:46,910 --> 00:09:50,150
+carbon dioxide is
+much more soluble in
+
+152
+00:09:50,150 --> 00:09:53,510
+blood and water as
+a fact as oxygen.
+
+153
+00:09:54,610 --> 00:10:01,130
+Now, a very handy consideration
+is the lung diffusion
+
+154
+00:10:01,130 --> 00:10:06,490
+capacity, or DI, because
+it doesn't really help
+
+155
+00:10:06,490 --> 00:10:10,210
+us all that much to only
+consider gases that are
+
+156
+00:10:10,210 --> 00:10:13,670
+free in solution, and
+that as delta P describes,
+
+157
+00:10:14,040 --> 00:10:17,310
+are part of a partial
+pressure gradient. So
+
+158
+00:10:17,310 --> 00:10:20,710
+we need to also look
+at gases that bind to
+
+159
+00:10:20,710 --> 00:10:22,750
+proteins because a
+lot of the oxygen, for
+
+160
+00:10:22,750 --> 00:10:25,810
+instance, is bound to
+hemoglobin, and some of the
+
+161
+00:10:25,810 --> 00:10:28,660
+carbon dioxide is also
+bound to hemoglobin.
+
+162
+00:10:30,790 --> 00:10:34,090
+So the lung diffusion
+capacity, or DI,
+
+163
+00:10:34,750 --> 00:10:39,310
+it does that. So it combines
+the diffusion coefficient
+
+164
+00:10:39,310 --> 00:10:43,410
+of gas, it considers the
+surface area, it considers
+
+165
+00:10:43,410 --> 00:10:47,330
+the thickness of the
+membrane between an alveolar
+
+166
+00:10:47,330 --> 00:10:52,830
+capillary and the alveolar
+space that is filled with air.
+
+167
+00:10:53,370 --> 00:10:59,510
+But it also considers, in
+addition to Fick's law, it
+
+168
+00:10:59,510 --> 00:11:03,490
+not only considers gases
+that are free in solution, it
+
+169
+00:11:03,490 --> 00:11:06,910
+also considers gases that
+are bound to protein. So that
+
+170
+00:11:06,910 --> 00:11:11,530
+is a much more accurate
+physiological consideration.
+
+171
+00:11:12,970 --> 00:11:15,870
+So the lung diffusion
+capacity basically
+
+172
+00:11:15,870 --> 00:11:19,370
+describes how easy
+it is for gases
+
+173
+00:11:19,370 --> 00:11:21,950
+to cross from one
+medium into the next,
+
+174
+00:11:22,170 --> 00:11:25,890
+or how easy it is to cross
+from the alveolar space
+
+175
+00:11:25,890 --> 00:11:29,670
+into the alveolar
+capillaries, or vice versa.
+
+176
+00:11:30,210 --> 00:11:33,910
+And these are all the
+factors that contribute.
+
+177
+00:11:33,930 --> 00:11:37,150
+So for instance, red
+blood cells matter because
+
+178
+00:11:37,150 --> 00:11:40,450
+under conditions of
+anemia, then there are less
+
+179
+00:11:40,450 --> 00:11:43,870
+red blood cells, so
+there is maybe a lot of
+
+180
+00:11:43,870 --> 00:11:47,110
+oxygen inside the alveolus.
+But since there is
+
+181
+00:11:47,110 --> 00:11:50,230
+less molecules that can
+pick up the oxygen, then
+
+182
+00:11:50,230 --> 00:11:52,950
+that influences the
+lung diffusion capacity.
+
+183
+00:11:53,470 --> 00:11:57,190
+Same with alveoli and
+capillaries, depending on what
+
+184
+00:11:57,190 --> 00:11:59,930
+their condition is in
+terms of cell density, cell
+
+185
+00:11:59,930 --> 00:12:04,110
+number that influences the
+lung diffusion capacity.
+
+186
+00:12:04,790 --> 00:12:09,570
+One thing that we'll
+consider later in this
+
+187
+00:12:09,570 --> 00:12:14,090
+portion of the course are
+pathologic conditions.
+
+188
+00:12:14,170 --> 00:12:20,590
+So fibrosis, for instance,
+and also endema, they kind
+
+189
+00:12:20,590 --> 00:12:23,970
+of increase the distance
+between the alveolar and the
+
+190
+00:12:23,970 --> 00:12:27,050
+capillary component and
+make it more difficult for
+
+191
+00:12:27,050 --> 00:12:31,630
+gases to cross from one from
+one realm into the other
+
+192
+00:12:31,630 --> 00:12:38,290
+and so forth so here we have
+a standard arterial blood
+
+193
+00:12:38,290 --> 00:12:42,270
+gas which is commonly
+assessed as part of clinical
+
+194
+00:12:42,270 --> 00:12:46,450
+laboratory medicine which
+tells us a lot about what
+
+195
+00:12:46,710 --> 00:12:50,600
+the gases are and concentrations
+that are dissolved so
+
+196
+00:12:50,850 --> 00:12:54,230
+that is what the oxygen
+content for instance will do
+
+197
+00:12:55,070 --> 00:12:58,770
+how much of gases are
+bound to proteins for
+
+198
+00:12:58,770 --> 00:13:03,530
+instance that's what the
+O2 sat will do so because
+
+199
+00:13:03,530 --> 00:13:08,110
+it considers oxygenated
+hemoglobin and also
+
+200
+00:13:08,110 --> 00:13:12,190
+how gases may have been
+chemically modified So
+
+201
+00:13:12,190 --> 00:13:15,650
+we're looking at pH,
+partial pressure of CO2,
+
+202
+00:13:15,810 --> 00:13:18,430
+partial pressure of
+O2, and then here again
+
+203
+00:13:18,430 --> 00:13:21,580
+the bicarbonate buffer
+system. So this is
+
+204
+00:13:21,580 --> 00:13:25,670
+bicarbonate, and that
+information can all be
+
+205
+00:13:25,670 --> 00:13:28,610
+obtained from a standard
+arterial blood gas.
+
+206
+00:13:30,570 --> 00:13:34,410
+This is a very simple
+depiction of how gas exchange
+
+207
+00:13:34,410 --> 00:13:37,810
+in the lungs occurs. So
+here is the site of gas
+
+208
+00:13:37,810 --> 00:13:42,690
+exchange at the alveoli,
+blood comes in through
+
+209
+00:13:42,690 --> 00:13:48,590
+the pulmonary circuit in
+the form of venous blood
+
+210
+00:13:48,590 --> 00:13:52,130
+from the right heart, then
+gas exchange occurs, oxygen
+
+211
+00:13:52,130 --> 00:13:56,050
+is moved into the pulmonary
+capillary blood and
+
+212
+00:13:56,050 --> 00:13:59,490
+CO2 is being removed, it
+goes into the alveolus,
+
+213
+00:13:59,590 --> 00:14:04,950
+and then it leaves freshly
+oxygenated going back into
+
+214
+00:14:04,950 --> 00:14:08,270
+the left heart and then
+into the systemic circuit
+
+215
+00:14:10,120 --> 00:14:13,430
+so let's put some numbers
+two things so the partial
+
+216
+00:14:13,430 --> 00:14:18,810
+pressure of ambient outside
+air is of oxygen is about
+
+217
+00:14:18,810 --> 00:14:23,030
+160 millimeters mercury
+there's hardly any carbon
+
+218
+00:14:23,030 --> 00:14:26,010
+dioxide in that air we're
+working really hard as
+
+219
+00:14:26,010 --> 00:14:29,430
+humans to change that and
+make that number significant
+
+220
+00:14:29,430 --> 00:14:34,800
+as the air moves down the
+trachea it's being humidified
+
+221
+00:14:34,800 --> 00:14:38,650
+there's also mixed air
+in here so there's a dead
+
+222
+00:14:38,650 --> 00:14:41,430
+space which is incompressible
+you've discussed that
+
+223
+00:14:41,430 --> 00:14:45,290
+in one of the previous
+lectures by the end of it
+
+224
+00:14:45,290 --> 00:14:49,430
+once it reaches once that
+air reaches the alveolar
+
+225
+00:14:49,430 --> 00:14:53,990
+space it only has a partial
+pressure of oxygen of around
+
+226
+00:14:53,990 --> 00:14:58,030
+100 and since it has
+already picked up the carbon
+
+227
+00:14:58,030 --> 00:15:02,370
+dioxide that partial pressure
+is now at 40 and then
+
+228
+00:15:02,370 --> 00:15:06,220
+it moves like that into
+the systemic circuit um
+
+229
+00:15:06,950 --> 00:15:12,670
+just as a heads up some books
+have this number here at
+
+230
+00:15:12,670 --> 00:15:16,970
+slightly higher than 100
+so it's between 105 and 108
+
+231
+00:15:16,970 --> 00:15:23,190
+but then it's at the
+arterial and the partial
+
+232
+00:15:23,190 --> 00:15:27,030
+pressure of oxygen in the
+arterial arteries, I'm sorry,
+
+233
+00:15:27,050 --> 00:15:30,070
+is still 100. That's
+because of shunting. So
+
+234
+00:15:30,070 --> 00:15:34,570
+remember that part of the
+brachial circuit is shunted
+
+235
+00:15:34,570 --> 00:15:39,470
+back and mixed into the
+freshly oxygenated blood.
+
+236
+00:15:39,470 --> 00:15:44,570
+And so even if the blood
+initially, as it crosses
+
+237
+00:15:44,570 --> 00:15:47,510
+here, has a higher
+partial pressure than 100,
+
+238
+00:15:47,810 --> 00:15:52,390
+namely 105 to 8,
+it'll be lowered due
+
+239
+00:15:52,390 --> 00:15:55,230
+to the contribution
+of deoxygenated blood
+
+240
+00:15:55,230 --> 00:15:57,390
+coming in from the
+brachial circuit.
+
+241
+00:15:58,710 --> 00:16:02,410
+This slide here depicts
+an important concept,
+
+242
+00:16:02,410 --> 00:16:06,790
+and it depicts the concepts
+of diffusion versus
+
+243
+00:16:06,790 --> 00:16:10,370
+perfusion limited gas
+exchange so in other words
+
+244
+00:16:10,370 --> 00:16:14,330
+how quickly a gas can
+equilibrate between the
+
+245
+00:16:14,330 --> 00:16:17,510
+alveolar space into
+which it has been taken
+
+246
+00:16:17,510 --> 00:16:19,790
+up through breathing
+that's the green line here
+
+247
+00:16:20,190 --> 00:16:24,990
+with the concentration
+that's found in the pulmonary
+
+248
+00:16:24,990 --> 00:16:27,810
+capillary that is supposed
+to take up that gas that's
+
+249
+00:16:27,810 --> 00:16:32,230
+this line here so if you
+look here then this y
+
+250
+00:16:32,230 --> 00:16:35,690
+-axis is the concentration
+or partial pressure of this
+
+251
+00:16:35,690 --> 00:16:44,290
+gas. And as the pulmonary
+capillary runs across the
+
+252
+00:16:47,110 --> 00:16:51,610
+pulmonary alveolar space
+longer and longer, it
+
+253
+00:16:51,610 --> 00:16:54,530
+picks up more and more
+gas. But in this example
+
+254
+00:16:54,530 --> 00:16:57,930
+here with carbon monoxide,
+it never reaches the
+
+255
+00:16:57,930 --> 00:17:01,070
+concentration of carbon
+monoxide found in the
+
+256
+00:17:01,070 --> 00:17:04,310
+pulmonary alveolar space.
+And in a situation like
+
+257
+00:17:04,310 --> 00:17:07,690
+that, we're talking about
+diffusion limitation.
+
+258
+00:17:08,490 --> 00:17:11,630
+So why is that the case
+with carbon monoxide?
+
+259
+00:17:11,870 --> 00:17:16,530
+Well, if you remember
+partial pressure, and that's
+
+260
+00:17:16,530 --> 00:17:22,910
+from the earlier part of the
+lecture, it depends on how
+
+261
+00:17:22,910 --> 00:17:27,320
+much gas is dissolved in
+this case in the pulmonary
+
+262
+00:17:27,410 --> 00:17:32,270
+capillary bloodstream so gases
+that are bound to proteins
+
+263
+00:17:32,270 --> 00:17:36,500
+such as hemoglobin or
+albumin they don't count so
+
+264
+00:17:36,500 --> 00:17:40,970
+and one of the features of
+carbon monoxide which also
+
+265
+00:17:40,970 --> 00:17:44,430
+makes it so dangerous
+is that as it enters the
+
+266
+00:17:44,430 --> 00:17:51,070
+bloodstream it immediately binds
+to hemoglobin so that means
+
+267
+00:17:51,070 --> 00:17:56,110
+it never exists much in
+its dissolved form in blood
+
+268
+00:17:56,110 --> 00:18:01,510
+therefore it doesn't
+participate in the partial
+
+269
+00:18:01,510 --> 00:18:05,590
+pressure equation so that's
+why as per partial pressure
+
+270
+00:18:06,010 --> 00:18:11,270
+the concentration of dissolved
+carbon monoxide can never
+
+271
+00:18:11,270 --> 00:18:14,550
+reach the partial pressure
+in the alveolar space
+
+272
+00:18:14,550 --> 00:18:18,110
+because before it can dissolve
+in the blood, it's already
+
+273
+00:18:18,110 --> 00:18:22,770
+like a magnet taken up by
+the hemoglobin molecule.
+
+274
+00:18:23,450 --> 00:18:26,610
+A similar situation
+we have with
+
+275
+00:18:26,610 --> 00:18:31,310
+oxygen in two
+conditions, the two
+
+276
+00:18:32,870 --> 00:18:35,530
+physiological and also
+pathophysiological
+
+277
+00:18:35,530 --> 00:18:38,370
+conditions. So during
+exercise, for instance,
+
+278
+00:18:38,950 --> 00:18:43,410
+the oxygen that would be
+here in the alveolar space
+
+279
+00:18:43,410 --> 00:18:47,830
+would always be the oxygen
+concentration of the
+
+280
+00:18:47,830 --> 00:18:50,210
+partial pressure of oxygen
+would always be larger
+
+281
+00:18:50,210 --> 00:18:55,510
+than the partial pressure
+of oxygen in the capillary
+
+282
+00:18:55,510 --> 00:18:59,210
+because it's used up
+so quickly with oxygen
+
+283
+00:18:59,210 --> 00:19:03,890
+dissolving in blood so
+poorly that this difference
+
+284
+00:19:03,890 --> 00:19:07,390
+will always exist. Remember
+that oxygen is much
+
+285
+00:19:07,390 --> 00:19:11,670
+harder to dissolve in the
+liquid phase, water or blood,
+
+286
+00:19:11,670 --> 00:19:15,530
+compared to carbon
+monoxide or carbon dioxide.
+
+287
+00:19:16,130 --> 00:19:19,370
+Carbon monoxide is a
+special case because it does
+
+288
+00:19:19,370 --> 00:19:23,690
+dissolve well in blood, but
+it binds to right away to
+
+289
+00:19:23,690 --> 00:19:27,970
+hemoglobin, so it does not
+factor into the partial pressure
+
+290
+00:19:27,970 --> 00:19:32,790
+equation the same thing we
+have in pathophysiological
+
+291
+00:19:32,790 --> 00:19:37,790
+conditions fibrosis and
+emphysema so fibrosis is
+
+292
+00:19:37,790 --> 00:19:43,250
+marked by the thickening of
+the epithelium that separates
+
+293
+00:19:43,250 --> 00:19:48,910
+this space from that
+space and if the capillary
+
+294
+00:19:48,910 --> 00:19:52,810
+epithelium if that epithelium
+human epithelium is thicker,
+
+295
+00:19:53,070 --> 00:19:58,790
+then oxygen in this case,
+which is already a poor
+
+296
+00:19:58,790 --> 00:20:04,230
+diffuser, has even a harder
+time perfusing or diffusing
+
+297
+00:20:04,230 --> 00:20:07,010
+from the alveolar space
+into the surrounding
+
+298
+00:20:07,010 --> 00:20:10,030
+capillary. With emphysema,
+it's a little bit different,
+
+299
+00:20:10,030 --> 00:20:13,970
+but similar. Instead of
+fibrotic thickening, we see
+
+300
+00:20:13,970 --> 00:20:18,250
+destruction of cells and
+emphysema and that also provides
+
+301
+00:20:18,250 --> 00:20:21,850
+the gases that have to
+diffuse across from one
+
+302
+00:20:21,850 --> 00:20:25,510
+phase in the pulmonary alveolar
+space into the capillary
+
+303
+00:20:25,510 --> 00:20:30,210
+with less opportunity to
+do so and hence we are
+
+304
+00:20:30,750 --> 00:20:35,220
+looking at a diffusion
+limited situation now
+
+305
+00:20:35,550 --> 00:20:40,680
+with nitric oxide it's a
+little bit different and
+
+306
+00:20:43,130 --> 00:20:47,930
+And in this case, we
+have a high concentration
+
+307
+00:20:47,930 --> 00:20:53,090
+in the alveolar space
+right here, and as blood
+
+308
+00:20:53,090 --> 00:20:56,790
+enters the pulmonary
+capillary, it pretty much
+
+309
+00:20:56,790 --> 00:21:01,130
+right away equilibrates,
+and the concentration in
+
+310
+00:21:01,130 --> 00:21:05,290
+the blood reaches the
+same level as that of the
+
+311
+00:21:05,290 --> 00:21:08,930
+ambient air, which sits
+in the alveolar space.
+
+312
+00:21:09,630 --> 00:21:12,370
+that's how it happens
+under normal physiological
+
+313
+00:21:12,370 --> 00:21:16,710
+conditions with oxygen and
+carbon dioxide so there's a
+
+314
+00:21:16,710 --> 00:21:20,830
+lot of leeway built in in
+other words our system has
+
+315
+00:21:20,830 --> 00:21:24,310
+equilibrated the oxygen and
+the carbon dioxide under
+
+316
+00:21:24,310 --> 00:21:28,650
+normal physiological conditions
+about one third through
+
+317
+00:21:28,650 --> 00:21:33,430
+blood flow of the pulmonary
+capillary through the
+
+318
+00:21:33,430 --> 00:21:36,930
+alveolar system so it takes
+about one third of the
+
+319
+00:21:36,930 --> 00:21:40,950
+time that the blood has
+to flow past the alveolar
+
+320
+00:21:40,950 --> 00:21:47,050
+space to pick up and
+equilibrate completely with the
+
+321
+00:21:47,050 --> 00:21:51,570
+oxygen and carbon dioxide
+concentration of both sides.
+
+322
+00:21:53,370 --> 00:21:58,890
+And that situation is called
+perfusion limited because
+
+323
+00:21:59,530 --> 00:22:03,950
+the system that brings
+in fresh blood that could
+
+324
+00:22:03,950 --> 00:22:09,070
+pick up more and more of
+those gases and more and more
+
+325
+00:22:09,070 --> 00:22:12,130
+oxygen and get rid of more
+and more carbon dioxide
+
+326
+00:22:12,130 --> 00:22:16,070
+is just limited by its flow.
+So there's a certain flow
+
+327
+00:22:16,070 --> 00:22:20,210
+rate to which, remember
+it's a low pressure system,
+
+328
+00:22:20,550 --> 00:22:24,870
+the pulmonary
+capillary bloodstream
+
+329
+00:22:24,870 --> 00:22:27,810
+moves and that is
+the limiting factor
+
+330
+00:22:28,990 --> 00:22:33,640
+here. To illustrate how
+diffusion can be limited by
+
+331
+00:22:33,640 --> 00:22:36,750
+pathology, so on the left
+we have the same type of
+
+332
+00:22:36,750 --> 00:22:40,830
+graph with partial pressure,
+in this case oxygen,
+
+333
+00:22:41,270 --> 00:22:44,870
+in the alveoli versus
+the concentration
+
+334
+00:22:44,870 --> 00:22:47,030
+of oxygen along
+the capillary bed.
+
+335
+00:22:47,430 --> 00:22:50,530
+So under normal conditions
+at the beginning of the
+
+336
+00:22:50,530 --> 00:22:53,390
+capillary bed, because the
+oxygen that comes there is
+
+337
+00:22:53,390 --> 00:22:57,750
+never oxygen free so it
+has a partial pressure as
+
+338
+00:22:57,750 --> 00:23:04,570
+it comes into the pulmonary
+circulation of around 45
+
+339
+00:23:04,570 --> 00:23:09,190
+millimeters mercury along
+it takes about one third
+
+340
+00:23:09,190 --> 00:23:14,130
+of travel through the
+capillary network until the
+
+341
+00:23:14,130 --> 00:23:17,450
+blood is completely
+equilibrated with the oxygen
+
+342
+00:23:17,450 --> 00:23:22,910
+concentration in the pulmonary
+alveoli and fibrosis because
+
+343
+00:23:22,910 --> 00:23:26,430
+of the additional
+diffusion barrier due to a
+
+344
+00:23:26,430 --> 00:23:30,430
+thicker basal membrane that
+equilibration never happens
+
+345
+00:23:30,430 --> 00:23:34,390
+and depending on the degree
+of fibrosis that individual
+
+346
+00:23:34,390 --> 00:23:38,470
+might never reach the
+100 millimeters mercury
+
+347
+00:23:38,470 --> 00:23:43,890
+in oxygen as compared to
+the normal situation things
+
+348
+00:23:43,890 --> 00:23:48,490
+get even worse under
+conditions of high altitude so
+
+349
+00:23:48,870 --> 00:23:52,370
+at the very high
+highest points on this
+
+350
+00:23:52,370 --> 00:23:56,370
+planet the partial
+pressure of oxygen may
+
+351
+00:23:56,370 --> 00:24:00,430
+only be around 50
+millimeters mercury and
+
+352
+00:24:01,270 --> 00:24:05,710
+so for a person with
+normal lung function
+
+353
+00:24:07,600 --> 00:24:10,670
+the reduced gradient you
+can see that the gradient
+
+354
+00:24:10,670 --> 00:24:17,350
+here is less than the gradient
+here sorry the gradient
+
+355
+00:24:17,350 --> 00:24:20,720
+here so this gradient
+here is much larger which
+
+356
+00:24:20,720 --> 00:24:24,730
+accelerates this process of
+equilibration the gradient
+
+357
+00:24:24,730 --> 00:24:29,930
+here is smaller so for
+the pulmonary capillary
+
+358
+00:24:29,930 --> 00:24:33,550
+blood to take up all of
+the oxygen that is in the
+
+359
+00:24:33,550 --> 00:24:36,730
+alveolar space it just
+takes a little bit more time
+
+360
+00:24:36,730 --> 00:24:40,490
+but in the end it'll get
+there and the fibrotic
+
+361
+00:24:40,490 --> 00:24:44,350
+conditions due to the extra
+diffusion length diffusion
+
+362
+00:24:44,350 --> 00:24:48,890
+barrier that process not
+only takes longer but is
+
+363
+00:24:48,890 --> 00:24:54,670
+very likely never to fully
+occur so somebody in other
+
+364
+00:24:54,670 --> 00:24:58,330
+words who is suffering
+from a fibrotic condition
+
+365
+00:24:58,470 --> 00:25:03,190
+has problems already at
+sea level where the partial
+
+366
+00:25:03,190 --> 00:25:07,770
+pressure of oxygen as it
+reaches the alveoli is 100
+
+367
+00:25:08,250 --> 00:25:12,770
+under more extreme
+conditions this person
+
+368
+00:25:12,770 --> 00:25:15,650
+might not even be able
+to survive due to the
+
+369
+00:25:17,210 --> 00:25:20,370
+transport deficiency
+of oxygen from the
+
+370
+00:25:20,370 --> 00:25:23,310
+alveoli air into their
+pulmonary bloodstream.
+
+371
+00:25:26,550 --> 00:25:28,970
+And in the end,
+another practice
+
+372
+00:25:28,970 --> 00:25:30,830
+medical board style
+question for you.
+
+373
+00:25:30,930 --> 00:25:34,690
+A clinical physiology
+researcher is testing alveolar
+
+374
+00:25:34,690 --> 00:25:38,070
+gas equilibration in a
+healthy 25-year-old athlete
+
+375
+00:25:38,070 --> 00:25:40,810
+performing maximum intense
+knee treadmill exercise.
+
+376
+00:25:40,950 --> 00:25:44,150
+During intense exercise,
+the velocity of cardiac
+
+377
+00:25:44,150 --> 00:25:46,730
+output increased
+significantly, reducing the
+
+378
+00:25:46,730 --> 00:25:49,030
+transit time of an
+individual erythrocyte
+
+379
+00:25:49,030 --> 00:25:52,250
+through the alveolar
+capillary from a resting time
+
+380
+00:25:52,250 --> 00:25:56,190
+of three quarters to
+a quarter of a second.
+
+381
+00:25:56,390 --> 00:26:00,190
+Under normal physiological
+conditions, how does
+
+382
+00:26:00,190 --> 00:26:02,670
+this short and transit
+time affect the capillary
+
+383
+00:26:02,670 --> 00:26:06,210
+equilibration of oxygen
+and what type of transport
+
+384
+00:26:06,210 --> 00:26:09,690
+limit does this demonstrate?
+So this gets right
+
+385
+00:26:09,690 --> 00:26:13,270
+at the most challenging
+topic of this election uh
+
+386
+00:26:13,270 --> 00:26:18,310
+lecture and i give you
+some time to look at the
+
+387
+00:26:18,950 --> 00:26:20,810
+answer choices you
+
+388
+00:26:28,250 --> 00:26:29,810
+can also stop the recording to
+
+389
+00:26:29,810 --> 00:26:31,180
+look at them a
+little bit longer
+
+390
+00:26:31,630 --> 00:26:36,630
+um so what i would always
+like you to do is not just
+
+391
+00:26:36,630 --> 00:26:40,930
+go for the prize but also
+understand and question why
+
+392
+00:26:40,930 --> 00:26:45,050
+the distractors may be
+incorrect so let's go through
+
+393
+00:26:45,050 --> 00:26:49,410
+them one by one a oxygen
+transport becomes diffusion
+
+394
+00:26:49,410 --> 00:26:52,770
+limited because the shortened
+transit time prevents the
+
+395
+00:26:52,770 --> 00:26:56,130
+partial pressure of capillary
+oxygen from matching
+
+396
+00:26:56,130 --> 00:27:01,690
+alveolar levels so under
+normal physiological conditions
+
+397
+00:27:01,690 --> 00:27:08,070
+that does not happen
+because at sea level in a
+
+398
+00:27:08,070 --> 00:27:11,930
+healthy individual without
+any diseases the transit time
+
+399
+00:27:11,930 --> 00:27:16,370
+is about a quarter of a
+second so in other words it
+
+400
+00:27:16,370 --> 00:27:20,490
+takes the oxygen um about
+a quarter of a second to be
+
+401
+00:27:20,490 --> 00:27:24,930
+fully equilibrated between
+the alveolar space and the
+
+402
+00:27:24,930 --> 00:27:29,630
+capillary blood that flows
+through the lungs and in a
+
+403
+00:27:29,630 --> 00:27:32,570
+healthy person that should
+be all the time that it
+
+404
+00:27:32,570 --> 00:27:37,850
+takes so if anything um
+blood i'm sorry the uptake of
+
+405
+00:27:37,850 --> 00:27:42,410
+of of oxygen is perfusion
+limited so what that means is
+
+406
+00:27:42,410 --> 00:27:46,750
+that the amount that can
+be taken up depends on how
+
+407
+00:27:46,750 --> 00:27:51,090
+fast the blood can be pumped
+through the lungs so that's
+
+408
+00:27:51,090 --> 00:27:54,570
+perfusion limitation so
+it's not diffusion limited
+
+409
+00:27:54,780 --> 00:27:58,990
+because there's no additional
+barriers and in a healthy
+
+410
+00:27:58,990 --> 00:28:02,230
+individual as i said this
+should all happen within
+
+411
+00:28:02,230 --> 00:28:08,270
+the allotted time okay so
+a is incorrect let's go to
+
+412
+00:28:08,270 --> 00:28:11,810
+see oxygen transport
+switches from being diffusion
+
+413
+00:28:11,810 --> 00:28:15,650
+limited because carbon
+dioxide competes for the same
+
+414
+00:28:15,650 --> 00:28:21,590
+capillary surface area during
+intense exercise now that's
+
+415
+00:28:21,590 --> 00:28:25,870
+obviously incorrect because
+oxygen and carbon dioxide
+
+416
+00:28:25,870 --> 00:28:29,130
+don't really compete in
+that way they bind to
+
+417
+00:28:29,130 --> 00:28:33,970
+different sites on hemoglobin
+and yeah so that makes c
+
+418
+00:28:33,970 --> 00:28:38,520
+incorrect d oxygen transport
+becomes perfusion limited
+
+419
+00:28:38,520 --> 00:28:42,490
+because the high velocity
+of blood flow prevents any
+
+420
+00:28:42,490 --> 00:28:45,930
+gas diffusion from taking
+place across the blood brain
+
+421
+00:28:45,930 --> 00:28:49,870
+blood air barrier so
+the first part of the
+
+422
+00:28:49,870 --> 00:28:53,850
+statement you know it's
+still incorrect because
+
+423
+00:28:53,850 --> 00:28:57,190
+it has always been
+perfusion limited in a
+
+424
+00:28:57,190 --> 00:28:59,850
+healthy individual, so
+it doesn't become that.
+
+425
+00:29:00,510 --> 00:29:05,090
+And if anything, the increased
+blood flow through the
+
+426
+00:29:05,090 --> 00:29:10,270
+lungs actually increases the
+pickup capacity of oxygen
+
+427
+00:29:10,270 --> 00:29:16,390
+from the alveolar space. So
+that makes the incorrect.
+
+428
+00:29:16,750 --> 00:29:20,270
+E oxygen transport remains
+diffusion limited because
+
+429
+00:29:20,270 --> 00:29:22,890
+the thickening of the
+blood barrier plane barrier
+
+430
+00:29:22,890 --> 00:29:26,470
+blood air barrier i'm a
+neuroscientist sorry about that
+
+431
+00:29:26,470 --> 00:29:30,150
+during exercise slows down
+the physiological movement
+
+432
+00:29:30,150 --> 00:29:33,710
+of gas molecules so there's
+no thickening going on
+
+433
+00:29:33,710 --> 00:29:37,450
+during intense exercise
+because if there were diffusion
+
+434
+00:29:37,450 --> 00:29:40,610
+time would terribly increase
+we would never be able
+
+435
+00:29:40,610 --> 00:29:45,270
+to exercise so in a healthy
+individual that does
+
+436
+00:29:45,270 --> 00:29:48,510
+not happen and somebody
+however who is suffering from
+
+437
+00:29:48,510 --> 00:29:53,110
+fibrosis there is actual
+sickening going on and there
+
+438
+00:29:53,110 --> 00:29:56,810
+we experience the fusion
+limitation as we have seen
+
+439
+00:29:57,240 --> 00:30:01,050
+in in the lecture before
+so the correct answer
+
+440
+00:30:01,050 --> 00:30:05,270
+is b oxygen transport
+becomes perfusion limited
+
+441
+00:30:05,470 --> 00:30:08,230
+because partial pressure
+equilibration is reached
+
+442
+00:30:08,230 --> 00:30:13,630
+well within the shortened
+25 or quarter second window
+
+443
+00:30:13,630 --> 00:30:19,930
+so i would still argue
+that um becomes i wouldn't
+
+444
+00:30:19,930 --> 00:30:23,940
+use becomes necessarily so
+i could have probably um
+
+445
+00:30:23,940 --> 00:30:26,740
+i should have used is
+perfusion limited or remains
+
+446
+00:30:26,740 --> 00:30:29,550
+perfusion limited but don't
+let that throw you off
+
+447
+00:30:29,550 --> 00:30:33,330
+so let's just say in an
+individual in a healthy
+
+448
+00:30:33,330 --> 00:30:36,830
+condition oxygen transport
+is always perfusion limited
+
+449
+00:30:36,830 --> 00:30:41,030
+um at sea level um where
+would that not be the case
+
+450
+00:30:42,150 --> 00:30:45,950
+well of course at higher
+levels and at higher
+
+451
+00:30:45,950 --> 00:30:50,830
+altitudes we have less
+oxygen in the air in
+
+452
+00:30:50,830 --> 00:30:54,430
+the ambient air so there
+it can actually become
+
+453
+00:30:56,790 --> 00:30:59,930
+oxygen uptake can
+become an issue all
+
+454
+00:31:00,890 --> 00:31:06,170
+right I hope that
+helps and look at the
+
+455
+00:31:06,170 --> 00:31:09,150
+resources afterwards
+and see you next time
+
+456
+00:31:11,610 --> 00:31:14,290
+So this was the lecture.
+Thank you for listening.
+
+457
+00:31:15,230 --> 00:31:19,470
+Please be reminded that
+all of the resources that
+
+458
+00:31:19,470 --> 00:31:23,090
+I used for creating this
+lecture are listed on the
+
+459
+00:31:23,090 --> 00:31:27,350
+CPG, so I'm staying very
+closely to the chapter in
+
+460
+00:31:27,350 --> 00:31:30,730
+Constanzo that talks about
+respiratory physiology.
+
+461
+00:31:31,370 --> 00:31:34,830
+There's, once again, a nice
+summary section attached
+
+462
+00:31:34,830 --> 00:31:38,610
+with it, which I would
+recommend you read. Plus,
+
+463
+00:31:38,610 --> 00:31:42,330
+there are self-testing
+questions tied to each chapter.
+
+464
+00:31:42,650 --> 00:31:45,850
+They're not medical board
+style, but, you know, they
+
+465
+00:31:45,850 --> 00:31:48,990
+do test all of the basic
+concepts that we talked
+
+466
+00:31:48,990 --> 00:31:52,850
+about, so they're very
+helpful, and the resolution or
+
+467
+00:31:52,850 --> 00:31:55,470
+the answers to those
+questions can be found at the
+
+468
+00:31:55,470 --> 00:31:59,590
+end of the book. And if
+you have further questions,
+
+469
+00:31:59,590 --> 00:32:01,870
+you can, of course,
+always reach out to me,
+
+470
+00:32:01,870 --> 00:32:05,250
+and I'd be happy to answer
+them. So, thank you.
+
+471
+00:32:10,110 --> 00:32:12,850
+If you would be so
+kind, then please go to
+
+472
+00:32:12,850 --> 00:32:18,130
+SurveyMonkey and give
+me your feedback so that
+
+473
+00:32:18,130 --> 00:32:22,930
+tell me what you liked,
+tell me what needs to
+
+474
+00:32:22,930 --> 00:32:26,270
+change, and I will take
+that very seriously and
+
+475
+00:32:26,270 --> 00:32:30,390
+adapt and have it ready
+for the next cohort.
+
+476
+00:32:30,390 --> 00:32:33,450
+So thank you once again
+and looking forward
+
+477
+00:32:33,450 --> 00:32:36,430
+to interacting with
+you the next time. Bye.

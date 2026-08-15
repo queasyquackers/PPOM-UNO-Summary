@@ -1421,7 +1421,7 @@ window.receiveLectureIndex([
     "module": "OMM",
     "tags": "Lecture #183b",
     "path": "content/json/l183.file.js",
-    "readingTime": 12
+    "readingTime": 14
   },
   {
     "id": "l184",
@@ -1429,7 +1429,7 @@ window.receiveLectureIndex([
     "module": "Pharmacology",
     "tags": "Lecture #184",
     "path": "content/json/l184.file.js",
-    "readingTime": 13
+    "readingTime": 12
   },
   {
     "id": "l185",
@@ -1437,7 +1437,7 @@ window.receiveLectureIndex([
     "module": "Pharmacology",
     "tags": "Lecture #185",
     "path": "content/json/l185.file.js",
-    "readingTime": 14
+    "readingTime": 12
   },
   {
     "id": "l186",
@@ -1445,7 +1445,7 @@ window.receiveLectureIndex([
     "module": "Dermatology",
     "tags": "Lecture #186",
     "path": "content/json/l186.file.js",
-    "readingTime": 13
+    "readingTime": 12
   },
   {
     "id": "l187",
@@ -1469,7 +1469,7 @@ window.receiveLectureIndex([
     "module": "Dermatology",
     "tags": "Lecture #189",
     "path": "content/json/l189.file.js",
-    "readingTime": 14
+    "readingTime": 16
   },
   {
     "id": "l190",
@@ -1477,7 +1477,7 @@ window.receiveLectureIndex([
     "module": "Physiology",
     "tags": "Lecture #190",
     "path": "content/json/l190.file.js",
-    "readingTime": 13
+    "readingTime": 12
   },
   {
     "id": "l191",
@@ -1485,7 +1485,7 @@ window.receiveLectureIndex([
     "module": "Emergency Medicine",
     "tags": "Lecture #191",
     "path": "content/json/l191.file.js",
-    "readingTime": 13
+    "readingTime": 12
   },
   {
     "id": "l192",
@@ -1493,7 +1493,7 @@ window.receiveLectureIndex([
     "module": "Emergency Medicine",
     "tags": "Lecture #192",
     "path": "content/json/l192.file.js",
-    "readingTime": 13
+    "readingTime": 12
   },
   {
     "id": "cv1",
@@ -1501,7 +1501,7 @@ window.receiveLectureIndex([
     "module": "OMM",
     "tags": "Lecture #1",
     "path": "content/json/cv1.file.js",
-    "readingTime": 15
+    "readingTime": 17
   },
   {
     "id": "cv2",
@@ -1517,7 +1517,7 @@ window.receiveLectureIndex([
     "module": "Anatomy",
     "tags": "Lecture #3",
     "path": "content/json/cv3.file.js",
-    "readingTime": 15
+    "readingTime": 16
   },
   {
     "id": "cv4",
@@ -1525,7 +1525,7 @@ window.receiveLectureIndex([
     "module": "Physiology",
     "tags": "Lecture #4",
     "path": "content/json/cv4.file.js",
-    "readingTime": 15
+    "readingTime": 17
   },
   {
     "id": "cv6",
@@ -1533,7 +1533,7 @@ window.receiveLectureIndex([
     "module": "Physiology",
     "tags": "Lecture #6",
     "path": "content/json/cv6.file.js",
-    "readingTime": 15
+    "readingTime": 17
   },
   {
     "id": "cv7",
@@ -1541,7 +1541,7 @@ window.receiveLectureIndex([
     "module": "Physiology",
     "tags": "Lecture #7",
     "path": "content/json/cv7.file.js",
-    "readingTime": 16
+    "readingTime": 18
   },
   {
     "id": "cv8",
@@ -1549,7 +1549,7 @@ window.receiveLectureIndex([
     "module": "Physiology",
     "tags": "Lecture #8",
     "path": "content/json/cv8.file.js",
-    "readingTime": 18
+    "readingTime": 21
   },
   {
     "id": "cv9",
@@ -1565,7 +1565,7 @@ window.receiveLectureIndex([
     "module": "Physiology",
     "tags": "Lecture #10",
     "path": "content/json/cv10.file.js",
-    "readingTime": 15
+    "readingTime": 17
   },
   {
     "id": "cv11",
@@ -1573,7 +1573,7 @@ window.receiveLectureIndex([
     "module": "OMM",
     "tags": "Lecture #11",
     "path": "content/json/cv11.file.js",
-    "readingTime": 15
+    "readingTime": 16
   },
   {
     "id": "cv12",
@@ -1581,7 +1581,7 @@ window.receiveLectureIndex([
     "module": "OMM",
     "tags": "Lecture #12",
     "path": "content/json/cv12.file.js",
-    "readingTime": 15
+    "readingTime": 18
   },
   {
     "id": "cv13",
@@ -1589,7 +1589,23 @@ window.receiveLectureIndex([
     "module": "OMM",
     "tags": "Lecture #13",
     "path": "content/json/cv13.file.js",
-    "readingTime": 14
+    "readingTime": 15
+  },
+  {
+    "id": "cv14",
+    "title": "Lecture #14: Physiology - Transport of Acids and Bases",
+    "module": "Physiology",
+    "tags": "Lecture #14",
+    "path": "content/json/cv14.file.js",
+    "readingTime": 17
+  },
+  {
+    "id": "cv15",
+    "title": "Lecture #15: Physiology - Urine Concentration & Dilution",
+    "module": "Physiology",
+    "tags": "Lecture #15",
+    "path": "content/json/cv15.file.js",
+    "readingTime": 16
   },
   {
     "id": "cv16",
@@ -1597,7 +1613,7 @@ window.receiveLectureIndex([
     "module": "Physiology",
     "tags": "Lecture #16",
     "path": "content/json/cv16.file.js",
-    "readingTime": 19
+    "readingTime": 17
   },
   {
     "id": "cv17",
@@ -1605,7 +1621,7 @@ window.receiveLectureIndex([
     "module": "Physiology",
     "tags": "Lecture #17",
     "path": "content/json/cv17.file.js",
-    "readingTime": 19
+    "readingTime": 17
   },
   {
     "id": "cv18",
@@ -1637,7 +1653,7 @@ window.receiveLectureIndex([
     "module": "Physiology",
     "tags": "Lecture #22",
     "path": "content/json/cv22.file.js",
-    "readingTime": 11
+    "readingTime": 9
   },
   {
     "id": "cv23",
@@ -1646,5 +1662,253 @@ window.receiveLectureIndex([
     "tags": "Lecture #23",
     "path": "content/json/cv23.file.js",
     "readingTime": 20
+  },
+  {
+    "id": "cv24",
+    "title": "Lecture #24: Molecular Physiology of Vascular Endothelial Cells",
+    "module": "Physiology",
+    "tags": "Lecture #24",
+    "path": "content/json/cv24.file.js",
+    "readingTime": 14
+  },
+  {
+    "id": "cv25",
+    "title": "Lecture #25: Molecular Physiology of Vascular Smooth Muscle Cells",
+    "module": "Physiology",
+    "tags": "Lecture #25",
+    "path": "content/json/cv25.file.js",
+    "readingTime": 12
+  },
+  {
+    "id": "cv26",
+    "title": "Lecture #26: Physiological Basis of the Basic ECG - Leads, Vectors, and Intervals",
+    "module": "Physiology",
+    "tags": "Lecture #26",
+    "path": "content/json/cv26.file.js",
+    "readingTime": 16
+  },
+  {
+    "id": "cv27",
+    "title": "Lecture #27: EKG Introduction - Coronary Territories and the Six-Step Read",
+    "module": "Physiology",
+    "tags": "Lecture #27",
+    "path": "content/json/cv27.file.js",
+    "readingTime": 16
+  },
+  {
+    "id": "cv28",
+    "title": "Lecture #28: Physiology of the Cardiac Cycle Part I - Pressure and Volume Changes",
+    "module": "Physiology",
+    "tags": "Lecture #28",
+    "path": "content/json/cv28.file.js",
+    "readingTime": 17
+  },
+  {
+    "id": "cv29",
+    "title": "Lecture #29: Physiology of the Cardiac Cycle Part 2 - Loops, Laws and Cardiac Output",
+    "module": "Physiology",
+    "tags": "Lecture #29",
+    "path": "content/json/cv29.file.js",
+    "readingTime": 17
+  },
+  {
+    "id": "cv30",
+    "title": "Lecture #30: Pharmacology of Diuretic Agents, Part 1",
+    "module": "Pharmacology",
+    "tags": "Lecture #30",
+    "path": "content/json/cv30.file.js",
+    "readingTime": 23
+  },
+  {
+    "id": "cv31",
+    "title": "Lecture #31: Pharmacology of Diuretic Agents, Part 2",
+    "module": "Pharmacology",
+    "tags": "Lecture #31",
+    "path": "content/json/cv31.file.js",
+    "readingTime": 15
+  },
+  {
+    "id": "cv32",
+    "title": "Lecture #32: Scoliosis",
+    "module": "OMM",
+    "tags": "Lecture #32",
+    "path": "content/json/cv32.file.js",
+    "readingTime": 18
+  },
+  {
+    "id": "cv33",
+    "title": "Lecture #33: \\",
+    "module": "OMM",
+    "tags": "Lecture #33",
+    "path": "content/json/cv33.file.js",
+    "readingTime": 16
+  },
+  {
+    "id": "cv34",
+    "title": "Lecture #34: OMM Lab #34 Prep - OCF Diagnosis & Treatment: Balanced Membranous Tension, V-Spread, CV4, Unilateral Temporal Hold",
+    "module": "OMM",
+    "tags": "Lecture #34",
+    "path": "content/json/cv34.file.js",
+    "readingTime": 18
+  },
+  {
+    "id": "cv35",
+    "title": "Lecture #35: Pharmacology of Antihypertensive Agents Part 1 - Renin-Angiotensin System Antagonists",
+    "module": "Pharmacology",
+    "tags": "Lecture #35",
+    "path": "content/json/cv35.file.js",
+    "readingTime": 15
+  },
+  {
+    "id": "cv36",
+    "title": "Lecture #36: Pharmacology of Antihypertensive Agents Part 2 - Calcium Channel Blockers and Beta Blockers",
+    "module": "Pharmacology",
+    "tags": "Lecture #36",
+    "path": "content/json/cv36.file.js",
+    "readingTime": 23
+  },
+  {
+    "id": "cv37",
+    "title": "Lecture #37: Pharmacology of Antihypertensive Agents Part 3 - Alpha Blockers, Centrally Acting Sympatholytics, and Vasodilators",
+    "module": "Pharmacology",
+    "tags": "Lecture #37",
+    "path": "content/json/cv37.file.js",
+    "readingTime": 17
+  },
+  {
+    "id": "cv38",
+    "title": "Lecture #38: Clinical Hypertension (Part 1)",
+    "module": "Clinical Medicine",
+    "tags": "Lecture #38",
+    "path": "content/json/cv38.file.js",
+    "readingTime": 12
+  },
+  {
+    "id": "cv39",
+    "title": "Lecture #39: Clinical Hypertension Part 2 - Management",
+    "module": "Clinical Medicine",
+    "tags": "Lecture #39",
+    "path": "content/json/cv39.file.js",
+    "readingTime": 15
+  },
+  {
+    "id": "cv40",
+    "title": "Lecture #40: Shock - Pathophysiology and Management",
+    "module": "Physiology",
+    "tags": "Lecture #40",
+    "path": "content/json/cv40.file.js",
+    "readingTime": 15
+  },
+  {
+    "id": "cv41",
+    "title": "Lecture #41: Introduction to Normal Chest X-Ray",
+    "module": "Radiology",
+    "tags": "Lecture #41",
+    "path": "content/json/cv41.file.js",
+    "readingTime": 15
+  },
+  {
+    "id": "cv42",
+    "title": "Lecture #42: Osteopathic Considerations of Lower Back Pain",
+    "module": "OMM",
+    "tags": "Lecture #42",
+    "path": "content/json/cv42.file.js",
+    "readingTime": 17
+  },
+  {
+    "id": "cv43",
+    "title": "Lecture #43: Cardiac Prevention and Improving Communication",
+    "module": "DPR",
+    "tags": "Lecture #43",
+    "path": "content/json/cv43.file.js",
+    "readingTime": 16
+  },
+  {
+    "id": "cv44",
+    "title": "Lecture #44: Pulmonary Anatomy and Histology",
+    "module": "Anatomy",
+    "tags": "Lecture #44",
+    "path": "content/json/cv44.file.js",
+    "readingTime": 15
+  },
+  {
+    "id": "cv45",
+    "title": "Lecture #45: Basic Concepts in Respiratory Physiology",
+    "module": "Physiology",
+    "tags": "Lecture #45",
+    "path": "content/json/cv45.file.js",
+    "readingTime": 13
+  },
+  {
+    "id": "cv46",
+    "title": "Lecture #46: Physiology - Lung Mechanics: Pressures Acting on the System",
+    "module": "Physiology",
+    "tags": "Lecture #46",
+    "path": "content/json/cv46.file.js",
+    "readingTime": 14
+  },
+  {
+    "id": "cv47",
+    "title": "Lecture #47: Physiology - Airways and Pulmonary Blood Flow",
+    "module": "Physiology",
+    "tags": "Lecture #47",
+    "path": "content/json/cv47.file.js",
+    "readingTime": 13
+  },
+  {
+    "id": "cv48",
+    "title": "Lecture #48: Diffusion of Gases Through the Respiratory Membrane",
+    "module": "Physiology",
+    "tags": "Lecture #48",
+    "path": "content/json/cv48.file.js",
+    "readingTime": 14
+  },
+  {
+    "id": "cv49",
+    "title": "Lecture #49: Physiology - Pulmonary Circulation",
+    "module": "Physiology",
+    "tags": "Lecture #49",
+    "path": "content/json/cv49.file.js",
+    "readingTime": 15
+  },
+  {
+    "id": "cv50",
+    "title": "Lecture #50: Transport of Gases in Blood and Tissue Fluids",
+    "module": "Physiology",
+    "tags": "Lecture #50",
+    "path": "content/json/cv50.file.js",
+    "readingTime": 13
+  },
+  {
+    "id": "cv51",
+    "title": "Lecture #51: Lung Mechanics - Elastic Properties of the Lungs",
+    "module": "Physiology",
+    "tags": "Lecture #51",
+    "path": "content/json/cv51.file.js",
+    "readingTime": 15
+  },
+  {
+    "id": "cv52",
+    "title": "Lecture #52: Physiology: Ventilation/Perfusion Relationships",
+    "module": "Physiology",
+    "tags": "Lecture #52",
+    "path": "content/json/cv52.file.js",
+    "readingTime": 13
+  },
+  {
+    "id": "cv53",
+    "title": "Lecture #53: Physiology: Control Mechanisms of Respiration",
+    "module": "Physiology",
+    "tags": "Lecture #53",
+    "path": "content/json/cv53.file.js",
+    "readingTime": 15
+  },
+  {
+    "id": "cv54",
+    "title": "Lecture #54: Introduction to Exercise Physiology",
+    "module": "Physiology",
+    "tags": "Lecture #54",
+    "path": "content/json/cv54.file.js",
+    "readingTime": 18
   }
 ]);

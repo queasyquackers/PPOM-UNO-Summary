@@ -1,0 +1,4585 @@
+1
+00:00:00,860 --> 00:00:03,620
+Hey again, everyone.
+This is Dr. Ermin Tala
+
+2
+00:00:03,620 --> 00:00:06,340
+here with the second
+session in our series on
+
+3
+00:00:06,340 --> 00:00:09,280
+clinical cardiology. So
+last lecture, we focused
+
+4
+00:00:09,280 --> 00:00:12,420
+on the ECG complex, its
+components, vectors,
+
+5
+00:00:12,420 --> 00:00:14,260
+Ithobin's triangle, throughout
+
+6
+00:00:14,260 --> 00:00:15,870
+the lens of cardiac physiology.
+
+7
+00:00:16,160 --> 00:00:19,260
+Now in this lecture,
+we'll apply those concepts
+
+8
+00:00:19,260 --> 00:00:21,380
+to more clinical
+applications, connecting
+
+9
+00:00:21,380 --> 00:00:24,220
+our understanding of
+the EKG complex with the
+
+10
+00:00:24,220 --> 00:00:26,440
+mechanical contractions
+in the heart muscle.
+
+11
+00:00:26,560 --> 00:00:29,360
+After that, we'll
+review the blood flow
+
+12
+00:00:29,360 --> 00:00:31,100
+of coronary arteries
+and how these
+
+13
+00:00:31,100 --> 00:00:33,420
+correspond to specific
+lead locations.
+
+14
+00:00:33,420 --> 00:00:36,140
+Then, we'll jump into the
+approach of reading an
+
+15
+00:00:36,140 --> 00:00:40,040
+EKG from start to finish.
+In the end, I'll provide
+
+16
+00:00:40,040 --> 00:00:43,720
+two examples of EKG
+presentations. So let's begin.
+
+17
+00:00:44,620 --> 00:00:46,780
+These are the session
+objectives for this
+
+18
+00:00:46,780 --> 00:00:49,300
+lecture. The questions
+selected on your upcoming
+
+19
+00:00:49,300 --> 00:00:52,180
+exams reflect these
+objectives. So again,
+
+20
+00:00:52,180 --> 00:00:54,040
+if you can answer
+these questions in your
+
+21
+00:00:54,040 --> 00:00:56,280
+own words, you probably
+are in a good spot.
+
+22
+00:00:56,520 --> 00:00:59,980
+In the bottom right corner,
+we also have corresponding
+
+23
+00:00:59,980 --> 00:01:02,880
+pages in the first aid
+book for reference.
+
+24
+00:01:03,540 --> 00:01:05,660
+I decided to include this
+
+25
+00:01:05,660 --> 00:01:07,760
+quote here from D.H. Lawrence,
+
+26
+00:01:07,820 --> 00:01:10,400
+the eyes cannot see what
+the mind does not know.
+
+27
+00:01:10,500 --> 00:01:14,120
+This was actually a
+quote that was said to me
+
+28
+00:01:14,120 --> 00:01:17,750
+during my third year
+clinical rotations by a
+
+29
+00:01:17,750 --> 00:01:20,320
+pulmonologist. And I think
+this quote in particular
+
+30
+00:01:20,320 --> 00:01:25,320
+really correlates to the
+ability to read an EKG.
+
+31
+00:01:25,640 --> 00:01:29,240
+Reading an EKG is a
+developed skill, and the
+
+32
+00:01:29,240 --> 00:01:32,000
+eyes won't be able to
+interpret or really
+
+33
+00:01:32,000 --> 00:01:35,540
+recognize anomalies in an
+EKG until we learn about
+
+34
+00:01:35,540 --> 00:01:39,700
+what is a normal EKG
+and what are these
+
+35
+00:01:39,700 --> 00:01:43,600
+anomalies that we should
+look after or look for.
+
+36
+00:01:45,880 --> 00:01:48,660
+So I included Wigger's
+diagram here. You'll
+
+37
+00:01:48,660 --> 00:01:50,920
+be exposed to this in
+another lecture, so I
+
+38
+00:01:50,920 --> 00:01:53,060
+don't want to overwhelm
+you all with this,
+
+39
+00:01:53,060 --> 00:01:54,760
+especially with all
+the details of the
+
+40
+00:01:54,760 --> 00:01:56,480
+pressure differences
+within the diagram.
+
+41
+00:01:56,520 --> 00:01:58,500
+What I want you to
+take away from this
+
+42
+00:01:58,500 --> 00:02:01,200
+slide is connecting the
+ECG complex components
+
+43
+00:02:01,200 --> 00:02:03,560
+with the correlating
+mechanical events.
+
+44
+00:02:03,810 --> 00:02:05,680
+Exposing you to different
+varieties of the same
+
+45
+00:02:05,680 --> 00:02:08,760
+material can help create
+mental models that
+
+46
+00:02:08,760 --> 00:02:11,780
+encompasses all the details
+of the cardiac cycle.
+
+47
+00:02:11,990 --> 00:02:14,060
+If you can explain
+what's going on at each
+
+48
+00:02:14,060 --> 00:02:15,660
+point along this
+graph, you have a
+
+49
+00:02:15,660 --> 00:02:17,640
+strong understanding
+of cardiac physiology.
+
+50
+00:02:18,000 --> 00:02:20,100
+To be honest, the
+point of including
+
+51
+00:02:20,100 --> 00:02:24,560
+Wigger's diagram here
+is to connect us back
+
+52
+00:02:24,560 --> 00:02:26,640
+to the first lecture
+on ECG complexes,
+
+53
+00:02:26,800 --> 00:02:28,740
+kind of hammering
+home the mechanical
+
+54
+00:02:28,740 --> 00:02:30,160
+underworkings of the heart.
+
+55
+00:02:30,200 --> 00:02:33,380
+So on the top, you can
+see an EKG complex.
+
+56
+00:02:33,660 --> 00:02:37,660
+You see the P-wave, QRS
+complex, and T-wave.
+
+57
+00:02:37,660 --> 00:02:39,760
+In the first lecture,
+we discussed what
+
+58
+00:02:39,760 --> 00:02:41,660
+each of these
+inflections represent.
+
+59
+00:02:44,220 --> 00:02:46,920
+So understanding the
+coronary blood flow is
+
+60
+00:02:46,920 --> 00:02:49,400
+pretty important when it
+comes to identifying a
+
+61
+00:02:49,400 --> 00:02:52,600
+heart attack or myocardial
+infarction, an MI.
+
+62
+00:02:52,900 --> 00:02:55,900
+So starting from the aorta,
+the vessels that branch
+
+63
+00:02:55,900 --> 00:02:58,180
+off of it are the two
+main arteries that supply
+
+64
+00:02:58,180 --> 00:03:00,600
+the heart with blood,
+the right coronary artery
+
+65
+00:03:00,600 --> 00:03:03,740
+and the left main
+coronary artery. Since the
+
+66
+00:03:03,740 --> 00:03:07,000
+heart is a muscle and
+constantly pumping blood,
+
+67
+00:03:07,000 --> 00:03:10,200
+it's extremely dependent
+on oxygen, and the only
+
+68
+00:03:10,200 --> 00:03:13,080
+organ to be supplied with
+oxygen during diastole.
+
+69
+00:03:13,480 --> 00:03:16,100
+The right coronary
+artery in a right
+
+70
+00:03:16,100 --> 00:03:18,320
+dominant heart, which
+is also most common,
+
+71
+00:03:18,520 --> 00:03:21,020
+then becomes the posterior
+descending artery,
+
+72
+00:03:21,020 --> 00:03:24,360
+the PDA. In a left
+dominant heart, the PDA
+
+73
+00:03:24,360 --> 00:03:26,540
+may come off of the
+left circumflex artery.
+
+74
+00:03:26,760 --> 00:03:29,440
+For the most part on
+exams, you will assume that
+
+75
+00:03:29,440 --> 00:03:32,320
+the heart is right
+dominant, as it usually is.
+
+76
+00:03:32,800 --> 00:03:36,420
+Right coronary artery,
+RCA supplies the SA and AV
+
+77
+00:03:36,420 --> 00:03:40,420
+nodes, which can be very
+important if occluded, in what
+
+78
+00:03:40,420 --> 00:03:43,060
+is known as the inferior
+view of the heart through
+
+79
+00:03:43,060 --> 00:03:46,200
+the PDA. You can think that
+this is inferior because
+
+80
+00:03:46,200 --> 00:03:49,220
+the heart is retroverted,
+tilted back, and rotated
+
+81
+00:03:49,220 --> 00:03:51,520
+to the left, like we mentioned
+in the prior lecture.
+
+82
+00:03:51,540 --> 00:03:53,780
+And again, this means
+that the inferior
+
+83
+00:03:53,780 --> 00:03:55,300
+portion of the
+heart, the back of
+
+84
+00:03:55,300 --> 00:03:57,720
+the heart, is
+supplied by the PDA.
+
+85
+00:03:58,180 --> 00:04:00,500
+Now, the left main
+coronary artery
+
+86
+00:04:00,500 --> 00:04:03,400
+branches into the
+left circumflex artery
+
+87
+00:04:03,400 --> 00:04:06,100
+and the left anterior
+descending artery.
+
+88
+00:04:06,380 --> 00:04:09,640
+The left circumflex wraps
+around the left side
+
+89
+00:04:09,640 --> 00:04:11,820
+of the heart providing
+what is known as the
+
+90
+00:04:11,820 --> 00:04:14,460
+lateral view because
+this is the left lateral
+
+91
+00:04:14,460 --> 00:04:16,780
+portion of the left
+atrium and ventricle.
+
+92
+00:04:16,980 --> 00:04:20,120
+Last to discuss is the
+left anterior descending
+
+93
+00:04:20,120 --> 00:04:22,680
+artery which runs down the
+anterior portion of the
+
+94
+00:04:22,680 --> 00:04:25,100
+heart. A way to remember
+this is to remind yourself
+
+95
+00:04:25,100 --> 00:04:27,780
+that this is the artery
+that's also called the
+
+96
+00:04:27,780 --> 00:04:31,500
+anterior interventricular
+artery located anteriorly
+
+97
+00:04:31,500 --> 00:04:34,140
+between the ventricles, the
+right and left ventricle.
+
+98
+00:04:34,140 --> 00:04:37,240
+For this reason, it
+contains two major views
+
+99
+00:04:37,240 --> 00:04:40,840
+commonly joined together
+clinically, the anterior view
+
+100
+00:04:40,840 --> 00:04:45,220
+due to the anatomical
+location and the septal view
+
+101
+00:04:45,220 --> 00:04:48,740
+because it supplies the
+interventricular septum.
+
+102
+00:04:50,160 --> 00:04:55,000
+So NMI is most commonly
+caused by plaque buildup
+
+103
+00:04:55,000 --> 00:04:58,880
+that ruptures. So
+atherosclerotic, usually an origin
+
+104
+00:04:58,880 --> 00:05:02,900
+that leads to thrombus
+formation. The reason
+
+105
+00:05:03,230 --> 00:05:07,540
+anatomically is important
+because the treatment for an
+
+106
+00:05:07,540 --> 00:05:11,640
+MI goes along with the
+region that is being
+
+107
+00:05:11,640 --> 00:05:16,900
+obstructed and usually involves
+going into the heart with
+
+108
+00:05:16,900 --> 00:05:19,460
+a long tiny tube called
+a catheter to open up the
+
+109
+00:05:19,460 --> 00:05:22,280
+blockage. An extremely
+helpful way to approach
+
+110
+00:05:22,280 --> 00:05:25,580
+medicine in general is
+to break down challenging
+
+111
+00:05:25,580 --> 00:05:30,100
+scientific words, especially
+in pathology, trust me.
+
+112
+00:05:31,020 --> 00:05:33,720
+angiography so if we
+break that word down angio
+
+113
+00:05:33,720 --> 00:05:36,920
+refers to vessel and
+agography refers to some sort
+
+114
+00:05:36,920 --> 00:05:40,580
+of writing or in this
+case a graphic picture so
+
+115
+00:05:40,580 --> 00:05:43,020
+in this case angiography
+is our way of viewing
+
+116
+00:05:43,020 --> 00:05:47,160
+the sizes of the coronary
+vessels and during the
+
+117
+00:05:47,160 --> 00:05:50,000
+procedure the physician
+will shoot dye into the
+
+118
+00:05:50,000 --> 00:05:53,380
+coronary arteries x-ray
+allows us to visualize and
+
+119
+00:05:53,380 --> 00:05:55,600
+then allows us to view
+the dyes in the vessels
+
+120
+00:05:55,760 --> 00:05:58,460
+Once we confirm that the
+patient has a critical
+
+121
+00:05:58,460 --> 00:06:01,360
+percentage block in a
+coronary artery, we can
+
+122
+00:06:01,360 --> 00:06:04,480
+then form a plan to
+restore blood flow and
+
+123
+00:06:04,480 --> 00:06:08,980
+leave the obstruction to
+that area of the heart.
+
+124
+00:06:14,680 --> 00:06:18,560
+So in the past two
+slides, we reviewed the
+
+125
+00:06:18,560 --> 00:06:20,630
+anatomy of the coronary
+vessels and connected
+
+126
+00:06:20,630 --> 00:06:22,840
+these to different
+viewpoints of the heart.
+
+127
+00:06:23,010 --> 00:06:25,120
+So why do we care
+about the anatomy?
+
+128
+00:06:25,140 --> 00:06:27,420
+Because the ECG
+provides an electrical
+
+129
+00:06:27,420 --> 00:06:30,220
+representation of what's
+going on anatomically.
+
+130
+00:06:30,380 --> 00:06:34,400
+So on a 12-lead ECG, there
+are corresponding leads
+
+131
+00:06:34,400 --> 00:06:37,540
+that show us the same views
+that the arteries show us.
+
+132
+00:06:37,950 --> 00:06:41,020
+The trick as a medical
+student is to associate
+
+133
+00:06:41,020 --> 00:06:44,960
+the correlating leads
+to view the arteries.
+
+134
+00:06:45,060 --> 00:06:48,620
+Over time, you'll think
+of the mostly clinical
+
+135
+00:06:48,620 --> 00:06:51,360
+relevant information.
+You'll see an ECG and
+
+136
+00:06:51,360 --> 00:06:53,660
+quickly identify where the
+SC segments are elevated
+
+137
+00:06:53,660 --> 00:06:57,080
+and identify which
+artery is being occluded.
+
+138
+00:06:57,600 --> 00:07:01,380
+So when we look at these
+corresponding leads, we
+
+139
+00:07:01,380 --> 00:07:03,200
+can start first with the
+right coronary artery.
+
+140
+00:07:03,200 --> 00:07:06,560
+So the right coronary
+artery is correlated with
+
+141
+00:07:06,560 --> 00:07:09,120
+what is known as the
+inferior view of the heart.
+
+142
+00:07:09,120 --> 00:07:11,460
+On the EKG, this corresponds
+
+143
+00:07:11,460 --> 00:07:14,840
+to the leads 2, 3, and AVF.
+
+144
+00:07:15,140 --> 00:07:18,380
+The left anterior
+descending artery shows the
+
+145
+00:07:18,380 --> 00:07:21,140
+septal and anterior views
+as we mentioned before.
+
+146
+00:07:21,170 --> 00:07:23,600
+So in an EKG, this can be
+
+147
+00:07:23,600 --> 00:07:26,540
+seen using V1, V2, V3, and V4.
+
+148
+00:07:27,140 --> 00:07:30,180
+the left circumflex
+artery shows the
+
+149
+00:07:30,180 --> 00:07:33,180
+lateral view. So on
+the EKG, we can deduce
+
+150
+00:07:33,180 --> 00:07:37,280
+this using the V5,
+V6, and AVL leads.
+
+151
+00:07:38,120 --> 00:07:40,280
+These leads in this
+slide in general is
+
+152
+00:07:40,280 --> 00:07:43,140
+super high yield, not
+only for boards, but
+
+153
+00:07:43,140 --> 00:07:45,460
+also clinical rotations
+and in medicine.
+
+154
+00:07:50,890 --> 00:07:53,150
+So here you can see the
+schematic of the coronary
+
+155
+00:07:53,150 --> 00:07:57,370
+artery groups on a 12-lead
+EKG. So we have 2, 3, and AVF
+
+156
+00:07:57,370 --> 00:08:00,510
+for the right coronary
+artery, v1 to v4 for the left
+
+157
+00:08:00,510 --> 00:08:04,450
+anterior descending artery
+and v5 v6 avl for the left
+
+158
+00:08:04,450 --> 00:08:07,290
+circumflex artery again
+this is clinically important
+
+159
+00:08:07,290 --> 00:08:10,270
+for stemis because the
+diagnosis that means you need
+
+160
+00:08:10,270 --> 00:08:14,050
+to see sc elevations in
+two or more anatomically
+
+161
+00:08:14,490 --> 00:08:20,730
+contiguous leads so anatomically
+contiguous means that the
+
+162
+00:08:20,730 --> 00:08:24,370
+leads fall within the same
+cornea artery so v1 and
+
+163
+00:08:24,370 --> 00:08:27,470
+v2 are considered anatomically
+contiguous because they
+
+164
+00:08:27,470 --> 00:08:29,890
+both belong to the left
+anterior descending artery.
+
+165
+00:08:30,110 --> 00:08:33,350
+These 1 and 2 are not
+anatomically contiguous
+
+166
+00:08:33,350 --> 00:08:35,700
+because 1 falls under
+the left circumflex
+
+167
+00:08:35,700 --> 00:08:38,040
+while 2 falls under
+the right coronary.
+
+168
+00:08:41,170 --> 00:08:43,530
+So a mnemonic to remember the
+
+169
+00:08:43,530 --> 00:08:46,430
+cardiac views
+within EKG is Sally.
+
+170
+00:08:46,520 --> 00:08:48,750
+For this reason, I
+included a picture of
+
+171
+00:08:48,750 --> 00:08:51,010
+Sally Fields from
+Forrest Gump. It's a
+
+172
+00:08:51,010 --> 00:08:53,270
+pretty good movie, so if
+you have a movie night
+
+173
+00:08:53,270 --> 00:08:55,050
+in between your
+studying and lectures,
+
+174
+00:08:55,250 --> 00:08:56,670
+I highly recommend.
+
+175
+00:08:56,810 --> 00:09:00,370
+So just going through
+it. So the S is going
+
+176
+00:09:00,370 --> 00:09:02,030
+to stand for a septal
+view corresponding
+
+177
+00:09:02,030 --> 00:09:04,910
+with leads V1 and
+V2. A for an anterior
+
+178
+00:09:04,910 --> 00:09:08,270
+view corresponding
+with leads V3 and V4.
+
+179
+00:09:08,330 --> 00:09:12,010
+You can remember this
+because they're on the
+
+180
+00:09:12,010 --> 00:09:14,710
+anterior wall of the
+picordium after V1 and V2.
+
+181
+00:09:14,710 --> 00:09:17,690
+And L stands for the lateral
+view and the corresponding
+
+182
+00:09:17,690 --> 00:09:21,690
+leads are V5, V6, 1, and
+AVL. If you remember the
+
+183
+00:09:21,690 --> 00:09:25,330
+vectors for 1 and AVL, they
+point towards the lateral
+
+184
+00:09:25,330 --> 00:09:28,890
+wall of the heart, supplying
+by the left circumflex.
+
+185
+00:09:29,110 --> 00:09:30,070
+Lastly,
+
+186
+00:09:30,190 --> 00:09:32,210
+I stands for inferior
+view, and the
+
+187
+00:09:32,210 --> 00:09:34,710
+corresponding leads
+are 2, 3, and AVF.
+
+188
+00:09:38,250 --> 00:09:41,490
+So if you're a visual
+learner, I included a link
+
+189
+00:09:41,490 --> 00:09:44,070
+to a great 3D model of
+where the leads correspond
+
+190
+00:09:44,070 --> 00:09:46,030
+to on the heart. I would
+definitely recommend
+
+191
+00:09:46,030 --> 00:09:48,610
+spending some time
+looking over this, and it
+
+192
+00:09:48,610 --> 00:09:52,890
+kind of gives you a visual,
+more in-depth representation
+
+193
+00:09:52,890 --> 00:09:55,270
+of what we've been
+talking about in relation
+
+194
+00:09:55,270 --> 00:09:58,890
+to different views and
+fields of the heart.
+
+195
+00:10:01,260 --> 00:10:04,150
+So now, try to think to
+yourself, what usually
+
+196
+00:10:04,150 --> 00:10:06,730
+happens mechanically
+during the ST segment?
+
+197
+00:10:08,290 --> 00:10:09,330
+Correct.
+
+198
+00:10:09,770 --> 00:10:12,110
+Mechanical contraction
+of the ventricles.
+
+199
+00:10:12,460 --> 00:10:16,210
+So in an MI, the heart
+muscle is usually
+
+200
+00:10:16,210 --> 00:10:19,030
+ischemic, so
+abnormalities are going
+
+201
+00:10:19,030 --> 00:10:21,830
+to be present within
+the SC segment.
+
+202
+00:10:22,090 --> 00:10:25,920
+Usually, the SC segment
+is isoelectric, which
+
+203
+00:10:25,920 --> 00:10:29,450
+basically means that it's
+a flat line between the end
+
+204
+00:10:29,450 --> 00:10:33,470
+of the P wave and the
+onset of the QRS complex.
+
+205
+00:10:33,470 --> 00:10:37,070
+The TP segment, defined
+as the flat line between
+
+206
+00:10:37,070 --> 00:10:39,910
+the end of the T wave and
+the start of the P wave is
+
+207
+00:10:40,120 --> 00:10:44,690
+a good reference point
+to use. It can be seen as
+
+208
+00:10:44,690 --> 00:10:48,650
+the gold standard or true
+isoelectric line. And it's
+
+209
+00:10:48,650 --> 00:10:52,310
+a great way for us to assess
+and look at when we're
+
+210
+00:10:52,310 --> 00:10:55,150
+deciding if there's any
+SC elevation, because
+
+211
+00:10:55,150 --> 00:10:58,470
+there's not any electrical
+activity happening during
+
+212
+00:10:58,470 --> 00:11:02,390
+the TP segment. During the
+TP segment, the heart is
+
+213
+00:11:02,390 --> 00:11:06,090
+at electrical rest while
+in diastole and is awaiting
+
+214
+00:11:06,090 --> 00:11:08,610
+the next electrical
+signal to be sent from the
+
+215
+00:11:08,610 --> 00:11:13,210
+SA node to the atria to
+contract. So the segment
+
+216
+00:11:13,210 --> 00:11:17,150
+will never fool you and
+is the best part to use. I
+
+217
+00:11:17,150 --> 00:11:19,710
+particularly wanted to
+highlight this point because
+
+218
+00:11:20,140 --> 00:11:22,350
+it can be confusing sometimes
+when we're trying to
+
+219
+00:11:22,350 --> 00:11:25,630
+see if there's SC elevation
+or not. So the TP segment
+
+220
+00:11:25,630 --> 00:11:30,070
+is usually a solid segment
+we can use to deduce that.
+
+221
+00:11:30,550 --> 00:11:33,370
+And again, this isn't
+a pathology lecture on
+
+222
+00:11:33,370 --> 00:11:36,730
+STEMIs, but something to
+consider is the difference
+
+223
+00:11:36,730 --> 00:11:39,990
+between ST depression
+and ST elevation. So this
+
+224
+00:11:39,990 --> 00:11:42,610
+is particularly important
+because ST depression
+
+225
+00:11:42,610 --> 00:11:46,510
+denotes ischemia. While
+they both denote ischemia,
+
+226
+00:11:46,670 --> 00:11:49,470
+ST depression
+denotes ischemia only
+
+227
+00:11:49,470 --> 00:11:52,590
+affecting the
+subendocardium of the heart.
+
+228
+00:11:53,020 --> 00:11:56,790
+ST elevation is more of an
+emergency because it denotes
+
+229
+00:11:56,790 --> 00:11:59,810
+a transmural ischemia,
+meaning that it's affecting
+
+230
+00:11:59,810 --> 00:12:04,470
+all layers of the heart the
+myocardium epicardium and
+
+231
+00:12:04,470 --> 00:12:09,110
+the endocardium and just
+on the side here i included
+
+232
+00:12:09,110 --> 00:12:12,970
+this mnemonic pales that
+i like it's a great way to
+
+233
+00:12:12,970 --> 00:12:15,950
+commit to memory and what leads
+you can see some reciprocal
+
+234
+00:12:15,950 --> 00:12:19,390
+changes on the ecg when you
+have a stemmy by reciprocal
+
+235
+00:12:19,390 --> 00:12:22,390
+changes we mean if there's
+st elevation in one
+
+236
+00:12:22,390 --> 00:12:26,650
+set of leads there will
+be corresponding st set XC
+
+237
+00:12:26,650 --> 00:12:30,510
+segment, depression, and other.
+This can be super helpful,
+
+238
+00:12:30,510 --> 00:12:33,730
+a good reference point, and
+will be useful later on.
+
+239
+00:12:39,690 --> 00:12:44,130
+So looking at this
+EKG, if we were
+
+240
+00:12:44,130 --> 00:12:46,130
+to orient ourselves
+to what this is,
+
+241
+00:12:46,410 --> 00:12:49,030
+ask yourself the
+question, is this a series
+
+242
+00:12:49,030 --> 00:12:51,750
+of rhythm strips or
+is it a 12-lead EKG?
+
+243
+00:12:53,490 --> 00:12:56,870
+As you correctly stated,
+it is a 12-lead EKG.
+
+244
+00:12:57,050 --> 00:13:00,030
+So now I'm going to
+be nice to you and
+
+245
+00:13:00,030 --> 00:13:01,560
+tell you that this
+patient is experiencing
+
+246
+00:13:01,560 --> 00:13:05,150
+an MI. So the question
+is, which leads,
+
+247
+00:13:05,410 --> 00:13:08,190
+views, and arteries are
+being affected here?
+
+248
+00:13:08,710 --> 00:13:12,590
+In terms of contiguous
+leads, as we discussed prior,
+
+249
+00:13:12,610 --> 00:13:17,330
+we can see SC segment
+elevation and leads V2 to V4.
+
+250
+00:13:18,450 --> 00:13:20,510
+This covers the
+septal view of the
+
+251
+00:13:20,510 --> 00:13:22,410
+heart, which means
+that the left anterior
+
+252
+00:13:22,410 --> 00:13:24,670
+descending artery
+is likely occluded.
+
+253
+00:13:25,860 --> 00:13:28,010
+And just for reference,
+the left anterior
+
+254
+00:13:28,010 --> 00:13:29,850
+descending artery
+is most commonly
+
+255
+00:13:29,850 --> 00:13:32,530
+included and can be
+particularly fatal.
+
+256
+00:13:36,730 --> 00:13:41,070
+So again, now with
+this EKG, if we were to
+
+257
+00:13:41,070 --> 00:13:43,670
+orient ourselves, we
+should ask ourselves,
+
+258
+00:13:43,670 --> 00:13:46,710
+is this a series of
+rhythm shifts or is
+
+259
+00:13:46,710 --> 00:13:50,130
+this a 12-lead EKG? So
+again, as previously,
+
+260
+00:13:50,250 --> 00:13:51,950
+this is a 12 lead EKG.
+
+261
+00:13:52,860 --> 00:13:57,130
+So when we look at this
+EKG, what do we see?
+
+262
+00:13:57,550 --> 00:14:01,190
+We see some SC
+segment elevations
+
+263
+00:14:01,190 --> 00:14:02,990
+in which particular leads.
+
+264
+00:14:04,550 --> 00:14:06,170
+Starting from the left,
+
+265
+00:14:06,310 --> 00:14:08,170
+lead one, I don't really see
+
+266
+00:14:08,170 --> 00:14:10,190
+any SC segment elevation.
+
+267
+00:14:10,210 --> 00:14:12,010
+Although I do see it in lead
+
+268
+00:14:12,010 --> 00:14:14,810
+two, I do see some
+in lead three.
+
+269
+00:14:15,030 --> 00:14:17,490
+I also see some in V1.
+
+270
+00:14:17,930 --> 00:14:21,430
+I also see some in
+ABF, some in V2.
+
+271
+00:14:21,770 --> 00:14:27,130
+So the definition that we
+talked about before is that
+
+272
+00:14:27,130 --> 00:14:30,890
+in terms of anatomically
+contiguous leads, we can see
+
+273
+00:14:30,890 --> 00:14:36,110
+that there's SC segment
+elevations in 2, 3, and AVF.
+
+274
+00:14:36,150 --> 00:14:39,590
+This covers the inferior view
+of the heart, which means
+
+275
+00:14:39,590 --> 00:14:41,970
+that the right coronary
+artery is likely occluded.
+
+276
+00:14:42,530 --> 00:14:47,150
+We also do see some V1,
+V2 SC segment elevation
+
+277
+00:14:47,150 --> 00:14:49,170
+like we mentioned, which
+means that this can
+
+278
+00:14:49,170 --> 00:14:52,720
+actually be part of a
+septal inferior infarct.
+
+279
+00:14:52,910 --> 00:14:57,790
+So this is a good learning
+point to kind of stress
+
+280
+00:14:57,790 --> 00:15:01,590
+that not only one part of the
+heart needs to be affected
+
+281
+00:15:01,590 --> 00:15:04,490
+when there is an MI. It
+can be more global and
+
+282
+00:15:04,490 --> 00:15:08,790
+more serious than we are
+initially thought to think.
+
+283
+00:15:11,650 --> 00:15:14,710
+So objective one
+question. So I'll
+
+284
+00:15:14,710 --> 00:15:17,010
+give you guys about 10 seconds.
+
+285
+00:15:17,010 --> 00:15:20,650
+pause the video, and then
+we can review the question.
+
+286
+00:15:31,690 --> 00:15:32,370
+All right,
+
+287
+00:15:32,630 --> 00:15:35,330
+so which of the following
+
+288
+00:15:35,550 --> 00:15:37,930
+is not a correct correlation
+
+289
+00:15:37,930 --> 00:15:40,050
+of cardiac view with leads?
+
+290
+00:15:41,270 --> 00:15:43,830
+LAD, V1 to V4,
+
+291
+00:15:43,970 --> 00:15:49,170
+right coronary artery, 2,
+3 AVF, or left circumflex
+
+292
+00:15:49,170 --> 00:15:54,710
+artery, V5, V6, 1 AVL,
+or none of the above.
+
+293
+00:15:57,730 --> 00:16:00,730
+So the answer, as you
+correctly stated, would be
+
+294
+00:16:00,730 --> 00:16:03,990
+none of the above. So these
+are all correct correlations
+
+295
+00:16:03,990 --> 00:16:06,050
+of cardiac view with
+leads, right? We mentioned
+
+296
+00:16:06,050 --> 00:16:08,370
+left anterior descending
+artery is to the anterior
+
+297
+00:16:08,370 --> 00:16:13,310
+view of the heart involving
+B1, B2, and B3, B4.
+
+298
+00:16:13,470 --> 00:16:15,850
+LED can be grouped,
+like we said, into
+
+299
+00:16:15,850 --> 00:16:18,070
+anterior septal view
+comprising all of
+
+300
+00:16:18,070 --> 00:16:20,470
+those leads. Right
+circle flex artery,
+
+301
+00:16:21,650 --> 00:16:25,270
+right coronary artery,
+2,3 AVF, inferior
+
+302
+00:16:25,270 --> 00:16:28,850
+view and left
+circumflex V5V6, 1 AVL.
+
+303
+00:16:32,310 --> 00:16:35,970
+Next question again,
+take about 10 seconds.
+
+304
+00:16:35,970 --> 00:16:39,610
+We'll pause the video
+and we'll go over it.
+
+305
+00:16:51,000 --> 00:16:52,880
+So a patient presents
+with classical
+
+306
+00:16:52,880 --> 00:16:54,640
+signs and symptoms of an MI.
+
+307
+00:16:54,800 --> 00:16:58,020
+On an EKG, you find
+SC segment elevation
+
+308
+00:16:58,020 --> 00:17:01,580
+in leads 1 and 2,
+what do you diagnose?
+
+309
+00:17:01,940 --> 00:17:04,780
+Anterior STEMI, inferior STEMI,
+
+310
+00:17:04,820 --> 00:17:08,740
+septal STEMI, or need more
+information to diagnose?
+
+311
+00:17:11,180 --> 00:17:13,960
+So as you correctly
+stated, we would
+
+312
+00:17:13,960 --> 00:17:16,160
+need more information
+to diagnose.
+
+313
+00:17:16,710 --> 00:17:19,840
+Now the reason why this
+is, as we spoke before,
+
+314
+00:17:19,900 --> 00:17:24,460
+to diagnose an MI in a
+specific region of the heart,
+
+315
+00:17:24,460 --> 00:17:28,320
+we would need SC segment
+changes, or in this
+
+316
+00:17:28,320 --> 00:17:32,420
+case elevations, and two
+or more contiguous leads.
+
+317
+00:17:33,450 --> 00:17:36,420
+So now we'll be jumping
+into the methodology
+
+318
+00:17:36,420 --> 00:17:39,640
+of reading in EKG using
+a variation of Dr.
+
+319
+00:17:39,640 --> 00:17:43,680
+Cohen's EKG method that
+he teaches during lunch
+
+320
+00:17:43,680 --> 00:17:47,620
+and learn sessions on
+Mondays. So first, we
+
+321
+00:17:47,620 --> 00:17:50,220
+will orient ourselves
+to what we're reading.
+
+322
+00:17:50,460 --> 00:17:53,780
+If we know we're
+reading a rhythm strip
+
+323
+00:17:54,040 --> 00:17:56,760
+instead of a 12-lead EKG,
+we're limited in what
+
+324
+00:17:56,760 --> 00:17:58,400
+we can take from the
+cardiac monitoring.
+
+325
+00:17:58,620 --> 00:18:01,700
+After that, we can
+calculate the rate,
+
+326
+00:18:01,740 --> 00:18:04,580
+rhythm, and axis. You should
+have a good understanding
+
+327
+00:18:04,580 --> 00:18:07,620
+of axis from last lecture
+down and to the left.
+
+328
+00:18:08,020 --> 00:18:11,420
+Lastly, we look at intervals
+and others because it's
+
+329
+00:18:11,420 --> 00:18:14,700
+easier than saying sc
+segment t-wave and other
+
+330
+00:18:14,700 --> 00:18:18,180
+abnormalities now a good
+mnemonic to remember this method
+
+331
+00:18:18,180 --> 00:18:23,680
+of orient rate rhythm axis
+and intervals and others
+
+332
+00:18:23,680 --> 00:18:27,800
+is officer ryan reynolds
+always impresses others
+
+333
+00:18:28,340 --> 00:18:31,760
+after winning sexiest
+man alive in 2010 ryan
+
+334
+00:18:31,760 --> 00:18:34,480
+reynolds played a very
+handsome police officer in
+
+335
+00:18:34,480 --> 00:18:37,740
+irpd in 2013 if this
+picture doesn't help you
+
+336
+00:18:37,740 --> 00:18:40,600
+remember how to read an
+akg i'm not sure what will
+
+337
+00:18:40,860 --> 00:18:43,500
+So the more you practice
+this, the better you will
+
+338
+00:18:43,500 --> 00:18:46,200
+get an EKG reading. And the
+more Ryan Reynolds movies
+
+339
+00:18:46,200 --> 00:18:48,680
+you watch, the more you'll
+remember the picture.
+
+340
+00:18:48,680 --> 00:18:51,120
+So hopefully, you can
+remember the position
+
+341
+00:18:51,120 --> 00:18:53,040
+you're in now once
+you get to your
+
+342
+00:18:53,040 --> 00:18:55,400
+rotations and practice,
+practice, practice.
+
+343
+00:18:57,020 --> 00:19:00,040
+Now, while on your
+rotations, you'll see
+
+344
+00:19:00,040 --> 00:19:02,140
+that most ECG machines
+have a software that
+
+345
+00:19:02,140 --> 00:19:04,520
+reads the ECG and
+can provide findings
+
+346
+00:19:04,520 --> 00:19:06,800
+at the top of the
+rhythm strip or 12-lead.
+
+347
+00:19:06,930 --> 00:19:08,900
+So it's a good
+practice to cover this
+
+348
+00:19:08,900 --> 00:19:12,020
+up so that you can
+practice your skills.
+
+349
+00:19:13,500 --> 00:19:16,460
+So now, let's begin
+with step one,
+
+350
+00:19:16,800 --> 00:19:17,480
+orient,
+
+351
+00:19:17,960 --> 00:19:20,600
+aka officer in our mnemonic.
+
+352
+00:19:20,660 --> 00:19:23,200
+So orient, or
+orientation, refers
+
+353
+00:19:23,200 --> 00:19:25,160
+to what do we have
+in front of us?
+
+354
+00:19:25,500 --> 00:19:27,180
+Are we looking at a 12 lead, a
+
+355
+00:19:27,180 --> 00:19:29,100
+rhythm strip, or a
+few rhythm strips?
+
+356
+00:19:29,140 --> 00:19:31,440
+We reviewed how to
+identify a 12 lead
+
+357
+00:19:31,440 --> 00:19:33,480
+versus a rhythm strip
+in our last lecture.
+
+358
+00:19:34,440 --> 00:19:37,620
+Second part of
+orientation is to look and
+
+359
+00:19:37,620 --> 00:19:40,360
+make sure that our monitoring
+system is calibrated
+
+360
+00:19:40,360 --> 00:19:42,500
+correctly. It's not
+something that you'll
+
+361
+00:19:42,500 --> 00:19:45,460
+necessarily need to
+know for boards or BS
+
+362
+00:19:46,000 --> 00:19:49,080
+during upcoming exams,
+but I figured it'd be good
+
+363
+00:19:49,080 --> 00:19:51,980
+for you to be exposed to
+it. So when you look at
+
+364
+00:19:51,980 --> 00:19:54,380
+the beginning or the end
+of a 12 lead, you'll notice
+
+365
+00:19:54,380 --> 00:19:58,600
+a calibration box of two
+big boxes or 10 little
+
+366
+00:19:58,600 --> 00:20:02,480
+boxes high and one big
+box or five little boxes
+
+367
+00:20:02,480 --> 00:20:07,380
+across. This shows the normal
+calibration of the ECG.
+
+368
+00:20:09,520 --> 00:20:12,920
+We just mentioned on the
+previous slide how the
+
+369
+00:20:12,920 --> 00:20:16,520
+ECG paper is organized
+into little and big boxes.
+
+370
+00:20:16,680 --> 00:20:19,780
+Once normally calibrated,
+we know that these boxes
+
+371
+00:20:19,780 --> 00:20:22,780
+correspond to specific times
+that can help us identify
+
+372
+00:20:22,780 --> 00:20:26,320
+both the rate and any
+prolongations and intervals.
+
+373
+00:20:26,540 --> 00:20:30,360
+Each small box where
+represents 0.4 seconds.
+
+374
+00:20:30,360 --> 00:20:34,680
+You can see one small
+box here, and if you
+
+375
+00:20:34,680 --> 00:20:37,480
+were to multiply the
+number of small boxes in
+
+376
+00:20:37,480 --> 00:20:43,160
+a big box, which are
+these five little boxes,
+
+377
+00:20:45,170 --> 00:20:48,300
+your incredibly smart
+minds will calculate
+
+378
+00:20:48,300 --> 00:20:51,620
+that one large box
+yields 0.2 seconds.
+
+379
+00:20:53,040 --> 00:20:57,060
+This becomes important
+when measuring, like we
+
+380
+00:20:57,060 --> 00:21:01,060
+mentioned, any interval,
+prolongations, and ECG
+
+381
+00:21:01,060 --> 00:21:04,120
+parameters. And also
+as a tip, the speed of
+
+382
+00:21:04,120 --> 00:21:07,300
+the ECG is around 25
+millimeters per second with
+
+383
+00:21:07,300 --> 00:21:10,420
+a calibration of 10
+millimeters per millivolt.
+
+384
+00:21:11,080 --> 00:21:15,240
+So now step two, rate,
+or from our harmonic,
+
+385
+00:21:15,240 --> 00:21:19,200
+Ryan. So calculating rate
+is an important part of
+
+386
+00:21:19,200 --> 00:21:22,980
+describing a patient's
+condition. The rate is
+
+387
+00:21:22,980 --> 00:21:25,720
+the amount of beats per
+minute, beats per minute.
+
+388
+00:21:25,720 --> 00:21:28,360
+So by rate, we're
+referring to heart rate.
+
+389
+00:21:28,800 --> 00:21:32,320
+So tachycardia is a
+heart rate that's greater
+
+390
+00:21:32,320 --> 00:21:35,480
+than 100 beats per minute,
+while bradycardia is
+
+391
+00:21:35,480 --> 00:21:38,320
+one defined as less than
+60 beats per minute.
+
+392
+00:21:38,540 --> 00:21:42,920
+So rate, besides for showing
+up on a monitor associated
+
+393
+00:21:42,920 --> 00:21:45,820
+with the pulse ox, can be
+calculated in different
+
+394
+00:21:45,820 --> 00:21:48,580
+ways, depending on your
+method of looking at an ECG.
+
+395
+00:21:48,600 --> 00:21:50,940
+I'll introduce you to
+three methods. We should
+
+396
+00:21:50,940 --> 00:21:52,760
+stick to the one that
+works best for you,
+
+397
+00:21:52,760 --> 00:21:54,690
+or the one for the
+right clinical scenario.
+
+398
+00:21:55,040 --> 00:21:57,700
+So, the first
+method banks on the
+
+399
+00:21:57,700 --> 00:21:59,220
+idea that you remember
+that a standard
+
+400
+00:21:59,220 --> 00:22:01,820
+printed rhythm
+strip is 10 seconds.
+
+401
+00:22:02,180 --> 00:22:05,260
+If you count the number of
+QRS complexes across the
+
+402
+00:22:05,260 --> 00:22:07,320
+rhythm strip, you should
+get the number of beats per
+
+403
+00:22:07,320 --> 00:22:10,980
+second. If you multiply this
+by 6, you get the total number
+
+404
+00:22:10,980 --> 00:22:14,420
+of beats in 60 seconds, in
+other words, how many beats
+
+405
+00:22:14,420 --> 00:22:17,280
+per minute. This method
+is best when you have an
+
+406
+00:22:17,280 --> 00:22:21,580
+abnormal rhythm, such as
+atrial fibrillation or flutter.
+
+407
+00:22:23,720 --> 00:22:27,160
+The second method utilizes
+the distance between each
+
+408
+00:22:27,160 --> 00:22:31,540
+QRS complex, specifically
+the R wave or the R
+
+409
+00:22:31,540 --> 00:22:34,760
+upstroke. This is my preferred
+method of finding the
+
+410
+00:22:34,760 --> 00:22:38,180
+rate, so you'll start at a
+QRS that lies directly on
+
+411
+00:22:38,180 --> 00:22:41,120
+top of a thick vertical
+line, and then if you were to
+
+412
+00:22:41,120 --> 00:22:44,140
+count the number of big
+boxes away to the next QRS
+
+413
+00:22:44,140 --> 00:22:47,460
+complex, the peak of the R
+wave, there's a predictable
+
+414
+00:22:47,460 --> 00:22:49,960
+beats per minute associated
+with each box you
+
+415
+00:22:49,960 --> 00:22:53,820
+jump over. If you jump over
+one big box and you find
+
+416
+00:22:53,820 --> 00:22:57,400
+a QRS, your rate is 300
+beats per minute. If you go
+
+417
+00:22:57,400 --> 00:23:00,760
+two big boxes over, your
+rate is 150 beats per minute.
+
+418
+00:23:00,760 --> 00:23:04,580
+This continues and follows
+a pattern 300, 150,
+
+419
+00:23:04,580 --> 00:23:09,960
+100, 75, 65, 50 beats per
+minute for each large box.
+
+420
+00:23:11,360 --> 00:23:15,020
+And as an example, if
+your QRS complex is
+
+421
+00:23:15,020 --> 00:23:17,400
+between 4 and 5 big
+boxes away from your
+
+422
+00:23:17,400 --> 00:23:19,840
+first QRS complex,
+how many beats per
+
+423
+00:23:19,840 --> 00:23:22,440
+minute is your rate?
+What would you think?
+
+424
+00:23:24,380 --> 00:23:27,100
+As you correctly stated,
+it would be somewhere
+
+425
+00:23:27,100 --> 00:23:31,220
+between 75 and 60 beats
+per minute, which is the
+
+426
+00:23:31,220 --> 00:23:33,880
+normal rate for the
+average person. This method
+
+427
+00:23:33,880 --> 00:23:37,260
+is particularly suitable
+for regular rhythms.
+
+428
+00:23:37,980 --> 00:23:40,500
+So method three also utilizes
+
+429
+00:23:40,500 --> 00:23:42,840
+distances between
+two QRS complexes.
+
+430
+00:23:43,070 --> 00:23:45,640
+Here you find the number
+of big boxes between
+
+431
+00:23:45,640 --> 00:23:49,520
+two QRS complexes and
+divide 300 by that number.
+
+432
+00:23:49,820 --> 00:23:53,640
+This was or is not really
+the preferred option I've
+
+433
+00:23:53,640 --> 00:23:56,300
+seen amongst medical
+students. It wasn't mine
+
+434
+00:23:56,300 --> 00:23:57,960
+in the beginning, but it's
+something that I've grown
+
+435
+00:23:57,960 --> 00:24:02,140
+accustomed to and a
+method that I like. So if
+
+436
+00:24:02,140 --> 00:24:05,580
+this is particularly one
+that you think would be a
+
+437
+00:24:05,580 --> 00:24:08,200
+good option for you it
+involves less memorization
+
+438
+00:24:08,860 --> 00:24:10,820
+try it out it may be beneficial
+
+439
+00:24:10,820 --> 00:24:12,660
+and maybe your preferred option
+
+440
+00:24:15,000 --> 00:24:18,240
+so just continuing along
+this is here's an example
+
+441
+00:24:18,240 --> 00:24:21,400
+finding rate something you
+can come back to on your
+
+442
+00:24:21,400 --> 00:24:25,200
+own time to see which method
+you like best now if a
+
+443
+00:24:25,200 --> 00:24:28,180
+patient has normal sinus
+rhythm then you can use any
+
+444
+00:24:28,180 --> 00:24:30,340
+of these methods that
+we've described because you
+
+445
+00:24:30,340 --> 00:24:33,660
+have the same distance between
+the QRS complexes. If a
+
+446
+00:24:33,660 --> 00:24:36,060
+patient doesn't have a
+normal sinus rhythm, like we
+
+447
+00:24:36,060 --> 00:24:37,980
+mentioned before in the
+case of itrofibrillation,
+
+448
+00:24:38,860 --> 00:24:42,420
+if you were to use method
+two, you'll receive different
+
+449
+00:24:42,420 --> 00:24:46,400
+rates based on which QRS
+you choose, as these are
+
+450
+00:24:46,400 --> 00:24:49,160
+not equally spaced. To
+say that again, to really
+
+451
+00:24:49,160 --> 00:24:52,220
+hammer it home, when the rhythm
+is irregular, it's better
+
+452
+00:24:52,220 --> 00:24:55,540
+to count how many complexes
+on the whole strip
+
+453
+00:24:55,540 --> 00:24:58,600
+and multiply by six. Because
+if you're counting between
+
+454
+00:24:58,600 --> 00:25:01,760
+only two QRS complexes,
+because you can get very
+
+455
+00:25:01,760 --> 00:25:04,320
+different numbers depending
+on which two you choose.
+
+456
+00:25:04,440 --> 00:25:07,220
+So many students have
+difficulty understanding
+
+457
+00:25:07,220 --> 00:25:09,240
+the difference between
+rate and rhythm.
+
+458
+00:25:09,350 --> 00:25:11,500
+Rate is simply the
+heart rate in beats per
+
+459
+00:25:11,500 --> 00:25:14,120
+minute, like we mentioned.
+So bradycardic, less
+
+460
+00:25:14,120 --> 00:25:16,000
+than 60 beats per minute,
+tachycardic, greater
+
+461
+00:25:16,000 --> 00:25:18,800
+than 100, or normal
+rate between 60 to 100.
+
+462
+00:25:19,240 --> 00:25:21,720
+You can have a normal
+rate with an abnormal
+
+463
+00:25:21,720 --> 00:25:24,440
+rhythm. You can also
+have an abnormal rate
+
+464
+00:25:24,440 --> 00:25:26,640
+with a normal rhythm.
+So I highly recommend
+
+465
+00:25:26,640 --> 00:25:29,020
+separating rate and
+rhythm every time you come
+
+466
+00:25:29,020 --> 00:25:31,980
+to a new EKG, so you
+don't confuse yourself.
+
+467
+00:25:33,060 --> 00:25:35,160
+So step number three,
+
+468
+00:25:35,300 --> 00:25:37,260
+rhythm, or in our mnemonic,
+
+469
+00:25:37,480 --> 00:25:38,200
+Reynolds.
+
+470
+00:25:38,440 --> 00:25:41,220
+So normal sinus
+rhythm is defined as
+
+471
+00:25:41,220 --> 00:25:44,360
+a P wave preceding
+all QRS complexes.
+
+472
+00:25:44,360 --> 00:25:47,140
+You can see this in the
+top left-hand corner,
+
+473
+00:25:47,290 --> 00:25:52,520
+where we have all of our
+P waves. So, P wave here,
+
+474
+00:25:52,580 --> 00:25:58,140
+P wave here, P wave here,
+P wave here, and etc.
+
+475
+00:25:58,380 --> 00:26:00,320
+So, on clinical rotations,
+
+476
+00:26:00,520 --> 00:26:02,800
+many physicians,
+especially in the ER, will
+
+477
+00:26:02,800 --> 00:26:06,240
+try to identify atrial
+fibrillation, as
+
+478
+00:26:06,240 --> 00:26:08,800
+this is the most common
+cause of strokes.
+
+479
+00:26:08,800 --> 00:26:11,780
+So, atrial fibrillation is
+seen in the top right-hand
+
+480
+00:26:11,780 --> 00:26:15,520
+corner, in which there is
+no true P waves. So if we
+
+481
+00:26:15,520 --> 00:26:21,700
+were to compare this rhythm
+strip to our previous one
+
+482
+00:26:21,700 --> 00:26:24,740
+here, here we see well-defined
+P-waves as we mentioned
+
+483
+00:26:24,740 --> 00:26:28,800
+before, but there are not
+really any good P-waves
+
+484
+00:26:28,800 --> 00:26:32,140
+here. What we see here are
+known as virulatory waves,
+
+485
+00:26:32,300 --> 00:26:36,680
+aka not true P
+-waves. And as we can
+
+486
+00:26:36,680 --> 00:26:38,780
+tell here, the
+distances between one
+
+487
+00:26:38,780 --> 00:26:45,820
+QRS complex to
+another are varying,
+
+488
+00:26:46,340 --> 00:26:47,240
+a.k.a.
+
+489
+00:26:47,360 --> 00:26:50,180
+they're irregular,
+meaning this is
+
+490
+00:26:50,180 --> 00:26:52,740
+an irregularly
+irregular rhythm.
+
+491
+00:26:52,820 --> 00:26:57,160
+Again, in AFib, before
+we go into it deeper in
+
+492
+00:26:57,160 --> 00:27:00,120
+future lectures, there's
+no distinct P waves,
+
+493
+00:27:00,120 --> 00:27:03,280
+simply just random
+squiggling back and forth.
+
+494
+00:27:03,480 --> 00:27:06,500
+So in the bottom left,
+you'll see something that's
+
+495
+00:27:06,500 --> 00:27:09,560
+really tricky, almost like
+normal sinus rhythm. So if
+
+496
+00:27:09,560 --> 00:27:14,060
+you look closely, there are
+P waves with no linked QRS
+
+497
+00:27:14,360 --> 00:27:19,640
+complex immediately after
+it. These P waves are not
+
+498
+00:27:19,640 --> 00:27:22,240
+necessarily associated with
+the QRS complex, but the
+
+499
+00:27:22,240 --> 00:27:25,340
+rate is regular, as is the
+P wave. This is because
+
+500
+00:27:25,340 --> 00:27:28,920
+this represents when the atria
+in particular beat without
+
+501
+00:27:28,920 --> 00:27:32,520
+synchronization in what
+is known as complete or
+
+502
+00:27:32,520 --> 00:27:37,340
+third degree AV or heart
+block, another abnormal rhythm
+
+503
+00:27:37,340 --> 00:27:40,640
+that we'll get on and focus
+on in a future lecture.
+
+504
+00:27:40,980 --> 00:27:44,400
+And lastly, in the
+bottom right-hand corner,
+
+505
+00:27:44,400 --> 00:27:46,820
+you'll see a flat
+line called asystole.
+
+506
+00:27:47,520 --> 00:27:50,100
+If you see this and your
+patient is looking fine,
+
+507
+00:27:50,100 --> 00:27:51,780
+it's probably because
+something's unplugged.
+
+508
+00:27:51,780 --> 00:27:54,280
+But if you see this and
+your patient's unresponsive,
+
+509
+00:27:54,280 --> 00:27:56,760
+that's because they're
+in cardiac arrest,
+
+510
+00:27:56,760 --> 00:28:00,340
+aka dead, and need
+immediate resuscitation.
+
+511
+00:28:01,180 --> 00:28:03,920
+All in all, I wouldn't again
+focus too much about the
+
+512
+00:28:03,920 --> 00:28:06,620
+specifics of what we
+mentioned, atrial fibrillation,
+
+513
+00:28:06,620 --> 00:28:10,340
+AV blocks, etc., as we'll
+discuss this in a later
+
+514
+00:28:10,340 --> 00:28:13,620
+lecture. What's very
+important now is that you can
+
+515
+00:28:13,620 --> 00:28:17,140
+identify normal sinus rhythm,
+that every P wave precedes
+
+516
+00:28:17,140 --> 00:28:21,200
+a QRS complex and every
+P wave has a QRS complex.
+
+517
+00:28:22,680 --> 00:28:27,380
+So after you determine if
+the rhythm is or is not
+
+518
+00:28:27,380 --> 00:28:30,120
+sinus rhythm, it's time to
+determine if your rhythm
+
+519
+00:28:30,120 --> 00:28:33,520
+is regular or irregular.
+So many students combine
+
+520
+00:28:33,520 --> 00:28:36,820
+these two steps with more
+practice. On the left,
+
+521
+00:28:36,820 --> 00:28:39,190
+you can see a regular
+rhythm. If you took a line
+
+522
+00:28:39,190 --> 00:28:42,860
+piece of paper or calipers
+and noted all the R
+
+523
+00:28:42,860 --> 00:28:45,640
+waves, they would be
+equidistant from each other.
+
+524
+00:28:46,120 --> 00:28:49,320
+On the right is an
+irregular rhythm. You can
+
+525
+00:28:49,320 --> 00:28:52,380
+see immediately the R
+waves are not equidistant
+
+526
+00:28:52,380 --> 00:28:55,360
+from one another.
+For harder cases,
+
+527
+00:28:55,360 --> 00:28:58,260
+using the paper method
+or calipers would help
+
+528
+00:28:58,260 --> 00:29:01,680
+you define or identify
+an irregular rhythm.
+
+529
+00:29:02,220 --> 00:29:05,260
+So next, step number
+four, determine
+
+530
+00:29:05,260 --> 00:29:08,500
+the axis, or always
+in our mnemonic.
+
+531
+00:29:08,730 --> 00:29:11,400
+So sorry to trigger
+you guys again, but
+
+532
+00:29:11,400 --> 00:29:13,680
+we're back to axis from
+our previous lecture.
+
+533
+00:29:13,780 --> 00:29:17,100
+So remember that the axis
+is the major direction
+
+534
+00:29:17,100 --> 00:29:20,200
+of electrical activity
+flowing through the heart.
+
+535
+00:29:20,200 --> 00:29:24,080
+If the heart is hypertrophied
+in any location, this may
+
+536
+00:29:24,080 --> 00:29:26,560
+cause the signal to travel
+farther and change the
+
+537
+00:29:26,560 --> 00:29:30,880
+direction of the vector. The
+most efficient way to estimate
+
+538
+00:29:30,880 --> 00:29:35,120
+or look at the axis is
+comparing the direction or
+
+539
+00:29:35,120 --> 00:29:40,660
+orientation of the QRS
+complexes in lead 1 and AVF. As
+
+540
+00:29:40,660 --> 00:29:43,400
+you mentioned prior, if
+we go back to Eindhoven's
+
+541
+00:29:43,400 --> 00:29:47,460
+triangle, we saw that leads 1
+and AVF were perpendicular to
+
+542
+00:29:47,460 --> 00:29:49,960
+each other, meaning those
+are the best two leads to
+
+543
+00:29:49,960 --> 00:29:53,120
+use to compare. This is also
+the preferred method that
+
+544
+00:29:53,120 --> 00:29:57,320
+Dr. Cohen likes to use and
+a method that I continue to
+
+545
+00:29:57,320 --> 00:30:01,940
+use. So now continuing along
+with the open triangle as
+
+546
+00:30:01,940 --> 00:30:04,480
+we mentioned in the prior
+slide in previous lecture.
+
+547
+00:30:05,100 --> 00:30:08,500
+Positive inflection means
+that we have depolarization
+
+548
+00:30:08,500 --> 00:30:11,520
+that occurs towards
+a lead. Now as you
+
+549
+00:30:11,520 --> 00:30:14,680
+mentioned just before the
+two leads that we use are
+
+550
+00:30:14,970 --> 00:30:19,000
+right leads one in AVF
+one determining the axis.
+
+551
+00:30:19,060 --> 00:30:22,140
+So we spoke in great
+detail about vectors, but
+
+552
+00:30:22,140 --> 00:30:24,520
+here we're going to use
+an easier method that
+
+553
+00:30:24,520 --> 00:30:27,020
+will help you on your
+clinical rotations to quickly
+
+554
+00:30:27,020 --> 00:30:29,780
+identify if your axis
+is normal or abnormal.
+
+555
+00:30:30,320 --> 00:30:33,380
+The method that we want to
+use is called the thumbs
+
+556
+00:30:33,380 --> 00:30:36,580
+up method. So if your
+left hand represents
+
+557
+00:30:36,580 --> 00:30:40,680
+lead one and your right
+hand represents lead AVF,
+
+558
+00:30:41,020 --> 00:30:44,440
+you can determine the
+axis. You can even pull out
+
+559
+00:30:44,440 --> 00:30:46,620
+your thumbs right now,
+practice alone in your
+
+560
+00:30:46,620 --> 00:30:49,080
+cubicle with a loved one
+or a random person on the
+
+561
+00:30:49,080 --> 00:30:51,300
+street. If you really
+want to hammer this home.
+
+562
+00:30:51,880 --> 00:30:56,780
+So thumbs up refers to
+a positive QRS complex.
+
+563
+00:30:56,940 --> 00:31:01,040
+Thumbs down refers to a
+negative QRS complex. If your
+
+564
+00:31:01,040 --> 00:31:03,940
+ECG comes to you, you've
+already oriented yourself,
+
+565
+00:31:03,940 --> 00:31:07,680
+have your rate rhythm,
+you could drop the EKG and
+
+566
+00:31:07,680 --> 00:31:11,580
+put your thumbs out. So if
+both of your thumbs go up,
+
+567
+00:31:11,840 --> 00:31:14,420
+this means that there's a
+positive inflection of the
+
+568
+00:31:14,420 --> 00:31:18,300
+QRS complex and leads one
+in AVF, meaning you have a
+
+569
+00:31:18,300 --> 00:31:22,000
+normal axis. If both hands
+are down, meaning you have
+
+570
+00:31:22,000 --> 00:31:26,060
+a negative inflection of
+the QRS complex in leads 1
+
+571
+00:31:26,060 --> 00:31:28,920
+and AVF, this means you
+have an extreme axis. This
+
+572
+00:31:28,920 --> 00:31:31,620
+doesn't happen too often, to
+be honest. You'll most likely
+
+573
+00:31:31,620 --> 00:31:36,000
+encounter left or rightward
+axis deviations, meaning
+
+574
+00:31:36,000 --> 00:31:39,700
+in a leftward axis deviation,
+you have your thumb
+
+575
+00:31:39,700 --> 00:31:44,100
+pointing upward, your left
+hand in lead 1, and your
+
+576
+00:31:44,100 --> 00:31:46,900
+thumb on your right hand
+pointing downward in lead AVF
+
+577
+00:31:46,900 --> 00:31:50,880
+and the opposite occurring
+for right axis deviation.
+
+578
+00:31:50,900 --> 00:31:54,240
+Your left thumb pointing
+downward for lead 1 and
+
+579
+00:31:54,240 --> 00:31:57,360
+your right thumb pointing
+upward for lead AVF.
+
+580
+00:31:58,300 --> 00:32:01,960
+So there are a bunch of
+causes of axis deviation.
+
+581
+00:32:02,370 --> 00:32:05,000
+Some of the high yield
+ones are listed here.
+
+582
+00:32:05,000 --> 00:32:07,000
+For board's sake though,
+I would definitely
+
+583
+00:32:07,000 --> 00:32:09,280
+know left ventricular
+hypertrophy causes left
+
+584
+00:32:09,280 --> 00:32:12,780
+axis deviation and
+how to identify it. it
+
+585
+00:32:12,780 --> 00:32:14,880
+was one that actually
+came up on my comlex.
+
+586
+00:32:17,480 --> 00:32:20,020
+So I won't include questions
+here because of the
+
+587
+00:32:20,020 --> 00:32:22,960
+ending where we'll be
+reviewing two ECGs together.
+
+588
+00:32:22,960 --> 00:32:26,540
+This encompasses both
+objective two and three.
+
+589
+00:32:30,200 --> 00:32:35,200
+So now step five, we're
+on intervals or impresses
+
+590
+00:32:35,200 --> 00:32:38,540
+in our mnemonic. So
+the PR interval normal
+
+591
+00:32:38,540 --> 00:32:42,140
+duration is between 120
+to 200 milliseconds.
+
+592
+00:32:42,400 --> 00:32:46,140
+Longer than one big box would
+therefore be a prolonged
+
+593
+00:32:46,140 --> 00:32:49,400
+PR interval. Remember,
+this is the time it takes
+
+594
+00:32:49,400 --> 00:32:52,840
+to get from the SA through
+the AV node. So for this
+
+595
+00:32:52,840 --> 00:32:57,200
+reason, PR interval is crucial
+in identifying AV blocks.
+
+596
+00:32:57,200 --> 00:32:59,260
+It's an important measure
+that you should definitely
+
+597
+00:32:59,260 --> 00:33:02,000
+know for clinical practice
+and for board exams.
+
+598
+00:33:09,350 --> 00:33:11,830
+So the normal QRS
+duration is less
+
+599
+00:33:11,830 --> 00:33:14,770
+than 120 milliseconds,
+or three boxes.
+
+600
+00:33:14,910 --> 00:33:17,390
+The way I like to
+remember this is there are
+
+601
+00:33:17,390 --> 00:33:20,670
+three letters in QRS, so
+I know that the normal
+
+602
+00:33:20,670 --> 00:33:24,510
+duration of a QRS complex
+is three small boxes.
+
+603
+00:33:24,810 --> 00:33:27,870
+Now, a widened QRS
+complex has many causes,
+
+604
+00:33:27,870 --> 00:33:30,050
+as we discussed in
+the previous lectures,
+
+605
+00:33:30,050 --> 00:33:32,480
+such as bundle branch
+block, hyperkalemia,
+
+606
+00:33:32,750 --> 00:33:36,090
+tricyclic or TCAs, Wolf
+-Parkinson-White syndrome,
+
+607
+00:33:36,090 --> 00:33:39,600
+ventricular pacing, and
+hypothermia. They're all tied to
+
+608
+00:33:39,600 --> 00:33:41,910
+physiology, so feel free to
+go back and review any of
+
+609
+00:33:41,910 --> 00:33:44,410
+these pathologies or email
+me to discuss them further.
+
+610
+00:33:50,280 --> 00:33:54,960
+Now, a prolonged QT interval
+is very important to be
+
+611
+00:33:54,960 --> 00:33:57,860
+able to identify because
+a prolonged QT interval
+
+612
+00:33:57,860 --> 00:34:01,580
+increases the risk of dangerous
+arrhythmias, particularly
+
+613
+00:34:01,580 --> 00:34:04,320
+ventricular arrhythmias
+like torsionis de point,
+
+614
+00:34:04,380 --> 00:34:07,880
+which can then degenerate
+into lethal arrhythmias
+
+615
+00:34:07,880 --> 00:34:11,160
+such as ventricular
+fibrillation. Now, a good
+
+616
+00:34:11,160 --> 00:34:13,840
+rule of thumb is that a
+normal QT is less than half
+
+617
+00:34:13,840 --> 00:34:17,880
+of the R to R ratio. So
+if we were to go between
+
+618
+00:34:18,160 --> 00:34:24,640
+two R waves, so we have
+our, excuse me, our P wave,
+
+619
+00:34:25,550 --> 00:34:29,540
+Q, R, S, all by our T wave,
+
+620
+00:34:29,540 --> 00:34:32,240
+and then again, our P wave,
+
+621
+00:34:32,660 --> 00:34:35,560
+Q, R, S, T wave.
+
+622
+00:34:36,660 --> 00:34:39,040
+Now the distance
+between these two
+
+623
+00:34:42,030 --> 00:34:45,580
+we'd want our QT interval,
+which starts from the
+
+624
+00:34:45,580 --> 00:34:49,660
+beginning of our Q wave
+to the end of the T wave
+
+625
+00:34:51,980 --> 00:34:55,720
+to occur before we
+meet the halfway
+
+626
+00:34:55,720 --> 00:34:58,100
+point between these R waves,
+
+627
+00:34:58,500 --> 00:35:01,180
+which is relatively
+along this line.
+
+628
+00:35:01,180 --> 00:35:04,800
+I apologize, I am
+not the best artist.
+
+629
+00:35:07,000 --> 00:35:11,420
+In other terms, the
+normal QT interval
+
+630
+00:35:11,420 --> 00:35:15,240
+is between 0.36
+to 0.44 seconds.
+
+631
+00:35:15,360 --> 00:35:18,640
+This can slightly change
+between genders, but
+
+632
+00:35:18,640 --> 00:35:21,880
+is a good reference
+point in numbers to know.
+
+633
+00:35:22,900 --> 00:35:26,840
+A mnemonic to remember
+as well as some causes
+
+634
+00:35:26,840 --> 00:35:30,120
+of a prolonged QT
+interval is the mnemonic
+
+635
+00:35:30,120 --> 00:35:31,880
+as we mentioned in
+the previous lecture,
+
+636
+00:35:32,140 --> 00:35:34,320
+ABCDEF.
+
+637
+00:35:34,480 --> 00:35:38,780
+We also have congenital
+causes of QT prolongation,
+
+638
+00:35:38,780 --> 00:35:41,180
+such as long QT
+syndrome and electrolyte
+
+639
+00:35:41,180 --> 00:35:43,880
+abnormalities that we
+will discuss later on.
+
+640
+00:35:49,160 --> 00:35:52,500
+So our last step,
+step number six,
+
+641
+00:35:53,420 --> 00:35:55,800
+others, also others
+in our mnemonic.
+
+642
+00:35:56,360 --> 00:36:02,120
+So during assessment of
+other things in EKG, we can
+
+643
+00:36:02,120 --> 00:36:04,500
+look at things like our
+SC segment and T waves.
+
+644
+00:36:04,500 --> 00:36:07,580
+We'll leave it limited to
+this at the basic level.
+
+645
+00:36:07,920 --> 00:36:12,140
+So both changes in either
+SC segments or T waves
+
+646
+00:36:12,140 --> 00:36:14,760
+can indicate some form of
+ischemia of heart muscle.
+
+647
+00:36:14,780 --> 00:36:16,940
+Like we mentioned earlier
+in the lecture, we know
+
+648
+00:36:16,940 --> 00:36:19,300
+that SC depression means
+that ischemia is limited
+
+649
+00:36:19,300 --> 00:36:22,200
+to the sub and the cardio
+layer, while SC elevation
+
+650
+00:36:22,200 --> 00:36:25,500
+is transmural, involving
+all layers of the heart.
+
+651
+00:36:25,500 --> 00:36:28,760
+So in an EKG, we can
+see SC segment changes.
+
+652
+00:36:29,020 --> 00:36:31,080
+Now, like we mentioned before,
+
+653
+00:36:31,200 --> 00:36:33,960
+although SC segment should
+always be isoelectric,
+
+654
+00:36:33,960 --> 00:36:39,980
+it sometimes will not be,
+as is the case in an MI, be
+
+655
+00:36:39,980 --> 00:36:43,600
+it SC segment elevation
+or SC segment depression.
+
+656
+00:36:43,620 --> 00:36:46,540
+This is why I wanted to
+mention earlier on that
+
+657
+00:36:46,540 --> 00:36:51,110
+the TP segment can be a
+great reference point to
+
+658
+00:36:51,110 --> 00:36:53,560
+use. So just keep that
+in the back of your mind.
+
+659
+00:36:53,820 --> 00:36:58,720
+So for Bohr's purposes,
+the T-wave represents
+
+660
+00:36:58,720 --> 00:37:01,600
+ventricular repolarization,
+as we mentioned earlier.
+
+661
+00:37:02,320 --> 00:37:05,620
+A peak T-wave is a
+sign of hyperkalemia,
+
+662
+00:37:05,620 --> 00:37:08,140
+and a flattened T-wave with a
+
+663
+00:37:08,140 --> 00:37:10,560
+prominent U-wave is a
+sign of hypokalemia.
+
+664
+00:37:10,960 --> 00:37:13,360
+This makes sense
+because if you remember,
+
+665
+00:37:13,400 --> 00:37:15,380
+potassium is part of
+the repolarization
+
+666
+00:37:15,380 --> 00:37:18,720
+stage, phase 3 of
+the action potential.
+
+667
+00:37:18,860 --> 00:37:21,240
+So if you're affecting
+repolarization, this
+
+668
+00:37:21,240 --> 00:37:23,880
+would be reflected by
+changes in the QT interval,
+
+669
+00:37:23,940 --> 00:37:26,820
+T-wave, and if severe
+enough, the QRS complex.
+
+670
+00:37:27,000 --> 00:37:30,360
+So in the clinical setting,
+inverted T-waves is one
+
+671
+00:37:30,360 --> 00:37:33,640
+of the first signs of cardiac
+ischemia, making T-waves
+
+672
+00:37:33,640 --> 00:37:36,440
+an important indicator of
+whether or not a person
+
+673
+00:37:36,440 --> 00:37:39,440
+is experiencing some form
+of acute coronary syndrome.
+
+674
+00:37:40,880 --> 00:37:43,780
+So now, let's try to
+interpret this EKG in front of
+
+675
+00:37:43,780 --> 00:37:46,240
+us using the steps that
+we've learned along the way.
+
+676
+00:37:46,470 --> 00:37:49,780
+So just to reiterate, we
+have our orientation, then
+
+677
+00:37:49,780 --> 00:37:52,600
+rate, rhythm, axis,
+intervals, and then others.
+
+678
+00:37:52,840 --> 00:37:54,820
+So beginning with
+step number one,
+
+679
+00:37:54,820 --> 00:37:56,880
+orientation, we want
+to orient ourselves.
+
+680
+00:37:57,080 --> 00:37:59,140
+Ask ourselves, what
+are we looking at?
+
+681
+00:37:59,330 --> 00:38:01,620
+Are we looking at a
+12-lead EKG, rhythm
+
+682
+00:38:01,620 --> 00:38:03,080
+strips, and what
+is the calibration
+
+683
+00:38:03,080 --> 00:38:05,320
+curve? Is it appropriate?
+Is it normal?
+
+684
+00:38:06,000 --> 00:38:08,660
+So looking at this EKG
+in front of us, we can
+
+685
+00:38:08,660 --> 00:38:12,380
+count 12 leads, right?
+So we have 1, 2, 3, AVR,
+
+686
+00:38:12,380 --> 00:38:16,100
+AVL, AVF, V1 to V6, for
+a total of 12 leads.
+
+687
+00:38:16,580 --> 00:38:20,160
+Now to assess the
+calibration curve we
+
+688
+00:38:20,160 --> 00:38:21,660
+see that the calibration
+curve in this
+
+689
+00:38:21,660 --> 00:38:25,560
+EKG is on the left
+side of the screen.
+
+690
+00:38:26,340 --> 00:38:31,000
+So a normal calibration
+curve is two big boxes
+
+691
+00:38:31,000 --> 00:38:35,800
+in height and one big
+box in width, which is
+
+692
+00:38:35,800 --> 00:38:38,620
+the calibration curve
+that we see here. So now
+
+693
+00:38:38,620 --> 00:38:41,260
+we know that we're looking
+at a 12 lead EKG with
+
+694
+00:38:41,260 --> 00:38:43,760
+an appropriate, or
+normal calibration curve.
+
+695
+00:38:43,900 --> 00:38:46,260
+Next, we can assess the rate.
+
+696
+00:38:46,380 --> 00:38:49,080
+So to assess the rate,
+we can find any of
+
+697
+00:38:49,080 --> 00:38:51,240
+our leads. Let's just
+look at lead one,
+
+698
+00:38:51,460 --> 00:38:54,600
+find our QRS complexes.
+
+699
+00:38:56,540 --> 00:39:00,120
+And in this case, we
+can take and assess the
+
+700
+00:39:00,120 --> 00:39:04,160
+distance between one QRS
+complex to the other.
+
+701
+00:39:04,400 --> 00:39:07,540
+So between these two QRS
+complexes, we have about
+
+702
+00:39:07,540 --> 00:39:10,440
+five big boxes. And
+again, between this QRS
+
+703
+00:39:10,440 --> 00:39:14,580
+complex to the other, we
+have about five big boxes.
+
+704
+00:39:14,900 --> 00:39:18,380
+Now, using one of the
+methods we learned
+
+705
+00:39:18,380 --> 00:39:21,520
+earlier, if we were to
+use the number of big
+
+706
+00:39:21,520 --> 00:39:24,500
+boxes between two
+consecutive QRS complexes,
+
+707
+00:39:24,680 --> 00:39:31,620
+we can do 300 divided by
+1, 2, 3, 4, 5, which gives
+
+708
+00:39:31,620 --> 00:39:34,700
+us a heart rate of approximately
+60 beats per minute.
+
+709
+00:39:34,720 --> 00:39:37,820
+So our rate is approximately
+60 beats per minute.
+
+710
+00:39:38,140 --> 00:39:39,640
+Now the rhythm.
+
+711
+00:39:40,040 --> 00:39:41,140
+Next step.
+
+712
+00:39:41,260 --> 00:39:45,000
+So to assess the rhythm,
+first we want to locate
+
+713
+00:39:45,000 --> 00:39:48,600
+or identify if we have any
+P waves. Now the P waves,
+
+714
+00:39:48,600 --> 00:39:51,200
+which should precede
+each QRS complex, can be
+
+715
+00:39:51,200 --> 00:39:54,060
+found in any of the leads,
+but particularly there are
+
+716
+00:39:54,060 --> 00:39:56,640
+some leads that are, as
+Dr. Collins referred to
+
+717
+00:39:56,640 --> 00:39:59,700
+them, the money leads. Now
+the money leads are the
+
+718
+00:39:59,700 --> 00:40:02,740
+leads that will show us
+the most prominent or the
+
+719
+00:40:02,740 --> 00:40:05,600
+best P waves. So when in
+doubt, these are the leads
+
+720
+00:40:05,600 --> 00:40:08,100
+you want to look at if
+you can't really discern
+
+721
+00:40:08,100 --> 00:40:12,000
+from other leads if there
+are any P waves present.
+
+722
+00:40:12,060 --> 00:40:18,360
+These leads happen to be
+leads 2, 3, AVF, and V1.
+
+723
+00:40:19,280 --> 00:40:22,900
+So in this case, lead
+2, we see pretty good P
+
+724
+00:40:22,900 --> 00:40:25,720
+waves here with a good
+morphology. So we see
+
+725
+00:40:25,720 --> 00:40:28,680
+a P wave in front of
+each QRS complex here,
+
+726
+00:40:28,680 --> 00:40:31,720
+which tells us that the
+rhythm is sinus rhythm.
+
+727
+00:40:32,310 --> 00:40:35,720
+Now, we can also
+look at the distances
+
+728
+00:40:35,720 --> 00:40:38,040
+between the QRS
+complexes. The QRS
+
+729
+00:40:38,040 --> 00:40:39,820
+complexes, as we
+mentioned before,
+
+730
+00:40:40,240 --> 00:40:45,040
+using the method that we used
+to assess the heart rate,
+
+731
+00:40:46,100 --> 00:40:50,460
+the QRS complexes' distances
+between each other is
+
+732
+00:40:50,460 --> 00:40:53,900
+equal. So there's no
+irregularities between the two.
+
+733
+00:40:54,160 --> 00:40:57,560
+Now, so we have our
+orientation, we've oriented
+
+734
+00:40:57,560 --> 00:41:00,660
+ourselves, our rate, 60 beats
+per minute approximately,
+
+735
+00:41:00,780 --> 00:41:03,380
+our rhythm, which
+is sinus rhythm. And
+
+736
+00:41:03,380 --> 00:41:06,320
+now our next step
+is going to be axis.
+
+737
+00:41:06,620 --> 00:41:09,540
+So when interpreting
+axis, like we mentioned
+
+738
+00:41:09,540 --> 00:41:14,090
+earlier, we want to look
+at leads one and AVF.
+
+739
+00:41:14,320 --> 00:41:19,620
+So lead one and AVF. We can
+use our thumb rule as well.
+
+740
+00:41:19,620 --> 00:41:23,160
+So if you look at the
+orientation of the R wave here,
+
+741
+00:41:23,160 --> 00:41:26,620
+the QRS complex, we see
+that it's pointed upright.
+
+742
+00:41:27,180 --> 00:41:29,980
+So our thumb, our
+left thumb is pointing
+
+743
+00:41:29,980 --> 00:41:33,820
+upright. And then looking
+at ABF, we see the
+
+744
+00:41:33,820 --> 00:41:36,460
+same thing. Our QRS
+complex is pointed upright,
+
+745
+00:41:36,460 --> 00:41:38,560
+so our right thumb
+is pointed upright.
+
+746
+00:41:38,960 --> 00:41:43,400
+So two thumbs up, we're
+thinking normal axis
+
+747
+00:41:43,400 --> 00:41:46,360
+with no deviation. All
+right, simple enough.
+
+748
+00:41:46,980 --> 00:41:52,020
+next in our list is intervals
+so now we can assess
+
+749
+00:41:52,020 --> 00:41:55,820
+intervals starting with our
+pr interval as we mentioned
+
+750
+00:41:55,820 --> 00:41:59,930
+before anything that revolves
+or involves the p wave
+
+751
+00:41:59,930 --> 00:42:04,600
+2 3 avf and v1 could be
+really nice leads to look at
+
+752
+00:42:04,600 --> 00:42:08,180
+because the p waves have
+the most distinct morphology
+
+753
+00:42:08,180 --> 00:42:13,000
+so in this case So if we
+look at lead two, we can see
+
+754
+00:42:13,000 --> 00:42:16,140
+our P wave here, and we
+can assess our PR interval.
+
+755
+00:42:16,140 --> 00:42:18,290
+So if we start from the
+beginning of the P wave
+
+756
+00:42:18,950 --> 00:42:22,050
+to the beginning of
+the R wave, we count
+
+757
+00:42:22,050 --> 00:42:26,120
+approximately about 1.4 big
+boxes. This is an instance
+
+758
+00:42:26,120 --> 00:42:28,940
+where calipers would
+be particularly useful.
+
+759
+00:42:29,300 --> 00:42:33,360
+This is approximately
+about 0.38 seconds.
+
+760
+00:42:34,920 --> 00:42:37,960
+So this is particularly
+prolonged, right?
+
+761
+00:42:37,960 --> 00:42:39,980
+Because as you mentioned
+before, a normal PR
+
+762
+00:42:39,980 --> 00:42:43,810
+interval is about 0.12
+to 0.2 seconds. So we
+
+763
+00:42:43,810 --> 00:42:46,320
+have a prolonged PR
+interval in this case.
+
+764
+00:42:46,560 --> 00:42:51,080
+Next up, we can assess the
+QRS complex, make sure it's
+
+765
+00:42:51,080 --> 00:42:55,040
+duration, and assess that.
+So in this case, it's
+
+766
+00:42:55,040 --> 00:43:01,040
+about 1 to 1.5 big boxes, so
+about 0.08 to 0.1 seconds.
+
+767
+00:43:01,250 --> 00:43:03,040
+Normal, it's really
+hard to tell in
+
+768
+00:43:03,040 --> 00:43:05,240
+this case. but when
+you see a really
+
+769
+00:43:05,240 --> 00:43:10,280
+tight QRS complex,
+it's usually normal.
+
+770
+00:43:10,420 --> 00:43:14,380
+Next up, our QT interval.
+So our QT interval,
+
+771
+00:43:14,380 --> 00:43:16,320
+again, we can start
+from the beginning of
+
+772
+00:43:16,320 --> 00:43:19,520
+the Q wave here to
+the end of the T wave.
+
+773
+00:43:20,180 --> 00:43:22,180
+We can assess this interval.
+
+774
+00:43:22,600 --> 00:43:25,340
+As we mentioned earlier,
+our normal QT interval
+
+775
+00:43:25,340 --> 00:43:30,140
+is about 0.36 to 0.44
+seconds. But when we're
+
+776
+00:43:30,140 --> 00:43:32,240
+on the wards, sometimes
+we don't have time.
+
+777
+00:43:32,500 --> 00:43:34,360
+We're looking at a
+bunch of EKGs. We
+
+778
+00:43:34,360 --> 00:43:35,780
+can't sit there
+and count each one.
+
+779
+00:43:35,780 --> 00:43:38,220
+So as we mentioned before, we
+
+780
+00:43:38,220 --> 00:43:41,180
+can do kind of
+the shortcut way.
+
+781
+00:43:41,680 --> 00:43:47,180
+We can find two consecutive
+R waves and calculate
+
+782
+00:43:47,180 --> 00:43:50,580
+and draw an equidistant
+line between the two.
+
+783
+00:43:50,580 --> 00:43:53,220
+So let's do that now.
+So we're drawing our
+
+784
+00:43:53,220 --> 00:43:56,360
+equidistant line between
+the two consecutive R waves.
+
+785
+00:43:56,620 --> 00:44:00,600
+And we see here,
+again, not the best
+
+786
+00:44:00,640 --> 00:44:03,200
+artist. Maybe I can
+draw a better line,
+
+787
+00:44:03,360 --> 00:44:10,960
+but our QT interval
+finishes before we get to
+
+788
+00:44:10,960 --> 00:44:13,220
+that equidistant line,
+meaning our T wave ends
+
+789
+00:44:13,220 --> 00:44:17,980
+before the line that we
+drew, which to us for our
+
+790
+00:44:17,980 --> 00:44:21,260
+purposes means that the
+QT interval is less than
+
+791
+00:44:21,260 --> 00:44:25,700
+half the R to R interval
+and normal, all right?
+
+792
+00:44:26,480 --> 00:44:27,840
+Simple enough.
+
+793
+00:44:28,920 --> 00:44:33,360
+so next on our list after
+intervals is assessing
+
+794
+00:44:33,360 --> 00:44:36,900
+other things for our case
+and purposes we're going
+
+795
+00:44:36,900 --> 00:44:40,460
+to look at sc segments
+and t waves in the ckg
+
+796
+00:44:40,460 --> 00:44:44,120
+there are really not any
+sc segment abnormalities
+
+797
+00:44:44,120 --> 00:44:47,820
+so normal sc segments so
+we don't see any visible
+
+798
+00:44:47,820 --> 00:44:51,360
+depressions or sc segment
+elevation looking at
+
+799
+00:44:51,360 --> 00:44:55,400
+t waves now we also see
+normal t wave morphology
+
+800
+00:44:56,840 --> 00:45:03,580
+we don't see any peak T
+waves or T wave inversions so
+
+801
+00:45:03,580 --> 00:45:05,920
+now that we've gone through
+the steps of reading the
+
+802
+00:45:05,920 --> 00:45:11,040
+EKG we can now circle back
+and talk about rhythm for
+
+803
+00:45:11,040 --> 00:45:15,040
+a second now the PR interval
+that we mentioned was a
+
+804
+00:45:15,040 --> 00:45:19,560
+bit prolonged and we haven't
+gotten over this yet but
+
+805
+00:45:19,560 --> 00:45:22,240
+as we mentioned before we
+said the rhythm was sinus
+
+806
+00:45:22,240 --> 00:45:28,100
+rhythm but having a prolonged
+PR interval that is fixed
+
+807
+00:45:28,880 --> 00:45:33,460
+is characteristic of an
+arrhythmia known as first
+
+808
+00:45:33,460 --> 00:45:37,980
+degree AV block so we will
+touch on this later but
+
+809
+00:45:37,980 --> 00:45:41,360
+our rhythm here is going
+to be sinus rhythm with a
+
+810
+00:45:41,360 --> 00:45:45,420
+first degree AV block or
+if we shorten that just
+
+811
+00:45:45,420 --> 00:45:50,270
+first degree av block so
+if we were to take the tkg
+
+812
+00:45:50,270 --> 00:45:53,960
+and show it to our attending
+we would say that we're
+
+813
+00:45:53,960 --> 00:45:56,280
+looking at a 1280 kg with
+appropriate calibration
+
+814
+00:45:56,280 --> 00:46:01,860
+with a rate of 60 a rhythm
+of first degree av block
+
+815
+00:46:01,860 --> 00:46:04,320
+or you can say sinus
+rhythm with first degree av
+
+816
+00:46:04,320 --> 00:46:09,840
+block normal axis prolonged
+pr interval of approximately
+
+817
+00:46:09,840 --> 00:46:13,520
+0.38 seconds, otherwise
+normal and otherwise
+
+818
+00:46:13,520 --> 00:46:18,880
+all other intervals normal
+with no ST or T changes.
+
+819
+00:46:21,400 --> 00:46:24,740
+So now having gone
+through the first example,
+
+820
+00:46:24,740 --> 00:46:28,240
+we can go through this
+example as well, probably
+
+821
+00:46:28,240 --> 00:46:31,400
+at a little bit of a
+quicker pace now that we're
+
+822
+00:46:31,400 --> 00:46:34,300
+more acclimated and
+experts at reading EKGs.
+
+823
+00:46:34,420 --> 00:46:37,020
+So first what we want
+to do again is orient
+
+824
+00:46:37,020 --> 00:46:40,840
+ourselves. So in front of
+us right now we have a 12
+
+825
+00:46:40,840 --> 00:46:44,080
+lead EKG because we can
+count all 12 leads on
+
+826
+00:46:44,080 --> 00:46:47,220
+this ECG paper. The
+calibration curve on the
+
+827
+00:46:47,220 --> 00:46:50,840
+left is also appropriately
+calibrated because again
+
+828
+00:46:50,840 --> 00:46:54,040
+we have one big box in
+width and two big boxes
+
+829
+00:46:54,040 --> 00:46:56,500
+in height giving us
+appropriate calibration.
+
+830
+00:46:56,640 --> 00:46:59,340
+Now to calculate the rate again
+
+831
+00:46:59,820 --> 00:47:03,720
+we can look at the distance
+between the QRS complexes,
+
+832
+00:47:03,930 --> 00:47:06,380
+count the number of big
+boxes, and divide that by
+
+833
+00:47:06,380 --> 00:47:13,220
+300, or we can also count
+the number of QRS complexes
+
+834
+00:47:15,940 --> 00:47:18,180
+and multiply by 6.
+
+835
+00:47:18,900 --> 00:47:23,620
+So in our case 10
+QRS complexes can be
+
+836
+00:47:23,620 --> 00:47:26,220
+counted on the bottom
+here and multiplied
+
+837
+00:47:26,220 --> 00:47:29,080
+by 6 gives us
+about a rate of 60,
+
+838
+00:47:29,840 --> 00:47:31,180
+approximately.
+
+839
+00:47:32,160 --> 00:47:35,220
+So we've oriented
+ourselves, we have a rate,
+
+840
+00:47:35,220 --> 00:47:37,280
+now what is our rhythm?
+Now again, assessing
+
+841
+00:47:37,280 --> 00:47:40,520
+rhythm, we want to
+look at our P waves and
+
+842
+00:47:40,520 --> 00:47:43,400
+make sure that we have
+P waves with normal
+
+843
+00:47:43,400 --> 00:47:46,940
+morphology and preceding
+each QRS complex.
+
+844
+00:47:46,940 --> 00:47:50,460
+And also that each
+QRS complex is equally
+
+845
+00:47:50,460 --> 00:47:53,860
+spaced with no
+irregularities in between.
+
+846
+00:47:54,080 --> 00:47:57,260
+So in our case, we
+have P waves, although
+
+847
+00:47:57,260 --> 00:48:00,250
+with very, I would
+say, low amplitude.
+
+848
+00:48:01,110 --> 00:48:03,440
+We do see some in lead one.
+
+849
+00:48:03,640 --> 00:48:06,240
+We see some in lead three.
+
+850
+00:48:08,350 --> 00:48:11,800
+And in V1 as well.
+So we do have P
+
+851
+00:48:11,800 --> 00:48:13,640
+waves in front of
+each QRS complex.
+
+852
+00:48:15,320 --> 00:48:19,480
+So normal sinus rhythm.
+And then when we
+
+853
+00:48:19,480 --> 00:48:24,480
+go into axis, we can
+see when we compare,
+
+854
+00:48:24,480 --> 00:48:29,700
+we have lead 1 and
+then lead AVF, lead 1.
+
+855
+00:48:30,460 --> 00:48:35,000
+Our QRS complex is a bit what
+would be called biphasic,
+
+856
+00:48:35,020 --> 00:48:39,700
+meaning that the QRS
+complex itself is not 100%
+
+857
+00:48:39,700 --> 00:48:43,860
+pointing upward or downward.
+It's about, I would say,
+
+858
+00:48:44,460 --> 00:48:48,380
+50% upward, 50% downward.
+But judging from
+
+859
+00:48:48,380 --> 00:48:51,020
+the QRS complex here,
+I would say it's
+
+860
+00:48:51,020 --> 00:48:55,000
+leaning more so positively
+versus negatively.
+
+861
+00:48:56,160 --> 00:48:59,780
+And then we can compare
+that as well to AVF, which
+
+862
+00:48:59,780 --> 00:49:04,840
+is QRS complex is upright.
+So we have a normal cardiac
+
+863
+00:49:04,840 --> 00:49:09,620
+axis with no deviation
+at this point. Looking at
+
+864
+00:49:09,620 --> 00:49:15,500
+intervals now, we have our
+PR interval, which we can
+
+865
+00:49:15,500 --> 00:49:20,200
+assess, again, going from
+the beginning of the P
+
+866
+00:49:20,200 --> 00:49:25,300
+wave to the onset of the
+QRS complex, or the R wave.
+
+867
+00:49:25,550 --> 00:49:27,820
+And this gives us
+approximately about
+
+868
+00:49:27,820 --> 00:49:31,320
+0.12 to 0.16 seconds,
+which is normal.
+
+869
+00:49:32,140 --> 00:49:36,740
+QRS complex looks
+very narrow, about one
+
+870
+00:49:36,740 --> 00:49:40,740
+box, two boxes, about
+0.1 seconds, so normal.
+
+871
+00:49:41,300 --> 00:49:44,320
+QT interval, again,
+we can assess that as
+
+872
+00:49:44,320 --> 00:49:48,040
+well, going from the
+peak of the R wave,
+
+873
+00:49:48,040 --> 00:49:52,040
+between two consecutive
+QRS complexes, and
+
+874
+00:49:52,040 --> 00:49:55,580
+then drawing a line
+down the middle here.
+
+875
+00:49:56,000 --> 00:50:00,960
+and we see that our
+T wave ends before
+
+876
+00:50:00,960 --> 00:50:04,020
+the onset of our
+equidistant line.
+
+877
+00:50:04,020 --> 00:50:09,280
+So our QT interval
+is normal, is less
+
+878
+00:50:09,280 --> 00:50:11,240
+than one half the
+R to R interval.
+
+879
+00:50:11,740 --> 00:50:13,380
+So we've gone
+through orientation,
+
+880
+00:50:13,560 --> 00:50:15,900
+rate, rhythm, axis, intervals.
+
+881
+00:50:15,900 --> 00:50:18,940
+The point of this EKG
+really was to clue you into
+
+882
+00:50:18,940 --> 00:50:22,420
+all of the others. So in
+this case, what are some
+
+883
+00:50:22,420 --> 00:50:25,760
+of the others that we
+have here? Well, we have
+
+884
+00:50:25,760 --> 00:50:33,960
+pretty well-defined T
+waves, if you can tell here,
+
+885
+00:50:34,300 --> 00:50:34,960
+right?
+
+886
+00:50:34,960 --> 00:50:38,440
+So they're pretty peaked,
+and also we have some SC
+
+887
+00:50:38,440 --> 00:50:41,840
+segment elevation here as
+well. So we have SC cell
+
+888
+00:50:41,840 --> 00:50:49,440
+segment elevation and leads
+2, 3, AVF, which would
+
+889
+00:50:49,440 --> 00:50:54,920
+clue us into ischemia in
+the inferior leads, right?
+
+890
+00:50:54,920 --> 00:51:00,420
+Leads 2, 3, AVF, which
+is characteristic of an
+
+891
+00:51:00,420 --> 00:51:03,060
+inferior STEMI, right?
+Because we have SC segment
+
+892
+00:51:03,060 --> 00:51:06,720
+elevation in these leads
+as well as peaked T waves.
+
+893
+00:51:06,900 --> 00:51:10,200
+Now, if we were to
+have an inferior STEMI,
+
+894
+00:51:10,780 --> 00:51:13,820
+right, where would
+we think that we
+
+895
+00:51:13,820 --> 00:51:17,210
+would see reciprocal
+changes? changes.
+
+896
+00:51:17,710 --> 00:51:21,710
+Using our mnemonic from before,
+
+897
+00:51:23,440 --> 00:51:29,950
+PALES, if we have SC segment
+elevation in the inferior
+
+898
+00:51:29,950 --> 00:51:35,140
+leads, we would see reciprocal
+changes in the lateral
+
+899
+00:51:35,140 --> 00:51:39,790
+leads, which would mean SC
+segment depression, or T
+
+900
+00:51:39,790 --> 00:51:44,190
+wave inversion. Now our
+lateral leads were leads one,
+
+901
+00:51:44,510 --> 00:51:46,110
+AVL,
+
+902
+00:51:46,410 --> 00:51:51,690
+V5, and V6. Now we do see
+some reciprocal changes
+
+903
+00:51:51,690 --> 00:51:58,410
+in the leads one, AVL, so
+two contiguous leads that
+
+904
+00:51:58,410 --> 00:52:01,690
+give us a view of the
+lateral side of the heart,
+
+905
+00:52:01,690 --> 00:52:05,810
+which also can kind of
+reconfirm to ourselves that
+
+906
+00:52:05,810 --> 00:52:08,910
+we're looking at what looks
+like an inferior STEMI.
+
+907
+00:52:09,270 --> 00:52:13,270
+I hope that wasn't too
+confusing, but it is very
+
+908
+00:52:13,270 --> 00:52:16,290
+useful to try and tie
+all of these points in
+
+909
+00:52:16,290 --> 00:52:20,310
+together, especially the
+more you read EKGs. And
+
+910
+00:52:20,310 --> 00:52:23,870
+when there are cases where
+you're not 100% sure of
+
+911
+00:52:23,870 --> 00:52:26,690
+what's going on, you can
+always use these rules
+
+912
+00:52:26,950 --> 00:52:31,810
+and relationships as
+double checks for yourself.
+
+913
+00:52:33,090 --> 00:52:34,850
+Here's a summary slide that you
+
+914
+00:52:34,850 --> 00:52:36,610
+can look at on your own time.
+
+915
+00:52:43,180 --> 00:52:47,260
+And again, here we have
+some of the objectives
+
+916
+00:52:47,260 --> 00:52:52,000
+here, as well as some
+key points to review,
+
+917
+00:52:52,000 --> 00:52:55,480
+to know, to help both
+on your exams, as well
+
+918
+00:52:55,480 --> 00:52:58,240
+as in digesting and
+learning the information.
+
+919
+00:53:08,100 --> 00:53:09,980
+So that concludes
+the second lecture.
+
+920
+00:53:10,300 --> 00:53:13,180
+I hope you find it valuable
+to your learning and I
+
+921
+00:53:13,180 --> 00:53:15,820
+appreciate any feedback.
+and feel free to email
+
+922
+00:53:15,820 --> 00:53:20,240
+me or the rest of the team
+um team cohen also feel
+
+923
+00:53:20,240 --> 00:53:23,260
+free to join us on mondays
+from 12 to 1 p.m eastern
+
+924
+00:53:23,260 --> 00:53:26,560
+standard time over zoom
+with dr cohen to review
+
+925
+00:53:26,560 --> 00:53:31,380
+ecgs and to have more exposure
+again the more exposure
+
+926
+00:53:31,380 --> 00:53:35,360
+the better ekg skills
+and as always make sure
+
+927
+00:53:35,360 --> 00:53:38,300
+to take time some time for
+yourself at least every
+
+928
+00:53:38,300 --> 00:53:40,440
+day because your mental
+health is an important
+
+929
+00:53:40,440 --> 00:53:43,820
+aspect of developing yourself
+as a person and physician.
+
+930
+00:53:43,880 --> 00:53:46,600
+So best of luck. See
+you in the next lecture.

@@ -1,0 +1,2678 @@
+1
+00:00:00,760 --> 00:00:03,340
+Hello there. This is
+our fourth lecture on
+
+2
+00:00:03,340 --> 00:00:05,880
+respiratory physiology,
+and today we're going
+
+3
+00:00:05,880 --> 00:00:08,420
+to explore transport
+of gases in blood and
+
+4
+00:00:08,420 --> 00:00:11,680
+tissue fluids. My name
+is Dr. Yerke Lee Hest.
+
+5
+00:00:13,520 --> 00:00:16,380
+The session objectives
+are consistent with the
+
+6
+00:00:16,380 --> 00:00:18,840
+event description,
+which is that this event
+
+7
+00:00:18,840 --> 00:00:21,600
+focuses on the components
+and mechanisms that
+
+8
+00:00:21,600 --> 00:00:25,080
+facilitate transport of
+oxygen and CO2 throughout
+
+9
+00:00:25,080 --> 00:00:28,280
+the body and that ensure
+proper delivery or
+
+10
+00:00:28,280 --> 00:00:30,920
+release at the right
+time in the right places.
+
+11
+00:00:32,380 --> 00:00:36,200
+This image illustrates how
+the main gases that we're
+
+12
+00:00:36,200 --> 00:00:38,780
+concerned with, namely
+oxygen and carbon dioxide,
+
+13
+00:00:39,020 --> 00:00:40,920
+are moving around in our body.
+
+14
+00:00:40,920 --> 00:00:44,240
+So the majority of oxygen
+is bound to hemoglobin,
+
+15
+00:00:44,240 --> 00:00:48,440
+about 98.5%, and a
+much smaller portion,
+
+16
+00:00:48,440 --> 00:00:52,100
+only 1.5% are freely
+dissolved in plasma.
+
+17
+00:00:52,300 --> 00:00:54,880
+Different texts have
+slightly different numbers,
+
+18
+00:00:54,880 --> 00:00:57,120
+but what you see here
+is from Constanzos.
+
+19
+00:00:58,220 --> 00:01:01,080
+with carbon dioxide it's
+a little bit different so
+
+20
+00:01:01,080 --> 00:01:05,460
+here the majority of carbon
+dioxide moves around in our
+
+21
+00:01:05,460 --> 00:01:08,260
+bloodstream in the form
+of the bicarbonate buffer
+
+22
+00:01:08,260 --> 00:01:13,180
+system then 30 percent are
+bound to hemoglobin to a
+
+23
+00:01:13,180 --> 00:01:17,580
+different site than oxygen is
+and then 10 percent are freely
+
+24
+00:01:17,580 --> 00:01:21,160
+dissolved so those 10
+percent are about 6.7 times
+
+25
+00:01:21,160 --> 00:01:24,820
+more than oxygen and the
+reason for it is that carbon
+
+26
+00:01:24,820 --> 00:01:29,920
+dioxide is much more soluble
+in water than oxygen is.
+
+27
+00:01:30,680 --> 00:01:34,840
+So the big question
+remains, if some oxygen
+
+28
+00:01:34,840 --> 00:01:38,240
+can be dissolved in
+plasma, why go through all
+
+29
+00:01:38,240 --> 00:01:41,200
+of the bother to put red
+blood cells together?
+
+30
+00:01:41,640 --> 00:01:46,100
+Well, let's see what would
+happen if our body could
+
+31
+00:01:46,100 --> 00:01:51,240
+only rely on freely
+dissolved oxygen. So the
+
+32
+00:01:51,240 --> 00:01:54,960
+concentration of oxygen
+at 100 millimeters mercury
+
+33
+00:01:55,780 --> 00:02:01,540
+is about 0.3 milliliters of
+oxygen per 100 milliliters
+
+34
+00:02:01,540 --> 00:02:05,500
+of blood. So that number
+I got from Henry's
+
+35
+00:02:05,560 --> 00:02:10,820
+Law, and that's how I
+arrived at 0.3 milliliters.
+
+36
+00:02:10,820 --> 00:02:13,740
+Why are we looking at
+100 millimeters mercury?
+
+37
+00:02:13,740 --> 00:02:17,100
+Well, that's the partial
+pressure of oxygen in
+
+38
+00:02:17,100 --> 00:02:20,260
+freshly oxygenated blood
+as it leaves the lungs. So
+
+39
+00:02:20,260 --> 00:02:23,360
+that's the most there ever
+is in our bloodstream.
+
+40
+00:02:25,180 --> 00:02:29,780
+How do we convert
+this to the amount or
+
+41
+00:02:29,780 --> 00:02:32,620
+volume of blood in the
+human body? Well, that
+
+42
+00:02:32,620 --> 00:02:35,720
+is about 6 liters or
+6,000 milliliters.
+
+43
+00:02:35,800 --> 00:02:39,580
+So basically, we have
+to multiply these 100
+
+44
+00:02:39,580 --> 00:02:45,280
+milliliters by 60 to
+arrive at 6 liters. And if
+
+45
+00:02:45,280 --> 00:02:48,000
+we do that, then the
+total of oxygen that
+
+46
+00:02:48,000 --> 00:02:51,300
+would be available is
+15 milliliters of oxygen
+
+47
+00:02:51,300 --> 00:02:55,040
+per minute if it was
+just dissolved in plasma.
+
+48
+00:02:55,390 --> 00:02:58,820
+Now, how does that compare
+to the need of our body?
+
+49
+00:02:59,010 --> 00:03:03,180
+Well, the need is around
+250 milliliters of oxygen
+
+50
+00:03:03,180 --> 00:03:07,800
+per minute needed to
+function, and that's at rest.
+
+51
+00:03:08,120 --> 00:03:10,460
+So you can see that that's a
+
+52
+00:03:10,460 --> 00:03:12,420
+huge difference, about 13-fold.
+
+53
+00:03:12,420 --> 00:03:17,320
+So this value without
+hemoglobin and red
+
+54
+00:03:17,320 --> 00:03:20,140
+blood cells would not
+be consistent with life.
+
+55
+00:03:20,730 --> 00:03:23,160
+There's one other thing I
+would like to point out,
+
+56
+00:03:23,160 --> 00:03:26,860
+and I've mentioned it before.
+When we talk about partial
+
+57
+00:03:26,860 --> 00:03:29,920
+pressures, you have to
+remember, and that's really,
+
+58
+00:03:29,920 --> 00:03:33,840
+really important, that
+only the freely dissolved
+
+59
+00:03:33,840 --> 00:03:38,180
+gases are part of the partial
+pressure consideration.
+
+60
+00:03:38,820 --> 00:03:42,860
+So anything that's bound to
+hemoglobin is not part of
+
+61
+00:03:42,860 --> 00:03:45,120
+the partial pressure that's
+measured when measuring
+
+62
+00:03:45,120 --> 00:03:48,660
+partial pressure of oxygen.
+It is only what's dissolved.
+
+63
+00:03:49,190 --> 00:03:52,020
+With carbon dioxide, it's a
+little bit more complicated
+
+64
+00:03:52,020 --> 00:03:55,920
+because what's not
+considered is what's bound
+
+65
+00:03:55,920 --> 00:03:59,480
+directly to hemoglobin, but
+what is considered part of
+
+66
+00:03:59,480 --> 00:04:03,880
+the partial pressure is
+what's freely dissolved and
+
+67
+00:04:03,880 --> 00:04:07,240
+also what's part of the
+bicarbonate buffer system
+
+68
+00:04:07,240 --> 00:04:13,160
+because that is freely in
+solution in plasma as well.
+
+69
+00:04:13,160 --> 00:04:16,440
+the only component of the
+system that is bound to
+
+70
+00:04:16,440 --> 00:04:21,300
+the red blood cell is the
+carbonic anhydrase. So that's
+
+71
+00:04:21,300 --> 00:04:25,380
+the enzyme that makes the
+conversion of the molecules
+
+72
+00:04:25,380 --> 00:04:27,720
+that are part of the
+bicarbonate buffer system.
+
+73
+00:04:27,840 --> 00:04:32,120
+The CO2 that's part of the
+bicarbonate buffer system
+
+74
+00:04:32,120 --> 00:04:35,500
+is considered freely
+dissolved. So that's 60
+
+75
+00:04:35,500 --> 00:04:39,360
+factors into the partial
+pressure of carbon dioxide.
+
+76
+00:04:41,540 --> 00:04:45,000
+Here we're taking
+a look at the adult
+
+77
+00:04:45,000 --> 00:04:49,180
+form of hemoglobin,
+also designated HbA.
+
+78
+00:04:49,420 --> 00:04:53,440
+So that's A stands for
+adult. And adult hemoglobin
+
+79
+00:04:53,440 --> 00:04:56,560
+consists of four protein
+chains. There are two
+
+80
+00:04:56,560 --> 00:05:00,780
+beta chains and two alpha
+chains. Each of them have
+
+81
+00:05:00,780 --> 00:05:05,980
+a heme portion, a heme
+group associated with them.
+
+82
+00:05:05,980 --> 00:05:09,920
+And it is this heme group
+that binds the oxygen.
+
+83
+00:05:10,040 --> 00:05:11,720
+So I love this illustration
+
+84
+00:05:11,720 --> 00:05:14,880
+because alpha and
+beta chains and
+
+85
+00:05:15,780 --> 00:05:19,280
+the heme group which
+contains an iron
+
+86
+00:05:19,280 --> 00:05:21,780
+atom are beautifully
+illustrated.
+
+87
+00:05:22,460 --> 00:05:26,420
+So when this hemoglobin
+picks up oxygen it turns
+
+88
+00:05:26,420 --> 00:05:30,970
+into oxyhemoglobin and
+when it unloads oxygen
+
+89
+00:05:30,970 --> 00:05:35,210
+and is deoxygenated, it
+turns into deoxyhemoglobin.
+
+90
+00:05:35,610 --> 00:05:38,800
+And keep in mind for
+the later part of this
+
+91
+00:05:38,800 --> 00:05:43,780
+lecture that these two
+forms of hemoglobin have a
+
+92
+00:05:43,780 --> 00:05:46,800
+different spectral pattern
+when you shine certain
+
+93
+00:05:46,800 --> 00:05:49,540
+forms of light on it,
+which will become important
+
+94
+00:05:49,590 --> 00:05:53,520
+in the measurement of
+oxygenation of blood.
+
+95
+00:05:55,420 --> 00:05:58,460
+Here we're looking at
+fetal hemoglobin, which is
+
+96
+00:05:58,460 --> 00:06:02,700
+very similar compared to
+adult hemoglobin. However,
+
+97
+00:06:03,200 --> 00:06:07,600
+instead of two beta
+chains, fetal hemoglobin
+
+98
+00:06:07,600 --> 00:06:10,540
+has two gamma chains. So
+you can see this here,
+
+99
+00:06:10,540 --> 00:06:14,020
+that's a gamma chain,
+one right here, but also
+
+100
+00:06:14,020 --> 00:06:16,680
+has two alpha chains like
+the adult hemoglobin.
+
+101
+00:06:17,560 --> 00:06:20,540
+So this is the adult
+version. Adult has 2
+
+102
+00:06:20,540 --> 00:06:24,660
+-alpha, 2-beta. Fetal
+has 2-alpha and 2-gamma.
+
+103
+00:06:24,940 --> 00:06:28,520
+Now, why do fetuses
+feature a different type
+
+104
+00:06:28,520 --> 00:06:31,940
+of hemoglobin? Well,
+the short answer is that
+
+105
+00:06:31,940 --> 00:06:35,880
+fetal hemoglobin has a
+higher affinity to oxygen,
+
+106
+00:06:35,880 --> 00:06:39,760
+and it does not interact
+with 2,3-BPG, which
+
+107
+00:06:39,760 --> 00:06:43,840
+is a metabolite that
+comes out of glycolysis.
+
+108
+00:06:45,620 --> 00:06:48,760
+Overall, this fetal
+hemoglobin has a higher
+
+109
+00:06:48,760 --> 00:06:51,480
+affinity for oxygen,
+and it has to because
+
+110
+00:06:51,480 --> 00:06:54,340
+the fetus doesn't
+breathe, so it relies on
+
+111
+00:06:54,680 --> 00:06:58,340
+extracting oxygen from
+the maternal blood. So
+
+112
+00:06:58,340 --> 00:07:00,740
+its hemoglobin has to
+have a higher affinity
+
+113
+00:07:00,740 --> 00:07:04,320
+to pull oxygen off the
+maternal blood supply.
+
+114
+00:07:05,900 --> 00:07:09,840
+Let's look at some dysfunctional
+oxygen transporters.
+
+115
+00:07:09,840 --> 00:07:12,560
+So here we have a
+red blood cell that's
+
+116
+00:07:12,560 --> 00:07:15,680
+filled with methemoglobin
+instead of hemoglobin.
+
+117
+00:07:15,680 --> 00:07:19,400
+And methemoglobin has a
+central iron atom that has
+
+118
+00:07:19,400 --> 00:07:22,760
+been oxidized, and it's
+in the Fe3 plus state,
+
+119
+00:07:22,760 --> 00:07:25,240
+whereas the normal
+hemoglobin that can interact
+
+120
+00:07:25,240 --> 00:07:29,140
+with oxygen is Fe2 plus.
+So there are congenital
+
+121
+00:07:29,140 --> 00:07:32,400
+reasons for this. There are
+acquired reasons. Acquired
+
+122
+00:07:32,400 --> 00:07:35,340
+reasons can be oxidative
+stress, for instance.
+
+123
+00:07:35,820 --> 00:07:38,360
+It can also be
+certain medications,
+
+124
+00:07:38,440 --> 00:07:41,560
+such as certain
+anti-malarial drugs.
+
+125
+00:07:41,700 --> 00:07:46,990
+A person who is suffering
+from methemoglobinemia appears
+
+126
+00:07:47,600 --> 00:07:52,060
+fatigued and can have a
+bluish tint to their skin
+
+127
+00:07:52,060 --> 00:07:55,400
+and their other signs and
+symptoms. but the good thing
+
+128
+00:07:55,400 --> 00:07:59,680
+is that this condition is
+reversible and that's what
+
+129
+00:07:59,680 --> 00:08:05,480
+those two arrows here are
+indicating this is sickle cell
+
+130
+00:08:05,480 --> 00:08:09,580
+hemoglobin which is a
+version of hemoglobin that
+
+131
+00:08:09,580 --> 00:08:14,240
+carries a mutation in the
+hemoglobin beta chain where a
+
+132
+00:08:14,240 --> 00:08:21,140
+glutamic acid is mutated
+into valine amino acid that
+
+133
+00:08:21,140 --> 00:08:24,440
+slightly changes the
+conformation of the sickle cell
+
+134
+00:08:24,440 --> 00:08:29,580
+hemoglobin. And the red blood
+cell that results from this
+
+135
+00:08:29,580 --> 00:08:34,000
+and is packed with sickle
+cell hemoglobin not only
+
+136
+00:08:34,000 --> 00:08:40,330
+has a lower oxygen carrying
+capacity, it also destabilizes
+
+137
+00:08:40,540 --> 00:08:45,020
+in shape, especially under
+oxygen-poor conditions.
+
+138
+00:08:45,340 --> 00:08:48,230
+So that wears the
+hemoglobin out much faster,
+
+139
+00:08:48,230 --> 00:08:50,900
+and that causes a
+whole host of issues.
+
+140
+00:08:51,960 --> 00:08:55,800
+This mutation is particularly
+prevalent in certain
+
+141
+00:08:55,800 --> 00:08:58,600
+parts of the world where
+malaria is prevalent,
+
+142
+00:08:58,880 --> 00:09:03,680
+and the pathogen for it
+hides in red blood cells,
+
+143
+00:09:03,680 --> 00:09:05,940
+and therefore having
+a mutation and being
+
+144
+00:09:05,940 --> 00:09:09,560
+heterozygous for it is
+actually a genetic advantage.
+
+145
+00:09:09,890 --> 00:09:12,430
+But it comes for the price of,
+
+146
+00:09:13,090 --> 00:09:16,980
+as far as we're concerned,
+a lower oxygen affinity.
+
+147
+00:09:18,290 --> 00:09:21,000
+Let's now look at two
+different concepts,
+
+148
+00:09:21,180 --> 00:09:23,620
+and that is the oxygen binding
+
+149
+00:09:23,620 --> 00:09:26,400
+capacity versus oxygen content.
+
+150
+00:09:26,720 --> 00:09:29,340
+So this looks complicated,
+
+151
+00:09:29,360 --> 00:09:33,040
+but the oxygen binding
+capacity describes the amount
+
+152
+00:09:33,040 --> 00:09:36,780
+of oxygen that can be
+maximally bound by hemoglobin.
+
+153
+00:09:36,780 --> 00:09:40,340
+That's all of this here. And
+let's see how much that is.
+
+154
+00:09:40,620 --> 00:09:41,660
+Well,
+
+155
+00:09:42,460 --> 00:09:45,720
+one gram of hemoglobin
+A, that's adult
+
+156
+00:09:45,720 --> 00:09:49,640
+hemoglobin, can bind 1
+.34 milliliters of oxygen.
+
+157
+00:09:49,640 --> 00:09:53,160
+So how much adult
+hemoglobin do we have in
+
+158
+00:09:53,160 --> 00:09:57,220
+blood? We have about 15
+grams per 100 milliliters.
+
+159
+00:09:57,220 --> 00:10:04,100
+So if you then multiply
+15 times 134, you end
+
+160
+00:10:04,100 --> 00:10:08,060
+up with 20.1 milliliters
+of oxygen that can be
+
+161
+00:10:08,060 --> 00:10:11,440
+maximally bound to 100
+millimeters of blood.
+
+162
+00:10:12,160 --> 00:10:16,260
+And that oxygen, once again,
+is bound to hemoglobin.
+
+163
+00:10:16,260 --> 00:10:21,280
+It's not the one that
+is freely dissolved.
+
+164
+00:10:22,450 --> 00:10:24,600
+That brings us to
+the second concept,
+
+165
+00:10:24,600 --> 00:10:27,040
+and that is the oxygen content.
+
+166
+00:10:27,040 --> 00:10:30,240
+So the oxygen content
+is different because it
+
+167
+00:10:30,240 --> 00:10:35,300
+considers all types of oxygen
+that are associated with
+
+168
+00:10:35,300 --> 00:10:39,220
+blood. So the actual
+amount of oxygen in blood.
+
+169
+00:10:39,220 --> 00:10:42,580
+So that considers the
+oxygen binding capacity.
+
+170
+00:10:42,580 --> 00:10:46,800
+So remember, the binding
+capacity is the maximum.
+
+171
+00:10:47,330 --> 00:10:50,220
+So in order to get to the
+real content, you have to
+
+172
+00:10:50,220 --> 00:10:54,940
+multiply the maximally
+possible amount of oxygen with
+
+173
+00:10:54,940 --> 00:10:59,780
+the saturation percentage.
+So let's say that's 95%, then
+
+174
+00:10:59,780 --> 00:11:08,740
+you multiply the 20.1 times
+0.95, and then in the end
+
+175
+00:11:08,740 --> 00:11:12,260
+you add the dissolved oxygen,
+which is something that
+
+176
+00:11:12,260 --> 00:11:16,820
+we didn't consider with the
+oxygen binding capacity.
+
+177
+00:11:18,660 --> 00:11:22,000
+This slide illustrates
+the considerations
+
+178
+00:11:22,000 --> 00:11:23,820
+that need to be
+made when talking
+
+179
+00:11:23,820 --> 00:11:26,060
+about oxygen
+delivery to tissues.
+
+180
+00:11:26,220 --> 00:11:29,720
+We already know that the
+oxygen content of blood
+
+181
+00:11:29,720 --> 00:11:32,920
+is the sum of dissolved
+oxygen, which is around
+
+182
+00:11:32,920 --> 00:11:37,440
+2%, and oxygen bound to
+hemoglobin, which is around
+
+183
+00:11:37,490 --> 00:11:42,780
+98%. So how do we get
+from that to the amount
+
+184
+00:11:42,780 --> 00:11:45,760
+of oxygen that's being
+delivered to tissues? Well,
+
+185
+00:11:45,760 --> 00:11:47,960
+we have to factor in
+cardiac output, of course.
+
+186
+00:11:48,080 --> 00:11:51,680
+So oxygen delivery is
+defined as the cardiac
+
+187
+00:11:51,680 --> 00:11:56,840
+output, so the blood moved
+by the heart, multiplied
+
+188
+00:11:56,840 --> 00:12:00,180
+with the oxygen content,
+which once again is
+
+189
+00:12:00,180 --> 00:12:04,640
+the product of its
+dissolved version plus the
+
+190
+00:12:04,640 --> 00:12:07,980
+version bind to hemoglobin.
+That's actually a very
+
+191
+00:12:07,980 --> 00:12:11,540
+clever little illustration
+here if you want to
+
+192
+00:12:11,540 --> 00:12:14,600
+take the time and have a
+closer look for drivers.
+
+193
+00:12:15,700 --> 00:12:19,380
+On this slide, you can
+appreciate the oxygen hemoglobin
+
+194
+00:12:19,380 --> 00:12:22,420
+dissociation curve,
+and one thing that you
+
+195
+00:12:22,420 --> 00:12:25,380
+notice right away is that
+the shape is not linear but
+
+196
+00:12:25,380 --> 00:12:29,400
+it's sigmoidal. So that
+means that oxygen affinity
+
+197
+00:12:29,800 --> 00:12:33,980
+depends very much on the
+oxygen concentration in
+
+198
+00:12:33,980 --> 00:12:35,580
+the environment and
+that's what we've plotted
+
+199
+00:12:35,580 --> 00:12:38,880
+here. So we've plotted
+the hemoglobin saturation
+
+200
+00:12:38,880 --> 00:12:43,500
+percent versus the partial
+pressure of oxygen in a
+
+201
+00:12:43,500 --> 00:12:46,820
+certain area in the body
+and you can see that
+
+202
+00:12:46,820 --> 00:12:50,040
+where the oxygen concentration
+in the body is high
+
+203
+00:12:51,320 --> 00:12:58,020
+hemoglobin is very much
+saturated and so then you as
+
+204
+00:12:58,020 --> 00:13:00,840
+we follow the line you
+can see that the partial
+
+205
+00:13:00,840 --> 00:13:05,120
+pressure of oxygen actually
+drops quite a bit all the
+
+206
+00:13:05,120 --> 00:13:10,480
+way down to 50 so and so
+if the partial pressure of
+
+207
+00:13:10,480 --> 00:13:15,300
+oxygen is at 50 so that would
+be right here which means
+
+208
+00:13:15,300 --> 00:13:19,640
+that it has the environment
+has given up 50% of
+
+209
+00:13:19,640 --> 00:13:26,520
+the initial 100%, then
+still 85% of all hemoglobin
+
+210
+00:13:26,520 --> 00:13:32,200
+molecules are still loaded
+with oxygen. So that means
+
+211
+00:13:32,200 --> 00:13:36,320
+that most hemoglobin molecules
+that are in this zone
+
+212
+00:13:36,860 --> 00:13:39,460
+either have three or still all
+
+213
+00:13:39,460 --> 00:13:42,380
+four of their oxygen molecules.
+
+214
+00:13:43,500 --> 00:13:46,840
+So now we move further
+down the line, and
+
+215
+00:13:46,840 --> 00:13:50,200
+then we get to a point
+that's called P50.
+
+216
+00:13:50,360 --> 00:13:56,780
+So P50 is the point
+where we see 50% of
+
+217
+00:13:56,780 --> 00:14:00,940
+oxygen saturation of
+hemoglobin. And at that
+
+218
+00:14:00,940 --> 00:14:04,260
+point, in order for
+hemoglobin to release
+
+219
+00:14:04,260 --> 00:14:08,480
+two of its four,
+that's what 50% means,
+
+220
+00:14:08,660 --> 00:14:12,740
+oxygen molecules, the
+partial pressure of oxygen
+
+221
+00:14:12,740 --> 00:14:15,500
+in that particular
+environment has to be
+
+222
+00:14:15,500 --> 00:14:20,420
+already super low, and at
+25 millimeters mercury.
+
+223
+00:14:20,480 --> 00:14:23,480
+And I told you before
+that that typically
+
+224
+00:14:23,480 --> 00:14:25,560
+doesn't happen.
+So the lowest we
+
+225
+00:14:25,560 --> 00:14:28,120
+normally see in our
+bodies is around 40.
+
+226
+00:14:32,540 --> 00:14:37,820
+So, another point worth
+mentioning is that this
+
+227
+00:14:37,820 --> 00:14:43,360
+sigmoidal behavior, this
+behavior of hemoglobin to
+
+228
+00:14:43,360 --> 00:14:48,240
+respond very much to
+environmental oxygen concentration
+
+229
+00:14:48,240 --> 00:14:53,860
+is due to the positive
+cooperativity of the binding
+
+230
+00:14:53,860 --> 00:14:57,420
+of oxygen to hemoglobin.
+So in other words,
+
+231
+00:14:57,420 --> 00:15:01,200
+hemoglobin that is largely
+saturated holds on very
+
+232
+00:15:01,200 --> 00:15:07,800
+tightly to its oxygen, and
+hemoglobin that is largely
+
+233
+00:15:08,020 --> 00:15:12,140
+unsaturated very easily
+or comparatively easily
+
+234
+00:15:12,140 --> 00:15:15,880
+gives off its oxygen. So
+how does that matter? Well,
+
+235
+00:15:16,220 --> 00:15:21,180
+an example of this would be
+blood with its hemoglobin
+
+236
+00:15:21,180 --> 00:15:24,260
+running through the
+lungs, where it has just
+
+237
+00:15:24,260 --> 00:15:28,860
+taken up oxygen and bound
+to hemoglobin. So there's
+
+238
+00:15:28,860 --> 00:15:32,660
+no need for the hemoglobin
+to unload oxygen, and
+
+239
+00:15:32,660 --> 00:15:37,120
+the sigmoidal shape of
+this curve indicates that.
+
+240
+00:15:40,760 --> 00:15:43,320
+This slide compares
+and contrasts
+
+241
+00:15:43,320 --> 00:15:45,320
+the loading and
+unloading of oxygen.
+
+242
+00:15:45,810 --> 00:15:49,200
+So when we have a
+fully oxygenated
+
+243
+00:15:49,200 --> 00:15:51,340
+hemoglobin, we call
+that oxyhemoglobin.
+
+244
+00:15:52,790 --> 00:15:56,820
+And once oxyhemoglobin
+unloads oxygen,
+
+245
+00:15:56,820 --> 00:15:59,200
+we consider that
+deoxyhemoglobin.
+
+246
+00:16:00,290 --> 00:16:04,060
+So we have more
+deoxyhemoglobin here than here.
+
+247
+00:16:05,640 --> 00:16:09,600
+This here happens at a partial
+
+248
+00:16:09,600 --> 00:16:12,270
+pressure of oxygen of 100 mmHg.
+
+249
+00:16:12,380 --> 00:16:14,780
+That's right after
+the blood has
+
+250
+00:16:14,780 --> 00:16:16,560
+been fully loaded with oxygen.
+
+251
+00:16:16,560 --> 00:16:20,900
+Here we are the
+P40 value, and as
+
+252
+00:16:20,900 --> 00:16:23,120
+I told you in our
+previous slide,
+
+253
+00:16:24,280 --> 00:16:28,440
+that is about as low
+as it gets in our body.
+
+254
+00:16:29,210 --> 00:16:31,280
+How can we take
+advantage of it,
+
+255
+00:16:31,400 --> 00:16:33,820
+of having this knowledge? Well,
+
+256
+00:16:34,340 --> 00:16:38,380
+some very clever people
+developed the pulse oximetry
+
+257
+00:16:38,380 --> 00:16:41,660
+method, and it's a little
+device that gets put
+
+258
+00:16:41,660 --> 00:16:46,480
+onto our finger, and it basically
+measures the oxygenation
+
+259
+00:16:46,560 --> 00:16:50,400
+status of arterial blood
+in our finger. And it
+
+260
+00:16:50,400 --> 00:16:53,780
+uses dual wavelength, so
+it can distinguish between
+
+261
+00:16:53,780 --> 00:16:59,120
+fully oxygenated hemoglobin
+and partially oxygenated
+
+262
+00:16:59,120 --> 00:17:04,720
+or deoxygenated hemoglobin.
+And then from the
+
+263
+00:17:04,720 --> 00:17:08,260
+percentage of one versus
+the other, it calculates the
+
+264
+00:17:08,260 --> 00:17:12,100
+arterial partial pressure
+of oxygen. Very clever.
+
+265
+00:17:13,660 --> 00:17:16,200
+So how can the
+system of loading and
+
+266
+00:17:16,200 --> 00:17:19,280
+unloading hemoglobin
+be made most efficient?
+
+267
+00:17:20,060 --> 00:17:22,020
+Well, you can see this here.
+
+268
+00:17:22,100 --> 00:17:25,260
+The hemoglobin dissociation
+curve can be shifted
+
+269
+00:17:25,260 --> 00:17:29,060
+either to the right, so
+the shifted line is the
+
+270
+00:17:29,060 --> 00:17:32,000
+dotted line, or it can
+be shifted to the left.
+
+271
+00:17:32,180 --> 00:17:37,180
+If it's shifted to the
+right, let's go to our P50
+
+272
+00:17:37,180 --> 00:17:40,860
+value, where 50% of the
+hemoglobin is oxygenated.
+
+273
+00:17:40,860 --> 00:17:44,720
+We can see that upon
+right shift, that
+
+274
+00:17:44,720 --> 00:17:47,480
+happens at a
+partial pressure of
+
+275
+00:17:47,480 --> 00:17:52,460
+around 40 millimeters
+mercury of oxygen.
+
+276
+00:17:52,970 --> 00:17:55,360
+So if there was no right shift,
+
+277
+00:17:55,690 --> 00:18:01,080
+then we take our P50
+value here, we go down
+
+278
+00:18:01,080 --> 00:18:04,560
+here. That means that
+without a right shift,
+
+279
+00:18:05,110 --> 00:18:09,440
+hemoglobin would only let
+go of the same amount of
+
+280
+00:18:09,440 --> 00:18:13,520
+oxygen at a much lower
+partial pressure of oxygen.
+
+281
+00:18:13,740 --> 00:18:16,540
+So in order for those
+muscles in those
+
+282
+00:18:16,540 --> 00:18:18,320
+areas without right
+shift to get to the
+
+283
+00:18:18,320 --> 00:18:20,880
+oxygen, the oxygen
+partial pressure needs to
+
+284
+00:18:20,880 --> 00:18:25,200
+drop to 25 milliliters
+mercury or below.
+
+285
+00:18:25,660 --> 00:18:29,940
+So with our right shift,
+the letting go happens at
+
+286
+00:18:29,940 --> 00:18:32,960
+a higher partial pressure,
+which overall means
+
+287
+00:18:32,960 --> 00:18:37,560
+that right shifting makes
+it easier for hemoglobin
+
+288
+00:18:37,560 --> 00:18:41,680
+to unload oxygen. Left
+shifting does the opposite.
+
+289
+00:18:41,680 --> 00:18:44,820
+So here again at P50.
+
+290
+00:18:44,940 --> 00:18:51,520
+And so upon left shift,
+the oxygen is let go at a
+
+291
+00:18:51,520 --> 00:18:55,300
+partial pressure of around
+12 and a half. I would
+
+292
+00:18:55,300 --> 00:18:59,540
+say if it wasn't left
+shifted, then we extrapolate
+
+293
+00:18:59,540 --> 00:19:04,680
+the P50 to the actual non
+-shifted line. So the oxygen
+
+294
+00:19:04,680 --> 00:19:08,880
+would be let go at a much
+higher or significantly
+
+295
+00:19:08,880 --> 00:19:12,640
+higher partial pressure
+of oxygen in the blood.
+
+296
+00:19:13,240 --> 00:19:15,940
+So when do we experience left
+
+297
+00:19:15,940 --> 00:19:17,560
+and right shift? Well, Well,
+
+298
+00:19:18,020 --> 00:19:22,340
+left shift, making things
+easier to let go of
+
+299
+00:19:22,340 --> 00:19:25,000
+oxygen, makes a lot of
+sense in active tissues.
+
+300
+00:19:26,000 --> 00:19:29,560
+So active tissues,
+they consume a lot of
+
+301
+00:19:29,560 --> 00:19:33,600
+energy and oxygen. So
+in those active tissues,
+
+302
+00:19:33,600 --> 00:19:35,820
+like big muscles, the
+partial pressure of
+
+303
+00:19:35,820 --> 00:19:39,020
+carbon dioxide is high
+and the pH is low.
+
+304
+00:19:39,020 --> 00:19:41,960
+So that's together we
+call the Bohr effect.
+
+305
+00:19:42,680 --> 00:19:46,120
+Active muscle also heats
+up. So, it makes sense
+
+306
+00:19:46,120 --> 00:19:50,880
+then that ride shift occurs
+in warmer temperatures.
+
+307
+00:19:51,680 --> 00:19:55,360
+Also, there's this chemical
+that's part of glycolysis.
+
+308
+00:19:55,360 --> 00:19:59,840
+It's actually intermediate,
+and it's called 2,3-DPG.
+
+309
+00:19:59,920 --> 00:20:03,920
+And tissues that are
+highly active in glycolysis
+
+310
+00:20:03,920 --> 00:20:07,780
+are deemed to be highly
+active and need more
+
+311
+00:20:07,780 --> 00:20:11,040
+oxygen. So if this molecule
+is around in abundance,
+
+312
+00:20:11,040 --> 00:20:15,160
+it's also a signal
+for the system to make
+
+313
+00:20:15,160 --> 00:20:18,680
+it easier for hemoglobin
+to release its oxygen.
+
+314
+00:20:19,380 --> 00:20:23,580
+Pretty much the opposite
+is true for the left shift.
+
+315
+00:20:23,600 --> 00:20:28,560
+So those applies then to
+tissues in the lung that
+
+316
+00:20:28,560 --> 00:20:31,760
+are nearby the site where
+the blood has been just
+
+317
+00:20:31,760 --> 00:20:36,280
+re-oxygenated. it would
+apply to parts of the body
+
+318
+00:20:36,280 --> 00:20:40,580
+that are metabolically
+not very active and it's
+
+319
+00:20:40,580 --> 00:20:43,380
+pretty much the reverse of
+what we've just discussed.
+
+320
+00:20:43,740 --> 00:20:46,900
+One word of caution, this all
+
+321
+00:20:46,900 --> 00:20:49,000
+applies to adult hemoglobin.
+
+322
+00:20:49,160 --> 00:20:52,980
+So in other words,
+fetal hemoglobin does
+
+323
+00:20:52,980 --> 00:20:56,600
+not use 2,3-DPG. So
+please keep that in
+
+324
+00:20:56,600 --> 00:20:59,690
+mind, that's going to
+come up again later.
+
+325
+00:21:02,580 --> 00:21:05,200
+So what are the conditions
+that could interfere
+
+326
+00:21:05,200 --> 00:21:07,240
+with the process that
+we just discussed?
+
+327
+00:21:07,700 --> 00:21:10,340
+Well, one of the chemicals
+that can do that is carbon
+
+328
+00:21:10,340 --> 00:21:14,640
+monoxide because it
+competitively binds with the
+
+329
+00:21:14,640 --> 00:21:18,640
+same site that oxygen
+binds to on hemoglobin. The
+
+330
+00:21:18,640 --> 00:21:21,780
+problem is that carbon
+monoxide binds more than 200
+
+331
+00:21:21,780 --> 00:21:26,060
+times tighter than oxygen,
+and it's really, really
+
+332
+00:21:26,060 --> 00:21:29,980
+difficult to get off. So
+in this example here, we're
+
+333
+00:21:29,980 --> 00:21:33,760
+comparing a normal oxygen
+hemoglobin dissociation curve
+
+334
+00:21:33,760 --> 00:21:38,480
+with one that somebody
+encounters after carbon
+
+335
+00:21:38,480 --> 00:21:41,820
+monoxide poisoning. So this
+person is lucky because
+
+336
+00:21:42,840 --> 00:21:47,740
+this person only experienced
+carbon monoxide for a
+
+337
+00:21:47,740 --> 00:21:52,600
+certain amount of time,
+basically saturating 50% of
+
+338
+00:21:52,600 --> 00:21:58,740
+azimoglobin with carbon
+monoxide instead of oxygen. So
+
+339
+00:21:58,740 --> 00:22:01,680
+anything more would be
+really difficult and would
+
+340
+00:22:01,680 --> 00:22:04,360
+produce a state that's not
+consistent with survival.
+
+341
+00:22:04,610 --> 00:22:08,560
+So what do you do with
+somebody that this happens to?
+
+342
+00:22:09,020 --> 00:22:12,700
+Well, here are the therapies
+that are currently used.
+
+343
+00:22:12,880 --> 00:22:15,500
+So if depending on the
+
+344
+00:22:16,420 --> 00:22:19,860
+phenotypical situation
+on the presentation.
+
+345
+00:22:20,510 --> 00:22:22,880
+If time is not at the essence,
+
+346
+00:22:23,020 --> 00:22:25,520
+then regular air
+at five hours will
+
+347
+00:22:25,520 --> 00:22:29,980
+suffice to get rid of
+the carbon monoxide.
+
+348
+00:22:30,720 --> 00:22:35,260
+Oftentimes, however, air
+saturated with O2 is used to
+
+349
+00:22:35,260 --> 00:22:40,340
+just increase the
+concentration gradient to drive
+
+350
+00:22:40,340 --> 00:22:44,460
+carbon monoxide away from the
+oxygen binding sites that's
+
+351
+00:22:44,460 --> 00:22:47,560
+applied for one and a
+half hours and in extreme
+
+352
+00:22:47,560 --> 00:22:53,150
+cases a person can be sent
+into hyperbaric chamber which
+
+353
+00:22:53,240 --> 00:22:57,460
+operates under three
+atmospheres with the according
+
+354
+00:22:57,460 --> 00:23:02,600
+oxygen concentration for
+about 20 minutes so please
+
+355
+00:23:02,600 --> 00:23:05,680
+all make sure that you have
+a carbon monoxide alarm
+
+356
+00:23:06,000 --> 00:23:08,240
+in your in the
+place where you live
+
+357
+00:23:08,240 --> 00:23:11,040
+especially where you
+sleep it's poisonous gas
+
+358
+00:23:11,040 --> 00:23:13,600
+it can kill and it
+does kill every year.
+
+359
+00:23:14,320 --> 00:23:17,200
+How else can the body
+respond to oxygen
+
+360
+00:23:17,200 --> 00:23:19,860
+delivery shortages
+in ways other
+
+361
+00:23:19,860 --> 00:23:21,440
+than what we have
+already looked at?
+
+362
+00:23:21,560 --> 00:23:25,840
+So one works through a
+glycoprotein, that's a
+
+363
+00:23:25,840 --> 00:23:29,300
+hormone, it's called
+erythropoietin and abbreviated
+
+364
+00:23:29,300 --> 00:23:32,700
+EPO, and it's mainly
+reduced in the kidneys,
+
+365
+00:23:32,700 --> 00:23:34,960
+but also to some lesser
+degree in the liver.
+
+366
+00:23:35,300 --> 00:23:39,160
+And the trigger for it
+is hypoxia. For instance,
+
+367
+00:23:39,240 --> 00:23:42,240
+at high altitudes, the
+oxygen concentration in
+
+368
+00:23:42,240 --> 00:23:45,760
+air is much lower, and
+then over time this process
+
+369
+00:23:45,760 --> 00:23:50,560
+happens here, which
+ends with EPO synthesis.
+
+370
+00:23:50,560 --> 00:23:53,920
+Then EPO travels to
+the bone marrow, binds
+
+371
+00:23:53,920 --> 00:23:57,500
+to proerythroblasts,
+increases their number,
+
+372
+00:23:57,500 --> 00:24:00,280
+and also facilitates
+differentiation of
+
+373
+00:24:00,280 --> 00:24:03,640
+proerythroblasts into
+mature erythrocytes.
+
+374
+00:24:03,960 --> 00:24:06,540
+So in this way,
+the amount of red
+
+375
+00:24:06,540 --> 00:24:08,620
+blood cells has
+just been increased.
+
+376
+00:24:08,960 --> 00:24:12,820
+So why is the kidney a
+good organ to do this work?
+
+377
+00:24:12,820 --> 00:24:16,740
+Well, the answer is that the
+kidney has sensing capabilities
+
+378
+00:24:16,780 --> 00:24:20,760
+that allow it to distinguish
+between true oxygen
+
+379
+00:24:20,760 --> 00:24:24,800
+shortage and reduced blood
+flow. As simple as that.
+
+380
+00:24:26,560 --> 00:24:29,240
+Now we've spoken a
+lot about oxygen,
+
+381
+00:24:29,240 --> 00:24:30,960
+but how about carbon dioxide?
+
+382
+00:24:31,520 --> 00:24:33,740
+So from the earlier
+slides, we know
+
+383
+00:24:33,740 --> 00:24:38,260
+that a minority of
+carbon dioxide is
+
+384
+00:24:38,260 --> 00:24:41,320
+actually carried and
+bound by hemoglobin.
+
+385
+00:24:42,400 --> 00:24:45,300
+It's a different site
+than the oxygen binding
+
+386
+00:24:45,300 --> 00:24:48,060
+site, so they're not
+competitive, but they
+
+387
+00:24:48,060 --> 00:24:50,100
+can sense each other.
+So and that will become
+
+388
+00:24:50,100 --> 00:24:53,760
+important towards the
+end of the presentation.
+
+389
+00:24:55,520 --> 00:25:00,220
+The majority of carbon
+dioxide is actually moved in
+
+390
+00:25:00,220 --> 00:25:02,860
+blood as part of the
+bicarbonate buffer system. So
+
+391
+00:25:02,860 --> 00:25:06,040
+we're talking about 80% or
+more, and there's only a
+
+392
+00:25:06,040 --> 00:25:09,060
+small amount of hemoglobin.
+I'm sorry, small amount
+
+393
+00:25:09,060 --> 00:25:12,360
+of carbon dioxide that's
+freely dissolved in blood.
+
+394
+00:25:12,500 --> 00:25:15,840
+So and depending on the
+source you're reading, it's
+
+395
+00:25:15,840 --> 00:25:19,820
+anywhere between 5 and 10%.
+The main sources for this
+
+396
+00:25:19,820 --> 00:25:26,180
+lecture indicate that it's
+around 5%. So what you do is
+
+397
+00:25:26,180 --> 00:25:31,140
+that consideration that 2.8
+milliliters of carbon dioxide
+
+398
+00:25:31,140 --> 00:25:36,640
+can be freely carried by
+100 milliliters of blood.
+
+399
+00:25:37,440 --> 00:25:39,680
+How do we get there? Well
+we look at the partial
+
+400
+00:25:39,680 --> 00:25:42,560
+pressure. Now it's the
+dissolved version which means
+
+401
+00:25:42,560 --> 00:25:46,600
+it's part of the partial
+pressure of CO2 that on
+
+402
+00:25:46,600 --> 00:25:50,060
+average in the body is 40
+millimeters mercury you
+
+403
+00:25:50,060 --> 00:25:52,880
+multiply it by the proportion
+of the gas which is
+
+404
+00:25:53,980 --> 00:26:00,220
+0.07 and then you arrive
+at five percent this
+
+405
+00:26:04,820 --> 00:26:09,580
+slide depicts the co2
+content in milliliters per
+
+406
+00:26:09,580 --> 00:26:14,020
+liter versus the partial
+pressure of co2 in
+
+407
+00:26:14,020 --> 00:26:17,140
+millimeters mercury and
+it compares two versions
+
+408
+00:26:17,140 --> 00:26:20,960
+of hemoglobin it compares
+the oxygenated version
+
+409
+00:26:20,960 --> 00:26:24,410
+of hemoglobin with a
+deoxygenated version of
+
+410
+00:26:24,410 --> 00:26:27,500
+hemoglobin well why are
+we looking at this at all
+
+411
+00:26:27,500 --> 00:26:32,840
+um well it is surprising
+because we said that
+
+412
+00:26:33,030 --> 00:26:37,300
+the binding site for co2
+and oxygen on hemoglobin
+
+413
+00:26:37,300 --> 00:26:41,780
+are not the same so why
+would one then um inform
+
+414
+00:26:41,780 --> 00:26:44,620
+the binding of the other
+well the short answer
+
+415
+00:26:44,620 --> 00:26:48,440
+is the halden effect so
+when either predominantly
+
+416
+00:26:48,440 --> 00:26:52,780
+oxygen or co2 is bound
+to hemoglobin it changes
+
+417
+00:26:52,780 --> 00:26:55,780
+the confirmation of the
+entire hemoglobin molecule
+
+418
+00:26:56,140 --> 00:26:59,540
+and that is exactly what
+the halden effect describes
+
+419
+00:26:59,540 --> 00:27:05,760
+and that facilitates co2
+uptake by the oxy hemoglobin
+
+420
+00:27:05,760 --> 00:27:08,940
+let's briefly look again
+at our graph so here we
+
+421
+00:27:08,940 --> 00:27:12,880
+have oxy hemoglobin that's
+oxygenated hemoglobin that
+
+422
+00:27:12,880 --> 00:27:15,740
+would be the kind of
+hemoglobin that has just picked
+
+423
+00:27:15,740 --> 00:27:20,260
+up oxygen in the lungs and
+there it makes sense that
+
+424
+00:27:20,260 --> 00:27:24,700
+this hemoglobin does not
+bind additional co2 molecules
+
+425
+00:27:24,700 --> 00:27:27,400
+if anything at all that's
+where it wants to get rid
+
+426
+00:27:27,400 --> 00:27:32,040
+of co2 so that we can
+blow it off whereas the
+
+427
+00:27:32,040 --> 00:27:35,800
+deoxygenated hemoglobin we would
+predominantly find in target
+
+428
+00:27:35,800 --> 00:27:39,360
+tissue sites such as
+active muscle that has just
+
+429
+00:27:39,360 --> 00:27:43,520
+produced a lot of CO2 due
+to metabolism, and there
+
+430
+00:27:43,520 --> 00:27:48,510
+it's a good idea to have
+hemoglobin pick up extra CO2.
+
+431
+00:27:50,280 --> 00:27:53,960
+We already know that the
+majority of carbon dioxide
+
+432
+00:27:53,960 --> 00:27:58,080
+is carried as part of the
+bicarbonate buffer system
+
+433
+00:27:58,080 --> 00:28:02,040
+in the blood, and here we
+have an example where a target
+
+434
+00:28:02,040 --> 00:28:06,200
+tissue such as a very
+active muscle has produced
+
+435
+00:28:06,200 --> 00:28:10,440
+a lot of co2 that co2 diffuses
+out of the muscle into
+
+436
+00:28:10,440 --> 00:28:14,880
+the bloodstream and then
+into the red blood cell so
+
+437
+00:28:14,880 --> 00:28:17,740
+the co2 goes into the blood
+cell but it doesn't bind
+
+438
+00:28:17,740 --> 00:28:21,140
+to the red blood cell that's
+why it's still part of
+
+439
+00:28:21,140 --> 00:28:25,240
+the partial pressure of co2
+remember that there inside
+
+440
+00:28:25,240 --> 00:28:30,500
+the red blood cell it
+combines with water and to
+
+441
+00:28:30,500 --> 00:28:34,880
+form carbonic acid that is
+done by the enzyme carbonic
+
+442
+00:28:34,880 --> 00:28:39,160
+anhydrase which is associated
+with red blood cells
+
+443
+00:28:39,520 --> 00:28:43,220
+and then the same
+enzyme then facilitates
+
+444
+00:28:43,220 --> 00:28:46,240
+the reaction further
+from carbonic
+
+445
+00:28:46,240 --> 00:28:50,180
+acid to bicarbonate
+and hydrogen ion.
+
+446
+00:28:50,560 --> 00:28:56,700
+Then the bicarbonate is
+released into the plasma and
+
+447
+00:28:56,700 --> 00:29:00,860
+to ensure electron neutrality
+a negatively charged
+
+448
+00:29:00,860 --> 00:29:04,200
+chloride ion is being
+taken up into the red blood
+
+449
+00:29:04,200 --> 00:29:06,680
+cell. So please note that
+bicarbonate is negatively
+
+450
+00:29:06,680 --> 00:29:11,880
+charged so is chloride
+ion and this process of
+
+451
+00:29:11,880 --> 00:29:16,220
+exchanging one versus the
+other we also call the chloride
+
+452
+00:29:16,220 --> 00:29:20,500
+shift so it's an anion
+exchanger and it's done by
+
+453
+00:29:20,500 --> 00:29:26,420
+a protein called the
+band 3 protein um another
+
+454
+00:29:26,420 --> 00:29:30,300
+substance to pay attention
+to is this hydrogen ion here
+
+455
+00:29:30,690 --> 00:29:37,060
+and so fortunately um
+this particularly deoxy
+
+456
+00:29:37,060 --> 00:29:40,760
+hemoglobin is a very
+good buffer for hydrogen
+
+457
+00:29:40,760 --> 00:29:46,620
+ions So, let's say we're
+still in this area here
+
+458
+00:29:46,620 --> 00:29:51,030
+where a lot of metabolism
+occurred, then that's
+
+459
+00:29:52,560 --> 00:29:57,260
+where we find a lot of
+these hydrogen ions.
+
+460
+00:29:57,260 --> 00:30:01,460
+And at the same time,
+because hemoglobin has just
+
+461
+00:30:01,460 --> 00:30:04,980
+delivered oxygen to the
+site, it has turned into
+
+462
+00:30:05,280 --> 00:30:08,720
+deoxyhemoglobin. And the
+oxyhemoglobin just has a
+
+463
+00:30:08,720 --> 00:30:12,640
+conformation that binds much
+more tightly to hydrogen
+
+464
+00:30:12,640 --> 00:30:15,880
+ion than oxyhemoglobin. So
+it's like a magnet thing.
+
+465
+00:30:17,280 --> 00:30:21,690
+The reverse of these reactions
+happens in lung tissue.
+
+466
+00:30:21,690 --> 00:30:24,440
+So you can see by the
+double arrows that all of
+
+467
+00:30:24,440 --> 00:30:28,860
+these processes are reversible.
+so in lung tissue the
+
+468
+00:30:28,860 --> 00:30:32,640
+opposite happens and that
+allows our body then to blow
+
+469
+00:30:32,640 --> 00:30:38,040
+off the co2 that was
+generated via metabolism and
+
+470
+00:30:38,380 --> 00:30:44,100
+another question for you so
+the vignette deals with a
+
+471
+00:30:44,100 --> 00:30:48,300
+19 year old college track
+athlete who's competing in a
+
+472
+00:30:48,300 --> 00:30:52,740
+high-intensity 400 meter
+sprint midway through the
+
+473
+00:30:52,740 --> 00:30:56,980
+race his activity his
+actively contracting skeletal
+
+474
+00:30:56,980 --> 00:31:00,280
+muscle experience a sharp
+increase in metabolic rate
+
+475
+00:31:00,280 --> 00:31:04,160
+rapidly producing large
+quantities of carbon dioxide and
+
+476
+00:31:04,160 --> 00:31:08,300
+lactic acid lowering ph
+which generates local heat
+
+477
+00:31:09,140 --> 00:31:11,220
+which of the following
+best describes the
+
+478
+00:31:11,220 --> 00:31:13,920
+physiological shift occurring
+in the hemoglobin oxygen
+
+479
+00:31:13,920 --> 00:31:17,280
+dissociation curve within
+this localized muscle
+
+480
+00:31:17,280 --> 00:31:19,520
+tissue and what's its
+functional benefit it.
+
+481
+00:31:20,360 --> 00:31:24,700
+So question number
+one to you is, should
+
+482
+00:31:24,700 --> 00:31:28,580
+it become easier to
+unload oxygen from
+
+483
+00:31:28,580 --> 00:31:30,980
+hemoglobin or should it
+become more difficult?
+
+484
+00:31:32,600 --> 00:31:38,320
+Well, the muscle is in a
+state of high oxygen demand.
+
+485
+00:31:38,380 --> 00:31:41,860
+So it would be good
+if it became easier
+
+486
+00:31:41,860 --> 00:31:45,520
+for the muscle to obtain
+that oxygen that's
+
+487
+00:31:45,520 --> 00:31:48,240
+bound to hemoglobin,
+and that is associated
+
+488
+00:31:48,240 --> 00:31:51,520
+with a left-ward or
+right-ward shift.
+
+489
+00:31:53,360 --> 00:31:57,520
+It's associated with a right
+-ward shift. So, and that,
+
+490
+00:31:57,880 --> 00:32:02,380
+you know, makes answers B
+and D potentially correct.
+
+491
+00:32:02,810 --> 00:32:05,180
+Let's look at all
+of them. A left-ward
+
+492
+00:32:05,180 --> 00:32:07,920
+shift A, which increases
+hemoglobin's affinity
+
+493
+00:32:07,920 --> 00:32:09,880
+for oxygen to ensure
+that muscle tissue
+
+494
+00:32:09,880 --> 00:32:13,720
+absorbs gas faster,
+is not true because,
+
+495
+00:32:14,140 --> 00:32:17,810
+you know, a leftward shift
+makes it more difficult
+
+496
+00:32:17,810 --> 00:32:21,940
+for hemoglobin to unload
+oxygen and also then more
+
+497
+00:32:21,940 --> 00:32:25,820
+difficult for the muscle to
+obtain it so it has to be a
+
+498
+00:32:25,820 --> 00:32:28,400
+rightward shift which is
+also called a bore shift
+
+499
+00:32:28,400 --> 00:32:31,780
+which decreases hemoglobin's
+affinity for oxygen
+
+500
+00:32:31,780 --> 00:32:35,500
+facilitating its unloading to
+the oxygen starved muscle so
+
+501
+00:32:35,500 --> 00:32:40,420
+b in this case is the correct
+answer what are factors
+
+502
+00:32:40,420 --> 00:32:43,900
+that cause the bore shift
+well we have this in the
+
+503
+00:32:43,900 --> 00:32:48,740
+vignette we have high carbon
+dioxide uh we have low
+
+504
+00:32:48,740 --> 00:32:52,720
+ph so build up of lactic
+acid we have increased heat
+
+505
+00:32:52,720 --> 00:32:58,180
+um and then there's another
+factor two three dpg um
+
+506
+00:32:58,520 --> 00:33:03,660
+like a metabolite those all
+facilitate the rightward
+
+507
+00:33:03,660 --> 00:33:10,120
+shift called bore shift um
+and just as a note that goes
+
+508
+00:33:10,120 --> 00:33:15,980
+with a tout state of
+hemoglobin so that's something
+
+509
+00:33:15,980 --> 00:33:19,620
+that you look at that
+you look at later so when
+
+510
+00:33:19,620 --> 00:33:25,160
+hemoglobin tightens up um that
+actually goes with an easier
+
+511
+00:33:25,160 --> 00:33:28,120
+release of oxygen kind
+of makes sense you know
+
+512
+00:33:28,120 --> 00:33:31,240
+tightening up means less
+space for stuff to bind that
+
+513
+00:33:31,240 --> 00:33:36,480
+releases oxygen faster so um
+in other words in a relaxed
+
+514
+00:33:36,480 --> 00:33:41,850
+state hemoglobin holds on
+more tightly to oxygen um
+
+515
+00:33:41,850 --> 00:33:46,400
+let's look at c leftward
+shift we already said that's
+
+516
+00:33:46,400 --> 00:33:49,820
+not the correct answer it's
+rightward shift it also says
+
+517
+00:33:49,820 --> 00:33:54,100
+that the leftward shift
+leads to uh the formation
+
+518
+00:33:54,100 --> 00:33:58,700
+of the relaxed state um
+you know which prevents the
+
+519
+00:33:58,700 --> 00:34:04,630
+premature release of oxygen
+so we want the more premature
+
+520
+00:34:04,840 --> 00:34:08,360
+release so we want the
+right shift the right which
+
+521
+00:34:08,360 --> 00:34:12,120
+if which binds oxygen more
+tightly to hemoglobin to
+
+522
+00:34:12,120 --> 00:34:15,400
+protect the red blood cells
+from acidic denaturation um
+
+523
+00:34:15,400 --> 00:34:19,420
+that's not true right which
+shift releases oxygen more
+
+524
+00:34:19,420 --> 00:34:24,020
+easily and then e no shift
+occurs because of systemic
+
+525
+00:34:24,020 --> 00:34:27,420
+bariceptor automatically
+just cardiac output to keep
+
+526
+00:34:27,420 --> 00:34:31,240
+local tissue curves completely
+constant so the cardiac
+
+527
+00:34:31,240 --> 00:34:36,520
+output here is unrelated
+to the biochemical
+
+528
+00:34:36,520 --> 00:34:40,660
+functioning of hemoglobin so
+the correct answer here is b
+
+529
+00:34:43,950 --> 00:34:48,180
+i'm repeating myself here
+but please remember that i'm
+
+530
+00:34:48,180 --> 00:34:51,360
+staring very close to the
+Constanza Physiology book.
+
+531
+00:34:52,600 --> 00:34:55,920
+Also a good time to
+remind you again of the
+
+532
+00:34:55,920 --> 00:34:59,400
+summary portion of the
+chapter being very good.
+
+533
+00:34:59,640 --> 00:35:03,400
+There are also self-quizzing
+questions that are not
+
+534
+00:35:03,400 --> 00:35:06,100
+medical board style, but
+they hit on all of the
+
+535
+00:35:06,100 --> 00:35:09,000
+important concepts that you
+need to know. And at the end
+
+536
+00:35:09,000 --> 00:35:12,700
+of the book is a section
+where you can look up your
+
+537
+00:35:12,700 --> 00:35:20,160
+answer if you're so inclined
+please let me know what
+
+538
+00:35:20,160 --> 00:35:24,240
+you thought of this so
+I'm always happy for some
+
+539
+00:35:24,240 --> 00:35:28,140
+feedback if it's positive
+feedback that's marvelous
+
+540
+00:35:28,140 --> 00:35:32,060
+if there's anything that
+I could have done a better
+
+541
+00:35:32,060 --> 00:35:35,880
+job with let me know thank
+you and see you next time

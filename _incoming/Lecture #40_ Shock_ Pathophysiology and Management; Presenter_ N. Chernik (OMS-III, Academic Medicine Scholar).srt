@@ -1,0 +1,5095 @@
+1
+00:00:00,760 --> 00:00:03,020
+Hello everyone, my
+name is Noah Chernick,
+
+2
+00:00:03,020 --> 00:00:04,910
+I'm one of your academic
+medicine scholars,
+
+3
+00:00:04,910 --> 00:00:07,660
+and I'm excited to
+present to you guys about
+
+4
+00:00:07,660 --> 00:00:10,680
+the pathophysiology and
+management of shock.
+
+5
+00:00:10,680 --> 00:00:13,460
+I'd like to thank Dr.
+Yusupov, who helped me
+
+6
+00:00:13,460 --> 00:00:16,220
+create this lecture,
+and let's get started.
+
+7
+00:00:16,640 --> 00:00:19,160
+Here are our learning
+objectives for today.
+
+8
+00:00:19,840 --> 00:00:22,720
+So I wanted to quickly
+describe the lecture
+
+9
+00:00:22,720 --> 00:00:24,740
+layout for you all. So
+we're going to start
+
+10
+00:00:24,740 --> 00:00:26,600
+with the actual
+measurements to describe
+
+11
+00:00:26,600 --> 00:00:29,820
+shock. These concepts
+are also discussed in the
+
+12
+00:00:29,820 --> 00:00:31,820
+following lectures
+that are listed below.
+
+13
+00:00:32,100 --> 00:00:34,840
+Here we're just going to
+do a very brief overview
+
+14
+00:00:34,840 --> 00:00:37,900
+and introduce them in a
+way that is applicable
+
+15
+00:00:37,900 --> 00:00:40,780
+to our discussion about
+the pathophysiology.
+
+16
+00:00:41,020 --> 00:00:43,140
+After we go through
+these measurements, we're
+
+17
+00:00:43,140 --> 00:00:45,540
+actually going to discuss
+the four different
+
+18
+00:00:45,540 --> 00:00:48,220
+categories of shock,
+and then finally we will
+
+19
+00:00:48,220 --> 00:00:50,100
+finish up with a little
+bit of management
+
+20
+00:00:50,100 --> 00:00:52,740
+about how to deal with
+the four types of shock.
+
+21
+00:00:53,960 --> 00:00:56,600
+So there are five
+main measurements used
+
+22
+00:00:56,600 --> 00:00:58,520
+to determine what type
+of shock a patient
+
+23
+00:00:58,520 --> 00:01:01,080
+is in. Hopefully you
+guys have seen these
+
+24
+00:01:01,080 --> 00:01:03,620
+terms before in your
+physiology lectures.
+
+25
+00:01:03,800 --> 00:01:05,360
+And again, just as a reminder,
+
+26
+00:01:05,360 --> 00:01:07,260
+we're not going
+very in-depth here.
+
+27
+00:01:07,440 --> 00:01:10,000
+So one, post capillary
+wedge pressure,
+
+28
+00:01:10,000 --> 00:01:12,560
+it's the measurement
+of the pressure and
+
+29
+00:01:12,560 --> 00:01:15,560
+or volume of blood
+in the left atrium.
+
+30
+00:01:15,960 --> 00:01:19,380
+Cardiac output is a formula,
+which is essentially
+
+31
+00:01:19,380 --> 00:01:22,600
+the stroke volume and
+the rate of the strokes.
+
+32
+00:01:23,120 --> 00:01:26,210
+Systemic vascular
+resistance measures the
+
+33
+00:01:26,210 --> 00:01:27,880
+constriction of the
+arterioles in the
+
+34
+00:01:27,880 --> 00:01:31,380
+systemic vasculature,
+so essentially any form
+
+35
+00:01:31,380 --> 00:01:33,900
+of vessel that is
+outside of the heart.
+
+36
+00:01:34,900 --> 00:01:38,480
+SVO2, or saturation
+of venous O2, measures
+
+37
+00:01:38,480 --> 00:01:40,980
+the amount of oxygen in
+the venous circulation,
+
+38
+00:01:40,980 --> 00:01:43,260
+so this actually will
+assess the ability
+
+39
+00:01:43,260 --> 00:01:45,720
+of a tissue to extract
+oxygen from the
+
+40
+00:01:45,720 --> 00:01:48,960
+arterioles and finally
+central venous pressure
+
+41
+00:01:49,200 --> 00:01:51,760
+is essentially the amount
+of blood returning to the
+
+42
+00:01:51,760 --> 00:01:55,300
+heart and think about this as
+a counterpart to postcapillary
+
+43
+00:01:55,300 --> 00:01:58,160
+wedge pressure but this
+measurement will assess
+
+44
+00:01:58,160 --> 00:02:01,980
+the amount of blood or
+pressure in the right atrium so
+
+45
+00:02:04,940 --> 00:02:07,940
+for postcapillary wedge pressure
+it is again the measurement
+
+46
+00:02:07,940 --> 00:02:10,560
+of the pressure in the
+left atrium of the heart.
+
+47
+00:02:10,860 --> 00:02:13,900
+It is key for helping
+to distinguish between
+
+48
+00:02:13,900 --> 00:02:16,540
+the two types of obstructive
+shock, and we'll go
+
+49
+00:02:16,540 --> 00:02:18,620
+into these in a little
+bit more detail later.
+
+50
+00:02:18,760 --> 00:02:21,660
+So if there's an
+obstruction before the left
+
+51
+00:02:21,660 --> 00:02:24,560
+atrium, like a pulmonary
+embolism or tension
+
+52
+00:02:24,560 --> 00:02:27,240
+pneumothorax, the
+postcapillary wedge pressure
+
+53
+00:02:27,240 --> 00:02:30,280
+will be low. The blood
+can't flow into the
+
+54
+00:02:30,280 --> 00:02:32,860
+left atrium from the
+pulmonary vasculature.
+
+55
+00:02:33,160 --> 00:02:36,120
+If there's an obstruction
+after the left atrium,
+
+56
+00:02:36,120 --> 00:02:38,860
+or there's obstruction
+that affects the
+
+57
+00:02:38,860 --> 00:02:41,660
+entire heart, think of
+something like a tamponade
+
+58
+00:02:41,660 --> 00:02:44,000
+where the entire heart
+is squeezed down, the
+
+59
+00:02:44,000 --> 00:02:46,100
+post capillary wedge
+pressure will be high.
+
+60
+00:02:46,220 --> 00:02:49,340
+And it can be measured
+with a Swann-Gans catheter.
+
+61
+00:02:50,820 --> 00:02:54,240
+To review cardiac output,
+again it's a formula derived
+
+62
+00:02:54,240 --> 00:02:57,480
+from the stroke volume
+and rate. All changes in
+
+63
+00:02:57,480 --> 00:03:00,380
+cardiac output must be
+produced by changes in either
+
+64
+00:03:00,380 --> 00:03:02,680
+one of these two things.
+So you can either change
+
+65
+00:03:02,680 --> 00:03:05,340
+the heart rate or you can
+change the stroke volume.
+
+66
+00:03:05,640 --> 00:03:09,060
+The cardiac output can be
+altered by both sympathetic
+
+67
+00:03:09,060 --> 00:03:11,820
+and parasympathetic
+responses, so that
+
+68
+00:03:11,820 --> 00:03:14,400
+essentially will increase
+or decrease our heart rate.
+
+69
+00:03:14,400 --> 00:03:16,900
+And cardiac output
+can also be altered by
+
+70
+00:03:16,900 --> 00:03:18,620
+the preload and
+afterload in the left
+
+71
+00:03:18,620 --> 00:03:21,220
+ventricle, which affects
+the stroke volume.
+
+72
+00:03:21,800 --> 00:03:25,420
+So total peripheral resistance
+or systemic vascular
+
+73
+00:03:25,420 --> 00:03:28,180
+resistance, these two terms
+can go interchangeably,
+
+74
+00:03:28,320 --> 00:03:29,860
+measures the overall level of
+
+75
+00:03:29,860 --> 00:03:31,900
+constriction in the
+arterial system.
+
+76
+00:03:32,180 --> 00:03:34,140
+It's dictated by
+the resistance of
+
+77
+00:03:34,140 --> 00:03:35,980
+the blood moving
+through the arteries.
+
+78
+00:03:36,320 --> 00:03:40,080
+So if we look at this
+formula here, there's
+
+79
+00:03:41,780 --> 00:03:43,920
+only a few things that
+we can really change.
+
+80
+00:03:43,920 --> 00:03:46,240
+So R is the radius,
+L is the length of
+
+81
+00:03:46,240 --> 00:03:48,440
+the vessel, and N is
+the viscosity of blood.
+
+82
+00:03:48,440 --> 00:03:51,040
+It's a bit difficult to
+change the length. You can
+
+83
+00:03:51,040 --> 00:03:53,640
+change the viscosity. Think
+of someone with anemia,
+
+84
+00:03:53,640 --> 00:03:56,350
+may have a little bit less
+viscous or thinner blood,
+
+85
+00:03:56,350 --> 00:04:00,640
+but radius has the largest
+effect on total systemic
+
+86
+00:04:00,640 --> 00:04:03,680
+vascular resistance its
+radius to the fourth power
+
+87
+00:04:03,680 --> 00:04:08,440
+so if we increase the radius
+or vasodilate we're going
+
+88
+00:04:08,440 --> 00:04:11,440
+to drop the resistance in
+the arterial system the
+
+89
+00:04:11,440 --> 00:04:14,780
+opposite is true as well
+for if we constrict or make
+
+90
+00:04:14,780 --> 00:04:17,860
+the radius smaller so this
+is going to be a really
+
+91
+00:04:17,860 --> 00:04:20,240
+important concept when we
+consider the effects of
+
+92
+00:04:20,420 --> 00:04:22,660
+vasoconstriction and you'll
+see this come into play a
+
+93
+00:04:22,660 --> 00:04:26,700
+little bit later in the
+lecture saturation of venous
+
+94
+00:04:26,700 --> 00:04:30,040
+O2, or SVO2 for short,
+measures the amount of oxygen
+
+95
+00:04:30,040 --> 00:04:33,600
+returning to the right
+heart. It helps to assess
+
+96
+00:04:33,600 --> 00:04:36,180
+the amount of delivery of
+oxygen and also the consumption
+
+97
+00:04:36,180 --> 00:04:39,680
+of oxygen in the tissues.
+So if we have increased
+
+98
+00:04:39,680 --> 00:04:43,140
+SVO2, it actually represents
+a decreased ability
+
+99
+00:04:43,140 --> 00:04:46,660
+of tissues to extract oxygen
+from the blood. In the
+
+100
+00:04:46,660 --> 00:04:49,670
+opposite sense, if we have
+a lower amount of SVO2,
+
+101
+00:04:49,670 --> 00:04:52,180
+it represents an
+increased ability of
+
+102
+00:04:52,180 --> 00:04:54,600
+tissues to extract
+oxygen from the blood.
+
+103
+00:04:55,160 --> 00:04:58,360
+So our last measurement,
+central venous pressure,
+
+104
+00:04:58,360 --> 00:05:01,360
+shows or represents
+the amount of volume
+
+105
+00:05:01,360 --> 00:05:04,220
+and pressure in the right
+atrium of the heart.
+
+106
+00:05:04,360 --> 00:05:07,020
+Again, think about
+it as the venous
+
+107
+00:05:07,020 --> 00:05:09,980
+counterpart of postcapillary
+wedge pressure.
+
+108
+00:05:10,140 --> 00:05:12,080
+So central venous pressure is a
+
+109
+00:05:12,080 --> 00:05:14,140
+balance between two
+opposing forces.
+
+110
+00:05:14,200 --> 00:05:17,020
+One is the ability of
+the heart to pump blood
+
+111
+00:05:17,020 --> 00:05:19,620
+out of the right atrium
+and ventricle and then move
+
+112
+00:05:19,620 --> 00:05:22,860
+into the lungs, and two,
+the blood flow moving
+
+113
+00:05:22,860 --> 00:05:25,200
+from the peripheral veins
+to the right atrium.
+
+114
+00:05:25,200 --> 00:05:27,740
+So we could think we'll
+see an increase in central
+
+115
+00:05:27,740 --> 00:05:30,220
+venous pressure if we
+have an increase in blood
+
+116
+00:05:30,220 --> 00:05:33,640
+volume, if there's an
+increased large vessel tone, or
+
+117
+00:05:33,640 --> 00:05:35,400
+the most important, and
+you'll see this with
+
+118
+00:05:35,400 --> 00:05:39,100
+distributive shock, is
+dilation of the arterioles. So
+
+119
+00:05:39,100 --> 00:05:42,260
+essentially if we allow
+more volume or more fluid to
+
+120
+00:05:42,260 --> 00:05:45,280
+move faster through the
+circulation, you in theory
+
+121
+00:05:45,280 --> 00:05:48,720
+should see more fluid in
+the central venous system.
+
+122
+00:05:49,860 --> 00:05:52,540
+So before we go
+into the specific
+
+123
+00:05:52,540 --> 00:05:54,460
+categories of shock,
+it's important to
+
+124
+00:05:54,460 --> 00:05:56,540
+understand what it
+is as a general term.
+
+125
+00:05:56,880 --> 00:05:59,500
+So shock occurs whenever
+there's a generalized and
+
+126
+00:05:59,500 --> 00:06:02,200
+severe reduction blood
+supply to the body tissues
+
+127
+00:06:02,200 --> 00:06:05,900
+and the tissue needs are
+not met, meaning the tissues
+
+128
+00:06:05,900 --> 00:06:08,600
+can't get enough oxygen
+and nutrients to survive.
+
+129
+00:06:08,840 --> 00:06:11,960
+Even if we have
+cardiovascular compensation,
+
+130
+00:06:11,980 --> 00:06:14,500
+arterial pressure
+will still be low.
+
+131
+00:06:14,720 --> 00:06:18,380
+And shock is typically due
+to one of two main themes
+
+132
+00:06:18,380 --> 00:06:21,760
+or physiologic concepts. So
+you could have a disturbance
+
+133
+00:06:21,760 --> 00:06:24,800
+in cardiac output, so
+the heart isn't working,
+
+134
+00:06:24,800 --> 00:06:26,920
+or maybe there's a blockage
+somewhere in the cardiac
+
+135
+00:06:26,920 --> 00:06:31,700
+system, or systemic vascular
+resistance has changed.
+
+136
+00:06:32,640 --> 00:06:35,200
+Adequate oxygen
+therapy is reliant on
+
+137
+00:06:35,200 --> 00:06:37,060
+the following
+physiologic parameters,
+
+138
+00:06:37,640 --> 00:06:40,660
+cardiac output and systemic
+vascular resistance,
+
+139
+00:06:40,660 --> 00:06:44,140
+meaning again that the only
+way to receive the amount
+
+140
+00:06:44,140 --> 00:06:47,060
+of oxygen necessary to
+survive is through these two
+
+141
+00:06:47,060 --> 00:06:50,700
+parameters being almost in
+sync. When we think about
+
+142
+00:06:50,700 --> 00:06:53,700
+vitals, especially blood
+pressure, which is the main
+
+143
+00:06:53,700 --> 00:06:56,280
+measurement of shock,
+think about shock if your
+
+144
+00:06:56,280 --> 00:07:00,960
+systolic is less than 90 or
+your MAP is less than 65.
+
+145
+00:07:01,900 --> 00:07:05,460
+So here is a table of
+four types of shock. It's
+
+146
+00:07:05,460 --> 00:07:08,680
+presented in this way for a
+high-level overview. We're
+
+147
+00:07:08,680 --> 00:07:10,740
+going to go through each
+of these four categories
+
+148
+00:07:10,740 --> 00:07:15,120
+and explain in much more
+detail than this. As we
+
+149
+00:07:15,120 --> 00:07:17,200
+go through, you're going
+to notice that there's
+
+150
+00:07:17,200 --> 00:07:20,280
+some measurement of one
+of those five measures are
+
+151
+00:07:20,280 --> 00:07:22,760
+highlighted, and the
+highlighted measurement is the
+
+152
+00:07:22,760 --> 00:07:25,440
+primary insult, meaning
+that that is the main
+
+153
+00:07:25,440 --> 00:07:28,260
+driving cause of the type
+of shock we're discussing.
+
+154
+00:07:28,540 --> 00:07:31,960
+So we have four types,
+cardiogenic, distributive,
+
+155
+00:07:31,960 --> 00:07:35,320
+which is a vasodilatory
+effect, hypovolemic, and
+
+156
+00:07:35,320 --> 00:07:38,500
+obstructive. You can read
+the mechanisms, the examples,
+
+157
+00:07:38,500 --> 00:07:40,600
+and the primary insults
+here, but we're going to
+
+158
+00:07:40,600 --> 00:07:43,260
+go into a lot more detail
+in the following slides.
+
+159
+00:07:46,060 --> 00:07:50,540
+So our first type, hypovolemic
+shock. The main cause
+
+160
+00:07:50,540 --> 00:07:53,960
+here is a loss of blood
+or plasma volume, usually
+
+161
+00:07:53,960 --> 00:07:57,460
+around 20% of blood loss.
+So some causes, it could
+
+162
+00:07:57,460 --> 00:08:00,540
+be a hemorrhage, so we're
+just losing blood, or it
+
+163
+00:08:00,540 --> 00:08:03,050
+could be something where
+we're severely dehydrated,
+
+164
+00:08:03,120 --> 00:08:06,060
+so severe vomiting or
+diarrhea, it could be a heat
+
+165
+00:08:06,060 --> 00:08:09,660
+stroke, it could be severe
+burns, or even think of
+
+166
+00:08:09,660 --> 00:08:13,280
+something like third spacing,
+so if we don't have the proper
+
+167
+00:08:13,280 --> 00:08:17,120
+amount of colloids and
+osmotic gradients in the
+
+168
+00:08:17,120 --> 00:08:20,660
+blood vessels, we could lose
+fluid from an intravascular
+
+169
+00:08:20,660 --> 00:08:24,240
+space into an interstitial
+space. So think about your
+
+170
+00:08:24,240 --> 00:08:27,400
+cirrhotic liver patients,
+post-op, or pancreatitis.
+
+171
+00:08:28,080 --> 00:08:31,400
+for patient presentation
+you're going to have narrow
+
+172
+00:08:31,400 --> 00:08:34,840
+pulse pressures very
+important here cool and clammy
+
+173
+00:08:34,840 --> 00:08:38,220
+extremities that's because
+there is a vasoconstrictive
+
+174
+00:08:38,220 --> 00:08:41,360
+effect you're going to have
+poor capillary refill flat
+
+175
+00:08:41,360 --> 00:08:44,920
+jugular neck veins and a
+dry mucous membranes overall
+
+176
+00:08:44,920 --> 00:08:46,560
+these individuals are
+going to look like they're
+
+177
+00:08:46,560 --> 00:08:51,580
+fluid deprived and essentially
+very very dehydrated so
+
+178
+00:08:51,940 --> 00:08:55,400
+looking at this from a
+pathophysiologic perspective,
+
+179
+00:08:55,740 --> 00:08:57,900
+hypovolemia leads
+to reduced cardiac
+
+180
+00:08:57,900 --> 00:09:00,340
+filling and reduced
+stroke volume.
+
+181
+00:09:00,680 --> 00:09:03,040
+Preload in general
+here is decreased.
+
+182
+00:09:03,200 --> 00:09:05,800
+So thinking about our
+five measurements, central
+
+183
+00:09:05,800 --> 00:09:08,140
+venous pressure we
+would see decreased or
+
+184
+00:09:08,140 --> 00:09:10,940
+lower value. This is
+again because we have less
+
+185
+00:09:10,940 --> 00:09:13,300
+overall volume in
+the body and in the
+
+186
+00:09:13,300 --> 00:09:16,460
+vasculature, so we'd
+expect to see less overall
+
+187
+00:09:16,460 --> 00:09:19,020
+pressure and amount of
+blood in the right atrium.
+
+188
+00:09:19,800 --> 00:09:22,720
+Postcapillary reg pressure,
+which is the main or
+
+189
+00:09:22,720 --> 00:09:25,800
+primary insult is going
+to be decreased. You're
+
+190
+00:09:25,800 --> 00:09:28,680
+going to have reduced overall
+volume again which will
+
+191
+00:09:28,680 --> 00:09:31,180
+lead to a decreased amount
+of blood in the left
+
+192
+00:09:31,180 --> 00:09:34,340
+atrium. You're going to
+have a decreased preload.
+
+193
+00:09:35,100 --> 00:09:39,020
+For cardiac output it's
+going to be decreased and
+
+194
+00:09:39,020 --> 00:09:41,180
+that's not because there's
+a decrease in stroke
+
+195
+00:09:41,180 --> 00:09:44,220
+rate but more importantly
+there's a reduced stroke
+
+196
+00:09:44,220 --> 00:09:47,240
+volume that reduces is your
+overall cardiac output.
+
+197
+00:09:47,380 --> 00:09:51,960
+You'll actually have a
+sympathetic reflex and have
+
+198
+00:09:51,960 --> 00:09:55,020
+an increase in stroke rate,
+right? Your heart rate will
+
+199
+00:09:55,020 --> 00:09:58,200
+get faster if the
+baroreceptors understand that
+
+200
+00:09:58,200 --> 00:10:00,980
+there's not enough pressure,
+not enough fluid, so you'll
+
+201
+00:10:00,980 --> 00:10:03,580
+actually have a
+reflexive tachycardia and
+
+202
+00:10:03,580 --> 00:10:07,420
+vasoconstriction, which actually
+leads into our next point.
+
+203
+00:10:07,860 --> 00:10:10,240
+Systemic vascular
+resistance is going to be
+
+204
+00:10:10,240 --> 00:10:13,020
+increased. You're going
+to see an increased SVR
+
+205
+00:10:13,020 --> 00:10:15,280
+in almost all the types
+of shock we discuss.
+
+206
+00:10:16,560 --> 00:10:19,820
+So the baroreceptors
+will sense a decreased
+
+207
+00:10:19,820 --> 00:10:22,580
+mean arterial pressure
+and will increase
+
+208
+00:10:22,580 --> 00:10:25,420
+vasoconstriction by
+making the radius of
+
+209
+00:10:25,420 --> 00:10:28,520
+the vasculature,
+especially the arterioles,
+
+210
+00:10:28,520 --> 00:10:29,120
+smaller.
+
+211
+00:10:29,340 --> 00:10:32,740
+And finally, SVO2 is
+going to be decreased.
+
+212
+00:10:33,060 --> 00:10:36,520
+Because we have a higher
+systemic vascular resistance,
+
+213
+00:10:36,520 --> 00:10:39,400
+the flow of blood is
+actually going to be slower
+
+214
+00:10:39,400 --> 00:10:42,500
+in the capillaries.
+Because the flow of blood
+
+215
+00:10:42,500 --> 00:10:45,520
+is slower, you're actually
+going to have an increased
+
+216
+00:10:45,520 --> 00:10:48,100
+amount of time for gas
+exchange in the tissues.
+
+217
+00:10:48,180 --> 00:10:50,650
+This may be a little
+bit counterintuitive,
+
+218
+00:10:50,840 --> 00:10:53,380
+where if you'd expect
+a higher resistance
+
+219
+00:10:53,420 --> 00:10:55,580
+that the blood can't
+really make it to the
+
+220
+00:10:55,580 --> 00:10:57,620
+tissues, but it's
+actually the opposite.
+
+221
+00:10:57,960 --> 00:11:00,420
+So again, just think
+if the blood is moving
+
+222
+00:11:00,420 --> 00:11:02,680
+slower through the
+capillaries, there's more
+
+223
+00:11:02,680 --> 00:11:06,160
+time for gas exchange
+to happen where oxygen
+
+224
+00:11:06,160 --> 00:11:09,340
+can move from the
+blood into the tissues.
+
+225
+00:11:11,580 --> 00:11:15,060
+Here's a small diagram
+depicting hypovolemic shock.
+
+226
+00:11:15,060 --> 00:11:17,760
+Again, we're going to
+see signs of tissue
+
+227
+00:11:17,760 --> 00:11:19,920
+hypoperfusion, meaning
+the tissues aren't getting
+
+228
+00:11:19,920 --> 00:11:23,980
+enough nutrients to survive,
+which then leads into
+
+229
+00:11:23,980 --> 00:11:28,000
+a circulatory and or
+hypovolemic shock picture.
+
+230
+00:11:28,000 --> 00:11:30,360
+So low estimated
+cardiac output and
+
+231
+00:11:30,360 --> 00:11:33,380
+SVO2, low central
+venous pressures, and
+
+232
+00:11:33,380 --> 00:11:35,740
+you see a hypovolemic
+circulatory shock.
+
+233
+00:11:38,120 --> 00:11:41,300
+So for cardiogenic
+shock, the main cause
+
+234
+00:11:41,300 --> 00:11:43,700
+is decreased myocardial
+contractility.
+
+235
+00:11:43,700 --> 00:11:45,820
+So think of things
+like a heart attack,
+
+236
+00:11:46,080 --> 00:11:50,060
+cardiomyopathy because
+of virus or a drug,
+
+237
+00:11:50,560 --> 00:11:52,240
+decompensated heart failure,
+
+238
+00:11:52,440 --> 00:11:54,100
+acute or end-stage valvular
+
+239
+00:11:54,100 --> 00:11:56,040
+disease, and also dysrhythmias.
+
+240
+00:11:56,720 --> 00:11:59,700
+For patient presentation,
+again, you're going to have
+
+241
+00:11:59,700 --> 00:12:02,420
+narrow pulse pressures,
+cool and clammy extremities,
+
+242
+00:12:02,420 --> 00:12:05,800
+a poor capillary refill,
+and then these last four
+
+243
+00:12:05,800 --> 00:12:09,240
+presentation signs here.
+So your elevated jugular
+
+244
+00:12:09,240 --> 00:12:12,320
+venous pressure, your
+positive hepatojugular reflex,
+
+245
+00:12:12,320 --> 00:12:15,920
+an S3 gallop, and pulmonary
+rails are all because
+
+246
+00:12:15,920 --> 00:12:18,800
+the heart is unable to
+clear or pump the amount of
+
+247
+00:12:18,800 --> 00:12:21,780
+blood moving back through
+the venous system. So
+
+248
+00:12:21,780 --> 00:12:24,240
+you're going to see a fluid
+overloaded patient here.
+
+249
+00:12:25,020 --> 00:12:27,760
+So the pathophysiology
+of cardiogenic
+
+250
+00:12:27,760 --> 00:12:30,560
+shock. Cardiac failure
+leads to increased
+
+251
+00:12:30,560 --> 00:12:33,000
+preload and reduced
+cardiac output.
+
+252
+00:12:33,180 --> 00:12:35,660
+So for central venous
+pressure, we're going to
+
+253
+00:12:35,660 --> 00:12:38,900
+see an increased amount.
+We have fluid accumulation
+
+254
+00:12:38,900 --> 00:12:41,440
+behind the heart. So
+we're going to have more
+
+255
+00:12:41,440 --> 00:12:43,820
+fluid in the right heart
+and the venous system.
+
+256
+00:12:44,420 --> 00:12:47,280
+Postcapillary reg pressure
+is going to be increased.
+
+257
+00:12:47,280 --> 00:12:49,960
+Again, a similar concept
+to central venous pressure.
+
+258
+00:12:50,080 --> 00:12:53,240
+Preload is increased, but
+stroke volume is decreased.
+
+259
+00:12:53,240 --> 00:12:56,540
+We have fluid buildup
+behind the heart. This time
+
+260
+00:12:56,540 --> 00:12:58,880
+we're talking about the
+fluid in the left atrium.
+
+261
+00:12:59,820 --> 00:13:02,620
+Cardiac output, which
+is our main insult or
+
+262
+00:13:02,620 --> 00:13:05,500
+primary insult, is
+going to be decreased.
+
+263
+00:13:05,660 --> 00:13:09,240
+Reduced stroke volume will
+reduce overall cardiac
+
+264
+00:13:09,240 --> 00:13:12,220
+output. We have a decreased
+ejection fraction.
+
+265
+00:13:12,320 --> 00:13:14,480
+Essentially think about
+this as the heart is
+
+266
+00:13:14,480 --> 00:13:18,110
+unable to pump enough
+blood out of the heart to
+
+267
+00:13:18,400 --> 00:13:21,200
+satisfy the tissue
+requirements.
+
+268
+00:13:22,040 --> 00:13:23,940
+Systemic vascular resistance
+
+269
+00:13:23,940 --> 00:13:25,830
+again is going to be increased.
+
+270
+00:13:25,830 --> 00:13:28,780
+Because we have a failing
+heart, we're not going
+
+271
+00:13:28,780 --> 00:13:31,420
+to have an adequate MAP
+or adequate pressure,
+
+272
+00:13:31,420 --> 00:13:34,200
+so the baroceptors will
+sense this decreased
+
+273
+00:13:34,200 --> 00:13:37,180
+mean arterial pressure
+and will have a reflexive
+
+274
+00:13:38,640 --> 00:13:40,980
+vasoconstriction.
+SVO2 is going to be
+
+275
+00:13:40,980 --> 00:13:42,980
+decreased. This
+is again a similar
+
+276
+00:13:42,980 --> 00:13:45,040
+concept with the
+increased resistance.
+
+277
+00:13:45,180 --> 00:13:47,220
+Essentially expect
+to see these two
+
+278
+00:13:47,220 --> 00:13:49,590
+go hand in hand. We
+have an increased
+
+279
+00:13:49,590 --> 00:13:52,870
+SVR, you should see
+a decreased SVO2.
+
+280
+00:13:53,620 --> 00:13:56,180
+So the high resistance
+slows the flow of
+
+281
+00:13:56,180 --> 00:13:57,860
+blood through the
+capillaries increasing
+
+282
+00:13:57,860 --> 00:13:59,880
+the amount of time
+for a gas exchange.
+
+283
+00:14:02,120 --> 00:14:04,840
+Here's a diagram of
+cardiogenic shock.
+
+284
+00:14:07,520 --> 00:14:11,840
+So obstructive shock, our
+next type. There are actually
+
+285
+00:14:11,840 --> 00:14:14,440
+two different causes of
+obstructive shock and
+
+286
+00:14:14,440 --> 00:14:16,500
+we're going to see slightly
+different measurements
+
+287
+00:14:16,500 --> 00:14:19,620
+when we talk about our five
+main measures for shock.
+
+288
+00:14:20,140 --> 00:14:23,300
+So the first type could
+be a pulmonary obstructive
+
+289
+00:14:23,300 --> 00:14:26,480
+shock. So think about this
+as some form of obstruction
+
+290
+00:14:26,480 --> 00:14:29,140
+in the pulmonary vasculature.
+So you're going to
+
+291
+00:14:29,140 --> 00:14:33,400
+see an increased right
+ventricular afterload, meaning
+
+292
+00:14:33,400 --> 00:14:35,480
+that it's harder for the
+right ventricle to pump
+
+293
+00:14:35,480 --> 00:14:38,940
+blood into the pulmonary
+system, but at the same time
+
+294
+00:14:38,940 --> 00:14:41,660
+you're going to see a
+decreased left ventricle
+
+295
+00:14:41,660 --> 00:14:44,720
+preload, meaning that there's
+not enough fluid moving
+
+296
+00:14:44,720 --> 00:14:48,260
+back from the lungs into
+the left side of the heart.
+
+297
+00:14:49,640 --> 00:14:52,040
+There's an increased
+resistance within the
+
+298
+00:14:52,040 --> 00:14:54,200
+pulmonary circulation
+that prevents blood from
+
+299
+00:14:54,200 --> 00:14:56,480
+reaching the left side
+of the heart. So here the
+
+300
+00:14:56,480 --> 00:14:59,000
+big one to think about
+is pulmonary embolism.
+
+301
+00:15:00,480 --> 00:15:04,120
+The other type is a structural
+or obstructive shock.
+
+302
+00:15:04,120 --> 00:15:07,580
+This is a decreased right
+ventricle preload type of
+
+303
+00:15:07,580 --> 00:15:11,600
+situation so think about here
+there's restricted diastole
+
+304
+00:15:11,600 --> 00:15:15,180
+or filling in general so
+the big one here cardiac
+
+305
+00:15:15,180 --> 00:15:18,580
+tamponade you could also think
+about constrictive pericarditis
+
+306
+00:15:18,580 --> 00:15:22,420
+anything that limits the
+ability of the heart to
+
+307
+00:15:22,420 --> 00:15:27,540
+dilate and fill so for
+obstructive shock again very
+
+308
+00:15:27,540 --> 00:15:31,500
+similar to the following three
+narrow pulse pressures cool
+
+309
+00:15:31,500 --> 00:15:34,580
+and clammy extremities and
+a poor capillary refill.
+
+310
+00:15:36,580 --> 00:15:40,580
+In a tension pneumothorax
+situation, expect absent
+
+311
+00:15:40,580 --> 00:15:43,940
+breath sounds. For cardiac
+tamponade, you could
+
+312
+00:15:43,940 --> 00:15:46,540
+think about distant heart
+sounds, jugular venous
+
+313
+00:15:46,540 --> 00:15:50,400
+distension, and hypotension.
+For pulmonary embolism,
+
+314
+00:15:50,400 --> 00:15:52,880
+think about dyspnea and
+shortness of breath.
+
+315
+00:15:54,660 --> 00:15:56,740
+For pathophysiology,
+
+316
+00:15:57,020 --> 00:15:59,580
+again, obstruction leads
+to a decreased preload
+
+317
+00:15:59,580 --> 00:16:02,600
+and a reduced cardiac
+output. Again, very
+
+318
+00:16:02,600 --> 00:16:05,260
+similar concept to the
+two previous ones we
+
+319
+00:16:05,260 --> 00:16:08,140
+were discussing, especially
+cardiogenic shock.
+
+320
+00:16:08,480 --> 00:16:11,400
+So for central venous pressure,
+again, we would expect
+
+321
+00:16:11,400 --> 00:16:14,220
+it to be increased. We
+have more fluid behind the
+
+322
+00:16:14,220 --> 00:16:17,360
+heart in the venous system.
+The heart isn't able to
+
+323
+00:16:17,360 --> 00:16:19,880
+pump it because of some
+obstruction, so we're going
+
+324
+00:16:19,880 --> 00:16:23,060
+to have a backup in the
+venous system. Your post
+
+325
+00:16:23,060 --> 00:16:26,260
+-capillary wedge pressure is
+going to be variable here.
+
+326
+00:16:26,460 --> 00:16:29,860
+So for a pulmonary
+obstruction, we have something
+
+327
+00:16:29,860 --> 00:16:33,420
+blocking the pulmonary
+vasculature, the postcapillary
+
+328
+00:16:33,420 --> 00:16:35,620
+wedge pressure or the
+measurement of pressure
+
+329
+00:16:35,620 --> 00:16:39,740
+in the left atrium is
+going to be decreased. So
+
+330
+00:16:39,740 --> 00:16:42,860
+blood is obstructed before
+we enter that left atrium.
+
+331
+00:16:42,860 --> 00:16:45,120
+We're going to have
+decreased left ventricle
+
+332
+00:16:45,120 --> 00:16:47,980
+preload and an increased
+right ventricle afterload.
+
+333
+00:16:48,860 --> 00:16:52,280
+If we have a cardiac
+constriction, the postcapillary
+
+334
+00:16:52,280 --> 00:16:54,100
+wedge pressure is
+going to be increased.
+
+335
+00:16:54,200 --> 00:16:56,960
+Think about this as
+a cardiac tamponade.
+
+336
+00:16:56,960 --> 00:16:59,320
+So the entire heart
+here is constricted.
+
+337
+00:16:59,320 --> 00:17:01,840
+we have reduced
+diastolic filling ability
+
+338
+00:17:01,840 --> 00:17:04,120
+and decreased stroke
+volume all together.
+
+339
+00:17:04,240 --> 00:17:06,580
+We're going to have a
+decreased right ventricle
+
+340
+00:17:06,580 --> 00:17:08,960
+preload and a decreased
+diastolic filling.
+
+341
+00:17:09,900 --> 00:17:12,120
+For cardiac output, regardless
+
+342
+00:17:12,120 --> 00:17:13,940
+of where the obstruction is,
+
+343
+00:17:13,940 --> 00:17:16,820
+the heart isn't able to pump
+the right amount of blood
+
+344
+00:17:16,820 --> 00:17:19,520
+out into the system, so
+we're going to have a
+
+345
+00:17:19,520 --> 00:17:22,840
+decreased cardiac output,
+again because of stroke volume.
+
+346
+00:17:23,500 --> 00:17:26,460
+Systemic vascular
+resistance is going to be
+
+347
+00:17:26,460 --> 00:17:29,440
+increased. Again, similar
+concept. Because our
+
+348
+00:17:29,440 --> 00:17:32,240
+cardiac output is failing,
+we have dropped arterial
+
+349
+00:17:32,240 --> 00:17:34,180
+pressures, central
+nervous system will
+
+350
+00:17:34,180 --> 00:17:37,240
+promote vasoconstriction,
+making the radius of those
+
+351
+00:17:37,240 --> 00:17:39,520
+vessels smaller,
+increasing our resistance.
+
+352
+00:17:39,960 --> 00:17:42,120
+And again, these two go hand in
+
+353
+00:17:42,120 --> 00:17:44,480
+hand. SVO2 will
+be decreased here.
+
+354
+00:17:44,680 --> 00:17:47,040
+Higher resistance means
+the blood is moving
+
+355
+00:17:47,040 --> 00:17:49,360
+slower through the
+capillaries, increasing
+
+356
+00:17:49,360 --> 00:17:51,060
+the amount of time
+for gas exchange.
+
+357
+00:17:53,780 --> 00:17:57,280
+Here's a diagram of
+obstructive shock. Again, we
+
+358
+00:17:57,280 --> 00:17:59,500
+could have two different
+places where the obstruction
+
+359
+00:17:59,500 --> 00:18:02,220
+is occurring. It could
+be in the actual heart
+
+360
+00:18:02,220 --> 00:18:05,400
+itself, so the heart
+isn't able to fill, or
+
+361
+00:18:05,400 --> 00:18:07,880
+there could be an obstruction
+between the right side
+
+362
+00:18:07,880 --> 00:18:10,760
+of the heart and the
+lungs, meaning that blood
+
+363
+00:18:10,760 --> 00:18:13,380
+is not flowing into the
+left side of the heart.
+
+364
+00:18:15,220 --> 00:18:18,200
+So the last type of
+shock actually has three
+
+365
+00:18:18,200 --> 00:18:20,860
+different types within
+it. So distributive shock.
+
+366
+00:18:21,240 --> 00:18:24,960
+The main cause here, the
+main aspect that creates
+
+367
+00:18:24,960 --> 00:18:27,900
+distributive shock is a
+loss of vascular tone.
+
+368
+00:18:27,900 --> 00:18:31,060
+So what I mean by that
+is the vessels aren't
+
+369
+00:18:31,060 --> 00:18:34,440
+able to vasoconstrict
+anymore. They very much
+
+370
+00:18:34,440 --> 00:18:37,480
+dilate, causing a severe
+drop in blood pressure.
+
+371
+00:18:37,600 --> 00:18:40,120
+So there are three types,
+two that we'll talk
+
+372
+00:18:40,120 --> 00:18:42,040
+about a little bit more,
+and then one that we'll
+
+373
+00:18:42,040 --> 00:18:44,720
+just touch on just so
+you have a complete idea,
+
+374
+00:18:44,720 --> 00:18:47,360
+but it's not as necessarily
+heavily stressed.
+
+375
+00:18:47,380 --> 00:18:50,220
+So for septic
+shock, anaphylactic
+
+376
+00:18:50,220 --> 00:18:52,120
+shock, and neurogenic
+shock, the first
+
+377
+00:18:52,120 --> 00:18:54,040
+two are the main
+ones we talk about.
+
+378
+00:18:54,540 --> 00:18:56,480
+Sepsis, again, is
+due to infection, and
+
+379
+00:18:56,480 --> 00:18:59,100
+anaphylaxis is an
+allergic reaction.
+
+380
+00:18:59,300 --> 00:19:01,540
+Neurogenic, we'll talk
+about, it's usually
+
+381
+00:19:01,540 --> 00:19:04,120
+due to a nervous
+system insult, so
+
+382
+00:19:04,120 --> 00:19:06,520
+a brain injury or a
+spinal cord injury.
+
+383
+00:19:06,610 --> 00:19:10,120
+For patient presentation,
+this is going to be a
+
+384
+00:19:10,120 --> 00:19:14,260
+very different kind of
+presentation compared to the
+
+385
+00:19:14,260 --> 00:19:17,080
+previous three types of
+shock so now we have a
+
+386
+00:19:17,080 --> 00:19:20,360
+wide pulse pressure we
+also have warm and dry skin
+
+387
+00:19:20,360 --> 00:19:22,660
+compared to the cool and
+clammy skin we talked
+
+388
+00:19:22,660 --> 00:19:26,520
+about with the three other
+types of shock this is a
+
+389
+00:19:26,520 --> 00:19:29,300
+really important thing
+to look on when we think
+
+390
+00:19:29,300 --> 00:19:31,980
+about practice questions
+either for exams or boards
+
+391
+00:19:31,980 --> 00:19:34,580
+because warm and dry skin
+should be an immediate
+
+392
+00:19:34,580 --> 00:19:37,760
+tell that this is a form
+of distributive shock,
+
+393
+00:19:37,860 --> 00:19:41,760
+not your cardiogenic,
+obstructive, or hypovolemic.
+
+394
+00:19:42,230 --> 00:19:44,580
+In neurogenic shock, you're
+going to have loss of
+
+395
+00:19:44,580 --> 00:19:48,080
+sympathetic tone. And think
+about with anaphylaxis,
+
+396
+00:19:48,080 --> 00:19:49,840
+you're going to see
+some signs and symptoms.
+
+397
+00:19:49,840 --> 00:19:52,660
+So hives, uticaria,
+stridor, airway compromise.
+
+398
+00:19:54,580 --> 00:19:57,360
+So again, for
+pathophysiology, distributive
+
+399
+00:19:57,360 --> 00:19:59,020
+shock is due to
+loss of vascular
+
+400
+00:19:59,020 --> 00:20:01,260
+tone, leading to
+decreased resistance.
+
+401
+00:20:01,480 --> 00:20:05,240
+So our primary insult
+here is a drop of
+
+402
+00:20:05,240 --> 00:20:09,200
+systemic resistance.
+We have a vasodilatory
+
+403
+00:20:09,200 --> 00:20:11,840
+effect in the
+systemic vasculature.
+
+404
+00:20:12,120 --> 00:20:15,660
+So for central venous
+pressure, you may actually
+
+405
+00:20:15,660 --> 00:20:18,360
+expect this to be
+increased, and I want to
+
+406
+00:20:18,360 --> 00:20:20,680
+talk a little bit about
+if you are confused
+
+407
+00:20:20,740 --> 00:20:25,540
+about this. So for central
+venous pressure, the
+
+408
+00:20:25,540 --> 00:20:28,180
+vascular tone is going
+to be dropped in the
+
+409
+00:20:28,180 --> 00:20:30,720
+venous system as well
+as the urcarial system.
+
+410
+00:20:31,100 --> 00:20:33,800
+So even though the blood
+has less resistance to move
+
+411
+00:20:33,800 --> 00:20:37,200
+back into the heart, instead
+of moving back into the
+
+412
+00:20:37,200 --> 00:20:40,320
+heart, the blood is going to
+pool in the venous system.
+
+413
+00:20:40,680 --> 00:20:44,380
+So we're going to have
+decreased amounts of blood
+
+414
+00:20:44,380 --> 00:20:46,860
+moving back into the right
+atrium, increased amounts
+
+415
+00:20:46,860 --> 00:20:49,780
+still sitting in the
+venous vasculature. So our
+
+416
+00:20:49,780 --> 00:20:52,320
+central venous pressure is
+going to be decreased here.
+
+417
+00:20:53,260 --> 00:20:56,000
+Postcapillary wedge pressure
+is going to be decreased.
+
+418
+00:20:56,000 --> 00:20:58,760
+We have increased
+vasodilation, allowing for
+
+419
+00:20:58,760 --> 00:21:01,380
+more blood to remain within
+the circulatory system.
+
+420
+00:21:01,600 --> 00:21:04,100
+Similar concept
+that we just spoke
+
+421
+00:21:04,100 --> 00:21:05,620
+about with the central
+venous pressure.
+
+422
+00:21:06,220 --> 00:21:09,300
+Cardiac output is actually
+going to be variable here.
+
+423
+00:21:09,420 --> 00:21:12,520
+So for your septic and
+anaphylactic shocks, you're
+
+424
+00:21:12,520 --> 00:21:15,380
+going to see an increased
+cardiac output, and this is
+
+425
+00:21:15,380 --> 00:21:17,920
+because of the sympathetic
+response to a drop of the
+
+426
+00:21:17,920 --> 00:21:21,080
+vascular cone. So again,
+the baroceptors are going to
+
+427
+00:21:21,080 --> 00:21:23,920
+realize that there is drop
+in pressure and cause a
+
+428
+00:21:23,920 --> 00:21:27,940
+reflexive tachycardia. In
+neurogenic it's going to be
+
+429
+00:21:27,940 --> 00:21:30,520
+decreased and this is because
+there's no sympathetic
+
+430
+00:21:30,520 --> 00:21:33,460
+response due to an injury of
+the central nervous system.
+
+431
+00:21:33,680 --> 00:21:36,860
+So the baroreceptors will
+still notice that there
+
+432
+00:21:36,860 --> 00:21:39,220
+is a drop in blood
+pressure but the central
+
+433
+00:21:39,220 --> 00:21:42,520
+nervous system does not
+have the ability to cause a
+
+434
+00:21:42,520 --> 00:21:44,840
+reflexive tachycardia
+because there's some form
+
+435
+00:21:44,840 --> 00:21:47,700
+of injury with the
+signaling back to the heart.
+
+436
+00:21:48,560 --> 00:21:52,000
+Your systemic vascular
+resistance is decreased.
+
+437
+00:21:52,000 --> 00:21:54,960
+Again, this is driving all
+the physiologic changes
+
+438
+00:21:54,960 --> 00:21:57,700
+and the disturbance we
+see in distributive shock.
+
+439
+00:21:58,360 --> 00:22:01,640
+SVO2 here is actually now
+going to be increased.
+
+440
+00:22:01,980 --> 00:22:04,740
+Because we have a lower
+amount of resistance in
+
+441
+00:22:04,740 --> 00:22:07,420
+the capillaries, we have
+an increased speed of
+
+442
+00:22:07,420 --> 00:22:10,460
+the blood moving through
+the capillaries. Since the
+
+443
+00:22:10,460 --> 00:22:13,020
+blood is not sitting in
+the capillaries as long
+
+444
+00:22:13,020 --> 00:22:15,080
+as you would see in the
+other three types of
+
+445
+00:22:15,080 --> 00:22:17,940
+shock, you're actually
+going to have an increased
+
+446
+00:22:17,940 --> 00:22:21,620
+SVO2 because there's less
+time for gas exchange.
+
+447
+00:22:23,340 --> 00:22:26,420
+So here is a diagram
+of distributive
+
+448
+00:22:26,420 --> 00:22:29,340
+shock. Again, one of
+the main signs that we
+
+449
+00:22:29,340 --> 00:22:31,600
+could think about
+here is warm and dry.
+
+450
+00:22:33,960 --> 00:22:38,100
+So for the pathophysiology,
+for septic shock, again
+
+451
+00:22:38,100 --> 00:22:41,320
+we're not going to go into as
+much details our microbiology
+
+452
+00:22:41,320 --> 00:22:44,520
+courses. This is more
+of a high-level view and
+
+453
+00:22:44,520 --> 00:22:48,960
+why we see septic shock
+causing vasodilation. So septic
+
+454
+00:22:48,960 --> 00:22:51,240
+shock is usually caused
+by gram-negative bacteria
+
+455
+00:22:51,240 --> 00:22:55,080
+mediated by endotoxins known
+as lipopolysaccharides.
+
+456
+00:22:55,360 --> 00:22:59,240
+Within the LPS, specifically
+on the lipid A portion,
+
+457
+00:22:59,240 --> 00:23:02,000
+it binds to pattern
+recognition receptors called
+
+458
+00:23:02,000 --> 00:23:05,860
+toll-like receptor 4 on
+macrophages and B cells.
+
+459
+00:23:06,380 --> 00:23:09,080
+Activating toll-like
+receptor 4 stimulates the
+
+460
+00:23:09,080 --> 00:23:13,920
+production of IL-1, TNF,
+and IL-6. These cytokines
+
+461
+00:23:13,920 --> 00:23:16,660
+promote fever, weaken the
+bond between endothelial
+
+462
+00:23:16,660 --> 00:23:19,700
+cells, and recruit further
+inflammation in the cells.
+
+463
+00:23:20,300 --> 00:23:23,860
+Nitric oxide is also released,
+causing vasodilation.
+
+464
+00:23:23,960 --> 00:23:27,340
+So very briefly, to kind
+of recap these two things,
+
+465
+00:23:27,340 --> 00:23:31,500
+we're going to have an
+increase of vascular radius,
+
+466
+00:23:31,500 --> 00:23:34,120
+right, with our vasodilation
+due to nitric oxide,
+
+467
+00:23:34,120 --> 00:23:37,200
+but also when we weaken the
+bond between endothelial
+
+468
+00:23:37,200 --> 00:23:40,680
+cells, it allows for some
+of the fluid within the
+
+469
+00:23:40,680 --> 00:23:44,860
+vasculature to escape into
+an interstitium. So this
+
+470
+00:23:44,860 --> 00:23:46,500
+is what we were talking
+about a little bit earlier
+
+471
+00:23:46,500 --> 00:23:49,480
+as something you can see
+in the hypovolemic patient
+
+472
+00:23:49,480 --> 00:23:53,160
+with third spacing. You
+also see it in septic shock.
+
+473
+00:23:54,420 --> 00:23:57,560
+LPS can also activate
+the coagulation cascade,
+
+474
+00:23:57,560 --> 00:24:00,160
+which causes disseminated
+intravascular
+
+475
+00:24:00,160 --> 00:24:02,540
+coagulation via tissue
+factor production.
+
+476
+00:24:02,540 --> 00:24:05,360
+You don't, for our
+purposes, need to understand
+
+477
+00:24:05,360 --> 00:24:08,160
+that whole entire pathway,
+just more recognize
+
+478
+00:24:08,160 --> 00:24:12,300
+it as a potential
+result of septic shock.
+
+479
+00:24:14,220 --> 00:24:16,480
+So there are a few
+criteria that help
+
+480
+00:24:16,480 --> 00:24:19,340
+define or identify
+sepsis in patients.
+
+481
+00:24:19,560 --> 00:24:22,060
+The first one is SERS
+criteria. It's a little
+
+482
+00:24:22,060 --> 00:24:24,880
+bit older and it's
+typically you see used
+
+483
+00:24:24,880 --> 00:24:26,800
+a little bit more in
+a hospital setting to
+
+484
+00:24:26,800 --> 00:24:29,480
+assess systemic
+inflammation and or sepsis.
+
+485
+00:24:30,920 --> 00:24:34,060
+SERS is defined of meeting
+two of the four following
+
+486
+00:24:34,060 --> 00:24:37,680
+criteria. So a temperature
+over 38 or under 36,
+
+487
+00:24:37,700 --> 00:24:40,620
+heart rate greater than
+90, your respiratory rate
+
+488
+00:24:40,620 --> 00:24:43,160
+greater than 20 breaths
+per minute, or a partial
+
+489
+00:24:43,160 --> 00:24:47,120
+pressure of CO2 less than
+32 millimeters of mercury,
+
+490
+00:24:47,200 --> 00:24:49,740
+and your luteocyte
+count is greater than
+
+491
+00:24:49,740 --> 00:24:54,640
+12,000 or less than
+4,000, or over 10
+
+492
+00:24:54,640 --> 00:24:57,180
+% immature bands of
+white blood cells.
+
+493
+00:24:57,480 --> 00:24:59,820
+As you can see here, this
+
+494
+00:24:59,820 --> 00:25:01,620
+criteria is a little bit loose.
+
+495
+00:25:02,190 --> 00:25:04,940
+There's a bunch of different
+things that can cause
+
+496
+00:25:05,100 --> 00:25:07,260
+all of these responses,
+right? You could have an
+
+497
+00:25:07,260 --> 00:25:09,340
+individual who may just be
+a little short of breath.
+
+498
+00:25:09,340 --> 00:25:12,860
+You could see them at
+tachycardic and a respiratory
+
+499
+00:25:12,860 --> 00:25:15,660
+rate greater than 20.
+That doesn't necessarily
+
+500
+00:25:15,660 --> 00:25:19,220
+mean they have systemic
+inflammation and or sepsis.
+
+501
+00:25:19,780 --> 00:25:23,580
+So for some definitions,
+sepsis is a life
+
+502
+00:25:23,580 --> 00:25:25,900
+-threatening organ dysfunction
+caused by dysregulated
+
+503
+00:25:25,900 --> 00:25:28,900
+host response to
+infection. Severe sepsis
+
+504
+00:25:28,900 --> 00:25:31,680
+is sepsis with one or
+more end-organ failures.
+
+505
+00:25:32,020 --> 00:25:35,080
+septic shock is then
+when we see a hemodynamic
+
+506
+00:25:35,080 --> 00:25:38,960
+instability despite intravascular
+volume repletion what
+
+507
+00:25:38,960 --> 00:25:41,820
+i mean by that is that we're
+trying to replete fluids
+
+508
+00:25:41,820 --> 00:25:44,940
+either through blood or
+saline or some form of
+
+509
+00:25:44,940 --> 00:25:48,920
+iv fluid and they're still
+hemodynamically unstable
+
+510
+00:25:50,660 --> 00:25:54,360
+so septic shock can also
+be defined as sepsis and
+
+511
+00:25:54,360 --> 00:25:58,440
+a vasopressor therapy needed
+to elevate the MAP over
+
+512
+00:25:58,440 --> 00:26:02,800
+65, and if you have a
+lactate reading of over 2.
+
+513
+00:26:04,960 --> 00:26:07,380
+So another indication
+or measurement
+
+514
+00:26:07,380 --> 00:26:10,880
+system for sepsis
+is QSOFA and NEWS.
+
+515
+00:26:11,740 --> 00:26:15,760
+The first one SOFA or
+sequential sepsis related
+
+516
+00:26:15,760 --> 00:26:18,820
+organ failure assessment
+is defined of meeting two
+
+517
+00:26:18,820 --> 00:26:21,640
+of the three criteria,
+respiratory rate greater
+
+518
+00:26:21,640 --> 00:26:25,180
+than 22 per minute, altered
+mentation so altered
+
+519
+00:26:25,180 --> 00:26:28,840
+mental status, and a
+systolic BP less than 100.
+
+520
+00:26:29,240 --> 00:26:31,880
+SOFA in general thinks
+about helping to warm
+
+521
+00:26:31,880 --> 00:26:34,560
+clinicians to further
+investigate organ dysfunction.
+
+522
+00:26:35,060 --> 00:26:37,760
+There's also NEWS or
+National Early Warning
+
+523
+00:26:37,760 --> 00:26:40,620
+Score based on point
+system of the following
+
+524
+00:26:40,620 --> 00:26:42,680
+physiologic parameters,
+so your respiratory
+
+525
+00:26:42,680 --> 00:26:45,320
+rate, oxygen
+saturation, systolic BP,
+
+526
+00:26:45,460 --> 00:26:48,760
+pulse level of consciousness
+or confusion, and temperature.
+
+527
+00:26:48,760 --> 00:26:51,440
+And you have different
+criteria based off of how
+
+528
+00:26:51,440 --> 00:26:55,080
+many points. And just very
+briefly we talk about these
+
+529
+00:26:55,080 --> 00:26:58,200
+kind of systems to identify
+sepsis not for you guys
+
+530
+00:26:58,200 --> 00:27:02,000
+to memorize it and spend
+time thinking about oh well
+
+531
+00:27:02,000 --> 00:27:04,720
+is this one point or two
+points it's more to help you
+
+532
+00:27:04,720 --> 00:27:08,260
+understand that what should
+a patient look like when
+
+533
+00:27:08,260 --> 00:27:13,960
+i'm thinking sepsis and
+these systems will be used on
+
+534
+00:27:13,960 --> 00:27:17,090
+your rotations you may hear
+sirs or you may hear q sofa
+
+535
+00:27:17,090 --> 00:27:19,920
+so again just wanted to
+introduce them now so you
+
+536
+00:27:19,920 --> 00:27:23,780
+may be aware and when you
+need to more have a greater
+
+537
+00:27:23,780 --> 00:27:27,100
+grasp of them in terms of
+values and points on a third
+
+538
+00:27:27,100 --> 00:27:29,860
+year rotation you already
+have kind of the background
+
+539
+00:27:31,720 --> 00:27:35,360
+so for treatment we want to
+start obviously with broad
+
+540
+00:27:35,360 --> 00:27:38,480
+spectrum antibiotics until
+we get blood cultures back
+
+541
+00:27:38,480 --> 00:27:42,300
+so the goal here initiate
+iv antibiotic therapy within
+
+542
+00:27:42,300 --> 00:27:45,860
+the first hour after
+diagnosis of sepsis or septic
+
+543
+00:27:45,860 --> 00:27:50,720
+shock your big hitter
+antibiotics here your super broad
+
+544
+00:27:50,720 --> 00:27:54,680
+spectrum so your vancomycin
+and cefepime or piperacillin
+
+545
+00:27:54,680 --> 00:27:58,120
+depending on the hospital
+setting for the hypotension
+
+546
+00:27:58,120 --> 00:28:01,620
+you typically start with
+iv fluid repletion usually
+
+547
+00:28:01,620 --> 00:28:04,240
+a crystalloid solution and
+we'll discuss crystalloid
+
+548
+00:28:04,240 --> 00:28:08,100
+versus colloids in the upcoming
+slides if we cannot get
+
+549
+00:28:08,100 --> 00:28:11,170
+the blood pressure elevated
+enough with just fluids
+
+550
+00:28:11,170 --> 00:28:14,340
+we then need to move into
+our pharmacologic therapies.
+
+551
+00:28:14,560 --> 00:28:18,260
+So think about our vasopressors.
+The key for sepsis,
+
+552
+00:28:18,260 --> 00:28:21,800
+the key for curing and
+fighting off sepsis before
+
+553
+00:28:21,800 --> 00:28:25,620
+it creates a more systemic
+effect is identifying
+
+554
+00:28:25,620 --> 00:28:28,420
+the source of infection
+and removing it if it's
+
+555
+00:28:28,420 --> 00:28:31,000
+some form of foreign body
+or kind of cyst or abscess
+
+556
+00:28:31,000 --> 00:28:34,620
+and that greatly increases
+the rate of success.
+
+557
+00:28:35,920 --> 00:28:40,340
+From the picture on here, the
+surviving sepsis campaign,
+
+558
+00:28:40,610 --> 00:28:43,300
+there's a one-on-hour
+bundle for the initial
+
+559
+00:28:43,300 --> 00:28:46,020
+resuscitation, so we want to
+measure lactate levels, we
+
+560
+00:28:46,020 --> 00:28:48,280
+want to get our blood
+cultures before administering
+
+561
+00:28:48,280 --> 00:28:51,340
+antibiotics, that way that
+we don't kind of skew any
+
+562
+00:28:51,340 --> 00:28:54,100
+result. You administer your
+broad spectrum while you
+
+563
+00:28:54,100 --> 00:28:57,020
+await results, and then you
+begin with rapid administration
+
+564
+00:28:57,020 --> 00:29:00,880
+of about 30 milliliters
+per kilogram of a fluid.
+
+565
+00:29:01,960 --> 00:29:04,020
+And then if all else
+fails, you start
+
+566
+00:29:04,020 --> 00:29:05,760
+moving into
+vasopressor territory.
+
+567
+00:29:07,720 --> 00:29:09,860
+For anaphylactic shock,
+
+568
+00:29:10,020 --> 00:29:12,720
+similar idea, a little
+bit different presentation
+
+569
+00:29:12,720 --> 00:29:16,160
+obviously than a septic shock.
+So anaphylaxis is an allergic
+
+570
+00:29:16,160 --> 00:29:19,100
+condition where arterial
+pressure decreases drastically.
+
+571
+00:29:19,200 --> 00:29:23,080
+It's caused by an antigen
+antibody reaction, and
+
+572
+00:29:23,080 --> 00:29:26,480
+this reaction causes a cascade
+of effects resulting in
+
+573
+00:29:26,480 --> 00:29:28,900
+mast cells in the periphery
+and basal cells in the
+
+574
+00:29:28,900 --> 00:29:32,080
+blood to release histamine
+or histamine-like substances.
+
+575
+00:29:32,660 --> 00:29:35,320
+Histamine and the
+histamine-like substances
+
+576
+00:29:36,440 --> 00:29:39,900
+increase vascular capacity
+and venous dilation.
+
+577
+00:29:39,900 --> 00:29:41,900
+We're going to see an
+increase in dilation of the
+
+578
+00:29:41,900 --> 00:29:44,980
+arterioles, increased
+capillary permeability with
+
+579
+00:29:44,980 --> 00:29:47,800
+loss of fluid and protein
+into the tissue spaces.
+
+580
+00:29:48,060 --> 00:29:51,380
+From a physiologic presentation
+in terms of our five
+
+581
+00:29:51,380 --> 00:29:55,180
+measurements, absolutely
+identical to septic shock. If
+
+582
+00:29:55,180 --> 00:29:58,220
+you were given a table with
+our five measurements and
+
+583
+00:29:58,310 --> 00:30:01,940
+you were asked, is this
+septic or anaphylactic shock,
+
+584
+00:30:01,940 --> 00:30:04,780
+you'd have a really, really
+hard time understanding or
+
+585
+00:30:04,780 --> 00:30:07,680
+determining which one it
+is. However, obviously our
+
+586
+00:30:07,680 --> 00:30:09,950
+physical presentation is going
+to be a little bit different.
+
+587
+00:30:09,980 --> 00:30:13,000
+For anaphylaxis, think about
+throat swelling, coughing
+
+588
+00:30:13,000 --> 00:30:15,700
+and wheezing, vomiting,
+diarrhea, abdominal pain,
+
+589
+00:30:15,840 --> 00:30:18,800
+hives, tachycardia, uticaria,
+
+590
+00:30:19,140 --> 00:30:21,720
+and also tongue
+swelling or lethargy.
+
+591
+00:30:23,540 --> 00:30:27,180
+For treatment, most important
+treatment in anaphylaxis
+
+592
+00:30:27,180 --> 00:30:30,260
+is epinephrine in an
+intramuscular application.
+
+593
+00:30:30,300 --> 00:30:32,680
+You can think about
+additional treatments as
+
+594
+00:30:32,680 --> 00:30:36,100
+well, so normal saline to
+treat hypotension, oxygen,
+
+595
+00:30:36,100 --> 00:30:39,060
+and albuterol, which helps
+decrease bronchospasm,
+
+596
+00:30:39,060 --> 00:30:41,800
+especially if present still
+after the epinephrine.
+
+597
+00:30:43,130 --> 00:30:45,860
+So in neurogenic
+shock, we want to think
+
+598
+00:30:45,860 --> 00:30:48,000
+about dysregulation
+of autonomic nervous
+
+599
+00:30:48,000 --> 00:30:50,200
+system causing a lack
+of sympathetic tone
+
+600
+00:30:50,200 --> 00:30:52,360
+and unopposed
+parasympathetic response.
+
+601
+00:30:52,650 --> 00:30:55,860
+Our causes here include
+deep general anesthesia,
+
+602
+00:30:55,860 --> 00:30:59,280
+spinal anesthesia,
+or brain damage. All
+
+603
+00:30:59,280 --> 00:31:01,880
+these causes in general
+you can think about
+
+604
+00:31:01,880 --> 00:31:05,220
+as no longer being able
+to deliver a sympathetic
+
+605
+00:31:05,220 --> 00:31:07,740
+response to the heart
+and vasculature.
+
+606
+00:31:09,400 --> 00:31:12,880
+Presents very
+similarly to septic and
+
+607
+00:31:12,880 --> 00:31:15,700
+anaphylactic shock, except
+there's no tachycardia
+
+608
+00:31:15,700 --> 00:31:17,480
+because we can't
+have that reflexive
+
+609
+00:31:17,480 --> 00:31:20,360
+tachycardia due to
+no sympathetic tone.
+
+610
+00:31:21,200 --> 00:31:25,040
+So here's a table of
+the results of shock. I
+
+611
+00:31:25,040 --> 00:31:27,740
+want to talk a little
+bit about how to kind of
+
+612
+00:31:27,740 --> 00:31:30,640
+study and learn about
+the four types of shock.
+
+613
+00:31:30,840 --> 00:31:33,640
+So you can just
+memorize this table
+
+614
+00:31:33,640 --> 00:31:36,660
+and understand where
+the primary insult
+
+615
+00:31:36,660 --> 00:31:38,640
+is and what's up
+and what's down.
+
+616
+00:31:39,260 --> 00:31:41,340
+But you're not
+necessarily learning
+
+617
+00:31:41,340 --> 00:31:43,200
+about shock, you're
+memorizing a table.
+
+618
+00:31:44,020 --> 00:31:45,980
+As you move through
+your second year
+
+619
+00:31:45,980 --> 00:31:48,220
+and start moving
+into boards, which
+
+620
+00:31:48,220 --> 00:31:50,100
+will come up sooner
+than you realize,
+
+621
+00:31:50,260 --> 00:31:51,660
+there's a lot of information
+
+622
+00:31:51,660 --> 00:31:53,020
+that you need to memorize.
+
+623
+00:31:53,600 --> 00:31:56,000
+Shock is one of those
+things that you can
+
+624
+00:31:56,000 --> 00:31:57,900
+actually rationalize
+your way through.
+
+625
+00:31:58,040 --> 00:32:01,260
+If you understand the
+underlying mechanisms and
+
+626
+00:32:01,260 --> 00:32:04,120
+the physiology of each of
+these five measurements,
+
+627
+00:32:04,120 --> 00:32:07,220
+you don't ever have to
+actually memorize a table.
+
+628
+00:32:07,220 --> 00:32:10,100
+You can rationalize
+through your head with,
+
+629
+00:32:10,100 --> 00:32:13,040
+for example, a hypovolemic
+shock. I'd expect
+
+630
+00:32:13,040 --> 00:32:16,660
+increased SVR because
+we have decreased blood
+
+631
+00:32:16,660 --> 00:32:18,720
+pressure and a
+decreased postcapillary
+
+632
+00:32:18,720 --> 00:32:20,820
+wedge pressure because
+we have a drop preload.
+
+633
+00:32:22,480 --> 00:32:25,880
+So take this with a grain
+of salt if for you you
+
+634
+00:32:25,880 --> 00:32:28,820
+just have to memorize this
+because of whatever reason
+
+635
+00:32:28,820 --> 00:32:32,040
+go for it but I encourage
+you guys to spend a
+
+636
+00:32:32,040 --> 00:32:35,300
+little bit more time right
+now learning it in terms
+
+637
+00:32:35,300 --> 00:32:38,660
+of theories and something
+you can rationalize and
+
+638
+00:32:38,660 --> 00:32:41,820
+work through and it will
+help you in the long run.
+
+639
+00:32:42,400 --> 00:32:45,980
+So going back to our table,
+we have our types of shocks
+
+640
+00:32:45,980 --> 00:32:49,280
+and our examples of causes.
+We spoke about almost
+
+641
+00:32:49,280 --> 00:32:53,500
+all of these and just generally
+the decreases or increases
+
+642
+00:32:53,500 --> 00:32:56,520
+in our five measurements
+here. One thing I do want
+
+643
+00:32:56,520 --> 00:32:59,540
+to point out is with our
+distributive shock, it is
+
+644
+00:32:59,540 --> 00:33:05,240
+the only one where we're
+going to have a increase in in
+
+645
+00:33:05,240 --> 00:33:09,680
+SVO2 and a decrease in SVR,
+right? So if you're seeing
+
+646
+00:33:09,680 --> 00:33:12,120
+an exam question and you
+have a drop in systemic
+
+647
+00:33:12,120 --> 00:33:16,000
+vascular resistance and an
+increase in SVO2, you don't
+
+648
+00:33:16,000 --> 00:33:18,100
+even need to think about the
+three other types of shock.
+
+649
+00:33:18,100 --> 00:33:21,000
+At this point, you need to
+be thinking about is this
+
+650
+00:33:21,000 --> 00:33:23,550
+septic, is this anaphylactic,
+or is this neurogenic?
+
+651
+00:33:25,760 --> 00:33:29,860
+So for clinical presentation,
+we spoke about general
+
+652
+00:33:30,000 --> 00:33:32,920
+presentation and signs and
+symptoms with each type,
+
+653
+00:33:32,920 --> 00:33:35,720
+but I want to just kind of
+group them together now. So
+
+654
+00:33:35,720 --> 00:33:39,040
+obviously hypotension is
+going to be a big one. Shock,
+
+655
+00:33:39,040 --> 00:33:42,620
+by definition, is a drop
+in systemic blood pressure.
+
+656
+00:33:42,800 --> 00:33:45,980
+So you can see tachycardia
+or bradycardia,
+
+657
+00:33:45,980 --> 00:33:47,480
+depending on the type of shock,
+
+658
+00:33:48,160 --> 00:33:51,000
+depicnea, so increase
+in respiratory rate,
+
+659
+00:33:51,000 --> 00:33:54,620
+altermentation, they could
+be agitated, hypoxemia,
+
+660
+00:33:54,800 --> 00:33:57,040
+oliguria, or anuria.
+
+661
+00:33:57,660 --> 00:34:00,360
+You're going to see cool
+extremities in anything
+
+662
+00:34:00,360 --> 00:34:04,820
+with an increase of systemic
+vascular resistance,
+
+663
+00:34:04,820 --> 00:34:06,780
+so your hypovolemic,
+cardiogenic, and
+
+664
+00:34:06,780 --> 00:34:08,980
+obstructive shocks. You're
+going to actually have
+
+665
+00:34:08,980 --> 00:34:11,640
+warm and dry extremities
+in septic shock where
+
+666
+00:34:11,640 --> 00:34:14,280
+we have a drop in systemic
+vascular resistance.
+
+667
+00:34:14,560 --> 00:34:18,560
+You could have cyanosis,
+blue pale or discolored
+
+668
+00:34:18,560 --> 00:34:21,700
+skin, and a slow capillary
+refill. You could also
+
+669
+00:34:21,700 --> 00:34:24,960
+see peripheral edema due
+to a third spacing effect.
+
+670
+00:34:26,920 --> 00:34:29,300
+So now we're going
+to talk about our
+
+671
+00:34:29,300 --> 00:34:32,560
+management of shock.
+So you could kind of
+
+672
+00:34:32,560 --> 00:34:35,020
+guess through discussing
+the pathophysiology
+
+673
+00:34:35,020 --> 00:34:37,220
+what our management
+strategies will be.
+
+674
+00:34:37,220 --> 00:34:40,800
+So for our cardiogenic shock,
+our management is going
+
+675
+00:34:40,800 --> 00:34:43,620
+to be inotropes, so trying
+to get the contractility
+
+676
+00:34:43,620 --> 00:34:46,700
+up, and further cardiac
+intervention, but that's
+
+677
+00:34:46,700 --> 00:34:48,840
+well beyond the scope of
+this lecture talking about
+
+678
+00:34:48,840 --> 00:34:52,180
+surgical or procedural
+things that we can do for
+
+679
+00:34:52,180 --> 00:34:56,200
+cardiogenic shock. For
+distributive shock or vasodilatory
+
+680
+00:34:56,200 --> 00:34:58,820
+shock, same thing. We're
+going to have fluid
+
+681
+00:34:58,920 --> 00:35:01,580
+resuscitation. If they're
+septic, we want to start them on
+
+682
+00:35:01,580 --> 00:35:04,080
+broad spectrum antibiotics.
+And if they're an
+
+683
+00:35:04,080 --> 00:35:07,420
+anaphylactic, we're going
+to give them intramuscular
+
+684
+00:35:07,420 --> 00:35:11,160
+epinephrine. For hypovolemic,
+we're going to do fluid
+
+685
+00:35:11,160 --> 00:35:15,680
+resuscitation and pressors to
+vasoconstruct even further.
+
+686
+00:35:15,680 --> 00:35:18,540
+And for obstructive,
+same idea. We're going to
+
+687
+00:35:18,540 --> 00:35:23,320
+do fluid resuscitation,
+and we're going to try to
+
+688
+00:35:23,320 --> 00:35:26,160
+relieve the obstruction if
+possible. So if there's a
+
+689
+00:35:26,160 --> 00:35:28,780
+pulmonary embolism, we want
+to try and remove it. If
+
+690
+00:35:28,780 --> 00:35:31,020
+there's a tamponade or
+pericarditis, we want to try
+
+691
+00:35:31,020 --> 00:35:33,040
+and relieve some of the
+pressure that's on the heart.
+
+692
+00:35:33,760 --> 00:35:37,100
+So to very briefly just
+talk about types of blood
+
+693
+00:35:37,100 --> 00:35:39,980
+transfusions or blood
+products that we can use,
+
+694
+00:35:39,980 --> 00:35:42,420
+we have packed red blood
+cells. So think about
+
+695
+00:35:42,420 --> 00:35:44,740
+using this for a mass
+transfusion protocol in
+
+696
+00:35:44,740 --> 00:35:48,300
+hemorrhagic shock. Fresh
+frozen plasma, again consider
+
+697
+00:35:48,300 --> 00:35:51,120
+for a transfusion protocol.
+You could also use
+
+698
+00:35:51,120 --> 00:35:54,720
+it to combat DIC, which
+occurs with septic shock.
+
+699
+00:35:55,320 --> 00:35:58,040
+With platelets, you can
+give it to treat bleeding
+
+700
+00:35:58,040 --> 00:36:01,860
+and cryoprecipitate for
+fibrinogen repletion.
+
+701
+00:36:05,840 --> 00:36:09,320
+So used much more often
+than blood products are
+
+702
+00:36:09,320 --> 00:36:11,860
+IV fluids, and they are
+broken down generally
+
+703
+00:36:11,860 --> 00:36:14,500
+into two different
+categories. So you have your
+
+704
+00:36:14,500 --> 00:36:17,420
+crystalloids, and those
+are the types of fluids
+
+705
+00:36:17,420 --> 00:36:20,080
+that have smaller molecules.
+So your bigger ones
+
+706
+00:36:20,080 --> 00:36:23,640
+that are commonly used
+are 0.9% normal saline,
+
+707
+00:36:23,640 --> 00:36:26,920
+but the concern with that
+is a potential metabolic
+
+708
+00:36:26,920 --> 00:36:31,060
+acidosis from hyperchloremia
+in large fluid resuscitation.
+
+709
+00:36:31,060 --> 00:36:34,160
+You also have ringers
+lactate solution that has
+
+710
+00:36:34,160 --> 00:36:37,100
+a lower chloride equivalent,
+but it does come with its
+
+711
+00:36:37,100 --> 00:36:40,540
+own risks. There's real no
+clear-cut better crystalloid
+
+712
+00:36:40,540 --> 00:36:43,640
+when we compare lactate
+ringers to normal saline.
+
+713
+00:36:43,640 --> 00:36:46,380
+There is something called
+plasmalite, which is a
+
+714
+00:36:46,380 --> 00:36:49,640
+balanced salt solution that
+matches the electrolyte
+
+715
+00:36:49,640 --> 00:36:52,960
+content of the plasma almost
+perfectly but it's a lot
+
+716
+00:36:52,960 --> 00:36:55,620
+more expensive than ringers
+lactate and normal saline
+
+717
+00:36:55,620 --> 00:36:59,720
+so it's not used as much
+colloids have larger molecules
+
+718
+00:36:59,720 --> 00:37:03,160
+that can't necessarily
+escape the plasma so those
+
+719
+00:37:03,160 --> 00:37:06,920
+your proteins your dextrin
+think of albumin generally
+
+720
+00:37:06,920 --> 00:37:10,500
+there are no differences
+between patient outcomes
+
+721
+00:37:10,500 --> 00:37:13,300
+when we think about crystalloid
+and colloid solutions.
+
+722
+00:37:15,300 --> 00:37:17,720
+So please don't feel
+like you need to
+
+723
+00:37:17,720 --> 00:37:19,600
+memorize this entire
+chart. This is
+
+724
+00:37:19,600 --> 00:37:21,560
+again just more for
+visual learners.
+
+725
+00:37:21,920 --> 00:37:23,720
+So here's our human plasma
+
+726
+00:37:23,720 --> 00:37:26,060
+volumes. Again we talked about
+
+727
+00:37:26,540 --> 00:37:31,180
+for 0.9% saline or normal
+saline we have a much
+
+728
+00:37:31,180 --> 00:37:35,040
+higher chlorine content
+than in the plasma and for
+
+729
+00:37:35,040 --> 00:37:38,740
+ringers lactate we have
+a much lower or a little
+
+730
+00:37:38,740 --> 00:37:42,820
+bit lower sodium compared
+to our plasma volumes. So
+
+731
+00:37:42,820 --> 00:37:44,880
+that could actually cause
+a metabolic alkalosis.
+
+732
+00:37:45,900 --> 00:37:48,800
+So when we want to think
+about which fluid, think
+
+733
+00:37:48,800 --> 00:37:50,890
+about a blood transfusion
+when you have a hemoglobin
+
+734
+00:37:50,890 --> 00:37:54,780
+below 7. For colloids, albumin
+really doesn't have any
+
+735
+00:37:54,780 --> 00:37:57,480
+long-term benefits over
+crystalloids and it may be
+
+736
+00:37:57,480 --> 00:38:00,760
+a little bit more expensive.
+So typically your first
+
+737
+00:38:00,760 --> 00:38:03,320
+line option is going to be
+a crystalloid substance.
+
+738
+00:38:03,780 --> 00:38:06,380
+And again there's no clear
+-cut better crystalloid
+
+739
+00:38:06,380 --> 00:38:08,180
+when we compare lactate
+ringers to normal
+
+740
+00:38:08,180 --> 00:38:11,720
+saline. For normal saline,
+you do run the risk of
+
+741
+00:38:11,720 --> 00:38:14,680
+hyperchloremic metabolic
+acidosis due to a higher
+
+742
+00:38:14,680 --> 00:38:17,680
+chloride quantity. And
+for ringers lactate, it
+
+743
+00:38:17,680 --> 00:38:20,640
+is closer to physiologic
+concentrations, but you
+
+744
+00:38:20,640 --> 00:38:24,040
+can run the risk of a
+hyponatremia. In general,
+
+745
+00:38:24,040 --> 00:38:26,080
+when thinking about how
+much to give a patient,
+
+746
+00:38:26,080 --> 00:38:28,760
+the surviving sepsis
+campaign recommends at least
+
+747
+00:38:28,760 --> 00:38:32,220
+30 milliliters per kilogram
+of crystalloids within
+
+748
+00:38:32,220 --> 00:38:35,860
+the first three hours.
+So for an example, if you
+
+749
+00:38:35,860 --> 00:38:38,970
+have a 70 kilogram patient,
+they should receive around
+
+750
+00:38:38,970 --> 00:38:42,220
+2100 milliliters or about
+two liters of fluid.
+
+751
+00:38:42,480 --> 00:38:44,840
+And finally, how do we
+want to assess fluid
+
+752
+00:38:44,840 --> 00:38:46,700
+levels? There are a
+few different ways to
+
+753
+00:38:46,700 --> 00:38:48,660
+do it. You could do it
+clinically, so looking
+
+754
+00:38:48,660 --> 00:38:50,170
+at the heart rate,
+the blood pressure,
+
+755
+00:38:50,360 --> 00:38:53,160
+their urine output, asking
+your patients if they're
+
+756
+00:38:53,160 --> 00:38:55,420
+able to respond to you,
+what color is their urine,
+
+757
+00:38:55,500 --> 00:38:58,480
+skin turgor, so does the
+skin tent when you pull it
+
+758
+00:38:58,480 --> 00:39:00,880
+up or does that snap
+back, and finally do their
+
+759
+00:39:00,880 --> 00:39:04,220
+mucous membranes look dry.
+For vitals as well, it could
+
+760
+00:39:04,220 --> 00:39:07,960
+be very beneficial to
+look at the math and SVO2.
+
+761
+00:39:10,160 --> 00:39:13,740
+So for medications, we do
+have a bunch of vasoactive
+
+762
+00:39:13,740 --> 00:39:16,300
+agents. I know you all
+learned these during
+
+763
+00:39:16,300 --> 00:39:19,400
+the spring semester of last
+year with Dr. Goldstein,
+
+764
+00:39:19,400 --> 00:39:21,900
+but we are going to
+discuss them briefly again.
+
+765
+00:39:22,100 --> 00:39:24,980
+So while addressing the
+underlying cause of shock
+
+766
+00:39:24,980 --> 00:39:27,740
+is the best treatment
+modality, vasoactive
+
+767
+00:39:27,740 --> 00:39:31,200
+agents can help restore
+blood pressure if needed.
+
+768
+00:39:31,760 --> 00:39:34,600
+So for septic shock,
+norepinephrine
+
+769
+00:39:34,600 --> 00:39:36,020
+is our first-line agent.
+
+770
+00:39:39,940 --> 00:39:43,300
+Dobutamine or another
+anotrope should be used for
+
+771
+00:39:43,300 --> 00:39:46,940
+cardiogenic shock, so think
+about any type of situation
+
+772
+00:39:46,940 --> 00:39:50,400
+where we need to increase the
+contractility of the heart,
+
+773
+00:39:50,400 --> 00:39:53,380
+we want to use an anotrope.
+There are a lot of
+
+774
+00:39:53,380 --> 00:39:57,740
+complications and side effects
+of our vasoactive agents.
+
+775
+00:39:58,100 --> 00:40:01,380
+So extravasation, so you
+could have vasoconstriction
+
+776
+00:40:01,460 --> 00:40:04,680
+of nearby connective tissue
+can cause skin necrosis.
+
+777
+00:40:04,840 --> 00:40:07,920
+If you see this, if you
+have an ICU rotation,
+
+778
+00:40:07,920 --> 00:40:11,100
+you may see individuals
+on pressors start to
+
+779
+00:40:11,100 --> 00:40:14,580
+kind of have skin necrosis
+near the IV sites,
+
+780
+00:40:14,580 --> 00:40:17,780
+as well as on the
+periphery you can see some
+
+781
+00:40:18,640 --> 00:40:21,940
+signs of skin death because
+of the vasoconstriction.
+
+782
+00:40:22,200 --> 00:40:26,240
+You also have
+hypoperfusion. So prolonged
+
+783
+00:40:26,240 --> 00:40:29,000
+vasoconstriction can produce
+inadequate perfusion to
+
+784
+00:40:29,000 --> 00:40:31,800
+the extremities, mesenteric
+organs, and kidneys.
+
+785
+00:40:31,840 --> 00:40:36,340
+So yes, you're treating
+the vasodilation and you're
+
+786
+00:40:36,340 --> 00:40:38,960
+treating the shock with
+these vasoactive agents.
+
+787
+00:40:39,430 --> 00:40:42,240
+But at the same time,
+you're also causing
+
+788
+00:40:42,240 --> 00:40:44,020
+further harm because
+you're hypoperfusing
+
+789
+00:40:44,160 --> 00:40:47,400
+some essential organs and
+the extremities as well.
+
+790
+00:40:49,340 --> 00:40:52,000
+So here are our vasoactive
+agents. I'm gonna
+
+791
+00:40:52,000 --> 00:40:54,760
+briefly go through each
+one. So for norepinephrine,
+
+792
+00:40:54,760 --> 00:40:56,140
+we can have it for a
+few different types
+
+793
+00:40:56,140 --> 00:40:59,020
+of shock, distributive,
+cardiogenic, or mixed.
+
+794
+00:40:59,460 --> 00:41:02,540
+Primary mechanism is
+alpha-1 agonism with a
+
+795
+00:41:02,540 --> 00:41:05,020
+little bit of beta
+agonism as well. Our major
+
+796
+00:41:05,020 --> 00:41:06,760
+effects, we're going
+to increase systemic
+
+797
+00:41:06,760 --> 00:41:09,840
+vascular resistance as
+well as cardiac output.
+
+798
+00:41:09,840 --> 00:41:12,140
+And this is typically
+a first choice presser.
+
+799
+00:41:12,600 --> 00:41:15,120
+There are some adverse
+side effects of it,
+
+800
+00:41:15,330 --> 00:41:16,950
+tachyarrhythmias, you
+could have ischemia.
+
+801
+00:41:17,380 --> 00:41:20,280
+For phenylephrine, again,
+distributive and hypothalamic
+
+802
+00:41:20,280 --> 00:41:23,940
+shock, this is a pure alpha
+-1 agonism, so think just
+
+803
+00:41:23,940 --> 00:41:27,020
+straight increases in
+systemic vascular resistance.
+
+804
+00:41:27,740 --> 00:41:30,880
+For vasopressin,
+again, distributive and
+
+805
+00:41:30,880 --> 00:41:34,060
+cardiogenic shock, this
+is our V1, V2 receptor
+
+806
+00:41:34,060 --> 00:41:36,780
+binding, and similar to
+phenylephrine, almost
+
+807
+00:41:36,780 --> 00:41:39,820
+strictly systemic vascular
+resistance increases.
+
+808
+00:41:40,540 --> 00:41:43,220
+When we think about
+adding on multiple
+
+809
+00:41:43,220 --> 00:41:45,920
+pressors in a shock
+situation, you want to
+
+810
+00:41:45,920 --> 00:41:47,860
+think about vasopressin
+in addition to
+
+811
+00:41:47,860 --> 00:41:50,360
+norepinephrine, especially
+in septic shock.
+
+812
+00:41:50,940 --> 00:41:53,360
+Epinephrine is used
+more in cardiac arrest,
+
+813
+00:41:53,360 --> 00:41:56,100
+as well as first line
+for anaphylaxis. We're
+
+814
+00:41:56,100 --> 00:41:57,940
+going to see increases
+in heart rate, systemic
+
+815
+00:41:57,940 --> 00:41:59,940
+vascular resistance,
+and cardiac output.
+
+816
+00:42:00,120 --> 00:42:03,960
+For dopamine, there is
+a few different agonisms
+
+817
+00:42:03,960 --> 00:42:06,820
+of the receptors, so
+dopamine receptors, beta-1
+
+818
+00:42:06,820 --> 00:42:09,640
+receptors, alpha-1 receptors,
+and beta-2 receptors.
+
+819
+00:42:09,860 --> 00:42:12,940
+Dopamine, typically not a
+first line treatment. it
+
+820
+00:42:12,940 --> 00:42:14,940
+is a little bit of a messy
+drug you can see with the
+
+821
+00:42:14,940 --> 00:42:19,940
+adverse effects here and
+finally with dobutamine it's
+
+822
+00:42:19,940 --> 00:42:22,940
+only used for cardiogenic
+shock it's an enotrope not
+
+823
+00:42:22,940 --> 00:42:28,040
+a vasopressor so mostly
+beta-1 agonism and again
+
+824
+00:42:28,040 --> 00:42:31,040
+we'd expect to only see an
+increase in cardiac output
+
+825
+00:42:31,220 --> 00:42:33,920
+and I'm bringing all these
+things up with receptor
+
+826
+00:42:33,920 --> 00:42:37,420
+bindings not that I expect
+you guys to focus in on this
+
+827
+00:42:37,420 --> 00:42:39,760
+slide of this entire
+presentation because we had a
+
+828
+00:42:39,760 --> 00:42:43,420
+lot of information be
+presented here but more as a
+
+829
+00:42:43,420 --> 00:42:46,020
+refresh of what you guys
+have already learned and now
+
+830
+00:42:46,020 --> 00:42:49,120
+applying it to some
+actual pathophysiology and
+
+831
+00:42:49,120 --> 00:42:54,050
+treatment so here are a few
+slides on the summary of shock
+
+832
+00:42:54,050 --> 00:42:57,580
+this is from first aid
+again the circle and the red
+
+833
+00:42:57,580 --> 00:43:00,440
+arrow is the primary
+disturbance driving the shock
+
+834
+00:43:02,560 --> 00:43:04,840
+a few more slides discussing
+
+835
+00:43:04,840 --> 00:43:06,460
+the different types of shock
+
+836
+00:43:10,070 --> 00:43:13,080
+and now we have a few
+questions to go over so
+
+837
+00:43:13,080 --> 00:43:15,660
+question one 18 year old
+female presents to your office
+
+838
+00:43:15,660 --> 00:43:18,180
+severely fatigued reports
+that she has had episodes
+
+839
+00:43:18,180 --> 00:43:20,640
+of diarrhea and vomiting
+for the past four days
+
+840
+00:43:20,640 --> 00:43:24,680
+vitals are a temperature
+of 1027 blood pressure
+
+841
+00:43:24,680 --> 00:43:28,900
+75 over 50 hurry 110
+hemodynamic measurement reveals
+
+842
+00:43:28,900 --> 00:43:32,060
+an increased systemic
+vascular resistance which
+
+843
+00:43:32,060 --> 00:43:34,650
+of the following is the
+most likely diagnosis so
+
+844
+00:43:34,700 --> 00:43:41,290
+things to keep in mind
+here we want to look at our
+
+845
+00:43:45,910 --> 00:43:51,760
+symptoms so diarrhea and
+vomiting past four days
+
+846
+00:43:52,560 --> 00:43:55,120
+temperature okay they're
+probably in some form of
+
+847
+00:43:55,120 --> 00:43:58,420
+shock right heart rate
+is elevated to reflexive
+
+848
+00:43:58,420 --> 00:44:02,080
+tachycardia we have an
+increase in SVR so I can
+
+849
+00:44:02,080 --> 00:44:05,700
+immediately rule out a
+distributive shock, right?
+
+850
+00:44:05,700 --> 00:44:09,300
+Distributive shock is a drop
+in SVR, not an increase.
+
+851
+00:44:09,360 --> 00:44:12,580
+So of these three, which
+one can I think it is?
+
+852
+00:44:14,070 --> 00:44:17,140
+It is going to be
+hypovolemic shock. So our
+
+853
+00:44:17,140 --> 00:44:19,340
+rationale here, diarrhea
+and vomiting, the patient
+
+854
+00:44:19,340 --> 00:44:21,820
+is unable to retain or
+replenish her fluids.
+
+855
+00:44:22,100 --> 00:44:24,360
+Elevated temperature,
+think about this, in a
+
+856
+00:44:24,360 --> 00:44:27,780
+septic shock and hypovolemic
+due to illness. Since
+
+857
+00:44:27,780 --> 00:44:30,520
+SVR is elevated, this
+cannot be septic shock.
+
+858
+00:44:30,650 --> 00:44:33,640
+So really the only
+other kind of reasonable
+
+859
+00:44:33,640 --> 00:44:35,340
+explanation for
+these symptoms and
+
+860
+00:44:35,340 --> 00:44:37,240
+what's going on is
+a hypoflammic shock.
+
+861
+00:44:39,280 --> 00:44:43,320
+Question 2. 85-year
+-old man presents to the
+
+862
+00:44:43,320 --> 00:44:46,140
+emergency department with
+fatigue his past medical
+
+863
+00:44:46,140 --> 00:44:48,480
+history of heart failure,
+hypertension, and gout.
+
+864
+00:44:48,520 --> 00:44:51,000
+History reveals non
+-adherence of medications
+
+865
+00:44:51,000 --> 00:44:53,640
+due to difficulty picking
+up his prescriptions.
+
+866
+00:44:54,360 --> 00:44:57,800
+Vitals are temperature
+of 98, blood pressure 74
+
+867
+00:44:57,800 --> 00:45:01,240
+over 41, heart rate 127,
+respiratory rate 23.
+
+868
+00:45:01,500 --> 00:45:04,840
+Drugular veins are
+distended. Which of
+
+869
+00:45:04,840 --> 00:45:08,260
+the following heatodynamic
+measures do you
+
+870
+00:45:08,260 --> 00:45:10,260
+expect to find on
+further examination?
+
+871
+00:45:10,710 --> 00:45:13,850
+Okay, so it could be a
+lot going on here. So
+
+872
+00:45:13,850 --> 00:45:17,700
+we expect that he has heart
+failure, hypertension,
+
+873
+00:45:17,700 --> 00:45:21,080
+doubt. He has jugular
+veins distension.
+
+874
+00:45:21,200 --> 00:45:23,880
+So we want to immediately
+start thinking about
+
+875
+00:45:23,880 --> 00:45:26,620
+a cardiogenic shock
+here right he has the
+
+876
+00:45:26,620 --> 00:45:30,980
+history of heart failure
+he has concerns with
+
+877
+00:45:30,980 --> 00:45:33,920
+hypertension he can't
+pick up his medications so
+
+878
+00:45:33,920 --> 00:45:36,120
+let's start thinking
+about cardiogenic shock
+
+879
+00:45:36,590 --> 00:45:42,560
+right off the bat d and
+e gone right we know
+
+880
+00:45:42,560 --> 00:45:45,780
+cardiogenic shock has a
+decrease in cardiac output
+
+881
+00:45:46,780 --> 00:45:49,460
+so now that that one's
+done we can start
+
+882
+00:45:49,460 --> 00:45:52,260
+to eliminate a few
+more options So, in
+
+883
+00:45:52,260 --> 00:45:54,660
+cardiogenic shock, we
+would expect to see an
+
+884
+00:45:54,660 --> 00:45:57,200
+increase in systemic
+vascular resistance.
+
+885
+00:45:57,200 --> 00:45:59,100
+So, B is out of play.
+
+886
+00:46:00,440 --> 00:46:04,140
+So, we now have two
+final answers that we
+
+887
+00:46:04,140 --> 00:46:06,380
+can think about. Is it
+going to be an increase
+
+888
+00:46:06,380 --> 00:46:08,360
+or decrease postcapillary
+wedge pressure?
+
+889
+00:46:08,520 --> 00:46:10,660
+In an obstructive shock,
+
+890
+00:46:10,660 --> 00:46:13,320
+particularly a
+pulmonary obstruction,
+
+891
+00:46:13,440 --> 00:46:15,200
+we would expect
+to see a decrease
+
+892
+00:46:15,200 --> 00:46:16,720
+in postcapillary
+wedge pressure.
+
+893
+00:46:16,980 --> 00:46:20,420
+However, in cardiogenic
+shock, the insult
+
+894
+00:46:20,420 --> 00:46:22,220
+is happening with the
+left ventricle. We
+
+895
+00:46:22,220 --> 00:46:24,440
+can't pump enough
+fluid out of the heart.
+
+896
+00:46:24,460 --> 00:46:27,440
+So we would expect to see
+an increase in postcapillary
+
+897
+00:46:27,440 --> 00:46:30,340
+wedge pressure, meaning
+that A is our answer.
+
+898
+00:46:30,560 --> 00:46:32,760
+So this patient,
+like we said, is in
+
+899
+00:46:32,760 --> 00:46:35,340
+cardiogenic shock. We
+expect to see decreased
+
+900
+00:46:35,340 --> 00:46:37,800
+cardiac output, reflexive
+vasoconstriction.
+
+901
+00:46:38,080 --> 00:46:40,220
+Postcapillary wedge
+pressure is increased
+
+902
+00:46:40,220 --> 00:46:42,200
+as there's a backup
+of fluid into the left
+
+903
+00:46:42,200 --> 00:46:45,120
+atrium due to left
+ventricular failure.
+
+904
+00:46:46,320 --> 00:46:48,600
+Past medical history,
+patient has a known history
+
+905
+00:46:48,600 --> 00:46:50,920
+of heart failure with non
+-adherence to medications.
+
+906
+00:46:51,140 --> 00:46:54,220
+While obstructive shock
+may appear similar, the
+
+907
+00:46:54,220 --> 00:46:57,500
+past medical history
+points to heart failure.
+
+908
+00:46:59,200 --> 00:47:01,780
+So question three, 65
+-year-old man brought
+
+909
+00:47:01,780 --> 00:47:03,920
+to the ED 30 minutes
+after slicing his arm
+
+910
+00:47:03,920 --> 00:47:05,940
+while wood chopping,
+leading to significant
+
+911
+00:47:05,940 --> 00:47:08,420
+blood loss, blood
+pressure 92 over 58.
+
+912
+00:47:08,420 --> 00:47:10,800
+On examination, he
+appears lethargic and
+
+913
+00:47:10,800 --> 00:47:13,180
+pale. His extremities
+are cool to the touch.
+
+914
+00:47:14,540 --> 00:47:16,780
+which set of findings
+would most likely represent
+
+915
+00:47:16,780 --> 00:47:18,520
+the body's physiologic
+reaction within the
+
+916
+00:47:18,520 --> 00:47:21,320
+first 30 minutes of
+patient's injury. So we want
+
+917
+00:47:21,320 --> 00:47:24,160
+to think here, hemorrhagic
+or hypovolemic shock.
+
+918
+00:47:27,130 --> 00:47:29,400
+So we want to think
+about what are the
+
+919
+00:47:29,400 --> 00:47:31,640
+qualities of our
+hypovolemic shock.
+
+920
+00:47:31,800 --> 00:47:35,560
+Heart rate we would expect
+to be increased, right,
+
+921
+00:47:35,560 --> 00:47:37,850
+because it's going to be
+a reflexive tachycardia.
+
+922
+00:47:38,360 --> 00:47:44,020
+So that immediately
+gets rid of A and B.
+
+923
+00:47:44,760 --> 00:47:48,220
+So total peripheral resistance,
+this is not a distributive
+
+924
+00:47:48,220 --> 00:47:50,920
+shock situation, so we'd
+want to expect an increase
+
+925
+00:47:50,920 --> 00:47:55,380
+in total peripheral
+resistance, also known as SVR.
+
+926
+00:47:56,180 --> 00:47:59,640
+Finally, for cardiac
+contractility, this is not
+
+927
+00:47:59,640 --> 00:48:02,760
+cardiogenic shock, right?
+Our heart is able to pump
+
+928
+00:48:02,760 --> 00:48:05,660
+fine. The decreased
+cardiac output is actually
+
+929
+00:48:05,660 --> 00:48:10,030
+due to a loss of stroke
+volume, not the actual
+
+930
+00:48:10,030 --> 00:48:12,680
+musculature of the heart.
+So, with all this being
+
+931
+00:48:12,680 --> 00:48:18,360
+said, we would expect E to
+be our final answer. This
+
+932
+00:48:18,360 --> 00:48:20,740
+patient is in hypopholemic
+shock. We would expect
+
+933
+00:48:20,740 --> 00:48:22,820
+to see a drop in blood
+pressure with sympathetic
+
+934
+00:48:22,900 --> 00:48:26,160
+reflexive activation.
+This causes increase in
+
+935
+00:48:26,160 --> 00:48:29,460
+heart rate and contractility,
+not cardiac output.
+
+936
+00:48:29,880 --> 00:48:33,080
+Renin will be released in
+an attempt to raise blood
+
+937
+00:48:33,080 --> 00:48:35,480
+pressure through the RAS
+system. I know you guys may
+
+938
+00:48:35,480 --> 00:48:39,480
+have briefly talked about
+renin, but even to answer this
+
+939
+00:48:39,480 --> 00:48:41,660
+question, you didn't really
+need to know what renin
+
+940
+00:48:41,660 --> 00:48:44,220
+was. You could have used
+the other three values here.
+
+941
+00:48:46,460 --> 00:48:49,200
+Question four. 75-year
+-old nursing home resident
+
+942
+00:48:49,200 --> 00:48:50,940
+is brought to the emergency
+department because
+
+943
+00:48:50,940 --> 00:48:53,700
+of confusion. He developed
+a productive cost
+
+944
+00:48:53,700 --> 00:48:56,520
+with green sputum several
+days ago. Temperature
+
+945
+00:48:56,520 --> 00:49:00,100
+is 102, pulse 110, blood
+pressure 90 over 60.
+
+946
+00:49:00,280 --> 00:49:02,420
+Results of laboratory
+studies show a white
+
+947
+00:49:02,420 --> 00:49:05,120
+blood cell count of
+14,000, platelet count
+
+948
+00:49:05,120 --> 00:49:08,340
+of 50,000, and elevated
+serum lactic acid.
+
+949
+00:49:08,700 --> 00:49:10,720
+Which set of
+physiologic parameters
+
+950
+00:49:10,720 --> 00:49:12,900
+is most likely
+for this patient?
+
+951
+00:49:13,120 --> 00:49:15,920
+So we want to read about
+past medical history
+
+952
+00:49:15,920 --> 00:49:19,540
+and presenting illness,
+HPI. Green sputum.
+
+953
+00:49:19,740 --> 00:49:21,880
+Okay, this could be
+an infection. Elderly
+
+954
+00:49:21,880 --> 00:49:25,140
+individual, pulse is
+elevated, white blood cell
+
+955
+00:49:25,180 --> 00:49:28,320
+count is through the
+roof at 14,000. This
+
+956
+00:49:28,320 --> 00:49:31,800
+individual meets SERS
+criteria as well as QSOFA.
+
+957
+00:49:32,680 --> 00:49:35,040
+So thinking about distributive
+
+958
+00:49:35,040 --> 00:49:37,580
+shock, what are our parameters?
+
+959
+00:49:37,980 --> 00:49:39,620
+So we want to think
+about central venous
+
+960
+00:49:39,620 --> 00:49:42,380
+pressure is going
+to be decreased.
+
+961
+00:49:43,630 --> 00:49:46,200
+So this can get rid of D and E.
+
+962
+00:49:46,780 --> 00:49:49,520
+Postcapillary wedge,
+again these are
+
+963
+00:49:49,520 --> 00:49:51,200
+all decreased, it's
+all running the same
+
+964
+00:49:51,200 --> 00:49:52,860
+way so we can't
+eliminate anything.
+
+965
+00:49:53,120 --> 00:49:57,960
+Cardiac output, again
+remember in distributive shock
+
+966
+00:49:57,960 --> 00:50:00,420
+that it's going to be
+increased. So we can actually
+
+967
+00:50:00,420 --> 00:50:04,200
+get rid of C and A, and
+systemic vascular resistance.
+
+968
+00:50:04,200 --> 00:50:06,120
+We honestly could
+have started probably
+
+969
+00:50:06,120 --> 00:50:08,100
+here and eliminated
+everything else.
+
+970
+00:50:10,800 --> 00:50:13,040
+In distributive shock, systemic
+
+971
+00:50:13,040 --> 00:50:15,020
+vascular resistance
+is decreased.
+
+972
+00:50:15,260 --> 00:50:18,360
+So with that being
+said, B is our answer.
+
+973
+00:50:18,360 --> 00:50:21,200
+Patient is in septic
+shock. Primary disturbance
+
+974
+00:50:21,200 --> 00:50:23,840
+is a decrease in systemic
+vascular resistance.
+
+975
+00:50:23,870 --> 00:50:26,900
+This causes an increase in
+heart rate since we are not
+
+976
+00:50:26,900 --> 00:50:29,940
+losing fluid. we see an
+increase in cardiac output.
+
+977
+00:50:30,220 --> 00:50:32,360
+Postcapillary wedge and
+central venous pressure
+
+978
+00:50:32,360 --> 00:50:34,220
+will not increase.
+Again, the hardest
+
+979
+00:50:34,220 --> 00:50:37,440
+functioning fine, the
+issue is with vasodilation.
+
+980
+00:50:40,610 --> 00:50:43,540
+Question five, you're an
+intern on call, page to see
+
+981
+00:50:43,540 --> 00:50:46,480
+39 year old male. He has past
+medical history of cystic
+
+982
+00:50:46,480 --> 00:50:48,940
+fibrosis, had a bilateral
+lung transplant two years
+
+983
+00:50:48,940 --> 00:50:52,140
+ago. He's taking a few
+different immunosuppressants.
+
+984
+00:50:52,740 --> 00:50:55,340
+Vital signs are temp
+of 102, blood pressure
+
+985
+00:50:55,340 --> 00:50:58,580
+70 over 35, heart rate
+134, respirations 18.
+
+986
+00:50:58,990 --> 00:51:00,480
+What do you think
+is the primary
+
+987
+00:51:00,480 --> 00:51:02,900
+disturbance causing
+this patient's shock?
+
+988
+00:51:03,710 --> 00:51:06,140
+So the first question
+we need to think about
+
+989
+00:51:06,320 --> 00:51:08,680
+is what's going on here?
+
+990
+00:51:11,060 --> 00:51:13,200
+He is mutasuppressed,
+
+991
+00:51:13,840 --> 00:51:18,600
+he has a history of
+cystic fibrosis with
+
+992
+00:51:18,600 --> 00:51:20,600
+a lung transplant,
+and now he has an
+
+993
+00:51:20,600 --> 00:51:25,000
+elevated fever, decreased
+blood pressure, heart
+
+994
+00:51:25,000 --> 00:51:27,260
+rate is elevated,
+respirations are 18.
+
+995
+00:51:28,680 --> 00:51:30,620
+So what are we thinking
+here? What's the primary
+
+996
+00:51:30,620 --> 00:51:33,220
+disturbance? What type of
+shock are we probably in?
+
+997
+00:51:34,980 --> 00:51:37,180
+By reading these
+context clues, I
+
+998
+00:51:37,180 --> 00:51:39,060
+would probably assume
+a septic shock.
+
+999
+00:51:40,180 --> 00:51:43,040
+So from that, we now need
+to look at what's the
+
+1000
+00:51:43,040 --> 00:51:45,100
+primary disturbance in
+a septic or distributive
+
+1001
+00:51:45,100 --> 00:51:48,360
+shock. It's a drop in
+systemic vascular resistance.
+
+1002
+00:51:48,860 --> 00:51:49,880
+Okay, perfect.
+
+1003
+00:51:50,060 --> 00:51:52,200
+A, B, C,
+
+1004
+00:51:52,430 --> 00:51:55,100
+all gone. Don't
+care about them.
+
+1005
+00:51:55,260 --> 00:51:58,320
+Now we go through
+D, E, and F. All are
+
+1006
+00:51:58,320 --> 00:52:00,720
+decreases in systemic
+vascular resistance.
+
+1007
+00:52:00,900 --> 00:52:03,880
+So we now need to
+understand what type of
+
+1008
+00:52:03,880 --> 00:52:06,620
+distributive shock.
+Again, we said septic.
+
+1009
+00:52:06,620 --> 00:52:10,640
+So E is actually our
+explanation for an
+
+1010
+00:52:10,640 --> 00:52:14,380
+anaphylactic shock. F is
+due to neurogenic shock.
+
+1011
+00:52:14,460 --> 00:52:18,300
+and then this C would be
+a hypovolemic, B would
+
+1012
+00:52:18,300 --> 00:52:21,660
+be due to an obstructive,
+and A is actually
+
+1013
+00:52:21,660 --> 00:52:25,280
+a cardiogenic. So that
+leaves our answer of D.
+
+1014
+00:52:25,280 --> 00:52:27,660
+This patient is in
+septic shock, and the
+
+1015
+00:52:27,660 --> 00:52:30,300
+primary disturbance
+is a decrease in SVR.
+
+1016
+00:52:31,760 --> 00:52:34,680
+Thank you very much for
+listening to this lecture.
+
+1017
+00:52:34,680 --> 00:52:37,520
+I hope it was enjoyable
+and it all made sense.
+
+1018
+00:52:37,820 --> 00:52:39,620
+And if you have a few minutes,
+
+1019
+00:52:39,620 --> 00:52:40,880
+please fill out the survey.
+
+1020
+00:52:41,020 --> 00:52:43,380
+I've done a few lectures
+for you guys, but I
+
+1021
+00:52:43,380 --> 00:52:45,720
+would really love to
+continue to have feedback
+
+1022
+00:52:45,720 --> 00:52:47,620
+so I can help improve
+them in the future.
+
+1023
+00:52:47,740 --> 00:52:49,900
+Keep on working hard
+with your studies.
+
+1024
+00:52:49,900 --> 00:52:51,960
+I know second year can
+be extremely difficult.
+
+1025
+00:52:51,960 --> 00:52:53,720
+You guys can all
+do it and you'll
+
+1026
+00:52:53,720 --> 00:52:55,120
+make it out to the other side.
+
+1027
+00:52:55,240 --> 00:52:57,340
+Have a great day and
+thank you so much.

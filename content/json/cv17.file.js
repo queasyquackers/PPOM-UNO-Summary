@@ -11,32 +11,30 @@ window.receiveLectureContent({
 
 ## Why This Lecture Matters (Slides 1-2, 6)
 
-Blood pressure is the driving force of blood flow to every organ in the body, so the body maintains a complex, redundant set of systems to hold it constant despite constant environmental change. This lecture builds the whole regulatory map: the short-term neural reflexes (baroreceptors, chemoreceptors, the CNS ischemic response, and the atrial reflex) that rescue pressure within seconds, and the long-term hormonal control by the renin-angiotensin system acting in the kidney and the vasculature. It closes with the integrated response to hypovolemic shock from acute bleeding and the clinical applications — vagal maneuvers, carotid sinus hypersensitivity, the Cushing reflex, white coat hypertension, and the drugs that block RAAS. Everything downstream (antihypertensive pharmacology, renal physiology, shock management) leans on this framework.
+Blood pressure is the driving force of blood flow to every organ, so the body maintains a redundant set of systems to hold it constant. Two programs do the work: short-term neural reflexes (baroreceptors, chemoreceptors, the CNS ischemic response, the atrial reflex) that rescue pressure within seconds, and long-term hormonal control by the renin-angiotensin system acting in kidney and vasculature. Antihypertensive pharmacology, renal physiology, and shock management all lean on this framework.
 
 ## The Hemodynamic Toolkit: Definitions and the Hydraulic Equation (Slides 3-5)
 
-Before regulating pressure, you must be able to compute it. The lecturer's core message is that blood pressure is a hydraulic equation: pressure equals flow times resistance. Every blood pressure change you will ever explain traces back to a change in cardiac output (via heart rate or stroke volume), a change in total peripheral resistance, or both.
+Before regulating pressure you must be able to compute it: blood pressure is a hydraulic equation, pressure equals flow times resistance. Every blood pressure change you will ever explain traces back to a change in cardiac output (via heart rate or stroke volume), a change in total peripheral resistance, or both.
 
-- **Stroke volume (SV) (Slide 3):** volume of blood pumped by a ventricle in a single beat.
-  - Affected by **contractility, afterload, and preload**.
+- **Stroke volume (SV) (Slide 3):** volume of blood pumped by a ventricle in a single beat; set by **contractility, afterload, and preload**.
   - **Increased central venous pressure → increased preload** (preload and end-diastolic volume mean the same thing) → **increased SV**.
   - **Increased contractility → increased SV**; **increased afterload → decreased SV**.
 - **Cardiac output (CO):** volume pumped through the circulation per minute; **CO = SV × HR**, normally about **5 L/min**.
   - **Heart rate** is the neural lever: **sympathetic activation increases HR** (e.g., physical activity); **parasympathetic activation decreases HR**.
   - Takeaway [Lecturer Emphasis]: any change in CO happens for two possible reasons — a change in HR, a change in SV, or both.
-- **Total peripheral resistance (TPR) (Slide 3):** resistance to flow in the systemic circulation; **TPR = MAP / CO**. The term **systemic vascular resistance (SVR)** means the same thing.
-- **Mean arterial pressure (MAP):** the average arterial pressure through one cardiac cycle.
-  - **MAP = CO × TPR** and **MAP = (2 × diastolic + systolic) / 3**.
+- **Total peripheral resistance (TPR) (Slide 3):** resistance to flow in the systemic circulation; **TPR = MAP / CO**. **Systemic vascular resistance (SVR)** means the same thing.
+- **Mean arterial pressure (MAP):** the average arterial pressure through one cardiac cycle. **MAP = CO × TPR** and **MAP = (2 × diastolic + systolic) / 3**.
   - **MAP must stay above 60 mmHg** for adequate tissue perfusion — a lower MAP means a perfusion deficit, which is an emergency [Lecturer Emphasis].
-- **Hydraulic equation (Slide 5):** Arterial BP = CO × TPR. Raise CO or TPR and BP rises; drop both and BP falls.
+- **Hydraulic equation (Slide 5):** Arterial BP = CO × TPR — raise either and BP rises, drop both and BP falls.
 
 :::highyield
-Blood pressure is a hydraulic equation: BP = CO × TPR, where CO = SV × HR. Every regulatory mechanism in this lecture — baroreceptors, chemoreceptors, CNS ischemic response, atrial reflex, and RAAS — works by adjusting heart rate, stroke volume, or vascular resistance. MAP must remain above 60 mmHg or tissue perfusion fails.
+BP = CO × TPR, where CO = SV × HR. Every regulatory mechanism in this lecture — baroreceptors, chemoreceptors, CNS ischemic response, atrial reflex, and RAAS — works by adjusting heart rate, stroke volume, or vascular resistance. MAP must remain above 60 mmHg or tissue perfusion fails.
 :::
 
 ## Two Systems of Regulation: Short-Term vs Long-Term (Slides 6-8)
 
-Blood pressure control is divided into two programs. Short-term regulation handles acute events — you stand up too fast and pressure drops, and it must be corrected within seconds. Long-term regulation is the lifelong project, running from birth to old age, and it is hormonal.
+Short-term regulation is neural and handles acute events — you stand up too fast and pressure drops, and it must be corrected within seconds. Long-term regulation is the lifelong hormonal project, from birth to old age.
 
 | Feature | Short-Term Regulation | Long-Term Regulation |
 | --- | --- | --- |
@@ -47,15 +45,15 @@ Blood pressure control is divided into two programs. Short-term regulation handl
 
 ## The Baroreceptor Reflex Arc (Slides 9, 11)
 
-The baroreceptor reflex is a classic sensor-controller-effector loop. Pressure sensors in the great vessels report to the medulla, and the medulla answers through the autonomic nervous system. Knowing exactly where the receptors sit, which nerve carries each afferent, and where the efferents act is explicitly what the lecturer wants you to remember.
+A classic sensor-controller-effector loop: pressure sensors in the great vessels report to the medulla, and the medulla answers through the autonomic nervous system. Where the receptors sit, which nerve carries each afferent, and where the efferents act is explicitly what the lecturer wants you to remember.
 
 - **Detectors:**
-  - **Baroreceptors — the primary sensors:** stretch-sensitive receptors that detect stretch of the vascular wall; located in the **aortic arch** and **carotid sinus**.
+  - **Baroreceptors — the primary sensors:** stretch-sensitive receptors detecting stretch of the vascular wall; located in the **aortic arch** and **carotid sinus**.
   - **Chemoreceptors — secondary sensors:** detect changes in blood PO2, PCO2, and pH; same two locations.
 - **Afferent limb:** cranial nerves **IX and X**.
-  - **CN IX (glossopharyngeal):** carries signals from the **carotid sinus**.
-  - **CN X (vagus):** carries signals from the **aortic arch**.
-- **Control center:** the **nucleus tractus solitarius (NTS)** in the **medulla** — the specific region that regulates blood pressure; an active area of research because the brain plays a key role in BP regulation [Lecturer Emphasis].
+  - **CN IX (glossopharyngeal):** from the **carotid sinus**.
+  - **CN X (vagus):** from the **aortic arch**.
+- **Control center:** the **nucleus tractus solitarius (NTS)** in the **medulla** — an active area of research because the brain plays a key role in BP regulation [Lecturer Emphasis].
 - **Efferent limb:** sympathetic and parasympathetic outflow.
 - **Effectors:** pacemaker and muscle cells of the **heart**, **vascular smooth muscle** of arteries and veins, and the **adrenal medulla** (not shown on the figure, but included) [Lecturer Emphasis].
 
@@ -63,59 +61,56 @@ The baroreceptor reflex is a classic sensor-controller-effector loop. Pressure s
 
 The everyday demonstration: your alarm rings, you realize you are late, and you jump out of bed. Going from lying to standing drops your blood pressure, blood delivery to the brain briefly falls, and you feel palpitations and dizziness. That entire experience is the baroreceptor reflex correcting hypotension — and it is why you should stand up slowly, sitting first [Lecturer Emphasis].
 
-- **When BP rises (Slide 12):** baroreceptors detect **increased stretch** → **increased firing frequency** → afferents via CN IX and CN X → vasomotor center in the medulla (NTS) → **increased parasympathetic** and **decreased sympathetic** stimulation.
-  - **Less norepinephrine, more acetylcholine** → decreased HR, decreased contraction force, **vasodilation** → decreased CO and decreased peripheral resistance → **BP falls back down**.
+- **When BP rises (Slide 12):** baroreceptors detect **increased stretch** → **increased firing frequency** → afferents via CN IX and CN X → vasomotor center in the medulla (NTS) → **increased parasympathetic**, **decreased sympathetic**.
+  - **Less norepinephrine, more acetylcholine** → decreased HR, decreased contraction force, **vasodilation** → decreased CO and peripheral resistance → **BP falls back down**.
 - **When BP falls (Slide 13):** baroreceptors detect **decreased stretch** → **decreased firing frequency** → NTS → **increased sympathetic**, **decreased parasympathetic**.
-  - **More norepinephrine, less acetylcholine** → increased HR, increased contraction force, **vasoconstriction** → increased CO and increased peripheral resistance → **BP rises**.
-- The jump-out-of-bed sequence (Slide 10): positional change → baroreceptor reflex activated → increased sympathetic activity → increased HR, increased SV, increased BP → felt as **palpitations and dizziness**.
+  - **More norepinephrine, less acetylcholine** → increased HR, increased contraction force, **vasoconstriction** → increased CO and peripheral resistance → **BP rises**.
+- The jump-out-of-bed sequence (Slide 10): positional change → reflex activated → increased sympathetic activity → increased HR, SV, and BP.
 
 :::diagram cv17-baroreflex-loop:::
 
 :::highyield
-Baroreceptor logic is pure stretch: more stretch = more firing = parasympathetic response (slow down, dilate); less stretch = less firing = sympathetic response (speed up, constrict). The afferents are CN IX (carotid sinus) and CN X (aortic arch); the control center is the NTS in the medulla.
+Baroreceptor logic is pure stretch: more stretch = more firing = parasympathetic response (slow down, dilate); less stretch = less firing = sympathetic response (speed up, constrict). Afferents are CN IX (carotid sinus) and CN X (aortic arch); the control center is the NTS in the medulla.
 :::
 
 ## Tricking the Baroreceptors: Valsalva Maneuver and Carotid Massage (Slides 14-15)
 
-Because the reflex is mechanical, you can fool it. Anything that makes the baroreceptors "feel" high pressure will trigger a parasympathetic response and slow the heart — which is exactly what you want in a patient with a dangerous tachycardia.
+Because the reflex is mechanical, you can fool it. Anything that makes the baroreceptors "feel" high pressure will trigger a parasympathetic response and slow the heart — exactly what you want in a patient with a dangerous tachycardia.
 
 - **Valsalva maneuver (Slide 14):** forceful exhalation against a closed airway (close mouth and nose and strain).
   - Raises **intrathoracic pressure** → increases **baroreceptor stretch and firing** → the medulla is "tricked" into sensing high BP → **increased parasympathetic, decreased sympathetic** → **decreased heart rate**.
-  - Clinical use: a patient arriving in the ER with **supraventricular tachycardia** can perform the Valsalva maneuver to slow their own heart rate [Lecturer Emphasis].
 - **Carotid massage (Slide 15):** massage directly over the carotid sinus — exactly where the baroreceptors live.
   - The massage **simulates elevated BP**; the baroreceptors fire, CN IX carries the message to the NTS, and the NTS responds via CN X with **increased parasympathetic activity** → **heart rate drops**.
-  - Used in the ER when a tachycardic patient needs rate control quickly [Lecturer Emphasis].
 
 :::correlate
 Supraventricular Tachycardia (Vagal Maneuver Response)
 
-- **Pathophysiology:** A rapid heart rhythm presenting to the ER; the reflex target is the AV conduction slow-down produced by parasympathetic outflow.
-- **Presentation:** Tachycardia, palpitations.
-- **Treatment:** Vagal maneuvers — the Valsalva maneuver (forceful exhalation against a closed airway) or carotid massage — both of which trick the baroreceptors into sensing high blood pressure, driving parasympathetic output from the NTS via CN X and slowing the heart rate.
-- **Lecturer's Point:** These maneuvers work purely by activating the baroreceptor reflex; the patient can perform Valsalva themselves.
+- **Presentation:** Rapid heart rhythm with palpitations, arriving in the ER needing rate control quickly.
+- **Treatment:** Vagal maneuvers — Valsalva or carotid massage — driving the parasympathetic outflow above from the NTS via CN X, slowing AV conduction and the rate.
+- **Lecturer's Point:** These maneuvers work purely by activating the baroreceptor reflex; the patient can perform Valsalva themselves [Lecturer Emphasis].
 :::
 
 :::correlate
 Carotid Sinus Hypersensitivity Syndrome
 
-- **Pathophysiology:** The baroreceptor system becomes hypersensitive — the receptors are accidentally hyper-stimulated by ordinary neck pressure, constantly signaling that blood pressure has changed. Frequently associated with arteriosclerotic changes in the carotid sinus.
+- **Pathophysiology:** The baroreceptor system becomes hypersensitive — receptors are accidentally hyper-stimulated by ordinary neck pressure, constantly signaling that blood pressure has changed. Frequently associated with arteriosclerotic changes in the carotid sinus.
 - **Presentation:** Syncope or pre-syncopal episodes triggered by trivial mechanical stimulation of the neck — buttoning a shirt, shaving, or brushing hair.
 - **Risk Factors:** Older age, male sex, atherosclerotic disease, prior neck surgery or neck irradiation (e.g., for cancer treatment).
-- **Lecturer's Point:** A classic board vignette — an elderly male patient presenting with syncope that occurs while putting on his shirt or shaving. The lecturer flagged this as "extra" material included specifically for board prep.
+- **Lecturer's Point:** A classic board vignette — an elderly male with syncope while putting on his shirt or shaving. Flagged as "extra" material included specifically for board prep.
 :::
 
 ## Chemoreceptors (Slides 17-18)
 
-The chemoreceptors are the chemical counterpart to the mechanical baroreceptors, and they share real estate and wiring with them. When blood chemistry deteriorates — less oxygen, more CO2, more acid — the body's answer is to raise pressure and push more blood through.
+The chemical counterpart to the mechanical baroreceptors, sharing their real estate and wiring: when blood chemistry deteriorates — less oxygen, more CO2, more acid — the answer is to raise pressure and push more blood through.
 
 - **Location:** peripheral chemoreceptors in the **carotid and aortic bodies** (aortic arch and carotid region, alongside the baroreceptors).
 - **Stimuli:** **decreased O2, increased CO2, decreased pH**.
-- **Pathway:** afferent signals travel through the **same nerves** as the baroreceptors — **CN IX and CN X** — to the medulla.
+- **Pathway:** afferents travel through the **same nerves** as the baroreceptors — **CN IX and CN X** — to the medulla.
 - **Response:** **increased sympathetic activity** → **increased blood pressure**.
 
 ## CNS Ischemic Response and the Cushing Reflex (Slides 19-20)
 
-When blood flow to the brain itself becomes critically low, the brain does not negotiate — it commands a massive pressure increase to restore its own perfusion. This is the most dramatic of the short-term mechanisms, and its pathologic version, the Cushing reflex, is a life-threatening emergency you must recognize from vital signs alone.
+When blood flow to the brain itself becomes critically low, the brain does not negotiate — it commands a massive pressure increase to restore its own perfusion. Its pathologic version, the Cushing reflex, is a life-threatening emergency you must recognize from vital signs alone.
 
 - **CNS ischemic reflex (Slide 19):** severe decrease in cerebral blood flow (e.g., bleeding, accident) → **ischemia** → **CO2 accumulation** → **excitation of vasomotor center neurons** → **powerful vasoconstriction** → **increased BP**.
   - Whenever cerebral blood flow drops, expect the patient's blood pressure to rise because of this reflex [Lecturer Emphasis].
@@ -125,11 +120,11 @@ When blood flow to the brain itself becomes critically low, the brain does not n
 :::correlate
 Cushing Reflex (Cushing Response)
 
-- **Pathophysiology:** A type of CNS ischemic response. Increased intracranial pressure constricts cerebral arterioles → decreased cerebral blood flow → cerebral ischemia with increased PCO2 and decreased pH → compensatory sympathetic activation → systemic hypertension. The baroreceptors in the aortic arch and carotid sinus then detect the high pressure, increase their firing, and drive a parasympathetic response that slows the heart.
+- **Pathophysiology:** The CNS ischemic response above, driven by increased intracranial pressure: cerebral arterioles are constricted → cerebral blood flow falls → ischemia with increased PCO2 and decreased pH → sympathetic activation → systemic hypertension. The aortic arch and carotid sinus baroreceptors then detect that high pressure, increase their firing, and drive a parasympathetic response that slows the heart.
 - **Presentation:** The Cushing triad — hypertension, bradycardia, and respiratory depression.
 - **Risk Factors / Causes:** Head injury, intracranial hemorrhage, tumor growth, CNS inflammation, excess CSF (overproduction or impaired drainage), and metabolic derangements such as hyponatremia.
 - **Complications:** Medical emergency — life-threatening.
-- **Lecturer's Point:** The bradycardia is the baroreceptor reflex responding to the sympathetically driven hypertension — two reflexes stacked on each other.
+- **Lecturer's Point:** The bradycardia is the baroreceptor reflex answering the sympathetically driven hypertension — two reflexes stacked on each other.
 :::
 
 :::mnemonic
@@ -143,39 +138,31 @@ Cushing Reflex (Cushing Response)
 
 ## The Atrial (Bainbridge) Reflex and ANP (Slides 21-22)
 
-The atria run their own volume-management program with two arms: a neural reflex that speeds the heart to move excess blood along, and a hormonal response that dumps volume through the kidneys. Both are triggered by the same event — atrial stretch from increased venous return.
+The atria run a volume-management program with two arms, both triggered by atrial stretch from increased venous return: a neural reflex that speeds the heart, and a hormone that dumps volume through the kidneys.
 
 - **Atrial reflex / Bainbridge reflex (Slide 21):** a physiologic reflex mediated by **stretch receptors located in the atria**.
-  - **Increased blood volume → increased venous return → atrial distension** → stretch receptors activated → signals to the vasomotor center → **increased sympathetic activity and inhibition of parasympathetic** → **increased heart rate**.
-  - Purpose: the body says "remove this excess blood from the heart — speed up" — maintaining normal blood volume and cardiovascular homeostasis.
+  - **Increased blood volume → increased venous return → atrial distension** → stretch receptors activated → signals to the vasomotor center → **increased sympathetic activity and inhibition of parasympathetic** → **increased heart rate**, moving the excess blood out of the heart and maintaining normal blood volume.
 - **Atrial natriuretic peptide (ANP) (Slide 22):** a **non-neural** response to the same stretch. Stretching specific atrial cardiomyocytes causes **secretion of ANP** — a peptide you will see repeatedly in the cardiovascular lectures [Lecturer Emphasis].
   - **Mechanism:** acts via the **cyclic GMP** pathway → **relaxation of vascular smooth muscle → vasodilation → decreased TPR → decreased BP**.
   - **Renal actions:** **decreased sodium reabsorption**, **dilation of afferent arterioles with constriction of efferent arterioles** → **diuresis**.
-  - Net effect: a vasodilator with renal actions that together **drop blood pressure**.
 
 ## Practice Point: What Happens After Vagotomy? (Slides 25-26)
 
-The lecturer's in-class practice question: some surgeries cut the vagus nerve — how would that affect the baroreceptor reflex? The anatomy is the key. The vagus (CN X) carries the aortic arch afferents and also delivers the parasympathetic efferent output to the heart.
+The lecturer's in-class question: some surgeries cut the vagus nerve — how does that affect the baroreceptor reflex? CN X carries the aortic arch afferents and also delivers the parasympathetic efferent output to the heart.
 
 - **Answer:** severing the vagus **removes parasympathetic stimulation to the heart**. With **unopposed sympathetic stimulation**, the **heart rate increases**.
 - Know which baroreceptors connect to which nerve — carotid sinus to CN IX, aortic arch to CN X — this anatomic knowledge is very important [Lecturer Emphasis].
 
 ## Long-Term Regulation: The Renin-Angiotensin System (Slides 29-31, 35)
 
-Long-term blood pressure control matters from the day you are born until old age — without it you risk stroke, vision problems, heart attack, kidney disease, heart failure, and sexual dysfunction. The controlling system is hormonal: the renin-angiotensin(-aldosterone) system, operating over hours to days (and effectively over months and years). The whole cascade exists to produce one molecule — angiotensin II, the most potent vasoconstrictor in the body — and every one of its effects points the same direction: pressure up.
+Long-term control runs from the day you are born until old age, and it is hormonal: the renin-angiotensin(-aldosterone) system, operating over hours to days and effectively over months and years. The whole cascade exists to produce one molecule — angiotensin II, the most potent vasoconstrictor in the body — and every one of its effects points the same direction: pressure up.
 
 - **The cascade (Slides 7, 31):**
   - A **drop in blood pressure** activates the **kidneys to produce renin**.
   - **Renin** (an enzyme) cleaves **angiotensinogen** — a peptide produced by the **liver**, always circulating in the bloodstream — into **angiotensin I**.
   - **Angiotensin I has no effect**; it must be converted to **angiotensin II** by **ACE (angiotensin-converting enzyme)**, produced by several tissues but chiefly by the **endothelial cells of the lungs** [Lecturer Emphasis].
   - **Angiotensin II** binds the **angiotensin type 1 (AT1) receptor**, found in the majority of tissues — vasculature, kidney, adrenal cortex, and more.
-- **Effects of angiotensin II (Slide 35):** all converge on raising BP.
-  - **Vasoconstriction** of vascular smooth muscle — the main effect.
-  - **Sympathetic activation** (contributes further to vasoconstriction).
-  - **Pituitary ADH release**.
-  - **Adrenal cortex aldosterone release** → sodium retention.
-  - **Direct renal sodium and water reabsorption**.
-  - **Increased thirst** → more fluid intake → more volume → increased stroke volume and cardiac output [Lecturer Emphasis].
+- **Effects of angiotensin II (Slide 35):** all converge on raising BP — **vasoconstriction** of vascular smooth muscle (the main effect), **sympathetic activation**, **pituitary ADH release**, **adrenal cortex aldosterone release** → sodium retention, **direct renal sodium and water reabsorption**, and **increased thirst** → more fluid intake and more volume → increased stroke volume and cardiac output [Lecturer Emphasis].
   - In MAP = CO × TPR terms (Slide 35): increased extracellular fluid and blood volume → increased venous return → **increased CO**; arteriolar vasoconstriction → **increased TPR**; together → **increased MAP**.
 
 :::mnemonic
@@ -190,47 +177,47 @@ Long-term blood pressure control matters from the day you are born until old age
 - **V:** Vasoconstriction (the most potent vasoconstrictor in the body)
 :::
 
-- **Renal sensing — the juxtaglomerular apparatus (Slide 31):** the JGA contains the **macula densa**, the **juxtaglomerular (granular) cells**, and the **mesangial cells**, positioned at the afferent and efferent arterioles. (Full detail comes in renal physiology.)
+- **Renal sensing — the juxtaglomerular apparatus (Slide 31):** the JGA contains the **macula densa**, the **juxtaglomerular (granular) cells**, and the **mesangial cells**, positioned at the afferent and efferent arterioles (full detail comes in renal physiology).
   - **Baroreceptors inside the afferent arteriole** sense a **drop in renal perfusion pressure** (e.g., dehydration on a hot day dropping BP).
   - The **macula densa** senses **low NaCl** (hyponatremia).
-  - Both signals converge on the **granular (JG) cells**, which **release renin** → RAAS activation → vasoconstriction plus sodium and water reabsorption → increased BP.
+  - Both signals converge on the **granular (JG) cells**, which **release renin**.
 
 :::diagram cv17-raas-cascade-jga:::
 
 :::highyield
-RAAS in one line: low BP → JG (granular) cells release renin (triggered by low afferent arteriolar stretch and low NaCl at the macula densa) → renin cleaves liver-made angiotensinogen to angiotensin I (inactive) → ACE in the lung endothelium makes angiotensin II — the body's most potent vasoconstrictor — which binds AT1 receptors to vasoconstrict, activate sympathetics, release ADH and aldosterone, retain sodium and water, and increase thirst. Every arrow raises BP.
+RAAS in one line: low BP → JG (granular) cells release renin (triggered by low afferent arteriolar stretch and low NaCl at the macula densa) → renin cleaves liver-made angiotensinogen to angiotensin I (inactive) → ACE in the lung endothelium makes angiotensin II, which binds AT1 receptors. Every arrow raises BP.
 :::
 
 ## Angiotensin II Beyond Vasoconstriction (Slide 36)
 
-Chronically elevated angiotensin II is not just a pressor — it damages the vessels themselves. Most of its AT1-mediated effects beyond vasoconstriction are negative, which is part of why blocking this system is so valuable in hypertension.
+Chronically elevated angiotensin II is not just a pressor — it damages the vessels themselves, which is part of why blocking this system is so valuable in hypertension.
 
 - **Vascular remodeling effects:** hypertrophy of smooth muscle cells, **fibrosis**, **inflammation**, migration, calcification, and contraction.
-- **Oxidative stress:** angiotensin II increases oxidative stress, which is detrimental to vascular function.
+- **Oxidative stress:** angiotensin II increases oxidative stress, detrimental to vascular function.
 - Net message [Lecturer Emphasis]: high angiotensin II causes **vascular damage and dysfunction** that further contribute to rising blood pressure.
 
 ## Measuring Blood Pressure: Indirect vs Direct, and the Pitfalls (Slides 32-34)
 
-How we measure pressure shapes what we think we know about a patient. The standard cuff is an indirect method — an estimate — and a single office reading is a single point in a fluctuating 24-hour signal. The lecturer's own lab work makes the point vividly.
+The standard cuff is an indirect method — an estimate — and a single office reading is one point in a fluctuating 24-hour signal, which shapes what we think we know about a patient.
 
-- **Indirect measurement (Slide 32):** the usual clinical method; the same approach is used in rodents with tail-cuff measurement. It gives an **estimate** of the real pressure.
+- **Indirect measurement (Slide 32):** the usual clinical method, mirrored by tail-cuff measurement in rodents. It gives an **estimate** of the real pressure.
 - **Direct measurement (Slide 33):** a **catheter placed directly in the artery** — in the research lab, an implanted pressure catheter (radio telemetry) in the carotid allows **continuous BP recording** for 24-48 hours.
-  - Preliminary lab data comparing normal and obese mice show exactly when pressure peaks — in the **dark cycle** [Lecturer Emphasis].
-  - Clinical implication: one clinic measurement may catch a normal or a high moment and misrepresent the patient; ideally record at least 24-48 hours — pressure may run higher in the morning or at night [Lecturer Emphasis].
-- **Sex differences (Slide 34):** the mechanisms regulating BP **differ between men and women**, yet current antihypertensive treatments are the same for both and were largely developed in male preclinical models. In coming years hypertension may be treated differently by sex, and separate guidelines may emerge [Lecturer Emphasis].
+  - Preliminary lab data comparing normal and obese mice show pressure peaking in the **dark cycle** [Lecturer Emphasis].
+  - Clinical implication: one clinic measurement may catch a normal or a high moment and misrepresent the patient; ideally record 24-48 hours — pressure may run higher in the morning or at night [Lecturer Emphasis].
+- **Sex differences (Slide 34):** the mechanisms regulating BP **differ between men and women**, yet current antihypertensive treatments are the same for both and were largely developed in male preclinical models. Hypertension may be treated differently by sex in coming years, with separate guidelines [Lecturer Emphasis].
 
 :::correlate
 White Coat Hypertension (White Coat Syndrome)
 
 - **Pathophysiology:** Stress and nervousness triggered by the clinical environment (seeing someone in a white coat) transiently elevate blood pressure during measurement.
-- **Presentation:** Elevated BP readings in the clinical setting with normal readings when measured elsewhere.
-- **Diagnosis:** Recognize that a single elevated in-office measurement does not equal hypertension; out-of-office/continuous measurement clarifies the true pressure profile.
-- **Lecturer's Point:** One of the key confounders of single indirect measurements — the patient does not actually have hypertension.
+- **Presentation:** Elevated BP readings in the clinic with normal readings when measured elsewhere.
+- **Diagnosis:** A single elevated in-office measurement does not equal hypertension; out-of-office/continuous measurement clarifies the true pressure profile.
+- **Lecturer's Point:** A key confounder of single indirect measurements — the patient does not actually have hypertension.
 :::
 
 ## Hypertension: The Silent Killer (Slide 37)
 
-Hypertension earns its nickname because most patients discover it only when symptoms — a headache, bleeding — finally appear, and by then it is often late; some patients never have symptoms at all. The risk factor list is dominated by things we can change, and the classification hinges on whether a cause can be found.
+Hypertension earns its nickname because most patients discover it only when symptoms finally appear, and by then it is often late; some never have symptoms at all. The risk factors are dominated by things we can change, and classification hinges on whether a cause can be found.
 
 :::correlate
 Hypertension
@@ -246,21 +233,20 @@ Hypertension
 
 ## Shock: When Pressure Fails (Slides 38-39)
 
-High blood pressure is dangerous, but low blood pressure is just as dangerous. Shock is a life-threatening circulatory disorder with a high mortality rate: pressure falls, blood stops reaching the brain, kidneys, and gut, and under-perfused organs begin to die. Whatever the trigger, the common pathway is hypoperfusion, and the common goal of treatment is to restore pressure and reperfuse tissue as soon as possible.
+Low blood pressure is as dangerous as high. Shock is a life-threatening circulatory disorder with a high mortality rate: pressure falls, blood stops reaching the brain, kidneys, and gut, and under-perfused organs begin to die. Whatever the trigger, the common pathway is hypoperfusion and the goal is to restore pressure and reperfuse tissue as soon as possible.
 
 | Type of Shock | Primary Defect | Mechanism of Hypotension |
 | --- | --- | --- |
-| Hypovolemic | Lost blood volume (bleeding, burns, dehydration) | Decreased SV → decreased CO → decreased BP |
-| Cardiogenic | Weak, failing heart | Poor pumping → decreased CO → decreased BP |
-| Septic | Release of vasodilator mediators | Massive vasodilation → decreased TPR → decreased BP |
-| Anaphylactic | Histamine/bradykinin release | Massive vasodilation → decreased TPR → decreased BP |
+| Hypovolemic | Lost blood volume (bleeding, burns, dehydration) | ↓ SV → ↓ CO → ↓ BP |
+| Cardiogenic | Weak, failing heart | Poor pumping → ↓ CO → ↓ BP |
+| Septic | Release of vasodilator mediators | Vasodilation → ↓ TPR → ↓ BP |
+| Anaphylactic | Histamine/bradykinin release | Vasodilation → ↓ TPR → ↓ BP |
 
 :::correlate
 Hypovolemic Shock
 
 - **Pathophysiology:** Loss of blood volume (hemorrhage/accident, major burns, dehydration) → decreased preload (decreased venous return) → decreased stroke volume → decreased cardiac output → decreased BP → tissue hypoperfusion.
-- **Presentation:** Hypotension with a hallmark compensatory picture: intense vasoconstriction with increased systemic vascular resistance — very typical of bleeding situations.
-- **Diagnosis:** Hemodynamic pattern — decreased preload, decreased CO, increased SVR (the baroreceptor reflex compensating).
+- **Presentation / Diagnosis:** Hypotension with the hallmark compensatory hemodynamic pattern — decreased preload, decreased CO, but **increased SVR** from intense vasoconstriction, very typical of bleeding.
 - **Treatment:** Give volume: restoring volume raises stroke volume, cardiac output, and blood pressure, reperfusing the tissues.
 - **Complications:** Without reversal — inadequate oxygen and nutrient delivery and organ damage.
 - **Lecturer's Point:** Highly asked on board exams (the USMLE-style table). Compensation is two-pronged: the baroreceptor reflex (increased HR, vasoconstriction, increased peripheral resistance) plus renal renin release activating RAAS for angiotensin II-mediated vasoconstriction.
@@ -268,14 +254,14 @@ Hypovolemic Shock
 
 ## Blocking RAAS: ACE Inhibitors and ARBs (Slide 42)
 
-Because every RAAS output raises pressure, interrupting the system is one of today's front-line strategies against hypertension — and this lecture's physiology is exactly what you will lean on in the antihypertensive pharmacology lectures [Lecturer Emphasis]. There are two points of attack.
+Because every RAAS output raises pressure, interrupting the system is a front-line strategy against hypertension — and this lecture's physiology is exactly what you will lean on in the antihypertensive pharmacology lectures [Lecturer Emphasis]. Two points of attack:
 
 | Drug Class | Target | Consequence |
 | --- | --- | --- |
-| ACE inhibitors | Inhibit angiotensin-converting enzyme | Angiotensin I is not converted to angiotensin II → lower levels of the potent vasoconstrictor |
-| ARBs (angiotensin receptor blockers) | Block the AT1 receptor | Angiotensin II may remain at high levels but cannot bind its receptor → effects prevented |
+| ACE inhibitors | Angiotensin-converting enzyme | Angiotensin I not converted → less angiotensin II |
+| ARBs (angiotensin receptor blockers) | AT1 receptor | Angiotensin II may stay high but cannot bind → effects prevented |
 
-- Both classes are highly used to control hypertension; they interfere with the system at different steps to decrease blood pressure.
+- Both classes are heavily used to control hypertension, interfering at different steps to lower blood pressure.
 `,
   "flashcards": [
     { "front": "What are the two formulas for mean arterial pressure, and what MAP is required for adequate tissue perfusion?", "back": "MAP = CO × TPR and MAP = (2 × diastolic + systolic) / 3. MAP must be greater than 60 mmHg — below that, tissue perfusion is deficient and it is an emergency.", "tag": "Concept" },

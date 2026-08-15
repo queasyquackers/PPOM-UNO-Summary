@@ -1,0 +1,3770 @@
+1
+00:00:01,400 --> 00:00:03,020
+Hello everyone. Welcome back.
+
+2
+00:00:04,620 --> 00:00:05,860
+Today we're going to talk
+
+3
+00:00:05,860 --> 00:00:07,640
+about some of the fundamental
+
+4
+00:00:07,940 --> 00:00:11,240
+key and core concepts of
+respiratory physiology.
+
+5
+00:00:11,480 --> 00:00:15,240
+So here it is. I'm
+Vishwar Ajagopavan. I'm
+
+6
+00:00:15,240 --> 00:00:16,560
+an associate professor
+from the biomedical
+
+7
+00:00:16,560 --> 00:00:19,620
+sciences and here are
+the learning objectives.
+
+8
+00:00:20,120 --> 00:00:23,100
+So you're comparing
+and contrasting the
+
+9
+00:00:23,100 --> 00:00:26,460
+relationships between lung
+volumes and capacities.
+
+10
+00:00:27,300 --> 00:00:30,680
+Discussing spirometry and its
+limitations in measurements
+
+11
+00:00:30,680 --> 00:00:36,160
+of lung volumes and capacities
+and the methodologies
+
+12
+00:00:36,160 --> 00:00:40,000
+associated with determining
+residual volume and
+
+13
+00:00:40,000 --> 00:00:44,200
+function residual capacity
+and then extrapolating these
+
+14
+00:00:44,200 --> 00:00:48,400
+volumes capacities with
+respect to common pathologies
+
+15
+00:00:48,400 --> 00:00:51,640
+such as obstructive and
+restrictive lung diseases and
+
+16
+00:00:51,640 --> 00:00:57,440
+then talking about dead
+space to talk about regions
+
+17
+00:00:57,440 --> 00:00:59,740
+of the lung that don't
+participate in the gas exchange
+
+18
+00:00:59,740 --> 00:01:03,580
+and then how to measure dead
+space. Major objectives.
+
+19
+00:01:03,910 --> 00:01:08,160
+Let's dive in. So before
+that overall what are
+
+20
+00:01:08,160 --> 00:01:11,000
+the functions of the
+respiratory system? We're
+
+21
+00:01:11,000 --> 00:01:13,360
+not going to talk
+about all these in this
+
+22
+00:01:13,360 --> 00:01:16,990
+session. There are other
+lecturers together will
+
+23
+00:01:19,100 --> 00:01:22,880
+raise you to understand
+all the functions of the
+
+24
+00:01:22,880 --> 00:01:26,360
+respiratory system but here
+we're to talk about a certain
+
+25
+00:01:26,360 --> 00:01:31,920
+aspect but in general one
+is major function is the
+
+26
+00:01:31,920 --> 00:01:36,120
+exchange between the atmosphere
+and the blood and the end
+
+27
+00:01:36,120 --> 00:01:39,360
+organ and the end tissue
+and tissues and cells okay
+
+28
+00:01:39,360 --> 00:01:45,920
+and then we have protecting
+against inhalatory substances
+
+29
+00:01:45,920 --> 00:01:50,120
+and pathogens etc
+smoking intentionally or
+
+30
+00:01:50,120 --> 00:01:57,220
+unintentionally the harmful
+materials are you know fire you
+
+31
+00:01:57,220 --> 00:02:02,580
+know fire anything for that
+matter any particles that
+
+32
+00:02:02,580 --> 00:02:08,440
+can be stopped by the inner
+layer of the respiratory
+
+33
+00:02:08,440 --> 00:02:12,690
+system it tries to protect
+as much as possible beyond
+
+34
+00:02:13,740 --> 00:02:18,840
+that it goes in now acid
+and base homeostasis that's
+
+35
+00:02:18,840 --> 00:02:22,910
+another one that's another
+major one right especially
+
+36
+00:02:22,960 --> 00:02:30,840
+in in collaboration with
+the kidneys and the lungs
+
+37
+00:02:30,840 --> 00:02:34,100
+plays an important role and
+then vocal control as well
+
+38
+00:02:34,100 --> 00:02:39,120
+all right so we're going
+to talk about the key four
+
+39
+00:02:39,120 --> 00:02:42,800
+major processes not all four
+but what are the four major
+
+40
+00:02:42,800 --> 00:02:47,000
+processes one is ventilation
+diffusion transport
+
+41
+00:02:47,000 --> 00:02:49,800
+regulations what's ventilation
+ventilation is about inflow
+
+42
+00:02:49,800 --> 00:02:53,100
+and outflow of air between
+the atmosphere and the
+
+43
+00:02:53,100 --> 00:02:57,900
+lung alveoli okay and so
+that's the major aspect of
+
+44
+00:02:57,900 --> 00:03:01,840
+ventilation now diffusion
+is about the external aspect
+
+45
+00:03:01,840 --> 00:03:05,220
+of respiration it's a gas
+exchange between the alveoli
+
+46
+00:03:05,220 --> 00:03:10,900
+and blood right and transport
+is the transport of gases
+
+47
+00:03:10,900 --> 00:03:14,800
+we the blood stream
+transport of oxygen carbon
+
+48
+00:03:14,800 --> 00:03:17,920
+dioxide in the blood and body
+fluids you know to and fro
+
+49
+00:03:17,920 --> 00:03:22,440
+the body tissue cells and
+regulation is about central
+
+50
+00:03:22,440 --> 00:03:27,720
+regulation by the brainstem
+and this also is internal
+
+51
+00:03:27,720 --> 00:03:31,560
+respiration which is the
+respiration happening the gas
+
+52
+00:03:31,560 --> 00:03:33,760
+exchange between blood
+and the cells and then the
+
+53
+00:03:33,760 --> 00:03:36,280
+cellular level respiration
+interest intercellular
+
+54
+00:03:36,280 --> 00:03:39,200
+intracelular respiration which
+is a mitochondrial electron
+
+55
+00:03:39,200 --> 00:03:44,060
+transport but for our purposes
+we're going to highlight
+
+56
+00:03:44,060 --> 00:03:48,460
+pretty much on ventilation
+here okay this is just
+
+57
+00:03:48,460 --> 00:03:52,880
+an overview for you all
+right so the first part lung
+
+58
+00:03:52,880 --> 00:03:55,920
+volumes and capacities what
+are they pulmonary function
+
+59
+00:03:55,920 --> 00:04:03,540
+test is a major way by which
+the lung clinics try to
+
+60
+00:04:03,540 --> 00:04:06,580
+understand what's the status
+of the patient's lungs.
+
+61
+00:04:08,320 --> 00:04:12,200
+So in addition to
+history, physical exam,
+
+62
+00:04:12,200 --> 00:04:16,740
+radiology, etc., this is
+an important non-invasive
+
+63
+00:04:16,740 --> 00:04:20,140
+way to help determine
+the overall lung health.
+
+64
+00:04:20,660 --> 00:04:24,160
+And these tests
+determine, you know,
+
+65
+00:04:24,660 --> 00:04:27,860
+in addition to lung volume
+capacities, they also help
+
+66
+00:04:27,860 --> 00:04:31,200
+us understand the rate of
+airflow the quality of alveolar
+
+67
+00:04:31,200 --> 00:04:34,060
+gas diffusion and so on
+and they are already part
+
+68
+00:04:34,060 --> 00:04:38,220
+of pulmonary medicine but
+we will focus on the key
+
+69
+00:04:38,220 --> 00:04:43,900
+fundamental concepts here
+okay lung volumes what are the
+
+70
+00:04:43,900 --> 00:04:48,920
+lung volumes um the basic
+lung volumes are the tidal
+
+71
+00:04:48,920 --> 00:04:53,520
+volume that you see the
+curve let me put my um get my
+
+72
+00:04:53,520 --> 00:05:01,540
+cursor okay see if it works
+yeah all right title volume
+
+73
+00:05:01,540 --> 00:05:05,120
+right title volume is here
+title volume is this this
+
+74
+00:05:05,120 --> 00:05:10,600
+curvy curvy this curvy
+one title volume includes
+
+75
+00:05:10,600 --> 00:05:16,140
+inspiratory and expiratory
+inspiratory and expiratory
+
+76
+00:05:16,140 --> 00:05:24,200
+they're about the same volume
+about so we will look into
+
+77
+00:05:24,200 --> 00:05:29,400
+the numbers all right in a
+moment so tidal volume both
+
+78
+00:05:29,400 --> 00:05:32,140
+inspiratory and expiratory
+this is normal breathing
+
+79
+00:05:32,140 --> 00:05:34,940
+as we are now you're now
+sitting comfortably wherever
+
+80
+00:05:34,940 --> 00:05:38,930
+you are and you're breathing
+this is tidal volume now
+
+81
+00:05:40,140 --> 00:05:45,120
+when you take a deep breath
+for any reason okay sigh
+
+82
+00:05:45,120 --> 00:05:50,040
+of relief or um whatever
+reason you're taking a deep
+
+83
+00:05:50,040 --> 00:05:55,900
+inspiratory walk inspiratory
+breath you're doing um yoga
+
+84
+00:05:55,900 --> 00:06:00,260
+or whatever that deep
+breath is the inspiratory
+
+85
+00:06:00,260 --> 00:06:04,360
+reserve volume how much
+voluntarily you're able to go up
+
+86
+00:06:04,360 --> 00:06:09,180
+take in breathe in that's
+been inspiratory the opposite
+
+87
+00:06:09,530 --> 00:06:14,350
+how much you are able to
+expire voluntarily right
+
+88
+00:06:15,110 --> 00:06:20,990
+I'm demonstrating here so
+that expiratory voluntary
+
+89
+00:06:22,080 --> 00:06:28,500
+expiratory reserve volume
+that is this this that is this
+
+90
+00:06:28,790 --> 00:06:38,320
+and that's the that's the
+human limit now beyond that
+
+91
+00:06:38,700 --> 00:06:41,680
+there there is air in the
+lung there will be air in
+
+92
+00:06:41,680 --> 00:06:46,090
+the lung that we cannot expel
+how much ever we try okay
+
+93
+00:06:46,160 --> 00:06:49,120
+how much ever we try there
+is some amount of air that
+
+94
+00:06:49,120 --> 00:06:51,320
+is called the residual
+volume so that's the air that
+
+95
+00:06:51,320 --> 00:06:56,940
+cannot be blown out no matter
+how hard we try okay all
+
+96
+00:06:56,940 --> 00:07:01,660
+right so so fundamentally
+tidal volume inspiratory
+
+97
+00:07:01,660 --> 00:07:04,320
+reserve volume expiratory
+reserve volume and residual
+
+98
+00:07:04,320 --> 00:07:10,160
+volume we will look we will
+extend this a little bit to
+
+99
+00:07:10,160 --> 00:07:13,000
+capacities what are capacities
+so what we saw so far
+
+100
+00:07:13,000 --> 00:07:15,220
+is tidal volume inspiratory
+reserve expiratory reserve
+
+101
+00:07:15,220 --> 00:07:18,540
+and residual now when you
+combine couple of these at
+
+102
+00:07:18,540 --> 00:07:22,100
+a time right so when you
+combine inspiratory with
+
+103
+00:07:22,100 --> 00:07:28,600
+expiratory not expiratory when
+you combine inspiratory with
+
+104
+00:07:28,600 --> 00:07:32,720
+the time volume that total
+volume is called inspiratory
+
+105
+00:07:32,720 --> 00:07:39,140
+capacity this is our ability
+from baseline okay so
+
+106
+00:07:39,140 --> 00:07:42,620
+this is at this point
+inspiratory is a point where we
+
+107
+00:07:42,620 --> 00:07:46,420
+have normally breathed in
+and then on top of it you're
+
+108
+00:07:46,420 --> 00:07:49,660
+breathing extra that extra
+is mister reserve now
+
+109
+00:07:49,680 --> 00:07:53,860
+this extra plus regular is
+inspiratory capacity now this
+
+110
+00:07:53,860 --> 00:07:58,220
+extra inspiratory plus
+regular plus extra expiratory
+
+111
+00:07:58,220 --> 00:08:03,280
+right you combine IRV
+inspiratory reserve volume tidal
+
+112
+00:08:03,280 --> 00:08:06,020
+volume TV and ERV expiratory
+reserve volume all this
+
+113
+00:08:06,020 --> 00:08:11,760
+combined becomes vital
+capacity and then now if you
+
+114
+00:08:11,760 --> 00:08:16,900
+go down expiratory reserve
+and residual okay so this is
+
+115
+00:08:16,900 --> 00:08:20,920
+the total amount of air that
+can and cannot be expelled
+
+116
+00:08:20,920 --> 00:08:24,560
+from the lungs those that
+are sitting inside and
+
+117
+00:08:24,560 --> 00:08:30,410
+those that you can push out
+force push that is functional
+
+118
+00:08:30,440 --> 00:08:35,500
+residual capacity and finally
+everything you combine
+
+119
+00:08:35,500 --> 00:08:39,620
+everything becomes the total
+lung capacity total lung
+
+120
+00:08:39,620 --> 00:08:47,000
+capacity which is breathable
+and something that you
+
+121
+00:08:47,000 --> 00:08:50,300
+can and cannot everything
+combines total lung capacity
+
+122
+00:08:50,300 --> 00:08:53,520
+all right we'll move on we
+will look at it again in a
+
+123
+00:08:53,520 --> 00:09:00,400
+different way to help us
+understand so so we have the
+
+124
+00:09:00,400 --> 00:09:03,600
+at the end of normal
+inspiration right this is normal
+
+125
+00:09:03,600 --> 00:09:06,400
+inspiration at the end of
+normal inspiration this is
+
+126
+00:09:06,400 --> 00:09:09,260
+at the end of normal
+expiration so each one is tidal
+
+127
+00:09:09,260 --> 00:09:13,280
+volume the same volume is
+and here when you take a deep
+
+128
+00:09:13,280 --> 00:09:17,360
+breath after your end of
+normal inspiration that's
+
+129
+00:09:17,360 --> 00:09:20,140
+you reach this point of end
+of maximal inspiration and
+
+130
+00:09:20,600 --> 00:09:24,020
+then this volume is
+inspiratory result volume this
+
+131
+00:09:24,020 --> 00:09:27,120
+is tidal volume this is
+inspiratory result this is
+
+132
+00:09:27,120 --> 00:09:31,480
+tidal this is tidal and
+then you come here tidal
+
+133
+00:09:31,480 --> 00:09:35,300
+and And then this is, from
+here to here is, my bad,
+
+134
+00:09:35,900 --> 00:09:39,320
+here to here is
+expiratory reserve volume.
+
+135
+00:09:39,820 --> 00:09:42,260
+And then you reach
+the point of end of
+
+136
+00:09:42,260 --> 00:09:44,740
+maximal expiration,
+beyond which you cannot.
+
+137
+00:09:44,740 --> 00:09:47,020
+Now we combine these,
+we already saw in the
+
+138
+00:09:47,020 --> 00:09:50,000
+last slide, IC equals
+VT plus IRV, VC equals
+
+139
+00:09:50,160 --> 00:09:53,360
+VT plus IRV, and so on.
+And look at this below,
+
+140
+00:09:53,360 --> 00:09:58,700
+the normal approximate
+tidal volume is 500 ml.
+
+141
+00:09:58,700 --> 00:10:00,580
+These things you can remember.
+
+142
+00:10:00,940 --> 00:10:03,940
+Some of these would be
+important for you to remember.
+
+143
+00:10:04,780 --> 00:10:06,880
+It also gives you a good mental
+
+144
+00:10:06,880 --> 00:10:09,140
+image and idea about this.
+
+145
+00:10:10,720 --> 00:10:13,080
+Inspirative reserve is
+about 3,000 ml. Expirative
+
+146
+00:10:13,080 --> 00:10:15,480
+reserve is less than that.
+A third of inspirative
+
+147
+00:10:15,480 --> 00:10:17,940
+reserve is what you can
+expel. You can breathe in
+
+148
+00:10:17,940 --> 00:10:20,800
+a lot more volume than
+what you can breathe out.
+
+149
+00:10:21,020 --> 00:10:23,160
+Right? That's interesting.
+And then there is
+
+150
+00:10:23,160 --> 00:10:26,060
+residue volume which is
+more than a liter that's
+
+151
+00:10:26,060 --> 00:10:28,460
+sitting there inside the
+lungs that's just sitting.
+
+152
+00:10:29,000 --> 00:10:30,460
+Now the capacity
+
+153
+00:10:31,440 --> 00:10:33,960
+capacity, inspiratory
+capacity, when you combine
+
+154
+00:10:33,960 --> 00:10:37,430
+it, 3500 vital capacity,
+combine all 34500.
+
+155
+00:10:37,980 --> 00:10:40,820
+Functional residual is
+2200, and this is total
+
+156
+00:10:40,820 --> 00:10:45,080
+lung is 5.7 mL, right?
+Okay, that's informative.
+
+157
+00:10:45,100 --> 00:10:46,420
+Let's move on.
+
+158
+00:10:48,120 --> 00:10:51,820
+Now, just a different
+perspective of understanding
+
+159
+00:10:51,820 --> 00:10:55,080
+it, the inspiratory capacity
+is the maximum moment of
+
+160
+00:10:55,080 --> 00:10:58,240
+air that can be inspired
+following normal expiration.
+
+161
+00:10:58,520 --> 00:11:00,640
+When you think of it
+you'll understand this.
+
+162
+00:11:01,040 --> 00:11:03,840
+Then the maximum,
+what's vital capacity?
+
+163
+00:11:03,840 --> 00:11:05,800
+Sometimes called forced
+vital capacity. It's
+
+164
+00:11:05,800 --> 00:11:08,400
+the maximum moment of
+air that can be expired
+
+165
+00:11:08,400 --> 00:11:11,520
+after following a
+maximum inspiration.
+
+166
+00:11:12,040 --> 00:11:15,100
+Maximal expiration after
+a maximum inspiration.
+
+167
+00:11:15,500 --> 00:11:19,040
+That's vital capacity, a
+forced vital capacity. And
+
+168
+00:11:19,040 --> 00:11:21,960
+the functional acid capacity
+is, you already know,
+
+169
+00:11:21,960 --> 00:11:25,020
+RV plus ERV, is the amount
+of air that's remaining in
+
+170
+00:11:25,020 --> 00:11:28,060
+the lungs following a
+normal expiration. After you
+
+171
+00:11:28,060 --> 00:11:31,660
+normally breathe out what
+is sitting inside that's
+
+172
+00:11:31,660 --> 00:11:35,420
+the functional residual
+capacity volume and system
+
+173
+00:11:35,420 --> 00:11:39,140
+is relaxed okay so that's
+and then total lung capacity
+
+174
+00:11:39,140 --> 00:11:42,200
+is some of all the volumes
+you've heard that and
+
+175
+00:11:43,420 --> 00:11:49,160
+then the same thing but
+you can look into this that
+
+176
+00:11:49,160 --> 00:11:52,640
+lung volumes these are four
+non overlapping components
+
+177
+00:11:52,640 --> 00:11:56,150
+and these are some of the
+two or more components
+
+178
+00:11:56,400 --> 00:11:59,040
+are overlapping so non
+overlapping so one doesn't
+
+179
+00:11:59,040 --> 00:12:01,320
+overlap with one another
+but the capacity do overlap.
+
+180
+00:12:01,480 --> 00:12:03,920
+For example total and
+capacity overlaps everything
+
+181
+00:12:03,920 --> 00:12:08,600
+right and inspiratory capacity
+overlaps both combines
+
+182
+00:12:08,600 --> 00:12:11,060
+both inspiratories volume
+and title volume and so on.
+
+183
+00:12:11,280 --> 00:12:14,760
+So again it's a similar
+thing that we saw but
+
+184
+00:12:14,760 --> 00:12:18,560
+to refresh to keep
+you know taking home
+
+185
+00:12:18,560 --> 00:12:20,740
+this message because this
+is an important figure.
+
+186
+00:12:20,740 --> 00:12:23,380
+Questions can come
+in from this as well.
+
+187
+00:12:23,860 --> 00:12:26,760
+Any learning objective
+questions can come. This is
+
+188
+00:12:26,760 --> 00:12:29,580
+one such important learning
+objective from which questions
+
+189
+00:12:29,580 --> 00:12:33,360
+can come all right i'll
+give you some sample
+
+190
+00:12:33,360 --> 00:12:38,540
+questions too okay now
+functional residual capacity we
+
+191
+00:12:38,540 --> 00:12:40,780
+saw functional residual capacity
+right what is functional
+
+192
+00:12:40,780 --> 00:12:43,720
+residual capacity it's a
+combination of rb plus e
+
+193
+00:12:43,720 --> 00:12:46,500
+rb residual volume plus
+excretor is a volume okay
+
+194
+00:12:46,500 --> 00:12:49,880
+why do we talk about it it's
+relevant in both physiology
+
+195
+00:12:49,880 --> 00:12:54,740
+and pathology physiologically
+first is pathology
+
+196
+00:12:54,740 --> 00:13:00,200
+here so from normal standing
+position to supine position
+
+197
+00:13:01,200 --> 00:13:04,080
+there is a change in FRC
+how does it change and in
+
+198
+00:13:04,080 --> 00:13:07,600
+ascites when there is fluid
+collected in the abdomen
+
+199
+00:13:08,460 --> 00:13:12,000
+excessive and then when
+there is paradoxical movement
+
+200
+00:13:12,000 --> 00:13:17,520
+in these scenarios there
+is decrease in functional
+
+201
+00:13:17,520 --> 00:13:20,940
+residual capacity okay
+functional residual capacity
+
+202
+00:13:20,940 --> 00:13:23,460
+decreases you'll see two more
+examples one in pregnancy
+
+203
+00:13:23,460 --> 00:13:29,020
+in pregnancy what happens
+as an example the FRC hand
+
+204
+00:13:29,020 --> 00:13:31,820
+total link capacity reduces
+why because the compression
+
+205
+00:13:31,820 --> 00:13:35,320
+of the diaphragm your
+the the diaphragm gets
+
+206
+00:13:35,500 --> 00:13:41,420
+compressed because there
+is a lot more by the uterus
+
+207
+00:13:41,420 --> 00:13:47,120
+right and then the tidal
+volume increases tidal volume
+
+208
+00:13:47,120 --> 00:13:50,980
+increases by 32 percent to
+40 40 percent and then that
+
+209
+00:13:51,000 --> 00:13:54,520
+gives an increase in
+pulmonary ventilation but the
+
+210
+00:13:54,520 --> 00:13:58,540
+functional residual capacity
+has to reduce and we will
+
+211
+00:13:58,540 --> 00:14:03,960
+talk about this minute
+ventilation in next session
+
+212
+00:14:03,960 --> 00:14:08,900
+but this is necessary
+the the modification, the
+
+213
+00:14:08,900 --> 00:14:12,080
+adjustment in functional
+residual capacity is necessary
+
+214
+00:14:12,080 --> 00:14:14,860
+to meet the increased oxygen
+requirement of the body.
+
+215
+00:14:15,600 --> 00:14:18,320
+And obesity, similar idea,
+
+216
+00:14:18,460 --> 00:14:21,660
+there, the expirative reserve
+
+217
+00:14:21,660 --> 00:14:23,680
+volume, functional
+residual capacity,
+
+218
+00:14:23,880 --> 00:14:27,440
+total incapacity, all
+these, especially FRC
+
+219
+00:14:27,440 --> 00:14:31,500
+and TLC will reduce
+due to the mass load of
+
+220
+00:14:31,500 --> 00:14:34,180
+adipose tissue surrounding
+the ribcage and
+
+221
+00:14:34,180 --> 00:14:37,080
+abdomen. and there is
+elevated intra-abdominal
+
+222
+00:14:37,080 --> 00:14:39,420
+pressure that can be
+transmitted to the chest.
+
+223
+00:14:39,580 --> 00:14:42,460
+So these are some of the
+conditions where you can see
+
+224
+00:14:42,460 --> 00:14:45,540
+modification change in FRC
+and particularly decrease.
+
+225
+00:14:45,660 --> 00:14:50,300
+Now let's move on to the next
+major concept of measuring
+
+226
+00:14:50,560 --> 00:14:54,840
+this using spirometry.
+What's spirometry? Spirometer
+
+227
+00:14:54,840 --> 00:14:58,640
+is measures the volume of
+air that's expired during
+
+228
+00:14:58,640 --> 00:15:02,400
+a forceful and complete
+expiration after a maximum
+
+229
+00:15:02,400 --> 00:15:08,080
+inspiration so maximum
+inspiration and then forceful
+
+230
+00:15:09,560 --> 00:15:13,240
+and then the volume of air
+is measured that is you
+
+231
+00:15:13,420 --> 00:15:16,730
+know expired during the
+forceful and complete expiration
+
+232
+00:15:16,730 --> 00:15:21,480
+after a maximum inspiration
+now technically speaking
+
+233
+00:15:21,630 --> 00:15:27,360
+you don't have to you know
+memorize how is it actually
+
+234
+00:15:27,360 --> 00:15:29,360
+done the itty-gritty
+details but I'm just giving
+
+235
+00:15:29,360 --> 00:15:33,100
+you a little bit of you
+know idea and nose clip is
+
+236
+00:15:33,100 --> 00:15:36,280
+placed used to seal the
+nostrils to prevent air leakage
+
+237
+00:15:36,280 --> 00:15:41,360
+from the nose and then the
+subject must place their
+
+238
+00:15:41,360 --> 00:15:44,340
+tips tightly around the
+spirometer mouthpiece as you
+
+239
+00:15:44,340 --> 00:15:52,360
+see in this figure and then
+here and then the subject
+
+240
+00:15:52,360 --> 00:16:00,820
+or patient is asked to breathe
+so the subject must place
+
+241
+00:16:00,820 --> 00:16:03,380
+their lips tightly around
+the spirometer mouthpiece
+
+242
+00:16:03,380 --> 00:16:06,960
+and breathe normally for a
+few breaths and after the
+
+243
+00:16:06,960 --> 00:16:09,460
+normal breathing the
+individual is asked to inhale
+
+244
+00:16:09,460 --> 00:16:13,140
+as deeply as possible and then
+exhale as hard as possible
+
+245
+00:16:13,140 --> 00:16:17,460
+deep inhalation hard
+exhalation this process is
+
+246
+00:16:17,460 --> 00:16:21,000
+repeated at least three times
+until reproducible results
+
+247
+00:16:21,000 --> 00:16:24,240
+are accept a record. Now
+this spyrometer consists
+
+248
+00:16:24,240 --> 00:16:27,500
+of a drum inverted over a
+chamber of water with the
+
+249
+00:16:27,500 --> 00:16:30,720
+drum counterbalanced by
+weight. If the, you can see
+
+250
+00:16:30,720 --> 00:16:38,480
+those in the figure, if the
+drum is, so in the drum is a
+
+251
+00:16:38,480 --> 00:16:42,460
+breathing gas usually air
+or oxygen and tube connects
+
+252
+00:16:42,460 --> 00:16:45,920
+it to the mouth with the
+gas chamber etc and when
+
+253
+00:16:45,920 --> 00:16:48,800
+the person breathes into and
+out of the chamber the drum
+
+254
+00:16:48,800 --> 00:16:52,040
+will rise and fall and an
+appropriate recording is
+
+255
+00:16:52,040 --> 00:16:55,100
+measured so it's a breathing
+that moves the chamber,
+
+256
+00:16:57,900 --> 00:17:01,560
+the drum actually
+rises and falls.
+
+257
+00:17:01,820 --> 00:17:05,040
+Okay with that idea on the
+right side you're seeing
+
+258
+00:17:05,040 --> 00:17:07,270
+the same figure that you
+saw before the spirographic
+
+259
+00:17:07,270 --> 00:17:12,100
+record that's taken IRE,
+ERV and RV and so on the
+
+260
+00:17:12,100 --> 00:17:15,900
+velocities sorry velocities
+excuse me capacities and
+
+261
+00:17:15,900 --> 00:17:20,140
+volumes all right residual
+volume that's there in
+
+262
+00:17:20,140 --> 00:17:22,720
+the bottom so what's residual
+volume residual volume
+
+263
+00:17:22,720 --> 00:17:26,630
+we saw is the air that's
+sitting in that's not
+
+264
+00:17:26,630 --> 00:17:30,240
+voluntarily breathable right
+so spirometry is about a
+
+265
+00:17:30,240 --> 00:17:32,880
+voluntary breathing in and
+out which means you cannot
+
+266
+00:17:32,880 --> 00:17:35,020
+measure the residual
+volume it's necessary and
+
+267
+00:17:35,020 --> 00:17:39,600
+important in multiple
+conditions to know so how do we
+
+268
+00:17:39,600 --> 00:17:43,180
+measure residual volume all
+right let's get in that.
+
+269
+00:17:44,100 --> 00:17:47,440
+A couple of methods
+are there and the main
+
+270
+00:17:47,440 --> 00:17:49,760
+method that's more
+accurate or probably
+
+271
+00:17:49,760 --> 00:17:52,360
+most accurate is whole
+body plethysmography.
+
+272
+00:17:53,250 --> 00:17:56,740
+Whole body plethysmography
+how is it done? In a
+
+273
+00:17:56,740 --> 00:17:59,780
+patient or subject is placed
+seated in a closed body
+
+274
+00:17:59,780 --> 00:18:05,360
+box it looks like you know
+English ancient styled
+
+275
+00:18:05,360 --> 00:18:08,800
+phone booth which doesn't
+exist anymore I guess.
+
+276
+00:18:10,320 --> 00:18:14,160
+So the subject sits
+inside in the transparent
+
+277
+00:18:14,160 --> 00:18:16,040
+so we can see how
+the patient is doing.
+
+278
+00:18:17,280 --> 00:18:21,200
+Then we can measure the
+thoracic gas volume based
+
+279
+00:18:21,200 --> 00:18:24,480
+on Boyle's law. What's
+Boyle's law? Long time ago you
+
+280
+00:18:24,480 --> 00:18:27,680
+would have learned P1 V1
+equals P2 V2 at constant
+
+281
+00:18:27,680 --> 00:18:30,760
+temperature and we will
+see more in detail about
+
+282
+00:18:30,760 --> 00:18:35,140
+this law in the next session.
+All right so now this
+
+283
+00:18:35,140 --> 00:18:37,880
+pathismography, back to
+that, the subject is asked
+
+284
+00:18:37,880 --> 00:18:42,250
+to sit in a closed box
+with large windows and then
+
+285
+00:18:42,820 --> 00:18:46,600
+they'll be asked to wear
+a nose flip and asked to
+
+286
+00:18:46,600 --> 00:18:51,040
+take short and shallow
+breaths to a mouthpiece when
+
+287
+00:18:51,040 --> 00:18:57,240
+it's blocked for a few
+seconds, forced. So PFT labs
+
+288
+00:18:57,240 --> 00:19:03,380
+will offer will use, they
+can use other tests as well
+
+289
+00:19:03,380 --> 00:19:06,300
+but this is an important
+test. So So after period
+
+290
+00:19:06,300 --> 00:19:10,620
+of tidal breathing, the
+spirometer is closed at
+
+291
+00:19:10,620 --> 00:19:13,660
+end expiration, and the
+patient breathes against it.
+
+292
+00:19:13,760 --> 00:19:16,400
+Changes in pressure at the
+mouthpiece are recorded.
+
+293
+00:19:17,400 --> 00:19:19,920
+And as the patient
+exhales, the volume of the
+
+294
+00:19:19,920 --> 00:19:23,730
+thoracic cavity can be
+calculated by recording
+
+295
+00:19:24,160 --> 00:19:26,600
+the change in pressure
+of the entire chamber.
+
+296
+00:19:26,600 --> 00:19:29,440
+That's just to give you
+an idea how it works.
+
+297
+00:19:29,680 --> 00:19:33,400
+And it's a pretty accurate,
+you know, test, but it's
+
+298
+00:19:33,400 --> 00:19:36,220
+also relatively, I guess,
+expensive than the other
+
+299
+00:19:36,220 --> 00:19:40,760
+methodologies so but once
+the FRC once the function
+
+300
+00:19:40,760 --> 00:19:43,740
+the residual volume and the
+functional residual capacity
+
+301
+00:19:43,740 --> 00:19:46,120
+has been measured using
+one of the three methods
+
+302
+00:19:46,360 --> 00:19:49,640
+that we will see then
+then we can calculate
+
+303
+00:19:49,640 --> 00:19:52,880
+tidal volume and total
+lung capacity but
+
+304
+00:19:55,300 --> 00:19:59,420
+let's see yeah so that's
+about plethysmography
+
+305
+00:19:59,420 --> 00:20:03,100
+then comes our nitrogen
+washout the nitrogen
+
+306
+00:20:03,100 --> 00:20:07,160
+washout This is a test
+based on nitrogen that makes
+
+307
+00:20:07,160 --> 00:20:10,760
+up 78% of atmospheric
+air, right, the majority.
+
+308
+00:20:10,760 --> 00:20:13,860
+And the subject
+breathes through a two
+
+309
+00:20:13,860 --> 00:20:15,740
+-way valve, as you
+see in the figure.
+
+310
+00:20:16,820 --> 00:20:18,300
+David is there.
+
+311
+00:20:19,200 --> 00:20:24,560
+So this subject, the
+patient, is made to breathe
+
+312
+00:20:24,890 --> 00:20:29,860
+through a two-way valve
+connected to 100% oxygen on
+
+313
+00:20:29,860 --> 00:20:33,840
+inspiration and a collection
+spirometer on expiration.
+
+314
+00:20:33,840 --> 00:20:36,660
+Now, the spirometer
+measures the volume of air
+
+315
+00:20:36,660 --> 00:20:38,760
+and the fraction of
+nitrogen. So both the volume
+
+316
+00:20:38,760 --> 00:20:43,420
+of air and the fraction
+of nitrogen is measured
+
+317
+00:20:44,340 --> 00:20:47,000
+that's expired with each
+and every breath. So every
+
+318
+00:20:47,000 --> 00:20:50,000
+expired breath, this spirometer
+is going to measure the
+
+319
+00:20:50,000 --> 00:20:53,080
+volume of air and the fraction
+of nitrogen. Nitrogen.
+
+320
+00:20:53,200 --> 00:20:56,500
+Hope I said nitrogen.
+The test is complete
+
+321
+00:20:56,500 --> 00:20:59,460
+once the fraction of
+nitrogen goes below one
+
+322
+00:20:59,460 --> 00:21:01,760
+and a half percent
+for three consecutive
+
+323
+00:21:01,760 --> 00:21:04,680
+breaths and then the
+initial amount of nitrogen
+
+324
+00:21:04,680 --> 00:21:07,540
+in the lungs must be,
+look at the formula,
+
+325
+00:21:08,230 --> 00:21:11,440
+then we need to know the
+initial amount of nitrogen in
+
+326
+00:21:11,440 --> 00:21:15,560
+the lungs and then that
+must be equal to the total
+
+327
+00:21:15,560 --> 00:21:18,880
+amount of nitrogen exhaled
+and thus the FRC can then we
+
+328
+00:21:18,880 --> 00:21:21,790
+can calculate the FRC. so
+how do we calculate FRC okay
+
+329
+00:21:22,080 --> 00:21:24,740
+let's move you can actually
+see the formula there
+
+330
+00:21:24,740 --> 00:21:30,640
+right FRC is volume exhaled
+times concentration exhaled
+
+331
+00:21:30,640 --> 00:21:33,400
+concentration nitrogen
+and then divided by the
+
+332
+00:21:33,400 --> 00:21:37,520
+concentration of initial alveolar
+nitrogen so this information
+
+333
+00:21:37,520 --> 00:21:41,300
+will be used to measure
+so if you're given some of
+
+334
+00:21:41,300 --> 00:21:44,080
+these parameters you should
+be able to do you know the
+
+335
+00:21:44,080 --> 00:21:47,160
+math and be able to identify
+the missing parameter.
+
+336
+00:21:48,720 --> 00:21:52,160
+Helium dilution,
+another methodology.
+
+337
+00:21:53,020 --> 00:21:55,520
+Helium dilution, how
+does it work? So first
+
+338
+00:21:55,520 --> 00:21:58,370
+it will help us detect
+the, a spirometer is
+
+339
+00:21:58,370 --> 00:22:01,100
+present there. A
+spirometer of known volume
+
+340
+00:22:01,100 --> 00:22:04,300
+is filled with air
+that's mixed with helium.
+
+341
+00:22:05,440 --> 00:22:09,320
+The helium is not observed
+across capillary across
+
+342
+00:22:09,320 --> 00:22:14,280
+alveolar capillaries right
+so the helium the room air is
+
+343
+00:22:14,280 --> 00:22:19,780
+mixed with helium at a known
+concentration excuse me
+
+344
+00:22:19,780 --> 00:22:23,780
+and then before breathing
+from the spirometer the person
+
+345
+00:22:23,900 --> 00:22:29,230
+expires normally and then
+at the end of expiration
+
+346
+00:22:29,230 --> 00:22:32,560
+at the end of expiration
+the remaining volume in the
+
+347
+00:22:32,560 --> 00:22:35,900
+lungs is equal to the FRC.
+At this point the subject
+
+348
+00:22:35,900 --> 00:22:38,440
+immediately begins to breathe
+from the spirometer and
+
+349
+00:22:38,440 --> 00:22:41,040
+the gases of the spirometer
+mix with the gases of the
+
+350
+00:22:41,040 --> 00:22:45,340
+lungs and consequently the
+helium becomes diluted by
+
+351
+00:22:45,340 --> 00:22:49,780
+FRC by the FRC gases and
+the volume of the FRC can be
+
+352
+00:22:49,780 --> 00:22:52,280
+calculated from the degree
+of dilution of the helium.
+
+353
+00:22:52,660 --> 00:22:55,600
+So don't worry you know
+too much if you have not.
+
+354
+00:22:55,980 --> 00:23:00,480
+What's more important is the
+following the c1 v1 equals
+
+355
+00:23:00,480 --> 00:23:07,720
+c2 times v1 plus v2 so
+note that the this formula
+
+356
+00:23:07,720 --> 00:23:14,160
+here so your goal is to find
+one of the volumes let's
+
+357
+00:23:14,160 --> 00:23:21,480
+call the v2 as the functional
+residual capacity here
+
+358
+00:23:21,480 --> 00:23:24,380
+I've called it as functional
+residual capacity from
+
+359
+00:23:24,380 --> 00:23:27,460
+which you will measure the
+residual volume so c1 v1
+
+360
+00:23:27,460 --> 00:23:31,080
+and then you rearrange the
+formula that comes second
+
+361
+00:23:31,080 --> 00:23:34,260
+year you get the second
+step the c2 goes there as in
+
+362
+00:23:34,260 --> 00:23:38,180
+the denominator and then
+v2 and v1 is here you move
+
+363
+00:23:38,180 --> 00:23:41,160
+it on the other side v1
+becomes negative so v2 is this
+
+364
+00:23:41,160 --> 00:23:44,300
+formula now now v2 is the
+functional residual capacity
+
+365
+00:23:44,650 --> 00:23:47,940
+and then you rearrange
+if you want based on the
+
+366
+00:23:47,940 --> 00:23:51,400
+common factor so anyway
+you have you are given the
+
+367
+00:23:51,400 --> 00:23:55,380
+initial helium volume and then
+initial helium concentration
+
+368
+00:23:55,380 --> 00:23:58,000
+and then the final helium
+concentration and then
+
+369
+00:23:58,000 --> 00:24:03,380
+the ERV now this will when
+you calculate and do the
+
+370
+00:24:03,380 --> 00:24:08,560
+numbers your FRC will be you
+can pause and do your math
+
+371
+00:24:08,560 --> 00:24:14,320
+you can and then resume
+I'll tell you the answer
+
+372
+00:24:14,320 --> 00:24:24,860
+now the answer is three zero
+five zero ml okay and then
+
+373
+00:24:24,860 --> 00:24:26,900
+residual volume how do
+you calculate the residual
+
+374
+00:24:26,900 --> 00:24:30,580
+volume I will leave this as
+a little extra homework for
+
+375
+00:24:30,580 --> 00:24:33,540
+you it's not hard you
+should be able to and try to
+
+376
+00:24:33,540 --> 00:24:36,080
+go back to the definition
+of residual volume and you
+
+377
+00:24:36,080 --> 00:24:39,770
+will get the answer so
+this is function residual
+
+378
+00:24:39,770 --> 00:24:42,600
+capacity all right let's move
+on in the interest of time
+
+379
+00:24:45,580 --> 00:24:49,600
+okay let's clear this force
+residual capacity excuse
+
+380
+00:24:49,600 --> 00:24:52,140
+me force vital capacity
+which is the same as vital
+
+381
+00:24:52,140 --> 00:24:58,780
+capacity, but after a rapid
+exhalation, after a maximal
+
+382
+00:24:58,780 --> 00:25:02,200
+inhalation. So maximum
+inhalation and then, boom,
+
+383
+00:25:02,500 --> 00:25:04,660
+it's a rapid expiration.
+
+384
+00:25:05,180 --> 00:25:11,120
+Okay, here the same curves,
+but emphasizing on the
+
+385
+00:25:11,120 --> 00:25:15,240
+forced vital capacity or the
+vital capacity. Now, at the
+
+386
+00:25:15,240 --> 00:25:19,620
+first second, right, at the
+first second, whatever you
+
+387
+00:25:19,620 --> 00:25:25,760
+are expiring, that's called
+forced expeditory volume,
+
+388
+00:25:26,100 --> 00:25:28,880
+okay, forced expeditory
+volume at one
+
+389
+00:25:28,880 --> 00:25:34,440
+second. And then
+the 25 to 75% data,
+
+390
+00:25:37,420 --> 00:25:42,860
+it's 25 to 75%, that is
+another important parameter,
+
+391
+00:25:42,860 --> 00:25:45,500
+we will talk about
+that probably in a bit.
+
+392
+00:25:45,820 --> 00:25:47,800
+So here what you
+need to know, forced
+
+393
+00:25:47,800 --> 00:25:50,460
+expiratory volume,
+FEV1, what is that? It's
+
+394
+00:25:50,460 --> 00:25:52,880
+one of the simplest
+tests of lung function,
+
+395
+00:25:53,040 --> 00:25:57,180
+it's a forced
+expiration after a full
+
+396
+00:25:57,180 --> 00:25:59,200
+inspiration. Again,
+forced expiration
+
+397
+00:25:59,200 --> 00:26:02,080
+after full or
+maximum inspiration.
+
+398
+00:26:02,620 --> 00:26:04,680
+And it's known especially
+in primary care
+
+399
+00:26:04,680 --> 00:26:07,440
+clinics when patients
+are there for
+
+400
+00:26:07,440 --> 00:26:09,560
+evaluation of chronic
+dyspnea, for instance.
+
+401
+00:26:12,960 --> 00:26:15,300
+Now, again, refreshing
+what's forced
+
+402
+00:26:15,300 --> 00:26:17,140
+vital capacity in
+a different way.
+
+403
+00:26:17,140 --> 00:26:19,620
+Forced vital capacity is a
+maximum volume of gas that
+
+404
+00:26:19,620 --> 00:26:22,400
+can be exhaled as forcefully
+and rapidly as possible
+
+405
+00:26:22,400 --> 00:26:27,480
+after full maximal inhalation.
+and FEV1 important clinically
+
+406
+00:26:27,480 --> 00:26:30,580
+important parameter FEV1
+is the in the first second
+
+407
+00:26:30,580 --> 00:26:33,500
+this is the volume of
+air that's expired in the
+
+408
+00:26:33,500 --> 00:26:38,500
+first second during maximal
+expiratory effort so when you
+
+409
+00:26:38,500 --> 00:26:42,000
+look at different patients
+FEV1 the first to second
+
+410
+00:26:42,000 --> 00:26:45,180
+volume of air that's expired
+then you can get good amount
+
+411
+00:26:45,180 --> 00:26:47,260
+of information as to what
+kind of pathology they may
+
+412
+00:26:47,260 --> 00:26:50,900
+be suffering we'll talk
+about that in a bit FEV1 by
+
+413
+00:26:50,900 --> 00:26:55,380
+FEC the ratio right ratio
+of FEV1 here this is a FEV1
+
+414
+00:26:55,380 --> 00:27:00,400
+and then this is FVC this
+ratio the percentage of the
+
+415
+00:27:00,400 --> 00:27:06,140
+of this which is expired in
+the first second this is this
+
+416
+00:27:06,140 --> 00:27:09,640
+ratio and in a healthy
+patient this is approximately
+
+417
+00:27:09,640 --> 00:27:21,380
+in the 70% range okay so
+let's move on right so far
+
+418
+00:27:21,380 --> 00:27:25,120
+we have seen the lung volume
+capacities and spirometry
+
+419
+00:27:25,120 --> 00:27:29,130
+let's talk about some
+pathologies right that's fun COPD
+
+420
+00:27:29,170 --> 00:27:32,200
+well not really fun for
+the patient but for our
+
+421
+00:27:32,200 --> 00:27:35,120
+understanding we will learn
+a lot more from the patient
+
+422
+00:27:35,120 --> 00:27:39,760
+scenario COPD chronic obstructive
+pulmonary disease very
+
+423
+00:27:39,760 --> 00:27:43,900
+important set of patients
+use you can see a lot when
+
+424
+00:27:43,900 --> 00:27:47,380
+if you are in the pulmonary
+clinic even in you know other
+
+425
+00:27:47,380 --> 00:27:51,040
+places as well so these
+patients can be easily fatigued
+
+426
+00:27:51,040 --> 00:27:54,580
+they can go to frequent
+respiratory infections use
+
+427
+00:27:54,580 --> 00:27:58,270
+of accessory muscles to
+breathe they'll be using and
+
+428
+00:27:59,120 --> 00:28:01,520
+what are those accessory
+muscles we will see in
+
+429
+00:28:01,520 --> 00:28:04,820
+the next session okay
+orthopnea, core pulmonary
+
+430
+00:28:04,820 --> 00:28:08,180
+and then thin appearance,
+wheezing and then
+
+431
+00:28:08,180 --> 00:28:12,020
+personal breathing, that's
+a cough, barrel-shaped
+
+432
+00:28:12,020 --> 00:28:15,400
+chest is a classic feature
+of chronic obstructive
+
+433
+00:28:15,400 --> 00:28:18,500
+pulmonary disease and
+then dyspnea, difficulty
+
+434
+00:28:18,500 --> 00:28:21,540
+in breathing and then
+prolonged expiratory time,
+
+435
+00:28:22,300 --> 00:28:28,500
+digital clogging, so it's a
+classic patient we've here
+
+436
+00:28:30,340 --> 00:28:37,620
+okay what happens if and
+when the patient is going
+
+437
+00:28:37,620 --> 00:28:41,310
+through a condition called
+obstructive lung disease
+
+438
+00:28:41,310 --> 00:28:44,180
+obstructive lung disease is
+where there is some airway
+
+439
+00:28:44,180 --> 00:28:46,560
+obstruction that's happening
+and it causes an increase
+
+440
+00:28:46,560 --> 00:28:49,940
+in the resistance you can
+imagine that and that's
+
+441
+00:28:49,940 --> 00:28:53,410
+called air trapping air is
+there but it's not let go,
+
+442
+00:28:53,540 --> 00:28:59,280
+so it's obstructed. So that
+means FEV1 can decrease,
+
+443
+00:28:59,480 --> 00:29:03,080
+pretty much you will expect
+it to decrease and that's
+
+444
+00:29:03,080 --> 00:29:06,080
+decreased FEV1 because of
+increased airway resistance
+
+445
+00:29:06,320 --> 00:29:09,100
+and this ratio I
+mentioned is very
+
+446
+00:29:09,100 --> 00:29:12,380
+important that is
+also decreased, okay.
+
+447
+00:29:15,370 --> 00:29:18,440
+Alright, so what are
+the factors that are
+
+448
+00:29:18,440 --> 00:29:20,880
+decreased in obstructive
+lung diseases such as
+
+449
+00:29:21,240 --> 00:29:23,880
+we have some examples
+here bronchitis chronic
+
+450
+00:29:23,880 --> 00:29:28,120
+bronchitis asthma emphysema
+etc fev1 is decreased
+
+451
+00:29:28,120 --> 00:29:32,180
+that's point number one
+fev1 by fbc is decreased
+
+452
+00:29:32,180 --> 00:29:36,080
+point number two both
+important points and
+
+453
+00:29:38,940 --> 00:29:41,980
+it's hard for them to
+exhale quickly due to
+
+454
+00:29:41,980 --> 00:29:45,380
+increase in in airway
+resistance now there
+
+455
+00:29:45,380 --> 00:29:47,820
+is one more important
+parameter residual volume
+
+456
+00:29:47,820 --> 00:29:51,380
+is increased residual
+volume is increased
+
+457
+00:29:55,160 --> 00:30:00,330
+excuse me so because it's
+air is trapping inside
+
+458
+00:30:00,330 --> 00:30:03,620
+okay so more and more a
+volume of air is trapped
+
+459
+00:30:03,740 --> 00:30:09,740
+and residual settle now
+restrictive lung disease
+
+460
+00:30:09,740 --> 00:30:13,160
+which is like the opposite
+story of obstructive there
+
+461
+00:30:13,160 --> 00:30:16,500
+here it is not obstructed
+it's no obstruction but
+
+462
+00:30:16,500 --> 00:30:20,960
+it's restricted it's not
+able to the compliance of the
+
+463
+00:30:20,960 --> 00:30:24,300
+lung is reduced not
+compliant enough it increases
+
+464
+00:30:24,300 --> 00:30:28,880
+the stiffness of the lung
+and lung and limits its
+
+465
+00:30:28,880 --> 00:30:31,960
+expansion so what does
+this happen when does this
+
+466
+00:30:31,960 --> 00:30:37,100
+happen in patients with
+decreased lung compliance like
+
+467
+00:30:37,100 --> 00:30:40,900
+pulmonary embol fibrosis
+excuse me pneumonia and
+
+468
+00:30:40,900 --> 00:30:45,220
+pulmonary edema what do you
+see decreased FEC which is
+
+469
+00:30:45,220 --> 00:30:48,880
+not different from the
+other one at least a whole
+
+470
+00:30:48,880 --> 00:30:56,380
+lot so FEV1 is relatively
+large in comparison okay
+
+471
+00:30:56,380 --> 00:31:00,160
+FEC is decreased in both
+obstructive and restrictive
+
+472
+00:31:00,160 --> 00:31:04,360
+but key difference is FEV1
+is relatively large in
+
+473
+00:31:04,360 --> 00:31:08,500
+comparison that is the
+FEV1 by FEC ratio cannot be
+
+474
+00:31:08,500 --> 00:31:15,700
+higher than normal wow okay
+so that's another key point
+
+475
+00:31:15,700 --> 00:31:19,300
+and this is because it's
+easy for a person with a
+
+476
+00:31:19,300 --> 00:31:23,340
+restrictive lung disease
+to breathe out then breathe
+
+477
+00:31:24,260 --> 00:31:27,440
+out quickly it's it's easy
+to breathe out quickly
+
+478
+00:31:28,500 --> 00:31:31,440
+because of the high elastic
+recoil of the stiff lungs
+
+479
+00:31:31,440 --> 00:31:36,520
+and here the residual
+volume goes down not up
+
+480
+00:31:36,520 --> 00:31:39,960
+because in obstructive what
+did we see residual volume
+
+481
+00:31:39,960 --> 00:31:42,700
+goes up so these are key
+distinct very distinguishing
+
+482
+00:31:42,700 --> 00:31:48,400
+factors here you go re
+-emphasizing it normal
+
+483
+00:31:48,730 --> 00:31:52,060
+obstructive and restrictive
+right you're already seeing
+
+484
+00:31:52,060 --> 00:31:55,860
+it even the first second
+is FEV1 the entire vital
+
+485
+00:31:55,860 --> 00:31:59,740
+capacity force vital capacity
+okay and in obstructive
+
+486
+00:31:59,740 --> 00:32:04,420
+this reduces okay Look at
+the FEV1 from 4 to 1.3,
+
+487
+00:32:04,720 --> 00:32:10,820
+it reduces and then from
+4 to 2.8, it reduces.
+
+488
+00:32:11,120 --> 00:32:16,480
+So, that's restrictive
+lung disease.
+
+489
+00:32:17,160 --> 00:32:19,220
+Again, it's 4.0,
+
+490
+00:32:19,800 --> 00:32:21,300
+FEC is 5.0,
+
+491
+00:32:21,480 --> 00:32:24,280
+80%. 80% is what you
+need to remember.
+
+492
+00:32:24,400 --> 00:32:27,120
+Although there are
+guidelines with more refined
+
+493
+00:32:27,120 --> 00:32:29,560
+definitions, at this stage
+it's good to know for you the
+
+494
+00:32:29,560 --> 00:32:33,540
+normal value is approximately
+80 percent okay but this
+
+495
+00:32:33,540 --> 00:32:36,440
+can change with or decrease
+with age and so on now
+
+496
+00:32:36,440 --> 00:32:40,300
+one accepted procedure to
+allow two practice is to
+
+497
+00:32:40,300 --> 00:32:43,920
+so one accepted procedure
+is to allow two practice
+
+498
+00:32:43,920 --> 00:32:47,640
+breaths practice blows and
+then record three good test
+
+499
+00:32:47,640 --> 00:32:54,320
+breaths so the highest fvv1
+and fvc from these three
+
+500
+00:32:54,320 --> 00:32:59,340
+breaths are often used and
+this can be helpful for
+
+501
+00:32:59,340 --> 00:33:06,020
+testing you know bronchodilator
+efficacy and reversible
+
+502
+00:33:06,020 --> 00:33:09,960
+airway obstruction and so
+on you know if you have
+
+503
+00:33:09,960 --> 00:33:13,180
+to use if patient has to
+use albuterol you know by
+
+504
+00:33:13,180 --> 00:33:17,040
+nebulizer or meter dose inhaler
+this just can be carried
+
+505
+00:33:17,040 --> 00:33:20,320
+out to make sure things
+will be working fine there
+
+506
+00:33:20,320 --> 00:33:22,820
+is no airway obstruction
+they can breathe well etc
+
+507
+00:33:23,460 --> 00:33:29,360
+okay so again another
+way look at this 4.0
+
+508
+00:33:29,360 --> 00:33:34,820
+1.3 2.8 5.0 3.1 3.1
+so both are 3.1 both
+
+509
+00:33:34,820 --> 00:33:37,240
+the feces are reduced
+but look at the numerator
+
+510
+00:33:37,240 --> 00:33:40,820
+1.3 and 2.8 let's
+see how that works.
+
+511
+00:33:41,280 --> 00:33:44,160
+There you go.
+
+512
+00:33:45,470 --> 00:33:49,140
+COPD asthma. So this is
+obstructive and this is
+
+513
+00:33:49,140 --> 00:33:52,120
+representative restrictive.
+Look at what's happening.
+
+514
+00:33:52,180 --> 00:33:57,240
+The FEV1 is reduced in both
+in both but COPD asthma
+
+515
+00:33:57,240 --> 00:34:01,500
+has greater fall in FEV1.
+They have to face that.
+
+516
+00:34:01,760 --> 00:34:04,500
+FVC again it's a flip.
+
+517
+00:34:05,240 --> 00:34:08,360
+FVC is decreasing COPD
+and asthma as well but not
+
+518
+00:34:08,360 --> 00:34:11,200
+as bad as fibrosis. In
+fibrosis there's a little
+
+519
+00:34:11,200 --> 00:34:14,520
+greater decrease but
+when you look at the big
+
+520
+00:34:14,520 --> 00:34:19,460
+picture, FEV1 by FVC, this
+decreased significantly
+
+521
+00:34:19,460 --> 00:34:23,260
+in COPD but either it's
+normal or slightly above.
+
+522
+00:34:23,380 --> 00:34:26,800
+That's fibrosis. And
+functional restive capacity
+
+523
+00:34:26,800 --> 00:34:30,100
+changes contrastingly. It
+increases in COPD, very
+
+524
+00:34:30,100 --> 00:34:33,560
+important, decreases in
+COPD, very important, okay.
+
+525
+00:34:35,980 --> 00:34:40,760
+Okay, so forced expiratory
+flow from a forced
+
+526
+00:34:40,760 --> 00:34:45,500
+expiration. So we saw, I
+introduced this 25% to 75% rate
+
+527
+00:34:45,500 --> 00:34:48,620
+initially in a figure, so
+the forced expiratory flow,
+
+528
+00:34:48,620 --> 00:34:59,760
+oops the forced expiratory
+flow in that in that
+
+529
+00:34:59,760 --> 00:35:03,520
+range right range of volume
+this is called F1 and look
+
+530
+00:35:03,520 --> 00:35:07,380
+at the numbers it kind of
+follows the FEV1 pattern
+
+531
+00:35:07,380 --> 00:35:14,720
+but it's good to know this
+okay so 3.1 3.5 errors
+
+532
+00:35:14,720 --> 00:35:18,700
+per minute 1.5 1.4 excuse
+me and then 3.7 so the
+
+533
+00:35:18,700 --> 00:35:23,460
+greater decrease happens
+with obstructive the others
+
+534
+00:35:23,460 --> 00:35:29,940
+are okay so so far is clear
+so this table is important
+
+535
+00:35:29,940 --> 00:35:32,740
+for you to remember to
+get a better idea okay so
+
+536
+00:35:32,740 --> 00:35:36,880
+in obstructive both the
+fev1 and fec are reduced but
+
+537
+00:35:36,880 --> 00:35:44,140
+fev1 gets a bigger hit okay
+and in fibrosis both fev1
+
+538
+00:35:44,140 --> 00:35:46,820
+and fec are reduced,
+but FEC is even slightly
+
+539
+00:35:46,820 --> 00:35:51,000
+higher reduced, which makes
+the ratio close to normal,
+
+540
+00:35:51,260 --> 00:35:53,640
+close to normal or
+slightly even above,
+
+541
+00:35:53,640 --> 00:35:56,960
+and then FRC, you cannot
+ignore or miss it,
+
+542
+00:35:57,080 --> 00:35:57,780
+okay,
+
+543
+00:35:58,060 --> 00:35:58,580
+right,
+
+544
+00:36:06,500 --> 00:36:08,700
+dead space, let's move
+on, dead space, sorry
+
+545
+00:36:08,700 --> 00:36:11,040
+for the pause, what is
+dead space, that's the
+
+546
+00:36:11,040 --> 00:36:14,440
+fourth major, you know,
+aspect, objective,
+
+547
+00:36:14,620 --> 00:36:17,540
+dead space is the portion
+of each tidal volume
+
+548
+00:36:17,540 --> 00:36:20,320
+that does not participate
+in the gas exchange.
+
+549
+00:36:20,400 --> 00:36:23,920
+It's called wasted
+ventilation and it's the
+
+550
+00:36:23,920 --> 00:36:26,240
+sum of two types of
+dead spaces. One is
+
+551
+00:36:26,240 --> 00:36:29,860
+anatomic and the other
+is anatomic and alveolar.
+
+552
+00:36:31,720 --> 00:36:34,520
+In other words,
+there is ventilation
+
+553
+00:36:34,520 --> 00:36:38,320
+but there is no perfusion. Yes,
+
+554
+00:36:38,500 --> 00:36:40,100
+there is ventilation
+but there is
+
+555
+00:36:40,100 --> 00:36:41,440
+no perfusion.
+What is the point?
+
+556
+00:36:41,740 --> 00:36:44,880
+Ventilation is there and
+where is it? We will in
+
+557
+00:36:44,880 --> 00:36:47,260
+the next slide where the
+dead space can be seen.
+
+558
+00:36:47,380 --> 00:36:50,380
+Again upon expiration
+the air in the dead space
+
+559
+00:36:50,380 --> 00:36:54,120
+that is still that is
+expired first before any of
+
+560
+00:36:54,120 --> 00:36:56,980
+the air from the alveoli
+reaches the atmosphere.
+
+561
+00:36:58,460 --> 00:37:04,320
+All right if you look at
+this tree right if you look
+
+562
+00:37:04,320 --> 00:37:08,140
+at the tree there is trachea,
+there is bronchial and
+
+563
+00:37:08,140 --> 00:37:11,760
+so on so from the trachea
+bronchi and bronchioles
+
+564
+00:37:11,760 --> 00:37:14,500
+and then terminal bronchial
+and respiratory bronchial
+
+565
+00:37:14,500 --> 00:37:17,380
+and then alveolar that you
+know that those regions
+
+566
+00:37:17,380 --> 00:37:22,020
+come now anatomic dead
+space is the total volume of
+
+567
+00:37:22,020 --> 00:37:26,160
+the conducting airways from
+the nose or mouth via the
+
+568
+00:37:26,160 --> 00:37:29,020
+pharynx and the trachea down
+to the level of terminal
+
+569
+00:37:29,020 --> 00:37:33,180
+bronchial and is about to
+about 150 ml on average
+
+570
+00:37:33,180 --> 00:37:37,020
+in humans now this is
+responsible for conducting air
+
+571
+00:37:37,020 --> 00:37:40,000
+to the alveoli and
+respiratory bronchial but they
+
+572
+00:37:40,000 --> 00:37:42,140
+don't participate in the
+process of gastric change which
+
+573
+00:37:42,140 --> 00:37:44,840
+means they have alveoli
+that's it if they don't have
+
+574
+00:37:44,840 --> 00:37:47,480
+alveoli there is no gas
+exchange and look at here
+
+575
+00:37:47,740 --> 00:37:51,060
+alveolar depths they begin
+so there is the scope
+
+576
+00:37:51,060 --> 00:37:55,020
+of um gas exchange and
+deeper and deeper they
+
+577
+00:37:55,020 --> 00:37:58,160
+will participate significantly
+they must participate
+
+578
+00:37:58,340 --> 00:38:02,220
+for all of us to have
+good uh oxygenation
+
+579
+00:38:03,480 --> 00:38:10,210
+so here you see no alveoli
+no alveoli it is just air
+
+580
+00:38:10,210 --> 00:38:14,260
+that's moving in and out and
+we need that we need that
+
+581
+00:38:14,260 --> 00:38:22,640
+so but that's its role now
+this is anatomical dead
+
+582
+00:38:22,640 --> 00:38:24,800
+space how do you measure the
+anatomical dead space let's
+
+583
+00:38:24,800 --> 00:38:27,280
+see and the methodology is
+called we need to move on
+
+584
+00:38:27,280 --> 00:38:32,240
+methodology is called Fowler's
+method briefly it here
+
+585
+00:38:32,240 --> 00:38:36,360
+is the it change in nitrogen
+concentration at the
+
+586
+00:38:36,360 --> 00:38:39,880
+expired in the expired air
+after a single sudden deep
+
+587
+00:38:39,880 --> 00:38:45,500
+inspiration of pure 100%
+oxygen that's assessed okay so
+
+588
+00:38:46,030 --> 00:38:49,860
+the I have the reference
+here Guyton and Hall you can
+
+589
+00:38:49,860 --> 00:38:53,200
+study there I'll just briefly
+say the first portion of
+
+590
+00:38:55,100 --> 00:38:59,300
+so after doing that deep
+inspiration of pure 100%
+
+591
+00:38:59,300 --> 00:39:01,760
+oxygen it fills the entire
+dead space with pure
+
+592
+00:39:01,760 --> 00:39:04,920
+oxygen some O2 also mixes
+with the alveolar air but
+
+593
+00:39:04,920 --> 00:39:07,300
+they don't completely
+replace this air so the
+
+594
+00:39:07,300 --> 00:39:09,680
+first portion of the expired
+air comes from the dead
+
+595
+00:39:09,680 --> 00:39:12,440
+space regions of the
+respiratory passageways, where
+
+596
+00:39:12,440 --> 00:39:16,000
+the air has been completely
+reduced by oxygen.
+
+597
+00:39:16,000 --> 00:39:17,640
+So in the early part of the
+
+598
+00:39:17,640 --> 00:39:22,500
+data, only oxygen appears.
+
+599
+00:39:22,720 --> 00:39:27,600
+And then what happens, at that
+time, nitrogen concentration
+
+600
+00:39:27,600 --> 00:39:30,600
+is zero, then when the
+alveolar air begins to
+
+601
+00:39:30,600 --> 00:39:33,730
+reach the nitrogen meter, then
+the nitrogen concentration
+
+602
+00:39:33,730 --> 00:39:35,900
+gradually rises as you
+see in the figure nitrogen
+
+603
+00:39:35,900 --> 00:39:39,440
+concentration gradually
+starts rising and then boom
+
+604
+00:39:39,440 --> 00:39:43,240
+at one point it plateaus
+right after more air has
+
+605
+00:39:43,240 --> 00:39:49,580
+expired all the dead space
+air um all the dead space air
+
+606
+00:39:49,580 --> 00:39:52,140
+has been washed from the
+passages and only the alveolar
+
+607
+00:39:52,140 --> 00:39:55,360
+air remains so the recorded
+nitrogen concentration
+
+608
+00:39:55,360 --> 00:39:58,880
+reaches a plateau level
+equal to its concentration
+
+609
+00:39:58,880 --> 00:40:02,760
+in the alveoli and as shown
+in the pink part here the
+
+610
+00:40:02,760 --> 00:40:06,620
+gray area here right it
+represents the air that has no
+
+611
+00:40:06,620 --> 00:40:09,680
+nitrogen in it and is a
+measure of the volume of dead
+
+612
+00:40:09,680 --> 00:40:13,420
+space air this is nitrogen
+this is no nitrogen right
+
+613
+00:40:13,420 --> 00:40:20,320
+so okay now when you if you
+were given the information
+
+614
+00:40:20,320 --> 00:40:23,680
+gray area and then pink
+area and then gray area
+
+615
+00:40:23,680 --> 00:40:26,960
+and then the ev what's ev
+ev is the total volume of
+
+616
+00:40:26,960 --> 00:40:29,820
+expert it then you should
+be able to measure the dead
+
+617
+00:40:29,820 --> 00:40:32,980
+space volume, the anatomical,
+all right. So this is about
+
+618
+00:40:32,980 --> 00:40:36,280
+this measurement. Let's
+move on to the next thing,
+
+619
+00:40:36,520 --> 00:40:39,100
+next type of dead space.
+That's alveolar dead
+
+620
+00:40:39,100 --> 00:40:41,600
+space. And look at the
+alveolar dead space.
+
+621
+00:40:41,600 --> 00:40:44,260
+What's happening?
+Alveoli that does not,
+
+622
+00:40:44,260 --> 00:40:46,720
+that are ventilated, but
+they are not profused.
+
+623
+00:40:47,060 --> 00:40:52,600
+And they, and no gas
+exchange can occur. Why?
+
+624
+00:40:53,500 --> 00:40:56,420
+They are ventilated, but
+they're not profused. But
+
+625
+00:40:56,420 --> 00:41:00,260
+we absolutely want there
+are other alveoli that are
+
+626
+00:41:00,260 --> 00:41:03,280
+ventilated and perfused
+but these ones don't so
+
+627
+00:41:03,280 --> 00:41:06,660
+those that do not get
+perfused even though they get
+
+628
+00:41:06,660 --> 00:41:10,240
+the air it's useless but
+it is just sitting there
+
+629
+00:41:10,640 --> 00:41:14,540
+those are called the alveolar
+dead space okay on the
+
+630
+00:41:14,540 --> 00:41:17,240
+left side is perfused
+alveolos on the right side non
+
+631
+00:41:17,240 --> 00:41:20,920
+-perfused alveolos and the vd
+on the top is anatomic now
+
+632
+00:41:20,920 --> 00:41:24,440
+we get a you know a better
+picture ok let's move on
+
+633
+00:41:24,730 --> 00:41:28,480
+how do you measure the alveolar
+and anatomical combined
+
+634
+00:41:28,480 --> 00:41:31,660
+dead spaces so that method
+for former method we saw
+
+635
+00:41:31,660 --> 00:41:34,980
+only anatomical here
+anatomical plus alveolar dead
+
+636
+00:41:34,980 --> 00:41:38,780
+space ok this method is called
+Bohr method Bohr equation
+
+637
+00:41:38,780 --> 00:41:41,680
+it later followed by
+Enghoff modification so Bohr
+
+638
+00:41:41,680 --> 00:41:45,880
+Enghoff method here tidal
+volume is multiplied so Vd by
+
+639
+00:41:45,880 --> 00:41:49,360
+Vd equals partial pressure
+of carbon dioxide of the
+
+640
+00:41:49,600 --> 00:41:54,980
+alveolar gas which can be
+replaced by which is replaced
+
+641
+00:41:54,980 --> 00:42:00,260
+by Enghoff with arterial
+PECO2 minus the PECO2
+
+642
+00:42:00,260 --> 00:42:04,300
+which is a PCO2 of expired
+air divided by PECO2 now if
+
+643
+00:42:04,300 --> 00:42:07,000
+you do this math if you're
+given those numbers and then
+
+644
+00:42:07,000 --> 00:42:09,120
+with the tidal volume you
+should be able to detect
+
+645
+00:42:09,120 --> 00:42:13,700
+the dead space volume all
+right so that's pretty much
+
+646
+00:42:13,810 --> 00:42:17,550
+and those are the main
+points I wanted to cover and
+
+647
+00:42:18,560 --> 00:42:20,640
+And during early expiration,
+
+648
+00:42:20,640 --> 00:42:22,620
+again, only oxygen is detected.
+
+649
+00:42:22,800 --> 00:42:25,700
+And then subsequently,
+oh, this is, we're
+
+650
+00:42:25,700 --> 00:42:27,760
+talking about the
+nitrogen dilution, right?
+
+651
+00:42:27,760 --> 00:42:28,940
+Sorry about that.
+
+652
+00:42:28,940 --> 00:42:33,780
+So if you're given
+the numbers, you
+
+653
+00:42:33,780 --> 00:42:36,600
+should be able to do
+the math here. So do
+
+654
+00:42:36,600 --> 00:42:39,820
+understand and
+remember this formulae.
+
+655
+00:42:41,220 --> 00:42:44,440
+I want to give an example
+here, gray area, you know,
+
+656
+00:42:44,440 --> 00:42:50,340
+numbers. If the gray area
+is, let's say, 30, okay,
+
+657
+00:42:50,540 --> 00:42:53,320
+and then the total volume of
+
+658
+00:42:53,320 --> 00:42:55,540
+expired air, it would be 500.
+
+659
+00:42:55,680 --> 00:43:01,200
+So this is 30, this is 500,
+and then in the bottom, we
+
+660
+00:43:01,200 --> 00:43:04,920
+already told you the gray
+area is 30, and then the
+
+661
+00:43:04,920 --> 00:43:09,320
+pink area will be 70. So if
+you do the math, and then
+
+662
+00:43:09,570 --> 00:43:16,260
+you should get 150. Okay,
+so that's the, what is that,
+
+663
+00:43:16,380 --> 00:43:20,040
+150 is the dead space volume.
+
+664
+00:43:22,790 --> 00:43:26,440
+But it's not hard and
+fast, it has to be 150.
+
+665
+00:43:26,830 --> 00:43:30,320
+The dead space can increase
+slightly with age and
+
+666
+00:43:30,800 --> 00:43:34,440
+most people with normal
+distribution of airways
+
+667
+00:43:35,000 --> 00:43:39,160
+resistances, they will reduce
+their expired end tidal
+
+668
+00:43:39,160 --> 00:43:42,240
+nitrogen concentration
+to less than two and half
+
+669
+00:43:42,240 --> 00:43:46,480
+percent within seven minutes
+so it depends on airway
+
+670
+00:43:46,480 --> 00:43:49,960
+resistance as well okay and
+those with higher resistance
+
+671
+00:43:49,960 --> 00:43:52,100
+in their airways can
+take longer than seven
+
+672
+00:43:52,100 --> 00:43:54,040
+minutes to remove all the
+nitrogen and that's where
+
+673
+00:43:54,040 --> 00:43:57,580
+the pathological scenarios
+come it depends on how
+
+674
+00:43:57,580 --> 00:44:01,540
+the airway resistance is okay
+whether it is obstructive
+
+675
+00:44:01,540 --> 00:44:04,120
+or not obstructive that
+can make the difference
+
+676
+00:44:04,360 --> 00:44:05,520
+All right,
+
+677
+00:44:07,000 --> 00:44:09,580
+let's see, let's summarize.
+
+678
+00:44:11,870 --> 00:44:14,380
+In summary, most of the
+lung volumes and capacities
+
+679
+00:44:14,380 --> 00:44:16,940
+can be directly measured
+using spirometry,
+
+680
+00:44:16,980 --> 00:44:20,170
+but one thing that cannot
+be measured is residual
+
+681
+00:44:20,170 --> 00:44:23,580
+volume, and it can be measured
+by other methodologies
+
+682
+00:44:23,580 --> 00:44:28,540
+that we talked about,
+helium dilution, but before
+
+683
+00:44:28,540 --> 00:44:34,060
+that, body pletismography
+and so on. And restrictive
+
+684
+00:44:34,060 --> 00:44:36,360
+and obstructive lung
+diseases can be distinguished
+
+685
+00:44:36,360 --> 00:44:40,080
+by duration and volume of
+expiratory air release.
+
+686
+00:44:40,300 --> 00:44:41,080
+Okay,
+
+687
+00:44:41,260 --> 00:44:46,360
+so typically, or in
+general, we can say that
+
+688
+00:44:46,360 --> 00:44:48,760
+the pulmonary volumes and
+capacities are usually
+
+689
+00:44:48,760 --> 00:44:53,340
+about 20 to 25% less
+in women than in men.
+
+690
+00:44:54,060 --> 00:44:58,500
+And they are higher in large
+and athletic people than
+
+691
+00:44:58,500 --> 00:45:01,180
+in small and asthenic
+people. So, what do you see
+
+692
+00:45:01,180 --> 00:45:05,220
+here? Depending on individuals,
+they're built, etc.,
+
+693
+00:45:05,220 --> 00:45:08,980
+it can change. So, we want
+to keep that in mind when
+
+694
+00:45:08,980 --> 00:45:12,580
+we interpret, you know,
+whether certain, you know,
+
+695
+00:45:12,580 --> 00:45:16,440
+whether the PFT function
+tests are normal or abnormal.
+
+696
+00:45:18,740 --> 00:45:21,440
+Let's see if, oh,
+here's a quick
+
+697
+00:45:21,440 --> 00:45:25,300
+quiz. You can, you
+can try it, right?
+
+698
+00:45:25,560 --> 00:45:28,820
+So you can ask yourself,
+what is this? What is
+
+699
+00:45:28,820 --> 00:45:31,920
+this? This is tidal volume,
+inspiratory tidal volume,
+
+700
+00:45:31,920 --> 00:45:34,100
+and what is this? This
+is expiratory tidal
+
+701
+00:45:34,100 --> 00:45:38,020
+volume, and what is this?
+This is inspiratory reserve
+
+702
+00:45:38,020 --> 00:45:42,620
+volume, and this is, and
+it goes on. Then this
+
+703
+00:45:42,620 --> 00:45:45,400
+whole thing, right, this
+whole thing is vital
+
+704
+00:45:45,400 --> 00:45:49,180
+capacity, and the inspiratory
+capacity, and so on.
+
+705
+00:45:53,980 --> 00:45:58,520
+So it is just,
+this is important,
+
+706
+00:45:58,520 --> 00:46:00,220
+the volumes and capacities,
+
+707
+00:46:00,660 --> 00:46:03,360
+there is a good
+chance questions
+
+708
+00:46:03,360 --> 00:46:05,000
+will come, it's not a surprise,
+
+709
+00:46:05,720 --> 00:46:07,440
+not only in school exam in
+
+710
+00:46:07,440 --> 00:46:10,020
+boards as well, I would say.
+
+711
+00:46:10,140 --> 00:46:12,840
+So please do
+understand, sketch it in
+
+712
+00:46:12,840 --> 00:46:14,660
+your hand if possible,
+in a piece of
+
+713
+00:46:14,660 --> 00:46:16,980
+paper or using some
+apps and so on.
+
+714
+00:46:18,400 --> 00:46:20,860
+You people are extremely
+smart with various
+
+715
+00:46:20,860 --> 00:46:23,380
+gadgets so you can use
+anything but do try to
+
+716
+00:46:23,380 --> 00:46:26,360
+practice you know the
+different ways so you
+
+717
+00:46:26,360 --> 00:46:30,280
+will get a better
+retention of information.
+
+718
+00:46:30,640 --> 00:46:34,720
+Okay so let's see what else
+we saw we tried to understand
+
+719
+00:46:34,720 --> 00:46:37,960
+what they are and we gave
+some numbers to them too
+
+720
+00:46:37,960 --> 00:46:41,060
+and there are times when
+it can fall, FRC can fall
+
+721
+00:46:41,060 --> 00:46:47,500
+and spirometry methodology
+you spirometry whole body we
+
+722
+00:46:47,500 --> 00:46:54,640
+saw and then this formula
+try to practice but these
+
+723
+00:46:54,640 --> 00:46:58,740
+things are more important
+FVC force vital capacity FEV1
+
+724
+00:46:58,780 --> 00:47:03,320
+by FVC why is it important
+because it's pathologically
+
+725
+00:47:03,320 --> 00:47:06,820
+important pathologically in
+a patient with obstructive
+
+726
+00:47:06,820 --> 00:47:10,840
+lung disease FEV1 reduces
+pathologically FVV1 by
+
+727
+00:47:10,840 --> 00:47:16,040
+FVC ratio reduces and then
+residual volume increases.
+
+728
+00:47:16,340 --> 00:47:19,840
+Three distinctions. Opposite
+happens here with the
+
+729
+00:47:19,840 --> 00:47:22,680
+residual volume decreases
+in restrictive lung diseases
+
+730
+00:47:22,680 --> 00:47:27,340
+like pneumonia or pulmonary
+edema fibrosis you know and
+
+731
+00:47:27,340 --> 00:47:31,540
+so on. So FVC decreases but
+FVV1 does not decrease. It
+
+732
+00:47:31,540 --> 00:47:33,900
+does decrease in obstructive
+but it does not decrease
+
+733
+00:47:33,900 --> 00:47:37,540
+explicitly in restrictive.
+It may slightly even go up
+
+734
+00:47:37,540 --> 00:47:43,820
+depends so but overall RV
+decreases and we saw these
+
+735
+00:47:43,820 --> 00:47:47,700
+things we saw in the first
+second what happens and then
+
+736
+00:47:47,700 --> 00:47:50,540
+that's you know these are
+examples right typically
+
+737
+00:47:50,540 --> 00:47:53,320
+it's not hard and fast
+for every single in normal
+
+738
+00:47:53,320 --> 00:47:57,580
+individual is 80 but it's an
+average we have taken and here
+
+739
+00:47:57,580 --> 00:48:01,840
+the ratio decreases FVV by
+FVC and then here slightly
+
+740
+00:48:01,840 --> 00:48:05,080
+it's close to normal or
+slightly higher in right as we
+
+741
+00:48:05,080 --> 00:48:10,020
+saw okay this table also
+will help you understand what
+
+742
+00:48:10,020 --> 00:48:15,240
+is more important in which
+context right we saw this
+
+743
+00:48:15,240 --> 00:48:19,440
+and then that's this okay
+let's please try to understand
+
+744
+00:48:19,440 --> 00:48:22,760
+the concept and then remember
+the you know methodology
+
+745
+00:48:22,760 --> 00:48:28,480
+to measure all right
+that's pretty much it if
+
+746
+00:48:28,480 --> 00:48:31,440
+there is any if there are any
+questions. These are learning
+
+747
+00:48:31,440 --> 00:48:34,960
+objectives. Here are sample
+questions for you all.
+
+748
+00:48:35,600 --> 00:48:37,740
+ScholarRx, you
+have two ScholarRx
+
+749
+00:48:37,740 --> 00:48:39,520
+and then I have
+a few books here.
+
+750
+00:48:39,740 --> 00:48:43,820
+So use your NYIT login
+and go and access
+
+751
+00:48:43,820 --> 00:48:46,800
+these books, case files,
+where you can have
+
+752
+00:48:46,800 --> 00:48:48,600
+a better understanding
+of these cases.
+
+753
+00:48:48,880 --> 00:48:50,860
+And then certainly
+there are board
+
+754
+00:48:50,860 --> 00:48:52,880
+prep materials you
+already may know.
+
+755
+00:48:53,060 --> 00:48:58,500
+You know USMLE or UWorld
+and we have this comeback
+
+756
+00:48:58,500 --> 00:49:03,200
+and so on but at the back
+of books also the ScholarRx
+
+757
+00:49:03,200 --> 00:49:05,780
+there can be questions.
+Guyton Hall is a good book
+
+758
+00:49:05,780 --> 00:49:09,140
+there is a newer edition
+now 14th and 15th editions
+
+759
+00:49:09,140 --> 00:49:12,220
+both are good 15th is newer
+and that's pretty much
+
+760
+00:49:12,220 --> 00:49:14,920
+it so any questions please
+feel free to email me
+
+761
+00:49:14,920 --> 00:49:19,720
+hope things are as clear as
+possible have a good book

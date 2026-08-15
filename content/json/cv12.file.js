@@ -11,233 +11,209 @@ window.receiveLectureContent({
 
 ## The Big Picture: Cranial OMM and Why the SBS Matters (Slides 1-5)
 
-This lecture teaches the language of osteopathic cranial manipulative medicine (OCMM, formerly Osteopathy in the Cranial Field): how the sphenoid and occiput articulate at the sphenobasilar synchondrosis (SBS), how forces there create named strain patterns, how each pattern feels in a vault hold, and how cranial bone restriction can compromise the cranial nerves exiting through them. Everything is framed around real cases, because the payoff is tracing a symptom back to the bone and foramen involved. The lecturer strongly recommends working with a physical model (or a cell phone as the sphenoid and a coaster as the occiput) while studying [Lecturer Emphasis]. Every cranial encounter begins the standard way: thorough history (trauma, pregnancy/delivery issues, newborn considerations like feeding, latching, colic, crying, wet diapers, defecation), observation for asymmetries, palpation, then treatment (Slide 5).
+Osteopathic cranial manipulative medicine (OCMM, formerly Osteopathy in the Cranial Field) rests on the sphenobasilar synchondrosis (SBS), where the sphenoid and occiput articulate: forces there create named strain patterns, each with a signature feel in a vault hold, and a restricted bone compromises the cranial nerves exiting through it. Taught through real cases, the payoff is tracing a symptom back to its bone and foramen. Study with a physical model — a cell phone as the sphenoid, a coaster as the occiput [Lecturer Emphasis]. Every encounter follows one sequence: history (trauma, pregnancy/delivery issues, newborn feeding, latching, colic, crying, wet diapers, defecation), observation for asymmetries, palpation, treatment (Slide 5).
 
 ## The Newborn Skull: Developmental Cranial Osteology (Slides 6-9)
 
-The newborn skull is built to mold through the birth canal: the cranial bones are neither fused nor truly articulating, and sutures are present but not overlapping. Even C-section babies develop in a tight intrauterine spot, so compressive forces can affect any newborn head. Treat these strains early, because "as a bent twig doth the tree grow" — asymmetric forces compound with growth [Lecturer Emphasis].
+The newborn skull molds through the birth canal: bones neither fused nor truly articulating, sutures present but not overlapping. Even C-section babies develop in a tight intrauterine spot, so compressive forces reach any newborn head. Treat these strains early: asymmetric forces compound with growth — "as a bent twig doth the tree grow" [Lecturer Emphasis].
 
 - **Cranial osteology at birth (Slide 7):**
-  - **Occiput in 4 parts** — the condylar parts can be jammed by birth forces, irritating nearby nerves.
+  - **Occiput in 4 parts** — condylar parts jammed by birth forces irritate nearby nerves.
   - **Sphenoid in 3 parts; temporal bone in 3 parts; maxillae in 2 parts; 6 fontanelles.**
-  - **No mastoid process** — it develops only after the baby begins lifting the head, as the strengthening sternocleidomastoid pulls on the temporal bone. Bone develops according to the forces placed on it [Lecturer Emphasis].
+  - **No mastoid process** — it appears only once the baby lifts the head and the strengthening sternocleidomastoid pulls on the temporal bone: bone develops according to the forces placed on it [Lecturer Emphasis].
 - **Bone formation (Slide 9):**
-  - **Bones of the cranial base form in cartilage** (sphenoid, occiput) — almost a continuation of the spine.
-  - **Bones of the vault form in membrane** (frontal, parietal, squamous temporal, squamous occiput).
-  - All cranial bones are guided within the dura — in babies we are not so much moving bones as removing restrictions felt in the cranial dura [Lecturer Emphasis].
+  - **Cranial base forms in cartilage** (sphenoid, occiput) — almost a continuation of the spine.
+  - **Vault forms in membrane** (frontal, parietal, squamous temporal, squamous occiput).
+  - All bones are guided within the dura — in babies we remove cranial dural restrictions more than we move bones [Lecturer Emphasis].
 
 ## The Primary Respiratory Mechanism (Slides 10-11)
 
-Dr. Sutherland — asking why a suture would have serrations like the gills of a fish if not for motion — set out to disprove cranial bone mobility and instead confirmed it on himself. His primary respiratory mechanism (PRM) has five parts:
-
-- **1. Inherent motility of the brain and spinal cord** — a coiling and uncoiling.
-- **2. Fluctuation of the CSF.**
-- **3. Movement of the intracranial and intraspinal membranes.**
-- **4. Articular mobility of the cranial bones** — the serrated sagittal suture allows hinge-like motion.
-- **5. Involuntary mobility of the sacrum between the ilia** — tied in through the dura descending from the brain.
-
-Researchers have amplified brain MRI images — removing the programming that stabilizes the picture — to show how much the brain normally moves beat to beat (Slide 11); ongoing research (NASA work on CSF flow without gravity; the Hollis King article) supports that the cranial rhythmic impulse is real [Lecturer Emphasis]. And you already palpate the heart's point of maximal impulse through soft tissue, ribs, and lung — feeling subtle motion through intervening tissue is a trainable skill.
+Sutherland asked why a suture would have serrations like the gills of a fish if not for motion; setting out to disprove cranial bone mobility, he confirmed it on himself. His five-part primary respiratory mechanism (PRM) underlies every pattern that follows.
 
 :::mnemonic
 **Primary Respiratory Mechanism (5 Components)**
 **"Brains Flow, Membranes Bone the Sacrum"**
 
-- **Brains:** Inherent motility of the brain and spinal cord
+- **Brains:** Inherent motility of the brain and spinal cord — a coiling and uncoiling
 - **Flow:** Fluctuation of the CSF
-- **Membranes:** Movement of intracranial and intraspinal membranes
-- **Bone:** Articular mobility of the cranial bones
-- **Sacrum:** Involuntary mobility of the sacrum between the ilia
+- **Membranes:** Movement of the intracranial and intraspinal membranes
+- **Bone:** Articular mobility of the cranial bones — the serrated sagittal suture allows hinge-like motion
+- **Sacrum:** Involuntary mobility of the sacrum between the ilia — tied in through the dura descending from the brain
 :::
+
+Amplified brain MRI (stabilization removed) shows the brain moving beat to beat (Slide 11); NASA CSF-flow-without-gravity work and the Hollis King article support a real cranial rhythmic impulse [Lecturer Emphasis]. You already palpate the heart's point of maximal impulse through soft tissue, ribs, and lung — subtle motion through tissue is readable with training.
 
 ## Cranial Contacts and Diagnosis: Looking Into the Basement (Slides 12-13, 20-21)
 
-Three hand contacts diagnose strain patterns: the **vault hold**, the **fronto-occipital hold**, and the **occipital (Becker) hold** (Slide 12). The SBS sits deep at the center of the head; virtually all contacts are on the vault (membranous bone), and the goal is to perceive what is and is not moving at the base (Slide 21) — like judging a house's foundation from outside through every window you can [Lecturer Emphasis]. Strains at the base cause accommodation in the vault, which is what your fingers read (Slide 13). In the vault hold the index finger rests on the greater wing of the sphenoid, the middle and ring fingers frame the ear on the temporal bone, and the pinky reaches for the occiput.
+Three hand contacts diagnose strain patterns: the **vault hold**, the **fronto-occipital hold**, and the **occipital (Becker) hold** (Slide 12). The SBS sits deep at the center of the head, yet nearly all contacts are on the vault (membranous bone) — you read the base through the vault, like judging a house's foundation from outside through every window you can (Slide 21) [Lecturer Emphasis]. Base strains force vault accommodation, and that accommodation is what your fingers feel (Slide 13). Vault hold: index on the greater wing of the sphenoid, middle and ring framing the ear on the temporal bone, pinky reaching the occiput.
 
 ## The SBS: The Cranial Vertebra and Trauma Reference Point (Slides 14-16)
 
-The SBS is the cartilaginous articulation between the sphenoid and occiput at the center of the cranial base. Older texts dubbed these bones "cranial vertebrae" — occiput as C0, sphenoid as C0-prime — a continuation of the spine with a change in orientation as the sphenoid angles forward (Slide 14). Like the spine, the SBS can move in flexion/extension, sidebending, and rotation.
+The SBS is the cartilaginous articulation between sphenoid and occiput at the center of the cranial base. Older texts called these bones "cranial vertebrae" — occiput as C0, sphenoid as C0-prime — the spine continued, reorienting as the sphenoid angles forward (Slide 14). Like the spine, it moves in flexion/extension, sidebending, and rotation.
 
-- **All motion patterns are described in reference to the SBS (Slide 15):** its central location makes it an excellent reference point.
-- **The cranium directs traumatic forces to the center**, where they are absorbed — which is why trauma shows up as strain at the SBS.
-- **Etiology (Slide 16):** Sutherland described these patterns through observations on himself and patients — famously compressing his own head with a catcher's mitt and tightened belt [Lecturer Emphasis]. Most patients have a predominant pattern from birth or trauma.
+- **All motion patterns are described in reference to the SBS (Slide 15)** — its central location makes it the ideal reference point.
+- **The cranium directs traumatic forces to the center** for absorption, so trauma surfaces as SBS strain.
+- **Etiology (Slide 16):** Sutherland derived these patterns from himself and his patients, famously compressing his own head with a catcher's mitt and a tightened belt [Lecturer Emphasis]. Most patients carry a predominant pattern from birth or trauma.
 
 ## Gear-Like Motion and the Core Link (Slides 17-19)
 
-Movement at the cranial base normally occurs in a gear-like fashion: the midline bones rotate in opposite directions around transverse axes — flexion (inhalation phase) and extension (exhalation phase) (Slide 17). The motion is never isolated: the sphenoid drives the ethmoid and vomer to rotate alternately, and midline motion drives the paired bones into external/internal rotation — the whole head moves at once [Lecturer Emphasis].
+At the cranial base the midline bones rotate in opposite directions around transverse axes, gear-like — flexion (inhalation phase) and extension (exhalation phase) (Slide 17). Motion is never isolated: the sphenoid drives the ethmoid and vomer alternately, and midline motion drives the paired bones into external/internal rotation — the whole head moves at once [Lecturer Emphasis].
 
 - **The core link (Slide 18):** the cranial dura continues down the spinal canal, attaching at **C2-C3 and the sacrum**.
-  - **Craniosacral flexion → sacrum counternutates** (rotates posteriorly) as the rising SBS pulls the dura superiorly; **extension → sacrum nutates** (anteriorly).
-  - Repercussions run both ways: cranial strains can affect the spine all the way down, a hard sit-down fall can drive headaches from below, and a postpartum sacrum stuck forward can drag on the entire dural system [Lecturer Emphasis].
-- **Other sources of altered cranial motion (Slide 19):** fascial pull from below, local cranial dysfunction, spinal/pelvic asymmetry — a short leg tilting the sacrum transmits pull to the head, so a restricted upper neck may be driven from above or below.
+  - **Craniosacral flexion → sacrum counternutates** (posteriorly) as the rising SBS pulls the dura superiorly; **extension → sacrum nutates** (anteriorly).
+  - Repercussions run both ways: cranial strains reach the whole spine, a hard sit-down fall drives headaches from below, a postpartum sacrum stuck forward drags on the entire dural system [Lecturer Emphasis].
+- **Other sources of altered cranial motion (Slide 19):** fascial pull from below, local cranial dysfunction, spinal/pelvic asymmetry — a short leg tilting the sacrum pulls on the head, so a restricted upper neck may be driven from either end.
 
 :::diagram cv12-core-link-cranium-to-sacrum:::
 
 ## The Strain Pattern Framework (Slides 22-23)
 
-For every strain pattern, know six characteristics (Slide 22): the **axes**, the **motion** (direction of rotation of sphenoid and occiput), the **nomenclature** (generally named for the motion of the **basisphenoid relative to the basiocciput** — just as T1 FRSright names T1 moving on T2; the sphenoid is the "segment above"), the **morphology**, the **etiology**, and the **palpatory diagnosis** through vault contact.
+Six characteristics define every pattern (Slide 22): **axes**; **motion** (rotation direction of sphenoid and occiput); **nomenclature** — the motion of the **basisphenoid relative to the basiocciput**, the sphenoid being the "segment above," as T1 FRSright names T1 on T2; **morphology**; **etiology**; **palpatory diagnosis** by vault contact.
 
-- **Physiologic patterns (Slide 23)** — generally adaptive; do not arrest flexion/extension; the bones rotate in **opposite** directions (gears mesh): **flexion (inhalation), extension (exhalation), torsion, sidebending and rotation**.
-- **Non-physiologic patterns** — generally maladaptive; the bones rotate in the **same** direction, shearing and disrupting the midline at the SBS; usually traumatic, typically symptomatic, with significant restriction: **vertical shears, lateral shears, compression**.
+- **Physiologic (Slide 23)** — generally adaptive; do not arrest flexion/extension; bones rotate in **opposite** directions (gears mesh): **flexion (inhalation), extension (exhalation), torsion, sidebending and rotation**.
+- **Non-physiologic** — generally maladaptive; bones rotate in the **same** direction, shearing and disrupting the SBS midline; usually traumatic, typically symptomatic, with significant restriction: **vertical shears, lateral shears, compression**.
 
 :::highyield
-Gears cannot turn the same way. Physiologic patterns (flexion, extension, torsion, sidebending-rotation): sphenoid and occiput rotate in OPPOSITE directions. Non-physiologic patterns (vertical shear, lateral shear, compression): SAME-direction rotation — a shearing, midline-disrupting, usually trauma-induced dysfunction.
+Gears cannot turn the same way. Physiologic (flexion, extension, torsion, sidebending-rotation) = OPPOSITE-direction rotation. Non-physiologic (vertical shear, lateral shear, compression) = SAME-direction rotation, a midline-disrupting shear, usually trauma-induced.
 :::
 
 ## Flexion and Extension (Slides 24-28)
 
-Flexion/extension is what you feel first when your hands go on — happening all the time, like breathing, at a rate of about 6-12 cycles per minute [Lecturer Emphasis].
+Flexion/extension is what you feel first when your hands go on — constant, like breathing, at about 6-12 cycles per minute [Lecturer Emphasis].
 
-- **Axes (Slide 24):** two parallel **transverse** axes — one through the body of the sphenoid, one through the occiput at the foramen magnum. Axes are named for anatomical neutral (a supine patient does not change the naming). The bones rotate in **opposite** directions: physiologic.
-- **A preference is a dysfunction (Slide 25):** if flexion or extension becomes exaggerated with restricted opposite motion, it is a dysfunction, like a flexed or extended spinal segment.
-- **Flexion (Slide 26):** sphenoid rotates **anteriorly**, occiput **posteriorly** → the **SBS rises**; paired vault bones **externally rotate**; **increased transverse diameter**, **decreased AP and vertical diameter** — the wide "Ernie" head [Lecturer Emphasis].
-- **Extension (Slide 27):** sphenoid rotates **posteriorly**, occiput **anteriorly** → the **SBS drops**; paired bones **internally rotate**; **decreased transverse**, **increased AP and vertical diameter** — the tall narrow "Bert" head.
-- **Vault palpation (Slide 28):** in **flexion** the fingers **spread apart** and move **inferiorly toward the feet** (transverse swelling as the greater wings and occipital squama drop); in **extension** the fingers **come together medially** and move **superiorly toward the vertex**. The palms do not approximate or twist [Lecturer Emphasis].
+- **Axes (Slide 24):** two parallel **transverse** axes — through the body of the sphenoid and the occiput at the foramen magnum; named for anatomical neutral, so supine positioning does not change the naming.
+- **A preference is a dysfunction (Slide 25):** flexion or extension exaggerated with the opposite restricted, like a flexed or extended spinal segment.
+- **Flexion (Slide 26):** sphenoid **anteriorly**, occiput **posteriorly** → **SBS rises**; paired vault bones **externally rotate**; **increased transverse**, **decreased AP and vertical diameter** — the wide "Ernie" head [Lecturer Emphasis].
+- **Extension (Slide 27):** sphenoid **posteriorly**, occiput **anteriorly** → **SBS drops**; paired bones **internally rotate**; **decreased transverse**, **increased AP and vertical** — the tall narrow "Bert" head.
+- **Vault palpation (Slide 28):** **flexion** — fingers **spread** and travel **inferiorly toward the feet** as the greater wings and occipital squama drop; **extension** — fingers **approximate medially** and travel **superiorly toward the vertex**. Palms never approximate or twist [Lecturer Emphasis].
 
 :::diagram cv12-flexion-extension-vault-translation:::
 
 ## Sidebending/Rotation (Slides 29-36)
 
-Case 1 continued: the fingers of your right hand spread out more and are pulled inferiorly toward the feet (Slide 29) — sidebending-rotation, the most confusing physiologic pattern because two motions occur simultaneously on three axes (Slide 31):
+Case 1 continued: the fingers of your right hand spread more and are pulled inferiorly toward the feet (Slide 29) — **right sidebending-rotation**, the most confusing physiologic pattern because two motions occur at once on three axes (Slide 31); a tight sternocleidomastoid pulling from below contributed.
 
-- **Sidebending:** the sphenoid and occiput rotate in **opposite** directions around **two parallel vertical axes** (through the body of the sphenoid and the foramen magnum), gapping one side open into a convexity.
-- **Rotation:** both bones then rotate in the **same** direction around an **AP axis** (the same axis as torsion), **toward the convexity**, bringing that side **more inferior** (Slide 32).
-- **Naming:** for the **side of the convexity** (the wider side that rolls toward the feet), like scoliosis — not for the side the sphenoid appears to sidebend toward [Lecturer Emphasis].
-- **Vault palpation (Slide 35):** on the convex side the fingers move **inferiorly and separate** — **"DOWN and OUT"**; on the concave side they move superiorly and approximate. Egg analogy: crack the egg open (sidebending), spill the contents (rotation).
-- In the case, the right hand spreading and dropping toward the feet = **right sidebending-rotation**; the tight sternocleidomastoid pulling from below contributed.
-- **Visual findings (Slide 36):** SBS strains distort the whole face — an orbit (seven bones) higher or wider, the zygomatic rim higher or flattened, the chin deviated, an ear protruding or flattened. Facial asymmetry is a soft sign of craniosomatic dysfunction [Lecturer Emphasis].
+- **Sidebending:** **opposite** rotation around **two parallel vertical axes** (body of the sphenoid, foramen magnum), gapping one side open into a convexity.
+- **Rotation:** both bones then rotate the **same** way around an **AP axis** (torsion's axis), **toward the convexity**, carrying that side **more inferior** (Slide 32).
+- **Naming:** for the **side of the convexity** — the wider side rolling toward the feet, like scoliosis — not the side the sphenoid appears to sidebend toward [Lecturer Emphasis].
+- **Vault palpation (Slide 35):** convex side **inferior and separating** — **"DOWN and OUT"**; concave side superior and approximating. Egg analogy: crack the egg open (sidebending), spill the contents (rotation).
+- **Visual findings (Slide 36):** SBS strains distort the whole face — an orbit (seven bones) higher or wider, a zygomatic rim higher or flattened, the chin deviated, an ear protruding or flattened. Facial asymmetry is a soft sign of craniosomatic dysfunction [Lecturer Emphasis].
 
 :::diagram cv12-sidebending-rotation-three-axes:::
 
 ## Case 1: Torticollis, CN XI, and the Jugular Foramen (Slides 37-42)
 
-The baby had decreased rotation to the right. The sternocleidomastoid (SCM) produces **sidebending toward and rotation away**, so a spasmed SCM explains the preference — and its motor nerve leads straight to cranial base anatomy.
+The baby had decreased rotation to the right. The sternocleidomastoid (SCM) produces **sidebending toward and rotation away**, so spasm explains the preference — and its motor nerve leads into the cranial base.
 
 :::correlate
 Congenital (Infant) Torticollis
 
-- **Pathophysiology:** Spasm of the sternocleidomastoid, innervated by CN XI (spinal accessory), which exits the jugular foramen — formed at the precarious junction of the occipital condylar parts and petrous temporal bone (occipitomastoid, OM, suture), vulnerable to birth-force compression in the multi-part newborn occiput.
-- **Presentation:** Baby dislikes turning the head to one side (decreased right rotation), head sidebent toward the tight muscle; head flattening from always lying on the same side.
-- **Diagnosis:** Observation (look, feel, move), SCM palpation, vault hold revealing an associated strain pattern (here sidebending-rotation).
-- **Treatment:** OMM to the SCM and cranial findings; by the third visit the spasm had decreased, the torticollis resolved, and the baby turned comfortably side to side.
+- **Pathophysiology:** SCM spasm; CN XI (spinal accessory) innervates the SCM and exits the jugular foramen — a precarious junction of occipital condylar parts and petrous temporal bone (occipitomastoid, OM, suture), vulnerable to birth-force compression in the multi-part newborn occiput.
+- **Presentation:** Dislikes turning to one side (decreased right rotation), head sidebent toward the tight muscle; flattening from always lying on the same side.
+- **Diagnosis:** Observation (look, feel, move), SCM palpation, vault hold showing the pattern (here sidebending-rotation).
+- **Treatment:** OMM to the SCM and cranial findings; by the third visit the spasm had decreased, the torticollis resolved, and the baby turned comfortably both ways.
 - **Lecturer's Point:** CN IX, X, and XI all exit the jugular foramen, and roughly 90% of the head's venous blood drains through it — OM suture restrictions deserve real attention.
 :::
 
-- **Feeding, latching, and swallowing problems (Slide 40):** think **CN IX and X (jugular foramen)** and **CN XII (hypoglossal canal)** — jammed newborn occipital condyles can irritate these nerves.
-- **Colic and gastric irritation (Slide 41):** think **vagus (CN X)** at the jugular foramen — parasympathetic (rest-and-digest) supply to nearly every organ of the chest and gut. OM suture restriction may impair optimal vagal function; departmental research has shown improved parasympathetic heart rate variability and decreased arrhythmias with treatment of this region [Lecturer Emphasis].
+- **Feeding, latching, swallowing problems (Slide 40):** **CN IX and X (jugular foramen)**, **CN XII (hypoglossal canal)** — jammed newborn occipital condyles irritate these nerves.
+- **Colic and gastric irritation (Slide 41):** **vagus (CN X)** at the jugular foramen — parasympathetic supply to nearly every organ of chest and gut. OM restriction may impair vagal function; departmental research showed improved parasympathetic heart rate variability and fewer arrhythmias after treating this region [Lecturer Emphasis].
 
 ## Torsion (Slides 43-47)
 
-The torticollis resolved but the head stayed misshaped, with one side of the face higher than the other — visual findings pointing to a torsion (Slides 43-44).
+The torticollis resolved but the head stayed misshaped, one side of the face higher than the other — pointing to a torsion (Slides 43-44).
 
-- **Axis (Slide 45):** **one anteroposterior axis from nasion to opisthion** (nasion = nasal-frontal junction; opisthion = posterior aspect of the foramen magnum).
-- **Motion:** sphenoid and occiput rotate in **opposite** directions about that single AP axis — physiologic.
+- **Axis (Slide 45):** **one anteroposterior axis, nasion to opisthion** (nasion = nasal-frontal junction; opisthion = posterior aspect of the foramen magnum), with **opposite** rotation about that single axis.
 - **Naming:** for the **high (superior) greater wing of the sphenoid**. High right wing = **right torsion** (Slide 46).
-- **Vault palpation (Slide 47):** the hands rotate in **opposite** directions, as if a pen were held between them without tilting — one hand rolls toward the ceiling, the other toward the floor. The **index finger on the greater wing moves cephalad on the side of the torsion**: right hand rolls up = right torsion.
+- **Vault palpation (Slide 47):** hands rotate in **opposite** directions, as if rolling a pen held between them without tilting — one toward the ceiling, the other the floor. The **index finger on the greater wing moves cephalad on the side of the torsion**: right hand rolls up = right torsion.
 
 ## Plagiocephaly, Back-to-Sleep, and Craniosynostosis (Slides 48-51)
 
 :::correlate
 Plagiocephaly and Brachycephaly
 
-- **Pathophysiology:** Moldable infant cranial bones deform under sustained positional pressure. Plagiocephaly = asymmetrical distortion (flattening of one side); brachycephaly ("flat-head syndrome") = shortened front-to-back (AP) diameter. Torticollis promotes plagiocephaly because the baby always lies on the same side.
+- **Pathophysiology:** Moldable infant bones deform under sustained positional pressure. Plagiocephaly = asymmetrical distortion (one side flattened); brachycephaly ("flat-head syndrome") = shortened front-to-back (AP) diameter. Torticollis promotes plagiocephaly by keeping the baby on one side.
 - **Risk Factors:** The 1992 AAP back-to-sleep recommendation cut Sudden Infant Death Syndrome by more than 50% but increased positional plagiocephaly. Prevention: supervised tummy time while awake.
-- **Treatment:** OMM, or helmet molding therapy. Helmets require ~23 hours/day of wear (compliance is difficult), and a recent article showed helmets do not necessarily improve outcomes; prospective OMM studies are underway using a validated sensor "hairnet" that safely maps head asymmetry.
+- **Treatment:** OMM, or helmet molding therapy — helmets require ~23 hours/day of wear (compliance is difficult) and a recent article showed they do not necessarily improve outcomes. Prospective OMM studies use a validated sensor "hairnet" mapping head asymmetry.
 - **Lecturer's Point:** Track asymmetry objectively — serial photos documented severe asymmetry improving substantially by the third OMM visit.
 :::
 
 :::correlate
 Craniosynostosis
 
-- **Pathophysiology:** Early closure of a cranial suture, which also causes a misshaped head.
-- **Presentation:** Mimics positional plagiocephaly.
+- **Pathophysiology:** Early closure of a cranial suture, also producing a misshaped head.
+- **Presentation:** Mimics positional plagiocephaly — the must-not-miss differential.
 - **Diagnosis:** Suspect it when a presumed positional deformity shows no real improvement with treatment.
 - **Treatment:** Referral to pediatric neurosurgery.
-- **Lecturer's Point:** The must-not-miss differential of plagiocephaly — if you treat and see no improvement, refer.
 :::
 
 ## Case 2: Duane Retraction Syndrome and the Sphenoid (Slides 52-59)
 
-A 6-year-old girl presents with vision problems and decreased abduction of the right eye since birth (Slide 52). **CN III (oculomotor — most eye movements, pupillary constriction), CN IV (trochlear — superior oblique), and CN VI (abducens — lateral rectus) all pass through the superior orbital fissure of the sphenoid** (Slide 54), so a sphenoid strain can affect the extraocular muscles.
+A 6-year-old girl presents with vision problems and decreased abduction of the right eye since birth (Slide 52). **CN III (oculomotor — most eye movements, pupillary constriction), CN IV (trochlear — superior oblique), and CN VI (abducens — lateral rectus) all pass through the superior orbital fissure of the sphenoid** (Slide 54), so a sphenoid strain reaches the extraocular muscles.
 
 :::correlate
 Duane Retraction Syndrome (DRS)
 
-- **Pathophysiology:** Congenital absence or poor development of the abducens nuclei with aberrant innervation, impairing ocular motility — classically limited abduction (lateral rectus, CN VI). Dural attachments angulate the abducens nerve as it passes under the petrosphenoidal ligament (Gruber's ligament) between the petrous temporal bone and sphenoid; compression or stretching there can produce nerve palsy. CN VI already takes a long, roundabout route to the superior orbital fissure, and a sphenoid strain adds tension on its path.
+- **Pathophysiology:** Congenital absence or poor development of the abducens nuclei with aberrant innervation, classically limiting abduction (lateral rectus, CN VI). CN VI takes a long, roundabout route to the superior orbital fissure, angulated by dural attachments under the petrosphenoidal (Gruber's) ligament between petrous temporal bone and sphenoid; compression or stretch there produces palsy, so a sphenoid strain adds tension along its path.
 - **Presentation:** Decreased abduction of one eye (here the right) since birth; vision problems.
-- **Treatment:** Corrective lenses or eye muscle surgery improve head position but do not normalize horizontal motility. This patient had a right lateral strain (non-physiologic); after OMM she had more symmetric lateral gaze — written up as a poster.
-- **Lecturer's Point:** A once-in-a-career case showing why you must know each cranial nerve's exit and path: the strain pattern told us which bone to treat.
+- **Treatment:** Corrective lenses or eye muscle surgery improve head position but do not normalize horizontal motility. This patient had a right lateral strain (non-physiologic); after OMM her lateral gaze was more symmetric, written up as a poster.
+- **Lecturer's Point:** A once-in-a-career case for why you must know every cranial nerve's exit and path — the strain pattern named the bone to treat.
 :::
 
-A personal aside [Lecturer Emphasis]: after a racquetball blow to the eye caused persistently elevated intraocular pressure despite a week of drops, cranial OMM to the dysfunctions around the orbit was followed by a normal pressure reading that same afternoon, which persisted.
+A personal aside [Lecturer Emphasis]: after a racquetball blow to the eye left intraocular pressure elevated despite a week of drops, cranial OMM around the orbit was followed by a normal pressure that afternoon, which persisted.
 
 ## Lateral Strains (Slides 60-66)
 
-- **Non-physiologic (Slide 61):** vertical and lateral strains involve a **shear at the SBS**, usually from trauma disrupting the midline; typically symptomatic and motion-interfering.
-- **Mechanics (Slide 62):** **two parallel vertical axes** (the sidebending axes) — but the bones rotate in the **same** direction, producing a shear instead of a sidebend: the **"parallelogram head."**
+- **Non-physiologic (Slide 61):** vertical and lateral strains **shear the SBS**, usually from trauma disrupting the midline; typically symptomatic and motion-interfering.
+- **Mechanics (Slide 62):** the **two parallel vertical axes** of sidebending, but **same-direction** rotation — a shear instead of a sidebend: the **"parallelogram head."**
 - **Naming:** for the **direction the basisphenoid moves**. The greater wings swing opposite, so a **right lateral strain feels like the greater wing is to the left** (Slide 63).
-- **Etiology (Slide 64):** compressive, positional, or in-utero force; plagiocephaly secondary to torticollis; lateral trauma. Real-world blows are rarely perfectly lateral, so findings may not fit the textbook parallelogram exactly [Lecturer Emphasis].
-- **Vault palpation (Slide 65):** both hands tilt to one side (not torsion's up-and-down roll). **Index fingers move toward the greater wings; pinkies move opposite — generally the direction of the basisphenoid.** Name the strain for the **pinkies**: pinkies right = right lateral strain (wings feel left).
+- **Etiology (Slide 64):** compressive, positional, or in-utero force; plagiocephaly secondary to torticollis; lateral trauma. Real blows are rarely purely lateral, so findings may not fit the textbook parallelogram [Lecturer Emphasis].
+- **Vault palpation (Slide 65):** both hands tilt to one side (not torsion's up-and-down roll). **Index fingers move toward the greater wings; pinkies move opposite — the direction of the basisphenoid.** Name it for the **pinkies**: pinkies right = right lateral strain (wings feel left).
 
 ## Case 3: Chin Trauma, CN VII/VIII, and the Temporal Bone (Slides 67-69)
 
-A 50-year-old man presents with dizziness and persistent ear ringing after striking his chin on the dining room table (Slide 67). Tinnitus plus dizziness points to **CN VIII (vestibulocochlear — sound and equilibrium)**, which exits with **CN VII (facial)** through the **internal acoustic meatus of the temporal bone** (Slide 68). The temporal bone also houses the semicircular canals, so temporal restriction can affect balance and both nerves [Lecturer Emphasis].
+A 50-year-old man presents with dizziness and persistent ear ringing after striking his chin on the dining room table (Slide 67). Tinnitus plus dizziness points to **CN VIII (vestibulocochlear — sound and equilibrium)**, which exits with **CN VII (facial)** through the **internal acoustic meatus of the temporal bone** (Slide 68); the temporal bone also houses the semicircular canals, so restriction there affects balance and both nerves [Lecturer Emphasis].
 
-:::correlate
-Bell Palsy (CN VII Impairment)
-
-- **Pathophysiology:** Impairment of the facial nerve (CN VII), which exits through the internal acoustic meatus of the temporal bone (parasympathetic fibers travel via the greater petrosal nerve).
-- **Presentation:** Facial drooping with loss of facial muscle strength.
-- **Lecturer's Point:** The classic manifestation of CN VII compromise when evaluating temporal bone restriction.
-:::
-
-:::correlate
-Post-Traumatic Tinnitus and Vertigo (CN VIII Involvement)
-
-- **Pathophysiology:** A midline blow (chin strike driving force through the cranium) can shear the cranial bones and strain the temporal bone; CN VIII, exiting via the internal acoustic meatus, mediates sound and equilibrium.
-- **Presentation:** Persistent tinnitus and dizziness/vertigo after trauma.
-- **Diagnosis:** The trauma vector predicts the pattern class — a midline blow suggests a vertical, non-physiologic strain; vault palpation localizes it.
-:::
+- **Post-traumatic tinnitus and vertigo (CN VIII):** a midline blow driving force through the cranium shears the cranial bones and strains the temporal bone, and CN VIII carries the sound and equilibrium symptoms. The trauma vector predicts the pattern class: midline force suggests a **vertical, non-physiologic strain**; vault palpation localizes it.
+- **Bell palsy (CN VII):** facial nerve impairment — it exits the same internal acoustic meatus (parasympathetic fibers via the greater petrosal nerve) — producing facial drooping with loss of facial muscle strength, the classic sign of CN VII compromise in temporal bone restriction.
 
 ## Vertical Strains (Slides 70-74)
 
-- **Mechanics (Slide 70):** **two parallel transverse axes — the flexion/extension axes** — but the bones rotate in the **same** direction (non-physiologic). Named for the **position of the basisphenoid**. Caused by a blow from above or below (e.g., standing up into a cabinet).
-- **Superior vertical strain (Slide 71):** sphenoid rotates into relative **flexion**, occiput into relative **extension** (both anteriorly) — **basisphenoid higher**.
+- **Mechanics (Slide 70):** the **two parallel transverse flexion/extension axes**, but **same-direction** rotation. Named for the **position of the basisphenoid**. Caused by a blow from above or below (e.g., standing up into a cabinet).
+- **Superior vertical strain (Slide 71):** sphenoid into relative **flexion**, occiput into relative **extension** (both anteriorly) — **basisphenoid higher**.
 - **Inferior vertical strain:** sphenoid into relative **extension**, occiput into relative **flexion** (both posteriorly) — **basisphenoid lower**.
-- **Vault palpation (Slide 72):** **superior** — both hands rotate **anteriorly**, all fingers feel like they rotate **down toward the table** (a sloping-forward head, illustrated by the lecturer's son); **inferior** — both hands rotate **posteriorly**, all fingers rotate **up toward the ceiling** (the lecturer explicitly corrected a slide typo on this point) [Lecturer Emphasis].
+- **Vault palpation (Slide 72):** **superior** — both hands rotate **anteriorly**, fingers rotating **down toward the table** (a sloping-forward head, illustrated by the lecturer's son); **inferior** — both hands rotate **posteriorly**, fingers rotating **up toward the ceiling** (the lecturer explicitly corrected a slide typo here) [Lecturer Emphasis].
 
 ## SBS Compression (Slides 75-76)
 
-You palpate the head and feel no motion. Besides doubting yourself, consider the final non-physiologic pattern:
-
-- **SBS compression (Slide 76):** usually major trauma with a **compressive force toward midline jamming the SBS together** — a fall onto the back of the head, a windshield strike in an unbelted crash.
+- **SBS compression (Slide 76):** you palpate and feel no motion at all. Usually major trauma with a **compressive force toward midline jamming the SBS together** — a fall onto the back of the head, a windshield strike in an unbelted crash.
 - **Palpation:** the **"Bowling Ball Head"** — dense, compressed, relatively heavy when the operator tries to lift; the PRM is barely palpable in any hold.
-- Seen in chronic pain after severe head injury; takes considerable treatment [Lecturer Emphasis]. The most important aspect of cranial diagnosis remains the quality and motion of the PRM, even when compression or other strains are present.
+- Seen in chronic pain after severe head injury; takes considerable treatment [Lecturer Emphasis]. PRM quality and motion remain the most important aspect of cranial diagnosis, compression or not.
 
 :::highyield
-Master table of SBS strain patterns — axes, motion, naming, and vault feel:
+SBS strain patterns at a glance:
 
 | Pattern | Axes | Motion | Named For | Vault Hold Feel |
 | --- | --- | --- | --- | --- |
-| Flexion | 2 parallel transverse | Opposite; SBS rises | Phase | Fingers spread, move toward feet |
-| Extension | 2 parallel transverse | Opposite; SBS drops | Phase | Fingers approximate, move toward vertex |
-| Torsion | 1 AP (nasion-opisthion) | Opposite | HIGH greater wing side | Hands roll opposite ways; index cephalad on torsion side |
-| Sidebending/Rotation | 2 vertical + 1 AP | Opposite (vertical); same (AP) | Convexity side | Convex side DOWN and OUT; concave side up and in |
-| Superior vertical shear | 2 parallel transverse | SAME (both anterior); basisphenoid high | Basisphenoid position | All fingers rotate down toward table |
-| Inferior vertical shear | 2 parallel transverse | SAME (both posterior); basisphenoid low | Basisphenoid position | All fingers rotate up toward ceiling |
-| Lateral shear | 2 parallel vertical | SAME direction | Basisphenoid direction (pinkies) | Parallelogram: index to wings, pinkies opposite |
-| Compression | — | SBS jammed together | — | Bowling ball: dense, heavy, minimal PRM |
+| Flexion | 2 transverse | Opposite; SBS rises | Phase | Spread, toward feet |
+| Extension | 2 transverse | Opposite; SBS drops | Phase | Approximate, toward vertex |
+| Torsion | 1 AP (nasion-opisthion) | Opposite | HIGH greater wing | Hands roll opposite; index cephalad = side |
+| Sidebending/Rotation | 2 vertical + 1 AP | Opposite (vertical), same (AP) | Convexity | Convex DOWN and OUT; concave up and in |
+| Superior vertical shear | 2 transverse | SAME, both anterior | Basisphenoid high | Fingers rotate down to table |
+| Inferior vertical shear | 2 transverse | SAME, both posterior | Basisphenoid low | Fingers rotate up to ceiling |
+| Lateral shear | 2 vertical | SAME direction | Basisphenoid direction (pinkies) | Parallelogram; index to wings, pinkies opposite |
+| Compression | — | SBS jammed to midline | — | Bowling ball: dense, heavy, minimal PRM |
 :::
 
 ## Clinical Significance, Contraindications, and Cranial Nerve Exits (Slides 77-80)
 
-Treating the cranial base affects the bones, the exiting cranial nerves, and the brain itself — the department has studied OMM in Parkinson's disease, concussion, and post-concussion syndrome [Lecturer Emphasis].
+Treating the cranial base affects the bones, the exiting nerves, and the brain itself — the department has studied OMM in Parkinson's disease, concussion, and post-concussion syndrome [Lecturer Emphasis].
 
-- **Why treat cranial strains (Slide 77):** restore natural motion; **reduce cranial nerve compression** and **balance the autonomic nervous system**; **enhance circulation** and **venous sinus drainage**; **improve glymphatic drainage** (the glymphatic system drains at the superior sagittal sinus, within the dura); **improve sinus drainage** (the maxillary sinus ostium drains higher than the cavity floor, so restriction can contribute to sinusitis).
+- **Why treat cranial strains (Slide 77):** restore natural motion; **reduce cranial nerve compression**; **balance the autonomics**; **enhance circulation** and **venous sinus drainage**; **improve glymphatic drainage** (glymphatics drain at the superior sagittal sinus, within the dura); **improve sinus drainage** (the maxillary ostium sits above the cavity floor, so restriction contributes to sinusitis).
 - **Contraindications (Slide 78):**
   - **Absolute:** acute intracranial bleeding, skull fracture, acute cerebrovascular accident.
   - **Relative:** coagulopathies, space-occupying lesion in the cranium (e.g., tumor), increased intracranial pressure.
-  - Lecturer's nuance: experienced clinicians have safely treated controlled intracranial bleeds and post-stroke patients, and reclassification of some absolutes as relative is being advocated — but know the textbook lists for boards [Lecturer Emphasis].
-- **Know every cranial nerve's exit and associated bone (Slides 79-80)** — this tells you which bone to focus on:
+  - Nuance: experienced clinicians have safely treated controlled intracranial bleeds and post-stroke patients, and reclassifying some absolutes as relative is advocated — but know the textbook lists [Lecturer Emphasis].
+- **Every cranial nerve's exit and bone (Slides 79-80)** — this names the bone to treat:
 
 | Cranial Nerve | Exit | Bone/Region |
 | --- | --- | --- |
@@ -251,24 +227,12 @@ Treating the cranial base affects the bones, the exiting cranial nerves, and the
 | CN IX, X, XI | Jugular foramen | OM suture |
 | CN XII (Hypoglossal) | Hypoglossal canal at foramen magnum | OA region, occipital intraosseous strain |
 
-:::correlate
-Trigeminal Neuralgia
-
-- **Pathophysiology:** All trigeminal divisions traverse the sphenoid — V1 via the superior orbital fissure, V2 via foramen rotundum, V3 via foramen ovale.
-- **Lecturer's Point:** In trigeminal neuralgia, the sphenoid bone is something to really take a look at.
-:::
-
-:::correlate
-Post-COVID Anosmia (Loss of Smell)
-
-- **Pathophysiology:** CN I fibers pass through the cribriform plate of the ethmoid.
-- **Treatment:** Cranial OMM directed at the ethmoid and anterior face.
-- **Lecturer's Point:** In a departmental case, treatment helped restore smell sooner than the average post-COVID recovery.
-:::
+- **Trigeminal neuralgia:** all three divisions traverse the sphenoid — V1 superior orbital fissure, V2 foramen rotundum, V3 foramen ovale — so here the sphenoid is the bone to really take a look at.
+- **Post-COVID anosmia (loss of smell):** CN I fibers pass through the cribriform plate of the ethmoid; cranial OMM to the ethmoid and anterior face helped a departmental case restore smell sooner than the average post-COVID recovery.
 
 ## Applications and Summary (Slides 81-83)
 
-The Osteopathic Cranial Academy lists a wide span of potentially treatable problems — dental (TMJ), digestive (via the vagus), ENT (sinusitis, ear infections), neurologic (vertigo, head trauma, migraines, post-concussion syndrome), pediatric (colic, plagiocephaly, sucking difficulties) — essentially any population with autonomic dysfunction or cranial bone/nerve involvement (Slides 81-82). In summary (Slide 83): understanding SBS motions and patterns powers diagnosis; cranial nerve anatomy guides treatment; applying these techniques supports patient health and healing.
+The Osteopathic Cranial Academy lists a wide span of treatable problems — dental (TMJ), digestive (via the vagus), ENT (sinusitis, ear infections), neurologic (vertigo, head trauma, migraines, post-concussion syndrome), pediatric (colic, plagiocephaly, sucking difficulties) — essentially any population with autonomic dysfunction or cranial bone/nerve involvement (Slides 81-82). In summary (Slide 83): SBS patterns drive diagnosis, cranial nerve anatomy guides treatment, and these techniques support healing.
 `,
   "flashcards": [
     { "front": "What are the five components of the Primary Respiratory Mechanism (PRM)?", "back": "1) Inherent motility of the brain and spinal cord, 2) Fluctuation of the CSF, 3) Movement of the intracranial and intraspinal membranes, 4) Articular mobility of the cranial bones, 5) Involuntary mobility of the sacrum between the ilia.", "tag": "Concept" },

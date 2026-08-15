@@ -4,7 +4,15 @@
 
 Generate a comprehensive, high-yield summary of the provided lecture content. 
 **CRITICAL PRIORITY:** You must capture **EVERY** clinical correlate, syndrome, disease, and disorder mentioned in the lecture.
-**LENGTH REQUIREMENT:** The lecture summary **MUST** fall within a **8-15 minute** reading time length (approx. 1,600 - 3,000 words), unless the lecture is exceptionally short or lacks sufficient detail to support such length.
+**LENGTH REQUIREMENT:** The lecture summary **MUST** fall within a **10-17 minute** reading time (approx. 2,000 - 3,500 words). **3,500 words is a hard ceiling**, not a target to drift past — a shorter lecture should produce a shorter summary (a genuinely thin lecture may land near 1,700), and a dense one still has to fit.
+
+This is a *reading-effort* budget, not a content budget. The reader studies these, so they re-read and process rather than skim once; 4,500 words is close to an hour of real work. Meeting the ceiling never means dropping a clinical correlate, a number, a mnemonic, or a slide citation. Cut in this order instead:
+1. **Correlate blocks that restate the bullets immediately above them** — this is the single biggest source of bloat. Aim for 2-9 correlates; if you have 16, most are one-liners that belong merged into the parent section.
+2. **Repeated mechanism explanations** — state a mechanism once, then refer back to it.
+3. **Table verbosity** — tables should carry values and short labels, not sentences.
+4. **Preamble and recap sentences** that announce what a section is about to say.
+
+If a lecture genuinely cannot fit (e.g. it covers two full drug classes), go as close to 3,500 as you can and say in your notes what you cut and why — do not silently overshoot.
 
 
 - **Scope:** Your primary source of truth is the **Transcript**.

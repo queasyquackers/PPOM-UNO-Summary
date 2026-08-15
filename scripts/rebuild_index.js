@@ -42,8 +42,14 @@ function extractFromSandbox(sandbox, fallbackId) {
 
 function normalizeId(rawId, fallbackId) {
   if (rawId == null || rawId === '') return fallbackId;
-  const numPart = String(rawId).replace(/^l/i, '');
-  return 'l' + numPart;
+  const raw = String(rawId);
+  // Ids carrying a multi-letter block slug (cardio's "cv12") are already
+  // canonical. Blindly re-prefixing turned every cv lecture into "lcv12", which
+  // is why the whole cardio block was missing from search.
+  // "l1a"/"l12" have a single leading letter and still go through the l-prefix
+  // path, so zero-padding and bare numeric ids keep normalizing as before.
+  if (/^[a-z]{2,}/i.test(raw) && !/^l\d/i.test(raw)) return raw.toLowerCase();
+  return 'l' + raw.replace(/^l/i, '');
 }
 
 function buildSearchableText(data) {

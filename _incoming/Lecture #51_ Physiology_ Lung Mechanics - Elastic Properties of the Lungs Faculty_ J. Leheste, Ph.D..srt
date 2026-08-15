@@ -1,0 +1,3740 @@
+1
+00:00:00,860 --> 00:00:03,240
+Hello again. Welcome
+to our fifth lecture on
+
+2
+00:00:03,240 --> 00:00:05,940
+respiratory physiology.
+Today we're going to
+
+3
+00:00:05,940 --> 00:00:09,100
+look at lung mechanics,
+and particularly at the
+
+4
+00:00:09,100 --> 00:00:11,500
+elastic properties of
+the lungs themselves.
+
+5
+00:00:11,640 --> 00:00:14,140
+My name is Dr. Jörg Le Hest.
+
+6
+00:00:17,400 --> 00:00:19,700
+These are the session
+objectives, which
+
+7
+00:00:19,700 --> 00:00:21,560
+are in line with the
+event description.
+
+8
+00:00:21,820 --> 00:00:24,820
+This event focuses on
+the forces involved in
+
+9
+00:00:24,820 --> 00:00:27,720
+normal breathing, with an
+emphasis on compliance,
+
+10
+00:00:27,720 --> 00:00:30,440
+surface tension,
+elasticity, and resistance.
+
+11
+00:00:30,460 --> 00:00:32,840
+The session also
+explores additional
+
+12
+00:00:32,840 --> 00:00:36,120
+physiological as well as
+pathological factors that
+
+13
+00:00:36,120 --> 00:00:39,040
+can alter these forces
+and therefore airflow.
+
+14
+00:00:40,760 --> 00:00:44,680
+This slide shows the basic
+biomechanics of breathing.
+
+15
+00:00:45,180 --> 00:00:47,820
+You can see that
+during inhalation,
+
+16
+00:00:47,820 --> 00:00:49,860
+the muscles that are
+used for breathing,
+
+17
+00:00:49,860 --> 00:00:52,360
+they contract, and as a result,
+
+18
+00:00:52,480 --> 00:00:56,600
+the ribcage expands and
+air flows into the lungs.
+
+19
+00:00:57,280 --> 00:01:00,340
+This is an active
+process and the muscles
+
+20
+00:01:00,340 --> 00:01:02,990
+that are used for it,
+they must contract.
+
+21
+00:01:04,480 --> 00:01:08,040
+During quiet breathing,
+exhalation is a passive
+
+22
+00:01:08,040 --> 00:01:12,200
+process which relies on the
+relaxation of the muscles
+
+23
+00:01:12,200 --> 00:01:14,740
+that have been previously
+used for inhalation
+
+24
+00:01:14,740 --> 00:01:18,480
+and the recoil that has
+been stored in the system.
+
+25
+00:01:21,200 --> 00:01:24,080
+This image depicts the
+largest muscle that we
+
+26
+00:01:24,080 --> 00:01:26,750
+use for breathing and
+that is our diaphragm
+
+27
+00:01:26,750 --> 00:01:30,620
+which sits at the bottom
+of our thoracic cavity.
+
+28
+00:01:32,280 --> 00:01:34,840
+This is an illustration
+of the muscles
+
+29
+00:01:34,840 --> 00:01:36,280
+that we're using for breathing.
+
+30
+00:01:36,400 --> 00:01:39,720
+There's the principal
+group and then there's the
+
+31
+00:01:39,720 --> 00:01:43,760
+accessory group. The principal
+group for inspiration
+
+32
+00:01:43,760 --> 00:01:47,300
+involves the diaphragm
+that we've already
+
+33
+00:01:47,300 --> 00:01:50,800
+looked at, which basically
+increases the vertical
+
+34
+00:01:50,800 --> 00:01:53,680
+dimension of the thoracic
+cavity by moving down.
+
+35
+00:01:54,160 --> 00:01:57,420
+And then we also have the
+external intercostals,
+
+36
+00:01:57,480 --> 00:02:01,860
+the interchondral parts
+of them, which are here,
+
+37
+00:02:04,200 --> 00:02:07,270
+that also contract
+and as a result
+
+38
+00:02:07,270 --> 00:02:10,160
+lead to an elevation
+of the ribs.
+
+39
+00:02:10,800 --> 00:02:14,180
+increasing the volume
+of the ribcage.
+
+40
+00:02:16,520 --> 00:02:18,440
+Quiet breathing,
+as we've already
+
+41
+00:02:18,440 --> 00:02:21,300
+discussed, is a
+passive process.
+
+42
+00:02:21,820 --> 00:02:24,020
+And exploration
+results from the recoil
+
+43
+00:02:24,020 --> 00:02:27,680
+of the system
+returning to its normal
+
+44
+00:02:27,680 --> 00:02:30,540
+shape before the
+breath was taken.
+
+45
+00:02:31,500 --> 00:02:34,560
+During active
+breathing, we can use
+
+46
+00:02:34,560 --> 00:02:37,240
+additional muscles.
+so here we have the
+
+47
+00:02:37,240 --> 00:02:43,000
+internal intercostals
+which except for the
+
+48
+00:02:43,620 --> 00:02:46,720
+interchondral portions which
+were used for inspiration
+
+49
+00:02:46,720 --> 00:02:51,380
+are used for forced
+expiration also the abdominal
+
+50
+00:02:51,380 --> 00:02:54,780
+muscles ones that are
+responsible for the six
+
+51
+00:02:54,780 --> 00:03:00,020
+pack the so-called six
+pack are used for forced
+
+52
+00:03:00,020 --> 00:03:03,980
+expiration what's not shown
+is the quadratus lumborum,
+
+53
+00:03:03,980 --> 00:03:07,700
+which leads to an additional
+pull down of the ribs.
+
+54
+00:03:09,580 --> 00:03:13,560
+The accessory group is
+up here and involves
+
+55
+00:03:13,560 --> 00:03:16,600
+the sternocleidomastoid
+and the scalene group.
+
+56
+00:03:16,960 --> 00:03:21,230
+Again, muscle not shown is
+the pectoralis minor, and
+
+57
+00:03:21,230 --> 00:03:25,860
+these muscles increase
+the volume of the thoracic
+
+58
+00:03:25,860 --> 00:03:30,540
+chamber by basically lifting
+the arms and this can be
+
+59
+00:03:30,540 --> 00:03:35,500
+seen in people that are
+suffering from diseases that
+
+60
+00:03:35,500 --> 00:03:42,080
+belong to the COPD group
+that these individuals tend
+
+61
+00:03:42,080 --> 00:03:47,160
+to expand the volume of their
+thoracic cavity by lifting
+
+62
+00:03:47,160 --> 00:03:50,000
+their arms which makes
+them look barrel-chested.
+
+63
+00:03:51,100 --> 00:03:55,080
+You have two pleural layers,
+an outer one which is
+
+64
+00:03:55,080 --> 00:04:00,480
+the parietal pleura which
+covers the entire interior
+
+65
+00:04:00,480 --> 00:04:04,560
+of the thoracic cavity and
+the organs that are within
+
+66
+00:04:04,560 --> 00:04:09,220
+it and then we have an
+inner pleura which is the
+
+67
+00:04:09,220 --> 00:04:13,640
+visceral pleura to which
+our lungs are attached so
+
+68
+00:04:13,960 --> 00:04:18,380
+the lungs are not directly
+attached to the thoracic
+
+69
+00:04:18,380 --> 00:04:21,660
+cavity but they're attached
+to the parietal pleura,
+
+70
+00:04:22,000 --> 00:04:25,380
+which is attached to the
+
+71
+00:04:25,380 --> 00:04:28,060
+visceral pleura
+via a fluid film.
+
+72
+00:04:29,080 --> 00:04:32,580
+That fluid and the space
+in which it's located
+
+73
+00:04:32,580 --> 00:04:35,580
+is called the pleural
+space, and we're going
+
+74
+00:04:35,580 --> 00:04:38,400
+to talk about that in
+the next few minutes.
+
+75
+00:04:40,000 --> 00:04:41,480
+I would like to take a little
+
+76
+00:04:41,480 --> 00:04:43,280
+time and talk
+about terminology.
+
+77
+00:04:43,540 --> 00:04:46,540
+So when we talk about
+lung pressures, we
+
+78
+00:04:46,540 --> 00:04:49,360
+also refer it to
+atmospheric pressure.
+
+79
+00:04:49,480 --> 00:04:52,260
+And when lung
+pressure is equal to
+
+80
+00:04:52,260 --> 00:04:55,180
+atmospheric pressure,
+it's designated zero.
+
+81
+00:04:56,700 --> 00:04:59,780
+Positive pressure, which
+means an increase in
+
+82
+00:04:59,780 --> 00:05:03,080
+pressure, will then be a
+number that's greater than
+
+83
+00:05:03,080 --> 00:05:06,760
+zero, one, two, three,
+four, and so forth. Negative
+
+84
+00:05:06,760 --> 00:05:10,460
+pressure would be a pressure,
+a collapsing pressure
+
+85
+00:05:10,460 --> 00:05:15,380
+that reduces the volume
+of the lungs, and that
+
+86
+00:05:15,380 --> 00:05:19,680
+would be designated minus
+1, 2, 3, 4, and so forth.
+
+87
+00:05:21,020 --> 00:05:24,760
+Another expression that we'll
+use is transmural pressure.
+
+88
+00:05:24,760 --> 00:05:28,100
+When we talk of transmural
+pressure, it's kind of
+
+89
+00:05:28,100 --> 00:05:32,800
+a vague description because
+all it means is a comparison
+
+90
+00:05:32,800 --> 00:05:36,860
+of pressures inside a
+compartment versus outside.
+
+91
+00:05:37,120 --> 00:05:43,880
+There are several ways
+transmural pressure can be
+
+92
+00:05:44,120 --> 00:05:47,240
+defined, but basically
+it describes in
+
+93
+00:05:47,240 --> 00:05:50,960
+pressure inside versus
+pressure outside.
+
+94
+00:05:53,300 --> 00:05:56,850
+Another pressure that will
+come across frequently
+
+95
+00:05:56,850 --> 00:06:00,000
+is the transpulmonary
+pressure, And that is
+
+96
+00:06:00,000 --> 00:06:03,420
+defined as the pressure
+difference between the
+
+97
+00:06:03,420 --> 00:06:06,700
+alveolar space, which is
+inside the lungs, of course,
+
+98
+00:06:06,700 --> 00:06:10,640
+and the pleural cavity,
+which is right here.
+
+99
+00:06:11,090 --> 00:06:12,860
+So you can see it right here,
+
+100
+00:06:12,860 --> 00:06:14,260
+the transpulmonary pressure.
+
+101
+00:06:14,680 --> 00:06:18,780
+Normal air pressure is
+760 millimeters mercury.
+
+102
+00:06:20,120 --> 00:06:24,840
+And the pressure inside
+the interpleural pressure
+
+103
+00:06:24,840 --> 00:06:30,320
+is only 756 millimeters
+mercury. at rest, so there's
+
+104
+00:06:30,320 --> 00:06:33,340
+a pressure difference of
+four millimeters mercury.
+
+105
+00:06:39,470 --> 00:06:42,150
+Here is a depiction of
+the pleural space, which
+
+106
+00:06:42,150 --> 00:06:46,030
+exists between the visceral
+pleural, that's this layer
+
+107
+00:06:46,030 --> 00:06:50,670
+here, and the parietal
+pleural. The visceral pleural
+
+108
+00:06:51,150 --> 00:06:54,430
+demarcates the visceral
+space in which we find
+
+109
+00:06:54,430 --> 00:06:56,970
+the alveoli, so that's the
+inside of the lung here,
+
+110
+00:06:56,970 --> 00:07:01,410
+to the right, and the
+parietal space is the space
+
+111
+00:07:02,350 --> 00:07:06,150
+between the parietal pleura
+
+112
+00:07:06,150 --> 00:07:09,450
+and the organs that it covers.
+
+113
+00:07:12,250 --> 00:07:16,090
+It's important to note
+that the space, the
+
+114
+00:07:16,090 --> 00:07:18,810
+intrapleural space, sometimes
+called pleural space,
+
+115
+00:07:18,810 --> 00:07:21,790
+but we call it intrapleural
+space in most cases,
+
+116
+00:07:22,030 --> 00:07:25,790
+that that's filled with
+a liquid and it contains
+
+117
+00:07:25,790 --> 00:07:29,070
+about 10 milliliters of
+liquid as a total volume.
+
+118
+00:07:29,970 --> 00:07:32,630
+Now how does the liquid
+get there? Well, there
+
+119
+00:07:32,630 --> 00:07:35,390
+are two pressures that
+we need to consider. The
+
+120
+00:07:35,390 --> 00:07:38,230
+one is the hydrostatic
+pressure, so that's the
+
+121
+00:07:38,230 --> 00:07:41,190
+pressure that the liquid
+environment of the
+
+122
+00:07:41,190 --> 00:07:45,630
+surrounding spaces produce
+and force upon the space.
+
+123
+00:07:45,850 --> 00:07:49,310
+And the other one is the
+oncotic pressure, so that
+
+124
+00:07:49,310 --> 00:07:53,270
+is the pressure that exists
+due to charged molecules
+
+125
+00:07:54,300 --> 00:07:58,610
+in the interstitium.
+And you can see that the
+
+126
+00:07:58,610 --> 00:08:01,950
+hydrostatic pressure, the
+pressure of liquid, is pointing
+
+127
+00:08:01,950 --> 00:08:05,910
+from both directions to
+the interpleural space.
+
+128
+00:08:06,330 --> 00:08:09,990
+So liquid, the hydrostatic
+pressure, is trying to
+
+129
+00:08:09,990 --> 00:08:17,230
+force liquid or water from
+the varietal space and
+
+130
+00:08:17,230 --> 00:08:20,550
+from the visceral space
+into the interpleural space.
+
+131
+00:08:21,580 --> 00:08:25,650
+Now the oncotic pressures
+for both sides go the
+
+132
+00:08:25,650 --> 00:08:30,930
+opposite direction, and
+overall they cancel each
+
+133
+00:08:30,930 --> 00:08:33,330
+other out. So your caudic
+pressure is positive
+
+134
+00:08:33,330 --> 00:08:36,910
+5 centimeters water,
+so now we switch we're
+
+135
+00:08:36,910 --> 00:08:41,730
+done with millimeters
+mercury, and the hydrostatic
+
+136
+00:08:41,730 --> 00:08:45,650
+pressure is minus 5
+centimeters water column.
+
+137
+00:08:47,730 --> 00:08:51,770
+What's important to notice,
+or important to note,
+
+138
+00:08:51,770 --> 00:08:55,750
+is that the majority of
+the fluid comes from the
+
+139
+00:08:55,750 --> 00:08:58,850
+parietal space. So which
+makes sense because
+
+140
+00:08:58,850 --> 00:09:02,250
+there's not also all too
+much fluid to be associated
+
+141
+00:09:02,250 --> 00:09:06,210
+with the interstitium
+around the alveoli. So
+
+142
+00:09:06,210 --> 00:09:08,970
+most of it comes from
+the other side and that
+
+143
+00:09:08,970 --> 00:09:12,450
+maintains the fluid level
+in the intrapleural space.
+
+144
+00:09:13,450 --> 00:09:18,740
+So while there is constantly
+fluid being released
+
+145
+00:09:18,850 --> 00:09:23,730
+into the interpleural space,
+it's also always drained.
+
+146
+00:09:24,330 --> 00:09:28,350
+So there's a constant
+fluid drainage through the
+
+147
+00:09:28,350 --> 00:09:32,270
+lymphatic system, and if
+this malfunctions, then we
+
+148
+00:09:32,270 --> 00:09:35,170
+end up with too much fluid
+in the interpleural space
+
+149
+00:09:35,170 --> 00:09:38,610
+and then in an end edema.
+But on our normal conditions,
+
+150
+00:09:38,890 --> 00:09:41,890
+whatever is produced
+doesn't stay around for
+
+151
+00:09:41,890 --> 00:09:46,230
+very long as it's being
+drained via the lymphatics.
+
+152
+00:09:48,970 --> 00:09:53,570
+This image nicely
+illustrates the relationship
+
+153
+00:09:53,570 --> 00:09:56,590
+between compliance
+and elasticity, which
+
+154
+00:09:56,590 --> 00:09:59,450
+in physiology we
+sometimes call elastance,
+
+155
+00:09:59,790 --> 00:10:03,090
+of objects, and it also
+applies to the lungs.
+
+156
+00:10:03,490 --> 00:10:11,190
+so a an object that is
+compliant is in terms of air
+
+157
+00:10:11,190 --> 00:10:14,730
+pressures is easy to expand
+and a good example of that
+
+158
+00:10:14,730 --> 00:10:18,610
+is a shopping bag so it's
+very easy to place things into
+
+159
+00:10:18,610 --> 00:10:22,270
+the bag not much force is
+needed to expand the bag
+
+160
+00:10:22,880 --> 00:10:27,730
+now balloons on the other hand
+they're somewhat compliant
+
+161
+00:10:27,730 --> 00:10:31,410
+because they can be expanded.
+But as you all know,
+
+162
+00:10:31,530 --> 00:10:34,890
+the expansion, especially
+of a small balloon,
+
+163
+00:10:34,890 --> 00:10:36,790
+can be very difficult
+at the beginning.
+
+164
+00:10:36,990 --> 00:10:40,830
+So there's a lot of elasticity
+and that elasticity,
+
+165
+00:10:40,830 --> 00:10:43,290
+especially at the
+beginning of blowing up
+
+166
+00:10:43,290 --> 00:10:47,490
+a balloon, pushes back
+and resists the force
+
+167
+00:10:47,490 --> 00:10:51,550
+of putting air into it.
+So that is elasticity.
+
+168
+00:10:52,030 --> 00:10:55,230
+As the balloon then
+expands, it gets easier
+
+169
+00:10:55,230 --> 00:10:57,970
+and easier to put air
+into it, which means
+
+170
+00:10:57,970 --> 00:11:01,250
+that the compliance at
+this point increases.
+
+171
+00:11:04,530 --> 00:11:08,890
+This image shows an
+experiment where a lung was
+
+172
+00:11:08,890 --> 00:11:12,030
+excised and placed into
+a salient-filled jar,
+
+173
+00:11:12,580 --> 00:11:16,050
+and then the system is
+hooked up to a vacuum pump.
+
+174
+00:11:16,250 --> 00:11:20,130
+So applying a vacuum means
+applying negative pressure,
+
+175
+00:11:20,180 --> 00:11:22,930
+suction in other words,
+and that's what's being
+
+176
+00:11:22,930 --> 00:11:28,410
+done here. as vacuum is applied
+to the lung it increases
+
+177
+00:11:28,410 --> 00:11:35,370
+its volume and inspiration
+occurs until the
+
+178
+00:11:35,370 --> 00:11:43,830
+maximal point up here upon
+which the vacuum is is released
+
+179
+00:11:43,830 --> 00:11:48,890
+and then expiration occurs
+and due to the natural
+
+180
+00:11:48,890 --> 00:11:52,410
+recoil or elasticity of
+the lung, the lung returns
+
+181
+00:11:52,410 --> 00:11:57,710
+to its original size at
+the bottom of the line. So
+
+182
+00:11:57,710 --> 00:12:00,770
+this behavior here is called
+a pressure-volume loop.
+
+183
+00:12:01,290 --> 00:12:06,870
+And what's noteworthy about
+this is that the forces
+
+184
+00:12:06,870 --> 00:12:10,870
+that are needed to inspire
+the lung or to increase
+
+185
+00:12:10,870 --> 00:12:14,490
+its volume are different
+than the forces that it
+
+186
+00:12:14,490 --> 00:12:18,710
+takes to reduce the volume
+of the lung and to expire.
+
+187
+00:12:18,870 --> 00:12:23,470
+And that relationship where
+these forces differ between
+
+188
+00:12:23,470 --> 00:12:26,610
+inspiration and expiration
+is called hysteresis.
+
+189
+00:12:28,460 --> 00:12:32,150
+So the question then arises,
+so this has to do with
+
+190
+00:12:32,150 --> 00:12:37,270
+compliance, and the question
+arises why the compliance
+
+191
+00:12:37,270 --> 00:12:40,900
+of inspiration is smaller
+than the compliance of
+
+192
+00:12:40,900 --> 00:12:44,010
+expiration. I'll give you a
+second to think about this.
+
+193
+00:12:47,550 --> 00:12:55,090
+well it has to do with
+the water molecules that
+
+194
+00:12:55,090 --> 00:12:59,070
+are inside the alveoli
+and the difficulty to
+
+195
+00:12:59,070 --> 00:13:04,590
+expand these alveoli
+initially so that's where much
+
+196
+00:13:04,590 --> 00:13:07,650
+of the collapsing forces
+of the lungs come from
+
+197
+00:13:07,650 --> 00:13:13,250
+is from the surface
+tension that these water
+
+198
+00:13:13,250 --> 00:13:17,910
+molecules produce and so
+one has to get initially
+
+199
+00:13:18,510 --> 00:13:20,850
+over a threshold
+and then it becomes
+
+200
+00:13:20,850 --> 00:13:23,790
+easier to increase the volume.
+
+201
+00:13:24,230 --> 00:13:28,910
+So you can see that the
+example of a balloon and its
+
+202
+00:13:28,910 --> 00:13:32,130
+elasticity is actually a very
+good one. The same happens
+
+203
+00:13:32,130 --> 00:13:35,150
+with our lungs, but for
+different reasons, of course,
+
+204
+00:13:35,150 --> 00:13:38,370
+because there is no liquid
+film inside a balloon.
+
+205
+00:13:38,710 --> 00:13:42,870
+But initially, the balloon,
+as it's small, it's very
+
+206
+00:13:42,870 --> 00:13:45,930
+difficult to inflate. And
+then as it gets bigger, it
+
+207
+00:13:45,930 --> 00:13:48,710
+becomes easier. So the
+same is true for our lungs.
+
+208
+00:13:49,050 --> 00:13:53,130
+But the reason behind
+it is that it's the
+
+209
+00:13:53,130 --> 00:13:55,870
+surface tension of
+water because all the
+
+210
+00:13:55,870 --> 00:13:59,110
+alveoli are aligned
+with a water film.
+
+211
+00:13:59,230 --> 00:14:02,990
+And these water molecules
+attract each other.
+
+212
+00:14:04,070 --> 00:14:10,150
+and so this attractive
+force leads to reduced
+
+213
+00:14:10,150 --> 00:14:16,750
+compliance especially at
+low lung volumes in the
+
+214
+00:14:16,750 --> 00:14:19,570
+following we will be looking
+at the lungs and the chest
+
+215
+00:14:19,570 --> 00:14:23,370
+wall and it's a very this
+is a very good depiction
+
+216
+00:14:23,540 --> 00:14:26,350
+so I just wanted to show
+you this so you get used
+
+217
+00:14:26,350 --> 00:14:30,790
+to the kind of depiction
+these are the conducting
+
+218
+00:14:30,790 --> 00:14:33,870
+airways that lead to
+the alveoli. So this one
+
+219
+00:14:33,870 --> 00:14:37,310
+alveolus represents all of
+the alveoli in our lung.
+
+220
+00:14:38,210 --> 00:14:43,450
+This round triangle
+represents the chest wall.
+
+221
+00:14:43,730 --> 00:14:47,850
+Here we have the
+visceral pleura, here we
+
+222
+00:14:47,850 --> 00:14:51,390
+have the parietal
+pleural layer, and in
+
+223
+00:14:51,390 --> 00:14:54,270
+between them we have
+the interpleural space.
+
+224
+00:14:54,730 --> 00:14:58,490
+So the only thing in
+this depiction that's
+
+225
+00:14:58,810 --> 00:15:01,890
+Somewhat off in
+terms of the reality
+
+226
+00:15:01,890 --> 00:15:04,070
+is the size of the
+interplural space.
+
+227
+00:15:04,070 --> 00:15:07,810
+Of course, the size in the
+natural interplural space
+
+228
+00:15:07,890 --> 00:15:11,850
+is much smaller and the
+size here is exaggerated.
+
+229
+00:15:15,790 --> 00:15:19,270
+So inside the interplural
+space, and this on the left
+
+230
+00:15:19,270 --> 00:15:22,350
+is the normal situation, we
+have a negative pressure.
+
+231
+00:15:22,410 --> 00:15:26,070
+Negative pressure is the
+same as vacuum. I could
+
+232
+00:15:26,070 --> 00:15:29,150
+say vacuum. There's a
+vacuum that exists there.
+
+233
+00:15:29,150 --> 00:15:32,250
+The question becomes, how
+does the vacuum get there?
+
+234
+00:15:33,810 --> 00:15:36,830
+Well, there are several
+factors, but the main factors
+
+235
+00:15:36,830 --> 00:15:44,290
+are that the surface tension
+of the alveoli pull on
+
+236
+00:15:44,890 --> 00:15:48,090
+the visceral pleura in the
+direction of the arrow.
+
+237
+00:15:50,330 --> 00:15:53,430
+The chest wall here
+on the other side
+
+238
+00:15:54,070 --> 00:15:56,930
+has a spring-like
+characteristic and wants to
+
+239
+00:15:56,930 --> 00:15:59,810
+slightly expand. So you can
+see what it wants to expand
+
+240
+00:15:59,810 --> 00:16:02,790
+to here in the dotted
+line on the other side.
+
+241
+00:16:03,470 --> 00:16:05,910
+So that pulls on the parietal
+
+242
+00:16:05,910 --> 00:16:08,590
+pleura in exactly
+the opposite way.
+
+243
+00:16:09,130 --> 00:16:13,650
+So we have the alveoli
+pulling at the interpleural
+
+244
+00:16:13,650 --> 00:16:17,610
+space in one direction,
+and we have the chest wall
+
+245
+00:16:17,610 --> 00:16:21,430
+and the parietal pleura
+pulling at the interpleural
+
+246
+00:16:21,430 --> 00:16:24,910
+space the other way, and
+then the result is a vacuum.
+
+247
+00:16:25,570 --> 00:16:30,170
+And this is the negative
+pressure, and now we'll
+
+248
+00:16:30,170 --> 00:16:33,910
+turn to pressures in
+centimeters of water. So all
+
+249
+00:16:33,910 --> 00:16:36,150
+of the pressures that you
+see from here on forward
+
+250
+00:16:36,290 --> 00:16:38,510
+are in centimeters of water and
+
+251
+00:16:38,510 --> 00:16:40,850
+not anymore in
+millimeters mercury.
+
+252
+00:16:42,630 --> 00:16:46,110
+So what happens
+when we puncture
+
+253
+00:16:46,110 --> 00:16:49,790
+the parietal pleura
+for instance?
+
+254
+00:16:50,350 --> 00:16:52,970
+Well that is
+something that happens
+
+255
+00:16:52,970 --> 00:16:55,810
+and it's called pneumothorax.
+
+256
+00:16:56,730 --> 00:17:00,340
+That's common in car
+accidents when people are not
+
+257
+00:17:00,340 --> 00:17:04,350
+strapped or not strapped
+into their seat with the
+
+258
+00:17:04,350 --> 00:17:08,210
+seat belt and they slam
+into the steering wheel with
+
+259
+00:17:08,210 --> 00:17:11,330
+a ribcage then it frequently
+happens that one of the
+
+260
+00:17:11,330 --> 00:17:15,550
+ribs break and then it
+punctures the parietal pleura
+
+261
+00:17:16,080 --> 00:17:21,810
+and so then what happens
+is that the vacuum or the
+
+262
+00:17:21,810 --> 00:17:24,510
+negative pressure that
+existed here it disappears
+
+263
+00:17:24,510 --> 00:17:31,370
+so it becomes zero and what
+happens then is that the
+
+264
+00:17:31,370 --> 00:17:35,990
+chest wall expands as it
+naturally would because
+
+265
+00:17:35,990 --> 00:17:39,850
+there's nothing holding it
+back and the forces that
+
+266
+00:17:39,850 --> 00:17:44,510
+exist inside the alveoli
+they will have the alveoli
+
+267
+00:17:44,510 --> 00:17:50,130
+collapse and that situation
+is then the pneumothorax
+
+268
+00:17:53,020 --> 00:17:55,790
+let's now look at the
+compliance of the lungs chest
+
+269
+00:17:55,790 --> 00:17:59,050
+wall system here on the
+left we have indicated
+
+270
+00:17:59,050 --> 00:18:03,510
+expanding forces on the right
+collapsing forces on the
+
+271
+00:18:03,510 --> 00:18:07,630
+top we have lung volumes
+that are above the functional
+
+272
+00:18:07,630 --> 00:18:12,450
+residual capacity remember
+that the frc the the
+
+273
+00:18:12,450 --> 00:18:16,050
+end of the frc is at the
+end of tidal volume so when
+
+274
+00:18:16,050 --> 00:18:18,950
+you breathe out that's
+exactly indicated by this
+
+275
+00:18:18,950 --> 00:18:23,310
+line and then we have three
+things we're looking at.
+
+276
+00:18:23,310 --> 00:18:27,830
+We're looking at the forces
+that affect the chest
+
+277
+00:18:27,830 --> 00:18:31,490
+wall, or that the chest
+wall exerts, I should say,
+
+278
+00:18:31,770 --> 00:18:34,510
+the forces that the
+lung tissue exerts,
+
+279
+00:18:34,510 --> 00:18:38,110
+and then in purple,
+we have them combined.
+
+280
+00:18:39,330 --> 00:18:44,770
+So here at the functional
+visceral capacity at FRC,
+
+281
+00:18:44,770 --> 00:18:48,850
+we can see that the chest
+wall is trying to expand
+
+282
+00:18:49,290 --> 00:18:52,870
+so the rib cage is arranged
+in a way that when we
+
+283
+00:18:52,870 --> 00:18:55,770
+breathe out it wants to
+expand and you can test that
+
+284
+00:18:55,770 --> 00:18:59,810
+with yourself just breathe
+out and then naturally see
+
+285
+00:19:00,110 --> 00:19:03,310
+what your chest wall
+wants to do so up to
+
+286
+00:19:03,310 --> 00:19:06,190
+this point here when
+we start breathing in
+
+287
+00:19:06,530 --> 00:19:09,010
+there's a negative or
+there's an expanding force
+
+288
+00:19:09,010 --> 00:19:12,030
+and that ends with the
+chest wall at this point
+
+289
+00:19:12,710 --> 00:19:16,110
+Now, with the lungs,
+we have the situation
+
+290
+00:19:16,110 --> 00:19:18,250
+where the lungs always
+want to collapse,
+
+291
+00:19:18,290 --> 00:19:22,070
+always. There's not one
+point where the lungs
+
+292
+00:19:22,070 --> 00:19:26,430
+want to expand the
+lung's chest wall system.
+
+293
+00:19:26,510 --> 00:19:29,610
+And you probably guessed
+it, why that is the
+
+294
+00:19:29,610 --> 00:19:33,410
+case. Well, that is
+the force inside all
+
+295
+00:19:33,490 --> 00:19:36,730
+of the alveoli, the
+collapsing force, which
+
+296
+00:19:36,730 --> 00:19:39,470
+is exerted by the
+surface tension of water.
+
+297
+00:19:39,630 --> 00:19:43,070
+So even at lung
+volumes lower than
+
+298
+00:19:43,070 --> 00:19:45,770
+FRC, the lung still
+wants to collapse.
+
+299
+00:19:47,990 --> 00:19:52,210
+And so when we put these
+forces both together,
+
+300
+00:19:52,230 --> 00:19:57,820
+you can see that
+starting with inspiration
+
+301
+00:19:57,820 --> 00:20:00,910
+and the beginning
+of a tidal breath,
+
+302
+00:20:02,230 --> 00:20:10,350
+both systems if they are
+overlaid are in the collapsing
+
+303
+00:20:10,350 --> 00:20:13,950
+mode and the only way to
+overcome this is by using
+
+304
+00:20:13,950 --> 00:20:17,810
+our inspiratory muscles
+so that is why inspiration
+
+305
+00:20:17,810 --> 00:20:23,110
+must be an active process
+so this is at the end of
+
+306
+00:20:23,110 --> 00:20:27,830
+inspiration and by that time
+both systems, chest wall and
+
+307
+00:20:27,830 --> 00:20:33,730
+lungs, want to collapse
+the lung chest wall system.
+
+308
+00:20:34,110 --> 00:20:37,890
+So and then when we start
+contracting our inspiratory
+
+309
+00:20:37,890 --> 00:20:40,110
+muscles that's exactly
+what happens. The
+
+310
+00:20:40,110 --> 00:20:43,730
+recoil then leads to the
+collapse of the system and
+
+311
+00:20:43,730 --> 00:20:47,570
+that can be passive. So
+this explains once again,
+
+312
+00:20:47,830 --> 00:20:50,210
+why inspiration is active and
+
+313
+00:20:50,210 --> 00:20:55,690
+why expiration can be passive.
+
+314
+00:20:57,230 --> 00:20:59,570
+Now we're exploring diseases
+
+315
+00:20:59,570 --> 00:21:01,250
+affecting lung compliance.
+
+316
+00:21:02,130 --> 00:21:05,350
+Now there are rarely
+diseases that affect
+
+317
+00:21:05,350 --> 00:21:08,430
+chest wall compliance,
+so in most cases that
+
+318
+00:21:08,430 --> 00:21:11,030
+remains normal, which
+is indicated here.
+
+319
+00:21:11,580 --> 00:21:13,890
+But there are diseases
+that affect lung
+
+320
+00:21:13,890 --> 00:21:17,310
+compliance. And we
+have two examples,
+
+321
+00:21:17,350 --> 00:21:21,390
+one is emphysema
+and one is fibrosis.
+
+322
+00:21:22,180 --> 00:21:26,240
+So what we have in
+emphysema is a partial
+
+323
+00:21:26,240 --> 00:21:30,570
+destruction of elastic
+properties of the lungs.
+
+324
+00:21:30,810 --> 00:21:34,830
+So the lungs of
+emphysema patients become
+
+325
+00:21:34,830 --> 00:21:39,470
+more compliant, so
+it gets easier to put
+
+326
+00:21:39,470 --> 00:21:42,470
+air into those and
+one needs less force
+
+327
+00:21:42,590 --> 00:21:47,610
+with exerted by inspiratory
+muscles to breathe in.
+
+328
+00:21:47,930 --> 00:21:53,140
+And you can see this here,
+that the curve of airway
+
+329
+00:21:53,210 --> 00:21:59,390
+pressures is on the
+collapsing side with emphysema
+
+330
+00:21:59,390 --> 00:22:03,620
+patients, but it's much closer
+to the expanding foresight
+
+331
+00:22:03,950 --> 00:22:07,990
+than in normal patients or
+than in normal individuals.
+
+332
+00:22:09,330 --> 00:22:13,930
+So in other words, it's
+very, very easy for
+
+333
+00:22:13,930 --> 00:22:17,450
+emphysema patients to
+expand their lungs,
+
+334
+00:22:18,310 --> 00:22:23,010
+which on the contrary means
+that it's becoming more
+
+335
+00:22:23,010 --> 00:22:26,250
+difficult for them to
+breathe out and empty their
+
+336
+00:22:26,250 --> 00:22:29,010
+lungs of the air that
+they just breathed in. so
+
+337
+00:22:29,390 --> 00:22:36,120
+the lungs of emphysema
+patients is too compliant
+
+338
+00:22:36,120 --> 00:22:42,390
+and not enough elastic now
+the opposite is true with
+
+339
+00:22:42,390 --> 00:22:45,650
+individuals that suffer
+from patients that suffer
+
+340
+00:22:45,650 --> 00:22:52,310
+from fibrosis so in In
+this case, there are
+
+341
+00:22:52,310 --> 00:22:59,910
+additional fibers inserted
+into the lung tissue and they
+
+342
+00:22:59,910 --> 00:23:07,510
+make the lungs less
+compliant and more elastic.
+
+343
+00:23:09,100 --> 00:23:14,150
+So it becomes harder
+to expand the lungs.
+
+344
+00:23:14,490 --> 00:23:19,730
+but then it's fairly
+easy to breathe out and
+
+345
+00:23:19,730 --> 00:23:22,490
+have the lungs collapse
+but individuals with
+
+346
+00:23:22,490 --> 00:23:26,990
+suffering from fibrosis
+typically are not able to
+
+347
+00:23:26,990 --> 00:23:32,150
+expand the lungs to their
+full intended volume
+
+348
+00:23:34,010 --> 00:23:39,270
+so in the end that means
+that in individuals
+
+349
+00:23:39,270 --> 00:23:43,170
+with emphysema the
+functional residual capacity
+
+350
+00:23:43,370 --> 00:23:46,390
+is higher than in normal
+individuals you can
+
+351
+00:23:46,390 --> 00:23:50,250
+see this here this blue
+dot purple is normal
+
+352
+00:23:50,250 --> 00:23:53,750
+and in individuals with
+fibrosis the functional
+
+353
+00:23:53,750 --> 00:23:57,430
+residual capacity is
+lower than in normals
+
+354
+00:23:57,870 --> 00:24:02,010
+so in other words
+emphysema patients have
+
+355
+00:24:02,010 --> 00:24:04,430
+a very easy time to
+expand their lungs
+
+356
+00:24:04,630 --> 00:24:09,690
+and a hard time to
+contract their lungs and
+
+357
+00:24:09,690 --> 00:24:12,890
+fibrosis patients are
+suffering from the opposite
+
+358
+00:24:12,890 --> 00:24:16,430
+which is they're having
+a hard time expanding
+
+359
+00:24:16,430 --> 00:24:19,970
+their lungs due to
+increased elasticity,
+
+360
+00:24:20,650 --> 00:24:23,870
+but have an easier time
+to collapse their lungs.
+
+361
+00:24:26,530 --> 00:24:29,870
+We already explored
+the surface tension of
+
+362
+00:24:29,870 --> 00:24:32,730
+alveoli, so this should
+be a brief review.
+
+363
+00:24:32,850 --> 00:24:36,990
+You know that this is guided
+by the law of Laplace,
+
+364
+00:24:36,990 --> 00:24:39,830
+which applies to small
+spheres, And you know
+
+365
+00:24:39,830 --> 00:24:44,410
+that P, the collapsing
+pressure, is equal to two
+
+366
+00:24:44,410 --> 00:24:48,050
+times the surface tension
+divided by the radius.
+
+367
+00:24:50,350 --> 00:24:56,330
+So the collapsing pressure,
+if you compare two spheres,
+
+368
+00:24:56,330 --> 00:25:02,650
+a large alveolus and a
+small alveolus, then the
+
+369
+00:25:02,970 --> 00:25:08,190
+radius component is larger
+in the larger alveolus, which
+
+370
+00:25:08,190 --> 00:25:11,970
+proportionally reduces the
+surface tension component,
+
+371
+00:25:11,970 --> 00:25:16,650
+making these collapsing
+forces smaller compared to
+
+372
+00:25:16,650 --> 00:25:20,250
+the collapsing forces of a
+smaller alveolus. On a smaller
+
+373
+00:25:20,250 --> 00:25:25,350
+VLi, this radius portion
+of the equation is smaller,
+
+374
+00:25:25,410 --> 00:25:29,830
+which makes the surface
+tension portion more
+
+375
+00:25:29,830 --> 00:25:35,550
+dominant, meaning that smaller
+VLi tend more to collapse
+
+376
+00:25:35,550 --> 00:25:41,510
+than larger VLi. You
+already know that our system
+
+377
+00:25:41,510 --> 00:25:46,450
+counteracts this because if
+there was no such mechanism
+
+378
+00:25:46,450 --> 00:25:50,470
+then all of the smaller VLI
+would collapse and all of
+
+379
+00:25:50,470 --> 00:25:55,170
+the air that was in there
+would be transferred to the
+
+380
+00:25:55,170 --> 00:25:58,750
+larger VLI and then the
+larger VLI would collapse
+
+381
+00:25:58,750 --> 00:26:04,630
+and put their air into even
+larger VLI so So that's,
+
+382
+00:26:04,630 --> 00:26:08,550
+of course, not consistent
+with respiratory function,
+
+383
+00:26:08,550 --> 00:26:13,390
+and death would ensue. And
+for this reason, we have
+
+384
+00:26:15,170 --> 00:26:19,810
+surfactant, which we already
+looked at, which increases
+
+385
+00:26:19,810 --> 00:26:24,750
+lung compliance and prevents
+atelectasis and ensures
+
+386
+00:26:24,750 --> 00:26:29,370
+the uniformity of function
+of small and larger VLI.
+
+387
+00:26:32,270 --> 00:26:35,330
+Neonatal respiratory
+distress syndrome is a
+
+388
+00:26:35,330 --> 00:26:39,730
+situation in which mostly
+premature babies are
+
+389
+00:26:39,730 --> 00:26:43,670
+born without sufficient
+amounts of surfactant. And
+
+390
+00:26:43,670 --> 00:26:47,470
+you can see this here
+in this x-ray that the
+
+391
+00:26:47,950 --> 00:26:51,470
+right lung is perfectly
+fine. So apparently
+
+392
+00:26:51,470 --> 00:26:53,910
+there's enough surfactant
+inside the right lung,
+
+393
+00:26:53,990 --> 00:26:56,990
+but the left lung is
+collapsed. So it's
+
+394
+00:26:56,990 --> 00:26:59,970
+completely opaque,
+which means that all of
+
+395
+00:26:59,970 --> 00:27:03,150
+the alveoli in the left
+lung are collapsed.
+
+396
+00:27:05,090 --> 00:27:06,870
+As a guideline,
+
+397
+00:27:07,460 --> 00:27:11,910
+babies that are born
+before gestational week 24,
+
+398
+00:27:12,710 --> 00:27:15,210
+they never have surfactant and
+
+399
+00:27:15,210 --> 00:27:17,130
+always require intervention.
+
+400
+00:27:17,270 --> 00:27:21,670
+And babies that are
+born during gestational
+
+401
+00:27:21,670 --> 00:27:25,990
+weeks 24 to 35, the
+process is uncertain.
+
+402
+00:27:26,200 --> 00:27:29,870
+So this is what normal
+alveoli look like with
+
+403
+00:27:29,870 --> 00:27:34,570
+surfactant, and that's
+what alveoli look like with
+
+404
+00:27:34,570 --> 00:27:39,070
+insufficient amounts of
+surfactant and after collapse.
+
+405
+00:27:40,150 --> 00:27:42,230
+So what can you do?
+
+406
+00:27:42,350 --> 00:27:45,490
+So when you know that a baby is
+
+407
+00:27:45,490 --> 00:27:48,850
+born before its
+actual due time,
+
+408
+00:27:49,270 --> 00:27:52,190
+one treatment that
+is frequently or
+
+409
+00:27:52,190 --> 00:27:54,100
+that is the standard
+of treatment is
+
+410
+00:27:54,170 --> 00:27:58,630
+injections of the
+mother with steroids.
+
+411
+00:27:58,990 --> 00:28:03,610
+So steroids aid
+lung maturation and
+
+412
+00:28:03,610 --> 00:28:06,030
+with that also
+surfactant production.
+
+413
+00:28:06,150 --> 00:28:09,690
+If this doesn't happen,
+then in most cases
+
+414
+00:28:12,790 --> 00:28:16,630
+treatment consists of
+nasal continuous positive
+
+415
+00:28:16,630 --> 00:28:20,470
+airway pressure or NCPAP
+and doesn't require surgery.
+
+416
+00:28:21,010 --> 00:28:23,600
+So positive pressure
+needs to be applied
+
+417
+00:28:24,870 --> 00:28:29,330
+to keep the baby's
+alveoli open and there
+
+418
+00:28:29,330 --> 00:28:31,710
+are machines that can
+do that. And in most
+
+419
+00:28:31,710 --> 00:28:34,250
+cases, that is the
+solution to the problem.
+
+420
+00:28:36,370 --> 00:28:39,840
+let's briefly explore airflow
+pressure and resistance
+
+421
+00:28:39,840 --> 00:28:42,530
+relationships just to
+see what the dominant
+
+422
+00:28:42,530 --> 00:28:48,590
+forces are and airflow is
+described as delta p which
+
+423
+00:28:48,590 --> 00:28:51,290
+is the pressure gradient
+that exists between the
+
+424
+00:28:51,290 --> 00:28:54,250
+beginning of a tube or a
+system and the end of it
+
+425
+00:28:54,250 --> 00:29:01,290
+divided by airway resistance
+which is R, and resistance
+
+426
+00:29:01,290 --> 00:29:07,230
+then further can be
+described as Poirier's law.
+
+427
+00:29:07,890 --> 00:29:13,870
+So where resistance is
+equal to A times, that's
+
+428
+00:29:13,870 --> 00:29:16,990
+the letter eta, the
+Greek letter eta, smaller
+
+429
+00:29:16,990 --> 00:29:20,710
+case viscosity of inspired
+air, times the length
+
+430
+00:29:20,710 --> 00:29:24,910
+of the system, divided
+by pi, Pi because airways
+
+431
+00:29:24,910 --> 00:29:28,670
+are circular, more or
+less, times the radius
+
+432
+00:29:28,670 --> 00:29:31,850
+to the fourth exponent,
+or to the fourth power.
+
+433
+00:29:32,150 --> 00:29:34,510
+But right away, looking
+at Prasur's law, you
+
+434
+00:29:34,510 --> 00:29:38,070
+can see that the radius
+is the dominant force in
+
+435
+00:29:38,070 --> 00:29:40,850
+this equation. And that
+if anyone wanted to
+
+436
+00:29:40,850 --> 00:29:44,330
+make changes to the
+conductance of an airway
+
+437
+00:29:44,330 --> 00:29:50,270
+system, that manipulating
+its radius is the best
+
+438
+00:29:50,270 --> 00:29:53,570
+way to do it because it
+has such a high weight.
+
+439
+00:29:54,920 --> 00:29:57,710
+Let's now look over
+here. So here we have
+
+440
+00:29:57,710 --> 00:30:00,750
+resistance of the
+airway system plotted
+
+441
+00:30:00,750 --> 00:30:04,570
+against some of the
+components of the system.
+
+442
+00:30:04,790 --> 00:30:08,430
+And you can see that airway
+resistance is pretty high
+
+443
+00:30:08,430 --> 00:30:12,230
+in the trachea is the
+highest at the level of the
+
+444
+00:30:12,230 --> 00:30:15,690
+bronchus the two main
+bronchi and then the smaller
+
+445
+00:30:15,690 --> 00:30:19,150
+bronchi still remains
+higher until we get down to
+
+446
+00:30:19,150 --> 00:30:23,610
+the bronchioles and then it
+gets very low so initially
+
+447
+00:30:23,610 --> 00:30:28,570
+that's a puzzling thing
+to look at but if you
+
+448
+00:30:28,570 --> 00:30:34,190
+consider that we are turning
+from a system of a sequential
+
+449
+00:30:34,190 --> 00:30:38,250
+flow here to a system
+with parallel flow where
+
+450
+00:30:38,250 --> 00:30:43,770
+the air has a million
+choices in terms of the route
+
+451
+00:30:43,770 --> 00:30:47,670
+that it goes, that then
+can explain why the overall
+
+452
+00:30:47,670 --> 00:30:51,270
+resistance goes down.
+That's due to parallel flow.
+
+453
+00:30:54,510 --> 00:30:59,890
+This illustration shows how
+changes in airway resistance
+
+454
+00:30:59,890 --> 00:31:03,530
+through airway dynamiter
+are being accomplished.
+
+455
+00:31:04,190 --> 00:31:08,450
+So on the left side we have
+a normal airway dynamiter
+
+456
+00:31:08,450 --> 00:31:11,770
+and a normal lung and on
+the right side we have
+
+457
+00:31:11,770 --> 00:31:18,150
+an inflamed lung and
+reduced diameter airways. In
+
+458
+00:31:18,150 --> 00:31:21,950
+this particular case, this
+is likely due to the activity
+
+459
+00:31:21,950 --> 00:31:25,990
+of pro-inflammatory
+mediators such as histamine
+
+460
+00:31:25,990 --> 00:31:30,330
+and leukotrients and they
+just cause constriction.
+
+461
+00:31:31,310 --> 00:31:35,470
+Normally, without infection
+and without inflammation,
+
+462
+00:31:35,510 --> 00:31:39,910
+the autonomic nervous system
+is responsible, and you
+
+463
+00:31:39,910 --> 00:31:44,010
+already know that the
+sympathetic branch leads to
+
+464
+00:31:44,010 --> 00:31:48,730
+relaxation and airway dilation,
+as in this case, and that
+
+465
+00:31:48,730 --> 00:31:52,550
+this works through adrenergic
+beta receptors and can
+
+466
+00:31:52,550 --> 00:31:56,210
+be accomplished via adrenergic
+beta-receptor agonists.
+
+467
+00:31:56,640 --> 00:31:59,790
+The one natural
+agonist that comes from
+
+468
+00:31:59,790 --> 00:32:02,450
+our adrenal medulla
+is epinephrine,
+
+469
+00:32:03,160 --> 00:32:05,570
+and there are drugs
+that accomplish the
+
+470
+00:32:05,570 --> 00:32:08,750
+same. In case this
+down here happens,
+
+471
+00:32:09,190 --> 00:32:12,570
+isoproteranol and albuterol
+can be administered.
+
+472
+00:32:13,620 --> 00:32:16,530
+Then the parasympathetic
+branch does the opposite.
+
+473
+00:32:16,530 --> 00:32:20,550
+It leads to airway
+constriction, similar to what
+
+474
+00:32:20,550 --> 00:32:24,570
+you see here, and it
+works through muscarinic
+
+475
+00:32:24,570 --> 00:32:30,270
+agonists, which can be
+either muscarine or carbosol.
+
+476
+00:32:31,690 --> 00:32:37,590
+Carbosol is also used
+as an ophthalmic agent,
+
+477
+00:32:37,590 --> 00:32:43,630
+and there it is used
+to decrease intraocular
+
+478
+00:32:43,630 --> 00:32:47,430
+pressure after
+cataract surgery so but
+
+479
+00:32:47,430 --> 00:32:51,090
+in airways it causes
+airway constriction
+
+480
+00:32:53,530 --> 00:33:01,150
+um these activities can
+be blocked with muscarinic
+
+481
+00:33:01,150 --> 00:33:07,030
+antagonists and one of those
+is atropine but Atropine
+
+482
+00:33:07,030 --> 00:33:11,390
+also has a downside because
+it negatively impacts
+
+483
+00:33:12,470 --> 00:33:16,830
+cardiac function, so one
+has to be careful with this.
+
+484
+00:33:19,070 --> 00:33:23,070
+Now that we know how
+important the control of
+
+485
+00:33:23,070 --> 00:33:25,730
+resistance is in airway
+function, let's look at some
+
+486
+00:33:25,730 --> 00:33:28,750
+other factors that can
+change airway resistance.
+
+487
+00:33:29,150 --> 00:33:32,730
+One we've already looked
+at previously, and that had
+
+488
+00:33:32,730 --> 00:33:36,510
+to do with the interdependence
+of alveoli. So, when one
+
+489
+00:33:36,510 --> 00:33:40,370
+alveolus is pulled open,
+that has an effect on nearby
+
+490
+00:33:40,370 --> 00:33:44,510
+alveoli, which are then
+indirectly also pulled open.
+
+491
+00:33:44,610 --> 00:33:48,190
+The same is true with
+the opposite. So, if one
+
+492
+00:33:48,190 --> 00:33:51,300
+alveolus, let's say this one
+here in the center, collapses
+
+493
+00:33:52,570 --> 00:33:59,070
+or closes up due to a
+condition such as asthma,
+
+494
+00:33:59,070 --> 00:34:02,870
+then the other alveoli nearby
+will do the same thing.
+
+495
+00:34:03,350 --> 00:34:06,790
+And that then, because it
+affects a larger system,
+
+496
+00:34:06,790 --> 00:34:09,930
+that can change airway
+resistance quite dramatically.
+
+497
+00:34:10,840 --> 00:34:12,530
+Another thing that matters is
+
+498
+00:34:12,530 --> 00:34:14,470
+the viscosity of inspired air.
+
+499
+00:34:14,470 --> 00:34:18,190
+Here, again, our viscosity,
+Greek letter eta.
+
+500
+00:34:18,330 --> 00:34:22,290
+And it's important to
+note that air viscosity,
+
+501
+00:34:22,290 --> 00:34:25,230
+as we've seen also
+being a factor in
+
+502
+00:34:25,230 --> 00:34:27,310
+Perseu's law, can change
+with air temperature.
+
+503
+00:34:27,530 --> 00:34:29,690
+And generally, colder air is
+
+504
+00:34:29,690 --> 00:34:31,630
+easier to breathe
+than warmer air.
+
+505
+00:34:32,430 --> 00:34:35,870
+This also bears significance
+for deep-sea divers,
+
+506
+00:34:35,870 --> 00:34:39,170
+and they are putting
+helium into their air
+
+507
+00:34:39,170 --> 00:34:42,670
+mixture up to 3% typically,
+and that's because
+
+508
+00:34:42,670 --> 00:34:46,850
+helium is much less viscous
+than the regular air
+
+509
+00:34:46,850 --> 00:34:49,490
+that we breathe, so it
+makes it easier under
+
+510
+00:34:49,530 --> 00:34:55,450
+those deep-sea pressure
+conditions to breathe.
+
+511
+00:34:57,910 --> 00:35:01,190
+Another mechanism
+that we briefly looked
+
+512
+00:35:01,190 --> 00:35:03,530
+at is compensatory
+bronchoconstriction.
+
+513
+00:35:03,530 --> 00:35:09,430
+So here on the example you
+can see that if we encounter
+
+514
+00:35:09,430 --> 00:35:13,290
+a situation where one
+bronchus is poorly ventilated
+
+515
+00:35:13,330 --> 00:35:20,650
+then the system recognizes
+this and it then
+
+516
+00:35:21,230 --> 00:35:24,890
+regulates so that blood flow
+to this poorly ventilated
+
+517
+00:35:24,890 --> 00:35:29,590
+bronchus is completely
+shut off and instead it
+
+518
+00:35:29,590 --> 00:35:33,710
+increases alternative pathways
+and increases blood flow
+
+519
+00:35:33,710 --> 00:35:40,410
+to the bronchi that are
+very well when ventilated
+
+520
+00:35:40,410 --> 00:35:46,450
+so it compensates depending
+on where poorly ventilated
+
+521
+00:35:46,810 --> 00:35:50,030
+bronchi are located and
+this process is called
+
+522
+00:35:50,030 --> 00:35:53,210
+compensatory bronchonstriction
+if you look at this
+
+523
+00:35:53,210 --> 00:35:58,710
+poorly ventilated alveolus
+then you can appreciate
+
+524
+00:35:58,710 --> 00:36:04,610
+that the alveolar air so the
+partial pressure of oxygen
+
+525
+00:36:04,610 --> 00:36:08,130
+inside this alveolus and
+the partial pressure of
+
+526
+00:36:08,170 --> 00:36:11,630
+carbon dioxide is
+pretty much the same as
+
+527
+00:36:11,630 --> 00:36:14,690
+that of the ambient
+outside air because there's
+
+528
+00:36:14,690 --> 00:36:18,170
+little to no exchange
+that occurs there so
+
+529
+00:36:18,450 --> 00:36:22,630
+that then leads to a
+decrease in the partial
+
+530
+00:36:22,630 --> 00:36:25,950
+pressure of CO2 in the
+surrounding tissues,
+
+531
+00:36:26,230 --> 00:36:29,230
+that, due to the
+bicarbonate buffer
+
+532
+00:36:29,230 --> 00:36:33,710
+system, increases the
+pH, and an increased
+
+533
+00:36:33,710 --> 00:36:36,570
+pH is a signal for
+bronchoconstriction.
+
+534
+00:36:37,290 --> 00:36:40,490
+So that is how this
+regulation happens,
+
+535
+00:36:40,490 --> 00:36:45,270
+due to a drop in
+partial pressure of CO2,
+
+536
+00:36:45,270 --> 00:36:49,610
+which then leads to
+an increase in pH, and
+
+537
+00:36:49,610 --> 00:36:53,030
+that then leading to
+bronchoconstriction.
+
+538
+00:36:54,990 --> 00:36:58,190
+Here we're looking at
+the breathing cycle, and
+
+539
+00:36:58,190 --> 00:37:00,870
+the breathing cycle is
+divided into three phases,
+
+540
+00:37:01,270 --> 00:37:05,870
+A, B, and D, actually,
+
+541
+00:37:06,450 --> 00:37:10,530
+where A is the resting
+phase in between two
+
+542
+00:37:10,530 --> 00:37:13,910
+breaths, B is
+inspiration, and D is
+
+543
+00:37:13,910 --> 00:37:18,030
+expiration. C just
+designates the maximum point
+
+544
+00:37:18,030 --> 00:37:20,450
+of inspiration and
+beginning of expiration.
+
+545
+00:37:21,310 --> 00:37:28,150
+So as we breathe
+in, the intrapleural
+
+546
+00:37:28,150 --> 00:37:31,590
+pressure goes
+down. So remember,
+
+547
+00:37:31,590 --> 00:37:34,650
+as we expand our
+ribcage and breathe in,
+
+548
+00:37:36,610 --> 00:37:41,950
+at the same time we're
+pulling the alveoli open,
+
+549
+00:37:42,510 --> 00:37:45,570
+and so the alveoli
+as they open produce
+
+550
+00:37:45,570 --> 00:37:47,550
+an inward force they're
+trying to collapse
+
+551
+00:37:47,590 --> 00:37:50,780
+and the chest wall is
+trying to expand and
+
+552
+00:37:50,870 --> 00:37:55,390
+that pulls the interpleural
+space from both
+
+553
+00:37:55,390 --> 00:37:59,290
+sides and that increases
+the interpleural pressure
+
+554
+00:37:59,290 --> 00:38:03,410
+from minus five to
+maximally minus eight
+
+555
+00:38:04,510 --> 00:38:07,430
+and the units here
+are centimeters
+
+556
+00:38:07,430 --> 00:38:10,230
+water not millimeters
+mercury anymore
+
+557
+00:38:10,760 --> 00:38:12,450
+As we breathe out,
+
+558
+00:38:12,790 --> 00:38:17,710
+the opposite happens, and the
+now more negative pressure
+
+559
+00:38:17,710 --> 00:38:21,970
+returns to a less negative
+pressure as we expire.
+
+560
+00:38:21,970 --> 00:38:24,650
+But the intraplural
+pressure, and
+
+561
+00:38:24,650 --> 00:38:27,190
+that's the key,
+always stays negative.
+
+562
+00:38:28,090 --> 00:38:30,090
+Otherwise, the lungs
+would collapse.
+
+563
+00:38:31,060 --> 00:38:33,410
+At the same time,
+when we breathe in,
+
+564
+00:38:33,790 --> 00:38:38,010
+the alveolar
+pressure goes down.
+
+565
+00:38:38,350 --> 00:38:42,130
+and as a result, air
+flows into the lungs.
+
+566
+00:38:43,130 --> 00:38:44,850
+As we breathe out,
+
+567
+00:38:45,650 --> 00:38:48,270
+we reduce the
+volume of the lungs,
+
+568
+00:38:48,270 --> 00:38:51,450
+alveolar pressure
+goes up, forcing the
+
+569
+00:38:51,450 --> 00:38:54,170
+air out of the
+lungs, and we expire.
+
+570
+00:38:55,610 --> 00:38:57,690
+So this is the breathing cycle
+
+571
+00:38:57,690 --> 00:38:59,430
+depicted in a different way.
+
+572
+00:38:59,790 --> 00:39:05,250
+And one thing to keep your
+eyes on is the transmural
+
+573
+00:39:05,250 --> 00:39:08,450
+pressure. So that's the
+yellow arrow, and it's
+
+574
+00:39:08,450 --> 00:39:11,870
+calculated as the alveolar
+pressure inside the
+
+575
+00:39:11,870 --> 00:39:15,630
+alveoli minus the interpleural
+pressure. So that's
+
+576
+00:39:15,630 --> 00:39:18,790
+the interpleural cavity,
+and let's minus that.
+
+577
+00:39:18,970 --> 00:39:22,630
+And let's follow the
+breathing cycle. So here we
+
+578
+00:39:22,630 --> 00:39:27,450
+are at rest, and at rest
+the alveolar pressure is 0,
+
+579
+00:39:27,790 --> 00:39:34,750
+and the intrapleural
+pressure is minus 5, 0
+
+580
+00:39:34,750 --> 00:39:39,010
+minus minus 5, remember
+we need to deduct,
+
+581
+00:39:39,490 --> 00:39:42,290
+mean it's the same as 0 plus
+
+582
+00:39:42,290 --> 00:39:44,630
+5, so minus minus is plus,
+
+583
+00:39:44,830 --> 00:39:50,010
+so 0 plus 5 means that the
+transmural pressure is 5.
+
+584
+00:39:53,410 --> 00:39:58,930
+Now as we breathe in
+the chest wall expands
+
+585
+00:39:58,930 --> 00:40:03,270
+and the interpleural
+pressure as a result
+
+586
+00:40:03,470 --> 00:40:07,270
+increases and the
+alveolar pressure
+
+587
+00:40:07,270 --> 00:40:09,710
+drops down so that
+air can flow in.
+
+588
+00:40:10,030 --> 00:40:15,670
+So the transmural pressure
+here is minus 1 minus minus
+
+589
+00:40:15,670 --> 00:40:23,170
+6.5, which is minus 1 plus
+6.5, which is plus 5.5. And
+
+590
+00:40:23,170 --> 00:40:27,270
+at maximal inspiration,
+the intra-alveolar pressure
+
+591
+00:40:27,270 --> 00:40:31,930
+again is zero. At this point,
+the lungs or chest wall,
+
+592
+00:40:31,930 --> 00:40:35,390
+lungs and chest wall are
+at their maximal expansion.
+
+593
+00:40:35,650 --> 00:40:40,260
+So there's a huge pull at
+the interpleural space.
+
+594
+00:40:41,390 --> 00:40:42,510
+Therefore,
+
+595
+00:40:42,810 --> 00:40:46,350
+the negative pressure is
+minus 8 at this point.
+
+596
+00:40:46,350 --> 00:40:49,090
+If we do the calculation
+of the transmural
+
+597
+00:40:49,090 --> 00:40:53,590
+pressure, we have 0
+minus minus 8, which is
+
+598
+00:40:53,590 --> 00:40:59,230
+0 plus 8, being plus
+8. And then we return
+
+599
+00:40:59,230 --> 00:41:04,030
+to the starting point,
+start to breathe out.
+
+600
+00:41:05,020 --> 00:41:07,610
+At that point, when
+we're breathing out,
+
+601
+00:41:07,890 --> 00:41:13,570
+the lungs are reducing their
+volume. That produces a
+
+602
+00:41:13,570 --> 00:41:17,230
+positive pressure inside. It's
+typically toggling between
+
+603
+00:41:17,230 --> 00:41:21,010
+plus one and minus one,
+inspiration and expiration.
+
+604
+00:41:22,330 --> 00:41:25,590
+At that point, there's
+less negative pressure
+
+605
+00:41:25,590 --> 00:41:28,310
+inside the interpleural
+space. Let's do the math.
+
+606
+00:41:28,490 --> 00:41:33,990
+Plus 1 minus minus 6 is plus
+1 plus 6, I'm sorry, plus
+
+607
+00:41:33,990 --> 00:41:39,030
+1 minus minus 6.5, which
+is the same as plus 1 plus
+
+608
+00:41:39,030 --> 00:41:44,390
+6.5, which is plus 7.5, and
+then we return to normal.
+
+609
+00:41:45,470 --> 00:41:51,630
+My point is that at all
+stages, the transmural
+
+610
+00:41:51,630 --> 00:41:55,090
+pressure is positive
+and is pointing outward.
+
+611
+00:41:56,250 --> 00:42:02,890
+so on by pointing outward
+and being positive the
+
+612
+00:42:02,890 --> 00:42:06,550
+transmural pressure is what
+prevents the collapse of
+
+613
+00:42:06,550 --> 00:42:13,690
+the lungs so in other
+words in order to prevent
+
+614
+00:42:13,690 --> 00:42:17,450
+lung collapse transmural
+pressure always has to be
+
+615
+00:42:17,450 --> 00:42:21,690
+positive that's the takeaway
+message from the slide
+
+616
+00:42:23,090 --> 00:42:27,710
+So here we have a situation
+of forced expiration.
+
+617
+00:42:27,710 --> 00:42:31,340
+It's a little bit different
+than tidal breathing.
+
+618
+00:42:32,610 --> 00:42:36,710
+And the big question
+here is, will the lungs
+
+619
+00:42:36,710 --> 00:42:39,390
+collapse with positive
+interpleural pressure?
+
+620
+00:42:39,510 --> 00:42:42,810
+So because in both cases,
+in a normal individual
+
+621
+00:42:42,810 --> 00:42:46,290
+and also in an
+individual suffering from
+
+622
+00:42:46,290 --> 00:42:51,590
+emphysema, we have positive
+interpleural pressure.
+
+623
+00:42:52,810 --> 00:42:55,730
+I'm sorry, that's the
+interpleural pressure here.
+
+624
+00:43:03,250 --> 00:43:06,370
+The answer to the
+question is obvious.
+
+625
+00:43:07,210 --> 00:43:11,770
+If the answer was yes,
+then anybody playing a wind
+
+626
+00:43:11,770 --> 00:43:17,430
+instrument would collapse
+their lungs. So it cannot
+
+627
+00:43:17,430 --> 00:43:21,270
+be true that forced expiration
+leads to lung collapse.
+
+628
+00:43:21,270 --> 00:43:24,230
+At least it doesn't under
+normal circumstances.
+
+629
+00:43:24,310 --> 00:43:28,010
+So somebody playing the
+trumpet can do so, and it's
+
+630
+00:43:28,010 --> 00:43:31,130
+actually a good exercise.
+It's a healthy exercise,
+
+631
+00:43:31,130 --> 00:43:34,530
+and it will not collapse
+somebody's lung. So it's
+
+632
+00:43:34,530 --> 00:43:38,590
+possible to have a positive
+intraplural pressure.
+
+633
+00:43:39,030 --> 00:43:42,750
+What's important, however
+is that the transmural
+
+634
+00:43:42,750 --> 00:43:48,430
+pressure has to stay
+positive so the pressure
+
+635
+00:43:48,430 --> 00:43:51,890
+difference between in and
+out has to stay positive
+
+636
+00:43:51,890 --> 00:43:55,510
+that's what the transmural
+pressure is so let's
+
+637
+00:43:55,510 --> 00:43:59,630
+do this for a normal
+individual without health
+
+638
+00:43:59,630 --> 00:44:03,410
+conditions so here in
+the airways at forced
+
+639
+00:44:03,410 --> 00:44:06,470
+expiration remember this
+is forced expiration, we
+
+640
+00:44:06,470 --> 00:44:10,410
+have a positive pressure
+of 25 centimeters water,
+
+641
+00:44:11,050 --> 00:44:12,270
+and
+
+642
+00:44:13,210 --> 00:44:16,750
+that's at this
+point plus 25 minus
+
+643
+00:44:18,370 --> 00:44:24,490
+plus 20, which is
+minus 20, we end up
+
+644
+00:44:24,490 --> 00:44:26,450
+with a transmural
+pressure of plus 5.
+
+645
+00:44:26,630 --> 00:44:30,790
+At the bottom of the
+alveoli, we have an alveolar
+
+646
+00:44:30,790 --> 00:44:35,450
+pressure of plus 35 minus
+plus 20, which is minus
+
+647
+00:44:35,450 --> 00:44:38,970
+20, we end up with a
+transmural pressure of 15.
+
+648
+00:44:38,970 --> 00:44:42,530
+So we already know from
+the previous slide that
+
+649
+00:44:42,530 --> 00:44:44,990
+as long as the transmural
+pressure is positive,
+
+650
+00:44:44,990 --> 00:44:46,350
+lungs don't collapse.
+
+651
+00:44:46,970 --> 00:44:51,050
+Now if we do this with an
+individual or for an individual
+
+652
+00:44:51,050 --> 00:44:54,110
+suffering from emphysema,
+the situation is similar
+
+653
+00:44:54,110 --> 00:44:59,060
+but not the same. So you can
+see that the intrapleural
+
+654
+00:45:00,090 --> 00:45:05,070
+pressure is the same
+but the pressures inside
+
+655
+00:45:05,070 --> 00:45:10,350
+the alveoli have changed and
+inside the airways so and
+
+656
+00:45:10,350 --> 00:45:14,190
+that's because of the
+diminished elastic recoil in
+
+657
+00:45:14,190 --> 00:45:21,010
+emphysema so emphysema leads
+to or involves inflammation
+
+658
+00:45:21,010 --> 00:45:25,370
+and that inflammation
+destroys a lot of the elastic
+
+659
+00:45:25,370 --> 00:45:29,450
+fibers that are able to
+do the recoil in lungs. So
+
+660
+00:45:29,450 --> 00:45:33,670
+remember for emphysema, in
+individuals with emphysema,
+
+661
+00:45:33,670 --> 00:45:38,050
+it's easy to expand their
+lungs because their lungs
+
+662
+00:45:38,050 --> 00:45:42,610
+have increased compliance.
+But at the same time,
+
+663
+00:45:42,610 --> 00:45:46,750
+it's more difficult for
+them to force the air out of
+
+664
+00:45:46,750 --> 00:45:49,930
+their lungs because they
+have reduced elastic recoil.
+
+665
+00:45:51,750 --> 00:45:54,110
+So in this example here, in the
+
+666
+00:45:54,110 --> 00:45:57,010
+large airways leading
+to the alveoli,
+
+667
+00:45:57,130 --> 00:46:02,690
+an individual with emphysema
+only has airway pressure
+
+668
+00:46:02,690 --> 00:46:10,070
+as a part of forced
+expiration of plus 15, because
+
+669
+00:46:10,070 --> 00:46:13,070
+they cannot be aided much
+by the elastic recoil,
+
+670
+00:46:13,070 --> 00:46:16,230
+so they can force all they
+want, but there's less
+
+671
+00:46:16,230 --> 00:46:20,030
+elastic recoil which can
+provide additional force to
+
+672
+00:46:20,030 --> 00:46:24,230
+produce more airway pressure.
+At the same time, the
+
+673
+00:46:24,230 --> 00:46:26,050
+interpleural pressure
+has not changed. So let's
+
+674
+00:46:26,050 --> 00:46:30,990
+do the math. We have plus
+15 minus plus 20, which is
+
+675
+00:46:30,990 --> 00:46:35,330
+minus 20. So at this
+point, we have a transmural
+
+676
+00:46:35,330 --> 00:46:39,270
+pressure that is minus 5
+and actually points towards
+
+677
+00:46:39,270 --> 00:46:42,810
+collapse. So this large
+airway would be collapsed.
+
+678
+00:46:43,170 --> 00:46:48,410
+Now in the alveoli, the
+positive pressure is plus 25.
+
+679
+00:46:49,930 --> 00:46:55,490
+Minus plus 20, which is
+minus 20, is still plus 5.
+
+680
+00:46:55,490 --> 00:47:00,250
+So here at the site of
+the alveoli, there's still
+
+681
+00:47:00,250 --> 00:47:02,710
+positive transmural
+pressure, which prevents
+
+682
+00:47:02,710 --> 00:47:08,330
+collapse, but there's reduced
+or no airflow due to at
+
+683
+00:47:08,330 --> 00:47:11,090
+least the partial collapse
+of the large airways.
+
+684
+00:47:11,310 --> 00:47:16,750
+In order to overcome this,
+individuals with suffering
+
+685
+00:47:16,750 --> 00:47:19,970
+from emphysema they
+breathe with pursed lips
+
+686
+00:47:19,970 --> 00:47:24,210
+so they produce additional
+pressure that way when
+
+687
+00:47:24,210 --> 00:47:28,030
+breathing out and they
+breathe more slowly and that
+
+688
+00:47:28,030 --> 00:47:32,410
+increases this number
+here slightly and prevents
+
+689
+00:47:32,410 --> 00:47:36,330
+the collapse due to
+negative transmural pressure
+
+690
+00:47:40,110 --> 00:47:44,030
+let's do one more question
+this one is on the more
+
+691
+00:47:44,030 --> 00:47:48,270
+challenging side a 64 year
+old retired sandblaster
+
+692
+00:47:48,270 --> 00:47:50,370
+presents with progressive
+shortness of breath
+
+693
+00:47:50,370 --> 00:47:54,130
+and a dry hacking cough
+a high resolution ct
+
+694
+00:47:54,130 --> 00:47:56,530
+scan of the chest reveals
+diffuse interstitial
+
+695
+00:47:56,530 --> 00:47:59,750
+thickening and scarring
+consistent with idiopathic
+
+696
+00:47:59,750 --> 00:48:03,370
+pulmonary fibrosis how
+does this condition alter
+
+697
+00:48:03,370 --> 00:48:06,430
+the physical forces of
+the respiratory system and
+
+698
+00:48:06,430 --> 00:48:09,950
+what is its effect on the
+pressure volume loop a
+
+699
+00:48:10,350 --> 00:48:13,590
+it increases lung
+compliance shifting the
+
+700
+00:48:13,590 --> 00:48:15,890
+pressure volume loop
+upward and to the left
+
+701
+00:48:16,950 --> 00:48:22,570
+well this is incorrect
+because diseases a disease
+
+702
+00:48:22,570 --> 00:48:25,330
+that increases lung
+compliance is emphysema
+
+703
+00:48:25,710 --> 00:48:28,390
+so here we're dealing
+with the enzymatic
+
+704
+00:48:28,390 --> 00:48:34,370
+destruction of elastin
+and that results in
+
+705
+00:48:34,550 --> 00:48:38,510
+the lung becoming more
+compliant and easier to inflate
+
+706
+00:48:38,510 --> 00:48:41,530
+so patients with emphysema
+don't have a problem
+
+707
+00:48:41,530 --> 00:48:45,090
+inflating their lungs but
+they're having problems
+
+708
+00:48:45,090 --> 00:48:48,670
+deflating their lungs in
+other words getting air out.
+
+709
+00:48:50,910 --> 00:48:54,790
+B, it decreases
+the inward elastic
+
+710
+00:48:54,790 --> 00:48:58,250
+recoil of the lungs,
+shifting the resting
+
+711
+00:48:58,250 --> 00:49:00,750
+functional residual
+capacity upward.
+
+712
+00:49:02,810 --> 00:49:08,050
+So in respiratory diseases
+we actually have an increase
+
+713
+00:49:08,050 --> 00:49:12,530
+of the inward elastic
+recoil, not a decrease so
+
+714
+00:49:12,530 --> 00:49:18,010
+because of the lay down of
+collagen fibers the lung gets
+
+715
+00:49:18,010 --> 00:49:23,250
+harder to inflate and so
+there's more of an inward
+
+716
+00:49:23,250 --> 00:49:26,890
+pull in the parenchyma and
+that actually shifts the
+
+717
+00:49:26,890 --> 00:49:30,650
+resting functional residual
+capacity downward so the
+
+718
+00:49:30,650 --> 00:49:35,630
+lungs become smaller in the
+resting state shifting the
+
+719
+00:49:35,630 --> 00:49:41,330
+FRC downward so that's
+why B is incorrect. D, it
+
+720
+00:49:41,330 --> 00:49:44,490
+eliminates the outward chest
+wall recoil, forcing the
+
+721
+00:49:44,490 --> 00:49:49,130
+chest wall to collapse inward
+during quiet respiration.
+
+722
+00:49:49,410 --> 00:49:54,830
+So this disease, pulmonary
+fibrosis, is a parenchymal
+
+723
+00:49:54,830 --> 00:49:58,530
+disease. Parenchymal means
+of the inside tissue, and
+
+724
+00:49:58,530 --> 00:50:00,710
+it has nothing to do with
+the outside chest wall.
+
+725
+00:50:00,710 --> 00:50:06,830
+so the chest wall itself
+stays unaffected and you know
+
+726
+00:50:06,830 --> 00:50:10,710
+operates as it normally
+would and that's why d is
+
+727
+00:50:10,710 --> 00:50:15,470
+incorrect e it decreases
+airway resistance making the
+
+728
+00:50:15,470 --> 00:50:17,970
+patient's forced expiratory
+volume in one second
+
+729
+00:50:17,970 --> 00:50:21,850
+abnormally high so we haven't
+really particularly talked
+
+730
+00:50:21,850 --> 00:50:26,630
+about fev1 but it's a measure
+that's used clinically
+
+731
+00:50:26,630 --> 00:50:32,650
+looking at the air expired
+in one second and there's
+
+732
+00:50:32,650 --> 00:50:38,210
+two things wrong with
+this so the one is that it
+
+733
+00:50:41,150 --> 00:50:45,370
+decreases airway resistance
+so this is not an obstructive
+
+734
+00:50:45,370 --> 00:50:51,850
+disease that we're
+dealing with here and then
+
+735
+00:50:51,850 --> 00:50:57,890
+secondly because of the air
+the lungs being fibrotic and
+
+736
+00:50:57,890 --> 00:51:02,130
+much smaller to begin with
+also the air that's expired
+
+737
+00:51:02,130 --> 00:51:07,010
+in the initial for a second
+is abnormally low and
+
+738
+00:51:07,010 --> 00:51:13,270
+not high so that leaves us
+with c as the appropriate
+
+739
+00:51:13,340 --> 00:51:17,130
+and correct answer choice
+it decreases lung compliance
+
+740
+00:51:17,130 --> 00:51:20,410
+that's true decrease of
+lung compliance means it
+
+741
+00:51:20,410 --> 00:51:25,170
+gets harder to inflate
+requiring a much larger
+
+742
+00:51:25,170 --> 00:51:28,890
+negative intrapleural space
+to achieve a normal tidal
+
+743
+00:51:28,890 --> 00:51:35,050
+volume if you remember
+the intrapleural space is
+
+744
+00:51:35,050 --> 00:51:38,630
+always negative and make
+sure that the lungs don't
+
+745
+00:51:38,630 --> 00:51:43,770
+collapse and the fact that
+one has to expend much more
+
+746
+00:51:43,770 --> 00:51:50,670
+force to inflate a fibrotic
+lung the it takes much
+
+747
+00:51:50,670 --> 00:51:54,350
+longer and it requires much
+more effort to pull the
+
+748
+00:51:54,350 --> 00:51:58,470
+lungs open and that makes
+the intra pleural space
+
+749
+00:51:59,260 --> 00:52:03,110
+much more negative and
+pressure than in a healthy
+
+750
+00:52:03,110 --> 00:52:10,190
+lung right I hope that all
+makes sense and thank you
+
+751
+00:52:11,010 --> 00:52:13,830
+As always, resources
+can be found on
+
+752
+00:52:13,830 --> 00:52:16,010
+the CPG that accompanies
+this lecture.
+
+753
+00:52:17,150 --> 00:52:18,750
+If you would be so kind,
+
+754
+00:52:18,750 --> 00:52:20,070
+please give me some feedback.
+
+755
+00:52:20,430 --> 00:52:22,510
+Let me know what worked,
+
+756
+00:52:22,510 --> 00:52:27,250
+what needs work, and
+thanks for listening. Bye.
