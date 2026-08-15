@@ -11,34 +11,24 @@ window.receiveLectureContent({
 
 ## The Big Picture: What Hemodynamics Means (Slides 2-3)
 
-The body's single overriding goal in the circulation is to keep blood flow constant, and this lecture builds the physics toolkit that explains how it does so. Hemodynamics refers to the principles that govern — that drive — blood flow in the cardiovascular system: velocity, pressure, cross-sectional area, resistance, and capacitance (compliance). In other words, hemodynamics is fluid dynamics applied to blood. The lecturer flagged the two laws at the end — Poiseuille's law and the Laplace law — as the key concepts of the lecture and heavily tested on boards, and deliberately deferred detailed blood pressure regulation to its own dedicated lecture.
+The circulation's overriding goal is to keep blood flow constant, and this lecture builds the physics toolkit that explains how. Hemodynamics is fluid dynamics applied to blood: the principles that govern — that drive — blood flow in the cardiovascular system. The lecturer flagged Poiseuille's law and the Laplace law as the key concepts of the lecture and heavily tested on boards, and deferred detailed blood pressure regulation to its own dedicated lecture.
 
 - **Hemodynamics (Slide 3):** the principles that govern blood flow in the cardiovascular system.
   - Parameters: **velocity, pressure, cross-sectional area, resistance, capacitance/compliance** (capacity to hold blood).
 - **Fluid:** a substance that flows and has no specific shape — water, oil, honey, and, for our purposes, **blood**.
-- **Learning objective emphasis [Lecturer Emphasis]:** understanding the relationship between blood flow and resistance (Poiseuille + Laplace) is "very important" and "highly asked" on boards.
+- **Learning objective emphasis [Lecturer Emphasis]:** the relationship between blood flow and resistance (Poiseuille + Laplace) is "very important" and "highly asked" on boards.
 
-## Physical Characteristics of the Circulation (Slides 4-5)
+## Physical Characteristics of the Circulation (Slides 4-6)
 
-Before the math, we need the model. The circulation is a set of closed vessels — a "network of pipes" — with a pressure pump (the heart) driving a circulating fluid (the blood). The lecturer's favorite analogy is an electrical circuit: the heart is the battery, the blood is the current, and the blood vessels are the wires. Because the left heart and right heart operate in series, whatever leaves the heart must come back to it: cardiac output equals venous return.
+The circulation is a set of closed vessels — a "network of pipes" — with a pressure pump (the heart) driving a circulating fluid (the blood). The lecturer's favorite analogy is an electrical circuit: the heart is the battery, the blood is the current, the vessels are the wires. Because the left and right hearts operate in series, whatever leaves the heart must come back to it. The pipes are not uniform in length, diameter, or wall composition, and that variety is exactly why velocity must change from segment to segment to keep flow constant.
 
 - **Stroke volume (SV) (Slide 4):** the volume of blood pumped out of the heart with **each beat**.
-- **Cardiac output (CO):** the volume of blood pumped by the heart **per minute**.
-  - **CO = SV x HR**
-  - Normal CO is approximately **5 L/min**.
-  - First Aid has a nice summary of these concepts [Lecturer Emphasis].
-- **Series circuit (Slide 5):** left and right hearts operate in series, so venous return to the left heart equals venous return to the right heart.
-  - Therefore **cardiac output from the heart = venous return to the heart** — the amount of blood that leaves the heart equals the amount that returns.
-
-## The Vasculature: A Network of Different Pipes (Slide 6)
-
-The pipes are not uniform: they differ in length, diameter, and wall composition, and that variety is exactly why velocity must change from segment to segment to keep flow constant. Every vessel — from aorta to capillary to vein — is lined by endothelium, but the muscle content varies enormously.
-
-- **Endothelium:** present in **100% of blood vessels** — every vessel type.
-- **Vascular smooth muscle:** abundant in the **aorta and arterioles**; **essentially absent in capillaries** (capillaries are pretty much endothelium only).
-- **Veins:** contain **all the layers** of the vessel wall (endothelium, smooth muscle, adventitia) but in much **smaller amounts** than arteries.
-  - Classic comparison: the **ascending aorta** (very elastic, muscle-rich) vs. the **saphenous vein** (endothelium present, far less muscle).
-- **Why it matters:** as blood passes vessels of different diameters, **velocity changes** so that **flow stays constant**.
+- **Cardiac output (CO):** the volume of blood pumped by the heart **per minute**. **CO = SV x HR**; normal CO is approximately **5 L/min**. First Aid has a nice summary of these concepts [Lecturer Emphasis].
+- **Series circuit (Slide 5):** venous return to the left heart equals venous return to the right heart, so **cardiac output from the heart = venous return to the heart**.
+- **Vessel walls (Slide 6):**
+  - **Endothelium:** present in **100% of blood vessels** — every vessel type.
+  - **Vascular smooth muscle:** abundant in the **aorta and arterioles**; **essentially absent in capillaries** (capillaries are pretty much endothelium only).
+  - **Veins:** contain **all the layers** of the vessel wall (endothelium, smooth muscle, adventitia) but in much **smaller amounts** than arteries — compare the **ascending aorta** (very elastic, muscle-rich) with the **saphenous vein**.
 
 ## Basic Terminology in Circulation (Slide 7)
 
@@ -48,30 +38,28 @@ The pipes are not uniform: they differ in length, diameter, and wall composition
 
 ## Velocity and Cross-Sectional Area (Slides 8-11)
 
-Here is the first quantitative rule of the lecture. Flow through the system is constant, so when the pipe narrows, the blood must move faster; when the total pipe area widens, it slows down. This is why the same 5 liters per minute races through the aorta and crawls through the capillary beds — perfect for exchange.
+Flow through the system is constant, so when the total pipe area widens the blood must slow down, and when it narrows the blood must speed up. This is why the same 5 liters per minute races through the aorta and crawls through the capillary beds — perfect for exchange.
 
 - **Velocity equation (Slides 8-10):** **v = Q / A**, where A = pi x r squared.
   - **The narrower the vessel, the faster the velocity of flow** (Slide 8).
-  - Velocity is **inversely proportional to vascular cross-sectional area**, so changes in vessel diameter alter velocity through a vessel (Slide 9).
+  - Velocity is **inversely proportional to vascular cross-sectional area**, so changes in vessel diameter alter velocity (Slide 9).
 - **Total cross-sectional area is what counts (Slide 10):**
-  - **Capillaries** have the **highest total cross-sectional area** and therefore the **lowest velocity**.
-  - The **aorta** has the **smallest total cross-sectional area** and therefore the **highest velocity**.
-  - Velocity increases again from capillaries to venules to veins to vena cava as total cross-sectional area decreases.
-  - Flow rate remains constant because velocity changes with vessel radius.
+  - **Capillaries:** **highest total cross-sectional area**, therefore the **lowest velocity**.
+  - **Aorta:** **smallest total cross-sectional area**, therefore the **highest velocity**.
+  - Velocity increases again from capillaries to venules to veins to vena cava as total cross-sectional area decreases; flow rate remains constant throughout.
 - **Practice calculation (Slide 11):** CO = 5.5 L/min; aortic diameter 20 mm; total capillary cross-sectional area 2,500 cm2.
   - Aorta: radius = 10 mm = 1 cm, so A = 3.14 x (1 cm) squared = **3.14 cm2**; v = 5.5 L/min / 3.14 cm2 = **~1,752 cm/min**.
-  - Capillaries: v = 5.5 L/min / 2,500 cm2 = **2.2 cm/min**.
-  - Same flow, wildly different velocities — driven entirely by cross-sectional area.
+  - Capillaries: v = 5.5 L/min / 2,500 cm2 = **2.2 cm/min**. Same flow, wildly different velocities.
 
 :::diagram cv16-velocity-vs-total-area:::
 
 :::highyield
-Velocity of blood flow is inversely proportional to TOTAL cross-sectional area (v = Q/A). Capillaries have the highest total cross-sectional area and the lowest velocity; the aorta has the smallest total cross-sectional area and the highest velocity. Flow stays constant throughout — only velocity changes.
+Velocity is inversely proportional to TOTAL cross-sectional area (v = Q/A): highest in the aorta (smallest total area), lowest in the capillaries (largest total area). Flow stays constant throughout — only velocity changes.
 :::
 
 ## Ohm's Law: Flow, Pressure, and Resistance (Slides 13-16)
 
-Velocity was the first player; pressure and resistance are the next two. The governing equation comes straight from Ohm's law of electricity — current equals voltage difference divided by resistance. Translated to the circulation, the voltage difference becomes the pressure difference and the current becomes blood flow. This one relationship explains everything from why blood moves at all to why a blocked coronary artery starves the myocardium.
+Pressure and resistance are the next two players. The governing equation comes straight from Ohm's law of electricity — current equals voltage difference divided by resistance — with the voltage difference becoming the pressure difference and the current becoming blood flow. It explains everything from why blood moves at all to why a blocked coronary artery starves the myocardium.
 
 - **Ohm's law applied to blood (Slide 13):** **Q = (P1 - P2) / R = delta P / R** (mL/min).
   - **Delta P** may also be called the **driving pressure, perfusion pressure, or pressure gradient** depending on the textbook.
@@ -85,7 +73,7 @@ Velocity was the first player; pressure and resistance are the next two. The gov
 :::correlate
 Coronary Artery Blockage (Myocardial Ischemia)
 
-- **Pathophysiology:** A 95% blockage of a coronary artery dramatically increases resistance in that segment. By Ohm's law (Q = delta P / R), increased resistance decreases blood flow — flow is inversely proportional to resistance.
+- **Pathophysiology:** A 95% blockage of a coronary artery dramatically increases resistance in that segment; by Q = delta P / R, flow falls.
 - **Presentation:** Ischemia — a decrease in blood flow to the myocardium; can progress to heart infarct.
 - **Diagnosis:** Contrast angiography identified the 95% blocked coronary artery.
 - **Treatment:** Stent implantation restored the vessel diameter and thereby the flow.
@@ -94,7 +82,7 @@ Coronary Artery Blockage (Myocardial Ischemia)
 
 ## Calculating Vascular Resistance (Slide 17)
 
-Rearranging Ohm's law lets you compute resistance from a flow and two pressures — a skill the lecturer tied into renal physiology on purpose, since it recurs there.
+Rearranging Ohm's law gives resistance from a flow and two pressures — a skill the lecturer tied deliberately to renal physiology, where it recurs.
 
 - **Renal practice question:** renal blood flow 500 mL/min; renal arterial pressure 100 mmHg; renal venous pressure 10 mmHg.
   - R = delta P / Q = (100 - 10) / 500 = 90 / 500 = **0.18 mmHg/mL/min**.
@@ -106,30 +94,28 @@ Rearranging Ohm's law lets you compute resistance from a flow and two pressures 
 :::correlate
 Decompensated Heart Failure
 
-- **Pathophysiology:** The pump (heart) fails, so **cardiac output decreases**. Less blood reaches the tissues; **renal artery perfusion falls**, which **decreases GFR** and **activates the renin-angiotensin system**, causing **vasoconstriction** as a compensatory response. Decreased baroreceptor stretch also results in vasoconstriction. There is **volume overload** with reduced cardiac output.
+- **Pathophysiology:** The pump fails, so **cardiac output decreases**. Less blood reaches the tissues; **renal artery perfusion falls**, which **decreases GFR** and **activates the renin-angiotensin system**, causing compensatory **vasoconstriction**. Decreased baroreceptor stretch drives the same vasoconstriction by a second route. The result is **volume overload** with reduced cardiac output.
 - **Presentation:** Shortness of breath, chest discomfort or pain, and swelling of the legs (when decompensated).
-- **Lecturer's Point:** Heart failure is the classic pathological example of decreased cardiac output; it gets its own lecture later, and the cardiorenal syndrome connects it to renal physiology. Baroreceptor stretch will be discussed in depth in the blood pressure regulation lectures.
+- **Lecturer's Point:** The classic pathological example of decreased cardiac output; it gets its own lecture later, and the cardiorenal syndrome connects it to renal physiology. Baroreceptor stretch is deferred to the blood pressure lectures.
 :::
 
 ## Poiseuille's Equation: Resistance Dissected (Slides 19-23)
 
-Now the concept the lecturer called the key of the lecture and "highly asked in the boards." Resistance is not a black box — it is built from three things: how long the vessel is, how thick (viscous) the blood is, and, above all, how wide the vessel is. Because radius enters the equation raised to the fourth power, tiny changes in vessel caliber produce huge changes in flow — the physiologic basis for arteriolar control of flow, and the reason a wider IV catheter beats a pressure bag every time.
+Now the concept the lecturer called the key of the lecture and "highly asked in the boards." Resistance is built from three things: vessel length, blood viscosity, and — above all — vessel radius. Because radius enters raised to the fourth power, tiny changes in caliber produce huge changes in flow: the basis for arteriolar control, and the reason a wider IV catheter beats a pressure bag.
 
-- **Resistance (Slide 20):** **R = (8 x L x viscosity) / (pi x r to the 4th power)**.
-  - L = vessel length; viscosity = thickness of the blood; r = radius.
+- **Resistance (Slide 20):** **R = (8 x L x viscosity) / (pi x r to the 4th power)**, where L = vessel length, viscosity = thickness of the blood, r = radius.
 - **Combined with Ohm's law:** **Q = (delta P x pi x r to the 4th) / (8 x L x viscosity)**.
   - **Viscosity increases → flow decreases.**
   - **Vessel length increases → flow decreases.**
   - **Delta P increases → flow increases.**
-  - **Radius increases → flow increases — to the FOURTH power.**
-- **The r to the 4th consequence:** doubling the radius (1 → 2) increases flow **16-fold** (2 x 2 x 2 x 2).
-- **Anemia as the classic viscosity example [Lecturer Emphasis] (Slide 23):** in anemia the number of red cells decreases, so **viscosity decreases**, so **flow increases**. (The lecturer corrected a momentary slip: in anemia viscosity goes DOWN and flow goes UP.)
-- The USMLE First Aid table summarizing resistance, pressure, and flow is recommended for board studiers [Lecturer Emphasis].
+  - **Radius increases → flow increases — to the FOURTH power.** Doubling the radius (1 → 2) increases flow **16-fold** (2 x 2 x 2 x 2).
+- **Anemia as the classic viscosity example [Lecturer Emphasis] (Slide 23):** fewer red cells → **viscosity decreases** → **flow increases**. (The lecturer corrected a momentary slip: in anemia viscosity goes DOWN and flow goes UP.)
+- The USMLE First Aid table on resistance, pressure, and flow is recommended [Lecturer Emphasis].
 
 :::diagram cv16-poiseuille-r4:::
 
 :::highyield
-Poiseuille's equation: Q = (delta P x pi x r^4) / (8 x L x viscosity). Radius is raised to the FOURTH power — doubling the radius of a vessel (or an IV catheter) increases flow 16-fold. This is the single most board-tested relationship of the lecture, and it is why arterioles (adjustable radius) are the body's flow-control valves.
+Poiseuille's equation: Q = (delta P x pi x r^4) / (8 x L x viscosity). Radius is raised to the FOURTH power — doubling the radius of a vessel (or an IV catheter) increases flow 16-fold. The single most board-tested relationship of the lecture, and why arterioles (adjustable radius) are the body's flow-control valves.
 :::
 
 :::correlate
@@ -137,48 +123,48 @@ Hypovolemic Hemorrhagic Shock (Bleeding Peptic Ulcer)
 
 - **Pathophysiology:** A 65-year-old man with peptic ulcer disease presents with nausea, melena (blood in feces), and faintness — GI blood loss causing hypovolemia.
 - **Presentation:** BP 90/40 (low), pulse elevated, respirations 28/min, lethargy, cold extremities; remains hypotensive despite a slow blood transfusion.
-- **Treatment (the Poiseuille application):** To improve transfusion flow rate, **double the diameter of the intravenous catheter** — flow increases 16 times. Increasing the driving pressure is a poor choice because excessive pressure can break (hemolyze) the red cells; changing blood viscosity or catheter length is impractical.
+- **Treatment (the Poiseuille application):** To improve the transfusion flow rate, **double the diameter of the intravenous catheter** — flow increases 16 times. Increasing the driving pressure is a poor choice because excessive pressure can break (hemolyze) the red cells; changing blood viscosity or catheter length is impractical.
 - **Lecturer's Point:** This is the boards' favorite way to test r to the 4th power: radius beats pressure, length, and viscosity as the lever on flow.
 :::
 
 :::correlate
 Anemia (High-Output State)
 
-- **Pathophysiology:** Fewer red cells → **decreased blood viscosity** → **increased blood flow** (Poiseuille). With fewer red cells carrying oxygen, the body compensates with **increased heart rate and increased cardiac output**.
+- **Pathophysiology:** Fewer red cells → decreased viscosity → increased flow (Poiseuille). With less oxygen-carrying capacity, the body compensates with **increased heart rate and increased cardiac output**.
 - **Presentation:** A 22-year-old medical student with 3 months of fatigue and sleepiness, a **mid-systolic murmur**, and **higher-than-normal cardiac output**. The murmur is generated by the increased heart rate and cardiac output.
 - **Diagnosis:** On the differential for a high cardiac output with a mid-systolic murmur, anemia is the answer (vs. cardiac tamponade, mitral regurgitation, third-degree heart block).
-- **Lecturer's Point:** Anemia is the go-to example for the viscosity term of Poiseuille's equation — and an example of increased CO driven by increased heart rate.
+- **Lecturer's Point:** The go-to example for the viscosity term of Poiseuille's equation — and for increased CO driven by increased heart rate.
 :::
 
 ## The Laplace Law: Wall Tension (Slide 24)
 
-The last physical law of the lecture answers a deceptively simple question: why does wall tension increase as a vessel dilates? The formula makes the danger of aneurysms obvious — the bigger the radius, the greater the tension in the wall at the same pressure, which is why dilated vessels keep dilating.
+The last physical law answers why wall tension increases as a vessel dilates. At the same pressure, the bigger the radius the greater the tension in the wall — which is why dilated vessels keep dilating, and why aneurysms are dangerous.
 
 - **Laplace law:** **Wall tension = (transmural pressure x radius) / (2 x wall thickness)**.
   - **If the radius increases, wall tension increases** at a given pressure.
 - **Three look-alike terms that are NOT the same [Lecturer Emphasis]:**
   - **Arterial compliance (distensibility):** the elastic property of the artery — how much blood it can accommodate.
   - **Arterial stiffness:** loss of the elastic property; happens to everyone with **aging** (stiff muscles, stiff arteries).
-  - **Arterial thickness:** how thick the vessel wall is — you can have thickness without stiffness; they are different concepts.
+  - **Arterial thickness:** how thick the vessel wall is — you can have thickness without stiffness; different concepts.
 
 :::correlate
 Abdominal Aortic Aneurysm
 
-- **Pathophysiology:** In an aneurysm the radius of the aorta increases; by the Laplace law (T = P x r / 2 x wall thickness), **wall tension rises** compared with the normal-caliber vessel at the same transmural pressure.
-- **Presentation:** Focal dilation of the abdominal aorta compared with the normal aorta.
-- **Lecturer's Point:** The aneurysm is THE classic example for understanding why wall tension increases with radius.
+- **Pathophysiology:** In an aneurysm the radius of the aorta increases; by the Laplace law (T = P x r / 2 x wall thickness), **wall tension rises** compared with a normal-caliber vessel at the same transmural pressure.
+- **Presentation:** Focal dilation of the abdominal aorta.
+- **Lecturer's Point:** THE classic example for understanding why wall tension increases with radius.
 :::
 
 ## Blood Pressure and Its Components (Slides 25-28)
 
-Blood pressure gets its own lecture later, but the vocabulary starts here. Every cuff reading hands you two numbers, and from them you can immediately derive two more clinically rich parameters: the mean arterial pressure that drives perfusion, and the pulse pressure that reports on stroke volume and arterial compliance.
+Blood pressure gets its own lecture later, but the vocabulary starts here. Every cuff reading hands you two numbers, and from them you derive two more: the mean arterial pressure that drives perfusion, and the pulse pressure that reports on stroke volume and arterial compliance.
 
 - **Definitions (Slide 25):**
   - **Systolic pressure:** highest arterial pressure during a cardiac cycle.
   - **Diastolic pressure:** lowest arterial pressure during a cardiac cycle.
   - **Mean arterial pressure (MAP):** the running average of arterial pressure.
   - **Pulse pressure:** systolic minus diastolic; its magnitude **reflects the volume of blood ejected on a single beat** (stroke volume).
-- **Pressure profile in the vasculature (Slide 26):** pressure is very high in the aorta and large arteries and falls to very low values in the capillaries, venules, and veins — the high-pressure side is arterial.
+- **Pressure profile (Slide 26):** very high in the aorta and large arteries, falling to very low values in the capillaries, venules, and veins — the high-pressure side is arterial.
 - **The formulas (Slides 27-28):**
   - **Pulse pressure = systolic - diastolic** (e.g., 120 - 80 = **40 mmHg**); **normal pulse pressure is 30-40 mmHg**.
   - **MAP = diastolic + 1/3 pulse pressure** (80 + 1/3 x 40 = 93 mmHg).
@@ -190,7 +176,7 @@ Blood pressure gets its own lecture later, but the vocabulary starts here. Every
 ## Total Peripheral Resistance (Slides 29-30)
 
 - **TPR:** the resistance of the **entire systemic vasculature**.
-- **Formula chain:** R = delta P / Q, so **TPR = delta P / CO**, and for the whole systemic circuit **TPR = (MAP - CVP) / CO** (mean arterial pressure minus central venous pressure, divided by cardiac output).
+- **Formula chain:** R = delta P / Q, so **TPR = delta P / CO**, and for the whole systemic circuit **TPR = (MAP - CVP) / CO**.
 - **Primary determinant of TPR: the adjustable arteriolar radius** (Slide 29).
 - **Two categories of factors control arteriolar radius:**
   - **Local (intrinsic) control:** e.g., **heat and cold**.
@@ -199,86 +185,57 @@ Blood pressure gets its own lecture later, but the vocabulary starts here. Every
 
 ## Pulse Pressure in Disease and Daily Life (Slides 31-32)
 
-Pulse pressure is free information: every blood pressure measurement gives it to you instantly, and deviations from the normal 30-40 mmHg window point to specific physiology. The factors that set its magnitude are stroke volume, the speed of ejection of the stroke volume (ventricular contraction rate), and arterial compliance — so diseases that change any of those change the pulse pressure.
+Pulse pressure is free information: every blood pressure measurement gives it instantly, and deviation from the normal 30-40 mmHg window points to specific physiology. Its magnitude is set by stroke volume, the speed of ejection of the stroke volume (ventricular contraction rate), and arterial compliance — so any disease changing one of those three changes the pulse pressure.
 
 | Condition | Mechanism (as taught) | Pulse Pressure |
 | --- | --- | --- |
-| Aortic valve stenosis | Stenotic valve → stroke volume decreases | Decreased |
-| Atherosclerosis / arterial calcification | Calcified, inflamed artery → arterial compliance decreases | Decreased |
-| Hyperthyroidism | Blood pressure increases | Increased |
-| Lying down (supine) | Central venous pressure increases → end-diastolic volume (preload) increases → stroke volume increases | Increased |
+| Aortic valve stenosis | Stenotic valve → stroke volume down | Decreased |
+| Atherosclerosis / arterial calcification | Calcified, inflamed artery → compliance down | Decreased |
+| Hyperthyroidism | Blood pressure up | Increased |
+| Lying down (supine) | CVP up → end-diastolic volume (preload) up → stroke volume up | Increased |
 
-:::correlate
-Aortic Valve Stenosis
-
-- **Pathophysiology:** Stenosis of the aortic valve **decreases stroke volume**; because pulse pressure tracks stroke volume, **pulse pressure decreases**. Aortic stenosis is also the lecture's example of an **increased afterload** state that decreases stroke volume (Slide 40).
-- **Presentation:** Low (narrow) pulse pressure on blood pressure measurement.
-- **Lecturer's Point:** One of the classic low-pulse-pressure conditions.
-:::
-
-:::correlate
-Atherosclerosis / Arterial Calcification
-
-- **Pathophysiology:** An artery undergoing calcification and inflammation has **low compliance** — its distensibility is compromised. As taught in this lecture, the decreased arterial compliance produces a **drop in pulse pressure**.
-- **Presentation:** Low pulse pressure on measurement.
-- **Lecturer's Point:** Presented alongside aortic stenosis as an example of low pulse pressure.
-:::
-
-:::correlate
-Hyperthyroidism
-
-- **Pathophysiology:** Hyperthyroidism **increases blood pressure**, which leads to an **increase in pulse pressure**.
-- **Presentation:** High (wide) pulse pressure.
-- **Lecturer's Point:** The lecture's example of an increased pulse pressure condition — pulse pressure changes are not always pathological, but this one is.
-:::
-
-- **Physiological pulse pressure change (Slide 32):** simply **lying down increases pulse pressure**: supine posture **raises central venous pressure** (venous return no longer fights gravity), which raises **end-diastolic volume — the preload**, which raises **stroke volume**, which raises pulse pressure. No disease required.
+- **Aortic valve stenosis:** the stenotic valve **decreases stroke volume**, and because pulse pressure tracks stroke volume the **pulse pressure narrows**. Aortic stenosis is also this lecture's example of an **increased afterload** state that decreases stroke volume (Slide 40).
+- **Atherosclerosis / arterial calcification:** a calcified, inflamed artery has **low compliance** — distensibility is compromised — and as taught here that **drops the pulse pressure**. Presented alongside aortic stenosis as the low-pulse-pressure pair.
+- **Hyperthyroidism:** **increases blood pressure**, which **increases pulse pressure** — the lecture's high (wide) pulse pressure disease.
+- **Physiological pulse pressure change (Slide 32):** simply **lying down increases pulse pressure**. Supine posture **raises central venous pressure** (venous return no longer fights gravity), which raises **end-diastolic volume — the preload**, which raises **stroke volume**, which raises pulse pressure. No disease required — pulse pressure changes are not always pathological.
 
 ## Central Venous Pressure (Slide 34)
 
 - **Central venous pressure (CVP):** the blood pressure in the **thoracic vena cava, near the right atrium**.
 - **Measurement:** usually **invasive** — requires placing a catheter.
-- **Normal CVP: 0-7 mmHg** — very low.
+- **Normal CVP: 0-7 mmHg**.
 - Venous pressures fall progressively as blood approaches the heart, reaching about zero near the right atrium; when standing, venous return from the feet must work against gravity.
 
 ## Two Ways to Get Cardiac Output (Slides 36-38)
 
-Learning objective 4 is about determining cardiac output from the data in front of you — and there are two routes, depending on what you are given. If you have stroke volume and heart rate, multiply. If you do not, the Fick principle rescues you using oxygen data from the labs. The lecturer stressed that knowing both, and when to use each, is very highly asked on boards.
+Learning objective 4 is determining cardiac output from the data in front of you: multiply if you have stroke volume and heart rate, or use the Fick principle with oxygen data if you do not. The lecturer stressed that knowing both, and when to use each, is very highly asked on boards.
 
 - **Physical (mechanical) calculation (Slide 37):** **CO = SV x HR** — the pump/engine view; requires testing that yields stroke volume.
 - **Fick principle (Slide 37):** **CO = O2 consumption / (arterial O2 - venous O2)** — a physiologic, cardio-pulmonary-metabolic approximation; **requires lab results**.
 - **Practice question (Slide 38):** HR 50/min; pulmonary vein O2 21 mL O2/100 mL; pulmonary artery O2 6 mL O2/100 mL; VO2 300 mL/min; SV 40 mL.
   - Physical: CO = 40 x 50 = **2,000 mL/min = 2 L/min**.
   - Fick: CO = 300 / (21 - 6 per 100 mL) = 300 / 0.15 = **2,000 mL/min** — both methods must agree.
-  - Note the sampling logic: the **pulmonary vein carries arterial (oxygenated) blood** and the **pulmonary artery carries venous blood** — a favorite trap.
-- **Student self-test (Slide 36):** HR 75, BP 110/70, SV 65 mL/beat → calculate CO (75 x 65 = 4,875 mL/min, about 4.9 L/min), MAP ((2 x 70 + 110)/3 = about 83 mmHg), and pulse pressure (110 - 70 = 40 mmHg). Left as homework along with the Slide 42 summary question (Fick CO + SVR).
+  - Sampling trap: the **pulmonary vein carries arterial (oxygenated) blood** and the **pulmonary artery carries venous blood**.
+- **Student self-test (Slide 36):** HR 75, BP 110/70, SV 65 mL/beat → CO (75 x 65 = 4,875 mL/min, about 4.9 L/min), MAP ((2 x 70 + 110)/3 = about 83 mmHg), and pulse pressure (110 - 70 = 40 mmHg). Left as homework along with the Slide 42 summary question (Fick CO + SVR).
 
 :::highyield
-Two ways to calculate cardiac output — CO = SV x HR (physical calculation, needs stroke volume) and the Fick principle, CO = O2 consumption / (arterial O2 - venous O2) (needs labs). Both give the same number. Remember: pulmonary vein O2 = the arterial value; pulmonary artery O2 = the venous value.
+Two ways to calculate cardiac output: CO = SV x HR (needs stroke volume) and the Fick principle, CO = O2 consumption / (arterial O2 - venous O2) (needs labs). Both give the same number. Pulmonary vein O2 = the arterial value; pulmonary artery O2 = the venous value.
 :::
 
 ## What Changes Cardiac Output (Slides 39-40)
 
-The last stretch of the lecture assembles the CO = HR x SV family tree: what moves heart rate, what moves stroke volume, and the three scenarios the lecturer used to make it stick — exercise, the transplanted heart, and anemia.
+The CO = HR x SV family tree: what moves heart rate, what moves stroke volume, and the three scenarios the lecturer used to make it stick — exercise, the transplanted heart, and anemia.
 
-- **Heart rate** is changed by **hormones, nerves, and physical activity**; exercise raises heart rate and therefore cardiac output.
+- **Heart rate** is changed by **hormones, nerves, and physical activity**.
 - **Alterations in the pump (Slide 39):**
   - **Exercise:** increased HR → increased CO.
-  - **Cardiac transplantation:** the transplanted heart's **nervous supply is modified during surgery** (denervated), so with exercise CO still increases — but **because stroke volume increases, NOT heart rate**.
+  - **Cardiac transplantation (denervated heart):** the transplanted heart's **nervous supply is modified during surgery**, so the usual nerve-mediated heart rate rise is unavailable. With exercise CO still increases — but **because stroke volume increases, NOT heart rate**. A favorite contrast case on boards.
   - **Anemia:** decreased viscosity, with compensatory **increased heart rate → increased cardiac output**.
 - **Stroke volume determinants (Slide 40):**
   - **Stroke volume (SV):** volume of blood ejected by the ventricle in one contraction (mL/beat) — most commonly the LV.
   - **Preload:** the degree of stretch on the myocardium at the **end of diastole** (mL) — set by the blood returning to the heart.
   - **Afterload:** the **resistance against which blood is ejected** from the heart (mmHg).
   - **Stroke volume DECREASES with:** a **decrease in preload** (less blood returns to the heart), an **increase in afterload** (e.g., **aortic stenosis** — less blood leaves the heart), and a **decrease in cardiac contractility**.
-
-:::correlate
-Cardiac Transplantation (Denervated Heart)
-
-- **Pathophysiology:** During transplant surgery the nervous supply to the heart is modified, so the usual nerve-mediated heart rate rise with exercise is unavailable.
-- **Presentation:** With exercise, cardiac output still increases — driven by an **increase in stroke volume** rather than heart rate.
-- **Lecturer's Point:** A favorite contrast case: exercise normally raises CO via heart rate, but the transplanted heart raises CO via stroke volume.
-:::
 
 :::mnemonic
 **Stroke Volume Falls — "PAC"**
@@ -291,7 +248,7 @@ Cardiac Transplantation (Denervated Heart)
 
 ## Wrap-Up and Homework (Slides 36, 42)
 
-The lecture closes with a summary question integrating everything: a patient with vitals, right atrial pressure, arterial and venous O2 contents, and O2 consumption — from which you compute cardiac output by the Fick principle and then systemic vascular resistance from (MAP - CVP)/CO. The lecturer left it (and the Slide 36 calculations) as homework and invited questions by email.
+The closing summary question integrates everything: a patient with vitals, right atrial pressure, arterial and venous O2 contents, and O2 consumption — compute cardiac output by the Fick principle, then systemic vascular resistance from (MAP - CVP)/CO. Left as homework with the Slide 36 calculations.
 `,
   "flashcards": [
     { "front": "What is hemodynamics, and which parameters does it include?", "back": "The principles that govern (drive) blood flow in the cardiovascular system: velocity, pressure, cross-sectional area, resistance, and capacitance/compliance.", "tag": "Glossary" },

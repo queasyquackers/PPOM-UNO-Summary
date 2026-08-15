@@ -1,0 +1,3080 @@
+1
+00:00:01,110 --> 00:00:03,790
+Hello everyone, welcome
+to our seventh lecture
+
+2
+00:00:03,790 --> 00:00:07,630
+on respiratory physiology
+and as a neuroscientist
+
+3
+00:00:07,630 --> 00:00:10,170
+this topic is very dear
+to my heart because
+
+4
+00:00:10,170 --> 00:00:13,830
+it is on control
+mechanisms of respiration.
+
+5
+00:00:13,830 --> 00:00:15,490
+I'm Dr. Jörg Litt Hest.
+
+6
+00:00:17,710 --> 00:00:19,850
+These session objectives are
+
+7
+00:00:19,850 --> 00:00:21,890
+consistent with the
+event description
+
+8
+00:00:22,290 --> 00:00:25,330
+which is to focus on the
+brainstem centers that
+
+9
+00:00:25,330 --> 00:00:27,950
+control respiration,
+central and peripheral
+
+10
+00:00:27,950 --> 00:00:31,110
+sensors they utilize
+and the mechanisms that
+
+11
+00:00:31,110 --> 00:00:35,010
+operate the effectors. To
+integrate this knowledge,
+
+12
+00:00:35,010 --> 00:00:37,630
+the session features
+specific situations in
+
+13
+00:00:37,630 --> 00:00:40,970
+which which respiratory
+functions have to adapt
+
+14
+00:00:40,970 --> 00:00:44,670
+to higher oxygen demand
+or lower oxygen supply.
+
+15
+00:00:47,590 --> 00:00:49,610
+This is the basic feedback
+
+16
+00:00:49,610 --> 00:00:52,170
+loop of respiratory control.
+
+17
+00:00:52,360 --> 00:00:55,570
+Let's begin with the
+sensors in the lower left.
+
+18
+00:00:55,650 --> 00:00:58,530
+There are various kinds
+of sensors that the
+
+19
+00:00:58,530 --> 00:01:01,670
+system employs. They're
+either chemoreceptors
+
+20
+00:01:01,670 --> 00:01:05,630
+that react to chemicals or
+they're mechanoreceptors
+
+21
+00:01:05,630 --> 00:01:08,610
+that react to
+stretch, for instance.
+
+22
+00:01:08,990 --> 00:01:12,710
+The peripheral
+chemoreceptors and those
+
+23
+00:01:12,710 --> 00:01:15,210
+for the respiratory
+system are found in
+
+24
+00:01:15,210 --> 00:01:20,190
+the carotid bodies or
+at the aortic arch.
+
+25
+00:01:20,370 --> 00:01:23,470
+And then there are central
+chemoreceptors which
+
+26
+00:01:23,470 --> 00:01:25,770
+are found inside the
+central nervous system.
+
+27
+00:01:26,950 --> 00:01:30,430
+The pulmonary
+mechanoreceptors are all
+
+28
+00:01:30,430 --> 00:01:33,850
+associated with structures
+of the lung itself
+
+29
+00:01:33,850 --> 00:01:40,070
+and are located within
+the thoracic cavity.
+
+30
+00:01:40,410 --> 00:01:44,390
+All of these sensors
+send information to the
+
+31
+00:01:44,390 --> 00:01:48,490
+respiratory control center,
+which is located in the
+
+32
+00:01:48,490 --> 00:01:52,090
+medulla and overlaps into
+the pons of the brainstem.
+
+33
+00:01:52,650 --> 00:01:55,150
+The respiratory control center
+
+34
+00:01:55,150 --> 00:01:57,170
+then sends out information
+
+35
+00:01:57,770 --> 00:02:03,110
+through the spinal
+cord to the effectors.
+
+36
+00:02:03,110 --> 00:02:06,370
+The effectors are the
+respiratory muscles,
+
+37
+00:02:06,620 --> 00:02:10,730
+and the largest of them is
+of course the diaphragm.
+
+38
+00:02:11,480 --> 00:02:14,070
+This slide adds a
+little more detail.
+
+39
+00:02:14,720 --> 00:02:17,470
+We can begin again
+with the receptors,
+
+40
+00:02:17,890 --> 00:02:21,570
+so that's the aphoran
+portion, so that's the portion
+
+41
+00:02:21,570 --> 00:02:25,850
+that brings information
+into the central nervous
+
+42
+00:02:25,850 --> 00:02:31,110
+system. We have peripheral
+chemoreceptors which are
+
+43
+00:02:31,110 --> 00:02:35,230
+located at the aortic arch
+or at the carotid bodies.
+
+44
+00:02:35,230 --> 00:02:39,590
+They can sense oxygen,
+carbon dioxide, and also pH.
+
+45
+00:02:39,770 --> 00:02:44,090
+This information is
+related or relayed to
+
+46
+00:02:44,090 --> 00:02:47,510
+the brainstem via
+cranial nerve 9 and 10.
+
+47
+00:02:48,050 --> 00:02:50,590
+There are central
+chemoreceptors that
+
+48
+00:02:50,590 --> 00:02:53,990
+are inside the
+brain which react to
+
+49
+00:02:53,990 --> 00:02:57,470
+pH, changes in pH
+or hydrogen ions.
+
+50
+00:02:58,320 --> 00:03:01,290
+There are lung stretch
+receptors, those are
+
+51
+00:03:01,290 --> 00:03:04,330
+mechanoreceptors that
+information is relayed
+
+52
+00:03:04,330 --> 00:03:07,070
+to the brainstem via
+cranial nerve 10.
+
+53
+00:03:08,510 --> 00:03:12,530
+And lastly, there are
+muscle and joint receptors
+
+54
+00:03:12,530 --> 00:03:17,370
+which relay information
+to the brainstem as well.
+
+55
+00:03:18,530 --> 00:03:23,690
+The key portion of the
+medullary respiratory
+
+56
+00:03:23,690 --> 00:03:27,130
+center is the dorsal
+respiratory group.
+
+57
+00:03:28,200 --> 00:03:31,170
+We're going to look at
+this more in the coming
+
+58
+00:03:31,170 --> 00:03:35,490
+slides. This group is
+influenced and functioned by
+
+59
+00:03:35,490 --> 00:03:40,030
+an apneustic center, which
+is located in the pons.
+
+60
+00:03:40,550 --> 00:03:44,090
+And this type of
+regulation is positive,
+
+61
+00:03:44,090 --> 00:03:47,930
+meaning that the
+apneustic center initiates
+
+62
+00:03:47,930 --> 00:03:51,870
+a function in the dorsal
+respiratory group.
+
+63
+00:03:52,030 --> 00:03:55,690
+In the pons, there's also
+the pneumotoxic center,
+
+64
+00:03:55,690 --> 00:04:00,190
+and the pneumotoxic
+center overall has an
+
+65
+00:04:00,190 --> 00:04:04,710
+inhibitory effect on the
+dorsal respiratory group.
+
+66
+00:04:05,270 --> 00:04:08,730
+So, depending on all of this
+interaction, Information
+
+67
+00:04:08,790 --> 00:04:12,330
+is then sent out to the
+effectors, which, for instance,
+
+68
+00:04:12,330 --> 00:04:17,670
+is the diaphragm, but also
+other respiratory muscles,
+
+69
+00:04:17,670 --> 00:04:21,130
+and this information travels
+via the phrenic nerve.
+
+70
+00:04:23,430 --> 00:04:25,850
+This image depicts
+the brainstem
+
+71
+00:04:25,850 --> 00:04:28,530
+centers that control breathing.
+
+72
+00:04:29,070 --> 00:04:33,090
+The most important of them
+is the medullary respiratory
+
+73
+00:04:33,090 --> 00:04:37,710
+center that encompasses
+various clusters of nuclei.
+
+74
+00:04:37,710 --> 00:04:40,330
+as you can see
+here. It encompasses
+
+75
+00:04:40,330 --> 00:04:42,170
+the dorsal respiratory group,
+
+76
+00:04:42,290 --> 00:04:45,690
+it encompasses the pre
+-Britzinger complex,
+
+77
+00:04:45,690 --> 00:04:48,510
+and also the ventral
+respiratory group.
+
+78
+00:04:49,030 --> 00:04:51,750
+The dorsal respiratory group,
+
+79
+00:04:53,750 --> 00:04:58,690
+abbreviated DRG
+in this lecture,
+
+80
+00:04:58,970 --> 00:05:02,080
+is involved in the
+generation of inspiration
+
+81
+00:05:02,080 --> 00:05:05,710
+and also in the setting
+of the respiratory rate.
+
+82
+00:05:06,910 --> 00:05:12,970
+This DRG works closely
+together with the pneumotaxic
+
+83
+00:05:12,970 --> 00:05:18,030
+center, which is this
+center up here in the pons,
+
+84
+00:05:18,210 --> 00:05:21,650
+which sends inhibitory signals,
+
+85
+00:05:21,950 --> 00:05:24,850
+but is also involved
+in the regulation of
+
+86
+00:05:24,850 --> 00:05:27,950
+respiratory rate. So those
+two, they work together.
+
+87
+00:05:29,830 --> 00:05:34,270
+The other respiratory
+group that we have
+
+88
+00:05:34,270 --> 00:05:35,990
+here in the
+medullary respiratory
+
+89
+00:05:35,990 --> 00:05:39,110
+center is the ventral
+respiratory group.
+
+90
+00:05:39,630 --> 00:05:42,650
+And this respiratory
+group is involved
+
+91
+00:05:42,650 --> 00:05:45,630
+in inspiration and
+also in expiration,
+
+92
+00:05:45,810 --> 00:05:51,230
+but has its main function
+in the expiratory sector.
+
+93
+00:05:52,350 --> 00:06:00,290
+This group is inactive
+during quiet breathing.
+
+94
+00:06:00,290 --> 00:06:04,350
+So when only tidal
+breathing occurs, there is
+
+95
+00:06:04,350 --> 00:06:07,010
+no firing from the
+ventral respiratory group.
+
+96
+00:06:07,230 --> 00:06:12,090
+So forced breathing
+events are different. So
+
+97
+00:06:12,090 --> 00:06:16,210
+that is when the ventral
+respiratory group engages.
+
+98
+00:06:16,210 --> 00:06:19,510
+So forced inspiration
+or forced expiration.
+
+99
+00:06:20,830 --> 00:06:24,950
+The pre-Bertzinger
+complex is also involved
+
+100
+00:06:24,950 --> 00:06:28,110
+in rhythm generation,
+so it also works
+
+101
+00:06:28,110 --> 00:06:31,440
+together with the dorsal
+respiratory group by
+
+102
+00:06:31,830 --> 00:06:36,110
+inhibiting dorsal
+respiratory group neurons.
+
+103
+00:06:37,620 --> 00:06:41,950
+Lastly, we have the
+apneustic center, and
+
+104
+00:06:41,950 --> 00:06:46,910
+the apneustic center
+sends positive signals to
+
+105
+00:06:46,910 --> 00:06:50,090
+the dorsal respiratory
+group. and by doing
+
+106
+00:06:50,090 --> 00:06:54,370
+that it controls
+breathing intensity so for
+
+107
+00:06:54,370 --> 00:06:57,870
+instance it controls
+the depth of breathing
+
+108
+00:07:00,730 --> 00:07:06,070
+now all of these centers
+they operate in reaction
+
+109
+00:07:06,070 --> 00:07:11,330
+to central chemoreceptors
+so central chemoreceptors
+
+110
+00:07:11,330 --> 00:07:13,830
+are involved in minute
+-to-minute breathing.
+
+111
+00:07:14,090 --> 00:07:20,790
+So that's the basic function
+of the respiratory system,
+
+112
+00:07:20,790 --> 00:07:24,510
+the basic tidal function
+of the respiratory system.
+
+113
+00:07:24,750 --> 00:07:30,730
+These sensors are nearby
+the dorsal respiratory
+
+114
+00:07:30,730 --> 00:07:33,330
+group. The dorsal respiratory
+group would just be
+
+115
+00:07:33,330 --> 00:07:36,210
+on the other side here. So
+this, of course, depicts
+
+116
+00:07:36,210 --> 00:07:39,930
+the medulla and the
+sensors in an area of the
+
+117
+00:07:39,930 --> 00:07:43,330
+medulla that's called the
+ventrolateral medulla.
+
+118
+00:07:43,330 --> 00:07:48,010
+And there's a rostral,
+almost forward cluster,
+
+119
+00:07:48,010 --> 00:07:52,690
+an intermediate one, and
+a caudate receptor area.
+
+120
+00:07:54,630 --> 00:07:57,830
+The most important
+of the chemoreceptors
+
+121
+00:07:57,830 --> 00:08:00,230
+are the central chemoreceptors,
+
+122
+00:08:00,560 --> 00:08:04,810
+and they can sense the
+pH of the cerebrospinal
+
+123
+00:08:04,810 --> 00:08:09,370
+fluid directly and carbon
+dioxide indirectly.
+
+124
+00:08:09,610 --> 00:08:12,890
+And I will take you
+through now how this works.
+
+125
+00:08:13,970 --> 00:08:17,750
+So for instance, if
+there's a buildup of
+
+126
+00:08:17,750 --> 00:08:21,730
+CO2 in capillary blood
+going to the brain,
+
+127
+00:08:21,730 --> 00:08:25,490
+then the CO2, because
+it's lipophilic,
+
+128
+00:08:25,710 --> 00:08:26,970
+can diffuse
+
+129
+00:08:27,250 --> 00:08:30,850
+into the medulla,
+and from there
+
+130
+00:08:30,850 --> 00:08:32,770
+into the cerebrospinal fluid.
+
+131
+00:08:35,010 --> 00:08:39,930
+There, it joins the
+bicarbonate buffer system on
+
+132
+00:08:39,930 --> 00:08:42,550
+the other side. As you
+can see here, it has just
+
+133
+00:08:42,550 --> 00:08:46,170
+left the bicarbonate buffer
+system on the capillary
+
+134
+00:08:46,170 --> 00:08:50,930
+end, and it rejoins the
+bicarbonate buffer system
+
+135
+00:08:50,930 --> 00:08:54,710
+on the cerebrospinal
+fluid end. And if there's
+
+136
+00:08:54,710 --> 00:08:57,870
+a lot of CO2, then that
+pushes the conversion
+
+137
+00:08:57,870 --> 00:09:04,490
+towards carbonic acid and
+lastly, bicarbonate. And
+
+138
+00:09:04,490 --> 00:09:08,870
+when bicarbonate forms,
+then a hydrogen ion is
+
+139
+00:09:08,870 --> 00:09:12,610
+dissociated, and that is the
+hydrogen that's sensed by
+
+140
+00:09:12,610 --> 00:09:16,770
+the central chemoreceptors.
+So, in other words,
+
+141
+00:09:17,030 --> 00:09:20,670
+a buildup of carbon
+dioxide, for instance,
+
+142
+00:09:20,670 --> 00:09:25,610
+through increased activity,
+will result in the
+
+143
+00:09:25,610 --> 00:09:29,110
+formation or in the
+dissociation of carbonic
+
+144
+00:09:29,110 --> 00:09:32,890
+acid and the formation
+of hydrogen ions, which
+
+145
+00:09:32,890 --> 00:09:35,280
+can be sensed by the
+central chemoreceptors.
+
+146
+00:09:35,900 --> 00:09:40,790
+Upon sensing a lower pH,
+which is what this is,
+
+147
+00:09:40,990 --> 00:09:44,450
+the central chemoreceptors
+will release serotonin,
+
+148
+00:09:44,450 --> 00:09:48,490
+that's a neurotransmitter
+that these neurons use,
+
+149
+00:09:48,850 --> 00:09:54,870
+which will travel to the
+inspiratory center, the DRG,
+
+150
+00:09:55,010 --> 00:09:58,690
+which will then elicit
+hyperventilation in
+
+151
+00:09:58,690 --> 00:10:02,650
+response to high CO2
+levels. and hyperventilation
+
+152
+00:10:02,650 --> 00:10:05,530
+is defined as the
+increase of breathing
+
+153
+00:10:05,530 --> 00:10:09,670
+frequency and volume. So
+this makes total sense.
+
+154
+00:10:09,670 --> 00:10:12,560
+We have a lot of activity,
+a buildup of CO2,
+
+155
+00:10:12,850 --> 00:10:16,270
+the central chemoreceptors
+sense a lower pH,
+
+156
+00:10:16,550 --> 00:10:20,570
+and then sending
+information via serotonin
+
+157
+00:10:20,570 --> 00:10:25,090
+to the DRG, which
+then increases the
+
+158
+00:10:25,090 --> 00:10:27,190
+frequency and the
+volume of breathing.
+
+159
+00:10:27,990 --> 00:10:29,810
+Just as a remark,
+
+160
+00:10:29,970 --> 00:10:34,170
+the expiratory center in
+the ventral respiratory
+
+161
+00:10:34,170 --> 00:10:38,430
+group uses GABA as
+the neurotransmitter.
+
+162
+00:10:41,990 --> 00:10:43,990
+So we already talked about
+
+163
+00:10:43,990 --> 00:10:45,890
+the peripheral chemoreceptors.
+
+164
+00:10:46,350 --> 00:10:53,650
+They are sensitive to three
+chemicals or gases, to
+
+165
+00:10:53,650 --> 00:10:57,310
+oxygen of course, carbon
+dioxide, and also hydrogen
+
+166
+00:10:57,310 --> 00:11:00,990
+ions. And as I mentioned
+before, they can be either
+
+167
+00:11:00,990 --> 00:11:05,910
+located in the carotid
+bodies or they can be found
+
+168
+00:11:05,910 --> 00:11:10,650
+in the aortic arch, in the
+so-called aortic bodies.
+
+169
+00:11:11,670 --> 00:11:13,290
+Depending on where they are.
+
+170
+00:11:14,490 --> 00:11:17,270
+There are different
+cranial nerves that pick up
+
+171
+00:11:17,270 --> 00:11:22,010
+this information and sent
+this to the brainstem. The
+
+172
+00:11:22,010 --> 00:11:24,090
+information that comes
+from the aortic bodies
+
+173
+00:11:24,090 --> 00:11:26,670
+travels through the vagus
+nerve, that's cranial nerve
+
+174
+00:11:26,670 --> 00:11:31,730
+10 of course, and the
+sensor information that
+
+175
+00:11:31,730 --> 00:11:35,010
+originates from the
+carotid bodies travels via
+
+176
+00:11:35,010 --> 00:11:38,830
+cranial nerve 9 which is
+the glossopharyngeal nerve.
+
+177
+00:11:40,650 --> 00:11:43,330
+So what do they really sense
+
+178
+00:11:43,370 --> 00:11:45,770
+and how about
+their sensitivity?
+
+179
+00:11:46,310 --> 00:11:51,530
+So the oxygen by these
+peripheral chemoreceptors
+
+180
+00:11:52,990 --> 00:11:56,730
+has to be very low to
+be sensed by them. So
+
+181
+00:11:56,730 --> 00:11:59,550
+actually the partial
+pressure of oxygen has
+
+182
+00:11:59,550 --> 00:12:03,650
+to be equal or less to
+60 millimeters mercury
+
+183
+00:12:03,650 --> 00:12:06,970
+in order to be sensed
+and elicit a response.
+
+184
+00:12:07,890 --> 00:12:13,670
+The CO2 sensors, they're
+actually less dominant
+
+185
+00:12:13,670 --> 00:12:17,470
+in the periphery because
+we already have a very
+
+186
+00:12:17,470 --> 00:12:21,670
+dominant system that
+senses CO2 indirectly that
+
+187
+00:12:21,670 --> 00:12:24,890
+we just went over in the
+central nervous system.
+
+188
+00:12:26,750 --> 00:12:31,180
+Another thing that's
+noteworthy is that the pH can
+
+189
+00:12:31,190 --> 00:12:35,310
+only be sensed by the
+carotid bodies, because there
+
+190
+00:12:35,310 --> 00:12:39,630
+are no sensors for hydrogen
+ions in the aortic arch.
+
+191
+00:12:40,930 --> 00:12:43,410
+Now, there are other
+types of peripheral
+
+192
+00:12:43,410 --> 00:12:47,090
+receptors that can alter
+breathing. They're,
+
+193
+00:12:47,090 --> 00:12:49,230
+for instance, the
+irritant receptors.
+
+194
+00:12:49,610 --> 00:12:55,910
+They are mainly located
+in the trachea or at the
+
+195
+00:12:55,910 --> 00:12:58,390
+bifurcation of the main
+bronchi, as you can see
+
+196
+00:12:58,390 --> 00:13:02,490
+here. They can react to
+certain chemicals, to dust,
+
+197
+00:13:02,690 --> 00:13:07,530
+to cold air, and their
+role is to clear this area
+
+198
+00:13:07,530 --> 00:13:09,810
+and make sure that
+nothing dislodges further
+
+199
+00:13:09,810 --> 00:13:14,530
+down the respiratory tree.
+In order to do so, their
+
+200
+00:13:14,530 --> 00:13:17,770
+excitation will make us
+cough, and it will also
+
+201
+00:13:17,770 --> 00:13:21,710
+cause bronchoconstriction
+to squeeze stuff out.
+
+202
+00:13:23,310 --> 00:13:26,470
+Then there are muscle
+and joint receptors,
+
+203
+00:13:26,730 --> 00:13:29,410
+and they are mainly found
+
+204
+00:13:29,410 --> 00:13:31,670
+in the muscles of the chest.
+
+205
+00:13:33,030 --> 00:13:39,210
+They sense muscle tension
+and thereby they affect
+
+206
+00:13:39,210 --> 00:13:42,030
+breathing. So it's
+like a sensory feedback
+
+207
+00:13:42,080 --> 00:13:45,950
+that tells our brainstem
+and the respiratory
+
+208
+00:13:45,950 --> 00:13:51,770
+center in there, much about
+the state of breathing
+
+209
+00:13:51,770 --> 00:13:55,870
+based on muscle function
+or muscle tension.
+
+210
+00:13:58,750 --> 00:14:02,770
+There are stretch receptors
+and they are mainly
+
+211
+00:14:02,770 --> 00:14:09,570
+found in the larger bronchi
+and as you can see here,
+
+212
+00:14:10,080 --> 00:14:16,890
+and bronchioles, and they
+sense lung inflation.
+
+213
+00:14:17,410 --> 00:14:22,070
+And the effect of
+their sensation is to
+
+214
+00:14:22,830 --> 00:14:28,110
+stop further inflammation
+of the lungs,
+
+215
+00:14:28,110 --> 00:14:31,110
+so they terminate
+inflation of the lungs.
+
+216
+00:14:31,410 --> 00:14:34,870
+Now, this function is part
+of a reflex that's been
+
+217
+00:14:34,870 --> 00:14:38,810
+very well studied and is
+known as the herring borough
+
+218
+00:14:38,810 --> 00:14:43,150
+inflation reflex. So
+that reflex that utilizes
+
+219
+00:14:43,150 --> 00:14:47,530
+these stretch receptors
+basically inhibits overinflation
+
+220
+00:14:47,530 --> 00:14:50,530
+of our lungs because
+the tissues are very
+
+221
+00:14:50,530 --> 00:14:54,010
+fragile and overinflation
+would cause a lot of damage.
+
+222
+00:14:56,770 --> 00:15:00,950
+Then lastly, there are
+so-called J receptors.
+
+223
+00:15:01,770 --> 00:15:06,630
+They are further down the
+respiratory tree at the site
+
+224
+00:15:06,630 --> 00:15:11,950
+of the alveoli and ducts
+leading into the alveoli.
+
+225
+00:15:12,070 --> 00:15:15,990
+J stands for
+juxtacapillary receptors.
+
+226
+00:15:15,990 --> 00:15:19,130
+They can sense
+chemicals, stretch,
+
+227
+00:15:19,190 --> 00:15:22,490
+and also they react
+pulmonary edema.
+
+228
+00:15:22,680 --> 00:15:27,470
+And once they get
+activated, they affect us to
+
+229
+00:15:27,470 --> 00:15:30,810
+shallow breathing to
+prevent damage to those
+
+230
+00:15:30,810 --> 00:15:33,990
+structures. They will lead
+to bronchoconstriction
+
+231
+00:15:33,990 --> 00:15:36,900
+for the same reason,
+and also mucous
+
+232
+00:15:36,900 --> 00:15:40,540
+secretion. So these are
+all defensive activities
+
+233
+00:15:40,670 --> 00:15:45,750
+that the sensation of
+these receptors elicit.
+
+234
+00:15:46,050 --> 00:15:48,930
+It's believed, it's
+not been conclusively
+
+235
+00:15:48,930 --> 00:15:52,550
+shown yet, but that
+activation of the J receptors
+
+236
+00:15:52,550 --> 00:15:55,370
+is actually the main
+reason for dyspnea
+
+237
+00:15:55,370 --> 00:15:58,350
+in patients with left
+-sided heart failure.
+
+238
+00:16:02,390 --> 00:16:06,050
+Here are some breathing
+patterns that I
+
+239
+00:16:06,050 --> 00:16:08,890
+would like you to
+familiarize yourselves with.
+
+240
+00:16:08,890 --> 00:16:11,730
+I'm not going to read
+this whole table,
+
+241
+00:16:11,990 --> 00:16:15,000
+but there are a few things
+
+242
+00:16:15,000 --> 00:16:17,810
+that I would like to point out.
+
+243
+00:16:17,930 --> 00:16:23,390
+So there's hypnea which is
+indicates normal breathing
+
+244
+00:16:23,390 --> 00:16:27,030
+and normal breathing
+pattern to you have already
+
+245
+00:16:27,030 --> 00:16:31,470
+heard about text tachypnea
+which is indicates
+
+246
+00:16:31,470 --> 00:16:36,190
+increased respiratory rate
+bradypnea which indicates
+
+247
+00:16:36,190 --> 00:16:40,590
+the opposite a decreased
+respiratory rate apnea
+
+248
+00:16:40,590 --> 00:16:44,890
+means the absence of
+breathing hyperpnea means
+
+249
+00:16:44,890 --> 00:16:48,850
+normal weight but deep
+respirations, and so forth. So
+
+250
+00:16:48,850 --> 00:16:53,710
+you can follow the breathing
+patterns that go with
+
+251
+00:16:53,710 --> 00:16:56,710
+each of these conditions
+on the left-hand side.
+
+252
+00:16:57,050 --> 00:17:03,450
+The description will tell
+you what they are and
+
+253
+00:17:03,450 --> 00:17:06,010
+will define them, and
+here on the right you
+
+254
+00:17:06,010 --> 00:17:11,050
+have a list of causes or
+conditions that elicit
+
+255
+00:17:11,050 --> 00:17:14,510
+those breathing patterns,
+and this will become
+
+256
+00:17:14,510 --> 00:17:18,150
+very important for the
+clinical portion or the
+
+257
+00:17:18,150 --> 00:17:20,630
+clinical coverage of
+the respiratory system.
+
+258
+00:17:21,990 --> 00:17:27,510
+By keeping in mind the
+regulation of the respiratory
+
+259
+00:17:27,510 --> 00:17:30,700
+system, the brainstem
+centers that are involved
+
+260
+00:17:30,700 --> 00:17:34,090
+and the sensors and what they
+sense, we can now explore
+
+261
+00:17:34,090 --> 00:17:38,130
+what happens during
+activities such as exercise.
+
+262
+00:17:38,790 --> 00:17:40,990
+So exercise, of course,
+
+263
+00:17:42,250 --> 00:17:45,390
+utilizes large
+muscles, which means
+
+264
+00:17:45,390 --> 00:17:47,570
+that oxygen
+consumption goes up,
+
+265
+00:17:48,050 --> 00:17:51,670
+carbon dioxide production
+goes up, and as a response
+
+266
+00:17:51,670 --> 00:17:54,650
+of the central chemoreceptors
+that we looked at,
+
+267
+00:17:54,850 --> 00:17:57,310
+also ventilation
+is upregulated.
+
+268
+00:17:57,770 --> 00:18:02,670
+Now what does this mean in
+terms of arterial blood?
+
+269
+00:18:02,670 --> 00:18:07,170
+Well, for the most part,
+there is no change in the
+
+270
+00:18:07,170 --> 00:18:11,090
+partial pressure of oxygen,
+carbon dioxide, and pH.
+
+271
+00:18:11,270 --> 00:18:12,990
+So these two, carbon dioxide
+
+272
+00:18:12,990 --> 00:18:14,470
+and pH, they go together.
+
+273
+00:18:14,730 --> 00:18:17,690
+In certain extreme
+cases of exercise,
+
+274
+00:18:17,690 --> 00:18:19,350
+the pH can drop a little bit.
+
+275
+00:18:20,290 --> 00:18:24,030
+What happens to venous
+blood? Well, venous blood,
+
+276
+00:18:24,690 --> 00:18:27,910
+because of the
+increased consumption of
+
+277
+00:18:27,910 --> 00:18:33,530
+energy and the production
+of carbon dioxide,
+
+278
+00:18:34,170 --> 00:18:36,850
+the venous partial pressure of
+
+279
+00:18:36,850 --> 00:18:38,910
+carbon dioxide of
+course goes up.
+
+280
+00:18:39,330 --> 00:18:42,370
+So how does the system react in
+
+281
+00:18:42,370 --> 00:18:44,050
+terms of pulmonary blood flow?
+
+282
+00:18:44,530 --> 00:18:47,870
+Well as a result of all of
+this, the cardiac output
+
+283
+00:18:47,870 --> 00:18:51,010
+goes up because there is an
+increased demand of oxygen
+
+284
+00:18:51,010 --> 00:18:55,810
+and an increased demand
+for carbon dioxide removal
+
+285
+00:18:55,860 --> 00:18:59,580
+so the amount of blood
+that hits the lungs for
+
+286
+00:19:00,900 --> 00:19:04,750
+reoxygenation and carbon dioxide
+removal needs to be increased
+
+287
+00:19:04,750 --> 00:19:08,050
+and that's exactly what
+happens here so the
+
+288
+00:19:08,050 --> 00:19:12,690
+ventilation rate goes up from
+six or six to seven and a
+
+289
+00:19:12,690 --> 00:19:16,970
+half liters depends on the
+text, to over 120 liters
+
+290
+00:19:16,970 --> 00:19:24,810
+per minute to facilitate
+this and provide homeostasis
+
+291
+00:19:26,310 --> 00:19:27,810
+in the blood.
+
+292
+00:19:28,870 --> 00:19:33,150
+Then increased cardiac
+output, of course,
+
+293
+00:19:33,490 --> 00:19:37,110
+is followed by increased
+pulmonary blood flow. Remember
+
+294
+00:19:37,110 --> 00:19:40,930
+that both systemic and
+pulmonary circulation move the
+
+295
+00:19:40,930 --> 00:19:45,150
+same amount blood and also
+as a result the ventilation
+
+296
+00:19:45,150 --> 00:19:51,570
+to perfusion ratio is more
+even across the lungs and
+
+297
+00:19:51,570 --> 00:19:55,410
+that is mainly achieved by
+cutting out dead space so
+
+298
+00:19:55,410 --> 00:19:58,590
+there were poorly ventilated
+areas at rest for instance
+
+299
+00:19:58,590 --> 00:20:04,090
+where ventilation was not
+good and as a result through
+
+300
+00:20:04,090 --> 00:20:08,390
+hypoxic vasoconstriction
+also blood supply was shifted
+
+301
+00:20:08,390 --> 00:20:12,650
+to other areas. Now, when
+the demand is that high,
+
+302
+00:20:12,980 --> 00:20:18,830
+the ventilation to perfusion
+ratio is very even across
+
+303
+00:20:18,830 --> 00:20:21,790
+the entire lungs, and there's
+literally no dead space.
+
+304
+00:20:24,450 --> 00:20:27,750
+Another way to facilitate
+this high level
+
+305
+00:20:27,750 --> 00:20:32,970
+of activity is to shift
+the oxygen hemoglobin
+
+306
+00:20:33,120 --> 00:20:36,010
+dissociation curve.
+You can see it here.
+
+307
+00:20:36,010 --> 00:20:38,850
+As a result, we
+experience a right shift.
+
+308
+00:20:42,150 --> 00:20:47,770
+So right shift in this
+case means that it gets
+
+309
+00:20:47,770 --> 00:20:53,910
+easier for oxygen to be
+unloaded so the affinity
+
+310
+00:20:53,910 --> 00:21:01,070
+for oxygen goes down and
+the p50 value goes up.
+
+311
+00:21:05,920 --> 00:21:08,940
+Another condition where
+the respiratory system
+
+312
+00:21:08,940 --> 00:21:12,600
+has to go to extreme
+lengths to ensure
+
+313
+00:21:12,600 --> 00:21:16,860
+homeostasis is the
+adaption to high altitude.
+
+314
+00:21:17,700 --> 00:21:19,800
+So I looked it up and
+
+315
+00:21:20,240 --> 00:21:23,060
+you already know that the
+partial pressure for oxygen
+
+316
+00:21:23,060 --> 00:21:26,660
+where we live is around
+160 millimeters mercury.
+
+317
+00:21:26,820 --> 00:21:30,200
+On Mount Everest it's only 47.
+
+318
+00:21:30,540 --> 00:21:34,080
+So that's a severe
+reduction which of
+
+319
+00:21:34,080 --> 00:21:38,340
+course comes with
+hypoxic vasoconstriction,
+
+320
+00:21:38,340 --> 00:21:41,750
+and if not controlled,
+can lead to death.
+
+321
+00:21:43,440 --> 00:21:45,840
+High altitude sickness comes
+
+322
+00:21:45,840 --> 00:21:48,800
+with these signs and symptoms,
+
+323
+00:21:48,940 --> 00:21:50,660
+so headache, fatigue,
+
+324
+00:21:50,660 --> 00:21:55,320
+dizziness, nausea,
+palpitations, and insomnia are
+
+325
+00:21:55,620 --> 00:22:01,380
+most frequently reported.
+again this whole situation
+
+326
+00:22:01,380 --> 00:22:07,020
+is due to the decreased
+atmospheric pressure and
+
+327
+00:22:07,020 --> 00:22:10,760
+the decreased availability
+of oxygen in the inspired
+
+328
+00:22:10,760 --> 00:22:14,960
+air which leads to a reduced
+alveolar partial pressure
+
+329
+00:22:14,960 --> 00:22:21,380
+of oxygen well we kind
+of already covered the
+
+330
+00:22:21,380 --> 00:22:26,380
+cause for pulmonary epoxic
+vasoconstriction so what
+
+331
+00:22:26,380 --> 00:22:30,600
+happens to ventilation well
+of course in this situation
+
+332
+00:22:30,600 --> 00:22:34,220
+the system is trying to
+get to more oxygen so
+
+333
+00:22:34,220 --> 00:22:38,160
+the ventilation rate remember
+the dot means rate goes
+
+334
+00:22:38,160 --> 00:22:43,060
+up leading to hyperventilation
+at least initially
+
+335
+00:22:43,060 --> 00:22:47,120
+and the trigger for this
+is a partial pressure of
+
+336
+00:22:47,120 --> 00:22:52,840
+oxygen of equal or less
+than 60 millimeters mercury
+
+337
+00:22:59,080 --> 00:23:04,600
+So hyperventilation blows
+off a lot of carbon dioxide
+
+338
+00:23:04,600 --> 00:23:08,940
+so you can see if
+hyperventilation removes this
+
+339
+00:23:08,940 --> 00:23:13,340
+carbon dioxide and as a
+result this entire bicarbonate
+
+340
+00:23:13,340 --> 00:23:19,460
+buffer system shifts to
+the left therefore so these
+
+341
+00:23:19,460 --> 00:23:23,500
+components become less
+and less and more CO2 is
+
+342
+00:23:23,500 --> 00:23:27,080
+being blown off and as a
+result this hydrogen ion goes
+
+343
+00:23:27,080 --> 00:23:31,980
+away, leaving the body in
+a respiratory alkalosis.
+
+344
+00:23:32,630 --> 00:23:36,000
+So that's one of the things
+that can happen, plus the
+
+345
+00:23:36,000 --> 00:23:38,680
+partial pressure of oxygen,
+of course, still remains
+
+346
+00:23:38,680 --> 00:23:41,980
+reduced because of the low
+concentration in the air.
+
+347
+00:23:42,320 --> 00:23:44,920
+This alkalosis can be treated.
+
+348
+00:23:45,120 --> 00:23:48,200
+Here's one of the
+drugs that can be used.
+
+349
+00:23:49,740 --> 00:23:50,780
+Zetazolamide.
+
+350
+00:23:51,720 --> 00:23:55,720
+Zetazolamide inhibits
+carbonic anhydrase. So when
+
+351
+00:23:55,720 --> 00:23:58,980
+this is given, this part
+of the bicarbonate buffer
+
+352
+00:23:58,980 --> 00:24:04,480
+system cannot turn into
+water and be blown off as
+
+353
+00:24:04,480 --> 00:24:08,280
+carbon dioxide, which kind
+of counterbalances the
+
+354
+00:24:08,280 --> 00:24:11,520
+respiratory alkalosis that
+would be observed otherwise.
+
+355
+00:24:12,810 --> 00:24:15,640
+So what happens to
+pulmonary blood flow.
+
+356
+00:24:15,640 --> 00:24:19,180
+Of course, pulmonary
+blood flow increases.
+
+357
+00:24:19,900 --> 00:24:24,780
+That increase can be
+significant and therefore
+
+358
+00:24:24,780 --> 00:24:28,180
+can significantly increase
+pulmonary resistance.
+
+359
+00:24:28,740 --> 00:24:31,720
+That requires the
+pulmonary artery
+
+360
+00:24:31,720 --> 00:24:33,400
+to go in with more pressure.
+
+361
+00:24:33,640 --> 00:24:38,720
+And if this situation
+ensues or persists
+
+362
+00:24:38,720 --> 00:24:41,800
+for a longer amount of
+time, then hypertrophy
+
+363
+00:24:41,800 --> 00:24:44,860
+of the right ventricle
+that pumps blood
+
+364
+00:24:45,080 --> 00:24:48,300
+into the pulmonary
+circulation can ensue.
+
+365
+00:24:49,400 --> 00:24:51,180
+In this situation,
+
+366
+00:24:51,460 --> 00:24:56,420
+the oxygen hemoglobin
+dissociation curve shifts to
+
+367
+00:24:56,420 --> 00:25:00,820
+the right. So once again,
+it ensures that oxygen
+
+368
+00:25:00,820 --> 00:25:04,440
+bound to hemoglobin becomes
+more readily available.
+
+369
+00:25:04,440 --> 00:25:09,340
+It does that in responds
+to increased 2,3-DPG.
+
+370
+00:25:10,400 --> 00:25:16,280
+Remember, that is an
+intermediate of glycolysis.
+
+371
+00:25:16,280 --> 00:25:20,760
+And if you also remember
+that glycolysis is anaerobic,
+
+372
+00:25:20,760 --> 00:25:27,860
+so glycolysis works
+without oxygen, then it's
+
+373
+00:25:27,860 --> 00:25:33,080
+easy to imagine why a 2,3
+-DPG goes up under hypoxic
+
+374
+00:25:33,080 --> 00:25:36,500
+conditions. So it's just
+a way for the body to make
+
+375
+00:25:37,120 --> 00:25:42,540
+extra energy under
+slightly anaerobic, or I
+
+376
+00:25:42,540 --> 00:25:45,200
+should not say anaerobic,
+but hypoxic conditions.
+
+377
+00:25:45,200 --> 00:25:47,940
+So because glycolysis
+is upregulated,
+
+378
+00:25:47,940 --> 00:25:52,920
+we see more 2,3-DPG
+under hypoxic conditions.
+
+379
+00:25:53,180 --> 00:25:56,600
+So once again, the
+P50 goes up, and as a
+
+380
+00:25:56,600 --> 00:25:58,320
+result of the right
+shift, as I already
+
+381
+00:25:58,320 --> 00:26:01,860
+said, the affinity
+for oxygen goes down.
+
+382
+00:26:03,380 --> 00:26:08,860
+So this decreased partial
+pressure of oxygen leads to
+
+383
+00:26:08,860 --> 00:26:15,420
+hypoxia and the kidney and
+in some cases to a smaller
+
+384
+00:26:15,420 --> 00:26:19,040
+degree the liver they can
+sense this. They produce the
+
+385
+00:26:19,040 --> 00:26:24,740
+glycohormone erythropoietin
+And then erythropoietin
+
+386
+00:26:24,740 --> 00:26:29,300
+leads to a condition of
+polycythemia at high altitude,
+
+387
+00:26:29,300 --> 00:26:35,020
+and that is the increased
+abundance of red blood cells.
+
+388
+00:26:37,430 --> 00:26:40,100
+Now, that's a good
+thing in terms
+
+389
+00:26:40,100 --> 00:26:44,140
+of the oxygen
+carrying capacity.
+
+390
+00:26:44,170 --> 00:26:48,220
+It's a bad thing because
+blood that has abnormally
+
+391
+00:26:48,220 --> 00:26:52,200
+high levels of red blood
+cells is also more viscous.
+
+392
+00:26:52,500 --> 00:26:57,220
+and also makes it
+more difficult to
+
+393
+00:26:57,220 --> 00:27:00,120
+sustain or facilitate
+pulmonary blood flow.
+
+394
+00:27:00,300 --> 00:27:03,700
+So there has to be a balance
+between the two of them.
+
+395
+00:27:06,100 --> 00:27:08,680
+In the next two slides,
+we're going to explore
+
+396
+00:27:08,680 --> 00:27:12,200
+the difference between
+hypoxemia and hypoxia and
+
+397
+00:27:12,200 --> 00:27:15,120
+look at some details. The
+general difference between
+
+398
+00:27:15,120 --> 00:27:18,200
+the two of them is that
+hypoxemia indicates a
+
+399
+00:27:18,200 --> 00:27:21,640
+low partial pressure of
+oxygen in arterial blood,
+
+400
+00:27:21,640 --> 00:27:25,980
+and hypoxia indicates low
+partial pressure in the
+
+401
+00:27:25,980 --> 00:27:31,840
+tissues. So hypoxemia
+can cause hypoxia, but
+
+402
+00:27:31,840 --> 00:27:35,790
+there are also other
+reasons for hypoxia than
+
+403
+00:27:35,790 --> 00:27:38,900
+hypoxemia. So that's the
+best way of looking at both.
+
+404
+00:27:39,580 --> 00:27:42,380
+So at high altitude,
+let's start with our first
+
+405
+00:27:42,380 --> 00:27:46,380
+example. We have a low
+partial pressure of
+
+406
+00:27:46,380 --> 00:27:50,480
+oxygen in the air that leads
+to low partial pressure
+
+407
+00:27:50,480 --> 00:27:54,480
+of inspired oxygen.
+And as a result, the
+
+408
+00:27:54,480 --> 00:27:57,340
+partial pressure of arterial
+oxygen is decreased.
+
+409
+00:27:58,020 --> 00:28:05,640
+The alveolar to arterial
+oxygen gradient is normal
+
+410
+00:28:05,640 --> 00:28:09,980
+because the diffusion is
+not the problem here it's a
+
+411
+00:28:09,980 --> 00:28:13,820
+diffusion gradient so there's
+too little in air and that
+
+412
+00:28:13,820 --> 00:28:16,400
+causes the problem but
+diffusion is fine so therefore
+
+413
+00:28:16,400 --> 00:28:20,500
+the gradient is okay
+therefore supplemental oxygen
+
+414
+00:28:20,500 --> 00:28:26,960
+is helpful because it
+increases this capital a which
+
+415
+00:28:26,960 --> 00:28:30,240
+is alveolar oxygen content
+it'll increase the driving
+
+416
+00:28:30,240 --> 00:28:34,080
+force of oxygen into the
+system and remedy the issue.
+
+417
+00:28:35,220 --> 00:28:37,860
+Hypoventilation can cause a
+
+418
+00:28:37,860 --> 00:28:39,940
+low partial pressure of oxygen.
+
+419
+00:28:41,080 --> 00:28:44,120
+Yeah, so in hyperventilation,
+the partial pressure
+
+420
+00:28:44,120 --> 00:28:49,620
+of oxygen is decreased. Also
+here, the gradient between
+
+421
+00:28:49,620 --> 00:28:54,180
+alveolar and arterial
+oxygen is normal because
+
+422
+00:28:54,180 --> 00:28:58,880
+once again the issue is
+not the diffusion the issue
+
+423
+00:28:58,880 --> 00:29:02,940
+is not enough breathing
+going on to bring in enough
+
+424
+00:29:02,940 --> 00:29:08,620
+oxygen and for the reason
+of there not being a
+
+425
+00:29:08,620 --> 00:29:13,380
+physical barrier also supplemental
+oxygen is helpful then
+
+426
+00:29:14,240 --> 00:29:18,140
+next we have diffusion
+defects such as fibrosis
+
+427
+00:29:18,140 --> 00:29:23,240
+so fibrosis is indicative
+of extra fibrotic tissue,
+
+428
+00:29:23,240 --> 00:29:29,920
+so that increases the
+diffusion distance for oxygen
+
+429
+00:29:29,920 --> 00:29:34,620
+from alveolar into arterial
+blood. For that reason,
+
+430
+00:29:34,880 --> 00:29:36,980
+the AA gradient is increased.
+
+431
+00:29:37,400 --> 00:29:40,700
+Also here, supplemental
+oxygen is helpful.
+
+432
+00:29:40,700 --> 00:29:44,480
+It maxes out the
+driving force of oxygen
+
+433
+00:29:44,480 --> 00:29:47,980
+into the system, and
+that's what it'll do.
+
+434
+00:29:50,700 --> 00:29:54,480
+Hypoxemia due to ventilation
+to perfusion defect
+
+435
+00:29:54,670 --> 00:30:00,940
+can also lead to low
+arterial oxygen content.
+
+436
+00:30:01,260 --> 00:30:05,700
+An example would be zone
+of west number one, so at
+
+437
+00:30:05,700 --> 00:30:09,660
+the apex of the lung, where
+we have a lot of ventilation
+
+438
+00:30:09,660 --> 00:30:14,040
+and not enough perfusion,
+and that would be an
+
+439
+00:30:14,040 --> 00:30:19,520
+example. So also here, the
+AA gradient is increased
+
+440
+00:30:21,290 --> 00:30:25,920
+because the system, there's
+a barrier in the system
+
+441
+00:30:25,920 --> 00:30:29,140
+that prevents the oxygen
+from going from one
+
+442
+00:30:29,140 --> 00:30:33,930
+compartment, which is the
+alveolus, into the arterial
+
+443
+00:30:33,930 --> 00:30:38,660
+system. And also here to
+increase the driving force,
+
+444
+00:30:38,670 --> 00:30:42,940
+supplemental oxygen is helpful.
+And then a few lectures
+
+445
+00:30:42,940 --> 00:30:46,560
+back, we looked at right
+to left shunt that also
+
+446
+00:30:46,560 --> 00:30:51,080
+leads to decreased oxygen
+content in arterial blood
+
+447
+00:30:51,190 --> 00:30:55,960
+mainly because a
+mixing of oxygen poor
+
+448
+00:30:55,960 --> 00:30:59,740
+with freshly oxygenated
+blood is going on
+
+449
+00:31:00,470 --> 00:31:06,000
+because of this the AA
+gradient is increased and
+
+450
+00:31:06,880 --> 00:31:09,680
+And here I wrote that
+supplemental oxygen
+
+451
+00:31:09,680 --> 00:31:13,840
+would be limited in
+helpful function.
+
+452
+00:31:14,180 --> 00:31:18,900
+Yes, it can max out the
+gradient, but because,
+
+453
+00:31:18,900 --> 00:31:22,520
+especially depending on
+the size of the defect, in
+
+454
+00:31:22,520 --> 00:31:26,440
+most cases, the defect would
+be overwhelming whatever
+
+455
+00:31:26,440 --> 00:31:29,680
+we would be able to do
+with supplemental oxygen.
+
+456
+00:31:29,680 --> 00:31:32,920
+So that's why supplemental
+oxygen is mostly
+
+457
+00:31:32,920 --> 00:31:36,100
+not that helpful. But I
+can't fully rule it out
+
+458
+00:31:36,100 --> 00:31:38,380
+because it really depends
+on the size of the
+
+459
+00:31:38,380 --> 00:31:40,760
+defect. So that's why
+it says limited here.
+
+460
+00:31:42,920 --> 00:31:47,860
+As we have seen in the past
+few years, COVID-19 also
+
+461
+00:31:49,160 --> 00:31:53,300
+has an effect on arterial
+oxygen and it's decreased.
+
+462
+00:31:53,400 --> 00:31:56,820
+That's also the case with
+some forms of long COVID
+
+463
+00:31:56,820 --> 00:32:02,370
+now that we see. So it's
+become persistent. and so
+
+464
+00:32:02,560 --> 00:32:08,740
+also here the AA gradient
+is increased because we
+
+465
+00:32:08,740 --> 00:32:14,140
+have an extra barrier in
+this case it's not as with
+
+466
+00:32:14,140 --> 00:32:18,560
+fibrosis a tissue barrier
+but it's a liquid barrier
+
+467
+00:32:18,560 --> 00:32:22,620
+so as a result of COVID
+infection inflammation can
+
+468
+00:32:22,620 --> 00:32:27,960
+ensue that leads to
+pulmonary flooding so it's an
+
+469
+00:32:27,960 --> 00:32:32,360
+edema of if you will And
+that extra fluid increases
+
+470
+00:32:32,360 --> 00:32:36,440
+diffusion distance of
+gases that need to diffuse.
+
+471
+00:32:36,480 --> 00:32:40,790
+And for that reason, the
+AA gradient is increased.
+
+472
+00:32:41,620 --> 00:32:45,620
+Also here, to max out
+diffusion pressure
+
+473
+00:32:45,620 --> 00:32:48,700
+of oxygen into the
+system, supplemental
+
+474
+00:32:48,700 --> 00:32:51,360
+oxygen can definitely
+be helpful.
+
+475
+00:32:54,480 --> 00:32:58,540
+Let's explore hypoxia. So
+hypoxia, as I said before,
+
+476
+00:32:58,540 --> 00:33:02,480
+is defined as decrease of
+oxygen delivery to tissues.
+
+477
+00:33:02,480 --> 00:33:05,260
+That's how it's different
+than hypoxemia, which
+
+478
+00:33:05,260 --> 00:33:09,680
+just looks at the oxygen
+content in arterial blood.
+
+479
+00:33:10,040 --> 00:33:13,360
+First of our examples
+is cardiac output
+
+480
+00:33:13,360 --> 00:33:16,240
+decreased, leads to
+decreased blood flow.
+
+481
+00:33:16,240 --> 00:33:18,660
+So of course that
+affects target tissues.
+
+482
+00:33:18,660 --> 00:33:21,440
+They experience
+hypoxia. However,
+
+483
+00:33:21,700 --> 00:33:24,460
+it does not translate
+into a lower partial
+
+484
+00:33:24,460 --> 00:33:27,580
+pressure of arterial
+oxygen because the blood
+
+485
+00:33:27,580 --> 00:33:31,380
+doesn't have enough
+time to pick up gases.
+
+486
+00:33:32,240 --> 00:33:38,900
+And our next is hypoxemia.
+So that is defined as
+
+487
+00:33:38,900 --> 00:33:42,500
+lower partial pressure of
+oxygen in arterial blood,
+
+488
+00:33:42,500 --> 00:33:45,500
+therefore the downward
+arrow in the next column.
+
+489
+00:33:46,100 --> 00:33:51,500
+Hypoxemia leads to lower
+oxygen saturation of
+
+490
+00:33:51,500 --> 00:33:54,280
+hemoglobin because there's
+just not enough oxygen
+
+491
+00:33:54,280 --> 00:33:57,660
+in the arterial blood
+that can be looked at and
+
+492
+00:33:57,660 --> 00:34:01,100
+described as lowered
+oxygen content of blood.
+
+493
+00:34:03,380 --> 00:34:05,220
+Next, we have anemia.
+
+494
+00:34:05,400 --> 00:34:09,320
+Anemia means reduced
+amount of red
+
+495
+00:34:09,320 --> 00:34:13,440
+blood cells serving
+the body because of
+
+496
+00:34:13,440 --> 00:34:15,760
+a reduction in red
+blood cell content.
+
+497
+00:34:15,980 --> 00:34:20,440
+The oxygen carrying
+capacity of the blood is
+
+498
+00:34:20,440 --> 00:34:24,000
+being reduced mainly
+because with less red blood
+
+499
+00:34:24,000 --> 00:34:26,760
+cells, we also have
+less hemoglobin, which
+
+500
+00:34:26,760 --> 00:34:30,560
+is our oxygen carrying
+molecule and as i said
+
+501
+00:34:30,560 --> 00:34:35,200
+that lowers the oxygen
+content of blood can you
+
+502
+00:34:35,200 --> 00:34:38,600
+guess why we don't have
+a downward error here
+
+503
+00:34:41,060 --> 00:34:46,220
+well um just remember
+that how we arrive at
+
+504
+00:34:46,220 --> 00:34:48,960
+partial pressures we're
+only looking at dissolved
+
+505
+00:34:48,960 --> 00:34:54,800
+gases So, oxygen is 3D
+dissolved in blood, and
+
+506
+00:34:54,800 --> 00:34:59,220
+also the portion of oxygen
+that is dissolved in
+
+507
+00:34:59,220 --> 00:35:02,720
+part of the bicarbonate
+buffer system counts.
+
+508
+00:35:03,300 --> 00:35:08,200
+But the oxygen that's bound
+to hemoglobin and red blood
+
+509
+00:35:08,200 --> 00:35:11,660
+cells does not count in
+determining the partial
+
+510
+00:35:11,660 --> 00:35:14,440
+pressure. Therefore, we don't
+see a downward error here.
+
+511
+00:35:15,440 --> 00:35:22,500
+um carbon monocyte poisoning
+leads to reduced oxygen
+
+512
+00:35:22,500 --> 00:35:27,060
+content of blood and a left
+shift of the oxygen hemoglobin
+
+513
+00:35:27,060 --> 00:35:32,240
+curve so it binds competitively
+to the binding side
+
+514
+00:35:32,240 --> 00:35:35,160
+of oxygen it binds very
+tightly and if you remember
+
+515
+00:35:35,160 --> 00:35:40,790
+from from our previous lectures
+tight binding of oxygen
+
+516
+00:35:40,790 --> 00:35:43,860
+to one of the four binding
+sites increases the
+
+517
+00:35:43,860 --> 00:35:48,880
+affinity of the other sites
+for oxygen and because carbon
+
+518
+00:35:48,880 --> 00:35:53,920
+monoxide binds so readily
+we see a left shift so it
+
+519
+00:35:53,920 --> 00:35:58,520
+elicits that mechanism lastly
+we have cyanide poisoning
+
+520
+00:35:59,200 --> 00:36:03,720
+so here what's affected is
+the electron transport chain
+
+521
+00:36:03,730 --> 00:36:07,040
+so some of the protein
+complexes that are part of
+
+522
+00:36:07,040 --> 00:36:10,840
+the electron transport chain
+cannot do their job so the
+
+523
+00:36:10,840 --> 00:36:13,840
+oxygen content of blood is
+fine but the target tissues
+
+524
+00:36:13,840 --> 00:36:17,880
+are unable to use that
+oxygen that of course leaves
+
+525
+00:36:17,880 --> 00:36:23,360
+the partial pressure of
+arterial oxygen unaffected
+
+526
+00:36:23,360 --> 00:36:28,980
+but nevertheless causes
+hypoxia and another word style
+
+527
+00:36:28,980 --> 00:36:32,300
+question for you during
+an experimental trial of
+
+528
+00:36:32,300 --> 00:36:36,660
+mechanical ventilation on an
+anesthetized animal a research
+
+529
+00:36:36,660 --> 00:36:38,700
+The researcher temporarily
+disables the ventilator
+
+530
+00:36:38,700 --> 00:36:41,800
+safety limits and delivers
+a sudden, massive volume
+
+531
+00:36:41,800 --> 00:36:44,840
+of air that severely over
+-inflates the animal's lungs.
+
+532
+00:36:45,040 --> 00:36:48,420
+The researcher observes
+an immediate involuntary
+
+533
+00:36:48,420 --> 00:36:50,660
+arrest of the animal's
+inspiratory effort
+
+534
+00:36:50,660 --> 00:36:54,340
+and a prolongation of
+its expiratory phase.
+
+535
+00:36:54,360 --> 00:36:56,960
+Which of the following
+pathways is responsible
+
+536
+00:36:56,960 --> 00:36:59,760
+for this protective
+respiratory reflex?
+
+537
+00:37:01,880 --> 00:37:06,460
+choice a j receptors in
+the alveolar walls detect
+
+538
+00:37:06,460 --> 00:37:11,620
+the stretch enter and
+signal the spinal cord
+
+539
+00:37:11,660 --> 00:37:16,680
+to cause rapid shallow
+gasping so what do j
+
+540
+00:37:16,680 --> 00:37:19,280
+receptors do by the way
+that's they stand for
+
+541
+00:37:19,440 --> 00:37:24,180
+jerks the capillary
+receptors and they can sense
+
+542
+00:37:24,180 --> 00:37:27,240
+chemicals that's what they
+mainly do They can also
+
+543
+00:37:27,240 --> 00:37:31,300
+sense some stretch, which
+allows them to also get
+
+544
+00:37:31,300 --> 00:37:35,820
+activated by pulmonary edema
+because an overabundance
+
+545
+00:37:35,820 --> 00:37:38,940
+of fluids in the lungs
+will also cause stretch.
+
+546
+00:37:39,740 --> 00:37:46,160
+And they will indeed
+cause shallow breathing,
+
+547
+00:37:46,560 --> 00:37:49,460
+bronchial constriction,
+and mucous secretion. So
+
+548
+00:37:49,460 --> 00:37:53,360
+none of those fit our
+bill with this experiment.
+
+549
+00:37:54,440 --> 00:37:59,660
+How about carotid body
+chemoreceptors that detect
+
+550
+00:37:59,660 --> 00:38:02,200
+the sudden stretch and
+signal the apneustic
+
+551
+00:38:02,200 --> 00:38:05,360
+center in the pons to
+promote gasping, that's B.
+
+552
+00:38:05,960 --> 00:38:09,680
+Well, carotid body
+receptors are chemical
+
+553
+00:38:09,680 --> 00:38:13,160
+receptors and chemical
+only, not stretch. And
+
+554
+00:38:13,160 --> 00:38:17,180
+they sense mainly hypoxia,
+so lack of oxygen,
+
+555
+00:38:17,420 --> 00:38:20,360
+hypercapnium,
+overabundance of CO2,
+
+556
+00:38:20,500 --> 00:38:25,460
+and also acidosis so
+low ph and when they get
+
+557
+00:38:25,460 --> 00:38:28,760
+activated they will send
+the glossopharyngeal
+
+558
+00:38:28,760 --> 00:38:32,340
+nerve which is cranial
+nerve 9 which then sends
+
+559
+00:38:32,340 --> 00:38:37,080
+information to the nucleus
+tractus solitarius and
+
+560
+00:38:37,760 --> 00:38:41,640
+that activation will lead
+to a faster and deeper
+
+561
+00:38:41,640 --> 00:38:46,090
+breathing so that's also not
+what we're observing here how
+
+562
+00:38:47,400 --> 00:38:50,460
+about the irritant receptors
+in the trachea detect
+
+563
+00:38:50,460 --> 00:38:53,600
+the high pressure and trigger
+an immediate prolonged
+
+564
+00:38:53,600 --> 00:38:58,280
+inspiratory gas to protect the
+avio line well that already
+
+565
+00:38:58,280 --> 00:39:02,920
+sounds not what's
+happening um these irritant
+
+566
+00:39:02,980 --> 00:39:09,180
+receptors are actually
+specifically um sensing chemicals
+
+567
+00:39:09,440 --> 00:39:14,220
+um things in dust but also
+temperature so and that
+
+568
+00:39:14,220 --> 00:39:18,420
+is to protect our lungs
+from harmful substances
+
+569
+00:39:18,420 --> 00:39:21,800
+but also from the damage
+that cold air in very
+
+570
+00:39:21,800 --> 00:39:26,600
+cold climates can do to
+our respiratory parenchyma
+
+571
+00:39:27,060 --> 00:39:30,660
+and their effect is
+coughing and also bronchial
+
+572
+00:39:30,660 --> 00:39:34,300
+constriction so reduction
+of airway diameter
+
+573
+00:39:34,820 --> 00:39:36,940
+in a protective manner.
+
+574
+00:39:37,740 --> 00:39:42,860
+Then we have E. Those are
+central chemoreceptors
+
+575
+00:39:43,290 --> 00:39:46,560
+in the fourth ventricle sense
+the sudden lung inflation
+
+576
+00:39:46,560 --> 00:39:49,460
+and directly block phrenic
+nerve firing at the
+
+577
+00:39:49,460 --> 00:39:53,500
+spinal level. Well, you
+hopefully know and that
+
+578
+00:39:53,500 --> 00:39:55,880
+central chemoreceptors
+are called central because
+
+579
+00:39:55,880 --> 00:39:58,900
+they're actually in the
+brain. They are in the fourth
+
+580
+00:39:58,900 --> 00:40:03,640
+ventricle and um well one
+can find them throughout
+
+581
+00:40:03,640 --> 00:40:07,940
+the fourth ventricle
+and they primarily sense
+
+582
+00:40:08,100 --> 00:40:11,200
+hydrogen ion concentration
+in cerebrospinal
+
+583
+00:40:11,200 --> 00:40:15,640
+fluid and that is as a
+result of hypercapnia
+
+584
+00:40:16,000 --> 00:40:20,660
+so they do not directly
+sense low oxygen levels
+
+585
+00:40:20,660 --> 00:40:25,000
+they sense low oxygen levels
+indirect as a function
+
+586
+00:40:25,000 --> 00:40:29,760
+of high carbon dioxide
+levels which can have its own
+
+587
+00:40:29,760 --> 00:40:33,280
+issues but that's how
+they work and they're
+
+588
+00:40:33,280 --> 00:40:38,400
+triggering increases ventilation
+so that's also not worth
+
+589
+00:40:38,400 --> 00:40:41,540
+preserving what we're
+observing so we're left
+
+590
+00:40:41,540 --> 00:40:45,100
+here with c uh slowly
+adapting pulmonary stretch
+
+591
+00:40:45,100 --> 00:40:48,980
+receptors in the airways and
+smooth muscle sent inhibitory
+
+592
+00:40:48,980 --> 00:40:52,100
+signals via the vagus
+nerve to the med medulla
+
+593
+00:40:52,100 --> 00:40:57,560
+to terminate inspiration
+so that is um choice c
+
+594
+00:40:57,560 --> 00:41:06,980
+and um so those those cells
+they're um responsible
+
+595
+00:41:07,180 --> 00:41:11,750
+to or their function
+is to keep um stretch
+
+596
+00:41:11,750 --> 00:41:15,680
+away from lung parenchyma
+to prevent damage
+
+597
+00:41:15,800 --> 00:41:20,220
+and the underlying reflex
+that causes this is
+
+598
+00:41:20,220 --> 00:41:24,100
+also known as the herring
+broyer inflation reflex
+
+599
+00:41:25,140 --> 00:41:28,480
+that information
+then when these
+
+600
+00:41:28,480 --> 00:41:31,060
+cells get activated
+is actually also
+
+601
+00:41:31,140 --> 00:41:36,360
+sent to the nucleus tractus
+solitarius to the medulla
+
+602
+00:41:36,360 --> 00:41:40,100
+but this time that's being
+done by cranial nerve 10
+
+603
+00:41:40,100 --> 00:41:44,760
+or the vagus nerve so c
+is the correct answer here
+
+604
+00:41:47,220 --> 00:41:50,420
+Please take a
+look at Constanzo.
+
+605
+00:41:50,920 --> 00:41:54,960
+You can access the book
+through Clinical Keys and
+
+606
+00:41:55,670 --> 00:41:59,560
+each chapter in Constanzo's
+has a really good
+
+607
+00:41:59,560 --> 00:42:02,580
+summary portion. All of
+the main points that I've
+
+608
+00:42:02,580 --> 00:42:05,300
+made here are in one
+way or the other in that
+
+609
+00:42:05,300 --> 00:42:09,600
+summary plus the self-quizzing
+questions with answers
+
+610
+00:42:09,600 --> 00:42:12,080
+at the end of the book
+are really good. They're
+
+611
+00:42:12,080 --> 00:42:14,780
+not medical board style
+but you know we're really
+
+612
+00:42:14,780 --> 00:42:20,720
+looking for concepts um
+and you definitely get
+
+613
+00:42:20,720 --> 00:42:23,900
+those out of uh interacting
+with those questions
+
+614
+00:42:24,210 --> 00:42:26,420
+if you want to do it in
+the most efficient way
+
+615
+00:42:26,420 --> 00:42:29,900
+find some friends to do
+the questions with and
+
+616
+00:42:29,940 --> 00:42:32,480
+i think that's the best
+way to handle this um
+
+617
+00:42:32,480 --> 00:42:35,180
+please remember that
+we also use scholar rx
+
+618
+00:42:35,520 --> 00:42:39,880
+i've um added the
+scholar x modules
+
+619
+00:42:39,880 --> 00:42:43,040
+that fit this topic
+um and all of that
+
+620
+00:42:43,040 --> 00:42:45,880
+information you can
+find in the CPG.
+
+621
+00:42:46,640 --> 00:42:49,200
+Lastly, I would be happy
+about some feedback. If
+
+622
+00:42:49,200 --> 00:42:51,400
+you like this, if you
+got something out of it,
+
+623
+00:42:51,400 --> 00:42:54,040
+let me know. If there
+are things that you would
+
+624
+00:42:54,040 --> 00:42:57,980
+like different, let me
+know too. And so thank
+
+625
+00:42:57,980 --> 00:43:00,560
+you very much and have a
+great rest of your day.

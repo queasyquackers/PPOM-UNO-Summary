@@ -1,0 +1,4157 @@
+1
+00:00:00,540 --> 00:00:03,720
+Everyone, welcome back.
+This is Vishwa Rajkwapalan,
+
+2
+00:00:03,720 --> 00:00:05,560
+Associate Professor in
+Biomedical Sciences.
+
+3
+00:00:05,560 --> 00:00:07,960
+Today we're going to
+talk about continuation
+
+4
+00:00:07,960 --> 00:00:11,620
+of what we saw in cardiac
+cycle part one and
+
+5
+00:00:11,620 --> 00:00:15,860
+this is on related to
+loops, loss and cardiac
+
+6
+00:00:15,860 --> 00:00:19,500
+output and related
+principles and applications
+
+7
+00:00:19,500 --> 00:00:23,420
+of physiology of the
+cardiovascular system.
+
+8
+00:00:23,740 --> 00:00:24,540
+Okay,
+
+9
+00:00:24,740 --> 00:00:29,820
+so the session objectives
+are to graph the relationship
+
+10
+00:00:29,820 --> 00:00:32,780
+between cardiac pressures
+and volumes using law of
+
+11
+00:00:32,780 --> 00:00:36,380
+laplace and to recognize
+concepts of cardiac output
+
+12
+00:00:36,380 --> 00:00:39,520
+and stroke volume in a cardiac
+cycle and to distinguish
+
+13
+00:00:39,520 --> 00:00:43,020
+between afterload preload
+and frank sterling's law
+
+14
+00:00:43,020 --> 00:00:46,260
+and factors that regulate
+stroke volume and cardiac
+
+15
+00:00:46,260 --> 00:00:49,040
+output in a cardiac cycle
+and then how do you measure
+
+16
+00:00:49,040 --> 00:00:52,760
+cardiac output using a
+couple of methodologies and
+
+17
+00:00:52,760 --> 00:00:56,440
+then to extrapolate the various
+concepts that we studied
+
+18
+00:00:56,440 --> 00:00:59,220
+that's different phases
+the loops and laws and all
+
+19
+00:00:59,220 --> 00:01:02,380
+those things in a rep
+in using representative
+
+20
+00:01:02,380 --> 00:01:12,380
+cardiovascular pathologies okay
+okay let's jump on so so this
+
+21
+00:01:12,380 --> 00:01:15,500
+is a beating heart I've
+shown this figure before
+
+22
+00:01:15,500 --> 00:01:18,480
+and this beating heart
+coincides with the different
+
+23
+00:01:18,480 --> 00:01:22,260
+phases of the cardiac cycle
+and just to refresh that if
+
+24
+00:01:22,260 --> 00:01:27,080
+it's been a little break
+since you watched the first
+
+25
+00:01:27,510 --> 00:01:29,520
+in a part of this
+cardiac cycle.
+
+26
+00:01:30,220 --> 00:01:32,720
+We have aortic
+pressure here, we have
+
+27
+00:01:32,720 --> 00:01:34,560
+atrial pressure,
+ventricular pressure,
+
+28
+00:01:34,780 --> 00:01:37,280
+we have ventricular
+volume, I don't know if
+
+29
+00:01:37,280 --> 00:01:41,540
+you're seeing my
+cursor, let me try this,
+
+30
+00:01:43,220 --> 00:01:44,900
+okay, ventricular volume,
+
+31
+00:01:45,180 --> 00:01:48,440
+electrocardiogram,
+phonocardiogram, and so on, okay,
+
+32
+00:01:49,120 --> 00:01:50,040
+all right.
+
+33
+00:01:51,380 --> 00:01:58,880
+Now this is also something
+that you have seen and as
+
+34
+00:01:58,880 --> 00:02:05,480
+you can see, as you can
+see, I think this is not
+
+35
+00:02:05,480 --> 00:02:10,040
+moving maybe because of the
+slideshow limitations but
+
+36
+00:02:10,040 --> 00:02:13,460
+when you go to slideshow
+it should show this moving.
+
+37
+00:02:15,580 --> 00:02:21,250
+The loop in the bottom,
+the volume versus pressure
+
+38
+00:02:21,250 --> 00:02:26,540
+loop, should coincide with
+the different phases of the
+
+39
+00:02:26,540 --> 00:02:30,520
+cycle above in the upper
+part of the figure. Okay,
+
+40
+00:02:30,660 --> 00:02:34,300
+so we will look in
+detail about the
+
+41
+00:02:34,300 --> 00:02:36,280
+volume versus pressure
+curve. We have
+
+42
+00:02:36,280 --> 00:02:38,140
+already seen the
+upper part before.
+
+43
+00:02:38,660 --> 00:02:39,880
+All right,
+
+44
+00:02:40,680 --> 00:02:42,320
+There you go, you can see it,
+
+45
+00:02:43,760 --> 00:02:45,800
+yeah, so as it loops,
+
+46
+00:02:45,920 --> 00:02:47,100
+you can see,
+
+47
+00:02:49,320 --> 00:02:53,580
+yes, this is
+pressure increasing,
+
+48
+00:02:53,760 --> 00:02:57,380
+now it's pressure decreasing,
+you can correlate with
+
+49
+00:02:57,380 --> 00:03:00,280
+the different phases of
+the cardiac cycle, alright.
+
+50
+00:03:00,620 --> 00:03:01,520
+Now here,
+
+51
+00:03:01,700 --> 00:03:05,200
+what is law of Laplace,
+law of Laplace relates to
+
+52
+00:03:05,200 --> 00:03:10,260
+ventricular pressure and its
+relationship with the wall
+
+53
+00:03:10,260 --> 00:03:13,920
+tension and the radius now
+imagine ventricular chamber
+
+54
+00:03:13,920 --> 00:03:18,100
+and you look at from top
+to bottom in the sense that
+
+55
+00:03:18,100 --> 00:03:21,520
+it's like a circle now
+okay imagine it's a circle
+
+56
+00:03:21,520 --> 00:03:23,680
+and that's the circle you're
+seeing here this circle
+
+57
+00:03:23,680 --> 00:03:29,060
+okay and when you cut the
+ventricle um uh the middle the
+
+58
+00:03:29,060 --> 00:03:33,120
+transverse you know section
+you can see this and the
+
+59
+00:03:33,120 --> 00:03:36,440
+the pressure exerted is
+proportional to the wall
+
+60
+00:03:36,440 --> 00:03:39,260
+tension in the walls of the
+left ventricular wall and
+
+61
+00:03:39,260 --> 00:03:42,100
+then the radius of the
+chamber or the diameter or the
+
+62
+00:03:42,100 --> 00:03:46,340
+radius of the chamber okay
+more specifically um the
+
+63
+00:03:46,340 --> 00:03:49,510
+rest of the formula we will
+see in the next slide um
+
+64
+00:03:49,780 --> 00:03:54,080
+but what i want to point
+out here is uh in the x-axis
+
+65
+00:03:54,080 --> 00:03:56,420
+is left ventricular volume
+y-axis left ventricular
+
+66
+00:03:56,420 --> 00:04:01,480
+pressure um mitral valve
+opens in this phase okay here
+
+67
+00:04:01,480 --> 00:04:04,180
+mitral valve opens mitral
+valve closes aortic valve
+
+68
+00:04:04,180 --> 00:04:07,600
+opens aortic valve closes
+Remember in the cardiac vigorous
+
+69
+00:04:07,600 --> 00:04:10,580
+diagram, we showed in a
+different format where
+
+70
+00:04:10,580 --> 00:04:14,300
+these valves open and close.
+Try to imagine that, okay?
+
+71
+00:04:14,300 --> 00:04:16,880
+But let's focus here.
+As the left ventricular
+
+72
+00:04:16,880 --> 00:04:20,100
+volume increases, what
+does that mean? As the
+
+73
+00:04:20,100 --> 00:04:22,560
+left ventricular volume
+increases, that means
+
+74
+00:04:22,560 --> 00:04:27,040
+the left ventricle is
+relaxing and dilating.
+
+75
+00:04:28,600 --> 00:04:31,400
+And it reaches to a
+point where there is end
+
+76
+00:04:31,400 --> 00:04:33,470
+diastolic volume, which
+I said I will explain.
+
+77
+00:04:33,470 --> 00:04:37,740
+Endo-historic volume is
+the point where maximum
+
+78
+00:04:37,740 --> 00:04:40,260
+amount of volume the
+ventricle has taken.
+
+79
+00:04:40,260 --> 00:04:43,480
+At that point, the
+mitral valve closes.
+
+80
+00:04:43,480 --> 00:04:46,760
+So it's not receiving any
+more blood from the left
+
+81
+00:04:46,760 --> 00:04:50,000
+atrium at this point. What
+happens after this? It's
+
+82
+00:04:50,000 --> 00:04:52,580
+only pressure that's going
+to build up for preparing
+
+83
+00:04:52,580 --> 00:04:55,440
+for the ejection. This is
+iso-olimetric contraction.
+
+84
+00:04:55,440 --> 00:04:58,100
+After iso-olimetric
+contraction, the aortic valve
+
+85
+00:04:58,100 --> 00:05:02,700
+opens and then blood just
+pushes, gets gushed out of the
+
+86
+00:05:02,700 --> 00:05:06,140
+left ventricle. This is rapid
+ejection phase, remember,
+
+87
+00:05:06,140 --> 00:05:09,560
+and this is reduced ejection
+phase of left ventricle.
+
+88
+00:05:09,560 --> 00:05:12,020
+These are three phases
+of the ventricle system.
+
+89
+00:05:12,120 --> 00:05:13,580
+Isolumetric contraction,
+
+90
+00:05:13,720 --> 00:05:15,880
+rapid ejection,
+reduced ejection.
+
+91
+00:05:15,880 --> 00:05:18,420
+And then the aortic
+valve closes.
+
+92
+00:05:18,620 --> 00:05:21,540
+Right after it closes,
+immediately the pressure falls.
+
+93
+00:05:21,540 --> 00:05:25,340
+Pressure falls, but iso
+-volumetric relaxation. It
+
+94
+00:05:25,340 --> 00:05:28,700
+relaxes, but it's not receiving
+the blood yet because both
+
+95
+00:05:28,700 --> 00:05:31,280
+the valves are closed. Look,
+aortic valve is closed,
+
+96
+00:05:31,280 --> 00:05:35,160
+and then mitral valve is
+also closed. But it's only
+
+97
+00:05:35,160 --> 00:05:41,720
+at this point of pressure,
+the mitral valve will open.
+
+98
+00:05:41,720 --> 00:05:43,940
+At a high pressure,
+it will not open. It
+
+99
+00:05:43,940 --> 00:05:46,380
+should not open. When it
+goes down almost close
+
+100
+00:05:46,380 --> 00:05:49,200
+to zero, not exactly
+zero, but close to zero,
+
+101
+00:05:49,200 --> 00:05:51,320
+it will open up. Once
+it opens up, then it's
+
+102
+00:05:51,320 --> 00:05:54,520
+ready to receive the
+next cycle of blood.
+
+103
+00:05:54,700 --> 00:05:57,520
+This point is called end
+systolic volume at the end
+
+104
+00:05:57,520 --> 00:06:00,420
+of systole. And this is
+end of diastole. Things
+
+105
+00:06:00,420 --> 00:06:03,100
+you need to remember. And
+remember this thing, this
+
+106
+00:06:03,100 --> 00:06:05,500
+thing is called stroke
+volume, right? This point
+
+107
+00:06:05,500 --> 00:06:07,880
+to this point, which means
+at this point to this
+
+108
+00:06:07,880 --> 00:06:11,020
+point, approximately from
+50 ml of blood till about
+
+109
+00:06:11,020 --> 00:06:14,560
+120 ml of blood, the
+difference of about 70, right?
+
+110
+00:06:15,160 --> 00:06:17,460
+50, 100, 20, 20, yes.
+
+111
+00:06:18,160 --> 00:06:19,760
+This is stroke volume.
+
+112
+00:06:20,460 --> 00:06:24,760
+In one stroke, what is
+the amount of volume
+
+113
+00:06:24,760 --> 00:06:26,300
+that is being
+ejected out of the
+
+114
+00:06:26,300 --> 00:06:29,340
+ventricle? That is
+called the stroke volume.
+
+115
+00:06:29,560 --> 00:06:31,300
+Alright, with that
+we will move on.
+
+116
+00:06:32,440 --> 00:06:40,660
+Again, you are seeing the
+same slide on the right,
+
+117
+00:06:40,660 --> 00:06:42,660
+but on the left you are
+seeing what is end-diastolic
+
+118
+00:06:42,660 --> 00:06:45,640
+volume. volume, it is also
+referred to as preload
+
+119
+00:06:45,640 --> 00:06:51,660
+and afterload is proportional
+to arterial pressure.
+
+120
+00:06:51,660 --> 00:06:54,120
+We will talk about
+afterload and preload later.
+
+121
+00:06:54,120 --> 00:06:55,600
+But here what you
+need to understand
+
+122
+00:06:55,600 --> 00:06:58,000
+is this wall stress formula.
+
+123
+00:06:58,910 --> 00:07:02,120
+Again, this is a more
+proper, more complete law
+
+124
+00:07:02,120 --> 00:07:04,860
+of Laplace which states
+that wall tension is
+
+125
+00:07:04,860 --> 00:07:10,420
+proportional to the
+pressure times radius for
+
+126
+00:07:10,420 --> 00:07:12,740
+thin walled spheres or
+cylinders. Therefore,
+
+127
+00:07:12,740 --> 00:07:15,500
+wall stress, this is wall
+stress, is proportional
+
+128
+00:07:15,500 --> 00:07:19,840
+to wall tension, wall
+tension is P times R,
+
+129
+00:07:20,120 --> 00:07:22,680
+okay, wall tension is P times R
+
+130
+00:07:22,680 --> 00:07:27,820
+divided by H, okay,
+let's quickly see,
+
+131
+00:07:28,280 --> 00:07:29,760
+yes,
+
+132
+00:07:29,760 --> 00:07:33,800
+you saw wall tension
+is equals, P equals T
+
+133
+00:07:33,800 --> 00:07:37,100
+by R, if you rewrite
+the formula, T equals P
+
+134
+00:07:37,100 --> 00:07:41,020
+times R, okay, and P
+times R is wall tension
+
+135
+00:07:41,020 --> 00:07:43,360
+divided by H thickness,
+that is wall stress.
+
+136
+00:07:43,420 --> 00:07:46,120
+Now wall stress is the
+primary determinant
+
+137
+00:07:46,120 --> 00:07:50,160
+of how much oxygen the
+heart muscle consumes.
+
+138
+00:07:50,240 --> 00:07:53,220
+By keeping the ventricular
+radius relatively small
+
+139
+00:07:53,220 --> 00:07:56,160
+and the wall adequately
+thick, the normal heart
+
+140
+00:07:56,160 --> 00:07:59,720
+operates efficiently without
+excessive energy expenditure,
+
+141
+00:07:59,820 --> 00:08:02,680
+okay, hope this is
+clear so far you need to
+
+142
+00:08:02,680 --> 00:08:06,480
+understand in the loop and
+remember questions may come
+
+143
+00:08:06,880 --> 00:08:10,780
+related to the pressure
+volume loop and remember
+
+144
+00:08:10,780 --> 00:08:14,000
+the formula as well different
+formulas we won't do
+
+145
+00:08:14,000 --> 00:08:16,080
+too many formulas but
+there are some formula that
+
+146
+00:08:16,080 --> 00:08:18,960
+you need to remember and
+understand remember this
+
+147
+00:08:18,960 --> 00:08:21,400
+is stroke volume mitral
+valve opening here closing
+
+148
+00:08:21,400 --> 00:08:24,920
+here these things you
+need to remember draw hand
+
+149
+00:08:24,920 --> 00:08:28,680
+draw or drawing an app or
+anywhere notepad anywhere
+
+150
+00:08:28,680 --> 00:08:32,660
+this go and practice so
+you really get it deeper
+
+151
+00:08:32,660 --> 00:08:35,980
+within. This is the period
+of ejection, this is
+
+152
+00:08:35,980 --> 00:08:38,380
+isolumetric contraction,
+this is isolumetric
+
+153
+00:08:38,380 --> 00:08:41,420
+relaxation, and this is the
+period of filling, right?
+
+154
+00:08:41,420 --> 00:08:45,140
+This is the diastolic
+filling, okay? Let's move on.
+
+155
+00:08:47,640 --> 00:08:51,240
+Okay, now let's clear this
+away. Now if you look at
+
+156
+00:08:51,240 --> 00:08:53,920
+patients with diabetic,
+dilated cardiomyopathy,
+
+157
+00:08:53,920 --> 00:08:57,320
+excuse me, they have big
+heart, you see that, right?
+
+158
+00:08:57,320 --> 00:09:00,280
+On the left you see normal
+size heart and the right
+
+159
+00:09:00,280 --> 00:09:02,960
+you see cardiomyopathic
+heart which is in heart
+
+160
+00:09:02,960 --> 00:09:05,460
+failure what are the
+characteristic changes you are
+
+161
+00:09:05,460 --> 00:09:10,300
+seeing one of course it's
+dilated what is dilated
+
+162
+00:09:10,520 --> 00:09:13,380
+literally everything is
+dilated all the four chambers
+
+163
+00:09:13,380 --> 00:09:16,140
+are dilated look at the
+left ventricle comparatively
+
+164
+00:09:16,140 --> 00:09:19,500
+the chamber diameter is
+increased right it's what we
+
+165
+00:09:19,500 --> 00:09:21,700
+are talking about in the
+laplace law we saw radius
+
+166
+00:09:21,700 --> 00:09:24,900
+radius is half of the diameter
+the entire diameter is
+
+167
+00:09:24,900 --> 00:09:29,010
+this so it's going to it's
+going to increase compared
+
+168
+00:09:29,010 --> 00:09:34,040
+to this and then look at the
+atrial look at the atrial
+
+169
+00:09:34,040 --> 00:09:37,540
+look at the right ventricular
+diameter okay what else
+
+170
+00:09:37,540 --> 00:09:43,020
+do you see abnormal here
+thickness right you see how
+
+171
+00:09:43,020 --> 00:09:46,060
+this is optimal thickness
+if we say this is optimal
+
+172
+00:09:46,060 --> 00:09:49,040
+thickness look at the thickness
+it has thinned okay it
+
+173
+00:09:49,040 --> 00:09:53,120
+is thinned here and so the
+ventricular thinning is
+
+174
+00:09:53,120 --> 00:09:56,180
+one characteristic of some
+of the cardiomyopathies okay
+
+175
+00:09:56,180 --> 00:10:00,840
+which means it is not able
+to generate enough amount
+
+176
+00:10:00,840 --> 00:10:04,920
+of pressure that wall tension
+and the pressure it is
+
+177
+00:10:04,920 --> 00:10:08,420
+not able to generate so
+that means the that is not
+
+178
+00:10:08,420 --> 00:10:14,080
+adequate you know amount of
+energy for the heart to you
+
+179
+00:10:14,080 --> 00:10:17,880
+know use to push the
+blood out okay so this is
+
+180
+00:10:17,880 --> 00:10:20,300
+something important that you
+need to understand and on the
+
+181
+00:10:20,300 --> 00:10:24,360
+top is the x-ray you're
+seeing similar thing all right
+
+182
+00:10:24,360 --> 00:10:27,800
+let's move on to understand
+the similar situations
+
+183
+00:10:27,800 --> 00:10:32,220
+in using different other
+measures ventricular pressure
+
+184
+00:10:32,220 --> 00:10:34,360
+volume relationships why
+do we talk about all these
+
+185
+00:10:34,360 --> 00:10:38,140
+things one to understand the
+physiology two to understand
+
+186
+00:10:38,140 --> 00:10:40,560
+the clinical relevance and
+three from the perspective
+
+187
+00:10:40,560 --> 00:10:43,360
+of exams right not just
+your school exams but
+
+188
+00:10:43,360 --> 00:10:46,700
+also board exams these think
+these questions do come
+
+189
+00:10:46,700 --> 00:10:49,440
+you can see in practice
+exam questions these kind of
+
+190
+00:10:49,440 --> 00:10:52,860
+things do come. So we want
+to prepare you adequately so
+
+191
+00:10:52,860 --> 00:10:55,630
+that you are well exposed
+to some of these concepts.
+
+192
+00:10:56,180 --> 00:10:56,660
+Okay,
+
+193
+00:10:56,800 --> 00:10:57,950
+let's move on.
+
+194
+00:10:58,260 --> 00:11:00,060
+Ventricle pressure volume
+relation. Two things
+
+195
+00:11:00,060 --> 00:11:03,240
+you need to remember.
+One is ESPVR, other is
+
+196
+00:11:03,240 --> 00:11:05,840
+EDPVR. These are the
+two major things in this
+
+197
+00:11:05,840 --> 00:11:07,800
+slide you need to know.
+All right, what are they?
+
+198
+00:11:08,220 --> 00:11:11,600
+EDPVR is end diastolic
+pressure volume relationship.
+
+199
+00:11:11,600 --> 00:11:14,220
+And what is it? It's
+a curve. You see this
+
+200
+00:11:14,220 --> 00:11:17,400
+is the curve? Yeah, it
+is a curve that defines
+
+201
+00:11:17,400 --> 00:11:20,440
+the passive stiffness and
+compliance of the ventricle.
+
+202
+00:11:20,440 --> 00:11:23,180
+Again, EDPVR is a
+curve that defines the
+
+203
+00:11:23,180 --> 00:11:26,480
+passive stiffness and
+compliance of the ventricle.
+
+204
+00:11:26,520 --> 00:11:29,420
+For example, in a
+pathological conditions
+
+205
+00:11:29,420 --> 00:11:31,140
+like ventricular hypertrophy,
+
+206
+00:11:31,140 --> 00:11:33,860
+ventriculars are
+abnormally thickened.
+
+207
+00:11:33,860 --> 00:11:35,520
+When can that happen?
+
+208
+00:11:36,260 --> 00:11:38,780
+Hypertrophic
+cardiomyopathy. Okay, that's
+
+209
+00:11:38,780 --> 00:11:40,340
+one example where it
+is extraordinarily
+
+210
+00:11:40,340 --> 00:11:42,660
+thickened. There are
+many other conditions.
+
+211
+00:11:42,660 --> 00:11:45,530
+Severe blood pressure,
+severe hypertension.
+
+212
+00:11:46,360 --> 00:11:49,380
+situations like that what
+happens then the ventricle
+
+213
+00:11:49,380 --> 00:11:53,680
+is stiffer and less
+compliant less compliant and
+
+214
+00:11:53,680 --> 00:11:57,880
+therefore the slope of the
+filling curve is increased
+
+215
+00:11:57,880 --> 00:12:01,520
+so what happened how
+will the curve look like
+
+216
+00:12:01,520 --> 00:12:05,460
+the curve will go towards
+the left okay it may go
+
+217
+00:12:05,460 --> 00:12:09,370
+like this or even more so
+it shifts to the left okay
+
+218
+00:12:09,370 --> 00:12:12,620
+I'll clear this away so
+curve shifts to the left
+
+219
+00:12:12,620 --> 00:12:18,900
+in terms of when EDPVR is
+it's upward and steeper
+
+220
+00:12:19,040 --> 00:12:21,820
+okay so that's example
+ventricular hypertrophy
+
+221
+00:12:21,820 --> 00:12:25,120
+ventricle is stiffer and less
+compliant now what is the
+
+222
+00:12:25,120 --> 00:12:27,620
+contrary that can happen
+in a case of dilated
+
+223
+00:12:27,620 --> 00:12:31,840
+cardiomyopathy we just saw
+a patient some images in the
+
+224
+00:12:31,840 --> 00:12:35,660
+previous slide dilated
+cardiomyopathy or in some valve
+
+225
+00:12:35,660 --> 00:12:38,960
+disease a dilated ventricle
+has higher passive
+
+226
+00:12:38,960 --> 00:12:42,220
+compliance and therefore the
+slope of the filling curve
+
+227
+00:12:42,220 --> 00:12:46,100
+is reduced so it shifts to
+the right okay and right
+
+228
+00:12:46,100 --> 00:12:50,440
+and flatter okay so this
+is something you need to
+
+229
+00:12:50,440 --> 00:12:53,460
+remember two things that can
+happen it can go this way
+
+230
+00:12:53,460 --> 00:12:56,970
+or that way two example
+conditions I've said okay
+
+231
+00:12:56,970 --> 00:13:00,160
+let's move on again this is
+the loop that we saw before
+
+232
+00:13:00,160 --> 00:13:02,760
+pv loop volume and pressure
+loop, stroke volume,
+
+233
+00:13:02,880 --> 00:13:05,000
+mitral valve closing,
+aortic opening,
+
+234
+00:13:05,000 --> 00:13:06,670
+aortic closing,
+mitral valve opening,
+
+235
+00:13:06,840 --> 00:13:08,680
+and this is isovolumetric
+contraction,
+
+236
+00:13:08,680 --> 00:13:11,420
+isovolumetric relaxation,
+and so on. Okay,
+
+237
+00:13:11,920 --> 00:13:15,620
+let's look at what
+is ESPBR, n-systolic
+
+238
+00:13:15,620 --> 00:13:17,540
+pressure volume
+relationship. What is it?
+
+239
+00:13:18,000 --> 00:13:18,740
+All right,
+
+240
+00:13:20,240 --> 00:13:23,700
+n-systolic pressure volume
+relationship is a maximal
+
+241
+00:13:23,700 --> 00:13:27,540
+pressure that can be developed
+by the ventricle at any
+
+242
+00:13:27,540 --> 00:13:31,760
+left ventricular volume again
+it is the maximal pressure
+
+243
+00:13:31,760 --> 00:13:35,180
+that can be developed by
+the ventricle at any left
+
+244
+00:13:35,180 --> 00:13:37,940
+ventricular volume all
+right what is the maximal
+
+245
+00:13:37,940 --> 00:13:43,440
+pressure at see under in the
+x-axis is again volume and
+
+246
+00:13:43,440 --> 00:13:48,740
+y-axis is pressure right
+in a in a situation and it
+
+247
+00:13:48,740 --> 00:13:51,850
+represents the ionotropic
+state ionotropic state is a
+
+248
+00:13:51,850 --> 00:13:54,920
+contractility state of contractility
+what is the contractile
+
+249
+00:13:54,920 --> 00:13:58,480
+state of the ventricle
+is it poor or is it good
+
+250
+00:13:58,480 --> 00:14:02,600
+or is it normal this is
+normal okay control control is
+
+251
+00:14:02,600 --> 00:14:06,980
+the you know the normal
+healthy patient heart loop
+
+252
+00:14:06,980 --> 00:14:11,440
+control is the broken black
+line okay if the patient's
+
+253
+00:14:11,440 --> 00:14:16,440
+ventricle is poor heart attack
+or heart failure or many
+
+254
+00:14:16,440 --> 00:14:18,500
+other conditions where the
+heart is not functioning
+
+255
+00:14:18,500 --> 00:14:21,660
+or not ejecting properly
+then the contractility will
+
+256
+00:14:21,660 --> 00:14:25,080
+go down so what happens to
+this entire loop the entire
+
+257
+00:14:25,080 --> 00:14:30,160
+loop will move towards the
+right which means the espvr
+
+258
+00:14:30,160 --> 00:14:33,120
+curve will move towards
+the right this is all you
+
+259
+00:14:33,120 --> 00:14:37,020
+need to know when the contract
+rate is high for instance
+
+260
+00:14:37,020 --> 00:14:40,640
+in the case of hypothyroidism
+or maybe in anemia to
+
+261
+00:14:40,640 --> 00:14:44,060
+high output conditions
+contractility will increase
+
+262
+00:14:44,060 --> 00:14:48,920
+so the espvr shifts to the
+left okay these are the things
+
+263
+00:14:48,920 --> 00:14:51,630
+that you need to remember.
+And there can be other
+
+264
+00:14:52,560 --> 00:14:54,740
+conditions too, but these
+are two key things at this
+
+265
+00:14:54,740 --> 00:14:57,620
+stage that should be good
+for you to understand. This
+
+266
+00:14:57,620 --> 00:15:01,000
+is controlled ESPVR, when
+contractility is poor if it
+
+267
+00:15:01,000 --> 00:15:04,300
+shifts to the right, and it
+is exaggerated if it shifts
+
+268
+00:15:04,300 --> 00:15:07,420
+to the left. Again ESPVR is
+the maximal pressure that
+
+269
+00:15:07,420 --> 00:15:09,360
+can be developed by the
+ventricle at any left
+
+270
+00:15:09,360 --> 00:15:12,700
+ventricular volume, and it
+represents the inotropic state.
+
+271
+00:15:12,920 --> 00:15:13,720
+Alright,
+
+272
+00:15:14,060 --> 00:15:16,440
+in the interest of
+time we are moving on.
+
+273
+00:15:16,800 --> 00:15:19,040
+Stroke volume and cardiac
+output. I introduced
+
+274
+00:15:19,040 --> 00:15:21,960
+this concept in the
+loop. What is stroke
+
+275
+00:15:21,960 --> 00:15:24,640
+volume? It is the
+amount of blood that is
+
+276
+00:15:24,640 --> 00:15:27,240
+injected by the heart in
+every single heartbeat.
+
+277
+00:15:27,240 --> 00:15:29,600
+That's the stroke
+volume and what is it?
+
+278
+00:15:30,640 --> 00:15:33,100
+Mathematically it is the
+difference between end
+
+279
+00:15:33,100 --> 00:15:36,720
+diastolic volume and end
+systolic volume in milliliters.
+
+280
+00:15:37,100 --> 00:15:41,080
+And we saw it's about 120
+and 50 approximately and
+
+281
+00:15:41,080 --> 00:15:43,800
+it could range to 70 ml
+plus or minus. Cardiac
+
+282
+00:15:43,800 --> 00:15:47,680
+output, if you multiply that
+by heart rate, that's it.
+
+283
+00:15:47,680 --> 00:15:49,940
+This is in ml per beat
+and this is in beats
+
+284
+00:15:49,940 --> 00:15:52,270
+per minute, so cardiac
+output is cancelling
+
+285
+00:15:52,460 --> 00:15:54,780
+the beats, it's
+milliliters per minute.
+
+286
+00:15:54,780 --> 00:15:56,240
+And as an example, if the
+
+287
+00:15:56,240 --> 00:15:58,540
+stroke volume is
+70 or maybe 80,
+
+288
+00:15:58,720 --> 00:16:02,720
+the heart rate, let's assume
+the heart rate is 72, and
+
+289
+00:16:02,720 --> 00:16:06,740
+multiply this, 5.7 liters
+per minute. That's average,
+
+290
+00:16:06,740 --> 00:16:10,380
+but again, cardiac output
+can go high, can go low,
+
+291
+00:16:10,380 --> 00:16:15,100
+right? but this is somewhere
+a decent number all right
+
+292
+00:16:15,100 --> 00:16:17,620
+let's move on now the question
+is about how are we going
+
+293
+00:16:17,620 --> 00:16:20,160
+to measure because it's not
+straightforward it's not
+
+294
+00:16:20,160 --> 00:16:22,420
+easy heart rate all right
+you can touch the pulse and
+
+295
+00:16:22,420 --> 00:16:25,040
+measure the heart rate
+right you all know how to
+
+296
+00:16:25,040 --> 00:16:28,580
+measure the pulse rate and
+pulse rate and the heart rate
+
+297
+00:16:28,580 --> 00:16:32,660
+you can do it by EKG you
+can do it by you know bunch
+
+298
+00:16:32,660 --> 00:16:36,000
+of the ways but output is
+not that easy to measure it's
+
+299
+00:16:36,000 --> 00:16:39,110
+not straightforward you need
+some some other some more
+
+300
+00:16:39,110 --> 00:16:41,960
+elaborate measurements. There
+are a couple of methods.
+
+301
+00:16:41,960 --> 00:16:45,840
+One fundamental principle
+is Fick principle. What's
+
+302
+00:16:45,840 --> 00:16:49,780
+Fick principle? Fick principle
+states that in a steady
+
+303
+00:16:49,780 --> 00:16:53,360
+state the oxygen leaving
+the lungs per unit volume
+
+304
+00:16:53,360 --> 00:16:57,060
+via the pulmonary veins they
+equal the oxygen entering
+
+305
+00:16:57,060 --> 00:17:00,500
+the lungs via the mixed
+venous blood and respiration.
+
+306
+00:17:01,360 --> 00:17:04,040
+Again if the oxygen
+leaving the lungs
+
+307
+00:17:05,300 --> 00:17:08,240
+via the pulmonary veins,
+it must equal the oxygen
+
+308
+00:17:08,240 --> 00:17:10,360
+entering the lungs via
+the mixed venous blood. So
+
+309
+00:17:10,360 --> 00:17:13,520
+the formula is oxygen
+absorbed per minute by the
+
+310
+00:17:13,520 --> 00:17:17,540
+lungs divided by arteriovenous
+oxygen difference.
+
+311
+00:17:17,660 --> 00:17:20,980
+The difference is arterial
+and venous. This is
+
+312
+00:17:20,980 --> 00:17:23,540
+venous right side, this
+is arterial left side. The
+
+313
+00:17:23,540 --> 00:17:28,220
+difference is 200 minus 160
+and then 200 minus 160 is
+
+314
+00:17:28,220 --> 00:17:32,600
+what? You get a 40, and
+the oxygen utilized is
+
+315
+00:17:32,600 --> 00:17:36,240
+about 200 in this example.
+So 200 away by 40, it will
+
+316
+00:17:36,240 --> 00:17:39,980
+come down to 5 liters
+per minute, back to close
+
+317
+00:17:39,980 --> 00:17:42,640
+to what we saw before,
+right? 5 liters per minute.
+
+318
+00:17:42,900 --> 00:17:45,000
+All right, that's one method.
+
+319
+00:17:45,060 --> 00:17:47,240
+Let's look at the other
+method. The other method is
+
+320
+00:17:47,240 --> 00:17:51,030
+indicator dilution method.
+What's indicator dilution? So
+
+321
+00:17:51,030 --> 00:17:55,320
+it's a small amount of
+indicator, such as a dye, a
+
+322
+00:17:55,320 --> 00:17:59,560
+colored dye, is used. it's
+injected into a large systemic
+
+323
+00:17:59,560 --> 00:18:02,220
+vein that enters into
+preferably the right atrium.
+
+324
+00:18:02,720 --> 00:18:05,800
+Okay, femoral vein or a
+brachial vein, whatever
+
+325
+00:18:05,800 --> 00:18:11,260
+they use in a given
+laboratory. They inject in the
+
+326
+00:18:11,260 --> 00:18:15,320
+patient and then it goes
+inside the venous system.
+
+327
+00:18:15,320 --> 00:18:18,520
+So this indicator passes
+rapidly through the right
+
+328
+00:18:18,520 --> 00:18:20,940
+side of the heart, then it
+goes to the blood vessels of
+
+329
+00:18:20,940 --> 00:18:23,340
+the lungs, then through
+the left side of the heart,
+
+330
+00:18:23,340 --> 00:18:26,740
+and finally it reaches the
+systemic arterial system.
+
+331
+00:18:26,740 --> 00:18:29,700
+arteries the concentration
+of the dye is then
+
+332
+00:18:29,700 --> 00:18:32,960
+recorded okay this is the
+concentration of dye you can
+
+333
+00:18:32,960 --> 00:18:36,820
+see is recorded using in
+the peripheral arteries
+
+334
+00:18:36,820 --> 00:18:39,100
+one of the peripheral
+arteries radial whatever
+
+335
+00:18:39,100 --> 00:18:42,880
+they do and then a curve
+is generated in the figure
+
+336
+00:18:43,100 --> 00:18:46,420
+a dye for example a cardio
+green dye can be used
+
+337
+00:18:47,260 --> 00:18:51,840
+so how do we do this briefly
+in the top recording you
+
+338
+00:18:51,840 --> 00:18:55,000
+see that none of the dye
+passed into the arterial tree
+
+339
+00:18:55,600 --> 00:18:58,940
+until about three seconds
+until about three seconds
+
+340
+00:18:58,940 --> 00:19:03,940
+it didn't pass and then it
+starts passing okay and then
+
+341
+00:19:03,940 --> 00:19:06,720
+suddenly it shoots up right
+you start with the five
+
+342
+00:19:06,720 --> 00:19:10,390
+milligrams cardio green dye
+and suddenly it is detected
+
+343
+00:19:10,390 --> 00:19:18,240
+okay at about six to seven
+seconds it peaks right
+
+344
+00:19:18,240 --> 00:19:22,940
+maximizes and then following
+that the concentration falls
+
+345
+00:19:22,940 --> 00:19:27,220
+rapidly right it suddenly
+falls rapidly but it
+
+346
+00:19:27,220 --> 00:19:29,900
+doesn't touch the bottom this
+is the bottom but it doesn't
+
+347
+00:19:29,900 --> 00:19:34,480
+it stagnates there right
+why take a moment pause the
+
+348
+00:19:34,480 --> 00:19:38,960
+video and think and then
+come back the answer is it
+
+349
+00:19:38,960 --> 00:19:42,760
+is because before the
+concentration reached zero some
+
+350
+00:19:42,760 --> 00:19:45,660
+of the dye had already
+circulated all the way through
+
+351
+00:19:45,660 --> 00:19:48,820
+some of peripheral systemic
+vessels and returned through
+
+352
+00:19:48,820 --> 00:19:52,240
+the heart for a second
+time that that means it's
+
+353
+00:19:52,240 --> 00:19:56,620
+recirculated and it goes on
+okay it gets recirculated and
+
+354
+00:19:56,930 --> 00:19:59,760
+recirculated is which
+means it's not hitting the
+
+355
+00:19:59,760 --> 00:20:02,980
+bottom so the dye concentration
+in the artery began to
+
+356
+00:20:02,980 --> 00:20:07,580
+rise again now mathematically
+how do you measure this
+
+357
+00:20:07,580 --> 00:20:12,520
+is the formula okay cardiac
+output is milligrams of dye
+
+358
+00:20:12,520 --> 00:20:15,620
+injected we already know
+which is 5 milligrams times
+
+359
+00:20:15,620 --> 00:20:18,340
+60 divided by average
+concentration of the dye in each
+
+360
+00:20:18,340 --> 00:20:21,780
+ml of blood for the duration
+of the curve which would
+
+361
+00:20:21,780 --> 00:20:33,780
+be I think in this case 0
+.0025 okay in this example
+
+362
+00:20:33,780 --> 00:20:38,780
+and when you multiply this
+by the duration is 12 seconds
+
+363
+00:20:38,790 --> 00:20:41,720
+right if you look at the
+curve it's about 12 seconds
+
+364
+00:20:41,720 --> 00:20:49,120
+and then if you look at the
+bottom figure here there
+
+365
+00:20:49,120 --> 00:20:53,280
+is a delay it takes longer
+time right it takes longer
+
+366
+00:20:53,280 --> 00:20:57,180
+time the curve is too deep
+which means if the diet
+
+367
+00:20:57,180 --> 00:21:00,450
+takes longer time to come
+back than a normal patient
+
+368
+00:21:00,450 --> 00:21:05,930
+which means the heart is not
+functioning optimally for
+
+369
+00:21:06,260 --> 00:21:10,640
+it to come back so when
+measure the cardiac output the
+
+370
+00:21:10,640 --> 00:21:14,990
+chances are the the time
+point is in the bottom is
+
+371
+00:21:14,990 --> 00:21:19,140
+increased which means the
+cardiac output is likely reduced
+
+372
+00:21:19,140 --> 00:21:26,600
+okay so that is how it works
+okay moving on I wanted
+
+373
+00:21:26,600 --> 00:21:28,680
+to add another technique
+called thermodilution
+
+374
+00:21:28,680 --> 00:21:32,480
+thermodilution is another
+method using swan-gans catheter
+
+375
+00:21:32,480 --> 00:21:37,000
+in this it's a more realistic
+and practically used
+
+376
+00:21:37,000 --> 00:21:42,320
+method here a thermistor tipped
+catheter is inserted into
+
+377
+00:21:42,320 --> 00:21:45,840
+a peripheral vein into the
+pulmonary artery and a cold
+
+378
+00:21:45,840 --> 00:21:48,480
+saline solution of known
+temperature and volume is
+
+379
+00:21:48,480 --> 00:21:51,020
+injected into the right atrium
+from a proximal catheter
+
+380
+00:21:51,020 --> 00:21:54,020
+port and the solution
+mixes with the blood as it
+
+381
+00:21:54,020 --> 00:21:57,080
+passes through the ventricle
+into the PA pulmonary artery
+
+382
+00:21:57,080 --> 00:22:00,100
+and thus cooling the blood
+so the blood temperature
+
+383
+00:22:00,100 --> 00:22:03,460
+is measured using the
+thermistor at the catheter tip
+
+384
+00:22:03,460 --> 00:22:07,160
+which now sits within the
+pulmonary artery and the change
+
+385
+00:22:07,160 --> 00:22:10,060
+in the blood temperature
+is recorded as it flows
+
+386
+00:22:10,060 --> 00:22:12,900
+over the thermistor surface
+and the magnitude of the
+
+387
+00:22:12,900 --> 00:22:16,000
+decrease in temperature
+depends on the volume of blood
+
+388
+00:22:16,000 --> 00:22:19,740
+that mixes with the solution
+which in turn depends on
+
+389
+00:22:19,740 --> 00:22:22,360
+the cardiac output and thus
+the cardiac output is measured
+
+390
+00:22:22,360 --> 00:22:25,660
+okay so this is another
+technique you can keep in
+
+391
+00:22:25,660 --> 00:22:30,580
+your mind all right moving
+on regulation of heart rate
+
+392
+00:22:30,580 --> 00:22:32,960
+and stroke volume and cardiac
+output. Heart rate can
+
+393
+00:22:32,960 --> 00:22:36,460
+be changed by a bunch of
+different factors including
+
+394
+00:22:37,140 --> 00:22:39,420
+sympathetic and
+parasympathetic stimulation.
+
+395
+00:22:40,080 --> 00:22:45,000
+If the heart rate increases,
+stroke volume decreases.
+
+396
+00:22:46,220 --> 00:22:48,020
+When heart rate increases,
+
+397
+00:22:48,220 --> 00:22:50,640
+stroke volume decreases.
+When stroke volume decreases
+
+398
+00:22:51,520 --> 00:22:55,320
+and why does that happen?
+Because it tries to balance
+
+399
+00:22:55,320 --> 00:22:58,720
+the cardiac output so that
+when heart rate increases
+
+400
+00:22:58,720 --> 00:23:01,300
+too much cardiac output should
+not shoot up suddenly so
+
+401
+00:23:01,300 --> 00:23:03,720
+much because optimal
+amount of blood needs to be
+
+402
+00:23:03,720 --> 00:23:08,340
+circulating in the body or the
+heart now on the other hand
+
+403
+00:23:08,340 --> 00:23:14,020
+if the heart rate decreases
+the opposite can happen
+
+404
+00:23:14,020 --> 00:23:20,000
+but in extreme high heart
+rates like it reaching 180
+
+405
+00:23:20,000 --> 00:23:23,340
+200 when we are really severely
+working out cardiac output
+
+406
+00:23:23,340 --> 00:23:26,500
+continues to increase but
+after that threshold it
+
+407
+00:23:26,500 --> 00:23:30,600
+begins to fall it cannot
+handle that the autonomic the
+
+408
+00:23:30,600 --> 00:23:34,780
+automatic regulation mechanism
+is hit at a maximum and
+
+409
+00:23:34,780 --> 00:23:38,450
+then you are finding the
+cardiac output decreasing
+
+410
+00:23:38,450 --> 00:23:41,580
+okay so here in this example
+as the right atrial pressure
+
+411
+00:23:41,580 --> 00:23:47,840
+increases cardiac output
+cardiac output in a normal
+
+412
+00:23:47,840 --> 00:23:50,860
+situation increases and it
+flattens up after a certain
+
+413
+00:23:50,860 --> 00:23:54,880
+cardiac output okay beyond
+when the sympathetic
+
+414
+00:23:54,880 --> 00:23:58,580
+stimulation increases as in
+even pathological conditions
+
+415
+00:23:58,580 --> 00:24:01,720
+like heart failure that is
+enhanced sympathetic stimulation
+
+416
+00:24:01,720 --> 00:24:05,420
+early on especially it
+bumps up shoots up so high
+
+417
+00:24:05,640 --> 00:24:09,640
+or in parasympathetic
+stimulation it shoots down it
+
+418
+00:24:09,640 --> 00:24:15,020
+goes down okay and then the
+goal of what is the goal
+
+419
+00:24:15,020 --> 00:24:17,820
+now the main goal of all
+these things is to maintain
+
+420
+00:24:17,820 --> 00:24:20,980
+the blood pressure Blood
+pressure is the ultimate
+
+421
+00:24:20,980 --> 00:24:24,220
+thing to maintain and blood
+pressure is the product
+
+422
+00:24:24,220 --> 00:24:26,840
+of cardiac output times
+total peripheral resistance.
+
+423
+00:24:27,380 --> 00:24:27,860
+Ok,
+
+424
+00:24:28,600 --> 00:24:29,540
+these are some of the key
+
+425
+00:24:29,540 --> 00:24:31,280
+points. Remember,
+we'll move on.
+
+426
+00:24:32,080 --> 00:24:34,260
+Frank-Starling's
+Law. Alright, we are
+
+427
+00:24:34,260 --> 00:24:35,660
+getting into Frank
+-Starling's Law.
+
+428
+00:24:35,660 --> 00:24:39,060
+What is it? It refers
+to the preload. Frank
+
+429
+00:24:39,060 --> 00:24:42,060
+-Starling's Law states that
+stroke volume increases
+
+430
+00:24:42,060 --> 00:24:46,280
+as ventricular EDV
+increases. Before that,
+
+431
+00:24:46,280 --> 00:24:48,260
+why are we talking about
+Frank-Starlings law?
+
+432
+00:24:49,060 --> 00:24:52,420
+Because preload is one of
+the important factors that
+
+433
+00:24:52,420 --> 00:24:55,040
+regulate cardiac output.
+Now we are entering into
+
+434
+00:24:55,040 --> 00:24:57,960
+the topic of what factors
+regulate cardiac output.
+
+435
+00:24:58,900 --> 00:25:01,620
+One is preload, two
+is afterload, three is
+
+436
+00:25:01,620 --> 00:25:04,360
+contractility, so we are
+beginning with preload.
+
+437
+00:25:04,660 --> 00:25:07,940
+Preload refers to the
+Frank-Starlings law, which
+
+438
+00:25:07,940 --> 00:25:11,240
+means it states that
+stroke volume increases
+
+439
+00:25:11,460 --> 00:25:13,980
+as ventricular end
+diastolic volume increases.
+
+440
+00:25:13,980 --> 00:25:15,940
+So, this is the pressure
+volume loop, right,
+
+441
+00:25:16,200 --> 00:25:22,440
+back to PV loop, then
+as the ventricular end
+
+442
+00:25:22,440 --> 00:25:25,780
+diastolic volume increases.
+So, this was the original
+
+443
+00:25:25,780 --> 00:25:28,670
+end diastolic volume in
+a normal patient. In an
+
+444
+00:25:28,670 --> 00:25:32,400
+unhealthy patient, in a
+patient with, you know,
+
+445
+00:25:33,720 --> 00:25:37,140
+a diseased heart,
+the end diastolic
+
+446
+00:25:37,140 --> 00:25:39,660
+volume increases and
+reaches a new point,
+
+447
+00:25:40,000 --> 00:25:43,580
+okay. when this happens
+the stroke volume increases
+
+448
+00:25:43,580 --> 00:25:47,420
+you see this was the stroke
+volume normally now it
+
+449
+00:25:47,420 --> 00:25:50,760
+moves down to here so
+stroke volume has increased
+
+450
+00:25:50,760 --> 00:25:54,200
+which means cardiac output
+increases okay that is the
+
+451
+00:25:54,200 --> 00:25:56,940
+real point here so why does
+that happen the passive
+
+452
+00:25:56,940 --> 00:26:01,180
+stretch of the ventricular
+walls so the greater the
+
+453
+00:26:01,180 --> 00:26:03,800
+passive stretch of preload
+of the ventricle the greater
+
+454
+00:26:03,800 --> 00:26:06,900
+the force of ventricular
+contraction it's like
+
+455
+00:26:06,900 --> 00:26:11,640
+you push in so much blood
+in an elastic or an elastic
+
+456
+00:26:11,640 --> 00:26:16,620
+balloon it tries to stretch
+so similarly when heart
+
+457
+00:26:16,620 --> 00:26:19,300
+is receiving more blood
+through the right atrium it
+
+458
+00:26:19,300 --> 00:26:22,140
+tries to push out more
+blood that it has received
+
+459
+00:26:22,140 --> 00:26:27,350
+that's it that's Frank
+Stodding's law moving on what
+
+460
+00:26:28,480 --> 00:26:31,960
+is venous vasoconstriction
+contributes to increased
+
+461
+00:26:31,960 --> 00:26:34,960
+venous return and increased
+ventricular stretch that
+
+462
+00:26:34,960 --> 00:26:38,820
+leads to enough force to
+inject the extra return I
+
+463
+00:26:38,820 --> 00:26:42,800
+just explained that. And
+only the EDV changes, ESV
+
+464
+00:26:42,800 --> 00:26:46,660
+does not change. And this
+normally prevents the pooling
+
+465
+00:26:46,660 --> 00:26:49,440
+of the blood in pulmonary
+circulation. Okay, so
+
+466
+00:26:49,440 --> 00:26:52,300
+we are balancing the
+circulation by this mechanism.
+
+467
+00:26:53,160 --> 00:26:55,120
+This is Frank Starlingslaw.
+
+468
+00:26:55,300 --> 00:26:57,760
+And you need to remember this.
+
+469
+00:26:59,040 --> 00:27:01,940
+Starlink curves. So what
+are Starlink curves?
+
+470
+00:27:03,880 --> 00:27:07,280
+Starlink curves refer to set
+of curves. This is normal
+
+471
+00:27:07,280 --> 00:27:11,690
+Starlink curve okay in a
+normal struggling curve the
+
+472
+00:27:11,900 --> 00:27:17,320
+black one dark black one
+then when you're exercising
+
+473
+00:27:17,500 --> 00:27:21,780
+okay working out and the
+curve goes to the left
+
+474
+00:27:21,780 --> 00:27:25,080
+which means as the pre
+-load increases more and
+
+475
+00:27:25,080 --> 00:27:27,500
+more blood comes from the
+you know your peripheral
+
+476
+00:27:27,500 --> 00:27:31,360
+uh you know from your
+legs etc it goes up to
+
+477
+00:27:31,360 --> 00:27:33,720
+the heart and the stroke
+volume increases why
+
+478
+00:27:33,720 --> 00:27:37,080
+does heart heartbeats
+heartbeat increases at the
+
+479
+00:27:37,080 --> 00:27:40,060
+same time heart output
+volume also increases.
+
+480
+00:27:40,680 --> 00:27:43,440
+So that is because of
+this Frank Sterling's
+
+481
+00:27:43,440 --> 00:27:45,660
+law. Next time you
+go and you're working
+
+482
+00:27:45,660 --> 00:27:49,420
+out, you can feel the
+heartbeat, you can
+
+483
+00:27:49,420 --> 00:27:53,850
+feel the energy and
+the blood is pumping.
+
+484
+00:27:54,380 --> 00:27:57,020
+That means your stroke
+volume is increasing
+
+485
+00:27:57,020 --> 00:27:59,000
+and cardiac output
+is also increasing.
+
+486
+00:28:00,140 --> 00:28:03,100
+Again heart rate is balancing
+but at least the stroke
+
+487
+00:28:03,100 --> 00:28:05,580
+volume is increasing. But
+in a patient with heart
+
+488
+00:28:05,580 --> 00:28:09,280
+failure, this is heart
+failure curve, significantly
+
+489
+00:28:09,280 --> 00:28:12,120
+decreases, so the starlings
+curve moves to the right.
+
+490
+00:28:12,480 --> 00:28:15,200
+Okay, so ventricular
+volume increasing,
+
+491
+00:28:15,200 --> 00:28:17,720
+it is not generating
+enough pressure
+
+492
+00:28:17,720 --> 00:28:20,100
+and it's not generating
+enough volume.
+
+493
+00:28:20,240 --> 00:28:24,000
+So stroke volume doesn't
+increase as much and even
+
+494
+00:28:24,000 --> 00:28:27,120
+though the preload increases.
+Okay, but when you give
+
+495
+00:28:27,120 --> 00:28:31,820
+a drug such as digoxin or
+there are numerous wonderful,
+
+496
+00:28:31,820 --> 00:28:35,520
+you know, positive inotropic
+heart failure drugs,
+
+497
+00:28:35,520 --> 00:28:38,410
+drugs to improve heart
+failure, improve the
+
+498
+00:28:38,410 --> 00:28:41,520
+contractility and so on. When
+you do that, the curve shifts
+
+499
+00:28:41,520 --> 00:28:45,040
+to the left. Depending on
+how efficacious the drug
+
+500
+00:28:45,040 --> 00:28:49,180
+is, it gets closer to the
+normal or it at least tries
+
+501
+00:28:49,180 --> 00:28:52,120
+to reach there. Okay, so
+this is Starlink's curve.
+
+502
+00:28:54,080 --> 00:28:58,020
+okay one more thing I
+wanted to say in the in the
+
+503
+00:28:58,020 --> 00:29:02,800
+previous slide briefly here
+it's important to note that
+
+504
+00:29:02,800 --> 00:29:06,600
+during diastole the heart
+muscle rests and the coronary
+
+505
+00:29:06,600 --> 00:29:09,120
+blood flow to the sub
+endocardial portions of the
+
+506
+00:29:09,120 --> 00:29:12,480
+left ventricle occurs
+during diastole so then all
+
+507
+00:29:12,480 --> 00:29:15,760
+parts of the body receive
+blood during ventricular
+
+508
+00:29:15,760 --> 00:29:19,820
+systole the heart itself the
+heart muscle has to receive
+
+509
+00:29:19,820 --> 00:29:23,060
+some blood for its own
+survival right that happens
+
+510
+00:29:23,060 --> 00:29:26,860
+when heart is in diastole
+that's because the blood
+
+511
+00:29:26,860 --> 00:29:31,560
+coronary blood flow at the
+at the cusps of the aortic
+
+512
+00:29:31,560 --> 00:29:36,240
+aortic cusp right adjusted
+the origin of red ventricular
+
+513
+00:29:36,540 --> 00:29:40,460
+outflow tract it receives
+in the sinuses and coronary
+
+514
+00:29:40,460 --> 00:29:43,180
+artery originates there
+that receives blood during
+
+515
+00:29:43,180 --> 00:29:45,660
+ventricular diastole so
+both phases are important
+
+516
+00:29:45,660 --> 00:29:49,560
+okay we cannot compromise.
+All right, let's move on.
+
+517
+00:29:51,300 --> 00:29:53,740
+Afterload, what's
+afterload? Afterload is the,
+
+518
+00:29:53,740 --> 00:29:56,320
+this is a next factor
+regulating cardiac output.
+
+519
+00:29:56,320 --> 00:29:59,020
+Afterload is the arterial
+pressure that the
+
+520
+00:29:59,020 --> 00:30:02,120
+heart muscle must overcome
+to circulate breath.
+
+521
+00:30:02,760 --> 00:30:04,680
+Pause and reread that.
+
+522
+00:30:05,180 --> 00:30:07,240
+The greater the afterload,
+
+523
+00:30:07,240 --> 00:30:09,080
+the smaller the stroke volume.
+
+524
+00:30:09,400 --> 00:30:10,260
+Okay,
+
+525
+00:30:10,780 --> 00:30:13,200
+there, the greater the
+preload, the greater the stroke
+
+526
+00:30:13,200 --> 00:30:15,500
+volume here the greater
+the afterload the smaller
+
+527
+00:30:15,500 --> 00:30:18,180
+the stroke volume the decrease
+in stroke volume causes
+
+528
+00:30:18,180 --> 00:30:21,600
+an increase in end systolic
+volume so there we saw
+
+529
+00:30:21,600 --> 00:30:24,340
+end diastolic volume here
+end systolic volume from
+
+530
+00:30:24,340 --> 00:30:28,800
+here it moves to here end
+systolic volume okay increased
+
+531
+00:30:28,800 --> 00:30:31,680
+in systolic volume is
+happening and the shortening
+
+532
+00:30:31,680 --> 00:30:35,960
+is reduced so the stroke
+volume is decreasing so
+
+533
+00:30:35,960 --> 00:30:38,440
+hypertension is one scenario
+where it can increase
+
+534
+00:30:38,440 --> 00:30:40,560
+the afterload and decrease
+the stroke volume and thus
+
+535
+00:30:40,560 --> 00:30:44,380
+cardiac output so stroke
+volume was here it has now
+
+536
+00:30:44,380 --> 00:30:50,260
+become here all right lot
+of concepts so I'm moving
+
+537
+00:30:50,260 --> 00:30:54,120
+on you can please take time
+to reread and understand
+
+538
+00:30:56,160 --> 00:31:00,020
+contractility is the next
+important factor as an example
+
+539
+00:31:00,020 --> 00:31:03,020
+we can take epinephrine
+when an epinephrine is
+
+540
+00:31:03,260 --> 00:31:07,300
+endogenously or injected in
+a patient with severe allergy
+
+541
+00:31:07,300 --> 00:31:11,040
+take a patient with severe
+allergy and you have to be
+
+542
+00:31:11,040 --> 00:31:14,220
+like it's a life-saving drug
+they always carry the EpiPen
+
+543
+00:31:14,220 --> 00:31:17,200
+or the variants of it and
+then suddenly it has to
+
+544
+00:31:17,200 --> 00:31:21,200
+be given what happens immediately
+it goes into the system
+
+545
+00:31:21,200 --> 00:31:24,440
+and increases the contractility
+how does it work a
+
+546
+00:31:24,440 --> 00:31:26,440
+lot of signaling pathways
+are involved but let's talk
+
+547
+00:31:26,440 --> 00:31:30,080
+about physiology here it
+increases the isotonic shortening
+
+548
+00:31:30,080 --> 00:31:33,660
+so the stroke volume which
+was here it increases.
+
+549
+00:31:35,380 --> 00:31:38,060
+So it's an intrinsic
+measure of cardiac
+
+550
+00:31:38,060 --> 00:31:40,240
+performance augmented
+by factors like
+
+551
+00:31:40,240 --> 00:31:43,280
+epinephrine. We'll see
+a little more here.
+
+552
+00:31:43,800 --> 00:31:46,780
+So what happens here?
+When you increase the
+
+553
+00:31:46,780 --> 00:31:49,480
+contractility, it's
+called increased inotropy.
+
+554
+00:31:49,880 --> 00:31:53,520
+Okay. In a normal is
+the black one. Decreased
+
+555
+00:31:53,520 --> 00:31:57,840
+afterload means it increases
+the stroke volume. And then
+
+556
+00:31:57,840 --> 00:32:02,020
+increased afterload means
+it decreases the stroke
+
+557
+00:32:02,020 --> 00:32:05,720
+volume increased inotropy
+means it increases the
+
+558
+00:32:05,720 --> 00:32:08,340
+stroke volume and then
+decreased inotropy means
+
+559
+00:32:08,340 --> 00:32:11,780
+decreased stroke volume okay
+so take your time and think
+
+560
+00:32:11,780 --> 00:32:15,220
+and you will understand
+this course uh the whole
+
+561
+00:32:15,220 --> 00:32:17,400
+point is to understand the
+concept what how does it
+
+562
+00:32:17,400 --> 00:32:20,360
+impact the stroke volume
+how does it impact the end
+
+563
+00:32:20,360 --> 00:32:23,820
+systolic and end diastolic
+volumes okay all right
+
+564
+00:32:25,660 --> 00:32:28,960
+going on contractility right
+let's understand a little
+
+565
+00:32:28,960 --> 00:32:31,080
+bit more of the mechanism
+of contractility you're
+
+566
+00:32:31,080 --> 00:32:35,020
+expected to understand this
+all right calcium induced
+
+567
+00:32:35,020 --> 00:32:38,620
+calcium so initially what
+happens when an action potential
+
+568
+00:32:38,620 --> 00:32:43,300
+starts action potential
+right this is about the
+
+569
+00:32:43,300 --> 00:32:46,560
+lectures on electrical
+conduction and you know whatnot
+
+570
+00:32:46,560 --> 00:32:51,380
+so depolarization initiates
+the whole story and action
+
+571
+00:32:51,380 --> 00:32:54,280
+potential arrives and
+it causes an increase in
+
+572
+00:32:54,280 --> 00:32:58,380
+cytoplasmic calcium this L
+-type calcium channel through
+
+573
+00:32:58,380 --> 00:33:02,860
+that a calcium goes inside
+this small amount of calcium
+
+574
+00:33:02,860 --> 00:33:05,920
+will activate release of
+a larger amount of calcium
+
+575
+00:33:05,920 --> 00:33:09,380
+from the sarcoplasmic
+reticulum boom it comes out
+
+576
+00:33:09,380 --> 00:33:14,320
+through the ryanidin receptor
+right now this is called
+
+577
+00:33:14,320 --> 00:33:16,400
+calcium induced calcium
+release so what does it say
+
+578
+00:33:16,400 --> 00:33:19,780
+after depolarization calcium
+enters into the cytocardiomyoside
+
+579
+00:33:19,780 --> 00:33:22,960
+via L10 calcium channel
+and calcium then activates
+
+580
+00:33:22,960 --> 00:33:27,900
+the rhinodin receptors
+to and then this receptor
+
+581
+00:33:27,900 --> 00:33:30,480
+senses intracellular calcium
+and triggers the calcium
+
+582
+00:33:30,480 --> 00:33:33,780
+release from the SR this
+is the SR sarcoplasmic
+
+583
+00:33:33,780 --> 00:33:36,980
+reticulum to further increase
+the calcium availability in
+
+584
+00:33:36,980 --> 00:33:40,220
+the cell so it increases
+the calcium content in the
+
+585
+00:33:40,220 --> 00:33:44,240
+cell now this calcium will go
+and activate the sarcomeres
+
+586
+00:33:44,240 --> 00:33:48,700
+we have sarcomeres right
+here we have sarcomeres
+
+587
+00:33:48,700 --> 00:33:51,660
+and the sarcomeres will you
+would have learned in the
+
+588
+00:33:51,660 --> 00:33:55,700
+histology topic of cardiac,
+you know, heart in this
+
+589
+00:33:55,700 --> 00:33:59,760
+block. So the sarcomeres
+will receive and the troponin
+
+590
+00:33:59,940 --> 00:34:01,840
+binds with the calcium
+and it activates
+
+591
+00:34:01,840 --> 00:34:04,180
+contraction. Once the
+contraction is over,
+
+592
+00:34:04,420 --> 00:34:07,300
+hits maximum, then the
+calcium has to go back.
+
+593
+00:34:07,300 --> 00:34:10,500
+It's recycling,
+efficient recycling. It's
+
+594
+00:34:10,500 --> 00:34:13,160
+an efficient recycling
+system inside the heart.
+
+595
+00:34:13,160 --> 00:34:15,960
+Every beat this happens,
+every single beat,
+
+596
+00:34:16,260 --> 00:34:19,120
+the calcium comes
+out, calcium goes in,
+
+597
+00:34:19,120 --> 00:34:21,440
+calcium comes out,
+calcium goes in. So
+
+598
+00:34:21,440 --> 00:34:24,720
+imagine how well, how much
+it should be efficient
+
+599
+00:34:24,720 --> 00:34:29,220
+to make it to beat
+perfectly, right.
+
+600
+00:34:29,940 --> 00:34:32,100
+CERCA is an important molecule.
+
+601
+00:34:32,500 --> 00:34:35,000
+Sarcoplasmic endoplasmic
+reticulum calcium
+
+602
+00:34:35,000 --> 00:34:39,260
+ATPase is crucial in
+returning back the,
+
+603
+00:34:40,030 --> 00:34:42,420
+returning back the
+calcium. And what else?
+
+604
+00:34:42,580 --> 00:34:45,740
+Extracerellular fluid there
+is calcium and there is SR
+
+605
+00:34:45,740 --> 00:34:49,110
+is two sources for calcium
+that's the point here okay
+
+606
+00:34:50,200 --> 00:34:54,900
+and the return processor right
+there is another molecule
+
+607
+00:34:54,900 --> 00:34:59,040
+sodium calcium exchanger the
+um that's another molecule
+
+608
+00:34:59,040 --> 00:35:01,400
+involved in returning
+back the calcium what does
+
+609
+00:35:01,400 --> 00:35:04,530
+it do how does it work so one
+circa we already saw sodium
+
+610
+00:35:04,540 --> 00:35:07,960
+calcium exchanger uses
+atp energy released by the
+
+611
+00:35:07,960 --> 00:35:12,310
+movement of one solute that
+is three sodium down its
+
+612
+00:35:12,310 --> 00:35:16,360
+electrochemical gradient which
+is into the cell in exchange
+
+613
+00:35:16,360 --> 00:35:20,920
+for one calcium out of the
+cell this is uphill out
+
+614
+00:35:20,920 --> 00:35:25,080
+against the electrochemical
+gradient right against
+
+615
+00:35:25,080 --> 00:35:28,180
+electrochemical gradient so
+three sodium out one calcium
+
+616
+00:35:28,180 --> 00:35:32,660
+three sodium in excuse me
+one calcium out against the
+
+617
+00:35:32,660 --> 00:35:36,350
+gradient in the presence of
+ATP sodium calcium exchanger
+
+618
+00:35:36,350 --> 00:35:40,000
+takes out the calcium remember
+calcium was here which
+
+619
+00:35:40,000 --> 00:35:43,460
+entered here so it has to
+be taken out so this is way
+
+620
+00:35:43,460 --> 00:35:46,540
+where it goes out and a
+large amount of calcium goes
+
+621
+00:35:46,540 --> 00:35:48,980
+back in okay this is something
+you need to understand
+
+622
+00:35:48,980 --> 00:35:55,060
+we'll understand this for
+even more with an example of a
+
+623
+00:35:55,470 --> 00:35:59,950
+drug but before that I want
+you to just understand DPDT
+
+624
+00:35:59,950 --> 00:36:03,500
+remember DPDT we saw
+isovolumetric relaxation in the
+
+625
+00:36:03,500 --> 00:36:08,170
+cardiac cycle we're just
+connecting that here okay so
+
+626
+00:36:08,170 --> 00:36:11,240
+DPDT this will help us
+understand some of the factors
+
+627
+00:36:11,240 --> 00:36:14,020
+governing the isovolumetric
+relaxation right this period
+
+628
+00:36:14,020 --> 00:36:17,380
+extends from the remember
+aortic second heart sound
+
+629
+00:36:17,380 --> 00:36:20,480
+to the crossover point
+between the left ventricular
+
+630
+00:36:20,480 --> 00:36:25,880
+left atrial pressure okay
+and the maximum negative rate
+
+631
+00:36:25,880 --> 00:36:28,730
+of pressure development
+remember this is isovolumetric
+
+632
+00:36:28,730 --> 00:36:31,940
+contraction this is
+isovolumetric relaxation and this
+
+633
+00:36:32,060 --> 00:36:36,680
+filled blue area right the
+maximum negative rate of
+
+634
+00:36:36,680 --> 00:36:38,740
+pressure development which
+refers to the iso-volumetric
+
+635
+00:36:38,740 --> 00:36:44,460
+relaxation rate is increased
+when the rate of calcium
+
+636
+00:36:44,460 --> 00:36:47,180
+uptake into the sarcoplasmic
+reticulum is enhanced
+
+637
+00:36:47,180 --> 00:36:54,620
+so when the then then the
+calcium goes back in to
+
+638
+00:36:54,620 --> 00:36:57,940
+sarcoplasmic reticulum this
+is the phase that's happening
+
+639
+00:36:57,960 --> 00:37:02,200
+this is when that happens
+okay then iso-volumetric
+
+640
+00:37:02,200 --> 00:37:05,500
+relaxation happens calcium
+is returning back okay
+
+641
+00:37:05,500 --> 00:37:09,080
+keeps on it returns back
+all right so that's what i
+
+642
+00:37:09,080 --> 00:37:12,600
+wanted to take home from this
+slide and there is i have
+
+643
+00:37:12,600 --> 00:37:15,180
+written some more explanations
+in the bottom of the
+
+644
+00:37:15,580 --> 00:37:18,720
+slide you can read to
+understand more but i think
+
+645
+00:37:18,720 --> 00:37:21,060
+this is the basic thing
+that's enough i don't
+
+646
+00:37:21,060 --> 00:37:24,320
+want to go too much into
+mechanisms at this stage
+
+647
+00:37:24,320 --> 00:37:29,320
+okay all right in heart
+failure what happens in
+
+648
+00:37:29,320 --> 00:37:32,140
+a heart failure condition
+the contractility is
+
+649
+00:37:32,140 --> 00:37:37,960
+reduced when we give
+medications to treat like an
+
+650
+00:37:37,960 --> 00:37:41,000
+ancient drug like digoxin
+classic example right
+
+651
+00:37:41,760 --> 00:37:45,760
+digoxin inhibits sodium
+potassium ATPase that's another
+
+652
+00:37:45,760 --> 00:37:49,660
+important molecule we saw
+sodium calcium exchanger
+
+653
+00:37:49,660 --> 00:37:52,000
+but there is also sodium
+potassium ATPase what does
+
+654
+00:37:52,000 --> 00:37:56,440
+it do it exchanges so
+potassium K potassium in sodium
+
+655
+00:37:56,440 --> 00:38:00,100
+out so normally potassium
+goes in and sodium goes out
+
+656
+00:38:00,100 --> 00:38:06,590
+that's normal and it's
+an ATP dependent process
+
+657
+00:38:06,590 --> 00:38:13,900
+against the electrochemical
+gradient but sodium pump when
+
+658
+00:38:13,900 --> 00:38:16,920
+you give digoxin the
+intracellular sodium increases
+
+659
+00:38:16,920 --> 00:38:20,000
+which means it inhibits it
+inhibits normally sodium
+
+660
+00:38:20,000 --> 00:38:23,680
+goes out but when you give
+digoxin it inhibits this
+
+661
+00:38:23,680 --> 00:38:27,620
+enzyme and it increases the
+sodium concentration inside
+
+662
+00:38:27,620 --> 00:38:30,720
+which means it reduces the
+potassium concentration
+
+663
+00:38:30,720 --> 00:38:34,980
+outside. Less potassium
+enters inside and more sodium
+
+664
+00:38:34,980 --> 00:38:38,800
+enters inside. When more
+sodium enters inside the
+
+665
+00:38:38,800 --> 00:38:43,680
+increase in intracellular
+sodium slows down the sodium
+
+666
+00:38:43,680 --> 00:38:47,720
+calcium exchanger which
+means it slows the sodium
+
+667
+00:38:47,720 --> 00:38:51,060
+calcium exchanger which increases
+the intracellular calcium
+
+668
+00:38:51,060 --> 00:38:54,780
+ion concentration the
+whole idea behind treating
+
+669
+00:38:54,780 --> 00:38:59,300
+heart failure is increasing
+this calcium concentration
+
+670
+00:38:59,300 --> 00:39:01,800
+inside why if you increase
+calcium concentration
+
+671
+00:39:01,800 --> 00:39:04,910
+inside there's more calcium
+available to bind to troponin
+
+672
+00:39:04,910 --> 00:39:09,280
+and more contractility
+that's the idea so more
+
+673
+00:39:09,280 --> 00:39:12,200
+calcium how do you do that
+by increasing more sodium how
+
+674
+00:39:12,200 --> 00:39:15,540
+do you do more sodium increase
+by blocking the sodium
+
+675
+00:39:15,540 --> 00:39:19,460
+potassium ATPase okay
+i'll leave you here please
+
+676
+00:39:19,460 --> 00:39:25,940
+think and you will get it
+all right so that's about
+
+677
+00:39:25,940 --> 00:39:29,520
+contractility let's move on
+how do you actually measure
+
+678
+00:39:29,520 --> 00:39:33,460
+the whole heart's
+functionality in practically in
+
+679
+00:39:33,460 --> 00:39:37,780
+clinical cardiology injection
+fraction is readily measured
+
+680
+00:39:37,780 --> 00:39:42,120
+non-invasively using
+ultrasound using outpatient
+
+681
+00:39:42,120 --> 00:39:46,220
+yeah and it's a it's it's a
+it's a wonderful technique
+
+682
+00:39:46,720 --> 00:39:49,160
+You can see on the
+top here, it's a
+
+683
+00:39:49,160 --> 00:39:50,740
+methodology that can
+be used to measure.
+
+684
+00:39:52,540 --> 00:39:55,560
+You keep the probe at a
+certain location on the
+
+685
+00:39:55,560 --> 00:39:58,440
+chest, transthoracically,
+transesophageal is
+
+686
+00:39:58,440 --> 00:40:00,480
+also possible, but that's
+a little more invasive,
+
+687
+00:40:00,480 --> 00:40:03,100
+but non-invasive is on
+the top of the chest.
+
+688
+00:40:05,300 --> 00:40:07,040
+And with that, you can measure
+
+689
+00:40:07,040 --> 00:40:09,000
+end-diastolic dimension.
+
+690
+00:40:09,120 --> 00:40:12,860
+This is left ventricular
+posterior wall, this
+
+691
+00:40:12,860 --> 00:40:16,000
+is left ventricular
+anterior wall, this is
+
+692
+00:40:16,000 --> 00:40:18,280
+This is probably valve,
+so you can ignore that.
+
+693
+00:40:18,280 --> 00:40:23,030
+And this is probably
+intraventricular septum, or
+
+694
+00:40:23,360 --> 00:40:26,020
+the other side of the left
+ventricular chamber. But
+
+695
+00:40:26,020 --> 00:40:28,580
+that's not important. Let's
+talk about this region.
+
+696
+00:40:28,580 --> 00:40:31,660
+So here, this dimension
+will help us measure
+
+697
+00:40:31,660 --> 00:40:33,640
+the end diastolic
+volume. It will show.
+
+698
+00:40:33,640 --> 00:40:36,440
+Automatically it will output
+these numbers. You see in
+
+699
+00:40:36,440 --> 00:40:38,660
+the bottom left ventricular
+posterior wall diameter,
+
+700
+00:40:39,540 --> 00:40:41,840
+it shows, right? But
+it will also show the
+
+701
+00:40:41,840 --> 00:40:44,560
+estimate by Simpsons
+method, for instance,
+
+702
+00:40:45,000 --> 00:40:47,400
+and other methods we can
+get left to end diastolic
+
+703
+00:40:47,400 --> 00:40:49,000
+volume. Don't worry
+about those methods. Just
+
+704
+00:40:49,000 --> 00:40:52,200
+focus on the formula here.
+End diastolic volume minus
+
+705
+00:40:52,200 --> 00:40:54,720
+left-traumatic end
+systolic volume times 100
+
+706
+00:40:54,720 --> 00:40:58,480
+divided by EDV. So EDV minus
+ESV, first do that number
+
+707
+00:40:58,480 --> 00:41:01,200
+calculation and then
+times 100 divided by EDV.
+
+708
+00:41:01,440 --> 00:41:04,220
+EDV minus ESV is stroke
+volume. Remember,
+
+709
+00:41:04,380 --> 00:41:07,000
+this stroke volume. you
+may be given just stroke
+
+710
+00:41:07,000 --> 00:41:09,560
+volume or you may be given
+edv you may be given ESV you
+
+711
+00:41:09,560 --> 00:41:12,060
+should be able to calculate
+the this using this formula
+
+712
+00:41:12,060 --> 00:41:14,980
+what is ejection
+fraction and then fractal
+
+713
+00:41:14,980 --> 00:41:19,540
+shortening is the same thing
+except instead of volume these
+
+714
+00:41:19,540 --> 00:41:25,880
+numbers diastolic dimension
+okay LVIDD or LVEDD
+
+715
+00:41:25,880 --> 00:41:28,700
+whatever it is called as same
+thing F2 integral dimension
+
+716
+00:41:28,700 --> 00:41:30,620
+minus this is diastole
+minus this is diastole by
+
+717
+00:41:30,620 --> 00:41:33,340
+diastole is fractional
+shortening okay these are
+
+718
+00:41:33,340 --> 00:41:36,100
+clinically used parameters
+to assess how well the heart
+
+719
+00:41:36,100 --> 00:41:42,560
+is pumping okay and this
+just shows how it shows how
+
+720
+00:41:42,560 --> 00:41:46,760
+integrated the whole system
+is how interacting it
+
+721
+00:41:46,760 --> 00:41:51,820
+is after load after load is
+after load contract preload
+
+722
+00:41:51,820 --> 00:41:54,220
+all of them determine
+myocardial fiber shortening
+
+723
+00:41:54,560 --> 00:41:57,460
+and that determines the
+stroke volume we already
+
+724
+00:41:57,460 --> 00:42:00,060
+saw that stroke volume
+times heart rate is cardiac
+
+725
+00:42:00,060 --> 00:42:02,060
+output. Cardiac output
+times peripheral resistance
+
+726
+00:42:02,060 --> 00:42:04,900
+is RTL pressure. So it
+just brings all of them
+
+727
+00:42:04,900 --> 00:42:08,840
+together in one chart.
+And left ventricular size
+
+728
+00:42:08,840 --> 00:42:11,620
+increases is also impacting
+the stroke volume.
+
+729
+00:42:12,040 --> 00:42:12,520
+Okay.
+
+730
+00:42:13,000 --> 00:42:15,500
+All right. And
+increases the solid
+
+731
+00:42:15,500 --> 00:42:18,000
+line and decreases
+the broken line.
+
+732
+00:42:18,340 --> 00:42:19,740
+Let's move on.
+
+733
+00:42:22,260 --> 00:42:26,820
+And just one note on
+echocardiogram. Traditionally,
+
+734
+00:42:26,820 --> 00:42:29,540
+it's a big machine, but
+nowadays handheld devices are
+
+735
+00:42:29,540 --> 00:42:32,720
+coming it's really cool
+you can just have one small
+
+736
+00:42:32,720 --> 00:42:37,860
+handheld device and measure
+these parameters you know
+
+737
+00:42:38,020 --> 00:42:42,380
+in ER for instance it's
+even more convenient or even
+
+738
+00:42:42,380 --> 00:42:47,340
+in in trauma conditions even
+in um war zones it can be
+
+739
+00:42:47,340 --> 00:42:49,860
+used when someone is really
+affected immediately you
+
+740
+00:42:49,860 --> 00:42:51,820
+can check how good the
+blood flow is it's not just
+
+741
+00:42:51,820 --> 00:42:54,860
+for the heart any vascular
+blood flow can be measured,
+
+742
+00:42:55,300 --> 00:42:58,470
+you know, it's really
+helpful in various conditions
+
+743
+00:42:58,470 --> 00:43:03,060
+and you can and people
+are also using like
+
+744
+00:43:03,060 --> 00:43:07,000
+a stethoscope so future
+of stethoscope we don't
+
+745
+00:43:07,000 --> 00:43:09,970
+know but I think it's
+really a cool technology.
+
+746
+00:43:11,100 --> 00:43:15,460
+All right moving on in
+the interest of time
+
+747
+00:43:15,460 --> 00:43:17,980
+I would let you work
+on this Starling's
+
+748
+00:43:17,980 --> 00:43:19,990
+law. Pause, I'm going
+to say the answer.
+
+749
+00:43:20,810 --> 00:43:23,480
+C is the answer, C
+is in Charlie. Okay,
+
+750
+00:43:23,600 --> 00:43:24,780
+so let's move on.
+
+751
+00:43:26,600 --> 00:43:29,660
+Cardiac output, these are
+variables like preload,
+
+752
+00:43:29,660 --> 00:43:32,860
+afterload, contractility.
+Please take time to read. These
+
+753
+00:43:32,860 --> 00:43:37,120
+are self-explanatory, you know,
+how do venous vasodilators
+
+754
+00:43:37,120 --> 00:43:39,900
+impact the preload, how
+do arterial vasodilators
+
+755
+00:43:39,900 --> 00:43:43,460
+impact afterload. These are
+some of the pharmacological
+
+756
+00:43:43,460 --> 00:43:45,360
+examples, which you will
+study more in detail in
+
+757
+00:43:45,360 --> 00:43:47,760
+the pharmacology lectures.
+It's just giving you context
+
+758
+00:43:47,760 --> 00:43:51,940
+here okay and CARD is the
+acronym that impacts the
+
+759
+00:43:51,940 --> 00:43:54,860
+cardiac myocardialoxic demand
+ejection fraction we already
+
+760
+00:43:54,860 --> 00:43:57,300
+saw in heart failure with
+reduced ejection fraction
+
+761
+00:43:57,300 --> 00:43:59,980
+reduces heart failure with
+preserved ejection fraction
+
+762
+00:43:59,980 --> 00:44:03,450
+it is preserved so even if
+ejection fraction is normal
+
+763
+00:44:03,450 --> 00:44:05,940
+heart can mean heart
+failure and that's another
+
+764
+00:44:05,940 --> 00:44:10,300
+whole big separate world
+it's a newer thing it's more
+
+765
+00:44:10,300 --> 00:44:14,360
+recently discovered phenomena
+that it's a bigger issue
+
+766
+00:44:14,360 --> 00:44:19,700
+and more tell model as well
+case study okay we are getting
+
+767
+00:44:19,700 --> 00:44:23,560
+to the case study remember
+in the first hour we saw
+
+768
+00:44:23,560 --> 00:44:26,640
+i introduced the case
+briefly but let's look into
+
+769
+00:44:26,640 --> 00:44:29,780
+the case 73 year old man
+visits the yard with complaints
+
+770
+00:44:29,780 --> 00:44:33,580
+of exceptional dyspnea syncope
+chest pain hypercholesterolemia
+
+771
+00:44:34,170 --> 00:44:36,960
+11 year history of
+hypertension bp is not
+
+772
+00:44:36,960 --> 00:44:40,620
+increased lungs are clear
+systolic murmur loudest over
+
+773
+00:44:40,620 --> 00:44:45,580
+the aorta peaks at mid-systole
+ECG ST segment is normal
+
+774
+00:44:45,810 --> 00:44:49,360
+left axis deviation large
+left ventricle in the x
+
+775
+00:44:49,360 --> 00:44:55,720
+-ray calcified aortic valve
+you know but observed
+
+776
+00:44:55,720 --> 00:44:58,980
+echocardiogram shows increased
+velocity of flow through the
+
+777
+00:44:58,980 --> 00:45:01,560
+systolic portion of the
+cardiac cycle left heart is
+
+778
+00:45:01,560 --> 00:45:03,920
+enlarged and left ventricular
+hypertrophic cardiac enzymes
+
+779
+00:45:03,920 --> 00:45:07,180
+are normal which means
+there is no possibility of
+
+780
+00:45:07,180 --> 00:45:10,390
+myocardial infarction so
+going to the answer options
+
+781
+00:45:10,390 --> 00:45:13,600
+antihypertensive what is the
+treatment option here the
+
+782
+00:45:13,600 --> 00:45:17,080
+question is oh where is the
+question I think the question
+
+783
+00:45:17,080 --> 00:45:19,320
+probably is missing I
+apologize for that so the
+
+784
+00:45:19,320 --> 00:45:22,620
+question is what is the
+treatment your treatment option
+
+785
+00:45:22,620 --> 00:45:26,640
+is antihypertensive therapy
+no because the pressures
+
+786
+00:45:26,640 --> 00:45:29,600
+are normal even though he
+has history pressure pressure
+
+787
+00:45:29,600 --> 00:45:32,320
+is in fact on the little
+on the lower end systolic
+
+788
+00:45:32,420 --> 00:45:37,060
+coronary artery bypass grafting
+when do you do that? You
+
+789
+00:45:37,060 --> 00:45:39,800
+do it or even percutaneous
+coronary intervention.
+
+790
+00:45:39,800 --> 00:45:43,000
+Whenever there is a heart
+attack or unstable angina,
+
+791
+00:45:43,060 --> 00:45:46,860
+NSTEMI. NSTEMI is non-ST
+elevated myocardial infarction.
+
+792
+00:45:47,340 --> 00:45:50,080
+So these are situations
+where patients may
+
+793
+00:45:50,080 --> 00:45:52,360
+need one of these,
+percutaneous coronary
+
+794
+00:45:52,360 --> 00:45:54,600
+intervention or coronary
+artery bypass grafting.
+
+795
+00:45:55,380 --> 00:45:58,680
+Aortic valve replacement,
+we'll come back to that.
+
+796
+00:45:58,880 --> 00:46:02,020
+Sublingual nitroglycerin,
+again it's used for angina.
+
+797
+00:46:02,020 --> 00:46:05,420
+Angina is chest pain because
+of ischemic heart disease.
+
+798
+00:46:05,420 --> 00:46:08,860
+In this case, it's a valve
+problem. Why? You see there
+
+799
+00:46:08,860 --> 00:46:11,560
+is a systolic murmur,
+there is a calification of
+
+800
+00:46:11,560 --> 00:46:16,120
+aortic valve, and there is,
+and which means there is left
+
+801
+00:46:16,120 --> 00:46:18,940
+ventricular heart is
+enlarged. Let's see if I have
+
+802
+00:46:18,940 --> 00:46:21,700
+another figure here. Yes, I
+have a figure here. So, what
+
+803
+00:46:21,700 --> 00:46:25,220
+happens is, whenever there is
+aortic valve is obstructed,
+
+804
+00:46:25,220 --> 00:46:28,780
+which means aortic valve
+is closing here, it's not
+
+805
+00:46:28,780 --> 00:46:33,620
+able to close fully, and
+because of that, there is a,
+
+806
+00:46:35,150 --> 00:46:39,690
+because of that,
+the, I think the, the
+
+807
+00:46:39,690 --> 00:46:43,180
+pressure here significantly
+will increase,
+
+808
+00:46:43,740 --> 00:46:48,000
+okay, it goes very high
+so that's what happens and
+
+809
+00:46:48,000 --> 00:46:53,160
+because of that I don't have
+more figures so because of
+
+810
+00:46:53,160 --> 00:46:56,780
+that there is the systolic
+murmur you're hearing
+
+811
+00:46:56,780 --> 00:47:01,220
+loudest at the aorta at the
+peak mid system right so
+
+812
+00:47:01,220 --> 00:47:03,960
+that means the treatment
+that you need is aortic valve
+
+813
+00:47:03,960 --> 00:47:07,260
+either repair or replacement
+depending on the patient
+
+814
+00:47:07,270 --> 00:47:11,820
+conditions okay I think
+we're getting close to time
+
+815
+00:47:11,960 --> 00:47:16,500
+we'll move on so this is
+summary we saw laplace we
+
+816
+00:47:16,500 --> 00:47:19,540
+saw pressure volume loops
+we saw cardiac output we saw
+
+817
+00:47:19,540 --> 00:47:22,230
+stroke volume factors
+regulating preload afterload
+
+818
+00:47:22,230 --> 00:47:24,680
+contractility and so on and
+some pathological conditions
+
+819
+00:47:24,680 --> 00:47:28,400
+you can there are more
+examples and I will give
+
+820
+00:47:28,400 --> 00:47:33,620
+some some sample questions
+in the next few slides this
+
+821
+00:47:33,780 --> 00:47:38,800
+is a cool you know practice
+TV loop so go to the site
+
+822
+00:47:38,800 --> 00:47:42,220
+and practice various
+different scenarios clinical
+
+823
+00:47:42,220 --> 00:47:46,440
+questions with explanations
+they explain so this is
+
+824
+00:47:46,440 --> 00:47:51,580
+important questions may come
+using you know like with
+
+825
+00:47:51,580 --> 00:47:55,480
+this time and here you go
+you have bunch of practice
+
+826
+00:47:55,480 --> 00:47:58,540
+sample questions from my own
+collection that I've given
+
+827
+00:47:58,540 --> 00:48:01,300
+and then you have a
+scholar Rx three different
+
+828
+00:48:01,300 --> 00:48:05,400
+scholar Rx links with questions
+are available these are
+
+829
+00:48:05,630 --> 00:48:08,340
+detailed key studies there
+you go so you have a bunch
+
+830
+00:48:08,340 --> 00:48:10,920
+of books here cases and
+cancer books this is second
+
+831
+00:48:10,920 --> 00:48:13,900
+book third book they have
+questions here as well so
+
+832
+00:48:13,900 --> 00:48:17,860
+login using inward id as
+needed and start practicing
+
+833
+00:48:18,100 --> 00:48:21,400
+these are actual reference
+books materials uh
+
+834
+00:48:21,400 --> 00:48:24,980
+recent books as well
+scholar products as well
+
+835
+00:48:25,260 --> 00:48:28,960
+that's pretty much it um
+i think that's all if you
+
+836
+00:48:28,960 --> 00:48:31,800
+have you know more
+questions uh feel free to
+
+837
+00:48:31,800 --> 00:48:36,600
+email me i hope things have
+been clear we saw we saw
+
+838
+00:48:36,600 --> 00:48:39,980
+various different concepts
+so best wishes and
+
+839
+00:48:39,980 --> 00:48:42,200
+And we will see you in
+another session, thank you.

@@ -50,7 +50,12 @@ function loadLectureSummary(filePath) {
 
     // Pattern 1: receiveLectureContent
     if (lectureData) {
+        // Cardio (cv*) files put the markdown straight in `content` as a string;
+        // older neuro files use `summary`, or nest it under `content.summary`.
+        // Without the string case every cv lecture reported "empty summary" and
+        // kept a stale readingTime.
         const summary = lectureData.summary
+            || (typeof lectureData.content === 'string' ? lectureData.content : '')
             || (lectureData.content && lectureData.content.summary)
             || '';
         return { summary: String(summary) };

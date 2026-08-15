@@ -1,0 +1,4505 @@
+1
+00:00:00,990 --> 00:00:04,710
+Hello, everyone. Welcome
+to another session
+
+2
+00:00:04,710 --> 00:00:09,450
+on lung mechanics today,
+specifically focusing
+
+3
+00:00:09,450 --> 00:00:13,490
+on the pressures
+acting on the system.
+
+4
+00:00:13,670 --> 00:00:17,810
+Okay, I am Vishwa Rajapal,
+again, Associate Professor
+
+5
+00:00:17,810 --> 00:00:22,350
+in Biomedical Sciences,
+and let's dive in. So
+
+6
+00:00:22,350 --> 00:00:24,570
+here are the learning
+objectives. To distinguish
+
+7
+00:00:24,570 --> 00:00:27,590
+between pulmonary and
+alveolar ventilation in normal
+
+8
+00:00:27,590 --> 00:00:31,930
+respiratory physiology, to
+apply muscle anatomy involved
+
+9
+00:00:31,930 --> 00:00:34,590
+in the generation of
+pulmonary pressures, to
+
+10
+00:00:34,590 --> 00:00:37,910
+deconstruct lung mechanics
+generating three key
+
+11
+00:00:37,910 --> 00:00:42,190
+pressures, intrapleural,
+alveolar, and transpulmonary.
+
+12
+00:00:42,190 --> 00:00:47,170
+to chart the functional
+relationship between these
+
+13
+00:00:47,170 --> 00:00:50,420
+three types of pressures
+in a combined fashion and
+
+14
+00:00:50,420 --> 00:00:53,830
+understanding how is it
+relevant for clinical conditions
+
+15
+00:00:53,830 --> 00:00:57,030
+such as restrictive and
+obstructive diseases.
+
+16
+00:00:58,260 --> 00:01:00,050
+We'll also see other conditions
+
+17
+00:01:00,050 --> 00:01:01,610
+as well whenever possible.
+
+18
+00:01:02,630 --> 00:01:03,670
+Okay,
+
+19
+00:01:03,810 --> 00:01:07,790
+so back to ventilation,
+
+20
+00:01:08,310 --> 00:01:12,490
+well, we introduced in
+the previous session
+
+21
+00:01:12,490 --> 00:01:15,010
+on the basic concepts,
+what is ventilation,
+
+22
+00:01:15,010 --> 00:01:18,230
+what is diffusion, you
+know, at a broad level.
+
+23
+00:01:18,470 --> 00:01:21,550
+And later, other
+sessions will deal much
+
+24
+00:01:21,550 --> 00:01:24,150
+greater into that,
+into these. So we'll
+
+25
+00:01:24,150 --> 00:01:27,190
+again expand more
+on ventilation here.
+
+26
+00:01:29,550 --> 00:01:34,110
+okay okay so lung volumes
+and capacities just as a
+
+27
+00:01:34,110 --> 00:01:38,990
+refresher to bring that
+back in your memory what is
+
+28
+00:01:38,990 --> 00:01:42,110
+what are lung volumes and
+what are lung capacities
+
+29
+00:01:42,530 --> 00:01:46,130
+there are this tidal volume
+which is the normal breathing
+
+30
+00:01:46,130 --> 00:01:48,170
+that we saw in the previous
+session on the basic
+
+31
+00:01:48,170 --> 00:01:52,190
+concepts and then inspiratory
+reserve volume the deep
+
+32
+00:01:52,190 --> 00:01:55,350
+inspiration that we take
+and then expiratory reserve
+
+33
+00:01:55,350 --> 00:01:58,350
+volume more than the normal
+breathing expiration.
+
+34
+00:01:58,390 --> 00:02:01,270
+And then we have, below
+that we have residual volume
+
+35
+00:02:01,270 --> 00:02:04,950
+which cannot be breathed out,
+right, with our voluntary
+
+36
+00:02:04,950 --> 00:02:08,230
+effort. And then when we
+combine a couple of these,
+
+37
+00:02:08,230 --> 00:02:11,410
+then we get capacities such
+as inspiratory capacity,
+
+38
+00:02:11,410 --> 00:02:14,630
+vital capacity, or sometimes
+forced vital capacity,
+
+39
+00:02:14,710 --> 00:02:17,470
+and then functional residual
+capacity, and then total
+
+40
+00:02:17,470 --> 00:02:22,610
+lung capacity. Okay, with
+that uh with that uh concept
+
+41
+00:02:22,610 --> 00:02:26,950
+those concepts back in our
+mind behind let us move
+
+42
+00:02:26,950 --> 00:02:30,410
+on uh focusing more on
+the ventilatory mechanics
+
+43
+00:02:30,410 --> 00:02:36,190
+ventilation ventilation it's
+a result of mechanical forces
+
+44
+00:02:36,430 --> 00:02:40,490
+associated with chest wall
+and the lungs so it's like
+
+45
+00:02:40,490 --> 00:02:45,200
+a battle a good battle that's
+happening between both so
+
+46
+00:02:45,200 --> 00:02:50,330
+remember that lung is an
+elastic structure that
+
+47
+00:02:50,330 --> 00:02:53,910
+collapses like a balloon okay
+imagine you're blowing a balloon
+
+48
+00:02:53,910 --> 00:02:59,010
+and that's that's like a
+lung okay and it expels
+
+49
+00:02:59,010 --> 00:03:02,590
+all its air through the
+trachea whenever there is no
+
+50
+00:03:02,590 --> 00:03:07,450
+force to keep it inflated
+okay all its air means all its
+
+51
+00:03:07,830 --> 00:03:11,950
+that is possible there are
+no attachments between the
+
+52
+00:03:11,950 --> 00:03:14,430
+lungs and the walls of the
+chest cage really speaking
+
+53
+00:03:14,430 --> 00:03:19,770
+it's not like stuck uh to
+any tissue um in the body
+
+54
+00:03:19,770 --> 00:03:23,470
+except there on the top
+except where it is suspended
+
+55
+00:03:23,470 --> 00:03:26,350
+at its hilum from the
+media stenum uh the middle
+
+56
+00:03:26,350 --> 00:03:29,490
+section of the chest cavity
+so uh except that reason lungs
+
+57
+00:03:29,490 --> 00:03:33,570
+is like like floating
+floating balloon okay um it's
+
+58
+00:03:33,570 --> 00:03:35,970
+interesting imagine. So it's
+floating in the thoracic
+
+59
+00:03:35,970 --> 00:03:38,870
+cavity surrounded by a
+thin layer of pleural fluid
+
+60
+00:03:38,870 --> 00:03:41,670
+that lubricates the movement
+of the lungs within the
+
+61
+00:03:41,670 --> 00:03:45,170
+cavity. Okay, thin layer of
+pleural fluid, about which
+
+62
+00:03:45,170 --> 00:03:47,850
+we'll look in greater
+detail. So what's happening?
+
+63
+00:03:49,610 --> 00:03:52,730
+Here you have forces in,
+
+64
+00:03:52,930 --> 00:03:55,590
+let me take a better
+color. All right.
+
+65
+00:03:55,890 --> 00:03:59,710
+So there is, there are
+forces pushing inside and
+
+66
+00:03:59,710 --> 00:04:04,610
+there are forces from the
+diaphragm pushing up during
+
+67
+00:04:05,050 --> 00:04:09,050
+when breathing out
+diaphragm moves up breathing
+
+68
+00:04:09,050 --> 00:04:12,390
+in diaphragm moves down
+okay when you're breathing
+
+69
+00:04:12,390 --> 00:04:20,490
+in the chest expands and
+then breathing out it it
+
+70
+00:04:20,490 --> 00:04:25,470
+goes in okay we'll into the
+dynamics in more detail.
+
+71
+00:04:27,210 --> 00:04:28,490
+All right.
+
+72
+00:04:28,770 --> 00:04:33,710
+So again, refreshing on
+pulmonary and alveoli
+
+73
+00:04:33,710 --> 00:04:35,770
+ventilation. What are the
+differences between these
+
+74
+00:04:35,770 --> 00:04:38,470
+pulmonary ventilation,
+which is sometimes referred
+
+75
+00:04:38,470 --> 00:04:42,590
+to as minute ventilation
+or minute volume. Okay.
+
+76
+00:04:44,050 --> 00:04:48,130
+Minute ventilation or
+minute volume. It's a gross
+
+77
+00:04:48,130 --> 00:04:51,070
+ventilation per minute which
+is the product of tidal
+
+78
+00:04:51,070 --> 00:04:54,130
+volume times respiratory
+rate that's it you've got to
+
+79
+00:04:54,130 --> 00:04:57,530
+remember this tidal volume
+times respiratory rate um
+
+80
+00:04:58,990 --> 00:05:02,430
+i'm not i'm not saying
+uh you know equality
+
+81
+00:05:02,430 --> 00:05:06,410
+but just as a as a
+relative comparison
+
+82
+00:05:06,690 --> 00:05:10,430
+in the heart we saw cardiac
+output is the product
+
+83
+00:05:10,430 --> 00:05:14,030
+of stroke volume times heart
+rate right stroke volume
+
+84
+00:05:14,030 --> 00:05:16,910
+times heart rate is cardiac
+output, drawing parallel
+
+85
+00:05:16,910 --> 00:05:21,910
+to, that's liquid, here
+it's gas, and here it's
+
+86
+00:05:21,910 --> 00:05:23,490
+the prime pulmonary
+ventilation, which is the
+
+87
+00:05:23,490 --> 00:05:26,290
+product of tidal volume and
+respirator rate, you know,
+
+88
+00:05:26,590 --> 00:05:29,890
+it's, it's something to
+remember, something that helps
+
+89
+00:05:29,890 --> 00:05:34,830
+you, if it helps you, it
+helps, it'll remember easily.
+
+90
+00:05:34,830 --> 00:05:37,430
+Alveolar ventilation.
+Alveolar ventilation is the
+
+91
+00:05:37,430 --> 00:05:41,510
+fresh air that reaches gas
+exchange areas of the lungs.
+
+92
+00:05:41,510 --> 00:05:44,130
+Gas exchange areas of the
+lungs. So that means you've
+
+93
+00:05:44,130 --> 00:05:47,750
+got to remove the dead
+space. So it's only the gas
+
+94
+00:05:47,750 --> 00:05:50,970
+exchange areas, not all areas
+of the lungs. So when you
+
+95
+00:05:51,090 --> 00:05:54,530
+subtract the dead space,
+then what you get is from
+
+96
+00:05:54,530 --> 00:05:56,930
+the pulmonary ventilation,
+if you subtract tidal volume,
+
+97
+00:05:56,930 --> 00:05:59,610
+you get alveolar ventilation.
+concept to remember.
+
+98
+00:06:01,110 --> 00:06:03,470
+The dead space is physiological
+
+99
+00:06:03,470 --> 00:06:07,210
+dead space volume and you have
+
+100
+00:06:09,030 --> 00:06:14,450
+so we saw what alveolar
+ventilation means it's the total
+
+101
+00:06:14,450 --> 00:06:17,310
+volume of new air entering
+the alveoli and adjacent
+
+102
+00:06:17,310 --> 00:06:21,690
+gas exchange areas each
+minute and if you if you give
+
+103
+00:06:21,690 --> 00:06:24,690
+some numbers to this the
+tidal volume let's say if you
+
+104
+00:06:24,690 --> 00:06:28,630
+give 500 ml and dead space
+if you give approximately
+
+105
+00:06:28,630 --> 00:06:33,070
+150 ml and respiratory rate
+if you give 15 breaths per
+
+106
+00:06:33,070 --> 00:06:35,950
+minute it could be like 20
+to 12 excuse me 12 to 18 in
+
+107
+00:06:35,950 --> 00:06:39,530
+adults maybe uh 15 let's
+say if you give average and
+
+108
+00:06:39,530 --> 00:06:43,670
+then what is albaba ventilation
+um 350 times 15 you get
+
+109
+00:06:43,780 --> 00:06:49,190
+5250 ml per minute okay 5
+.2 5.3 liters per minute in
+
+110
+00:06:49,190 --> 00:06:52,230
+average so note that in an
+individual with healthy lungs,
+
+111
+00:06:52,230 --> 00:06:55,490
+the anatomical and the
+physiological dead spaces are
+
+112
+00:06:55,490 --> 00:06:59,650
+nearly equal because why? All
+the alveoli are functional
+
+113
+00:06:59,650 --> 00:07:02,650
+in normal lung. But in
+some pathologies, what
+
+114
+00:07:02,650 --> 00:07:07,390
+happens is the physiological
+dead space may be as much as
+
+115
+00:07:07,390 --> 00:07:11,050
+10 times the volume of
+anatomical dead space, which
+
+116
+00:07:11,050 --> 00:07:14,630
+means it could go up to one
+to two liters. So typically,
+
+117
+00:07:14,910 --> 00:07:18,010
+it's the physiological
+dead space and the
+
+118
+00:07:18,010 --> 00:07:20,230
+anatomical dead space
+are close to one another.
+
+119
+00:07:20,350 --> 00:07:22,090
+But in pathological
+conditions, the
+
+120
+00:07:22,090 --> 00:07:24,230
+physiological dead space
+can be as high as 10.
+
+121
+00:07:24,540 --> 00:07:26,250
+You know, it could
+go up to that
+
+122
+00:07:26,250 --> 00:07:27,930
+level. So just to
+give you a context.
+
+123
+00:07:28,910 --> 00:07:31,330
+Okay, let's move on. We've got
+
+124
+00:07:31,330 --> 00:07:33,870
+a lot of good
+concepts to cover.
+
+125
+00:07:34,990 --> 00:07:38,850
+So summarizing ventilation,
+you have tidal volume on
+
+126
+00:07:38,850 --> 00:07:41,310
+the top, you have total
+ventilation, you have anatomical
+
+127
+00:07:41,310 --> 00:07:45,190
+dead space, as I said, it
+could be a range of 150 ml
+
+128
+00:07:45,190 --> 00:07:48,830
+and then frequency, 15
+frequencies, respiratory rate.
+
+129
+00:07:49,130 --> 00:07:52,350
+Alveolar gas could be 3000
+ml. Alveolar ventilation
+
+130
+00:07:52,350 --> 00:07:56,150
+is 5.2 meters per
+minute, I saw. You don't
+
+131
+00:07:56,150 --> 00:07:58,490
+worry about this ratio,
+you will learn that later.
+
+132
+00:07:58,570 --> 00:08:00,290
+And then the pulmonary blood
+
+133
+00:08:00,290 --> 00:08:02,410
+flow, you'll learn later. Okay,
+
+134
+00:08:02,530 --> 00:08:05,110
+so this is the context.
+So this is one single
+
+135
+00:08:05,110 --> 00:08:06,730
+alveolus, right?
+We'll look into what's
+
+136
+00:08:06,730 --> 00:08:09,010
+happening in the alveolus,
+outside alveolus. We
+
+137
+00:08:09,010 --> 00:08:11,210
+won't go into the
+perfusion, that comes later.
+
+138
+00:08:14,810 --> 00:08:17,570
+All right, now,
+proper pressures
+
+139
+00:08:17,570 --> 00:08:19,050
+acting on the system, right?
+
+140
+00:08:19,330 --> 00:08:21,530
+Okay, what happens
+when we breathe?
+
+141
+00:08:21,530 --> 00:08:23,130
+What happens when we breathe?
+
+142
+00:08:23,130 --> 00:08:27,210
+The lungs can be expanded
+and contracted in two ways.
+
+143
+00:08:29,530 --> 00:08:31,590
+One, downward movement.
+
+144
+00:08:31,750 --> 00:08:34,850
+The other is downward
+or upward, okay?
+
+145
+00:08:34,850 --> 00:08:36,870
+Downward or upward.
+And then the
+
+146
+00:08:36,870 --> 00:08:41,490
+other is forward,
+forward or backward.
+
+147
+00:08:41,490 --> 00:08:43,690
+So the downward or
+upward movement of the
+
+148
+00:08:43,690 --> 00:08:46,510
+diaphragm to lengthen or
+shorten the chest cavity.
+
+149
+00:08:46,510 --> 00:08:49,190
+And then by elevation
+or depression of the
+
+150
+00:08:49,190 --> 00:08:54,190
+ribs, it helps to increase
+or decrease the anterior
+
+151
+00:08:54,190 --> 00:08:56,890
+-posterior diameter
+of the chest cavity.
+
+152
+00:08:56,890 --> 00:08:58,890
+Anterior-posterior diameter
+of the chest cavity.
+
+153
+00:08:59,070 --> 00:09:02,900
+So you have chest expanding
+during inhalation or
+
+154
+00:09:02,900 --> 00:09:05,330
+inspiration. This is the
+sternum, this is the ribs,
+
+155
+00:09:05,330 --> 00:09:08,130
+and lungs, and all the
+areas you see, diaphragm
+
+156
+00:09:08,130 --> 00:09:10,790
+contracts, key, very
+important thing to remember.
+
+157
+00:09:10,890 --> 00:09:12,530
+Diaphragmatic contraction is
+
+158
+00:09:12,530 --> 00:09:15,130
+crucial for normal inspiration.
+
+159
+00:09:15,130 --> 00:09:17,690
+And then diaphragmatic
+relaxation is
+
+160
+00:09:17,690 --> 00:09:21,550
+crucial for normal
+expiration or exhalation.
+
+161
+00:09:21,650 --> 00:09:24,610
+And chest contraction happens.
+
+162
+00:09:24,610 --> 00:09:27,450
+While here, chest
+expansion happens. Okay.
+
+163
+00:09:27,590 --> 00:09:28,650
+Okay.
+
+164
+00:09:29,790 --> 00:09:30,910
+Next.
+
+165
+00:09:32,590 --> 00:09:35,550
+Muscles, what are the
+muscles that cause lung
+
+166
+00:09:35,550 --> 00:09:38,550
+expansion and contraction?
+One we saw, diaphragm, here
+
+167
+00:09:38,550 --> 00:09:41,810
+it is, diaphragm flattening
+during inspiration.
+
+168
+00:09:41,950 --> 00:09:45,510
+When air flows in, that is
+inspiration or inhalation,
+
+169
+00:09:46,570 --> 00:09:49,430
+diaphragm flattens. That
+means diaphragm contracts.
+
+170
+00:09:49,730 --> 00:09:54,070
+And the opposite happens
+when air flows out,
+
+171
+00:09:54,070 --> 00:09:57,230
+diaphragm dooms up
+and relaxes. And ribs
+
+172
+00:09:57,230 --> 00:10:01,170
+move down and in. Here
+ribs move up and out.
+
+173
+00:10:01,310 --> 00:10:04,630
+So this is the most
+important muscle, arguably
+
+174
+00:10:04,630 --> 00:10:06,470
+the most important
+muscle of inspiration,
+
+175
+00:10:06,730 --> 00:10:11,430
+the diaphragm. And then
+the elevated, there is
+
+176
+00:10:11,430 --> 00:10:13,900
+also, during inspiration,
+increased vertical
+
+177
+00:10:13,900 --> 00:10:16,150
+diameter, we saw in the
+previous figure too.
+
+178
+00:10:16,150 --> 00:10:18,850
+And then increased AP
+diameter thickness by
+
+179
+00:10:18,850 --> 00:10:22,470
+approximately greater than or
+equal to 20% it can happen.
+
+180
+00:10:22,470 --> 00:10:25,890
+Okay? The anterior posterior
+diameter thickness.
+
+181
+00:10:26,550 --> 00:10:29,830
+Now on the top right you
+see a figure. What is this?
+
+182
+00:10:30,590 --> 00:10:32,290
+It's an igloo.
+
+183
+00:10:32,630 --> 00:10:35,330
+In the cold countries
+you can see.
+
+184
+00:10:35,970 --> 00:10:40,710
+So imagine an igloo without
+a closed door. Okay,
+
+185
+00:10:40,710 --> 00:10:44,010
+imagine a closed door. And
+on the top, you have chimney.
+
+186
+00:10:44,170 --> 00:10:46,030
+Why do we have
+this figure here?
+
+187
+00:10:46,190 --> 00:10:52,090
+So, if you, the
+internal, so it, it helps
+
+188
+00:10:52,090 --> 00:10:54,950
+mimic or helps us
+understand how lungs
+
+189
+00:10:54,950 --> 00:10:57,990
+can work. In this
+figure, in this top right
+
+190
+00:10:57,990 --> 00:11:01,770
+figure, you see,
+it's, it's, it burns,
+
+191
+00:11:02,150 --> 00:11:04,900
+the chimney burns, and
+air has to be exchanging
+
+192
+00:11:04,950 --> 00:11:08,090
+inside and outside.
+So imagine, again,
+
+193
+00:11:08,090 --> 00:11:10,450
+a doorless igloo or a
+closed door igloo with
+
+194
+00:11:10,450 --> 00:11:13,990
+a chimney pump and
+an internal fire that
+
+195
+00:11:13,990 --> 00:11:16,650
+models the alveolar
+ventilation and perfusion.
+
+196
+00:11:17,230 --> 00:11:21,550
+So the pump's speed
+represents the ventilation
+
+197
+00:11:21,550 --> 00:11:25,590
+rate, the ventilation
+rate of the breathing.
+
+198
+00:11:25,690 --> 00:11:29,250
+And then that refreshes
+the air because air
+
+199
+00:11:29,250 --> 00:11:30,910
+refreshing is important,
+circulation is
+
+200
+00:11:30,910 --> 00:11:33,910
+important. And the size
+of the fire represents
+
+201
+00:11:33,910 --> 00:11:37,490
+perfusion. You'll learn
+that later. And that
+
+202
+00:11:37,490 --> 00:11:39,650
+helps exchange oxygen
+and carbon dioxide.
+
+203
+00:11:40,490 --> 00:11:46,050
+And altering either, you
+know, predictably, altering
+
+204
+00:11:46,050 --> 00:11:48,550
+either of these predictably
+changes the air composition
+
+205
+00:11:48,550 --> 00:11:52,990
+and that illustrates the
+lung physiology. And the
+
+206
+00:11:52,990 --> 00:11:59,170
+interesting thing to note is
+if you imagine heart, there
+
+207
+00:11:59,170 --> 00:12:03,930
+is an inflow and outflow.
+There is a pulmonary venous
+
+208
+00:12:03,930 --> 00:12:06,950
+inflow of blood into the
+left side of the heart and
+
+209
+00:12:06,950 --> 00:12:10,390
+it goes back to circulation
+and it comes back to the
+
+210
+00:12:10,390 --> 00:12:12,880
+right atrium and again
+it goes out. So there is
+
+211
+00:12:12,880 --> 00:12:17,050
+circulation that both in and
+out is happening unless there
+
+212
+00:12:17,050 --> 00:12:19,990
+is pathological mixing like
+congenital heart defects.
+
+213
+00:12:19,990 --> 00:12:24,010
+So many varieties are
+there which mixes blood. So
+
+214
+00:12:24,220 --> 00:12:28,590
+now the gut if you take,
+there is an oral cavity,
+
+215
+00:12:28,590 --> 00:12:32,130
+esophagus and then it goes
+all the way down to small and
+
+216
+00:12:32,130 --> 00:12:35,210
+large intestine and then
+there is an intake and then
+
+217
+00:12:35,210 --> 00:12:39,790
+there is exit. but lungs
+and they are in those cases
+
+218
+00:12:39,790 --> 00:12:43,230
+there are two separate you
+know two separate mechanisms
+
+219
+00:12:43,230 --> 00:12:46,230
+to enter and exit but here
+in the lungs there is only
+
+220
+00:12:46,230 --> 00:12:49,850
+one the airflow has to come
+in through the same and
+
+221
+00:12:49,850 --> 00:12:52,850
+the airflow has to go out
+to the same you know cavity
+
+222
+00:12:52,850 --> 00:12:56,290
+pipe the trachea and the
+nasal cavity or oral cavity
+
+223
+00:12:56,850 --> 00:13:00,170
+that's why this igloo
+helps us understand so keep
+
+224
+00:13:00,170 --> 00:13:02,570
+that in mind as you learn
+not just this lecture but
+
+225
+00:13:02,570 --> 00:13:06,750
+you know several other
+respiratory system lectures and
+
+226
+00:13:06,750 --> 00:13:09,070
+concepts to count
+pathological and physiological
+
+227
+00:13:09,070 --> 00:13:14,850
+okay we have multiple other
+things to cover so uh you
+
+228
+00:13:14,850 --> 00:13:17,910
+know so i'm not getting
+into detail of this analogy
+
+229
+00:13:17,910 --> 00:13:20,850
+uh let's focus on the
+concepts that you need to
+
+230
+00:13:20,850 --> 00:13:22,790
+understand for the purpose
+of your understanding and
+
+231
+00:13:22,790 --> 00:13:26,530
+exams muscles of inspiration
+what are the muscles we
+
+232
+00:13:26,530 --> 00:13:33,590
+saw diaphragm crucial right
+and we saw we saw diaphragm
+
+233
+00:13:33,590 --> 00:13:39,530
+and then yeah so the key
+muscles are the principal
+
+234
+00:13:39,530 --> 00:13:42,080
+and accessory and the
+left is principal external
+
+235
+00:13:42,080 --> 00:13:44,870
+intercostals which help
+elevate the ribs you see the
+
+236
+00:13:44,870 --> 00:13:47,940
+arrow and then you have
+interchondral part of
+
+237
+00:13:47,940 --> 00:13:50,870
+intercostals not all intercostal
+muscles interchondral part
+
+238
+00:13:50,870 --> 00:13:53,290
+of intercostal muscles
+that also helps elevate the
+
+239
+00:13:53,290 --> 00:13:57,230
+ribs and then you have
+diaphragm that dooms, descend
+
+240
+00:13:57,230 --> 00:13:59,870
+and then increasing the
+longitudinal dimension of
+
+241
+00:13:59,870 --> 00:14:02,450
+the chest and elevating
+lower ribs we saw you know
+
+242
+00:14:02,450 --> 00:14:05,870
+a short while ago. And
+accessory muscles are necessary
+
+243
+00:14:05,870 --> 00:14:10,270
+during exerted inspirations,
+strenocledomastoid,
+
+244
+00:14:10,960 --> 00:14:15,350
+scaliness and you know those
+muscles. You have learned
+
+245
+00:14:15,350 --> 00:14:18,610
+these muscles in anatomy
+so we are just trying
+
+246
+00:14:18,610 --> 00:14:22,850
+to spot and point out what
+are relevant for us here.
+
+247
+00:14:25,350 --> 00:14:28,030
+We will look again.
+
+248
+00:14:29,170 --> 00:14:31,110
+External intercostals, right?
+
+249
+00:14:31,230 --> 00:14:34,860
+What does it do? External
+intercostals help us help
+
+250
+00:14:35,590 --> 00:14:38,950
+with the upward and forward
+movement of the ribs.
+
+251
+00:14:39,150 --> 00:14:44,730
+And bucket handle motion
+is something. So imagine,
+
+252
+00:14:47,690 --> 00:14:50,950
+before that, here's the
+vertebra, here is the sternum
+
+253
+00:14:50,950 --> 00:14:54,370
+and you can see there's a
+lateral increase in volume
+
+254
+00:14:54,370 --> 00:14:59,470
+okay and here again anterior
+increase in volume so the
+
+255
+00:14:59,470 --> 00:15:03,210
+example used is a bucket if
+you take that if you take
+
+256
+00:15:03,210 --> 00:15:06,350
+some water or something with
+a bucket look at the movement
+
+257
+00:15:06,350 --> 00:15:09,330
+of the handle right it's
+not always it's not fully
+
+258
+00:15:09,330 --> 00:15:11,870
+vertical it's not fully
+horizontal there's a lateral
+
+259
+00:15:11,870 --> 00:15:15,030
+increase in volume and that's
+what happens with the ribs
+
+260
+00:15:15,030 --> 00:15:19,970
+and also water happens with
+the ribs with the sternum
+
+261
+00:15:19,970 --> 00:15:22,970
+particularly there is an
+anterior and increase in volume
+
+262
+00:15:22,970 --> 00:15:26,170
+just like how you know in
+ancient times or even in
+
+263
+00:15:26,170 --> 00:15:28,430
+some other some parts of
+some countries there is still
+
+264
+00:15:28,430 --> 00:15:38,130
+usage of this public water
+system where the handle is
+
+265
+00:15:38,130 --> 00:15:43,610
+pulled that leads to an
+anterior increase in pulling.
+
+266
+00:15:43,710 --> 00:15:47,790
+So that is, remember
+these two examples to
+
+267
+00:15:47,790 --> 00:15:51,770
+remember how these
+chest structures move.
+
+268
+00:15:51,950 --> 00:15:54,770
+And similar to the pump handle
+
+269
+00:15:54,770 --> 00:15:56,270
+motion and bucket
+handle motion,
+
+270
+00:15:56,270 --> 00:15:58,990
+the intercostals help with the
+
+271
+00:15:58,990 --> 00:16:01,750
+contraction and it helps move.
+
+272
+00:16:01,810 --> 00:16:05,090
+They are used both
+during normal quiet
+
+273
+00:16:05,090 --> 00:16:07,890
+breathing and also under
+respiratory distress.
+
+274
+00:16:08,070 --> 00:16:12,030
+Okay, and the internal
+intercostals are relaxed and
+
+275
+00:16:12,030 --> 00:16:14,590
+then that raises an
+increase in volume of the
+
+276
+00:16:14,590 --> 00:16:17,050
+ribcage and abdomen. And
+abdominal contents are pushed
+
+277
+00:16:17,050 --> 00:16:23,310
+downward and the ribs are
+lifted upward and outward,
+
+278
+00:16:23,310 --> 00:16:25,690
+increasing the volume
+of the thoracic cavity.
+
+279
+00:16:25,830 --> 00:16:28,970
+Okay, so again I repeat,
+abdominal contents are pushed
+
+280
+00:16:28,970 --> 00:16:33,230
+up downward and the ribs
+are, what are we talking
+
+281
+00:16:33,230 --> 00:16:36,730
+about, lung expansion and
+contraction. So, lung expansion
+
+282
+00:16:36,730 --> 00:16:39,610
+is during inspiration,
+abdominal contents are pushed
+
+283
+00:16:39,610 --> 00:16:42,750
+downward, and the ribs are
+lifted upward and downward,
+
+284
+00:16:42,750 --> 00:16:45,860
+excuse me, upward and
+outward, that increases the
+
+285
+00:16:45,860 --> 00:16:47,770
+volume of the thoracic
+cavity. So, there's a nice
+
+286
+00:16:47,770 --> 00:16:51,150
+cooperation happening between
+thorax and abdomen during every
+
+287
+00:16:51,150 --> 00:16:54,230
+single breath, thanks to
+our diaphragm in between.
+
+288
+00:16:55,560 --> 00:16:57,470
+Okay, what else do we have?
+
+289
+00:17:00,310 --> 00:17:01,310
+Alright.
+
+290
+00:17:02,090 --> 00:17:04,270
+Okay, you remember that.
+
+291
+00:17:04,810 --> 00:17:07,010
+In resting breathing,
+
+292
+00:17:07,630 --> 00:17:10,930
+inspiration is an active
+process, but expiration
+
+293
+00:17:10,930 --> 00:17:13,750
+is a passive process,
+normal expiration,
+
+294
+00:17:14,010 --> 00:17:16,510
+or mainly passive,
+or mostly passive.
+
+295
+00:17:16,680 --> 00:17:19,330
+Resting breathing,
+inspiration is an active one.
+
+296
+00:17:19,410 --> 00:17:23,650
+Expiration is typically,
+generally it is passive.
+
+297
+00:17:23,650 --> 00:17:25,550
+But in vigorous breathing,
+
+298
+00:17:25,670 --> 00:17:28,530
+for any reason, if you
+have to have a vigorous
+
+299
+00:17:28,530 --> 00:17:31,710
+breathing, both inspiration
+and expiration are active.
+
+300
+00:17:31,710 --> 00:17:35,530
+And what happens during
+the inspiration, diaphragm
+
+301
+00:17:35,530 --> 00:17:38,150
+plus accessory muscles
+are used for inspiration.
+
+302
+00:17:38,270 --> 00:17:39,410
+And in expiration,
+
+303
+00:17:39,730 --> 00:17:41,950
+typically it's normally
+it is quiet breathing,
+
+304
+00:17:41,950 --> 00:17:43,950
+but here accessory
+muscles of expiration
+
+305
+00:17:43,950 --> 00:17:46,950
+are used. Okay, I
+just put a picture
+
+306
+00:17:46,950 --> 00:17:52,410
+here to remember, to
+remind that, you know,
+
+307
+00:17:52,530 --> 00:17:54,870
+the vigorous breathing
+can happen not only
+
+308
+00:17:54,870 --> 00:17:57,490
+in pathological
+conditions. Even in
+
+309
+00:17:57,490 --> 00:18:00,810
+conditions where people
+go to extreme settings,
+
+310
+00:18:00,810 --> 00:18:04,210
+such as very, very
+difficult Everest,
+
+311
+00:18:06,430 --> 00:18:08,870
+Mount Everest or other peaks,
+
+312
+00:18:10,090 --> 00:18:14,010
+mountaineering in difficult,
+very high elevation.
+
+313
+00:18:15,450 --> 00:18:18,430
+So those are some of
+the situations where
+
+314
+00:18:18,430 --> 00:18:20,050
+vigorous breathing
+can happen. in fact i
+
+315
+00:18:20,050 --> 00:18:23,190
+personally have an
+experience um last year i
+
+316
+00:18:23,190 --> 00:18:27,500
+was at i was at uh in
+the top of himalayas
+
+317
+00:18:28,210 --> 00:18:32,130
+5630 meters high which
+is about 18 500 feet
+
+318
+00:18:32,130 --> 00:18:36,830
+um i experienced even
+a casual walk a casual
+
+319
+00:18:36,830 --> 00:18:42,710
+step was not normal
+it was it was i had to
+
+320
+00:18:42,710 --> 00:18:45,250
+breathe it was hard
+breathing it was difficult
+
+321
+00:18:45,250 --> 00:18:48,590
+breathing So we have
+extra support systems,
+
+322
+00:18:48,850 --> 00:18:49,650
+you know,
+
+323
+00:18:49,950 --> 00:18:53,250
+all the gears and
+O2 as needed, etc.
+
+324
+00:18:53,290 --> 00:18:59,830
+But what we need to understand
+is, so these extreme
+
+325
+00:18:59,830 --> 00:19:03,210
+scenarios also can trigger
+these accessory muscles.
+
+326
+00:19:03,510 --> 00:19:06,770
+And it was a wonderful
+experience. If anyone is
+
+327
+00:19:06,770 --> 00:19:09,490
+interested, I'm happy to
+expand more on that offline.
+
+328
+00:19:09,490 --> 00:19:11,010
+Okay, moving on.
+
+329
+00:19:14,290 --> 00:19:16,570
+So, refreshing on the
+different muscles, on
+
+330
+00:19:16,570 --> 00:19:18,450
+the left, we already saw
+what muscles, external
+
+331
+00:19:18,450 --> 00:19:20,290
+intercostals, intracondral
+part of the internal
+
+332
+00:19:20,290 --> 00:19:23,390
+intercostals, and you
+have diaphragm, and
+
+333
+00:19:23,390 --> 00:19:26,050
+then accessory muscles
+under special scenarios.
+
+334
+00:19:26,840 --> 00:19:29,770
+On the right, you have
+muscle of expiration,
+
+335
+00:19:30,070 --> 00:19:34,630
+and during expiration is a
+normally passive recoil of
+
+336
+00:19:34,630 --> 00:19:37,910
+the lungs, passive process,
+but it's an active process
+
+337
+00:19:37,910 --> 00:19:42,670
+when other muscles chip
+in in vigorous breathing
+
+338
+00:19:42,670 --> 00:19:46,630
+scenarios, which includes
+internal intercostal,
+
+339
+00:19:46,630 --> 00:19:53,090
+subdominal muscles, rectus
+abdominis, external oblique,
+
+340
+00:19:53,090 --> 00:19:57,990
+internal oblique, transversus
+abdominis. so on okay now
+
+341
+00:19:57,990 --> 00:20:02,810
+the next point to remember
+is the muscles of inspiration
+
+342
+00:20:02,810 --> 00:20:06,130
+and expiration the major
+muscles and what is
+
+343
+00:20:06,130 --> 00:20:08,650
+their relevance connection
+with the minute volume remember
+
+344
+00:20:08,650 --> 00:20:12,290
+we read we saw minute
+volume minute volume is also
+
+345
+00:20:12,290 --> 00:20:14,730
+known as minute ventilation
+which is also known as
+
+346
+00:20:14,730 --> 00:20:17,570
+pulmonary ventilation and
+how is it calculated it's
+
+347
+00:20:17,570 --> 00:20:20,290
+the product of tidal volume
+times respiratory relate
+
+348
+00:20:20,290 --> 00:20:25,790
+TV or VT times RR. Now
+this slide tells us that in
+
+349
+00:20:25,790 --> 00:20:28,930
+the bottom if you see minute
+volume is already know is
+
+350
+00:20:28,930 --> 00:20:31,610
+already the amount of air
+breathed in and out round
+
+351
+00:20:31,610 --> 00:20:34,750
+trip in one minute in one
+minute so that's the liters
+
+352
+00:20:34,750 --> 00:20:38,490
+per minute numbers here um
+that on the on the right
+
+353
+00:20:38,490 --> 00:20:40,990
+side you see liters per
+minute number right these
+
+354
+00:20:40,990 --> 00:20:44,090
+numbers indicate that the
+minute volume indicate the
+
+355
+00:20:44,090 --> 00:20:46,570
+minute volume at which the
+various muscles on the left
+
+356
+00:20:46,570 --> 00:20:49,790
+begin to contribute to
+breathing in a healthy adult.
+
+357
+00:20:49,950 --> 00:20:53,010
+These numbers,
+sternocleidomastroids and
+
+358
+00:20:53,010 --> 00:20:56,410
+anterior serotonin,
+these begin to work when
+
+359
+00:20:56,410 --> 00:20:59,490
+the minute volume goes
+high, as high as like
+
+360
+00:20:59,490 --> 00:21:01,690
+50 liters per minute,
+they start working.
+
+361
+00:21:02,110 --> 00:21:04,710
+Spina serractor, strapezius,
+posterior, those neck
+
+362
+00:21:04,710 --> 00:21:08,690
+muscles work when the minute
+volume that is necessary
+
+363
+00:21:08,690 --> 00:21:10,990
+to breathe is 100 liters
+per minute. Either the
+
+364
+00:21:10,990 --> 00:21:14,510
+respiratory rate is too high
+or tidal volume is too high.
+
+365
+00:21:14,890 --> 00:21:16,390
+Whatever is happening,
+
+366
+00:21:16,550 --> 00:21:20,210
+that's when these muscles
+kick in those are muscles
+
+367
+00:21:20,210 --> 00:21:24,090
+of inspiration again diaphragm
+resting condition external
+
+368
+00:21:24,090 --> 00:21:27,850
+intercostals you know
+resting and sometimes more
+
+369
+00:21:27,850 --> 00:21:31,200
+than resting too and muscles
+of expiration or internal
+
+370
+00:21:31,200 --> 00:21:33,570
+intercostals again it's
+in the resting condition
+
+371
+00:21:33,600 --> 00:21:38,630
+and abdominus abdominal
+muscles at 40 liters per minute
+
+372
+00:21:38,630 --> 00:21:41,210
+now pathologically what
+happens in diseases where
+
+373
+00:21:41,210 --> 00:21:43,950
+the airways are partially
+obstructed or movement of the
+
+374
+00:21:43,950 --> 00:21:47,410
+lungs are restricted the
+muscles become active and
+
+375
+00:21:48,230 --> 00:21:51,470
+at lower minute
+volumes. Even at lower
+
+376
+00:21:51,470 --> 00:21:53,590
+minute volumes,
+pathological conditions,
+
+377
+00:21:53,830 --> 00:21:57,310
+the airways, these
+muscles become
+
+378
+00:21:57,310 --> 00:22:00,470
+active, functional
+for this purpose.
+
+379
+00:22:00,690 --> 00:22:01,170
+Okay,
+
+380
+00:22:02,010 --> 00:22:03,050
+moving on.
+
+381
+00:22:06,170 --> 00:22:08,190
+To summarize, what
+are all the muscles?
+
+382
+00:22:08,190 --> 00:22:10,250
+We have some summery in colors.
+
+383
+00:22:10,490 --> 00:22:13,570
+So you have on both
+the figures on the
+
+384
+00:22:13,570 --> 00:22:15,950
+left side you have
+a figure with golden
+
+385
+00:22:15,950 --> 00:22:18,650
+color muscle and
+blue color muscle.
+
+386
+00:22:18,750 --> 00:22:21,630
+So let's see what does
+gold indicate. The most
+
+387
+00:22:21,630 --> 00:22:24,070
+rostral and dorsal
+subsets of the external
+
+388
+00:22:24,070 --> 00:22:27,130
+intercostal muscles, which
+are golden in color here.
+
+389
+00:22:27,970 --> 00:22:29,430
+And they,
+
+390
+00:22:29,590 --> 00:22:32,690
+as well as the parasternal
+subset of the internal
+
+391
+00:22:32,690 --> 00:22:35,590
+intercostal muscles, they
+have an inspiratory mechanical
+
+392
+00:22:35,590 --> 00:22:39,390
+advantage. On the right
+side, you see mostly caudal
+
+393
+00:22:39,390 --> 00:22:41,610
+subset of the internal
+intercostals, which are in
+
+394
+00:22:41,610 --> 00:22:45,770
+blue here, and the caudal
+ventral subset of the external
+
+395
+00:22:45,770 --> 00:22:47,990
+intercostal, which are
+in gold color here, and
+
+396
+00:22:47,990 --> 00:22:50,510
+the triangular sternum
+muscle, or the transverse
+
+397
+00:22:50,510 --> 00:22:52,830
+therassus, they have an
+expiratory mechanical advantage.
+
+398
+00:22:52,890 --> 00:22:56,430
+So, and then you have
+other muscles, you know,
+
+399
+00:22:56,430 --> 00:22:59,310
+and the diaphragm and
+the abdominals, etc. So
+
+400
+00:22:59,310 --> 00:23:01,570
+in the middle you see
+bucket handle and water
+
+401
+00:23:01,570 --> 00:23:06,330
+pump effects, remember
+sternum moves and then
+
+402
+00:23:06,330 --> 00:23:09,150
+you have the ribs also
+moving in this fashion.
+
+403
+00:23:09,230 --> 00:23:11,870
+So it's just to
+refresh your memory.
+
+404
+00:23:11,970 --> 00:23:15,070
+And elastic recoil
+is expiration under
+
+405
+00:23:15,070 --> 00:23:17,390
+resting condition,
+diaphragm is relaxed.
+
+406
+00:23:18,090 --> 00:23:22,490
+And in exercise or conditions
+like asthma, during
+
+407
+00:23:22,490 --> 00:23:25,550
+expiration what happens?
+Abdominals are contracted,
+
+408
+00:23:25,550 --> 00:23:28,910
+diaphragm is relaxed, and
+then the elastic recoil of the
+
+409
+00:23:28,910 --> 00:23:31,490
+lungs, chest, wall, and
+abdominal structures happen.
+
+410
+00:23:35,530 --> 00:23:36,790
+Okay, I'm trying to see if
+
+411
+00:23:36,790 --> 00:23:38,050
+there's anything else to add.
+
+412
+00:23:38,530 --> 00:23:40,150
+We can move on.
+
+413
+00:23:40,850 --> 00:23:42,750
+Okay, and then there
+are other muscles
+
+414
+00:23:42,750 --> 00:23:46,140
+also, we said, that
+come into business.
+
+415
+00:23:46,850 --> 00:23:48,030
+Moving on.
+
+416
+00:23:54,130 --> 00:23:56,210
+What are the factors
+affecting diaphragm
+
+417
+00:23:56,210 --> 00:23:59,550
+function? Diaphragm being
+the crucial, one of the
+
+418
+00:23:59,550 --> 00:24:03,710
+most important muscles
+for peaceful breathing.
+
+419
+00:24:03,950 --> 00:24:07,370
+If something happens
+to diaphragm, that's a
+
+420
+00:24:07,370 --> 00:24:09,650
+problem. And both
+physiological and
+
+421
+00:24:09,650 --> 00:24:11,690
+pathological conditions
+where diaphragm could go
+
+422
+00:24:11,690 --> 00:24:17,370
+to extra steps, extra
+functional necessity.
+
+423
+00:24:18,170 --> 00:24:21,590
+So in the last session, we
+saw paradoxical movement
+
+424
+00:24:21,590 --> 00:24:24,650
+or ascites or pregnancy
+or obesity conditions.
+
+425
+00:24:24,650 --> 00:24:28,270
+functional residual capacity
+decreases. Remember,
+
+426
+00:24:28,590 --> 00:24:30,290
+FRC decreases.
+
+427
+00:24:30,410 --> 00:24:33,430
+And those are the
+situations. What is FRC?
+
+428
+00:24:34,430 --> 00:24:40,810
+Recap, FRC is the sum
+of, it's the total sum of
+
+429
+00:24:40,810 --> 00:24:43,770
+residual volume and the
+expiratory residual volume.
+
+430
+00:24:43,770 --> 00:24:46,470
+So RV plus ERV, that's
+functional residual
+
+431
+00:24:46,470 --> 00:24:49,230
+capacity. So here what
+happens, functional residual
+
+432
+00:24:49,230 --> 00:24:54,870
+capacity may decrease. So we
+have to remember diaphragm
+
+433
+00:24:55,000 --> 00:24:59,730
+may be impacted by this
+and other scenarios.
+
+434
+00:25:00,130 --> 00:25:02,110
+Okay, moving on,
+
+435
+00:25:02,310 --> 00:25:05,370
+what are the other
+pressures? What are key
+
+436
+00:25:05,370 --> 00:25:07,050
+pressures acting
+on the system? Very
+
+437
+00:25:07,050 --> 00:25:10,330
+important, okay? Let's
+focus even more here.
+
+438
+00:25:10,670 --> 00:25:15,190
+The factors that affect
+the pressures, right?
+
+439
+00:25:15,190 --> 00:25:17,130
+Three different types of
+pressures. One is intercalorie
+
+440
+00:25:17,130 --> 00:25:18,930
+pressure, alveolar
+pressure, and pulmonary
+
+441
+00:25:18,930 --> 00:25:21,230
+pressure. Before that,
+on the left side, you
+
+442
+00:25:21,230 --> 00:25:23,710
+see absolute pressures
+versus relative pressures.
+
+443
+00:25:23,930 --> 00:25:24,870
+The units,
+
+444
+00:25:25,890 --> 00:25:28,350
+you know, millimeters of
+mercury is what we use
+
+445
+00:25:28,350 --> 00:25:30,810
+for regular blood pressure
+measurement, etc. So
+
+446
+00:25:30,810 --> 00:25:33,610
+that's conventional. But
+for our learning purposes,
+
+447
+00:25:33,610 --> 00:25:36,570
+we will use centimeters of
+water, which is not very
+
+448
+00:25:36,570 --> 00:25:39,830
+conventional in our
+general clinical practice,
+
+449
+00:25:40,610 --> 00:25:41,490
+you know,
+
+450
+00:25:41,710 --> 00:25:45,850
+daily practice. But it's
+useful. So it was even
+
+451
+00:25:45,850 --> 00:25:48,650
+more useful, particularly
+in the past when researchers
+
+452
+00:25:48,650 --> 00:25:51,610
+studying these fundamental
+concepts to even
+
+453
+00:25:51,610 --> 00:25:55,390
+understand how the lungs
+work, they had to use,
+
+454
+00:25:55,390 --> 00:25:58,910
+they didn't rely on the
+mercury manometers because
+
+455
+00:25:58,910 --> 00:26:04,710
+they were less sensitive
+than the water manometers.
+
+456
+00:26:04,710 --> 00:26:08,170
+So they used centimeters
+of water for measuring
+
+457
+00:26:08,170 --> 00:26:11,550
+it and, you know, it
+helped them very well.
+
+458
+00:26:11,550 --> 00:26:14,690
+And in the modern
+standards, mercury is more
+
+459
+00:26:14,690 --> 00:26:17,990
+hazardous than water.
+We know that. So for our
+
+460
+00:26:17,990 --> 00:26:20,290
+purposes, we will focus
+on centimeters of water.
+
+461
+00:26:22,190 --> 00:26:25,750
+And if you see, the key
+point here in this slide is
+
+462
+00:26:25,750 --> 00:26:28,250
+there is a gradient. There
+is a barometric pressure.
+
+463
+00:26:28,850 --> 00:26:31,970
+There is a gradient.
+there is a low the pleural
+
+464
+00:26:31,970 --> 00:26:36,630
+pressure is very low on the
+top apex than the bottom
+
+465
+00:26:36,630 --> 00:26:39,710
+it's still negative in
+the bottom but it is much
+
+466
+00:26:39,710 --> 00:26:43,390
+more negative on the top
+okay and the minus five is
+
+467
+00:26:43,390 --> 00:26:46,110
+average that's what we're
+going to focus on okay
+
+468
+00:26:46,110 --> 00:26:48,930
+minus five is what we will
+talk as alveolar pressure
+
+469
+00:26:49,430 --> 00:26:52,830
+and that's because
+gravity reasons right um
+
+470
+00:26:52,830 --> 00:26:58,390
+that's because um sorry
+yeah um that's because
+
+471
+00:26:58,390 --> 00:27:02,810
+of gravity and posture
+okay for example if someone
+
+472
+00:27:02,810 --> 00:27:06,150
+is doing yoga upside
+down that will change
+
+473
+00:27:06,150 --> 00:27:08,630
+these pressure dynamics
+in an upside down yoga
+
+474
+00:27:08,630 --> 00:27:10,990
+like headstand that
+will change the dynamics
+
+475
+00:27:11,140 --> 00:27:13,770
+or in outer space if you
+take if you take outer
+
+476
+00:27:13,770 --> 00:27:17,810
+space the interpleural
+gradient would vanish because
+
+477
+00:27:17,810 --> 00:27:20,790
+there's no gravity or zero
+gravity or microgravity
+
+478
+00:27:20,790 --> 00:27:23,490
+there okay so those are
+scenarios that you need
+
+479
+00:27:23,490 --> 00:27:26,450
+to keep in mind but we'll
+talk pretty much under
+
+480
+00:27:26,450 --> 00:27:30,210
+a terrestrial condition
+now okay all right so
+
+481
+00:27:30,210 --> 00:27:33,430
+intrapleural pressure uh
+typically intrapleural pressure
+
+482
+00:27:33,430 --> 00:27:36,430
+there are two layers of
+pleura visceral pleura
+
+483
+00:27:36,430 --> 00:27:39,290
+and parietal pleura you
+already know and there is
+
+484
+00:27:39,290 --> 00:27:41,750
+pleural fluid between them
+and you know the thickness
+
+485
+00:27:41,750 --> 00:27:45,470
+of this intrapleural
+space extremely small um
+
+486
+00:27:45,770 --> 00:27:49,790
+5 to 35 microns microns so
+there is relative vacuum
+
+487
+00:27:49,790 --> 00:27:53,910
+there at function residual
+capacity After a quiet
+
+488
+00:27:53,910 --> 00:28:00,450
+expiration, the opposing
+forces of the lungs trying to
+
+489
+00:28:00,450 --> 00:28:03,850
+collapse and the chest
+wall trying to expand, they
+
+490
+00:28:03,850 --> 00:28:07,030
+create a negative pressure.
+So you have this pressure
+
+491
+00:28:07,030 --> 00:28:11,350
+going in and out, right?
+So there is a balance
+
+492
+00:28:11,350 --> 00:28:13,390
+that happens in a normal
+condition. There is elastic
+
+493
+00:28:13,390 --> 00:28:15,390
+recoil of the chest wall
+tries to pull the chest
+
+494
+00:28:15,390 --> 00:28:18,310
+outward, and there is elastic
+recoil of the lung creates
+
+495
+00:28:18,310 --> 00:28:22,810
+an inward pulling force. That
+balances the intrapleural
+
+496
+00:28:22,810 --> 00:28:26,730
+pressure, you know, so
+that it stays negative.
+
+497
+00:28:26,730 --> 00:28:30,090
+That is crucial for our
+breathing. Otherwise,
+
+498
+00:28:30,090 --> 00:28:31,630
+there could be
+problems, there could
+
+499
+00:28:31,630 --> 00:28:33,830
+be, you know, treatment
+that's necessary,
+
+500
+00:28:33,830 --> 00:28:35,730
+sometimes even an
+interventional procedure.
+
+501
+00:28:35,850 --> 00:28:38,390
+We'll touch upon
+those things a little
+
+502
+00:28:38,390 --> 00:28:41,170
+bit later. Negative
+pleural pressure,
+
+503
+00:28:41,610 --> 00:28:44,210
+negative pleural pressure,
+intrapleural pressure.
+
+504
+00:28:44,210 --> 00:28:46,530
+How does that happen?
+By two mechanisms. One,
+
+505
+00:28:46,870 --> 00:28:49,510
+the lymphatic system
+drains the pleurofluid,
+
+506
+00:28:49,510 --> 00:28:51,810
+generating a negative
+pressure. And then there
+
+507
+00:28:51,810 --> 00:28:53,810
+is elasticity of the
+lungs and the chest wall,
+
+508
+00:28:53,810 --> 00:28:56,230
+which we already saw. The
+elasticity, the bottom
+
+509
+00:28:56,230 --> 00:28:58,990
+A figure says, elastic
+recoil of the lungs.
+
+510
+00:28:59,270 --> 00:29:02,410
+It tries to recoil,
+okay, but the
+
+511
+00:29:02,410 --> 00:29:04,810
+chest wall is trying
+to recoil outside.
+
+512
+00:29:04,810 --> 00:29:07,250
+The lungs are trying to recoil
+
+513
+00:29:07,250 --> 00:29:10,350
+inward, so it stays
+in balance, okay?
+
+514
+00:29:10,590 --> 00:29:11,550
+All right.
+
+515
+00:29:14,790 --> 00:29:17,810
+Let's see. Yeah, so moving on,
+
+516
+00:29:18,600 --> 00:29:20,470
+if you see on the
+top left, there is
+
+517
+00:29:20,470 --> 00:29:22,050
+negative interpleural
+pressure, right?
+
+518
+00:29:22,050 --> 00:29:24,340
+You can read this and it
+will help you understand.
+
+519
+00:29:25,690 --> 00:29:29,010
+But, so on the left side
+is a normal lung, but on
+
+520
+00:29:29,010 --> 00:29:31,590
+the right side, what
+happens? There is a pierce,
+
+521
+00:29:31,590 --> 00:29:33,810
+there is a damage in the
+chest wall. So air has
+
+522
+00:29:33,810 --> 00:29:37,430
+entered inside, it should
+not, entered inside, so it
+
+523
+00:29:37,430 --> 00:29:40,350
+has collapsed. So this is
+called nemothorax. When
+
+524
+00:29:40,350 --> 00:29:44,810
+air enters inside due to
+a stab, trauma, if you've
+
+525
+00:29:44,810 --> 00:29:47,630
+seen trauma care, you can
+see these kinds of patients
+
+526
+00:29:47,630 --> 00:29:51,190
+with nemothorax. Even after
+post-thoracic surgery,
+
+527
+00:29:51,190 --> 00:29:53,070
+post-cardiothoracic
+surgery, you can see such
+
+528
+00:29:53,070 --> 00:29:57,470
+patients with air entering
+in the pleural cavity.
+
+529
+00:29:57,650 --> 00:29:59,710
+So normally the
+pleural pressure is
+
+530
+00:29:59,710 --> 00:30:01,190
+negative, we know
+that's atmospheric.
+
+531
+00:30:02,750 --> 00:30:06,210
+But in nemothorax, air enters
+the pleural space, causing
+
+532
+00:30:06,210 --> 00:30:08,990
+this pressure to become
+less negative. either it
+
+533
+00:30:08,990 --> 00:30:12,210
+becomes less negative or
+it can go positive that's a
+
+534
+00:30:12,210 --> 00:30:16,290
+danger so in mild nemo
+thorax it is less negative
+
+535
+00:30:16,290 --> 00:30:20,700
+getting equal to atmospheric
+pressure which is zero and
+
+536
+00:30:20,890 --> 00:30:24,010
+in severe tension nemo thorax
+it can go highly positive
+
+537
+00:30:24,010 --> 00:30:28,950
+okay so that is an important
+pathological condition
+
+538
+00:30:28,950 --> 00:30:32,370
+next pathological condition
+could be fluid collection
+
+539
+00:30:32,370 --> 00:30:34,670
+either there is air collection
+or there is excessive
+
+540
+00:30:34,670 --> 00:30:36,890
+fluid collection there is
+only optimal level of fluid
+
+541
+00:30:36,890 --> 00:30:39,950
+that's needed there so
+this right-sided x-ray that
+
+542
+00:30:39,950 --> 00:30:42,930
+you see look at the dramatic
+fluid collection there
+
+543
+00:30:42,930 --> 00:30:46,810
+on the left lung there the
+circled area so there is
+
+544
+00:30:46,810 --> 00:30:49,550
+hardly any air in the bottom
+why because or at least
+
+545
+00:30:49,550 --> 00:30:52,410
+visible because there is so
+much of fluid collected so
+
+546
+00:30:52,410 --> 00:30:55,050
+what do you need to do in
+such scenario a procedure
+
+547
+00:30:55,050 --> 00:30:58,590
+called thoracentesis thoracentesis
+is also called pleural
+
+548
+00:30:58,590 --> 00:31:02,150
+tapping you insert a needle
+carefully in the pleural
+
+549
+00:31:02,150 --> 00:31:05,330
+cavity and start draining
+for a good period of time
+
+550
+00:31:05,330 --> 00:31:08,190
+and then you would carefully
+remove it making sure
+
+551
+00:31:08,190 --> 00:31:11,310
+that air doesn't get trapped
+inside okay just to give
+
+552
+00:31:11,310 --> 00:31:13,750
+you the clinical context
+here how important this is
+
+553
+00:31:13,750 --> 00:31:19,110
+plural space okay um moving
+on um both the chest wall
+
+554
+00:31:19,110 --> 00:31:21,990
+and the lung have elastic
+recoil properties you already
+
+555
+00:31:21,990 --> 00:31:25,660
+know that and how is it
+like to just give an analogy
+
+556
+00:31:25,990 --> 00:31:29,670
+it's like a tug-of-war
+right so two for two group
+
+557
+00:31:29,670 --> 00:31:34,700
+of people pulling the same
+rope tightly and simultaneously
+
+558
+00:31:34,700 --> 00:31:36,910
+that's exactly what's
+happening there except
+
+559
+00:31:36,910 --> 00:31:39,990
+that there is it's a much
+more smoother process as you
+
+560
+00:31:39,990 --> 00:31:43,890
+breathe otherwise you know
+now as we speak as we listen
+
+561
+00:31:43,890 --> 00:31:46,310
+we don't even realize how
+long is doing all these
+
+562
+00:31:46,310 --> 00:31:49,870
+things opposing forces
+quietly peacefully right while
+
+563
+00:31:49,870 --> 00:31:53,090
+you're sleeping it continues
+to happen even quieter
+
+564
+00:31:53,090 --> 00:31:56,550
+right so it's it's beautiful
+how the mechanism works.
+
+565
+00:31:57,730 --> 00:31:59,410
+Okay, moving on.
+
+566
+00:32:00,890 --> 00:32:04,160
+So now we're going to
+focus on single alveolus.
+
+567
+00:32:04,160 --> 00:32:05,910
+Okay, for learning purposes,
+we're going to focus on
+
+568
+00:32:05,910 --> 00:32:08,950
+single alveolus, what's
+happening. At rest, the
+
+569
+00:32:08,950 --> 00:32:12,670
+inner intra-alveolar
+pressure, or just the alveolar
+
+570
+00:32:12,670 --> 00:32:16,890
+pressure, is zero, and
+the external atmospheric
+
+571
+00:32:16,890 --> 00:32:22,890
+pressure is zero, because
+there is a continuum, right?
+
+572
+00:32:22,890 --> 00:32:25,670
+There is air coming in
+and out, so So external
+
+573
+00:32:25,670 --> 00:32:29,950
+atmosphere and internal
+alveolar is zero. This is at
+
+574
+00:32:29,950 --> 00:32:32,290
+rest, but the pleural
+cavity is minus five. That's
+
+575
+00:32:32,290 --> 00:32:34,290
+necessary to keep it in
+balance. Pleural cavity
+
+576
+00:32:34,290 --> 00:32:37,050
+is minus five, the
+intermediate level that we saw.
+
+577
+00:32:37,730 --> 00:32:42,290
+Let's see further what
+happens. At rest, again, what
+
+578
+00:32:42,290 --> 00:32:44,650
+muscles are working? Just
+to give us a, that was
+
+579
+00:32:44,650 --> 00:32:48,410
+single alveolar context.
+Here it is, whole lung
+
+580
+00:32:48,410 --> 00:32:52,070
+perspective. What's happening
+in a single alveolus?
+
+581
+00:32:52,070 --> 00:32:54,510
+Respiratory muscles are at
+rest. Recoil of the lung
+
+582
+00:32:54,510 --> 00:32:57,210
+and chest wall are equal but
+opposite and the pressure
+
+583
+00:32:57,210 --> 00:32:59,570
+along the tracheobranchial
+tree is atmospheric.
+
+584
+00:32:59,570 --> 00:33:02,330
+There is no air flow
+because it's in equilibrium.
+
+585
+00:33:03,090 --> 00:33:03,570
+Okay.
+
+586
+00:33:03,890 --> 00:33:05,950
+All right. We'll move on. It
+
+587
+00:33:05,950 --> 00:33:07,370
+should be self-explanatory.
+
+588
+00:33:08,160 --> 00:33:10,310
+Now, how does it work?
+What is the mechanism
+
+589
+00:33:10,310 --> 00:33:12,430
+here? What is the
+physiological mechanism here?
+
+590
+00:33:13,590 --> 00:33:15,810
+Boyle's law. In the
+first session, I
+
+591
+00:33:15,810 --> 00:33:17,710
+briefly touched on
+Boyle's law. Here it is.
+
+592
+00:33:17,850 --> 00:33:20,110
+Boyle's law, what is
+it? Boyle's law states
+
+593
+00:33:20,110 --> 00:33:23,430
+that at a constant
+temperature, the pressure and
+
+594
+00:33:23,430 --> 00:33:25,750
+volume of a gas are
+inversely proportional.
+
+595
+00:33:25,900 --> 00:33:28,110
+Long time ago you would have
+learned this in physics.
+
+596
+00:33:28,370 --> 00:33:30,090
+It's at constant
+temperature, the
+
+597
+00:33:30,090 --> 00:33:32,570
+pressure and volume
+of a gas are inversely
+
+598
+00:33:32,570 --> 00:33:33,870
+proportional. So what happened?
+
+599
+00:33:33,930 --> 00:33:38,590
+P1 V1 equals P2 V2. So
+when the, during inhalation
+
+600
+00:33:38,590 --> 00:33:42,110
+or inspiration, volume
+increases, pressure decreases.
+
+601
+00:33:42,810 --> 00:33:45,990
+Okay, here volume
+increases and pressure
+
+602
+00:33:45,990 --> 00:33:47,790
+decreases. Because there
+is a lot more space, the
+
+603
+00:33:47,790 --> 00:33:49,970
+particles can move
+around happily in various
+
+604
+00:33:49,970 --> 00:33:53,050
+spaces. But here, there
+is compression happens,
+
+605
+00:33:53,170 --> 00:33:58,090
+the volume in exhalation,
+volume decreases, and
+
+606
+00:33:58,090 --> 00:34:00,490
+pressure increases, air
+flows out, because there
+
+607
+00:34:00,490 --> 00:34:02,830
+is a way to flow out.
+And that's what happens
+
+608
+00:34:02,830 --> 00:34:05,890
+here. Decrease pressure,
+high volume, high volume,
+
+609
+00:34:05,890 --> 00:34:08,670
+decrease pressure, and
+air moves in and out.
+
+610
+00:34:08,770 --> 00:34:11,090
+Okay, so keep that
+in mind as you
+
+611
+00:34:11,090 --> 00:34:15,230
+understand this,
+these dynamics.
+
+612
+00:34:16,590 --> 00:34:18,790
+Now, alveolar pressure during
+
+613
+00:34:18,790 --> 00:34:20,390
+inspiration, very important.
+
+614
+00:34:20,610 --> 00:34:22,710
+In single alveolos
+what happens?
+
+615
+00:34:22,710 --> 00:34:25,630
+Atmospheric pressure
+is always zero, right?
+
+616
+00:34:25,630 --> 00:34:27,490
+It's always zero.
+But the alveolar
+
+617
+00:34:27,490 --> 00:34:29,710
+pressure, because of
+the muscle contraction,
+
+618
+00:34:29,950 --> 00:34:33,730
+alveolar pressure goes to
+minus one and the intrapleural
+
+619
+00:34:33,730 --> 00:34:36,190
+pressure goes to minus
+eight. This is important
+
+620
+00:34:36,190 --> 00:34:39,070
+for the air to enter inside.
+So first, sequentially,
+
+621
+00:34:39,070 --> 00:34:42,070
+inspiratory muscles contract
+and then the thoracic
+
+622
+00:34:42,070 --> 00:34:45,450
+cavity expands and then
+the chest wall pulls on
+
+623
+00:34:45,450 --> 00:34:47,910
+the pleural space and generates
+more negative pressure,
+
+624
+00:34:47,910 --> 00:34:50,750
+so minus 5 becomes minus 8,
+and then the intrapleural
+
+625
+00:34:50,750 --> 00:34:52,730
+pressure pulls on the
+lungs and expands them,
+
+626
+00:34:53,170 --> 00:34:56,310
+and then the lungs increase
+in volume, and then the
+
+627
+00:34:56,310 --> 00:34:59,690
+P-A drops to sub-atmospheric
+levels from 0 to minus 1,
+
+628
+00:34:59,690 --> 00:35:06,010
+and boom, the air flows
+down the gradient until the
+
+629
+00:35:06,010 --> 00:35:10,070
+gradient is 0, okay? So
+now the air has flown in,
+
+630
+00:35:10,210 --> 00:35:13,870
+okay, let's move on. The
+same thing, we are looking in
+
+631
+00:35:13,870 --> 00:35:16,610
+a single alveolus, but from
+a whole lung perspective.
+
+632
+00:35:16,610 --> 00:35:20,050
+Um, this is the same for
+muscle contraction, and
+
+633
+00:35:20,050 --> 00:35:21,650
+it becomes, alveolar
+pressure becomes sub
+
+634
+00:35:21,650 --> 00:35:25,410
+-atmospheric. So we don't
+have to spend more time here.
+
+635
+00:35:25,530 --> 00:35:26,290
+Um,
+
+636
+00:35:27,270 --> 00:35:30,150
+we'll use it elsewhere.
+So, in summarizing this,
+
+637
+00:35:30,150 --> 00:35:32,630
+lung force relationships
+during inspiration, there's
+
+638
+00:35:32,630 --> 00:35:34,950
+increase in negativity in
+intraplural pressure, and
+
+639
+00:35:34,950 --> 00:35:36,990
+then there is expansion
+of chest wall, causes the
+
+640
+00:35:36,990 --> 00:35:39,910
+gas in the alveoli to
+expand, creating negative
+
+641
+00:35:39,910 --> 00:35:42,510
+alveolar pressure, Increase
+in negative pressure in the
+
+642
+00:35:42,510 --> 00:35:46,910
+lung, alveoli causes air
+to flow inside the lungs.
+
+643
+00:35:48,770 --> 00:35:51,430
+Expiration, right?
+Expiration or exhalation,
+
+644
+00:35:51,430 --> 00:35:54,010
+what happens? Atmospheric
+pressure, always zero.
+
+645
+00:35:54,170 --> 00:35:56,230
+But the alveolar pressure from
+
+646
+00:35:56,230 --> 00:35:58,110
+minus one, it reached zero.
+
+647
+00:35:58,130 --> 00:36:00,430
+And then it has gone even
+beyond that, plus one.
+
+648
+00:36:00,430 --> 00:36:03,430
+That gradient is important.
+And the interplural
+
+649
+00:36:03,430 --> 00:36:06,670
+pressure is getting
+back to minus five. So
+
+650
+00:36:06,670 --> 00:36:09,930
+interpleural pressure, which
+was originally minus 5,
+
+651
+00:36:09,930 --> 00:36:12,370
+went down to minus 8, and
+it's now back to minus
+
+652
+00:36:12,370 --> 00:36:17,270
+5, but the alveolar
+pressure, which was negative,
+
+653
+00:36:18,030 --> 00:36:21,650
+went up to zero, and now it's
+positive. So that positive
+
+654
+00:36:21,650 --> 00:36:24,130
+pressure is necessary
+for it to push the air
+
+655
+00:36:24,130 --> 00:36:27,270
+outside, which is perfused
+already with carbon dioxide,
+
+656
+00:36:27,450 --> 00:36:30,910
+right? More CO2. So that
+needs to be expelled out.
+
+657
+00:36:31,050 --> 00:36:33,490
+So the sequence again on
+the right you can read
+
+658
+00:36:33,490 --> 00:36:36,450
+a muscle relaxation,
+thoracic volume declining,
+
+659
+00:36:36,650 --> 00:36:39,470
+and then PIP from minus
+8 to minus 5 and then
+
+660
+00:36:39,470 --> 00:36:42,660
+the lungs will decrease
+in size and then the PA
+
+661
+00:36:42,660 --> 00:36:44,890
+alveolar pressure will
+raise above the atmospheric
+
+662
+00:36:44,890 --> 00:36:48,010
+pressure from 0 to 1
+and air flows outside.
+
+663
+00:36:48,710 --> 00:36:49,410
+All right,
+
+664
+00:36:49,590 --> 00:36:50,230
+good.
+
+665
+00:36:51,990 --> 00:36:54,910
+Again the same thing
+from a single alveolar
+
+666
+00:36:54,910 --> 00:36:57,510
+but from a whole lung
+perspective from letters.
+
+667
+00:36:59,130 --> 00:37:00,970
+So this is the summary.
+
+668
+00:37:01,270 --> 00:37:04,690
+Again, what else is here?
+In the second bullet point,
+
+669
+00:37:04,690 --> 00:37:06,570
+you can see that the
+lung deflation begins and
+
+670
+00:37:06,570 --> 00:37:09,890
+continues until the recoil
+force decreases to again
+
+671
+00:37:09,890 --> 00:37:12,890
+equal the interferon pressure.
+And once this occurs,
+
+672
+00:37:12,890 --> 00:37:15,140
+the lung system is back
+to functional residual
+
+673
+00:37:15,140 --> 00:37:17,670
+capacity. So that is the
+baseline for the functional
+
+674
+00:37:17,670 --> 00:37:20,390
+residual capacity. And
+then up or down happens.
+
+675
+00:37:21,990 --> 00:37:24,290
+Okay, now we are
+getting into another
+
+676
+00:37:24,290 --> 00:37:26,530
+important concept that
+we have to learn. We
+
+677
+00:37:26,530 --> 00:37:28,650
+have less time.
+Transpulmonary pressure.
+
+678
+00:37:28,870 --> 00:37:32,210
+Transpulmonary pressure is,
+so trans airway pressure
+
+679
+00:37:32,210 --> 00:37:35,830
+and transpulmonary pressures
+are kind of similar in
+
+680
+00:37:35,830 --> 00:37:37,670
+the way it works. They are
+different. They both are
+
+681
+00:37:37,670 --> 00:37:42,130
+difference between pressure
+inside versus pressure outside.
+
+682
+00:37:42,130 --> 00:37:44,850
+But we are, for our
+purposes, we are needing to
+
+683
+00:37:44,850 --> 00:37:47,750
+focus more on transpulmonary
+pressure, which is the
+
+684
+00:37:47,750 --> 00:37:51,870
+difference between, it is a
+measure of the four elastic
+
+685
+00:37:51,870 --> 00:37:54,230
+forces in the lungs that
+tend to collapse the lungs
+
+686
+00:37:54,230 --> 00:37:57,950
+at each instant of respiration,
+and that's also called
+
+687
+00:37:57,950 --> 00:38:00,470
+as the plastic recoil
+pressure. It's the difference
+
+688
+00:38:00,470 --> 00:38:03,630
+between alveolar pressure
+minus the pleural pressure.
+
+689
+00:38:06,010 --> 00:38:09,390
+Okay, pressure is
+acting on this system.
+
+690
+00:38:09,390 --> 00:38:11,850
+Let's understand it
+from this perspective.
+
+691
+00:38:12,080 --> 00:38:14,330
+Let's see if there's
+anything else to add here.
+
+692
+00:38:14,670 --> 00:38:19,170
+So, to trans
+-pulmonary pressure,
+
+693
+00:38:20,190 --> 00:38:22,330
+Yeah, I think that's
+it. We can move on.
+
+694
+00:38:23,170 --> 00:38:30,150
+Yeah, so what we see
+here is So what we
+
+695
+00:38:30,150 --> 00:38:33,250
+see here is on the
+top, the left top,
+
+696
+00:38:33,390 --> 00:38:34,130
+we have
+
+697
+00:38:35,530 --> 00:38:38,970
+tidal volume, right? Tidal
+volume in the beginning
+
+698
+00:38:38,970 --> 00:38:42,990
+it starts at 0 and it
+goes up to 500 ml and then
+
+699
+00:38:42,990 --> 00:38:46,970
+reaches the peak point and
+then comes down at the end
+
+700
+00:38:46,970 --> 00:38:49,890
+of expiration so this is
+the peak of completion of
+
+701
+00:38:49,890 --> 00:38:52,310
+inspiration and the
+beginning of expiration comes
+
+702
+00:38:52,310 --> 00:38:54,550
+down to zero and it goes
+on again and again and
+
+703
+00:38:54,550 --> 00:38:58,570
+continues now here let's focus
+here on the bottom is the
+
+704
+00:38:58,570 --> 00:39:01,150
+pressure the top is the
+volume and here it is
+
+705
+00:39:01,150 --> 00:39:04,770
+inspiration and here it is
+expiration so at the beginning
+
+706
+00:39:04,770 --> 00:39:07,570
+of inspiration remember
+the alveolar pressure was
+
+707
+00:39:07,570 --> 00:39:09,950
+zero it's nothing different
+than what we saw before
+
+708
+00:39:09,950 --> 00:39:12,670
+we are looking in a different
+you know perspective
+
+709
+00:39:12,670 --> 00:39:15,050
+At the beginning, the
+alveolar pressure is zero.
+
+710
+00:39:15,450 --> 00:39:18,610
+At the peak of inspiration,
+which is at the
+
+711
+00:39:18,610 --> 00:39:20,950
+lowest phase of the
+alveolar pressure, it goes
+
+712
+00:39:20,950 --> 00:39:28,250
+down to, it is at,
+let's see, yeah, during
+
+713
+00:39:28,250 --> 00:39:32,290
+inspiration, it's at minus
+2.5, and it goes down,
+
+714
+00:39:33,080 --> 00:39:35,530
+is that right? What
+am I reading here?
+
+715
+00:39:35,530 --> 00:39:38,930
+Yeah, alveolar pressure
+is minus 2.5. But
+
+716
+00:39:38,930 --> 00:39:43,150
+as it comes back, it
+comes back to zero.
+
+717
+00:39:44,190 --> 00:39:48,130
+And then zero is what?
+Atmospheric pressure. So it
+
+718
+00:39:48,130 --> 00:39:50,590
+goes back to atmospheric
+pressure, the continuum.
+
+719
+00:39:50,950 --> 00:39:54,190
+during expiration the
+alveolar pressure goes up to
+
+720
+00:39:54,190 --> 00:39:56,790
+plus one remember it has to
+go up to plus one and then
+
+721
+00:39:56,790 --> 00:40:00,030
+it has to come back to zero
+in parallel what do we see
+
+722
+00:40:00,030 --> 00:40:02,150
+the pleural pressure the
+bottom line is pleural
+
+723
+00:40:02,150 --> 00:40:05,150
+pressure starts at minus
+five goes down at the end of
+
+724
+00:40:05,150 --> 00:40:09,310
+inspiration to minus eight and
+then comes back up increases
+
+725
+00:40:09,310 --> 00:40:12,310
+increases back to minus
+five at the end of the
+
+726
+00:40:13,000 --> 00:40:15,250
+expiration to This is the
+beginning of the inspiration
+
+727
+00:40:15,250 --> 00:40:18,950
+now. This difference, right?
+Trans pulmonary pressure.
+
+728
+00:40:19,290 --> 00:40:22,490
+Deepest here, and then
+here. So all these
+
+729
+00:40:22,490 --> 00:40:24,430
+regions are trans
+pulmonary pressure. This is
+
+730
+00:40:24,430 --> 00:40:27,450
+crucial for the lungs to
+function and balance it.
+
+731
+00:40:27,450 --> 00:40:29,790
+On the right side,
+you have this figure.
+
+732
+00:40:29,910 --> 00:40:32,510
+At functional recipe
+capacity, the trigly
+
+733
+00:40:32,510 --> 00:40:34,590
+volume, we already saw,
+same as the left side.
+
+734
+00:40:35,590 --> 00:40:36,470
+Sorry.
+
+735
+00:40:36,930 --> 00:40:40,690
+The pleural pressure,
+minus 5, goes down to minus
+
+736
+00:40:40,690 --> 00:40:44,250
+8, and it's a nice curve
+back. there's a concept
+
+737
+00:40:44,250 --> 00:40:47,030
+of flow which you will
+learn more in the later
+
+738
+00:40:47,030 --> 00:40:51,990
+sessions so this flow
+starts at zero goes down to
+
+739
+00:40:51,990 --> 00:40:55,770
+minus five and then goes
+comes back to zero at the
+
+740
+00:40:55,770 --> 00:40:58,810
+end of inspiration this
+middle middle broken line
+
+741
+00:40:58,810 --> 00:41:02,770
+is inspiration okay
+inhalation and then when
+
+742
+00:41:02,770 --> 00:41:06,280
+expiration happens flow
+increases and then decreases
+
+743
+00:41:06,280 --> 00:41:09,750
+when it comes back to the
+end of the expiration.
+
+744
+00:41:09,950 --> 00:41:14,610
+Similar pattern as alveolar
+pressure. Alveolar pressure
+
+745
+00:41:14,610 --> 00:41:18,410
+starts at 0, goes down to
+minus 1, comes back to 0.
+
+746
+00:41:18,570 --> 00:41:22,870
+And then from 0, it goes
+even beyond to 1 sorry about
+
+747
+00:41:22,870 --> 00:41:27,410
+that, it goes up to 1 and
+then comes back to 0. So
+
+748
+00:41:27,410 --> 00:41:29,970
+even though numbers are
+different for flow, the same
+
+749
+00:41:29,970 --> 00:41:33,110
+pattern of the curves that's
+happening. So it's good to
+
+750
+00:41:33,110 --> 00:41:36,130
+remember, it's useful to
+remember that way okay so
+
+751
+00:41:36,130 --> 00:41:41,570
+inspiration is okay we already
+uh um bent over the chart
+
+752
+00:41:41,570 --> 00:41:44,450
+so what are the key points
+in this very important i
+
+753
+00:41:44,450 --> 00:41:47,590
+would say i would suggest
+you to practice this uh you
+
+754
+00:41:47,590 --> 00:41:51,290
+know especially the left f
+especially this part practice
+
+755
+00:41:51,290 --> 00:41:55,090
+drawing with your hand in
+a in a paper or an app or
+
+756
+00:41:55,090 --> 00:41:59,610
+on the whiteboard however
+you like um so that when you
+
+757
+00:41:59,610 --> 00:42:02,430
+may actually do it you'll
+remember you You can remember
+
+758
+00:42:02,430 --> 00:42:05,190
+even better, you know,
+typically, but if you can't
+
+759
+00:42:05,190 --> 00:42:07,910
+remember without that, go
+for it, however you like.
+
+760
+00:42:07,950 --> 00:42:08,790
+Good.
+
+761
+00:42:10,470 --> 00:42:12,810
+Let's delete this.
+
+762
+00:42:13,310 --> 00:42:15,150
+So that's the main thing.
+
+763
+00:42:15,290 --> 00:42:17,510
+Let's focus on, so
+this is the summary.
+
+764
+00:42:17,610 --> 00:42:20,110
+The summary is outward
+elastic recoil of the chest
+
+765
+00:42:20,110 --> 00:42:22,190
+wall, which is the difference
+between the pleural
+
+766
+00:42:22,190 --> 00:42:23,970
+pressure and the pressure
+of the surface of
+
+767
+00:42:23,970 --> 00:42:27,650
+the chest. this outward
+elastic recoil is opposed
+
+768
+00:42:27,650 --> 00:42:31,370
+by the inward elastic
+recoil of the lungs, which
+
+769
+00:42:31,370 --> 00:42:33,130
+is the difference between
+alveolar pressure and
+
+770
+00:42:33,130 --> 00:42:35,730
+interplural pressure. So
+remember this concept.
+
+771
+00:42:36,110 --> 00:42:38,770
+Furthermore, the trans
+-pulmonary pressure, which is
+
+772
+00:42:38,770 --> 00:42:41,030
+the elastic recoil pressure,
+is the difference between
+
+773
+00:42:41,030 --> 00:42:43,490
+the alveolar pressure and
+the interplural pressure.
+
+774
+00:42:43,490 --> 00:42:48,610
+So these two major
+mechanisms balance the inward
+
+775
+00:42:48,610 --> 00:42:53,110
+flow and outflow flow of
+normal ventilation. Let's
+
+776
+00:42:53,110 --> 00:42:54,930
+see what happens in
+pathological conditions.
+
+777
+00:42:54,930 --> 00:42:57,470
+We already saw some of the
+pathologies like nemothorax
+
+778
+00:42:57,470 --> 00:43:00,490
+and pleural fluid
+collection, etc. Let's
+
+779
+00:43:00,490 --> 00:43:03,070
+look at obstructive and
+restrictive lung diseases.
+
+780
+00:43:03,070 --> 00:43:05,250
+We saw in the first
+session, so we're
+
+781
+00:43:05,250 --> 00:43:09,130
+bringing back these
+mechanisms in the
+
+782
+00:43:09,130 --> 00:43:11,410
+context of the lung
+volumes and capacities.
+
+783
+00:43:12,690 --> 00:43:16,450
+So, in obstructive lung
+diseases, for example,
+
+784
+00:43:16,450 --> 00:43:21,330
+asthma or chronic bronchitis,
+You have increased
+
+785
+00:43:21,800 --> 00:43:24,950
+residual volume and
+functional residual capacity.
+
+786
+00:43:24,950 --> 00:43:28,230
+So, there is obstruction.
+So, there is more
+
+787
+00:43:28,230 --> 00:43:30,450
+residual volume. And then
+there is more functional
+
+788
+00:43:30,450 --> 00:43:32,410
+residual capacity.
+Both of these represent
+
+789
+00:43:32,410 --> 00:43:35,110
+air that is left in the
+lung after expiration.
+
+790
+00:43:35,470 --> 00:43:39,310
+Okay. Now, that is why
+because that's the loss of the
+
+791
+00:43:39,310 --> 00:43:42,190
+ability to develop the
+positive alveolar pressure.
+
+792
+00:43:42,490 --> 00:43:45,530
+Alveolar pressure needs
+to go to positive.
+
+793
+00:43:45,630 --> 00:43:48,570
+Right. But it's not
+able to become positive.
+
+794
+00:43:48,590 --> 00:43:51,290
+That is a problem in
+obstructive lung disease.
+
+795
+00:43:51,310 --> 00:43:54,830
+Restrictive lung disease,
+like fibrosis, for instance,
+
+796
+00:43:54,830 --> 00:43:57,430
+pulmonary fibrosis, what
+is happening? Decreased
+
+797
+00:43:57,430 --> 00:43:59,450
+functional residual capacity.
+Here it is increased
+
+798
+00:43:59,450 --> 00:44:01,790
+residual volume and functional
+residual capacity. Here
+
+799
+00:44:01,790 --> 00:44:04,550
+it is decreased functional
+residual capacity and
+
+800
+00:44:04,550 --> 00:44:06,970
+decreased residual volume.
+You see in the figure,
+
+801
+00:44:06,970 --> 00:44:11,410
+decreased RV, decreased
+FRC, and decreased TLC, and
+
+802
+00:44:11,430 --> 00:44:15,330
+decreased ERV, and VT.
+Pretty much everything is
+
+803
+00:44:15,330 --> 00:44:19,730
+decreased here, right? But you
+see here, here tidal volume
+
+804
+00:44:19,730 --> 00:44:22,310
+is increased, expiratory
+reserve volume is
+
+805
+00:44:22,310 --> 00:44:24,970
+increased, functional residue
+capacity is increased, RV
+
+806
+00:44:24,970 --> 00:44:28,670
+is increased. Except these
+three things, others are
+
+807
+00:44:28,670 --> 00:44:31,730
+increased. But here everything
+is decreased. So it's
+
+808
+00:44:31,730 --> 00:44:34,670
+a good way to remember.
+But what is the problem?
+
+809
+00:44:34,970 --> 00:44:36,970
+It's the decreased
+functional residue
+
+810
+00:44:36,970 --> 00:44:39,030
+capacity is because
+there less air
+
+811
+00:44:39,030 --> 00:44:41,130
+is taken inside
+with an inspiration.
+
+812
+00:44:41,390 --> 00:44:44,350
+There is a problem
+more of, you know, air
+
+813
+00:44:44,350 --> 00:44:46,470
+that's left after the
+expiration. Here it
+
+814
+00:44:46,470 --> 00:44:49,270
+is. Less air is taken
+inside inspiration.
+
+815
+00:44:49,790 --> 00:44:52,910
+And that's because the
+loss of the ability of
+
+816
+00:44:52,910 --> 00:44:55,910
+ability to develop the
+negative alveolar pressure.
+
+817
+00:44:55,910 --> 00:44:57,470
+Alveolar pressure
+should go sufficiently
+
+818
+00:44:57,470 --> 00:45:00,930
+negative. It's not going
+because of the pathology.
+
+819
+00:45:00,930 --> 00:45:03,530
+So that is the problem
+in restrictive lung
+
+820
+00:45:03,530 --> 00:45:05,940
+disease. So these concepts
+you have to remember.
+
+821
+00:45:06,830 --> 00:45:09,990
+All right. We are
+getting close to closing
+
+822
+00:45:09,990 --> 00:45:12,550
+because all these lectures.
+We were told to finish
+
+823
+00:45:12,550 --> 00:45:14,750
+all the lectures by
+15 minutes. all the
+
+824
+00:45:14,750 --> 00:45:17,570
+lectures I don't know
+how you know others deal
+
+825
+00:45:17,570 --> 00:45:20,850
+this but we are told so
+I try to stick to that
+
+826
+00:45:21,490 --> 00:45:26,630
+as much as possible so
+a quick quiz here as
+
+827
+00:45:26,630 --> 00:45:29,110
+inspiration proceeds
+the plural pressure
+
+828
+00:45:29,110 --> 00:45:32,390
+reaches until what number
+so I'm going to say the
+
+829
+00:45:32,390 --> 00:45:35,790
+answer so please pause
+right now and think
+
+830
+00:45:36,470 --> 00:45:37,730
+and come back.
+
+831
+00:45:37,910 --> 00:45:41,150
+Okay, the answer
+is minus eight.
+
+832
+00:45:41,370 --> 00:45:42,250
+Okay,
+
+833
+00:45:42,630 --> 00:45:44,710
+minus eight. As
+inspiration proceeds,
+
+834
+00:45:44,830 --> 00:45:47,830
+the pleural pressure
+reaches until minus eight
+
+835
+00:45:47,830 --> 00:45:51,090
+centimeters of water,
+typically in a healthy
+
+836
+00:45:51,090 --> 00:45:54,810
+lung, and then it has
+to come back up. Right?
+
+837
+00:45:55,010 --> 00:45:57,730
+Okay, and why? Because
+as the lungs expand,
+
+838
+00:45:57,730 --> 00:46:00,350
+the recoil pressure
+of the lung increases.
+
+839
+00:46:00,350 --> 00:46:03,630
+The pleural pressure
+must fall to oppose the
+
+840
+00:46:03,630 --> 00:46:06,100
+increasing tendency of
+the lungs to collapse.
+
+841
+00:46:06,130 --> 00:46:07,130
+Okay,
+
+842
+00:46:07,330 --> 00:46:11,410
+so what all have
+we seen so far?
+
+843
+00:46:11,410 --> 00:46:13,830
+Learning objectives to
+distinguish between the
+
+844
+00:46:13,830 --> 00:46:16,210
+pulmonary and alveolar
+ventilation we saw initially.
+
+845
+00:46:16,310 --> 00:46:19,010
+Then we saw the
+muscle anatomy. We
+
+846
+00:46:19,010 --> 00:46:21,170
+saw what are all the
+muscles involved.
+
+847
+00:46:21,170 --> 00:46:24,910
+Then we saw what mechanics
+are involved. What
+
+848
+00:46:24,910 --> 00:46:26,950
+are the pressures, the
+three major pressures,
+
+849
+00:46:26,950 --> 00:46:28,870
+interchloral, alveolar,
+and trans-pulmonary.
+
+850
+00:46:28,870 --> 00:46:33,570
+We charted them in
+a combined fashion,
+
+851
+00:46:33,570 --> 00:46:35,850
+bringing the concept of
+transformative pressure,
+
+852
+00:46:36,050 --> 00:46:39,490
+and the volumes,
+the flow, and so on.
+
+853
+00:46:39,810 --> 00:46:42,090
+Then we connected these two,
+
+854
+00:46:42,090 --> 00:46:44,190
+some representative
+pathologies.
+
+855
+00:46:44,270 --> 00:46:46,300
+Now, you want some practice
+
+856
+00:46:46,300 --> 00:46:48,250
+questions, right?
+Here they are.
+
+857
+00:46:48,330 --> 00:46:51,550
+So, there is, scholar
+products should have some
+
+858
+00:46:51,550 --> 00:46:54,590
+questions. There are some
+books. I have the links here.
+
+859
+00:46:54,590 --> 00:46:57,410
+There are some books here,
+books dedicated to case
+
+860
+00:46:57,410 --> 00:47:00,410
+studies, books dedicated
+to, you know, like I
+
+861
+00:47:00,410 --> 00:47:02,790
+think the Rhodes and Bell
+Medical Physiologists here,
+
+862
+00:47:02,970 --> 00:47:05,730
+maybe Borden and Bell
+PEP. So you can please
+
+863
+00:47:05,730 --> 00:47:09,630
+use your NYIT login.
+That will take you to the
+
+864
+00:47:09,630 --> 00:47:11,690
+chapter, and then maybe
+towards the end of
+
+865
+00:47:11,690 --> 00:47:13,250
+the chapter, you will
+have some questions and
+
+866
+00:47:13,250 --> 00:47:15,350
+with answers, with
+rationales too, generally.
+
+867
+00:47:15,710 --> 00:47:18,830
+Okay, I hope these will
+be very helpful and
+
+868
+00:47:18,830 --> 00:47:20,350
+important, so please
+do practice a lot of
+
+869
+00:47:20,350 --> 00:47:23,390
+questions, okay? And
+these are the references,
+
+870
+00:47:23,550 --> 00:47:25,830
+different textbooks
+including ScholarRx
+
+871
+00:47:25,830 --> 00:47:27,790
+and we have some
+letters to Guyton
+
+872
+00:47:27,790 --> 00:47:31,530
+and Hall this year's
+material as well.
+
+873
+00:47:32,130 --> 00:47:34,970
+The full book link
+is available in
+
+874
+00:47:34,970 --> 00:47:37,790
+the library with
+this NYT login.
+
+875
+00:47:37,910 --> 00:47:41,930
+I think that's it. So
+thank you everyone and
+
+876
+00:47:42,190 --> 00:47:44,470
+please let me know if
+you have any questions.
+
+877
+00:47:45,870 --> 00:47:48,350
+So I'm just scrolling
+back. So this figure
+
+878
+00:47:48,350 --> 00:47:50,790
+is important. Okay,
+basically what are
+
+879
+00:47:50,790 --> 00:47:53,130
+all, everything is
+important of course, but
+
+880
+00:47:53,130 --> 00:47:56,250
+let's try to narrow
+it down even further.
+
+881
+00:47:56,350 --> 00:47:57,950
+So transcolonary pressure, try
+
+882
+00:47:57,950 --> 00:47:59,630
+to remember this even better.
+
+883
+00:47:59,650 --> 00:48:01,050
+All the different, three
+
+884
+00:48:01,050 --> 00:48:02,230
+different types of pressures.
+
+885
+00:48:02,470 --> 00:48:04,490
+So go with learning
+objectives, right?
+
+886
+00:48:04,490 --> 00:48:05,790
+If you focus by
+learning objectives,
+
+887
+00:48:05,790 --> 00:48:08,510
+you will be able to
+get a better sense.
+
+888
+00:48:09,190 --> 00:48:12,810
+And this mechanism is
+important. What happens during
+
+889
+00:48:12,810 --> 00:48:15,830
+rest in a single alveolus,
+what's happening during
+
+890
+00:48:15,830 --> 00:48:18,740
+inspiration, what's happening
+during expiration. expiration
+
+891
+00:48:18,740 --> 00:48:23,530
+and then we looked into
+the opposing forces of the
+
+892
+00:48:23,530 --> 00:48:28,950
+chest wall and example
+pathologies what happens and
+
+893
+00:48:28,950 --> 00:48:32,570
+then intraplural pressure
+more on intraplural pressure
+
+894
+00:48:34,260 --> 00:48:39,190
+and then we saw
+diaphragm how the how
+
+895
+00:48:39,190 --> 00:48:42,070
+the sternum moves how
+the ribs move right
+
+896
+00:48:44,010 --> 00:48:46,250
+using those analogies.
+
+897
+00:48:46,390 --> 00:48:47,930
+And what are all the muscles,
+
+898
+00:48:47,930 --> 00:48:49,090
+that muscles are important.
+
+899
+00:48:49,130 --> 00:48:51,250
+Okay, so please do
+remember those muscles.
+
+900
+00:48:51,550 --> 00:48:54,610
+And minute volume is
+also, I learned that.
+
+901
+00:48:54,610 --> 00:48:56,610
+And then the formulae, we saw
+
+902
+00:48:56,610 --> 00:48:58,010
+some formulae before this,
+
+903
+00:48:58,350 --> 00:48:58,970
+right?
+
+904
+00:49:01,250 --> 00:49:02,210
+Yes,
+
+905
+00:49:03,550 --> 00:49:06,450
+yes, diaphragmatic
+movement. And then,
+
+906
+00:49:07,840 --> 00:49:11,830
+yeah, these are some of the
+basic numbers. you've learned
+
+907
+00:49:11,830 --> 00:49:15,850
+before and here and this
+family do this do do
+
+908
+00:49:15,850 --> 00:49:20,350
+remember this is also important
+and of course this is the
+
+909
+00:49:20,350 --> 00:49:23,730
+first session this is also
+very important okay definitely
+
+910
+00:49:23,730 --> 00:49:27,490
+this these are expected
+questions will be can be
+
+911
+00:49:27,490 --> 00:49:30,310
+expected definitely this
+because these are fundamental
+
+912
+00:49:30,310 --> 00:49:33,150
+core concepts we want you
+all to remember and learn
+
+913
+00:49:33,150 --> 00:49:35,590
+which will be very valuable
+both for your clinical practice
+
+914
+00:49:35,590 --> 00:49:40,050
+and also your board exams
+all right and that's pretty
+
+915
+00:49:40,050 --> 00:49:43,970
+much it thank you everybody
+i really appreciate your
+
+916
+00:49:43,970 --> 00:49:46,870
+support and please feel
+free to contact me with any
+
+917
+00:49:46,870 --> 00:49:50,370
+questions we all want you to
+really succeed and i really
+
+918
+00:49:50,370 --> 00:49:53,010
+look forward to your
+wonderful successes thank you

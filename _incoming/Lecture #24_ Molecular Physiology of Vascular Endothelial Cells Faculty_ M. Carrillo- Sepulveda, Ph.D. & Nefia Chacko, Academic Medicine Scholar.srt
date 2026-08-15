@@ -1,0 +1,3124 @@
+1
+00:00:03,320 --> 00:00:06,480
+Hello everyone, my
+name is Nathia Chaco
+
+2
+00:00:06,480 --> 00:00:09,020
+and welcome to our
+lecture on the molecular
+
+3
+00:00:09,020 --> 00:00:12,080
+physiology of vascular
+endothelial cells.
+
+4
+00:00:12,310 --> 00:00:15,440
+I am one of your academic
+medicine scholars for this
+
+5
+00:00:15,440 --> 00:00:18,720
+year and I'm really excited
+to give you this lecture.
+
+6
+00:00:19,060 --> 00:00:22,660
+Before we get started, I
+quickly wanted to give a
+
+7
+00:00:22,660 --> 00:00:25,600
+special thanks to Dr.
+Sepulveda for allowing me to
+
+8
+00:00:25,600 --> 00:00:29,060
+collaborate with her on this
+lecture and for all her guidance
+
+9
+00:00:29,060 --> 00:00:31,780
+throughout the preparation
+of this presentation.
+
+10
+00:00:33,320 --> 00:00:35,720
+Today, we're going to
+be discussing the main
+
+11
+00:00:35,720 --> 00:00:39,320
+physiological role of
+endothelial cells, a key
+
+12
+00:00:39,320 --> 00:00:42,580
+component of the vasculature,
+and how endothelial
+
+13
+00:00:42,580 --> 00:00:45,380
+dysfunction is implicated
+in human disease.
+
+14
+00:00:45,660 --> 00:00:48,840
+At any point during this
+lecture, if you guys
+
+15
+00:00:48,840 --> 00:00:52,340
+have any questions,
+concerns, or comments,
+
+16
+00:00:52,340 --> 00:00:54,940
+please feel free to reach
+out to me. I am also
+
+17
+00:00:54,940 --> 00:00:57,240
+available to meet with
+any of you to discuss
+
+18
+00:00:57,240 --> 00:01:00,520
+this lecture material
+in person or via Zoom.
+
+19
+00:01:03,320 --> 00:01:06,720
+Here are our learning
+objectives for today's lecture.
+
+20
+00:01:06,940 --> 00:01:08,620
+Please take a moment to pause
+
+21
+00:01:08,620 --> 00:01:10,340
+the video and review them.
+
+22
+00:01:10,340 --> 00:01:12,640
+They are also listed on the CPG
+
+23
+00:01:12,640 --> 00:01:14,660
+associated with this lecture.
+
+24
+00:01:18,540 --> 00:01:22,260
+Before we dive into the
+molecular physiology of
+
+25
+00:01:22,260 --> 00:01:25,620
+endothelial cells, let's
+first ground ourselves in
+
+26
+00:01:25,620 --> 00:01:28,280
+the structure of the
+vascular system and how blood
+
+27
+00:01:28,280 --> 00:01:32,360
+flows through it. The
+circulatory system is composed
+
+28
+00:01:32,360 --> 00:01:35,680
+of three main types of
+blood vessels, arteries,
+
+29
+00:01:35,860 --> 00:01:38,020
+veins, and capillaries.
+
+30
+00:01:38,420 --> 00:01:41,940
+Arteries carry oxygenated
+blood away from the
+
+31
+00:01:41,940 --> 00:01:44,660
+heart under high pressure,
+and they have thicker
+
+32
+00:01:44,660 --> 00:01:47,740
+walls with more smooth
+muscle and elastic
+
+33
+00:01:47,740 --> 00:01:51,480
+tissue to withstand and
+regulate pulsatile flow.
+
+34
+00:01:52,270 --> 00:01:53,920
+Veins, on the other hand,
+
+35
+00:01:54,040 --> 00:01:57,140
+return deoxygenated blood
+to the heart under low
+
+36
+00:01:57,140 --> 00:02:00,000
+pressure conditions.
+They tend to have thinner
+
+37
+00:02:00,000 --> 00:02:03,500
+walls and less move muscle
+compared to arteries,
+
+38
+00:02:03,500 --> 00:02:07,080
+and they often contain
+valves to prevent backflow.
+
+39
+00:02:07,920 --> 00:02:11,380
+Capillaries are the
+smallest vessels and serve
+
+40
+00:02:11,380 --> 00:02:13,960
+as a site for the
+exchange of oxygen,
+
+41
+00:02:13,960 --> 00:02:17,340
+nutrients, and waste
+between blood and tissues.
+
+42
+00:02:18,300 --> 00:02:20,760
+Despite these
+structural differences,
+
+43
+00:02:20,760 --> 00:02:23,160
+all blood vessels
+are lined by a
+
+44
+00:02:23,160 --> 00:02:25,680
+continuous layer of
+endothelial cells.
+
+45
+00:02:25,920 --> 00:02:28,680
+These cells are not just
+structural, but they
+
+46
+00:02:28,680 --> 00:02:31,560
+also play a dynamic role
+in regulating vascular
+
+47
+00:02:31,560 --> 00:02:36,360
+tone, permeability,
+inflammation, and thrombosis.
+
+48
+00:02:36,700 --> 00:02:39,120
+Understanding their
+function is essential to
+
+49
+00:02:39,120 --> 00:02:41,620
+appreciating how vascular
+health is maintained
+
+50
+00:02:41,620 --> 00:02:44,880
+and how dysfunction can
+contribute to disease.
+
+51
+00:02:46,740 --> 00:02:48,840
+So let's take a closer look
+
+52
+00:02:48,840 --> 00:02:50,840
+at the vascular structure.
+
+53
+00:02:50,840 --> 00:02:53,000
+So I want to focus
+your attention
+
+54
+00:02:53,000 --> 00:02:54,340
+to the image on the right.
+
+55
+00:02:54,480 --> 00:02:56,840
+At first glance, arteries and
+
+56
+00:02:56,840 --> 00:02:58,380
+veins appear quite similar.
+
+57
+00:02:58,380 --> 00:03:00,880
+Both vessels share
+the same three layers.
+
+58
+00:03:01,410 --> 00:03:04,360
+First, the innermost
+layer is known as the
+
+59
+00:03:04,360 --> 00:03:07,520
+tunica interna, which
+contains the endothelial
+
+60
+00:03:07,520 --> 00:03:10,680
+cells forming the layer
+called the endothelium.
+
+61
+00:03:10,990 --> 00:03:13,640
+Then, we have the
+middle layer, which
+
+62
+00:03:13,640 --> 00:03:16,700
+is known as the
+tunica media, which is
+
+63
+00:03:16,700 --> 00:03:19,260
+made primarily of
+smooth muscle cells.
+
+64
+00:03:19,460 --> 00:03:23,040
+Lastly, we have the
+tunica externa, which
+
+65
+00:03:23,040 --> 00:03:26,040
+is the outermost layer,
+which is composed
+
+66
+00:03:26,040 --> 00:03:28,360
+mainly of fibroblasts
+that produce
+
+67
+00:03:28,360 --> 00:03:31,460
+collagen and elastin
+for structural support.
+
+68
+00:03:31,820 --> 00:03:34,820
+The key difference
+between arteries and veins
+
+69
+00:03:34,820 --> 00:03:37,380
+lies in the thickness
+of the tunica media.
+
+70
+00:03:37,780 --> 00:03:40,920
+Arteries have a much thicker
+smooth muscle layer than
+
+71
+00:03:40,920 --> 00:03:44,360
+veins. And this makes sense
+physiologically, since
+
+72
+00:03:44,360 --> 00:03:47,320
+arteries must withstand
+and regulate high-pressure
+
+73
+00:03:47,320 --> 00:03:51,060
+blood flow coming directly
+from the heart, whereas in
+
+74
+00:03:51,060 --> 00:03:54,160
+veins, they operate under
+lower-pressure conditions,
+
+75
+00:03:54,160 --> 00:03:57,560
+and they rely more on valves
+and surrounding muscle
+
+76
+00:03:57,560 --> 00:04:01,180
+contractions to assist with
+blood return to the heart.
+
+77
+00:04:02,240 --> 00:04:04,420
+Despite this
+difference in muscular
+
+78
+00:04:04,420 --> 00:04:07,020
+thickness, both arteries
+and veins have an
+
+79
+00:04:07,020 --> 00:04:09,960
+endothelial lining in
+the tunica interna.
+
+80
+00:04:10,480 --> 00:04:13,380
+In the image in the
+middle, you can see
+
+81
+00:04:13,380 --> 00:04:15,440
+that the endothelial
+cells are highlighted
+
+82
+00:04:15,440 --> 00:04:18,120
+in green with their
+nuclei in blue.
+
+83
+00:04:18,500 --> 00:04:21,700
+What's notable is that the
+endothelium is a single
+
+84
+00:04:21,700 --> 00:04:25,660
+monolayer of endothelial
+cells. It is not multilayered.
+
+85
+00:04:26,360 --> 00:04:29,920
+This endothelial layer is
+not just a passive barrier,
+
+86
+00:04:29,920 --> 00:04:33,220
+but it acts as a semi-permeable
+interface allowing the
+
+87
+00:04:33,220 --> 00:04:36,740
+selective exchange of gases,
+nutrients, and signaling
+
+88
+00:04:36,740 --> 00:04:39,420
+molecules between the blood
+and surrounding tissues.
+
+89
+00:04:40,040 --> 00:04:41,160
+Finally,
+
+90
+00:04:41,360 --> 00:04:43,600
+if we look at the
+bottom right, we see
+
+91
+00:04:43,600 --> 00:04:46,620
+capillaries, which are an
+even simpler structure.
+
+92
+00:04:47,140 --> 00:04:50,620
+Capillaries are composed
+only of endothelial cells,
+
+93
+00:04:50,620 --> 00:04:55,480
+and this structure
+facilitates efficient exchange
+
+94
+00:04:55,480 --> 00:04:59,160
+between blood and tissues
+at the microvascular level.
+
+95
+00:05:01,320 --> 00:05:04,220
+So what are endothelial cells?
+
+96
+00:05:04,580 --> 00:05:08,020
+They form a single
+monolayer lining
+
+97
+00:05:08,020 --> 00:05:09,800
+the inside of all
+blood vessels.
+
+98
+00:05:10,180 --> 00:05:12,800
+Endothelial cells
+play a key role in
+
+99
+00:05:12,800 --> 00:05:15,360
+maintaining a vascular
+homeostasis by
+
+100
+00:05:15,360 --> 00:05:18,020
+releasing several
+signaling molecules.
+
+101
+00:05:18,020 --> 00:05:21,900
+One of the most important
+is nitric oxide, a potent
+
+102
+00:05:21,900 --> 00:05:25,440
+vasodilator. This is a
+major takeaway from today's
+
+103
+00:05:25,440 --> 00:05:29,300
+lecture, that endothelial cells
+produce nitric oxide, which
+
+104
+00:05:29,300 --> 00:05:32,420
+promotes vessel relaxation
+and healthy blood flow.
+
+105
+00:05:32,480 --> 00:05:35,720
+They also produce other
+factors like process
+
+106
+00:05:35,720 --> 00:05:38,620
+cyclin, which causes
+vasodilation, and
+
+107
+00:05:38,620 --> 00:05:41,360
+thromboxane, which
+causes vasoconstriction.
+
+108
+00:05:42,020 --> 00:05:45,120
+However, endothelial
+cells can also generate
+
+109
+00:05:45,120 --> 00:05:49,220
+reactive oxygen species,
+which contribute to oxidative
+
+110
+00:05:49,220 --> 00:05:52,920
+stress and vascular
+damage. In a healthy state,
+
+111
+00:05:53,100 --> 00:05:56,200
+reactive oxygen species
+levels are minimal, but
+
+112
+00:05:56,200 --> 00:05:59,720
+when reactive oxygen species
+production exceeds that
+
+113
+00:05:59,720 --> 00:06:03,300
+of nitric oxide, it indicates
+endothelial dysfunction,
+
+114
+00:06:03,340 --> 00:06:06,320
+a key contributor to
+cardiovascular disease.
+
+115
+00:06:06,500 --> 00:06:09,720
+Today, we'll be
+exploring both the normal
+
+116
+00:06:09,720 --> 00:06:12,820
+physiological roles of
+endothelial cells and
+
+117
+00:06:12,820 --> 00:06:15,480
+what happens when they
+become dysfunctional.
+
+118
+00:06:17,440 --> 00:06:21,300
+Where do you find endothelial
+cells? They are found
+
+119
+00:06:21,300 --> 00:06:24,180
+in all blood vessels,
+including arteries, veins,
+
+120
+00:06:24,180 --> 00:06:26,980
+and capillaries, and they
+compose the inner layer of
+
+121
+00:06:26,980 --> 00:06:29,590
+the blood vessel which
+is called the endothelium
+
+122
+00:06:32,000 --> 00:06:37,540
+here we have two images of
+two key cell types found
+
+123
+00:06:37,540 --> 00:06:41,040
+in the vascular wall both
+grown in cell culture on
+
+124
+00:06:41,040 --> 00:06:44,180
+the left you see endothelial
+cells and on the right
+
+125
+00:06:44,180 --> 00:06:48,320
+you see vascular smooth
+muscle cells one of the first
+
+126
+00:06:48,320 --> 00:06:51,020
+differences you'll notice
+is in size and shape
+
+127
+00:06:51,200 --> 00:06:54,720
+endothelial cells are smaller
+and have a cobblestone
+
+128
+00:06:54,720 --> 00:06:58,340
+shape whereas as smooth
+muscle cells are larger and
+
+129
+00:06:58,340 --> 00:07:01,480
+have a spindle shape with
+an elongated appearance.
+
+130
+00:07:02,160 --> 00:07:04,860
+Another key difference
+is how they grow.
+
+131
+00:07:05,580 --> 00:07:09,140
+Endothelial cells form
+a single monolayer.
+
+132
+00:07:09,180 --> 00:07:12,000
+When they run out of
+space, they stop growing,
+
+133
+00:07:12,300 --> 00:07:15,060
+whereas smooth
+muscle cells can grow
+
+134
+00:07:15,060 --> 00:07:17,120
+in multiple layers
+stacking on top
+
+135
+00:07:17,120 --> 00:07:19,140
+of each other when
+space is limited.
+
+136
+00:07:19,800 --> 00:07:22,660
+For this lecture, we
+will only focus on
+
+137
+00:07:22,660 --> 00:07:25,760
+endothelial cells. the
+next lecture in this series
+
+138
+00:07:25,760 --> 00:07:28,160
+will explore the
+molecular physiology of
+
+139
+00:07:28,160 --> 00:07:30,520
+vascular smooth muscle
+cells in more depth.
+
+140
+00:07:32,940 --> 00:07:34,800
+Let's start with the primary
+
+141
+00:07:34,800 --> 00:07:36,360
+function of the endothelium.
+
+142
+00:07:36,520 --> 00:07:39,800
+In the image on the top
+right, you can see the
+
+143
+00:07:39,800 --> 00:07:43,260
+endothelial layer lining
+the inside of the vessel. It
+
+144
+00:07:43,260 --> 00:07:45,840
+serves as a selective
+barrier regulating what
+
+145
+00:07:45,840 --> 00:07:48,720
+passes between the blood
+and the deeper layers of the
+
+146
+00:07:48,720 --> 00:07:52,120
+vessel wall. But over
+time, we have seen that
+
+147
+00:07:52,120 --> 00:07:55,000
+research has shown that the
+endothelium is much more
+
+148
+00:07:55,000 --> 00:07:58,220
+than just a physical
+barrier. We know today that
+
+149
+00:07:58,220 --> 00:08:00,980
+endothelial cells play
+active roles in maintaining
+
+150
+00:08:00,980 --> 00:08:05,060
+vascular health through
+regulating vasodilation,
+
+151
+00:08:05,220 --> 00:08:06,220
+inflammation,
+
+152
+00:08:06,560 --> 00:08:10,000
+blood flow, and overall
+homeostasis. To give
+
+153
+00:08:10,000 --> 00:08:12,720
+you a sense of scale,
+the human body contains
+
+154
+00:08:12,720 --> 00:08:15,680
+approximately 60 trillion
+endothelial cells
+
+155
+00:08:15,680 --> 00:08:18,620
+lining every artery,
+vein, and capillary.
+
+156
+00:08:19,160 --> 00:08:22,300
+Looking at the schematic,
+you can see a cross-section
+
+157
+00:08:22,300 --> 00:08:24,860
+of a blood vessel in
+the bottom right of this
+
+158
+00:08:24,860 --> 00:08:28,840
+slide. The endothelium
+lines the inside and beneath
+
+159
+00:08:28,840 --> 00:08:32,520
+it is the smooth muscle
+layer. The endothelium is
+
+160
+00:08:32,520 --> 00:08:35,660
+innervated by cholinergic
+nerves which release
+
+161
+00:08:35,660 --> 00:08:39,580
+acetylcholine. This
+acetylcholine binds to muscarinic
+
+162
+00:08:39,580 --> 00:08:42,720
+receptors on the endothelial
+cells, triggering the
+
+163
+00:08:42,720 --> 00:08:46,800
+release of nitric oxide,
+which leads to vasodilation.
+
+164
+00:08:47,120 --> 00:08:49,600
+The vascular smooth
+muscle is also
+
+165
+00:08:49,600 --> 00:08:51,740
+involved in regulating
+vessel tone,
+
+166
+00:08:51,800 --> 00:08:54,780
+primarily through
+noradrenergic nerves and
+
+167
+00:08:54,780 --> 00:08:57,860
+epinephrine, which
+causes vasoconstriction.
+
+168
+00:08:58,010 --> 00:09:00,980
+We'll dive deeper into
+that in the next lecture.
+
+169
+00:09:02,870 --> 00:09:06,240
+Here we have a figure
+that highlights the wide
+
+170
+00:09:06,240 --> 00:09:09,220
+range of factors produced
+by endothelial cells.
+
+171
+00:09:09,400 --> 00:09:11,940
+This slide really
+shows how functionally
+
+172
+00:09:11,940 --> 00:09:13,880
+diverse endothelial cells are.
+
+173
+00:09:13,880 --> 00:09:16,460
+They're not just passive
+linings, but they
+
+174
+00:09:16,460 --> 00:09:19,300
+actively regulate vascular
+tone and homeostasis.
+
+175
+00:09:19,360 --> 00:09:22,480
+For this lecture, I want
+you to focus on two key
+
+176
+00:09:22,480 --> 00:09:26,400
+categories, vasodilators
+and vasoconstrictors.
+
+177
+00:09:26,400 --> 00:09:29,860
+The main takeaway is that
+endothelial cells produce
+
+178
+00:09:29,860 --> 00:09:33,140
+dietric oxide, a gas
+that causes vasodilation.
+
+179
+00:09:33,460 --> 00:09:35,820
+They also release
+prostacycline,
+
+180
+00:09:35,820 --> 00:09:39,500
+another vasodilator.
+On the vasoconstrictor
+
+181
+00:09:39,500 --> 00:09:41,820
+side, they produce thromboxane,
+
+182
+00:09:42,040 --> 00:09:45,920
+endothelin, and reactive
+oxygen species, which
+
+183
+00:09:45,920 --> 00:09:49,080
+contribute to oxidative stress
+and vascular dysfunction.
+
+184
+00:09:49,930 --> 00:09:53,760
+Lastly, we also know that
+endothelial cells can
+
+185
+00:09:53,760 --> 00:09:57,520
+produce procoagulant factors,
+like the Juan-Villebrand
+
+186
+00:09:57,520 --> 00:10:01,380
+factor, as well as the
+platelet-activating factor.
+
+187
+00:10:06,150 --> 00:10:08,890
+Physiological conditions.
+there is a balance
+
+188
+00:10:08,890 --> 00:10:12,210
+between vasodilation and
+vasoconstriction, which
+
+189
+00:10:12,210 --> 00:10:14,770
+maintains the baseline
+tone of blood vessels.
+
+190
+00:10:14,930 --> 00:10:18,090
+Vessels are not constantly
+relaxed or contracted.
+
+191
+00:10:18,090 --> 00:10:21,030
+They stay in a regulated
+state of partial tone.
+
+192
+00:10:21,030 --> 00:10:24,530
+This balance is maintained
+by opposing factors.
+
+193
+00:10:24,790 --> 00:10:26,990
+On the vasodilation side,
+
+194
+00:10:27,070 --> 00:10:30,770
+the key player is nitric
+oxide and prostacyclin.
+
+195
+00:10:30,770 --> 00:10:34,310
+On the vasoconstriction
+side, we have endothelin,
+
+196
+00:10:34,570 --> 00:10:38,270
+we have thalboxane and
+reactive oxygen species.
+
+197
+00:10:38,790 --> 00:10:41,030
+When the balance is disrupted,
+
+198
+00:10:41,030 --> 00:10:42,570
+such as in disease states,
+
+199
+00:10:42,690 --> 00:10:44,610
+vascular tone becomes abnormal,
+
+200
+00:10:44,610 --> 00:10:47,310
+leading to vascular
+dysfunction.
+
+201
+00:10:49,510 --> 00:10:52,590
+When we have
+endothelial dysfunction,
+
+202
+00:10:52,710 --> 00:10:55,310
+it means that the
+endothelial cells are no
+
+203
+00:10:55,310 --> 00:10:58,710
+longer functioning properly.
+They begin to produce
+
+204
+00:10:58,710 --> 00:11:02,010
+less nitric oxide and
+more vasoconstrictors,
+
+205
+00:11:02,350 --> 00:11:04,910
+disrupting this
+normal balance. This
+
+206
+00:11:04,910 --> 00:11:06,730
+leads to vessel
+constriction and can
+
+207
+00:11:06,730 --> 00:11:09,370
+contribute to vascular
+complications.
+
+208
+00:11:09,690 --> 00:11:12,950
+One major consequence
+is vascular stiffening,
+
+209
+00:11:12,950 --> 00:11:15,710
+where the vessel loses
+its elasticity and
+
+210
+00:11:15,710 --> 00:11:18,610
+becomes rigid. We'll
+explore this more in the
+
+211
+00:11:18,610 --> 00:11:21,630
+upcoming lecture on
+hemodynamics and circulation.
+
+212
+00:11:22,350 --> 00:11:25,070
+It's also important
+to note that nitric
+
+213
+00:11:25,070 --> 00:11:27,270
+oxide is not just
+a vasodilator,
+
+214
+00:11:27,270 --> 00:11:29,970
+but also an anti
+-proliferative factor.
+
+215
+00:11:30,110 --> 00:11:33,670
+Under normal conditions,
+it keeps vascular smooth
+
+216
+00:11:33,670 --> 00:11:37,170
+muscle cells from proliferating,
+but when the nitric
+
+217
+00:11:37,170 --> 00:11:39,830
+oxide levels drop, this
+protective effect is
+
+218
+00:11:39,830 --> 00:11:43,290
+lost, leading to smooth
+muscle cell proliferation,
+
+219
+00:11:43,290 --> 00:11:46,590
+which contributes further
+to vascular dysfunction.
+
+220
+00:11:49,950 --> 00:11:53,210
+Endothelial cells release
+several vasodietary
+
+221
+00:11:53,210 --> 00:11:55,910
+factors, collectively
+known as endothelium
+
+222
+00:11:55,910 --> 00:11:59,850
+-derived relaxation
+factors, or EDRFs. While
+
+223
+00:11:59,850 --> 00:12:02,050
+not all of them have
+been fully identified,
+
+224
+00:12:02,290 --> 00:12:03,790
+one of the most well-known and
+
+225
+00:12:03,790 --> 00:12:05,870
+well-studied is nitric oxide.
+
+226
+00:12:06,790 --> 00:12:10,050
+Acetylcholine, a
+neurotransmitter, is released by
+
+227
+00:12:10,050 --> 00:12:14,190
+cholinergic nerves, and
+acetylcholine will bind to muscarinic
+
+228
+00:12:14,190 --> 00:12:17,010
+receptors on endothelial
+cells, triggering the
+
+229
+00:12:17,010 --> 00:12:20,390
+release of nitric oxide,
+which then causes relaxation.
+
+230
+00:12:20,950 --> 00:12:24,870
+The image on the bottom
+shows a common experiment we
+
+231
+00:12:24,870 --> 00:12:28,210
+do in Dr. Sepulveda's lab
+to demonstrate this process.
+
+232
+00:12:28,210 --> 00:12:31,850
+We isolate a blood
+vessel and are able to
+
+233
+00:12:31,850 --> 00:12:35,690
+contract it using
+phenylephrine, and then we are
+
+234
+00:12:35,690 --> 00:12:40,170
+able to apply acetylcholine,
+which then relaxes
+
+235
+00:12:40,170 --> 00:12:42,990
+the vessel because
+the endothelial cells
+
+236
+00:12:42,990 --> 00:12:46,330
+release nitric oxide in
+response to the stimulus.
+
+237
+00:12:47,050 --> 00:12:49,990
+But what happens
+if this endothelial
+
+238
+00:12:49,990 --> 00:12:52,690
+layer is damaged or removed.
+
+239
+00:12:56,590 --> 00:13:00,790
+We can repeat the same question
+to answer this question,
+
+240
+00:13:00,790 --> 00:13:03,990
+and by contracting the
+vessel with phenylephrine
+
+241
+00:13:03,990 --> 00:13:08,130
+and then adding acetylcholine,
+but this time with the
+
+242
+00:13:08,130 --> 00:13:11,690
+endothelium removed, the
+result is very different. The
+
+243
+00:13:11,690 --> 00:13:15,210
+vessel no longer relaxes in
+response to acetylcholine.
+
+244
+00:13:15,330 --> 00:13:16,290
+Why?
+
+245
+00:13:16,490 --> 00:13:20,230
+Because without endothelial
+cells, acetylcholine
+
+246
+00:13:20,230 --> 00:13:23,270
+has no myrskirinic
+disruptors to bind to,
+
+247
+00:13:23,270 --> 00:13:25,910
+and therefore there's no
+nitric oxide released.
+
+248
+00:13:26,090 --> 00:13:29,630
+This experiment shows
+that without endothelial
+
+249
+00:13:29,630 --> 00:13:32,650
+cells, there's no
+nitric oxide production,
+
+250
+00:13:32,650 --> 00:13:36,430
+and therefore no vessel
+relaxation occurs.
+
+251
+00:13:39,690 --> 00:13:43,390
+This was a major discovery
+in vascular biology.
+
+252
+00:13:43,390 --> 00:13:46,030
+one that changed our
+understanding of how blood
+
+253
+00:13:46,030 --> 00:13:49,430
+vessels function and ultimately
+led three scientists,
+
+254
+00:13:49,430 --> 00:13:51,510
+one of which is from New York,
+
+255
+00:13:51,510 --> 00:13:54,690
+to win the Nobel Prize in 1998.
+
+256
+00:13:54,790 --> 00:13:57,670
+The discovery came
+somewhat unexpectedly.
+
+257
+00:13:57,710 --> 00:14:01,630
+In their lab, experiments
+with isolated blood vessels
+
+258
+00:14:01,780 --> 00:14:05,550
+didn't seem to relax in
+response to acetylcholine.
+
+259
+00:14:05,550 --> 00:14:08,390
+And after some investigation,
+what they realized
+
+260
+00:14:08,390 --> 00:14:10,930
+was that the technician
+had accidentally been
+
+261
+00:14:10,930 --> 00:14:14,010
+removing the endothelial
+layer during the preparation.
+
+262
+00:14:14,010 --> 00:14:17,630
+And without the endothelium,
+we know that no nitric
+
+263
+00:14:17,630 --> 00:14:21,150
+oxide can be produced and
+no vasodilation can occur.
+
+264
+00:14:21,490 --> 00:14:24,010
+This led to the
+breakthrough finding that
+
+265
+00:14:24,010 --> 00:14:26,230
+endothelial cells are
+essential for nitric
+
+266
+00:14:26,230 --> 00:14:29,270
+oxide production and that
+nitric oxide is a key
+
+267
+00:14:29,270 --> 00:14:32,050
+signaling molecule in
+vascular regulation.
+
+268
+00:14:32,370 --> 00:14:35,450
+This discovery paved the
+way for many therapeutic
+
+269
+00:14:35,450 --> 00:14:38,430
+applications, including
+drugs that enhance
+
+270
+00:14:38,430 --> 00:14:41,830
+nitric oxide signaling.
+One well-known example
+
+271
+00:14:41,830 --> 00:14:44,890
+is ******, which we'll
+discuss shortly. As
+
+272
+00:14:51,150 --> 00:14:53,670
+I mentioned earlier, the
+key takeaway from this
+
+273
+00:14:53,670 --> 00:14:57,310
+lecture is nitric oxide
+signaling. In this schematic
+
+274
+00:14:57,310 --> 00:15:00,310
+on the left, we see
+endothelial cells lining the
+
+275
+00:15:00,310 --> 00:15:03,390
+vessel with vascular smooth
+muscles adjacent to them.
+
+276
+00:15:03,730 --> 00:15:07,610
+This process begins
+when cholinergic nerves
+
+277
+00:15:07,610 --> 00:15:10,730
+release acetylcholine,
+which then binds to the
+
+278
+00:15:10,730 --> 00:15:14,170
+muscarinic M3 receptors
+on the endothelial cells.
+
+279
+00:15:14,330 --> 00:15:18,370
+This binding triggers an
+increase in intracellular
+
+280
+00:15:18,370 --> 00:15:21,570
+calcium, which then
+binds to calmodulin.
+
+281
+00:15:21,950 --> 00:15:26,090
+The calcium calmodulin
+complex activates the
+
+282
+00:15:26,090 --> 00:15:29,750
+enzyme enos, which is
+known as endothelial nitric
+
+283
+00:15:29,750 --> 00:15:35,290
+oxide synthase, and then
+this enzyme enos converts
+
+284
+00:15:35,290 --> 00:15:39,430
+L-arginine into nitric
+oxide, a gas that diffuses
+
+285
+00:15:39,430 --> 00:15:42,530
+into the nearby vascular
+smooth muscle cells.
+
+286
+00:15:42,990 --> 00:15:44,330
+There,
+
+287
+00:15:44,570 --> 00:15:47,610
+nitric oxide activates
+guanylate cyclase,
+
+288
+00:15:47,610 --> 00:15:51,970
+which converts GTP
+into cyclic GMP.
+
+289
+00:15:52,290 --> 00:15:56,890
+Cyclic GMP then activates
+protein kinase G,
+
+290
+00:15:57,070 --> 00:16:00,630
+abbreviated as PKG,
+leading to smooth
+
+291
+00:16:00,630 --> 00:16:03,090
+muscle relaxation
+and vasodilation.
+
+292
+00:16:03,670 --> 00:16:07,610
+A few key points to
+remember is that one,
+
+293
+00:16:07,610 --> 00:16:10,490
+calcium is essential
+for E-NOS activation,
+
+294
+00:16:10,690 --> 00:16:11,670
+two,
+
+295
+00:16:12,010 --> 00:16:13,750
+L-arginine is the substrate
+
+296
+00:16:13,750 --> 00:16:15,910
+for nitric oxide production,
+
+297
+00:16:16,230 --> 00:16:19,290
+and three, nitric
+oxide diffuses into
+
+298
+00:16:19,290 --> 00:16:21,210
+the smooth muscle
+and triggers a
+
+299
+00:16:21,210 --> 00:16:24,170
+cyclic GMP-dependent
+signaling cascade.
+
+300
+00:16:26,950 --> 00:16:30,230
+Here I've included a
+picture of an L-arginine
+
+301
+00:16:30,230 --> 00:16:33,570
+supplement as a memory tool
+for you all, and you may
+
+302
+00:16:33,570 --> 00:16:36,090
+have seen this supplement
+in your local pharmacy
+
+303
+00:16:36,090 --> 00:16:39,870
+marketed for blood flow
+and vascular health. That's
+
+304
+00:16:39,870 --> 00:16:42,730
+because L-arginine
+feeds this very pathway,
+
+305
+00:16:42,730 --> 00:16:46,110
+supporting nitric oxide
+production and vasodilation.
+
+306
+00:16:46,830 --> 00:16:49,510
+Now we'll take a
+look at the enzyme
+
+307
+00:16:49,600 --> 00:16:52,720
+PDE5, which stands
+for phosphodiesterase
+
+308
+00:16:52,720 --> 00:16:56,010
+type 5, which breaks
+down cyclic GMP.
+
+309
+00:16:56,170 --> 00:17:00,330
+When cyclic GMP is degraded,
+protein kinase G is
+
+310
+00:17:00,330 --> 00:17:03,510
+no longer activated, and
+as a result, vasodilation
+
+311
+00:17:03,510 --> 00:17:07,230
+is reduced. Researchers
+realized that by inhibiting
+
+312
+00:17:07,230 --> 00:17:11,350
+PDE5, they could preserve
+cyclic GMP levels,
+
+313
+00:17:11,350 --> 00:17:15,030
+sustaining the protein
+kinase G activation and
+
+314
+00:17:15,030 --> 00:17:18,330
+promoting relaxation of
+vascular smooth muscle.
+
+315
+00:17:18,330 --> 00:17:22,790
+That's exactly the mechanism
+of ******. ****** is a
+
+316
+00:17:22,790 --> 00:17:26,370
+PDE5 inhibitor, and it
+blocks the breakdown of C
+
+317
+00:17:26,370 --> 00:17:30,290
+-GMP, allowing for more
+vasodilation to occur by
+
+318
+00:17:30,290 --> 00:17:33,310
+keeping the nitric oxide
+signaling pathway active.
+
+319
+00:17:36,550 --> 00:17:39,790
+Here is a quick summary
+of the nitric oxide
+
+320
+00:17:39,790 --> 00:17:42,730
+signaling cascade. In
+healthy endothelial
+
+321
+00:17:42,730 --> 00:17:45,490
+cells, nitric oxide
+production leads to several
+
+322
+00:17:45,490 --> 00:17:49,130
+protective effects,
+vasodilation, reduced
+
+323
+00:17:49,130 --> 00:17:51,790
+smooth muscle contraction
+and proliferation,
+
+324
+00:17:52,330 --> 00:17:54,690
+decreased platelet aggregation,
+
+325
+00:17:54,910 --> 00:17:58,010
+lower endothelin
+production, and reduce
+
+326
+00:17:58,010 --> 00:18:02,070
+oxidation of low-density
+lipoprotein, or LDL.
+
+327
+00:18:02,350 --> 00:18:04,670
+Together, these effects help
+
+328
+00:18:04,670 --> 00:18:06,210
+maintain vascular health.
+
+329
+00:18:07,290 --> 00:18:09,810
+But when the
+endothelial cells become
+
+330
+00:18:09,810 --> 00:18:12,960
+dysfunctional, nitric
+oxide production decreases,
+
+331
+00:18:12,960 --> 00:18:15,210
+and as a result, we
+see the opposite.
+
+332
+00:18:15,250 --> 00:18:17,570
+Increased vasoconstriction,
+
+333
+00:18:17,670 --> 00:18:19,670
+smooth muscle proliferation,
+
+334
+00:18:20,050 --> 00:18:22,050
+more platelet aggregation,
+
+335
+00:18:22,280 --> 00:18:25,490
+higher endothelin
+levels, and greater
+
+336
+00:18:25,490 --> 00:18:28,030
+low density
+lipoprotein oxidation.
+
+337
+00:18:28,110 --> 00:18:30,790
+All of these changes
+contribute to
+
+338
+00:18:30,790 --> 00:18:32,970
+vascular damage and
+disease progression.
+
+339
+00:18:36,730 --> 00:18:39,850
+This slide summarizes
+the mechanisms by which
+
+340
+00:18:39,850 --> 00:18:42,410
+endothelial cells cause
+vascular relaxation.
+
+341
+00:18:42,410 --> 00:18:45,630
+We've already covered the
+main pathway in the middle.
+
+342
+00:18:46,290 --> 00:18:49,210
+For your purposes, I'll
+summarize it one more
+
+343
+00:18:49,210 --> 00:18:52,390
+time. So, the first
+thing that happens is
+
+344
+00:18:52,390 --> 00:18:55,470
+acetylcholine binds to
+muscarinic receptors on
+
+345
+00:18:55,470 --> 00:18:58,350
+endothelial cells.
+This then increases
+
+346
+00:18:58,350 --> 00:19:01,890
+intracellular calcium,
+which binds to calmodulin.
+
+347
+00:19:02,230 --> 00:19:07,270
+The calcium calmodulin
+complex activates ENOS, which
+
+348
+00:19:07,270 --> 00:19:10,850
+is an enzyme that stands
+for endothelial nitric oxide
+
+349
+00:19:10,850 --> 00:19:15,070
+synthase, which converts L
+-arginine to nitric oxide.
+
+350
+00:19:15,550 --> 00:19:18,370
+The nitric oxide
+then diffuses to the
+
+351
+00:19:18,370 --> 00:19:20,450
+smooth muscle,
+activating cyclic
+
+352
+00:19:20,450 --> 00:19:23,870
+GMP and leading to
+vessel relaxation.
+
+353
+00:19:24,120 --> 00:19:26,750
+But it's also
+important to note that
+
+354
+00:19:26,750 --> 00:19:28,430
+there are additional
+pathways that also
+
+355
+00:19:28,430 --> 00:19:30,610
+contribute to smooth
+muscle relaxation.
+
+356
+00:19:30,970 --> 00:19:34,510
+On the left, we see
+prostacyclin, another factor
+
+357
+00:19:34,510 --> 00:19:37,010
+released by endothelial
+cells, which promotes
+
+358
+00:19:37,010 --> 00:19:40,350
+vasodilation through
+cyclic AMP signaling.
+
+359
+00:19:40,770 --> 00:19:45,100
+On the right, we see the
+factor endothelium-derived
+
+360
+00:19:45,100 --> 00:19:49,170
+hyperpolarizing factor, which
+causes hyperpolarization of
+
+361
+00:19:49,170 --> 00:19:52,870
+smooth muscle cells, which
+also leads to relaxation.
+
+362
+00:19:53,010 --> 00:19:55,810
+For this lecture,
+the main focus is the
+
+363
+00:19:55,810 --> 00:19:58,250
+pathway in the middle,
+which we have discussed.
+
+364
+00:20:03,250 --> 00:20:05,910
+Try our first practice
+question for today.
+
+365
+00:20:05,910 --> 00:20:08,450
+Please take a moment
+to pause the video and
+
+366
+00:20:08,450 --> 00:20:11,250
+answer the question before
+we review the answer.
+
+367
+00:20:14,950 --> 00:20:17,290
+The correct answer is D,
+
+368
+00:20:17,970 --> 00:20:20,510
+IM epinephrine administration.
+
+369
+00:20:20,810 --> 00:20:23,950
+So in this case, the
+patient is showing
+
+370
+00:20:23,950 --> 00:20:27,150
+signs of anaphylaxis, a
+severe and potentially
+
+371
+00:20:27,150 --> 00:20:29,130
+life-threatening
+allergic reaction.
+
+372
+00:20:29,330 --> 00:20:31,490
+Epinephrine is the
+first-line treatment
+
+373
+00:20:31,490 --> 00:20:34,190
+for anaphylaxis, and
+one of the ways this
+
+374
+00:20:34,190 --> 00:20:37,230
+medication works is
+by vasoconstriction.
+
+375
+00:20:37,590 --> 00:20:40,950
+Let's talk a little bit
+more about epinephrine.
+
+376
+00:20:40,950 --> 00:20:44,670
+People with severe allergies
+often carry an epinephrine
+
+377
+00:20:44,670 --> 00:20:47,110
+auto-injector like an
+EpiPen for emergencies.
+
+378
+00:20:47,690 --> 00:20:51,110
+In a severe allergic
+reaction, there's a surge of
+
+379
+00:20:51,110 --> 00:20:54,570
+histamine and bradykinin,
+which triggers vasodilation
+
+380
+00:20:54,570 --> 00:20:56,870
+and leads to a drop
+in the blood pressure
+
+381
+00:20:56,870 --> 00:21:00,370
+by increasing the nitric
+oxide production of
+
+382
+00:21:00,370 --> 00:21:04,930
+endothelial cells. To reverse
+this, we give epinephrine,
+
+383
+00:21:04,930 --> 00:21:07,810
+which activates alpha
+-adrenergic receptors on
+
+384
+00:21:07,810 --> 00:21:10,870
+vascular smooth muscle,
+causing vasoconstriction,
+
+385
+00:21:10,870 --> 00:21:13,690
+and ultimately helps
+restore the blood pressure.
+
+386
+00:21:15,630 --> 00:21:19,010
+Now we will shift gears
+and discuss the clinical
+
+387
+00:21:19,010 --> 00:21:21,410
+implications of
+endothelial dysfunction.
+
+388
+00:21:21,410 --> 00:21:23,930
+I have highlighted a
+few here that we'll
+
+389
+00:21:23,930 --> 00:21:26,370
+briefly touch upon
+in today's session.
+
+390
+00:21:29,070 --> 00:21:32,470
+Juan-Villebrand disease is
+a common genetic bleeding
+
+391
+00:21:32,470 --> 00:21:35,670
+disorder caused by low
+levels or dysfunctional
+
+392
+00:21:35,670 --> 00:21:38,810
+Juan-Villebrand factor.
+This protein is produced
+
+393
+00:21:38,810 --> 00:21:42,070
+exclusively by endothelial
+cells, which makes it a
+
+394
+00:21:42,070 --> 00:21:45,230
+key marker of endothelial
+function in coagulation.
+
+395
+00:21:45,690 --> 00:21:49,990
+In a normal physiological
+response, when a blood vessel
+
+396
+00:21:49,990 --> 00:21:53,410
+is injured, the endothelial
+cells near the injury site
+
+397
+00:21:53,410 --> 00:21:56,770
+release Juan-Vilibrand
+factor into the bloodstream.
+
+398
+00:21:57,010 --> 00:22:01,030
+This Juan-Vilibrand factor
+binds to the exposed collagen
+
+399
+00:22:01,030 --> 00:22:04,590
+in the damaged vessel wall
+and acts like a bridge,
+
+400
+00:22:04,590 --> 00:22:07,790
+helping platelets adhere
+to the site of the injury.
+
+401
+00:22:08,250 --> 00:22:11,490
+Platelets can then
+aggregate and form a plug,
+
+402
+00:22:11,490 --> 00:22:14,370
+which is the first step
+to stopping the bleeding.
+
+403
+00:22:15,010 --> 00:22:18,090
+However, in Juan
+-Vilibrand disease, this is
+
+404
+00:22:18,090 --> 00:22:20,770
+not the case because
+endothelial cells either
+
+405
+00:22:20,770 --> 00:22:23,830
+don't produce enough
+von-villibrand factor or
+
+406
+00:22:23,830 --> 00:22:26,390
+the von-villibrand
+factor is not functional
+
+407
+00:22:26,770 --> 00:22:30,290
+and so they're the initial
+platelet adhesion step
+
+408
+00:22:30,290 --> 00:22:33,530
+is impaired and as a
+result the platelet plug
+
+409
+00:22:33,530 --> 00:22:36,190
+does not form properly
+and bleeding continues
+
+410
+00:22:36,190 --> 00:22:39,740
+longer than it should even
+with minor injuries the
+
+411
+00:22:39,740 --> 00:22:43,050
+standard treatment or
+von-villibrand disease is
+
+412
+00:22:43,050 --> 00:22:46,230
+desmopressin which works
+by stimulating endothelial
+
+413
+00:22:46,230 --> 00:22:49,270
+cells to release dork
+-wan-villibrand factor.
+
+414
+00:22:51,300 --> 00:22:53,430
+Hypertension is
+both a cause and
+
+415
+00:22:53,430 --> 00:22:55,350
+consequence of
+endothelial dysfunction.
+
+416
+00:22:55,510 --> 00:22:58,570
+When the endothelium
+becomes dysfunctional, it
+
+417
+00:22:58,570 --> 00:23:02,050
+produces less nitric oxide,
+which leads to increased
+
+418
+00:23:02,050 --> 00:23:05,130
+vasoconstriction, higher
+vascular tone, and
+
+419
+00:23:05,130 --> 00:23:07,710
+ultimately contributes to
+elevated blood pressure.
+
+420
+00:23:07,930 --> 00:23:11,830
+At the same time, high blood
+pressure itself increases
+
+421
+00:23:11,830 --> 00:23:14,930
+shear stress on the vessel
+walls, and this mechanical
+
+422
+00:23:14,930 --> 00:23:17,990
+force can further damage
+the endothelial layer.
+
+423
+00:23:20,050 --> 00:23:23,730
+Let's take a closer look
+at shear stress. Under
+
+424
+00:23:23,730 --> 00:23:26,330
+normal conditions, we
+see that there's laminar
+
+425
+00:23:26,330 --> 00:23:28,750
+blood flow, which applies
+a steady protective
+
+426
+00:23:28,750 --> 00:23:32,110
+force on endothelial
+cells. But in hypertension,
+
+427
+00:23:32,290 --> 00:23:34,990
+the increased blood flow
+and pressure generate
+
+428
+00:23:34,990 --> 00:23:37,270
+excessive shear stress,
+which can damage the
+
+429
+00:23:37,270 --> 00:23:40,730
+endothelial layer. Once
+damaged, endothelial cells
+
+430
+00:23:40,730 --> 00:23:43,710
+produce less nitric oxide
+leading to vasoconstriction
+
+431
+00:23:43,710 --> 00:23:45,970
+and further elevation
+of blood pressure.
+
+432
+00:23:46,130 --> 00:23:50,450
+As shown in the image on
+the left, we see that when
+
+433
+00:23:50,450 --> 00:23:53,190
+the blood flow becomes
+turbulent or too strong,
+
+434
+00:23:53,190 --> 00:23:56,550
+it disrupts endothelial
+function, reducing nitric
+
+435
+00:23:56,550 --> 00:24:00,150
+oxide production and
+contributing to the cycle of
+
+436
+00:24:00,150 --> 00:24:02,970
+vascular dysfunction that
+can lead to hypertension.
+
+437
+00:24:06,290 --> 00:24:08,810
+Let's briefly discuss
+how blood flow
+
+438
+00:24:08,810 --> 00:24:11,750
+dynamics work across
+the vascular system.
+
+439
+00:24:11,890 --> 00:24:14,810
+One key principle to
+remember is that blood
+
+440
+00:24:14,810 --> 00:24:17,410
+flow velocity is
+inversely related to the
+
+441
+00:24:17,410 --> 00:24:20,290
+total cross-sectional
+area of the vessel type.
+
+442
+00:24:20,510 --> 00:24:24,170
+The aorta has a small
+total cross-sectional area,
+
+443
+00:24:24,170 --> 00:24:26,970
+so the blood flow
+velocity is highest there.
+
+444
+00:24:27,370 --> 00:24:30,970
+In contrast, capillaries,
+though tiny individually,
+
+445
+00:24:31,230 --> 00:24:34,060
+collectively have the
+largest cross-sectional area,
+
+446
+00:24:34,060 --> 00:24:37,170
+so the blood flow is slowest
+at the capillary level
+
+447
+00:24:37,170 --> 00:24:40,530
+this slower flow in
+capillaries is essential for
+
+448
+00:24:40,530 --> 00:24:43,550
+efficient exchange of
+oxygen and nutrients between
+
+449
+00:24:43,550 --> 00:24:47,230
+blood and tissue which
+makes sense we'll cover this
+
+450
+00:24:47,230 --> 00:24:50,170
+more in detail in the
+hemodynamics and circulation
+
+451
+00:24:50,170 --> 00:24:53,090
+lecture but it's important
+to understand the basic
+
+452
+00:24:53,090 --> 00:25:00,070
+concepts now another concept
+we'll explore in the next
+
+453
+00:25:00,070 --> 00:25:03,090
+lecture is total peripheral
+resistance but I want
+
+454
+00:25:03,090 --> 00:25:05,850
+to briefly introduce it
+here. Total peripheral
+
+455
+00:25:05,850 --> 00:25:09,130
+resistance refers to the
+resistance that blood encounters
+
+456
+00:25:09,130 --> 00:25:12,070
+as it flows through the
+systemic circulation, and
+
+457
+00:25:12,070 --> 00:25:14,450
+it plays a key role in
+regulating blood pressure.
+
+458
+00:25:14,670 --> 00:25:17,670
+We'll see later that blood
+pressure is equal to the
+
+459
+00:25:17,670 --> 00:25:20,650
+cardiac output times the
+total peripheral resistance.
+
+460
+00:25:21,570 --> 00:25:24,630
+Importantly, total peripheral
+resistance is primarily
+
+461
+00:25:24,630 --> 00:25:26,910
+determined by small
+arteries, especially the
+
+462
+00:25:26,910 --> 00:25:29,750
+mesenteric arteries in the
+gastrointestinal circulation.
+
+463
+00:25:29,970 --> 00:25:32,710
+A common misconception
+is that peripheral
+
+464
+00:25:32,710 --> 00:25:34,890
+refers to the vessels
+in the periphery of
+
+465
+00:25:34,890 --> 00:25:36,990
+our body, such as in
+the arms and legs.
+
+466
+00:25:37,020 --> 00:25:39,990
+But in reality, it's the
+small arteries in the
+
+467
+00:25:39,990 --> 00:25:42,330
+gut that contribute
+most to total peripheral
+
+468
+00:25:42,330 --> 00:25:46,030
+resistance, and they are
+known as resistant vessels.
+
+469
+00:25:46,270 --> 00:25:49,370
+So the key takeaway is
+that mesenteric arteries
+
+470
+00:25:49,370 --> 00:25:52,110
+are the main regulators of
+total peripheral resistance
+
+471
+00:25:52,110 --> 00:25:55,430
+and ultimately, therefore,
+of blood pressure.
+
+472
+00:25:59,530 --> 00:26:01,650
+This image on the
+left shows the
+
+473
+00:26:01,650 --> 00:26:03,910
+mesenteric arteries
+from mice, including
+
+474
+00:26:03,910 --> 00:26:06,090
+the first and second
+order branches.
+
+475
+00:26:06,270 --> 00:26:09,210
+These small arteries are
+rich in smooth muscle and
+
+476
+00:26:09,210 --> 00:26:11,490
+lined by endothelial
+cells, and they are the
+
+477
+00:26:11,490 --> 00:26:14,550
+primary contributors to
+total peripheral resistance.
+
+478
+00:26:14,550 --> 00:26:16,850
+To study these small arteries,
+
+479
+00:26:19,180 --> 00:26:21,890
+we use a specialized
+device called a
+
+480
+00:26:21,890 --> 00:26:24,520
+myograph that you can
+see on the top left.
+
+481
+00:26:24,910 --> 00:26:28,190
+We're able to isolate
+and mount a segment of a
+
+482
+00:26:28,190 --> 00:26:31,030
+mesenteric artery and measure
+its ability to contract
+
+483
+00:26:31,030 --> 00:26:34,830
+and relax as seen by
+the figure on the right.
+
+484
+00:26:35,280 --> 00:26:38,430
+Here are an example of
+the results. The vessel is
+
+485
+00:26:38,430 --> 00:26:41,290
+contracted using phenylephrine
+and then it's relaxed
+
+486
+00:26:41,290 --> 00:26:44,610
+with acetylcholine. These
+vessels are ideal for
+
+487
+00:26:44,610 --> 00:26:47,290
+studying total peripheral
+resistance, especially in
+
+488
+00:26:47,290 --> 00:26:50,030
+conditions like hypertension,
+because they closely
+
+489
+00:26:50,030 --> 00:26:53,610
+reflect how small arteries
+regulate vascular tone.
+
+490
+00:26:57,070 --> 00:27:00,190
+Another condition
+involving endothelial
+
+491
+00:27:00,190 --> 00:27:03,030
+dysfunction is pulmonary
+arterial hypertension.
+
+492
+00:27:03,190 --> 00:27:07,010
+In pulmonary arterial
+hypertension, dysfunction goes
+
+493
+00:27:07,010 --> 00:27:10,250
+beyond just reduced nitric
+oxide. It also involves
+
+494
+00:27:10,250 --> 00:27:12,970
+increased production of
+vasoconstrictors like
+
+495
+00:27:12,970 --> 00:27:17,430
+endothelin and elevated
+reactive oxygen species, all
+
+496
+00:27:17,430 --> 00:27:20,090
+of which contribute to
+pulmonary vasoconstriction.
+
+497
+00:27:20,490 --> 00:27:24,370
+Targeted treatment
+pathways include bosantin,
+
+498
+00:27:24,370 --> 00:27:27,350
+which is an endothelion
+receptor antagonist, and
+
+499
+00:27:27,350 --> 00:27:29,710
+it blocks the endothelion
+from binding to its
+
+500
+00:27:29,710 --> 00:27:32,790
+receptor, therefore
+reducing vasoconstriction,
+
+501
+00:27:32,790 --> 00:27:36,690
+and sildelfinol, which is
+also known as ******, and
+
+502
+00:27:36,690 --> 00:27:40,870
+is a PDE5 inhibitor, which
+prevents the breakdown of
+
+503
+00:27:40,870 --> 00:27:45,270
+CGMP, enhancing nitric
+oxide-mediated vasodilation.
+
+504
+00:27:48,200 --> 00:27:50,730
+now i'm going to take
+a moment just to really
+
+505
+00:27:50,730 --> 00:27:53,710
+reinforce on some of the
+terminology we've learned today
+
+506
+00:27:53,710 --> 00:27:57,090
+a lot of these words sound
+very similar but they're
+
+507
+00:27:57,090 --> 00:28:00,310
+very different things
+so first i'll talk about
+
+508
+00:28:00,310 --> 00:28:03,650
+endothelial cells and
+these cells form the inner
+
+509
+00:28:03,650 --> 00:28:06,440
+lining of the blood vessel
+which is known as the
+
+510
+00:28:06,440 --> 00:28:11,290
+endothelium and then we
+have endothelin which is a
+
+511
+00:28:11,290 --> 00:28:15,230
+potent vasoconstrictor
+produced by endothelial cells.
+
+512
+00:28:20,840 --> 00:28:23,840
+In diabetes, we also see
+endothelial dysfunction.
+
+513
+00:28:24,080 --> 00:28:26,480
+Endothelial cells
+produce less nitric
+
+514
+00:28:26,480 --> 00:28:28,760
+oxide and more
+endothelin, which is a
+
+515
+00:28:28,760 --> 00:28:31,000
+potent vasoconstrictor,
+as I mentioned.
+
+516
+00:28:31,400 --> 00:28:34,440
+Endothelin binds to
+receptors on vascular smooth
+
+517
+00:28:34,440 --> 00:28:37,840
+muscle, leading to increased
+vasoconstriction. This
+
+518
+00:28:37,840 --> 00:28:41,920
+imbalance leads to reduced
+vasodilation and enhanced
+
+519
+00:28:41,920 --> 00:28:44,700
+vasoconstriction, which
+ultimately contributes to the
+
+520
+00:28:44,700 --> 00:28:48,180
+vascular complications commonly
+seen in type 2 diabetes.
+
+521
+00:28:50,740 --> 00:28:52,240
+In obesity,
+
+522
+00:28:52,540 --> 00:28:54,680
+we also see endogelial
+dysfunction.
+
+523
+00:28:55,360 --> 00:28:57,300
+Endogelial cells
+produce less nitric
+
+524
+00:28:57,300 --> 00:28:59,740
+oxide, leading to
+impaired vasodilation
+
+525
+00:28:59,740 --> 00:29:02,230
+and a tendency toward
+vasoconstriction.
+
+526
+00:29:02,560 --> 00:29:04,540
+This helps explain
+the high rate of
+
+527
+00:29:04,540 --> 00:29:07,240
+vascular complications
+in obese individuals.
+
+528
+00:29:07,780 --> 00:29:10,560
+For many years, vascular
+disease was thought
+
+529
+00:29:10,560 --> 00:29:12,890
+to begin from the
+inside of the vessel,
+
+530
+00:29:12,890 --> 00:29:15,520
+and this was known as
+the inside-out theory.
+
+531
+00:29:15,860 --> 00:29:19,440
+but now there's growing
+evidence for the outside
+
+532
+00:29:19,440 --> 00:29:23,920
+in theory in obesity
+there is perivascular
+
+533
+00:29:23,920 --> 00:29:27,500
+adipose tissue the fat
+surrounding the blood
+
+534
+00:29:27,500 --> 00:29:30,620
+vessels which becomes
+inflamed and dysfunctional
+
+535
+00:29:30,620 --> 00:29:33,780
+releasing many negative
+and harmful factors that
+
+536
+00:29:33,780 --> 00:29:36,600
+impair endothelial
+function from the outside
+
+537
+00:29:37,020 --> 00:29:40,340
+so today we understand that
+endothelial dysfunction
+
+538
+00:29:40,340 --> 00:29:44,140
+can be driven not only from
+within the vessel but also
+
+539
+00:29:44,140 --> 00:29:47,200
+from signals from the
+surrounding adipose tissue.
+
+540
+00:29:49,460 --> 00:29:52,220
+Another condition
+linked to endothelial
+
+541
+00:29:52,220 --> 00:29:55,680
+dysfunction is deep
+-vape thrombosis, or DVT.
+
+542
+00:29:55,680 --> 00:29:58,760
+I won't go into detail
+here since you'll learn
+
+543
+00:29:58,760 --> 00:30:01,020
+about it in a different
+lecture, but it's important
+
+544
+00:30:01,020 --> 00:30:03,240
+to know that endothelial
+dysfunction is one
+
+545
+00:30:03,240 --> 00:30:05,780
+component of Virchow's
+triad, which describes
+
+546
+00:30:05,780 --> 00:30:08,440
+the major factors
+contributing to thrombosis. A
+
+547
+00:30:14,450 --> 00:30:16,110
+timely example of endothelial
+
+548
+00:30:16,110 --> 00:30:18,290
+dysfunction is
+seen in COVID-19.
+
+549
+00:30:18,450 --> 00:30:20,390
+During the pandemic,
+we learned that
+
+550
+00:30:20,390 --> 00:30:22,830
+COVID is not just a
+respiratory disease.
+
+551
+00:30:22,830 --> 00:30:25,350
+It also causes
+vascular complications.
+
+552
+00:30:25,390 --> 00:30:28,130
+The virus triggers the
+release of inflammatory
+
+553
+00:30:28,130 --> 00:30:31,250
+cytokines and directly leads
+to endothelial dysfunction.
+
+554
+00:30:31,250 --> 00:30:34,830
+As a result, there's reduced
+nitric oxide production,
+
+555
+00:30:35,050 --> 00:30:38,890
+increased inflammation, and
+vasoconstriction, as well
+
+556
+00:30:38,890 --> 00:30:42,990
+as higher risk of coagulation.
+This helps explain why
+
+557
+00:30:42,990 --> 00:30:45,890
+many patients with severe
+COVID develop coagulopathy
+
+558
+00:30:45,890 --> 00:30:49,350
+and thrombotic events all
+linked to impaired endothelial
+
+559
+00:30:49,350 --> 00:30:54,830
+function let's take a look
+at how COVID-19 causes
+
+560
+00:30:54,830 --> 00:30:58,470
+endothelial dysfunction and
+coagulopathy in this figure
+
+561
+00:30:58,470 --> 00:31:01,410
+you can see a comparison
+between a normal lung vessel
+
+562
+00:31:01,410 --> 00:31:04,490
+on the left and one from
+a COVID-19 patient on the
+
+563
+00:31:04,490 --> 00:31:07,990
+right in COVID the virus
+triggers a cytokine storm
+
+564
+00:31:07,990 --> 00:31:11,310
+which leads to endothelial
+activation and inflammation
+
+565
+00:31:11,310 --> 00:31:15,950
+this inflammation causes
+excessive release of monvelebran
+
+566
+00:31:15,950 --> 00:31:19,530
+factor from endothelial
+cells. Since monvelebran
+
+567
+00:31:19,530 --> 00:31:22,710
+factor plays a key role
+in platelet adhesion, its
+
+568
+00:31:22,710 --> 00:31:26,050
+overproduction leads to platelet
+aggregation and contributes
+
+569
+00:31:26,050 --> 00:31:29,890
+to the colabiopathy we
+see in severe COVID cases.
+
+570
+00:31:32,930 --> 00:31:35,910
+So how do we treat
+endothelial dysfunction?
+
+571
+00:31:35,990 --> 00:31:39,990
+One approach is increased
+nitric oxide production or
+
+572
+00:31:39,990 --> 00:31:43,790
+reducing reactive oxygen
+species. This has led to the
+
+573
+00:31:43,790 --> 00:31:46,590
+idea of using antioxidants
+as a potential therapy.
+
+574
+00:31:46,990 --> 00:31:50,090
+Compounds like vitamin C
+and phenols, which are found
+
+575
+00:31:50,090 --> 00:31:53,030
+in fruits and vegetables,
+have shown promise in
+
+576
+00:31:53,030 --> 00:31:56,330
+laboratory studies, but their
+effectiveness in a clinical
+
+577
+00:31:56,330 --> 00:31:59,630
+setting has been limited.
+So far, we don't have a
+
+578
+00:31:59,630 --> 00:32:03,090
+highly effective antioxidant
+therapy for endothelial
+
+579
+00:32:03,090 --> 00:32:06,570
+dysfunction, but it remains
+an area of active research.
+
+580
+00:32:10,830 --> 00:32:13,790
+Just to reiterate, there
+are several dietary
+
+581
+00:32:13,790 --> 00:32:16,990
+antioxidants that may help
+support endothelial function.
+
+582
+00:32:16,990 --> 00:32:19,810
+Some foods naturally
+contain compounds that
+
+583
+00:32:19,810 --> 00:32:22,370
+reduce oxidative stress,
+and certain supplements
+
+584
+00:32:22,370 --> 00:32:26,310
+like coenzyme, Q10,
+and vitamin C have been
+
+585
+00:32:26,310 --> 00:32:28,890
+studied for their potential
+to improve nitric oxide
+
+586
+00:32:28,890 --> 00:32:32,750
+availability and reduce
+reactive oxygen species.
+
+587
+00:32:33,270 --> 00:32:36,010
+We can clinically
+assess endothelial
+
+588
+00:32:36,010 --> 00:32:38,970
+function using brachial
+artery flow mediated
+
+589
+00:32:38,970 --> 00:32:41,770
+dilation. As we have
+discussed earlier,
+
+590
+00:32:41,770 --> 00:32:44,210
+nitric oxide is a key
+molecule produced by
+
+591
+00:32:44,210 --> 00:32:47,130
+healthy endothelial cells
+in response to stress.
+
+592
+00:32:47,310 --> 00:32:51,010
+In this test, we temporarily
+occlude blood flow,
+
+593
+00:32:51,010 --> 00:32:53,690
+then release it to
+create a surge in stress.
+
+594
+00:32:53,930 --> 00:32:57,650
+If the endothelium is
+functioning properly, it responds
+
+595
+00:32:57,650 --> 00:33:01,970
+by releasing nitric oxide,
+causing vasodilation. This
+
+596
+00:33:01,970 --> 00:33:04,370
+technique allows us to
+translate the molecular
+
+597
+00:33:04,370 --> 00:33:07,390
+mechanisms we see in the lab
+into a measurable clinical
+
+598
+00:33:07,390 --> 00:33:11,150
+outcome and could be used
+to detect early endothelial
+
+599
+00:33:11,150 --> 00:33:14,250
+dysfunction before conditions
+like hypertension develop.
+
+600
+00:33:16,750 --> 00:33:19,550
+Let's try another
+practice question. Please
+
+601
+00:33:19,550 --> 00:33:21,890
+take a moment to pause
+this video and answer
+
+602
+00:33:21,890 --> 00:33:24,670
+the question before we
+review the answer. The
+
+603
+00:33:29,450 --> 00:33:32,630
+correct answer is e increased
+production of reactive
+
+604
+00:33:32,630 --> 00:33:36,530
+oxygen species in this
+question the patient has
+
+605
+00:33:36,530 --> 00:33:40,250
+hypertension as seen by the
+elevated blood pressure poorly
+
+606
+00:33:40,250 --> 00:33:43,250
+controlled diabetes as
+seen by the high a1c and
+
+607
+00:33:43,250 --> 00:33:46,930
+flossing blood glucose levels
+and they also have a history
+
+608
+00:33:46,930 --> 00:33:50,190
+of coronary artery disease
+all conditions associated
+
+609
+00:33:50,190 --> 00:33:53,050
+with endothelial dysfunction
+in these conditions
+
+610
+00:33:53,050 --> 00:33:56,250
+endothelial cells produce
+more reactive oxygen species
+
+611
+00:33:56,250 --> 00:33:59,590
+which degrade nitric oxide
+promoting vasoconstriction
+
+612
+00:33:59,590 --> 00:34:02,630
+and increasing the risk
+of vascular complications.
+
+613
+00:34:04,850 --> 00:34:08,030
+We have one last
+practice question. Please
+
+614
+00:34:08,030 --> 00:34:10,250
+take a moment to pause
+this video and answer
+
+615
+00:34:10,250 --> 00:34:12,650
+the question before
+we review the answer.
+
+616
+00:34:15,190 --> 00:34:18,210
+The correct answer
+is C, decreased
+
+617
+00:34:18,210 --> 00:34:19,670
+nitric oxide availability.
+
+618
+00:34:19,770 --> 00:34:22,430
+This patient has hypertension,
+
+619
+00:34:22,610 --> 00:34:25,750
+type 2 diabetes, and
+impaired endothelial
+
+620
+00:34:25,750 --> 00:34:30,130
+function as indicated by
+the reduced flow mediate
+
+621
+00:34:30,130 --> 00:34:33,670
+dilation on vascular
+ultrasound and what we
+
+622
+00:34:33,670 --> 00:34:36,810
+know is that in these
+conditions there is reduced
+
+623
+00:34:36,810 --> 00:34:39,070
+nitric oxide availability
+which leads to the
+
+624
+00:34:39,070 --> 00:34:41,430
+vasocontraction and
+elevated blood pressure.
+
+625
+00:34:45,250 --> 00:34:48,410
+So here's a summary slide
+for you guys to review.
+
+626
+00:34:50,050 --> 00:34:52,810
+This is the end of this
+lecture. Thank you very
+
+627
+00:34:52,810 --> 00:34:55,990
+much. If you have any
+questions or concerns regarding
+
+628
+00:34:55,990 --> 00:34:58,110
+this lecture, please feel
+free to contact me or
+
+629
+00:34:58,110 --> 00:35:01,030
+Dr. Sepulveda at any
+time. I hope everyone is
+
+630
+00:35:01,030 --> 00:35:03,910
+doing well and best of luck
+on your upcoming exams.
+
+631
+00:35:06,230 --> 00:35:09,030
+If you all have some time,
+please take some time to
+
+632
+00:35:09,030 --> 00:35:11,250
+leave some lecture
+feedback. This is one of my
+
+633
+00:35:11,250 --> 00:35:13,910
+very first lectures and
+would appreciate any feedback
+
+634
+00:35:13,910 --> 00:35:16,130
+to improve this lecture
+for future your sessions.

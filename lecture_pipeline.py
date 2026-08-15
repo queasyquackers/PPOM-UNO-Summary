@@ -193,14 +193,17 @@ def run_git(repo, args, check=True):
 # getBlockInfo() (Summary) and config.js getTestSection() (Problems).
 
 # CPR Block 1 curriculum weeks, keyed by lecture number. The boundaries are
-# uneven (week 3 spans 11 lectures, the others 10), so they are listed rather
-# than computed. Derived at install time so a hand-written meta.json cannot
-# record the wrong week.
-CARDIO_WEEKS = ((1, 10, 1), (11, 20, 2), (21, 31, 3), (32, 41, 4))
+# uneven (week 3 spans 11 lectures, week 5 spans 13, the others 10), so they are
+# listed rather than computed. Derived at install time so a hand-written
+# meta.json cannot record the wrong week -- generators guess this badly (the
+# week-5 batch variously self-reported 1, 5 and 6).
+CARDIO_WEEKS = ((1, 10, 1), (11, 20, 2), (21, 31, 3), (32, 41, 4), (42, 54, 5))
+
+CARDIO_MAX = max(hi for _, hi, _ in CARDIO_WEEKS)
 
 
 def cardio_week(n):
-    """Curriculum week for cardio lecture n, or None if outside 1-41."""
+    """Curriculum week for cardio lecture n, or None if outside the mapped range."""
     for lo, hi, week in CARDIO_WEEKS:
         if lo <= n <= hi:
             return week
@@ -519,8 +522,9 @@ RULES -- `python scripts/check_diagrams.py` enforces these and the install fails
    If the lecture's numbers differ from the standard teaching, follow the lecture
    and say so in the caption. Never invent values.
 
-`E:\\PPOM-UNO-Summary\\lecture_diagrams.js` holds the shared stylesheet and a worked
-reference example ("cv7-filtration-forces") -- read it before writing your own."""
+`lecture_diagrams.js` (repo root, same folder as this pipeline) holds the shared
+stylesheet and a worked reference example ("cv7-filtration-forces") -- read it
+before writing your own."""
 
 
 def build_generate_instructions(n, title_hint, lecturer_hint, ids=None):
@@ -1101,7 +1105,10 @@ def cmd_install(args):
         # over whatever the generator guessed.
         derived = cardio_week(n)
         if derived is None:
-            die(f"cardio lecture {n} is outside the 1-41 week map.")
+            die(
+                f"cardio lecture {n} is outside the 1-{CARDIO_MAX} week map.\n"
+                f"     Add its range to CARDIO_WEEKS in lecture_pipeline.py."
+            )
         if derived != week:
             info(f"meta.json week {week} -> {derived} (CPR week map for lecture {n})")
         week = derived

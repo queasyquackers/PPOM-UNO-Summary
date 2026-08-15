@@ -1,0 +1,3657 @@
+1
+00:00:00,220 --> 00:00:02,070
+Welcome, students,
+to the Pharmacology
+
+2
+00:00:02,080 --> 00:00:05,480
+of Antihypertensive
+Agents. This is the
+
+3
+00:00:05,480 --> 00:00:09,540
+first part in a three
+-part video series.
+
+4
+00:00:10,040 --> 00:00:13,000
+We'll be talking about
+the renin-angiotensin
+
+5
+00:00:13,000 --> 00:00:16,360
+system antagonists,
+also known as the RAS
+
+6
+00:00:16,360 --> 00:00:20,000
+inhibitors, in this video.
+Dr. Goldstein speaking.
+
+7
+00:00:21,680 --> 00:00:23,780
+Please contact me if you'd like
+
+8
+00:00:23,780 --> 00:00:25,770
+to chat about pharmacology.
+
+9
+00:00:27,020 --> 00:00:30,280
+Here are the learning
+objectives. pharmacokinetics,
+
+10
+00:00:30,280 --> 00:00:33,140
+mechanisms,
+mechanisms, mechanisms,
+
+11
+00:00:33,140 --> 00:00:35,980
+mechanisms of action,
+mechanisms of adverse effects
+
+12
+00:00:35,980 --> 00:00:40,080
+and drug interactions,
+and contraindications.
+
+13
+00:00:40,840 --> 00:00:44,640
+And you should be able
+to select appropriate
+
+14
+00:00:44,640 --> 00:00:49,900
+antihypertensive agents,
+especially for initial
+
+15
+00:00:49,900 --> 00:00:54,380
+therapy, and you should
+be able to know how to
+
+16
+00:00:54,380 --> 00:00:57,460
+monitor the patient,
+at least superficially.
+
+17
+00:00:59,700 --> 00:01:03,460
+Here are the preparation
+materials. I highly recommend
+
+18
+00:01:03,460 --> 00:01:07,080
+the practice questions.
+In fact, they're required.
+
+19
+00:01:07,080 --> 00:01:10,400
+It's the only thing,
+for me, that's required.
+
+20
+00:01:10,900 --> 00:01:14,860
+I have offered you suggestions
+on ways to help you
+
+21
+00:01:14,860 --> 00:01:19,880
+learn, on references that
+you might find helpful,
+
+22
+00:01:19,880 --> 00:01:23,500
+especially if you prefer
+them to watching the video.
+
+23
+00:01:24,360 --> 00:01:27,420
+Of course, my notes
+handout, you don't have to
+
+24
+00:01:27,420 --> 00:01:30,260
+memorize, certainly,
+but it's there with full
+
+25
+00:01:30,260 --> 00:01:32,860
+explanations to help
+you understand things.
+
+26
+00:01:33,000 --> 00:01:36,930
+And you can do a
+search of the handout
+
+27
+00:01:36,930 --> 00:01:39,980
+to find the answers
+to the practice quiz.
+
+28
+00:01:41,700 --> 00:01:44,840
+Here are some more suggestions
+to help you master a
+
+29
+00:01:44,840 --> 00:01:48,800
+topic to help you learn
+rather than rote memorize.
+
+30
+00:01:52,060 --> 00:01:57,480
+And the next couple of
+slides is pointing out
+
+31
+00:01:57,480 --> 00:02:00,360
+what you really need
+to learn, how to focus
+
+32
+00:02:00,360 --> 00:02:03,300
+your learning so that
+it's more efficient.
+
+33
+00:02:07,260 --> 00:02:11,200
+Prerequisites of pharmacology
+learning, as with all
+
+34
+00:02:11,200 --> 00:02:13,560
+of pharmacology learning,
+is to understand the
+
+35
+00:02:13,560 --> 00:02:18,120
+mechanisms and effects of the
+therapeutic interventions.
+
+36
+00:02:18,400 --> 00:02:22,440
+And we do this by
+understanding the physiology.
+
+37
+00:02:22,840 --> 00:02:25,780
+You must know the
+physiology. First, the
+
+38
+00:02:25,780 --> 00:02:29,200
+pathophysiology in order
+to understand how these
+
+39
+00:02:29,200 --> 00:02:32,480
+drugs are working,
+what they're doing, and
+
+40
+00:02:32,480 --> 00:02:37,020
+why we are using them
+for specific treatments.
+
+41
+00:02:40,940 --> 00:02:43,980
+And I'm not going to
+read this slide to you.
+
+42
+00:02:43,980 --> 00:02:47,560
+I know you can do that
+very well on your own.
+
+43
+00:02:48,400 --> 00:02:52,340
+A little background
+about regulation of
+
+44
+00:02:52,340 --> 00:02:54,780
+blood pressure. All
+antihypertensive drugs
+
+45
+00:02:54,780 --> 00:02:57,620
+produce effects by
+interfering with normal
+
+46
+00:02:57,620 --> 00:03:00,080
+mechanisms of blood
+pressure regulation.
+
+47
+00:03:00,080 --> 00:03:03,040
+Hence, you need to
+understand the physiology.
+
+48
+00:03:04,200 --> 00:03:08,060
+Antihypertensive therapy
+can induce compensatory
+
+49
+00:03:08,060 --> 00:03:11,500
+responses to a drop
+in blood pressure,
+
+50
+00:03:11,500 --> 00:03:14,440
+increased sympathetic
+outflow, increased
+
+51
+00:03:14,440 --> 00:03:18,700
+renin secretion. A
+drop in blood pressure.
+
+52
+00:03:22,360 --> 00:03:27,020
+This figure shows very
+simply the relationships
+
+53
+00:03:27,020 --> 00:03:32,440
+between these components
+of blood pressure.
+
+54
+00:03:34,020 --> 00:03:37,280
+Antihypertensive agents
+work by reducing peripheral
+
+55
+00:03:37,280 --> 00:03:41,620
+resistance, cardiac
+output, and or volume.
+
+56
+00:03:42,280 --> 00:03:46,560
+The RAS inhibitors reduce
+peripheral vascular
+
+57
+00:03:46,560 --> 00:03:49,000
+resistance and
+potentially blood volume.
+
+58
+00:03:49,800 --> 00:03:54,040
+The RAS inhibitors work at
+the resistance arterioles
+
+59
+00:03:54,040 --> 00:03:57,860
+and the capacitance vessels,
+the venules actually.
+
+60
+00:03:58,460 --> 00:04:01,960
+Direct vasodilators
+reduce peripheral vascular
+
+61
+00:04:01,960 --> 00:04:04,840
+resistance. It makes sense
+because they're causing
+
+62
+00:04:04,840 --> 00:04:12,580
+vasodilation. And
+sympatholytics, which are also
+
+63
+00:04:12,580 --> 00:04:17,400
+called sympathoplegics,
+inhibit the cardiac
+
+64
+00:04:17,400 --> 00:04:22,380
+function and increase pooling
+incapacitance vessels.
+
+65
+00:04:24,360 --> 00:04:29,320
+Diuretics depletes body
+sodium, so natriuresis
+
+66
+00:04:29,320 --> 00:04:34,480
+and water diuresis, and
+reduce blood volume. They
+
+67
+00:04:34,830 --> 00:04:38,580
+possibly have other
+mechanisms of action as well.
+
+68
+00:04:41,800 --> 00:04:45,120
+Arterial pressure is
+determined by cardiac output
+
+69
+00:04:45,120 --> 00:04:48,100
+and peripheral resistance,
+the two together.
+
+70
+00:04:48,240 --> 00:04:50,600
+Cardiac output is determined by
+
+71
+00:04:50,600 --> 00:04:52,400
+stroke volume and heart rate.
+
+72
+00:04:52,540 --> 00:04:55,960
+Peripheral resistance is
+determined by vascular
+
+73
+00:04:55,960 --> 00:04:59,220
+structure and function.
+And we'll be talking about
+
+74
+00:04:59,220 --> 00:05:04,100
+effects of these drugs on
+the arterioles particularly.
+
+75
+00:05:08,240 --> 00:05:11,120
+Regulation of
+renin release. This
+
+76
+00:05:11,120 --> 00:05:14,900
+scheme shows the
+different ways that
+
+77
+00:05:14,900 --> 00:05:18,380
+renin gets stimulated
+to be secreted.
+
+78
+00:05:18,420 --> 00:05:22,380
+We see hypotension
+or hypovolemia
+
+79
+00:05:22,380 --> 00:05:24,260
+causing renal hypoperfusion.
+
+80
+00:05:24,500 --> 00:05:26,910
+And that's the key,
+the hypoperfusion.
+
+81
+00:05:28,800 --> 00:05:34,220
+and this type of
+perfusion is sensed by
+
+82
+00:05:34,220 --> 00:05:38,520
+baroreceptors in the wall
+of the affarin arterial
+
+83
+00:05:41,040 --> 00:05:46,360
+and that will stimulate
+renin release by cardiac
+
+84
+00:05:46,360 --> 00:05:50,520
+and arterial baroreceptors
+in circulating catecholamines
+
+85
+00:05:50,520 --> 00:05:57,400
+that stimulate sympathetic
+tone and stimulate
+
+86
+00:05:57,400 --> 00:06:00,940
+beta-1 receptors in the
+juxtaglomerular apparatus
+
+87
+00:06:00,940 --> 00:06:04,720
+of the kidney. And that
+enhances renin secretion.
+
+88
+00:06:04,860 --> 00:06:08,480
+And a reduction in
+the salt delivery
+
+89
+00:06:08,480 --> 00:06:10,840
+to the cells of
+the macula densa
+
+90
+00:06:13,060 --> 00:06:18,280
+also enhances renin
+secretion. And
+
+91
+00:06:18,280 --> 00:06:22,440
+renin release,
+renin is an enzyme,
+
+92
+00:06:22,600 --> 00:06:27,680
+it causes formation of
+angiotensin 1, which is
+
+93
+00:06:27,680 --> 00:06:33,500
+converted by angiotensin
+converting enzyme to angiotensin
+
+94
+00:06:33,500 --> 00:06:40,160
+2. And angiotensin 2
+will directly cause
+
+95
+00:06:40,160 --> 00:06:45,060
+vasoconstriction, stimulating
+blood pressure, stimulating
+
+96
+00:06:45,770 --> 00:06:50,040
+systemic blood pressure.
+And it will cause
+
+97
+00:06:50,040 --> 00:06:53,700
+aldosterone secretion, which
+causes renal and sodium
+
+98
+00:06:53,700 --> 00:07:00,880
+reabsorption and extracellular
+volume expansion.
+
+99
+00:07:09,240 --> 00:07:11,390
+Baroreflexes provide
+rapid moment-to
+
+100
+00:07:11,390 --> 00:07:13,110
+-moment adjustments
+in blood pressure.
+
+101
+00:07:13,550 --> 00:07:18,230
+And this scheme here
+illustrates the mechanisms.
+
+102
+00:07:19,270 --> 00:07:22,150
+First of all, central
+sympathetic neurons from the
+
+103
+00:07:22,150 --> 00:07:25,710
+vasomotor area of the
+medulla are tonically active.
+
+104
+00:07:26,090 --> 00:07:29,470
+Carotid baroreceptor
+stimulated by vessel wall
+
+105
+00:07:29,470 --> 00:07:33,490
+stretch inhibits central
+sympathetic discharge.
+
+106
+00:07:33,520 --> 00:07:39,230
+The wall stretch
+indicates a high pressure,
+
+107
+00:07:39,230 --> 00:07:43,850
+so central sympathetic
+discharge is inhibited.
+
+108
+00:07:44,530 --> 00:07:47,210
+Baroreceptors that
+sense reduction in
+
+109
+00:07:47,210 --> 00:07:49,810
+arterial pressure,
+reduced wall stretch,
+
+110
+00:07:50,050 --> 00:07:53,650
+disinhibit sympathetic
+discharge. And when
+
+111
+00:07:53,650 --> 00:07:56,850
+that happens, there is
+a reflex increase in
+
+112
+00:07:56,850 --> 00:08:00,250
+sympathetic outflow,
+which increases peripheral
+
+113
+00:08:00,250 --> 00:08:03,670
+vascular resistance,
+and cardiac output.
+
+114
+00:08:06,900 --> 00:08:09,430
+And the kidney provides
+long-term blood
+
+115
+00:08:09,430 --> 00:08:12,250
+pressure control by
+controlling blood volume.
+
+116
+00:08:15,620 --> 00:08:17,990
+Question for you, how
+does each of the following
+
+117
+00:08:17,990 --> 00:08:20,770
+systems contribute to
+blood pressure regulation?
+
+118
+00:08:20,890 --> 00:08:27,010
+I suggest you might want
+to turn off to pause
+
+119
+00:08:27,010 --> 00:08:29,970
+the video and think
+about these things. So
+
+120
+00:08:29,970 --> 00:08:33,110
+I'll give you that chance.
+Go ahead and pause.
+
+121
+00:08:35,010 --> 00:08:36,150
+Okay,
+
+122
+00:08:36,270 --> 00:08:38,370
+here are the answers.
+
+123
+00:08:39,550 --> 00:08:41,430
+And this is a review.
+
+124
+00:08:41,430 --> 00:08:44,380
+Physiologically, in both
+normal and hypertensive
+
+125
+00:08:44,380 --> 00:08:47,250
+individuals, blood pressure
+is maintained by moment-to
+
+126
+00:08:47,250 --> 00:08:50,850
+-moment regulation of cardiac
+output and peripheral
+
+127
+00:08:50,850 --> 00:08:55,410
+vascular resistance exerted
+at precapillary arterioles,
+
+128
+00:08:55,710 --> 00:08:58,750
+postcapillary venules,
+and the heart.
+
+129
+00:08:59,370 --> 00:09:02,410
+The kidney contributes to
+maintenance of blood pressure
+
+130
+00:09:02,410 --> 00:09:05,370
+by regulating the volume
+of intravascular fluid.
+
+131
+00:09:05,370 --> 00:09:09,510
+The body responds to acute
+changes in blood pressure
+
+132
+00:09:09,510 --> 00:09:12,910
+through the baroreceptors
+located within blood vessels
+
+133
+00:09:12,910 --> 00:09:17,610
+by inhibiting or disinhibiting
+sympathetic discharge.
+
+134
+00:09:17,790 --> 00:09:21,370
+Hormonal and volume
+-related factors contribute
+
+135
+00:09:21,370 --> 00:09:24,700
+to the long-term
+regulation of arterial
+
+136
+00:09:24,700 --> 00:09:27,430
+pressure and you might
+want to pause the video
+
+137
+00:09:27,430 --> 00:09:32,990
+to look at these answers
+since they've been
+
+138
+00:09:32,990 --> 00:09:37,630
+blocked off on your
+copy of the PowerPoint.
+
+139
+00:09:41,590 --> 00:09:44,610
+Treatment of hypertension
+goals, well lifestyle
+
+140
+00:09:44,610 --> 00:09:49,110
+modifications. First and
+foremost, drug therapy.
+
+141
+00:09:50,030 --> 00:09:53,090
+As with all pharmacotherapy,
+
+142
+00:09:53,190 --> 00:09:55,230
+it should be individualized.
+
+143
+00:09:55,910 --> 00:09:58,870
+Therapy for the
+individual patient.
+
+144
+00:09:58,870 --> 00:10:07,250
+Optimizing therapy for
+the individual patient.
+
+145
+00:10:10,330 --> 00:10:15,630
+I'm just putting up
+the 2017 ACC American
+
+146
+00:10:15,630 --> 00:10:19,670
+College of Cardiology
+and AHA high blood
+
+147
+00:10:19,670 --> 00:10:22,050
+pressure guidelines.
+There are others.
+
+148
+00:10:22,440 --> 00:10:24,630
+We'll just look
+at these for now.
+
+149
+00:10:24,850 --> 00:10:26,930
+So normal is considered
+less than 120
+
+150
+00:10:26,930 --> 00:10:30,090
+over 80 millimeters of
+mercury. Elevated is
+
+151
+00:10:30,090 --> 00:10:34,050
+120 to 129 and
+diastolic less than 80.
+
+152
+00:10:34,890 --> 00:10:40,410
+Stage 1 is considered
+130 to 139 or
+
+153
+00:10:40,410 --> 00:10:44,270
+diastolic 80 to 89
+millimeters of mercury.
+
+154
+00:10:44,590 --> 00:10:49,670
+Stage 2 is considered
+systolic at least 140 or
+
+155
+00:10:49,670 --> 00:10:52,910
+diastolic at least 90
+millimeters of mercury.
+
+156
+00:10:53,030 --> 00:10:57,790
+And we have hypertensive
+crisis indicated here.
+
+157
+00:10:58,510 --> 00:11:01,010
+I'm not going to
+be talking about
+
+158
+00:11:01,010 --> 00:11:03,390
+hypertensive crisis
+in this lecture.
+
+159
+00:11:07,770 --> 00:11:10,850
+Screening for
+cardiovascular disease
+
+160
+00:11:10,850 --> 00:11:13,230
+risk factors in adults
+with hypertension
+
+161
+00:11:14,310 --> 00:11:18,070
+because smoking increases
+the risk. Excessive
+
+162
+00:11:18,070 --> 00:11:21,310
+weight, diabetes, dyslipidemia,
+low fitness, unhealthy
+
+163
+00:11:21,310 --> 00:11:25,230
+diet psychosocial stress
+sleep apnea are all risk
+
+164
+00:11:25,230 --> 00:11:29,290
+factors for cardiovascular
+disease and a hypertension
+
+165
+00:11:29,290 --> 00:11:35,250
+evaluation for target
+organ damage established
+
+166
+00:11:35,250 --> 00:11:37,870
+cardiovascular or renal
+disease cardiovascular
+
+167
+00:11:37,870 --> 00:11:41,690
+risk factors lifestyle
+contributors and of course
+
+168
+00:11:41,690 --> 00:11:45,670
+drugs certain drugs can
+cause elevations in blood
+
+169
+00:11:45,670 --> 00:11:48,650
+pressure and I've listed
+out a few of them here.
+
+170
+00:11:48,910 --> 00:11:52,730
+Sympathomimetics
+makes sense NSAIDs
+
+171
+00:11:52,730 --> 00:11:55,790
+cause reabsorption
+of sodium in water.
+
+172
+00:11:56,050 --> 00:12:00,230
+Drugs containing sodium
+so many antibiotics
+
+173
+00:12:01,110 --> 00:12:06,610
+in intravenous form
+are in sodium salts and
+
+174
+00:12:06,610 --> 00:12:09,450
+they're given frequently
+many times a day and
+
+175
+00:12:09,450 --> 00:12:12,690
+And the sodium levels
+can go up in the patient.
+
+176
+00:12:12,950 --> 00:12:16,170
+Erythropoietin increases
+the viscosity of the blood.
+
+177
+00:12:16,490 --> 00:12:21,450
+Angiogenesis inhibitors
+also increase the risk.
+
+178
+00:12:25,690 --> 00:12:29,150
+Integrating osteopathic
+principles and practice and
+
+179
+00:12:29,150 --> 00:12:32,860
+OMT in patient care. And this
+includes pharmacotherapy.
+
+180
+00:12:33,050 --> 00:12:36,090
+So here is a question. I
+
+181
+00:12:36,090 --> 00:12:39,280
+invite you to pause your video.
+
+182
+00:12:40,110 --> 00:12:42,990
+A 42-year-old person presents
+
+183
+00:12:42,990 --> 00:12:44,710
+with new-onset hypertension.
+
+184
+00:12:44,730 --> 00:12:48,740
+What areas might you
+examine for viscerosomatic
+
+185
+00:12:48,740 --> 00:12:51,650
+reflexes to help you decide
+if this patient's issue
+
+186
+00:12:51,650 --> 00:12:56,670
+is primary hypertension
+or secondary hypertension?
+
+187
+00:12:58,950 --> 00:13:02,690
+And I thank the
+NYITCOM OMM faculty
+
+188
+00:13:02,690 --> 00:13:04,430
+for helping me out with this.
+
+189
+00:13:07,250 --> 00:13:11,830
+The answer is
+Chapman reflexes or
+
+190
+00:13:11,830 --> 00:13:15,790
+viscerosomatic reflexes
+to adrenals and kidneys.
+
+191
+00:13:20,300 --> 00:13:23,490
+So let's delve into
+the pharmacology now.
+
+192
+00:13:25,740 --> 00:13:28,650
+Here's a list of the
+agents that we're
+
+193
+00:13:28,650 --> 00:13:30,870
+going to be covering
+in the three lectures.
+
+194
+00:13:30,870 --> 00:13:34,190
+So part one is the
+ACE inhibitors,
+
+195
+00:13:34,510 --> 00:13:37,050
+angiotensin receptor blockers,
+
+196
+00:13:37,050 --> 00:13:39,610
+and the direct
+renin inhibitors.
+
+197
+00:13:43,230 --> 00:13:46,290
+The preferred
+initial therapy, and
+
+198
+00:13:46,290 --> 00:13:48,190
+this comes from the guidelines,
+
+199
+00:13:48,530 --> 00:13:54,950
+are the angiotensin
+converting enzyme inhibitors,
+
+200
+00:13:55,130 --> 00:13:58,270
+angiotensin 2, AT1
+receptor blockers,
+
+201
+00:13:58,270 --> 00:14:00,750
+calcium channel blockers,
+the long-acting,
+
+202
+00:14:00,750 --> 00:14:04,950
+thiazide type or
+thiazide-like diuretics.
+
+203
+00:14:04,950 --> 00:14:08,270
+And other options, should a
+
+204
+00:14:08,270 --> 00:14:11,690
+patient need additional therapy
+
+205
+00:14:12,230 --> 00:14:16,390
+in order to reduce the
+blood pressure, to achieve
+
+206
+00:14:16,390 --> 00:14:19,570
+the blood pressure
+goals, are beta blockers,
+
+207
+00:14:19,970 --> 00:14:24,210
+beta adrenergic receptor
+blockers, alpha-adrenergic
+
+208
+00:14:24,210 --> 00:14:28,670
+receptor blockers, alpha
+-2 agonists, vasodilators,
+
+209
+00:14:28,670 --> 00:14:32,970
+and direct renin
+inhibitor. So please notice
+
+210
+00:14:32,970 --> 00:14:36,950
+that the ACE inhibitors
+and ARBs are preferred.
+
+211
+00:14:36,950 --> 00:14:40,150
+The direct renin inhibitor
+is not preferred.
+
+212
+00:14:46,200 --> 00:14:48,400
+This is guideline information.
+
+213
+00:14:48,400 --> 00:14:51,420
+The attained blood pressure
+is the major outcome
+
+214
+00:14:51,420 --> 00:14:55,000
+determinant of reduction
+of cardiovascular risk.
+
+215
+00:14:55,000 --> 00:14:58,380
+That's the whole point of
+doing this. It's not the
+
+216
+00:14:58,380 --> 00:15:02,780
+choice of drug. Therapy
+should be patient-specific.
+
+217
+00:15:02,780 --> 00:15:07,820
+But the guidelines are
+very helpful in providing
+
+218
+00:15:07,820 --> 00:15:11,580
+information on the
+preferred agents. And
+
+219
+00:15:11,580 --> 00:15:16,840
+this is related to the
+outcome, determinants
+
+220
+00:15:16,840 --> 00:15:20,780
+and reduction of
+cardiovascular risk, The
+
+221
+00:15:22,490 --> 00:15:28,440
+ease of taking them,
+long-acting, for example,
+
+222
+00:15:28,560 --> 00:15:35,120
+and two drug pills
+or three drug single
+
+223
+00:15:35,120 --> 00:15:41,240
+pills taken once daily
+are certainly better
+
+224
+00:15:41,240 --> 00:15:44,580
+for improved adherence
+to the therapy.
+
+225
+00:15:44,980 --> 00:15:47,980
+And, of course, we have to
+remember the side effects.
+
+226
+00:15:47,980 --> 00:15:52,900
+So drugs that have a
+favorable side effect profile.
+
+227
+00:15:53,940 --> 00:15:55,620
+So efficacy,
+
+228
+00:15:55,900 --> 00:16:00,160
+favorable side effect
+profile, and ease of use.
+
+229
+00:16:02,280 --> 00:16:05,560
+Monotherapy recommendations for
+
+230
+00:16:05,560 --> 00:16:07,520
+people with stage
+1 hypertension.
+
+231
+00:16:07,540 --> 00:16:10,800
+An ACE inhibitor, an
+ARB, or a calcium channel
+
+232
+00:16:10,800 --> 00:16:15,200
+blocker. And if the
+patient will benefit from
+
+233
+00:16:15,200 --> 00:16:19,460
+diuresis, then a thiazide
+or thiazide-like diuretic,
+
+234
+00:16:19,460 --> 00:16:23,420
+so patients with edema,
+possibly osteoporosis,
+
+235
+00:16:23,520 --> 00:16:26,880
+possibly patients with
+calcium nephrolithiasis.
+
+236
+00:16:27,360 --> 00:16:32,440
+Now, most patients are going to
+
+237
+00:16:32,560 --> 00:16:37,480
+require two-drug
+therapy to begin with.
+
+238
+00:16:39,320 --> 00:16:42,900
+and we see combination
+therapy used in these
+
+239
+00:16:42,900 --> 00:16:45,860
+categories and this
+these differ by expert
+
+240
+00:16:45,860 --> 00:16:48,680
+but they're pretty
+much the same point
+
+241
+00:16:48,680 --> 00:16:52,080
+which is to reduce the
+cardiovascular risk
+
+242
+00:16:52,940 --> 00:16:58,340
+recommendations are either
+an ACE or an ARB never both
+
+243
+00:16:58,420 --> 00:17:01,860
+plus a calcium channel
+blocker and this is related
+
+244
+00:17:01,860 --> 00:17:05,720
+to findings in the ACCOMPLISH
+trial that showed this
+
+245
+00:17:05,720 --> 00:17:11,440
+combination was more
+efficacious than the ACE or ARB
+
+246
+00:17:11,440 --> 00:17:14,920
+combination with a thiazide
+or thiazide-like diuretic.
+
+247
+00:17:14,920 --> 00:17:21,000
+But still, that said, the
+combination including a
+
+248
+00:17:21,000 --> 00:17:26,920
+thiazide is certainly efficacious
+in reducing cardiovascular
+
+249
+00:17:26,920 --> 00:17:30,600
+risk. And another option
+is a calcium channel
+
+250
+00:17:30,600 --> 00:17:34,080
+blocker with a thiazide or
+a thiazide-like diuretic.
+
+251
+00:17:37,240 --> 00:17:40,680
+So now the RAS inhibitors.
+Angiotensin-converting
+
+252
+00:17:40,680 --> 00:17:44,640
+enzyme inhibitors and ARBs
+we'll be looking at together.
+
+253
+00:17:45,800 --> 00:17:50,600
+Just a quick review of
+where they're acting.
+
+254
+00:17:51,000 --> 00:17:55,320
+The angiotensin-converting
+enzyme inhibitors act at
+
+255
+00:17:55,320 --> 00:18:01,440
+this point. inhibiting
+conversion to angiotensin 2.
+
+256
+00:18:01,440 --> 00:18:06,960
+They also inhibit the
+conversion of bradykinin. Not on
+
+257
+00:18:06,960 --> 00:18:11,400
+here is they inhibit the
+conversion of substance P.
+
+258
+00:18:12,640 --> 00:18:14,920
+I should say they inhibit the
+
+259
+00:18:14,920 --> 00:18:17,360
+activation of these peptides.
+
+260
+00:18:17,460 --> 00:18:21,900
+And these are vasodilating
+peptides. So ACE inhibitors
+
+261
+00:18:21,900 --> 00:18:27,300
+increase levels of
+bradykinin and substance P.
+
+262
+00:18:27,530 --> 00:18:29,800
+Now our angiotensin receptor
+
+263
+00:18:29,800 --> 00:18:34,700
+blockers act at this point.
+
+264
+00:18:34,700 --> 00:18:38,720
+So further downstream,
+angiotensin 2 is
+
+265
+00:18:38,720 --> 00:18:44,500
+formed, but the block is
+here. Now you'll notice
+
+266
+00:18:44,500 --> 00:18:48,960
+that these drugs, ARBs,
+do not block here.
+
+267
+00:18:52,400 --> 00:18:55,520
+So, by blocking the
+AT1 receptor, among
+
+268
+00:18:55,520 --> 00:18:59,500
+other functions, it
+inhibits the release
+
+269
+00:18:59,500 --> 00:19:03,820
+of angiotensin 2
+-induced aldosterone.
+
+270
+00:19:09,220 --> 00:19:15,020
+Angiotensin 2 has
+so, so many effects.
+
+271
+00:19:15,500 --> 00:19:18,920
+Effects on peripheral
+resistance, causing an
+
+272
+00:19:18,920 --> 00:19:22,340
+acute pressor response.
+effects on renal
+
+273
+00:19:22,340 --> 00:19:25,900
+function, causing a
+delayed pressor response,
+
+274
+00:19:25,900 --> 00:19:29,040
+and cardiovascular
+structure, cardiovascular,
+
+275
+00:19:29,220 --> 00:19:32,600
+cardiac, and
+vascular remodeling.
+
+276
+00:19:33,000 --> 00:19:38,380
+This figure sets out all
+of the different effects
+
+277
+00:19:38,380 --> 00:19:43,540
+that angiotensin 2 has, and
+therefore, these are the
+
+278
+00:19:43,540 --> 00:19:47,360
+effects that are going to
+be blocked when we prevent
+
+279
+00:19:47,360 --> 00:19:51,040
+the actions of angiotensin
+2 either by preventing
+
+280
+00:19:51,040 --> 00:19:58,640
+its synthesis or by
+blocking its action at AT1.
+
+281
+00:19:58,900 --> 00:20:04,660
+I invite you to give
+this scheme a good look.
+
+282
+00:20:04,660 --> 00:20:07,920
+It will really help you
+understand the effects
+
+283
+00:20:07,920 --> 00:20:11,820
+of angiotensin 2 and
+the blocking effects.
+
+284
+00:20:13,640 --> 00:20:17,300
+as it's stated in this figure
+
+285
+00:20:17,300 --> 00:20:21,940
+from Goodman and Gilman,
+
+286
+00:20:22,140 --> 00:20:25,380
+major physiologic effects
+of angiotensin II.
+
+287
+00:20:25,380 --> 00:20:28,070
+Angiotensin II exerts
+physiologic and
+
+288
+00:20:28,070 --> 00:20:30,060
+pathologic effects
+on both the renal and
+
+289
+00:20:30,060 --> 00:20:33,780
+cardiovascular systems,
+providing a rationale for
+
+290
+00:20:33,780 --> 00:20:37,980
+the therapeutic benefits
+of RAS inhibition.
+
+291
+00:20:38,340 --> 00:20:39,160
+And
+
+292
+00:20:44,750 --> 00:20:49,590
+this scheme, it shows you
+by looking at the various
+
+293
+00:20:49,590 --> 00:20:53,670
+organs, what's going on,
+hopefully it'll help you.
+
+294
+00:20:53,690 --> 00:20:57,290
+I recommend that without
+looking, after you've
+
+295
+00:20:57,290 --> 00:21:01,650
+given it some study, you
+draw out your own schemes.
+
+296
+00:21:05,390 --> 00:21:07,470
+Now the receptors,
+
+297
+00:21:07,790 --> 00:21:11,610
+AT1 and AT2 receptors.
+AT1 receptors are the
+
+298
+00:21:11,610 --> 00:21:16,090
+GQ type of protein
+-coupled receptors. So they
+
+299
+00:21:16,090 --> 00:21:19,430
+increase cytosolic
+calcium, stimulate PKC.
+
+300
+00:21:19,430 --> 00:21:22,370
+This causes
+vasoconstriction. It's
+
+301
+00:21:22,370 --> 00:21:24,790
+responsible for the
+hypertrophy that's seen,
+
+302
+00:21:24,790 --> 00:21:27,350
+fibrosis, inflammation,
+nephropathy.
+
+303
+00:21:27,690 --> 00:21:31,750
+This is not the only type
+of AT1 receptors, as we
+
+304
+00:21:31,750 --> 00:21:36,130
+can imagine, because
+angiotensin 2 just has so many
+
+305
+00:21:36,130 --> 00:21:41,350
+different actions. There
+are other GPCR types, and
+
+306
+00:21:41,350 --> 00:21:46,150
+the AT1 receptors are
+subject to down-regulation.
+
+307
+00:21:46,670 --> 00:21:50,230
+So this is that regulatory
+mechanism we talked
+
+308
+00:21:50,230 --> 00:21:54,750
+about in the Foundations
+course in pharmacodynamics.
+
+309
+00:21:55,570 --> 00:22:01,330
+AT2 receptors are
+the GI PCR types.
+
+310
+00:22:02,790 --> 00:22:06,270
+they cause vasodilation,
+natrioresis, and
+
+311
+00:22:06,270 --> 00:22:08,570
+they antagonize gross
+effects. So you can
+
+312
+00:22:08,570 --> 00:22:11,970
+see that it's
+essentially the opposite.
+
+313
+00:22:13,020 --> 00:22:14,950
+Of course, that's
+not all there is to
+
+314
+00:22:14,950 --> 00:22:17,570
+the story. There are
+non-g-protein coupled
+
+315
+00:22:17,570 --> 00:22:20,370
+receptor pathways
+that are involved,
+
+316
+00:22:20,670 --> 00:22:24,450
+and other types of
+receptors are involved in
+
+317
+00:22:25,390 --> 00:22:28,830
+mediating the effects of
+other types of angiotensin.
+
+318
+00:22:30,930 --> 00:22:33,810
+So ARBs block here,
+
+319
+00:22:35,170 --> 00:22:39,100
+ACE inhibitors
+block here, because
+
+320
+00:22:43,010 --> 00:22:44,910
+angiotensin II is
+not synthesized.
+
+321
+00:22:47,530 --> 00:22:52,290
+This scheme just shows
+where the various drugs
+
+322
+00:22:52,290 --> 00:22:57,470
+interfere with the renin
+-angiotensin-aldosterone
+
+323
+00:22:57,470 --> 00:23:00,670
+system. We have our
+direct renin inhibitor.
+
+324
+00:23:01,170 --> 00:23:03,410
+We have our ACE inhibitors.
+
+325
+00:23:03,410 --> 00:23:05,370
+We have our ARBs.
+
+326
+00:23:08,550 --> 00:23:10,930
+And let's not forget our
+
+327
+00:23:10,930 --> 00:23:13,970
+mineralocorticoid
+receptor antagonists.
+
+328
+00:23:14,110 --> 00:23:17,330
+Those were covered in
+the diuretic selector.
+
+329
+00:23:18,190 --> 00:23:19,770
+So these are the ones we're
+
+330
+00:23:19,770 --> 00:23:20,610
+going to be talking about.
+
+331
+00:23:25,470 --> 00:23:29,320
+Here are all of the
+drugs in the two classes.
+
+332
+00:23:29,320 --> 00:23:32,360
+As you can see, there
+are only three stars.
+
+333
+00:23:32,690 --> 00:23:37,030
+Captopril is the prototype
+of the ACE inhibitors.
+
+334
+00:23:37,030 --> 00:23:39,770
+Losartan is the prototype
+of the angiotensin receptor
+
+335
+00:23:39,770 --> 00:23:44,170
+blockers. I've also included
+enalapril because there's
+
+336
+00:23:44,170 --> 00:23:47,390
+another feature I'll show
+you on the next slide.
+
+337
+00:23:47,910 --> 00:23:52,210
+Most ACE inhibitors are
+small ester-containing
+
+338
+00:23:52,210 --> 00:23:57,990
+peptide prodrugs, hydrolyzed
+by hepatic esterases
+
+339
+00:23:57,990 --> 00:24:02,610
+or intestinal esterases
+to the active molecule.
+
+340
+00:24:03,090 --> 00:24:07,350
+There are two that are
+active as the parent drug,
+
+341
+00:24:13,670 --> 00:24:19,590
+but all of the rest are
+pro-drugs converted to
+
+342
+00:24:19,590 --> 00:24:23,650
+a much more potent
+form, a much more potent
+
+343
+00:24:23,650 --> 00:24:27,730
+metabolite. And you see
+that they all end in AT.
+
+344
+00:24:29,010 --> 00:24:32,050
+Enalaprilate, vicinaprilate,
+benazaprilate,
+
+345
+00:24:33,020 --> 00:24:35,250
+moexaprilate, etc.
+on down the line.
+
+346
+00:24:35,300 --> 00:24:38,210
+The active metabolites are
+much more potent than the
+
+347
+00:24:38,210 --> 00:24:41,310
+ACE inhibitors, as I said,
+than the parent compounds,
+
+348
+00:24:41,610 --> 00:24:45,310
+but the active molecules
+have really poor
+
+349
+00:24:46,330 --> 00:24:50,230
+bioavailability, which is
+why the pro-drugs are given.
+
+350
+00:24:50,390 --> 00:24:53,230
+The angiotensin receptor
+blockers, on the other
+
+351
+00:24:53,230 --> 00:24:56,090
+hand, are just small
+molecule non-peptide drugs.
+
+352
+00:24:59,710 --> 00:25:04,050
+General class pharmacokinetic
+properties. This is
+
+353
+00:25:04,050 --> 00:25:09,590
+really enough for you to
+be learning at this moment
+
+354
+00:25:09,590 --> 00:25:14,230
+because when you're going
+to be looking at the
+
+355
+00:25:14,230 --> 00:25:17,430
+individual drugs for your
+individual patient, you might
+
+356
+00:25:17,430 --> 00:25:20,210
+want to look up the
+pharmacokinetics to get an idea
+
+357
+00:25:20,210 --> 00:25:25,550
+about them. But in general,
+they're all oral, ACEs
+
+358
+00:25:25,550 --> 00:25:28,810
+and ARBs, with one exception
+at the current time.
+
+359
+00:25:29,770 --> 00:25:34,210
+Enalaprilate is available
+in an intravenous form.
+
+360
+00:25:34,210 --> 00:25:38,510
+So that's one reason why
+I put enalaprilate here.
+
+361
+00:25:38,510 --> 00:25:43,570
+The other reason is that
+captopril has to be given
+
+362
+00:25:43,570 --> 00:25:47,470
+two to three times a day.
+and we know we would really
+
+363
+00:25:47,470 --> 00:25:52,690
+rather use long-acting
+drugs especially if they
+
+364
+00:25:52,690 --> 00:25:58,050
+can be two drugs in a single
+pill so all of the others
+
+365
+00:25:58,050 --> 00:26:02,510
+may be given once daily
+for hypertension management
+
+366
+00:26:02,520 --> 00:26:06,870
+of the ACE inhibitors
+and the ARBs all of them
+
+367
+00:26:06,870 --> 00:26:09,810
+can be given once daily
+for hypertension management
+
+368
+00:26:11,140 --> 00:26:17,130
+uh what else do i want to
+point out um really not
+
+369
+00:26:17,130 --> 00:26:22,630
+much very varying systemic
+sorry varying serum half
+
+370
+00:26:22,630 --> 00:26:28,170
+-lives uh we need to remember
+with most of them the
+
+371
+00:26:28,170 --> 00:26:31,680
+half-life will be longer
+in the elderly patient of
+
+372
+00:26:32,290 --> 00:26:36,150
+some urinary excretion
+some out only through the
+
+373
+00:26:36,150 --> 00:26:39,810
+feces some require dosage
+adjustments, some don't.
+
+374
+00:26:42,170 --> 00:26:47,510
+Some go out through
+the kidney as is,
+
+375
+00:26:47,510 --> 00:26:50,140
+not changed. Some are
+further metabolized,
+
+376
+00:26:50,240 --> 00:26:54,250
+moderate to extensive
+protein binding,
+
+377
+00:26:54,430 --> 00:26:55,110
+etc.
+
+378
+00:26:57,780 --> 00:27:00,050
+So the big takeaways ways,
+
+379
+00:27:00,190 --> 00:27:01,170
+I would say,
+
+380
+00:27:01,570 --> 00:27:02,870
+is they're oral,
+
+381
+00:27:04,640 --> 00:27:08,170
+enalaprilate is
+intravenous, ARBs don't have
+
+382
+00:27:08,170 --> 00:27:12,110
+intravenous drugs,
+captopril needs to be taken
+
+383
+00:27:12,110 --> 00:27:15,030
+two to three times a
+day, and also on an empty
+
+384
+00:27:15,030 --> 00:27:17,870
+stomach, which I'm not
+asking you to remember.
+
+385
+00:27:18,910 --> 00:27:21,390
+All of the rest
+can be taken once
+
+386
+00:27:21,390 --> 00:27:23,310
+a day for hypertension
+management.
+
+387
+00:27:29,630 --> 00:27:32,070
+ACE inhibitors are
+competitive inhibitors of
+
+388
+00:27:32,070 --> 00:27:34,510
+angiotensin-converting
+enzyme. They inhibit the
+
+389
+00:27:34,510 --> 00:27:38,730
+conversion of angiotensin 1
+to 2. They reduce angiotensin
+
+390
+00:27:38,730 --> 00:27:41,890
+2 effects at both
+AT1 and AT2 receptors
+
+391
+00:27:41,890 --> 00:27:45,890
+naturally because the
+angiotensin 2 levels are down.
+
+392
+00:27:45,970 --> 00:27:49,530
+They do inhibit the degradation
+
+393
+00:27:49,530 --> 00:27:51,810
+of bradykinin and substance P.
+
+394
+00:27:52,040 --> 00:27:54,180
+Both of these are vasodilators.
+
+395
+00:27:54,830 --> 00:27:58,330
+Bradykinin is a vasodilating
+peptide. Substance
+
+396
+00:27:58,330 --> 00:28:02,010
+P is a neuropeptide
+and a neurotransmitter.
+
+397
+00:28:03,170 --> 00:28:07,090
+ARBs are competitive
+antagonists of angiotensin
+
+398
+00:28:07,090 --> 00:28:10,750
+2 AT1 receptors with
+very high affinity
+
+399
+00:28:10,750 --> 00:28:15,010
+binding they permit
+activation of AT2 receptors
+
+400
+00:28:15,010 --> 00:28:20,210
+because they don't bind
+to them and by inhibiting
+
+401
+00:28:20,210 --> 00:28:25,710
+AT1 receptor activity
+they in turn stimulate
+
+402
+00:28:25,710 --> 00:28:28,510
+renin release which
+increases circulating
+
+403
+00:28:29,050 --> 00:28:33,030
+angiotensin 2 levels, but
+ARBs block the angiotensin
+
+404
+00:28:33,030 --> 00:28:37,130
+2 effects at AT1 receptors,
+but not at AT2 receptors.
+
+405
+00:28:42,420 --> 00:28:45,540
+Let's take a look at the
+effects, and this is of
+
+406
+00:28:45,540 --> 00:28:49,540
+both the ACE inhibitors
+and the ARBs. They decrease
+
+407
+00:28:49,540 --> 00:28:54,100
+arterial and venous pressure
+and peripheral vascular
+
+408
+00:28:54,100 --> 00:28:57,080
+resistance, which reduces
+preload and afterload.
+
+409
+00:28:57,600 --> 00:29:00,720
+The heart rate and
+cardiac output really
+
+410
+00:29:00,720 --> 00:29:04,000
+change very little
+despite the decrease
+
+411
+00:29:04,000 --> 00:29:05,980
+in peripheral
+vascular resistance.
+
+412
+00:29:05,980 --> 00:29:12,500
+And it is thought that the
+reason is a resetting of
+
+413
+00:29:12,500 --> 00:29:16,080
+the baroreceptor reflex to
+a lower arterial pressure.
+
+414
+00:29:16,080 --> 00:29:23,000
+Angiotensin 2 does affect
+the baroreceptor reflex
+
+415
+00:29:23,000 --> 00:29:27,060
+and we are inhibiting
+that angiotensin 2 effect.
+
+416
+00:29:27,340 --> 00:29:32,300
+They increase natrioresis
+by increasing renal blood
+
+417
+00:29:32,300 --> 00:29:38,440
+flow and they also reduce
+aldosterone secretion and
+
+418
+00:29:38,440 --> 00:29:42,400
+vasopressin secretion,
+antidiuretic hormone secretion.
+
+419
+00:29:42,700 --> 00:29:46,840
+They decrease resistance
+in the efferent glomerular
+
+420
+00:29:46,840 --> 00:29:51,400
+arteriole, which decreases
+glomerular capillary pressure,
+
+421
+00:29:51,400 --> 00:29:55,500
+and decreases proteinuria.
+And there you have the
+
+422
+00:29:55,500 --> 00:30:00,820
+rationale for their use
+in chronic kidney disease.
+
+423
+00:30:01,180 --> 00:30:04,240
+And they prevent remodeling of
+
+424
+00:30:04,240 --> 00:30:07,320
+smooth muscle and
+cardiac myocytes.
+
+425
+00:30:09,440 --> 00:30:15,220
+Now, the ARBs were
+developed thinking that they
+
+426
+00:30:15,220 --> 00:30:18,040
+would be more effective
+than the ACE inhibitors
+
+427
+00:30:18,040 --> 00:30:20,120
+because they're
+acting directly on AT1
+
+428
+00:30:20,120 --> 00:30:22,920
+receptors, but they're not
+inhibiting AT2 receptors.
+
+429
+00:30:22,920 --> 00:30:26,000
+Well, it turns out they
+all seem to provide
+
+430
+00:30:26,000 --> 00:30:28,740
+similar benefits in
+patients with hypertension,
+
+431
+00:30:28,740 --> 00:30:31,600
+heart failure, and
+chronic kidney disease.
+
+432
+00:30:33,080 --> 00:30:38,400
+so they're really used more
+or less interchangeably
+
+433
+00:30:38,400 --> 00:30:41,120
+at this point all of
+the ACE inhibitors have
+
+434
+00:30:41,120 --> 00:30:45,220
+similar efficacy to each
+other and the ARBs have
+
+435
+00:30:45,220 --> 00:30:49,540
+efficacy comparable to the
+ACE inhibitors efficacy
+
+436
+00:30:49,540 --> 00:30:53,760
+of all of these drugs is
+enhanced by concomitant
+
+437
+00:30:53,760 --> 00:30:59,280
+diuretic therapy and reduced
+dietary sodium intake
+
+438
+00:31:04,330 --> 00:31:05,690
+hypertension Hypotension,
+
+439
+00:31:06,650 --> 00:31:10,690
+the ACE and ARBs are
+included in the guidelines as
+
+440
+00:31:10,690 --> 00:31:15,570
+preferred initial therapy
+option. They can be used alone
+
+441
+00:31:15,570 --> 00:31:19,390
+or in combination with other
+antihypertensive agents.
+
+442
+00:31:19,510 --> 00:31:20,930
+Start low,
+
+443
+00:31:21,130 --> 00:31:23,330
+start low,
+
+444
+00:31:23,450 --> 00:31:27,650
+because they can
+cause hypotension.
+
+445
+00:31:29,510 --> 00:31:33,630
+And this is especially
+predominant with the first dose
+
+446
+00:31:33,630 --> 00:31:37,410
+or the first few doses.
+So there is this potential
+
+447
+00:31:37,410 --> 00:31:40,690
+for a large initial drop in
+blood pressure, especially
+
+448
+00:31:40,690 --> 00:31:46,270
+if the patient has an active
+renin-angiotensin-aldosterone
+
+449
+00:31:46,270 --> 00:31:50,370
+system, as in patients
+with volume contraction,
+
+450
+00:31:50,510 --> 00:31:52,070
+hypovolemia,
+
+451
+00:31:52,430 --> 00:31:57,110
+congestive heart failure,
+and other situations in
+
+452
+00:31:57,110 --> 00:32:00,650
+which the renin-angiotensin
+-aldosterone system is
+
+453
+00:32:00,650 --> 00:32:03,930
+supporting the patient's
+blood pressure. So we're
+
+454
+00:32:03,930 --> 00:32:09,250
+blocking a renin-angiotensin
+system with these drugs,
+
+455
+00:32:09,250 --> 00:32:12,730
+and boom, that blood
+pressure can take a nosedive.
+
+456
+00:32:15,030 --> 00:32:17,270
+Lower blood pressure
+to some extent
+
+457
+00:32:17,270 --> 00:32:19,070
+in most patients
+with hypertension.
+
+458
+00:32:19,550 --> 00:32:22,270
+Most patients with
+hypertension are going
+
+459
+00:32:22,270 --> 00:32:25,150
+to end up on combination
+therapy, whether
+
+460
+00:32:25,150 --> 00:32:27,450
+it's two drugs or
+three drugs or more.
+
+461
+00:32:27,770 --> 00:32:30,830
+The full effect
+occurs after several
+
+462
+00:32:30,830 --> 00:32:32,670
+weeks, and this is
+true with nearly
+
+463
+00:32:32,670 --> 00:32:35,130
+all of the
+antihypertensive agents.
+
+464
+00:32:35,690 --> 00:32:38,170
+There is also seen
+left ventricular
+
+465
+00:32:38,170 --> 00:32:41,470
+hypertrophy regression
+with the ACE inhibitors
+
+466
+00:32:41,470 --> 00:32:43,530
+and ARBs and some
+of the other drugs.
+
+467
+00:32:46,990 --> 00:32:50,940
+But this is not all
+they're used for. Post
+
+468
+00:32:51,170 --> 00:32:53,990
+-myocardial infarction,
+there have been beneficial
+
+469
+00:32:53,990 --> 00:32:57,730
+effects on mortality
+seen in randomized
+
+470
+00:32:57,730 --> 00:33:00,910
+controlled clinical trials
+in patients who have
+
+471
+00:33:00,910 --> 00:33:04,610
+had an acute myocardial
+infarction, especially
+
+472
+00:33:04,800 --> 00:33:10,430
+an ST-elevation acute
+myocardial infarction.
+
+473
+00:33:11,850 --> 00:33:15,310
+They induce sustained
+blood pressure lowering,
+
+474
+00:33:15,310 --> 00:33:17,510
+regression of ventricular
+hypertrophy. They
+
+475
+00:33:17,510 --> 00:33:20,510
+prevent ventricular
+remodeling after myocardial
+
+476
+00:33:20,510 --> 00:33:23,910
+infarction, and other
+mechanisms are likely.
+
+477
+00:33:24,370 --> 00:33:27,410
+Patients with heart failure
+with reduced ejection
+
+478
+00:33:27,410 --> 00:33:29,930
+fraction. They've been
+shown to improve symptoms,
+
+479
+00:33:29,930 --> 00:33:32,650
+reduce hospitalizations,
+and prolong survival.
+
+480
+00:33:32,980 --> 00:33:36,110
+They are used with a
+beta blocker, and if
+
+481
+00:33:36,110 --> 00:33:40,310
+the patient needs fluid
+control, they're used
+
+482
+00:33:40,310 --> 00:33:44,370
+with a loop diuretic.
+ACE inhibitors, ARBs,
+
+483
+00:33:44,750 --> 00:33:49,010
+or a naprilicin-ARB
+combination, there's
+
+484
+00:33:49,010 --> 00:33:51,050
+only one on the
+market at the moment,
+
+485
+00:33:52,630 --> 00:33:54,510
+Secubitril-Valsartan.
+
+486
+00:33:56,410 --> 00:33:59,590
+Naprilicin increases
+the availability of
+
+487
+00:33:59,590 --> 00:34:02,370
+natriuretic peptides,
+abridokinin, and substance
+
+488
+00:34:02,370 --> 00:34:05,910
+P, and these have
+natriuretic vasodilatory
+
+489
+00:34:05,910 --> 00:34:08,690
+and antiproliferative
+properties of their own.
+
+490
+00:34:08,830 --> 00:34:13,230
+So that's the reason
+for the combination.
+
+491
+00:34:16,130 --> 00:34:19,590
+Of course, they're
+not used as the
+
+492
+00:34:19,590 --> 00:34:23,690
+only treatment
+of heart failure.
+
+493
+00:34:24,650 --> 00:34:27,410
+Proteinuric chronic
+kidney disease, either
+
+494
+00:34:27,410 --> 00:34:30,510
+diabetic chronic kidney
+disease or non-diabetic
+
+495
+00:34:30,510 --> 00:34:32,910
+chronic kidney disease,
+they've been shown to
+
+496
+00:34:32,910 --> 00:34:36,370
+slow the progression of
+the disease. They reduce
+
+497
+00:34:36,370 --> 00:34:39,210
+glomerular pressure,
+one, by reducing blood
+
+498
+00:34:39,210 --> 00:34:43,550
+pressure, and all
+antihypertensives do that.
+
+499
+00:34:43,610 --> 00:34:47,490
+These drugs also cause
+dilation of the efferent
+
+500
+00:34:47,490 --> 00:34:51,310
+arterioles, which reduces
+the pressure within the
+
+501
+00:34:51,310 --> 00:34:55,510
+glomerulus, and they
+reduce protein excretion.
+
+502
+00:34:56,350 --> 00:34:58,970
+And they may have
+other mechanisms
+
+503
+00:34:58,970 --> 00:35:01,150
+within the kidney as well.
+
+504
+00:35:03,370 --> 00:35:08,130
+adverse effects now hypotension
+i've referred to that
+
+505
+00:35:08,130 --> 00:35:11,690
+a couple of times usually
+occurs within the first few
+
+506
+00:35:11,690 --> 00:35:15,290
+doses most often observed
+in patients who are in a
+
+507
+00:35:15,290 --> 00:35:19,590
+rast dependent state such
+as volume depleted patients
+
+508
+00:35:20,810 --> 00:35:25,770
+patients i mean they reduce
+the gfr why because they're
+
+509
+00:35:25,770 --> 00:35:29,130
+relaxing the efferent
+arteriole and this is generally
+
+510
+00:35:29,130 --> 00:35:35,230
+not dangerous in a patient
+who's not at otherwise
+
+511
+00:35:35,230 --> 00:35:39,430
+risk it's usually a modest
+effect however in patients
+
+512
+00:35:39,430 --> 00:35:43,910
+whose renal perfusion is
+already a problem it's already
+
+513
+00:35:43,910 --> 00:35:48,590
+severe and that perfusion
+pressure is reduced further
+
+514
+00:35:48,590 --> 00:35:55,190
+by dilating the efferent
+arteriole that can cause a
+
+515
+00:35:57,910 --> 00:36:02,430
+Acute Kidney Injury.
+
+516
+00:36:06,260 --> 00:36:08,470
+Of course, that has an acronym.
+
+517
+00:36:11,610 --> 00:36:13,930
+And hyperkalemia.
+
+518
+00:36:14,290 --> 00:36:17,390
+I should put a bunch of
+exclamation points here.
+
+519
+00:36:19,230 --> 00:36:24,170
+ACE inhibitors and ARBs
+reduce aldosterone secretion.
+
+520
+00:36:24,550 --> 00:36:28,030
+Aldosterone is responsible
+for reabsorption
+
+521
+00:36:28,030 --> 00:36:31,690
+of sodium and excretion
+of potassium in the
+
+522
+00:36:31,690 --> 00:36:37,870
+urine. And now we're
+inhibiting that, so potassium
+
+523
+00:36:39,230 --> 00:36:42,810
+can be reabsorbed,
+causing hyperkalemia.
+
+524
+00:36:53,800 --> 00:36:58,280
+More adverse effects.
+The dry cough, it's not
+
+525
+00:36:58,280 --> 00:37:02,480
+dangerous, it's annoying,
+it's bothersome. This
+
+526
+00:37:02,480 --> 00:37:05,360
+occurs in up to 20%
+of patients, and it is
+
+527
+00:37:05,360 --> 00:37:09,140
+believed that it's the
+result of accumulation of
+
+528
+00:37:09,140 --> 00:37:12,710
+bretokinin in substance P
+and likely prostaglandins
+
+529
+00:37:12,710 --> 00:37:15,780
+in the lungs, causing
+this irritation.
+
+530
+00:37:16,150 --> 00:37:18,780
+There is a low
+incidence of dry cough
+
+531
+00:37:18,780 --> 00:37:21,600
+with angiotensin
+receptor blocker
+
+532
+00:37:21,600 --> 00:37:24,860
+therapy, not zero,
+but a low incidence.
+
+533
+00:37:28,340 --> 00:37:33,540
+angioedema is especially
+related to the ACE
+
+534
+00:37:33,540 --> 00:37:37,410
+inhibitors it's rare fortunately
+it's potentially fatal
+
+535
+00:37:37,410 --> 00:37:40,960
+but think about it 0.7
+percent think about all
+
+536
+00:37:40,960 --> 00:37:43,400
+the millions and millions
+and millions of patients
+
+537
+00:37:43,400 --> 00:37:47,800
+who take ACE inhibitors
+it's still a it's still
+
+538
+00:37:47,800 --> 00:37:50,630
+a lot of patients who
+can develop angioedema.
+
+539
+00:37:51,320 --> 00:37:53,940
+Again, it seems
+the bradykinin and
+
+540
+00:37:53,940 --> 00:37:56,420
+substance P are
+likely to be involved.
+
+541
+00:37:56,420 --> 00:38:05,320
+These are pro-inflammatory
+peptides, and the
+
+542
+00:38:05,320 --> 00:38:09,340
+dilation, the vasodilation,
+will cause this
+
+543
+00:38:09,920 --> 00:38:11,880
+vessel edema.
+
+544
+00:38:14,880 --> 00:38:18,620
+The incidence rates with
+the ARBs are not higher
+
+545
+00:38:18,620 --> 00:38:22,700
+than with the non-RES
+antihypertensive drugs. This is
+
+546
+00:38:22,700 --> 00:38:27,940
+from a later study that
+demonstrated this effect.
+
+547
+00:38:28,060 --> 00:38:32,040
+Now, Omisartan, this is
+a drug-specific, unique
+
+548
+00:38:32,040 --> 00:38:35,720
+adverse effect of
+enteropathy characterized
+
+549
+00:38:35,720 --> 00:38:39,580
+by severe chronic
+diarrhea and weight loss.
+
+550
+00:38:40,900 --> 00:38:44,080
+So here we have pictures of
+
+551
+00:38:44,080 --> 00:38:48,580
+angioedema in
+different individuals.
+
+552
+00:38:55,050 --> 00:38:58,730
+Do not give to the
+pregnant patient period
+
+553
+00:38:58,730 --> 00:39:02,170
+the end contraindicated
+in all trimesters.
+
+554
+00:39:02,750 --> 00:39:07,510
+They can cause fetal
+hypotension, and urea, renal
+
+555
+00:39:07,510 --> 00:39:15,950
+function depression, which
+leads to oligohydramnios,
+
+556
+00:39:16,330 --> 00:39:19,930
+fetal lung hypoplasia,
+skeletal malformation,
+
+557
+00:39:19,930 --> 00:39:24,350
+skull hypoplasia,
+and even death.
+
+558
+00:39:26,650 --> 00:39:30,490
+And that's true with
+all RAS inhibitors.
+
+559
+00:39:31,290 --> 00:39:36,690
+uh drug interactions well
+we do not give ACEs and ARBs
+
+560
+00:39:36,690 --> 00:39:41,830
+together we do not give
+ACE or ARB together with a
+
+561
+00:39:41,830 --> 00:39:45,490
+direct renal inhibitor we do
+not combine RAS inhibitors
+
+562
+00:39:46,170 --> 00:39:49,470
+this is associated
+with potentially life
+
+563
+00:39:49,470 --> 00:39:52,870
+-threatening adverse
+effects hypotension syncope
+
+564
+00:39:53,010 --> 00:39:57,070
+hyperkalemia kidney
+dysfunction and on top of it it
+
+565
+00:39:57,070 --> 00:40:00,230
+does not improve benefit
+to put them together other
+
+566
+00:40:02,450 --> 00:40:08,850
+potassium sparing drugs
+well these drugs already are
+
+567
+00:40:08,850 --> 00:40:12,470
+potassium sparing as it
+were they cause reabsorption
+
+568
+00:40:12,470 --> 00:40:18,110
+of potassium so adding
+an enac inhibitor or a
+
+569
+00:40:18,110 --> 00:40:24,770
+mineralocorticoid receptor
+antagonist or an NSAID will further
+
+570
+00:40:24,770 --> 00:40:29,510
+increase the risk of
+hyperkalemia and NSAIDs blunt
+
+571
+00:40:29,510 --> 00:40:35,810
+the antihypertensive effects
+of the RAS inhibitors.
+
+572
+00:40:36,070 --> 00:40:37,210
+Now,
+
+573
+00:40:37,630 --> 00:40:40,670
+NSAIDs are available over
+the counter. People treat
+
+574
+00:40:40,670 --> 00:40:44,790
+themselves. People may not
+be aware of the potential
+
+575
+00:40:45,270 --> 00:40:48,590
+adverse effects that can
+result from this drug
+
+576
+00:40:48,660 --> 00:40:52,010
+interaction. It's very,
+very important to counsel
+
+577
+00:40:52,010 --> 00:40:55,710
+a patient, not once, but
+every time they're seen.
+
+578
+00:40:56,470 --> 00:41:01,090
+and lithium levels may
+increase so that requires
+
+579
+00:41:01,090 --> 00:41:04,230
+monitoring and possibly
+adjustment of the lithium
+
+580
+00:41:04,230 --> 00:41:09,910
+dose let's take a look
+now at the direct renin
+
+581
+00:41:09,910 --> 00:41:13,120
+inhibitor there's only one
+at the moment alliscarine
+
+582
+00:41:14,230 --> 00:41:18,490
+and that's what it does it
+just gets into this enzyme
+
+583
+00:41:18,490 --> 00:41:23,350
+renin and it blocks the
+angiotensinogen from accessing
+
+584
+00:41:23,350 --> 00:41:29,530
+the catalytic site as a
+result angiotensin 1 is not
+
+585
+00:41:29,530 --> 00:41:33,180
+formed and if angiotensin
+1 is not formed therefore
+
+586
+00:41:33,180 --> 00:41:37,650
+angiotensin 2 won't be formed
+and on down the line uh
+
+587
+00:41:43,840 --> 00:41:49,200
+this is a small molecule
+drug oral it is a p
+
+588
+00:41:49,200 --> 00:41:52,340
+-glycoprotein substrate look
+at this bioavailability.
+
+589
+00:41:52,340 --> 00:41:58,100
+It's only 3%. So remember,
+P-glycoprotein is located
+
+590
+00:41:58,100 --> 00:42:02,920
+in the intestine, so it's
+going to push the drug
+
+591
+00:42:02,920 --> 00:42:05,880
+out, and any drug that
+gets into the liver can
+
+592
+00:42:05,940 --> 00:42:11,120
+be pushed into the biliary
+system via P-glycoprotein,
+
+593
+00:42:11,440 --> 00:42:18,660
+and that is certainly
+going to cause the vast
+
+594
+00:42:18,660 --> 00:42:22,880
+majority of the drug to
+be excreted and not reach
+
+595
+00:42:22,880 --> 00:42:26,320
+the systemic circulation
+what is the metabolism
+
+596
+00:42:27,540 --> 00:42:30,660
+interestingly
+that's really hasn't
+
+597
+00:42:30,660 --> 00:42:33,500
+been defined it
+might involve cyp3a4
+
+598
+00:42:35,540 --> 00:42:39,460
+it is excreted unchanged
+in the feces via the
+
+599
+00:42:39,460 --> 00:42:41,840
+biliary system and also
+whatever didn't get
+
+600
+00:42:41,840 --> 00:42:45,460
+absorbed it's got a long
+half-life whatever actually
+
+601
+00:42:45,460 --> 00:42:48,760
+does get in which allows
+once daily dosing.
+
+602
+00:42:51,300 --> 00:42:55,660
+Some of this drug, a small
+percentage of whatever
+
+603
+00:42:55,660 --> 00:42:59,220
+gets in, is actually
+excreted in the urine.
+
+604
+00:43:01,140 --> 00:43:07,060
+Now, patients who have a
+low creatinine clearance
+
+605
+00:43:07,060 --> 00:43:12,680
+have an increased risk of
+hyperkalemia. Why? Because
+
+606
+00:43:12,680 --> 00:43:16,640
+there's going to be more
+drug in the bloodstream.
+
+607
+00:43:17,380 --> 00:43:22,120
+Progressive renal impairment
+may also occur, and the
+
+608
+00:43:22,120 --> 00:43:25,080
+area under the concentration
+versus time curve is
+
+609
+00:43:25,080 --> 00:43:29,320
+increased in patients who
+are 65 and older. So we must
+
+610
+00:43:29,320 --> 00:43:32,700
+be very careful with dosing
+if this drug is selected.
+
+611
+00:43:35,420 --> 00:43:38,180
+It is a highly potent selective
+
+612
+00:43:38,180 --> 00:43:40,140
+competitive inhibitor of renin.
+
+613
+00:43:40,720 --> 00:43:44,420
+Dose-dependent decreases
+in angiotensin 1, 2,
+
+614
+00:43:44,420 --> 00:43:47,780
+aldosterone, naturally. It
+decreases blood pressure,
+
+615
+00:43:47,780 --> 00:43:50,140
+as we would expect.
+So how does it compare
+
+616
+00:43:50,140 --> 00:43:55,220
+to the other antihypertensive
+drugs? Well, it's
+
+617
+00:43:55,220 --> 00:43:58,580
+comparable to the other
+RAS inhibitors and to
+
+618
+00:43:58,580 --> 00:44:00,920
+the other types of
+antihypertensive drugs in
+
+619
+00:44:00,920 --> 00:44:04,080
+terms of its ability to
+lower the blood pressure.
+
+620
+00:44:04,240 --> 00:44:07,600
+The adverse effects,
+hypotension, hyperkalemia,
+
+621
+00:44:07,600 --> 00:44:09,600
+nephrotoxicity,
+cough, angioedema,
+
+622
+00:44:09,600 --> 00:44:13,600
+pregnancy contraindication,
+and whatever else
+
+623
+00:44:13,600 --> 00:44:20,400
+angiotensin converting
+enzyme inhibitors have.
+
+624
+00:44:20,810 --> 00:44:23,540
+What is it used for?
+Hypertension only.
+
+625
+00:44:24,070 --> 00:44:27,540
+It is an alternative
+treatment. It can be used as
+
+626
+00:44:27,540 --> 00:44:31,580
+monotherapy, but if an
+ACE inhibitor or an ARB
+
+627
+00:44:31,580 --> 00:44:34,700
+is tolerable by the patient,
+not contraindicated,
+
+628
+00:44:34,700 --> 00:44:39,340
+Certainly, those would
+be the preferred agents.
+
+629
+00:44:45,420 --> 00:44:49,020
+Potentially significant
+interactions may exist
+
+630
+00:44:49,020 --> 00:44:52,260
+requiring dose or frequency
+adjustment, additional
+
+631
+00:44:52,260 --> 00:44:55,800
+monitoring, and or
+selection of an alternative
+
+632
+00:44:55,800 --> 00:44:59,290
+agent. So we talked
+about P-glycoprotein.
+
+633
+00:44:59,360 --> 00:45:04,180
+Strong P-glycoprotein
+inducers or inhibitors can
+
+634
+00:45:04,180 --> 00:45:08,420
+affect alloscurin
+systemic levels. And I put
+
+635
+00:45:08,420 --> 00:45:15,190
+down three strong P
+-glycoprotein inhibitors that
+
+636
+00:45:15,580 --> 00:45:19,120
+should not be given
+together with alloscarin,
+
+637
+00:45:19,700 --> 00:45:22,840
+etraconazole antifungals,
+cyclosporine,
+
+638
+00:45:22,840 --> 00:45:29,680
+immunosuppressant, and
+ritonavir, which is a CYP3A4
+
+639
+00:45:29,680 --> 00:45:32,680
+strong inhibitor and a
+P-glycoprotein strong
+
+640
+00:45:32,680 --> 00:45:35,040
+inhibitor. All of these
+are strong P-glycoprotein
+
+641
+00:45:35,040 --> 00:45:41,420
+inhibitors. Ritonavir is
+also present in the COVID
+
+642
+00:45:41,420 --> 00:45:47,440
+drug Paxlovid, as
+well as in many of the
+
+643
+00:45:47,440 --> 00:45:53,160
+protease inhibitors used
+for the treatment of HIV.
+
+644
+00:45:54,480 --> 00:45:57,420
+And, of course, I know
+I've said it, I don't know
+
+645
+00:45:57,420 --> 00:46:01,700
+how many times now, we don't
+combine RAS inhibitors.
+
+646
+00:46:05,380 --> 00:46:07,640
+So I have a question here, and
+
+647
+00:46:07,640 --> 00:46:09,190
+you may want to
+pause the video.
+
+648
+00:46:09,280 --> 00:46:12,860
+A 58-year-old non-diabetic
+person presenting with
+
+649
+00:46:12,860 --> 00:46:16,060
+crushing chest pain is ultimately
+diagnosed with acute ST
+
+650
+00:46:16,060 --> 00:46:19,860
+-elevation myocardial infarction
+with anterior infarct.
+
+651
+00:46:21,180 --> 00:46:25,280
+Percutaneous coronary
+intervention is performed. Post
+
+652
+00:46:25,280 --> 00:46:29,300
+-procedure oral pharmacotherapy
+initiated prior to
+
+653
+00:46:29,300 --> 00:46:32,980
+discharge which consists of
+low-dose aspirin, clopidogrel,
+
+654
+00:46:33,860 --> 00:46:36,920
+metoprolol or
+metoprolol, succinate,
+
+655
+00:46:37,100 --> 00:46:40,420
+rosuvastatin, and low
+-dose lisinopril. Pril,
+
+656
+00:46:40,420 --> 00:46:42,440
+pril, pril, you know
+it's an ACE inhibitor.
+
+657
+00:46:42,660 --> 00:46:45,140
+Blood pressure is
+carefully monitored.
+
+658
+00:46:45,140 --> 00:46:47,060
+The patient is at
+high risk for what
+
+659
+00:46:47,060 --> 00:46:50,160
+RAS inhibitor-related
+adverse effect?
+
+660
+00:46:50,500 --> 00:46:53,980
+I invite you to pause and
+think about the answer.
+
+661
+00:46:57,880 --> 00:47:00,960
+Hypotension. First dose
+hypotension can be marked in
+
+662
+00:47:00,960 --> 00:47:03,960
+patients with high RAS
+activity or volume depletion.
+
+663
+00:47:04,440 --> 00:47:08,000
+Or there is high RAS
+activity in volume depletion.
+
+664
+00:47:08,000 --> 00:47:12,520
+RAS activity is high due
+to hemodynamic changes in
+
+665
+00:47:12,520 --> 00:47:16,440
+the period following an
+acute myocardial infarction.
+
+666
+00:47:17,340 --> 00:47:19,940
+Evidence from randomized
+trials with either
+
+667
+00:47:19,940 --> 00:47:22,640
+an ACE inhibitor or
+ARB compared to placebo
+
+668
+00:47:22,640 --> 00:47:25,700
+demonstrates an
+improvement in mortality.
+
+669
+00:47:27,480 --> 00:47:31,400
+and you may want to pause
+the video for this question
+
+670
+00:47:31,420 --> 00:47:35,840
+the randomized double
+-blind alliscarine trial and
+
+671
+00:47:35,840 --> 00:47:39,680
+type 2 diabetes using
+cardiorenal endpoints also known
+
+672
+00:47:39,680 --> 00:47:44,520
+as altitude assigned 8
+,561 patients to either
+
+673
+00:47:44,520 --> 00:47:49,780
+alliscarine or placebo as an
+adjunct to the patient's ace
+
+674
+00:47:49,780 --> 00:47:53,980
+inhibitor or ARB therapy.
+The primary endpoint was
+
+675
+00:47:53,980 --> 00:47:57,100
+a composite of the time
+to cardiovascular death or
+
+676
+00:47:57,100 --> 00:48:00,160
+first occurrence of cardiac
+arrest with resuscitation,
+
+677
+00:48:00,180 --> 00:48:03,840
+non-fatal myocardial
+infarction, non-fatal stroke,
+
+678
+00:48:04,080 --> 00:48:06,660
+unplanned hospitalization
+for heart failure,
+
+679
+00:48:07,000 --> 00:48:09,240
+end-stage renal disease, death
+
+680
+00:48:09,240 --> 00:48:11,120
+attributable to kidney failure,
+
+681
+00:48:11,260 --> 00:48:13,360
+need for renal
+replacement therapy with
+
+682
+00:48:13,360 --> 00:48:15,700
+no dialysis or
+transplantation available
+
+683
+00:48:15,700 --> 00:48:19,880
+or doubling of baseline
+serum creatinine.
+
+684
+00:48:20,060 --> 00:48:23,740
+The trial was stopped early
+after the second interim
+
+685
+00:48:23,740 --> 00:48:26,440
+analysis showing that
+the addition of alaskarin
+
+686
+00:48:26,440 --> 00:48:30,340
+to standard therapy with
+RAS blockade in patients
+
+687
+00:48:30,340 --> 00:48:32,940
+with type 2 diabetes at
+high risk for cardiovascular
+
+688
+00:48:32,940 --> 00:48:37,640
+and renal events is not
+supported by the data.
+
+689
+00:48:38,040 --> 00:48:42,680
+There was no benefit and
+it might even be harmful.
+
+690
+00:48:42,680 --> 00:48:45,700
+Thinking about the
+mechanism related adverse
+
+691
+00:48:45,700 --> 00:48:48,520
+effects of RAS inhibition,
+particularly when RAS
+
+692
+00:48:48,520 --> 00:48:52,160
+inhibitors are combined,
+what were two toxicities
+
+693
+00:48:52,160 --> 00:48:55,100
+occurring at a significantly
+higher rate in the
+
+694
+00:48:55,100 --> 00:48:57,940
+alloscarin group compared
+to the placebo group?
+
+695
+00:48:57,940 --> 00:49:02,040
+And what I'm asking you
+to do is see if you can
+
+696
+00:49:02,040 --> 00:49:05,340
+anticipate what they were
+based on your knowledge.
+
+697
+00:49:06,740 --> 00:49:10,320
+So I invite you to pause the
+
+698
+00:49:10,320 --> 00:49:11,800
+computer and think about it.
+
+699
+00:49:14,200 --> 00:49:18,420
+hypotension and
+hyperkalemia, as well as
+
+700
+00:49:18,420 --> 00:49:20,700
+non-significantly
+higher rate of other
+
+701
+00:49:20,700 --> 00:49:23,280
+adverse events, including
+non-fatal stroke.
+
+702
+00:49:24,680 --> 00:49:26,680
+So in summary,
+
+703
+00:49:26,960 --> 00:49:32,200
+here is a scheme showing
+the points at which
+
+704
+00:49:32,210 --> 00:49:36,640
+antihypertensive drugs are
+acting to reduce blood pressure.
+
+705
+00:49:36,920 --> 00:49:39,480
+And I've circled where our
+
+706
+00:49:39,480 --> 00:49:41,020
+RAS inhibitors are working.
+
+707
+00:49:41,520 --> 00:49:44,920
+So RAS inhibitors reduce
+peripheral vascular
+
+708
+00:49:44,920 --> 00:49:48,020
+resistance without reflex
+sympathetic activation
+
+709
+00:49:48,020 --> 00:49:50,520
+and they decrease
+aldosterone secretion.
+
+710
+00:49:50,520 --> 00:49:54,060
+ACE inhibitors increase
+vasodilating peptides,
+
+711
+00:49:54,060 --> 00:49:57,220
+bradycarnin, and substance
+B levels, which may also
+
+712
+00:49:57,220 --> 00:50:00,380
+be associated with causing
+cough and angioedema.
+
+713
+00:50:01,100 --> 00:50:03,760
+Angiotensin receptor
+blockers are associated
+
+714
+00:50:03,760 --> 00:50:06,700
+with lower incidence of
+cough and angioedema.
+
+715
+00:50:07,140 --> 00:50:09,340
+Direct renin inhibitors can
+
+716
+00:50:09,340 --> 00:50:11,100
+cause these adverse effects.
+
+717
+00:50:12,040 --> 00:50:15,300
+ACE inhibitors and ARBs are
+effective and widely used
+
+718
+00:50:15,300 --> 00:50:18,720
+in the treatment of hypertension,
+post-acute myocardial
+
+719
+00:50:18,720 --> 00:50:21,600
+infarction therapy, heart
+failure with reduced ejection
+
+720
+00:50:21,600 --> 00:50:25,700
+fraction, and proteinuric
+chronic kidney disease.
+
+721
+00:50:26,210 --> 00:50:28,440
+Alaskarin is an option
+for the management of
+
+722
+00:50:28,440 --> 00:50:31,640
+hypertension. It is not a
+recommended first-line therapy.
+
+723
+00:50:32,140 --> 00:50:34,300
+RAS inhibitors
+are generally well
+
+724
+00:50:34,300 --> 00:50:37,640
+-tolerated. They can cause
+hypotension, especially
+
+725
+00:50:37,640 --> 00:50:41,580
+in people with
+high RAS activity.
+
+726
+00:50:41,720 --> 00:50:44,280
+Other adverse effects
+include modest
+
+727
+00:50:44,280 --> 00:50:47,480
+reduction in glomerular
+filtration rate,
+
+728
+00:50:47,920 --> 00:50:50,300
+hyperkalemia, and
+nephrotoxicity.
+
+729
+00:50:50,620 --> 00:50:54,240
+And this modest reduction
+in GFR, please remember,
+
+730
+00:50:54,640 --> 00:50:59,300
+in the patient who is not
+at risk is not a problem.
+
+731
+00:50:59,300 --> 00:51:03,740
+However, in patients who
+already have reduced GFR,
+
+732
+00:51:05,060 --> 00:51:07,860
+these drugs can lead to acute
+
+733
+00:51:07,860 --> 00:51:10,580
+kidney injury, nephrotoxicity.
+
+734
+00:51:11,520 --> 00:51:14,420
+ACE inhibitors are
+associated with a dry cough
+
+735
+00:51:14,420 --> 00:51:16,940
+and angioedema that may
+be related to levels of
+
+736
+00:51:16,940 --> 00:51:20,060
+bretokinin and substance
+P, which I said before.
+
+737
+00:51:20,300 --> 00:51:23,840
+Olmosartin is associated
+with sprue-like enteropathy,
+
+738
+00:51:23,840 --> 00:51:27,500
+severe diarrhea, and weight
+loss. Combinations of RAS
+
+739
+00:51:27,500 --> 00:51:29,960
+inhibitors should be avoided
+due to increased risk
+
+740
+00:51:29,960 --> 00:51:33,780
+of hypotension, syncope, renal
+impairment, and hyperkalemia.
+
+741
+00:51:33,780 --> 00:51:36,880
+RAS inhibitors are
+contraindicated during pregnancy
+
+742
+00:51:36,880 --> 00:51:40,620
+because of the risk of
+fetal hypotension, anuria,
+
+743
+00:51:40,620 --> 00:51:45,900
+and renal failure leading
+to oligohydramnios. Fetal
+
+744
+00:51:45,900 --> 00:51:49,280
+malformations and death may
+occur. And that concludes
+
+745
+00:51:49,280 --> 00:51:55,380
+part one of the lectures
+on antihypertensive agents.
+
+746
+00:51:55,900 --> 00:51:56,380
+Thank you.

@@ -1,0 +1,4319 @@
+1
+00:00:00,890 --> 00:00:03,170
+Hello, everyone, and
+welcome to our penultimate
+
+2
+00:00:03,170 --> 00:00:08,490
+lecture in our series of
+talks on renal physiology.
+
+3
+00:00:08,610 --> 00:00:12,190
+And today we'll be talking
+about the transports
+
+4
+00:00:12,190 --> 00:00:15,030
+of acids and bases and
+start giving you the
+
+5
+00:00:15,030 --> 00:00:19,190
+preparation into understanding
+acid-base disorders
+
+6
+00:00:19,320 --> 00:00:23,030
+and how to approach them
+and what can cause them.
+
+7
+00:00:24,570 --> 00:00:27,630
+So, like in the previous
+cases, we'll start off
+
+8
+00:00:27,630 --> 00:00:30,170
+with a little scenario.
+In this case, think of
+
+9
+00:00:30,170 --> 00:00:35,010
+yourself on your winter
+break and you wanted to,
+
+10
+00:00:35,350 --> 00:00:38,670
+you're a skier, you
+are an avid skier who's
+
+11
+00:00:38,670 --> 00:00:42,350
+only skied in New York
+and you want to go
+
+12
+00:00:42,350 --> 00:00:46,610
+over and experience real
+mountains. So you and
+
+13
+00:00:46,610 --> 00:00:49,990
+your friend go and you
+decide to go ski in
+
+14
+00:00:49,990 --> 00:00:53,090
+the Rockies and Aspen.
+You land in Denver,
+
+15
+00:00:53,670 --> 00:00:58,330
+a mile-high city, right,
+5,280 feet and then
+
+16
+00:00:58,330 --> 00:01:00,910
+drive to Aspen, which
+is a, you know, toward
+
+17
+00:01:00,910 --> 00:01:04,650
+three hour drive to
+the continental divide.
+
+18
+00:01:04,710 --> 00:01:08,050
+As you get closer to
+Aspen, you start getting
+
+19
+00:01:08,160 --> 00:01:10,530
+headachy and you feel,
+you don't feel great, you
+
+20
+00:01:10,530 --> 00:01:13,330
+start feeling lightheaded.
+So you take ibuprofen
+
+21
+00:01:13,330 --> 00:01:16,610
+and everything is fine,
+but then the next day you
+
+22
+00:01:16,610 --> 00:01:22,250
+are, feel horrible and
+gets worse as you take the
+
+23
+00:01:22,250 --> 00:01:25,750
+lift to the top of your
+first run. You have a
+
+24
+00:01:25,750 --> 00:01:28,230
+horrible headache, you're
+nauseous, you're short of
+
+25
+00:01:28,230 --> 00:01:30,970
+breath, and you can
+barely see, you can barely
+
+26
+00:01:30,970 --> 00:01:34,250
+focus going down the
+slope. Your friend is fine.
+
+27
+00:01:34,970 --> 00:01:37,370
+And once you get down
+
+28
+00:01:37,650 --> 00:01:40,890
+down the slope, you ask,
+you know, like, I'm dying.
+
+29
+00:01:40,890 --> 00:01:42,970
+What are you, what's going
+on? Why do you feel so
+
+30
+00:01:42,970 --> 00:01:45,530
+good? And she says, well, I'm
+taking this drug. My doctor
+
+31
+00:01:45,530 --> 00:01:47,070
+gave it to me. It was
+like, I'd never heard of it
+
+32
+00:01:47,070 --> 00:01:49,470
+before, but it's like the
+greatest drug in the world,
+
+33
+00:01:49,470 --> 00:01:54,330
+and it's cheap, and it
+works so well and you wonder
+
+34
+00:01:54,330 --> 00:01:57,310
+what's going on with you
+and you know what in god's
+
+35
+00:01:57,310 --> 00:02:01,130
+name is your friend's pill
+that she's taking uh so
+
+36
+00:02:01,130 --> 00:02:05,770
+yeah so denver's at 5 280
+feet mile high and aspen's
+
+37
+00:02:05,770 --> 00:02:08,530
+like almost 3 000 feet higher
+than that if you compare
+
+38
+00:02:08,530 --> 00:02:12,140
+that to the highest
+mountain in the catskills um
+
+39
+00:02:13,130 --> 00:02:16,530
+yeah hunter mountain
+which if you're familiar
+
+40
+00:02:16,530 --> 00:02:18,650
+if you're you know if you
+go skiing you probably
+
+41
+00:02:18,650 --> 00:02:21,330
+you have been there,
+it's half as high as
+
+42
+00:02:21,330 --> 00:02:26,050
+you would see from sea
+level for the naspen.
+
+43
+00:02:28,830 --> 00:02:32,410
+So high altitude is doing
+something that causes
+
+44
+00:02:32,410 --> 00:02:36,290
+headache, fatigue,
+shortness of breath, and
+
+45
+00:02:36,830 --> 00:02:40,070
+mystery drug seems
+to be working there.
+
+46
+00:02:40,970 --> 00:02:44,210
+So these are our objectives.
+We're talking about
+
+47
+00:02:44,210 --> 00:02:47,170
+major sources of acids
+and bases in the body,
+
+48
+00:02:47,170 --> 00:02:51,550
+the processes that give
+them the fundamental of
+
+49
+00:02:51,550 --> 00:02:54,870
+acid-base balances, the
+relative roles of the
+
+50
+00:02:54,870 --> 00:02:57,930
+various segments of the
+tubule of the nephron,
+
+51
+00:02:57,930 --> 00:03:03,630
+and the major regulatory
+and variables that are
+
+52
+00:03:03,630 --> 00:03:08,110
+involved in renal processing
+of acids and base.
+
+53
+00:03:09,090 --> 00:03:13,430
+So we'll start off again
+with the big picture.
+
+54
+00:03:13,810 --> 00:03:15,870
+So here we have the acid-base
+
+55
+00:03:15,870 --> 00:03:18,150
+balance and distribution
+in our body.
+
+56
+00:03:19,150 --> 00:03:26,870
+Any acid in our diet is
+quickly absorbed, and what's
+
+57
+00:03:26,870 --> 00:03:31,050
+not absorbed is neutralized
+once it gets past the
+
+58
+00:03:31,050 --> 00:03:37,810
+stomach into the intestines
+and finally excreted.
+
+59
+00:03:38,250 --> 00:03:43,050
+The absorbed amount is
+found in the exocellular
+
+60
+00:03:43,050 --> 00:03:48,110
+fluid, and there it
+interacts with one of our
+
+61
+00:03:48,110 --> 00:03:52,470
+major buffers, bicarbonate,
+and the bicarbonate
+
+62
+00:03:52,470 --> 00:03:57,690
+is not only filtered, but
+completely reabsorbed.
+
+63
+00:03:58,250 --> 00:04:04,550
+Additionally, we have
+de novo bicarbonate
+
+64
+00:04:04,550 --> 00:04:08,570
+production in the kidney
+that becomes important.
+
+65
+00:04:10,780 --> 00:04:13,490
+The majority of
+
+66
+00:04:16,420 --> 00:04:22,810
+work that happens in
+regulating, in getting rid of
+
+67
+00:04:24,470 --> 00:04:31,950
+of the acids is via CO2
+through our lungs. So
+
+68
+00:04:31,950 --> 00:04:34,450
+breathing it out becomes
+incredibly important.
+
+69
+00:04:35,430 --> 00:04:37,540
+But acids and bases
+fall into different
+
+70
+00:04:37,540 --> 00:04:39,330
+categories, and different
+organs will have
+
+71
+00:04:39,330 --> 00:04:42,130
+different effects on the
+categories. And we'll
+
+72
+00:04:42,130 --> 00:04:44,970
+be using this
+nomenclature of volatile,
+
+73
+00:04:44,970 --> 00:04:48,830
+non-volatile acids and
+bases. So what is a volatile
+
+74
+00:04:48,830 --> 00:04:52,910
+acid? I have the definitions
+here on the right-hand
+
+75
+00:04:52,910 --> 00:04:55,770
+side. A volatile acid
+is anything, is any acid
+
+76
+00:04:55,770 --> 00:05:00,350
+derived directly from the
+hydration of CO2. And here,
+
+77
+00:05:00,350 --> 00:05:03,950
+you know, this is CO2,
+this is water, so you're
+
+78
+00:05:03,950 --> 00:05:10,830
+hydrating it, and that
+gives you carbonic acid. And
+
+79
+00:05:10,830 --> 00:05:15,470
+carbonic acid immediately
+dissociates into its base and
+
+80
+00:05:15,470 --> 00:05:19,210
+its acid form and the base
+is the major buffer that
+
+81
+00:05:19,210 --> 00:05:22,790
+is found in the body. We
+have other non-volatile
+
+82
+00:05:23,830 --> 00:05:28,630
+acids also called titratable
+acids and some of you
+
+83
+00:05:28,630 --> 00:05:31,470
+are wincing because you
+thought to yourself the last
+
+84
+00:05:31,470 --> 00:05:34,610
+time I heard the word
+titrate was freshman year
+
+85
+00:05:34,610 --> 00:05:38,210
+chemistry lab and how many
+drops of blah blah blah. I don't
+
+86
+00:05:38,210 --> 00:05:40,390
+know if you remember that.
+I have to remember it
+
+87
+00:05:40,390 --> 00:05:44,530
+to this day of how badly I
+screwed that exercise up.
+
+88
+00:05:45,650 --> 00:05:48,570
+These are acids not
+derived from the hydration
+
+89
+00:05:48,570 --> 00:05:52,290
+of CO2, and the major
+one is phosphoric
+
+90
+00:05:52,970 --> 00:05:55,850
+acid, or in this case,
+dihydrogen phosphate.
+
+91
+00:05:56,950 --> 00:06:01,190
+Phosphoric acid is
+H3PO4, but that's
+
+92
+00:06:01,190 --> 00:06:06,050
+the major non-volatile
+titratable acid
+
+93
+00:06:06,370 --> 00:06:07,970
+we're talking
+about. Not the only
+
+94
+00:06:07,970 --> 00:06:10,310
+one, but that's one
+of the major ones.
+
+95
+00:06:13,310 --> 00:06:17,850
+So the carbon dioxide
+bicarbonate system is the
+
+96
+00:06:17,850 --> 00:06:20,970
+major buffering system in
+the body, but we have also
+
+97
+00:06:20,970 --> 00:06:24,210
+another, the second most
+important, the ammonia,
+
+98
+00:06:24,670 --> 00:06:27,470
+ammonium ion is
+the major buffering
+
+99
+00:06:27,470 --> 00:06:30,650
+system synthesized
+in the kidney.
+
+100
+00:06:31,430 --> 00:06:35,550
+And the kidneys play
+an essential role by
+
+101
+00:06:35,550 --> 00:06:39,450
+neutralizing the non
+-volatile acids, the
+
+102
+00:06:41,890 --> 00:06:47,010
+the phosphates
+and the ammoniums.
+
+103
+00:06:47,270 --> 00:06:50,990
+And, you know, it's so
+important that that's one of
+
+104
+00:06:50,990 --> 00:06:57,530
+the major causes of
+consequences of renal failure is
+
+105
+00:06:57,530 --> 00:07:00,870
+severe acidosis because you're
+not, you can't get rid of
+
+106
+00:07:00,870 --> 00:07:05,730
+your titrate, your titratable
+buffer systems and you
+
+107
+00:07:05,730 --> 00:07:09,990
+accumulate a lot of acid.
+So you get severe acidosis.
+
+108
+00:07:11,890 --> 00:07:15,710
+This table breaks down
+the general reactions
+
+109
+00:07:15,710 --> 00:07:20,090
+that one can, that
+finds as the metabolic
+
+110
+00:07:20,090 --> 00:07:23,090
+source of non-volatile
+acids and bases.
+
+111
+00:07:24,270 --> 00:07:31,090
+So this is volatile, right?
+Because it's water and
+
+112
+00:07:31,090 --> 00:07:36,260
+carbon dioxide. So
+reactions producing CO2 from
+
+113
+00:07:36,260 --> 00:07:38,810
+the oxidation of
+carbohydrates and fats, right?
+
+114
+00:07:38,810 --> 00:07:43,730
+basically everything that
+ends up in the Krebs cycle.
+
+115
+00:07:43,950 --> 00:07:46,830
+Then you have complete
+oxidation of neutral amino
+
+116
+00:07:46,830 --> 00:07:51,170
+acids, gives urea, carbon
+dioxide, and water.
+
+117
+00:07:51,450 --> 00:07:55,730
+Other non-volatile acids,
+you get the oxidation
+
+118
+00:07:55,730 --> 00:07:58,010
+of sulfur-containing
+amino acids like the
+
+119
+00:07:58,010 --> 00:08:02,810
+thionine and cysteine,
+which gives you urea,
+
+120
+00:08:03,570 --> 00:08:07,330
+and sulfuric acid,
+which gives us
+
+121
+00:08:07,330 --> 00:08:10,510
+sulfate ions as a
+hydrogen acceptor.
+
+122
+00:08:10,510 --> 00:08:12,870
+Phosphate-containing
+compounds, right?
+
+123
+00:08:13,290 --> 00:08:16,910
+So many of them, well,
+so many proteins that
+
+124
+00:08:16,910 --> 00:08:19,690
+have phosphates, and you
+have to regulate that,
+
+125
+00:08:19,690 --> 00:08:23,700
+and that gives you the
+phosphoric acid system.
+
+126
+00:08:25,030 --> 00:08:28,250
+Cationic amino acids
+like lysine, arginine.
+
+127
+00:08:28,250 --> 00:08:34,630
+Again, you get urea,
+carbon dioxide,
+
+128
+00:08:34,750 --> 00:08:38,890
+water, and the release
+of a proton, and then
+
+129
+00:08:38,890 --> 00:08:44,390
+you get non-metabolizable
+organic acid, like
+
+130
+00:08:44,390 --> 00:08:53,130
+components of a cramp
+cycle or breakdown products
+
+131
+00:08:53,130 --> 00:08:57,790
+like uric acid, and you
+have incomplete oxidation
+
+132
+00:08:57,790 --> 00:09:00,930
+of carbohydrates in the
+past, especially when
+
+133
+00:09:00,930 --> 00:09:05,410
+it comes to anaerobic
+metabolism, where you
+
+134
+00:09:05,410 --> 00:09:11,710
+get the formation of
+lactic acids or keto acids.
+
+135
+00:09:11,710 --> 00:09:17,770
+Again, in that case,
+they'll just dissociate into
+
+136
+00:09:17,770 --> 00:09:24,570
+their major non-buffering
+base and and a proton.
+
+137
+00:09:25,190 --> 00:09:27,490
+And we have reactions that
+
+138
+00:09:27,490 --> 00:09:29,550
+can cause non-volatile bases,
+
+139
+00:09:29,890 --> 00:09:32,850
+and what we're talking
+about here, you know,
+
+140
+00:09:32,850 --> 00:09:39,730
+bicarbonate is non-volatile
+base, and you have oxidation
+
+141
+00:09:39,730 --> 00:09:43,790
+of organic anions like
+lactate or oxidation of
+
+142
+00:09:43,790 --> 00:09:50,360
+anionic amino acids like
+spartate and glutamate.
+
+143
+00:09:51,470 --> 00:09:55,130
+So don't get intimidated
+by this. This is just
+
+144
+00:09:55,130 --> 00:10:01,710
+gives you, I just put
+this picture in. You'll
+
+145
+00:10:01,710 --> 00:10:05,630
+see this picture again
+you pulmonary physiology.
+
+146
+00:10:05,810 --> 00:10:11,490
+But just this goes to
+show you where the carbon
+
+147
+00:10:11,490 --> 00:10:16,230
+dioxide that comes out of
+tissues upon metabolism go.
+
+148
+00:10:16,230 --> 00:10:19,110
+The vast majority of it
+will enter red blood cells.
+
+149
+00:10:19,110 --> 00:10:21,750
+This is where we have all
+the hard work being done.
+
+150
+00:10:21,750 --> 00:10:25,930
+Either it'll bind to
+hemoglobin or interact with
+
+151
+00:10:25,930 --> 00:10:30,870
+hemoglobin, or it gets
+metabolized by an enzyme called
+
+152
+00:10:30,870 --> 00:10:35,430
+carbonic anhydrase to
+carbonic acid, which then
+
+153
+00:10:35,430 --> 00:10:41,590
+immediately dissociates into
+protons and bicarbonate,
+
+154
+00:10:41,590 --> 00:10:43,990
+which comes out of the
+cell. This also happens
+
+155
+00:10:43,990 --> 00:10:47,590
+outside the cell, but the
+point is the majority of it,
+
+156
+00:10:49,670 --> 00:10:56,230
+up to almost 70% is
+found as a result
+
+157
+00:10:56,230 --> 00:11:01,190
+of the activity of this enzyme.
+
+158
+00:11:01,620 --> 00:11:05,100
+Again, you don't have to
+know the absolute, all
+
+159
+00:11:05,550 --> 00:11:09,830
+the reactions and where they
+go. This is just a great
+
+160
+00:11:09,830 --> 00:11:14,570
+big picture to give you
+an idea of what we're
+
+161
+00:11:14,570 --> 00:11:19,790
+talking about when we talk
+about carbon dioxide and
+
+162
+00:11:21,290 --> 00:11:23,610
+bicarbonate and carbonic acid.
+
+163
+00:11:24,570 --> 00:11:31,170
+So again, we go back to the
+kidney, because the last
+
+164
+00:11:31,170 --> 00:11:33,110
+time I checked, this is
+still talking about the
+
+165
+00:11:33,110 --> 00:11:36,100
+kidney. We'll have Dr.
+LaHesse talk about pulmonary
+
+166
+00:11:36,170 --> 00:11:40,410
+physiology. So remember,
+the lungs excrete the large
+
+167
+00:11:40,410 --> 00:11:45,510
+amount of potential acid in
+the form of CO2. Anything
+
+168
+00:11:45,510 --> 00:11:49,690
+that affects the lung
+and breathing can have
+
+169
+00:11:51,100 --> 00:11:58,570
+consequences on acid-base
+balance, whether it's inherent
+
+170
+00:11:58,570 --> 00:12:02,930
+pulmonary disorders,
+anything to do with smoking,
+
+171
+00:12:06,390 --> 00:12:08,050
+lung cancer,
+
+172
+00:12:08,170 --> 00:12:11,030
+anything like, anything
+that affects with, with,
+
+173
+00:12:11,030 --> 00:12:15,690
+with the, with the mechanics
+of the lung, or when you
+
+174
+00:12:15,690 --> 00:12:21,330
+have situations where you
+have changes in, or, or
+
+175
+00:12:21,330 --> 00:12:23,650
+things that affect you,
+the breathing centers in
+
+176
+00:12:23,650 --> 00:12:29,150
+your brain, increasing
+cerebrospinal fluid pressure,
+
+177
+00:12:29,710 --> 00:12:33,170
+you know, opioids, for
+example, all affect
+
+178
+00:12:33,820 --> 00:12:36,370
+respiration rates,
+and that can have
+
+179
+00:12:36,370 --> 00:12:40,670
+a consequence on your
+acid-base balance.
+
+180
+00:12:41,550 --> 00:12:45,410
+And you know, I like this
+graph for a couple of
+
+181
+00:12:45,410 --> 00:12:49,770
+reasons. One, it gives you
+an idea of an incredibly
+
+182
+00:12:49,770 --> 00:12:53,770
+narrow range of arterial
+pHs that we need
+
+183
+00:12:53,770 --> 00:12:56,630
+to keep everything in.
+So anywhere between 7.37,
+
+184
+00:12:56,630 --> 00:13:02,430
+7.42. Anything below 7.37
+is alkalemia. Everything
+
+185
+00:13:02,430 --> 00:13:06,070
+above 7.42 is considered
+acidemia. Remember,
+
+186
+00:13:06,190 --> 00:13:09,500
+acidemia is the state
+of being in acidosis.
+
+187
+00:13:10,230 --> 00:13:12,250
+Acidosis is the process.
+
+188
+00:13:12,310 --> 00:13:17,010
+But I want you to pay attention
+to the y-axis. Look at
+
+189
+00:13:17,010 --> 00:13:23,250
+the incredibly small amounts
+of changes in the proton
+
+190
+00:13:23,250 --> 00:13:26,630
+concentrations in your
+plasma that can affect that.
+
+191
+00:13:26,630 --> 00:13:30,350
+So this is a nano equivalence,
+which for protons, one
+
+192
+00:13:30,350 --> 00:13:36,770
+equivalence is one millimolar.
+So one milliequivalent
+
+193
+00:13:36,770 --> 00:13:40,310
+is one millimolar. In this
+case, one nano equivalence
+
+194
+00:13:40,310 --> 00:13:44,890
+is one nanomolar. So we're
+talking about levels that
+
+195
+00:13:44,890 --> 00:13:48,570
+are a thousand times below
+what we would find normally
+
+196
+00:13:48,570 --> 00:13:53,360
+in terms of the bicarb in
+our blood, because filtered
+
+197
+00:13:53,360 --> 00:14:00,090
+load is millimolar. So our
+capacity to pick up extra
+
+198
+00:14:00,100 --> 00:14:05,230
+protons is really just much
+more than what we need. So
+
+199
+00:14:05,230 --> 00:14:11,610
+it requires a big effect
+to have consequences on pH.
+
+200
+00:14:12,280 --> 00:14:15,110
+You saw the daily filtered
+load in a couple of slides
+
+201
+00:14:15,110 --> 00:14:19,790
+back and we saw that it was
+around 4,300 millimoles,
+
+202
+00:14:19,790 --> 00:14:26,990
+that's how much we filter.
+We reabsorb almost all
+
+203
+00:14:26,990 --> 00:14:30,050
+of it, but if that bicarb
+was left in the urine,
+
+204
+00:14:30,050 --> 00:14:35,430
+if we couldn't reabsorb all
+of it, then that actually
+
+205
+00:14:35,430 --> 00:14:39,590
+would translate to an
+equivalent increase in acidity
+
+206
+00:14:39,590 --> 00:14:43,270
+in terms of millimolars
+in our blood. So that
+
+207
+00:14:43,270 --> 00:14:49,250
+becomes a blood acid load of
+4,300 millimoles. And that's
+
+208
+00:14:49,250 --> 00:14:52,020
+the same thing as saying
+4,300 milliequivalents.
+
+209
+00:14:55,310 --> 00:14:58,590
+And you can understand
+when you see something
+
+210
+00:14:58,590 --> 00:15:02,450
+like that, that it's
+catastrophic metabolic
+
+211
+00:15:02,520 --> 00:15:05,980
+acidosis. You can see why
+it's called catastrophic,
+
+212
+00:15:06,080 --> 00:15:10,110
+because, again, it's so
+many orders of magnitude
+
+213
+00:15:10,110 --> 00:15:15,450
+more than what a body
+is capable of dealing.
+
+214
+00:15:16,130 --> 00:15:20,250
+Even the 70 millimolar
+acid load that's
+
+215
+00:15:20,250 --> 00:15:22,730
+produced by metabolism,
+diet, and intestinal
+
+216
+00:15:22,730 --> 00:15:26,650
+losses must be balanced
+because even then,
+
+217
+00:15:26,650 --> 00:15:29,450
+70 millimolar is the
+difference between
+
+218
+00:15:30,970 --> 00:15:37,730
+having normal pH,
+right, around 40, and
+
+219
+00:15:37,730 --> 00:15:41,890
+then increasing in
+by another, you know,
+
+220
+00:15:46,850 --> 00:15:50,650
+80, you know, that's even
+nanomoles, right? That's
+
+221
+00:15:50,650 --> 00:15:54,490
+not even millimoles. So
+you can see even a 70
+
+222
+00:15:56,390 --> 00:16:00,330
+nanomolar increase can
+cause dramatic acidemia.
+
+223
+00:16:01,270 --> 00:16:06,130
+And so again, very, you
+know, so you need to
+
+224
+00:16:06,330 --> 00:16:09,490
+tightly titrate those
+acid levels, because
+
+225
+00:16:09,490 --> 00:16:12,530
+if you don't do
+that, then the pH of
+
+226
+00:16:12,530 --> 00:16:16,090
+the urine would be
+around 1, 1.3, 1.5.
+
+227
+00:16:16,250 --> 00:16:20,250
+That's caustic.
+That burns, will
+
+228
+00:16:20,250 --> 00:16:23,330
+damage epithelia and tissues.
+
+229
+00:16:23,630 --> 00:16:26,950
+Lowest urinary
+pH is around 4.4.
+
+230
+00:16:27,410 --> 00:16:30,410
+That's the pH of coffee.
+That is not caustic.
+
+231
+00:16:30,410 --> 00:16:31,610
+You can pour it on
+your skin and you'll
+
+232
+00:16:31,610 --> 00:16:33,870
+be completely fine.
+I wouldn't suggest
+
+233
+00:16:33,870 --> 00:16:35,970
+that, but you know
+what I'm talking about.
+
+234
+00:16:36,550 --> 00:16:38,630
+So again, it's three orders of
+
+235
+00:16:38,630 --> 00:16:41,510
+magnitude lower than
+what's required to
+
+236
+00:16:43,250 --> 00:16:46,390
+excrete the 70 millimoles
+per day of non-volatile
+
+237
+00:16:46,390 --> 00:16:50,730
+acids. And the kidney
+solves this problem not only
+
+238
+00:16:50,730 --> 00:16:54,110
+by binding it to non
+-volatile acids, but binding
+
+239
+00:16:54,110 --> 00:17:03,510
+it to ammonia of renal
+origin, and that'll act as
+
+240
+00:17:03,510 --> 00:17:06,230
+a hydrogen acceptor, in
+this case, to give you
+
+241
+00:17:06,230 --> 00:17:08,470
+ammonium ion, and you can
+get rid of the ammonium
+
+242
+00:17:08,470 --> 00:17:12,990
+ion, and then bicarbonate
+is one of the major ones,
+
+243
+00:17:13,410 --> 00:17:17,870
+the major buffer to pick up any
+
+244
+00:17:18,680 --> 00:17:21,910
+additional protons
+in the urine.
+
+245
+00:17:22,950 --> 00:17:26,130
+So how do we control
+that? And we'll start off
+
+246
+00:17:26,130 --> 00:17:29,130
+with bicarbonate. I start
+off with bicarbonate, not
+
+247
+00:17:29,130 --> 00:17:31,190
+because I think it's
+special, it's my personal
+
+248
+00:17:31,190 --> 00:17:34,950
+opinion. It's editorializing.
+I love this system.
+
+249
+00:17:37,210 --> 00:17:41,090
+I it's, I've always
+enjoyed talking about it
+
+250
+00:17:41,090 --> 00:17:46,650
+and just appreciating
+its elegance. So we find
+
+251
+00:17:47,430 --> 00:17:52,110
+bicarb reabsorbed
+in the proximal
+
+252
+00:17:52,110 --> 00:17:55,410
+convoluted tubule,
+distal convoluted tubule,
+
+253
+00:17:55,830 --> 00:17:59,570
+thick ascending limb, and
+majorly collecting duct.
+
+254
+00:18:01,950 --> 00:18:06,170
+These breakdowns are
+probably indicative
+
+255
+00:18:06,170 --> 00:18:09,490
+of a very, very
+high bicarb load.
+
+256
+00:18:09,690 --> 00:18:14,750
+Low normal bicarb loads,
+almost all of the bicarb
+
+257
+00:18:14,750 --> 00:18:19,350
+is reabsorbed at the level
+of the proximal tubule.
+
+258
+00:18:19,550 --> 00:18:23,150
+But the mechanism that
+we'll talk about is
+
+259
+00:18:23,150 --> 00:18:25,570
+exactly the same regardless
+of where we are in the
+
+260
+00:18:25,570 --> 00:18:28,870
+nephra. This is what
+happens in every section.
+
+261
+00:18:29,050 --> 00:18:31,270
+And we'll start off
+here with one. So, all
+
+262
+00:18:31,270 --> 00:18:39,210
+right, so we filtered,
+again, 100% of the filtered
+
+263
+00:18:39,210 --> 00:18:45,190
+load in the Bowman's
+capsule ends up in the
+
+264
+00:18:45,530 --> 00:18:47,970
+ultrafiltrate. And
+the kidney's job is to
+
+265
+00:18:47,970 --> 00:18:50,930
+get it almost all
+back. And it does so
+
+266
+00:18:50,930 --> 00:18:54,990
+very nicely. And so
+what happens? So we,
+
+267
+00:18:55,150 --> 00:19:00,090
+you know, we, the filtered
+load of bicarb will
+
+268
+00:19:00,090 --> 00:19:03,150
+interact with a proton.
+And these protons
+
+269
+00:19:03,150 --> 00:19:07,610
+are either coming from
+inside the cell or are
+
+270
+00:19:07,610 --> 00:19:14,590
+filtered along with
+bicarbonate. And there,
+
+271
+00:19:15,880 --> 00:19:19,630
+they'll associate to
+give you carbonic acid.
+
+272
+00:19:19,790 --> 00:19:25,150
+And carbonic acid is then
+metabolized by a luminal
+
+273
+00:19:25,150 --> 00:19:29,650
+enzyme, an enzyme that's
+found on the brush border of
+
+274
+00:19:29,650 --> 00:19:33,970
+proximal tubules called
+carbonic anhydrase. And carbonic
+
+275
+00:19:33,970 --> 00:19:38,610
+anhydrase will metabolize
+H2CO3 to its individual
+
+276
+00:19:38,610 --> 00:19:42,490
+components, carbon dioxide
+and water. Now, in case
+
+277
+00:19:42,490 --> 00:19:45,330
+you're wondering why it's
+called carbonic anhydrase and
+
+278
+00:19:45,330 --> 00:19:54,610
+it's catalyzing the breakdown
+of carbonic acid, this
+
+279
+00:19:54,610 --> 00:20:00,230
+enzyme is bidirectional. that
+it's equally enzymatically
+
+280
+00:20:00,990 --> 00:20:04,270
+active on either the
+product and the substrate,
+
+281
+00:20:04,270 --> 00:20:09,730
+and the direction where
+you have it is depending on
+
+282
+00:20:09,730 --> 00:20:12,590
+the concentration of the
+product and the substrate.
+
+283
+00:20:12,830 --> 00:20:16,570
+So in this case, the people
+who first named it and
+
+284
+00:20:16,570 --> 00:20:21,890
+did the work on it were
+looking at carbonic acid
+
+285
+00:20:21,890 --> 00:20:25,810
+breakdown. And carbonic acid
+breakdown, it's carbonic
+
+286
+00:20:25,810 --> 00:20:32,730
+anhydrase, taking water away
+from a carbonic acid. So
+
+287
+00:20:32,730 --> 00:20:35,930
+that gives you carbon dioxide
+and water. But the enzymatic
+
+288
+00:20:35,930 --> 00:20:39,430
+activity can go either
+way. So in this case,
+
+289
+00:20:39,450 --> 00:20:43,930
+bicarbonate is broken down
+into carbon dioxide and water.
+
+290
+00:20:43,930 --> 00:20:48,650
+Carbon dioxide is a
+gas, so it's very easily
+
+291
+00:20:48,650 --> 00:20:53,410
+permeable into the cell, and
+that's what happens. You find
+
+292
+00:20:53,410 --> 00:20:58,030
+it inside the cell, and
+there it will interact with
+
+293
+00:20:58,540 --> 00:21:05,090
+water and then again metabolize
+bicarbonic anhydrase,
+
+294
+00:21:05,090 --> 00:21:07,490
+but in this case a different
+carbonic anhydrase.
+
+295
+00:21:08,310 --> 00:21:11,310
+It is a cytosolic
+
+296
+00:21:12,690 --> 00:21:14,650
+cytoplasmic, cytosolic
+
+297
+00:21:17,330 --> 00:21:19,830
+enzymes, ubiquitous. You find
+
+298
+00:21:20,350 --> 00:21:25,030
+this isoform of carbonic
+anhydrase in every cell of
+
+299
+00:21:25,030 --> 00:21:28,710
+your body. So that's number
+five. Then you get, again,
+
+300
+00:21:29,430 --> 00:21:37,010
+it metabolizes the
+formation of carbonic
+
+301
+00:21:37,010 --> 00:21:39,890
+acid. And then that
+dissociates into
+
+302
+00:21:40,390 --> 00:21:44,530
+bicarbonate and a proton and
+the proton is recirculated
+
+303
+00:21:44,530 --> 00:21:48,150
+back into the lumen where
+it can interact with more
+
+304
+00:21:48,150 --> 00:21:51,590
+filtered bicarb and then
+the other bicarb is then
+
+305
+00:21:51,590 --> 00:21:55,050
+removed and put back into
+the interstitium to go back
+
+306
+00:21:55,050 --> 00:21:59,930
+into the plasma by a sodium
+bicarbonate co-transporter.
+
+307
+00:22:08,810 --> 00:22:13,800
+Now why do this molecule,
+and you are spending
+
+308
+00:22:13,800 --> 00:22:19,210
+almost no energy
+reabsorbing all of it.
+
+309
+00:22:19,210 --> 00:22:22,490
+In fact, the only energy
+that's spent is the
+
+310
+00:22:22,490 --> 00:22:29,610
+energy that the tubular
+cells use to create
+
+311
+00:22:29,610 --> 00:22:33,110
+the gradient which
+you need to, you know,
+
+312
+00:22:33,470 --> 00:22:40,070
+drive sodium in and then
+for protons to go out.
+
+313
+00:22:40,070 --> 00:22:45,620
+So I just find the fact
+that evolution has created
+
+314
+00:22:45,620 --> 00:22:50,840
+a process that doesn't
+use any energy and gets
+
+315
+00:22:50,840 --> 00:22:52,990
+something back. I mean,
+this has got to be the
+
+316
+00:22:52,990 --> 00:22:55,190
+pinnacle of evolution.
+It's just really amazing.
+
+317
+00:22:58,190 --> 00:23:00,090
+Carbonic anhydrase is,
+
+318
+00:23:01,090 --> 00:23:03,210
+all of them, you know,
+all the different isoforms
+
+319
+00:23:03,730 --> 00:23:07,590
+are inhibitable by a
+drug, by a class of
+
+320
+00:23:07,590 --> 00:23:10,970
+the superfamily of the
+sulfonamide class of
+
+321
+00:23:10,970 --> 00:23:15,710
+drugs called carbonic
+anhydrase inhibitors, CAIs.
+
+322
+00:23:15,710 --> 00:23:19,290
+And the most common
+drug is acetazolamide.
+
+323
+00:23:22,930 --> 00:23:26,850
+So how about non
+-bicarbonate buffers?
+
+324
+00:23:26,850 --> 00:23:28,650
+Well, nine-bicarbonate buffers,
+
+325
+00:23:29,130 --> 00:23:32,230
+let's first talk
+about phosphates,
+
+326
+00:23:33,590 --> 00:23:36,210
+especially, again,
+
+327
+00:23:36,410 --> 00:23:41,930
+non-ammonia, non-bicarbonate
+buffers, and that
+
+328
+00:23:41,930 --> 00:23:44,870
+the major one is phosphoric
+acid, and in this
+
+329
+00:23:44,870 --> 00:23:48,030
+case, what's floating
+around in the plasma is
+
+330
+00:23:48,030 --> 00:23:54,870
+monohydrogen phosphate, and
+it becomes, you know, and
+
+331
+00:23:54,870 --> 00:23:57,090
+then creatinine and urate
+are some of the other
+
+332
+00:23:57,090 --> 00:24:00,450
+ones, but the major one
+is hydrogen phosphate.
+
+333
+00:24:00,670 --> 00:24:04,930
+And kidneys excrete hydrogen
+-bound phosphates in the
+
+334
+00:24:04,930 --> 00:24:13,230
+urine. And in this case,
+the PCT reabsorbs a fair
+
+335
+00:24:13,230 --> 00:24:17,730
+amount, and then the thick
+ascending limb and the distal
+
+336
+00:24:17,730 --> 00:24:21,130
+convoluted tubule and the
+medullary collecting ducts
+
+337
+00:24:21,990 --> 00:24:25,050
+also play a component.
+You do have a
+
+338
+00:24:25,050 --> 00:24:29,110
+certain amount of
+loss, the urinary
+
+339
+00:24:29,960 --> 00:24:34,470
+proton loss that's
+associated with that.
+
+340
+00:24:35,670 --> 00:24:38,790
+But the important,
+but going back to
+
+341
+00:24:38,790 --> 00:24:41,510
+how does it work,
+is remember, if
+
+342
+00:24:41,510 --> 00:24:52,470
+you have excess
+proton in your lumen,
+
+343
+00:24:52,470 --> 00:24:56,710
+that'll bind with
+monohydrogen phosphate.
+
+344
+00:24:56,810 --> 00:25:02,470
+And the increases in
+acidity, the decrease in
+
+345
+00:25:02,470 --> 00:25:06,370
+pH, if you remember
+when we had our lecture
+
+346
+00:25:06,370 --> 00:25:12,010
+on transports of potassium,
+calcium, magnesium,
+
+347
+00:25:12,010 --> 00:25:15,190
+and phosphate, that
+a decrease in pH will
+
+348
+00:25:16,370 --> 00:25:21,450
+inactivate some of the sodium
+phosphate co-transporters,
+
+349
+00:25:21,450 --> 00:25:32,410
+and you have less absorption
+of H2PO4 and HPO4.
+
+350
+00:25:32,560 --> 00:25:38,470
+So in this case, what you
+end up having is, again,
+
+351
+00:25:38,470 --> 00:25:45,230
+by virtue of the activity
+of carbonic anhydrase, you
+
+352
+00:25:45,230 --> 00:25:49,170
+get de novo formation of
+bicarb. The proton is then
+
+353
+00:25:49,170 --> 00:25:55,650
+released back into the
+lumen where it will bind to
+
+354
+00:25:55,650 --> 00:26:03,390
+HbO4 to H2, you know, to
+dihydrogen phosphate. And
+
+355
+00:26:06,300 --> 00:26:10,510
+you may lose this in
+the urine because the
+
+356
+00:26:10,510 --> 00:26:16,490
+increase in pH is
+inhibiting its reabsorption,
+
+357
+00:26:16,490 --> 00:26:19,050
+but because you have
+a de novo formation
+
+358
+00:26:19,050 --> 00:26:23,710
+of bicarb, you can
+balance out the loss.
+
+359
+00:26:23,830 --> 00:26:27,030
+And this contributes to
+net acid excretion on
+
+360
+00:26:27,030 --> 00:26:31,470
+three factors. So obviously,
+the amount you have
+
+361
+00:26:32,010 --> 00:26:34,330
+in your filtrate
+in the urine, the
+
+362
+00:26:34,330 --> 00:26:38,730
+filtered load of
+monohydrogen phosphate.
+
+363
+00:26:39,010 --> 00:26:44,630
+The PK is very important.
+So to be effective,
+
+364
+00:26:44,630 --> 00:26:47,140
+these buffers have
+to have a certain pK
+
+365
+00:26:47,140 --> 00:26:51,530
+that's between the pH
+of the filtrate and
+
+366
+00:26:51,530 --> 00:26:54,950
+the pH of the urine,
+and almost all these
+
+367
+00:26:56,870 --> 00:27:01,110
+non-HCO buffers have
+that as a chemical
+
+368
+00:27:03,590 --> 00:27:06,470
+characteristic, and
+obviously the most important
+
+369
+00:27:06,470 --> 00:27:09,350
+one, a contribution
+to net acid is the
+
+370
+00:27:09,350 --> 00:27:12,710
+pH of the urine. So the
+lower the urinary pH,
+
+371
+00:27:13,050 --> 00:27:16,210
+the more protonated
+the buffer, the greater
+
+372
+00:27:16,210 --> 00:27:19,010
+amount of acid that's
+excreted with the
+
+373
+00:27:19,010 --> 00:27:21,670
+buffer, and the greatest
+amounts of bicarb
+
+374
+00:27:21,670 --> 00:27:24,570
+that can be reabsorbed
+back into the body.
+
+375
+00:27:26,310 --> 00:27:30,710
+So the other important
+one is the third class
+
+376
+00:27:30,710 --> 00:27:37,470
+of acceptors for luminal
+protons is ammonia
+
+377
+00:27:37,470 --> 00:27:44,890
+and we have very little
+ammonia filtration.
+
+378
+00:27:45,270 --> 00:27:47,470
+Why? Because we have
+very little ammonia.
+
+379
+00:27:48,170 --> 00:27:51,080
+Plasma ammonia
+concentrations are
+
+380
+00:27:51,080 --> 00:27:53,510
+exceptionally low. If
+you have detectable
+
+381
+00:27:53,510 --> 00:27:55,290
+plasma ammonia,
+you have issues.
+
+382
+00:27:55,570 --> 00:28:04,510
+So the process of
+ammonia, ammonium ion, is
+
+383
+00:28:04,510 --> 00:28:10,910
+the result of five
+processes. One secrete, the
+
+384
+00:28:10,910 --> 00:28:14,690
+proximal convoluted tubules
+secrete 40 millimoles
+
+385
+00:28:14,690 --> 00:28:18,890
+of ammonium ion into
+the tubular lumen.
+
+386
+00:28:20,550 --> 00:28:26,050
+Then the tau reabsorbs
+this ammonia and deposits
+
+387
+00:28:26,050 --> 00:28:28,950
+it into the interstitium.
+So here we have that,
+
+388
+00:28:28,950 --> 00:28:33,840
+right? So ammonia will
+go in and then get
+
+389
+00:28:35,780 --> 00:28:41,710
+reabsorbed into the
+interstitium. Now, I want you
+
+390
+00:28:41,710 --> 00:28:44,890
+to look at this two
+-dimensional representation
+
+391
+00:28:44,890 --> 00:28:51,050
+of the nephron, put a
+hinge right over here at
+
+392
+00:28:51,050 --> 00:28:57,390
+the base, and then turn
+this area of the nephron
+
+393
+00:29:00,330 --> 00:29:07,690
+90 degrees, so the glomeruli
+is facing you. Then
+
+394
+00:29:07,690 --> 00:29:10,370
+you can see the
+proximity of the proximal
+
+395
+00:29:10,370 --> 00:29:14,510
+convoluted tubule to the
+tau and their interstitium,
+
+396
+00:29:14,510 --> 00:29:20,410
+how it can be connected.
+So any reabsorption
+
+397
+00:29:21,350 --> 00:29:28,930
+of tau into the
+interstitium results in the
+
+398
+00:29:28,930 --> 00:29:33,210
+secretion of that ammonia
+into the thin descending
+
+399
+00:29:33,210 --> 00:29:37,610
+limbs, some of it,
+obviously not all of it.
+
+400
+00:29:38,480 --> 00:29:41,900
+The rest of it is still
+in the interstitium,
+
+401
+00:29:41,900 --> 00:29:48,830
+will get secreted into
+the collecting duct, and
+
+402
+00:29:48,890 --> 00:29:53,610
+there it can, in the
+interstitium, also get reabsorbed
+
+403
+00:29:53,610 --> 00:29:56,790
+back into the vasorecta,
+and the vasorecta will take
+
+404
+00:29:56,790 --> 00:30:01,430
+that ammonia away from
+the nephron to the general
+
+405
+00:30:01,430 --> 00:30:04,710
+circulation for it to go
+into the liver and get
+
+406
+00:30:04,710 --> 00:30:08,090
+detoxified. And then you get rid
+of anything that was secreted
+
+407
+00:30:08,090 --> 00:30:10,770
+back into the collecting
+duct through the urine.
+
+408
+00:30:17,650 --> 00:30:20,050
+So a couple of things,
+
+409
+00:30:20,050 --> 00:30:23,290
+apical membrane of the
+towel has got very low
+
+410
+00:30:23,290 --> 00:30:26,510
+ammonia permeability.
+So how does it get into
+
+411
+00:30:26,510 --> 00:30:30,890
+the cell? It does so by
+jumping onto existing
+
+412
+00:30:33,280 --> 00:30:35,270
+transporters, which
+you should be familiar
+
+413
+00:30:35,270 --> 00:30:39,110
+with by now a little bit,
+it starts kicking out
+
+414
+00:30:39,110 --> 00:30:44,990
+potassium and jumping
+in and taking potassium
+
+415
+00:30:45,380 --> 00:30:51,610
+and getting back into
+the cell via the sodium
+
+416
+00:30:52,790 --> 00:30:57,270
+potassium two chloride
+co-transporter. It also
+
+417
+00:30:57,270 --> 00:31:02,270
+will use the ROMK channel
+and kind of jump into,
+
+418
+00:31:02,670 --> 00:31:04,330
+you know, going
+through the membrane,
+
+419
+00:31:04,330 --> 00:31:06,810
+into the kidney through
+the ROMK channel.
+
+420
+00:31:07,030 --> 00:31:10,850
+What happens there? It'll
+divide, it'll dissociate
+
+421
+00:31:10,850 --> 00:31:15,490
+into ammonium and then
+protons. The protons
+
+422
+00:31:15,490 --> 00:31:20,710
+will then interact
+with the reabsorbed
+
+423
+00:31:20,710 --> 00:31:25,310
+bicarbonate to give you
+carbonic acid, and we know
+
+424
+00:31:25,310 --> 00:31:28,790
+what happens to that.
+And then the ammonia is
+
+425
+00:31:30,070 --> 00:31:32,530
+reabsorbed back into
+the interstitium
+
+426
+00:31:32,530 --> 00:31:35,210
+through some unknown mechanism.
+
+427
+00:31:38,350 --> 00:31:43,850
+About the medullary collecting
+duct, medullary collecting
+
+428
+00:31:43,850 --> 00:31:48,910
+duct, again, this is the
+area that we're thinking
+
+429
+00:31:48,910 --> 00:31:51,130
+about, right? It's supposed
+to go from the interstitial
+
+430
+00:31:51,170 --> 00:31:56,190
+into the tubule, and
+it does so by these two
+
+431
+00:31:56,190 --> 00:32:00,270
+transporters called gas
+channels, and these gas channels
+
+432
+00:32:00,270 --> 00:32:12,050
+transport ammonium into the
+cytosol. If you have any,
+
+433
+00:32:12,170 --> 00:32:16,490
+you know, there either
+it'll get transported into
+
+434
+00:32:16,490 --> 00:32:20,000
+the lumen by another gas
+channel at the apical,
+
+435
+00:32:20,000 --> 00:32:23,970
+or if there's any de novo
+ammonia production in
+
+436
+00:32:23,970 --> 00:32:27,870
+these cells, they just
+dissociate and the proton
+
+437
+00:32:27,870 --> 00:32:34,670
+gets excreted, while
+the NH3 is also removed.
+
+438
+00:32:36,130 --> 00:32:39,630
+And basically what
+you're doing is
+
+439
+00:32:39,630 --> 00:32:41,710
+you are trying to
+get rid of ammonia.
+
+440
+00:32:42,150 --> 00:32:46,950
+So you're losing it by
+diffusion into the lumen.
+
+441
+00:32:46,950 --> 00:32:52,010
+So you're trying to
+minimize the entry of toxic,
+
+442
+00:32:52,030 --> 00:32:55,550
+of a toxic proton, but
+anything that comes back
+
+443
+00:32:55,550 --> 00:33:00,930
+is very, very quickly
+detoxified by the liver.
+
+444
+00:33:01,530 --> 00:33:06,390
+So in a steady state,
+you have some buildup of
+
+445
+00:33:06,890 --> 00:33:11,210
+NH4 of ammonium ion in
+the medulla, And that
+
+446
+00:33:11,210 --> 00:33:17,790
+actually plays a role in
+ability to urine to concentrate.
+
+447
+00:33:17,790 --> 00:33:19,720
+We'll talk about that
+in the next lecture.
+
+448
+00:33:23,150 --> 00:33:24,350
+Excuse me.
+
+449
+00:33:25,370 --> 00:33:29,030
+So how do we regulate renal
+acid secretion? Well, we
+
+450
+00:33:29,030 --> 00:33:36,090
+have four major pH
+disturbances in our body and a
+
+451
+00:33:36,090 --> 00:33:39,890
+variety of physiological,
+pathophysiological, pharmacological
+
+452
+00:33:39,890 --> 00:33:44,960
+stimuli can modulate
+renal protons and amino
+
+453
+00:33:44,960 --> 00:33:49,890
+secretion and synthesis.
+So I like these graphs. It
+
+454
+00:33:49,890 --> 00:33:56,910
+shows you our acid base
+and what we can see just by
+
+455
+00:33:56,910 --> 00:34:01,590
+basic laboratory values.
+So again, this is where we
+
+456
+00:34:01,590 --> 00:34:03,630
+want to be. that's the sweet
+spot. We want to be at a
+
+457
+00:34:03,630 --> 00:34:07,790
+pH of 7.4. So if your
+respiratory acidosis is when
+
+458
+00:34:07,790 --> 00:34:13,550
+we have a low pH and high
+bicarbonate, metabolic
+
+459
+00:34:13,550 --> 00:34:21,990
+acidosis is low pH, low
+bicarbonate, and then you have a
+
+460
+00:34:21,990 --> 00:34:25,570
+metabolic alkalosis, just
+right on the blue curve
+
+461
+00:34:25,570 --> 00:34:31,010
+here, where you have a higher
+pH and elevated bicarb.
+
+462
+00:34:31,010 --> 00:34:33,870
+And the exact opposite of
+that for respiratory alkalosis
+
+463
+00:34:33,870 --> 00:34:38,410
+is where you have higher
+pH and lower bicarbonate.
+
+464
+00:34:38,410 --> 00:34:43,750
+And again, your body will
+want to bring this back
+
+465
+00:34:44,890 --> 00:34:49,390
+from the anomalous pH
+back to this dotted
+
+466
+00:34:49,390 --> 00:34:52,350
+line, back to the sweet
+spot. You want to be
+
+467
+00:34:52,350 --> 00:34:55,890
+back at 7.4, regardless
+of anything else.
+
+468
+00:34:56,190 --> 00:34:59,450
+So we have four fundamental
+ones. We just talked
+
+469
+00:34:59,450 --> 00:35:02,510
+about that. Initial
+line of defense is to
+
+470
+00:35:02,510 --> 00:35:05,410
+minimize the magnitude
+of the change in pH. You
+
+471
+00:35:05,410 --> 00:35:07,570
+want to bring it back
+as quickly as possible.
+
+472
+00:35:09,110 --> 00:35:13,050
+And you get compensation from
+
+473
+00:35:13,050 --> 00:35:14,950
+both the lungs and the kidneys,
+
+474
+00:35:15,130 --> 00:35:18,050
+or the kidneys, not
+necessarily both at the same
+
+475
+00:35:18,050 --> 00:35:21,170
+time. So let's talk about
+respiratory acidosis.
+
+476
+00:35:21,170 --> 00:35:24,470
+So respiratory acidosis is
+when you have the primary
+
+477
+00:35:24,470 --> 00:35:27,550
+disturbance is when
+you have an increase in
+
+478
+00:35:27,550 --> 00:35:34,070
+arterial, arterial PCA,
+CO2, and an increase in
+
+479
+00:35:34,070 --> 00:35:39,190
+carbon dioxide concentration
+in your arterial blood,
+
+480
+00:35:39,190 --> 00:35:42,330
+not near venous blood,
+in your arterial blood.
+
+481
+00:35:42,790 --> 00:35:46,270
+um if you go back to
+that crazy wild picture
+
+482
+00:35:46,270 --> 00:35:48,470
+i have you can see the
+difference i have the
+
+483
+00:35:48,470 --> 00:35:51,910
+av differences in in
+it so you can see how
+
+484
+00:35:51,910 --> 00:35:55,590
+there is really big
+differences so in this case
+
+485
+00:35:55,860 --> 00:35:58,890
+um what we want to
+do we want to get rid
+
+486
+00:35:58,890 --> 00:36:01,380
+of acid right because
+we have acidosis
+
+487
+00:36:01,610 --> 00:36:06,550
+so our compensatory
+response is the production
+
+488
+00:36:06,550 --> 00:36:12,770
+of de novo bicarbonate
+via excretion of ammonia.
+
+489
+00:36:13,070 --> 00:36:17,310
+And that brings us back closer
+
+490
+00:36:17,310 --> 00:36:22,670
+to the sweet spot,
+our ideal pH,
+
+491
+00:36:22,750 --> 00:36:25,230
+but not all the way
+there. So this is
+
+492
+00:36:25,230 --> 00:36:27,190
+acute compensation.
+You don't get all the
+
+493
+00:36:27,190 --> 00:36:29,490
+way there, but you
+will eventually want to
+
+494
+00:36:29,490 --> 00:36:33,390
+get there. So the
+exact opposite happens
+
+495
+00:36:33,870 --> 00:36:36,430
+for respiratory
+alkalosis, right? It
+
+496
+00:36:36,430 --> 00:36:39,710
+goes down and then
+you want to change.
+
+497
+00:36:40,310 --> 00:36:42,630
+You are too basic, so you
+
+498
+00:36:42,630 --> 00:36:45,030
+want to gain acidity, right?
+
+499
+00:36:45,390 --> 00:36:53,170
+To bring it back to
+pH 7.4. So there is an
+
+500
+00:36:53,170 --> 00:36:55,110
+acute process, brings
+you sort of the way
+
+501
+00:36:55,110 --> 00:36:57,750
+back, and then you have
+chronic compensation.
+
+502
+00:36:58,810 --> 00:37:01,050
+And that chronic
+constant, you know,
+
+503
+00:37:01,050 --> 00:37:03,370
+takes a little bit
+longer, and it does
+
+504
+00:37:03,370 --> 00:37:06,030
+so in three ways,
+right? You, one is
+
+505
+00:37:07,250 --> 00:37:10,390
+you, in proximal tubules,
+
+506
+00:37:10,950 --> 00:37:15,590
+initially you have an
+increase in, the increase in
+
+507
+00:37:15,590 --> 00:37:19,550
+PCO2 will lead to an
+insertion of proton pumps into
+
+508
+00:37:19,550 --> 00:37:22,790
+the apical membrane, and
+you start secreting acid.
+
+509
+00:37:23,070 --> 00:37:28,250
+Distal tubule, acute
+respiratory acidosis, same
+
+510
+00:37:28,250 --> 00:37:32,430
+process. You get hydrogen
+pumps into the apical, you
+
+511
+00:37:32,430 --> 00:37:36,370
+start pumping acid into
+the lumen, right? You have
+
+512
+00:37:36,370 --> 00:37:38,890
+acidosis, you want to get
+rid of it. That's acute.
+
+513
+00:37:39,570 --> 00:37:44,350
+But chronic, you start
+bringing in other players. You
+
+514
+00:37:44,350 --> 00:37:47,530
+start upregulating the
+activity of the sodium proton
+
+515
+00:37:47,530 --> 00:37:52,290
+exchanger on both the
+apical and basolateral sides
+
+516
+00:37:52,290 --> 00:37:58,170
+and the bicarb exchange co
+-transporter in the proximal
+
+517
+00:37:58,170 --> 00:38:01,820
+tubule. That takes longer,
+right? Chronic, the
+
+518
+00:38:01,820 --> 00:38:04,430
+upregulation of the activities,
+you need more of them
+
+519
+00:38:04,430 --> 00:38:07,720
+and you need more than the
+number and whatever regulatory
+
+520
+00:38:10,810 --> 00:38:15,010
+chemical processes that
+act on these to increase
+
+521
+00:38:15,010 --> 00:38:18,520
+their activity, any kind
+of phosphorylation or
+
+522
+00:38:20,200 --> 00:38:26,190
+transmembrane or membrane
+changes, whatever it is, it
+
+523
+00:38:26,190 --> 00:38:30,910
+takes longer than the immediate
+one as a way to compensate
+
+524
+00:38:30,910 --> 00:38:35,530
+for chronic compensation.
+Now you can see like in
+
+525
+00:38:35,530 --> 00:38:42,570
+the inset and see in
+chronic compensation that by
+
+526
+00:38:42,570 --> 00:38:45,930
+doing that, you bring it
+back to 7.3, even though you
+
+527
+00:38:45,930 --> 00:38:49,530
+have elevated bicarbonate.
+That's not as important.
+
+528
+00:38:49,910 --> 00:38:52,320
+What about metabolic acidosis
+
+529
+00:38:52,320 --> 00:38:54,500
+in this case, right, acutely?
+
+530
+00:38:55,430 --> 00:39:01,930
+It stimulates both acid
+secretion and ammonia production.
+
+531
+00:39:01,930 --> 00:39:07,970
+Our first step for acute
+metabolic acidosis is a
+
+532
+00:39:07,970 --> 00:39:10,950
+pulmonary compensation. And
+what you do that is you start
+
+533
+00:39:10,950 --> 00:39:13,190
+breathing, hyperventilating,
+increasing alveolar
+
+534
+00:39:13,190 --> 00:39:16,610
+ventilation. The more you
+hyperventilate, the more carbon
+
+535
+00:39:16,610 --> 00:39:21,410
+dioxide you expire and
+that actually corrects the
+
+536
+00:39:21,410 --> 00:39:30,770
+ratio. And then in the kidney,
+you have decreases in bicarb,
+
+537
+00:39:30,770 --> 00:39:34,610
+and there you have more H
+-secretion into the lumen.
+
+538
+00:39:34,610 --> 00:39:37,070
+Again, the more you have
+H-secretion, the more acid
+
+539
+00:39:37,070 --> 00:39:41,930
+you lose, the faster you can
+correct the change in pH.
+
+540
+00:39:41,930 --> 00:39:46,510
+It also occurs in
+distal tubules in the
+
+541
+00:39:46,510 --> 00:39:49,010
+intercalated cells.
+There you have the
+
+542
+00:39:49,170 --> 00:39:51,430
+hydrogen pump, the
+hydrogen ATPase
+
+543
+00:39:51,430 --> 00:39:53,830
+insertion into the
+apical membranes.
+
+544
+00:39:54,550 --> 00:39:57,570
+Chronic metabolic acidosis,
+the responses in the
+
+545
+00:39:57,570 --> 00:40:01,890
+proximal tubule is the same as
+chronic respiratory acidosis,
+
+546
+00:40:01,890 --> 00:40:04,830
+right? So it's basically
+related right up here.
+
+547
+00:40:05,430 --> 00:40:06,050
+Oops,
+
+548
+00:40:07,170 --> 00:40:09,730
+that was horrible. I'm
+sorry. I'm doing the
+
+549
+00:40:09,730 --> 00:40:11,770
+mouse, this is not a pen,
+so you have to forgive
+
+550
+00:40:11,770 --> 00:40:13,830
+me when I spazz out
+like that. The mouse
+
+551
+00:40:13,830 --> 00:40:15,690
+doesn't really work
+that way. Another very
+
+552
+00:40:15,690 --> 00:40:18,750
+important one, its
+effects on sodium citrate.
+
+553
+00:40:19,030 --> 00:40:23,450
+And what happens in this
+case, you have an increase
+
+554
+00:40:23,450 --> 00:40:26,710
+in sodium citrate uptake,
+and then the citrate gets
+
+555
+00:40:26,710 --> 00:40:31,370
+metabolized, and then the
+increased metabolism of citrate
+
+556
+00:40:31,370 --> 00:40:33,850
+gives you bicarb, right?
+This is what you want. You
+
+557
+00:40:33,850 --> 00:40:38,310
+want more bicarb to compensate.
+However, this loss of
+
+558
+00:40:38,310 --> 00:40:41,930
+citrate, this decrease
+and citrate in the plasma,
+
+559
+00:40:41,930 --> 00:40:48,250
+citrate is bound, binds to
+calcium in extracellular fluid.
+
+560
+00:40:48,250 --> 00:40:51,450
+So the less citrate you
+have, the more free calcium
+
+561
+00:40:51,450 --> 00:40:55,490
+you have. The more free
+calcium you have, you'll get
+
+562
+00:40:55,490 --> 00:41:00,510
+calciuria, and then you'll
+get renal calcium stones.
+
+563
+00:41:00,710 --> 00:41:04,670
+And that's something that
+does happen in chronic
+
+564
+00:41:04,670 --> 00:41:09,310
+metabolic acidosis. You get
+renal calcium stone formation.
+
+565
+00:41:09,310 --> 00:41:12,310
+And the other compensatory
+response is an increase
+
+566
+00:41:12,310 --> 00:41:16,650
+in ammonium ion excretion.
+You get rid of the extra
+
+567
+00:41:17,040 --> 00:41:20,950
+proton by binding it to
+ammonia and getting rid of it.
+
+568
+00:41:23,650 --> 00:41:31,390
+Metabolic alkalosis, you get
+
+569
+00:41:31,390 --> 00:41:35,490
+more bicarb in
+the plasma, right?
+
+570
+00:41:36,350 --> 00:41:39,930
+So more bicarb in plasma,
+
+571
+00:41:40,130 --> 00:41:44,630
+less acid in the plasma,
+and therefore you
+
+572
+00:41:44,630 --> 00:41:49,150
+have less proton efflux
+in the proximal tubule.
+
+573
+00:41:49,150 --> 00:41:52,130
+So what we do is we
+switch from luminal
+
+574
+00:41:52,510 --> 00:41:56,410
+proton secretion to bicarb
+secretion. You want to get
+
+575
+00:41:56,410 --> 00:42:02,200
+rid of more bicarb. So
+apical pump and basolateral
+
+576
+00:42:02,200 --> 00:42:07,990
+chloride bicarb exchanger
+insertion into the apical
+
+577
+00:42:07,990 --> 00:42:12,510
+membranes to get rid of bicarb,
+because you kind of want to
+
+578
+00:42:12,510 --> 00:42:15,100
+get rid of all the extra
+stuff that's in the plasma.
+
+579
+00:42:15,190 --> 00:42:19,010
+In the beta-intercalated
+cells, well, a couple of
+
+580
+00:42:19,010 --> 00:42:23,050
+things. One, you get an increase
+in the proportion of the
+
+581
+00:42:23,050 --> 00:42:26,410
+beta-intercalated cells from
+alpha-intercalated cells,
+
+582
+00:42:26,410 --> 00:42:31,130
+and they have the opposite
+apical basolateral distribution
+
+583
+00:42:31,130 --> 00:42:36,490
+of proton pumps and
+chloride bicarb exchangers.
+
+584
+00:42:36,790 --> 00:42:39,620
+what you end up doing is
+getting more bicarbonate
+
+585
+00:42:39,620 --> 00:42:41,830
+lumen. You have more
+bicarbonate lumen,
+
+586
+00:42:41,830 --> 00:42:44,770
+you urinate and you get
+rid of it, and therefore
+
+587
+00:42:44,770 --> 00:42:49,130
+you can control the
+metabolic alkalosis.
+
+588
+00:42:50,350 --> 00:43:00,670
+Here is a table of the
+associated acid-base disorders
+
+589
+00:43:00,670 --> 00:43:04,070
+compared to normal and
+some of our compensation.
+
+590
+00:43:04,150 --> 00:43:07,650
+This will make more sense
+to you once you finish
+
+591
+00:43:07,990 --> 00:43:09,690
+the pulmonary section.
+
+592
+00:43:15,150 --> 00:43:18,930
+You can put it all
+together a lot easier.
+
+593
+00:43:19,730 --> 00:43:25,790
+So how is renal acid
+secretion regulated? Well,
+
+594
+00:43:25,790 --> 00:43:28,290
+we have a lot of variables
+that can affect renal
+
+595
+00:43:28,290 --> 00:43:30,810
+acid secretion. We'll go
+through them one by one.
+
+596
+00:43:30,950 --> 00:43:33,790
+So we'll start off by GFR.
+
+597
+00:43:34,070 --> 00:43:35,270
+Really simple.
+
+598
+00:43:35,390 --> 00:43:40,310
+GFR is very important. So
+if you increase GFR, you
+
+599
+00:43:40,310 --> 00:43:44,770
+increase bicarb delivery, and
+by increasing bicarb delivery,
+
+600
+00:43:44,770 --> 00:43:48,190
+you enhance reabsorption.
+And it's very similar to
+
+601
+00:43:48,190 --> 00:43:51,490
+sodium balance. I think I've
+shown this craft before.
+
+602
+00:43:51,850 --> 00:43:56,990
+If you just remove the
+sodium and it's the bicarb
+
+603
+00:43:56,990 --> 00:44:01,170
+relationship to filtered
+bicarb and reabsorbed bicarb
+
+604
+00:44:01,170 --> 00:44:05,030
+is identical to filtered
+sodium. So this relationship
+
+605
+00:44:05,030 --> 00:44:08,730
+stays the same. The numbers
+may change, you know,
+
+606
+00:44:08,730 --> 00:44:11,450
+but again it's the
+relationship that's important.
+
+607
+00:44:12,090 --> 00:44:14,350
+So if you have increased bicarb
+
+608
+00:44:14,350 --> 00:44:16,390
+delivery to the lumen, right,
+
+609
+00:44:16,510 --> 00:44:19,390
+so the pH in the lumen
+goes up and that will
+
+610
+00:44:19,390 --> 00:44:23,780
+cause an increase in
+the sodium hydrogen
+
+611
+00:44:23,780 --> 00:44:26,770
+exchanger and hydrogen
+pumps in the proximal
+
+612
+00:44:26,770 --> 00:44:31,210
+tubule, which all will
+enhance proton secretion.
+
+613
+00:44:31,870 --> 00:44:35,510
+You increase glomerular
+filtration rate, you're
+
+614
+00:44:35,510 --> 00:44:39,190
+increasing flow, right,
+because you're not singularly
+
+615
+00:44:39,190 --> 00:44:41,410
+just increasing, you're
+increasing everything.
+
+616
+00:44:42,010 --> 00:44:48,290
+This flow can actually
+act on a part of
+
+617
+00:44:48,290 --> 00:44:51,070
+the proximal tubule.
+These are an EM of
+
+618
+00:44:51,070 --> 00:44:52,570
+proximal tube. You can
+see the brush border,
+
+619
+00:44:52,570 --> 00:44:56,150
+and they all have
+this central cilium,
+
+620
+00:44:56,450 --> 00:44:59,010
+right? You can see one
+here. You can see another
+
+621
+00:44:59,010 --> 00:45:01,810
+one here. You can see
+a third one here. Every
+
+622
+00:45:01,810 --> 00:45:05,250
+proximal tubular cell facing
+the lumen has got this
+
+623
+00:45:05,250 --> 00:45:08,070
+one little guy sticking
+out, and that central
+
+624
+00:45:08,070 --> 00:45:12,550
+cilium is a mechanotransducer.
+So the more flow
+
+625
+00:45:12,550 --> 00:45:16,630
+you have, the more bending
+you'll have on this
+
+626
+00:45:16,630 --> 00:45:19,790
+cilium. And the more the
+cilium bends, right, like
+
+627
+00:45:19,790 --> 00:45:23,550
+it's basically like a
+wind vein, the greater the
+
+628
+00:45:23,550 --> 00:45:26,390
+signal to increase the
+reabsorption of solutes.
+
+629
+00:45:26,650 --> 00:45:29,990
+And this glomerular
+tubular balance is
+
+630
+00:45:29,990 --> 00:45:32,450
+very important because
+it will minimize
+
+631
+00:45:32,450 --> 00:45:37,990
+bicarb loss. So
+the counter to that
+
+632
+00:45:38,350 --> 00:45:43,730
+is if you have too high
+of a GFR, you can start
+
+633
+00:45:43,730 --> 00:45:49,530
+losing a lot of bicarb
+and you can get metabolic
+
+634
+00:45:50,750 --> 00:45:56,910
+acidosis. So luminary
+tubular balance
+
+635
+00:45:56,910 --> 00:46:00,630
+of bicarb reabsorption prevents
+
+636
+00:46:00,630 --> 00:46:03,990
+metabolic alkalosis
+when GFR decreases.
+
+637
+00:46:05,150 --> 00:46:09,430
+So this actually becomes
+more of a problem, especially
+
+638
+00:46:09,430 --> 00:46:12,310
+if you have the surgical
+removal of a kidney.
+
+639
+00:46:12,460 --> 00:46:16,650
+If you have a unifectomy,
+that flow has got to
+
+640
+00:46:16,650 --> 00:46:19,830
+go somewhere, so the flow
+increases in the contralateral
+
+641
+00:46:19,830 --> 00:46:22,370
+kidney, and that will
+cause an increase in
+
+642
+00:46:22,370 --> 00:46:24,790
+the GFR in the remnant
+kidney to kind of take it
+
+643
+00:46:24,790 --> 00:46:28,750
+up in response to the loss
+of your renal tissues.
+
+644
+00:46:30,490 --> 00:46:33,670
+Another big regulator
+of renal acid
+
+645
+00:46:33,670 --> 00:46:36,790
+secretion is
+volume contraction.
+
+646
+00:46:43,450 --> 00:46:46,830
+So if you have a decrease in
+exocellular volume, you'll
+
+647
+00:46:46,830 --> 00:46:49,770
+have an increase in
+renin and angiotensin and
+
+648
+00:46:49,770 --> 00:46:52,990
+sympathetic nervous system
+activity. That is a consequence
+
+649
+00:46:53,280 --> 00:46:56,330
+of the relationship between
+volume and pressure. You
+
+650
+00:46:56,330 --> 00:46:58,770
+have a decrease in blood
+pressure. You have a decrease
+
+651
+00:46:58,770 --> 00:47:03,330
+in blood volume. In almost
+all cases, you'll have
+
+652
+00:47:03,330 --> 00:47:06,630
+a decrease in blood pressure.
+That decrease in blood
+
+653
+00:47:06,630 --> 00:47:08,750
+pressure will activate these
+systems, so you'll have
+
+654
+00:47:08,750 --> 00:47:11,790
+an increase in norepinephrine
+and an increase in
+
+655
+00:47:11,790 --> 00:47:19,570
+angiotensin 2 and aldosterone.
+And both in the proximal
+
+656
+00:47:19,570 --> 00:47:22,950
+tubule, angiotensin 2 and
+norepinephrine stimulate sodium
+
+657
+00:47:22,950 --> 00:47:27,270
+hydrogen exchanger and
+enhance sodium reabsorption
+
+658
+00:47:27,270 --> 00:47:31,910
+and H-secretion. Why is
+the sodium reabsorption
+
+659
+00:47:31,910 --> 00:47:36,710
+important? Well, the body
+looks, if you're losing volume,
+
+660
+00:47:36,950 --> 00:47:40,570
+the body wants to save
+volume. By reabsorbing sodium,
+
+661
+00:47:40,650 --> 00:47:43,310
+what you end up doing
+is also water comes
+
+662
+00:47:43,310 --> 00:47:45,970
+along with it, so increasing
+sodium in water is
+
+663
+00:47:45,970 --> 00:47:48,870
+a way to compensate
+for the loss of volume.
+
+664
+00:47:49,210 --> 00:47:53,710
+In the distal tubule,
+angiotensin 2 stimulates acid
+
+665
+00:47:53,710 --> 00:47:57,770
+secretion by alpha-intercalated
+cells, and when you have
+
+666
+00:47:57,770 --> 00:48:02,190
+chronic volume depletion,
+longer term, you start getting
+
+667
+00:48:02,190 --> 00:48:04,970
+the production of
+aldosterone, and aldosterone
+
+668
+00:48:04,970 --> 00:48:09,850
+enhances proton secretion in
+both cortical and medullary
+
+669
+00:48:09,850 --> 00:48:15,630
+ducts, but that is associated
+in changes in potassium.
+
+670
+00:48:16,110 --> 00:48:17,890
+How about volume expansion
+
+671
+00:48:17,890 --> 00:48:20,050
+with the exact opposite? Yes,
+
+672
+00:48:20,450 --> 00:48:23,510
+the exact opposite happens.
+Instead of having an
+
+673
+00:48:23,510 --> 00:48:26,910
+increase in renin and angiotensin
+activity, you'll remove
+
+674
+00:48:26,910 --> 00:48:30,970
+all the renal angiotensin,
+and you minimize the
+
+675
+00:48:30,970 --> 00:48:35,310
+activities, and then you'll
+have renal proton retention.
+
+676
+00:48:37,170 --> 00:48:44,450
+In this context of contraction
+and volume expansion,
+
+677
+00:48:45,480 --> 00:48:48,010
+the body takes precedence in
+
+678
+00:48:48,010 --> 00:48:51,950
+maintaining volume
+and pressure over pH.
+
+679
+00:48:52,970 --> 00:48:56,110
+That's more, you know,
+think about the, you know,
+
+680
+00:48:56,110 --> 00:48:59,410
+you'll talk about more
+of the of the need for
+
+681
+00:48:59,410 --> 00:49:02,630
+appropriate perfusion and any
+kind of a loss in contraction,
+
+682
+00:49:02,630 --> 00:49:06,410
+you have a loss in
+perfusion. pH balance is
+
+683
+00:49:06,410 --> 00:49:08,490
+the least thing you should
+worry about. You start
+
+684
+00:49:08,490 --> 00:49:14,790
+worrying about renal failure,
+obviously too much anoxia,
+
+685
+00:49:14,790 --> 00:49:19,150
+you'll have damage to
+anoxia or any kind of a
+
+686
+00:49:19,150 --> 00:49:21,230
+lack of flow, you'll have
+damage to your central
+
+687
+00:49:21,230 --> 00:49:25,970
+nervous system, your GI
+tract, the barrierification
+
+688
+00:49:25,970 --> 00:49:30,050
+of the GI tract is very
+sensitive to changes in flow.
+
+689
+00:49:30,050 --> 00:49:33,100
+So any kind of a decrease
+in flow can cause the
+
+690
+00:49:33,150 --> 00:49:36,310
+decrease in barrierification
+of your GI tract. So
+
+691
+00:49:36,310 --> 00:49:39,190
+the whole point is to
+maintain the volume regardless
+
+692
+00:49:39,190 --> 00:49:44,950
+of anything else. So as
+a way of prioritizing it,
+
+693
+00:49:44,950 --> 00:49:46,810
+so this is the
+first thing that the
+
+694
+00:49:46,810 --> 00:49:50,250
+body would think of
+is volume over pH.
+
+695
+00:49:52,870 --> 00:49:57,910
+So hypokalemia is plasma
+potassium levels. We talked
+
+696
+00:49:57,910 --> 00:50:03,010
+about that in our lecture
+on potassium, calcium,
+
+697
+00:50:03,210 --> 00:50:06,590
+magnesium, and phosphate,
+right? So hypokalemia
+
+698
+00:50:06,590 --> 00:50:10,550
+can increase renal
+proton secretion, lead
+
+699
+00:50:10,550 --> 00:50:14,090
+to metabolic acidosis,
+alkalosis, excuse me.
+
+700
+00:50:14,390 --> 00:50:19,750
+And then again, chronically
+in proximal tubule, you'll
+
+701
+00:50:19,750 --> 00:50:22,390
+have an increase in the
+sodium proton exchanger
+
+702
+00:50:22,390 --> 00:50:27,850
+and the sodium bicarbonate
+co-transporter. Your urinary
+
+703
+00:50:27,850 --> 00:50:33,250
+pH will decrease and you
+will lose acid, right?
+
+704
+00:50:33,250 --> 00:50:37,750
+So you get metabolic
+alkalosis. And also potassium
+
+705
+00:50:37,750 --> 00:50:41,890
+depletion can lead to an
+increase in ammonia synthesis,
+
+706
+00:50:41,890 --> 00:50:45,620
+and ammonium ion excretion,
+all of them will give you a
+
+707
+00:50:45,620 --> 00:50:49,780
+loss of protons to give
+you a metabolic alkalosis,
+
+708
+00:50:49,780 --> 00:50:54,820
+including what happens in
+the collecting duct. And
+
+709
+00:50:54,820 --> 00:50:57,810
+hyperkalemia does the exact
+opposite, like we talked about
+
+710
+00:50:57,810 --> 00:51:01,490
+that before, often associated
+with metabolic acidosis.
+
+711
+00:51:03,330 --> 00:51:06,690
+And an increase in
+proximal tubule, in the
+
+712
+00:51:06,690 --> 00:51:08,870
+proximal tubule, an
+increase in the pH,
+
+713
+00:51:08,980 --> 00:51:11,690
+you lower the ammonia
+synthesis, you
+
+714
+00:51:11,690 --> 00:51:14,150
+reduce the excretion
+of ammonium ion.
+
+715
+00:51:16,800 --> 00:51:21,930
+Then you'll have, you can
+have competition with any
+
+716
+00:51:21,930 --> 00:51:29,350
+ammonia in the lumen by
+10KCC and ROMK, and that'll
+
+717
+00:51:29,350 --> 00:51:33,190
+decrease ammonium ion
+reabsorption. That'll decrease
+
+718
+00:51:33,190 --> 00:51:36,810
+ammonia in the medullary
+interstitium, and then you'll
+
+719
+00:51:36,810 --> 00:51:40,950
+have less for diffusion in
+the collecting duct. And
+
+720
+00:51:40,950 --> 00:51:43,830
+of course, increases in
+potassium in the medullary
+
+721
+00:51:43,830 --> 00:51:47,490
+interstitium will compete with
+ammonia, again, decreasing
+
+722
+00:51:47,490 --> 00:51:51,130
+in ammonium ion. All of
+it will lead to acidosis.
+
+723
+00:51:54,250 --> 00:51:56,250
+How about hormones? Well,
+
+724
+00:51:56,480 --> 00:51:59,300
+hormones will do have an
+effect. We talked about
+
+725
+00:52:01,690 --> 00:52:05,970
+a little bit, but all
+the corticosteroids.
+
+726
+00:52:05,970 --> 00:52:08,790
+Corticosteroids are products
+of our adrenal cortex.
+
+727
+00:52:09,330 --> 00:52:11,850
+Glucocorticoids and
+mineralocorticoids stimulate
+
+728
+00:52:11,850 --> 00:52:15,430
+acid secretion. In fact,
+if you have chronic adrenal
+
+729
+00:52:15,430 --> 00:52:19,310
+insufficiency, people have
+Addison's disease, they
+
+730
+00:52:19,310 --> 00:52:22,670
+get acid retention and they
+get metabolic acidosis.
+
+731
+00:52:23,550 --> 00:52:26,530
+John F. Kennedy, the
+assassinated president of the
+
+732
+00:52:26,530 --> 00:52:30,820
+United States, had Addison's
+disease because of excess
+
+733
+00:52:31,090 --> 00:52:34,790
+cortisol administration
+because of a wartime injury,
+
+734
+00:52:34,790 --> 00:52:40,750
+so he was constantly having
+issues with pH balance.
+
+735
+00:52:40,950 --> 00:52:44,450
+Both glucocorticoids and
+mineralocorticoids cause
+
+736
+00:52:44,450 --> 00:52:47,570
+acid secretion at different
+sites of the neuron.
+
+737
+00:52:47,830 --> 00:52:51,250
+Glucocorticoids, for example,
+cortisol increased sodium
+
+738
+00:52:51,250 --> 00:52:55,090
+proton exchanger, promoting
+proton secretion into
+
+739
+00:52:55,090 --> 00:53:06,530
+the lumen, and hence acidic
+urine and loss of protons,
+
+740
+00:53:06,530 --> 00:53:11,030
+and it decreases phosphate
+reabsorption. So that
+
+741
+00:53:11,030 --> 00:53:15,350
+actually increases luminal
+availability for titration.
+
+742
+00:53:18,990 --> 00:53:20,870
+Mineralocorticoids,
+aldosterone. Again, I use
+
+743
+00:53:20,870 --> 00:53:25,410
+aldosterone as a
+mineralocorticoid. We have other
+
+744
+00:53:25,680 --> 00:53:31,170
+compounds that are in the
+pathway of aldosterone synthesis
+
+745
+00:53:31,170 --> 00:53:34,570
+that have mineralocorticoid
+activity. So I really
+
+746
+00:53:34,570 --> 00:53:36,990
+try to make sure that
+the language approach. So
+
+747
+00:53:36,990 --> 00:53:41,470
+we have other products
+of this system that have
+
+748
+00:53:41,470 --> 00:53:43,610
+mineralocorticoid activity.
+But in this case, I'm
+
+749
+00:53:43,610 --> 00:53:46,790
+just talking about aldosterone
+because aldosterone
+
+750
+00:53:46,840 --> 00:53:50,790
+is the major mineralocorticoid,
+but not the only
+
+751
+00:53:50,830 --> 00:53:54,170
+mineralocorticoid we have
+in our body. So we promote
+
+752
+00:53:54,170 --> 00:53:58,030
+proton secretion directly
+in the collecting duct
+
+753
+00:53:58,030 --> 00:54:01,710
+by increasing the activity
+of the proton pump and
+
+754
+00:54:01,710 --> 00:54:07,550
+then increasing the chloride
+bicarbonate exchanger.
+
+755
+00:54:08,730 --> 00:54:13,190
+It also indirectly increases
+proton secretion by
+
+756
+00:54:13,190 --> 00:54:16,550
+increasing sodium reabsorption
+in the collecting duct.
+
+757
+00:54:17,330 --> 00:54:21,630
+That's the ENAC, right?
+So you have more ENAC, you
+
+758
+00:54:21,630 --> 00:54:24,410
+have more lumen negative
+voltage, and that lumen
+
+759
+00:54:24,410 --> 00:54:28,990
+negative voltage will cause
+an increase in H pump in alpha
+
+760
+00:54:28,990 --> 00:54:32,470
+intercalated cells and
+leading to an increase in
+
+761
+00:54:32,470 --> 00:54:39,050
+acid secretion. And if you
+have chronically elevated
+
+762
+00:54:40,550 --> 00:54:41,630
+aldosterone.
+
+763
+00:54:41,750 --> 00:54:43,180
+If you are, for example,
+
+764
+00:54:44,130 --> 00:54:49,330
+if you have heart failure
+and you are not getting
+
+765
+00:54:49,790 --> 00:54:53,020
+treatment for it, eventually
+you'll have higher,
+
+766
+00:54:53,350 --> 00:54:56,370
+you'll have very high
+levels of mineralocorticoids
+
+767
+00:54:56,370 --> 00:55:01,770
+and sodium. If you
+put them together, you
+
+768
+00:55:01,770 --> 00:55:06,370
+can lead to potassium
+depletion and indirect
+
+769
+00:55:06,510 --> 00:55:08,930
+increase in acid secretion.
+
+770
+00:55:10,650 --> 00:55:11,870
+Mineralocorticoids act in the
+
+771
+00:55:11,870 --> 00:55:13,530
+mineralocorticoid receptors.
+
+772
+00:55:14,690 --> 00:55:18,590
+Glucocorticoids can also
+act on mineralocorticoid
+
+773
+00:55:18,590 --> 00:55:23,010
+receptors at high
+enough concentrations.
+
+774
+00:55:23,150 --> 00:55:28,350
+It's a complicated physiology
+and biochemistry. Take
+
+775
+00:55:28,350 --> 00:55:31,130
+my word for it. If not, I
+can actually go into gross
+
+776
+00:55:31,130 --> 00:55:34,660
+detail about how it
+works and what the real
+
+777
+00:55:35,470 --> 00:55:39,130
+relationships are. Just know
+that glucocorticoids act on
+
+778
+00:55:39,130 --> 00:55:43,330
+glucocorticoid receptors and
+can act on mineralocorticoid
+
+779
+00:55:43,330 --> 00:55:46,910
+receptors, while
+mineralocorticoid receptors only
+
+780
+00:55:46,910 --> 00:55:49,850
+act on mineralocorticoid
+receptor and have no activity
+
+781
+00:55:49,850 --> 00:55:53,230
+on the glucocorticoid
+receptor. So mineralocorticoid
+
+782
+00:55:53,230 --> 00:55:56,790
+cannot have any effects on
+carbohydrate metabolism,
+
+783
+00:55:56,790 --> 00:56:00,670
+but excess glucocorticoids
+can definitely have
+
+784
+00:56:00,670 --> 00:56:05,490
+effects on sodium and water
+balance. And anybody who's
+
+785
+00:56:05,490 --> 00:56:08,670
+ever been on a cycle of
+glucocorticoids for any
+
+786
+00:56:08,670 --> 00:56:11,770
+kind of inflammatory issue
+can probably address that.
+
+787
+00:56:15,350 --> 00:56:17,250
+Glucocorticoids can act,
+
+788
+00:56:17,700 --> 00:56:23,450
+one of the roles
+is, I mean, they're
+
+789
+00:56:23,450 --> 00:56:26,950
+important part of
+our armamentarium
+
+790
+00:56:26,950 --> 00:56:30,190
+for treatment of
+various disorders.
+
+791
+00:56:30,370 --> 00:56:35,910
+But the other class of
+agents that can affect
+
+792
+00:56:35,910 --> 00:56:40,670
+renal acid base are
+diuretics. So I have this
+
+793
+00:56:42,190 --> 00:56:46,870
+table here, breaking down
+the different types of
+
+794
+00:56:46,870 --> 00:56:49,850
+diuretics that one can find,
+their targets and where
+
+795
+00:56:49,850 --> 00:56:54,010
+they act at the nephron,
+just as a way to kind of
+
+796
+00:56:54,010 --> 00:56:59,350
+give you a very, very
+brief introduction to them.
+
+797
+00:57:00,190 --> 00:57:02,050
+As an example of them, so
+
+798
+00:57:02,050 --> 00:57:04,770
+carbonic anhydrase inhibitors,
+
+799
+00:57:04,830 --> 00:57:06,890
+right, by virtue of
+their name, they act on
+
+800
+00:57:06,890 --> 00:57:11,150
+carbonic anhydrase. A major
+effect is at the proximal
+
+801
+00:57:11,150 --> 00:57:14,190
+convoluted tubule, but
+not exclusively right.
+
+802
+00:57:14,650 --> 00:57:21,410
+Loop diuretics act on the
+thick ascending limb of
+
+803
+00:57:21,410 --> 00:57:24,610
+the loop of Henle, and
+that inhibits the NKCC2
+
+804
+00:57:26,390 --> 00:57:32,970
+isoform, sodium-potassium
+chloride co-transporter.
+
+805
+00:57:33,640 --> 00:57:37,040
+Distal convoluted tubule is
+where you have the thiazides
+
+806
+00:57:37,040 --> 00:57:40,470
+acting, and that acts on
+a different transporter,
+
+807
+00:57:40,670 --> 00:57:45,620
+sodium chloride co
+-transporter, not NKCC, but NCC.
+
+808
+00:57:46,520 --> 00:57:50,070
+And then you have our
+two different types of
+
+809
+00:57:50,070 --> 00:57:53,290
+potassium sparing
+diuretics, the ones that act
+
+810
+00:57:53,290 --> 00:57:57,170
+on ENAC and the ones
+that activate the
+
+811
+00:57:57,170 --> 00:58:00,310
+mineralocorticoid receptor.
+And then you have these
+
+812
+00:58:01,050 --> 00:58:03,890
+osmotic diuretics
+that act on any
+
+813
+00:58:03,890 --> 00:58:05,690
+kind of a water
+permeable segment.
+
+814
+00:58:05,920 --> 00:58:09,390
+So diuretics fall broadly
+in two groups. So you have
+
+815
+00:58:09,390 --> 00:58:14,730
+ones that promote the
+excretion of alkaline urine. So
+
+816
+00:58:15,510 --> 00:58:18,950
+urinary alkalosis. So
+these are the potassium
+
+817
+00:58:18,950 --> 00:58:23,210
+sparing and carbonic
+anhydrase inhibitors.
+
+818
+00:58:23,310 --> 00:58:26,090
+So obviously, if you
+inhibit the carbonic
+
+819
+00:58:26,090 --> 00:58:29,850
+anhydrase, you decrease
+acid secretion, right?
+
+820
+00:58:30,630 --> 00:58:31,950
+bicarb loss.
+
+821
+00:58:32,190 --> 00:58:36,090
+So your bicarb levels in
+the urine go high, and
+
+822
+00:58:36,090 --> 00:58:38,630
+the greatest effect is
+in the proximal tubule.
+
+823
+00:58:38,770 --> 00:58:40,690
+And then consequently
+you'll have decreases
+
+824
+00:58:40,690 --> 00:58:44,030
+in acid secretion in
+the thick ascending
+
+825
+00:58:44,030 --> 00:58:45,970
+limb and the distal
+convoluted tubule.
+
+826
+00:58:46,550 --> 00:58:50,090
+For potassium sparing
+diuretics, for amylorid and
+
+827
+00:58:50,090 --> 00:58:52,970
+triamterine, it's nice.
+Potassium sparing diuretics is
+
+828
+00:58:52,970 --> 00:58:55,150
+only four of them. I'm not
+using examples. This is the
+
+829
+00:58:55,150 --> 00:58:57,510
+total number of potassium
+sparing diuretics we have.
+
+830
+00:58:58,290 --> 00:59:04,330
+So amylorid and triamterine
+block inhibits this
+
+831
+00:59:04,330 --> 00:59:08,970
+epithelial sodium channel in
+the collecting ENAC. So the
+
+832
+00:59:08,970 --> 00:59:12,290
+lumen becomes more positive,
+and this more positive
+
+833
+00:59:14,890 --> 00:59:18,170
+disrupts the
+electrogenic potential
+
+834
+00:59:18,170 --> 00:59:21,170
+difference, so proton
+secretion is inhibited.
+
+835
+00:59:21,790 --> 00:59:24,930
+And then spironolactone,
+aprelinone is
+
+836
+00:59:24,930 --> 00:59:27,030
+another on, that
+does it directly by
+
+837
+00:59:27,030 --> 00:59:28,830
+blocking the effects
+of aldosterone.
+
+838
+00:59:29,830 --> 00:59:32,430
+The other two classes of
+
+839
+00:59:36,270 --> 00:59:39,870
+diuretics that have effects
+on renal acid secretion
+
+840
+00:59:40,350 --> 00:59:44,910
+are loop diuretics and
+thiazide diuretics. They act
+
+841
+00:59:44,910 --> 00:59:49,430
+by volume contraction
+and they enhance sodium
+
+842
+00:59:49,430 --> 00:59:55,950
+delivery to the collecting
+duct. You decrease, you
+
+843
+00:59:55,950 --> 00:59:58,770
+enhance sodium delivery to
+the collecting duct, you
+
+844
+00:59:58,770 --> 01:00:02,530
+increase sodium uptake.
+This enhances the lumen
+
+845
+01:00:02,530 --> 01:00:06,530
+negative voltage and you
+promote proton secretion. They
+
+846
+01:00:06,530 --> 01:00:10,570
+also cause calcium wasting.
+One of the major side
+
+847
+01:00:10,570 --> 01:00:14,590
+effects of lupine thiazides
+is hypokalemia, and
+
+848
+01:00:14,590 --> 01:00:22,190
+this hypokalemia can also
+increase proton secretion.
+
+849
+01:00:22,850 --> 01:00:26,130
+Osmotic diuretics, I
+didn't, because it very
+
+850
+01:00:26,130 --> 01:00:28,570
+much depends on how
+they're administered.
+
+851
+01:00:30,350 --> 01:00:33,450
+People take, you know,
+the mannitol and these
+
+852
+01:00:33,450 --> 01:00:36,830
+osmotic agents are taken,
+can be taken orally.
+
+853
+01:00:36,830 --> 01:00:39,870
+they were used at one
+point as laxatives,
+
+854
+01:00:40,270 --> 01:00:42,730
+as baby laxatives.
+They're sweet.
+
+855
+01:00:43,220 --> 01:00:45,790
+So take it orally, it
+doesn't get into your
+
+856
+01:00:45,790 --> 01:00:49,510
+body. It stays in the
+lumen of your GI tract,
+
+857
+01:00:49,510 --> 01:00:56,570
+absorbing water and
+causing stool release.
+
+858
+01:00:56,890 --> 01:00:59,830
+On IV administration of
+
+859
+01:00:59,830 --> 01:01:02,590
+mannitol, then
+mannitol will get
+
+860
+01:01:04,170 --> 01:01:08,090
+filtered and not
+reabsorbed and cause
+
+861
+01:01:08,090 --> 01:01:10,770
+massive amounts of water
+loss. So the effects
+
+862
+01:01:10,770 --> 01:01:13,170
+of osmotic diuretics
+would be the same
+
+863
+01:01:13,170 --> 01:01:15,970
+as volume of excessive
+volume contraction.
+
+864
+01:01:16,150 --> 01:01:19,230
+They are very potent diuretics.
+
+865
+01:01:20,660 --> 01:01:24,430
+So we've gone to the end
+of our lecture. So high
+
+866
+01:01:24,430 --> 01:01:27,750
+altitude, we know that
+high altitude will have a
+
+867
+01:01:28,190 --> 01:01:32,370
+decrease in PO2,
+and we have less
+
+868
+01:01:32,370 --> 01:01:35,590
+PO2, we get less PC, you know,
+
+869
+01:01:35,890 --> 01:01:39,330
+PaCO2, and our pH in
+our blood will go up,
+
+870
+01:01:39,330 --> 01:01:43,190
+and our urine will
+become more alkaline. And
+
+871
+01:01:43,190 --> 01:01:46,390
+you tell me what that
+mystery drug was, but
+
+872
+01:01:46,390 --> 01:01:48,790
+hopefully you can tell
+me that after you have
+
+873
+01:01:48,790 --> 01:01:53,510
+your lecture with Dr.
+Goldstein, and why it's
+
+874
+01:01:53,730 --> 01:01:57,030
+it's used. Well, thank
+you very much, and
+
+875
+01:01:57,030 --> 01:02:00,410
+I will talk to you
+with the next lecture.
