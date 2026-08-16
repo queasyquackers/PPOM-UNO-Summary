@@ -1737,7 +1737,7 @@ window.receiveLectureIndex([
   },
   {
     "id": "cv33",
-    "title": "Lecture #33: \\",
+    "title": "Lecture #33: \"Short Leg Syndrome\" and Heel Lift Therapy",
     "module": "OMM",
     "tags": "Lecture #33",
     "path": "content/json/cv33.file.js",

@@ -1113,8 +1113,12 @@ def cmd_install(args):
             info(f"meta.json week {week} -> {derived} (CPR week map for lecture {n})")
         week = derived
 
-    title_match = re.search(r'"title":\s*"([^"]+)"', summary_text)
-    title = title_match.group(1) if title_match else f"Lecture #{n}"
+    # Match a whole JSON string, so a title containing escaped quotes survives.
+    # The old r'"title":\s*"([^"]+)"' stopped at the first inner quote: cv33's
+    # 'Lecture #33: \"Short Leg Syndrome\" and Heel Lift Therapy' registered in
+    # lectures_index.js as the literal 'Lecture #33: \'.
+    title_match = re.search(r'"title":\s*("(?:[^"\\]|\\.)*")', summary_text)
+    title = json.loads(title_match.group(1)) if title_match else f"Lecture #{n}"
     reading_time = meta.get("readingTime")
     if not reading_time:
         content_match = re.search(r'"content":\s*`(.*?)`,\n\s*"flashcards"', summary_text, re.DOTALL)
