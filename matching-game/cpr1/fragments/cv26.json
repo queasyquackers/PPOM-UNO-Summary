@@ -1,0 +1,116 @@
+{
+  "correlates": [
+    {
+      "name": "AV Block (Heart Block)",
+      "presentation": "PR interval >200 ms. Degrees range from first through third; third-degree (complete) block shows complete atrioventricular dissociation, with the ventricles escaping at a rate unrelated to the atria.",
+      "pathophysiology": "impaired conduction through the AV node or the infranodal system. Because the PR interval is the electrical time spent traversing the AV node, nodal disease lengthens it.",
+      "lecture": "CV26"
+    },
+    {
+      "name": "Potassium Disorders on the ECG",
+      "presentation": "hyperkalemia raises T wave amplitude and can also widen the QRS; hypokalemia flattens the T wave and brings out a U wave, which looks like an inverted T wave sitting after it.",
+      "pathophysiology": "serum potassium sets the repolarization gradient, so it is read off the T wave.",
+      "lecture": "CV26"
+    },
+    {
+      "name": "ST Elevation Myocardial Infarction (STEMI)",
+      "presentation": "chest pain, discomfort or pressure - the trigger phrase for \"EKG, stat\" to rule out acute coronary syndrome.",
+      "pathophysiology": "transmural ischemia shifts the injured myocardium's resting potential, lifting the ST segment.",
+      "lecture": "CV26"
+    },
+    {
+      "name": "Congenital Long QT Syndrome and Torsades de Pointes",
+      "presentation": "may be silent until syncope or arrest; the family history is the clue - sudden cardiac death in relatives.",
+      "pathophysiology": "prolonged ventricular repolarization from a congenital channelopathy, an electrolyte imbalance, or a drug (Slide 12).",
+      "lecture": "CV26"
+    }
+  ],
+  "findings": [
+    {
+      "name": "P Wave",
+      "represents": "The summation of right and left atrial depolarization, with the left atrium depolarizing slightly later than the right",
+      "territory": "Atria — assessed in the money leads II, III, aVF and V1",
+      "association": "A double hump (P mitrale) means one atrium is enlarged or intra-atrial conduction is delayed; a tall P wave means atrial hypertrophy",
+      "lecture": "CV26"
+    },
+    {
+      "name": "PR Interval",
+      "represents": "The time from the onset of atrial depolarization to the onset of ventricular depolarization — essentially conduction time through the AV node",
+      "territory": "AV node, the deliberate delay between atrial and ventricular contraction",
+      "association": "Prolonged beyond one large box in first-, second- and third-degree AV block; normal is 120-200 ms",
+      "lecture": "CV26"
+    },
+    {
+      "name": "QRS Complex",
+      "represents": "Ventricular depolarization — Q is the first downstroke, R the upstroke, S the second downstroke",
+      "territory": "Ventricular myocardium and the His-Purkinje system",
+      "association": "Widened beyond 120 ms by bundle branch or fascicular block, hyperkalemia, tricyclic antidepressants, sodium channel blockers and WPW",
+      "lecture": "CV26"
+    },
+    {
+      "name": "ST Segment",
+      "represents": "The interval when the ventricles are fully depolarized and mechanically contracting, so no net current flows",
+      "territory": "Localizes the injured wall by which contiguous leads are involved",
+      "association": "Elevation in two or more contiguous leads defines a STEMI; depression signals subendocardial ischemia",
+      "lecture": "CV26"
+    },
+    {
+      "name": "T Wave",
+      "represents": "Ventricular repolarization — the lecturer's line is that potassium lives under the T wave",
+      "territory": "Ventricular myocardium",
+      "association": "Peaked and narrow in hyperkalemia; flattened with a following U wave in hypokalemia",
+      "lecture": "CV26"
+    },
+    {
+      "name": "QT Interval",
+      "represents": "Depolarization through repolarization — the electrical equivalent of ventricular systole",
+      "territory": "Whole ventricular myocardium",
+      "association": "Prolongation from congenital long QT syndrome, electrolyte derangement or the anti-ABCDE drugs risks torsades de pointes; normal is 0.36-0.44 s and under half the R-R interval",
+      "lecture": "CV26"
+    },
+    {
+      "name": "TP Segment",
+      "represents": "Electrical rest during diastole, from the end of the T wave to the start of the next P wave",
+      "territory": "The whole heart at rest",
+      "association": "The true isoelectric reference line — ST elevation and depression are measured against it, not against the PR segment",
+      "lecture": "CV26"
+    },
+    {
+      "name": "R Wave Progression",
+      "represents": "The R wave growing steadily more positive from V1 through V3, with the transition to a dominant R between V3 and V4",
+      "territory": "Sweeping across the precordium from septum to lateral wall",
+      "association": "Poor progression is a marker of anterior infarction or lead misplacement; normal progression is a marker of heart health",
+      "lecture": "CV26"
+    },
+    {
+      "name": "Delta Wave",
+      "represents": "A slurred upstroke at the start of the QRS from pre-excitation through an accessory pathway that bypasses the AV node",
+      "territory": "Accessory bundle bridging atrium and ventricle",
+      "association": "Wolff-Parkinson-White syndrome — a short PR with a widened QRS",
+      "lecture": "CV26"
+    }
+  ],
+  "formulas": [
+    {
+      "name": "Normal ECG Intervals",
+      "equation": "PR 120-200 ms; QRS < 120 ms; QT < half the R-R interval",
+      "meaning": "The three interval judgments that anchor every ECG read — AV nodal conduction, ventricular depolarization, and total ventricular systole",
+      "normalValue": "1 small box = 0.04 s, 1 large box = 0.2 s; QT 0.36-0.44 s",
+      "lecture": "CV26"
+    },
+    {
+      "name": "Intrinsic Pacemaker Rates",
+      "equation": "SA node 60-100/min; AV node 40-60/min",
+      "meaning": "The SA node is dominant and defines bradycardia below 60 and tachycardia above 100; the AV node takes over as an escape pacemaker at a slower intrinsic rate",
+      "normalValue": "Conduction velocity order: Purkinje > atria > ventricles > AV node",
+      "lecture": "CV26"
+    },
+    {
+      "name": "Normal Electrical Axis",
+      "equation": "-30 to +60 degrees, assessed with leads I and aVF",
+      "meaning": "The mean direction of ventricular depolarization, which points down and to the left because the left ventricle is thicker; I and aVF are used because they are perpendicular",
+      "normalValue": "Both leads upright is normal; I up with aVF down is left axis deviation, I down with aVF up is right axis deviation",
+      "lecture": "CV26"
+    }
+  ]
+}

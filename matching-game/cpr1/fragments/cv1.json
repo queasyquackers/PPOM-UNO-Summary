@@ -1,0 +1,69 @@
+{
+  "correlates": [
+    {
+      "name": "Somatic Dysfunction (Ligamentous Articular Strain)",
+      "presentation": "A tight, tender, restricted area that often fails to move with breathing (obvious at the ribs, subtle at the ankle); tissue may feel congested or dry and poorly perfused.",
+      "pathophysiology": "Strain held in the ligaments and joint capsule (articular surfaces only define the planes of motion).",
+      "treatment": "Bring the strained ligaments to a point of balanced tension (indirect or direct) so the natural agencies within the patient make the correction; add respiratory or postural assistance as needed.",
+      "lecture": "CV1"
+    },
+    {
+      "name": "Facilitated Segment (Segmental Facilitation)",
+      "presentation": "A tender, tense, restricted segment; the lecturer's example is segmental facilitation adding to a patient's tachycardia.",
+      "pathophysiology": "Nociceptor activity from ligaments and joint capsules produces local tension at the segment, limiting motion and altering position; the same nociceptive drive can add to systemic problems.",
+      "treatment": "Positioning to ease turns down the nociceptors; the nervous system responds to the point of balanced tension by resetting tissue tension to baseline and reducing facilitation.",
+      "lecture": "CV1"
+    },
+    {
+      "name": "Infant Cranial Molding (Parallelogram Head)",
+      "presentation": "The classic parallelogram-shaped head of a baby.",
+      "pathophysiology": "Strain residing within the bone itself — a distortion of bone shape — rather than between bones at a joint.",
+      "treatment": "Molding — the balanced-tension approach applied to the shape of the bone itself.",
+      "lecture": "CV1"
+    }
+  ],
+  "omm": [
+    {
+      "name": "Balanced Ligamentous Tension (BLT)",
+      "definition": "Positioning an articulation at the point where its ligaments are poised between the normal tension of the free range of motion and the increased tension preceding the strain",
+      "findings": "Sutherland called it ligamentous articular strain in the spine and membranous articular strain in the cranium; ligaments are the source of all tension, and articular surfaces only define the planes of motion",
+      "treatment": "The correction comes from within the patient — you hold the balance point and the natural agencies make the change",
+      "lecture": "CV1"
+    },
+    {
+      "name": "Exaggeration Approach",
+      "definition": "An indirect approach in which the operator exaggerates the lesion, side-bending further into the side-bent side",
+      "findings": "The most commonly used of the BLT approaches",
+      "treatment": "Carry the part further into its ease until tension balances, then wait",
+      "lecture": "CV1"
+    },
+    {
+      "name": "Direct Action Approach",
+      "definition": "Engaging the restrictive barrier and adding energy to stir the tissues to action",
+      "findings": "Matches the barrier rather than overcoming it",
+      "treatment": "Never force through the barrier — add just enough energy for the tissues to respond",
+      "lecture": "CV1"
+    },
+    {
+      "name": "Disengagement",
+      "definition": "A subset of the direct approach in which the two parts are drawn directly apart, bringing tension up",
+      "findings": "Useful where compression is holding the articulation",
+      "treatment": "One the lecturer uses frequently; tension is raised until the balance point declares itself",
+      "lecture": "CV1"
+    },
+    {
+      "name": "Molding",
+      "definition": "An approach for a strain held within a bone — a distortion of the bone's own shape — rather than between two bones at a joint",
+      "findings": "The classic parallelogram-shaped head of an infant",
+      "treatment": "The balanced-tension principle applied to the shape of the bone itself",
+      "lecture": "CV1"
+    },
+    {
+      "name": "Natural Agencies",
+      "definition": "The forces within the patient that perform the correction: respiratory cooperation, the nervous system reset, circulation, and the primary respiratory mechanism",
+      "findings": "A dysfunctional area often fails to move with breathing; capsule proprioceptors and nociceptors hold the segment facilitated; tension impedes interstitial flow and cellular nutrition",
+      "treatment": "The stated goal of treatment is to improve the interchange of all body fluids across all interfaces",
+      "lecture": "CV1"
+    }
+  ]
+}

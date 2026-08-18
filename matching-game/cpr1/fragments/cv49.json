@@ -1,0 +1,31 @@
+{
+  "correlates": [
+    {
+      "name": "Lymphatic Failure and Perivascular Edema",
+      "pathophysiology": "When lymphatic clearance falls behind filtration, the perivascular potential space around the bronchovascular bundle fills with fluid - edema.",
+      "lecture": "CV49"
+    },
+    {
+      "name": "Pulmonary Embolism and the Dual-Supply Safety Net",
+      "pathophysiology": "An embolus occludes a vessel in one circulation and would otherwise starve the downstream territory of blood.",
+      "lecture": "CV49"
+    },
+    {
+      "name": "Positive-Pressure Mechanical Ventilation and Iatrogenic Zone 1",
+      "pathophysiology": "The ventilator raises alveolar pressure and therefore lowers transmural pressure - the pressure difference between the inside of the lung and the outside.",
+      "treatment": "Settings are calibrated to the individual patient and monitored closely, precisely because of this zone 1 risk (Slide 18).",
+      "lecture": "CV49"
+    },
+    {
+      "name": "Cardiogenic Pulmonary Edema",
+      "presentation": "Impaired gas exchange, because fluid in the alveolus lengthens the diffusion distance that O2 and CO2 must cross.",
+      "pathophysiology": "Left-sided heart dysfunction raises left atrial pressure. Blood returning through the pulmonary vein cannot clear the left atrium and ventricle, so back pressure is transmitted into the pulmonary capillaries.",
+      "lecture": "CV49"
+    },
+    {
+      "name": "Global Hypoxic Vasoconstriction at Altitude",
+      "pathophysiology": "At high altitude every alveolus has a low PO2, so hypoxic vasoconstriction is triggered lung-wide instead of regionally. There is no better-ventilated region to divert blood toward.",
+      "lecture": "CV49"
+    }
+  ]
+}

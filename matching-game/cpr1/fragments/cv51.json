@@ -1,0 +1,71 @@
+{
+  "correlates": [
+    {
+      "name": "Pleural Effusion / Intrapleural Edema",
+      "presentation": "the lecturer frames it as edema of the intrapleural space, which compresses lung and impairs expansion.",
+      "pathophysiology": "lymphatic drainage of the intrapleural space fails while hydrostatic filtration continues, so fluid accumulates far beyond the normal 10 mL.",
+      "lecture": "CV51"
+    },
+    {
+      "name": "Pneumothorax",
+      "pathophysiology": "the parietal pleura is punctured, so the intrapleural space equilibrates with atmosphere and its pressure becomes 0.",
+      "lecture": "CV51"
+    },
+    {
+      "name": "Emphysema",
+      "presentation": "less inspiratory muscle force is needed to inflate; the problem is emptying the lung. FRC is elevated, accessory muscle use and a barrel chest follow (Slide 5).",
+      "pathophysiology": "inflammation drives enzymatic destruction of elastin, partially destroying the lung's elastic properties. Compliance rises, elastic recoil falls.",
+      "treatment": "pursed-lip breathing - slower expiration against partly closed lips raises airway pressure enough to keep large airways open (Slide 22).",
+      "lecture": "CV51"
+    },
+    {
+      "name": "Pulmonary Fibrosis",
+      "presentation": "progressive dyspnea and a dry, hacking cough. The lecture's board vignette is a 64-year-old retired sandblaster whose HRCT shows diffuse interstitial thickening and scarring (Slide 23).",
+      "pathophysiology": "additional collagen fibers inserted into the parenchyma make the lung less compliant and more elastic, so a much more negative intrapleural pressure is needed to achieve a normal tidal volume.",
+      "lecture": "CV51"
+    },
+    {
+      "name": "Neonatal Respiratory Distress Syndrome",
+      "presentation": "the lecture's radiograph shows a normally aerated right lung and a completely opaque, collapsed left lung (Slide 16).",
+      "pathophysiology": "mostly premature infants born with insufficient surfactant; Laplace collapsing forces go unopposed and alveoli close.",
+      "treatment": "antenatal steroid injections to the mother aid lung maturation and surfactant production. Otherwise nasal continuous positive airway pressure (nCPAP) applies positive pressure to hold the alveoli open; no surgery is required.",
+      "lecture": "CV51"
+    },
+    {
+      "name": "Asthma",
+      "pathophysiology": "airway narrowing from pro-inflammatory mediators - histamine and leukotrienes - plus parasympathetic muscarinic tone. Because resistance scales with r^4, a small diameter change has an outsized effect.",
+      "treatment": "beta-receptor agonists (isoproterenol, albuterol) reproduce sympathetic dilation; muscarinic antagonists (atropine) block the constricting arm, with the cardiac caution above.",
+      "lecture": "CV51"
+    }
+  ],
+  "formulas": [
+    {
+      "name": "Lung Compliance",
+      "equation": "Compliance = change in volume per unit change in pressure; elastance is its inverse",
+      "meaning": "Emphysema destroys elastic fibers so compliance rises and recoil falls — inspiration is easy, expiration is hard; fibrosis lays down extra fibers so compliance falls and recoil rises — inspiration is hard, expiration is easy",
+      "normalValue": "FRC is higher than normal in emphysema and lower than normal in fibrosis",
+      "lecture": "CV51"
+    },
+    {
+      "name": "Transmural Pressure",
+      "equation": "Transmural = pressure inside a compartment - pressure outside it",
+      "meaning": "At every stage of the breathing cycle transmural pressure is positive and directed outward, and that is what holds the lung open — not the sign of the intrapleural pressure by itself",
+      "normalValue": "+5 at rest, +5.5 during inspiration, +8 at peak inspiration, +7.5 during expiration",
+      "lecture": "CV51"
+    },
+    {
+      "name": "Dynamic Airway Collapse in Emphysema",
+      "equation": "Large airway transmural pressure = airway pressure - intrapleural pressure",
+      "meaning": "Normally the large airway sits at +25 against an intrapleural +20, giving a +5 that keeps it open; in emphysema the airway pressure falls to +15 against the same +20, so transmural pressure turns negative and the airway collapses on expiration",
+      "normalValue": "This is why emphysema patients purse their lips — it raises airway pressure and keeps transmural pressure positive",
+      "lecture": "CV51"
+    },
+    {
+      "name": "Intrapleural Fluid Balance",
+      "equation": "Hydrostatic -5 inward, oncotic +5 outward, with the oncotic forces cancelling",
+      "meaning": "About 10 mL of pleural fluid provides cohesion and lubrication, drained by lymphatics — when that drainage fails the result is a pleural effusion",
+      "normalValue": "Atmospheric 760 mmHg against intrapleural 756 mmHg, a 4 mmHg difference at rest",
+      "lecture": "CV51"
+    }
+  ]
+}

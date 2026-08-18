@@ -1,0 +1,135 @@
+{
+  "correlates": [
+    {
+      "name": "Acute Tubular Necrosis (Medullary Ischemia)",
+      "presentation": "Ischemic tubular injury in low-perfusion states (later lectures).",
+      "pathophysiology": "Only 5-10% of renal blood flow reaches the medulla via the vasa recta — a deliberately low-flow design that keeps the medulla salty but hypoxia-prone.",
+      "lecture": "CV7"
+    },
+    {
+      "name": "Nutcracker Syndrome",
+      "presentation": "Hematuria, left flank pain, pelvic pressure/pain, pelvic varicose veins, varicocele.",
+      "pathophysiology": "Very rare compression disorder — the longer left renal vein is squeezed between the abdominal aorta and superior mesenteric artery as it crosses to the left kidney.",
+      "lecture": "CV7"
+    },
+    {
+      "name": "Renal Artery Stenosis",
+      "pathophysiology": "Arterial narrowing reduces renal plasma flow while GFR is defended, so filtration fraction RISES.",
+      "lecture": "CV7"
+    },
+    {
+      "name": "Glucosuria in Diabetes Mellitus",
+      "pathophysiology": "The filtered load of glucose exceeds the kidney's reabsorptive capacity, so glucose appears in the urine.",
+      "lecture": "CV7"
+    },
+    {
+      "name": "Chronic Kidney Disease",
+      "presentation": "Know the CKD stages for exams — questions give symptomatology and expect stage 2 vs. stage 4. GFR calculators (kidney.org, MDCalc) linked for rotations.",
+      "pathophysiology": "Progressive, permanent nephron loss, staged by eGFR.",
+      "lecture": "CV7"
+    },
+    {
+      "name": "Pre-Renal Failure (Pre-Renal Azotemia)",
+      "presentation": "BUN:creatinine ratio greater than 20:1 with low urine sodium — the kidney works fine, it just is not being fed.",
+      "pathophysiology": "An insult to the kidney's blood supply (arterial insult, dehydration, CHF). The kidney senses hypovolemia and sequesters sodium (urine sodium falls); slow tubular flow allows extra urea reabsorption — but creatinine is NOT reabsorbed.",
+      "lecture": "CV7"
+    },
+    {
+      "name": "Congestive Heart Failure and the Kidney",
+      "pathophysiology": "Chronic low perfusion drives chronic sympathetic activation → sustained renal vasoconstriction and reduced renal blood flow.",
+      "lecture": "CV7"
+    },
+    {
+      "name": "Diabetic Nephropathy",
+      "presentation": "Fatigue, bilateral pitting edema, hypertension, proteinuria WITHOUT hematuria, urine albumin 78 mg/g, creatinine 1.8, BUN 32, HbA1c 9.4%.",
+      "pathophysiology": "Chronic hyperglycemia damages the glomeruli.",
+      "treatment": "Tight BP and glucose control; SGLT2 inhibitor and/or ACE inhibitor/ARB; exercise, smoking cessation, low-sodium diet. Monitor eGFR, creatinine, electrolytes, urine albumin. Avoid nephrotoxic NSAIDs; counsel on dialysis/transplant. Goal: slow the declining GFR.",
+      "lecture": "CV7"
+    },
+    {
+      "name": "Goodpasture Syndrome",
+      "presentation": "Hemoptysis, fatigue, dark urine, hypertension; RBC casts; crescents in Bowman's space on biopsy.",
+      "pathophysiology": "Anti-type 4 collagen antibodies attack the glomerular basement membrane — the MIDDLE layer of the filtration barrier.",
+      "lecture": "CV7"
+    }
+  ],
+  "formulas": [
+    {
+      "name": "Glomerular Filtration Rate (GFR)",
+      "equation": "GFR = Kf x [(P_GC - P_BS) - (pi_GC - pi_BS)]",
+      "meaning": "The volume of plasma filtered into Bowman space per minute — the single best indicator of kidney function, and the product of the filtration coefficient and the net Starling pressure",
+      "normalValue": "About 120 mL/min, which is 20% of renal plasma flow and filters roughly 173 L per day",
+      "lecture": "CV7"
+    },
+    {
+      "name": "Clearance",
+      "equation": "Cx = (Ux x V) / Px",
+      "meaning": "The volume of plasma completely cleared of a substance per minute; comparing it to GFR tells you what the tubule did — equal means neither secreted nor reabsorbed, higher means net secretion, lower means net reabsorption",
+      "normalValue": "Inulin clearance equals GFR exactly, which is why it is the gold standard marker",
+      "lecture": "CV7"
+    },
+    {
+      "name": "Renal Blood Flow (RBF)",
+      "equation": "RBF = RPF / (1 - Hct)",
+      "meaning": "Total blood reaching both kidneys each minute, delivering oxygen and nutrients; a high hematocrit raises viscosity and resistance and therefore lowers it",
+      "normalValue": "About 1 L/min, roughly 20% of cardiac output, to organs that are only 0.5% of body weight",
+      "lecture": "CV7"
+    },
+    {
+      "name": "Renal Plasma Flow (RPF)",
+      "equation": "RPF = RBF x (1 - Hct)",
+      "meaning": "The cell-free plasma delivered per minute — the only part of renal blood flow that can actually be filtered",
+      "normalValue": "600-650 mL/min; estimated clinically as the clearance of PAH, which is cleared in a single pass",
+      "lecture": "CV7"
+    },
+    {
+      "name": "Filtration Fraction",
+      "equation": "FF = GFR / RPF",
+      "meaning": "The proportion of arriving plasma that gets filtered; it rises in dehydration and renal artery stenosis where GFR is defended as RPF falls, and drops in glomerular disease where GFR falls while RPF holds",
+      "normalValue": "About 20%",
+      "lecture": "CV7"
+    },
+    {
+      "name": "Net Filtration Pressure",
+      "equation": "NFP = P_GC - P_BS - pi_GC = 60 - 15 - 29",
+      "meaning": "The balance of Starling forces across the glomerular capillary; only glomerular hydrostatic pressure favors filtration, while Bowman hydrostatic pressure and capillary oncotic pressure oppose it",
+      "normalValue": "+16 mmHg, directed out of the capillary into Bowman space",
+      "lecture": "CV7"
+    },
+    {
+      "name": "Mean Arterial Pressure (MAP)",
+      "equation": "MAP = (SBP + 2 x DBP) / 3",
+      "meaning": "The time-weighted average driving pressure for organ perfusion, weighted toward diastole because the heart spends more of each cycle there",
+      "normalValue": "70-105 mmHg systemically, falling to roughly 50-60 mmHg by the afferent arteriole",
+      "lecture": "CV7"
+    },
+    {
+      "name": "Excretion",
+      "equation": "Excretion = Filtration - Reabsorption + Secretion",
+      "meaning": "The master balance sheet of the nephron: what leaves in the urine is what was filtered, minus what was taken back, plus what was added along the tubule",
+      "normalValue": "Of 173 L filtered daily, 99% is reabsorbed and about 1.73 L is excreted",
+      "lecture": "CV7"
+    },
+    {
+      "name": "Filtered Load",
+      "equation": "Filtered load = GFR x plasma concentration",
+      "meaning": "How much of a substance arrives at the tubule per minute; glucosuria appears the moment the filtered load exceeds the reabsorptive capacity of SGLT2",
+      "normalValue": "About 125 mg/min for glucose at a normal plasma level",
+      "lecture": "CV7"
+    },
+    {
+      "name": "BUN:Creatinine Ratio",
+      "equation": "BUN : Creatinine",
+      "meaning": "Separates pre-renal failure from intrinsic disease — hypoperfusion drives sodium and water retention, urea follows the water back into the blood while creatinine does not",
+      "normalValue": "Above 20:1 indicates a pre-renal pattern from dehydration, heart failure or arterial insult",
+      "lecture": "CV7"
+    },
+    {
+      "name": "Ohm's Law (renal flow)",
+      "equation": "Q = dP / R",
+      "meaning": "Flow through any renal vessel equals the pressure gradient over the resistance, which is why the two arteriolar bottlenecks around the glomerulus control filtration so precisely",
+      "normalValue": "A 20% occlusion can drive pressure from 120 to 293 mmHg at constant flow",
+      "lecture": "CV7"
+    }
+  ]
+}

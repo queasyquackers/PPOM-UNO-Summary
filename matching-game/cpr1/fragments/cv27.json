@@ -1,0 +1,143 @@
+{
+  "correlates": [
+    {
+      "name": "Acute Myocardial Infarction (STEMI)",
+      "presentation": "ST elevation in two or more anatomically contiguous leads - leads that belong to the same coronary artery. V1 and V2 are contiguous (both LAD); leads I and II are not (I is LCx/lateral, II is RCA/inferior).",
+      "pathophysiology": "Atherosclerotic plaque buildup that ruptures, triggering thrombus formation and occlusion of a coronary artery. Ischemic myocardium fails to repolarize normally, producing ST-segment shift in the leads overlying the affected wall.",
+      "lecture": "CV27"
+    },
+    {
+      "name": "Atrial Fibrillation",
+      "pathophysiology": "Disorganized atrial activity replaces coordinated atrial depolarization, so no true P wave is generated.",
+      "lecture": "CV27"
+    },
+    {
+      "name": "Third-Degree (Complete) AV Block",
+      "pathophysiology": "The atria beat without synchronization to the ventricles - conduction from atria to ventricles is completely interrupted.",
+      "lecture": "CV27"
+    },
+    {
+      "name": "Asystole",
+      "treatment": "If the patient is unresponsive they are in cardiac arrest and need immediate resuscitation.",
+      "lecture": "CV27"
+    },
+    {
+      "name": "Prolonged QT Interval and Torsades de Pointes",
+      "presentation": "QT longer than half the R-R interval, or outside 0.36-0.44 s.",
+      "pathophysiology": "Delayed ventricular repolarization widens the vulnerable window for a triggered beat.",
+      "lecture": "CV27"
+    },
+    {
+      "name": "Potassium Disturbances on the ECG",
+      "pathophysiology": "Potassium carries phase 3 (repolarization) of the cardiac action potential, so any potassium disturbance shows up in the repolarization structures - the QT interval, the T wave, and if severe enough the QRS complex.",
+      "lecture": "CV27"
+    },
+    {
+      "name": "First-Degree AV Block",
+      "pathophysiology": "Delayed conduction through the AV node; every impulse still gets through.",
+      "lecture": "CV27"
+    }
+  ],
+  "findings": [
+    {
+      "name": "Inferior Infarct Pattern",
+      "represents": "ST elevation in the leads that look up at the inferior wall of the heart",
+      "territory": "Leads II, III and aVF — the right coronary artery, which also supplies the SA and AV nodes",
+      "association": "The second most common infarct location; watch for bradyarrhythmia and heart block, and expect reciprocal depression in I and aVL",
+      "lecture": "CV27"
+    },
+    {
+      "name": "Septal Infarct Pattern",
+      "represents": "ST elevation over the interventricular septum",
+      "territory": "Leads V1 and V2 — the left anterior descending artery",
+      "association": "Often extends into the anterior leads; V1 and V2 are contiguous so two-lead elevation here does meet STEMI criteria",
+      "lecture": "CV27"
+    },
+    {
+      "name": "Anterior Infarct Pattern",
+      "represents": "ST elevation across the anterior wall of the left ventricle",
+      "territory": "Leads V3 and V4 — the left anterior descending artery",
+      "association": "The LAD is the most commonly occluded artery and this territory can be particularly fatal",
+      "lecture": "CV27"
+    },
+    {
+      "name": "Lateral Infarct Pattern",
+      "represents": "ST elevation over the lateral wall of the left atrium and ventricle",
+      "territory": "Leads V5, V6, I and aVL — the left circumflex artery",
+      "association": "Reciprocal change appears inferiorly in II, III and aVF",
+      "lecture": "CV27"
+    },
+    {
+      "name": "ST Elevation",
+      "represents": "Transmural ischemia involving all layers of the myocardial wall",
+      "territory": "Must appear in two or more anatomically contiguous leads to meet STEMI criteria — I and II are not contiguous",
+      "association": "An emergency requiring immediate catheterization to restore flow",
+      "lecture": "CV27"
+    },
+    {
+      "name": "ST Depression",
+      "represents": "Subendocardial ischemia — the inner layer, which is farthest from the coronary supply and first to suffer",
+      "territory": "Often diffuse rather than assigned to one artery",
+      "association": "Also appears as reciprocal change in the leads opposite a STEMI territory",
+      "lecture": "CV27"
+    },
+    {
+      "name": "Reciprocal Change (PAILS)",
+      "represents": "ST depression in leads electrically opposite an area of true ST elevation, confirming the infarct is real",
+      "territory": "Posterior, Anterior, Inferior, Lateral, Septal — each shows reciprocal change in the next letter of the sequence",
+      "association": "An inferior STEMI shows reciprocal depression in the lateral leads I and aVL",
+      "lecture": "CV27"
+    },
+    {
+      "name": "Atrial Fibrillation",
+      "represents": "Loss of organized atrial depolarization — no true P waves, only fibrillatory waves",
+      "territory": "Atria, with irregular conduction through the AV node",
+      "association": "An irregularly irregular rhythm and the most common cause of stroke",
+      "lecture": "CV27"
+    },
+    {
+      "name": "Third-Degree AV Block",
+      "represents": "Complete atrioventricular dissociation — P waves march at their own regular rate, unrelated to the QRS complexes",
+      "territory": "AV node, whose blood supply comes from the right coronary artery",
+      "association": "Consider an inferior MI as the cause; both atrial and ventricular rates are regular but independent",
+      "lecture": "CV27"
+    },
+    {
+      "name": "Left Axis Deviation",
+      "represents": "A mean electrical vector pushed leftward — lead I upright with aVF negative",
+      "territory": "Left ventricle",
+      "association": "Left ventricular hypertrophy, ventricular tachycardia, or an inferior MI",
+      "lecture": "CV27"
+    },
+    {
+      "name": "Right Axis Deviation",
+      "represents": "A mean electrical vector pushed rightward — lead I negative with aVF upright",
+      "territory": "Right ventricle",
+      "association": "Right ventricular hypertrophy or an anterolateral MI",
+      "lecture": "CV27"
+    },
+    {
+      "name": "Asystole",
+      "represents": "A flat line with no electrical activity at all",
+      "territory": "Whole heart",
+      "association": "Cardiac arrest if the patient is unresponsive — but check for an unplugged lead if the patient looks well",
+      "lecture": "CV27"
+    }
+  ],
+  "formulas": [
+    {
+      "name": "ECG Rate Estimation",
+      "equation": "300, 150, 100, 75, 60, 50 — counting large boxes between R waves",
+      "meaning": "The lecturer's preferred method for regular rhythms; for irregular rhythms count QRS complexes across the whole 10-second strip and multiply by 6",
+      "normalValue": "Bradycardia below 60, normal 60-100, tachycardia above 100 bpm",
+      "lecture": "CV27"
+    },
+    {
+      "name": "ECG Paper Calibration",
+      "equation": "25 mm/sec paper speed, 10 mm/mV amplitude",
+      "meaning": "The horizontal axis is time and the vertical axis is voltage, which is why every interval can be read straight off the grid",
+      "normalValue": "1 small box = 0.04 s, 1 large box = 5 small boxes = 0.2 s; the calibration box is 2 big boxes tall by 1 wide",
+      "lecture": "CV27"
+    }
+  ]
+}

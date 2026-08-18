@@ -1,0 +1,25 @@
+{
+  "correlates": [
+    {
+      "name": "Arteriovenous (AV) Fistula",
+      "pathophysiology": "An abnormal direct connection between an artery and a vein that lets arterial blood bypass the capillary bed.",
+      "lecture": "CV19"
+    },
+    {
+      "name": "Saphenous Vein Graft in Coronary Bypass Surgery",
+      "pathophysiology": "The saphenous vein of the leg is so muscular — already possessing a relatively thick \"muscularized\" wall from a lifetime of working against gravity — that it is the preferred vein for coronary bypass grafting.",
+      "lecture": "CV19"
+    },
+    {
+      "name": "Microvascular Ischemia in \"Non-Ischemic\" Heart Disease",
+      "presentation": "Traditionally required PET scanning with radioisotopes, so it was rarely measured and is underreported; newer non-radioactive technology is rapidly moving toward clinical use, which is why reports are increasing.",
+      "pathophysiology": "Impaired microvascular blood flow despite patent epicardial coronary arteries.",
+      "lecture": "CV19"
+    },
+    {
+      "name": "Diabetic Cardiomyopathy and Low Cardiac Tissue T3 (NYITCOM Research)",
+      "pathophysiology": "In all animal models studied in the Gerdes lab, cardiac tissue T3 is below normal even when serum T3 is normal — and T3 is an important regulator of microvascular blood flow.",
+      "lecture": "CV19"
+    }
+  ]
+}

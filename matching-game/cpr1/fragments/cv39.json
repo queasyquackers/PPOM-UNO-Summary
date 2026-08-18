@@ -1,0 +1,41 @@
+{
+  "correlates": [
+    {
+      "name": "Hypertension with Diabetes, CKD and Left Ventricular Hypertrophy",
+      "pathophysiology": "diabetes, chronic kidney disease and hypertension share a metabolic background and insulin resistance, so they cluster in the same patient . Sustained pressure load produces LVH; diabetic nephropathy raises creatinine.",
+      "treatment": "add an ACE inhibitor. It improves remodeling of LVH and slows progression of chronic kidney disease in diabetic nephropathy - the one agent that treats all three problems at once.",
+      "lecture": "CV39"
+    },
+    {
+      "name": "ACE Inhibitor-Associated Angioedema",
+      "pathophysiology": "ACE inhibition prevents degradation of vasoactive peptides, producing non-pitting swelling of the lips, tongue and airway.",
+      "treatment": "stop the ACE inhibitor and transition to an ARB.",
+      "lecture": "CV39"
+    },
+    {
+      "name": "Hypertensive Urgency",
+      "presentation": "SBP 180 or more or DBP 120 or more, without signs or symptoms of acute end-organ damage. Confirm the absence: no headache, no chest pain, unremarkable labs, and a normal fundus with no hemorrhages or papilledema.",
+      "treatment": "still treat - short-acting oral agent first, then transition to long-acting.",
+      "lecture": "CV39"
+    },
+    {
+      "name": "Hypertensive Emergency",
+      "presentation": "severe headache, blurred vision, chest pain, flash pulmonary edema with wheezing and crackles, LVH or ischemic changes on ECG, or acute kidney injury with a rising creatinine.",
+      "treatment": "admit to the ICU. Start a short-acting IV antihypertensive, e.g. the vasodilator hydralazine, and monitor. First hour: drop MAP no more than 20%. Next 23 hours: 5-10% further, to about 160/110. Then normalize over 24-48 hours.",
+      "lecture": "CV39"
+    },
+    {
+      "name": "NSAID-Induced Blood Pressure Elevation",
+      "presentation": "an apparently non-responsive hypertensive whose medication list includes a chronic NSAID - here, ibuprofen taken for osteoarthritis.",
+      "pathophysiology": "NSAIDs raise blood pressure and antagonize the mechanism by which antihypertensives work, blunting the response to therapy .",
+      "treatment": "counsel on NSAID use and substitute an analgesic that does not raise blood pressure, e.g. acetaminophen (Tylenol Extra Strength) or another headache agent.",
+      "lecture": "CV39"
+    },
+    {
+      "name": "Resistant Hypertension",
+      "presentation": "blood pressure uncontrolled on three medications, one of which is a diuretic, each at the maximally tolerated dose - or controlled only on four medications.",
+      "treatment": "consult a hypertension specialist. Adjunctive options include an aldosterone antagonist, beta blocker, direct vasodilator or alpha-2 agonist; clonidine is added to first-line therapy in this setting rather than used as monotherapy.",
+      "lecture": "CV39"
+    }
+  ]
+}

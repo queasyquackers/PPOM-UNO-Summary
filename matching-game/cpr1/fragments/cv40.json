@@ -1,0 +1,120 @@
+{
+  "correlates": [
+    {
+      "name": "Obstructive Shock: Pulmonary Embolism, Tension Pneumothorax, Cardiac Tamponade",
+      "presentation": "all three share narrow pulse pressure, cool clammy extremities and poor capillary refill.",
+      "pathophysiology": "PE and tension pneumothorax obstruct flow through the pulmonary circulation, so the RV strains against a high afterload and the LV is starved of preload.",
+      "treatment": "fluid resuscitation plus relieving the obstruction - remove the embolus, decompress the pericardium or pleural space (Slide 34).",
+      "lecture": "CV40"
+    },
+    {
+      "name": "Septic Shock",
+      "presentation": "SIRS = 2 of 4 - temperature > 38 or < 36 C, HR > 90, RR > 20 (or PaCO₂ < 32 mmHg), WBC > 12,000 or < 4,000 or > 10% immature bands. qSOFA = 2 of 3 - RR > 22, altered mentation, systolic BP < 100 (Slides 26-27).",
+      "pathophysiology": "usually gram-negative bacteria acting through the endotoxin lipopolysaccharide (LPS). The lipid A portion binds the pattern-recognition receptor toll-like receptor 4 (TLR-4) on macrophages and B cells, stimulating IL-1, TNF and IL-6.",
+      "treatment": "broad-spectrum IV antibiotics within the first hour of diagnosis while awaiting blood cultures - vancomycin plus cefepime or piperacillin.",
+      "lecture": "CV40"
+    },
+    {
+      "name": "Anaphylactic Shock",
+      "presentation": "throat and tongue swelling, coughing and wheezing, stridor, vomiting, diarrhea, abdominal pain, hives, urticaria, tachycardia, lethargy.",
+      "pathophysiology": "an antigen-antibody reaction drives mast cells in the periphery and basophils in the blood to release histamine and histamine-like substances.",
+      "treatment": "intramuscular epinephrine is the most important treatment; add normal saline for hypotension, oxygen, and albuterol for bronchospasm persisting after epinephrine (Slide 30).",
+      "lecture": "CV40"
+    },
+    {
+      "name": "Neurogenic Shock",
+      "presentation": "like septic and anaphylactic shock - hypotension, wide pulse pressure, warm skin - except there is no tachycardia.",
+      "pathophysiology": "dysregulation of the autonomic nervous system causing loss of sympathetic tone with an unopposed parasympathetic response, so the vasculature cannot constrict and the heart cannot mount a reflex response.",
+      "treatment": "fluid resuscitation and vasoactive support (Slide 34).",
+      "lecture": "CV40"
+    },
+    {
+      "name": "Vasopressor Complications",
+      "presentation": "extravasation at the IV site with vasoconstriction of nearby connective tissue and skin necrosis; hypoperfusion of the extremities, mesenteric organs and kidneys with prolonged use.",
+      "pathophysiology": "the same vasoconstriction that raises MAP shrinks the radius of vessels feeding tissue beds, so the drug that treats the shock simultaneously hypoperfuses organs.",
+      "treatment": "treat the underlying cause so pressors can be weaned; monitor IV sites and distal perfusion.",
+      "lecture": "CV40"
+    }
+  ],
+  "drugs": [
+    {
+      "name": "Norepinephrine",
+      "mechanism": "Alpha-1 agonism far outweighing beta-1 and beta-2, so systemic vascular resistance rises with a modest inotropic boost to cardiac output",
+      "indication": "The usual first-choice vasopressor in distributive, cardiogenic and mixed shock",
+      "adverseEffects": "Tachyarrhythmias and digital ischemia; extravasation causes tissue necrosis",
+      "lecture": "CV40"
+    },
+    {
+      "name": "Phenylephrine",
+      "mechanism": "Pure alpha-1 agonism raising systemic vascular resistance with no beta activity at all",
+      "indication": "Distributive or hypovolemic shock in the patient whose tachyarrhythmia makes a beta agonist unattractive",
+      "adverseEffects": "Reflex bradycardia as the baroreflex answers the rise in afterload",
+      "lecture": "CV40"
+    },
+    {
+      "name": "Vasopressin",
+      "mechanism": "V1 and V2 receptor agonism raising vascular tone through a pathway entirely independent of adrenergic receptors",
+      "indication": "The second agent added to norepinephrine in septic shock when a single pressor is not enough",
+      "adverseEffects": "Arrhythmias and cardiac ischemia; splanchnic and digital hypoperfusion",
+      "lecture": "CV40"
+    },
+    {
+      "name": "Epinephrine",
+      "mechanism": "Alpha-1 greater than beta-1 greater than beta-2 agonism, raising heart rate, systemic vascular resistance and cardiac output together",
+      "indication": "First line for anaphylaxis, given intramuscularly, and for cardiac arrest",
+      "adverseEffects": "Tachyarrhythmias, hyperglycemia and lactic acidosis",
+      "lecture": "CV40"
+    },
+    {
+      "name": "Dopamine",
+      "mechanism": "A dose-dependent mix of D1, beta-1, alpha-1 and beta-2 activity, which is why the lecturer calls it a messy drug",
+      "indication": "Not first line for any shock state; occasionally used when bradycardia accompanies hypotension",
+      "adverseEffects": "Arrhythmias and tissue ischemia progressing to gangrene",
+      "lecture": "CV40"
+    },
+    {
+      "name": "Dobutamine",
+      "mechanism": "Beta-1 dominant agonism that raises contractility and cardiac output — an inotrope, not a vasopressor",
+      "indication": "Cardiogenic shock, where the primary insult is failing contractility rather than lost vascular tone",
+      "adverseEffects": "Can cause hypotension, because beta-2 mediated vasodilation drops systemic vascular resistance",
+      "lecture": "CV40"
+    }
+  ],
+  "formulas": [
+    {
+      "name": "Systemic Vascular Resistance (Poiseuille)",
+      "equation": "R = 8Ln / (pi x r^4)",
+      "meaning": "Resistance depends on vessel radius to the fourth power, which is why arteriolar tone — not vessel length or blood viscosity — is what actually sets afterload",
+      "normalValue": "Rises in hypovolemic, cardiogenic and obstructive shock; falls in distributive shock",
+      "lecture": "CV40"
+    },
+    {
+      "name": "Mixed Venous Oxygen Saturation (SVO2)",
+      "equation": "SVO2 = oxygen saturation of venous blood returning to the right heart",
+      "meaning": "A read-out of how much oxygen the tissues extracted: high SVR slows capillary flow so extraction rises and SVO2 falls, while low SVR speeds flow so extraction falls and SVO2 rises",
+      "normalValue": "Resuscitation target above 70%; a low SVR with a high SVO2 occurs in distributive shock and nowhere else",
+      "lecture": "CV40"
+    },
+    {
+      "name": "Shock Thresholds",
+      "equation": "Systolic BP < 90 mmHg, or MAP < 65 mmHg",
+      "meaning": "The pressure floor below which tissue perfusion is presumed inadequate and shock is declared, whatever the underlying mechanism",
+      "normalValue": "Resuscitation targets are MAP above 65 mmHg and SVO2 above 70%",
+      "lecture": "CV40"
+    },
+    {
+      "name": "Pulmonary Capillary Wedge Pressure (PCWP)",
+      "equation": "PCWP = left atrial pressure, measured by a Swan-Ganz catheter",
+      "meaning": "The left-sided filling pressure, and the single measurement that splits obstructive shock into its pulmonary form (low PCWP) and its structural form (high PCWP)",
+      "normalValue": "Low in hypovolemic and distributive shock, high in cardiogenic shock",
+      "lecture": "CV40"
+    },
+    {
+      "name": "Central Venous Pressure (CVP)",
+      "equation": "CVP = right atrial pressure, the venous counterpart of PCWP",
+      "meaning": "Reflects right atrial volume and pressure, so it falls whenever circulating volume or venous tone is lost and rises whenever the right heart cannot empty",
+      "normalValue": "Low in hypovolemic and distributive shock, high in cardiogenic and obstructive shock",
+      "lecture": "CV40"
+    }
+  ]
+}

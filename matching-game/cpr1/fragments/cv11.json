@@ -1,0 +1,81 @@
+{
+  "correlates": [
+    {
+      "name": "Severe Scoliosis with Cardiopulmonary Compromise",
+      "presentation": "A recent patient with a large scoliosis finally presented because of shortness of breath.",
+      "pathophysiology": "Progressive distortion of the thoracic container mechanically impairs cardiac and pulmonary function.",
+      "lecture": "CV11"
+    },
+    {
+      "name": "Pediatric Nervous System and Learning Problems",
+      "presentation": "Learning disabilities in children and a range of \"nervous-system-type\" problems.",
+      "pathophysiology": "Distortion of the cranial container can interfere with the function of the sensitive, tightly packed brain.",
+      "lecture": "CV11"
+    },
+    {
+      "name": "Birth Strain and Infant Cranial Dysfunction",
+      "presentation": "Mechanical cranial problems in infants — largely membranous in origin.",
+      "pathophysiology": "In babies the cranial bones are soft with no formed articulations, so the membranes carry the functional role of maintaining shape and stability; abnormal motion from a birth strain then drives abnormal sutural/structural development.",
+      "treatment": "At birth, often a treatment or two; by age 10 the abnormally developed structure is nearly impossible to reverse.",
+      "lecture": "CV11"
+    },
+    {
+      "name": "Traumatic Brain Injury / Post-Concussion Syndrome",
+      "presentation": "Post-concussion syndromes, head injuries, and problems presenting as nervous system or brain dysfunction (including learning problems).",
+      "pathophysiology": "A concussion severe enough to produce traumatic brain injury has a huge impact on the bones and membranes — but there may also be dysfunction of the motility of the brain itself.",
+      "treatment": "Treat the bones and membranes to improve function — but if a brain-motility component exists and you cannot identify and treat it, you do not entirely help your patient.",
+      "lecture": "CV11"
+    }
+  ],
+  "omm": [
+    {
+      "name": "Primary Respiratory Mechanism",
+      "definition": "The five observed phenomena Sutherland described: motility of the brain and spinal cord, fluctuation of the CSF, mobility of the dural membranes, mobility of the cranial bones, and involuntary mobility of the sacrum between the ilia",
+      "findings": "Palpable as a rhythmic change in cranial shape at roughly 6-12 cycles per minute — a change in shape, never in volume",
+      "treatment": "Its presence or absence anywhere in the body is itself diagnostic and serves as an index of overall health",
+      "lecture": "CV11"
+    },
+    {
+      "name": "Fluctuation of the CSF",
+      "definition": "The to-and-fro action of cerebrospinal fluid that Sutherland called the potency of the Tide — the fundamental principle and the drive of the whole mechanism",
+      "findings": "Circulation alone is insufficient for cellular exchange: interstitial pressure is negative, so unstirred fluid stagnates",
+      "treatment": "The goal of treatment is to promote the interchange of fluids, keeping concentration gradients continuously changing at the microcirculation",
+      "lecture": "CV11"
+    },
+    {
+      "name": "Reciprocal Tension Membrane",
+      "definition": "The falx cerebri in the sagittal plane and the tentorium cerebelli in the transverse plane, working as one unit whose opposing fiber directions guide and limit cranial bone motion",
+      "findings": "Because no muscles cross the cranial joints, the motion it produces is entirely involuntary",
+      "treatment": "Its fulcrum is the falx-tentorium junction at the straight sinus — the still point that supplies the power for the lever",
+      "lecture": "CV11"
+    },
+    {
+      "name": "Core Link",
+      "definition": "The dural continuity running from the foramen magnum through attachments at C2-C3, then free, to its anchor at S2",
+      "findings": "A bound sacrum keeps the head from opening — which is why the sacrum belongs to the cranial mechanism",
+      "treatment": "Treat the pelvis when the head will not respond after a head injury",
+      "lecture": "CV11"
+    },
+    {
+      "name": "Motility vs Mobility",
+      "definition": "Motility means capable of moving itself, which is what the brain and spinal cord do; mobility means it must be moved, which is what the bones and membranes do",
+      "findings": "On inhalation the cortical buds coil so the brain becomes shorter and fatter, and the cord lifts like a tadpole's tail; exhalation uncoils it",
+      "treatment": "Brain motility dysfunction after traumatic brain injury or concussion must be addressed or the patient is not fully helped",
+      "lecture": "CV11"
+    },
+    {
+      "name": "Cranial Inhalation Phase",
+      "definition": "The phase in which the transverse diameter widens while the anteroposterior and vertical diameters decrease",
+      "findings": "Midline bones move about transverse axes into flexion and the sphenobasilar junction rises; paired bones externally rotate",
+      "treatment": "The sacrum counternutates (rotates posteriorly) with cranial flexion, through the core link",
+      "lecture": "CV11"
+    },
+    {
+      "name": "Cranial Exhalation Phase",
+      "definition": "The phase in which the transverse diameter narrows while the anteroposterior diameter lengthens and the vertical deepens",
+      "findings": "Midline bones move into extension and the sphenobasilar junction drops; paired bones internally rotate",
+      "treatment": "The sacrum nutates (rotates anteriorly) with cranial extension",
+      "lecture": "CV11"
+    }
+  ]
+}

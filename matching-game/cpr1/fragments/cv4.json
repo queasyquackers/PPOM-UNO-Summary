@@ -1,0 +1,23 @@
+{
+  "correlates": [
+    {
+      "name": "Exercise-Associated Dehydration (Hot Yoga Scenario)",
+      "presentation": "Loose clothing (acute weight loss), atypically prominent superficial veins, intense thirst.",
+      "pathophysiology": "Vigorous exercise plus excessive sweating produces a body water deficit, altering fluid compartment volumes.",
+      "lecture": "CV4"
+    },
+    {
+      "name": "Digitalis Glycoside Toxicity (Foxglove)",
+      "presentation": "Loss of volume regulation with cell expansion and lysis.",
+      "pathophysiology": "Digitalis glycosides — alkaloids from Digitalis purpurea (foxglove) — block the Na⁺/K⁺-ATPase. Without osmotic work to exclude NaCl, Gibbs-Donnan forces win: water enters, cells swell and burst.",
+      "lecture": "CV4"
+    },
+    {
+      "name": "Solute-Free Water Infusion Injury",
+      "presentation": "Massive tissue damage at the injection site — the cells simply burst.",
+      "pathophysiology": "Infusing pure water delivers profoundly hypo-osmolar fluid directly to cells at the infusion site; water rushes in by osmosis.",
+      "treatment": "Never infuse solute-free water. When free water is needed, give isotonic 5% dextrose: isotonic on entry, then the glucose is metabolized to CO₂ and water, leaving free water safely diluted throughout the ECF.",
+      "lecture": "CV4"
+    }
+  ]
+}

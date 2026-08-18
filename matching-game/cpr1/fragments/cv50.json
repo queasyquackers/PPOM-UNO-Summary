@@ -1,0 +1,91 @@
+{
+  "correlates": [
+    {
+      "name": "Methemoglobinemia (Slide 6)",
+      "presentation": "Fatigue and a bluish tint to the skin.",
+      "pathophysiology": "The central iron atom of heme is oxidized from the normal Fe2+ to Fe3+. Ferric heme is unable to bind oxygen.",
+      "lecture": "CV50"
+    },
+    {
+      "name": "Sickle Cell Hemoglobin, HbS (Slide 7)",
+      "presentation": "A red cell packed with HbS has a lower oxygen-carrying capacity and destabilizes in shape, especially under oxygen-poor conditions, which wears the hemoglobin out much faster and causes a whole host of downstream problems.",
+      "pathophysiology": "A point mutation in the hemoglobin beta chain substitutes valine for glutamic acid, slightly changing the conformation of the molecule.",
+      "lecture": "CV50"
+    },
+    {
+      "name": "Carbon Monoxide Poisoning",
+      "presentation": "The lecture's example patient was lucky — the exposure lasted only long enough to saturate about 50% of hemoglobin with CO. Anything more would produce a state not consistent with survival.",
+      "pathophysiology": "CO competitively binds the same heme site as oxygen with 210-250x the affinity, forming carboxyhemoglobin and taking those binding sites out of service.",
+      "treatment": "Regular air, about 5 hours; air saturated with O2, about 1.5 hours (raising the concentration gradient to drive CO off the binding sites); hyperbaric chamber at 3 atmospheres, about 20 minutes in extreme cases.",
+      "lecture": "CV50"
+    }
+  ],
+  "transporters": [
+    {
+      "name": "Band 3 Anion Exchanger",
+      "location": "Red blood cell membrane",
+      "function": "Carries out the chloride shift — bicarbonate generated inside the red cell leaves in exchange for chloride entering, preserving electroneutrality so CO2 carriage can continue",
+      "regulation": "Runs in the opposite direction in the lung, where the whole sequence reverses to blow off CO2",
+      "inhibitor": "Not a clinical target; carbonic anhydrase is the only red-cell-bound piece of the bicarbonate buffer system",
+      "lecture": "CV50"
+    }
+  ],
+  "formulas": [
+    {
+      "name": "Oxygen Binding Capacity",
+      "equation": "1 g of hemoglobin binds 1.34 mL O2",
+      "meaning": "The maximum oxygen the hemoglobin present can carry, which is why anemia lowers oxygen content while leaving PO2 and saturation completely normal",
+      "normalValue": "15 g/100 mL x 1.34 = about 20.1 mL O2 per 100 mL blood",
+      "lecture": "CV50"
+    },
+    {
+      "name": "Oxygen Content",
+      "equation": "CaO2 = (capacity x % saturation) + dissolved O2",
+      "meaning": "Total oxygen carried in all forms — about 98% bound to hemoglobin and 2% dissolved; the dissolved fraction alone supplies 15 mL/min against a 250 mL/min demand, a 13-fold shortfall",
+      "normalValue": "Dissolved O2 = 100 mmHg x 0.003 = 0.3 mL per 100 mL blood",
+      "lecture": "CV50"
+    },
+    {
+      "name": "Oxygen Delivery",
+      "equation": "DO2 = cardiac output x oxygen content",
+      "meaning": "The quantity that actually matters at the tissue — it can fall from anemia, hypoxemia or low cardiac output, and treating the wrong one does nothing",
+      "normalValue": "Requires roughly 250 mL O2 per minute at rest",
+      "lecture": "CV50"
+    },
+    {
+      "name": "P50 and the Dissociation Curve",
+      "equation": "P50 = the PO2 at which hemoglobin is 50% saturated",
+      "meaning": "The sigmoidal shape comes from positive cooperativity — saturated hemoglobin holds tightly while unsaturated hemoglobin releases easily, so the plateau protects loading and the steep limb favors unloading",
+      "normalValue": "Unshifted P50 is about 25 mmHg; at PO2 50 mmHg hemoglobin is still about 85% saturated",
+      "lecture": "CV50"
+    },
+    {
+      "name": "Bohr Effect (Curve Shifts)",
+      "equation": "Right shift: high PCO2, low pH, high temperature, high 2,3-DPG. Left shift: the reverse",
+      "meaning": "A right shift raises P50 to about 40 mmHg so oxygen unloads more easily in exercising tissue; a left shift drops it to about 12.5 mmHg, favoring loading in the lung",
+      "normalValue": "Applies to adult hemoglobin only — HbF does not interact with 2,3-BPG, which is how the fetus outcompetes maternal blood",
+      "lecture": "CV50"
+    },
+    {
+      "name": "Haldane Effect",
+      "equation": "Deoxyhemoglobin binds CO2 and H+ more readily than oxyhemoglobin",
+      "meaning": "In an exercising muscle three things reinforce each other: the curve right-shifts so oxygen comes off, the resulting deoxyhemoglobin carries more CO2, and that same deoxyhemoglobin buffers the H+ the bicarbonate reaction just made. All three reverse in the lung",
+      "normalValue": "CO2 binds at a site distinct from the oxygen site, so the two are not competitive",
+      "lecture": "CV50"
+    },
+    {
+      "name": "CO2 Transport Fractions",
+      "equation": "Bicarbonate over 80%, carbaminohemoglobin 5-10%, dissolved 5-10%",
+      "meaning": "CO2 enters the red cell, carbonic anhydrase makes carbonic acid, which dissociates to bicarbonate and H+; the bicarbonate leaves through band 3 in exchange for chloride",
+      "normalValue": "Dissolved CO2 = 40 mmHg x 0.07 = 2.8 mL per 100 mL blood",
+      "lecture": "CV50"
+    },
+    {
+      "name": "Carbon Monoxide Affinity",
+      "equation": "CO binds the heme oxygen site with 210-250 times the affinity of oxygen",
+      "meaning": "Competitive displacement forms carboxyhemoglobin, and because CO never accumulates a dissolved partial pressure it stays diffusion-limited and keeps loading",
+      "normalValue": "Clearance takes about 5 hours on room air, 1.5 hours on saturated oxygen, and 20 minutes at 3 atmospheres hyperbaric",
+      "lecture": "CV50"
+    }
+  ]
+}

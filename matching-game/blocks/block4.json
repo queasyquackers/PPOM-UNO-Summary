@@ -1,0 +1,43 @@
+{
+  "title": "Bugs, Drugs &amp; Correlates",
+  "description": "Block 4 board-prep matching game — bugs, drugs, and clinical correlates from lectures 149-192.",
+  "issue": "Block IV",
+  "slogan": "Lectures 149&ndash;192",
+  "store": "mgb4",
+  "data": "matching_data.json",
+  "out": "block4_matching_game.html",
+  "cats": {
+    "bugs": {
+      "label": "Bugs", "anchorLabel": "Bug",
+      "attrs": [
+        {"field": "geography", "label": "Geographic Distribution"},
+        {"field": "disease", "label": "Disease"},
+        {"field": "symptoms", "label": "Symptoms"},
+        {"field": "treatment", "label": "Treatment"}
+      ]
+    },
+    "drugs": {
+      "label": "Drugs", "anchorLabel": "Drug",
+      "attrs": [
+        {"field": "disease", "label": "Disease / Indication"},
+        {"field": "mechanism", "label": "Mechanism"},
+        {"field": "adverseEffects", "label": "Adverse Effects"}
+      ]
+    },
+    "correlates": {
+      "label": "Clinical Correlates", "anchorLabel": "Correlate",
+      "attrs": [
+        {"field": "presentation", "label": "Patient Presentation"},
+        {"field": "pathophysiology", "label": "Pathophysiology"},
+        {"field": "treatment", "label": "Treatment"}
+      ]
+    },
+    "dermterms": {
+      "label": "Derm Terms", "anchorLabel": "Term",
+      "attrs": [
+        {"field": "definition", "label": "Definition"},
+        {"field": "example", "label": "Classic Example"}
+      ]
+    }
+  }
+}

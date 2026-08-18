@@ -1,0 +1,27 @@
+{
+  "correlates": [
+    {
+      "name": "Asthma",
+      "presentation": "episodic cough, wheeze, shortness of breath and chest tightness; in the acute severe attack, shortness of breath with chest pain and a wheezing cough.",
+      "pathophysiology": "the smooth muscle fibers wrapped around the bronchioles and terminal bronchioles undergo undue contraction, closing off airways and impeding airflow (Slide 14).",
+      "treatment": "beta-2 agonists - albuterol, epinephrine, isoproterenol - to reverse the constriction (Slide 8).",
+      "lecture": "CV47"
+    },
+    {
+      "name": "Allergic Rhinitis",
+      "presentation": "itchy, red, watery eyes and a stuffy, runny nose, present for more than a year alongside the episodic lower-airway symptoms.",
+      "pathophysiology": "the same allergic process acting on the upper airway mucosa rather than on bronchiolar smooth muscle; it accompanies asthma in the lecture's case (Slide 10).",
+      "lecture": "CV47"
+    },
+    {
+      "name": "Gastroesophageal Reflux Disease as an Airway Trigger",
+      "pathophysiology": "excess stomach acid reaches the respiratory tree, damages and irritates the mucosa, and that irritation triggers bronchoconstriction through the muscarinic pathway (Slide 9).",
+      "lecture": "CV47"
+    },
+    {
+      "name": "Post-Viral Airway Disease (including Long COVID)",
+      "pathophysiology": "viral infection of the airway is one of the depicted triggers of bronchoconstriction (Slide 9).",
+      "lecture": "CV47"
+    }
+  ]
+}

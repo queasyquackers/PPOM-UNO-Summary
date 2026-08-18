@@ -1,0 +1,85 @@
+{
+  "correlates": [
+    {
+      "name": "Anaphylaxis",
+      "presentation": "The lecturer's vignette - 25-year-old woman, sudden dyspnea, itchy rash and nausea after a seafood meal; pulse 125/min, respirations 24/min, O2 saturation 97%, BP 82/68; erythematous patches and wheals with mild lip swelling but no tongue or uvular swelling.",
+      "pathophysiology": "Allergen exposure produces a surge of histamine (mast cells) and bradykinin, both of which increase NO production in endothelial cells. Widespread vasodilation drops the blood pressure.",
+      "treatment": "IM epinephrine, first line. It activates alpha-adrenergic receptors on vascular smooth muscle, causing vasoconstriction that restores blood pressure. Patients with severe allergy carry an auto-injector (EpiPen).",
+      "lecture": "CV24"
+    },
+    {
+      "name": "von Willebrand Disease",
+      "presentation": "Prolonged bleeding even after minor injury; the most common genetic bleeding disorder. Autosomal dominant.",
+      "pathophysiology": "von Willebrand factor (vWF) is released exclusively by endothelial cells. At an injury site it binds exposed collagen in the damaged wall and bridges platelets to it, and it also binds factor VIII.",
+      "treatment": "Desmopressin, which stimulates endothelial cells to release stored vWF and factor VIII.",
+      "lecture": "CV24"
+    },
+    {
+      "name": "Hypertension",
+      "pathophysiology": "Both a cause and a consequence of endothelial dysfunction. A dysfunctional endothelium makes less NO, raising vasoconstrictor tone and blood pressure.",
+      "lecture": "CV24"
+    },
+    {
+      "name": "Pulmonary Arterial Hypertension",
+      "presentation": "Mean pulmonary artery pressure greater than 20 mmHg at rest.",
+      "pathophysiology": "Endothelial dysfunction in the pulmonary vasculature goes beyond reduced NO - there is also increased endothelin and elevated ROS, plus reduced prostacyclin, producing pulmonary vasoconstriction.",
+      "treatment": "Bosentan, an endothelin-1 receptor antagonist that stops endothelin binding its receptor; and sildenafil (Viagra), a PDE-5 inhibitor that prevents cGMP breakdown and enhances NO-mediated vasodilation.",
+      "lecture": "CV24"
+    },
+    {
+      "name": "Type 2 Diabetes Mellitus and Obesity",
+      "pathophysiology": "In T2DM, endothelial cells make less NO and more endothelin-1; endothelin-1 acts on ET-A and ET-B receptors on VSMC, causing vasoconstriction and smooth muscle proliferation. In obesity, NO again falls, impairing vasodilation and favoring vasoconstriction.",
+      "lecture": "CV24"
+    },
+    {
+      "name": "Deep Vein Thrombosis",
+      "presentation": "Swelling, redness, warmth and pain.",
+      "pathophysiology": "Endothelial dysfunction predisposes to thrombus formation as one leg of Virchow's triad.",
+      "lecture": "CV24"
+    },
+    {
+      "name": "COVID-19 Endotheliopathy",
+      "pathophysiology": "SARS-CoV-2 triggers inflammatory cytokines (cytokine storm) and directly injures the endothelium, producing endothelial activation and inflammation. NO production falls while inflammation and vasoconstriction rise.",
+      "lecture": "CV24"
+    }
+  ],
+  "drugs": [
+    {
+      "name": "Sildenafil",
+      "mechanism": "Inhibits phosphodiesterase-5, the enzyme that degrades cGMP, so the nitric oxide signal in vascular smooth muscle is sustained rather than created",
+      "indication": "Pulmonary arterial hypertension and erectile dysfunction",
+      "adverseEffects": "Profound hypotension when combined with nitrates, since both arms of the same cGMP pathway are being pushed at once",
+      "lecture": "CV24"
+    },
+    {
+      "name": "Bosentan",
+      "mechanism": "Antagonizes endothelin receptors, blocking the most potent endogenous vasoconstrictor the endothelium produces",
+      "indication": "Pulmonary arterial hypertension",
+      "adverseEffects": "Hepatotoxicity requiring liver monitoring; teratogenic",
+      "lecture": "CV24"
+    },
+    {
+      "name": "Desmopressin",
+      "mechanism": "A vasopressin analogue that triggers release of stored von Willebrand factor and factor VIII from endothelial cells",
+      "indication": "Von Willebrand disease and mild hemophilia A — and, at the V2 receptor, central diabetes insipidus",
+      "adverseEffects": "Hyponatremia from excessive free water retention; facial flushing and headache",
+      "lecture": "CV24"
+    }
+  ],
+  "formulas": [
+    {
+      "name": "Pulmonary Arterial Hypertension Threshold",
+      "equation": "Mean pulmonary artery pressure > 20 mmHg at rest",
+      "meaning": "The diagnostic cut-off for pulmonary arterial hypertension, a disease of endothelial dysfunction with too little nitric oxide and too much endothelin",
+      "normalValue": "Treated by pushing both levers — bosentan to block endothelin, sildenafil to preserve the NO signal",
+      "lecture": "CV24"
+    },
+    {
+      "name": "Nitric Oxide Signaling Cascade",
+      "equation": "ACh at M3 -> Ca2+/calmodulin -> eNOS -> L-arginine to NO -> guanylate cyclase -> cGMP -> PKG -> relaxation",
+      "meaning": "Nitric oxide is made in the endothelial cell but acts in the smooth muscle cell next door; shear stress activates the same pathway, which is why laminar flow is protective",
+      "normalValue": "PDE-5 terminates the signal by degrading cGMP — sildenafil blocks that step rather than making new NO",
+      "lecture": "CV24"
+    }
+  ]
+}

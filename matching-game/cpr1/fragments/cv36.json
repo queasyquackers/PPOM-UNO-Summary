@@ -1,0 +1,201 @@
+{
+  "correlates": [
+    {
+      "name": "Hypertensive Emergency",
+      "pathophysiology": "severe blood pressure elevation requiring controlled, titratable reduction; overshoot must be avoided because an abrupt fall provokes a sympathetic reflex.",
+      "treatment": "nicardipine or clevidipine by slow I.V. infusion (Slide 19). A DHP CCB is combined with labetalol or esmolol to prevent reflex tachycardia.",
+      "lecture": "CV36"
+    },
+    {
+      "name": "Variant (Vasospastic / Prinzmetal) Angina",
+      "pathophysiology": "coronary artery vasospasm rather than fixed obstruction.",
+      "treatment": "CCBs are first-line and may be combined with nitroglycerin (Slide 20). CCBs induce coronary vasodilation.",
+      "lecture": "CV36"
+    },
+    {
+      "name": "Exertional (Stable) Angina",
+      "pathophysiology": "fixed coronary obstruction; ischemia appears when demand rises.",
+      "treatment": "beta blockers are first-line; a BB plus a DHP CCB is more effective than either agent alone (Slide 20). Non-DHP CCBs are used for patients who do not tolerate a beta blocker, because of their negative inotropic and chronotropic effects.",
+      "lecture": "CV36"
+    },
+    {
+      "name": "Unstable Angina / Acute Coronary Syndrome",
+      "treatment": "a DHP CCB only when combined with a beta blocker. A non-DHP may be used only in patients who (1) do not tolerate a beta blocker, (2) do not have left ventricular dysfunction, and (3) show no signs of disturbed AV conduction (Slide 20).",
+      "lecture": "CV36"
+    },
+    {
+      "name": "Supraventricular Tachyarrhythmias",
+      "treatment": "verapamil and diltiazem in hemodynamically stable patients, to slow automaticity and slow conduction through the AV node, which slows the ventricular response (Slide 21).",
+      "lecture": "CV36"
+    },
+    {
+      "name": "Subarachnoid Hemorrhage",
+      "treatment": "nimodipine, which is lipophilic and produces cerebral artery vasodilation, to reduce the incidence and severity of ischemic deficits (Slide 21).",
+      "lecture": "CV36"
+    },
+    {
+      "name": "Raynaud Phenomenon",
+      "treatment": "long-acting DHP CCBs. At least a moderate reduction in the intensity of attacks and prevention of tissue loss is achievable in most patients (Slide 21).",
+      "lecture": "CV36"
+    },
+    {
+      "name": "Preterm Labor (Tocolysis)",
+      "treatment": "nifedipine, for 48 hours only, to suppress premature contractions in preterm labor at 24-34 weeks (Slide 21).",
+      "lecture": "CV36"
+    },
+    {
+      "name": "Dihydropyridine-Induced Peripheral Edema",
+      "presentation": "pitting edema, worst in the lower extremities and feet because of gravity.",
+      "pathophysiology": "vasodilation produces pre-capillary (arteriolar) dilation with post-capillary reflex constriction, raising capillary hydrostatic pressure and permeability, so fluid redistributes into the interstitium (Slide 22).",
+      "treatment": "dose reduction or a change of agent.",
+      "lecture": "CV36"
+    },
+    {
+      "name": "Digoxin Toxicity from a Verapamil Interaction",
+      "pathophysiology": "P-glycoprotein normally pumps digoxin out of the systemic circulation into the gut and into the renal tubule. Verapamil blocks P-gp, so less digoxin is removed at both sites and plasma levels climb (Slide 25).",
+      "treatment": "avoid the combination; if it is used, monitor digoxin levels closely.",
+      "lecture": "CV36"
+    },
+    {
+      "name": "Congestive Heart Failure",
+      "pathophysiology": "sustained sympathetic activation is initially compensatory but ultimately worsens heart failure.",
+      "treatment": "beta blockers, started at low dose in stable patients.",
+      "lecture": "CV36"
+    },
+    {
+      "name": "Hyperthyroidism and Thyroid Storm",
+      "presentation": "palpitations, tachycardia, tremulousness, anxiety, heat intolerance. Thyroid storm can cause supraventricular tachycardia and sudden death.",
+      "pathophysiology": "hyperthyroidism raises basal metabolic rate and enhances organ sensitivity to catecholamines, associated with an increased number of beta adrenergic receptors (Slide 49).",
+      "treatment": "beta blockers ameliorate the symptoms and control pulse rate, hypertension, and atrial fibrillation.",
+      "lecture": "CV36"
+    },
+    {
+      "name": "Glaucoma (Topical Ophthalmic Beta Blockers)",
+      "pathophysiology": "beta receptors of the eye are largely beta-2, located in the ciliary body epithelium and blood vessels (Slide 50).",
+      "treatment": "topical beta blockers decrease intraocular pressure, presumably by decreasing production of aqueous humor and/or ocular blood flow, which decreases the ultrafiltration responsible for aqueous production.",
+      "lecture": "CV36"
+    },
+    {
+      "name": "Situational / Performance Anxiety (\"Stage Fright\")",
+      "presentation": "extreme anxiety or panic in specific situations, with sympathetic manifestations - palpitations, chest tightness, breathlessness, muscular tension, trembling, flushing, sweating, dry mouth (Slide 51).",
+      "treatment": "a low dose of propranolol taken about an hour before the performance reliably decreases the somatic manifestations, such as the pounding heart and trembling hands and voice.",
+      "lecture": "CV36"
+    },
+    {
+      "name": "Hypoglycemia Unawareness in an Insulin-Treated Patient",
+      "presentation": "the patient does not recognize that he or she is dropping into hypoglycemia.",
+      "pathophysiology": "two hits (Slide 52). Beta-2 blockade blocks the hepatic glycogenolysis and gluconeogenesis that would raise blood sugar, and beta blockade blunts the adrenergic warning symptoms - tremor, tachycardia, nervousness.",
+      "lecture": "CV36"
+    },
+    {
+      "name": "Beta Blocker Withdrawal Syndrome",
+      "presentation": "nervousness, tachycardia, increased blood pressure (potentially higher than before treatment ever started), increased intensity of angina, and increased risk of sudden death…",
+      "pathophysiology": "chronic blockade causes upregulation or supersensitivity of beta adrenoceptors - more receptors expressed on the plasma membrane. Abrupt discontinuation exposes that enlarged pool to circulating norepinephrine and epinephrine (Slide 54).",
+      "treatment": "never stop a beta blocker abruptly - taper gradually over a week or more, depending on how long the patient has been treated and the patient's age .",
+      "lecture": "CV36"
+    }
+  ],
+  "drugs": [
+    {
+      "name": "Verapamil",
+      "mechanism": "Non-dihydropyridine L-type calcium channel blockade acting on vessels and heart alike, depressing sinus node automaticity and slowing AV conduction with the strongest frequency-dependent block of the class",
+      "indication": "Supraventricular tachyarrhythmia in a hemodynamically stable patient, hypertension, and angina",
+      "adverseEffects": "Bradycardia, worsened cardiac output and marked constipation; blocks P-glycoprotein so digoxin levels rise toward toxicity",
+      "lecture": "CV36"
+    },
+    {
+      "name": "Diltiazem",
+      "mechanism": "Non-dihydropyridine calcium channel blockade with intermediate potency — less vasodilation than the dihydropyridines but real nodal effects, with an IV onset around 3 minutes",
+      "indication": "Rate control in supraventricular tachyarrhythmia, hypertension and angina when some nodal effect is wanted",
+      "adverseEffects": "Bradycardia and AV block; contraindicated with an IV beta blocker, in ventricular dysfunction, or with systolic pressure below 90 mmHg",
+      "lecture": "CV36"
+    },
+    {
+      "name": "Nifedipine",
+      "mechanism": "Dihydropyridine blockade of L-type channels in arteriolar smooth muscle only, with no effect on AV nodal conduction or the rate of channel recovery",
+      "indication": "Hypertension and angina in extended-release form; also tocolysis for preterm labor at 24-34 weeks, limited to 48 hours",
+      "adverseEffects": "Peripheral edema, headache and flushing; the immediate-release form causes reflex tachycardia and is contraindicated in unstable angina and STEMI",
+      "lecture": "CV36"
+    },
+    {
+      "name": "Amlodipine",
+      "mechanism": "Dihydropyridine calcium channel blockade with slow absorption and a 30-50 hour half-life, so plasma peaks and troughs are minimal",
+      "indication": "First-line once-daily hypertension, where the flat concentration curve avoids the sympathetic reflex surges of short-acting agents",
+      "adverseEffects": "Ankle edema — the most common side effect, caused by pre-capillary dilation with post-capillary reflex constriction, so diuretics do not help it",
+      "lecture": "CV36"
+    },
+    {
+      "name": "Nicardipine",
+      "mechanism": "Intravenous dihydropyridine producing arteriolar dilation with a rapid alpha-phase of about 3 minutes",
+      "indication": "Hypertensive emergency, usually paired with labetalol or esmolol",
+      "adverseEffects": "Hypotension with reflex tachycardia; the terminal half-life stretches to 14 hours after a long infusion",
+      "lecture": "CV36"
+    },
+    {
+      "name": "Clevidipine",
+      "mechanism": "Ultra-short-acting intravenous dihydropyridine with a 1-minute half-life, allowing minute-to-minute titration",
+      "indication": "Hypertensive emergency where tight, rapidly reversible control is needed; duration is only 5-15 minutes",
+      "adverseEffects": "Rebound hypertension on abrupt discontinuation; lipid emulsion vehicle",
+      "lecture": "CV36"
+    },
+    {
+      "name": "Nimodipine",
+      "mechanism": "Dihydropyridine with selectivity for cerebral arteries, available orally only with 13% bioavailability",
+      "indication": "Subarachnoid hemorrhage, to limit vasospasm",
+      "adverseEffects": "Hypotension; must never be given intravenously",
+      "lecture": "CV36"
+    },
+    {
+      "name": "Propranolol",
+      "mechanism": "First-generation non-selective competitive antagonism of beta-1 and beta-2 receptors, with high lipid solubility and CNS penetration",
+      "indication": "Angina, arrhythmia, hyperthyroid symptom control, and low-dose use an hour before performance anxiety",
+      "adverseEffects": "Bronchospasm from beta-2 blockade in asthma or COPD, peripheral vascular insufficiency, fatigue, insomnia and nightmares",
+      "lecture": "CV36"
+    },
+    {
+      "name": "Metoprolol",
+      "mechanism": "Second-generation relatively beta-1 selective blockade, with selectivity that is dose-dependent and lost at higher doses",
+      "indication": "One of only four beta blockers with proven mortality benefit in stable heart failure, plus post-MI and rate control",
+      "adverseEffects": "Excessive bradycardia, delayed recovery from insulin-induced hypoglycemia with blunted warning symptoms, decreased insulin sensitivity",
+      "lecture": "CV36"
+    },
+    {
+      "name": "Esmolol",
+      "mechanism": "Beta-1 selective blockade with a 9-minute half-life, given only as an intravenous infusion",
+      "indication": "Hypertensive emergency and intraoperative tachycardia, where the drug must be able to disappear within minutes",
+      "adverseEffects": "Hypotension and bradycardia that resolve quickly on stopping the infusion",
+      "lecture": "CV36"
+    },
+    {
+      "name": "Carvedilol",
+      "mechanism": "Third-generation non-selective beta blockade plus alpha-1 antagonism, calcium entry blockade and antioxidant activity",
+      "indication": "HFrEF, where it is one of the four agents with proven mortality benefit; also hypertension",
+      "adverseEffects": "Orthostatic hypotension from the alpha-1 component, bradycardia, and bronchospasm from non-selective beta blockade",
+      "lecture": "CV36"
+    },
+    {
+      "name": "Labetalol",
+      "mechanism": "Combined non-selective beta and alpha-1 blockade, available intravenously with a half-life around 5 hours",
+      "indication": "Hypertensive emergency, and the recommended agent for hypertension in pregnancy",
+      "adverseEffects": "Orthostatic hypotension, scalp tingling, bradycardia and bronchospasm",
+      "lecture": "CV36"
+    },
+    {
+      "name": "Nebivolol",
+      "mechanism": "Third-generation beta-1 selective blockade that also stimulates nitric oxide production for vasodilation",
+      "indication": "Hypertension and heart failure — one of the four beta blockers with proven mortality benefit",
+      "adverseEffects": "Headache and fatigue; the vasodilating agents avoid the insulin-resistance penalty of the non-vasodilating ones",
+      "lecture": "CV36"
+    }
+  ],
+  "transporters": [
+    {
+      "name": "L-type Calcium Channel",
+      "location": "Vascular smooth muscle, cardiac myocytes, and SA and AV nodal tissue",
+      "function": "A slow, high-threshold channel that admits extracellular calcium and triggers calcium-induced calcium release; in smooth muscle the calcium-calmodulin complex activates MLCK, phosphorylating myosin light chains to produce contraction",
+      "regulation": "Blockers bind the pore-forming alpha-1 subunit from the inner side of the membrane and prefer open and inactivated states, so the block deepens with stimulation frequency",
+      "inhibitor": "Verapamil and diltiazem (heart and vessels), and the dihydropyridines (arteriolar smooth muscle)",
+      "lecture": "CV36"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "correlates": [
+    {
+      "name": "Non-Physiologic Right-to-Left Shunt (Eisenmenger Syndrome and Others)",
+      "presentation": "Hypoxemia that persists on supplemental oxygen.",
+      "pathophysiology": "A septal defect lets oxygen-poor right-heart blood mix directly into oxygen-rich blood returning from the lungs, which is then ejected into the aorta.",
+      "lecture": "CV52"
+    },
+    {
+      "name": "Congenital Left-to-Right Shunts (ASD, PDA)",
+      "presentation": "Typically no hypoxemia. It appears only when the defect is large enough to compromise left ventricular efficiency.",
+      "pathophysiology": "Oxygenated blood recirculates into the pulmonary circuit down a pressure gradient; blood delivered to the systemic circulation stays fully oxygenated.",
+      "treatment": "Congenital, and the lecturer stresses that these need to be fixed right away.",
+      "lecture": "CV52"
+    },
+    {
+      "name": "Global Hypoxia and the Right Heart",
+      "pathophysiology": "Uniform alveolar hypoxia constricts the entire pulmonary bed at once. Redistribution is impossible, so the only net result is a large rise in pulmonary vascular resistance.",
+      "lecture": "CV52"
+    },
+    {
+      "name": "ARDS with Atelectasis: Refractory Hypoxemia",
+      "presentation": "Severe hypoxemia; SaO2 82% despite 100% oxygen via non-rebreather mask.",
+      "pathophysiology": "Fluid-filled, collapsed alveoli are perfused but not ventilated - a large acquired physiologic right-to-left shunt.",
+      "lecture": "CV52"
+    },
+    {
+      "name": "Pulmonary Embolism as Dead Space Ventilation",
+      "presentation": "V/Q for that unit is infinity, and its alveolar gas drifts toward ambient values, PO2 150 and PCO2 0.",
+      "pathophysiology": "The embolus clogs a pulmonary vessel, so a ventilated alveolus loses its perfusion entirely - alveolar dead space.",
+      "lecture": "CV52"
+    }
+  ],
+  "formulas": [
+    {
+      "name": "Ventilation-Perfusion Ratio",
+      "equation": "V/Q = alveolar ventilation / pulmonary blood flow",
+      "meaning": "The whole lung averages 0.8 — ventilation running at 80% of perfusion — but gravity splits it: the apex reaches about 3 because perfusion drops more than ventilation, while the base falls to about 0.6 because perfusion rises more than ventilation",
+      "normalValue": "Targets are PaO2 100 mmHg and PaCO2 40 mmHg; the middle zone at 0.8 is the ideal match",
+      "lecture": "CV52"
+    },
+    {
+      "name": "Shunt (V/Q = 0)",
+      "equation": "Ventilation absent, perfusion normal — wasted perfusion",
+      "meaning": "Blood passes unventilated alveoli and leaves with mixed venous values of 40/46 because no exchange occurred; a right-to-left shunt always causes hypoxemia and cannot be corrected by breathing oxygen",
+      "normalValue": "Physiologic shunt is about 2% of cardiac output; a shunt fraction QS/QT above 2% is pathologic",
+      "lecture": "CV52"
+    },
+    {
+      "name": "Dead Space Ventilation (V/Q = infinity)",
+      "equation": "Ventilation present, perfusion absent — wasted ventilation",
+      "meaning": "The alveolus holds inspired values of 150/0 because no blood arrives to exchange with; the classic cause is pulmonary embolism",
+      "normalValue": "Compensations are bronchoconstriction toward the unperfused unit and hypoxic vasoconstriction away from the unventilated one",
+      "lecture": "CV52"
+    },
+    {
+      "name": "Hypoxic Pulmonary Vasoconstriction",
+      "equation": "Triggered when alveolar PO2 falls below 70 mmHg",
+      "meaning": "The pulmonary circulation does the opposite of every other capillary bed — it constricts when hypoxic, diverting blood away from poorly ventilated alveoli, which is protective in pneumonia",
+      "normalValue": "Focal hypoxia shifts flow harmlessly; global hypoxia at altitude raises vascular resistance and drives right heart failure",
+      "lecture": "CV52"
+    },
+    {
+      "name": "Pulmonary Vascular Resistance vs Lung Volume",
+      "equation": "Extra-alveolar vessels have highest resistance at low volume; alveolar capillaries have highest resistance at high volume",
+      "meaning": "The two curves oppose each other, so total pulmonary vascular resistance reaches its minimum exactly at functional residual capacity",
+      "normalValue": "Both circuits carry about 6 L/min, but the pulmonary side runs at far lower pressure with thinner, more compliant vessels",
+      "lecture": "CV52"
+    },
+    {
+      "name": "Every V/Q Defect Causes Both",
+      "equation": "Any V/Q mismatch produces hypoxemia AND hypercapnia",
+      "meaning": "Inefficient exchange strands oxygen outside the blood and carbon dioxide inside it at the same time, in either direction of mismatch",
+      "normalValue": "Left-to-right shunts (ASD, PDA) typically do not cause hypoxemia; right-to-left shunts (VSD, Eisenmenger) always do",
+      "lecture": "CV52"
+    }
+  ]
+}

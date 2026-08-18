@@ -1,0 +1,96 @@
+{
+  "correlates": [
+    {
+      "name": "Congenital (Infant) Torticollis",
+      "presentation": "Dislikes turning to one side (decreased right rotation), head sidebent toward the tight muscle; flattening from always lying on the same side.",
+      "pathophysiology": "SCM spasm; CN XI (spinal accessory) innervates the SCM and exits the jugular foramen — a precarious junction of occipital condylar parts and petrous temporal bone (occipitomastoid, OM, suture)…",
+      "treatment": "OMM to the SCM and cranial findings; by the third visit the spasm had decreased, the torticollis resolved, and the baby turned comfortably both ways.",
+      "lecture": "CV12"
+    },
+    {
+      "name": "Plagiocephaly and Brachycephaly",
+      "pathophysiology": "Moldable infant bones deform under sustained positional pressure. Plagiocephaly = asymmetrical distortion (one side flattened); brachycephaly (\"flat-head syndrome\") = shortened front-to-back (AP) diameter.",
+      "treatment": "OMM, or helmet molding therapy — helmets require ~23 hours/day of wear (compliance is difficult) and a recent article showed they do not necessarily improve outcomes. Prospective OMM studies use a validated sensor \"hairnet\" mapping head asymmetry.",
+      "lecture": "CV12"
+    },
+    {
+      "name": "Craniosynostosis",
+      "presentation": "Mimics positional plagiocephaly — the must-not-miss differential.",
+      "pathophysiology": "Early closure of a cranial suture, also producing a misshaped head.",
+      "treatment": "Referral to pediatric neurosurgery.",
+      "lecture": "CV12"
+    },
+    {
+      "name": "Duane Retraction Syndrome (DRS)",
+      "presentation": "Decreased abduction of one eye (here the right) since birth; vision problems.",
+      "pathophysiology": "Congenital absence or poor development of the abducens nuclei with aberrant innervation, classically limiting abduction (lateral rectus, CN VI).",
+      "treatment": "Corrective lenses or eye muscle surgery improve head position but do not normalize horizontal motility. This patient had a right lateral strain (non-physiologic); after OMM her lateral gaze was more symmetric, written up as a poster.",
+      "lecture": "CV12"
+    }
+  ],
+  "omm": [
+    {
+      "name": "SBS Flexion",
+      "definition": "A physiologic strain about two transverse axes in which the midline bones rotate in opposite directions and the sphenobasilar synchondrosis rises",
+      "findings": "On the vault hold the hands spread and the operator's sense is of motion toward the feet",
+      "treatment": "Named for the phase, not for a side; balance the membranous tension at the point of stillness",
+      "lecture": "CV12"
+    },
+    {
+      "name": "SBS Extension",
+      "definition": "A physiologic strain about two transverse axes in which the midline bones rotate oppositely and the sphenobasilar synchondrosis drops",
+      "findings": "On the vault hold the hands approximate and the sense of motion is toward the vertex",
+      "treatment": "Named for the phase; treated by balancing membranous tension",
+      "lecture": "CV12"
+    },
+    {
+      "name": "SBS Torsion",
+      "definition": "A physiologic strain about a single anteroposterior axis running from nasion to opisthion, with sphenoid and occiput rotating in opposite directions",
+      "findings": "The hands roll in opposite directions on the vault hold, and the side is named for the HIGH greater wing — the index finger that travels cephalad",
+      "treatment": "Physiologic, so an indirect balanced membranous tension approach follows the ease",
+      "lecture": "CV12"
+    },
+    {
+      "name": "SBS Sidebending / Rotation",
+      "definition": "A physiologic strain combining two vertical axes with one anteroposterior axis, so the vertical components move oppositely and the AP components move together",
+      "findings": "Named for the convexity: the convex side moves down and out while the concave side moves up and in",
+      "treatment": "Balanced membranous tension into the direction of ease",
+      "lecture": "CV12"
+    },
+    {
+      "name": "Superior Vertical Shear",
+      "definition": "A non-physiologic strain about two transverse axes in which sphenoid and occiput rotate in the SAME direction, both anteriorly, leaving the basisphenoid high",
+      "findings": "On the vault hold the fingers rotate down toward the table",
+      "treatment": "Non-physiologic and usually trauma-induced; the midline is disrupted, so treatment addresses the shear itself",
+      "lecture": "CV12"
+    },
+    {
+      "name": "Inferior Vertical Shear",
+      "definition": "A non-physiologic strain about two transverse axes with both bones rotating posteriorly in the SAME direction, leaving the basisphenoid low",
+      "findings": "On the vault hold the fingers rotate up toward the ceiling",
+      "treatment": "Trauma-induced; treat the shear directly",
+      "lecture": "CV12"
+    },
+    {
+      "name": "Lateral Shear",
+      "definition": "A non-physiologic strain about two vertical axes with sphenoid and occiput translating in the SAME direction, producing a parallelogram-shaped head",
+      "findings": "Index fingers sit on the greater wings and the pinkies displace the opposite way; the side is named for the direction the basisphenoid moved",
+      "treatment": "Trauma-induced midline disruption requiring direct attention to the shear",
+      "lecture": "CV12"
+    },
+    {
+      "name": "SBS Compression",
+      "definition": "A non-physiologic pattern in which the sphenobasilar synchondrosis is jammed toward the midline with no axis of motion at all",
+      "findings": "The classic bowling ball feel — dense, heavy, with minimal or absent primary respiratory mechanism",
+      "treatment": "Decompression of the synchondrosis before any other pattern can be addressed",
+      "lecture": "CV12"
+    },
+    {
+      "name": "Vault Hold",
+      "definition": "The standard diagnostic contact: index fingers on the greater wings of the sphenoid, middle and ring fingers around the ear, and little fingers on the occiput",
+      "findings": "The vault accommodates to whatever the base is doing, so what the vault reveals is a base strain — the house tells you about the basement",
+      "treatment": "True articular mobility and the primary dysfunctions live in the cranial base, so base treatment is the more profound",
+      "lecture": "CV12"
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "correlates": [
+    {
+      "name": "CAI-Induced Hyperchloremic Metabolic Acidosis",
+      "presentation": "Usually a laboratory finding - mild acidosis with a raised serum chloride and a normal anion gap. Alkaline urine.",
+      "pathophysiology": "Carbonic anhydrase inhibition causes massive bicarbonate loss in the urine. Continued loss lowers plasma bicarbonate, the key blood buffer, so arterial pH falls. Chloride is reabsorbed in its place to maintain electroneutrality, raising serum chloride.",
+      "treatment": "Usually none; it is mild, and in altitude illness it is the therapeutic goal. Stop the drug if it is not.",
+      "lecture": "CV30"
+    },
+    {
+      "name": "Acute Mountain Sickness (Acute Altitude Sickness)",
+      "presentation": "Headache, nausea and vomiting, fatigue, dizziness, shortness of breath, sleep disturbance.",
+      "pathophysiology": "Rapid ascent to high elevation gives the body no time to adjust to lower oxygen pressure.",
+      "treatment": "Acetazolamide, for both prevention and treatment.",
+      "lecture": "CV30"
+    },
+    {
+      "name": "Open-Angle Glaucoma",
+      "pathophysiology": "Bicarbonate formed in the ciliary epithelium is required for aqueous humor production. Carbonic anhydrase inhibition reduces bicarbonate formation, so aqueous humor secretion falls and intraocular pressure drops, relieving pressure on the optic nerve.",
+      "treatment": "Systemic acetazolamide or topical dorzolamide/brinzolamide eye drops.",
+      "lecture": "CV30"
+    },
+    {
+      "name": "Diuretic Resistance / Refractory Edema (Diuretic Braking Phenomenon)",
+      "pathophysiology": "Edema refractory to typically effective doses of loop diuretic. Three mechanism families: compensatory tubular adaptations, renal hemodynamics, and pharmacokinetic mechanisms.",
+      "treatment": "Step 1 - exclude excessive salt intake and drug interactions. Step 2 - check adherence and increase the loop diuretic dose.",
+      "lecture": "CV30"
+    },
+    {
+      "name": "Loop Diuretic-Induced Hypokalemic Metabolic Alkalosis",
+      "presentation": "Hypokalemia with a rising serum bicarbonate; muscle weakness, cramps, arrhythmia risk.",
+      "pathophysiology": "Four converging mechanisms. (1) Strong natriuresis delivers a large sodium load to the principal cells, driving ENaC-mediated K+ wasting and, in parallel, aldosterone-regulated H+ secretion.",
+      "treatment": "Potassium repletion, chloride/volume repletion, or a potassium-sparing strategy. Acetazolamide is an adjunct that gets at the cause by inducing a countervailing metabolic acidosis.",
+      "lecture": "CV30"
+    },
+    {
+      "name": "Loop Diuretic Ototoxicity",
+      "pathophysiology": "Loop diuretics inhibit NKCC1 in the inner ear, disrupting the endolymph potassium balance that normal hearing depends on. The result is disturbance of hearing and balance.",
+      "treatment": "Recognize, reduce dose or rate, avoid stacking ototoxic agents.",
+      "lecture": "CV30"
+    },
+    {
+      "name": "The Triple Hit: NSAID + ACE Inhibitor/ARB + Diuretic Acute Kidney Injury",
+      "presentation": "The lecture's case - a 75-year-old with hypertension and heart failure on lisinopril and furosemide self-treats knee pain with naproxen and develops dizziness and a sharp rise in serum creatinine.",
+      "pathophysiology": "Three simultaneous attacks on glomerular filtration pressure. (1) The NSAID blocks prostaglandin-mediated afferent dilation, so the afferent arteriole constricts and glomerular filtration pressure falls.",
+      "treatment": "Stop the NSAID; reassess volume status and diuretic dose.",
+      "lecture": "CV30"
+    }
+  ],
+  "drugs": [
+    {
+      "name": "Acetazolamide",
+      "mechanism": "Reversibly inhibits both membrane-bound and cytosolic carbonic anhydrase in the proximal tubule, so H+ is unavailable for NHE3 and bicarbonate plus sodium escape reabsorption",
+      "indication": "Acute mountain sickness (prevention and treatment), open-angle glaucoma, and metabolic alkalosis — including loop-diuretic-induced hypokalemic alkalosis",
+      "adverseEffects": "Mild hyperchloremic metabolic acidosis, calcium phosphate kidney stones from alkaline urine, paresthesia, somnolence, dizziness and ataxia",
+      "lecture": "CV30"
+    },
+    {
+      "name": "Dorzolamide / Brinzolamide",
+      "mechanism": "Topical carbonic anhydrase inhibition in the ciliary epithelium reduces bicarbonate formation, so aqueous humor secretion falls",
+      "indication": "Open-angle glaucoma as eye drops, avoiding the systemic acidosis of oral acetazolamide",
+      "adverseEffects": "Local ocular stinging and bitter taste, with minimal systemic effect",
+      "lecture": "CV30"
+    },
+    {
+      "name": "Furosemide",
+      "mechanism": "Blocks NKCC2 in the thick ascending limb, preventing reabsorption of up to 25% of the filtered sodium load, and uniquely stimulates intrarenal PGE2 and PGI2 secretion",
+      "indication": "Edema from any cause — acute pulmonary edema, chronic heart failure, nephrotic syndrome, cirrhotic ascites, acute kidney injury",
+      "adverseEffects": "Hypokalemic metabolic alkalosis, hypomagnesemia, ototoxicity and hyperuricemia; oral absorption is only 50-60% and unreliable in gut edema",
+      "lecture": "CV30"
+    },
+    {
+      "name": "Torsemide",
+      "mechanism": "NKCC2 blockade delivered with nearly 100% oral bioavailability and a 3-5 hour half-life, so the block is predictable even when the gut wall is edematous",
+      "indication": "The rational switch in refractory edema when high-dose oral furosemide fails in a heart failure patient with gut edema",
+      "adverseEffects": "The same electrolyte profile as furosemide — hypokalemia, alkalosis, hypomagnesemia — with a longer duration of diuresis around 12 hours",
+      "lecture": "CV30"
+    },
+    {
+      "name": "Ethacrynic Acid",
+      "mechanism": "The one loop diuretic that lacks a sulfonamide moiety, blocking NKCC2 without the N4-aromatic amine implicated in sulfonamide hypersensitivity",
+      "indication": "Reserved for the patient with a documented severe sulfonamide allergy — the board answer, though clinical cross-reactivity is now considered insignificant",
+      "adverseEffects": "The highest ototoxicity risk of the loop diuretics, with no efficacy or pharmacokinetic advantage, very expensive and often unavailable",
+      "lecture": "CV30"
+    },
+    {
+      "name": "Bumetanide",
+      "mechanism": "NKCC2 blockade in the thick ascending limb with a longer duration of action than furosemide",
+      "indication": "An alternative loop diuretic when a longer-acting agent is wanted; otherwise interchangeable with furosemide",
+      "adverseEffects": "Loop-class electrolyte losses — sodium, potassium, chloride, calcium and magnesium — with ototoxicity at high doses",
+      "lecture": "CV30"
+    }
+  ],
+  "transporters": [
+    {
+      "name": "NKCC2 (Na+/K+/2Cl- cotransporter)",
+      "location": "Apical membrane of the thick ascending limb of the loop of Henle",
+      "function": "Reabsorbs about 25% of the filtered sodium load without water, simultaneously diluting tubular fluid and building the hypertonic medullary interstitium",
+      "regulation": "Vasopressin raises its activity, and luminal K+ recycling through ROMK keeps it supplied with potassium",
+      "inhibitor": "Loop diuretics — furosemide, torsemide, bumetanide, ethacrynic acid",
+      "lecture": "CV30"
+    },
+    {
+      "name": "NKCC1",
+      "location": "Stria vascularis of the inner ear",
+      "function": "Sustains the endolymph potassium balance that normal hearing and balance depend on",
+      "regulation": "Constitutively active and unrelated to renal sodium handling",
+      "inhibitor": "Loop diuretics — the off-target hit that produces ototoxicity, worst with ethacrynic acid",
+      "lecture": "CV30"
+    },
+    {
+      "name": "NHE3 (Na+/H+ exchanger)",
+      "location": "Apical membrane of the proximal tubule",
+      "function": "Moves sodium in as H+ goes out to titrate filtered bicarbonate, driving reabsorption of 65-70% of filtered sodium and 80-90% of filtered bicarbonate",
+      "regulation": "Stimulated by angiotensin II; stalls when carbonic anhydrase cannot regenerate intracellular H+",
+      "inhibitor": "Carbonic anhydrase inhibitors indirectly, by starving it of the H+ it needs to export",
+      "lecture": "CV30"
+    },
+    {
+      "name": "ROMK",
+      "location": "Apical membrane of principal cells in the collecting duct and of thick ascending limb cells",
+      "function": "Secretes potassium down the lumen-negative gradient in the collecting duct, and recycles potassium back into the lumen in the TAL to keep NKCC2 running",
+      "regulation": "Aldosterone raises its activity, and secretion climbs with distal sodium delivery and tubular flow",
+      "inhibitor": "Blocked indirectly by ENaC inhibitors and MR antagonists, which collapse the driving gradient",
+      "lecture": "CV30"
+    },
+    {
+      "name": "Organic Anion Transporters (OATs)",
+      "location": "Basolateral then apical membranes of the proximal tubule cell",
+      "function": "Secrete highly protein-bound drugs from blood into tubular fluid — the only route by which a diuretic too albumin-bound to be filtered reaches its luminal target",
+      "regulation": "Competitive, so any organic anion in the blood competes for the same carrier",
+      "inhibitor": "Probenecid and NSAIDs, producing a blunted diuretic response at a normal serum drug level",
+      "lecture": "CV30"
+    },
+    {
+      "name": "ENaC (Epithelial Na+ Channel)",
+      "location": "Apical membrane of principal cells in the late DCT, connecting tubule and cortical collecting duct",
+      "function": "Sodium entry here leaves the lumen electrically negative, and that lumen-negative potential is the key determinant of potassium secretion through ROMK",
+      "regulation": "Aldosterone raises its expression, as does any upstream diuretic that increases distal sodium delivery",
+      "inhibitor": "Amiloride and triamterene directly; spironolactone and eplerenone by blocking its aldosterone-driven expression",
+      "lecture": "CV30"
+    }
+  ]
+}

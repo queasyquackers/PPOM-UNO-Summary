@@ -1,0 +1,138 @@
+{
+  "correlates": [
+    {
+      "name": "First-Dose Effect (Alpha Blocker Orthostatic Hypotension)",
+      "presentation": "dizziness or syncope on standing, most prominent with the first dose or a dose increase; it tends to subside as blood pressure normalizes but may persist.",
+      "pathophysiology": "loss of alpha-1 mediated venoconstriction on standing lets blood pool in the legs, so cerebral perfusion falls (Slide 11).",
+      "treatment": "make the first dose small and give it at bedtime so the peak concentration falls during sleep; add a diuretic to counter the sodium and water retention.",
+      "lecture": "CV37"
+    },
+    {
+      "name": "Benign Prostatic Hyperplasia",
+      "pathophysiology": "alpha-1 receptors in the smooth muscle of the bladder neck and prostate hold the outlet constricted.",
+      "treatment": "an alpha-1 blocker relaxes that smooth muscle and improves urine flow (Slide 12).",
+      "lecture": "CV37"
+    },
+    {
+      "name": "Pheochromocytoma",
+      "presentation": "hypertension and sweating from excessive catecholamine release.",
+      "pathophysiology": "a tumor of the adrenal medulla secreting norepinephrine (mainly) and epinephrine, episodically or continuously.",
+      "treatment": "phenoxybenzamine perioperatively; because it is an irreversible blocker the blockade outlasts the drug (duration >=3 days). Surgery is definitive.",
+      "lecture": "CV37"
+    },
+    {
+      "name": "Hypertension in Pregnancy",
+      "treatment": "methyldopa for chronic management (Slide 20); hydralazine, including intravenously, for hypertensive emergency during pregnancy or postpartum (Slide 30).",
+      "lecture": "CV37"
+    },
+    {
+      "name": "Clonidine Withdrawal (Rebound Hypertension)",
+      "presentation": "rebound hypertension with headache, apprehension, tremors, abdominal pain, sweating and tachycardia - a catalogue of sympathetic effects.",
+      "pathophysiology": "sympathetic outflow has been suppressed for months. Abrupt discontinuation releases a catecholamine surge (Slide 21).",
+      "treatment": "never stop abruptly; taper gradually.",
+      "lecture": "CV37"
+    },
+    {
+      "name": "Hydralazine-Induced Lupus-Like Syndrome",
+      "presentation": "rash (the malar butterfly distribution, Slide 33), arthralgia, myalgia and fever.",
+      "pathophysiology": "hydralazine is inactivated by N-acetyltransferase 2 (NAT2). Slow acetylators carry polymorphisms giving fewer or less active enzymes, so plasma levels run high for a given dose (Slide 25).",
+      "treatment": "reversible - it resolves when the drug is withdrawn.",
+      "lecture": "CV37"
+    },
+    {
+      "name": "Nitroprusside Cyanide Toxicity",
+      "pathophysiology": "cyanide is part of the nitroprusside molecule, released when red blood cells take the drug up. Detoxification by rhodanese needs a sulfur donor and saturates; a large or prolonged infusion exhausts the sulfur supply and cyanide accumulates (Slide 24).",
+      "treatment": "two antidote strategies (Slide 32) - sodium nitrite followed by sodium thiosulfate, supplying the sulfur donor that lets cyanide metabolism continue; or hydroxocobalamin, which binds cyanide to form cyanocobalamin, nontoxic vitamin B12.",
+      "lecture": "CV37"
+    }
+  ],
+  "drugs": [
+    {
+      "name": "Prazosin",
+      "mechanism": "Selective alpha-1 antagonism relaxing both resistance arterioles and capacitance veins, so preload falls along with peripheral vascular resistance",
+      "indication": "Add-on therapy for mild to moderate refractory hypertension; not initial therapy because it offers less cardiovascular mortality protection",
+      "adverseEffects": "First-dose orthostatic hypotension and syncope, worst at initiation or dose increase; give a small first dose at bedtime",
+      "lecture": "CV37"
+    },
+    {
+      "name": "Terazosin",
+      "mechanism": "Alpha-1 selective blockade with near-100% bioavailability and a 12-hour half-life supporting once-daily dosing",
+      "indication": "Hypertension with benign prostatic hyperplasia, where relaxing bladder neck and prostatic smooth muscle improves urine flow",
+      "adverseEffects": "Orthostatic hypotension, nasal stuffiness from loss of mucosal vasoconstriction, and intraoperative floppy iris syndrome",
+      "lecture": "CV37"
+    },
+    {
+      "name": "Doxazosin",
+      "mechanism": "Alpha-1 selective blockade cleared by CYP3A4 with a 22-hour half-life and over 24 hours of action",
+      "indication": "Once-daily therapy for hypertension with coexisting BPH",
+      "adverseEffects": "Orthostatic hypotension, compensatory sodium and water retention that calls for a companion diuretic, and floppy iris syndrome",
+      "lecture": "CV37"
+    },
+    {
+      "name": "Phenoxybenzamine",
+      "mechanism": "Irreversible non-selective alpha blockade favoring alpha-1 over alpha-2, so recovery requires synthesis of new receptors",
+      "indication": "Pheochromocytoma — pre-operative alpha blockade before any beta blocker is added — and urinary outlet obstruction",
+      "adverseEffects": "Reflex tachycardia from alpha-2 autoreceptor block releasing unregulated norepinephrine, miosis, and 3 or more days of effect after a dose",
+      "lecture": "CV37"
+    },
+    {
+      "name": "Phentolamine",
+      "mechanism": "Competitive non-selective alpha blockade with equal alpha-1 and alpha-2 affinity, given intravenously with a 19-minute half-life",
+      "indication": "Vasopressor extravasation, and reversal of the vasoconstrictor in dental local anesthesia",
+      "adverseEffects": "Marked reflex tachycardia and hypotension over its 10-30 minute duration",
+      "lecture": "CV37"
+    },
+    {
+      "name": "Clonidine",
+      "mechanism": "Alpha-2 agonism at brainstem receptors — postsynaptic alpha-2 inhibits sympathetic neurons while presynaptic alpha-2 cuts norepinephrine release — lowering sympathetic and raising parasympathetic tone while preserving baroreceptor sensitivity, renal blood flow and GFR",
+      "indication": "Refractory hypertension after ACE inhibitor, diuretic and CCB; also epidural pain control, ADHD, opioid and alcohol withdrawal, and menopausal vasomotor symptoms",
+      "adverseEffects": "Sedation, dry mouth, constipation and bradycardia; abrupt cessation gives a catecholamine surge with rebound hypertension, so the beta blocker must be tapered off several days first",
+      "lecture": "CV37"
+    },
+    {
+      "name": "Methyldopa",
+      "mechanism": "Converted by aromatic L-amino acid decarboxylase and dopamine beta-hydroxylase to alpha-methylnorepinephrine, a false transmitter that replaces norepinephrine in vesicles and acts on alpha-2 receptors",
+      "indication": "Hypertension in pregnancy — the long-standing agent of choice",
+      "adverseEffects": "Sedation and depression; onset takes 4-6 hours but the effect lasts 24-48 hours",
+      "lecture": "CV37"
+    },
+    {
+      "name": "Hydralazine",
+      "mechanism": "Relaxes arteriolar smooth muscle only, by a mechanism that has never been defined; it undergoes NAT2 acetylation, so effect varies with acetylator status",
+      "indication": "Moderate to severe hypertension, HFrEF paired with isosorbide dinitrate, and hypertensive emergency in pregnancy or postpartum",
+      "adverseEffects": "Reflex tachycardia plus salt and water retention — because veins are untouched — so it needs a beta blocker and a diuretic alongside",
+      "lecture": "CV37"
+    },
+    {
+      "name": "Minoxidil",
+      "mechanism": "Its active metabolite minoxidil sulfate opens K-ATP channels, hyperpolarizing arteriolar smooth muscle so it cannot contract",
+      "indication": "Severe hypertension as a last-line agent, with a very strong antihypertensive effect lasting about 3 days",
+      "adverseEffects": "Marked reflex tachycardia and fluid retention requiring a beta blocker and loop diuretic, plus hypertrichosis and pericardial effusion",
+      "lecture": "CV37"
+    },
+    {
+      "name": "Nitroprusside",
+      "mechanism": "Taken up by red cells and split into nitric oxide and cyanide; the nitric oxide activates guanylyl cyclase and raises cGMP, dilating arteries and veins alike",
+      "indication": "Acute severe hypertension, acute decompensated heart failure, and controlled hypotension during surgery — onset under 2 minutes, duration 1-10 minutes",
+      "adverseEffects": "Cyanide and thiocyanate accumulation, since detoxification by rhodanese is saturable and thiocyanate clearance takes about 3 days, longer still in renal failure",
+      "lecture": "CV37"
+    },
+    {
+      "name": "Fenoldopam",
+      "mechanism": "Dopamine D1 receptor agonism coupled through Gs to adenylyl cyclase and cAMP, dilating peripheral arterioles while producing natriuresis and diuresis",
+      "indication": "Severe hypertension for up to 48 hours, particularly useful when renal function is compromised and in pediatric patients",
+      "adverseEffects": "Reflex tachycardia, headache and flushing; a 5-minute half-life makes it fully titratable",
+      "lecture": "CV37"
+    }
+  ],
+  "transporters": [
+    {
+      "name": "K-ATP Channel (vascular smooth muscle)",
+      "location": "Plasma membrane of arteriolar smooth muscle cells",
+      "function": "Opening it lets potassium leave, hyperpolarizing the cell so voltage-gated calcium channels stay shut and the arteriole cannot contract",
+      "regulation": "Opened by minoxidil sulfate, the active metabolite of minoxidil; closed by sulfonylureas in the pancreatic beta cell isoform",
+      "inhibitor": "Sulfonylureas act on the beta-cell isoform; the vascular channel is opened, not blocked, by minoxidil",
+      "lecture": "CV37"
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "correlates": [
+    {
+      "name": "SGLT2 Inhibitors (\"Glucuretics\") in Type 2 Diabetes and Heart Failure",
+      "pathophysiology": "blocking apical SGLT2 in S1, the transporter responsible for most glucose reabsorption, forces glucose into the urine — hence glucuretics.",
+      "treatment": "developed for type 2 diabetes mellitus, later found remarkably efficacious in congestive heart failure; approved for both.",
+      "lecture": "CV10"
+    },
+    {
+      "name": "Urea Retention and the Elevated BUN",
+      "presentation": "rising BUN above the normal 7-18 mg/dL.",
+      "pathophysiology": "urea reabsorption follows water reabsorption and the luminal gradient. Severe dehydration, falling renal blood flow and GFR, or progressive renal disease lower urine flow, raise fractional urea reabsorption, and cause retention.",
+      "treatment": "give IV fluids and increase urine flow — less water and urea are reabsorbed, so more urea clears and the BUN falls.",
+      "lecture": "CV10"
+    },
+    {
+      "name": "Tubular Proteinuria (Proximal Tubule Injury)",
+      "presentation": "proteinuria on urinalysis. The lecturer's example: people foraging for mushrooms who eat a toxic look-alike, where the pattern of proteinuria helps localize the damage.",
+      "pathophysiology": "protein recovery depends on ATP- and microtubule-dependent receptor-mediated endocytosis. Poison that machinery and filtered protein passes into the urine — tubule injury causes proteinuria even without glomerular injury.",
+      "lecture": "CV10"
+    },
+    {
+      "name": "Probenecid and Penicillin G: Blocking the Organic Acid Secretory System",
+      "pathophysiology": "penicillin G is an organic anion avidly secreted into the lumen by the OASS, so much of a dose is lost in urine. Probenecid inhibits the organic acid secretory system, blocking that secretion.",
+      "lecture": "CV10"
+    },
+    {
+      "name": "Type 1 Diabetes Mellitus (Case Presentation)",
+      "presentation": "polyuria (7.5 L/day vs. a normal 0.8-1.5 L/day), polydipsia, two months of weight loss, fatigue and lethargy, failing schoolwork, and dehydration in a previously healthy 12-year-old athlete.",
+      "pathophysiology": "blood sugar exceeds the renal threshold of 200 mg/dL; SGLT2/SGLT1 saturate at Tm; unreabsorbed luminal glucose acts as an osmotic diuretic, and downstream segments have no reserve to reclaim it.",
+      "lecture": "CV10"
+    }
+  ],
+  "transporters": [
+    {
+      "name": "SGLT2",
+      "location": "Apical membrane of the S1 segment of the proximal convoluted tubule",
+      "function": "A high-capacity, low-affinity carrier moving 1 Na+ with 1 glucose, responsible for about 90% of glucose reabsorption",
+      "regulation": "Powered indirectly by the sodium gradient the basolateral Na+/K+ ATPase maintains; saturates once the filtered load exceeds the transport maximum",
+      "inhibitor": "SGLT2 inhibitors, the -flozin glucuretics approved for type 2 diabetes and heart failure",
+      "lecture": "CV10"
+    },
+    {
+      "name": "SGLT1",
+      "location": "Apical membrane of the S3 segment of the proximal straight tubule",
+      "function": "A low-capacity, high-affinity carrier moving 2 Na+ per glucose, which gives it the steepest apical gradient and lets it scavenge whatever SGLT2 missed",
+      "regulation": "Positioned late in the tubule where luminal glucose is already low, so it works as the mop-up transporter",
+      "inhibitor": "Weakly by SGLT2 inhibitors; it is also the main intestinal glucose transporter",
+      "lecture": "CV10"
+    },
+    {
+      "name": "GLUT1 / GLUT2",
+      "location": "Basolateral membrane of proximal tubule cells",
+      "function": "Facilitated-diffusion channels that release reabsorbed glucose into the interstitium — sodium-independent, and the exit step that keeps intracellular glucose from backing up",
+      "regulation": "Passive, following the concentration gradient created by apical SGLT uptake",
+      "inhibitor": "Not a clinical drug target",
+      "lecture": "CV10"
+    },
+    {
+      "name": "UT-A1 / UT-A3 (Urea Transporters)",
+      "location": "Apical (UT-A1) and basolateral (UT-A3) membranes of the medullary collecting duct",
+      "function": "Reabsorb about 50% of luminal urea transcellularly, depositing it in the medullary interstitium where it contributes much of the osmotic gradient that concentrates urine",
+      "regulation": "Vasopressin increases their activity, coupling urea recycling to water conservation",
+      "inhibitor": "None clinically; at low urine flow only about 15% of filtered urea escapes, which is why BUN climbs in dehydration",
+      "lecture": "CV10"
+    },
+    {
+      "name": "UT-A2",
+      "location": "Thin limbs of the loop of Henle",
+      "function": "Secretes urea back into the tubular lumen, restoring luminal urea after the proximal tubule reabsorbed roughly half of it paracellularly",
+      "regulation": "Part of the urea recycling loop that sustains the medullary gradient",
+      "inhibitor": "None",
+      "lecture": "CV10"
+    },
+    {
+      "name": "PepT1 / PepT2",
+      "location": "Apical membrane of the proximal tubule — PepT1 in S1-S2, PepT2 in S3",
+      "function": "H+-coupled cotransport of 2-5 residue peptides that resisted brush-border hydrolysis, recovering 99% of filtered oligopeptides",
+      "regulation": "PepT1 is low-affinity and high-capacity; PepT2 is high-affinity and low-capacity, mirroring the SGLT2/SGLT1 arrangement",
+      "inhibitor": "Not a clinical drug target, though it carries beta-lactam antibiotics",
+      "lecture": "CV10"
+    },
+    {
+      "name": "OCT2",
+      "location": "Basolateral membrane of the proximal straight tubule (S3)",
+      "function": "The entry step of the organic base secretory system, drawing organic cations out of blood driven by the inside-negative membrane potential",
+      "regulation": "Paired with apical MATE1, MATE2-K and MDR1 for exit; handles dopamine, epinephrine, norepinephrine and histamine",
+      "inhibitor": "Competition from cimetidine and other cationic drugs; blocking it stops amiloride and triamterene from ever reaching their luminal target",
+      "lecture": "CV10"
+    },
+    {
+      "name": "MATE1 / MATE2-K",
+      "location": "Apical membrane of the proximal straight tubule",
+      "function": "The exit step of organic cation secretion, using the H+ gradient to push cations into tubular fluid",
+      "regulation": "Depends on the luminal proton gradient set up by NHE3",
+      "inhibitor": "Cimetidine, and drugs competing for the same carrier",
+      "lecture": "CV10"
+    },
+    {
+      "name": "URAT1",
+      "location": "Apical membrane of the proximal tubule, alongside OAT4 and OAT10",
+      "function": "Reabsorbs filtered urate; because reabsorption dominates over secretion, only about 10% of the filtered urate load is finally excreted",
+      "regulation": "Volume depletion enhances proximal fluid reabsorption and drags more urate with it, which is exactly how diuretics raise plasma urate",
+      "inhibitor": "Probenecid, which blocks reabsorption and is therefore uricosuric",
+      "lecture": "CV10"
+    },
+    {
+      "name": "Megalin-Cubilin Endocytosis",
+      "location": "Apical clathrin-coated pits of the proximal tubule",
+      "function": "Receptor-mediated endocytosis that recovers 96-99% of filtered albumin plus low-molecular-weight proteins and peptide hormones, digesting them in lysosomes and returning amino acids basolaterally",
+      "regulation": "Requires ATP and microtubule-associated movement, so it fails when the tubule is injured",
+      "inhibitor": "Metabolic inhibitors and cytochalasin B — which is why tubular injury alone can cause proteinuria with a normal glomerulus",
+      "lecture": "CV10"
+    }
+  ],
+  "formulas": [
+    {
+      "name": "Glucose Threshold and Transport Maximum",
+      "equation": "Threshold = 200 mg/dL; Tm = ~400 mg/min",
+      "meaning": "Glucose is 100% filtered and over 99% reabsorbed until the SGLTs saturate; the threshold is where glucose first appears in urine, and the Tm is where every carrier is fully occupied",
+      "normalValue": "Plasma glucose 100 mg/dL — half the threshold — which is why healthy people never spill glucose",
+      "lecture": "CV10"
+    },
+    {
+      "name": "Urea Excretion",
+      "equation": "About 50% of the filtered urea load is excreted at normal urine flow",
+      "meaning": "Urea is 100% filtered, roughly half reabsorbed paracellularly in the proximal tubule, secreted back in the thin limbs, then half reabsorbed again in the medullary collecting duct",
+      "normalValue": "Falls to about 15% excreted at low urine flow (BUN rises) and up to 70% at high flow (IV fluids lower BUN)",
+      "lecture": "CV10"
+    },
+    {
+      "name": "Blood Urea Nitrogen (BUN)",
+      "equation": "BUN reflects urea, the primary nitrogenous end product of amino acid catabolism",
+      "meaning": "Urea is made in the liver urea cycle, which detoxifies about 95% of ammonium; it makes up roughly half of all urinary solute and doubles as a tool for water regulation",
+      "normalValue": "7-18 mg/dL, with plasma urea 2.5-6 mM — an unusually wide tolerable range",
+      "lecture": "CV10"
+    },
+    {
+      "name": "Plasma Urate",
+      "equation": "Urate is the end product of purine catabolism via xanthine oxidase",
+      "meaning": "Filtered, then both reabsorbed and secreted in the proximal tubule, with reabsorption dominant",
+      "normalValue": "3-7 mg/dL (0.2-0.4 mM); only about 10% of the filtered load is excreted",
+      "lecture": "CV10"
+    },
+    {
+      "name": "PAH Clearance",
+      "equation": "C_PAH = effective renal plasma flow",
+      "meaning": "PAH is both filtered and actively secreted, so essentially all of it is removed in a single pass — clearing it measures the plasma actually delivered to the kidney",
+      "normalValue": "600-650 mL/min",
+      "lecture": "CV10"
+    }
+  ]
+}

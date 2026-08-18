@@ -1,0 +1,46 @@
+{
+  "correlates": [
+    {
+      "name": "Imperforate Anus",
+      "presentation": "A newborn who cannot defecate — failure to pass meconium. Within a day the parents realize something is wrong if it was missed at birth.",
+      "pathophysiology": "Dysfunction of the urorectal septum, which normally forms the sphincters and the opening of the anus into the cloacal region. If it fails, the anus is not open.",
+      "lecture": "CV3"
+    },
+    {
+      "name": "Hydronephrosis",
+      "presentation": "Fluid-filled enlargement of one (or both) kidneys with a distended ureter.",
+      "pathophysiology": "Urine/fluid accumulates in the urinary tract and cannot drain properly; the fluid backs up into the ureter, which bulges and expands.",
+      "lecture": "CV3"
+    },
+    {
+      "name": "Renal Agenesis",
+      "presentation": "Unilateral agenesis is surprisingly benign — one kidney is enough. In a baby, the solitary kidney expands and enlarges (hypertrophies) because it does the work of two.",
+      "pathophysiology": "A kidney is not formed (agenesis = not developed; the Greek \"a-\" means \"no\").",
+      "lecture": "CV3"
+    },
+    {
+      "name": "Oligohydramnios",
+      "presentation": "Without the protective fluid, the embryo/fetus sticks to the wall of the uterus and gets deformed — feet, arms, and sometimes the face are molded against the wall, and the deformation is permanent (\"you're born this way\").",
+      "pathophysiology": "Too little amniotic fluid (oligo- = a little). Amniotic fluid is essentially the baby's urine — the fetus pees it out, swallows it, and recirculates it continuously as it grows.",
+      "lecture": "CV3"
+    },
+    {
+      "name": "Polyhydramnios",
+      "presentation": "When the water breaks, a gallon or two of fluid comes out — a bad sign that flags the diagnosis.",
+      "pathophysiology": "Excess accumulation of amniotic fluid — because the embryo/fetus does not swallow it (or does not swallow enough of it). Maternal diabetes can also cause it.",
+      "lecture": "CV3"
+    },
+    {
+      "name": "Horseshoe Kidney",
+      "presentation": "Asymptomatic. It does not hurt the kidneys; you can live a completely normal life and even be an Olympic athlete.",
+      "pathophysiology": "The two kidneys are connected (fused) by mistake. As the fused kidney rises, it cannot ascend fully because the inferior mesenteric artery stops it — so it gets stuck low.",
+      "lecture": "CV3"
+    },
+    {
+      "name": "Pelvic Kidney",
+      "presentation": "Sits low, next to the bladder. It functions normally — you would not know you had one unless it showed up on an X-ray.",
+      "pathophysiology": "A kidney that fails to rise during its normal ascent.",
+      "lecture": "CV3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "correlates": [
+    {
+      "name": "Primary Aldosteronism",
+      "presentation": "the triad of hypertension, unexplained hypokalemia, and metabolic alkalosis.",
+      "pathophysiology": "primary mineralocorticoid excess, specifically aldosterone, driving sodium retention with potassium and hydrogen ion loss.",
+      "lecture": "CV38"
+    },
+    {
+      "name": "Renal Artery Stenosis and Fibromuscular Dysplasia",
+      "presentation": "an abdominal bruit heard on abdominal auscultation is the exam clue for both.",
+      "pathophysiology": "renovascular narrowing lowers renal perfusion, which stimulates renin and drives the RAAS cascade above.",
+      "lecture": "CV38"
+    },
+    {
+      "name": "Obstructive Sleep Apnea",
+      "presentation": "polysomnography.",
+      "pathophysiology": "disordered breathing during sleep; a recognized secondary cause of hypertension.",
+      "lecture": "CV38"
+    },
+    {
+      "name": "Resistant Hypertension",
+      "presentation": "blood pressure remaining >= 140/90 despite optimal use of 3 or more antihypertensive medications of different classes, including a diuretic at maximally tolerated dose - or blood pressure controlled only on 4 or more medications…",
+      "lecture": "CV38"
+    },
+    {
+      "name": "Hypertensive Emergency",
+      "presentation": ">= 180/>= 120 plus acute end-organ damage. Search for encephalopathy or stroke; retinal hemorrhages or papilledema; myocardial infarction, heart failure, or aortic dissection; acute kidney injury.",
+      "lecture": "CV38"
+    },
+    {
+      "name": "Hypertensive Nephrosclerosis",
+      "pathophysiology": "chronically increased pressure narrows the afferent and efferent arterioles, which reduces glomerular blood flow and produces glomerular and tubular ischemia, then nephrosclerosis and fibrosis.",
+      "lecture": "CV38"
+    }
+  ]
+}

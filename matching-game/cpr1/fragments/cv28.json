@@ -1,0 +1,116 @@
+{
+  "correlates": [
+    {
+      "name": "Ruptured Chordae Tendineae / Papillary Muscle Dysfunction after Myocardial Infarction",
+      "presentation": "the valve leaks severely; the lecturer notes it can leak so far that it produces severe, even lethal cardiac incapacity.",
+      "pathophysiology": "low coronary blood flow in MI ruptures a chorda tendinea or paralyzes a papillary muscle. The tethering system fails, so during ventricular contraction the mitral leaflet bulges far backward into the left atrium.",
+      "lecture": "CV28"
+    },
+    {
+      "name": "Atrial Fibrillation",
+      "presentation": "frequently silent - the lecturer stresses that many people do not realize they have it.",
+      "pathophysiology": "irregular, rapid, erratic, non-rhythmic beating of the atria. Coordinated atrial contraction is lost, so the atria cannot deliver the primer-pump volume to the ventricle - exactly the situation in which the normally minor atrial kick becomes important.",
+      "lecture": "CV28"
+    },
+    {
+      "name": "Case Study Opened in This Lecture (diagnosis deferred to Part II)",
+      "presentation": "73-year-old man in the ER with exertional dyspnea, syncope and chest pain; poorly managed hypercholesterolemia and an 11-year history of hypertension.",
+      "lecture": "CV28"
+    }
+  ],
+  "findings": [
+    {
+      "name": "JVP 'a' Wave",
+      "represents": "Atrial contraction — the pressure bump of atrial systole, following the P wave by about 0.1 second",
+      "territory": "Right atrium, read from the jugular venous pulse",
+      "association": "Absent in atrial fibrillation; prominent in first-degree AV block; large in right atrial myxoma, pulmonary hypertension and pulmonary stenosis",
+      "lecture": "CV28"
+    },
+    {
+      "name": "JVP 'c' Wave",
+      "represents": "Compression of the atrium by the contracting ventricle, appearing just after the peak of the QRS",
+      "territory": "Right atrium, transmitted from the tricuspid valve bulging backward",
+      "association": "Marks the start of ventricular systole on the venous tracing",
+      "lecture": "CV28"
+    },
+    {
+      "name": "JVP 'x' Descent",
+      "represents": "Atrial relaxation, when atrial pressure falls after contraction",
+      "territory": "Right atrium",
+      "association": "Absent in tricuspid regurgitation, where systolic backflow fills the atrium instead of letting it relax",
+      "lecture": "CV28"
+    },
+    {
+      "name": "JVP 'v' Wave",
+      "represents": "Passive atrial filling from the great veins while the AV valve is still closed",
+      "territory": "Right atrium during ventricular systole",
+      "association": "Becomes giant in tricuspid regurgitation",
+      "lecture": "CV28"
+    },
+    {
+      "name": "JVP 'y' Descent",
+      "represents": "The fall in atrial pressure as the AV valve opens and the atrium empties into the ventricle",
+      "territory": "Right atrium at the onset of ventricular filling",
+      "association": "Slow in tricuspid stenosis; absent in cardiac tamponade, where the ventricle cannot expand to receive the blood",
+      "lecture": "CV28"
+    },
+    {
+      "name": "S1 Heart Sound",
+      "represents": "Closure of the mitral and tricuspid valves at the start of isovolumetric contraction",
+      "territory": "AV valves, timed to the QRS",
+      "association": "Marks the beginning of systole; all four valves are closed during the phase it opens",
+      "lecture": "CV28"
+    },
+    {
+      "name": "S2 Heart Sound",
+      "represents": "Closure of the aortic and pulmonic valves at the start of isovolumetric relaxation",
+      "territory": "Semilunar valves, timed just after the T wave",
+      "association": "Marks the beginning of diastole and end-systolic volume",
+      "lecture": "CV28"
+    },
+    {
+      "name": "S3 Heart Sound",
+      "represents": "A low-pitched sound during the rapid filling phase, as blood strikes a compliant or overfilled ventricle",
+      "territory": "Early diastole, just after S2",
+      "association": "Normal in youth and pregnancy; in an older patient it suggests volume overload and heart failure",
+      "lecture": "CV28"
+    },
+    {
+      "name": "S4 Heart Sound",
+      "represents": "Atrial contraction forcing blood into a stiff ventricle during atrial systole",
+      "territory": "Late diastole, just before S1",
+      "association": "A stiff, non-compliant ventricle — hypertrophy from long-standing hypertension or aortic stenosis",
+      "lecture": "CV28"
+    }
+  ],
+  "formulas": [
+    {
+      "name": "Normal Chamber Pressures",
+      "equation": "LV 100-140 / 3-12; aorta systolic = LV systolic, diastolic ~80; LA mean 2-10; RA mean 2-8 mmHg",
+      "meaning": "The pressure map that drives every valve: valves are entirely passive and open or close only because a gradient reverses",
+      "normalValue": "Right-sided pressures sit below their left-sided counterparts, and LV and RV outputs equalize over minutes",
+      "lecture": "CV28"
+    },
+    {
+      "name": "Cardiac Cycle Timing",
+      "equation": "One beat lasts 0.8-0.9 s at 60-100 bpm; two-thirds diastole and one-third systole at rest",
+      "meaning": "Atrial systole takes about 100 ms against roughly 800 ms of atrial diastole, and the AV nodal delay of more than 0.1 s exists so the atria can load the ventricles first",
+      "normalValue": "With exertion diastole shortens far more than systole, which is why tachycardia compromises filling and coronary perfusion",
+      "lecture": "CV28"
+    },
+    {
+      "name": "Atrial Kick",
+      "equation": "About 10 mL of a 140 mL end-diastolic volume, up to 20% at most",
+      "meaning": "Most atrial blood reaches the ventricle passively during atrial diastole, not during atrial systole — so losing the kick matters only when the ventricle is already stiff or the rate is high",
+      "normalValue": "Its loss is what makes new atrial fibrillation symptomatic",
+      "lecture": "CV28"
+    },
+    {
+      "name": "The Seven Phases of the Cardiac Cycle",
+      "equation": "Atrial systole, isovolumetric contraction, rapid ejection, reduced ejection, isovolumetric relaxation, rapid filling, reduced filling",
+      "meaning": "The two isovolumetric phases are the only times all four valves are shut, and they are exactly the flat segments of the ventricular volume curve — if volume is changing, a valve is open",
+      "normalValue": "S1 opens isovolumetric contraction; S2 opens isovolumetric relaxation",
+      "lecture": "CV28"
+    }
+  ]
+}

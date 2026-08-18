@@ -1,0 +1,60 @@
+{
+  "title": "Nephrons, Pumps &amp; Pressures",
+  "description": "CPR Block 1 board-prep matching game — drugs, transporters, formulas, correlates, ECG findings and OMM from lectures CV1-CV54.",
+  "issue": "Block V",
+  "slogan": "Lectures CV1&ndash;CV54",
+  "store": "mgcpr1",
+  "data": "cpr1/matching_data.json",
+  "out": "cpr1_matching_game.html",
+  "cats": {
+    "drugs": {
+      "label": "Drugs", "anchorLabel": "Drug",
+      "attrs": [
+        {"field": "mechanism", "label": "Mechanism"},
+        {"field": "indication", "label": "Indication"},
+        {"field": "adverseEffects", "label": "Adverse Effects"}
+      ]
+    },
+    "transporters": {
+      "label": "Transporters &amp; Channels", "anchorLabel": "Transporter",
+      "attrs": [
+        {"field": "location", "label": "Location"},
+        {"field": "function", "label": "Function"},
+        {"field": "regulation", "label": "Regulated By"},
+        {"field": "inhibitor", "label": "Blocked By"}
+      ]
+    },
+    "formulas": {
+      "label": "Formulas &amp; Values", "anchorLabel": "Concept",
+      "attrs": [
+        {"field": "equation", "label": "Equation"},
+        {"field": "meaning", "label": "What It Measures"},
+        {"field": "normalValue", "label": "Normal Value"}
+      ]
+    },
+    "correlates": {
+      "label": "Clinical Correlates", "anchorLabel": "Correlate",
+      "attrs": [
+        {"field": "presentation", "label": "Patient Presentation"},
+        {"field": "pathophysiology", "label": "Pathophysiology"},
+        {"field": "treatment", "label": "Treatment"}
+      ]
+    },
+    "findings": {
+      "label": "ECG &amp; Imaging", "anchorLabel": "Finding",
+      "attrs": [
+        {"field": "represents", "label": "What It Represents"},
+        {"field": "territory", "label": "Territory / Location"},
+        {"field": "association", "label": "Associated Condition"}
+      ]
+    },
+    "omm": {
+      "label": "OMM &amp; Cranial", "anchorLabel": "Technique / Pattern",
+      "attrs": [
+        {"field": "definition", "label": "Definition"},
+        {"field": "findings", "label": "Diagnostic Findings"},
+        {"field": "treatment", "label": "Treatment"}
+      ]
+    }
+  }
+}
