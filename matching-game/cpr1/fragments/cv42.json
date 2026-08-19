@@ -1,0 +1,55 @@
+{
+  "correlates": [
+    {
+      "name": "Lumbar Disc Herniation with Radiculopathy",
+      "presentation": "Axial back pain, referred posterior thigh pain, or true radicular leg pain. Posture may show a trunk side shift that unloads the disc.",
+      "pathophysiology": "As above - inflammatory nucleus reaches or breaches the innervated outer annulus, and root pain follows either mechanical compression or chemical inflammation.",
+      "treatment": "Therapy and manipulation first; MRI and surgical referral for true or progressive weakness.",
+      "lecture": "CV42"
+    },
+    {
+      "name": "Cauda Equina Syndrome",
+      "presentation": "The S2-S4 findings above, with or without leg weakness.",
+      "pathophysiology": "Compression of the lumbosacral roots below the conus - classically a large central disc herniation, but also degenerative central stenosis, epidural hematoma, tumor, infection…",
+      "treatment": "Urgent surgical decompression.",
+      "lecture": "CV42"
+    },
+    {
+      "name": "Lumbar Spinal Stenosis with Neurogenic Claudication",
+      "presentation": "Leg pain on walking at a predictable distance, relieved by sitting. The shopping cart sign - leaning forward on a cart or walker - relieves it the same way, by flexing the lumbar spine.",
+      "pathophysiology": "Degenerative narrowing of the foramen and central canal. Walking cycles the lumbar spine into repeated extension, and extension of an already narrow foramen provokes symptoms.",
+      "treatment": "Therapy and manipulation; MRI and referral if leg symptoms do not improve.",
+      "lecture": "CV42"
+    },
+    {
+      "name": "Spondylolysis and Isthmic Spondylolisthesis",
+      "presentation": "Back pain in a young athlete - high school age. A visible step-off may be seen on the lateral film.",
+      "pathophysiology": "Stress fracture through the pars interarticularis, which allows the vertebra above to translate forward.",
+      "lecture": "CV42"
+    },
+    {
+      "name": "Sacral Insufficiency Fracture",
+      "presentation": "Low back and buttock pain in an elderly patient, often without significant trauma.",
+      "pathophysiology": "In the elderly the SI joint often fuses/ankyloses while bone quality falls with osteoporosis.",
+      "lecture": "CV42"
+    },
+    {
+      "name": "Piriformis Syndrome",
+      "presentation": "Typically no actual back pain - deep buttock pain radiating down the posterior thigh to the back of the knee. Supine, the leg often rests in passive external rotation, which slackens the muscle and unloads the nerve. Gait is antalgic or normal.",
+      "pathophysiology": "The piriformis pressing on the sciatic nerve. Active contraction makes it bulge against the nerve; internal rotation of the hip stretches it taut against the nerve. Either is a provocative maneuver.",
+      "lecture": "CV42"
+    },
+    {
+      "name": "Psoas Syndrome",
+      "presentation": "Back pain via its lumbar attachments and groin and thigh pain via its insertion on the lesser trochanter, looking much like L2-L3 disc pathology.",
+      "pathophysiology": "The psoas is not just a hip flexor - it actively stabilizes and moves the lumbar spine. A spectrum from image-confirmable tendonitis or bursitis (athletes doing heavy hip flexion or plyometrics) to a simply tight psoas harboring a trigger point.",
+      "lecture": "CV42"
+    },
+    {
+      "name": "Metastatic Disease of the Spine",
+      "presentation": "The pain has a different feel - patients do not describe positional modifiers. It is a deep, creepy pain at night in bed that does not change with position.",
+      "pathophysiology": "The spine is a common site of metastasis.",
+      "lecture": "CV42"
+    }
+  ]
+}

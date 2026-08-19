@@ -1,0 +1,71 @@
+{
+  "correlates": [
+    {
+      "name": "Pulmonary Fibrosis",
+      "presentation": "hypoxemia and exertional dyspnea; oxygen, already the poorer diffuser, suffers before CO2 does.",
+      "pathophysiology": "thickening of the epithelium and basal membrane separating the alveolar space from the capillary raises Δx. Since Δx is the denominator of Fick's equation, Vx falls and DL falls. Pulmonary edema does the same thing by inserting fluid into the path.",
+      "lecture": "CV48"
+    },
+    {
+      "name": "Emphysema",
+      "presentation": "the same functional endpoint as fibrosis — a diffusion-limited exchange with hypoxemia.",
+      "pathophysiology": "destruction of cells rather than fibrotic thickening. The alveolar surface area A shrinks, so gases have \"less opportunity\" to cross; Vx and DL fall.",
+      "lecture": "CV48"
+    },
+    {
+      "name": "Carbon Monoxide Uptake",
+      "pathophysiology": "CO dissolves well in blood, but as it enters the bloodstream it is taken up by hemoglobin \"like a magnet,\" immediately and essentially completely.",
+      "lecture": "CV48"
+    },
+    {
+      "name": "High-Altitude Hypoxemia",
+      "presentation": "a healthy lung compensates, since equilibration merely takes longer and still completes within the available transit time.",
+      "pathophysiology": "barometric pressure falls with altitude, so by Dalton's law inspired and alveolar PO2 fall with it — down to roughly 50 mmHg at extreme altitude. ΔP in Fick's equation shrinks, slowing equilibration.",
+      "lecture": "CV48"
+    }
+  ],
+  "formulas": [
+    {
+      "name": "Dalton's Law",
+      "equation": "Px = (PB - PH2O) x F",
+      "meaning": "Partial pressure is the total pressure times that gas's fraction, corrected for the water vapor the airway adds — which is why humidification alone costs 10 mmHg of oxygen tension",
+      "normalValue": "Tracheal PO2 = (760 - 47) x 0.21 = 150 mmHg; PH2O is 47 mmHg at 37 C",
+      "lecture": "CV48"
+    },
+    {
+      "name": "Henry's Law",
+      "equation": "Cx = Px x solubility",
+      "meaning": "Only gas free in solution exerts a partial pressure — protein-bound gas is invisible to it, which is the whole explanation for why a normal PO2 does not guarantee normal oxygen content",
+      "normalValue": "Oxygen is mostly hemoglobin-bound with a small dissolved fraction; CO2 is majority soluble, and both dissolved CO2 and bicarbonate count toward PCO2",
+      "lecture": "CV48"
+    },
+    {
+      "name": "Fick's Law of Diffusion",
+      "equation": "Vx = D x A x dP / dx",
+      "meaning": "Transfer rate rises with the diffusion constant, alveolar surface area and the pressure gradient, and falls with membrane thickness — naming exactly how each lung disease impairs gas exchange",
+      "normalValue": "D for CO2 is about 50 times that for O2; fibrosis and edema raise dx, emphysema lowers A",
+      "lecture": "CV48"
+    },
+    {
+      "name": "Oxygen Cascade",
+      "equation": "Ambient 160 -> humidified trachea 150 -> alveolar 100 -> systemic artery 100 mmHg",
+      "meaning": "Oxygen tension steps down at each stage; alveolar PCO2 of 40 mmHg displaces oxygen at the alveolus, and bronchial and coronary venous drainage shunts the arterial value slightly below end-capillary",
+      "normalValue": "Mixed venous PO2 is about 45 mmHg entering the capillary; the A-a difference widens with pathology",
+      "lecture": "CV48"
+    },
+    {
+      "name": "Diffusion vs Perfusion Limitation",
+      "equation": "Perfusion-limited: equilibrates within 1/3 of transit. Diffusion-limited: a gradient persists the whole way",
+      "meaning": "Carbon monoxide is always diffusion-limited because it binds hemoglobin instantly and never accumulates a dissolved partial pressure, so the gradient never closes; oxygen and CO2 are normally perfusion-limited",
+      "normalValue": "Capillary transit falls from 0.75 s at rest to 0.25 s at maximal exercise, and oxygen still equilibrates in a healthy lung",
+      "lecture": "CV48"
+    },
+    {
+      "name": "General Gas Law and Boyle's Law",
+      "equation": "PV = nRT; P1V1 = P2V2 at constant temperature",
+      "meaning": "Boyle's law is inspiration and expiration in one line — the rib cage expands, pressure falls, air enters; BTPS versus STPD is why lung volumes must state their conditions",
+      "normalValue": "BTPS is 37 C, ambient pressure, saturated with water vapor; STPD is 0 C, 760 mmHg, dry",
+      "lecture": "CV48"
+    }
+  ]
+}

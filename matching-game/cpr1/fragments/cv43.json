@@ -1,0 +1,16 @@
+{
+  "correlates": [
+    {
+      "name": "Familial Hypercholesterolemia",
+      "presentation": "The reason for a one-time lipid panel at ages 9-11 (Slide 27). In adults, an LDL greater than 190 is itself a high-risk category (Slide 30).",
+      "pathophysiology": "Inherited severe elevation of LDL cholesterol, present from childhood rather than acquired through diet.",
+      "treatment": "LDL greater than 190 mandates a statin regardless of any calculated risk score.",
+      "lecture": "CV43"
+    },
+    {
+      "name": "Hypertension: Secondary Prevention in Practice",
+      "treatment": "Diet, exercise, and medication started before the stroke or MI. Here the patient is on hydrochlorothiazide 25 mg daily but did not take it the day of the visit — an immediate candidate explanation for the 140/90.",
+      "lecture": "CV43"
+    }
+  ]
+}

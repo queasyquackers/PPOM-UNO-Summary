@@ -1,0 +1,121 @@
+{
+  "correlates": [
+    {
+      "name": "Post-Myocardial Infarction (STEMI)",
+      "pathophysiology": "hemodynamic changes after acute MI drive high RAAS activity, and angiotensin II promotes ventricular remodeling.",
+      "treatment": "an ACE inhibitor or ARB improves mortality in randomized trials, especially after ST-elevation MI (Slides 36, 45).",
+      "lecture": "CV35"
+    },
+    {
+      "name": "Heart Failure with Reduced Ejection Fraction",
+      "pathophysiology": "neprilysin inhibition raises natriuretic peptides, bradykinin, and substance P, which are natriuretic, vasodilatory, and antiproliferative in their own right.",
+      "treatment": "ACE inhibitor, ARB, or the neprilysin inhibitor-ARB combination sacubitril-valsartan (the only one marketed), given with a beta blocker, plus a loop diuretic if fluid control is needed (Slide 36).",
+      "lecture": "CV35"
+    },
+    {
+      "name": "Proteinuric Chronic Kidney Disease (Diabetic and Non-Diabetic)",
+      "pathophysiology": "three layers - lowering systemic blood pressure (which every antihypertensive does), dilating the efferent arteriole to drop intraglomerular pressure (which only RAS inhibitors do), and reducing protein excretion. Other intrarenal mechanisms are likely.",
+      "treatment": "ACE inhibitors and ARBs slow progression of both forms (Slide 36).",
+      "lecture": "CV35"
+    },
+    {
+      "name": "ACE Inhibitor Cough",
+      "presentation": "persistent dry, non-productive cough starting after the drug is begun. Not dangerous - but bothersome enough to end therapy.",
+      "pathophysiology": "accumulation of bradykinin, substance P, and probably prostaglandins in the lungs, irritating the airway (Slide 38).",
+      "treatment": "switch to an ARB; incidence with ARBs is low but not zero.",
+      "lecture": "CV35"
+    },
+    {
+      "name": "ACE Inhibitor-Induced Angioedema",
+      "presentation": "swelling of lips, tongue, face, or airway - rare but potentially fatal.",
+      "pathophysiology": "bradykinin and substance P are pro-inflammatory vasoactive peptides; accumulation causes vasodilation and vessel edema (Slides 38-39).",
+      "treatment": "stop the drug. Angioedema of any cause is an absolute contraindication to all RAS inhibitors (Slide 40).",
+      "lecture": "CV35"
+    },
+    {
+      "name": "RAS Inhibitor Acute Kidney Injury and Hyperkalemia",
+      "pathophysiology": "efferent arteriolar dilation drops glomerular capillary pressure. If intrarenal perfusion pressure is already compromised, that further drop causes acute kidney injury.",
+      "lecture": "CV35"
+    },
+    {
+      "name": "Olmesartan Sprue-Like Enteropathy",
+      "presentation": "severe chronic diarrhea and weight loss.",
+      "pathophysiology": "a drug-specific effect unique to olmesartan, not a class effect of the ARBs (Slide 38).",
+      "treatment": "discontinue olmesartan.",
+      "lecture": "CV35"
+    },
+    {
+      "name": "Fetal RAS Inhibitor Toxicity",
+      "pathophysiology": "fetal renal function depends on angiotensin II; RAS blockade produces fetal hypotension and anuria with depressed renal function (Slide 40).",
+      "treatment": "prevention only. Absolutely contraindicated in all trimesters, for every RAS inhibitor - period, the end .",
+      "lecture": "CV35"
+    }
+  ],
+  "drugs": [
+    {
+      "name": "Captopril",
+      "mechanism": "Competitively inhibits ACE, so angiotensin I is not converted to angiotensin II and bradykinin is not degraded; it is one of the two ACE inhibitors that is not a prodrug",
+      "indication": "Hypertension, HFrEF, post-MI remodeling and proteinuric chronic kidney disease — though its short half-life forces 2-3 times daily dosing",
+      "adverseEffects": "Dry cough in 5-20%, angioedema, hyperkalemia, first-dose hypotension and a fall in GFR; absolutely contraindicated in pregnancy",
+      "lecture": "CV35"
+    },
+    {
+      "name": "Enalapril",
+      "mechanism": "A prodrug hydrolyzed by hepatic and intestinal esterases to enalaprilat, the active ACE inhibitor — and the only member of the class with an intravenous form",
+      "indication": "Once-daily hypertension and heart failure therapy, with enalaprilat available when the intravenous route is required",
+      "adverseEffects": "Class effects of cough, angioedema, hyperkalemia and reduced GFR; fetal hypotension, anuria, oligohydramnios and skull malformation in pregnancy",
+      "lecture": "CV35"
+    },
+    {
+      "name": "Lisinopril",
+      "mechanism": "ACE inhibition without prodrug conversion, given once daily with a half-life that lengthens in the elderly",
+      "indication": "First-line hypertension, HFrEF alongside a beta blocker and loop diuretic, and slowing progression of proteinuric CKD",
+      "adverseEffects": "Dry cough from accumulated bradykinin, substance P and prostaglandins in the lung; angioedema; hyperkalemia",
+      "lecture": "CV35"
+    },
+    {
+      "name": "Losartan",
+      "mechanism": "Competitive high-affinity antagonism at the AT1 receptor, leaving angiotensin II free to stimulate the vasodilating, natriuretic AT2 receptor and raising renin release",
+      "indication": "Hypertension and proteinuric CKD in the patient who cannot tolerate an ACE inhibitor cough",
+      "adverseEffects": "Hyperkalemia and reduced GFR as with ACE inhibitors, but little cough; angioedema rates no higher than non-RAS drugs",
+      "lecture": "CV35"
+    },
+    {
+      "name": "Olmesartan",
+      "mechanism": "AT1 receptor blockade with once-daily oral dosing and no intravenous form available in the class",
+      "indication": "Hypertension",
+      "adverseEffects": "A sprue-like enteropathy unique to this ARB — severe chronic diarrhea and weight loss — on top of the class hyperkalemia",
+      "lecture": "CV35"
+    },
+    {
+      "name": "Sacubitril-Valsartan",
+      "mechanism": "Pairs neprilysin inhibition, which raises natriuretic peptides, bradykinin and substance P, with AT1 receptor blockade",
+      "indication": "HFrEF, where the combined natriuretic and RAS-blocking effect outperforms an ACE inhibitor alone",
+      "adverseEffects": "Hypotension and hyperkalemia, with angioedema risk that forbids overlapping it with an ACE inhibitor",
+      "lecture": "CV35"
+    },
+    {
+      "name": "Aliskiren",
+      "mechanism": "Potent selective competitive renin inhibition that blocks angiotensinogen from reaching the active site, so no angiotensin I is ever formed",
+      "indication": "An alternative agent for hypertension only — never first-line, and never combined with an ACE inhibitor or ARB",
+      "adverseEffects": "Hyperkalemia and hypotension, worse below a creatinine clearance of 30 mL/min; only about 3% bioavailable and sensitive to P-glycoprotein inducers and inhibitors",
+      "lecture": "CV35"
+    }
+  ],
+  "formulas": [
+    {
+      "name": "Blood Pressure",
+      "equation": "BP = Cardiac Output x Peripheral Vascular Resistance",
+      "meaning": "Every antihypertensive drug works by lowering one of these two terms, which is why the drug classes sort onto four control sites: resistance arterioles, capacitance venules, the heart and the kidneys",
+      "normalValue": "Under 120/80 mm Hg; stage 1 is 130-139 systolic or 80-89 diastolic, stage 2 is 140/90 or above",
+      "lecture": "CV35"
+    },
+    {
+      "name": "Cardiac Output",
+      "equation": "CO = Stroke Volume x Heart Rate",
+      "meaning": "The volume of blood the heart ejects per minute, and the term that beta blockers and non-dihydropyridine calcium channel blockers attack",
+      "normalValue": "About 5 L/min at rest",
+      "lecture": "CV35"
+    }
+  ]
+}

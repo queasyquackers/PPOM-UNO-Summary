@@ -1,0 +1,40 @@
+{
+  "correlates": [
+    {
+      "name": "Stable Angina and Cardiac Rehabilitation",
+      "presentation": "ST depression or reproducible angina at a definable workload; terminate the test there (Slide 28).",
+      "pathophysiology": "fixed coronary obstruction; ischemia appears once myocardial oxygen demand crosses a fixed supply ceiling.",
+      "treatment": "cardiac rehab then trains repeatedly up to that heart rate.",
+      "lecture": "CV54"
+    },
+    {
+      "name": "COPD and Pulmonary Rehabilitation",
+      "presentation": "exertional dyspnea graded +1 to +4; at +3 to +4, often with desaturation toward 90%, stop the test and record the heart rate (lecturer's example: 125 bpm).",
+      "treatment": "pulmonary rehab trains up to that heart rate, then backs off.",
+      "lecture": "CV54"
+    },
+    {
+      "name": "Claudication and Statin-Associated Muscle Symptoms",
+      "presentation": "claudication - calf pain on walking that forces the patient to stop; watching a peripheral arterial disease patient on a treadmill is diagnostic in itself.",
+      "lecture": "CV54"
+    },
+    {
+      "name": "Heart Failure and Exercise Intolerance",
+      "presentation": "rapid fatigue and poor tolerance with any exertion; HFpEF patients look stable at rest and decompensate quickly with activity.",
+      "pathophysiology": "HFrEF - reduced ejection fraction and systolic dysfunction diminish stroke volume, so cardiac output cannot rise with exertion. HFpEF - ejection fraction normal but diastolic filling impaired, so stroke volume is fixed and cannot be augmented (Slide 51).",
+      "lecture": "CV54"
+    },
+    {
+      "name": "Lifelong Resistance Training and Aortic Valve Narrowing",
+      "pathophysiology": "repeated Valsalva-driven pressure overload produces concentric hypertrophy - wall thickens, chamber shrinks, stroke volume falls - and the valves face that same constant pressure.",
+      "lecture": "CV54"
+    },
+    {
+      "name": "Cardiac Events While Shovelling Snow",
+      "presentation": "underlying cardiovascular disease is unmasked at once; emergency departments go to \"all hands on deck\" during a snowstorm.",
+      "pathophysiology": "the lecturer's \"perfect storm\" of simultaneous stressors - cold-induced vasoconstriction raising blood pressure; strenuous cardiovascular work; heavy lifting that is effectively isometric weight training, imposing afterload…",
+      "treatment": "counsel patients of uncertain cardiovascular status not to shovel snow .",
+      "lecture": "CV54"
+    }
+  ]
+}

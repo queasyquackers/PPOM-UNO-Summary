@@ -1,0 +1,103 @@
+{
+  "correlates": [
+    {
+      "name": "Digoxin (Digitalis) and Contractility",
+      "presentation": "increased Ca²⁺ available for contraction → positive inotropy (increased cardiac contractility).",
+      "pathophysiology": "Digoxin inhibits the Na⁺/K⁺-ATPase, raising intracellular Na⁺. The elevated intracellular Na⁺ drives the Na⁺/Ca²⁺ exchanger into reverse mode (pumps Na⁺ out, brings Ca²⁺ in), increasing intracellular Ca²⁺.",
+      "lecture": "CV22"
+    },
+    {
+      "name": "Hyperkalemia",
+      "pathophysiology": "Elevated extracellular K⁺ raises (makes less negative) the resting membrane potential, shortening the distance to threshold — but sustained depolarization impairs Na⁺ channel recovery (recovery needs Vm below threshold).",
+      "treatment": "Because severe hyperkalemia arrests the heart, cardioplegia solution (high K⁺) is used intentionally to stop the heart during open-heart surgery and transplantation.",
+      "lecture": "CV22"
+    },
+    {
+      "name": "Hypokalemia",
+      "pathophysiology": "Low extracellular K⁺ makes Vm more negative (would lower excitability), but the dominant effect is decreased K⁺ conductance — fewer K⁺ channels open, slowing repolarization and prolonging AP duration.",
+      "lecture": "CV22"
+    }
+  ],
+  "transporters": [
+    {
+      "name": "Fast Na+ Channel (I_Na)",
+      "location": "Atrial, ventricular and His-Purkinje myocytes — everywhere except the SA and AV nodes",
+      "function": "Carries phase 0 of the fast-response action potential, driving an upstroke faster than 100 V/s once threshold near -55 mV is reached",
+      "regulation": "Has two gates, and its recovery from inactivation is what sets the effective refractory period in fast fibers",
+      "inhibitor": "Class I antiarrhythmics; also blocked by tricyclic antidepressants, which is why they widen the QRS",
+      "lecture": "CV22"
+    },
+    {
+      "name": "I_K1 (Inward Rectifier K+ Channel)",
+      "location": "Working atrial and ventricular myocardium",
+      "function": "Holds the resting membrane potential near -90 mV during phase 4 and contributes to phase 3 repolarization",
+      "regulation": "Its progressive closure during late phase 4 contributes to pacemaker depolarization in nodal tissue",
+      "inhibitor": "Not a therapeutic target; hyperkalemia alters its behavior and produces the peaked T wave",
+      "lecture": "CV22"
+    },
+    {
+      "name": "I_to (Transient Outward K+ Current)",
+      "location": "Fast-response cardiac myocytes",
+      "function": "Produces phase 1, the brief notch of early repolarization immediately after the sodium upstroke",
+      "regulation": "Density varies across the ventricular wall, which is part of why epicardium and endocardium repolarize differently",
+      "inhibitor": "Not a clinical target",
+      "lecture": "CV22"
+    },
+    {
+      "name": "Delayed Rectifier K+ Channel",
+      "location": "All cardiac myocytes",
+      "function": "Opposes calcium entry during the phase 2 plateau and then dominates phase 3 repolarization, setting action potential duration",
+      "regulation": "Balanced against L-type calcium current during the plateau",
+      "inhibitor": "Class III antiarrhythmics, which prolong action potential duration and therefore the effective refractory period",
+      "lecture": "CV22"
+    },
+    {
+      "name": "T-type Calcium Channel",
+      "location": "SA and AV nodal tissue",
+      "function": "Contributes to late phase 4 depolarization, helping carry the pacemaker potential up to threshold",
+      "regulation": "Transient and low-threshold, opening at more negative potentials than the L-type channel",
+      "inhibitor": "Not selectively targeted by the standard calcium channel blockers",
+      "lecture": "CV22"
+    },
+    {
+      "name": "Na+/Ca2+ Exchanger (NCX)",
+      "location": "Sarcolemma of cardiac myocytes",
+      "function": "Extrudes 1 Ca2+ in exchange for 3 Na+ entering, so the net charge movement is depolarizing; it is a main route of calcium removal during relaxation",
+      "regulation": "Runs in reverse when intracellular sodium is high — the mechanism behind digoxin's inotropy and its toxicity",
+      "inhibitor": "Indirectly by digoxin, which raises intracellular sodium by blocking the Na+/K+ ATPase",
+      "lecture": "CV22"
+    },
+    {
+      "name": "SERCA",
+      "location": "Sarcoplasmic reticulum membrane of cardiac myocytes",
+      "function": "An ATP-driven pump that reloads the SR with calcium, ending contraction and setting up the next beat",
+      "regulation": "Released from phospholamban inhibition when PKA phosphorylates it during beta-1 stimulation, which speeds relaxation (lusitropy)",
+      "inhibitor": "Not clinically blocked",
+      "lecture": "CV22"
+    },
+    {
+      "name": "Ryanodine Receptor",
+      "location": "Sarcoplasmic reticulum membrane of cardiac myocytes",
+      "function": "The calcium release channel of calcium-induced calcium release — a small L-type calcium entry triggers a large SR calcium release that actually drives contraction",
+      "regulation": "Opened by calcium entering through L-type channels during phase 2",
+      "inhibitor": "Ryanodine experimentally; dantrolene acts on the skeletal muscle isoform",
+      "lecture": "CV22"
+    }
+  ],
+  "formulas": [
+    {
+      "name": "Cardiac Equilibrium Potentials",
+      "equation": "E_K about -96 mV, E_Na about +52 mV, E_Ca about +134 mV",
+      "meaning": "Each phase of the action potential drives membrane voltage toward the equilibrium potential of whichever ion is conducting, which is why phase 0 shoots positive and phase 3 returns negative",
+      "normalValue": "Resting membrane potential about -90 mV, set by I_K1",
+      "lecture": "CV22"
+    },
+    {
+      "name": "Fast vs Slow Response Action Potentials",
+      "equation": "Fast response phase 0 = Na+ current; slow response phase 0 = L-type Ca2+ current",
+      "meaning": "Only the SA and AV nodes use the slow response, which is precisely why calcium channel blockers act on nodal tissue while sodium channel blockers act on working myocardium and Purkinje fibers",
+      "normalValue": "Upstroke velocity over 100 V/s for fast fibers versus about 10 V/s for slow",
+      "lecture": "CV22"
+    }
+  ]
+}

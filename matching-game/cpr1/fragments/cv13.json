@@ -1,0 +1,17 @@
+{
+  "correlates": [
+    {
+      "name": "Cranial Nerve Entrapment (Component of Cranial Somatic Dysfunction)",
+      "presentation": "Dysfunction of the affected nerve's territory (the lecture stays conceptual; specific syndromes come later).",
+      "pathophysiology": "Cranial nerves pierce the dura on the way to their targets; strain in the dura or in a cranial bone can affect how the nerves perform and function.",
+      "treatment": "Cranial diagnosis and treatment directed at the sutural restriction or dural strain (course objectives list sutural restriction, nerve entrapment, dural restriction, and venous congestion as components of cranial somatic dysfunction).",
+      "lecture": "CV13"
+    },
+    {
+      "name": "Venous Sinus Congestion",
+      "presentation": "Listed in the session objectives as a component of cranial somatic dysfunction.",
+      "pathophysiology": "Dural venous sinuses are spaces between dural folds; veins and sinuses cannot pump blood, so drainage depends on patent, mobile surroundings. Restriction diminishes flow and favors pooling of venous blood.",
+      "lecture": "CV13"
+    }
+  ]
+}

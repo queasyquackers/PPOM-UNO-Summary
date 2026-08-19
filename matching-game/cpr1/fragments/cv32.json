@@ -1,0 +1,114 @@
+{
+  "correlates": [
+    {
+      "name": "Infantile Idiopathic Scoliosis and Early-Onset Disease",
+      "pathophysiology": "possibly supine and slight side-lying positioning, letting gravity cause plastic deformation of the immature thorax (Slide 15).",
+      "treatment": "ideal treatment is prevention by lying infants prone - the opposite of the back-to-sleep recommendation - otherwise well-fitting orthoses and casting early in skeletal growth.",
+      "lecture": "CV32"
+    },
+    {
+      "name": "Juvenile Idiopathic Scoliosis",
+      "presentation": "onset 4 to 10 years; more progressive than adolescent idiopathic scoliosis (Slide 17).",
+      "treatment": "progression of 5 to 7 degrees indicates bracing; non-operative success is variable.",
+      "lecture": "CV32"
+    },
+    {
+      "name": "Adolescent Idiopathic Scoliosis (AIS)",
+      "pathophysiology": "hereditary predisposition, multifactorial; association with hypokyphosis (a thoracic spine flattened or lordotic where kyphosis is expected), a possible CNS defect, increased calmodulin (Slide 18).",
+      "lecture": "CV32"
+    },
+    {
+      "name": "Congenital Scoliosis",
+      "presentation": "second most common category; 75 percent are progressive.",
+      "pathophysiology": "vertebral malformation present at birth - hemivertebrae, wedge vertebrae, failure of segmentation (unilateral bar, bilateral fusion), fused ribs (Slide 20).",
+      "lecture": "CV32"
+    },
+    {
+      "name": "Neuromuscular and Acquired Scoliosis",
+      "presentation": "ask whether the curve disappears with forward flexion or lying down. If it does, the curve comes from below - a leg length discrepancy - rather than from the spine; if not, consider primary postural scoliosis.",
+      "pathophysiology": "the two most common neuromuscular causes are leg length discrepancy and neurofibromatosis (Slide 22).",
+      "lecture": "CV32"
+    },
+    {
+      "name": "Crankshaft Phenomenon",
+      "presentation": "progressive severe alignment deformity, rotational and in the sagittal plane, after an apparently successful fusion.",
+      "pathophysiology": "after posterior spinal fusion in a child with growth remaining, the posterior column is tethered while the anterior spine keeps growing, twisting the spine around the fusion mass (Slides 17, 80).",
+      "treatment": "combined anterior and posterior fusion, removing anterior growth potential.",
+      "lecture": "CV32"
+    }
+  ],
+  "omm": [
+    {
+      "name": "Scoliosis",
+      "definition": "Lateral curvature of the spine in the coronal plane, usually with rotation, measuring 10 degrees or more by the Cobb method — below 10 degrees it is spinal asymmetry with no long-term significance",
+      "findings": "Named for the side of the convexity; the apical vertebra is the most deviated and rotated and defines the curve location; rotation drives the convex-side ribs posteriorly into a rib hump",
+      "treatment": "Decided by two numbers only — the Cobb angle and the growth remaining",
+      "lecture": "CV32"
+    },
+    {
+      "name": "Structural vs Functional Curve",
+      "definition": "A structural curve does not resolve with rotation, side bending or forward bending; a functional curve does",
+      "findings": "On the Adams forward bend test a functional curve improves with side bending while a structural curve does not; a curve that disappears on forward flexion or lying down points to a cause below the spine",
+      "treatment": "Functional curves convert to structural through soft tissue shortening, bony change, disc degeneration and fascial fibrosis — which is the argument for treating early",
+      "lecture": "CV32"
+    },
+    {
+      "name": "Adams Forward Bend Test",
+      "definition": "The screening maneuver in which the patient bends forward so the examiner can see rib asymmetry",
+      "findings": "Reveals the rib hump produced by vertebral rotation",
+      "treatment": "Screen around age 10, before the pubertal growth spurt, since children and adolescents with scoliosis are otherwise asymptomatic",
+      "lecture": "CV32"
+    },
+    {
+      "name": "Scoliometer",
+      "definition": "Essentially a carpenter's level, used to measure the angle of trunk rotation on a forward-bent patient",
+      "findings": "Run cephalad to caudad; with a right rib hump the right side lifts and the ball deviates left. Inter-rater error is 2 degrees thoracic and 2.2 lumbar",
+      "treatment": "Refer at ATR 7 degrees or more, or 5 degrees or more if BMI is at or above the 85th percentile — and always state which method you used",
+      "lecture": "CV32"
+    },
+    {
+      "name": "Cobb Method",
+      "definition": "A line along the superior border of the highest vertebra inclined toward the concavity and another along the inferior border of the lowest such vertebra; the curve is the angle where their perpendiculars intersect",
+      "findings": "Filmed standing, full length C7 to iliac crest, PA rather than AP to spare breast and thyroid — never supine, which removes gravity and underestimates the curve",
+      "treatment": "Place a block under the shorter leg before the film if there is a leg length discrepancy",
+      "lecture": "CV32"
+    },
+    {
+      "name": "Risser Sign",
+      "definition": "A grading of iliac apophyseal ossification running anterolateral to posteromedial, from grade 0 (none) to grade 5 (full bony fusion)",
+      "findings": "Grade 1 appears only after peak height velocity; a lower grade means more growth remaining and greater risk of progression",
+      "treatment": "Bracing works only while growth remains, which is why Risser 0-2 (or Sanders 1-3) is part of every treatment decision",
+      "lecture": "CV32"
+    },
+    {
+      "name": "Adolescent Idiopathic Scoliosis",
+      "definition": "The commonest form — idiopathic curves account for 70-90% of all scoliosis — with hereditary contribution, hypokyphosis, raised calmodulin and linkage to chromosomes 17 and 19",
+      "findings": "Progression risk is highest in girls who are premenarchal, Risser 0, with double, thoracic, or already severe curves",
+      "treatment": "Observation at 11-19 degrees, bracing from 25 degrees while growth remains, surgery at 50 degrees or more",
+      "lecture": "CV32"
+    }
+  ],
+  "formulas": [
+    {
+      "name": "Scoliosis Severity by Cobb Angle",
+      "equation": "Mild 10-15 deg, moderate 20-45 deg, moderately severe 45-50 deg, severe over 50 deg",
+      "meaning": "Severity is defined purely by the Cobb angle, and above 50 degrees the curve begins to affect systemic function",
+      "normalValue": "Respiratory function suffers in thoracic curves over 50 degrees, cardiovascular function over 75 degrees",
+      "lecture": "CV32"
+    },
+    {
+      "name": "Scoliosis Management Thresholds",
+      "equation": "11-19 deg observe; 20-24 deg follow closely; 25-39 deg brace; 40-49 deg brace and consider surgery above 45; 50 deg or more operate",
+      "meaning": "Bracing prevents progression rather than correcting the curve, and only works while growth remains (Risser 0-2, Sanders 1-3)",
+      "normalValue": "A curve of 50 degrees or more at maturity worsens about 1 degree per year for life",
+      "lecture": "CV32"
+    },
+    {
+      "name": "ATR to Cobb Correlation",
+      "equation": "An angle of trunk rotation of 7 degrees corresponds roughly to a 20-degree Cobb angle",
+      "meaning": "The two scales are not interchangeable and carry different risks of progression, so the referral note must say which was measured",
+      "normalValue": "Refer at ATR 7 degrees, or ATR 5 degrees when BMI is at or above the 85th percentile",
+      "lecture": "CV32"
+    }
+  ]
+}

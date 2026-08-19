@@ -1,0 +1,103 @@
+{
+  "correlates": [
+    {
+      "name": "Renal Failure",
+      "presentation": "Severe acidosis from acid retention.",
+      "pathophysiology": "The kidneys are the sole effective route for neutralizing nonvolatile acid; when they fail, titratable buffer and ammonium excretion collapse and de novo bicarbonate generation stops.",
+      "lecture": "CV14"
+    },
+    {
+      "name": "Chronic Adrenal Insufficiency (Addison Disease)",
+      "presentation": "Metabolic acidosis from acid retention, called life-threatening on the slide.",
+      "pathophysiology": "Loss of glucocorticoid and mineralocorticoid drive removes the stimulus for proximal Na+/H+ exchange and collecting duct H+ secretion, so acid is retained.",
+      "treatment": "Corticosteroid replacement restores acid secretion.",
+      "lecture": "CV14"
+    },
+    {
+      "name": "Acute Mountain Sickness (the Aspen vignette)",
+      "presentation": "Throbbing headache, fatigue, nausea, shortness of breath, lightheadedness, difficulty focusing; worse on day two and with further ascent.",
+      "pathophysiology": "Ascent lowers inspired PO2; hyperventilation lowers PaCO2 and raises blood pH into respiratory alkalosis, and renal compensation is too slow to help in the first days.",
+      "treatment": "A carbonic anhydrase inhibitor (acetazolamide) started before the trip; ibuprofen only blunted the headache.",
+      "lecture": "CV14"
+    }
+  ],
+  "transporters": [
+    {
+      "name": "NBCe1 (Na+/HCO3- cotransporter)",
+      "location": "Basolateral membrane of the proximal tubule",
+      "function": "The exit door for reclaimed bicarbonate — it carries the HCO3- rebuilt inside the cell by carbonic anhydrase II back into the blood, completing reabsorption of the 4,320 mmol filtered each day",
+      "regulation": "Upregulated along with NHE3 in chronic respiratory acidosis",
+      "inhibitor": "Not directly blocked; the whole pathway stalls when carbonic anhydrase is inhibited",
+      "lecture": "CV14"
+    },
+    {
+      "name": "H+-ATPase (proton pump)",
+      "location": "Apical membrane of type A (alpha) intercalated cells in the collecting duct",
+      "function": "Actively secretes protons against a steep gradient, generating new bicarbonate — this is the step that titrates urinary buffers and can drive urine pH down to its floor of 4.4",
+      "regulation": "Inserted acutely in respiratory acidosis; stimulated by angiotensin II and aldosterone",
+      "inhibitor": "Its expression falls under mineralocorticoid receptor blockade, which is why K+-sparing agents alkalinize the urine",
+      "lecture": "CV14"
+    },
+    {
+      "name": "Pendrin (Cl-/HCO3- exchanger)",
+      "location": "Apical membrane of type B (beta) intercalated cells in the collecting duct",
+      "function": "Secretes bicarbonate into the lumen while reclaiming chloride — the reverse of the alpha cell, and the route by which the kidney corrects a metabolic alkalosis",
+      "regulation": "The proportion of beta cells rises in metabolic alkalosis, and alpha cells can convert to beta cells",
+      "inhibitor": "None clinically",
+      "lecture": "CV14"
+    },
+    {
+      "name": "RhBG / RhCG (ammonia gas channels)",
+      "location": "Medullary collecting duct cells",
+      "function": "Move NH3 into the lumen, where secreted H+ traps it as NH4+ — diffusion trapping, the mechanism behind 40 of the 70 mmol of daily net acid excretion",
+      "regulation": "Ammoniagenesis from glutamine rises in chronic metabolic acidosis and in hypokalemia",
+      "inhibitor": "None; hyperkalemia competes with NH4+ in the medulla and blunts the pathway",
+      "lecture": "CV14"
+    },
+    {
+      "name": "Carbonic Anhydrase II and IV",
+      "location": "CA II in the cytoplasm and CA IV anchored to the apical membrane of the proximal tubule (CA I lives in the red cell)",
+      "function": "CA IV splits luminal H2CO3 to CO2 and water so the CO2 can diffuse in; CA II rebuilds HCO3- inside the cell and regenerates the H+ that NHE3 exports",
+      "regulation": "Zinc-dependent and bidirectional, catalyzing the reaction in whichever direction the gradient runs",
+      "inhibitor": "Sulfonamides — acetazolamide inhibits both isoforms, which is why bicarbonate reabsorption collapses",
+      "lecture": "CV14"
+    }
+  ],
+  "formulas": [
+    {
+      "name": "Net Acid Excretion",
+      "equation": "Net acid excretion = titratable acid + NH4+ - excreted HCO3-",
+      "meaning": "Reabsorbing filtered bicarbonate only returns the body to zero; new base is generated only by titrating a non-bicarbonate buffer such as phosphate, creatinine, urate or glutamine-derived ammonia",
+      "normalValue": "About 70 mmol/day — 40 as NH4+ and 30 as titratable acid — matching the daily nonvolatile acid load",
+      "lecture": "CV14"
+    },
+    {
+      "name": "Daily Acid-Base Budget",
+      "equation": "HCO3- filtered and reabsorbed 4,320 mmol/day; CO2 expired ~15,000 mmol/day; urinary H+ ~70 mmol/day",
+      "meaning": "The scale gap is the whole point — plasma H+ is measured in nanomoles while filtered bicarbonate is measured in millimoles, so losing even a little filtered bicarbonate is catastrophic",
+      "normalValue": "Arterial pH 7.37-7.42, equal to about 40 nEq/L of H+",
+      "lecture": "CV14"
+    },
+    {
+      "name": "Bicarbonate Reabsorption by Segment",
+      "equation": "PCT 80%, thick ascending limb 10%, DCT 6%, medullary collecting duct 4%, urine 0.01%",
+      "meaning": "Nearly all bicarbonate handling is reclamation in the proximal tubule; the distal nephron contributes little volume but does the regulated fine-tuning",
+      "normalValue": "Minimum achievable urinary pH is 4.4 — free protons alone would require a pH of 1.3, which is why buffers are obligatory",
+      "lecture": "CV14"
+    },
+    {
+      "name": "The Four Acid-Base Disturbances",
+      "equation": "Metabolic: HCO3- primary. Respiratory: pCO2 primary.",
+      "meaning": "Metabolic acidosis lowers HCO3- and triggers hyperventilation; metabolic alkalosis raises it and triggers hypoventilation; respiratory disorders move pCO2 first and the kidney answers by adjusting bicarbonate reabsorption over days",
+      "normalValue": "Normal values: pCO2 40 mmHg, pH 7.4, HCO3- 24 mEq/L",
+      "lecture": "CV14"
+    },
+    {
+      "name": "Renal Ammoniagenesis",
+      "equation": "Glutamine to alpha-ketoglutarate yields 2 NH4+ plus new HCO3-",
+      "meaning": "The proximal tubule makes both the buffer and the new base from one substrate; NH4+ then substitutes for K+ on NKCC2 in the thick ascending limb and is recycled into the medulla",
+      "normalValue": "About 40 mmol/day of NH4+ excretion, rising sharply in chronic metabolic acidosis",
+      "lecture": "CV14"
+    }
+  ]
+}

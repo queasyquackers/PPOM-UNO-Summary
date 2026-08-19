@@ -1,0 +1,136 @@
+{
+  "correlates": [
+    {
+      "name": "Exercise- and Heat-Associated Hypokalemia (Hot Yoga Scenario)",
+      "presentation": "Light-headedness and palpitations described as \"funny heartbeats\" or skipped beats.",
+      "pathophysiology": "Excessive sweating causes K+ loss in sweat, dropping plasma [K+] (Slide 29). Only ~2% of total-body K+ sits in the ECF, so small absolute losses move the plasma level substantially.",
+      "treatment": "Oral K+ repletion (bananas, coconut water), with relief within about 5 minutes.",
+      "lecture": "CV9"
+    },
+    {
+      "name": "Chronic Hypokalemia",
+      "presentation": "Muscle weakness progressing to paralysis, respiratory failure when respiratory muscles are involved, abdominal distension from smooth-muscle failure, vasoconstriction with hypertension.",
+      "pathophysiology": "A fall in extracellular [K+] hyperpolarizes membranes and shifts acid-base handling; hypokalemia produces intracellular acidosis with extracellular alkalosis (Slide 10).",
+      "lecture": "CV9"
+    },
+    {
+      "name": "Hyperkalemia",
+      "presentation": "Initially increased excitability and contraction; with continued firing muscle stops responding, producing flaccid paralysis. Cardiac electrophysiology is disturbed and fatal arrhythmias may follow.",
+      "pathophysiology": "Rising extracellular [K+] lowers the [K+]IC/[K+]EC ratio and depolarizes excitable membranes.",
+      "lecture": "CV9"
+    },
+    {
+      "name": "Crush Injury, Rhabdomyolysis and Hemolysis",
+      "presentation": "With skeletal muscle damage or hemolytic activity, plasma potassium is one of the first labs to check.",
+      "pathophysiology": "Because ~75% of body potassium is stored in muscle, massive muscle damage dumps K+ into the ECF; hemolysis adds red-cell K+ to plasma.",
+      "lecture": "CV9"
+    },
+    {
+      "name": "Renal Disease / Renal Failure and K+ Excretion",
+      "pathophysiology": "When kidneys lose the capacity to excrete K+, the GI tract tries to pick up the slack by increasing K+ secretion.",
+      "lecture": "CV9"
+    },
+    {
+      "name": "Loop (High-Ceiling) Diuretics",
+      "pathophysiology": "NKCC in the thick ascending limb is the target of the loop diuretic class. Blocking it stops Na+, K+ and Cl- reabsorption and abolishes the lumen-positive Vte, so paracellular reabsorption of K+, Ca++ and Mg++ fails as well.",
+      "lecture": "CV9"
+    },
+    {
+      "name": "Hypokalemic Alkalosis",
+      "presentation": "Low plasma K+ with a rising bicarbonate.",
+      "pathophysiology": "K+ depletion increases density and activity of the apical H+/K+ ATPase in type A intercalated cells. That enhances K+ reabsorption, but every K+ reclaimed costs a secreted proton, so H+ secretion accelerates in parallel.",
+      "lecture": "CV9"
+    },
+    {
+      "name": "Potassium-Sparing Diuretics (Amiloride, Triamterene)",
+      "presentation": "Reduced urinary K+ loss - the mirror image of the kaliuresis produced by diuretics acting upstream.",
+      "pathophysiology": "These agents block apical ENaC in principal cells. Without Na+ entry the apical membrane hyperpolarizes, the gradient for K+ exit collapses, and falling intracellular Na+ reduces Na+/K+ ATPase activity.",
+      "lecture": "CV9"
+    },
+    {
+      "name": "Hypomagnesemia",
+      "presentation": "Predominantly neurological disturbances (tetany, especially with hypocalcemia), cardiac arrhythmias, increased peripheral vascular resistance.",
+      "pathophysiology": "Abnormal loss - GI malabsorption, diarrhea, diuretics, renal disease. Loop diuretics remove the lumen-positive Vte that drives 70% of Mg++ reabsorption in the tALH.",
+      "treatment": "Magnesium supplementation - an inexpensive supplement for blood pressure issues because it vasodilates and promotes flow.",
+      "lecture": "CV9"
+    }
+  ],
+  "transporters": [
+    {
+      "name": "H+/K+ ATPase",
+      "location": "Apical membrane of type A (alpha) intercalated cells in the collecting duct",
+      "function": "Secretes H+ into the lumen while reabsorbing K+ against its gradient, which is how the kidney claws back potassium during depletion",
+      "regulation": "Upregulated in potassium depletion and by aldosterone",
+      "inhibitor": "Its activity during K+ depletion is what couples hypokalemia to metabolic alkalosis",
+      "lecture": "CV9"
+    },
+    {
+      "name": "KCC (K+/Cl- cotransporter)",
+      "location": "Apical membrane of principal cells and basolateral membrane of proximal tubule cells",
+      "function": "An electrically neutral exit route that moves potassium out with chloride, working alongside ROMK to set potassium secretion",
+      "regulation": "Driven by the chloride gradient rather than by membrane voltage",
+      "inhibitor": "Not a clinical drug target",
+      "lecture": "CV9"
+    },
+    {
+      "name": "NaPi Cotransporters",
+      "location": "Apical membrane of the proximal tubule",
+      "function": "Reabsorb 80-95% of filtered phosphate — essentially all of it happens here, with almost nothing recovered downstream",
+      "regulation": "PTH removes the transporter from the membrane, producing phosphaturia; FGF23 does the same",
+      "inhibitor": "PTH indirectly, by internalizing the carrier",
+      "lecture": "CV9"
+    },
+    {
+      "name": "Calcium-Sensing Receptor (CaSR)",
+      "location": "Basolateral membrane of the thick ascending limb",
+      "function": "Senses plasma calcium and dials down paracellular divalent reabsorption when it rises",
+      "regulation": "Activated by high plasma calcium or magnesium — and because it discriminates poorly between them, either one reduces reabsorption of both",
+      "inhibitor": "Cinacalcet activates it; loop diuretics mimic the downstream effect by abolishing the lumen-positive potential",
+      "lecture": "CV9"
+    }
+  ],
+  "formulas": [
+    {
+      "name": "Potassium Distribution",
+      "equation": "98% intracellular, 2% extracellular",
+      "meaning": "Because so little potassium lives outside cells, a 1% shift out of the intracellular pool changes extracellular potassium by about 50% — which is why transcellular shifts, not total body stores, drive acute hyperkalemia",
+      "normalValue": "Plasma 3.5-5.0 mM; about 75% of total body potassium sits in muscle",
+      "lecture": "CV9"
+    },
+    {
+      "name": "Transepithelial Voltage (Vte) Along the Nephron",
+      "equation": "PCT S1 -3 mV, PCT S3 +3 mV, TAL +6 mV, DCT -24 to -14 mV, CCT -74 mV",
+      "meaning": "The electrical map that explains paracellular transport: the lumen-positive TAL drives calcium and magnesium reabsorption, while the strongly lumen-negative collecting tubule drives potassium secretion",
+      "normalValue": "Loop diuretics abolish the +6 mV of the TAL; ENaC blockers collapse the -74 mV of the CCT",
+      "lecture": "CV9"
+    },
+    {
+      "name": "Serum Calcium Fractions",
+      "equation": "45% free ionized, 40% protein-bound, 15% in diffusible complexes",
+      "meaning": "Only the ionized and complexed fractions are filterable; the albumin-bound fraction never reaches the tubule, which is why total calcium must be corrected for albumin",
+      "normalValue": "Acidosis displaces calcium from albumin and raises ionized calcium; alkalosis lowers it and mimics hypocalcemia",
+      "lecture": "CV9"
+    },
+    {
+      "name": "Calcium Handling by Segment",
+      "equation": "PCT 65% paracellular, TAL 25% paracellular, DCT 8% transcellular",
+      "meaning": "Bulk calcium recovery is passive and unregulated; the DCT handles only 8% but through TRPV5/TRPV6 it is the regulatory site where PTH and thiazides act",
+      "normalValue": "99% of body calcium is stored in bone as hydroxyapatite",
+      "lecture": "CV9"
+    },
+    {
+      "name": "Magnesium Handling by Segment",
+      "equation": "Proximal tubule 15%, thick ascending limb 70%, DCT 10%",
+      "meaning": "Unlike every other ion, magnesium is reabsorbed mostly in the TAL — which is why loop diuretics cause clinically significant hypomagnesemia and thiazides cause it only after chronic DCT remodeling",
+      "normalValue": "Reabsorption rises with volume contraction, PTH and alkalosis, and falls with hypercalcemia through the CaSR",
+      "lecture": "CV9"
+    },
+    {
+      "name": "Potassium Handling by Segment",
+      "equation": "PCT 80% reabsorbed, TAL 10% reabsorbed, distal secretory system sets the output",
+      "meaning": "Urinary potassium is decided almost entirely by secretion in the DCT, connecting tubule and collecting duct, not by how much was reabsorbed upstream",
+      "normalValue": "Filtered load about 810 mmol/day; excretion ranges from 1-3% of it on a low-potassium diet to over 150% of it on a high-potassium diet",
+      "lecture": "CV9"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "correlates": [
+    {
+      "name": "Renal Failure",
+      "presentation": "Urine volume fixed regardless of intake; massive fluid and solute loss early, progressing to negligible output with toxic solute buildup.",
+      "pathophysiology": "Failing kidneys lose the machinery for both halves of the range - the medullary gradient and regulated distal water permeability - so urine osmolality drifts toward that of plasma and can no longer be moved in either direction.",
+      "lecture": "CV15"
+    },
+    {
+      "name": "Dehydration in Hot, Dry Environments",
+      "presentation": "Progressive thirst, light-headedness, palpitations and dark concentrated urine, in a person who reports never having sweated.",
+      "pathophysiology": "Insensible loss through skin and airway is unregulated and rises with heat, exercise and fever. In dry air sweat evaporates before it is felt, so the sensible cue that normally drives drinking is absent while losses continue.",
+      "lecture": "CV15"
+    },
+    {
+      "name": "Medullary Ischemic Injury from Hypoperfusion",
+      "presentation": "Falling urine output after any drop in cardiac output or renal perfusion; cell death and tissue damage appear relatively quickly.",
+      "pathophysiology": "The medulla operates at a baseline oxygen tension far below the cortex because medullary blood flow, vascular permeability and vascular volume are all low by design - the same arrangement that lets solutes accumulate. There is no reserve to give up.",
+      "lecture": "CV15"
+    }
+  ],
+  "formulas": [
+    {
+      "name": "Free Water Clearance",
+      "equation": "V = C_osm + C_H2O, so C_H2O = V - C_osm",
+      "meaning": "Splits urine flow into the isosmotic volume and the pure water added or subtracted; a positive value means the kidney is dumping free water, a negative value means it is conserving it",
+      "normalValue": "Positive when urine is below 300 mOsm, zero when isosmotic, negative when above 300 mOsm",
+      "lecture": "CV15"
+    },
+    {
+      "name": "Daily Water Balance",
+      "equation": "Intake 2500 mL/day = output 2500 mL/day",
+      "meaning": "Inputs are ingested fluid 1200, water in food 1000 and aerobic metabolism 300; outputs are urine 1500, skin and sweat 550, exhaled air 350 and feces 100 — and only the kidney adjusts to match intake",
+      "normalValue": "Sweat regulates core temperature, not water balance",
+      "lecture": "CV15"
+    },
+    {
+      "name": "Obligatory Solute Load",
+      "equation": "~600 mOsm/day of solute must be excreted",
+      "meaning": "Because that solute load is fixed, urine osmolality and urine flow are inversely tied — you cannot concentrate maximally and produce a large volume at the same time",
+      "normalValue": "Urine osmolality ranges 40-1200 mOsm/kg, setting a minimum obligatory urine volume of about 0.5 L/day",
+      "lecture": "CV15"
+    },
+    {
+      "name": "TF/P Osmolality Along the Nephron",
+      "equation": "Proximal tubule 1.0, descending limb rises, thick ascending limb falls below 1.0, DCT stays hypo-osmotic",
+      "meaning": "Fluid leaving the DCT is hypo-osmotic in every state, thirsty or not, because the water-impermeable thick ascending limb strips NaCl regardless; whether urine ends up dilute or concentrated is decided only downstream in the ADH-sensitive segments",
+      "normalValue": "Plasma osmolality about 300 mOsm/kg",
+      "lecture": "CV15"
+    },
+    {
+      "name": "Countercurrent Single Effect and Multiplication",
+      "equation": "200 mOsm single effect, multiplied to about 900 mOsm from cortex to papilla",
+      "meaning": "Active NaCl transport out of the water-impermeable ascending limb creates a 200 mOsm gradient at any one level, and countercurrent geometry stacks that difference down the medulla",
+      "normalValue": "Urea contributes about half the total osmolality of the deepest inner medulla",
+      "lecture": "CV15"
+    },
+    {
+      "name": "Fractional Excretion of Urea",
+      "equation": "FE_urea = 15% at minimal urine flow, over 65% at maximal flow",
+      "meaning": "ADH raises both water and urea permeability in the inner medullary collecting duct, so antidiuresis traps urea in the medulla to help build the gradient",
+      "normalValue": "Luminal urea reaches 8-10 times the plasma concentration during antidiuresis",
+      "lecture": "CV15"
+    }
+  ],
+  "transporters": [
+    {
+      "name": "V2 Receptor",
+      "location": "Basolateral membrane of collecting duct principal cells",
+      "function": "A GPCR that signals through adenylate cyclase and cAMP to drive both AQP2 transcription and its insertion into the luminal membrane — the single control point for final urine concentration",
+      "regulation": "Activated by arginine vasopressin released from the posterior pituitary in response to rising plasma osmolality sensed at circumventricular osmoreceptors",
+      "inhibitor": "Vaptans; caffeine potentiates the pathway as a phosphodiesterase inhibitor",
+      "lecture": "CV15"
+    },
+    {
+      "name": "V1 Receptor",
+      "location": "Vascular smooth muscle",
+      "function": "Mediates the pressor arm of vasopressin — raising intracellular calcium for sustained vasoconstriction and higher blood pressure, entirely separate from water handling",
+      "regulation": "Engaged at higher vasopressin concentrations than V2, which is why the hormone becomes a pressor only in severe volume depletion",
+      "inhibitor": "V1 antagonists; vasopressin is used deliberately at these receptors in septic shock",
+      "lecture": "CV15"
+    }
+  ]
+}

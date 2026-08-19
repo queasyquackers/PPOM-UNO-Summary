@@ -1,0 +1,83 @@
+{
+  "correlates": [
+    {
+      "name": "Ventricular Escape Rhythm (Escape Beats)",
+      "presentation": "A very slow rhythm, in the range of 20-40 bpm from His-Purkinje tissue; under strong vagal stimulation the lecturer specifies a rate under 40 bpm.",
+      "pathophysiology": "Failure of both the sinus node and the AV node to generate impulses removes overdrive suppression, unmasking the latent pacemaker channels in the His-Purkinje system.",
+      "lecture": "CV23"
+    },
+    {
+      "name": "Sinus Tachycardia and Sinus Bradycardia",
+      "presentation": "Normal adult sinus rate is 60-100 bpm (average about 72 bpm). A sinus rate above 100 bpm is sinus tachycardia; below 60 bpm is sinus bradycardia.",
+      "pathophysiology": "Both are disorders of the rate of sinus node phase 4 depolarization (or of the distance to threshold). Sympathetic drive steepens phase 4 and speeds the rate; vagal drive hyperpolarizes and flattens phase 4 and slows it.",
+      "lecture": "CV23"
+    },
+    {
+      "name": "Atrial Fibrillation (and the AV Node as a Protective Filter)",
+      "presentation": "The resulting ventricular rate is far slower than the atrial rate, typically 100-150 bpm during AF.",
+      "pathophysiology": "During atrial fibrillation the atrial rate is 400-600 bpm. Because the AV node conducts slowly and has a long refractory period, many atrial impulses are blocked within the node.",
+      "lecture": "CV23"
+    },
+    {
+      "name": "Bundle Branch Block (Left or Right)",
+      "presentation": "Although normal His and bundle branch activation is invisible on the ECG, bundle branch block CAN be diagnosed on the ECG - because it alters the ventricular activation sequence, and the ventricular activation sequence is what the QRS displays.",
+      "pathophysiology": "Loss of conduction down one bundle branch forces the affected ventricle to be activated late, by slow cell-to-cell muscle conduction from the contralateral ventricle rather than by the fast Purkinje network.",
+      "lecture": "CV23"
+    }
+  ],
+  "transporters": [
+    {
+      "name": "HCN Channel (Funny Current, I_f)",
+      "location": "SA node, and to a lesser degree AV node and His-Purkinje tissue",
+      "function": "The main driver of phase 4 spontaneous depolarization — a non-selective cation current carrying Na+ and K+ that generates automaticity",
+      "regulation": "Opens on hyperpolarization below about -65 mV and is directly modulated by cyclic nucleotides, so sympathetic stimulation steepens the phase 4 slope and vagal tone flattens it",
+      "inhibitor": "Ivabradine, which slows heart rate without touching contractility",
+      "lecture": "CV23"
+    },
+    {
+      "name": "I_KACh (Acetylcholine-activated K+ Channel)",
+      "location": "SA node, atria and AV node",
+      "function": "Opening it hyperpolarizes the pacemaker cell, moving the maximum diastolic potential further from threshold and slowing the rate",
+      "regulation": "Activated by vagal acetylcholine at M2 receptors through the G-protein beta-gamma subunit",
+      "inhibitor": "Atropine, by blocking the muscarinic receptor upstream",
+      "lecture": "CV23"
+    }
+  ],
+  "formulas": [
+    {
+      "name": "Pacemaker Hierarchy",
+      "equation": "SA node 60-100 bpm, AV node 40-60 bpm, His-Purkinje 20-40 bpm",
+      "meaning": "The fastest site suppresses the slower ones by overdrive suppression; an escape rhythm surfaces only when the sites above it fail or vagal tone is overwhelming",
+      "normalValue": "Escape beats at 20-40 bpm indicate the ventricle is pacing itself",
+      "lecture": "CV23"
+    },
+    {
+      "name": "Cardiac Conduction Velocities",
+      "equation": "Purkinje 2-4 m/s > His and bundle branches 2 m/s > atria and ventricles 0.5-1 m/s > AV node 0.01-0.05 m/s",
+      "meaning": "The AV node is deliberately the slowest link, creating the delay that lets the atria finish emptying before the ventricles contract",
+      "normalValue": "The SA node itself conducts at only about 0.01 m/s",
+      "lecture": "CV23"
+    },
+    {
+      "name": "Determinants of Pacemaker Rate",
+      "equation": "Rate = distance / speed, where distance is maximum diastolic potential to threshold and speed is the phase 4 slope",
+      "meaning": "Vagal stimulation attacks all three levers at once — it hyperpolarizes through I_KACh while reducing I_f and I_Ca to flatten the slope, which is why acetylcholine is such a powerful brake",
+      "normalValue": "A flatter slope, a more negative maximum diastolic potential, or a less negative threshold all slow the rate",
+      "lecture": "CV23"
+    },
+    {
+      "name": "Intrinsic Heart Rate",
+      "equation": "Intrinsic HR (both autonomic limbs blocked) is about 100 bpm; resting HR is about 70 bpm",
+      "meaning": "Because the heart runs slower at rest than when denervated, parasympathetic tone must be dominant at rest",
+      "normalValue": "Both intrinsic heart rate and maximum heart rate (220 - age) decline with age",
+      "lecture": "CV23"
+    },
+    {
+      "name": "The Three Autonomic Tropies",
+      "equation": "Chronotropic = rate; dromotropic = conduction; inotropic = contractility",
+      "meaning": "Sympathetic stimulation increases all three, vagal stimulation decreases all three — the vocabulary for every autonomic effect on the heart",
+      "normalValue": "Vagal effects are strongest on the SA and AV nodes; sympathetic effects reach the ventricular myocardium as well",
+      "lecture": "CV23"
+    }
+  ]
+}

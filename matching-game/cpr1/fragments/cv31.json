@@ -1,0 +1,155 @@
+{
+  "correlates": [
+    {
+      "name": "Vasopressin Resistance (AVP-R / Nephrogenic Diabetes Insipidus), including Lithium-Induced",
+      "presentation": "Polyuria and polydipsia despite adequate or high ADH.",
+      "pathophysiology": "The collecting duct cannot respond to ADH (vasopressin), so free water is lost and the patient has polyuria. Lithium is a major acquired cause.",
+      "treatment": "Discontinue lithium if possible, then thiazide diuretic + low-sodium, low-protein diet (low solute load) + an NSAID.",
+      "lecture": "CV31"
+    },
+    {
+      "name": "Calcium Nephrolithiasis from Idiopathic Hypercalciuria",
+      "pathophysiology": "Excess urinary calcium supersaturates the urine with calcium oxalate and calcium phosphate, seeding recurrent stones.",
+      "treatment": "A thiazide reduces urinary calcium by the DCT mechanism above, lowering supersaturation and reducing recurrence in selected patients. Never the only measure - combine with increased fluid intake, dietary modification, weight loss and drug therapy.",
+      "lecture": "CV31"
+    },
+    {
+      "name": "Thiazide-Induced Hyponatremia",
+      "pathophysiology": "NCC inhibition leaves solute in the tubular fluid, so solute-free water cannot be excreted. Concentrating ability is preserved - the medullary gradient is untouched, the collecting duct still answers ADH, AQP2 is inserted, and free water is reabsorbed.",
+      "lecture": "CV31"
+    },
+    {
+      "name": "Liddle Syndrome (Pseudoaldosteronism)",
+      "presentation": "Hypertension with hypokalemia in a young patient.",
+      "pathophysiology": "Rare autosomal dominant gain-of-function mutation in the genes regulating ENaC, producing far more channels than normal. Unregulated sodium reabsorption creates a strong lumen-negative potential, driving potassium and hydrogen secretion.",
+      "treatment": "ENaC inhibitor plus sodium restriction, which manages both the hypertension and the hypokalemia.",
+      "lecture": "CV31"
+    },
+    {
+      "name": "Ascites due to Hepatic Cirrhosis",
+      "pathophysiology": "Portal hypertension raises hydrostatic pressure and transudes fluid into the peritoneum, lowering effective circulating volume.",
+      "treatment": "Spironolactone is first-line, because the patient is in a state of secondary hyperaldosteronism and the drug attacks that directly. It may be given with furosemide, but furosemide is not used alone here.",
+      "lecture": "CV31"
+    },
+    {
+      "name": "Triple Hit: Thiazide plus MRA plus NSAID",
+      "presentation": "A 70-year-old woman on hydrochlorothiazide and spironolactone starts daily OTC naproxen for knee pain; labs show rising creatinine and potassium 5.8 mEq/L (Slide 37).",
+      "pathophysiology": "(1) The thiazide reduces effective circulating volume and renal perfusion pressure, so GFR becomes prostaglandin-dependent on afferent dilation.",
+      "lecture": "CV31"
+    },
+    {
+      "name": "Mannitol-Induced Pulmonary Edema",
+      "presentation": "A 65-year-old man treated with IV mannitol for traumatic brain injury improves neurologically, then hours later develops dyspnea, crackles, falling oxygen saturation and bilateral pulmonary edema on imaging (Slide 46).",
+      "pathophysiology": "Mannitol stays extracellular and raises plasma osmolality; water is pulled from the intracellular to the interstitial to the intravascular compartment, rapidly expanding plasma volume.",
+      "lecture": "CV31"
+    }
+  ],
+  "drugs": [
+    {
+      "name": "Hydrochlorothiazide",
+      "mechanism": "Blocks the Na+-Cl- cotransporter (NCC) in the distal convoluted tubule, preventing reabsorption of 5-10% of the filtered sodium load",
+      "indication": "First-line for hypertension — an acute fall in ECF and cardiac output gives way to a sustained drop in peripheral vascular resistance",
+      "adverseEffects": "Hyponatremia (the classic diuretic cause), hypokalemic metabolic alkalosis, hyperuricemia, hyperglycemia and hypercalcemia, over a 6-12 hour duration",
+      "lecture": "CV31"
+    },
+    {
+      "name": "Chlorthalidone",
+      "mechanism": "Thiazide-like NCC blockade without a benzothiadiazine ring, with a 40-60 hour half-life giving 24-72 hours of action",
+      "indication": "Hypertension when smoother 24-hour blood pressure control is wanted; cardiovascular outcomes equal those of hydrochlorothiazide",
+      "adverseEffects": "A higher rate of hypokalemia than hydrochlorothiazide, driven by the much longer duration of action",
+      "lecture": "CV31"
+    },
+    {
+      "name": "Amiloride",
+      "mechanism": "Blocks luminal ENaC in principal cells so the lumen-negative potential is neutralized and ROMK can no longer secrete potassium; it enters the nephron by organic cation transporters rather than OATs",
+      "indication": "Potassium-sparing adjunct to a thiazide or loop, lithium-induced nephrogenic diabetes insipidus where it blocks lithium entry and preserves AQP2, and Liddle syndrome",
+      "adverseEffects": "Hyperkalemia, especially with advanced age, renal impairment, hypoaldosteronism, RAS inhibitors, NSAIDs or potassium supplements",
+      "lecture": "CV31"
+    },
+    {
+      "name": "Triamterene",
+      "mechanism": "Direct ENaC blockade in the cortical collecting duct, abolishing the electrical gradient that drives potassium secretion",
+      "indication": "Combined with a thiazide to offset hypokalemia in hypertension and edema",
+      "adverseEffects": "Hyperkalemia, triamterene stones, and a risk of interstitial nephritis",
+      "lecture": "CV31"
+    },
+    {
+      "name": "Spironolactone",
+      "mechanism": "Crosses the basolateral membrane to antagonize the cytosolic mineralocorticoid receptor, blocking transcription of ENaC, Na+/K+ ATPase and ROMK, with an effect proportional to the prevailing aldosterone level",
+      "indication": "Primary aldosteronism, HFrEF and HFpEF, cirrhotic ascites, resistant hypertension, and acne or hirsutism through its antiandrogen activity",
+      "adverseEffects": "Hyperkalemia plus off-target steroid receptor effects — gynecomastia, impotence, loss of libido, and falsely elevated digoxin assays",
+      "lecture": "CV31"
+    },
+    {
+      "name": "Eplerenone",
+      "mechanism": "Selective mineralocorticoid receptor antagonism that spares androgen and progesterone receptors, cleared by CYP3A4 to inactive metabolites over a 7-9 hour duration",
+      "indication": "Heart failure and hypertension in a patient who cannot tolerate the endocrine effects of spironolactone",
+      "adverseEffects": "Hyperkalemia, and interaction with CYP3A4 inhibitors and grapefruit juice, but no gynecomastia",
+      "lecture": "CV31"
+    },
+    {
+      "name": "Finerenone",
+      "mechanism": "Nonsteroidal mineralocorticoid receptor antagonist with a tissue distribution different from the steroidal agents",
+      "indication": "Chronic kidney disease, particularly with type 2 diabetes, to slow progression",
+      "adverseEffects": "Hyperkalemia, requiring potassium monitoring at initiation",
+      "lecture": "CV31"
+    },
+    {
+      "name": "Mannitol",
+      "mechanism": "An inert sugar distributed through the ECF that is freely filtered and never reabsorbed, holding water osmotically in the proximal tubule and descending limb",
+      "indication": "Raised intracranial pressure with cerebral edema, dropping ICP within 15-30 minutes for 1.5-6 hours, and raised intraocular pressure; IV bolus only",
+      "adverseEffects": "Pulmonary edema from the preload surge, hyponatremia in renal impairment, then dehydration with hypernatremia and hyperkalemia",
+      "lecture": "CV31"
+    }
+  ],
+  "transporters": [
+    {
+      "name": "NCC (Na+-Cl- cotransporter)",
+      "location": "Apical membrane of the distal convoluted tubule",
+      "function": "Reabsorbs 5-10% of the filtered sodium load in a water-impermeable segment, so it dilutes tubular fluid without touching the medullary gradient and concentrating ability stays intact",
+      "regulation": "Upregulated during chronic loop diuretic use as part of the distal nephron remodeling that produces diuretic resistance",
+      "inhibitor": "Thiazides — hydrochlorothiazide and chlorthalidone",
+      "lecture": "CV31"
+    },
+    {
+      "name": "TRPV5",
+      "location": "Apical membrane of the distal convoluted tubule",
+      "function": "The entry step for regulated calcium reabsorption, which is why thiazides lower urinary calcium and reduce stone recurrence",
+      "regulation": "Driven by the basolateral Na+/Ca2+ exchanger NCX1 (3 Na+ in, 1 Ca2+ out) and fine-tuned by PMCA1b",
+      "inhibitor": "Not directly blocked — thiazides raise its activity by lowering intracellular sodium",
+      "lecture": "CV31"
+    },
+    {
+      "name": "TRPM6",
+      "location": "Apical membrane of the distal convoluted tubule",
+      "function": "The regulated magnesium entry pathway of the DCT",
+      "regulation": "Downregulated by the DCT remodeling that follows chronic thiazide exposure",
+      "inhibitor": "Chronic thiazide therapy indirectly, producing hypomagnesemia",
+      "lecture": "CV31"
+    },
+    {
+      "name": "URAT1",
+      "location": "Apical membrane of the proximal tubule",
+      "function": "Reabsorbs filtered urate back into the blood, setting the serum uric acid level",
+      "regulation": "Reabsorption rises with hypovolemia, which is why any volume-depleting diuretic raises urate and can trigger gout",
+      "inhibitor": "Probenecid, which blocks reabsorption and is uricosuric",
+      "lecture": "CV31"
+    },
+    {
+      "name": "11-beta-HSD Type 2",
+      "location": "Cytosol of the principal cell, alongside the mineralocorticoid receptor",
+      "function": "Converts cortisol to inactive cortisone so that cortisol, which binds the mineralocorticoid receptor as well as aldosterone does, cannot activate it",
+      "regulation": "Overwhelmed by very high cortisol, or blocked pharmacologically, producing apparent mineralocorticoid excess",
+      "inhibitor": "Licorice (glycyrrhetinic acid)",
+      "lecture": "CV31"
+    },
+    {
+      "name": "SGLT2",
+      "location": "Apical membrane of the early proximal tubule",
+      "function": "Reabsorbs filtered glucose; blocking it spills glucose into the urine and the extra solute makes the drug behave as a mild osmotic diuretic",
+      "regulation": "Load-dependent, saturating above the transport maximum",
+      "inhibitor": "SGLT2 inhibitors, the -flozin agents",
+      "lecture": "CV31"
+    }
+  ]
+}

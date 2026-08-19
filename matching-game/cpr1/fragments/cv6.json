@@ -1,0 +1,16 @@
+{
+  "correlates": [
+    {
+      "name": "Nephrotic Syndrome",
+      "presentation": "Appearance of large proteins — notably albumin — in the urine.",
+      "pathophysiology": "Defects in or damage to the slit diaphragm's integral membrane proteins (nephrin, NEPH1/Kirrel1, podocin) make the glomerular filtration barrier leaky.",
+      "lecture": "CV6"
+    },
+    {
+      "name": "Aristolochic Acid Nephropathy (Acute Kidney Injury)",
+      "presentation": "Acute distress, nausea, dehydration, deep bilateral flank pain, oliguria (~0.5 L/day), urinalysis with marked hematuria, proteinuria, and glycosuria with normal plasma glucose.",
+      "pathophysiology": "Aristolochic acid, a highly toxic compound in lookalike plants contaminating herbal teas, directly injures the kidney and causes acute kidney injury.",
+      "lecture": "CV6"
+    }
+  ]
+}

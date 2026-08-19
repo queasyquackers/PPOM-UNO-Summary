@@ -1,0 +1,90 @@
+{
+  "correlates": [
+    {
+      "name": "Iliolumbar Ligament Strain and Its Referred Pain Pattern",
+      "presentation": "Referred pain from the ipsilateral lumbosacral region into the lateral gluteal region and down the lateral thigh, which may extend into the groin, and into the testicle or labia on that side (Slide 10).",
+      "pathophysiology": "Postural imbalance such as Short Leg Syndrome holds the innominate in a rotated position, placing sustained stress on the iliolumbar ligament; over time the ligament can calcify (Slide 9).",
+      "treatment": "OMT for the pelvic and lumbar somatic dysfunction plus correction of the underlying postural asymmetry, including lift therapy when indicated.",
+      "lecture": "CV33"
+    },
+    {
+      "name": "Scoliosis and the Functional vs Structural Curve",
+      "presentation": "Asymmetric rib cage on forward bending; may be a full scoliosis or only a type 1 group curve with a subtle hump.",
+      "pathophysiology": "Vertebral rotation accompanies lateral curvature, carrying the ribs posteriorly on the convex side and producing the rib hump.",
+      "treatment": "Determined by whether the curve is correctable - side-bend the patient toward the convexity; if the hump resolves the curve is functional and responds to OMT, exercise and postural correction, whereas a persistent hump indicates a structural curve.",
+      "lecture": "CV33"
+    },
+    {
+      "name": "Heel Lift Therapy in the Growing Child",
+      "presentation": "A growing child with a measured leg length discrepancy who is prescribed lift therapy.",
+      "pathophysiology": "Compressive force stimulates bone to grow faster. A lift placed under the shorter leg increases compressive load through that limb, so in a skeletally immature patient it may accelerate growth on the lifted side (Slide 50).",
+      "treatment": "Prescribe as in the adult, but monitor carefully and repeatedly - the discrepancy may self-correct as the child grows, and a lift left unchanged can overshoot.",
+      "lecture": "CV33"
+    },
+    {
+      "name": "Short Leg Syndrome",
+      "presentation": "Multiple findings rather than one: unlevel iliac crests, ASIS/PSIS and shoulders; increased lumbar lordosis; asymmetric foot orientation; low back, gluteal, lateral thigh or groin pain; and the iliolumbar referral pattern.",
+      "pathophysiology": "An asymmetry at or below the pelvis - a true short bone, a pronated foot, a healed fracture, polio, a hip prosthesis, or innominate somatic dysfunction - unlevels the sacral base.",
+      "treatment": "OMT first, then heel lift therapy dosed by L &le; SBU / (D + C), placed on the side of the lowered sacral base, plus stretching and toning homework. The standing flexion test should become negative when the lift is correct.",
+      "lecture": "CV33"
+    }
+  ],
+  "omm": [
+    {
+      "name": "Short Leg Syndrome",
+      "definition": "A historical misnomer for the triad of sacral base unleveling, compensatory innominate rotation, and a caudal curve side-bending away from the low sacral base — the cause may have nothing to do with leg length",
+      "findings": "Measured on a standing film for iliac crest heights, femoral head heights, sacral base unleveling and the scoliotic curve, allowing for 2 mm of measurement error and 25% bony distortion",
+      "treatment": "Treat all somatic dysfunction with OMT before the radiological evaluation, then dose a heel lift",
+      "lecture": "CV33"
+    },
+    {
+      "name": "Heel Lift Placement",
+      "definition": "The lift goes under the heel on the side of the LOWERED sacral base",
+      "findings": "Rule out a pronated foot (which needs orthotics) and pelvic torsion or shear (which needs OMT) before ordering any lift",
+      "treatment": "Maximum 1/4 inch inside the shoe and 1/2 inch from heel to floor; anything above that is split between the anterior sole and the posterior heel, because heel-only excess rotates the pelvis away in the transverse plane",
+      "lecture": "CV33"
+    },
+    {
+      "name": "Heilig's Formula",
+      "definition": "L is less than or equal to SBU / (D + C), where SBU is the sacral base unleveling, D scores duration since injury and C scores compensation",
+      "findings": "Duration: 1 for 0-10 years, 2 for 11-29 years, 3 for 30+ years. Compensation: 0 for none, 1 for side-bending and rotation changes, 2 for wedging, facet size change, endplate growths and spurring",
+      "treatment": "The longer the problem has been present and the more the body has already compensated, the smaller the lift the patient can tolerate",
+      "lecture": "CV33"
+    },
+    {
+      "name": "Hip Drop Test",
+      "definition": "A test of lateral lumbar flexion — not of the hip joint — performed with the feet flat 4-6 inches apart while the patient bends one knee",
+      "findings": "The iliac crest drops on the bent-knee side; the side with the greatest drop is the side of restricted side-bending, and an equal drop scores zero degrees",
+      "treatment": "Note the group curve nuance — the pelvis drops more easily opposite the natural side-bending position",
+      "lecture": "CV33"
+    },
+    {
+      "name": "True vs Apparent Leg Length Discrepancy",
+      "definition": "A true discrepancy is measured fixed landmark to fixed landmark, ASIS to medial malleolus; an apparent discrepancy runs non-fixed to fixed",
+      "findings": "Exclude a true discrepancy first, then check for pelvic torsion; localize by measuring tibial heights from the feet and femoral lengths from the side with the patient supine and knees bent",
+      "treatment": "Correct pelvic torsion with OMT before attributing the finding to bone length",
+      "lecture": "CV33"
+    },
+    {
+      "name": "Iliolumbar Ligament Strain",
+      "definition": "The lateral ligament running from the transverse processes to the ilium, with anterior fibers strained by anterior innominate rotation and posterior fibers by posterior rotation",
+      "findings": "Refers pain to the lumbosacral region, lateral gluteal area, lateral thigh, groin, and testicle or labia",
+      "treatment": "Calcification represents functional demand becoming structural change, so address the innominate rotation before it fixes",
+      "lecture": "CV33"
+    },
+    {
+      "name": "Muscle Balance of the Innominate",
+      "definition": "The innominate is balanced between the abdominal muscles pulling it superiorly and the hamstrings pulling it inferiorly from the ischial tuberosity",
+      "findings": "The vertebral column has its own pair — spinal extensors posteriorly against iliopsoas and rectus femoris anteriorly",
+      "treatment": "Strengthen the weak and stretch the tense; the Thomas test identifies iliopsoas contracture",
+      "lecture": "CV33"
+    },
+    {
+      "name": "C-Curve vs S-Curve Compensation",
+      "definition": "A C-scoliotic response makes a single curve at the thoracolumbar junction; an S-scoliotic response curves the thorax one way and the lumbar spine the other",
+      "findings": "Typical patterns put the sacral base low on the short side with the caudal curve side-bending away; atypical responses tip into the short side and load the opposite side",
+      "treatment": "Atypical compensations may produce more pain than typical ones, so identify the pattern before dosing a lift",
+      "lecture": "CV33"
+    }
+  ]
+}

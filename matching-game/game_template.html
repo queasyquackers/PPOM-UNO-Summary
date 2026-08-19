@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Bugs, Drugs &amp; Correlates &middot; OnePass</title>
-<meta name="description" content="Block 4 board-prep matching game — bugs, drugs, and clinical correlates from lectures 149-192.">
+<title>__TITLE__ &middot; OnePass</title>
+<meta name="description" content="__DESCRIPTION__">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="default">
@@ -352,16 +352,16 @@ details.filter[open] summary::after{content:"\2013";}
 <header class="masthead">
   <div class="mast-top">
     <a class="brandback" href="https://queasyquackers.github.io/PPOM-UNO-Summary/" title="Back to OnePass"><span class="arrow">&#8592;</span>OnePass<span class="dot">.</span></a>
-    <span class="issue">Block IV</span>
+    <span class="issue">__ISSUE__</span>
     <button id="themeToggle" class="theme-btn" type="button" aria-label="Toggle dark mode" title="Toggle dark mode">
       <svg class="moon" viewBox="0 0 24 24" fill="none" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z"/></svg>
       <svg class="sun" viewBox="0 0 24 24" fill="none" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z"/></svg>
     </button>
   </div>
   <div class="rule rule-bold"></div>
-  <h1 class="wordmark">Bugs, Drugs &amp; Correlates<span class="dot">.</span></h1>
+  <h1 class="wordmark">__TITLE__<span class="dot">.</span></h1>
   <div class="rule"></div>
-  <p class="slogan">A board-prep matching game &nbsp;&middot;&nbsp; Lectures 149&ndash;192</p>
+  <p class="slogan">A board-prep matching game &nbsp;&middot;&nbsp; __SLOGAN__</p>
 </header>
 
 <main class="wrap">
@@ -455,45 +455,15 @@ details.filter[open] summary::after{content:"\2013";}
 const MATCHING_DATA = __MATCHING_DATA__;
 
 /* ================= CONFIG ================= */
-const CATS = {
-  bugs:{
-    label:'Bugs', anchorLabel:'Bug',
-    attrs:[
-      {field:'geography',   label:'Geographic Distribution'},
-      {field:'disease',     label:'Disease'},
-      {field:'symptoms',    label:'Symptoms'},
-      {field:'treatment',   label:'Treatment'}
-    ]
-  },
-  drugs:{
-    label:'Drugs', anchorLabel:'Drug',
-    attrs:[
-      {field:'disease',        label:'Disease / Indication'},
-      {field:'mechanism',      label:'Mechanism'},
-      {field:'adverseEffects', label:'Adverse Effects'}
-    ]
-  },
-  correlates:{
-    label:'Clinical Correlates', anchorLabel:'Correlate',
-    attrs:[
-      {field:'presentation',    label:'Patient Presentation'},
-      {field:'pathophysiology', label:'Pathophysiology'},
-      {field:'treatment',       label:'Treatment'}
-    ]
-  },
-  dermterms:{
-    label:'Derm Terms', anchorLabel:'Term',
-    attrs:[
-      {field:'definition', label:'Definition'},
-      {field:'example',    label:'Classic Example'}
-    ]
-  }
-};
+const CATS = __CATS__;
 const SIZES=[4,6,8,10];
 const DIRECTIONS=['forward','reverse']; // forward: name -> attribute; reverse: attribute -> name
 
 /* ================= STATE ================= */
-const cfg={cat:'bugs', attrIdx:1, dir:'forward', size:6, lectures:new Set()};
+/* Defaults are derived from CATS, never hardcoded to one block's category names. */
+const DEFAULT_CAT=Object.keys(CATS)[0];
+const cfg={cat:DEFAULT_CAT, attrIdx:Math.min(1,CATS[DEFAULT_CAT].attrs.length-1),
+           dir:'forward', size:6, lectures:new Set()};
 let round=null, timer=null;
 
 /* ================= HELPERS ================= */
@@ -503,7 +473,8 @@ const esc=s=>s.replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
 const fmtTime=s=>Math.floor(s/60)+':'+String(s%60).padStart(2,'0');
 const lecNum=l=>parseInt(String(l).replace(/[^0-9]/g,''),10)||0;
 function curAttr(){return CATS[cfg.cat].attrs[cfg.attrIdx];}
-function bestKey(){return `mgb4::${cfg.cat}::${curAttr().field}::${cfg.dir}::${cfg.size}`;}
+const STORE_PREFIX='__STORE__';
+function bestKey(){return `${STORE_PREFIX}::${cfg.cat}::${curAttr().field}::${cfg.dir}::${cfg.size}`;}
 function getBest(){return parseInt(localStorage.getItem(bestKey())||'0',10);}
 function setBest(v){localStorage.setItem(bestKey(),String(v));}
 

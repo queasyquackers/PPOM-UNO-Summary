@@ -1,0 +1,75 @@
+{
+  "correlates": [
+    {
+      "name": "Occipitomastoid Suture Restriction and Jugular Foramen Compromise",
+      "presentation": "Vagal (CN X) effects dominate - cardiac symptoms with heart rate and blood pressure changes, respiratory complaints including asthma, and GI symptoms such as GERD and nausea. Infantile colic belongs here as well.",
+      "pathophysiology": "The OM suture lies between the occiput and the temporal, and the jugular foramen sits immediately at that junction.",
+      "treatment": "V-spread with directing the tide, restricted side first, then recheck and usually treat the contralateral suture.",
+      "lecture": "CV34"
+    },
+    {
+      "name": "Stalled Labor and Ineffective Contractions",
+      "presentation": "Labor that has stalled despite ongoing contractions.",
+      "pathophysiology": "Ineffective or arrested contractions with widespread fascial and autonomic strain. CV4 is proposed to work through improved CSF contact with the circumventricular organs, including the posterior pituitary, which secretes oxytocin and antidiuretic hormone.",
+      "treatment": "CV4 - studies have been done in stalled labor with ineffective contractions, and the technique helps the process proceed.",
+      "lecture": "CV34"
+    },
+    {
+      "name": "Temporal Bone Dysfunction - \"The Troublemaker of the Head\"",
+      "presentation": "Difficulty draining the middle ear (otitis media), tinnitus, hearing and balance problems, vertigo; strabismus from CN IV/VI involvement; trigeminal neuralgia; Bell's palsy from CN VII.",
+      "pathophysiology": "More cranial nerves relate to the temporal than to any other bone. CN IV and VI run where the temporal and sphenoid meet, alongside the leaves of the tentorium, and can be irritated or compressed when the temporal is severely internally or externally rotated.",
+      "treatment": "Diagnose with this hold now; it can also serve as a treatment contact once one or both temporals are found restricted (taught later). Bilateral external rotation of the temporals is exactly the accident to avoid during a CV4.",
+      "lecture": "CV34"
+    },
+    {
+      "name": "Cranial Nerve Entrapment Screened in OCF",
+      "pathophysiology": "Cranial nerves are vulnerable where they cross a suture, a foramen or a dural attachment; a strain pattern there tensions the nerve or its dural sleeve. Localize the deficit to the bone that houses the nerve (table above).",
+      "treatment": "BMT for the strain pattern, V-spread and directing the tide for the restricted suture, condylar decompression for CN XII and torticollis [[CV21]].",
+      "lecture": "CV34"
+    }
+  ],
+  "omm": [
+    {
+      "name": "Naming Cranial Somatic Dysfunction",
+      "definition": "Cranial dysfunctions are named for the FREEDOM — the direction the mechanism wants to go — never for the barrier",
+      "findings": "The same naming convention used throughout osteopathic diagnosis",
+      "treatment": "It is what makes indirect treatment 'toward the name'",
+      "lecture": "CV34"
+    },
+    {
+      "name": "Falx Cerebri",
+      "definition": "The sagittal-plane dural sheet running from the crista galli of the ethmoid back to the confluence of sinuses at the inion, along the sagittal suture",
+      "findings": "Attaches to ethmoid, frontal, parietals and occiput, so strain anywhere is transmitted through the whole system",
+      "treatment": "Balanced membranous tension addresses the membrane rather than the individual bone",
+      "lecture": "CV34"
+    },
+    {
+      "name": "Tentorium Cerebelli",
+      "definition": "The transverse-plane dural sheet spanning the confluence of sinuses, the transverse sinus, the petrous ridge of the temporal bone and the clinoid processes of the sphenoid",
+      "findings": "Its junction with the falx at the straight sinus is the Sutherland fulcrum",
+      "treatment": "Balanced membranous tension at the fulcrum, since it guides and limits cranial motion",
+      "lecture": "CV34"
+    },
+    {
+      "name": "Jugular Foramen",
+      "definition": "The opening at the occipitomastoid junction transmitting cranial nerves IX, X and XI along with the internal jugular vein",
+      "findings": "Cranial nerves VII and VIII travel through the temporal bone but NOT through the jugular foramen — the classic distractor",
+      "treatment": "OM suture release for symptoms referable to CN IX, X and XI, including vagally mediated cardiac, respiratory and GI complaints",
+      "lecture": "CV34"
+    },
+    {
+      "name": "Condylar Decompression",
+      "definition": "Release of the occipital condyles, where the occiput articulates with the atlas and the hypoglossal canal transmits CN XII",
+      "findings": "Check the condyles in an infant with torticollis or feeding difficulty",
+      "treatment": "Hand placement is the safety step — thenar eminences must sit medial to the OM sutures, because landing on the mastoid processes externally rotates both temporal bones and can provoke extreme reactions",
+      "lecture": "CV34"
+    },
+    {
+      "name": "Primary vs Secondary Respiration",
+      "definition": "Primary respiration is the cranial rhythmic impulse with its own inhalation and exhalation phases; secondary respiration is pulmonary breathing",
+      "findings": "The two are distinct mechanisms and are palpated separately",
+      "treatment": "Respiratory cooperation from the patient can be used to assist a cranial technique",
+      "lecture": "CV34"
+    }
+  ]
+}

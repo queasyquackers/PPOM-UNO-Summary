@@ -1,0 +1,36 @@
+{
+  "correlates": [
+    {
+      "name": "Foreign Body Aspiration",
+      "presentation": "Sudden choking or coughing followed by unilateral wheeze, decreased breath sounds, and reduced expansion on the affected side.",
+      "pathophysiology": "The right mainstem bronchus is shorter, wider, and more vertical than the left, so gravity and airflow carry aspirated material preferentially down the right side (Slide 9).",
+      "lecture": "CV44"
+    },
+    {
+      "name": "Tracheoesophageal Fistula (Congenital)",
+      "presentation": "A neonatal anomaly; feeds and secretions cross into the airway.",
+      "pathophysiology": "Failure of the tracheoesophageal septum to completely separate the respiratory diverticulum from the foregut leaves a persistent connection between the trachea and the esophagus.",
+      "treatment": "Surgical correction.",
+      "lecture": "CV44"
+    },
+    {
+      "name": "Sickle Cell Anemia in the Pulmonary Bed",
+      "presentation": "Respiratory manifestations of the disease follow from obstruction of this bed.",
+      "pathophysiology": "Pulmonary capillaries admit red cells essentially one at a time and depend on the cell deforming to fit a ~6 micrometer lumen. A misshapen, rigid cell cannot deform and lodges, obstructing the bed (Slide 21).",
+      "lecture": "CV44"
+    },
+    {
+      "name": "Pneumothorax and Loss of Pleural Pressure",
+      "presentation": "Failure of ventilation on the affected side.",
+      "pathophysiology": "Ventilation depends on the pressure differential between parietal and visceral pleura, not on chest wall mechanics alone.",
+      "lecture": "CV44"
+    },
+    {
+      "name": "Pleural Effusion and Thoracocentesis",
+      "presentation": "Aspiration of the fluid for analysis; ultrasound is increasingly used to localize it.",
+      "pathophysiology": "Fluid collects by gravity in the costodiaphragmatic recess, the largest region of pleural cavity without lung in it (Slide 26).",
+      "treatment": "Pleural tap in the 8th or 9th intercostal space, midaxillary line, just superior to the superior border of the rib (Slide 32).",
+      "lecture": "CV44"
+    }
+  ]
+}

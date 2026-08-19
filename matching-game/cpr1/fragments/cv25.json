@@ -1,0 +1,34 @@
+{
+  "correlates": [
+    {
+      "name": "Diabetic Vascular Disease",
+      "presentation": "In this model the ROS stain is the readout; clinically the same process is the endothelial dysfunction of diabetes.",
+      "pathophysiology": "Slide 6 shows arteries from pre-diabetic and diabetic rats stained red for reactive oxygen species (ROS). A healthy VSMC does not generate ROS — it only contracts and relaxes — so the stain itself marks a switched, unhealthy phenotype.",
+      "lecture": "CV25"
+    },
+    {
+      "name": "Atherosclerosis: VSMC, the Fibrous Cap, and Plaque Rupture",
+      "presentation": "A ruptured fibrous cap with an overlying occluding thrombus — the acute coronary event.",
+      "pathophysiology": "As plaque progresses, medial VSMCs lose the contractile phenotype and become synthetic.",
+      "lecture": "CV25"
+    },
+    {
+      "name": "In-Stent Restenosis",
+      "presentation": "Recurrent ischemic symptoms weeks to months after stenting, with a re-occluded lumen.",
+      "pathophysiology": "A stent holds the lumen open but the metal damages the endothelium. Less endothelium means less nitric oxide, and NO is both a vasodilator and an anti-proliferative brake on the underlying VSMC.",
+      "lecture": "CV25"
+    },
+    {
+      "name": "Hypertension and L-Type Calcium Channel Blockers",
+      "pathophysiology": "Excess vasoconstriction raises peripheral resistance and blood pressure. VSMC contraction depends on extracellular Ca²⁺ entering through voltage-gated L-type channels.",
+      "treatment": "Nifedipine, amlodipine, verapamil — all L-type calcium channel blockers. Blocking the channel means the calcium never arrives, so there is no Ca²⁺-calmodulin complex and no contraction.",
+      "lecture": "CV25"
+    },
+    {
+      "name": "Hypertensive Crisis in a Patient with Endothelial Dysfunction",
+      "pathophysiology": "In diabetes the endothelium is dysfunctional and produces less nitric oxide, so endothelium-dependent vasodilators lose potency. Sodium nitroprusside bypasses the endothelium entirely by donating NO straight to the VSMC.",
+      "treatment": "Sodium nitroprusside, a very potent vasodilator used in the emergency department for hypertensive crisis.",
+      "lecture": "CV25"
+    }
+  ]
+}

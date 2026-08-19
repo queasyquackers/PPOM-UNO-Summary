@@ -1,0 +1,84 @@
+{
+  "correlates": [
+    {
+      "name": "Dilated Cardiomyopathy",
+      "presentation": "Heart failure; the heart is visibly big.",
+      "pathophysiology": "All four chambers dilate. The LV chamber diameter - and therefore the radius in Laplace - increases while the wall thins.",
+      "lecture": "CV29"
+    },
+    {
+      "name": "Heart Failure and Digoxin",
+      "presentation": "Ejection fraction; on the Starling curve, an effective inotrope shifts the failing curve back toward normal.",
+      "pathophysiology": "In heart failure the heart becomes weak from causes such as hypertension or myocardial infarction, and contractility is reduced (Slide 21).",
+      "treatment": "Cardioactive glycosides such as digoxin inhibit the Na+/K+ ATPase (sodium pump), whose normal ATP-dependent job is K+ in and Na+ out against their electrochemical gradients.",
+      "lecture": "CV29"
+    },
+    {
+      "name": "Calcific Aortic Stenosis",
+      "presentation": "A 73-year-old man in the ER with exertional dyspnea, syncope and chest pain. Poorly managed hypercholesterolemia and an 11-year history of hypertension.",
+      "pathophysiology": "The obstructed aortic valve cannot open and close fully, so left ventricular pressure must climb very high to eject across it.",
+      "treatment": "Aortic valve repair or replacement, depending on the patient's condition.",
+      "lecture": "CV29"
+    }
+  ],
+  "drugs": [
+    {
+      "name": "Digoxin",
+      "mechanism": "Inhibits the myocyte Na+/K+ ATPase, so intracellular sodium rises, the Na+/Ca2+ exchanger slows, cytoplasmic calcium accumulates and more calcium binds troponin",
+      "indication": "Heart failure with reduced ejection fraction, shifting a depressed Frank-Starling curve back to the left; also rate control in atrial fibrillation",
+      "adverseEffects": "A narrow therapeutic window — hypokalemia leaves fewer K+ ions competing at the pump, so diuretics precipitate arrhythmia; verapamil raises levels by blocking P-glycoprotein",
+      "lecture": "CV29"
+    }
+  ],
+  "formulas": [
+    {
+      "name": "Ejection Fraction",
+      "equation": "EF = (EDV - ESV) x 100 / EDV = SV x 100 / EDV",
+      "meaning": "The fraction of the end-diastolic volume actually ejected — the standard non-invasive measure of systolic function, obtained by transthoracic echocardiography",
+      "normalValue": "Normally 55-70%; a reduced value defines HFrEF",
+      "lecture": "CV29"
+    },
+    {
+      "name": "Fractional Shortening",
+      "equation": "FS = (LVIDd - LVIDs) x 100 / LVIDd",
+      "meaning": "The same idea as ejection fraction but measured from linear chamber dimensions rather than volumes",
+      "normalValue": "An echocardiographic alternative when volumes are hard to trace",
+      "lecture": "CV29"
+    },
+    {
+      "name": "Ventricular Wall Stress",
+      "equation": "Wall stress = (P x r) / h",
+      "meaning": "The primary determinant of myocardial oxygen consumption — dilation raises the radius and thinning lowers wall thickness, so both drive demand up",
+      "normalValue": "An efficient heart has a small radius and an adequately thick wall; a big floppy ventricle is metabolically expensive",
+      "lecture": "CV29"
+    },
+    {
+      "name": "Frank-Starling Law",
+      "equation": "Stroke volume rises as end-diastolic volume rises",
+      "meaning": "Greater passive stretch produces greater force of contraction, so the ventricle ejects whatever extra volume returns to it — on the pressure-volume loop only EDV moves, not ESV",
+      "normalValue": "The curve shifts up and left in exercise and with positive inotropes, and down and right in heart failure",
+      "lecture": "CV29"
+    },
+    {
+      "name": "Pressure-Volume Loop Landmarks",
+      "equation": "EDV ~120 mL, ESV ~50 mL, stroke volume ~70 mL — the width of the loop",
+      "meaning": "Traversed counterclockwise: filling, isovolumetric contraction, rapid and reduced ejection, then isovolumetric relaxation; the EDPVR describes passive stiffness and the ESPVR describes contractility",
+      "normalValue": "A stiff hypertrophied ventricle steepens the EDPVR; a failing ventricle shifts the ESPVR right",
+      "lecture": "CV29"
+    },
+    {
+      "name": "Indicator Dilution Cardiac Output",
+      "equation": "CO = (mg dye x 60) / (average concentration per mL x curve duration in seconds)",
+      "meaning": "Cardiogreen injected into a large vein travels through the right heart, lungs and left heart, and the shape of the peripheral concentration curve reports the output",
+      "normalValue": "A deeper, delayed and longer curve means a reduced cardiac output; recirculation makes the tail rise again",
+      "lecture": "CV29"
+    },
+    {
+      "name": "Heart Rate Ceiling for Cardiac Output",
+      "equation": "Cardiac output rises with heart rate up to 180-200 bpm, then falls",
+      "meaning": "Faster rates shorten diastole and cut stroke volume, but up to that ceiling the rate increase more than compensates; beyond it both stroke volume and output collapse",
+      "normalValue": "Subendocardial left ventricle is perfused only during diastole, which is why tachycardia also starves the coronaries",
+      "lecture": "CV29"
+    }
+  ]
+}

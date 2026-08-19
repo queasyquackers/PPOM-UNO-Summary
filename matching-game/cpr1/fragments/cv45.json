@@ -1,0 +1,84 @@
+{
+  "correlates": [
+    {
+      "name": "Pregnancy",
+      "pathophysiology": "The gravid uterus compresses the diaphragm from below, reducing both FRC and TLC.",
+      "lecture": "CV45"
+    },
+    {
+      "name": "Obesity (and abdominal loading generally)",
+      "pathophysiology": "Mass load of adipose tissue surrounding the ribcage and abdomen, plus elevated intra-abdominal pressure transmitted to the chest.",
+      "lecture": "CV45"
+    },
+    {
+      "name": "COPD (chronic obstructive pulmonary disease)",
+      "presentation": "easily fatigued, frequent respiratory infections, use of accessory muscles to breathe, orthopnea, thin appearance, wheezing, pursed-lip breathing, chronic cough, barrel-shaped chest (classic), dyspnea, prolonged expiratory time, digital clubbing.",
+      "treatment": "bronchodilator (albuterol) with repeat spirometry to demonstrate reversible airway obstruction.",
+      "lecture": "CV45"
+    },
+    {
+      "name": "Restrictive Lung Disease (pulmonary fibrosis, pneumonia, pulmonary edema)",
+      "presentation": "FVC decreased more than FEV1, so FEV1/FVC is preserved or elevated (the lecturer's example, 2.8 ÷ 3.1 ≈ 90%); FRC and RV both decreased.",
+      "pathophysiology": "reduced lung compliance increases stiffness and limits expansion; the same elastic recoil that resists filling also drives rapid emptying.",
+      "lecture": "CV45"
+    }
+  ],
+  "formulas": [
+    {
+      "name": "Total Lung Capacity",
+      "equation": "TLC = IC + FRC = VC + RV",
+      "meaning": "Anchor everything to functional residual capacity, the level the trace returns to after every normal breath — add inspiratory capacity to reach TLC, subtract expiratory reserve volume and only residual volume is left",
+      "normalValue": "About 5,700 mL: VT 500, IRV 3,000, ERV 1,000, RV 1,200",
+      "lecture": "CV45"
+    },
+    {
+      "name": "Functional Residual Capacity",
+      "equation": "FRC = RV + ERV",
+      "meaning": "The relaxed volume of the lung at the end of a quiet breath, where inward elastic recoil exactly balances outward chest wall recoil",
+      "normalValue": "About 2,200 mL; it falls when supine, in obesity, in ascites and in pregnancy, and rises in obstructive disease",
+      "lecture": "CV45"
+    },
+    {
+      "name": "FEV1/FVC Ratio",
+      "equation": "FEV1 / FVC",
+      "meaning": "The single number that separates obstruction from restriction — obstruction drops it because FEV1 falls far more than FVC, while restriction preserves or raises it because stiff lungs empty fast",
+      "normalValue": "About 80% (70% on the guideline cut-off), falling with age; roughly 42% in COPD and 90% in fibrosis",
+      "lecture": "CV45"
+    },
+    {
+      "name": "Why Spirometry Cannot Measure RV",
+      "equation": "Spirometry measures only voluntarily moved air",
+      "meaning": "Residual volume cannot be blown out, so it is unmeasurable by spirometry — and therefore so are the two capacities that contain it, FRC and TLC",
+      "normalValue": "RV or FRC must first come from plethysmography, nitrogen washout or helium dilution",
+      "lecture": "CV45"
+    },
+    {
+      "name": "Helium Dilution",
+      "equation": "C1 x V1 = C2 x (V1 + V2)",
+      "meaning": "Helium is not absorbed across the alveolar membrane, so the dilution of a known starting concentration reports the unknown lung volume it mixed into",
+      "normalValue": "A worked example gives FRC 3,050 mL and RV 1,850 mL",
+      "lecture": "CV45"
+    },
+    {
+      "name": "Dead Space",
+      "equation": "Physiologic dead space = anatomic + alveolar dead space",
+      "meaning": "Ventilation without perfusion — the anatomic portion is the conducting airways from nose to terminal bronchioles, and the alveolar portion is alveoli that are ventilated but not perfused",
+      "normalValue": "Anatomic dead space about 150 mL; it increases with age",
+      "lecture": "CV45"
+    },
+    {
+      "name": "Bohr-Enghoff Equation",
+      "equation": "VD/VT = (PACO2 - PECO2) / PACO2",
+      "meaning": "Estimates the dead space fraction from the difference between alveolar and mixed expired CO2, with arterial PaCO2 substituted for alveolar PACO2 in practice",
+      "normalValue": "Fowler's nitrogen method gives the anatomic value directly, about 150 mL of a 500 mL tidal volume",
+      "lecture": "CV45"
+    },
+    {
+      "name": "Obstructive vs Restrictive PFT Pattern",
+      "equation": "Obstructive: FEV1 down hard, ratio down, RV and FRC up. Restrictive: FVC down hard, ratio normal or up, RV and FRC down",
+      "meaning": "Obstruction is a problem of getting air out, so volume accumulates; restriction is a problem of getting air in, so every volume falls together",
+      "normalValue": "Volumes and capacities run 20-25% lower in women",
+      "lecture": "CV45"
+    }
+  ]
+}

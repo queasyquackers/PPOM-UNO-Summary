@@ -1,0 +1,73 @@
+{
+  "correlates": [
+    {
+      "name": "Conditions That Impair Diaphragm Function",
+      "presentation": "a fall in FRC is the shared signature. Recall FRC = RV + ERV.",
+      "pathophysiology": "paradoxical movement, ascites, pregnancy, and obesity all oppose or splint diaphragmatic descent (Slide 17). The resting balance point of the lung-chest wall system shifts and functional residual capacity decreases.",
+      "lecture": "CV46"
+    },
+    {
+      "name": "Pneumothorax",
+      "presentation": "the lecturer's settings are stab wounds and trauma, and after cardiothoracic surgery, where air is found in the pleural cavity.",
+      "pathophysiology": "air enters the pleural space through rupture or puncture of the lung or chest wall. Pleural pressure becomes less negative, transpulmonary pressure falls toward zero, and unopposed elastic recoil collapses the lung (Slide 21).",
+      "lecture": "CV46"
+    },
+    {
+      "name": "Pleural Effusion",
+      "presentation": "chest x-ray showing dramatic fluid collection at the lung base, with hardly any visible air in the affected lower zone (Slide 21).",
+      "pathophysiology": "fluid rather than air accumulates in the pleural space. Only an optimal thin film belongs there; excess fluid displaces air from the dependent lung.",
+      "treatment": "thoracentesis, also called pleural tapping - a needle is inserted carefully into the pleural cavity and fluid is drained over a good period of time…",
+      "lecture": "CV46"
+    },
+    {
+      "name": "Obstructive Lung Disease (Asthma, Chronic Bronchitis)",
+      "presentation": "increased residual volume and increased FRC - both of which represent air left in the lung after expiration (Slide 35).",
+      "pathophysiology": "airways are partially obstructed, so the lung loses the ability to develop the positive alveolar pressure needed to drive air out; air is retained after expiration.",
+      "treatment": "not covered here beyond mechanics; the lecture notes that in asthma expiration becomes an active process, with the abdominals contracting exactly as in exercise (Slide 16).",
+      "lecture": "CV46"
+    },
+    {
+      "name": "Restrictive Lung Disease (Pulmonary Fibrosis)",
+      "presentation": "decreased FRC (less air taken in with inspiration) and decreased TLC (the lungs are hard to expand and cannot stretch on inspiration). RV, ERV and tidal volume fall as well.",
+      "pathophysiology": "the lung is stiff and hard to expand, so what is lost is the ability to develop a sufficiently negative alveolar pressure; less air is taken in with each inspiration.",
+      "lecture": "CV46"
+    }
+  ],
+  "formulas": [
+    {
+      "name": "Minute Ventilation",
+      "equation": "VE = VT x RR",
+      "meaning": "Total air moved per minute, including the portion wasted in the conducting airways",
+      "normalValue": "500 mL x 15/min = 7.5 L/min; respiratory rate 12-18/min in adults",
+      "lecture": "CV46"
+    },
+    {
+      "name": "Alveolar Ventilation",
+      "equation": "VA = (VT - VD) x RR",
+      "meaning": "The only ventilation that actually participates in gas exchange, which is why rapid shallow breathing can raise minute ventilation while lowering alveolar ventilation",
+      "normalValue": "(500 - 150) x 15 = about 5.25 L/min",
+      "lecture": "CV46"
+    },
+    {
+      "name": "Transpulmonary Pressure",
+      "equation": "Ptp = PA - Ppl",
+      "meaning": "The distending pressure holding the lung open — it is what keeps the alveoli from collapsing and is largest at end-inspiration",
+      "normalValue": "+5 at FRC, +7 at end-inspiration, +6 at mid-expiration",
+      "lecture": "CV46"
+    },
+    {
+      "name": "Pressures Across One Breath",
+      "equation": "Intrapleural runs -5 to -8 to -5; alveolar runs 0 to -1 to 0 to +1 to 0",
+      "meaning": "Atmospheric pressure is always the zero reference, and alveolar pressure is the only one that ever turns positive — that positive value is what pushes air out",
+      "normalValue": "Loss of positive alveolar pressure means obstruction; loss of negative alveolar pressure means restriction",
+      "lecture": "CV46"
+    },
+    {
+      "name": "Accessory Muscle Recruitment",
+      "equation": "Abdominals at ~40 L/min, sternocleidomastoid and serratus at ~50 L/min, spinal erectors and trapezius at ~100 L/min",
+      "meaning": "The diaphragm and intercostals carry resting breathing; each further muscle group joins only at a defined minute ventilation, which is why accessory muscle use is a bedside marker of respiratory distress",
+      "normalValue": "Resting minute ventilation is only about 7.5 L/min",
+      "lecture": "CV46"
+    }
+  ]
+}

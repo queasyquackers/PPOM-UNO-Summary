@@ -1,0 +1,116 @@
+{
+  "correlates": [
+    {
+      "name": "Lobar Pneumonia Localized by the Silhouette Sign",
+      "presentation": "in the lecturer's case the right heart border is crisp but the left heart border cannot be seen — the patient has a lingular pneumonia.",
+      "pathophysiology": "alveoli fill with pus, blood, or fluid, all of which are soft tissue density. Consolidated lung now matches the density of the structure it touches and the interface disappears.",
+      "lecture": "CV41"
+    },
+    {
+      "name": "Apparent Cardiomegaly on a Portable Film",
+      "presentation": "the same patient imaged the same day has a normal cardiac silhouette on the PA film and an enlarged-looking heart on the AP film (Slide 21).",
+      "pathophysiology": "projectional magnification, not disease — an anterior heart, a long heart-to-cassette distance, and a diverging beam.",
+      "lecture": "CV41"
+    },
+    {
+      "name": "Widened Mediastinum After Blunt Trauma",
+      "presentation": "a trauma patient imaged supine with a portable AP film, reported as a \"wide mediastinum.\".",
+      "pathophysiology": "a true mediastinal hematoma widens the mediastinal contour, but AP projection and patient rotation both widen it artifactually.",
+      "lecture": "CV41"
+    },
+    {
+      "name": "Tension Pneumothorax Missed on a Rotated Film",
+      "presentation": "the film shows a pneumothorax; the degree of mediastinal shift is the finding that separates simple from tension physiology.",
+      "pathophysiology": "air trapped under pressure in the pleural space shifts the mediastinum away from the affected side, obstructing venous return.",
+      "lecture": "CV41"
+    }
+  ],
+  "findings": [
+    {
+      "name": "Silhouette Sign",
+      "represents": "Loss of the expected interface between two structures of different density, because a structure is only visible where it abuts something of a different density",
+      "territory": "The left heart border is left ventricle abutting the lingula; the right heart border is right atrium abutting the medial segment of the right middle lobe",
+      "association": "Localizes a consolidation to whichever lobe touches the effaced border — the lecturer's first named must-know",
+      "lecture": "CV41"
+    },
+    {
+      "name": "AP Projection",
+      "represents": "An anterior-to-posterior beam, used portably in the ICU or trauma bay, usually with the patient supine and the heart far from the cassette",
+      "territory": "Magnifies both the heart and the anteriorly-placed mediastinum",
+      "association": "Produces false cardiomegaly (mimicking CHF) and false mediastinal widening (mimicking hematoma) — check the label, not just the scapulae",
+      "lecture": "CV41"
+    },
+    {
+      "name": "Poor Inspiratory Effort",
+      "represents": "Fewer than 9-10 posterior ribs visible above the diaphragm",
+      "territory": "Whole thorax, with the diaphragm riding high against the heart",
+      "association": "Produces false cardiomegaly by crowding the heart against an elevated diaphragm",
+      "lecture": "CV41"
+    },
+    {
+      "name": "Underpenetration",
+      "represents": "A whiter film, in which the thoracic disc spaces cannot be made out behind the heart",
+      "territory": "Retrocardiac space",
+      "association": "Misses retrocardiac masses and pneumonia hiding behind the cardiac shadow",
+      "lecture": "CV41"
+    },
+    {
+      "name": "Overpenetration",
+      "represents": "A film so dark that the lung parenchyma is saturated out",
+      "territory": "Lung fields",
+      "association": "Misses nodules and parenchymal disease",
+      "lecture": "CV41"
+    },
+    {
+      "name": "Rotation",
+      "represents": "Clavicular heads that are not equidistant from the spinous process",
+      "territory": "Mediastinum and aortic contour",
+      "association": "Exaggerates the aorta into a false aneurysm or tracheal deviation, and under-represents mediastinal shift so a tension pneumothorax is missed",
+      "lecture": "CV41"
+    },
+    {
+      "name": "Aortic Knob",
+      "represents": "The rounded contour of the distal aortic arch on the frontal film",
+      "territory": "Always on the left, the uppermost of the three left contour bumps above the pulmonary outflow tract and left ventricle",
+      "association": "The superior segment of a lower lobe can project as high as the knob — a classic localization trap",
+      "lecture": "CV41"
+    },
+    {
+      "name": "Retrosternal Clear Space",
+      "represents": "The gas-filled space behind the sternum on the lateral film",
+      "territory": "Anterior mediastinum, invisible on the frontal film",
+      "association": "Should be entirely lucent; filling it means an anterior mediastinal mass",
+      "lecture": "CV41"
+    },
+    {
+      "name": "Minor (Horizontal) Fissure",
+      "represents": "The fissure dividing the right upper lobe from the right middle lobe",
+      "territory": "Right lung only — the left lung has no minor fissure",
+      "association": "The only fissure visible on both the frontal and lateral films; the major fissure shows on the lateral alone",
+      "lecture": "CV41"
+    }
+  ],
+  "formulas": [
+    {
+      "name": "Radiographic Density Scale",
+      "equation": "Air < fat < soft tissue/fluid < calcium < bone < contrast < metal",
+      "meaning": "Density determines x-ray absorption and therefore film appearance, from air at maximum transmission (darkest) to metal at maximum absorption (whitest) — and pus, blood and simple fluid are all the same soft-tissue density",
+      "normalValue": "A chest x-ray delivers about 0.1 mSv, roughly 10 days of the 3 mSv annual US background",
+      "lecture": "CV41"
+    },
+    {
+      "name": "Technical Assessment (P-I-P-R)",
+      "equation": "Projection, Inspiration, Penetration, Rotation",
+      "meaning": "Four checks before reading any chest film — projection from the label, inspiration by counting 9-10 posterior ribs, penetration by just seeing the thoracic disc spaces, rotation by equidistant clavicular heads",
+      "normalValue": "Each failed check produces its own predictable false finding",
+      "lecture": "CV41"
+    },
+    {
+      "name": "Lobes, Fissures and Segments",
+      "equation": "Right lung: 3 lobes, 10 segments, minor and major fissures. Left lung: 2 lobes, 8 segments, major fissure only",
+      "meaning": "The lingula belongs to the left upper lobe, not to a separate middle lobe, and it is what abuts the left heart border",
+      "normalValue": "Right hemidiaphragm is seen entire; the left is effaced where the heart sits on it",
+      "lecture": "CV41"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "correlates": [
+    {
+      "name": "Supraventricular Tachycardia (Vagal Maneuver Response)",
+      "presentation": "Rapid heart rhythm with palpitations, arriving in the ER needing rate control quickly.",
+      "treatment": "Vagal maneuvers — Valsalva or carotid massage — driving the parasympathetic outflow above from the NTS via CN X, slowing AV conduction and the rate.",
+      "lecture": "CV17"
+    },
+    {
+      "name": "Carotid Sinus Hypersensitivity Syndrome",
+      "presentation": "Syncope or pre-syncopal episodes triggered by trivial mechanical stimulation of the neck — buttoning a shirt, shaving, or brushing hair.",
+      "pathophysiology": "The baroreceptor system becomes hypersensitive — receptors are accidentally hyper-stimulated by ordinary neck pressure, constantly signaling that blood pressure has changed. Frequently associated with arteriosclerotic changes in the carotid sinus.",
+      "lecture": "CV17"
+    },
+    {
+      "name": "Cushing Reflex (Cushing Response)",
+      "presentation": "The Cushing triad — hypertension, bradycardia, and respiratory depression.",
+      "pathophysiology": "The CNS ischemic response above, driven by increased intracranial pressure: cerebral arterioles are constricted → cerebral blood flow falls → ischemia with increased PCO2 and decreased pH → sympathetic activation → systemic hypertension.",
+      "lecture": "CV17"
+    },
+    {
+      "name": "White Coat Hypertension (White Coat Syndrome)",
+      "presentation": "Elevated BP readings in the clinic with normal readings when measured elsewhere.",
+      "pathophysiology": "Stress and nervousness triggered by the clinical environment (seeing someone in a white coat) transiently elevate blood pressure during measurement.",
+      "lecture": "CV17"
+    },
+    {
+      "name": "Hypertension",
+      "presentation": "Usually silent; may present late with headache or bleeding when pressure is already very high.",
+      "pathophysiology": "Chronically elevated arterial pressure. Primary hypertension (~90% of cases): no identifiable cause. Secondary hypertension (~10% of cases): a specific identifiable problem, for example in the kidneys.",
+      "treatment": "RAAS-blocking drugs (ACE inhibitors, ARBs) are among today's drugs of choice.",
+      "lecture": "CV17"
+    },
+    {
+      "name": "Hypovolemic Shock",
+      "presentation": "Hypotension with the hallmark compensatory hemodynamic pattern — decreased preload, decreased CO, but increased SVR from intense vasoconstriction, very typical of bleeding.",
+      "pathophysiology": "Loss of blood volume (hemorrhage/accident, major burns, dehydration) → decreased preload (decreased venous return) → decreased stroke volume → decreased cardiac output → decreased BP → tissue hypoperfusion.",
+      "treatment": "Give volume: restoring volume raises stroke volume, cardiac output, and blood pressure, reperfusing the tissues.",
+      "lecture": "CV17"
+    }
+  ],
+  "formulas": [
+    {
+      "name": "Stroke Volume Determinants",
+      "equation": "SV rises with preload and contractility, and falls with afterload",
+      "meaning": "Preload is end-diastolic volume set by central venous pressure; afterload is the resistance the ventricle ejects against, which is why aortic stenosis cuts stroke volume",
+      "normalValue": "About 70 mL per beat, giving a cardiac output near 5 L/min at rest",
+      "lecture": "CV17"
+    },
+    {
+      "name": "Perfusion Threshold",
+      "equation": "MAP must stay above 60 mmHg",
+      "meaning": "Below this floor, tissue perfusion fails no matter what the systolic number reads — which is why mean pressure, not systolic, is the resuscitation target",
+      "normalValue": "MAP = (2 x diastolic + systolic) / 3, about 93 mmHg for a 120/80 reading",
+      "lecture": "CV17"
+    }
+  ],
+  "findings": [
+    {
+      "name": "Valsalva Maneuver",
+      "represents": "Forceful exhalation against a closed airway, raising intrathoracic pressure and stretching the baroreceptors",
+      "territory": "Carotid sinus and aortic arch, reporting through CN IX and CN X to the nucleus tractus solitarius",
+      "association": "Used at the bedside to break supraventricular tachycardia by driving a parasympathetic response",
+      "lecture": "CV17"
+    },
+    {
+      "name": "Carotid Sinus Massage",
+      "represents": "External pressure on the carotid sinus that the baroreceptors read as a rise in blood pressure",
+      "territory": "Carotid sinus, afferent CN IX, efferent vagal CN X",
+      "association": "Carotid sinus hypersensitivity — the elderly man with atherosclerosis who faints while shaving or buttoning a collar",
+      "lecture": "CV17"
+    }
+  ]
+}

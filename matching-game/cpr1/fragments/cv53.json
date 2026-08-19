@@ -1,0 +1,36 @@
+{
+  "correlates": [
+    {
+      "name": "Dyspnea in Left-Sided Heart Failure (J Receptor Activation)",
+      "presentation": "Dyspnea, with rapid shallow breathing; activation also causes bronchoconstriction and mucus secretion, all defensive responses meant to protect the delicate alveolar structures.",
+      "pathophysiology": "Left-sided failure backs pressure up into the pulmonary circulation and produces pulmonary edema. The excess fluid stretches the alveolar walls and ducts where the juxtacapillary (J) receptors sit, activating them.",
+      "lecture": "CV53"
+    },
+    {
+      "name": "Acute Altitude Sickness",
+      "presentation": "Most frequently reported are headache, fatigue, dizziness, nausea, palpitations and insomnia.",
+      "pathophysiology": "Decreased atmospheric pressure lowers the oxygen available in inspired air, which lowers alveolar PO2 and then arterial PO2. The same hypoxia drives pulmonary hypoxic vasoconstriction.",
+      "treatment": "Acetazolamide, which inhibits carbonic anhydrase. With the enzyme blocked, that arm of the bicarbonate buffer system cannot be converted to water and CO2 and blown off, which counterbalances the respiratory alkalosis hyperventilation would otherwise produce.",
+      "lecture": "CV53"
+    },
+    {
+      "name": "COVID-19 (and Long COVID) Hypoxemia",
+      "presentation": "Decreased PaO2 with an increased A-a gradient, placing it in the diffusion-barrier group.",
+      "pathophysiology": "Infection causes inflammation leading to pulmonary flooding — an edema. Unlike fibrosis, this is a liquid barrier rather than a tissue barrier, but the effect is identical: increased diffusion distance for gases.",
+      "treatment": "Supplemental oxygen is helpful — it maximizes the diffusion pressure of oxygen into the system.",
+      "lecture": "CV53"
+    },
+    {
+      "name": "Carbon Monoxide Poisoning",
+      "presentation": "Decreased O2 content of blood with a normal PaO2 — a double insult that arterial oxygen tension will not reveal.",
+      "pathophysiology": "CO binds competitively to the oxygen binding site of hemoglobin, and binds very tightly.",
+      "lecture": "CV53"
+    },
+    {
+      "name": "Cyanide Poisoning",
+      "presentation": "O2 content of blood is fine and PaO2 is unaffected, yet the patient is profoundly hypoxic — the defect is at the mitochondrion, not in transport.",
+      "pathophysiology": "Cyanide disables protein complexes of the electron transport chain, so the tissue cannot utilize the oxygen delivered to it.",
+      "lecture": "CV53"
+    }
+  ]
+}

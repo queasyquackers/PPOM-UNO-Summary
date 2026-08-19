@@ -1,0 +1,34 @@
+{
+  "correlates": [
+    {
+      "name": "Hypertensive Hypertrophy with Reduced Capillary Reserve",
+      "presentation": "Chest pain (angina) on exertion from inadequate myocardial blood flow, with decreased exercise capacity.",
+      "pathophysiology": "Systemic hypertension raises LV workload; myocytes enlarge in diameter and push capillaries apart. Capillary density drops from ~4,000 to ~2,500/mm² while resting perfusion rises from ~1/4 to ~1/2 of capillaries.",
+      "lecture": "CV18"
+    },
+    {
+      "name": "Cardiac Tamponade",
+      "presentation": "Restricted heart function after chest trauma or pericardial effusion.",
+      "pathophysiology": "The pericardium is dense connective tissue that cannot acutely stretch. Traumatic injury to the heart (or pericarditis) leaking blood/fluid into the pericardial sac compresses the heart and restricts dilation/filling.",
+      "lecture": "CV18"
+    },
+    {
+      "name": "Dilated Cardiomyopathy (Pericardial Adaptation)",
+      "presentation": "Massively dilated hearts, as seen in gross anatomy donors who died of dilated cardiomyopathy.",
+      "pathophysiology": "Chronic, slowly progressive cardiac enlargement; the chamber dilates by myocyte lengthening (series sarcomere addition).",
+      "lecture": "CV18"
+    },
+    {
+      "name": "Heart Failure with Preserved Ejection Fraction (HFpEF)",
+      "presentation": "Heart failure of the non-dilated type with preserved ejection fraction.",
+      "pathophysiology": "Hypertension drives interstitial fibrosis — collagen (tensile strength of steel) accumulating between myocytes — stiffening the ventricle and impairing relaxation.",
+      "lecture": "CV18"
+    },
+    {
+      "name": "Myocardial Infarction (Histologic Appearance)",
+      "presentation": "Histologically, an infarct is an area that is all fibrotic with NO myocytes — myocytes are missing where they should be.",
+      "pathophysiology": "Infarction kills myocytes; because adult myocytes cannot proliferate, the dead muscle is replaced by collagen (replacement fibrosis).",
+      "lecture": "CV18"
+    }
+  ]
+}

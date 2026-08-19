@@ -1,0 +1,89 @@
+{
+  "correlates": [
+    {
+      "name": "Chronic Hypertension (Sodium-Driven Volume Expansion)",
+      "pathophysiology": "Retaining sodium forces water retention (osmolality must be held constant), expanding ECF and plasma volume, raising venous return, preload, stroke volume, cardiac output — and therefore blood pressure (the Slide 17-18 practice question, answer D).",
+      "treatment": "This is the physiologic basis for recommending a low-sodium diet to hypertensive patients.",
+      "lecture": "CV8"
+    },
+    {
+      "name": "Apparent Mineralocorticoid Excess (Licorice)",
+      "presentation": "A state of apparent mineralocorticoid excess (slide: hypertension, hypokalemia, low renin, low aldosterone).",
+      "pathophysiology": "Eating a lot of licorice inhibits 11-beta-hydroxysteroid dehydrogenase, the enzyme that normally inactivates cortisol at the mineralocorticoid receptor. Cortisol then activates MR, mimicking aldosterone excess.",
+      "lecture": "CV8"
+    },
+    {
+      "name": "Renal Artery Stenosis",
+      "presentation": "Worsening hypertension in a patient often on three or more antihypertensives without BP improvement across visits — a classic board presentation.",
+      "pathophysiology": "A narrowed (stenosed) renal artery makes the kidney \"see\" low pressure / low ECV → chronic renin release (pathologic RAAS activation) → chronic hypertension.",
+      "lecture": "CV8"
+    },
+    {
+      "name": "NSAID-Induced Acute Kidney Injury",
+      "presentation": "Acute kidney injury in a volume-depleted patient taking NSAIDs.",
+      "pathophysiology": "NSAIDs inhibit prostaglandin synthesis. In a volume-depleted patient with angiotensin II acting, losing the prostaglandin afferent dilation leaves unopposed afferent constriction → GFR crashes.",
+      "lecture": "CV8"
+    },
+    {
+      "name": "SIADH (Syndrome of Inappropriate Antidiuretic Hormone)",
+      "presentation": "Hyponatremia (dilution of serum sodium by retained water).",
+      "pathophysiology": "Too much ADH → continuous water retention.",
+      "lecture": "CV8"
+    },
+    {
+      "name": "Diabetes Insipidus",
+      "presentation": "Water loss (dilute, high-volume urine) and hypernatremia.",
+      "pathophysiology": "Too little ADH, or an ineffective ADH response, leaves the collecting duct impermeable to water.",
+      "lecture": "CV8"
+    },
+    {
+      "name": "Congestive Heart Failure (Renal Volume-Defense Maladaptation)",
+      "presentation": "Dyspnea, pitting edema of the lower extremities, ascites, pulmonary edema (crackles); labs may show hyponatremia (e.g., 128 mEq/L in the opening case).",
+      "pathophysiology": "Weak pump → low cardiac output → low effective circulating volume despite high total ECF. Renal sensors perceive hypovolemia → chronic RAAS, sympathetic, and non-osmotic ADH activation → sodium and water retention → worsening congestion.",
+      "treatment": "Calm the kidney's over-firing signals (see the drug table below).",
+      "lecture": "CV8"
+    }
+  ],
+  "transporters": [
+    {
+      "name": "AQP1 (Aquaporin-1)",
+      "location": "Both apical and basolateral membranes of the proximal tubule and the descending thin limb",
+      "function": "A constitutively open water pore, so water follows sodium osmotically for the roughly 65% isosmotic reabsorption of the proximal tubule and the further 10% that concentrates fluid in the descending limb",
+      "regulation": "Always present and not hormonally gated — this is why proximal reabsorption is obligatory rather than adjustable",
+      "inhibitor": "None used clinically",
+      "lecture": "CV8"
+    },
+    {
+      "name": "AQP2 (Aquaporin-2)",
+      "location": "Apical membrane of collecting duct principal cells",
+      "function": "The gated water exit of the nephron — water can only leave the collecting duct down the medullary osmotic gradient through this pore, so it sets final urine concentration",
+      "regulation": "Vasopressin acting at V2 receptors translocates it into the apical membrane; without ADH the tubule stays water-impermeable and urine is dilute",
+      "inhibitor": "Lithium impairs its insertion, producing nephrogenic diabetes insipidus",
+      "lecture": "CV8"
+    },
+    {
+      "name": "Na+/K+ ATPase",
+      "location": "Basolateral membrane of every sodium-reabsorbing tubular cell",
+      "function": "Pumps 3 Na+ out and 2 K+ in per ATP, keeping intracellular sodium low so that every apical sodium entry step — NHE3, SGLT, NKCC2, NCC, ENaC — has a downhill gradient to work with",
+      "regulation": "Aldosterone raises both its activity and its numbers in principal cells",
+      "inhibitor": "Digoxin in the cardiomyocyte isoform; hypokalemia leaves fewer K+ ions competing with digoxin at the pump",
+      "lecture": "CV8"
+    }
+  ],
+  "formulas": [
+    {
+      "name": "Total Body Water",
+      "equation": "TBW = 60% of body weight; 2/3 intracellular, 1/3 extracellular",
+      "meaning": "The compartment map behind every fluid problem — the ECF splits again into interstitial fluid and plasma, and because the Na+/K+ ATPase holds intracellular sodium steady, any change in body sodium plays out in the ECF",
+      "normalValue": "About 42 L in a 70 kg adult: 28 L intracellular and 14 L extracellular",
+      "lecture": "CV8"
+    },
+    {
+      "name": "The 99% / 1% Principle",
+      "equation": "99% of the filtered load is reabsorbed; regulation happens in the final 1%",
+      "meaning": "The kidney keeps GFR and distal sodium delivery deliberately constant so the distal nephron can act as a fine adjustable valve under ADH and aldosterone control",
+      "normalValue": "173 L filtered per day yields about 1.73 L of urine",
+      "lecture": "CV8"
+    }
+  ]
+}
