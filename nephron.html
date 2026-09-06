@@ -209,6 +209,92 @@ h3.subh{
   color:var(--muted); margin:20px 0 2px;
 }
 
+/* ---------- drug consequence card ---------- */
+.dcard{
+  margin-top:14px; border:1.5px solid var(--accent); border-radius:12px;
+  overflow:hidden; background:var(--surface);
+}
+.dhead{background:var(--cz-bg); padding:10px 14px; border-bottom:1px solid var(--line)}
+.dhead .dn{font-size:15px; font-weight:800}
+.dhead .dx{font-size:12.5px; color:var(--muted); margin-top:1px}
+.dbody{padding:12px 14px}
+.dmeta{display:grid; grid-template-columns:repeat(auto-fit,minmax(210px,1fr)); gap:8px; margin-bottom:4px}
+.dmeta div{background:var(--surface2); border:1px solid var(--line); border-radius:8px; padding:7px 10px; font-size:13px}
+.dmeta b{display:block; font-size:10px; font-weight:800; letter-spacing:.08em;
+  text-transform:uppercase; color:var(--muted); margin-bottom:2px}
+
+/* the cascade: a zone-coloured rail with one causal link per row */
+.casc{margin:10px 0 2px}
+.cstep{display:grid; grid-template-columns:86px 24px 1fr; align-items:start}
+.czone{
+  font-size:9.5px; font-weight:800; letter-spacing:.07em; text-transform:uppercase;
+  text-align:right; padding:3px 8px 0 0; color:var(--muted);
+}
+.crail{position:relative; align-self:stretch}
+.crail::before{content:""; position:absolute; left:10px; top:4px; bottom:0; width:2px; background:var(--line)}
+.cstep:last-child .crail::before{display:none}
+.cdot{position:absolute; left:4px; top:4px; width:15px; height:15px; border-radius:50%;
+  border:2.5px solid var(--surface); box-sizing:border-box}
+.ctext{padding:1px 0 13px 8px; font-size:14px; line-height:1.5}
+.cstep:last-child .ctext{padding-bottom:2px}
+.z-cell{background:var(--cell-edge)} .z-lumen{background:var(--lumen-ink)}
+.z-segment{background:var(--accent)} .z-distal{background:var(--k)} .z-body{background:var(--down)}
+
+/* serum / urine signature */
+.sig{display:grid; grid-template-columns:repeat(auto-fit,minmax(280px,1fr)); gap:14px; margin-top:6px}
+.sigrow{display:grid; grid-template-columns:20px 1fr; gap:7px; padding:6px 0; border-bottom:1px dashed var(--line)}
+.sigrow:last-child{border-bottom:none}
+.sigd{font-weight:800; font-size:14px; text-align:center; line-height:1.35}
+.sigk{font-weight:700; font-size:13.5px}
+.sigw{font-size:12.5px; color:var(--muted); line-height:1.45}
+.d-up{color:var(--up)} .d-down{color:var(--down)} .d-none{color:var(--faint)} .d-var{color:var(--accent)}
+
+/* uses / adverse */
+.duo{display:grid; grid-template-columns:repeat(auto-fit,minmax(280px,1fr)); gap:14px; margin-top:6px}
+ul.dlist{list-style:none; margin:0; padding:0}
+ul.dlist li{padding:6px 0 6px 16px; position:relative; font-size:13.5px; line-height:1.5;
+  border-bottom:1px dashed var(--line)}
+ul.dlist li:last-child{border-bottom:none}
+ul.dlist li::before{content:"▪"; position:absolute; left:2px; top:6px; font-size:10px; color:var(--accent)}
+ul.dlist li b{font-weight:700}
+ul.dlist li span{color:var(--muted)}
+
+/* state badges drawn inside the lumen / interstitium bands */
+svg text.statelbl{font-size:11px; font-weight:800}
+
+/* mechanism of action block */
+.moa{display:grid; grid-template-columns:repeat(auto-fit,minmax(238px,1fr)); gap:9px; margin-top:6px}
+.moa > div{background:var(--surface2); border:1px solid var(--line); border-radius:9px;
+  padding:8px 11px; font-size:13.2px; line-height:1.5}
+.moa b{display:block; font-size:10px; font-weight:800; letter-spacing:.08em;
+  text-transform:uppercase; color:var(--accent); margin-bottom:3px}
+.moa > div.wide{grid-column:1/-1; border-left:3px solid var(--accent)}
+
+/* severity + correlate-kind chips */
+.sev,.kind{
+  font-size:9.5px; font-weight:800; letter-spacing:.06em; text-transform:uppercase;
+  padding:1px 7px; border-radius:10px; white-space:nowrap;
+}
+.sev{margin-left:7px}
+.sev-common{background:var(--surface2); color:var(--muted); border:1px solid var(--line)}
+.sev-serious{background:var(--down); color:#fff}
+.sev-niche{background:var(--cz-bg); color:var(--accent); border:1px solid var(--accent)}
+.kind{background:var(--surface2); color:var(--muted); border:1px solid var(--line)}
+.k-treats{background:var(--up); color:#fff; border-color:var(--up)}
+.k-causes{background:var(--down); color:#fff; border-color:var(--down)}
+.k-mimics{background:var(--k); color:#fff; border-color:var(--k)}
+.k-unmasks{background:var(--accent); color:#fff; border-color:var(--accent)}
+.k-interacts{background:var(--surface2); color:var(--ink); border:1px solid var(--line)}
+table.grid td .kind{display:inline-block}
+
+/* diuretics comparison page */
+.dgrid{display:grid; grid-template-columns:repeat(auto-fit,minmax(300px,1fr)); gap:14px; margin-top:10px}
+.dtile{border:1px solid var(--line); border-left:4px solid var(--accent); border-radius:10px;
+  padding:11px 13px; background:var(--surface2)}
+.dtile h4{font-size:14.5px; margin-bottom:1px}
+.dtile .site{font-size:11.5px; color:var(--muted); font-weight:700; text-transform:uppercase; letter-spacing:.05em}
+.dtile p{margin:6px 0 0; font-size:13px; line-height:1.5}
+
 /* ---------- animation (CSS only) ---------- */
 @keyframes flowx{
   0%{transform:translateX(0); opacity:0}
@@ -227,21 +313,30 @@ body.paused .tubeflow{animation-play-state:paused}
 .pulse{animation:pulse 2.6s ease-in-out infinite}
 body.paused .pulse{animation-play-state:paused}
 
-/* waypoints trace the MAP_SEGS paths; origin is the group at (140,80) */
+/* Fallback only (no offset-path): straight hops between waypoints, so the dot
+   cuts across the PCT and DCT coils. Absolute coords — there is no longer a
+   wrapping translate(140,80) group. */
 @keyframes nephronRun{
-  0%   {transform:translate(0,0)}        /* Bowman → PCT coil        */
-  11%  {transform:translate(178px,24px)} /* coil turns down          */
-  19%  {transform:translate(178px,156px)}/* enters medulla           */
-  33%  {transform:translate(178px,390px)}/* end thin descending      */
-  37%  {transform:translate(220px,432px)}/* hairpin bottom           */
-  41%  {transform:translate(262px,390px)}/* start thin ascending     */
-  45%  {transform:translate(262px,320px)}/* start TAL                */
-  62%  {transform:translate(262px,40px)} /* macula densa → DCT       */
-  74%  {transform:translate(476px,40px)} /* end DCT                  */
-  100% {transform:translate(476px,472px)}/* down the collecting duct */
+  0%   {transform:translate(140px,80px)} /* Bowman → PCT coil        */
+  11%  {transform:translate(318px,104px)}/* coil turns down          */
+  19%  {transform:translate(318px,236px)}/* enters medulla           */
+  33%  {transform:translate(318px,470px)}/* end thin descending      */
+  37%  {transform:translate(360px,512px)}/* hairpin bottom           */
+  41%  {transform:translate(402px,470px)}/* start thin ascending     */
+  45%  {transform:translate(402px,400px)}/* start TAL                */
+  62%  {transform:translate(402px,120px)}/* macula densa → DCT       */
+  74%  {transform:translate(616px,120px)}/* end DCT                  */
+  100% {transform:translate(616px,552px)}/* down the collecting duct */
 }
 .tubedot{animation:nephronRun 13s linear infinite; animation-delay:var(--dl,0s)}
 body.paused .tubedot{animation-play-state:paused}
+
+/* Preferred: ride the real tubule path, coils included. The path itself is set
+   inline per dot, rebuilt from MAP_SEGS so it tracks the drawn geometry. */
+@keyframes nephronTrace{ from{offset-distance:0%} to{offset-distance:100%} }
+@supports (offset-path: path("M0,0 L1,1")){
+  .tubedot{animation-name:nephronTrace; offset-rotate:0deg}
+}
 
 @media (prefers-reduced-motion:reduce){
   .flow,.tubeflow,.pulse,.tubedot{animation:none !important}
@@ -339,6 +434,13 @@ function T(name, gene, kind, flux, opts){
 function H(n, e, via, note){ return {n:n, e:e, via:via, t:'hormone', side:'blood', note:note}; }
 function D(n, e, via, note){ return {n:n, e:e, via:via, t:'drug',    side:'lumen', note:note}; }
 function DB(n, e, via, note){ return {n:n, e:e, via:via, t:'drug',   side:'blood', note:note}; }
+/* Inline-authored modulator: carries its own chain/result/strength instead of an
+   FX index, so it can be added anywhere. o = {c:chain, r:result, s:strength,
+   k:drug-class id, side:'lumen'|'blood'} */
+function DX(n, e, via, o){
+  return {n:n, e:e, via:via, t:'drug', side:(o.side || 'lumen'),
+          chain:o.c, result:o.r, strength:(o.s || 'partial'), cls:o.k};
+}
 
 var ION_COLOR = {
   'Na⁺':'--na', 'K⁺':'--k', 'Cl⁻':'--cl', 'H⁺':'--h',
@@ -353,7 +455,7 @@ var ION_COLOR = {
 var SUBSTANCES = [
   { id:'na', label:'Na⁺', color:'--na',
     bars:{pct:66, tdl:0, tal:25, dct:5, cd:3, ex:1},
-    seg:{pct:'66% ↓', tdl:'—', tasc:'passive ↓ (part of the loop 25%)', tal:'25% ↓', dct:'5% ↓', cd:'3% ↓'},
+    seg:{pct:'66% ↓', tdl:'—', tasc:'passive ↓ (part of the loop 25%)', tal:'25% ↓', dct:'5–10% ↓', cd:'2–5% ↓'},
     ex:'< 1% excreted',
     note:'Every segment reabsorbs Na⁺ and every segment does it with a different transporter — that single fact organises the whole nephron. Fine-tuning happens in the last 3%, which is exactly where the diuretics and aldosterone act.' },
   { id:'h2o', label:'H₂O', color:'--h2o',
@@ -415,7 +517,7 @@ var SUBSTANCES = [
     bars:null,
     seg:{pct:'SECRETED ↑ — OAT1/3 (anions), OCT2 + MATE (cations)', tdl:'—', tasc:'—', tal:'—', dct:'—', cd:'—'},
     ex:'variable',
-    note:'This is how loop and thiazide diuretics reach their luminal targets — they are secreted into the tubule in the PCT. Probenecid and uremic anions compete and blunt diuretic effect.' }
+    note:'This is how loop and thiazide diuretics reach their luminal targets — they are secreted into the tubule in the PCT. Probenecid, NSAIDs and uremic anions compete and blunt diuretic effect.' }
 ];
 
 /* ---------- the segments ---------- */
@@ -433,7 +535,7 @@ SEGMENTS.push({
     'The filtration barrier has three layers: {{c1::fenestrated capillary endothelium}} (blocks by size), the {{c2::glomerular basement membrane}} with heparan sulfate (blocks by {{c3::negative charge}}), and {{c4::podocyte foot processes with slit diaphragms}} (nephrin → podocin).',
     'Lose the charge barrier and you get {{c1::selective albuminuria}} (minimal change disease). Lose the size barrier and you get {{c2::non-selective}} proteinuria with casts.',
     'Angiotensin II preferentially constricts the {{c1::efferent}} arteriole → {{c2::↑}} GFR, {{c3::↓}} RPF, {{c4::↑}} filtration fraction.',
-    'Prostaglandins (PGE₂, PGI₂) dilate the {{c1::afferent}} arteriole. {{c2::NSAIDs}} block them → ↓ GFR — dangerous in volume depletion, and the "triple whammy" is {{c3::NSAID + ACE inhibitor + diuretic}}.',
+    'Prostaglandins (PGE₂, PGI₂) dilate the {{c1::afferent}} arteriole. {{c2::NSAIDs}} block them → ↓ GFR — dangerous in volume depletion, and what the lecture calls the "{{c3::triple hit}}" is {{c4::NSAID + ACE inhibitor/ARB + diuretic}}.',
     'ACE inhibitors and ARBs dilate the {{c1::efferent}} arteriole → {{c2::↓}} GFR, ↑ RPF, {{c3::↓}} FF. A creatinine rise of up to {{c4::30%}} is expected and acceptable.',
     'Tubuloglomerular feedback: the {{c1::macula densa}} (in the TAL wall) senses ↑ luminal NaCl through {{c2::NKCC2}} → releases {{c3::adenosine}} → {{c4::afferent}} constriction → ↓ GFR.',
     'Renin is released from {{c1::juxtaglomerular (granular) cells}} in the afferent arteriole in response to {{c2::↓ renal perfusion pressure}}, {{c3::↓ NaCl at the macula densa}}, and {{c4::β₁}} sympathetic stimulation.',
@@ -447,7 +549,7 @@ SEGMENTS.push({
   id:'pct', tab:'PCT', name:'Proximal convoluted tubule (S1–S3)',
   where:'Cortex → outer medulla',
   headline:'The workhorse. Bulk, isosmotic, unregulated-by-design reabsorption of roughly two thirds of everything — all of it powered indirectly by one basolateral pump.',
-  chips:['Na⁺ <b>66%</b>','H₂O <b>65%</b>','K⁺ <b>65%</b>','HCO₃⁻ <b>80–90%</b>','Cl⁻ <b>55%</b>','PO₄³⁻ <b>80%</b>','Ca²⁺ <b>65%</b>','Glucose <b>100%</b>','Amino acids <b>100%</b>','Urea <b>50%</b>'],
+  chips:['Na⁺ <b>65–70%</b>','H₂O <b>65%</b>','K⁺ <b>65%</b>','HCO₃⁻ <b>85–90%</b>','Cl⁻ <b>55%</b>','PO₄³⁻ <b>80%</b>','Ca²⁺ <b>65%</b>','Glucose <b>100%</b>','Amino acids <b>100%</b>','Urea <b>50%</b>'],
   osmo:'Fluid entering: 300 mOsm/kg. Fluid leaving: <b>still 300 mOsm/kg</b> — isosmotic. TF/P osmolality = 1.0, but TF/P inulin ≈ 3 (volume fell, concentration did not).',
   panels:[
     {
@@ -456,6 +558,7 @@ SEGMENTS.push({
       apical:[
         T('NHE3','SLC9A3','ex',[F('Na⁺','in'),F('H⁺','out')],{
           note:'Secreted H⁺ is what titrates filtered HCO₃⁻ — this is the engine of bicarbonate reclamation.',
+          dependsOn:{ by:['Carbonic anhydrase II'], why:'cytosolic CA II is what makes the H⁺ this exchanger secretes' },
           mods:[H('Angiotensin II','up','AT₁'),H('Sympathetic (α₁)','up'),H('PTH','down'),H('Dopamine','down')]}),
         T('SGLT2','SLC5A2','co',[F('Na⁺','in'),F('Glucose','in')],{
           note:'Early PCT (S1/S2); high capacity, low affinity — reabsorbs ~90% of filtered glucose.',
@@ -473,24 +576,41 @@ SEGMENTS.push({
           note:'Brush-border enzyme: filtered HCO₃⁻ + secreted H⁺ → H₂CO₃ → CO₂ + H₂O, which diffuse into the cell.',
           mods:[D('Acetazolamide','down')]}),
         T('AQP1','AQP1','ch',[F('H₂O','in')],{
-          note:'Constitutive — not ADH-dependent. Water follows the reabsorbed solute, so the fluid stays isosmotic.'})
+          note:'Constitutive — not ADH-dependent. Water follows the reabsorbed solute, so the fluid stays isosmotic.',
+          mods:[DX('Mannitol','down','osmotic — opposes the gradient, no pore is plugged',{
+            k:'osm', s:'partial',
+            c:'Filtered mannitol is never reabsorbed → it stays in the lumen as a non-reabsorbable osmole → the osmotic gradient AQP1 works down is opposed → water is held in the tubule',
+            r:'Isosmotic proximal reabsorption fails; the trapped water dilutes luminal Na⁺, so NHE3 and paracellular Na⁺ uptake fall with it'})]})
       ],
       baso:[
         T('Na⁺/K⁺-ATPase','ATP1A1','pump',[F('Na⁺','out'),F('K⁺','in')],{
           note:'3 Na⁺ out / 2 K⁺ in. Keeps intracellular Na⁺ ~10–15 mM — the low-Na⁺ cell interior is what every apical carrier spends.',
           mods:[H('Dopamine','down','D₁ → natriuresis'),DB('Digoxin / ouabain','down')]}),
         T('NBCe1','SLC4A4','co',[F('Na⁺','out'),F('HCO₃⁻','out')],{
-          note:'Electrogenic 1 Na⁺ : 3 HCO₃⁻ — the exit door for reclaimed bicarbonate. Mutations cause proximal (type 2) RTA.'}),
+          note:'Electrogenic 1 Na⁺ : 3 HCO₃⁻ — the exit door for reclaimed bicarbonate. Mutations cause proximal (type 2) RTA.',
+          dependsOn:{ by:['Carbonic anhydrase II'], why:'there is nothing to export once CA II stops generating HCO₃⁻' }}),
         T('GLUT2','SLC2A2','ch',[F('Glucose','out')],{
           note:'Facilitated, Na⁺-independent. GLUT1 in S3.'}),
         T('Carbonic anhydrase II','CA II','enz',[],{
           note:'Cytosolic: CO₂ + H₂O → H⁺ + HCO₃⁻. Deficiency causes mixed proximal + distal RTA with osteopetrosis.',
           mods:[DB('Acetazolamide','down')]}),
-        T('AQP1','AQP1','ch',[F('H₂O','out')],{})
+        T('AQP1','AQP1','ch',[F('H₂O','out')],{
+          note:'Water exits to the peritubular capillary. Nothing regulates this step — whatever crosses the brush border leaves here.',
+          mods:[DX('Mannitol','down','osmotic — the driving force is gone, not the channel',{
+            k:'osm', s:'partial',
+            c:'Less water crosses the apical membrane → less reaches basolateral AQP1 → water delivery to the interstitium falls even though the channel is untouched',
+            r:'Water that would have been returned to the vasa recta leaves in the urine instead'})]})
       ],
       para:[
         F('Ca²⁺','in'),F('Mg²⁺','in'),F('K⁺','in'),F('Cl⁻','in'),F('H₂O','in'),F('Urea','in')
       ],
+      paraDriver:{
+        by:['NHE3','Carbonic anhydrase IV','AQP1','Na⁺/K⁺-ATPase','Carbonic anhydrase II'],
+        max:'partial',
+        why:'this route is solvent drag — it only moves while transcellular Na⁺ and water are ' +
+            'being reabsorbed, so slowing that step slows the drag with it. This is why a carbonic ' +
+            'anhydrase inhibitor raises urinary Ca²⁺ without touching any calcium transporter.'
+      },
       paraNote:'Leaky tight junctions (claudin-2). Early PCT: lumen is slightly NEGATIVE (glucose/AA carried in with Na⁺). Late PCT: Cl⁻ has been left behind and concentrated, so it flows down its gradient and the lumen turns POSITIVE, dragging Ca²⁺, Mg²⁺ and K⁺ with it (solvent drag).'
     },
     {
@@ -525,18 +645,20 @@ SEGMENTS.push({
     }
   ],
   pearls:[
-    'The PCT reabsorbs {{c1::66%}} of filtered Na⁺ and water, and does it {{c2::isosmotically}} — fluid leaving the PCT still has a TF/P osmolality of {{c3::1.0}}.',
+    'The PCT reabsorbs {{c1::65–70%}} of filtered Na⁺ and water, and does it {{c2::isosmotically}} — fluid leaving the PCT still has a TF/P osmolality of {{c3::1.0}}.',
     'Every apical carrier in the PCT is powered indirectly by the basolateral {{c1::Na⁺/K⁺-ATPase}} ({{c2::3}} Na⁺ out / {{c3::2}} K⁺ in) — this is {{c4::secondary active transport}}.',
     'Glucose: {{c1::SGLT2}} in S1/S2 takes ~90%, {{c2::SGLT1}} in S3 takes the rest. Glucosuria begins at a plasma glucose of about {{c3::200 mg/dL}} (threshold), and transport saturates at Tₘ ≈ {{c4::375 mg/min}}.',
     '{{c1::PTH}} inhibits {{c2::NaPi-IIa}} → phosphaturia; {{c3::FGF23}} (with Klotho) does the same. PTH also inhibits {{c4::NHE3}}, which is why hyperparathyroidism can produce a proximal (type 2) RTA.',
     '{{c1::Angiotensin II}} stimulates {{c2::NHE3}} → more Na⁺, water AND HCO₃⁻ reabsorbed — the mechanism of {{c3::contraction alkalosis}}.',
-    '{{c1::Acetazolamide}} inhibits carbonic anhydrase → HCO₃⁻ wasting → a {{c2::normal anion gap (hyperchloremic)}} metabolic acidosis, with self-limited diuresis because the distal segments recapture the Na⁺.',
+    '{{c1::Acetazolamide}} inhibits carbonic anhydrase → HCO₃⁻ wasting → a {{c2::mild hyperchloremic}} metabolic acidosis (a normal anion gap). Two separate things to keep apart: it is only a WEAK diuretic because {{c3::the nephron distal to the PCT has a large Na⁺ reabsorptive capacity and recaptures the escaped Na⁺}}, and its effect is SELF-LIMITED because {{c4::plasma HCO₃⁻ falls, so the filtered HCO₃⁻ load — the drug\'s own substrate — falls with it}}.',
     'Fanconi syndrome = global PCT failure → wasting of {{c1::glucose, amino acids, phosphate, bicarbonate and uric acid}}. Causes: {{c2::Wilson disease, cystinosis, multiple myeloma, tenofovir, ifosfamide, expired tetracyclines, lead}}. The phosphate loss causes {{c3::rickets/osteomalacia}}.',
     'Amino-acid transport defects: {{c1::Hartnup disease}} (neutral AAs → tryptophan loss → {{c2::pellagra-like}} rash/ataxia, treat with {{c3::niacin}}) and {{c4::cystinuria}} (COLA — cystine, ornithine, lysine, arginine → hexagonal stones, positive {{c5::cyanide-nitroprusside}} test).',
     'Diuretics do not reach their targets by filtration — they are {{c1::secreted}} into the lumen by proximal {{c2::OAT1/OAT3}}. {{c3::Probenecid}} and accumulated uremic anions compete for that transporter and blunt the response.',
     'The PCT is the ONLY segment that makes ammonia, from {{c1::glutamine}}. Each glutamine yields NH₄⁺ for excretion plus {{c2::new HCO₃⁻}} for the blood. {{c3::Hyperkalemia}} suppresses ammoniagenesis — the mechanism of the acidosis in {{c4::type 4 RTA}}.',
     'Uric acid is reabsorbed by apical {{c1::URAT1}}. Uricosurics that block it: {{c2::probenecid, losartan, high-dose salicylates}}. Agents that RAISE urate: {{c3::low-dose salicylates, thiazides, loop diuretics, volume depletion}}.',
-    'Creatinine is secreted by {{c1::OCT2/MATE}}; {{c2::cimetidine and trimethoprim}} block that step and raise serum creatinine {{c3::without changing GFR}}.'
+    'Creatinine is secreted by {{c1::OCT2/MATE}}; {{c2::cimetidine and trimethoprim}} block that step and raise serum creatinine {{c3::without changing GFR}}.',
+    '{{c1::Osmotic diuretics}} (mannitol) are freely filtered and {{c2::never reabsorbed}}, so they hold water in the {{c3::PCT (major effect) and the thin descending limb}} — and they also impair water reabsorption in the {{c4::collecting tubule}}. They need no OAT secretion to work, because their site of action is the filtrate itself; the other exception to OAT delivery is the {{c5::MR antagonists}}, which diffuse across the basolateral membrane instead.',
+    'Mannitol expands plasma volume {{c1::before}} it causes diuresis — water is pulled out of cells — so it is contraindicated in {{c2::decompensated heart failure}} and in {{c3::anuria}}. Early on it causes {{c4::hyponatremia with an osmolar gap}}; later, because free water is lost faster than Na⁺, it causes {{c5::hypernatremia}}.'
   ]
 });
 
@@ -553,7 +675,11 @@ SEGMENTS.push({
       caption:'Thin, flat, mitochondria-poor cells. Permeable to water (AQP1) and moderately to urea, essentially impermeable to NaCl.',
       apical:[
         T('AQP1','AQP1','ch',[F('H₂O','in')],{
-          note:'Constitutive water channel — NOT ADH-regulated. Water exits down the osmotic gradient created by the hypertonic medullary interstitium.'}),
+          note:'Constitutive water channel — NOT ADH-regulated. Water exits down the osmotic gradient created by the hypertonic medullary interstitium.',
+          mods:[DX('Mannitol','down','osmotic — opposes the medullary gradient',{
+            k:'osm', s:'partial',
+            c:'Mannitol carried down from the PCT holds water in the lumen → the interstitium can no longer pull water out through AQP1 → the fluid reaching the hairpin is not concentrated',
+            r:'The multiplier step fails and fast flow strips NaCl and urea away — the corticomedullary gradient washes out'})]}),
         T('UT-A2','SLC14A2','ch',[F('Urea','in')],{
           note:'Urea moves down its gradient. In the deep inner medulla the interstitial urea is high, so urea actually enters the lumen here — the recycling loop.'})
       ],
@@ -572,7 +698,8 @@ SEGMENTS.push({
     'The descending limb reabsorbs about {{c1::15%}} of filtered water and is called the {{c2::concentrating}} segment.',
     'Only {{c1::juxtamedullary}} nephrons (~15%) have long loops that reach the inner medulla — they are the ones that build the deep osmotic gradient.',
     'The countercurrent MULTIPLIER is the {{c1::loop of Henle}}; the countercurrent EXCHANGER is the {{c2::vasa recta}}, which removes the reabsorbed water without washing out the gradient.',
-    'This segment has almost no {{c1::mitochondria}} — a structural clue that it performs {{c2::no active transport}}.'
+    'This segment has almost no {{c1::mitochondria}} — a structural clue that it performs {{c2::no active transport}}.',
+    'Because this limb concentrates the fluid purely osmotically, a {{c1::non-reabsorbable solute}} in the lumen — mannitol, or {{c2::glucose in uncontrolled diabetes}} — stops water leaving and {{c3::washes out}} the medullary gradient. That is the mechanism of {{c4::osmotic diuresis}}.'
   ]
 });
 
@@ -600,6 +727,12 @@ SEGMENTS.push({
           note:'NaCl enters the interstitium and helps maintain medullary hypertonicity — the "passive model" of the countercurrent multiplier.'})
       ],
       para:[F('Na⁺','in')],
+      paraDriver:{
+        by:['ClC-K1'],
+        max:'partial',
+        why:'Na⁺ here is only following the Cl⁻ that left through ClC-K1, so the paracellular ' +
+            'flux is entirely parasitic on that channel.'
+      },
       paraNote:'Na⁺ follows Cl⁻ paracellularly. Because water cannot follow, every ion that leaves makes the luminal fluid more dilute and the interstitium more concentrated.'
     }
   ],
@@ -628,6 +761,7 @@ SEGMENTS.push({
           mods:[H('ADH (V₂)','up'),D('Loop diuretics','down','furosemide, bumetanide'),H('CaSR (high Ca²⁺)','down'),H('Prostaglandin E₂','down')]}),
         T('ROMK','KCNJ1','ch',[F('K⁺','out')],{
           note:'Recycles K⁺ back into the lumen. This is what creates the LUMEN-POSITIVE transepithelial potential (~+8 mV) — the driving force for paracellular Ca²⁺ and Mg²⁺.',
+          dependsOn:{ by:['NKCC2'], why:'the only K⁺ ROMK can recycle is the K⁺ NKCC2 just carried in' },
           mods:[H('CaSR (high Ca²⁺)','down')]}),
         T('NHE3','SLC9A3','ex',[F('Na⁺','in'),F('H⁺','out')],{
           note:'Reclaims the ~10–15% of filtered HCO₃⁻ that escaped the PCT.'})
@@ -644,6 +778,16 @@ SEGMENTS.push({
           mods:[H('Hypercalcemia','up','→ ↓ NKCC2'),DB('Cinacalcet','up')]})
       ],
       para:[F('Ca²⁺','in'),F('Mg²⁺','in'),F('Na⁺','in'),F('K⁺','in')],
+      paraDriver:{
+        by:['NKCC2','ROMK'],
+        /* activating the sensor shuts those two down, so its effect on the lane is flipped */
+        inverse:['Calcium-sensing receptor'],
+        max:'full',
+        why:'these two build the lumen-positive voltage, and that voltage is the ONLY driving force ' +
+            'this route has — NKCC2 brings K⁺ in, ROMK sends it back out, and the K⁺ ' +
+            'back-diffusion makes the lumen positive. Eliminate the potential and Ca²⁺ and ' +
+            'Mg²⁺ simply stop being reabsorbed here.'
+      },
       paraNote:'Driven by the LUMEN-POSITIVE voltage through claudin-16/19 (paracellin-1). No carrier, no hormone — pure electrostatics. Abolish the voltage (loop diuretic, Bartter, CaSR activation) and Ca²⁺ and Mg²⁺ are lost in the urine.'
     }
   ],
@@ -665,7 +809,7 @@ SEGMENTS.push({
   id:'dct', tab:'DCT', name:'Distal convoluted tubule',
   where:'Cortex',
   headline:'Small volume, high leverage. This is where calcium reabsorption becomes hormonally regulated — and where thiazides act.',
-  chips:['Na⁺ <b>5%</b>','Cl⁻ <b>5%</b>','Ca²⁺ <b>8%</b> (PTH)','Mg²⁺ <b>5–10%</b>','H₂O <b>impermeable</b>'],
+  chips:['Na⁺ <b>5–10%</b>','Cl⁻ <b>5–10%</b>','Ca²⁺ <b>8%</b> (PTH)','Mg²⁺ <b>5–10%</b>','H₂O <b>impermeable</b>'],
   osmo:'Fluid entering: ~100 mOsm/kg. Fluid leaving: <b>even more dilute (~50–100)</b> — the "cortical diluting segment".',
   panels:[
     {
@@ -697,14 +841,14 @@ SEGMENTS.push({
     }
   ],
   pearls:[
-    'The early DCT reabsorbs ~{{c1::5%}} of filtered Na⁺ through {{c2::NCC}} and is {{c3::impermeable to water}} — the {{c4::cortical diluting}} segment.',
+    'The early DCT reabsorbs ~{{c1::5–10%}} of filtered Na⁺ through {{c2::NCC}} and is {{c3::impermeable to water}} — the {{c4::cortical diluting}} segment.',
     '{{c1::Thiazides}} block NCC → {{c2::hypocalciuria}}: less intracellular Na⁺ makes basolateral {{c3::NCX}} run faster, pulling more Ca²⁺ out of the lumen. Clinically useful in {{c4::calcium oxalate stones and osteoporosis}}.',
     '{{c1::PTH}} increases DCT calcium reabsorption via apical {{c2::TRPV5}} + calbindin + basolateral {{c3::NCX1/PMCA}}. This is the only hormonally regulated calcium step in the nephron.',
     '{{c1::Gitelman syndrome}} = loss of {{c2::NCC}} → a "chronic thiazide" picture: hypokalemic metabolic alkalosis with {{c3::hypocalciuria}} and {{c4::hypomagnesemia}}. Contrast Bartter, which has {{c5::hypercalciuria}}.',
     '{{c1::Gordon syndrome (pseudohypoaldosteronism type II)}} = {{c2::WNK}} kinase mutations → overactive NCC → {{c3::hypertension, hyperkalemia, non-anion-gap metabolic acidosis}}; the treatment is {{c4::a thiazide}}.',
     'Mg²⁺ enters through {{c1::TRPM6}} — the last chance to recover it. Chronic {{c2::thiazides, PPIs, cisplatin and anti-EGFR antibodies}} cause hypomagnesemia here.',
-    'Thiazides cause {{c1::hyperGLUC}}: hyper‑{{c2::Glycemia}}, hyper‑{{c3::Lipidemia}}, hyper‑{{c4::Uricemia}}, hyper‑{{c5::Calcemia}} — plus hypokalemia, hyponatremia and metabolic alkalosis.',
-    'A thiazide will not work if GFR is very low, because the drug must be {{c1::secreted}} into the lumen by proximal {{c2::OAT}} transporters to reach NCC.'
+    'Thiazides cause {{c1::hyperGLUC}}: hyper‑{{c2::Glycemia}}, hyper‑{{c3::Lipidemia}}, hyper‑{{c4::Uricemia}}, hyper‑{{c5::Calcemia}} ({{c6::uncommon}} — PTH holds serum Ca²⁺) — plus hypokalemia, {{c7::hyponatremia}} (the important one) and metabolic alkalosis.',
+    'Thiazides act from the LUMEN and reach it by {{c1::filtration of free drug PLUS proximal OAT secretion}} — so {{c2::probenecid and NSAIDs}}, which block OAT, blunt them. They lose efficacy when GFR is very low; the exception the lecture names is {{c3::metolazone}}, which still works at reduced GFR and has powerful synergy with a loop.'
   ]
 });
 
@@ -758,16 +902,19 @@ SEGMENTS.push({
       apical:[
         T('H⁺-ATPase','ATP6V1B1','pump',[F('H⁺','out')],{
           note:'Primary active proton pump — can drive urine pH down to ~4.5. Failure here is type 1 (distal) RTA.',
+          dependsOn:{ by:['Carbonic anhydrase II'], why:'the H⁺ it pumps is made by cytosolic CA II' },
           mods:[H('Aldosterone','up'),H('Acidosis','up')]}),
         T('H⁺/K⁺-ATPase','ATP4A','pump',[F('H⁺','out'),F('K⁺','in')],{
           note:'Secretes acid AND salvages K⁺. In hypokalemia this pump runs hard → paradoxical aciduria alongside a metabolic alkalosis.',
+          dependsOn:{ by:['Carbonic anhydrase II'], why:'it draws on the same CA II-generated H⁺ pool' },
           mods:[H('Hypokalemia','up'),H('Aldosterone','up')]}),
         T('Buffers: HPO₄²⁻ & NH₃','—','enz',[F('NH₃','out')],{
           note:'Free H⁺ in urine is trivial. It must be trapped: HPO₄²⁻ → H₂PO₄⁻ (titratable acid) and NH₃ → NH₄⁺ (ammonium, the adjustable buffer, made in the PCT).'})
       ],
       baso:[
         T('AE1 / band 3','SLC4A1','ex',[F('HCO₃⁻','out'),F('Cl⁻','in')],{
-          note:'Delivers the NEW bicarbonate to blood. The same gene makes the red-cell anion exchanger, so some mutations give both distal RTA and hereditary spherocytosis/ovalocytosis.'}),
+          note:'Delivers the NEW bicarbonate to blood. The same gene makes the red-cell anion exchanger, so some mutations give both distal RTA and hereditary spherocytosis/ovalocytosis.',
+          dependsOn:{ by:['Carbonic anhydrase II'], why:'no new HCO₃⁻ is generated for it to export once CA II is blocked' }}),
         T('Carbonic anhydrase II','CA II','enz',[],{
           note:'CO₂ + H₂O → H⁺ + HCO₃⁻. Every H⁺ secreted apically generates one HCO₃⁻ for the blood.',
           mods:[DB('Acetazolamide','down')]})
@@ -793,12 +940,12 @@ SEGMENTS.push({
     }
   ],
   pearls:[
-    'Principal cells reabsorb the final ~{{c1::3%}} of Na⁺ through {{c2::ENaC}} and secrete K⁺ through {{c3::ROMK}} and the flow-activated {{c4::BK}} channel.',
+    'Principal cells reabsorb the final ~{{c1::3%}} of Na⁺ through {{c2::ENaC}} — Lecture #31 quotes the range as {{c5::2–5%}}, which is why these are the {{c6::weak}} diuretics — and secrete K⁺ through {{c3::ROMK}} and the flow-activated {{c4::BK}} channel.',
     'ENaC is {{c1::electrogenic}}: Na⁺ enters without an anion, leaving the lumen {{c2::negative}} — and that voltage is the driving force for both {{c3::K⁺}} and {{c4::H⁺}} secretion. This is why Na⁺ reabsorption and K⁺ loss are coupled.',
     '{{c1::Aldosterone}} binds the cytosolic {{c2::mineralocorticoid receptor}} → {{c3::SGK1}} → more ENaC in the membrane plus more {{c4::Na⁺/K⁺-ATPase}} → Na⁺ retained, K⁺ and H⁺ lost.',
     'K⁺ secretion increases with: {{c1::high distal Na⁺ delivery and flow}}, {{c2::aldosterone}}, {{c3::alkalosis}}, high dietary K⁺, and {{c4::non-reabsorbable anions}} (HCO₃⁻, ketoacids, penicillins).',
     '{{c1::Amiloride and triamterene}} block ENaC directly; {{c2::spironolactone and eplerenone}} block the mineralocorticoid receptor. Both classes are {{c3::K⁺-sparing}} and cause a {{c4::normal anion gap acidosis (type 4 RTA)}}.',
-    '{{c1::Liddle syndrome}} = gain-of-function {{c2::ENaC}} → hypertension, hypokalemia, metabolic alkalosis with {{c3::LOW renin and LOW aldosterone}}. Treat with {{c4::amiloride}}; spironolactone will not work because the receptor is not the problem.',
+    '{{c1::Liddle syndrome}} = gain-of-function {{c2::ENaC}} → hypertension, hypokalemia, metabolic alkalosis with {{c3::LOW renin and LOW aldosterone}}. Treat with {{c4::an ENaC inhibitor (amiloride) plus sodium restriction}} — that pair controls the hypertension and the hypokalemia; spironolactone will not work because the receptor is not the problem.',
     '{{c1::11β-hydroxysteroid dehydrogenase type 2}} converts cortisol → cortisone to protect the MR. Inhibit it with {{c2::licorice (glycyrrhetinic acid)}} or lose it congenitally ({{c3::apparent mineralocorticoid excess}}) and cortisol activates the MR → a hyperaldosteronism picture with {{c4::low aldosterone}}.',
     'ADH binds {{c1::V₂}} receptors → Gs → {{c2::cAMP → PKA}} → insertion of {{c3::AQP2}} into the apical membrane. Water then exits basolaterally through {{c4::AQP3/AQP4}}, which are always present.',
     '{{c1::Lithium}} and {{c2::demeclocycline}} impair the V₂/AQP2 pathway → nephrogenic DI. {{c3::Tolvaptan/conivaptan}} block V₂ on purpose to treat {{c4::SIADH}}. {{c5::Hypercalcemia and hypokalemia}} also downregulate AQP2.',
@@ -845,7 +992,7 @@ var FX = {
   26: {c:'CaSR → Gq/PLC → PIP₂ hydrolysis, ↑20-HETE → ROMK closes → K⁺ recycling into lumen stops → lumen-positive voltage collapses', r:'Paracellular Ca²⁺ and Mg²⁺ reabsorption falls, driving calciuria that corrects the high Ca²⁺', s:'partial'},
   27: {c:'CaSR bound by ↑serum Ca²⁺ → Gi/Gq → ↓cAMP, ↑20-HETE → NKCC2/ROMK partly inhibited → lumen-positive voltage falls → paracellular Ca²⁺/Mg²⁺ flux falls', r:'Renal Ca²⁺ wasting plus an ADH-resistant concentrating defect; polyuria of hypercalcemia', s:'full'},
   28: {c:'CaSR sensitized to ambient Ca²⁺ (calcimimetic) → ↓cAMP, ↑20-HETE → NKCC2/ROMK inhibited → lumen-positive voltage drops → Ca²⁺ reabsorption falls', r:'Main effect is ↓PTH from parathyroid CaSR; serum Ca²⁺ falls, treating secondary hyperparathyroidism', s:'partial'},
-  29: {c:'NCC blocked → no apical Na⁺/Cl⁻ entry into DCT cell → luminal Na⁺ and Cl⁻ stay in the tubule → more Na⁺ delivered to the collecting duct', r:'About 5–7% of filtered Na⁺ lost; mild diuresis with hypokalemia and hyponatremia', s:'full'},
+  29: {c:'NCC blocked → no apical Na⁺/Cl⁻ entry into DCT cell → luminal Na⁺ and Cl⁻ stay in the tubule → more Na⁺ delivered to the collecting duct', r:'About 5–10% of filtered Na⁺ lost; moderate natriuresis with hypokalemia and hyponatremia', s:'full'},
   30: {c:'Aldosterone → MR → SGK1 phosphorylates Nedd4-2 → less NCC ubiquitination and degradation → more apical phospho-NCC → ↑Na⁺/Cl⁻ reabsorption', r:'Na⁺ retention and volume expansion; ↓distal Na⁺ delivery, so this arm alone spares K⁺', s:'partial'},
   31: {c:'Ang II → AT1R → WNK4–SPAK/OSR1 cascade phosphorylates NCC → more active NCC in apical membrane → ↑Na⁺ and Cl⁻ reabsorption', r:'Salt conservation in volume depletion; aldosterone paradox — Na⁺ retained without K⁺ wasting', s:'partial'},
   32: {c:'PTH → basolateral PTH1R → cAMP/PKA phosphorylates TRPV5 → ↑open probability and apical insertion → ↑Ca²⁺ entry into DCT cell', r:'Active Ca²⁺ reabsorption rises; hypocalciuria and defense of serum Ca²⁺', s:'partial'},
@@ -873,7 +1020,7 @@ var FX = {
   54: {c:'V₂ → cAMP → PKA phosphorylates UT-A1/A3 in the inner medullary collecting duct → urea moves out into the interstitium', r:'Deepens the medullary osmotic gradient; concentrating urine needs urea, hence dietary protein', s:'partial'},
   55: {c:'Aldosterone → SGK1 → more Na⁺/K⁺-ATPase pumps → Na⁺ extruded to blood and the cell loaded with K⁺ → apical Na⁺ entry and K⁺ exit both sustained', r:'Supplies the gradient for ENaC and the K⁺ for ROMK — the engine behind aldosterone\'s whole effect', s:'partial'},
   56: {c:'Aldosterone crosses the membrane → binds the cytosolic MR → the complex enters the nucleus → transcribes SGK1, ENaC and Na⁺/K⁺-ATPase', r:'A genomic effect, so onset takes hours; net Na⁺ retention with K⁺ and H⁺ loss', s:'partial'},
-  57: {c:'Competitive MR antagonist → SGK1, ENaC and Na⁺/K⁺-ATPase are not transcribed → apical Na⁺ entry and K⁺ secretion both fall', r:'K⁺-sparing; spironolactone also hits androgen receptors → gynecomastia, eplerenone does not', s:'full'},
+  57: {c:'Competitive MR antagonist → SGK1, ENaC and Na⁺/K⁺-ATPase are not transcribed → apical Na⁺ entry and K⁺ secretion both fall', r:'K⁺ AND H⁺ retained → mild metabolic acidosis; the effect scales with the prevailing aldosterone level (large in hyperaldosterone states, small when aldosterone is low) — that dependence is what separates an MRA from an ENaC blocker; spironolactone also hits androgen receptors → gynecomastia, eplerenone does not', s:'full'},
   58: {c:'11β-HSD2 normally converts cortisol to inactive cortisone; blocked, cortisol accumulates and occupies the MR at its far higher concentration', r:'Apparent mineralocorticoid excess: hypertension, hypokalemia, alkalosis, LOW renin and aldosterone', s:'partial'},
   59: {c:'ADH binds the basolateral V₂ receptor → Gs → adenylyl cyclase → cAMP → PKA: one switch for both AQP2 insertion and UT-A1 urea transport', r:'Loss-of-function mutations cause X-linked hereditary nephrogenic diabetes insipidus', s:'partial'},
   60: {c:'Aldosterone ↑ apical H⁺-ATPase, and ENaC-driven lumen-negativity in neighbouring principal cells makes H⁺ secretion electrically easier', r:'A direct contributor to the metabolic alkalosis of hyperaldosteronism', s:'partial'},
@@ -884,13 +1031,1565 @@ var FX = {
   65: {c:'Alkalosis ↑ apical pendrin → HCO₃⁻ secreted into the lumen in exchange for Cl⁻ reabsorbed, while the basolateral H⁺-ATPase returns H⁺ to blood', r:'Bicarbonate is excreted and the alkalosis corrects; the urine turns alkaline', s:'partial'},
   66: {c:'Angiotensin II ↑ apical pendrin → more Cl⁻ reabsorbed as HCO₃⁻ is secreted → NaCl retention by a route independent of NCC and ENaC', r:'A thiazide-resistant path for Cl⁻ and volume retention in angiotensin-driven hypertension', s:'partial'},
 };
+/* ---- diuretic classes: the downstream story each drug sets off ----------
+   Authored per class and adversarially re-verified. Keyed by the class id
+   that DRUG_CLASS_OF maps a modulator name onto. */
+var DRUG_ORDER = ["ca", "osm", "loop", "thz", "ksp"];
+var DRUGS = {
+ "ca": {
+  "id": "ca",
+  "name": "Carbonic anhydrase inhibitors (CAIs)",
+  "examples": "Acetazolamide (the drug Dr. Goldstein asks you to know by name), Methazolamide; Dorzolamide, Brinzolamide (eye drops)",
+  "segId": "pct",
+  "targetName": "Carbonic anhydrase - both the membrane-bound (luminal brush border) and the cytosolic enzyme; proximal tubule is the primary site, collecting duct the secondary site",
+  "targetSide": "both",
+  "mech": "Potent, reversible block of the catalytic site of carbonic anhydrase - membrane-bound and cytosolic - so the CO₂ + H₂O to H₂CO₃ to H⁺ + HCO₃⁻ reaction stalls, no intracellular H⁺ is generated for NHE3 to pump into the lumen, and filtered HCO₃⁻ can no longer be reabsorbed along with Na⁺.",
+  "delivery": "Class rule from the lecture: diuretics are highly plasma protein bound (mainly albumin), so they are NOT filtered - the organic acid secretory system (OAT) in the proximal tubule secretes them from blood into the tubular fluid, and the site of action is on the luminal side of the renal epithelial cell (only MR antagonists are the exception, diffusing across the basolateral membrane). CAIs are excreted in urine as active drug, which the lecture calls sensible since the target sits inside the nephron. What blunts delivery: OAT inhibitors - probenecid is the one the lecture names - compete for proximal tubular secretion and lower drug concentration in the nephron; NSAIDs both inhibit OATs and block PGE2/PGI2-mediated afferent dilation, so the afferent constricts and renal blood flow, GFR and drug delivery all fall. Dorzolamide and brinzolamide bypass the nephron entirely as eye drops acting on the ciliary body.",
+  "potency": "Weak / low-efficacy diuretic - the lecture groups CAIs with the osmotics as \"clinically important but with few therapeutic uses\" - and makes the paradox the teaching point: the block sits on the proximal tubule, where 65-70% of filtered Na⁺ and 85-90% of filtered HCO₃⁻ are normally reabsorbed, yet the segments distal to it (TAL, DCT, principal cells) have a large Na⁺ reabsorptive capacity and recapture nearly all of the escaped load, so only a small percentage of filtered Na⁺ reaches the urine. The lecture's urinary electrolyte table scores CAI NaCl at \"+\" against \"++++\" for loops, with HCO₃⁻ at \"+++\". The ceiling drops further with continued dosing because the natriuresis is self-limited within 2-4 days as filtered HCO₃⁻, the drug's own substrate, is depleted. The lecture gives no numeric % ceiling for this class.",
+  "lumenFx": "HCO₃⁻ and Na⁺ stranded in lumen; alkaline urine, high flow onward",
+  "interFx": "Serum HCO₃⁻ falls, Cl⁻ rises, K⁺ mildly falls: mild acidosis",
+  "moa": {
+   "bind": "Potent, reversible occupation of the catalytic site of the enzyme itself - not of a transporter. Both forms are hit: the membrane-bound CA on the luminal brush border and the cytosolic CA inside the proximal tubule cell. The lecturer stresses that carbonic anhydrase is also important in the distal tubule, so the drug blocks the collecting duct enzyme too (the secondary site), plus CA in the ciliary body of the eye and CA widely expressed in the brain - which is where the glaucoma benefit and the CNS side effects come from.",
+   "consequence": "CA reversibly catalyzes the forward and reverse reaction CO₂ + H₂O to H₂CO₃ to H⁺ + HCO₃⁻. With the catalytic site blocked, luminal H⁺ can no longer combine with filtered HCO₃⁻ to be carried across as CO₂ and water, and cytosolic CA can no longer regenerate H⁺ from CO₂. NHE3 is an obligate exchanger: it requires both the Na⁺ gradient built by the basolateral Na⁺/K⁺-ATPase AND intracellular H⁺ to operate. With no H⁺ to pump into the lumen, NHE3 stalls, so Na⁺ reabsorption falls right alongside the abolished HCO₃⁻ reabsorption, and both leave in the tubular fluid with water. At the secondary distal site the same block stops acid secretion, generation of new HCO₃⁻, and production of NH₄⁺.",
+   "pk": "Class PK the lecture emphasizes: highly protein bound so not filtered, delivered by OAT secretion into the proximal tubular fluid, acts on the luminal side, excreted in urine as active drug; acetazolamide and methazolamide are the systemic agents, dorzolamide and brinzolamide the eye drops. The number that changes management here is pharmacodynamic, not pharmacokinetic: after 2-4 days of continuous therapy a given dose is no longer as effective, because falling plasma HCO₃⁻ shrinks the filtered HCO₃⁻ load the drug depends on, and ECF contraction plus acidosis drive RAAS/aldosterone/ADH to upregulate ENaC and insert AQP2. Critically, the acid-base effect does NOT fade on the same schedule - which is why the drug keeps working for mountain sickness and glaucoma. The CAIs are the one class for which the lecture prints no onset/duration/t½ table - every other class gets one (loops L30, thiazides, ENaC inhibitors, MR antagonists and mannitol all in L31).",
+   "why": "Take the catalytic site of carbonic anhydrase out of play and the proximal tubule cannot reclaim filtered HCO₃⁻ (nor the distal nephron regenerate it), so the class alkalinizes the URINE while acidifying the BLOOD - a weak, self-limiting diuretic whose real clinical value is the acid-base shift it produces."
+  },
+  "cascade": [
+   {
+    "zone": "cell",
+    "text": "Acetazolamide blocks the catalytic site of both membrane-bound and cytosolic CA → CO₂ + H₂O to H₂CO₃ stalls → no intracellular H⁺ made"
+   },
+   {
+    "zone": "lumen",
+    "text": "No luminal H⁺ to combine with filtered HCO₃⁻ → the 85-90% normally reclaimed in the proximal tubule stays in the lumen and is excreted"
+   },
+   {
+    "zone": "cell",
+    "text": "NHE3 is an obligate exchanger needing the Na⁺ gradient AND intracellular H⁺ → with no H⁺ to trade, proximal Na⁺ reabsorption falls"
+   },
+   {
+    "zone": "segment",
+    "text": "Proximal tubule normally reclaims 65-70% of filtered Na⁺; that Na⁺ now stays luminal with HCO₃⁻ and water → a large load flows downstream"
+   },
+   {
+    "zone": "segment",
+    "text": "Extra solute reaching the TAL / macula densa strongly activates TGF → afferent vasoconstriction → GFR falls (TGF adapts with sustained use)"
+   },
+   {
+    "zone": "distal",
+    "text": "TAL, DCT and principal cells have a large Na⁺ reabsorptive capacity and recapture most of the escaped load → only mild natriuresis and diuresis"
+   },
+   {
+    "zone": "distal",
+    "text": "Na⁺ reaching the principal cells is reabsorbed via aldosterone-driven ENaC → lumen more negative → K⁺ exits via ROMK → mild K⁺ wasting"
+   },
+   {
+    "zone": "distal",
+    "text": "Secondary CA block in the distal nephron stops H⁺ secretion, generation of new HCO₃⁻ and NH₄⁺ production → acid buffering is not restored"
+   },
+   {
+    "zone": "body",
+    "text": "Plasma HCO₃⁻ falls while Cl⁻ is reabsorbed to hold electroneutrality → mild hyperchloremic metabolic acidosis with mild hypokalemia"
+   },
+   {
+    "zone": "body",
+    "text": "Lower plasma HCO₃⁻ → lower filtered HCO₃⁻, plus ECF contraction and acidosis drive RAAS/ADH → ENaC and AQP2 up → efficacy fades in 2-4 days"
+   },
+   {
+    "zone": "body",
+    "text": "The acidosis is NOT self-limited → stimulates chemoreceptors and the respiratory center → sustained hyperventilation, improved PaO2"
+   }
+  ],
+  "serum": [
+   {
+    "k": "Serum HCO₃⁻",
+    "d": "down",
+    "why": "Massive HCO₃⁻ loss in the urine: the proximal tubule cannot reclaim it and the distal nephron cannot generate new HCO₃⁻"
+   },
+   {
+    "k": "Arterial pH",
+    "d": "down",
+    "why": "Losing HCO₃⁻, a key blood buffer, depletes buffering capacity → mild metabolic acidosis; the one class that acidifies the blood"
+   },
+   {
+    "k": "Serum Cl⁻",
+    "d": "up",
+    "why": "With HCO₃⁻ unreabsorbed and H⁺ secretion blocked, Cl⁻ is reabsorbed to hold electroneutrality → hyperchloremic metabolic acidosis"
+   },
+   {
+    "k": "Serum K⁺",
+    "d": "down",
+    "why": "Na⁺ delivered distally is taken up by aldosterone-driven ENaC → lumen more negative → K⁺ secretion via ROMK → mild hypokalemia"
+   },
+   {
+    "k": "Serum Mg²⁺",
+    "d": "none",
+    "why": "CAIs have little to no effect on Mg²⁺ excretion - unlike loops, where Mg²⁺ loss may be clinically significant"
+   },
+   {
+    "k": "Serum NH₃ (ammonia)",
+    "d": "var",
+    "why": "Reduced NH₄⁺ production, a main form of acid excretion → may contribute to hyperammonemia in cirrhosis or severe hepatic disease"
+   }
+  ],
+  "urine": [
+   {
+    "k": "Urine HCO₃⁻",
+    "d": "up",
+    "why": "CA is essential for reabsorbing 80-90% of filtered HCO₃⁻ and that route is closed → massive bicarbonaturia; scored +++"
+   },
+   {
+    "k": "Urine pH",
+    "d": "up",
+    "why": "All that excreted HCO₃⁻ alkalinizes the urine - alkaline urine while the blood is acidemic"
+   },
+   {
+    "k": "Urine Na⁺ (NaCl)",
+    "d": "up",
+    "why": "Na⁺ that could not ride NHE3 stays luminal, but distal recapture leaves only a mild rise - scored + against ++++ for loops"
+   },
+   {
+    "k": "Urine K⁺",
+    "d": "up",
+    "why": "Aldosterone-driven ENaC uptake of the delivered Na⁺ makes the lumen more negative → K⁺ moves into the lumen via ROMK"
+   },
+   {
+    "k": "Urine Ca²⁺",
+    "d": "up",
+    "why": "Ca²⁺ crosses the proximal tubule paracellularly, between the epithelial cells; that route is blocked → urinary Ca²⁺ rises"
+   },
+   {
+    "k": "Urine NH₄⁺",
+    "d": "down",
+    "why": "The distal CA block stops acid secretion, so less NH₄⁺ is produced - a main form of acid excretion is lost"
+   }
+  ],
+  "uses": [
+   {
+    "n": "Acute mountain sickness (acute altitude sickness) - prevention and treatment",
+    "why": "Rapid ascent → hypoxia sensed by peripheral chemoreceptors → hyperventilation → CO₂ exhalation → hypocapnia → respiratory alkalosis, which blunts the peripheral chemoreceptors and inhibits the respiratory center. Acetazolamide's mild metabolic acidosis overrides that brake → increased minute ventilation → sustained hyperventilation and improved oxygenation (PaO2) → high altitude symptoms diminish. Not self-limited, because HCO₃⁻ reabsorption keeps being prevented and blood buffering capacity stays depleted"
+   },
+   {
+    "n": "Open-angle glaucoma",
+    "why": "Reducing bicarbonate formation in the ciliary body reduces aqueous humor secretion → lower intraocular pressure → prevention of optic nerve damage. Also not self-limited, because it does not rely on filtered HCO₃⁻ at all"
+   },
+   {
+    "n": "Metabolic alkalosis - rapid correction, especially loop diuretic-induced",
+    "why": "Induced metabolic acidosis plus forced bicarbonaturia get at the cause of an alkalosis generated by volume contraction, increased bicarbonate reabsorption and aldosterone-stimulated H⁺ secretion"
+   },
+   {
+    "n": "Edema - low efficacy, essentially not used for this",
+    "why": "The natriuresis is weak because distal segments recapture the escaped Na⁺, and long-term treatment is complicated by metabolic acidosis - the lecture lists it only to explain why loops, not CAIs, are the edema drugs"
+   }
+  ],
+  "adverse": [
+   {
+    "n": "Mild hyperchloremic metabolic acidosis",
+    "why": "CA inhibition abolishes proximal HCO₃⁻ reabsorption and the distal block prevents generation of new HCO₃⁻, so plasma HCO₃⁻ and arterial pH fall; Cl⁻ is reabsorbed to preserve electroneutrality, making it hyperchloremic. Mild, but the lecturer insists it is still acidosis - and it is the same effect used to therapeutic advantage at altitude",
+    "sev": "common"
+   },
+   {
+    "n": "Potassium wasting → mild hypokalemia",
+    "why": "Increased Na⁺ delivery to the collecting duct plus aldosterone-driven ENaC reabsorption makes the lumen more negative, so K⁺ moves into the lumen via ROMK down its electrical gradient; the magnitude is commensurate with how much Na⁺ is reabsorbed distally, so the effect stays mild",
+    "sev": "common"
+   },
+   {
+    "n": "Common CNS effects: paresthesia, somnolence, dizziness, ataxia, headache",
+    "why": "CA is widely expressed in the brain and the drug crosses the blood-brain barrier, so CAIs dampen neuronal signaling. Not really harmful but very annoying and concerning to patients - her vignette is perioral and fingertip pins-and-needles two days into altitude prophylaxis",
+    "sev": "common"
+   },
+   {
+    "n": "Self-limited diuretic effect - reduced efficacy at a given dose within 2-4 days",
+    "why": "Plasma HCO₃⁻ falls → filtered HCO₃⁻ load falls → less substrate for the drug → proximal Na⁺ reabsorption resumes and Na⁺ excretion drops; simultaneously ECF contraction plus metabolic acidosis stimulate aldosterone and ADH → ENaC upregulation and AQP2 insertion restore Na⁺ and water reabsorption. The acid-base effect does not fade with it",
+    "sev": "common"
+   },
+   {
+    "n": "Kidney stones (calcium phosphate)",
+    "why": "Bicarbonaturia makes the urine alkaline while blocked paracellular proximal Ca²⁺ transport raises urinary Ca²⁺ - calcium in alkaline urine favors precipitation of calcium phosphate crystals, especially in patients already at risk for stones. Singled out on the CAI key-points slide as an adverse effect students should know",
+    "sev": "serious"
+   },
+   {
+    "n": "Hyperammonemia in cirrhosis or severe hepatic disease (contraindication)",
+    "why": "CAIs reduce production of NH₄⁺, a main form of acid excretion, so ammonia is not disposed of in the urine; in a liver that already cannot metabolize ammonia it accumulates. This is why cirrhosis and other severe hepatic disease are contraindications",
+    "sev": "serious"
+   },
+   {
+    "n": "Worsening of pre-existing acidosis; contraindicated in acidosis and severe renal disease",
+    "why": "The drug's therapeutic mechanism IS bicarbonate depletion, so giving it to an already acidemic patient strips what buffer remains; severe renal disease is likewise listed as a contraindication",
+    "sev": "serious"
+   },
+   {
+    "n": "Fall in GFR early in therapy",
+    "why": "The extra solute delivered out of the proximal tubule reaches the TAL and macula densa and strongly activates tubuloglomerular feedback → afferent arteriolar vasoconstriction → GFR falls. Sustained CAI use leads to TGF adaptation that blunts the effect",
+    "sev": "niche"
+   },
+   {
+    "n": "Hypersensitivity to the drug or any component of the formulation",
+    "why": "A true immune reaction to the agent, independent of enzyme inhibition - and the lecturer notes this is always true whether or not it is on the list. Her update: CAIs carry a sulfonamide moiety, but cross-reactivity risk in people with a history of sulfonamide allergy is clinically insignificant, because these diuretics lack the N4 aromatic amine that drives the immune-mediated reaction to sulfonamide antibiotics",
+    "sev": "niche"
+   }
+  ],
+  "correlates": [
+   {
+    "n": "Acute mountain sickness / acute altitude sickness",
+    "kind": "treats",
+    "why": "Induced mild metabolic acidosis overrides the hypocapnic respiratory alkalosis that blunts chemoreceptors → minute ventilation and PaO2 rise"
+   },
+   {
+    "n": "Open-angle glaucoma",
+    "kind": "treats",
+    "why": "Ciliary body CA supplies the bicarbonate that drives aqueous humor secretion → block it and aqueous production, then intraocular pressure, fall"
+   },
+   {
+    "n": "Loop diuretic-induced hypokalemic metabolic alkalosis",
+    "kind": "treats",
+    "why": "Forced bicarbonaturia plus induced acidosis correct an alkalosis caused by volume contraction, increased HCO₃⁻ reabsorption and aldosterone-driven H⁺ secretion"
+   },
+   {
+    "n": "Calcium phosphate kidney stones",
+    "kind": "causes",
+    "why": "Alkaline urine from bicarbonaturia plus increased urinary Ca²⁺ from blocked paracellular proximal Ca²⁺ transport → calcium phosphate crystals precipitate"
+   },
+   {
+    "n": "Hyperammonemia in cirrhosis or severe hepatic disease",
+    "kind": "unmasks",
+    "why": "Reduced NH₄⁺ production removes a main route of acid and ammonia excretion; a liver that cannot metabolize ammonia is tipped into hyperammonemia"
+   },
+   {
+    "n": "NSAID co-therapy (ibuprofen, naproxen)",
+    "kind": "interacts",
+    "why": "NSAIDs block PGE2/PGI2-mediated afferent dilation → lower RBF and GFR; they also inhibit OATs and cause Na⁺ and water retention → blunted response"
+   },
+   {
+    "n": "Probenecid and other OAT inhibitors",
+    "kind": "interacts",
+    "why": "Competition for the proximal tubule organic acid secretory system lowers drug concentration reaching the luminal site of action → reduced efficacy"
+   },
+   {
+    "n": "Type II (proximal) renal tubular acidosis / Fanconi syndrome",
+    "kind": "mimics",
+    "why": "An ion defect preventing proximal HCO₃⁻ reabsorption gives the same non-anion-gap acidosis with hypokalemia; Fanconi adds glucosuria and aminoaciduria"
+   }
+  ],
+  "contrast": [
+   "Acid-base is the cleanest discriminator in this lecture pair: CAIs cause mild hyperchloremic metabolic ACIDOSIS with alkaline urine and urinary HCO₃⁻ scored +++, while loop diuretics cause hypokalemic metabolic ALKALOSIS with urinary HCO₃⁻ scored 0 - which is exactly why acetazolamide is the rapid correction for loop diuretic-induced metabolic alkalosis",
+   "Efficacy paradox: loops block the ~25% of filtered Na⁺ handled by NKCC2 in the TAL and are the most potent diuretics available; CAIs block the proximal step that handles 65-70% of filtered Na⁺ and are still weak, because the TAL, DCT and principal cells downstream have a large Na⁺ reabsorptive capacity and take nearly all of it back (urinary NaCl + for CAIs vs ++++ for loops)",
+   "Two different ways of losing effect: the CAI natriuresis is SELF-LIMITED in 2-4 days because its substrate, filtered HCO₃⁻, is depleted (and its acid-base effect is NOT self-limited); loop diuretics instead fail through diuretic resistance - the lecture is explicit that only loop diuretics trigger nephron remodeling and compensatory Na⁺ retention sufficient to produce clinically significant resistance",
+   "Urinary Ca²⁺: CAIs raise it by blocking paracellular proximal Ca²⁺ transport, and loops raise it by eliminating the TAL lumen-positive potential, whereas thiazides INCREASE Ca²⁺ reabsorption - so thiazides are the drug for calcium stones with hypercalciuria while CAIs promote calcium phosphate stones",
+   "Mg²⁺: loops cause marked Mg²⁺ loss that may be clinically significant and thiazides a moderate loss, while CAIs have little to no effect on Mg²⁺ excretion",
+   "K⁺ direction versus the K⁺-sparing agents in L31: CAIs deliver Na⁺ distally and drive aldosterone-mediated ENaC reabsorption → more lumen-negative potential → K⁺ wasting and hypokalemia; ENaC inhibitors and MR antagonists do the opposite, diminishing the lumen-negative potential so K⁺ secretion stops - K⁺ sparing with mild acidosis on the same summary table",
+   "Water handling: loop diuretics abolish the medullary gradient and impair both concentrating and diluting ability, and thiazides impair dilution only, which is why thiazides carry the hyponatremia signature; the lecture makes no urine-concentration claim for CAIs at all"
+  ],
+  "genetic": "Not raised in L30/L31 - the lectures teach no channelopathy for this class. The renal slide book supplies the phenocopy: it pairs carbonic anhydrase inhibitors with Type II (proximal) renal tubular acidosis on the same proximal-tubule bicarbonate slide - an ion defect causing inability to absorb bicarbonate, producing the same non-anion-gap metabolic acidosis with hypokalemia and low HCO₃⁻ that acetazolamide creates pharmacologically (both are also listed side by side as causes of non-anion-gap acidosis). Type II RTA travels with Fanconi syndrome - generalized loss of proximal tubule function, whose inherited form is associated with cystinosis and presents in infancy - which adds glucosuria with normal serum glucose, aminoaciduria, hypophosphatemia and low-molecular-weight proteinuria that the drug does not cause. Discriminator the slide book supplies: in Type II RTA the distal intercalated cells still work and urine pH falls below 5.5, whereas acetazolamide leaves the urine alkaline.",
+  "hook": "Dr. Goldstein's repeated exam point, returned to on the clinical-applications slide, the recap, and the check-your-knowledge slides: the DIURESIS is self-limited (2-4 days - the drug excretes the filtered HCO₃⁻ that is its own substrate, and ECF contraction plus acidosis bring in aldosterone/ADH, ENaC and AQP2), but the ACIDOSIS is NOT - which is precisely why acetazolamide keeps working for mountain sickness (acidosis overrides the hypocapnic brake on ventilation) and glaucoma (blocks bicarbonate formation in the ciliary body, no filtered HCO₃⁻ needed). Pair it with her spoken stone chain: \"Calcium in alkaline urine, what is that going to cause?\" → calcium phosphate precipitation → crystals → kidney stones. And the potency paradox: it blocks the step handling 65-70% of filtered Na⁺ and is still the weak diuretic, because everything downstream takes the Na⁺ back.",
+  "shortName": "CA inhibitors",
+  "targetShort": "CA II + CA IV",
+  "segLabel": "PCT",
+  "row": {
+   "ceil": "small % — mild",
+   "kd": "down",
+   "k": "mild ↓",
+   "cad": "up",
+   "ca": "rises",
+   "ab": "Hyperchloremic metabolic acidosis (mild)",
+   "sig": "Alkaline urine and a stone risk from the rise in Ca²⁺ excretion; little to no effect on Mg²⁺; strong TGF activation lowers GFR; the diuresis is self-limited as plasma HCO₃⁻ falls"
+  }
+ },
+ "osm": {
+  "id": "osm",
+  "name": "Osmotic diuretics",
+  "examples": "Mannitol (I.V.) - the only agent the lecturer requires (\"Only mannitol is on this list\"); Urea (I.V.), Glycerin (oral), Isosorbide (oral) are listed only",
+  "segId": "pct",
+  "targetName": "None - pharmacologically inert, no receptor targets; it only opposes passive H₂O movement in the water-permeable segments, and in the collecting tubule makes passive H₂O diffusion through aquaporins unfavorable",
+  "targetSide": "both",
+  "mech": "Freely filtered at the glomerulus and not reabsorbed by the nephron, mannitol stays in the tubular lumen and raises luminal osmolarity, so H₂O is drawn into and held in the water-permeable segments - the proximal tubule (major effect) and the descending limb of the loop of Henle.",
+  "delivery": "Mannitol is not absorbed from the GI tract to any great extent, so it is given I.V., and by bolus injections rather than continuous infusion. Unlike the loops, thiazides and CAIs - which the proximal tubule's organic acid secretory system (OAT) secretes from blood into the lumen to reach their luminal sites of action - osmotic diuretics need no transporter: freely filtered, not reabsorbed. Goldstein's point: \"they are freely filtered through the glomerulus, so you need a functioning kidney.\" What blunts it is loss of filtration - in severe renal impairment or anuria the dose is never delivered to the lumen, stays in the ECF, and only expands volume.",
+  "potency": "The lecture gives no % of the filtered Na⁺ load for this class, and that is the point: no transporter is blocked, so natriuresis is not the primary effect. Osmotics osmotically promote a WATER diuresis; increased luminal flow reduces passive Na⁺ reabsorption and substantially increases urine output, and Na⁺ plus nearly all electrolytes are excreted only because they are dragged along with the fluid. The summary slide lists them not by transporter but as agents that increase tubular osmotic load throughout the nephron (PT / loop of Henle), and L30 groups them with the CAIs as \"clinically important but have few therapeutic uses.\" The ceiling is set by how much drug is filtered, so it falls with GFR and is zero in anuria.",
+  "lumenFx": "Luminal osmolarity up - H₂O held in lumen, flow and urine volume up",
+  "interFx": "ECF expands - plasma osmolality up, H₂O extracted from cells",
+  "moa": {
+   "bind": "Nothing. Osmotic diuretics are pharmacologically inert with no receptor targets. Mannitol is a sugar alcohol; its only action is as a solute, raising the concentration of solutes in whichever compartment it occupies - the extracellular fluid on the blood side, the tubular fluid on the luminal side once it is filtered.",
+   "consequence": "No transporter is inhibited and no pump is stopped. Because filtered mannitol is not reabsorbed, luminal osmolarity rises and the osmotic gradient that normally drives H₂O out of the tubule is cancelled: H₂O is drawn into the lumen in the proximal tubule and the descending limb, the increased luminal flow reduces passive Na⁺ reabsorption, and in the collecting tubule the high luminal osmotic pressure makes passive H₂O diffusion through aquaporins into the medullary area unfavorable. On the blood side, distribution confined to the ECF raises plasma osmolality and draws H₂O out of cells into the interstitial fluid and plasma.",
+   "pk": "Not absorbed from the GI tract to any great extent, so I.V. only, and by bolus injections - not continuous infusion; the lecture's caution is to avoid mannitol accumulation in the brain by using intermittent boluses. Rapidly distributes to the extracellular compartment, freely filtered by the glomerulus, minimal reabsorption (stays in the nephron), excreted in the urine. Terminal t1/2 ~5 hours. Dosed to achieve onset of diuresis in 1-3 hours - the lecturer stresses you will not see a result immediately. Onset of ICP reduction ~15-30 minutes; duration of ICP reduction 1.5-6 hours depending on dosing. It stops working when the glomerulus stops filtering: in severe renal impairment or anuria the dose is retained in the ECF and only expands volume.",
+   "why": "Mannitol has no protein target - it only moves H₂O down an osmotic gradient it creates - so it pulls H₂O out of brain and eye into plasma first and only then, once filtered, holds H₂O in the tubule; a kidney that cannot filter turns the whole dose into pure volume expansion."
+  },
+  "cascade": [
+   {
+    "zone": "lumen",
+    "text": "Mannitol is freely filtered at the glomerulus and not reabsorbed by the nephron → it stays in the tubular fluid and raises luminal osmolarity"
+   },
+   {
+    "zone": "cell",
+    "text": "Nothing is inhibited - osmotic diuretics are pharmacologically inert with no receptor targets - the cell keeps pumping; only the gradient changes"
+   },
+   {
+    "zone": "segment",
+    "text": "Greatest effect in the water-permeable segments: proximal tubule (major effect) and descending limb of the loop of Henle → H₂O drawn into the lumen"
+   },
+   {
+    "zone": "lumen",
+    "text": "Increased luminal flow reduces passive Na⁺ reabsorption → urine output rises substantially and Na⁺ plus nearly all electrolytes are dragged along"
+   },
+   {
+    "zone": "distal",
+    "text": "In the collecting tubule high osmotic pressure makes passive H₂O diffusion through aquaporins unfavorable → water reabsorption is impaired too"
+   },
+   {
+    "zone": "body",
+    "text": "Net effect: an osmotically promoted water diuresis - urine volume up, with urinary excretion of Na⁺ and nearly all electrolytes carried along"
+   },
+   {
+    "zone": "body",
+    "text": "Meanwhile the dose distributes only in extracellular fluid → plasma osmolality rises → H₂O is extracted from cells into the interstitium and plasma"
+   },
+   {
+    "zone": "body",
+    "text": "That is the therapeutic effect: H₂O shifts out of brain parenchyma and eye tissue → ICP and IOP fall, and that water is excreted in the urine"
+   },
+   {
+    "zone": "body",
+    "text": "The same ECF expansion raises venous return and preload → pulmonary capillary pressure rises → florid pulmonary edema in left-sided heart failure"
+   },
+   {
+    "zone": "body",
+    "text": "If the kidney cannot excrete it (severe renal impairment, anuria) mannitol is retained, plasma volume rises and its contents dilute → hyponatremia"
+   },
+   {
+    "zone": "body",
+    "text": "If instead diuresis runs hard, H₂O is lost in excess of electrolytes → dehydration and hypovolemia → hypernatremia and hyperkalemia"
+   }
+  ],
+  "serum": [
+   {
+    "k": "Plasma osmolality",
+    "d": "up",
+    "why": "Mannitol distributes in ECF and is not reabsorbed, so it stays as added solute in plasma and interstitial spaces → plasma osmolality rises"
+   },
+   {
+    "k": "Plasma / ECF volume",
+    "d": "up",
+    "why": "H₂O extracted from cells into the interstitial then the intravascular compartment expands the ECF and raises preload before any urine is made"
+   },
+   {
+    "k": "Serum Na⁺",
+    "d": "var",
+    "why": "Summary slide: hypernatremia OR hyponatremia depending on water balance - dehydration raises it, retention in severe renal impairment dilutes it"
+   },
+   {
+    "k": "Serum K⁺",
+    "d": "up",
+    "why": "Rapid diuresis loses water in excess of electrolytes → dehydration and hypovolemia → hypernatremia and hyperkalemia"
+   },
+   {
+    "k": "Serum creatinine",
+    "d": "var",
+    "why": "Nephrotoxicity / acute kidney injury, incidence ~6-7%; risk tracks pre-existing kidney dysfunction and the dose and rate of administration"
+   }
+  ],
+  "urine": [
+   {
+    "k": "Urine volume",
+    "d": "up",
+    "why": "An unreabsorbed osmole in water-permeable segments osmotically promotes water diuresis - urine output rises substantially"
+   },
+   {
+    "k": "Urine Na⁺ excretion",
+    "d": "up",
+    "why": "The increased luminal flow reduces passive Na⁺ reabsorption, so Na⁺ is carried out in the flow"
+   },
+   {
+    "k": "Urine excretion of nearly all electrolytes",
+    "d": "up",
+    "why": "Whatever solutes are present get dragged along with the obligated water - the lecturer: they just get dragged along with the fluid"
+   },
+   {
+    "k": "Mannitol in urine",
+    "d": "up",
+    "why": "Freely filtered, minimal reabsorption, stays in the nephron and is excreted - which is why anuria makes it undeliverable and dangerous"
+   }
+  ],
+  "uses": [
+   {
+    "n": "Acute increase in intracranial pressure with edema - traumatic brain injury",
+    "why": "Increasing the osmotic pressure / solute concentration of plasma osmotically draws H₂O out of brain parenchyma into the intravascular space; the water is then excreted in the urine"
+   },
+   {
+    "n": "Cerebral edema and brain mass before and after neurosurgery",
+    "why": "Same plasma-to-tissue osmotic gradient shrinks brain water; caution - avoid mannitol accumulation in the brain by using intermittent boluses"
+   },
+   {
+    "n": "Acute increase in intraocular pressure - acute angle-closure glaucoma, optic trauma, and short-term pre- and postoperative reduction for ocular surgery",
+    "why": "The same raised plasma osmotic pressure extracts H₂O from eye tissue; reserved for acute emergencies where rapid IOP reduction is critical, not a regular thing"
+   },
+   {
+    "n": "Adjunct in some cisplatin regimens to induce forced diuresis",
+    "why": "The obligate water diuresis was traditionally co-administered to minimize nephrotoxicity; the lecture's caveat - clear evidence of benefit is lacking, and aggressive hydration with isotonic IV saline is preferred"
+   }
+  ],
+  "adverse": [
+   {
+    "n": "Florid pulmonary edema / heart failure decompensation",
+    "why": "ECF expansion raises venous return and preload → pulmonary capillary pressure rises → fluid overwhelms a failing left ventricle and leaks into alveolar spaces",
+    "sev": "serious"
+   },
+   {
+    "n": "Hyponatremia in severe renal impairment",
+    "why": "Mannitol cannot be excreted → retained in the blood → osmotic extraction of H₂O from cells into the vasculature → plasma volume rises and its contents are diluted",
+    "sev": "serious"
+   },
+   {
+    "n": "Dehydration, hypovolemia, hypernatremia and hyperkalemia",
+    "why": "Rapid diuresis loses water in excess of electrolytes; profound diuresis from excessive dosing adds further fluid and electrolyte loss",
+    "sev": "common"
+   },
+   {
+    "n": "Nephrotoxicity - acute kidney injury",
+    "why": "Injury after mannitol administration in ~6-7% of patients who receive it; risk factors are pre-existing kidney dysfunction and the dose and rate of administration (slide book adds renal vasoconstriction → anuria at high doses)",
+    "sev": "serious"
+   },
+   {
+    "n": "Headache, dizziness, nausea, vomiting",
+    "why": "Common symptoms of the acute ECF volume expansion and the shift of water out of cells that the drug creates",
+    "sev": "common"
+   },
+   {
+    "n": "Volume overload in anuria - hypertensive crisis, hypertensive encephalopathy, renal failure",
+    "why": "With no urine being made the dose accumulates in the extracellular fluid instead of being delivered to the lumen, so only the expansion happens",
+    "sev": "serious"
+   },
+   {
+    "n": "Mannitol accumulation in the brain / CNS toxicity",
+    "why": "Continuous exposure lets the osmole build up in brain tissue instead of pulling water out of it - avoided by using intermittent boluses; discontinue if CNS toxicity develops",
+    "sev": "niche"
+   }
+  ],
+  "correlates": [
+   {
+    "n": "Traumatic brain injury with raised intracranial pressure",
+    "kind": "treats",
+    "why": "Plasma osmoles draw H₂O out of brain parenchyma into the intravascular space; ICP falls in ~15-30 min, duration of reduction 1.5-6 h"
+   },
+   {
+    "n": "Acute angle-closure glaucoma",
+    "kind": "treats",
+    "why": "Raised plasma osmotic pressure extracts water from eye tissue, dropping IOP in acute emergencies where rapid reduction is critical"
+   },
+   {
+    "n": "Cerebral edema around neurosurgery",
+    "kind": "treats",
+    "why": "Mannitol reduces cerebral edema and brain mass before and after neurosurgery by the same plasma-to-tissue osmotic gradient"
+   },
+   {
+    "n": "Left-sided heart failure with pulmonary edema",
+    "kind": "causes",
+    "why": "ECF expansion raises preload and pulmonary capillary pressure; a failing left ventricle cannot pump it out, so fluid leaks into alveolar spaces"
+   },
+   {
+    "n": "Hyponatremia with a HIGH plasma osmolality (slide book)",
+    "kind": "causes",
+    "why": "Mannitol is an added osmole like glucose: it raises plasma osmolality and pulls water out of cells, diluting serum Na⁺ - not pseudohyponatremia"
+   },
+   {
+    "n": "Severe renal impairment",
+    "kind": "interacts",
+    "why": "Mannitol cannot be excreted, so it is retained in blood → osmotic extraction of water from cells into vasculature → volume overload and hyponatremia"
+   },
+   {
+    "n": "Anuria (severe renal disease)",
+    "kind": "interacts",
+    "why": "In a patient making no urine the dose accumulates in the ECF → volume overload, pulmonary edema, hypertensive crisis, encephalopathy, renal failure"
+   },
+   {
+    "n": "Mannitol-induced acute kidney injury",
+    "kind": "causes",
+    "why": "AKI in ~6-7% of recipients; pre-existing kidney dysfunction, dose and rate are the risk factors - and renal dysfunction after a dose contraindicates further dosing"
+   },
+   {
+    "n": "Active cranial bleeding",
+    "kind": "interacts",
+    "why": "Contraindicated except during craniotomy - shifting fluid out of brain tissue in an actively bleeding cranium is unsafe"
+   },
+   {
+    "n": "Severe dehydration",
+    "kind": "interacts",
+    "why": "Listed contraindication: an obligate water diuresis on top of an already water-depleted patient drives hypernatremia and hypovolemia"
+   },
+   {
+    "n": "Cisplatin chemotherapy regimens",
+    "kind": "interacts",
+    "why": "Traditionally added for forced diuresis to minimize nephrotoxicity, but evidence of benefit is lacking; aggressive isotonic IV saline hydration is preferred"
+   }
+  ],
+  "contrast": [
+   "Delivery: loops, thiazides and the CAIs must be secreted from blood into the proximal tubular lumen by the organic acid (OAT) secretory system to reach their luminal sites of action (MRAs are the other exception - they diffuse across the basolateral membrane and bind MR in the cytosol). Osmotic diuretics need no transporter at all: freely filtered, not reabsorbed. A functioning glomerulus is the requirement - and probenecid/NSAID OAT blockade, which blunts the others, is not taught as blunting mannitol.",
+   "Direction of volume change: every other class in this lecture pair contracts the ECF and triggers RAAS/ADH compensation. Mannitol EXPANDS the ECF first - it distributes in extracellular fluid and extracts water from cells - which is why progressive heart failure and severe pulmonary edema/congestion are contraindications to it, while loops are the treatment for edema and heart failure.",
+   "Serum Na⁺ pattern (summary slide 49): thiazides are the major cause of diuretic-induced hyponatremia; loops carry a lower hyponatremia risk because dilution is impaired; osmotics are the only class listed as hypernatremia OR hyponatremia depending on water balance.",
+   "Mechanism class (summary table): CAIs block carbonic anhydrase in the PT, loops block NKCC2 in the TAL, thiazides block NCC in the DCT, K⁺-sparing agents block ENaC or the mineralocorticoid receptor in cortical collecting duct principal cells. Osmotics block nothing - pharmacologically inert - and the table lists mannitol not by transporter but as a modifier of salt and water excretion that increases tubular osmotic load throughout the nephron."
+  ],
+  "genetic": "",
+  "hook": "Goldstein's four properties ARE the drug: pharmacologically inert, distributed in extracellular fluid, freely filtered in the glomerulus, not reabsorbed by the nephron - \"so you need a functioning kidney.\" It FILLS before it DRAINS: water pulled out of cells expands the ECF (florid pulmonary edema in left-sided heart failure) before any urine appears, and in anuria it only ever fills. IV bolus, never continuous infusion; ICP down in 15-30 min for 1.5-6 h, diuresis only at 1-3 h, t1/2 ~5 h.",
+  "shortName": "Osmotic diuretics",
+  "targetShort": "a filtered, non-reabsorbable osmole",
+  "segLabel": "PCT + thin descending",
+  "row": {
+   "ceil": "not quantified",
+   "kd": "up",
+   "k": "rises (hyperkalemia)",
+   "cad": "none",
+   "ca": "not taught",
+   "ab": "Hypernatremia or hyponatremia, depending on water balance",
+   "sig": "Pulmonary edema or worsening heart failure — the lecture’s headline adverse effect, because water is first pulled out of cells into the plasma"
+  }
+ },
+ "loop": {
+  "id": "loop",
+  "name": "Loop diuretics (NKCC2 inhibitors)",
+  "examples": "Furosemide (sulfonamide), Bumetanide (sulfonamide), Torsemide (sulfonylurea), Ethacrynic acid (phenoxyacetic acid derivative) - furosemide, torsemide and ethacrynic acid are the starred \"know by name\" drugs; bumetanide is \"another one in the group,\" long-acting",
+  "segId": "tal",
+  "targetName": "NKCC2 (Na⁺/K⁺/2Cl⁻ symport)",
+  "targetSide": "apical",
+  "mech": "Loop diuretics inhibit NKCC2, the primary transporter in the luminal membrane of the thick ascending limb, preventing reabsorption of the Na⁺, K⁺ and Cl⁻ that normally cross there",
+  "delivery": "These drugs are 90-99% plasma protein bound (torsemide >99%), so they are NOT filtered through the glomerulus - the organic acid secretory system in the proximal tubule (OAT1, OAT3) secretes them from blood into the tubular fluid, and they act on the luminal side of the TAL. Excreted in urine as active drug, which makes sense because the site of action is inside the nephron. Delivery is blunted by OAT inhibitors (probenecid, NSAIDs), by OAT competition from uremia in CKD, by reduced renal perfusion pressure once volume contraction sets in, and by poor absorption from gut edema in heart failure",
+  "potency": "Up to ~25% of the filtered Na⁺ load - the most potent/high-efficacy diuretics available, because ~25% of the filtered Na⁺ is normally reabsorbed in the TAL through NKCC2. The ceiling is set by saturation of NKCC2 by the drug plus Na⁺ reabsorption in the distal nephron, which limits the fraction of filtered Na⁺ that can be blocked to ~25%",
+  "lumenFx": "Na⁺, Cl⁻, K⁺, Ca²⁺, Mg²⁺ all stay; lumen-positive potential gone",
+  "interFx": "Medullary gradient collapsed; volume down, RAAS/ADH/SNS up",
+  "moa": {
+   "bind": "Binds NKCC2, the Na⁺/K⁺/2Cl⁻ symport in the luminal membrane of thick ascending limb cells - so the drug must be inside the tubular fluid, not in the blood, to reach its target, which is why it depends on OAT secretion in the proximal tubule. The class also blocks the NKCC1 type within the inner ear",
+   "consequence": "Na⁺, K⁺ and Cl⁻ no longer enter the cell through NKCC2, so the K⁺ that normally leaks back into the lumen through ROMK is no longer supplied and the lumen-positive transepithelial potential is eliminated. Losing that potential removes the driving force for paracellular reabsorption of Mg²⁺ and Ca²⁺, so Na⁺, Cl⁻, K⁺, Mg²⁺ and Ca²⁺ are all excreted together",
+   "pk": "Class properties: highly protein bound, not filtered but secreted by OAT into the proximal tubule, excreted in urine as active drug, half-life varies by drug. Furosemide - oral, sublingual, IV infusion, subQ infusion; oral/SL absorption only ~50-60% and variable (heart failure gut edema, reduced mucosal blood flow and slowed gastric emptying cut it further); 90-99% protein bound; OAT1/OAT3 secretion; metabolized in the kidney; t1/2 1.5-2 h; diuresis lasts ~6 h oral and ~2 h IV. Torsemide - oral only ('remember torsemide is oral'), ~100% absorption and bioavailability even with gut edema; >99% protein bound; hepatic metabolism; t1/2 3-5 h; diuresis ~12 h. That contrast is the management point: refractory edema unresponsive to maximal oral furosemide is switched to torsemide for predictable absorption and longer duration. Bumetanide is long-acting - basically its only difference from furosemide - though torsemide's half-life is longer than either. Ethacrynic acid has NO pharmacokinetic advantage. Short duration is itself a resistance mechanism: when the drug wears off, post-diuretic Na⁺ reabsorption begins, which is why the total daily dose is split into 2-3 divided doses",
+   "why": "Blocking NKCC2 in the one segment that reclaims ~25% of the filtered Na⁺ load produces profound and rapid natriuresis and diuresis - and because that same transport step builds the lumen-positive potential and the medullary gradient, every electrolyte, acid-base, urine-concentrating and resistance consequence follows from the single blocked symport"
+  },
+  "cascade": [
+   {
+    "zone": "cell",
+    "text": "Too protein bound to be filtered → OAT1/OAT3 secrete the drug into proximal tubular fluid → it reaches NKCC2 from the luminal side of the TAL"
+   },
+   {
+    "zone": "cell",
+    "text": "NKCC2 blocked → Na⁺, K⁺ and Cl⁻ no longer enter the TAL cell → the K⁺ that normally leaks back into the lumen through ROMK is no longer supplied"
+   },
+   {
+    "zone": "segment",
+    "text": "Without that K⁺ back-diffusion the lumen-positive transepithelial potential is eliminated → paracellular reabsorption of Ca²⁺ and Mg²⁺ is lost"
+   },
+   {
+    "zone": "lumen",
+    "text": "Na⁺, Cl⁻, K⁺, Ca²⁺ and Mg²⁺ all stay in the tubular fluid → up to ~25% of the filtered Na⁺ load sweeps downstream → profound, rapid natriuresis"
+   },
+   {
+    "zone": "segment",
+    "text": "TAL can no longer reabsorb solute without water → the medullary osmotic gradient collapses and the diluting segment is disabled"
+   },
+   {
+    "zone": "segment",
+    "text": "Urine can be neither concentrated during hydropenia, even with vasopressin present, nor diluted below ~200 mOsm/kg during high water intake"
+   },
+   {
+    "zone": "distal",
+    "text": "The large Na⁺ load reaches principal cells → ENaC reabsorption rises under aldosterone → lumen-negative gradient → K⁺ exits via ROMK → hypokalemia"
+   },
+   {
+    "zone": "distal",
+    "text": "Aldosterone also drives H⁺ secretion and ammoniagenesis; hypochloremia impairs HCO₃⁻ excretion → new bicarbonate generated and retained"
+   },
+   {
+    "zone": "body",
+    "text": "Volume contraction → SNS, RAAS and ADH activation → proximal HCO₃⁻ reabsorption plus Na⁺ and water retention → hypokalemic metabolic alkalosis"
+   },
+   {
+    "zone": "body",
+    "text": "Acutely loops directly stimulate intrarenal PGE2/PGI2 → RBF rises briefly, GFR preserved; later RAAS causes a mild decline in RBF and GFR"
+   },
+   {
+    "zone": "distal",
+    "text": "Chronically distal segments hypertrophy and upregulate NCC, ENaC and Na⁺/K⁺ ATPase → braking phenomenon → refractory edema at a new lower ECFV"
+   }
+  ],
+  "serum": [
+   {
+    "k": "Serum K⁺",
+    "d": "down",
+    "why": "Increased Na⁺ delivery to principal cells plus aldosterone-driven ENaC reabsorption raises the lumen-negative gradient → K⁺ secreted through ROMK"
+   },
+   {
+    "k": "Serum Cl⁻",
+    "d": "down",
+    "why": "Cl⁻ is lost with Na⁺ through the blocked NKCC2; the resulting hypochloremia impairs bicarbonate excretion and maintains the alkalosis"
+   },
+   {
+    "k": "Serum HCO₃⁻",
+    "d": "up",
+    "why": "Volume contraction and RAAS promote proximal HCO₃⁻ reabsorption while aldosterone-driven H⁺ secretion generates and retains new bicarbonate"
+   },
+   {
+    "k": "Arterial pH",
+    "d": "up",
+    "why": "Hypokalemic metabolic alkalosis - K⁺ loss, increased H⁺ secretion, volume contraction, RAAS activation and chloride depletion acting together"
+   },
+   {
+    "k": "Serum Mg²⁺",
+    "d": "down",
+    "why": "Loss of the lumen-positive potential abolishes paracellular Mg²⁺ reabsorption in the TAL; magnesium loss may be clinically significant"
+   },
+   {
+    "k": "Serum Ca²⁺",
+    "d": "down",
+    "why": "Same abolished paracellular pathway wastes Ca²⁺; calcium loss is usually mild, but it is the effect exploited to treat hypercalcemia"
+   },
+   {
+    "k": "Serum Na⁺",
+    "d": "down",
+    "why": "Mild hyponatremia is possible but milder and less frequent than with thiazides, because loops impair dilution as well as concentration"
+   },
+   {
+    "k": "Serum uric acid",
+    "d": "up",
+    "why": "Loops interfere with uric acid excretion (slide book: increased uric acid reabsorption) → hyperuricemia and gout; milder than with thiazides"
+   },
+   {
+    "k": "Serum glucose",
+    "d": "up",
+    "why": "Hypokalemia impairs insulin release and glucose uptake → impaired glucose control, though not to the same extent as thiazides"
+   }
+  ],
+  "urine": [
+   {
+    "k": "Urine NaCl",
+    "d": "up",
+    "why": "++++ on the lecture's urinary electrolyte table - the largest natriuresis of any class, up to ~25% of the filtered Na⁺ load with Cl⁻ alongside"
+   },
+   {
+    "k": "Urine K⁺",
+    "d": "up",
+    "why": "+++ on the table - potassium-wasting from the ENaC-generated lumen-negative gradient in the distal nephron under aldosterone"
+   },
+   {
+    "k": "Urine Ca²⁺",
+    "d": "up",
+    "why": "Elimination of the lumen-positive potential stops paracellular Ca²⁺ transport in the TAL → marked increase in Ca²⁺ excretion"
+   },
+   {
+    "k": "Urine Mg²⁺",
+    "d": "up",
+    "why": "Same collapsed paracellular route → marked Mg²⁺ excretion; the magnesium loss is the one more likely to matter clinically"
+   },
+   {
+    "k": "Urine HCO₃⁻",
+    "d": "none",
+    "why": "0 on the lecture's table, so urine pH is not driven up - loops act past the proximal tubule and do not touch carbonic anhydrase (CAI: HCO₃⁻ +++)"
+   },
+   {
+    "k": "Urine osmolality",
+    "d": "var",
+    "why": "Both extremes are lost: the diluting segment is disabled and the medullary gradient is gone, so urine can be neither concentrated nor maximally diluted"
+   },
+   {
+    "k": "Urine volume",
+    "d": "up",
+    "why": "Water follows the massive unreabsorbed solute load → profound diuresis, the basis of rapid volume removal in fluid overload"
+   }
+  ],
+  "uses": [
+   {
+    "n": "Acute pulmonary edema",
+    "why": "Natriuresis plus venodilation lowers LV pressure and relieves the pulmonary edema"
+   },
+   {
+    "n": "Chronic CHF / fluid overload of any cause - 'edema, edema, edema'",
+    "why": "Loops mobilize extracellular fluid into the plasma and then into the kidney for excretion, decreasing effective circulating volume and venous/pulmonary congestion"
+   },
+   {
+    "n": "Nephrotic syndrome",
+    "why": "Relief of edema due to salt and water retention, using the highest-efficacy natriuresis available"
+   },
+   {
+    "n": "Ascites of liver cirrhosis",
+    "why": "Spironolactone with oral furosemide and salt restriction - the MR antagonist covers the secondary hyperaldosteronism that would reclaim the Na⁺"
+   },
+   {
+    "n": "Acute kidney injury with fluid overload",
+    "why": "Relieves signs and symptoms of fluid overload; the lecture is explicit that a diuretic is not a replacement for dialysis"
+   },
+   {
+    "n": "Chronic kidney disease (higher doses often needed)",
+    "why": "Fewer nephrons, OAT competition from uremia and tubular adaptations shift the dose-response to the right, but the ~25% ceiling still delivers natriuresis"
+   },
+   {
+    "n": "Hypercalcemia (adjunct after IV hydration)",
+    "why": "Abolishing the lumen-positive potential stops paracellular Ca²⁺ reabsorption and forces calciuresis - more effective treatments are preferred"
+   },
+   {
+    "n": "Forced diuresis for chemotherapy toxicity",
+    "why": "Loop plus saline infusion prevents chemo-induced nephrotoxicity - but rapid fluid/electrolyte shifts can paradoxically cause fluid overload and pulmonary edema"
+   },
+   {
+    "n": "Hypertension - effective but NOT first-line for primary hypertension",
+    "why": "Loops do lower BP, especially in heart failure, kidney disease and cirrhosis, but volume/electrolyte depletion risk and short-lived BP effect keep thiazides first-line"
+   }
+  ],
+  "adverse": [
+   {
+    "n": "Hypokalemia and hypokalemic metabolic alkalosis",
+    "why": "K⁺ loss through ROMK plus aldosterone-driven H⁺ secretion, volume contraction and RAAS-promoted proximal HCO₃⁻ reabsorption; chloride loss with bicarbonate exported from intercalated cells maintains it",
+    "sev": "common"
+   },
+   {
+    "n": "Hypomagnesemia (common, dose-dependent)",
+    "why": "Elimination of the transepithelial potential abolishes paracellular Mg²⁺ reabsorption in the TAL - magnesium loss may be clinically significant, unlike the usually mild calcium loss",
+    "sev": "common"
+   },
+   {
+    "n": "Ototoxicity",
+    "why": "Inhibition of NKCC1 within the inner ear disrupts the endolymph K⁺ balance essential for normal hearing; risk is HIGHER with ethacrynic acid and additive with aminoglycosides and cisplatin; slide book adds it occurs at very high doses or with other ototoxic agents and is usually reversible",
+    "sev": "serious"
+   },
+   {
+    "n": "Hyponatremia",
+    "why": "Free water is lost with solute, but milder and less frequent than with thiazides because loops impair dilution as well as concentration",
+    "sev": "common"
+   },
+   {
+    "n": "Hyperuricemia and gout risk",
+    "why": "Loops interfere with uric acid excretion (slide book: increase uric acid reabsorption); again milder and less frequent than with thiazides",
+    "sev": "common"
+   },
+   {
+    "n": "Diuretic resistance / refractory edema (braking phenomenon)",
+    "why": "Chronic use hypertrophies the distal segments and upregulates NCC, ENaC and Na⁺/K⁺ ATPase, amplified by RAAS, aldosterone and ADH (plus macula densa suppression driving renin, which the lecturer calls interesting but not usually clinically significant), with post-diuretic Na⁺ reabsorption when the short-acting drug wears off - most prominent and only clinically significant with loops",
+    "sev": "common"
+   },
+   {
+    "n": "Volume and electrolyte depletion with hypotension",
+    "why": "Removing up to a quarter of the filtered Na⁺ load strips ECF volume fast - monitor for hypotension, prerenal azotemia and renal dysfunction; this is why loops are NOT first-line for primary hypertension",
+    "sev": "serious"
+   },
+   {
+    "n": "Impaired glucose control",
+    "why": "Hypokalemia impairs insulin release and glucose uptake → hyperglycemia; relevant when a patient is on antidiabetic agents, though not to the same extent as thiazides",
+    "sev": "common"
+   },
+   {
+    "n": "Pregnancy: decreased placental perfusion",
+    "why": "Diuretics reduce maternal plasma volume and cardiac output → decreased uteroplacental blood flow plus electrolyte imbalance; use only if benefit to the mother outweighs fetal risk, with monitoring of fetal growth and maternal volume status",
+    "sev": "serious"
+   },
+   {
+    "n": "Hypersensitivity reactions",
+    "why": "Drug or formulation hypersensitivity - rare; note the lecture's update that sulfonamide cross-reactivity with sulfa antibiotics is clinically insignificant because diuretics lack the N4 aromatic amine",
+    "sev": "niche"
+   },
+   {
+    "n": "Acute interstitial nephritis (renal slide book)",
+    "why": "Furosemide and bumetanide can act as haptens that provoke an immune response in the interstitium → rising BUN/Cr with WBC casts and urine eosinophils; L30 itself lists only hypersensitivity reactions",
+    "sev": "niche"
+   }
+  ],
+  "correlates": [
+   {
+    "n": "Bartter syndrome",
+    "kind": "mimics",
+    "why": "Defective Na⁺ reabsorption in the thick ascending limb - the slide book calls it 'similar to administration of loop diuretic': polyuria, hypokalemia, RAAS-driven metabolic alkalosis, HIGH urine Ca²⁺"
+   },
+   {
+    "n": "NSAIDs (ibuprofen, naproxen, indomethacin)",
+    "kind": "interacts",
+    "why": "Block PGE2/PGI2 → afferent vasoconstriction, lower RBF/GFR and less drug delivered; they also inhibit OATs and cause Na⁺/water retention → blunted diuresis and worsened metabolic alkalosis"
+   },
+   {
+    "n": "Probenecid",
+    "kind": "interacts",
+    "why": "Competes for the proximal tubule organic anion transporters → less drug secreted into the lumen → blunted diuretic response and increased loop diuretic adverse effects"
+   },
+   {
+    "n": "ACE inhibitors / ARBs (the AKI 'triple hit' with an NSAID)",
+    "kind": "interacts",
+    "why": "NSAID afferent constriction + ACEi/ARB efferent dilation + diuretic-induced fall in effective circulating volume → collapse of glomerular filtration pressure and GFR → acute kidney injury"
+   },
+   {
+    "n": "Lithium",
+    "kind": "interacts",
+    "why": "Li⁺ is absorbed with Na⁺ mainly in the proximal tubule, so enhanced Na⁺ excretion increases Li⁺ reabsorption → toxicity in a narrow-therapeutic-window drug; smaller effect than thiazides but still monitored"
+   },
+   {
+    "n": "Digitalis glycosides",
+    "kind": "interacts",
+    "why": "Diuretic-induced hypokalemia potentiates digitalis toxicity → arrhythmias"
+   },
+   {
+    "n": "Quinidine and other QT-prolonging drugs",
+    "kind": "interacts",
+    "why": "Diuretic-induced hypokalemia added to QT prolongation raises the risk of torsades de pointes"
+   },
+   {
+    "n": "Aminoglycosides",
+    "kind": "interacts",
+    "why": "Synergism of both nephrotoxicity and ototoxicity - the combination the lecture flags as most dangerous with ethacrynic acid"
+   },
+   {
+    "n": "Cisplatin",
+    "kind": "interacts",
+    "why": "Synergism of nephrotoxicity and ototoxicity - and cisplatin is given with forced diuresis to mitigate nephrotoxicity, so the additive risk is easy to create"
+   },
+   {
+    "n": "Amphotericin B",
+    "kind": "interacts",
+    "why": "Amphotericin-induced renal injury causes potassium loss, added to the loop's own K⁺ wasting → increased hypokalemia risk"
+   },
+   {
+    "n": "Glucocorticoids",
+    "kind": "interacts",
+    "why": "Glucocorticoids promote Na⁺ retention and K⁺ loss → additive hypokalemia risk"
+   },
+   {
+    "n": "Antihypertensive agents",
+    "kind": "interacts",
+    "why": "Both lower blood pressure → enhanced hypotensive effect, which the lecture calls usually desirable, but it compounds hypotension once the loop has contracted volume"
+   },
+   {
+    "n": "Thiazide / thiazide-like diuretics (sequential nephron blockade)",
+    "kind": "interacts",
+    "why": "Thiazides block NCC in the DCT, distal to the TAL, capturing the Na⁺ load the loop released → synergism and profound diuresis, usually desirable, for refractory edema"
+   },
+   {
+    "n": "Loop diuretic-induced hypokalemic metabolic alkalosis",
+    "kind": "causes",
+    "why": "Volume contraction, increased bicarbonate reabsorption and aldosterone-stimulated H⁺ secretion - acetazolamide is used for rapid correction because it gets at the cause"
+   }
+  ],
+  "contrast": [
+   "vs THIAZIDES (NCC, DCT): loops are the most potent (~25% of filtered Na⁺ vs ~5-10%) and disrupt the medullary gradient, impairing BOTH concentrating and diluting ability, so hyponatremia risk is LOWER than with thiazides, which impair dilution only and are the major cause of diuretic-induced hyponatremia. Loops markedly INCREASE urine Ca²⁺; thiazides DECREASE it. Thiazides are guideline-directed first-line for hypertension; loops risk volume/electrolyte depletion and have a short-lived BP effect. Thiazides raise lithium levels more than loops. Combined for sequential nephron blockade the table goes to Na⁺ +++++ and K⁺ ++++",
+   "vs CARBONIC ANHYDRASE INHIBITORS (PCT): loops give NaCl ++++ and urine HCO₃⁻ 0 with hypokalemic metabolic ALKALOSIS; acetazolamide gives NaCl + with HCO₃⁻ +++, alkaline urine and mild hyperchloremic metabolic ACIDOSIS. The CAI natriuresis is self-limited within 2-4 days as filtered bicarbonate is depleted; the loop's is not self-limited but is instead defeated by distal nephron remodeling (diuretic resistance)",
+   "vs K⁺-SPARING AGENTS (ENaC inhibitors, MR antagonists, CD principal cells): loops raise distal Na⁺ delivery and waste K⁺ and H⁺; K⁺-sparers block the very ENaC/aldosterone step the loop recruits and prevent K⁺ and H⁺ loss. That is why the lecture's step 4 for refractory edema WITH hypokalemia is to add an ENaC inhibitor or MR antagonist rather than a thiazide",
+   "DIURETIC RESISTANCE IS A LOOP PHENOMENON: it can happen with thiazides, but only loop diuretics trigger nephron remodeling and compensatory Na⁺ retention sufficient to produce clinically significant resistance",
+   "WITHIN THE CLASS: furosemide is the most widely used with the most routes (oral, S/L, IV, subQ) but only ~50-60% variable absorption; torsemide is oral only with ~100% bioavailability, t1/2 3-5 h and ~12 h diuresis - the switch for refractory edema; bumetanide is long-acting, basically its only difference from furosemide; ethacrynic acid is the only non-sulfonamide loop but is NOT more effective, has NO PK advantage, is MORE ototoxic, very expensive and of limited availability"
+  ],
+  "genetic": "Bartter syndrome - the renal slide book teaches it as defective sodium reabsorption in the thick ascending limb, \"similar to administration of loop diuretic.\" Presents in childhood with polyuria, polydipsia or nocturia; RAAS activation → metabolic alkalosis; hypokalemia; and HIGH urinary calcium because the TAL cannot absorb Ca²⁺. Contrast Gitelman, the thiazide phenocopy, which has LOW urinary calcium. Unlike ordinary diuretic-induced alkalosis, Bartter is one of the exceptions that does not resolve with NaCl fluid administration",
+  "hook": "Loops are the \"25% segment\" drugs: ~25% of the filtered Na⁺ load is reabsorbed through NKCC2 in the TAL, so blocking it gives profound and rapid natriuresis and diuresis - and Dr. Goldstein's indication list is simply \"edema, edema, edema from any cause.\" Her flagged board-versus-practice trap: exams still answer \"sulfa allergy → use ethacrynic acid,\" but cross-reactivity risk is clinically insignificant because diuretics lack the N4 aromatic amine, and ethacrynic acid is no more effective, has no PK advantage, is MORE ototoxic, very expensive, and may not even be available",
+  "shortName": "Loop diuretics",
+  "targetShort": "NKCC2",
+  "segLabel": "TAL",
+  "row": {
+   "ceil": "up to ~25%",
+   "kd": "down",
+   "k": "falls",
+   "cad": "up",
+   "ca": "rises",
+   "ab": "Hypokalemic metabolic alkalosis",
+   "sig": "Ototoxicity; the Ca²⁺ loss is usually mild but the Mg²⁺ loss may be clinically significant; impairs BOTH diluting and concentrating ability; diuretic resistance"
+  }
+ },
+ "thz": {
+  "id": "thz",
+  "name": "Thiazide Diuretics (NCC inhibitors) - thiazide-type and thiazide-like",
+  "examples": "Thiazide-type (benzothiadiazine derivatives): hydrochlorothiazide (prototype), chlorothiazide (the only IV thiazide), methyclothiazide and bendroflumethiazide (the slide flags these two as rarely used). Thiazide-like (lack the benzothiadiazine structure, same actions): chlorthalidone (prototype), indapamide, metolazone",
+  "segId": "dct",
+  "targetName": "NCC, the Na⁺-Cl⁻ cotransporter of the early distal convoluted tubule",
+  "targetSide": "apical",
+  "mech": "Blocks the luminal NCC in the early DCT, so the ~5-10% of filtered Na⁺ that reaches this segment is no longer reabsorbed with Cl⁻, and Na⁺, Cl⁻ and water are excreted",
+  "delivery": "Plasma protein binding varies considerably across the class, but the prototypes are only moderately bound (HCTZ, chlorothiazide and chlorthalidone all ~70-75%), so the lecture's PK takeaway is that thiazides enter the nephron by BOTH glomerular filtration of the free drug AND organic-acid secretory transport (OATs) in the proximal tubule, then act from the lumen. Anything that starves that route blunts the drug: probenecid is a potent OAT inhibitor and lowers the drug concentration in the nephron, and NSAIDs hit it twice - afferent arteriolar constriction cuts renal blood flow, GFR and drug secretion, and NSAIDs also inhibit the OATs themselves, so less thiazide is delivered to the DCT",
+  "potency": "Moderate. Only ~5-10% of filtered Na⁺ is reabsorbed in the early DCT, so blocking NCC gives moderate natriuretic/diuretic efficacy - scored Na⁺ '++' on the lecture's urinary electrolyte table, against '++++' for loop diuretics and '+' for K⁺-sparing agents. Adding a thiazide to a loop (sequential nephron blockade) takes it to '+++++'",
+  "lumenFx": "Na⁺, Cl⁻, H₂O stay: solute-rich, cannot be diluted; Ca²⁺ pulled out",
+  "interFx": "Low cell Na⁺ speeds NCX1 → Ca²⁺ to blood; ECF falls, RAAS up",
+  "moa": {
+   "bind": "Blocks NCC, the Na⁺-Cl⁻ cotransporter, on the luminal (apical) membrane of the early DCT cell - so the drug has to be inside the tubular fluid, which is why filtration of free drug plus proximal OAT secretion is the delivery route that matters",
+   "consequence": "With luminal NCC blocked, Na⁺ and Cl⁻ stay in the tubular fluid and intracellular Na⁺ falls. The lower intracellular Na⁺ enhances basolateral NCX1 activity (3 Na⁺ in, 1 Ca²⁺ out), which drops intracellular Ca²⁺ and creates a stronger gradient for Ca²⁺ entry through the apical TRPV5 channel; the Ca²⁺ that enters binds calbindin, crosses the cell and is exported by NCX1, with PMCA1b only fine-tuning the export. The DCT is impermeable to water, so the solute left behind in the lumen also destroys the kidney's ability to make dilute urine",
+   "pk": "Well absorbed, bioavailability generally good (HCTZ 70%, chlorthalidone 65%), protein binding varies across the class but is moderate for the prototypes, most are not metabolized and are excreted as intact drug in urine; half-life is the real difference between the two prototypes. HCTZ: onset of diuresis 2 h, duration 6-12 h, t1/2 6-15 h. Chlorthalidone: onset 2-6 h, duration 24-72 h, t1/2 40-60 h, cleared 50-65% in urine plus hepatic metabolism and fecal excretion. Chlorthalidone's very long t1/2 gives smoother 24 h blood pressure control but a higher risk of hypokalemia than HCTZ - yet large observational studies and randomized trials (Ishani, Cushman et al., 2022, the Diuretic Comparison Project) showed both drugs lower BP and cut heart attack, stroke and heart failure at similar rates. Chlorothiazide is the only intravenous thiazide; indapamide is extensively metabolized in the liver and has a long half-life",
+   "why": "Blocking luminal NCC in the water-impermeable early DCT gives moderate natriuresis with calcium retention and a kidney that can still concentrate urine but can no longer dilute it - which is the whole exam"
+  },
+  "cascade": [
+   {
+    "zone": "cell",
+    "text": "Thiazide blocks luminal NCC in the early DCT → the ~5-10% of filtered Na⁺ reaching this segment is not reabsorbed → intracellular Na⁺ falls"
+   },
+   {
+    "zone": "lumen",
+    "text": "Na⁺ and Cl⁻ stay in the tubular fluid and water follows → moderate natriuresis and diuresis (Na⁺ '++' on the lecture's urinary electrolyte table)"
+   },
+   {
+    "zone": "segment",
+    "text": "The DCT is impermeable to water and, with the TAL, forms the diluting segment → solute left in the lumen means free water can no longer be excreted"
+   },
+   {
+    "zone": "cell",
+    "text": "Low cell Na⁺ speeds NCX1 (3 Na⁺ in, 1 Ca²⁺ out) → cell Ca²⁺ falls → Ca²⁺ enters via TRPV5, crosses on calbindin, exits via NCX1 → urine Ca²⁺ falls"
+   },
+   {
+    "zone": "distal",
+    "text": "Increased Na⁺ and water delivery to the collecting ducts plus volume contraction → RAAS → aldosterone upregulates ENaC, Na⁺/K⁺-ATPase and ROMK"
+   },
+   {
+    "zone": "distal",
+    "text": "More Na⁺ reabsorbed via ENaC enhances the lumen-negative potential → K⁺ moves out of the principal cell into the lumen → potassium wasting"
+   },
+   {
+    "zone": "body",
+    "text": "K⁺ loss, increased H⁺ secretion and ECF contraction with RAAS → hypokalemic metabolic alkalosis; hypochloremia and HCO₃⁻ retention sustain it"
+   },
+   {
+    "zone": "body",
+    "text": "Concentrating ability untouched - gradient intact, ADH inserts AQP2 - so water is reabsorbed and thirst adds more → dilutional hyponatremia"
+   },
+   {
+    "zone": "body",
+    "text": "Hypokalemia disrupts the β-cell ATP-sensitive K⁺ channel → impaired insulin release, plus reduced tissue glucose use → hyperglycemia"
+   },
+   {
+    "zone": "body",
+    "text": "Chronic use remodels the DCT and downregulates apical TRPM6 → Mg²⁺ wasting; hypovolemia drives URAT1 urate reabsorption → hyperuricemia and gout"
+   },
+   {
+    "zone": "body",
+    "text": "Acutely, lower ECF and cardiac output drop BP; chronically plasma volume returns to baseline and vascular smooth muscle Na⁺ depletion lowers PVR"
+   }
+  ],
+  "serum": [
+   {
+    "k": "Serum Na⁺",
+    "d": "down",
+    "why": "Dilution impaired, concentration is not - ADH still inserts AQP2, so water retention exceeds Na⁺ retention → dilutional low Na⁺"
+   },
+   {
+    "k": "Serum K⁺",
+    "d": "down",
+    "why": "More distal Na⁺ plus aldosterone-driven ENaC deepens the lumen-negative potential → ROMK secretes K⁺; higher risk with chlorthalidone"
+   },
+   {
+    "k": "Serum Cl⁻",
+    "d": "down",
+    "why": "Cl⁻ is excreted with the Na⁺ that NCC can no longer reabsorb; the hypochloremia helps sustain the metabolic alkalosis"
+   },
+   {
+    "k": "Serum HCO₃⁻",
+    "d": "up",
+    "why": "Increased distal H⁺ secretion under aldosterone plus bicarbonate retention on a contracted ECF volume"
+   },
+   {
+    "k": "Body pH",
+    "d": "up",
+    "why": "K⁺ loss, increased H⁺ secretion and ECF volume contraction with RAAS activation → hypokalemic metabolic alkalosis"
+   },
+   {
+    "k": "Serum Ca²⁺",
+    "d": "up",
+    "why": "NCX1/TRPV5-driven DCT Ca²⁺ retention. Uncommon clinically, because serum Ca²⁺ is so tightly controlled by parathyroid hormone"
+   },
+   {
+    "k": "Serum Mg²⁺",
+    "d": "down",
+    "why": "Chronic use remodels the DCT and downregulates the apical TRPM6 channel → less Mg²⁺ reabsorbed, more wasted"
+   },
+   {
+    "k": "Serum uric acid",
+    "d": "up",
+    "why": "Hypovolemia enhances uric acid reabsorption and thiazides reduce its secretion via URAT1 (an OAT) → can exacerbate a gout attack"
+   },
+   {
+    "k": "Serum glucose",
+    "d": "up",
+    "why": "Hypokalemia disrupts the β-cell ATP-sensitive K⁺ channel so insulin release is impaired - the primary mechanism"
+   },
+   {
+    "k": "Serum lipids",
+    "d": "up",
+    "why": "Mild alterations in lipid metabolism, most likely tied to the impaired insulin sensitivity"
+   },
+   {
+    "k": "Serum lithium",
+    "d": "up",
+    "why": "Enhanced Na⁺ excretion → compensatory proximal reabsorption of Na⁺ and Li⁺ → plasma Li⁺ rises in a narrow therapeutic window"
+   },
+   {
+    "k": "Serum creatinine",
+    "d": "var",
+    "why": "Rises when volume depletion makes GFR prostaglandin-dependent and an NSAID adds afferent constriction → marked GFR fall"
+   }
+  ],
+  "urine": [
+   {
+    "k": "Urine Na⁺",
+    "d": "up",
+    "why": "NCC blocked, so the ~5-10% of filtered Na⁺ handled by the early DCT is excreted; scored '++' against the loop diuretic's '++++'"
+   },
+   {
+    "k": "Urine K⁺",
+    "d": "up",
+    "why": "Aldosterone upregulates ENaC, Na⁺/K⁺-ATPase and ROMK; the deeper lumen-negative potential drives K⁺ out ('++' on the table)"
+   },
+   {
+    "k": "Urine Cl⁻",
+    "d": "up",
+    "why": "Cl⁻ is cotransported with Na⁺ by NCC, so blocking it dumps both into the urine → hypochloremia that sustains the alkalosis"
+   },
+   {
+    "k": "Urine Ca²⁺",
+    "d": "down",
+    "why": "Low cell Na⁺ speeds NCX1, cell Ca²⁺ falls, TRPV5 pulls filtered Ca²⁺ out of the lumen - the calcium-preserving effect"
+   },
+   {
+    "k": "Urine Mg²⁺",
+    "d": "up",
+    "why": "DCT remodeling with downregulation of apical TRPM6 leaves filtered Mg²⁺ in the lumen - a chronic-therapy finding"
+   },
+   {
+    "k": "Urine HCO₃⁻",
+    "d": "up",
+    "why": "Scored '+' (slight) on the lecture's table - a minor bicarbonate loss, nothing like the '+++' of the carbonic anhydrase inhibitors"
+   },
+   {
+    "k": "Urine pH",
+    "d": "var",
+    "why": "Only the slight '+' HCO₃⁻ loss on the lecture's table nudges it alkaline - nothing like the CAIs' '+++' bicarbonaturia"
+   },
+   {
+    "k": "Minimum urine osmolality",
+    "d": "up",
+    "why": "Solute left in the water-impermeable diluting segment means maximally dilute urine can no longer be made"
+   },
+   {
+    "k": "Urine volume",
+    "d": "var",
+    "why": "Rises with the natriuresis, but falls 30-50% in vasopressin resistance as contraction shifts reabsorption proximally"
+   }
+  ],
+  "uses": [
+   {
+    "n": "Primary (essential) hypertension - guideline-directed first-line",
+    "why": "Acutely the natriuresis lowers extracellular fluid volume and cardiac output; with continued therapy plasma volume returns to pretreatment levels (a desirable effect) and the sustained action is chronic Na⁺ depletion in vascular smooth muscle that lowers its responsiveness to vasoconstrictors → persistent fall in peripheral vascular resistance. The lecture cites stronger outcome data than several other antihypertensive classes. HCTZ is most widely used because it is in so many fixed-combination products; chlorthalidone has a much longer t1/2, and outcomes are similar"
+   },
+   {
+    "n": "Edematous states with a loop diuretic - sequential nephron blockade",
+    "why": "The loop blocks NKCC2 in the TAL but some of that Na⁺ is reclaimed distally at NCC (chronic loop therapy even upregulates NCC as distal nephron adaptation); adding a thiazide blocks the DCT downstream, giving synergistic natriuresis/diuresis. Used in congestive heart failure, liver cirrhosis with ascites, nephrotic syndrome, chronic renal failure and acute glomerulonephritis"
+   },
+   {
+    "n": "Vasopressin resistance (AVP-R / nephrogenic diabetes insipidus), including lithium-induced",
+    "why": "Counterintuitive but mechanistic: thiazide-induced mild volume contraction → RAAS activation and lower GFR → more Na⁺ and water reabsorbed proximally → substantial drop in filtrate reaching the ADH-sensitive collecting duct → urine output falls by up to 30-50% and a new lower steady state persists as long as the drug is taken. Given as thiazide + low-sodium, low-protein diet + an NSAID (the one place an NSAID is wanted, because it enhances the ADH effect); discontinue lithium if possible. Works best with the long-acting chlorthalidone"
+   },
+   {
+    "n": "Nephrolithiasis due to idiopathic hypercalciuria",
+    "why": "The NCX1/TRPV5 calcium-preserving mechanism lowers urinary Ca²⁺, which lowers urine Ca²⁺ concentration and the supersaturation of calcium oxalate and calcium phosphate, reducing crystal formation and stone recurrence in selected patients - alongside increased fluid intake, dietary modification and weight loss"
+   }
+  ],
+  "adverse": [
+   {
+    "n": "Hyponatremia (the important adverse effect)",
+    "sev": "serious",
+    "why": "NCC blockade impairs urine dilution so free water cannot be excreted, while concentrating ability is NOT impaired - the medullary gradient is intact and the collecting duct still answers ADH with AQP2 insertion → free water reabsorption, compounded by thirst and drinking. Water retention exceeds Na⁺ retention → dilutional hyponatremia. A concomitant NSAID increases the risk by enhancing the ADH effect, since prostaglandins normally counteract ADH. Most patients do not develop it unless water excretion is impaired"
+   },
+   {
+    "n": "Hypokalemic metabolic alkalosis",
+    "sev": "common",
+    "why": "Increased Na⁺ and water delivery to the aldosterone-sensitive distal nephron, with volume contraction driving RAAS, lets aldosterone upregulate ENaC, Na⁺/K⁺-ATPase and ROMK → more ENaC Na⁺ reabsorption enhances the lumen-negative potential → K⁺ is secreted. K⁺ loss plus increased H⁺ secretion and ECF contraction give the alkalosis; hypochloremia and bicarbonate retention sustain it. High dietary salt intake makes it worse by further raising distal Na⁺ delivery"
+   },
+   {
+    "n": "Hypomagnesemia",
+    "sev": "common",
+    "why": "Chronic thiazide use leads to distal convoluted tubule remodeling and downregulation of the apical TRPM6 magnesium channel, which decreases Mg²⁺ reabsorption and increases magnesium wasting. Should be monitored on chronic therapy"
+   },
+   {
+    "n": "Hyperuricemia / gout",
+    "sev": "common",
+    "why": "Hypovolemia from extracellular fluid contraction enhances uric acid reabsorption, and thiazides also reduce uric acid secretion at the level of the transporter, URAT1 (an OAT). Not a problem for most people, but it can precipitate or exacerbate a gout attack in someone prone to it"
+   },
+   {
+    "n": "Hyperglycemia / insulin resistance",
+    "sev": "common",
+    "why": "Hypokalemia disrupts the ATP-sensitive K⁺ channel of the pancreatic β cell, so the depolarization-Ca²⁺-exocytosis sequence fails and insulin release is impaired - the primary mechanism; thiazides additionally reduce tissue utilization of glucose (impaired insulin sensitivity). Blunts the effect of antidiabetic drugs"
+   },
+   {
+    "n": "Hyperlipidemia",
+    "sev": "common",
+    "why": "Mild alterations in lipid metabolism most likely related to the same impaired insulin sensitivity - a mild metabolic-syndrome picture that matters only in vulnerable patients"
+   },
+   {
+    "n": "ECF volume depletion (mild) with hypotension",
+    "sev": "common",
+    "why": "Sustained natriuresis and diuresis reduce extracellular fluid and effective circulating volume; most adverse effects of this class are dose-dependent, and the volume loss is what triggers the RAAS/SNS/ADH compensations that limit the drug"
+   },
+   {
+    "n": "Hypercalcemia",
+    "sev": "niche",
+    "why": "The NCX1/TRPV5 calcium-retaining mechanism raises serum Ca²⁺, but it is uncommon because blood calcium is so tightly controlled by parathyroid hormone"
+   },
+   {
+    "n": "GI intolerance",
+    "sev": "niche",
+    "why": "Direct gastrointestinal intolerance; explicitly flagged as rare on the adverse-effect slide"
+   },
+   {
+    "n": "Pregnancy: may decrease placental perfusion",
+    "sev": "serious",
+    "why": "Diuretic-induced volume contraction reduces uteroplacental perfusion - a caution, so the drug should not be used unless the benefit to the mother outweighs the risk to the fetus"
+   }
+  ],
+  "correlates": [
+   {
+    "n": "NSAIDs (naproxen, ibuprofen)",
+    "kind": "interacts",
+    "why": "Afferent constriction cuts renal blood flow, GFR and drug secretion, and NSAIDs also inhibit the OATs - less thiazide reaches the DCT; they raise Na⁺/H₂O reabsorption upstream of NCC too"
+   },
+   {
+    "n": "NSAID-thiazide-spironolactone acute kidney injury (the lecture's 'triple hit' vignette)",
+    "kind": "causes",
+    "why": "Thiazide volume depletion makes GFR prostaglandin-dependent; the NSAID removes afferent dilation → creatinine rises; NSAID plus MRA both retain K⁺ → hyperkalemia at 5.8 mEq/L"
+   },
+   {
+    "n": "Lithium toxicity",
+    "kind": "interacts",
+    "why": "Enhanced Na⁺ excretion triggers compensatory proximal reabsorption of Na⁺ and Li⁺ (Li⁺ uses sodium transporters) → plasma Li⁺ rises; narrow therapeutic window"
+   },
+   {
+    "n": "Digitalis (digoxin) toxicity",
+    "kind": "interacts",
+    "why": "Hypokalemia augments the digitalis-mediated rise in cytosolic Ca²⁺ → Ca²⁺ overload → increased automaticity, arrhythmia; less K⁺ competing, more digoxin bound"
+   },
+   {
+    "n": "Probenecid",
+    "kind": "interacts",
+    "why": "A potent OAT inhibitor; thiazides enter the nephron predominantly via OATs, so blocking them lowers drug concentration at NCC and cuts diuretic efficacy"
+   },
+   {
+    "n": "Amphotericin B",
+    "kind": "interacts",
+    "why": "Amphotericin B renal injury causes K⁺ loss that adds to the thiazide's potassium-wasting effect"
+   },
+   {
+    "n": "Glucocorticoids",
+    "kind": "interacts",
+    "why": "They enhance the potassium-wasting effect of the diuretic, deepening the hypokalemia and its downstream glucose and digitalis consequences"
+   },
+   {
+    "n": "Antidiabetic drugs",
+    "kind": "interacts",
+    "why": "Thiazide-induced impaired insulin release and reduced insulin sensitivity blunt the effect of the antidiabetic agent → hyperglycemia"
+   },
+   {
+    "n": "Other antihypertensive agents",
+    "kind": "interacts",
+    "why": "The lecture's interaction slide calls this favorable - thiazide natriuresis and lowered PVR add to their effect; HCTZ sits in many fixed-combination products for exactly this"
+   },
+   {
+    "n": "Loop diuretics (sequential nephron blockade)",
+    "kind": "interacts",
+    "why": "The loop blocks NKCC2 in the TAL, the thiazide blocks NCC distal to it so escaped Na⁺ cannot be reclaimed - urine Na⁺ goes '++++' to '+++++'; metolazone is flagged for this synergy"
+   },
+   {
+    "n": "ENaC inhibitors and MR antagonists (amiloride, triamterene, spironolactone, eplerenone)",
+    "kind": "interacts",
+    "why": "Added distal to NCC for extra natriuresis and to counteract the thiazide's potassium-wasting effect - the lecture's standard hypertension pairing"
+   },
+   {
+    "n": "Hypokalemia from high dietary sodium intake (the salted-popcorn vignette)",
+    "kind": "causes",
+    "why": "Salt raises distal Na⁺ delivery on top of the thiazide → more ENaC-mediated Na⁺ reabsorption and K⁺ secretion → the vignette's serum K⁺ of 3.1 mEq/L"
+   },
+   {
+    "n": "Lithium-induced vasopressin resistance (nephrogenic diabetes insipidus)",
+    "kind": "treats",
+    "why": "Mild contraction → RAAS, lower GFR, more proximal Na⁺/H₂O reabsorption → less filtrate reaches the ADH-deaf collecting duct → urine output falls by up to 30-50%"
+   },
+   {
+    "n": "Nephrolithiasis from idiopathic hypercalciuria",
+    "kind": "treats",
+    "why": "Lower urinary Ca²⁺ cuts the supersaturation of calcium oxalate and calcium phosphate in the urine, so fewer crystals form and stones recur less"
+   },
+   {
+    "n": "Acute gout attack",
+    "kind": "causes",
+    "why": "Hypovolemia enhances uric acid reabsorption and thiazides reduce its secretion via URAT1 (an OAT) → urate climbs and can exacerbate an attack"
+   },
+   {
+    "n": "Hepatic encephalopathy in cirrhosis",
+    "kind": "causes",
+    "why": "Hypokalemia raises ammonia via increased proximal glutamine uptake and upregulated ammoniagenic enzymes - part of why spironolactone, which spares K⁺, is the ascites drug of choice"
+   },
+   {
+    "n": "Gitelman syndrome",
+    "kind": "mimics",
+    "why": "Defective distal tubule Na⁺ reabsorption reproduces the drug: RAAS activation with metabolic alkalosis, hypokalemia with cramps, low urinary calcium"
+   }
+  ],
+  "contrast": [
+   "Hyponatremia is the thiazide's disease, not the loop's. Thiazides impair diluting ability but not concentrating ability - the medullary gradient is untouched, ADH still inserts AQP2, so retained water dilutes serum Na⁺, and the lecture's summary calls thiazides the highest risk / major cause of diuretic-induced hyponatremia. Loop diuretics collapse the medullary gradient and impair BOTH concentrating and diluting ability, so their risk of hyponatremia is lower",
+   "Calcium is the opposite in the two classes. Loops eliminate the transepithelial potential in the TAL, so Ca²⁺ and Mg²⁺ are excreted → a loop is the adjunct for hypercalcemia after IV hydration. Thiazides lower intracellular Na⁺, speed basolateral NCX1, and the resulting low intracellular Ca²⁺ pulls filtered Ca²⁺ in via TRPV5 → urinary Ca²⁺ falls, which is why thiazides (not loops) are the stone drug in idiopathic hypercalciuria",
+   "Ceiling of natriuresis follows the segment: loop diuretics block up to ~25% of filtered Na⁺ at NKCC2 in the TAL (Na⁺ '++++'), thiazides ~5-10% at NCC in the early DCT (Na⁺ '++'), and the K⁺-sparing agents only ~2-5% at the principal cell ('+'). Loop plus thiazide together is '+++++' - the synergy of sequential nephron blockade",
+   "Acid-base splits the lecture pair three ways: thiazides and loops both give hypokalemic metabolic alkalosis; carbonic anhydrase inhibitors give a hyperchloremic metabolic acidosis with heavy urinary HCO₃⁻ ('+++'); ENaC inhibitors and MR antagonists retain K⁺ and H⁺ and give a mild metabolic acidosis. Thiazides lose only a slight amount of HCO₃⁻ ('+')",
+   "Lithium separates the classes twice over. Thiazides significantly reduce Li⁺ clearance and raise levels (loops carry a lower risk but still need monitoring), yet a thiazide is also part of the treatment of lithium-induced vasopressin resistance. If the patient must stay on lithium, amiloride is the partner drug - it blocks Li⁺ entry into the principal cell through ENaC, which is where Li⁺ accumulates and downregulates AQP2; the thiazide cannot do that, it only shifts reabsorption proximally",
+   "Liddle syndrome is where the lecture pair puts the ENaC inhibitor, not the thiazide: a gain-of-function mutation multiplies ENaC channels, and every Liddle-specific slide and the transcript prescribe amiloride or triamterene plus sodium restriction for the resulting hypertension and hypokalemia. Know the deck's internal inconsistency here - L31's thiazide key-points slide also lists Liddle syndrome among thiazide uses, but no thiazide slide gives a mechanism for it, and a thiazide acts one segment upstream at NCC, feeding more Na⁺ to the overactive channel"
+  ],
+  "genetic": "Gitelman syndrome - defective sodium reabsorption in the distal tubule, described in the Renal Slide Book as similar to giving a thiazide diuretic. It presents in childhood with polyuria, polydipsia or nocturia, RAAS activation producing metabolic alkalosis, hypokalemia with muscle cramps, and LOW urinary calcium because the distal tubule cannot secrete Ca²⁺. Its counterpart is Bartter syndrome - defective Na⁺ reabsorption in the thick ascending limb, the loop diuretic phenocopy, with the same polyuria, hypokalemia and metabolic alkalosis but HIGH urinary calcium because the TAL cannot absorb Ca²⁺",
+  "hook": "Thiazides break dilution but not concentration - that one asymmetry is the whole exam. NCC blockade leaves solute in the water-impermeable diluting segment (TAL + early DCT) so free water cannot be excreted, while the medullary gradient stays intact and ADH keeps inserting AQP2, which is why the modest DCT drug, not the powerful loop, is the major cause of diuretic-induced hyponatremia. Second, Dr. Goldstein's most-repeated interaction - \"I'm bringing this up over and over and over. That is how important it is\" - NSAID plus thiazide: afferent constriction cuts renal blood flow, GFR and OAT delivery of drug to the DCT, adds Na⁺/water reabsorption upstream of NCC, and removes the prostaglandin brake on ADH so the hyponatremia worsens. Third, the paradox: you give a diuretic to treat polyuria in vasopressin resistance and urine output falls by up to 30-50%",
+  "shortName": "Thiazides",
+  "targetShort": "NCC",
+  "segLabel": "DCT",
+  "row": {
+   "ceil": "~5–10%",
+   "kd": "down",
+   "k": "falls",
+   "cad": "down",
+   "ca": "falls",
+   "ab": "Hypokalemic metabolic alkalosis",
+   "sig": "The major cause of diuretic-induced hyponatremia — dilution is impaired while concentrating ability is not; raises lithium levels; hypokalemia impairs insulin release → hyperglycemia"
+  }
+ },
+ "ksp": {
+  "id": "ksp",
+  "name": "Potassium-sparing diuretics: ENaC inhibitors and mineralocorticoid receptor antagonists (MRAs)",
+  "examples": "ENaC inhibitors: amiloride (starred - \"a very important drug, widely used\"), triamterene; MR antagonists (aldosterone antagonists): spironolactone (starred, \"the prototype\"), eplerenone, finerenone (nonsteroidal MRA approved for treatment of chronic kidney disease)",
+  "segId": "cd",
+  "targetName": "Two targets, one class: the luminal epithelial sodium channel (ENaC) of the principal cell for amiloride and triamterene, and the high-affinity mineralocorticoid receptor (MR) in the cytosol of the principal cell for spironolactone, eplerenone and finerenone - both at the aldosterone-sensitive sites (late DCT, connecting tubule, collecting ducts; the lecture's site table says cortical collecting duct principal cells)",
+  "targetSide": "both",
+  "mech": "ENaC inhibitors reduce the passive apical entry of Na⁺ by blocking the luminal epithelial Na⁺ channel, while MRAs are competitive antagonists of aldosterone that pass through the basolateral membrane to block the mineralocorticoid receptor in the cytosol - either route reduces Na⁺ reabsorption in the principal cell, abolishes the lumen-negative transepithelial potential, and removes the electrochemical gradient for K⁺ secretion.",
+  "delivery": "The two sub-mechanisms are delivered differently, and the lecture makes the difference the discriminating point. ENaC inhibitors act on the LUMINAL side, so the drug has to reach the tubular fluid: they are orally absorbed and moderately protein bound, with amiloride distributed to the nephron by glomerular filtration AND OCT (organic cation transporter) secretion, and triamterene by OCT secretion alone. MR antagonists never need the tubular fluid at all: they pass through the BASOLATERAL membrane and bind the MR in the cytosol, the way corticosteroids act at glucocorticoid receptors - which is also why eplerenone's duration (7-9 h) outlasts what its half-life predicts, \"because it acts inside the cell on the mineralocorticoid receptor.\" What blunts delivery: the lecture's NSAID summary states that NSAIDs worsen renal hemodynamics and reduce diuretic delivery - afferent arteriolar constriction lowers renal blood flow and GFR - and for the K⁺-sparing agents specifically the fall in GFR reduces K⁺ excretion, adding to the drug's own K⁺ retention. Renal impairment does the same and is a named hyperkalemia risk factor.",
+  "potency": "Ceiling ~2-5% of the filtered Na⁺ load - the lecture's own definition of a weak diuretic: \"Approximately 2-5% of sodium excretion occurs in the principal cells. Therefore, ENaC inhibitors and MR antagonists block only a small fraction of the total sodium, thus water, reabsorption by the kidneys.\" One modifier applies only to the MRAs: \"the higher the patient's aldosterone level, the greater the effects of MR antagonists on urinary excretion of electrolytes\" - where aldosterone is not activating the receptor, the antagonist does much less.",
+  "lumenFx": "Na⁺ stays; lumen-negative potential gone, so K⁺ is not secreted",
+  "interFx": "K⁺ and H⁺ retained; Na⁺ loss capped at ~2-5% of filtered load",
+  "moa": {
+   "bind": "Amiloride and triamterene are distributed to the nephron by the organic cation transporter (OCT) - amiloride also by glomerular filtration - and block the renal epithelial Na⁺ channel (ENaC) from the LUMINAL side of the principal cell; amiloride's long duration (~24 h) is related to high potency and slow dissociation from ENaC, not to its 6-9 h half-life. Spironolactone, eplerenone and finerenone are competitive antagonists of aldosterone at the mineralocorticoid receptor; spironolactone is a corticosteroid whose structure the lecture puts side by side with aldosterone to show the similarity. They reach the receptor by passing through the BASOLATERAL membrane to the high-affinity MR sitting in the cytosol, the same way corticosteroids act at glucocorticoid receptors - they never touch the channel. Cortisol also activates the MR, but 11-β-hydroxysteroid dehydrogenase type 2 shifts it to inactive cortisone, which allows MR activation by aldosterone only.",
+   "consequence": "ENaC block blunts Na⁺ reabsorption: intracellular Na⁺ concentration and Na⁺/K⁺-ATPase function fall, the lumen-negative voltage gradient is neutralized, and the electrical gradient for K⁺ secretion through ROMK is lost. MR block prevents the receptor complex from translocating to the nucleus and binding the response elements that drive transcription of the aldosterone-induced proteins - so no upregulation of ENaC, no upregulation of Na⁺/K⁺-ATPase, no increased ROMK activity, and no aldosterone-driven H⁺ secretion from the type A intercalated cells. In addition, SGK is no longer activated to phosphorylate and inactivate Nedd4-2, so this ubiquitin ligase stays free to target existing ENaC for endocytosis and degradation. The net effect of MR blockade is the opposite of aldosterone's: excretion of Na⁺ and water, retention of K⁺ and H⁺.",
+   "pk": "ENaC inhibitors - orally absorbed, moderately protein bound, minimally metabolized (amiloride) or hepatically metabolized (triamterene), renally excreted, half-lives long enough for once- or twice-daily dosing. Amiloride: bioavailability 30-90%, nephron distribution by glomerular filtration plus OCT secretion, ONSET of diuresis 2 h, DURATION ~24 h (1x daily), eliminated as unchanged drug in urine with the unabsorbed fraction in feces, t1/2 6-9 h. Triamterene: bioavailability 30-70%, nephron distribution by OCT secretion, onset 2-4 h, duration ~7-9 h (2x daily), hepatic metabolism to an active metabolite, renal excretion of drug and metabolite; the lecture does not list the parent t1/2 and says only that the active metabolite's t1/2 is considerably longer. MRAs - well absorbed, highly protein bound, hepatic metabolism, renal and biliary excretion. Spironolactone: protein binding >90%, bioavailability ~90% with a high-fat meal, rapid extensive hepatic metabolism to the ACTIVE metabolites canrenone (most potent) and 7-α-thiomethylspironolactone, with enterohepatic circulation; parent t1/2 only 1-2 h but canrenone 10-23 h and 7-α-thiomethylspironolactone 7-20 h, Tmax 3-4 h (active metabolite), and DURATION 2-3 DAYS, to which enterohepatic circulation contributes. Eplerenone: protein binding 50% (alpha1-acid glycoprotein), bioavailability 70%, hepatic CYP3A4 metabolism to INACTIVE metabolites, t1/2 3-6 h, Tmax ~1.5 h, duration still 7-9 h because it acts on an intracellular receptor. That CYP3A4 dependence changes management: grapefruit juice alone raises eplerenone AUC ~25%, and the manufacturer recommendation is to avoid strong CYP3A4 inhibitors and inducers with eplerenone (and finerenone).",
+   "why": "Block Na⁺ reabsorption in the principal cell - by plugging the channel from the lumen or by switching off the gene program that builds and activates it from the cytosol - and the lumen-negative potential that drives K⁺ (and H⁺) out is abolished, so a weak natriuresis of only 2-5% comes packaged with K⁺ and H⁺ retention."
+  },
+  "cascade": [
+   {
+    "zone": "cell",
+    "text": "Amiloride and triamterene plug ENaC from the luminal side; MRAs pass through the basolateral membrane to the cytosolic mineralocorticoid receptor"
+   },
+   {
+    "zone": "cell",
+    "text": "MR block stops transcription of the aldosterone-induced proteins → no upregulation of ENaC, no upregulation of Na⁺/K⁺-ATPase, no increased ROMK"
+   },
+   {
+    "zone": "cell",
+    "text": "SGK is no longer activated to phosphorylate Nedd4-2 → the ubiquitin ligase stays free to target existing ENaC for endocytosis and degradation"
+   },
+   {
+    "zone": "lumen",
+    "text": "Either route blunts passive apical Na⁺ entry → Na⁺ stays in the tubular fluid; intracellular Na⁺ concentration and Na⁺/K⁺-ATPase function fall"
+   },
+   {
+    "zone": "segment",
+    "text": "Inward Na⁺ diffusion through ENaC was what left the lumen negative → the lumen-negative transepithelial potential is neutralized"
+   },
+   {
+    "zone": "segment",
+    "text": "No lumen-negative gradient → the electrochemical gradient driving K⁺ out through ROMK is lost, so K⁺ is not secreted"
+   },
+   {
+    "zone": "body",
+    "text": "K⁺ is retained instead of excreted - this IS the potassium-sparing effect → K⁺ accumulates in the blood, dose-dependently, toward hyperkalemia"
+   },
+   {
+    "zone": "segment",
+    "text": "MR block also removes aldosterone's drive for H⁺ secretion by the type A intercalated cells, and the lost voltage removes the electrical drive"
+   },
+   {
+    "zone": "body",
+    "text": "H⁺ is retained alongside the K⁺ → mild metabolic acidosis with only slight urinary HCO₃⁻ - the mirror of the thiazide's hypokalemic alkalosis"
+   },
+   {
+    "zone": "segment",
+    "text": "Only ~2-5% of filtered Na⁺ is reabsorbed in the principal cells → natriuresis and diuresis stay small: these are the weak diuretics"
+   },
+   {
+    "zone": "body",
+    "text": "So they are paired with a thiazide or loop: added diuretic effect while offsetting its K⁺ wasting; MRA effect scales with the aldosterone level"
+   }
+  ],
+  "serum": [
+   {
+    "k": "Serum K⁺",
+    "d": "up",
+    "why": "Lumen-negative potential abolished → electrochemical gradient for ROMK secretion lost, K⁺ retained; hyperkalemia is the class-defining hazard"
+   },
+   {
+    "k": "Body pH (arterial pH)",
+    "d": "down",
+    "why": "MR block removes aldosterone's drive for H⁺ secretion and the lost voltage removes the electrical drive → H⁺ retained → mild metabolic acidosis"
+   },
+   {
+    "k": "Serum HCO₃⁻",
+    "d": "down",
+    "why": "Retained H⁺ titrates HCO₃⁻; the lecture's table scores urinary HCO₃⁻ only slight, so the acidosis stays mild (slide book: type IV RTA HCO₃⁻ >17)"
+   },
+   {
+    "k": "Serum Na⁺",
+    "d": "none",
+    "why": "Only ~2-5% of filtered Na⁺ is blocked → natriuresis is small; hyponatremia belongs to the thiazides in the lecture's pattern list, not here"
+   },
+   {
+    "k": "Serum creatinine",
+    "d": "up",
+    "why": "Falling GFR raises creatinine; the lecture's naproxen case - thiazide + NSAID + spironolactone - shows rising creatinine with AKI risk"
+   },
+   {
+    "k": "Estradiol : testosterone balance (spironolactone)",
+    "d": "up",
+    "why": "Androgen receptor antagonism plus interference with testosterone biosynthesis shifts the estradiol/testosterone balance toward estradiol"
+   },
+   {
+    "k": "Reported serum digoxin level (spironolactone)",
+    "d": "var",
+    "why": "Spironolactone interferes with assays for detecting serum digoxin → false results; the reported number cannot be taken at face value"
+   },
+   {
+    "k": "Serum Li⁺ (amiloride co-therapy)",
+    "d": "var",
+    "why": "Amiloride prevents ENaC-mediated Li⁺ entry into principal cells, but the co-prescribed thiazide raises plasma Li⁺: monitor lithium levels carefully"
+   }
+  ],
+  "urine": [
+   {
+    "k": "Urine K⁺",
+    "d": "down",
+    "why": "K⁺ is retained rather than secreted - the lecture's summary table marks K⁺ as (retained) for this class alone among all the diuretic classes"
+   },
+   {
+    "k": "Urine Na⁺",
+    "d": "up",
+    "why": "Blocking ENaC or MR increases Na⁺ excretion followed by water, but the table scores it only + because ~2-5% of the filtered load is available here"
+   },
+   {
+    "k": "Urine H⁺",
+    "d": "down",
+    "why": "Loss of aldosterone-driven H⁺ secretion from the type A intercalated cells plus the neutralized lumen-negative voltage → H⁺ retained, not excreted"
+   },
+   {
+    "k": "Urine HCO₃⁻",
+    "d": "up",
+    "why": "Slight only - the lecture's table scores K⁺-sparing HCO₃⁻ as slight, which is why the acidosis is mild, unlike the CA inhibitor's +++ bicarbonaturia"
+   },
+   {
+    "k": "Urine pH",
+    "d": "var",
+    "why": "Reduced distal H⁺ secretion tends to raise it, but as a type IV RTA cause the slide book teaches low urinary pH (<5.3) from lost NH₄⁺ buffering"
+   },
+   {
+    "k": "Urine volume",
+    "d": "up",
+    "why": "Natriuresis is followed by water, but only mildly - weak diuresis, which is why these are given as adjuncts, not as primary volume-removing agents"
+   },
+   {
+    "k": "Urine Ca²⁺",
+    "d": "none",
+    "why": "The lecture's K⁺-sparing electrolyte pattern lists only K⁺ and H⁺ changes; Ca²⁺ belongs to the loops (increased loss) and thiazides (retained)"
+   }
+  ],
+  "uses": [
+   {
+    "n": "Hypertension - ENaC inhibitor or MRA combined with a thiazide diuretic",
+    "why": "The two reasons the lecture gives together: counteract the potassium-wasting effect of the thiazide, and add diuretic effect because these agents still block Na⁺ reabsorption distal to NCC"
+   },
+   {
+    "n": "Edema - combined with a potassium-wasting diuretic",
+    "why": "Given as adjuncts: the potassium-sparing effect blunts the loop's or thiazide's K⁺ loss while adding a small extra diuretic effect"
+   },
+   {
+    "n": "Lithium-induced vasopressin resistance (nephrogenic diabetes insipidus) in patients who must continue lithium - ENaC inhibitor, amiloride",
+    "why": "Lithium enters principal cells via ENaC and is not pumped out; accumulation causes principal cell apoptosis, AQP2 downregulation and collecting duct remodeling, so the duct is water-impermeable despite ADH. Amiloride prevents Li⁺ entry - the root of it; the thiazide is added for mild ECF contraction that raises proximal Na⁺/water reabsorption and lowers distal delivery, reducing polyuria. Monitor lithium levels carefully"
+   },
+   {
+    "n": "Liddle syndrome (pseudoaldosteronism) - ENaC inhibitor plus sodium restriction",
+    "why": "Gain-of-function mutation of the genes that regulate ENaC gives unregulated Na⁺ reabsorption, which drives K⁺ and H⁺ secretion; blocking the channel itself manages the hypertension and hypokalemia caused by the disorder, and there is no aldosterone signal to block since renin and aldosterone are suppressed"
+   },
+   {
+    "n": "Primary aldosteronism, idiopathic (bilateral) adrenal hyperplasia - MR antagonist",
+    "why": "The drug blocks the receptor the excess aldosterone acts on. Stated goals of therapy: raise serum K⁺ to the high-normal range, normalize blood pressure, and reverse the effects of hyperaldosteronism on heart and kidneys"
+   },
+   {
+    "n": "Ascites of liver cirrhosis - spironolactone is the first-line drug of choice, often given with furosemide (furosemide is not used alone)",
+    "why": "Two limbs, both examinable: portal hypertension raises hydrostatic pressure → transudation into the peritoneal cavity; and splanchnic vasodilation (nitric oxide) drops systemic vascular resistance → effective circulating volume falls → SNS, RAAS and vasopressin all activate. The patient is in a state of hyperaldosteronism, so the MRA answers the actual driver. It is long-acting and does not cause hypokalemia, which matters because hypokalemia raises ammonia by increasing proximal tubule uptake of glutamine and upregulating the ammonia-producing enzymes"
+   },
+   {
+    "n": "Heart failure, HFrEF and HFpEF, in patients receiving optimal therapy and at low risk for hyperkalemia",
+    "why": "MR is overexpressed in nonepithelial tissues such as blood vessels and heart, where it contributes to inflammation, myocardial remodeling and fibrosis on top of distal Na⁺ retention and K⁺ loss; well-designed randomized trials support adding spironolactone to standard therapy to improve outcomes"
+   },
+   {
+    "n": "Acne and hirsutism in females, and treatment of transgender women - spironolactone",
+    "why": "Antiandrogenic effect: spironolactone blocks androgen receptors and inhibits testosterone biosynthesis, shifting the estrogen/testosterone balance toward estrogen"
+   },
+   {
+    "n": "Chronic kidney disease - finerenone",
+    "why": "Finerenone is the nonsteroidal MRA approved for treatment of chronic kidney disease; being MR-selective it delivers the MR blockade without the androgen-receptor effects"
+   }
+  ],
+  "adverse": [
+   {
+    "n": "Hyperkalemia - the class effect, and the reason K⁺-sparing diuretics are contraindicated in patients with hyperkalemia or at increased risk of developing it",
+    "why": "Blocking Na⁺ reabsorption in the principal cells abolishes the transepithelial potential difference, removing the electrochemical gradient for K⁺ secretion via ROMK, so K⁺ is retained. Dose-dependent: the lecture's named risk factors are older age, high-dose ENaC inhibitor therapy (the lecturer adds MRA therapy as well), renal impairment, hypoaldosteronism, and combination with other drugs that impair renal K⁺ excretion",
+    "sev": "serious"
+   },
+   {
+    "n": "Mild metabolic acidosis from H⁺ retention",
+    "why": "MR blockade removes aldosterone's stimulation of H⁺ secretion by the type A intercalated cells and the neutralized lumen-negative voltage removes the electrical drive, so H⁺ is retained along with K⁺ - the mirror of the thiazide's hypokalemic metabolic alkalosis. The lecture's table scores urinary HCO₃⁻ as only slight, so the acidosis stays mild",
+    "sev": "common"
+   },
+   {
+    "n": "Gynecomastia, impotence, loss of libido and feminizing effects - spironolactone only",
+    "why": "Spironolactone is an androgen receptor antagonist and also interferes with testosterone biosynthesis, shifting the estradiol/testosterone balance toward estradiol. Eplerenone is more selective for MRs and finerenone is MR selective, so neither causes gynecomastia, impotence or loss of libido - the usual reason to switch",
+    "sev": "common"
+   },
+   {
+    "n": "Inadequate diuresis when used alone - these are weak diuretics by design",
+    "why": "Approximately 2-5% of sodium excretion occurs in the principal cells, so blocking ENaC or MR removes only a small fraction of total Na⁺, thus water, reabsorption - which is why the lecture presents them as adjuncts to a potassium-wasting diuretic rather than as standalone volume-removing agents",
+    "sev": "common"
+   },
+   {
+    "n": "Additive hyperkalemia with RAS inhibitors, NSAIDs, K⁺ supplements and calcineurin inhibitors",
+    "why": "ACE inhibitors, ARBs and direct renin inhibitors reduce aldosterone secretion, which increases K⁺ retention; NSAIDs suppress PG-dependent renin release, lowering angiotensin II-mediated aldosterone secretion and therefore K⁺ excretion; K⁺ supplements add the load directly; calcineurin inhibitors (cyclosporine, tacrolimus) are additively hyperkalemic - separate routes converging on retained K⁺",
+    "sev": "serious"
+   },
+   {
+    "n": "Falling GFR with rising creatinine and AKI risk - the thiazide + NSAID + spironolactone triple hit",
+    "why": "The thiazide reduces effective circulating volume, lowering renal perfusion pressure so GFR becomes prostaglandin-dependent; the NSAID blocks renal prostaglandin synthesis, causing afferent arteriolar constriction with falling renal blood flow and GFR; and spironolactone plus the NSAID both cut K⁺ secretion. The lecture's case: K⁺ 5.8 mEq/L with rising creatinine on over-the-counter naproxen",
+    "sev": "serious"
+   },
+   {
+    "n": "CYP3A4-mediated interactions with eplerenone and finerenone",
+    "why": "Eplerenone is cleared by hepatic CYP3A4 to inactive metabolites, so inhibition raises exposure - grapefruit juice alone increases eplerenone AUC ~25%; the manufacturer recommendation is to avoid strong CYP3A4 inhibitors and inducers with eplerenone and finerenone",
+    "sev": "serious"
+   },
+   {
+    "n": "False serum digoxin levels with spironolactone",
+    "why": "Spironolactone interferes with the laboratory assays used to detect serum digoxin, producing false results - a monitoring hazard rather than a pharmacodynamic one, so the reported concentration cannot be trusted while the patient is on the drug",
+    "sev": "niche"
+   },
+   {
+    "n": "Amenorrhea in women - spironolactone (renal slide book)",
+    "why": "The slide book adds that spironolactone, a steroid structurally related to progesterone, activates progesterone receptors; the lecture itself teaches only the androgen-receptor and testosterone-biosynthesis effects",
+    "sev": "niche"
+   }
+  ],
+  "correlates": [
+   {
+    "n": "Liddle syndrome (pseudoaldosteronism)",
+    "kind": "treats",
+    "why": "Rare autosomal dominant gain-of-function mutation of the genes that regulate ENaC (C-terminal beta or gamma subunit) → unregulated Na⁺ reabsorption with K⁺ and H⁺ secretion; ENaC inhibitor plus sodium restriction"
+   },
+   {
+    "n": "Lithium-induced vasopressin resistance (nephrogenic diabetes insipidus)",
+    "kind": "treats",
+    "why": "Li⁺ enters principal cells via ENaC and is not pumped out, accumulating and downregulating AQP2; ENaC block prevents entry, and an added thiazide cuts distal delivery and polyuria"
+   },
+   {
+    "n": "Primary aldosteronism / idiopathic bilateral adrenal hyperplasia",
+    "kind": "treats",
+    "why": "MRA blocks the receptor the excess aldosterone acts on - raising serum K⁺ to high-normal, normalizing BP, and reversing hyperaldosteronism's effects on heart and kidneys"
+   },
+   {
+    "n": "Ascites of hepatic cirrhosis",
+    "kind": "treats",
+    "why": "Splanchnic vasodilation and low effective arterial volume drive RAAS activation and hyperaldosteronism; spironolactone is first-line, often with furosemide, and avoids the ammonia-raising effect of hypokalemia"
+   },
+   {
+    "n": "Heart failure with reduced or preserved ejection fraction",
+    "kind": "treats",
+    "why": "MR overexpression in blood vessels and heart drives inflammation, myocardial remodeling and fibrosis beyond the distal Na⁺/K⁺ effect; trial evidence supports spironolactone added to standard therapy"
+   },
+   {
+    "n": "Thiazide-induced hypokalemia",
+    "kind": "treats",
+    "why": "The thiazide raises distal Na⁺ delivery, so aldosterone-upregulated ENaC reabsorbs more Na⁺, enhances the lumen-negative potential and drives K⁺ out; removing that potential cancels the wasting"
+   },
+   {
+    "n": "Syndrome of apparent mineralocorticoid excess (SAME)",
+    "kind": "treats",
+    "why": "11-β-HSD type 2 deficiency lets cortisol activate the MR; the slide book treats it with potassium-sparing diuretics (amiloride, spironolactone) - the lecture's cortisol/11-β-HSD point made clinical"
+   },
+   {
+    "n": "Type IV renal tubular acidosis (hyperkalemia with non-anion-gap metabolic acidosis)",
+    "kind": "causes",
+    "why": "Aldosterone resistance at the distal tubule; the slide book names potassium-sparing diuretics as a cause, with decreased K⁺ excretion, decreased NH₄⁺ excretion and loss of urinary buffering"
+   },
+   {
+    "n": "Gynecomastia, impotence and loss of libido",
+    "kind": "causes",
+    "why": "Spironolactone antagonizes androgen receptors and interferes with testosterone biosynthesis, shifting the estradiol/testosterone balance toward estradiol; absent with eplerenone and finerenone"
+   },
+   {
+    "n": "Addison disease (adrenal insufficiency)",
+    "kind": "mimics",
+    "why": "The slide book groups spironolactone with Addison disease as causes of non-anion-gap metabolic acidosis - MR blockade reproduces the loss of aldosterone effects, so H⁺ cannot be excreted effectively"
+   },
+   {
+    "n": "Licorice ingestion (glycyrrhetinic acid)",
+    "kind": "mimics",
+    "why": "The slide book's mirror image of this class: licorice inhibits renal 11-β-HSD so cortisol activates the MR, giving hypertension, hypokalemia and alkalosis with a low plasma aldosterone level"
+   },
+   {
+    "n": "NSAIDs (naproxen, ibuprofen) with a thiazide and an MRA",
+    "kind": "interacts",
+    "why": "NSAIDs block PG-mediated afferent dilation → afferent constriction, falling RBF and GFR → rising creatinine and AKI risk, while inhibited renin release lowers aldosterone-mediated K⁺ secretion → severe hyperkalemia"
+   },
+   {
+    "n": "ACE inhibitors, ARBs and direct renin inhibitors",
+    "kind": "interacts",
+    "why": "RAS inhibitors reduce aldosterone secretion, which increases K⁺ retention on top of a drug already abolishing the gradient for K⁺ secretion - additive hyperkalemia"
+   },
+   {
+    "n": "Calcineurin inhibitors (cyclosporine, tacrolimus) and K⁺ supplements",
+    "kind": "interacts",
+    "why": "Named in the lecture as additively hyperkalemic; basically anything that increases serum potassium is contraindicated with an ENaC inhibitor or MRA"
+   },
+   {
+    "n": "Grapefruit juice and strong CYP3A4 inhibitors with eplerenone or finerenone",
+    "kind": "interacts",
+    "why": "Eplerenone is metabolized by hepatic CYP3A4; grapefruit juice raises its AUC ~25%, and the manufacturer recommendation is to avoid strong CYP3A4 inhibitors and inducers with eplerenone and finerenone"
+   },
+   {
+    "n": "Serum digoxin immunoassay with spironolactone",
+    "kind": "interacts",
+    "why": "Spironolactone interferes with assays that detect serum digoxin, producing false results - the reported level cannot be trusted while the patient is on the drug"
+   }
+  ],
+  "contrast": [
+   "Versus thiazides, the other class in this same lecture: the thiazide blocks NCC in the DCT where ~5-10% of Na⁺ is reabsorbed and gives potassium WASTING with hypokalemic metabolic alkalosis, hyponatremia (the lecture calls thiazides the major cause of diuretic-induced hyponatremia), retained Ca²⁺, and increased glucose, lipids and uric acid. K⁺-sparing agents act on the ~2-5% of filtered Na⁺ downstream in the principal cell and do the opposite: K⁺ retained, H⁺ retained, mild metabolic ACIDOSIS. That mirror symmetry is why they are combined - the pairing counteracts the thiazide's K⁺ wasting and adds diuretic effect distal to NCC.",
+   "The two sub-mechanisms inside this class differ by SIDE, not just by target: ENaC inhibitors block Na⁺ reabsorption through the LUMINAL epithelial sodium channels and are distributed to the nephron by OCT secretion (amiloride also by filtration), whereas MR antagonists pass through the BASOLATERAL membrane to the cytosolic MR, translocate to the nucleus and stop transcription. That is why only the ENaC inhibitor can also block Li⁺ entry into the principal cell, and why the ENaC inhibitor is the agent in Liddle syndrome, where renin and aldosterone are already suppressed and there is no aldosterone signal to antagonize.",
+   "The MRA's effect size is aldosterone-dependent, the ENaC inhibitor's is not: \"the higher the patient's aldosterone level, the greater the effects of MR antagonists on urinary excretion of electrolytes.\" If aldosterone is not activating the receptor, the antagonist does much less - which is exactly why spironolactone is first-line in cirrhotic ascites and in primary aldosteronism (both hyperaldosterone states), and why an ENaC inhibitor is the choice in Liddle syndrome, where aldosterone is low.",
+   "Versus loop diuretics from the lecture's site-of-action summary: loops block NKCC2 in the TAL, are the most potent class with rapid volume removal, disrupt the medullary gradient and impair both concentrating and diluting ability, waste K⁺, Mg²⁺ and Ca²⁺, cause metabolic alkalosis, and are the class with diuretic-resistance potential. K⁺-sparing agents give weak natriuresis, prevent K⁺ and H⁺ loss, and leave the medullary gradient untouched - which is why furosemide is not used alone in cirrhotic ascites but is paired with spironolactone.",
+   "Versus carbonic anhydrase inhibitors: both give a metabolic ACIDOSIS, so the potassium column separates them. Acetazolamide's acidosis comes with marked urinary HCO₃⁻ loss (+++) and increased K⁺ excretion; K⁺-sparing acidosis comes with only slight urinary HCO₃⁻ change and K⁺ RETENTION - hyperkalemia. Same acid-base column in the lecture's summary table, opposite potassium column."
+  ],
+  "genetic": "Liddle syndrome (pseudoaldosteronism) is the inherited ENaC disorder both the lecture and the renal slide book raise - but it is the MIRROR of this drug class, not its phenocopy: a rare autosomal dominant GAIN-of-function mutation of the genes that regulate ENaC, affecting the C-terminal portion of the beta or gamma subunit, giving more ENaC expression and unregulated Na⁺ reabsorption. More Na⁺ through ENaC creates a deeper lumen-negative potential and therefore more K⁺ and H⁺ secretion, so the patient is a young hypertensive with hypokalemia and metabolic alkalosis, and plasma renin and aldosterone are SUPPRESSED by the Na⁺ and fluid retention. Because the lesion is the channel itself and there is no aldosterone signal to block, treatment is an ENaC inhibitor (amiloride) plus sodium restriction - the sub-mechanism split of this class made clinical. The slide book adds two low-aldosterone lookalikes in the same differential: syndrome of apparent mineralocorticoid excess (11-β-HSD type 2 deficiency, so cortisol activates the MR), treated with a potassium-sparing diuretic - amiloride or spironolactone - or dexamethasone; and licorice ingestion, whose glycyrrhetinic acid inhibits the same enzyme.",
+  "hook": "\"It needs a lumen-negative gradient for potassium to be secreted - so that's gone, so potassium is not secreted.\" That one sentence is the whole class. Two doors into the same principal cell: amiloride (starred - \"a very important drug, widely used\") and triamterene plug ENaC from the LUMEN and are distributed there by OCT secretion; spironolactone (starred, the prototype), eplerenone and finerenone pass through the BASOLATERAL membrane to the cytosolic MR and shut off transcription. Either way: no Na⁺ in → no lumen-negative potential → no K⁺ out through ROMK, and no H⁺ out either. So K⁺ and H⁺ are retained together: hyperkalemia plus mild metabolic acidosis, the exact opposite of the thiazide's hypokalemic alkalosis, on a ceiling of only 2-5% of filtered Na⁺ (weak diuretics - always adjuncts). Two more lecture flags: the MRA works only as hard as the aldosterone it is opposing, and spironolactone is the dirty steroid (gynecomastia, impotence, loss of libido) while eplerenone and finerenone are clean.",
+  "shortName": "K⁺-sparing diuretics",
+  "targetShort": "ENaC pore / MR",
+  "segLabel": "Collecting duct",
+  "row": {
+   "ceil": "~2–5%",
+   "kd": "up",
+   "k": "rises",
+   "cad": "none",
+   "ca": "not taught",
+   "ab": "Mild metabolic acidosis — H⁺ is retained",
+   "sig": "Hyperkalemia, especially with ACE inhibitors or ARBs; spironolactone’s antiandrogen effects; ENaC inhibitors reach the lumen by OCT secretion while the MRAs need no secretion at all"
+  }
+ }
+};
+
+/* Which entry in DRUGS a modulator belongs to. Keyed on the modulator's display
+   name so the ~20 existing D()/DB() call sites do not each need editing. */
+var DRUG_CLASS_OF = {
+  'Acetazolamide':'ca',
+  'Mannitol':'osm',
+  'Loop diuretics':'loop',
+  'Thiazides':'thz',
+  'Thiazides (chronic)':'thz',
+  'Amiloride':'ksp',
+  'Triamterene':'ksp',
+  'Spironolactone / eplerenone':'ksp'
+};
+
 (function attachFX(){
-  var i = 0, applied = 0;
+  var i = 0, applied = 0, inline = 0;
   SEGMENTS.forEach(function(seg){
     (seg.panels || []).forEach(function(p){
       [p.apical || [], p.baso || []].forEach(function(list){
         list.forEach(function(t){
           (t.mods || []).forEach(function(m){
+            /* Mods authored with DX/HX carry their own chain. They are skipped
+               WITHOUT advancing the counter, so a new modulator can be inserted
+               anywhere without renumbering the 67 index-keyed entries above. */
+            if (!m.cls && m.t === 'drug') m.cls = DRUG_CLASS_OF[m.n];
+            if (m.chain){ inline++; return; }
             var f = FX[i++];
             if (f){ m.chain = f.c; m.result = f.r; m.strength = f.s; applied++; }
           });
@@ -898,7 +2597,7 @@ var FX = {
       });
     });
   });
-  window.__fxStats = { seen: i, applied: applied };
+  window.__fxStats = { seen: i, applied: applied, inline: inline };
 })();
 
 /* ==========================================================================
@@ -913,23 +2612,34 @@ function ionVar(ion){ return 'var(' + (ION_COLOR[ion] || '--other') + ')'; }
 /* the gene line is noise when it just repeats the transporter name (TRPV5, AQP2 …) */
 function geneOf(t){ return (t.gene && t.gene !== '—' && t.gene !== t.name) ? t.gene : ''; }
 
-/* piecewise arrow with a solid head */
-function arrow(x1, x2, y, color){
+/* piecewise arrow with a solid head.
+   o = {w:stroke width, op:opacity, dash:true}  — the drug state is carried by the
+   arrow itself, so a blocked flux LOOKS blocked even with the animation paused. */
+function arrow(x1, x2, y, color, o){
+  o = o || {};
   var dir = x2 > x1 ? 1 : -1;
   var tip = x2, tail = x1;
+  var w  = o.w  || 1.7;
+  var op = (o.op == null) ? 1 : o.op;
   var head = 'M' + tip + ',' + y + ' L' + (tip - 7*dir) + ',' + (y - 4.2) +
              ' L' + (tip - 7*dir) + ',' + (y + 4.2) + ' Z';
   return '<line x1="' + tail + '" y1="' + y + '" x2="' + (tip - 5*dir) + '" y2="' + y +
-         '" stroke="' + color + '" stroke-width="1.7" />' +
-         '<path d="' + head + '" fill="' + color + '" />';
+         '" stroke="' + color + '" stroke-width="' + w + '" opacity="' + op + '"' +
+         (o.dash ? ' stroke-dasharray="6 6"' : '') + ' />' +
+         '<path d="' + head + '" fill="' + color + '" opacity="' + op + '" />';
 }
 
-/* animated particles riding the arrow */
-function particles(x1, x2, y, ion){
+/* animated particles riding the arrow.
+   dur = seconds for one traverse (bigger = slower), n = how many are in flight.
+   Stimulated flux is fast and crowded, a damped flux is a slow trickle. */
+function particles(x1, x2, y, ion, dur, n){
   var c = ionVar(ion), out = '', dx = (x2 - x1);
-  for (var i = 0; i < 2; i++){
+  dur = dur || 3.1;
+  n   = (n == null) ? 2 : n;
+  for (var i = 0; i < n; i++){
     out += '<g transform="translate(' + x1 + ',' + y + ')">' +
-             '<g class="flow" style="--dx:' + dx + 'px; --dur:3.1s; --dl:' + (-1.55 * i) + 's">' +
+             '<g class="flow" style="--dx:' + dx + 'px; --dur:' + dur + 's; --dl:' +
+               (-(dur / n) * i).toFixed(2) + 's">' +
                '<circle r="5.2" fill="' + c + '" opacity="0.9" />' +
              '</g></g>';
   }
@@ -997,12 +2707,19 @@ function renderT(t, side, rowY, fx, dim){
 
   var h = Math.max(30, n*17 + 16);
   var halo = '', slash = '', badge = '';
-  if (fx){
+  var bx = side === 'apical' ? CELL_A + 14 : CELL_B - 14;
+  var ba = side === 'apical' ? 'start' : 'end';
+  if (fx && fx.dep){
+    /* a knock-on, not a target: the drug binds nowhere near this protein, so it
+       gets neither the halo nor the slash - only its flux goes quiet */
+    badge = '<text class="fxbadge" x="' + bx + '" y="' + (rowY + 19) + '" text-anchor="' + ba + '" fill="var(--faint)">' +
+            (blocked ? '↳ NO SUBSTRATE LEFT' : '↳ STARVED') + '</text>';
+  } else if (fx){
     var hc = fx.e === 'up' ? 'var(--up)' : 'var(--down)';
     halo = '<rect x="' + (memX - 40) + '" y="' + (rowY - h/2 - 10) + '" width="80" height="' + (h + 20) +
            '" rx="13" fill="' + hc + '" opacity="0.15" stroke="' + hc + '" stroke-width="1.8" />';
-    /* below the halo: above it would run into the membrane caption on row 0 */
-    badge = '<text class="fxbadge" x="' + memX + '" y="' + (rowY + h/2 + 20) + '" text-anchor="middle" fill="' + hc + '">' +
+    /* under the name inside the cell: below the icon it would land on the next row */
+    badge = '<text class="fxbadge" x="' + bx + '" y="' + (rowY + 19) + '" text-anchor="' + ba + '" fill="' + hc + '">' +
             (boosted ? '▲ MORE' : blocked ? '✕ BLOCKED' : '▼ LESS') + '</text>';
     if (blocked){
       slash = '<line x1="' + (memX - 27) + '" y1="' + (rowY + h/2 + 9) + '" x2="' + (memX + 27) + '" y2="' + (rowY - h/2 - 9) +
@@ -1045,10 +2762,131 @@ function agentTone(a){
   return up && dn ? 'mixed' : dn ? 'down' : 'up';
 }
 
+/* ---- the selected agent's drug class, and its downstream card ------------ */
+function agentClass(A){
+  if (!A || A.kind !== 'drug') return null;
+  for (var i = 0; i < A.targets.length; i++){
+    if (A.targets[i].mod.cls) return A.targets[i].mod.cls;
+  }
+  return null;
+}
+function drugOf(A){ var k = agentClass(A); return k ? DRUGS[k] : null; }
+
+var DIR_SYM = { up:'▲', down:'▼', none:'=', 'var':'↕' };
+function sigList(rows){
+  return (rows || []).map(function(r){
+    return '<div class="sigrow"><div class="sigd d-' + (r.d || 'none') + '">' +
+           (DIR_SYM[r.d] || '=') + '</div><div><div class="sigk">' + esc(r.k) + '</div>' +
+           '<div class="sigw">' + esc(r.why) + '</div></div></div>';
+  }).join('');
+}
+function dlist(items){
+  return '<ul class="dlist">' + items.map(function(u){
+    return typeof u === 'string' ? '<li>' + esc(u) + '</li>'
+         : '<li><b>' + esc(u.n) + '</b> &mdash; <span>' + esc(u.why) + '</span></li>';
+  }).join('') + '</ul>';
+}
+
+/* Everything the drug does AFTER the transporter it blocks — the part the cell
+   diagram cannot show, because it happens in later segments and in the blood. */
+function renderDrugCard(dc){
+  var h = '<div class="dcard"><div class="dhead">' +
+          '<div class="dn">' + esc(dc.name) + ' &mdash; the whole downstream story</div>' +
+          '<div class="dx">' + esc(dc.examples) + '</div></div><div class="dbody">';
+
+  h += '<div class="dmeta">' +
+       '<div><b>In one line</b>' + esc(dc.mech) + '</div>' +
+       '<div><b>How it reaches the target</b>' + esc(dc.delivery) + '</div>' +
+       '<div><b>Ceiling of natriuresis</b>' + esc(dc.potency) + '</div></div>';
+
+  if (dc.moa){
+    h += '<h3 class="subh">Mechanism of action</h3><div class="moa">' +
+         '<div><b>What it binds</b>' + esc(dc.moa.bind) + '</div>' +
+         '<div><b>What that does to the protein</b>' + esc(dc.moa.consequence) + '</div>' +
+         '<div><b>Pharmacokinetics that change management</b>' + esc(dc.moa.pk) + '</div>' +
+         '<div class="wide"><b>Therefore</b>' + esc(dc.moa.why) + '</div></div>';
+  }
+
+  h += '<h3 class="subh">From the protein to the patient</h3><div class="casc">';
+  (dc.cascade || []).forEach(function(s){
+    h += '<div class="cstep"><div class="czone">' + esc(s.zone) + '</div>' +
+         '<div class="crail"><i class="cdot z-' + esc(s.zone) + '"></i></div>' +
+         '<div class="ctext">' + esc(s.text) + '</div></div>';
+  });
+  h += '</div>';
+
+  h += '<div class="sig">' +
+       '<div><h3 class="subh" style="margin-top:10px">What the blood does</h3>' + sigList(dc.serum) + '</div>' +
+       '<div><h3 class="subh" style="margin-top:10px">What the urine does</h3>' + sigList(dc.urine) + '</div></div>';
+
+  h += '<div class="duo">' +
+       '<div><h3 class="subh">Why you would give it</h3>' + dlist(dc.uses) + '</div>' +
+       '<div><h3 class="subh">What goes wrong, and why</h3><ul class="dlist">' +
+       (dc.adverse || []).map(function(u){
+         return '<li><b>' + esc(u.n) + '</b>' +
+                (u.sev ? '<span class="sev sev-' + esc(u.sev) + '">' + esc(u.sev) + '</span>' : '') +
+                '<br /><span>' + esc(u.why) + '</span></li>';
+       }).join('') + '</ul></div></div>';
+
+  if (dc.correlates && dc.correlates.length){
+    h += '<h3 class="subh">Clinical correlates &mdash; the named conditions tied to this class</h3>' +
+         '<div class="tablewrap"><table class="grid"><thead><tr>' +
+         '<th style="width:88px">Relation</th><th style="width:220px">Condition</th>' +
+         '<th>The mechanistic link</th></tr></thead><tbody>';
+    /* grouped so "treats" reads first and "causes" sits with it for contrast;
+       any kind outside the list still gets printed rather than silently dropped */
+    var known = ['treats','causes','mimics','unmasks','interacts'];
+    var order = known.concat(dc.correlates.map(function(c){ return c.kind; })
+                              .filter(function(k){ return known.indexOf(k) < 0; }));
+    order.filter(function(k, i){ return order.indexOf(k) === i; }).forEach(function(kind){
+      dc.correlates.filter(function(c){ return c.kind === kind; }).forEach(function(c){
+        h += '<tr><td><span class="kind k-' + esc(kind) + '">' + esc(kind) + '</span></td>' +
+             '<td><b>' + esc(c.n) + '</b></td><td>' + esc(c.why) + '</td></tr>';
+      });
+    });
+    h += '</tbody></table></div>';
+  }
+
+  h += '<h3 class="subh">How it is told apart from the other classes</h3>' + dlist(dc.contrast);
+  if (dc.genetic) h += '<div class="callout"><span class="lbl">Genetic phenocopy</span>' + esc(dc.genetic) + '</div>';
+  if (dc.hook)    h += '<div class="callout"><span class="lbl">Hook</span>' + esc(dc.hook) + '</div>';
+  return h + '</div></div>';
+}
+
+/* What the selected agent does to the force the paracellular lane runs on.
+   Drivers are named, not indexed, so inserting a transporter row cannot silently
+   mis-wire this. `max` caps how far the lane can be pushed: abolishing the TAL's
+   voltage stops that route dead, whereas damping proximal solvent drag only
+   slows it. */
+function paraState(panel, A){
+  var pd = panel.paraDriver;
+  if (!A || !pd) return null;
+  var st = null;
+  var inv = pd.inverse || [];
+  A.targets.forEach(function(tg){
+    var direct = pd.by.indexOf(tg.t.name) >= 0;
+    var flipped = inv.indexOf(tg.t.name) >= 0;
+    if (!direct && !flipped) return;
+    /* a sensor that inhibits the drivers moves the lane the opposite way to itself */
+    var e = flipped ? (tg.mod.e === 'up' ? 'down' : tg.mod.e === 'down' ? 'up' : tg.mod.e) : tg.mod.e;
+    if (e === 'down'){
+      /* an inverted driver acts through a signalling cascade, never a clean block */
+      var full = !flipped && strengthOf(tg.mod) === 'full' && pd.max === 'full';
+      if (full) st = { e:'down', strength:'full' };
+      else if (!st || st.e !== 'down' || st.strength !== 'full') st = { e:'down', strength:'partial' };
+    } else if (e === 'up' && !st){
+      st = { e:'up', strength:'partial' };
+    }
+  });
+  return st;
+}
+
 function renderPanel(panel, pid, sel){
   var ap = panel.apical || [], ba = panel.baso || [], pa = panel.para || [];
   var agents = panelAgents(panel);
   var A = (sel >= 0 && sel < agents.length) ? agents[sel] : null;
+
+  var DC = drugOf(A);
 
   var rows = Math.max(ap.length, ba.length);
   var paraH = pa.length ? 80 : 14;
@@ -1056,13 +2894,36 @@ function renderPanel(panel, pid, sel){
   var cellTop = top + paraH;
   var firstRow = cellTop + 42;
   var cellBottom = firstRow + (rows - 1) * ROW_H + 42;
-  var H = cellBottom + 30;
+  /* a drug gets an extra strip under the cell for the two band state readouts */
+  var H = cellBottom + (DC ? 78 : 30);
 
   /* which rows the selected agent touches */
   var fxMap = {};
   if (A) A.targets.forEach(function(tg){
     fxMap[tg.side + ':' + tg.row] = { e:tg.mod.e, strength:strengthOf(tg.mod) };
   });
+
+  /* second pass: a transporter the drug never binds can still fall silent because
+     the one feeding it was blocked. Flagged dep:true so it is drawn as a knock-on
+     rather than as a target. */
+  var depNotes = [];
+  if (A){
+    [['apical', ap], ['baso', ba]].forEach(function(pair){
+      pair[1].forEach(function(t, i){
+        var key = pair[0] + ':' + i;
+        if (!t.dependsOn || fxMap[key]) return;
+        var hit = null;
+        A.targets.forEach(function(tg){
+          if (t.dependsOn.by.indexOf(tg.t.name) < 0 || tg.mod.e !== 'down') return;
+          if (!hit || strengthOf(tg.mod) === 'full') hit = { src:tg.t.name, s:strengthOf(tg.mod) };
+        });
+        if (hit){
+          fxMap[key] = { e:'down', strength:hit.s, dep:true };
+          depNotes.push({ t:t, side:pair[0], src:hit.src, why:t.dependsOn.why });
+        }
+      });
+    });
+  }
 
   var s = '<svg viewBox="0 0 ' + W + ' ' + H + '" role="img" aria-label="' + esc(panel.title) + '">';
 
@@ -1075,10 +2936,21 @@ function renderPanel(panel, pid, sel){
   s += '<text class="bandlbl i" x="' + (W - 14) + '" y="20" text-anchor="end">INTERSTITIUM</text>' +
        '<text class="bandsub i" x="' + (W - 14) + '" y="35" text-anchor="end">blood side — peritubular capillary</text>';
 
-  /* paracellular lane */
+  /* paracellular lane — it has no transporter of its own, so it answers to
+     whatever the drug did to the transporters that build its driving force */
+  var paraFx = paraState(panel, A);
+  var pDead    = !!(paraFx && paraFx.e === 'down' && paraFx.strength === 'full');
+  var pSlowed  = !!(paraFx && paraFx.e === 'down' && !pDead);
+  var pBoosted = !!(paraFx && paraFx.e === 'up');
+
   var paraDots = '';
   if (pa.length){
     s += '<text class="tinylbl" x="' + (MEM_A + 8) + '" y="' + (top + 10) + '">paracellular — between the cells, through the tight junction</text>';
+    if (paraFx){
+      var pc = pBoosted ? 'var(--up)' : 'var(--down)';
+      s += '<text class="fxbadge" x="' + (INT_TIP + 40) + '" y="' + (top + 10) + '" text-anchor="end" fill="' + pc + '">' +
+           (pBoosted ? '▲ STRONGER PULL' : pDead ? '✕ DRIVING FORCE GONE' : '▼ WEAKER PULL') + '</text>';
+    }
     var laneY = top + 38;
     var half = Math.ceil(pa.length / 2);
     pa.forEach(function(f, i){
@@ -1090,9 +2962,14 @@ function renderPanel(panel, pid, sel){
       var x2 = x1 + segw - 26;
       var c = ionVar(f.ion);
       if (f.dir === 'out'){ var tmp = x1; x1 = x2; x2 = tmp; }
-      s += arrow(x1, x2, yy, c);
-      s += '<text class="ionlbl" x="' + ((x1 + x2)/2) + '" y="' + (yy - 7) + '" text-anchor="middle" fill="' + c + '">' + esc(f.ion) + '</text>';
-      paraDots += particles(x1, x2, yy, f.ion);
+      s += arrow(x1, x2, yy, c, { dash:pDead, op: pDead ? 0.28 : 1, w: pBoosted ? 3.2 : 1.7 });
+      s += '<text class="ionlbl" x="' + ((x1 + x2)/2) + '" y="' + (yy - 7) + '" text-anchor="middle" fill="' + c + '"' +
+           (pDead ? ' opacity="0.4"' : '') + '>' + esc(f.ion) + '</text>';
+      if (!pDead){
+        paraDots += particles(x1, x2, yy, f.ion,
+                              pBoosted ? 1.5 : pSlowed ? 6.4 : 3.1,
+                              pBoosted ? 3   : pSlowed ? 1   : 2);
+      }
     });
   }
 
@@ -1159,7 +3036,24 @@ function renderPanel(panel, pid, sel){
       body += r.svg; dots += r.dots;
     });
   });
-  s += body + dots + '</svg>';
+  s += body + dots;
+
+  /* the two bands now report their NEW steady state — this is the part of the
+     drug's effect that lives in the fluid, not in any one transporter */
+  if (DC){
+    var sy = cellBottom + 24, bw = W/2 - 16;
+    var strip = function(x, fill, edge, cls, lbl, txt){
+      return '<rect x="' + x + '" y="' + sy + '" width="' + bw + '" height="42" rx="9" fill="' + fill +
+             '" stroke="' + edge + '" stroke-width="1.5" />' +
+             '<text class="statelbl" x="' + (x + 13) + '" y="' + (sy + 17) + '" fill="' + edge + '">' + lbl + '</text>' +
+             '<text class="bandsub ' + cls + '" x="' + (x + 13) + '" y="' + (sy + 33) + '">' + esc(txt) + '</text>';
+    };
+    s += strip(10, 'var(--lumen)', 'var(--lumen-ink)', 'l',
+               'LUMEN NOW · ' + esc(A.name).toUpperCase(), DC.lumenFx);
+    s += strip(W/2 + 6, 'var(--inter)', 'var(--inter-ink)', 'i',
+               'BLOOD SIDE NOW', DC.interFx);
+  }
+  s += '</svg>';
 
   /* ---------- controls ---------- */
   var html = '<div class="svgwrap">' + s + '</div>';
@@ -1196,13 +3090,27 @@ function renderPanel(panel, pid, sel){
               (m.result ? '<div class="fxres">&rArr; ' + esc(m.result) + '</div>' : '') +
               '</div>';
     });
+    depNotes.forEach(function(d){
+      html += '<div class="fxrow">' +
+              '<span class="fxt" style="color:var(--faint)">↳ ' + esc(d.t.name) + '</span> ' +
+              '<span class="fxside">' + d.side + ' · knock-on, not a target</span>' +
+              '<div class="fxchain">Nothing binds ' + esc(d.t.name) + ' — but ' + esc(d.src) +
+              ' was blocked, and ' + esc(d.why) + '</div></div>';
+    });
     html += '</div>';
+    if (DC) html += renderDrugCard(DC);
   } else {
     html += '<div class="fxbox"><div class="fxhint">This is the cell at rest. Tap a hormone or drug above and the diagram will show you exactly which transporters it touches — blocked ones stop moving ions, stimulated ones speed up.</div></div>';
   }
 
   if (panel.paraNote){
-    html += '<div class="callout"><span class="lbl">Paracellular route</span>' + esc(panel.paraNote) + '</div>';
+    html += '<div class="callout"><span class="lbl">Paracellular route</span>' + esc(panel.paraNote);
+    if (paraFx && panel.paraDriver){
+      html += '<div style="margin-top:7px; font-weight:600; color:' +
+              (pBoosted ? 'var(--up)' : 'var(--down)') + '">Under ' + esc(A.name) + ': ' +
+              esc(panel.paraDriver.why) + '</div>';
+    }
+    html += '</div>';
   }
 
   /* ---------- always-visible reference tables ---------- */
@@ -1267,6 +3175,14 @@ var MAP_SEGS = [
     d:'M616,120 L616,552' }
 ];
 
+/* The six tubule segments are drawn nose-to-tail, so dropping each following
+   moveto splices them into one continuous path for the flow dots to ride. */
+function tubePath(){
+  return MAP_SEGS.map(function(m, i){
+    return i === 0 ? m.d : m.d.replace(/^M[-\d.\s,]+/, ' ');
+  }).join('');
+}
+
 function renderOverview(){
   var sub = SUBSTANCES[state.sub];
   var H = 600, MW = 900;
@@ -1318,12 +3234,12 @@ function renderOverview(){
   s += '<circle cx="402" cy="126" r="6" fill="var(--accent)" />' +
        '<text class="tinylbl" x="392" y="112" text-anchor="end">macula densa</text>';
 
-  /* flow dots riding the whole tubule */
-  s += '<g transform="translate(140,80)">';
+  /* flow dots riding the whole tubule, coils and all */
+  var tube = tubePath();
   for (var i = 0; i < 5; i++){
-    s += '<g class="tubedot" style="--dl:' + (-2.6 * i) + 's"><circle r="4.6" fill="var(--ink)" opacity="0.55" /></g>';
+    s += '<g class="tubedot" style="offset-path:path(&quot;' + tube + '&quot;); --dl:' +
+         (-2.6 * i) + 's"><circle r="4.6" fill="var(--ink)" opacity="0.55" /></g>';
   }
-  s += '</g>';
 
   /* percentage badges */
   var badge = function(x, y, id, anchor){
@@ -1417,6 +3333,11 @@ function renderOverviewPage(){
        '<tr><td><b>Red bar ⊣</b></td><td><span class="down">inhibits</span> that transporter.</td></tr>' +
        '<tr><td><b>Chip on the left</b></td><td>acts from the <b>lumen</b> — most diuretics, which must be secreted into the tubule by the PCT first.</td></tr>' +
        '<tr><td><b>Chip on the right</b></td><td>acts from the <b>blood</b> — hormones and receptor blockers.</td></tr>' +
+       '<tr><td><b>Picking an agent</b></td><td>The diagram switches to that agent&rsquo;s steady state: a blocked flux ' +
+       'goes dashed and its ions stop moving, a stimulated one speeds up and crowds, a damped one slows to a ' +
+       'trickle, and the two bands under the cell report what the lumen and the blood side are now doing. For the ' +
+       'five diuretic classes your pharmacology lectures cover, the whole downstream chain opens underneath &mdash; ' +
+       'or start from the <b>Diuretics</b> tab.</td></tr>' +
        '</tbody></table></div>';
 
   /* concentrating mechanism */
@@ -1428,6 +3349,241 @@ function renderOverviewPage(){
        ].map(function(t){ return '<li>' + t + '</li>'; }).join('') + '</ul></div>';
   return h;
 }
+
+/* ==========================================================================
+   3b. DIURETIC MAP - every drug site on one nephron
+   ========================================================================== */
+/* at = the point(s) on the tubule the class acts on; lab = where its caption
+   sits; side decides which way the connector curves out of the label. */
+var DRUG_PINS = [
+  { k:'ca',    at:[[196,90]],            lab:[30,180],  side:'left'  },
+  { k:'osm',   at:[[300,116],[318,330]], lab:[30,292],  side:'left'  },
+  { k:'loop',  at:[[402,250]],           lab:[870,212], side:'right' },
+  { k:'thz',   at:[[500,86]],            lab:[870,100], side:'right' },
+  { k:'ksp',   at:[[616,372]],           lab:[870,372], side:'right' }
+];
+
+/* The lecture-grounded "examples" strings carry the lecturer's own annotations,
+   which is right in the card but far too long for a map pin or a table cell.
+   Pull just the first agent out of one. */
+function leadDrug(dc){
+  var s = String(dc.examples || '').replace(/\([^)]*\)/g, ' ');
+  s = s.split(/[;,]/)[0];
+  if (s.indexOf(':') >= 0) s = s.split(':').pop();
+  s = s.replace(/\s+[-–—].*$/, '').replace(/\s+/g, ' ').trim();
+  return s.length > 26 ? s.slice(0, 25).trim() + '…' : s;
+}
+
+function renderDrugMap(){
+  var H = 600, MW = 900;
+  var s = '<svg viewBox="0 0 ' + MW + ' ' + H + '" role="img" aria-label="Where each diuretic class acts">';
+
+  s += '<defs><linearGradient id="dmedgrad" x1="0" y1="0" x2="0" y2="1">' +
+       '<stop offset="0%" stop-color="var(--inter)" stop-opacity="0.25" />' +
+       '<stop offset="100%" stop-color="var(--inter)" stop-opacity="1" />' +
+       '</linearGradient></defs>';
+  s += '<rect x="0" y="0" width="' + MW + '" height="190" fill="var(--lumen)" opacity="0.55" />';
+  s += '<rect x="0" y="190" width="' + MW + '" height="' + (H - 190) + '" fill="url(#dmedgrad)" />';
+  s += '<line x1="0" y1="190" x2="' + MW + '" y2="190" stroke="var(--line)" stroke-dasharray="5 5" />';
+  s += '<text class="tinylbl" x="478" y="180" text-anchor="middle">CORTEX</text>';
+  s += '<text class="tinylbl" x="478" y="204" text-anchor="middle">MEDULLA</text>';
+
+  /* glomerulus + tubule, same geometry as the overview map */
+  s += '<circle cx="104" cy="80" r="26" fill="var(--surface)" stroke="var(--h)" stroke-width="2.5" />' +
+       '<circle cx="104" cy="80" r="16" fill="var(--h)" opacity="0.35" />';
+  MAP_SEGS.forEach(function(m){
+    s += '<g style="cursor:pointer" onclick="go(\'' + m.id + '\')">' +
+         '<path d="' + m.d + '" fill="none" stroke="var(' + m.color + ')" stroke-width="15" ' +
+         'stroke-linecap="round" opacity="0.55" />' +
+         '<path d="' + m.d + '" fill="none" stroke="var(--surface)" stroke-width="7" ' +
+         'stroke-linecap="round" opacity="0.45" class="tubeflow" /></g>';
+  });
+  s += '<circle cx="402" cy="126" r="5" fill="var(--accent)" />' +
+       '<text class="tinylbl" x="392" y="112" text-anchor="end">macula densa</text>';
+
+  /* one labelled pin per drug class */
+  DRUG_PINS.forEach(function(pin, i){
+    var dc = DRUGS[pin.k];
+    if (!dc) return;
+    var right = pin.side === 'right';
+    var lx = pin.lab[0], ly = pin.lab[1];
+    var edge = lx, num = String(i + 1);
+
+    pin.at.forEach(function(a){
+      var px = a[0], py = a[1];
+      var appr = px + (right ? 26 : -26);
+      var c1 = edge + (right ? -70 : 70);
+      var c2 = appr + (right ? 70 : -70);
+      s += '<path class="conn" d="M' + edge + ',' + ly + ' C' + c1 + ',' + ly + ' ' +
+           c2 + ',' + py + ' ' + appr + ',' + py + '" stroke="var(--accent)" ' +
+           'stroke-width="1.8" opacity="0.55" />';
+      s += '<circle cx="' + px + '" cy="' + py + '" r="13" fill="var(--accent)" ' +
+           'stroke="var(--surface)" stroke-width="2.5" />' +
+           '<text x="' + px + '" y="' + (py + 4.4) + '" text-anchor="middle" ' +
+           'style="font-size:12px; font-weight:800; fill:#fff">' + num + '</text>';
+    });
+
+    var ta = right ? 'end' : 'start';
+    s += '<text x="' + lx + '" y="' + ly + '" text-anchor="' + ta + '" ' +
+         'style="font-size:13px; font-weight:800; fill:var(--ink)">' + num + '. ' + esc(dc.shortName) + '</text>';
+    s += '<text class="tinylbl" x="' + lx + '" y="' + (ly + 15) + '" text-anchor="' + ta + '">' +
+         esc(dc.targetShort) + ' \u00b7 ' + esc(dc.segLabel) + '</text>';
+    s += '<text class="tinylbl" x="' + lx + '" y="' + (ly + 29) + '" text-anchor="' + ta + '">' +
+         esc(leadDrug(dc)) + '</text>';
+  });
+
+  return s + '</svg>';
+}
+
+/* a direction arrow only helps when there IS a direction; "not taught" gets none */
+function sigCell(d, txt){
+  if (/^not taught/i.test(txt)) return '<td style="color:var(--faint)">' + esc(txt) + '</td>';
+  return '<td class="' + (d === 'up' ? 'up' : d === 'down' ? 'down' : '') + '">' +
+         (DIR_SYM[d] || '=') + ' ' + esc(txt) + '</td>';
+}
+
+function renderDrugsPage(){
+  var h = '<div class="seg-head"><div class="where">Pharmacology</div>' +
+          '<h2>Diuretics &mdash; where each class acts, and what follows</h2>' +
+          '<p class="headline">Four of the five block one named protein in one segment; the osmotics ' +
+          'block nothing at all &mdash; pharmacologically inert, they work simply by staying in the ' +
+          'lumen. Everything else &mdash; the potassium, the calcium, the acid&ndash;base disturbance, ' +
+          'the toxicity &mdash; is downstream ' +
+          'consequence. These are the five classes Lecture&nbsp;#30 and #31 teach, written from those ' +
+          'slides and transcripts rather than from a board review book. Open any class on its own cell ' +
+          'diagram to watch the transporter go dark.</p></div>';
+
+  h += '<div class="card"><h2>One nephron, five targets</h2>' +
+       '<p class="cap">The pins run in tubule order. Potency tracks how much Na&#8314; actually ' +
+       'escapes into the urine, not how strong the drug is &mdash; the loop wins (~25% at a segment ' +
+       'with little reserve below it) and the K&#8314;-sparing agents are weak. Pin&nbsp;1 is the ' +
+       'exception the lecture builds a question around: acetazolamide blocks the step handling ' +
+       '65&ndash;70% of filtered Na&#8314; and is still only a mild diuretic, because the whole distal ' +
+       'nephron takes the escaped Na&#8314; back.</p>' +
+       '<div class="svgwrap">' + renderDrugMap() + '</div></div>';
+
+  h += '<div class="card"><h2>The comparison table</h2>' +
+       '<p class="cap">The discriminators exams actually test. &#9650; rises, &#9660; falls, = unchanged, ' +
+       '&#8597; depends.</p><div class="tablewrap"><table class="grid"><thead><tr>' +
+       '<th style="width:128px">Class</th><th>Target &amp; segment</th><th style="width:78px">Na&#8314; ceiling</th>' +
+       '<th style="width:96px">Serum K&#8314;</th><th style="width:96px">Urine Ca&#178;&#8314;</th>' +
+       '<th style="width:132px">Acid&ndash;base</th><th>Signature toxicity</th></tr></thead><tbody>';
+  DRUG_ORDER.forEach(function(k){
+    var d = DRUGS[k];
+    if (!d) return;
+    var r = d.row;
+    h += '<tr><td><b>' + esc(d.name) + '</b><br /><span style="color:var(--muted); font-size:11.5px">' +
+         esc(leadDrug(d)) + '</span></td>' +
+         '<td><b>' + esc(d.targetShort) + '</b><br /><span style="color:var(--muted); font-size:11.5px">' +
+         esc(d.segLabel) + '</span></td>' +
+         '<td>' + esc(r.ceil) + '</td>' +
+         sigCell(r.kd, r.k) + sigCell(r.cad, r.ca) +
+         '<td>' + esc(r.ab) + '</td><td>' + esc(r.sig) + '</td></tr>';
+  });
+  h += '</tbody></table></div></div>';
+
+  /* one tile per class, each a door into the segment where it acts */
+  h += '<div class="card"><h2>Open any class on its own cell diagram</h2>' +
+       '<p class="cap">Opening a class from here jumps to the segment it acts on, selects the drug, ' +
+       'shuts down its transporter in the animated diagram, and prints the full downstream chain, the ' +
+       'adverse-effect mechanisms and the clinical correlates underneath it.</p>' +
+       '<div class="dgrid">';
+  DRUG_ORDER.forEach(function(k){
+    var d = DRUGS[k];
+    if (!d) return;
+    h += '<div class="dtile"><div class="site">' + esc(d.segLabel) + ' &middot; ' + esc(d.targetShort) + '</div>' +
+         '<h4>' + esc(d.name) + '</h4><p>' + esc(d.mech) + '</p>' +
+         '<p style="color:var(--muted)"><b>Hook:</b> ' + esc(d.hook) + '</p>' +
+         '<button class="minibtn" onclick="goDrug(\'' + k + '\')">open in ' + esc(d.segLabel) + ' &rarr;</button></div>';
+  });
+  h += '</div></div>';
+
+  /* the discriminators Lecture #30/#31 builds its own summary slides around */
+  h += '<div class="card"><h2>The five contrasts the lecture keeps coming back to</h2>' +
+       '<p class="cap">Phrased the way Dr Goldstein phrases them. Every highlighted span is a cloze ' +
+       'deletion, same as everywhere else in the atlas.</p><ul class="pearls">' +
+       [ '<b>Calcium splits the two workhorses.</b> Loops eliminate the {{c1::transepithelial ' +
+         'potential}} in the TAL, so Ca&#178;&#8314; and Mg&#178;&#8314; excretion both rise &mdash; ' +
+         'but the lecture is specific that the {{c2::calcium}} loss is usually mild while the ' +
+         '{{c3::magnesium}} loss may be clinically significant. Thiazides do the opposite: they ' +
+         '{{c4::increase local calcium export}} from the DCT cell, so Ca&#178;&#8314; reabsorption ' +
+         'rises &mdash; {{c5::&#8593; serum Ca&#178;&#8314;, &#8595; urine Ca&#178;&#8314;}} &mdash; ' +
+         'with only moderate Mg&#178;&#8314; loss.',
+
+         '<b>Diluting versus concentrating ability.</b> Thiazides impair the kidney\'s ability to ' +
+         '{{c1::excrete dilute urine}} but do {{c2::NOT}} impair its ability to {{c3::concentrate}} ' +
+         'urine &mdash; which is exactly why they are the {{c4::major cause of diuretic-induced ' +
+         'hyponatremia}}. Loops impair {{c5::both}}, so their hyponatremia is only mild.',
+
+         '<b>Potassium runs on distal sodium delivery.</b> {{c1::Loops and thiazides}} raise distal ' +
+         'Na&#8314; delivery, which drives ENaC-mediated Na&#8314; reabsorption and therefore ' +
+         '{{c2::K&#8314; and H&#8314; secretion}} &rarr; {{c3::hypokalemic metabolic alkalosis}}. ' +
+         'Carbonic anhydrase inhibitors waste K&#8314; by that same distal route, but they do ' +
+         '{{c4::NOT}} end in alkalosis &mdash; their own bicarbonate loss and the block of distal ' +
+         'carbonic anhydrase give a {{c5::hyperchloremic metabolic acidosis}} instead. Block the ' +
+         'principal cell itself and the potassium reverses too: ENaC inhibitors and MR antagonists ' +
+         '{{c6::prevent K&#8314; and H&#8314; loss}} &rarr; {{c7::hyperkalemia with a mild metabolic acidosis}}.',
+
+         '<b>The acid&ndash;base pattern is set by where you block.</b> The lecture\'s summary: ' +
+         'CA inhibitors give {{c1::hyperchloremic metabolic acidosis}} (HCO&#8323;&#8315; is wasted, ' +
+         'Cl&#8315; is retained for electroneutrality); loops and thiazides give ' +
+         '{{c2::metabolic alkalosis}}; K&#8314;-sparing agents give {{c3::mild metabolic acidosis}}; ' +
+         'and osmotics give {{c4::hypernatremia or hyponatremia depending on water balance}}.',
+
+         '<b>How the drug reaches its target decides who can block it.</b> Almost every diuretic is ' +
+         'secreted into the lumen by the proximal {{c1::organic acid (OAT)}} secretory system &mdash; ' +
+         'so {{c2::probenecid}}, NSAIDs and uremic anions compete and blunt the response. The ' +
+         'exceptions are the ones to remember: ENaC inhibitors arrive by {{c3::OCT}} secretion ' +
+         '(they are organic cations), the {{c4::MR antagonists}} simply diffuse across the ' +
+         '{{c5::basolateral}} membrane and need no secretion at all, and osmotic diuretics need ' +
+         'only {{c6::glomerular filtration}}.'
+       ].map(function(t){ return '<li>' + cz(t) + '</li>'; }).join('') + '</ul></div>';
+
+  /* the lecture's own cross-class themes, which no single drug card owns */
+  h += '<div class="card"><h2>Two themes that cut across every class</h2>' +
+       '<div class="dgrid">' +
+       '<div class="dtile"><div class="site">Lecture #30 &middot; principles</div>' +
+       '<h4>NSAIDs blunt all of them</h4>' +
+       '<p>Renal PGE&#8322; and PGI&#8322; vasodilate and blunt Na&#8314; reabsorption and ' +
+       'ADH-mediated water transport. Remove them and you get worse renal hemodynamics, reduced ' +
+       'diuretic delivery, sodium retention and impaired K&#8314; excretion &mdash; so NSAIDs raise ' +
+       'AKI risk, worsen edema and heart failure, blunt BP control, worsen metabolic alkalosis, and ' +
+       'worsen thiazide hyponatremia &mdash; the prostaglandin brake on ADH is gone.</p>' +
+       '</div>' +
+       '<div class="dtile"><div class="site">Lecture #30 &middot; principles</div>' +
+       '<h4>Diuretic resistance and the braking phenomenon</h4>' +
+       '<p>The lecture\'s PRIMARY mechanism is structural: chronic loop therapy hypertrophies the ' +
+       'segments below the TAL and upregulates NCC, ENaC and Na&#8314;/K&#8314;-ATPase, so they ' +
+       'recapture the escaped Na&#8314;. Volume depletion then AMPLIFIES it &mdash; RAAS and lower ' +
+       'GFR, aldosterone raising distal Na&#8314; reabsorption, ADH driving AQP2 insertion and ' +
+       'free-water reabsorption &mdash; and post-diuretic Na&#8314; retention fills the gap between ' +
+       'doses. Clinically significant resistance is a LOOP problem. The lecture\'s answer to ' +
+       'refractory edema: exclude salt intake and OAT inhibitors, raise the loop dose, divide the ' +
+       'dose, switch to torsemide if gut absorption is poor, then add a thiazide &mdash; or an ENaC ' +
+       'inhibitor / MR antagonist if there is hypokalemia.</p></div></div></div>';
+
+  return h;
+}
+
+/* jump to the segment a drug acts on AND pre-select it there */
+function goDrug(k){
+  var dc = DRUGS[k];
+  if (!dc) return;
+  var idx = SEGMENTS.map(function(s){ return s.id; }).indexOf(dc.segId);
+  if (idx < 0) return;
+  var seg = SEGMENTS[idx];
+  (seg.panels || []).forEach(function(p, pi){
+    var pid = seg.id + '-p' + pi, picked = -1;
+    /* first match wins: panelAgents walks apical rows first, so this lands on the
+       class's primary block (NCC, not the secondary TRPM6 effect of chronic use) */
+    panelAgents(p).forEach(function(a, ai){
+      if (picked < 0 && a.kind === 'drug' && agentClass(a) === k) picked = ai;
+    });
+    if (picked >= 0) modSel[pid] = picked;
+  });
+  setTab(idx + 2); /* +1 for Overview, +1 for the Diuretics tab */
+}
+window.goDrug = goDrug;
 
 /* ==========================================================================
    4. GLOMERULUS PAGE
@@ -1666,7 +3822,8 @@ var state = { tab:0, sub:0 };
 var view  = document.getElementById('view');
 var tabsEl = document.getElementById('tabs');
 
-function tabList(){ return ['Overview'].concat(SEGMENTS.map(function(s){ return s.tab; })); }
+/* tab 0 = Overview, tab 1 = Diuretics, then one tab per segment */
+function tabList(){ return ['Overview', 'Diuretics'].concat(SEGMENTS.map(function(s){ return s.tab; })); }
 
 function renderTabs(){
   tabsEl.innerHTML = tabList().map(function(t, i){
@@ -1676,14 +3833,16 @@ function renderTabs(){
 
 function render(){
   renderTabs();
-  view.innerHTML = state.tab === 0 ? renderOverviewPage() : renderSegmentPage(SEGMENTS[state.tab - 1]);
+  view.innerHTML = state.tab === 0 ? renderOverviewPage()
+                 : state.tab === 1 ? renderDrugsPage()
+                 : renderSegmentPage(SEGMENTS[state.tab - 2]);
   window.scrollTo(0, 0);
 }
 function setTab(i){ state.tab = i; render(); }
 function setSub(i){ state.sub = i; render(); }
 function go(id){
   var idx = SEGMENTS.map(function(s){ return s.id; }).indexOf(id);
-  if (idx >= 0) setTab(idx + 1);
+  if (idx >= 0) setTab(idx + 2);
 }
 window.setTab = setTab; window.setSub = setSub; window.go = go;
 
