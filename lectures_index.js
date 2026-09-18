@@ -1992,6 +1992,14 @@ window.receiveLectureIndex([
     "readingTime": 18
   },
   {
+    "id": "cv71",
+    "title": "Lecture #71: Pharmacology of Angina Pectoris",
+    "module": "Pharmacology",
+    "tags": "Lecture #71",
+    "path": "content/json/cv71.file.js",
+    "readingTime": 17
+  },
+  {
     "id": "cv72",
     "title": "Lecture #72: Pharmacological Management of Dyslipidemia",
     "module": "Pharmacology",
