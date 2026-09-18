@@ -1912,12 +1912,28 @@ window.receiveLectureIndex([
     "readingTime": 18
   },
   {
+    "id": "cv58",
+    "title": "Lecture #58: The Abnormal Cardiovascular Examination and Clinical Decision Making",
+    "module": "DPR",
+    "tags": "Lecture #58",
+    "path": "content/json/cv58.file.js",
+    "readingTime": 18
+  },
+  {
     "id": "cv59",
     "title": "Lecture #59: Pathophysiology: Acid-Base Disorders",
     "module": "Pathophysiology",
     "tags": "Lecture #59",
     "path": "content/json/cv59.file.js",
     "readingTime": 18
+  },
+  {
+    "id": "cv60",
+    "title": "Lecture #60: Pathology: Pulmonary Vascular Disease",
+    "module": "Pathology",
+    "tags": "Lecture #60",
+    "path": "content/json/cv60.file.js",
+    "readingTime": 16
   },
   {
     "id": "cv61",
@@ -1936,6 +1952,14 @@ window.receiveLectureIndex([
     "readingTime": 14
   },
   {
+    "id": "cv63",
+    "title": "Lecture #63: Lipid Metabolism Part 3: Dyslipidemias and Hyperlipoproteinemias",
+    "module": "Biochemistry",
+    "tags": "Lecture #63",
+    "path": "content/json/cv63.file.js",
+    "readingTime": 12
+  },
+  {
     "id": "cv64",
     "title": "Lecture #64: Clinical Dyslipidemia",
     "module": "Clinical Medicine",
@@ -1950,5 +1974,21 @@ window.receiveLectureIndex([
     "tags": "Lecture #65",
     "path": "content/json/cv65.file.js",
     "readingTime": 15
+  },
+  {
+    "id": "cv66",
+    "title": "Lecture #66: Pathology of Myocardial Infarction and Ischemic Heart Disease",
+    "module": "Pathology",
+    "tags": "Lecture #66",
+    "path": "content/json/cv66.file.js",
+    "readingTime": 17
+  },
+  {
+    "id": "cv67",
+    "title": "Lecture #67: Introduction to Clinical Nutrition",
+    "module": "Clinical Medicine",
+    "tags": "Lecture #67",
+    "path": "content/json/cv67.file.js",
+    "readingTime": 18
   }
 ]);
