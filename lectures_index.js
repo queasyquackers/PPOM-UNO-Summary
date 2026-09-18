@@ -1912,12 +1912,36 @@ window.receiveLectureIndex([
     "readingTime": 18
   },
   {
+    "id": "cv59",
+    "title": "Lecture #59: Pathophysiology: Acid-Base Disorders",
+    "module": "Pathophysiology",
+    "tags": "Lecture #59",
+    "path": "content/json/cv59.file.js",
+    "readingTime": 18
+  },
+  {
     "id": "cv61",
     "title": "Lecture #61: Lipid Metabolism Part 1: Cholesterol and Bile Acids",
     "module": "Biochemistry",
     "tags": "Lecture #61",
     "path": "content/json/cv61.file.js",
     "readingTime": 13
+  },
+  {
+    "id": "cv62",
+    "title": "Lecture #62: Lipid Metabolism Part 2 - Lipoproteins",
+    "module": "Biochemistry",
+    "tags": "Lecture #62",
+    "path": "content/json/cv62.file.js",
+    "readingTime": 14
+  },
+  {
+    "id": "cv64",
+    "title": "Lecture #64: Clinical Dyslipidemia",
+    "module": "Clinical Medicine",
+    "tags": "Lecture #64",
+    "path": "content/json/cv64.file.js",
+    "readingTime": 14
   },
   {
     "id": "cv65",
