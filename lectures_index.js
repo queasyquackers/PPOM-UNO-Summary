@@ -1990,5 +1990,29 @@ window.receiveLectureIndex([
     "tags": "Lecture #67",
     "path": "content/json/cv67.file.js",
     "readingTime": 18
+  },
+  {
+    "id": "cv72",
+    "title": "Lecture #72: Pharmacological Management of Dyslipidemia",
+    "module": "Pharmacology",
+    "tags": "Lecture #72",
+    "path": "content/json/cv72.file.js",
+    "readingTime": 17
+  },
+  {
+    "id": "cv75",
+    "title": "Lecture #75: Acute Coronary Syndrome and Myocardial Infarction Part II: Management and Outcomes",
+    "module": "Clinical Medicine",
+    "tags": "Lecture #75",
+    "path": "content/json/cv75.file.js",
+    "readingTime": 15
+  },
+  {
+    "id": "cv78",
+    "title": "Lecture #78: Aortic Dissection and Aneurysmal Disease",
+    "module": "Pathology",
+    "tags": "Lecture #78",
+    "path": "content/json/cv78.file.js",
+    "readingTime": 16
   }
 ]);
