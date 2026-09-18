@@ -58,29 +58,35 @@ python lecture_pipeline.py install 193 --commit --push   # + push to GitHub (upl
 `--push` publishes to whatever branch each repo is currently on. Leave it off to review the
 diff first, then `git push` yourself. Add `--no-pdf` to skip the high-yield PDF render.
 
-## The answer-key gate (why `install` can refuse)
+## The question gate (why `install` can refuse)
 
-`question_generation_prompt_v5.txt` bans three answer-key giveaways. They're **invisible when
-you read questions one at a time** — each looks fine, and the tell only appears in aggregate —
-so `install` checks them mechanically and **blocks** rather than warning:
+Questions are written to `PPOM-UNO-Problems/question_generation_prompt_v6.txt`, which makes
+**two files per lecture**: `Test_CVxx_Recall.js` (Set A, up to 30 first-order recall items in
+lecture order) and `Test_CVxx_Boards.js` (Set B, 15 NBME-style items on the same content).
+Both register in config.js as adjacent tests, `Cardio-<Discipline>: <Title> [Recall] (CVxx)`
+and `... [Boards] (CVxx)`.
 
-| Rule | Limit |
-|------|-------|
-| Even A–E spread | max−min count ≤ 3 |
-| Same letter in a row | ≤ 2 consecutive |
-| Correct answer is the longest option | ≤ 25% of questions |
+`install` runs `PPOM-UNO-Problems/scripts/check_question_set.py` on both files, and any FAIL
+**blocks** the install. It re-verifies every v6 tally: exactly 6 keys per letter in Set A and 3
+in Set B, no letter 3+ times in a row, no A-E cycle, key-longest and key-shortest counts, word
+budgets, pdfPage order, the number limits, categories, explanation form, ASCII, and no option
+shared across items or across the two files. The answer-key tells are **invisible when you read
+questions one at a time**, which is why they are checked mechanically.
+
+`prep` also writes the v6 high-yield inputs into the bundle: `transcript_timed.txt` (the
+transcript in 30-second paragraphs stamped `[mm:ss]`, for the dwell signal, with every
+recording of the lecture included) and `slides_emphasis.txt` (the deck's bold share and the
+bold phrases on each slide, for the bold signal, plus image-only slides).
 
 ```
-python lecture_pipeline.py install 193 --fix   # auto-even the key, then install
+python lecture_pipeline.py install 193 --fix   # auto-even the keys, then install
 ```
 
 `--fix` **reorders the options** within a question and updates `correctAnswerIndex`. It never
 edits text, so every stem, distractor and explanation stays exactly as written. It fixes the
-spread and run problems.
-
-It deliberately **cannot** fix the longest-answer tell — that needs a distractor actually
-lengthened, which is writing, not permutation. When that check fails the error names the
-specific questions to fix. `--no-verify` downgrades any failure to a warning.
+letter spread, runs and cycles. Questions whose options are all numbers or sets of findings stay
+put, because v6 requires those in ascending order. Everything else the checker flags needs the
+items rewritten. `--no-verify` downgrades any failure to a warning.
 
 > Worth knowing: the first generated draft of CV22 failed two of these (17/30 answers on "B",
 > longest-answer 60%). Expect the gate to fire on real drafts — that's it working.
