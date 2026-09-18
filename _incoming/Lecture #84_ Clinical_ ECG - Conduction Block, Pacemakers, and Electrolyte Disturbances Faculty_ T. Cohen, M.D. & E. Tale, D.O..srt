@@ -1,0 +1,3592 @@
+1
+00:00:01,590 --> 00:00:03,150
+Hello, everyone. Welcome to
+
+2
+00:00:03,150 --> 00:00:04,350
+our last lecture together.
+
+3
+00:00:04,550 --> 00:00:07,470
+If you don't remember me,
+my name is Dr. Ermin Tala,
+
+4
+00:00:07,470 --> 00:00:10,590
+and I'm an internal medicine
+PGY1 at Jacoby Einstein.
+
+5
+00:00:11,330 --> 00:00:13,490
+In the past three
+lectures, we explored the
+
+6
+00:00:13,490 --> 00:00:16,690
+physiology behind the
+ECG, then an approach to
+
+7
+00:00:16,690 --> 00:00:18,910
+reading an ECG, where we
+took a brief visit with
+
+8
+00:00:18,910 --> 00:00:21,630
+Ryan Reynolds. For most
+of us, that may be the
+
+9
+00:00:21,630 --> 00:00:24,070
+only visit we get with
+him, but you never know.
+
+10
+00:00:24,270 --> 00:00:26,590
+And then we discussed
+a bunch of arrhythmias
+
+11
+00:00:26,590 --> 00:00:27,890
+that you probably
+don't remember.
+
+12
+00:00:28,270 --> 00:00:31,010
+Lastly, we'll discuss
+a few nuances that
+
+13
+00:00:31,010 --> 00:00:33,410
+we can find on the
+EKG and how this may
+
+14
+00:00:33,410 --> 00:00:35,350
+alter your management
+as a physician.
+
+15
+00:00:35,470 --> 00:00:37,610
+We'll start with
+an extremely high
+
+16
+00:00:37,610 --> 00:00:39,310
+-yield topic you
+are likely, if not
+
+17
+00:00:39,310 --> 00:00:41,850
+definitely, to see
+on Comlex and USMLE,
+
+18
+00:00:41,990 --> 00:00:43,590
+the AV blocks.
+
+19
+00:00:47,190 --> 00:00:50,090
+So here are the session
+objectives. As always,
+
+20
+00:00:50,090 --> 00:00:52,310
+if you can answer these
+in your own words,
+
+21
+00:00:52,310 --> 00:00:54,590
+then you're probably in
+a good spot. I've also
+
+22
+00:00:54,590 --> 00:00:56,530
+included the corresponding
+page in first aid
+
+23
+00:00:56,530 --> 00:00:58,870
+if you're using it as a
+supplemental resource.
+
+24
+00:01:02,470 --> 00:01:05,710
+Now, before we begin, I do
+want to clarify one thing.
+
+25
+00:01:05,810 --> 00:01:10,610
+You may see the term
+heart block or AV block on
+
+26
+00:01:10,610 --> 00:01:14,070
+an exam or in a textbook.
+I do want to clarify that
+
+27
+00:01:14,070 --> 00:01:16,710
+these mean exactly the same
+thing. They are the same
+
+28
+00:01:16,710 --> 00:01:18,450
+thing, and they're exactly
+what they sound like,
+
+29
+00:01:18,450 --> 00:01:22,450
+a slowing or blocking of
+conduction at the AV node.
+
+30
+00:01:22,990 --> 00:01:25,610
+Now, just a reminder,
+the AV node is
+
+31
+00:01:25,610 --> 00:01:28,050
+what separates the
+timing of contractions
+
+32
+00:01:28,050 --> 00:01:30,030
+between the atria
+and ventricles.
+
+33
+00:01:30,190 --> 00:01:32,770
+Now there are four types of
+AV blocks that we need to
+
+34
+00:01:32,770 --> 00:01:36,210
+know of. A first degree is
+the least severe, a third
+
+35
+00:01:36,210 --> 00:01:39,650
+degree is the most severe,
+and because medicine is
+
+36
+00:01:39,650 --> 00:01:42,330
+annoying, there are two types
+of second degree blocks.
+
+37
+00:01:42,790 --> 00:01:46,210
+In terms of management,
+the first two AV blocks,
+
+38
+00:01:46,210 --> 00:01:50,410
+first degree and MOBIS type
+1 are pretty asymptomatic
+
+39
+00:01:50,410 --> 00:01:53,050
+or benign, usually not
+requiring much treatment.
+
+40
+00:01:53,270 --> 00:01:56,570
+Second degree type 2 and
+third degree heart block
+
+41
+00:01:56,570 --> 00:02:00,170
+usually present with
+symptomatically and are managed with
+
+42
+00:02:00,170 --> 00:02:02,550
+the pacemaker. Now before we
+begin, I want to introduce
+
+43
+00:02:02,550 --> 00:02:05,210
+you guys to the heart
+block poem. Maybe you've
+
+44
+00:02:05,210 --> 00:02:07,030
+heard of it, maybe you
+haven't, but it's an extremely
+
+45
+00:02:07,030 --> 00:02:09,870
+helpful tool we can use to
+help learn the heart blocks.
+
+46
+00:02:10,230 --> 00:02:11,790
+So let's read it through.
+
+47
+00:02:11,980 --> 00:02:13,970
+If the R is far from the P,
+
+48
+00:02:13,970 --> 00:02:15,450
+then you have a first degree.
+
+49
+00:02:15,630 --> 00:02:18,310
+P-R gets longer, longer,
+longer a drop, it's
+
+50
+00:02:18,310 --> 00:02:20,550
+a case of *****-bock.
+If some R's don't get
+
+51
+00:02:20,550 --> 00:02:22,750
+through, prepare to
+pace that mobit's two.
+
+52
+00:02:22,750 --> 00:02:24,690
+If the R's and P's don't agree,
+
+53
+00:02:24,690 --> 00:02:26,290
+prepare to pace
+that third degree.
+
+54
+00:02:26,870 --> 00:02:29,070
+This poem goes in
+order from first degree
+
+55
+00:02:29,070 --> 00:02:30,730
+and makes our way
+down to third degree,
+
+56
+00:02:31,010 --> 00:02:33,730
+again going from least to
+most severe, and can be
+
+57
+00:02:33,730 --> 00:02:36,230
+extremely useful when
+learning the heart blocks.
+
+58
+00:02:36,230 --> 00:02:37,930
+We'll reference
+back to it as we
+
+59
+00:02:37,930 --> 00:02:39,310
+progress throughout
+the lecture.
+
+60
+00:02:39,430 --> 00:02:41,590
+Now let's begin
+with the first type
+
+61
+00:02:41,590 --> 00:02:43,950
+of heart block, first
+degree AV block.
+
+62
+00:02:44,330 --> 00:02:47,410
+But before we do that, ask
+yourself this question.
+
+63
+00:02:47,430 --> 00:02:50,690
+What interval on the EKG
+defines the time difference
+
+64
+00:02:50,690 --> 00:02:53,670
+between the atria and
+ventricular contraction?
+
+65
+00:02:55,040 --> 00:02:57,390
+Well, I can't hear you,
+so I can't really confirm
+
+66
+00:02:57,390 --> 00:03:00,470
+if you're right or wrong,
+but it's the PR interval.
+
+67
+00:03:01,390 --> 00:03:03,710
+Feel free to celebrate if
+you got that one right.
+
+68
+00:03:04,310 --> 00:03:07,890
+The P wave represents
+atrial contraction, and the
+
+69
+00:03:07,890 --> 00:03:10,330
+QRS complex represents
+ventricular contraction.
+
+70
+00:03:10,590 --> 00:03:13,510
+Now, a first-degree
+heart block, which is
+
+71
+00:03:13,510 --> 00:03:15,690
+the least severe of
+heart blocks, affects,
+
+72
+00:03:15,710 --> 00:03:18,430
+as we mentioned
+before, the AV node,
+
+73
+00:03:18,570 --> 00:03:20,950
+which is now going
+to be defined
+
+74
+00:03:20,950 --> 00:03:23,110
+simply by a prolonged
+PR interval.
+
+75
+00:03:23,110 --> 00:03:25,930
+What's a normal PR
+interval? Less than 0.2
+
+76
+00:03:25,930 --> 00:03:29,270
+seconds, or one big
+box or five tiny boxes.
+
+77
+00:03:29,390 --> 00:03:31,970
+Everything else in the
+rhythm strip is normal.
+
+78
+00:03:32,170 --> 00:03:34,390
+Of course, this is
+usually asymptomatic,
+
+79
+00:03:34,390 --> 00:03:36,250
+and no treatment is required.
+
+80
+00:03:40,290 --> 00:03:41,710
+Back to our poem.
+
+81
+00:03:41,930 --> 00:03:44,330
+For first degree, if
+the R is far from the
+
+82
+00:03:44,330 --> 00:03:47,210
+P, then you have a
+first degree. So our PR
+
+83
+00:03:47,210 --> 00:03:49,190
+interval is the only
+thing that's affected,
+
+84
+00:03:49,190 --> 00:03:51,190
+and it's prolonged
+and the least severe.
+
+85
+00:03:51,190 --> 00:03:54,270
+Reason why first degree
+is highlighted in green.
+
+86
+00:03:55,210 --> 00:03:57,270
+Now, we'll begin to look at
+
+87
+00:03:57,270 --> 00:03:58,750
+our second degree AV blocks.
+
+88
+00:03:58,840 --> 00:04:00,610
+Give the poem a
+read and see if you
+
+89
+00:04:00,610 --> 00:04:01,850
+can figure out
+what the defining
+
+90
+00:04:01,850 --> 00:04:05,130
+features of second
+degree AV blocks are.
+
+91
+00:04:06,170 --> 00:04:08,950
+so now we'll talk about
+the second degree heart
+
+92
+00:04:08,950 --> 00:04:12,090
+block starting with type
+1 unfortunately second
+
+93
+00:04:12,090 --> 00:04:16,030
+degree type 1 does go by
+a few names second degree
+
+94
+00:04:16,030 --> 00:04:18,990
+type 1 second degree mobile
+type 1 and even *****
+
+95
+00:04:18,990 --> 00:04:21,810
+block unfortunately you
+will have to commit all
+
+96
+00:04:21,810 --> 00:04:24,590
+these names to memory so
+better off just starting from
+
+97
+00:04:24,590 --> 00:04:28,830
+now similarly to first
+degree heart block the
+
+98
+00:04:28,830 --> 00:04:33,390
+block occurs at the av
+node so like we saw first
+
+99
+00:04:33,390 --> 00:04:35,990
+degree heart block where
+the PR interval was affected
+
+100
+00:04:35,990 --> 00:04:38,270
+and prolonged, we have
+a similar pattern here.
+
+101
+00:04:38,390 --> 00:04:41,540
+So since the AV node
+is being blocked,
+
+102
+00:04:41,550 --> 00:04:43,330
+we're going to
+have, or see on an
+
+103
+00:04:43,330 --> 00:04:46,070
+EKG, a prolongation
+of the PR interval.
+
+104
+00:04:46,830 --> 00:04:49,570
+However, different from
+first degree heart block,
+
+105
+00:04:49,570 --> 00:04:52,230
+we're going to see a
+progressive prolongation of
+
+106
+00:04:52,230 --> 00:04:55,110
+the PR interval. While in
+first degree heart block,
+
+107
+00:04:55,110 --> 00:04:58,290
+the PR interval was
+prolonged, it was fixed. In
+
+108
+00:04:58,290 --> 00:05:00,820
+this case, however, we're
+going to get a progressive
+
+109
+00:05:00,820 --> 00:05:04,650
+prolongation of the PR
+interval. So if we turn
+
+110
+00:05:04,650 --> 00:05:06,490
+our attention to the
+rhythm strip on the bottom,
+
+111
+00:05:06,830 --> 00:05:08,850
+we can look at our
+first PR interval
+
+112
+00:05:08,850 --> 00:05:11,750
+right here. That
+looks pretty normal.
+
+113
+00:05:12,080 --> 00:05:13,490
+We go to our second.
+
+114
+00:05:14,370 --> 00:05:15,870
+Looks a bit different from the
+
+115
+00:05:15,870 --> 00:05:17,750
+first one. It looks prolonged.
+
+116
+00:05:18,290 --> 00:05:20,890
+When we go to the third
+PR interval, it looks
+
+117
+00:05:20,890 --> 00:05:23,370
+even more different from
+the second and the first
+
+118
+00:05:23,370 --> 00:05:26,110
+PR intervals. It's even
+more prolonged until
+
+119
+00:05:26,110 --> 00:05:28,370
+finally we get to this
+lonely P wave with no
+
+120
+00:05:28,370 --> 00:05:31,710
+QRS complex following
+it. This is what we call
+
+121
+00:05:31,710 --> 00:05:35,710
+a drop B or a non-conducted
+P-wave, meaning that
+
+122
+00:05:35,710 --> 00:05:38,290
+there's no QRS complex
+following the P-wave.
+
+123
+00:05:38,730 --> 00:05:41,750
+So in a second-degree
+mode with type 1,
+
+124
+00:05:41,750 --> 00:05:44,070
+we get prolongation
+of the PR interval
+
+125
+00:05:44,970 --> 00:05:45,930
+progressively.
+
+126
+00:05:46,150 --> 00:05:52,090
+So each PR interval becomes
+longer and longer and
+
+127
+00:05:52,090 --> 00:05:56,050
+longer until finally we
+have a drop B, meaning we
+
+128
+00:05:56,050 --> 00:05:58,730
+don't have the QRS complex
+following that P-wave.
+
+129
+00:05:58,950 --> 00:06:02,820
+The cycle just repeats
+over and over, and it's
+
+130
+00:06:02,820 --> 00:06:05,390
+regularly irregular,
+something to keep in mind.
+
+131
+00:06:05,670 --> 00:06:08,190
+Treatment is usually
+not indicated, as
+
+132
+00:06:08,190 --> 00:06:10,700
+this rhythm is
+usually asymptomatic.
+
+133
+00:06:11,690 --> 00:06:15,930
+So now, if we refer back
+to our heart block poem, if
+
+134
+00:06:15,930 --> 00:06:20,630
+we go to second degree type
+1, we see PR gets longer,
+
+135
+00:06:20,630 --> 00:06:24,910
+longer, longer drop. It's a
+case of Wankybock. So it may
+
+136
+00:06:24,910 --> 00:06:28,350
+be useful to commit or
+associate the name Winkybock
+
+137
+00:06:28,350 --> 00:06:31,270
+with second degree type 1,
+especially in relation to the
+
+138
+00:06:31,270 --> 00:06:34,110
+poem. It can help you remember
+what EKG findings you'll
+
+139
+00:06:34,110 --> 00:06:37,610
+see. So like we see here,
+we have the PR interval.
+
+140
+00:06:37,990 --> 00:06:40,270
+That's getting
+progressively prolonged,
+
+141
+00:06:40,270 --> 00:06:43,610
+prolonged, prolonged,
+right? So PR gets longer,
+
+142
+00:06:43,610 --> 00:06:47,650
+longer, longer, drop.
+We have a Winkybock.
+
+143
+00:06:48,250 --> 00:06:51,850
+kind of silly but it's
+an easy and fun way
+
+144
+00:06:51,850 --> 00:06:54,370
+to commit it and keep
+it in your memory so
+
+145
+00:06:59,290 --> 00:07:03,590
+next up we have a second
+degree mobitz type 2 so in
+
+146
+00:07:03,590 --> 00:07:06,730
+this case second degree
+type 2 is similar to second
+
+147
+00:07:06,730 --> 00:07:10,710
+degree type 1 except the
+drop p wave is after a bunch
+
+148
+00:07:10,710 --> 00:07:14,170
+of consistent pr intervals
+now what I mean by this
+
+149
+00:07:14,170 --> 00:07:17,350
+is that there's no
+increasingly prolonging of the
+
+150
+00:07:17,350 --> 00:07:22,050
+pr interval so while we
+saw that in mobitz type 1
+
+151
+00:07:22,050 --> 00:07:24,430
+there was progressive
+prolongation if we look at the
+
+152
+00:07:24,430 --> 00:07:27,470
+rhythm shift on the bottom
+here we see the PR interval
+
+153
+00:07:27,520 --> 00:07:31,710
+is pretty constant until
+we see a lonely P wave
+
+154
+00:07:31,710 --> 00:07:38,680
+and then PR interval
+constant constant etc second
+
+155
+00:07:39,330 --> 00:07:43,570
+degree type 2 AV blocks are
+more symptomatic they're
+
+156
+00:07:43,570 --> 00:07:46,810
+more severe and they're
+treated with pacemakers because
+
+157
+00:07:46,810 --> 00:07:50,050
+the drop beat can cause and
+will cause a bradycardia
+
+158
+00:07:50,180 --> 00:07:52,390
+like we said the patients
+will be symptomatic
+
+159
+00:07:52,390 --> 00:07:55,750
+and they can develop symptoms
+of low cardiac output,
+
+160
+00:07:55,750 --> 00:07:57,870
+be it presyncope, syncope,
+
+161
+00:07:57,930 --> 00:08:00,010
+fatigue, and
+shortness of breath.
+
+162
+00:08:00,180 --> 00:08:02,790
+A pacemaker, which we
+will speak about in a few
+
+163
+00:08:02,790 --> 00:08:05,490
+slides, is a treatment of
+choice because it literally
+
+164
+00:08:05,490 --> 00:08:08,930
+paces the ventricles
+and their contractions.
+
+165
+00:08:09,740 --> 00:08:11,930
+One thing to note
+too is now we're
+
+166
+00:08:11,930 --> 00:08:14,770
+moving lower down in
+the heart's anatomy.
+
+167
+00:08:19,370 --> 00:08:24,190
+So So it won't be
+uncommon to see widening
+
+168
+00:08:24,530 --> 00:08:27,650
+of the QRS complex.
+Not always, but you
+
+169
+00:08:27,650 --> 00:08:29,890
+can see it. Something
+to keep in mind.
+
+170
+00:08:36,590 --> 00:08:39,630
+Now, back to our poem,
+the Heartblock poem.
+
+171
+00:08:39,630 --> 00:08:42,230
+So if we go to
+second degree type 2,
+
+172
+00:08:42,600 --> 00:08:45,030
+it reads, If some R's don't get
+
+173
+00:08:45,030 --> 00:08:47,830
+through, prepare to
+pace them. Mobitz 2.
+
+174
+00:08:49,150 --> 00:08:51,050
+So, like we said,
+
+175
+00:08:51,370 --> 00:08:52,310
+pure interval,
+
+176
+00:08:52,640 --> 00:08:55,330
+pure interval, pure
+interval, finally a drop
+
+177
+00:08:55,330 --> 00:08:57,690
+beat. PR intervals aren't
+getting progressively
+
+178
+00:08:57,690 --> 00:09:00,850
+longer. They're pretty
+much, they can be normal or
+
+179
+00:09:00,850 --> 00:09:04,530
+prolonged, but that
+duration of the PR interval
+
+180
+00:09:04,530 --> 00:09:07,430
+doesn't change until
+finally we have a drop B.
+
+181
+00:09:08,220 --> 00:09:10,910
+So now back to our
+heart block poem. If we
+
+182
+00:09:10,910 --> 00:09:12,950
+find second degree type
+two, which is highlighted
+
+183
+00:09:12,950 --> 00:09:15,090
+in yellow, right?
+Because we're increasing
+
+184
+00:09:15,090 --> 00:09:17,650
+in our severity within
+these heart blocks.
+
+185
+00:09:18,450 --> 00:09:21,910
+Our poem reads, if some R's
+don't get through, prepare
+
+186
+00:09:21,910 --> 00:09:25,490
+to paste that mode with two.
+So again, we have our PR
+
+187
+00:09:25,490 --> 00:09:28,490
+interval that is either that
+is fixed it can be normal
+
+188
+00:09:28,490 --> 00:09:32,920
+or fixed prolonged until
+finally we have a drop b so
+
+189
+00:09:34,430 --> 00:09:37,450
+let me just highlight this
+here again so we have our
+
+190
+00:09:37,450 --> 00:09:41,290
+PR interval here PR interval
+here PR interval here and
+
+191
+00:09:41,290 --> 00:09:45,510
+finally again a dropped QRS
+complex so no QRS complex
+
+192
+00:09:45,510 --> 00:09:49,390
+after this p wave so again
+PR interval is fixed until
+
+193
+00:09:49,390 --> 00:09:53,430
+finally we have a dropped
+QRS complex and And again,
+
+194
+00:09:53,430 --> 00:09:57,070
+prepare to pace that MOBIT
+type 2, cluing you into what
+
+195
+00:09:57,070 --> 00:10:01,290
+the treatment is for MOBIT
+type 2 pace, aka pacemaker.
+
+196
+00:10:01,510 --> 00:10:03,470
+So now let's talk about third
+
+197
+00:10:03,470 --> 00:10:05,170
+degree or complete heart block.
+
+198
+00:10:05,170 --> 00:10:07,150
+Like the name
+suggests, there is
+
+199
+00:10:07,150 --> 00:10:09,450
+complete block or
+complete dissociation
+
+200
+00:10:09,550 --> 00:10:11,310
+between the atria
+and the ventricles.
+
+201
+00:10:11,510 --> 00:10:14,070
+What do we mean by
+this? Well, basically,
+
+202
+00:10:14,070 --> 00:10:16,170
+if we were to take a
+look here at our rhythm
+
+203
+00:10:16,170 --> 00:10:19,330
+strip, we have, and
+we can see, P waves.
+
+204
+00:10:23,310 --> 00:10:25,870
+and also some QRS complexes.
+
+205
+00:10:32,180 --> 00:10:34,080
+If we look at the
+rhythm strip, we
+
+206
+00:10:34,080 --> 00:10:36,160
+can see that there
+are more P waves than
+
+207
+00:10:36,160 --> 00:10:38,320
+QRS complexes,
+right, if we count.
+
+208
+00:10:38,600 --> 00:10:44,040
+And what we also notice is
+that after the P waves, some
+
+209
+00:10:44,040 --> 00:10:46,980
+of them have QRS complexes
+following them, but others
+
+210
+00:10:46,980 --> 00:10:50,130
+don't. This is what we mean
+by complete dissociation.
+
+211
+00:10:50,130 --> 00:10:53,900
+Basically, the atria and
+ventricles are pacing at their
+
+212
+00:10:53,900 --> 00:10:56,520
+own rate. So we're going
+to get P waves that aren't
+
+213
+00:10:56,520 --> 00:10:59,420
+conducted, meaning there's
+no QRS complex after them.
+
+214
+00:10:59,630 --> 00:11:02,340
+And the reason why
+there's more P waves is
+
+215
+00:11:02,340 --> 00:11:04,760
+because the atrial pacing
+is greater than ventricular
+
+216
+00:11:04,760 --> 00:11:06,850
+pacing. So we're going
+to get more P waves
+
+217
+00:11:06,850 --> 00:11:09,320
+and less QRS complexes,
+and we're going to have
+
+218
+00:11:09,320 --> 00:11:11,840
+some P waves without QRS
+complexes after them.
+
+219
+00:11:12,400 --> 00:11:15,920
+Some of the defining
+features of complete heart
+
+220
+00:11:15,920 --> 00:11:20,320
+block is equal PP intervals
+and equal RR intervals.
+
+221
+00:11:20,320 --> 00:11:23,240
+What do we mean by that?
+If we were to count the
+
+222
+00:11:23,240 --> 00:11:27,360
+distance between P waves,
+it would be constant.
+
+223
+00:11:30,280 --> 00:11:33,200
+Similarly, if we count
+the distances between the
+
+224
+00:11:33,200 --> 00:11:37,670
+consecutive QRS complexes,
+it will also be constant.
+
+225
+00:11:38,100 --> 00:11:40,900
+You can even try this
+on your own. If you take
+
+226
+00:11:40,900 --> 00:11:43,720
+your point fingers on
+both hands and you put
+
+227
+00:11:43,720 --> 00:11:47,260
+your left on one P wave,
+the first P wave, and
+
+228
+00:11:47,260 --> 00:11:50,980
+your right index finger
+on the second p wave
+
+229
+00:11:50,980 --> 00:11:55,020
+you can then maintain
+maintaining that distance
+
+230
+00:11:55,420 --> 00:11:57,480
+move your fingers
+throughout the rhythm
+
+231
+00:11:57,480 --> 00:12:00,220
+strip and see that your
+fingers are lining up
+
+232
+00:12:00,740 --> 00:12:04,640
+exactly or constantly within
+each consecutive p wave
+
+233
+00:12:05,460 --> 00:12:07,700
+similarly you can do the
+same thing for the qrs
+
+234
+00:12:07,700 --> 00:12:10,580
+complex but again this
+is a defining feature and
+
+235
+00:12:10,580 --> 00:12:12,950
+something I just wanted to
+point out to you guys um
+
+236
+00:12:13,600 --> 00:12:17,920
+another thing to note too
+right since we're in uh his
+
+237
+00:12:17,920 --> 00:12:20,900
+purkinje system territory
+right because the block
+
+238
+00:12:20,900 --> 00:12:24,100
+is occurring within the
+his purkinje system we can
+
+239
+00:12:24,100 --> 00:12:27,700
+also have changes in the
+qrs complex morphology right
+
+240
+00:12:27,700 --> 00:12:30,580
+because when if we're in
+ventricle ventricle area
+
+241
+00:12:31,360 --> 00:12:34,320
+depolarization may also
+be affected so we can
+
+242
+00:12:34,320 --> 00:12:36,760
+have what's called
+widening of the qrs complex
+
+243
+00:12:38,080 --> 00:12:41,900
+there are many causes of
+third degree or complete
+
+244
+00:12:41,900 --> 00:12:44,800
+heart block so it's
+important to figure out the
+
+245
+00:12:44,800 --> 00:12:46,560
+underlying cause because
+there are some causes
+
+246
+00:12:46,560 --> 00:12:50,600
+like Lyme disease for example
+that can cause or lead
+
+247
+00:12:50,600 --> 00:12:53,180
+to heart block specifically
+third degree heart
+
+248
+00:12:53,180 --> 00:12:55,840
+block but could be a
+treatable or preventable
+
+249
+00:12:55,840 --> 00:13:00,060
+cause but in general for
+third degree heart block
+
+250
+00:13:00,060 --> 00:13:02,880
+for our cases and purposes
+your treatment will be
+
+251
+00:13:02,880 --> 00:13:05,700
+with a pacemaker because
+it will pace the heart.
+
+252
+00:13:11,190 --> 00:13:13,730
+This here is an EKG
+of a third degree
+
+253
+00:13:13,730 --> 00:13:16,650
+complete heart block.
+Again, we can see the P
+
+254
+00:13:16,650 --> 00:13:20,030
+waves beating at their
+own rate, but also
+
+255
+00:13:20,300 --> 00:13:23,330
+spaced pretty evenly
+apart from each other.
+
+256
+00:13:23,790 --> 00:13:26,450
+Same thing with
+the QRS complexes.
+
+257
+00:13:27,660 --> 00:13:30,190
+Again, beating at
+their own rate, but
+
+258
+00:13:30,190 --> 00:13:34,090
+spaced relatively
+equal to each other. So
+
+259
+00:13:34,090 --> 00:13:36,850
+equal PP intervals
+equal r intervals.
+
+260
+00:13:37,280 --> 00:13:40,570
+What I also wanted to
+note, well, want to note to
+
+261
+00:13:40,570 --> 00:13:43,910
+you guys as well is, like
+I mentioned, we're in
+
+262
+00:13:43,910 --> 00:13:46,700
+ventricle territory. So
+the QRS complex can get
+
+263
+00:13:46,700 --> 00:13:49,650
+affected. If we look at
+V1, excuse me, lead one, we
+
+264
+00:13:49,650 --> 00:13:53,230
+see that this QRS complex
+here is prolonged, right?
+
+265
+00:13:53,230 --> 00:13:55,610
+Because we're in ventricle
+areas. QRS complex is
+
+266
+00:13:55,610 --> 00:13:58,130
+also representation of
+ventricular depolarization.
+
+267
+00:13:58,510 --> 00:14:01,010
+Similarly, we have
+an inverted T-wave,
+
+268
+00:14:01,010 --> 00:14:03,200
+again, ventricular
+repolarization.
+
+269
+00:14:03,610 --> 00:14:07,810
+So what I'm trying
+to do is, again,
+
+270
+00:14:07,810 --> 00:14:12,050
+relate normal physiology
+to some of the
+
+271
+00:14:12,050 --> 00:14:13,500
+findings that we'll
+see on the EKG.
+
+272
+00:14:14,400 --> 00:14:16,370
+So this I kind of
+put here for fun,
+
+273
+00:14:16,620 --> 00:14:18,610
+especially for those
+who are interested
+
+274
+00:14:18,610 --> 00:14:20,310
+in cardiology,
+just like myself.
+
+275
+00:14:20,670 --> 00:14:23,370
+So obviously, you won't be
+tested on this slide, but
+
+276
+00:14:23,370 --> 00:14:28,390
+it may help you with
+visualization how the pacemakers
+
+277
+00:14:28,390 --> 00:14:31,390
+work how they're placed
+there's a bunch of different
+
+278
+00:14:31,390 --> 00:14:34,330
+options for pacemakers
+different indications where
+
+279
+00:14:34,330 --> 00:14:39,710
+basically they act like either
+the atria or the ventricles
+
+280
+00:14:40,010 --> 00:14:45,390
+so to bring this all together
+here's a summary of all
+
+281
+00:14:45,390 --> 00:14:49,190
+the av blocks so on the left
+here I included the sites
+
+282
+00:14:49,190 --> 00:14:53,780
+of where the blocks are
+occurring rhythm strips
+
+283
+00:14:53,780 --> 00:14:58,070
+representing what you would
+see in each respective block
+
+284
+00:14:58,070 --> 00:15:02,010
+as well as the correlation
+to the heart poem. All right
+
+285
+00:15:02,010 --> 00:15:05,510
+so take some time to go
+over the slide I think this
+
+286
+00:15:05,510 --> 00:15:07,750
+is probably one of the more
+helpful slides within the
+
+287
+00:15:07,750 --> 00:15:11,110
+lecture and pretty much a
+good summary of what to look
+
+288
+00:15:11,110 --> 00:15:14,430
+for within the blocks where
+the blocks are occurring
+
+289
+00:15:14,730 --> 00:15:18,770
+and again our poem to help
+us remember our finding
+
+290
+00:15:18,770 --> 00:15:22,310
+ECG findings with respect
+to each of the blocks.
+
+291
+00:15:23,430 --> 00:15:25,110
+Before we continue,
+let's briefly
+
+292
+00:15:25,110 --> 00:15:26,850
+review the cardiac
+conduction system.
+
+293
+00:15:26,930 --> 00:15:28,990
+The electricity in the
+heart flows from the
+
+294
+00:15:28,990 --> 00:15:31,850
+SA node to the AV node.
+After, it flows down
+
+295
+00:15:31,850 --> 00:15:33,670
+the bundle of hiss into
+the left and right bundle
+
+296
+00:15:33,670 --> 00:15:35,710
+branches, finally
+ending at the Purkinje
+
+297
+00:15:35,710 --> 00:15:37,890
+fibers which can then
+contract the ventricles.
+
+298
+00:15:38,480 --> 00:15:41,010
+If the bundle branches are
+blocked, it wouldn't be
+
+299
+00:15:41,010 --> 00:15:43,330
+too surprising to see
+that the ventricles would
+
+300
+00:15:43,330 --> 00:15:46,550
+be affected. On an ECG,
+this can show up as changes
+
+301
+00:15:46,550 --> 00:15:49,350
+in the QRS complex, since
+the ventricles would now
+
+302
+00:15:49,350 --> 00:15:52,410
+take longer to fully
+depolarize. Keep this in mind
+
+303
+00:15:52,410 --> 00:15:55,150
+as we continue and begin
+our discussion on bundle
+
+304
+00:15:55,150 --> 00:15:57,890
+branch blocks. So before
+we begin talking about
+
+305
+00:15:57,890 --> 00:16:00,490
+bundle branch blocks, I
+do want to say one thing.
+
+306
+00:16:00,510 --> 00:16:03,870
+I wouldn't go too hard
+remembering or trying to learn
+
+307
+00:16:03,870 --> 00:16:06,490
+all the behind-the-scenes
+information regarding them,
+
+308
+00:16:06,490 --> 00:16:10,870
+because in general, it is
+a lower-yield topic for the
+
+309
+00:16:10,870 --> 00:16:14,150
+boards, but it's pretty
+interesting or cool to learn
+
+310
+00:16:14,150 --> 00:16:17,690
+about, especially being able
+to identify them, especially
+
+311
+00:16:17,690 --> 00:16:19,250
+as you progress during
+your career, during your
+
+312
+00:16:19,250 --> 00:16:22,450
+third-year clinical rotations,
+as well as a physician.
+
+313
+00:16:22,810 --> 00:16:25,990
+So again, don't get too
+caught up in the details.
+
+314
+00:16:25,990 --> 00:16:28,630
+What you will be responsible
+for is being able
+
+315
+00:16:28,630 --> 00:16:31,270
+to identify a right or
+left bundle branch block.
+
+316
+00:16:31,560 --> 00:16:33,530
+I'll make sure to highlight
+when something else is
+
+317
+00:16:33,530 --> 00:16:36,150
+relevant, but if you can
+diagnose or identify left and
+
+318
+00:16:36,150 --> 00:16:39,110
+right bundle branch blocks,
+then you're in a good spot.
+
+319
+00:16:39,330 --> 00:16:41,990
+So general principle that
+I want to bring up before
+
+320
+00:16:41,990 --> 00:16:45,690
+we discuss the more
+specific ECG findings, the
+
+321
+00:16:45,690 --> 00:16:49,270
+ventricular septum itself is
+usually activated from left
+
+322
+00:16:49,270 --> 00:16:51,850
+to right. What this means
+is that the left bundle
+
+323
+00:16:51,850 --> 00:16:58,530
+branch fires at a slightly
+faster rate than the right.
+
+324
+00:16:58,530 --> 00:17:01,070
+You can think about this
+in the terms that the heart
+
+325
+00:17:01,070 --> 00:17:03,350
+and brain's blood supply
+comes from the left side,
+
+326
+00:17:03,350 --> 00:17:06,590
+so it's a more important
+side compared to the right.
+
+327
+00:17:06,790 --> 00:17:09,190
+Now in the left bundle
+branch block, there's an
+
+328
+00:17:09,190 --> 00:17:12,230
+issue with conductance on
+the left bundle branch, hence
+
+329
+00:17:12,230 --> 00:17:14,870
+left bundle branch block.
+This means that the
+
+330
+00:17:14,870 --> 00:17:17,990
+direction of septal
+depolarization becomes reversed.
+
+331
+00:17:18,110 --> 00:17:21,150
+So in a left bundle
+branch block, we
+
+332
+00:17:21,150 --> 00:17:23,070
+have a septal
+depolarization that goes
+
+333
+00:17:23,070 --> 00:17:25,130
+through the right,
+then to the left.
+
+334
+00:17:25,210 --> 00:17:28,230
+The QRS represents
+what on the ECG?
+
+335
+00:17:28,610 --> 00:17:30,510
+Yep, depolarization,
+
+336
+00:17:30,850 --> 00:17:33,590
+specifically ventricular
+depolarization. So
+
+337
+00:17:33,590 --> 00:17:35,710
+something that we've
+touched already is that
+
+338
+00:17:35,710 --> 00:17:38,330
+the QRS complex would
+be prolonged, right?
+
+339
+00:17:38,330 --> 00:17:40,430
+Because we're in
+ventricular area. So beyond
+
+340
+00:17:40,430 --> 00:17:43,270
+the three tiny boxes
+or 120 milliseconds,
+
+341
+00:17:43,350 --> 00:17:45,570
+we therefore have an
+issue in conductance
+
+342
+00:17:45,570 --> 00:17:47,790
+in the ventricles. So
+the normal QRS will
+
+343
+00:17:47,790 --> 00:17:50,070
+be disrupted in some
+way, shape or form.
+
+344
+00:17:51,170 --> 00:17:55,470
+Now V1. So if we look
+back and think about the
+
+345
+00:17:55,470 --> 00:18:00,250
+locations of the actual
+electrodes of the ECG, lead
+
+346
+00:18:00,250 --> 00:18:03,350
+V1 is to the right of the
+heart and V6 is on the
+
+347
+00:18:03,350 --> 00:18:06,010
+opposite, the left side
+of the heart. If the left
+
+348
+00:18:06,010 --> 00:18:08,770
+bundle branch is blocked,
+the right will depolarize
+
+349
+00:18:08,770 --> 00:18:11,530
+normally, then it will
+spread to the left. And
+
+350
+00:18:11,530 --> 00:18:14,470
+again, quick reminder,
+depolarization towards induces
+
+351
+00:18:14,470 --> 00:18:17,030
+a positive deflection,
+and depolarization away
+
+352
+00:18:17,030 --> 00:18:20,230
+induces a negative inflection.
+So as depolarization
+
+353
+00:18:20,230 --> 00:18:22,870
+goes to the left ventricle,
+we see on the ECG a
+
+354
+00:18:22,870 --> 00:18:26,750
+winding of the QRS in V1
+with a more negative QRS.
+
+355
+00:18:26,970 --> 00:18:30,450
+I do also want to mention,
+so the overall direction
+
+356
+00:18:30,450 --> 00:18:33,450
+of depolarization from right
+to left produces a tall
+
+357
+00:18:33,450 --> 00:18:37,050
+R-wave in the lateral
+leads, be it lead 1, V5, and
+
+358
+00:18:37,050 --> 00:18:40,090
+6, and deep S-waves in the
+right precordial leads,
+
+359
+00:18:40,090 --> 00:18:44,670
+V1 to V3, and usually leads
+to left-axis deviation.
+
+360
+00:18:48,430 --> 00:18:52,670
+So here we can see a left
+bundle branch block on a
+
+361
+00:18:52,670 --> 00:18:55,730
+12-lead ECG. What we
+see, we see a widened QRS
+
+362
+00:18:55,730 --> 00:18:59,230
+complex, which we anticipated
+would happen, with a
+
+363
+00:18:59,230 --> 00:19:01,890
+negative inflection in V1,
+like we spoke about just
+
+364
+00:19:01,890 --> 00:19:05,210
+before and we can see that
+in v1 clearly with the
+
+365
+00:19:05,210 --> 00:19:07,830
+widening of the qrs complex
+with like we mentioned a
+
+366
+00:19:07,830 --> 00:19:09,870
+negative inflection right
+so the qrs complex pointing
+
+367
+00:19:09,870 --> 00:19:13,930
+down as well as the changes
+we mentioned in v5 with
+
+368
+00:19:13,930 --> 00:19:21,430
+um prolonged qrs complex
+and a deep tall s wave as
+
+369
+00:19:21,430 --> 00:19:23,930
+we mentioned before we're
+in ventricular area so
+
+370
+00:19:23,930 --> 00:19:27,490
+the qrs complex is going
+to be affected and like we
+
+371
+00:19:27,490 --> 00:19:30,410
+see here prolonged. So we
+have a wide QRS complex
+
+372
+00:19:30,410 --> 00:19:34,450
+we can see in both V1 and
+V5 and we have and we can
+
+373
+00:19:34,450 --> 00:19:38,530
+appreciate the deep S wave
+in V1 as well as the tall
+
+374
+00:19:38,530 --> 00:19:43,210
+or peaked R wave in the
+V5 or the lateral leads.
+
+375
+00:19:43,790 --> 00:19:48,230
+Now why would a bundle
+branch block in general be
+
+376
+00:19:48,230 --> 00:19:51,330
+clinically relevant? Well
+causes of a bundle branch
+
+377
+00:19:51,330 --> 00:19:54,950
+block is although something
+we skipped over earlier is
+
+378
+00:19:54,950 --> 00:19:57,390
+an important finding especially
+if it's a new finding
+
+379
+00:19:57,390 --> 00:20:00,590
+on an EKG. So in a patient
+that develops let's say
+
+380
+00:20:00,590 --> 00:20:04,110
+a new left bundle branch
+block and you compare the
+
+381
+00:20:04,110 --> 00:20:06,510
+ECG you're looking at to
+an old ECG that didn't show
+
+382
+00:20:06,510 --> 00:20:09,450
+that bundle branch block
+it should start to clue you
+
+383
+00:20:09,450 --> 00:20:14,490
+in into a MI or heart
+attack which is an important
+
+384
+00:20:14,490 --> 00:20:16,070
+thing that we don't want
+to miss and keep in our
+
+385
+00:20:16,070 --> 00:20:18,750
+differential. So nuance that
+left bundle branch block
+
+386
+00:20:18,750 --> 00:20:22,790
+could be an MI happening
+right in front of your eyes.
+
+387
+00:20:26,110 --> 00:20:29,290
+So, there are a lot of
+very cool EP specifics when
+
+388
+00:20:29,290 --> 00:20:31,970
+it comes to bundle branch
+blocks, but if you're
+
+389
+00:20:31,970 --> 00:20:36,310
+interested in cardiology,
+you'll learn that and
+
+390
+00:20:36,310 --> 00:20:38,970
+be more exposed to it
+during fellowship training.
+
+391
+00:20:39,070 --> 00:20:41,110
+At this point, we can
+just look at a cute
+
+392
+00:20:41,110 --> 00:20:44,210
+bunny named Roger from
+Melville, New York.
+
+393
+00:20:44,410 --> 00:20:46,350
+Whenever you think of
+right bundle, think of our
+
+394
+00:20:46,350 --> 00:20:48,910
+bunny Roger. Right bundle,
+Roger the rabbit. it.
+
+395
+00:20:49,110 --> 00:20:51,770
+Now, Roger has bunny
+ears. And the way you're
+
+396
+00:20:51,770 --> 00:20:53,930
+going to remember a
+right bundle branch block
+
+397
+00:20:53,930 --> 00:21:00,010
+is by identifying the
+pattern RSR prime in V1.
+
+398
+00:21:00,510 --> 00:21:05,450
+So in this case, why is he
+relevant to our conversation
+
+399
+00:21:05,450 --> 00:21:09,750
+is because it follows a
+bunny-like orientation.
+
+400
+00:21:09,750 --> 00:21:17,630
+So this RSR prime pattern,
+so this be The R, S,
+
+401
+00:21:18,590 --> 00:21:25,310
+R' pattern is said to
+resemble a set of bunny ears.
+
+402
+00:21:29,330 --> 00:21:31,630
+Personally, I've never
+seen it really this way,
+
+403
+00:21:31,630 --> 00:21:34,950
+but if it helps you, then
+remember it that way.
+
+404
+00:21:35,430 --> 00:21:40,670
+It also can be represented
+by the letter M, which we
+
+405
+00:21:40,670 --> 00:21:44,070
+kind of see in the orientation
+that we had drawn here.
+
+406
+00:21:44,070 --> 00:21:48,570
+in the rsr prime pattern
+so whichever way helps you
+
+407
+00:21:48,570 --> 00:21:53,050
+remember it stick to that way
+but again rsr prime pattern
+
+408
+00:21:53,050 --> 00:21:56,570
+that we'll see specifically
+in lead v1 and we'll
+
+409
+00:21:56,570 --> 00:22:00,310
+see in the lateral leads
+some deep s waves with some
+
+410
+00:22:00,350 --> 00:22:04,210
+greater duration in the r
+wave so one thing I do want
+
+411
+00:22:04,210 --> 00:22:08,090
+to mention if we think back
+to the lead placements on
+
+412
+00:22:08,090 --> 00:22:12,010
+a v of an ekg so v1 is to
+the right of the harp and v6
+
+413
+00:22:12,010 --> 00:22:14,450
+is on the opposite side,
+the left side of the heart.
+
+414
+00:22:14,890 --> 00:22:18,370
+If there's a right bundle
+branch block, the left
+
+415
+00:22:18,370 --> 00:22:21,650
+ventricle depolarizes
+normally. Then it'll spread
+
+416
+00:22:21,650 --> 00:22:24,090
+to the right. As the
+polarization goes to the
+
+417
+00:22:24,090 --> 00:22:27,110
+right ventricle, we'll see
+on the ECG a widening of
+
+418
+00:22:27,110 --> 00:22:30,450
+the QRS complex in V1
+with a more positive QRS.
+
+419
+00:22:31,230 --> 00:22:33,210
+Another thing I do
+want to mention too
+
+420
+00:22:33,210 --> 00:22:35,930
+is if we kind of just
+think about this,
+
+421
+00:22:36,510 --> 00:22:38,950
+the right bundle branch
+covers the right side
+
+422
+00:22:38,950 --> 00:22:42,430
+of the heart, so the
+right ventricle. If we
+
+423
+00:22:42,430 --> 00:22:45,730
+reference the ECG setup,
+like we said, we know that
+
+424
+00:22:45,730 --> 00:22:49,070
+V1 and V2 are the leads
+right over the right
+
+425
+00:22:49,070 --> 00:22:52,210
+side of the heart. So
+we'll see changes evident
+
+426
+00:22:52,210 --> 00:22:54,870
+there. Similarly, in
+the left bundle branch
+
+427
+00:22:54,870 --> 00:22:59,890
+block, we'll also see
+changes in the V5 and V6.
+
+428
+00:23:01,030 --> 00:23:04,770
+So I do want to mention one
+thing. If we relate back
+
+429
+00:23:04,770 --> 00:23:08,770
+to the lead placement of
+an EKG when performing an
+
+430
+00:23:08,770 --> 00:23:14,170
+EKG, we remember that V1
+is placed on the right side
+
+431
+00:23:14,170 --> 00:23:17,150
+of the heart and V6 on the
+opposite side, the left
+
+432
+00:23:17,150 --> 00:23:20,750
+side of the heart. Now, if
+the right bundle branch is
+
+433
+00:23:21,730 --> 00:23:24,450
+blocked, the left ventricle
+would depolarize normally,
+
+434
+00:23:24,450 --> 00:23:27,550
+then it'll spread to the
+right. As the polarization
+
+435
+00:23:27,550 --> 00:23:30,690
+goes to the right ventricle,
+we'll see on the ECG a
+
+436
+00:23:30,690 --> 00:23:34,200
+widening of the QRS in V1
+with a more positive QRS.
+
+437
+00:23:34,790 --> 00:23:37,630
+The right bundle branch,
+like we just said, covers
+
+438
+00:23:37,630 --> 00:23:39,950
+the right side of the
+heart, aka right ventricle.
+
+439
+00:23:39,950 --> 00:23:45,170
+So thinking back to the
+ECG setup, V1 and V2
+
+440
+00:23:45,170 --> 00:23:46,990
+are the leads placed
+right over the right side
+
+441
+00:23:46,990 --> 00:23:50,390
+of the heart, so we should
+see ECG changes there.
+
+442
+00:23:56,700 --> 00:24:01,020
+So here's a 12-lead ECG
+with a wide QRS and RSR
+
+443
+00:24:01,020 --> 00:24:04,320
+prime pattern or bunny
+ear pattern in V1 and V2.
+
+444
+00:24:04,680 --> 00:24:07,360
+There's also So
+correlation with
+
+445
+00:24:07,360 --> 00:24:08,520
+the right side of the heart,
+
+446
+00:24:08,880 --> 00:24:14,340
+so V1 and V2, ECG changes,
+and again, our bunny ears,
+
+447
+00:24:14,340 --> 00:24:20,040
+our R-S-R prime pattern,
+our R-S-R prime pattern.
+
+448
+00:24:20,040 --> 00:24:23,320
+You may be asking,
+hey, why is the T
+
+449
+00:24:23,320 --> 00:24:26,480
+-wave inverted in V1
+as well as in V2?
+
+450
+00:24:26,660 --> 00:24:28,500
+Well, if we think about it,
+
+451
+00:24:28,500 --> 00:24:30,720
+what does the T-wave represent?
+
+452
+00:24:30,920 --> 00:24:32,460
+Ventricular depolarization.
+
+453
+00:24:32,600 --> 00:24:35,520
+So, excuse me,
+repolarization. So if there's
+
+454
+00:24:35,520 --> 00:24:38,780
+an issue with ventricular
+depolarization, it
+
+455
+00:24:38,780 --> 00:24:42,360
+wouldn't be hard to imagine
+or assume that there
+
+456
+00:24:42,360 --> 00:24:45,260
+would be changes and
+issues with ventricular
+
+457
+00:24:45,360 --> 00:24:47,720
+repolarization, which
+is why we can also see
+
+458
+00:24:47,720 --> 00:24:50,760
+inverted T-waves or changes
+in T-wave morphology.
+
+459
+00:24:51,200 --> 00:24:54,280
+If that was overwhelming
+or confusing, there is
+
+460
+00:24:54,280 --> 00:24:57,100
+an easier way of identifying
+bundle branch blocks,
+
+461
+00:24:57,100 --> 00:25:00,860
+and for our purposes, we
+only need V1 to do so.
+
+462
+00:25:01,000 --> 00:25:04,520
+This is termed the
+turn signal theory.
+
+463
+00:25:04,520 --> 00:25:07,520
+Now, imagine you're
+walking from the T-wave
+
+464
+00:25:07,520 --> 00:25:10,820
+to the QRS complex,
+moving right to left.
+
+465
+00:25:10,820 --> 00:25:13,000
+If you turn to
+the left, then you
+
+466
+00:25:13,000 --> 00:25:14,660
+have a left bundle
+branch block.
+
+467
+00:25:14,760 --> 00:25:17,240
+The QRS will be more
+negative in inflection.
+
+468
+00:25:17,240 --> 00:25:20,540
+But if you turn to the
+right, then you have a right
+
+469
+00:25:20,540 --> 00:25:23,040
+bundle branch block, and the
+QRS will be more positive.
+
+470
+00:25:23,180 --> 00:25:26,680
+The requirements for this,
+be it bundle branch blocks
+
+471
+00:25:26,680 --> 00:25:29,040
+in general, is that we
+have a QRS duration greater
+
+472
+00:25:29,040 --> 00:25:34,160
+than 120 milliseconds and
+utilizing, again, lead V1.
+
+473
+00:25:36,540 --> 00:25:40,060
+so to illustrate that
+let's look at our
+
+474
+00:25:40,060 --> 00:25:44,060
+lead one here so if
+we were driving a car
+
+475
+00:25:44,060 --> 00:25:47,680
+or walking we'd start
+from the right and
+
+476
+00:25:47,680 --> 00:25:50,460
+move to the left so
+moving from the right
+
+477
+00:25:51,300 --> 00:25:54,640
+if we continue on our
+pathway here we'll
+
+478
+00:25:54,640 --> 00:25:57,710
+see that we have no
+choice but to go right
+
+479
+00:26:00,460 --> 00:26:05,150
+versus if we were to start
+on this complex here start
+
+480
+00:26:05,220 --> 00:26:08,320
+from the right move towards
+the left we have no choice
+
+481
+00:26:08,320 --> 00:26:13,300
+but to move down to the
+left so based off of the
+
+482
+00:26:13,300 --> 00:26:15,900
+direction that we moved starting
+from right to left that'll
+
+483
+00:26:15,900 --> 00:26:19,220
+dictate what kind of bundle
+branch it is so since we
+
+484
+00:26:19,220 --> 00:26:21,640
+had to move right here this
+is a right bundle branch
+
+485
+00:26:21,640 --> 00:26:25,020
+block and if we since we had
+to move our direction towards
+
+486
+00:26:25,020 --> 00:26:27,480
+the left here, this is a
+left bundle branch block.
+
+487
+00:26:32,720 --> 00:26:35,260
+So now let's shift
+the conversation.
+
+488
+00:26:35,760 --> 00:26:37,460
+Want to talk
+electrolyte services?
+
+489
+00:26:37,660 --> 00:26:38,540
+Okay.
+
+490
+00:26:39,340 --> 00:26:42,120
+As you can tell, we're
+going to first start by
+
+491
+00:26:42,120 --> 00:26:45,200
+talking about potassium.
+But before we do that, when
+
+492
+00:26:45,200 --> 00:26:48,580
+it comes to electrolytes,
+we can have a lot of
+
+493
+00:26:48,580 --> 00:26:53,160
+electrolytes or a low
+concentration of electrolytes.
+
+494
+00:26:53,760 --> 00:26:56,840
+Now I want to clue you guys
+into a general paradigm
+
+495
+00:26:56,840 --> 00:27:01,800
+that we can use that works
+about 90% of the time when it
+
+496
+00:27:01,800 --> 00:27:04,920
+comes to electrolyte
+concentrations and ECG changes.
+
+497
+00:27:05,920 --> 00:27:09,540
+About 97% of the time,
+again, this works. So
+
+498
+00:27:09,540 --> 00:27:14,280
+when we have a high
+electrolyte concentration,
+
+499
+00:27:14,280 --> 00:27:19,160
+like in hyperkalemia
+or hypercalcemia, two
+
+500
+00:27:19,160 --> 00:27:22,400
+things that we can note
+and look for are QT and
+
+501
+00:27:22,400 --> 00:27:26,540
+QRS changes. Specifically,
+we will get widening
+
+502
+00:27:26,540 --> 00:27:32,560
+of the QRS complex and
+a short QT interval.
+
+503
+00:27:33,340 --> 00:27:38,200
+On the flip side, we would
+expect the reverse. When
+
+504
+00:27:38,200 --> 00:27:41,110
+we have a low electrolyte
+concentration like
+
+505
+00:27:41,110 --> 00:27:46,160
+hypokalemia and hypocalcemia,
+we would expect a prolonged
+
+506
+00:27:46,160 --> 00:27:51,980
+QT interval and a shorter
+QRS complex duration.
+
+507
+00:27:52,400 --> 00:27:57,040
+Again, this is a general
+rule to keep in mind. It
+
+508
+00:27:57,040 --> 00:27:59,860
+can help make it easier
+to learn some of the ECG
+
+509
+00:27:59,860 --> 00:28:03,200
+changes when it comes to
+electrolyte disturbances. It
+
+510
+00:28:03,200 --> 00:28:06,960
+works, again, about 90%
+of the time. So keep this
+
+511
+00:28:06,960 --> 00:28:11,300
+in mind as you review, as
+you go through ECGs with
+
+512
+00:28:11,640 --> 00:28:14,480
+electrolyte anomalies.
+It can make it easier
+
+513
+00:28:14,480 --> 00:28:17,780
+for you to kind of group
+all the ECG changes and
+
+514
+00:28:17,780 --> 00:28:21,520
+make it a little bit
+easier to understand and
+
+515
+00:28:21,520 --> 00:28:25,240
+have less to memorize
+if we group changes in
+
+516
+00:28:25,240 --> 00:28:28,060
+electrolytes based off
+of groups and grouping.
+
+517
+00:28:32,300 --> 00:28:36,540
+So as we mentioned, why
+do we want to talk about
+
+518
+00:28:36,540 --> 00:28:38,440
+electrolytes in general?
+Well, when we have
+
+519
+00:28:38,440 --> 00:28:40,260
+electrolyte disturbances,
+we're going to worry about
+
+520
+00:28:40,260 --> 00:28:43,990
+the heart. And potassium
+is one of the big ions
+
+521
+00:28:44,160 --> 00:28:47,540
+that we want to worry
+about electrolytes. So with
+
+522
+00:28:47,540 --> 00:28:50,460
+potassium, as we mentioned,
+going back to our
+
+523
+00:28:50,460 --> 00:28:52,760
+general paradigm, what
+we can expect to see when
+
+524
+00:28:52,760 --> 00:28:56,400
+there's high potassium
+is, on the ECG, is QT
+
+525
+00:28:56,400 --> 00:29:00,220
+interval shortening and
+winding of the QRS complex.
+
+526
+00:29:01,260 --> 00:29:04,380
+One thing that we do want
+to note that's pretty
+
+527
+00:29:04,380 --> 00:29:09,040
+specific for very high
+potassium is tall, peak, narrow
+
+528
+00:29:09,040 --> 00:29:11,960
+T waves. Now, one way to
+think about this or remember
+
+529
+00:29:11,960 --> 00:29:14,320
+this is to remember that
+K, or potassium limbs
+
+530
+00:29:14,320 --> 00:29:18,110
+lives under the T wave so
+with hyperkalemia we get
+
+531
+00:29:18,110 --> 00:29:23,560
+spiked or peaked T waves
+and by peaked we mean T wave
+
+532
+00:29:23,560 --> 00:29:29,180
+amplitude that's bigger than
+the QRS complex amplitude
+
+533
+00:29:29,180 --> 00:29:33,800
+so this is a pretty high
+yield ECG findings to
+
+534
+00:29:33,800 --> 00:29:37,400
+know of especially because
+it's specific to hyperkalemia
+
+535
+00:29:37,400 --> 00:29:40,280
+so knowing this is going
+to be important on exams
+
+536
+00:29:40,280 --> 00:29:42,440
+and on boards and again
+in clinical practice
+
+537
+00:29:42,440 --> 00:29:44,900
+especially because this is
+one of the first things you'll
+
+538
+00:29:44,900 --> 00:29:48,560
+see with an elevated
+potassium level, is the tall
+
+539
+00:29:48,740 --> 00:29:52,260
+peaked T waves. As the
+concentration continues to
+
+540
+00:29:52,260 --> 00:29:55,780
+increase, then we see further
+ECG changes. But again,
+
+541
+00:29:55,780 --> 00:29:58,100
+for our level, we mostly
+want to, and for boards,
+
+542
+00:29:58,100 --> 00:30:01,560
+we mostly want to think of
+tall peaked T waves being
+
+543
+00:30:01,730 --> 00:30:05,280
+representative and
+associated with hyperkalemia.
+
+544
+00:30:10,040 --> 00:30:14,060
+So if we get peak T-waves
+and hyperkalemia, then we
+
+545
+00:30:14,060 --> 00:30:17,330
+must get flattened or shallow
+T-waves and hypokalemia.
+
+546
+00:30:17,550 --> 00:30:19,620
+Now, it may even get to
+the level of dragging
+
+547
+00:30:19,620 --> 00:30:21,800
+down the ST segment
+if severe enough.
+
+548
+00:30:22,380 --> 00:30:25,020
+One pretty vital or
+important thing for us to
+
+549
+00:30:25,020 --> 00:30:28,260
+know about is another
+wave called the U-wave.
+
+550
+00:30:28,380 --> 00:30:31,260
+As you can imagine, in
+the alphabet, the letter U
+
+551
+00:30:31,260 --> 00:30:35,580
+comes after T, so it's not
+hard to see that it is another
+
+552
+00:30:35,580 --> 00:30:38,640
+inflection in the ECG that
+comes after the U-wave.
+
+553
+00:30:38,960 --> 00:30:41,660
+The U-wave itself
+represents repolarization of
+
+554
+00:30:41,660 --> 00:30:44,340
+Purkinje fibers and it's
+always there in the ECG but
+
+555
+00:30:44,340 --> 00:30:46,280
+it's usually so small
+that we can't really tell.
+
+556
+00:30:46,540 --> 00:30:49,520
+Now for this reason
+again super high yield
+
+557
+00:30:49,520 --> 00:30:52,020
+for us to recognize
+shallow T waves with
+
+558
+00:30:52,020 --> 00:30:54,980
+a U wave is characteristic
+of hypokalemia.
+
+559
+00:30:55,340 --> 00:30:58,140
+A way to remember this
+is substituting the
+
+560
+00:30:58,140 --> 00:31:02,320
+O in hypokalemia with
+U or hypokalemia.
+
+561
+00:31:02,830 --> 00:31:05,040
+The reason why we care
+about low electrolytes
+
+562
+00:31:05,040 --> 00:31:08,320
+like potassium is that,
+as we mentioned before,
+
+563
+00:31:08,840 --> 00:31:12,100
+prolongation of the QT
+interval, which if we
+
+564
+00:31:12,100 --> 00:31:14,720
+remember it to our
+prior lectures, can
+
+565
+00:31:14,720 --> 00:31:18,170
+induce torsades de point,
+which can be lethal.
+
+566
+00:31:18,800 --> 00:31:20,700
+Now, on to calcium.
+
+567
+00:31:20,920 --> 00:31:22,780
+Again, as we mentioned before,
+
+568
+00:31:22,940 --> 00:31:25,540
+one of the things that
+we can see with increased
+
+569
+00:31:25,540 --> 00:31:29,020
+electrolyte concentration
+would be QT interval
+
+570
+00:31:29,020 --> 00:31:31,540
+shortening, which is
+one of the hallmarks of
+
+571
+00:31:31,660 --> 00:31:32,560
+hypercalcemia.
+
+572
+00:31:33,980 --> 00:31:36,740
+Hypercalcemia in itself
+has a ton of different
+
+573
+00:31:36,740 --> 00:31:39,980
+causes. In our conversation,
+we just want to fixate
+
+574
+00:31:39,980 --> 00:31:43,100
+and look at what it would
+look like on an ECG.
+
+575
+00:31:43,530 --> 00:31:44,860
+Obviously, you're not
+going to look at an
+
+576
+00:31:44,860 --> 00:31:47,240
+ECG to find the cause.
+This is where blood
+
+577
+00:31:47,240 --> 00:31:50,040
+tests like a BMP, CMP,
+which are basic or
+
+578
+00:31:50,040 --> 00:31:53,420
+comprehensive metabolic
+panels come into play.
+
+579
+00:31:54,040 --> 00:31:56,340
+So again, just
+for hypercalcemia,
+
+580
+00:31:57,180 --> 00:31:59,460
+QT interval shortening
+is pretty much
+
+581
+00:31:59,460 --> 00:32:01,480
+the hallmark of what
+we're going to see.
+
+582
+00:32:01,820 --> 00:32:05,040
+So when it comes to
+calcium, the more imminently
+
+583
+00:32:05,040 --> 00:32:08,400
+dangerous of the
+calcaemias for the heart is
+
+584
+00:32:08,400 --> 00:32:11,960
+hypocalcemia. As we mentioned
+before, in hypocalcemia
+
+585
+00:32:11,960 --> 00:32:14,220
+and in general,
+following our general
+
+586
+00:32:14,220 --> 00:32:16,020
+paradigm, when we have
+a low concentration of
+
+587
+00:32:16,020 --> 00:32:19,640
+electrolytes, we're likely
+to see QT interval changes,
+
+588
+00:32:19,640 --> 00:32:22,140
+specifically prolongation
+of the QT interval.
+
+589
+00:32:22,540 --> 00:32:25,340
+Now, this may be
+problematic because we all
+
+590
+00:32:25,340 --> 00:32:27,440
+know that a prolonged
+QT interval redisposes
+
+591
+00:32:27,440 --> 00:32:30,160
+us to something. And
+what is that condition?
+
+592
+00:32:30,540 --> 00:32:32,540
+Right, torsades de point.
+
+593
+00:32:33,460 --> 00:32:37,640
+Hypocalcemia, hypokalemia,
+and hypomagnesemia can
+
+594
+00:32:37,640 --> 00:32:40,940
+actually cause QT prolongation,
+which can lead to torsades.
+
+595
+00:32:40,940 --> 00:32:43,880
+This is pretty high yield
+to know, specifically the
+
+596
+00:32:43,880 --> 00:32:48,620
+electrolytes. And it can
+also help us remember the
+
+597
+00:32:48,620 --> 00:32:54,580
+association between low
+electrolyte, QT prolongation,
+
+598
+00:32:54,740 --> 00:32:56,340
+and torsades de point.
+
+599
+00:32:56,500 --> 00:32:59,550
+So again, establishing
+and grouping
+
+600
+00:32:59,550 --> 00:33:02,840
+similarities like low
+electrolyte concentrations
+
+601
+00:33:02,840 --> 00:33:06,280
+and ECG changes are
+pretty helpful and
+
+602
+00:33:06,280 --> 00:33:08,320
+something you should
+definitely be aware of.
+
+603
+00:33:08,720 --> 00:33:11,560
+So this is kind of a random
+thing to throw in here.
+
+604
+00:33:11,560 --> 00:33:13,680
+Obviously, hypothermia
+is not an electrolyte
+
+605
+00:33:13,680 --> 00:33:16,080
+disturbance, but it does
+cause a characteristic wave
+
+606
+00:33:16,080 --> 00:33:19,800
+that we get to know of
+called an Osborne or J-wave.
+
+607
+00:33:19,800 --> 00:33:22,380
+It's important to know
+both names. I've seen
+
+608
+00:33:22,380 --> 00:33:25,340
+it referred to as
+Osborne wave or J-wave on
+
+609
+00:33:25,340 --> 00:33:27,460
+exams. so just commit
+it to memory from now.
+
+610
+00:33:28,220 --> 00:33:32,440
+The J wave is also known as
+the Camelholm sign, which
+
+611
+00:33:32,440 --> 00:33:34,800
+maybe it helps you remember
+the kind of morphology
+
+612
+00:33:34,800 --> 00:33:37,860
+that it gives. So again,
+just going back to the normal
+
+613
+00:33:37,860 --> 00:33:43,440
+EKG, we have our QRS complex
+followed by the T wave.
+
+614
+00:33:43,880 --> 00:33:45,660
+This point here
+
+615
+00:33:46,840 --> 00:33:49,520
+at the end of the QRS complex
+
+616
+00:33:49,520 --> 00:33:51,320
+is referred to as a J point.
+
+617
+00:33:53,200 --> 00:33:57,800
+what we can get especially
+when it comes to hypothermia
+
+618
+00:33:57,800 --> 00:34:03,180
+is what's called j-point
+elevation so we have
+
+619
+00:34:03,180 --> 00:34:07,460
+our normal QRS complex here
+followed by an upsloping
+
+620
+00:34:09,580 --> 00:34:12,900
+of the j-point so
+where it was nice
+
+621
+00:34:12,900 --> 00:34:16,800
+and fixed in our
+first schematic here
+
+622
+00:34:17,680 --> 00:34:21,200
+highlighted in red, we
+don't really see that in our
+
+623
+00:34:21,200 --> 00:34:25,120
+bottom drawing, nor do we
+see that on the actual EKG.
+
+624
+00:34:26,880 --> 00:34:30,900
+So just to give you
+guys some information on
+
+625
+00:34:30,900 --> 00:34:34,240
+what the J-point is
+and how it's related to
+
+626
+00:34:34,240 --> 00:34:37,480
+Osborne waves. So part
+of the reason why it
+
+627
+00:34:37,480 --> 00:34:40,820
+gets the name J-waves
+is J-point elevation.
+
+628
+00:34:41,010 --> 00:34:43,100
+And again, remember
+the other name as well,
+
+629
+00:34:43,100 --> 00:34:45,780
+because we don't want
+to lose points on exams,
+
+630
+00:34:45,820 --> 00:34:48,080
+especially on the
+NBMEs and Comlex.
+
+631
+00:34:49,180 --> 00:34:51,800
+So here's a summary slide
+of what we spoke about.
+
+632
+00:34:51,800 --> 00:34:54,440
+Again if you can remember
+our general paradigm as
+
+633
+00:34:54,440 --> 00:34:56,560
+well as some of the specifics
+when it comes to the
+
+634
+00:34:56,560 --> 00:34:59,160
+electrolyte disturbances
+should be in a good place.
+
+635
+00:35:00,180 --> 00:35:02,480
+So here are two more
+pathologies that
+
+636
+00:35:02,480 --> 00:35:04,100
+are relevant to clinical
+practice. They're
+
+637
+00:35:04,100 --> 00:35:06,120
+not too relevant
+for exams on ECG.
+
+638
+00:35:06,580 --> 00:35:09,160
+Feel free to take what you
+want from these next slides.
+
+639
+00:35:09,160 --> 00:35:10,420
+They'll definitely help
+you though when you're
+
+640
+00:35:10,420 --> 00:35:14,720
+suspicious on some odd ECGs
+with a symptomatic patient.
+
+641
+00:35:18,860 --> 00:35:21,580
+So I'm not going to
+jump into LVH or left
+
+642
+00:35:21,580 --> 00:35:23,640
+ventricular hypertrophy
+too much, but what
+
+643
+00:35:23,640 --> 00:35:25,600
+we need to know is
+that in ventricular
+
+644
+00:35:25,600 --> 00:35:27,920
+hypertrophy we get,
+like the name suggests,
+
+645
+00:35:28,040 --> 00:35:31,120
+thickening of the ventricles.
+This can be seen usually
+
+646
+00:35:31,120 --> 00:35:33,980
+from chronic hypertension
+or high blood pressure.
+
+647
+00:35:34,220 --> 00:35:37,880
+Now the thickening of the
+myocardial fibers when it
+
+648
+00:35:37,880 --> 00:35:40,800
+comes to hypertrophy occurs
+in a parallel fashion.
+
+649
+00:35:41,220 --> 00:35:45,460
+This is in contrast to
+dilated cardiomyopathy where
+
+650
+00:35:45,460 --> 00:35:49,500
+the heart is expanding
+in series. Now we put a
+
+651
+00:35:49,500 --> 00:35:52,820
+series and parallel circuit
+schematic here. I hope it's
+
+652
+00:35:52,820 --> 00:35:55,760
+not too triggering but
+it's a good way to think
+
+653
+00:35:55,760 --> 00:35:59,180
+about how the sarcomeres
+are added be it in series
+
+654
+00:35:59,180 --> 00:36:03,500
+or parallel and how it would
+affect the heart. So in
+
+655
+00:36:03,500 --> 00:36:06,880
+LVH we get thickening of
+the actual ventricular
+
+656
+00:36:06,880 --> 00:36:10,060
+wall versus in dilated
+cardiomyopathy where we get
+
+657
+00:36:10,060 --> 00:36:14,020
+kind of widening or enlargement
+of the heart but not
+
+658
+00:36:14,020 --> 00:36:17,220
+the thickening of the
+ventricles that we see here.
+
+659
+00:36:19,760 --> 00:36:23,600
+In terms of LVH on the
+ECG, we see an increased
+
+660
+00:36:23,600 --> 00:36:26,860
+amplitude in the curious
+complexes throughout the EKG.
+
+661
+00:36:27,430 --> 00:36:29,680
+When it comes to precordial
+leads, so there are
+
+662
+00:36:29,680 --> 00:36:33,440
+specific criteria. There's
+a so-called Lyon criteria,
+
+663
+00:36:33,440 --> 00:36:37,220
+there's a Cornell criteria
+but for our cases and
+
+664
+00:36:37,220 --> 00:36:40,080
+purposes just to be able to
+recognize it what we can look
+
+665
+00:36:40,080 --> 00:36:42,820
+for especially in the
+precordial leads is at the
+
+666
+00:36:42,820 --> 00:36:47,200
+QRS amplitude now when
+we're suspecting ventricular
+
+667
+00:36:47,200 --> 00:36:49,820
+hypertrophy specifically in
+the precordial leads we're
+
+668
+00:36:49,820 --> 00:36:52,940
+looking for a QRS amplitude
+of at least two big
+
+669
+00:36:52,940 --> 00:36:58,660
+boxes so lead two kind of
+illustrates that pretty well
+
+670
+00:36:58,660 --> 00:37:02,610
+for us excuse me lead three
+so we have a QRS complex
+
+671
+00:37:02,960 --> 00:37:06,480
+amplitude here of almost
+about three big boxes.
+
+672
+00:37:06,740 --> 00:37:09,540
+Even lead two here on
+the rhythm strip, we're
+
+673
+00:37:09,540 --> 00:37:12,260
+kind of borderline
+two big boxes, so it's
+
+674
+00:37:12,260 --> 00:37:14,880
+cluing us into some
+ventricular hypertrophy.
+
+675
+00:37:15,700 --> 00:37:21,200
+When it comes to the precordial
+leads, V1 to V6, good
+
+676
+00:37:21,200 --> 00:37:23,400
+rule of thumb to recognize
+hypertrophy, ventricular
+
+677
+00:37:23,400 --> 00:37:28,920
+hypertrophy, is a QRS
+amplitude of at least five big
+
+678
+00:37:28,920 --> 00:37:32,520
+boxes. So if we start here,
+we get about half a box,
+
+679
+00:37:32,520 --> 00:37:35,460
+one big box, two big box,
+three big box, four big
+
+680
+00:37:35,460 --> 00:37:40,780
+boxes, so about four and a
+half big boxes in amplitude.
+
+681
+00:37:41,140 --> 00:37:43,880
+V2 probably illustrates
+this a lot better, and also
+
+682
+00:37:43,880 --> 00:37:47,000
+V3, where if we start from
+the QRS amplitude here,
+
+683
+00:37:47,000 --> 00:37:51,580
+we're getting one big box,
+two, three, four, five
+
+684
+00:37:51,580 --> 00:37:56,060
+six seven eight so we've
+fulfilled this criteria
+
+685
+00:37:56,060 --> 00:37:58,940
+especially within the picordial
+leads especially v2 and
+
+686
+00:37:58,940 --> 00:38:03,540
+v3 so good rule of thumb
+there are criteria which
+
+687
+00:38:03,540 --> 00:38:08,320
+you can also look up there
+are specific volt amplitudes
+
+688
+00:38:08,320 --> 00:38:10,900
+between leads where you
+can get the summation of
+
+689
+00:38:10,900 --> 00:38:14,240
+those and it'll clue you
+in and fulfill one of the
+
+690
+00:38:14,240 --> 00:38:18,660
+criterias for lvh but a
+good rule of thumb if your
+
+691
+00:38:18,660 --> 00:38:22,700
+QRS amplitude in the limb
+leads is greater than two
+
+692
+00:38:22,700 --> 00:38:26,000
+big boxes, that's kind of
+the precordial criteria
+
+693
+00:38:26,000 --> 00:38:29,020
+that you're meeting. And
+if you have a QRS amplitude
+
+694
+00:38:29,020 --> 00:38:33,340
+in the precordial leads
+that is greater than five
+
+695
+00:38:33,340 --> 00:38:35,630
+big boxes, you're kind of
+fulfilling the precordial
+
+696
+00:38:36,180 --> 00:38:38,660
+ventricular hypertrophy
+criteria in that
+
+697
+00:38:38,660 --> 00:38:40,620
+sense. So two big boxes
+in the limb leads,
+
+698
+00:38:40,620 --> 00:38:42,480
+five big boxes in
+the precordial leads.
+
+699
+00:38:43,900 --> 00:38:47,080
+So we spoke about issues
+at the AV node, which
+
+700
+00:38:47,080 --> 00:38:49,300
+are more common than
+what we're going to
+
+701
+00:38:49,300 --> 00:38:51,220
+speak about now, which
+is called sick sinus
+
+702
+00:38:51,220 --> 00:38:54,340
+syndrome, where there's
+a problem at the SA node.
+
+703
+00:38:54,500 --> 00:38:56,840
+Now, sick sinus
+syndrome occurs from
+
+704
+00:38:56,840 --> 00:38:58,520
+a lot of different
+reasons, but it's
+
+705
+00:38:58,520 --> 00:39:00,940
+most commonly caused
+by advanced age.
+
+706
+00:39:01,100 --> 00:39:03,220
+The symptoms are
+the same as any
+
+707
+00:39:03,220 --> 00:39:04,780
+other pathologic bradycardia,
+
+708
+00:39:04,780 --> 00:39:06,700
+so dizziness,
+presyncope, syncope,
+
+709
+00:39:06,700 --> 00:39:08,280
+shortness of
+breath, and fatigue.
+
+710
+00:39:08,420 --> 00:39:11,080
+You can treat this
+condition with a pacemaker.
+
+711
+00:39:14,460 --> 00:39:16,500
+so that concludes
+our fourth and final
+
+712
+00:39:16,500 --> 00:39:19,000
+lecture in the clinical
+cardiology series
+
+713
+00:39:19,250 --> 00:39:21,220
+hope you found these
+lectures to be valuable
+
+714
+00:39:21,220 --> 00:39:23,380
+to your learning and I
+appreciate any feedback
+
+715
+00:39:23,460 --> 00:39:26,720
+feel free to email me or
+any of the senior members of
+
+716
+00:39:26,720 --> 00:39:30,660
+the research team if you
+have any questions also join
+
+717
+00:39:30,660 --> 00:39:32,980
+us on mondays from 12 to 1
+eastern standard time over
+
+718
+00:39:32,980 --> 00:39:36,580
+zoom to review ecgs for
+more exposure I know in the
+
+719
+00:39:36,580 --> 00:39:39,580
+beginning especially with
+ecgs it can be a pretty
+
+720
+00:39:39,580 --> 00:39:43,660
+daunting task so I hope I was
+able to make ecg reading a
+
+721
+00:39:43,660 --> 00:39:47,050
+bit more attainable and
+increase your confidence and
+
+722
+00:39:47,050 --> 00:39:50,080
+again as always make sure to
+take some time for yourself
+
+723
+00:39:50,080 --> 00:39:52,200
+every day because your
+mental health is an important
+
+724
+00:39:52,200 --> 00:39:54,940
+aspect of developing
+yourself not only as a person
+
+725
+00:39:54,940 --> 00:39:58,570
+but as a physician best of
+luck to you guys and again
+
+726
+00:39:58,570 --> 00:40:00,940
+feel free to reach out with
+any questions or concerns

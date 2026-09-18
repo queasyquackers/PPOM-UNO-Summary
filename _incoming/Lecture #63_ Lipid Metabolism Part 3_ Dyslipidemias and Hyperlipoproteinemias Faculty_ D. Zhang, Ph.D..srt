@@ -1,0 +1,1910 @@
+1
+00:00:01,150 --> 00:00:05,850
+Hello, this is Dr. Dong
+-Zan. In this lecture, we'll
+
+2
+00:00:05,850 --> 00:00:11,090
+discuss a few lipid
+metabolism related disorders.
+
+3
+00:00:11,690 --> 00:00:17,710
+Here's the learning
+objectives to help you how
+
+4
+00:00:17,710 --> 00:00:20,670
+to learn this particular
+lecture. But overall,
+
+5
+00:00:21,050 --> 00:00:23,790
+we'll try to apply what
+you have learned in
+
+6
+00:00:23,790 --> 00:00:26,270
+the cholesterol
+biosynthesis lecture and the
+
+7
+00:00:26,270 --> 00:00:29,490
+lipoprotein lecture.
+and to explain some of
+
+8
+00:00:29,490 --> 00:00:33,070
+the clinical manifestation
+of these disorders,
+
+9
+00:00:33,070 --> 00:00:36,750
+and also try to better
+understand why certain
+
+10
+00:00:36,750 --> 00:00:41,090
+drugs that can be used
+to treat these disorders.
+
+11
+00:00:42,190 --> 00:00:47,830
+And this table nicely
+summarized the disorders
+
+12
+00:00:47,830 --> 00:00:50,810
+related to
+lipoproteins, right? And
+
+13
+00:00:50,810 --> 00:00:54,370
+there's two big family
+of them. One is called
+
+14
+00:00:54,370 --> 00:00:58,430
+Hypo, right? Hypo means
+lower than normal.
+
+15
+00:00:58,550 --> 00:01:01,610
+Hypo lipoproteinemia, right?
+
+16
+00:01:01,730 --> 00:01:02,970
+And conversely,
+
+17
+00:01:03,130 --> 00:01:06,250
+they're also hyper,
+right? Hyper means
+
+18
+00:01:06,250 --> 00:01:11,260
+higher than normal levels.
+So hyper lipoproteinemia.
+
+19
+00:01:11,670 --> 00:01:15,570
+And we'll discuss
+them one by one.
+
+20
+00:01:17,210 --> 00:01:22,010
+So, here I present you a
+general strategy in terms
+
+21
+00:01:22,010 --> 00:01:25,450
+of how you identify and
+treat clinical conditions.
+
+22
+00:01:25,930 --> 00:01:28,690
+And obviously, these are
+simplified strategies,
+
+23
+00:01:28,690 --> 00:01:31,310
+and in reality, it's going
+to be more complicated.
+
+24
+00:01:31,510 --> 00:01:35,410
+But anyway, so if you
+could, first identify
+
+25
+00:01:35,410 --> 00:01:38,910
+which gene in the patient
+is mutated. Right.
+
+26
+00:01:39,110 --> 00:01:42,650
+And then you need to think
+about what is the normal
+
+27
+00:01:42,650 --> 00:01:45,650
+physiological function
+of the protein that
+
+28
+00:01:45,650 --> 00:01:49,870
+encoded by the mutated
+genes. Right. And from there,
+
+29
+00:01:49,870 --> 00:01:53,870
+and you can try to see
+if you could rationalize
+
+30
+00:01:53,870 --> 00:01:57,770
+the clinical manifestation
+and based on the
+
+31
+00:01:57,770 --> 00:02:01,330
+physiological function
+that you already know. And
+
+32
+00:02:01,330 --> 00:02:06,150
+hopefully you'll find
+actionable pharmacological
+
+33
+00:02:06,150 --> 00:02:10,530
+intervention that to
+compensate or crack the defect.
+
+34
+00:02:12,150 --> 00:02:15,520
+So first we want to discuss the
+
+35
+00:02:16,440 --> 00:02:19,830
+hyperlipoproteinemia, right?
+Again, hyper indicating
+
+36
+00:02:19,830 --> 00:02:24,270
+that these individuals
+has higher level
+
+37
+00:02:24,270 --> 00:02:29,030
+of lipoprotein than
+a healthy individual.
+
+38
+00:02:30,390 --> 00:02:34,810
+So the first, the type
+1 hyperlipoproteinemia
+
+39
+00:02:35,950 --> 00:02:41,350
+is also called familial
+lipoprotein lipase
+
+40
+00:02:41,350 --> 00:02:44,490
+deficiency, right?
+Just from the name that
+
+41
+00:02:44,490 --> 00:02:50,270
+indicating the lipase
+LPL is deficient, right?
+
+42
+00:02:50,450 --> 00:02:54,590
+And this could due to
+either the genes that
+
+43
+00:02:54,590 --> 00:02:59,850
+encoding the LPL is mutated,
+right? As you recall,
+
+44
+00:03:00,130 --> 00:03:05,050
+we discussed that the
+function of the LPL is
+
+45
+00:03:05,050 --> 00:03:09,090
+to digest or transfer
+the triglycerides from
+
+46
+00:03:09,090 --> 00:03:13,510
+carlomicron into peripheral
+tissues. In addition,
+
+47
+00:03:14,050 --> 00:03:18,730
+for the VLDL, they also
+digest the triglycerides
+
+48
+00:03:18,730 --> 00:03:22,570
+in the VLDL and transfer
+these free fatty
+
+49
+00:03:22,570 --> 00:03:26,150
+acids or lipids into
+the peripheral tissues.
+
+50
+00:03:28,210 --> 00:03:31,900
+In addition, if you
+recall, we also discussed
+
+51
+00:03:31,900 --> 00:03:37,580
+that one of the apoprotein
+called APOC2, and APOC2
+
+52
+00:03:38,350 --> 00:03:43,890
+can be found both on the
+carbon micron as well
+
+53
+00:03:43,890 --> 00:03:48,630
+as the VLDL, right? The
+major function of APOLC2
+
+54
+00:03:48,630 --> 00:03:53,270
+is to activate the
+enzyme activities of LPL.
+
+55
+00:03:53,370 --> 00:03:57,950
+So as you can imagine,
+that mutation that
+
+56
+00:03:57,950 --> 00:04:00,790
+happened in the gene
+that encoding APOLC2
+
+57
+00:04:01,670 --> 00:04:07,970
+leads to the not sufficient
+activation of the LPL.
+
+58
+00:04:07,970 --> 00:04:11,590
+Right. So because the
+critical function of LPL
+
+59
+00:04:11,590 --> 00:04:16,450
+in digesting the
+triglycerides from chalomicron
+
+60
+00:04:16,450 --> 00:04:21,610
+from VLDL. Right. So
+therefore, that would lead to
+
+61
+00:04:21,610 --> 00:04:25,770
+the increased chalomicron
+and VLDL in the blood.
+
+62
+00:04:25,890 --> 00:04:31,910
+Right. And as you recall,
+the LDL is a metabolized
+
+63
+00:04:31,910 --> 00:04:36,350
+VLDL. right? Because
+the VLDL increase,
+
+64
+00:04:36,790 --> 00:04:40,750
+its metabolite LDL
+obviously going to decrease,
+
+65
+00:04:40,790 --> 00:04:46,670
+right? And we also discussed
+that when HDL is first
+
+66
+00:04:46,670 --> 00:04:51,650
+synthesized, they are also
+called nascent HDL, right?
+
+67
+00:04:51,820 --> 00:04:55,890
+Nascent HDL has a lot of
+apoproteins, but don't
+
+68
+00:04:55,890 --> 00:04:58,350
+have a whole lot of
+lipid triglycerides and
+
+69
+00:04:58,350 --> 00:05:03,170
+cholesterol and during the
+maturation process from
+
+70
+00:05:03,170 --> 00:05:09,130
+the nascent hdl to the
+mature hdl it pick up many
+
+71
+00:05:09,130 --> 00:05:14,290
+lipid from the color
+micron or from the vldl at
+
+72
+00:05:14,290 --> 00:05:18,230
+the same time transfer
+some of the april protein
+
+73
+00:05:18,420 --> 00:05:21,670
+to the nascent chylomicron
+and nascent ldl
+
+74
+00:05:21,670 --> 00:05:27,610
+right therefore when
+you have increased
+
+75
+00:05:29,290 --> 00:05:33,170
+chylomicron vldl
+affecting the maturation
+
+76
+00:05:33,170 --> 00:05:37,870
+of the hdl right
+therefore the hdl level in
+
+77
+00:05:37,870 --> 00:05:41,630
+the patient is also
+reduced but interestingly
+
+78
+00:05:41,630 --> 00:05:44,870
+these individuals
+actually don't have any
+
+79
+00:05:45,110 --> 00:05:48,270
+increased risk for
+coronary disease.
+
+80
+00:05:49,750 --> 00:05:54,410
+So that type 2
+hyperlipropotinemia is
+
+81
+00:05:54,410 --> 00:05:59,010
+also called familial
+hypercholesterolemia,
+
+82
+00:05:59,450 --> 00:06:01,940
+right? Again, as
+the name indicated,
+
+83
+00:06:02,270 --> 00:06:04,430
+the patient is going
+to have higher levels
+
+84
+00:06:04,430 --> 00:06:07,130
+of cholesterol in
+their blood, Right.
+
+85
+00:06:07,550 --> 00:06:09,690
+And as you recall,
+
+86
+00:06:10,030 --> 00:06:15,610
+during the uptake
+of LDL by either the
+
+87
+00:06:15,610 --> 00:06:19,330
+peripheral cells or mainly
+by the liver. Right.
+
+88
+00:06:19,550 --> 00:06:23,150
+And the LDL is recognized by
+
+89
+00:06:23,150 --> 00:06:26,090
+liver through the
+LDL receptors.
+
+90
+00:06:26,350 --> 00:06:30,090
+Right. The same thing.
+Similarly, you can find LDL
+
+91
+00:06:30,090 --> 00:06:34,490
+receptor in the peripheral
+cells also. But when you
+
+92
+00:06:34,490 --> 00:06:39,750
+have genetic mutations in
+the LDL receptors, obviously
+
+93
+00:06:39,750 --> 00:06:45,370
+the hepatocyte could not
+uptake the LDL efficiently.
+
+94
+00:06:45,740 --> 00:06:49,750
+That leads to the increase
+of LDL level in the blood.
+
+95
+00:06:50,360 --> 00:06:54,230
+In addition, we'll also
+mention that one of the
+
+96
+00:06:54,230 --> 00:07:01,430
+apoproteins on the LDL
+-ApoB100 function as
+
+97
+00:07:01,430 --> 00:07:05,590
+the recognition signal
+for the LDL receptors,
+
+98
+00:07:05,590 --> 00:07:08,470
+right? So obviously when
+you have genetic mutations
+
+99
+00:07:08,470 --> 00:07:11,990
+in the ApoB100, it
+could not get recognized
+
+100
+00:07:11,990 --> 00:07:15,130
+by the LDL receptor
+more efficiently, right?
+
+101
+00:07:15,170 --> 00:07:18,090
+And that also
+affecting the uptake
+
+102
+00:07:18,090 --> 00:07:21,930
+of LDL particles
+by the hepatocytes.
+
+103
+00:07:23,070 --> 00:07:26,670
+And in addition, there's
+a third protein called
+
+104
+00:07:26,860 --> 00:07:31,430
+PCSK9. And in the next
+slides, we'll discuss how
+
+105
+00:07:31,950 --> 00:07:37,150
+PCSK9 affecting the turnover
+of the LDL receptor.
+
+106
+00:07:37,410 --> 00:07:42,130
+So either way, mutations
+that are affecting these
+
+107
+00:07:42,130 --> 00:07:46,730
+three proteins will lead
+to the increased level of
+
+108
+00:07:46,730 --> 00:07:50,350
+LDL in the blood. And
+because LDL is the major
+
+109
+00:07:50,350 --> 00:07:54,170
+carrier of cholesterols in
+the blood, and that leads
+
+110
+00:07:54,170 --> 00:07:56,550
+to the increased level of
+cholesterol in the blood
+
+111
+00:07:56,550 --> 00:08:01,010
+also. and obviously this
+could lead to higher risk
+
+112
+00:08:01,010 --> 00:08:05,630
+of the individual to develop
+the coronary disease.
+
+113
+00:08:07,650 --> 00:08:14,670
+The PCSK9 is a serum
+protease, right?
+
+114
+00:08:14,790 --> 00:08:21,010
+So its major function is
+when PCSK9 gets secreted
+
+115
+00:08:21,010 --> 00:08:26,470
+outside the cells, it can
+bind to the LDL receptor and
+
+116
+00:08:26,470 --> 00:08:31,530
+and targeted for lysosomal
+degradation right so
+
+117
+00:08:31,530 --> 00:08:35,830
+therefore the function of
+pcsk9 is to reduce the cell
+
+118
+00:08:35,830 --> 00:08:41,670
+surface level of ldl receptor
+right again ldl receptor
+
+119
+00:08:41,670 --> 00:08:46,050
+promote uptake of ldl
+particle by the hepatocytes
+
+120
+00:08:46,050 --> 00:08:51,830
+so if you could inhibit
+the pcsk9 and you're going
+
+121
+00:08:51,830 --> 00:08:55,690
+to increase the cell
+surface level of the ldl
+
+122
+00:08:55,690 --> 00:08:59,750
+receptors and that could
+accelerate the uptake of the
+
+123
+00:08:59,750 --> 00:09:03,890
+fdl particles and that
+could reduce the cholesterol
+
+124
+00:09:03,890 --> 00:09:08,830
+level in in the blood and
+currently there's two uh
+
+125
+00:09:08,830 --> 00:09:14,970
+pcs k9 inhibitors has been
+approved about uh fda uh
+
+126
+00:09:14,970 --> 00:09:21,350
+one is uh a little a little
+combo and ebola come up
+
+127
+00:09:21,350 --> 00:09:25,010
+right so these two drugs
+are actually monoclonal
+
+128
+00:09:25,010 --> 00:09:30,280
+antibodies right they bind
+to the pcsk9 and preventing
+
+129
+00:09:30,770 --> 00:09:32,790
+its function in terms of
+
+130
+00:09:32,790 --> 00:09:36,470
+accelerating the
+ldr ldr receptors
+
+131
+00:09:38,110 --> 00:09:44,600
+so the uh the type uh
+three uh familiar uh
+
+132
+00:09:44,600 --> 00:09:48,510
+hyperlipopenemia is
+due to the mutations
+
+133
+00:09:48,510 --> 00:09:53,450
+in the genes that
+including APOE, right,
+
+134
+00:09:53,630 --> 00:09:59,030
+and as you recall that
+during the maturation process
+
+135
+00:09:59,030 --> 00:10:03,670
+of chylomicrons and VLDL,
+and they pick up APOE
+
+136
+00:10:03,670 --> 00:10:07,210
+from the HDL, right, and
+one of the functions of
+
+137
+00:10:07,210 --> 00:10:13,790
+APOE is a bind to the
+receptors on the hepalocytes
+
+138
+00:10:13,790 --> 00:10:17,830
+or peripheral tissues and
+facilitating the uptake
+
+139
+00:10:17,830 --> 00:10:24,330
+of color micron remnant
+and VLDL remnants, right?
+
+140
+00:10:24,330 --> 00:10:27,370
+So therefore, if you block
+the downstream uptake,
+
+141
+00:10:27,890 --> 00:10:31,290
+and that leads to the
+increased level of color
+
+142
+00:10:31,290 --> 00:10:36,270
+microns and VLDLs in the
+blood. And these patients
+
+143
+00:10:36,270 --> 00:10:40,670
+also have increased risk
+of coronary disease.
+
+144
+00:10:43,430 --> 00:10:48,970
+And the type 4
+hyperlipoproteinemia is also
+
+145
+00:10:48,970 --> 00:10:54,930
+called familiar
+hypertriacylglycerol, right? Again,
+
+146
+00:10:54,930 --> 00:10:57,910
+from the name that
+indicated these individuals
+
+147
+00:10:57,910 --> 00:11:02,240
+often have higher level
+of triacylglycerols
+
+148
+00:11:02,550 --> 00:11:08,790
+in their blood right and
+usually when uh you have
+
+149
+00:11:08,790 --> 00:11:13,610
+too much glucose uh or
+in in in your diet or in
+
+150
+00:11:13,610 --> 00:11:20,630
+the blood or glucose cannot
+be metabolized uh through
+
+151
+00:11:20,630 --> 00:11:25,490
+other pathways uh it get
+converted into acetyl
+
+152
+00:11:25,490 --> 00:11:29,910
+-CoA, right? These acetyl
+-CoA from glucose then be
+
+153
+00:11:29,910 --> 00:11:34,530
+utilized to synthesize
+free fatty acid. Free fatty
+
+154
+00:11:34,530 --> 00:11:38,990
+acid then assembled become
+triacylglycerols and
+
+155
+00:11:38,990 --> 00:11:43,310
+then they got packaged
+into the VLDL, right? So
+
+156
+00:11:43,310 --> 00:11:48,790
+therefore, when you have
+excess level of glucose,
+
+157
+00:11:48,810 --> 00:11:52,790
+that leads to the
+overproduction of the VLDL,
+
+158
+00:11:52,790 --> 00:11:56,030
+right? And And therefore,
+that leads to the increased
+
+159
+00:11:56,030 --> 00:11:59,210
+level of valdeal in the
+blood. And also when
+
+160
+00:11:59,210 --> 00:12:03,890
+you monitor the triacylglycerols
+or triglycerides,
+
+161
+00:12:04,250 --> 00:12:06,690
+its level is also increased.
+
+162
+00:12:06,730 --> 00:12:12,130
+And these individuals
+usually associate
+
+163
+00:12:12,130 --> 00:12:15,390
+with high risk of
+coronary heart disease,
+
+164
+00:12:15,390 --> 00:12:18,970
+type 2 diabetes,
+as well as obesity.
+
+165
+00:12:20,140 --> 00:12:23,310
+All right. So now we're
+going to switch gear and
+
+166
+00:12:23,310 --> 00:12:28,230
+discuss a few
+hypolipoproteinemia, right? Again,
+
+167
+00:12:28,230 --> 00:12:32,070
+hypol usually means
+lower than normal level.
+
+168
+00:12:32,430 --> 00:12:38,640
+And this table summarizes
+the few hypolipoproteinemia,
+
+169
+00:12:38,950 --> 00:12:41,610
+and we're going to
+discuss them one by one.
+
+170
+00:12:43,580 --> 00:12:48,570
+So, the first one is called
+Tangier disease, right?
+
+171
+00:12:48,790 --> 00:12:54,370
+For the Tangier disease, it
+has a mutation in the genes
+
+172
+00:12:54,370 --> 00:12:59,190
+encoding ABCA1, right?
+If you recall, the major
+
+173
+00:12:59,190 --> 00:13:04,650
+physiological function for
+ABCA1 is to flip the cholesterol
+
+174
+00:13:04,650 --> 00:13:09,710
+from the inner leaflet
+of membrane to the outer
+
+175
+00:13:09,710 --> 00:13:15,650
+leaflet of the membrane right
+so that HDL can pick up the
+
+176
+00:13:15,650 --> 00:13:21,250
+cholesterol level and become
+the mature HDL and also
+
+177
+00:13:22,050 --> 00:13:25,570
+transport these cholesterols
+back to the liver right
+
+178
+00:13:25,570 --> 00:13:30,110
+so when you have defect
+in in terms of flipping
+
+179
+00:13:30,110 --> 00:13:33,990
+these cholesterols, right?
+Therefore, it reduced the
+
+180
+00:13:33,990 --> 00:13:37,990
+ability of HDL to pick up
+these cholesterols, right?
+
+181
+00:13:37,990 --> 00:13:41,390
+Therefore, it's affecting
+its maturation process.
+
+182
+00:13:41,390 --> 00:13:43,410
+And what you see
+in this patient
+
+183
+00:13:43,410 --> 00:13:47,030
+is reduced the level of HDL.
+
+184
+00:13:49,820 --> 00:13:52,340
+So the second
+hypolipoproteinemia
+
+185
+00:13:54,480 --> 00:13:59,310
+is called A-beta
+lipoproteinemia, right? A,
+
+186
+00:13:59,310 --> 00:14:03,350
+indicating abnormal,
+beta is referring to this
+
+187
+00:14:03,350 --> 00:14:08,170
+particular apoprotein,
+apoprotein proteins, right?
+
+188
+00:14:08,170 --> 00:14:15,610
+So, as you recall, that
+apoprotein are critical
+
+189
+00:14:15,610 --> 00:14:19,490
+for the assembly of color
+microns and VLDL. For
+
+190
+00:14:19,490 --> 00:14:23,750
+the color microns, it
+requires the apoprotein 48.
+
+191
+00:14:23,750 --> 00:14:28,010
+For the VLDL, it requires
+the apoprotein 100, right?
+
+192
+00:14:28,130 --> 00:14:31,270
+And in addition, both of them
+
+193
+00:14:31,270 --> 00:14:34,250
+require another protein, MTP,
+
+194
+00:14:34,490 --> 00:14:39,690
+which help to load the
+lipids on either APOB48
+
+195
+00:14:39,690 --> 00:14:44,050
+or APOB100, right? But
+for individuals that had
+
+196
+00:14:44,050 --> 00:14:47,470
+mutations in the gene
+that encoding the MTP,
+
+197
+00:14:47,870 --> 00:14:51,030
+that's going to lead
+to the package of color
+
+198
+00:14:51,030 --> 00:14:57,450
+microns and VLDL defective,
+right? So the result
+
+199
+00:14:57,450 --> 00:15:03,470
+is the calomicron levels
+and the VLDL levels in
+
+200
+00:15:03,470 --> 00:15:06,530
+the patient's blood is
+going to be lower, right?
+
+201
+00:15:06,770 --> 00:15:11,270
+And because IDL and LDL,
+they're metabolites of
+
+202
+00:15:11,270 --> 00:15:15,870
+VLDL, and their level is
+not surprisingly lower also.
+
+203
+00:15:17,110 --> 00:15:22,790
+So the third
+hypolipoproteinemia called also
+
+204
+00:15:22,790 --> 00:15:27,110
+called hypoalpha
+lipoproteinemia, right? This
+
+205
+00:15:27,110 --> 00:15:32,450
+alpha refers to the
+apoprotein A containing
+
+206
+00:15:32,450 --> 00:15:37,130
+lipoprotein, right? If
+you recall that apoprotein
+
+207
+00:15:39,870 --> 00:15:44,770
+is a critical component
+for the HDL, right? So,
+
+208
+00:15:45,130 --> 00:15:48,590
+HDL is often synthesized in
+the liver and intestines.
+
+209
+00:15:49,690 --> 00:15:53,330
+When HDL is first
+synthesized, it's also called
+
+210
+00:15:53,330 --> 00:15:57,770
+nascent HDL, right? Because
+it has a lot of protein,
+
+211
+00:15:57,770 --> 00:16:05,150
+apoprotein, has less lipid,
+it shows in a disc shape,
+
+212
+00:16:05,150 --> 00:16:13,750
+right? And HDL transfer ApoE
+and ApoC2 to both pyromicron
+
+213
+00:16:13,750 --> 00:16:21,110
+and VLDL and help their
+maturations. And ApoA1,
+
+214
+00:16:21,110 --> 00:16:28,390
+so one of the Apo proteins
+help to activate the
+
+215
+00:16:28,390 --> 00:16:35,950
+enzyme lcat right as you
+recall lcat add a cell group
+
+216
+00:16:35,950 --> 00:16:40,790
+to the free cholesterols and
+generating the cholesterol
+
+217
+00:16:40,790 --> 00:16:44,730
+easter right to help to
+keep the cholesterols
+
+218
+00:16:44,730 --> 00:16:49,050
+inside the hdl right that was
+also part of the maturation
+
+219
+00:16:49,050 --> 00:16:54,370
+process also right so
+therefore when you have a
+
+220
+00:16:54,370 --> 00:17:00,190
+defect in one of these ApoA
+proteins, you're going to
+
+221
+00:17:00,190 --> 00:17:05,170
+have a defect in the
+maturation of the HDL, right?
+
+222
+00:17:05,290 --> 00:17:06,090
+So therefore,
+
+223
+00:17:06,090 --> 00:17:08,250
+these individuals' manifest
+
+224
+00:17:08,250 --> 00:17:12,010
+have a lower level of HDL.
+
+225
+00:17:13,830 --> 00:17:17,550
+And next, we're going to
+discuss a few more genetic
+
+226
+00:17:17,550 --> 00:17:21,730
+diseases related to the
+lipoprotein, right? The first one
+
+227
+00:17:21,730 --> 00:17:25,930
+is called Wolman disease.
+And for the Wolman disease
+
+228
+00:17:25,930 --> 00:17:30,730
+patient, And this is there
+due to the deficiency of
+
+229
+00:17:30,730 --> 00:17:34,950
+one of the lysosomal acid
+lipase, right? As you recall,
+
+230
+00:17:35,250 --> 00:17:37,690
+lysosome is the major kind of
+
+231
+00:17:37,690 --> 00:17:39,510
+recycling all the materials.
+
+232
+00:17:39,970 --> 00:17:45,130
+And when the lipoprotein
+particles get taken into the
+
+233
+00:17:45,130 --> 00:17:48,350
+cells, it fuses with the
+lysosome and the other
+
+234
+00:17:48,350 --> 00:17:52,850
+enzymes within the lysosome,
+including the lipase that
+
+235
+00:17:52,850 --> 00:17:56,930
+help to degrade the contents
+in these particles right
+
+236
+00:17:56,930 --> 00:18:01,870
+to recycle them so obviously
+when you have defect in
+
+237
+00:18:02,330 --> 00:18:07,210
+some of these lipase
+right the lysosome then
+
+238
+00:18:07,210 --> 00:18:10,950
+cannot efficiently degrade
+these different lipids
+
+239
+00:18:11,210 --> 00:18:14,990
+leads to abnormal accumulation
+of either cholesterol
+
+240
+00:18:14,990 --> 00:18:18,390
+or triglycerides in
+the cells cells and
+
+241
+00:18:18,390 --> 00:18:22,170
+therefore affecting
+different cellular functions.
+
+242
+00:18:24,550 --> 00:18:29,670
+Another disease related
+to the lipoprotein is the
+
+243
+00:18:29,670 --> 00:18:33,230
+mutation that happened in
+these genes we just mentioned,
+
+244
+00:18:33,470 --> 00:18:34,510
+LCET.
+
+245
+00:18:34,510 --> 00:18:38,730
+Again, LCET adds an acyl
+group to the cholesterol,
+
+246
+00:18:38,730 --> 00:18:43,850
+converting them to
+cholesterol esters. So,
+
+247
+00:18:43,850 --> 00:18:48,550
+because the critical role
+of LCET in the maturation
+
+248
+00:18:48,550 --> 00:18:54,710
+of the HDL when the enzyme
+is deficient and the
+
+249
+00:18:54,710 --> 00:18:59,750
+individuals manifest lower
+HDL levels, and because
+
+250
+00:18:59,750 --> 00:19:04,710
+HDL function as reverse
+cholesterol transporter,
+
+251
+00:19:05,420 --> 00:19:09,400
+in this patient you
+also observe accumulated
+
+252
+00:19:09,400 --> 00:19:12,350
+cholesterol levels
+in the periphery.
+
+253
+00:19:13,470 --> 00:19:18,550
+tissues. And for the
+fatty liver, right, this
+
+254
+00:19:18,550 --> 00:19:22,330
+is often due to neither
+the liver doesn't
+
+255
+00:19:22,330 --> 00:19:27,410
+have enough energy that
+can be used to synthesize
+
+256
+00:19:27,410 --> 00:19:31,990
+proteins or missing
+some of the amino acid
+
+257
+00:19:31,990 --> 00:19:36,890
+or compromises ability
+to synthesize choline,
+
+258
+00:19:36,890 --> 00:19:41,890
+which is a critical
+precursor for phosphatidyl
+
+259
+00:19:41,890 --> 00:19:46,170
+choline, which is a
+phospholipid. Again,
+
+260
+00:19:46,350 --> 00:19:48,600
+the phospholipid is critical
+
+261
+00:19:48,600 --> 00:19:52,230
+for the package
+of lipoproteins.
+
+262
+00:19:52,650 --> 00:19:57,790
+And therefore, in this,
+when you have compromised
+
+263
+00:19:57,830 --> 00:20:03,150
+ability to synthesize
+VLDL and the triglyceride
+
+264
+00:20:03,150 --> 00:20:05,230
+synthesizer in the liver,
+kind of stuck in the
+
+265
+00:20:05,230 --> 00:20:10,070
+liver, right, that leads
+to the disease called fatty
+
+266
+00:20:10,070 --> 00:20:16,570
+liver so when you have
+abnormal level of different
+
+267
+00:20:16,570 --> 00:20:20,690
+lipoproteins it's going
+to cause increased risk
+
+268
+00:20:20,690 --> 00:20:24,630
+of cardiovascular disease
+right and as we discussed
+
+269
+00:20:24,630 --> 00:20:31,250
+previously HDL function
+to reverse transport
+
+270
+00:20:31,250 --> 00:20:35,190
+the cholesterol from the
+peripheral tissues back
+
+271
+00:20:35,190 --> 00:20:39,670
+to the livers right in
+addition and also help to
+
+272
+00:20:39,850 --> 00:20:45,650
+reduce the oxidized
+ldl as we discuss in
+
+273
+00:20:45,650 --> 00:20:49,870
+the next few slides
+that the oxidized ldl
+
+274
+00:20:50,350 --> 00:20:53,610
+can cause damage
+to the blood vessel
+
+275
+00:20:56,710 --> 00:21:02,710
+and LDL one of the the
+reason that high level of LDL
+
+276
+00:21:02,710 --> 00:21:08,930
+is not good is because the
+LDL can be easily damaged
+
+277
+00:21:08,930 --> 00:21:13,510
+by a variety of free
+radicals right and damaged
+
+278
+00:21:13,510 --> 00:21:18,910
+LDL can be engulfed by
+the microphages which then
+
+279
+00:21:18,910 --> 00:21:24,190
+become the so-called foam cells.
+Foam cells then accumulate
+
+280
+00:21:24,190 --> 00:21:27,710
+in different blood vessels
+and eventually leads
+
+281
+00:21:27,710 --> 00:21:31,110
+to the clotting of these
+different blood vessels.
+
+282
+00:21:31,910 --> 00:21:33,190
+All right. So,
+
+283
+00:21:33,370 --> 00:21:36,660
+you know, because
+the atherosclerosis
+
+284
+00:21:36,660 --> 00:21:39,530
+related to the lipoprotein,
+so we're going to
+
+285
+00:21:39,530 --> 00:21:42,850
+briefly discuss this.
+I'm sure you'll learn
+
+286
+00:21:42,850 --> 00:21:45,970
+more about this in
+other lectures also.
+
+287
+00:21:46,330 --> 00:21:50,870
+So here's the cross-section
+view of the different
+
+288
+00:21:50,870 --> 00:21:53,470
+blood vessels, right?
+So you have endotheta
+
+289
+00:21:53,470 --> 00:21:59,610
+cells in the cavity of the
+blood vessels, and then
+
+290
+00:21:59,610 --> 00:22:03,350
+you have muscles surrounding
+the endotheta cells
+
+291
+00:22:03,350 --> 00:22:07,370
+that help the contraction
+of the blood vessel.
+
+292
+00:22:09,080 --> 00:22:12,090
+So as I mentioned, you know,
+one of the problems with
+
+293
+00:22:12,090 --> 00:22:16,090
+the LDL or higher level
+of LDL, they are because
+
+294
+00:22:16,090 --> 00:22:20,550
+they are easily get damaged
+by a variety of free
+
+295
+00:22:20,550 --> 00:22:24,210
+radicals I mean there can
+be a quite a lot inside the
+
+296
+00:22:24,210 --> 00:22:28,490
+bodies right and to counter
+that you know there's also
+
+297
+00:22:28,490 --> 00:22:32,170
+a variety of antioxidants
+like vitamin e vitamin c
+
+298
+00:22:32,170 --> 00:22:37,390
+and beta carotene right but
+when the free radical and
+
+299
+00:22:37,390 --> 00:22:40,790
+the antioxidant are
+imbalanced and that leads to
+
+300
+00:22:40,790 --> 00:22:45,910
+the accumulation of the uh
+the damaged or oxidized ldl
+
+301
+00:22:45,910 --> 00:22:51,330
+right so oxidized ldl is
+not good right so uh the
+
+302
+00:22:51,330 --> 00:22:56,570
+they are recognized by the
+macrophages uh as kind of
+
+303
+00:22:56,910 --> 00:23:00,850
+you know toxic molecules
+right therefore the
+
+304
+00:23:00,850 --> 00:23:06,650
+macrophages uh engulf these
+uh damaged ldl and eventually
+
+305
+00:23:06,650 --> 00:23:11,810
+form these so-called
+foam cells right and
+
+306
+00:23:11,810 --> 00:23:17,910
+accumulation of these foam
+cells leads to the plaque
+
+307
+00:23:17,910 --> 00:23:23,390
+formation in various blood
+vessels and the plaque
+
+308
+00:23:23,470 --> 00:23:28,570
+too much of it leads to
+the fission right and
+
+309
+00:23:28,570 --> 00:23:31,650
+then they certainly can be
+some of them can be healed
+
+310
+00:23:31,650 --> 00:23:35,390
+but then they cause
+rupture again Then these
+
+311
+00:23:35,390 --> 00:23:40,210
+cycles eventually leads to
+the clogging of the blood
+
+312
+00:23:40,210 --> 00:23:45,050
+vessel and manifests as
+atherosclerosis plaque.
+
+313
+00:23:46,330 --> 00:23:52,150
+So how to better control
+the serine cholesterol
+
+314
+00:23:52,190 --> 00:23:56,990
+levels? And probably
+easier way is by
+
+315
+00:23:56,990 --> 00:24:02,310
+changing one's lifestyle
+or mainly the diets.
+
+316
+00:24:02,690 --> 00:24:06,090
+right for example you know
+obviously if you reduce
+
+317
+00:24:06,310 --> 00:24:10,270
+the the lipids and the
+cholesterols in your diet
+
+318
+00:24:10,430 --> 00:24:14,090
+and that help to reduce the
+whole cholesterol levels
+
+319
+00:24:14,090 --> 00:24:19,390
+in the blood and in the
+cholesterol biosynthesis lecture
+
+320
+00:24:19,390 --> 00:24:22,910
+we also discussed that
+plants usually don't have a
+
+321
+00:24:22,910 --> 00:24:26,370
+whole lot of cholesterols but
+they do contain cholesterol
+
+322
+00:24:26,830 --> 00:24:32,010
+-like molecules right
+including stenos and steroids
+
+323
+00:24:32,010 --> 00:24:36,210
+right both stenos and
+steroids and they don't get
+
+324
+00:24:36,210 --> 00:24:39,810
+absorbed as efficiently as
+the cholesterol by the small
+
+325
+00:24:39,810 --> 00:24:46,350
+intestines right so on the
+other hand the stenos and the
+
+326
+00:24:46,350 --> 00:24:52,110
+steroids actually can help
+to lower the absorbs the
+
+327
+00:24:52,110 --> 00:24:55,170
+rate of cholesterol in the
+diet right so therefore when
+
+328
+00:24:55,170 --> 00:25:00,180
+you eat a lot of vegetables
+or plant-based diets that's
+
+329
+00:25:00,180 --> 00:25:02,690
+going to help you lower
+the cholesterol level or
+
+330
+00:25:02,690 --> 00:25:07,490
+ball right and also the fiber
+in the in the diet can also
+
+331
+00:25:07,490 --> 00:25:12,150
+reduce the cholesterol
+uptake right and the weight
+
+332
+00:25:12,150 --> 00:25:17,590
+reduction and exercise can
+increase your hdr levels can
+
+333
+00:25:17,590 --> 00:25:20,590
+help therefore help you
+lower the cholesterol levels
+
+334
+00:25:22,050 --> 00:25:26,350
+And, you know, you can
+certainly use drugs to
+
+335
+00:25:26,350 --> 00:25:30,910
+control the cholesterol
+levels, right? Again, as we
+
+336
+00:25:30,910 --> 00:25:33,730
+discussed in the cholesterol
+biosynthesis level,
+
+337
+00:25:33,950 --> 00:25:39,310
+the enzyme HMG-CoA reductase
+catalyze the re-limiting
+
+338
+00:25:39,310 --> 00:25:42,970
+step of the biosynthesis
+inside our body, right?
+
+339
+00:25:42,970 --> 00:25:47,790
+Obviously, if you block
+the activities of HMG-CoA
+
+340
+00:25:47,790 --> 00:25:51,100
+reductase, and you're going
+to reduce the endosinate
+
+341
+00:25:51,100 --> 00:25:54,070
+-synthetized cholesterol levels,
+right? So that's what these
+
+342
+00:25:54,070 --> 00:25:58,830
+family drugs, statin,
+their mechanism of actions.
+
+343
+00:25:59,670 --> 00:26:02,110
+And in this lecture,
+we'll discuss
+
+344
+00:26:02,110 --> 00:26:05,450
+the function of PCSK9, right?
+
+345
+00:26:05,470 --> 00:26:11,170
+PCSK9 basically accelerates
+the degradation of LDL
+
+346
+00:26:11,170 --> 00:26:15,630
+receptors, right? if you
+can inhibit pcsk9 and you're
+
+347
+00:26:15,630 --> 00:26:19,750
+going to slow down the
+turnover of the ldl receptors
+
+348
+00:26:19,750 --> 00:26:25,230
+the ldl receptor uh get a
+chance to re uptake more
+
+349
+00:26:25,230 --> 00:26:31,670
+ldl particles and also in
+the uh cholesterol lecture
+
+350
+00:26:31,670 --> 00:26:36,410
+we discuss that cholesterol
+is the precursor to
+
+351
+00:26:36,410 --> 00:26:41,390
+synthesize about acid right
+and bias is some of it,
+
+352
+00:26:41,390 --> 00:26:46,930
+you know, can be cycled
+outside the body. And if you
+
+353
+00:26:46,930 --> 00:26:52,570
+could block the reabsorption
+of bioacid, right, so
+
+354
+00:26:52,570 --> 00:26:56,430
+that could indirectly reduce
+the cholesterol levels.
+
+355
+00:26:56,810 --> 00:27:00,170
+And we also mentioned
+that one of the vitamins,
+
+356
+00:27:00,170 --> 00:27:04,690
+vitamin B3, or niacin, for
+whatever reason, it can
+
+357
+00:27:04,690 --> 00:27:11,110
+also reduce the the LDL
+levels, right? And we also
+
+358
+00:27:11,110 --> 00:27:16,500
+mentioned that niacin can
+reduce a kind of a harmful
+
+359
+00:27:16,500 --> 00:27:21,750
+lipoprotein, LPA, and
+increase the level of LPA
+
+360
+00:27:21,980 --> 00:27:25,730
+correlating with the high
+risk of coronary disease.
+
+361
+00:27:27,110 --> 00:27:31,790
+The drug fibrate can
+inhibit the hepatic release
+
+362
+00:27:31,790 --> 00:27:36,030
+of lipoprotein, which
+reduce the blood level of
+
+363
+00:27:36,030 --> 00:27:40,670
+VLDL reduce their
+triglycerides and in addition
+
+364
+00:27:40,670 --> 00:27:44,450
+of hybrid can potentially
+the action of the LPL
+
+365
+00:27:44,450 --> 00:27:47,710
+right again help to
+facilitate the digestion
+
+366
+00:27:47,710 --> 00:27:53,950
+of the lipid inside VLDL
+and color microns right
+
+367
+00:27:53,950 --> 00:27:58,510
+and fiber it can also
+increase the HDL levels right
+
+368
+00:27:58,510 --> 00:28:01,470
+and you can certainly
+combine some of this drug
+
+369
+00:28:01,470 --> 00:28:06,530
+together. That's the drug
+Zetia. It's basically combined
+
+370
+00:28:06,530 --> 00:28:10,390
+the drugs to inhibit the
+dietary absorption of
+
+371
+00:28:10,390 --> 00:28:15,490
+cholesterol and at the same
+time, using a statin to
+
+372
+00:28:15,490 --> 00:28:19,930
+inhibit the endosinally
+synthesized cholesterols.
+
+373
+00:28:20,670 --> 00:28:24,430
+This table lists all
+the drugs that we just
+
+374
+00:28:24,430 --> 00:28:29,690
+talking about and finally
+there's this family
+
+375
+00:28:29,690 --> 00:28:32,770
+disease that collectively
+called metabolic
+
+376
+00:28:32,770 --> 00:28:36,810
+syndrome right they also
+call syndrome x or insulin
+
+377
+00:28:36,810 --> 00:28:41,690
+resistance syndrome
+and and these patients
+
+378
+00:28:41,830 --> 00:28:46,690
+manifest a variety of
+metabolic abnormalities right
+
+379
+00:28:46,690 --> 00:28:50,930
+which increase their risk
+of cardiovascular disease
+
+380
+00:28:50,930 --> 00:28:55,510
+as well as diabetes and
+these individuals usually
+
+381
+00:28:55,510 --> 00:29:00,130
+have a larger waist race
+and their triglycerol
+
+382
+00:29:00,130 --> 00:29:03,860
+level in the blood usually
+pretty high and their
+
+383
+00:29:03,860 --> 00:29:08,390
+good cholesterol HDL level
+usually lower than normal
+
+384
+00:29:10,120 --> 00:29:14,190
+with that this is the last
+slides again this is the
+
+385
+00:29:14,190 --> 00:29:17,730
+summary slides and try to
+use the slides to guide
+
+386
+00:29:17,730 --> 00:29:23,130
+you study this lectures
+okay thank you very much

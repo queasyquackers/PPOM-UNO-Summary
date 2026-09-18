@@ -1,0 +1,5029 @@
+1
+00:00:00,570 --> 00:00:02,590
+Hello class, this lecture will
+
+2
+00:00:02,590 --> 00:00:05,190
+focus on antiarrhythmic drugs.
+
+3
+00:00:05,870 --> 00:00:11,990
+So in this lecture, I will
+begin with a brief review
+
+4
+00:00:11,990 --> 00:00:16,230
+of the action potential,
+because many of these drugs
+
+5
+00:00:16,230 --> 00:00:20,630
+will affect either
+depolarization or repolarization.
+
+6
+00:00:21,210 --> 00:00:25,410
+I will also consider the
+adverse effects, because
+
+7
+00:00:25,410 --> 00:00:30,170
+as you will come to
+see, some of these drugs
+
+8
+00:00:30,170 --> 00:00:34,470
+themselves can be pro
+-arrhythmic. So it may be
+
+9
+00:00:34,470 --> 00:00:38,850
+necessary to evaluate
+the patient and assess do
+
+10
+00:00:38,850 --> 00:00:43,290
+they need medication or
+can this issue be managed
+
+11
+00:00:43,290 --> 00:00:48,190
+with a pacemaker or
+ablation or cardioversion.
+
+12
+00:00:48,930 --> 00:00:53,910
+And then I will also discuss
+some of the miscellaneous
+
+13
+00:00:54,080 --> 00:00:57,830
+medications that we use
+for arrhythmias. And among
+
+14
+00:00:57,830 --> 00:01:05,570
+them will be drugs like
+digoxin or adenosine, or
+
+15
+00:01:05,570 --> 00:01:09,710
+even giving ions themselves,
+whether it be potassium
+
+16
+00:01:09,710 --> 00:01:15,090
+or even magnesium for
+torsades or digoxin toxicity.
+
+17
+00:01:16,890 --> 00:01:21,990
+So, with the action
+potential, you can see on the
+
+18
+00:01:21,990 --> 00:01:27,890
+left side, where we begin
+with the upstroke from phase
+
+19
+00:01:27,890 --> 00:01:32,430
+0 to 1, that is the opening
+of the sodium channels,
+
+20
+00:01:32,430 --> 00:01:37,010
+and you will now have the
+influx of positive charge
+
+21
+00:01:37,010 --> 00:01:43,110
+causing depolarization. So
+the drugs that are considered
+
+22
+00:01:43,110 --> 00:01:47,970
+to be sodium channel blockers
+will have some impact
+
+23
+00:01:47,970 --> 00:01:52,390
+on depolarization,
+especially the 1A and the 1C.
+
+24
+00:01:53,210 --> 00:02:00,330
+When we have the sodium
+entering the cell, the
+
+25
+00:02:00,330 --> 00:02:05,250
+channels will become
+inactivated. They'll close,
+
+26
+00:02:05,250 --> 00:02:08,890
+and there we will begin
+initial repolarization.
+
+27
+00:02:09,330 --> 00:02:15,030
+At phase 2, we will begin
+now to have an opening
+
+28
+00:02:15,030 --> 00:02:19,680
+of the calcium channel,
+and that allows for
+
+29
+00:02:19,680 --> 00:02:23,610
+calcium entry, and that is
+really where we have the
+
+30
+00:02:23,610 --> 00:02:26,930
+plateau or the shoulder
+of the action potential.
+
+31
+00:02:27,050 --> 00:02:30,370
+And the drugs that we know as
+
+32
+00:02:30,370 --> 00:02:33,430
+class 4 calcium
+channel blockers,
+
+33
+00:02:34,410 --> 00:02:37,750
+rapamil and dultiazem,
+will work in this area.
+
+34
+00:02:39,090 --> 00:02:43,590
+So in phase three,
+the calcium channels
+
+35
+00:02:43,590 --> 00:02:45,650
+begin to close, and now we have
+
+36
+00:02:45,650 --> 00:02:48,010
+the opening of the
+potassium channel.
+
+37
+00:02:48,050 --> 00:02:50,670
+And now potassium takes over,
+
+38
+00:02:50,670 --> 00:02:52,260
+and we get repolarization.
+
+39
+00:02:52,330 --> 00:02:55,370
+And this now should
+make sense because
+
+40
+00:02:55,370 --> 00:02:58,930
+repolarization,
+depending on potassium,
+
+41
+00:02:59,330 --> 00:03:03,630
+would mean sort of
+the rest for the cell.
+
+42
+00:03:03,650 --> 00:03:08,750
+Okay, potassium is the ion
+of rest. And then phase
+
+43
+00:03:08,750 --> 00:03:13,870
+4, which really corresponds
+a lot to automaticity
+
+44
+00:03:13,870 --> 00:03:19,290
+and will be the site of
+action in the pacemaker.
+
+45
+00:03:19,290 --> 00:03:22,130
+And drugs like beta
+blockers and calcium
+
+46
+00:03:22,130 --> 00:03:24,090
+channel blockers
+fill nicely here
+
+47
+00:03:24,090 --> 00:03:27,350
+because they reduce
+the slope of phase 4.
+
+48
+00:03:27,790 --> 00:03:32,450
+What you start to
+get is a reset. You
+
+49
+00:03:32,450 --> 00:03:35,030
+start to reset all
+the ions, sodium,
+
+50
+00:03:35,150 --> 00:03:37,870
+calcium, and potassium.
+
+51
+00:03:37,870 --> 00:03:41,990
+And that is achieved
+through the anteport
+
+52
+00:03:41,990 --> 00:03:46,890
+mechanism that involves
+the sodium and calcium
+
+53
+00:03:46,890 --> 00:03:49,290
+exchanger. And remember,
+with that exchange
+
+54
+00:03:49,290 --> 00:03:53,450
+mechanism, for every
+three sodium that comes
+
+55
+00:03:53,450 --> 00:03:56,810
+back in, one calcium
+will come out. Now,
+
+56
+00:03:59,670 --> 00:04:04,230
+EKG is important
+because we know that
+
+57
+00:04:04,230 --> 00:04:06,950
+these drugs, given
+their mechanism, will
+
+58
+00:04:06,950 --> 00:04:12,850
+have subtle changes
+shown on the EKG.
+
+59
+00:04:13,050 --> 00:04:19,230
+So, the P wave corresponds
+to the atrium, and you'll
+
+60
+00:04:19,230 --> 00:04:23,230
+see that this might be
+changed in the situation of
+
+61
+00:04:23,230 --> 00:04:26,350
+maybe an atrial fibrillation
+or an atrial flutter.
+
+62
+00:04:26,350 --> 00:04:32,730
+So the PR interval
+corresponds to the movement
+
+63
+00:04:32,730 --> 00:04:36,210
+of the action potential
+from the atria through
+
+64
+00:04:36,210 --> 00:04:40,430
+the AV node. And the AV
+node is very important.
+
+65
+00:04:40,430 --> 00:04:43,630
+That's the atrial ventricular
+node. And I like to
+
+66
+00:04:43,630 --> 00:04:49,250
+say that this AV node
+is almost like a filter.
+
+67
+00:04:49,770 --> 00:04:55,450
+It slows the impulse.
+without the AV node, you
+
+68
+00:04:55,450 --> 00:05:00,210
+probably will see patients
+having heart rates upward
+
+69
+00:05:00,210 --> 00:05:03,090
+into the three or four
+hundreds. So if there's
+
+70
+00:05:03,090 --> 00:05:07,350
+an issue with the AV node,
+that is a big problem.
+
+71
+00:05:08,950 --> 00:05:13,550
+QRS is the ventricular
+depolarization. So when I
+
+72
+00:05:13,550 --> 00:05:19,850
+think of that, I think of
+sodium. And the QRS duration
+
+73
+00:05:19,850 --> 00:05:24,290
+really stands for the fact
+where all the ventricular
+
+74
+00:05:24,290 --> 00:05:28,170
+cells become activated.
+And this will be important
+
+75
+00:05:28,170 --> 00:05:33,130
+to evaluate when we do the
+sodium channel blockers.
+
+76
+00:05:33,130 --> 00:05:38,990
+The T wave represents
+ventricular repolarization.
+
+77
+00:05:38,990 --> 00:05:43,770
+So you have to associate the
+T wave and repolarization
+
+78
+00:05:43,770 --> 00:05:47,570
+somewhat with potassium.
+and it makes sense.
+
+79
+00:05:47,730 --> 00:05:52,050
+Patients that have
+hypokalemia, maybe
+
+80
+00:05:52,050 --> 00:05:53,950
+due to the fact
+that they're taking
+
+81
+00:05:53,950 --> 00:05:58,250
+diuretics like
+thiazides or loops,
+
+82
+00:05:58,650 --> 00:06:03,150
+they will probably
+have, in low potassium
+
+83
+00:06:03,150 --> 00:06:06,710
+states, slower repolarization.
+And that really
+
+84
+00:06:06,710 --> 00:06:11,370
+shows as a decreased
+T-wave on the EKG.
+
+85
+00:06:12,490 --> 00:06:18,630
+with hyperkalemia which is
+attributed to ACE inhibitors
+
+86
+00:06:18,630 --> 00:06:22,510
+ARBs and maybe spironolactone
+you're going to
+
+87
+00:06:22,510 --> 00:06:26,110
+get a slowering of
+conduction and a decrease in
+
+88
+00:06:26,110 --> 00:06:31,810
+action potential duration
+and that sometimes on an EKG
+
+89
+00:06:31,810 --> 00:06:38,490
+will show as a peaked T
+wave and then lastly QT is
+
+90
+00:06:38,490 --> 00:06:41,990
+the duration of the
+ventricular action potential.
+
+91
+00:06:42,970 --> 00:06:48,150
+Increase in QT can happen
+with medications, especially
+
+92
+00:06:48,150 --> 00:06:53,270
+if we're prolonging
+repolarization, and that has
+
+93
+00:06:53,270 --> 00:06:57,970
+to do with some degree of
+potassium channel blockade.
+
+94
+00:06:58,350 --> 00:07:03,750
+You'll see this happening
+with the drugs of the 1A
+
+95
+00:07:04,280 --> 00:07:07,250
+antiarrhythmic class, and
+you'll also see it to an
+
+96
+00:07:07,250 --> 00:07:12,770
+extent with the class 3
+potassium channel blockers.
+
+97
+00:07:12,770 --> 00:07:17,750
+The other time that QT
+can be an issue is, of
+
+98
+00:07:17,750 --> 00:07:23,510
+course, those people that
+have a genetic long QT. In
+
+99
+00:07:23,510 --> 00:07:26,830
+those cases, they need to
+get that resolved somehow,
+
+100
+00:07:26,830 --> 00:07:30,870
+whether it be through
+ablation or through another
+
+101
+00:07:30,870 --> 00:07:35,750
+type of method. And
+remember, when we talk about
+
+102
+00:07:35,750 --> 00:07:39,870
+this idea of ventricular
+tachycardia, ventricular
+
+103
+00:07:39,870 --> 00:07:43,490
+fibrillation, they're
+both serious, but V-fib is
+
+104
+00:07:43,490 --> 00:07:47,510
+probably the worst, where the
+impulses become so chaotic
+
+105
+00:07:47,510 --> 00:07:50,750
+that the patient can end
+up in cardiac arrest.
+
+106
+00:07:52,370 --> 00:07:56,850
+There are three main mechanisms
+of arrhythmias. Number
+
+107
+00:07:56,850 --> 00:08:02,170
+one is going to be an increase
+in automaticity. And I
+
+108
+00:08:02,170 --> 00:08:07,270
+tend to think that this is
+coming from the pacemaker.
+
+109
+00:08:08,730 --> 00:08:12,980
+Mostly we see the
+issue happening in
+
+110
+00:08:12,980 --> 00:08:16,190
+phase four of the
+action potential.
+
+111
+00:08:17,170 --> 00:08:20,930
+What I will say here,
+this is usually,
+
+112
+00:08:20,930 --> 00:08:25,420
+what's usually involved
+is norepinepirin
+
+113
+00:08:25,690 --> 00:08:28,630
+binding to the beta
+receptors in the heart.
+
+114
+00:08:29,230 --> 00:08:32,510
+and when you have that
+happening of course you're
+
+115
+00:08:32,510 --> 00:08:36,150
+going to get an increase in
+heart rate from the pacemaker
+
+116
+00:08:36,150 --> 00:08:40,690
+and you will also have
+some degree of AV node
+
+117
+00:08:40,690 --> 00:08:45,590
+enhancement. So when you give
+the patient whether a beta
+
+118
+00:08:45,590 --> 00:08:50,430
+blocker or you give a calcium
+channel blocker such as
+
+119
+00:08:50,430 --> 00:08:56,630
+rapamil and you will decrease
+the slope of phase 4.
+
+120
+00:08:56,630 --> 00:09:00,750
+And that will change now
+the whole idea of your rate.
+
+121
+00:09:01,690 --> 00:09:07,810
+Triggered, the
+most likely reasons
+
+122
+00:09:07,810 --> 00:09:09,650
+for this type of arrhythmia
+
+123
+00:09:09,650 --> 00:09:16,330
+is either from an early
+after depolarization, which
+
+124
+00:09:16,330 --> 00:09:22,570
+tends to happen around phase
+3 of the action potential.
+
+125
+00:09:22,570 --> 00:09:28,390
+I will say that the most
+common reasons for this is
+
+126
+00:09:28,390 --> 00:09:33,010
+a situation of hypokalemia
+and a lowered heart rate.
+
+127
+00:09:34,170 --> 00:09:41,190
+Delayed after depolarization
+happens right here, after
+
+128
+00:09:41,190 --> 00:09:44,630
+phase 4 of the action
+potential. And we tend to
+
+129
+00:09:44,630 --> 00:09:49,810
+see that the mechanism here
+is high levels of calcium
+
+130
+00:09:49,810 --> 00:09:54,250
+influx. It can happen
+through that because maybe of
+
+131
+00:09:54,250 --> 00:09:57,250
+a digoxin toxicity, and
+you'll see a little bit later,
+
+132
+00:09:57,250 --> 00:10:01,390
+or those patients who have
+had an ischemic event.
+
+133
+00:10:02,140 --> 00:10:07,310
+And the reentry is
+pretty straightforward in
+
+134
+00:10:07,310 --> 00:10:12,090
+explanation. is that the
+impulse goes through the
+
+135
+00:10:12,090 --> 00:10:16,470
+heart and it excites the
+pathway and then for some
+
+136
+00:10:16,470 --> 00:10:20,490
+reason it goes back and
+re-excites that pathway.
+
+137
+00:10:21,490 --> 00:10:24,930
+Probably the best example
+would be the situation
+
+138
+00:10:24,930 --> 00:10:28,690
+of atrial fibrillation
+or atrial flutter.
+
+139
+00:10:29,050 --> 00:10:33,930
+But there's also certain
+heart conditions like Wolf
+
+140
+00:10:33,930 --> 00:10:37,270
+-Parkinson's White where
+there may be the formation
+
+141
+00:10:37,270 --> 00:10:40,870
+of an accessory pathway,
+such as the bundle of Kent.
+
+142
+00:10:40,870 --> 00:10:45,230
+So we'll talk about the
+medical management of
+
+143
+00:10:45,230 --> 00:10:48,190
+Wolff-Parkinson's White
+at the end of the lecture.
+
+144
+00:10:50,070 --> 00:10:54,010
+So this is the classification
+of antiarrhythmic
+
+145
+00:10:54,010 --> 00:10:57,490
+drugs that is in the textbook.
+It's known as the Vaughan
+
+146
+00:10:57,490 --> 00:11:01,030
+-Williams classification,
+where there is four
+
+147
+00:11:01,030 --> 00:11:05,290
+major classes and then
+miscellaneous. and that would
+
+148
+00:11:05,290 --> 00:11:09,810
+include drugs like the
+doxin, adenosine, magnesium.
+
+149
+00:11:13,750 --> 00:11:19,770
+Class 1 antiarrhythmics
+will all block the sodium
+
+150
+00:11:19,770 --> 00:11:25,330
+channels. So there will be,
+especially with the 1A and
+
+151
+00:11:25,330 --> 00:11:30,890
+the 1C, a definite change
+with depolarization. Okay,
+
+152
+00:11:31,230 --> 00:11:36,770
+so 1A, as you can see, you're
+getting some prolongation
+
+153
+00:11:36,940 --> 00:11:41,370
+of depolarization, and
+that has to do with
+
+154
+00:11:41,370 --> 00:11:45,930
+blockage of the sodium
+channels, and that would be
+
+155
+00:11:45,930 --> 00:11:51,190
+attributed now on the EKG
+to an increase in QRS.
+
+156
+00:11:52,630 --> 00:12:00,070
+1A also blocks potassium
+channels and that would
+
+157
+00:12:00,070 --> 00:12:04,770
+mean that you are prolonging
+as you can see here
+
+158
+00:12:04,770 --> 00:12:08,130
+repolarization as you can
+see in the red line and
+
+159
+00:12:08,130 --> 00:12:12,790
+that will increase QT
+so that is one mechanism
+
+160
+00:12:12,790 --> 00:12:18,210
+by which the 1As themselves
+can be proarrhythmic
+
+161
+00:12:18,330 --> 00:12:21,430
+The other thing is that
+the three drugs in this
+
+162
+00:12:21,430 --> 00:12:26,750
+group do have muscarinic
+receptor blockade.
+
+163
+00:12:26,750 --> 00:12:29,550
+M2 receptors are in the heart.
+
+164
+00:12:29,550 --> 00:12:32,050
+If you block those receptors,
+
+165
+00:12:32,050 --> 00:12:34,210
+you're turning on sympathetics.
+
+166
+00:12:34,550 --> 00:12:38,070
+And what you're going to
+see is an increase in AV
+
+167
+00:12:38,070 --> 00:12:43,060
+node action. Okay, so with
+many of them, especially
+
+168
+00:12:43,060 --> 00:12:46,990
+disopiramide, you will
+likely have to pair that
+
+169
+00:12:46,990 --> 00:12:50,490
+up with an AV node suppressant
+like a beta blocker.
+
+170
+00:12:52,050 --> 00:12:58,870
+1B is interesting
+in that you're going
+
+171
+00:12:58,870 --> 00:13:02,310
+to not have much going on with
+
+172
+00:13:02,310 --> 00:13:05,210
+depolarization, as you
+can see in this line.
+
+173
+00:13:05,730 --> 00:13:11,650
+and that makes sense because
+1B drugs like lidocaine
+
+174
+00:13:11,650 --> 00:13:16,950
+are given in situations
+where the tissue has
+
+175
+00:13:16,950 --> 00:13:21,130
+already been depolarized
+and the biggest example of
+
+176
+00:13:21,130 --> 00:13:26,570
+that is in a ischemic episode
+so lidocaine is usually
+
+177
+00:13:26,570 --> 00:13:32,250
+given post MI in the hours
+post MI to prevent that
+
+178
+00:13:32,250 --> 00:13:35,690
+patient from having a
+possible ventricular event.
+
+179
+00:13:36,480 --> 00:13:39,710
+The other thing that makes
+it so nice is, as you
+
+180
+00:13:39,710 --> 00:13:43,590
+can see, there is no effect
+on the potassium channels.
+
+181
+00:13:43,590 --> 00:13:47,230
+As a matter of fact, as
+you see, you're getting
+
+182
+00:13:47,230 --> 00:13:50,950
+a shortening of the
+action potential, and that
+
+183
+00:13:50,950 --> 00:13:54,930
+would lower the QT, and
+that makes it, again, very
+
+184
+00:13:54,980 --> 00:14:00,230
+important in those patients
+that have had an MI.
+
+185
+00:14:00,930 --> 00:14:03,590
+In depolarized cells,
+
+186
+00:14:04,830 --> 00:14:11,170
+this mechanism will
+slow the conduction.
+
+187
+00:14:11,830 --> 00:14:15,150
+And that's very
+important post-MI.
+
+188
+00:14:16,070 --> 00:14:20,850
+1C, as you can envision
+here, this is the one
+
+189
+00:14:20,850 --> 00:14:25,430
+with the most prolongation
+of depolarization.
+
+190
+00:14:26,550 --> 00:14:29,630
+And you see that
+green line shifting to
+
+191
+00:14:29,630 --> 00:14:33,130
+the right, more so
+definitely than the 1A.
+
+192
+00:14:33,550 --> 00:14:40,370
+And this group is going
+to enhance QRS. And that
+
+193
+00:14:40,370 --> 00:14:43,270
+itself in certain
+patients can be an issue
+
+194
+00:14:43,270 --> 00:14:47,450
+because if you're increasing
+that interval, you're
+
+195
+00:14:47,450 --> 00:14:50,710
+activating the ventricular
+cells. So you need to
+
+196
+00:14:50,710 --> 00:14:55,670
+give this in certain
+cases, and I'll speak about
+
+197
+00:14:55,670 --> 00:14:59,940
+it in a moment. But with
+respect to prolonging
+
+198
+00:15:01,150 --> 00:15:05,510
+the action potential or
+shortening it, it doesn't.
+
+199
+00:15:05,510 --> 00:15:08,030
+So as you can see,
+there's no effect on QT.
+
+200
+00:15:08,250 --> 00:15:13,250
+One thing I want to
+bring up is last semester
+
+201
+00:15:13,250 --> 00:15:17,220
+we discussed antidepressants,
+the tricyclics.
+
+202
+00:15:17,220 --> 00:15:20,550
+And we said that they
+used to be used before
+
+203
+00:15:20,550 --> 00:15:25,050
+the SSRIs, but they
+have autonomic effects.
+
+204
+00:15:26,690 --> 00:15:31,710
+And what we are concerned
+with in an overdose,
+
+205
+00:15:31,710 --> 00:15:36,380
+say, of amitriptyline is
+that it is cardiotoxic.
+
+206
+00:15:36,510 --> 00:15:41,090
+And if you look at how
+that happens, it kind of
+
+207
+00:15:41,090 --> 00:15:45,430
+mimics what's happening
+with the 1A sodium channel
+
+208
+00:15:45,430 --> 00:15:49,160
+blockers. Those patients
+on an EKG that have
+
+209
+00:15:49,160 --> 00:15:53,470
+overdosed will have a high
+QRS and a high QT. And
+
+210
+00:15:53,470 --> 00:15:58,310
+that is why, with respect
+to managing an overdose
+
+211
+00:15:58,310 --> 00:16:02,770
+of a tricyclic, we give
+sodium bicarbonate itself
+
+212
+00:16:02,770 --> 00:16:07,490
+to stabilize the sodium
+channels of the heart.
+
+213
+00:16:10,590 --> 00:16:15,850
+Class I drugs are use
+-dependent. And this is
+
+214
+00:16:15,850 --> 00:16:19,470
+an interesting concept
+where you're going to
+
+215
+00:16:19,470 --> 00:16:26,770
+get more of an inhibition
+of depolarization on
+
+216
+00:16:26,770 --> 00:16:30,040
+those cells that are
+frequently depolarizing.
+
+217
+00:16:30,070 --> 00:16:33,150
+That means that those
+patients that have
+
+218
+00:16:33,150 --> 00:16:37,750
+tachycardia or faster
+heart rates are going
+
+219
+00:16:37,750 --> 00:16:40,210
+to have increased
+sodium channel block.
+
+220
+00:16:41,090 --> 00:16:43,970
+And that is known
+as use dependence.
+
+221
+00:16:46,250 --> 00:16:49,590
+So, in identifying these drugs,
+
+222
+00:16:50,330 --> 00:16:53,790
+First Aid puts it
+nicely, and I have
+
+223
+00:16:53,790 --> 00:16:58,770
+adapted it from them,
+that the queen prefers
+
+224
+00:16:58,770 --> 00:17:03,150
+discos, and that
+would mean quinidine,
+
+225
+00:17:03,310 --> 00:17:06,590
+percanamide, and disopiramide.
+
+226
+00:17:06,860 --> 00:17:13,150
+So these drugs will
+block the open sodium
+
+227
+00:17:13,150 --> 00:17:18,110
+channels, and they're
+going to slow the 0 to 1.
+
+228
+00:17:18,720 --> 00:17:20,210
+And you can see that the
+
+229
+00:17:20,210 --> 00:17:21,890
+line is shifted to the right.
+
+230
+00:17:22,790 --> 00:17:26,550
+And they're also, with the
+fact that they're blocking
+
+231
+00:17:26,550 --> 00:17:31,730
+potassium channels, they're
+going to also prolong
+
+232
+00:17:31,730 --> 00:17:36,550
+the action potential. They
+also prolong the refractory
+
+233
+00:17:36,550 --> 00:17:39,970
+period. Now, the refractory
+period is the time
+
+234
+00:17:39,970 --> 00:17:45,320
+it takes for the sodium
+channels to recover from being
+
+235
+00:17:45,320 --> 00:17:49,510
+activated and then a new
+impulse to be generated.
+
+236
+00:17:51,070 --> 00:17:55,410
+These drugs will treat both
+
+237
+00:17:55,410 --> 00:17:58,870
+atrial and ventricular
+arrhythmias
+
+238
+00:17:59,250 --> 00:18:03,990
+Due to the effect on the
+sodium channels, you're
+
+239
+00:18:03,990 --> 00:18:07,310
+going to get an increase
+in QRS. And because of the
+
+240
+00:18:07,310 --> 00:18:11,210
+block of the potassium
+channels, you will enhance QT.
+
+241
+00:18:11,270 --> 00:18:14,850
+So that is the
+proarrhythmic action.
+
+242
+00:18:17,290 --> 00:18:21,050
+Again, I mentioned
+these drugs will also
+
+243
+00:18:21,050 --> 00:18:25,510
+block the M2 receptors
+in the heart. And
+
+244
+00:18:25,510 --> 00:18:28,150
+that's going to
+increase AB node action.
+
+245
+00:18:29,110 --> 00:18:33,590
+Quinidine has its
+own adverse effects.
+
+246
+00:18:33,590 --> 00:18:38,570
+It comes from quinine,
+which was found in
+
+247
+00:18:38,570 --> 00:18:43,410
+the bark of the
+cinchona tree. It was
+
+248
+00:18:43,410 --> 00:18:48,630
+used in missionary
+times to reduce fevers.
+
+249
+00:18:48,750 --> 00:18:52,910
+And patients that use quinine,
+
+250
+00:18:52,910 --> 00:18:56,070
+say for P. falciparum malaria,
+
+251
+00:18:56,230 --> 00:18:59,970
+will develop cinchonism.
+And the same can be
+
+252
+00:18:59,970 --> 00:19:04,030
+true for quinidine, where
+there'll be headache,
+
+253
+00:19:04,550 --> 00:19:07,330
+dizziness, and
+tinnitus developed.
+
+254
+00:19:07,330 --> 00:19:09,210
+And tinnitus is
+the ear ringing.
+
+255
+00:19:09,230 --> 00:19:11,750
+The other drug that
+we discussed that can
+
+256
+00:19:11,750 --> 00:19:15,430
+cause this early on in
+its toxicity is aspirin.
+
+257
+00:19:15,630 --> 00:19:19,210
+The other thing about
+quinidine is that
+
+258
+00:19:19,210 --> 00:19:25,210
+it does have some
+immune-like actions.
+
+259
+00:19:26,210 --> 00:19:32,170
+for the platelets
+antibodies can develop and
+
+260
+00:19:32,170 --> 00:19:35,250
+attack the glycoproteins
+on the platelets so
+
+261
+00:19:35,250 --> 00:19:38,490
+the patient may show
+on their cbc decreased
+
+262
+00:19:38,490 --> 00:19:43,070
+platelets they may experience
+bleeding in the liver
+
+263
+00:19:43,070 --> 00:19:46,490
+there is also an
+immune reaction and the
+
+264
+00:19:46,490 --> 00:19:50,210
+patient can develop changes
+in their skin fever,
+
+265
+00:19:50,370 --> 00:19:53,050
+right upper quadrant
+pain. What this would
+
+266
+00:19:53,050 --> 00:19:55,330
+mean is that you
+remove the medication.
+
+267
+00:19:58,970 --> 00:20:04,750
+Procanamide. I would say
+we are expecting the same
+
+268
+00:20:04,750 --> 00:20:09,410
+adverse effects with the
+high QT and the M2 block.
+
+269
+00:20:09,750 --> 00:20:12,550
+The other thing with this
+
+270
+00:20:12,550 --> 00:20:15,650
+medication is that
+there can be a
+
+271
+00:20:16,850 --> 00:20:20,690
+a decrease in peripheral
+vascular resistance, which
+
+272
+00:20:20,690 --> 00:20:24,710
+means hypotension. And
+the reason being is the
+
+273
+00:20:24,710 --> 00:20:28,030
+fact that there is some
+block of the alpha receptors.
+
+274
+00:20:28,030 --> 00:20:31,070
+So you can see a lowering
+of blood pressure with
+
+275
+00:20:31,070 --> 00:20:34,710
+procainamide. The other
+thing with procainamide
+
+276
+00:20:34,710 --> 00:20:39,170
+is that along with
+hydrolyzine, the vasodilator,
+
+277
+00:20:39,170 --> 00:20:45,690
+and isoniazid, which will
+you see for tuberculosis,
+
+278
+00:20:45,870 --> 00:20:50,710
+it exhibits a phase
+two metabolism, which
+
+279
+00:20:50,710 --> 00:20:53,470
+involves, in this
+case, acetylation.
+
+280
+00:20:53,950 --> 00:20:59,970
+If you acetylate quickly,
+you won't get drug therapy,
+
+281
+00:21:00,130 --> 00:21:04,610
+therapeutic benefit,
+the proper term. If you
+
+282
+00:21:04,610 --> 00:21:07,450
+metabolize slowly, you
+build up the drug and
+
+283
+00:21:07,450 --> 00:21:11,890
+the patient can experience
+arthralgias and,
+
+284
+00:21:11,890 --> 00:21:14,970
+of course, this
+presentation of butterfly
+
+285
+00:21:14,970 --> 00:21:19,670
+rash. And this is known
+as drug-induced lupus.
+
+286
+00:21:24,220 --> 00:21:27,310
+Dysopiramide is the one
+of the three that has the
+
+287
+00:21:27,310 --> 00:21:33,790
+most muscarinic block, most
+atropine-like. So, thinking
+
+288
+00:21:33,790 --> 00:21:39,250
+about atropine being a
+muscarinic blocker, you're
+
+289
+00:21:39,250 --> 00:21:42,390
+going to get the urinary
+retention, the medriasis,
+
+290
+00:21:42,810 --> 00:21:46,450
+the tachycardia,
+the constipation,
+
+291
+00:21:46,450 --> 00:21:48,870
+and the dry mouth, eyes, etc.
+
+292
+00:21:49,390 --> 00:21:53,510
+The other thing is,
+since you're having an
+
+293
+00:21:53,510 --> 00:21:57,670
+increase in AV node
+action, you want to give
+
+294
+00:21:57,670 --> 00:22:01,740
+this with an AV node
+suppressant. And as
+
+295
+00:22:01,740 --> 00:22:04,390
+mentioned, probably the
+one that they would use
+
+296
+00:22:04,390 --> 00:22:08,070
+the most is the beta
+-1 block or metoprolol.
+
+297
+00:22:09,410 --> 00:22:12,950
+So just to review
+receptor physiology,
+
+298
+00:22:13,370 --> 00:22:17,010
+acetylcholine binds to the
+M2 receptors in the heart.
+
+299
+00:22:17,010 --> 00:22:20,590
+And what takes over is the
+G-inhibitory mechanism.
+
+300
+00:22:20,610 --> 00:22:25,030
+Now G-inhibitory means
+everything slows down. You're
+
+301
+00:22:25,030 --> 00:22:29,570
+getting a decrease in
+adenyl cyclase, a decrease
+
+302
+00:22:29,570 --> 00:22:35,300
+in cyclic AMP, and what results
+is negative chronotropic,
+
+303
+00:22:35,650 --> 00:22:40,770
+that means a lowering
+of heart rate, and a
+
+304
+00:22:40,770 --> 00:22:45,070
+negative dromotropic, which
+would mean that you're
+
+305
+00:22:45,070 --> 00:22:50,490
+reducing the speed of the
+impulse through the AV node.
+
+306
+00:22:50,750 --> 00:22:53,510
+That makes sense. When
+we treat patients with
+
+307
+00:22:53,510 --> 00:22:56,690
+Alzheimer's with
+rivastigmine, being the fact
+
+308
+00:22:56,690 --> 00:23:00,450
+that it's an acetylcholine
+esterase inhibitor,
+
+309
+00:23:00,450 --> 00:23:03,110
+one of the issues that
+we worry about is that,
+
+310
+00:23:03,110 --> 00:23:05,290
+is this patient going
+to become bradycardic?
+
+311
+00:23:05,750 --> 00:23:08,530
+Okay, makes sense.
+Same thing with
+
+312
+00:23:08,530 --> 00:23:12,050
+organophosphate
+poisoning, because those
+
+313
+00:23:12,050 --> 00:23:14,770
+drugs seek to raise
+acetylcholine.
+
+314
+00:23:14,790 --> 00:23:18,910
+The way we manage is
+by giving a blocker.
+
+315
+00:23:19,270 --> 00:23:23,590
+and sometimes you'll see
+later in the lecture and
+
+316
+00:23:23,590 --> 00:23:26,390
+in my packets I did allude
+to the fact that for
+
+317
+00:23:26,390 --> 00:23:30,430
+bradycardia you can give
+atropine but I will say that
+
+318
+00:23:30,430 --> 00:23:33,730
+atropine yes will bring
+the heart rate up and we
+
+319
+00:23:33,730 --> 00:23:36,770
+don't want to be either
+extreme whether it be brady
+
+320
+00:23:36,770 --> 00:23:39,950
+or tachycardic but you
+have to do this dose this
+
+321
+00:23:39,950 --> 00:23:43,170
+carefully because there's
+been times when atropine is
+
+322
+00:23:43,170 --> 00:23:45,910
+given and then the patient
+goes into tachycardia.
+
+323
+00:23:48,530 --> 00:23:53,570
+So next we have the 1B. We have
+
+324
+00:23:53,570 --> 00:23:56,370
+lidocaine and we have mexotine.
+
+325
+00:23:57,290 --> 00:24:00,370
+Not much happening
+with the depolarization
+
+326
+00:24:00,370 --> 00:24:03,910
+because as I mentioned,
+these are the drugs
+
+327
+00:24:03,910 --> 00:24:07,480
+that work on tissue that
+has been depolarized.
+
+328
+00:24:09,750 --> 00:24:12,190
+But you'll see that
+they're shortening
+
+329
+00:24:12,190 --> 00:24:14,830
+the action potential
+and that is
+
+330
+00:24:14,830 --> 00:24:17,830
+appropriate, it will
+decrease QT interval.
+
+331
+00:24:18,610 --> 00:24:22,110
+When we're talking about
+the channels, as I said
+
+332
+00:24:22,110 --> 00:24:25,390
+before, the 1A works
+mainly on the open
+
+333
+00:24:25,390 --> 00:24:29,290
+channels. These will work
+on the inactivated channels
+
+334
+00:24:29,290 --> 00:24:33,930
+and the inactivated
+channel effect means that
+
+335
+00:24:34,510 --> 00:24:36,690
+there's going to be
+greater effects in the
+
+336
+00:24:36,690 --> 00:24:39,110
+ventricles and again,
+that's another good thing
+
+337
+00:24:39,110 --> 00:24:41,990
+if we have a patient who
+had a recent MI. why?
+
+338
+00:24:44,250 --> 00:24:46,510
+Lidocaine is given
+intravenously.
+
+339
+00:24:47,980 --> 00:24:52,040
+And by the way, as a
+review, this is an amide
+
+340
+00:24:53,750 --> 00:24:57,790
+anesthetic. So if you're
+going to the dentist to
+
+341
+00:24:57,790 --> 00:25:01,190
+remove the wisdom tooth,
+they'll give you that locally.
+
+342
+00:25:01,650 --> 00:25:05,010
+Anybody who, you know,
+gets muscle rubs from
+
+343
+00:25:05,010 --> 00:25:08,830
+the pharmacy, they do
+have some of those rubs
+
+344
+00:25:08,830 --> 00:25:11,610
+that have lidocaine
+in it. You can get it
+
+345
+00:25:11,610 --> 00:25:14,810
+as a patch as well to
+numb some of the pain.
+
+346
+00:25:15,390 --> 00:25:21,230
+So the point here is, if
+we gave too much lidocaine
+
+347
+00:25:21,230 --> 00:25:24,230
+intravenously, the patient
+can have neurological
+
+348
+00:25:24,230 --> 00:25:29,470
+effects. They can get
+paresthesias, which are tingling in
+
+349
+00:25:29,470 --> 00:25:32,470
+the extremities, or in
+worst case scenario, they
+
+350
+00:25:32,470 --> 00:25:36,090
+could get seizures. So again,
+be mindful of that, and
+
+351
+00:25:36,090 --> 00:25:40,310
+also other medications,
+because being a substrate for
+
+352
+00:25:40,310 --> 00:25:46,030
+SIP, it can be inhibited
+or induced by those drugs,
+
+353
+00:25:46,090 --> 00:25:49,930
+say an azole, will
+inhibit its metabolism
+
+354
+00:25:49,930 --> 00:25:53,110
+and raise lidocaine's
+concentration.
+
+355
+00:25:53,710 --> 00:25:58,490
+Mexaltine is oral. It
+does have some GI effects.
+
+356
+00:25:59,450 --> 00:26:03,290
+And phenytoin is also
+put in the group.
+
+357
+00:26:03,910 --> 00:26:07,490
+You won't be giving
+phenytoin on the floors
+
+358
+00:26:07,490 --> 00:26:10,970
+for this purpose, but
+it's important to know
+
+359
+00:26:10,970 --> 00:26:14,270
+that it does have some
+1B actions. And remember,
+
+360
+00:26:14,270 --> 00:26:16,530
+phenytoin does have
+the effects that it
+
+361
+00:26:16,530 --> 00:26:20,030
+can cause hirsutrism,
+excessive hair growth,
+
+362
+00:26:20,630 --> 00:26:23,790
+gingival hyperplasia,
+just like the calcium
+
+363
+00:26:23,790 --> 00:26:26,830
+channel blockers, and
+nystagmus, where the patient
+
+364
+00:26:26,830 --> 00:26:31,470
+will have some degree
+of change in their eyes.
+
+365
+00:26:34,570 --> 00:26:40,330
+So 1C, they will work
+also on the open channel
+
+366
+00:26:40,330 --> 00:26:46,230
+just like the 1A,
+but with respect to
+
+367
+00:26:46,230 --> 00:26:51,870
+depolarization, there's going
+to be greater depolarization
+
+368
+00:26:51,910 --> 00:26:54,210
+expected with the 1C.
+and you can see that
+
+369
+00:26:54,210 --> 00:26:57,390
+the line here has
+shifted way to the right.
+
+370
+00:26:57,900 --> 00:27:00,510
+The other thing that it
+doesn't share with the
+
+371
+00:27:00,510 --> 00:27:03,550
+other two in its class is
+that not much is happening
+
+372
+00:27:03,550 --> 00:27:06,210
+with the action potential,
+as you can see here.
+
+373
+00:27:07,770 --> 00:27:12,570
+One thing about this
+group, when they bind to
+
+374
+00:27:12,570 --> 00:27:18,270
+the channel, they exhibit
+slow, unbinding kinetics.
+
+375
+00:27:18,270 --> 00:27:21,110
+So they come off the
+channel rather slowly.
+
+376
+00:27:22,510 --> 00:27:28,950
+and here is the important
+thing with these medications
+
+377
+00:27:28,950 --> 00:27:35,470
+is that given the fact that
+they prolong the depolarization
+
+378
+00:27:35,470 --> 00:27:38,450
+significantly, they're
+going to raise the QRS
+
+379
+00:27:38,450 --> 00:27:42,810
+significantly and that can
+increase the ventricular
+
+380
+00:27:42,810 --> 00:27:48,050
+activation and the ventricular
+rate. So these are reserved
+
+381
+00:27:48,050 --> 00:27:52,310
+for patients that have
+refractory ventricular
+
+382
+00:27:52,310 --> 00:27:57,750
+arrhythmias, in some cases of
+AFib, but the kicker here is
+
+383
+00:27:57,750 --> 00:28:01,670
+you do not want to give this
+to patients that have had
+
+384
+00:28:01,670 --> 00:28:05,510
+structural damage to their
+heart, such as somebody who
+
+385
+00:28:05,510 --> 00:28:10,650
+had an MI, because this
+ventricular rate can be an
+
+386
+00:28:10,650 --> 00:28:17,490
+issue. And we do have data
+from a study known as CAST,
+
+387
+00:28:17,750 --> 00:28:21,430
+cardiac arrhythmia
+suppression trial, where
+
+388
+00:28:21,430 --> 00:28:25,810
+they gave flecainide to
+patients that had an MI,
+
+389
+00:28:25,810 --> 00:28:30,950
+and those that had a
+certain degree of structural
+
+390
+00:28:30,950 --> 00:28:33,530
+damage did have a
+greater risk of dying.
+
+391
+00:28:34,510 --> 00:28:37,870
+The other thing is that
+these drugs are negative
+
+392
+00:28:37,870 --> 00:28:44,630
+inotropic. so inotropic
+effects means effects on heart
+
+393
+00:28:44,630 --> 00:28:48,350
+contraction negative
+inotropic means you're getting
+
+394
+00:28:48,350 --> 00:28:51,930
+a decrease in contraction
+if you are somebody with
+
+395
+00:28:51,930 --> 00:28:54,890
+a congestive heart failure
+where you're already
+
+396
+00:28:54,890 --> 00:28:59,910
+not getting an appropriate
+heart pumping ability
+
+397
+00:29:00,790 --> 00:29:05,090
+anything negative inotropic
+is going to make it worse.
+
+398
+00:29:06,570 --> 00:29:10,470
+And then the other
+thing is flecainide.
+
+399
+00:29:10,490 --> 00:29:13,030
+Blocks the ryanidine receptor.
+
+400
+00:29:13,030 --> 00:29:18,090
+Now we talked about
+ryanidine receptors when
+
+401
+00:29:18,090 --> 00:29:21,290
+we discussed dantraline
+and the skeletal muscle.
+
+402
+00:29:21,290 --> 00:29:26,190
+And we said that patients
+who take D2 blockers,
+
+403
+00:29:26,230 --> 00:29:29,170
+pure D2 blockers,
+like the typical
+
+404
+00:29:29,170 --> 00:29:33,590
+antipsychotics, are at a
+greater risk of getting NMS.
+
+405
+00:29:33,590 --> 00:29:35,590
+And remember, that
+was the lead pipe
+
+406
+00:29:35,590 --> 00:29:38,130
+rigidity with the
+high temperature.
+
+407
+00:29:38,510 --> 00:29:41,950
+And that temperature was
+coming through sustained
+
+408
+00:29:41,950 --> 00:29:44,810
+muscle contraction.
+So we gave dantrolene
+
+409
+00:29:44,810 --> 00:29:48,610
+and that had an effect
+on the ryanidine receptor
+
+410
+00:29:48,610 --> 00:29:51,230
+and that stopped the
+shifting of the calcium
+
+411
+00:29:51,230 --> 00:29:54,570
+that is needed for skeletal
+muscle contraction.
+
+412
+00:29:54,750 --> 00:29:57,790
+It seems to be that flecainide
+can do the same thing
+
+413
+00:29:57,790 --> 00:30:01,730
+in the heart by blocking
+those receptors in the heart.
+
+414
+00:30:02,350 --> 00:30:05,190
+And that has been studied to be
+
+415
+00:30:05,190 --> 00:30:07,750
+effective at those
+patients that have
+
+416
+00:30:07,750 --> 00:30:11,710
+catecholamine
+ventricular tachycardia.
+
+417
+00:30:14,650 --> 00:30:17,810
+Class 2 are the beta blockers.
+
+418
+00:30:18,170 --> 00:30:22,730
+And as mentioned, these
+drugs can work in the
+
+419
+00:30:22,730 --> 00:30:25,590
+pacemaker, the SA node
+and the AV node. They
+
+420
+00:30:25,590 --> 00:30:30,070
+will suppress there.
+we are looking at phase
+
+421
+00:30:30,070 --> 00:30:33,130
+4 of the action potential
+where you're going
+
+422
+00:30:33,130 --> 00:30:35,910
+to get a decrease in
+the slope of phase 4.
+
+423
+00:30:36,410 --> 00:30:38,830
+And calcium channel
+block layers,
+
+424
+00:30:38,830 --> 00:30:41,350
+mainly verapamil and diltiazem,
+
+425
+00:30:41,350 --> 00:30:42,490
+can do the same thing.
+
+426
+00:30:44,830 --> 00:30:49,170
+So all the beta receptors,
+and here I'm talking
+
+427
+00:30:49,170 --> 00:30:52,410
+about specifically in
+the heart is beta 1,
+
+428
+00:30:53,090 --> 00:30:56,810
+will work at G-stimulatory.
+
+429
+00:30:58,390 --> 00:31:01,210
+norepinephrine binds to
+that receptor in the heart
+
+430
+00:31:01,210 --> 00:31:05,570
+it increases adhenyl
+cyclase and then cyclic AMP
+
+431
+00:31:05,930 --> 00:31:10,670
+and protein kinase A
+calcium will shuttle in and
+
+432
+00:31:10,670 --> 00:31:12,750
+that's going to cause
+contraction of the heart
+
+433
+00:31:12,750 --> 00:31:15,290
+that's going to raise heart
+rate and cardiac output
+
+434
+00:31:15,290 --> 00:31:18,500
+so when you give a beta
+1 blocker like metoprolol
+
+435
+00:31:18,660 --> 00:31:21,510
+all of that is going
+to stop and now you're
+
+436
+00:31:21,510 --> 00:31:24,670
+getting a decrease in heart
+rate and cardiac output
+
+437
+00:31:26,730 --> 00:31:31,330
+and there we go we've seen
+this slide before the other
+
+438
+00:31:31,330 --> 00:31:35,330
+thing to note that in the
+jugsular glomerular apparatus
+
+439
+00:31:35,330 --> 00:31:40,150
+in the kidney there is a
+beta-1 receptor if you give
+
+440
+00:31:40,150 --> 00:31:45,930
+metoprolol there's some
+indirect action at binding
+
+441
+00:31:45,930 --> 00:31:51,210
+renin so even though it's
+not the same action of an ACE
+
+442
+00:31:51,210 --> 00:31:54,290
+inhibitor or an R because
+those are more direct, you
+
+443
+00:31:54,290 --> 00:31:59,270
+can have some decrease in
+renin from a beta blocker.
+
+444
+00:32:00,210 --> 00:32:02,850
+They'll suppress
+the AV node and the
+
+445
+00:32:02,850 --> 00:32:07,630
+SA nodes, and these
+are all the uses,
+
+446
+00:32:07,630 --> 00:32:10,610
+very big drug class
+in cardiology.
+
+447
+00:32:10,900 --> 00:32:13,450
+In thyrotoxicosis or thyroid
+
+448
+00:32:13,450 --> 00:32:16,530
+storm, the patient
+is hyperthyroid.
+
+449
+00:32:16,710 --> 00:32:20,440
+Of course, we want to give
+something like methimazole
+
+450
+00:32:20,440 --> 00:32:24,810
+to treat hyperthyroidism.
+But in some cases, we
+
+451
+00:32:24,810 --> 00:32:27,290
+have to be worried about
+the patient's heart rate.
+
+452
+00:32:27,330 --> 00:32:30,470
+In thyroid storm, the
+patient's heart rate can
+
+453
+00:32:30,470 --> 00:32:34,190
+go so high that they're
+at risk of getting an
+
+454
+00:32:34,190 --> 00:32:38,990
+arrhythmia before the
+antithyroid drugs kick in.
+
+455
+00:32:39,000 --> 00:32:42,830
+So for first choice, we
+want to give a beta blocker.
+
+456
+00:32:43,990 --> 00:32:51,750
+beta 1 selective metoprolol
+atenolol the non-selectives
+
+457
+00:32:51,750 --> 00:32:55,230
+mean that they block beta 2
+and that is going to cause
+
+458
+00:32:55,230 --> 00:33:00,130
+bronchoconstriction hypoglycemia
+because you're going
+
+459
+00:33:00,130 --> 00:33:03,650
+to block the conversion
+conversion of glycogen to
+
+460
+00:33:03,650 --> 00:33:08,570
+glucose and then PVD peripheral
+vascular disease if you
+
+461
+00:33:08,570 --> 00:33:11,450
+block beta 2 receptors there,
+you're going to get the
+
+462
+00:33:11,450 --> 00:33:15,910
+patient having a worsening
+of their vasoconstriction.
+
+463
+00:33:16,450 --> 00:33:21,090
+Pindolol, Asputolol are
+intrinsic sympathomimetic.
+
+464
+00:33:21,090 --> 00:33:24,170
+So they're partial
+agonists. They can actually
+
+465
+00:33:24,170 --> 00:33:27,490
+kick up sympathetics
+and can worsen ischemia.
+
+466
+00:33:29,050 --> 00:33:32,590
+And then Esmolol is
+ultra-short-acting,
+
+467
+00:33:33,530 --> 00:33:36,630
+can be used intravenously
+in the hospital.
+
+468
+00:33:38,330 --> 00:33:42,410
+So class 3 potassium
+channel blockers, when we
+
+469
+00:33:42,410 --> 00:33:47,290
+look at the action potential,
+we see that it does
+
+470
+00:33:47,290 --> 00:33:54,090
+resemble the 1A sodium
+channel blockers in that
+
+471
+00:33:54,090 --> 00:34:00,170
+there's a prolongation of
+repolarization. However,
+
+472
+00:34:00,390 --> 00:34:08,270
+unlike the 1A, there's no
+effects on depolarization.
+
+473
+00:34:10,630 --> 00:34:13,150
+Commonly used to treat AFib,
+
+474
+00:34:13,510 --> 00:34:16,430
+AFlutter, and
+ventricular tachycardia,
+
+475
+00:34:17,850 --> 00:34:21,310
+the idea that they're
+prolonging the action
+
+476
+00:34:21,310 --> 00:34:26,910
+potential would mean
+that they are going
+
+477
+00:34:26,910 --> 00:34:31,230
+to increase QT and
+perhaps trussades,
+
+478
+00:34:31,560 --> 00:34:35,710
+and they exhibit a
+reverse use dependence.
+
+479
+00:34:35,900 --> 00:34:39,350
+And this is interesting.
+It's now the opposite of
+
+480
+00:34:39,350 --> 00:34:43,290
+use dependence. Use dependence,
+we're thinking about
+
+481
+00:34:43,290 --> 00:34:46,430
+the drug having a greater
+effect on those with
+
+482
+00:34:46,430 --> 00:34:50,650
+tachycardia. reverse use
+means that they're going to
+
+483
+00:34:50,650 --> 00:34:56,270
+work more these potassium
+channel blockers in patients
+
+484
+00:34:56,270 --> 00:34:59,750
+that have a slower rate
+which would mean that those
+
+485
+00:34:59,750 --> 00:35:01,810
+patients are going to
+be more sensitive to the
+
+486
+00:35:01,810 --> 00:35:07,610
+repolarization and more
+likely have an increase in QT
+
+487
+00:35:08,540 --> 00:35:12,230
+there's four drugs to
+consider the main one is
+
+488
+00:35:12,230 --> 00:35:16,830
+amiodarone we have abutilide,
+dofidilide, and sodalol
+
+489
+00:35:17,730 --> 00:35:22,030
+Amiodarone, quite
+possibly, is the
+
+490
+00:35:22,030 --> 00:35:26,230
+biggest antiarrhythmic
+of all because
+
+491
+00:35:26,230 --> 00:35:28,910
+we consider it to
+be broad spectrum.
+
+492
+00:35:28,910 --> 00:35:31,470
+And that means
+that in addition to
+
+493
+00:35:31,470 --> 00:35:34,450
+having the potassium
+channel block,
+
+494
+00:35:34,450 --> 00:35:36,710
+there's a degree of sodium,
+
+495
+00:35:37,150 --> 00:35:44,990
+calcium, and also beta and
+alpha receptor blockade.
+
+496
+00:35:45,850 --> 00:35:49,210
+so you may see
+hypotension with this one
+
+497
+00:35:50,530 --> 00:35:54,710
+there is a lower incidence
+of QT even though
+
+498
+00:35:54,710 --> 00:35:58,610
+we have the repolarization
+happening and the
+
+499
+00:35:58,610 --> 00:36:01,930
+reason being is that it
+has beta blockade on board
+
+500
+00:36:01,930 --> 00:36:07,370
+so that can help with
+that ventricular event
+
+501
+00:36:11,870 --> 00:36:15,470
+and meodorone is
+a substrate for
+
+502
+00:36:15,470 --> 00:36:19,810
+CYP3A4. So that means
+it can be inhibited
+
+503
+00:36:19,810 --> 00:36:23,050
+or induced by any
+of those drugs.
+
+504
+00:36:23,990 --> 00:36:28,890
+Itself, it can inhibit other
+medications like digoxin,
+
+505
+00:36:28,890 --> 00:36:32,290
+warfarin, and statins.
+So with the warfarin, if
+
+506
+00:36:32,290 --> 00:36:36,110
+you inhibit warfarin, you
+may be more prone to bleed.
+
+507
+00:36:36,850 --> 00:36:39,410
+The drug has a long half-life,
+
+508
+00:36:39,910 --> 00:36:44,870
+average 60 days, and
+it makes a metabolite,
+
+509
+00:36:44,890 --> 00:36:48,290
+desethylamiodarone,
+which in the
+
+510
+00:36:48,290 --> 00:36:52,230
+liver can inhibit
+fatty acid oxidation.
+
+511
+00:36:52,850 --> 00:36:56,350
+There can be some increase
+in lipid production,
+
+512
+00:36:56,350 --> 00:37:00,050
+and that can, in fact,
+affect the mitochondria.
+
+513
+00:37:00,050 --> 00:37:03,730
+And of course, there is
+formation of ROSs as well.
+
+514
+00:37:05,830 --> 00:37:11,410
+as I as I show you
+there at iodine this
+
+515
+00:37:11,530 --> 00:37:16,610
+medication is iodinated as
+you can see here there's
+
+516
+00:37:16,610 --> 00:37:21,410
+iodine groups in the
+drug structure if
+
+517
+00:37:21,410 --> 00:37:25,030
+you have iodine you
+can create more thyroid
+
+518
+00:37:25,030 --> 00:37:27,770
+hormone and that can
+lead to hyperthyroidism.
+
+519
+00:37:28,510 --> 00:37:31,510
+The other thing is that in the
+
+520
+00:37:31,510 --> 00:37:34,770
+mechanism that makes
+thyroid hormone,
+
+521
+00:37:35,310 --> 00:37:39,630
+there needs to be a
+conversion of T4 to T3.
+
+522
+00:37:39,630 --> 00:37:42,710
+T3 is the active that
+goes to the nuclear
+
+523
+00:37:42,710 --> 00:37:46,690
+receptor and does the
+job of what we need
+
+524
+00:37:46,690 --> 00:37:49,890
+thyroid hormone to be
+for us in our bodies.
+
+525
+00:37:50,630 --> 00:37:53,850
+If that is blocked by
+amiodarone, now the
+
+526
+00:37:53,850 --> 00:37:58,810
+patient can be hypothyroid.
+So it's going to
+
+527
+00:37:58,810 --> 00:38:02,130
+be necessary that when
+you start patients on
+
+528
+00:38:02,260 --> 00:38:04,850
+amiodarone, you've got
+to do a liver function
+
+529
+00:38:04,850 --> 00:38:08,610
+look. You've got to
+do a thyroid panel.
+
+530
+00:38:08,770 --> 00:38:12,390
+The other thing, since
+it's iodinated, it's
+
+531
+00:38:12,390 --> 00:38:15,510
+going to affect the skin.
+It seems to be that the
+
+532
+00:38:15,510 --> 00:38:18,430
+drug interacts with the
+melanin in the skin.
+
+533
+00:38:18,650 --> 00:38:22,130
+And that can lead to this
+condition where patients
+
+534
+00:38:22,130 --> 00:38:26,150
+can appear bluish and
+that's known as smurf skin.
+
+535
+00:38:27,230 --> 00:38:33,050
+Corneal deposits is when
+the patient now will start
+
+536
+00:38:33,050 --> 00:38:37,350
+to feel changes in vision
+because there is an opacity
+
+537
+00:38:37,650 --> 00:38:40,530
+and that has to do with
+the fact that this drug
+
+538
+00:38:40,530 --> 00:38:44,430
+accumulated in the cornea, in
+the lysosomes of the cornea.
+
+539
+00:38:50,110 --> 00:38:55,830
+So then amiodarone can
+cause a pulmonary fibrosis.
+
+540
+00:38:55,830 --> 00:38:59,570
+And what's happening
+here is that in the
+
+541
+00:38:59,570 --> 00:39:02,450
+lungs, there's going to
+be damage to the type 2
+
+542
+00:39:02,450 --> 00:39:06,050
+pneumocytes. And that's
+an immunological reaction.
+
+543
+00:39:06,390 --> 00:39:08,130
+And that's going to lead to a
+
+544
+00:39:08,130 --> 00:39:10,290
+decrease in
+surfactant production.
+
+545
+00:39:10,430 --> 00:39:13,390
+So at baseline and yearly,
+
+546
+00:39:13,890 --> 00:39:16,490
+you want to do a chest x-ray.
+
+547
+00:39:16,990 --> 00:39:20,350
+Some cases you may
+want to do a pulmonary
+
+548
+00:39:20,350 --> 00:39:23,430
+function test. You may
+want to be very careful if
+
+549
+00:39:23,430 --> 00:39:27,210
+the patient is using
+tobacco products as well.
+
+550
+00:39:27,750 --> 00:39:30,470
+And then if they
+develop this issue,
+
+551
+00:39:30,470 --> 00:39:32,290
+you have to stop the medication
+
+552
+00:39:32,290 --> 00:39:36,050
+and administer glucocorticoids.
+
+553
+00:39:36,050 --> 00:39:38,910
+Again, this is an
+immune reaction.
+
+554
+00:39:39,150 --> 00:39:42,230
+Other drugs that cause
+pulmonary fibrosis,
+
+555
+00:39:42,230 --> 00:39:45,730
+it's worth reviewing
+this, is bleomycin,
+
+556
+00:39:46,170 --> 00:39:48,370
+basulfan, and
+methotrexate, which
+
+557
+00:39:48,370 --> 00:39:50,430
+are considered to
+be antineoplastics.
+
+558
+00:39:51,390 --> 00:39:53,250
+Methotrexate is used for RA.
+
+559
+00:39:53,400 --> 00:39:56,230
+And nitrofurantoin, which
+you'll see a little bit
+
+560
+00:39:56,230 --> 00:40:00,290
+later, can be used for
+urinary tract infections.
+
+561
+00:40:00,910 --> 00:40:05,390
+And this is just a
+changeover, what hyperplasia
+
+562
+00:40:05,390 --> 00:40:07,790
+of type 2 pneumocytes
+will look like.
+
+563
+00:40:08,510 --> 00:40:14,130
+So the other class 3
+drugs, we have droneterone,
+
+564
+00:40:16,370 --> 00:40:21,770
+which sounds like amiodarone,
+but it has no iodine. So
+
+565
+00:40:21,770 --> 00:40:24,950
+we would not be as concerned
+with the thyroid issue
+
+566
+00:40:24,950 --> 00:40:28,490
+or the changes in the skin
+or the corneal deposits.
+
+567
+00:40:29,310 --> 00:40:31,670
+Soda law, as the name says,
+
+568
+00:40:32,050 --> 00:40:36,490
+does have non-selective
+beta adrenergic blockade.
+
+569
+00:40:36,490 --> 00:40:41,650
+So it could be
+considered in the class 2
+
+570
+00:40:41,650 --> 00:40:44,550
+group with the beta blockers,
+but it's put in class
+
+571
+00:40:44,550 --> 00:40:50,250
+3 because this one does
+have an effect on the
+
+572
+00:40:50,250 --> 00:40:53,810
+potassium channels. It
+causes repolarization.
+
+573
+00:40:54,490 --> 00:41:00,030
+It has an effect at
+the action potential,
+
+574
+00:41:01,310 --> 00:41:03,970
+prolonging action potential.
+
+575
+00:41:04,450 --> 00:41:07,540
+It can be used for
+AFib treatment.
+
+576
+00:41:08,430 --> 00:41:12,990
+And then the last two are
+dofidolide and imbutilide.
+
+577
+00:41:13,030 --> 00:41:15,150
+These two are interesting.
+
+578
+00:41:15,250 --> 00:41:18,450
+They're going to,
+of the others,
+
+579
+00:41:18,450 --> 00:41:20,810
+slow cardiac repolarization.
+
+580
+00:41:22,160 --> 00:41:26,150
+And due to the fact that
+they have this slow defect,
+
+581
+00:41:26,230 --> 00:41:32,550
+they're going to raise
+the QT rather nicely.
+
+582
+00:41:32,590 --> 00:41:35,400
+And that would mean
+that if we give this
+
+583
+00:41:35,400 --> 00:41:37,960
+medication, we want to
+do it under surveillance.
+
+584
+00:41:38,510 --> 00:41:40,790
+They have to be
+monitored, these
+
+585
+00:41:40,790 --> 00:41:43,810
+patients, for about four hours.
+
+586
+00:41:43,940 --> 00:41:45,700
+They have to do continuous
+
+587
+00:41:45,700 --> 00:41:48,710
+EKGs to watch that QT interval.
+
+588
+00:41:52,470 --> 00:41:55,690
+Class 4 are the calcium
+channel blockers.
+
+589
+00:41:56,130 --> 00:41:59,430
+They will increase
+the refractory period,
+
+590
+00:41:59,430 --> 00:42:02,470
+especially in the AV
+node. These are just
+
+591
+00:42:02,470 --> 00:42:06,170
+like beta blockers or
+AV node suppressants.
+
+592
+00:42:06,170 --> 00:42:10,810
+As mentioned early
+in the lecture,
+
+593
+00:42:10,810 --> 00:42:13,370
+they're going to
+work at the shoulder.
+
+594
+00:42:13,370 --> 00:42:16,310
+They're going to slow
+the inward calcium
+
+595
+00:42:16,310 --> 00:42:19,370
+current that happens
+between 0 and 2.
+
+596
+00:42:19,630 --> 00:42:21,770
+Okay, the shoulder
+or the plateau.
+
+597
+00:42:22,250 --> 00:42:27,890
+They will decrease
+the phase 4 slope in
+
+598
+00:42:27,890 --> 00:42:30,210
+the pacemaker and
+the AV node as well.
+
+599
+00:42:30,550 --> 00:42:33,630
+Okay, and I showed you
+that picture early on.
+
+600
+00:42:33,770 --> 00:42:36,590
+They will prevent
+supraventricular
+
+601
+00:42:36,590 --> 00:42:39,250
+tachycardia. They can
+be used for AFib in
+
+602
+00:42:39,250 --> 00:42:41,950
+patients that cannot
+tolerate beta blockers.
+
+603
+00:42:42,630 --> 00:42:47,730
+And these drugs in this
+arrhythmia lecture is
+
+604
+00:42:47,730 --> 00:42:51,730
+going to be rapamil and
+diltiazem, not dipenes. And
+
+605
+00:42:51,730 --> 00:42:55,070
+the reason why is that,
+remember, with the
+
+606
+00:42:55,070 --> 00:42:58,130
+dipenes, they're going to
+work in the arterial role.
+
+607
+00:42:58,130 --> 00:43:02,150
+They're going to relax
+arterial smooth muscle.
+
+608
+00:43:02,170 --> 00:43:04,170
+That's good. They're
+going to lower blood
+
+609
+00:43:04,170 --> 00:43:06,990
+pressure. But we
+know, especially the
+
+610
+00:43:06,990 --> 00:43:13,010
+earlier dipines like
+nifedipine, nicarpedine,
+
+611
+00:43:13,080 --> 00:43:16,650
+when your blood pressure
+goes down significantly,
+
+612
+00:43:16,890 --> 00:43:20,270
+the body always wants to
+go back to what it was.
+
+613
+00:43:20,990 --> 00:43:27,370
+so they can invoke sympathetics
+through the baroreceptor
+
+614
+00:43:27,370 --> 00:43:30,830
+reflex mechanism and that
+can lead to tachycardia
+
+615
+00:43:30,830 --> 00:43:33,310
+you don't want that to
+happen in somebody that is
+
+616
+00:43:33,310 --> 00:43:37,010
+getting treated for an
+arrhythmia that's why verapamil
+
+617
+00:43:37,010 --> 00:43:40,330
+and diltiazem are the ones
+we use they do have some
+
+618
+00:43:40,330 --> 00:43:42,990
+effects in the arterial
+but not significant they're
+
+619
+00:43:42,990 --> 00:43:46,830
+more for the heart, the SA
+and the AV node so calcium
+
+620
+00:43:46,830 --> 00:43:52,750
+comes into the cell it binds
+to calmodulin, it's binding
+
+621
+00:43:52,750 --> 00:43:57,970
+protein, you activate
+myosin light chain kinase,
+
+622
+00:43:57,970 --> 00:44:01,810
+that phosphorylates
+everything, and then when
+
+623
+00:44:01,810 --> 00:44:04,550
+you pair up with actin
+and myosin, you get
+
+624
+00:44:04,550 --> 00:44:08,210
+contraction. That's what's
+happening in the vessels.
+
+625
+00:44:11,890 --> 00:44:18,690
+one thing to note is that
+when we talk about the
+
+626
+00:44:18,690 --> 00:44:23,250
+tachycardia and the edema
+again that is for the dipines
+
+627
+00:44:23,250 --> 00:44:27,230
+because not only are you
+invoking baroreceptor reflex
+
+628
+00:44:27,230 --> 00:44:31,920
+mechanism with the dipines
+you're also invoking renin
+
+629
+00:44:31,920 --> 00:44:35,310
+and when that happens
+you're also increasing
+
+630
+00:44:35,310 --> 00:44:39,270
+aldosterone, and that's going
+to collect more sodium and
+
+631
+00:44:39,270 --> 00:44:42,390
+water from the kidney to
+raise your blood pressure,
+
+632
+00:44:42,390 --> 00:44:45,570
+and that's where the edema
+is coming from. This will
+
+633
+00:44:45,570 --> 00:44:50,550
+not happen with berapamil
+and diltiazem. If anything,
+
+634
+00:44:51,150 --> 00:44:54,150
+bradycardia is the most likely
+
+635
+00:44:54,150 --> 00:44:55,910
+adverse effect of these two.
+
+636
+00:44:57,670 --> 00:45:01,230
+Constipation can happen,
+and actually berapamil is
+
+637
+00:45:01,230 --> 00:45:04,710
+the most, and that's because
+if you're thinking about
+
+638
+00:45:04,710 --> 00:45:09,330
+calcium block in the gut,
+it's not going to move
+
+639
+00:45:09,330 --> 00:45:11,530
+the smooth muscle. So you're
+going to get a decrease
+
+640
+00:45:11,530 --> 00:45:14,910
+in peristalsis. Patients
+can become constipated.
+
+641
+00:45:15,430 --> 00:45:20,350
+Gingival overgrowth, what
+is that about? Well, you're
+
+642
+00:45:20,350 --> 00:45:24,010
+increasing fibroblasts in
+the mouth and that's going
+
+643
+00:45:24,010 --> 00:45:27,730
+to increase collagen
+deposition and that's why those
+
+644
+00:45:27,730 --> 00:45:32,110
+gums become enlarged. Now
+with grapefruit juice, this
+
+645
+00:45:32,110 --> 00:45:35,510
+is interesting because with
+grapefruit juice, you're
+
+646
+00:45:35,510 --> 00:45:40,470
+going to inhibit the metabolism
+of rapamyl endotiazem.
+
+647
+00:45:40,470 --> 00:45:43,290
+And that would mean that
+you would probably get
+
+648
+00:45:43,290 --> 00:45:47,050
+higher levels and that would
+lead again to bradycardia.
+
+649
+00:45:49,610 --> 00:45:54,130
+So digoxin is a very
+interesting drug. I will
+
+650
+00:45:54,130 --> 00:45:58,650
+say that I will revisit
+this in CHF because
+
+651
+00:45:58,650 --> 00:46:02,650
+for years CHF was
+maintained with digoxin.
+
+652
+00:46:02,650 --> 00:46:06,230
+But there are several things
+that limit its use and
+
+653
+00:46:06,230 --> 00:46:09,830
+it was found to actually
+not help with the mortality.
+
+654
+00:46:09,930 --> 00:46:13,010
+So for CHF, you're going
+to see that it's ACE
+
+655
+00:46:13,010 --> 00:46:17,430
+inhibitors or ARBs and
+there might be beta
+
+656
+00:46:17,430 --> 00:46:22,150
+blockers also. But
+digoxin is really worth
+
+657
+00:46:22,150 --> 00:46:26,950
+knowing because there's
+a lot that can be tested
+
+658
+00:46:26,950 --> 00:46:29,930
+and there's a lot to
+know clinically here.
+
+659
+00:46:30,770 --> 00:46:33,970
+Digoxin has two mechanisms.
+
+660
+00:46:34,010 --> 00:46:35,370
+Number one,
+
+661
+00:46:35,570 --> 00:46:41,970
+for this lecture, it
+has a vagal effect.
+
+662
+00:46:42,790 --> 00:46:48,230
+It can induce
+parasympathetic mechanism.
+
+663
+00:46:48,390 --> 00:46:51,410
+So if you are inducing
+parasympathetic,
+
+664
+00:46:51,410 --> 00:46:54,050
+you're negative
+coronotropic. It's going to
+
+665
+00:46:54,050 --> 00:46:57,890
+lower heart rate and
+lower AV node action.
+
+666
+00:46:57,890 --> 00:47:00,630
+So digoxin does have a benefit
+
+667
+00:47:00,630 --> 00:47:03,910
+at reducing AV
+node suppression.
+
+668
+00:47:04,670 --> 00:47:10,270
+But digoxin, and this was
+important for those patients
+
+669
+00:47:10,270 --> 00:47:14,270
+that were using this for
+CHF, digoxin has positive
+
+670
+00:47:14,270 --> 00:47:18,770
+inotropic effects. And the
+reason being is that it
+
+671
+00:47:18,770 --> 00:47:24,010
+blocks an enzyme known as
+sodium-potassium ATPase.
+
+672
+00:47:25,510 --> 00:47:30,030
+And when that enzyme is
+blocked, as you can see,
+
+673
+00:47:30,030 --> 00:47:36,210
+you're not going to have
+this exchange of sodium and
+
+674
+00:47:36,210 --> 00:47:40,590
+potassium. and that by
+virtue will affect the sodium
+
+675
+00:47:40,590 --> 00:47:45,950
+-calcium exchanger to
+where sodium is now in the
+
+676
+00:47:45,950 --> 00:47:50,190
+cell, it's not being pumped
+out and now calcium has no
+
+677
+00:47:50,190 --> 00:47:52,830
+gradient so calcium is
+going to stay in the heart
+
+678
+00:47:53,290 --> 00:47:59,370
+and with that it's going
+to bind again and cause
+
+679
+00:47:59,370 --> 00:48:02,950
+the destroyer with actin
+and myosin and you're going
+
+680
+00:48:02,950 --> 00:48:05,830
+to get a positive
+inotropic effect And that
+
+681
+00:48:05,830 --> 00:48:08,910
+means you're increasing
+contractility. And that would
+
+682
+00:48:08,910 --> 00:48:12,970
+have been a benefit to
+those patients with CHF.
+
+683
+00:48:15,870 --> 00:48:19,630
+Digoxin is sometimes known
+as digitalis. It has a
+
+684
+00:48:19,630 --> 00:48:24,670
+long half-life. It has a
+narrow therapeutic index.
+
+685
+00:48:24,870 --> 00:48:28,630
+So just an extra tablet or two
+
+686
+00:48:28,630 --> 00:48:30,610
+can put your
+patient at toxicity.
+
+687
+00:48:31,970 --> 00:48:35,330
+Negative coronotropic.
+it reduces the heart
+
+688
+00:48:35,330 --> 00:48:40,470
+rate because it turns
+on parasympathetic tone.
+
+689
+00:48:41,630 --> 00:48:43,490
+Positive inotropic,
+
+690
+00:48:43,490 --> 00:48:46,830
+due to this mechanism, it
+improves contractility.
+
+691
+00:48:47,770 --> 00:48:51,930
+But one of the issues
+is that it does increase
+
+692
+00:48:51,930 --> 00:48:55,630
+after depolarizations.
+And I'll explain that
+
+693
+00:48:55,630 --> 00:48:58,690
+in a moment. And that
+was early in the lecture,
+
+694
+00:48:58,690 --> 00:49:02,530
+I talked about delayed
+after depolarizations.
+
+695
+00:49:02,840 --> 00:49:05,790
+This comes after phase four.
+
+696
+00:49:06,840 --> 00:49:08,900
+And that has to
+do with calcium.
+
+697
+00:49:12,510 --> 00:49:15,690
+Digitalis comes from
+a plant known as
+
+698
+00:49:15,690 --> 00:49:18,190
+foxglove. And it's
+right there. It
+
+699
+00:49:18,190 --> 00:49:20,790
+blooms in the spring.
+It's very pretty.
+
+700
+00:49:22,130 --> 00:49:25,390
+One thing to note
+about it, and I'll talk
+
+701
+00:49:25,390 --> 00:49:27,270
+about it now with the
+adverse effect, There's
+
+702
+00:49:27,270 --> 00:49:29,950
+this whole idea of
+xanthopsia. But anyway,
+
+703
+00:49:30,430 --> 00:49:33,530
+digoxin can cause problems with
+
+704
+00:49:33,530 --> 00:49:35,810
+the GI, nausea,
+vomiting, diarrhea.
+
+705
+00:49:35,810 --> 00:49:38,250
+Patients can experience
+a loss of appetite.
+
+706
+00:49:39,370 --> 00:49:42,030
+Ventricular arrhythmias,
+and that has to
+
+707
+00:49:42,030 --> 00:49:45,350
+do with the delayed
+after depolarization.
+
+708
+00:49:45,370 --> 00:49:49,790
+This happens especially when
+the patient has a change
+
+709
+00:49:49,790 --> 00:49:52,970
+in electrolytes. So back in
+the day when patients had
+
+710
+00:49:52,970 --> 00:49:58,070
+CHF, they were given
+digoxin, and most likely, if
+
+711
+00:49:58,070 --> 00:50:00,910
+they were at that point that
+they needed digoxin, they
+
+712
+00:50:00,910 --> 00:50:04,870
+were probably in the state
+where they had lots of edema.
+
+713
+00:50:04,870 --> 00:50:09,350
+and we use diuretics for
+the edema now but the
+
+714
+00:50:09,350 --> 00:50:15,830
+issue is that if you become
+hypokalemic because usually
+
+715
+00:50:15,830 --> 00:50:21,910
+with CHF we got to use something
+that is a high capacity
+
+716
+00:50:21,910 --> 00:50:24,030
+diuretic and that's going
+to be a loop because
+
+717
+00:50:24,030 --> 00:50:27,110
+remember loops get rid of
+lots of fluid but they also
+
+718
+00:50:27,110 --> 00:50:30,810
+carry out everything with
+it. Calcium, magnesium, and
+
+719
+00:50:30,810 --> 00:50:37,950
+potassium. What would happen
+is that the low potassium
+
+720
+00:50:38,270 --> 00:50:41,350
+would have an even
+greater effect on this
+
+721
+00:50:41,350 --> 00:50:45,110
+enzyme. And you would see
+that there would be almost
+
+722
+00:50:45,110 --> 00:50:48,250
+like a super surge of
+calcium in the cell.
+
+723
+00:50:48,710 --> 00:50:53,490
+And that would lead now
+to the person having
+
+724
+00:50:53,490 --> 00:50:57,350
+and after depolarization,
+after phase 4.
+
+725
+00:50:57,750 --> 00:51:02,930
+So the one thing to know
+is if the patient needs
+
+726
+00:51:02,930 --> 00:51:05,050
+to be put on digoxin
+and there'll still be
+
+727
+00:51:05,050 --> 00:51:07,930
+some cases that would
+need it, you have to make
+
+728
+00:51:07,930 --> 00:51:10,870
+sure that the patient's
+electrolytes are normal.
+
+729
+00:51:12,110 --> 00:51:16,450
+The other thing is the
+vision changes, where in
+
+730
+00:51:16,450 --> 00:51:21,770
+toxicity, patients can
+see yellow in their visual
+
+731
+00:51:21,770 --> 00:51:25,030
+field. They'll see an
+object and it'll appear
+
+732
+00:51:25,030 --> 00:51:29,170
+to be yellowish. That
+is known as xanthopsia.
+
+733
+00:51:29,480 --> 00:51:33,010
+And this effect
+seems to be due to
+
+734
+00:51:33,010 --> 00:51:38,250
+the fact that DIG
+can inhibit sodium
+
+735
+00:51:38,250 --> 00:51:41,870
+potassium ATPase in
+the retina cells.
+
+736
+00:51:42,550 --> 00:51:46,350
+This is sometimes
+known as the the
+
+737
+00:51:46,350 --> 00:51:51,130
+Van Gogh effect of
+digoxin toxicity.
+
+738
+00:51:51,330 --> 00:51:57,230
+And the way it's said
+that in some of Van Gogh's
+
+739
+00:51:57,230 --> 00:52:02,450
+paintings that were yellow,
+they say that he was using
+
+740
+00:52:03,150 --> 00:52:08,350
+digitalis for his seizures.
+And as a matter of fact,
+
+741
+00:52:08,350 --> 00:52:10,670
+in one of the paintings,
+there is a picture of the
+
+742
+00:52:10,670 --> 00:52:14,070
+foxglove pant. Whether
+that's true or not, I don't
+
+743
+00:52:14,070 --> 00:52:18,150
+know, but it did help me
+remember this toxicity when I
+
+744
+00:52:18,150 --> 00:52:22,970
+was in school and it may
+help with you all as well.
+
+745
+00:52:24,530 --> 00:52:28,610
+The Jackson has an
+estrogen backbone. So
+
+746
+00:52:28,610 --> 00:52:31,730
+there are some cases
+where patients can
+
+747
+00:52:31,730 --> 00:52:35,250
+experience gynecomastia.
+So that could translate
+
+748
+00:52:35,250 --> 00:52:38,510
+into enlarged chest
+or a change in libido.
+
+749
+00:52:38,770 --> 00:52:41,410
+Drug interaction is very big.
+
+750
+00:52:41,630 --> 00:52:46,210
+DIG is a weak acid. When
+you give an antacid,
+
+751
+00:52:46,610 --> 00:52:49,310
+what you're doing is
+you're creating a basic
+
+752
+00:52:49,310 --> 00:52:53,090
+environment. So this
+acetic drug will ionize.
+
+753
+00:52:53,690 --> 00:52:56,070
+Ionized means it
+doesn't get through
+
+754
+00:52:56,070 --> 00:52:58,910
+because you want
+everything non-ionized.
+
+755
+00:52:59,720 --> 00:53:02,710
+Cholesthyramine, they may
+be a decrease in absorption
+
+756
+00:53:02,710 --> 00:53:06,090
+because you're reducing
+enterohepatic circulation.
+
+757
+00:53:06,090 --> 00:53:11,090
+So in that case, the digoxin
+would not be absorbed.
+
+758
+00:53:11,090 --> 00:53:14,210
+So the way we would manage
+those two is just spacing
+
+759
+00:53:14,210 --> 00:53:18,450
+out the drug apart from
+each other by several hours.
+
+760
+00:53:19,150 --> 00:53:22,770
+Amiodarone may inhibit
+the metabolism of digoxin.
+
+761
+00:53:23,210 --> 00:53:28,080
+And then verapamil and
+quinidine affect the elimination
+
+762
+00:53:28,080 --> 00:53:31,210
+because in the
+kidney, they inhibit p
+
+763
+00:53:31,210 --> 00:53:36,870
+-glycoprotein. So digoxin may
+have a decreased clearance.
+
+764
+00:53:38,050 --> 00:53:41,470
+Renal impairment is
+important because back
+
+765
+00:53:41,470 --> 00:53:45,510
+again, when you're thinking
+about CHF patients,
+
+766
+00:53:45,510 --> 00:53:47,890
+they tend to be older.
+There's going to be some
+
+767
+00:53:47,890 --> 00:53:50,790
+degree of change in
+their renal function,
+
+768
+00:53:50,790 --> 00:53:55,830
+and that too can delay
+elimination of digoxin.
+
+769
+00:53:56,410 --> 00:54:01,730
+In an overdose, and the
+drug has not been in
+
+770
+00:54:01,730 --> 00:54:06,850
+circulation, you can bind it
+with DigFab, and that brand
+
+771
+00:54:06,850 --> 00:54:10,570
+name is Digibind. So what
+that does, in essence,
+
+772
+00:54:10,690 --> 00:54:15,980
+it captures the unabsorbed
+digoxin, so it can be
+
+773
+00:54:15,980 --> 00:54:20,250
+excreted. But if that drug
+has been absorbed in its
+
+774
+00:54:20,250 --> 00:54:22,690
+circulation, you need
+to start watching the
+
+775
+00:54:22,690 --> 00:54:26,670
+electrolytes. And the way
+we manage the toxicity is to
+
+776
+00:54:26,670 --> 00:54:29,790
+give magnesium. And magnesium
+is very interesting.
+
+777
+00:54:29,910 --> 00:54:36,550
+This ion will prevent calcium
+influx into the cells.
+
+778
+00:54:39,950 --> 00:54:44,830
+on an EKG digoxin will
+show an increase in PR
+
+779
+00:54:44,830 --> 00:54:47,430
+interval and that makes
+sense because that
+
+780
+00:54:47,430 --> 00:54:52,190
+corresponds to a reduced
+AV node and digoxin is
+
+781
+00:54:52,190 --> 00:54:55,370
+an AV node suppressant
+the other thing is that
+
+782
+00:54:55,370 --> 00:54:57,950
+there may be something
+called a hockey stick
+
+783
+00:54:57,950 --> 00:55:01,270
+configuration where
+there is an ST depression
+
+784
+00:55:01,570 --> 00:55:08,030
+ST happens in between QRS
+and the T wave. So you might
+
+785
+00:55:08,030 --> 00:55:10,990
+see that the patient may not
+have toxicity. That might
+
+786
+00:55:10,990 --> 00:55:14,370
+be just showing you that
+the patient is on digoxin.
+
+787
+00:55:16,570 --> 00:55:20,550
+Adenosine. It's a very
+exciting medication
+
+788
+00:55:20,550 --> 00:55:24,030
+because it gets injected.
+It works within seconds,
+
+789
+00:55:24,030 --> 00:55:28,810
+and it terminates a
+PSVT rather quickly.
+
+790
+00:55:30,070 --> 00:55:35,490
+what's its mechanism well
+it looks a little bit like
+
+791
+00:55:35,490 --> 00:55:39,770
+what we saw before because
+number one it has a g
+
+792
+00:55:39,810 --> 00:55:43,510
+inhibitory receptor
+mechanism just like what we
+
+793
+00:55:43,510 --> 00:55:49,630
+saw with acetylcholine where
+adenosine binds and it's
+
+794
+00:55:49,630 --> 00:55:53,170
+going to decrease
+adenocyclase and cyclic AMP
+
+795
+00:55:53,170 --> 00:55:58,490
+that's going to lower the
+impulse through the AV node
+
+796
+00:55:59,990 --> 00:56:04,630
+here, dromotropic, and
+it's going to decrease the
+
+797
+00:56:04,630 --> 00:56:08,490
+heart rate. So by giving
+that, the patient's arrhythmia
+
+798
+00:56:08,490 --> 00:56:10,830
+has been terminated,
+and that's a good thing.
+
+799
+00:56:11,230 --> 00:56:14,890
+However, there is a couple
+of adverse effects that will
+
+800
+00:56:14,890 --> 00:56:18,430
+happen. Number one, they'll
+get a termination of the
+
+801
+00:56:18,430 --> 00:56:22,400
+arrhythmia, but they're
+going to have a vasodilation
+
+802
+00:56:22,450 --> 00:56:25,130
+that happens. Their blood
+pressure is going to go down.
+
+803
+00:56:25,130 --> 00:56:28,290
+they may feel a little bit
+flushed. The reason being
+
+804
+00:56:28,290 --> 00:56:32,970
+is through this mechanism
+that involves G-stimulatory.
+
+805
+00:56:33,410 --> 00:56:36,370
+That will increase
+adenyl cyclase,
+
+806
+00:56:36,370 --> 00:56:39,190
+increasing cyclic AMP,
+and that's going to
+
+807
+00:56:39,490 --> 00:56:42,950
+relax the smooth muscle.
+So it makes sense that that
+
+808
+00:56:42,950 --> 00:56:47,770
+patient will experience that
+flushing and that lowering
+
+809
+00:56:47,770 --> 00:56:51,170
+of blood pressure. The
+other thing that happens is
+
+810
+00:56:51,170 --> 00:56:56,170
+through a GQ mechanism.
+Remember, Remember, GQ increases
+
+811
+00:56:56,170 --> 00:57:02,610
+IP3 and DAG, and it causes
+an increase in calcium in.
+
+812
+00:57:02,610 --> 00:57:03,970
+That's going to cause
+
+813
+00:57:03,970 --> 00:57:06,390
+bronchoconstriction.
+So oftentimes,
+
+814
+00:57:06,550 --> 00:57:09,330
+after adenosine is
+given, patients are
+
+815
+00:57:09,330 --> 00:57:12,630
+going to feel somewhat
+of a wheezing. And that
+
+816
+00:57:12,630 --> 00:57:14,570
+might be a little
+bit of an anxiety for
+
+817
+00:57:14,570 --> 00:57:17,550
+them, but that effect
+does not last long.
+
+818
+00:57:20,390 --> 00:57:25,290
+The way I remember
+adenosine is theophylline.
+
+819
+00:57:25,290 --> 00:57:29,130
+Theophylline you will study
+later in the semester.
+
+820
+00:57:29,150 --> 00:57:33,990
+Theophylline is a bronchodilator
+which is not widely
+
+821
+00:57:33,990 --> 00:57:41,050
+used because it does have
+certain effects that can
+
+822
+00:57:41,050 --> 00:57:43,770
+increase heart rate. And
+that's because they're
+
+823
+00:57:43,770 --> 00:57:50,490
+opposites. So with
+theophylline, okay, an adenosine
+
+824
+00:57:50,490 --> 00:57:55,390
+blocker, that drug is going
+to cause bronchodilation.
+
+825
+00:57:55,590 --> 00:57:57,890
+Okay, and that helps somebody
+
+826
+00:57:57,890 --> 00:58:00,850
+who has asthma or even COPD.
+
+827
+00:58:01,070 --> 00:58:04,110
+The thing about adenosine
+
+828
+00:58:04,110 --> 00:58:07,350
+block is that if you overdose,
+
+829
+00:58:07,410 --> 00:58:12,730
+on theophylline, that G
+-inhibitory effect of adenosine
+
+830
+00:58:12,730 --> 00:58:16,130
+now becomes G-stimulatory.
+So if you overdose
+
+831
+00:58:16,130 --> 00:58:18,530
+on theophylline, you're
+probably going to have a
+
+832
+00:58:18,530 --> 00:58:22,170
+cardiac arrhythmia. So hence,
+these two are opposites.
+
+833
+00:58:22,410 --> 00:58:25,550
+Theophylline is
+interesting because it
+
+834
+00:58:25,550 --> 00:58:29,730
+does come from theobromine,
+which is pretty
+
+835
+00:58:29,730 --> 00:58:32,150
+much the active
+ingredient of caffeine.
+
+836
+00:58:32,330 --> 00:58:36,470
+So it does make sense.
+You'll see later, too, when
+
+837
+00:58:36,470 --> 00:58:40,630
+patients take theophylline,
+they can get stimulated
+
+838
+00:58:40,630 --> 00:58:45,050
+because of that effect. When
+you drink lots of caffeine,
+
+839
+00:58:45,050 --> 00:58:48,610
+sometimes people can
+experience some palpitations,
+
+840
+00:58:48,670 --> 00:58:53,190
+and that is due to the fact
+of the adenosine block.
+
+841
+00:58:55,690 --> 00:58:57,830
+So just to summarize,
+
+842
+00:58:58,110 --> 00:58:59,910
+AB node suppressants,
+
+843
+00:59:00,610 --> 00:59:04,070
+diltiazim, rarapamil,
+not the diapines.
+
+844
+00:59:04,070 --> 00:59:08,350
+adenosine through its
+G-inhibitory mechanism,
+
+845
+00:59:08,690 --> 00:59:13,150
+digoxin because it has
+parasympathetic effects,
+
+846
+00:59:13,150 --> 00:59:17,310
+and then beta blockers
+because they're blocking
+
+847
+00:59:18,370 --> 00:59:21,470
+norepinephrine on the beta
+-1 receptors of the heart.
+
+848
+00:59:22,850 --> 00:59:25,030
+So magnesium.
+
+849
+00:59:25,650 --> 00:59:29,590
+This is an EKG of torsades.
+
+850
+00:59:30,250 --> 00:59:34,190
+magnesium can be given for
+this condition and it can
+
+851
+00:59:34,190 --> 00:59:39,170
+also be used for dig delayed
+after depolarizations why
+
+852
+00:59:39,170 --> 00:59:41,850
+because it's going to
+inhibit the influx of calcium
+
+853
+00:59:41,850 --> 00:59:45,470
+into the cytosol and the
+reason why you're having those
+
+854
+00:59:45,470 --> 00:59:49,030
+delayed after depolarizations
+is due to that increase
+
+855
+00:59:49,030 --> 00:59:52,170
+in calcium so the one thing
+we want is calcium out
+
+856
+00:59:53,860 --> 00:59:57,010
+and then just a little bit
+about potassium we talked
+
+857
+00:59:57,010 --> 01:00:03,150
+about the T waves on the
+EKG. But just to summarize,
+
+858
+01:00:04,230 --> 01:00:05,570
+hypokalemia.
+
+859
+01:00:06,870 --> 01:00:10,450
+When the person is
+hypokalemic, you're
+
+860
+01:00:10,450 --> 01:00:12,990
+going to slow
+repolarization. And
+
+861
+01:00:12,990 --> 01:00:16,170
+that is going to
+either translate into
+
+862
+01:00:16,950 --> 01:00:22,390
+after depolarization, after
+phase three, or delayed
+
+863
+01:00:22,740 --> 01:00:26,070
+after phase four. And the
+delayed has to do with
+
+864
+01:00:26,070 --> 01:00:29,470
+the fact that you're
+increasing calcium into the
+
+865
+01:00:29,470 --> 01:00:33,030
+cell. You're causing an
+increase in contractility.
+
+866
+01:00:33,290 --> 01:00:37,710
+Being hyperkalemic
+is a little bit
+
+867
+01:00:37,710 --> 01:00:41,470
+different where you're
+going to depress
+
+868
+01:00:41,930 --> 01:00:46,370
+the action in the SA
+and the AV node and
+
+869
+01:00:46,370 --> 01:00:48,270
+you're also going to
+decrease the action
+
+870
+01:00:48,270 --> 01:00:51,230
+potential duration. And
+you can see that here
+
+871
+01:00:51,230 --> 01:00:54,230
+at three. The line
+goes here to the left.
+
+872
+01:00:54,650 --> 01:01:00,630
+So being careful with
+potassium is very, very
+
+873
+01:01:00,630 --> 01:01:03,770
+important when we're talking
+about cardiology. And many
+
+874
+01:01:03,770 --> 01:01:06,230
+of these drugs do affect
+potassium. We said that
+
+875
+01:01:06,230 --> 01:01:11,450
+already. ACE inhibitors
+and ARBs and alloscirin and
+
+876
+01:01:11,710 --> 01:01:14,470
+spironolactone can
+cause hyperkalemia. And
+
+877
+01:01:14,470 --> 01:01:16,730
+the diuretics, which
+are widely used even
+
+878
+01:01:16,730 --> 01:01:20,350
+for, hypertension can
+cause hyperkalemia.
+
+879
+01:01:23,110 --> 01:01:27,650
+So again, just to summarize
+with digoxin, when you're
+
+880
+01:01:27,650 --> 01:01:32,490
+blocking the sodium ATPase
+and you're hypokalemic,
+
+881
+01:01:32,570 --> 01:01:37,590
+you're going to have a
+greater block of this enzyme,
+
+882
+01:01:37,590 --> 01:01:40,990
+which means that all of
+this sodium staying in is
+
+883
+01:01:40,990 --> 01:01:43,430
+going to shuttle in calcium
+with it and it's going to
+
+884
+01:01:43,430 --> 01:01:47,730
+cause a positive inotropic
+effect, increase in
+
+885
+01:01:47,730 --> 01:01:52,270
+contraction, and that will
+result, as you can see here,
+
+886
+01:01:52,570 --> 01:01:56,290
+in a delayed after
+depolarization.
+
+887
+01:01:59,950 --> 01:02:04,130
+Ivorbradine is considered
+to be an interesting
+
+888
+01:02:04,130 --> 01:02:08,590
+medication. just as the
+name says if you want a clue
+
+889
+01:02:08,590 --> 01:02:14,590
+on how to remember Ivor
+Braden's adverse effects
+
+890
+01:02:14,590 --> 01:02:21,350
+is going to be bradycardia
+as the name shows. This
+
+891
+01:02:21,350 --> 01:02:28,730
+medication is going to
+block a channel known as
+
+892
+01:02:28,730 --> 01:02:33,830
+the IF channels, or the
+funny current in the heart.
+
+893
+01:02:35,710 --> 01:02:42,090
+It will do most of its
+action in the SA node. So
+
+894
+01:02:42,090 --> 01:02:44,970
+it's going to work
+specifically in the pacemaker.
+
+895
+01:02:45,710 --> 01:02:50,210
+And I will say it's
+not affecting the
+
+896
+01:02:50,210 --> 01:02:53,330
+duration of the action
+potential. So it's
+
+897
+01:02:53,330 --> 01:02:57,020
+not having an effect
+on repolarization.
+
+898
+01:02:58,730 --> 01:03:02,070
+not having an effect
+on conduction.
+
+899
+01:03:04,190 --> 01:03:06,710
+We can use this medication
+
+900
+01:03:06,710 --> 01:03:09,210
+for congestive heart failure,
+
+901
+01:03:09,250 --> 01:03:13,170
+some cases of stable
+angina, and those
+
+902
+01:03:13,170 --> 01:03:15,030
+people who have arrhythmias and
+
+903
+01:03:15,030 --> 01:03:18,150
+can't be managed with
+the beta blocker.
+
+904
+01:03:19,510 --> 01:03:21,550
+Some of the adverse
+effects, as I
+
+905
+01:03:21,550 --> 01:03:23,610
+mentioned before,
+looking at the name,
+
+906
+01:03:23,610 --> 01:03:27,790
+it's going to cause bradycardia.
+It hasn't been studied
+
+907
+01:03:27,790 --> 01:03:32,430
+well in pregnancy, so that
+is a contraindication.
+
+908
+01:03:33,450 --> 01:03:35,430
+When you have a SIP inhibitor,
+
+909
+01:03:35,970 --> 01:03:39,310
+so again, grapefruit
+juice will raise the level
+
+910
+01:03:39,310 --> 01:03:43,530
+of iverbradine and
+cause more bradycardia.
+
+911
+01:03:43,590 --> 01:03:47,070
+And then the vision
+changes is worthy of
+
+912
+01:03:47,070 --> 01:03:50,910
+explaining. Since
+iverbradine blocks the funny
+
+913
+01:03:50,910 --> 01:03:58,910
+channels in the hearts
+pacemaker, in the retina,
+
+914
+01:03:58,910 --> 01:04:03,130
+there are channels
+that are known as IH.
+
+915
+01:04:03,930 --> 01:04:07,510
+And iverbradine blocks IH.
+
+916
+01:04:08,130 --> 01:04:14,390
+And this channel is responsible
+for filtering light.
+
+917
+01:04:14,630 --> 01:04:17,910
+So if you're blocking
+that, what tends to happen
+
+918
+01:04:17,910 --> 01:04:22,390
+is that patients can
+start to see bright spots
+
+919
+01:04:22,390 --> 01:04:26,030
+in their visual field.
+It's known as phosphine.
+
+920
+01:04:27,030 --> 01:04:29,410
+So again, that would
+be something that
+
+921
+01:04:29,410 --> 01:04:31,730
+the patient needs
+to be warned about.
+
+922
+01:04:31,990 --> 01:04:33,510
+So again,
+
+923
+01:04:33,670 --> 01:04:36,630
+specifically for
+the funny channels
+
+924
+01:04:36,630 --> 01:04:41,090
+in the pacemaker,
+not much is happening
+
+925
+01:04:41,090 --> 01:04:43,450
+with conduction
+or repolarization.
+
+926
+01:04:43,990 --> 01:04:45,790
+And that's really all I can
+
+927
+01:04:45,790 --> 01:04:47,210
+say about this medication.
+
+928
+01:04:48,650 --> 01:04:52,730
+Wolf Parkinson's
+white is considered
+
+929
+01:04:52,730 --> 01:04:59,590
+to be an arrhythmia
+that comes from
+
+930
+01:04:59,590 --> 01:05:02,310
+the formation of an
+accessory pathway.
+
+931
+01:05:02,310 --> 01:05:05,270
+And that is known
+as the bundle of
+
+932
+01:05:05,270 --> 01:05:13,810
+Kent. okay and here
+basically we want to
+
+933
+01:05:13,810 --> 01:05:16,190
+have to have some
+type of procedure
+
+934
+01:05:16,630 --> 01:05:20,570
+but one thing to
+note when we manage
+
+935
+01:05:20,570 --> 01:05:23,650
+this condition with medication
+
+936
+01:05:24,530 --> 01:05:28,090
+especially if they
+have AFib you don't
+
+937
+01:05:28,090 --> 01:05:30,830
+want to give an AV
+node suppressant
+
+938
+01:05:32,070 --> 01:05:36,350
+And the reason being is
+that the impulse, instead
+
+939
+01:05:36,350 --> 01:05:42,820
+of going to the AV node,
+if you're suppressing the
+
+940
+01:05:43,050 --> 01:05:47,690
+action here with an AV
+node suppressant, it's most
+
+941
+01:05:47,690 --> 01:05:50,890
+likely the impulse is going
+to go back to the bundle
+
+942
+01:05:50,890 --> 01:05:55,270
+of Kent. And there's no
+filtering capacity, and
+
+943
+01:05:55,270 --> 01:06:00,450
+that would mean that the
+patient's heart rate can
+
+944
+01:06:00,450 --> 01:06:03,370
+be anywhere between 200
+and 300 beats per minute.
+
+945
+01:06:03,930 --> 01:06:09,470
+So what can be used is
+procainamide, which inhibits
+
+946
+01:06:09,470 --> 01:06:14,010
+the initiation of the
+impulse, or amiodarone, which
+
+947
+01:06:14,010 --> 01:06:16,970
+will increase the refractory
+period. Those are the
+
+948
+01:06:16,970 --> 01:06:21,790
+two that you could use if
+you had a patient with Wolf
+
+949
+01:06:21,790 --> 01:06:25,130
+-Parkinson-White and AFib.
+Those are the two drugs.
+
+950
+01:06:25,330 --> 01:06:28,250
+And as you can see, in
+Wolf-Parkinson-White,
+
+951
+01:06:28,250 --> 01:06:30,350
+there's the appearance
+of delta waves.
+
+952
+01:06:33,690 --> 01:06:38,250
+So in summary, for
+sinus tachycardia, we
+
+953
+01:06:38,250 --> 01:06:44,000
+want to give a beta
+blocker or a calcium
+
+954
+01:06:44,130 --> 01:06:48,330
+channel blocker that is
+going to decrease phase
+
+955
+01:06:48,330 --> 01:06:53,290
+4, the slope of phase
+4, the slope there.
+
+956
+01:06:53,780 --> 01:06:56,750
+AFib, you can
+give any of these.
+
+957
+01:06:57,330 --> 01:06:59,050
+PSVT, adenosine,
+
+958
+01:06:59,430 --> 01:07:02,370
+AV block, you can
+give atropine.
+
+959
+01:07:04,310 --> 01:07:09,610
+VTAC, you can give 1,
+3, or 1B if the patient
+
+960
+01:07:09,610 --> 01:07:14,230
+had an ischemia. for
+torsades, magnesium mainly,
+
+961
+01:07:14,230 --> 01:07:17,100
+and then tricyclics, as I
+said, sodium bicarbonate.
+
+962
+01:07:17,100 --> 01:07:20,770
+I'm not going to test
+you this on the exam.
+
+963
+01:07:20,770 --> 01:07:25,050
+I'm going to ask you to
+be more familiar with the
+
+964
+01:07:25,050 --> 01:07:29,070
+main mechanisms and the
+main adverse effects.
+
+965
+01:07:29,070 --> 01:07:32,080
+So if I had to ask you
+something on amiodarone,
+
+966
+01:07:32,610 --> 01:07:35,650
+you probably know that I
+will ask something about
+
+967
+01:07:35,650 --> 01:07:39,330
+pulmonary fibrosis,
+changes in thyroid, etc.
+
+968
+01:07:40,830 --> 01:07:45,510
+So this is a review question
+from the lipid lecture.
+
+969
+01:07:45,710 --> 01:07:49,830
+So very quickly, we have
+a 65-year-old female
+
+970
+01:07:49,830 --> 01:07:55,690
+presenting to the clinic
+with chest pain on
+
+971
+01:07:55,690 --> 01:08:00,510
+exertion, and she has a
+history of type 2 diabetes
+
+972
+01:08:00,510 --> 01:08:05,420
+and smokes two packs of
+cigarettes per day. Her
+
+973
+01:08:05,420 --> 01:08:11,950
+pulse is 74 and blood
+pressure is 155 over 105.
+
+974
+01:08:12,990 --> 01:08:19,990
+And her LDL is 180
+and she's prescribed a
+
+975
+01:08:19,990 --> 01:08:22,990
+medication that inhibits
+the hepatic production
+
+976
+01:08:22,990 --> 01:08:27,670
+of circulating
+molecules implicated in
+
+977
+01:08:27,670 --> 01:08:30,530
+the pathogenesis of
+coronary artery disease.
+
+978
+01:08:31,230 --> 01:08:34,570
+the concomitant use of
+gemfibrazole with this
+
+979
+01:08:34,570 --> 01:08:38,070
+medication would increase
+the incidence of. So first
+
+980
+01:08:38,070 --> 01:08:43,270
+of all for LDL if we're
+looking at the mechanism
+
+981
+01:08:43,270 --> 01:08:46,510
+of the drug and the fact
+that it's working in
+
+982
+01:08:46,510 --> 01:08:49,550
+the liver to stop
+production of cholesterol my
+
+983
+01:08:49,550 --> 01:08:52,210
+best bet is she's probably
+given a statin drug.
+
+984
+01:08:54,070 --> 01:08:58,190
+And we also are saying if
+she's given gemfibrazole
+
+985
+01:08:58,190 --> 01:09:03,110
+and that's sometimes
+happens if the patient's
+
+986
+01:09:03,110 --> 01:09:07,570
+triglycerides are greater than
+500. Because in that case,
+
+987
+01:09:07,710 --> 01:09:11,850
+you'll be at a high risk
+of getting pancreatitis.
+
+988
+01:09:12,510 --> 01:09:19,970
+But on a normal given day,
+we tend not to want to give
+
+989
+01:09:19,970 --> 01:09:25,610
+fibrates with statins or
+even fibrates with niacin.
+
+990
+01:09:26,050 --> 01:09:29,610
+We try not to double
+up on these medications
+
+991
+01:09:29,610 --> 01:09:32,790
+unless we need to. And
+the reason being is
+
+992
+01:09:32,790 --> 01:09:35,370
+that the patient can
+have an adverse effect.
+
+993
+01:09:35,430 --> 01:09:38,990
+So what is the adverse
+effect? Well, is it
+
+994
+01:09:38,990 --> 01:09:42,370
+bradycardia? I'm going
+to say no. If anything,
+
+995
+01:09:42,370 --> 01:09:45,010
+I would be more concerned with
+
+996
+01:09:46,150 --> 01:09:49,190
+bradycardia
+happening with, say,
+
+997
+01:09:49,470 --> 01:09:53,030
+a beta blocker or
+verapamil diltiazem.
+
+998
+01:09:53,190 --> 01:09:56,750
+GI bleed, if anything,
+I would be more
+
+999
+01:09:56,750 --> 01:10:00,510
+concerned with maybe
+aspirin causing a GI bleed.
+
+1000
+01:10:01,110 --> 01:10:02,370
+Hyperkalemia,
+
+1001
+01:10:02,750 --> 01:10:07,210
+okay, so ACE inhibitors,
+ARBs, spironolactone.
+
+1002
+01:10:08,010 --> 01:10:12,310
+Metabolic alkalosis,
+that can result from
+
+1003
+01:10:12,530 --> 01:10:16,130
+diuretics, mainly the
+thiazides and the loops.
+
+1004
+01:10:17,430 --> 01:10:21,110
+Myoglobinuria, that could
+be the right answer because
+
+1005
+01:10:21,110 --> 01:10:24,910
+pancreatitis actually
+would be what we would want
+
+1006
+01:10:24,910 --> 01:10:29,570
+to prevent happening in those
+patients that have really
+
+1007
+01:10:29,570 --> 01:10:33,530
+high triglycerides level.
+So I'm going to say that
+
+1008
+01:10:33,530 --> 01:10:37,590
+E is the best answer. And
+the reason being is that
+
+1009
+01:10:37,590 --> 01:10:42,090
+if you give a fibrate with
+the statin or statin with
+
+1010
+01:10:42,090 --> 01:10:45,460
+niacin, you do run the risk
+that the patient can have
+
+1011
+01:10:45,460 --> 01:10:49,950
+an increase in myalgia.
+And if you get breakdown,
+
+1012
+01:10:49,950 --> 01:10:53,930
+of the muscle, the patient,
+aside from feeling the
+
+1013
+01:10:53,930 --> 01:10:58,490
+aches and pains, can have a
+high creatine kinase level.
+
+1014
+01:10:58,610 --> 01:11:02,490
+And they may also
+show urine that is
+
+1015
+01:11:02,490 --> 01:11:05,170
+tea colored. So I
+would say that the
+
+1016
+01:11:05,170 --> 01:11:07,930
+best answer is E
+for this question.
+
+1017
+01:11:08,950 --> 01:11:14,090
+Thank you for your
+attention. And I do have a
+
+1018
+01:11:14,090 --> 01:11:17,950
+question review. It may
+take a little longer for
+
+1019
+01:11:17,950 --> 01:11:21,950
+you, but I will say
+that the question review
+
+1020
+01:11:21,950 --> 01:11:25,950
+will help with reviewing
+some of these concepts,
+
+1021
+01:11:25,950 --> 01:11:28,610
+and I do say that they're
+very important. But
+
+1022
+01:11:28,610 --> 01:11:32,530
+until then, thank you,
+and have a great week.

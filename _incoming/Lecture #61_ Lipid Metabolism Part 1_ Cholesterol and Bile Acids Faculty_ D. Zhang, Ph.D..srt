@@ -1,0 +1,2602 @@
+1
+00:00:01,050 --> 00:00:03,890
+Hello, this is Dr. Dong-Zan.
+
+2
+00:00:03,990 --> 00:00:07,010
+In this lecture,
+we'll discuss the
+
+3
+00:00:07,010 --> 00:00:10,910
+metabolism of
+cholesterol and bio acid.
+
+4
+00:00:12,970 --> 00:00:16,050
+So this slide shows you all the
+
+5
+00:00:16,050 --> 00:00:18,630
+learning objectives
+about this lecture.
+
+6
+00:00:18,630 --> 00:00:21,790
+And basically, the first
+part of the lecture
+
+7
+00:00:21,790 --> 00:00:25,550
+focusing on the
+metabolism of cholesterol,
+
+8
+00:00:25,550 --> 00:00:27,430
+and the second part
+of the lecture,
+
+9
+00:00:27,430 --> 00:00:31,170
+we're focusing on the
+metabolism of bioacid.
+
+10
+00:00:32,070 --> 00:00:35,390
+First, we want to
+discuss briefly about the
+
+11
+00:00:35,390 --> 00:00:39,790
+structure and physiological
+function of cholesterols.
+
+12
+00:00:41,350 --> 00:00:43,730
+Cholesterol often
+get a bad rap.
+
+13
+00:00:43,950 --> 00:00:47,330
+We all know that too much
+cholesterol is not good.
+
+14
+00:00:47,810 --> 00:00:49,430
+But on the other hand,
+
+15
+00:00:50,150 --> 00:00:53,440
+the cholesterol, they
+do have important
+
+16
+00:00:53,690 --> 00:00:56,510
+physiological
+functions. For example,
+
+17
+00:00:57,030 --> 00:00:59,530
+they are a component of many
+
+18
+00:00:59,530 --> 00:01:01,090
+of the cellular membranes.
+
+19
+00:01:01,170 --> 00:01:05,070
+They can function
+to modulate the so
+
+20
+00:01:05,070 --> 00:01:08,790
+-called fluidity of the
+cellular membranes.
+
+21
+00:01:09,260 --> 00:01:10,450
+In addition,
+
+22
+00:01:11,330 --> 00:01:15,430
+the cholesterol is
+also a precursor for a
+
+23
+00:01:15,430 --> 00:01:18,230
+variety of important
+biomolecules, for example,
+
+24
+00:01:18,510 --> 00:01:19,690
+vitamin D,
+
+25
+00:01:20,090 --> 00:01:21,710
+sterile hormones,
+
+26
+00:01:22,150 --> 00:01:28,330
+or bioacid. And although
+many tissue organs
+
+27
+00:01:28,330 --> 00:01:31,250
+can synthesize
+cholesterols, but liver
+
+28
+00:01:31,250 --> 00:01:35,090
+is the most important
+organs that play a
+
+29
+00:01:35,090 --> 00:01:38,540
+critical role in the
+cholesterol homostasis.
+
+30
+00:01:40,490 --> 00:01:46,830
+The structure of cholesterol
+contains a so-called
+
+31
+00:01:46,830 --> 00:01:50,090
+sterile nucleus, right?
+For the steronucleus, it's
+
+32
+00:01:50,090 --> 00:01:55,250
+basically four big ring
+molecules linked together,
+
+33
+00:01:55,490 --> 00:01:57,910
+the ring names ABCD.
+
+34
+00:01:59,370 --> 00:02:02,630
+And also, as you can see here,
+
+35
+00:02:03,030 --> 00:02:07,610
+all the carbons for the
+steronucleus are numbered.
+
+36
+00:02:07,610 --> 00:02:10,070
+You certainly don't
+need to memorize all
+
+37
+00:02:10,070 --> 00:02:12,650
+the structure, but there's
+a couple of important
+
+38
+00:02:12,880 --> 00:02:17,030
+carbon positions
+that we'll refer to
+
+39
+00:02:18,930 --> 00:02:24,130
+the steroids right ol
+means it contains hydroxy
+
+40
+00:02:24,130 --> 00:02:28,010
+group so steroids are
+a subclass of steroids
+
+41
+00:02:28,420 --> 00:02:31,870
+that always contain
+a hydroxy group at
+
+42
+00:02:31,870 --> 00:02:34,250
+carbon three right
+here's the carbon three
+
+43
+00:02:34,490 --> 00:02:39,010
+and also aliphatic chains and
+
+44
+00:02:39,010 --> 00:02:42,150
+can link to the carbon 17s
+
+45
+00:02:43,850 --> 00:02:48,370
+also the hydroxy group
+at carbon 3 can be
+
+46
+00:02:48,370 --> 00:02:52,450
+easterfied right so
+the carboxyl as carboxy
+
+47
+00:02:53,130 --> 00:02:56,890
+containing molecule can
+attach to this hydroxy
+
+48
+00:02:56,890 --> 00:03:02,210
+group in addition for the
+cholesterol it also contain
+
+49
+00:03:02,210 --> 00:03:06,510
+a double bond between
+carbon-5 and carbon-6.
+
+50
+00:03:08,230 --> 00:03:11,270
+And a couple of
+additional nomenclature
+
+51
+00:03:11,270 --> 00:03:13,930
+related to steroids
+and the sterols.
+
+52
+00:03:14,350 --> 00:03:18,390
+You know, sometimes you
+see a Greek letter alpha,
+
+53
+00:03:18,390 --> 00:03:23,830
+that usually indicating
+a group that is below the
+
+54
+00:03:23,830 --> 00:03:28,210
+plane of the rings, right?
+And also, you know, in
+
+55
+00:03:28,210 --> 00:03:31,750
+the structure, they also
+indicated as dashed lines.
+
+56
+00:03:32,250 --> 00:03:34,610
+Another great letter beta
+
+57
+00:03:35,210 --> 00:03:37,610
+often indicating
+that a particular
+
+58
+00:03:37,610 --> 00:03:40,010
+group is above the planes.
+
+59
+00:03:40,490 --> 00:03:43,410
+And the beta conformation
+
+60
+00:03:43,690 --> 00:03:47,110
+in the structure usually
+indicated by solid lines.
+
+61
+00:03:47,110 --> 00:03:51,190
+And for the Greek letter
+dirta, that is indicating
+
+62
+00:03:51,590 --> 00:03:56,170
+molecule contain double
+bonds and the position
+
+63
+00:03:56,170 --> 00:03:59,590
+of the double bond
+indicating by numbers.
+
+64
+00:03:59,950 --> 00:04:01,030
+For example,
+
+65
+00:04:01,570 --> 00:04:03,310
+again, for the cholesterols,
+
+66
+00:04:03,870 --> 00:04:07,490
+it has a double bond between
+carbon-6 and carbon-5.
+
+67
+00:04:09,710 --> 00:04:13,150
+So the first major
+function of cholesterol
+
+68
+00:04:13,150 --> 00:04:16,590
+is the key component
+for the membrane, right
+
+69
+00:04:16,590 --> 00:04:22,010
+regulating the membrane
+and fluidity as you
+
+70
+00:04:22,010 --> 00:04:26,110
+probably already know
+the major component of
+
+71
+00:04:26,770 --> 00:04:33,210
+various membrane are
+phospholipids right phospholipid
+
+72
+00:04:33,210 --> 00:04:38,370
+is an amphipathic molecule
+as a polar side which
+
+73
+00:04:38,370 --> 00:04:41,850
+is because the phosphate group
+and also has a hydrophobic
+
+74
+00:04:41,850 --> 00:04:47,360
+side has the uh long
+you know uh hydrophobic
+
+75
+00:04:47,670 --> 00:04:52,870
+tails and as indicating
+this diagram right you know
+
+76
+00:04:52,870 --> 00:04:57,890
+large majority of the
+membrane uh phospholipid the
+
+77
+00:04:57,890 --> 00:05:01,270
+polar side facing the water
+and the hydrophobic side
+
+78
+00:05:01,270 --> 00:05:05,630
+facing internally and you
+can uh sporadically find
+
+79
+00:05:05,630 --> 00:05:09,110
+cholesterol molecules right
+it's a hydroxy group again
+
+80
+00:05:09,110 --> 00:05:14,130
+facing the aqueous side and
+the hydrophobic ring part
+
+81
+00:05:14,130 --> 00:05:17,810
+of the cholesterol get
+buried in the hydrophobic
+
+82
+00:05:17,810 --> 00:05:25,310
+lipid biolayer and the
+membrane structure is not
+
+83
+00:05:25,310 --> 00:05:29,190
+stationary there's actually
+certain molecules that buried
+
+84
+00:05:29,190 --> 00:05:32,870
+within the membrane actually
+can move around so So
+
+85
+00:05:32,870 --> 00:05:37,670
+therefore, cholesterol
+plays a key part in terms of
+
+86
+00:05:37,670 --> 00:05:42,070
+regulating the fluidity
+of various cell membranes.
+
+87
+00:05:43,610 --> 00:05:48,570
+Again, the second major
+function of cholesterol is a
+
+88
+00:05:50,110 --> 00:05:53,290
+precursor for a variety of
+biomolecules. For example,
+
+89
+00:05:53,850 --> 00:05:57,850
+vitamin D, its structure
+is shown here, from
+
+90
+00:05:57,850 --> 00:06:01,370
+the bottom part of
+the vitamin B, D, you
+
+91
+00:06:01,370 --> 00:06:04,350
+can make out, you know,
+that looks like the
+
+92
+00:06:04,350 --> 00:06:06,670
+rain structure of
+cholesterol, right? Indeed,
+
+93
+00:06:06,730 --> 00:06:09,610
+that this part of the
+molecule of vitamin D
+
+94
+00:06:09,610 --> 00:06:15,630
+is come from the
+sternucleus, right? As you
+
+95
+00:06:15,630 --> 00:06:18,310
+probably know, that
+vitamin D play a critical
+
+96
+00:06:18,310 --> 00:06:21,570
+role for the calcium
+metabolism, and we'll
+
+97
+00:06:21,570 --> 00:06:24,470
+go into more detail in
+the vitamin lectures.
+
+98
+00:06:25,030 --> 00:06:26,490
+So either way,
+
+99
+00:06:26,710 --> 00:06:30,770
+vitamin D can, you know,
+we can synthesize vitamin D
+
+100
+00:06:30,770 --> 00:06:35,770
+in the skin. When the skin
+is exposed to UV lights, it
+
+101
+00:06:35,770 --> 00:06:40,330
+can convert the cholesterols
+into vitamin D molecules.
+
+102
+00:06:41,370 --> 00:06:46,070
+And cholesterol is also
+an important precursor for
+
+103
+00:06:46,210 --> 00:06:50,030
+quite a few sterile
+hormones, right, for example,
+
+104
+00:06:50,490 --> 00:06:53,070
+progesterone, testosterone,
+
+105
+00:06:53,590 --> 00:06:55,270
+estradiol, or estrogen,
+
+106
+00:06:55,690 --> 00:06:58,350
+or cortisones, right. You
+can look at these structures,
+
+107
+00:06:58,630 --> 00:07:01,950
+you know, they're quite
+similar, I'll remind you
+
+108
+00:07:01,950 --> 00:07:06,370
+of the sterile nucleus,
+right, that come from the
+
+109
+00:07:06,370 --> 00:07:09,730
+cholesterol, again, you
+know, these different sterile
+
+110
+00:07:09,730 --> 00:07:13,750
+hormones utilize cholesterol
+and utilizing a different
+
+111
+00:07:13,750 --> 00:07:17,970
+enzyme, a variety of pathway
+way to synthesize them.
+
+112
+00:07:19,350 --> 00:07:23,890
+And this slide summarizes
+a few genetic diseases
+
+113
+00:07:23,890 --> 00:07:27,570
+that are related to the
+sterile hormone biosynthesis.
+
+114
+00:07:27,710 --> 00:07:30,910
+And when you encounter
+these different diseases
+
+115
+00:07:30,910 --> 00:07:35,870
+in different subjects
+of your curriculum,
+
+116
+00:07:35,870 --> 00:07:39,870
+and you can always come
+back and review how these
+
+117
+00:07:39,870 --> 00:07:43,590
+different hormones are
+synthesized from cholesterols
+
+118
+00:07:45,560 --> 00:07:50,570
+and finally cholesterol is
+also the precursor for bile
+
+119
+00:07:50,570 --> 00:07:54,150
+acid you'll see in the
+latter part of this lecture
+
+120
+00:07:55,450 --> 00:07:59,910
+again you know if you look
+at the primary bile acid
+
+121
+00:07:59,910 --> 00:08:05,690
+colic acid and kinocolic
+acid right has the they all
+
+122
+00:08:05,690 --> 00:08:10,050
+have this foreign structures
+and they synthesize from
+
+123
+00:08:10,050 --> 00:08:15,570
+cholesterols and one of the
+key enzyme seven hydroxyl
+
+124
+00:08:15,570 --> 00:08:19,850
+is catalyzed the re-limiting
+step of bio acid again
+
+125
+00:08:19,850 --> 00:08:24,630
+we'll come back to this
+later plants usually don't
+
+126
+00:08:24,630 --> 00:08:28,710
+have a whole lot of
+cholesterol right but they do
+
+127
+00:08:28,710 --> 00:08:32,850
+have you got a similar molecules
+similar to the steroids
+
+128
+00:08:32,850 --> 00:08:39,730
+including stigma sterile
+cytosterol or cytostanol
+
+129
+00:08:41,990 --> 00:08:45,350
+plant steroids or
+these molecules usually
+
+130
+00:08:45,350 --> 00:08:47,570
+they don't get absorbed
+very efficiently
+
+131
+00:08:47,610 --> 00:08:52,290
+by our digestive system
+so after the uh you
+
+132
+00:08:52,290 --> 00:08:55,050
+know getting to the
+digestive system entering
+
+133
+00:08:55,450 --> 00:09:01,110
+the enterocytes enter is
+the prefix for intestine
+
+134
+00:09:01,110 --> 00:09:05,170
+and they actually get
+actively transported
+
+135
+00:09:05,170 --> 00:09:09,690
+back into the intestine
+lumens and in the
+
+136
+00:09:09,690 --> 00:09:12,510
+process they actually bring
+some of the cholesterol
+
+137
+00:09:12,510 --> 00:09:15,250
+with them right so
+therefore the plant
+
+138
+00:09:15,250 --> 00:09:18,830
+steroids in the diet you
+know can help to reduce
+
+139
+00:09:19,190 --> 00:09:23,730
+the absorption of the
+cholesterols that in our diet.
+
+140
+00:09:25,330 --> 00:09:27,650
+And this slide shows the, you
+
+141
+00:09:27,650 --> 00:09:30,270
+know, structures
+for Cetosterol,
+
+142
+00:09:31,110 --> 00:09:35,330
+for Stigma Sterol, and for
+
+143
+00:09:35,330 --> 00:09:37,450
+Cetostanos. As you can see,
+
+144
+00:09:37,570 --> 00:09:40,190
+their absorption rate
+is all in the single
+
+145
+00:09:40,190 --> 00:09:43,310
+digit. And in comparison,
+reducing the absorption
+
+146
+00:09:43,310 --> 00:09:48,980
+rate for cholesterols
+can go as high as 33%.
+
+147
+00:09:52,010 --> 00:09:55,290
+In general, for a
+healthy individual,
+
+148
+00:09:56,010 --> 00:09:58,110
+the amount of cholesterol in
+
+149
+00:09:58,110 --> 00:10:01,990
+our body is often in a balance.
+
+150
+00:10:02,050 --> 00:10:05,950
+So you can have
+cholesterol come from your
+
+151
+00:10:05,950 --> 00:10:08,810
+diet, it comes from
+the de novo synthesis
+
+152
+00:10:08,810 --> 00:10:11,810
+in the liver, and
+also can, you know,
+
+153
+00:10:11,930 --> 00:10:13,490
+the cholesterol
+can be picked up
+
+154
+00:10:13,490 --> 00:10:16,710
+from the actual hepatic tissues
+
+155
+00:10:17,090 --> 00:10:21,070
+and through the HDL or
+high-density lipoprotein
+
+156
+00:10:21,070 --> 00:10:24,410
+and transport them
+back into the liver.
+
+157
+00:10:24,910 --> 00:10:28,030
+And, you know, for the
+cholesterols that are produced
+
+158
+00:10:28,030 --> 00:10:32,770
+in the liver, right, it can
+get secreted or transported
+
+159
+00:10:32,770 --> 00:10:35,750
+to different tissue organs
+through the very low
+
+160
+00:10:35,750 --> 00:10:40,070
+-density lipoprotein, the free
+cholesterol can be secreted
+
+161
+00:10:40,070 --> 00:10:45,910
+into the bile as part of
+the bile it can also be used
+
+162
+00:10:45,910 --> 00:10:49,470
+to synthesize the bile salt
+as again you will see later
+
+163
+00:10:49,470 --> 00:10:54,810
+on so for a typical Western
+diet it usually contains
+
+164
+00:10:54,810 --> 00:10:57,570
+you know four hundred to
+six hundred milligrams
+
+165
+00:10:57,790 --> 00:11:04,190
+cholesterol per day about half
+of us get absorbed and this
+
+166
+00:11:04,190 --> 00:11:09,530
+This absorption is mediated
+by a protein called Neiman
+
+167
+00:11:09,530 --> 00:11:18,570
+-PKC1-like-1 protein, in
+short for MPC1L1. And this is
+
+168
+00:11:18,570 --> 00:11:24,010
+actually the target for a
+cholesterol-reducing drug,
+
+169
+00:11:24,570 --> 00:11:25,430
+azetima.
+
+170
+00:11:27,410 --> 00:11:31,970
+And about 800 milligrams
+per day of cholesterol,
+
+171
+00:11:31,990 --> 00:11:35,100
+you know, we can
+synthesize it by ourself.
+
+172
+00:11:35,330 --> 00:11:40,470
+And this production is
+balanced by the excretion
+
+173
+00:11:40,470 --> 00:11:43,310
+of bioacid. Again,
+you know, a lot of the
+
+174
+00:11:43,310 --> 00:11:46,210
+cholesterol can be used
+for the bioacid synthesis.
+
+175
+00:11:48,550 --> 00:11:53,070
+And as you can see the,
+you know, the influx and
+
+176
+00:11:53,070 --> 00:11:55,890
+outflux of the cholesterol,
+you can figure out a way,
+
+177
+00:11:55,890 --> 00:11:59,030
+you know, if you need to
+control the cholesterol level,
+
+178
+00:11:59,030 --> 00:12:01,410
+right, there's a couple
+strategies you can decrease
+
+179
+00:12:01,410 --> 00:12:04,290
+the cholesterol level in
+the body. For example,
+
+180
+00:12:04,290 --> 00:12:08,170
+you know, by reducing the
+cholesterol in your diet,
+
+181
+00:12:08,170 --> 00:12:13,390
+or decrease the cholesterol
+biosynthesis from our own
+
+182
+00:12:13,390 --> 00:12:18,150
+body or increase the
+excretion of bio acid you know
+
+183
+00:12:18,150 --> 00:12:21,410
+all these different strategies
+can help you achieve
+
+184
+00:12:21,410 --> 00:12:26,830
+the goal of reducing the
+cholesterol in the blood
+
+185
+00:12:28,010 --> 00:12:33,070
+all right now we uh going
+to discuss uh some uh
+
+186
+00:12:33,070 --> 00:12:36,970
+aspect of the biosynthesis
+of cholesterol right and
+
+187
+00:12:36,970 --> 00:12:40,190
+you'll see this slides
+before when we study uh
+
+188
+00:12:40,190 --> 00:12:43,250
+different metabolic pathways
+right this is basically
+
+189
+00:12:43,250 --> 00:12:46,710
+guide you how to study any
+metabolic pathways right
+
+190
+00:12:46,710 --> 00:12:48,790
+so you need to know
+what's the purpose what's
+
+191
+00:12:48,790 --> 00:12:51,770
+the importance of the
+pathway and what are the
+
+192
+00:12:51,770 --> 00:12:57,400
+committed or re-limiting or
+e-revolve reactions or steps
+
+193
+00:12:57,400 --> 00:13:00,930
+and the enzyme involved
+in those steps because
+
+194
+00:13:01,190 --> 00:13:04,050
+these are the steps
+often highly regulated
+
+195
+00:13:04,050 --> 00:13:07,290
+right you know that's
+the regulation of the
+
+196
+00:13:07,290 --> 00:13:10,030
+different metabolic
+pathway and obviously any
+
+197
+00:13:10,030 --> 00:13:12,490
+clinical correlation
+that you need to know
+
+198
+00:13:14,270 --> 00:13:18,650
+so most tissue and organs
+they can actually synthesize
+
+199
+00:13:18,650 --> 00:13:21,950
+you know certain amount
+of cholesterols but again
+
+200
+00:13:21,950 --> 00:13:25,890
+liver is the major organ
+that synthesize cholesterols
+
+201
+00:13:27,210 --> 00:13:31,410
+And similar to other
+metabolic pathway, the
+
+202
+00:13:31,410 --> 00:13:34,870
+metabolism of cholesterol
+is also highly regulated.
+
+203
+00:13:35,730 --> 00:13:38,770
+And, you know, the
+biosynthesis of cholesterol
+
+204
+00:13:38,770 --> 00:13:42,570
+can be divided into
+a couple of stages.
+
+205
+00:13:43,690 --> 00:13:46,250
+We're focusing on stage one.
+
+206
+00:13:46,550 --> 00:13:49,950
+In stage one, it
+synthesizes a very
+
+207
+00:13:49,950 --> 00:13:52,330
+important precursor
+for cholesterol.
+
+208
+00:13:52,330 --> 00:13:54,610
+It's called mevalonate.
+
+209
+00:13:55,560 --> 00:13:58,630
+Basically, all the
+carbons in the cholesterol
+
+210
+00:13:58,630 --> 00:14:03,590
+molecule come from acetyl
+-CoA, which you saw before.
+
+211
+00:14:04,250 --> 00:14:06,650
+And cholesterol biosynthesis is
+
+212
+00:14:06,650 --> 00:14:09,510
+mainly taking place
+in the psiloplasm.
+
+213
+00:14:09,770 --> 00:14:11,590
+As you recall,
+
+214
+00:14:12,010 --> 00:14:16,010
+mitochondria is the
+major organelles that
+
+215
+00:14:16,030 --> 00:14:20,330
+converting a lot of carbon
+molecules to acetyl-CoA.
+
+216
+00:14:20,330 --> 00:14:23,890
+So, therefore, it
+takes advantage of the
+
+217
+00:14:23,890 --> 00:14:27,050
+citratransport system
+to transport excess
+
+218
+00:14:27,050 --> 00:14:31,690
+acetylcholine from mitochondria
+into the psiloplasm
+
+219
+00:14:31,690 --> 00:14:36,270
+for cholesterol and
+other lipid biosynthesis.
+
+220
+00:14:39,450 --> 00:14:45,270
+So, for stage one, the
+first step is combine
+
+221
+00:14:45,270 --> 00:14:50,910
+two acetyl-CoA
+molecules into acetyl
+
+222
+00:14:50,910 --> 00:14:54,630
+-acetyl-CoA. And this
+step, or this reaction,
+
+223
+00:14:54,630 --> 00:14:57,750
+is catalyzed by the
+enzyme called thiolase.
+
+224
+00:14:59,770 --> 00:15:03,350
+Movalinate is a 6-carbon
+intermediate, right,
+
+225
+00:15:03,670 --> 00:15:06,190
+for the, within the
+acetyl-CoA, only
+
+226
+00:15:06,190 --> 00:15:09,310
+2-carbons get
+transferred at a time.
+
+227
+00:15:09,530 --> 00:15:12,790
+So combined 2
+-acetyl-CoA producing
+
+228
+00:15:12,790 --> 00:15:16,990
+4-carbon acetyl
+-acetyl-CoA, right,
+
+229
+00:15:17,270 --> 00:15:23,470
+and in the second step,
+salicylic HMG-CoA synthase
+
+230
+00:15:23,470 --> 00:15:27,450
+basically combines one
+molecule of acetoacetyl
+
+231
+00:15:27,450 --> 00:15:31,270
+-CoA with another molecule
+of acetyl-CoA and
+
+232
+00:15:31,270 --> 00:15:35,410
+producing this molecule
+called beta-hydroxyOH,
+
+233
+00:15:36,430 --> 00:15:40,570
+beta-methyl-gluryl
+-CoA, right in short
+
+234
+00:15:40,570 --> 00:15:44,730
+for HMG-CoA right
+again this reaction
+
+235
+00:15:44,730 --> 00:15:49,950
+is catalyzed by the
+HMG-CoA synthase
+
+236
+00:15:50,130 --> 00:15:55,910
+and in order to produce
+imabalinate HMG-CoA need to
+
+237
+00:15:55,910 --> 00:16:00,930
+be reduced by the enzyme
+called HMG-CoA reductase
+
+238
+00:16:00,930 --> 00:16:06,010
+right so HMG-CoA reductase
+actually catalyze the re
+
+239
+00:16:06,010 --> 00:16:10,250
+-limiting step for cholesterol
+biosynthesis. Therefore,
+
+240
+00:16:10,250 --> 00:16:15,590
+this is the case step for
+cholesterol regulations.
+
+241
+00:16:17,510 --> 00:16:22,490
+In addition, because there's
+a reduction reaction,
+
+242
+00:16:22,590 --> 00:16:26,510
+you need two molecules of
+NADPH. Again, don't confuse
+
+243
+00:16:26,510 --> 00:16:32,490
+NADPH with NADH, right? NADH
+is the electron equivalent
+
+244
+00:16:32,490 --> 00:16:36,770
+or also called electron
+carriers. But for NADPH,
+
+245
+00:16:37,270 --> 00:16:40,890
+it usually involves the
+reduction reactions.
+
+246
+00:16:41,830 --> 00:16:45,310
+Most of the reaction taking
+place at the ER membrane.
+
+247
+00:16:45,530 --> 00:16:46,470
+Again,
+
+248
+00:16:47,290 --> 00:16:51,450
+the conversion, the
+step catalyzed by HMG
+
+249
+00:16:51,450 --> 00:16:55,070
+-CoA reductase is
+irreversible reaction.
+
+250
+00:16:56,200 --> 00:16:59,870
+And this slide can
+list the rest of the
+
+251
+00:16:59,870 --> 00:17:02,770
+stages of cholesterol
+biosynthesis you know
+
+252
+00:17:02,770 --> 00:17:05,010
+just so that you'll
+be aware of them
+
+253
+00:17:05,010 --> 00:17:07,770
+you really don't need
+to memorize all this
+
+254
+00:17:10,370 --> 00:17:13,890
+as I mentioned before
+right cholesterol has a
+
+255
+00:17:13,890 --> 00:17:17,670
+continuing hydroxy group
+and this hydroxy group can
+
+256
+00:17:17,670 --> 00:17:21,970
+be easterfized right
+and this easterization
+
+257
+00:17:21,970 --> 00:17:26,350
+reaction is catalyzed by
+the enzyme called acyl-CoA
+
+258
+00:17:26,350 --> 00:17:31,110
+cholesterol acyltransferase,
+in short for ACAT.
+
+259
+00:17:32,370 --> 00:17:34,290
+After esterization,
+
+260
+00:17:34,470 --> 00:17:36,690
+the cholesterol can be kind of
+
+261
+00:17:36,690 --> 00:17:40,510
+maintained or retained
+inside the cells.
+
+262
+00:17:40,810 --> 00:17:44,110
+And in addition, cholesterol
+can be secreted out as
+
+263
+00:17:44,110 --> 00:17:47,530
+part of the lipoprotein,
+and we'll talk about it more
+
+264
+00:17:47,530 --> 00:17:53,650
+about it in the lipoprotein
+lectures. And finally,
+
+265
+00:17:53,650 --> 00:17:56,990
+cholesterol can be converted
+to cholesterol easter
+
+266
+00:17:56,990 --> 00:18:05,010
+by transferring acyl group
+from phospholipid by an
+
+267
+00:18:05,010 --> 00:18:09,530
+enzyme called lechesine
+cholesterol acyltransferase
+
+268
+00:18:09,530 --> 00:18:15,710
+or LCAT in high-density
+lipoprotein. Again, we'll come
+
+269
+00:18:15,710 --> 00:18:20,050
+back to this process in
+the lipoprotein lectures.
+
+270
+00:18:21,510 --> 00:18:25,610
+This is just to remind you
+what lechocin looks like,
+
+271
+00:18:25,610 --> 00:18:31,150
+right, it has a phosphopolar
+head, has a glycerol
+
+272
+00:18:31,150 --> 00:18:37,310
+scaffold, it has two free
+fatty acid hydrophobic tails.
+
+273
+00:18:38,300 --> 00:18:41,530
+All right, so let's next
+discuss a little bit
+
+274
+00:18:41,530 --> 00:18:44,250
+about the regulation of
+cholesterol biosynthesis.
+
+275
+00:18:44,430 --> 00:18:48,090
+And turn out that the
+regulation is relatively
+
+276
+00:18:48,090 --> 00:18:51,260
+complicated, right? There
+are multiple mechanisms
+
+277
+00:18:51,260 --> 00:18:54,550
+that the cholesterol
+biosynthesis can be regulated.
+
+278
+00:18:54,550 --> 00:18:56,770
+The first one is through
+the transcription.
+
+279
+00:18:56,810 --> 00:18:57,930
+Obviously,
+
+280
+00:18:58,050 --> 00:19:01,330
+if you could make more
+proteins or more enzymes
+
+281
+00:19:01,330 --> 00:19:03,630
+involved in the
+cholesterol biosynthesis,
+
+282
+00:19:03,970 --> 00:19:07,130
+you can speed up or accelerate
+
+283
+00:19:07,130 --> 00:19:08,930
+the cholesterol biosynthesis.
+
+284
+00:19:09,650 --> 00:19:14,670
+Because HMG-CoA reductase
+catalyze the re-limiting
+
+285
+00:19:14,670 --> 00:19:19,890
+step, so by regulating the
+amount of HMG-CoA reductase
+
+286
+00:19:19,890 --> 00:19:23,870
+and you can regulate pretty
+efficiently the cholesterol
+
+287
+00:19:23,870 --> 00:19:27,020
+biosynthesis right so
+the regulation of the
+
+288
+00:19:27,020 --> 00:19:30,080
+transcription turned out to
+be a little bit complicated uh
+
+289
+00:19:30,370 --> 00:19:34,750
+and first there's this
+protein called steroregulatory
+
+290
+00:19:34,750 --> 00:19:41,290
+element binding protein and
+you're short for srebp and
+
+291
+00:19:41,290 --> 00:19:46,250
+this is protein actually
+binds this element or certain
+
+292
+00:19:46,250 --> 00:19:51,730
+DNA sequence called SRE.
+SRE stands for steroid
+
+293
+00:19:51,730 --> 00:19:59,270
+response element. So when
+SREBP binds to the SRE, it
+
+294
+00:19:59,270 --> 00:20:04,310
+can activate the transcription
+of HMG chloe reductase.
+
+295
+00:20:05,010 --> 00:20:11,230
+The binding of SREBP
+to the SRE is highly
+
+296
+00:20:11,230 --> 00:20:18,850
+regulated um so turn out
+the srebp uh it commonly
+
+297
+00:20:18,850 --> 00:20:23,350
+resides at the er membrane
+right so in the er
+
+298
+00:20:23,350 --> 00:20:28,270
+actually binds another
+protein called scp stands
+
+299
+00:20:28,270 --> 00:20:34,470
+for srebp cleavage
+activating protein right
+
+300
+00:20:34,840 --> 00:20:38,710
+so when the cholesterol
+level is high and
+
+301
+00:20:38,830 --> 00:20:42,470
+cholesterol actually
+combines to the scp
+
+302
+00:20:43,040 --> 00:20:47,350
+which basically traps
+the srebp inside
+
+303
+00:20:47,350 --> 00:20:50,190
+the er right
+preventing it to go to
+
+304
+00:20:50,710 --> 00:20:53,770
+going back going to the
+nucleus and activating
+
+305
+00:20:53,770 --> 00:20:57,250
+transcription but on
+the other hand when the
+
+306
+00:20:57,250 --> 00:21:03,710
+cholesterol level is
+low the scep and srebp
+
+307
+00:21:03,710 --> 00:21:09,870
+complex get transported
+to golgi right in golgi
+
+308
+00:21:09,980 --> 00:21:16,210
+the scep protein can activate
+a certain protease right
+
+309
+00:21:16,210 --> 00:21:21,570
+the function of protease is
+to cleave proteins in this
+
+310
+00:21:21,570 --> 00:21:28,870
+case these protease cleave
+the srebp release it and
+
+311
+00:21:28,870 --> 00:21:32,690
+release the active dna
+binding domain which then
+
+312
+00:21:32,690 --> 00:21:38,090
+translocate to the nucleus and
+bind to the sre and activate
+
+313
+00:21:38,090 --> 00:21:42,050
+the transcription of genes
+involving the cholesterol
+
+314
+00:21:42,050 --> 00:21:48,410
+biosynthesis again including
+the HMGA-CoA reductase.
+
+315
+00:21:50,030 --> 00:21:54,050
+And the second mechanism
+of regulating cholesterol
+
+316
+00:21:54,050 --> 00:21:58,890
+biosynthesis is through
+degradation of either the
+
+317
+00:21:58,890 --> 00:22:02,090
+messenger RNA, right?
+If you, you know, reduce
+
+318
+00:22:02,090 --> 00:22:04,570
+the messenger RNA, you
+reduce the translation,
+
+319
+00:22:04,570 --> 00:22:08,930
+therefore you reduce the
+amount of HMG-CoA reductase.
+
+320
+00:22:09,590 --> 00:22:11,310
+In addition,
+
+321
+00:22:11,930 --> 00:22:17,030
+the protein of HMG-CoA
+reductase itself can also be
+
+322
+00:22:17,030 --> 00:22:20,710
+degraded, so it can target
+it to the proteasome, so
+
+323
+00:22:20,710 --> 00:22:26,210
+the cells can reduce or
+remove the HMG-CoA reductase.
+
+324
+00:22:28,210 --> 00:22:35,050
+In addition, the cholesterol
+biosynthesis can be regulated
+
+325
+00:22:35,050 --> 00:22:38,330
+by phosphorylation and
+dephosphorylation. Right.
+
+326
+00:22:38,370 --> 00:22:42,730
+In this case, again, because
+HMG-CoA reductase catalyze
+
+327
+00:22:42,730 --> 00:22:46,200
+the reliminant step, right?
+So you want to regulate
+
+328
+00:22:46,390 --> 00:22:49,870
+its activity through
+phospholation and dephospholation.
+
+329
+00:22:49,990 --> 00:22:53,530
+So when energy level is low and
+
+330
+00:22:53,530 --> 00:22:57,210
+the AMP level is usually high.
+
+331
+00:22:57,270 --> 00:23:02,910
+So higher amount of
+AMP binds to a protein
+
+332
+00:23:02,910 --> 00:23:06,830
+called AMP-activated
+protein kinase, in short for
+
+333
+00:23:06,830 --> 00:23:11,830
+AMPK. And the binding
+of AMP to AMPK activates
+
+334
+00:23:11,830 --> 00:23:15,510
+the kinase activity,
+right? Kinase, again, adds
+
+335
+00:23:15,510 --> 00:23:18,270
+a phosphor group on a
+target. In this case,
+
+336
+00:23:18,550 --> 00:23:23,130
+it adds a phosphor group
+on the HMG-CoA reductase.
+
+337
+00:23:23,850 --> 00:23:26,470
+And as we discussed before,
+
+338
+00:23:26,890 --> 00:23:31,170
+that glucagon is a
+mobilizing hormone, all
+
+339
+00:23:31,170 --> 00:23:34,940
+higher levels of steroids,
+and they can also
+
+340
+00:23:34,940 --> 00:23:37,670
+activate AMPK, right?
+Right, again, they
+
+341
+00:23:37,670 --> 00:23:42,170
+activate AMPK, phosphorylate
+HMG-CoA reductase.
+
+342
+00:23:42,170 --> 00:23:45,730
+And the phosphorylation
+of HMG-CoA
+
+343
+00:23:45,730 --> 00:23:48,910
+reductase actually
+inactivates activities,
+
+344
+00:23:49,090 --> 00:23:51,150
+right? So therefore, slow down
+
+345
+00:23:51,150 --> 00:23:53,650
+the cholesterol biosynthesis.
+
+346
+00:23:53,750 --> 00:23:58,430
+And conversely, the
+storage hormone insulin,
+
+347
+00:23:58,430 --> 00:24:00,930
+again, which is
+usually very high after
+
+348
+00:24:00,930 --> 00:24:05,050
+a balanced meals uh
+insulin activate of
+
+349
+00:24:05,050 --> 00:24:08,630
+protein phosphatase as
+again as you saw before
+
+350
+00:24:09,890 --> 00:24:13,350
+phosphatase the function
+of phosphatase is to
+
+351
+00:24:13,350 --> 00:24:16,450
+remove a phosphor group
+from a target right in this
+
+352
+00:24:16,450 --> 00:24:20,570
+case it removes uh the
+false group from the
+
+353
+00:24:20,570 --> 00:24:26,030
+hmg coeductase but it
+is actually activate the
+
+354
+00:24:26,030 --> 00:24:30,290
+enzyme, right? So therefore,
+when insulin is high,
+
+355
+00:24:30,510 --> 00:24:33,090
+it actually accelerates
+or upregulates
+
+356
+00:24:33,090 --> 00:24:34,790
+the cholesterol biosynthesis.
+
+357
+00:24:36,770 --> 00:24:39,490
+So with that, you can add
+
+358
+00:24:39,490 --> 00:24:41,470
+the regulation of cholesterol
+
+359
+00:24:42,290 --> 00:24:45,390
+synthesis to the
+list of hormonal
+
+360
+00:24:45,390 --> 00:24:50,450
+regulation of various
+metabolic molecules,
+
+361
+00:24:50,450 --> 00:24:52,090
+right? For example,
+For example,
+
+362
+00:24:52,350 --> 00:24:55,350
+mobilizing hormone, glucagon,
+
+363
+00:24:55,710 --> 00:24:58,710
+can upregulate glycogenolysis,
+
+364
+00:24:58,710 --> 00:25:02,110
+release glucose
+from the glycogen,
+
+365
+00:25:02,370 --> 00:25:05,210
+and accelerate de
+novo synthesis of
+
+366
+00:25:05,210 --> 00:25:08,890
+glucose, and now
+you can add, it can
+
+367
+00:25:08,890 --> 00:25:10,950
+inhibit the cholesterol
+biosynthesis.
+
+368
+00:25:11,030 --> 00:25:12,250
+Conversely,
+
+369
+00:25:12,590 --> 00:25:16,170
+when the storage hormone
+is high, insulin is high,
+
+370
+00:25:17,590 --> 00:25:21,420
+synthesize more glycogen,
+right store the glucose
+
+371
+00:25:21,420 --> 00:25:26,310
+and in this in our case
+here it can also stimulate
+
+372
+00:25:26,310 --> 00:25:29,010
+cholesterol bonds and this
+is also right as we're
+
+373
+00:25:29,010 --> 00:25:32,210
+talking about before it's
+kind of a general theme that
+
+374
+00:25:32,210 --> 00:25:35,950
+insulin activated phosphatase
+and glugogon activated
+
+375
+00:25:35,950 --> 00:25:40,470
+kinase but in this case
+the kinase is called ampk
+
+376
+00:25:42,450 --> 00:25:45,750
+so this is slide summarize
+what we're talking
+
+377
+00:25:45,750 --> 00:25:49,090
+about right you know
+again Again, HMG
+
+378
+00:25:49,090 --> 00:25:52,870
+-CoA reductase catalyze
+the re-limiting step.
+
+379
+00:25:53,070 --> 00:25:57,730
+There's a variety of ways
+to regulate the amount
+
+380
+00:25:57,730 --> 00:26:02,390
+of the activity of HMG
+-CoA reductase, right?
+
+381
+00:26:02,690 --> 00:26:07,470
+By energy, by
+hormones, and lastly,
+
+382
+00:26:07,470 --> 00:26:09,330
+as you probably
+will be aware of,
+
+383
+00:26:09,550 --> 00:26:13,010
+that HMG-CoA reductase
+is also the molecular
+
+384
+00:26:13,010 --> 00:26:16,850
+target of a statin
+family of drugs
+
+385
+00:26:16,850 --> 00:26:20,170
+in order to lower the
+cholesterol levels.
+
+386
+00:26:20,990 --> 00:26:24,610
+All right, so now we're
+going to switch gears and
+
+387
+00:26:24,610 --> 00:26:29,550
+discuss the biosynthesis
+of bioacid. And we want
+
+388
+00:26:29,550 --> 00:26:33,290
+to know that, you know,
+the bioacid or biosolids,
+
+389
+00:26:33,290 --> 00:26:36,610
+these two terms usually
+are inter-exchangeable.
+
+390
+00:26:38,570 --> 00:26:41,110
+So we all know,
+you know, again,
+
+391
+00:26:41,110 --> 00:26:42,890
+lipids are very hydrophobic.
+
+392
+00:26:43,030 --> 00:26:47,750
+They have very low solubility
+in an aqueous environment,
+
+393
+00:26:47,750 --> 00:26:51,790
+right? So in order for
+the body to better absorb
+
+394
+00:26:52,470 --> 00:26:56,750
+these lipids, you need
+detergent, right? So
+
+395
+00:26:56,750 --> 00:27:00,150
+basically here, the biosauce
+act as the detergent
+
+396
+00:27:00,320 --> 00:27:04,570
+to emulsify the different
+lipids in our diet
+
+397
+00:27:04,570 --> 00:27:10,330
+and our bio is actually
+a mixture of water
+
+398
+00:27:10,550 --> 00:27:16,390
+phospholipid right again
+phospholipid in this case a
+
+399
+00:27:16,390 --> 00:27:20,390
+lechesine is the amphipathic
+molecule has a polar head
+
+400
+00:27:20,390 --> 00:27:26,210
+has a hydrophilic tails
+bioacid by salts right and
+
+401
+00:27:26,210 --> 00:27:29,230
+cholesterol right more or
+less cholesterol hydrophobic.
+
+402
+00:27:29,730 --> 00:27:31,850
+Cholesterol is a precursor
+
+403
+00:27:31,850 --> 00:27:34,170
+to synthesized bowel salts.
+
+404
+00:27:34,580 --> 00:27:37,790
+Bowel salts is mainly
+synthesized in the liver.
+
+405
+00:27:38,190 --> 00:27:40,730
+And, you know,
+extra bowel salts
+
+406
+00:27:40,730 --> 00:27:42,410
+can be stored in
+the gallbladder.
+
+407
+00:27:42,670 --> 00:27:43,350
+Right.
+
+408
+00:27:43,570 --> 00:27:46,760
+And when the bowel salts get
+
+409
+00:27:46,760 --> 00:27:49,950
+excreted into the
+GI tract, back,
+
+410
+00:27:50,790 --> 00:27:56,350
+it actually can be
+reabsorbed and eventually
+
+411
+00:27:56,350 --> 00:27:58,470
+returned to liver.
+And this whole
+
+412
+00:27:58,470 --> 00:28:02,430
+cycle is called
+androhepatic circulations.
+
+413
+00:28:03,350 --> 00:28:07,390
+But you know, through bile
+acid, there's some of it
+
+414
+00:28:07,480 --> 00:28:11,490
+actually get excreted out
+into the feces every day.
+
+415
+00:28:11,860 --> 00:28:13,970
+this could be one
+of the strategies
+
+416
+00:28:13,970 --> 00:28:17,670
+that to lower the
+cholesterol levels
+
+417
+00:28:20,010 --> 00:28:23,170
+all right briefly
+uh go through the
+
+418
+00:28:23,170 --> 00:28:26,890
+synthesis of of
+reactions of bio salts
+
+419
+00:28:26,970 --> 00:28:32,330
+uh bio salts contain
+24 carbons right uh two
+
+420
+00:28:32,330 --> 00:28:38,030
+major one colic acid
+uh kinodeoxycolic acid
+
+421
+00:28:38,430 --> 00:28:43,370
+again you know both has these
+four big green molecules
+
+422
+00:28:43,370 --> 00:28:46,890
+and they actually derive
+from the cholesterols
+
+423
+00:28:46,890 --> 00:28:51,870
+uh cholesterols contain 27
+carbons right so therefore
+
+424
+00:28:51,870 --> 00:28:55,470
+you need to reduce or
+remove three carbon from the
+
+425
+00:28:55,470 --> 00:29:00,270
+cholesterol molecules and
+in addition uh hydrox group
+
+426
+00:29:00,270 --> 00:29:06,410
+are added to the sterile
+core specifically at
+
+427
+00:29:06,410 --> 00:29:11,290
+these positions as I mentioned
+you need to remove three
+
+428
+00:29:11,290 --> 00:29:15,430
+carbon from the adipatic
+chains right so here's
+
+429
+00:29:15,430 --> 00:29:18,530
+the adipatic chain for the
+cholesterol's shorter than
+
+430
+00:29:18,530 --> 00:29:23,870
+by three carbons and in
+addition you know again
+
+431
+00:29:23,870 --> 00:29:27,870
+because cholesterol contain
+a double bond this double
+
+432
+00:29:27,870 --> 00:29:32,870
+bond need to be reduced in
+order to produce the bio
+
+433
+00:29:33,030 --> 00:29:38,150
+salts so both the hydroxylation
+and all in addition
+
+434
+00:29:39,190 --> 00:29:43,470
+the end of the aliphatic
+chain in the cholesterols
+
+435
+00:29:43,470 --> 00:29:46,550
+need to be converted
+to a carboxyl group
+
+436
+00:29:46,550 --> 00:29:51,050
+so both the hydroxylation
+and carboxylation
+
+437
+00:29:51,050 --> 00:29:57,870
+of the cholesterol precursor
+in order to increase
+
+438
+00:29:57,870 --> 00:30:01,250
+the solubility of the
+bio salts make them
+
+439
+00:30:01,250 --> 00:30:04,570
+much easier to dissolve
+in water environment
+
+440
+00:30:05,910 --> 00:30:09,650
+again bio acids are
+mainly synthesizing liver
+
+441
+00:30:09,650 --> 00:30:14,030
+and directly from
+cholesterols and two different
+
+442
+00:30:14,550 --> 00:30:18,990
+forms of bio salts colic
+acid and kinodeoxycholic
+
+443
+00:30:18,990 --> 00:30:22,850
+acid and they are also
+called primary bio
+
+444
+00:30:22,850 --> 00:30:30,830
+acid it right the hydroxylation
+step of cholesterol
+
+445
+00:30:30,830 --> 00:30:34,850
+that catalyzed by
+the enzyme 7-alpha
+
+446
+00:30:35,060 --> 00:30:39,410
+hydroxylase right seven
+it referred to the carbon
+
+447
+00:30:39,410 --> 00:30:42,430
+number seven right here
+this one and this one
+
+448
+00:30:43,550 --> 00:30:46,410
+this enzyme as you
+catalyze the re-limiting
+
+449
+00:30:46,410 --> 00:30:50,430
+step right so therefore
+you can regulate 7-alpha
+
+450
+00:30:50,430 --> 00:30:57,220
+hydroxylase so um the
+primary the two primary
+
+451
+00:30:57,220 --> 00:31:00,330
+bioacids so once they
+get into the intestines
+
+452
+00:31:00,790 --> 00:31:03,990
+they actually get
+can be converted
+
+453
+00:31:03,990 --> 00:31:06,730
+by some of the
+enzyme from bacteria
+
+454
+00:31:07,170 --> 00:31:11,730
+into a different form of
+molecule and these are
+
+455
+00:31:11,730 --> 00:31:15,110
+called a secondary
+bioacid right and if you
+
+456
+00:31:15,110 --> 00:31:19,410
+look the secondary bio
+acid you can see that they
+
+457
+00:31:19,410 --> 00:31:25,410
+both lose the hydroxyl
+group at carbon 7 and
+
+458
+00:31:25,410 --> 00:31:28,450
+you know they obviously
+going to be more hydrophobic
+
+459
+00:31:28,450 --> 00:31:31,250
+right so therefore the
+secondary biosolids
+
+460
+00:31:31,340 --> 00:31:35,870
+are less soluble than
+the primary biosolids
+
+461
+00:31:37,310 --> 00:31:39,590
+In addition,
+
+462
+00:31:39,730 --> 00:31:46,210
+the primary biosol can be
+conjugated with immunoacid
+
+463
+00:31:46,210 --> 00:31:54,890
+glycine or taurine, which
+is a metabolite of cysteine.
+
+464
+00:31:55,550 --> 00:32:00,430
+So the conjugation of
+either glycine or taurine
+
+465
+00:32:00,430 --> 00:32:07,410
+to the colic acid generating
+glycocholic acid or
+
+466
+00:32:07,410 --> 00:32:12,490
+taurine colic acid right
+as you noted that the colic
+
+467
+00:32:12,490 --> 00:32:18,850
+acid the pka is around six
+but conjugation of glycine
+
+468
+00:32:18,850 --> 00:32:24,630
+and change the pka to
+around four and conjugation
+
+469
+00:32:24,630 --> 00:32:29,990
+to a taurine and lower the
+pKa to two right and this
+
+470
+00:32:29,990 --> 00:32:33,370
+is a really a big advantage
+because in the intestines
+
+471
+00:32:33,370 --> 00:32:38,370
+the pH environment is about
+six right so therefore
+
+472
+00:32:38,370 --> 00:32:42,890
+these two conjugated
+biosolids and most likely
+
+473
+00:32:42,890 --> 00:32:47,710
+in a large majority in the
+salt forms right right,
+
+474
+00:32:47,790 --> 00:32:51,330
+and therefore make them
+better detergent because make
+
+475
+00:32:51,330 --> 00:32:56,970
+it more soluble in aqueous
+solution. So therefore,
+
+476
+00:32:57,150 --> 00:33:00,290
+the conjugated by
+salts, they are better
+
+477
+00:33:00,290 --> 00:33:02,430
+detergent and then
+more efficient
+
+478
+00:33:02,430 --> 00:33:06,410
+in terms of emulsify
+different lipids.
+
+479
+00:33:08,190 --> 00:33:09,970
+All right, so here summarize
+
+480
+00:33:09,970 --> 00:33:13,110
+the bio salts metabolism,
+
+481
+00:33:13,310 --> 00:33:16,850
+right. As we mentioned,
+the bowel cell that's
+
+482
+00:33:16,850 --> 00:33:20,370
+secreted into the intestines,
+a large majority of
+
+483
+00:33:20,370 --> 00:33:24,170
+them can be reabsorbed
+and eventually returned to
+
+484
+00:33:24,170 --> 00:33:27,850
+the liver. And the whole
+cycle is called enteral,
+
+485
+00:33:27,850 --> 00:33:32,390
+enteral, referred to a
+prefix for intestine,
+
+486
+00:33:32,730 --> 00:33:36,830
+hepatic liver, enteral
+hepatic circulation.
+
+487
+00:33:37,990 --> 00:33:42,870
+And, you know, because the
+liver is the major site
+
+488
+00:33:42,870 --> 00:33:46,850
+to synthesize bile acid,
+and obviously for certain
+
+489
+00:33:46,850 --> 00:33:50,950
+liver disease, the function
+of liver is compromised.
+
+490
+00:33:51,050 --> 00:33:53,030
+And therefore you have reduced
+
+491
+00:33:53,030 --> 00:33:55,170
+amount of bile acid synthesis,
+
+492
+00:33:55,370 --> 00:33:55,950
+right?
+
+493
+00:33:55,950 --> 00:34:00,290
+And because certain amount
+of bile acid can be excreted
+
+494
+00:34:00,290 --> 00:34:04,150
+through the feces, right?
+So this could be a strategy,
+
+495
+00:34:04,950 --> 00:34:11,030
+or go through the enterohepatic
+cycle, get reabsorbed
+
+496
+00:34:11,030 --> 00:34:13,890
+back in by liver. So this
+could be a good strategy
+
+497
+00:34:13,890 --> 00:34:18,510
+if you could trap the bile
+salts in the intestines.
+
+498
+00:34:18,510 --> 00:34:22,210
+For example, if you treat
+the patient with the bile
+
+499
+00:34:22,210 --> 00:34:27,150
+salt sequestration,
+colistaramine, right and that
+
+500
+00:34:27,150 --> 00:34:30,430
+can trap certain amount
+of bile salts in the
+
+501
+00:34:30,430 --> 00:34:34,760
+intestines and and slow down
+the enterohepatic circulation
+
+502
+00:34:34,760 --> 00:34:37,710
+and therefore reduce the
+amount of cholesterols
+
+503
+00:34:37,710 --> 00:34:41,510
+right and also mentioned
+some of the dietary fibers
+
+504
+00:34:41,510 --> 00:34:47,290
+can also reduce the
+reabsorption of bile salts
+
+505
+00:34:48,990 --> 00:34:54,650
+so finally um there's
+a new clinical issue
+
+506
+00:34:54,650 --> 00:34:58,430
+related to the imbalance
+of the component
+
+507
+00:34:58,430 --> 00:35:03,150
+of for the bios right
+again bios is made
+
+508
+00:35:03,150 --> 00:35:06,270
+up of cholesterol
+it's very hydrophobic
+
+509
+00:35:06,410 --> 00:35:11,770
+and also phospholipid and
+bile source both of them
+
+510
+00:35:11,770 --> 00:35:16,750
+are amphipathic molecules
+again for antipatic molecule
+
+511
+00:35:16,750 --> 00:35:20,090
+they have a polar heads
+you know make them easy to
+
+512
+00:35:20,090 --> 00:35:23,650
+dissolve into water and
+hydro hydrophobic tails
+
+513
+00:35:23,650 --> 00:35:27,890
+combine to the hydrophobic
+molecule if it fish it more
+
+514
+00:35:27,890 --> 00:35:32,490
+efficiently but for whatever
+reason if you have more
+
+515
+00:35:32,490 --> 00:35:36,810
+cholesterol in the bios
+right so that's going to tilt
+
+516
+00:35:36,810 --> 00:35:40,570
+the balance of the hydrophobic
+molecule and hydrophilic
+
+517
+00:35:40,570 --> 00:35:43,770
+molecule right and
+make the whole bio more
+
+518
+00:35:43,790 --> 00:35:49,070
+hydrophobic and that could
+lead to the precipitates of
+
+519
+00:35:49,070 --> 00:35:53,590
+some of these hydrophilic
+molecules right therefore
+
+520
+00:35:53,590 --> 00:35:59,390
+producing the stones in the
+gallbladder this the disease
+
+521
+00:35:59,390 --> 00:36:05,310
+is called coli lithiasis
+right you know because
+
+522
+00:36:05,310 --> 00:36:09,610
+the patient has too much
+stones in their gallbladder
+
+523
+00:36:10,890 --> 00:36:15,330
+all right so here's the
+final summary slides uh
+
+524
+00:36:15,330 --> 00:36:20,750
+you need to understand
+uh a key concept right
+
+525
+00:36:20,750 --> 00:36:24,670
+and also need to understand
+the normal or physiological
+
+526
+00:36:24,670 --> 00:36:29,410
+function of cholesterol
+bile acid and which step
+
+527
+00:36:29,410 --> 00:36:32,450
+is the re-limiting step
+and what an enzyme that
+
+528
+00:36:32,450 --> 00:36:36,370
+catalyzing the really many
+steps because these are
+
+529
+00:36:36,370 --> 00:36:41,130
+the step that used to
+regulate cholesterol and bowel
+
+530
+00:36:41,650 --> 00:36:45,710
+acid biosynthesis I
+obviously familiar
+
+531
+00:36:45,710 --> 00:36:48,550
+yourself with a different
+clinical correlation
+
+532
+00:36:48,710 --> 00:36:50,570
+all right so that's the end of
+
+533
+00:36:50,570 --> 00:36:52,370
+the lecture thank you very much

@@ -1,0 +1,2766 @@
+1
+00:00:01,110 --> 00:00:04,410
+Hello everyone, this
+is Dr. **** Zhang.
+
+2
+00:00:04,410 --> 00:00:07,930
+In this session,
+you will learn basic
+
+3
+00:00:07,930 --> 00:00:11,030
+concepts related to
+cardiac arrhythmia.
+
+4
+00:00:12,630 --> 00:00:15,350
+Here are the
+session objectives.
+
+5
+00:00:15,590 --> 00:00:19,450
+These are the contents
+you are expected to learn.
+
+6
+00:00:21,090 --> 00:00:25,510
+Here is the definition
+of arrhythmia. Arrhythmia
+
+7
+00:00:25,510 --> 00:00:28,830
+is defined as not
+normal sinus rhythm.
+
+8
+00:00:29,010 --> 00:00:33,670
+So first you have to know
+what's normal sinus rhythm.
+
+9
+00:00:34,090 --> 00:00:37,870
+As we have learned,
+normal heartbeat is
+
+10
+00:00:37,870 --> 00:00:42,030
+originated from the
+sinus node with a rate in
+
+11
+00:00:42,030 --> 00:00:45,650
+the range of 60 to
+100 beats per minute.
+
+12
+00:00:45,990 --> 00:00:49,710
+It should be regular
+and follow the
+
+13
+00:00:49,710 --> 00:00:53,110
+normal conduction
+sequence as shown here.
+
+14
+00:00:53,410 --> 00:00:58,590
+Any deviation from the normal
+sinus rhythm is arrhythmia.
+
+15
+00:00:58,590 --> 00:01:03,390
+Note that some arrhythmia
+could be physiological.
+
+16
+00:01:03,650 --> 00:01:04,970
+For example,
+
+17
+00:01:04,990 --> 00:01:06,750
+if you exercise,
+
+18
+00:01:06,930 --> 00:01:09,570
+you can have sinus tachycardia.
+
+19
+00:01:09,730 --> 00:01:13,790
+We'll focus on clinically
+significant arrhythmia.
+
+20
+00:01:15,770 --> 00:01:21,290
+Here is the arrhythmia
+classification and mechanisms.
+
+21
+00:01:21,920 --> 00:01:24,290
+Depending on the heart rate,
+
+22
+00:01:24,830 --> 00:01:28,770
+Arrhythmia can be classified
+as Brady Arrhythmia
+
+23
+00:01:28,770 --> 00:01:33,770
+if the heart rate is less
+than 60 beats per minute.
+
+24
+00:01:34,090 --> 00:01:36,090
+The number is for adults.
+
+25
+00:01:36,110 --> 00:01:39,290
+Brady Arrhythmia
+is caused by either
+
+26
+00:01:39,290 --> 00:01:44,630
+conduction block and or
+reduced automaticity.
+
+27
+00:01:45,190 --> 00:01:50,370
+If heart rate is more than
+100 beats per minute, it's
+
+28
+00:01:50,370 --> 00:01:54,530
+defined as Tachy Arrhythmia.
+Tachyallythmia can be
+
+29
+00:01:54,530 --> 00:01:58,470
+caused by one or more of
+the following mechanisms
+
+30
+00:01:58,470 --> 00:02:04,870
+increased automaticity,
+triggered activity, and reentry.
+
+31
+00:02:05,360 --> 00:02:09,050
+Reentry is considered
+as the most common
+
+32
+00:02:09,050 --> 00:02:12,030
+mechanism for all
+tachyallythmians.
+
+33
+00:02:13,890 --> 00:02:18,670
+For tachyallythmians,
+depending on the sites where
+
+34
+00:02:18,670 --> 00:02:22,910
+the allysmians are
+originated, they can be
+
+35
+00:02:22,910 --> 00:02:27,270
+classified as supraventricular
+arrhythmias if they
+
+36
+00:02:27,270 --> 00:02:32,710
+are originated from a site
+at his bundle or above.
+
+37
+00:02:32,870 --> 00:02:36,910
+Because supraventricular
+arrhythmias are typically
+
+38
+00:02:36,910 --> 00:02:40,630
+associated with normal
+ventricular activation,
+
+39
+00:02:41,450 --> 00:02:45,290
+unless there is a pre
+-existing abnormality in
+
+40
+00:02:45,290 --> 00:02:50,070
+the ventricles, such as
+bundle branch block, They
+
+41
+00:02:50,090 --> 00:02:55,790
+typically produce normal
+narrow QRS complex,
+
+42
+00:02:56,070 --> 00:03:00,650
+so narrow QRS
+tachycardia is the
+
+43
+00:03:00,650 --> 00:03:04,090
+feature of supraventricular
+tachycardia.
+
+44
+00:03:04,590 --> 00:03:08,750
+Any alizomere originated
+from a site below
+
+45
+00:03:08,750 --> 00:03:12,850
+the his bundle is
+defined as ventricular
+
+46
+00:03:12,850 --> 00:03:16,550
+alizomere. Because in
+ventricular arrhythmia,
+
+47
+00:03:16,550 --> 00:03:20,270
+the ventricular activation
+will be abnormal,
+
+48
+00:03:20,630 --> 00:03:23,650
+it will produce an abnormal
+
+49
+00:03:23,650 --> 00:03:28,370
+widened QRS complex. Thus,
+
+50
+00:03:28,670 --> 00:03:34,130
+wide QRS tachycardia is
+typically ventricular origin.
+
+51
+00:03:36,730 --> 00:03:41,410
+Listed here are the basic
+arrhythmia mechanisms.
+
+52
+00:03:41,590 --> 00:03:44,970
+They are divided
+into two categories.
+
+53
+00:03:45,230 --> 00:03:45,850
+First,
+
+54
+00:03:46,030 --> 00:03:49,730
+abnormal impulse
+initiation. The
+
+55
+00:03:49,730 --> 00:03:52,990
+second is abnormal
+impulse conduction.
+
+56
+00:03:53,310 --> 00:03:57,550
+Under abnormal impulse
+initiation, they are
+
+57
+00:03:57,550 --> 00:04:02,130
+abnormal automaticity
+and tricked activity.
+
+58
+00:04:02,550 --> 00:04:05,850
+Under abnormal automaticity,
+
+59
+00:04:05,890 --> 00:04:09,950
+they are altered
+normal automaticity and
+
+60
+00:04:09,950 --> 00:04:14,470
+abnormal automaticity.
+Under tricked activity,
+
+61
+00:04:14,810 --> 00:04:18,390
+they are early
+after depolarization
+
+62
+00:04:18,390 --> 00:04:23,630
+and delayed after
+depolarization .
+
+63
+00:04:24,390 --> 00:04:27,810
+On the abnormal
+impulse conduction,
+
+64
+00:04:28,270 --> 00:04:31,850
+there are conduction
+block and reentry.
+
+65
+00:04:32,430 --> 00:04:36,570
+Conduction block can happen
+in different sites in
+
+66
+00:04:36,570 --> 00:04:41,490
+the heart, such as at the
+sinus node atrial junction,
+
+67
+00:04:41,670 --> 00:04:46,090
+in the AV node, his bundle,
+and the bundle branches.
+
+68
+00:04:46,090 --> 00:04:52,630
+Reentry can happen due to
+structural or anatomical
+
+69
+00:04:52,630 --> 00:04:56,450
+abnormalities such as
+the accessory pathways,
+
+70
+00:04:56,550 --> 00:04:57,930
+scar tissues,
+
+71
+00:04:58,190 --> 00:05:00,930
+or due to functional changes
+
+72
+00:05:00,930 --> 00:05:03,970
+without structural change.
+
+73
+00:05:04,350 --> 00:05:07,310
+We'll discuss each of these in
+
+74
+00:05:07,310 --> 00:05:10,090
+more detail in the
+next few slides.
+
+75
+00:05:12,510 --> 00:05:17,230
+or altered normal
+automaticity. The
+
+76
+00:05:17,230 --> 00:05:20,390
+normal heartbeat is
+from the sinus node.
+
+77
+00:05:20,570 --> 00:05:24,590
+The altered normal
+automaticity refers to
+
+78
+00:05:24,590 --> 00:05:29,870
+either increased or
+decreased sinus rates. If
+
+79
+00:05:29,870 --> 00:05:33,090
+the sinus rate is above
+100 beats per minute,
+
+80
+00:05:33,090 --> 00:05:38,090
+it's sinus tachycardia.
+Sinus tachycardia is
+
+81
+00:05:38,090 --> 00:05:41,810
+usually secondary and
+could be physiological.
+
+82
+00:05:42,270 --> 00:05:43,770
+For example,
+
+83
+00:05:44,110 --> 00:05:47,790
+sinus tachycardia can
+be seen during exercise.
+
+84
+00:05:48,290 --> 00:05:51,370
+Sinus tachycardia can also be
+
+85
+00:05:51,370 --> 00:05:55,410
+secondary to disease
+states like fever,
+
+86
+00:05:55,990 --> 00:06:01,010
+psilotoxicosis, etc.
+There is a clinical
+
+87
+00:06:01,010 --> 00:06:05,570
+syndrome called inappropriate
+sinus tachycardia,
+
+88
+00:06:05,570 --> 00:06:09,750
+seen in patients
+without obvious causes.
+
+89
+00:06:10,430 --> 00:06:13,870
+If the sinus rate is
+less than 60 beats
+
+90
+00:06:13,870 --> 00:06:18,150
+per minute, it's called
+sinus bradycardia.
+
+91
+00:06:18,810 --> 00:06:21,190
+It can be physiological,
+
+92
+00:06:21,330 --> 00:06:23,390
+seen in at rest. Next,
+
+93
+00:06:24,230 --> 00:06:27,410
+pathological sinus
+bradycardia is typically
+
+94
+00:06:27,410 --> 00:06:32,950
+seen in sick sinus
+syndrome or 3S syndrome,
+
+95
+00:06:33,610 --> 00:06:36,470
+a degenerative
+disease in cardiac
+
+96
+00:06:36,470 --> 00:06:39,050
+pacemaker conduction system.
+
+97
+00:06:41,030 --> 00:06:47,090
+Abnormal automaticity refers
+to non-pacemaker cells
+
+98
+00:06:47,090 --> 00:06:52,470
+like atrium myocytes or
+ventricular myocytes In certain
+
+99
+00:06:52,470 --> 00:06:57,390
+disease states, like ischemia,
+hypoxia, inflammation,
+
+100
+00:06:57,970 --> 00:07:01,490
+the injured myocytes
+gain automaticity.
+
+101
+00:07:02,010 --> 00:07:06,570
+Because in disease states,
+the injured myocytes
+
+102
+00:07:06,570 --> 00:07:10,650
+cannot maintain normal
+resting membrane potential.
+
+103
+00:07:10,650 --> 00:07:13,670
+potential. The resting
+membrane potential
+
+104
+00:07:13,670 --> 00:07:17,850
+could rise, and if the
+resting membrane potential
+
+105
+00:07:17,860 --> 00:07:20,810
+cannot drop below
+the threshold,
+
+106
+00:07:21,230 --> 00:07:24,050
+the fast sodium channel will be
+
+107
+00:07:24,050 --> 00:07:27,970
+inactivated, as we have
+discussed previously
+
+108
+00:07:27,970 --> 00:07:31,130
+in the action
+potential lecture.
+
+109
+00:07:31,500 --> 00:07:35,590
+These cells could be
+activated by the L
+
+110
+00:07:35,590 --> 00:07:39,450
+-type calcium channel.
+If this happens,
+
+111
+00:07:39,810 --> 00:07:44,010
+the myocyte behaves like
+a slow response cell.
+
+112
+00:07:44,330 --> 00:07:49,230
+Depending on where this
+happens, it could cause
+
+113
+00:07:49,230 --> 00:07:52,790
+atrial arrhythmia or
+ventricular arrhythmia.
+
+114
+00:07:54,950 --> 00:07:57,090
+Tricked activity,
+
+115
+00:07:57,310 --> 00:08:02,250
+TA, is the oscillation
+in member potential.
+
+116
+00:08:02,250 --> 00:08:05,990
+It requires a previous
+action potential.
+
+117
+00:08:06,610 --> 00:08:10,510
+If it happens in later phase 2
+
+118
+00:08:10,850 --> 00:08:13,450
+or in phase 3,
+
+119
+00:08:13,690 --> 00:08:18,950
+it's called early after
+depolarization, EAD.
+
+120
+00:08:19,110 --> 00:08:23,930
+If it happens in
+phase 4, is termed
+
+121
+00:08:23,930 --> 00:08:27,590
+delayed after
+depolarization, DAD.
+
+122
+00:08:28,190 --> 00:08:33,950
+EAD is typically associated
+with action potential
+
+123
+00:08:33,950 --> 00:08:38,710
+prolongation, like in
+Long-Cottie syndrome,
+
+124
+00:08:38,870 --> 00:08:40,970
+hypokalemia, etc.
+
+125
+00:08:41,530 --> 00:08:46,630
+EAD is due to reactivation
+of the L-type calcium
+
+126
+00:08:46,630 --> 00:08:51,270
+channel, because these
+channels are time-dependent.
+
+127
+00:08:51,460 --> 00:08:55,400
+As time passes, they
+can be reactivated.
+
+128
+00:08:56,590 --> 00:08:58,310
+Since heart rate slowing
+
+129
+00:08:58,310 --> 00:09:02,270
+tends to increase QT interval,
+
+130
+00:09:02,710 --> 00:09:06,550
+the risk of EAD increases if
+
+131
+00:09:06,550 --> 00:09:08,930
+the heart rate is too slow.
+
+132
+00:09:09,950 --> 00:09:14,370
+DAD is associated
+with calcium overload.
+
+133
+00:09:14,570 --> 00:09:18,610
+In conditions of
+digital toxicity,
+
+134
+00:09:19,050 --> 00:09:22,410
+reperfusion-induced
+arrhythmia and
+
+135
+00:09:22,410 --> 00:09:25,450
+catecholaminergic
+polymorphic ventricular
+
+136
+00:09:25,450 --> 00:09:29,490
+tachycardia,
+abbreviated as C-PVT.
+
+137
+00:09:30,380 --> 00:09:32,830
+As you have learned already
+
+138
+00:09:32,830 --> 00:09:35,150
+in action potential lecture,
+
+139
+00:09:35,590 --> 00:09:39,530
+calcium overload will
+trigger sodium-calcium
+
+140
+00:09:39,530 --> 00:09:43,230
+exchanger. Activation
+of sodium-calcium
+
+141
+00:09:43,230 --> 00:09:48,020
+exchanger will bring in
+more positive charges
+
+142
+00:09:48,020 --> 00:09:51,970
+and depolarize the
+membrane potential.
+
+143
+00:09:52,530 --> 00:09:56,310
+Fast heart rate typically
+promotes calcium
+
+144
+00:09:56,310 --> 00:10:01,490
+overload and thus
+increases DAD risk.
+
+145
+00:10:04,170 --> 00:10:07,250
+Abnormal impulse conduction.
+
+146
+00:10:07,660 --> 00:10:10,330
+First is the conduction block.
+
+147
+00:10:10,450 --> 00:10:14,090
+This is easy to
+understand. Conduction
+
+148
+00:10:14,090 --> 00:10:17,550
+blocks are frequently
+seen in these sites.
+
+149
+00:10:18,210 --> 00:10:23,030
+Sino-H exit block,
+AV block, left
+
+150
+00:10:23,030 --> 00:10:26,030
+or right-bound
+branch block, etc.
+
+151
+00:10:28,330 --> 00:10:31,270
+Another type of abnormal
+
+152
+00:10:31,270 --> 00:10:33,970
+impulse conduction is re-entry.
+
+153
+00:10:34,670 --> 00:10:39,170
+Since re-entry is considered
+to be the most common
+
+154
+00:10:39,170 --> 00:10:44,130
+mechanism for all
+tachyarysmias, this is an
+
+155
+00:10:44,130 --> 00:10:49,310
+important concept you have
+to understand. Normally, a
+
+156
+00:10:49,310 --> 00:10:53,570
+heartbeat generated
+inside the sinus node will
+
+157
+00:10:53,570 --> 00:10:57,990
+activate the atria, the
+AV node, the His-Pukinji
+
+158
+00:10:57,990 --> 00:11:03,870
+system, and the ventricles
+once, and then dies out.
+
+159
+00:11:03,990 --> 00:11:08,350
+In other words, one
+heartbeat excites the whole
+
+160
+00:11:08,350 --> 00:11:13,130
+heart only once. As
+shown in the left figure,
+
+161
+00:11:13,490 --> 00:11:18,650
+an impulse coming from
+top will go down through
+
+162
+00:11:18,650 --> 00:11:23,430
+both left and right
+pathways to reach the
+
+163
+00:11:23,430 --> 00:11:28,130
+bottom. The excitation
+will not return back.
+
+164
+00:11:29,950 --> 00:11:34,730
+If the same impulse
+re-excites the
+
+165
+00:11:34,730 --> 00:11:38,530
+heart more than once,
+it's called re-entry
+
+166
+00:11:38,530 --> 00:11:41,510
+as shown in the
+right illustration.
+
+167
+00:11:42,570 --> 00:11:47,190
+In the next slide, I'll explain
+
+168
+00:11:47,190 --> 00:11:50,410
+how the re-entry
+could be formed.
+
+169
+00:11:53,120 --> 00:11:57,790
+To form a reentry,
+first, it is necessary
+
+170
+00:11:57,790 --> 00:12:01,270
+to have inhomogeneous
+cardiac tissues,
+
+171
+00:12:01,270 --> 00:12:05,570
+either anatomically
+or functionally.
+
+172
+00:12:05,890 --> 00:12:09,230
+As shown in the left figure,
+
+173
+00:12:09,750 --> 00:12:13,910
+the left and right
+pathways have different
+
+174
+00:12:13,910 --> 00:12:18,530
+conduction velocity
+CV, and effective
+
+175
+00:12:18,530 --> 00:12:23,050
+refractory period
+ERP. In other words,
+
+176
+00:12:23,210 --> 00:12:25,990
+they have different
+electrophysiological
+
+177
+00:12:25,990 --> 00:12:31,770
+properties, or inhomogeneous.
+The left side pathway
+
+178
+00:12:31,770 --> 00:12:37,030
+has slow conduction
+velocity, or slow pathway,
+
+179
+00:12:37,250 --> 00:12:42,170
+but the slow pathway
+has short ERP. The
+
+180
+00:12:42,170 --> 00:12:46,170
+right side pathway has
+fast conduction velocity,
+
+181
+00:12:46,170 --> 00:12:51,270
+or fast pathway,
+but it has long ERP.
+
+182
+00:12:51,910 --> 00:12:55,110
+Let's look how excitation will
+
+183
+00:12:55,110 --> 00:12:57,410
+be conducted in this case.
+
+184
+00:12:57,750 --> 00:13:01,270
+When excitation
+comes from the top,
+
+185
+00:13:01,490 --> 00:13:06,230
+it will be conducted by
+both the fast and the
+
+186
+00:13:06,230 --> 00:13:10,150
+slow pathways. Because
+the fast pathway
+
+187
+00:13:10,150 --> 00:13:14,710
+conducts faster, it will
+reach the bottom first.
+
+188
+00:13:15,310 --> 00:13:20,550
+The excitation conducted
+by the fast pathway
+
+189
+00:13:20,550 --> 00:13:24,930
+could even invade into
+the distal portion of the
+
+190
+00:13:24,930 --> 00:13:29,930
+slow pathway in a
+retrograde manner. However,
+
+191
+00:13:30,290 --> 00:13:34,550
+when the two excitation
+fronts, the anti
+
+192
+00:13:34,550 --> 00:13:37,150
+-grade conduction
+by the slow pathway
+
+193
+00:13:37,270 --> 00:13:40,290
+and the retrograde
+conduction from the
+
+194
+00:13:40,290 --> 00:13:43,830
+fast pathway collide,
+the excitation
+
+195
+00:13:43,830 --> 00:13:47,530
+will stop and no re
+-entry would occur.
+
+196
+00:13:47,970 --> 00:13:50,550
+This is the case with regular
+
+197
+00:13:50,550 --> 00:13:54,970
+beads A1, A1, A1
+beads as shown.
+
+198
+00:13:56,080 --> 00:14:00,110
+Things will be different
+when you have a short
+
+199
+00:14:00,110 --> 00:14:04,550
+preliminary bead A2, as
+shown on the right figure.
+
+200
+00:14:04,550 --> 00:14:07,590
+At preliminary bead A2,
+
+201
+00:14:07,990 --> 00:14:11,990
+because the excitation
+arrives so early,
+
+202
+00:14:12,270 --> 00:14:16,400
+the right side fast
+pathway is not recovered
+
+203
+00:14:16,400 --> 00:14:21,770
+due to its long ERP.
+Thus, the conduction will
+
+204
+00:14:21,770 --> 00:14:26,250
+be blocked in the fast
+pathway, as indicated.
+
+205
+00:14:26,800 --> 00:14:29,710
+Since the left
+side slow pathway
+
+206
+00:14:29,710 --> 00:14:34,330
+has short ERP and
+recovers sooner,
+
+207
+00:14:34,650 --> 00:14:38,550
+the premature excitation
+A2 can go down
+
+208
+00:14:38,550 --> 00:14:41,710
+along the slow
+pathway to reach the
+
+209
+00:14:41,710 --> 00:14:44,790
+bottom, although
+it conducts slower.
+
+210
+00:14:45,430 --> 00:14:48,310
+the right side fast pathway
+
+211
+00:14:48,310 --> 00:14:51,650
+could recover as time goes.
+
+212
+00:14:51,830 --> 00:14:55,770
+So when excitation travel down,
+
+213
+00:14:56,170 --> 00:14:58,910
+slowly through
+the left side slow
+
+214
+00:14:58,910 --> 00:15:02,470
+pathway to reach
+the bottom. And when
+
+215
+00:15:02,470 --> 00:15:05,230
+the right side fast
+pathway recovers,
+
+216
+00:15:05,610 --> 00:15:10,030
+the excitation could
+activate the fast pathway
+
+217
+00:15:10,030 --> 00:15:14,450
+retrograded from the
+bottom. And when the
+
+218
+00:15:14,450 --> 00:15:19,270
+excitation reaches the
+previously blocked area, and
+
+219
+00:15:19,270 --> 00:15:23,450
+if the area is already
+recovered, then the
+
+220
+00:15:23,450 --> 00:15:28,770
+excitation could continue.
+This forms a re-entry.
+
+221
+00:15:28,970 --> 00:15:33,610
+In other words, the
+same excitation returns
+
+222
+00:15:33,610 --> 00:15:37,630
+back and re-excites
+the tissue again.
+
+223
+00:15:40,110 --> 00:15:43,910
+Now you should
+know these are the
+
+224
+00:15:43,910 --> 00:15:47,490
+requirements to form re-entry.
+
+225
+00:15:47,810 --> 00:15:52,590
+First, there should be
+a unidirectional block.
+
+226
+00:15:52,670 --> 00:15:56,070
+As shown, the excitation
+cannot propagate
+
+227
+00:15:56,070 --> 00:16:00,490
+from up-down, but it allows to
+
+228
+00:16:00,490 --> 00:16:04,560
+propagate in a reversed
+direction. Second,
+
+229
+00:16:05,050 --> 00:16:09,090
+there is a slow conduction,
+which affords time
+
+230
+00:16:09,090 --> 00:16:13,130
+for the previously
+refractory tissue to recover.
+
+231
+00:16:13,550 --> 00:16:14,570
+Third,
+
+232
+00:16:14,890 --> 00:16:17,390
+there is a recovery
+of previously
+
+233
+00:16:17,390 --> 00:16:20,310
+excited proximal tissue.
+
+234
+00:16:20,730 --> 00:16:23,130
+When all these requirements
+
+235
+00:16:23,130 --> 00:16:27,010
+are met, then reentry can form.
+
+236
+00:16:28,710 --> 00:16:33,150
+Here is the concept
+of wavelength.
+
+237
+00:16:34,110 --> 00:16:36,990
+When re-entry happens,
+
+238
+00:16:37,750 --> 00:16:41,510
+in the re-entry circuit
+there are two parts.
+
+239
+00:16:41,950 --> 00:16:45,110
+First is the tissue has been
+
+240
+00:16:45,110 --> 00:16:48,090
+excited and in refractory.
+
+241
+00:16:48,350 --> 00:16:54,550
+It's called wavelength. The
+second part is tissue out
+
+242
+00:16:54,550 --> 00:17:00,590
+of refractory can be excited,
+called excitable gap.
+
+243
+00:17:01,330 --> 00:17:05,090
+Wavelength is determined
+by two factors,
+
+244
+00:17:05,330 --> 00:17:09,950
+the effective refractory
+period ERP and
+
+245
+00:17:09,950 --> 00:17:15,310
+conduction velocity CV.
+It can be calculated by
+
+246
+00:17:15,310 --> 00:17:21,710
+this equation, Wavelength
+equals CV times ERP.
+
+247
+00:17:22,030 --> 00:17:26,220
+Since the re-entry
+circuit equals
+
+248
+00:17:26,330 --> 00:17:30,690
+Wavelength plus Excitable Gap,
+
+249
+00:17:31,450 --> 00:17:36,090
+the Wavelength needs to
+be less than the re-entry
+
+250
+00:17:36,090 --> 00:17:41,470
+circuit in order to sustain
+re-entry. When wavelength
+
+251
+00:17:41,470 --> 00:17:46,710
+reaches the total length of
+the circuit, then anything
+
+252
+00:17:46,710 --> 00:17:52,330
+will be in refractory and
+reentry would be terminated.
+
+253
+00:17:52,750 --> 00:17:54,930
+From here, you should know
+
+254
+00:17:54,930 --> 00:17:58,010
+that by increasing wavelength,
+
+255
+00:17:58,210 --> 00:18:03,430
+it will decrease
+reentry risk. On the
+
+256
+00:18:03,430 --> 00:18:06,790
+other hand, if you
+shorten wavelengths,
+
+257
+00:18:07,130 --> 00:18:10,370
+then reentry risk increases.
+
+258
+00:18:10,510 --> 00:18:14,490
+This is why many antiarrhythmic
+
+259
+00:18:14,490 --> 00:18:19,490
+medications work to
+increase ERP to increase
+
+260
+00:18:19,490 --> 00:18:23,290
+wavelengths and
+decrease reentry.
+
+261
+00:18:25,310 --> 00:18:29,270
+If you still have
+difficulty in understanding
+
+262
+00:18:29,270 --> 00:18:32,380
+the relationship
+between wavelengths
+
+263
+00:18:32,380 --> 00:18:36,650
+and re-entry circuit,
+I would like to give
+
+264
+00:18:36,650 --> 00:18:40,830
+you this analogy. Look
+at this toy train.
+
+265
+00:18:41,210 --> 00:18:44,450
+You can envision
+the length of the
+
+266
+00:18:44,450 --> 00:18:49,710
+train as the wavelength
+and the length
+
+267
+00:18:49,710 --> 00:18:53,650
+of the track as the
+re-entry circuit.
+
+268
+00:18:53,770 --> 00:18:58,270
+In order to run the train,
+the length of the train
+
+269
+00:18:58,270 --> 00:19:01,790
+needs to be shorter than
+the length of the track.
+
+270
+00:19:01,910 --> 00:19:07,250
+Otherwise, you cannot play.
+On the other hand, if the
+
+271
+00:19:07,250 --> 00:19:11,490
+length of the train is very
+short, then it's possible
+
+272
+00:19:11,490 --> 00:19:15,390
+that you can fit more than
+one train on the track.
+
+273
+00:19:15,730 --> 00:19:19,990
+Hope this helps in
+understanding the concept.
+
+274
+00:19:22,810 --> 00:19:28,270
+Since there is always an
+excitable gap in reentry
+
+275
+00:19:28,270 --> 00:19:33,810
+circuit, if you can excite
+the tissue in excitable
+
+276
+00:19:33,810 --> 00:19:39,150
+gap by artificial pacing
+or electrical shock,
+
+277
+00:19:39,230 --> 00:19:43,810
+then you can stop the
+reentry. This is one of
+
+278
+00:19:43,810 --> 00:19:47,450
+the important
+electrophysiological features of
+
+279
+00:19:47,450 --> 00:19:52,430
+reentry allusion. It can
+be terminated by pacing.
+
+280
+00:19:52,730 --> 00:19:56,570
+It's called anti
+-tachycardia pacing.
+
+281
+00:19:59,610 --> 00:20:03,530
+Here are some of the
+potential reentry circuits.
+
+282
+00:20:04,750 --> 00:20:07,410
+Panel A shows the model of
+
+283
+00:20:07,410 --> 00:20:10,810
+wavelengths and excitable gap.
+
+284
+00:20:11,150 --> 00:20:14,270
+B shows the Wolff-Parkinson
+
+285
+00:20:14,270 --> 00:20:18,070
+-White syndrome or WPW syndrome.
+
+286
+00:20:18,190 --> 00:20:23,570
+In WPW syndrome, there
+is an accessory pathway
+
+287
+00:20:23,570 --> 00:20:28,110
+in addition to the normal
+AV node hiss-bounded
+
+288
+00:20:28,110 --> 00:20:32,830
+pathway, linking the
+atria and the ventricles.
+
+289
+00:20:32,830 --> 00:20:38,250
+The re-entry involves
+both atria and ventricles,
+
+290
+00:20:38,310 --> 00:20:43,130
+the whole heart, so
+it's a micro re-entry.
+
+291
+00:20:43,550 --> 00:20:47,130
+It's also an
+anatomical re-entry
+
+292
+00:20:47,130 --> 00:20:50,570
+because there is an
+accessory pathways.
+
+293
+00:20:52,110 --> 00:20:55,530
+Penelty shows re-entry
+could happen at the
+
+294
+00:20:55,530 --> 00:21:00,390
+tiny junction of Purkinje
+fibers and myocytes.
+
+295
+00:21:00,950 --> 00:21:03,070
+This shows the re-entry could
+
+296
+00:21:03,070 --> 00:21:05,910
+happen within the
+muscle bundles.
+
+297
+00:21:06,170 --> 00:21:10,270
+These are micro re
+-entries and could be
+
+298
+00:21:10,270 --> 00:21:14,270
+functional re-entries
+without abnormal structure.
+
+299
+00:21:14,470 --> 00:21:18,070
+So re-entry can
+happen in different
+
+300
+00:21:18,070 --> 00:21:20,410
+parts of the cardiac tissue.
+
+301
+00:21:20,550 --> 00:21:22,830
+Some may have very large
+
+302
+00:21:22,830 --> 00:21:26,050
+circuit like in WPW syndrome,
+
+303
+00:21:26,130 --> 00:21:32,910
+while some may have very
+tiny circuit like in
+
+304
+00:21:32,910 --> 00:21:36,610
+atrioventricular node
+re-entrant tachycardia.
+
+305
+00:21:39,270 --> 00:21:44,050
+Now we'll look at common
+clinical allysmias.
+
+306
+00:21:44,290 --> 00:21:48,650
+First, we'll look
+at blade allysmias.
+
+307
+00:21:48,770 --> 00:21:53,410
+The potential mechanisms
+for blade allysmias are
+
+308
+00:21:53,410 --> 00:21:59,330
+failure of impulse generation
+or decreased automaticity.
+
+309
+00:21:59,330 --> 00:22:04,450
+This includes sinus
+bradycardia or sinus arrest,
+
+310
+00:22:04,450 --> 00:22:08,230
+typically seen in sick
+sinus syndrome. mechanism.
+
+311
+00:22:08,570 --> 00:22:11,970
+The other mechanism
+is failure of
+
+312
+00:22:11,970 --> 00:22:15,430
+impulse propagation,
+or conduction block.
+
+313
+00:22:15,780 --> 00:22:18,390
+The common conduction
+block sites
+
+314
+00:22:18,390 --> 00:22:23,130
+include sinoatrial
+block, AV block, etc.
+
+315
+00:22:25,900 --> 00:22:28,800
+Now we'll look
+at tachylysmians.
+
+316
+00:22:29,770 --> 00:22:32,990
+Tachylysmians are
+caused by one or
+
+317
+00:22:32,990 --> 00:22:36,430
+more of these three
+basic mechanisms,
+
+318
+00:22:36,550 --> 00:22:40,130
+abnormal automaticity,
+trickle activity,
+
+319
+00:22:40,130 --> 00:22:44,250
+or re-entry. As
+already discussed,
+
+320
+00:22:44,710 --> 00:22:48,670
+tachylysmians are divided
+into supraventricular
+
+321
+00:22:48,670 --> 00:22:52,530
+tachylysmians and
+ventricular alesimians.
+
+322
+00:22:52,830 --> 00:22:55,670
+Supraventricular
+tachylysmians are
+
+323
+00:22:55,670 --> 00:23:01,030
+originated at the his
+bundle or above. Because
+
+324
+00:23:01,030 --> 00:23:03,770
+the ventricles are
+excited normally,
+
+325
+00:23:03,930 --> 00:23:10,230
+thus the QRS is typically
+narrow with the exception
+
+326
+00:23:10,230 --> 00:23:13,930
+of pre-existing
+ventricular abnormalities.
+
+327
+00:23:14,730 --> 00:23:18,290
+While the ventricular
+tachylythmias are
+
+328
+00:23:18,290 --> 00:23:23,350
+originated below the his
+bundle and are associated
+
+329
+00:23:23,350 --> 00:23:26,230
+with abnormal
+ventricular activation,
+
+330
+00:23:26,290 --> 00:23:32,410
+the QRS complex will
+be abnormal, widened.
+
+331
+00:23:34,970 --> 00:23:38,630
+This table lists
+various supraventricular
+
+332
+00:23:38,630 --> 00:23:41,750
+tachyralesmias and
+their mechanisms.
+
+333
+00:23:42,510 --> 00:23:45,650
+We will discuss some
+of the important
+
+334
+00:23:45,650 --> 00:23:49,670
+supraventricular alesmias
+in the next few slides.
+
+335
+00:23:52,090 --> 00:23:55,550
+First, we'll look
+at atrial flutter.
+
+336
+00:23:55,870 --> 00:23:58,790
+It's known that
+atrial flutter is
+
+337
+00:23:58,790 --> 00:24:02,770
+caused by a reentry
+in the right atrium.
+
+338
+00:24:02,970 --> 00:24:07,230
+The reentry involves a
+narrow region between
+
+339
+00:24:07,230 --> 00:24:10,970
+inferior vena cava and
+the tricuspid valve.
+
+340
+00:24:10,970 --> 00:24:15,750
+This is known as the
+cavil tricuspid isthmus.
+
+341
+00:24:15,890 --> 00:24:20,010
+As a result, casted
+ablation of this
+
+342
+00:24:20,010 --> 00:24:24,770
+isthmus could be used
+to cure this allysmia.
+
+343
+00:24:26,810 --> 00:24:30,130
+Next is atrial fibrillation.
+
+344
+00:24:30,390 --> 00:24:34,430
+Atrial fibrillation is
+the most common clinically
+
+345
+00:24:34,430 --> 00:24:38,470
+significant allysmia.
+Atrial fibrillation
+
+346
+00:24:38,470 --> 00:24:42,710
+is caused by multiple re
+-entries in both atria.
+
+347
+00:24:43,210 --> 00:24:47,510
+Atrial fibrillation requires
+a trigger or ectopic
+
+348
+00:24:47,510 --> 00:24:54,010
+fossa to initiate the
+alethymia, and a substrate, the
+
+349
+00:24:54,010 --> 00:24:59,130
+remodeled atria, with
+dilatation, fibrosis, to
+
+350
+00:24:59,130 --> 00:25:03,590
+support multiple re-entries
+to maintain the alethymia.
+
+351
+00:25:03,590 --> 00:25:08,970
+In other words, in normal,
+healthy subjects, it's
+
+352
+00:25:08,970 --> 00:25:12,650
+not easy to induce and
+maintain atrial fibrillation.
+
+353
+00:25:12,790 --> 00:25:15,870
+Since most triggers are coming
+
+354
+00:25:15,870 --> 00:25:17,870
+from the pulmonary vein,
+
+355
+00:25:18,050 --> 00:25:22,850
+this is why pulmonary
+vein isolation is used
+
+356
+00:25:22,850 --> 00:25:26,150
+to cure atrial
+fibrillation in patients.
+
+357
+00:25:28,850 --> 00:25:32,510
+We'll look at
+atrioventricular nodal
+
+358
+00:25:32,510 --> 00:25:38,210
+reentrant tachycardia,
+AVNRT. By the name,
+
+359
+00:25:38,210 --> 00:25:41,390
+you should know the
+mechanism is reentry.
+
+360
+00:25:41,730 --> 00:25:44,710
+In AVNRT patients,
+
+361
+00:25:44,930 --> 00:25:49,270
+the AV node region is
+allegedly dissociated
+
+362
+00:25:49,270 --> 00:25:54,250
+into a fast pathway
+and a slow pathway, so
+
+363
+00:25:54,250 --> 00:25:58,380
+-called AV node dual
+pathway electrophysiology.
+
+364
+00:25:58,570 --> 00:26:01,410
+As we have discussed already,
+
+365
+00:26:01,830 --> 00:26:04,790
+a preliminary beat
+is necessary to
+
+366
+00:26:04,790 --> 00:26:09,490
+initiate AVNRT as
+shown in the figure.
+
+367
+00:26:10,770 --> 00:26:15,970
+Currently, cast ablation
+of the slow pathway is
+
+368
+00:26:15,970 --> 00:26:19,970
+used to cure this alizmia
+because because fast
+
+369
+00:26:19,970 --> 00:26:24,790
+pathway ablation has higher
+risk to induce AV block.
+
+370
+00:26:26,690 --> 00:26:31,530
+Now we'll look at
+atrioventricular
+
+371
+00:26:31,530 --> 00:26:35,010
+reentrant tachycardia, AVRT.
+
+372
+00:26:35,280 --> 00:26:39,530
+The arrhythmia is caused
+by an accessory pathway,
+
+373
+00:26:39,530 --> 00:26:44,430
+or in some patients,
+multiple accessory pathways
+
+374
+00:26:44,430 --> 00:26:48,170
+connecting the atrio
+and the ventricles.
+
+375
+00:26:48,810 --> 00:26:55,350
+In Wolff-Pakinsen
+-White WPW syndrome or
+
+376
+00:26:55,350 --> 00:26:58,730
+pre-excitation
+syndrome, the accessory
+
+377
+00:26:58,730 --> 00:27:03,110
+pathway activation
+can be seen on EKG.
+
+378
+00:27:03,270 --> 00:27:07,510
+However, in some patients,
+the accessory pathways
+
+379
+00:27:07,510 --> 00:27:12,910
+could be concealed, meaning
+the EKG could be normal.
+
+380
+00:27:13,620 --> 00:27:16,310
+Ablation of the
+accessor pathway
+
+381
+00:27:16,310 --> 00:27:19,310
+is used to cure the arrhythmia.
+
+382
+00:27:19,490 --> 00:27:26,210
+In AVRT, depending on the
+reentry circuit, if the
+
+383
+00:27:26,210 --> 00:27:31,230
+ventricles are activated
+normally by the Purkinje system,
+
+384
+00:27:31,230 --> 00:27:36,250
+then the QRS complex
+is normal or narrow.
+
+385
+00:27:36,260 --> 00:27:41,710
+If the range circuit
+is reversed, ventricles
+
+386
+00:27:41,710 --> 00:27:46,110
+are activated by the
+accessory pathway, then
+
+387
+00:27:46,110 --> 00:27:50,850
+the class complex is
+abnormal or widened.
+
+388
+00:27:53,630 --> 00:27:58,190
+As a minimum, you'll have
+to know WPW syndrome,
+
+389
+00:27:58,230 --> 00:28:03,930
+and you'll learn this in
+EKG lecture, the changes,
+
+390
+00:28:04,070 --> 00:28:07,190
+the delta wave,
+short PR interval,
+
+391
+00:28:07,410 --> 00:28:09,930
+and wide QIS complex.
+
+392
+00:28:13,610 --> 00:28:16,730
+Now we'll look at the
+ventricular arrhythmia.
+
+393
+00:28:19,130 --> 00:28:22,690
+Ventricular arrhythmias
+are always with
+
+394
+00:28:22,690 --> 00:28:27,630
+abnormal widened
+QRS complex because
+
+395
+00:28:27,630 --> 00:28:30,950
+the ventricles are
+activated abnormally.
+
+396
+00:28:31,270 --> 00:28:34,050
+We will look at premature
+
+397
+00:28:34,050 --> 00:28:36,250
+ventricular contraction PVC,
+
+398
+00:28:36,450 --> 00:28:39,890
+ventricular tachycardia and
+
+399
+00:28:39,890 --> 00:28:42,230
+ventricular fibrillation .
+
+400
+00:28:44,890 --> 00:28:49,230
+Premature ventricular
+contraction can be caused
+
+401
+00:28:49,230 --> 00:28:53,970
+by any of these mechanisms,
+abnormal automaticity,
+
+402
+00:28:54,220 --> 00:28:58,050
+triggered activity, or
+re-entry, as shown here.
+
+403
+00:28:59,270 --> 00:29:04,910
+PVC results in wide
+QIS complex on EKG.
+
+404
+00:29:06,860 --> 00:29:11,630
+Next, we'll look at
+ventricular tachycardia, VT.
+
+405
+00:29:11,830 --> 00:29:18,350
+VT is typically divided
+into monomorphic VT and
+
+406
+00:29:18,350 --> 00:29:22,650
+polymorphic VT, depending
+on the shape of the
+
+407
+00:29:22,650 --> 00:29:29,090
+QRS complex. If the QRS
+complex is more or less
+
+408
+00:29:29,090 --> 00:29:33,470
+the same, it's monomorphic
+ventricular tachycardia.
+
+409
+00:29:33,470 --> 00:29:37,910
+If the QIS complex keeps
+changing its shape,
+
+410
+00:29:37,910 --> 00:29:41,750
+it's the polymorphic
+ventricular tachycardia.
+
+411
+00:29:42,270 --> 00:29:44,990
+Monomorphic
+ventricular tachycardia
+
+412
+00:29:44,990 --> 00:29:47,950
+is typically seen
+in patients with
+
+413
+00:29:47,950 --> 00:29:51,930
+structural heart
+disease like ischemia,
+
+414
+00:29:52,890 --> 00:29:56,970
+non-ischemic
+cardiomyopsy, alysmogenic
+
+415
+00:29:56,970 --> 00:30:00,750
+right ventricular
+dysplasia. The mechanism
+
+416
+00:30:00,750 --> 00:30:05,810
+is predominantly
+reentry. However,
+
+417
+00:30:06,310 --> 00:30:10,230
+some monomorphic VT
+could also happen
+
+418
+00:30:10,230 --> 00:30:13,230
+in structurally
+normal hearts called
+
+419
+00:30:13,230 --> 00:30:16,070
+idiopathic ventricular
+tachycardia.
+
+420
+00:30:16,210 --> 00:30:21,130
+One type is outflow tract
+ventricular tachycardia.
+
+421
+00:30:21,270 --> 00:30:25,410
+It's believed to be caused
+by tricked activity.
+
+422
+00:30:25,590 --> 00:30:29,210
+Another type is
+fascicular ventricular
+
+423
+00:30:29,210 --> 00:30:32,870
+tachycardia. It's
+caused by reentry.
+
+424
+00:30:33,790 --> 00:30:41,050
+Polymorphic VT. In polymorphic
+VT, the QRS complex
+
+425
+00:30:41,050 --> 00:30:47,010
+keeps changing. A specific type
+of polymorphic VT is termed
+
+426
+00:30:47,010 --> 00:30:51,210
+to solder the points,
+meaning twisting the points.
+
+427
+00:30:51,630 --> 00:30:55,850
+Polymorphic VT is
+typically associated with
+
+428
+00:30:55,850 --> 00:31:00,610
+lung Coty syndrome, or
+cardiac channel process,
+
+429
+00:31:00,650 --> 00:31:02,810
+like Blugger syndrome,
+
+430
+00:31:03,250 --> 00:31:07,530
+short Coty syndrome,
+and catecholaminergic
+
+431
+00:31:07,530 --> 00:31:11,430
+polymorphic ventricular
+tachycardia, CPVT.
+
+432
+00:31:14,130 --> 00:31:20,270
+Long-COTY syndrome include
+inherited or congenital
+
+433
+00:31:20,270 --> 00:31:25,550
+Long-COTY syndrome and
+acquired Long-COTY syndrome.
+
+434
+00:31:25,710 --> 00:31:28,330
+First, we'll look at the
+
+435
+00:31:28,330 --> 00:31:31,450
+congenital Long-COTY syndrome.
+
+436
+00:31:31,510 --> 00:31:36,550
+Many genetic mutations
+have been identified in
+
+437
+00:31:36,550 --> 00:31:41,530
+congenital Long-COTY
+syndrome. A majority, three
+
+438
+00:31:41,530 --> 00:31:45,250
+-quarter, is caused by
+the first three types of
+
+439
+00:31:45,250 --> 00:31:50,150
+mutations, due to defects
+in either potassium
+
+440
+00:31:50,150 --> 00:31:54,210
+channel or gain of function
+of the sodium channel.
+
+441
+00:31:54,350 --> 00:31:58,990
+The mechanisms for Long
+-Coti syndrome induced
+
+442
+00:31:58,990 --> 00:32:02,510
+ventricular arrhythmia
+is triggered activity,
+
+443
+00:32:02,710 --> 00:32:07,790
+EAD, as we have discussed.
+In these patients,
+
+444
+00:32:07,950 --> 00:32:12,550
+because sympathetic excitation
+can exacerbate channel
+
+445
+00:32:12,550 --> 00:32:17,490
+abnormalities and further
+prolong COT interval,
+
+446
+00:32:17,770 --> 00:32:19,930
+so beta blocker is typically
+
+447
+00:32:19,930 --> 00:32:22,990
+used to prevent the arrhythmia.
+
+448
+00:32:25,190 --> 00:32:28,910
+As a minimum, you
+are required to know
+
+449
+00:32:28,910 --> 00:32:32,770
+the congenital Long
+-Cottie syndrome.
+
+450
+00:32:32,770 --> 00:32:35,890
+Note that in some patients, the
+
+451
+00:32:35,890 --> 00:32:38,470
+channel defect is
+poorly cardiac.
+
+452
+00:32:38,910 --> 00:32:41,710
+They have Long-Cottie syndrome,
+
+453
+00:32:41,710 --> 00:32:43,930
+but without other problems.
+
+454
+00:32:44,090 --> 00:32:45,030
+However,
+
+455
+00:32:45,350 --> 00:32:48,830
+in some patients, the
+channel defect could also
+
+456
+00:32:48,830 --> 00:32:53,570
+affect sensory neuron
+leading to hearing loss.
+
+457
+00:32:53,570 --> 00:32:57,250
+This is why when you
+interview the patients,
+
+458
+00:32:57,250 --> 00:33:01,290
+you have to ask whether
+the patients have
+
+459
+00:33:01,290 --> 00:33:05,390
+a hearing problem in
+Lung-COTI patients.
+
+460
+00:33:09,590 --> 00:33:15,710
+Acquired Lung-COTI syndrome
+refers to some people,
+
+461
+00:33:15,710 --> 00:33:20,210
+normally they have normal
+COT interval. However,
+
+462
+00:33:20,210 --> 00:33:24,470
+when these people take
+some medications or under
+
+463
+00:33:24,470 --> 00:33:28,590
+certain conditions, they
+can develop lung COT.
+
+464
+00:33:28,690 --> 00:33:33,870
+These people may have some
+subtle genetic defects.
+
+465
+00:33:37,910 --> 00:33:42,390
+This table lists some of
+the common medications
+
+466
+00:33:42,390 --> 00:33:47,310
+or conditions which
+may lead to Lung-CoT.
+
+467
+00:33:47,530 --> 00:33:53,890
+Note that here the
+class 1C anti-arythmic
+
+468
+00:33:53,890 --> 00:33:58,730
+medication causes Lung
+-CoT, not class 1B.
+
+469
+00:34:01,970 --> 00:34:05,990
+Here is the minimum
+requirement for acquired
+
+470
+00:34:05,990 --> 00:34:11,610
+short QT syndrome,
+especially these A, B,
+
+471
+00:34:11,810 --> 00:34:16,030
+C, D, E medications,
+you have to know.
+
+472
+00:34:19,240 --> 00:34:22,150
+We'll look at
+short QT syndrome.
+
+473
+00:34:22,320 --> 00:34:27,410
+This is opposite to
+long QT due to gain of
+
+474
+00:34:27,410 --> 00:34:30,990
+function of potassium
+channels, leading to
+
+475
+00:34:30,990 --> 00:34:36,230
+rapid repolarization.
+In short QT patients,
+
+476
+00:34:36,870 --> 00:34:40,890
+the ventricules
+repolarize faster with
+
+477
+00:34:40,890 --> 00:34:46,010
+very short AP duration
+and QT interval.
+
+478
+00:34:46,090 --> 00:34:49,350
+The short action
+potential duration results
+
+479
+00:34:49,350 --> 00:34:53,810
+in short ERP and
+short wave lengths,
+
+480
+00:34:53,810 --> 00:34:58,150
+thus favoring formation
+of multiple ranges.
+
+481
+00:35:01,560 --> 00:35:05,850
+Now we will look at the
+Bluger syndrome. This is
+
+482
+00:35:05,850 --> 00:35:10,830
+due to diminished inward
+sodium current, particularly
+
+483
+00:35:10,830 --> 00:35:16,210
+in right ventricular
+outflow tract apicardium
+
+484
+00:35:17,470 --> 00:35:23,770
+region, leading to apicardial
+dispersion of repolarization,
+
+485
+00:35:23,770 --> 00:35:27,170
+as shown in these
+action potential traces.
+
+486
+00:35:28,250 --> 00:35:33,350
+In EKG, many patients
+have characteristic EKG
+
+487
+00:35:33,350 --> 00:35:38,490
+abnormalities, as shown
+here, a curve-type ST
+
+488
+00:35:38,490 --> 00:35:43,690
+segment elevation in
+precordial leads V1 through
+
+489
+00:35:43,690 --> 00:35:49,210
+V3, which corresponds
+to the RV or T region.
+
+490
+00:35:51,960 --> 00:35:54,250
+You are required to know
+
+491
+00:35:54,250 --> 00:35:56,770
+Blugard syndrome.
+As shown here,
+
+492
+00:35:57,130 --> 00:35:59,950
+Blugard syndrome
+patients have increased
+
+493
+00:35:59,950 --> 00:36:02,130
+risk to develop ventricular
+
+494
+00:36:02,130 --> 00:36:05,050
+tachylythmias and
+sudden cardiac death.
+
+495
+00:36:05,530 --> 00:36:06,890
+Typically,
+
+496
+00:36:07,130 --> 00:36:12,290
+implantable cardioverter
+defibrillator is needed
+
+497
+00:36:12,290 --> 00:36:16,490
+to prevent sudden cardiac
+death in these patients.
+
+498
+00:36:18,510 --> 00:36:21,990
+Now we'll look at
+catecholaminergic
+
+499
+00:36:21,990 --> 00:36:25,950
+polymorphic VT, CPVT.
+
+500
+00:36:25,950 --> 00:36:30,350
+This is due to genetic
+disorders of calcium
+
+501
+00:36:30,350 --> 00:36:34,070
+release channels or
+cardiac low-ending
+
+502
+00:36:34,070 --> 00:36:38,590
+receptor or their
+controlling proteins.
+
+503
+00:36:39,110 --> 00:36:42,870
+In normal case,
+low-ending receptor
+
+504
+00:36:42,870 --> 00:36:46,290
+should be closed
+properly in diastole.
+
+505
+00:36:46,410 --> 00:36:49,150
+In CPVT patients,
+
+506
+00:36:49,510 --> 00:36:52,270
+the winding receptor is leaky,
+
+507
+00:36:52,490 --> 00:36:55,470
+like the leaky faucet here.
+
+508
+00:36:55,970 --> 00:37:01,470
+The leaky winding receptor
+leads to elevated calcium
+
+509
+00:37:01,470 --> 00:37:07,310
+in diastole, thus activating
+the sodium calcium
+
+510
+00:37:07,310 --> 00:37:12,270
+exchanger and leading to
+DAD triggered activity.
+
+511
+00:37:13,340 --> 00:37:17,430
+CPVT is typically seen
+in structurally normal
+
+512
+00:37:17,430 --> 00:37:22,810
+heart because sympathetic
+excitation like exercise
+
+513
+00:37:22,810 --> 00:37:28,650
+or acute emotion can trick
+CPVT. Beta blocker is
+
+514
+00:37:28,650 --> 00:37:32,850
+typically used to prevent
+CPVT in these patients.
+
+515
+00:37:35,050 --> 00:37:38,770
+Finally, we'll look at
+ventricular fibrillation
+
+516
+00:37:38,770 --> 00:37:43,630
+. Like in atrial
+fibrillation, ventricular
+
+517
+00:37:43,630 --> 00:37:47,290
+fibrillation can be triggered
+by any of these three
+
+518
+00:37:47,290 --> 00:37:51,770
+mechanisms and maintained
+by the multiple re
+
+519
+00:37:51,770 --> 00:37:56,210
+-entries. When ventricular
+fibrillation occurs,
+
+520
+00:37:56,750 --> 00:38:00,810
+the ventricles lose
+coordinated contraction and
+
+521
+00:38:00,810 --> 00:38:05,510
+fail to pump blood, thus
+the patient is dying.
+
+522
+00:38:06,380 --> 00:38:08,630
+Defibrillation is
+the only effective
+
+523
+00:38:08,630 --> 00:38:11,810
+therapy to terminate
+atrial fibrillation.
+
+524
+00:38:12,370 --> 00:38:15,730
+Here is the
+question, what's the
+
+525
+00:38:15,730 --> 00:38:18,790
+mechanism for
+defibrillation to work?
+
+526
+00:38:22,850 --> 00:38:26,130
+Because in ventricular
+fibrillation,
+
+527
+00:38:26,130 --> 00:38:28,610
+there are multiple re-entries.
+
+528
+00:38:28,770 --> 00:38:33,190
+The electrical shock
+can excite all excitable
+
+529
+00:38:33,190 --> 00:38:36,730
+gaps in multiple re
+-entries. Thus, the
+
+530
+00:38:36,730 --> 00:38:40,990
+whole heart will be in
+refractory and wait for
+
+531
+00:38:40,990 --> 00:38:45,250
+the sinus node to
+initiate a new heartbeat.
+
+532
+00:38:45,250 --> 00:38:46,790
+That's the mechanism.
+
+533
+00:38:50,050 --> 00:38:52,990
+There are two terminologies,
+
+534
+00:38:53,110 --> 00:38:56,990
+cardioversion versus
+defibrillation.
+
+535
+00:38:57,190 --> 00:39:00,910
+You have to know that
+defibrillation is
+
+536
+00:39:00,910 --> 00:39:04,270
+used for ventricular
+fibrillation only.
+
+537
+00:39:04,770 --> 00:39:06,350
+In this case,
+
+538
+00:39:06,610 --> 00:39:10,950
+the synchronizer button
+should be turned off,
+
+539
+00:39:10,950 --> 00:39:14,570
+so the defibrillator
+can deliver the shock
+
+540
+00:39:14,570 --> 00:39:18,550
+immediately once you place
+the discharge button.
+
+541
+00:39:18,930 --> 00:39:22,890
+Because in ventricular
+fibrillation,
+
+542
+00:39:22,890 --> 00:39:27,830
+the EKG signal may
+not be large enough
+
+543
+00:39:27,830 --> 00:39:30,850
+to trigger the shock.
+In other words,
+
+544
+00:39:31,190 --> 00:39:35,440
+the machine may not deliver
+the shock if the synchronizer
+
+545
+00:39:35,630 --> 00:39:40,950
+is on during ventricular
+fibrillation. Ventricular
+
+546
+00:39:40,950 --> 00:39:44,950
+fibrillation normally requires
+higher energy compared
+
+547
+00:39:44,950 --> 00:39:50,690
+with cardioversion, while
+cardioversion is used for
+
+548
+00:39:50,690 --> 00:39:54,690
+other tachyarrhythmias,
+such as atrial fibrillation,
+
+549
+00:39:55,330 --> 00:39:58,570
+proxysmal superventricular
+tachycardia, or even
+
+550
+00:39:58,570 --> 00:40:02,770
+ventricular tachycardia,
+but not for ventricular
+
+551
+00:40:02,770 --> 00:40:07,400
+fibrillation. In this
+case, the synchronizer
+
+552
+00:40:07,400 --> 00:40:12,410
+button should be turned
+on and make sure it's
+
+553
+00:40:12,410 --> 00:40:18,510
+synchronized with the R
+wave of the QRS complex.
+
+554
+00:40:19,030 --> 00:40:23,510
+Avoid not on the T
+wave. That's important.
+
+555
+00:40:24,650 --> 00:40:30,170
+So, here is the another
+question in cardioversion.
+
+556
+00:40:30,330 --> 00:40:33,430
+Why the shock should
+be synchronized
+
+557
+00:40:33,430 --> 00:40:37,870
+with the R wave,
+not the T wave?
+
+558
+00:40:40,610 --> 00:40:45,050
+As you know, the QRS complex is
+
+559
+00:40:45,050 --> 00:40:48,270
+produced by ventricular
+depolarization.
+
+560
+00:40:48,310 --> 00:40:52,230
+The R wave indicates
+that the ventricles
+
+561
+00:40:52,230 --> 00:40:57,410
+are depolarized and
+in refractory is
+
+562
+00:40:57,410 --> 00:41:00,430
+the safest time to
+deliver the shock.
+
+563
+00:41:01,580 --> 00:41:06,210
+If the shock is
+delivered on T wave, then
+
+564
+00:41:06,210 --> 00:41:09,870
+ventricular fibrillation
+could be induced because
+
+565
+00:41:09,870 --> 00:41:13,810
+from the peak of the T
+wave to the end of the
+
+566
+00:41:13,810 --> 00:41:18,430
+T wave, the heart is
+in a vulnerable period.
+
+567
+00:41:18,630 --> 00:41:21,230
+That's why you have to avoid
+
+568
+00:41:21,230 --> 00:41:23,890
+this period to
+deliver the shock.
+
+569
+00:41:26,090 --> 00:41:30,990
+Here is the summary slide.
+These are the contents
+
+570
+00:41:30,990 --> 00:41:35,250
+you have just learned
+and expected to master.
+
+571
+00:41:37,700 --> 00:41:40,650
+Finally, here is
+the link for your
+
+572
+00:41:40,650 --> 00:41:44,490
+feedback. Any comments
+or suggestions are
+
+573
+00:41:44,490 --> 00:41:47,670
+welcome and thank you
+for your attention.

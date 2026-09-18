@@ -1,0 +1,5722 @@
+1
+00:00:03,100 --> 00:00:05,960
+Hey everyone, this is Dr.
+Ermin Talley, here with
+
+2
+00:00:05,960 --> 00:00:08,670
+session 3 in our series
+on clinical cardiology.
+
+3
+00:00:08,670 --> 00:00:11,000
+Last lecture, we
+focused on blood flow
+
+4
+00:00:11,000 --> 00:00:13,020
+through the coronary
+arteries and how these
+
+5
+00:00:13,020 --> 00:00:15,180
+correspond to specific
+lead locations.
+
+6
+00:00:15,360 --> 00:00:17,400
+Afterwards, we jumped
+into the approach
+
+7
+00:00:17,400 --> 00:00:19,880
+of reading an AKG
+from start to finish.
+
+8
+00:00:20,120 --> 00:00:22,720
+Now, we'll discuss
+what happens when rate
+
+9
+00:00:22,720 --> 00:00:25,260
+and a rhythm are
+disturbed in some fashion.
+
+10
+00:00:25,260 --> 00:00:27,840
+This is also known
+as an arrhythmia.
+
+11
+00:00:31,100 --> 00:00:34,260
+so these are the deception
+objectives for this
+
+12
+00:00:34,260 --> 00:00:37,480
+lecture the questions on
+your upcoming exams your pre
+
+13
+00:00:37,480 --> 00:00:40,400
+-comps and comps will
+reflect these objectives if
+
+14
+00:00:40,400 --> 00:00:42,140
+you can answer these in
+your own words you're
+
+15
+00:00:42,140 --> 00:00:44,900
+probably in a good spot and
+I've included in the bottom
+
+16
+00:00:44,900 --> 00:00:47,300
+right hand corner some
+references to first aid
+
+17
+00:00:47,300 --> 00:00:50,140
+in case you're using it
+as a supplemental tool so
+
+18
+00:00:55,570 --> 00:00:59,190
+before we begin these
+lectures I do want to
+
+19
+00:00:59,190 --> 00:01:01,950
+mention are just the
+beginning of your ekg
+
+20
+00:01:01,950 --> 00:01:04,810
+learning and it should be
+supplemented by ECG Books
+
+21
+00:01:04,810 --> 00:01:07,270
+and Dr. Cohn's workshop,
+where you'll get
+
+22
+00:01:07,270 --> 00:01:11,710
+more exposure and practice
+into reading AKGs.
+
+23
+00:01:11,950 --> 00:01:16,330
+So now, before we
+jump into arrhythmias,
+
+24
+00:01:16,330 --> 00:01:18,010
+it's important for
+us to understand what
+
+25
+00:01:18,010 --> 00:01:21,330
+an arrhythmia is.
+So in an arrhythmia,
+
+26
+00:01:21,690 --> 00:01:25,870
+A refers to lack of or
+not, and arrhythmia refers
+
+27
+00:01:25,870 --> 00:01:29,450
+to rhythm, making
+arrhythmia refer to a lack
+
+28
+00:01:29,450 --> 00:01:32,990
+of normal sinus rhythm.
+A term I don't use much
+
+29
+00:01:32,990 --> 00:01:35,720
+what you may see in some
+textbooks is dysarrhythmia,
+
+30
+00:01:35,720 --> 00:01:38,130
+which refers to a rhythm
+that's disorganized
+
+31
+00:01:38,130 --> 00:01:40,310
+so it doesn't work
+properly. You can think
+
+32
+00:01:40,310 --> 00:01:43,610
+of the word dysfunction
+as an example of this.
+
+33
+00:01:44,140 --> 00:01:45,990
+Dysarrhythmia may
+be used in a similar
+
+34
+00:01:45,990 --> 00:01:49,130
+fashion as arrhythmia,
+but I haven't really
+
+35
+00:01:49,130 --> 00:01:52,310
+seen it used that
+often, but both are used
+
+36
+00:01:52,310 --> 00:01:54,590
+as umbrella terms for
+rhythm abnormalities.
+
+37
+00:01:55,470 --> 00:01:57,350
+Tachyarrhythmia refers
+to an arrhythmia
+
+38
+00:01:57,350 --> 00:02:00,410
+that causes a fast
+heart rate, tachycardia.
+
+39
+00:02:00,850 --> 00:02:04,250
+Bradycardia or
+bradyrhythmia refers to an
+
+40
+00:02:04,250 --> 00:02:07,120
+arrhythmia that causes
+a bradycardic rate.
+
+41
+00:02:07,330 --> 00:02:10,990
+Like I mentioned in previous
+lectures, you can also
+
+42
+00:02:10,990 --> 00:02:14,210
+have an abnormal rhythm
+with a normal rate. Some
+
+43
+00:02:14,210 --> 00:02:16,690
+of the pathologies that
+we've discussed and will
+
+44
+00:02:16,690 --> 00:02:19,710
+discuss, such as atrial
+fibrillation, are treated
+
+45
+00:02:19,710 --> 00:02:22,790
+chronically with rate
+control if attempts are made
+
+46
+00:02:22,790 --> 00:02:25,630
+to restore the normal sinus
+rhythm are unsuccessful.
+
+47
+00:02:25,650 --> 00:02:28,170
+In some of these
+patients, they walk around
+
+48
+00:02:28,170 --> 00:02:31,250
+asymptomatic with a normal
+rate but an abnormal rhythm.
+
+49
+00:02:37,990 --> 00:02:41,130
+Ultimately, why are these
+potentially dangerous? Why
+
+50
+00:02:41,130 --> 00:02:43,630
+do we even need to care
+as physicians whether or
+
+51
+00:02:43,630 --> 00:02:46,350
+not our patients are in
+attacky or brady arrhythmias?
+
+52
+00:02:46,770 --> 00:02:49,580
+So this brings us back to
+a little bit of physiology.
+
+53
+00:02:50,310 --> 00:02:53,190
+So reviewing close friend
+of ours from when we were
+
+54
+00:02:53,190 --> 00:02:56,330
+pre-med, the cardiac output
+equation, we can recall that
+
+55
+00:02:56,330 --> 00:02:58,950
+a potential consequence
+of changing heart rate is
+
+56
+00:02:58,950 --> 00:03:02,130
+changing the cardiac output.
+The cardiac output is equal
+
+57
+00:03:02,130 --> 00:03:04,850
+to the stroke volume times
+heart rate. Stroke volume
+
+58
+00:03:04,850 --> 00:03:08,150
+is the difference between
+end diastolic filling or end
+
+59
+00:03:08,150 --> 00:03:11,370
+of filling and end systolic
+volume, end of contraction.
+
+60
+00:03:11,470 --> 00:03:14,690
+In these arrhythmias,
+whether they're tacky or
+
+61
+00:03:14,690 --> 00:03:18,030
+bradyarrhythmias, stroke volume
+can go up or down depending
+
+62
+00:03:18,030 --> 00:03:21,210
+on the circumstance to
+maintain cardiac output. A good
+
+63
+00:03:21,210 --> 00:03:23,110
+example of this is when
+you have a bradyarrhythmia.
+
+64
+00:03:23,210 --> 00:03:25,970
+Your stroke volume will
+increase to maintain blood
+
+65
+00:03:25,970 --> 00:03:30,570
+supply or oxygenation. In a
+pathologic state or in a state
+
+66
+00:03:30,570 --> 00:03:32,890
+where your body doesn't have
+the capacity to maintain
+
+67
+00:03:32,890 --> 00:03:35,630
+a cardiac output, this is
+when we run into trouble.
+
+68
+00:03:35,730 --> 00:03:38,530
+The arrows seen on
+this slide are an
+
+69
+00:03:38,530 --> 00:03:40,390
+example of how
+cardiac output may be
+
+70
+00:03:40,390 --> 00:03:43,170
+balanced from a
+changing heart rate.
+
+71
+00:03:43,450 --> 00:03:45,990
+There are exceptions to
+these arrows, but I won't
+
+72
+00:03:45,990 --> 00:03:48,330
+go into them because I
+would just be walking
+
+73
+00:03:48,330 --> 00:03:51,050
+down a rabbit hole of
+physiologic mechanisms and
+
+74
+00:03:51,050 --> 00:03:54,290
+like all of medicine, there
+are always exceptions.
+
+75
+00:03:55,050 --> 00:03:57,470
+Here's the thing though.
+In this discussion thus
+
+76
+00:03:57,470 --> 00:04:00,410
+far, we've only mentioned
+heart rate, not heart
+
+77
+00:04:00,410 --> 00:04:03,870
+rhythm. Why is heart rhythm
+a problem? Well, they
+
+78
+00:04:03,870 --> 00:04:05,710
+usually are associated
+with a change in cardiac
+
+79
+00:04:05,710 --> 00:04:08,470
+output as they exacerbate
+an abnormal rhythm.
+
+80
+00:04:08,470 --> 00:04:10,810
+There are other problems
+related to specific
+
+81
+00:04:10,810 --> 00:04:13,730
+tachyrythmus that we'll
+discuss later in the lecture,
+
+82
+00:04:13,730 --> 00:04:16,890
+but what I want you to
+get out of this slide
+
+83
+00:04:16,890 --> 00:04:19,590
+is that there are mechanisms
+in place to restore
+
+84
+00:04:19,590 --> 00:04:23,190
+cardiac output when heart
+rate is abnormal. So,
+
+85
+00:04:30,010 --> 00:04:33,310
+when you sit down to perform
+an EKG, you're told to
+
+86
+00:04:33,310 --> 00:04:36,210
+remove your clothes, expose
+your chest for the precordial
+
+87
+00:04:36,210 --> 00:04:39,270
+leads, then once the EKG
+technician presses start,
+
+88
+00:04:39,270 --> 00:04:42,950
+the patient is informed
+to not move or talk. This
+
+89
+00:04:42,950 --> 00:04:45,870
+minimizes the potential of
+what is known as artifact.
+
+90
+00:04:46,250 --> 00:04:48,450
+You may have been exposed
+to artifact in your
+
+91
+00:04:48,450 --> 00:04:51,630
+radiology lectures when
+something shows up in an
+
+92
+00:04:51,630 --> 00:04:54,830
+image that is a result
+of some external, not
+
+93
+00:04:54,830 --> 00:04:57,990
+clinically significant, or
+any other disruption of your
+
+94
+00:04:57,990 --> 00:05:01,430
+picture. But in cardiology,
+artifact refers to
+
+95
+00:05:01,430 --> 00:05:03,790
+anything that disrupts
+your cardiac monitoring.
+
+96
+00:05:03,910 --> 00:05:06,710
+Muscle tremors or
+contractions are one of the
+
+97
+00:05:06,710 --> 00:05:09,310
+most common examples
+of artifact for ECGs.
+
+98
+00:05:09,330 --> 00:05:13,150
+A wandering baseline
+caused by respirations
+
+99
+00:05:13,150 --> 00:05:15,110
+can also look like
+something is going on,
+
+100
+00:05:15,110 --> 00:05:17,550
+when clinically it
+is insignificant.
+
+101
+00:05:24,760 --> 00:05:26,760
+On the screen in the
+bottom right-hand
+
+102
+00:05:26,760 --> 00:05:29,200
+corner, you can see an
+example of artifact.
+
+103
+00:05:29,320 --> 00:05:32,400
+Dr. Cohen can attest that
+artifact is seen on a lot
+
+104
+00:05:32,400 --> 00:05:35,120
+of ECGs, And you as
+well, during your 30-year
+
+105
+00:05:35,120 --> 00:05:38,780
+rotations and beyond, will
+see many ECGs with artifact.
+
+106
+00:05:39,380 --> 00:05:41,620
+Now the trick as a
+medical student is
+
+107
+00:05:41,620 --> 00:05:43,020
+identifying whether
+what you're looking
+
+108
+00:05:43,020 --> 00:05:46,780
+at is an arrhythmia
+or is it artifact.
+
+109
+00:05:47,720 --> 00:05:50,980
+One way to identify this
+in the case of a loss of
+
+110
+00:05:50,980 --> 00:05:54,920
+signal artifact is to see
+if the QRS marches on at the
+
+111
+00:05:54,920 --> 00:05:58,020
+same rate before and
+after the reading. In this
+
+112
+00:05:58,020 --> 00:06:00,920
+case, you can see the QRS
+complexes marching through
+
+113
+00:06:00,920 --> 00:06:04,180
+the artifact shown on the
+rhythm strip on the screen.
+
+114
+00:06:04,360 --> 00:06:08,240
+Here, you can use ECG
+calipers seen on the right,
+
+115
+00:06:14,480 --> 00:06:15,040
+though.
+
+116
+00:06:15,220 --> 00:06:17,440
+Here we have a question
+related to Objective 1.
+
+117
+00:06:17,720 --> 00:06:20,100
+Again, you can pause
+your screen for about 10
+
+118
+00:06:20,100 --> 00:06:22,540
+seconds and come back
+to us when you're ready.
+
+119
+00:06:28,210 --> 00:06:28,810
+Now,
+
+120
+00:06:29,230 --> 00:06:32,930
+artifact can hide
+arrhythmia, true or false.
+
+121
+00:06:33,590 --> 00:06:37,870
+Answer, as you correctly
+stated, is true. So
+
+122
+00:06:37,870 --> 00:06:40,630
+while artifact is not
+clinically significant
+
+123
+00:06:40,630 --> 00:06:43,190
+and also referred
+to as noise, it can
+
+124
+00:06:43,190 --> 00:06:47,030
+definitely get in the way
+of EKG interpretation.
+
+125
+00:06:47,100 --> 00:06:50,190
+If you get an EKG with
+significant artifact, you
+
+126
+00:06:50,190 --> 00:06:52,350
+would definitely want
+to repeat it as an
+
+127
+00:06:52,350 --> 00:06:54,970
+arrhythmia, like her premature
+ventricular contraction,
+
+128
+00:06:54,970 --> 00:06:58,290
+can be hiding beneath
+or within the artifact.
+
+129
+00:07:05,530 --> 00:07:08,170
+And another question
+related to objective one.
+
+130
+00:07:08,170 --> 00:07:08,790
+Again,
+
+131
+00:07:09,170 --> 00:07:11,450
+pause the screen and come back
+
+132
+00:07:11,450 --> 00:07:13,190
+to us in about 10 seconds. So
+
+133
+00:07:20,630 --> 00:07:23,330
+now we have an 82-year
+-old male with a past
+
+134
+00:07:23,330 --> 00:07:25,890
+medical history of type 2
+diabetes, congestive heart
+
+135
+00:07:25,890 --> 00:07:28,630
+failure, and generalized
+anxiety disorder,
+
+136
+00:07:28,630 --> 00:07:32,150
+experiencing dyspnea and
+peripheral edema up to his
+
+137
+00:07:32,150 --> 00:07:35,250
+knees. What is the
+mechanism of these findings?
+
+138
+00:07:37,490 --> 00:07:41,030
+Is it increased cardiac
+output, decreased heart
+
+139
+00:07:41,030 --> 00:07:43,590
+rate, increased cardiac
+output, decreased total
+
+140
+00:07:43,590 --> 00:07:45,930
+peripheral resistance?
+is to increase cardiac
+
+141
+00:07:45,930 --> 00:07:49,510
+output, decrease stroke
+volume, decrease cardiac
+
+142
+00:07:49,510 --> 00:07:51,930
+output, decrease heart
+rate, decrease cardiac
+
+143
+00:07:51,930 --> 00:07:54,450
+output, decrease total
+peripheral resistance,
+
+144
+00:07:54,670 --> 00:07:56,150
+decrease cardiac output,
+
+145
+00:07:56,150 --> 00:07:57,410
+decrease stroke volume.
+
+146
+00:07:58,930 --> 00:08:02,490
+Now before we dive into
+this, let's look at the
+
+147
+00:08:02,490 --> 00:08:06,390
+question stem. This patient
+is experiencing symptoms
+
+148
+00:08:06,570 --> 00:08:11,050
+related to heart failure,
+where a low ejection fraction
+
+149
+00:08:11,050 --> 00:08:14,720
+means that the blood is
+not sufficiently perfusing
+
+150
+00:08:14,720 --> 00:08:17,410
+tissues. With this in
+mind, we need to remind
+
+151
+00:08:17,410 --> 00:08:20,630
+ourselves of the equation
+for cardiac output. Cardiac
+
+152
+00:08:20,630 --> 00:08:23,650
+output is equal to stroke
+volume times heart rate.
+
+153
+00:08:23,750 --> 00:08:26,890
+Either heart rate or
+stroke volume has to lower
+
+154
+00:08:26,890 --> 00:08:30,190
+to satisfy the equation
+in this situation.
+
+155
+00:08:30,210 --> 00:08:32,950
+So another way to think
+of stroke volume is
+
+156
+00:08:32,950 --> 00:08:35,770
+endiastolic volume minus
+end systolic volume.
+
+157
+00:08:35,770 --> 00:08:38,410
+So as ejection fraction
+decreases, this
+
+158
+00:08:38,410 --> 00:08:40,590
+also means that the
+stroke volume decreases.
+
+159
+00:08:40,720 --> 00:08:42,690
+So in this patient,
+we have a decreased
+
+160
+00:08:42,690 --> 00:08:46,050
+cardiac output and a
+decreased stroke volume,
+
+161
+00:08:46,070 --> 00:08:48,750
+making our last option
+on our screen the
+
+162
+00:08:48,750 --> 00:08:51,110
+correct answer, as
+you correctly stated.
+
+163
+00:08:56,610 --> 00:08:59,110
+So now we'll discuss
+the three mechanisms of
+
+164
+00:08:59,110 --> 00:09:02,130
+arrhythmia as they pertain
+to this lecture. So the
+
+165
+00:09:02,130 --> 00:09:04,760
+three mechanisms we have
+here are automaticity,
+
+166
+00:09:05,390 --> 00:09:08,570
+triggered activity, and
+re-entry. So now let's
+
+167
+00:09:08,570 --> 00:09:10,450
+break down these words
+and try to figure out
+
+168
+00:09:10,450 --> 00:09:12,790
+to the best of our
+ability what these mean.
+
+169
+00:09:12,790 --> 00:09:16,550
+So number one, automaticity.
+So automaticity
+
+170
+00:09:16,550 --> 00:09:18,910
+refers to the property of
+cardiac cells to generate
+
+171
+00:09:18,910 --> 00:09:22,030
+spontaneous electrical
+action potentials. It's
+
+172
+00:09:22,030 --> 00:09:24,310
+an intrinsic ability that
+cardiac cells have in
+
+173
+00:09:24,310 --> 00:09:28,090
+the SA node, AV node, and
+that can be problematic
+
+174
+00:09:28,090 --> 00:09:31,170
+when they don't do this
+in a normal fashion.
+
+175
+00:09:31,290 --> 00:09:34,390
+This refers to pacemaking
+abilities, phase four of
+
+176
+00:09:34,390 --> 00:09:37,090
+the cardiac cells. So if
+you're talking about the
+
+177
+00:09:37,090 --> 00:09:39,910
+SA node, which is the
+usual dominant pacemaker,
+
+178
+00:09:39,910 --> 00:09:42,810
+normal automaticity would
+refer to firing that's
+
+179
+00:09:42,810 --> 00:09:46,210
+appropriate for physiologic
+demands at a certain time.
+
+180
+00:09:46,670 --> 00:09:48,910
+Abnormal automaticity
+would be if a patient
+
+181
+00:09:48,910 --> 00:09:50,790
+is tachycardic at
+rest, for example.
+
+182
+00:09:50,950 --> 00:09:53,310
+Normal levels of
+automaticity were described
+
+183
+00:09:53,310 --> 00:09:54,850
+in a prior lecture,
+and if you remember
+
+184
+00:09:54,850 --> 00:09:57,630
+60 to 100 beats per
+minute, you're correct.
+
+185
+00:09:57,750 --> 00:10:00,530
+So an example of
+automaticity abnormalities
+
+186
+00:10:00,530 --> 00:10:03,650
+includes inappropriate
+sinus tachycardia or an
+
+187
+00:10:03,650 --> 00:10:06,970
+accelerated junctional
+rhythm, which is when the AV
+
+188
+00:10:06,970 --> 00:10:10,550
+node is pacing or beating
+faster than the SA node.
+
+189
+00:10:10,850 --> 00:10:12,990
+Hereditary
+bradycardia is also a
+
+190
+00:10:12,990 --> 00:10:15,490
+consequence of
+impaired automaticity.
+
+191
+00:10:15,490 --> 00:10:17,950
+So basically, anything
+that impairs the intrinsic
+
+192
+00:10:17,950 --> 00:10:20,930
+ability of the SA node to
+function and produce an action
+
+193
+00:10:20,930 --> 00:10:24,010
+potential can be linked to
+impaired automaticity. An
+
+194
+00:10:24,010 --> 00:10:27,190
+external example of automaticity
+is a pacemaker. So when
+
+195
+00:10:27,190 --> 00:10:31,130
+a person has a pacemaker
+and fully dependent on it,
+
+196
+00:10:31,130 --> 00:10:32,870
+the pacemaker
+controls the rate at
+
+197
+00:10:32,870 --> 00:10:34,310
+which their heart
+is beating at,
+
+198
+00:10:34,310 --> 00:10:36,570
+acting like the SA
+node, generating the
+
+199
+00:10:36,570 --> 00:10:38,710
+action potentials to
+control the heart.
+
+200
+00:10:39,230 --> 00:10:41,990
+So next, we have
+triggered activity.
+
+201
+00:10:42,110 --> 00:10:44,430
+that refers to rhythms
+that have an underlying
+
+202
+00:10:44,430 --> 00:10:48,330
+provocation, aka triggered.
+These come up under
+
+203
+00:10:48,330 --> 00:10:51,130
+certain conditions like
+hypoxia, tissue injury,
+
+204
+00:10:51,130 --> 00:10:53,810
+electrolyte disturbances,
+etc. And these can the
+
+205
+00:10:53,810 --> 00:10:56,570
+layers slow down the
+repolarization process. So
+
+206
+00:10:56,570 --> 00:10:59,330
+the result, another
+depolarization that happens.
+
+207
+00:10:59,490 --> 00:11:03,030
+So when these depolarizations
+succeed in bringing cells
+
+208
+00:11:03,030 --> 00:11:05,570
+to the threshold potential
+that they need to fire
+
+209
+00:11:05,570 --> 00:11:09,130
+another action potential,
+this triggers another action
+
+210
+00:11:09,130 --> 00:11:11,850
+potential, and that causes
+the heart muscle to contract.
+
+211
+00:11:11,850 --> 00:11:14,630
+This isn't normal under
+normal physiology, so the
+
+212
+00:11:14,630 --> 00:11:17,350
+degree or lack of contraction
+becomes problematic.
+
+213
+00:11:17,350 --> 00:11:20,970
+A good example of this is
+torsades de pointe, which
+
+214
+00:11:20,970 --> 00:11:24,650
+comes from a prolonged QT
+interval or electrolyte
+
+215
+00:11:24,650 --> 00:11:28,150
+disturbances or ventricular
+fibrillation, which comes from
+
+216
+00:11:28,150 --> 00:11:32,130
+usually most commonly cardiac
+ischemia. This is also
+
+217
+00:11:32,130 --> 00:11:35,690
+sudden onset and offset.
+Feel free to refer to Dr.
+
+218
+00:11:35,690 --> 00:11:39,370
+Zhang's lectures on the
+pathophysiology of arrhythmias.
+
+219
+00:11:40,390 --> 00:11:44,190
+So last but not least,
+reentry. So reentry is
+
+220
+00:11:44,190 --> 00:11:46,370
+fundamentally different
+from the other mechanisms
+
+221
+00:11:46,370 --> 00:11:48,870
+we'll talk about, which
+is why I saved it for
+
+222
+00:11:48,870 --> 00:11:51,470
+number three. So unlike
+automaticity and triggered
+
+223
+00:11:51,470 --> 00:11:53,770
+activity, where the
+focal point revolves
+
+224
+00:11:53,770 --> 00:11:56,610
+abnormalities in the action
+potential within cells,
+
+225
+00:11:56,730 --> 00:11:58,830
+reentry involves electrical
+signals that have
+
+226
+00:11:58,830 --> 00:12:01,170
+left their site of origin.
+So they've left the
+
+227
+00:12:01,170 --> 00:12:04,290
+SA node, AV node, etc.
+You can think more
+
+228
+00:12:04,290 --> 00:12:06,210
+macroscopic if that helps
+you with visualizing.
+
+229
+00:12:06,490 --> 00:12:09,510
+But basically, it occurs
+when an impulse or electrical
+
+230
+00:12:09,510 --> 00:12:12,570
+signal travels back and
+re-excites the site of
+
+231
+00:12:12,570 --> 00:12:15,270
+origin, which creates a
+re-entry loop or circuit.
+
+232
+00:12:18,470 --> 00:12:20,130
+So let's draw this out.
+
+233
+00:12:20,770 --> 00:12:24,790
+So here we have the
+action potential within
+
+234
+00:12:24,790 --> 00:12:29,850
+the atria, moving down
+our AV node into our
+
+235
+00:12:29,850 --> 00:12:32,790
+Hisperkinji system, and
+finally our ventricles.
+
+236
+00:12:32,800 --> 00:12:37,410
+Let me label this out
+for clarification.
+
+237
+00:12:37,630 --> 00:12:39,190
+So our atria,
+
+238
+00:12:39,470 --> 00:12:41,490
+our AV node,
+
+239
+00:12:41,990 --> 00:12:47,710
+our hisproconcie system,
+and finally our ventricles.
+
+240
+00:12:49,470 --> 00:12:56,430
+So as the signal moves
+down, it can go either
+
+241
+00:12:56,430 --> 00:13:00,430
+this way or along a
+different pathway here.
+
+242
+00:13:01,750 --> 00:13:04,170
+What I'm drawing
+out right now will
+
+243
+00:13:04,170 --> 00:13:10,450
+refer to as the
+slow pathway, and on
+
+244
+00:13:10,730 --> 00:13:14,110
+the opposite side,
+the fast pathway.
+
+245
+00:13:15,070 --> 00:13:18,910
+Under normal physiologic
+conditions, the slow
+
+246
+00:13:18,910 --> 00:13:23,890
+pathway outpaces or
+outcompetes the fast pathway
+
+247
+00:13:24,290 --> 00:13:27,530
+so that it is more
+dominant and its signal
+
+248
+00:13:27,530 --> 00:13:31,040
+goes down and propagates
+through his Purkinje
+
+249
+00:13:31,040 --> 00:13:33,110
+system and finally
+down through the
+
+250
+00:13:33,110 --> 00:13:35,430
+ventricles. This is
+under normal conditions.
+
+251
+00:13:36,390 --> 00:13:40,010
+What can happen is
+if there was some
+
+252
+00:13:40,010 --> 00:13:44,710
+sort of re-entry
+loop, there would be
+
+253
+00:13:44,710 --> 00:13:48,730
+an external stimulus
+that can come in
+
+254
+00:13:49,610 --> 00:13:55,510
+and also pre-excitate the
+SA node into the AV node,
+
+255
+00:13:56,070 --> 00:13:59,650
+which would cause and
+can cause the FAST
+
+256
+00:13:59,650 --> 00:14:03,770
+pathway now to outcompete
+the slow pathway.
+
+257
+00:14:04,650 --> 00:14:08,630
+And now the signal within
+the FAST pathway ends up
+
+258
+00:14:08,630 --> 00:14:11,230
+propagating down the his
+Purkinje system and then
+
+259
+00:14:11,230 --> 00:14:14,710
+finally the ventricles.
+This is not normal under
+
+260
+00:14:14,710 --> 00:14:18,490
+physiologic conditions. It
+can be extremely problematic.
+
+261
+00:14:19,030 --> 00:14:22,130
+because the heart is going
+to be at a non-physiologic
+
+262
+00:14:22,130 --> 00:14:26,910
+pace and you're impeding
+on normal cardiac
+
+263
+00:14:26,910 --> 00:14:29,210
+function, which can be
+problematic, like we mentioned
+
+264
+00:14:29,210 --> 00:14:31,890
+before, based on cardiac
+output and et cetera.
+
+265
+00:14:32,390 --> 00:14:37,030
+An example of this
+includes AVNRT, which is AV
+
+266
+00:14:37,030 --> 00:14:39,470
+nodal re-entry tachycardia,
+which is what we have just
+
+267
+00:14:39,470 --> 00:14:45,090
+illustrated, or AVRT,
+which stands for AV re
+
+268
+00:14:45,090 --> 00:14:48,830
+-entrant tachycardia. The
+names are pretty important
+
+269
+00:14:48,830 --> 00:14:51,090
+to know because it'll
+help you kind of delineate
+
+270
+00:14:51,090 --> 00:14:53,890
+between the two where the
+reentry actually occurs.
+
+271
+00:14:53,890 --> 00:14:57,030
+Does it occur within the
+actual AV node, which
+
+272
+00:14:57,030 --> 00:15:01,910
+happens in AVNRT, or does
+it happen between the atria
+
+273
+00:15:01,910 --> 00:15:05,150
+and the ventricles and
+just bypasses the AV node,
+
+274
+00:15:05,270 --> 00:15:06,910
+AVRT?
+
+275
+00:15:07,030 --> 00:15:09,850
+But anyways, these
+both include a loop
+
+276
+00:15:09,850 --> 00:15:11,850
+of electrical
+conductance, like you
+
+277
+00:15:11,850 --> 00:15:13,590
+mentioned, with
+slight differences.
+
+278
+00:15:13,990 --> 00:15:19,260
+with the AVRT
+mechanism involving
+
+279
+00:15:19,260 --> 00:15:23,090
+atria, ventricles, and
+an accessory pathway,
+
+280
+00:15:23,090 --> 00:15:24,450
+which we'll talk
+about later on.
+
+281
+00:15:33,990 --> 00:15:34,570
+So,
+
+282
+00:15:34,850 --> 00:15:38,270
+question one, take
+about 10 seconds,
+
+283
+00:15:38,430 --> 00:15:41,450
+answer on your own,
+and then join us.
+
+284
+00:15:42,930 --> 00:15:45,330
+But all right. So,
+
+285
+00:15:45,630 --> 00:15:51,690
+AVNRT mechanism of arrhythmia
+can be summarized with
+
+286
+00:15:52,010 --> 00:15:54,730
+A, impulse travels back and re
+
+287
+00:15:54,730 --> 00:15:57,330
+-excites the site of
+origin, re-entry.
+
+288
+00:15:57,330 --> 00:16:00,070
+B, generation of
+spontaneous electrical
+
+289
+00:16:00,070 --> 00:16:02,490
+action potentials,
+automaticity.
+
+290
+00:16:02,490 --> 00:16:06,450
+Or C, an underlying
+provocation, triggered activity.
+
+291
+00:16:07,750 --> 00:16:11,530
+So, as you correctly
+stated, the answer would
+
+292
+00:16:11,530 --> 00:16:14,350
+be A, right? An impulse
+travels back and re
+
+293
+00:16:14,350 --> 00:16:17,030
+-excites the site of origin,
+which is the definition
+
+294
+00:16:17,030 --> 00:16:19,730
+of re-entry. So,
+generation of spontaneous
+
+295
+00:16:19,730 --> 00:16:23,930
+electrical action potentials
+is automaticity, and
+
+296
+00:16:23,930 --> 00:16:28,150
+underlying provocation
+is triggered activity.
+
+297
+00:16:28,150 --> 00:16:31,770
+So, AVNRT's mechanism is
+re-entry, like is stated
+
+298
+00:16:31,770 --> 00:16:36,110
+in the name, AV nodal
+re-entry tachycardia.
+
+299
+00:16:42,070 --> 00:16:45,190
+Same approach, again,
+pause, take about
+
+300
+00:16:45,190 --> 00:16:47,710
+10 seconds, and then
+come and join us.
+
+301
+00:16:52,720 --> 00:16:57,080
+All right. So this patient
+shows a 12-lead ECG
+
+302
+00:16:57,080 --> 00:16:59,040
+with normal calibration
+at a sinus rhythm
+
+303
+00:16:59,040 --> 00:17:01,880
+of 80 beats per minute.
+The axis is displayed
+
+304
+00:17:01,880 --> 00:17:04,580
+to the left with normal
+QRS and QT intervals.
+
+305
+00:17:04,580 --> 00:17:06,660
+I don't see any significant ST
+
+306
+00:17:06,660 --> 00:17:09,740
+elevations or T
+-wave inversions.
+
+307
+00:17:09,980 --> 00:17:12,900
+What major ECG finding
+is missing upon
+
+308
+00:17:12,900 --> 00:17:17,220
+this report? A, portion
+of orientation. B,
+
+309
+00:17:17,340 --> 00:17:19,960
+an interval. C, rhythm. D,
+
+310
+00:17:19,960 --> 00:17:21,940
+more than one of these answers.
+
+311
+00:17:22,980 --> 00:17:27,140
+So as you've correctly stated,
+we're missing an interval.
+
+312
+00:17:27,140 --> 00:17:30,140
+We're missing specifically
+the PR interval. We
+
+313
+00:17:30,140 --> 00:17:34,280
+state the orientation. This
+patient shows a 12-lead ECG
+
+314
+00:17:34,280 --> 00:17:37,680
+with normal calibration,
+all other intervals, normal
+
+315
+00:17:37,680 --> 00:17:41,980
+QRS and QT intervals, and
+states the rhythm as sinus.
+
+316
+00:17:44,300 --> 00:17:47,120
+All right, so first
+we'll briefly cover sinus
+
+317
+00:17:47,120 --> 00:17:49,260
+bradycardia. Then
+we'll touch more on AV
+
+318
+00:17:49,260 --> 00:17:52,090
+blocks, which is another
+common bradyarrhythmia.
+
+319
+00:17:52,340 --> 00:17:55,100
+And again, just remember
+that cardiac output
+
+320
+00:17:55,460 --> 00:17:58,520
+is directly correlated with
+heart rate. So if heart
+
+321
+00:17:58,520 --> 00:18:01,340
+rate is low, then cardiac
+output may also be lowered.
+
+322
+00:18:08,120 --> 00:18:10,400
+So sinus bradycardia
+is defined as a
+
+323
+00:18:10,400 --> 00:18:12,100
+rate less than 60
+beats per minute.
+
+324
+00:18:12,120 --> 00:18:14,820
+All the intervals tend
+to be in normal range.
+
+325
+00:18:14,820 --> 00:18:17,340
+And because it's termed
+sinus bradycardia,
+
+326
+00:18:17,340 --> 00:18:20,560
+you'll see P waves
+preceding all QRS complex.
+
+327
+00:18:20,620 --> 00:18:23,060
+Good thing to note is that
+when anything is sinus,
+
+328
+00:18:23,060 --> 00:18:26,200
+there's a P-wave before
+every QRS complex.
+
+329
+00:18:26,700 --> 00:18:29,620
+So the signs and symptoms
+caused by sinus bradycardia
+
+330
+00:18:29,620 --> 00:18:32,800
+are the same symptoms as
+for low cardiac output.
+
+331
+00:18:32,820 --> 00:18:35,480
+So patients can complain
+of lightheadedness,
+
+332
+00:18:35,480 --> 00:18:38,760
+dizziness, potential syncope
+due to decreased perfusion
+
+333
+00:18:38,760 --> 00:18:41,360
+to the brain. Fatigue and
+shortness of breath are
+
+334
+00:18:41,360 --> 00:18:43,860
+symptoms that relate to
+poor perfusion to tissues.
+
+335
+00:18:44,540 --> 00:18:46,320
+Now, just because
+the rate is under
+
+336
+00:18:46,320 --> 00:18:48,760
+60 and it's sinus
+bradycardia doesn't
+
+337
+00:18:48,760 --> 00:18:49,970
+mean that it's
+always pathological.
+
+338
+00:18:50,600 --> 00:18:53,720
+This may be an example of
+normal physiologic heart
+
+339
+00:18:53,720 --> 00:18:56,880
+rate, especially in athletes
+that train, which leads
+
+340
+00:18:56,880 --> 00:18:59,680
+to a lower average heart
+rate. The mechanism behind
+
+341
+00:18:59,680 --> 00:19:02,980
+this is an increased
+vagal tone, which is the
+
+342
+00:19:02,980 --> 00:19:06,540
+parasympathetic driver of
+the cardiovascular system.
+
+343
+00:19:06,590 --> 00:19:08,700
+These are the people that
+don't really have symptoms
+
+344
+00:19:08,700 --> 00:19:10,860
+because it's their normal.
+You can also find sinus
+
+345
+00:19:10,860 --> 00:19:14,820
+bradycardia during sleep. So
+a good rule of thumb is when
+
+346
+00:19:14,820 --> 00:19:18,020
+it's asymptomatic, it's
+usually not problematic. In
+
+347
+00:19:23,030 --> 00:19:26,010
+terms of pathology, you
+can find sinus bradycardia
+
+348
+00:19:26,010 --> 00:19:28,150
+as a result of sick
+sinus syndrome, where
+
+349
+00:19:28,150 --> 00:19:30,410
+basically your sinus
+node is sick, it doesn't
+
+350
+00:19:30,410 --> 00:19:33,430
+perform quite up to par.
+So we'll discuss sick sinus
+
+351
+00:19:33,430 --> 00:19:35,810
+syndrome in more detail
+in the next lecture.
+
+352
+00:19:37,090 --> 00:19:39,290
+Medications are
+probably the most common
+
+353
+00:19:39,290 --> 00:19:41,610
+clinically relevant cause
+of sinus bradycardia.
+
+354
+00:19:41,750 --> 00:19:43,550
+Some of the many
+medications that
+
+355
+00:19:43,550 --> 00:19:46,010
+cause sinus brady
+include beta blockers,
+
+356
+00:19:46,010 --> 00:19:48,050
+calcium channel
+blockers, opioids,
+
+357
+00:19:48,230 --> 00:19:51,330
+benzodiazepines, and
+barbiturates. For a
+
+358
+00:19:51,330 --> 00:19:52,710
+more complete list
+of drugs that cause
+
+359
+00:19:52,710 --> 00:19:56,130
+bradycardia, you can
+check out some notes.
+
+360
+00:19:56,890 --> 00:19:59,550
+In terms of treatment,
+you'll usually
+
+361
+00:19:59,550 --> 00:20:02,210
+want to just reverse
+the underlying cause.
+
+362
+00:20:02,450 --> 00:20:04,930
+If this is symptomatic
+sinus bradycardia in
+
+363
+00:20:04,930 --> 00:20:06,690
+the emergency room
+without a known cause,
+
+364
+00:20:06,690 --> 00:20:09,270
+your first-line
+treatment is atropine. Do
+
+365
+00:20:09,270 --> 00:20:12,130
+you remember the
+mechanism behind atropine?
+
+366
+00:20:12,610 --> 00:20:15,170
+Right. It's an
+anticholinergic, or
+
+367
+00:20:15,170 --> 00:20:17,230
+more specifically,
+an antimuscarinic.
+
+368
+00:20:17,290 --> 00:20:19,870
+Thinking back to anatomy
+physiology, the heart
+
+369
+00:20:19,870 --> 00:20:23,010
+expresses M2 receptors,
+which is why atropine works.
+
+370
+00:20:23,690 --> 00:20:27,130
+For an ongoing symptomatic
+sinus bradycardia,
+
+371
+00:20:27,210 --> 00:20:29,370
+patients actually are
+treated with a machine
+
+372
+00:20:29,370 --> 00:20:31,310
+that it induces
+depolarization at a
+
+373
+00:20:31,310 --> 00:20:34,390
+predicted rate. This is
+what is known as pacing.
+
+374
+00:20:34,630 --> 00:20:38,550
+In a myosurgical procedure,
+the pace leads are
+
+375
+00:20:38,550 --> 00:20:40,090
+inserted into the
+heart with the pulse
+
+376
+00:20:40,090 --> 00:20:42,550
+generator connected to them
+directly under the skin.
+
+377
+00:20:42,550 --> 00:20:45,570
+You can see a picture
+of an actual pacemaker
+
+378
+00:20:45,570 --> 00:20:47,930
+under the skin in the
+bottom right corner.
+
+379
+00:20:48,130 --> 00:20:50,650
+We'll talk about other
+causes of bradyarrhythmias
+
+380
+00:20:50,650 --> 00:20:54,090
+such as AV blocks in the
+next few and final lecture.
+
+381
+00:20:56,130 --> 00:20:58,690
+So now we'll jump into
+the tachyarrhythmias.
+
+382
+00:20:58,790 --> 00:21:01,160
+Here we've listed
+some symptoms of
+
+383
+00:21:01,160 --> 00:21:03,410
+tachyarrhythmias and
+again, just for review,
+
+384
+00:21:03,430 --> 00:21:05,610
+a tachyarrhythmias is one
+that's associated with
+
+385
+00:21:05,610 --> 00:21:07,610
+a heart rate of greater
+than 100 beats per minute.
+
+386
+00:21:07,610 --> 00:21:10,110
+As you can tell, the
+symptoms between brady
+
+387
+00:21:10,110 --> 00:21:11,570
+and tachyarrhythmias
+don't really change,
+
+388
+00:21:11,570 --> 00:21:13,730
+So that's why it's
+important to look
+
+389
+00:21:13,730 --> 00:21:15,990
+at the heart rate as
+well as ECG patterns.
+
+390
+00:21:24,330 --> 00:21:26,310
+So now I'll expose you to this
+
+391
+00:21:26,310 --> 00:21:27,950
+algorithm for arrhythmias.
+
+392
+00:21:28,840 --> 00:21:31,010
+Although you may not
+need to know right now at
+
+393
+00:21:31,010 --> 00:21:33,290
+this moment, it'll be very
+important for your clinical
+
+394
+00:21:33,290 --> 00:21:36,350
+rotations and when
+you do your ACLS, your
+
+395
+00:21:36,350 --> 00:21:38,910
+advanced cardiac life support
+training at the beginning
+
+396
+00:21:38,910 --> 00:21:41,730
+of third year when
+preparing for rotations.
+
+397
+00:21:42,190 --> 00:21:44,630
+This is a lot, but I
+just want you to start
+
+398
+00:21:44,630 --> 00:21:47,170
+grouping these arrhythmias
+in your head in some fashion.
+
+399
+00:21:47,170 --> 00:21:48,690
+No need to spend a
+million hours on the slide
+
+400
+00:21:48,690 --> 00:21:51,750
+getting every detail
+down. So, tachyarrhythmia
+
+401
+00:21:51,750 --> 00:21:55,050
+with a pulse, need to
+look at the QRS duration.
+
+402
+00:21:55,050 --> 00:21:57,910
+Is it narrow or is
+it wide? So, if it's
+
+403
+00:21:57,910 --> 00:22:00,110
+a narrow QRS, if it's
+a regular rhythm,
+
+404
+00:22:00,190 --> 00:22:02,770
+you're thinking
+sinus tachycardia,
+
+405
+00:22:02,810 --> 00:22:05,110
+AVNRT, AVRT,
+
+406
+00:22:05,330 --> 00:22:06,750
+atrial tachycardia, atrial
+
+407
+00:22:06,750 --> 00:22:08,570
+flutter, and a
+junctional rhythm.
+
+408
+00:22:08,570 --> 00:22:12,230
+If it's irregular, you're
+thinking more so AFib,
+
+409
+00:22:12,230 --> 00:22:14,810
+atrial flutter with
+variable AV conduction,
+
+410
+00:22:14,810 --> 00:22:16,930
+and multifocal
+atrial tachycardia.
+
+411
+00:22:17,190 --> 00:22:20,590
+Now on the flip side,
+with a wide QRS,
+
+412
+00:22:20,790 --> 00:22:22,310
+so regular rhythm,
+you're thinking
+
+413
+00:22:22,310 --> 00:22:25,670
+ventricular tigrocardia
+or SVT with aberrancy.
+
+414
+00:22:25,670 --> 00:22:28,190
+And irregular rhythm,
+ventricular tigrocardia,
+
+415
+00:22:28,190 --> 00:22:31,610
+which is more polymorphic
+and like Torsas DuPont.
+
+416
+00:22:31,870 --> 00:22:36,210
+I did kind of narrow it
+also on the side here. I did
+
+417
+00:22:36,210 --> 00:22:39,890
+include a little bit of
+information just so you
+
+418
+00:22:39,890 --> 00:22:43,330
+can keep in mind where the
+arrhythmia would be generating
+
+419
+00:22:43,330 --> 00:22:45,370
+from. So if you were to
+look at a rhythm strip
+
+420
+00:22:45,370 --> 00:22:49,110
+or an EKG and you see a
+narrow QRS complex, you're
+
+421
+00:22:49,110 --> 00:22:51,930
+thinking the arrhythmias
+originating from above the
+
+422
+00:22:51,930 --> 00:22:54,690
+ventricles, so either the
+atria or the SAAV node.
+
+423
+00:22:54,770 --> 00:22:57,550
+Now, if you encounter a
+wide QRS complex, you're
+
+424
+00:22:57,550 --> 00:23:00,330
+thinking the arrhythmia
+originating in the ventricles.
+
+425
+00:23:00,370 --> 00:23:03,350
+Those two points I would
+definitely commit to memory.
+
+426
+00:23:03,350 --> 00:23:05,300
+It'll help you
+not just for ACLS.
+
+427
+00:23:05,550 --> 00:23:07,390
+It'll also help you
+in general when you're
+
+428
+00:23:07,390 --> 00:23:10,890
+reading EKGs and you're
+trying to deduce what
+
+429
+00:23:10,890 --> 00:23:12,710
+arrhythmia is occurring
+and where it's occurring.
+
+430
+00:23:12,710 --> 00:23:15,430
+and it also will help you
+then guide management.
+
+431
+00:23:16,690 --> 00:23:19,710
+So now let's dive a
+little bit into these
+
+432
+00:23:19,710 --> 00:23:21,230
+tachyarrhythmias.
+We'll start first with
+
+433
+00:23:21,230 --> 00:23:24,990
+the narrow QRS regular
+tachyarrhythmias,
+
+434
+00:23:24,990 --> 00:23:28,870
+which as a reminder would
+be originating above the
+
+435
+00:23:28,870 --> 00:23:31,670
+ventricle since the QRS is
+normal in these pathologies.
+
+436
+00:23:31,670 --> 00:23:35,790
+So the issues in the
+ventricles, it's above since QRS
+
+437
+00:23:35,790 --> 00:23:39,010
+complex itself represents
+ventricular depolarization.
+
+438
+00:23:43,530 --> 00:23:47,730
+so these tachyarrhythmias
+with a narrow QRS complex
+
+439
+00:23:47,730 --> 00:23:50,550
+have a name they can be
+bunched up into a group
+
+440
+00:23:50,550 --> 00:23:54,190
+called supraventricular
+tachycardias it's not a specific
+
+441
+00:23:54,190 --> 00:23:56,490
+condition it just refers
+to any tachyarrhythmia
+
+442
+00:23:56,490 --> 00:24:00,150
+that's supra or above the
+ventricles meaning that
+
+443
+00:24:00,150 --> 00:24:02,970
+it comes from the atria
+in some location it's not
+
+444
+00:24:02,970 --> 00:24:05,590
+the exactly the most specific
+way to define a rhythm
+
+445
+00:24:05,590 --> 00:24:07,910
+so bringing this up as a
+way of exposing you to this
+
+446
+00:24:07,910 --> 00:24:10,350
+terminology. No need to
+overthink this slide if
+
+447
+00:24:10,350 --> 00:24:12,470
+you understand what
+supraventricular means. Some
+
+448
+00:24:12,470 --> 00:24:15,510
+examples of SVT, which is
+short for supraventricular,
+
+449
+00:24:15,650 --> 00:24:17,410
+include atrial fibrillation,
+
+450
+00:24:17,410 --> 00:24:20,250
+atrial flutter, AVNRT, AVRT,
+
+451
+00:24:20,730 --> 00:24:22,850
+multifocal atrial
+tachycardia, etc.
+
+452
+00:24:23,150 --> 00:24:25,750
+Since none of these rhythms
+
+453
+00:24:25,750 --> 00:24:27,910
+originate from below the atria.
+
+454
+00:24:28,430 --> 00:24:32,450
+So sinus tachycardia, we
+talk about this and we
+
+455
+00:24:32,450 --> 00:24:35,210
+spoke about this in previous
+lectures. This is when
+
+456
+00:24:35,210 --> 00:24:37,610
+basically the SA note
+is pushed past 100 beats
+
+457
+00:24:37,610 --> 00:24:40,010
+per minute. You'll see
+P waves preceding every
+
+458
+00:24:40,010 --> 00:24:43,810
+QRS complex since, as the
+name states, it's sinus.
+
+459
+00:24:43,930 --> 00:24:46,670
+And this usually has
+some underlying cause,
+
+460
+00:24:46,670 --> 00:24:48,850
+be it from pain,
+exercise, or stress.
+
+461
+00:24:49,010 --> 00:24:51,230
+There are some underlying
+pathologies that
+
+462
+00:24:51,230 --> 00:24:55,730
+can also cause and
+present with sinus
+
+463
+00:24:55,730 --> 00:24:59,250
+psychocardia, such as
+dehydration, PE, or anemia.
+
+464
+00:24:59,610 --> 00:25:01,890
+Interesting enough,
+in patients with
+
+465
+00:25:01,890 --> 00:25:04,210
+PE, some of them
+usually, the first
+
+466
+00:25:04,210 --> 00:25:06,870
+clinical sign of it
+is sinus tachycardia.
+
+467
+00:25:07,510 --> 00:25:10,370
+Now, the treatment for
+this condition, considering
+
+468
+00:25:10,470 --> 00:25:13,490
+it has a variety of
+potential causes, is to
+
+469
+00:25:13,490 --> 00:25:16,450
+identify and basically treat
+whatever is causing it.
+
+470
+00:25:20,510 --> 00:25:24,590
+now another cause of
+supraventricular tachycardia is
+
+471
+00:25:24,590 --> 00:25:28,750
+what is known as premature
+atrial contractions so if
+
+472
+00:25:28,750 --> 00:25:31,250
+we break it down we can
+see that this is defined as
+
+473
+00:25:31,250 --> 00:25:34,490
+contraction of the atria that
+occurs before it's supposed
+
+474
+00:25:34,490 --> 00:25:38,890
+to from the sa node in other
+words impulses originate
+
+475
+00:25:38,890 --> 00:25:42,250
+in the atria outside the
+sa node this results in
+
+476
+00:25:42,250 --> 00:25:45,230
+an abnormal p-wave morphology
+or shape because the origin
+
+477
+00:25:45,230 --> 00:25:48,890
+is from an ectopic or
+external pacemaker, not the
+
+478
+00:25:48,890 --> 00:25:52,110
+same as our usual depolarization.
+This can be seen as
+
+479
+00:25:52,110 --> 00:25:56,130
+a weird shape P waves that
+arrive earlier than expected,
+
+480
+00:25:56,170 --> 00:25:59,950
+regular P wave, not
+depolarizing the ventricles.
+
+481
+00:26:00,450 --> 00:26:03,650
+Occasionally, PACs are normal
+in a non-diseased heart.
+
+482
+00:26:03,650 --> 00:26:06,470
+They're more frequent in
+CHF, myocardial ischemia,
+
+483
+00:26:06,470 --> 00:26:09,690
+and COPD patients. Many
+patients describe this as the
+
+484
+00:26:09,690 --> 00:26:12,630
+heart skipping a beat. There
+isn't necessarily a treatment
+
+485
+00:26:12,630 --> 00:26:15,090
+for this. Usually we treat
+the underlying cause.
+
+486
+00:26:15,770 --> 00:26:17,950
+So now if we take
+a look at the first
+
+487
+00:26:17,950 --> 00:26:21,160
+picture, we can see a
+normal distance between
+
+488
+00:26:21,160 --> 00:26:24,530
+P waves and QRS
+complexes found here.
+
+489
+00:26:25,950 --> 00:26:28,190
+So this QRS complex,
+
+490
+00:26:28,410 --> 00:26:32,010
+this QRS complex,
+and this QRS complex.
+
+491
+00:26:32,070 --> 00:26:34,150
+The P waves also have a similar
+
+492
+00:26:34,150 --> 00:26:35,750
+morphology to one another.
+
+493
+00:26:36,390 --> 00:26:39,810
+However, if we were
+to look back At the
+
+494
+00:26:39,810 --> 00:26:43,850
+second QRS complex we
+see here, this P wave
+
+495
+00:26:43,850 --> 00:26:46,510
+has a different
+morphology when compared
+
+496
+00:26:46,570 --> 00:26:49,430
+to the other two,
+excuse me, other three.
+
+497
+00:26:49,790 --> 00:26:53,650
+And it also kind of
+overlies the T wave, which
+
+498
+00:26:53,650 --> 00:26:55,760
+gives us a hint that
+this is likely an
+
+499
+00:26:55,760 --> 00:26:59,370
+ectopic beat that isn't
+sinus, but a premature
+
+500
+00:26:59,370 --> 00:27:01,990
+beat, a.k.a. a premature
+atrial contraction.
+
+501
+00:27:02,670 --> 00:27:03,670
+Similarly,
+
+502
+00:27:03,810 --> 00:27:06,170
+in the bottom photo,
+we can see our normal P
+
+503
+00:27:06,170 --> 00:27:09,110
+wave and then we see
+some T waves that look
+
+504
+00:27:09,110 --> 00:27:11,310
+a little odd. This
+is because the P wave
+
+505
+00:27:11,310 --> 00:27:15,010
+prematurely is excited
+from an ectopic pacemaker.
+
+506
+00:27:15,910 --> 00:27:17,610
+Also something to
+notice is that the
+
+507
+00:27:17,610 --> 00:27:19,670
+interval between the
+last sinus beat and the
+
+508
+00:27:19,670 --> 00:27:23,250
+ectopic beat is shorter,
+hence premature.
+
+509
+00:27:23,550 --> 00:27:27,670
+I think it's easily
+illustrated on the top picture.
+
+510
+00:27:28,330 --> 00:27:31,210
+So the distance
+between these two QRS
+
+511
+00:27:31,210 --> 00:27:33,490
+complexes is about
+two and a half boxes,
+
+512
+00:27:33,650 --> 00:27:35,210
+a.k.a. premature.
+
+513
+00:27:36,050 --> 00:27:39,690
+While we compare QRS complexes
+
+514
+00:27:39,690 --> 00:27:41,410
+with normal P
+-weight morphologies,
+
+515
+00:27:41,730 --> 00:27:46,670
+they have a pretty
+consistent space in between
+
+516
+00:27:46,670 --> 00:27:49,250
+them of about three
+and a half big boxes.
+
+517
+00:27:50,050 --> 00:27:53,110
+So conduction to
+the heart is usually
+
+518
+00:27:53,110 --> 00:27:55,550
+normal, but the PR
+interval might be
+
+519
+00:27:55,550 --> 00:27:57,370
+different during
+each beat as well.
+
+520
+00:27:57,930 --> 00:27:59,990
+So next, let's talk
+a little bit about
+
+521
+00:27:59,990 --> 00:28:02,890
+another supraventricular
+tachycardia,
+
+522
+00:28:02,890 --> 00:28:05,310
+and that's focal
+atrial tachycardia.
+
+523
+00:28:05,590 --> 00:28:08,420
+Basically, this is when
+a regular atrial rhythm
+
+524
+00:28:08,420 --> 00:28:11,670
+isn't coming from the SA
+node. In this case, the
+
+525
+00:28:11,670 --> 00:28:14,950
+atrial rate is greater
+than 100 beats per minute.
+
+526
+00:28:14,950 --> 00:28:16,790
+The most common ectopic
+
+527
+00:28:16,790 --> 00:28:18,930
+pacemaker is in
+the left atrium.
+
+528
+00:28:18,950 --> 00:28:21,610
+The rhythm itself is
+regular, but the P-wave
+
+529
+00:28:21,610 --> 00:28:24,210
+directions will be abnormal
+due to different vectors.
+
+530
+00:28:24,250 --> 00:28:27,930
+This is referred to as
+an unusual P-wave axis.
+
+531
+00:28:28,130 --> 00:28:31,330
+So the P waves, due to
+their high rate, can
+
+532
+00:28:31,330 --> 00:28:33,810
+usually be squished
+together within T waves.
+
+533
+00:28:34,070 --> 00:28:36,870
+In the top right-hand
+corner, you can see how the
+
+534
+00:28:36,870 --> 00:28:39,570
+P waves are hidden within
+the T waves. This is a
+
+535
+00:28:39,570 --> 00:28:43,510
+classic example of a
+supraventricular tachycardia.
+
+536
+00:28:47,330 --> 00:28:50,190
+So signs and symptoms,
+though, of a focal atrial
+
+537
+00:28:50,190 --> 00:28:53,270
+tachycardia could be asymptomatic,
+can have palpitation,
+
+538
+00:28:53,270 --> 00:28:54,990
+shortness of breath,
+lightheadedness, syncope.
+
+539
+00:28:55,330 --> 00:28:58,450
+usually any arrhythmia
+can cause any variety of
+
+540
+00:28:58,450 --> 00:29:00,210
+these symptoms so it's
+not specific to this
+
+541
+00:29:00,210 --> 00:29:04,990
+arrhythmia itself and
+adenosine can usually be
+
+542
+00:29:04,990 --> 00:29:09,090
+used to reveal any
+underlying atrial activity so
+
+543
+00:29:17,650 --> 00:29:20,510
+next avnrt which is
+something we spoke about
+
+544
+00:29:20,510 --> 00:29:24,490
+previously stands for av
+nodal reentrant tachycardia
+
+545
+00:29:24,490 --> 00:29:27,450
+and it's the most common
+type of paroxysmal
+
+546
+00:29:27,450 --> 00:29:30,710
+supraventricular tachycardia
+so if you have an ongoing
+
+547
+00:29:30,710 --> 00:29:33,670
+circuit, then the way we
+combat this is by either
+
+548
+00:29:33,670 --> 00:29:36,790
+slowing or blocking
+conduction within the AV node.
+
+549
+00:29:36,790 --> 00:29:39,510
+We can accomplish this
+with physical maneuvers,
+
+550
+00:29:39,510 --> 00:29:41,950
+pharmacologic options, or
+blasphemy of the pathway
+
+551
+00:29:41,950 --> 00:29:45,670
+that allows this loop to
+go on over and over again.
+
+552
+00:29:47,070 --> 00:29:49,790
+P-ways may be retrograde,
+meaning they'll
+
+553
+00:29:49,790 --> 00:29:52,210
+possibly be found
+after the QRS complex.
+
+554
+00:29:52,970 --> 00:29:54,870
+Another option is that they may
+
+555
+00:29:54,870 --> 00:29:57,030
+be buried within
+the QRS complex.
+
+556
+00:29:58,370 --> 00:30:01,050
+one way to slow down the
+heart rate is with vagal
+
+557
+00:30:01,050 --> 00:30:04,210
+maneuvers such as carotid
+sinus massage or basal vagal
+
+558
+00:30:04,210 --> 00:30:06,990
+maneuvers when you tell your
+patients to bear down like
+
+559
+00:30:06,990 --> 00:30:10,010
+they are pushing while
+constipated for example if
+
+560
+00:30:10,070 --> 00:30:12,950
+they're stable and symptomatic
+you can try the drug
+
+561
+00:30:12,950 --> 00:30:15,350
+adenosine I usually think of
+adenosine as the opposite of
+
+562
+00:30:15,350 --> 00:30:18,810
+caffeine it's an adenosine
+receptor antagonist caffeine
+
+563
+00:30:18,810 --> 00:30:21,310
+makes you get up and go out
+of your den while adenosine
+
+564
+00:30:21,310 --> 00:30:24,710
+makes you want to chill
+in a den adenosine is a
+
+565
+00:30:24,710 --> 00:30:27,050
+pretty interesting drug as
+patients feel an impending
+
+566
+00:30:27,050 --> 00:30:30,030
+sense of doom as their heart
+rate very quickly drops,
+
+567
+00:30:30,150 --> 00:30:32,450
+sometimes seizing
+for five seconds and
+
+568
+00:30:32,450 --> 00:30:35,250
+returning to a normal range.
+For further discussion
+
+569
+00:30:35,250 --> 00:30:37,170
+on adenosine, feel
+free to reach out.
+
+570
+00:30:37,710 --> 00:30:39,530
+It's a cool thing
+to see in a patient,
+
+571
+00:30:39,530 --> 00:30:41,650
+but not so much
+for the patient.
+
+572
+00:30:42,330 --> 00:30:45,770
+Now, let's say adenosine
+doesn't work and the
+
+573
+00:30:45,770 --> 00:30:48,010
+patient becomes
+unstable. The next option
+
+574
+00:30:48,010 --> 00:30:50,390
+would be cardioversion,
+specifically direct
+
+575
+00:30:50,390 --> 00:30:53,090
+current cardioversion
+or shocking the heart.
+
+576
+00:31:01,290 --> 00:31:04,750
+So before I lose you all in
+this picture, I just want
+
+577
+00:31:04,750 --> 00:31:07,550
+to let you guys know again,
+this represents AVNRT. This
+
+578
+00:31:07,550 --> 00:31:10,690
+is very similar to what we
+had discussed previously.
+
+579
+00:31:11,730 --> 00:31:15,070
+So before we discuss again,
+the pathophysiology for
+
+580
+00:31:15,070 --> 00:31:17,850
+review, let's discuss the
+requirements for re-entry.
+
+581
+00:31:17,850 --> 00:31:20,710
+So there are three things.
+You need two pathways to be
+
+582
+00:31:20,710 --> 00:31:23,470
+present within the AV node.
+As we mentioned, the slow
+
+583
+00:31:23,470 --> 00:31:26,430
+and the fast pathways,
+different speeds of conduction.
+
+584
+00:31:26,430 --> 00:31:29,590
+So slow speed of conduction
+versus fast speed of
+
+585
+00:31:29,590 --> 00:31:33,470
+conduction, and unidirectional
+block, meaning one
+
+586
+00:31:33,470 --> 00:31:36,430
+pathway is blocking the other.
+These three things allow
+
+587
+00:31:36,430 --> 00:31:39,070
+a circuit to be maintained.
+This is shown on the left
+
+588
+00:31:39,070 --> 00:31:43,590
+in what meets the requirements
+for potential AVNRT.
+
+589
+00:31:44,430 --> 00:31:48,450
+The circuit usually involves
+two anatomically pathways
+
+590
+00:31:48,450 --> 00:31:51,810
+within the AV node, again
+the fast and slow pathway.
+
+591
+00:31:51,820 --> 00:31:54,990
+So the fast pathway
+conducts rapidly and has a
+
+592
+00:31:54,990 --> 00:31:59,430
+relatively long refractory
+period, meaning they need time
+
+593
+00:31:59,430 --> 00:32:02,990
+to depolarize again. The
+second pathway conducts
+
+594
+00:32:02,990 --> 00:32:06,170
+relatively slowly and has a
+shorter refractory period,
+
+595
+00:32:06,450 --> 00:32:10,170
+meaning they're able to
+depolarize again quickly.
+
+596
+00:32:12,010 --> 00:32:14,890
+You can think of this
+circle as the myocytes
+
+597
+00:32:14,890 --> 00:32:17,190
+that may depolarize
+and electrical signals
+
+598
+00:32:17,190 --> 00:32:19,170
+are trying to reach
+all the cardiac tissue.
+
+599
+00:32:19,190 --> 00:32:22,430
+It doesn't matter which
+pathway gets to the myocardial
+
+600
+00:32:22,430 --> 00:32:25,810
+cell first, as long as a
+coordinated depolarization
+
+601
+00:32:25,810 --> 00:32:27,910
+occurs. This will lead
+to a normal rhythm,
+
+602
+00:32:27,910 --> 00:32:30,130
+and then after the AV node,
+it goes forward through
+
+603
+00:32:30,130 --> 00:32:32,890
+the Hisperkinje system,
+and finally ventricles.
+
+604
+00:32:33,020 --> 00:32:35,390
+Even though this may look
+like something scary or not
+
+605
+00:32:35,390 --> 00:32:37,940
+too common, slightly less
+than half of the population
+
+606
+00:32:37,940 --> 00:32:41,650
+have this as their normal
+physiology in their AV node.
+
+607
+00:32:42,810 --> 00:32:46,430
+So again, the picture on
+the left shows what normally
+
+608
+00:32:46,430 --> 00:32:50,110
+happens in the AV node,
+The balance of the fast
+
+609
+00:32:50,110 --> 00:32:53,330
+pathway with a long
+refractory versus the slow
+
+610
+00:32:53,330 --> 00:32:56,030
+pathway with a shorter
+refractory is kept in check.
+
+611
+00:32:56,300 --> 00:32:58,830
+How can we disrupt this
+system? Try and think
+
+612
+00:32:58,830 --> 00:33:01,090
+of what happens when
+premature atrial contraction
+
+613
+00:33:01,090 --> 00:33:02,930
+comes along. The
+picture on the right
+
+614
+00:33:02,930 --> 00:33:06,430
+shows how the classic form
+with AVNRT is initiated
+
+615
+00:33:06,430 --> 00:33:09,670
+by a PAC, or premature
+atrial contraction.
+
+616
+00:33:10,020 --> 00:33:12,540
+So let's talk this through
+because it could be a little
+
+617
+00:33:12,540 --> 00:33:14,810
+conceptually challenging,
+and the last thing I want
+
+618
+00:33:14,810 --> 00:33:16,850
+you to do is get frustrated
+and leave the lecture.
+
+619
+00:33:16,850 --> 00:33:20,670
+So if we send a premature
+atrial contraction toward
+
+620
+00:33:20,670 --> 00:33:23,810
+the AV node, the fast
+pathway will still be in its
+
+621
+00:33:23,810 --> 00:33:28,590
+refractory period. Therefore,
+its anti-grade, aka forward,
+
+622
+00:33:28,590 --> 00:33:32,850
+conduction down the fast
+pathway is blocked. The
+
+623
+00:33:32,850 --> 00:33:35,470
+next depolarization that
+the fast pathway receives
+
+624
+00:33:35,470 --> 00:33:38,570
+actually comes from the
+slow pathway, looping around
+
+625
+00:33:38,570 --> 00:33:42,330
+in a retrograde fashion.
+The slow pathway has a short
+
+626
+00:33:45,530 --> 00:33:48,570
+has a short refractory
+period, meaning that it
+
+627
+00:33:48,570 --> 00:33:50,820
+can depolarize again
+with a premature atrial
+
+628
+00:33:50,820 --> 00:33:53,790
+contraction. This leads to
+a cycle in which the slow
+
+629
+00:33:53,790 --> 00:33:56,770
+pathway will re-excite
+itself, backtracking from
+
+630
+00:33:56,770 --> 00:34:00,110
+the fast pathway. The
+premature beat conducts via
+
+631
+00:34:00,110 --> 00:34:02,370
+the slow pathway through
+the final pathway to
+
+632
+00:34:02,370 --> 00:34:06,650
+the normal bundle ****. As
+a result, the PR interval
+
+633
+00:34:06,650 --> 00:34:08,730
+of the premature beat
+will be longer than those
+
+634
+00:34:08,730 --> 00:34:11,770
+of normal beats conducted
+through the pathway.
+
+635
+00:34:12,180 --> 00:34:15,990
+And a good tad bit to also
+keep in mind is the AV
+
+636
+00:34:15,990 --> 00:34:20,950
+node is usually a site where
+the electrical propagation
+
+637
+00:34:20,950 --> 00:34:23,650
+from the SA node down
+to his Purkinje system
+
+638
+00:34:23,650 --> 00:34:28,830
+is paused briefly, which
+is represented by the PR
+
+639
+00:34:28,830 --> 00:34:32,830
+interval. So it's not hard
+to imagine that the PR
+
+640
+00:34:32,830 --> 00:34:35,980
+interval of the premature
+beat will be longer than
+
+641
+00:34:35,980 --> 00:34:38,970
+the normal beats since
+there is additional delay.
+
+642
+00:34:40,170 --> 00:34:41,810
+I would definitely
+suggest listening
+
+643
+00:34:41,810 --> 00:34:43,330
+to this again or
+looking at another
+
+644
+00:34:43,330 --> 00:34:44,820
+resource for a
+different explanation.
+
+645
+00:34:45,470 --> 00:34:48,490
+These types of difficult
+and these types of difficult
+
+646
+00:34:48,490 --> 00:34:51,030
+concepts, I'd probably
+recommend drawing out a picture
+
+647
+00:34:51,030 --> 00:34:53,150
+explaining this to your
+friend in your own words.
+
+648
+00:34:53,150 --> 00:34:55,890
+You can also always email
+me to discuss this further.
+
+649
+00:35:06,030 --> 00:35:09,420
+One of the first or
+major findings of an EKG
+
+650
+00:35:09,420 --> 00:35:13,130
+is a retrograde P wave
+which can be seen in the
+
+651
+00:35:13,130 --> 00:35:15,290
+bottom right-hand
+corner. This shows the
+
+652
+00:35:15,290 --> 00:35:18,490
+depolarization of the atria
+after the QRS complex.
+
+653
+00:35:19,630 --> 00:35:23,930
+The rate is usually 150
+to 250 beats per minute,
+
+654
+00:35:23,930 --> 00:35:27,700
+while the rhythm is regular.
+P-waves may be retrograde,
+
+655
+00:35:27,700 --> 00:35:31,890
+seen in the bottom, or
+buried, seen in the top.
+
+656
+00:35:38,600 --> 00:35:41,340
+Now, not to confuse you,
+but there is another
+
+657
+00:35:41,340 --> 00:35:45,580
+condition called AVRT,
+AV reentrant tachycardia.
+
+658
+00:35:45,580 --> 00:35:49,160
+You can think of AVNRT
+as a micro version
+
+659
+00:35:49,160 --> 00:35:52,700
+of AVRT. So again,
+in AVNRT, we see the
+
+660
+00:35:52,700 --> 00:35:55,660
+small and the fast pathway
+within the AV node.
+
+661
+00:35:55,660 --> 00:36:01,820
+While with AVRT, we are
+talking more globally about
+
+662
+00:36:01,820 --> 00:36:04,780
+how we can provide the AV
+node with another pathway
+
+663
+00:36:04,780 --> 00:36:08,760
+towards excitation. This is
+known as an accessory pathway.
+
+664
+00:36:08,760 --> 00:36:12,700
+It involves the atria,
+ventricula, and ventricula.
+
+665
+00:36:13,580 --> 00:36:17,340
+An accessory pathway
+causes an abnormal
+
+666
+00:36:17,340 --> 00:36:20,000
+conduction between the
+atria ventricles. So in
+
+667
+00:36:20,000 --> 00:36:22,000
+this pathology, we can
+see a retroactive P
+
+668
+00:36:22,000 --> 00:36:25,460
+-wave just like in an AVNRT
+because the accessory
+
+669
+00:36:25,460 --> 00:36:28,020
+pathway can also
+depolarize the atria.
+
+670
+00:36:28,240 --> 00:36:32,240
+Just like in AVNRT, if
+sufficient differences in
+
+671
+00:36:32,240 --> 00:36:34,880
+conduction timing and
+refractoriness exist between the
+
+672
+00:36:34,880 --> 00:36:38,100
+normal and accessory
+pathway, our premature atrial
+
+673
+00:36:38,150 --> 00:36:40,920
+junctional, which means between
+the atria and ventricle,
+
+674
+00:36:40,920 --> 00:36:45,180
+or ventricular depolarization
+can cause re-entry.
+
+675
+00:36:45,300 --> 00:36:48,620
+Major clinical
+correlate here is with a
+
+676
+00:36:48,620 --> 00:36:51,380
+condition called Wolf
+-Parkinson-White syndrome.
+
+677
+00:36:51,570 --> 00:36:52,920
+This is probably one of the
+
+678
+00:36:52,920 --> 00:36:57,100
+more super high yields of AVRT.
+
+679
+00:36:57,100 --> 00:36:58,760
+So whenever you think of
+
+680
+00:36:58,760 --> 00:37:01,300
+AVRT, you should think of WPW.
+
+681
+00:37:01,680 --> 00:37:04,860
+I also put acute confused
+wolf on the slide
+
+682
+00:37:04,860 --> 00:37:07,480
+to think about when
+you're confused on exams.
+
+683
+00:37:10,540 --> 00:37:14,660
+and again treatment is
+similar to AVNRT it can
+
+684
+00:37:14,660 --> 00:37:18,120
+be treated acutely by
+shocking and although
+
+685
+00:37:18,120 --> 00:37:21,320
+adenosine may worsen
+symptoms and again the long
+
+686
+00:37:21,320 --> 00:37:24,340
+-term treatment similar
+to AVNRT is ablation
+
+687
+00:37:27,660 --> 00:37:31,240
+so here's a picture of
+a regular excitation to
+
+688
+00:37:31,240 --> 00:37:33,560
+the AV node what we
+don't want in the case of
+
+689
+00:37:33,560 --> 00:37:37,320
+AVRT is an accessory
+pathway that creates a loop.
+
+690
+00:37:45,900 --> 00:37:48,900
+So in AVRT, again, it
+is super pentricular.
+
+691
+00:37:49,060 --> 00:37:52,550
+The QRS can be either narrow,
+what's called orthodromic,
+
+692
+00:37:52,740 --> 00:37:55,590
+or prolonged antidromic,
+depending on the pathways.
+
+693
+00:37:55,590 --> 00:37:58,100
+I wouldn't get too much
+into the specifics of
+
+694
+00:37:58,100 --> 00:38:01,980
+this. This is pretty beyond
+the medical student level,
+
+695
+00:38:01,980 --> 00:38:05,180
+but it's interesting to
+know and may come in handy.
+
+696
+00:38:05,860 --> 00:38:08,070
+Antidromic basically
+means when the electricity
+
+697
+00:38:08,070 --> 00:38:12,260
+goes down the bundle of
+Kent, then up the AV node.
+
+698
+00:38:12,760 --> 00:38:15,180
+Orthodromic is when it
+goes down the AV node, then
+
+699
+00:38:15,180 --> 00:38:18,300
+back up the bundle of
+Kent. So in this case, we
+
+700
+00:38:18,300 --> 00:38:22,300
+see an orthodromic AVRT
+with a narrow QRS complex.
+
+701
+00:38:28,530 --> 00:38:30,860
+So now we revisit our silly
+
+702
+00:38:30,860 --> 00:38:32,810
+confused old friend of ours.
+
+703
+00:38:32,990 --> 00:38:35,790
+Let's call him Park.
+He's your new pet for
+
+704
+00:38:35,790 --> 00:38:37,790
+the remainder of this
+lecture, Wolf Park.
+
+705
+00:38:38,150 --> 00:38:39,750
+Anyways, back to the learning.
+
+706
+00:38:40,150 --> 00:38:43,550
+So Wolff-Parkinson-White
+syndrome is, as stated before,
+
+707
+00:38:43,550 --> 00:38:46,970
+the most clinically relevant
+example of AVRT. The
+
+708
+00:38:46,970 --> 00:38:51,830
+accessory pathway, or AV bypass
+track in WPW, is referred
+
+709
+00:38:51,830 --> 00:38:54,890
+to as the bundle of Kent,
+which of course is the
+
+710
+00:38:54,890 --> 00:38:58,390
+middle name of Wolff-Park
+over here, Wolff-Park-Kent.
+
+711
+00:38:59,250 --> 00:39:01,590
+The picture in the
+bottom right corner
+
+712
+00:39:01,590 --> 00:39:05,010
+shows the mechanism
+of orthodromic AVRT
+
+713
+00:39:05,010 --> 00:39:06,950
+in the presence of
+the bundle of Kent.
+
+714
+00:39:07,070 --> 00:39:11,690
+An ECG from a patient with
+this AVNRT will lack the
+
+715
+00:39:11,690 --> 00:39:15,390
+WPW pattern since the excitation
+of the ventricle occurs
+
+716
+00:39:15,390 --> 00:39:18,170
+through the AV node. When
+we're talking about pre
+
+717
+00:39:18,170 --> 00:39:21,010
+-excitation, the arrow should
+be pointing down from the
+
+718
+00:39:21,010 --> 00:39:24,010
+atria to the ventricles
+through an accessory pathway.
+
+719
+00:39:30,590 --> 00:39:32,510
+If we know that the
+bundle of Kent causes
+
+720
+00:39:32,510 --> 00:39:34,990
+pre-excitation of the
+ventricles, we're likely
+
+721
+00:39:34,990 --> 00:39:37,750
+to see an early
+swooping on the QRS
+
+722
+00:39:37,750 --> 00:39:42,250
+complex. This is what's
+known as a delta wave.
+
+723
+00:39:42,370 --> 00:39:44,810
+The criteria for Wolf
+-Parkinson's weight
+
+724
+00:39:44,810 --> 00:39:48,370
+is a PR interval of
+less than 0.12 seconds,
+
+725
+00:39:48,370 --> 00:39:50,830
+a wide and QRS
+complex, and a delta
+
+726
+00:39:50,830 --> 00:39:52,810
+wave that can be
+seen in some leads.
+
+727
+00:39:53,080 --> 00:39:55,930
+Let me be clear, by
+the way, it is only
+
+728
+00:39:55,930 --> 00:39:58,570
+a syndrome when a
+patient is symptomatic.
+
+729
+00:39:59,120 --> 00:40:01,250
+If asymptomatic, and you
+happen to find this on
+
+730
+00:40:01,250 --> 00:40:05,380
+a random patient's EKG,
+they have a WPW pattern.
+
+731
+00:40:05,890 --> 00:40:08,850
+If symptomatic, you want
+to treat in a stepwise
+
+732
+00:40:08,850 --> 00:40:11,230
+manner. You always start
+with vagal maneuvers
+
+733
+00:40:11,230 --> 00:40:13,910
+if stable, then shift to
+more invasive measures
+
+734
+00:40:13,910 --> 00:40:17,750
+like IV procanamide,
+which is a class 1
+
+735
+00:40:17,750 --> 00:40:20,570
+antiarrhythmic, or
+cardioversion if a patient's
+
+736
+00:40:20,570 --> 00:40:24,150
+unstable. You do want to
+avoid AV nodal suppressing
+
+737
+00:40:24,150 --> 00:40:26,990
+medications like beta
+blockers, rapamil, etc.
+
+738
+00:40:26,990 --> 00:40:30,690
+Because if we think
+about the normal
+
+739
+00:40:30,690 --> 00:40:34,730
+pathophysiology of
+WPW, if we block the AV
+
+740
+00:40:34,730 --> 00:40:36,630
+node, this would
+increase the risk of
+
+741
+00:40:36,630 --> 00:40:39,190
+unrestricted firing from
+the accessory pathway.
+
+742
+00:40:39,690 --> 00:40:42,010
+The definitive
+treatment for this
+
+743
+00:40:42,010 --> 00:40:44,330
+condition is catheter
+ablation of the
+
+744
+00:40:44,330 --> 00:40:45,990
+accessory tract,
+the bundle of Kent.
+
+745
+00:40:46,190 --> 00:40:47,830
+Dr. Cohen has done many of
+
+746
+00:40:47,830 --> 00:40:49,930
+these ablations
+on WPW patients.
+
+747
+00:40:52,640 --> 00:40:55,170
+So, if we know that the
+bundle of Kent causes
+
+748
+00:40:55,170 --> 00:40:57,610
+pre-excitation of the
+ventricles, we're likely
+
+749
+00:40:57,610 --> 00:41:01,250
+to see an early swooping
+up on the QRS complex.
+
+750
+00:41:01,250 --> 00:41:03,670
+This is what's known
+as a delta wave.
+
+751
+00:41:04,100 --> 00:41:07,990
+So the criteria for Wolf
+-Parkinson-White, or WPW,
+
+752
+00:41:07,990 --> 00:41:12,070
+is a PR interval of
+less than 0.12 seconds
+
+753
+00:41:12,070 --> 00:41:16,110
+with a widening QRS complexes
+and delta waves seen
+
+754
+00:41:16,110 --> 00:41:18,530
+in some leads. So let
+me be clear, by the way,
+
+755
+00:41:18,920 --> 00:41:21,570
+it is only a syndrome
+when a patient is
+
+756
+00:41:21,570 --> 00:41:24,610
+symptomatic. If the
+patient's asymptomatic,
+
+757
+00:41:24,610 --> 00:41:25,930
+and you happen to
+find this on a random
+
+758
+00:41:25,930 --> 00:41:29,890
+patient's EKG, they
+have a WPW pattern.
+
+759
+00:41:30,590 --> 00:41:34,270
+If symptomatic, treatment
+is in a stepwise manner.
+
+760
+00:41:34,270 --> 00:41:36,270
+You'll always start
+with a vagal maneuver if
+
+761
+00:41:36,270 --> 00:41:38,430
+stable, then shift to more
+invasive measures like
+
+762
+00:41:38,430 --> 00:41:41,550
+IV brocanamide, which is
+a class 1 antiarrhythmic,
+
+763
+00:41:41,550 --> 00:41:44,270
+or cardioversion if
+the patient's unstable.
+
+764
+00:41:44,850 --> 00:41:48,750
+I do want to point this out,
+and it's super high yield.
+
+765
+00:41:48,750 --> 00:41:51,370
+You definitely want to
+avoid AV nodal suppressing
+
+766
+00:41:51,370 --> 00:41:54,410
+medications like beta blockers
+and verapamil, because
+
+767
+00:41:54,410 --> 00:41:57,170
+blocking the AV node increases
+the risk of unrestricted
+
+768
+00:41:57,170 --> 00:42:00,250
+firing from the accessory
+pathway. which kind of makes
+
+769
+00:42:00,250 --> 00:42:04,290
+sense if we think back to
+the pathophysiology of WPW.
+
+770
+00:42:04,850 --> 00:42:07,630
+But ultimately, the
+definitive treatment is
+
+771
+00:42:07,630 --> 00:42:10,250
+catheter ablation of
+the accessory pathway.
+
+772
+00:42:15,780 --> 00:42:18,420
+So here's a classic
+look of delta
+
+773
+00:42:18,420 --> 00:42:19,920
+waves with a
+shortened PR interval.
+
+774
+00:42:25,060 --> 00:42:29,040
+So we have our P
+wave right here.
+
+775
+00:42:30,540 --> 00:42:33,060
+Now our PR interval is very
+
+776
+00:42:33,060 --> 00:42:34,680
+shortened, if you
+can't tell. So
+
+777
+00:42:44,490 --> 00:42:46,750
+here's a classic look of delta
+
+778
+00:42:46,750 --> 00:42:48,530
+waves with a
+shortened PR interval.
+
+779
+00:42:48,530 --> 00:42:52,850
+The delta wave refers
+to this upstroke, which
+
+780
+00:42:54,630 --> 00:42:59,630
+shortens the PR interval.
+So the PR interval
+
+781
+00:42:59,630 --> 00:43:02,660
+that would have been
+present here is now
+
+782
+00:43:02,660 --> 00:43:06,250
+raised and embedded
+within the delta wave.
+
+783
+00:43:12,120 --> 00:43:14,560
+So next, let's talk
+about each category
+
+784
+00:43:14,560 --> 00:43:18,460
+and condition in detail
+from the narrow QRS
+
+785
+00:43:18,460 --> 00:43:20,500
+irregular tachyarrhythmias.
+arrhythmias.
+
+786
+00:43:28,220 --> 00:43:31,260
+So the first and probably
+most common arrhythmia
+
+787
+00:43:31,260 --> 00:43:34,080
+that you'll be exposed to
+is atrial fibrillation.
+
+788
+00:43:34,670 --> 00:43:36,840
+So a good way to
+think about it,
+
+789
+00:43:36,840 --> 00:43:39,720
+fibrillation, is
+quivering of muscles.
+
+790
+00:43:39,820 --> 00:43:43,080
+Basically when the atria
+has millions of little
+
+791
+00:43:43,080 --> 00:43:47,220
+tugs and contractions
+by the myocytes. As you
+
+792
+00:43:47,220 --> 00:43:49,620
+could imagine, the atria
+do a pretty terrible job
+
+793
+00:43:49,620 --> 00:43:51,880
+of contracting and pushing
+blood into the ventricles
+
+794
+00:43:51,880 --> 00:43:54,520
+when there isn't a
+coordinated contraction.
+
+795
+00:43:54,640 --> 00:43:57,420
+The most common location
+causing this electrical
+
+796
+00:43:57,420 --> 00:44:01,140
+impulse is the left atrium
+near the pulmonary veins.
+
+797
+00:44:01,580 --> 00:44:03,800
+Atrial fibrillation
+is an extremely
+
+798
+00:44:03,800 --> 00:44:05,700
+common condition, and
+it's something you'll
+
+799
+00:44:05,700 --> 00:44:07,520
+definitely see on
+clinical rotations.
+
+800
+00:44:07,600 --> 00:44:09,760
+If you're going to take
+anything from this slide,
+
+801
+00:44:09,760 --> 00:44:13,920
+atrial fibrillation is an
+irregularly irregular rhythm.
+
+802
+00:44:13,920 --> 00:44:17,740
+You will not see any P
+waves, just squiggly lines
+
+803
+00:44:17,740 --> 00:44:21,040
+before random QRS pops
+up, which are known as
+
+804
+00:44:21,040 --> 00:44:24,660
+fibrillatory waves. And for
+this reason, if you don't
+
+805
+00:44:24,660 --> 00:44:27,660
+have any P waves, we cannot
+calculate PR intervals.
+
+806
+00:44:28,400 --> 00:44:31,440
+AFib is classified based
+on the number of episodes,
+
+807
+00:44:31,440 --> 00:44:33,760
+the length of episodes, and
+whether it is self-terminating
+
+808
+00:44:33,760 --> 00:44:37,400
+or not. There are lots of
+causes of AFib, but one
+
+809
+00:44:37,400 --> 00:44:39,330
+of the ones you don't want
+to miss is hyperthyroidism.
+
+810
+00:44:39,700 --> 00:44:42,820
+You treat the hyperthyroidism,
+the AFib goes away.
+
+811
+00:44:48,910 --> 00:44:51,990
+Here are two examples of
+AFib. Notice the QRS complexes
+
+812
+00:44:51,990 --> 00:44:56,150
+are not equally spaced
+and it is not unequally
+
+813
+00:44:56,150 --> 00:44:59,550
+spaced regularly, hence it
+is irregularly irregular.
+
+814
+00:44:59,550 --> 00:45:01,830
+In other words, there's
+no pattern to the
+
+815
+00:45:01,830 --> 00:45:05,940
+irregularity. So this may be
+a little bit easier to show
+
+816
+00:45:05,940 --> 00:45:08,630
+than to put in words. So
+if we were to just look at
+
+817
+00:45:08,630 --> 00:45:12,690
+the bottom rhythm strip
+here, if we looked at first
+
+818
+00:45:12,690 --> 00:45:16,670
+in front of every QRS
+complex, we see these little
+
+819
+00:45:16,670 --> 00:45:19,830
+squiggly lines. These are
+our fibrillatory waves.
+
+820
+00:45:20,550 --> 00:45:22,930
+There are no P waves
+that we can see.
+
+821
+00:45:27,470 --> 00:45:31,750
+next what we mean by
+irregularly irregular is
+
+822
+00:45:31,750 --> 00:45:34,310
+that the distance
+between the QRS complexes
+
+823
+00:45:34,810 --> 00:45:39,070
+is not the same between
+them so between the
+
+824
+00:45:39,070 --> 00:45:42,330
+first two QRS complexes we
+have a distance of about
+
+825
+00:45:42,330 --> 00:45:45,690
+two big boxes between
+the second and the third
+
+826
+00:45:45,690 --> 00:45:48,890
+QRS complexes we have
+a distance of about one
+
+827
+00:45:48,890 --> 00:45:51,910
+and a half big boxes.
+And the third, we have
+
+828
+00:45:51,910 --> 00:45:54,510
+a distance between the
+third and fourth, about
+
+829
+00:45:55,310 --> 00:45:58,450
+a box, one big box, and maybe
+
+830
+00:45:58,640 --> 00:46:00,610
+one and a half small boxes.
+
+831
+00:46:00,930 --> 00:46:03,490
+After the fourth big
+box, if we compare the
+
+832
+00:46:03,490 --> 00:46:04,970
+distance between the
+fourth and the fifth,
+
+833
+00:46:04,970 --> 00:46:10,450
+we have about two
+big boxes in spacing.
+
+834
+00:46:11,290 --> 00:46:13,630
+So as you can tell, the spacing
+
+835
+00:46:13,630 --> 00:46:15,630
+that we counted along the way
+
+836
+00:46:16,650 --> 00:46:22,210
+we're all different so the
+distance between each QRS
+
+837
+00:46:22,210 --> 00:46:25,050
+complex is irregular and
+that irregularity that we
+
+838
+00:46:25,050 --> 00:46:29,570
+counted is also regular
+first distance here that we
+
+839
+00:46:29,570 --> 00:46:32,190
+mentioned between the
+first and the second QRS
+
+840
+00:46:32,190 --> 00:46:35,710
+complex was about two second
+and third was about one and
+
+841
+00:46:35,710 --> 00:46:39,630
+a half third and fourth
+about one big box and one
+
+842
+00:46:39,630 --> 00:46:42,590
+small box and finally between
+the fourth and the fifth
+
+843
+00:46:42,590 --> 00:46:47,070
+QRS complex is about two
+big boxes spaced apart.
+
+844
+00:46:55,940 --> 00:46:59,400
+So atrial fibrillation is
+an issue because it is a
+
+845
+00:46:59,400 --> 00:47:01,900
+tachyarrhythmia, but
+there's an additional issue.
+
+846
+00:47:01,900 --> 00:47:05,200
+As a general principle of
+pathology, any location
+
+847
+00:47:05,200 --> 00:47:07,660
+in the vasculature that
+causes turbulent and abnormal
+
+848
+00:47:07,660 --> 00:47:11,140
+blood flow predisposes
+to thrombus formation.
+
+849
+00:47:11,340 --> 00:47:13,760
+It is mainly the lack
+of atrial contraction
+
+850
+00:47:13,760 --> 00:47:15,720
+and hence the lack
+of movement of blood,
+
+851
+00:47:15,720 --> 00:47:17,670
+especially in the
+left atrial appendage,
+
+852
+00:47:17,940 --> 00:47:21,680
+that is thrombogenic. In
+the atria, AFib causes
+
+853
+00:47:21,680 --> 00:47:24,330
+this, and it is one of the
+reasons why studies have
+
+854
+00:47:24,620 --> 00:47:28,680
+mentioned that AFib is a
+major contributor to stroke,
+
+855
+00:47:28,680 --> 00:47:31,740
+basically saying that
+about 1 in 7 strokes are
+
+856
+00:47:31,740 --> 00:47:35,360
+related to AFib, which is
+part of the workup when a
+
+857
+00:47:35,360 --> 00:47:38,320
+patient comes into the
+hospital having had a stroke.
+
+858
+00:47:39,000 --> 00:47:41,300
+Rate control is
+equally beneficial
+
+859
+00:47:41,300 --> 00:47:43,320
+to the patient as
+rhythm control.
+
+860
+00:47:43,820 --> 00:47:46,820
+What this means is that
+drugs that control rate, like
+
+861
+00:47:46,820 --> 00:47:50,000
+beta blockers, calcium
+channel blockers, digoxin, or
+
+862
+00:47:50,000 --> 00:47:52,420
+drugs that control rhythm,
+like class 3 antiarrhythmics,
+
+863
+00:47:52,420 --> 00:47:55,120
+can be used for control
+of atrial fibrillation.
+
+864
+00:47:55,880 --> 00:47:59,740
+I will, however, say
+that rate control
+
+865
+00:47:59,740 --> 00:48:03,200
+is more so used in
+the clinical setting.
+
+866
+00:48:03,560 --> 00:48:06,020
+Rate rhythm control
+does have some utility,
+
+867
+00:48:06,020 --> 00:48:08,400
+although rate control
+is usually a first
+
+868
+00:48:08,400 --> 00:48:10,960
+-line option that we
+first try to address.
+
+869
+00:48:12,310 --> 00:48:14,320
+We do need to
+remember, however, that
+
+870
+00:48:14,320 --> 00:48:16,660
+anticoagulation is
+needed, which is why
+
+871
+00:48:16,660 --> 00:48:19,360
+you'll see patients
+with AFib on warfarin,
+
+872
+00:48:19,480 --> 00:48:22,660
+an oxaparin, apixaban,
+or a dabigatram. I'm
+
+873
+00:48:22,660 --> 00:48:24,280
+not going to have the
+time to do this, but
+
+874
+00:48:24,280 --> 00:48:26,200
+try to recall the mechanism
+of action and side
+
+875
+00:48:26,200 --> 00:48:28,100
+effect of all these
+drugs, considering how
+
+876
+00:48:28,100 --> 00:48:31,040
+vast the pharmacology
+is just on this slide.
+
+877
+00:48:31,280 --> 00:48:34,700
+In the case of an emergent
+symptomatic onset case of
+
+878
+00:48:34,700 --> 00:48:37,200
+AFib, we can always go to
+electrical cardioversion,
+
+879
+00:48:37,300 --> 00:48:39,920
+although the ultimate
+treatment is ablation to
+
+880
+00:48:39,920 --> 00:48:42,380
+separate the impulse
+coming from the pulmonary
+
+881
+00:48:42,380 --> 00:48:47,880
+veins and should be easy
+to understand why the name
+
+882
+00:48:47,880 --> 00:48:50,020
+of the ablation or the
+procedure is called
+
+883
+00:48:50,020 --> 00:48:54,560
+pulmonary vein isolation
+because we're ablating where
+
+884
+00:48:54,560 --> 00:48:56,880
+the impulse is coming
+from the pulmonary vein.
+
+885
+00:49:05,960 --> 00:49:08,060
+So here's a picture of a
+catheter ablation therapy
+
+886
+00:49:08,060 --> 00:49:10,800
+for atrial fibrillation.
+The catheters advance into
+
+887
+00:49:10,800 --> 00:49:13,660
+the right atrium through
+the intra-atrial septum and
+
+888
+00:49:13,660 --> 00:49:16,700
+into the left atrium.
+burst of energy could be
+
+889
+00:49:16,700 --> 00:49:20,840
+electrical and cryoablation
+are two more common methods
+
+890
+00:49:21,100 --> 00:49:24,780
+that create an electrical
+firewall or scar within
+
+891
+00:49:24,780 --> 00:49:28,360
+tissue the site where the
+atrial fibrillation originates
+
+892
+00:49:28,360 --> 00:49:30,830
+where the pulmonary vein
+joins the left atrium
+
+893
+00:49:30,830 --> 00:49:33,960
+is electrically isolated
+from the rest of the heart
+
+894
+00:49:40,190 --> 00:49:43,430
+now you may be asking
+does everyone with atrial
+
+895
+00:49:43,430 --> 00:49:46,510
+fibrillation need to be
+anticoagulated well clinically
+
+896
+00:49:46,510 --> 00:49:49,230
+there's a score that could
+be assigned to patients and
+
+897
+00:49:49,230 --> 00:49:51,670
+a certain score denotes
+which category you fall into.
+
+898
+00:49:51,830 --> 00:49:55,330
+This is referred to
+as a CHADS-VASC score.
+
+899
+00:49:56,090 --> 00:49:59,770
+Now, the CHADS-VASC score
+is used to stratify a
+
+900
+00:49:59,770 --> 00:50:03,310
+patient's need for anticoagulation
+if the cause of the
+
+901
+00:50:03,310 --> 00:50:07,450
+atrial fibrillation or atrial
+flutter is non-valvulated.
+
+902
+00:50:07,450 --> 00:50:09,650
+This is an important
+distinction to make because
+
+903
+00:50:09,650 --> 00:50:12,750
+if the cause of atrial
+fibrillation or flutter is
+
+904
+00:50:12,750 --> 00:50:16,150
+valve-related, they
+automatically get anticoagulated.
+
+905
+00:50:16,550 --> 00:50:18,620
+If the cause is not valvular,
+
+906
+00:50:18,950 --> 00:50:22,370
+then find out the score.
+So to help you remember
+
+907
+00:50:22,370 --> 00:50:24,890
+Chad's mask, I attached
+a picture of Chadwick
+
+908
+00:50:24,890 --> 00:50:27,050
+Boseman, the actor who
+played the superhero Black
+
+909
+00:50:27,050 --> 00:50:30,170
+Panther in 2018, and
+Jackie Robinson in 2013.
+
+910
+00:50:30,630 --> 00:50:33,170
+Didn't have AFib,
+but he was a prolific
+
+911
+00:50:33,170 --> 00:50:34,750
+actor who left a
+big impact on the
+
+912
+00:50:34,750 --> 00:50:36,370
+world, so I'm happy
+to include him here.
+
+913
+00:50:36,790 --> 00:50:39,550
+Now, the higher your
+score on the Chad's mask
+
+914
+00:50:39,550 --> 00:50:41,650
+scale, the more prone
+you are to developing a
+
+915
+00:50:41,650 --> 00:50:45,270
+stroke. Remember, atria
+are fibrillating and
+
+916
+00:50:45,270 --> 00:50:48,050
+there is not the usual
+atrial contraction. Due
+
+917
+00:50:48,050 --> 00:50:50,650
+to this, blood pools
+in the atria where this
+
+918
+00:50:50,650 --> 00:50:53,580
+lack of movement can be
+predisposed to clots.
+
+919
+00:50:54,390 --> 00:50:58,170
+We anticoagulate based
+on the CHAZ-VAS score.
+
+920
+00:51:06,710 --> 00:51:07,370
+Next,
+
+921
+00:51:07,510 --> 00:51:09,230
+atrial flutter is
+another type of
+
+922
+00:51:09,230 --> 00:51:11,930
+supraventricular
+ticharrhythmia and contrasting
+
+923
+00:51:11,930 --> 00:51:14,950
+to AFib, it's
+regularly irregular.
+
+924
+00:51:15,470 --> 00:51:18,590
+Atrial fibrillation is
+caused by a reentrant circuit
+
+925
+00:51:18,590 --> 00:51:21,150
+in the right atrium that
+circles around and through
+
+926
+00:51:21,150 --> 00:51:24,370
+the cavo tricuspid is
+smith, which is a high yield
+
+927
+00:51:24,370 --> 00:51:27,750
+location to know. The most
+common atrial to ventricular
+
+928
+00:51:27,750 --> 00:51:30,430
+contraction ratio is 2 to
+1, meaning that the atria
+
+929
+00:51:30,430 --> 00:51:33,810
+contracts twice for every
+one ventricular contraction.
+
+930
+00:51:35,070 --> 00:51:38,190
+Meaning that on an
+EKG, you'd likely see
+
+931
+00:51:38,190 --> 00:51:41,790
+two P waves before a
+conducted QRS complex.
+
+932
+00:51:42,410 --> 00:51:45,210
+For those that have not
+picked up on it yet, there's
+
+933
+00:51:45,210 --> 00:51:47,630
+a butterfly also because
+butterflies flutter.
+
+934
+00:51:54,780 --> 00:51:57,240
+Here is the anatomical
+reentrant circuit
+
+935
+00:51:57,240 --> 00:51:59,040
+of atrial flutter,
+where the circuit does
+
+936
+00:51:59,040 --> 00:52:01,360
+not go through the AV
+node. Remember, the
+
+937
+00:52:01,360 --> 00:52:04,640
+circuit involves the
+cavotricuspid isthmus.
+
+938
+00:52:09,990 --> 00:52:12,470
+So now, talking a little
+bit more about the ECG
+
+939
+00:52:12,470 --> 00:52:16,170
+findings, we note that this is
+a narrow complex tachycardia,
+
+940
+00:52:16,370 --> 00:52:20,210
+tachyarrhythmia. It can
+be regular or regularly
+
+941
+00:52:20,210 --> 00:52:22,610
+irregular, and the main
+EKG findings that you can
+
+942
+00:52:22,610 --> 00:52:26,270
+see with a flutter is a
+sawtooth pattern or flutter
+
+943
+00:52:26,270 --> 00:52:29,430
+waves. You can think of
+a saw how rigid it is. If
+
+944
+00:52:29,430 --> 00:52:31,190
+you've never handled a
+saw, I suggest you look one
+
+945
+00:52:31,190 --> 00:52:34,430
+up and work on your handy
+and house working skills.
+
+946
+00:52:40,730 --> 00:52:44,170
+With AFLUTR, we typically
+treat it very similar to
+
+947
+00:52:44,170 --> 00:52:47,970
+atrial fibrillation. So
+the mainstay therapy,
+
+948
+00:52:47,970 --> 00:52:50,650
+emergently, is cardioversion
+with definitive treatment
+
+949
+00:52:50,650 --> 00:52:53,370
+being ablation. In this
+case, we're ablating the
+
+950
+00:52:53,370 --> 00:52:57,730
+cavil tricuspid isthmus as
+opposed to the pulmonary
+
+951
+00:52:57,730 --> 00:53:02,140
+vein in AFib. An easy
+way to remember the
+
+952
+00:53:02,150 --> 00:53:07,330
+location that we're ablating
+is the location of where
+
+953
+00:53:09,090 --> 00:53:12,330
+their fibrillation so
+the mainstay of emergent
+
+954
+00:53:12,330 --> 00:53:15,950
+therapy is cardioversion
+if unstable with
+
+955
+00:53:15,950 --> 00:53:19,630
+definitive treatment being
+ablation in the cavil
+
+956
+00:53:19,630 --> 00:53:24,250
+tricuspid isthmus now where
+is the cavil tricuspid
+
+957
+00:53:24,250 --> 00:53:26,650
+isthmus the location well
+the name kind of gives
+
+958
+00:53:26,650 --> 00:53:30,530
+it away cavo, inferior
+vena cava, tricuspid,
+
+959
+00:53:30,530 --> 00:53:33,340
+tricuspid valve is between
+the two structures.
+
+960
+00:53:38,930 --> 00:53:43,290
+So next up is multifocal
+atrial tachycardia aka
+
+961
+00:53:43,290 --> 00:53:47,890
+mat. Now with the name
+you can deduce what it
+
+962
+00:53:47,890 --> 00:53:52,530
+means. We have multifocal
+which means many origins,
+
+963
+00:53:52,950 --> 00:53:56,550
+atrial which is
+supraventricular and tachycardia
+
+964
+00:53:56,550 --> 00:53:59,870
+causing a fast heart rate.
+The rhythm in this case
+
+965
+00:53:59,870 --> 00:54:03,770
+is irregular due to the
+three different P waves.
+
+966
+00:54:04,250 --> 00:54:07,110
+These different P
+waves are also gone.
+
+967
+00:54:07,990 --> 00:54:10,910
+Now, the defining
+feature of multifocal
+
+968
+00:54:10,910 --> 00:54:12,790
+atrial tachycardia is
+that we need to see
+
+969
+00:54:12,790 --> 00:54:15,790
+at least three
+different P wave shapes,
+
+970
+00:54:16,030 --> 00:54:17,850
+right? Again, multi, three,
+
+971
+00:54:18,140 --> 00:54:21,870
+so three different P
+waves. The treatment
+
+972
+00:54:21,870 --> 00:54:24,350
+for multifocal atrial
+tachycardia or mat is
+
+973
+00:54:24,350 --> 00:54:27,110
+rapamil or to treat
+the underlying cause.
+
+974
+00:54:35,750 --> 00:54:37,010
+These arrows show three
+
+975
+00:54:37,010 --> 00:54:38,610
+different P-wave morphologies.
+
+976
+00:54:39,170 --> 00:54:43,570
+As you can see here, we
+have one P-wave morphology,
+
+977
+00:54:43,950 --> 00:54:45,190
+two,
+
+978
+00:54:45,690 --> 00:54:46,870
+three,
+
+979
+00:54:47,370 --> 00:54:50,150
+so on and so forth, four,
+
+980
+00:54:50,270 --> 00:54:50,830
+etc.
+
+981
+00:54:52,090 --> 00:54:54,690
+This rhythm can be very
+difficult sometimes to
+
+982
+00:54:54,690 --> 00:54:57,690
+distinguish from AFib, but
+the way we do this is by
+
+983
+00:54:57,690 --> 00:54:59,970
+identifying distinct P
+waves. We've identified
+
+984
+00:54:59,970 --> 00:55:02,970
+at least three, which
+makes us think multifocal
+
+985
+00:55:02,970 --> 00:55:06,390
+atrial tachycardia. Whereas
+in AFib, we wouldn't
+
+986
+00:55:06,390 --> 00:55:09,330
+see any P waves, we'd see
+only fibrillatory waves.
+
+987
+00:55:14,150 --> 00:55:15,550
+Now, let's talk about some
+
+988
+00:55:15,550 --> 00:55:18,550
+tachyarrhythmias
+with a wide QRS.
+
+989
+00:55:24,030 --> 00:55:26,230
+So first up, we have
+what are called premature
+
+990
+00:55:26,230 --> 00:55:29,290
+ventricular contractions,
+also known as PBCs.
+
+991
+00:55:29,290 --> 00:55:32,530
+They're kind of similar to
+PACs or premature atrial
+
+992
+00:55:32,530 --> 00:55:35,430
+contractions, but these
+ectopic beaks come
+
+993
+00:55:35,430 --> 00:55:38,050
+from below the bundle of
+his in the ventricles.
+
+994
+00:55:38,050 --> 00:55:41,290
+Now, reminder, remember,
+the QRS complex
+
+995
+00:55:41,290 --> 00:55:43,610
+represents ventricular
+depolarization.
+
+996
+00:55:43,690 --> 00:55:48,230
+So, all of these
+arrhythmias that will
+
+997
+00:55:48,230 --> 00:55:50,930
+originate and affect
+the ventricles
+
+998
+00:55:50,930 --> 00:55:54,470
+would have an effect
+on the QRS complex.
+
+999
+00:55:54,470 --> 00:55:57,270
+So, you aren't surprised
+that PVCs, in this
+
+1000
+00:55:57,270 --> 00:56:01,770
+case, have a wide or
+prolonged QRS interval,
+
+1001
+00:56:01,770 --> 00:56:03,990
+as you can see in the
+top right-hand corner.
+
+1002
+00:56:04,180 --> 00:56:06,610
+This is a fun little
+quiz question. if you're
+
+1003
+00:56:06,610 --> 00:56:08,230
+ever out to a party
+with your med school
+
+1004
+00:56:08,230 --> 00:56:11,230
+friends what is the
+most common cause of pvc
+
+1005
+00:56:11,910 --> 00:56:15,390
+lack of sleep anyways there
+are a number of causes of
+
+1006
+00:56:15,390 --> 00:56:17,970
+pvcs and you may even be
+experiencing one while listening
+
+1007
+00:56:17,970 --> 00:56:20,670
+to this lecture probably
+due to lack of sleep or
+
+1008
+00:56:20,670 --> 00:56:24,540
+some boredom I won't take it
+personally but it's okay you
+
+1009
+00:56:24,550 --> 00:56:28,340
+only need to treat pvcs if
+they're symptomatic frequent
+
+1010
+00:56:28,340 --> 00:56:32,250
+or organized into what is
+known as couplets, bigeminy,
+
+1011
+00:56:32,250 --> 00:56:37,530
+or trigeminy, meaning two
+or three in a row, etc.
+
+1012
+00:56:37,810 --> 00:56:41,350
+For more details about
+couplets, bigeminy, and the
+
+1013
+00:56:41,350 --> 00:56:43,770
+likes of, you can look at
+some notes that we have
+
+1014
+00:56:43,910 --> 00:56:46,850
+in the handout for
+this lecture. It
+
+1015
+00:56:46,850 --> 00:56:48,610
+may not be tested on
+this, but it could
+
+1016
+00:56:48,610 --> 00:56:50,030
+be helpful in
+clinical rotations.
+
+1017
+00:56:50,210 --> 00:56:52,070
+And again, definitive treatment
+
+1018
+00:56:52,070 --> 00:56:54,870
+in extreme cases is ablation.
+
+1019
+00:56:55,590 --> 00:57:00,890
+Now, the worst that
+frequent PVCs can do is
+
+1020
+00:57:00,890 --> 00:57:03,730
+inducing idiopathic
+ventricular tachycardia.
+
+1021
+00:57:03,730 --> 00:57:06,790
+We'll discuss this
+condition on the next slide.
+
+1022
+00:57:12,240 --> 00:57:14,980
+So speaking of ventricular
+tachycardia, here we
+
+1023
+00:57:14,980 --> 00:57:17,180
+see this dangerous
+arrhythmia that puts you very
+
+1024
+00:57:17,180 --> 00:57:20,620
+close to death. This is
+a reentering arrhythmia
+
+1025
+00:57:20,620 --> 00:57:23,500
+brought on by an
+underlying cardiomyopathy,
+
+1026
+00:57:23,500 --> 00:57:26,940
+for example. This wide
+complex tachyarrhythmia
+
+1027
+00:57:26,940 --> 00:57:30,080
+is from a single ventricular
+ectopic pacemaker.
+
+1028
+00:57:30,260 --> 00:57:32,680
+Hence, we call it a monomorphic
+
+1029
+00:57:32,680 --> 00:57:34,020
+ventricular tachycardia.
+
+1030
+00:57:34,180 --> 00:57:36,880
+On exams, if you see
+ventricular tachycardia,
+
+1031
+00:57:36,880 --> 00:57:37,900
+you should assume
+that you're talking
+
+1032
+00:57:37,900 --> 00:57:41,100
+about monomorphic.
+So now, what makes
+
+1033
+00:57:41,100 --> 00:57:44,260
+this monomorphic also
+in practical terms?
+
+1034
+00:57:44,610 --> 00:57:46,190
+When we look at an ECG
+
+1035
+00:57:46,660 --> 00:57:49,100
+and we look at
+the QRS complexes,
+
+1036
+00:57:49,100 --> 00:57:50,940
+they look very
+similar to each other.
+
+1037
+00:57:51,540 --> 00:57:53,960
+This looks pretty
+identical to this one,
+
+1038
+00:57:53,960 --> 00:57:57,520
+to this one, to this
+one, to this one, etc.
+
+1039
+00:57:57,680 --> 00:58:02,220
+They have pretty much
+one morphology, hence
+
+1040
+00:58:02,220 --> 00:58:05,380
+a monomorphic
+ventricular psychocardia.
+
+1041
+00:58:06,680 --> 00:58:08,920
+Now, the P-waves
+are usually obscured
+
+1042
+00:58:08,920 --> 00:58:11,620
+or not present in
+the QRS complex.
+
+1043
+00:58:12,260 --> 00:58:14,580
+Usually patients
+also with ventricular
+
+1044
+00:58:14,580 --> 00:58:18,040
+psychocardia are
+often symptomatic.
+
+1045
+00:58:18,140 --> 00:58:20,300
+For emergent
+treatment, electrical
+
+1046
+00:58:20,300 --> 00:58:22,100
+cardioversion is the mainstay.
+
+1047
+00:58:22,300 --> 00:58:25,880
+Pharmacological interventions
+used in the ACLS protocol
+
+1048
+00:58:25,880 --> 00:58:29,580
+you'll receive for a third
+year involve alternating
+
+1049
+00:58:29,580 --> 00:58:34,380
+between amiodarone,
+lidocaine, and epinephrine.
+
+1050
+00:58:36,400 --> 00:58:39,060
+If monomorphic ventricle
+tachycardia puts
+
+1051
+00:58:39,060 --> 00:58:41,120
+you close to death,
+ventricle fibrillation
+
+1052
+00:58:41,120 --> 00:58:42,620
+has you knocking
+on heaven's door.
+
+1053
+00:58:42,940 --> 00:58:46,100
+V-fib is a chaotic
+depolarization of the ventricles
+
+1054
+00:58:46,100 --> 00:58:49,260
+that leads to a loss of
+cardiac output. The treatment
+
+1055
+00:58:49,260 --> 00:58:52,200
+for V-fib includes immediate
+defibrillation and ACS
+
+1056
+00:58:52,200 --> 00:58:54,900
+protocol, like we mentioned
+in the previous slide.
+
+1057
+00:58:54,980 --> 00:58:59,180
+V-fib is usually caused
+or result of an MI, so
+
+1058
+00:58:59,180 --> 00:59:01,200
+if not in the setting
+of an MI, it usually
+
+1059
+00:59:01,200 --> 00:59:04,660
+requires implantation of an
+implantable defibrillator,
+
+1060
+00:59:04,660 --> 00:59:06,700
+especially if the
+cause is irreversible.
+
+1061
+00:59:07,720 --> 00:59:11,020
+Now, let's talk a bit
+about Tercise de Poin.
+
+1062
+00:59:11,200 --> 00:59:14,780
+This is a distinct
+form of polymorphic
+
+1063
+00:59:14,780 --> 00:59:16,300
+ventricular tachycardia. Now,
+
+1064
+00:59:17,800 --> 00:59:20,060
+when we compare this to
+the monomorphic ventricular
+
+1065
+00:59:20,060 --> 00:59:22,820
+tachycardia that we just
+spoke about, when we talk
+
+1066
+00:59:22,820 --> 00:59:25,020
+about polymorphic, we're
+talking about more than one
+
+1067
+00:59:25,020 --> 00:59:28,890
+morphology. So if we
+were to look at the QRS
+
+1068
+00:59:30,680 --> 00:59:35,720
+complexes, we see different
+morphologies, different shapes,
+
+1069
+00:59:35,720 --> 00:59:39,160
+different amplitudes. So
+we have polymorphism of
+
+1070
+00:59:39,160 --> 00:59:42,490
+these complexes, hence a
+polymorphic tachycardia.
+
+1071
+00:59:44,120 --> 00:59:47,640
+So the translation in
+French of torsades de
+
+1072
+00:59:47,640 --> 00:59:50,960
+point means twisting
+about the points. In
+
+1073
+00:59:50,960 --> 00:59:53,800
+our terms, a constantly
+changing QRS axis.
+
+1074
+00:59:53,800 --> 00:59:56,800
+This is a pretty easy
+ECG finding to identify
+
+1075
+00:59:56,800 --> 00:59:58,640
+because it looks
+like points on the
+
+1076
+00:59:58,640 --> 01:00:02,120
+ECG that are separated
+by a hump or humps.
+
+1077
+01:00:02,360 --> 01:00:05,540
+The acute treatment is
+usually IV magnesium as
+
+1078
+01:00:05,540 --> 01:00:08,500
+hypomagnesemia is one of the
+most common causes of torsades.
+
+1079
+01:00:08,500 --> 01:00:12,080
+If unstable, we can also
+utilize cardioversion. So
+
+1080
+01:00:17,000 --> 01:00:20,600
+here's a 12-lead EKG
+showing Torsas de Poin.
+
+1081
+01:00:20,600 --> 01:00:23,600
+Usually this is a pretty
+high-yield image to know,
+
+1082
+01:00:23,600 --> 01:00:27,100
+especially on boards.
+This is one of the ways
+
+1083
+01:00:27,100 --> 01:00:31,700
+that they will present
+Torsas de Poin on boards.
+
+1084
+01:00:32,040 --> 01:00:35,580
+Usually they'll have
+a normal sinus rhythm
+
+1085
+01:00:36,190 --> 01:00:40,480
+preceding the chaotic
+rhythm of Torsas de Poin.
+
+1086
+01:00:43,160 --> 01:00:44,520
+In contrast,
+
+1087
+01:00:44,840 --> 01:00:47,660
+on boards, when they
+want to show you and clue
+
+1088
+01:00:47,660 --> 01:00:50,040
+you into ventricle
+fibrillation, they won't
+
+1089
+01:00:50,040 --> 01:00:53,400
+show you the preceding
+normal sinus rhythm.
+
+1090
+01:00:53,400 --> 01:00:56,320
+They'll just show you
+an EKG from beginning
+
+1091
+01:00:56,320 --> 01:00:58,800
+to end. It'll just be
+fibrillatory waves.
+
+1092
+01:01:00,020 --> 01:01:02,260
+By this point, you
+should know the drill.
+
+1093
+01:01:02,260 --> 01:01:05,280
+Take about 10 seconds,
+pause the video,
+
+1094
+01:01:05,560 --> 01:01:07,720
+answer the question,
+and then come back.
+
+1095
+01:01:11,980 --> 01:01:16,240
+Okay. So, a patient is
+unstable in ventricular
+
+1096
+01:01:16,240 --> 01:01:19,900
+tachycardia with a pulse.
+You activate the appropriate
+
+1097
+01:01:19,900 --> 01:01:23,380
+hospital code. What needs to
+get done as you are in the
+
+1098
+01:01:23,380 --> 01:01:27,200
+room with three nurses?
+A, activate ACLS protocol.
+
+1099
+01:01:27,340 --> 01:01:31,040
+B, start chest compressions.
+C, prepare and place
+
+1100
+01:01:31,040 --> 01:01:33,200
+the pads of a defibrillator
+onto the patient.
+
+1101
+01:01:33,200 --> 01:01:36,960
+Or D, give amiodarone.
+Or E, all of the above.
+
+1102
+01:01:38,840 --> 01:01:42,320
+So, correct answer
+E, all of the above.
+
+1103
+01:01:43,050 --> 01:01:45,700
+FIFIB is a bad rhythm
+to have, it's an
+
+1104
+01:01:45,700 --> 01:01:47,420
+absolute emergency,
+and everything you see
+
+1105
+01:01:47,420 --> 01:01:49,400
+must be accomplished
+as soon as possible.
+
+1106
+01:01:49,520 --> 01:01:51,380
+Most hospitals have
+some sort of co
+
+1107
+01:01:51,380 --> 01:01:53,560
+-team that have
+predetermined roles.
+
+1108
+01:01:56,060 --> 01:01:58,740
+So again, same routine,
+
+1109
+01:01:59,260 --> 01:02:02,100
+take about 10 second pause and
+
+1110
+01:02:02,100 --> 01:02:03,780
+then come back
+when you're ready.
+
+1111
+01:02:07,700 --> 01:02:08,740
+So,
+
+1112
+01:02:09,080 --> 01:02:11,020
+69-year-old female represents
+
+1113
+01:02:11,020 --> 01:02:12,900
+to the ER with palpitations.
+
+1114
+01:02:13,240 --> 01:02:16,220
+On EKG, you see a
+sawtooth pattern,
+
+1115
+01:02:16,220 --> 01:02:18,440
+something you recurrently
+has every so often.
+
+1116
+01:02:19,180 --> 01:02:22,380
+Her cardiologist plans for
+gold standard treatment,
+
+1117
+01:02:22,380 --> 01:02:23,980
+determining the possibility of
+
+1118
+01:02:23,980 --> 01:02:25,140
+this occurring in the future.
+
+1119
+01:02:25,140 --> 01:02:26,660
+What is the treatment?
+
+1120
+01:02:26,700 --> 01:02:29,520
+A, ablation of myocytes
+near the pulmonary veins.
+
+1121
+01:02:29,560 --> 01:02:33,340
+B, ablation of myocytes
+near the cavotric
+
+1122
+01:02:33,340 --> 01:02:37,340
+cuspid isthmus. C, long
+-term propranolol. D, long
+
+1123
+01:02:37,340 --> 01:02:40,160
+-term amiodarone, or E,
+ablation of myocytes
+
+1124
+01:02:40,160 --> 01:02:42,500
+connecting the bundle
+of can to the AV node.
+
+1125
+01:02:43,320 --> 01:02:46,040
+So, as you mentioned
+earlier, a sawtooth
+
+1126
+01:02:46,040 --> 01:02:48,400
+pattern is characteristic
+of what arrhythmia?
+
+1127
+01:02:49,040 --> 01:02:50,040
+Correct.
+
+1128
+01:02:50,220 --> 01:02:51,440
+Atrial fibrillation.
+
+1129
+01:02:51,500 --> 01:02:54,460
+Now, the gold standard
+or definitive treatment
+
+1130
+01:02:54,460 --> 01:02:57,540
+for atrial flutter is
+going to be ablation,
+
+1131
+01:02:57,820 --> 01:03:02,320
+particularly of the
+cavotricuspid isthmus region,
+
+1132
+01:03:02,320 --> 01:03:05,520
+where the reentient circuit
+is most commonly initiated.
+
+1133
+01:03:06,010 --> 01:03:08,500
+Choice A, ablation of
+myocytes near the pulmonary
+
+1134
+01:03:08,500 --> 01:03:11,580
+veins, describes treatment
+for atrial fibrillation.
+
+1135
+01:03:12,100 --> 01:03:14,580
+Ablation of myocytes
+connecting the bundle
+
+1136
+01:03:14,580 --> 01:03:17,640
+of Kent to the AV
+node, describes the
+
+1137
+01:03:17,640 --> 01:03:19,880
+treatment for Wolf
+-Margonson-White syndrome.
+
+1138
+01:03:21,920 --> 01:03:25,440
+So here, I've included
+some of the more
+
+1139
+01:03:25,440 --> 01:03:28,480
+important information
+from the lecture.
+
+1140
+01:03:28,660 --> 01:03:32,340
+I think if you know
+this information along
+
+1141
+01:03:32,340 --> 01:03:35,040
+with some of the
+pathophysics behind these
+
+1142
+01:03:35,040 --> 01:03:37,400
+arrhythmias and how
+to recognize them on
+
+1143
+01:03:37,400 --> 01:03:39,750
+an ECG, I think you'll
+be in a good place.
+
+1144
+01:04:00,130 --> 01:04:02,110
+So that concludes
+the third lecture,
+
+1145
+01:04:02,110 --> 01:04:03,750
+Atrial Ventricular Arrhythmias.
+
+1146
+01:04:03,750 --> 01:04:05,530
+Hope you found it
+valuable to your
+
+1147
+01:04:05,530 --> 01:04:07,270
+learning, and I
+appreciate any feedback.
+
+1148
+01:04:07,270 --> 01:04:09,650
+So feel free to email
+me, my email's on
+
+1149
+01:04:09,650 --> 01:04:11,850
+the screen, as well
+as the emails of
+
+1150
+01:04:11,850 --> 01:04:13,710
+some of the senior
+members of the team.
+
+1151
+01:04:14,280 --> 01:04:16,220
+We're around, so if
+you have any questions,
+
+1152
+01:04:16,220 --> 01:04:19,190
+don't hesitate to reach
+out. Also, feel free to
+
+1153
+01:04:19,190 --> 01:04:21,390
+join us on Mondays from
+12 to 1 p.m. Eastern
+
+1154
+01:04:21,390 --> 01:04:24,510
+Standard Time over Zoom
+to review some ECGs for
+
+1155
+01:04:24,510 --> 01:04:27,010
+more exposure with an
+expert like Dr. Cohen.
+
+1156
+01:04:27,190 --> 01:04:29,950
+And again, as always, make
+sure to take some time for
+
+1157
+01:04:29,950 --> 01:04:32,130
+yourself every day because
+your mental health is an
+
+1158
+01:04:32,130 --> 01:04:35,270
+important aspect of developing
+yourself, not only as
+
+1159
+01:04:35,270 --> 01:04:39,550
+a person, for your patients,
+and also as a physician.
+
+1160
+01:04:39,830 --> 01:04:41,370
+Best of luck to you guys.
