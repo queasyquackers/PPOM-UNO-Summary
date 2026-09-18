@@ -2016,6 +2016,14 @@ window.receiveLectureIndex([
     "readingTime": 17
   },
   {
+    "id": "cv74",
+    "title": "Lecture #74: Ischemic Heart Disease Part 1 - Stable and Vasospastic Angina",
+    "module": "Clinical Medicine",
+    "tags": "Lecture #74",
+    "path": "content/json/cv74.file.js",
+    "readingTime": 16
+  },
+  {
     "id": "cv75",
     "title": "Lecture #75: Acute Coronary Syndrome and Myocardial Infarction Part II: Management and Outcomes",
     "module": "Clinical Medicine",
