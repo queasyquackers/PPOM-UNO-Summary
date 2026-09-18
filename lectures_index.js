@@ -2000,6 +2000,14 @@ window.receiveLectureIndex([
     "readingTime": 17
   },
   {
+    "id": "cv73",
+    "title": "Lecture #73: Pulmonary Thromboembolism",
+    "module": "Clinical Medicine",
+    "tags": "Lecture #73",
+    "path": "content/json/cv73.file.js",
+    "readingTime": 17
+  },
+  {
     "id": "cv75",
     "title": "Lecture #75: Acute Coronary Syndrome and Myocardial Infarction Part II: Management and Outcomes",
     "module": "Clinical Medicine",
