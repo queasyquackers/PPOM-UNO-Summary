@@ -1910,5 +1910,21 @@ window.receiveLectureIndex([
     "tags": "Lecture #54",
     "path": "content/json/cv54.file.js",
     "readingTime": 18
+  },
+  {
+    "id": "cv61",
+    "title": "Lecture #61: Lipid Metabolism Part 1: Cholesterol and Bile Acids",
+    "module": "Biochemistry",
+    "tags": "Lecture #61",
+    "path": "content/json/cv61.file.js",
+    "readingTime": 13
+  },
+  {
+    "id": "cv65",
+    "title": "Lecture #65: Pathology of Atherosclerosis and Ischemic Heart Disease",
+    "module": "Pathology",
+    "tags": "Lecture #65",
+    "path": "content/json/cv65.file.js",
+    "readingTime": 15
   }
 ]);
