@@ -1912,6 +1912,22 @@ window.receiveLectureIndex([
     "readingTime": 18
   },
   {
+    "id": "cv56",
+    "title": "Lecture #56: Introduction to the Still Technique",
+    "module": "OMM",
+    "tags": "Lecture #56",
+    "path": "content/json/cv56.file.js",
+    "readingTime": 9
+  },
+  {
+    "id": "cv57",
+    "title": "Lecture #57: OMM Lab - Still Technique: Cervical, Lumbar, Thoracic, Innominate and Ribs",
+    "module": "OMM",
+    "tags": "Lecture #57",
+    "path": "content/json/cv57.file.js",
+    "readingTime": 12
+  },
+  {
     "id": "cv58",
     "title": "Lecture #58: The Abnormal Cardiovascular Examination and Clinical Decision Making",
     "module": "DPR",
