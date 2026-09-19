@@ -2104,11 +2104,27 @@ window.receiveLectureIndex([
     "readingTime": 16
   },
   {
+    "id": "cv88",
+    "title": "Lecture #88: Clinical: Electrolyte Disorders - Hypernatremia",
+    "module": "Clinical Medicine",
+    "tags": "Lecture #88",
+    "path": "content/json/cv88.file.js",
+    "readingTime": 14
+  },
+  {
     "id": "cv89",
     "title": "Lecture #89: Clinical: Electrolyte Disorders - Hyponatremia",
     "module": "Clinical Medicine",
     "tags": "Lecture #89",
     "path": "content/json/cv89.file.js",
     "readingTime": 14
+  },
+  {
+    "id": "cv91",
+    "title": "Lecture #91: Cardiac Valve Pathology",
+    "module": "Pathology",
+    "tags": "Lecture #91",
+    "path": "content/json/cv91.file.js",
+    "readingTime": 17
   }
 ]);
