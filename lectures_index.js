@@ -1912,6 +1912,14 @@ window.receiveLectureIndex([
     "readingTime": 18
   },
   {
+    "id": "cv55",
+    "title": "Lecture #55: Osteopathic Considerations of Neck Pain",
+    "module": "OMM",
+    "tags": "Lecture #55",
+    "path": "content/json/cv55.file.js",
+    "readingTime": 14
+  },
+  {
     "id": "cv56",
     "title": "Lecture #56: Introduction to the Still Technique",
     "module": "OMM",
@@ -2006,6 +2014,14 @@ window.receiveLectureIndex([
     "tags": "Lecture #67",
     "path": "content/json/cv67.file.js",
     "readingTime": 18
+  },
+  {
+    "id": "cv68",
+    "title": "Lecture #68: Introduction to Articulatory and Myofascial Release Techniques",
+    "module": "OMM",
+    "tags": "Lecture #68",
+    "path": "content/json/cv68.file.js",
+    "readingTime": 11
   },
   {
     "id": "cv71",
