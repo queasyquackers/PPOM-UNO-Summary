@@ -34,7 +34,10 @@ const BLOCKS = {
   // Lectures keep a "cv" id prefix (cv1..cv41, historical from the original
   // "Cardiovascular" name) so display numbers stay 1–41 without colliding with
   // Neuro's l1–l41. See getBlockInfo() below.
-  cardio: { name: "CPR Block 1", shortName: "CPR 1", range: "CV1 – CV41", color: "#136F73", darkColor: "#5FBFC2", start: 1, end: 41, number: 5 },
+  cardio: { name: "CPR Block 1", shortName: "CPR 1", range: "CV1 – CV54", color: "#136F73", darkColor: "#5FBFC2", start: 1, end: 54, number: 5 },
+  // CPR Block 2 (semester 2, weeks 7-11): the same cv number space continues,
+  // so cv55 and up belong here rather than to Block 1.
+  cpr2:   { name: "CPR Block 2", shortName: "CPR 2", range: "CV55 – CV112", color: "#1F5E8C", darkColor: "#6FA8D6", start: 55, end: 112, number: 6 },
 };
 
 // Roman numeral for each block, indexed by block key. Matches the curriculum
@@ -46,6 +49,7 @@ const BLOCK_NUMERALS = {
   msk:   "III",
   heme:  "IV",
   cardio: "V",
+  cpr2:   "VI",
 };
 
 // Strip the "Lecture #XYZ:" prefix from titles before display.
@@ -62,7 +66,11 @@ function getBlockInfo(id) {
   if (!id) return null;
   // Cardiovascular lectures carry a "cv" id prefix (cv1..cv41) so their display
   // number can stay 1–41 without clashing with Neuro's l1–l41. Match them first.
-  if (/^cv/i.test(id)) return { ...BLOCKS.cardio, key: "cardio" };
+  if (/^cv/i.test(id)) {
+    const cvNum = parseInt((id.match(/\d+/) || ["0"])[0], 10);
+    if (cvNum >= BLOCKS.cpr2.start) return { ...BLOCKS.cpr2, key: "cpr2" };
+    return { ...BLOCKS.cardio, key: "cardio" };
+  }
   const numMatch = id.replace(/^l/i, "").match(/(\d+)/);
   if (!numMatch) return BLOCKS.neuro; // default for l1a etc
   const num = parseInt(numMatch[1]);

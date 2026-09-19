@@ -1910,5 +1910,341 @@ window.receiveLectureIndex([
     "tags": "Lecture #54",
     "path": "content/json/cv54.file.js",
     "readingTime": 18
+  },
+  {
+    "id": "cv58",
+    "title": "Lecture #58: The Abnormal Cardiovascular Examination and Clinical Decision Making",
+    "module": "DPR",
+    "tags": "Lecture #58",
+    "path": "content/json/cv58.file.js",
+    "readingTime": 18
+  },
+  {
+    "id": "cv59",
+    "title": "Lecture #59: Pathophysiology: Acid-Base Disorders",
+    "module": "Pathophysiology",
+    "tags": "Lecture #59",
+    "path": "content/json/cv59.file.js",
+    "readingTime": 18
+  },
+  {
+    "id": "cv60",
+    "title": "Lecture #60: Pathology: Pulmonary Vascular Disease",
+    "module": "Pathology",
+    "tags": "Lecture #60",
+    "path": "content/json/cv60.file.js",
+    "readingTime": 16
+  },
+  {
+    "id": "cv61",
+    "title": "Lecture #61: Lipid Metabolism Part 1: Cholesterol and Bile Acids",
+    "module": "Biochemistry",
+    "tags": "Lecture #61",
+    "path": "content/json/cv61.file.js",
+    "readingTime": 13
+  },
+  {
+    "id": "cv62",
+    "title": "Lecture #62: Lipid Metabolism Part 2 - Lipoproteins",
+    "module": "Biochemistry",
+    "tags": "Lecture #62",
+    "path": "content/json/cv62.file.js",
+    "readingTime": 14
+  },
+  {
+    "id": "cv63",
+    "title": "Lecture #63: Lipid Metabolism Part 3: Dyslipidemias and Hyperlipoproteinemias",
+    "module": "Biochemistry",
+    "tags": "Lecture #63",
+    "path": "content/json/cv63.file.js",
+    "readingTime": 12
+  },
+  {
+    "id": "cv64",
+    "title": "Lecture #64: Clinical Dyslipidemia",
+    "module": "Clinical Medicine",
+    "tags": "Lecture #64",
+    "path": "content/json/cv64.file.js",
+    "readingTime": 14
+  },
+  {
+    "id": "cv65",
+    "title": "Lecture #65: Pathology of Atherosclerosis and Ischemic Heart Disease",
+    "module": "Pathology",
+    "tags": "Lecture #65",
+    "path": "content/json/cv65.file.js",
+    "readingTime": 15
+  },
+  {
+    "id": "cv66",
+    "title": "Lecture #66: Pathology of Myocardial Infarction and Ischemic Heart Disease",
+    "module": "Pathology",
+    "tags": "Lecture #66",
+    "path": "content/json/cv66.file.js",
+    "readingTime": 17
+  },
+  {
+    "id": "cv67",
+    "title": "Lecture #67: Introduction to Clinical Nutrition",
+    "module": "Clinical Medicine",
+    "tags": "Lecture #67",
+    "path": "content/json/cv67.file.js",
+    "readingTime": 18
+  },
+  {
+    "id": "cv71",
+    "title": "Lecture #71: Pharmacology of Angina Pectoris",
+    "module": "Pharmacology",
+    "tags": "Lecture #71",
+    "path": "content/json/cv71.file.js",
+    "readingTime": 17
+  },
+  {
+    "id": "cv72",
+    "title": "Lecture #72: Pharmacological Management of Dyslipidemia",
+    "module": "Pharmacology",
+    "tags": "Lecture #72",
+    "path": "content/json/cv72.file.js",
+    "readingTime": 17
+  },
+  {
+    "id": "cv73",
+    "title": "Lecture #73: Pulmonary Thromboembolism",
+    "module": "Clinical Medicine",
+    "tags": "Lecture #73",
+    "path": "content/json/cv73.file.js",
+    "readingTime": 17
+  },
+  {
+    "id": "cv74",
+    "title": "Lecture #74: Ischemic Heart Disease Part 1 - Stable and Vasospastic Angina",
+    "module": "Clinical Medicine",
+    "tags": "Lecture #74",
+    "path": "content/json/cv74.file.js",
+    "readingTime": 16
+  },
+  {
+    "id": "cv75",
+    "title": "Lecture #75: Acute Coronary Syndrome and Myocardial Infarction Part II: Management and Outcomes",
+    "module": "Clinical Medicine",
+    "tags": "Lecture #75",
+    "path": "content/json/cv75.file.js",
+    "readingTime": 15
+  },
+  {
+    "id": "cv76",
+    "title": "Lecture #76: Nutritional Aspects, Health Promotion and Counseling in the Prevention of Cardiovascular Disease",
+    "module": "Clinical Medicine",
+    "tags": "Lecture #76",
+    "path": "content/json/cv76.file.js",
+    "readingTime": 14
+  },
+  {
+    "id": "cv77",
+    "title": "Lecture #77: Arterial, Venous, and Lymphatic Disease",
+    "module": "Clinical Medicine",
+    "tags": "Lecture #77",
+    "path": "content/json/cv77.file.js",
+    "readingTime": 17
+  },
+  {
+    "id": "cv78",
+    "title": "Lecture #78: Aortic Dissection and Aneurysmal Disease",
+    "module": "Pathology",
+    "tags": "Lecture #78",
+    "path": "content/json/cv78.file.js",
+    "readingTime": 16
+  },
+  {
+    "id": "cv82",
+    "title": "Lecture #82: Pathophysiology of Arrhythmias",
+    "module": "Physiology",
+    "tags": "Lecture #82",
+    "path": "content/json/cv82.file.js",
+    "readingTime": 16
+  },
+  {
+    "id": "cv83",
+    "title": "Lecture #83: Clinical ECG - Atrial and Ventricular Arrhythmias",
+    "module": "Clinical Medicine",
+    "tags": "Lecture #83",
+    "path": "content/json/cv83.file.js",
+    "readingTime": 17
+  },
+  {
+    "id": "cv84",
+    "title": "Lecture #84: Clinical ECG - Conduction Blocks, Pacemakers, and Electrolyte Disturbances",
+    "module": "Clinical Medicine",
+    "tags": "Lecture #84",
+    "path": "content/json/cv84.file.js",
+    "readingTime": 14
+  },
+  {
+    "id": "cv85",
+    "title": "Lecture #85: Pharmacology of Antiarrhythmic Drugs",
+    "module": "Pharmacology",
+    "tags": "Lecture #85",
+    "path": "content/json/cv85.file.js",
+    "readingTime": 16
+  },
+  {
+    "id": "cv86",
+    "title": "Lecture #86: Electrolyte Disorders - Potassium Disorders",
+    "module": "Clinical Medicine",
+    "tags": "Lecture #86",
+    "path": "content/json/cv86.file.js",
+    "readingTime": 17
+  },
+  {
+    "id": "cv87",
+    "title": "Lecture #87: Clinical: Electrolyte Disorders - Calcium, Magnesium and Phosphate",
+    "module": "Clinical Medicine",
+    "tags": "Lecture #87",
+    "path": "content/json/cv87.file.js",
+    "readingTime": 16
+  },
+  {
+    "id": "cv88",
+    "title": "Lecture #88: Clinical: Electrolyte Disorders - Hypernatremia",
+    "module": "Clinical Medicine",
+    "tags": "Lecture #88",
+    "path": "content/json/cv88.file.js",
+    "readingTime": 14
+  },
+  {
+    "id": "cv89",
+    "title": "Lecture #89: Clinical: Electrolyte Disorders - Hyponatremia",
+    "module": "Clinical Medicine",
+    "tags": "Lecture #89",
+    "path": "content/json/cv89.file.js",
+    "readingTime": 14
+  },
+  {
+    "id": "cv91",
+    "title": "Lecture #91: Cardiac Valve Pathology",
+    "module": "Pathology",
+    "tags": "Lecture #91",
+    "path": "content/json/cv91.file.js",
+    "readingTime": 17
+  },
+  {
+    "id": "cv94",
+    "title": "Lecture #94: Pediatric Cardiac Considerations Part 3",
+    "module": "Clinical Medicine",
+    "tags": "Lecture #94",
+    "path": "content/json/cv94.file.js",
+    "readingTime": 16
+  },
+  {
+    "id": "cv95",
+    "title": "Lecture #95: Heart Failure: Epidemiology, Pathophysiology, Patient Evaluation and Guideline-Directed Management",
+    "module": "Clinical Medicine",
+    "tags": "Lecture #95",
+    "path": "content/json/cv95.file.js",
+    "readingTime": 17
+  },
+  {
+    "id": "cv96",
+    "title": "Lecture #96: Pharmacologic Management of Heart Failure",
+    "module": "Pharmacology",
+    "tags": "Lecture #96",
+    "path": "content/json/cv96.file.js",
+    "readingTime": 16
+  },
+  {
+    "id": "cv97",
+    "title": "Lecture #97: Pathology of Cardiomyopathies - Dilated and Hypertrophic",
+    "module": "Pathology",
+    "tags": "Lecture #97",
+    "path": "content/json/cv97.file.js",
+    "readingTime": 17
+  },
+  {
+    "id": "cv98",
+    "title": "Lecture #98: Pathology of Restrictive and Miscellaneous Cardiomyopathies",
+    "module": "Pathology",
+    "tags": "Lecture #98",
+    "path": "content/json/cv98.file.js",
+    "readingTime": 12
+  },
+  {
+    "id": "cv99",
+    "title": "Lecture #99: Valvular Heart Disease - Clinical Findings and Diagnosis",
+    "module": "Clinical Medicine",
+    "tags": "Lecture #99",
+    "path": "content/json/cv99.file.js",
+    "readingTime": 17
+  },
+  {
+    "id": "cv104",
+    "title": "Lecture #104: DPR: Abnormal Respiratory Exam",
+    "module": "DPR",
+    "tags": "Lecture #104",
+    "path": "content/json/cv104.file.js",
+    "readingTime": 17
+  },
+  {
+    "id": "cv105",
+    "title": "Lecture #105: Microbiology: Bacterial and Fungal Endocarditis",
+    "module": "Microbiology",
+    "tags": "Lecture #105",
+    "path": "content/json/cv105.file.js",
+    "readingTime": 17
+  },
+  {
+    "id": "cv106",
+    "title": "Lecture #106: Microbiology: Infectious Rheumatic Fever, Vasculitis and Cardiomyopathy",
+    "module": "Microbiology",
+    "tags": "Lecture #106",
+    "path": "content/json/cv106.file.js",
+    "readingTime": 14
+  },
+  {
+    "id": "cv107",
+    "title": "Lecture #107: Myocarditis, Pericarditis, and Cardiac Tumors",
+    "module": "Pathology",
+    "tags": "Lecture #107",
+    "path": "content/json/cv107.file.js",
+    "readingTime": 16
+  },
+  {
+    "id": "cv108",
+    "title": "Lecture #108: Inflammatory Heart Disease: Endocarditis, Myocarditis and Pericarditis - Findings and Diagnosis",
+    "module": "Pathology",
+    "tags": "Lecture #108",
+    "path": "content/json/cv108.file.js",
+    "readingTime": 16
+  },
+  {
+    "id": "cv109",
+    "title": "Lecture #109: Clinical: Pediatric Pulmonary Disease",
+    "module": "Clinical",
+    "tags": "Lecture #109",
+    "path": "content/json/cv109.file.js",
+    "readingTime": 16
+  },
+  {
+    "id": "cv110",
+    "title": "Lecture #110: Cardiogenetics / Pulmonary Genetics",
+    "module": "Genetics",
+    "tags": "Lecture #110",
+    "path": "content/json/cv110.file.js",
+    "readingTime": 17
+  },
+  {
+    "id": "cv111",
+    "title": "Lecture #111: Atelectasis, Acute Lung Injury and Pulmonary Edema",
+    "module": "Pathology",
+    "tags": "Lecture #111",
+    "path": "content/json/cv111.file.js",
+    "readingTime": 14
+  },
+  {
+    "id": "cv112",
+    "title": "Lecture #112: Pathology: Obstructive Lung Disease",
+    "module": "Pathology",
+    "tags": "Lecture #112",
+    "path": "content/json/cv112.file.js",
+    "readingTime": 17
   }
 ]);
