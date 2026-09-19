@@ -2142,5 +2142,21 @@ window.receiveLectureIndex([
     "tags": "Lecture #95",
     "path": "content/json/cv95.file.js",
     "readingTime": 17
+  },
+  {
+    "id": "cv96",
+    "title": "Lecture #96: Pharmacologic Management of Heart Failure",
+    "module": "Pharmacology",
+    "tags": "Lecture #96",
+    "path": "content/json/cv96.file.js",
+    "readingTime": 16
+  },
+  {
+    "id": "cv97",
+    "title": "Lecture #97: Pathology of Cardiomyopathies - Dilated and Hypertrophic",
+    "module": "Pathology",
+    "tags": "Lecture #97",
+    "path": "content/json/cv97.file.js",
+    "readingTime": 17
   }
 ]);
