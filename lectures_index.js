@@ -2174,5 +2174,13 @@ window.receiveLectureIndex([
     "tags": "Lecture #99",
     "path": "content/json/cv99.file.js",
     "readingTime": 17
+  },
+  {
+    "id": "cv104",
+    "title": "Lecture #104: DPR: Abnormal Respiratory Exam",
+    "module": "DPR",
+    "tags": "Lecture #104",
+    "path": "content/json/cv104.file.js",
+    "readingTime": 17
   }
 ]);
