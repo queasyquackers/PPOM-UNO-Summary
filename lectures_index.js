@@ -2238,5 +2238,13 @@ window.receiveLectureIndex([
     "tags": "Lecture #111",
     "path": "content/json/cv111.file.js",
     "readingTime": 14
+  },
+  {
+    "id": "cv112",
+    "title": "Lecture #112: Pathology: Obstructive Lung Disease",
+    "module": "Pathology",
+    "tags": "Lecture #112",
+    "path": "content/json/cv112.file.js",
+    "readingTime": 17
   }
 ]);
