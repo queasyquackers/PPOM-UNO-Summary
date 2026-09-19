@@ -2182,5 +2182,13 @@ window.receiveLectureIndex([
     "tags": "Lecture #104",
     "path": "content/json/cv104.file.js",
     "readingTime": 17
+  },
+  {
+    "id": "cv105",
+    "title": "Lecture #105: Microbiology: Bacterial and Fungal Endocarditis",
+    "module": "Microbiology",
+    "tags": "Lecture #105",
+    "path": "content/json/cv105.file.js",
+    "readingTime": 17
   }
 ]);
