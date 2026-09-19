@@ -2158,5 +2158,21 @@ window.receiveLectureIndex([
     "tags": "Lecture #97",
     "path": "content/json/cv97.file.js",
     "readingTime": 17
+  },
+  {
+    "id": "cv98",
+    "title": "Lecture #98: Pathology of Restrictive and Miscellaneous Cardiomyopathies",
+    "module": "Pathology",
+    "tags": "Lecture #98",
+    "path": "content/json/cv98.file.js",
+    "readingTime": 12
+  },
+  {
+    "id": "cv99",
+    "title": "Lecture #99: Valvular Heart Disease - Clinical Findings and Diagnosis",
+    "module": "Clinical Medicine",
+    "tags": "Lecture #99",
+    "path": "content/json/cv99.file.js",
+    "readingTime": 17
   }
 ]);
