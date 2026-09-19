@@ -2190,5 +2190,21 @@ window.receiveLectureIndex([
     "tags": "Lecture #105",
     "path": "content/json/cv105.file.js",
     "readingTime": 17
+  },
+  {
+    "id": "cv106",
+    "title": "Lecture #106: Microbiology: Infectious Rheumatic Fever, Vasculitis and Cardiomyopathy",
+    "module": "Microbiology",
+    "tags": "Lecture #106",
+    "path": "content/json/cv106.file.js",
+    "readingTime": 14
+  },
+  {
+    "id": "cv109",
+    "title": "Lecture #109: Clinical: Pediatric Pulmonary Disease",
+    "module": "Clinical",
+    "tags": "Lecture #109",
+    "path": "content/json/cv109.file.js",
+    "readingTime": 16
   }
 ]);
