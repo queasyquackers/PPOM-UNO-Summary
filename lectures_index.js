@@ -2222,5 +2222,21 @@ window.receiveLectureIndex([
     "tags": "Lecture #109",
     "path": "content/json/cv109.file.js",
     "readingTime": 16
+  },
+  {
+    "id": "cv110",
+    "title": "Lecture #110: Cardiogenetics / Pulmonary Genetics",
+    "module": "Genetics",
+    "tags": "Lecture #110",
+    "path": "content/json/cv110.file.js",
+    "readingTime": 17
+  },
+  {
+    "id": "cv111",
+    "title": "Lecture #111: Atelectasis, Acute Lung Injury and Pulmonary Edema",
+    "module": "Pathology",
+    "tags": "Lecture #111",
+    "path": "content/json/cv111.file.js",
+    "readingTime": 14
   }
 ]);
