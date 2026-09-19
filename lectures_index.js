@@ -2240,6 +2240,22 @@ window.receiveLectureIndex([
     "readingTime": 17
   },
   {
+    "id": "cv100",
+    "title": "Lecture #100: Introduction to Facilitated Positional Release (FPR)",
+    "module": "OMM",
+    "tags": "Lecture #100",
+    "path": "content/json/cv100.file.js",
+    "readingTime": 11
+  },
+  {
+    "id": "cv101",
+    "title": "Lecture #101: Upper Crossed Syndrome and Postural Considerations",
+    "module": "OMM",
+    "tags": "Lecture #101",
+    "path": "content/json/cv101.file.js",
+    "readingTime": 15
+  },
+  {
     "id": "cv104",
     "title": "Lecture #104: DPR: Abnormal Respiratory Exam",
     "module": "DPR",
