@@ -1051,10 +1051,16 @@ def register_pdf_source(ids, bundle):
 
     # Ensure the slide PDF is present in the Problems repo's pdfs/ folder.
     pdf_dst = PROBLEMS_REPO / "pdfs" / pdf_src.name
+    # Lecture numbers restart each semester, so a different deck can already own
+    # this filename (Problems/pdfs holds "Lecture # 84. A. Patel" from semester 1).
+    # Never map onto a file that is not byte-identical to our source.
+    import filecmp
+    if pdf_dst.exists() and not filecmp.cmp(pdf_dst, pdf_src, shallow=False):
+        pdf_dst = pdf_dst.with_name(f"{pdf_src.stem} ({pdf_key}){pdf_src.suffix}")
     if not pdf_dst.exists():
         shutil.copyfile(pdf_src, pdf_dst)
         info(f"copied slide PDF -> Problems/pdfs/{pdf_src.name}")
-    mapping_value = f"pdfs/{pdf_src.name}"
+    mapping_value = f"pdfs/{pdf_dst.name}"
 
     mapping_path = PROBLEMS_REPO / "scripts" / "pdf_mapping.js"
     text = mapping_path.read_text(encoding="utf-8")
