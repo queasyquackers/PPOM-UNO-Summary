@@ -2024,6 +2024,14 @@ window.receiveLectureIndex([
     "readingTime": 11
   },
   {
+    "id": "cv69",
+    "title": "Lecture #69: Chapman's Reflexes",
+    "module": "OMM",
+    "tags": "Lecture #69",
+    "path": "content/json/cv69.file.js",
+    "readingTime": 13
+  },
+  {
     "id": "cv71",
     "title": "Lecture #71: Pharmacology of Angina Pectoris",
     "module": "Pharmacology",
@@ -2150,6 +2158,14 @@ window.receiveLectureIndex([
     "tags": "Lecture #89",
     "path": "content/json/cv89.file.js",
     "readingTime": 14
+  },
+  {
+    "id": "cv90",
+    "title": "Lecture #90: Visceral Techniques: Ganglia Release, Liver and Splenic Pumps, Mesenteric Lifts, Colonic Stimulation",
+    "module": "OMM",
+    "tags": "Lecture #90",
+    "path": "content/json/cv90.file.js",
+    "readingTime": 10
   },
   {
     "id": "cv91",
