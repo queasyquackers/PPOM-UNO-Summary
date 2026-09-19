@@ -2070,5 +2070,13 @@ window.receiveLectureIndex([
     "tags": "Lecture #83",
     "path": "content/json/cv83.file.js",
     "readingTime": 17
+  },
+  {
+    "id": "cv84",
+    "title": "Lecture #84: Clinical ECG - Conduction Blocks, Pacemakers, and Electrolyte Disturbances",
+    "module": "Clinical Medicine",
+    "tags": "Lecture #84",
+    "path": "content/json/cv84.file.js",
+    "readingTime": 14
   }
 ]);
