@@ -2078,5 +2078,21 @@ window.receiveLectureIndex([
     "tags": "Lecture #84",
     "path": "content/json/cv84.file.js",
     "readingTime": 14
+  },
+  {
+    "id": "cv85",
+    "title": "Lecture #85: Pharmacology of Antiarrhythmic Drugs",
+    "module": "Pharmacology",
+    "tags": "Lecture #85",
+    "path": "content/json/cv85.file.js",
+    "readingTime": 16
+  },
+  {
+    "id": "cv86",
+    "title": "Lecture #86: Electrolyte Disorders - Potassium Disorders",
+    "module": "Clinical Medicine",
+    "tags": "Lecture #86",
+    "path": "content/json/cv86.file.js",
+    "readingTime": 17
   }
 ]);
