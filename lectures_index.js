@@ -2200,6 +2200,22 @@ window.receiveLectureIndex([
     "readingTime": 14
   },
   {
+    "id": "cv107",
+    "title": "Lecture #107: Myocarditis, Pericarditis, and Cardiac Tumors",
+    "module": "Pathology",
+    "tags": "Lecture #107",
+    "path": "content/json/cv107.file.js",
+    "readingTime": 16
+  },
+  {
+    "id": "cv108",
+    "title": "Lecture #108: Inflammatory Heart Disease: Endocarditis, Myocarditis and Pericarditis - Findings and Diagnosis",
+    "module": "Pathology",
+    "tags": "Lecture #108",
+    "path": "content/json/cv108.file.js",
+    "readingTime": 16
+  },
+  {
     "id": "cv109",
     "title": "Lecture #109: Clinical: Pediatric Pulmonary Disease",
     "module": "Clinical",
