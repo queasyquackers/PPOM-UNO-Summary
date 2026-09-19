@@ -2032,6 +2032,14 @@ window.receiveLectureIndex([
     "readingTime": 15
   },
   {
+    "id": "cv76",
+    "title": "Lecture #76: Nutritional Aspects, Health Promotion and Counseling in the Prevention of Cardiovascular Disease",
+    "module": "Clinical Medicine",
+    "tags": "Lecture #76",
+    "path": "content/json/cv76.file.js",
+    "readingTime": 14
+  },
+  {
     "id": "cv78",
     "title": "Lecture #78: Aortic Dissection and Aneurysmal Disease",
     "module": "Pathology",
