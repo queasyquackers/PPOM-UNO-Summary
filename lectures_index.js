@@ -2040,6 +2040,14 @@ window.receiveLectureIndex([
     "readingTime": 14
   },
   {
+    "id": "cv77",
+    "title": "Lecture #77: Arterial, Venous, and Lymphatic Disease",
+    "module": "Clinical Medicine",
+    "tags": "Lecture #77",
+    "path": "content/json/cv77.file.js",
+    "readingTime": 17
+  },
+  {
     "id": "cv78",
     "title": "Lecture #78: Aortic Dissection and Aneurysmal Disease",
     "module": "Pathology",
