@@ -2096,6 +2096,22 @@ window.receiveLectureIndex([
     "readingTime": 16
   },
   {
+    "id": "cv79",
+    "title": "Lecture #79: Osteopathic Approach to the Lymphatic System",
+    "module": "OMM",
+    "tags": "Lecture #79",
+    "path": "content/json/cv79.file.js",
+    "readingTime": 17
+  },
+  {
+    "id": "cv80",
+    "title": "Lecture #80: Thoracic Outlet Syndrome",
+    "module": "OMM",
+    "tags": "Lecture #80",
+    "path": "content/json/cv80.file.js",
+    "readingTime": 16
+  },
+  {
     "id": "cv82",
     "title": "Lecture #82: Pathophysiology of Arrhythmias",
     "module": "Physiology",
