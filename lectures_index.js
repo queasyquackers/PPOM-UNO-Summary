@@ -2054,5 +2054,21 @@ window.receiveLectureIndex([
     "tags": "Lecture #78",
     "path": "content/json/cv78.file.js",
     "readingTime": 16
+  },
+  {
+    "id": "cv82",
+    "title": "Lecture #82: Pathophysiology of Arrhythmias",
+    "module": "Physiology",
+    "tags": "Lecture #82",
+    "path": "content/json/cv82.file.js",
+    "readingTime": 16
+  },
+  {
+    "id": "cv83",
+    "title": "Lecture #83: Clinical ECG - Atrial and Ventricular Arrhythmias",
+    "module": "Clinical Medicine",
+    "tags": "Lecture #83",
+    "path": "content/json/cv83.file.js",
+    "readingTime": 17
   }
 ]);
