@@ -1912,6 +1912,30 @@ window.receiveLectureIndex([
     "readingTime": 18
   },
   {
+    "id": "cv55",
+    "title": "Lecture #55: Osteopathic Considerations of Neck Pain",
+    "module": "OMM",
+    "tags": "Lecture #55",
+    "path": "content/json/cv55.file.js",
+    "readingTime": 14
+  },
+  {
+    "id": "cv56",
+    "title": "Lecture #56: Introduction to the Still Technique",
+    "module": "OMM",
+    "tags": "Lecture #56",
+    "path": "content/json/cv56.file.js",
+    "readingTime": 9
+  },
+  {
+    "id": "cv57",
+    "title": "Lecture #57: OMM Lab - Still Technique: Cervical, Lumbar, Thoracic, Innominate and Ribs",
+    "module": "OMM",
+    "tags": "Lecture #57",
+    "path": "content/json/cv57.file.js",
+    "readingTime": 12
+  },
+  {
     "id": "cv58",
     "title": "Lecture #58: The Abnormal Cardiovascular Examination and Clinical Decision Making",
     "module": "DPR",
@@ -1992,6 +2016,22 @@ window.receiveLectureIndex([
     "readingTime": 18
   },
   {
+    "id": "cv68",
+    "title": "Lecture #68: Introduction to Articulatory and Myofascial Release Techniques",
+    "module": "OMM",
+    "tags": "Lecture #68",
+    "path": "content/json/cv68.file.js",
+    "readingTime": 11
+  },
+  {
+    "id": "cv69",
+    "title": "Lecture #69: Chapman's Reflexes",
+    "module": "OMM",
+    "tags": "Lecture #69",
+    "path": "content/json/cv69.file.js",
+    "readingTime": 13
+  },
+  {
     "id": "cv71",
     "title": "Lecture #71: Pharmacology of Angina Pectoris",
     "module": "Pharmacology",
@@ -2053,6 +2093,22 @@ window.receiveLectureIndex([
     "module": "Pathology",
     "tags": "Lecture #78",
     "path": "content/json/cv78.file.js",
+    "readingTime": 16
+  },
+  {
+    "id": "cv79",
+    "title": "Lecture #79: Osteopathic Approach to the Lymphatic System",
+    "module": "OMM",
+    "tags": "Lecture #79",
+    "path": "content/json/cv79.file.js",
+    "readingTime": 17
+  },
+  {
+    "id": "cv80",
+    "title": "Lecture #80: Thoracic Outlet Syndrome",
+    "module": "OMM",
+    "tags": "Lecture #80",
+    "path": "content/json/cv80.file.js",
     "readingTime": 16
   },
   {
@@ -2120,6 +2176,14 @@ window.receiveLectureIndex([
     "readingTime": 14
   },
   {
+    "id": "cv90",
+    "title": "Lecture #90: Visceral Techniques: Ganglia Release, Liver and Splenic Pumps, Mesenteric Lifts, Colonic Stimulation",
+    "module": "OMM",
+    "tags": "Lecture #90",
+    "path": "content/json/cv90.file.js",
+    "readingTime": 10
+  },
+  {
     "id": "cv91",
     "title": "Lecture #91: Cardiac Valve Pathology",
     "module": "Pathology",
@@ -2174,6 +2238,38 @@ window.receiveLectureIndex([
     "tags": "Lecture #99",
     "path": "content/json/cv99.file.js",
     "readingTime": 17
+  },
+  {
+    "id": "cv100",
+    "title": "Lecture #100: Introduction to Facilitated Positional Release (FPR)",
+    "module": "OMM",
+    "tags": "Lecture #100",
+    "path": "content/json/cv100.file.js",
+    "readingTime": 11
+  },
+  {
+    "id": "cv101",
+    "title": "Lecture #101: Upper Crossed Syndrome and Postural Considerations",
+    "module": "OMM",
+    "tags": "Lecture #101",
+    "path": "content/json/cv101.file.js",
+    "readingTime": 15
+  },
+  {
+    "id": "cv102",
+    "title": "Lecture #102: Lower Crossed Syndrome and Postural Considerations",
+    "module": "OMM",
+    "tags": "Lecture #102",
+    "path": "content/json/cv102.file.js",
+    "readingTime": 15
+  },
+  {
+    "id": "cv103",
+    "title": "Lecture #103: OMM Lab #39 Prep - Area of Greatest Restriction (AGR) and Facilitated Positional Release (FPR) for the Spine",
+    "module": "OMM",
+    "tags": "Lecture #103",
+    "path": "content/json/cv103.file.js",
+    "readingTime": 16
   },
   {
     "id": "cv104",
