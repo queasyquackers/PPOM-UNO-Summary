@@ -2134,5 +2134,13 @@ window.receiveLectureIndex([
     "tags": "Lecture #94",
     "path": "content/json/cv94.file.js",
     "readingTime": 16
+  },
+  {
+    "id": "cv95",
+    "title": "Lecture #95: Heart Failure: Epidemiology, Pathophysiology, Patient Evaluation and Guideline-Directed Management",
+    "module": "Clinical Medicine",
+    "tags": "Lecture #95",
+    "path": "content/json/cv95.file.js",
+    "readingTime": 17
   }
 ]);
