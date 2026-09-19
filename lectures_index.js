@@ -2094,5 +2094,21 @@ window.receiveLectureIndex([
     "tags": "Lecture #86",
     "path": "content/json/cv86.file.js",
     "readingTime": 17
+  },
+  {
+    "id": "cv87",
+    "title": "Lecture #87: Clinical: Electrolyte Disorders - Calcium, Magnesium and Phosphate",
+    "module": "Clinical Medicine",
+    "tags": "Lecture #87",
+    "path": "content/json/cv87.file.js",
+    "readingTime": 16
+  },
+  {
+    "id": "cv89",
+    "title": "Lecture #89: Clinical: Electrolyte Disorders - Hyponatremia",
+    "module": "Clinical Medicine",
+    "tags": "Lecture #89",
+    "path": "content/json/cv89.file.js",
+    "readingTime": 14
   }
 ]);
