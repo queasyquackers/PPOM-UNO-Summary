@@ -2192,6 +2192,22 @@ window.receiveLectureIndex([
     "readingTime": 17
   },
   {
+    "id": "cv92",
+    "title": "Lecture #92: Cardiac Considerations in Pediatrics Part I",
+    "module": "Clinical Medicine",
+    "tags": "Lecture #92",
+    "path": "content/json/cv92.file.js",
+    "readingTime": 16
+  },
+  {
+    "id": "cv93",
+    "title": "Lecture #93: Cardiac Considerations in Pediatrics Part II",
+    "module": "Clinical Medicine",
+    "tags": "Lecture #93",
+    "path": "content/json/cv93.file.js",
+    "readingTime": 17
+  },
+  {
     "id": "cv94",
     "title": "Lecture #94: Pediatric Cardiac Considerations Part 3",
     "module": "Clinical Medicine",
