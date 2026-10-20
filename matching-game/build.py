@@ -10,6 +10,7 @@ engine in game_template.html is shared and knows nothing about any block.
 import json
 import os
 import sys
+sys.stdout.reconfigure(encoding="utf-8")
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
@@ -29,6 +30,15 @@ def build(name):
     missing = [k for k in cfg['cats'] if k not in data]
     if missing:
         raise SystemExit(f'{name}: dataset is missing categories {missing}')
+    # Optional per-category anchors (match by name or by another field) and a
+    # filter field other than "lecture" must point at fields items actually carry.
+    for k, spec in cfg['cats'].items():
+        fields = [a['field'] for a in spec.get('anchors', [])]
+        if 'filter' in spec:
+            fields.append(spec['filter']['field'])
+        for f in fields:
+            if f != 'name' and not any(it.get(f) for it in data[k]):
+                raise SystemExit(f'{name}: no {k} item has field "{f}"')
     extra = [k for k in data if k not in cfg['cats']]
     if extra:
         print(f'  note: dataset has unused categories {extra}')
@@ -45,7 +55,7 @@ def build(name):
 
     for key, field in [('__TITLE__', 'title'), ('__DESCRIPTION__', 'description'),
                        ('__ISSUE__', 'issue'), ('__SLOGAN__', 'slogan'),
-                       ('__STORE__', 'store')]:
+                       ('__STORE__', 'store'), ('__FOOTER__', 'footer')]:
         html = html.replace(key, cfg[field])
     html = html.replace('__CATS__', json.dumps(cfg['cats'], ensure_ascii=False))
     # Compact JSON keeps the file small; safe to embed in a <script> block.

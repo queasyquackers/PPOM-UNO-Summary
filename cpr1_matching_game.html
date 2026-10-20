@@ -251,6 +251,9 @@ details.filter[open] summary::after{content:"\2013";}
   border-bottom:1px solid var(--border);
 }
 .col{display:flex;flex-direction:column;gap:8px;}
+/* When one side is long cards (vignettes) and the other short names, the short
+   side rides along so its answers stay in view while you scroll. */
+.col.stick{position:sticky;top:10px;align-self:start;}
 .card{
   position:relative;display:block;width:100%;text-align:left;cursor:pointer;
   background:var(--surface);border:1px solid var(--border);border-radius:5px;
@@ -404,21 +407,24 @@ details.filter[open] summary::after{content:"\2013";}
       <h2>Build your round</h2>
       <p class="hint">Pick a category, then what you want to match it against.</p>
 
-      <div class="lbl"><span class="n">1</span>Category</div>
+      <div class="lbl"><span class="n"></span>Category</div>
       <div class="opts" id="catOpts"></div>
 
-      <div class="lbl"><span class="n">2</span>Match against</div>
+      <div class="lbl" id="anchorLbl"><span class="n"></span>Match by</div>
+      <div class="opts" id="anchorOpts"></div>
+
+      <div class="lbl"><span class="n"></span>Match against</div>
       <div class="opts" id="attrOpts"></div>
 
-      <div class="lbl"><span class="n">3</span>Direction</div>
+      <div class="lbl"><span class="n"></span>Direction</div>
       <div class="opts" id="dirOpts"></div>
 
-      <div class="lbl"><span class="n">4</span>Pairs per round</div>
+      <div class="lbl"><span class="n"></span>Pairs per round</div>
       <div class="opts" id="sizeOpts"></div>
 
-      <div class="lbl"><span class="n">5</span>Lectures <span id="lecCount"></span></div>
+      <div class="lbl"><span class="n"></span><span id="filterLbl">Lectures</span> <span id="lecCount"></span></div>
       <details class="filter">
-        <summary>Filter by lecture</summary>
+        <summary id="filterSummary">Filter by lecture</summary>
         <div class="fmini">
           <button id="lecAll" type="button">Select all</button>
           <button id="lecNone" type="button">Clear</button>
@@ -455,13 +461,13 @@ details.filter[open] summary::after{content:"\2013";}
     </div>
   </section>
 
-  <div class="footer">Built from Block 4 lecture slides (L149&ndash;192) &middot; verify against source material</div>
+  <div class="footer">Built from CPR Block 1 lecture summaries (CV1&ndash;CV54) &middot; verify against source material</div>
 </main>
 
 <!-- ============ SUMMARY ============ -->
 <div class="overlay hidden" id="overlay">
   <div class="modal">
-    <div class="modal-kicker">Block IV Matching<span class="kick-rule"></span></div>
+    <div class="modal-kicker">Block V Matching<span class="kick-rule"></span></div>
     <h2 id="mTitle">Round complete</h2>
     <div class="sub" id="mSub"></div>
     <div class="scoregrid">
@@ -494,8 +500,9 @@ const DIRECTIONS=['forward','reverse']; // forward: name -> attribute; reverse: 
 /* ================= STATE ================= */
 /* Defaults are derived from CATS, never hardcoded to one block's category names. */
 const DEFAULT_CAT=Object.keys(CATS)[0];
-const cfg={cat:DEFAULT_CAT, attrIdx:Math.min(1,CATS[DEFAULT_CAT].attrs.length-1),
+const cfg={cat:DEFAULT_CAT, anchorIdx:0, attrIdx:0,
            dir:'forward', size:6, lectures:new Set()};
+cfg.attrIdx=Math.min(1,visibleAttrs().length-1);
 let round=null, timer=null;
 
 /* ================= HELPERS ================= */
@@ -504,23 +511,58 @@ const shuffle=a=>{a=a.slice();for(let i=a.length-1;i>0;i--){const j=Math.random(
 const esc=s=>s.replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
 const fmtTime=s=>Math.floor(s/60)+':'+String(s%60).padStart(2,'0');
 const lecNum=l=>parseInt(String(l).replace(/[^0-9]/g,''),10)||0;
-function curAttr(){return CATS[cfg.cat].attrs[cfg.attrIdx];}
+/* A category may offer several anchor fields ("match by Bug" or "by Disease");
+   the default is the item name under the category's anchorLabel. */
+function anchors(cat=cfg.cat){
+  return CATS[cat].anchors||[{field:'name',label:CATS[cat].anchorLabel}];
+}
+function curAnchor(){return anchors()[cfg.anchorIdx]||anchors()[0];}
+/* The attribute that is currently the anchor can't also be what you match against. */
+function visibleAttrs(){
+  const af=curAnchor().field;
+  return CATS[cfg.cat].attrs.filter(a=>a.field!==af);
+}
+function curAttr(){return visibleAttrs()[cfg.attrIdx];}
+/* What the setup filter chips select on: lectures by default, or any item field
+   the category names (e.g. drug class). Item values may be a string or a list. */
+function filterSpec(cat=cfg.cat){
+  return CATS[cat].filter||{field:'lecture',label:'Lectures',summary:'Filter by lecture'};
+}
+function filterVals(it){
+  const f=filterSpec().field;
+  if(f==='lecture') return it.lectures&&it.lectures.length?it.lectures:[it.lecture];
+  const v=it[f]; return Array.isArray(v)?v:(v?[v]:[]);
+}
 const STORE_PREFIX='mgcpr1';
-function bestKey(){return `${STORE_PREFIX}::${cfg.cat}::${curAttr().field}::${cfg.dir}::${cfg.size}`;}
-function getBest(){return parseInt(localStorage.getItem(bestKey())||'0',10);}
-function setBest(v){localStorage.setItem(bestKey(),String(v));}
+/* Anchor is appended only when it isn't the default, so existing best scores keep their keys. */
+function bestKey(){
+  const a=curAnchor().field, tag=a==='name'?'':`::by-${a}`;
+  return `${STORE_PREFIX}::${cfg.cat}${tag}::${curAttr().field}::${cfg.dir}::${cfg.size}`;
+}
+function getBest(){try{return parseInt(localStorage.getItem(bestKey())||'0',10);}catch(e){return 0;}}
+function setBest(v){try{localStorage.setItem(bestKey(),String(v));}catch(e){}}
 
-/* lectures available for current category */
+/* filter values available for current category */
 function catLectures(){
   const s=new Set();
-  MATCHING_DATA[cfg.cat].forEach(it=>s.add(it.lecture));
-  return [...s].sort((a,b)=>lecNum(a)-lecNum(b));
+  MATCHING_DATA[cfg.cat].forEach(it=>filterVals(it).forEach(v=>s.add(v)));
+  const order=filterSpec().order;
+  if(order) return [...s].sort((a,b)=>(order.indexOf(a)+1||99)-(order.indexOf(b)+1||99));
+  return [...s].sort((a,b)=>lecNum(a)-lecNum(b)||String(a).localeCompare(String(b)));
 }
-/* pool: items in category whose attr field is non-empty and lecture is selected */
+/* pool: items whose anchor and attr fields are non-empty and that match a selected filter value */
 function pool(){
-  const f=curAttr().field;
+  const f=curAttr().field, af=curAnchor().field;
+  const has=v=>v&&String(v).trim();
   return MATCHING_DATA[cfg.cat].filter(it=>
-    it[f] && String(it[f]).trim() && cfg.lectures.has(it.lecture));
+    has(it[f]) && has(it[af]) && filterVals(it).some(v=>cfg.lectures.has(v)));
+}
+/* Authors can mark two items that must never share a board, for all attributes
+   (avoid: [names]) or only some (avoid: {field: [names]}). Checked both ways. */
+function avoids(a,b,f){
+  const hit=(x,y)=>{const v=x.avoid; if(!v) return false;
+    return Array.isArray(v)?v.includes(y.name):(v[f]||[]).includes(y.name);};
+  return hit(a,b)||hit(b,a);
 }
 
 /* ================= SETUP UI ================= */
@@ -530,17 +572,31 @@ function renderSetup(){
     `<button class="opt" data-cat="${k}" data-k="${k}">${CATS[k].label} `+
     `<span style="opacity:.7">(${MATCHING_DATA[k].length})</span></button>`).join('');
   $('catOpts').querySelectorAll('.opt').forEach(b=>b.onclick=()=>{
-    cfg.cat=b.dataset.k; cfg.attrIdx=Math.min(cfg.attrIdx,CATS[cfg.cat].attrs.length-1);
+    cfg.cat=b.dataset.k; cfg.anchorIdx=0;
+    cfg.attrIdx=Math.min(cfg.attrIdx,visibleAttrs().length-1);
     cfg.lectures=new Set(catLectures()); renderSetup();
   });
+  // anchor (only shown when the category offers more than one)
+  const anchorList=anchors(), multi=anchorList.length>1;
+  $('anchorLbl').classList.toggle('hidden',!multi);
+  $('anchorOpts').classList.toggle('hidden',!multi);
+  $('anchorOpts').innerHTML=anchorList.map((a,i)=>
+    `<button class="opt" data-i="${i}">${esc(a.label)}</button>`).join('');
+  $('anchorOpts').querySelectorAll('.opt').forEach(b=>b.onclick=()=>{
+    // keep the same attribute selected across the switch when it is still offered
+    const keep=curAttr().field;
+    cfg.anchorIdx=+b.dataset.i;
+    const idx=visibleAttrs().findIndex(a=>a.field===keep);
+    cfg.attrIdx=idx>=0?idx:0; renderSetup();
+  });
   // attribute
-  $('attrOpts').innerHTML=CATS[cfg.cat].attrs.map((a,i)=>
+  $('attrOpts').innerHTML=visibleAttrs().map((a,i)=>
     `<button class="opt" data-cat="${cfg.cat}" data-i="${i}">${a.label}</button>`).join('');
   $('attrOpts').querySelectorAll('.opt').forEach(b=>b.onclick=()=>{
     cfg.attrIdx=+b.dataset.i; renderSetup();
   });
   // direction (labels reflect the current category + attribute pick)
-  const anchorL=CATS[cfg.cat].anchorLabel, attrL=curAttr().label;
+  const anchorL=curAnchor().label, attrL=curAttr().label;
   $('dirOpts').innerHTML=
     `<button class="opt" data-d="forward">${esc(anchorL)} &rarr; ${esc(attrL)}</button>`+
     `<button class="opt" data-d="reverse">${esc(attrL)} &rarr; ${esc(anchorL)}</button>`;
@@ -568,20 +624,29 @@ function renderSetup(){
 
   // reflect selections
   mark('catOpts','k',cfg.cat);
+  mark('anchorOpts','i',String(cfg.anchorIdx));
   mark('attrOpts','i',String(cfg.attrIdx));
   mark('dirOpts','d',cfg.dir);
   mark('sizeOpts','s',String(cfg.size));
   $('lecChips').querySelectorAll('.fchip').forEach(b=>
     b.classList.toggle('on',cfg.lectures.has(b.dataset.l)));
 
-  // lecture count + pool size
+  // filter label, count + pool size
+  const fs=filterSpec();
+  $('filterLbl').textContent=fs.label;
+  $('filterSummary').textContent=fs.summary||'Filter';
   const p=pool();
-  $('lecCount').textContent=`— ${cfg.lectures.size}/${lecs.length} selected, ${p.length} ${cfg.cat} in play`;
+  $('lecCount').textContent=`— ${cfg.lectures.size}/${lecs.length} selected, ${p.length} ${CATS[cfg.cat].label.replace(/&amp;/g,'&').toLowerCase()} in play`;
+  // number the visible steps
+  let n=0;
+  document.querySelectorAll('#setup .lbl').forEach(l=>{
+    if(!l.classList.contains('hidden')) l.querySelector('.n').textContent=++n;
+  });
 
   // best + start enable
   const enough=p.length>=2;
   $('startBtn').disabled=!enough;
-  $('startBtn').textContent=enough?'Start round ▶':'Not enough items — widen lecture filter';
+  $('startBtn').textContent=enough?'Start round ▶':`Not enough items — widen the ${fs.label.toLowerCase()} filter`;
   const b=getBest();
   $('setupBest').textContent=b?`Best score for this exact setup: ${b}`:'';
 }
@@ -592,18 +657,23 @@ function mark(containerId,attr,val){
 
 /* ================= ROUND ================= */
 function buildRound(){
-  const f=curAttr().field;
+  const f=curAttr().field, af=curAnchor().field;
   const p=shuffle(pool());
   // greedy: prefer items whose attr value isn't a near-duplicate of one already
   // picked (substring either way), so a clinically-reasonable pick can't be
-  // wrong just because two right-column cards overlap.
-  const picked=[], usedVals=[];
+  // wrong just because two right-column cards overlap. Anchors must be distinct
+  // too (one bug can head several items), and author-declared "avoid" pairs
+  // never share a board.
+  const picked=[], usedVals=[], usedAnchors=new Set();
   const norm=s=>String(s).trim().toLowerCase();
   for(const it of p){
     if(picked.length>=cfg.size) break;
     const v=norm(it[f]); if(!v) continue;
+    const a=norm(it[af]);
+    if(usedAnchors.has(a)) continue;
     if(usedVals.some(u=>u===v||u.includes(v)||v.includes(u))) continue;
-    picked.push(it); usedVals.push(v);
+    if(picked.some(q=>avoids(q,it,f))) continue;
+    picked.push(it); usedVals.push(v); usedAnchors.add(a);
   }
   // If the distinct-value filter ran short, the round will simply be smaller —
   // never top up with a near-duplicate, because equal field values would cause
@@ -611,9 +681,9 @@ function buildRound(){
   // Build anchor (the item-name card) and target (the attribute card) for each pair.
   // Both carry expect AND matchVal (set to the field value) so the equality check
   // works the same regardless of which side an anchor/target lands on.
-  const anchors=picked.map(it=>({
+  const anchorCards=picked.map(it=>({
     item:it, state:'idle',
-    display: it.name,
+    display: String(it[af]),
     expect:  String(it[f]),
     matchVal:String(it[f]),
     anchor:  true
@@ -625,8 +695,8 @@ function buildRound(){
     matchVal:String(it[f]),
     anchor:  false
   }));
-  const left=cfg.dir==='reverse' ? targets : anchors;
-  const right=cfg.dir==='reverse' ? anchors : targets;
+  const left=cfg.dir==='reverse' ? targets : anchorCards;
+  const right=cfg.dir==='reverse' ? anchorCards : targets;
   left.forEach(c=>c.side='L');
   right.forEach(c=>c.side='R');
   round={
@@ -643,13 +713,13 @@ function startRound(){
   $('setup').classList.add('hidden');
   $('play').classList.remove('hidden');
   $('overlay').classList.add('hidden');
-  const a=CATS[cfg.cat], at=curAttr();
+  const aL=curAnchor().label, at=curAttr();
   const rev=cfg.dir==='reverse';
-  $('headL').textContent=rev?at.label:a.anchorLabel;
-  $('headR').textContent=rev?a.anchorLabel:at.label;
+  $('headL').textContent=rev?at.label:aL;
+  $('headR').textContent=rev?aL:at.label;
   $('taskLine').innerHTML=rev
-    ? `Match each <b>${esc(at.label)}</b> to its <b>${esc(a.anchorLabel)}</b>`
-    : `Match each <b>${esc(a.anchorLabel)}</b> to its <b>${esc(at.label)}</b>`;
+    ? `Match each <b>${esc(at.label)}</b> to its <b>${esc(aL)}</b>`
+    : `Match each <b>${esc(aL)}</b> to its <b>${esc(at.label)}</b>`;
   renderBoard(); updateStats();
   clearInterval(timer);
   timer=setInterval(()=>{ if(!round.done) updateStats(); },1000);
@@ -670,7 +740,16 @@ function renderBoard(){
     });
   });
   applyStates();
+  stickShortColumn();
 }
+function stickShortColumn(){
+  const L=$('colL'), R=$('colR');
+  L.classList.remove('stick'); R.classList.remove('stick');
+  const hL=L.offsetHeight, hR=R.offsetHeight;
+  const [short,long,hs,hl]=hL<hR?[L,R,hL,hR]:[R,L,hR,hL];
+  if(hl>hs*1.5 && hs<window.innerHeight-40) short.classList.add('stick');
+}
+window.addEventListener('resize',()=>{ if(round&&!$('play').classList.contains('hidden')) stickShortColumn(); });
 function applyStates(){
   [...round.left,...round.right].forEach(c=>{
     c.el.classList.remove('sel','matched');
