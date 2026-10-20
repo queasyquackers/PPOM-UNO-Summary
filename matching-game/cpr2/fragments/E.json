@@ -1,0 +1,823 @@
+{
+  "correlates": [
+    {
+      "name": "Pseudohyperkalemia",
+      "presentation": "A 34-year-old man at a routine physical feels well and takes no medications. BP 122/78, HR 70, normal strength and reflexes. The draw took three sticks with a 25-gauge needle and a tight tourniquet while he pumped his fist; the tube sat 4 h before reaching the lab. K+ 6.4 mEq/L.",
+      "workup": "Lab flags the specimen as moderately hemolysed. Creatinine 0.9 mg/dL, glucose 92, HCO3- 25. ECG: normal P waves, PR, QRS and T waves. Repeat K+ from a free-flowing large-bore draw in the other arm, run promptly: 4.3 mEq/L.",
+      "management": "Treat the patient, not the number: repeat the level first with a clean draw (large-bore needle, never from a limb with a running IV - stop it 30 min and draw distal), get it to the lab fast; no calcium, insulin or binder.",
+      "lecture": "CV86",
+      "lectures": [
+        "CV86"
+      ]
+    },
+    {
+      "name": "Rhabdomyolysis",
+      "presentation": "An 82-year-old woman who lives alone is found on her kitchen floor after an unwitnessed fall, probably 2-3 days earlier. She is confused, with dry mucous membranes and swollen, tender thighs. BP 104/62, HR 108. A catheter drains 80 mL of cola-colored urine.",
+      "workup": "K+ 6.8 mEq/L, creatinine 2.9 mg/dL (baseline 0.8), creatine kinase 48,000 U/L, phosphate 7.1, calcium 7.6 mg/dL; urine dipstick 3+ blood with 0-2 RBC/hpf; uric acid normal, no recent chemotherapy. ECG: tall narrow-based T waves.",
+      "management": "IV calcium gluconate for the ECG changes, then insulin with dextrose and inhaled albuterol to shift K+ into cells; large-volume isotonic fluid to keep urine flowing; hemodialysis if K+ or the kidney injury does not respond.",
+      "lecture": "CV86",
+      "lectures": [
+        "CV86",
+        "CV87"
+      ],
+      "avoid": {
+        "workup": [
+          "Statin-associated myopathy / rhabdomyolysis"
+        ]
+      }
+    },
+    {
+      "name": "Hyperkalemia in kidney failure",
+      "presentation": "A 67-year-old man with diabetes and stage 4 CKD was started on lisinopril by his PCP and losartan by his cardiologist; he takes ibuprofen for knee pain and uses a salt substitute. Two days of leg weakness and palpitations. BP 158/90, HR 48; reflexes reduced.",
+      "workup": "Repeat K+ 7.2 mEq/L, non-hemolysed; creatinine 3.8 mg/dL, BUN 64; CK normal. ECG: tall peaked T waves, flattened P waves, PR 240 ms, QRS 150 ms.",
+      "management": "IV calcium gluconate first (protects conduction, does not lower K+); insulin with dextrose plus inhaled albuterol to shift K+; hemodialysis to remove it; stop the ACE inhibitor, ARB, NSAID and salt substitute; later patiromer.",
+      "lecture": "CV86",
+      "lectures": [
+        "CV86",
+        "CV84",
+        "CV96"
+      ]
+    },
+    {
+      "name": "Hypomagnesemia causing refractory hypokalemia",
+      "presentation": "A 52-year-old man who drinks a fifth of vodka daily and takes omeprazole is admitted with vomiting. K+ is 2.8 mEq/L; after 3 days and 240 mEq of oral plus IV KCl it is 2.9. He has cramps, a fine tremor and palpitations. BP 128/80, HR 96.",
+      "workup": "K+ 2.9 mEq/L after 3 days and 240 mEq of KCl; Mg2+ 1.0 mg/dL (normal 1.7-2.2); urine K+ 45 mmol/day despite low serum K+; Ca2+ 7.9 mg/dL. ECG: flat T waves, ST depression, an extra positive wave after each T, QTc 510 ms; no VT on telemetry.",
+      "management": "Give IV magnesium sulfate along with the KCl - K+ will not hold until magnesium is replaced; cardiac monitoring if K+ runs >10 mmol/h, never as a bolus; recheck K+ and Mg2+ every 4-6 h; address the alcohol and stop the PPI.",
+      "lecture": "CV86",
+      "lectures": [
+        "CV86",
+        "CV87"
+      ]
+    },
+    {
+      "name": "Hypokalemic periodic paralysis (thyrotoxic)",
+      "presentation": "A 27-year-old Asian man wakes at 3 a.m., after a big pasta dinner and evening basketball, unable to lift his arms or legs; speech and breathing are normal. He has lost 6 kg in 2 months and sweats in cool rooms. HR 118, BP 136/70; proximal strength 2/5, reflexes absent.",
+      "workup": "K+ 1.9 mEq/L; urine K+/creatinine 8 mEq/g (low - the kidney is conserving, so K+ has moved into cells); pH 7.40, HCO3- 24; TSH <0.01 mIU/L, free T4 4.1 ng/dL. Strength returns fully within hours as K+ normalizes.",
+      "management": "Small, cautious KCl doses (K+ comes back out of cells - rebound high K+ is a risk); nonselective beta blocker such as propranolol; treat the overactive thyroid to stop attacks; avoid big carbohydrate meals.",
+      "lecture": "CV86",
+      "lectures": [
+        "CV86"
+      ]
+    },
+    {
+      "name": "Primary hyperaldosteronism",
+      "presentation": "A 44-year-old woman has BP 172/106 on repeat visits despite full-dose amlodipine; she takes no diuretic or laxative and eats no licorice. She reports muscle cramps, fatigue and constipation. No edema, no weight gain, no purple striae or central fat.",
+      "workup": "K+ 2.9 mEq/L, HCO3- 31, Na+ 144; 24-h urine K+ 70 mmol (renal loss); plasma aldosterone 32 ng/dL with suppressed renin activity (aldosterone/renin ratio >30); CT: 1.5-cm left adrenal nodule.",
+      "management": "Unilateral adenoma: laparoscopic adrenalectomy after adrenal vein sampling confirms the side; bilateral hyperplasia or poor surgical candidate: spironolactone or eplerenone; oral KCl until then.",
+      "lecture": "CV86",
+      "lectures": [
+        "CV86",
+        "CV59"
+      ]
+    },
+    {
+      "name": "Diuretic-induced hypokalemia",
+      "presentation": "A 70-year-old woman with heart failure had her furosemide raised from 20 to 80 mg daily 3 weeks ago. Now weak, cramping and constipated, dizzy on standing. BP 98/60 lying, 84/54 standing, HR 96; dry mucous membranes, no edema.",
+      "workup": "K+ 2.9 mEq/L, HCO3- 33, Mg2+ 1.8; 24-h urine K+ 55 mmol (renal loss) and urine Cl- 60 mEq/L; renin high. ECG: low-amplitude T waves with ST depression.",
+      "management": "Lower or stop the loop dose; oral KCl preferred (chloride depletion responds to KCl); use a comorbidity to help - add spironolactone, an ACE inhibitor/ARB or beta blocker if indicated; replace Mg2+; recheck weekly until stable.",
+      "lecture": "CV86",
+      "lectures": [
+        "CV86"
+      ]
+    },
+    {
+      "name": "Primary hyperparathyroidism",
+      "presentation": "A 58-year-old woman has 8 months of fatigue, constipation, low mood and forgetfulness, and passed a kidney stone in the spring. She takes no thiazide, lithium or calcium supplement and has not lost weight. BP 138/84, HR 64; exam otherwise normal.",
+      "workup": "Ca2+ 11.4 mg/dL (10.8-11.6 on every check for 2 years), phosphate 2.2, intact PTH 112 pg/mL (high), PTH-related peptide undetectable; creatinine 0.9; ECG QTc 350 ms. Neck scan: one focus of tracer uptake below the left thyroid lobe.",
+      "management": "Surgical removal of the single overactive gland, especially with symptoms, stones, bone loss or Ca2+ >1 mg/dL above normal; meanwhile hydrate and avoid thiazides and high calcium intake.",
+      "lecture": "CV87",
+      "lectures": [
+        "CV87"
+      ]
+    },
+    {
+      "name": "Humoral hypercalcemia of malignancy",
+      "presentation": "A 64-year-old man with 50 pack-years of smoking has 3 weeks of thirst, polyuria, constipation and new confusion; he has lost 9 kg and coughed up blood twice. BP 102/64, HR 92; dry mucous membranes, drowsy but rousable.",
+      "workup": "Ca2+ 14.3 mg/dL, phosphate 2.0, intact PTH 6 pg/mL (suppressed), PTH-related peptide elevated, 1,25-(OH)2 vitamin D normal; creatinine 1.8. ECG QTc 330 ms. CT: 5-cm central hilar mass; no lytic bone lesions.",
+      "management": "IV normal saline first, 4-6 L over 24 h (volume depletion blocks renal calcium clearance); IV zoledronic acid to stop osteoclast resorption; then treat the tumor once stable.",
+      "lecture": "CV87",
+      "lectures": [
+        "CV87"
+      ]
+    },
+    {
+      "name": "Pseudohypoparathyroidism",
+      "presentation": "An 11-year-old boy has months of tingling around the mouth and painful hand cramps, and had a brief generalized seizure last month. His height is below the 3rd percentile and his fourth and fifth fingers are short. No neck surgery, normal diet, no kidney disease.",
+      "workup": "Ca2+ 6.9 mg/dL, phosphate 6.8, intact PTH 240 pg/mL (high), 25-OH vitamin D 34 ng/mL, Mg2+ 2.0, BUN and creatinine normal. ECG QTc 490 ms.",
+      "management": "Oral calcium plus calcitriol (active vitamin D) to keep calcium low-normal, monitoring urine calcium; giving PTH would not help because target tissues do not respond to it.",
+      "lecture": "CV87",
+      "lectures": [
+        "CV87"
+      ]
+    },
+    {
+      "name": "Postsurgical hypoparathyroidism",
+      "presentation": "A 46-year-old woman is 36 h past a total thyroidectomy for a large multinodular goiter. She has tingling of the lips and fingertips and cramping hands; her wrist and fingers flex into spasm when the BP cuff inflates. HR 88, BP 128/80; voice normal.",
+      "workup": "Ca2+ 6.8 mg/dL with low ionized calcium, albumin 4.0, phosphate 6.2, intact PTH 4 pg/mL (low), Mg2+ 1.9, creatinine 0.8. ECG QTc 500 ms.",
+      "management": "IV calcium gluconate with cardiac monitoring for symptoms; then oral calcium plus calcitriol; check and correct magnesium; lifelong calcium and vitamin D if gland function does not return.",
+      "lecture": "CV87",
+      "lectures": [
+        "CV87"
+      ]
+    },
+    {
+      "name": "Refeeding syndrome",
+      "presentation": "A 19-year-old woman with anorexia nervosa (BMI 13.8) is admitted and started on full-calorie tube feeds. On day 3 she becomes weak, breathless and confused, then has a seizure. BP 94/58, HR 118; new ankle swelling; her urine turns red-brown.",
+      "workup": "Phosphate 0.8 mg/dL (2.9 on admission), K+ 2.9, Mg2+ 1.2, glucose 160; CK 9,800 U/L; 24-h urine phosphate 60 mg (kidney conserving - phosphate has moved into cells). ECG: frequent runs of ventricular ectopy.",
+      "management": "Slow the feeds; IV phosphate (symptomatic and <1.0 mg/dL), plus K+ and Mg2+; thiamine before more carbohydrate; cardiac monitoring. In the next starved patient, start calories low and advance slowly.",
+      "lecture": "CV87",
+      "lectures": [
+        "CV87"
+      ]
+    },
+    {
+      "name": "Fanconi syndrome",
+      "presentation": "A 38-year-old man on a tenofovir-containing HIV regimen for 2 years has 4 months of aching hips and ribs, thirst, frequent urination and weakness. No diabetes. BP 124/78; ribs tender to pressure; proximal leg weakness.",
+      "workup": "Phosphate 1.6 mg/dL with 24-h urine phosphate 900 mg; urine glucose 2+ while serum glucose is 88; amino acids in the urine; Cl- 112, HCO3- 17 (normal gap); K+ 3.0; uric acid low. Hip film: thin lucent bands across the femoral necks.",
+      "management": "Stop the offending drug; replace phosphate, potassium and bicarbonate orally (large alkali doses), with active vitamin D for the bone disease; treat any underlying cause.",
+      "lecture": "CV87",
+      "lectures": [
+        "CV87",
+        "CV86"
+      ]
+    },
+    {
+      "name": "Tumor lysis syndrome",
+      "presentation": "A 24-year-old man with bulky mediastinal and abdominal lymphoma got his first chemotherapy cycle 36 h ago. Now nauseated, with tingling fingers, twitching muscles and palpitations; urine output has fallen to 15 mL/h. BP 136/84, HR 104.",
+      "workup": "K+ 6.9 mEq/L, phosphate 9.8 mg/dL, Ca2+ 6.7, uric acid 15.2 mg/dL, creatinine 2.6 (0.9 before chemo), LDH 2,400 U/L; CK normal. ECG: peaked T waves, QTc 490 ms.",
+      "management": "Aggressive IV volume expansion; treat K+ (IV calcium, insulin with dextrose); phosphate binder; rasburicase for the uric acid; early hemodialysis for kidney failure or symptomatic low calcium. Prevention: hydration plus allopurinol.",
+      "lecture": "CV87",
+      "lectures": [
+        "CV87"
+      ]
+    },
+    {
+      "name": "Gitelman syndrome",
+      "presentation": "A 22-year-old woman has years of salt craving, fatigue, leg cramps and occasional hand spasms. She takes no diuretic or laxative and does not vomit; growth and puberty were normal. BP 104/66, HR 76; no edema.",
+      "workup": "K+ 2.8 mEq/L, HCO3- 31, Mg2+ 1.1 mg/dL with high urine Mg2+; urine Cl- 70 mEq/L; urine calcium very low (Ca/creatinine 0.02); renin and aldosterone high; urine diuretic screen negative.",
+      "management": "Lifelong oral magnesium and potassium chloride supplements with liberal salt intake; add a potassium-sparing diuretic (amiloride or spironolactone) if K+ stays low.",
+      "lecture": "CV87",
+      "lectures": [
+        "CV87",
+        "CV86"
+      ]
+    },
+    {
+      "name": "Bartter syndrome",
+      "presentation": "A 3-year-old boy, born at 33 weeks after a pregnancy with excess amniotic fluid, has poor weight gain (below the 3rd percentile), large urine volumes with constant thirst, and salt craving. BP 88/50; no vomiting, no diuretic exposure.",
+      "workup": "K+ 2.6 mEq/L, HCO3- 32, Mg2+ 1.7 (low-normal); urine Cl- 80 mEq/L; urine calcium high (Ca/creatinine 0.6); ultrasound: calcium deposits in both renal medullas; renin and aldosterone high; urine diuretic screen negative.",
+      "management": "Potassium chloride and salt supplements; an NSAID such as indomethacin to blunt the excess renal prostaglandin output; potassium-sparing diuretic; follow growth.",
+      "lecture": "CV87",
+      "lectures": [
+        "CV87",
+        "CV86"
+      ]
+    },
+    {
+      "name": "Hypernatremia from inadequate water intake",
+      "presentation": "An 80-year-old nursing-home resident with severe dementia who needs help with every cup has 3 days of fever, cough and fading responsiveness. T 38.6 C, HR 112, BP 104/62, RR 24; dry mouth, skin stays tented, flat neck veins; crackles at the right base; scant dark urine.",
+      "workup": "Na+ 168 mEq/L, serum osm 350 mOsm/kg, urine osm 1,000 mOsm/kg (maximally concentrated), urine Na+ 10; BUN 45, creatinine 1.3; glucose 110. Chest film: right lower lobe consolidation.",
+      "management": "Treat the pneumonia (e.g. piperacillin-tazobactam for aspiration); replace the calculated deficit with sodium-free D5W plus 1-1.5 L/day of ongoing losses; lower Na+ 4-6 mEq/L, never more than 10, per 24 h.",
+      "lecture": "CV88",
+      "lectures": [
+        "CV88"
+      ]
+    },
+    {
+      "name": "Hyperosmolar hyperglycemic state",
+      "presentation": "A 72-year-old woman with type 2 diabetes who stopped her metformin has 10 days of heavy urination and thirst, then 2 days of drowsiness after a bladder infection; she now responds only to voice. HR 118, BP 96/58, RR 18 and unlabored; very dry mucosa; no ketone odor.",
+      "workup": "Glucose 980 mg/dL, measured Na+ 140 (corrected about 154), serum osm 356 mOsm/kg; pH 7.36, HCO3- 22, anion gap 12; serum ketones trace; BUN 62, creatinine 2.0; urine glucose 4+.",
+      "management": "Isotonic saline first (deficit often 8-10 L), then hypotonic fluid as the corrected Na+ allows; IV insulin infusion once fluids are running and K+ is >3.3; replace K+; treat the infection; bring osmolality down slowly.",
+      "lecture": "CV88",
+      "lectures": [
+        "CV88"
+      ]
+    },
+    {
+      "name": "Central diabetes insipidus",
+      "presentation": "A 34-year-old woman, 2 days after transsphenoidal removal of a pituitary tumor, passes 7 L of pale urine a day and wakes hourly to drink ice water. BP 118/72, HR 92; mucosa dry after a period kept NPO; no history of high blood sugar.",
+      "workup": "Na+ 149 mEq/L, serum osm 305, urine osm 120 mOsm/kg, specific gravity 1.002; glucose 96. Fluid restriction: urine osm stays below 150 as Na+ rises. After desmopressin, urine osm climbs to 600 (more than doubles).",
+      "management": "Desmopressin (intranasal or oral) - the test is also the treatment; free access to fluids; follow Na+, which can fall too low if she keeps drinking heavily on desmopressin.",
+      "lecture": "CV88",
+      "lectures": [
+        "CV88"
+      ]
+    },
+    {
+      "name": "Nephrogenic diabetes insipidus",
+      "presentation": "A 45-year-old woman with bipolar disorder, on lithium for 12 years, has 6 months of passing 6-8 L of urine daily and waking 4 times a night to drink. BP 122/76, HR 84; normal mental status. Blood sugar and calcium have been normal.",
+      "workup": "Na+ 147 mEq/L, serum osm 302, urine osm 150 mOsm/kg; glucose 90, Ca2+ 9.4, K+ 4.0. Fluid restriction: urine osm stays below 200. After desmopressin, urine osm 160 (essentially unchanged); plasma ADH high.",
+      "management": "Stop or switch the offending drug if psychiatry allows (damage may be permanent after years of exposure); amiloride to block its entry into collecting-duct cells; thiazide with a low-sodium, low-protein diet to cut urine volume.",
+      "lecture": "CV88",
+      "lectures": [
+        "CV88"
+      ]
+    },
+    {
+      "name": "Primary polydipsia",
+      "presentation": "A 38-year-old man with schizophrenia on a stable antipsychotic is brought in by group-home staff, who say he drinks from the bathroom taps all day - about 12 L. Headache, nausea and fatigue. BP 126/78, HR 74; moist mucosa, normal skin turgor, no edema.",
+      "workup": "Na+ 129 mEq/L, serum osm 250 mOsm/kg, urine osm 50 mOsm/kg (maximally dilute), urine Na+ 15; glucose, lipids, protein, TSH and cortisol normal. With fluid restriction the urine concentrates and Na+ recovers on its own.",
+      "management": "Restrict intake and address the drinking behavior; emergent hypertonic saline only for seizures or coma, aiming +4-6 and never more than 10 mEq/L in 24 h; the kidney's large dilute output can overshoot, so recheck Na+ often.",
+      "lecture": "CV89",
+      "lectures": [
+        "CV89"
+      ]
+    },
+    {
+      "name": "Primary adrenal insufficiency",
+      "presentation": "A 41-year-old woman with vitiligo and treated hypothyroidism has 4 months of fatigue, salt craving, nausea, 6-kg weight loss and dizziness on standing. Her skin has darkened, most in the palm creases and gums. BP 92/58 lying, 76/50 standing; HR 104.",
+      "workup": "Na+ 128, K+ 5.9, HCO3- 19, glucose 64; urine Na+ 45 mEq/L despite volume depletion; 8 a.m. cortisol 2 ug/dL with ACTH 480 pg/mL (high); after cosyntropin, cortisol peaks at 4 ug/dL; renin high, aldosterone low.",
+      "management": "Hydrocortisone plus fludrocortisone for life; in a crisis, IV hydrocortisone with isotonic saline and dextrose before any test result; teach stress dosing for illness and surgery.",
+      "lecture": "CV89",
+      "lectures": [
+        "CV89"
+      ]
+    },
+    {
+      "name": "Secondary adrenal insufficiency",
+      "presentation": "A 59-year-old man stopped prednisone 20 mg/day abruptly a month ago after 9 months of treatment for polymyalgia. Now tired, nauseated and lightheaded, with poor appetite. BP 108/70, HR 88; moist mucosa, no edema, no skin darkening.",
+      "workup": "Na+ 127, K+ 4.2, glucose 68; serum osm 262, urine osm 420, urine Na+ 40 (euvolemic pattern); TSH normal; 8 a.m. cortisol 2.5 ug/dL with ACTH 8 pg/mL (low); renin and aldosterone normal.",
+      "management": "Glucocorticoid replacement (restart prednisone or hydrocortisone, then taper slowly); no mineralocorticoid needed because the renin-aldosterone axis is intact; stress dosing for illness; Na+ normalizes as cortisol is replaced.",
+      "lecture": "CV89",
+      "lectures": [
+        "CV89"
+      ]
+    },
+    {
+      "name": "Hypervolemic hyponatremia (heart failure, cirrhosis)",
+      "presentation": "A 56-year-old man with 30 years of heavy drinking has 2 months of a growing belly and swollen legs; Na+ is 124 mEq/L. BP 98/60, HR 92; yellow sclerae, spider-like vessels on the chest, a tense abdomen with shifting dullness, 3+ pitting edema to the knees; alert and oriented.",
+      "workup": "Na+ 124 mEq/L, serum osm 258, urine osm 450, urine Na+ 8 mEq/L (avid sodium retention); albumin 2.3 g/dL, bilirubin 3.4, INR 1.9; creatinine 1.0. Paracentesis: serum-to-fluid albumin gradient 1.8 g/dL.",
+      "management": "Restrict fluid (about 1-1.5 L/day) and dietary sodium; spironolactone with furosemide for the edema and ascites; treat the underlying organ failure; never raise Na+ more than 10 mEq/L in 24 h.",
+      "lecture": "CV89",
+      "lectures": [
+        "CV89"
+      ]
+    },
+    {
+      "name": "Osmotic demyelination syndrome",
+      "presentation": "A 61-year-old man who drinks heavily was admitted with Na+ 116 mEq/L, low for at least a week. He got large volumes of hypertonic saline and Na+ rose 18 mEq/L in 24 h. He brightened, then on day 3 had slurred speech, poor swallowing, double vision and weakness of all four limbs.",
+      "workup": "Na+ 136 mEq/L on day 3 (116 on admission); glucose and calcium normal. MRI brain 2 weeks later: symmetric bright T2 lesion in the center of the pons, sparing its outer rim; CSF unremarkable.",
+      "management": "Prevention is the treatment: in low Na+ present >48 h, raise it 4-6 and never more than 10 mEq/L in any 24 h; if it overshoots, re-lower Na+ with D5W and desmopressin; supportive care.",
+      "lecture": "CV89",
+      "lectures": [
+        "CV89"
+      ]
+    },
+    {
+      "name": "SIADH",
+      "presentation": "A 78-year-old man who smokes a pack a day is admitted with pneumonia. His Na+ falls from 129 to 119 mEq/L despite fluid restriction to 1 L/day and he becomes confused and nauseated. BP 132/80, HR 84; moist mucosa, normal neck veins, no edema.",
+      "workup": "Na+ 119, serum osm 250 mOsm/kg, urine osm 890 mOsm/kg, urine Na+ 55; uric acid 2.8, BUN 8; TSH and 8 a.m. cortisol normal. CT chest: right infrahilar mass with an airless, consolidated segment beyond it.",
+      "management": "Restrict fluids to 800-1000 mL/day; add salt tablets with furosemide, or a vasopressin-receptor antagonist (tolvaptan), if Na+ stays low; raise Na+ no more than 10 mEq/L per 24 h; treat the cause (the lung mass).",
+      "lecture": "CV89",
+      "lectures": [
+        "CV89"
+      ]
+    },
+    {
+      "name": "Persistent truncus arteriosus",
+      "presentation": "A 10-day-old boy breathes fast, sweats with feeds and is not regaining birth weight. Mildly blue: SpO2 88% in arm and leg alike. HR 170, RR 70, BP 70/30; harsh holosystolic murmur at the left sternal border, a single loud second heart sound, liver 3 cm below the ribs.",
+      "workup": "Chest film: mildly enlarged heart with increased, streaky lung markings. ECG: both ventricles enlarged. Echo: one large vessel rides over a large VSD and gives off the coronary, pulmonary and systemic arteries; no separate pulmonary valve.",
+      "management": "Surgical repair in the neonatal period (close the VSD, connect the right ventricle to the pulmonary arteries with a conduit); diuretics for heart failure meanwhile; screen for the 22q11.2 microdeletion.",
+      "lecture": "CV92",
+      "lectures": [
+        "CV92"
+      ]
+    },
+    {
+      "name": "22q11.2 deletion (DiGeorge) syndrome",
+      "presentation": "A 3-day-old boy admitted for a murmur and mild cyanosis becomes jittery, then has a focal seizure. He has small low-set ears, a small jaw, wide-set eyes and an opening in the roof of his mouth. HR 160, SpO2 85%.",
+      "workup": "Ca2+ 6.2 mg/dL, phosphate 8.0, PTH low; lymphocytes 900/uL with very few T cells; chest film: no thymic shadow above the heart; echo: a conotruncal (outflow-tract) defect.",
+      "management": "IV calcium gluconate for the seizure, then oral calcium and calcitriol; irradiated, CMV-negative blood products only; hold live vaccines until T-cell function is known; repair the heart lesion surgically.",
+      "lecture": "CV92",
+      "lectures": [
+        "CV92",
+        "CV110"
+      ]
+    },
+    {
+      "name": "Transposition of the great arteries",
+      "presentation": "A 4.1-kg term boy born to a mother with poorly controlled diabetes is deeply blue within hours of birth: SpO2 62% in all four limbs, barely changing on 100% oxygen. RR 60 without grunting or retractions; no significant murmur; single loud second heart sound.",
+      "workup": "ABG on 100% O2: PaO2 35 mmHg (never rises above 150). Chest film: mildly enlarged heart, normal-to-increased lung vascular markings. Echo: aorta arises from the right ventricle and the pulmonary trunk from the left; small atrial opening.",
+      "management": "Start a prostaglandin E1 infusion to keep the ductus open; balloon atrial septostomy if the atrial opening is too small for mixing; definitive arterial switch operation in the first weeks of life.",
+      "lecture": "CV92",
+      "lectures": [
+        "CV92"
+      ]
+    },
+    {
+      "name": "Tricuspid atresia",
+      "presentation": "A 2-week-old girl is blue (SpO2 75%) and tires after 1 oz of each feed. RR 58, HR 160. Holosystolic murmur at the left lower sternal border; the cardiac impulse is felt at the apex, with no lift over the lower sternum; liver 2 cm below the ribs.",
+      "workup": "ECG: superior QRS axis (-60 degrees), tall P waves in II, left ventricular forces dominant. Chest film: normal-sized heart, sparse lung markings. Echo: no flow from right atrium into a small right ventricle; ASD and VSD present.",
+      "management": "Prostaglandin E1 to keep the ductus open for lung blood flow; then staged surgery - systemic-to-pulmonary shunt, then superior and later total cavopulmonary connection.",
+      "lecture": "CV92",
+      "lectures": [
+        "CV92"
+      ]
+    },
+    {
+      "name": "Tetralogy of Fallot",
+      "presentation": "A 2-year-old boy adopted from abroad has always been small (weight <3rd percentile) and tires fast at play; when he cries his lips turn deep blue and he breathes fast. SpO2 84% at rest, clubbed fingers, RV lift; harsh 3/6 systolic ejection murmur at the left upper sternal border.",
+      "workup": "Chest film: normal-sized heart with sparse lung vascular markings. ECG: right axis deviation, tall R in V1. Echo: large VSD with the aorta straddling it; narrow right ventricular outflow, 70-mmHg gradient.",
+      "management": "During a blue episode: knees to chest, oxygen, IV morphine and fluids, phenylephrine to raise systemic resistance (beta blocker sometimes); prostaglandin only if flow depends on the ductus; complete surgical repair in infancy.",
+      "lecture": "CV92",
+      "lectures": [
+        "CV92",
+        "CV110",
+        "CV99"
+      ]
+    },
+    {
+      "name": "Total anomalous pulmonary venous return",
+      "presentation": "A 5-day-old boy has worsening fast breathing, grunting and duskiness: SpO2 78% in arm and leg, little change on oxygen. RR 80, HR 175; fine crackles throughout both lungs; soft systolic murmur at the left upper sternal border; liver edge 3 cm below the ribs.",
+      "workup": "Chest film: heart not enlarged; both lungs densely white with streaky, congested markings. Echo: no veins enter the left atrium; a common venous channel drains to the right side and is narrowed; right-to-left flow across the atrial septum.",
+      "management": "Urgent surgical reconnection of the lung veins to the left atrium - an emergency if the venous pathway is obstructed; ventilate and support meanwhile; the atrial (and ductal) shunt must stay open until repair.",
+      "lecture": "CV92",
+      "lectures": [
+        "CV92"
+      ]
+    },
+    {
+      "name": "Hypoplastic left heart syndrome",
+      "presentation": "A 5-day-old boy sent home well on day 2 is brought in gray, limp and feeding poorly over 12 hours. HR 190, RR 72, BP 48/30 in arms and legs, capillary refill 5 s; arm and leg pulses equally weak; SpO2 82%; liver 4 cm below the ribs. A sepsis workup has begun.",
+      "workup": "pH 7.02, HCO3- 8, lactate 9 mmol/L; cultures pending. Chest film: big heart, congested lungs. Echo: tiny, barely contracting left ventricle, pinhole mitral and aortic valves, 3-mm ascending aorta filled backward from a narrowing ductus.",
+      "management": "Prostaglandin E1 infusion at once to reopen the ductus - the only route to the body - and call cardiology; avoid excess oxygen; staged surgery (Norwood, then Glenn, then Fontan) or transplant.",
+      "lecture": "CV92",
+      "lectures": [
+        "CV92"
+      ]
+    },
+    {
+      "name": "Ebstein anomaly",
+      "presentation": "A newborn whose mother took lithium for bipolar disorder throughout pregnancy is blue (SpO2 80%) and breathing fast. HR 150, RR 66; soft holosystolic murmur at the left lower sternal border, louder with inspiration; liver 3 cm below the ribs; no arm-leg pulse difference.",
+      "workup": "Chest film: the heart fills nearly the whole chest (cardiothoracic ratio 0.8); dark lungs. Echo: right AV valve leaflets set low inside the right ventricle; huge right atrium, small right ventricle, severe leak, right-to-left ASD flow.",
+      "management": "Prostaglandin E1 to keep the ductus open while lung resistance falls; treat heart failure; surgical valve repair or reconstruction; screen the ECG for an accessory conduction pathway.",
+      "lecture": "CV92",
+      "lectures": [
+        "CV92"
+      ]
+    },
+    {
+      "name": "Innocent murmur of childhood",
+      "presentation": "A 4-year-old girl seen for ear pain and a fever of 39.2 C has a grade 2/6 low-pitched, musical systolic ejection sound at the left lower sternal border, louder lying down, softer sitting up. Active, growing on the 50th percentile; normal pulses; S2 splits normally.",
+      "workup": "Clinical diagnosis. If checked: ECG and chest film normal; echo shows a structurally normal heart. The sound fades when she is afebrile.",
+      "management": "Reassure the family and recheck when she is well; no echocardiogram or cardiology referral unless the sound is grade 4 or louder, harsh, has a thrill, or growth or symptoms suggest heart disease.",
+      "lecture": "CV93",
+      "lectures": [
+        "CV93"
+      ]
+    },
+    {
+      "name": "Atrial septal defect",
+      "presentation": "A 6-year-old girl sent by her school nurse feels well but is at the 10th percentile for weight and tires before her friends. Soft 2/6 systolic ejection murmur at the left upper sternal border, low mid-diastolic rumble at the lower left border; S2 split wide in both breath phases.",
+      "workup": "ECG: right axis deviation, rsR' in V1. Chest film: enlarged right heart, prominent pulmonary arteries, more lung markings. Echo: 14-mm opening mid-wall between the upper chambers, left-to-right flow, dilated right atrium and ventricle.",
+      "management": "Small openings: watch and wait - many close on their own. Significant shunt, right-heart enlargement or poor growth: transcatheter device closure or surgery.",
+      "lecture": "CV93",
+      "lectures": [
+        "CV93",
+        "CV99"
+      ]
+    },
+    {
+      "name": "Ventricular septal defect",
+      "presentation": "A 6-week-old boy had a silent heart exam in the nursery. Now he takes 40 min per feed, sweats while eating and gains weight slowly. RR 62, HR 160, SpO2 98%; harsh grade 4/6 holosystolic murmur with a thrill at the left lower sternal border; liver 2 cm below the ribs.",
+      "workup": "ECG: normal axis, tall R and deep S waves across V2-V4. Chest film: enlarged heart, increased lung markings. Echo: 8-mm opening in the membranous wall between the lower chambers, left-to-right flow, enlarged left atrium and left ventricle.",
+      "management": "Small muscular openings usually close on their own - follow with cardiology 1-3 times a year. Large ones with heart failure: diuretics and high-calorie feeds, then surgical patch closure before lung pressures become fixed.",
+      "lecture": "CV93",
+      "lectures": [
+        "CV93"
+      ]
+    },
+    {
+      "name": "Complete atrioventricular canal defect",
+      "presentation": "A 2-month-old girl with Down syndrome feeds slowly, sweats and has gained only 300 g since birth. RR 70, HR 168, SpO2 95%; crackles at both bases, liver 3 cm below the ribs; holosystolic murmur at the left lower sternal border and apex with a mid-diastolic rumble.",
+      "workup": "ECG: superior QRS axis (about -90 degrees), PR 180 ms. Chest film: large heart, heavy lung markings. Echo: a low gap between the upper chambers continuous with an inlet gap between the lower chambers, under one shared leaking valve.",
+      "management": "Treat heart failure (diuretics, high-calorie feeds) and refer for surgical repair at 3-6 months - this lesion always needs it, before lung pressures become fixed and the shunt reverses.",
+      "lecture": "CV93",
+      "lectures": [
+        "CV93"
+      ]
+    },
+    {
+      "name": "Patent ductus arteriosus",
+      "presentation": "A baby born at 27 weeks, now 10 days old on CPAP, needs more oxygen, has had two apneic spells and is not tolerating feeds. HR 168, BP 52/24 (58/36 on day 3); active precordium; a new 2/6 murmur below the left clavicle that carries on past S2; liver edge normal.",
+      "workup": "Echo: a 2.5-mm channel joining the descending aorta to the main pulmonary artery with continuous left-to-right flow; enlarged left atrium (LA:aortic root 1.8); reversed diastolic flow in the descending aorta. Chest film: more lung markings.",
+      "management": "Indomethacin (or ibuprofen) to close it - the opposite of prostaglandin; restrict fluids; if that fails, catheter coil/device closure or surgical ligation.",
+      "lecture": "CV93",
+      "lectures": [
+        "CV93"
+      ]
+    },
+    {
+      "name": "Coarctation of the aorta",
+      "presentation": "A 14-year-old boy at a sports physical has BP 162/94 in the right arm and 104/70 in the leg, and gets calf cramps when running. Femoral pulses are weak and arrive later than the radial pulse; a systolic murmur is heard over the left back between the shoulder blades.",
+      "workup": "Chest film: notches on the undersides of posterior ribs 4-8. ECG: left ventricular hypertrophy. MRI: discrete narrowing of the descending thoracic arterial trunk just past the left subclavian origin, with large intercostal collaterals.",
+      "management": "Refer to cardiology whenever femoral pulses are weak or absent; balloon angioplasty with stent or surgical resection; long-term BP control and surveillance for re-narrowing and aneurysm; a duct-dependent newborn gets prostaglandin E1 first.",
+      "lecture": "CV93",
+      "lectures": [
+        "CV93",
+        "CV110"
+      ]
+    },
+    {
+      "name": "Congenital heart block (neonatal lupus)",
+      "presentation": "A fetal heart rate of 55 was noted at 24 weeks in a mother with years of dry eyes, dry mouth and joint pain. The term newborn has HR 58 and regular, BP 64/40, is pink and feeds well. At 3 weeks scaly, ring-shaped red patches appear around the eyes.",
+      "workup": "ECG: regular P waves at 140/min with no fixed relation to regular, narrow QRS complexes at 55/min. Platelets 80,000/uL. Mother's serum: anti-Ro/SSA and anti-La/SSB IgG positive.",
+      "management": "Monitor; permanent pacemaker if symptomatic, in heart failure, wide QRS or rate persistently under about 55. Rash and low counts fade as maternal antibody clears, but the conduction damage usually stays; fetal echo in later pregnancies.",
+      "lecture": "CV93",
+      "lectures": [
+        "CV93"
+      ]
+    },
+    {
+      "name": "Supraventricular tachycardia in an infant",
+      "presentation": "A 6-week-old boy, well this morning, has been fussy and pale with poor feeding for 3 h. HR 280 and does not change with crying or calming; RR 60, BP 78/50, capillary refill 3 s; afebrile, no murmur.",
+      "workup": "ECG: regular, narrow QRS complexes at 280/min with no visible P waves and no beat-to-beat change in rate (sinus rhythm in a baby this age rarely exceeds 220 and varies with activity).",
+      "management": "Vagal maneuver first - ice bag over the whole face including the nose, on a monitor, IV placed meanwhile; stable and not converting: rapid IV push adenosine; unstable: synchronized cardioversion; then cardiology for an accessory pathway.",
+      "lecture": "CV93",
+      "lectures": [
+        "CV93"
+      ]
+    },
+    {
+      "name": "Eisenmenger syndrome",
+      "presentation": "A 24-year-old woman raised abroad was told of a loud heart murmur as a baby but never treated. Now breathless on stairs, tired, and has coughed blood once; lips and nail beds blue, SpO2 82% at rest, fingers clubbed. Loud single S2, left parasternal lift; no loud murmur now.",
+      "workup": "Hb 20.5 g/dL, Hct 62%. Echo: 1.5-cm opening in the wall between the lower chambers, flow now right to left; right ventricular pressure equals systemic. Cath: lung vascular resistance 14 Wood units, unchanged by nitric oxide.",
+      "management": "Do not close the hole - it is now the right heart's relief valve; pulmonary vasodilators (endothelin antagonist, PDE-5 inhibitor); avoid pregnancy; phlebotomy only for symptomatic hyperviscosity; heart-lung transplant at end stage.",
+      "lecture": "CV93",
+      "lectures": [
+        "CV93"
+      ]
+    },
+    {
+      "name": "Kawasaki disease",
+      "presentation": "An 18-month-old boy has had fever to 40.2 C for 6 days, unchanged after 3 days of amoxicillin for a red ear; he is miserable and hard to settle. Both eyes are red with no discharge, lips red and dry, a blotchy rash covers his trunk, the backs of his hands are puffy. HR 160.",
+      "workup": "WBC 17,000, Hb 9.8, platelets normal now (700,000 in week 2), ESR 80, CRP 12 mg/dL, albumin 2.9; urine 20 WBC/hpf with a sterile culture; rapid strep negative. Echo: dilated left anterior descending coronary artery (z-score +3).",
+      "management": "IVIG within 10 days of fever onset plus high-dose aspirin, then low-dose aspirin for 6-8 weeks (indefinitely if aneurysms form); second IVIG, steroids or anti-TNF if fever persists; serial echocardiograms.",
+      "lecture": "CV94",
+      "lectures": [
+        "CV94"
+      ]
+    },
+    {
+      "name": "Vasovagal syncope",
+      "presentation": "A 15-year-old girl who skipped breakfast faints while watching her blood being drawn. First she felt warm and nauseated and her vision grayed; she slumped, was out 20 s with a few arm jerks, and was oriented within a minute; no incontinence. Lying: HR 52, BP 86/50, pale, sweaty.",
+      "workup": "ECG: sinus rhythm, normal PR and QRS, QTc 410 ms. Glucose 84 mg/dL, hemoglobin normal, pregnancy test negative. Lying and standing vitals 10 min later are normal; heart exam normal.",
+      "management": "Reassure; more fluid and salt; at the first warning lie down or sit with legs raised and tense the leg muscles; avoid fasting and known triggers. No further cardiac testing without red flags (exertional, family sudden death, long episode).",
+      "lecture": "CV94",
+      "lectures": [
+        "CV94"
+      ]
+    },
+    {
+      "name": "Orthostatic hypotension from dehydration",
+      "presentation": "An 18-year-old woman who drank alcohol last night, overslept and had nothing to eat or drink stands up in her 8 a.m. class, feels lightheaded and sweaty, and passes out for about 1 minute. Afebrile, HR 120, BP 132/72 seated; regular rhythm, no murmur; dry lips.",
+      "workup": "Lying BP 128/76, HR 96; after 3 min standing BP 98/60, HR 132 with lightheadedness. ECG: sinus rhythm at 120, QTc 420 ms. BUN 24, creatinine 0.9, urine specific gravity 1.030; glucose 88 mg/dL.",
+      "management": "Oral (or IV) fluids and salt; rise slowly from lying or sitting; avoid alcohol and skipped meals; reassure. Re-evaluate if an ECG shows a long QT or episodes happen with exercise.",
+      "lecture": "CV94",
+      "lectures": [
+        "CV94"
+      ]
+    },
+    {
+      "name": "Acute decompensated heart failure",
+      "presentation": "A 74-year-old man with known EF 30% ate salty holiday meals and ran out of furosemide a week ago. Tonight he woke gasping and now sits bolt upright using his neck muscles. BP 172/98, HR 112, RR 32, SpO2 86%; warm hands; JVP 14 cm, crackles to mid-lung, S3, 3+ leg edema.",
+      "workup": "BNP 1,850 pg/mL; troponin slightly up and flat; creatinine 1.5; Na+ 134. Chest film: enlarged heart, fluffy bilateral perihilar alveolar opacities, small effusions. ECG: sinus rhythm at 112, no new ST elevation.",
+      "management": "Sit him up; oxygen or noninvasive positive-pressure ventilation; IV loop diuretic at or above the home dose; IV nitroglycerin while BP is high; find the trigger; restart and optimize guideline therapy once dry; follow-up within 7 days.",
+      "lecture": "CV95",
+      "lectures": [
+        "CV95",
+        "CV58",
+        "CV96",
+        "CV111"
+      ]
+    },
+    {
+      "name": "Heart failure with preserved ejection fraction",
+      "presentation": "A 76-year-old woman with 20 years of hypertension, type 2 diabetes and a BMI of 36 has 8 months of breathlessness walking to her mailbox, 2-pillow orthopnea and ankle swelling. BP 164/92, HR 88 regular; JVP 10 cm, an S4, bibasilar crackles, 2+ pitting ankle edema.",
+      "workup": "BNP 420 pg/mL. Echo: small, thick-walled left ventricle (septum 14 mm) contracting well, EF 62%; enlarged left atrium; slow, stiff relaxation with high filling pressures (E/e' 18); no valve disease, no outflow gradient.",
+      "management": "Loop diuretic for congestion; SGLT2 inhibitor (fewer hospitalizations); control BP, diabetes, AF and coronary disease; GLP-1 agonist for obesity; MRA or ARNI may be considered - no fixed regimen as in reduced-EF failure.",
+      "lecture": "CV95",
+      "lectures": [
+        "CV95"
+      ]
+    },
+    {
+      "name": "Ischemic cardiomyopathy (HFrEF from coronary disease)",
+      "presentation": "A 65-year-old man with hypertension, diabetes, high cholesterol and 40 pack-years had hours of crushing chest pain into his left arm a year ago but never sought care. Two weeks of worsening exertional dyspnea, 4-pillow orthopnea. BP 118/76, HR 96; JVP 12 cm, S3, leg edema.",
+      "workup": "ECG: Q waves in V2-V4. Echo: dilated left ventricle, thin akinetic anterior wall and apex, EF 30%. Chest film: enlarged heart. Catheterization: occluded proximal left anterior descending artery and an 80% right-sided lesion.",
+      "management": "ARNI (sacubitril-valsartan), evidence-based beta blocker, MRA and SGLT2 inhibitor, plus a loop diuretic for congestion; aspirin and high-intensity statin; consider revascularization; ICD if EF stays 35% or less after 3 months of therapy.",
+      "lecture": "CV95",
+      "lectures": [
+        "CV95",
+        "CV96"
+      ]
+    },
+    {
+      "name": "Cor pulmonale",
+      "presentation": "A 69-year-old man with 6 years of worsening dry cough and breathlessness from scarred lungs now has 3 months of leg swelling and right upper quadrant ache, no orthopnea. SpO2 85% on room air; clubbing; fine late-inspiratory basal crackles; JVP 14 cm; parasternal lift, loud P2.",
+      "workup": "Echo: dilated, thick right ventricle, flattened septum, PA systolic pressure 58 mmHg; normal left ventricle (EF 60%) and left atrium. FVC 55%, FEV1/FVC 0.86, DLCO 35%. CT: basal subpleural cystic scarring. ECG: right axis deviation.",
+      "management": "Treat the underlying lung disease and correct hypoxemia - long-term supplemental oxygen is the key step; cautious diuretics for edema; pulmonary rehabilitation; refer for lung transplant evaluation.",
+      "lecture": "CV95",
+      "lectures": [
+        "CV95",
+        "CV60",
+        "CV112"
+      ]
+    },
+    {
+      "name": "Peripartum cardiomyopathy",
+      "presentation": "A 34-year-old woman, 5 weeks after delivering twins, has 2 weeks of breathlessness lying flat, waking at night gasping, and more leg swelling than she had while pregnant. No prior heart disease. BP 112/74, HR 110, RR 24; JVP 11 cm, S3, bibasilar crackles.",
+      "workup": "BNP 1,200 pg/mL; troponin normal; TSH normal. ECG: sinus tachycardia, no Q waves. Echo: dilated left ventricle with global hypokinesis, EF 28%, normal valves; an echo at 20 weeks of this pregnancy was normal.",
+      "management": "Guideline reduced-EF therapy compatible with breastfeeding (beta blocker, enalapril, loop diuretic); anticoagulate if EF is very low; about half regain normal function, but it can recur - counsel about future pregnancy.",
+      "lecture": "CV97",
+      "lectures": [
+        "CV97",
+        "CV94"
+      ]
+    },
+    {
+      "name": "Alcoholic cardiomyopathy",
+      "presentation": "A 48-year-old man who has drunk about 12 beers a day for 20 years has 2 months of worsening exertional breathlessness, orthopnea and leg swelling; no chest pain ever. BP 128/84, HR 108; JVP 12 cm, S3, apex displaced to the anterior axillary line; reddened palms.",
+      "workup": "Echo: dilated left ventricle with global hypokinesis, EF 25%. Coronary angiogram: normal. MCV 104 fL, GGT 310 U/L, AST 112 with ALT 48; thiamine low-normal.",
+      "management": "Complete abstinence - ventricular function often recovers; guideline reduced-EF therapy (ACE inhibitor or ARNI, beta blocker, MRA, SGLT2 inhibitor, diuretic); give thiamine, since its deficiency causes an indistinguishable dilated heart.",
+      "lecture": "CV97",
+      "lectures": [
+        "CV97",
+        "CV95"
+      ]
+    },
+    {
+      "name": "Stress (takotsubo) cardiomyopathy",
+      "presentation": "A 67-year-old woman develops crushing substernal chest pain and breathlessness an hour after being robbed at knifepoint outside her shop. No prior heart disease; nonsmoker, normal lipids last year. BP 102/68, HR 104; soft apical systolic murmur, bibasilar crackles.",
+      "workup": "ECG: ST elevation V2-V5, deep T inversion by the next day; troponin I 1.8 ng/mL (modest). Cath: no obstructive coronary disease. Ventriculogram: apex and mid-walls akinetic and bulging in systole while the base contracts hard; EF 35%.",
+      "management": "Supportive: beta blocker and ACE inhibitor while it recovers, diuretic for congestion; avoid inotropes if the outflow tract is obstructed; anticoagulate if an apical clot forms; function usually returns within weeks.",
+      "lecture": "CV97",
+      "lectures": [
+        "CV97"
+      ]
+    },
+    {
+      "name": "Hypersensitivity myocarditis",
+      "presentation": "A 45-year-old man started trimethoprim-sulfamethoxazole 10 days ago for a skin infection. Now 2 days of fever, an itchy red rash over his trunk, palpitations and breathlessness on exertion. T 38.4 C, HR 118, BP 104/70; faint S3, no murmur.",
+      "workup": "Eosinophils 1,800/uL (14%); troponin I 2.4 ng/mL; ECG: sinus tachycardia, nonspecific ST-T changes; echo: EF 40%; normal coronaries. Biopsy: perivascular lymphocytes and macrophages with many eosinophils, little myocyte necrosis.",
+      "management": "Stop the culprit drug and avoid its class; corticosteroids; supportive heart-failure therapy; usually recovers once the drug is gone.",
+      "lecture": "CV97",
+      "lectures": [
+        "CV97"
+      ]
+    },
+    {
+      "name": "Giant cell myocarditis",
+      "presentation": "A 42-year-old woman with ulcerative colitis has 3 weeks of rapidly worsening breathlessness and palpitations and has fainted twice; no preceding cold or new medication. BP 92/60, HR 124, JVP 14 cm, S3; repeated runs of a fast wide-complex rhythm on the monitor.",
+      "workup": "ECG: runs of monomorphic VT, new high-grade AV block. Echo: EF 20% and falling despite therapy; coronaries normal. Biopsy: widespread myocyte necrosis with multinucleated cells among lymphocytes, eosinophils, plasma cells and macrophages.",
+      "management": "Combined immunosuppression (high-dose steroids plus cyclosporine or a similar agent); ICD or pacing and mechanical circulatory support as needed; early heart-transplant referral - the outlook is poor.",
+      "lecture": "CV97",
+      "lectures": [
+        "CV97",
+        "CV107"
+      ]
+    },
+    {
+      "name": "Dilated cardiomyopathy (idiopathic/familial)",
+      "presentation": "A 38-year-old man has 3 months of worsening exertional breathlessness, orthopnea and ankle swelling. His father died suddenly at 45; an aunt had a heart transplant. Rare alcohol, no drugs or chemotherapy, no recent illness. BP 100/68, HR 108; cool hands, apex displaced, S3.",
+      "workup": "Echo: all four chambers enlarged, thin walls, global hypokinesis, EF 22%, mitral leak from annular stretch. Coronary angiogram, TSH, ferritin, thiamine normal. Gene panel: truncating titin (TTN) variant. Biopsy: nonspecific.",
+      "management": "Guideline reduced-EF therapy (ARNI, beta blocker, MRA, SGLT2 inhibitor, diuretic); anticoagulate for AF or mural thrombus; ICD for sudden-death prevention; echo screening of first-degree relatives; transplant if refractory.",
+      "lecture": "CV97",
+      "lectures": [
+        "CV97",
+        "CV94",
+        "CV95",
+        "CV98"
+      ]
+    },
+    {
+      "name": "Hypertrophic cardiomyopathy",
+      "presentation": "A 17-year-old basketball player faints in a sprint drill and is alert within seconds; hard exercise has caused chest tightness for months. BP 124/72, HR 64; forceful sustained apex, S4, brisk carotid pulse; harsh 3/6 systolic murmur at the lower left sternal edge, not in neck.",
+      "workup": "ECG: very tall QRS voltage, deep narrow Q waves in II, III, aVF, V5-V6. Echo: septum 28 mm vs posterior wall 11 mm, small vigorous cavity (EF 75%), mitral leaflet pulled to the septum in systole, outflow gradient 60 mmHg.",
+      "management": "Beta blocker (or verapamil) to slow and relax the heart; no competitive sport; avoid dehydration, diuretics, vasodilators and inotropes; ICD for sudden-death risk; septal myectomy or alcohol ablation; echo first-degree relatives.",
+      "lecture": "CV97",
+      "lectures": [
+        "CV97",
+        "CV94",
+        "CV110",
+        "CV99"
+      ]
+    },
+    {
+      "name": "Arrhythmogenic right ventricular cardiomyopathy (incl. Naxos)",
+      "presentation": "A 24-year-old man collapses playing soccer and is revived with one shock; for a year exercise has brought on palpitations and a pounding heart. A cousin died suddenly at 30. Since childhood the skin of his palms and soles has been thick and hard. BP 118/74; heart exam normal.",
+      "workup": "ECG: T-wave inversion V1-V3, a small notch at the very end of the QRS in V1; monitored VT with left bundle branch block shape and superior axis. MRI: thin, enlarged, poorly moving right ventricle with fatty replacement; LV near normal.",
+      "management": "ICD (the usual treatment); no competitive or endurance exercise; beta blocker or an antiarrhythmic (sotalol, amiodarone) and catheter ablation for recurrent VT; screen first-degree relatives.",
+      "lecture": "CV97",
+      "lectures": [
+        "CV97",
+        "CV82",
+        "CV110"
+      ]
+    },
+    {
+      "name": "Restrictive cardiomyopathy (idiopathic)",
+      "presentation": "A 52-year-old woman has a year of fatigue, poor exercise tolerance, swelling legs and a growing abdomen, with only mild breathlessness. No chest radiation, heart surgery or pericarditis. BP 108/72, HR 98; JVP 16 cm, rising on inspiration; liver 4 cm down, ascites, 3+ edema.",
+      "workup": "BNP 900 pg/mL. Echo: EF 60%, normal wall thickness, huge atria, slow tissue velocities (e' 4 cm/s), little respiratory variation. CT: pericardium 2 mm, no calcium. Biopsy: interstitial scarring only - no deposits, iron or granulomas.",
+      "management": "Exclude constrictive pericarditis first (the correctable look-alike); careful diuretics - keep BP up without cutting output; control rate and anticoagulate for AF; heart transplant is often needed.",
+      "lecture": "CV98",
+      "lectures": [
+        "CV98",
+        "CV94",
+        "CV97"
+      ],
+      "avoid": {
+        "presentation": [
+          "Constrictive pericarditis"
+        ]
+      }
+    },
+    {
+      "name": "Cardiac amyloidosis",
+      "presentation": "A 78-year-old man who had surgery for numb hands on both sides 6 years ago now has 8 months of breathlessness, leg swelling and lightheadedness on standing; his BP pills were stopped as his pressure fell. BP 98/62 lying, 80/54 standing; JVP 12 cm; soft S3, no murmur.",
+      "workup": "ECG: low QRS voltage in limb leads, yet echo shows a 17-mm septum and 16-mm posterior wall; EF 50%, big atria, stiff filling. Pyrophosphate scan: intense heart uptake; free light chains normal. Biopsy: Congo red-positive, birefringent.",
+      "management": "Tafamidis (stabilizes the misfolding transport protein); careful diuretics; avoid digoxin and nondihydropyridine calcium channel blockers; anticoagulate any AF; pacemaker for conduction disease.",
+      "lecture": "CV98",
+      "lectures": [
+        "CV98",
+        "CV97",
+        "CV95"
+      ]
+    },
+    {
+      "name": "Endomyocardial fibrosis",
+      "presentation": "A 14-year-old boy from rural Uganda has 6 months of a swelling abdomen, leg edema and breathlessness on exertion. BP 96/64, HR 110; JVP 14 cm, large liver, tense ascites, soft holosystolic murmur at the left lower sternal border; afebrile, no rash, no new medications.",
+      "workup": "Eosinophils 300/uL. Echo: both ventricular apices filled in by dense bright tissue with layered thrombus; small cavities, huge atria, EF 55%, stiff filling. Biopsy: dense collagen scar of endocardium and subendocardium, little inflammation.",
+      "management": "Cautious diuretics for congestion; anticoagulation for the mural thrombi; rate control of AF; surgical excision of the endocardial scar (endocardiectomy) with valve repair or replacement in selected patients.",
+      "lecture": "CV98",
+      "lectures": [
+        "CV98"
+      ]
+    },
+    {
+      "name": "Loeffler endomyocarditis",
+      "presentation": "A 45-year-old man has 3 months of weight loss, night sweats, an itchy rash, cough and breathlessness, then 2 days of right-arm weakness. No new drugs, no travel. BP 104/70, HR 102; JVP 12 cm, apical holosystolic murmur, enlarged liver and spleen, 2+ edema.",
+      "workup": "WBC 24,000 with eosinophils 11,000/uL, high for 6 months; FIP1L1-PDGFRA fusion in blood; troponin up. Echo: thick endocardium at both apices with large mural thrombi, small cavities, EF 55%. Biopsy: eosinophil infiltrate, myocyte necrosis.",
+      "management": "Imatinib for the PDGFRA-driven clone (glucocorticoids otherwise) to bring eosinophils down; anticoagulate for the mural thrombi; diuretics; late surgical thrombus and scar removal with valve replacement.",
+      "lecture": "CV98",
+      "lectures": [
+        "CV98"
+      ]
+    },
+    {
+      "name": "Endocardial fibroelastosis",
+      "presentation": "A 7-month-old girl has 6 weeks of fast breathing, sweating with feeds and poor weight gain (5th percentile). RR 64, HR 168, BP 82/50 in arms and legs with equal pulses; pale; gallop rhythm, soft apical holosystolic murmur, liver 4 cm below the ribs.",
+      "workup": "Chest film: large heart, congested lungs. Echo: enlarged, poorly contracting left ventricle (EF 25%) lined by a thick, bright, opaque inner layer; mildly narrowed aortic valve. Biopsy: thick layer of collagen and elastic fibers.",
+      "management": "Heart-failure therapy (diuretics, ACE inhibitor, beta blocker); relieve any associated lesion such as aortic valve obstruction; heart transplant if it progresses - many die of heart failure.",
+      "lecture": "CV98",
+      "lectures": [
+        "CV98"
+      ]
+    },
+    {
+      "name": "Costochondritis",
+      "presentation": "A 28-year-old woman has 5 days of sharp left front chest pain that began after she moved furniture; twisting, deep breaths and lying on that side worsen it, exertion does not. HR 76, BP 118/74, SpO2 99%; pressing the 3rd-4th left rib cartilages reproduces the pain exactly.",
+      "workup": "ECG: normal sinus rhythm, no ST or T changes; troponin negative twice; chest film normal; ESR normal; no swelling of the joints on exam.",
+      "management": "Reassure once the cardiac and other dangerous causes are excluded; NSAIDs, local heat and a break from the provoking activity; gentle stretching; it settles over weeks.",
+      "lecture": "CV104",
+      "lectures": [
+        "CV104"
+      ]
+    },
+    {
+      "name": "Diffuse esophageal spasm",
+      "presentation": "A 52-year-old woman has 6 months of intermittent squeezing pain behind the sternum lasting minutes, set off by cold drinks or large bites, sometimes with food sticking - solids and liquids alike. No weight loss; pain never comes with exertion. HR 72, BP 126/78; exam normal.",
+      "workup": "ECG and exercise treadmill test normal; troponin negative. Endoscopy and 24-h pH study normal. Manometry: 30% of wet swallows trigger premature, simultaneous contractions, with normal lower-sphincter relaxation.",
+      "management": "Exclude cardiac ischemia first; avoid trigger foods and cold drinks; smooth-muscle relaxants (calcium channel blocker or nitrate) or a low-dose tricyclic for pain; botulinum toxin or myotomy if refractory.",
+      "lecture": "CV104",
+      "lectures": [
+        "CV104"
+      ]
+    },
+    {
+      "name": "Obstructive sleep apnea",
+      "presentation": "A 54-year-old man with BMI 38, a small receding jaw and BP 158/96 on three drugs dozes off at red lights and in meetings. His wife reports loud snoring and long pauses in his breathing at night; he wakes choking, with morning headaches. Neck 18 inches; crowded oropharynx.",
+      "workup": "Overnight polysomnography: 34 events per hour in which airflow stops while the chest and abdomen keep straining; SpO2 dips to 78%; daytime drowsiness score 16/24. Hct 50%. Holter: paroxysms of AF.",
+      "management": "Nightly CPAP; weight loss; no alcohol or sedatives at night; side positioning; oral jaw-advancement device or upper-airway surgery if CPAP fails; BP control improves with treatment.",
+      "lecture": "CV104",
+      "lectures": [
+        "CV104",
+        "CV60"
+      ]
+    },
+    {
+      "name": "Pectus excavatum",
+      "presentation": "A 15-year-old boy notes his breastbone has sunk deeper during his growth spurt; on long runs he tires and gets breathless before teammates, with a racing heart. Average height, normal arm span and eyes. HR 88, BP 112/70; lower sternum 3 cm below the ribs; soft systolic murmur.",
+      "workup": "CT: sternum displaced backward, transverse-to-AP chest ratio 4.2, right ventricle compressed. PFTs: total lung capacity 80% predicted. Exercise test: reduced peak O2 uptake. Echo: structurally normal heart and valves.",
+      "management": "Mild or no symptoms: reassurance, posture and exercise - it need not end sport. Cardiac or lung compression or exercise limitation: surgical correction (minimally invasive bar or open repair); check for a connective-tissue disorder.",
+      "lecture": "CV104",
+      "lectures": [
+        "CV104",
+        "CV110"
+      ]
+    },
+    {
+      "name": "Flail chest",
+      "presentation": "A 46-year-old driver struck the steering wheel in a high-speed crash and is in severe pain; RR 32, HR 118, BP 128/80, SpO2 88% on a mask. A hand-sized area of his right lateral rib cage sinks in as he breathes in and bulges out as he breathes out; bony step-offs; crackling skin.",
+      "workup": "Radiograph and CT: right ribs 4-7 each broken in two places, with contusion of the underlying lung and a small hemothorax; no pneumothorax yet. ABG: PaO2 58, PaCO2 48 mmHg.",
+      "management": "Oxygen and aggressive analgesia (epidural or regional nerve block) so he can breathe deeply; airway clearance; noninvasive or mechanical ventilation if he tires or stays hypoxemic; surgical rib fixation in selected cases.",
+      "lecture": "CV104",
+      "lectures": [
+        "CV104"
+      ]
+    },
+    {
+      "name": "COPD exacerbation",
+      "presentation": "A 75-year-old man with 75 pack-years (quit 6 months ago) has coughed for 6 months; this week it is worse, with more, thicker sputum and breathlessness crossing a room; no fever. RR 28, HR 104, SpO2 87%; pursed lips, hyperresonant chest, faint breath sounds, wheeze.",
+      "workup": "ABG: pH 7.31, PaCO2 58, HCO3- 29, PaO2 55 mmHg (acute rise on chronic retention). Chest film: flat diaphragms, large retrosternal air space, midline trachea, no infiltrate or collapsed lung. Spirometry when stable: FEV1/FVC 0.52, FEV1 40%.",
+      "management": "Controlled oxygen to SpO2 88-92%; nebulized short-acting beta agonist plus ipratropium; prednisone 40 mg for 5 days; antibiotic for purulent sputum; bilevel noninvasive ventilation for pH below 7.35 with a high PaCO2; intubate if failing.",
+      "lecture": "CV104",
+      "lectures": [
+        "CV104",
+        "CV112",
+        "CV59"
+      ]
+    },
+    {
+      "name": "Allergic rhinitis with postnasal drip",
+      "presentation": "A 62-year-old woman who never smoked has 2 weeks of dry cough, worse at night, with a stuffy, runny nose and constant throat clearing; an over-the-counter antihistamine helped. Afebrile, RR 14, SpO2 98%; normal vesicular breath sounds; mucus streaking down the back of the throat.",
+      "workup": "Clinical diagnosis - no imaging needed. Lungs and peak flow normal. Nose: pale, swollen turbinates with clear discharge; back of the throat studded with raised lymphoid bumps. She takes no blood-pressure medicine.",
+      "management": "Intranasal corticosteroid plus a second-generation antihistamine; avoid the trigger allergen; saline nasal rinses; reassess if the cough lasts beyond 8 weeks.",
+      "lecture": "CV104",
+      "lectures": [
+        "CV104"
+      ]
+    },
+    {
+      "name": "Lobar pneumonia in an adult",
+      "presentation": "An 18-year-old college student has 24 h of fever to 39.4 C, shaking chills, cough with yellow-green sputum and worsening breathlessness. RR 26, HR 112, SpO2 91%. Right front lower chest: dull to percussion, more fremitus, crackles, bronchial breath sounds instead of vesicular.",
+      "workup": "WBC 18,500 with 88% neutrophils; procalcitonin raised. Chest film: dense right middle lobe opacity with air-filled bronchi running through it, blurring the right heart border; no effusion. Sputum: lancet-shaped gram-positive diplococci.",
+      "management": "Antibiotics: healthy outpatient - amoxicillin or doxycycline; hypoxemic or CURB-65 of 2 or more - admit for ceftriaxone plus azithromycin; oxygen to SpO2 above 92%; fluids and antipyretics.",
+      "lecture": "CV104",
+      "lectures": [
+        "CV104"
+      ]
+    },
+    {
+      "name": "Croup",
+      "presentation": "A 2-year-old boy had a runny nose and low fever for 5 days; for 24 h, worse at night, he has a harsh cough, a hoarse voice and a high-pitched noise on breathing in when upset. T 38.1 C, RR 36, SpO2 96%; mild suprasternal retractions; no drooling, sits comfortably, drinks well.",
+      "workup": "Clinical diagnosis. If a neck film is taken: frontal view shows narrowing of the airway just below the vocal cords; lateral view shows a normal epiglottis and normal space behind the pharynx. Viral swab: parainfluenza.",
+      "management": "One dose of oral dexamethasone (0.6 mg/kg) for every severity; nebulized racemic epinephrine for noisy breathing at rest, then observe 2-4 h for rebound; keep the child calm on a parent's lap.",
+      "lecture": "CV104",
+      "lectures": [
+        "CV104",
+        "CV109"
+      ]
+    },
+    {
+      "name": "Resorption atelectasis",
+      "presentation": "A 64-year-old man on day 2 after upper abdominal surgery, on opioids and too sore to cough, has new breathlessness and T 37.9 C. RR 26, HR 108, SpO2 88% on 2 L. Left lower chest: dull, breath sounds absent, moves less; trachea pulled toward the left.",
+      "workup": "ABG on 2 L: PaO2 56, PaCO2 38 mmHg. Chest film: dense, shrunken left lower lobe, raised left hemidiaphragm, heart and trachea shifted left, no air bronchograms. Bronchoscopy: mucus plug blocking the left lower lobe bronchus.",
+      "management": "Chest physiotherapy, deep breathing and incentive spirometry, early mobilization, pain control that allows coughing; suction or bronchoscopic removal of the plug; CPAP; bronchodilators. Reverses once the airway is open.",
+      "lecture": "CV111",
+      "lectures": [
+        "CV111"
+      ]
+    },
+    {
+      "name": "Compression atelectasis",
+      "presentation": "A 58-year-old woman with metastatic breast cancer has 3 weeks of increasing breathlessness and dry cough; no fever. RR 28, HR 104, SpO2 90%. Right side: dull to percussion from mid-back down, absent breath sounds and fremitus, reduced expansion; trachea pushed toward the left.",
+      "workup": "Chest film: large right pleural opacity with a curved upper border, airless lung above it, mediastinum shifted left. Thoracentesis: bloody exudate (protein ratio 0.7, LDH ratio 0.8) containing malignant cells.",
+      "management": "Therapeutic thoracentesis (about 1.5 L at a time) lets the lung re-expand; for recurrence, pleurodesis or an indwelling pleural catheter; treat the cancer. The lung recovers once the pleural space is cleared.",
+      "lecture": "CV111",
+      "lectures": [
+        "CV111"
+      ]
+    },
+    {
+      "name": "Contraction atelectasis",
+      "presentation": "A 60-year-old man treated for tuberculosis 20 years ago has slowly worsening breathlessness and a small chronic cough; no fever or weight loss now. RR 20, SpO2 93%. The right upper chest is flattened and moves less, dull, with harsh breath sounds; trachea pulled to the right.",
+      "workup": "Chest film: shrunken right upper lobe with dense streaky scarring and calcified nodes; trachea and hilum pulled up and right. CT: thick scar around narrowed, distorted bronchi, none dilated. Sputum acid-fast smears and cultures negative x3.",
+      "management": "Not reversible - neither airway clearance nor drainage re-expands scarred lung; treat symptoms (bronchodilators, vaccines, prompt treatment of infections); resection only for recurrent infection or bleeding.",
+      "lecture": "CV111",
+      "lectures": [
+        "CV111"
+      ]
+    },
+    {
+      "name": "Neonatal respiratory distress syndrome",
+      "presentation": "A boy born at 29 weeks to a mother with poorly controlled diabetes, who got no steroids before delivery, starts grunting, flaring his nostrils and pulling in between the ribs within minutes of birth, worsening over hours. RR 78, HR 168, SpO2 84% on room air; quiet breath sounds.",
+      "workup": "Chest film: low lung volumes with a uniform fine granular haze in both lungs and air-filled bronchi standing out against it. ABG on 40% O2: pH 7.22, PaCO2 58, PaO2 42. Amniotic fluid lecithin-to-sphingomyelin ratio had been 1.2.",
+      "management": "Early CPAP, then intubation with surfactant through the tube if oxygen needs rise; use the least oxygen that works (eye and lung injury); prevention: antenatal corticosteroids when delivery before 34 weeks is expected.",
+      "lecture": "CV111",
+      "lectures": [
+        "CV111"
+      ]
+    },
+    {
+      "name": "Acute respiratory distress syndrome",
+      "presentation": "A 46-year-old man admitted 2 days ago with severe gallstone pancreatitis becomes rapidly breathless and blue. RR 36, HR 122, BP 104/66, SpO2 84% on a 15-L non-rebreather; diffuse crackles in both lungs; JVP not raised, no S3, no leg edema.",
+      "workup": "ABG on FiO2 1.0: PaO2 80 mmHg (PaO2/FiO2 80), PaCO2 50, pH 7.28. Chest film: diffuse bilateral alveolar opacities, normal heart size. Echo: normal LV function; wedge pressure 12 mmHg; BNP 60 pg/mL.",
+      "management": "Treat the cause; intubate with low tidal volumes (6 mL/kg ideal weight), plateau pressure below 30 and adequate PEEP; prone positioning when PaO2/FiO2 is below 150; conservative fluids once shock resolves.",
+      "lecture": "CV111",
+      "lectures": [
+        "CV111"
+      ]
+    }
+  ]
+}

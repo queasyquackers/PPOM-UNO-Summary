@@ -1,0 +1,898 @@
+{
+  "drugs": [
+    {
+      "name": "Quinidine",
+      "groups": [
+        "Antiarrhythmics"
+      ],
+      "mechanism": "Class Ia cinchona alkaloid: blocks open Na+ channels (QRS widens) and K+ channels (QT lengthens) plus cardiac M2 receptors; also inhibits renal P-glycoprotein, raising digoxin levels.",
+      "adverseEffects": "Tinnitus, headache and dizziness (like the antimalarial it comes from); antibody-mediated thrombocytopenia and hepatitis; QT prolongation with torsades; raises digoxin levels.",
+      "lecture": "CV85",
+      "lectures": [
+        "CV85"
+      ]
+    },
+    {
+      "name": "Procainamide",
+      "groups": [
+        "Antiarrhythmics"
+      ],
+      "mechanism": "Class Ia: open-state Na+ block plus K+ block (QRS and QT both lengthen), with M2 and alpha-1 blockade; N-acetylated (phase II) to an active metabolite. Used for AF with an accessory pathway.",
+      "adverseEffects": "Lupus-like syndrome (arthralgia, facial rash, antihistone antibodies) in slow acetylators; hypotension from alpha-1 block; QT prolongation and torsades.",
+      "lecture": "CV85",
+      "lectures": [
+        "CV85",
+        "CV83"
+      ]
+    },
+    {
+      "name": "Disopyramide",
+      "groups": [
+        "Antiarrhythmics"
+      ],
+      "mechanism": "Class Ia Na+/K+ channel blocker with the strongest atropine-like (antimuscarinic) action of its subclass; removes the vagal brake on the AV node, so it is given with an AV-nodal blocker.",
+      "adverseEffects": "Urinary retention, dry mouth and eyes, constipation, dilated pupils and tachycardia; faster AV conduction unless paired with an AV-nodal suppressant; QT prolongation.",
+      "lecture": "CV85",
+      "lectures": [
+        "CV85"
+      ]
+    },
+    {
+      "name": "Lidocaine",
+      "groups": [
+        "Antiarrhythmics"
+      ],
+      "mechanism": "Class Ib given IV: binds activated and inactivated Na+ channels and dissociates fast, acting mainly in depolarized ischemic ventricle; shortens action potential and QT. Also an amide local anesthetic.",
+      "adverseEffects": "Dose-related CNS toxicity - perioral and limb paresthesias progressing to seizures; CYP450 substrate, so azole antifungals raise its level.",
+      "lecture": "CV85",
+      "lectures": [
+        "CV85",
+        "CV83"
+      ]
+    },
+    {
+      "name": "Mexiletine",
+      "groups": [
+        "Antiarrhythmics"
+      ],
+      "mechanism": "Oral Class Ib: rapid-dissociation block of inactivated Na+ channels in depolarized ventricular tissue, shortening the action potential - the by-mouth counterpart of the IV post-MI agent.",
+      "adverseEffects": "GI intolerance is the main limit - nausea, vomiting, heartburn (take with food); tremor and dizziness at higher doses.",
+      "lecture": "CV85",
+      "lectures": [
+        "CV85"
+      ]
+    },
+    {
+      "name": "Phenytoin",
+      "groups": [
+        "Antiarrhythmics"
+      ],
+      "mechanism": "Antiseizure drug with Class Ib action: use-dependent block of inactivated Na+ channels that shortens the action potential; rarely used for arrhythmias today; induces hepatic CYP enzymes.",
+      "adverseEffects": "Gingival overgrowth, hirsutism and nystagmus; ataxia at high levels; teratogenic; many interactions from CYP induction.",
+      "lecture": "CV85",
+      "lectures": [
+        "CV85"
+      ]
+    },
+    {
+      "name": "Flecainide / propafenone",
+      "groups": [
+        "Antiarrhythmics"
+      ],
+      "mechanism": "Class Ic: block open Na+ channels and unbind very slowly - greatest phase 0 slowing and marked QRS widening with minimal change in action potential duration; one also blocks cardiac ryanodine receptors (used in CPVT).",
+      "adverseEffects": "Higher mortality after MI or with structural heart disease (CAST); proarrhythmic wide-QRS ventricular tachycardia; negative inotropy worsens heart failure.",
+      "lecture": "CV85",
+      "lectures": [
+        "CV85",
+        "CV83"
+      ]
+    },
+    {
+      "name": "Amiodarone",
+      "groups": [
+        "Antiarrhythmics"
+      ],
+      "mechanism": "Iodinated Class III with broad action: K+, Na+ and Ca2+ channel block plus alpha and beta blockade; half-life about 60 days; CYP3A4 substrate that inhibits P450, raising digoxin, warfarin and statin levels.",
+      "adverseEffects": "Pulmonary fibrosis (interstitial inflammation, type II pneumocyte hyperplasia), hypo- or hyperthyroidism, hepatotoxic metabolite, corneal deposits, blue-gray skin; get baseline chest X-ray, LFTs and thyroid panel.",
+      "lecture": "CV85",
+      "lectures": [
+        "CV85",
+        "CV83",
+        "CV96",
+        "CV97"
+      ]
+    },
+    {
+      "name": "Dronedarone",
+      "groups": [
+        "Antiarrhythmics"
+      ],
+      "mechanism": "Non-iodinated analogue of the broad-spectrum Class III drug: blocks K+, Na+ and Ca2+ channels with some beta and alpha blockade, but carries no iodine atoms; used to keep sinus rhythm in AF.",
+      "adverseEffects": "Much less thyroid, corneal and skin toxicity than its iodinated parent; QT prolongation; raises mortality in advanced or recently decompensated HF and in permanent AF; liver injury.",
+      "lecture": "CV85",
+      "lectures": [
+        "CV85"
+      ]
+    },
+    {
+      "name": "Sotalol",
+      "groups": [
+        "Antiarrhythmics"
+      ],
+      "mechanism": "Nonselective beta blocker (Class II) that also blocks delayed-rectifier K+ channels (Class III), prolonging the action potential and QT; renally cleared; used for atrial fibrillation.",
+      "adverseEffects": "Dose-related QT prolongation and torsades, worst at slow rates, plus beta-2 effects - wheezing in COPD or asthma - and bradycardia; dose by renal function.",
+      "lecture": "CV85",
+      "lectures": [
+        "CV85",
+        "CV83"
+      ]
+    },
+    {
+      "name": "Dofetilide / ibutilide",
+      "groups": [
+        "Antiarrhythmics"
+      ],
+      "mechanism": "Pure Class III: block the rapid delayed-rectifier K+ current, delaying phase 3 without touching phase 0 or resting potential; reverse use-dependent; one oral, one IV, for AF and atrial flutter.",
+      "adverseEffects": "Marked QT prolongation and torsades with no beta-blocker effects; ECG monitoring for at least 4 hours after the IV infusion, or about 3 days in hospital while the oral agent is started and dosed to renal function.",
+      "lecture": "CV85",
+      "lectures": [
+        "CV85"
+      ]
+    },
+    {
+      "name": "Verapamil / diltiazem",
+      "groups": [
+        "Antiarrhythmics",
+        "Angina",
+        "Heart failure"
+      ],
+      "mechanism": "Class IV: L-type Ca2+ channel block in SA/AV node and myocardium as well as arterioles (one agent more cardiac than the other) - flatter phase 4, longer AV-nodal refractory period, less contractility.",
+      "adverseEffects": "Bradycardia and AV block, hypotension without reflex tachycardia, constipation, raised digoxin levels; contraindicated in HFrEF and pre-excited AF; overdose raises glucose (IV calcium, insulin).",
+      "lecture": "CV85",
+      "lectures": [
+        "CV85",
+        "CV71",
+        "CV74",
+        "CV83",
+        "CV96",
+        "CV97"
+      ]
+    },
+    {
+      "name": "Adenosine",
+      "groups": [
+        "Antiarrhythmics"
+      ],
+      "mechanism": "Agonist at A1 (Gi) receptors in SA and AV nodes, causing transient AV block that terminates PSVT; half-life about 5 seconds, given by rapid IV push; antagonized by methylxanthines.",
+      "adverseEffects": "Seconds-long flushing and hypotension (A2-Gs vasodilation), chest tightness and wheeze (A2B-Gq bronchoconstriction), a brief pause; blunted by theophylline and caffeine.",
+      "lecture": "CV85",
+      "lectures": [
+        "CV85",
+        "CV83",
+        "CV93"
+      ]
+    },
+    {
+      "name": "Magnesium sulfate",
+      "groups": [
+        "Antiarrhythmics"
+      ],
+      "mechanism": "IV divalent cation that blocks Ca2+ influx into the cytosol, suppressing early and delayed afterdepolarizations - first line for torsades and for digitalis-induced arrhythmias, even with a normal serum level.",
+      "adverseEffects": "Flushing and hypotension during infusion; at high serum levels, loss of deep tendon reflexes, respiratory depression, bradycardia and heart block (reverse with IV calcium); caution in renal failure.",
+      "lecture": "CV85",
+      "lectures": [
+        "CV85",
+        "CV82",
+        "CV83",
+        "CV87"
+      ]
+    },
+    {
+      "name": "Digoxin",
+      "groups": [
+        "Antiarrhythmics",
+        "Heart failure"
+      ],
+      "mechanism": "Inhibits myocyte Na+/K+-ATPase, so the Na+/Ca2+ exchanger extrudes less Ca2+ (positive inotropy); also raises vagal tone (slower SA rate, AV-nodal block, long PR). Long half-life, narrow therapeutic index.",
+      "adverseEffects": "Nausea, vomiting, diarrhea; yellow vision and halos; gynecomastia; delayed-afterdepolarization arrhythmias worsened by low K+ or Mg2+, high Ca2+, renal failure, verapamil, quinidine, amiodarone; antidote Fab fragments.",
+      "lecture": "CV96",
+      "lectures": [
+        "CV96",
+        "CV85",
+        "CV82",
+        "CV83",
+        "CV97"
+      ]
+    },
+    {
+      "name": "Ivabradine",
+      "groups": [
+        "Antiarrhythmics",
+        "Angina",
+        "Heart failure"
+      ],
+      "mechanism": "Selective block of the If (funny) current in SA-node pacemaker cells: slows heart rate without changing contractility, conduction or action potential duration; for HF or stable angina when a beta blocker cannot be used.",
+      "adverseEffects": "Bradycardia (watch for AV block); transient bright spots in the visual field from retinal Ih channel block; avoid in pregnancy; CYP3A4 inhibitors such as grapefruit raise levels.",
+      "lecture": "CV96",
+      "lectures": [
+        "CV96",
+        "CV85"
+      ]
+    },
+    {
+      "name": "Metoprolol / atenolol / bisoprolol",
+      "groups": [
+        "Antiarrhythmics",
+        "Angina",
+        "Heart failure"
+      ],
+      "mechanism": "Beta-1 selective antagonists used orally for long-term therapy with no partial agonist or vasodilator action: flatten phase 4 in SA/AV node, lower contractility and renin release (Class II); two of the three cut mortality in HFrEF.",
+      "adverseEffects": "AV block and bradycardia are the main concern; fatigue; rebound tachycardia or angina if stopped abruptly; spare the airways at usual doses but can mask hypoglycemia.",
+      "lecture": "CV71",
+      "lectures": [
+        "CV71",
+        "CV85",
+        "CV96",
+        "CV74",
+        "CV83",
+        "CV95",
+        "CV97"
+      ]
+    },
+    {
+      "name": "Propranolol / nadolol / timolol",
+      "groups": [
+        "Antiarrhythmics",
+        "Angina"
+      ],
+      "mechanism": "Nonselective beta-1 and beta-2 antagonists without partial agonism or alpha block: slow SA/AV node and contractility, and block hepatic glycogenolysis and bronchial and vascular beta-2 relaxation; rate control in thyroid storm.",
+      "adverseEffects": "Bronchospasm in asthma or COPD, hypoglycemia with blunted warning signs, worse claudication in PVD, bradycardia; overdose gives bradycardia, AV block, hypotension, low glucose - treat with glucagon.",
+      "lecture": "CV71",
+      "lectures": [
+        "CV71",
+        "CV85",
+        "CV74"
+      ]
+    },
+    {
+      "name": "Labetalol / carvedilol",
+      "groups": [
+        "Angina",
+        "Heart failure"
+      ],
+      "mechanism": "Combined alpha-1 and nonselective beta antagonists: alpha block dilates arterioles while beta block prevents reflex tachycardia; one is an HFrEF survival drug with antioxidant action, the other treats hypertension in pregnancy.",
+      "adverseEffects": "Orthostatic hypotension and dizziness from alpha-1 block, bradycardia, fatigue, fluid retention while titrating in HF; bronchospasm possible because beta-2 is blocked too.",
+      "lecture": "CV96",
+      "lectures": [
+        "CV96",
+        "CV71"
+      ]
+    },
+    {
+      "name": "Pindolol / acebutolol",
+      "groups": [
+        "Antiarrhythmics",
+        "Angina",
+        "Heart failure"
+      ],
+      "mechanism": "Beta blockers with intrinsic sympathomimetic activity - partial agonists, one nonselective and one beta-1 selective: block catecholamine surges yet stimulate the receptor at rest, so resting heart rate falls little.",
+      "adverseEffects": "Can worsen angina, post-MI ischemia and heart failure by raising cardiac workload - avoid in those patients; less resting bradycardia than other agents of the class.",
+      "lecture": "CV71",
+      "lectures": [
+        "CV71",
+        "CV72",
+        "CV85",
+        "CV96"
+      ]
+    },
+    {
+      "name": "Esmolol",
+      "groups": [
+        "Antiarrhythmics",
+        "Angina"
+      ],
+      "mechanism": "IV beta-1 selective antagonist hydrolyzed by red-cell esterases; half-life about 9 minutes, so the effect is titratable and ends minutes after stopping - acute rate control (e.g. arrhythmia from theophylline overdose).",
+      "adverseEffects": "Hypotension and bradycardia that resolve within minutes of stopping the infusion; irritation or phlebitis at the infusion site.",
+      "lecture": "CV71",
+      "lectures": [
+        "CV71",
+        "CV85"
+      ]
+    },
+    {
+      "name": "Nebivolol",
+      "groups": [
+        "Angina"
+      ],
+      "mechanism": "Highly beta-1 selective antagonist that also stimulates endothelial nitric oxide release, adding vasodilation without any alpha blockade.",
+      "adverseEffects": "Fatigue, bradycardia, headache and dizziness; erectile dysfunction and bronchospasm are less common than with older beta blockers, thanks to high beta-1 selectivity plus NO release.",
+      "lecture": "CV71",
+      "lectures": [
+        "CV71"
+      ]
+    },
+    {
+      "name": "Nitroglycerin / isosorbide dinitrate / isosorbide mononitrate",
+      "groups": [
+        "Angina",
+        "Heart failure"
+      ],
+      "mechanism": "Bioactivated by glutathione-S-transferase and a mitochondrial aldehyde enzyme to release NO -> guanylyl cyclase -> cGMP -> smooth-muscle relaxation, mainly venous: preload and O2 demand fall; sublingual route skips first pass.",
+      "adverseEffects": "Throbbing headache, orthostatic hypotension with reflex tachycardia, salt and water retention; tolerance with continuous use (needs an 8- to 12-hour drug-free interval each day); severe hypotension with PDE5 inhibitors.",
+      "lecture": "CV71",
+      "lectures": [
+        "CV71",
+        "CV96",
+        "CV74",
+        "CV75"
+      ]
+    },
+    {
+      "name": "Nitroprusside",
+      "groups": [
+        "Angina",
+        "Heart failure"
+      ],
+      "mechanism": "Short-acting IV NO donor (an iron-cyanide complex) that dilates arterioles and venules equally, lowering afterload and preload at once - for hypertensive emergency and acute HF.",
+      "adverseEffects": "Cyanide and its metabolite thiocyanate accumulate with high doses, long infusions or renal impairment - confusion, flushed pink skin, dyspnea, lactic acidosis - treated with hydroxocobalamin or sodium thiosulfate; profound hypotension.",
+      "lecture": "CV71",
+      "lectures": [
+        "CV71",
+        "CV96"
+      ]
+    },
+    {
+      "name": "Ranolazine",
+      "groups": [
+        "Angina"
+      ],
+      "mechanism": "Blocks the late inward Na+ current in myocytes, so less Ca2+ enters via the Na+/Ca2+ exchanger and wall tension and O2 use fall without lowering heart rate or BP; chronic angina, not first line.",
+      "adverseEffects": "QT prolongation (partial K+ channel block), constipation, nausea, dizziness; levels and QT risk rise with CYP3A inhibitors such as azole antifungals and grapefruit.",
+      "lecture": "CV71",
+      "lectures": [
+        "CV71"
+      ]
+    },
+    {
+      "name": "Trimetazidine",
+      "groups": [
+        "Angina"
+      ],
+      "mechanism": "Metabolic modulator: inhibits myocardial fatty-acid oxidation, shifting the ischemic heart to glucose oxidation (more ATP per O2 used); not approved in the US.",
+      "adverseEffects": "New or worsened parkinsonian symptoms - tremor, rigidity, gait disturbance - the safety concern behind its lack of US approval.",
+      "lecture": "CV71",
+      "lectures": [
+        "CV71"
+      ]
+    },
+    {
+      "name": "Aspirin",
+      "groups": [
+        "Angina"
+      ],
+      "mechanism": "Irreversibly acetylates COX-1 and COX-2; anucleate platelets cannot make new enzyme, so TXA2 is lost for their 7-10 day life, while endothelium recovers and keeps making prostacyclin at low dose.",
+      "adverseEffects": "GI bleeding (loss of protective prostaglandins), bronchospasm from LOX shunting, Reye syndrome in children; overdose: respiratory alkalosis then metabolic acidosis (uncoupling) - give bicarbonate.",
+      "lecture": "CV71",
+      "lectures": [
+        "CV71",
+        "CV74",
+        "CV75",
+        "CV77",
+        "CV59",
+        "CV94",
+        "CV112"
+      ]
+    },
+    {
+      "name": "Clopidogrel",
+      "groups": [
+        "Angina"
+      ],
+      "mechanism": "Oral prodrug activated by hepatic CYP2C19; the active metabolite irreversibly blocks the platelet P2Y12 ADP receptor; given with aspirin after stenting and for unstable angina or NSTEMI.",
+      "adverseEffects": "Bleeding (gums, stool); fails in CYP2C19 loss-of-function carriers or with omeprazole (2C19 inhibition) - change the PPI or switch to a direct-acting agent.",
+      "lecture": "CV71",
+      "lectures": [
+        "CV71",
+        "CV74",
+        "CV75",
+        "CV77"
+      ]
+    },
+    {
+      "name": "Ticlopidine",
+      "groups": [
+        "Angina"
+      ],
+      "mechanism": "The original oral ADP (P2Y12) receptor blocker: an irreversible prodrug, largely abandoned because of its blood-count toxicity.",
+      "adverseEffects": "Neutropenia appearing weeks into therapy (sore throat, fever, flu-like illness) - needs CBC monitoring; also TTP and bleeding.",
+      "lecture": "CV71",
+      "lectures": [
+        "CV71"
+      ]
+    },
+    {
+      "name": "Prasugrel",
+      "groups": [
+        "Angina"
+      ],
+      "mechanism": "Oral irreversible P2Y12 prodrug whose activation does not depend on CYP2C19, so platelet inhibition is faster, stronger and more consistent than with the 2C19-activated agent; ACS with PCI.",
+      "adverseEffects": "More bleeding than the 2C19-activated agent; contraindicated after a prior stroke or TIA (intracranial bleeding) and generally avoided at age 75 or older.",
+      "lecture": "CV71",
+      "lectures": [
+        "CV71"
+      ]
+    },
+    {
+      "name": "Ticagrelor",
+      "groups": [
+        "Angina"
+      ],
+      "mechanism": "Oral, direct-acting (not a prodrug), reversible P2Y12 antagonist - needs no hepatic activation, so it still works when CYP2C19 is impaired; taken twice daily with aspirin after ACS or PCI.",
+      "adverseEffects": "Bleeding (more than the 2C19-activated agent) and dyspnea; bradyarrhythmias and ventricular pauses; raised uric acid; costlier; high-dose aspirin blunts its benefit.",
+      "lecture": "CV71",
+      "lectures": [
+        "CV71"
+      ]
+    },
+    {
+      "name": "Cangrelor",
+      "groups": [
+        "Angina"
+      ],
+      "mechanism": "IV direct-acting, reversible P2Y12 antagonist: no first-pass metabolism, onset within minutes and platelet function back about an hour after the infusion stops - used around PCI.",
+      "adverseEffects": "Bleeding that wears off within about an hour of stopping the IV infusion, which makes it the bridge when surgery may follow.",
+      "lecture": "CV71",
+      "lectures": [
+        "CV71"
+      ]
+    },
+    {
+      "name": "Abciximab / eptifibatide / tirofiban",
+      "groups": [
+        "Angina"
+      ],
+      "mechanism": "Block platelet glycoprotein IIb/IIIa so fibrinogen cannot cross-link platelets (the final common step); the antibody is off the US market, the two small molecules are reversible, short-acting continuous infusions.",
+      "adverseEffects": "Bleeding that reproduces an inherited lack of the platelet fibrinogen receptor (Glanzmann); thrombocytopenia; kept for high thrombus risk, aspirin allergy or ADP-blocker intolerance.",
+      "lecture": "CV71",
+      "lectures": [
+        "CV71"
+      ]
+    },
+    {
+      "name": "Cilostazol",
+      "groups": [
+        "Angina"
+      ],
+      "mechanism": "PDE3 inhibitor in platelets and arterial smooth muscle: raises cAMP, inhibiting aggregation and dilating arteries and enhancing prostacyclin action; lengthens walking distance in intermittent claudication.",
+      "adverseEffects": "Headache, diarrhea, palpitations and tachycardia; contraindicated in heart failure of any severity (oral PDE3 inhibition raised mortality); CYP3A4 and 2C19 inhibitors raise levels.",
+      "lecture": "CV71",
+      "lectures": [
+        "CV71",
+        "CV77"
+      ]
+    },
+    {
+      "name": "Dipyridamole",
+      "groups": [
+        "Angina"
+      ],
+      "mechanism": "Inhibits platelet phosphodiesterase and blocks cellular adenosine reuptake, raising cAMP and local adenosine - coronary vasodilation used for pharmacologic stress testing; antiplatelet when paired with aspirin.",
+      "adverseEffects": "Worsened angina from coronary steal (dilates normal beds and diverts flow from ischemic ones); headache, flushing, dizziness, hypotension; effects reversed by aminophylline.",
+      "lecture": "CV71",
+      "lectures": [
+        "CV71"
+      ]
+    },
+    {
+      "name": "Amlodipine / felodipine / nifedipine",
+      "groups": [
+        "Angina"
+      ],
+      "mechanism": "Block L-type Ca2+ channels in arteriolar smooth muscle only (Ca2+-calmodulin-MLCK chain), lowering TPR and afterload with little direct SA/AV-node effect; two are once daily, one treats hypertension in pregnancy.",
+      "adverseEffects": "Reflex tachycardia (baroreceptor), flushing, headache, dizziness, ankle edema from arteriolar dilation, gingival overgrowth; grapefruit (CYP3A4) raises levels and worsens these effects.",
+      "lecture": "CV71",
+      "lectures": [
+        "CV71",
+        "CV74",
+        "CV85"
+      ]
+    },
+    {
+      "name": "ACE inhibitors (lisinopril, enalapril, ramipril, captopril)",
+      "groups": [
+        "Heart failure"
+      ],
+      "mechanism": "Block the enzyme that converts angiotensin I to II and also degrades bradykinin: less vasoconstriction, aldosterone and ADH; lower preload and afterload, less remodeling; efferent dilation protects diabetic kidneys.",
+      "adverseEffects": "Bradykinin dry cough (the usual reason to switch to an AT1 blocker) and angioedema, a risk shared with the neprilysin combination; hyperkalemia; first-dose hypotension; renal failure in bilateral renal artery stenosis; fetal renal toxicity.",
+      "lecture": "CV96",
+      "lectures": [
+        "CV96",
+        "CV74",
+        "CV75",
+        "CV86",
+        "CV97",
+        "CV104"
+      ]
+    },
+    {
+      "name": "ARBs (losartan, valsartan, candesartan)",
+      "groups": [
+        "Heart failure"
+      ],
+      "mechanism": "Block angiotensin II at the AT1 receptor while leaving bradykinin breakdown intact: lower afterload, preload, aldosterone and remodeling - the standard replacement when the converting-enzyme blocker causes cough.",
+      "adverseEffects": "No bradykinin cough - patients with ACE-inhibitor cough are switched to it - and angioedema is rare; still hyperkalemia, first-dose dizziness, fetal kidney toxicity, renal failure with bilateral renal artery stenosis.",
+      "lecture": "CV96",
+      "lectures": [
+        "CV96",
+        "CV75",
+        "CV86",
+        "CV97",
+        "CV110"
+      ]
+    },
+    {
+      "name": "Aliskiren",
+      "groups": [
+        "Heart failure"
+      ],
+      "mechanism": "Direct renin inhibitor: blocks conversion of angiotensinogen to angiotensin I, so angiotensin II and aldosterone both fall; used only after the other RAAS blockers fail.",
+      "adverseEffects": "Hyperkalemia and hypotension like other RAAS blockers; diarrhea; fetal toxicity; do not combine with an ACE inhibitor or AT1 blocker in diabetes (renal failure, hyperkalemia).",
+      "lecture": "CV96",
+      "lectures": [
+        "CV96"
+      ]
+    },
+    {
+      "name": "Sacubitril-valsartan",
+      "groups": [
+        "Heart failure"
+      ],
+      "mechanism": "Combination of a prodrug that inhibits neprilysin, so natriuretic peptides persist (natriuresis, vasodilation), with an AT1 receptor blocker; improves survival and cuts hospitalizations in HFrEF.",
+      "adverseEffects": "Hypotension, hyperkalemia, renal dysfunction; angioedema - never start within 36 hours of an ACE inhibitor, because neprilysin also breaks down bradykinin.",
+      "lecture": "CV96",
+      "lectures": [
+        "CV96",
+        "CV95"
+      ]
+    },
+    {
+      "name": "Spironolactone",
+      "groups": [
+        "Heart failure"
+      ],
+      "mechanism": "Steroidal competitive antagonist of the aldosterone (mineralocorticoid) receptor in collecting-duct principal cells that also blocks androgen receptors; used in HF, hyperaldosteronism, acne and hirsutism.",
+      "adverseEffects": "Gynecomastia, impotence and menstrual changes (anti-androgen); hyperkalemia with metabolic acidosis, worse with ACEi/ARB, NSAIDs or K+ supplements - check K+ periodically.",
+      "lecture": "CV96",
+      "lectures": [
+        "CV96",
+        "CV86",
+        "CV95"
+      ]
+    },
+    {
+      "name": "Eplerenone / finerenone",
+      "groups": [
+        "Heart failure"
+      ],
+      "mechanism": "Selective mineralocorticoid receptor antagonists with little androgen or progesterone receptor binding; the newer one is nonsteroidal, the most selective, and slows progression of chronic kidney disease.",
+      "adverseEffects": "Hyperkalemia and acidosis (monitor K+, especially with ACEi/ARB or NSAIDs) without gynecomastia or impotence - the switch when breast enlargement appears on the older agent; costlier.",
+      "lecture": "CV96",
+      "lectures": [
+        "CV96",
+        "CV95"
+      ]
+    },
+    {
+      "name": "Furosemide / bumetanide / torsemide",
+      "groups": [
+        "Heart failure"
+      ],
+      "mechanism": "Sulfonamide 'high-ceiling' diuretics: block the Na+/K+/2Cl- cotransporter in the thick ascending limb, losing the lumen-positive potential so Ca2+ and Mg2+ are wasted; raise PGE2 and venodilate, cutting preload.",
+      "adverseEffects": "Ototoxicity (additive with aminoglycosides, cisplatin, vancomycin), hypokalemic alkalosis, low Mg2+ and Ca2+, hyperuricemia, sulfa allergy; NSAIDs blunt the effect; low K+ potentiates digoxin.",
+      "lecture": "CV96",
+      "lectures": [
+        "CV96",
+        "CV86",
+        "CV87",
+        "CV89"
+      ]
+    },
+    {
+      "name": "Ethacrynic acid",
+      "groups": [
+        "Heart failure"
+      ],
+      "mechanism": "Thick-ascending-limb Na+/K+/2Cl- cotransporter blocker that is not a sulfonamide (contains no sulfur) - the option when a patient with sulfa allergy needs a high-ceiling diuretic.",
+      "adverseEffects": "The most ototoxic drug of its class (hearing loss, tinnitus); hypokalemia, hypomagnesemia, hyperuricemia, GI upset; no cross-reaction in sulfa-allergic patients.",
+      "lecture": "CV96",
+      "lectures": [
+        "CV96"
+      ]
+    },
+    {
+      "name": "Hydrochlorothiazide / chlorthalidone / indapamide",
+      "groups": [
+        "Heart failure"
+      ],
+      "mechanism": "Block the Na+/Cl- cotransporter in the distal convoluted tubule and enhance Ca2+ reabsorption there; volume contraction paradoxically lowers urine output in nephrogenic DI; used for HTN, HF and Ca2+ stones.",
+      "adverseEffects": "Hyperglycemia, hyperlipidemia, hyperuricemia, hypercalcemia, hyponatremia, hypokalemic alkalosis; sulfa allergy, photosensitivity; raise lithium levels; low K+ potentiates digoxin.",
+      "lecture": "CV96",
+      "lectures": [
+        "CV96",
+        "CV86",
+        "CV87",
+        "CV88",
+        "CV89",
+        "CV64"
+      ]
+    },
+    {
+      "name": "SGLT2 inhibitors (dapagliflozin, empagliflozin, canagliflozin)",
+      "groups": [
+        "Heart failure"
+      ],
+      "mechanism": "Block Na+-glucose cotransport in the proximal tubule: glycosuria plus natriuresis and osmotic diuresis lower preload and afterload; cut HF hospitalization and CV death in HFrEF and HFpEF; A1c falls up to about 1%.",
+      "adverseEffects": "UTIs and genital yeast infections (glucose in the urine), volume depletion, euglycemic ketoacidosis; avoid when creatinine clearance is below about 20-30 mL/min.",
+      "lecture": "CV96",
+      "lectures": [
+        "CV96",
+        "CV95",
+        "CV74"
+      ]
+    },
+    {
+      "name": "Hydralazine",
+      "groups": [
+        "Heart failure"
+      ],
+      "mechanism": "Direct arteriolar dilator (raises smooth-muscle cGMP) that lowers afterload with little venous effect; hepatically acetylated; paired with a venodilating NO donor for HFrEF survival; IV for severe preeclampsia.",
+      "adverseEffects": "Lupus-like syndrome in slow acetylators; reflex tachycardia (can provoke angina) and salt and water retention, so it often needs a beta blocker and a diuretic; headache, flushing.",
+      "lecture": "CV96",
+      "lectures": [
+        "CV96",
+        "CV71"
+      ]
+    },
+    {
+      "name": "Dobutamine",
+      "groups": [
+        "Heart failure"
+      ],
+      "mechanism": "Direct beta-1 agonist (Gs -> adenylyl cyclase -> cAMP -> PKA -> Ca2+ entry) that raises contractility with mild vasodilation; IV for acute decompensated HF and cardiogenic shock; also a stress-test agent.",
+      "adverseEffects": "Tachycardia, ventricular ectopy and arrhythmias, angina from higher O2 demand, blood pressure swings; tolerance after 48-72 hours of infusion.",
+      "lecture": "CV96",
+      "lectures": [
+        "CV96",
+        "CV74"
+      ]
+    },
+    {
+      "name": "Milrinone",
+      "groups": [
+        "Heart failure"
+      ],
+      "mechanism": "IV PDE3 inhibitor in myocardium and vascular smooth muscle: stops cAMP breakdown without acting on any receptor, so contractility rises while arterioles and veins dilate (inodilator); acute decompensated HF.",
+      "adverseEffects": "Hypotension from vasodilation, atrial and ventricular arrhythmias, headache; accumulates in renal impairment (dose by renal function); long-term oral PDE3 inhibition raised HF mortality.",
+      "lecture": "CV96",
+      "lectures": [
+        "CV96"
+      ]
+    },
+    {
+      "name": "Dopamine",
+      "groups": [
+        "Heart failure"
+      ],
+      "mechanism": "Dose-dependent agonist: low dose D1 (renal and splanchnic vasodilation, preserves GFR and renal blood flow), medium dose beta-1 (inotropy), high dose alpha-1 (vasoconstriction); IV in acute HF and shock.",
+      "adverseEffects": "Tachyarrhythmias; intense vasoconstriction with limb ischemia at high doses; tissue necrosis if it extravasates (infiltrate phentolamine); nausea and vomiting.",
+      "lecture": "CV96",
+      "lectures": [
+        "CV96"
+      ]
+    },
+    {
+      "name": "Vericiguat",
+      "groups": [
+        "Heart failure"
+      ],
+      "mechanism": "Oral stimulator of soluble guanylyl cyclase that raises cGMP independent of nitric oxide (and sensitizes the enzyme to NO); cuts HF hospitalization after a worsening episode of HFrEF.",
+      "adverseEffects": "Hypotension, headache, dizziness, reflex tachycardia; never combine with NO donors or PDE5 inhibitors; no tolerance, so no drug-free interval is needed; embryo-fetal toxicity.",
+      "lecture": "CV96",
+      "lectures": [
+        "CV96"
+      ]
+    },
+    {
+      "name": "Nesiritide",
+      "groups": [
+        "Heart failure"
+      ],
+      "mechanism": "Recombinant B-type natriuretic peptide: activates the membrane-bound (particulate) guanylyl cyclase receptor, raising cGMP for venous and arterial dilation plus natriuresis; formerly given IV in acute decompensated HF.",
+      "adverseEffects": "Hypotension and worsening renal function - kidney harm without a survival benefit is why it was abandoned.",
+      "lecture": "CV96",
+      "lectures": [
+        "CV96"
+      ]
+    },
+    {
+      "name": "Conivaptan",
+      "groups": [
+        "Heart failure"
+      ],
+      "mechanism": "IV antagonist of vasopressin V1a receptors (vascular - lowers PVR) and V2 receptors (collecting duct - fewer aquaporins, free-water excretion); raises serum Na+ in euvolemic or hypervolemic hyponatremia.",
+      "adverseEffects": "Overly rapid Na+ correction risks osmotic demyelination; infusion-site phlebitis; hypotension; strong CYP3A4 inhibitor with many interactions.",
+      "lecture": "CV96",
+      "lectures": [
+        "CV96"
+      ]
+    },
+    {
+      "name": "Semaglutide",
+      "groups": [
+        "Heart failure"
+      ],
+      "mechanism": "GLP-1 receptor agonist: glucose-dependent insulin release, less glucagon, slower gastric emptying and central appetite suppression; the weight loss helps obesity-related HF (HFpEF).",
+      "adverseEffects": "Nausea, vomiting, diarrhea; pancreatitis and gallbladder disease; thyroid C-cell tumor warning (avoid with medullary thyroid cancer or MEN2); hypoglycemia mainly with insulin or sulfonylureas.",
+      "lecture": "CV96",
+      "lectures": [
+        "CV96",
+        "CV95",
+        "CV74"
+      ]
+    },
+    {
+      "name": "Statins (atorvastatin, rosuvastatin, simvastatin, pravastatin)",
+      "groups": [
+        "Lipid-lowering"
+      ],
+      "mechanism": "Competitive inhibitors of HMG-CoA reductase, the rate-limiting step of cholesterol synthesis; hepatocytes up-regulate LDL receptors and LDL falls 25% to 50% or more, dose-dependent; proven to cut cardiac deaths.",
+      "adverseEffects": "Myalgia, myopathy and rhabdomyolysis (check CK; possible CoQ10 depletion), raised aminotransferases (stop if >3x ULN), slight glucose rise; levels rise with azoles, macrolides, grapefruit; no pregnancy.",
+      "lecture": "CV72",
+      "lectures": [
+        "CV72",
+        "CV61",
+        "CV63",
+        "CV64",
+        "CV74",
+        "CV77",
+        "CV78",
+        "CV110"
+      ]
+    },
+    {
+      "name": "Cholestyramine / colestipol / colesevelam",
+      "groups": [
+        "Lipid-lowering"
+      ],
+      "mechanism": "Non-absorbed resins that bind bile acids in the gut and break enterohepatic recirculation; the liver up-regulates 7-alpha-hydroxylase and LDL receptors to make new bile acids, so LDL falls about 30%.",
+      "adverseEffects": "Bloating, constipation, nausea; bind thyroxine, digoxin, warfarin, thiazides, estrogens and vitamins A, D, E, K - space doses several hours apart; acceptable in pregnancy and children.",
+      "lecture": "CV72",
+      "lectures": [
+        "CV72",
+        "CV61",
+        "CV63",
+        "CV64"
+      ]
+    },
+    {
+      "name": "Niacin",
+      "groups": [
+        "Lipid-lowering"
+      ],
+      "mechanism": "Inhibits lipolysis in adipocytes, so less free fatty acid reaches the liver - less TG and VLDL secretion and lower LDL; gives the largest HDL rise of any lipid drug (30-40%).",
+      "adverseEffects": "Prostaglandin-mediated flushing and itching (pretreat with aspirin or use slow release), hyperglycemia, hyperuricemia and gout, worsened peptic ulcer, myositis with a statin; avoid in pregnancy.",
+      "lecture": "CV72",
+      "lectures": [
+        "CV72",
+        "CV62",
+        "CV63",
+        "CV64"
+      ]
+    },
+    {
+      "name": "Gemfibrozil / fenofibrate",
+      "groups": [
+        "Lipid-lowering"
+      ],
+      "mechanism": "Synthetic PPAR-alpha ligands: change gene transcription to raise lipoprotein lipase (ApoC-II up, ApoC-III down) and hepatic fatty-acid oxidation, degrading VLDL - TG fall about 35%; also suppress 7-alpha-hydroxylase.",
+      "adverseEffects": "Cholesterol gallstones (less bile acid made, bile relatively rich in cholesterol); myopathy and rhabdomyolysis, especially combined with a statin, with renal injury.",
+      "lecture": "CV72",
+      "lectures": [
+        "CV72",
+        "CV63",
+        "CV64"
+      ]
+    },
+    {
+      "name": "Ezetimibe",
+      "groups": [
+        "Lipid-lowering"
+      ],
+      "mechanism": "Blocks the Niemann-Pick C1-Like 1 (NPC1L1) sterol transporter at the small-intestine brush border, cutting cholesterol absorption into chylomicrons; adds about 25% LDL lowering to a statin.",
+      "adverseEffects": "Generally mild - GI upset and a small rise in liver enzymes when combined with a statin (check LFTs); occasional muscle aches.",
+      "lecture": "CV72",
+      "lectures": [
+        "CV72",
+        "CV61",
+        "CV63",
+        "CV64"
+      ]
+    },
+    {
+      "name": "Alirocumab / evolocumab",
+      "groups": [
+        "Lipid-lowering"
+      ],
+      "mechanism": "Monoclonal antibodies that bind circulating PCSK9 protein so it cannot send LDL receptors to lysosomes; receptors recycle and LDL and ApoB-100 drop sharply; SQ every 2 weeks or monthly on top of a maximal statin.",
+      "adverseEffects": "Injection-site reactions (cold compress, topical hydrocortisone), hypersensitivity, myalgia with a statin; no proven cognitive harm since they do not cross the blood-brain barrier; expensive.",
+      "lecture": "CV72",
+      "lectures": [
+        "CV72",
+        "CV63"
+      ]
+    },
+    {
+      "name": "Inclisiran",
+      "groups": [
+        "Lipid-lowering"
+      ],
+      "mechanism": "Small interfering RNA taken up by hepatocytes that degrades PCSK9 mRNA, so the protein is never made and LDL receptors rise; SQ injection only twice a year.",
+      "adverseEffects": "Mild injection-site reactions, arthralgia and bronchitis; being a liver-targeted siRNA rather than an antibody, systemic hypersensitivity is uncommon; clinic-given twice yearly.",
+      "lecture": "CV72",
+      "lectures": [
+        "CV72"
+      ]
+    },
+    {
+      "name": "Lomitapide",
+      "groups": [
+        "Lipid-lowering"
+      ],
+      "mechanism": "Oral inhibitor of microsomal triglyceride transfer protein (MTP), blocking assembly of ApoB-48 chylomicrons in gut and ApoB-100 VLDL in liver; for homozygous FH (LDL > 500 mg/dL) despite PCSK9-directed therapy.",
+      "adverseEffects": "Hepatotoxicity from hepatic fat accumulation with raised aminotransferases (restricted REMS program), GI upset and steatorrhea, pregnancy category X, CYP3A4 interactions, more toxicity with statins.",
+      "lecture": "CV72",
+      "lectures": [
+        "CV72",
+        "CV110"
+      ]
+    },
+    {
+      "name": "Omega-3 fatty acids (EPA/DHA, icosapent ethyl)",
+      "groups": [
+        "Lipid-lowering"
+      ],
+      "mechanism": "Long-chain polyunsaturated lipids acting as PPAR-alpha agonists, stimulating lipoprotein lipase to clear VLDL; the purified single-component product also lowers ApoC-III; antithrombotic (less TXA2, more prostacyclin).",
+      "adverseEffects": "Bleeding and easy bruising, worse with aspirin, clopidogrel or anticoagulants; fishy aftertaste, belching and GI upset; the purified prescription product raises atrial fibrillation risk.",
+      "lecture": "CV72",
+      "lectures": [
+        "CV72",
+        "CV64",
+        "CV76"
+      ]
+    },
+    {
+      "name": "Bempedoic acid",
+      "groups": [
+        "Lipid-lowering"
+      ],
+      "mechanism": "Oral prodrug activated in liver but not muscle; inhibits ATP citrate lyase upstream of HMG-CoA reductase, cutting cytosolic acetyl-CoA for cholesterol synthesis; LDL receptors rise; for statin-intolerant patients.",
+      "adverseEffects": "Hyperuricemia and gout (competes at the renal urate transporter), tendon rupture (older adults, glucocorticoid or fluoroquinolone users); less myopathy than HMG-CoA reductase blockers.",
+      "lecture": "CV72",
+      "lectures": [
+        "CV72"
+      ]
+    },
+    {
+      "name": "Evinacumab",
+      "groups": [
+        "Lipid-lowering"
+      ],
+      "mechanism": "Monoclonal antibody against angiopoietin-like protein 3 (ANGPTL3), lifting its brake on lipoprotein lipase and endothelial lipase; lowers LDL without needing LDL receptors - monthly IV infusion for homozygous FH.",
+      "adverseEffects": "Infusion reactions and anaphylaxis - given in a monitored facility and can be premedicated; nasopharyngitis and flu-like symptoms; embryo-fetal toxicity.",
+      "lecture": "CV72",
+      "lectures": [
+        "CV72"
+      ]
+    }
+  ]
+}

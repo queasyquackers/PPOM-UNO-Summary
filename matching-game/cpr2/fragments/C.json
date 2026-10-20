@@ -1,0 +1,785 @@
+{
+ "correlates": [
+  {
+   "name": "Peripheral artery disease with intermittent claudication",
+   "presentation": "A 68-year-old woman with diabetes, hypertension and 30 pack-years of smoking stops halfway through her 1-mile walk with right upper-calf cramping; it settles after 3 minutes standing still and recurs at the same point every morning. Right popliteal and pedal pulses are weak.",
+   "workup": "Highest right ankle pressure 93 / highest brachial 150 mmHg = ratio 0.62; left 0.95. Duplex: peak systolic velocity triples just beyond a popliteal plaque. No rest pain, no tissue loss.",
+   "management": "Stop smoking; supervised graded walking; statin plus aspirin or clopidogrel; cilostazol (PDE3 inhibitor) for symptoms only; glucose and BP control. Stent or bypass if >70% stenosis with disabling symptoms, or rest pain or tissue loss.",
+   "lecture": "CV77",
+   "lectures": [
+    "CV77",
+    "CV58",
+    "CV65"
+   ]
+  },
+  {
+   "name": "Neurogenic claudication (lumbar spinal stenosis)",
+   "presentation": "A 71-year-old man has burning, tingling pain in both buttocks and thighs when walking or standing; some days he manages 10 blocks, other days 3. Standing still does not help - he must sit or bend forward, and he cycles on a stationary bike pain-free. Pedal pulses 2+ bilaterally.",
+   "workup": "Ankle-brachial ratio 1.1 on both sides. MRI of the low back: L4-L5 canal narrowed by facet and ligamentum flavum hypertrophy. Back extension reproduces the leg symptoms.",
+   "management": "Physical therapy with flexion-based exercise, NSAIDs and weight loss; epidural steroid injection or decompressive laminectomy if disabling. No vascular work-up needed when pulses and ankle-brachial index are normal.",
+   "lecture": "CV77",
+   "lectures": [
+    "CV77"
+   ]
+  },
+  {
+   "name": "Acute limb ischemia",
+   "presentation": "A 76-year-old woman with atrial fibrillation who stopped her anticoagulant 2 weeks ago has 3 hours of sudden severe right leg pain. The leg is pale and cold from mid-calf down, with a femoral but no popliteal or pedal pulse; toe sensation is dulled but she can still move them.",
+   "workup": "Hand-held Doppler: no arterial signal from the popliteal artery down; venous signals present. ECG: no P waves, R-R intervals vary with no pattern. CT angiogram: abrupt popliteal cutoff at a pre-existing plaque with few collaterals.",
+   "management": "Immediate IV unfractionated heparin; urgent imaging to choose catheter-directed tPA with mechanical thrombectomy vs surgical embolectomy - restore flow before paralysis (~6 h); long-term anticoagulation for the cardiac source.",
+   "lecture": "CV77",
+   "lectures": [
+    "CV77",
+    "CV65"
+   ]
+  },
+  {
+   "name": "Chronic limb-threatening ischemia",
+   "presentation": "A 74-year-old man with diabetes and 50 pack-years of smoking has 2 months of right forefoot pain that wakes him at night and eases when he hangs the foot over the side of the bed. The foot is cool, thin-skinned and hairless with a dry black tip on the second toe; no pedal pulses.",
+   "workup": "Ankle-brachial ratio 0.28 on the right; toe pressure 20 mmHg. CT angiogram: multilevel occlusion of the superficial femoral and tibial arteries with collaterals. Toe wound dry, necrotic and sharply demarcated.",
+   "management": "Revascularization (angioplasty/stenting or surgical bypass) plus wound care; continue statin, antiplatelet and smoking cessation; amputation if unsalvageable - at 1 year about 25% lose the leg and 25% die of cardiovascular causes.",
+   "lecture": "CV77",
+   "lectures": [
+    "CV77"
+   ]
+  },
+  {
+   "name": "Aortoiliac occlusive disease (Leriche syndrome)",
+   "presentation": "A 58-year-old man with 40 pack-years of smoking has a year of aching in both buttocks, hips and thighs after 2 blocks of walking that resolves within minutes of standing still. Femoral pulses are faint on both sides, pedal pulses absent; both legs are cool with sparse hair.",
+   "workup": "Ankle-brachial ratio 0.60 right and 0.55 left. CT angiogram: occlusion of the infrarenal aorta extending into both common iliac arteries, with large lumbar and epigastric collaterals.",
+   "management": "Risk-factor control, statin, antiplatelet and supervised exercise; for disabling symptoms, endovascular stenting of the distal aorta and both iliacs or aortobifemoral bypass.",
+   "lecture": "CV77",
+   "lectures": [
+    "CV77"
+   ]
+  },
+  {
+   "name": "Transient ischemic attack",
+   "presentation": "A 69-year-old man with hypertension and hyperlipidemia had 15 minutes of left face and arm weakness with slurred speech that fully cleared before he reached the ED. His neurologic exam is now normal; a bruit is heard over the right side of the neck.",
+   "workup": "MRI with diffusion: no infarct. Carotid duplex: peak systolic velocity 290 cm/s at the right internal carotid origin (~80% narrowing on the outer wall of the bifurcation); CTA confirms and shows normal vertebrobasilar arteries.",
+   "management": "Start aspirin (+/- clopidogrel) and a high-intensity statin now; carotid endarterectomy, preferred over stenting, for the symptomatic high-grade lesion; BP control, stop smoking - about 1 in 3 have a stroke after a first episode.",
+   "lecture": "CV77",
+   "lectures": [
+    "CV77"
+   ],
+   "avoid": {
+    "management": [
+     "Amaurosis fugax (transient monocular blindness)"
+    ]
+   }
+  },
+  {
+   "name": "Amaurosis fugax (transient monocular blindness)",
+   "presentation": "A 72-year-old man who smokes had 5 minutes in which the vision in his right eye went dark and then fully returned. The left eye was normal throughout, and he had no weakness, numbness or speech trouble. A bruit is heard over the right carotid.",
+   "workup": "Fundus: a bright yellow refractile plaque lodged at a retinal arteriole branch point; otherwise normal. Carotid duplex: ~75% narrowing of the right internal carotid (peak systolic velocity 250 cm/s), on the same side as the affected eye.",
+   "management": "Antiplatelet therapy and a statin; endarterectomy of the same-side internal carotid for a symptomatic high-grade lesion; smoking cessation. Urgent work-up, because the next embolus may reach the brain.",
+   "lecture": "CV77",
+   "lectures": [
+    "CV77"
+   ],
+   "avoid": {
+    "management": [
+     "Transient ischemic attack"
+    ]
+   }
+  },
+  {
+   "name": "May-Thurner syndrome",
+   "presentation": "A 32-year-old woman has months of swelling of her entire left leg with varicose veins and a tight, aching leg when she exercises; now the left calf is tender and 4 cm larger than the right. The right leg is normal. No recent surgery, travel or cancer.",
+   "workup": "Duplex: occlusive thrombus in the left femoral vein; the left common iliac vein is flattened between the overlying right common iliac artery and the lumbar spine (confirmed on CT venography or intravascular ultrasound).",
+   "management": "Anticoagulate the clot (catheter-directed thrombolysis if extensive), then stent the left common iliac vein to relieve the outflow obstruction; compression stockings.",
+   "lecture": "CV77",
+   "lectures": [
+    "CV77",
+    "CV73"
+   ]
+  },
+  {
+   "name": "Chronic venous insufficiency",
+   "presentation": "A 58-year-old cashier (BMI 34) who stands all day has years of heavy, aching legs that swell by evening and ease with elevation; no prior clot. Both shins have dilated tortuous veins and brown, thick, itchy skin, and a shallow weeping ulcer sits above the right medial malleolus.",
+   "workup": "Ankle-brachial ratio 1.05. Venous duplex: reflux lasting >0.5 s through incompetent great saphenous and perforator valves on both sides; deep veins compress fully with no old thrombus and no iliac compression.",
+   "management": "Compression stockings, leg elevation, walking to work the calf pump, weight loss and NSAIDs for pain; wound care for the ulcer; sclerotherapy or endovenous ablation for refractory varicosities.",
+   "lecture": "CV77",
+   "lectures": [
+    "CV77"
+   ]
+  },
+  {
+   "name": "Post-mastectomy lymphedema",
+   "presentation": "A 54-year-old woman had left breast cancer surgery with axillary node dissection and radiation 3 years ago. Her left arm has swollen gradually: at first it pitted and went down overnight; now it is firm, heavy and only partly better with elevation. Skin intact, no masses.",
+   "workup": "Mostly a clinical diagnosis: left arm 4 cm larger in circumference, non-tender, no skin lesions; venous duplex normal. Lymphoscintigraphy, if done, shows delayed tracer transit with dermal backflow.",
+   "management": "Compression garments and exercise (muscle contraction moves lymph), manual decompressive therapy (gold standard), pneumatic compression and lymphatic OMT; liposuction for long-standing fat-rich swelling; prompt treatment of skin infection.",
+   "lecture": "CV77",
+   "lectures": [
+    "CV77"
+   ]
+  },
+  {
+   "name": "Lymphangiosarcoma (Stewart-Treves)",
+   "presentation": "A 66-year-old woman has had a swollen, firm right arm since a mastectomy with axillary node dissection 14 years ago. Over 6 weeks, several painful purple-red nodules and a bruise-like patch have appeared and spread over the upper arm without any injury.",
+   "workup": "Skin biopsy: atypical endothelial cells lining irregular, interconnecting vascular channels that dissect through dermal collagen; endothelial markers (CD31) positive.",
+   "management": "Wide resection - often amputation of the limb - because it spreads fast and the prognosis is poor. Any new or rapidly changing skin lesion on a chronically swollen limb gets a biopsy.",
+   "lecture": "CV77",
+   "lectures": [
+    "CV77"
+   ]
+  },
+  {
+   "name": "Lymphatic filariasis",
+   "presentation": "A 56-year-old farmer who recently arrived from rural Bangladesh has 3 years of progressive swelling of his right leg. The leg is massively enlarged, firm and tough, with thick, folded, warty skin; it does not pit and does not go down with elevation.",
+   "workup": "Blood smear drawn around midnight, Giemsa stain: long, sheathed, cylindrical microfilariae; eosinophils 12%; circulating filarial antigen positive.",
+   "management": "Diethylcarbamazine (often with albendazole) for the parasite; lifelong limb care - skin hygiene to prevent infection, compression, elevation and exercise; surgical debulking for severe late swelling.",
+   "lecture": "CV77",
+   "lectures": [
+    "CV77"
+   ]
+  },
+  {
+   "name": "Abdominal aortic aneurysm",
+   "presentation": "A 70-year-old man with 45 pack-years of smoking, whose brother had emergency vascular surgery at 68, feels well at his annual visit. BP 138/84, pulse 72. Deep palpation above the umbilicus finds a non-tender mass that pushes the examiner's fingers apart with each heartbeat.",
+   "workup": "Screening ultrasound: infrarenal aorta 4.6 cm across (normal ~2 cm; >3 cm is abnormal), renal arteries spared. Repeat ultrasound 6 months later: 0.2 cm larger.",
+   "management": "Stop smoking (the top modifiable risk factor); statin, antiplatelet and BP control; serial ultrasound. Elective endovascular or open repair at >5.5 cm in men (>5.0 cm in women) or growth >0.5 cm in 6 months or >1 cm per year.",
+   "lecture": "CV78",
+   "lectures": [
+    "CV78",
+    "CV58",
+    "CV65"
+   ]
+  },
+  {
+   "name": "Ruptured abdominal aortic aneurysm",
+   "presentation": "A 74-year-old male smoker collapses at home with sudden severe left flank and low back pain. BP 78/46 in both arms, pulse 128; he is pale and sweaty, and his abdomen is mildly distended and tender. Urinalysis shows no blood.",
+   "workup": "Bedside ultrasound: 7.2 cm infrarenal aorta with surrounding fluid. Hemoglobin 8.9 g/dL and falling. CT angiogram only if he stabilizes: retroperitoneal hematoma contiguous with the aorta.",
+   "management": "Call the vascular team for emergent endovascular or open repair; permissive hypotension with blood products instead of large-volume crystalloid; if unstable, skip CT and go straight to the operating room.",
+   "lecture": "CV78",
+   "lectures": [
+    "CV78"
+   ]
+  },
+  {
+   "name": "Inflammatory abdominal aortic aneurysm",
+   "presentation": "A 63-year-old male smoker has 3 months of a dull ache in the mid-abdomen and low back, fatigue and 6 kg of weight loss; he is afebrile. BP 142/88, pulse 80. A tender, pulsatile mass is felt above the umbilicus.",
+   "workup": "ESR 88 mm/h, CRP 64 mg/L, creatinine 1.8 mg/dL. CT: 5.4 cm infrarenal aorta wrapped in a thick enhancing rind that tethers the duodenum and left ureter (hydronephrosis). Histology: adventitial fibrosis with macrophages and giant cells.",
+   "lecture": "CV78",
+   "lectures": [
+    "CV78"
+   ]
+  },
+  {
+   "name": "Mycotic aneurysm",
+   "presentation": "A 68-year-old man with diabetes has 10 days of fever to 39.4 C, chills and new constant back and abdominal pain, 3 weeks after a hospital stay for an infected foot ulcer with bacteremia. BP 132/80, pulse 108. A tender pulsatile mass is felt in the upper abdomen.",
+   "workup": "WBC 18,000/uL; blood cultures: gram-positive cocci in clusters. CT angiogram: a new lobulated saccular outpouching of the infrarenal aorta with surrounding stranding and fluid (absent on CT a year ago). Transesophageal echo: normal valves.",
+   "management": "Prolonged IV antibiotics guided by cultures plus early surgical debridement of the infected aorta with reconstruction - infected outpouchings expand and rupture quickly.",
+   "lecture": "CV78",
+   "lectures": [
+    "CV78"
+   ]
+  },
+  {
+   "name": "Stanford type A aortic dissection",
+   "presentation": "A 62-year-old man with poorly controlled hypertension has sudden, maximal-at-onset pain in the front of his chest and between the shoulder blades. BP 176/98 right arm, 138/80 left arm; pulse 104. A new soft early diastolic decrescendo murmur is heard at the left sternal border.",
+   "workup": "ECG: sinus tachycardia, no ST elevation. CXR: widened mediastinum. CT angiogram: intimal flap with true and false lumens starting in the ascending aorta and running through the arch; small pericardial effusion. If too unstable for CT: TEE.",
+   "management": "Emergent surgical repair; until then IV esmolol or labetalol (heart rate <60, systolic BP 100-120); no anticoagulants or thrombolytics. Tamponade and acute valve regurgitation are the usual causes of death.",
+   "lecture": "CV78",
+   "lectures": [
+    "CV78",
+    "CV58"
+   ]
+  },
+  {
+   "name": "Stanford type B aortic dissection",
+   "presentation": "A 58-year-old man with untreated hypertension who uses cocaine has sudden severe pain between his shoulder blades that is moving down into his lower back. BP 192/110 in both arms, pulse 98. No murmur, normal neurologic exam, abdomen soft without a pulsatile mass.",
+   "workup": "CT angiogram: an intimal flap with a false lumen beginning just distal to the left subclavian artery and running down to the renal arteries; ascending aorta and arch normal; no pericardial fluid. CXR: widened mediastinum.",
+   "management": "IV beta blocker first (esmolol or labetalol) to lower heart rate and BP and stop propagation; add a vasodilator later; pain control; endovascular or open repair only for malperfusion, rupture or uncontrollable pain.",
+   "lecture": "CV78",
+   "lectures": [
+    "CV78"
+   ]
+  },
+  {
+   "name": "Thoracic aortic aneurysm",
+   "presentation": "A 67-year-old woman with 25 years of hypertension has 4 months of hoarseness, a dry cough, trouble swallowing solids and a dull upper-back ache. BP 168/96, pulse 76, afebrile. Arm BPs are equal, there is no murmur, and neck veins are normal.",
+   "workup": "CXR: widened mediastinum with the trachea pushed to the right. CT angiogram: fusiform dilation of the distal arch and descending aorta to 5.9 cm with mural thrombus, no intimal flap. Image the abdominal aorta - 20% have a second dilation.",
+   "management": "Symptoms from compression = repair now: endovascular for the descending segment, open with cardiopulmonary bypass for the ascending. Asymptomatic and <5.5 cm: beta-blocker-based BP control, statin, no smoking, CTA at 6 months then yearly.",
+   "lecture": "CV78",
+   "lectures": [
+    "CV78"
+   ]
+  },
+  {
+   "name": "Traumatic aortic injury",
+   "presentation": "A 27-year-old unrestrained driver hit a tree at about 60 mph. He has anterior chest pain with a steering-wheel bruise across the sternum. BP 100/62, pulse 116, breath sounds equal, neck veins flat, heart sounds normal.",
+   "workup": "CXR: mediastinum widened to 9 cm, loss of the knob contour, left apical pleural cap, fractured first rib. CT angiogram: contained outpouching with intimal disruption just distal to the left subclavian artery, at the ligamentum arteriosum.",
+   "management": "Tight heart-rate and BP control with an IV beta blocker (systolic <100-120) while other injuries are stabilized, then endovascular stent-graft repair of the isthmus.",
+   "lecture": "CV78",
+   "lectures": [
+    "CV78"
+   ]
+  },
+  {
+   "name": "Marfan syndrome",
+   "presentation": "A 19-year-old college basketball player, 6 ft 7 in and slender, is referred after his father died suddenly at 41. He has worn thick glasses for nearsightedness since age 8 and a brace for scoliosis; he does well in school. BP 118/64; a click is heard at the apex in mid-systole.",
+   "workup": "Echo: aortic root 4.7 cm at the sinuses with mitral leaflets bowing into the left atrium in systole. Plasma homocysteine normal. Genetic testing: pathogenic FBN1 (fibrillin-1) variant, autosomal dominant.",
+   "management": "Beta blocker (or losartan) to cut wall stress; echo every 6-12 months; prophylactic aortic root replacement at a smaller diameter than usual (~5 cm, sooner if growing fast); avoid contact sports and heavy isometric lifting.",
+   "lecture": "CV78",
+   "lectures": [
+    "CV78",
+    "CV110",
+    "CV91",
+    "CV99"
+   ]
+  },
+  {
+   "name": "Vascular Ehlers-Danlos syndrome",
+   "presentation": "A 26-year-old woman of average height with thin, translucent skin showing the veins over her chest and hands and easy bruising has sudden severe flank pain after lifting a box. Her mother died in her 40s of a ruptured brain artery.",
+   "workup": "CT angiogram: dissection and rupture of the left renal artery with retroperitoneal blood. Genetic testing: pathogenic COL3A1 variant (type III collagen), autosomal dominant.",
+   "management": "Manage ruptures conservatively or endovascularly where possible (tissue tears at surgery); keep BP normal; avoid contact sports, isometric exertion and elective surgery; medical-alert bracelet; high-risk obstetric care.",
+   "lecture": "CV78",
+   "lectures": [
+    "CV78",
+    "CV110"
+   ]
+  },
+  {
+   "name": "Loeys-Dietz syndrome",
+   "presentation": "A 14-year-old boy of average height, with widely spaced eyes and recurrent neck pain, has a dilated aortic root found at a sports physical. His sister had an aortic tear at 22. His lenses are normal and his skin is of normal thickness.",
+   "workup": "Echo: aortic root 4.4 cm (z-score +4). Head-to-pelvis MR angiography: markedly tortuous neck and head arteries with branch-artery aneurysms. Genetic testing: TGFBR2 variant; FBN1 negative.",
+   "management": "Beta blocker or losartan; serial imaging of the whole arterial tree; prophylactic aortic root surgery earlier than in fibrillin disease, because aneurysms here dissect at smaller sizes and younger ages.",
+   "lecture": "CV78",
+   "lectures": [
+    "CV78",
+    "CV110"
+   ]
+  },
+  {
+   "name": "Syphilitic aortitis",
+   "presentation": "A 64-year-old man had a painless genital ulcer at age 35 that healed without treatment. He now has 6 months of exertional dyspnea and a dry cough. BP 158/52, pulse 84; an early diastolic decrescendo murmur is loudest at the right upper sternal border.",
+   "workup": "RPR 1:16, FTA-ABS positive. CXR: thin linear calcification along the ascending aorta. CT angiogram: ascending aorta and root dilated to 5.6 cm, descending aorta spared. Histology: plasma cells around obliterated vasa vasorum.",
+   "management": "Penicillin after CSF evaluation (benzathine weekly x3, or IV penicillin G if CSF is abnormal); surgical replacement of the ascending aorta and valve for symptoms or a large root.",
+   "lecture": "CV78",
+   "lectures": [
+    "CV78"
+   ]
+  },
+  {
+   "name": "Calcific aortic stenosis",
+   "presentation": "A 78-year-old man has 6 months of exertional chest pressure and fainted once while gardening. BP 124/94. A harsh crescendo-decrescendo systolic murmur at the right 2nd intercostal space radiates to both carotids and softens with Valsalva; an S4 is heard.",
+   "workup": "Echo: heavily calcified three-cusp valve with nodules in the sinuses and no commissural fusion; valve area 0.8 cm2, mean gradient 46 mmHg; concentric LV hypertrophy, EF 60%. ECG: high precordial voltage.",
+   "management": "Symptomatic severe disease = valve replacement (surgical or transcatheter); no drug alters the course; avoid vasodilators and volume depletion that cut preload.",
+   "lecture": "CV99",
+   "lectures": [
+    "CV99",
+    "CV91",
+    "CV58"
+   ]
+  },
+  {
+   "name": "Bicuspid aortic valve",
+   "presentation": "A 46-year-old man has a year of exertional breathlessness; his father had the same murmur. BP 134/80 in the arm and 140/84 in the legs. A sharp early systolic click is followed by a crescendo-decrescendo murmur at the right 2nd intercostal space radiating to the carotids.",
+   "workup": "Echo: two unequal cusps, the larger with a midline raphe where calcium is heaviest; orifice area 1.1 cm2; ascending aorta dilated to 4.6 cm. Familial cases: NOTCH1 variant.",
+   "management": "Serial echo of the leaflets and ascending aorta; replacement when severe and symptomatic - usually in the 40s-50s, ~30 years earlier than with three normal cusps; repair the ascending aorta if enlarged; echo-screen first-degree relatives.",
+   "lecture": "CV91",
+   "lectures": [
+    "CV91",
+    "CV78",
+    "CV99"
+   ]
+  },
+  {
+   "name": "Aortic regurgitation",
+   "presentation": "A 52-year-old man has a year of breathlessness lying flat and waking at night gasping. BP 168/48, pulse 88; apical impulse broad and displaced left. A soft, high-pitched early diastolic decrescendo murmur at the left sternal border is loudest leaning forward in expiration.",
+   "workup": "Echo: diastolic backflow jet from a three-cusp valve into the LV; root 4.2 cm; LV end-diastolic diameter 7.0 cm (eccentric hypertrophy), EF 50%. The murmur grows louder with handgrip and softer on inspiration; an S3 is present.",
+   "management": "Afterload reduction (ACE inhibitor, ARB or dihydropyridine) for hypertension and symptoms; valve replacement when symptomatic, EF <55% or LV end-systolic diameter >5 cm; repair the root if dilated.",
+   "lecture": "CV99",
+   "lectures": [
+    "CV99",
+    "CV58",
+    "CV78"
+   ]
+  },
+  {
+   "name": "Chronic mitral regurgitation",
+   "presentation": "A 61-year-old man has 2 years of exertional fatigue and now needs 3 pillows to sleep. Pulse 92 and irregular. A high-pitched blowing holosystolic murmur at the apex radiates to the left axilla and buries S1; it gets louder with handgrip and does not get louder with inspiration.",
+   "workup": "Echo: systolic backflow jet into an enlarged left atrium (5.2 cm) through leaflets that fail to meet on a dilated annulus; LV dilated, EF 58%; pulmonary artery systolic pressure 50 mmHg. Bibasilar crackles on chest exam.",
+   "management": "Surgical repair (preferred over replacement) once symptomatic or when EF falls to <=60% or LV end-systolic diameter reaches >=4 cm; diuretics for congestion; rate control and anticoagulation for the irregular rhythm.",
+   "lecture": "CV99",
+   "lectures": [
+    "CV99",
+    "CV58",
+    "CV91"
+   ]
+  },
+  {
+   "name": "Mitral valve prolapse",
+   "presentation": "A 27-year-old thin woman has occasional palpitations and brief atypical chest twinges. A mid-systolic click at the apex is followed by a short late-systolic murmur; on standing the click moves toward S1 and the murmur lengthens, and a passive leg raise moves the click toward S2.",
+   "workup": "Echo: thickened, redundant posterior leaflet bulging >2 mm above the annulus into the left atrium in systole, with elongated chordae and only a trace leak. Histology if excised: disorganized fibrosa and a proteoglycan-expanded spongiosa.",
+   "management": "Reassurance and periodic echo while the leak stays trivial; beta blocker for palpitations; surgical repair if it progresses to severe regurgitation.",
+   "lecture": "CV99",
+   "lectures": [
+    "CV99",
+    "CV91"
+   ]
+  },
+  {
+   "name": "Rheumatic mitral stenosis",
+   "presentation": "A 38-year-old woman from rural Guatemala who had many untreated sore throats as a child has worsening breathlessness on exertion and at night since her last pregnancy. Pulse 118, irregular. A sharp early diastolic sound precedes a low apical rumble, louder lying on her left.",
+   "workup": "Echo: thickened leaflets with fused commissures and a narrow orifice (1.0 cm2); left atrium 5.5 cm with appendage thrombus; normal LV size and function. Cath: high wedge pressure with normal LV diastolic pressure. ECG: no P waves.",
+   "management": "Rate control (beta blocker) and warfarin for the fibrillation; diuretic for congestion; percutaneous balloon commissurotomy if the anatomy suits, otherwise surgical repair or replacement; penicillin to prevent recurrent strep infection.",
+   "lecture": "CV99",
+   "lectures": [
+    "CV99",
+    "CV91",
+    "CV58"
+   ]
+  },
+  {
+   "name": "Mitral annular calcification",
+   "presentation": "A 74-year-old woman with 30 years of hypertension, dyslipidemia and stage 3 chronic kidney disease feels well. BP 162/88, pulse 70 and regular, afebrile. A soft grade 2/6 apical systolic murmur is heard; there is no diastolic rumble and no extra diastolic sound.",
+   "workup": "Echo: a dense, irregular, stony ring of calcium in the fibrous annulus at the base of the posterior leaflet, with one ulcerated nodule; the leaflet tips are thin and mobile without commissural fusion; mild backflow.",
+   "management": "No specific therapy for the deposit itself; treat it as a marker of atherosclerosis - control BP and lipids and evaluate for coronary disease; manage any associated leak or narrowing on its own merits.",
+   "lecture": "CV91",
+   "lectures": [
+    "CV91"
+   ]
+  },
+  {
+   "name": "Tricuspid regurgitation",
+   "presentation": "A 45-year-old man treated for endocarditis from injecting drugs 3 years ago has leg swelling and abdominal fullness; afebrile. JVP 14 cm with a large systolic wave; pulsatile liver. A blowing holosystolic murmur at the left lower sternal border grows louder on inspiration.",
+   "workup": "Echo: dilated right ventricle and atrium with a wide systolic backflow jet into the right atrium and a flail septal leaflet; systolic flow reversal in the hepatic veins. Blood cultures negative.",
+   "management": "Loop diuretic for congestion; treat the driver (pulmonary hypertension, left-heart disease); surgical repair or replacement if severe and symptomatic, or at the time of left-sided valve surgery.",
+   "lecture": "CV99",
+   "lectures": [
+    "CV99"
+   ]
+  },
+  {
+   "name": "Tricuspid stenosis",
+   "presentation": "A 44-year-old woman from Haiti with rheumatic heart disease has fatigue, cold hands and feet, ascites and leg edema but no orthopnea. JVP 12 cm with a giant wave just before each carotid pulse; a soft mid-diastolic rumble at the left 4th parasternal space is louder on inspiring.",
+   "workup": "Echo: thickened, restricted right-sided AV leaflets with a mean diastolic gradient of 6 mmHg; enlarged right atrium; dilated inferior vena cava that does not collapse with breathing; normal LV.",
+   "management": "Diuretics and salt restriction for the venous congestion; balloon or surgical commissurotomy or replacement if severe - often at the same operation as the coexisting rheumatic left-sided valve disease.",
+   "lecture": "CV99",
+   "lectures": [
+    "CV99",
+    "CV58"
+   ]
+  },
+  {
+   "name": "Pulmonic stenosis",
+   "presentation": "A 22-year-old man has exertional chest tightness and fatigue. BP 118/74, pulse 72. A harsh, high-pitched crescendo-decrescendo systolic murmur at the left 2nd intercostal space radiates to the left shoulder and neck, louder on inspiration; S2 widely split; left parasternal heave.",
+   "workup": "Echo: thickened, domed right ventricular outflow valve with dilation of the main pulmonary artery beyond it; peak gradient 64 mmHg; right ventricular hypertrophy. ECG: right axis deviation.",
+   "management": "Percutaneous balloon valvuloplasty for a significant gradient or symptoms; surgical valvotomy if the leaflets are dysplastic; look for an underlying carcinoid or syndromic cause.",
+   "lecture": "CV99",
+   "lectures": [
+    "CV99",
+    "CV58"
+   ]
+  },
+  {
+   "name": "Pulmonic regurgitation",
+   "presentation": "A 24-year-old woman had repair of a cyanotic heart defect with a patch across her right ventricular outflow in infancy; she now tires with exercise. BP 118/76. A high-pitched early diastolic decrescendo murmur at the left 3rd intercostal space grows louder on inspiration.",
+   "workup": "Cardiac MRI: wide diastolic backflow jet from the main pulmonary artery into a dilated right ventricle (end-diastolic volume 165 mL/m2) with normal LV size and a normal root. A late, palpable P2 at the left upper sternal border.",
+   "management": "Serial MRI of RV size and function; pulmonary valve replacement (surgical or transcatheter) when symptomatic or the RV keeps dilating.",
+   "lecture": "CV99",
+   "lectures": [
+    "CV99",
+    "CV58"
+   ]
+  },
+  {
+   "name": "Libman-Sacks endocarditis",
+   "presentation": "A 31-year-old woman with a sun-sensitive facial rash, painful swollen finger joints and two miscarriages has a new soft apical systolic murmur after a brief episode of right-hand weakness. Temp 37.1 C; no injection drug use, no weight loss.",
+   "workup": "ANA 1:640, anti-dsDNA positive, low C3 and C4, lupus anticoagulant positive. Three blood cultures negative. TEE: several 2-4 mm sessile masses on both the atrial and ventricular surfaces of the mitral leaflets, with a mild leak.",
+   "management": "Treat the underlying autoimmune disease (hydroxychloroquine, immunosuppression as needed); anticoagulate with warfarin when antiphospholipid antibodies or emboli are present; surgery only for severe valve dysfunction.",
+   "lecture": "CV91",
+   "lectures": [
+    "CV91",
+    "CV108"
+   ]
+  },
+  {
+   "name": "Paradoxical embolism (patent foramen ovale or ASD)",
+   "presentation": "A 34-year-old woman has sudden right arm weakness and trouble finding words the day after a 14-hour flight; her left calf has been swollen and tender since she landed. BP 124/78, pulse 88 and regular; no murmur; no carotid bruits.",
+   "workup": "MRI: acute left MCA-territory infarct. Leg duplex: left popliteal vein thrombus. Agitated-saline echo: bubbles reach the left atrium within 3 beats, more after Valsalva release. Carotid duplex and rhythm monitoring normal.",
+   "management": "Antiplatelet therapy for the stroke and anticoagulation for the leg clot; percutaneous closure of the interatrial opening in selected young patients with no other cause found.",
+   "lecture": "CV99",
+   "lectures": [
+    "CV99",
+    "CV93"
+   ]
+  },
+  {
+   "name": "Sick sinus syndrome",
+   "presentation": "A 79-year-old woman who takes no beta blocker, calcium channel blocker or digoxin has 3 months of fatigue and two near-faints, one while standing in church. Pulse 42 and regular, BP 128/70; otherwise normal exam.",
+   "workup": "Holter: rate 38-45 with a normal P wave before each QRS, plus pauses of 3.8 s with no P wave at all, ended by a junctional escape beat; rate barely rises on exertion. TSH and K+ normal.",
+   "management": "Stop any rate-slowing drug; atropine for acute symptomatic slowing; permanent pacemaker for symptomatic bradycardia or pauses.",
+   "lecture": "CV84",
+   "lectures": [
+    "CV84",
+    "CV82",
+    "CV83"
+   ]
+  },
+  {
+   "name": "Atrial flutter",
+   "presentation": "A 67-year-old man with COPD and hypertension has 2 days of palpitations and mild breathlessness. Pulse 150 and regular, BP 128/80; the rate does not drift with rest or fluids. Carotid sinus massage drops the rate abruptly to 75 for a few seconds, then it returns to 150.",
+   "workup": "ECG: regular narrow QRS at 150/min; between complexes the baseline is replaced by continuous, uniform negative deflections at 300/min, best seen in II, III and aVF, with no flat segment between them (2:1 conduction).",
+   "management": "Rate is hard to control with drugs; anticoagulate by the same stroke-risk score used for fibrillation; synchronized cardioversion if unstable; cure = catheter ablation of the cavotricuspid isthmus.",
+   "lecture": "CV83",
+   "lectures": [
+    "CV83",
+    "CV82",
+    "CV85"
+   ]
+  },
+  {
+   "name": "Atrial fibrillation",
+   "presentation": "A 72-year-old woman with hypertension and diabetes who drinks 3-4 glasses of wine nightly has a week of palpitations and fatigue. Pulse 128 and irregular, apical rate higher than radial, BP 136/82. Two months ago she had a brief spell of left arm weakness.",
+   "workup": "ECG: narrow QRS at 128/min with no discernible P waves, a fine chaotic baseline, and R-R intervals that vary beat to beat with no repeating pattern; PR unmeasurable. TSH normal. Echo: left atrium 4.6 cm.",
+   "management": "Rate control first (metoprolol or diltiazem; digoxin add-on) or rhythm control (amiodarone, sotalol, flecainide); anticoagulate (DOAC or warfarin) for CHA2DS2-VASc >=2; DC cardioversion if unstable; pulmonary vein isolation is definitive.",
+   "lecture": "CV83",
+   "lectures": [
+    "CV83",
+    "CV82",
+    "CV85",
+    "CV99",
+    "CV91"
+   ]
+  },
+  {
+   "name": "Multifocal atrial tachycardia",
+   "presentation": "A 74-year-old man with severe COPD, admitted 2 days ago for an exacerbation, notices a racing, uneven heartbeat. Pulse 124 and irregular, BP 142/84, RR 24, SpO2 88% on 2 L. He is on nebulized albuterol and IV methylprednisolone.",
+   "workup": "ECG: narrow QRS at 124/min, irregular; a P wave precedes every QRS, but the P waves take at least 3 different shapes with varying PR intervals, and the baseline between beats is flat. Mg2+ 1.3 mg/dL, K+ 3.2 mEq/L.",
+   "management": "Treat the lung disease and hypoxemia; replace magnesium and potassium; verapamil (or diltiazem) if the rate needs slowing; cardioversion does not help.",
+   "lecture": "CV83",
+   "lectures": [
+    "CV83"
+   ],
+   "avoid": {
+    "presentation": [
+     "COPD exacerbation"
+    ]
+   }
+  },
+  {
+   "name": "AV nodal reentrant tachycardia",
+   "presentation": "A 28-year-old woman has had episodes of pounding palpitations for 2 years that start and stop abruptly, with lightheadedness; between attacks she feels well. Now: pulse 186 and regular, BP 108/70, alert and oriented.",
+   "workup": "ECG: regular narrow QRS at 186/min, no P wave before the QRS, a small retrograde deflection at the end of each QRS. ECG between attacks normal (PR 160 ms, no pre-excitation). EP study: dual pathways within the AV node.",
+   "management": "Vagal maneuvers (Valsalva, carotid massage), then rapid IV adenosine 6 mg; synchronized cardioversion if unstable; long term, catheter ablation of the slow pathway (fast-pathway ablation risks AV block).",
+   "lecture": "CV83",
+   "lectures": [
+    "CV83",
+    "CV82",
+    "CV85"
+   ],
+   "avoid": {
+    "workup": [
+     "Supraventricular tachycardia in an infant"
+    ]
+   }
+  },
+  {
+   "name": "Wolff-Parkinson-White syndrome",
+   "presentation": "A 24-year-old man with palpitations since his teens was given IV verapamil at urgent care for a fast, irregular rhythm. Within minutes his pulse rose to 260 with wide, varying complexes, BP fell to 84/50 and he nearly fainted.",
+   "workup": "Baseline ECG after recovery: PR 0.10 s; a slurred, slow-rising start to a 130-ms QRS that swallows the PR segment; ST-T changes opposite the main QRS deflection.",
+   "management": "No AV-nodal blockers (verapamil, diltiazem, beta blockers, adenosine, digoxin); IV procainamide (or amiodarone) if stable, synchronized cardioversion if unstable; cure = catheter ablation of the accessory pathway.",
+   "lecture": "CV83",
+   "lectures": [
+    "CV83",
+    "CV82",
+    "CV85",
+    "CV93"
+   ]
+  },
+  {
+   "name": "Congenital long QT syndrome",
+   "presentation": "A 12-year-old boy who has worn hearing aids in both ears since infancy faints for the second time during gym class and comes round within a minute. His older brother died suddenly at 14; his parents are healthy. He takes no medications. Exam between events normal; pulse 64.",
+   "workup": "ECG: sinus rhythm, QTc 530 ms with broad T waves; K+ 4.3 mEq/L, Mg2+ 2.1 mg/dL, Ca2+ 9.4 mg/dL, TSH normal. Genetics: biallelic KCNQ1 variants (reduced slow delayed-rectifier K+ current).",
+   "management": "Beta blocker (propranolol or nadolol) to prevent torsades; avoid every QT-prolonging drug and keep K+ and Mg2+ normal; limit competitive sport; ICD after arrest or syncope despite beta blockade; ECG-screen relatives.",
+   "lecture": "CV82",
+   "lectures": [
+    "CV82",
+    "CV110",
+    "CV93",
+    "CV94",
+    "CV84"
+   ]
+  },
+  {
+   "name": "Torsades de pointes (drug- and electrolyte-induced)",
+   "presentation": "A 68-year-old woman on furosemide for heart failure was started on IV ondansetron and haloperidol after hip surgery. On day 2 she has two brief faints; between them her pulse is 52 and regular. She has never fainted before and has no family history of sudden death.",
+   "workup": "Telemetry: a sinus beat with QTc 590 ms, then a run of wide complexes at 240/min whose amplitude and axis twist steadily around the baseline, ending on its own. K+ 2.9 mEq/L, Mg2+ 1.2 mg/dL, Ca2+ 8.0 mg/dL.",
+   "management": "IV magnesium sulfate 2 g first, even if Mg2+ is normal; stop the QT-prolonging drugs; replete K+ to >4; overdrive pacing for bradycardia-dependent runs; cardiovert if unstable, defibrillate if pulseless.",
+   "lecture": "CV82",
+   "lectures": [
+    "CV82",
+    "CV83",
+    "CV84",
+    "CV85",
+    "CV87"
+   ]
+  },
+  {
+   "name": "Short QT syndrome",
+   "presentation": "A 26-year-old man has had bouts of palpitations and two episodes of sudden collapse at rest; his father died suddenly at 35. He takes no medications or supplements. Pulse 70, BP 120/76, normal exam.",
+   "workup": "ECG: QT 280 ms at a rate of 70 with tall, narrow, peaked T waves; Ca2+ 9.3 mg/dL and K+ 4.1 mEq/L (normal); no digoxin use. EP study: very brief refractory periods; fibrillation is easily induced in both atria and ventricles.",
+   "management": "ICD for arrest survivors and high-risk patients; quinidine (blocks K+ current and lengthens the QT) as an adjunct; avoid drugs that reduce the QT further, such as digoxin.",
+   "lecture": "CV82",
+   "lectures": [
+    "CV82"
+   ]
+  },
+  {
+   "name": "Brugada syndrome",
+   "presentation": "A 35-year-old man who moved from Thailand 2 years ago faints at home while febrile (39.2 C) with influenza and wakes within a minute. He has no chest pain and takes no drugs. BP 122/78, pulse 96, SpO2 98%; heart and lungs normal on exam.",
+   "workup": "ECG: in V1-V2 (faintly V3) only, a high take-off 3-mm ST elevation sloping straight down into an inverted T wave, with an rSR'-like pattern; no reciprocal depression; less marked once afebrile. Troponin normal; echo structurally normal.",
+   "management": "Treat fever promptly; ICD for patients with syncope or arrest; avoid sodium-channel blockers (procainamide, flecainide, propafenone), tricyclics, lithium, bupivacaine, propofol, cocaine and heavy alcohol.",
+   "lecture": "CV82",
+   "lectures": [
+    "CV82",
+    "CV110"
+   ]
+  },
+  {
+   "name": "Catecholaminergic polymorphic VT",
+   "presentation": "A 10-year-old boy has fainted three times - twice while running in soccer matches and once when a dog frightened him. A cousin died suddenly during a race at 12. Between events his exam, BP and pulse are normal; he takes no medications.",
+   "workup": "Resting ECG normal (QTc 420 ms); echo and cardiac MRI normal. Treadmill test: ventricular ectopy appears above ~120/min and escalates to runs of wide complexes whose axis flips beat to beat. Genetics: RyR2 variant.",
+   "management": "Beta blocker (nadolol) to blunt the adrenergic trigger; add flecainide, which also blocks the leaky ryanodine receptor, if events persist; restrict strenuous exercise; ICD for recurrence despite drugs.",
+   "lecture": "CV82",
+   "lectures": [
+    "CV82",
+    "CV85"
+   ]
+  },
+  {
+   "name": "Sustained monomorphic VT",
+   "presentation": "A 66-year-old man with an anterior MI 3 years ago (EF 30%) has 1 hour of palpitations and lightheadedness. Pulse 170 and regular, BP 104/68; he is alert and talking, lungs clear.",
+   "workup": "ECG: regular wide-complex rhythm at 170/min, QRS 160 ms, every complex identical; P waves march through at 80/min unrelated to the QRS, with an occasional narrow captured beat. Echo: akinetic, scarred anterior wall.",
+   "management": "Stable: IV amiodarone (or procainamide, or lidocaine if ischemic); unstable: synchronized cardioversion. Correct ischemia and electrolytes; ICD for secondary prevention; ablation of the scar circuit if it recurs.",
+   "lecture": "CV83",
+   "lectures": [
+    "CV83",
+    "CV82",
+    "CV85"
+   ]
+  },
+  {
+   "name": "First-degree AV block",
+   "presentation": "A 54-year-old marathon runner has a routine ECG before knee surgery. He feels well, with no dizziness, fainting or exercise limitation. Resting pulse 52 and regular, BP 118/72, normal exam.",
+   "workup": "ECG: sinus rhythm at 52/min; PR interval 260 ms and identical in every beat; every P wave is followed by a narrow QRS; no non-conducted P waves on a 24-hour Holter.",
+   "management": "No treatment; reassure. Review AV-nodal-slowing drugs (metoprolol, verapamil, diltiazem, digoxin) and recheck if symptoms or a further PR change appear.",
+   "lecture": "CV84",
+   "lectures": [
+    "CV84"
+   ]
+  },
+  {
+   "name": "Second-degree AV block, Mobitz type I",
+   "presentation": "A 63-year-old woman on verapamil and metoprolol for palpitations feels well but notices her pulse is uneven. Pulse 58 and irregular in a repeating pattern - three beats, then a pause; BP 124/76. No dizziness or fainting.",
+   "workup": "ECG: PR 200, then 280, then 340 ms, followed by a P wave with no QRS; the cycle then restarts, giving grouped beats; QRS narrow; R-R intervals shorten before each pause.",
+   "management": "Usually observe; reduce or stop the AV-nodal-slowing drugs; atropine only for symptomatic bradycardia; pacing rarely needed.",
+   "lecture": "CV84",
+   "lectures": [
+    "CV84"
+   ]
+  },
+  {
+   "name": "Second-degree AV block, Mobitz type II",
+   "presentation": "A 74-year-old man has had three fainting spells in 2 weeks, each without warning, plus exertional fatigue and breathlessness. He takes no rate-slowing drugs. Pulse 44 and irregular, BP 112/64.",
+   "workup": "ECG: PR fixed at 180 ms in every conducted beat, then - with no PR change - a P wave not followed by a QRS (3:2 and 2:1 patterns); conducted QRS wide at 140 ms with a right-bundle pattern.",
+   "management": "Permanent pacemaker; transcutaneous pacing if unstable meanwhile (atropine often fails because the lesion lies below the AV node); avoid AV-nodal-slowing drugs.",
+   "lecture": "CV84",
+   "lectures": [
+    "CV84"
+   ],
+   "avoid": {
+    "management": [
+     "Third-degree AV block"
+    ]
+   }
+  },
+  {
+   "name": "Third-degree AV block",
+   "presentation": "An 81-year-old woman with no tick exposure or recent illness has a week of fatigue, two fainting spells and breathlessness on minimal exertion; she takes no rate-slowing drugs. Pulse 34 and regular, BP 168/60; S1 varies in loudness from beat to beat.",
+   "workup": "ECG: P waves at 80/min and QRS complexes at 34/min, each perfectly regular (constant P-P and R-R) but unrelated to each other; more P waves than QRS; QRS 150 ms with secondary T inversion. Lyme serology negative.",
+   "management": "Transcutaneous or transvenous pacing if unstable (atropine rarely helps a low escape rhythm), then a permanent pacemaker; look for a reversible cause - ischemia, Lyme disease, drugs.",
+   "lecture": "CV84",
+   "lectures": [
+    "CV84",
+    "CV82"
+   ],
+   "avoid": {
+    "workup": [
+     "Lyme carditis",
+     "Congenital heart block (neonatal lupus)"
+    ],
+    "management": [
+     "Second-degree AV block, Mobitz type II"
+    ]
+   }
+  },
+  {
+   "name": "New left bundle branch block",
+   "presentation": "A 64-year-old man with diabetes and hypertension has 40 minutes of crushing substernal pressure with sweating. BP 146/92, pulse 98. S2 is split in expiration and becomes single on inspiration. A routine ECG a year ago showed narrow QRS complexes.",
+   "workup": "ECG: QRS 150 ms; V1-V3 wide and mainly negative with deep S waves; I, aVL and V6 broad, notched R waves; left axis deviation; ST-T opposite the main QRS deflection. Troponin rising.",
+   "management": "Treat as a possible acute MI: aspirin, heparin and urgent coronary angiography with reperfusion while ischemic symptoms continue; compare every tracing with the old ECG.",
+   "lecture": "CV84",
+   "lectures": [
+    "CV84",
+    "CV75"
+   ],
+   "avoid": {
+    "presentation": [
+     "STEMI",
+     "NSTEMI",
+     "Unstable angina"
+    ],
+    "management": [
+     "STEMI",
+     "NSTEMI"
+    ]
+   }
+  },
+  {
+   "name": "Right bundle branch block",
+   "presentation": "A 58-year-old man with COPD has no cardiac symptoms; his preoperative ECG before hernia repair is flagged. BP 132/80, pulse 76, afebrile, no syncope. S2 is split in expiration and the split widens further on inspiration.",
+   "workup": "ECG: QRS 132 ms; V1-V2 upright with an rSR' (two positive peaks) and T inversion; wide, slurred S waves in I, aVL and V6; no ST elevation.",
+   "management": "No specific treatment when isolated and asymptomatic; look for a cause (pulmonary hypertension, PE, ischemia, septal defect) and compare with prior ECGs.",
+   "lecture": "CV84",
+   "lectures": [
+    "CV84"
+   ]
+  },
+  {
+   "name": "Left ventricular hypertrophy",
+   "presentation": "A 61-year-old Black man with 20 years of poorly controlled hypertension has mild exertional breathlessness. BP 178/104, pulse 72. The apical impulse is sustained and displaced laterally, and an S4 is heard just before S1; there is no murmur and no family history of sudden death.",
+   "workup": "ECG: S in V1 + R in V5 = 42 mm (>5 large boxes), R in aVL 13 mm, down-sloping ST depression with T inversion in V5-V6. Echo: concentric wall thickening to 1.4 cm, normal valves, EF 65%.",
+   "management": "Firm BP control (ACE inhibitor or ARB, thiazide, calcium channel blocker), which can regress the wall thickening; salt restriction and weight loss; look for other hypertensive end-organ damage.",
+   "lecture": "CV84",
+   "lectures": [
+    "CV84",
+    "CV58",
+    "CV99"
+   ]
+  },
+  {
+   "name": "Accidental hypothermia",
+   "presentation": "A 58-year-old man with alcohol use disorder is found asleep outdoors on a January night. Rectal temperature 29 C (84 F), pulse 38, BP 88/52, RR 8. He is confused, has stopped shivering, and his skin is cold and pale; pupils react sluggishly.",
+   "workup": "ECG: slow rhythm with prolonged PR, QRS and QT and an extra upright deflection right at the end of each QRS, lifting the start of the ST segment, most obvious in the inferior and lateral leads. K+ 4.6 mEq/L, glucose 62 mg/dL.",
+   "management": "Handle gently (rough movement can trigger VF); remove wet clothing; passive then active external rewarming, warmed IV fluids, and extracorporeal rewarming if in arrest; continue resuscitation until rewarmed.",
+   "lecture": "CV84",
+   "lectures": [
+    "CV84"
+   ]
+  },
+  {
+   "name": "Tricyclic antidepressant overdose",
+   "presentation": "A 34-year-old woman with depression and chronic neuropathic pain is found confused beside an empty pill bottle and then has a generalized seizure. Temp 38.3 C, pulse 132, BP 84/50. Pupils dilated; skin hot and dry.",
+   "workup": "ECG: sinus tachycardia, QRS 150 ms with a tall terminal R wave in aVR and right axis deviation, QTc 520 ms. Salicylate and acetaminophen levels undetectable; anion gap 12; glucose normal.",
+   "management": "IV sodium bicarbonate boluses for QRS >100 ms (the sodium load and alkalinization overcome the Na+ channel block); airway, benzodiazepines for seizures, norepinephrine for refractory hypotension; avoid class IA/IC drugs and physostigmine.",
+   "lecture": "CV85",
+   "lectures": [
+    "CV85"
+   ]
+  },
+  {
+   "name": "Drug-induced lupus",
+   "presentation": "A 63-year-old man taking hydralazine with isosorbide dinitrate for heart failure for 9 months has 6 weeks of aching joints, muscle pain, low-grade fever and pleuritic chest pain, with a faint rash over his cheeks. No oral ulcers, no edema, normal mental status.",
+   "workup": "ANA 1:640 with anti-histone antibodies; anti-dsDNA negative; C3 and C4 normal; urinalysis bland, creatinine 0.9 mg/dL. Slow-acetylator genotype. Small exudative pleural effusion.",
+   "management": "Stop the offending drug (hydralazine, procainamide, isoniazid) - symptoms usually fade over weeks; NSAIDs for joint and serosal pain, a short glucocorticoid course if severe; substitute an alternative drug.",
+   "lecture": "CV85",
+   "lectures": [
+    "CV85",
+    "CV96"
+   ]
+  },
+  {
+   "name": "Thyroid storm",
+   "presentation": "A 34-year-old woman with months of weight loss, heat intolerance and protruding eyes, never treated, becomes agitated and delirious the day after an emergency appendectomy. Temp 40.2 C, pulse 162 and irregular, BP 150/60; drenching sweat, tremor, diffuse non-tender neck swelling.",
+   "workup": "TSH <0.01 mIU/L, free T4 6.8 ng/dL, T3 high; TSH-receptor antibodies positive. ECG: fast narrow-complex rhythm with no P waves. Glucose 186 mg/dL, ALT 98 U/L, Ca2+ 10.6 mg/dL.",
+   "management": "Beta blocker first (propranolol, or esmolol) to control heart rate before an arrhythmia; then a thionamide (methimazole, or PTU when this severe), iodine an hour later, glucocorticoids; cooling, fluids and treatment of the trigger.",
+   "lecture": "CV85",
+   "lectures": [
+    "CV85",
+    "CV83"
+   ]
+  },
+  {
+   "name": "Amiodarone pulmonary toxicity",
+   "presentation": "A 71-year-old former smoker started a long-half-life antiarrhythmic after an arrest from VT 14 months ago. He now has 2 months of dry cough, exertional breathlessness and low-grade fever. SpO2 91% on room air; fine bibasilar crackles; no JVD or leg edema.",
+   "workup": "CT: bilateral peripheral reticular and ground-glass opacities. PFTs restrictive, DLCO 45% predicted. BNP 60 pg/mL; EF unchanged at 40%. Biopsy: interstitial inflammation with type II pneumocyte hyperplasia.",
+   "management": "Stop the drug (it lingers for months) and give glucocorticoids; switch to another antiarrhythmic. Prevention: baseline and yearly chest X-ray, PFTs in some, extra caution in smokers.",
+   "lecture": "CV85",
+   "lectures": [
+    "CV85",
+    "CV96"
+   ]
+  },
+  {
+   "name": "Amiodarone-induced hypothyroidism",
+   "presentation": "A 69-year-old woman started on an iodinated antiarrhythmic after a VF arrest 8 months ago now has fatigue, 5 kg weight gain, constipation, dry skin, thinning hair and constant chilliness. Pulse 54, BP 128/84; ankle reflexes relax slowly.",
+   "workup": "TSH 18 mIU/L, free T4 0.6 ng/dL, T3 low with reverse T3 high (blocked T4-to-T3 conversion); ALT mildly raised; slit lamp: fine whorled corneal deposits.",
+   "management": "Levothyroxine replacement; the antiarrhythmic can usually be continued if still needed; check a thyroid panel and LFTs at baseline and periodically while on it.",
+   "lecture": "CV96",
+   "lectures": [
+    "CV96",
+    "CV85"
+   ]
+  },
+  {
+   "name": "Digoxin toxicity",
+   "presentation": "An 83-year-old woman with heart failure and AF takes furosemide, lisinopril and a rate-control drug started years ago. After 4 days of diarrhea she has nausea, vomiting, poor appetite, fatigue and new confusion. Pulse 48 and regular, BP 108/64.",
+   "workup": "ECG: regular junctional rhythm at 48 despite known AF, frequent ventricular bigeminy, sagging down-sloping ST depression. K+ 2.9 mEq/L, Mg2+ 1.4 mg/dL, creatinine 2.1 mg/dL; serum drug level 3.6 ng/mL.",
+   "management": "Drug-specific antibody Fab fragments for dangerous arrhythmia, K+ >5 or end-organ effects; replace K+ and give magnesium (protects against torsades); stop the drug and interacting agents (amiodarone, verapamil, quinidine).",
+   "lecture": "CV96",
+   "lectures": [
+    "CV96",
+    "CV82",
+    "CV85",
+    "CV83"
+   ]
+  },
+  {
+   "name": "Doxorubicin cardiomyopathy",
+   "presentation": "A 52-year-old woman who finished breast cancer chemotherapy with an intercalating agent 10 months ago (cumulative 480 mg/m2) has 6 weeks of orthopnea, waking breathless at night and nocturia. Pulse 112, BP 102/68; bibasilar crackles, an S3, JVP 10 cm.",
+   "workup": "Echo: dilated LV with global hypokinesis, EF 30% (55% before chemotherapy); valves normal; coronary angiography normal. Endomyocardial biopsy (rarely needed): myocyte vacuolization and myofibril loss.",
+   "management": "Standard HFrEF therapy (ACE inhibitor/ARB/ARNI, beta blocker, MRA, SGLT2 inhibitor, diuretic); do not re-expose - injury is dose-dependent and largely irreversible. Prevention: baseline and periodic echo, cumulative dose limits.",
+   "lecture": "CV96",
+   "lectures": [
+    "CV96",
+    "CV97",
+    "CV94"
+   ]
+  },
+  {
+   "name": "ACE inhibitor angioedema",
+   "presentation": "A 52-year-old Black man started on a new antihypertensive 3 weeks ago wakes with swelling of his lips and tongue that has grown over 2 hours; his voice is muffled but there is no stridor. No hives, itching or wheeze; BP 148/90, SpO2 97%. No prior episodes or family history.",
+   "workup": "Non-pitting, non-itchy swelling of lips and tongue without urticaria; C4 normal, C1-esterase level and function normal; tryptase normal. Mechanism: bradykinin is no longer broken down.",
+   "management": "Protect the airway first; stop the drug for good and switch to an ARB; icatibant (bradykinin B2 receptor blocker) can help; antihistamine, epinephrine and glucocorticoid as needed, though they work less well for bradykinin swelling.",
+   "lecture": "CV96",
+   "lectures": [
+    "CV96"
+   ]
+  },
+  {
+   "name": "Hereditary angioedema",
+   "presentation": "A 19-year-old woman has had attacks since age 12 of painless, non-itchy swelling of a hand, the lips or eyelids lasting 2-4 days, plus bouts of severe crampy abdominal pain with vomiting, often after dental work or stress. Her father has the same. No hives; antihistamines fail.",
+   "workup": "C4 low even between attacks; C1-esterase-inhibitor level and function low; C1q normal; tryptase normal. CT during an abdominal attack: edematous bowel wall with free fluid.",
+   "management": "Acute attacks: icatibant (bradykinin B2 receptor antagonist) or C1-esterase-inhibitor concentrate, with airway protection - epinephrine and antihistamines do not work; prophylaxis before dental or surgical procedures.",
+   "lecture": "CV96",
+   "lectures": [
+    "CV96"
+   ]
+  },
+  {
+   "name": "ACE inhibitor cough",
+   "presentation": "A 61-year-old woman started a new blood-pressure pill 6 weeks ago and since then has a persistent dry, tickling hack, worse at night, with no sputum, fever, postnasal drip, heartburn or wheeze. She has never smoked. Lungs clear; nose and throat normal.",
+   "workup": "CXR normal; spirometry normal; no eosinophilia. The hacking stops within 1-4 weeks of withdrawing the drug and returns on rechallenge - bradykinin and substance P are no longer broken down.",
+   "management": "Stop the drug and switch to an ARB, which blocks the AT1 receptor without touching ACE or bradykinin; antitussive syrups will not help.",
+   "lecture": "CV104",
+   "lectures": [
+    "CV104",
+    "CV96"
+   ]
+  }
+ ]
+}
