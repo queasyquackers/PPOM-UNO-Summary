@@ -1,0 +1,43 @@
+{
+  "title": "Plaques, Rhythms &amp; Valves",
+  "description": "CPR Block 2 board-prep matching game — bugs, drugs by class, and buzzword-free clinical correlates from lectures CV55-CV112 (OMM excluded).",
+  "issue": "Block VI",
+  "slogan": "Lectures CV55&ndash;CV112",
+  "footer": "Built from CPR Block 2 lecture summaries (CV55&ndash;CV112, OMM excluded) &middot; verify against source material",
+  "store": "mgcpr2",
+  "data": "cpr2/matching_data.json",
+  "out": "cpr2_matching_game.html",
+  "cats": {
+    "bugs": {
+      "label": "Bugs", "anchorLabel": "Bug",
+      "anchors": [
+        {"field": "name", "label": "Bug"},
+        {"field": "disease", "label": "Disease"}
+      ],
+      "attrs": [
+        {"field": "micro", "label": "Micro & Lab ID"},
+        {"field": "presentation", "label": "Presentation"},
+        {"field": "disease", "label": "Disease"}
+      ]
+    },
+    "drugs": {
+      "label": "Drugs", "anchorLabel": "Drug",
+      "filter": {
+        "field": "groups", "label": "Drug classes", "summary": "Filter by drug class",
+        "order": ["Antiarrhythmics", "Angina", "Heart failure", "Lipid-lowering"]
+      },
+      "attrs": [
+        {"field": "mechanism", "label": "Mechanism"},
+        {"field": "adverseEffects", "label": "Adverse Effects"}
+      ]
+    },
+    "correlates": {
+      "label": "Clinical Correlates", "anchorLabel": "Diagnosis",
+      "attrs": [
+        {"field": "presentation", "label": "Presentation"},
+        {"field": "workup", "label": "Labs & Workup"},
+        {"field": "management", "label": "Management"}
+      ]
+    }
+  }
+}

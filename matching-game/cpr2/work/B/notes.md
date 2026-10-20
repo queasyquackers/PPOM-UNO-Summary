@@ -1,0 +1,21 @@
+# B notes - lecture conflicts and choices
+
+- CV59 does not separate methanol from ethylene glycol (only "osmolar gap"), so they are one item. Fomepizole/dialysis management is standard care, not taught in CV59.
+- CV59 names RTA types 1, 2, 4 only in the cause table (type 2 = HCO3- loss; 1 and 4 = failure to excrete H+). Urine pH / K+ / stone features on the RTA cards are standard teaching beyond the slide; they do not contradict it.
+- CV59 chronic respiratory acidosis rule is 0.3 mEq/L per mmHg (Costanzo/other sources use 0.35-0.4). Card values (PCO2 62, HCO3 31) fit both.
+- Chronic respiratory acidosis card uses an ALS patient (CV59 Slide 29 lists ALS) so it cannot be confused with E's COPD exacerbation; avoid set on presentation anyway, as ASSIGNMENTS asks.
+- CV58 gives only the crisis thresholds (>180 and/or >120); hypertensive emergency end-organ findings and MAP-lowering rule are standard care.
+- CV60 defines PH as mPAP >25 mmHg (current threshold 20); card uses mPAP 48, which satisfies both.
+- CV60 says GPA treatment is "similar to Goodpasture". The GPA management card leads with glucocorticoids + rituximab/cyclophosphamide and keeps plasmapheresis for severe cases (current practice) so the two management cards stay distinguishable; the Goodpasture card leads with plasmapheresis as the lecture teaches.
+- CV73 calls Factor V Leiden a "deficiency" aloud; slide (and card) treat it as a point mutation causing APC resistance.
+- CV73 lecturer says submassive-PE treatment will not be asked; the stable-PE card is a low-risk PE (normal RV, normal troponin) managed with anticoagulation, matching his "normotensive = anticoagulate and watch".
+- CV63 lists type I as chylomicrons up AND VLDL up, type III as chylomicrons up and VLDL up. Cards say "chylomicrons markedly up, LDL/HDL low" (type I) and "chylomicron remnants and IDL, cholesterol-rich VLDL" (type III) - consistent with the lecture and with standard Fredrickson teaching.
+- CV62: niacin lowers Lp(a) (lecture). Card adds that it has not reduced events (outcome trials) - does not contradict.
+- CV62 lecturer attributes Niemann-Pick C to a lysosomal enzyme deficiency; slide/card use the cholesterol-export (NPC1) framing, as the summary recommends.
+- CV75 gives early post-MI pericarditis "NSAIDs if needed". Card says high-dose aspirin (an NSAID) is preferred over other NSAIDs/steroids early after MI - consistent with the lecture and with guideline caution about scar healing.
+- CV66 puts free wall rupture at 3-7 days, CV75 at 5-14 days; card uses day 5, inside both. Papillary muscle rupture: CV66 3-7 d, CV75 3-5 d; card uses day 4.
+- CV66 says VF is most likely within 1 h (pre-hospital deaths) and "usually 4-24 h"; CV75 says 0-24 h. Card: 40 min into the MI, "most common complication of the first 24 h".
+- CV75 says UA, NSTEMI and STEMI look identical at the bedside, so presentation avoids are set among the three ACS items; their workup cards (troponin, ECG) carry the separation.
+- Post-thrombotic syndrome vs C's Chronic venous insufficiency: separable (prior DVT + recanalized deep veins vs "no prior clot", deep veins normal), so no avoid declared.
+- CV64 (slides 19-23) teaches familial combined hyperlipidemia (TC 250-500, TG 250-750, high apoB, premature CAD) - added as an item. CV64 also lists "familial HDL deficiency" as an ABCA1 defect; CV63 attributes hypoalphalipoproteinemia to apoA-I/A-II catabolism. The hypoalpha card follows CV63 and does not name a gene.
+- Self-review cross-check against C.json: no qa overlap; C's New LBBB already avoids STEMI/NSTEMI/UA on presentation; C's TIA separates from the embolic-stroke card by resolution + negative MRI.

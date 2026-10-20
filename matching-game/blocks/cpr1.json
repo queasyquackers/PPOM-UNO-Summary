@@ -3,6 +3,7 @@
   "description": "CPR Block 1 board-prep matching game — drugs, transporters, formulas, correlates, ECG findings and OMM from lectures CV1-CV54.",
   "issue": "Block V",
   "slogan": "Lectures CV1&ndash;CV54",
+  "footer": "Built from CPR Block 1 lecture summaries (CV1&ndash;CV54) &middot; verify against source material",
   "store": "mgcpr1",
   "data": "cpr1/matching_data.json",
   "out": "cpr1_matching_game.html",

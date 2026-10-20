@@ -3,6 +3,7 @@
   "description": "Block 4 board-prep matching game — bugs, drugs, and clinical correlates from lectures 149-192.",
   "issue": "Block IV",
   "slogan": "Lectures 149&ndash;192",
+  "footer": "Built from Block 4 lecture slides (L149&ndash;192) &middot; verify against source material",
   "store": "mgb4",
   "data": "matching_data.json",
   "out": "block4_matching_game.html",

@@ -1,0 +1,944 @@
+{
+  "bugs": [
+    {
+      "name": "Staphylococcus aureus",
+      "disease": "Acute tricuspid endocarditis in a person who injects drugs",
+      "micro": "Gram-positive cocci in grape-like clusters; catalase-positive and coagulase-positive (plasma clots in the tube); beta-hemolytic golden colonies; fibronectin-binding proteins and clumping factor let it attach to a normal valve",
+      "presentation": "26-year-old woman who injects heroin and fentanyl: 3 days of rigors, T 39.8 C, cough with blood-streaked sputum and right pleuritic pain. HR 122, BP 98/60; fluctuant abscess at a groin injection site; new holosystolic murmur at the left lower sternal border, louder breathing in.",
+      "lecture": "CV105",
+      "lectures": [
+        "CV105",
+        "CV108",
+        "CV91",
+        "CV99"
+      ]
+    },
+    {
+      "name": "Staphylococcus aureus",
+      "disease": "Infected (mycotic) abdominal aortic aneurysm",
+      "micro": "Gram-positive cocci in grape-like clusters; catalase-positive and coagulase-positive (plasma clots in the tube); beta-hemolytic golden colonies; fibronectin-binding proteins and clumping factor let it attach to a normal valve",
+      "presentation": "71-year-old man on hemodialysis, 3 weeks after a bloodstream infection from his catheter: T 38.6 C, constant back and upper abdominal pain, tender pulsatile mass above the umbilicus. CT: 4.8 cm saccular infrarenal aortic bulge with periaortic stranding, not present 6 months ago.",
+      "lecture": "CV78",
+      "lectures": [
+        "CV78"
+      ]
+    },
+    {
+      "name": "Staphylococcus epidermidis",
+      "disease": "Early prosthetic valve endocarditis (within 2 months of surgery)",
+      "micro": "Gram-positive cocci in clusters; catalase-positive but coagulase-negative; novobiocin-sensitive; gamma (non-hemolytic); slime-layer capsule builds a biofilm on catheters, joints and artificial valves",
+      "presentation": "67-year-old woman 5 weeks after mitral replacement with a mechanical prosthesis: 2 weeks of evening temperatures of 37.9-38.3 C, night sweats, fatigue; sternal wound healed. HR 96; new apical holosystolic murmur; TEE: paravalvular leak, small mobile mass on the sewing ring.",
+      "lecture": "CV105",
+      "lectures": [
+        "CV105",
+        "CV91",
+        "CV108"
+      ],
+      "avoid": [
+        "Corynebacterium species (diphtheroids)"
+      ]
+    },
+    {
+      "name": "Viridans streptococci (S. mutans, S. sanguinis, S. mitis)",
+      "disease": "Subacute endocarditis on a damaged native valve after dental work",
+      "micro": "Gram-positive cocci in chains; catalase-negative; alpha-hemolytic (green) colonies; optochin-resistant and bile-insoluble; bile-esculin negative and no Lancefield group; dextran makes them stick to fibrin-platelet clumps",
+      "presentation": "52-year-old woman who had rheumatic fever as a child in Pakistan had infected gums deep-scaled 6 weeks ago. Since then: temperatures to 38.4 C, night sweats, 4 kg weight loss. Louder apical holosystolic murmur, spleen tip palpable; Hb 10.6 g/dL; blood bottles positive in 36 h.",
+      "lecture": "CV105",
+      "lectures": [
+        "CV105",
+        "CV108",
+        "CV91"
+      ]
+    },
+    {
+      "name": "Viridans streptococci (S. mutans, S. sanguinis, S. mitis)",
+      "disease": "Late prosthetic valve endocarditis (a year or more after surgery)",
+      "micro": "Gram-positive cocci in chains; catalase-negative; alpha-hemolytic (green) colonies; optochin-resistant and bile-insoluble; bile-esculin negative and no Lancefield group; dextran makes them stick to fibrin-platelet clumps",
+      "presentation": "66-year-old woman with a bioprosthetic mitral valve placed 3 years ago had a deep dental scaling 6 weeks ago. Since then: low-grade temperatures, fatigue, 3 kg weight loss; T 38.1 C, HR 92, ESR 64 mm/h. TEE: 8 mm mobile mass on one prosthetic leaflet, no abscess.",
+      "lecture": "CV91",
+      "lectures": [
+        "CV91",
+        "CV105"
+      ]
+    },
+    {
+      "name": "Streptococcus gallolyticus (S. bovis)",
+      "disease": "Endocarditis with an occult colorectal cancer",
+      "micro": "Gram-positive cocci in chains; catalase-negative; Lancefield D but not enterococcal: bile-esculin positive (agar turns black), yet no growth in 6.5% NaCl and PYR-negative",
+      "presentation": "68-year-old woman: 6 weeks of low-grade fevers and fatigue, 3 months of thinner stools with occasional dark blood; no dental work, catheters or procedures. T 38.0 C, pale, new apical holosystolic murmur; Hb 9.4 g/dL, MCV 72 fL.",
+      "lecture": "CV105",
+      "lectures": [
+        "CV105",
+        "CV108"
+      ]
+    },
+    {
+      "name": "Enterococcus faecalis",
+      "disease": "Endocarditis after urinary or bowel instrumentation",
+      "micro": "Gram-positive cocci in pairs and short chains; catalase-negative; Lancefield D; bile-esculin positive, grows in 6.5% NaCl and PYR-positive; capsule resists phagocytosis",
+      "presentation": "79-year-old man had a transurethral resection of the prostate 3 weeks ago and a bladder catheter for 10 days. Now 2 weeks of fatigue, T 38.3 C, HR 98 and a new apical holosystolic murmur radiating to the axilla; urinalysis 40 WBC/hpf. No dental work.",
+      "lecture": "CV105",
+      "lectures": [
+        "CV105",
+        "CV108"
+      ]
+    },
+    {
+      "name": "Nutritionally variant streptococci (Abiotrophia, Granulicatella)",
+      "disease": "Culture-negative endocarditis after a tooth extraction",
+      "micro": "Viridans-like oral gram-positive cocci in chains that cannot make pyridoxal: no growth on routine blood agar, but grow on B6-supplemented media or as tiny satellite colonies around a streak of a pyridoxal-secreting coagulase-positive coccus",
+      "presentation": "64-year-old woman with a bicuspid aortic valve: 6 weeks of low-grade temperatures and fatigue that began 2 weeks after a tooth extraction. Diastolic murmur at the left sternal border; ESR 70 mm/h. Routine aerobic and anaerobic blood bottles are still without growth at day 5.",
+      "lecture": "CV105",
+      "lectures": [
+        "CV105",
+        "CV108"
+      ],
+      "avoid": [
+        "HACEK group"
+      ]
+    },
+    {
+      "name": "Corynebacterium species (diphtheroids)",
+      "disease": "Pacemaker-lead or prosthetic device endocarditis",
+      "micro": "Pleomorphic, club-shaped gram-positive rods in V and palisade arrangements; catalase-positive; normal skin and upper-airway flora that make no toxin; enriched and isolated on Loeffler medium",
+      "presentation": "70-year-old man with a dual-chamber pacemaker placed 5 months ago: 4 weeks of low-grade temperatures and malaise; T 38.0 C, generator pocket not inflamed. TEE: 1.1 cm mobile mass on the right ventricular lead. Two of four blood bottles turn positive on day 3.",
+      "lecture": "CV105",
+      "lectures": [
+        "CV105"
+      ],
+      "avoid": [
+        "Staphylococcus epidermidis"
+      ]
+    },
+    {
+      "name": "Listeria monocytogenes",
+      "disease": "Bacteremia in a pregnant or immunosuppressed adult",
+      "micro": "Short gram-positive rods; catalase-positive; tumbling motility at room temperature; narrow zone of beta hemolysis; grows at refrigerator temperature (cold enrichment); facultative intracellular, spreads cell to cell on actin tails",
+      "presentation": "31-year-old woman at 29 weeks' gestation ate unpasteurized queso fresco 10 days ago. Now T 38.7 C, myalgia, low back pain and loose stools; HR 108, fetal heart rate 172/min. No murmur, no urinary symptoms, no sick contacts.",
+      "lecture": "CV105",
+      "lectures": [
+        "CV105",
+        "CV108"
+      ]
+    },
+    {
+      "name": "HACEK group",
+      "disease": "Gram-negative native-valve endocarditis in a non-drug user",
+      "micro": "Fastidious pleomorphic gram-negative bacilli and coccobacilli from normal mouth flora; need CO2-enriched incubation and often 5-10 days before blood bottles flag; capsule in some members resists phagocytosis",
+      "presentation": "66-year-old man with severe periodontitis who has never used drugs: 2 months of low-grade temperatures, 6 kg weight loss and a new apical holosystolic murmur. Blood bottles drawn on admission flag positive only on day 10 of incubation.",
+      "lecture": "CV105",
+      "lectures": [
+        "CV105",
+        "CV108",
+        "CV91"
+      ]
+    },
+    {
+      "name": "Coxiella burnetii",
+      "disease": "Q fever endocarditis",
+      "micro": "Tiny pleomorphic coccobacilli that barely take the Gram stain; obligate intracellular, so routine blood cultures stay sterile; spore-like form survives in dust; diagnosed by serology (phase I IgG 1:800 or higher) or PCR",
+      "presentation": "60-year-old goat-dairy worker with a mechanical aortic valve placed 6 years ago: 6 months of night sweats, fatigue and 5 kg weight loss. T 37.9 C, finger clubbing, liver and spleen both palpable, new paravalvular leak murmur. Three sets of blood bottles sterile after 7 days.",
+      "lecture": "CV105",
+      "lectures": [
+        "CV105",
+        "CV108"
+      ]
+    },
+    {
+      "name": "Bartonella quintana",
+      "disease": "Culture-negative endocarditis in a homeless person with lice",
+      "micro": "Small, poorly staining gram-negative bacilli; facultative intracellular in red cells and endothelial cells; spread in body-louse feces; diagnosed by serology or PCR of excised valve tissue rather than culture",
+      "presentation": "48-year-old man living in a shelter with heavy alcohol use; lice in his clothing seams and scratched skin. 3 months of fevers, fatigue and 7 kg weight loss; new early diastolic murmur at the left sternal border; spleen tip palpable. Six blood bottles show no growth.",
+      "lecture": "CV105",
+      "lectures": [
+        "CV105"
+      ]
+    },
+    {
+      "name": "Bartonella henselae",
+      "disease": "Culture-negative endocarditis in a cat owner",
+      "micro": "Small, poorly staining gram-negative bacilli; facultative intracellular in red cells and endothelial cells; silver (Warthin-Starry) stain of excised valve shows clumped bacilli; high IgG titer or valve PCR; carried by cats and their fleas",
+      "presentation": "51-year-old woman with known mitral regurgitation who fosters kittens, healed scratches on both hands: 3 months of low-grade fevers, fatigue, 6 kg weight loss. T 38.0 C, louder apical holosystolic murmur, spleen tip palpable. Six blood bottles sterile; no farm animals or lice.",
+      "lecture": "CV105",
+      "lectures": [
+        "CV105"
+      ]
+    },
+    {
+      "name": "Legionella pneumophila",
+      "disease": "Culture-negative prosthetic valve endocarditis",
+      "micro": "Faintly staining thin gram-negative bacilli; extremely fastidious - grows only on buffered charcoal yeast extract agar with cysteine and iron, so routine blood bottles stay sterile; facultative intracellular; lives in amoebae in warm water",
+      "presentation": "70-year-old man with a bioprosthetic aortic valve placed 8 months ago at a hospital that later traced a cluster of lung infections to its hot-water system: 2 months of low-grade fevers, sweats, 4 kg weight loss. TEE: small mass on the prosthesis. Bottles sterile at day 7.",
+      "lecture": "CV105",
+      "lectures": [
+        "CV105"
+      ]
+    },
+    {
+      "name": "Pseudomonas aeruginosa",
+      "disease": "Gram-negative endocarditis in a person who injects drugs",
+      "micro": "Gram-negative rods; oxidase-positive, non-lactose fermenter, strict aerobe; blue-green pyocyanin pigment and grape-like odor on agar; exotoxin A inactivates EF-2; mucoid alginate strains in chronically infected airways",
+      "presentation": "35-year-old man who injects crushed oxycodone tablets: 9 days of fevers to 39.4 C that persist after 5 days of IV vancomycin. Murmurs at the left lower sternal border and the apex; TEE shows masses on both tricuspid and mitral leaflets and a mitral ring abscess.",
+      "lecture": "CV105",
+      "lectures": [
+        "CV105"
+      ]
+    },
+    {
+      "name": "Pseudomonas aeruginosa",
+      "disease": "Chronic airway infection in cystic fibrosis",
+      "micro": "Gram-negative rods; oxidase-positive, non-lactose fermenter, strict aerobe; blue-green pyocyanin pigment and grape-like odor on agar; exotoxin A inactivates EF-2; mucoid alginate strains in chronically infected airways",
+      "presentation": "16-year-old with cystic fibrosis: FEV1 fell from 78% to 55% predicted over a year, with daily thick green sputum, crackles over both upper lobes and clubbing. Eosinophil count and total IgE are normal. No wheeze, no brown mucus plugs.",
+      "lecture": "CV109",
+      "lectures": [
+        "CV109",
+        "CV112"
+      ]
+    },
+    {
+      "name": "Candida albicans",
+      "disease": "Fungal endocarditis in a person who injects drugs",
+      "micro": "Oval budding yeast with pseudohyphae (elongated buds that stay attached - not true hyphae); germ tube positive at 37 C; grows on routine blood agar and Sabouraud; normal skin, mouth and gut flora",
+      "presentation": "30-year-old woman who injects heroin: 3 weeks of fevers and fatigue despite 10 days of IV vancomycin plus piperacillin-tazobactam; T 38.6 C. Holosystolic murmur at the left lower sternal border, louder on inspiration; fluffy white lesions in both retinas. TEE: 2.4 cm mass.",
+      "lecture": "CV105",
+      "lectures": [
+        "CV105",
+        "CV107",
+        "CV108"
+      ]
+    },
+    {
+      "name": "Aspergillus fumigatus",
+      "disease": "Fungal endocarditis after cardiac surgery",
+      "micro": "Mold with narrow septate hyphae branching at acute (about 45 degree) angles; conidiophores end in a fan-shaped head of spore chains; rarely grows in blood bottles, so serum galactomannan and tissue histology carry the diagnosis",
+      "presentation": "61-year-old man 3 months after mitral valve replacement, also on prednisone for lung disease: 5 weeks of temperatures to 38.4 C, then a sudden cold, pulseless left leg. TEE: 3 cm mass on the prosthesis. Six blood bottles show no growth; no animal or louse exposure.",
+      "lecture": "CV105",
+      "lectures": [
+        "CV105",
+        "CV107",
+        "CV108"
+      ]
+    },
+    {
+      "name": "Aspergillus fumigatus",
+      "disease": "Allergic bronchopulmonary disease in asthma or cystic fibrosis",
+      "micro": "Ubiquitous mold with narrow septate hyphae branching at acute angles; immediate skin-prick wheal to its antigen, high specific IgE and serum precipitins; hyphae seen on special stains inside mucus plugs",
+      "presentation": "17-year-old with cystic fibrosis: 2 months of new wheeze and coughing up firm brown mucus plugs; FEV1 fell from 70% to 56% predicted despite usual airway clearance. Eosinophils 1,100/uL, total IgE 1,900 IU/mL. CT: mucus-filled dilated central bronchi.",
+      "lecture": "CV112",
+      "lectures": [
+        "CV112"
+      ]
+    },
+    {
+      "name": "Streptococcus pyogenes",
+      "disease": "Acute rheumatic fever after untreated pharyngitis",
+      "micro": "Gram-positive cocci in chains; catalase-negative; beta-hemolytic (oxygen-stable hemolysin S clears the plate); bacitracin-sensitive, PYR-positive; Lancefield A carbohydrate; M protein; raised ASO or anti-DNase B titer shows recent infection",
+      "presentation": "9-year-old girl, 3 months after an untreated sore throat: 4 weeks of clumsiness, dropping cups, crying spells, and quick involuntary jerks of the face and hands that vanish in sleep. New apical holosystolic murmur; afebrile; ESR 42 mm/h; no joint swelling.",
+      "lecture": "CV106",
+      "lectures": [
+        "CV106",
+        "CV107",
+        "CV94",
+        "CV91"
+      ]
+    },
+    {
+      "name": "Rickettsia rickettsii",
+      "disease": "Rocky Mountain spotted fever",
+      "micro": "Small obligate intracellular gram-negative coccobacillus that takes the Gram stain poorly (use Giemsa); cannot make its own energy; grows in endothelial cytoplasm; dog tick vector with transovarial passage; IFA serology, PCR or skin biopsy",
+      "presentation": "8-year-old boy in Tennessee in June who plays in the woods with his dog: 4 days of T 39.5 C, severe headache, calf pain and vomiting. Today small red spots on the ankles and wrists only, with puffy hands and feet. Na+ 129 mEq/L, platelets 68,000/uL.",
+      "lecture": "CV106",
+      "lectures": [
+        "CV106"
+      ]
+    },
+    {
+      "name": "Trypanosoma cruzi",
+      "disease": "Acute Chagas disease",
+      "micro": "Protozoan; in the acute phase a Giemsa-stained blood smear shows C-shaped trypomastigotes with an undulating membrane and a free flagellum; PCR also works; passed in reduviid (kissing) bug feces through the bite wound",
+      "presentation": "6-year-old boy from rural Bolivia who sleeps in a mud-walled, thatched house: 10 days ago a firm, painless red swelling appeared on his cheek where something bit him in his sleep. Now T 38.3 C, HR 140, swollen nodes in front of that ear and hepatosplenomegaly.",
+      "lecture": "CV106",
+      "lectures": [
+        "CV106",
+        "CV107"
+      ]
+    },
+    {
+      "name": "Trypanosoma cruzi",
+      "disease": "Chronic Chagas cardiomyopathy",
+      "micro": "Protozoan; parasitemia is low in chronic disease, so IgG serology replaces the smear; myocardial biopsy shows pseudocysts packed with non-flagellated amastigotes inside muscle fibers; reduviid (kissing) bug vector",
+      "presentation": "47-year-old woman who grew up in an adobe house in rural El Salvador: two faints this month and palpitations; for years she has regurgitated undigested food. HR 46. Holter: multiform PVCs and runs of ventricular tachycardia. Echo: LV apical aneurysm, EF 40%.",
+      "lecture": "CV106",
+      "lectures": [
+        "CV106",
+        "CV107",
+        "CV108",
+        "CV97"
+      ]
+    },
+    {
+      "name": "Borrelia burgdorferi",
+      "disease": "Lyme carditis",
+      "micro": "Large microaerophilic spirochete seen on Giemsa or silver stain but rarely cultured; Ixodes deer-tick vector (white-footed mouse reservoir); two-tier serology: enzyme immunoassay, then Western blot",
+      "presentation": "27-year-old woman hiked in Connecticut in June and pulled a small tick off her calf. 5 weeks later she is lightheaded with a left facial droop; HR 40. Telemetry shows the PR interval swinging from 0.32 s to complete block and back within minutes. No murmur.",
+      "lecture": "CV107",
+      "lectures": [
+        "CV107",
+        "CV108",
+        "CV84",
+        "CV97"
+      ]
+    },
+    {
+      "name": "Corynebacterium diphtheriae",
+      "disease": "Myocarditis complicating membranous pharyngitis",
+      "micro": "Club-shaped gram-positive rods in V and palisade shapes with metachromatic granules on methylene blue; black colonies on tellurite agar, grown on Loeffler medium; Elek test confirms the phage-encoded toxin that inactivates EF-2",
+      "presentation": "7-year-old unvaccinated boy recently arrived from a refugee camp: sore throat, T 38.2 C, grey-white coating over both tonsils that bleeds when scraped. On day 10 he has a nasal voice, HR 44 with complete heart block and troponin I 1.8 ng/mL.",
+      "lecture": "CV107",
+      "lectures": [
+        "CV107",
+        "CV97"
+      ]
+    },
+    {
+      "name": "Coxsackievirus B",
+      "disease": "Viral myocarditis in a young adult",
+      "micro": "Non-enveloped, positive-sense single-stranded RNA enterovirus (picornavirus); fecal-oral and respiratory spread, peaking in summer and fall; detected by PCR of blood, stool or throat swab; injures myocytes directly and via cytotoxic T cells",
+      "presentation": "17-year-old footballer whose teammates passed around a summer stomach bug 2 weeks ago: 3 days of exertional dyspnea, palpitations and chest discomfort. T 37.9 C, HR 124 with runs of extra beats, an S3, bibasal crackles. Troponin I 2.4 ng/mL; echo LVEF 35% with global hypokinesis.",
+      "lecture": "CV107",
+      "lectures": [
+        "CV107",
+        "CV108",
+        "CV97"
+      ]
+    },
+    {
+      "name": "Coxsackievirus B",
+      "disease": "Acute viral pericarditis",
+      "micro": "Non-enveloped, positive-sense single-stranded RNA enterovirus (picornavirus); fecal-oral and respiratory spread, peaking in summer and fall; detected by PCR of blood, stool or throat swab; injures myocytes directly and via cytotoxic T cells",
+      "presentation": "31-year-old woman in August, a week after a cold that also gave her two children fever and loose stools: sharp central chest pain, worse lying flat and on deep breaths. T 37.9 C, HR 102. ECG: diffuse concave ST elevation, PR depression; troponin, echo normal.",
+      "lecture": "CV108",
+      "lectures": [
+        "CV108",
+        "CV107"
+      ]
+    },
+    {
+      "name": "Coxsackievirus B",
+      "disease": "Epidemic pleurodynia",
+      "micro": "Non-enveloped, positive-sense single-stranded RNA enterovirus (picornavirus); fecal-oral and respiratory spread, peaking in summer and fall; detected by PCR of blood, stool or throat swab; injures myocytes directly and via cytotoxic T cells",
+      "presentation": "At a summer camp where several children are ill, a 12-year-old has T 38.9 C and sudden minutes-long spasms of stabbing lower-chest and upper-abdominal pain. Intercostal muscles are tender; ECG, troponin and chest film are normal. A camp-mate has aseptic meningitis.",
+      "lecture": "CV107",
+      "lectures": [
+        "CV107"
+      ]
+    },
+    {
+      "name": "Mycobacterium tuberculosis",
+      "disease": "Chronic pericarditis progressing to constriction",
+      "micro": "Slender acid-fast rods (Ziehl-Neelsen) that Gram stain poorly; obligate aerobe that takes weeks to grow on Lowenstein-Jensen; cord factor; caseating granulomas; pericardial fluid is a lymphocytic exudate with high adenosine deaminase",
+      "presentation": "38-year-old man from rural India with HIV, CD4 180/uL: 2 months of night sweats, evening fevers and 8 kg weight loss, then progressive dyspnea, ankle edema and ascites. JVP 14 cm, lungs clear. CT: pericardium 8 mm thick with a small effusion and patchy calcification.",
+      "lecture": "CV108",
+      "lectures": [
+        "CV108",
+        "CV107",
+        "CV112"
+      ]
+    },
+    {
+      "name": "Streptococcus pneumoniae",
+      "disease": "Lobar pneumonia in an older adult",
+      "micro": "Lancet-shaped gram-positive diplococci; catalase-negative; alpha-hemolytic; optochin-sensitive and bile-soluble (unlike oral alpha-hemolytic cocci); polysaccharide capsule swells with type-specific antiserum (quellung); IgA protease",
+      "presentation": "67-year-old man: 2 days of chills, T 39.4 C, right pleuritic pain and blood-streaked purulent sputum. RR 28, SpO2 91%. Dullness, bronchial breath sounds and more fremitus at the right base; WBC 19,000/uL; CXR: dense consolidation of the right lower lobe only.",
+      "lecture": "CV104",
+      "lectures": [
+        "CV104",
+        "CV109",
+        "CV108"
+      ]
+    },
+    {
+      "name": "Respiratory syncytial virus",
+      "disease": "Bronchiolitis in an infant",
+      "micro": "Enveloped, non-segmented negative-sense RNA paramyxovirus; its F (fusion) protein merges infected cells into multinucleated giant cells and is the target of the monoclonal antibody nirsevimab; rapid antigen or PCR on a nasal swab",
+      "presentation": "2-month-old boy born at 32 weeks, in December, whose brother in daycare has a cold: 2 days of runny nose, now coughing, grunting and taking half his usual feeds. T 38.1 C, RR 64, SpO2 89%; subcostal retractions, wheeze and fine crackles on both sides.",
+      "lecture": "CV109",
+      "lectures": [
+        "CV109",
+        "CV112"
+      ]
+    },
+    {
+      "name": "Parainfluenza virus",
+      "disease": "Croup (laryngotracheobronchitis)",
+      "micro": "Enveloped, negative-sense RNA paramyxovirus carrying a hemagglutinin-neuraminidase (HN) glycoprotein and an F protein; droplet spread, autumn peaks; diagnosis is clinical, with PCR of a nasopharyngeal swab if needed",
+      "presentation": "2-year-old boy in October whose sister had a cold last week: 2 days of runny nose and low fever, then a harsh cough worse at night and a high-pitched noise on breathing in, louder when he cries. Hoarse voice; T 38.1 C, RR 34, SpO2 96%; not toxic, drinking well, no drooling.",
+      "lecture": "CV104",
+      "lectures": [
+        "CV104",
+        "CV109"
+      ]
+    },
+    {
+      "name": "Haemophilus influenzae type b",
+      "disease": "Epiglottitis in an unimmunized toddler",
+      "micro": "Small gram-negative coccobacilli that need factor X (hemin) and factor V (NAD): grow on chocolate agar, or on blood agar only as satellites around a coagulase-positive coccus; polyribosylribitol phosphate capsule is the vaccine target",
+      "presentation": "3-year-old boy whose parents declined all vaccines: well at bedtime, woke at 2 a.m. with T 39.4 C, sore throat and a soft high-pitched noise on breathing in. Refuses to swallow, saliva runs from his mouth, voice muffled, no cough; HR 160, SpO2 94%; lungs clear.",
+      "lecture": "CV109",
+      "lectures": [
+        "CV109"
+      ]
+    },
+    {
+      "name": "Streptococcus agalactiae (group B)",
+      "disease": "Early-onset neonatal sepsis and pneumonia",
+      "micro": "Gram-positive cocci in chains; catalase-negative; beta-hemolytic; bacitracin-resistant; CAMP-test positive and hippurate-hydrolyzing; Lancefield B antigen; polysaccharide capsule; colonizes the maternal rectum and vagina",
+      "presentation": "Term boy, 14 hours old: grunting, RR 74, T 38.3 C, poor feeding. His mother's rectovaginal screen at 36 weeks was positive, membranes ruptured 22 hours before delivery, and she received no antibiotics in labor. CXR: bilateral hazy granular opacities.",
+      "lecture": "CV109",
+      "lectures": [
+        "CV109"
+      ]
+    },
+    {
+      "name": "Chlamydia trachomatis",
+      "disease": "Afebrile pneumonia of early infancy",
+      "micro": "Obligate intracellular bacterium with almost no peptidoglycan, so it does not Gram stain; infectious elementary body, replicating reticulate body; cytoplasmic inclusions on Giemsa; NAAT of a nasopharyngeal swab; acquired in the birth canal",
+      "presentation": "6-week-old girl born vaginally, afebrile: 2 weeks of worsening cough and RR 62; she had sticky eye discharge at 10 days of age. Fine crackles, no wheeze, T 37.2 C. Eosinophils 900/uL; CXR: hyperinflation with bilateral interstitial streaks.",
+      "lecture": "CV109",
+      "lectures": [
+        "CV109"
+      ]
+    },
+    {
+      "name": "Bordetella pertussis",
+      "disease": "Whooping cough in an unvaccinated young infant",
+      "micro": "Small gram-negative coccobacillus; strict aerobe, slow-growing on Regan-Lowe charcoal agar; PCR of a nasopharyngeal swab; its toxin ADP-ribosylates Gi, raising cAMP and causing lymphocytosis; filamentous hemagglutinin binds ciliated cells",
+      "presentation": "7-week-old unvaccinated boy, afebrile: a week of cold symptoms, then bursts of 10-15 coughs without a breath, ending in vomiting, cyanosis and a 20-second pause in breathing. Well between bursts; lungs clear. WBC 32,000/uL with 80% lymphocytes.",
+      "lecture": "CV109",
+      "lectures": [
+        "CV109",
+        "CV104"
+      ]
+    },
+    {
+      "name": "Mycoplasma pneumoniae",
+      "disease": "Atypical pneumonia in a school-age child or teen",
+      "micro": "Smallest free-living bacterium; no cell wall, so not seen on Gram stain and unaffected by beta-lactams; sterol (cholesterol) in its membrane; slow growth on Eaton agar; IgM cold agglutinins lyse red cells at 4 C; PCR of a throat swab",
+      "presentation": "14-year-old boy at a boarding school where several classmates are ill: a week of malaise, headache, sore throat and nagging dry cough; T 38.2 C, SpO2 96%, scattered crackles. CXR: patchy bilateral interstitial infiltrates. Hb 10.9 g/dL with a positive direct antiglobulin test.",
+      "lecture": "CV109",
+      "lectures": [
+        "CV109"
+      ]
+    },
+    {
+      "name": "Wuchereria bancrofti",
+      "disease": "Lymphatic filariasis",
+      "micro": "Filarial nematode spread by mosquitoes; adult worms live in lymphatics; sheathed microfilariae circulate at night, so a Giemsa-stained thick blood smear drawn near midnight is diagnostic; circulating antigen test; eosinophilia",
+      "presentation": "34-year-old man from coastal Tamil Nadu: for 2 years, recurring 3-5 day attacks of fever with a painful red streak running down the inner thigh. Now a large painless scrotal swelling that lets light through, and a firm, non-pitting swelling of the left lower leg. Eosinophils 11%.",
+      "lecture": "CV77",
+      "lectures": [
+        "CV77"
+      ]
+    },
+    {
+      "name": "Treponema pallidum",
+      "disease": "Tertiary syphilis with aortitis",
+      "micro": "Thin, tightly coiled spirochete too slender for Gram stain - seen by dark-field microscopy or silver stain; cannot be cultured; nonspecific RPR/VDRL screen confirmed by FTA-ABS; late disease obliterates the vasa vasorum (endarteritis)",
+      "presentation": "59-year-old man with several untreated sexually transmitted infections in his 20s: 4 months of hoarseness, a brassy cough and exertional dyspnea. BP 150/48; early diastolic murmur at the right upper sternal border. CXR: wide upper mediastinum, thin rim of calcium along the aorta.",
+      "lecture": "CV78",
+      "lectures": [
+        "CV78"
+      ]
+    },
+    {
+      "name": "Trichinella spiralis",
+      "disease": "Helminthic myocarditis",
+      "micro": "Roundworm whose larvae encyst in striated muscle as coiled larvae inside nurse cells, seen on muscle biopsy; marked eosinophilia and high CK; serology turns positive after 2-3 weeks; from undercooked pork or wild game",
+      "presentation": "41-year-old hunter ate undercooked bear sausage 3 weeks ago and had diarrhea that week. Now T 38.8 C, painful swollen calves and jaw muscles, palpitations and dyspnea. Eosinophils 4,800/uL (35%), CK 3,900 U/L, troponin I 0.9 ng/mL; ECG: diffuse T-wave inversion.",
+      "lecture": "CV97",
+      "lectures": [
+        "CV97",
+        "CV107"
+      ]
+    }
+  ],
+  "correlates": [
+    {
+      "name": "Acute infective endocarditis in a person who injects drugs",
+      "presentation": "31-year-old woman who uses heroin intravenously: 4 days of rigors, T 39.9 C, HR 124, BP 96/58, pleuritic chest pain. Holosystolic murmur at the left lower sternal border that grows louder on inspiration; large v waves in the neck veins; track marks on both forearms.",
+      "workup": "Blood cultures 3/3: gram-positive cocci in clusters, coagulase-positive. TTE: 1.8 cm mobile mass on a tricuspid leaflet with severe regurgitation. CT chest: multiple peripheral nodules, several cavitating. WBC 18,500/uL.",
+      "management": "Blood cultures before antibiotics, then IV vancomycin (switch to an anti-staphylococcal penicillin if methicillin-sensitive); surgery for persistent bacteremia, abscess or a large mobile mass; addiction treatment.",
+      "lecture": "CV105",
+      "lectures": [
+        "CV105",
+        "CV108",
+        "CV91",
+        "CV99"
+      ]
+    },
+    {
+      "name": "Subacute infective endocarditis after a dental procedure",
+      "presentation": "62-year-old man with mitral prolapse and regurgitation had a molar pulled 5 weeks ago. Since then: evening temperatures to 38.1 C, night sweats, aching joints, 4 kg weight loss. HR 94; apical holosystolic murmur louder than last visit; spleen tip palpable; pale conjunctivae.",
+      "workup": "Blood cultures 3/3 at 36 h: gram-positive cocci in chains, catalase-negative, alpha-hemolytic, bile-esculin negative. TEE: 9 mm mass on the posterior mitral leaflet. Hb 10.4 g/dL, ESR 82 mm/h, rheumatoid factor positive, urine RBCs.",
+      "management": "Draw cultures before antibiotics; IV penicillin G or ceftriaxone for 4 weeks, usually curative without surgery; antibiotic prophylaxis before future gum or tooth manipulation.",
+      "lecture": "CV105",
+      "lectures": [
+        "CV105",
+        "CV108",
+        "CV91"
+      ]
+    },
+    {
+      "name": "Prosthetic valve endocarditis",
+      "presentation": "75-year-old man 7 weeks after surgical aortic replacement with a mechanical prosthesis: 3 weeks of evening temperatures to 38.3 C and fatigue. BP 118/50, new early diastolic murmur, INR 2.8. ECG: PR interval lengthened from 0.18 s to 0.28 s since discharge.",
+      "workup": "Blood cultures 4/4: gram-positive cocci in clusters, catalase-positive, coagulase-negative, novobiocin-sensitive. TEE: paravalvular leak, a 1.2 cm abscess cavity in the aortic root and a mobile mass on the sewing ring.",
+      "management": "Cultures before antibiotics; vancomycin plus rifampin for at least 6 weeks with gentamicin for the first 2; early redo surgery for the root abscess, dehiscence or new heart block.",
+      "lecture": "CV105",
+      "lectures": [
+        "CV105",
+        "CV91",
+        "CV108"
+      ]
+    },
+    {
+      "name": "Endocarditis with an occult colorectal tumor",
+      "presentation": "74-year-old man with 2 months of fatigue, evening temperatures to 38.0 C and 5 kg weight loss; no recent dental work, catheters or procedures. New soft early diastolic murmur at the left sternal border; pale conjunctivae; no hepatosplenomegaly.",
+      "workup": "Hb 9.1 g/dL, MCV 69 fL, ferritin 6 ng/mL, stool guaiac positive. Blood cultures 3/3: catalase-negative cocci in chains, bile-esculin positive, no growth in 6.5% NaCl, PYR-negative. TEE: 7 mm mass on an aortic cusp.",
+      "management": "Organism-directed IV penicillin or ceftriaxone, then colonoscopy to find and remove the polyp or carcinoma that let the organism into the blood.",
+      "lecture": "CV105",
+      "lectures": [
+        "CV105",
+        "CV108"
+      ]
+    },
+    {
+      "name": "Culture-negative endocarditis",
+      "presentation": "55-year-old sheep farmer with a bicuspid aortic valve: 4 months of evening temperatures, sweats and 7 kg weight loss. T 38.2 C, early diastolic murmur at the left sternal border, hepatosplenomegaly, clubbing. He has taken no antibiotics.",
+      "workup": "Three sets of blood bottles show no growth after 7 days. TEE: 8 mm mass on an aortic cusp. Phase I IgG to Coxiella burnetii 1:3,200; PCR of blood confirms. ESR 90 mm/h; ALT mildly raised.",
+      "management": "Draw extra bottles before any antibiotic; serology/PCR for Coxiella, Bartonella and other fastidious agents; for the Q fever form, doxycycline plus hydroxychloroquine for 18 months or more; surgery if the valve is destroyed.",
+      "lecture": "CV105",
+      "lectures": [
+        "CV105",
+        "CV108"
+      ]
+    },
+    {
+      "name": "Fungal endocarditis",
+      "presentation": "47-year-old woman fed for 8 months through a tunneled central line after bowel resection, with many antibiotic courses: 3 weeks of temperatures to 38.6 C, then a sudden cold, pulseless right leg. New apical holosystolic murmur; fluffy white lesions in both retinas.",
+      "workup": "TEE: 2.6 cm bulky mass on the mitral valve. Blood cultures grow oval budding yeast with pseudohyphae, germ-tube positive; beta-D-glucan raised. The femoral embolectomy clot contains the same organism.",
+      "management": "Remove the central line; early valve surgery for the large mass and embolism; IV echinocandin or liposomal amphotericin B, then long-term oral fluconazole; dilated eye examination.",
+      "lecture": "CV105",
+      "lectures": [
+        "CV105",
+        "CV107",
+        "CV108"
+      ]
+    },
+    {
+      "name": "Glomerulonephritis complicating endocarditis",
+      "presentation": "49-year-old man with 7 weeks of low-grade temperatures, 5 kg weight loss and a louder mitral regurgitation murmur now has cola-colored urine and ankle swelling. BP 152/94, T 38.0 C; spleen tip palpable. No recent sore throat or skin infection, no hemoptysis, no sinus disease.",
+      "workup": "Creatinine 2.6 mg/dL (baseline 0.9); urine: dysmorphic RBCs, RBC casts, protein 1.2 g/day. C3 low; ANCA and anti-GBM negative. Blood cultures 3/3 alpha-hemolytic cocci in chains. Biopsy: granular IgG and C3 deposits.",
+      "management": "Treat the valve infection with prolonged organism-directed IV antibiotics - the kidney lesion usually settles as circulating antigen clears; dose-adjust nephrotoxic drugs; immunosuppression is not first-line.",
+      "lecture": "CV105",
+      "lectures": [
+        "CV105"
+      ]
+    },
+    {
+      "name": "Septic embolism",
+      "presentation": "58-year-old man on day 4 of treatment for a 1.6 cm mobile mitral mass: T 38.9 C, sudden sharp left-upper-quadrant pain radiating to the left shoulder, then right flank pain with gross hematuria, then 20 minutes of clumsiness in the right hand.",
+      "workup": "CT abdomen: wedge-shaped non-enhancing defects in the spleen and right kidney. MRI brain: several small cortical infarcts. Blood cultures 3/3 coagulase-positive cocci in clusters. TEE: mitral mass now smaller and partly fragmented.",
+      "management": "Continue IV antibiotics; urgent valve surgery for a left-sided mass over 10 mm that has already thrown fragments; do not give anticoagulants or thrombolytics (bleeding into infarcts, rupture of infected aneurysms).",
+      "lecture": "CV105",
+      "lectures": [
+        "CV105",
+        "CV91",
+        "CV108"
+      ],
+      "avoid": [
+        "Acute infective endocarditis in a person who injects drugs",
+        "Fungal endocarditis"
+      ]
+    },
+    {
+      "name": "Nonbacterial thrombotic (marantic) endocarditis",
+      "presentation": "66-year-old woman with metastatic mucin-producing pancreatic adenocarcinoma: sudden right arm weakness and slurred speech, then left flank pain with hematuria 2 days later. T 36.9 C, HR 84; soft apical murmur; no injection drug use, no rash, no leg swelling.",
+      "workup": "TEE: several 3-5 mm sessile masses along the closure line of otherwise normal mitral leaflets, no leaflet destruction. Blood bottles sterile x3 with no prior antibiotics. D-dimer 4.8 ug/mL; antiphospholipid antibodies and ANA negative.",
+      "management": "Therapeutic heparin (unfractionated or low-molecular-weight; warfarin works poorly here); treat the underlying cancer; antibiotics are not indicated.",
+      "lecture": "CV105",
+      "lectures": [
+        "CV105",
+        "CV91",
+        "CV108"
+      ]
+    },
+    {
+      "name": "Acute rheumatic fever",
+      "presentation": "10-year-old boy recently arrived from Nepal had an untested sore throat 3 weeks ago. Now T 38.6 C and painful hot swelling that moved from right knee to left ankle to right wrist over 5 days, each joint settling as the next flared, and a new apical holosystolic murmur.",
+      "workup": "ASO 960 Todd units, anti-DNase B raised; ESR 96 mm/h, CRP 11 mg/dL; ECG: PR 0.24 s; echo: mitral regurgitation with thickened leaflets. Throat culture now grows nothing.",
+      "management": "Penicillin to eradicate the organism; acetaminophen until the diagnosis is secure, then high-dose aspirin or NSAIDs (steroids for severe carditis); then long-term monthly IM benzathine penicillin prophylaxis.",
+      "lecture": "CV106",
+      "lectures": [
+        "CV106",
+        "CV107",
+        "CV94",
+        "CV91"
+      ]
+    },
+    {
+      "name": "Rocky Mountain spotted fever",
+      "presentation": "16-year-old girl from Oklahoma, back 6 days ago from a week of camping with her dog: T 39.8 C, severe headache, myalgia, vomiting. On day 3 pink blanching macules appeared on the wrists and ankles; now petechial and spreading up the limbs to the trunk, palms and soles.",
+      "workup": "Platelets 62,000/uL, Na+ 128 mEq/L, AST 140 U/L, creatinine 1.4 mg/dL. Skin biopsy: small-vessel vasculitis with organisms inside endothelial cells on immunostain. Acute IFA IgG titer still low; it rises by week 2-3.",
+      "management": "Start doxycycline immediately on clinical suspicion, at any age, without waiting for serology; supportive care for vascular leak, hyponatremia and organ injury.",
+      "lecture": "CV106",
+      "lectures": [
+        "CV106"
+      ]
+    },
+    {
+      "name": "Chagas cardiomyopathy",
+      "presentation": "49-year-old man raised in an adobe house in rural Bolivia: a year of exertional dyspnea, palpitations and one faint, plus long-standing trouble swallowing and bowel movements only every 10 days. JVP 10 cm, an S3, ankle edema.",
+      "workup": "ECG: right bundle branch block plus left anterior fascicular block, multiform PVCs. Echo: dilated LV, EF 30%, thin apical aneurysm with thrombus; coronaries normal. Serology positive on two assays; barium: dilated aperistaltic esophagus.",
+      "management": "Guideline heart-failure therapy (ACE inhibitor or ARNI, beta blocker, MRA); anticoagulate for the apical thrombus; amiodarone or ICD for ventricular arrhythmia; antiparasitic drugs cannot undo established damage; transplant if refractory.",
+      "lecture": "CV106",
+      "lectures": [
+        "CV106",
+        "CV107",
+        "CV108",
+        "CV97"
+      ]
+    },
+    {
+      "name": "Lyme carditis",
+      "presentation": "24-year-old man who hiked in Massachusetts in July: a red patch on his thigh spread to 15 cm 4 weeks ago, then faded untreated. Now 2 days of lightheadedness, fatigue and an aching knee. HR 38, BP 104/66; no murmur, no edema, no recent sore throat.",
+      "workup": "Telemetry: PR 0.30 s progressing to complete heart block with a narrow escape rhythm, then back to first-degree block within minutes. Troponin mildly raised; echo normal. Two-tier serology positive: immunoassay, then IgM/IgG Western blot.",
+      "management": "Admit to telemetry; IV ceftriaxone, switching to oral doxycycline once the PR is under 0.30 s; temporary pacing if needed - the block almost always resolves, so a permanent pacemaker is usually unnecessary.",
+      "lecture": "CV107",
+      "lectures": [
+        "CV107",
+        "CV84",
+        "CV108",
+        "CV97"
+      ]
+    },
+    {
+      "name": "Diphtheritic myocarditis",
+      "presentation": "8-year-old unvaccinated girl from a conflict zone had a sore throat, T 38.3 C and marked swelling of the front of her neck 12 days ago. Now fatigue, a nasal voice, fluid coming out of her nose when she drinks, and HR 42; BP 94/60.",
+      "workup": "ECG: complete heart block with a wide escape rhythm; troponin I 2.1 ng/mL; echo: LVEF 40%. Throat swab on tellurite agar: black colonies of club-shaped gram-positive rods; Elek test confirms toxin production.",
+      "management": "Antitoxin at once on clinical suspicion (it neutralizes only unbound toxin) plus erythromycin or penicillin; temporary pacing; droplet isolation; vaccinate contacts and, after recovery, the patient.",
+      "lecture": "CV107",
+      "lectures": [
+        "CV107",
+        "CV97"
+      ]
+    },
+    {
+      "name": "Viral myocarditis",
+      "presentation": "26-year-old man, 12 days after a week of sore throat and diarrhea: 4 days of chest ache, exertional dyspnea and palpitations. T 38.1 C, HR 116, BP 108/70, an S3 and bibasal crackles. No drug use, no new medications, no recent travel.",
+      "workup": "Troponin I 3.1 ng/mL with CRP 120 mg/L (high CRP-to-troponin ratio); ECG: diffuse nonspecific ST-T changes; echo: LVEF 35%, global hypokinesis; normal coronary angiogram. Biopsy: lymphocytic infiltrate beside necrotic myocytes.",
+      "management": "Supportive guideline heart-failure therapy (ACE inhibitor, beta blocker, diuretic); no competitive sport for 3-6 months; endomyocardial biopsy only if fulminant or with life-threatening arrhythmia; mechanical support if in shock.",
+      "lecture": "CV108",
+      "lectures": [
+        "CV108",
+        "CV107",
+        "CV97"
+      ]
+    },
+    {
+      "name": "Acute pericarditis",
+      "presentation": "29-year-old man, 10 days after a cold: 2 days of sharp retrosternal pain that worsens lying flat or breathing deeply, radiating to the left trapezius ridge. T 38.0 C, HR 104, BP 126/78; a scratchy, three-part sound at the left sternal border. No prior MI or heart surgery.",
+      "workup": "ECG: concave ST elevation in I, II, aVL, aVF and V2-V6 with PR depression (PR elevation in aVR) and no reciprocal ST depression. Troponin normal; CRP 48 mg/L; echo: small effusion, normal wall motion.",
+      "management": "High-dose NSAID (ibuprofen or aspirin) plus colchicine for 3 months to cut recurrence; limit strenuous exercise; avoid anticoagulants; admit if the effusion is large, temperature is high or troponin rises.",
+      "lecture": "CV108",
+      "lectures": [
+        "CV108",
+        "CV107"
+      ]
+    },
+    {
+      "name": "Cardiac tamponade",
+      "presentation": "61-year-old woman with metastatic lung adenocarcinoma: a week of worsening breathlessness and dull chest fullness, now lightheaded and sweaty. BP 84/62, HR 128, RR 26, SpO2 96% on room air; neck veins distended to the jaw; lungs clear; no leg swelling, no recent MI or procedure.",
+      "workup": "ECG: sinus tachycardia with low-voltage QRS. CXR: enlarged cardiac silhouette, clear lung fields. Echo: large circumferential effusion, right atrial and right ventricular collapse in diastole, plethoric IVC that does not narrow.",
+      "management": "Emergent echo-guided pericardiocentesis; IV fluid bolus while preparing; avoid diuretics, nitrates and positive-pressure ventilation where possible; send fluid for cytology; pericardial window if it recurs.",
+      "lecture": "CV108",
+      "lectures": [
+        "CV108",
+        "CV107"
+      ],
+      "avoid": {
+        "management": [
+          "Ventricular free wall rupture"
+        ]
+      }
+    },
+    {
+      "name": "Constrictive pericarditis",
+      "presentation": "58-year-old man treated for pulmonary TB in his 30s and with CABG 6 years ago: 8 months of fatigue, abdominal swelling and leg edema. JVP 16 cm that rises further on inspiration; ascites; liver 4 cm below the costal margin; lungs clear; no murmur.",
+      "workup": "CT: pericardium 7 mm thick with calcified plaques. Echo: normal LV wall thickness, EF 60%, septum shifts toward the LV on inspiration, mitral inflow varies >25% with breathing. Cath: equal LV and RV diastolic pressures. BNP only 110 pg/mL.",
+      "management": "Diuretics for congestion; anti-inflammatory therapy only if markers show active inflammation; surgical pericardiectomy for chronic calcific disease; treat TB if still active.",
+      "lecture": "CV108",
+      "lectures": [
+        "CV108",
+        "CV107",
+        "CV98",
+        "CV99"
+      ]
+    },
+    {
+      "name": "Cardiac myxoma",
+      "presentation": "44-year-old woman: 3 months of dyspnea that worsens when she stands and eases lying down, two near-faints on standing, 5 kg weight loss, T 37.9 C, aching joints. Apical diastolic rumble that is louder sitting up and fades lying flat; no rheumatic fever history.",
+      "workup": "Echo: 5 cm mobile left atrial mass on a stalk attached to the septum near the fossa ovalis, prolapsing into the mitral orifice in diastole. ESR 68 mm/h, Hb 10.8 g/dL, IL-6 high. Biopsy: stellate cells in a loose mucopolysaccharide matrix.",
+      "management": "Prompt surgical excision with its septal attachment (risk of embolism and sudden obstruction); PRKAR1A testing and screening of relatives (Carney complex) if skin pigmentation, endocrine overactivity or recurrence.",
+      "lecture": "CV107",
+      "lectures": [
+        "CV107",
+        "CV99"
+      ]
+    },
+    {
+      "name": "Cardiac fibroma (Gorlin syndrome)",
+      "presentation": "12-year-old boy who has had three basal cell carcinomas excised from his face and back and jaw cysts removed at age 10, with a large head: he collapses while playing soccer. HR 170 on arrival.",
+      "workup": "ECG: monomorphic ventricular tachycardia. CMR: single 4 cm solid, non-contractile mass inside the LV free wall with central calcification and uniform late gadolinium enhancement. Germline PTCH1 mutation (chromosome 9q).",
+      "management": "Surgical resection if it causes arrhythmia or obstruction (it does not regress); ICD or antiarrhythmic drug if unresectable; dermatologic surveillance, strict sun protection and avoidance of radiotherapy.",
+      "lecture": "CV107",
+      "lectures": [
+        "CV107"
+      ]
+    },
+    {
+      "name": "Papillary fibroelastoma",
+      "presentation": "69-year-old woman: two 20-minute episodes of right-hand weakness and word-finding trouble in the past month. Afebrile, BP 138/82, regular pulse, no murmur, no weight loss. Carotid duplex shows no stenosis; no cancer, no lupus, no recent procedures.",
+      "workup": "TEE: 9 mm highly mobile mass on a short stalk on the aortic side of the right coronary cusp, with many fine frond-like arms; valve function normal. Blood cultures sterile, ESR normal. Histology: avascular fronds with collagen-elastic cores.",
+      "management": "Surgical excision of left-sided lesions (they embolize to the brain and coronary ostia), usually sparing the valve; antiplatelet therapy if not operated; right-sided lesions are a harder risk-benefit call.",
+      "lecture": "CV107",
+      "lectures": [
+        "CV107"
+      ]
+    },
+    {
+      "name": "Cardiac rhabdomyoma (tuberous sclerosis)",
+      "presentation": "5-month-old boy with clusters of sudden flexion jerks of the trunk and arms on waking, three oval pale patches on his back, and a soft systolic murmur. A prenatal ultrasound had shown masses inside the heart.",
+      "workup": "Echo: multiple well-circumscribed bright nodules in both ventricular walls and the septum, no outflow obstruction. EEG: chaotic high-voltage slowing with multifocal spikes. MRI: cortical tubers, subependymal nodules.",
+      "management": "Observe with serial echo - most regress during infancy; treat arrhythmia medically; surgery only for outflow obstruction; mTOR inhibitor (everolimus) for complications; TSC1/TSC2 testing and kidney imaging.",
+      "lecture": "CV107",
+      "lectures": [
+        "CV107"
+      ]
+    },
+    {
+      "name": "Cystic fibrosis",
+      "presentation": "15-month-old boy: chronic wet cough, two pneumonias (one admission), weight below the 3rd centile despite a big appetite, and bulky, greasy, foul-smelling stools. Nasal polyps; RR 36; scattered coarse crackles. Older sibling died in infancy of bowel obstruction.",
+      "workup": "Sweat chloride 92 mmol/L on two occasions (positive above 60); newborn screen showed high immunoreactive trypsinogen; fecal elastase 40 ug/g; homozygous F508del. Sputum grows coagulase-positive cocci.",
+      "management": "Daily airway clearance (chest physiotherapy, nebulized dornase alfa, hypertonic saline); aggressive antibiotics for flares; pancreatic enzymes, vitamins A, D, E, K, high-calorie diet; CFTR modulator when eligible; do not restrict activity.",
+      "lecture": "CV109",
+      "lectures": [
+        "CV109",
+        "CV110",
+        "CV112"
+      ]
+    },
+    {
+      "name": "Pediatric asthma exacerbation",
+      "presentation": "9-year-old boy with eczema and a mother with hay fever: 10 hours of wheeze and breathlessness after a 3-day cold, not relieved by one home albuterol nebulizer. Speaks in short phrases with suprasternal retractions; RR 38, HR 128, SpO2 90%; expiratory wheeze in all fields.",
+      "workup": "Peak flow 45% of personal best; after albuterol plus ipratropium: HR 90, RR 20, SpO2 98%. Interval history: daily symptoms at recess, waking with wheeze 2 nights a week, runs out of his rescue inhaler early. Eosinophils 600/uL.",
+      "management": "Repeated nebulized albuterol with ipratropium, oral corticosteroid burst, oxygen to keep SpO2 above 92%; then a daily inhaled corticosteroid (moderate persistent step), trigger avoidance and a written green-yellow-red action plan.",
+      "lecture": "CV109",
+      "lectures": [
+        "CV109",
+        "CV112"
+      ]
+    },
+    {
+      "name": "Meconium aspiration syndrome",
+      "presentation": "Girl born at 41 weeks after fetal heart-rate decelerations, delivered through thick, dark green, foul-smelling amniotic fluid: limp with blue hands and feet, Apgar 5 and 6. In the NICU: grunting, nasal flaring, intercostal retractions, RR 70, deep chest, diffuse rhonchi.",
+      "workup": "CXR: hyperinflated lungs, flattened diaphragms, coarse patchy streaky opacities, small right pneumothorax. ABG on 100% O2: pH 7.18, PaCO2 62, PaO2 38. Right-hand SpO2 92% vs foot 78%; echo: right-to-left shunt across the ductus.",
+      "management": "Assisted ventilation and surfactant; antibiotics until sepsis is excluded; inhaled nitric oxide for the high pulmonary vascular resistance; ECMO if all of these fail.",
+      "lecture": "CV109",
+      "lectures": [
+        "CV109"
+      ]
+    },
+    {
+      "name": "Bronchiolitis",
+      "presentation": "4-month-old girl in February, born at 35 weeks, sharing a room with a 9-month-old cousin: 3 days of cough and runny nose, now feeding poorly, breathing fast. T 37.9 C, HR 166, RR 48, SpO2 90%; nasal flaring, retractions, diffuse wheeze and crackles. Her first wheeze.",
+      "workup": "Nasal swab PCR: RSV. Chest film usually unnecessary; if taken: hyperinflation, flat diaphragms, peribronchial thickening, no lobar opacity. No personal or family atopy.",
+      "management": "Supportive: nasal suctioning, hydration, oxygen if SpO2 is below 90%, high-flow if tiring; avoid bronchodilators, corticosteroids and antibiotics; nirsevimab before the next RSV season for at-risk infants.",
+      "lecture": "CV109",
+      "lectures": [
+        "CV109"
+      ]
+    },
+    {
+      "name": "Community-acquired pneumonia in a child",
+      "presentation": "9-year-old boy with known moderate persistent wheeze: 2 days of T 39.2 C, shaking chills and a wet cough. Pale, sweaty, capillary refill 3 s, RR 32, SpO2 93%. Over the right lower back: dullness to percussion, louder voice transmission, crackles and rhonchi.",
+      "workup": "CXR: dense right lower lobe opacity with air bronchograms and no hyperinflation; WBC 21,000/uL, CRP 14 mg/dL. Ultrasound: small parapneumonic effusion. Blood culture drawn before antibiotics.",
+      "management": "Age-directed empiric antibiotics (high-dose amoxicillin for a lobar picture; add a macrolide for atypical features at school age); admit if hypoxic; thoracentesis if the effusion grows; watch for a triggered wheeze flare.",
+      "lecture": "CV109",
+      "lectures": [
+        "CV109"
+      ]
+    },
+    {
+      "name": "Epiglottitis",
+      "presentation": "2-year-old girl who has never been vaccinated: 2 hours of T 38.9 C and harsh, noisy breathing in. Toxic-looking, with a muffled cry, drooling, suprasternal retractions; no cough, no witnessed choking, no sick contacts; lungs clear.",
+      "workup": "Clinical diagnosis - do not lay her down, examine the throat or draw blood first. Once the airway is secure: beefy red, swollen supraglottic tissue at laryngoscopy; lateral neck film: rounded, thickened soft-tissue shadow above the larynx.",
+      "management": "Keep her calm on a parent's lap; secure the airway in the OR with anesthesia and ENT ready; then IV ceftriaxone plus vancomycin and steroids; rifampin prophylaxis for household contacts if Hib grows.",
+      "lecture": "CV109",
+      "lectures": [
+        "CV109"
+      ]
+    },
+    {
+      "name": "Turner syndrome",
+      "presentation": "15-year-old girl at the 2nd height centile with no breast development and no periods; normal school grades. Low hairline at the nape and skin folds along the sides of the neck. BP 148/88 in the right arm, 104/70 in the leg; weak, delayed femoral pulses.",
+      "workup": "FSH 96 mIU/mL, estradiol undetectable; karyotype 45,X in all 30 cells counted; echo: bicuspid aortic valve and narrowing of the descending aorta near the ductus; renal ultrasound: horseshoe kidney.",
+      "management": "Repair the aortic narrowing; high-dose growth hormone for height, then estrogen replacement at pubertal age; search many cells for Y material and remove the gonads if present (gonadoblastoma risk); lifelong aortic imaging.",
+      "lecture": "CV110",
+      "lectures": [
+        "CV110"
+      ]
+    },
+    {
+      "name": "Williams syndrome",
+      "presentation": "3-year-old boy, very chatty and friendly with strangers, with delayed speech and motor milestones and poor feeding as an infant: broad forehead, puffy eyes, full lips, wide mouth. Harsh systolic murmur at the right upper sternal border; irritable, constipated, thirsty.",
+      "workup": "Calcium 12.6 mg/dL. Echo: narrowing of the ascending aorta just above the sinotubular junction (gradient 45 mmHg), peripheral pulmonary artery stenoses. Karyotype normal; FISH or microarray: 7q11.23 microdeletion including the elastin gene.",
+      "management": "Low-calcium diet and no vitamin D supplements for the hypercalcemia; surgical repair of the supra-aortic narrowing if the gradient is significant; developmental support; test the parents (50% recurrence if one carries it).",
+      "lecture": "CV110",
+      "lectures": [
+        "CV110"
+      ]
+    },
+    {
+      "name": "Noonan syndrome",
+      "presentation": "7-year-old boy at the 3rd height centile; his father is short with a similar face. Wide-set downslanting eyes, droopy lids, low-set ears, extra neck skin, sunken lower sternum, one undescended testis, bruises easily. Harsh systolic murmur at the left upper sternal border.",
+      "workup": "Karyotype 46,XY. Echo: thickened, poorly mobile pulmonary valve with a 50 mmHg gradient; asymmetric septal thickening. PTT prolonged, factor XI low. Gene panel: pathogenic PTPN11 variant (RAS-MAPK pathway).",
+      "management": "Gene panel or sequencing (karyotype is normal); balloon or surgical relief of the pulmonary valve gradient; serial echo for ventricular hypertrophy; clotting work-up before any surgery; growth hormone for height; counsel 50% recurrence.",
+      "lecture": "CV110",
+      "lectures": [
+        "CV110"
+      ]
+    },
+    {
+      "name": "CHARGE syndrome",
+      "presentation": "Term newborn boy who turns blue while feeding and pinks up when he cries. Gaps in the lower iris of both eyes, small cup-shaped low ears, failed newborn hearing screen, very small penis, and a loud systolic murmur.",
+      "workup": "CT: bony-membranous blockage at the back of both nasal passages. Echo: conotruncal defect. Retinal exam: gaps in the retina and optic disc. Calcium normal, thymus present; FISH for 22q11.2 negative. Sequencing: pathogenic CHD7 variant.",
+      "management": "Oral airway first (newborns breathe through the nose), then surgical opening of the nasal passages; repair the heart defect; hearing aids and vision follow-up; counsel 50% recurrence if a parent is affected, otherwise under 1-5%.",
+      "lecture": "CV110",
+      "lectures": [
+        "CV110"
+      ]
+    },
+    {
+      "name": "Alpha-1 antitrypsin deficiency",
+      "presentation": "45-year-old woman who has never smoked: 6 years of slowly worsening breathlessness that now limits housework; her brother needed a lung transplant at 50. Afebrile, BP 122/76, SpO2 92%; hyperresonant chest, faint breath sounds at both bases, prolonged expiration, liver edge firm.",
+      "workup": "FEV1/FVC 0.50, no change after albuterol; DLCO 45%. CT: uniform destruction of whole lobules, worst in the lower lobes. Serum elastase-inhibitor level 25 mg/dL (low); Pi typing ZZ. ALT 84; liver biopsy: PAS-positive globules in hepatocytes.",
+      "management": "Check the inhibitor level and Pi type, and test siblings; strict smoke avoidance; standard bronchodilators and vaccines; IV augmentation with pooled human inhibitor if FEV1 is under 65%; watch the liver; transplant when end-stage.",
+      "lecture": "CV112",
+      "lectures": [
+        "CV112",
+        "CV110"
+      ]
+    },
+    {
+      "name": "Spontaneous pneumothorax from paraseptal emphysema",
+      "presentation": "Tall, thin 20-year-old man, previously healthy, out jogging with no blow to the chest, suddenly becomes very short of breath with sharp right chest pain. HR 118, RR 30, SpO2 89%. Right chest: no breath sounds, hyperresonant, moves less; trachea pushed to the left.",
+      "workup": "CXR: right lung edge seen as a thin white line with no lung markings beyond it; mediastinum shifted to the left. CT after re-expansion: small thin-walled air cysts under the pleura at both apices; the rest of the lung and the ribs normal.",
+      "management": "Needle decompression first if hypotensive, then a right chest tube (air rushes out on insertion); stop smoking; after a recurrence, thoracoscopic removal of the apical bullae with pleurodesis.",
+      "lecture": "CV112",
+      "lectures": [
+        "CV112"
+      ]
+    },
+    {
+      "name": "Aspirin-exacerbated respiratory disease",
+      "presentation": "38-year-old woman whose wheeze began at 30, with years of blocked nose and no sense of smell. 40 minutes after ibuprofen for a sprained ankle: wheeze, chest tightness, flushed face, red eyes, itchy welts on her trunk. RR 26, SpO2 93%; pale, glistening masses in both nostrils.",
+      "workup": "Eosinophils 900/uL; skin tests to aeroallergens negative; urine leukotriene E4 high. CT: every sinus opacified, with polyps. FEV1 rises 18% after albuterol. A supervised oral challenge with a COX-1 inhibitor reproduces the attack.",
+      "management": "Treat the attack like any asthma flare; then avoid all COX-1-blocking NSAIDs (acetaminophen under 1 g or celecoxib is usually safe); leukotriene modifier (montelukast, zileuton); nasal steroids, polyp surgery; desensitize if needed.",
+      "lecture": "CV112",
+      "lectures": [
+        "CV112"
+      ]
+    },
+    {
+      "name": "Status asthmaticus",
+      "presentation": "26-year-old man with lifelong asthma, out of his controller inhaler: 2 days of worsening wheeze; 3 hours of nebulized albuterol-ipratropium, IV methylprednisolone and IV magnesium give no relief. Drowsy, speaks 2 words at a time, RR 34, HR 132, SpO2 88%, almost no air movement.",
+      "workup": "ABG at 3 h: pH 7.30, PaCO2 50, PaO2 58 mmHg (1 h earlier: pH 7.48, PaCO2 30). Peak flow 25% of predicted and not improving. Systolic BP falls 22 mmHg with each breath in. CXR: hyperinflation, no infiltrate, no collapsed lung.",
+      "management": "Intubate and ventilate now (a normal or acidotic pH means he is tiring): slow rate, long expiratory time, accept a high PaCO2; keep up nebulized albuterol, IV steroids and magnesium; consider IV epinephrine or ketamine; ICU care.",
+      "lecture": "CV112",
+      "lectures": [
+        "CV112"
+      ]
+    },
+    {
+      "name": "Allergic bronchopulmonary aspergillosis",
+      "presentation": "34-year-old man with asthma since childhood, poorly controlled for 6 months despite inhaled steroids: wheeze, low-grade fevers, and he coughs up firm brownish plugs. T 37.9 C, SpO2 94%; scattered wheeze and crackles whose location changes from one visit to the next.",
+      "workup": "Eosinophils 1,600/uL; total IgE 2,800 IU/mL; immediate skin reaction and precipitating IgG to a heat-tolerant mold; plugs hold septate hyphae branching at acute angles. CT: dilated, mucus-filled central bronchi; infiltrates come and go.",
+      "management": "Oral prednisone tapered over months plus itraconazole to cut the fungal load; follow total IgE to judge response and catch relapse; keep optimizing the asthma regimen; anti-IgE or anti-IL-5 antibody if steroid-dependent.",
+      "lecture": "CV112",
+      "lectures": [
+        "CV112"
+      ]
+    },
+    {
+      "name": "Bronchiectasis",
+      "presentation": "52-year-old woman who had a necrotizing pneumonia at age 6: 10 years of daily cough bringing up cupfuls of foul yellow-green sputum, worst on rising, repeated chest infections, blood-streaked sputum twice this month. Afebrile; clubbed fingers; coarse crackles at both bases.",
+      "workup": "CT: lower-lobe bronchi wider than their companion artery, not tapering, seen within 1 cm of the pleura; thick walls, some mucus-filled. Sputum: H. influenzae, later Pseudomonas. Sweat chloride 22 mmol/L; eosinophils and IgE normal.",
+      "management": "Daily airway clearance (chest percussion, postural drainage); culture-guided antibiotics for flares, long-term macrolide if 3 or more a year; vaccines; bronchial artery embolization for major bleeding; resect a localized segment.",
+      "lecture": "CV112",
+      "lectures": [
+        "CV112"
+      ]
+    },
+    {
+      "name": "Primary ciliary dyskinesia (Kartagener syndrome)",
+      "presentation": "28-year-old man seen for infertility: normal sperm count, but no sperm move. Lifelong daily wet cough, constant runny nose and sinus infections, ear tubes as a child, oxygen for 2 days after birth. Heart sounds loudest right of the sternum; crackles at both lung bases.",
+      "workup": "CXR: cardiac apex and stomach bubble on the right. CT: dilated lower-lobe bronchi, opacified sinuses. Sweat chloride 18 mmol/L; nasal nitric oxide very low. Electron microscopy of a nasal brushing: outer dynein arms absent, cilia immotile.",
+      "management": "Daily airway clearance and exercise; culture-guided antibiotics for flares; ENT care for sinus and ear disease; IVF with sperm injection (ICSI) for infertility; vaccines; counsel autosomal recessive inheritance (25% risk per sibling).",
+      "lecture": "CV112",
+      "lectures": [
+        "CV112"
+      ]
+    },
+    {
+      "name": "Centriacinar emphysema",
+      "presentation": "62-year-old man, 45 pack-years, seen in clinic: 4 years of steadily worsening breathlessness, now after 1 flight of stairs; little cough or sputum; 6 kg weight loss over 2 years. BMI 19, RR 22, SpO2 95% on room air; hyperresonant chest, faint breath sounds; no edema or cyanosis.",
+      "workup": "FEV1/FVC 0.55, no reversal; TLC 125%, RV 180%; DLCO 38%. ABG: pH 7.45, PaCO2 33, PaO2 72 mmHg. Hct 44%. CXR: hyperlucent lungs worst in the upper lobes, flat diaphragms, narrow vertical heart. Serum elastase-inhibitor level normal.",
+      "management": "Stop smoking (the only step that slows decline); long-acting bronchodilators; pulmonary rehab and vaccines; lung-volume-reduction surgery or bullectomy for upper-lobe disease with poor exercise tolerance; transplant if end-stage.",
+      "lecture": "CV112",
+      "lectures": [
+        "CV112"
+      ],
+      "avoid": [
+        "COPD exacerbation"
+      ]
+    },
+    {
+      "name": "Chronic bronchitis",
+      "presentation": "58-year-old woman, 50 pack-years, 20 years in a textile mill: cough with grey-white sputum most mornings at least 3 months a year for 5 years; three chest infections needing antibiotics in 2 years; breathless only lately. SpO2 86% at rest; rhonchi and wheeze; mild ankle edema.",
+      "workup": "ABG: pH 7.36, PaCO2 54, HCO3- 30, PaO2 52 mmHg. Hct 56%. FEV1/FVC 0.62, no reversal; DLCO normal. Echo: dilated right ventricle, PA systolic 50 mmHg. Histology: mucous glands fill 70% of the bronchial wall; goblet-cell-rich bronchioles.",
+      "management": "Stop smoking; oxygen at least 15 h/day (PaO2 55 or less, or 59 with Hct above 55% or right heart strain); long-acting bronchodilators, inhaled steroid if flares are frequent; pulmonary rehab, vaccines; antibiotics for infective flares.",
+      "lecture": "CV112",
+      "lectures": [
+        "CV112"
+      ],
+      "avoid": {
+        "presentation": [
+          "COPD exacerbation",
+          "Chronic respiratory acidosis from CO2 retention",
+          "Cor pulmonale"
+        ],
+        "workup": [
+          "COPD exacerbation",
+          "Chronic respiratory acidosis from CO2 retention",
+          "Cor pulmonale"
+        ],
+        "management": [
+          "COPD exacerbation",
+          "Chronic respiratory acidosis from CO2 retention",
+          "Cor pulmonale",
+          "Centriacinar emphysema"
+        ]
+      }
+    }
+  ]
+}

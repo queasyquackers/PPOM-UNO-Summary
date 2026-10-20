@@ -1,0 +1,6 @@
+# Authors' scratch: part files go stale once a verifier edits the fragment, so
+# only the plans, notes and verification logs are kept as the audit trail.
+*
+!.gitignore
+!*/
+!*/*.md
