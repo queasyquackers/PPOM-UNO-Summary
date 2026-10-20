@@ -1,0 +1,764 @@
+
+######## CV58 (8 blocks)
+Hypertension and Hypertensive Crisis
+
+- **Pathophysiology:** sustained elevation of arterial pressure; a pressure-overloaded left ventricle hypertrophies.
+- **Diagnosis:** staged by the AHA chart on repeated readings; crisis is >180 and/or >120.
+- **Complications:** LVH shows up at the bedside as a **sustained PMI** (Slide 18).
+- **Treatment:** in a patient who takes his meds and tolerates them and is still uncontrolled, change a dose or add a drug (Slide 57).
+- **Lecturer's Point:** check **medication compliance** before calling it treatment failure - missed doses are "probably why the blood pressure is elevated" (Slide 40).
+---
+Aortic Stenosis
+
+- **Presentation:** **crescendo-decrescendo systolic** murmur; **delayed carotid upstroke**.
+- **Diagnosis:** PMI is **sustained** (LVH from pressure overload) with **increased amplitude** (Slide 18).
+- **Lecturer's Point:** the same lesion shows up in the neck, the precordium and the murmur. Link all three.
+---
+Mitral Regurgitation
+
+- **Presentation:** **harsh, medium-pitched, holosystolic** murmur best heard at the **apex**.
+- **Diagnosis:** **volume overload** of the LV -> **increased PMI amplitude** (Slide 18).
+---
+Aortic Regurgitation (Insufficiency)
+
+- **Presentation:** **soft, blowing, decrescendo diastolic** murmur at the **lower left sternal border**; **bounding carotid upstroke** (Slide 8).
+---
+Congestive Heart Failure and Cardiomyopathy
+
+- **Presentation:** **orthopnea**, **paroxysmal nocturnal dyspnea**, lower-extremity **edema** (Slides 28-29).
+- **Diagnosis:** **elevated JVP** (>3-4 cm above the sternal angle); **diffuse PMI** from a dilated ventricle.
+- **Lecturer's Point:** the same "dilated ventricle" label covers CHF and cardiomyopathy. A diffuse PMI tells you the chamber is big, not why.
+---
+Abdominal Aortic Aneurysm
+
+- **Diagnosis:** palpable aortic width **>3 cm** -> further imaging (Slide 19). A normal exam documents "no pulsatile mass" (Slide 51).
+---
+Peripheral Arterial Disease
+
+- **Diagnosis:** **ABI** = ankle SBP / arm SBP; 0.8-0.9 some disease, 0.5-0.8 moderate, <0.5 severe.
+- **Treatment:** 0.8-0.9 -> treat hypertension, dyslipidemia, diabetes, smoking; <0.8 -> **vascular referral**.
+- **Risk Factors:** smoking and diabetes (screen both over 50); age over 70.
+- **Lecturer's Point:** the ABI predicts **mortality and CV events independent of traditional risk factors**, which makes it more than a leg test.
+---
+Angina and Myocardial Infarction
+
+- **Presentation:** pressure/tightness, jaw radiation, SOB, N/V, diaphoresis; **worse with activity, better with rest**.
+- **Risk Factors:** the unhappy triad, smoking, inactivity, poor diet, central obesity, age, male sex, family history.
+- **Diagnosis:** in-office **ECG and CXR** (Slide 53).
+- **Lecturer's Point:** **women, older adults and diabetics** present atypically. Fatigue and mild exertional dyspnea may be the whole story.
+---
+
+######## CV59 (6 blocks)
+Vomiting-induced metabolic alkalosis
+
+- **Pathophysiology:** Loss of gastric HCl generates the alkalosis (loss of fixed H+). The same vomiting contracts ECF volume, and that maintains it (Slide 23).
+- **Maintenance loop ("catch-22"):** Volume contraction -> **increased angiotensin II** -> increased Na+-H+ exchange -> increased reabsorption of filtered HCO3-. **Increased aldosterone** -> H+ secretion and reabsorption of new HCO3- (more alkalosis) **plus K+ secretion (worse hypokalemia)**.
+- **Diagnosis:** pH up, HCO3- up, PCO2 up; measured PCO2 matches the 0.6 rule if simple; hypokalemia expected.
+- **Treatment:** Some cases are **saline-sensitive** - saline fixes the volume contraction. Which cases, and which drugs, is left to clinical faculty.
+- **Lecturer's Point:** The kidney can only save Na+ by trading it for H+, so defending volume throws out more H+ and cements the alkalosis.
+---
+Diabetic ketoacidosis
+
+- **Pathophysiology:** Ketoacid production adds fixed H+; HCO3- is consumed buffering it, and the ketoanions (beta-hydroxybutyrate, acetoacetate) widen the anion gap.
+- **Presentation:** Type 1 diabetes with a precipitating illness; vomiting, dehydration (dry mucous membranes, poor skin turgor), **deep and rapid breathing**, glucose and ketones in urine.
+- **Diagnosis:** pH, HCO3- and PCO2 all low; PCO2 fits the 1.2 rule if simple; **anion gap markedly increased** (33 mEq/L in the case).
+- **Complications:** Hyperkalemia from H+/K+ exchange across cell membranes.
+- **Lecturer's Point:** This is the example of why the anion gap is diagnostically useful.
+---
+Methanol and ethylene glycol poisoning
+
+- **Pathophysiology:** Ingested fixed acid -> increased anion gap metabolic acidosis.
+- **Diagnosis:** Increased anion gap **plus an osmolar gap**, because of their extremely low molecular weight.
+- **Lecturer's Point:** The osmolar gap is all you need to know about them at this point.
+---
+Normal anion gap (hyperchloremic) metabolic acidosis: diarrhea and renal tubular acidosis
+
+- **Pathophysiology:** HCO3- is lost - from the GI tract in **diarrhea**, or at the kidney in **type 2 RTA**; chloride rises to replace it, so the gap stays normal. **Type 1 and type 4 RTA** and **chronic kidney disease** instead cause acidosis through failure to excrete fixed H+.
+- **Diagnosis:** Low HCO3-, increased Cl-, normal anion gap (Slides 16, 33).
+- **Lecturer's Point:** RTA is "one of the prime examples" of normal-gap acidosis; losing HCO3- at the kidney raises chloride systemically.
+---
+COPD and respiratory acidosis
+
+- **Pathophysiology:** Inflammation destroys mainly the **elastic tissue**, so inspired air cannot be released efficiently; stale air stays trapped and PCO2 rises (Slide 29).
+- **Diagnosis:** pH down, PCO2 up, HCO3- up; chronic cases show the larger (0.3) renal HCO3- response.
+- **Lecturer's Point:** Sleep apnea is getting more attention - more and more people do not breathe deeply enough, and CO2 builds up.
+---
+Salicylate (aspirin) poisoning
+
+- **Pathophysiology:** Appears on two cause lists - it adds fixed acid (increased anion gap metabolic acidosis, Slide 24) and it **stimulates the medullary respiratory center** (respiratory alkalosis, Slide 31).
+- **Lecturer's Point:** Too much aspirin can drive hyperventilation as well as acidosis.
+---
+
+######## CV60 (5 blocks)
+Pulmonary Embolism and Pulmonary Infarction
+
+- **Pathophysiology:** ~95% embolize from deep leg veins (usually femoral); ventilated-but-unperfused lung plus raised pulmonary vascular resistance.
+- **Presentation:** often silent; dyspnea, pleuritic pain, friction rub, cough, hemoptysis with infarction; saddle embolus -> shock, EMD, sudden death; may mimic MI.
+- **Diagnosis:** D-dimer to exclude (stable, low-moderate probability); CTPA definitive; V/Q scan rarely; duplex ultrasound for DVT; CXR insensitive and nonspecific.
+- **Treatment:** anticoagulation and supportive care; IVC filter if anticoagulation contraindicated with recurrence risk; prophylaxis with early ambulation, stockings, anticoagulation.
+- **Risk Factors:** age over 75, inpatients, Virchow's triad, hip fracture, central lines, cancer, pregnancy, OCPs, post-op, factor V Leiden, antiphospholipid syndrome.
+- **Complications:** hemorrhagic infarct (more likely with compromised cardiopulmonary function), acute cor pulmonale, pulmonary hypertension, chronic cor pulmonale.
+- **Lecturer's Point:** the infarct is hemorrhagic because of the dual circulation; a small PE may predict a larger one.
+---
+Pulmonary Hypertension and Cor Pulmonale
+
+- **Pathophysiology:** increased flow, increased pulmonary vascular resistance, or left-heart outflow resistance -> medial hypertrophy, intimal fibrosis, plexiform lesions -> RV pressure overload.
+- **Presentation:** late; exertional dyspnea, fatigue, anginal pain, cyanosis, syncope, edema, JVD, parasternal lift.
+- **Diagnosis:** RVH with right-axis deviation on ECG; enlarged pulmonary arteries with distal tapering on CXR; echo; right heart catheterization is the gold standard.
+- **Treatment:** vasodilators (PAH); treat the trigger (secondary); lung transplant (definitive, selected patients).
+- **Risk Factors:** left heart failure, COPD/ILD, obstructive sleep apnea with obesity, recurrent thromboemboli, systemic sclerosis, congenital heart disease, BMPR2 mutation.
+- **Complications:** decompensated cor pulmonale, superimposed thromboembolism and pneumonia.
+- **Lecturer's Point:** grades 1-2 potentially reversible, 3 borderline, 4-6 (plexiform lesions onward) irreversible.
+---
+Goodpasture Syndrome
+
+- **Pathophysiology:** type II hypersensitivity - autoantibody to alpha3 chain (noncollagenous domain) of collagen IV in alveolar and glomerular basement membranes.
+- **Presentation:** hemoptysis first, then rapidly progressive glomerulonephritis.
+- **Diagnosis:** linear immunoglobulin deposits on immunofluorescence; crescentic GN; hemosiderin-laden macrophages.
+- **Treatment:** plasmapheresis plus corticosteroids and cyclophosphamide.
+- **Risk Factors:** young males, active smoking, HLA-DRB1 1501/1502.
+- **Complications:** renal failure; death usually from uremia.
+- **Lecturer's Point:** male preponderance "unlike most autoimmune diseases"; kidney-only disease is anti-GBM disease.
+---
+Granulomatosis with Polyangiitis (Wegener)
+
+- **Pathophysiology:** likely T cell-mediated hypersensitivity to inhaled agents -> necrotizing granulomatous vasculitis of small-medium vessels.
+- **Presentation:** hemoptysis; upper respiratory tract and lung disease; glomerulonephritis if kidneys involved.
+- **Diagnosis:** c-ANCA (PR3-ANCA); biopsy showing vasculitis, granulomas, geographic necrosis, capillaritis.
+- **Treatment:** immunosuppression, as for Goodpasture.
+- **Lecturer's Point:** the histologic triad (vasculitis, granulomas, necrosis) separates it from Goodpasture.
+---
+Idiopathic Pulmonary Hemosiderosis
+
+- **Pathophysiology:** recurrent alveolar bleeding without an identifiable cause; immunologic mechanism suspected.
+- **Presentation:** young child with insidious cough, hemoptysis, anemia, bilateral infiltrates.
+- **Diagnosis:** exclusion of all other causes; siderophages, no vasculitis or capillaritis.
+- **Treatment:** long-term immunosuppression (prednisone, azathioprine).
+- **Lecturer's Point:** it occurs mostly in young children - disregard the slide's 27-year peak.
+---
+
+######## CV61 (4 blocks)
+Genetic Disorders of Steroid Hormone Biosynthesis
+
+- **Pathophysiology:** inherited loss of an enzyme on the pathway from cholesterol to cortisol, aldosterone and the sex steroids; Slide 11 maps these as the congenital adrenal hyperplasias.
+- **Lecturer's Point:** not taught in this lecture - the slide is a map of how each hormone is built from cholesterol, to be reviewed when these diseases come up in other courses.
+---
+Hypercholesterolemia and Cholesterol-Lowering Strategies
+
+- **Pathophysiology:** cholesterol level reflects dietary absorption plus synthesis minus bile acid excretion (Slide 15).
+- **Treatment:**
+  - **Statins:** inhibit HMG CoA reductase - decrease biosynthesis (Slide 29).
+  - **Ezetimibe:** blocks NPC1L1 - decreases dietary absorption (Slide 15).
+  - **Plant sterols (sitosterol, stigmasterol, sitostanol):** pumped back out of enterocytes carrying cholesterol - decrease absorption (Slide 13).
+  - **Cholestyramine and dietary fiber:** trap bile salts, reduce reabsorption - increase bile acid excretion (Slide 35).
+- **Lecturer's Point:** once you see the influx and outflux, you can derive every strategy: reduce dietary cholesterol, reduce synthesis, or increase bile acid excretion.
+---
+Liver Disease and Bile Acids
+
+- **Pathophysiology:** the liver is the major site of bile acid synthesis and extraction.
+- **Lecturer's Point:** spoken - liver disease compromises liver function and **reduces bile acid synthesis**. Slide 35 adds that impaired hepatic extraction of bile acids can **raise bile acids in the blood**. Both follow from a failing liver; know that the liver both makes and reclaims bile acids.
+---
+Cholelithiasis (Cholesterol Gallstone Disease)
+
+- **Pathophysiology:** an **imbalance between cholesterol (very hydrophobic) and phospholipids plus bile salts (amphipathic)**; excess cholesterol makes bile more hydrophobic, and it **precipitates as stones in the gallbladder**.
+- **Presentation:** stones in the gallbladder (the lecture names the disease and its mechanism only).
+- **Lecturer's Point:** framed as a **bile salt deficiency** relative to cholesterol - too much cholesterol for the available detergent.
+---
+
+######## CV62 (6 blocks)
+Abetalipoproteinemia
+
+- **Pathophysiology:** mutation in **MTP**, the protein that loads lipids onto apoB-48 (and apoB-100), so chylomicrons cannot be assembled
+- **Presentation:** follows from the failure to package dietary fat - fat malabsorption picture (see below)
+- **Lecturer's Point:** "A-beta" refers to the missing apoB-containing lipoproteins; details are covered in a later lecture ([[CV63]])
+---
+Fat Malabsorption and Steatorrhea
+
+- **Pathophysiology:** three causes named - **pancreatic failure** (pancreas secretes the **lipases** that digest dietary lipid), **lack of bile salts** (bile duct blockage; bile salts are the **detergent** that solubilizes lipid so lipase can work - see [[CV61]]), and **intestinal disease** (the small intestine is the absorption site)
+- **Presentation:** **steatorrhea** - bulky, fatty-appearing stools
+- **Complications:** decreased absorption of the **fat-soluble vitamins D, E, A, K**, which are absorbed and transported by the chylomicron pathway
+- **Lecturer's Point:** fat-soluble vitamins travel with dietary lipid, so any patient who cannot absorb fat should be assumed to be short of them too
+---
+Atherosclerosis (Oxidized LDL and Foam Cells)
+
+- **Pathophysiology:** LDL is **prone to oxidation**; excess and oxidized LDL are taken up by **macrophages**, which become **foam cells** and then plaque
+- **Lecturer's Point:** this is "one of the causes of atherosclerosis"; the vascular disease itself is covered in later lectures
+---
+Niemann-Pick Type C Disease
+
+- **Pathophysiology:** cholesterol **cannot be released from the lysosome**, so it builds up inside lysosomes
+- **Presentation:** cell death, especially of **nerve cells**, affecting multiple tissues -> **early death**
+- **Lecturer's Point:** the lecturer attributes it to a lysosomal enzyme deficiency; the slide's framing - a failure to get cholesterol **out** of the lysosome - is the one to learn (standard sources place type C in lysosomal cholesterol export, not a missing digestive enzyme)
+---
+Tangier Disease
+
+- **Pathophysiology:** **ABCA1 deficiency** - cholesterol cannot be flipped to the outer leaflet, so HDL cannot collect it
+- **Presentation:** **reduced HDL** with cholesterol **accumulating in peripheral tissues**
+- **Lecturer's Point:** named here as the clinical proof of ABCA1's role; covered further in a later lecture ([[CV63]])
+---
+Elevated Lp(a) and Coronary Heart Disease
+
+- **Pathophysiology:** apo(a) mimics plasminogen; proposed to interfere with fibrinolysis
+- **Risk Factors:** genetics (dominant); diet high in **trans fats**
+- **Treatment:** **niacin (vitamin B3)** reduces Lp(a)
+- **Lecturer's Point:** the association with heart disease is established; the mechanism is still a hypothesis
+---
+
+######## CV63 (12 blocks)
+Type I Hyperlipoproteinemia (Familial LPL Deficiency)
+
+- **Pathophysiology:** a mutation in the gene for **LPL** or for its activator **ApoC-II** (found on both chylomicrons and VLDL) leaves TG trapped in chylomicrons and VLDL (Slide 6).
+- **Diagnosis:** **chylomicrons ↑ and VLDL ↑**; **LDL ↓** because LDL is a VLDL metabolite; **HDL ↓** because nascent HDL matures by picking up lipid from chylomicrons and VLDL while handing them apoproteins - stall the particles and HDL cannot mature.
+- **Lecturer's Point:** "interestingly," these patients have **no increased risk of coronary disease** - the one hyperlipoproteinemia with that answer.
+---
+Type IIa Hyperlipoproteinemia (Familial Hypercholesterolemia)
+
+- **Pathophysiology:** any of three proteins (Slide 7; "or mutation in PCSK9" is written onto Slide 3):
+  - **LDL receptor** - hepatocytes cannot take up LDL efficiently.
+  - **ApoB-100** - the recognition signal on LDL; a mutant ligand is not recognized by the receptor.
+  - **PCSK9** - controls LDL receptor turnover (next section).
+- **Diagnosis:** **LDL ↑**, and because LDL is the major cholesterol carrier in blood, **total cholesterol ↑**.
+- **Complications:** **higher risk of coronary disease**.
+- **Treatment:** statins, PCSK9 inhibitors and the other LDL-lowering drugs below.
+- **Lecturer's Point:** the deck's own practice case (Slides 30-31) is a **19-year-old with chest pain, suspected MI and cholesterol of 325 mg/dL** - suspect FH; the molecular basis is a defective LDL receptor and the elevated lipoprotein is **LDL**.
+---
+Type III Hyperlipoproteinemia (Familial Type III)
+
+- **Pathophysiology:** mutation in the gene for **ApoE** (Slide 9). Chylomicrons and VLDL pick up ApoE from HDL as they mature; ApoE binds receptors on hepatocytes and peripheral tissues to take up **chylomicron remnants and VLDL remnants**. Block that downstream uptake and the particles back up.
+- **Diagnosis:** **chylomicrons ↑, VLDL ↑**.
+- **Complications:** **increased risk of coronary disease**.
+---
+Type IV Hyperlipoproteinemia (Familial Hypertriacylglycerolemia)
+
+- **Pathophysiology:** **overproduction of VLDL**, often with **glucose intolerance** (Slide 10). Glucose that cannot be metabolized by other pathways becomes **acetyl-CoA → fatty acids → triacylglycerol**, which the liver packages into VLDL [Lecturer Emphasis].
+- **Diagnosis:** **VLDL ↑, TG ↑**.
+- **Risk Factors / Complications:** commonly associated with **coronary heart disease, type 2 diabetes and obesity**.
+---
+Tangier Disease
+
+- **Pathophysiology:** mutation in **ABCA1** (ABC1), an ATPase that **moves cholesterol from the inner to the outer leaflet** of the plasma membrane so HDL can pick it up, mature and carry it back to the liver (Slide 13).
+- **Diagnosis:** **HDL ↓** - nascent HDL cannot load cholesterol, so maturation fails.
+---
+Abetalipoproteinemia
+
+- **Pathophysiology:** mutations in the **MTTP** gene, which encodes **microsomal triglyceride transfer protein (MTP)** (Slide 14). Chylomicrons need ApoB-48 and VLDL needs ApoB-100, and **both need MTP to load lipid onto the ApoB**; without it neither particle is packaged.
+- **Diagnosis:** **chylomicrons ↓ and VLDL ↓**, and therefore **IDL ↓ and LDL ↓**, since those are VLDL metabolites.
+- **Lecturer's Point:** he glosses the prefix "A-" as "abnormal"; the particles are in fact **absent or very low**, which is the usual reading of the prefix.
+---
+Hypoalphalipoproteinemia
+
+- **Pathophysiology:** **accelerated catabolism of ApoA-I and ApoA-II** (Slide 15). Without ApoA, LCAT is not activated and HDL does not mature.
+- **Diagnosis:** **HDL ↓**.
+---
+Wolman Disease
+
+- **Pathophysiology:** deficiency of a **lysosomal acid lipase** (Slide 16). Internalized lipoprotein particles fuse with lysosomes, whose lipases hydrolyze **cholesterol esters and TGs** for recycling.
+- **Presentation:** **cholesterol esters and TGs accumulate inside cells** and cannot be mobilized, disrupting cellular function.
+---
+LCAT Deficiency
+
+- **Pathophysiology:** **LCAT (lecithin-cholesterol acyltransferase)** adds an acyl group to cholesterol, converting it to **cholesterol ester** in HDL - a key step in HDL maturation (Slide 17).
+- **Diagnosis:** **low HDL**.
+- **Complications:** HDL is the **reverse cholesterol transporter**, so **cholesterol accumulates in peripheral tissues**.
+- **Lecturer's Point:** LCAT appears twice in the lecture - activated by ApoA-I in hypoalphalipoproteinemia and deficient here; both end in low HDL.
+---
+Fatty Liver
+
+- **Pathophysiology:** the liver lacks **energy for protein synthesis**, is starved of **amino acids**, or cannot make **choline** (precursor of **phosphatidylcholine / lecithin**) (Slide 18). Apolipoproteins and phospholipid are both required to package VLDL, so the liver **cannot make VLDL**.
+- **Presentation:** TG that would normally be exported to peripheral tissues in VLDL **stays in the liver**.
+---
+Atherosclerosis
+
+- **Pathophysiology:** free-radical damage to LDL (antioxidant imbalance) → macrophage uptake of oxidized LDL → **foam cells** in the vessel wall → plaque (Slides 20-24).
+- **Complications:** plaque fissure, healing and re-rupture cycles that end in **clogging of the vessel** (atherosclerotic plaque).
+- **Risk Factors:** **high LDL**, **low HDL**.
+---
+Metabolic Syndrome
+
+- **Presentation (Slide 28 criteria):**
+  - **Large waistline:** waist circumference >102 cm (men), >88 cm (women).
+  - **High triglycerides:** ≥150 mg/dL.
+  - **Low HDL-cholesterol:** <40 mg/dL (men) or <50 mg/dL (women).
+  - **High blood pressure:** ≥130 mmHg systolic or ≥85 mmHg diastolic.
+  - **High fasting glucose:** ≥100 mg/dL, or previously diagnosed type 2 diabetes.
+- **Complications:** cardiovascular disease and diabetes mellitus.
+- **Lecturer's Point:** verbally he names three - **larger waist, high triglycerides and low "good cholesterol" HDL**; the lipid signature is **high TG with low HDL**.
+---
+
+######## CV64 (5 blocks)
+Metabolic Syndrome
+
+- **Pathophysiology:** a cluster of atherosclerotic risk factors (Slide 16).
+- **Diagnosis:** **three or more of five:** fasting glucose **>= 100 mg/dL**; BP **at least 130/85 mm Hg**; TG **>= 150 mg/dL**; HDL **< 40 mg/dL (men) or < 50 mg/dL (women)**; waist **> 40 in (102 cm) men or > 35 in (88 cm) women**.
+- **Lecturer's Point:** listed as its own risk factor for atherosclerosis alongside diabetes; the spoken thresholds use "greater than or equal to" for glucose and TG.
+---
+Diabetes Mellitus and Obesity-Related Dyslipidemia
+
+- **Pathophysiology:** insulin resistance delivers more free fatty acids from adipose tissue to the liver, and high insulin promotes fatty acid synthesis, so the liver overproduces VLDL; lipoprotein lipase activity also falls, slowing TG clearance.
+- **Presentation:** high fasting TG, low HDL; in diabetes, LDL also rises.
+- **Treatment:** tight glucose control, weight loss, exercise (Slide 64).
+- **Lecturer's Point:** type 2 diabetics are especially at risk, and the combination is worsened by obesity, inactivity and increased caloric intake.
+---
+Hypothyroidism, CKD and Nephrotic Syndrome
+
+- **Pathophysiology:** hypothyroidism and CKD **reduce LDL receptor activity**, impairing hepatic uptake of apoB lipoproteins; nephrotic syndrome increases hepatic VLDL output and lowers HDL.
+- **Presentation:** hypothyroidism - elevated LDL, **increased IDL**, mild TG rise; CKD - elevated LDL with mild hypertriglyceridemia (< 300 mg/dL).
+- **Diagnosis:** TSH, creatinine and urinary protein belong in the secondary-cause screen (Slide 46).
+---
+Hypertriglyceridemia-Induced Acute Pancreatitis
+
+- **Pathophysiology:** very high circulating triglycerides (chylomicronemia).
+- **Presentation:** acute pancreatitis; severe elevations also bring eruptive xanthomas and, above 2,000 mg/dL, lipemia retinalis; plasma looks milky.
+- **Diagnosis:** fasting TG **> 1,000 mg/dL** (Slides 35, 47).
+- **Treatment:** TG-lowering therapy at TG > 1,000 mg/dL to prevent pancreatitis (Slide 54); preventing pancreatitis is one of the two major goals of treatment (Slide 59).
+- **Lecturer's Point:** repeated across the deck - severe hypertriglyceridemia is the one lipid emergency that is not atherosclerotic.
+---
+Statin-Associated Adverse Effects
+
+- **Pathophysiology:** HMG-CoA reductase inhibition.
+- **Presentation:** dyspepsia, headache, fatigue; **muscle or joint pain in a lot of patients**; elevated liver transaminases.
+- **Treatment:** monitor liver enzymes (slide: at least every 3 months).
+- **Lecturer's Point:** statins are generally well tolerated, and like any medication they have side effects.
+---
+
+######## CV65 (7 blocks)
+Homocystinuria
+
+- **Pathophysiology:** Inborn error of metabolism raising serum homocysteine (hyperhomocysteinemia).
+- **Complications:** Premature vascular disease - coronary atherosclerosis, peripheral vascular disease, stroke, and venous thrombosis.
+- **Lecturer's Point:** Listed with LDL receptor mutations as the genetic nonmodifiable risk factors (Slide 12).
+---
+Embolic stroke from a vulnerable carotid plaque
+
+- **Presentation:** Deck case (Slides 28-29): 70-year-old former smoker with hypertension, slurred speech and left arm weakness for 2 hours, bilateral carotid bruits.
+- **Pathophysiology:** A vulnerable carotid plaque ruptured; thrombus formed and embolized to the brain.
+- **Diagnosis:** Expected microscopy is a vulnerable plaque - answer **D, low levels of smooth muscle**. A thick cap, small lipid core and low inflammation all describe a stable plaque.
+- **Lecturer's Point:** "30% stenosis" is not the best answer - degree of stenosis at rupture is variable (30-50%); the **low smooth muscle** content is what made the plaque vulnerable.
+---
+Atherosclerotic aneurysm
+
+- **Pathophysiology:** The **thickened intima reduces oxygen diffusion** to the rest of the vessel wall, so the **media and adventitia become atrophic**; the weakened wall bulges outward (Slide 39).
+- **Presentation:** Outpouching of the vessel wall due to weakness.
+- **Lecturer's Point:** This is why the Slide 8 detail "media weakened" matters.
+---
+Stable angina
+
+- **Pathophysiology:** Fixed partial stenosis (about 70-75%) from a stable plaque; exertion raises oxygen demand beyond the fixed supply.
+- **Presentation:** Substernal chest pain with moderate exertion, relieved within minutes by rest or nitroglycerin.
+- **Diagnosis:** Normal cardiac enzymes; possible transient ST depression during episodes.
+- **Treatment:** Nitroglycerin.
+- **Lecturer's Point:** Pain at rest implies about 90% stenosis or a different syndrome.
+---
+Unstable angina
+
+- **Pathophysiology:** Disruption of an atherosclerotic plaque with superimposed **partial, non-occlusive thrombus**.
+- **Presentation:** Deck case (Slide 47): 47-year-old diabetic smoker with a strong family history whose exertional pain progressed from jogging to one flight of stairs, then occurred with mild activity and responded only minimally to nitroglycerin.
+- **Diagnosis:** **Normal CK-MB and troponin** (no myocyte death) exclude acute MI; the progression excludes stable angina - answer **E, unstable angina**.
+- **Lecturer's Point:** "Much more serious" than stable angina; also called preinfarction angina and part of the acute coronary syndromes.
+---
+Prinzmetal (variant) angina
+
+- **Pathophysiology:** Inappropriate, intense coronary vasoconstriction, usually in the absence of plaque; can be triggered by cocaine.
+- **Presentation:** Angina at rest, unrelated to exertion, heart rate or blood pressure.
+- **Treatment:** Nitroglycerin or calcium channel blockers.
+- **Lecturer's Point:** Uncommon. Spasm is intermittent, so it rarely lasts long enough to cause infarction unless cocaine-induced.
+---
+Acute myocardial infarction (coronary artery thrombosis)
+
+- **Pathophysiology:** Rupture of a vulnerable plaque with an **occlusive** superimposed thrombus -> no flow -> necrosis.
+- **Presentation:** Deck case (Slide 52): 68-year-old obese woman with recurrent angina and intermittent claudication (peripheral vascular disease) now with substernal chest pain.
+- **Diagnosis:** **Elevated CK-MB (6.6 ng/mL) and troponin I (2.5 ng/mL)** with **ST elevations**; normal ranges vary lab to lab.
+- **Lecturer's Point:** Answer **A, coronary artery thrombosis**. Vasospasm is intermittent and too brief to cause infarction unless cocaine-induced; details of MI come in the next lecture.
+---
+
+######## CV66 (9 blocks)
+Angina Pectoris: Stable, Unstable and Prinzmetal
+
+- **Pathophysiology:** ischemia without infarction. Stable angina comes from a fixed stenosis unmasked by exertion; unstable angina comes from a worsening plaque; Prinzmetal angina comes from **coronary vasospasm**.
+- **Presentation:** stable = pain with exertion; unstable = pain **at rest** or worsening over time; Prinzmetal = pain unrelated to exercise or rest.
+- **Risk Factors:** Prinzmetal angina is classically linked to **cocaine use**, although some vasospasm contributes to the other anginas too.
+- **Complications:** angina is often the **precursor to MI**.
+- **Lecturer's Point:** these were covered in the atherosclerosis lecture and are reviewed here only to place MI on the spectrum.
+---
+Ventricular Arrhythmia and Sudden Cardiac Death
+
+- **Pathophysiology:** **anatomic interruption of perfusion to the conduction pathway**, toxic metabolic products and abnormal ion concentrations, **scar** from an old MI, autonomic stimulation (Slide 36). The **RCA supplies the SA node (~70% of patients) and the AV node (~85%)**, and the LAD supplies the bundle of His and fascicles (Slide 37).
+- **Presentation:** **ventricular fibrillation** within an hour or two of the MI.
+- **Complications:** the **major source of pre-hospital mortality**; usually occurs **4-24 hours** after MI.
+- **Lecturer's Point:** in the Slide 35 question (left circumflex occlusion), the complication most likely **within one hour** is **ventricular fibrillation**. Every other complication takes days, which is why speed to the hospital matters.
+---
+Acute Fibrinous Pericarditis
+
+- **Pathophysiology:** neutrophils recruited to the dying tissue release **metalloproteinases** that degrade collagen and **irritate the pericardium** (Slide 38).
+- **Presentation:** **sharp pain worse on inspiration, relieved by sitting up and leaning forward**; **scratchy pericardial friction rub**, best heard with the patient leaning forward because this brings the pericardium against the chest wall (Slide 39).
+- **Diagnosis:** with an effusion - **muffled heart sounds**, hypotension with **pulsus paradoxus** (inspiratory systolic drop greater than 10 mm Hg), neck vein distension, **"water bottle" heart on chest x-ray** (Slide 40).
+- **Complications:** usually resolves over the next few days.
+- **Lecturer's Point:** occurs within the **first 2-3 days** - the neutrophil phase.
+---
+Dressler Syndrome
+
+- **Pathophysiology:** **autoimmune fibrinous pericarditis** - **autoantibodies against damaged pericardial antigens** (Slide 41).
+- **Presentation:** the same symptoms as acute pericarditis, but **2 weeks to 2 months** after MI.
+- **Lecturer's Point:** "very important to realize this is different." It **cannot appear within days**, because autoantibodies take at least two weeks to develop [Lecturer Emphasis].
+---
+Ventricular Free Wall Rupture with Cardiac Tamponade
+
+- **Pathophysiology:** rupture is most likely at **3-7 days**, when coagulative necrosis, the neutrophil infiltrate and **lysis of connective tissue** leave the infarct **softest** (Slide 42). Blood fills the pericardial sac (hemopericardium).
+- **Presentation:** **cardiac tamponade** - compression by pericardial blood, **decreased cardiac output**, **equalization of diastolic pressure in all four chambers** (Slide 43).
+- **Diagnosis:** **Beck's triad** (**hypotension, distended neck veins, distant heart sounds**); tachycardia; **pulsus paradoxus**; **Kussmaul sign** (paradoxical **rise in JVP on inspiration**, from limited right ventricular filling); EKG with **low-voltage QRS and electrical alternans**.
+- **Lecturer's Point:** "catastrophic ... very few people survive this."
+---
+Ventricular Aneurysm: True vs False, and Mural Thrombus
+
+- **Pathophysiology:** a **true aneurysm** is the ventricular wall itself, **thinned and weakened by scar**, bulging outward and **not contracting in systole** (Slides 46-47). A **false aneurysm** is an **incomplete rupture**: the hole in the LV free wall is plugged by **thrombus**, and the "wall" is only **epicardium and adherent parietal pericardium** (Slide 44).
+- **Presentation:** true aneurysm is a **late** complication, **weeks to months** after MI.
+- **Complications:** the aneurysm is an area of **stasis** (an eddy, "like a lake"), so **mural thrombus** forms and can **embolize to the brain** and cause a stroke. A true aneurysm **usually does not rupture** despite its thin wall, and it **does not communicate with the pericardium**.
+- **Lecturer's Point:** "I really want you to learn what a true aneurysm is." False aneurysms confuse people, and the newest Robbins no longer covers them. In the Slide 45 question (apical MI, a non-contracting bulge 6 months later, then a massive stroke), the autopsy finding is a **mural thrombus**.
+---
+Papillary Muscle Rupture
+
+- **Pathophysiology:** rupture makes the **mitral valve incompetent** - **acute mitral regurgitation** (Slide 48). The **posteromedial** papillary muscle is most susceptible because of its **more precarious blood supply**: RCA occlusion in a right-dominant heart makes the posterior LV ischemic where the posterior mitral leaflet attaches.
+- **Presentation:** blood backs up into the lungs -> transudation of fluid -> **shortness of breath**; a **holosystolic (pansystolic) murmur**.
+- **Lecturer's Point:** like free wall rupture, it happens when the tissue is soft, **around 3-7 days**.
+---
+Ventricular Septal Rupture
+
+- **Pathophysiology:** analogous to free wall rupture, but blood is **shunted LV -> RV** down the pressure gradient (Slide 49).
+- **Presentation:** **right-sided heart failure** - **JVD, pedal edema** - with a **loud systolic murmur at the left sternal border** (transseptal flow).
+- **Risk Factors:** most often associated with **LAD thrombosis**.
+---
+Contractile Dysfunction: Congestive Heart Failure and Cardiogenic Shock
+
+- **Pathophysiology:** CHF develops when **more than 40% of the LV** has infarcted (Slide 50). This starts a spiral: **decreased contractility -> hypotension -> decreased coronary perfusion pressure -> more ischemia**.
+- **Presentation:** **cardiogenic shock** = severely decreased cardiac output and hypotension, with inadequate perfusion of peripheral tissues; backup produces **pulmonary edema**.
+- **Diagnosis:** lungs show pink alveolar fluid and **hemosiderin-laden alveolar macrophages ("heart failure cells")** that have phagocytosed old blood (Slide 51).
+- **Lecturer's Point:** the pulmonary edema image is included only to show heart failure cells; pulmonary edema is covered in another lecture.
+---
+
+######## CV67 (5 blocks)
+Diet-Related Chronic Disease
+
+- **Pathophysiology:** Long-term eating and physical-activity patterns drive preventable chronic disease.
+- **Presentation:** Cardiovascular disease, diabetes, obesity and some cancer types.
+- **Risk Factors:** Poor eating patterns, physical inactivity, or both; about half of US adults already carry at least one such disease.
+- **Treatment:** Healthy dietary pattern plus the Physical Activity Guidelines, alongside medications.
+- **Lecturer's Point:** The guidelines aim at *prevention* in people without medical problems - patients who later acquire chronic disease often turn to food and exercise as medicine.
+---
+Overweight and Obesity
+
+- **Pathophysiology:** Excess and centrally distributed body fat; weight reflects the balance between energy intake and expenditure, shaped by many environmental, behavioral and biological factors.
+- **Diagnosis:** BMI 25-29.9 = overweight; 30-34.9 = class I, 35-39.9 = class II, 40 or more = class III obesity. Waist over 40 in (men) or 35 in (women) adds risk.
+- **Complications:** Type 2 diabetes, hypertension and cardiovascular disease, rising from increased (overweight) to extremely high (class III).
+- **Treatment:** Nutrient-dense eating within calorie needs, increased physical activity and NEAT, gradual one-at-a-time changes.
+- **Lecturer's Point:** Class III carries the highest risk; an overweight patient with a large waist is already at **high** risk. Know this table.
+---
+Osteoporosis (DEXA context)
+
+- **Diagnosis:** DEXA scanning is used mainly for bone density testing to check for osteoporosis.
+- **Lecturer's Point:** The same scanner can report body composition, including harmful visceral fat around the organs; the lecturer notes the body-composition use is currently limited to research rather than patient care.
+---
+Prediabetes, Diabetes and Metabolic Syndrome
+
+- **Pathophysiology:** Simple carbohydrates are absorbed quickly, producing a sharp glucose spike followed by a crash.
+- **Treatment:** Favor complex, low-glycemic-index carbohydrates (whole grains, legumes) over simple sugars; limit added sugars.
+- **Lecturer's Point:** The glycemic index is a term she uses often with these patients - aim for the smooth curve, not the spike and crash.
+---
+Colon Cancer (Low-Fiber Diet)
+
+- **Pathophysiology:** Fiber is not entirely digested and remains in the digestive tract, where it provides health benefits.
+- **Risk Factors:** Americans typically eat a very low-fiber diet.
+- **Complications:** Beyond fewer bowel movements, a low-fiber diet increases the risk of colon cancer.
+- **Treatment:** Educate patients on choosing fiber-containing complex carbohydrates.
+- **Lecturer's Point:** Patients who "just don't like fiber" think the only cost is constipation; the real stake is cancer risk.
+---
+
+######## CV71 (10 blocks)
+Stable Angina Pectoris
+
+- **Pathophysiology:** Fixed coronary narrowing; demand exceeds supply during exertion; ischemia is reversible.
+- **Presentation:** Squeezing chest pain with effort (running, shoveling snow) that resolves with rest.
+- **Treatment:** SL nitroglycerin for the attack; nitrates, beta blockers or CCBs for prevention; ranolazine for chronic refractory angina.
+- **Lecturer's Point:** If two SL tablets (about 8-10 minutes) give no relief, call EMS - think MI.
+---
+Vasospastic (Prinzmetal) Angina
+
+- **Pathophysiology:** Coronary vasospasm reducing supply.
+- **Presentation:** Can occur spontaneously, even at night lying down.
+- **Treatment:** Nitrates and CCBs.
+- **Lecturer's Point:** Beta blockers are contraindicated - unopposed alpha stimulation, as with cocaine overdose.
+---
+Unstable Angina / Acute Coronary Syndrome
+
+- **Pathophysiology:** Thrombus/blockage causing unpredictable ischemia.
+- **Presentation:** Pain comes on unpredictably and is not relieved by rest.
+- **Diagnosis:** ECG and troponin to separate from MI.
+- **Treatment:** Nitrates, CCB, BB plus antiplatelets, ACE inhibitor and statin; stenting (PCI) with dual antiplatelet therapy.
+- **Complications:** Higher risk of subsequent MI.
+---
+Cyanide Toxicity (Nitroprusside-Induced)
+
+- **Pathophysiology:** Cyanide released from nitroprusside inhibits cytochrome oxidase -> oxidative phosphorylation stops -> anaerobic metabolism, lactic acidosis.
+- **Presentation:** Confusion, red skin, dyspnea; bitter almond odor.
+- **Treatment:** Hydroxocobalamin (forms cyanocobalamin) or sodium thiosulfate.
+- **Risk Factors:** Renal impairment (cyanide not excreted); prolonged IV nitroprusside.
+- **Lecturer's Point:** The vitamin B12 clue in a stem points straight back to nitroprusside as the cause.
+---
+Gingival Hyperplasia (Drug-Induced)
+
+- **Pathophysiology:** Increased growth factors, collagen production and deposition in the gums.
+- **Presentation:** Enlarged, overgrown gums in a patient on long-term therapy.
+- **Risk Factors:** CCBs (e.g., felodipine, a DHP), phenytoin, cyclosporine.
+- **Lecturer's Point:** "Review past drugs" - boards link this finding across three unrelated classes.
+---
+Calcium Channel Blocker Overdose
+
+- **Pathophysiology:** Blocked Ca2+ entry in heart, vessels and pancreatic beta cells.
+- **Presentation:** Hypotension, bradycardia (especially verapamil/diltiazem), **hyperglycemia**.
+- **Treatment:** Supportive care, IV calcium, insulin.
+- **Lecturer's Point:** Hyperglycemia separates CCB overdose from beta blocker overdose, which causes hypoglycemia.
+---
+Beta Blocker Overdose
+
+- **Pathophysiology:** Beta-1 blockade (SA/AV node, myocardium) plus beta-2 blockade (airways, liver) with nonselective agents.
+- **Presentation:** Bradycardia, **first-degree AV block**, hypotension, dyspnea (bronchoconstriction), **hypoglycemia**. Question Review case: HR 45, BP 90/60, glucose 55 after a grandmother's pills -> propranolol.
+- **Treatment:** Supportive care; **glucagon**.
+- **Lecturer's Point:** Verapamil also causes bradycardia and AV block but raises glucose and spares the airways - that separates the two.
+---
+Reye Syndrome
+
+- **Pathophysiology:** Salicylate use in children.
+- **Treatment:** Avoidance - aspirin (a salicylate) is not given to pediatric patients.
+- **Lecturer's Point:** Listed as the reason salicylates are contraindicated in children.
+---
+Drug-Induced Neutropenia (Ticlopidine)
+
+- **Pathophysiology:** Ticlopidine suppresses neutrophils, appearing weeks into therapy.
+- **Presentation:** Sore throat, fever, flu-like symptoms; low WBC on CBC.
+- **Treatment:** Stop the drug; protect from infection.
+- **Lecturer's Point:** Rarely used clinically, but a favorite board adverse effect.
+---
+Glanzmann Thrombasthenia
+
+- **Pathophysiology:** Absent or defective **GP IIb/IIIa** (genetic) -> platelets cannot cross-link via fibrinogen.
+- **Presentation:** Increased bleeding risk.
+- **Lecturer's Point:** The pharm-path link - GP IIb/IIIa inhibitor drugs reproduce this defect, which is why they cause bleeding.
+---
+
+######## CV72 (8 blocks)
+Familial Hypercholesterolemia
+
+- **Pathophysiology:** Mutation affecting the LDL receptor, increased PCSK9 activity, or defective ApoB-100; LDL cannot be cleared by receptor-mediated endocytosis.
+- **Presentation:** Early-onset atherosclerosis and cardiovascular disease; family history of early cardiac death.
+- **Diagnosis:** Heterozygous LDL > 190 mg/dL (children > 160); homozygous LDL > 500 mg/dL.
+- **Treatment:** Statins (can start around age 10 in affected children); add PCSK9 inhibitors with diet and maximal tolerated statin when LDL stays high; homozygous disease adds lomitapide or evinacumab.
+- **Lecturer's Point:** Some patients "do the right thing" with diet and exercise and still cannot clear cholesterol because they lack enough LDL receptors.
+---
+Severe Hypertriglyceridemia and Acute Pancreatitis
+
+- **Pathophysiology:** Excess circulating triglyceride-rich particles (VLDL, chylomicrons).
+- **Diagnosis:** TG > 150 mg/dL is elevated; 500 mg/dL or more is severe.
+- **Treatment:** Fibrates, niacin, omega-3 fatty acids (EPA/DHA or EPA-only icosapent ethyl) for severe (500 mg/dL) disease.
+- **Complications:** Acute pancreatitis - the reason therapy starts at 500.
+- **Lecturer's Point:** One reason to wait for 500 before adding a fibrate is that many of these patients are already on a statin, and the combination raises the risk of myopathy.
+---
+Atherosclerosis
+
+- **Pathophysiology:** Damage to the artery wall lets LDL become trapped; the endothelium recruits macrophages; **oxidized LDL converts macrophages into foam cells**; fatty streaks form; platelets aggregate into a thrombus (Slide 10).
+- **Presentation:** Ischemia downstream of the narrowed vessel.
+- **Treatment:** LDL lowering - statins first.
+- **Lecturer's Point:** Lowering cholesterol lowers atherosclerosis, which is why statins prevent death from cardiac disease, not just a lab number.
+---
+Drug-Induced Gout (Niacin, Bempedoic Acid)
+
+- **Pathophysiology:** Both drugs increase renal reabsorption of uric acid via the organic acid transporters.
+- **Presentation:** Acute painful, warm, inflamed first toe with uric acid crystals on aspiration in a patient treated for hyperlipidemia.
+- **Treatment:** Identify and reconsider the offending lipid drug.
+- **Risk Factors:** Prior gout.
+- **Lecturer's Point:** Fibrates, evinacumab and resins do not affect uric acid. Other uric-acid raisers mentioned in passing: thiazides, pyrazinamide, ethambutol.
+---
+Statin Myopathy and Rhabdomyolysis
+
+- **Pathophysiology:** Possible ubiquinone (CoQ10) depletion reduces muscle ATP; statin levels rise with CYP inhibitors.
+- **Presentation:** Leg weakness and pain; urine that "resembles tea."
+- **Diagnosis:** Serum creatine kinase (also check liver function); ask about new medications and supplements.
+- **Treatment:** Stop the statin; bempedoic acid is an option for statin-intolerant patients.
+- **Risk Factors:** Azoles, macrolides, cimetidine, grapefruit; combination with fibrates or niacin; red yeast rice.
+- **Complications:** Renal injury.
+- **Lecturer's Point:** Know when to draw a CK - that, LFTs and drug interactions are the practical statin skills she wants.
+---
+Secondary Hyperlipidemia (Hypothyroidism, Atypical Antipsychotics)
+
+- **Pathophysiology:** Hypothyroidism reduces LDL receptor number; second-generation antipsychotics increase appetite and cause metabolic changes.
+- **Presentation:** Antipsychotic case (Rapid Pharm Review): a woman with schizophrenia and negative symptoms gains 10 lb on a new drug, with A1C 6 and LDL 140 - olanzapine.
+- **Treatment:** Screen medications and conditions; a statin may be needed.
+- **Lecturer's Point:** First-generation (D2-blocking) antipsychotics carry more neurologic effects (parkinsonism, prolactin); second-generation drugs carry more metabolic effects - weight gain, hyperglycemia, hyperlipidemia. Haloperidol, sertraline, lorazepam and dantrolene do not cause this picture.
+---
+Fibrate-Associated Gallstones (Cholelithiasis)
+
+- **Pathophysiology:** Reduced 7-alpha-hydroxylase -> fewer bile acids -> more cholesterol in bile -> cholesterol stones.
+- **Treatment:** Recognize the fibrate as the cause.
+- **Lecturer's Point:** Contrast with bile acid resins, which increase 7-alpha-hydroxylase. A patient with familial hypertriglyceridemia on a drug known to cause gallstones is on a fibrate, whose MOA is lipoprotein lipase activation via PPAR-alpha.
+---
+Stable Angina - Which Beta-Blocker Worsens It
+
+- **Pathophysiology:** Demand ischemia from fixed coronary narrowing.
+- **Treatment:** Nitrates; beta-1-selective blockers (atenolol, metoprolol) are preferred.
+- **Complications:** Nonselective blockers (nadolol, propranolol) cause bronchospasm, vasoconstriction in peripheral vascular disease and hypoglycemia by beta-2 blockade - fine here only because nothing suggests asthma, COPD, PVD or diabetes.
+- **Lecturer's Point:** **Acebutolol** worsens the angina: although beta-1 selective, it has **intrinsic sympathomimetic activity (ISA)** - a partial agonist that raises cardiac workload and oxygen demand.
+---
+
+######## CV73 (6 blocks)
+Trousseau Syndrome (Malignancy-Associated Thrombosis)
+
+- **Pathophysiology:** tumors release procoagulant material (factor X activation), creating a high-clotting environment with venous stasis throughout the body (Slide 22).
+- **Presentation:** **Trousseau sign of malignancy = migratory thrombophlebitis**; described more than 100 years ago.
+- **Risk Factors:** neoplasms of the **lung, pancreas, breast, GI and GU tracts**.
+- **Lecturer's Point:** **DVT may be the presenting manifestation of an occult cancer.** A patient with an unprovoked clot - no surgery, no other risk factors - gets a hunt for cancer: age-appropriate screening (prostate, colon) and body imaging.
+---
+Factor V Leiden and Other Inherited Thrombophilias
+
+- **Pathophysiology:** Factor V Leiden is a point mutation producing **activated protein C (APC) resistance** (Slide 24); the prothrombin **G20210A** mutation raises prothrombin levels by about 25%.
+- **Diagnosis:** work-up of a clot includes levels of antithrombin III, protein C and protein S plus mutation testing, in combination with a hematologist.
+- **Lecturer's Point:** **Factor V Leiden is the most common inherited thrombophilia** - put a star on it. If a vignette says a patient has an inherited risk factor, it is most likely Factor V Leiden. (He called it a "deficiency" aloud; the slide correctly calls it a mutation.)
+---
+May-Thurner Syndrome
+
+- **Pathophysiology:** the **right iliac artery crosses over and compresses the left iliac vein**, causing venous stasis and clot (Slide 30).
+- **Presentation:** left-leg DVT, often without other risk factors.
+- **Diagnosis:** hard to look for and easy to miss; found on vascular imaging.
+- **Treatment:** refer to a **vascular surgeon** for therapeutic treatment.
+- **Lecturer's Point:** "one of those zebras you need to know" - put a star on it.
+---
+Post-Phlebitic (Post-Thrombotic) Syndrome
+
+- **Pathophysiology:** organization of the clot destroys the **venous valves**; with incompetent valves, blood backs up in the leg (Slides 31-32).
+- **Presentation:** chronic swelling and backed-up venous flow; in extreme cases skin breakdown and ulceration.
+- **Treatment:** wound care, hyperbaric therapy, and vascular surgery for the underlying cause.
+---
+Pulmonary Infarction
+
+- **Pathophysiology:** blocking major pulmonary flow can infarct the lung tissue beyond it (Slide 41).
+- **Presentation:** rare but potentially serious.
+- **Lecturer's Point:** uncommon because the lung has **multiple oxygen supplies - bronchial circulation, pulmonary circulation and alveolar oxygen**. More common with underlying disease: **left ventricular failure, mitral stenosis and COPD**.
+---
+Massive Pulmonary Embolism
+
+- **Pathophysiology:** a large clot burden obstructs pulmonary outflow; the right ventricle fails and left-sided filling collapses (Slides 61-62).
+- **Presentation:** hypotension (**SBP <90 mmHg**), shock, sometimes agonal - the lecturer's example is a blood pressure of 60.
+- **Diagnosis:** if too unstable for the scanner, **bedside echocardiography** showing right ventricular dysfunction.
+- **Treatment:** **systemic thrombolysis (tPA)**, surgical embolectomy, or catheter-directed clot extraction.
+- **Lecturer's Point:** by contrast, a normotensive patient with chest pain and dyspnea does **not** get tPA - anticoagulate and watch.
+---
+
+######## CV74 (2 blocks)
+Chest Pain in Women
+
+- **Pathophysiology:** same ischemic disease as men - there are more similarities than differences - but a different symptom pattern drives delayed diagnosis.
+- **Presentation:** **more likely to present without chest pain**; chest pain more often **induced by rest, sleep or mental stress**; more accompanying symptoms - **fatigue, dyspnea, nausea/vomiting, dizziness, epigastric pain, jaw/neck pain**.
+- **Diagnosis:** unrecognized MI was more prevalent in women than men (**30% vs 16%** in a study of over 90,000), with the longest delays in younger and diabetic women.
+- **Lecturer's Point:** women are **more likely to be underdiagnosed or misdiagnosed** - one of the reasons the 2021 guideline was rewritten (Slide 15).
+---
+Vasospastic Angina (formerly Prinzmetal Angina)
+
+- **Pathophysiology:** **coronary artery vasospasm** narrows the lumen -> reduced flow -> reduced myocardial oxygen delivery.
+- **Presentation:** spontaneous crushing chest pain **at rest**, unrelated to exertion; **associated with migraine and Raynaud phenomenon**.
+- **Diagnosis:** **transient ST-segment elevation** on ECG (transmural ischemia); **cardiac biomarkers normal** (Slide 50).
+- **Treatment:** **calcium channel blockers (first line)**, nitrates, **smoking cessation**; relieved acutely by nitroglycerin or CCB. **Beta-blockers are avoided** (Slide 38).
+- **Risk Factors:** **triggers - cocaine (potent vasoconstrictor), alcohol, triptans (sumatriptan)**.
+- **Lecturer's Point:** the same ischemic pain, but from spasm rather than plaque - at rest, ST up, CCB first.
+---
+
+######## CV75 (8 blocks)
+STEMI
+
+- **Pathophysiology:** total (100%) coronary occlusion by thrombus -> transmural ischemia across the whole myocardial wall -> myonecrosis.
+- **Presentation:** severe substernal pain at rest >10 min, unrelieved by SL nitroglycerin; radiation to left shoulder or jaw, diaphoresis, tachycardia, sometimes hypotension progressing to shock.
+- **Diagnosis:** ST elevation in contiguous leads **or a new LBBB**; elevated troponin and CK-MB.
+- **Treatment:** emergent reperfusion - PCI (door-to-balloon 90 min or less) or fibrinolysis if PCI is more than 120 min away.
+- **Lecturer's Point:** "the only way to manage STEMI is to take them to the cath lab and open that artery."
+---
+Post-MI Ventricular Arrhythmias
+
+- **Pathophysiology:** injured myocardium is unstable and hyperexcitable; **reentrant circuits** in ischemic tissue.
+- **Presentation:** VT (monomorphic) or VF (bizarre, chaotic QRS complexes - the ventricle is quivering).
+- **Diagnosis:** ECG.
+- **Lecturer's Point:** the **most common early (0-24 h) post-MI complication**, becoming less frequent with PCI and immediate revascularization; sustained VT is also an indication for emergent reperfusion in UA/NSTEMI.
+---
+Early Post-MI (Fibrinous) Pericarditis
+
+- **Pathophysiology:** inflammation of the pericardium over the necrotic zone as inflammatory cells are recruited (the pathologic stages of MI).
+- **Presentation:** **pleuritic chest pain** (hurts on breathing), **friction rub** - a to-and-fro rubbing sound.
+- **Treatment:** usually **self-limited**; NSAIDs if needed.
+- **Lecturer's Point:** days 1-3; contrast with Dressler, which is weeks to months later and autoimmune.
+---
+Papillary Muscle Rupture
+
+- **Pathophysiology:** usually the **posteromedial** papillary muscle, in a **right coronary artery** infarct.
+- **Presentation:** **acute mitral regurgitation** -> **new holosystolic murmur** and **pulmonary edema**.
+- **Complications:** new or worsening MR is an indication for immediate reperfusion.
+- **Lecturer's Point:** 3-5 day window.
+---
+Interventricular Septal Rupture
+
+- **Pathophysiology:** usually an **LAD** infarct -> **left-to-right shunt** (VSD physiology).
+- **Presentation:** **harsh systolic murmur**.
+- **Diagnosis:** **O2 step-up in the right ventricle**; echocardiography with Doppler.
+- **Lecturer's Point:** 3-5 day window; a new VSD triggers immediate reperfusion in UA/NSTEMI.
+---
+Ventricular Free Wall Rupture and Pseudoaneurysm
+
+- **Pathophysiology:** **pseudoaneurysm** = a **contained myocardial rupture** (pulsatile mass with a **narrow neck**, rupture risk remains high); **free wall rupture** = complete rupture -> blood around the heart -> **cardiac tamponade**.
+- **Risk Factors:** elderly, extensive **anterior MI**, hypertension.
+- **Presentation:** **sudden death**, **pulseless electrical activity (PEA)**.
+- **Lecturer's Point:** days 5-14; the most catastrophic mechanical complication.
+---
+True Ventricular Aneurysm
+
+- **Pathophysiology:** healed infarct becomes **fibrous scar** without normal contractility; it bulges in systole.
+- **Diagnosis:** **persistent ST elevation** on ECG weeks after the MI.
+- **Lecturer's Point:** 2 weeks to months after the infarct.
+---
+Dressler Syndrome (Post-Cardiac Injury Syndrome)
+
+- **Pathophysiology:** **autoimmune pericarditis** - an autoimmune reaction to the pericardium.
+- **Presentation:** pleuritic chest pain (worse on inspiration, better leaning forward), friction rub, **fever**; weeks to months after MI.
+- **Diagnosis:** leukocytosis, **elevated ESR and CRP**, **diffuse ST elevation** in all leads.
+- **Treatment:** **NSAIDs or colchicine**.
+- **Lecturer's Point:** the case - two months after PCI, clear lungs and no edema rule out heart failure, no palpitations rules out arrhythmia, and the pain is pleuritic rather than anginal, so it is not a new thrombus.
+---
+
+######## CV76 (5 blocks)
+Leading causes of cardiovascular death
+
+- **Pathophysiology:** Ischemic heart disease, stroke, diabetes mellitus and hypertensive heart disease are all driven largely by chronic, modifiable risk-factor burden (lipids, blood pressure, glycemia, weight, inflammation).
+- **Risk Factors:** Unhealthy diet, physical inactivity, tobacco use, harmful alcohol use - usually clustered in the same patient.
+- **Treatment:** Dietary-pattern counseling is first-line and upstream of every one of them.
+- **Lecturer's Point:** These four are "strongly diet responsive, which is great" - the burden is modifiable. Low- and middle-income countries carry a disproportionate share and present younger.
+---
+Atherosclerosis and chronic low-grade inflammation
+
+- **Pathophysiology:** LDL delivers cholesterol into the vessel wall; chronic low-grade inflammation contributes to atherosclerotic plaque.
+- **Risk Factors:** Diets rich in processed meats, fried and fast foods, sodas and refined carbohydrates; saturated and trans fats (raise LDL).
+- **Treatment:** Anti-inflammatory dietary pattern - vegetables, fruits, nuts, olive oil, fatty fish; replace saturated fat with unsaturated fat; add fiber.
+- **Lecturer's Point:** The same pattern that lowers LDL also calms inflammation, and diet hits several pathways at once - so change the pattern, not one nutrient.
+---
+Hypertriglyceridemia and omega-3 therapy
+
+- **Treatment:** Food-first omega-3s (fatty fish about twice weekly; ALA from walnuts, flax, chia, canola, soybean oil). **High-dose prescription EPA** only for selected high-risk patients with **persistent hypertriglyceridemia**, under clinician supervision.
+- **Complications:** Bleeding risk with omega-3 supplements (atrial fibrillation risk and drug interactions also flagged on the slide); mercury exposure from canned fish in children and pregnancy.
+- **Lecturer's Point:** Routine OTC fish oil is not recommended for primary prevention. Tell surgical patients to stop OTC omega-3 supplements at least a week before the procedure.
+---
+Hypertension (dietary management)
+
+- **Pathophysiology:** Excess sodium intake raises blood pressure; hypertensive heart disease is one of the four leading causes of CVD death.
+- **Risk Factors:** High sodium from packaged, prepared and restaurant foods; sweets and sugar-sweetened beverages; red meat and saturated/trans fats.
+- **Treatment:** **DASH diet** (rich in K, Mg, Ca, lean protein, soluble fiber) **plus sodium below 2,300 mg/day**; label reading, no-salt-added products, herbs/spices/citrus/vinegar instead of salt. Lower further in CHF.
+- **Lecturer's Point:** DASH and low sodium are **additive** - together they give the largest BP benefit and may avoid adding a second antihypertensive agent.
+---
+Metabolic syndrome
+
+- **Pathophysiology:** Clustered insulin resistance, central adiposity, dyslipidemia and elevated BP; raises CVD risk and progresses toward prediabetes and type 2 diabetes.
+- **Presentation:** Any **3 of 5**: glucose >=100 mg/dL; waist >=40 in (men) or >=35 in (women); BP >=130/85; TG >=150 mg/dL; HDL <40 (men) or <50 (women) mg/dL. Being on drug therapy for a criterion counts as meeting it.
+- **Treatment:** Heart-healthy dietary pattern, weight reduction, physical activity (and treatment of each component).
+- **Lecturer's Point:** Metabolic syndrome is the on-ramp to insulin resistance, prediabetes and diabetes.
+---
