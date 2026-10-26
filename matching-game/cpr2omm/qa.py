@@ -35,13 +35,16 @@ SCHEMA = {
                 'filter': ('syndrome', ['Upper crossed', 'Lower crossed'])},
     'outlet': {'required': ['name', 'kind', 'where', 'significance'], 'cards': ['where', 'significance'],
                'filter': ('kind', ['Spaces', 'Structures', 'Tests', 'Workup & treatment'])},
+    'lymph': {'required': ['name', 'kind', 'fact'], 'cards': ['fact', 'clinical'],
+              'filter': ('kind', ['Stages & mechanics', 'Bottlenecks', 'Lymph formation',
+                                  'Inflammation', 'Treatment & disease'])},
     'correlates': {'required': ['name', 'presentation', 'mechanism', 'lecture'],
                    'cards': ['presentation', 'mechanism', 'workup', 'management'],
                    'recognition': ['presentation', 'workup']},
 }
 MAXLEN = {'presentation': 280}
 DEFAULT_MAX = 240
-LECTURES = {'CV55', 'CV69', 'CV80', 'CV101', 'CV102', 'CV101/102'}
+LECTURES = {'CV55', 'CV69', 'CV79', 'CV80', 'CV101', 'CV102', 'CV101/102'}
 # An outlet space is named after its borders, so its "where" card naming a
 # border muscle is the fact itself, not a leak - flag it for a read only.
 SOFT_LEAK = {('outlet', 'where')}
@@ -54,6 +57,7 @@ a an the and or of in on with to for from by at as is are be its into via
 syndrome disease upper lower anterior posterior middle inner outer lateral medial
 right left first second deep major minor test sign maneuver space spaces gland
 transverse process processes spinous intercostal thigh complex fibers part
+lymph lymphatic lymphatics drainage
 '''.split())
 
 

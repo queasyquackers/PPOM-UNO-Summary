@@ -1,9 +1,9 @@
 {
   "title": "Points, Postures &amp; Outlets",
-  "description": "CPR Block 2 OMM matching game — Chapman's points, upper and lower crossed syndromes with their stretches, thoracic outlet syndrome, and cervicogenic headache.",
+  "description": "CPR Block 2 OMM matching game — Chapman's points, upper and lower crossed syndromes with their stretches, thoracic outlet syndrome, lymphatics, and cervicogenic headache.",
   "issue": "Block VI · OMM",
   "slogan": "OMM Lectures CV55&ndash;CV102",
-  "footer": "Built from CPR Block 2 OMM lectures (CV55, CV69, CV80, CV101, CV102) &middot; verify against source material",
+  "footer": "Built from CPR Block 2 OMM lectures (CV55, CV69, CV79, CV80, CV101, CV102) &middot; verify against source material",
   "store": "mgcpr2omm",
   "data": "cpr2omm/matching_data.json",
   "out": "cpr2_omm_matching_game.html",
@@ -43,6 +43,17 @@
       "attrs": [
         {"field": "where", "label": "What & where"},
         {"field": "significance", "label": "Clinical link"}
+      ]
+    },
+    "lymph": {
+      "label": "Lymphatics", "anchorLabel": "Concept",
+      "filter": {
+        "field": "kind", "label": "Topics", "summary": "Filter by topic",
+        "order": ["Stages & mechanics", "Bottlenecks", "Lymph formation", "Inflammation", "Treatment & disease"]
+      },
+      "attrs": [
+        {"field": "fact", "label": "Key fact"},
+        {"field": "clinical", "label": "Why it matters"}
       ]
     },
     "correlates": {

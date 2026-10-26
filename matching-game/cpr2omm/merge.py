@@ -2,7 +2,7 @@
 
     python merge.py
 
-One fragment per category (chapman, crossed, outlet, correlates). Fills in the
+One fragment per category (chapman, crossed, outlet, lymph, correlates). Fills in the
 lecture badge each category shares, gives every item a stable id, and writes
 matching_data.json. Run qa.py on the result before building.
 """
@@ -19,6 +19,8 @@ CATS = {
                 'fields': ['name', 'syndrome', 'pattern', 'exercise']},
     'outlet': {'prefix': 't', 'lecture': 'CV80', 'lectures': ['CV80'],
                'fields': ['name', 'kind', 'where', 'significance']},
+    'lymph': {'prefix': 'l', 'lecture': 'CV79', 'lectures': ['CV79'],
+              'fields': ['name', 'kind', 'fact', 'clinical']},
     'correlates': {'prefix': 'c', 'lecture': None, 'lectures': None,
                    'fields': ['name', 'presentation', 'mechanism', 'workup', 'management']},
 }
