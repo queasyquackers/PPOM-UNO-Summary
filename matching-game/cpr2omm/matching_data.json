@@ -1,0 +1,1230 @@
+{
+ "chapman": [
+  {
+   "name": "Ear (otitis media)",
+   "region": "Head & neck",
+   "anterior": "Upper edge of the medial clavicle, just beyond where it crosses the 1st rib",
+   "posterior": "C1 transverse process",
+   "lecture": "CV69",
+   "lectures": [
+    "CV69"
+   ],
+   "id": "p1"
+  },
+  {
+   "name": "Paranasal sinuses (sinusitis)",
+   "region": "Head & neck",
+   "anterior": "1st intercostal space and upper edge of the 2nd rib",
+   "posterior": "C2, between the spinous and transverse processes",
+   "lecture": "CV69",
+   "lectures": [
+    "CV69"
+   ],
+   "id": "p2"
+  },
+  {
+   "name": "Pharynx (pharyngitis)",
+   "region": "Head & neck",
+   "anterior": "1st rib, about 3/4 inch from the sternum",
+   "posterior": "C2 transverse process",
+   "lecture": "CV69",
+   "lectures": [
+    "CV69"
+   ],
+   "avoid": {
+    "posterior": [
+     "Paranasal sinuses (sinusitis)",
+     "Larynx (laryngitis)"
+    ]
+   },
+   "id": "p3"
+  },
+  {
+   "name": "Tonsils (tonsillitis)",
+   "region": "Head & neck",
+   "anterior": "1st intercostal space, next to the sternum",
+   "posterior": "C1 transverse process",
+   "lecture": "CV69",
+   "lectures": [
+    "CV69"
+   ],
+   "id": "p4"
+  },
+  {
+   "name": "Larynx (laryngitis)",
+   "region": "Head & neck",
+   "anterior": "Upper edge of the 2nd rib, about 3/4 inch from the sternum",
+   "posterior": "C2, between the spinous and transverse processes",
+   "lecture": "CV69",
+   "lectures": [
+    "CV69"
+   ],
+   "id": "p5"
+  },
+  {
+   "name": "Heart",
+   "region": "Chest",
+   "anterior": "2nd intercostal space, next to the sternum",
+   "posterior": "Between the T2 and T3 transverse processes",
+   "lecture": "CV69",
+   "lectures": [
+    "CV69"
+   ],
+   "id": "p6"
+  },
+  {
+   "name": "Bronchi (bronchitis)",
+   "region": "Chest",
+   "anterior": "2nd intercostal space, next to the sternum",
+   "posterior": "T2 transverse process",
+   "lecture": "CV69",
+   "lectures": [
+    "CV69"
+   ],
+   "id": "p7"
+  },
+  {
+   "name": "Esophagus (GERD)",
+   "region": "Chest",
+   "anterior": "2nd intercostal space, next to the sternum",
+   "posterior": "T2, between the spinous and transverse processes",
+   "lecture": "CV69",
+   "lectures": [
+    "CV69"
+   ],
+   "avoid": {
+    "posterior": [
+     "Bronchi (bronchitis)",
+     "Thyroid (thyroiditis, hyper/hypo)"
+    ]
+   },
+   "id": "p8"
+  },
+  {
+   "name": "Upper lung (pneumonia, asthma)",
+   "region": "Chest",
+   "anterior": "3rd intercostal space, next to the sternum",
+   "posterior": "Between the T3 and T4 transverse processes",
+   "lecture": "CV69",
+   "lectures": [
+    "CV69"
+   ],
+   "id": "p9"
+  },
+  {
+   "name": "Lower lung (pneumonia, pleurisy)",
+   "region": "Chest",
+   "anterior": "4th intercostal space, next to the sternum",
+   "posterior": "Between the T4 and T5 transverse processes",
+   "lecture": "CV69",
+   "lectures": [
+    "CV69"
+   ],
+   "id": "p10"
+  },
+  {
+   "name": "Liver",
+   "region": "Upper abdomen",
+   "anterior": "Right 5th and 6th intercostal spaces",
+   "posterior": "Right, between the T5-T6 and T6-T7 transverse processes",
+   "lecture": "CV69",
+   "lectures": [
+    "CV69"
+   ],
+   "id": "p11"
+  },
+  {
+   "name": "Gallbladder (cholecystitis)",
+   "region": "Upper abdomen",
+   "anterior": "Right 6th intercostal space",
+   "posterior": "Right, between the T6 and T7 transverse processes",
+   "lecture": "CV69",
+   "lectures": [
+    "CV69"
+   ],
+   "id": "p12"
+  },
+  {
+   "name": "Stomach - acidity (gastric ulcer)",
+   "region": "Upper abdomen",
+   "anterior": "Left 5th intercostal space",
+   "posterior": "Left, between the T5 and T6 transverse processes",
+   "lecture": "CV69",
+   "lectures": [
+    "CV69"
+   ],
+   "id": "p13"
+  },
+  {
+   "name": "Stomach - peristalsis",
+   "region": "Upper abdomen",
+   "anterior": "Left 6th intercostal space",
+   "posterior": "Left, between the T6 and T7 transverse processes",
+   "lecture": "CV69",
+   "lectures": [
+    "CV69"
+   ],
+   "id": "p14"
+  },
+  {
+   "name": "Pancreas (diabetes)",
+   "region": "Upper abdomen",
+   "anterior": "Right 7th intercostal space",
+   "posterior": "Right, between the T7 and T8 transverse processes",
+   "lecture": "CV69",
+   "lectures": [
+    "CV69"
+   ],
+   "id": "p15"
+  },
+  {
+   "name": "Spleen (infection)",
+   "region": "Upper abdomen",
+   "anterior": "Left 7th intercostal space",
+   "posterior": "Left, between the T7 and T8 transverse processes",
+   "lecture": "CV69",
+   "lectures": [
+    "CV69"
+   ],
+   "id": "p16"
+  },
+  {
+   "name": "Small intestine (enteritis, Crohn disease)",
+   "region": "Lower GI",
+   "anterior": "8th, 9th and 10th intercostal spaces, both sides",
+   "posterior": "Between the T8-T9, T9-T10 and T10-T11 transverse processes",
+   "lecture": "CV69",
+   "lectures": [
+    "CV69"
+   ],
+   "id": "p17"
+  },
+  {
+   "name": "Appendix (appendicitis)",
+   "region": "Lower GI",
+   "anterior": "Tip of the right 12th rib",
+   "posterior": "Right T11 transverse process",
+   "lecture": "CV69",
+   "lectures": [
+    "CV69"
+   ],
+   "id": "p18"
+  },
+  {
+   "name": "Cecum / ileocecal valve",
+   "region": "Lower GI",
+   "anterior": "Right lateral thigh, upper fifth at the greater trochanter",
+   "posterior": "Triangle from the L2-L4 transverse processes down to the iliac crest",
+   "lecture": "CV69",
+   "lectures": [
+    "CV69"
+   ],
+   "id": "p19"
+  },
+  {
+   "name": "Ascending colon",
+   "region": "Lower GI",
+   "anterior": "Right lateral thigh, middle portion",
+   "posterior": "Triangle from the L2-L4 transverse processes down to the iliac crest",
+   "lecture": "CV69",
+   "lectures": [
+    "CV69"
+   ],
+   "id": "p20"
+  },
+  {
+   "name": "Hepatic flexure (first 2/5 of the transverse colon)",
+   "region": "Lower GI",
+   "anterior": "Right lateral thigh, lowest fifth just above the knee",
+   "posterior": "Triangle from the L2-L4 transverse processes down to the iliac crest",
+   "lecture": "CV69",
+   "lectures": [
+    "CV69"
+   ],
+   "id": "p21"
+  },
+  {
+   "name": "Splenic flexure (last 3/5 of the transverse colon)",
+   "region": "Lower GI",
+   "anterior": "Left lateral thigh, lowest fifth just above the knee",
+   "posterior": "Triangle from the L2-L4 transverse processes down to the iliac crest",
+   "lecture": "CV69",
+   "lectures": [
+    "CV69"
+   ],
+   "id": "p22"
+  },
+  {
+   "name": "Descending colon",
+   "region": "Lower GI",
+   "anterior": "Left lateral thigh, middle portion",
+   "posterior": "Triangle from the L2-L4 transverse processes down to the iliac crest",
+   "lecture": "CV69",
+   "lectures": [
+    "CV69"
+   ],
+   "id": "p23"
+  },
+  {
+   "name": "Sigmoid colon",
+   "region": "Lower GI",
+   "anterior": "Left lateral thigh, upper fifth at the greater trochanter",
+   "posterior": "Triangle from the L2-L4 transverse processes down to the iliac crest",
+   "lecture": "CV69",
+   "lectures": [
+    "CV69"
+   ],
+   "id": "p24"
+  },
+  {
+   "name": "Kidney",
+   "region": "GU & pelvis",
+   "anterior": "1 inch above and 1 inch lateral to the umbilicus",
+   "posterior": "Between the T12 and L1 transverse processes",
+   "lecture": "CV69",
+   "lectures": [
+    "CV69"
+   ],
+   "id": "p25"
+  },
+  {
+   "name": "Urinary bladder (cystitis)",
+   "region": "GU & pelvis",
+   "anterior": "Around the umbilicus and at the pubic symphysis",
+   "posterior": "Upper edge of the L2 transverse process",
+   "lecture": "CV69",
+   "lectures": [
+    "CV69"
+   ],
+   "id": "p26"
+  },
+  {
+   "name": "Urethra",
+   "region": "GU & pelvis",
+   "anterior": "Inner edge of the pubic ramus near the top of the symphysis",
+   "posterior": "Upper edge of the L2 transverse process",
+   "lecture": "CV69",
+   "lectures": [
+    "CV69"
+   ],
+   "id": "p27"
+  },
+  {
+   "name": "Ovary (ovarian cyst)",
+   "region": "GU & pelvis",
+   "anterior": "Superior-medial pubic tubercle, along the upper border of the pubic bone",
+   "posterior": "T9-T10 (inner half) and T10-T11 (outer half), between the transverse processes",
+   "lecture": "CV69",
+   "lectures": [
+    "CV69"
+   ],
+   "id": "p28"
+  },
+  {
+   "name": "Uterus",
+   "region": "GU & pelvis",
+   "anterior": "Upper edge of the junction of the pubic ramus with the ischium, at the obturator foramen",
+   "posterior": "Between the L5 spinous process and the PSIS",
+   "lecture": "CV69",
+   "lectures": [
+    "CV69"
+   ],
+   "id": "p29"
+  },
+  {
+   "name": "Prostate (prostatitis)",
+   "region": "GU & pelvis",
+   "anterior": "Lateral thigh from the greater trochanter to 2 inches above the knee",
+   "posterior": "Between the L5 spinous process and the PSIS",
+   "lecture": "CV69",
+   "lectures": [
+    "CV69"
+   ],
+   "id": "p30"
+  },
+  {
+   "name": "Broad ligament (uterine position)",
+   "region": "GU & pelvis",
+   "anterior": "Lateral thigh from the greater trochanter to 2 inches above the knee",
+   "posterior": "Between the L5 spinous process and the PSIS",
+   "lecture": "CV69",
+   "lectures": [
+    "CV69"
+   ],
+   "id": "p31"
+  },
+  {
+   "name": "Thyroid (thyroiditis, hyper/hypo)",
+   "region": "Endocrine",
+   "anterior": "2nd intercostal space, next to the sternum",
+   "posterior": "T2 transverse process",
+   "lecture": "CV69",
+   "lectures": [
+    "CV69"
+   ],
+   "id": "p32"
+  },
+  {
+   "name": "Adrenal gland (fatigue, hypertension)",
+   "region": "Endocrine",
+   "anterior": "2 inches above and 1 inch lateral to the umbilicus",
+   "posterior": "Between the T11 and T12 transverse processes",
+   "lecture": "CV69",
+   "lectures": [
+    "CV69"
+   ],
+   "id": "p33"
+  },
+  {
+   "name": "Upper limb neuritis",
+   "region": "Limbs",
+   "anterior": "3rd intercostal space, next to the sternum",
+   "posterior": "Between the T3 and T4 transverse processes",
+   "lecture": "CV69",
+   "lectures": [
+    "CV69"
+   ],
+   "id": "p34"
+  },
+  {
+   "name": "Hand or shoulder: Dupuytren contracture, frozen shoulder (Parker's reflex)",
+   "region": "Limbs",
+   "anterior": "Upper anterior edge of the scapula just below the head of the humerus",
+   "lecture": "CV69",
+   "lectures": [
+    "CV69"
+   ],
+   "id": "p35"
+  },
+  {
+   "name": "Arm circulation (numbness, tingling)",
+   "region": "Limbs",
+   "anterior": "Pectoralis minor at its attachments to ribs 3-5",
+   "posterior": "Superior angle and inner margin of the scapula, over ribs 1-3",
+   "lecture": "CV69",
+   "lectures": [
+    "CV69"
+   ],
+   "id": "p36"
+  },
+  {
+   "name": "Sciatic neuritis (lumbosacral radiculopathy)",
+   "region": "Limbs",
+   "anterior": "Posterolateral thigh, starting 2-3 inches below the greater trochanter",
+   "posterior": "Upper part of the sacroiliac joint",
+   "lecture": "CV69",
+   "lectures": [
+    "CV69"
+   ],
+   "id": "p37"
+  }
+ ],
+ "crossed": [
+  {
+   "name": "Sternocleidomastoid & scalenes",
+   "syndrome": "Upper crossed",
+   "pattern": "Upper crossed · anterior · tight, facilitated (type I postural) → stretch",
+   "exercise": "Stretch, seated: the opposite hand pins the clavicle; tuck the chin and glide the head straight back, side-bend away from the tight side, then rotate either way into the pull. Hold 15-20 s, both sides",
+   "lecture": "CV101/102",
+   "lectures": [
+    "CV101",
+    "CV102"
+   ],
+   "id": "m1"
+  },
+  {
+   "name": "Pectoralis major (upper fibers) & pectoralis minor",
+   "syndrome": "Upper crossed",
+   "pattern": "Upper crossed · anterior · tight, facilitated (type I postural) → stretch",
+   "exercise": "Stretch: hands on a door frame at about nose height, elbows near 90°, lean the chest forward through the doorway. Hold 30-45 s, then repeat with the hands 6 inches higher",
+   "lecture": "CV101/102",
+   "lectures": [
+    "CV101",
+    "CV102"
+   ],
+   "id": "m2"
+  },
+  {
+   "name": "Upper trapezius",
+   "syndrome": "Upper crossed",
+   "pattern": "Upper crossed · posterior · tight, facilitated (type I postural) → stretch",
+   "exercise": "Stretch: the opposite hand stabilizes the clavicle and 1st rib; flex the neck, side-bend AWAY and rotate TOWARD the tight side, into the barrier. Hold 15-20 s, both sides",
+   "lecture": "CV101/102",
+   "lectures": [
+    "CV101",
+    "CV102"
+   ],
+   "id": "m3"
+  },
+  {
+   "name": "Levator scapulae",
+   "syndrome": "Upper crossed",
+   "pattern": "Upper crossed · posterior · tight, facilitated (type I postural) → stretch",
+   "exercise": "Stretch: grip the edge of the chair or bed to anchor the shoulder blade on the tight side; flex, side-bend and rotate the head AWAY from it, into the barrier - a stretch, not pain. Hold 15-20 s",
+   "lecture": "CV101/102",
+   "lectures": [
+    "CV101",
+    "CV102"
+   ],
+   "id": "m4"
+  },
+  {
+   "name": "Cervical erector spinae",
+   "syndrome": "Upper crossed",
+   "pattern": "Upper crossed · posterior · tight, facilitated (type I postural) → stretch",
+   "exercise": "Stretched by the supine 'double chin' tuck - the same drill that strengthens the weak group at the front of the neck",
+   "lecture": "CV101/102",
+   "lectures": [
+    "CV101",
+    "CV102"
+   ],
+   "id": "m5"
+  },
+  {
+   "name": "Deep cervical flexors",
+   "syndrome": "Upper crossed",
+   "pattern": "Upper crossed · anterior · weak, inhibited (type II phasic) → strengthen",
+   "exercise": "Strengthen: tuck the chin into a 'double chin' lying on a thin towel, or standing against a wall with a tennis ball under the chin as a cue - no head lift",
+   "lecture": "CV101/102",
+   "lectures": [
+    "CV101",
+    "CV102"
+   ],
+   "id": "m6"
+  },
+  {
+   "name": "Middle/lower trapezius & rhomboids",
+   "syndrome": "Upper crossed",
+   "pattern": "Upper crossed · posterior · weak, inhibited (type II phasic) → strengthen",
+   "exercise": "Strengthen: back against a wall, elbows at shoulder height and bent 90°, rotate the forearms back to touch the wrists to the wall (hold 5 s, 8-20 reps); or prone, thumbs up, lift toward the ceiling",
+   "lecture": "CV101/102",
+   "lectures": [
+    "CV101",
+    "CV102"
+   ],
+   "id": "m7"
+  },
+  {
+   "name": "Latissimus dorsi",
+   "syndrome": "Upper crossed",
+   "pattern": "Upper crossed · posterior · weak, inhibited (type II phasic) → strengthen",
+   "exercise": "Strengthen: back to the wall, start with both arms reaching straight overhead, then pull them down like a pull-down until the upper arms reach shoulder level, elbows bent 90°; repeat",
+   "lecture": "CV101/102",
+   "lectures": [
+    "CV101",
+    "CV102"
+   ],
+   "avoid": {
+    "exercise": [
+     "Middle/lower trapezius & rhomboids"
+    ]
+   },
+   "id": "m8"
+  },
+  {
+   "name": "Serratus anterior",
+   "syndrome": "Upper crossed",
+   "pattern": "Upper crossed · posterior · weak, inhibited (type II phasic) → strengthen",
+   "lecture": "CV101/102",
+   "lectures": [
+    "CV101",
+    "CV102"
+   ],
+   "id": "m9"
+  },
+  {
+   "name": "Iliopsoas",
+   "syndrome": "Lower crossed",
+   "pattern": "Lower crossed · anterior · tight, facilitated (type I postural) → stretch",
+   "exercise": "Stretch: half-kneel with the opposite foot well forward (knee over ankle), shoulders back, and shift the pelvis forward; or lie supine at the bed's edge hugging one knee while the other leg hangs off. Hold 30-60 s",
+   "lecture": "CV101/102",
+   "lectures": [
+    "CV101",
+    "CV102"
+   ],
+   "id": "m10"
+  },
+  {
+   "name": "Rectus femoris",
+   "syndrome": "Lower crossed",
+   "pattern": "Lower crossed · anterior · tight, facilitated (type I postural) → stretch",
+   "exercise": "Stretch: standing with one hand on the wall, pull the heel up toward the buttock (or rest the foot on a chair behind you if that is too hard). Hold 30-60 s",
+   "lecture": "CV101/102",
+   "lectures": [
+    "CV101",
+    "CV102"
+   ],
+   "id": "m11"
+  },
+  {
+   "name": "Adductor brevis",
+   "syndrome": "Lower crossed",
+   "pattern": "Lower crossed · anterior · tight, facilitated (type I postural) → stretch",
+   "exercise": "Stretch: wide side lunge in the coronal plane - one knee bent, the other leg straight - shifting weight sideways until the groin pulls. Hold 30-60 s",
+   "lecture": "CV101/102",
+   "lectures": [
+    "CV101",
+    "CV102"
+   ],
+   "id": "m12"
+  },
+  {
+   "name": "Quadratus lumborum",
+   "syndrome": "Lower crossed",
+   "pattern": "Lower crossed · posterior · tight, facilitated (type I postural) → stretch",
+   "exercise": "Stretch: seated on a bed with feet planted, side-bend the trunk to one side and hold up to 2 min; or stand, reach both arms overhead and lean to one side without leaning forward, 30-60 s",
+   "lecture": "CV101/102",
+   "lectures": [
+    "CV101",
+    "CV102"
+   ],
+   "id": "m13"
+  },
+  {
+   "name": "Thoracolumbar erector spinae",
+   "syndrome": "Lower crossed",
+   "pattern": "Lower crossed · posterior · tight, facilitated (type I postural) → stretch",
+   "exercise": "Stretch into trunk flexion: lie supine and hug both knees to the chest, or kneel, reach the arms forward and sit the buttocks back onto the heels. Hold 30-60 s",
+   "lecture": "CV101/102",
+   "lectures": [
+    "CV101",
+    "CV102"
+   ],
+   "id": "m14"
+  },
+  {
+   "name": "Hamstrings",
+   "syndrome": "Lower crossed",
+   "pattern": "Lower crossed · posterior · tight, facilitated (type I postural) → stretch",
+   "exercise": "Stretch: sit on the edge of a solid chair, one leg straight and one bent, hands on the bent knee, and lean toward the straight knee - felt mid-muscle, not at the sit bone or behind the knee. Hold ~45 s",
+   "lecture": "CV101/102",
+   "lectures": [
+    "CV101",
+    "CV102"
+   ],
+   "id": "m15"
+  },
+  {
+   "name": "Piriformis",
+   "syndrome": "Lower crossed",
+   "pattern": "Lower crossed · posterior · tight, facilitated (type I postural) → stretch",
+   "exercise": "Stretch: seated, cross the affected ankle over the opposite thigh and lean forward with a straight back, head turned toward the crossed leg; or supine, pull the uncrossed thigh to the chest. Hold 30-60 s",
+   "lecture": "CV101/102",
+   "lectures": [
+    "CV101",
+    "CV102"
+   ],
+   "id": "m16"
+  },
+  {
+   "name": "Gastrocnemius-soleus complex",
+   "syndrome": "Lower crossed",
+   "pattern": "Lower crossed · posterior · tight, facilitated (type I postural) → stretch",
+   "exercise": "Stretch: holding a counter, stand with the balls of the feet up on a 2x4 and the heels on the floor, knees straight. Hold 1-2 min",
+   "lecture": "CV101/102",
+   "lectures": [
+    "CV101",
+    "CV102"
+   ],
+   "id": "m17"
+  },
+  {
+   "name": "Rectus abdominis (abdominals)",
+   "syndrome": "Lower crossed",
+   "pattern": "Lower crossed · anterior · weak, inhibited (type II phasic) → strengthen",
+   "exercise": "Strengthen: supine curl-up, lifting the head and upper back and reaching toward the knees; then a posterior pelvic tilt on exhalation for the lower fibers. 8-15 reps",
+   "lecture": "CV101/102",
+   "lectures": [
+    "CV101",
+    "CV102"
+   ],
+   "id": "m18"
+  },
+  {
+   "name": "Vastus lateralis, medialis & intermedius",
+   "syndrome": "Lower crossed",
+   "pattern": "Lower crossed · anterior · weak, inhibited (type II phasic) → strengthen",
+   "exercise": "Strengthen: step up onto a bench straightening the knee, or stand on a step and bend that knee to lower the other heel and tap the floor (8-15 reps); or slide down a wall to a 90° squat with weight on the heels",
+   "lecture": "CV101/102",
+   "lectures": [
+    "CV101",
+    "CV102"
+   ],
+   "id": "m19"
+  },
+  {
+   "name": "Tibialis anterior",
+   "syndrome": "Lower crossed",
+   "pattern": "Lower crossed · anterior · weak, inhibited (type II phasic) → strengthen",
+   "exercise": "Strengthen: holding a counter, rock back onto the heels and lift the toes as high as possible. 8-20 reps",
+   "lecture": "CV101/102",
+   "lectures": [
+    "CV101",
+    "CV102"
+   ],
+   "id": "m20"
+  },
+  {
+   "name": "Gluteus maximus",
+   "syndrome": "Lower crossed",
+   "pattern": "Lower crossed · posterior · weak, inhibited (type II phasic) → strengthen",
+   "exercise": "Strengthen: hip extension - standing at a counter, swing the straight leg back without leaning forward, or lie prone and lift the straight leg. 12-15 reps each side",
+   "lecture": "CV101/102",
+   "lectures": [
+    "CV101",
+    "CV102"
+   ],
+   "id": "m21"
+  },
+  {
+   "name": "Gluteus medius & minimus",
+   "syndrome": "Lower crossed",
+   "pattern": "Lower crossed · posterior · weak, inhibited (type II phasic) → strengthen",
+   "exercise": "Strengthen: side-lying straight-leg hip abduction to 30-40° with the top hand in front to stop rolling back; or stand on a step, standing knee locked straight, and hike the opposite hip. 8-15 reps",
+   "lecture": "CV101/102",
+   "lectures": [
+    "CV101",
+    "CV102"
+   ],
+   "id": "m22"
+  }
+ ],
+ "outlet": [
+  {
+   "name": "Interscalene (scalene) triangle",
+   "kind": "Spaces",
+   "where": "Anterior scalene in front, middle scalene behind, 1st rib as the floor. Brachial plexus trunks and the subclavian artery pass through; the subclavian vein runs in front of it",
+   "significance": "Most common site of brachial plexus compression (neurogenic TOS); also where the subclavian artery is caught in arterial TOS",
+   "lecture": "CV80",
+   "lectures": [
+    "CV80"
+   ],
+   "id": "t1"
+  },
+  {
+   "name": "Costoclavicular space",
+   "kind": "Spaces",
+   "where": "Clavicle above, 1st rib below, subclavius in front, anterior scalene behind. Brachial plexus, subclavian artery AND subclavian vein all pass through",
+   "significance": "Where the subclavian vein is most often compressed (venous TOS); narrowed by an elevated 1st rib or clavicular somatic dysfunction",
+   "lecture": "CV80",
+   "lectures": [
+    "CV80"
+   ],
+   "id": "t2"
+  },
+  {
+   "name": "Subcoracoid (pectoralis minor) space",
+   "kind": "Spaces",
+   "where": "Coracoid process above, pectoralis minor in front, upper ribs behind. Brachial plexus, axillary artery and axillary vein pass through",
+   "significance": "Not strictly part of the thoracic outlet, yet compression here is almost as common as in the scalene triangle; a hypertonic front-wall muscle or rib dysfunction narrows it",
+   "lecture": "CV80",
+   "lectures": [
+    "CV80"
+   ],
+   "id": "t3"
+  },
+  {
+   "name": "Cervical rib",
+   "kind": "Structures",
+   "where": "Congenital extra rib arising from C7 that crowds the brachial plexus and subclavian artery where they cross the 1st rib",
+   "significance": "Seen on plain neck or chest films; it or an anomalous 1st rib underlies almost every case of arterial TOS",
+   "lecture": "CV80",
+   "lectures": [
+    "CV80"
+   ],
+   "id": "t4"
+  },
+  {
+   "name": "Anterior & middle scalenes",
+   "kind": "Structures",
+   "where": "One arises from C3-C6, the other from C2-C7; both run down to insert on the 1st rib",
+   "significance": "Hypertonicity or cervical somatic dysfunction narrows the triangle; their trigger points refer pain to the arm, chest and upper back and can mimic TOS",
+   "lecture": "CV80",
+   "lectures": [
+    "CV80"
+   ],
+   "id": "t5"
+  },
+  {
+   "name": "Rib 1 inhalation somatic dysfunction",
+   "kind": "Structures",
+   "where": "1st rib held up and resisting exhalation, raising the floor of the triangle and narrowing the gap under the clavicle",
+   "significance": "A compressive cause of TOS symptoms; treated with muscle energy for the elevated 1st rib, with thoracic inlet release and cervical myofascial release",
+   "lecture": "CV80",
+   "lectures": [
+    "CV80"
+   ],
+   "id": "t6"
+  },
+  {
+   "name": "Adson's test",
+   "kind": "Tests",
+   "where": "Examiner behind the patient stabilizes the shoulder and clavicle, extends the shoulder and monitors the radial pulse; board versions add neck extension, the head turned toward that side and a deep breath",
+   "significance": "The most commonly used TOS test: a fading or absent pulse, or reproduced pain/paresthesia, implicates tight scalenes or an extra rib; false positives and negatives occur, so combine tests",
+   "lecture": "CV80",
+   "lectures": [
+    "CV80"
+   ],
+   "id": "t7"
+  },
+  {
+   "name": "Wright's (hyperabduction) test",
+   "kind": "Tests",
+   "where": "The arm is passively raised fully overhead and externally rotated while the radial pulse is monitored",
+   "significance": "Pulse loss or reproduced symptoms point to compression beneath the pectoralis minor, below the coracoid",
+   "lecture": "CV80",
+   "lectures": [
+    "CV80"
+   ],
+   "id": "t8"
+  },
+  {
+   "name": "Roos test (elevated arm stress test)",
+   "kind": "Tests",
+   "where": "Both arms abducted 90° and externally rotated with the elbows bent 90°; the patient slowly opens and closes the hands for 3 minutes",
+   "significance": "Positive if heaviness, pain or numbness forces the arms down early - a general provocative test for TOS",
+   "lecture": "CV80",
+   "lectures": [
+    "CV80"
+   ],
+   "id": "t9"
+  },
+  {
+   "name": "Costoclavicular (military brace) maneuver",
+   "kind": "Tests",
+   "where": "The patient pulls the shoulders back and down with the chest pushed out, as if at attention, while the radial pulse is monitored",
+   "significance": "Pulse loss or reproduced symptoms point to compression between the clavicle and the 1st rib",
+   "lecture": "CV80",
+   "lectures": [
+    "CV80"
+   ],
+   "id": "t10"
+  },
+  {
+   "name": "Spurling test",
+   "kind": "Tests",
+   "where": "The neck is extended and side-bent/rotated toward the painful side, then pressed down from above",
+   "significance": "Arm pain shooting down a dermatome points to cervical nerve root impingement - a mimic of (or companion to) TOS that must be excluded",
+   "lecture": "CV80",
+   "lectures": [
+    "CV80"
+   ],
+   "id": "t11"
+  },
+  {
+   "name": "Tinel's sign",
+   "kind": "Tests",
+   "where": "Tapping over the ulnar groove at the elbow and over the median nerve at the wrist",
+   "significance": "Tingling into the hand suggests a distal entrapment (ulnar at the elbow, carpal tunnel) that can mimic or coexist with TOS",
+   "lecture": "CV80",
+   "lectures": [
+    "CV80"
+   ],
+   "id": "t12"
+  },
+  {
+   "name": "Anterior scalene block",
+   "kind": "Workup & treatment",
+   "where": "Local anesthetic injected into the front muscle wall of the triangle over the 1st rib (the muscle arising from C3-C6)",
+   "significance": "Diagnostic and therapeutic: relief predicts a 94% good outcome after surgery, versus 50% in patients the injection fails to help",
+   "lecture": "CV80",
+   "lectures": [
+    "CV80"
+   ],
+   "id": "t13"
+  },
+  {
+   "name": "Conservative TOS care",
+   "kind": "Workup & treatment",
+   "where": "Posture, stretching and strengthening rehab, OMT, activity changes and ergonomics, stress reduction, weight control, NSAIDs or muscle relaxants, and injections",
+   "significance": "First line when there is no significant neurologic or vascular compromise; give an adequate 4-6 month trial with patient education and monitoring",
+   "lecture": "CV80",
+   "lectures": [
+    "CV80"
+   ],
+   "id": "t14"
+  },
+  {
+   "name": "1st rib resection with scalenectomy",
+   "kind": "Workup & treatment",
+   "where": "Surgical removal of the 1st rib, often with cutting or removing the neck muscles that form the triangle's front and back walls",
+   "significance": "For neurogenic TOS that fails conservative care (excellent results in ~95%); often the initial management for arterial or venous TOS; risk includes brachial plexus injury",
+   "lecture": "CV80",
+   "lectures": [
+    "CV80"
+   ],
+   "id": "t15"
+  }
+ ],
+ "lymph": [
+  {
+   "name": "Terminal lymph drainage",
+   "kind": "Stages & mechanics",
+   "fact": "Emptying of the thoracic duct and right lymphatic trunk into the central veins; respiration produces about 35-60% of thoracic duct flow",
+   "clinical": "Secure it first (Zink) with a good abdominothoracic venous pump - the real question is how effectively the patient breathes",
+   "lecture": "CV79",
+   "lectures": [
+    "CV79"
+   ],
+   "id": "l1"
+  },
+  {
+   "name": "Vascular lymph propulsion",
+   "kind": "Stages & mechanics",
+   "fact": "Vessel segments with smooth muscle and valves contract peristaltically on their own, generating enough pressure to move all lymph through the vessels",
+   "clinical": "Thin, pliable vessels are easily compressed by tissue tension or somatic dysfunction at bottlenecks - clear the path of drainage before any lymph pump",
+   "lecture": "CV79",
+   "lectures": [
+    "CV79"
+   ],
+   "id": "l2"
+  },
+  {
+   "name": "Lymph formation",
+   "kind": "Stages & mechanics",
+   "fact": "Interstitial fluid must climb a small uphill hydrostatic gradient into the initial lymphatic, so external forces are needed; may be the limiting factor of total flow",
+   "clinical": "The most effective way to increase lymph flow - fluid needs external forces such as alternating tissue movement and fluid fluctuation to enter",
+   "lecture": "CV79",
+   "lectures": [
+    "CV79"
+   ],
+   "id": "l3"
+  },
+  {
+   "name": "Lymphangion pacemaker coupling",
+   "kind": "Stages & mechanics",
+   "fact": "Electrical: spontaneous, rapid, spreads in both directions. Mechanical: stretch from filling triggers it - slow and one-way",
+   "clinical": "Without filling there is no contraction at all, and frequency follows the perfusion rate - why a sympathomimetic 'lymph pill' never worked",
+   "lecture": "CV79",
+   "lectures": [
+    "CV79"
+   ],
+   "id": "l4"
+  },
+  {
+   "name": "Sympathetic innervation of lymphatics",
+   "kind": "Stages & mechanics",
+   "fact": "Alpha-receptor dominant; stimulation increases lymphangion contractility",
+   "clinical": "Its effect on flow is small - researchers suggest it mainly modulates immune function rather than drainage",
+   "lecture": "CV79",
+   "lectures": [
+    "CV79"
+   ],
+   "id": "l5"
+  },
+  {
+   "name": "Cisterna chyli",
+   "kind": "Stages & mechanics",
+   "fact": "The bulb at the start of the thoracic duct, tucked under the thick diaphragmatic crura; the duct rises, then turns down into the veins like a siphon",
+   "clinical": "Crural contraction squeezes it like a pump bulb; a locked-down diaphragm obstructs lymph from the whole abdomen and both legs - free the crura and upper lumbars",
+   "lecture": "CV79",
+   "lectures": [
+    "CV79"
+   ],
+   "id": "l6"
+  },
+  {
+   "name": "Venturi effect",
+   "kind": "Stages & mechanics",
+   "fact": "The thoracic duct enters at the junction of two central veins, which lowers the pressure lymph must drain against",
+   "clinical": "One of the forces of terminal drainage, alongside negative intrathoracic pressure from breathing and the crural pump",
+   "lecture": "CV79",
+   "lectures": [
+    "CV79"
+   ],
+   "id": "l7"
+  },
+  {
+   "name": "Head & neck lymph",
+   "kind": "Bottlenecks",
+   "fact": "Most of it must pass the tight jugulodigastric area just outside the C1 transverse process, between the mastoid process and the angle of the jaw",
+   "clinical": "Found totally congested and dysfunctional in upper respiratory infections",
+   "lecture": "CV79",
+   "lectures": [
+    "CV79"
+   ],
+   "id": "l8"
+  },
+  {
+   "name": "Upper extremity & breast lymph",
+   "kind": "Bottlenecks",
+   "fact": "Under the axillary fold (tightest at the pectoralis minor), then - even more critical - the space between the clavicle and the 1st rib",
+   "clinical": "After axillary dissection with mastectomy, lymphedema usually appears 6-9 months later, once regenerated vessels fibrose shut",
+   "lecture": "CV79",
+   "lectures": [
+    "CV79"
+   ],
+   "id": "l9"
+  },
+  {
+   "name": "Lower extremity lymph",
+   "kind": "Bottlenecks",
+   "fact": "Mostly the femoral triangle (beneath the inguinal ligament, over the iliopsoas), some behind the knee, then the diaphragm",
+   "clinical": "For a swollen foot, palpate for congestion up the popliteal space, femoral triangle and inlet - the obstruction sits where the congestion stops",
+   "lecture": "CV79",
+   "lectures": [
+    "CV79"
+   ],
+   "id": "l10"
+  },
+  {
+   "name": "Heart & lung lymph",
+   "kind": "Bottlenecks",
+   "fact": "Cardiac lymph drains out into the pericardium; both cardiac and pulmonary lymph then pass up through the mediastinal fascia",
+   "clinical": "Acute obstruction: myocardial edema, hemorrhage, ischemia, lower contractility and output. Chronic: ventricular fibrosis and thickened mitral and tricuspid valves",
+   "lecture": "CV79",
+   "lectures": [
+    "CV79"
+   ],
+   "id": "l11"
+  },
+  {
+   "name": "Gut lymph",
+   "kind": "Bottlenecks",
+   "fact": "Drains through the roots of the mesenteries, where they meet the posterior body wall",
+   "clinical": "Mesenteric lymphatics are consistently obstructed in Crohn disease, and blocking intestinal lymphatics reproduces IBD-like bowel changes",
+   "lecture": "CV79",
+   "lectures": [
+    "CV79"
+   ],
+   "id": "l12"
+  },
+  {
+   "name": "Thoracic inlet",
+   "kind": "Bottlenecks",
+   "fact": "Crowded junction of 1st rib, clavicle and cervicothoracic spine where the main duct and the head and neck lymph enter the veins",
+   "clinical": "Dysfunction here can back lymph up in all directions - head and neck, arms, and the whole main duct",
+   "lecture": "CV79",
+   "lectures": [
+    "CV79"
+   ],
+   "id": "l13"
+  },
+  {
+   "name": "Anchoring filaments",
+   "kind": "Lymph formation",
+   "fact": "Tether initial lymphatics to the surrounding tissue, so alternating local movement changes vessel volume and draws fluid in",
+   "lecture": "CV79",
+   "lectures": [
+    "CV79"
+   ],
+   "id": "l14"
+  },
+  {
+   "name": "Overlapping endothelial cells",
+   "kind": "Lymph formation",
+   "fact": "Flap-like junctions let the ebb and flow of interstitial fluid fluctuation move fluid into the initial lymphatic",
+   "lecture": "CV79",
+   "lectures": [
+    "CV79"
+   ],
+   "id": "l15"
+  },
+  {
+   "name": "Arterial pulse",
+   "kind": "Lymph formation",
+   "fact": "Creates a small fluid fluctuation around the arterioles, where many lymphatics lie, and has been shown to form lymph there",
+   "lecture": "CV79",
+   "lectures": [
+    "CV79"
+   ],
+   "id": "l16"
+  },
+  {
+   "name": "Phasic skeletal muscle contraction",
+   "kind": "Lymph formation",
+   "fact": "Lymphatics pass between these tissues in the limbs, so their rhythmic squeezing promotes lymph formation",
+   "lecture": "CV79",
+   "lectures": [
+    "CV79"
+   ],
+   "id": "l17"
+  },
+  {
+   "name": "Respiratory excursions",
+   "kind": "Lymph formation",
+   "fact": "Form lymph in the lungs",
+   "lecture": "CV79",
+   "lectures": [
+    "CV79"
+   ],
+   "id": "l18"
+  },
+  {
+   "name": "Peristalsis & diaphragm motion",
+   "kind": "Lymph formation",
+   "fact": "Form lymph in the abdomen",
+   "lecture": "CV79",
+   "lectures": [
+    "CV79"
+   ],
+   "id": "l19"
+  },
+  {
+   "name": "Antigen delivery",
+   "kind": "Inflammation",
+   "fact": "Lymph carries foreign material from the tissue to the nodes, where the immune response is initiated - especially important in infection",
+   "lecture": "CV79",
+   "lectures": [
+    "CV79"
+   ],
+   "id": "l20"
+  },
+  {
+   "name": "Inflammatory exudate",
+   "kind": "Inflammation",
+   "fact": "Capillary permeability rises and protein floods the interstitium; local capillaries stagnate, so all circulation out of inflamed tissue is lymphatic",
+   "lecture": "CV79",
+   "lectures": [
+    "CV79"
+   ],
+   "id": "l21"
+  },
+  {
+   "name": "Resolution of inflammation",
+   "kind": "Inflammation",
+   "fact": "Lymph carries mediators to the systemic circulation to be broken down, and removes the macrophages that have eaten the tissue-damaging neutrophils",
+   "lecture": "CV79",
+   "lectures": [
+    "CV79"
+   ],
+   "id": "l22"
+  },
+  {
+   "name": "Osmotic balance of the ECF",
+   "kind": "Inflammation",
+   "fact": "The interstitium holds virtually no protein; lymphatics remove any that leaks out, preserving the protein gradient between capillary and tissue fluid",
+   "lecture": "CV79",
+   "lectures": [
+    "CV79"
+   ],
+   "id": "l23"
+  },
+  {
+   "name": "Lymphangiogenesis",
+   "kind": "Inflammation",
+   "fact": "New lymph vessels grow in response to interstitial fluid flow; stasis instead reduces drainage and increases fibrosis",
+   "lecture": "CV79",
+   "lectures": [
+    "CV79"
+   ],
+   "id": "l24"
+  },
+  {
+   "name": "Lymph pump placement",
+   "kind": "Treatment & disease",
+   "fact": "Over the swollen area itself, where lymph forms - a cuff over a sheep's calf did not drain its inflamed foot, but over the foot it did",
+   "clinical": "Lymph flow rises with the rate and amplitude of compression (McGeown sheep studies)",
+   "lecture": "CV79",
+   "lectures": [
+    "CV79"
+   ],
+   "id": "l25"
+  },
+  {
+   "name": "Sequence of lymphatic treatment",
+   "kind": "Treatment & disease",
+   "fact": "Terminal drainage first (breathing, thoracic inlet, diaphragm), then the bottlenecks along the vessels, and lymph formation with pump techniques last",
+   "lecture": "CV79",
+   "lectures": [
+    "CV79"
+   ],
+   "id": "l26"
+  },
+  {
+   "name": "Myocardial infarction with obstructed lymph",
+   "kind": "Treatment & disease",
+   "fact": "Dogs with cardiac lymph tied off: larger, slower-healing necrosis that spreads into the ischemic zone and grows late. Separately, hyaluronidase kept lymphatics open and limited the damage",
+   "lecture": "CV79",
+   "lectures": [
+    "CV79"
+   ],
+   "id": "l27"
+  },
+  {
+   "name": "Pancreatitis",
+   "kind": "Treatment & disease",
+   "fact": "In experimental attacks its enzymes appear in lymph at high levels; obliterating its lymph vessels can cause fatal necrotizing disease, and post-attack fibrosis may worsen later attacks",
+   "lecture": "CV79",
+   "lectures": [
+    "CV79"
+   ],
+   "id": "l28"
+  }
+ ],
+ "correlates": [
+  {
+   "name": "Neurogenic thoracic outlet syndrome",
+   "presentation": "A 32-year-old woman who stocks high shelves has 6 months of neck, trapezius and above-the-collarbone pain with occipital headaches; her hand tingles, worst in the 4th-5th fingers, when she reaches up. Pressing the side of her neck reproduces it; pulses normal.",
+   "mechanism": "Brachial plexus (C5-T1), most often its lower part (C8-T1), compressed - usually between the anterior and middle scalenes over the 1st rib. Over 90% of cases",
+   "workup": "Mostly clinical: history, provocative tests and the structural exam; EMG/NCS or MR neurography as needed. Relief after local anesthetic into the anterior scalene predicts a good surgical result (94% vs 50%)",
+   "management": "4-6 months of conservative care first: posture, stretching and strengthening, OMT to the neck, 1st rib, cervicothoracic junction and pectoralis minor, ergonomics, NSAIDs; if it fails, 1st rib resection with scalenectomy",
+   "lecture": "CV80",
+   "lectures": [
+    "CV80"
+   ],
+   "id": "c1"
+  },
+  {
+   "name": "Venous thoracic outlet syndrome (Paget-von Schroetter, effort thrombosis)",
+   "presentation": "A 22-year-old competitive swimmer develops a heavy, swollen, bluish right arm during a week of hard training; the forearm tires within minutes of use, and dilated veins are visible over the shoulder and upper chest.",
+   "mechanism": "Subclavian (or axillary) vein compressed between the clavicle and the 1st rib, often with clot forming in it. 10-15% of cases",
+   "workup": "Duplex ultrasound or venography of the subclavian-axillary vein looking for narrowing or clot",
+   "management": "Treat the clot (lytic therapy, heparin); surgical decompression is often the initial definitive treatment, with more than 95% of veins still open at 5 years",
+   "lecture": "CV80",
+   "lectures": [
+    "CV80"
+   ],
+   "id": "c2"
+  },
+  {
+   "name": "Arterial thoracic outlet syndrome",
+   "presentation": "A 19-year-old pitcher has a pale, cold, aching right hand with tingling. BP is 20 mmHg lower in that arm and the radial pulse is faint at rest; the side of the neck is not tender, and arm positions do not change his symptoms.",
+   "mechanism": "Subclavian (or axillary) artery compressed in the scalene triangle, almost always by an extra rib from C7 or an anomalous 1st rib. 2-5% of cases; can lead to aneurysm or thrombus",
+   "workup": "Plain neck/chest films showing an extra rib; arteriography or angiography and hemodynamic testing for narrowing, aneurysm or clot",
+   "management": "Usually surgical from the start (vascular surgeon): decompress by removing the offending rib and repair any aneurysm or clot",
+   "lecture": "CV80",
+   "lectures": [
+    "CV80"
+   ],
+   "id": "c3"
+  },
+  {
+   "name": "Upper crossed syndrome",
+   "presentation": "A 30-year-old programmer has neck pain and headaches. From the side, his ear sits well in front of his shoulder, the shoulders roll forward, the thoracic curve is exaggerated, the lower neck is flexed and the upper neck extended.",
+   "mechanism": "Tight type I postural muscles (pectorals, SCM, scalenes, upper trapezius, levator scapulae, cervical erector spinae) overpower inhibited type II phasic ones (deep neck flexors, mid-lower trapezius, rhomboids, latissimus, serratus anterior)",
+   "workup": "Lying supine, he cannot lift his head off the table normally - the chin juts forward first; palpation and muscle testing find tight pectorals, upper trapezius and levator; imaging or EMG only if another cause is suspected",
+   "management": "Postural education and OMT; stretch the pectorals, upper trapezius, levator scapulae, SCM and scalenes; strengthen deep neck flexors (chin tucks), mid trapezius and rhomboids (wrists-to-wall, prone thumbs-up) and latissimus (wall slides)",
+   "lecture": "CV101",
+   "lectures": [
+    "CV101",
+    "CV80"
+   ],
+   "id": "c4"
+  },
+  {
+   "name": "Lower crossed syndrome",
+   "presentation": "A 45-year-old with chronic low back pain stands with the pelvis tipped forward, an exaggerated lumbar curve and a sagging belly; her feet roll inward, her knees angle toward each other, and on one leg the opposite hip drops.",
+   "mechanism": "Tight type I muscles (iliopsoas and rectus femoris in front, lumbar erector spinae and quadratus lumborum behind) tilt the pelvis forward while inhibited abdominals and gluteals - especially gluteus medius - fail to counter them",
+   "workup": "Observation, palpation and muscle testing: pelvis tipped forward over a deep low-back curve, flattened arches, knees angled inward; weak hip abduction, hip extension and trunk flexion; tight hip flexors and low-back extensors",
+   "management": "Stretch the iliopsoas, rectus femoris, adductors, quadratus lumborum, erector spinae, hamstrings, piriformis and calves; strengthen the abdominals, vasti, tibialis anterior and gluteals; OMT and orthotics",
+   "lecture": "CV102",
+   "lectures": [
+    "CV102"
+   ],
+   "id": "c5"
+  },
+  {
+   "name": "Cervicogenic headache",
+   "presentation": "A 55-year-old with years of neck stiffness has recurring pain at the back of the head that builds with sustained neck postures; neurologic exam is normal, and plain films show only age-related degenerative change.",
+   "mechanism": "Most often the C2/3 zygapophyseal (facet) joint, referring mainly to the occiput; C1/2 and C3/4 come next (C1/2 refers higher). Upper-neck pain reaches the head through the trigeminal nucleus caudalis",
+   "workup": "A diagnostic medial branch block of the dorsal ramus at C2/3 that abolishes the pain; degenerative change on X-ray or MRI alone does not prove the pain source",
+   "management": "Radiofrequency ablation of the medial branches after a positive block (nerves regrow over a year or more; repeatable); months of posture work, stretching, fascial release and manipulation; occipital nerve blocks give only brief relief",
+   "lecture": "CV55",
+   "lectures": [
+    "CV55"
+   ],
+   "id": "c6"
+  }
+ ]
+}
