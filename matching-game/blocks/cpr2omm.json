@@ -1,0 +1,58 @@
+{
+  "title": "Points, Postures &amp; Outlets",
+  "description": "CPR Block 2 OMM matching game — Chapman's points, upper and lower crossed syndromes with their stretches, thoracic outlet syndrome, and cervicogenic headache.",
+  "issue": "Block VI · OMM",
+  "slogan": "OMM Lectures CV55&ndash;CV102",
+  "footer": "Built from CPR Block 2 OMM lectures (CV55, CV69, CV80, CV101, CV102) &middot; verify against source material",
+  "store": "mgcpr2omm",
+  "data": "cpr2omm/matching_data.json",
+  "out": "cpr2_omm_matching_game.html",
+  "cats": {
+    "chapman": {
+      "label": "Chapman's Points", "anchorLabel": "Organ",
+      "anchors": [
+        {"field": "name", "label": "Organ"},
+        {"field": "anterior", "label": "Anterior point"}
+      ],
+      "filter": {
+        "field": "region", "label": "Regions", "summary": "Filter by body region",
+        "order": ["Head & neck", "Chest", "Upper abdomen", "Lower GI", "GU & pelvis", "Endocrine", "Limbs"]
+      },
+      "attrs": [
+        {"field": "anterior", "label": "Anterior point"},
+        {"field": "posterior", "label": "Posterior point"}
+      ]
+    },
+    "crossed": {
+      "label": "Crossed Syndromes", "anchorLabel": "Muscle",
+      "filter": {
+        "field": "syndrome", "label": "Syndromes", "summary": "Filter by syndrome",
+        "order": ["Upper crossed", "Lower crossed"]
+      },
+      "attrs": [
+        {"field": "pattern", "label": "Tight or weak"},
+        {"field": "exercise", "label": "Stretch / strengthen"}
+      ]
+    },
+    "outlet": {
+      "label": "Thoracic Outlet", "anchorLabel": "Space / test",
+      "filter": {
+        "field": "kind", "label": "Topics", "summary": "Filter by topic",
+        "order": ["Spaces", "Structures", "Tests", "Workup & treatment"]
+      },
+      "attrs": [
+        {"field": "where", "label": "What & where"},
+        {"field": "significance", "label": "Clinical link"}
+      ]
+    },
+    "correlates": {
+      "label": "Clinical Correlates", "anchorLabel": "Diagnosis",
+      "attrs": [
+        {"field": "presentation", "label": "Presentation"},
+        {"field": "mechanism", "label": "Mechanism"},
+        {"field": "workup", "label": "Workup"},
+        {"field": "management", "label": "Management"}
+      ]
+    }
+  }
+}
