@@ -4525,5 +4525,603 @@
       ],
       "id": "c248"
     }
+  ],
+  "genes": [
+    {
+      "name": "Abetalipoproteinemia",
+      "gene": "MTTP (makes MTP)",
+      "chromosome": "Chromosome 4q23",
+      "card": "MTTP (makes MTP) · chromosome 4q23",
+      "lecture": "CV63",
+      "lectures": [
+        "CV63",
+        "CV62"
+      ],
+      "id": "g1"
+    },
+    {
+      "name": "Alpha-1 antitrypsin deficiency",
+      "gene": "SERPINA1",
+      "chromosome": "Chromosome 14q32",
+      "card": "SERPINA1 · chromosome 14q32",
+      "lecture": "CV110",
+      "lectures": [
+        "CV110",
+        "CV112"
+      ],
+      "id": "g2"
+    },
+    {
+      "name": "Andersen-Tawil syndrome",
+      "gene": "KCNJ2",
+      "chromosome": "Chromosome 17q24",
+      "card": "KCNJ2 · chromosome 17q24",
+      "lecture": "CV110",
+      "lectures": [
+        "CV110",
+        "CV94"
+      ],
+      "id": "g3"
+    },
+    {
+      "name": "Beals syndrome (congenital contractural arachnodactyly)",
+      "gene": "FBN2 (fibrillin-2)",
+      "chromosome": "Chromosome 5q23",
+      "card": "FBN2 (fibrillin-2) · chromosome 5q23",
+      "lecture": "CV110",
+      "lectures": [
+        "CV110"
+      ],
+      "id": "g4"
+    },
+    {
+      "name": "Brugada syndrome",
+      "gene": "SCN5A (loss of function)",
+      "chromosome": "Chromosome 3p22",
+      "card": "SCN5A (loss of function) · chromosome 3p22",
+      "lecture": "CV110",
+      "lectures": [
+        "CV110",
+        "CV82"
+      ],
+      "id": "g5"
+    },
+    {
+      "name": "Carney complex",
+      "gene": "PRKAR1A",
+      "chromosome": "Chromosome 17q24",
+      "card": "PRKAR1A · chromosome 17q24",
+      "lecture": "CV107",
+      "lectures": [
+        "CV107"
+      ],
+      "id": "g6"
+    },
+    {
+      "name": "Catecholaminergic polymorphic VT",
+      "gene": "RYR2 (ryanodine receptor)",
+      "chromosome": "Chromosome 1q43",
+      "card": "RYR2 (ryanodine receptor) · chromosome 1q43",
+      "lecture": "CV82",
+      "lectures": [
+        "CV82"
+      ],
+      "id": "g7"
+    },
+    {
+      "name": "CHARGE syndrome",
+      "gene": "CHD7",
+      "chromosome": "Chromosome 8q12",
+      "card": "CHD7 · chromosome 8q12",
+      "lecture": "CV110",
+      "lectures": [
+        "CV110"
+      ],
+      "id": "g8"
+    },
+    {
+      "name": "Cystic fibrosis",
+      "gene": "CFTR (chloride channel)",
+      "chromosome": "Chromosome 7q31",
+      "card": "CFTR (chloride channel) · chromosome 7q31",
+      "lecture": "CV110",
+      "lectures": [
+        "CV110",
+        "CV109"
+      ],
+      "id": "g9"
+    },
+    {
+      "name": "DiGeorge syndrome",
+      "gene": "Microdeletion",
+      "chromosome": "Chromosome 22q11.2",
+      "card": "Microdeletion · chromosome 22q11.2",
+      "lecture": "CV110",
+      "lectures": [
+        "CV110",
+        "CV92"
+      ],
+      "id": "g10"
+    },
+    {
+      "name": "Down syndrome",
+      "gene": "Trisomy",
+      "chromosome": "Chromosome 21",
+      "card": "Trisomy · chromosome 21",
+      "lecture": "CV110",
+      "lectures": [
+        "CV110"
+      ],
+      "id": "g11"
+    },
+    {
+      "name": "Edwards syndrome",
+      "gene": "Trisomy",
+      "chromosome": "Chromosome 18",
+      "card": "Trisomy · chromosome 18",
+      "lecture": "CV110",
+      "lectures": [
+        "CV110"
+      ],
+      "id": "g12"
+    },
+    {
+      "name": "Endocardial fibroelastosis",
+      "gene": "TAFAZZIN (TAZ)",
+      "chromosome": "Chromosome Xq28",
+      "card": "TAFAZZIN (TAZ) · chromosome Xq28",
+      "lecture": "CV98",
+      "lectures": [
+        "CV98"
+      ],
+      "id": "g13"
+    },
+    {
+      "name": "Factor V Leiden",
+      "gene": "F5 point mutation (APC resistance)",
+      "chromosome": "Chromosome 1q24",
+      "card": "F5 point mutation (APC resistance) · chromosome 1q24",
+      "lecture": "CV73",
+      "lectures": [
+        "CV73",
+        "CV60"
+      ],
+      "id": "g14"
+    },
+    {
+      "name": "Familial bicuspid aortic valve",
+      "gene": "NOTCH1",
+      "chromosome": "Chromosome 9q34",
+      "card": "NOTCH1 · chromosome 9q34",
+      "lecture": "CV91",
+      "lectures": [
+        "CV91"
+      ],
+      "id": "g15"
+    },
+    {
+      "name": "Familial chylomicronemia (type I)",
+      "gene": "APOC2 (LPL activator)",
+      "chromosome": "Chromosome 19q13",
+      "card": "APOC2 (LPL activator) · chromosome 19q13",
+      "lecture": "CV63",
+      "lectures": [
+        "CV63"
+      ],
+      "id": "g16"
+    },
+    {
+      "name": "Familial chylomicronemia (type I)",
+      "gene": "LPL (lipoprotein lipase)",
+      "chromosome": "Chromosome 8p21",
+      "card": "LPL (lipoprotein lipase) · chromosome 8p21",
+      "lecture": "CV63",
+      "lectures": [
+        "CV63"
+      ],
+      "id": "g17"
+    },
+    {
+      "name": "Familial dilated cardiomyopathy",
+      "gene": "LMNA (lamin)",
+      "chromosome": "Chromosome 1q22",
+      "card": "LMNA (lamin) · chromosome 1q22",
+      "lecture": "CV110",
+      "lectures": [
+        "CV110"
+      ],
+      "id": "g18"
+    },
+    {
+      "name": "Familial dilated cardiomyopathy",
+      "gene": "TTN (titin)",
+      "chromosome": "Chromosome 2q31",
+      "card": "TTN (titin) · chromosome 2q31",
+      "lecture": "CV97",
+      "lectures": [
+        "CV97",
+        "CV110"
+      ],
+      "id": "g19"
+    },
+    {
+      "name": "Familial dysbetalipoproteinemia (type III)",
+      "gene": "APOE",
+      "chromosome": "Chromosome 19q13",
+      "card": "APOE · chromosome 19q13",
+      "lecture": "CV63",
+      "lectures": [
+        "CV63"
+      ],
+      "id": "g20"
+    },
+    {
+      "name": "Familial hypercholesterolemia",
+      "gene": "APOB",
+      "chromosome": "Chromosome 2p24",
+      "card": "APOB · chromosome 2p24",
+      "lecture": "CV110",
+      "lectures": [
+        "CV110",
+        "CV63",
+        "CV64"
+      ],
+      "id": "g21"
+    },
+    {
+      "name": "Familial hypercholesterolemia",
+      "gene": "LDLR (LDL receptor)",
+      "chromosome": "Chromosome 19p13",
+      "card": "LDLR (LDL receptor) · chromosome 19p13",
+      "lecture": "CV110",
+      "lectures": [
+        "CV110",
+        "CV63",
+        "CV64",
+        "CV65"
+      ],
+      "id": "g22"
+    },
+    {
+      "name": "Familial hypercholesterolemia",
+      "gene": "PCSK9 (gain of function)",
+      "chromosome": "Chromosome 1p32",
+      "card": "PCSK9 (gain of function) · chromosome 1p32",
+      "lecture": "CV110",
+      "lectures": [
+        "CV110",
+        "CV63"
+      ],
+      "id": "g23"
+    },
+    {
+      "name": "Gorlin syndrome",
+      "gene": "PTCH1",
+      "chromosome": "Chromosome 9q22",
+      "card": "PTCH1 · chromosome 9q22",
+      "lecture": "CV107",
+      "lectures": [
+        "CV107"
+      ],
+      "id": "g24"
+    },
+    {
+      "name": "Hereditary transthyretin amyloidosis",
+      "gene": "TTR",
+      "chromosome": "Chromosome 18q12",
+      "card": "TTR · chromosome 18q12",
+      "lecture": "CV98",
+      "lectures": [
+        "CV98"
+      ],
+      "id": "g25"
+    },
+    {
+      "name": "Heritable pulmonary arterial hypertension",
+      "gene": "BMPR2",
+      "chromosome": "Chromosome 2q33",
+      "card": "BMPR2 · chromosome 2q33",
+      "lecture": "CV60",
+      "lectures": [
+        "CV60"
+      ],
+      "id": "g26"
+    },
+    {
+      "name": "Homocystinuria",
+      "gene": "CBS (cystathionine beta-synthase)",
+      "chromosome": "Chromosome 21q22",
+      "card": "CBS (cystathionine beta-synthase) · chromosome 21q22",
+      "lecture": "CV110",
+      "lectures": [
+        "CV110",
+        "CV65"
+      ],
+      "id": "g27"
+    },
+    {
+      "name": "Hypertrophic cardiomyopathy",
+      "gene": "MYBPC3 (myosin-binding protein C)",
+      "chromosome": "Chromosome 11p11",
+      "card": "MYBPC3 (myosin-binding protein C) · chromosome 11p11",
+      "lecture": "CV97",
+      "lectures": [
+        "CV97",
+        "CV110"
+      ],
+      "id": "g28"
+    },
+    {
+      "name": "Hypertrophic cardiomyopathy",
+      "gene": "MYH7 (beta-myosin heavy chain)",
+      "chromosome": "Chromosome 14q11",
+      "card": "MYH7 (beta-myosin heavy chain) · chromosome 14q11",
+      "lecture": "CV97",
+      "lectures": [
+        "CV97",
+        "CV110"
+      ],
+      "id": "g29"
+    },
+    {
+      "name": "Jervell and Lange-Nielsen syndrome",
+      "gene": "KCNE1, both copies mutated",
+      "chromosome": "Chromosome 21q22",
+      "card": "KCNE1, both copies mutated · chromosome 21q22",
+      "lecture": "CV110",
+      "lectures": [
+        "CV110",
+        "CV82",
+        "CV94"
+      ],
+      "id": "g30"
+    },
+    {
+      "name": "Jervell and Lange-Nielsen syndrome",
+      "gene": "KCNQ1, both copies mutated",
+      "chromosome": "Chromosome 11p15",
+      "card": "KCNQ1, both copies mutated · chromosome 11p15",
+      "lecture": "CV110",
+      "lectures": [
+        "CV110",
+        "CV82",
+        "CV94"
+      ],
+      "id": "g31"
+    },
+    {
+      "name": "Loeys-Dietz syndrome",
+      "gene": "TGFBR1",
+      "chromosome": "Chromosome 9q22",
+      "card": "TGFBR1 · chromosome 9q22",
+      "lecture": "CV110",
+      "lectures": [
+        "CV110",
+        "CV78"
+      ],
+      "id": "g32"
+    },
+    {
+      "name": "Loeys-Dietz syndrome",
+      "gene": "TGFBR2",
+      "chromosome": "Chromosome 3p24",
+      "card": "TGFBR2 · chromosome 3p24",
+      "lecture": "CV110",
+      "lectures": [
+        "CV110",
+        "CV78"
+      ],
+      "id": "g33"
+    },
+    {
+      "name": "Marfan syndrome",
+      "gene": "FBN1 (fibrillin-1)",
+      "chromosome": "Chromosome 15q21",
+      "card": "FBN1 (fibrillin-1) · chromosome 15q21",
+      "lecture": "CV110",
+      "lectures": [
+        "CV110",
+        "CV78"
+      ],
+      "id": "g34"
+    },
+    {
+      "name": "Multiple endocrine neoplasia type 2",
+      "gene": "RET",
+      "chromosome": "Chromosome 10q11",
+      "card": "RET · chromosome 10q11",
+      "lecture": "CV110",
+      "lectures": [
+        "CV110"
+      ],
+      "id": "g35"
+    },
+    {
+      "name": "Naxos syndrome",
+      "gene": "JUP (plakoglobin)",
+      "chromosome": "Chromosome 17q21",
+      "card": "JUP (plakoglobin) · chromosome 17q21",
+      "lecture": "CV97",
+      "lectures": [
+        "CV97"
+      ],
+      "id": "g36"
+    },
+    {
+      "name": "Noonan syndrome",
+      "gene": "PTPN11 (RAS pathway)",
+      "chromosome": "Chromosome 12q24",
+      "card": "PTPN11 (RAS pathway) · chromosome 12q24",
+      "lecture": "CV110",
+      "lectures": [
+        "CV110"
+      ],
+      "id": "g37"
+    },
+    {
+      "name": "Patau syndrome",
+      "gene": "Trisomy",
+      "chromosome": "Chromosome 13",
+      "card": "Trisomy · chromosome 13",
+      "lecture": "CV110",
+      "lectures": [
+        "CV110"
+      ],
+      "id": "g38"
+    },
+    {
+      "name": "Prothrombin mutation thrombophilia",
+      "gene": "F2 (G20210A)",
+      "chromosome": "Chromosome 11p11",
+      "card": "F2 (G20210A) · chromosome 11p11",
+      "lecture": "CV73",
+      "lectures": [
+        "CV73",
+        "CV60"
+      ],
+      "id": "g39"
+    },
+    {
+      "name": "Romano-Ward long QT syndrome",
+      "gene": "KCNH2",
+      "chromosome": "Chromosome 7q36",
+      "card": "KCNH2 · chromosome 7q36",
+      "lecture": "CV110",
+      "lectures": [
+        "CV110",
+        "CV82",
+        "CV94"
+      ],
+      "id": "g40"
+    },
+    {
+      "name": "Romano-Ward long QT syndrome",
+      "gene": "KCNQ1, one mutated copy",
+      "chromosome": "Chromosome 11p15",
+      "card": "KCNQ1, one mutated copy · chromosome 11p15",
+      "lecture": "CV110",
+      "lectures": [
+        "CV110",
+        "CV82",
+        "CV94"
+      ],
+      "id": "g41"
+    },
+    {
+      "name": "Romano-Ward long QT syndrome",
+      "gene": "SCN5A (gain of function)",
+      "chromosome": "Chromosome 3p22",
+      "card": "SCN5A (gain of function) · chromosome 3p22",
+      "lecture": "CV110",
+      "lectures": [
+        "CV110",
+        "CV82",
+        "CV94"
+      ],
+      "id": "g42"
+    },
+    {
+      "name": "Shprintzen-Goldberg syndrome",
+      "gene": "SKI",
+      "chromosome": "Chromosome 1p36",
+      "card": "SKI · chromosome 1p36",
+      "lecture": "CV110",
+      "lectures": [
+        "CV110"
+      ],
+      "id": "g43"
+    },
+    {
+      "name": "Tangier disease",
+      "gene": "ABCA1",
+      "chromosome": "Chromosome 9q31",
+      "card": "ABCA1 · chromosome 9q31",
+      "lecture": "CV63",
+      "lectures": [
+        "CV63",
+        "CV62",
+        "CV64"
+      ],
+      "id": "g44"
+    },
+    {
+      "name": "Timothy syndrome",
+      "gene": "CACNA1C (gain of function)",
+      "chromosome": "Chromosome 12p13",
+      "card": "CACNA1C (gain of function) · chromosome 12p13",
+      "lecture": "CV110",
+      "lectures": [
+        "CV110",
+        "CV94"
+      ],
+      "id": "g45"
+    },
+    {
+      "name": "Tuberous sclerosis",
+      "gene": "TSC1",
+      "chromosome": "Chromosome 9q34",
+      "card": "TSC1 · chromosome 9q34",
+      "lecture": "CV107",
+      "lectures": [
+        "CV107"
+      ],
+      "id": "g46"
+    },
+    {
+      "name": "Tuberous sclerosis",
+      "gene": "TSC2",
+      "chromosome": "Chromosome 16p13",
+      "card": "TSC2 · chromosome 16p13",
+      "lecture": "CV107",
+      "lectures": [
+        "CV107"
+      ],
+      "id": "g47"
+    },
+    {
+      "name": "Turner syndrome",
+      "gene": "Monosomy X, losing SHOX",
+      "chromosome": "Chromosome X",
+      "card": "Monosomy X, losing SHOX · chromosome X",
+      "lecture": "CV110",
+      "lectures": [
+        "CV110"
+      ],
+      "id": "g48"
+    },
+    {
+      "name": "Vascular Ehlers-Danlos syndrome",
+      "gene": "COL3A1 (type III collagen)",
+      "chromosome": "Chromosome 2q32",
+      "card": "COL3A1 (type III collagen) · chromosome 2q32",
+      "lecture": "CV110",
+      "lectures": [
+        "CV110",
+        "CV78"
+      ],
+      "id": "g49"
+    },
+    {
+      "name": "Williams syndrome",
+      "gene": "ELN (elastin) microdeletion",
+      "chromosome": "Chromosome 7q11.23",
+      "card": "ELN (elastin) microdeletion · chromosome 7q11.23",
+      "lecture": "CV110",
+      "lectures": [
+        "CV110"
+      ],
+      "id": "g50"
+    },
+    {
+      "name": "X-linked dilated cardiomyopathy",
+      "gene": "DMD (dystrophin)",
+      "chromosome": "Chromosome Xp21",
+      "card": "DMD (dystrophin) · chromosome Xp21",
+      "lecture": "CV97",
+      "lectures": [
+        "CV97"
+      ],
+      "id": "g51"
+    }
   ]
 }

@@ -35,8 +35,14 @@ SCHEMA = {
     'correlates': {'required': ['name', 'presentation', 'lecture'],
                    'cards': ['presentation', 'workup', 'management'],
                    'recognition': ['presentation', 'workup']},
+    # Gene cards share the word "chromosome", so overlap scoring would be noise;
+    # exact and nested duplicates are still caught.
+    'genes': {'required': ['name', 'gene', 'chromosome', 'lecture'],
+              'cards': ['card'],
+              'recognition': [],
+              'near_dup': False},
 }
-MAXLEN = {'presentation': 280, 'workup': 240, 'management': 240, 'micro': 240,
+MAXLEN = {'card': 80, 'presentation': 280, 'workup': 240, 'management': 240, 'micro': 240,
           'mechanism': 240, 'adverseEffects': 240, 'disease': 70}
 
 # Named signs, eponymous findings and stock metaphors. A recognition card has
@@ -117,6 +123,8 @@ def check(data, label):
         spec = SCHEMA[cat]
         for it in items:
             nm = it.get('name', '?')
+            if cat == 'genes':
+                it.setdefault('card', f"{it.get('gene')} · chromosome {it.get('chromosome')}")
             for r in spec['required']:
                 if not it.get(r):
                     fails.append(f'{cat}/{nm}: missing {r}')
@@ -171,12 +179,12 @@ def check(data, label):
                             fails.append(f'{cat}.{f}: "{a["name"]}" and "{b["name"]}" are the same card')
                         continue
                     jac = jaccard(va, vb)
-                    if jac >= 0.5 and not avoided(a, b, f):
+                    if spec.get('near_dup', True) and jac >= 0.5 and not avoided(a, b, f):
                         warns.append(f'{cat}.{f}: "{a["name"]}" ~ "{b["name"]}" (overlap {jac:.2f})')
         # Duplicate answers.
         seen = {}
         for it in items:
-            key = (it.get('name', '').lower(), it.get('disease', '').lower()) if cat == 'bugs' else it.get('name', '').lower()
+            key = (it.get('name', '').lower(), it.get('disease', it.get('gene', '')).lower()) if cat in ('bugs', 'genes') else it.get('name', '').lower()
             if key in seen:
                 fails.append(f'{cat}: duplicate entry "{it.get("name")}"')
             seen[key] = 1

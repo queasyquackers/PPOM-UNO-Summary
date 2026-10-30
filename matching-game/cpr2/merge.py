@@ -14,12 +14,13 @@ import re
 import sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-CATS = ['bugs', 'drugs', 'correlates']
-PREFIX = {'bugs': 'b', 'drugs': 'd', 'correlates': 'c'}
+CATS = ['bugs', 'drugs', 'correlates', 'genes']
+PREFIX = {'bugs': 'b', 'drugs': 'd', 'correlates': 'c', 'genes': 'g'}
 FIELDS = {
     'bugs': ['name', 'disease', 'micro', 'presentation'],
     'drugs': ['name', 'groups', 'mechanism', 'adverseEffects'],
     'correlates': ['name', 'presentation', 'workup', 'management'],
+    'genes': ['name', 'gene', 'chromosome'],
 }
 
 
@@ -30,8 +31,12 @@ def norm(s):
     return re.sub(r'\s+', ' ', s).strip()
 
 
+# One answer can own several items: a bug per disease, a disease per gene.
+SECOND = {'bugs': 'disease', 'genes': 'gene'}
+
+
 def key(cat, it):
-    return (norm(it['name']), norm(it['disease'])) if cat == 'bugs' else norm(it['name'])
+    return (norm(it['name']), norm(it[SECOND[cat]])) if cat in SECOND else norm(it['name'])
 
 
 def lec_num(l):
@@ -59,6 +64,10 @@ for path in sorted(glob.glob(os.path.join(HERE, 'fragments', '*.json'))):
             # Canonical field order, primary lecture first in "lectures".
             lecs = [it['lecture']] + [l for l in it.get('lectures', []) if l != it['lecture']]
             clean = {f: it[f] for f in FIELDS[cat] if it.get(f)}
+            if cat == 'genes':
+                # The two cards the game deals: gene with location, location alone.
+                clean['card'] = f"{it['gene']} · chromosome {it['chromosome']}"
+                clean['chromosome'] = f"Chromosome {it['chromosome']}"
             clean['lecture'] = it['lecture']
             clean['lectures'] = sorted(set(lecs), key=lambda l: (l != it['lecture'], lec_num(l)))
             if it.get('avoid'):
@@ -69,7 +78,7 @@ if collisions:
     raise SystemExit('Resolve these collisions first:\n  ' + '\n  '.join(collisions))
 
 for cat in CATS:
-    out[cat].sort(key=lambda x: (x['name'].lower(), x.get('disease', '').lower()))
+    out[cat].sort(key=lambda x: (x['name'].lower(), x.get(SECOND.get(cat), '').lower()))
     for i, it in enumerate(out[cat]):
         it['id'] = PREFIX[cat] + str(i + 1)
 

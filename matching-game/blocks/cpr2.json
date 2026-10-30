@@ -1,6 +1,6 @@
 {
   "title": "Plaques, Rhythms &amp; Valves",
-  "description": "CPR Block 2 board-prep matching game — bugs, drugs by class, and buzzword-free clinical correlates from lectures CV55-CV112 (OMM excluded).",
+  "description": "CPR Block 2 board-prep matching game — bugs, drugs by class, buzzword-free clinical correlates, and genes from lectures CV55-CV112 (OMM excluded).",
   "issue": "Block VI",
   "slogan": "Lectures CV55&ndash;CV112",
   "footer": "Built from CPR Block 2 lecture summaries (CV55&ndash;CV112, OMM excluded) &middot; verify against source material",
@@ -37,6 +37,13 @@
         {"field": "presentation", "label": "Presentation"},
         {"field": "workup", "label": "Labs & Workup"},
         {"field": "management", "label": "Management"}
+      ]
+    },
+    "genes": {
+      "label": "Genes", "anchorLabel": "Disease", "defaultAttr": 0,
+      "attrs": [
+        {"field": "card", "label": "Gene & Chromosome"},
+        {"field": "chromosome", "label": "Chromosome Only"}
       ]
     }
   }

@@ -4,6 +4,7 @@
   "issue": "Block V",
   "slogan": "Lectures CV1&ndash;CV54",
   "footer": "Built from CPR Block 1 lecture summaries (CV1&ndash;CV54) &middot; verify against source material",
+  "progress": false,
   "store": "mgcpr1",
   "data": "cpr1/matching_data.json",
   "out": "cpr1_matching_game.html",

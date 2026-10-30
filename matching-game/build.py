@@ -57,6 +57,8 @@ def build(name):
                        ('__ISSUE__', 'issue'), ('__SLOGAN__', 'slogan'),
                        ('__STORE__', 'store'), ('__FOOTER__', 'footer')]:
         html = html.replace(key, cfg[field])
+    # Saved check marks are on for every block unless its config opts out.
+    html = html.replace('__PROGRESS__', 'true' if cfg.get('progress', True) else 'false')
     html = html.replace('__CATS__', json.dumps(cfg['cats'], ensure_ascii=False))
     # Compact JSON keeps the file small; safe to embed in a <script> block.
     html = html.replace('__MATCHING_DATA__',
