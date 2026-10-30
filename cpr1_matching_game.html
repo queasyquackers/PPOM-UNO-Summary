@@ -192,6 +192,17 @@ details.filter[open] summary::after{content:"\2013";}
 }
 .fchip.on{background:var(--accent-soft);border-color:var(--accent);color:var(--text);}
 
+/* ---- progress list ---- */
+details.progress{margin-top:10px;}
+.proglist{
+  display:flex;flex-direction:column;gap:5px;max-height:260px;overflow-y:auto;
+  padding:0 13px 13px;font-family:var(--serif);font-size:.9rem;line-height:1.3;
+}
+.progrow{display:flex;gap:8px;align-items:baseline;color:var(--muted);}
+.progrow.full{color:var(--text);}
+.progrow .mk{flex:0 0 1em;color:var(--good);font-weight:700;}
+.progrow .part{margin-left:auto;font-family:var(--sans);font-size:.72rem;font-weight:600;}
+
 /* ---- start button ---- */
 .start{
   margin-top:24px;width:100%;cursor:pointer;
@@ -281,6 +292,9 @@ details.filter[open] summary::after{content:"\2013";}
 .card.matched .lec{display:block;}
 .card .tick{display:none;}
 .card.matched .tick{display:inline;color:var(--good);font-weight:700;margin-right:5px;}
+/* Saved from an earlier round; the round's own tick takes over once matched. */
+.card .donemark{display:none;color:var(--good);font-weight:700;margin-right:5px;}
+.card.wasdone:not(.matched) .donemark{display:inline;}
 @keyframes shake{0%,100%{transform:translateX(0);}20%{transform:translateX(-6px);}
   40%{transform:translateX(6px);}60%{transform:translateX(-4px);}80%{transform:translateX(4px);}}
 @keyframes pop{0%{transform:scale(1);}50%{transform:scale(1.04);}100%{transform:scale(1);}}
@@ -432,6 +446,12 @@ details.filter[open] summary::after{content:"\2013";}
         <div class="fchips" id="lecChips"></div>
       </details>
 
+      <details class="filter progress" id="progressBox">
+        <summary id="progSummary">Your progress</summary>
+        <div class="fmini"><button id="progReset" type="button">Reset this list</button></div>
+        <div class="proglist" id="progList"></div>
+      </details>
+
       <button class="start" id="startBtn" type="button">Start round &#9654;</button>
       <div class="bestline" id="setupBest"></div>
     </div>
@@ -445,6 +465,7 @@ details.filter[open] summary::after{content:"\2013";}
         <span class="stat">Time<b id="sTime">0:00</b></span>
         <span class="stat score">Score<b id="sScore">0</b></span>
         <span class="stat streak">Streak<b id="sStreak">0</b></span>
+        <span class="stat" id="sCheckedWrap">Checked<b id="sChecked">0/0</b></span>
       </div>
       <div class="tb-actions">
         <button id="hintBtn" type="button" title="Reveal one pair (&minus;5)">Hint</button>
@@ -542,6 +563,26 @@ function bestKey(){
 function getBest(){try{return parseInt(localStorage.getItem(bestKey())||'0',10);}catch(e){return 0;}}
 function setBest(v){try{localStorage.setItem(bestKey(),String(v));}catch(e){}}
 
+/* ================= PROGRESS ================= */
+/* One saved check mark per matched pair, kept in this browser across rounds.
+   A pair is keyed by its own text rather than item.id, so ids renumbered by a
+   data edit can't move a mark onto the wrong card, a reworded card starts
+   unchecked, and forward and reverse rounds share the same mark. */
+const PROGRESS=false;
+const PROGRESS_KEY=`${STORE_PREFIX}::progress`;
+const checked=new Set((()=>{try{return JSON.parse(localStorage.getItem(PROGRESS_KEY))||[];}catch(e){return [];}})());
+function saveProgress(){try{localStorage.setItem(PROGRESS_KEY,JSON.stringify([...checked]));}catch(e){}}
+/* FNV-1a: 300-character cards hashed down so the saved list stays small */
+function hashText(s){
+  let h=0x811c9dc5;
+  for(let i=0;i<s.length;i++){h^=s.charCodeAt(i);h=Math.imul(h,16777619);}
+  return (h>>>0).toString(36);
+}
+function pairKey(it){
+  const f=curAttr().field, af=curAnchor().field;
+  return hashText([cfg.cat,af,f,it[af],it[f]].join('|'));
+}
+
 /* filter values available for current category */
 function catLectures(){
   const s=new Set();
@@ -573,7 +614,7 @@ function renderSetup(){
     `<span style="opacity:.7">(${MATCHING_DATA[k].length})</span></button>`).join('');
   $('catOpts').querySelectorAll('.opt').forEach(b=>b.onclick=()=>{
     cfg.cat=b.dataset.k; cfg.anchorIdx=0;
-    cfg.attrIdx=Math.min(cfg.attrIdx,visibleAttrs().length-1);
+    cfg.attrIdx=CATS[cfg.cat].defaultAttr??Math.min(cfg.attrIdx,visibleAttrs().length-1);
     cfg.lectures=new Set(catLectures()); renderSetup();
   });
   // anchor (only shown when the category offers more than one)
@@ -649,6 +690,33 @@ function renderSetup(){
   $('startBtn').textContent=enough?'Start round ▶':`Not enough items — widen the ${fs.label.toLowerCase()} filter`;
   const b=getBest();
   $('setupBest').textContent=b?`Best score for this exact setup: ${b}`:'';
+  renderProgress();
+}
+/* The current setup's pairs as a checklist, grouped under their anchor because
+   one anchor can own several pairs (a disease with two genes). */
+function renderProgress(){
+  $('progressBox').classList.toggle('hidden',!PROGRESS);
+  if(!PROGRESS) return;
+  const af=curAnchor().field, rows=new Map();
+  pool().forEach(it=>{
+    const a=String(it[af]);
+    if(!rows.has(a)) rows.set(a,new Set());
+    rows.get(a).add(pairKey(it));
+  });
+  const keys=[...rows.values()].flatMap(k=>[...k]);
+  const have=keys.filter(k=>checked.has(k)).length;
+  $('progSummary').textContent=`Your progress: ${have} of ${keys.length} checked`;
+  $('progList').innerHTML=[...rows.keys()].sort((a,b)=>a.localeCompare(b)).map(a=>{
+    const ks=[...rows.get(a)], got=ks.filter(k=>checked.has(k)).length, full=got===ks.length;
+    const part=ks.length>1?`<span class="part">${got}/${ks.length}</span>`:'';
+    return `<div class="progrow${full?' full':''}"><span class="mk">${full?'✔':''}</span>`+
+           `<span>${esc(a)}</span>${part}</div>`;
+  }).join('');
+  $('progReset').onclick=()=>{
+    if(!have||!confirm(`Clear the ${have} check mark${have>1?'s':''} in this list?`)) return;
+    keys.forEach(k=>checked.delete(k));
+    saveProgress(); renderProgress();
+  };
 }
 function mark(containerId,attr,val){
   $(containerId).querySelectorAll('.opt').forEach(b=>
@@ -682,14 +750,14 @@ function buildRound(){
   // Both carry expect AND matchVal (set to the field value) so the equality check
   // works the same regardless of which side an anchor/target lands on.
   const anchorCards=picked.map(it=>({
-    item:it, state:'idle',
+    item:it, state:'idle', key:pairKey(it),
     display: String(it[af]),
     expect:  String(it[f]),
     matchVal:String(it[f]),
     anchor:  true
   }));
   const targets=picked.map(it=>({
-    item:it, state:'idle',
+    item:it, state:'idle', key:pairKey(it),
     display: String(it[f]),
     expect:  String(it[f]),
     matchVal:String(it[f]),
@@ -704,7 +772,10 @@ function buildRound(){
     matched:0, wrong:0, streak:0, score:0, hints:0,
     pick:null, start:Date.now(), done:false,
     // misses keyed by item.id so we can show "you tripped on X" at end of round
-    missMap:new Map()
+    missMap:new Map(),
+    // A missed pair still has to be matched to finish the round, and a hint hands
+    // it over, so neither can earn its check back until a later round.
+    noCheck:new Set(), earned:0, cleared:0, poolKeys:new Set(pool().map(pairKey))
   };
 }
 
@@ -733,8 +804,10 @@ function renderBoard(){
     cards.forEach((c,i)=>{
       const el=document.createElement('button');
       el.className='card'+(c.anchor?' anchor':'');
+      // Saved marks go on the anchor side only: marks on both sides would pair
+      // the cards up for you.
       el.innerHTML=`<span class="lec">${esc(c.item.lecture)}</span>`+
-        `<span class="tick">✔</span>${esc(c.display)}`;
+        `<span class="tick">✔</span>${c.anchor?'<span class="donemark">✔</span>':''}${esc(c.display)}`;
       el.onclick=()=>onPick(side,i);
       c.el=el; col.appendChild(el);
     });
@@ -755,6 +828,7 @@ function applyStates(){
     c.el.classList.remove('sel','matched');
     if(c.state==='sel') c.el.classList.add('sel');
     if(c.state==='matched') c.el.classList.add('matched');
+    c.el.classList.toggle('wasdone',PROGRESS&&c.anchor&&checked.has(c.key));
   });
 }
 
@@ -778,6 +852,9 @@ function correct(L,R){
   L.state=R.state='matched';
   round.matched++; round.streak++;
   round.score += 10 + (round.streak-1)*2;
+  if(PROGRESS&&!round.noCheck.has(L.key)&&!checked.has(L.key)){
+    checked.add(L.key); round.earned++; saveProgress();
+  }
   applyStates();
   [L,R].forEach(c=>{
     c.el.classList.add('justmatched');
@@ -793,6 +870,12 @@ function wrong(L,R){
   const anchorCard=L.anchor?L:(R.anchor?R:L);
   const id=anchorCard.item.id;
   round.missMap.set(id,(round.missMap.get(id)||0)+1);
+  // Both pairs were got wrong: one's answer was missed, and the other's card
+  // was given away to it.
+  if(PROGRESS){
+    [L,R].forEach(c=>{ round.noCheck.add(c.key); if(checked.delete(c.key)) round.cleared++; });
+    saveProgress();
+  }
   [L,R].forEach(c=>{
     c.el.classList.add('wrong');
     setTimeout(()=>c.el&&c.el.classList.remove('wrong'),420);
@@ -809,6 +892,7 @@ function useHint(){
   if(!R) return;
   round.hints++; round.streak=0;
   round.score=Math.max(0,round.score-5);
+  round.noCheck.add(L.key);
   if(round.pick){round.pick.state='idle';round.pick=null;}
   [L,R].forEach(c=>{
     c.el.classList.add('hintglow');
@@ -823,6 +907,8 @@ function updateStats(){
   $('sTime').textContent=fmtTime(secs);
   $('sScore').textContent=round.score;
   $('sStreak').textContent=round.streak;
+  if(PROGRESS) $('sChecked').textContent=
+    [...round.poolKeys].filter(k=>checked.has(k)).length+'/'+round.poolKeys.size;
 }
 
 function endRound(){
@@ -841,7 +927,9 @@ function endRound(){
   $('mAcc').textContent=acc+'%';
   $('mSub').textContent=`${round.size} pairs · ${round.wrong} misses`+
     (round.hints?` · ${round.hints} hint${round.hints>1?'s':''}`:'')+
-    ` · +${timeBonus} time bonus`;
+    ` · +${timeBonus} time bonus`+
+    (round.earned?` · ${round.earned} new ✔`:'')+
+    (round.cleared?` · ${round.cleared} cleared`:'');
   $('mTitle').textContent = round.wrong===0&&round.hints===0 ? 'Perfect round' : 'Round complete';
   $('mNewBest').classList.toggle('hidden',!isBest);
   $('mBest').textContent='Best for this setup: '+getBest();
@@ -899,6 +987,7 @@ $('themeToggle').onclick=()=>{
 
 /* ================= INIT ================= */
 cfg.lectures=new Set(catLectures());
+$('sCheckedWrap').classList.toggle('hidden',!PROGRESS);
 renderSetup();
 </script>
 </body>
