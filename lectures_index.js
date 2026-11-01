@@ -2456,6 +2456,14 @@ window.receiveLectureIndex([
     "readingTime": 10
   },
   {
+    "id": "cv126",
+    "title": "Lecture #126: Arterial Blood Gas Interpretation and Management of Acute Respiratory Distress Syndrome",
+    "module": "Clinical",
+    "tags": "Lecture #126",
+    "path": "content/json/cv126.file.js",
+    "readingTime": 17
+  },
+  {
     "id": "cv127",
     "title": "Lecture #127: Tuberculosis in the 21st Century: Epidemiology, Pathophysiology, Risk Assessment",
     "module": "Clinical",
