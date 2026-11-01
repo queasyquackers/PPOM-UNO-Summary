@@ -1,0 +1,5353 @@
+1
+00:00:03,000 --> 00:00:05,740
+Hello, future doctors who
+will be caring for me.
+
+2
+00:00:05,740 --> 00:00:08,000
+My name is Dr. Michael Gindi,
+
+3
+00:00:08,000 --> 00:00:10,140
+and I am an
+emergency physician.
+
+4
+00:00:10,140 --> 00:00:12,360
+And we're gonna be
+talking today about
+
+5
+00:00:12,360 --> 00:00:15,260
+two topics that we
+compressed into one.
+
+6
+00:00:15,300 --> 00:00:17,080
+We're gonna talk about how to
+
+7
+00:00:17,080 --> 00:00:20,320
+interpret arterial
+blood gases or ABGs.
+
+8
+00:00:20,340 --> 00:00:23,440
+And then we're gonna
+lead that into the
+
+9
+00:00:23,440 --> 00:00:26,120
+management of acute
+respiratory distress syndrome.
+
+10
+00:00:26,420 --> 00:00:29,080
+These were two lectures
+that Dr. Blasey
+
+11
+00:00:29,080 --> 00:00:31,820
+had done, but now
+that he has left us,
+
+12
+00:00:32,220 --> 00:00:36,240
+the task was placed upon
+me to combine them into one
+
+13
+00:00:36,240 --> 00:00:40,740
+talk. So I do apologize
+if I go over. I may or may
+
+14
+00:00:40,740 --> 00:00:44,540
+not go over, but it's better
+than having two lectures,
+
+15
+00:00:44,540 --> 00:00:47,840
+so you just have one.
+So let's get on with it.
+
+16
+00:00:48,520 --> 00:00:51,980
+The objectives are that at
+the end of this talk, you're
+
+17
+00:00:51,980 --> 00:00:55,060
+going to be able to
+figure out which acid-base
+
+18
+00:00:55,060 --> 00:01:01,100
+disorder is happening given
+arterial blood gas results.
+
+19
+00:01:01,120 --> 00:01:03,500
+We're going to learn
+how to use the pH,
+
+20
+00:01:03,620 --> 00:01:07,460
+the CO2, and the bicarb to
+figure out what is going
+
+21
+00:01:07,460 --> 00:01:10,420
+on and what's compensating
+for what's going on.
+
+22
+00:01:11,060 --> 00:01:14,280
+We're going to also find
+out a little bit about
+
+23
+00:01:14,280 --> 00:01:18,460
+what causes an anion gap
+acidosis and a non-anion
+
+24
+00:01:18,460 --> 00:01:22,100
+gap metabolic acidosis.
+They are conditions that
+
+25
+00:01:22,100 --> 00:01:25,280
+you're going to be seeing
+very commonly in the future,
+
+26
+00:01:25,280 --> 00:01:27,700
+particularly those that
+are anion gap. We're
+
+27
+00:01:27,700 --> 00:01:30,020
+going to also learn how to
+calculate the anion gap.
+
+28
+00:01:30,570 --> 00:01:33,460
+We're going to then
+lead our way into
+
+29
+00:01:33,460 --> 00:01:37,440
+the disorders that cause acute
+
+30
+00:01:37,440 --> 00:01:40,420
+respiratory distress
+syndrome, or ARDS,
+
+31
+00:01:40,480 --> 00:01:44,080
+and how to treat and
+prevent ARDS, and how to
+
+32
+00:01:44,080 --> 00:01:46,880
+distinguish ARDS from
+other types of respiratory
+
+33
+00:01:46,880 --> 00:01:48,980
+failure, which are
+also fairly common.
+
+34
+00:01:50,520 --> 00:01:54,180
+So when you start your
+residency, on day one of your
+
+35
+00:01:54,180 --> 00:01:56,580
+internship, you're going
+to be expected to have
+
+36
+00:01:56,580 --> 00:01:59,220
+been taught certain things
+so that your residency
+
+37
+00:01:59,220 --> 00:02:02,340
+director doesn't have to
+teach them to you. So that
+
+38
+00:02:02,340 --> 00:02:04,500
+means we have to teach you
+how to do these things.
+
+39
+00:02:04,500 --> 00:02:08,760
+And one of the core, uh,
+entrustable professional
+
+40
+00:02:08,760 --> 00:02:11,920
+activities, which are
+our responsibility for
+
+41
+00:02:11,920 --> 00:02:15,560
+teaching you is how to
+perform certain basic, uh,
+
+42
+00:02:15,920 --> 00:02:18,160
+common tests. And one
+of them is certainly
+
+43
+00:02:18,160 --> 00:02:20,760
+going to be how to
+draw an arterial blood
+
+44
+00:02:20,760 --> 00:02:23,860
+gas. We usually use the
+radial artery first.
+
+45
+00:02:24,560 --> 00:02:28,750
+It's a very convenient
+place. It's a little bit
+
+46
+00:02:28,750 --> 00:02:31,440
+tender, but not as tender
+as some other areas.
+
+47
+00:02:31,740 --> 00:02:34,520
+And we use it because it has
+
+48
+00:02:34,520 --> 00:02:36,120
+a collateral circulation.
+
+49
+00:02:36,400 --> 00:02:39,080
+And everybody remembers
+the Allen test from
+
+50
+00:02:39,080 --> 00:02:41,160
+DPR. Well, this is where
+it becomes extremely
+
+51
+00:02:41,160 --> 00:02:45,540
+important to do it. A person
+has normal circulation
+
+52
+00:02:45,540 --> 00:02:48,960
+if they have an ulnar
+artery and a radial
+
+53
+00:02:48,960 --> 00:02:51,660
+artery that are connected
+with a palmar arch.
+
+54
+00:02:51,660 --> 00:02:56,020
+So if you happen to,
+by poor circumstances,
+
+55
+00:02:57,520 --> 00:03:01,540
+destroy the radial artery,
+you will still have the
+
+56
+00:03:01,540 --> 00:03:04,560
+ulnar artery to perfuse
+the hand. So that's why it
+
+57
+00:03:04,560 --> 00:03:06,580
+is absolutely essential
+to perform the Allen test
+
+58
+00:03:06,580 --> 00:03:09,040
+whenever using the radial
+artery. There are other
+
+59
+00:03:09,040 --> 00:03:11,800
+arteries that you can use
+but this is the one we start
+
+60
+00:03:11,800 --> 00:03:15,530
+with usually prepare the
+skin with some antiseptic
+
+61
+00:03:15,920 --> 00:03:18,980
+alcohol is fine insert
+your needle at about
+
+62
+00:03:18,980 --> 00:03:22,960
+40 degrees or 60 degrees
+in that range right
+
+63
+00:03:22,960 --> 00:03:24,680
+into where you're feeling
+the pulse with your
+
+64
+00:03:24,680 --> 00:03:26,580
+finger try not to stick
+yourself in the finger
+
+65
+00:03:27,000 --> 00:03:31,420
+the syringes that are attached
+to the needle are special
+
+66
+00:03:31,420 --> 00:03:34,780
+they have a little bead of
+heparin inside of it and
+
+67
+00:03:34,780 --> 00:03:38,000
+it's also vented now it
+starts out closed so the
+
+68
+00:03:38,000 --> 00:03:41,900
+pressure of the arterial
+pulsation actually fills the
+
+69
+00:03:41,900 --> 00:03:45,560
+syringe and pushes the plunger
+up so don't draw back on
+
+70
+00:03:45,560 --> 00:03:49,220
+it because that can introduce
+air into it and air can
+
+71
+00:03:49,220 --> 00:03:53,100
+cause the results of the
+ABG to be inaccurate because
+
+72
+00:03:53,100 --> 00:03:57,680
+the air can have oxygen and
+diffuse into or out of the
+
+73
+00:03:57,680 --> 00:04:03,980
+serum there the room air is
+21% but you should recorded
+
+74
+00:04:03,980 --> 00:04:07,760
+as 0.21 that way you can
+do your calculations when
+
+75
+00:04:07,760 --> 00:04:12,280
+you when they return or
+when the results return or
+
+76
+00:04:12,280 --> 00:04:15,960
+whoever's seeing the results
+in the future can look at
+
+77
+00:04:15,960 --> 00:04:19,350
+the results and know what
+they mean based upon how much
+
+78
+00:04:19,350 --> 00:04:22,740
+oxygen was being inspired
+at the time of the blood
+
+79
+00:04:22,740 --> 00:04:26,720
+draw put the specimen on ice
+and send to the lab immediately
+
+80
+00:04:26,720 --> 00:04:30,620
+so that you minimize the
+metabolism that may be
+
+81
+00:04:30,620 --> 00:04:34,180
+going on inside the cells so
+you get a picture of what's
+
+82
+00:04:34,180 --> 00:04:36,900
+actually going on as the
+blood left the body and not
+
+83
+00:04:36,900 --> 00:04:39,820
+what is going on after the
+blood has left the body
+
+84
+00:04:39,910 --> 00:04:42,740
+this is an artery not a
+vein so you do have to apply
+
+85
+00:04:42,740 --> 00:04:47,000
+compression for a longer period
+of time these are numbers
+
+86
+00:04:47,000 --> 00:04:49,820
+that you really do have to
+commit to memory I'm going
+
+87
+00:04:49,820 --> 00:04:52,580
+to be going over some
+formulas that you don't in the
+
+88
+00:04:52,580 --> 00:04:56,120
+next slide but this one you
+do these are the numbers
+
+89
+00:04:56,120 --> 00:04:58,020
+that you're going to get
+back with the arterial blood
+
+90
+00:04:58,020 --> 00:05:04,000
+gas the pH range is 7.35
+to 7.45 the important thing
+
+91
+00:05:04,000 --> 00:05:06,780
+to remember is that the
+body does not overcompensate
+
+92
+00:05:07,160 --> 00:05:13,060
+so if there's a change in
+the pH from that mid value of
+
+93
+00:05:13,060 --> 00:05:18,060
+7.4 if it's lower than 7
+.4 there's a process that's
+
+94
+00:05:18,060 --> 00:05:21,740
+making it more acidemic and
+if it's more than 7.4 there's
+
+95
+00:05:21,740 --> 00:05:25,780
+a process that's making
+it more alkalemic, but it
+
+96
+00:05:25,780 --> 00:05:29,520
+never overcompensates. So
+the primary process is the
+
+97
+00:05:29,520 --> 00:05:33,440
+one that is causing the
+primary derangement of the pH.
+
+98
+00:05:35,260 --> 00:05:38,940
+PCO2 also has a range,
+but remember 40 is right
+
+99
+00:05:38,940 --> 00:05:41,040
+down in the middle and
+that's what it should be.
+
+100
+00:05:41,430 --> 00:05:44,160
+PAO2, 90 is right down in
+the middle. That's about
+
+101
+00:05:44,160 --> 00:05:48,860
+normal, but that can vary
+a lot. And bicarb, HCO3
+
+102
+00:05:48,860 --> 00:05:52,560
+- is also called bicarb.
+That should be about 24.
+
+103
+00:05:52,590 --> 00:05:54,560
+And so there's a little
+bit of a range with that
+
+104
+00:05:54,560 --> 00:05:58,330
+too. And then your O2
+saturation should be 96 to 99%.
+
+105
+00:05:58,330 --> 00:05:59,920
+Those are the numbers
+you're going to get back.
+
+106
+00:06:01,620 --> 00:06:04,900
+Now, before we go on to
+some of the formulas,
+
+107
+00:06:04,900 --> 00:06:08,060
+I just wanted to
+introduce a relatively new
+
+108
+00:06:08,060 --> 00:06:11,420
+concept, and that is that
+we don't really need to
+
+109
+00:06:11,420 --> 00:06:14,760
+be doing as many ABGs
+as we have always done.
+
+110
+00:06:15,480 --> 00:06:19,060
+ABGs are painful, ask anyone
+who's had one, and they're
+
+111
+00:06:19,060 --> 00:06:21,500
+also dangerous. Those needles
+that you poke into the
+
+112
+00:06:21,500 --> 00:06:25,400
+artery are sharp. So if you
+wiggle just a little bit,
+
+113
+00:06:25,400 --> 00:06:28,240
+not only can you poke a
+hole in one side of the
+
+114
+00:06:28,240 --> 00:06:30,860
+artery, but you can lacerate
+the other side of the artery.
+
+115
+00:06:30,860 --> 00:06:33,390
+And that can cause a lot
+of bleeding and vasospasm,
+
+116
+00:06:33,680 --> 00:06:36,520
+ischemia, and potentially
+even necrosis.
+
+117
+00:06:37,480 --> 00:06:41,060
+Though if you don't have
+bleeding or laceration
+
+118
+00:06:41,060 --> 00:06:43,520
+of the artery, even
+just by the very fact of
+
+119
+00:06:43,520 --> 00:06:46,180
+poking a needle through
+the wall of an artery
+
+120
+00:06:46,180 --> 00:06:50,160
+can cause a future microaneurysm.
+And a microaneurysm
+
+121
+00:06:50,160 --> 00:06:52,500
+is not fun. You get
+turbulent blood flow,
+
+122
+00:06:53,040 --> 00:06:54,700
+atherosclerosis, leaking,
+
+123
+00:06:54,700 --> 00:06:56,240
+lots of bad things can happen.
+
+124
+00:06:56,560 --> 00:06:58,540
+So it is dangerous.
+
+125
+00:06:58,660 --> 00:07:03,560
+Now there are things that
+we've invented in medicine
+
+126
+00:07:03,560 --> 00:07:06,240
+that can take the
+place of all the things
+
+127
+00:07:06,240 --> 00:07:10,340
+that we had always used
+the ABG to tell us. First,
+
+128
+00:07:10,520 --> 00:07:11,560
+pulse oximetry,
+
+129
+00:07:11,720 --> 00:07:15,300
+modern pulse oximetry is
+very, very accurate it used
+
+130
+00:07:15,300 --> 00:07:17,400
+to be not so accurate but
+now it's getting much much
+
+131
+00:07:17,400 --> 00:07:19,860
+better and so you don't
+really need the oxygen
+
+132
+00:07:19,860 --> 00:07:23,320
+level on the abg if you have
+a reliable pulse ox there
+
+133
+00:07:23,320 --> 00:07:25,860
+are just a couple of
+exceptions carbon monoxide
+
+134
+00:07:25,860 --> 00:07:28,660
+pointed poisoning is the
+main one now these modern
+
+135
+00:07:28,660 --> 00:07:33,440
+machines cannot distinguish
+carboxyhemoglobin from
+
+136
+00:07:33,440 --> 00:07:37,660
+oxyhemoglobin so you're going
+to have a falsely elevated
+
+137
+00:07:38,820 --> 00:07:40,660
+pulse ox reading if you have
+
+138
+00:07:40,660 --> 00:07:42,020
+carbon monoxide poisoning.
+
+139
+00:07:42,580 --> 00:07:48,380
+Also, severe anemia relies
+on the oxygen dissolved
+
+140
+00:07:48,380 --> 00:07:51,720
+in the blood and not
+the oxygen bound to the
+
+141
+00:07:51,720 --> 00:07:54,760
+hemoglobin. And if there's
+less hemoglobin around, you're
+
+142
+00:07:54,760 --> 00:07:59,020
+going to have an inaccurate
+result. And also dark
+
+143
+00:07:59,020 --> 00:08:01,480
+nail polish. If you put
+the probe on the finger,
+
+144
+00:08:01,760 --> 00:08:04,280
+front of the finger,
+dorsal finger to the palmar
+
+145
+00:08:04,280 --> 00:08:07,580
+aspect of the finger, you're
+going to maybe get the
+
+146
+00:08:07,580 --> 00:08:11,480
+light, which is how it
+works. It works by the change
+
+147
+00:08:11,480 --> 00:08:13,740
+in the wavelength of light
+from arterial pulsation
+
+148
+00:08:13,740 --> 00:08:16,540
+to venous pulsation, and
+you can't get the change as
+
+149
+00:08:16,540 --> 00:08:19,360
+much going through nail
+polish. But if you just turn
+
+150
+00:08:19,360 --> 00:08:23,360
+it so that it's on the
+ulnar and radial side of
+
+151
+00:08:23,360 --> 00:08:25,580
+the finger, it should work.
+You can also put it on
+
+152
+00:08:25,580 --> 00:08:28,820
+the earlobe or on a toe, so
+that shouldn't be a major
+
+153
+00:08:28,820 --> 00:08:31,020
+issue. And you can also
+clean the nail polish off.
+
+154
+00:08:31,860 --> 00:08:34,900
+Also, the CO2 measurements
+are not needed if
+
+155
+00:08:34,900 --> 00:08:37,880
+you have an accurate
+end tidal co2 machine
+
+156
+00:08:37,880 --> 00:08:40,020
+and that's just done
+with a non-invasive nasal
+
+157
+00:08:40,020 --> 00:08:43,080
+cannula measuring what
+is the carbon dioxide
+
+158
+00:08:43,080 --> 00:08:46,720
+level coming out of
+the nose at the end of
+
+159
+00:08:48,460 --> 00:08:51,280
+exhalation also in there
+have been a bunch of studies
+
+160
+00:08:51,280 --> 00:08:53,300
+especially in sick people
+that because that's where
+
+161
+00:08:53,300 --> 00:08:56,200
+we really care about it
+mostly is that the venous ph
+
+162
+00:08:56,200 --> 00:09:00,380
+if you happen to draw a
+venous blood gas is about 0.05
+
+163
+00:09:00,380 --> 00:09:03,720
+less than arterial. Venous
+blood draws are less
+
+164
+00:09:03,720 --> 00:09:07,100
+painful and a lot less
+dangerous. So if you need the pH,
+
+165
+00:09:07,380 --> 00:09:11,800
+draw the venous pH and
+just add 0.05 and that's
+
+166
+00:09:11,800 --> 00:09:14,260
+probably close enough
+to the arterial pH.
+
+167
+00:09:15,180 --> 00:09:19,020
+In addition, the bicarb
+value that you get
+
+168
+00:09:19,020 --> 00:09:21,840
+on your ABG is a
+calculated value. It's
+
+169
+00:09:21,840 --> 00:09:23,980
+not measured. It's
+actually calculated
+
+170
+00:09:23,980 --> 00:09:27,620
+based upon the other
+parameters of the ABG.
+
+171
+00:09:27,700 --> 00:09:29,800
+So you shouldn't even be
+using that measurement
+
+172
+00:09:29,800 --> 00:09:32,020
+to begin with. The one
+you should be using is the
+
+173
+00:09:32,020 --> 00:09:34,420
+one you get from your
+serum electrolyte panel, a
+
+174
+00:09:34,420 --> 00:09:37,720
+BMP, or a basic metabolic
+panel, is going to give
+
+175
+00:09:37,720 --> 00:09:40,220
+you an actual measured
+bicarb. And that's the one
+
+176
+00:09:40,220 --> 00:09:41,860
+you should be using anyway
+for your calculations.
+
+177
+00:09:42,100 --> 00:09:44,320
+So all in all,
+there's very little
+
+178
+00:09:44,320 --> 00:09:46,880
+reason to be doing
+ABGs anymore.
+
+179
+00:09:47,280 --> 00:09:49,260
+That being said,
+this is more of
+
+180
+00:09:49,260 --> 00:09:51,180
+an emergency department ethos.
+
+181
+00:09:51,180 --> 00:09:53,540
+They're doing a lot of
+ABGs in the intensive care
+
+182
+00:09:53,540 --> 00:09:57,340
+unit, and I can't fault
+them for it. They have the
+
+183
+00:09:57,340 --> 00:10:03,480
+need for a lot more
+prolonged investigation, and
+
+184
+00:10:03,480 --> 00:10:07,340
+sometimes they need to get
+a much more accurate sample.
+
+185
+00:10:07,340 --> 00:10:12,520
+So I'm not criticizing
+my ICU brethren, but in
+
+186
+00:10:12,520 --> 00:10:14,540
+the ED we do less and less
+of these than we used to.
+
+187
+00:10:15,680 --> 00:10:19,980
+This is a very simple way
+to approach acid-based
+
+188
+00:10:19,980 --> 00:10:23,420
+disorders once you get your
+ABG results. The first thing
+
+189
+00:10:23,420 --> 00:10:26,100
+you should always do is look
+at your pH. that's always
+
+190
+00:10:26,100 --> 00:10:29,180
+number one remember the
+body doesn't overcorrect so
+
+191
+00:10:29,180 --> 00:10:32,480
+if the pH is less than 7.4
+something's going on if it's
+
+192
+00:10:32,480 --> 00:10:37,580
+more than 7.4 something
+is going on also if 7.4 if
+
+193
+00:10:37,580 --> 00:10:41,180
+it's less than 7.4 the patient
+is acidemic and the reason
+
+194
+00:10:41,180 --> 00:10:44,680
+I'm using the suffix emic
+is because emic is what
+
+195
+00:10:44,680 --> 00:10:47,360
+you're actually measuring
+in the blood it's actually a
+
+196
+00:10:47,360 --> 00:10:52,720
+value some people use the
+word osis acidosis which is
+
+197
+00:10:52,720 --> 00:10:55,040
+a little bit inaccurate when
+you're actually measuring
+
+198
+00:10:55,040 --> 00:10:58,460
+something. When you measure
+what's going on in the
+
+199
+00:10:58,460 --> 00:11:01,380
+blood, the pH of the blood
+is less than 7.4, they are
+
+200
+00:11:01,380 --> 00:11:05,640
+acidemic. The process that
+got them there, an acidosis,
+
+201
+00:11:05,640 --> 00:11:08,580
+will lead to an acidemia.
+This is a little semantical
+
+202
+00:11:08,580 --> 00:11:10,740
+but it's kind of important
+in how you think about
+
+203
+00:11:10,740 --> 00:11:14,400
+what's causing the abnormality
+that you're measuring.
+
+204
+00:11:14,660 --> 00:11:17,920
+So if the pH is
+greater than 7.4, it's
+
+205
+00:11:17,920 --> 00:11:19,920
+an alkalemia that
+you have and some
+
+206
+00:11:19,920 --> 00:11:22,560
+alkalotic process is
+responsible for it.
+
+207
+00:11:22,900 --> 00:11:25,600
+If the pH is normal, either
+the patient is totally
+
+208
+00:11:25,600 --> 00:11:29,560
+fine or there's two processes
+going on, one in one
+
+209
+00:11:29,560 --> 00:11:31,760
+direction and another in
+the other direction, and
+
+210
+00:11:31,760 --> 00:11:34,480
+that is nothing that you
+would be expected at your
+
+211
+00:11:34,480 --> 00:11:36,960
+level of training to be
+able to figure out. We
+
+212
+00:11:36,960 --> 00:11:40,000
+wouldn't give it to you a
+situation like that on an
+
+213
+00:11:40,000 --> 00:11:42,120
+exam, and nor would you
+see that on a board exam.
+
+214
+00:11:42,360 --> 00:11:44,580
+So the next step after
+you've determined
+
+215
+00:11:44,580 --> 00:11:47,020
+whether the patient is
+alkalemic or acidemic
+
+216
+00:11:47,020 --> 00:11:49,500
+is now look at the
+CO2 and the bicarb.
+
+217
+00:11:51,320 --> 00:11:53,260
+Whichever one of those two
+
+218
+00:11:53,260 --> 00:11:56,660
+values could be causing that pH
+
+219
+00:11:57,100 --> 00:12:00,520
+abnormality, that's the
+primary process. And then
+
+220
+00:12:00,520 --> 00:12:03,580
+the other one is the one
+that's compensating for
+
+221
+00:12:03,580 --> 00:12:09,400
+it. That's in a primary
+non-mixed problem. That
+
+222
+00:12:09,400 --> 00:12:12,260
+is what you've got to do
+and what you'll be expected
+
+223
+00:12:12,260 --> 00:12:17,740
+to do on an exam boards
+or otherwise so the
+
+224
+00:12:17,740 --> 00:12:21,100
+other process is called
+the compensatory response
+
+225
+00:12:21,720 --> 00:12:24,760
+and that is usually
+because the kidneys or the
+
+226
+00:12:24,760 --> 00:12:28,460
+lungs are doing something
+to try to respond to the
+
+227
+00:12:28,460 --> 00:12:32,080
+primary disorder or the
+initial insult now in a real
+
+228
+00:12:32,080 --> 00:12:35,300
+patient you will have
+mixed pictures but again
+
+229
+00:12:35,300 --> 00:12:38,260
+don't worry about that
+for this particular lesson
+
+230
+00:12:39,500 --> 00:12:42,980
+so let's talk about how
+to distinguish um primary
+
+231
+00:12:42,980 --> 00:12:46,760
+from compensatory responses
+so let's say you have a ph
+
+232
+00:12:46,760 --> 00:12:50,380
+that's less 0.74 it can either
+be that it's a metabolic
+
+233
+00:12:50,380 --> 00:12:53,900
+acidosis meaning um
+there's a whole bunch of
+
+234
+00:12:53,900 --> 00:12:55,960
+differential diagnosis that
+can cause that and we're
+
+235
+00:12:55,960 --> 00:12:57,940
+going to get into that a
+little bit later or it could
+
+236
+00:12:57,940 --> 00:13:01,080
+be a respiratory acidosis
+usually the reason for a
+
+237
+00:13:01,080 --> 00:13:04,860
+respiratory acidosis and a
+ph of less than 7.4 is the
+
+238
+00:13:04,860 --> 00:13:07,280
+patient isn't breathing
+properly isn't exchanging
+
+239
+00:13:07,280 --> 00:13:12,080
+gas properly and is retaining
+carbon dioxide they're
+
+240
+00:13:12,080 --> 00:13:14,940
+not getting rid of it and
+in response and as a result
+
+241
+00:13:14,940 --> 00:13:19,340
+the pCO2 rises so what
+happens is the kidney
+
+242
+00:13:20,480 --> 00:13:24,130
+increases its retention of
+bicarb it gets rid of more
+
+243
+00:13:24,130 --> 00:13:28,480
+hydrogen ions and keeps more
+bicarb that's the compensatory
+
+244
+00:13:28,480 --> 00:13:32,280
+response that the
+kidneys do to a primary
+
+245
+00:13:32,380 --> 00:13:35,740
+respiratory acidosis when
+you're not breathing properly.
+
+246
+00:13:36,320 --> 00:13:39,120
+The opposite happens when
+you're breathing too much.
+
+247
+00:13:39,120 --> 00:13:42,460
+So if you have a respiratory
+alkalosis, if your pH is
+
+248
+00:13:42,460 --> 00:13:45,540
+greater than 7.4, there's
+some alkalosis happening. You
+
+249
+00:13:45,540 --> 00:13:48,720
+look at the PCO2 and if it's
+down, that's the primary
+
+250
+00:13:48,720 --> 00:13:52,120
+problem because you're blowing
+off carbon dioxide because
+
+251
+00:13:52,120 --> 00:13:55,760
+you're breathing so fast.
+And as a response, the
+
+252
+00:13:55,760 --> 00:13:58,920
+kidneys get rid of the bicarb
+because it wants to get
+
+253
+00:13:58,920 --> 00:14:03,460
+more towards the direction
+of acidemia. So it's going to
+
+254
+00:14:03,460 --> 00:14:07,520
+get rid of the alkaline.
+It's going to get rid of the
+
+255
+00:14:07,520 --> 00:14:10,160
+bicarb. That's going to be
+the compensatory response.
+
+256
+00:14:10,440 --> 00:14:13,940
+Metabolic acidosis, common
+reasons are sepsis, but there
+
+257
+00:14:13,940 --> 00:14:15,520
+are many, many, many reasons.
+And we're going to go
+
+258
+00:14:15,520 --> 00:14:18,460
+over a nice mnemonic device
+later to figure out the
+
+259
+00:14:18,460 --> 00:14:21,980
+differential diagnosis.
+diagnosis. And if it's less than
+
+260
+00:14:21,980 --> 00:14:28,500
+7.4 pH, if the bicarb is
+low, that is the primary
+
+261
+00:14:28,500 --> 00:14:34,220
+problem. And the body's
+response is that the lungs start
+
+262
+00:14:34,640 --> 00:14:39,140
+breathing faster and blows
+off more carbon dioxide to
+
+263
+00:14:39,140 --> 00:14:46,660
+get rid of more hydrogen
+ions. So as a response to too
+
+264
+00:14:46,660 --> 00:14:50,020
+many hydrogen ions, You get
+rid of the PCO2 by blowing
+
+265
+00:14:50,020 --> 00:14:52,560
+it off, and if you remember
+the Henderson-Hasselbalch
+
+266
+00:14:52,560 --> 00:14:58,060
+equation, that will bring
+your pH closer to normal,
+
+267
+00:14:58,060 --> 00:15:01,220
+but not ever getting to
+normal, as I mentioned before.
+
+268
+00:15:02,070 --> 00:15:04,380
+Metabolic alkalosis,
+not too common, but if
+
+269
+00:15:04,380 --> 00:15:07,360
+you eat a lot of Tums
+or drink too much milk,
+
+270
+00:15:07,440 --> 00:15:10,420
+your bicarb can go up.
+That's a metabolic problem,
+
+271
+00:15:10,420 --> 00:15:13,720
+and as a response, you won't
+breathe as much. You'll
+
+272
+00:15:13,720 --> 00:15:16,200
+retain more CO2, you'll
+stop breathing, and your
+
+273
+00:15:16,200 --> 00:15:18,920
+PCO2 level will go up.
+Notice that in all of these
+
+274
+00:15:18,920 --> 00:15:22,580
+boxes, the arrows are all
+in the same direction.
+
+275
+00:15:22,580 --> 00:15:26,920
+That's because the primary
+problem causes the pH to
+
+276
+00:15:26,920 --> 00:15:29,880
+go in one direction, and
+an increase of the opposite
+
+277
+00:15:29,880 --> 00:15:33,040
+thing causes the pH to go
+in the other direction.
+
+278
+00:15:35,620 --> 00:15:37,980
+These are the formulas
+that you do not
+
+279
+00:15:37,980 --> 00:15:39,580
+need to memorize,
+but just have them in
+
+280
+00:15:39,580 --> 00:15:41,260
+your pocket or on
+your phone somewhere
+
+281
+00:15:41,340 --> 00:15:44,780
+about what you should
+expect with certain changes
+
+282
+00:15:44,780 --> 00:15:47,600
+and whether those changes
+are acute or chronic.
+
+283
+00:15:47,740 --> 00:15:50,760
+But what's easier is to
+try to use this diagram,
+
+284
+00:15:50,760 --> 00:15:52,820
+which has been around for
+a really long time. It's
+
+285
+00:15:52,820 --> 00:15:56,580
+called the Davenport
+Diagram, and we're going to
+
+286
+00:15:56,580 --> 00:15:59,000
+just give one example
+about how to use it. But if
+
+287
+00:15:59,000 --> 00:16:01,100
+you want to learn it a
+little bit more in depth,
+
+288
+00:16:01,100 --> 00:16:03,670
+take a look at this link
+that I put on the slide.
+
+289
+00:16:03,820 --> 00:16:05,950
+It gives you a little
+bit more scenarios
+
+290
+00:16:07,740 --> 00:16:09,040
+that you can work through. But
+
+291
+00:16:09,040 --> 00:16:10,620
+let's just work
+through one scenario.
+
+292
+00:16:10,620 --> 00:16:12,780
+This is your ABG on the
+bottom there, which you
+
+293
+00:16:12,780 --> 00:16:14,620
+get back with the three
+values. The first thing
+
+294
+00:16:14,620 --> 00:16:17,300
+is you look at the pH,
+like I said. This pH is 7
+
+295
+00:16:17,300 --> 00:16:20,540
+.3, which means they're
+acidemic. So which of those
+
+296
+00:16:20,540 --> 00:16:24,620
+two problems, bicarb
+being low, less than 24,
+
+297
+00:16:24,620 --> 00:16:30,760
+or PCO2 being low, less
+than 40, can cause an
+
+298
+00:16:30,760 --> 00:16:35,340
+acidemia? Well, bicarb
+can. If your PCO2 is lower,
+
+299
+00:16:35,340 --> 00:16:36,750
+then that should cause
+you to be alkalemic.
+
+300
+00:16:36,900 --> 00:16:40,100
+So that has to be the
+compensatory response to the
+
+301
+00:16:40,100 --> 00:16:42,820
+bicarb being low. Well, let's
+see if it's true. Let's look
+
+302
+00:16:42,820 --> 00:16:46,500
+at these triangulations
+of these lines. So look at
+
+303
+00:16:46,500 --> 00:16:51,020
+the pH over here of 7.3, go
+up to 16, which is what the
+
+304
+00:16:51,020 --> 00:16:57,860
+bicarb is, and then come
+down to the isobar of 30,
+
+305
+00:16:58,030 --> 00:17:01,240
+which is what the compensatory
+response is. It brings
+
+306
+00:17:01,240 --> 00:17:04,940
+the CO2 down to 30, and you
+see that it falls in this
+
+307
+00:17:04,940 --> 00:17:08,440
+area called the metabolic
+acidosis. It's pretty simple.
+
+308
+00:17:11,360 --> 00:17:13,780
+Okay, what is an anion gap?
+this is a really important
+
+309
+00:17:13,780 --> 00:17:16,340
+thing for you to understand
+and to learn how to
+
+310
+00:17:16,340 --> 00:17:20,960
+calculate what it is is that
+it measures on I'm sorry
+
+311
+00:17:20,960 --> 00:17:26,100
+it's a representation of the
+anions that we don't measure
+
+312
+00:17:26,100 --> 00:17:28,260
+there are lots of different
+kinds of anions in our
+
+313
+00:17:28,260 --> 00:17:31,840
+body and we only measure a
+few and some of them will
+
+314
+00:17:31,840 --> 00:17:34,860
+be returned when you get
+your basic metabolic panel
+
+315
+00:17:34,860 --> 00:17:37,620
+or your electrolyte panel
+but it's not measuring
+
+316
+00:17:37,620 --> 00:17:40,100
+everything and so because
+we don't measure everything
+
+317
+00:17:40,720 --> 00:17:44,640
+there is a gap and that gap
+is normally between 8 and
+
+318
+00:17:44,640 --> 00:17:47,140
+16. It depends on your lab.
+I've seen 8 to 12. I've
+
+319
+00:17:47,140 --> 00:17:50,580
+seen 10 to 12. I've seen 10
+to 16. It's in that range.
+
+320
+00:17:50,720 --> 00:17:54,860
+So we are not electrically
+charged inside of our
+
+321
+00:17:54,860 --> 00:17:57,160
+body, unlike this cute
+little kid who may have,
+
+322
+00:17:57,160 --> 00:17:59,470
+you know, slid his feet
+against the carpeting
+
+323
+00:17:59,560 --> 00:18:01,880
+and the hair stands up.
+That's because there's a
+
+324
+00:18:01,880 --> 00:18:04,180
+charge on the outside of
+your body, but the inside
+
+325
+00:18:04,180 --> 00:18:07,000
+of your body is not
+charged. It remains neutral.
+
+326
+00:18:07,000 --> 00:18:11,940
+So there's no real decrease
+in anions. It's just
+
+327
+00:18:11,940 --> 00:18:14,440
+that there are some that
+we are not measuring.
+
+328
+00:18:14,780 --> 00:18:17,540
+So how do you calculate
+it? This is a formula
+
+329
+00:18:17,540 --> 00:18:19,340
+that you do have to
+commit to memory, and it's
+
+330
+00:18:19,340 --> 00:18:21,660
+not that complicated.
+It's the sodium minus,
+
+331
+00:18:21,660 --> 00:18:24,000
+in parentheses, the
+chloride plus the bicarb.
+
+332
+00:18:24,120 --> 00:18:29,880
+If it's more than 16, you
+have an anion gap acidosis.
+
+333
+00:18:30,800 --> 00:18:36,380
+And if it's less than 16,
+or less than whatever number
+
+334
+00:18:36,380 --> 00:18:39,480
+is your lab says is
+normal, then you have a non
+
+335
+00:18:39,480 --> 00:18:43,340
+-anion gap. and if it's an
+acidotic patient it's an
+
+336
+00:18:43,340 --> 00:18:45,960
+anion gap acidosis and there's
+a differential diagnosis
+
+337
+00:18:45,960 --> 00:18:50,190
+for both and we're gonna
+go through those so these
+
+338
+00:18:50,360 --> 00:18:54,940
+are excess ions that aren't
+being measured but are
+
+339
+00:18:54,940 --> 00:18:59,620
+nevertheless being added
+to the plasma and it has
+
+340
+00:18:59,620 --> 00:19:02,140
+a differential diagnosis
+which I'm gonna go through
+
+341
+00:19:02,140 --> 00:19:06,360
+very soon this is the
+differential diagnosis for an
+
+342
+00:19:06,360 --> 00:19:09,320
+anion gap metabolic
+acidosis high meaning it's
+
+343
+00:19:09,320 --> 00:19:12,880
+greater than 16 or so methanol
+we're going to talk about
+
+344
+00:19:12,880 --> 00:19:17,100
+some toxic alcohols later
+uremia which you get from
+
+345
+00:19:17,100 --> 00:19:22,320
+liver from kidney failure
+diabetes can cause a
+
+346
+00:19:22,320 --> 00:19:25,940
+ketoacidosis that's called
+DKA diabetic ketoacidosis
+
+347
+00:19:25,940 --> 00:19:29,140
+it's a very common cause
+of an anion gap metabolic
+
+348
+00:19:29,140 --> 00:19:33,020
+acidosis and there are other
+rarer courses of ketoacidosis
+
+349
+00:19:33,440 --> 00:19:36,100
+starvation can do it,
+and also alcoholic
+
+350
+00:19:36,100 --> 00:19:39,320
+ketoacidosis, which is a kind
+of starvation ketoacidosis.
+
+351
+00:19:39,320 --> 00:19:42,280
+Both of them are pretty
+rare compared to diabetes.
+
+352
+00:19:42,780 --> 00:19:45,020
+Peraldehyde is an old
+-fashioned kind of seizure
+
+353
+00:19:45,020 --> 00:19:47,420
+medicine. Nobody
+really uses it anymore.
+
+354
+00:19:47,560 --> 00:19:51,420
+Iron, you can become toxic
+on iron. If the kid eats too
+
+355
+00:19:51,420 --> 00:19:55,900
+many Flintstones chewable
+vitamins, iron can be a
+
+356
+00:19:55,900 --> 00:19:59,480
+cause of a metabolic acidosis
+that has a high anion gap.
+
+357
+00:19:59,680 --> 00:20:01,760
+Isoniazid, also called INH, is
+
+358
+00:20:01,760 --> 00:20:02,970
+the treatment for tuberculosis.
+
+359
+00:20:03,280 --> 00:20:07,600
+Inborn errors of metabolism,
+which result in different
+
+360
+00:20:07,600 --> 00:20:13,000
+types of metabolism that
+tend to be anaerobic and
+
+361
+00:20:13,000 --> 00:20:17,700
+therefore lead to lactic
+acidosis. And lactic acidosis
+
+362
+00:20:17,700 --> 00:20:20,780
+is the most common reason.
+And probably the most common
+
+363
+00:20:20,780 --> 00:20:24,480
+reason for that is either
+bleeding or sepsis. Both
+
+364
+00:20:24,480 --> 00:20:28,920
+of those problems keep you
+from perfusing your end organs
+
+365
+00:20:28,920 --> 00:20:31,240
+and because your end
+organs need to be perfused
+
+366
+00:20:31,240 --> 00:20:34,320
+with oxygen not getting the
+oxygen they go into anaerobic
+
+367
+00:20:34,320 --> 00:20:38,260
+metabolism and the main
+byproduct of anaerobic
+
+368
+00:20:38,260 --> 00:20:41,840
+metabolism is lactic acidosis
+ethylene glycol is another
+
+369
+00:20:41,840 --> 00:20:45,980
+alcohol toxin that can
+create an anion gap metabolic
+
+370
+00:20:45,980 --> 00:20:50,700
+acidosis and lastly salicylates
+which is the chemical
+
+371
+00:20:50,700 --> 00:20:54,460
+compound in aspirin that can
+cause metabolic acidosis.
+
+372
+00:20:55,180 --> 00:20:57,880
+These are less common,
+but there are lots of
+
+373
+00:20:57,880 --> 00:21:02,160
+causes to non-anion gap
+metabolic acidosis. You don't
+
+374
+00:21:02,160 --> 00:21:03,800
+need to commit these
+to memory, but realize
+
+375
+00:21:03,800 --> 00:21:08,420
+that renal tubular acidosis
+type 1 and 2 can cause
+
+376
+00:21:08,420 --> 00:21:12,200
+a metabolic acidosis, but
+also uremia, which you
+
+377
+00:21:12,200 --> 00:21:15,780
+can get from renal
+failure, can cause an anion
+
+378
+00:21:15,780 --> 00:21:18,880
+gap acidosis. So renal
+failure can do either one,
+
+379
+00:21:19,600 --> 00:21:21,440
+and there are drugs that
+could do it as well.
+
+380
+00:21:22,580 --> 00:21:25,070
+So how do we take care of
+somebody with a metabolic
+
+381
+00:21:25,070 --> 00:21:27,480
+acidosis? Well, most
+important thing, and this is a
+
+382
+00:21:27,480 --> 00:21:28,800
+theme that you're going
+to see over and over again
+
+383
+00:21:28,800 --> 00:21:31,900
+in this talk, is treat the
+underlying cause. Now you
+
+384
+00:21:31,900 --> 00:21:34,220
+may think, well, if
+someone's acidemic, why don't
+
+385
+00:21:34,220 --> 00:21:36,140
+I just give them some
+alkaline and make them all
+
+386
+00:21:36,140 --> 00:21:40,060
+better? Well, it's almost
+never indicated to do that.
+
+387
+00:21:40,340 --> 00:21:42,780
+You actually can hurt people
+by doing that. Now there
+
+388
+00:21:42,780 --> 00:21:46,580
+are specific instances where
+bicarbonate administration
+
+389
+00:21:46,580 --> 00:21:50,100
+is the answer, but not
+because you just don't like
+
+390
+00:21:50,100 --> 00:21:53,420
+the pH. Some of those
+scenarios where bicarbonate is
+
+391
+00:21:53,420 --> 00:21:57,680
+important, probably the most
+common one is hyperkalemia.
+
+392
+00:21:57,680 --> 00:22:03,580
+When you give bicarb
+outside the cell, it will
+
+393
+00:22:03,580 --> 00:22:07,780
+cause hydrogen ions to go
+out of the cell to try to
+
+394
+00:22:07,780 --> 00:22:13,420
+maintain balance, and as a
+result this hydrogen exchanges
+
+395
+00:22:13,420 --> 00:22:16,680
+with the potassium so hydrogen
+comes out as potassium
+
+396
+00:22:16,680 --> 00:22:19,240
+goes in which is what you
+want because you don't want
+
+397
+00:22:19,240 --> 00:22:21,460
+there to be too much potassium
+outside the cell that
+
+398
+00:22:21,460 --> 00:22:25,000
+could kill you cyclic
+antidepressants are sodium
+
+399
+00:22:25,000 --> 00:22:28,020
+channel blockers there are a
+lot of others as well in the
+
+400
+00:22:28,020 --> 00:22:31,480
+treatment for that is giving
+sodium sometimes certain
+
+401
+00:22:31,480 --> 00:22:36,080
+kidney injuries acutely
+can benefit from sodium
+
+402
+00:22:36,140 --> 00:22:39,940
+bicarbonate administration
+and alkalizing the urine for
+
+403
+00:22:39,940 --> 00:22:43,800
+certain kidney stones and
+toxicities is not the same as
+
+404
+00:22:43,800 --> 00:22:47,080
+giving it to try to alkalinize
+the serum what you're
+
+405
+00:22:47,080 --> 00:22:49,940
+trying to do is alkalinize
+the urine because certain
+
+406
+00:22:49,940 --> 00:22:56,360
+kidney stones form larger
+stones if they're in an acidic
+
+407
+00:22:56,360 --> 00:22:59,380
+urine so if you alkalinize
+the urine the stones
+
+408
+00:22:59,380 --> 00:23:02,340
+won't form as readily and
+there are certain toxicities
+
+409
+00:23:02,340 --> 00:23:06,840
+where when the urine is
+alkaline you get rid of those
+
+410
+00:23:06,840 --> 00:23:10,880
+toxins more readily they're
+they're excreted in the
+
+411
+00:23:10,880 --> 00:23:14,820
+urine in if it's more alkaline
+and then there are certain
+
+412
+00:23:14,820 --> 00:23:17,360
+non-ion gap acid doses
+where you would potentially
+
+413
+00:23:17,360 --> 00:23:19,340
+give it we're not going to
+talk about that right now
+
+414
+00:23:20,000 --> 00:23:23,780
+so bicarb as I mentioned
+is not for dka it's
+
+415
+00:23:24,240 --> 00:23:26,820
+actually been shown in a
+bunch of studies to worsen
+
+416
+00:23:26,820 --> 00:23:30,080
+the outcome. So don't
+give bicarb ever for DKA.
+
+417
+00:23:30,800 --> 00:23:32,580
+Diabetic ketoacidosis that is.
+
+418
+00:23:33,110 --> 00:23:35,590
+Don't give it for rhabdomyolysis.
+Now rhabdomyolysis
+
+419
+00:23:35,760 --> 00:23:38,260
+is where you have muscle
+breakdown and usually it can
+
+420
+00:23:38,260 --> 00:23:41,000
+happen from a crush injury,
+from a burn, but I had
+
+421
+00:23:41,000 --> 00:23:44,240
+a woman who came into the
+urgent care center five days
+
+422
+00:23:44,240 --> 00:23:47,200
+after a spin class. She
+had never done a spin class
+
+423
+00:23:47,200 --> 00:23:49,480
+in her life and she was
+really out of shape. She was
+
+424
+00:23:49,480 --> 00:23:53,000
+still having pain in her
+thighs. So I did a CPK and
+
+425
+00:23:53,000 --> 00:23:56,020
+it came back 25,000, which
+is the highest level I've
+
+426
+00:23:56,020 --> 00:23:59,120
+ever seen, an actionable
+level where you would
+
+427
+00:23:59,120 --> 00:24:01,640
+potentially admit the patient
+to give them diuresis and
+
+428
+00:24:01,640 --> 00:24:04,100
+fluid at the same time to
+flush out the breakdown
+
+429
+00:24:04,100 --> 00:24:08,140
+products of myoglobin would
+be 5,000. And this lady was
+
+430
+00:24:08,140 --> 00:24:12,380
+25,000 five days later. I
+admitted to the hospital,
+
+431
+00:24:12,380 --> 00:24:15,880
+she got cared for, and
+thankfully her kidneys did not
+
+432
+00:24:15,880 --> 00:24:19,300
+get destroyed by a buildup
+of myoglobin in her, in
+
+433
+00:24:19,300 --> 00:24:24,880
+her, in her renal tubules so
+what has been shown is that
+
+434
+00:24:24,880 --> 00:24:27,720
+if you give bicarb to these
+patients you get fewer
+
+435
+00:24:28,960 --> 00:24:32,420
+myoglobin casts in the urine
+which sounds like a good
+
+436
+00:24:32,420 --> 00:24:35,140
+thing however it doesn't
+translate into anything
+
+437
+00:24:35,140 --> 00:24:38,060
+that really really matters
+to the patient and that's
+
+438
+00:24:38,060 --> 00:24:41,440
+why I want you to distinguish
+a do from a poo it's
+
+439
+00:24:41,600 --> 00:24:44,360
+not my acronym but I think
+it's a great one to remember
+
+440
+00:24:44,360 --> 00:24:47,960
+a do is a disease oriented
+outcome and a P is a
+
+441
+00:24:47,960 --> 00:24:50,680
+patient-oriented outcome.
+You don't really care so
+
+442
+00:24:50,680 --> 00:24:53,260
+much about whether there's
+casts in someone's tubules
+
+443
+00:24:53,260 --> 00:24:55,260
+if it doesn't affect their
+kidney function or doesn't
+
+444
+00:24:55,260 --> 00:24:57,500
+change their mortality.
+You care about things that
+
+445
+00:24:57,500 --> 00:24:59,680
+patients care about, and
+they don't really care
+
+446
+00:24:59,680 --> 00:25:02,560
+about what's building up in
+their renal tubules if it
+
+447
+00:25:02,560 --> 00:25:05,060
+doesn't amount to anything
+that they do care about.
+
+448
+00:25:06,140 --> 00:25:09,020
+Sometimes they're called
+DOES and POES, disease
+
+449
+00:25:09,020 --> 00:25:12,240
+-oriented evidence or patient
+-oriented evidence, and
+
+450
+00:25:12,240 --> 00:25:13,860
+you're going to see a lot
+of pharmaceutical companies
+
+451
+00:25:13,860 --> 00:25:16,160
+trying to sell their
+drug by telling you that
+
+452
+00:25:16,160 --> 00:25:20,200
+this disease-oriented
+outcome is changed where
+
+453
+00:25:20,200 --> 00:25:23,420
+patient-oriented outcomes
+aren't. So beware of that.
+
+454
+00:25:23,490 --> 00:25:25,020
+Don't get bicarb because you
+
+455
+00:25:25,020 --> 00:25:26,860
+don't like the
+number of the pH.
+
+456
+00:25:28,160 --> 00:25:30,880
+So let's talk about
+some toxic alcohols,
+
+457
+00:25:30,880 --> 00:25:32,970
+which are in the
+mud piles mnemonic
+
+458
+00:25:32,970 --> 00:25:34,700
+that I just went
+through before.
+
+459
+00:25:35,240 --> 00:25:38,160
+Ethylene glycol, you
+find it in antifreeze,
+
+460
+00:25:38,160 --> 00:25:41,320
+and if people drink
+it, it's metabolized by
+
+461
+00:25:41,320 --> 00:25:44,030
+alcohol dehydrazonase to
+these toxic metabolites
+
+462
+00:25:44,030 --> 00:25:46,520
+and they lead to a
+metabolic acidosis.
+
+463
+00:25:47,170 --> 00:25:51,230
+Also, methanol toxicity
+is found in solvents and
+
+464
+00:25:51,230 --> 00:25:54,890
+paint removers and is also
+found in people who try to
+
+465
+00:25:54,890 --> 00:25:57,390
+make their own alcohol
+moonshine and if they don't
+
+466
+00:25:57,390 --> 00:25:59,470
+do it right, instead of
+ethanol you end up with
+
+467
+00:25:59,470 --> 00:26:04,190
+methanol and during the
+cases, during the 1930s when
+
+468
+00:26:04,190 --> 00:26:08,850
+prohibition was in force
+there was 100,000 cases of
+
+469
+00:26:08,850 --> 00:26:11,900
+people going blind because
+of drinking moonshine.
+
+470
+00:26:11,900 --> 00:26:15,070
+So it's a pretty serious
+thing. It causes,
+
+471
+00:26:15,130 --> 00:26:17,810
+it's also metabolized
+by alcohol
+
+472
+00:26:17,810 --> 00:26:19,770
+dehydrogenase, it has
+a lot of bad toxins,
+
+473
+00:26:20,110 --> 00:26:22,090
+formaldehyde, and it also
+
+474
+00:26:22,090 --> 00:26:23,870
+leads to a metabolic acidosis.
+
+475
+00:26:25,850 --> 00:26:28,290
+This is the reason that
+it's postulated why
+
+476
+00:26:28,290 --> 00:26:30,370
+there are so many
+blind blues musicians.
+
+477
+00:26:30,510 --> 00:26:35,490
+They often came from poor
+socioeconomic backgrounds,
+
+478
+00:26:35,510 --> 00:26:38,950
+poverty, poor health access,
+maybe some other environmental
+
+479
+00:26:38,950 --> 00:26:41,530
+toxins and malnutrition
+have something to do with
+
+480
+00:26:41,530 --> 00:26:46,140
+it. Maybe they're not
+getting enough vitamin A, but
+
+481
+00:26:46,310 --> 00:26:50,910
+it's also posited that they
+might be drinking moonshine
+
+482
+00:26:50,910 --> 00:26:53,850
+because they can't afford
+to get real bootleg liquor.
+
+483
+00:26:54,090 --> 00:26:57,190
+And back in the 1930s, when
+
+484
+00:26:57,190 --> 00:26:59,990
+blues were really being sung,
+
+485
+00:27:01,310 --> 00:27:03,930
+led to a lot of retinopathy.
+The major toxicities
+
+486
+00:27:04,690 --> 00:27:12,050
+of methanol are renal
+damage and retina
+
+487
+00:27:12,050 --> 00:27:13,890
+damage. And that's what
+causes you to go blind.
+
+488
+00:27:13,890 --> 00:27:16,250
+And if I were blind,
+I'd sing the blues too.
+
+489
+00:27:16,910 --> 00:27:18,750
+So let's talk
+about the treatment
+
+490
+00:27:18,750 --> 00:27:22,030
+of these two
+alcohol toxicities.
+
+491
+00:27:22,170 --> 00:27:25,150
+Formepazole is the antidote.
+It's quite expensive.
+
+492
+00:27:25,150 --> 00:27:27,510
+I think it probably has
+come down in price. But
+
+493
+00:27:27,510 --> 00:27:30,250
+what it does is competes
+with alcohol dehydrogenase.
+
+494
+00:27:30,250 --> 00:27:34,870
+so it more slowly
+metabolizes the toxic alcohol
+
+495
+00:27:34,870 --> 00:27:37,550
+so that liver has a chance
+to deal with a small
+
+496
+00:27:37,550 --> 00:27:41,310
+amount of toxin than being
+overwhelmed by a large
+
+497
+00:27:41,310 --> 00:27:43,370
+amount of toxin which can
+affect the end organs.
+
+498
+00:27:43,750 --> 00:27:46,430
+Vitamin B1, thiamin,
+and vitamin B6,
+
+499
+00:27:46,430 --> 00:27:49,490
+pyridoxine, are also
+cofactors in ethylene
+
+500
+00:27:49,490 --> 00:27:52,050
+glycol metabolism and
+so it will speed up
+
+501
+00:27:52,050 --> 00:27:54,150
+the metabolism if you
+give those vitamins.
+
+502
+00:27:54,310 --> 00:27:57,030
+You can also try to just
+flush people out with
+
+503
+00:27:57,030 --> 00:27:59,330
+saline diuresis. And
+interestingly enough,
+
+504
+00:27:59,330 --> 00:28:01,870
+if you don't have
+formeprazole to compete with
+
+505
+00:28:01,870 --> 00:28:04,010
+the alcohol androgynase,
+you can use regular
+
+506
+00:28:04,010 --> 00:28:06,680
+ethanol to compete with
+alcohol dehydrogenase
+
+507
+00:28:07,250 --> 00:28:11,810
+to slow the metabolism
+to toxic metabolites.
+
+508
+00:28:12,870 --> 00:28:15,910
+Many hospitals have IV
+ethanol, but if you don't
+
+509
+00:28:15,910 --> 00:28:19,150
+have IV ethanol, it has
+been done with PO ethanol.
+
+510
+00:28:19,150 --> 00:28:21,290
+Go down to the liquor
+store and buy some vodka
+
+511
+00:28:21,290 --> 00:28:23,710
+and give it to the patient
+and keep them drunk.
+
+512
+00:28:23,710 --> 00:28:26,910
+And that'll give them some
+time to metabolize. And
+
+513
+00:28:26,910 --> 00:28:30,470
+finally, if it's really bad,
+dialysis gets rid of it.
+
+514
+00:28:31,310 --> 00:28:34,520
+Another overdose that's
+pretty common is salicylates.
+
+515
+00:28:34,520 --> 00:28:36,690
+And salicylates are very
+interesting because it has two
+
+516
+00:28:36,690 --> 00:28:39,510
+different kinds of toxicities.
+An initial toxicity
+
+517
+00:28:39,510 --> 00:28:42,650
+is that it stimulates the
+respiratory center to breathe
+
+518
+00:28:42,650 --> 00:28:45,370
+faster. And we also already
+talked about how if you're
+
+519
+00:28:45,370 --> 00:28:48,530
+breathing too quickly, your
+CO2 goes down, and that
+
+520
+00:28:48,530 --> 00:28:53,010
+causes a respiratory alkalosis.
+but then what happens
+
+521
+00:28:53,010 --> 00:28:56,910
+metabolically is oxidative
+phosphorylation is uncoupled
+
+522
+00:28:56,910 --> 00:29:00,930
+it disrupts all these metabolic
+pathways and they lead
+
+523
+00:29:00,930 --> 00:29:04,090
+to metabolic acidosis so
+depending on where you are
+
+524
+00:29:04,090 --> 00:29:09,830
+in the overdose you can
+present at with respiratory
+
+525
+00:29:09,830 --> 00:29:15,180
+alkalosis metabolic acidosis
+or both so it's it's can be
+
+526
+00:29:15,180 --> 00:29:18,710
+complicated so how do we
+treat salicylates well if
+
+527
+00:29:18,710 --> 00:29:21,470
+someone's taken a massive
+overdose of something really
+
+528
+00:29:21,470 --> 00:29:25,170
+dangerous relatively recently,
+you can consider gastroclavage
+
+529
+00:29:25,170 --> 00:29:27,410
+or pumping the stomach.
+I will talk about this
+
+530
+00:29:27,410 --> 00:29:30,390
+a lot more in my toxicology
+lecture later in the year.
+
+531
+00:29:30,650 --> 00:29:36,070
+So it's dangerous, so don't
+do it unless you really
+
+532
+00:29:36,070 --> 00:29:38,110
+think you can recover
+something. And 30 minutes
+
+533
+00:29:38,110 --> 00:29:41,580
+is kind of the magic number.
+There are some situations
+
+534
+00:29:42,310 --> 00:29:47,390
+where if GI transit is
+increased, maybe you'd
+
+535
+00:29:47,390 --> 00:29:49,470
+want to go more than 30
+minutes but that's beyond
+
+536
+00:29:49,470 --> 00:29:54,410
+today's talk activated charcoal
+will bind to salicylate
+
+537
+00:29:54,410 --> 00:29:56,150
+so you give them charcoal
+drink and it comes
+
+538
+00:29:56,150 --> 00:30:01,190
+out the **** without giving
+a chance to be absorbed
+
+539
+00:30:01,190 --> 00:30:05,830
+into the systemic circulation
+bicarb can be used
+
+540
+00:30:05,830 --> 00:30:08,210
+to alkalinize the urine
+remember it's not the serum
+
+541
+00:30:08,210 --> 00:30:10,640
+you're trying to call it
+alkalinize it's the urine
+
+542
+00:30:10,640 --> 00:30:12,610
+you're trying to alkalinize
+to get rid of the
+
+543
+00:30:12,610 --> 00:30:15,610
+salicylate and also dialysis
+will get rid of aspirin.
+
+544
+00:30:15,830 --> 00:30:17,850
+And interestingly
+enough, if someone's
+
+545
+00:30:17,850 --> 00:30:24,070
+really, really respiratory
+alkalotic, if you
+
+546
+00:30:24,070 --> 00:30:25,610
+get them in the
+very, very early and
+
+547
+00:30:25,610 --> 00:30:28,450
+they're very severely
+respiratory alkalotic,
+
+548
+00:30:28,690 --> 00:30:32,390
+and that's what the predominant
+toxicity is, you can
+
+549
+00:30:32,390 --> 00:30:34,970
+consider giving them a
+carbonic anhydrase inhibitor.
+
+550
+00:30:34,970 --> 00:30:37,210
+And that one is called,
+one of them is called
+
+551
+00:30:37,280 --> 00:30:39,550
+acetazolamide. We're going to
+talk about the mechanism of
+
+552
+00:30:39,550 --> 00:30:42,090
+action of acetamolazolamide
+in a different situation,
+
+553
+00:30:42,090 --> 00:30:44,730
+but you'll better understand
+it on the next slide.
+
+554
+00:30:45,190 --> 00:30:47,790
+So other things that
+can cause a metabolic
+
+555
+00:30:47,790 --> 00:30:51,870
+alkalosis are things
+like antacids, like Tums,
+
+556
+00:30:51,870 --> 00:30:55,150
+Mylantha, Maalox, too much
+of that, baking soda. Some
+
+557
+00:30:55,150 --> 00:30:58,680
+people take Brioche.
+These are all antacids.
+
+558
+00:30:58,970 --> 00:31:01,630
+Diuretics, other
+laxatives which contain
+
+559
+00:31:01,910 --> 00:31:04,270
+antacids and steroids
+can all cause a
+
+560
+00:31:04,270 --> 00:31:06,950
+metabolic alkalosis.
+The treatment for
+
+561
+00:31:06,950 --> 00:31:08,610
+them is to treat the
+underlying cause.
+
+562
+00:31:08,930 --> 00:31:11,890
+However, if it's
+a very severe case
+
+563
+00:31:11,890 --> 00:31:14,490
+of metabolic
+alkalosis, you can give
+
+564
+00:31:14,730 --> 00:31:17,070
+acetazolamine, which
+is a carbonic anhydrase
+
+565
+00:31:17,070 --> 00:31:21,390
+inhibitor, which causes
+a metabolic acidosis
+
+566
+00:31:21,470 --> 00:31:23,870
+at the same time the
+patient's got a metabolic
+
+567
+00:31:23,870 --> 00:31:26,210
+alkalosis. So it'll work
+in the other direction.
+
+568
+00:31:26,590 --> 00:31:28,500
+Interestingly enough,
+if you go to a high
+
+569
+00:31:28,500 --> 00:31:31,390
+altitude, they usually,
+if you're a mountain
+
+570
+00:31:31,390 --> 00:31:34,510
+climber, if you know you're
+going to go to a very
+
+571
+00:31:34,510 --> 00:31:37,970
+high altitude with a
+very low oxygen tension,
+
+572
+00:31:38,570 --> 00:31:42,150
+you can prophylax yourself
+by taking acetazolamide.
+
+573
+00:31:42,250 --> 00:31:44,890
+And what that will do is,
+before you get to that high
+
+574
+00:31:44,890 --> 00:31:48,760
+altitude, will cause you to
+have a metabolic acidosis.
+
+575
+00:31:49,570 --> 00:31:53,470
+And because you've got a
+metabolic acidosis, you're
+
+576
+00:31:53,470 --> 00:31:57,450
+going to compensate by having
+a compensatory respiratory
+
+577
+00:31:57,450 --> 00:32:00,870
+alkalosis by breathing
+faster. And that breathing
+
+578
+00:32:00,870 --> 00:32:03,990
+faster, a side effect of that
+breathing faster, is that
+
+579
+00:32:03,990 --> 00:32:06,840
+you're going to get more
+oxygen and more gas exchange
+
+580
+00:32:06,840 --> 00:32:10,190
+in your alveoli. So that's
+how it's supposed to work.
+
+581
+00:32:10,190 --> 00:32:12,750
+I took it when I
+climbed Annapurna base
+
+582
+00:32:12,750 --> 00:32:15,090
+camp and I vomited
+it. It didn't work.
+
+583
+00:32:16,850 --> 00:32:20,130
+Respiratory acidosis is
+when you're not breathing
+
+584
+00:32:20,130 --> 00:32:23,410
+enough, you need to breathe
+better. So if people aren't
+
+585
+00:32:23,410 --> 00:32:25,710
+breathing so well to begin
+with, don't give them too
+
+586
+00:32:25,710 --> 00:32:27,970
+many things that depress
+their ventilation even more,
+
+587
+00:32:27,970 --> 00:32:30,630
+like benzodiazepines, or
+if they've already been
+
+588
+00:32:30,630 --> 00:32:34,530
+intoxicated on something
+else like opioids, that could
+
+589
+00:32:34,530 --> 00:32:37,550
+make people not breathe so
+well. If people have COPD
+
+590
+00:32:37,550 --> 00:32:42,130
+and they just have bad alveoli
+and air trapping, they're
+
+591
+00:32:42,130 --> 00:32:45,550
+going to also have a
+respiratory acidosis. But they
+
+592
+00:32:45,550 --> 00:32:48,490
+live there. So people who
+have chronic obstructive
+
+593
+00:32:48,490 --> 00:32:51,190
+pulmonary disease, that's
+what the C in COPD means,
+
+594
+00:32:51,190 --> 00:32:54,980
+it's chronic. They are always
+a little bit hypercapnic.
+
+595
+00:32:57,010 --> 00:33:00,450
+They have too much CO2
+retention. And because they've
+
+596
+00:33:00,450 --> 00:33:02,670
+been having this for a
+long period of time, their
+
+597
+00:33:02,670 --> 00:33:07,630
+kidneys do compensate by
+creating a metabolic alkalosis.
+
+598
+00:33:07,630 --> 00:33:10,210
+And they kind of get
+almost back to a normal pH,
+
+599
+00:33:10,210 --> 00:33:16,020
+but never quite there they
+will have a chronic metabolic
+
+600
+00:33:16,020 --> 00:33:22,250
+alkalosis from a primary
+respiratory acidosis and
+
+601
+00:33:22,250 --> 00:33:27,730
+when they have that they
+will not have a sensitivity
+
+602
+00:33:27,730 --> 00:33:31,850
+that normal people have to
+start or stopping to breathe
+
+603
+00:33:31,850 --> 00:33:37,490
+we normal people who don't
+have copd rely on our
+
+604
+00:33:37,490 --> 00:33:40,390
+co2 levels because co2 as
+I mentioned before, is 200
+
+605
+00:33:40,390 --> 00:33:43,950
+times more diffusible than
+is oxygen. So it is a much
+
+606
+00:33:43,950 --> 00:33:46,990
+more sensitive way to
+regulate your breathing. But
+
+607
+00:33:46,990 --> 00:33:50,290
+people who have chronically
+elevated CO2 can't respond
+
+608
+00:33:50,290 --> 00:33:52,920
+to that all the time because
+they're always hypercapnic.
+
+609
+00:33:53,130 --> 00:33:57,790
+So they rely instead on a
+hypoxic drive. So if you
+
+610
+00:33:57,790 --> 00:34:01,430
+give them oxygen, they
+may stop breathing because
+
+611
+00:34:01,430 --> 00:34:04,070
+their brain is sensing that
+they've got enough oxygen.
+
+612
+00:34:04,070 --> 00:34:07,070
+And so that's not a good
+thing. So do treat COPD
+
+613
+00:34:07,180 --> 00:34:10,400
+exacerbations with a little
+bit of oxygen if they're needed
+
+614
+00:34:10,400 --> 00:34:12,370
+but not too much because
+you can make them stop
+
+615
+00:34:12,370 --> 00:34:15,690
+breathing and if people aren't
+ventilating for whatever
+
+616
+00:34:15,690 --> 00:34:19,050
+reason they may need some
+help so you can intubate
+
+617
+00:34:19,050 --> 00:34:22,310
+them or give them CPAP or
+BiPAP which is non-invasive
+
+618
+00:34:22,310 --> 00:34:26,530
+with a face mask just pushing
+the air in so what are
+
+619
+00:34:26,530 --> 00:34:28,630
+the effects of respiratory
+alkalosis if you're breathing
+
+620
+00:34:28,630 --> 00:34:30,890
+too quickly maybe some
+of you have experienced
+
+621
+00:34:30,890 --> 00:34:33,310
+this if you've had panic
+attacks you get lightheaded
+
+622
+00:34:33,310 --> 00:34:36,730
+confused, you get potentially
+even lose consciousness,
+
+623
+00:34:37,230 --> 00:34:40,210
+cacocardia, anxiety. And
+interestingly enough, you
+
+624
+00:34:40,210 --> 00:34:42,570
+might get tingling around
+your fingers or around your
+
+625
+00:34:42,570 --> 00:34:46,570
+mouth or nose or in the
+toes. And that comes from the
+
+626
+00:34:46,570 --> 00:34:50,590
+fact that when you're
+hyperventilating, you lower your
+
+627
+00:34:50,590 --> 00:34:56,590
+CO2 and a lower CO2 leads
+to a respiratory alkalosis
+
+628
+00:34:56,590 --> 00:35:01,590
+and an alkalemic serum causes
+calcium to bind tighter
+
+629
+00:35:01,590 --> 00:35:04,370
+to the proteins that they're
+supposed to be bound to,
+
+630
+00:35:04,370 --> 00:35:07,990
+therefore there's less
+calcium in the serum. And so
+
+631
+00:35:07,990 --> 00:35:11,950
+when you're hypocalcemic,
+you get Schwastek sign and
+
+632
+00:35:11,950 --> 00:35:14,970
+Trousseau sign and you get
+tingly and you get tetany.
+
+633
+00:35:14,970 --> 00:35:17,750
+When it's really, really
+bad, you can get carpal spasm
+
+634
+00:35:17,750 --> 00:35:20,810
+or your feet can curl up,
+and that's a very common
+
+635
+00:35:21,150 --> 00:35:24,450
+effect of having a panic
+attack and hyperventilation.
+
+636
+00:35:24,450 --> 00:35:26,370
+And then bad things can happen
+
+637
+00:35:26,370 --> 00:35:27,430
+when it gets more severe.
+
+638
+00:35:29,210 --> 00:35:31,970
+Management of a respiratory
+alkalosis. You treat
+
+639
+00:35:31,970 --> 00:35:34,390
+the underlying cause. So
+let me go back one second.
+
+640
+00:35:35,250 --> 00:35:38,730
+Hypokalemia is what you
+can get when you have a
+
+641
+00:35:38,730 --> 00:35:42,690
+respiratory alkalosis. And the
+way we treat hyperkalemia, I
+
+642
+00:35:42,690 --> 00:35:47,810
+mentioned before, is by
+giving bicarbonate, forcing
+
+643
+00:35:47,810 --> 00:35:51,650
+the potassium to go back in
+the cells. So if you already
+
+644
+00:35:51,650 --> 00:35:55,810
+have a lot of bicarb in
+your blood from having a
+
+645
+00:35:55,810 --> 00:35:59,870
+respiratory alkalosis, that
+potassium is going to go into
+
+646
+00:35:59,870 --> 00:36:03,730
+the cells and low potassium
+basically causes muscle
+
+647
+00:36:03,730 --> 00:36:06,050
+weakness and the most important
+muscle that could kill
+
+648
+00:36:06,050 --> 00:36:10,090
+you that if it's not working
+is the diaphragm so how
+
+649
+00:36:10,090 --> 00:36:12,370
+do we manage it well the
+underlying cause I'm sure
+
+650
+00:36:12,370 --> 00:36:15,210
+you're seeing a pattern here
+but when someone's panicking
+
+651
+00:36:15,210 --> 00:36:19,350
+calmly reassure them don't
+give them acid for the same
+
+652
+00:36:19,350 --> 00:36:22,370
+reasons it doesn't work
+first of all and that should
+
+653
+00:36:22,370 --> 00:36:26,550
+not be the reflex hypocapnia
+also could be something
+
+654
+00:36:26,550 --> 00:36:29,970
+that you caused by ventilating
+them too much when you
+
+655
+00:36:29,970 --> 00:36:32,410
+set them up on a ventilator
+after they've been intubated
+
+656
+00:36:32,410 --> 00:36:34,530
+so check your vent settings
+make sure that they're
+
+657
+00:36:34,530 --> 00:36:38,470
+not too too much minute
+ventilation so there's a couple
+
+658
+00:36:38,470 --> 00:36:41,370
+of cases acid-base case
+number 160 year old male
+
+659
+00:36:41,370 --> 00:36:45,710
+with COPD lots of inhalers
+hypertension GERD PUD chronic
+
+660
+00:36:45,710 --> 00:36:48,170
+kidney disease comes with
+an altered mental status.
+
+661
+00:36:48,720 --> 00:36:50,890
+He's on omeprazole, but
+his son says he's been
+
+662
+00:36:50,890 --> 00:36:52,470
+having a lot of symptoms
+and been taking some over
+
+663
+00:36:52,470 --> 00:36:54,970
+-the-counter antacids.
+So what are we thinking?
+
+664
+00:36:56,390 --> 00:36:58,930
+This is some of the things
+that we're thinking.
+
+665
+00:36:58,930 --> 00:37:00,670
+Well, he's got COPD, so
+he's going to probably
+
+666
+00:37:00,670 --> 00:37:02,870
+have a chronic respiratory
+acidosis. And if
+
+667
+00:37:02,870 --> 00:37:05,230
+he's having an acute
+exacerbation, it could make
+
+668
+00:37:05,230 --> 00:37:09,170
+it an acute on chronic
+respiratory acidosis.
+
+669
+00:37:09,170 --> 00:37:10,950
+Because he's got
+kidney failure, he can
+
+670
+00:37:10,950 --> 00:37:13,070
+have a metabolic
+acidosis, either non-ion
+
+671
+00:37:13,070 --> 00:37:15,230
+gap or anion gap, as
+we mentioned before.
+
+672
+00:37:15,350 --> 00:37:17,470
+And if he's taking antacids,
+
+673
+00:37:17,470 --> 00:37:19,710
+he could be having a metabolic
+
+674
+00:37:19,890 --> 00:37:22,400
+alkalosis. So this is
+going to be a complicated
+
+675
+00:37:22,400 --> 00:37:25,290
+case. We would never give
+this to you on an exam,
+
+676
+00:37:25,330 --> 00:37:27,390
+but just something to
+think about. 44-year
+
+677
+00:37:27,390 --> 00:37:30,390
+-old homeless man,
+schizophrenic alcoholism,
+
+678
+00:37:30,390 --> 00:37:33,710
+comes to the ED with altered
+mental status and in renal
+
+679
+00:37:33,710 --> 00:37:35,790
+failure. You don't know
+how chronic it is, but you
+
+680
+00:37:35,790 --> 00:37:38,230
+just know that his creatinine
+is very highly elevated.
+
+681
+00:37:38,430 --> 00:37:40,730
+He's breathing really fast
+and and he's not able to
+
+682
+00:37:40,730 --> 00:37:43,430
+protect his airway because
+he's intoxicated or
+
+683
+00:37:43,430 --> 00:37:47,350
+inebriated on alcohol, so
+he's intubated, and you can't
+
+684
+00:37:47,350 --> 00:37:48,650
+get any more history. So
+what are we thinking about
+
+685
+00:37:48,650 --> 00:37:53,110
+this guy? Well, alcohol
+ingestion decreases your airway
+
+686
+00:37:53,110 --> 00:37:56,450
+and doesn't let you
+breathe, but it also can be
+
+687
+00:37:56,450 --> 00:37:58,770
+that he took some ethanol.
+Maybe he didn't have enough
+
+688
+00:37:58,770 --> 00:38:02,040
+money to buy ethanol, and
+so he now has a metabolic
+
+689
+00:38:02,040 --> 00:38:04,370
+acidosis on that basis,
+which is probably going to
+
+690
+00:38:04,370 --> 00:38:07,530
+be an anion gap acidosis.
+Renal failure could be a
+
+691
+00:38:07,530 --> 00:38:10,370
+metabolic acidosis that's
+non-iongap or aniongap that
+
+692
+00:38:10,370 --> 00:38:12,410
+we talked about. We don't
+know how acute his renal
+
+693
+00:38:12,410 --> 00:38:15,090
+failure is, but both of
+those could cause acidemia.
+
+694
+00:38:15,810 --> 00:38:17,610
+And also if he's not breathing
+
+695
+00:38:17,670 --> 00:38:20,970
+because he's inebriated
+on something, that's
+
+696
+00:38:20,970 --> 00:38:23,130
+going to cause CO2
+retention and respiratory
+
+697
+00:38:23,130 --> 00:38:25,870
+acidosis. So this is
+complicated, but all of
+
+698
+00:38:25,870 --> 00:38:28,950
+those processes is going
+to make this patient
+
+699
+00:38:29,140 --> 00:38:31,210
+acidemic. So it's not going
+to be a mixed picture,
+
+700
+00:38:31,210 --> 00:38:32,930
+but it's going to be
+a compounded picture.
+
+701
+00:38:33,010 --> 00:38:34,470
+Another case, 24-year-old
+
+702
+00:38:34,470 --> 00:38:36,130
+woman with lots of migraines,
+
+703
+00:38:36,770 --> 00:38:40,070
+not not acting right husband
+says she's not breathing
+
+704
+00:38:40,070 --> 00:38:42,670
+right either and she's been
+having a lot of headaches
+
+705
+00:38:42,670 --> 00:38:44,890
+she doesn't take any
+prescribed medication so what
+
+706
+00:38:44,890 --> 00:38:46,790
+are you thinking maybe she
+took something over-the
+
+707
+00:38:46,790 --> 00:38:49,960
+-counter please I'm sure
+you're aware there's lots of
+
+708
+00:38:49,960 --> 00:38:52,850
+analgesics that are over-the
+-counter contain aspirin and
+
+709
+00:38:52,850 --> 00:38:55,830
+as we talked about aspirin
+can cause a mixed disorder
+
+710
+00:38:55,830 --> 00:38:59,470
+first a respiratory alkalosis
+then a metabolic acidosis
+
+711
+00:38:59,470 --> 00:39:01,710
+so you're not sure what
+could be happening in this
+
+712
+00:39:01,710 --> 00:39:05,290
+young lady and also analgesics
+if she got them from
+
+713
+00:39:05,290 --> 00:39:07,910
+a friend, could have opioids,
+which can suppress your
+
+714
+00:39:07,910 --> 00:39:11,350
+respiration and cause a
+respiratory acidosis. And
+
+715
+00:39:11,350 --> 00:39:13,970
+interestingly enough, you
+can get pulmonary edema from
+
+716
+00:39:13,970 --> 00:39:17,710
+opioids as well. It's non
+-cardiogenic pulmonary edema.
+
+717
+00:39:18,890 --> 00:39:23,550
+Last one is a 77-year-old
+male with COPD, comes in low
+
+718
+00:39:23,550 --> 00:39:27,630
+blood pressure, tachycardic,
+tachypneic, febrile with
+
+719
+00:39:27,630 --> 00:39:30,630
+a white count that's very
+high in 20% bands. Bands are
+
+720
+00:39:30,630 --> 00:39:33,610
+very specific for infection.
+Neutrophils are not that
+
+721
+00:39:33,610 --> 00:39:35,850
+specific for infection, but
+he's got a big infiltrate
+
+722
+00:39:35,850 --> 00:39:39,950
+in his right lower lobe so
+what are we thinking we're
+
+723
+00:39:39,950 --> 00:39:43,430
+looking at his baseline ABG
+that his baseline ABG when
+
+724
+00:39:43,430 --> 00:39:46,170
+he was an outpatient feeling
+fine shows that he had a
+
+725
+00:39:46,170 --> 00:39:51,230
+pH of 7.35 so not quite
+normal pCO2 sky high and this
+
+726
+00:39:51,230 --> 00:39:55,970
+is when he feels fine is 65
+and as a compensation his
+
+727
+00:39:55,970 --> 00:39:59,150
+bicarb is always up that's
+his baseline so what are we
+
+728
+00:39:59,150 --> 00:40:01,290
+thinking well we're thinking
+he could have pneumonia.
+
+729
+00:40:01,490 --> 00:40:06,190
+All the signs of infection
+are there. He's not
+
+730
+00:40:06,190 --> 00:40:09,590
+also ventilating very
+well. So he could be septic
+
+731
+00:40:09,590 --> 00:40:11,350
+from the pneumonia and
+not ventilating because
+
+732
+00:40:11,350 --> 00:40:15,070
+of the pneumonia. And
+he can have an acidemic
+
+733
+00:40:15,100 --> 00:40:18,490
+respiratory failure from his
+COPD. All of those things
+
+734
+00:40:18,490 --> 00:40:22,530
+would be moving him in
+a acidemic direction.
+
+735
+00:40:22,590 --> 00:40:26,630
+These are complex cases
+and not expect you to be
+
+736
+00:40:26,630 --> 00:40:28,430
+tested on them, but
+they're good to learn from.
+
+737
+00:40:28,630 --> 00:40:30,350
+Okay, now we're moving on to
+
+738
+00:40:30,350 --> 00:40:31,690
+the next part of the talk.
+
+739
+00:40:32,290 --> 00:40:35,880
+This is a patient with
+respiratory failure, but
+
+740
+00:40:35,880 --> 00:40:39,210
+it started about two weeks
+ago with a dry cough. 73
+
+741
+00:40:39,210 --> 00:40:42,330
+-year-old woman. She's
+breathing fast, almost
+
+742
+00:40:42,330 --> 00:40:44,970
+tachycardic, low blood
+pressure for a 73-year-old.
+
+743
+00:40:44,970 --> 00:40:48,190
+That's not normal. That
+is definitely low for a 73
+
+744
+00:40:48,190 --> 00:40:49,830
+-year-old. Our arteries
+get stiff when we get old,
+
+745
+00:40:49,830 --> 00:40:51,670
+and you should expect
+something a little higher.
+
+746
+00:40:52,090 --> 00:40:56,770
+Saturation is poor, 88%,
+and it also has a fever.
+
+747
+00:40:56,770 --> 00:41:00,270
+White counts 15,000, and
+there's infiltrates in all her
+
+748
+00:41:00,270 --> 00:41:03,470
+lung fields. She discompensates
+and dies soon after.
+
+749
+00:41:03,870 --> 00:41:06,170
+On autopsy, the
+lungs are voluminous,
+
+750
+00:41:06,170 --> 00:41:07,230
+so they're really swollen.
+
+751
+00:41:07,350 --> 00:41:11,690
+And the microscopic examination
+shows she had alveolar
+
+752
+00:41:11,690 --> 00:41:15,190
+damage, not just filled
+with fluid, but damage, with
+
+753
+00:41:15,190 --> 00:41:17,930
+mononuclear cell infiltrates
+and hyaline membrane
+
+754
+00:41:17,930 --> 00:41:21,370
+formations. These are very
+specific things that you will
+
+755
+00:41:21,370 --> 00:41:24,770
+either learn from Dr. Petku
+or have learned from Dr.
+
+756
+00:41:24,770 --> 00:41:28,910
+Petku are things that you
+see on histology with ARDS.
+
+757
+00:41:28,910 --> 00:41:30,730
+So which are the
+following causes? Well,
+
+758
+00:41:30,730 --> 00:41:32,670
+pulmonary amylism,
+there's no story that
+
+759
+00:41:32,670 --> 00:41:35,070
+she was hypercoagulable
+or sedentary.
+
+760
+00:41:35,210 --> 00:41:37,010
+Bilateral interstitial
+pneumonia, well, that's
+
+761
+00:41:37,010 --> 00:41:40,970
+what the x-ray looks like.
+But all that stuff that
+
+762
+00:41:40,970 --> 00:41:45,270
+you find on histology
+doesn't make it consistent.
+
+763
+00:41:45,520 --> 00:41:48,320
+COPD, well, we don't get a
+history that she has COPD,
+
+764
+00:41:49,250 --> 00:41:51,950
+and it wouldn't be fair
+to give you a case like
+
+765
+00:41:51,950 --> 00:41:54,370
+that. Nor would they be
+giving you a case that
+
+766
+00:41:54,370 --> 00:41:56,530
+didn't give you something
+for hypersensitivity
+
+767
+00:41:56,530 --> 00:41:59,490
+of pneumonitis like
+eosinophilia or a history
+
+768
+00:41:59,490 --> 00:42:01,910
+of asthma or a history
+of lots of allergies.
+
+769
+00:42:02,310 --> 00:42:04,330
+So the only thing left is acute
+
+770
+00:42:04,330 --> 00:42:05,850
+respiratory distress syndrome.
+
+771
+00:42:05,850 --> 00:42:09,470
+So it's between that and
+bilateral interstitial
+
+772
+00:42:09,470 --> 00:42:11,790
+pneumonia. But because
+of the histology findings
+
+773
+00:42:11,790 --> 00:42:14,550
+that are very specific,
+you don't get destruction
+
+774
+00:42:14,550 --> 00:42:17,470
+of alveoli with interstitial
+pneumonia. Nor do
+
+775
+00:42:17,470 --> 00:42:19,550
+you get hyaline membrane
+formation or mononuclear
+
+776
+00:42:19,550 --> 00:42:21,970
+cell infiltrates. That's
+what you get with ARDS.
+
+777
+00:42:22,610 --> 00:42:26,550
+So arts is very, very
+common. It's more common in
+
+778
+00:42:26,550 --> 00:42:29,750
+higher income countries like
+USA and Australia. That's
+
+779
+00:42:29,750 --> 00:42:33,510
+because we have ICUs more
+readily available. And so
+
+780
+00:42:33,510 --> 00:42:37,150
+we can identify it earlier.
+It's also likely to be
+
+781
+00:42:37,150 --> 00:42:40,530
+unreported in lower income
+countries. They don't have
+
+782
+00:42:40,530 --> 00:42:44,330
+ICUs. So we wouldn't know
+whether many of these people
+
+783
+00:42:44,330 --> 00:42:47,510
+who pass away had it
+or not. It's also under
+
+784
+00:42:47,510 --> 00:42:51,050
+recognized in high income
+countries as well, because it's
+
+785
+00:42:51,050 --> 00:42:54,170
+very confusing. used with
+lots of different types of
+
+786
+00:42:54,170 --> 00:42:57,850
+other diagnosis. And it's
+not just confused, it's
+
+787
+00:42:57,850 --> 00:43:01,090
+combined. So you can have
+several things going on at
+
+788
+00:43:01,090 --> 00:43:04,410
+once. And so ARDS is sometimes
+not recognized and it's
+
+789
+00:43:04,410 --> 00:43:08,170
+only recognized as the
+thing that caused the ARDS.
+
+790
+00:43:08,290 --> 00:43:10,490
+And that's why it's
+so difficult for
+
+791
+00:43:10,490 --> 00:43:12,790
+this diagnosis to be
+made consistently.
+
+792
+00:43:14,090 --> 00:43:18,430
+So as I mentioned
+before, it's very common
+
+793
+00:43:18,430 --> 00:43:21,270
+in ICU patients. 10%
+of patients have it.
+
+794
+00:43:21,270 --> 00:43:24,450
+And 67% of patients
+who have respiratory
+
+795
+00:43:24,450 --> 00:43:26,730
+failure have it. So
+it's very, very common.
+
+796
+00:43:27,030 --> 00:43:29,490
+Why do they call the
+fellowship pulmonary and
+
+797
+00:43:29,490 --> 00:43:32,470
+critical care? Because the
+most common organ to be
+
+798
+00:43:32,470 --> 00:43:35,970
+involved in really, really
+sick patients is the
+
+799
+00:43:35,970 --> 00:43:40,030
+lungs. So the lungs are
+going to, as you can see,
+
+800
+00:43:40,030 --> 00:43:43,930
+67.2% of the patients
+have it. That's why when
+
+801
+00:43:43,930 --> 00:43:45,950
+you do a critical care
+fellowship, it's also
+
+802
+00:43:45,950 --> 00:43:47,570
+called the pulmonary
+fellowship because that's
+
+803
+00:43:47,570 --> 00:43:50,990
+largely the organ that
+you're going to be managing.
+
+804
+00:43:52,030 --> 00:43:54,830
+It's got a very high
+mortality rate and it's
+
+805
+00:43:54,830 --> 00:43:57,970
+not recognized even by
+the best of clinicians.
+
+806
+00:43:59,150 --> 00:44:02,950
+These are the criteria
+that they're still debating
+
+807
+00:44:02,950 --> 00:44:06,070
+because it's such a nebulous
+kind of disease about
+
+808
+00:44:06,070 --> 00:44:08,430
+what you need to have in
+order to call it ARDS.
+
+809
+00:44:08,690 --> 00:44:12,010
+You have to have a
+clinical insult first. So
+
+810
+00:44:12,010 --> 00:44:13,810
+you have to have sepsis.
+You have to have pneumonia.
+
+811
+00:44:13,810 --> 00:44:16,350
+You have to have
+something first that led
+
+812
+00:44:16,350 --> 00:44:19,370
+to worsening respiratory
+failure, and that thing
+
+813
+00:44:19,370 --> 00:44:21,490
+that you had has to
+cause the respiratory
+
+814
+00:44:21,490 --> 00:44:24,650
+failure within seven days.
+That's the definition.
+
+815
+00:44:24,950 --> 00:44:27,650
+The chest x-ray shows
+bilateral pulmonary
+
+816
+00:44:27,650 --> 00:44:32,270
+edema, but it isn't the
+kind of pulmonary edema
+
+817
+00:44:32,270 --> 00:44:34,490
+that you get with
+congestive heart failure.
+
+818
+00:44:34,490 --> 00:44:37,410
+It's not the kind of
+bilateral pulmonary edema
+
+819
+00:44:37,410 --> 00:44:41,870
+that could be explained by
+effusions or atelectasis
+
+820
+00:44:41,870 --> 00:44:44,630
+or nodules. Fusions,
+atelectases, and nodules
+
+821
+00:44:44,630 --> 00:44:47,740
+can lead to whiteness on
+both sides of your lungs,
+
+822
+00:44:47,740 --> 00:44:49,750
+diffusely through your
+lungs on the chest X-ray.
+
+823
+00:44:49,890 --> 00:44:52,710
+And it looks potentially
+like pulmonary edema,
+
+824
+00:44:52,710 --> 00:44:56,330
+but it's not caused by
+those last three things.
+
+825
+00:44:57,270 --> 00:45:06,230
+And you get edema inside
+the alveoli, but it's
+
+826
+00:45:06,230 --> 00:45:10,810
+not from the heart not
+pumping well. It's from the
+
+827
+00:45:10,810 --> 00:45:15,790
+barrier being violated. So
+the pulmonary capillaries
+
+828
+00:45:15,790 --> 00:45:22,130
+are leaking fluid into
+the alveoli because
+
+829
+00:45:22,130 --> 00:45:25,490
+that barrier has been
+destroyed from some things.
+
+830
+00:45:25,650 --> 00:45:28,330
+We're going to talk about
+the pulmonary capillary
+
+831
+00:45:28,330 --> 00:45:31,850
+wedge pressure very shortly.
+And that is part of the
+
+832
+00:45:31,850 --> 00:45:35,630
+definition that with congestive
+heart failure of cardiac
+
+833
+00:45:35,630 --> 00:45:39,590
+origin will have an
+elevated pulmonary capillary
+
+834
+00:45:39,590 --> 00:45:43,250
+wedge pressure, whereas
+ARDS has a low to normal
+
+835
+00:45:43,250 --> 00:45:46,870
+pulmonary capillary wedge
+pressure. And part of the
+
+836
+00:45:46,870 --> 00:45:51,010
+definition of ARDS and also
+the staging of it is that you
+
+837
+00:45:51,010 --> 00:45:56,710
+have to have a poor
+measured oxygen in your ABG,
+
+838
+00:45:56,710 --> 00:46:00,230
+that's your PaO2, compared
+to how much oxygen you're
+
+839
+00:46:00,230 --> 00:46:05,150
+functionally inspiring, that's
+functional IO2. So if the
+
+840
+00:46:05,150 --> 00:46:08,470
+ratio is low, it means
+you're not getting enough
+
+841
+00:46:08,470 --> 00:46:13,230
+oxygen and over 300 is considered
+normal. and that caveat
+
+842
+00:46:13,230 --> 00:46:16,690
+is that that has to be
+measured without giving too
+
+843
+00:46:16,690 --> 00:46:20,670
+much PEEP. PEEP is positive
+end expiratory pressure.
+
+844
+00:46:20,730 --> 00:46:24,790
+CPAP is continuous positive
+airway pressure and you
+
+845
+00:46:24,790 --> 00:46:26,650
+don't want to give too
+much of that because that's
+
+846
+00:46:26,650 --> 00:46:29,570
+how you treat it by the way
+but in order to make the
+
+847
+00:46:29,570 --> 00:46:32,450
+diagnosis you have to
+measure it off the treatment
+
+848
+00:46:33,020 --> 00:46:35,260
+because the treatment is
+going to make it better and
+
+849
+00:46:35,390 --> 00:46:38,530
+so it's not going to look
+like part of the criteria.
+
+850
+00:46:39,130 --> 00:46:41,170
+So this is what the chest
+x-ray looks like. Just
+
+851
+00:46:41,170 --> 00:46:43,270
+white out bilaterally.
+And it's really hard
+
+852
+00:46:43,270 --> 00:46:45,190
+to tell what that's due
+to. It could be due to
+
+853
+00:46:45,190 --> 00:46:47,590
+pulmonary edema from
+cardiogenic causes. It could
+
+854
+00:46:47,590 --> 00:46:49,940
+be from ARDS. It could
+be from bilateral
+
+855
+00:46:50,110 --> 00:46:55,910
+effusions. It could be
+from nodules and electasis.
+
+856
+00:46:56,110 --> 00:46:59,470
+It doesn't have quite
+that appearance of
+
+857
+00:46:59,470 --> 00:47:01,890
+those last three, but it
+can still be bilateral
+
+858
+00:47:01,890 --> 00:47:03,490
+whiteout and you
+don't know what it is.
+
+859
+00:47:04,050 --> 00:47:05,970
+So this is the pulmonary
+capillary wedge
+
+860
+00:47:05,970 --> 00:47:07,510
+pressure, which is a very
+important thing. Now,
+
+861
+00:47:07,510 --> 00:47:09,250
+We don't do this so
+much anymore because
+
+862
+00:47:09,250 --> 00:47:11,570
+it's been shown not to
+actually help people.
+
+863
+00:47:11,570 --> 00:47:14,170
+People who get swans were
+randomized. People who
+
+864
+00:47:14,170 --> 00:47:16,210
+don't get swans, the
+ones who got the swans,
+
+865
+00:47:16,410 --> 00:47:19,330
+the swans is called the
+swan-Gans catheter named
+
+866
+00:47:19,360 --> 00:47:22,430
+after two doctors named
+Dr. Swan and Dr. Gans.
+
+867
+00:47:22,490 --> 00:47:24,530
+It's a catheter with a
+little balloon on the
+
+868
+00:47:24,530 --> 00:47:26,990
+end that you insert
+into the femoral vein,
+
+869
+00:47:27,860 --> 00:47:30,030
+and you thread it up all
+the way to the inferior
+
+870
+00:47:30,030 --> 00:47:32,290
+vena cava, all the way up
+to the superior vena cava,
+
+871
+00:47:32,290 --> 00:47:35,370
+into the right atrium.
+And as you do so, you can
+
+872
+00:47:35,370 --> 00:47:37,410
+see the pressure wave that
+the tip of the catheter
+
+873
+00:47:37,410 --> 00:47:40,290
+is measuring changing as
+you go from one chamber to
+
+874
+00:47:40,290 --> 00:47:43,050
+the next. So obviously the
+changes in pressures are
+
+875
+00:47:43,050 --> 00:47:45,390
+greatest in the right
+ventricle. Then when you
+
+876
+00:47:45,390 --> 00:47:48,190
+slip it into the pulmonary
+artery, it's less so. And
+
+877
+00:47:48,190 --> 00:47:50,310
+then you get little changes
+when you get into the
+
+878
+00:47:50,310 --> 00:47:54,190
+tiny, tiny distal pulmonary
+arteries, the teeny
+
+879
+00:47:54,190 --> 00:47:57,850
+weeniest ones when the
+catheter can't go any further.
+
+880
+00:47:57,850 --> 00:48:00,670
+That's when you inflate
+the balloon. And when you
+
+881
+00:48:00,670 --> 00:48:03,970
+inflate the balloon, you're
+doing so at the very,
+
+882
+00:48:03,970 --> 00:48:07,050
+very end of where the
+capillaries are starting.
+
+883
+00:48:07,050 --> 00:48:10,070
+And at the other end of
+the capillaries is the
+
+884
+00:48:10,070 --> 00:48:12,310
+left side of the heart.
+So this is the right side
+
+885
+00:48:12,310 --> 00:48:16,170
+of the heart, indirectly
+measuring what's happening
+
+886
+00:48:16,170 --> 00:48:19,310
+on the left side of
+the heart by blowing up
+
+887
+00:48:19,310 --> 00:48:21,870
+the balloon and seeing
+what kind of back pressure
+
+888
+00:48:21,870 --> 00:48:24,820
+there is from the left
+side of those capillaries.
+
+889
+00:48:25,030 --> 00:48:27,570
+So just remember that if
+you have heart failure, it's
+
+890
+00:48:27,570 --> 00:48:29,930
+because your heart isn't
+pumping. if it's cardiac
+
+891
+00:48:29,930 --> 00:48:32,510
+in origin and if your left
+ventricle isn't pumping
+
+892
+00:48:32,570 --> 00:48:35,190
+what it does for a living
+it pumps blood to the body
+
+893
+00:48:35,190 --> 00:48:37,750
+but it pumps blood out of
+the lungs and if it's not
+
+894
+00:48:37,750 --> 00:48:40,650
+working well that fluid is
+going to build up in the
+
+895
+00:48:40,650 --> 00:48:43,150
+lungs the pressure is going
+to build up in the capillary
+
+896
+00:48:43,150 --> 00:48:46,070
+tree and then the fluid
+is going to enter into
+
+897
+00:48:46,070 --> 00:48:48,950
+the alveolar space or the
+interstitial space or both
+
+898
+00:48:49,190 --> 00:48:53,120
+but it's based upon too
+much pressure back pressure
+
+899
+00:48:53,120 --> 00:48:55,450
+from the left side of
+the heart not doing what
+
+900
+00:48:55,450 --> 00:48:58,630
+it's supposed to do. As
+opposed to ARDS, where the
+
+901
+00:48:58,630 --> 00:49:01,690
+problem with fluid is not
+from back pressure, it's
+
+902
+00:49:01,690 --> 00:49:05,130
+going to be from the
+violation of that membrane and
+
+903
+00:49:05,130 --> 00:49:08,130
+that barrier. That's why
+the pressure is normal.
+
+904
+00:49:08,810 --> 00:49:12,170
+So that's the difference
+in pulmonary capillary
+
+905
+00:49:12,170 --> 00:49:14,070
+wedge pressure. As you
+see with ARDS, it's
+
+906
+00:49:14,070 --> 00:49:17,150
+normal or low, and with
+heart failure, it's high.
+
+907
+00:49:17,960 --> 00:49:20,810
+So these are the numbers
+that tell you how bad it is.
+
+908
+00:49:20,810 --> 00:49:23,470
+So a normal patient, let's
+just say you do an ABG on
+
+909
+00:49:23,470 --> 00:49:27,010
+room air, It's 90 millimeters
+of mercury of PiO2,
+
+910
+00:49:27,010 --> 00:49:31,930
+and you divide 90 by 0.21,
+not by 21%, by 0.1, and you
+
+911
+00:49:31,930 --> 00:49:35,090
+get 428, which is very good.
+So anything over 300 is
+
+912
+00:49:35,090 --> 00:49:38,450
+considered normal. Then
+as you progress to worse
+
+913
+00:49:38,450 --> 00:49:41,850
+ratios, the prognosis, as
+you can see, gets really bad.
+
+914
+00:49:43,150 --> 00:49:48,110
+There are indirect and
+direct causes of ARDS. Some
+
+915
+00:49:48,110 --> 00:49:50,410
+of the things that cause
+direct damage to those
+
+916
+00:49:50,410 --> 00:49:56,690
+alveolar membranes, pneumonia,
+the toxins mediated by
+
+917
+00:49:56,690 --> 00:49:59,690
+bacteria can destroy the
+alveoli. If you aspirate
+
+918
+00:49:59,690 --> 00:50:02,490
+gastric contents, which has
+got stomach acid in it, the
+
+919
+00:50:02,490 --> 00:50:05,430
+acid can eat away at those
+membranes. If you thwack
+
+920
+00:50:05,430 --> 00:50:09,070
+the lungs, you can contuse
+and just damage from
+
+921
+00:50:09,070 --> 00:50:13,210
+direct trauma. You can inhale
+smoke or toxins or other
+
+922
+00:50:13,210 --> 00:50:16,430
+gases that can destroy
+the alveolar membrane. If
+
+923
+00:50:16,430 --> 00:50:19,230
+you get near-drowning,
+drowning means dead, but if
+
+924
+00:50:19,230 --> 00:50:21,390
+you're still alive, it's
+called near-drowning. You
+
+925
+00:50:21,390 --> 00:50:24,160
+can have near-drowning in
+seawater, and the osmotic
+
+926
+00:50:24,430 --> 00:50:28,990
+differences between seawater
+and plasma are too great
+
+927
+00:50:28,990 --> 00:50:31,530
+and will cause damage to
+the membrane. And even
+
+928
+00:50:31,530 --> 00:50:35,610
+in freshwater, the osmotic
+difference is too great as
+
+929
+00:50:35,610 --> 00:50:37,770
+well. It can also cause
+problems to the membrane.
+
+930
+00:50:38,830 --> 00:50:41,560
+Air embolism, diffuse lung
+disease, can also directly
+
+931
+00:50:41,560 --> 00:50:43,890
+damage the lungs.
+Indirect things are caused
+
+932
+00:50:43,890 --> 00:50:45,890
+by other things that are
+happening somewhere else
+
+933
+00:50:45,890 --> 00:50:50,070
+in the body that are causing
+toxins to be mediated,
+
+934
+00:50:50,070 --> 00:50:55,530
+and those toxins destroy
+the alveolar membranes.
+
+935
+00:50:55,580 --> 00:50:58,530
+So sepsis is the most
+common, by far and away,
+
+936
+00:50:58,530 --> 00:51:01,870
+85% of cases. So those
+cytokines and all
+
+937
+00:51:01,870 --> 00:51:04,050
+the inflammatory mediators
+destroy the lungs.
+
+938
+00:51:04,090 --> 00:51:08,130
+Now, DIC is a crazy disease
+where you are both clotting
+
+939
+00:51:08,130 --> 00:51:11,330
+too much, So you lose
+coagulation factors, so you
+
+940
+00:51:11,330 --> 00:51:13,230
+have tiny little clots
+everywhere, but you're also
+
+941
+00:51:13,230 --> 00:51:16,210
+bleeding. Very difficult to
+treat. But also those little
+
+942
+00:51:16,210 --> 00:51:20,510
+blood clots can lodge inside
+the capillaries and cause
+
+943
+00:51:20,510 --> 00:51:23,990
+damage as well indirectly
+to the alveolar membrane.
+
+944
+00:51:25,110 --> 00:51:30,410
+Pancreatitis has all
+kinds of enzymes that are
+
+945
+00:51:30,410 --> 00:51:34,850
+lytic enzymes that can
+damage the membrane and
+
+946
+00:51:34,850 --> 00:51:36,450
+lots of other things.
+but the most important
+
+947
+00:51:36,450 --> 00:51:38,940
+one that remains on this
+list is transfusion.
+
+948
+00:51:39,410 --> 00:51:42,490
+Transfusion can
+cause, it's probably
+
+949
+00:51:42,490 --> 00:51:45,110
+the second most common
+cause of ARDS. So
+
+950
+00:51:45,110 --> 00:51:47,630
+use blood products
+very judiciously.
+
+951
+00:51:47,730 --> 00:51:51,870
+The match is never
+perfect. Even if you do an
+
+952
+00:51:51,870 --> 00:51:55,390
+exhaustive type and
+cross match of the blood,
+
+953
+00:51:55,390 --> 00:51:57,870
+your blood is not the same
+as someone else's blood,
+
+954
+00:51:57,870 --> 00:52:00,470
+and you're going to
+have a slight host-to
+
+955
+00:52:00,470 --> 00:52:03,410
+-graft response. Remember,
+transfusion is a liquid
+
+956
+00:52:03,410 --> 00:52:06,890
+transplant and results
+in inflammatory things.
+
+957
+00:52:08,590 --> 00:52:12,050
+So these are the differences
+between ARDS and CHF.
+
+958
+00:52:12,050 --> 00:52:15,050
+Remember, ARDS is
+direct damage. CHF is
+
+959
+00:52:15,050 --> 00:52:17,550
+because the heart is
+not pumping properly. So
+
+960
+00:52:17,550 --> 00:52:19,970
+you get a pressure
+and fluid builds up in
+
+961
+00:52:19,970 --> 00:52:22,030
+the alveoli because
+of the back pressure.
+
+962
+00:52:22,290 --> 00:52:25,150
+It's usually caused by
+hypertension or a heart attack.
+
+963
+00:52:25,150 --> 00:52:28,430
+Or even if you give a 22
+-year-old 10, 20 liters of
+
+964
+00:52:28,430 --> 00:52:30,950
+fluid, their heart will
+eventually give out even if
+
+965
+00:52:30,950 --> 00:52:33,410
+you have a healthy heart
+too much fluid can can cause
+
+966
+00:52:33,410 --> 00:52:38,230
+the pressure to back up
+and into the lungs we we
+
+967
+00:52:38,230 --> 00:52:40,370
+already talked about the
+causes of ARDS being something
+
+968
+00:52:40,370 --> 00:52:45,030
+else that causes a trouble
+a problem with the membrane
+
+969
+00:52:45,030 --> 00:52:47,530
+both of them will look
+white out in both sides
+
+970
+00:52:47,530 --> 00:52:51,190
+but you don't get usually
+pleural effusions on the x
+
+971
+00:52:51,190 --> 00:52:54,730
+-ray which will show as
+blunting of the cost of phrenic
+
+972
+00:52:54,730 --> 00:52:59,310
+angles with CHF CHF you
+get it, but not with ARDS.
+
+973
+00:52:59,950 --> 00:53:01,450
+Pulmonary cap wave pressure we
+
+974
+00:53:01,450 --> 00:53:03,730
+went through
+before, and because
+
+975
+00:53:05,050 --> 00:53:07,360
+the problem is not with
+the left ventricle,
+
+976
+00:53:07,410 --> 00:53:10,290
+the ARDS picture is going
+to show on ultrasound
+
+977
+00:53:10,290 --> 00:53:11,790
+that the left
+ventricle is pumping
+
+978
+00:53:11,790 --> 00:53:14,250
+normally, and the CHF
+picture will show that the
+
+979
+00:53:14,250 --> 00:53:16,630
+left ventricle is
+sluggishly contracting.
+
+980
+00:53:18,110 --> 00:53:22,050
+So treatment is preventing.
+That is what you really
+
+981
+00:53:22,050 --> 00:53:24,930
+want to do, and sometimes
+it's very difficult to prevent
+
+982
+00:53:24,930 --> 00:53:27,990
+things but we have learned
+since I was a medical
+
+983
+00:53:27,990 --> 00:53:31,310
+student that lower tidal
+volumes are better than higher
+
+984
+00:53:31,310 --> 00:53:35,050
+tidal volumes barotrauma is
+a real thing it really does
+
+985
+00:53:35,050 --> 00:53:38,250
+destroy the alveolar membrane
+so start with low tidal
+
+986
+00:53:38,250 --> 00:53:41,070
+volumes you want to also give
+the right amount of fluid
+
+987
+00:53:41,070 --> 00:53:43,830
+so if someone is dehydrated
+and they're septic you
+
+988
+00:53:43,830 --> 00:53:46,530
+give them fluids and you
+give them antibiotics but not
+
+989
+00:53:46,530 --> 00:53:49,410
+too much don't give too much
+blood we have the pendulum
+
+990
+00:53:49,410 --> 00:53:52,530
+has really swung away from
+giving a lot of blood to
+
+991
+00:53:52,530 --> 00:53:55,730
+giving as little as you possibly
+can because we understand
+
+992
+00:53:55,730 --> 00:53:59,110
+that there's a risk of
+transfusion associated lung
+
+993
+00:53:59,110 --> 00:54:05,530
+injury we call that trolley
+as an acronym and also
+
+994
+00:54:05,530 --> 00:54:08,510
+the fluid overload doesn't
+help as well get your ICU
+
+995
+00:54:08,510 --> 00:54:12,790
+people involved early so
+focusing more on the underlying
+
+996
+00:54:12,790 --> 00:54:17,110
+disease too it's really
+the most important thing so
+
+997
+00:54:17,110 --> 00:54:20,190
+treat the sepsis if If someone's
+bleeding to death, give
+
+998
+00:54:20,190 --> 00:54:22,230
+them the blood, but don't
+give them too much blood.
+
+999
+00:54:22,390 --> 00:54:26,150
+And you want to also give
+the right pressure when
+
+1000
+00:54:26,150 --> 00:54:29,430
+you're ventilating them. And
+that is a lower tidal volume
+
+1001
+00:54:29,430 --> 00:54:31,470
+of about four to eight
+milliliters per kilogram.
+
+1002
+00:54:32,170 --> 00:54:34,890
+And also the right
+amount of fluid.
+
+1003
+00:54:36,380 --> 00:54:39,270
+No drug has ever been shown
+to help prevent ARDS or
+
+1004
+00:54:39,270 --> 00:54:42,810
+to treat ARDS. But PEEP,
+which is positive end
+
+1005
+00:54:42,810 --> 00:54:46,710
+expiratory pressure in your
+ventilating settings of at
+
+1006
+00:54:46,710 --> 00:54:49,410
+at least 5 centimeters of
+water, but probably more,
+
+1007
+00:54:49,570 --> 00:54:53,010
+does help treat
+and prevent ARDS.
+
+1008
+00:54:53,390 --> 00:54:56,410
+So normally when you give
+just a regular ventilatory
+
+1009
+00:54:56,410 --> 00:54:59,050
+breath, you give some
+positive pressure on
+
+1010
+00:54:59,050 --> 00:55:02,350
+inspiration, and then on
+exhalation, the machine just
+
+1011
+00:55:02,350 --> 00:55:05,710
+shuts off and the lungs
+exhale by themselves
+
+1012
+00:55:05,710 --> 00:55:10,070
+because of the way the
+thoracic cavity in relaxation
+
+1013
+00:55:10,920 --> 00:55:14,490
+gets smaller. So that
+just pushes the air out
+
+1014
+00:55:14,490 --> 00:55:19,150
+passively. But with PEEP,
+you give your breath, and
+
+1015
+00:55:19,150 --> 00:55:21,650
+then when you're letting
+the patient exhale, you
+
+1016
+00:55:21,650 --> 00:55:23,890
+don't fully shut the
+machine off. You still blow
+
+1017
+00:55:23,890 --> 00:55:27,530
+a little bit of air,
+keeping those alveoli open.
+
+1018
+00:55:27,610 --> 00:55:30,690
+That's why it's called
+end-expiratory pressure.
+
+1019
+00:55:30,690 --> 00:55:35,250
+And there have been studies
+that show that more PEEP
+
+1020
+00:55:35,250 --> 00:55:38,770
+is better for this particular
+issue. Keep it open
+
+1021
+00:55:38,770 --> 00:55:43,190
+longer with higher pressure
+is going to help with ARDS.
+
+1022
+00:55:44,100 --> 00:55:48,250
+so this is how it works a
+normal alveolus is pictured
+
+1023
+00:55:48,250 --> 00:55:50,450
+here but here's an
+alveolus with exudates and
+
+1024
+00:55:50,450 --> 00:55:54,030
+protein that hyaline membrane
+we talked about is causing
+
+1025
+00:55:54,030 --> 00:55:57,150
+a difficulty in diffusing
+oxygen across from the
+
+1026
+00:55:57,150 --> 00:56:00,670
+capillaries to the alveoli
+but with peep you end up
+
+1027
+00:56:00,670 --> 00:56:04,730
+keeping it open longer
+during expiration so you can
+
+1028
+00:56:04,730 --> 00:56:07,810
+not only get the gas
+exchange during inhalation
+
+1029
+00:56:07,810 --> 00:56:10,990
+but you can get some during
+exhalation So that extra
+
+1030
+00:56:10,990 --> 00:56:14,790
+little time of keeping the
+alveolus open with positive
+
+1031
+00:56:14,790 --> 00:56:17,690
+end expiratory pressure
+gets more gas exchange.
+
+1032
+00:56:18,230 --> 00:56:21,130
+We learned some things
+from COVID. We learned that
+
+1033
+00:56:21,130 --> 00:56:23,290
+putting people in the
+prone position can help
+
+1034
+00:56:23,290 --> 00:56:25,870
+with ventilation. Why?
+Because the heart and the
+
+1035
+00:56:25,870 --> 00:56:28,430
+mediastinum are anterior
+structures. So if they're
+
+1036
+00:56:28,430 --> 00:56:30,750
+closer to the bed, they're
+going to allow the lungs
+
+1037
+00:56:30,750 --> 00:56:34,050
+to expand and not be
+pressing against the lungs.
+
+1038
+00:56:34,250 --> 00:56:37,190
+We also learned some
+things about the similarity
+
+1039
+00:56:37,190 --> 00:56:41,290
+between COVID and ARDS. we
+learned that in COVID-19
+
+1040
+00:56:41,290 --> 00:56:43,650
+patients who are very, very
+sick, what they showed on
+
+1041
+00:56:43,650 --> 00:56:47,030
+autopsy were similar findings
+to what you see on ARDS,
+
+1042
+00:56:47,030 --> 00:56:50,110
+that hyaline membrane
+formation, but you also saw
+
+1043
+00:56:50,870 --> 00:56:53,290
+microvessel thrombosis,
+which is why we
+
+1044
+00:56:53,290 --> 00:56:55,450
+started to anticoagulate
+these people
+
+1045
+00:56:55,450 --> 00:56:58,030
+who are very, very
+sick with COVID-19.
+
+1046
+00:56:58,790 --> 00:57:02,870
+With severe COVID-19, you
+want to use the same type
+
+1047
+00:57:02,870 --> 00:57:06,590
+of ventilatory settings
+as you would with ARDS or
+
+1048
+00:57:06,590 --> 00:57:09,270
+preventing or treating ARDS.
+But the one difference is
+
+1049
+00:57:09,270 --> 00:57:14,250
+that if it's COVID-19 from
+that virus, in a very, very
+
+1050
+00:57:14,250 --> 00:57:17,950
+sick patient, dexamethasone
+has been shown to help.
+
+1051
+00:57:18,370 --> 00:57:21,810
+Other therapies which are
+kind of equivocal, nitric
+
+1052
+00:57:21,810 --> 00:57:25,590
+oxide. Nitric oxide is a
+vasodilator. It's also an
+
+1053
+00:57:25,590 --> 00:57:29,210
+antiviral, which COVID
+-19 is, and it decreases
+
+1054
+00:57:29,210 --> 00:57:32,730
+inflammation, which is believed
+to be the problem or much
+
+1055
+00:57:32,730 --> 00:57:36,890
+of the problem with COVID
+and also long COVID. So
+
+1056
+00:57:36,890 --> 00:57:38,810
+for all those reasons, it
+sounds like it would make
+
+1057
+00:57:38,810 --> 00:57:41,750
+sense. And as a matter of
+fact, it does increase O2
+
+1058
+00:57:41,750 --> 00:57:44,710
+saturation. However, it
+doesn't do anything to
+
+1059
+00:57:44,710 --> 00:57:48,690
+mortality. It's another
+example of a do, but not a poo.
+
+1060
+00:57:49,890 --> 00:57:55,350
+So in summary, use a
+stepwise fashion with ABG
+
+1061
+00:57:55,350 --> 00:57:58,270
+interpretation. First, the
+pH, what could be causing the
+
+1062
+00:57:58,270 --> 00:58:01,930
+change in the pH that thing
+that's causing the change in
+
+1063
+00:58:01,930 --> 00:58:04,750
+the pH is the primary
+problem and the other thing
+
+1064
+00:58:04,750 --> 00:58:07,230
+going in the other direction
+is the compensatory problem
+
+1065
+00:58:07,230 --> 00:58:11,050
+if the ABG doesn't show
+a simple process it gets
+
+1066
+00:58:11,050 --> 00:58:14,410
+complicated but you can use
+the diet Davenport diaphragm
+
+1067
+00:58:14,410 --> 00:58:18,710
+to kind of figure out where
+they are switching gears
+
+1068
+00:58:18,710 --> 00:58:22,670
+ARDS is an extremely common
+disease and it has got
+
+1069
+00:58:22,670 --> 00:58:25,850
+lots of different ways of
+presenting it's caused by lots
+
+1070
+00:58:25,850 --> 00:58:30,470
+of different disease
+processes to begin with and
+
+1071
+00:58:30,470 --> 00:58:33,610
+it's really really dangerous
+as a high mortality try to
+
+1072
+00:58:33,610 --> 00:58:36,350
+keep them from getting
+sick to begin with by don't
+
+1073
+00:58:36,350 --> 00:58:40,630
+overdo the ventilation low
+tidal volume and avoid all
+
+1074
+00:58:40,630 --> 00:58:43,710
+the things that we know
+cause arts if you can not too
+
+1075
+00:58:43,710 --> 00:58:47,270
+much transfusion make them
+not septic give them enough
+
+1076
+00:58:47,270 --> 00:58:50,590
+fluid but not too much all
+of this is good ICU practice
+
+1077
+00:58:50,590 --> 00:58:55,230
+and that there potentially
+will save some lives
+
+1078
+00:58:55,230 --> 00:58:58,730
+thank you for listening and
+I hope to see you all soon

@@ -1,0 +1,2661 @@
+1
+00:00:00,860 --> 00:00:02,700
+Hello, I'm Dr. Yusupov and
+
+2
+00:00:02,700 --> 00:00:04,660
+this is a clinical TB lecture.
+
+3
+00:00:05,040 --> 00:00:08,220
+I recommend studying
+microbiology
+
+4
+00:00:08,220 --> 00:00:10,780
+lecture that includes
+mycobacterium
+
+5
+00:00:10,780 --> 00:00:14,120
+tuberculosis prior
+to studying this one.
+
+6
+00:00:14,500 --> 00:00:17,540
+This lecture also
+corresponds to Dr. Pino's
+
+7
+00:00:17,540 --> 00:00:21,000
+pharmacology lecture
+on TB treatment.
+
+8
+00:00:21,780 --> 00:00:27,010
+Session objectives are
+listed for you and objectives
+
+9
+00:00:27,360 --> 00:00:31,300
+as well as the lecturing
+whole are based on the
+
+10
+00:00:31,300 --> 00:00:35,560
+CDC curriculum for health
+care professionals. Most
+
+11
+00:00:35,560 --> 00:00:38,080
+of the resources and
+slides either come directly
+
+12
+00:00:38,080 --> 00:00:41,520
+from the CDC or are based
+on those provided by the
+
+13
+00:00:41,520 --> 00:00:45,840
+CDC and are all available
+for your review online.
+
+14
+00:00:46,530 --> 00:00:49,140
+This topic, as
+you can see here,
+
+15
+00:00:49,560 --> 00:00:55,000
+is tested widely by
+both Comlex and USMLE.
+
+16
+00:00:56,520 --> 00:01:01,380
+some definitions that are
+important not going to
+
+17
+00:01:01,380 --> 00:01:05,280
+read it but this is for
+you to study on your own
+
+18
+00:01:05,280 --> 00:01:09,220
+and refer back to while
+studying the material and
+
+19
+00:01:09,220 --> 00:01:12,400
+we'll we'll be mentioning
+everything going over
+
+20
+00:01:12,400 --> 00:01:17,520
+everything during the lecture
+tb is a chronic pulmonary
+
+21
+00:01:17,520 --> 00:01:21,260
+and systemic disease
+caused most open by the
+
+22
+00:01:21,260 --> 00:01:25,600
+Mycobacterium tuberculosis,
+and it has resurged as
+
+23
+00:01:25,600 --> 00:01:28,140
+the leading infectious
+cause of death worldwide.
+
+24
+00:01:28,370 --> 00:01:30,400
+At the height of
+the pandemic, it was
+
+25
+00:01:30,400 --> 00:01:33,220
+the second cause of
+death after COVID-19.
+
+26
+00:01:33,780 --> 00:01:36,600
+TB is a worldwide
+public health concern,
+
+27
+00:01:36,600 --> 00:01:39,580
+and approximately
+23% of the world's
+
+28
+00:01:39,580 --> 00:01:42,200
+population is infected
+with the bacteria.
+
+29
+00:01:43,100 --> 00:01:45,220
+Countries with
+the most cases of
+
+30
+00:01:45,220 --> 00:01:48,800
+TB include India,
+China, Indonesia,
+
+31
+00:01:49,000 --> 00:01:50,120
+the Philippines,
+
+32
+00:01:50,300 --> 00:01:53,900
+Pakistan, Nigeria,
+Bangladesh, and South Africa.
+
+33
+00:01:54,400 --> 00:01:57,200
+It is the number
+one cause of death
+
+34
+00:01:57,200 --> 00:01:59,680
+for people who
+are HIV positive.
+
+35
+00:02:02,200 --> 00:02:06,920
+You will get to see TB no
+matter where you practice.
+
+36
+00:02:07,020 --> 00:02:10,260
+More in the areas such
+as New York, Texas,
+
+37
+00:02:10,260 --> 00:02:14,180
+California, Florida with
+high immigrant population.
+
+38
+00:02:14,720 --> 00:02:17,460
+Also more in the
+inner city area
+
+39
+00:02:17,460 --> 00:02:20,000
+rather than rural or suburban.
+
+40
+00:02:20,370 --> 00:02:22,740
+However, you will
+also get to see it if
+
+41
+00:02:22,740 --> 00:02:25,260
+you are treating
+immunosuppressed patients,
+
+42
+00:02:25,340 --> 00:02:31,540
+organ transplants, rheumatologic
+patients on various
+
+43
+00:02:31,540 --> 00:02:35,640
+new immunosuppressive
+therapies or HIV patients.
+
+44
+00:02:37,450 --> 00:02:40,340
+Even though rates of
+TB in the U.S. are
+
+45
+00:02:40,340 --> 00:02:43,120
+low, it is still a
+public health concern.
+
+46
+00:02:45,200 --> 00:02:48,640
+statistics have shown
+that in 2020 there was a
+
+47
+00:02:48,640 --> 00:02:53,720
+20% decline in TB disease
+diagnosis and this
+
+48
+00:02:53,720 --> 00:02:58,440
+is likely due to COVID
+-19 caused disruptions and
+
+49
+00:02:58,440 --> 00:03:03,760
+testing and case
+notifications which resulted
+
+50
+00:03:03,760 --> 00:03:09,320
+worldwide in increase
+of mortality from TB
+
+51
+00:03:09,320 --> 00:03:14,200
+taking global TB control
+back by around 10 years.
+
+52
+00:03:15,260 --> 00:03:18,620
+TB has been documented
+in humans for
+
+53
+00:03:18,620 --> 00:03:21,360
+thousands of years
+under different names.
+
+54
+00:03:21,820 --> 00:03:25,300
+Before the invention
+of the antibiotics the
+
+55
+00:03:25,300 --> 00:03:30,140
+concept of a TB sanatorium
+arose with isolation
+
+56
+00:03:30,140 --> 00:03:33,760
+and possible cure
+of TB in places that
+
+57
+00:03:33,760 --> 00:03:37,060
+provided a protected
+and secure environment.
+
+58
+00:03:37,360 --> 00:03:40,620
+Patients were isolated
+from families,
+
+59
+00:03:40,620 --> 00:03:45,560
+society, sometimes not
+voluntarily isolated,
+
+60
+00:03:45,560 --> 00:03:48,660
+and treated with
+fresh air, sunlight,
+
+61
+00:03:48,940 --> 00:03:49,900
+rest,
+
+62
+00:03:50,440 --> 00:03:52,120
+improved nutrition,
+
+63
+00:03:52,320 --> 00:03:58,020
+proper sanitation. This is
+pictured on the on the slide
+
+64
+00:03:58,020 --> 00:04:01,020
+in the image that you see
+for those of you interested
+
+65
+00:04:01,020 --> 00:04:05,080
+in history of TB in this
+country I provide a link
+
+66
+00:04:05,080 --> 00:04:09,160
+to the image gallery from
+PBS on the bottom of the
+
+67
+00:04:09,160 --> 00:04:17,380
+slide TB is a bacterial
+disease caused by mycobacterium
+
+68
+00:04:17,380 --> 00:04:22,780
+tuberculosis this slide is
+a microbiology review this
+
+69
+00:04:22,780 --> 00:04:26,920
+is an acid fast stain of
+mycobacterium tuberculosis
+
+70
+00:04:26,920 --> 00:04:32,280
+or mtb note the red rods
+they are for the terminology
+
+71
+00:04:32,360 --> 00:04:38,790
+for mtb in smears acid
+fast bacilli mycobacteria
+
+72
+00:04:38,790 --> 00:04:41,840
+have a cell wall with
+lipids including fatty
+
+73
+00:04:41,840 --> 00:04:45,700
+acids specifically
+mycolic acid making them
+
+74
+00:04:45,700 --> 00:04:50,320
+resistant to phagocytic
+destruction and acid fast
+
+75
+00:04:52,920 --> 00:04:56,960
+TB is spread through the
+air from person to person.
+
+76
+00:04:57,380 --> 00:05:01,540
+Tiny particles containing
+TB bacteria may be
+
+77
+00:05:01,540 --> 00:05:04,380
+expelled into the air when
+a person with infectious
+
+78
+00:05:04,380 --> 00:05:10,500
+TB of the lungs or airway
+coughs, speaks, sings.
+
+79
+00:05:11,040 --> 00:05:14,800
+People nearby may
+breathe in these TB
+
+80
+00:05:14,800 --> 00:05:17,040
+bacteria as illustrated
+by the person
+
+81
+00:05:17,040 --> 00:05:19,620
+on the right and
+become infected.
+
+82
+00:05:20,040 --> 00:05:23,240
+These particles called
+airborne droplet
+
+83
+00:05:23,240 --> 00:05:25,880
+nuclei can remain in
+the air for several
+
+84
+00:05:25,880 --> 00:05:28,660
+hours, depending
+on the environment.
+
+85
+00:05:29,400 --> 00:05:32,420
+In the case of TB, only
+the small particles
+
+86
+00:05:32,420 --> 00:05:34,740
+are likely to
+transmit the disease.
+
+87
+00:05:34,940 --> 00:05:37,720
+In case of COVID-19,
+
+88
+00:05:37,940 --> 00:05:40,580
+as we know, both
+the droplets and
+
+89
+00:05:40,580 --> 00:05:43,300
+aerosol particles
+transmit the disease.
+
+90
+00:05:45,960 --> 00:05:49,420
+Risk for developing
+TB falls into one of
+
+91
+00:05:49,420 --> 00:05:52,540
+the two categories,
+persons who have recently
+
+92
+00:05:52,540 --> 00:05:55,320
+been infected or
+persons with medical
+
+93
+00:05:55,320 --> 00:05:57,960
+conditions that weaken
+the immune system.
+
+94
+00:05:58,120 --> 00:06:01,500
+Of the persons who have
+recently been infected,
+
+95
+00:06:01,800 --> 00:06:06,620
+we can see who is at
+higher risk. These are
+
+96
+00:06:06,620 --> 00:06:10,620
+close contacts of persons
+with infectious TB
+
+97
+00:06:10,620 --> 00:06:14,000
+disease, those who immigrated
+from an area of the
+
+98
+00:06:14,000 --> 00:06:17,520
+world with high rates
+of TB or endemic for TB,
+
+99
+00:06:17,860 --> 00:06:19,880
+very young children.
+
+100
+00:06:20,560 --> 00:06:23,060
+High-risk groups include
+
+101
+00:06:23,060 --> 00:06:26,400
+homeless injection drug users,
+
+102
+00:06:26,680 --> 00:06:32,440
+persons with HIV, and
+those who live or work
+
+103
+00:06:32,440 --> 00:06:34,920
+with people who are
+at high risk for TB,
+
+104
+00:06:34,920 --> 00:06:37,420
+and this includes
+hospitals, homeless
+
+105
+00:06:37,420 --> 00:06:40,700
+shelters, correctional
+centers, nursing homes,
+
+106
+00:06:41,940 --> 00:06:45,120
+and notice that medical
+trainees and physicians
+
+107
+00:06:45,120 --> 00:06:48,640
+are at higher risk because
+of because of these
+
+108
+00:06:49,520 --> 00:06:50,680
+factors.
+
+109
+00:06:51,620 --> 00:06:55,000
+A list of persons with
+medical conditions that
+
+110
+00:06:55,000 --> 00:06:57,880
+weaken the immune system
+are seen on the slide.
+
+111
+00:06:57,880 --> 00:07:01,100
+Please note that one of
+the most important risk
+
+112
+00:07:01,100 --> 00:07:05,120
+factors for active TB is
+co-infection with HIV.
+
+113
+00:07:07,140 --> 00:07:11,140
+Other important conditions
+to take note are any
+
+114
+00:07:11,140 --> 00:07:13,780
+medical conditions
+that require the use of
+
+115
+00:07:13,780 --> 00:07:18,940
+immunosuppressant medications
+as well as diabetes.
+
+116
+00:07:21,760 --> 00:07:24,300
+The next several
+slides are cartoon
+
+117
+00:07:24,300 --> 00:07:27,300
+representation of the
+pathogenesis of TB.
+
+118
+00:07:28,300 --> 00:07:31,700
+Droplet nuclei
+containing TB bacilli
+
+119
+00:07:31,700 --> 00:07:34,900
+are inhaled, enter
+the lungs, and travel
+
+120
+00:07:34,900 --> 00:07:37,660
+to the alveoli,
+where they multiply.
+
+121
+00:07:40,100 --> 00:07:44,640
+Cell-mediated immunity is
+critical at this early stage.
+
+122
+00:07:44,640 --> 00:07:49,460
+Within 2 to 8 weeks, activated
+macrophages aggregate
+
+123
+00:07:49,460 --> 00:07:53,120
+around the lesion center
+and effectively neutralize
+
+124
+00:07:53,120 --> 00:07:56,720
+TB bacilli without causing
+further tissue destruction.
+
+125
+00:07:57,540 --> 00:08:00,780
+macrophages form a
+barrier shell called the
+
+126
+00:08:00,780 --> 00:08:04,360
+granuloma that keeps
+the bacilli contained.
+
+127
+00:08:04,400 --> 00:08:07,060
+This is called latent TB.
+
+128
+00:08:09,020 --> 00:08:12,160
+If the immune
+system cannot keep
+
+129
+00:08:12,160 --> 00:08:14,400
+the TB bacilli under control,
+
+130
+00:08:14,640 --> 00:08:17,280
+the bacilli begin to multiply
+
+131
+00:08:17,280 --> 00:08:20,240
+rapidly as is the
+case in TB disease.
+
+132
+00:08:20,900 --> 00:08:23,840
+This process can occur
+in different areas of the
+
+133
+00:08:23,840 --> 00:08:30,920
+body such as the lungs
+kidneys brain or bone this is
+
+134
+00:08:30,920 --> 00:08:34,940
+a summary slide to illustrate
+types and pathophysiology
+
+135
+00:08:34,940 --> 00:08:38,080
+of clinical TB and I
+and I want you to follow
+
+136
+00:08:38,080 --> 00:08:42,660
+along with me we recognize
+two important types primary
+
+137
+00:08:42,660 --> 00:08:45,860
+TB which occurs with
+the first infection and
+
+138
+00:08:45,860 --> 00:08:50,020
+secondary TB which occurs in
+an individual who has been
+
+139
+00:08:50,020 --> 00:08:53,620
+previously infected by
+mycobacterium tuberculosis.
+
+140
+00:08:54,540 --> 00:08:58,240
+Primary TB develops
+in a previously
+
+141
+00:08:58,240 --> 00:09:01,500
+unexposed and
+unsensitized people.
+
+142
+00:09:02,040 --> 00:09:05,320
+Clinically significant
+disease develops
+
+143
+00:09:05,320 --> 00:09:08,520
+in about 5% of newly
+infected people.
+
+144
+00:09:08,980 --> 00:09:12,680
+With primary TB, the
+source of the organism
+
+145
+00:09:12,680 --> 00:09:17,120
+is exogenous. In most
+people, the primary
+
+146
+00:09:17,120 --> 00:09:20,220
+infection is contained,
+like we said,
+
+147
+00:09:21,020 --> 00:09:24,980
+leading to latent TB, but in
+
+148
+00:09:24,980 --> 00:09:27,440
+others, primary
+TB is progressive.
+
+149
+00:09:28,540 --> 00:09:31,440
+The TB bacilli
+overcome the immune
+
+150
+00:09:31,440 --> 00:09:34,400
+system, multiply, and result in
+
+151
+00:09:34,400 --> 00:09:39,200
+progression from latent
+TB to TB disease.
+
+152
+00:09:41,680 --> 00:09:45,800
+persons who have TB disease
+are usually infectious and
+
+153
+00:09:45,800 --> 00:09:49,560
+we'll talk about this again
+they may spread the bacteria
+
+154
+00:09:49,560 --> 00:09:56,480
+to others and this progression
+from latent TB to TB
+
+155
+00:09:56,480 --> 00:10:01,000
+disease may occur at any time
+but is most common within
+
+156
+00:10:01,000 --> 00:10:04,240
+the first two years of
+infection or in the context
+
+157
+00:10:04,410 --> 00:10:06,640
+of certain medical
+conditions that
+
+158
+00:10:06,640 --> 00:10:09,460
+we mentioned on
+the previous slide.
+
+159
+00:10:10,660 --> 00:10:14,660
+Secondary TB is the pattern
+of disease that arises
+
+160
+00:10:14,660 --> 00:10:19,860
+in a previously sensitized
+host. It may follow
+
+161
+00:10:19,860 --> 00:10:23,100
+shortly after primary
+TB, but more commonly
+
+162
+00:10:23,100 --> 00:10:26,560
+appears months to years up
+to the initial infection,
+
+163
+00:10:27,100 --> 00:10:30,520
+usually when the host
+resistance is weakened.
+
+164
+00:10:33,940 --> 00:10:37,980
+Most commonly, it stems
+from reactivation of the
+
+165
+00:10:37,980 --> 00:10:42,360
+latent infection, but may
+also result from exogenous
+
+166
+00:10:42,360 --> 00:10:46,800
+reinfection in the face
+of waning host immunity.
+
+167
+00:10:47,500 --> 00:10:53,620
+And secondary pulmonary
+TB classically involves
+
+168
+00:10:53,620 --> 00:10:56,820
+the apex of the upper
+lobes of one or both lungs.
+
+169
+00:11:03,220 --> 00:11:06,220
+This slide goes deeper
+into pathology, which is
+
+170
+00:11:06,220 --> 00:11:09,300
+beyond the scope of this
+lecture, and is included
+
+171
+00:11:09,300 --> 00:11:13,240
+here for completion. You
+see here a GAN complex
+
+172
+00:11:13,240 --> 00:11:17,140
+consisting of a GAN
+focus, see the red arrow,
+
+173
+00:11:17,180 --> 00:11:20,700
+and inflamed HILO node
+next to the blue arrow.
+
+174
+00:11:24,620 --> 00:11:27,680
+In secondary pulmonary TB,
+
+175
+00:11:27,860 --> 00:11:30,840
+the upper parts of
+both lungs are riddled
+
+176
+00:11:30,840 --> 00:11:34,320
+with gray-white areas
+of casiation and
+
+177
+00:11:34,320 --> 00:11:37,300
+multiple areas of
+softening and cavitation.
+
+178
+00:11:38,290 --> 00:11:40,680
+And again, you will
+hear more about
+
+179
+00:11:40,680 --> 00:11:44,180
+these findings, what
+is casiation, or where
+
+180
+00:11:44,180 --> 00:11:46,460
+the term comes from,
+from pathology.
+
+181
+00:11:48,780 --> 00:11:51,840
+as far as the clinical
+features are concerned
+
+182
+00:11:51,840 --> 00:11:55,660
+we can see here highlighted
+differences between
+
+183
+00:11:55,660 --> 00:11:59,860
+latent tb and tb disease
+take a look at the
+
+184
+00:11:59,860 --> 00:12:03,440
+picture of a woman on
+the left of the slide she
+
+185
+00:12:03,440 --> 00:12:06,780
+does not appear sick
+she's living her normal
+
+186
+00:12:06,780 --> 00:12:09,960
+life and you may not even
+know she has latent tb
+
+187
+00:12:10,690 --> 00:12:13,240
+contrasting to the picture
+of the woman on the
+
+188
+00:12:13,240 --> 00:12:17,700
+right who's coughing
+pictured at home next to
+
+189
+00:12:17,700 --> 00:12:21,580
+her bed to illustrate a
+patient with TB disease.
+
+190
+00:12:22,560 --> 00:12:25,900
+With latent TB, the
+patient has the bacteria in
+
+191
+00:12:25,900 --> 00:12:29,940
+their body, but the bacteria
+is dormant. Therefore,
+
+192
+00:12:29,940 --> 00:12:32,760
+they are asymptomatic,
+cannot transmit the
+
+193
+00:12:32,760 --> 00:12:36,420
+bacteria to other people.
+They will seem well.
+
+194
+00:12:36,520 --> 00:12:39,880
+If the patient has testing
+for whatever reason,
+
+195
+00:12:39,880 --> 00:12:43,540
+typically this happens
+as a work requirement or
+
+196
+00:12:43,540 --> 00:12:46,800
+before starting
+immunosuppressant medication.
+
+197
+00:12:46,980 --> 00:12:51,000
+The TB skin test and blood
+test may be abnormal.
+
+198
+00:12:51,140 --> 00:12:54,740
+However, chest x-ray
+will be completely
+
+199
+00:12:54,740 --> 00:12:57,780
+normal, will not show
+any active disease.
+
+200
+00:12:58,740 --> 00:13:03,280
+People with latent TB
+are usually recommended,
+
+201
+00:13:03,420 --> 00:13:04,620
+advised,
+
+202
+00:13:04,720 --> 00:13:07,440
+to take a treatment
+according to the protocol
+
+203
+00:13:07,440 --> 00:13:10,980
+to prevent them from
+developing TB disease.
+
+204
+00:13:11,680 --> 00:13:15,120
+While a patient with
+TB disease is somebody
+
+205
+00:13:15,120 --> 00:13:18,760
+who has active
+symptoms of the illness
+
+206
+00:13:18,760 --> 00:13:22,160
+and can spread the
+bacteria to others,
+
+207
+00:13:22,460 --> 00:13:26,960
+TB skin test, blood test
+will usually be abnormal.
+
+208
+00:13:27,020 --> 00:13:30,080
+Chest x-ray will
+usually be abnormal.
+
+209
+00:13:30,220 --> 00:13:33,900
+This patient requires
+respiratory isolation.
+
+210
+00:13:34,800 --> 00:13:36,840
+And treatment is
+mandated by the
+
+211
+00:13:36,840 --> 00:13:40,180
+Department of Health
+and may be enforced.
+
+212
+00:13:45,090 --> 00:13:48,550
+TB is not isolated to the
+lung. It can present in
+
+213
+00:13:48,550 --> 00:13:52,650
+many places outside of
+the lung. Common places to
+
+214
+00:13:52,650 --> 00:13:55,870
+have extrapulmonary TB
+include the lymph nodes,
+
+215
+00:13:56,110 --> 00:13:58,730
+pleural cavity, upper airway,
+
+216
+00:13:58,870 --> 00:14:01,130
+the GU tract, and the bones.
+
+217
+00:14:01,590 --> 00:14:05,710
+For TB of the lymph nodes,
+also known as tubercular
+
+218
+00:14:06,320 --> 00:14:09,550
+lymphadenitis, the most
+common site to see is the
+
+219
+00:14:09,550 --> 00:14:13,330
+posterior cervical lymph
+nodes or the supraclavicular
+
+220
+00:14:13,330 --> 00:14:20,270
+lymph nodes. and the
+image here is of the
+
+221
+00:14:20,270 --> 00:14:25,230
+tuberculous lymphadenitis
+skeletal TB most commonly affects
+
+222
+00:14:25,230 --> 00:14:28,870
+weight-bearing joints
+such as the spine hips
+
+223
+00:14:28,870 --> 00:14:35,690
+knees several images of the
+extra pulmonary TB on the
+
+224
+00:14:35,690 --> 00:14:38,830
+left we have a tuberculoma
+in the left hemisphere
+
+225
+00:14:40,130 --> 00:14:42,450
+Tuberculoma are well-defined.
+
+226
+00:14:44,010 --> 00:14:46,890
+Focal can mimic
+cancer on imaging.
+
+227
+00:14:46,990 --> 00:14:49,890
+The middle image is of renal TB
+
+228
+00:14:50,750 --> 00:14:55,810
+where the renal parenchyma
+is destroyed and can
+
+229
+00:14:55,810 --> 00:15:00,030
+lead to strictures,
+hydronephrosis, obstructive
+
+230
+00:15:00,760 --> 00:15:03,890
+nephropathy. The image
+on the right is of
+
+231
+00:15:03,890 --> 00:15:07,410
+Pott's disease or TB
+of the vertebral body.
+
+232
+00:15:14,470 --> 00:15:18,050
+Miliary TB is due
+to disseminated
+
+233
+00:15:18,050 --> 00:15:21,330
+spread of mycobacterial
+infection.
+
+234
+00:15:21,330 --> 00:15:25,030
+It can occur either at the
+time of primary infection
+
+235
+00:15:25,030 --> 00:15:29,330
+or on disease reactivation.
+And prognosis is poor.
+
+236
+00:15:30,910 --> 00:15:37,150
+Miliary, the word miliary,
+comes from malaise seeds,
+
+237
+00:15:37,150 --> 00:15:42,210
+which I'm giving you
+just an image here, but
+
+238
+00:15:42,210 --> 00:15:48,530
+you can also see how it
+presents on the x-ray with
+
+239
+00:15:48,530 --> 00:15:53,970
+scattered, very fine nodules
+throughout the lungs.
+
+240
+00:15:56,990 --> 00:15:59,270
+Moving on to diagnosis,
+
+241
+00:15:59,490 --> 00:16:03,790
+we start with medical
+history. We ask patients
+
+242
+00:16:03,790 --> 00:16:07,770
+about their symptoms,
+such as cough, sputum,
+
+243
+00:16:07,870 --> 00:16:11,050
+bloody sputum, fever,
+chills, weight loss.
+
+244
+00:16:11,050 --> 00:16:13,410
+It's listed again for
+you on the next slide.
+
+245
+00:16:14,230 --> 00:16:19,130
+You also want to find
+out about the contacts
+
+246
+00:16:19,130 --> 00:16:22,750
+with someone who has
+tested positive for TB,
+
+247
+00:16:22,850 --> 00:16:26,870
+who has active TB, been
+treated for TB in the past.
+
+248
+00:16:26,870 --> 00:16:31,850
+you would like to you
+would like to gather the
+
+249
+00:16:31,850 --> 00:16:37,210
+history about their working
+or living conditions if
+
+250
+00:16:37,210 --> 00:16:41,050
+they smoke if they have
+any risk factors that we
+
+251
+00:16:41,050 --> 00:16:45,310
+discussed so far traveling
+to an endemic country which
+
+252
+00:16:45,310 --> 00:16:48,630
+is very common in this
+age of global travel or
+
+253
+00:16:48,630 --> 00:16:54,520
+being born outside of the
+US needs to be ascertained
+
+254
+00:16:57,850 --> 00:17:00,750
+The classic
+clinical features of
+
+255
+00:17:00,750 --> 00:17:04,090
+pulmonary TB include
+chronic cough,
+
+256
+00:17:04,190 --> 00:17:05,990
+sputum production,
+
+257
+00:17:06,870 --> 00:17:10,570
+appetite loss,
+weight loss, fever,
+
+258
+00:17:10,850 --> 00:17:11,990
+night sweats,
+
+259
+00:17:12,110 --> 00:17:13,350
+hemoptysis.
+
+260
+00:17:14,470 --> 00:17:18,630
+while the symptoms of
+extra pulmonary TB depend
+
+261
+00:17:18,630 --> 00:17:21,250
+on the system that is
+affected. For example,
+
+262
+00:17:21,250 --> 00:17:24,550
+if the patient has
+genitourinary TB, they may
+
+263
+00:17:24,550 --> 00:17:28,050
+present with dysuria,
+hematuria, flank pain.
+
+264
+00:17:28,150 --> 00:17:31,770
+The symptoms that may not
+be specific for TB but
+
+265
+00:17:31,770 --> 00:17:35,710
+specific to the system that's
+affected, again, if they have
+
+266
+00:17:35,710 --> 00:17:39,030
+TB of the spine, they will
+present with back pain.
+
+267
+00:17:41,670 --> 00:17:46,590
+The physical exam for TB
+will also not be specific,
+
+268
+00:17:47,470 --> 00:17:53,230
+therefore the
+suspicion is paramount.
+
+269
+00:17:53,740 --> 00:17:58,535
+On general exam, we can
+see pallor, clubbing,
+
+270
+00:17:59,890 --> 00:18:03,850
+generalized wasting of the
+patient. And for pulmonary
+
+271
+00:18:03,850 --> 00:18:07,050
+TB, it's possible to have
+a normal and clear lung
+
+272
+00:18:07,050 --> 00:18:11,650
+exam or multiple abnormalities
+on pulmonary exam,
+
+273
+00:18:11,650 --> 00:18:14,650
+such as dullness or
+hyperresonance to percussion,
+
+274
+00:18:14,930 --> 00:18:16,750
+diminished breath sounds,
+
+275
+00:18:16,750 --> 00:18:18,990
+bronchi, again, nonspecific.
+
+276
+00:18:19,090 --> 00:18:23,630
+For extra pulmonary TB,
+the physical exam will
+
+277
+00:18:23,630 --> 00:18:27,190
+depend on the patient's
+initial complaint and
+
+278
+00:18:27,190 --> 00:18:30,490
+what's affected. They
+have renal TB, they may
+
+279
+00:18:30,490 --> 00:18:34,170
+exhibit CVA tenderness,
+they have POTS disease,
+
+280
+00:18:34,310 --> 00:18:36,870
+they may have a focal spinal
+
+281
+00:18:36,870 --> 00:18:42,010
+pain or spinal deformities.
+
+282
+00:18:43,430 --> 00:18:45,750
+Differential diagnosis of TB
+
+283
+00:18:45,750 --> 00:18:48,210
+includes pneumonia, malignancy,
+
+284
+00:18:48,750 --> 00:18:51,830
+non-tuberculous
+mycobacterium such as MAC,
+
+285
+00:18:52,370 --> 00:18:58,170
+fungal infection like
+histoplasmosis, sarcoidosis.
+
+286
+00:18:58,490 --> 00:19:01,830
+Anytime we treat a patient
+with pneumonia, we need
+
+287
+00:19:01,830 --> 00:19:04,890
+to keep TB in mind, and
+you will encounter these
+
+288
+00:19:04,890 --> 00:19:08,090
+considerations on hospital
+rotations next year,
+
+289
+00:19:08,110 --> 00:19:12,330
+specifically emergency and
+internal medicine. Patient
+
+290
+00:19:12,330 --> 00:19:15,210
+may come in with pneumonia.
+However, because of
+
+291
+00:19:15,210 --> 00:19:18,510
+their risk factors or a
+complicated presentation,
+
+292
+00:19:18,790 --> 00:19:22,250
+TB needs to be considered
+while making treatment
+
+293
+00:19:22,250 --> 00:19:25,870
+decisions or recommending
+follow-up imaging.
+
+294
+00:19:29,390 --> 00:19:31,730
+Let's talk about testing.
+
+295
+00:19:32,570 --> 00:19:36,450
+First, we'll discuss
+screening tests. tests.
+
+296
+00:19:37,910 --> 00:19:43,130
+Two different screening
+tests exist. The first
+
+297
+00:19:43,130 --> 00:19:48,390
+one is the skin test or
+MANT2 tuberculin skin test.
+
+298
+00:19:48,390 --> 00:19:52,770
+It requires two visits
+to a healthcare provider.
+
+299
+00:19:52,770 --> 00:19:54,430
+It could be a nurse, it
+could be a physician.
+
+300
+00:19:54,750 --> 00:19:59,050
+On the first visit, a
+PPD, protein purified
+
+301
+00:19:59,050 --> 00:20:02,170
+derivative, is
+placed intradermally.
+
+302
+00:20:02,950 --> 00:20:06,850
+On the second visit,
+48 to 72 hours
+
+303
+00:20:06,850 --> 00:20:09,650
+later, the test will be read to
+
+304
+00:20:09,650 --> 00:20:11,930
+determine whether the
+reaction occurred.
+
+305
+00:20:12,590 --> 00:20:16,810
+And reaction results
+depend upon the size,
+
+306
+00:20:16,810 --> 00:20:20,370
+and we'll talk on the
+next slide about that.
+
+307
+00:20:20,390 --> 00:20:23,710
+Positive result means that
+the person was infected
+
+308
+00:20:23,710 --> 00:20:28,270
+with TB bacteria. It does
+not mean that they have TB
+
+309
+00:20:28,270 --> 00:20:33,110
+disease. It means that more
+testing must be done to
+
+310
+00:20:33,110 --> 00:20:36,350
+determine whether this is
+latent TB or TB disease.
+
+311
+00:20:37,910 --> 00:20:41,470
+It's possible to have
+false negative results
+
+312
+00:20:41,470 --> 00:20:44,610
+and possible to have
+false positive results.
+
+313
+00:20:51,270 --> 00:20:54,830
+PPD skin test reaction
+sizes are listed here.
+
+314
+00:20:55,580 --> 00:20:58,130
+Reaction is an
+area of induration
+
+315
+00:20:58,130 --> 00:21:00,170
+around the injection site.
+
+316
+00:21:00,210 --> 00:21:02,850
+Induration is measured
+in millimeters.
+
+317
+00:21:03,190 --> 00:21:05,150
+Erythema is not measured.
+
+318
+00:21:06,760 --> 00:21:10,570
+I would bring your attention
+to the fact that the
+
+319
+00:21:10,570 --> 00:21:13,770
+low-risk person with a
+reaction size greater than
+
+320
+00:21:13,770 --> 00:21:17,570
+or equal to 15 millimeters
+should raise an alarm.
+
+321
+00:21:20,570 --> 00:21:27,190
+IGRA is another option for
+TB screening or testing.
+
+322
+00:21:27,730 --> 00:21:31,310
+It measures the response
+of T cells to possible
+
+323
+00:21:31,310 --> 00:21:35,570
+persisting antigenic signals.
+And it's a blood test.
+
+324
+00:21:35,750 --> 00:21:38,450
+It's one visit. It's more
+
+325
+00:21:38,450 --> 00:21:40,470
+specific than the skin test.
+
+326
+00:21:41,070 --> 00:21:44,410
+And it's preferred
+for patients who've
+
+327
+00:21:44,410 --> 00:21:47,930
+previously received
+the BCG vaccine.
+
+328
+00:21:49,370 --> 00:21:53,730
+And quantiferin pictured
+here is a common brand name
+
+329
+00:21:53,730 --> 00:21:56,550
+that we actually use in
+our health centers as well.
+
+330
+00:21:57,250 --> 00:21:59,430
+Here's a comparison between the
+
+331
+00:21:59,430 --> 00:22:01,310
+skin test and the blood test.
+
+332
+00:22:01,870 --> 00:22:05,370
+Prior to your third year
+rotations, you will most
+
+333
+00:22:05,370 --> 00:22:08,910
+likely receive the blood test
+at our health care center.
+
+334
+00:22:11,430 --> 00:22:14,870
+With skin test, you're
+exposing the body to the
+
+335
+00:22:14,870 --> 00:22:18,910
+protein again, which may
+cause the immune system to
+
+336
+00:22:18,910 --> 00:22:22,500
+react to the protein, giving
+a false positive result.
+
+337
+00:22:23,850 --> 00:22:29,710
+The skin test and the blood
+test help us differentiate
+
+338
+00:22:29,710 --> 00:22:34,150
+people infected with MTB
+from those uninfected.
+
+339
+00:22:34,350 --> 00:22:38,550
+However, negative reaction
+to any of these tests does
+
+340
+00:22:38,550 --> 00:22:43,130
+not exclude the diagnosis
+of TB disease or latent TB.
+
+341
+00:22:43,990 --> 00:22:48,870
+And we should always follow
+our clinical suspicion.
+
+342
+00:22:52,930 --> 00:22:55,150
+Proceeding with the diagnosis,
+
+343
+00:22:55,710 --> 00:22:59,430
+chest x-ray is the most
+common imaging modality
+
+344
+00:22:59,430 --> 00:23:02,790
+when it comes to
+diagnosing and managing TB.
+
+345
+00:23:02,990 --> 00:23:07,710
+Chest x-ray on the left
+shows right hyaline lymph
+
+346
+00:23:07,710 --> 00:23:11,410
+node enlargement with
+infiltration into the
+
+347
+00:23:11,410 --> 00:23:15,090
+surrounding lung tissue in
+a child with primary TB,
+
+348
+00:23:15,120 --> 00:23:19,630
+while the x-ray on the
+right shows the right upper
+
+349
+00:23:19,630 --> 00:23:30,050
+lobe infiltrate and a
+cavity with infiltrate is
+
+350
+00:23:30,050 --> 00:23:33,080
+a little bit bigger. This
+is a cavity here with
+
+351
+00:23:33,250 --> 00:23:38,350
+an air fluid level in a
+patient with active TB.
+
+352
+00:23:40,780 --> 00:23:44,030
+A bit more of the
+explanations are listed
+
+353
+00:23:44,030 --> 00:23:46,690
+here and we already
+had the image for
+
+354
+00:23:46,690 --> 00:23:49,050
+the millary to be
+on previous slides.
+
+355
+00:23:52,130 --> 00:23:55,970
+If pulmonary TB is
+suspected we need at least
+
+356
+00:23:55,970 --> 00:24:00,930
+three consecutive sputum
+samples collected with at
+
+357
+00:24:00,930 --> 00:24:03,670
+least one sample being
+in the early morning.
+
+358
+00:24:03,710 --> 00:24:07,030
+And these samples can be
+collected via coughing
+
+359
+00:24:07,030 --> 00:24:13,310
+if the patient is producing
+sputum or induction
+
+360
+00:24:13,310 --> 00:24:17,570
+with saline mist or
+bronchoscopy or even gastric
+
+361
+00:24:17,570 --> 00:24:21,530
+aspiration if they're
+not coughing anything up.
+
+362
+00:24:21,850 --> 00:24:24,610
+Typically, patients
+are asked to spit into
+
+363
+00:24:24,610 --> 00:24:29,590
+a cup after coughing.
+In the case of extra
+
+364
+00:24:29,590 --> 00:24:32,350
+pulmonary TB, samples
+are collected from the
+
+365
+00:24:32,350 --> 00:24:36,690
+appropriate site, for
+example, urine or CSF.
+
+366
+00:24:37,130 --> 00:24:40,350
+One of my patients in our
+centralized lip health
+
+367
+00:24:40,350 --> 00:24:45,970
+center had extra pulmonary TB
+diagnosed by thoracic lymph
+
+368
+00:24:45,970 --> 00:24:49,350
+node biopsy after a cancer
+diagnosis was suspected.
+
+369
+00:24:49,350 --> 00:24:55,610
+Well, it turned out she is
+from an endemic country,
+
+370
+00:24:55,610 --> 00:25:01,470
+and she had extrapulmonary
+TB and not a lymphoma.
+
+371
+00:25:03,890 --> 00:25:07,230
+Healthcare workers
+should always supervise
+
+372
+00:25:07,230 --> 00:25:09,510
+the patient when the
+sputum is collected,
+
+373
+00:25:09,550 --> 00:25:12,610
+since patients are
+not always successful
+
+374
+00:25:12,610 --> 00:25:14,770
+in providing an
+adequate specimen.
+
+375
+00:25:15,410 --> 00:25:18,510
+I invite you to pay
+attention to how this is done
+
+376
+00:25:18,510 --> 00:25:21,770
+in practice next year on
+doing patient rotations.
+
+377
+00:25:21,770 --> 00:25:24,970
+In my experience,
+this non-glamorous but
+
+378
+00:25:24,970 --> 00:25:28,150
+very important job is
+usually delegated to
+
+379
+00:25:28,150 --> 00:25:31,410
+nursing staff or
+respiratory therapist.
+
+380
+00:25:31,550 --> 00:25:34,250
+In the best case
+scenario, the patient
+
+381
+00:25:34,250 --> 00:25:39,070
+will get instructed
+properly, as you see
+
+382
+00:25:39,070 --> 00:25:43,990
+here on the image on
+the left. Otherwise,
+
+383
+00:25:44,250 --> 00:25:46,690
+the cup for the
+sputum collection
+
+384
+00:25:46,690 --> 00:25:48,210
+will be left in the room.
+
+385
+00:25:50,030 --> 00:25:52,450
+Again, if the patient
+is unable to provide
+
+386
+00:25:52,450 --> 00:25:54,510
+the sputum by coughing,
+it would need to
+
+387
+00:25:54,510 --> 00:25:57,190
+be induced, which is
+done by a respiratory
+
+388
+00:25:57,190 --> 00:26:00,450
+therapist, or obtained
+by bronchoscopy,
+
+389
+00:26:00,650 --> 00:26:03,970
+the procedure performed
+by the pulmonologist or
+
+390
+00:26:03,970 --> 00:26:07,770
+critical care physician,
+which is an expensive
+
+391
+00:26:07,770 --> 00:26:11,450
+invasive procedure typically
+done under anesthesia.
+
+392
+00:26:13,810 --> 00:26:16,210
+Once the sample is obtained,
+
+393
+00:26:16,330 --> 00:26:18,410
+it will be sent to
+the lab prepared.
+
+394
+00:26:20,170 --> 00:26:23,390
+AFB microscopy is a
+quick and inexpensive
+
+395
+00:26:23,390 --> 00:26:26,490
+method to examine
+the specimens.
+
+396
+00:26:26,490 --> 00:26:30,710
+Results are typically
+available within 24 hours.
+
+397
+00:26:31,680 --> 00:26:34,810
+To determine if the
+results are positive, the
+
+398
+00:26:34,810 --> 00:26:39,830
+amount of acid-fast
+bacteria is counted with
+
+399
+00:26:39,830 --> 00:26:42,270
+the greater the number
+of bacteria correlating
+
+400
+00:26:42,270 --> 00:26:45,570
+to increased infectiousness
+of the patient.
+
+401
+00:26:46,890 --> 00:26:49,870
+This method cannot
+differentiate among
+
+402
+00:26:49,870 --> 00:26:53,730
+different species of
+mycobacteria and cannot
+
+403
+00:26:53,730 --> 00:26:56,250
+determine the viability
+of the bacilli.
+
+404
+00:26:56,410 --> 00:27:01,770
+Therefore, it is not
+confirmatory for TB disease.
+
+405
+00:27:05,510 --> 00:27:09,490
+The nucleic acid
+amplification test runs
+
+406
+00:27:09,490 --> 00:27:15,710
+simultaneously with
+AFB microscopy and has
+
+407
+00:27:15,710 --> 00:27:18,980
+become a standard of
+practice worldwide.
+
+408
+00:27:20,330 --> 00:27:24,930
+It detects bacterial
+DNA in sputum samples.
+
+409
+00:27:24,930 --> 00:27:28,850
+It can be used to confirm
+positive AFB stains.
+
+410
+00:27:28,850 --> 00:27:32,450
+It's used to support
+the diagnosis of TB
+
+411
+00:27:32,450 --> 00:27:36,730
+and, again, is not a
+confirmatory test for TB.
+
+412
+00:27:39,910 --> 00:27:41,710
+Mycobacterial
+culture is the gold
+
+413
+00:27:41,710 --> 00:27:45,250
+standard for confirmation
+of TB disease.
+
+414
+00:27:46,070 --> 00:27:51,870
+Since MTB are slow
+-growing bacteria,
+
+415
+00:27:52,270 --> 00:27:54,490
+culturing takes many weeks,
+
+416
+00:27:54,490 --> 00:27:57,350
+regardless of the
+type of media used.
+
+417
+00:27:58,390 --> 00:28:01,390
+And that's how we
+confirm the diagnosis.
+
+418
+00:28:03,490 --> 00:28:09,010
+While we wait weeks, we
+cannot just discharge the
+
+419
+00:28:09,010 --> 00:28:12,030
+patient necessarily or
+wait for this result before
+
+420
+00:28:12,030 --> 00:28:19,890
+starting treatment, so we
+can and should diagnose
+
+421
+00:28:19,890 --> 00:28:23,230
+TB on the basis of clinical
+signs and symptoms.
+
+422
+00:28:26,050 --> 00:28:28,290
+Diagnose and start treatment.
+
+423
+00:28:30,350 --> 00:28:34,710
+Possible complications
+of TB are listed here
+
+424
+00:28:34,710 --> 00:28:38,050
+and you will learn about
+them in other lectures.
+
+425
+00:28:40,110 --> 00:28:45,610
+The BCG vaccine is one of
+the preventative methods
+
+426
+00:28:45,920 --> 00:28:50,450
+against TB. It is a live
+attenuated vaccine that
+
+427
+00:28:50,450 --> 00:28:53,790
+was originally developed
+from Mycobacterium vulvas.
+
+428
+00:28:54,670 --> 00:28:58,550
+BCG is used to
+prevent childhood TB
+
+429
+00:28:58,550 --> 00:29:02,290
+meningitis and
+miliary TB in endemic
+
+430
+00:29:02,650 --> 00:29:05,430
+countries. It has seen variable
+
+431
+00:29:05,430 --> 00:29:08,610
+effectiveness against
+adult pulmonary TB.
+
+432
+00:29:08,830 --> 00:29:11,070
+Therefore, it is
+not recommended for
+
+433
+00:29:11,070 --> 00:29:13,390
+general use in
+the United States.
+
+434
+00:29:15,210 --> 00:29:20,270
+We need to learn about it
+because if a patient has
+
+435
+00:29:20,270 --> 00:29:23,110
+been vaccinated with the
+BCG in the past, it's
+
+436
+00:29:23,110 --> 00:29:28,230
+possible that their skin
+test will be false positive.
+
+437
+00:29:28,510 --> 00:29:29,650
+And therefore,
+
+438
+00:29:29,950 --> 00:29:32,470
+the use of the TB blood test is
+
+439
+00:29:32,470 --> 00:29:35,110
+preferred if that
+history is known.
+
+440
+00:29:36,690 --> 00:29:39,230
+TB requires
+airborne precautions
+
+441
+00:29:39,230 --> 00:29:41,430
+due to the method
+of transmission.
+
+442
+00:29:42,350 --> 00:29:45,590
+typically patients will
+be placed in a single
+
+443
+00:29:45,590 --> 00:29:49,190
+occupancy negative
+pressure isolation room and
+
+444
+00:29:49,190 --> 00:29:51,970
+when health care
+personnel enters the room
+
+445
+00:29:52,370 --> 00:29:56,470
+n95 or higher level
+respirators should be worn
+
+446
+00:29:58,490 --> 00:30:02,150
+if patients with active
+tb are transported
+
+447
+00:30:02,150 --> 00:30:04,820
+moved throughout the facility
+
+448
+00:30:04,820 --> 00:30:08,070
+the patient must
+wear a surgical mask.
+
+449
+00:30:13,530 --> 00:30:16,970
+In summary, TB is a
+bacterial infection
+
+450
+00:30:16,970 --> 00:30:20,110
+caused by mycobacterium
+tuberculosis.
+
+451
+00:30:20,110 --> 00:30:23,750
+It is spread via inhalation
+of droplet particles
+
+452
+00:30:23,750 --> 00:30:26,970
+of an infected person
+and mainly affects
+
+453
+00:30:26,970 --> 00:30:29,970
+the lungs but can affect
+any part of the body.
+
+454
+00:30:30,390 --> 00:30:34,210
+Not everyone infected
+with TB bacteria becomes
+
+455
+00:30:34,210 --> 00:30:38,430
+sick. And there are two
+TB-related conditions,
+
+456
+00:30:39,450 --> 00:30:44,130
+two main TB conditions,
+
+457
+00:30:44,390 --> 00:30:48,090
+latent TB infection
+and TB disease.
+
+458
+00:30:49,030 --> 00:30:52,710
+While most patients will
+not become infectious,
+
+459
+00:30:52,710 --> 00:30:56,870
+if active TB is left
+untreated, it is deadly.
+
+460
+00:30:57,730 --> 00:31:02,590
+clinical suspicion and
+diagnostic results are important
+
+461
+00:31:02,590 --> 00:31:06,410
+when determining the
+course of treatment cannot
+
+462
+00:31:06,790 --> 00:31:11,990
+overemphasize the clinical
+suspicion and this is a review
+
+463
+00:31:11,990 --> 00:31:16,250
+of the spectrum of tb disease
+from infection to active
+
+464
+00:31:16,250 --> 00:31:20,150
+tb summarizing test results
+infectivity and preferred
+
+465
+00:31:20,150 --> 00:31:24,130
+treatment And I'm including
+this as an x-ray resource
+
+466
+00:31:24,130 --> 00:31:30,850
+because of how confusing
+latent TB versus active
+
+467
+00:31:30,850 --> 00:31:35,570
+TB has proven over the past
+several years to students.
+
+468
+00:31:42,870 --> 00:31:45,010
+Let's go over
+several questions.
+
+469
+00:31:47,450 --> 00:31:50,890
+They all are taking from CDC
+
+470
+00:31:50,890 --> 00:31:53,370
+core curriculum for clinicians.
+
+471
+00:31:53,950 --> 00:31:58,950
+And hopefully they will
+clarify a few things. Which
+
+472
+00:31:58,950 --> 00:32:01,390
+of the following groups are
+more likely to be exposed
+
+473
+00:32:01,390 --> 00:32:04,970
+to or infected with
+mycobacterium tuberculosis?
+
+474
+00:32:05,010 --> 00:32:07,330
+1. Contacts of people known or
+
+475
+00:32:07,330 --> 00:32:09,390
+presumed to have infectious TB.
+
+476
+00:32:09,520 --> 00:32:12,290
+2. People who live
+in, have lived in
+
+477
+00:32:12,290 --> 00:32:15,010
+high-risk congregate
+settings, like
+
+478
+00:32:15,010 --> 00:32:17,270
+homeless shelters,
+correctional centers.
+
+479
+00:32:17,510 --> 00:32:21,070
+3. Healthcare workers who
+serve patients with TB
+
+480
+00:32:21,070 --> 00:32:26,150
+disease, like all of us.
+And four, people born in or
+
+481
+00:32:26,150 --> 00:32:29,130
+frequently traveling to
+countries where TB disease is
+
+482
+00:32:29,130 --> 00:32:31,790
+common, including Mexico,
+the Philippines, Vietnam,
+
+483
+00:32:31,830 --> 00:32:35,750
+India, China, Haiti, and
+Guatemala, like some of us.
+
+484
+00:32:37,450 --> 00:32:41,490
+So the answer here is E, all
+
+485
+00:32:41,490 --> 00:32:43,390
+of the above are correct.
+
+486
+00:32:47,230 --> 00:32:51,030
+The second question is,
+what percentage of people in
+
+487
+00:32:51,030 --> 00:32:54,830
+the U.S. who have TB
+infection and normal immune
+
+488
+00:32:54,830 --> 00:33:00,030
+system develop TB disease
+at some point in their life?
+
+489
+00:33:00,470 --> 00:33:06,410
+And the answer is
+10%. The answer is B.
+
+490
+00:33:10,370 --> 00:33:14,150
+TB blood tests are the
+preferred method of testing
+
+491
+00:33:14,150 --> 00:33:19,330
+for homeless persons, drug
+users, people who have
+
+492
+00:33:19,330 --> 00:33:22,030
+received the BCG vaccine,
+children younger than
+
+493
+00:33:22,030 --> 00:33:26,330
+five years of age, A and
+B, or all of the above.
+
+494
+00:33:26,450 --> 00:33:31,990
+And as we discussed,
+the answer would be D,
+
+495
+00:33:31,990 --> 00:33:37,030
+homeless drug users people
+who have received the BCG
+
+496
+00:33:37,030 --> 00:33:47,130
+vaccine not the children
+question number four
+
+497
+00:33:47,130 --> 00:33:50,950
+after TB has been transmitted
+how long does it take
+
+498
+00:33:50,950 --> 00:33:54,030
+for the body's immune
+system to mount a response
+
+499
+00:33:54,030 --> 00:33:59,650
+detectable by a Tuberculine
+skin test or IGRA.
+
+500
+00:34:01,470 --> 00:34:05,330
+And the answer here is
+C, two to eight weeks.
+
+501
+00:34:07,250 --> 00:34:10,290
+Question number
+five, when can a TB
+
+502
+00:34:10,290 --> 00:34:13,090
+patient be considered
+non-infectious?
+
+503
+00:34:13,090 --> 00:34:15,770
+When they are on adequate
+therapy for two weeks
+
+504
+00:34:15,770 --> 00:34:18,850
+or longer, or when their
+symptoms have improved,
+
+505
+00:34:18,850 --> 00:34:21,450
+or when they have
+had three consecutive
+
+506
+00:34:21,450 --> 00:34:23,690
+negative sputum smear results.
+
+507
+00:34:25,210 --> 00:34:30,010
+collected correctly or
+when all of the above are
+
+508
+00:34:30,010 --> 00:34:33,230
+true. And the answer here
+is D, when all of the
+
+509
+00:34:33,230 --> 00:34:37,330
+above are true. They have
+to be asymptomatic or
+
+510
+00:34:37,330 --> 00:34:41,990
+improved symptoms, I should
+say, and the treatment
+
+511
+00:34:41,990 --> 00:34:48,110
+should be continued for
+two weeks or longer.
+
+512
+00:34:48,330 --> 00:34:52,910
+And the smears, the sputum
+samples, should be collected
+
+513
+00:34:52,910 --> 00:34:56,470
+properly. For example,
+a patient with active TB
+
+514
+00:34:56,470 --> 00:35:00,290
+may be mandated to stay in
+the hospital until these
+
+515
+00:35:00,290 --> 00:35:04,850
+conditions are met. I've
+seen it done in my practice.
+
+516
+00:35:05,740 --> 00:35:08,310
+Extreme measures
+can even be taken as
+
+517
+00:35:08,310 --> 00:35:10,150
+mandated by the
+Department of Health
+
+518
+00:35:10,150 --> 00:35:12,670
+because TB is a
+reportable disease.
+
+519
+00:35:13,330 --> 00:35:17,530
+I've seen security posted
+outside patient's hospital
+
+520
+00:35:17,530 --> 00:35:21,470
+room under the order of the
+Department of Health. It's
+
+521
+00:35:21,470 --> 00:35:25,290
+not always this extreme
+regarding security but if
+
+522
+00:35:25,290 --> 00:35:29,270
+the patient does not have
+a place to live where they
+
+523
+00:35:29,270 --> 00:35:33,570
+can isolate from other
+people living there or if the
+
+524
+00:35:33,570 --> 00:35:37,630
+patient is not reliable we
+wouldn't want to take a chance
+
+525
+00:35:37,630 --> 00:35:42,410
+of a patient getting on
+the subway or you know
+
+526
+00:35:43,150 --> 00:35:48,450
+otherwise exposing others and
+the last Last question is,
+
+527
+00:35:48,450 --> 00:35:51,590
+which of the following
+confirms the diagnosis of TB?
+
+528
+00:35:51,590 --> 00:35:55,930
+Is it the chest x-ray?
+Is it the smear showing A
+
+529
+00:35:55,930 --> 00:36:01,170
+of B or positive TB skin
+test or positive culture?
+
+530
+00:36:01,690 --> 00:36:05,010
+And the answer is
+D, positive culture
+
+531
+00:36:05,010 --> 00:36:08,150
+of MTB is a confirmatory test.
+
+532
+00:36:08,610 --> 00:36:13,010
+Again, there are plenty
+more questions and
+
+533
+00:36:13,010 --> 00:36:19,250
+explanations that are
+available at the CDC website.
+
+534
+00:36:22,150 --> 00:36:25,530
+Specific recommendations for
+TB screening for healthcare
+
+535
+00:36:25,530 --> 00:36:30,350
+personnel, which is very
+important to all of us,
+
+536
+00:36:30,470 --> 00:36:33,060
+are beyond the scope
+of this lecture.
+
+537
+00:36:33,060 --> 00:36:35,490
+However, you are
+welcome to reach out to
+
+538
+00:36:35,490 --> 00:36:37,790
+me if you have any
+personal questions.
+
+539
+00:36:39,690 --> 00:36:42,630
+This will become important
+for many of you prior
+
+540
+00:36:42,630 --> 00:36:45,270
+to clinical rotations.
+These questions come up
+
+541
+00:36:45,270 --> 00:36:50,430
+every year for us, what
+to do if I received BCG,
+
+542
+00:36:50,670 --> 00:36:54,750
+and now I have a positive
+screening test, etc.
+
+543
+00:36:56,830 --> 00:36:59,590
+As always, I appreciate
+your feedback, and
+
+544
+00:36:59,590 --> 00:37:02,330
+again, please reach
+out with any questions.
