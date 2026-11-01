@@ -2502,5 +2502,21 @@ window.receiveLectureIndex([
     "tags": "Lecture #132",
     "path": "content/json/cv132.file.js",
     "readingTime": 15
+  },
+  {
+    "id": "cv137",
+    "title": "Lecture #137: Microbiology: Opportunistic Mycoses",
+    "module": "Microbiology",
+    "tags": "Lecture #137",
+    "path": "content/json/cv137.file.js",
+    "readingTime": 11
+  },
+  {
+    "id": "cv139",
+    "title": "Lecture #139: Hospital Acquired (Nosocomial) Pneumonia",
+    "module": "Clinical",
+    "tags": "Lecture #139",
+    "path": "content/json/cv139.file.js",
+    "readingTime": 10
   }
 ]);
