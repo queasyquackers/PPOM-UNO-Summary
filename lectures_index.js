@@ -2512,6 +2512,22 @@ window.receiveLectureIndex([
     "readingTime": 14
   },
   {
+    "id": "cv134",
+    "title": "Lecture #134: Osteopathic Considerations in Pulmonary Disease, Part 2",
+    "module": "OMM",
+    "tags": "Lecture #134",
+    "path": "content/json/cv134.file.js",
+    "readingTime": 15
+  },
+  {
+    "id": "cv135",
+    "title": "Lecture #135: OMM Lab #42 Prep - Cardiopulmonary Osteopathic Applications: Popliteal Fossa Release, Thoracic Pumps, Rib FPR, Posterior Thoracic Counterstrain",
+    "module": "OMM",
+    "tags": "Lecture #135",
+    "path": "content/json/cv135.file.js",
+    "readingTime": 8
+  },
+  {
     "id": "cv137",
     "title": "Lecture #137: Microbiology: Opportunistic Mycoses",
     "module": "Microbiology",
