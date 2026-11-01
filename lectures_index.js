@@ -2430,5 +2430,45 @@ window.receiveLectureIndex([
     "tags": "Lecture #121",
     "path": "content/json/cv121.file.js",
     "readingTime": 17
+  },
+  {
+    "id": "cv122",
+    "title": "Lecture #122: Osteopathic Considerations in Obstetrics",
+    "module": "OMM",
+    "tags": "Lecture #122",
+    "path": "content/json/cv122.file.js",
+    "readingTime": 16
+  },
+  {
+    "id": "cv123",
+    "title": "Lecture #123: Osteopathic Considerations in Gynecology",
+    "module": "OMM",
+    "tags": "Lecture #123",
+    "path": "content/json/cv123.file.js",
+    "readingTime": 10
+  },
+  {
+    "id": "cv124",
+    "title": "Lecture #124: Osteopathic Considerations of Genitourinary Issues",
+    "module": "OMM",
+    "tags": "Lecture #124",
+    "path": "content/json/cv124.file.js",
+    "readingTime": 10
+  },
+  {
+    "id": "cv128",
+    "title": "Lecture #128: Pharmacological Management of Mycobacterial Infections",
+    "module": "Pharmacology",
+    "tags": "Lecture #128",
+    "path": "content/json/cv128.file.js",
+    "readingTime": 16
+  },
+  {
+    "id": "cv132",
+    "title": "Lecture #132: Pathology: Pulmonary Infectious Diseases",
+    "module": "Pathology",
+    "tags": "Lecture #132",
+    "path": "content/json/cv132.file.js",
+    "readingTime": 15
   }
 ]);
