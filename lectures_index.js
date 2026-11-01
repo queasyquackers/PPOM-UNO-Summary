@@ -2504,6 +2504,14 @@ window.receiveLectureIndex([
     "readingTime": 15
   },
   {
+    "id": "cv133",
+    "title": "Lecture #133: Osteopathic Considerations in Cardiology",
+    "module": "OMM",
+    "tags": "Lecture #133",
+    "path": "content/json/cv133.file.js",
+    "readingTime": 14
+  },
+  {
     "id": "cv137",
     "title": "Lecture #137: Microbiology: Opportunistic Mycoses",
     "module": "Microbiology",
@@ -2518,5 +2526,13 @@ window.receiveLectureIndex([
     "tags": "Lecture #139",
     "path": "content/json/cv139.file.js",
     "readingTime": 10
+  },
+  {
+    "id": "cv141",
+    "title": "Lecture #141: Upper Respiratory Infections and Community Acquired Pneumonia",
+    "module": "Clinical",
+    "tags": "Lecture #141",
+    "path": "content/json/cv141.file.js",
+    "readingTime": 15
   }
 ]);
