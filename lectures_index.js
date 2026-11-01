@@ -2358,5 +2358,77 @@ window.receiveLectureIndex([
     "tags": "Lecture #112",
     "path": "content/json/cv112.file.js",
     "readingTime": 17
+  },
+  {
+    "id": "cv113",
+    "title": "Lecture #113: Osteopathic Considerations in the Hospitalized Patient",
+    "module": "OMM",
+    "tags": "Lecture #113",
+    "path": "content/json/cv113.file.js",
+    "readingTime": 15
+  },
+  {
+    "id": "cv114",
+    "title": "Lecture #114: Osteopathic Considerations in Pulmonary Disease, Part 1",
+    "module": "OMM",
+    "tags": "Lecture #114",
+    "path": "content/json/cv114.file.js",
+    "readingTime": 12
+  },
+  {
+    "id": "cv115",
+    "title": "Lecture #115: OMM Lab #40 Prep - Pulmonary Osteopathic Applications Part 1: Rib Raising and BLT, MFR for Sternum and Scapulae, Seated Doming of the Diaphragm",
+    "module": "OMM",
+    "tags": "Lecture #115",
+    "path": "content/json/cv115.file.js",
+    "readingTime": 7
+  },
+  {
+    "id": "cv116",
+    "title": "Lecture #116: Pathology: Restrictive Lung Diseases - Idiopathic Pulmonary Fibrosis and Other Pulmonary Fibrosing Diseases",
+    "module": "Pathology",
+    "tags": "Lecture #116",
+    "path": "content/json/cv116.file.js",
+    "readingTime": 11
+  },
+  {
+    "id": "cv117",
+    "title": "Lecture #117: Restrictive Lung Diseases: Sarcoidosis and Miscellaneous Interstitial Lung Disorders",
+    "module": "Pathology",
+    "tags": "Lecture #117",
+    "path": "content/json/cv117.file.js",
+    "readingTime": 10
+  },
+  {
+    "id": "cv118",
+    "title": "Lecture #118: Occupational Lung Diseases: Pneumoconioses",
+    "module": "Pathology",
+    "tags": "Lecture #118",
+    "path": "content/json/cv118.file.js",
+    "readingTime": 16
+  },
+  {
+    "id": "cv119",
+    "title": "Lecture #119: Clinical: Obstructive and Restrictive Lung Diseases",
+    "module": "Clinical",
+    "tags": "Lecture #119",
+    "path": "content/json/cv119.file.js",
+    "readingTime": 16
+  },
+  {
+    "id": "cv120",
+    "title": "Lecture #120: Clinical Evaluation of Pulmonary Function Testing",
+    "module": "Clinical",
+    "tags": "Lecture #120",
+    "path": "content/json/cv120.file.js",
+    "readingTime": 13
+  },
+  {
+    "id": "cv121",
+    "title": "Lecture #121: Clinical: Asthma Findings and Diagnosis",
+    "module": "Clinical",
+    "tags": "Lecture #121",
+    "path": "content/json/cv121.file.js",
+    "readingTime": 17
   }
 ]);
