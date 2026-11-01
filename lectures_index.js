@@ -2456,6 +2456,14 @@ window.receiveLectureIndex([
     "readingTime": 10
   },
   {
+    "id": "cv127",
+    "title": "Lecture #127: Tuberculosis in the 21st Century: Epidemiology, Pathophysiology, Risk Assessment",
+    "module": "Clinical",
+    "tags": "Lecture #127",
+    "path": "content/json/cv127.file.js",
+    "readingTime": 13
+  },
+  {
     "id": "cv128",
     "title": "Lecture #128: Pharmacological Management of Mycobacterial Infections",
     "module": "Pharmacology",
