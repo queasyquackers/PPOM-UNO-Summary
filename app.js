@@ -38,6 +38,8 @@ const BLOCKS = {
   // CPR Block 2 (semester 2, weeks 7-11): the same cv number space continues,
   // so cv55 and up belong here rather than to Block 1.
   cpr2:   { name: "CPR Block 2", shortName: "CPR 2", range: "CV55 – CV112", color: "#1F5E8C", darkColor: "#6FA8D6", start: 55, end: 112, number: 6 },
+  // CPR Block 3 (semester 2, weeks 13-17): same cv number space, cv113 and up.
+  cpr3:   { name: "CPR Block 3", shortName: "CPR 3", range: "CV113 – CV163", color: "#8A5A12", darkColor: "#DDA95F", start: 113, end: 163, number: 7 },
 };
 
 // Roman numeral for each block, indexed by block key. Matches the curriculum
@@ -50,6 +52,7 @@ const BLOCK_NUMERALS = {
   heme:  "IV",
   cardio: "V",
   cpr2:   "VI",
+  cpr3:   "VII",
 };
 
 // Strip the "Lecture #XYZ:" prefix from titles before display.
@@ -68,6 +71,7 @@ function getBlockInfo(id) {
   // number can stay 1–41 without clashing with Neuro's l1–l41. Match them first.
   if (/^cv/i.test(id)) {
     const cvNum = parseInt((id.match(/\d+/) || ["0"])[0], 10);
+    if (cvNum >= BLOCKS.cpr3.start) return { ...BLOCKS.cpr3, key: "cpr3" };
     if (cvNum >= BLOCKS.cpr2.start) return { ...BLOCKS.cpr2, key: "cpr2" };
     return { ...BLOCKS.cardio, key: "cardio" };
   }
@@ -3154,8 +3158,8 @@ function renderMarkdown(html) {
     '<span class="inline-flex items-center px-2 py-0.5 rounded text-xs font-medium bg-claude-accent/10 dark:bg-dark-accent/10 text-claude-accent dark:text-dark-accent mx-1 align-baseline cursor-default select-none" title="From Slide $1">Slide $1</span>'
   );
 
-  // Cross-Links: "[[L102]]" -> Clickable Link
-  html = html.replace(/\[\[(L\d+)\]\]/gi, function (match, lectureId) {
+  // Cross-Links: "[[L102]]" or "[[CV112]]" -> Clickable Link
+  html = html.replace(/\[\[((?:L|CV)\d+)\]\]/gi, function (match, lectureId) {
     const id = lectureId.toLowerCase(); // Ensure lowercase matching if your IDs are case-sensitive
     return `<button onclick="selectLecture('${id}'); return false;" class="text-claude-accent dark:text-dark-accent hover:underline font-bold transition-colors inline-flex items-center gap-0.5"><svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"/></svg>${lectureId}</button>`;
   });
