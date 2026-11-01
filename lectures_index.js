@@ -2480,6 +2480,14 @@ window.receiveLectureIndex([
     "readingTime": 16
   },
   {
+    "id": "cv131",
+    "title": "Lecture #131: Microbiology: Bacterial Respiratory Pathogens II",
+    "module": "Microbiology",
+    "tags": "Lecture #131",
+    "path": "content/json/cv131.file.js",
+    "readingTime": 17
+  },
+  {
     "id": "cv132",
     "title": "Lecture #132: Pathology: Pulmonary Infectious Diseases",
     "module": "Pathology",
