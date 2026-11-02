@@ -2550,5 +2550,13 @@ window.receiveLectureIndex([
     "tags": "Lecture #141",
     "path": "content/json/cv141.file.js",
     "readingTime": 15
+  },
+  {
+    "id": "cv142",
+    "title": "Lecture #142: Pathology of Pulmonary and Pleural Neoplasms",
+    "module": "Pathology",
+    "tags": "Lecture #142",
+    "path": "content/json/cv142.file.js",
+    "readingTime": 14
   }
 ]);
