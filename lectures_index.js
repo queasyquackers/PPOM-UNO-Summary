@@ -2358,5 +2358,205 @@ window.receiveLectureIndex([
     "tags": "Lecture #112",
     "path": "content/json/cv112.file.js",
     "readingTime": 17
+  },
+  {
+    "id": "cv113",
+    "title": "Lecture #113: Osteopathic Considerations in the Hospitalized Patient",
+    "module": "OMM",
+    "tags": "Lecture #113",
+    "path": "content/json/cv113.file.js",
+    "readingTime": 15
+  },
+  {
+    "id": "cv114",
+    "title": "Lecture #114: Osteopathic Considerations in Pulmonary Disease, Part 1",
+    "module": "OMM",
+    "tags": "Lecture #114",
+    "path": "content/json/cv114.file.js",
+    "readingTime": 12
+  },
+  {
+    "id": "cv115",
+    "title": "Lecture #115: OMM Lab #40 Prep - Pulmonary Osteopathic Applications Part 1: Rib Raising and BLT, MFR for Sternum and Scapulae, Seated Doming of the Diaphragm",
+    "module": "OMM",
+    "tags": "Lecture #115",
+    "path": "content/json/cv115.file.js",
+    "readingTime": 7
+  },
+  {
+    "id": "cv116",
+    "title": "Lecture #116: Pathology: Restrictive Lung Diseases - Idiopathic Pulmonary Fibrosis and Other Pulmonary Fibrosing Diseases",
+    "module": "Pathology",
+    "tags": "Lecture #116",
+    "path": "content/json/cv116.file.js",
+    "readingTime": 11
+  },
+  {
+    "id": "cv117",
+    "title": "Lecture #117: Restrictive Lung Diseases: Sarcoidosis and Miscellaneous Interstitial Lung Disorders",
+    "module": "Pathology",
+    "tags": "Lecture #117",
+    "path": "content/json/cv117.file.js",
+    "readingTime": 10
+  },
+  {
+    "id": "cv118",
+    "title": "Lecture #118: Occupational Lung Diseases: Pneumoconioses",
+    "module": "Pathology",
+    "tags": "Lecture #118",
+    "path": "content/json/cv118.file.js",
+    "readingTime": 16
+  },
+  {
+    "id": "cv119",
+    "title": "Lecture #119: Clinical: Obstructive and Restrictive Lung Diseases",
+    "module": "Clinical",
+    "tags": "Lecture #119",
+    "path": "content/json/cv119.file.js",
+    "readingTime": 16
+  },
+  {
+    "id": "cv120",
+    "title": "Lecture #120: Clinical Evaluation of Pulmonary Function Testing",
+    "module": "Clinical",
+    "tags": "Lecture #120",
+    "path": "content/json/cv120.file.js",
+    "readingTime": 13
+  },
+  {
+    "id": "cv121",
+    "title": "Lecture #121: Clinical: Asthma Findings and Diagnosis",
+    "module": "Clinical",
+    "tags": "Lecture #121",
+    "path": "content/json/cv121.file.js",
+    "readingTime": 17
+  },
+  {
+    "id": "cv122",
+    "title": "Lecture #122: Osteopathic Considerations in Obstetrics",
+    "module": "OMM",
+    "tags": "Lecture #122",
+    "path": "content/json/cv122.file.js",
+    "readingTime": 16
+  },
+  {
+    "id": "cv123",
+    "title": "Lecture #123: Osteopathic Considerations in Gynecology",
+    "module": "OMM",
+    "tags": "Lecture #123",
+    "path": "content/json/cv123.file.js",
+    "readingTime": 10
+  },
+  {
+    "id": "cv124",
+    "title": "Lecture #124: Osteopathic Considerations of Genitourinary Issues",
+    "module": "OMM",
+    "tags": "Lecture #124",
+    "path": "content/json/cv124.file.js",
+    "readingTime": 10
+  },
+  {
+    "id": "cv126",
+    "title": "Lecture #126: Arterial Blood Gas Interpretation and Management of Acute Respiratory Distress Syndrome",
+    "module": "Clinical",
+    "tags": "Lecture #126",
+    "path": "content/json/cv126.file.js",
+    "readingTime": 17
+  },
+  {
+    "id": "cv127",
+    "title": "Lecture #127: Tuberculosis in the 21st Century: Epidemiology, Pathophysiology, Risk Assessment",
+    "module": "Clinical",
+    "tags": "Lecture #127",
+    "path": "content/json/cv127.file.js",
+    "readingTime": 13
+  },
+  {
+    "id": "cv128",
+    "title": "Lecture #128: Pharmacological Management of Mycobacterial Infections",
+    "module": "Pharmacology",
+    "tags": "Lecture #128",
+    "path": "content/json/cv128.file.js",
+    "readingTime": 16
+  },
+  {
+    "id": "cv130",
+    "title": "Lecture #130: Microbiology: Bacterial Respiratory Pathogens I",
+    "module": "Microbiology",
+    "tags": "Lecture #130",
+    "path": "content/json/cv130.file.js",
+    "readingTime": 17
+  },
+  {
+    "id": "cv131",
+    "title": "Lecture #131: Microbiology: Bacterial Respiratory Pathogens II",
+    "module": "Microbiology",
+    "tags": "Lecture #131",
+    "path": "content/json/cv131.file.js",
+    "readingTime": 17
+  },
+  {
+    "id": "cv132",
+    "title": "Lecture #132: Pathology: Pulmonary Infectious Diseases",
+    "module": "Pathology",
+    "tags": "Lecture #132",
+    "path": "content/json/cv132.file.js",
+    "readingTime": 15
+  },
+  {
+    "id": "cv133",
+    "title": "Lecture #133: Osteopathic Considerations in Cardiology",
+    "module": "OMM",
+    "tags": "Lecture #133",
+    "path": "content/json/cv133.file.js",
+    "readingTime": 14
+  },
+  {
+    "id": "cv134",
+    "title": "Lecture #134: Osteopathic Considerations in Pulmonary Disease, Part 2",
+    "module": "OMM",
+    "tags": "Lecture #134",
+    "path": "content/json/cv134.file.js",
+    "readingTime": 15
+  },
+  {
+    "id": "cv135",
+    "title": "Lecture #135: OMM Lab #42 Prep - Cardiopulmonary Osteopathic Applications: Popliteal Fossa Release, Thoracic Pumps, Rib FPR, Posterior Thoracic Counterstrain",
+    "module": "OMM",
+    "tags": "Lecture #135",
+    "path": "content/json/cv135.file.js",
+    "readingTime": 8
+  },
+  {
+    "id": "cv137",
+    "title": "Lecture #137: Microbiology: Opportunistic Mycoses",
+    "module": "Microbiology",
+    "tags": "Lecture #137",
+    "path": "content/json/cv137.file.js",
+    "readingTime": 11
+  },
+  {
+    "id": "cv139",
+    "title": "Lecture #139: Hospital Acquired (Nosocomial) Pneumonia",
+    "module": "Clinical",
+    "tags": "Lecture #139",
+    "path": "content/json/cv139.file.js",
+    "readingTime": 10
+  },
+  {
+    "id": "cv141",
+    "title": "Lecture #141: Upper Respiratory Infections and Community Acquired Pneumonia",
+    "module": "Clinical",
+    "tags": "Lecture #141",
+    "path": "content/json/cv141.file.js",
+    "readingTime": 15
+  },
+  {
+    "id": "cv142",
+    "title": "Lecture #142: Pathology of Pulmonary and Pleural Neoplasms",
+    "module": "Pathology",
+    "tags": "Lecture #142",
+    "path": "content/json/cv142.file.js",
+    "readingTime": 14
   }
 ]);

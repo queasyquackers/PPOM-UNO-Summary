@@ -1,0 +1,2281 @@
+1
+00:00:00,630 --> 00:00:02,810
+Hi, everyone. My name
+is Aisha. I'm one of the
+
+2
+00:00:02,810 --> 00:00:05,010
+academic medicine scholars.
+I'll be presenting
+
+3
+00:00:05,010 --> 00:00:08,110
+on hospital-acquired or
+nosocomial pneumonia.
+
+4
+00:00:08,150 --> 00:00:10,450
+I'd like to thank Dr.
+Murad for giving me
+
+5
+00:00:10,450 --> 00:00:12,570
+this opportunity to
+present on this topic,
+
+6
+00:00:12,570 --> 00:00:14,830
+and I'd also like to
+thank former scholars
+
+7
+00:00:14,830 --> 00:00:17,030
+whose slides were
+modified for this lecture.
+
+8
+00:00:17,290 --> 00:00:20,530
+For the session objectives,
+we'll compare hospital
+
+9
+00:00:20,530 --> 00:00:23,290
+-acquired pneumonia and
+ventilator-acquired pneumonia.
+
+10
+00:00:23,290 --> 00:00:25,210
+I'll explain to you
+the role of risk
+
+11
+00:00:25,210 --> 00:00:27,170
+factors in different
+types of pneumonia.
+
+12
+00:00:27,350 --> 00:00:29,870
+I'll illustrate the risk
+factors for multidrug
+
+13
+00:00:29,870 --> 00:00:33,050
+resistance, formulate a plan
+to decrease the incidence
+
+14
+00:00:33,050 --> 00:00:35,590
+of nosocomial pneumonia,
+and finally, we'll
+
+15
+00:00:35,590 --> 00:00:37,550
+learn to implement and
+develop an algorithm for
+
+16
+00:00:37,550 --> 00:00:39,950
+management of HAP based
+on clinical presentation.
+
+17
+00:00:41,960 --> 00:00:43,750
+So why is it important to know
+
+18
+00:00:43,750 --> 00:00:45,250
+about nosocomial pneumonia?
+
+19
+00:00:45,250 --> 00:00:48,090
+It's because it's among
+the most common hospital
+
+20
+00:00:48,090 --> 00:00:51,550
+-acquired infections. It
+prolongs hospital stay
+
+21
+00:00:51,550 --> 00:00:56,630
+to up to 13.1 days, and
+it is associated with
+
+22
+00:00:56,630 --> 00:01:00,190
+an excess cost of $1.40
+,000 per patient. So it's
+
+23
+00:01:00,190 --> 00:01:02,590
+expensive for both
+patient and the hospital.
+
+24
+00:01:03,290 --> 00:01:06,510
+Moving on to classifications
+of pneumonia.
+
+25
+00:01:06,570 --> 00:01:08,010
+So what is pneumonia?
+
+26
+00:01:08,010 --> 00:01:10,330
+In basic terms, it's
+an infection of the
+
+27
+00:01:10,330 --> 00:01:12,370
+lung parenchyma. We
+can break it down
+
+28
+00:01:12,370 --> 00:01:14,790
+by site of acquisition
+or by ideology.
+
+29
+00:01:15,140 --> 00:01:17,970
+By site of acquisition, there
+are two types of pneumonia.
+
+30
+00:01:17,970 --> 00:01:20,870
+community acquired pneumonia,
+and hospital acquired
+
+31
+00:01:20,870 --> 00:01:23,850
+pneumonia. Under hospital
+acquired pneumonia, there
+
+32
+00:01:23,850 --> 00:01:27,050
+is NVHAP, non-ventilator
+associated pneumonia, or
+
+33
+00:01:27,050 --> 00:01:29,930
+there is VAP, which is
+ventilator associated pneumonia.
+
+34
+00:01:30,270 --> 00:01:33,090
+By etiology, there is
+aspiration pneumonia,
+
+35
+00:01:33,090 --> 00:01:35,510
+chemical pneumonia,
+and atypical pneumonia.
+
+36
+00:01:35,510 --> 00:01:37,590
+For the purposes of
+this lecture, we'll be
+
+37
+00:01:37,590 --> 00:01:40,490
+focusing only on the
+boxes that are in blue.
+
+38
+00:01:42,110 --> 00:01:45,690
+Starting off with some
+basic definitions here, it's
+
+39
+00:01:45,690 --> 00:01:48,530
+important to know the
+durations of this infection.
+
+40
+00:01:48,530 --> 00:01:52,110
+Hospital acquired pneumonia
+or HAP is acquired
+
+41
+00:01:52,110 --> 00:01:55,450
+48 hours or more after
+admission to the hospital.
+
+42
+00:01:55,850 --> 00:01:59,750
+Ventilator acquired associated
+pneumonia is a type of
+
+43
+00:01:59,750 --> 00:02:04,550
+HAP acquired 48 hours or
+more after intubation on
+
+44
+00:02:04,550 --> 00:02:08,810
+mechanical ventilator or
+48 hours or more following
+
+45
+00:02:08,810 --> 00:02:13,530
+extubation. Non-ventilator
+associated pneumonia or NVHAP is
+
+46
+00:02:13,530 --> 00:02:18,010
+also a type of HAP acquired
+48 hours or more in
+
+47
+00:02:18,010 --> 00:02:21,950
+hospitalized patients who are
+not on mechanical ventilation
+
+48
+00:02:21,950 --> 00:02:25,510
+nor underwent extubation
+before pneumonia developed.
+
+49
+00:02:26,770 --> 00:02:29,070
+There's community
+-acquired pneumonia,
+
+50
+00:02:29,230 --> 00:02:32,010
+which is pneumonia acquired
+outside of the hospital.
+
+51
+00:02:32,010 --> 00:02:33,850
+I also wanted to
+make note of an
+
+52
+00:02:33,850 --> 00:02:36,070
+outdated term that
+you guys might hear,
+
+53
+00:02:36,110 --> 00:02:37,610
+healthcare-associated pneumonia
+
+54
+00:02:37,610 --> 00:02:39,770
+acquired in
+healthcare facilities,
+
+55
+00:02:39,850 --> 00:02:42,510
+for example, nursing
+homes, dialysis
+
+56
+00:02:42,510 --> 00:02:45,010
+centers, or after
+recent hospitalization.
+
+57
+00:02:45,710 --> 00:02:48,470
+These are definitions
+by etiology.
+
+58
+00:02:48,690 --> 00:02:51,370
+Aspiration pneumonia is
+acquired from entry of
+
+59
+00:02:51,370 --> 00:02:54,710
+gastric or bacteria
+containing oropharyngeal fluid
+
+60
+00:02:54,710 --> 00:02:57,730
+into the lower airway.
+Chemical pneumonia is
+
+61
+00:02:57,730 --> 00:03:00,810
+aspiration of substances
+such as gastric fluid that
+
+62
+00:03:00,810 --> 00:03:03,070
+cause an inflammatory
+reaction in the lower
+
+63
+00:03:03,070 --> 00:03:06,830
+airways. This is independent
+of bacterial infection.
+
+64
+00:03:07,470 --> 00:03:10,750
+atypical pneumonia is
+pneumonia caused by atypical
+
+65
+00:03:10,750 --> 00:03:15,330
+pathogens so here is our
+first case a 67 year old male
+
+66
+00:03:15,330 --> 00:03:18,210
+with a history of asthma
+presented to the ed with labored
+
+67
+00:03:18,210 --> 00:03:21,470
+breathing and worsening
+respiratory distress on
+
+68
+00:03:21,470 --> 00:03:24,450
+physical exam there was decreased
+breath sounds bilaterally
+
+69
+00:03:24,450 --> 00:03:27,810
+the patient was intubated
+and mechanically ventilated
+
+70
+00:03:27,810 --> 00:03:32,650
+after 72 hours he developed
+a fever of 101.5. Lab
+
+71
+00:03:32,650 --> 00:03:35,750
+results revealed a white blood
+cell count of 20,000 with
+
+72
+00:03:35,750 --> 00:03:39,430
+80% neutrophil. A chest
+x-ray and CT images shows
+
+73
+00:03:39,430 --> 00:03:43,350
+bilateral pulmonary infiltrates.
+Based on this clinical or
+
+74
+00:03:43,350 --> 00:03:46,690
+case detail, which type of
+pneumonia is most likely?
+
+75
+00:03:47,210 --> 00:03:49,470
+I'll give you guys a
+minute to think about it.
+
+76
+00:03:52,730 --> 00:03:55,250
+So the answer is ventilator
+
+77
+00:03:55,250 --> 00:03:57,190
+-associated pneumonia or VAP.
+
+78
+00:03:57,470 --> 00:04:01,090
+So here's the explanation.
+It cannot be community
+
+79
+00:04:01,090 --> 00:04:03,930
+-acquired pneumonia
+because of the patient's
+
+80
+00:04:03,930 --> 00:04:06,950
+recent hospitalization and
+mechanical ventilation.
+
+81
+00:04:06,950 --> 00:04:09,910
+It cannot be aspiration
+pneumonia because
+
+82
+00:04:09,910 --> 00:04:12,870
+of the patient's lack of
+aspiration risk factors
+
+83
+00:04:12,870 --> 00:04:15,810
+such as impaired
+swallowing, recent vomiting.
+
+84
+00:04:16,190 --> 00:04:18,990
+It cannot be healthcare
+-associated pneumonia because
+
+85
+00:04:18,990 --> 00:04:22,870
+it's an outdated term. It
+also cannot be viral pneumonia
+
+86
+00:04:22,870 --> 00:04:25,990
+because the patient had
+neutrophilia, meaning an
+
+87
+00:04:25,990 --> 00:04:29,510
+increase in neutrophil
+counts. This is unusual for
+
+88
+00:04:29,510 --> 00:04:33,450
+viral pneumonia, which usually
+does not show a significant
+
+89
+00:04:33,780 --> 00:04:35,730
+leukocytosis, meaning an
+increase in white blood
+
+90
+00:04:35,730 --> 00:04:39,850
+cell count. And even if
+it does, it will show an
+
+91
+00:04:39,850 --> 00:04:43,310
+increase in lymphocyte, not
+an increase in neutrophil.
+
+92
+00:04:44,450 --> 00:04:47,130
+So it's ventilator
+-associated pneumonia
+
+93
+00:04:47,130 --> 00:04:50,430
+because the patient was
+mechanically ventilated
+
+94
+00:04:50,430 --> 00:04:55,390
+for 72 hours and they
+also show signs of
+
+95
+00:04:55,390 --> 00:04:59,490
+pneumonia as evidenced in
+the clinical presentation
+
+96
+00:04:59,490 --> 00:05:01,990
+and also in the
+radiographic findings.
+
+97
+00:05:03,360 --> 00:05:06,470
+Moving on to the
+pathogenesis and risk factors
+
+98
+00:05:06,470 --> 00:05:09,230
+of HAP. The primary
+route of infection is
+
+99
+00:05:09,230 --> 00:05:12,050
+aspiration of microorganisms
+from the oropharyngeal
+
+100
+00:05:12,050 --> 00:05:14,690
+tract into the lower
+respiratory tract. The
+
+101
+00:05:14,690 --> 00:05:17,570
+most significant risk
+factor here is intubation.
+
+102
+00:05:17,730 --> 00:05:21,130
+In particular for VAP,
+endotracheal intubation
+
+103
+00:05:21,130 --> 00:05:24,230
+is a risk factor. This
+is because it facilitates
+
+104
+00:05:24,230 --> 00:05:26,990
+aspiration of
+microorganisms, it could
+
+105
+00:05:26,990 --> 00:05:29,890
+allow the formation of
+biofilms, and it could
+
+106
+00:05:29,890 --> 00:05:32,690
+also allow contamination
+during the procedure.
+
+107
+00:05:33,610 --> 00:05:36,790
+Here are some additional
+risk factors for HAP and
+
+108
+00:05:36,790 --> 00:05:39,830
+VAP. It's important to
+get an idea of these risk
+
+109
+00:05:39,830 --> 00:05:42,570
+factors. I categorized them
+so it's easier for you to
+
+110
+00:05:42,570 --> 00:05:46,450
+remember. The first one
+is impaired host defense.
+
+111
+00:05:46,750 --> 00:05:50,250
+For example, in older
+age, in those who are
+
+112
+00:05:50,370 --> 00:05:52,250
+immunocompromised from
+the use of certain
+
+113
+00:05:52,250 --> 00:05:55,630
+medications like
+glucocorticoids, from prolonged
+
+114
+00:05:55,630 --> 00:05:59,690
+malnutrition, or first
+from chronic diseases.
+
+115
+00:06:00,210 --> 00:06:04,690
+Increased aspiration is
+also a problem. This can be
+
+116
+00:06:04,690 --> 00:06:07,730
+seen in sedated patients, in
+patients who are paralyzed,
+
+117
+00:06:07,730 --> 00:06:11,550
+or have reduced consciousness.
+It is also an issue
+
+118
+00:06:11,550 --> 00:06:14,630
+in opioid use disorders
+and alcohol use disorders.
+
+119
+00:06:14,930 --> 00:06:19,030
+Risk factors related to
+inoculation of microorganisms
+
+120
+00:06:19,030 --> 00:06:22,330
+include contaminated
+hospital equipment, poor
+
+121
+00:06:22,330 --> 00:06:26,230
+oral hygiene, or increased
+gastric pH from the
+
+122
+00:06:26,230 --> 00:06:31,370
+prolonged use of PPIs, which
+allows for increased gastric
+
+123
+00:06:31,370 --> 00:06:34,850
+bacterial growth, and
+then it can be aspirated.
+
+124
+00:06:35,710 --> 00:06:39,850
+prolonged antibiotic use
+is a problem and is a big
+
+125
+00:06:39,850 --> 00:06:43,470
+risk factor IV antibiotic
+use within 90 days prior
+
+126
+00:06:43,470 --> 00:06:48,310
+to pneumonia symptoms
+increases the risk number of
+
+127
+00:06:48,310 --> 00:06:51,090
+central venous lines
+increased surgeries and
+
+128
+00:06:51,090 --> 00:06:56,830
+hospitalizations also increase
+risk of happen vap okay now
+
+129
+00:06:56,830 --> 00:06:59,250
+we're going to be talking
+about aspiration pneumonia
+
+130
+00:06:59,250 --> 00:07:02,650
+if you remember from the
+pathogenesis slide aspiration
+
+131
+00:07:02,650 --> 00:07:05,650
+is one of the ways that
+happen VAP can develop.
+
+132
+00:07:05,990 --> 00:07:09,010
+So although aspiration
+pneumonia does not
+
+133
+00:07:09,010 --> 00:07:12,210
+always fall under HAP,
+it is very much related.
+
+134
+00:07:13,230 --> 00:07:16,390
+Aspiration pneumonia
+occurs from aspiration of
+
+135
+00:07:16,390 --> 00:07:19,810
+food, saliva, gastric
+content into the airways.
+
+136
+00:07:19,810 --> 00:07:22,490
+It commonly occurs
+after instrumentation of
+
+137
+00:07:22,490 --> 00:07:25,090
+the upper airways or
+esophagus, for example,
+
+138
+00:07:25,290 --> 00:07:29,390
+from upper GI endoscopy or
+from vomiting and regurgitation
+
+139
+00:07:29,390 --> 00:07:32,210
+of gastric contents
+here I have a picture of
+
+140
+00:07:32,210 --> 00:07:35,340
+the lungs showing that the
+right main bronchus is steeper
+
+141
+00:07:35,340 --> 00:07:38,570
+than the left main bronchus
+and this is the reason
+
+142
+00:07:38,570 --> 00:07:41,870
+why aspiration is more
+likely to occur on the right
+
+143
+00:07:42,330 --> 00:07:45,550
+this imaging is
+showing infiltrates
+
+144
+00:07:45,550 --> 00:07:47,990
+in the right lower
+lobe of the lungs
+
+145
+00:07:49,310 --> 00:07:51,910
+and this box is showing
+the risk factors
+
+146
+00:07:51,910 --> 00:07:54,810
+for aspiration pneumonia
+a lot of these risk
+
+147
+00:07:54,810 --> 00:07:57,190
+factors overlap with
+risk factors of HAP
+
+148
+00:07:57,190 --> 00:08:00,290
+and VAP. For example,
+altered consciousness,
+
+149
+00:08:00,930 --> 00:08:02,330
+dysphagia,
+
+150
+00:08:02,650 --> 00:08:05,110
+neurologic disorders
+that affect the
+
+151
+00:08:05,110 --> 00:08:08,270
+swallowing mechanism,
+and also intubation.
+
+152
+00:08:08,950 --> 00:08:12,230
+This is a screenshot from
+first aid. It basically
+
+153
+00:08:12,230 --> 00:08:15,010
+summarizes what I just said
+about aspiration pneumonia.
+
+154
+00:08:15,010 --> 00:08:17,330
+You guys can read over
+it in your own time.
+
+155
+00:08:17,330 --> 00:08:21,550
+This is a slide on
+microbiology for HAP. I have a
+
+156
+00:08:21,550 --> 00:08:23,650
+star over here indicating
+that you should know this
+
+157
+00:08:23,650 --> 00:08:26,930
+material for your boards
+and for your NYIT exams.
+
+158
+00:08:27,310 --> 00:08:29,650
+The most common
+organisms that can cause
+
+159
+00:08:29,650 --> 00:08:32,650
+HAP are Staph aureus
+and Pseudomonas.
+
+160
+00:08:35,370 --> 00:08:39,530
+These are additional organisms
+that can cause HAP. It
+
+161
+00:08:39,530 --> 00:08:42,990
+includes gram-negative
+organisms such as E. coli,
+
+162
+00:08:42,990 --> 00:08:47,930
+Klebsiella, and Enterobactors.
+it is also important to
+
+163
+00:08:47,930 --> 00:08:51,850
+know your microbiology for
+aspiration pneumonia the
+
+164
+00:08:51,850 --> 00:08:54,970
+two most important
+organisms are Klebsiella and
+
+165
+00:08:54,970 --> 00:08:59,830
+anaerobes in order to remember
+all the anaerobes here's
+
+166
+00:08:59,830 --> 00:09:03,750
+a mnemonic which is purple
+flowers prefer blooming
+
+167
+00:09:03,750 --> 00:09:08,930
+purple for pepto streptococcus
+flowers for fusobacterium
+
+168
+00:09:08,930 --> 00:09:12,610
+prefer for prevotella and
+blooming for bacteroids
+
+169
+00:09:13,650 --> 00:09:15,890
+Now we're going to be
+looking at the clinical
+
+170
+00:09:15,890 --> 00:09:18,490
+presentation of HAP.
+These symptoms are also
+
+171
+00:09:18,490 --> 00:09:20,870
+very important for you to
+know, not only for your
+
+172
+00:09:20,870 --> 00:09:23,550
+exams, but also for
+your clinical rotations.
+
+173
+00:09:23,570 --> 00:09:26,230
+So the most important
+symptoms of HAP
+
+174
+00:09:26,230 --> 00:09:29,290
+are high-grade fever,
+productive cough,
+
+175
+00:09:29,510 --> 00:09:31,170
+mycoperylin discharge,
+
+176
+00:09:31,390 --> 00:09:34,230
+tachypnea, which means
+rapid shallow breaths,
+
+177
+00:09:34,490 --> 00:09:36,710
+dyspnea, which means
+shortness of breath,
+
+178
+00:09:36,710 --> 00:09:39,250
+and pleuritic chest
+pain, which means a sharp
+
+179
+00:09:39,250 --> 00:09:42,210
+or stabbing pain on
+coughing or sneezing.
+
+180
+00:09:43,010 --> 00:09:46,850
+So what are the signs
+of HAP you'll notice on
+
+181
+00:09:46,850 --> 00:09:50,550
+physical exam? Hypoxemia
+which means oxygen levels
+
+182
+00:09:50,550 --> 00:09:54,730
+below 90 indicated from
+pulse ox or from arterial
+
+183
+00:09:54,730 --> 00:09:58,690
+blood draw called arterial
+blood gas or ABG. You'll
+
+184
+00:09:58,690 --> 00:10:01,270
+notice reduced breath
+sounds on auscultation,
+
+185
+00:10:01,630 --> 00:10:04,930
+dullness to percussion
+and also rails which
+
+186
+00:10:04,930 --> 00:10:08,490
+are basically like coarse
+crackles and you'll
+
+187
+00:10:08,490 --> 00:10:11,090
+also notice increased
+tactile fremitus.
+
+188
+00:10:12,210 --> 00:10:15,670
+here's a screenshot from
+first aid showing physical
+
+189
+00:10:15,670 --> 00:10:19,350
+findings in various
+lung diseases in the red
+
+190
+00:10:19,350 --> 00:10:24,310
+box I have physical
+exams of of pneumonia you
+
+191
+00:10:24,310 --> 00:10:27,790
+can compare it to the
+other lung diseases in your
+
+192
+00:10:27,790 --> 00:10:32,170
+own time so how is hap
+diagnosed through blood
+
+193
+00:10:32,170 --> 00:10:35,770
+culture taken prior to
+antibiotics through sputum
+
+194
+00:10:35,770 --> 00:10:38,710
+culture also taken prior
+to antibiotics through
+
+195
+00:10:38,710 --> 00:10:42,150
+blood work which will
+show leukocytosis on CBC.
+
+196
+00:10:42,310 --> 00:10:45,410
+In VAP specifically,
+lower respiratory tract
+
+197
+00:10:45,410 --> 00:10:49,610
+sampling may be needed via
+bronchoalveolar lavage or
+
+198
+00:10:49,610 --> 00:10:52,790
+endotracheal tracheobronchial
+aspirate sampling.
+
+199
+00:10:53,270 --> 00:10:55,970
+Importantly, chest x
+-ray is also needed.
+
+200
+00:10:55,990 --> 00:10:58,290
+For a HAP, the
+chest x-ray finding
+
+201
+00:10:58,290 --> 00:11:01,090
+could either show
+solid consolidation,
+
+202
+00:11:01,090 --> 00:11:03,270
+this is known as
+lober pneumonia.
+
+203
+00:11:03,550 --> 00:11:06,390
+It could show patchy
+infiltrates, this is known
+
+204
+00:11:06,390 --> 00:11:09,470
+as bronchopneumonia, or
+it could show interstitial
+
+205
+00:11:09,470 --> 00:11:12,130
+infiltrates known as
+interstitial pneumonia.
+
+206
+00:11:12,930 --> 00:11:16,490
+Here are the radiographic
+images showing solid
+
+207
+00:11:16,490 --> 00:11:19,430
+consolidation also known
+as lober pneumonia.
+
+208
+00:11:19,430 --> 00:11:22,170
+In the right side
+image you can see the
+
+209
+00:11:22,170 --> 00:11:26,030
+consolidation highlighted
+in blue in the upper lobe.
+
+210
+00:11:28,430 --> 00:11:31,770
+These radiographic
+images are showing patchy
+
+211
+00:11:31,770 --> 00:11:35,030
+infiltrates also known
+as bronchopneumonia. In
+
+212
+00:11:35,030 --> 00:11:37,410
+the right side image
+the infiltrates are
+
+213
+00:11:37,410 --> 00:11:40,330
+highlighted in blue. If
+you notice they are more
+
+214
+00:11:40,330 --> 00:11:42,810
+patchy in nature compared
+to lower pneumonia.
+
+215
+00:11:43,650 --> 00:11:46,770
+This radiographic image
+is showing interstitial
+
+216
+00:11:46,770 --> 00:11:49,290
+infiltrates otherwise
+known as ground glass
+
+217
+00:11:49,290 --> 00:11:52,050
+infiltrates. If you
+notice in the image these
+
+218
+00:11:52,050 --> 00:11:54,810
+are more diffuse and
+reticular in pattern.
+
+219
+00:11:55,470 --> 00:11:58,830
+Here is a first-aid
+screenshot summarizing lower
+
+220
+00:11:58,830 --> 00:12:01,590
+pneumonia, bronchopneumonia,
+and interstitial
+
+221
+00:12:01,590 --> 00:12:04,210
+pneumonia. You can go
+over it in your own time.
+
+222
+00:12:04,710 --> 00:12:07,770
+So now switching gears
+from clinical presentation
+
+223
+00:12:07,770 --> 00:12:10,430
+to treatment of HAP.
+So how do we treat
+
+224
+00:12:10,430 --> 00:12:13,450
+HAP? Using antibiotics.
+There are things we
+
+225
+00:12:13,450 --> 00:12:16,030
+need to consider before
+using antibiotics, which
+
+226
+00:12:16,030 --> 00:12:19,150
+are risk of multi-drug
+resistant pathogens,
+
+227
+00:12:19,370 --> 00:12:22,610
+local antibiotic
+resistance, and the
+
+228
+00:12:22,610 --> 00:12:25,530
+individual patient's
+prior microbiology data.
+
+229
+00:12:26,190 --> 00:12:28,730
+Quickly going over
+some drug resistance
+
+230
+00:12:28,730 --> 00:12:32,030
+definitions. Multi-drug
+resistance, this is
+
+231
+00:12:32,030 --> 00:12:34,690
+resistance of organisms
+to at least one agent
+
+232
+00:12:34,690 --> 00:12:37,370
+in three different
+antibiotic drug classes.
+
+233
+00:12:37,570 --> 00:12:40,230
+Extensive drug resistance
+is the resistance
+
+234
+00:12:40,230 --> 00:12:43,310
+to at least one agent in
+all but two antibiotic
+
+235
+00:12:43,310 --> 00:12:46,590
+classes and pan drug
+resistance is resistance
+
+236
+00:12:46,590 --> 00:12:49,310
+to all agents in all
+antibiotic classes.
+
+237
+00:12:51,130 --> 00:12:54,290
+This slide is just for
+your information you don't
+
+238
+00:12:54,290 --> 00:12:57,350
+need to memorize anything
+on this slide except just
+
+239
+00:12:57,350 --> 00:13:00,130
+have an idea of the bottom
+line which is that the
+
+240
+00:13:00,130 --> 00:13:03,370
+awareness of local resistant
+pattern is important for
+
+241
+00:13:03,370 --> 00:13:06,730
+the treatment of HAP and VAP,
+and this local resistance
+
+242
+00:13:06,730 --> 00:13:10,190
+pattern is found using
+hospital antibiograms.
+
+243
+00:13:10,310 --> 00:13:13,770
+Here is an image of a
+hospital antibiogram where
+
+244
+00:13:13,770 --> 00:13:16,190
+you can see the names of
+antibiotics at the top
+
+245
+00:13:16,190 --> 00:13:19,830
+and the organisms on the
+left. The numbers are
+
+246
+00:13:19,830 --> 00:13:22,970
+the frequency of resistance.
+This antibiogram is
+
+247
+00:13:22,970 --> 00:13:25,750
+from St. Teresa's Hospital.
+I don't know where
+
+248
+00:13:25,750 --> 00:13:28,750
+that is. I just got this
+image from Google, but
+
+249
+00:13:28,750 --> 00:13:32,010
+antibiograms are usually
+unique to each hospital.
+
+250
+00:13:32,530 --> 00:13:35,470
+Here is a basic
+treatment algorithm for
+
+251
+00:13:35,470 --> 00:13:39,530
+HAP and VAP. From this
+slide, know that MRSA
+
+252
+00:13:39,530 --> 00:13:42,570
+coverage must be
+added when there's
+
+253
+00:13:42,570 --> 00:13:45,610
+evidence of MRSA
+prevalence in the hospital.
+
+254
+00:13:45,990 --> 00:13:50,030
+And two antipseudomonal
+agents must be added
+
+255
+00:13:50,030 --> 00:13:52,810
+depending on circumstances
+such as if the patients
+
+256
+00:13:52,810 --> 00:13:55,710
+have a structural lung
+disease or if there is
+
+257
+00:13:55,710 --> 00:13:58,110
+evidence of pseudomonas
+resistance. Otherwise,
+
+258
+00:13:58,350 --> 00:14:00,830
+one antipseudomonal
+antibiotic is fine.
+
+259
+00:14:01,930 --> 00:14:06,890
+So here is the summary of
+treatment basic idea. First
+
+260
+00:14:06,890 --> 00:14:09,590
+blood and sputum sample
+need to be collected for
+
+261
+00:14:09,590 --> 00:14:13,130
+culture. Then empiric therapy
+need to be started right
+
+262
+00:14:13,130 --> 00:14:16,450
+away taking into account
+hospital antibiograms
+
+263
+00:14:16,450 --> 00:14:19,890
+and local resistance
+patterns. And then finally de
+
+264
+00:14:19,890 --> 00:14:23,710
+-escalation of empiric therapy
+need to happen ASAP when
+
+265
+00:14:23,710 --> 00:14:27,210
+causative agents are found
+confirmed by blood and
+
+266
+00:14:27,210 --> 00:14:30,730
+sputum culture or when
+clinical improvement is seen.
+
+267
+00:14:32,690 --> 00:14:36,050
+This is a slide on
+pharmacology of HAP
+
+268
+00:14:36,050 --> 00:14:38,570
+and VAP and also
+aspiration pneumonia.
+
+269
+00:14:38,890 --> 00:14:43,010
+MRSA is covered with
+vancomycin or Lainzolid.
+
+270
+00:14:43,510 --> 00:14:45,970
+Pseudomonas is covered
+with papyracillin
+
+271
+00:14:45,970 --> 00:14:49,710
+tazobactam or
+cefepim or imipenem.
+
+272
+00:14:50,690 --> 00:14:53,290
+Anaerobes in
+aspiration pneumonia is
+
+273
+00:14:53,290 --> 00:14:55,950
+treated with
+clindamycin, amoxicillin
+
+274
+00:14:55,950 --> 00:14:59,770
+clavulinate or metronidazole
+and beta-lactam.
+
+275
+00:15:00,750 --> 00:15:03,350
+Now we will look at
+complications that could
+
+276
+00:15:03,350 --> 00:15:06,370
+occur from prolonged or
+untreated HAP, such as
+
+277
+00:15:06,370 --> 00:15:09,210
+pleural effusion, which
+is fluid in the pleural
+
+278
+00:15:09,210 --> 00:15:12,330
+space due to increased
+capillary permeability,
+
+279
+00:15:12,850 --> 00:15:15,270
+empyema, which is
+pus in the pleural
+
+280
+00:15:15,270 --> 00:15:17,670
+space from bacterial invasion,
+
+281
+00:15:18,110 --> 00:15:22,610
+lung abscess, which
+is infected cavity
+
+282
+00:15:22,610 --> 00:15:25,050
+inside the lung
+parenchymal tissue,
+
+283
+00:15:25,490 --> 00:15:27,950
+sepsis with symptoms
+such as high
+
+284
+00:15:27,950 --> 00:15:30,950
+fever, hypotension,
+tachycardia,
+
+285
+00:15:31,070 --> 00:15:33,030
+overall unstable patient.
+
+286
+00:15:33,210 --> 00:15:35,550
+Also, respiratory failure could
+
+287
+00:15:35,550 --> 00:15:37,650
+occur as well as renal failure.
+
+288
+00:15:38,950 --> 00:15:43,690
+Over here at the bottom,
+we have radiology imaging
+
+289
+00:15:43,690 --> 00:15:48,450
+for empyema, which will
+show an air fluid level
+
+290
+00:15:48,450 --> 00:15:52,090
+as shown here with the
+horizontal line and this
+
+291
+00:15:52,090 --> 00:15:54,450
+image over here is
+showing a lung abscess as
+
+292
+00:15:54,450 --> 00:15:57,290
+you can see and it's over
+here in the upper lobe.
+
+293
+00:15:57,910 --> 00:16:01,230
+So how can we prevent
+HAP? This slide is
+
+294
+00:16:01,230 --> 00:16:03,230
+important but it's
+easy to understand the
+
+295
+00:16:03,230 --> 00:16:05,490
+prevention of HAP if
+you can remember the
+
+296
+00:16:05,490 --> 00:16:08,070
+risk factors we discussed
+in earlier slides.
+
+297
+00:16:08,230 --> 00:16:09,270
+For instance,
+
+298
+00:16:09,490 --> 00:16:12,910
+prevention of aspiration
+is a way to prevent
+
+299
+00:16:12,910 --> 00:16:14,990
+HAP. This can be
+done in a couple of
+
+300
+00:16:14,990 --> 00:16:18,550
+ways by elevating the
+head of the bed to
+
+301
+00:16:18,550 --> 00:16:22,250
+30 to 45 degrees, by
+minimizing sedation,
+
+302
+00:16:23,270 --> 00:16:25,790
+by frequent
+subglottic drainage,
+
+303
+00:16:26,030 --> 00:16:28,670
+and by ensuring
+proper swallowing
+
+304
+00:16:28,670 --> 00:16:31,270
+using speech and
+swallow evaluations.
+
+305
+00:16:32,130 --> 00:16:35,870
+Other methods are related
+to decontamination of the
+
+306
+00:16:35,870 --> 00:16:39,110
+oropharynx or the digestive
+tract by maintaining oral
+
+307
+00:16:39,110 --> 00:16:43,250
+care and tooth brushing and by
+choosing internal nutrition,
+
+308
+00:16:43,250 --> 00:16:46,510
+meaning food is delivered
+directly to the GI tract,
+
+309
+00:16:46,510 --> 00:16:49,790
+and this is preferred
+over parenteral nutrition,
+
+310
+00:16:49,790 --> 00:16:53,310
+which is nutrients delivered
+into the bloodstream. This
+
+311
+00:16:53,310 --> 00:16:57,570
+is because with internal
+nutrition, it can keep the gut
+
+312
+00:16:57,570 --> 00:17:00,870
+mucosa healthy, preventing
+bacterial translocation.
+
+313
+00:17:02,410 --> 00:17:06,090
+And then there's the VAP
+-specific bundles, particularly
+
+314
+00:17:06,090 --> 00:17:09,130
+helpful for preventing
+VAP. This includes
+
+315
+00:17:09,130 --> 00:17:13,050
+avoiding intubation or re
+-intubation when possible,
+
+316
+00:17:13,170 --> 00:17:15,830
+facilitating early extubation,
+
+317
+00:17:16,050 --> 00:17:18,530
+implementing proper
+weaning methods
+
+318
+00:17:18,530 --> 00:17:21,590
+through spontaneous
+breathing trials,
+
+319
+00:17:21,590 --> 00:17:25,310
+by putting the patient in
+semi-recumbent positioning,
+
+320
+00:17:25,370 --> 00:17:28,190
+and by maintaining
+physical conditioning
+
+321
+00:17:28,190 --> 00:17:30,710
+of the patient through
+mobilizing programs.
+
+322
+00:17:31,450 --> 00:17:34,330
+Now that we've learned
+quite a bit about HAP and
+
+323
+00:17:34,330 --> 00:17:36,870
+VAP, we're going to be
+looking at a couple of cases.
+
+324
+00:17:37,970 --> 00:17:41,530
+So for this case, we have
+a 55-year-old female with
+
+325
+00:17:41,530 --> 00:17:44,730
+past medical history of
+COPD, recent hospitalization
+
+326
+00:17:44,730 --> 00:17:48,530
+for UTI that was treated
+with antibiotics and 50-pack
+
+327
+00:17:48,530 --> 00:17:51,750
+-year history quit three
+years ago. Presents to the ED
+
+328
+00:17:51,750 --> 00:17:55,010
+with progressive dyspnea.
+Patient was admitted to the
+
+329
+00:17:55,010 --> 00:17:58,350
+medical floor for acute COPD
+exacerbation and treated
+
+330
+00:17:58,350 --> 00:18:02,750
+with steroids and albuterol
+nebulizer. 56 hours later,
+
+331
+00:18:02,750 --> 00:18:06,130
+patient started to develop
+fever and decreased oxygen
+
+332
+00:18:06,130 --> 00:18:09,190
+saturation. The following
+chest x-ray is obtained.
+
+333
+00:18:09,550 --> 00:18:12,790
+What are the most
+important predictors of
+
+334
+00:18:12,790 --> 00:18:15,250
+nosocomial pneumonia
+in this patient?
+
+335
+00:18:15,350 --> 00:18:17,770
+I'll give you a minute
+to think about it.
+
+336
+00:18:32,210 --> 00:18:34,550
+So the most important
+predictors of nosocomial
+
+337
+00:18:34,550 --> 00:18:38,470
+pneumonia in this patient
+are patient developed signs
+
+338
+00:18:38,470 --> 00:18:42,210
+and symptoms after 56 hours
+after hospitalization,
+
+339
+00:18:42,630 --> 00:18:45,610
+patient had recent use
+of antibiotics for her
+
+340
+00:18:45,610 --> 00:18:49,370
+UTI and she also had
+comorbidities like COPD
+
+341
+00:18:51,450 --> 00:18:55,610
+so this is case three a
+sputum sample from a patient
+
+342
+00:18:55,610 --> 00:18:58,470
+with suspected pneumonia
+is sent to the lab gram
+
+343
+00:18:58,470 --> 00:19:01,370
+stain is shown the
+bacteria is also catalase
+
+344
+00:19:01,370 --> 00:19:04,430
+positive and coagulase
+positive which of the following
+
+345
+00:19:04,430 --> 00:19:08,130
+microbes is the most
+likely causative agent and
+
+346
+00:19:13,620 --> 00:19:15,800
+the answer is staph aureus
+
+347
+00:19:17,440 --> 00:19:20,500
+For explanation, I have
+the characteristics of the
+
+348
+00:19:20,500 --> 00:19:23,500
+organisms. Staph aureus is
+the most likely causative
+
+349
+00:19:23,500 --> 00:19:26,800
+agent because it is a gram
+-positive cocci in clusters.
+
+350
+00:19:26,800 --> 00:19:31,160
+It is catalase positive and
+it is coagulase positive.
+
+351
+00:19:32,440 --> 00:19:34,460
+Klebsiella is excluded because
+
+352
+00:19:34,460 --> 00:19:36,780
+it is a gram-negative rod.
+
+353
+00:19:37,260 --> 00:19:39,660
+Strep pneumonia is
+excluded because it is
+
+354
+00:19:39,660 --> 00:19:43,390
+catalase negative and
+also is a diplococci.
+
+355
+00:19:43,520 --> 00:19:46,820
+Strep pyogenes is
+excluded because it is a
+
+356
+00:19:46,820 --> 00:19:50,600
+catalase-negative organism
+and appears in chains.
+
+357
+00:19:50,740 --> 00:19:52,460
+Staph epidermis is excluded
+
+358
+00:19:52,460 --> 00:19:54,800
+because it is
+coagulase-negative.
+
+359
+00:19:55,740 --> 00:19:59,740
+This is case 4. Mr. Smith
+is a 65-year-old male
+
+360
+00:19:59,740 --> 00:20:02,890
+with past medical history of
+hypertension, hyperlipidemia,
+
+361
+00:20:02,890 --> 00:20:06,000
+and asthma. Presents
+to the ED by ambulance
+
+362
+00:20:06,000 --> 00:20:08,300
+with a two-week history
+of progressive shortness
+
+363
+00:20:08,300 --> 00:20:11,240
+of breath and productive
+cough with yellow sputum.
+
+364
+00:20:11,240 --> 00:20:15,120
+The patient has a 40-pack
+-year smoking history and
+
+365
+00:20:15,120 --> 00:20:18,500
+alcohol substance use
+disorder. His vitals are
+
+366
+00:20:18,500 --> 00:20:22,660
+blood pressure 100 over 56,
+heart rate 95, respiration
+
+367
+00:20:22,660 --> 00:20:26,380
+21, and temperature 101
+.1. He's admitted to the
+
+368
+00:20:26,380 --> 00:20:30,020
+ICU for a presumed sepsis
+secondary to pneumonia.
+
+369
+00:20:30,020 --> 00:20:33,620
+He's treated with albuterol
+IV fluid and antibiotics.
+
+370
+00:20:34,170 --> 00:20:36,820
+You obtain a chest
+x-ray for Mr. Smith,
+
+371
+00:20:36,820 --> 00:20:38,900
+shown on the right.
+what is the most likely
+
+372
+00:20:38,900 --> 00:20:42,140
+classification of Mr.
+Smith's pneumonia?
+
+373
+00:20:43,000 --> 00:20:44,680
+Take a minute to
+think about it.
+
+374
+00:20:51,010 --> 00:20:53,230
+The answer is
+aspiration pneumonia.
+
+375
+00:20:53,570 --> 00:20:55,970
+And what is the most
+likely pathogen?
+
+376
+00:21:03,010 --> 00:21:04,520
+The answer is Klebsiella.
+
+377
+00:21:05,230 --> 00:21:07,850
+Mr. Smith's pneumonia
+is classified as
+
+378
+00:21:07,850 --> 00:21:12,170
+aspiration pneumonia
+because he had an alcohol
+
+379
+00:21:12,170 --> 00:21:15,290
+use disorder and
+significant smoking history
+
+380
+00:21:15,290 --> 00:21:17,630
+which increases the
+risk of aspiration.
+
+381
+00:21:18,050 --> 00:21:21,230
+It is not community-acquired
+pneumonia because the
+
+382
+00:21:21,230 --> 00:21:24,290
+history of alcohol use
+disorder, significant smoking,
+
+383
+00:21:24,310 --> 00:21:27,110
+increases aspiration
+pneumonia. Hospital-acquired
+
+384
+00:21:27,110 --> 00:21:31,330
+pneumonia excluded because
+Mr. Smith did not acquire
+
+385
+00:21:31,330 --> 00:21:34,450
+the pneumonia while in the
+healthcare setting. And
+
+386
+00:21:34,450 --> 00:21:36,950
+ventilator-associated
+pneumonia is excluded because
+
+387
+00:21:36,950 --> 00:21:39,550
+Mr. Smith was not on any
+mechanical ventilation.
+
+388
+00:21:39,990 --> 00:21:44,110
+So the pathogen was most
+likely Klebsiella because
+
+389
+00:21:44,110 --> 00:21:47,010
+it is very commonly
+associated with aspiration
+
+390
+00:21:47,010 --> 00:21:50,450
+pneumonia, especially in
+those with chronic alcoholism.
+
+391
+00:21:50,650 --> 00:21:53,570
+Mycobacterium tuberculosis
+excluded because TB
+
+392
+00:21:53,570 --> 00:21:56,550
+usually presents with a
+more chronic course and is
+
+393
+00:21:56,550 --> 00:21:58,870
+less commonly associated
+with aspiration pneumonia.
+
+394
+00:21:59,070 --> 00:22:02,050
+C. diff excluded because
+it is primarily associated
+
+395
+00:22:02,050 --> 00:22:05,170
+with antibiotic-associated
+diarrhea and colitis.
+
+396
+00:22:05,370 --> 00:22:07,650
+Neisseria meningitidis
+excluded because it
+
+397
+00:22:07,650 --> 00:22:11,630
+primarily causes
+meningitis and septicemia.
+
+398
+00:22:11,890 --> 00:22:14,330
+Strep pneumonia
+excluded because it's
+
+399
+00:22:14,330 --> 00:22:16,230
+associated with
+community-acquired
+
+400
+00:22:16,230 --> 00:22:18,950
+pneumonia rather than
+aspiration pneumonia.
+
+401
+00:22:19,970 --> 00:22:24,170
+So this is case 5.
+Mrs. Puff is a 75-year
+
+402
+00:22:24,170 --> 00:22:27,350
+-old female with past
+medical history of COPD,
+
+403
+00:22:27,570 --> 00:22:30,720
+diabetes type 2, and
+obesity status post-coil
+
+404
+00:22:30,720 --> 00:22:34,250
+cystectomy five days ago.
+Overnight was noted to have
+
+405
+00:22:34,250 --> 00:22:37,150
+fever, chills, productive
+cough with yellow phlegm.
+
+406
+00:22:37,230 --> 00:22:41,030
+Vitals show heart rate of
+120, respiration of 30,
+
+407
+00:22:41,030 --> 00:22:45,250
+blood pressure of 80 over
+50, temperature 101.3,
+
+408
+00:22:45,250 --> 00:22:50,150
+oxygen saturation 84% on
+room air. On physical exam,
+
+409
+00:22:50,150 --> 00:22:53,070
+patient shows cyanotic
+lips, labored breathing,
+
+410
+00:22:53,290 --> 00:22:56,070
+and use of accessory
+muscles of the respiration.
+
+411
+00:22:56,510 --> 00:23:00,030
+Lung auscultation shows
+decreased breath sounds
+
+412
+00:23:00,030 --> 00:23:04,070
+on the lower right lung,
+increased vocal resonance,
+
+413
+00:23:04,070 --> 00:23:07,110
+and coarse rails on the
+right lower lung field.
+
+414
+00:23:08,770 --> 00:23:12,170
+Chest x-ray is consistent
+with right lower lung
+
+415
+00:23:12,170 --> 00:23:14,710
+infiltrate. Which of the
+following would be the most
+
+416
+00:23:14,710 --> 00:23:18,150
+appropriate empiric
+antibiotic for this patient?
+
+417
+00:23:27,560 --> 00:23:29,240
+The answer is imipenem,
+
+418
+00:23:29,240 --> 00:23:31,380
+aminoglycosides,
+and vancomycin.
+
+419
+00:23:32,260 --> 00:23:35,820
+So imipenem, aminoglycoside,
+and vancomycin
+
+420
+00:23:35,820 --> 00:23:38,380
+are the correct antibiotics.
+This combination
+
+421
+00:23:38,380 --> 00:23:42,480
+covers resistant gram
+-negative bacteria and
+
+422
+00:23:42,480 --> 00:23:46,280
+also MRSA. This is appropriate
+for severe hospital
+
+423
+00:23:46,280 --> 00:23:48,620
+-acquired pneumonia in
+a patient with multiple
+
+424
+00:23:48,620 --> 00:23:51,140
+comorbidities and
+recent hospitalization.
+
+425
+00:23:51,380 --> 00:23:55,200
+Piperacillin-Tazobactam was
+excluded. While it covers
+
+426
+00:23:55,200 --> 00:23:59,900
+Pseudomonas, it does not
+cover MRSA, which is a concern
+
+427
+00:23:59,900 --> 00:24:02,820
+given her recent surgery
+and severe presentation.
+
+428
+00:24:03,720 --> 00:24:06,940
+Siftriaxone and macrolides
+were excluded. This
+
+429
+00:24:06,940 --> 00:24:09,140
+is suitable for community
+-acquired pneumonia,
+
+430
+00:24:09,160 --> 00:24:11,580
+but lacks adequate coverage for
+
+431
+00:24:11,580 --> 00:24:13,280
+hospital-acquired pathogens.
+
+432
+00:24:13,580 --> 00:24:16,100
+Metronidazole is excluded
+because it targets
+
+433
+00:24:16,100 --> 00:24:19,140
+anaerobes and amoxicillin
+was excluded because it's
+
+434
+00:24:19,140 --> 00:24:21,520
+effective for mild community
+-acquired pneumonia.
+
+435
+00:24:22,950 --> 00:24:25,660
+We have reached the end
+of our lecture. Here's
+
+436
+00:24:25,660 --> 00:24:27,700
+a quick summary and
+some key points to
+
+437
+00:24:27,700 --> 00:24:31,700
+remember. By definition,
+HAP is pneumonia diagnosed
+
+438
+00:24:31,700 --> 00:24:35,200
+48 hours or more after
+hospital admission.
+
+439
+00:24:35,500 --> 00:24:38,840
+VAP is a type of HAP
+diagnosed 48 hours or more
+
+440
+00:24:38,840 --> 00:24:42,280
+after endotracheal intubation.
+The greatest risk factor
+
+441
+00:24:42,280 --> 00:24:45,780
+for developing VAP is
+intubation. The greatest
+
+442
+00:24:45,780 --> 00:24:49,260
+risk factor for multi-drug
+resistant pneumonia is the
+
+443
+00:24:49,260 --> 00:24:52,180
+use of IV antibiotics
+within 90 days prior to
+
+444
+00:24:52,180 --> 00:24:56,040
+diagnosis. Common bugs
+associated with happen VAP are
+
+445
+00:24:56,040 --> 00:24:59,080
+staph and pseudomonas.
+Common bugs associated with
+
+446
+00:24:59,080 --> 00:25:01,980
+aspiration pneumonia are
+anaerobes and Klebsiella.
+
+447
+00:25:03,120 --> 00:25:05,280
+Physical exam
+findings associated
+
+448
+00:25:05,280 --> 00:25:06,760
+with pneumonia
+include dullness to
+
+449
+00:25:06,760 --> 00:25:09,100
+percussion, increased
+tactile fremitus.
+
+450
+00:25:09,280 --> 00:25:12,160
+X-ray patterns of
+pneumonia include lober,
+
+451
+00:25:12,160 --> 00:25:15,020
+bronchopneumonia, and
+interstitial infiltrates.
+
+452
+00:25:15,560 --> 00:25:19,560
+In terms of treatment,
+if there are no
+
+453
+00:25:19,560 --> 00:25:22,720
+risk for multi-drug
+resistant organisms, we
+
+454
+00:25:22,720 --> 00:25:25,400
+start with empiric
+therapy covering staph,
+
+455
+00:25:25,400 --> 00:25:27,680
+pseudomonas, and
+gram-negative faceli.
+
+456
+00:25:28,470 --> 00:25:30,420
+And here are the references.
+
+457
+00:25:30,880 --> 00:25:33,660
+Thank you everyone for
+listening. If you have any
+
+458
+00:25:33,660 --> 00:25:36,040
+questions, please don't
+hesitate to reach out
+
+459
+00:25:36,040 --> 00:25:40,300
+to Dr. Murad or me. I
+have both our emails here.
+
+460
+00:25:40,500 --> 00:25:42,620
+Also, I've included
+the lecture feedback
+
+461
+00:25:42,620 --> 00:25:44,600
+form if anybody
+has any feedback.

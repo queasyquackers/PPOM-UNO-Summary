@@ -276,7 +276,9 @@ def run_git(repo, args, check=True):
 # week-5 batch variously self-reported 1, 5 and 6).
 CARDIO_WEEKS = ((1, 10, 1), (11, 20, 2), (21, 31, 3), (32, 41, 4), (42, 54, 5),
                 # CPR Block 2 (week 6 is the comp week)
-                (55, 67, 7), (68, 78, 8), (79, 89, 9), (90, 99, 10), (100, 112, 11))
+                (55, 67, 7), (68, 78, 8), (79, 89, 9), (90, 99, 10), (100, 112, 11),
+                # CPR Block 3 (week 12 is the comp week)
+                (113, 121, 13), (122, 132, 14), (133, 142, 15), (143, 153, 16), (154, 163, 17))
 
 CARDIO_MAX = max(hi for _, hi, _ in CARDIO_WEEKS)
 
@@ -364,9 +366,11 @@ def find_cardio_inputs(n):
     Matching is anchored to the leading 'Lecture #N' because lecture titles can
     contain their own numbers (e.g. L2's SRT is titled 'OMM Lab #31 Prep') and
     an unanchored search would let those hijack another lecture's prep. '0*'
-    accepts zero-padded downloads like 'Lecture #01_'."""
+    accepts zero-padded downloads like 'Lecture #01_', '#?' accepts decks saved
+    without the hash like 'Lecture 119 G. Saggio', and 'Session' covers student-led
+    recordings like 'Session # 138_ Microbiology'."""
     incoming = SUMMARY_REPO / "_incoming"
-    pat = re.compile(rf"^Lecture[\s_]*#\s*0*{n}(?!\d)", re.IGNORECASE)
+    pat = re.compile(rf"^(?:Lecture|Session)[\s_]*#?\s*0*{n}(?!\d)", re.IGNORECASE)
     transcripts, slides = [], None
     if incoming.exists():
         for f in sorted(incoming.iterdir()):
