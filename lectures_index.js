@@ -2576,6 +2576,14 @@ window.receiveLectureIndex([
     "readingTime": 14
   },
   {
+    "id": "cv147",
+    "title": "Lecture #147: Pathology: Introduction to Glomerular Diseases",
+    "module": "Pathology",
+    "tags": "Lecture #147",
+    "path": "content/json/cv147.file.js",
+    "readingTime": 13
+  },
+  {
     "id": "cv148",
     "title": "Lecture #148: Pathology: Nephrotic Syndrome",
     "module": "Pathology",
