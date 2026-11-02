@@ -2600,6 +2600,14 @@ window.receiveLectureIndex([
     "readingTime": 14
   },
   {
+    "id": "cv150",
+    "title": "Lecture #150: Pharmacology: Influenza and SARS-CoV-2 Antiviral Agents",
+    "module": "Pharmacology",
+    "tags": "Lecture #150",
+    "path": "content/json/cv150.file.js",
+    "readingTime": 16
+  },
+  {
     "id": "cv151",
     "title": "Lecture #151: Pathology: Vascular Kidney Diseases",
     "module": "Pathology",
