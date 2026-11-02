@@ -2560,6 +2560,22 @@ window.receiveLectureIndex([
     "readingTime": 14
   },
   {
+    "id": "cv143",
+    "title": "Lecture #143: DPR: Renal History and Physical Exam",
+    "module": "DPR",
+    "tags": "Lecture #143",
+    "path": "content/json/cv143.file.js",
+    "readingTime": 10
+  },
+  {
+    "id": "cv146",
+    "title": "Lecture #146: Chest Radiography: The Basics",
+    "module": "Radiology",
+    "tags": "Lecture #146",
+    "path": "content/json/cv146.file.js",
+    "readingTime": 14
+  },
+  {
     "id": "cv151",
     "title": "Lecture #151: Pathology: Vascular Kidney Diseases",
     "module": "Pathology",
