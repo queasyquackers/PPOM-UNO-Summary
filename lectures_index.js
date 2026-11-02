@@ -2576,6 +2576,22 @@ window.receiveLectureIndex([
     "readingTime": 14
   },
   {
+    "id": "cv148",
+    "title": "Lecture #148: Pathology: Nephrotic Syndrome",
+    "module": "Pathology",
+    "tags": "Lecture #148",
+    "path": "content/json/cv148.file.js",
+    "readingTime": 11
+  },
+  {
+    "id": "cv149",
+    "title": "Lecture #149: Pathology: Nephritic Syndrome",
+    "module": "Pathology",
+    "tags": "Lecture #149",
+    "path": "content/json/cv149.file.js",
+    "readingTime": 14
+  },
+  {
     "id": "cv151",
     "title": "Lecture #151: Pathology: Vascular Kidney Diseases",
     "module": "Pathology",
