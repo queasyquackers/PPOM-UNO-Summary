@@ -2558,5 +2558,21 @@ window.receiveLectureIndex([
     "tags": "Lecture #142",
     "path": "content/json/cv142.file.js",
     "readingTime": 14
+  },
+  {
+    "id": "cv151",
+    "title": "Lecture #151: Pathology: Vascular Kidney Diseases",
+    "module": "Pathology",
+    "tags": "Lecture #151",
+    "path": "content/json/cv151.file.js",
+    "readingTime": 11
+  },
+  {
+    "id": "cv153",
+    "title": "Lecture #153: Clinical: Urinary Tract Infections",
+    "module": "Clinical",
+    "tags": "Lecture #153",
+    "path": "content/json/cv153.file.js",
+    "readingTime": 14
   }
 ]);
