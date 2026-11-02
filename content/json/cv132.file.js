@@ -9,7 +9,7 @@ window.receiveLectureContent({
 **Lecturer:** Eugen Petcu, MD, PhD
 **Session:** Lecture #132
 
-Dr. Petcu asks you to study this alongside Dr. Abraham's lectures on nosocomial and community-acquired pneumonia ([[CV140]], [[CV141]]) and Dr. Yusupov's tuberculosis lecture ([[CV127]]). The lecture numbers he quotes on the recording are out of date, so go by the faculty names.
+Dr. Petcu asks you to study this alongside Dr. Abraham's lectures on nosocomial and community-acquired pneumonia ([[CV141]]) and Dr. Yusupov's tuberculosis lecture ([[CV127]]). The lecture numbers he quotes on the recording are out of date, so go by the faculty names.
 
 ## Why Pneumonia Develops (Slides 3-4)
 

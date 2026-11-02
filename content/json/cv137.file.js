@@ -11,7 +11,7 @@ window.receiveLectureContent({
 
 ## What Makes a Mycosis Opportunistic (Slide 3)
 
-Opportunistic mycoses are fungi that **do not produce disease in the vast majority of immunocompetent people** and cause it **almost exclusively in those with impaired immune defenses**. Unlike the primary fungal pathogens of [[CV136]], they are **distributed worldwide**, living in the environment or as commensals, with **low inherent virulence**. Each fungus below is a story about which defense failed.
+Opportunistic mycoses are fungi that **do not produce disease in the vast majority of immunocompetent people** and cause it **almost exclusively in those with impaired immune defenses**. Unlike the primary fungal pathogens, they are **distributed worldwide**, living in the environment or as commensals, with **low inherent virulence**. Each fungus below is a story about which defense failed.
 
 - **Immunosuppression** through disease or medication is the central risk, and the deck marks it as a risk factor for **all** of these mycoses (Slide 22).
 - **Other risk factors:** severe skin damage from **burns or trauma**, **indwelling medical devices**, **diabetes**.

@@ -11,7 +11,7 @@ window.receiveLectureContent({
 
 ## Where Pneumonia Fits (Slides 3-4)
 
-Respiratory infections divide by level: the **upper tract** covers the ear, sinuses and throat, and the **lower tract** covers the trachea and lungs down through bronchi, bronchioles and alveoli. Part I is about the bacteria that primarily cause **pneumonia**; the nosocomial causes are held for the next session ([[CV131]]), and the viral pathogens were covered previously ([[CV129]]). The lung is traditionally called sterile, but microaspiration carries transient organisms in - that becomes pneumonia only if the microbial numbers climb or the host cannot clear them.
+Respiratory infections divide by level: the **upper tract** covers the ear, sinuses and throat, and the **lower tract** covers the trachea and lungs down through bronchi, bronchioles and alveoli. Part I is about the bacteria that primarily cause **pneumonia**; the nosocomial causes are held for the next session ([[CV131]]), and the viral pathogens were covered previously. The lung is traditionally called sterile, but microaspiration carries transient organisms in - that becomes pneumonia only if the microbial numbers climb or the host cannot clear them.
 
 - **Upper respiratory tract (Slide 3):** sinusitis, otitis media, otitis externa, pharyngitis, epiglottitis.
 - **Lower respiratory tract (Slide 3):** bronchitis and pneumonia.
