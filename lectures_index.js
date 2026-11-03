@@ -2624,6 +2624,14 @@ window.receiveLectureIndex([
     "readingTime": 14
   },
   {
+    "id": "cv154",
+    "title": "Lecture #154: OMM Lab #43 Prep - Pulmonary Osteopathic Applications Part 2: MOPSE Protocol",
+    "module": "OMM",
+    "tags": "Lecture #154",
+    "path": "content/json/cv154.file.js",
+    "readingTime": 5
+  },
+  {
     "id": "cv163",
     "title": "Lecture #163: Clinical: Urinary Incontinence",
     "module": "Clinical",
