@@ -2632,6 +2632,14 @@ window.receiveLectureIndex([
     "readingTime": 5
   },
   {
+    "id": "cv155",
+    "title": "Lecture #155: Pathology: Tubulointerstitial Disease of the Kidney",
+    "module": "Pathology",
+    "tags": "Lecture #155",
+    "path": "content/json/cv155.file.js",
+    "readingTime": 9
+  },
+  {
     "id": "cv156",
     "title": "Lecture #156: Pathology: Neoplasia of the Kidney",
     "module": "Pathology",
