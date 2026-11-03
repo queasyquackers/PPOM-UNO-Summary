@@ -2648,6 +2648,14 @@ window.receiveLectureIndex([
     "readingTime": 14
   },
   {
+    "id": "cv157",
+    "title": "Lecture #157: Pathology: Pathology of the Lower Urinary Tract",
+    "module": "Pathology",
+    "tags": "Lecture #157",
+    "path": "content/json/cv157.file.js",
+    "readingTime": 13
+  },
+  {
     "id": "cv162",
     "title": "Lecture #162: Clinical: Nephrolithiasis",
     "module": "Clinical",
