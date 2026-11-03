@@ -2656,6 +2656,14 @@ window.receiveLectureIndex([
     "readingTime": 13
   },
   {
+    "id": "cv159",
+    "title": "Lecture #159: Clinical: Chronic Kidney Disease and Renal Failure",
+    "module": "Clinical",
+    "tags": "Lecture #159",
+    "path": "content/json/cv159.file.js",
+    "readingTime": 17
+  },
+  {
     "id": "cv162",
     "title": "Lecture #162: Clinical: Nephrolithiasis",
     "module": "Clinical",
