@@ -2560,6 +2560,54 @@ window.receiveLectureIndex([
     "readingTime": 14
   },
   {
+    "id": "cv143",
+    "title": "Lecture #143: DPR: Renal History and Physical Exam",
+    "module": "DPR",
+    "tags": "Lecture #143",
+    "path": "content/json/cv143.file.js",
+    "readingTime": 10
+  },
+  {
+    "id": "cv146",
+    "title": "Lecture #146: Chest Radiography: The Basics",
+    "module": "Radiology",
+    "tags": "Lecture #146",
+    "path": "content/json/cv146.file.js",
+    "readingTime": 14
+  },
+  {
+    "id": "cv147",
+    "title": "Lecture #147: Pathology: Introduction to Glomerular Diseases",
+    "module": "Pathology",
+    "tags": "Lecture #147",
+    "path": "content/json/cv147.file.js",
+    "readingTime": 13
+  },
+  {
+    "id": "cv148",
+    "title": "Lecture #148: Pathology: Nephrotic Syndrome",
+    "module": "Pathology",
+    "tags": "Lecture #148",
+    "path": "content/json/cv148.file.js",
+    "readingTime": 11
+  },
+  {
+    "id": "cv149",
+    "title": "Lecture #149: Pathology: Nephritic Syndrome",
+    "module": "Pathology",
+    "tags": "Lecture #149",
+    "path": "content/json/cv149.file.js",
+    "readingTime": 14
+  },
+  {
+    "id": "cv150",
+    "title": "Lecture #150: Pharmacology: Influenza and SARS-CoV-2 Antiviral Agents",
+    "module": "Pharmacology",
+    "tags": "Lecture #150",
+    "path": "content/json/cv150.file.js",
+    "readingTime": 16
+  },
+  {
     "id": "cv151",
     "title": "Lecture #151: Pathology: Vascular Kidney Diseases",
     "module": "Pathology",
@@ -2574,5 +2622,61 @@ window.receiveLectureIndex([
     "tags": "Lecture #153",
     "path": "content/json/cv153.file.js",
     "readingTime": 14
+  },
+  {
+    "id": "cv154",
+    "title": "Lecture #154: OMM Lab #43 Prep - Pulmonary Osteopathic Applications Part 2: MOPSE Protocol",
+    "module": "OMM",
+    "tags": "Lecture #154",
+    "path": "content/json/cv154.file.js",
+    "readingTime": 5
+  },
+  {
+    "id": "cv155",
+    "title": "Lecture #155: Pathology: Tubulointerstitial Disease of the Kidney",
+    "module": "Pathology",
+    "tags": "Lecture #155",
+    "path": "content/json/cv155.file.js",
+    "readingTime": 9
+  },
+  {
+    "id": "cv156",
+    "title": "Lecture #156: Pathology: Neoplasia of the Kidney",
+    "module": "Pathology",
+    "tags": "Lecture #156",
+    "path": "content/json/cv156.file.js",
+    "readingTime": 14
+  },
+  {
+    "id": "cv157",
+    "title": "Lecture #157: Pathology: Pathology of the Lower Urinary Tract",
+    "module": "Pathology",
+    "tags": "Lecture #157",
+    "path": "content/json/cv157.file.js",
+    "readingTime": 13
+  },
+  {
+    "id": "cv159",
+    "title": "Lecture #159: Clinical: Chronic Kidney Disease and Renal Failure",
+    "module": "Clinical",
+    "tags": "Lecture #159",
+    "path": "content/json/cv159.file.js",
+    "readingTime": 17
+  },
+  {
+    "id": "cv162",
+    "title": "Lecture #162: Clinical: Nephrolithiasis",
+    "module": "Clinical",
+    "tags": "Lecture #162",
+    "path": "content/json/cv162.file.js",
+    "readingTime": 14
+  },
+  {
+    "id": "cv163",
+    "title": "Lecture #163: Clinical: Urinary Incontinence",
+    "module": "Clinical",
+    "tags": "Lecture #163",
+    "path": "content/json/cv163.file.js",
+    "readingTime": 13
   }
 ]);
