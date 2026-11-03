@@ -2622,5 +2622,13 @@ window.receiveLectureIndex([
     "tags": "Lecture #153",
     "path": "content/json/cv153.file.js",
     "readingTime": 14
+  },
+  {
+    "id": "cv163",
+    "title": "Lecture #163: Clinical: Urinary Incontinence",
+    "module": "Clinical",
+    "tags": "Lecture #163",
+    "path": "content/json/cv163.file.js",
+    "readingTime": 13
   }
 ]);
