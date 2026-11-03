@@ -2632,6 +2632,14 @@ window.receiveLectureIndex([
     "readingTime": 5
   },
   {
+    "id": "cv156",
+    "title": "Lecture #156: Pathology: Neoplasia of the Kidney",
+    "module": "Pathology",
+    "tags": "Lecture #156",
+    "path": "content/json/cv156.file.js",
+    "readingTime": 14
+  },
+  {
     "id": "cv163",
     "title": "Lecture #163: Clinical: Urinary Incontinence",
     "module": "Clinical",
