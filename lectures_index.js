@@ -2648,6 +2648,14 @@ window.receiveLectureIndex([
     "readingTime": 14
   },
   {
+    "id": "cv162",
+    "title": "Lecture #162: Clinical: Nephrolithiasis",
+    "module": "Clinical",
+    "tags": "Lecture #162",
+    "path": "content/json/cv162.file.js",
+    "readingTime": 14
+  },
+  {
     "id": "cv163",
     "title": "Lecture #163: Clinical: Urinary Incontinence",
     "module": "Clinical",
