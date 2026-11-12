@@ -2648,6 +2648,14 @@ window.receiveLectureIndex([
     "readingTime": 11
   },
   {
+    "id": "cv152",
+    "title": "Lecture #152: Microbiology: Urinary Tract Infections",
+    "module": "Microbiology",
+    "tags": "Lecture #152",
+    "path": "content/json/cv152.file.js",
+    "readingTime": 12
+  },
+  {
     "id": "cv153",
     "title": "Lecture #153: Clinical: Urinary Tract Infections",
     "module": "Clinical",
