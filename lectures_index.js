@@ -2552,6 +2552,14 @@ window.receiveLectureIndex([
     "readingTime": 11
   },
   {
+    "id": "cv138",
+    "title": "Lecture #138: Microbiology: Emerging Infections",
+    "module": "Microbiology",
+    "tags": "Lecture #138",
+    "path": "content/json/cv138.file.js",
+    "readingTime": 14
+  },
+  {
     "id": "cv139",
     "title": "Lecture #139: Hospital Acquired (Nosocomial) Pneumonia",
     "module": "Clinical",
