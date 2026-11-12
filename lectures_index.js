@@ -2664,6 +2664,22 @@ window.receiveLectureIndex([
     "readingTime": 17
   },
   {
+    "id": "cv160",
+    "title": "Lecture #160: Renal and Genitourinary Considerations in Pediatrics Part I",
+    "module": "Clinical",
+    "tags": "Lecture #160",
+    "path": "content/json/cv160.file.js",
+    "readingTime": 13
+  },
+  {
+    "id": "cv161",
+    "title": "Lecture #161: Renal and Genitourinary Considerations in Pediatrics Part II",
+    "module": "Clinical",
+    "tags": "Lecture #161",
+    "path": "content/json/cv161.file.js",
+    "readingTime": 15
+  },
+  {
     "id": "cv162",
     "title": "Lecture #162: Clinical: Nephrolithiasis",
     "module": "Clinical",
