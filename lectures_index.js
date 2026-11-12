@@ -2528,6 +2528,14 @@ window.receiveLectureIndex([
     "readingTime": 8
   },
   {
+    "id": "cv136",
+    "title": "Lecture #136: Microbiology: Fungal Pathogens of the Respiratory System",
+    "module": "Microbiology",
+    "tags": "Lecture #136",
+    "path": "content/json/cv136.file.js",
+    "readingTime": 17
+  },
+  {
     "id": "cv137",
     "title": "Lecture #137: Microbiology: Opportunistic Mycoses",
     "module": "Microbiology",
