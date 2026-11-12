@@ -2568,6 +2568,14 @@ window.receiveLectureIndex([
     "readingTime": 10
   },
   {
+    "id": "cv140",
+    "title": "Lecture #140: Microbiology: Nosocomial Infections and Nosocomial Pneumonia",
+    "module": "Microbiology",
+    "tags": "Lecture #140",
+    "path": "content/json/cv140.file.js",
+    "readingTime": 14
+  },
+  {
     "id": "cv141",
     "title": "Lecture #141: Upper Respiratory Infections and Community Acquired Pneumonia",
     "module": "Clinical",
