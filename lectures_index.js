@@ -2480,6 +2480,14 @@ window.receiveLectureIndex([
     "readingTime": 16
   },
   {
+    "id": "cv129",
+    "title": "Lecture #129: Microbiology: Viral Infections of the Respiratory System",
+    "module": "Microbiology",
+    "tags": "Lecture #129",
+    "path": "content/json/cv129.file.js",
+    "readingTime": 16
+  },
+  {
     "id": "cv130",
     "title": "Lecture #130: Microbiology: Bacterial Respiratory Pathogens I",
     "module": "Microbiology",
