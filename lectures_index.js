@@ -2480,6 +2480,14 @@ window.receiveLectureIndex([
     "readingTime": 16
   },
   {
+    "id": "cv129",
+    "title": "Lecture #129: Microbiology: Viral Infections of the Respiratory System",
+    "module": "Microbiology",
+    "tags": "Lecture #129",
+    "path": "content/json/cv129.file.js",
+    "readingTime": 16
+  },
+  {
     "id": "cv130",
     "title": "Lecture #130: Microbiology: Bacterial Respiratory Pathogens I",
     "module": "Microbiology",
@@ -2528,6 +2536,14 @@ window.receiveLectureIndex([
     "readingTime": 8
   },
   {
+    "id": "cv136",
+    "title": "Lecture #136: Microbiology: Fungal Pathogens of the Respiratory System",
+    "module": "Microbiology",
+    "tags": "Lecture #136",
+    "path": "content/json/cv136.file.js",
+    "readingTime": 17
+  },
+  {
     "id": "cv137",
     "title": "Lecture #137: Microbiology: Opportunistic Mycoses",
     "module": "Microbiology",
@@ -2536,12 +2552,28 @@ window.receiveLectureIndex([
     "readingTime": 11
   },
   {
+    "id": "cv138",
+    "title": "Lecture #138: Microbiology: Emerging Infections",
+    "module": "Microbiology",
+    "tags": "Lecture #138",
+    "path": "content/json/cv138.file.js",
+    "readingTime": 14
+  },
+  {
     "id": "cv139",
     "title": "Lecture #139: Hospital Acquired (Nosocomial) Pneumonia",
     "module": "Clinical",
     "tags": "Lecture #139",
     "path": "content/json/cv139.file.js",
     "readingTime": 10
+  },
+  {
+    "id": "cv140",
+    "title": "Lecture #140: Microbiology: Nosocomial Infections and Nosocomial Pneumonia",
+    "module": "Microbiology",
+    "tags": "Lecture #140",
+    "path": "content/json/cv140.file.js",
+    "readingTime": 14
   },
   {
     "id": "cv141",
@@ -2614,6 +2646,14 @@ window.receiveLectureIndex([
     "tags": "Lecture #151",
     "path": "content/json/cv151.file.js",
     "readingTime": 11
+  },
+  {
+    "id": "cv152",
+    "title": "Lecture #152: Microbiology: Urinary Tract Infections",
+    "module": "Microbiology",
+    "tags": "Lecture #152",
+    "path": "content/json/cv152.file.js",
+    "readingTime": 12
   },
   {
     "id": "cv153",
