@@ -2600,6 +2600,14 @@ window.receiveLectureIndex([
     "readingTime": 10
   },
   {
+    "id": "cv145",
+    "title": "Lecture #145: Sleep Physiology and Sleep Apnea",
+    "module": "Physiology",
+    "tags": "Lecture #145",
+    "path": "content/json/cv145.file.js",
+    "readingTime": 17
+  },
+  {
     "id": "cv146",
     "title": "Lecture #146: Chest Radiography: The Basics",
     "module": "Radiology",
