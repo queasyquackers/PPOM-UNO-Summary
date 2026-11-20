@@ -2600,6 +2600,14 @@ window.receiveLectureIndex([
     "readingTime": 10
   },
   {
+    "id": "cv144",
+    "title": "Lecture #144: Clinical Overview of Pulmonary and Pleural Neoplasms",
+    "module": "Pathology",
+    "tags": "Lecture #144",
+    "path": "content/json/cv144.file.js",
+    "readingTime": 10
+  },
+  {
     "id": "cv145",
     "title": "Lecture #145: Sleep Physiology and Sleep Apnea",
     "module": "Physiology",
