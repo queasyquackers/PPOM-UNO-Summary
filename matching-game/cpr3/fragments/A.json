@@ -1,0 +1,1324 @@
+{
+  "drugs": [
+    {
+      "name": "Isoniazid",
+      "groups": [
+        "Antimycobacterials"
+      ],
+      "mechanism": "Prodrug activated by mycobacterial catalase-peroxidase (katG), then blocks mycolic acid synthesis; bactericidal. Resistance: katG mutation. Structurally similar to pyridoxine.",
+      "adverseEffects": "Peripheral neuritis from impaired vitamin B6 activation (prevent with pyridoxine 10-50 mg/day); hepatotoxicity from CYP2E1 metabolites, worse with alcohol, rifampin and pyrazinamide; lupus in slow acetylators",
+      "use": "Backbone of active TB therapy for all 6 months; taken alone daily for 9 months as one latent TB option; every prescription includes vitamin B6",
+      "lecture": "CV128",
+      "lectures": [
+        "CV128",
+        "CV131",
+        "CV138"
+      ]
+    },
+    {
+      "name": "Rifampin",
+      "groups": [
+        "Antimycobacterials"
+      ],
+      "mechanism": "Inhibits bacterial DNA-dependent RNA polymerase; resistance from an altered polymerase. Daily dosing; a strong CYP3A4 inducer; distributes widely into body fluids; covers gram-positive, gram-negative and acid-fast bacteria",
+      "adverseEffects": "Red-orange urine, tears and saliva (harmless once blood is excluded; shows adherence); hepatitis, worse with isoniazid or pyrazinamide; induces CYP3A4, so oral contraceptives and HIV drugs fail",
+      "use": "Four-drug TB therapy, then continued 4 more months; 4 months alone for latent TB; prophylaxis for close contacts of meningococcal or H. influenzae disease (dorm, jail), not meningitis treatment",
+      "lecture": "CV128",
+      "lectures": [
+        "CV128",
+        "CV131",
+        "CV138"
+      ]
+    },
+    {
+      "name": "Rifabutin",
+      "groups": [
+        "Antimycobacterials"
+      ],
+      "mechanism": "Same RNA polymerase target and red secretions as the parent rifamycin, but much weaker CYP induction; hepatotoxicity similar; reduce the dose when CrCl is below 30 mL/min",
+      "use": "Replaces the standard rifamycin in TB patients taking antiretroviral therapy, to avoid induction interactions; optional third drug for MAC in advanced HIV",
+      "lecture": "CV128",
+      "lectures": [
+        "CV128"
+      ]
+    },
+    {
+      "name": "Rifapentine",
+      "groups": [
+        "Antimycobacterials"
+      ],
+      "mechanism": "Rifamycin RNA polymerase inhibitor with a long half-life that allows once-weekly dosing; still a potent CYP inducer",
+      "use": "Weekly with isoniazid for 3 months as a latent TB option in HIV (CD4 < 200); part of the newer 4-month active TB regimen with isoniazid, pyrazinamide and moxifloxacin",
+      "lecture": "CV128",
+      "lectures": [
+        "CV128"
+      ]
+    },
+    {
+      "name": "Pyrazinamide",
+      "groups": [
+        "Antimycobacterials"
+      ],
+      "mechanism": "Prodrug: mycobacterial pyrazinamidase (pncA gene) makes pyrazinoic acid, which lowers intracellular pH and disrupts membranes and fatty acid synthesis; bactericidal on replicating bacilli. Resistance: pncA mutation",
+      "adverseEffects": "Marked hepatotoxicity (mitochondrial oxidative stress), additive with isoniazid and rifampin; hyperuricemia from reduced uric acid excretion, which can flare gout",
+      "use": "Only the first 2 months (8 weeks) of active TB therapy, then stopped; left out of the pregnancy regimen",
+      "lecture": "CV128",
+      "lectures": [
+        "CV128",
+        "CV131",
+        "CV138"
+      ]
+    },
+    {
+      "name": "Ethambutol",
+      "groups": [
+        "Antimycobacterials"
+      ],
+      "mechanism": "Inhibits mycobacterial arabinosyl transferase (encoded by emb), disrupting the cell envelope; bacteriostatic. Resistance: emb gene mutation",
+      "adverseEffects": "Optic neuritis with loss of red-green color discrimination (patients report any vision change); hyperuricemia from increased renal uric acid recovery, which can flare gout",
+      "use": "Fourth drug of the 2-month intensive TB phase and kept in the pregnancy regimen; partner to a macrolide for MAC in advanced HIV; also treats M. kansasii",
+      "lecture": "CV128",
+      "lectures": [
+        "CV128",
+        "CV131",
+        "CV138"
+      ]
+    },
+    {
+      "name": "Aminoglycosides (amikacin, streptomycin, gentamicin)",
+      "groups": [
+        "Antimycobacterials",
+        "Antimicrobials"
+      ],
+      "mechanism": "Irreversible 30S binding blocks initiation and causes mRNA misreading; the only bactericidal protein synthesis inhibitors; concentration-dependent killing and a post-antibiotic effect allow 48-72 h dosing",
+      "adverseEffects": "Nephrotoxicity (nonoliguric acute tubular necrosis; follow BUN and creatinine); ototoxicity of hearing and balance, worse with loop diuretics or cisplatin; neuromuscular blockade in myasthenia; fetal CN VIII damage",
+      "use": "Parenteral second-line drug for MDR-TB; plague and tularemia; with ampicillin for a neonatal UTI; added for gram-negative cover in severe HAP; synergy with a beta-lactam against S. aureus",
+      "lecture": "CV128",
+      "lectures": [
+        "CV128",
+        "CV131",
+        "CV138",
+        "CV139",
+        "CV153",
+        "CV160"
+      ]
+    },
+    {
+      "name": "Fluoroquinolones (moxifloxacin, levofloxacin, ciprofloxacin)",
+      "groups": [
+        "Antimycobacterials",
+        "Antimicrobials"
+      ],
+      "mechanism": "Block DNA gyrase and topoisomerase IV, so supercoiled DNA cannot relax and reseal; bactericidal. Resistance: altered gyrase, reduced uptake. Inhibit CYP1A2; chelated by antacids, iron and dairy",
+      "adverseEffects": "QT prolongation; tendon rupture (older adults, rheumatoid arthritis, glucocorticoids); damage to growing cartilage, so avoided in children and pregnancy; photosensitivity; raise theophylline levels",
+      "use": "MDR-TB and the newer 4-month TB regimen; 'respiratory' agents for CAP with comorbidities or admission; anthrax; drug of choice for bacterial prostatitis (2-4 weeks); 3-day course for cystitis",
+      "lecture": "CV128",
+      "lectures": [
+        "CV128",
+        "CV130",
+        "CV131",
+        "CV138",
+        "CV141",
+        "CV153"
+      ]
+    },
+    {
+      "name": "Ethionamide",
+      "groups": [
+        "Antimycobacterials"
+      ],
+      "mechanism": "Blocks mycolic acid synthesis like the first-line cell-wall prodrug, but is activated by the EthA enzyme rather than katG catalase-peroxidase",
+      "use": "Second-line TB drug that can still work after isoniazid fails because of a katG mutation",
+      "lecture": "CV128",
+      "lectures": [
+        "CV128",
+        "CV138"
+      ]
+    },
+    {
+      "name": "Cycloserine",
+      "groups": [
+        "Antimycobacterials"
+      ],
+      "mechanism": "Inhibits alanine racemase (L-alanine to D-alanine), the cell-wall step before the D-Ala-D-Ala stage; also inhibits GABA transaminase and acts as a partial NMDA agonist",
+      "adverseEffects": "Neurologic toxicity: enhanced excitatory glutamate signaling from partial NMDA agonism can provoke seizures; the neurologic effects limit its use",
+      "use": "Reserved for multidrug-resistant TB",
+      "lecture": "CV128",
+      "lectures": [
+        "CV128",
+        "CV138"
+      ]
+    },
+    {
+      "name": "Linezolid",
+      "groups": [
+        "Antimycobacterials",
+        "Antimicrobials"
+      ],
+      "mechanism": "Binds the 50S subunit (23S rRNA) to block protein synthesis; resistance from a 23S rRNA gene mutation; 100% oral bioavailability, so IV and oral doses are interchangeable",
+      "adverseEffects": "Weak MAO inhibition: serotonin syndrome with SSRIs or other serotonergic drugs; bone marrow suppression from impaired mitochondrial ATP production",
+      "use": "VRE, MRSA (including MRSA HAP/VAP as the alternative to vancomycin) and penicillin-resistant pneumococcus; the third drug of BPaL for MDR/XDR-TB",
+      "lecture": "CV128",
+      "lectures": [
+        "CV128",
+        "CV138",
+        "CV139"
+      ]
+    },
+    {
+      "name": "Bedaquiline",
+      "groups": [
+        "Antimycobacterials"
+      ],
+      "mechanism": "Inhibits mycobacterial ATP synthase, killing both replicating and nonreplicating bacilli; CYP-metabolized (drug interactions); long half-life",
+      "adverseEffects": "Boxed warning for QT prolongation, so avoid in long QT; hepatotoxicity from the oxidative stress of its M2 metabolite",
+      "lecture": "CV128",
+      "lectures": [
+        "CV128",
+        "CV138"
+      ]
+    },
+    {
+      "name": "Pretomanid",
+      "groups": [
+        "Antimycobacterials"
+      ],
+      "mechanism": "Nitroimidazole prodrug activated by the mycobacterial Ddn nitroreductase; releases nitric oxide and reactive nitrogen species that break down the mycolic acid wall; long half-life",
+      "adverseEffects": "Peripheral neuropathy, QT prolongation and hepatotoxicity; baseline and regular ECGs and periodic liver tests through the roughly 6-month course",
+      "use": "Pulmonary XDR-TB, or MDR-TB that is treatment-intolerant or nonresponsive, given with bedaquiline and linezolid for about 6 months",
+      "lecture": "CV128",
+      "lectures": [
+        "CV128",
+        "CV138"
+      ]
+    },
+    {
+      "name": "Azithromycin",
+      "groups": [
+        "Antimycobacterials",
+        "Antimicrobials"
+      ],
+      "mechanism": "Macrolide: binds 50S and blocks translocation; bacteriostatic. Long half-life allows once-daily dosing; no CYP inhibition. Resistance: efflux, 23S rRNA methylation",
+      "use": "MAC in advanced HIV (CD4 < 50) with ethambutol; Mycoplasma, Chlamydophila and Legionella pneumonia; pertussis; chlamydia cover beside IM ceftriaxone for gonorrhea; safe in pregnancy and children",
+      "lecture": "CV128",
+      "lectures": [
+        "CV128",
+        "CV130",
+        "CV138",
+        "CV141"
+      ]
+    },
+    {
+      "name": "Clarithromycin",
+      "groups": [
+        "Antimycobacterials"
+      ],
+      "mechanism": "Macrolide 50S translocation blocker dosed twice daily; inhibits CYP enzymes, so interactions; better absorbed and fewer GI effects than the oldest macrolide",
+      "use": "Alternative macrolide partner to ethambutol for MAC; more active against streptococci, staphylococci, H. pylori, Moraxella, Legionella and M. pneumoniae",
+      "lecture": "CV128",
+      "lectures": [
+        "CV128"
+      ]
+    },
+    {
+      "name": "Erythromycin",
+      "groups": [
+        "Antimicrobials"
+      ],
+      "mechanism": "The oldest macrolide: 50S translocation block, but needs several doses a day, causes more GI upset and inhibits CYP3A4",
+      "use": "Alternative to penicillin for streptococcal pharyngitis in a penicillin-allergic patient",
+      "lecture": "CV141",
+      "lectures": [
+        "CV141",
+        "CV128"
+      ]
+    },
+    {
+      "name": "Dapsone",
+      "groups": [
+        "Antimycobacterials"
+      ],
+      "mechanism": "PABA analog that inhibits dihydropteroate synthase; bacteriostatic. Resistance: altered dihydropteroate synthase, decreased uptake or increased PABA production",
+      "adverseEffects": "Acts like a sulfonamide: hemolysis with bite cells in G6PD deficiency, kernicterus in a neonate, rash up to Stevens-Johnson, crystalluria, interstitial nephritis; cross-allergy with sulfa drugs",
+      "use": "Hansen disease (leprosy); Pneumocystis prophylaxis in HIV; topical form for severe acne",
+      "lecture": "CV128",
+      "lectures": [
+        "CV128"
+      ]
+    },
+    {
+      "name": "Clofazimine",
+      "groups": [
+        "Antimycobacterials"
+      ],
+      "mechanism": "Lipophilic drug with long bactericidal action; binds guanine in mycobacterial DNA and suppresses T lymphocytes (anti-inflammatory); raises reactive oxygen species",
+      "adverseEffects": "Pinkish discoloration of skin and conjunctiva; GI upset including GI bleeding; QT prolongation; rare splenic rupture; not used in pregnancy",
+      "use": "Hansen disease; not stocked by pharmacies - the physician registers as an investigator with the National Hansen's Disease Program, which supplies it",
+      "lecture": "CV128",
+      "lectures": [
+        "CV128"
+      ]
+    },
+    {
+      "name": "Thalidomide",
+      "groups": [
+        "Antimycobacterials"
+      ],
+      "mechanism": "Lowers TNF-alpha and decreases angiogenesis; a racemic drug whose (S) enantiomer is the teratogen",
+      "adverseEffects": "Short or absent limb long bones (phocomelia) after first-trimester exposure; requires pregnancy tests at the start and during therapy and two forms of birth control",
+      "use": "Erythema nodosum leprosum, the severe inflammatory reaction of leprosy; multiple myeloma",
+      "lecture": "CV128",
+      "lectures": [
+        "CV128"
+      ]
+    },
+    {
+      "name": "Oseltamivir",
+      "groups": [
+        "Antivirals"
+      ],
+      "mechanism": "Oral prodrug; blood and tissue esterases form the active carboxylate, which blocks neuraminidase so new virions clump on the cell surface (influenza A and B); renally secreted, so adjust for renal impairment",
+      "adverseEffects": "Nausea and vomiting (taking it with food helps), headache, serious skin reactions; no metabolism-related drug interactions expected",
+      "use": "Drug of choice for influenza treatment and prophylaxis at any age, outpatient or inpatient, and in pregnancy; start within 48 hours; twice daily for 5 days",
+      "lecture": "CV150",
+      "lectures": [
+        "CV150",
+        "CV129"
+      ]
+    },
+    {
+      "name": "Zanamivir",
+      "groups": [
+        "Antivirals"
+      ],
+      "mechanism": "Neuraminidase inhibitor inhaled as a dry powder; low systemic absorption (about 4-17%), minimal metabolism, no renal dose adjustment listed",
+      "adverseEffects": "Bronchospasm in asthma or COPD (an inhaled powder that is not a bronchodilator); headache, sinusitis, dizziness, ear-nose-throat infections; oropharyngeal or facial edema",
+      "use": "Outpatient influenza treatment from age 7 and prophylaxis from age 5 in someone who can manage an inhaler; not recommended with underlying airway disease",
+      "lecture": "CV150",
+      "lectures": [
+        "CV150"
+      ]
+    },
+    {
+      "name": "Peramivir",
+      "groups": [
+        "Antivirals"
+      ],
+      "mechanism": "Neuraminidase inhibitor given intravenously, a single dose for outpatients; excreted unchanged by the kidney (renal dose adjustment); half-life about 20 h",
+      "adverseEffects": "Hyperglycemia, diarrhea or constipation, serious skin and hypersensitivity reactions; give only where infusion reactions can be treated",
+      "use": "Influenza in a patient who cannot take or absorb the oral first-line agent; treatment only, never prophylaxis",
+      "lecture": "CV150",
+      "lectures": [
+        "CV150"
+      ]
+    },
+    {
+      "name": "Baloxavir marboxil",
+      "groups": [
+        "Antivirals"
+      ],
+      "mechanism": "Prodrug that blocks the influenza PA cap-dependent endonuclease, so the virus cannot snatch capped host primers to start mRNA (A and B); half-life about 80 h, very large Vd; resistance from PA point mutations",
+      "adverseEffects": "Headache, diarrhea, nasopharyngitis, hypersensitivity; calcium-containing foods and mineral supplements chelate it in the gut; not recommended in pregnancy for lack of data",
+      "use": "One oral dose within 48 h for uncomplicated influenza or post-exposure prophylaxis (age 12+ at risk of complications, 5+ if otherwise healthy); higher BMI needs a higher dose",
+      "lecture": "CV150",
+      "lectures": [
+        "CV150"
+      ]
+    },
+    {
+      "name": "Amantadine",
+      "groups": [
+        "Antivirals"
+      ],
+      "mechanism": "Blocks the influenza A M2 proton channel, preventing uncoating; enters the CNS well; excreted about 90% unchanged in urine; half-life 12-18 h in young adults, 29 h in older adults, 8 days in ESRD and not dialyzable",
+      "adverseEffects": "Difficulty concentrating, agitation, insomnia, confusion and hallucinations, especially in the elderly; worse with antihistamines and psychotropic or anticholinergic drugs",
+      "use": "No longer used for influenza (high-level resistance, influenza A only); still used for Parkinson disease symptoms",
+      "lecture": "CV150",
+      "lectures": [
+        "CV150"
+      ]
+    },
+    {
+      "name": "Rimantadine",
+      "groups": [
+        "Antivirals"
+      ],
+      "mechanism": "M2 proton channel blocker (influenza A only) with low CNS distribution and extensive hepatic hydroxylation and conjugation; excreted as metabolites; half-life highly variable (13-65 h)",
+      "adverseEffects": "CNS effects such as insomnia and poor concentration occur less often than with its brain-penetrating relative",
+      "lecture": "CV150",
+      "lectures": [
+        "CV150"
+      ]
+    },
+    {
+      "name": "Nirmatrelvir with ritonavir (Paxlovid)",
+      "groups": [
+        "Antivirals"
+      ],
+      "mechanism": "Inhibits the SARS-CoV-2 3CL protease, so viral polyproteins are not cleaved; the co-packaged pill inhibits CYP3A4 so the antiviral is not inactivated (pharmacokinetic booster)",
+      "adverseEffects": "Bad taste (dysgeusia), nausea, diarrhea, rash; liver enzyme rise and hypersensitivity from the booster; boxed warning for major CYP3A4 drug-drug interactions; renal dose adjustment",
+      "use": "Preferred oral antiviral for mild-moderate COVID-19 in a high-risk outpatient (12+), within 5 days of symptoms after an interaction check; no second course for rebound",
+      "lecture": "CV150",
+      "lectures": [
+        "CV150",
+        "CV138"
+      ]
+    },
+    {
+      "name": "Remdesivir",
+      "groups": [
+        "Antivirals"
+      ],
+      "mechanism": "Adenosine nucleotide analog prodrug, triphosphorylated and incorporated by the viral RNA-dependent RNA polymerase; the chain stops two or three nucleotides later (delayed chain termination)",
+      "adverseEffects": "Severe bradycardia (mechanism unknown); reversible aminotransferase rise; hypersensitivity, anaphylaxis, angioedema; hyperglycemia; chloroquine or hydroxychloroquine lowers its effect",
+      "use": "IV for COVID-19 in hospitalized patients not on mechanical ventilation (usually 5 days) or high-risk outpatients (3 days); infants of 3 kg and up; only where infusion reactions can be treated",
+      "lecture": "CV150",
+      "lectures": [
+        "CV150",
+        "CV138"
+      ]
+    },
+    {
+      "name": "Molnupiravir",
+      "groups": [
+        "Antivirals"
+      ],
+      "mechanism": "Oral prodrug of NHC; the viral RdRp takes up NHC triphosphate in place of cytidine or uridine, so copies pile up mutations until the RNA is nonviable (lethal mutagenesis, viral error catastrophe)",
+      "adverseEffects": "Rash, hypersensitivity, anaphylaxis; teratogenicity and fetal loss in animals (contraception during and 4 days after); bone and cartilage growth concerns under 18",
+      "use": "Alternative oral agent for mild-moderate COVID-19 in high-risk adults when the preferred agent cannot be used; shortens recovery but does not reduce hospitalization",
+      "lecture": "CV150",
+      "lectures": [
+        "CV150",
+        "CV138"
+      ]
+    },
+    {
+      "name": "Tecovirimat",
+      "groups": [
+        "Antivirals"
+      ],
+      "mechanism": "Stops newly made orthopoxvirus particles from being released from infected cells",
+      "use": "FDA-approved for smallpox; used off-label for severe mpox alongside supportive care and pain control",
+      "lecture": "CV138",
+      "lectures": [
+        "CV138"
+      ]
+    },
+    {
+      "name": "Vancomycin",
+      "groups": [
+        "Antimicrobials"
+      ],
+      "mechanism": "Glycopeptide that binds the D-alanine-D-alanine end of peptidoglycan precursors, blocking cell wall polymer assembly after the alanine racemase step; resistance now seen in E. faecium and some S. aureus",
+      "use": "IV for MRSA, including MRSA HAP/VAP; given orally, with fidaxomicin as the other first-line choice, for C. difficile colitis; with imipenem and an aminoglycoside for severe HAP",
+      "lecture": "CV138",
+      "lectures": [
+        "CV138",
+        "CV139",
+        "CV128",
+        "CV140"
+      ]
+    },
+    {
+      "name": "Trimethoprim-sulfamethoxazole (TMP-SMX)",
+      "groups": [
+        "Antimicrobials"
+      ],
+      "mechanism": "Sequential folate blockade: the sulfonamide (a PABA analog) inhibits dihydropteroate synthase and its partner inhibits dihydrofolate reductase, so no tetrahydrofolate for DNA synthesis",
+      "use": "3 days for uncomplicated cystitis (10-14 if complicated); drug of choice for Pneumocystis pneumonia; sinusitis or epiglottitis in penicillin allergy or suspected S. aureus",
+      "lecture": "CV153",
+      "lectures": [
+        "CV153",
+        "CV137",
+        "CV141",
+        "CV136",
+        "CV128",
+        "CV143"
+      ]
+    },
+    {
+      "name": "Penicillin and aminopenicillins (amoxicillin, ampicillin)",
+      "groups": [
+        "Antimicrobials"
+      ],
+      "mechanism": "Beta-lactams that inhibit the transpeptidases (PBPs) cross-linking peptidoglycan; useless against wall-less Mycoplasma and against MRSA's mecA-encoded PBP2a; clavulanate added against beta-lactamase",
+      "use": "Strep pharyngitis with 4 Centor points (no test needed); first-line bacterial sinusitis and healthy-outpatient CAP; actinomycosis; 7 days for bacteriuria in pregnancy; neonatal UTI with gentamicin",
+      "lecture": "CV141",
+      "lectures": [
+        "CV141",
+        "CV153",
+        "CV139",
+        "CV140",
+        "CV160",
+        "CV130",
+        "CV131",
+        "CV138",
+        "CV128"
+      ]
+    },
+    {
+      "name": "Third-generation cephalosporins (ceftriaxone, cefotaxime)",
+      "groups": [
+        "Antimicrobials"
+      ],
+      "mechanism": "Beta-lactam transpeptidase (PBP) inhibitors with broad gram-negative reach; resistance now spreading in E. coli, K. pneumoniae and gonococci; enterococci are intrinsically resistant",
+      "use": "Empiric bacterial meningitis; IM dose for gonorrhea; febrile infant UTI (IM or IV); epiglottitis; inpatient CAP with a macrolide; acute pyelonephritis",
+      "lecture": "CV141",
+      "lectures": [
+        "CV141",
+        "CV128",
+        "CV138",
+        "CV139",
+        "CV140",
+        "CV153",
+        "CV160"
+      ]
+    },
+    {
+      "name": "Carbapenems (imipenem, meropenem)",
+      "groups": [
+        "Antimicrobials"
+      ],
+      "mechanism": "Strongest beta-lactams; Enterobacterales resist them via efflux pumps, lower outer-membrane permeability and, above all, KPC, NDM and VIM carbapenemases that clavulanate barely blocks",
+      "use": "Last-resort agents for resistant Klebsiella, E. coli and Pseudomonas; antipseudomonal choice for HAP/VAP; kept in combination regimens for resistant Enterobacterales when the MIC is 4 or less",
+      "lecture": "CV138",
+      "lectures": [
+        "CV138",
+        "CV139",
+        "CV153"
+      ]
+    },
+    {
+      "name": "Doxycycline (tetracyclines)",
+      "groups": [
+        "Antimicrobials"
+      ],
+      "mechanism": "Binds the 30S subunit and blocks aminoacyl-tRNA attachment, so the peptide chain cannot elongate; bacteriostatic; binds divalent and trivalent cations",
+      "adverseEffects": "Binds calcium in growing bone and teeth: irreversible tooth staining and effects on growth, so not used in pregnancy or young children",
+      "use": "Q fever; Mycoplasma pneumonia (no cell wall, so beta-lactams fail); outpatient CAP in a patient without comorbidities",
+      "lecture": "CV131",
+      "lectures": [
+        "CV131",
+        "CV130",
+        "CV141",
+        "CV128"
+      ]
+    },
+    {
+      "name": "Metronidazole",
+      "groups": [
+        "Antimicrobials"
+      ],
+      "mechanism": "Nitroimidazole that generates nitrogen free radicals; the newer nitroimidazole for drug-resistant TB was built on the same chemistry",
+      "use": "Anaerobic coverage, paired with a beta-lactam, for aspiration pneumonia; second line for C. difficile colitis after oral vancomycin or fidaxomicin",
+      "lecture": "CV139",
+      "lectures": [
+        "CV139",
+        "CV138",
+        "CV128"
+      ]
+    },
+    {
+      "name": "Amphotericin B",
+      "groups": [
+        "Antimicrobials"
+      ],
+      "mechanism": "Binds ergosterol, the sterol fungal membranes use in place of cholesterol, disrupting the membrane; Candida lusitaniae and C. guilliermondii resist it",
+      "adverseEffects": "Nephrotoxicity, additive with aminoglycosides and cisplatin; low selective toxicity because fungal and human cells are both eukaryotic, so side effects are common",
+      "use": "Severe or disseminated endemic mycoses, including talaromycosis; with flucytosine for cryptococcal meningitis; with surgical debridement for mucormycosis; disseminated candidiasis",
+      "lecture": "CV136",
+      "lectures": [
+        "CV136",
+        "CV137",
+        "CV128",
+        "CV140"
+      ]
+    },
+    {
+      "name": "Albuterol (SABA)",
+      "groups": [
+        "Airway"
+      ],
+      "mechanism": "Inhaled beta-2 adrenergic agonist that relaxes bronchial smooth muscle within minutes; the effect lasts only a few hours",
+      "use": "Rescue inhaler for acute symptoms in asthma and in every COPD group; puffs before exercise for exercise-induced bronchoconstriction; given during spirometry to test reversibility (12% and 200 mL)",
+      "lecture": "CV119",
+      "lectures": [
+        "CV119",
+        "CV120",
+        "CV121"
+      ]
+    },
+    {
+      "name": "LABA (salmeterol)",
+      "groups": [
+        "Airway"
+      ],
+      "mechanism": "Long-acting inhaled beta-2 adrenergic agonist: 12 hours or more of bronchodilation, so it is a maintenance drug, not a rescue drug",
+      "use": "With an inhaled corticosteroid for asthma maintenance; in COPD alone for GOLD group A or combined with a long-acting muscarinic antagonist for groups B and E",
+      "lecture": "CV119",
+      "lectures": [
+        "CV119",
+        "CV121"
+      ]
+    },
+    {
+      "name": "LAMA / SAMA (tiotropium, ipratropium)",
+      "groups": [
+        "Airway"
+      ],
+      "mechanism": "Block M3 muscarinic receptors on airway smooth muscle, removing vagal cholinergic bronchoconstriction; long-acting forms last about 24 hours",
+      "use": "COPD maintenance alone for GOLD group A or paired with a long-acting beta-2 agonist for groups B and E; the short-acting form is a COPD rescue option alongside albuterol",
+      "lecture": "CV119",
+      "lectures": [
+        "CV119"
+      ]
+    },
+    {
+      "name": "Inhaled corticosteroids (ICS)",
+      "groups": [
+        "Airway"
+      ],
+      "adverseEffects": "Oral thrush (oropharyngeal candidiasis): the patient should rinse the mouth after every dose",
+      "use": "Asthma maintenance, combined with a LABA; the combination can now also serve as rescue; certain ones are acceptable in pregnancy",
+      "lecture": "CV121",
+      "lectures": [
+        "CV121",
+        "CV119"
+      ]
+    },
+    {
+      "name": "Montelukast",
+      "groups": [
+        "Airway"
+      ],
+      "mechanism": "Blocks leukotriene receptors, countering the leukotriene rise that follows COX-1 inhibition (less PGE2, more leukotrienes, mucosal edema)",
+      "use": "Asthma with nasal polyps that worsens 20 minutes to 3 hours after taking aspirin or other NSAIDs",
+      "lecture": "CV119",
+      "lectures": [
+        "CV119",
+        "CV121"
+      ]
+    },
+    {
+      "name": "Omalizumab",
+      "groups": [
+        "Airway"
+      ],
+      "mechanism": "Monoclonal antibody against IgE, so less IgE arms the high-affinity receptors on mast cells that allergens cross-link to release histamine",
+      "use": "Specialist-started add-on for severe allergic (IgE-mediated) asthma that stays uncontrolled despite adherence, good inhaler technique and a confirmed diagnosis",
+      "lecture": "CV121",
+      "lectures": [
+        "CV121"
+      ],
+      "avoid": {
+        "use": [
+          "Mepolizumab / reslizumab"
+        ]
+      }
+    },
+    {
+      "name": "Mepolizumab / reslizumab",
+      "groups": [
+        "Airway"
+      ],
+      "mechanism": "Monoclonal antibodies against IL-5, the cytokine that recruits eosinophils into the airway",
+      "use": "Specialist-started add-on for severe eosinophil-driven asthma that stays uncontrolled despite adherence, good inhaler technique and a confirmed diagnosis",
+      "lecture": "CV121",
+      "lectures": [
+        "CV121"
+      ],
+      "avoid": {
+        "use": [
+          "Omalizumab"
+        ]
+      }
+    },
+    {
+      "name": "Heliox",
+      "groups": [
+        "Airway"
+      ],
+      "mechanism": "Helium mixed with oxygen is less dense than air, so it gets past severely narrowed, swollen airways with less resistance",
+      "use": "Status asthmaticus not responding to IV steroids, inhaled beta-2 agonists and IV magnesium, as a bridge while CPAP/BiPAP or intubation is considered",
+      "lecture": "CV121",
+      "lectures": [
+        "CV121"
+      ]
+    },
+    {
+      "name": "Systemic corticosteroids (prednisone)",
+      "groups": [
+        "Airway"
+      ],
+      "adverseEffects": "Suppress host defenses, raising the risk of invasive aspergillosis in immunocompromised patients; a cause of metabolic alkalosis",
+      "use": "IV in status asthmaticus; oral, with albuterol, for a COPD exacerbation; first line for progressive sarcoidosis; desquamative interstitial pneumonia and eosinophilic pneumonias",
+      "lecture": "CV121",
+      "lectures": [
+        "CV121",
+        "CV119",
+        "CV117",
+        "CV116",
+        "CV126",
+        "CV137",
+        "CV139"
+      ]
+    },
+    {
+      "name": "Supplemental O2",
+      "groups": [
+        "Airway"
+      ],
+      "adverseEffects": "In a chronic CO2 retainer, too much can push PaCO2 higher and depress breathing (taught as loss of hypoxic drive), so titrate to a modest saturation",
+      "use": "The one COPD therapy proven to improve mortality and survival; in an exacerbation, give only enough to correct the hypoxemia",
+      "lecture": "CV119",
+      "lectures": [
+        "CV119",
+        "CV126"
+      ]
+    },
+    {
+      "name": "ACE inhibitors and ARBs",
+      "groups": [
+        "Kidney & bladder"
+      ],
+      "mechanism": "Block the renin-angiotensin system, lowering intraglomerular pressure and hyperfiltration, which slows CKD progression",
+      "adverseEffects": "Hyperkalemia and a creatinine rise: recheck creatinine and potassium 2-4 weeks after starting or changing the dose; with ACE blockade, a dry cough for months that can also worsen incontinence",
+      "use": "Diabetic CKD once proteinuria appears, and to slow CKD in general; avoid in stage 4-5 CKD and renal artery stenosis; guidelines often have them held before iodinated contrast",
+      "lecture": "CV159",
+      "lectures": [
+        "CV159",
+        "CV121",
+        "CV163",
+        "CV151",
+        "CV143"
+      ]
+    },
+    {
+      "name": "SGLT2 inhibitors (empagliflozin, dapagliflozin)",
+      "groups": [
+        "Kidney & bladder"
+      ],
+      "mechanism": "Block sodium-glucose cotransport in the proximal tubule, lowering blood glucose and reducing glomerular hyperfiltration",
+      "use": "Slow CKD progression (strongest evidence alongside RAS blockade); in CKD with heart failure they help regardless of albuminuria; in type 2 diabetes, fewer cardiovascular events and weight loss",
+      "lecture": "CV159",
+      "lectures": [
+        "CV159"
+      ]
+    },
+    {
+      "name": "Thiazide diuretics",
+      "groups": [
+        "Kidney & bladder"
+      ],
+      "mechanism": "Block the NaCl cotransporter of the distal convoluted tubule and increase distal calcium reabsorption, so less calcium reaches the urine",
+      "use": "Prevent recurrent calcium oxalate and calcium phosphate stones, with a low-sodium (not low-calcium) diet; stopped at least 24 h before iodinated contrast",
+      "lecture": "CV162",
+      "lectures": [
+        "CV162",
+        "CV159"
+      ]
+    },
+    {
+      "name": "Potassium citrate",
+      "groups": [
+        "Kidney & bladder"
+      ],
+      "mechanism": "Complexes calcium in the urine, lowering calcium saturation, crystal growth and aggregation; the body's own stone inhibitor is low in renal tubular acidosis, strenuous exercise and high-animal-protein diets",
+      "use": "Calcium phosphate stones, alongside a low-sodium diet and a thiazide",
+      "lecture": "CV162",
+      "lectures": [
+        "CV162"
+      ]
+    },
+    {
+      "name": "Allopurinol",
+      "groups": [
+        "Kidney & bladder"
+      ],
+      "mechanism": "Xanthine oxidase inhibitor: less uric acid is made, so less reaches the urine",
+      "use": "Prevents and treats radiolucent stones that form when urine pH is below 5.5, together with fluids and urine alkalinization",
+      "lecture": "CV162",
+      "lectures": [
+        "CV162"
+      ]
+    },
+    {
+      "name": "Alpha-1 blockers (tamsulosin)",
+      "groups": [
+        "Kidney & bladder"
+      ],
+      "mechanism": "Block smooth-muscle adrenergic receptors: less ureteral spasm, more pressure above a stone, a relaxed ureter at and below it; also lower the raised adrenergic tone of prostatic and urethral muscle",
+      "adverseEffects": "Urethral relaxation can cause or worsen urinary leakage, so they appear on the list of drugs that cause incontinence",
+      "use": "Medical expulsive therapy for a ureteral stone larger than 5 mm and up to 10 mm, with pain control and straining the urine",
+      "lecture": "CV162",
+      "lectures": [
+        "CV162",
+        "CV163"
+      ]
+    },
+    {
+      "name": "Tiopronin / penicillamine",
+      "groups": [
+        "Kidney & bladder"
+      ],
+      "mechanism": "Chelating agents that bind cystine and help dissolve the stones",
+      "use": "Inherited stone disease with hexagonal crystals that keeps recurring despite a low-sodium diet, high fluids and urine alkalinization",
+      "lecture": "CV162",
+      "lectures": [
+        "CV162"
+      ]
+    },
+    {
+      "name": "NSAIDs (ketorolac, ibuprofen)",
+      "groups": [
+        "Kidney & bladder"
+      ],
+      "mechanism": "Nonselective COX inhibition blocks prostaglandin synthesis, so the kidney loses vasodilatory prostaglandins; COX-2-selective drugs spare the gut but still affect the COX-2-rich kidney",
+      "adverseEffects": "Ischemic AKI with papillary necrosis at high doses; hypersensitivity interstitial nephritis, sometimes with minimal change nephrotic syndrome; hyperkalemia in CKD; bronchospasm in aspirin-sensitive asthma",
+      "use": "First-line analgesic for renal colic (opioids only occasionally, e.g. significant renal impairment); avoided in CKD and stopped 24-48 h before iodinated contrast",
+      "lecture": "CV162",
+      "lectures": [
+        "CV162",
+        "CV155",
+        "CV159",
+        "CV119",
+        "CV143",
+        "CV121",
+        "CV148"
+      ]
+    },
+    {
+      "name": "Oxybutynin / tolterodine",
+      "groups": [
+        "Kidney & bladder"
+      ],
+      "mechanism": "Anticholinergics that block muscarinic receptors on the detrusor, damping the involuntary contractions of an overactive bladder",
+      "adverseEffects": "Dry mouth, constipation, dry eyes, blurred vision, orthostatic hypotension, fast heart rate; cross the blood-brain barrier (caution in the elderly); avoid in heart disease and closed-angle glaucoma",
+      "use": "Urge incontinence from detrusor overactivity after lifestyle measures; the urge component of mixed incontinence",
+      "lecture": "CV163",
+      "lectures": [
+        "CV163"
+      ]
+    },
+    {
+      "name": "Vaginal / topical estrogen",
+      "groups": [
+        "Kidney & bladder"
+      ],
+      "mechanism": "Restores the hormone-dependent support of the bladder neck and urethral tissues that weakens after menopause ('plumps the area back up')",
+      "use": "Stress incontinence in a perimenopausal or recently postmenopausal woman; cream for symptomatic labial adhesions in a girl, for 2-3 weeks until they separate",
+      "lecture": "CV163",
+      "lectures": [
+        "CV163",
+        "CV160"
+      ]
+    },
+    {
+      "name": "OnabotulinumtoxinA (botulinum toxin)",
+      "groups": [
+        "Kidney & bladder"
+      ],
+      "mechanism": "Injected into the detrusor, it blocks acetylcholine release and relaxes the bladder",
+      "adverseEffects": "Can paralyze the bladder, so the patient may have to self-catheterize",
+      "use": "Urge incontinence that persists despite lifestyle change and anticholinergic drugs; sacral nerve modulation and bladder augmentation are the other later options",
+      "lecture": "CV163",
+      "lectures": [
+        "CV163"
+      ]
+    },
+    {
+      "name": "Desmopressin (DDAVP)",
+      "groups": [
+        "Kidney & bladder"
+      ],
+      "mechanism": "Synthetic vasopressin analog that concentrates the urine and cuts nighttime urine production; it controls bedwetting but does not cure it",
+      "adverseEffects": "Hyponatremia, especially in elderly patients on other medications, sometimes enough to need admission",
+      "use": "Primary nocturnal enuresis when dry nights matter, such as sleepovers (the bed-wetting alarm is the cure); nighttime incontinence in adults, with caution",
+      "lecture": "CV161",
+      "lectures": [
+        "CV161",
+        "CV163"
+      ]
+    },
+    {
+      "name": "Sodium bicarbonate",
+      "groups": [
+        "Acid-base"
+      ],
+      "mechanism": "Extra buffer outside cells pulls H+ out in exchange for K+ moving in; used to alkalinize the urine (not the serum), so some toxins leave faster and some stones form less readily",
+      "adverseEffects": "Not for DKA (worse outcomes in studies), rhabdomyolysis (fewer myoglobin casts but no AKI or mortality benefit) or simply an unwanted pH number",
+      "use": "Hyperkalemia; tricyclic and other Na+ channel blocker overdose; urine alkalinization in salicylate overdose; oral alkali in CKD acidosis to keep serum HCO3- above 23",
+      "lecture": "CV126",
+      "lectures": [
+        "CV126",
+        "CV159"
+      ]
+    },
+    {
+      "name": "Acetazolamide",
+      "groups": [
+        "Acid-base"
+      ],
+      "mechanism": "Carbonic anhydrase inhibitor: bicarbonate is lost in the urine, producing a metabolic acidosis that drives ventilation up",
+      "use": "Prophylaxis before a high-altitude ascent; very severe metabolic alkalosis; considered when respiratory alkalosis dominates early salicylate poisoning",
+      "lecture": "CV126",
+      "lectures": [
+        "CV126"
+      ]
+    },
+    {
+      "name": "Fomepizole",
+      "groups": [
+        "Acid-base"
+      ],
+      "mechanism": "Inhibits alcohol dehydrogenase, so ethylene glycol and methanol are converted to their toxic acids slowly enough for the liver to cope",
+      "use": "Antidote for antifreeze or methanol poisoning; without it, IV (or even oral) ethanol competes for the enzyme; add thiamine and pyridoxine, and dialysis in severe cases",
+      "lecture": "CV126",
+      "lectures": [
+        "CV126"
+      ]
+    }
+  ],
+  "genes": [
+    {
+      "name": "Asthma",
+      "gene": "IL-4/5/9/13 cluster, beta-adrenergic and glucocorticoid receptor genes",
+      "chromosome": "5q",
+      "role": "Susceptibility locus linked to total IgE and atopy; 12q is the other locus taught, for atopy and airway hyperresponsiveness",
+      "lecture": "CV121",
+      "lectures": [
+        "CV121"
+      ]
+    },
+    {
+      "name": "Familial idiopathic pulmonary fibrosis",
+      "gene": "TERT and TERC mutations (telomerase components)",
+      "role": "Inherited telomerase defects (about 15% of familial cases) shorten telomeres, so alveolar epithelial cells die and cannot regenerate",
+      "lecture": "CV116",
+      "lectures": [
+        "CV116"
+      ]
+    },
+    {
+      "name": "Familial idiopathic pulmonary fibrosis",
+      "gene": "PARN or RTEL1 mutation",
+      "role": "Other telomere-maintenance genes found mutated in affected families, alongside the two telomerase-component genes",
+      "lecture": "CV116",
+      "lectures": [
+        "CV116"
+      ]
+    },
+    {
+      "name": "Idiopathic pulmonary fibrosis",
+      "gene": "MUC5B promoter polymorphism",
+      "role": "Mucin gene variant that raises mucus secretion and alters mucociliary clearance; present in about one third of cases",
+      "lecture": "CV116",
+      "lectures": [
+        "CV116"
+      ],
+      "avoid": [
+        "Familial idiopathic pulmonary fibrosis"
+      ]
+    },
+    {
+      "name": "Familial idiopathic pulmonary fibrosis",
+      "gene": "Surfactant protein C (SP-C) mutation",
+      "role": "Encoded by SFTPC; surfactant-gene mutations cause rare familial forms, and SP-C is one of the factors that affect telomere length and function",
+      "lecture": "CV116",
+      "lectures": [
+        "CV116"
+      ]
+    },
+    {
+      "name": "Pulmonary Langerhans cell histiocytosis",
+      "gene": "BRAF mutation (in some cases)",
+      "role": "Found in some smokers in their late 30s to early 40s with grooved, CD1a-positive cells; symptoms usually fade after quitting",
+      "lecture": "CV117",
+      "lectures": [
+        "CV117"
+      ]
+    },
+    {
+      "name": "Pulmonary alveolar proteinosis (hereditary)",
+      "gene": "GM-CSF gene mutations (neonates)",
+      "role": "Macrophages need GM-CSF signaling to clear surfactant; 90% of cases are instead autoimmune, with antibodies against GM-CSF",
+      "lecture": "CV117",
+      "lectures": [
+        "CV117"
+      ]
+    },
+    {
+      "name": "Lung adenocarcinoma",
+      "gene": "Activating EGFR mutation",
+      "role": "Gain-of-function kinase mutation in about 15%, typical of women who never smoked; specific kinase inhibitors prolong survival",
+      "lecture": "CV142",
+      "lectures": [
+        "CV142"
+      ]
+    },
+    {
+      "name": "Lung adenocarcinoma",
+      "gene": "KRAS mutation",
+      "role": "In about 30%, more often in smokers; usually a worse prognosis, with targeted treatment still emerging",
+      "lecture": "CV142",
+      "lectures": [
+        "CV142"
+      ]
+    },
+    {
+      "name": "Lung adenocarcinoma",
+      "gene": "ALK or ROS1 gain-of-function alteration",
+      "role": "Receptor tyrosine kinase genes listed with EGFR, MET and RET as gain-of-function drivers of the glandular, TTF-1-positive type",
+      "lecture": "CV142",
+      "lectures": [
+        "CV142"
+      ]
+    },
+    {
+      "name": "Small cell lung carcinoma",
+      "gene": "TP53 and RB1 loss of function",
+      "role": "Both tumor suppressors lost in this neuroendocrine tumor with the strongest tie to smoking",
+      "lecture": "CV142",
+      "lectures": [
+        "CV142"
+      ]
+    },
+    {
+      "name": "Small cell lung carcinoma",
+      "gene": "MYC amplification",
+      "role": "MYC-family amplification joins the two tumor-suppressor losses in the chromogranin- and synaptophysin-positive tumor",
+      "lecture": "CV142",
+      "lectures": [
+        "CV142"
+      ]
+    },
+    {
+      "name": "Squamous cell lung carcinoma",
+      "gene": "TP53 mutation (highest rate of any lung cancer type)",
+      "role": "The single most important gene for this central, keratinizing, smoking-related tumor",
+      "lecture": "CV142",
+      "lectures": [
+        "CV142"
+      ]
+    },
+    {
+      "name": "Squamous cell lung carcinoma",
+      "gene": "CDKN2 tumor suppressor mutation (about 65%)",
+      "role": "Cell-cycle brake lost in most of these keratinizing tumors, alongside p53",
+      "lecture": "CV142",
+      "lectures": [
+        "CV142"
+      ],
+      "avoid": [
+        "Malignant mesothelioma"
+      ]
+    },
+    {
+      "name": "Squamous cell lung carcinoma",
+      "gene": "FGFR1 amplification",
+      "role": "Growth factor receptor gain in the central, PTHrP-secreting tumor type",
+      "lecture": "CV142",
+      "lectures": [
+        "CV142"
+      ]
+    },
+    {
+      "name": "Malignant mesothelioma",
+      "gene": "CDKN2A loss",
+      "chromosome": "9p",
+      "role": "About 80% delete this region and lose the tumor suppressor; the pleural tumor encases the lung decades after the exposure",
+      "lecture": "CV142",
+      "lectures": [
+        "CV142"
+      ]
+    },
+    {
+      "name": "Malignant mesothelioma",
+      "gene": "NF2 or BAP1 mutation",
+      "role": "Further tumor-suppressor mutations found beside the common 9p loss in the pleural tumor that follows occupational fiber exposure",
+      "lecture": "CV142",
+      "lectures": [
+        "CV142"
+      ]
+    },
+    {
+      "name": "Solitary fibrous tumor of the pleura",
+      "gene": "NAB2-STAT6 fusion gene",
+      "role": "Unique fusion in a usually benign, pedunculated, keratin-negative mass that has nothing to do with asbestos",
+      "lecture": "CV142",
+      "lectures": [
+        "CV142"
+      ]
+    },
+    {
+      "name": "Alport syndrome",
+      "gene": "COL4A5 mutation (X-linked dominant, about 85%)",
+      "role": "Alpha-5 chain of GBM type IV collagen: underproduction and faulty network assembly; hematuria with hearing loss and eye findings, onset at 5-20 years",
+      "lecture": "CV149",
+      "lectures": [
+        "CV149"
+      ]
+    },
+    {
+      "name": "Alport syndrome",
+      "gene": "COL4A3 mutation (autosomal recessive form)",
+      "role": "Alpha-3 chain of GBM type IV collagen; the less common recessive form of the same collagen disease with hearing and eye involvement",
+      "lecture": "CV149",
+      "lectures": [
+        "CV149"
+      ]
+    },
+    {
+      "name": "Thin basement membrane disease",
+      "gene": "COL4A3 or COL4A4 anomaly (autosomal dominant)",
+      "role": "Alpha-3 or alpha-4 collagen chain change, dominant inheritance: hematuria runs in the family, without hearing or eye loss or familial kidney failure",
+      "lecture": "CV149",
+      "lectures": [
+        "CV149"
+      ]
+    },
+    {
+      "name": "Thrombotic thrombocytopenic purpura",
+      "gene": "ADAMTS13 mutation (inherited; less common than autoantibody)",
+      "role": "Metalloproteinase that trims von Willebrand factor multimers; most cases are acquired autoantibodies, treated with plasma exchange",
+      "lecture": "CV151",
+      "lectures": [
+        "CV151"
+      ]
+    },
+    {
+      "name": "Atypical hemolytic uremic syndrome",
+      "gene": "Inherited complement factor H deficiency",
+      "role": "About half of cases: complement activation goes unchecked and injures endothelium, with no diarrheal prodrome and a worse course",
+      "lecture": "CV151",
+      "lectures": [
+        "CV151"
+      ]
+    },
+    {
+      "name": "Atypical hemolytic uremic syndrome",
+      "gene": "Complement factor I or CD46 (membrane cofactor protein) mutation",
+      "role": "Loss of another complement regulator, the explanation in patients without the commoner regulator defect",
+      "lecture": "CV151",
+      "lectures": [
+        "CV151"
+      ]
+    },
+    {
+      "name": "Clear cell renal cell carcinoma",
+      "gene": "VHL loss",
+      "chromosome": "3p",
+      "role": "Tumor suppressor that normally targets HIF-1; with it gone, HIF-1 drives VEGF and angiogenesis in this proximal tubule tumor",
+      "lecture": "CV156",
+      "lectures": [
+        "CV156"
+      ],
+      "avoid": [
+        "Von Hippel-Lindau syndrome"
+      ]
+    },
+    {
+      "name": "Von Hippel-Lindau syndrome",
+      "gene": "Germline VHL tumor suppressor mutation (autosomal dominant)",
+      "role": "Renal cysts and bilateral clear cell tumors with cerebellar and retinal hemangioblastomas and pheochromocytoma",
+      "lecture": "CV156",
+      "lectures": [
+        "CV156"
+      ]
+    },
+    {
+      "name": "Papillary renal cell carcinoma",
+      "gene": "Trisomies 7, 16 and 17; loss of Y in men (sporadic)",
+      "role": "Distal convoluted tubule tumor with foamy macrophages in its fibrovascular cores; the commonest kidney cancer in dialysis patients",
+      "lecture": "CV156",
+      "lectures": [
+        "CV156"
+      ],
+      "avoid": [
+        "Hereditary papillary renal cell carcinoma"
+      ]
+    },
+    {
+      "name": "Hereditary papillary renal cell carcinoma",
+      "gene": "MET proto-oncogene",
+      "chromosome": "7",
+      "role": "Autosomal dominant gain of the growth-factor receptor gene, giving multiple bilateral tumors",
+      "lecture": "CV156",
+      "lectures": [
+        "CV156"
+      ]
+    },
+    {
+      "name": "Xp11 translocation renal cell carcinoma",
+      "gene": "TFE3 fusion (overexpressed transcription factor)",
+      "role": "Genetically distinct subtype of young patients; clear cytoplasm with papillary architecture",
+      "lecture": "CV156",
+      "lectures": [
+        "CV156"
+      ]
+    },
+    {
+      "name": "Tuberous sclerosis",
+      "gene": "TSC1 or TSC2 loss of function (autosomal dominant)",
+      "role": "Tumor suppressors that together restrain mTOR; renal angiomyolipomas in 25-50%, cardiac rhabdomyomas, retinal hamartomas, skin angiofibromas",
+      "lecture": "CV156",
+      "lectures": [
+        "CV156"
+      ],
+      "chromosome": "9q (TSC1), 16p (TSC2)"
+    },
+    {
+      "name": "WAGR syndrome",
+      "gene": "WT1 deletion",
+      "chromosome": "11p13",
+      "role": "About 33% develop a childhood renal embryonal tumor; absent irises, genital anomalies and developmental delay come with the deletion",
+      "lecture": "CV156",
+      "lectures": [
+        "CV156"
+      ]
+    },
+    {
+      "name": "Denys-Drash syndrome",
+      "gene": "WT1 mutation",
+      "role": "About 90% develop a childhood renal embryonal tumor; with gonadal dysgenesis and renal failure from diffuse mesangial sclerosis",
+      "lecture": "CV156",
+      "lectures": [
+        "CV156"
+      ]
+    },
+    {
+      "name": "Beckwith-Wiedemann syndrome",
+      "gene": "Region alteration (taught as a deletion)",
+      "chromosome": "11p15",
+      "role": "Organomegaly, macroglossia, hemihypertrophy, omphalocele and enlarged adrenals, with raised childhood renal tumor risk",
+      "lecture": "CV156",
+      "lectures": [
+        "CV156"
+      ]
+    },
+    {
+      "name": "Wilms tumor with focal anaplasia",
+      "gene": "TP53 (p53) mutation",
+      "role": "Seen in the undifferentiated, pleomorphic areas; these children tend to resist chemotherapy",
+      "lecture": "CV156",
+      "lectures": [
+        "CV156"
+      ],
+      "avoid": [
+        "Invasive urothelial carcinoma of the renal pelvis",
+        "Urothelial carcinoma in situ (flat pathway)"
+      ]
+    },
+    {
+      "name": "Noninvasive papillary urothelial carcinoma",
+      "gene": "FGFR3 amplification with activating RAS and PI3-kinase mutations",
+      "role": "Gain in growth factor receptor signaling; these tumors recur often but progress to muscle invasion in only about 20%",
+      "lecture": "CV157",
+      "lectures": [
+        "CV157"
+      ]
+    },
+    {
+      "name": "Urothelial carcinoma in situ (flat pathway)",
+      "gene": "TP53 and RB pathway mutations",
+      "role": "High-grade, multifocal, confined to the epithelium at first, yet the precursor of most muscle-invasive bladder cancer",
+      "lecture": "CV157",
+      "lectures": [
+        "CV157"
+      ],
+      "avoid": [
+        "Small cell lung carcinoma"
+      ]
+    },
+    {
+      "name": "Superficial urothelial carcinoma of the renal pelvis",
+      "gene": "Chromosome 9p deletion",
+      "role": "Seen in noninvasive tumors of the pelvicalyceal lining; smoking is the big risk factor",
+      "lecture": "CV156",
+      "lectures": [
+        "CV156"
+      ],
+      "avoid": [
+        "Malignant mesothelioma"
+      ]
+    },
+    {
+      "name": "Invasive urothelial carcinoma of the renal pelvis",
+      "gene": "17p deletion with TP53 mutation",
+      "role": "Marks the tumors that have grown beyond the lining of the upper collecting system",
+      "lecture": "CV156",
+      "lectures": [
+        "CV156"
+      ],
+      "avoid": [
+        "Urothelial carcinoma in situ (flat pathway)"
+      ]
+    }
+  ],
+  "correlates": [
+    {
+      "name": "Isoniazid hepatotoxicity",
+      "presentation": "52-year-old man who drinks 6 beers a day; positive IGRA before adalimumab, so he began one daily oral drug plus pyridoxine 7 weeks ago for a planned 9 months. 1 week of nausea, anorexia, dark urine and right upper quadrant ache; T 37.4 C, scleral icterus, tender liver edge",
+      "workup": "ALT 840 U/L, AST 710 U/L, alkaline phosphatase 160 U/L, total bilirubin 4.6 mg/dL, INR 1.3; hepatitis A, B and C serologies negative; liver tests were normal at baseline",
+      "management": "Stop the drug at once; trend liver tests and INR; no alcohol; refer for transplant evaluation if liver failure develops. Prevention: baseline and periodic liver tests, extra caution with alcohol or when given with rifampin and pyrazinamide",
+      "lecture": "CV128",
+      "lectures": [
+        "CV128"
+      ]
+    },
+    {
+      "name": "Isoniazid peripheral neuropathy",
+      "presentation": "50-year-old woman 6 weeks into four-drug therapy for cavitary pulmonary TB; no vitamin supplement was prescribed. 2 weeks of burning and numbness in both feet, worse at night. Vitals normal, lungs clear, decreased pinprick sensation over the toes; vision and color testing normal",
+      "management": "Add pyridoxine (vitamin B6) 10-50 mg/day and continue TB therapy; B6 belongs on every prescription of the katG-activated drug, which blocks B6 activation and so lowers glutamate-to-GABA conversion",
+      "lecture": "CV128",
+      "lectures": [
+        "CV128"
+      ]
+    },
+    {
+      "name": "Serotonin syndrome from linezolid and an SSRI",
+      "presentation": "34-year-old woman on sertraline for depression began an oral antibiotic 2 days ago for vancomycin-resistant enterococcal bacteremia. Now agitated, sweating, with diarrhea; T 39.6 C, HR 128, BP 150/90; tremor, myoclonic jerks, brisk reflexes and sustained ankle clonus",
+      "management": "Treat as an emergency: stop both serotonergic drugs, cool and give benzodiazepines for agitation as needed, and start cyproheptadine (a 5-HT2A antagonist)",
+      "lecture": "CV128",
+      "lectures": [
+        "CV128"
+      ]
+    },
+    {
+      "name": "Thalidomide embryopathy",
+      "presentation": "Newborn of a 24-year-old woman from Brazil treated for leprosy; she took an oral TNF-lowering, anti-angiogenic drug for painful red skin nodules in the first trimester, before she knew she was pregnant. Hands arise near the shoulders; long bones of all four limbs short or absent",
+      "management": "Prevention: negative pregnancy tests before and during therapy and two forms of birth control for any patient who could conceive; never use the drug for first-trimester morning sickness",
+      "lecture": "CV128",
+      "lectures": [
+        "CV128"
+      ]
+    },
+    {
+      "name": "Zanamivir bronchospasm",
+      "presentation": "45-year-old man with COPD (FEV1 55% predicted) and 1 day of fever, myalgia and dry cough took his first dose of an inhaled dry-powder influenza antiviral. Within 30 minutes: chest tightness, RR 26, SpO2 88% on room air, prolonged expiration with diffuse wheezes",
+      "management": "Stop the inhaled powder and give a short-acting bronchodilator; switch to oral oseltamivir. This inhaled antiviral is not recommended in asthma or COPD",
+      "lecture": "CV150",
+      "lectures": [
+        "CV150"
+      ]
+    },
+    {
+      "name": "Neuraminidase-inhibitor neuropsychiatric events",
+      "presentation": "11-year-old boy with rapid-antigen-positive influenza started a twice-daily oral antiviral suspension yesterday. Tonight he is confused and frightened, sees insects on the wall and tried to run outside. T 38.4 C, HR 110, neck supple, no focal deficits; it clears within hours",
+      "management": "Stop the drug and observe him in a safe setting; these reactions are rare, transient and of unestablished cause, mostly in children and adolescents, and came to light in post-marketing surveillance",
+      "lecture": "CV150",
+      "lectures": [
+        "CV150"
+      ]
+    },
+    {
+      "name": "Amantadine neurotoxicity",
+      "presentation": "80-year-old man with Parkinson disease on hemodialysis for ESRD takes a renally cleared antiparkinsonian drug at his usual dose; diphenhydramine was added for sleep. Over 1 day he is suddenly not making sense, agitated and hallucinating. T 36.8 C, no focal deficits",
+      "management": "Stop the drug and the antihistamine and support him while it clears slowly (half-life about 8 days in ESRD; dialysis does not remove it). Sudden onset in an older patient: think drug, not age",
+      "lecture": "CV150",
+      "lectures": [
+        "CV150"
+      ]
+    }
+  ]
+}

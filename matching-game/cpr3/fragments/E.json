@@ -1,0 +1,812 @@
+{
+  "correlates": [
+    {
+      "name": "Minimal change disease",
+      "presentation": "6-year-old boy, 10 days after a cold: puffy eyes on waking that fade by evening, now swollen legs and belly and frothy urine. BP 96/60. Dipstick 4+ protein, no blood. Albumin 1.6 g/dL, cholesterol 380 mg/dL, creatinine 0.4 mg/dL.",
+      "workup": "Urine protein is almost all albumin (selective). If biopsied: normal glomeruli on light microscopy, negative immunofluorescence, and foot processes fused into one sheet on EM with no deposits",
+      "management": "Oral corticosteroids without a biopsy, then a taper; biopsy only for frequent relapses, steroid resistance or hypertension. New fever with belly pain: sepsis workup and IV antibiotics for pneumococcal peritonitis",
+      "lecture": "CV148",
+      "lectures": [
+        "CV148",
+        "CV147",
+        "CV161"
+      ]
+    },
+    {
+      "name": "Focal segmental glomerulosclerosis",
+      "presentation": "44-year-old Black man, homeless, injects heroin: 2 months of frothy urine and leg swelling. BP 162/98. UA 4+ protein, small blood, few WBCs. Creatinine 2.1 mg/dL, albumin 2.2 g/dL, 24-h protein 7 g. HIV test negative.",
+      "workup": "Non-selective proteinuria. Biopsy: in only some glomeruli, part of the tuft is scarred with glassy hyaline deposits; IF negative except IgM and C3 in the scars; EM shows effacement without deposits",
+      "lecture": "CV148",
+      "lectures": [
+        "CV148",
+        "CV147"
+      ]
+    },
+    {
+      "name": "Collapsing FSGS",
+      "presentation": "31-year-old Black man off antiretroviral therapy for 2 years (CD4 90/uL): 3 weeks of fast-worsening leg and scrotal swelling and frothy urine. UA 4+ protein, 24-h protein 14 g. Creatinine 1.2 rising to 3.4 mg/dL over 6 weeks.",
+      "workup": "Biopsy, PAS: glomerular tufts shrunken and retracted with closed capillary loops, capped by enlarged, crowded podocytes and parietal epithelial cells",
+      "lecture": "CV148",
+      "lectures": [
+        "CV148"
+      ]
+    },
+    {
+      "name": "Membranous nephropathy",
+      "presentation": "44-year-old man with chronic hepatitis B: 6 weeks of weight gain, frothy urine, pitting edema and ascites with a right upper quadrant ache. BP 146/90. UA 4+ protein, no RBC casts. 24-h protein 8 g, albumin 1.9 g/dL. Now sudden left flank pain and hematuria.",
+      "workup": "Doppler: left renal vein clot. Biopsy: uniformly thick capillary walls, no extra cells; granular IgG and C3 along the loops; subepithelial deposits with GBM projections between them. Primary cases: IgG to the PLA2 receptor",
+      "management": "Look for and treat a secondary cause first: stop NSAIDs or captopril, treat hepatitis B or C, screen for lung or colon cancer and melanoma, test for lupus. Steroids do not change survival",
+      "lecture": "CV148",
+      "lectures": [
+        "CV148",
+        "CV147",
+        "CV155"
+      ]
+    },
+    {
+      "name": "Diabetic nephropathy",
+      "presentation": "66-year-old woman with type 2 diabetes for 25 years who stopped seeing doctors: weight gain, swelling to the thighs and worsening vision. BP 158/92, HbA1c 10.4%. UA heavy protein, slight blood. Albumin 2.1 g/dL, lipids high, PT/INR normal.",
+      "workup": "Urine albumin first rose into the microalbumin range, then became heavy proteinuria. Biopsy: round PAS- and trichrome-positive mesangial nodules, glassy hyaline arteriolar walls, thick GBM; nonspecific IF",
+      "lecture": "CV148",
+      "lectures": [
+        "CV148",
+        "CV147"
+      ],
+      "avoid": [
+        "Advanced CKD with volume overload and uremia"
+      ]
+    },
+    {
+      "name": "Renal AL amyloidosis",
+      "presentation": "56-year-old woman followed for an M protein on serum electrophoresis, with free light chains in her urine: 2 months of frothy urine and ankle swelling. BP 128/78. UA 4+ protein, no blood. 24-h protein 9 g, albumin 2.0 g/dL.",
+      "workup": "Biopsy: amorphous pink deposits in the mesangium and vessel walls, salmon-pink with Congo red and green under polarized light; immunostain lambda-positive, kappa-negative; 8-10 nm fibrils on EM",
+      "lecture": "CV148",
+      "lectures": [
+        "CV148",
+        "CV147"
+      ]
+    },
+    {
+      "name": "Membranoproliferative GN type I",
+      "presentation": "56-year-old man with untreated hepatitis C: weight gain, ascites, right upper quadrant pain, leg swelling and dark, frothy urine. BP 164/100. UA blood with RBC casts, 3.7 g/day protein. Creatinine 1.8 mg/dL.",
+      "workup": "Cryoglobulins in serum. Biopsy: thick capillary walls with extra mesangial and endocapillary cells, GBM doubled on silver stain; granular C3, IgG, C1q and C4; subendothelial and mesangial deposits",
+      "lecture": "CV148",
+      "lectures": [
+        "CV148",
+        "CV147"
+      ]
+    },
+    {
+      "name": "Dense deposit disease (MPGN type II)",
+      "presentation": "13-year-old girl with no recent sore throat or skin infection: 3 weeks of dark, frothy urine and a puffy face. BP 148/94. UA RBCs, RBC casts, 3 g/day protein. Creatinine 1.4 mg/dL. C3 low, C4 normal, ASO negative; C3 still low 4 months later.",
+      "workup": "Low C3, factor B and properdin with normal C1 and C4; C3 nephritic factor in serum. Biopsy: GBM doubled on silver stain; only C3 and properdin on IF; a ribbon of electron-opaque material inside the GBM",
+      "lecture": "CV148",
+      "lectures": [
+        "CV148"
+      ]
+    },
+    {
+      "name": "IgA nephropathy",
+      "presentation": "12-year-old boy with swollen legs and dark urine starting 2 days into a cold; two similar episodes after colds last year. BP 142/90. UA many RBCs, RBC casts, some protein and WBCs. C3 normal. Creatinine 0.8 mg/dL.",
+      "workup": "Serum IgA high, C3 normal, ASO negative. If biopsied: mesangial expansion and extra mesangial cells on PAS, granular mesangial IgA with C3 and properdin, electron-dense deposits in the mesangium",
+      "management": "In a child with recurrent gross hematuria after colds, observe without a routine biopsy; follow BP, creatinine and proteinuria, since a high creatinine, BP over 140/90 and proteinuria beyond 6 months predict progression",
+      "lecture": "CV149",
+      "lectures": [
+        "CV149",
+        "CV147",
+        "CV161"
+      ]
+    },
+    {
+      "name": "Poststreptococcal glomerulonephritis",
+      "presentation": "10-year-old with dark red urine and less of it; untreated sore throat with fever 2 weeks ago. Puffy eyes. Temp 101 F, BP 140/90. UA RBC casts, WBCs, protein. BUN 38 mg/dL, creatinine 1.6 mg/dL.",
+      "workup": "C3 low with normal C4; ASO and anti-DNase B high (anti-hyaluronidase after a skin infection); positive throat culture or rapid antigen test. Biopsy not needed; if done, large subepithelial deposits beneath the foot processes",
+      "management": "Supportive: fluid restriction, diuretics and antihypertensives with strict intake and output. Antibiotics do not prevent the kidney disease. Recheck C3 at 6-8 weeks; if it is still low, look for another diagnosis",
+      "lecture": "CV149",
+      "lectures": [
+        "CV149",
+        "CV147",
+        "CV161"
+      ]
+    },
+    {
+      "name": "Anti-GBM disease (Goodpasture syndrome)",
+      "presentation": "28-year-old man with 3 weeks of worsening hemoptysis, dyspnea and chest pain; no fever, night sweats, sinus or nasal symptoms. Chest film: diffuse consolidations. UA dysmorphic RBCs and RBC casts. Creatinine 1.1 rising to 3.9 mg/dL in 10 days.",
+      "workup": "Serum IgG against the alpha-3 chain of type IV collagen; ANCA negative. Biopsy: crescents in most glomeruli; smooth linear IgG and C3 along the GBM; no electron-dense deposits on EM",
+      "management": "Urgent exchange plasmapheresis to strip out the circulating IgG and replace it with donor plasma",
+      "lecture": "CV149",
+      "lectures": [
+        "CV149",
+        "CV147"
+      ]
+    },
+    {
+      "name": "Granulomatosis with polyangiitis",
+      "presentation": "45-year-old woman with 4 months of recurrent sinusitis, bloody nasal crusts and nosebleeds, now coughing blood. Perforated nasal septum. BP 150/92. UA RBC casts, 1+ protein. Creatinine 2.6 mg/dL. No asthma; eosinophils normal.",
+      "workup": "PR3 (cytoplasmic-pattern) ANCA positive; IgG to GBM collagen negative. Biopsy: crescents with necrotizing small-vessel inflammation; little or no immunoglobulin or complement on IF; wrinkled, ruptured GBM on EM",
+      "lecture": "CV149",
+      "lectures": [
+        "CV149",
+        "CV147"
+      ]
+    },
+    {
+      "name": "Lupus nephritis, class III-IV",
+      "presentation": "32-year-old woman with a red rash across her cheeks and nasal bridge, painful wrists and knees, and fatigue for 2 months; now dark urine and ankle edema. BP 152/96. UA dysmorphic RBCs and RBC casts. BUN 40 mg/dL, creatinine 2.0 mg/dL.",
+      "workup": "ANA positive, then anti-dsDNA positive; C3 and C4 both low. Biopsy: thick, rigid capillary walls, mesangial and endocapillary hypercellularity, crescents; granular IgG, IgA, IgM, C3 and C1q; subendothelial deposits",
+      "lecture": "CV149",
+      "lectures": [
+        "CV149"
+      ]
+    },
+    {
+      "name": "Lupus nephritis, class V",
+      "presentation": "29-year-old woman followed 3 years for joint pain, a facial rash and anti-dsDNA antibodies develops leg swelling and frothy urine over 6 weeks. BP 134/86. UA 4+ protein, no RBC casts. 24-h protein 6 g, albumin 2.1 g/dL, creatinine 0.9 mg/dL.",
+      "workup": "C3 and C4 low. Biopsy: uniform GBM thickening with no extra glomerular cells; granular IgG, IgA, IgM, C3 and C1q along the capillary walls; subepithelial electron-dense deposits",
+      "lecture": "CV149",
+      "lectures": [
+        "CV149",
+        "CV148"
+      ]
+    },
+    {
+      "name": "Alport syndrome",
+      "presentation": "7-year-old boy whose grades improved after his teacher moved him to the front of the class; he often does not answer when spoken to. Maternal uncle started dialysis at 30. BP 112/70. UA many dysmorphic RBCs, RBC casts and some protein.",
+      "workup": "Audiogram: bilateral sensorineural hearing loss. Biopsy: interstitial foam cells on trichrome; EM shows the lamina densa split and laminated into interwoven strands; IF nonspecific",
+      "lecture": "CV149",
+      "lectures": [
+        "CV149",
+        "CV147",
+        "CV161"
+      ]
+    },
+    {
+      "name": "Thin basement membrane disease",
+      "presentation": "15-year-old boy has passed red urine now and then for a year. Hearing and vision normal; BP 114/70. UA 1+ blood, no protein, glucose or WBCs; creatinine 0.7 mg/dL. His mother and sister have the same urine finding and are otherwise well.",
+      "workup": "Repeat urinalyses: isolated hematuria, no proteinuria; normal creatinine. EM: diffuse, uniform attenuation of the GBM along every capillary loop, with the lamina densa not split",
+      "management": "No treatment needed: reassure the family that renal function usually stays normal, the outlook is excellent and progression to renal failure is not expected",
+      "lecture": "CV149",
+      "lectures": [
+        "CV149",
+        "CV161"
+      ]
+    },
+    {
+      "name": "Benign nephrosclerosis",
+      "presentation": "71-year-old Black man with 20 years of high blood pressure; no symptoms. BP 148/88 on two drugs. Creatinine crept from 1.3 to 1.8 mg/dL over 5 years. UA trace protein, no blood or casts. Ultrasound: both kidneys small and symmetric.",
+      "workup": "Nephrectomy or biopsy: finely granular cortical surface from subcapsular scars; arterioles with homogeneous pink hyaline walls and narrow lumens beside sclerosed glomeruli and atrophic tubules",
+      "lecture": "CV151",
+      "lectures": [
+        "CV151"
+      ]
+    },
+    {
+      "name": "Malignant hypertension (malignant nephrosclerosis)",
+      "presentation": "50-year-old Black man with untreated high BP: 2 days of severe headache, nausea, vomiting and blurred vision, now confused. BP 236/128. Both optic discs swollen with blurred margins. Creatinine 3.4 mg/dL (1.1 last year). UA blood and 2+ protein.",
+      "workup": "Biopsy: arterioles with concentric, laminated wall thickening from proliferating smooth muscle-like cells and reduplicated basement membrane, lumens nearly shut; small arteries with fibrinoid necrosis",
+      "management": "Treat as an emergency, but bring BP down in a controlled way over a few hours, not immediately to normal: an abrupt fall underperfuses the brain and other organs",
+      "lecture": "CV151",
+      "lectures": [
+        "CV151"
+      ]
+    },
+    {
+      "name": "Typical hemolytic uremic syndrome",
+      "presentation": "6-year-old ate undercooked burgers at a picnic; 5 days of cramps and bloody diarrhea, now pale, vomiting blood, barely urinating, with petechiae. BP 130/84. Hb 7.2 g/dL, platelets 38,000/uL, BUN 72 mg/dL, creatinine 3.1 mg/dL.",
+      "workup": "Smear: fragmented red cells (schistocytes), high reticulocyte count, low platelets; BUN and creatinine high; UA blood, protein and casts; stool grows E. coli O157:H7. Biopsy: glomerular capillaries plugged by fresh thrombi",
+      "management": "Supportive care: IV fluids, red cell transfusion and dialysis for renal failure. Do not give antibiotics - killing the bacteria all at once releases a large load of Shiga toxin",
+      "lecture": "CV151",
+      "lectures": [
+        "CV151",
+        "CV161"
+      ]
+    },
+    {
+      "name": "Atypical hemolytic uremic syndrome",
+      "presentation": "24-year-old man with no diarrhea has his third episode in 4 years of pallor, fatigue and falling urine output; his brother needed dialysis. Afebrile, neuro exam normal. BP 168/100. Hb 8.0 g/dL, schistocytes, platelets 60,000/uL, creatinine 4.2 mg/dL.",
+      "workup": "Stool negative for Shiga toxin; ADAMTS13 activity not severely reduced; complement factor H deficient (or factor I / CD46 mutation). Biopsy: thick capillary walls with split, reduplicated GBM, concentric arteriolar thickening, scarring",
+      "lecture": "CV151",
+      "lectures": [
+        "CV151"
+      ]
+    },
+    {
+      "name": "Thrombotic thrombocytopenic purpura",
+      "presentation": "31-year-old woman, 3 days of fever, headache, confusion and brief left arm weakness; pinpoint bleeding spots on her legs. Temp 101.3 F, BP 138/84. Hb 8.1 g/dL, schistocytes on smear, platelets 14,000/uL, creatinine 1.6 mg/dL. No diarrhea.",
+      "workup": "ADAMTS13 activity severely reduced, with an inhibitory autoantibody against it; schistocytes and very low platelets. Kidney, when involved: fibrin-stained thrombi in glomerular capillary loops",
+      "management": "Urgent plasma exchange to remove the autoantibody, replacing with fresh frozen plasma to restore working enzyme; recombinant ADAMTS13 can also supply the enzyme, mainly in the inherited form",
+      "lecture": "CV151",
+      "lectures": [
+        "CV151"
+      ]
+    },
+    {
+      "name": "Atherosclerotic renal artery stenosis",
+      "presentation": "68-year-old man with type 2 diabetes and 40 pack-years of smoking: BP now 178/102 despite three drugs. Bruit over the left flank and upper abdomen. Creatinine 1.5 mg/dL. Ultrasound: left kidney 8.5 cm, right 11.5 cm.",
+      "workup": "Plasma and left renal vein renin high; BP responds to an ACE inhibitor; arteriography localizes a plaque narrowing the left renal artery. Years untreated: shrunken left kidney, severe arteriolosclerosis on the right",
+      "management": "BP drugs and risk-factor control, plus a stent or surgical removal of the narrowed segment when it drives the BP: unlike the idiopathic majority of high BP (over 90%), this renovascular cause can be fixed",
+      "lecture": "CV151",
+      "lectures": [
+        "CV151"
+      ]
+    },
+    {
+      "name": "Fibromuscular dysplasia",
+      "presentation": "27-year-old woman who smokes: BP 172/108 at a clinic visit, confirmed twice and not controlled on two drugs; no family history of high BP, no diabetes. Bruit over the right upper abdomen. Creatinine 0.8 mg/dL.",
+      "workup": "High plasma renin; arteriography shows a narrowed renal artery. Artery wall on elastic stain: media markedly thickened by smooth muscle hyperplasia, elastic lamina disrupted, lumen narrowed",
+      "lecture": "CV151",
+      "lectures": [
+        "CV151"
+      ]
+    },
+    {
+      "name": "Renal infarction",
+      "presentation": "67-year-old man 3 weeks after a large anterior MI that left a poorly moving apical wall: sudden left flank pain. Afebrile, BP 150/90, left costovertebral angle tenderness. UA microscopic blood. Creatinine 1.2 mg/dL.",
+      "workup": "Echocardiogram: mural thrombus in the left ventricle. Pathology: pale, wedge-shaped zone of coagulative necrosis with its base at the cortex; dead tubules keep their outlines but have no nuclei, rimmed by inflammation",
+      "lecture": "CV151",
+      "lectures": [
+        "CV151"
+      ]
+    },
+    {
+      "name": "Atheroembolic renal disease",
+      "presentation": "74-year-old man with severe aortic atherosclerosis, 3 weeks after open repair of an abdominal aortic aneurysm without contrast: creatinine 1.1 rising to 2.9 mg/dL over 2 weeks. BP 162/94. No fever, no flank pain.",
+      "workup": "Biopsy: interlobar arteries plugged by fibrosing material holding empty, needle-shaped clefts where cholesterol dissolved during tissue processing",
+      "lecture": "CV151",
+      "lectures": [
+        "CV151"
+      ]
+    },
+    {
+      "name": "Sickle cell nephropathy",
+      "presentation": "22-year-old Black man with lifelong anemia and repeated admissions for bone pain: 2 days of gross hematuria; he has always passed large volumes and wakes to urinate at night. BP 118/72. Urine osmolality 280 mOsm/kg after overnight fluid restriction. Creatinine 0.7 mg/dL.",
+      "workup": "Urine fails to concentrate; hematuria. Pathology: patchy necrosis of the renal papillae, which turn yellow-white, from red cells occluding vessels in the hypoxic, hypertonic medulla",
+      "lecture": "CV151",
+      "lectures": [
+        "CV151",
+        "CV155"
+      ]
+    },
+    {
+      "name": "Ischemic acute tubular injury",
+      "presentation": "58-year-old man, 2 days after a massive upper GI bleed with shock (systolic BP under 80 for 3 hours before transfusion): urine output 250 mL/day despite fluids. BP now 132/78. Creatinine 1.0 rising to 4.6 mg/dL, K 5.9 mEq/L. UA shed epithelial cells and casts.",
+      "workup": "Biopsy (rarely needed): patchy necrosis of short stretches of proximal straight tubule and thick ascending limb with skip areas between; detached cells and casts plug distal tubules and collecting ducts; glomeruli spared",
+      "lecture": "CV155",
+      "lectures": [
+        "CV155"
+      ]
+    },
+    {
+      "name": "Acute drug-induced tubulointerstitial nephritis",
+      "presentation": "52-year-old woman started trimethoprim-sulfamethoxazole for a skin infection 15 days ago: fever, a diffuse red rash and less urine. Temp 100.9 F, BP 128/80. Eosinophils 11%. Creatinine 0.9 rising to 2.8 mg/dL. UA WBCs without bacteria, trace protein.",
+      "workup": "Biopsy: interstitial edema with lymphocytes, macrophages, neutrophils and many eosinophils; leukocytes infiltrating tubule walls (tubulitis), worst in the medulla where the drug concentrates",
+      "management": "Stop the culprit drug at once (sulfonamides, methicillin, ampicillin, rifampin, diuretics, cimetidine are the usual ones) and do not re-expose",
+      "lecture": "CV155",
+      "lectures": [
+        "CV155"
+      ]
+    },
+    {
+      "name": "Chronic pyelonephritis",
+      "presentation": "30-year-old woman, urinary infections since childhood, when a voiding study showed urine rising from the bladder up both ureters. Now asymptomatic; BP 152/96; creatinine 1.0 to 1.7 mg/dL in 3 years. UA 1+ protein, few WBCs, broad casts. Ultrasound: small, scarred right kidney.",
+      "workup": "Imaging: asymmetric kidneys with coarse U-shaped cortical scars over blunted, dilated, deformed calyces. Histology: lymphocytes and monocytes in the interstitium; dilated tubules filled with homogeneous eosinophilic casts",
+      "lecture": "CV155",
+      "lectures": [
+        "CV155",
+        "CV157",
+        "CV160"
+      ]
+    },
+    {
+      "name": "NSAID papillary necrosis",
+      "presentation": "63-year-old woman with knee osteoarthritis has taken high-dose ibuprofen plus naproxen for months; a week of vomiting and poor intake, now visible blood in her urine. Afebrile, no rash, BP 104/66. Eosinophils normal. Creatinine 1.0 rising to 2.7 mg/dL.",
+      "workup": "UA blood, no WBC casts or eosinophils. Pathology: dark, infarcted zones at the tips of the renal papillae with hyperemic borders, from lost vasodilatory prostaglandins and medullary ischemia",
+      "management": "Stop every cyclooxygenase inhibitor, including selective COX-2 drugs, which still harm the COX-2-rich kidney",
+      "lecture": "CV155",
+      "lectures": [
+        "CV155"
+      ]
+    },
+    {
+      "name": "NSAID-induced TIN with minimal change disease",
+      "presentation": "58-year-old man taking naproxen daily for 8 months for back pain: 3 weeks of leg swelling, frothy urine and falling urine output. Afebrile, no rash. BP 132/84. Creatinine 3.2 mg/dL (0.9 last year). UA 4+ protein, WBCs, no RBC casts. 24-h protein 9 g.",
+      "workup": "Biopsy: interstitial edema with lymphocytes and eosinophils and tubulitis; glomeruli normal on light microscopy, IF negative, and EM shows diffuse foot process effacement without deposits",
+      "lecture": "CV155",
+      "lectures": [
+        "CV155",
+        "CV148"
+      ]
+    },
+    {
+      "name": "Acute uric acid nephropathy",
+      "presentation": "9-year-old boy with newly diagnosed lymphoma, 2 days into induction chemotherapy: urine output falls to 200 mL/day. BP 118/76. Serum urate 18 mg/dL; creatinine 0.5 rising to 3.1 mg/dL. Urine pH 5.0 with many crystals.",
+      "workup": "Serum urate 18 mg/dL with low-pH urine full of crystals. Pathology: precipitated crystals plugging the collecting tubules and obstructing nephrons, from purines released by lysed tumor cells",
+      "lecture": "CV155",
+      "lectures": [
+        "CV155"
+      ]
+    },
+    {
+      "name": "Chronic gouty nephropathy",
+      "presentation": "64-year-old man with 25 years of attacks of a hot, swollen big toe and chalky lumps over both elbows; now gets up twice a night to urinate. BP 146/90. Creatinine 1.4 rising to 2.2 mg/dL over 4 years. UA no blood, trace protein.",
+      "workup": "Biopsy, medulla: needle-shaped birefringent monosodium urate crystals in distal tubules, collecting ducts and interstitium, ringed by elongated macrophages and foreign-body giant cells; cortical atrophy and scarring",
+      "lecture": "CV155",
+      "lectures": [
+        "CV155"
+      ]
+    },
+    {
+      "name": "Angiomyolipoma",
+      "presentation": "45-year-old woman with no skin findings or family history: sudden severe right flank pain and lightheadedness. BP 88/56, HR 124. Hb 8.9 g/dL. CT: 9 cm right renal mass containing fat, with blood spreading around the kidney.",
+      "workup": "Resected mass is yellow-tan; histology shows abnormal thick-walled blood vessels, sheets of smooth muscle and mature fat cells that look like large empty round spaces",
+      "lecture": "CV156",
+      "lectures": [
+        "CV156"
+      ],
+      "avoid": {
+        "workup": [
+          "Tuberous sclerosis"
+        ]
+      }
+    },
+    {
+      "name": "Tuberous sclerosis",
+      "presentation": "4-year-old boy whose mother felt a lump in his belly. Exam: pale oval patches on his back, small red papules over his nose and cheeks, a firm left flank mass. BP 104/66. Ultrasound: bright, echogenic masses in both kidneys.",
+      "workup": "Biopsy: abnormal thick-walled vessels, smooth muscle and fat cells seen as empty round holes; germline loss-of-function variant in a tumor-suppressor gene, autosomal dominant",
+      "lecture": "CV156",
+      "lectures": [
+        "CV156"
+      ]
+    },
+    {
+      "name": "Oncocytoma",
+      "presentation": "63-year-old man: a CT done for gallstones finds an asymptomatic, well-circumscribed, homogeneous 5 cm left renal mass with a central scar. No hematuria, flank pain or weight loss. Hb 14.2 g/dL, calcium normal, BP 128/80.",
+      "workup": "Resection: encapsulated, homogeneous mahogany-brown mass with a central scar; uniform round cells with granular, intensely pink cytoplasm; EM shows cells packed with mitochondria",
+      "lecture": "CV156",
+      "lectures": [
+        "CV156"
+      ]
+    },
+    {
+      "name": "Clear cell renal cell carcinoma",
+      "presentation": "58-year-old man, 40 pack-years: painless visible hematuria and dull left flank pain, with 4 kg weight loss. New left scrotal varicocele. BP 150/92. Hb 18.9 g/dL, calcium 9.4 mg/dL.",
+      "workup": "CT: upper-pole mass with tumor growing into the left renal vein and IVC. Gross: bright yellow with hemorrhage, necrosis, cysts. Histology: polygonal cells with empty-looking cytoplasm (glycogen, lipid) in a delicate branching capillary net",
+      "management": "Partial or radical nephrectomy, chosen by tumor size and comorbidities",
+      "lecture": "CV156",
+      "lectures": [
+        "CV156"
+      ],
+      "avoid": {
+        "workup": [
+          "Von Hippel-Lindau syndrome"
+        ]
+      }
+    },
+    {
+      "name": "Papillary renal cell carcinoma",
+      "presentation": "59-year-old man on hemodialysis for 11 years: routine ultrasound shows many cysts in both shrunken kidneys and a new 4 cm hemorrhagic, cystic mass in the right kidney. Intermittent microscopic hematuria. BP 138/84.",
+      "workup": "Histology: tumor cells covering papillae whose cores are stuffed with foamy macrophages, with scattered psammoma bodies; trisomy 7",
+      "lecture": "CV156",
+      "lectures": [
+        "CV156"
+      ]
+    },
+    {
+      "name": "Von Hippel-Lindau syndrome",
+      "presentation": "34-year-old woman with bilateral renal masses and renal cysts on CT; a cerebellar vascular tumor was removed 3 years ago and she has a retinal vascular tumor. Her father had an adrenal tumor that caused spells of headache, sweating and very high BP.",
+      "workup": "Renal tumors: cells with empty-looking cytoplasm in a delicate vascular network. Germline loss of a chromosome 3p tumor suppressor that normally targets HIF-1, so VEGF-driven angiogenesis rises",
+      "lecture": "CV156",
+      "lectures": [
+        "CV156"
+      ]
+    },
+    {
+      "name": "Wilms tumor",
+      "presentation": "3-year-old girl whose father felt a large lump in her belly during a bath; she seems well. BP 128/84, high for age. Smooth, firm left flank mass that stops short of the midline. UA microscopic blood. CT: 10 cm circumscribed solid mass arising within the left kidney.",
+      "workup": "Resection: soft tan-gray mass with a smooth pseudocapsule; histology in three parts: sheets of small, crowded blue blastemal cells, loose or myxoid stroma, and primitive tubules",
+      "management": "Nephrectomy plus chemotherapy; prognosis is good even with lung metastases at diagnosis, but anaplasia (TP53) predicts resistance to chemotherapy",
+      "lecture": "CV156",
+      "lectures": [
+        "CV156"
+      ]
+    },
+    {
+      "name": "Neuroblastoma",
+      "presentation": "2-year-old boy with 3 weeks of fever, weight loss, irritability and malaise. Thin and pale. A firm, irregular abdominal mass extends from the right upper quadrant across the midline. BP 106/64.",
+      "workup": "Imaging: mass arising from the adrenal gland, pushing the kidney aside rather than growing from it, and crossing the midline",
+      "lecture": "CV156",
+      "lectures": [
+        "CV156"
+      ]
+    },
+    {
+      "name": "Urothelial carcinoma of the renal pelvis",
+      "presentation": "70-year-old man, 50 pack-years, who took analgesics daily for years: three episodes of painless visible hematuria. BP 136/82. Hb 13.1 g/dL. CT: irregular soft-tissue mass in the left renal pelvic cavity and calyces with hydronephrosis.",
+      "workup": "Ureteroscopic biopsy: fibrovascular cores covered by transitional cells with markedly pleomorphic nuclei, as in bladder tumors; deeply invasive tumors carry a 17p deletion with p53 mutation",
+      "lecture": "CV156",
+      "lectures": [
+        "CV156"
+      ]
+    },
+    {
+      "name": "Ureteropelvic junction obstruction",
+      "presentation": "6-week-old boy with fever 39.2 C, poor feeding and a urine culture growing E. coli; prenatal ultrasound showed a dilated left kidney. Ultrasound now: left renal pelvis and calyces markedly dilated, left ureter normal caliber, bladder and right kidney normal.",
+      "workup": "VCUG: no reflux and a normal urethra. Resected segment: disorganized smooth muscle bundles with excess collagen laid down between them (a few cases: an aberrant renal vessel compressing from outside)",
+      "management": "Treat the infection, then investigate further and correct the obstruction surgically if needed",
+      "lecture": "CV157",
+      "lectures": [
+        "CV157",
+        "CV160"
+      ]
+    },
+    {
+      "name": "Sclerosing retroperitoneal fibrosis",
+      "presentation": "60-year-old man who takes an ergot derivative for migraines: 2 months of dull low back and flank pain and less urine. BP 154/94. Creatinine 3.0 mg/dL (1.0 a year ago). Ultrasound: both kidneys and upper ureters dilated; bladder empties fully.",
+      "workup": "CT: a rind of tissue beginning at the sacral promontory, wrapping the lower abdominal aorta and spreading laterally to encase both ureters. Biopsy: dense collagen with many lymphocytes, plasma cells and eosinophils",
+      "lecture": "CV157",
+      "lectures": [
+        "CV157"
+      ]
+    },
+    {
+      "name": "Patent urachus",
+      "presentation": "10-day-old boy: the umbilicus stays wet and keeps leaking clear fluid, more when he cries or strains, and he fusses as if in abdominal pain. Afebrile; voids normally; the rest of the exam is normal.",
+      "workup": "Imaging: an open channel running from the dome of the bladder up to the umbilicus, along the midline of the anterior abdominal wall",
+      "lecture": "CV157",
+      "lectures": [
+        "CV157"
+      ]
+    },
+    {
+      "name": "Bladder exstrophy",
+      "presentation": "Newborn boy: just below the tied umbilical cord a patch of moist, bright red mucosa lies open on the lower abdominal wall, and beneath it the penis is incompletely formed.",
+      "workup": "Biopsy of the exposed mucosa later in life: glandular metaplasia; chronic infection that often climbs to the upper urinary tract",
+      "lecture": "CV157",
+      "lectures": [
+        "CV157"
+      ]
+    },
+    {
+      "name": "Malakoplakia",
+      "presentation": "52-year-old kidney transplant recipient on immunosuppression: a year of recurrent E. coli urinary infections despite treatment, with frequency and suprapubic discomfort. Afebrile. Cystoscopy: soft, yellow, slightly raised mucosal plaques 3-4 cm across.",
+      "workup": "Biopsy: sheets of large foamy macrophages with granular cytoplasm, plus lymphocytes; inside the macrophages, round laminated calcified concretions formed in enlarged lysosomes",
+      "lecture": "CV157",
+      "lectures": [
+        "CV157"
+      ]
+    },
+    {
+      "name": "Invasive urothelial carcinoma of the bladder",
+      "presentation": "69-year-old man, 45 pack-years, 30 years in a dye plant: 2 months of painless visible hematuria with clots and 6 kg weight loss. Hb 10.9 g/dL, creatinine 1.6 mg/dL. Ultrasound: right hydronephrosis behind an irregular intravesical mass at the right ureteric orifice.",
+      "workup": "Transurethral resection: nests and cords of pleomorphic, high-grade epithelial cells invading the muscularis propria. Cystectomy specimen: yellowish multinodular masses filling most of the lumen, with ulceration and necrosis",
+      "management": "Muscularis propria invasion calls for radical cystectomy, radiation therapy or adjuvant chemotherapy; stage (depth of wall invasion) is the main prognostic factor",
+      "lecture": "CV157",
+      "lectures": [
+        "CV157"
+      ]
+    },
+    {
+      "name": "Low-grade papillary urothelial carcinoma",
+      "presentation": "61-year-old woman, former smoker: painless visible hematuria. Two similar tumors were resected from her bladder in the past 3 years; surveillance cystoscopy finds a new 1.5 cm frond-like exophytic tumor, with the rest of the mucosa normal.",
+      "workup": "Resection: finger-like fronds on fibrovascular cores, lined by orderly, evenly spaced, cohesive transitional cells with scattered hyperchromatic nuclei; no invasion; FGFR3/RAS/PI3-kinase pathway",
+      "lecture": "CV157",
+      "lectures": [
+        "CV157"
+      ]
+    },
+    {
+      "name": "Urothelial carcinoma in situ",
+      "presentation": "66-year-old man, 40 pack-years: microscopic hematuria on two urinalyses; urine cytology shows malignant cells. Cystoscopy: multifocal patches of red, granular, slightly thickened bladder mucosa, with no mass anywhere.",
+      "workup": "Biopsy of the red patches: flat lining with full-thickness atypia, enlarged pleomorphic cells with visible nucleoli that lose cohesion and shed; no invasion; p53 and RB pathway mutations",
+      "lecture": "CV157",
+      "lectures": [
+        "CV157"
+      ]
+    },
+    {
+      "name": "Squamous cell carcinoma of the bladder",
+      "presentation": "58-year-old farmer who grew up wading in Nile irrigation canals in Egypt; blood in his urine on and off since childhood, now constant hematuria and 8 kg weight loss. Hb 10.2 g/dL. Cystoscopy: a large ulcerated mass.",
+      "workup": "Biopsy: invasive keratinizing carcinoma arising from dysplastic lining amid chronic inflammation, with eggs bearing a terminal spine lodged in the wall",
+      "lecture": "CV157",
+      "lectures": [
+        "CV157",
+        "CV152"
+      ]
+    },
+    {
+      "name": "Urethral caruncle",
+      "presentation": "79-year-old woman with 2 months of spotting on her underwear: a small, red, painful mass at the external urinary opening that bleeds when touched. No weight loss. UA a few RBCs.",
+      "workup": "Excision: inflamed granulation tissue beneath a friable mucosa that may ulcerate; no malignant cells",
+      "management": "Surgical excision is curative",
+      "lecture": "CV157",
+      "lectures": [
+        "CV157"
+      ]
+    }
+  ],
+  "glomerular": [
+    {
+      "name": "Minimal change disease",
+      "lightMicro": "Glomeruli look normal on PAS: thin capillary walls, open loops, normal mesangium; fat stains are positive in glomeruli and tubular cells",
+      "immunofluor": "Negative for every immunoglobulin and complement component",
+      "electronMicro": "Foot processes swollen and fused into one continuous sheet; GBM and endothelium normal; no electron-dense deposits",
+      "clue": "Most common nephrotic cause in children; follows a URI or vaccination (also NSAIDs, Hodgkin lymphoma); albumin is the main protein lost; normal BP; prompt steroid response",
+      "lecture": "CV148",
+      "lectures": [
+        "CV148",
+        "CV147",
+        "CV161",
+        "CV155"
+      ],
+      "avoid": {
+        "electronMicro": [
+          "Focal segmental glomerulosclerosis"
+        ]
+      }
+    },
+    {
+      "name": "Focal segmental glomerulosclerosis",
+      "lightMicro": "Only some glomeruli are involved, and in each only part of the tuft is scarred, with glassy eosinophilic hyaline deposits; the rest of the tuft looks normal",
+      "immunofluor": "Usually negative; nonspecific IgM and C3 trapped only in the scarred parts of the tuft",
+      "electronMicro": "Diffuse foot process effacement with podocyte degeneration and detachment; no electron-dense deposits",
+      "clue": "Most common adult nephrotic cause in the US; Black and Hispanic adults; IV heroin, sickle cell disease, severe obesity; hypertension and microscopic hematuria; poor steroid response",
+      "lecture": "CV148",
+      "lectures": [
+        "CV148",
+        "CV147"
+      ]
+    },
+    {
+      "name": "Collapsing FSGS",
+      "lightMicro": "PAS: the glomerular tuft is shrunken and retracted with its capillary loops closed, capped by enlarged, crowded podocytes and parietal epithelial cells",
+      "clue": "Untreated retroviral infection with a low CD4 count, or certain drugs and microvascular injury; heavy proteinuria; the worst prognosis of the podocyte-scarring lesions",
+      "lecture": "CV148",
+      "lectures": [
+        "CV148"
+      ]
+    },
+    {
+      "name": "Membranous nephropathy",
+      "lightMicro": "Capillary walls diffusely and uniformly thickened with no increase in cells; silver stain shows GBM projections between the deposits",
+      "immunofluor": "Discrete granular IgG and C3 evenly outlining the capillary loops",
+      "electronMicro": "Subepithelial electron-dense deposits along the whole GBM, with new basement membrane projecting up between them; foot processes effaced",
+      "clue": "Men 30-50 (2:1); IgG against the phospholipase A2 receptor in 70% of primary cases; secondary to NSAIDs, captopril, hepatitis B/C, lung or colon cancer, lupus; renal vein thrombosis",
+      "lecture": "CV148",
+      "lectures": [
+        "CV148",
+        "CV147",
+        "CV155"
+      ]
+    },
+    {
+      "name": "Diabetic nephropathy",
+      "lightMicro": "Round PAS- and trichrome-positive nodules of mesangial matrix; afferent and efferent arteriolar walls replaced by glassy hyaline; thickened GBM",
+      "immunofluor": "Nonspecific staining, with no granular or linear immune pattern",
+      "electronMicro": "Markedly thickened, homogeneous GBM that has lost its separate lamina densa and lamina lucida; foot process effacement",
+      "clue": "Long-standing poorly controlled type 1 (age 15-25) or type 2 diabetes; microalbuminuria first, then heavy proteinuria; retinopathy and hypertension; top cause of chronic renal failure in the US",
+      "lecture": "CV148",
+      "lectures": [
+        "CV148",
+        "CV147"
+      ]
+    },
+    {
+      "name": "Renal AL amyloidosis",
+      "lightMicro": "Amorphous pink material expanding the mesangium and vessel walls; salmon-pink with Congo red and green birefringence under polarized light",
+      "immunofluor": "Immunostain of the deposits: positive for lambda light chain, negative for kappa",
+      "electronMicro": "Fibrils 8-10 nm wide of misfolded protein deposited in the mesangium",
+      "clue": "Older adult with an M protein in serum and free light chains in urine; plasma-cell clone, lambda more often than kappa; new nephrotic syndrome",
+      "lecture": "CV148",
+      "lectures": [
+        "CV148",
+        "CV147"
+      ]
+    },
+    {
+      "name": "Membranoproliferative GN type I",
+      "lightMicro": "Thick capillary walls plus increased mesangial and endocapillary cells; silver stain splits the GBM into two parallel lines",
+      "immunofluor": "Granular C3 with IgG, C1q and C4 in the mesangium and outlining the loops",
+      "electronMicro": "Subendothelial and mesangial electron-dense deposits; mesangial cells grow into the capillary wall and split the GBM",
+      "clue": "Chronic hepatitis C, usually with cryoglobulins; children or adults; mixed nephritic-nephrotic urine with RBC casts; hypertension; most progress to CKD",
+      "lecture": "CV148",
+      "lectures": [
+        "CV148",
+        "CV147"
+      ],
+      "avoid": {
+        "lightMicro": [
+          "Dense deposit disease (MPGN type II)"
+        ]
+      }
+    },
+    {
+      "name": "Dense deposit disease (MPGN type II)",
+      "lightMicro": "Thick capillary walls plus increased mesangial and endocapillary cells; silver stain splits the GBM into two parallel lines",
+      "immunofluor": "Granular C3 with properdin; IgG, C1q and C4 usually absent",
+      "electronMicro": "A continuous ribbon of very electron-opaque material inside the GBM itself, splitting the membrane",
+      "clue": "Children or adults; an autoantibody (C3 nephritic factor) stabilizes the alternative-pathway C3 convertase; low C3, factor B and properdin with normal C1 and C4",
+      "lecture": "CV148",
+      "lectures": [
+        "CV148"
+      ],
+      "avoid": {
+        "lightMicro": [
+          "Membranoproliferative GN type I"
+        ]
+      }
+    },
+    {
+      "name": "IgA nephropathy",
+      "lightMicro": "PAS: mesangial matrix expanded and mesangial cells increased; capillary loops otherwise open and thin",
+      "immunofluor": "Large granular clumps of IgA with C3 and properdin, concentrated in the mesangium",
+      "electronMicro": "Electron-dense deposits within the mesangial matrix; capillary endothelium intact",
+      "clue": "Most common primary GN worldwide; males, peak age 20-30; recurrent gross hematuria within days of a respiratory or GI infection; high serum IgA; linked to celiac and liver disease",
+      "lecture": "CV149",
+      "lectures": [
+        "CV149",
+        "CV147",
+        "CV161"
+      ],
+      "avoid": {
+        "electronMicro": [
+          "Lupus nephritis, class I-II"
+        ],
+        "lightMicro": [
+          "Lupus nephritis, class I-II"
+        ]
+      }
+    },
+    {
+      "name": "Poststreptococcal glomerulonephritis",
+      "lightMicro": "Diffusely enlarged, very cellular glomeruli: neutrophils and monocytes fill the tufts, endothelial and mesangial cells proliferate, few open loops; crescents if severe",
+      "immunofluor": "Coarse, irregular granular IgG and C3 scattered along capillary walls and in the mesangium",
+      "electronMicro": "Large discrete electron-dense deposits on the epithelial side of the GBM, beneath the foot processes; occasional mesangial deposits",
+      "clue": "Child aged 2-6, 1-4 weeks after a sore throat or skin infection; low C3 with normal C4; high ASO (anti-hyaluronidase after skin infection); 95% of children recover in 6-8 weeks",
+      "lecture": "CV149",
+      "lectures": [
+        "CV149",
+        "CV147",
+        "CV161"
+      ]
+    },
+    {
+      "name": "Anti-GBM disease (Goodpasture syndrome)",
+      "lightMicro": "Acute GN with crescents filling Bowman's space: fibrin, parietal epithelial cells, monocytes and macrophages compressing the tuft",
+      "immunofluor": "Smooth, continuous linear IgG with C3 tracing every glomerular basement membrane",
+      "electronMicro": "No electron-dense deposits; GBM wrinkled with focal breaks in its continuity",
+      "clue": "Men in their late 20s; IgG against the NC1 domain of the alpha-3 chain of type IV collagen in glomerular and lung capillaries; hemoptysis first, then renal failure; plasmapheresis",
+      "lecture": "CV149",
+      "lectures": [
+        "CV149",
+        "CV147"
+      ],
+      "avoid": {
+        "lightMicro": [
+          "Granulomatosis with polyangiitis"
+        ],
+        "electronMicro": [
+          "Granulomatosis with polyangiitis"
+        ]
+      }
+    },
+    {
+      "name": "Granulomatosis with polyangiitis",
+      "lightMicro": "Crescents in Bowman's space alongside necrotizing inflammation of small vessels packed with neutrophils; silver stain shows gaps where the GBM is destroyed",
+      "immunofluor": "Little or no immunoglobulin or complement staining despite active crescents",
+      "electronMicro": "No immune deposits; fragmented GBM with wrinkling and focal ruptures",
+      "clue": "Childhood to middle age; PR3 (cytoplasmic) ANCA; recurrent sinusitis, epistaxis and nasal septal ulcers or perforation, hemoptysis, lung infarcts",
+      "lecture": "CV149",
+      "lectures": [
+        "CV149",
+        "CV147"
+      ],
+      "avoid": {
+        "lightMicro": [
+          "Anti-GBM disease (Goodpasture syndrome)"
+        ],
+        "electronMicro": [
+          "Anti-GBM disease (Goodpasture syndrome)"
+        ]
+      }
+    },
+    {
+      "name": "Lupus nephritis, class I-II",
+      "lightMicro": "Glomeruli normal or showing only increased mesangial cells; capillary walls thin, no crescents",
+      "immunofluor": "Granular IgG, IgA, IgM, C3 and C1q confined to the mesangium",
+      "electronMicro": "Electron-dense deposits confined to the mesangium",
+      "clue": "Young woman with ANA and anti-dsDNA, low C3 and C4; mild hematuria or proteinuria while renal function is still preserved",
+      "lecture": "CV149",
+      "lectures": [
+        "CV149"
+      ],
+      "avoid": {
+        "electronMicro": [
+          "IgA nephropathy"
+        ],
+        "lightMicro": [
+          "IgA nephropathy",
+          "Minimal change disease",
+          "Thin basement membrane disease"
+        ]
+      }
+    },
+    {
+      "name": "Lupus nephritis, class III-IV",
+      "lightMicro": "H&E: capillary walls thick, rigid and rounded with amorphous hyaline material; mesangial and endocapillary hypercellularity and crescents, in some or nearly all glomeruli",
+      "immunofluor": "Large granular chunks of IgG, IgA, IgM, C3 and C1q along the capillary loops and in the mesangium",
+      "electronMicro": "Subendothelial electron-dense deposits just beneath the endothelium lining the lumen, plus mesangial deposits",
+      "clue": "Woman aged 15-44 with a facial rash, arthralgias and fatigue; ANA and anti-dsDNA positive; low C3 and C4; RBC casts, Cr 2.0; raised risk of progressing to end-stage disease",
+      "lecture": "CV149",
+      "lectures": [
+        "CV149"
+      ],
+      "avoid": {
+        "electronMicro": [
+          "Membranoproliferative GN type I"
+        ],
+        "immunofluor": [
+          "Lupus nephritis, class V"
+        ]
+      }
+    },
+    {
+      "name": "Lupus nephritis, class V",
+      "lightMicro": "Uniform GBM thickening without any increase in glomerular cells",
+      "immunofluor": "Granular deposits along the GBM that stain for IgG, IgA, IgM, C3 and C1q together",
+      "electronMicro": "Many subepithelial electron-dense deposits spread evenly along the whole outer surface of the GBM",
+      "clue": "Woman with a known anti-dsDNA-positive multisystem autoimmune disease (low C3 and C4) who develops leg edema and foamy urine with nephrotic-range proteinuria",
+      "lecture": "CV149",
+      "lectures": [
+        "CV149",
+        "CV148"
+      ],
+      "avoid": {
+        "lightMicro": [
+          "Membranous nephropathy"
+        ],
+        "electronMicro": [
+          "Membranous nephropathy"
+        ]
+      }
+    },
+    {
+      "name": "Lupus nephritis, class VI",
+      "lightMicro": "Global sclerosis: most glomeruli are scarred across the entire tuft and no longer function",
+      "electronMicro": "Immune deposits may no longer be seen because the glomeruli are so scarred",
+      "clue": "Many years of anti-dsDNA-positive autoimmune disease with rash and arthritis, now nonfunctioning end-stage kidneys on the way to dialysis",
+      "lecture": "CV149",
+      "lectures": [
+        "CV149"
+      ]
+    },
+    {
+      "name": "Alport syndrome",
+      "lightMicro": "Trichrome: lipid-laden foam cells in the interstitium between tubules and glomeruli",
+      "electronMicro": "Lamina densa split and laminated into many interwoven strands; GBM irregularly thick and thin",
+      "clue": "Boy aged 5-20; X-linked COL4A5 (alpha-5 type IV collagen) in 85%; sensorineural hearing loss, eye abnormalities and a family history of renal failure; progresses to ESKD",
+      "lecture": "CV149",
+      "lectures": [
+        "CV149",
+        "CV147",
+        "CV161"
+      ]
+    },
+    {
+      "name": "Thin basement membrane disease",
+      "lightMicro": "Normal on light microscopy: glomeruli, tubules and interstitium unremarkable, with no extra cells",
+      "electronMicro": "Diffuse, uniform attenuation of the GBM along every capillary loop; the lamina densa is not split",
+      "clue": "Teen with intermittent red urine and isolated hematuria; mother and sister have the same and are otherwise well; autosomal dominant alpha-3/alpha-4 collagen IV; normal hearing; excellent prognosis",
+      "lecture": "CV149",
+      "lectures": [
+        "CV149",
+        "CV161"
+      ],
+      "avoid": {
+        "lightMicro": [
+          "Minimal change disease",
+          "Lupus nephritis, class I-II"
+        ]
+      }
+    }
+  ]
+}
