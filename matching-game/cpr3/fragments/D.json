@@ -1,0 +1,750 @@
+{
+  "correlates": [
+    {
+      "name": "Latent tuberculosis infection",
+      "presentation": "29-year-old nurse born in the Philippines, about to start adalimumab for Crohn disease. Feels well: no cough, fever, night sweats or weight loss. T 36.9 C, RR 14, SpO2 99%; lungs clear; no enlarged nodes.",
+      "workup": "Interferon-gamma release assay positive (skin test would read 16 mm induration at 48-72 h); chest film normal; three sputum samples, one early-morning: acid-fast smear negative, culture negative.",
+      "management": "No isolation (not contagious). Treat before the TNF inhibitor to prevent disease: isoniazid + rifampin daily for 3 months (alternatives: rifampin alone for 4 months or isoniazid alone for 9 months).",
+      "lecture": "CV127",
+      "lectures": [
+        "CV127",
+        "CV128",
+        "CV131"
+      ]
+    },
+    {
+      "name": "Primary pulmonary tuberculosis",
+      "presentation": "4-year-old whose grandfather moved in from Pakistan 3 months ago and has had a 2-month cough with blood-streaked sputum. Two weeks of low-grade fever and mild cough. T 38.0 C, RR 28; a few crackles at the right base; otherwise well.",
+      "workup": "Chest film: enlarged right hilar node with patchy infiltrate in the right lower zone, no cavity. Skin test 12 mm. Gastric aspirate: acid-fast rods. Once healed: calcified subpleural lower-lobe nodule plus calcified hilar node.",
+      "lecture": "CV132",
+      "lectures": [
+        "CV132",
+        "CV127",
+        "CV131"
+      ]
+    },
+    {
+      "name": "Secondary (reactivation) tuberculosis",
+      "presentation": "58-year-old man born in India, living in a homeless shelter, with poorly controlled diabetes. Three months of productive cough, blood-streaked sputum, drenching night sweats and an 8-kg weight loss. T 38.2 C, BMI 17; wasted, clubbed; rhonchi at the right apex.",
+      "workup": "Chest film: right upper lobe (apical-posterior) infiltrate with a 3-cm cavity and an air-fluid level. Three sputum samples: red rods on acid-fast stain, NAAT positive; culture turns positive after several weeks.",
+      "management": "Negative-pressure room, N95 for staff. Start rifampin, isoniazid, pyrazinamide, ethambutol + pyridoxine for 2 months, then isoniazid + rifampin for 4 months, without waiting for culture; directly observed therapy.",
+      "lecture": "CV132",
+      "lectures": [
+        "CV132",
+        "CV127",
+        "CV128",
+        "CV131"
+      ]
+    },
+    {
+      "name": "Miliary tuberculosis",
+      "presentation": "47-year-old woman from Mexico on infliximab for rheumatoid arthritis, never screened before starting it. Three weeks of fevers, night sweats, 5-kg weight loss and rising breathlessness. T 39.1 C, HR 112, RR 26, SpO2 90% on room air; lungs sound almost clear.",
+      "workup": "Chest film: innumerable 1-2 mm nodules spread evenly through both lungs from apex to base. Acid-fast rods in bronchoscopic washings; culture positive weeks later (blood-borne spread to lung and other organs).",
+      "lecture": "CV127",
+      "lectures": [
+        "CV127",
+        "CV132",
+        "CV131"
+      ]
+    },
+    {
+      "name": "Tuberculous lymphadenitis",
+      "presentation": "34-year-old woman who emigrated from Nigeria 2 years ago, with 6 weeks of a painless, enlarging lump above the left clavicle, evening fevers and a 4-kg weight loss. T 37.9 C; firm, matted 3-cm left supraclavicular and posterior cervical nodes; lungs clear.",
+      "workup": "Excisional node biopsy, done for suspected lymphoma: caseating granulomas with multinucleated giant cells and acid-fast rods; no malignant cells; culture grows after several weeks.",
+      "lecture": "CV127",
+      "lectures": [
+        "CV127"
+      ]
+    },
+    {
+      "name": "MDR/XDR tuberculosis",
+      "presentation": "38-year-old man released from prison 4 months ago, treated for the same lung infection 2 years earlier but stopped the pills after 6 weeks once he felt better. Two months of cough, blood-streaked sputum, night sweats, 6-kg weight loss. T 38.3 C; wasted; left apical crackles.",
+      "workup": "Chest film: left apical cavity. Sputum: acid-fast rods. Culture with susceptibility testing: the isolate grows despite isoniazid and rifampin (the worst strains also despite fluoroquinolones and amikacin or kanamycin).",
+      "management": "Airborne isolation; all-oral bedaquiline + pretomanid + linezolid for 6 months (moxifloxacin added if needed) or a longer tailored course; ECGs for QT, liver tests, blood counts; directly observed therapy, no missed doses.",
+      "lecture": "CV138",
+      "lectures": [
+        "CV138",
+        "CV128",
+        "CV131"
+      ]
+    },
+    {
+      "name": "Disseminated Mycobacterium avium complex in HIV",
+      "presentation": "39-year-old man with HIV who stopped his antiretrovirals a year ago. Five weeks of fevers, drenching night sweats and a 7-kg weight loss; no cough or breathlessness. T 38.8 C, HR 104, RR 16, SpO2 98%; thin; lungs clear.",
+      "workup": "CD4 count 32/uL; Hb 8.6 g/dL; alkaline phosphatase 420 U/L with normal bilirubin; chest film clear.",
+      "management": "Azithromycin (or clarithromycin) plus ethambutol, with vision checks; add rifabutin as a third drug if sicker, since it spares the antiretrovirals the induction rifampin causes. Azithromycin prophylaxis once CD4 < 50.",
+      "lecture": "CV128",
+      "lectures": [
+        "CV128"
+      ]
+    },
+    {
+      "name": "Hansen disease (leprosy)",
+      "presentation": "50-year-old man with slowly evolving skin lesions on the face, trunk and right arm, first noticed after a stay in South America. BP 145/90. Widespread skin nodules and scaly plaques, thickened skin on the cheeks and feet, skin ulcers, marked muscle weakness.",
+      "management": "Dapsone (check G6PD; avoid with sulfa allergy) with rifampin and clofazimine (pink skin, QT; from a national program). Thalidomide for a severe painful nodular inflammatory reaction: pregnancy tests and two forms of birth control.",
+      "lecture": "CV128",
+      "lectures": [
+        "CV128"
+      ]
+    },
+    {
+      "name": "Hand-foot-mouth disease",
+      "presentation": "3-year-old at daycare in late August; two classmates are ill too. Two days of low fever, refusing food as swallowing hurts. T 38.2 C (100.8 F), HR 128; painful oral ulcers; non-itchy red spots and small blisters on the palms and soles.",
+      "management": "Supportive: fluids and analgesia for painful swallowing; self-limited over 7-10 days. The virus keeps shedding in stool for up to 6 weeks (throat up to 4), so stress hygiene at daycare.",
+      "lecture": "CV129",
+      "lectures": [
+        "CV129"
+      ]
+    },
+    {
+      "name": "Herpangina",
+      "presentation": "4-year-old at a summer day camp with 1 day of fever and a sore throat; drinks little as swallowing hurts. T 39.4 C, HR 132; a dozen painful sores at the back of the mouth and throat only; gums, lips, palms and soles normal.",
+      "lecture": "CV129",
+      "lectures": [
+        "CV129"
+      ]
+    },
+    {
+      "name": "Common cold",
+      "presentation": "26-year-old father of two toddlers in daycare, in October. Two days of sneezing, clear runny nose, blocked nose, mild sore throat, headache and dry cough. T 37.0 C, HR 76, SpO2 99%; clear nasal discharge, mildly red throat without exudate or nodes; lungs clear.",
+      "management": "Over-the-counter symptom relief (fluids, rest, decongestant); no antibiotics and no specific antiviral; resolves in 5-7 days in adults, about 10 in children.",
+      "lecture": "CV129",
+      "lectures": [
+        "CV129",
+        "CV141"
+      ]
+    },
+    {
+      "name": "Pharyngoconjunctival fever",
+      "presentation": "9-year-old back from a week at summer camp where many campers shared one swimming pool and several fell ill. Two days of T 39.3 C, sore throat, malaise and red, watery eyes. Red pharynx, tender cervical nodes, both conjunctivae red; no cough.",
+      "lecture": "CV129",
+      "lectures": [
+        "CV129",
+        "CV141"
+      ]
+    },
+    {
+      "name": "Croup (laryngotracheobronchitis)",
+      "presentation": "2-year-old at daycare in November with 2 days of runny nose and low-grade temperature, then a harsh repetitive cough and hoarse voice, worse at night. T 38.3 C, HR 120, RR 30, SpO2 96%; agitated, high-pitched noise on breathing in; no drooling; sits comfortably.",
+      "workup": "Diagnosis is clinical. Frontal soft-tissue neck film (abnormal in 40-50%): the subglottic trachea narrows and tapers upward instead of having square shoulders; supraglottic tissues normal on the lateral view. Nasal PCR if needed.",
+      "lecture": "CV141",
+      "lectures": [
+        "CV141",
+        "CV129"
+      ]
+    },
+    {
+      "name": "RSV bronchiolitis in an infant",
+      "presentation": "4-month-old in January whose 3-year-old sister has a cold. Three days of runny nose and cough, now fast breathing and feeding poorly. T 38.0 C, HR 162, RR 64, SpO2 91%; nasal flaring, intercostal retractions, wheezes on breathing out and fine crackles in both lungs.",
+      "workup": "Rapid antigen test on nasal secretions positive; multiplex PCR confirms. Diagnosis otherwise rests on age, winter season and the exam.",
+      "management": "Supportive care; ribavirin only in select severe cases. Prevention for high-risk infants: a monoclonal antibody shot in the first RSV season, or vaccinating the mother in pregnancy.",
+      "lecture": "CV129",
+      "lectures": [
+        "CV129"
+      ]
+    },
+    {
+      "name": "Uncomplicated seasonal influenza",
+      "presentation": "34-year-old elementary-school teacher in late January; many pupils are off sick. Abrupt onset 30 hours ago of fever, chills, dry cough, severe muscle aches, headache and sore throat. T 39.2 C, HR 108, RR 18, SpO2 97%; lungs clear.",
+      "management": "Start oseltamivir within 48 hours of onset (preferred, also in pregnancy): shortens illness by 1-2 days and cuts shedding. Alternatives: inhaled zanamivir (not with asthma/COPD), IV peramivir, one oral dose of baloxavir.",
+      "lecture": "CV150",
+      "lectures": [
+        "CV150",
+        "CV129"
+      ]
+    },
+    {
+      "name": "Primary influenza viral pneumonia",
+      "presentation": "72-year-old unvaccinated woman with heart failure, in February. Three days ago: abrupt fever, muscle aches and dry cough; since then steadily worse breathlessness, scant sputum, never improving. T 39.0 C, HR 118, RR 32, SpO2 86% on room air; diffuse crackles in both lungs.",
+      "workup": "Chest film: diffuse bilateral patchy and interstitial opacities, no lobar consolidation; sputum Gram stain shows no dominant organism. Autopsy: heavy, red, firm lungs; alveolar walls widened by lymphocytes and monocytes; hyaline membranes.",
+      "lecture": "CV132",
+      "lectures": [
+        "CV132",
+        "CV129"
+      ]
+    },
+    {
+      "name": "Secondary bacterial pneumonia after influenza",
+      "presentation": "66-year-old woman in January who had abrupt fever, muscle aches and dry cough 8 days ago and was getting better; now 2 days of new high fever, rigors, purulent sputum and right pleuritic pain. T 39.6 C, HR 118, RR 28, BP 92/58, SpO2 89%; crackles and dullness at the right base.",
+      "workup": "WBC 19,400/uL with left shift; chest film: new right lower lobe consolidation; sputum Gram stain: gram-positive cocci in clusters; blood cultures drawn (all inpatients).",
+      "management": "Admit; blood cultures; beta-lactam plus macrolide (or a respiratory fluoroquinolone), plus vancomycin or linezolid to cover methicillin-resistant cocci.",
+      "lecture": "CV141",
+      "lectures": [
+        "CV141",
+        "CV132"
+      ]
+    },
+    {
+      "name": "Severe COVID-19 with ARDS",
+      "presentation": "61-year-old unvaccinated man with obesity and diabetes; positive home antigen test 9 days ago for fever, cough and muscle aches; now worsening breathlessness. T 38.6 C, HR 112, RR 34, SpO2 84% on a 15-L non-rebreather mask; crackles throughout both lungs.",
+      "workup": "Nasal swab RT-PCR positive. ABG on FiO2 0.8: PaO2 88 mmHg (ratio 110); bilateral opacities not explained by effusion or collapse; normal LV on echo. Autopsy: hyaline membranes plus microvessel thrombi.",
+      "management": "Intubate; tidal volume 4-8 mL/kg with high PEEP, prone positioning, cautious fluids; add dexamethasone; anticoagulate when critically ill. Inhaled nitric oxide raises SpO2 but not survival.",
+      "lecture": "CV129",
+      "lectures": [
+        "CV129",
+        "CV126",
+        "CV138"
+      ],
+      "avoid": {
+        "workup": [
+          "Acute respiratory distress syndrome"
+        ]
+      }
+    },
+    {
+      "name": "COVID-19 at high risk of progression (outpatient)",
+      "presentation": "68-year-old man with hypertension and type 2 diabetes. Scratchy throat, headache and muscle aches since yesterday, slowly getting worse; positive home antigen test this morning. T 37.9 C, HR 92, RR 16, SpO2 97% on room air; lungs clear.",
+      "management": "Review his drug list for CYP3A4 interactions (boxed warning), then nirmatrelvir with ritonavir every 12 h for 5 days, started within 5 days of onset; adjust for renal function. Alternatives: 3 days of IV remdesivir, or molnupiravir.",
+      "lecture": "CV150",
+      "lectures": [
+        "CV150",
+        "CV138"
+      ]
+    },
+    {
+      "name": "Hospitalized COVID-19, not mechanically ventilated",
+      "presentation": "77-year-old man admitted after 4 days of fever, dry cough and increasing breathlessness following a positive home antigen test. T 38.4 C, HR 104, RR 24, SpO2 89% on room air, 94% on 2 L by nasal cannula; crackles at both bases; alert, not intubated.",
+      "management": "IV remdesivir once daily, usually for 5 days, in a unit that can treat anaphylaxis; watch for bradycardia and rising aminotransferases; hydroxychloroquine or chloroquine can blunt its effect.",
+      "lecture": "CV150",
+      "lectures": [
+        "CV150",
+        "CV138"
+      ]
+    },
+    {
+      "name": "COVID-19 rebound",
+      "presentation": "58-year-old woman with diabetes finished 5 days of nirmatrelvir-ritonavir, felt well and had a negative home antigen test on day 6. On day 9 her sore throat and nasal congestion return, mildly. T 37.4 C, HR 80, RR 14, SpO2 98%; lungs clear.",
+      "workup": "Home antigen test positive again, within 10 days of the negative test that followed the full course.",
+      "management": "Reassure and give supportive care: recurrent symptoms are usually mild, and a second course of nirmatrelvir-ritonavir is not routinely recommended.",
+      "lecture": "CV150",
+      "lectures": [
+        "CV150"
+      ]
+    },
+    {
+      "name": "Pneumococcal pneumonia",
+      "presentation": "36-year-old man whose spleen was removed after a car crash. Sudden onset this morning of shaking chills, fever, cough with thick purulent sputum and right chest pain on breathing in. T 39.8 C, HR 116, RR 26, SpO2 91%; dullness, loud breath sounds and a rub at the right base.",
+      "workup": "Chest film: dense consolidation filling one whole lobe. Sputum Gram stain: gram-positive lancet-shaped diplococci in pairs; urine antigen test positive; blood cultures grow alpha-hemolytic, optochin-sensitive colonies.",
+      "management": "Admit, draw blood cultures, start a beta-lactam plus a macrolide, then narrow to targeted therapy - most are afebrile within 2-3 days. Vaccinate against the encapsulated organism (no spleen).",
+      "lecture": "CV130",
+      "lectures": [
+        "CV130",
+        "CV132",
+        "CV141"
+      ]
+    },
+    {
+      "name": "Streptococcal pharyngitis",
+      "presentation": "8-year-old in March with 1 day of severe sore throat and fever; no cough, runny nose or red eyes. T 39.0 C, HR 118; swollen red tonsils with white exudate, tender enlarged anterior cervical nodes; uvula midline; lungs clear.",
+      "workup": "FACE score 4 of 4 (fever > 100.4 F, anterior adenopathy, no cough, tonsillar exudate). Rapid antigen test positive; throat culture: beta-hemolytic, bacitracin-sensitive colonies on blood agar.",
+      "management": "Score 4: penicillin without testing (erythromycin if allergic); 2-3: test, treat if positive; 0-1: symptom care, no test. Treat to prevent abscess, rheumatic heart disease and GN; a positive swab without symptoms is not treated.",
+      "lecture": "CV141",
+      "lectures": [
+        "CV141",
+        "CV130"
+      ]
+    },
+    {
+      "name": "Epiglottitis",
+      "presentation": "4-year-old, arrived from abroad last month, never vaccinated. Six hours of high fever and severe sore throat; now drooling, refusing to swallow, sitting upright with the head pushed forward. T 39.8 C, HR 150, RR 32, SpO2 93%; muffled voice, soft inspiratory stridor; little cough.",
+      "workup": "Lateral neck film: a rounded supraglottic soft-tissue swelling filling the air space above the larynx. Blood culture: gram-negative coccobacilli that grow on chocolate agar (need factors V and X).",
+      "management": "Secure the airway at once, usually by endotracheal intubation, before anything that might upset the child; then IV ampicillin-sulbactam, cefuroxime or ceftriaxone (TMP-SMX if penicillin-allergic). Prevented by the type b conjugate vaccine.",
+      "lecture": "CV141",
+      "lectures": [
+        "CV141",
+        "CV130"
+      ]
+    },
+    {
+      "name": "Pertussis",
+      "presentation": "9-year-old fully vaccinated as an infant. Two weeks of runny nose and low fever, then 3 weeks of violent coughing fits that leave her red-faced and breathless, sometimes ending in vomiting; well between fits. T 37.2 C, RR 18, SpO2 98%; lungs clear.",
+      "workup": "WBC 26,000/uL with 78% lymphocytes; chest film clear; nasopharyngeal swab PCR positive (the organism grows only on a special selective medium).",
+      "management": "Macrolide (azithromycin) to kill the organism and limit spread, but the toxins drive the illness, so the cough runs its course; supportive care, especially in infants. Prevention: DTaP for children, Tdap boosters.",
+      "lecture": "CV130",
+      "lectures": [
+        "CV130",
+        "CV138",
+        "CV128"
+      ]
+    },
+    {
+      "name": "Legionella pneumonia",
+      "presentation": "64-year-old man who smokes and drinks daily, back 5 days from a hotel convention where several attendees fell ill. Three days of high fever, dry cough, watery non-bloody diarrhea and new confusion. T 39.6 C, HR 96, RR 26, SpO2 90%; scattered crackles in both lungs.",
+      "workup": "Na+ 126 mEq/L. Chest film: patchy interstitial infiltrates. Sputum Gram stain: neutrophils, organisms barely stain. Urine antigen test positive. Culture needs charcoal yeast extract with iron and cysteine.",
+      "management": "Macrolide (azithromycin) or a fluoroquinolone (levofloxacin); beta-lactams alone miss it. No person-to-person spread, so no isolation; the source is building water (cooling towers, air conditioning).",
+      "lecture": "CV130",
+      "lectures": [
+        "CV130",
+        "CV141"
+      ]
+    },
+    {
+      "name": "Mycoplasma pneumonia",
+      "presentation": "19-year-old army recruit; several in his barracks are coughing. Ten days of gradually worsening headache, malaise, low-grade fever without chills and a dry, persistent cough; still training. T 38.0 C, HR 88, RR 18, SpO2 97%; fine crackles scattered over both lungs.",
+      "workup": "Chest film: patchy bilateral interstitial infiltrates. Gram stain: no organisms. Cold agglutinin titer raised; LDH up and haptoglobin low (IgM-driven hemolysis). Pleural effusion in 10-20%.",
+      "management": "Macrolide (azithromycin), doxycycline or a fluoroquinolone; beta-lactams fail because the organism has no cell wall. Macrolides are the choice in pregnancy and children. Usually self-limited.",
+      "lecture": "CV132",
+      "lectures": [
+        "CV132",
+        "CV130",
+        "CV141",
+        "CV128"
+      ]
+    },
+    {
+      "name": "Klebsiella pneumonia",
+      "presentation": "56-year-old man with diabetes who drinks a fifth of vodka daily; found passed out 4 days ago. Fever, shortness of breath and cough bringing up thick, sticky, blood-stained sputum. T 39.1 C, HR 112, RR 28, SpO2 89%; dullness and bronchial breath sounds at the right apex.",
+      "workup": "Chest film: dense right upper lobe consolidation with an early cavity. Sputum Gram stain: plump gram-negative rods with thick capsules; culture: mucoid, lactose-fermenting colonies on MacConkey agar. CT may show a liver collection too.",
+      "lecture": "CV130",
+      "lectures": [
+        "CV130",
+        "CV139",
+        "CV141",
+        "CV140"
+      ]
+    },
+    {
+      "name": "Typical community-acquired pneumonia (outpatient)",
+      "presentation": "Healthy 41-year-old teacher; no recent hospital stay or antibiotics. Three days of fever, cough with yellow sputum and left-sided pain on deep breaths. T 38.4 C, HR 96, RR 20, BP 124/78, SpO2 96%; eating and drinking; dullness, crackles and loud breath sounds at the left base.",
+      "workup": "Chest film: left lower lobe consolidation (CT only if the film is unclear). Sputum Gram stain and culture rarely done; blood cultures are reserved for admitted patients; no organism identified in most cases.",
+      "management": "Treat at home with amoxicillin, doxycycline or a macrolide. With heart, lung or kidney disease, cancer treatment or alcoholism: amoxicillin-clavulanate or a cephalosporin plus a macrolide, or a respiratory fluoroquinolone.",
+      "lecture": "CV141",
+      "lectures": [
+        "CV141",
+        "CV132"
+      ],
+      "avoid": [
+        "Pneumococcal pneumonia"
+      ]
+    },
+    {
+      "name": "Aspiration pneumonia",
+      "presentation": "74-year-old man 2 months after a left-hemisphere stroke; coughs and chokes when he drinks, and vomited during an upper endoscopy 3 days ago. Now fever, tachypnea and cough with purulent sputum. T 38.7 C, HR 104, RR 26, SpO2 90%; coarse crackles and dullness at the right base.",
+      "workup": "Chest film: right lower lobe infiltrate (the right main bronchus is steeper). Sputum culture: more than one organism, aerobes outnumbering anaerobes, mixed oral flora. Early chemical injury from gastric acid, then bacterial infection.",
+      "management": "Blood and sputum cultures, then anaerobic coverage: clindamycin, amoxicillin-clavulanate, or metronidazole plus a beta-lactam. Prevent: speech and swallow evaluation, head of bed at 30-45 degrees, minimal sedation, oral care.",
+      "lecture": "CV139",
+      "lectures": [
+        "CV139",
+        "CV132",
+        "CV141"
+      ]
+    },
+    {
+      "name": "Lung abscess",
+      "presentation": "58-year-old man with heavy drinking, badly decayed teeth and a blackout 3 weeks ago. Two weeks of fever, cough with large amounts of foul-smelling purulent sputum, chest pain and a 4-kg weight loss. T 38.4 C, HR 100, SpO2 94%; finger clubbing; crackles over the right upper back.",
+      "workup": "Chest film: 5-cm thick-walled cavity with an air-fluid level in the right upper lobe. Sputum: mixed oral anaerobes; acid-fast smear negative. Biopsy: suppurative destruction around the cavity; a fibrotic rim means chronicity.",
+      "management": "Prolonged antibiotics with anaerobic coverage (clindamycin, amoxicillin-clavulanate, or metronidazole + a beta-lactam), effective in most. In an older patient, rule out an underlying carcinoma (found in 10-15%).",
+      "lecture": "CV132",
+      "lectures": [
+        "CV132",
+        "CV139",
+        "CV141"
+      ]
+    },
+    {
+      "name": "Clostridioides difficile colitis",
+      "presentation": "79-year-old woman, hospital day 9, on a broad-spectrum antibiotic for pneumonia. Three days of 8-10 watery, non-bloody stools a day. T 38.3 C, HR 106, BP 108/64; abdomen mildly distended and diffusely tender.",
+      "workup": "Stool PCR or antigen test for toxins A and B positive within hours (culture needs anaerobic media and days). Colonoscopy: a membrane-like coat of plaques over inflamed colonic mucosa.",
+      "management": "Contact and enteric precautions; wash hands with soap and water (alcohol gel does not kill spores). Oral fidaxomicin or oral vancomycin first-line, metronidazole second-line; surgery for toxic megacolon; fecal transplant for recurrences.",
+      "lecture": "CV140",
+      "lectures": [
+        "CV140",
+        "CV138"
+      ]
+    },
+    {
+      "name": "MRSA infection",
+      "presentation": "17-year-old high-school wrestler who shares mats and towels; two teammates had boils this month. Four days of a painful, enlarging hot swelling on the thigh. T 38.4 C, HR 98; 4-cm fluctuant, tender, red mass draining pus, with surrounding redness; tender inguinal nodes.",
+      "workup": "Pus Gram stain: gram-positive cocci in clusters; beta-hemolytic, catalase- and coagulase-positive. Cefoxitin disk screen resistant, growth on oxacillin-salt agar, PCR detects the altered penicillin-binding protein gene.",
+      "management": "If admitted: contact precautions (single room or cohort, gloves, gown, dedicated equipment). Serious invasive infection: vancomycin or linezolid; no penicillin, cephalosporin or carbapenem works. Practise stewardship.",
+      "lecture": "CV140",
+      "lectures": [
+        "CV140",
+        "CV138",
+        "CV139",
+        "CV131"
+      ]
+    },
+    {
+      "name": "VRE infection",
+      "presentation": "70-year-old woman in the ICU for 3 weeks after a perforated bowel, treated with several courses of cephalosporins and vancomycin, with a central venous catheter. New fever and chills. T 38.9 C, HR 114, BP 94/58; catheter site clean; no new murmur.",
+      "workup": "Blood cultures: gram-positive cocci in chains, catalase-negative, turning bile esculin black and growing in 6.5% NaCl; the isolate is not inhibited by vancomycin and is resistant to cephalosporins.",
+      "management": "Contact isolation (single room, gloves, gown) to stop spread to other ICU patients. Treat with linezolid (100% oral bioavailability; watch blood counts and SSRIs); cephalosporins select for these strains.",
+      "lecture": "CV140",
+      "lectures": [
+        "CV140",
+        "CV128"
+      ],
+      "avoid": {
+        "presentation": [
+          "Candidemia (invasive candidiasis)"
+        ]
+      }
+    },
+    {
+      "name": "Pseudomonas nosocomial infection",
+      "presentation": "34-year-old man with burns over 40% of his body, hospital day 12, in a burn unit with a recent cluster of infections. New fever and a burn site oozing green-blue exudate. T 39.1 C, HR 122, BP 92/56; WBC 18,500/uL.",
+      "workup": "Culture: motile, oxidase-positive gram-negative rods that do not ferment lactose and make a blue-green pigment; resistant to many common antibiotics. In a lung: red patches with tan rims, cavities, neutrophils around vessels.",
+      "management": "Piperacillin-tazobactam, cefepime or imipenem; two agents active against it when there is structural lung disease or known resistance. It turns resistant during about 10% of courses.",
+      "lecture": "CV140",
+      "lectures": [
+        "CV140",
+        "CV131",
+        "CV132",
+        "CV139"
+      ]
+    },
+    {
+      "name": "Candidemia (invasive candidiasis)",
+      "presentation": "61-year-old man in the surgical ICU 12 days after a bowel resection, with a central venous catheter, parenteral nutrition, 10 days of broad-spectrum antibiotics and steroids. Fever persists despite the antibiotics. T 39.0 C, HR 120, BP 88/50; new white lesions on the retina.",
+      "workup": "Blood cultures: budding yeasts with pseudohyphae; germ tubes form at 37 C. Bacterial cultures negative.",
+      "management": "Disseminated disease: amphotericin B with an azole, or caspofungin (an echinocandin); check susceptibilities, because fluconazole overuse has bred resistant species.",
+      "lecture": "CV140",
+      "lectures": [
+        "CV140",
+        "CV137"
+      ]
+    },
+    {
+      "name": "Ventilator-associated pneumonia",
+      "presentation": "67-year-old man with asthma, intubated in the ICU for respiratory failure. At 72 hours he spikes T 38.6 C (101.5 F), needs FiO2 raised from 0.4 to 0.7, and thick yellow secretions are suctioned from the endotracheal tube. HR 112, BP 104/62; coarse crackles in both lungs.",
+      "workup": "WBC 20,000/uL with 80% neutrophils (against a viral cause); chest film: new bilateral infiltrates. Endotracheal aspirate or BAL: gram-positive cocci in clusters, catalase- and coagulase-positive. Cultures sent before antibiotics.",
+      "management": "Blood and lower-airway cultures, then empiric antibiotics at once by the hospital antibiogram: vancomycin or linezolid plus an antipseudomonal agent; de-escalate early. Prevent: head of bed 30-45 degrees, less sedation, early extubation.",
+      "lecture": "CV139",
+      "lectures": [
+        "CV139",
+        "CV140",
+        "CV132"
+      ]
+    },
+    {
+      "name": "Hospital-acquired pneumonia, not ventilated",
+      "presentation": "55-year-old woman with COPD who had IV antibiotics for a UTI 6 weeks ago, admitted for a COPD flare and never intubated. At 56 hours: new fever, purulent sputum and falling saturation. T 38.9 C, HR 110, RR 28, BP 86/52, SpO2 86%; crackles and dullness at the right base.",
+      "workup": "Admission film clear; now a new right lower lobe infiltrate. WBC 17,800/uL, mostly neutrophils. Sputum Gram stain: gram-negative rods plus gram-positive cocci in clusters. Blood and sputum cultures taken before antibiotics.",
+      "management": "Cultures, then broad empiric cover at once because IV antibiotics within 90 days raise multidrug-resistance risk: vancomycin plus imipenem plus an aminoglycoside in shock; narrow as soon as cultures and the patient allow.",
+      "lecture": "CV139",
+      "lectures": [
+        "CV139",
+        "CV132",
+        "CV140"
+      ]
+    },
+    {
+      "name": "Empyema",
+      "presentation": "70-year-old man on day 10 of antibiotics for right lower lobe pneumonia, still spiking fevers to 39.2 C with right-sided pain on breathing in and a 3-kg weight loss. HR 106, RR 24, SpO2 93%; dullness, absent breath sounds and reduced fremitus over the right lower chest.",
+      "workup": "Chest film: right pleural collection with a straight horizontal air-fluid line reaching the chest wall. Thoracentesis: thick, opaque pus full of neutrophils, with bacteria on Gram stain.",
+      "lecture": "CV139",
+      "lectures": [
+        "CV139"
+      ]
+    },
+    {
+      "name": "Pneumocystis pneumonia in HIV",
+      "presentation": "38-year-old man with HIV who stopped his medicines 2 years ago. Three weeks of slowly increasing breathlessness on exertion, dry cough and low fevers. T 38.1 C, HR 104, RR 28, SpO2 92% at rest falling to 84% after a short walk; lungs nearly clear.",
+      "workup": "CD4 140/uL. Chest film: diffuse bilateral hazy interstitial opacities. Induced sputum or BAL: small round cysts on silver or fluorescent-antibody stain; the organism cannot be cultured. Biopsy: foamy alveolar exudate, plasma cells.",
+      "management": "TMP-SMX (pentamidine if intolerant); restore immunity with antiretroviral therapy; prophylaxis with TMP-SMX (dapsone as an alternative) whenever CD4 is under 200.",
+      "lecture": "CV137",
+      "lectures": [
+        "CV137",
+        "CV132",
+        "CV128"
+      ]
+    },
+    {
+      "name": "Chronic mucocutaneous candidiasis",
+      "presentation": "7-year-old with painless white plaques coating the tongue and cheeks on and off since infancy, thick crumbling fingernails and red scaly patches in the skin folds, each returning after every topical course. T 36.8 C; growth normal; never had a bloodstream or deep infection.",
+      "workup": "Scrapings: budding yeasts with pseudohyphae. HIV test negative. Genetic testing: mutation disrupting IL-17 signaling.",
+      "management": "Topical nystatin or an azole for the mouth and skin, oral azoles for the nails; expect recurrences, since the IL-17 defect persists.",
+      "lecture": "CV137",
+      "lectures": [
+        "CV137"
+      ]
+    },
+    {
+      "name": "Primary pulmonary coccidioidomycosis",
+      "presentation": "35-year-old man from Ohio who drove through a dust storm outside Phoenix 2 weeks ago, after a wet winter there. Fever, dry cough, chest pain on breathing in, fatigue, aching joints, and tender red nodules on both shins. T 38.2 C, HR 96, SpO2 96%; scattered crackles on the right.",
+      "workup": "Sputum or biopsy: large round thick-walled structures packed with endospores. ELISA IgM/IgG positive; complement fixation IgG titer measured. The lab is told not to culture it (airborne arthroconidia infect staff).",
+      "management": "Most need no treatment. Fluconazole or itraconazole for persistent lung infection or a symptomatic mild case. The shin nodules are an immune reaction, not spread of the infection.",
+      "lecture": "CV136",
+      "lectures": [
+        "CV136",
+        "CV141",
+        "CV132"
+      ]
+    },
+    {
+      "name": "Disseminated coccidioidomycosis",
+      "presentation": "29-year-old Filipino woman, 33 weeks pregnant, living in Tucson. Two months of fever, cough and weight loss, then enlarging ulcerated skin nodules on the face, a hot swollen ankle and a week of headache. T 38.7 C, HR 108; tender left ankle effusion; mild neck stiffness.",
+      "workup": "Skin biopsy: granulomas containing thick-walled spherules full of endospores. Complement fixation IgG titer high. Ankle film: lytic bone lesion. Culture deliberately avoided.",
+      "management": "IV amphotericin B for disseminated disease; fluconazole when the meninges are involved, though results there are relatively poor.",
+      "lecture": "CV136",
+      "lectures": [
+        "CV136",
+        "CV132"
+      ]
+    },
+    {
+      "name": "Histoplasmosis",
+      "presentation": "24-year-old college student from Kentucky, 12 days after a weekend exploring caves full of roosting bats; three friends on the trip are ill too. Fever, dry cough, chest ache and fatigue. T 38.4 C, HR 98, RR 20, SpO2 95%; lungs clear; liver and spleen not felt.",
+      "workup": "Chest CT: several small nodules in both lungs. Antigen positive in urine and blood by enzyme immunoassay. Biopsy: tiny oval yeasts packed inside macrophages; later these foci calcify (dormant organisms can reactivate).",
+      "management": "Itraconazole for mild or moderate disease (most heavy exposures settle on their own); amphotericin B for severe lung disease or dissemination, as in AIDS.",
+      "lecture": "CV136",
+      "lectures": [
+        "CV136",
+        "CV141",
+        "CV132"
+      ]
+    },
+    {
+      "name": "Blastomycosis",
+      "presentation": "48-year-old Wisconsin man who hunts and canoes, often digging along riverbanks. Two months of cough, fevers and a 6-kg weight loss, then raised crusted wart-like plaques on his face and shin and low back pain. T 38.1 C; tender L3 spinous process; lungs: crackles right upper zone.",
+      "workup": "Sputum KOH prep: large thick-walled yeasts, each with a single broad-based bud. Skin biopsy: pus-filled granulomas (neutrophils inside granulomas). Spine film: lytic vertebral lesion. Serology is not useful.",
+      "lecture": "CV136",
+      "lectures": [
+        "CV136",
+        "CV132"
+      ]
+    },
+    {
+      "name": "Paracoccidioidomycosis",
+      "presentation": "62-year-old man who has farmed in rural Brazil all his life. A year of cough and breathlessness, then painful ulcers on the gums, lips and inside the nose that keep spreading; 8-kg weight loss. T 37.8 C, RR 22, SpO2 93%; granular ulcers on the lips and palate.",
+      "workup": "Scraping of the lip ulcer: a large central yeast surrounded by many small narrow-based daughter buds. Chest film: chronic bilateral infiltrates.",
+      "management": "Itraconazole; a sulfonamide also works but needs prolonged therapy to prevent relapse; amphotericin B for disseminated disease.",
+      "lecture": "CV136",
+      "lectures": [
+        "CV136"
+      ]
+    },
+    {
+      "name": "Talaromycosis",
+      "presentation": "34-year-old man from northern Vietnam with HIV, never treated. Six weeks of fevers, a 9-kg weight loss and dozens of small skin papules, many with a dark necrotic center, over the face, trunk and arms. T 38.9 C, HR 110, RR 18; thin.",
+      "workup": "CD4 25/uL. Skin scraping: elongated yeast cells, each divided by one dark central transverse septum (they split rather than bud). Culture confirms.",
+      "lecture": "CV136",
+      "lectures": [
+        "CV136"
+      ]
+    },
+    {
+      "name": "Allergic bronchopulmonary aspergillosis",
+      "presentation": "26-year-old woman with asthma since childhood. Over 6 months, more wheeze and breathlessness despite high-dose inhaled steroids, and a cough bringing up thick brown mucus plugs. T 37.2 C, RR 20, SpO2 95%; wheezes in both lungs on breathing out.",
+      "workup": "Eosinophils 1,400/uL; total IgE 2,800 IU/mL, with IgE specific for the mold's antigens. Coughed-up plugs contain branching septate hyphae; the mold sits in the airways without invading lung tissue.",
+      "lecture": "CV137",
+      "lectures": [
+        "CV137"
+      ]
+    },
+    {
+      "name": "Aspergilloma",
+      "presentation": "62-year-old man who completed 6 months of four-drug treatment for a cavitating lung infection 15 years ago. Three months of coughing up a teaspoon of blood a few times a week; no fever or weight loss. T 36.9 C, RR 14, SpO2 96%; chest exam normal.",
+      "workup": "Chest CT: round solid mass inside an old right upper lobe cavity; the mass shifts when he lies prone. Culture: septate hyphae branching at acute angles; spores in radiating chains.",
+      "management": "Surgical resection of the cavity for repeated bleeding; voriconazole (or posaconazole, caspofungin, amphotericin B) if the mold starts invading tissue.",
+      "lecture": "CV137",
+      "lectures": [
+        "CV137"
+      ],
+      "avoid": {
+        "management": [
+          "Invasive aspergillosis in neutropenia"
+        ]
+      }
+    },
+    {
+      "name": "Invasive aspergillosis in neutropenia",
+      "presentation": "45-year-old man with acute leukemia, day 14 after induction chemotherapy, absolute neutrophil count 80/uL, also on prednisone. Three days of fever despite broad antibiotics, cough, chest discomfort, blood-streaked sputum and breathlessness. T 39.2 C, HR 118, RR 28, SpO2 91%.",
+      "workup": "Chest CT: several nodules. Serum galactomannan antigen positive; PCR positive. Lung biopsy: septate hyphae branching at acute (45 degree) angles, invading lung tissue and vessels.",
+      "management": "Voriconazole first-line; amphotericin B, posaconazole or caspofungin as alternatives; surgery for localized disease.",
+      "lecture": "CV137",
+      "lectures": [
+        "CV137"
+      ]
+    },
+    {
+      "name": "Cryptococcal meningitis in HIV",
+      "presentation": "36-year-old man with untreated HIV who keeps racing pigeons. Three weeks of worsening headache and fever, now vomiting and confusion. T 38.3 C, HR 100, BP 132/84; disoriented, mild neck stiffness; a few umbilicated papules on the face.",
+      "workup": "CD4 35/uL. CSF: budding yeasts with narrow-based buds and a wide clear capsule on negative stain; capsular antigen positive by latex agglutination in CSF and blood; CSF culture grows the yeast.",
+      "management": "Amphotericin B plus flucytosine first, then long-term fluconazole.",
+      "lecture": "CV137",
+      "lectures": [
+        "CV137",
+        "CV132"
+      ]
+    },
+    {
+      "name": "Rhino-orbital-cerebral mucormycosis",
+      "presentation": "52-year-old woman with type 1 diabetes admitted in ketoacidosis (glucose 540 mg/dL, pH 7.10). Three days of nasal stuffiness, right sinus pain and headache, now swelling around the right eye, double vision and a black patch of dead tissue on the right palate. T 38.5 C, HR 118.",
+      "workup": "Biopsy of the palate lesion: wide, thick-walled, ribbon-like hyphae without septa, branching at right angles and invading vessel walls, with surrounding necrosis. Culture is difficult and often fails.",
+      "management": "Emergency surgical debridement plus IV amphotericin B, while correcting the ketoacidosis.",
+      "lecture": "CV137",
+      "lectures": [
+        "CV137",
+        "CV141"
+      ]
+    },
+    {
+      "name": "Q fever",
+      "presentation": "42-year-old sheep farmer who helped deliver lambs in the barn the week before. Two days of severe headache, chills, muscle aches and a dry cough. T 39.4 C, HR 96, RR 20, SpO2 95%; crackles at the right base; tender liver edge.",
+      "workup": "Sputum Gram stain: inflammatory cells only, no organisms seen (the organism is intracellular and stains poorly). Chest film: patchy right lower zone infiltrate. ALT 140 U/L.",
+      "management": "Doxycycline. Follow patients with valve disease or immune suppression: years later the infection can return as subacute endocarditis with negative blood cultures.",
+      "lecture": "CV131",
+      "lectures": [
+        "CV131",
+        "CV141"
+      ]
+    },
+    {
+      "name": "Inhalational anthrax",
+      "presentation": "44-year-old man who sorts and cleans imported raw goat wool. Two days of fever, malaise and muscle aches, then a rapid slide into breathlessness and chest pain. T 39.6 C, HR 128, BP 84/50, RR 32, SpO2 88%; dull bases; no skin lesions.",
+      "workup": "Chest film: widened mediastinum with bilateral pleural effusions and little lung infiltrate. Blood culture: large gram-positive rods in chains with central spores; capsule made of poly-D-glutamate rather than sugar.",
+      "management": "Ciprofloxacin immediately with ICU support; once severe breathing symptoms and shock begin, untreated mortality approaches 100%.",
+      "lecture": "CV131",
+      "lectures": [
+        "CV131"
+      ]
+    },
+    {
+      "name": "Pneumonic tularemia",
+      "presentation": "38-year-old hunter who skinned and cleaned several wild rabbits 4 days ago. High fever, chills, headache, malaise, dry cough and chest pain on breathing in. T 39.5 C, HR 104, RR 24, SpO2 92%; crackles over both lower lobes; no skin ulcer.",
+      "workup": "Gram stain: tiny gram-negative coccobacilli, mostly inside macrophages. Agglutination test (antibody titer) positive; the lab avoids culturing it. Chest film: patchy bilateral infiltrates.",
+      "management": "Streptomycin. Humans are dead-end hosts: ticks keep the organism in wild rabbits, so prevention is avoiding ticks and handling game with care.",
+      "lecture": "CV131",
+      "lectures": [
+        "CV131",
+        "CV141"
+      ]
+    },
+    {
+      "name": "Pneumonic plague",
+      "presentation": "29-year-old field biologist in rural New Mexico who traps prairie dogs; 3 days ago she nursed a coworker who had a swollen, tender groin node and later a cough. Sudden high fever, chills, weakness, bloody cough and breathlessness. T 40.1 C, HR 132, BP 82/48, RR 34, SpO2 85%.",
+      "workup": "Sputum and blood: gram-negative bacilli whose stain gathers at both ends of each cell; culture grows the same rods. WBC 24,000/uL.",
+      "management": "Streptomycin at once: the inhaled form nears 100% mortality untreated. Prevention is rodent and flea control.",
+      "lecture": "CV131",
+      "lectures": [
+        "CV131"
+      ]
+    },
+    {
+      "name": "Pulmonary nocardiosis",
+      "presentation": "58-year-old kidney transplant recipient on tacrolimus and prednisone who gardens daily. Three weeks of fever, productive cough and a 4-kg weight loss, then 2 days of headache and new left arm weakness. T 38.4 C, HR 102, RR 22, SpO2 94%; crackles at the right apex.",
+      "workup": "Chest CT: several nodules, some cavitating; brain MRI: a ring-enhancing lesion. Sputum: gram-positive branching filaments that are weakly acid-fast with a mild decolorizer; aerobic and catalase-positive.",
+      "management": "A sulfonamide (TMP-SMX); image the brain, since spread there (and to skin) is common.",
+      "lecture": "CV131",
+      "lectures": [
+        "CV131"
+      ]
+    },
+    {
+      "name": "Actinomycosis",
+      "presentation": "46-year-old man with many decayed teeth who had a lower molar pulled 6 weeks ago. A firm, slowly enlarging swelling at the angle of the jaw now drains pus through the skin; 3 weeks of low fever and cough. T 37.9 C; hard, painless jaw mass with a draining tract.",
+      "workup": "Pus contains hard yellow grains made of tangled gram-positive branching filaments; not acid-fast; grows only anaerobically and is catalase-negative. Chest film: right lower lobe infiltrate.",
+      "management": "Penicillin; fix the dental disease, since the organism is normal mouth flora that reaches the lung when aspirated.",
+      "lecture": "CV131",
+      "lectures": [
+        "CV131"
+      ]
+    },
+    {
+      "name": "Cholera",
+      "presentation": "Relief worker, 34, in a post-earthquake camp drinking untreated river water. Since yesterday: sudden painless, profuse watery diarrhea, pale gray with mucus flecks; no fever, no blood. T 36.9 C, HR 128, BP 78/44; sunken eyes, skin tenting.",
+      "workup": "Stool: no white cells or blood; curved, oxidase-positive gram-negative rods grow on thiosulfate-citrate-bile salts-sucrose agar. K+ 2.8 mEq/L, HCO3- 14 mEq/L, creatinine 2.1 mg/dL.",
+      "management": "Oral rehydration with electrolyte replacement - very treatable this way, against 25-50% mortality untreated. Reportable to the CDC.",
+      "lecture": "CV138",
+      "lectures": [
+        "CV138"
+      ]
+    },
+    {
+      "name": "Measles",
+      "presentation": "Unvaccinated 4-year-old, 10 days after a crowded indoor party: 3 days of fever to 40.5 C, cough, runny nose, sore throat, red watery eyes and light sensitivity, then a dense red rash that starts on the face and spreads to the trunk, arms and legs.",
+      "management": "Supportive: acetaminophen or ibuprofen for fever, possibly vitamin A; nothing lowers the viral load. Airborne isolation (negative pressure, N95); the virus also survives on surfaces up to 2 hours. Reportable.",
+      "lecture": "CV138",
+      "lectures": [
+        "CV138",
+        "CV140"
+      ]
+    },
+    {
+      "name": "Dengue",
+      "presentation": "27-year-old back 5 days from a month in the Philippines, many mosquito bites. Sudden high fever, chills, malaise, severe headache, pain behind the eyes and intense pain in the back, joints, muscles and bones; a red rash. T 39.8 C, HR 104, BP 118/72.",
+      "management": "Supportive only: there is no antiviral. Watch for the severe hemorrhagic form with shock and kidney failure, mainly on reinfection with a different serotype (15% mortality untreated, about 1% with supportive care).",
+      "lecture": "CV138",
+      "lectures": [
+        "CV138"
+      ]
+    },
+    {
+      "name": "Ebola / Marburg virus disease",
+      "presentation": "36-year-old nurse back 8 days from treating patients in an outbreak in Uganda. Headache, fever, sore throat and muscle aches, then abdominal pain, vomiting, watery diarrhea and a rash; now oozing blood from IV sites and gums. T 39.8 C, HR 124, BP 84/52.",
+      "workup": "ELISA and RT-PCR of blood positive, run with special precautions in a high-containment lab; high viral titers in most tissues.",
+      "management": "Strict isolation (spread is by blood and body fluids). Supportive: IV fluids, electrolytes, oxygen, pressure support, antiemetics, fever and pain control, treat other infections; antibodies protect (monoclonals REGN-EB3, mAb114).",
+      "lecture": "CV138",
+      "lectures": [
+        "CV138"
+      ]
+    },
+    {
+      "name": "Hantavirus pulmonary syndrome",
+      "presentation": "41-year-old man in rural New Mexico who swept out a shut-up cabin full of mouse droppings 2 weeks ago. Four days of fever, headache and muscle aches, then rapidly worsening breathlessness. T 38.9 C, HR 122, BP 86/50, RR 34, SpO2 82%; crackles throughout; no bleeding.",
+      "workup": "Chest film: bilateral pulmonary edema with a normal-sized heart. Four-fold rise in IgG between acute and convalescent sera; RT-PCR positive.",
+      "management": "Supportive care, usually in the ICU (oxygen, ventilatory support); up to 30% die. Caught by inhaling dust from deer mouse urine and droppings.",
+      "lecture": "CV138",
+      "lectures": [
+        "CV138",
+        "CV141"
+      ],
+      "avoid": {
+        "workup": [
+          "Severe COVID-19 with ARDS",
+          "Acute respiratory distress syndrome"
+        ]
+      }
+    },
+    {
+      "name": "Lemierre syndrome",
+      "presentation": "19-year-old student whose sore throat began a week ago and was easing. Now high fevers, rigors and a painful swelling along the left side of the neck below the jaw. T 39.7 C, HR 124, BP 96/60, RR 22; tender, cord-like swelling along the front of the left sternocleidomastoid.",
+      "workup": "Blood cultures positive (septicemia) for an anaerobic gram-negative rod. Neck ultrasound: clot in the left internal jugular vein, same side as the throat infection.",
+      "lecture": "CV141",
+      "lectures": [
+        "CV141"
+      ]
+    },
+    {
+      "name": "Diphtheria",
+      "presentation": "7-year-old who never received childhood vaccines, with 2 days of sore throat and low fever. T 38.2 C, HR 116. At first look the throat is red with no exudate; minutes later a small gray-white patch on one tonsil is visibly spreading across the oropharynx within 10-15 minutes.",
+      "management": "Treat as an emergency at once, without waiting for tests, and protect the airway; a macrolide such as erythromycin is active. Prevented by DTaP and Tdap.",
+      "lecture": "CV141",
+      "lectures": [
+        "CV141",
+        "CV128"
+      ]
+    },
+    {
+      "name": "Acute bacterial sinusitis",
+      "presentation": "35-year-old man whose cold 2 weeks ago never cleared despite over-the-counter decongestants. Sinus pressure, blocked nose, thick purulent nasal discharge, frontal headache, facial pain worse on bending forward. T 37.6 C; tender over both maxillary sinuses.",
+      "management": "Amoxicillin (TMP-SMX if severe penicillin allergy), plus antihistamines or nasal steroids for symptoms. CT only if complicated; watch for bone infection, meningitis or brain abscess.",
+      "lecture": "CV141",
+      "lectures": [
+        "CV141"
+      ]
+    },
+    {
+      "name": "Mumps",
+      "presentation": "19-year-old unvaccinated college student during a dormitory outbreak. Two days of fever, headache, muscle aches, poor appetite and fatigue, then painful swelling in front of and below both ears; today a sore, swollen right testis. T 38.4 C, HR 96.",
+      "workup": "Mostly clinical. Serum IgM positive (new infection; IgG alone would mean past immunity); RT-PCR, viral culture or a 4-fold rise in IgG can confirm.",
+      "management": "Supportive. Keep away from others from 1-2 days before the swelling until 5 days after it (spread by droplets and fomites); reportable to the CDC; watch for testicular atrophy and late meningitis.",
+      "lecture": "CV138",
+      "lectures": [
+        "CV138"
+      ]
+    },
+    {
+      "name": "Acute viral laryngitis",
+      "presentation": "29-year-old elementary-school teacher who had a runny nose and sore throat 4 days ago, now with sudden hoarseness that has progressed to almost no voice. No stridor, no drooling, no breathing difficulty. T 37.3 C, RR 14, SpO2 99%; mildly red throat; neck supple.",
+      "workup": "Laryngoscopy: red, swollen larynx and vocal folds, both moving normally; no mass.",
+      "management": "Voice rest and a humidifier; antibiotics are rarely needed.",
+      "lecture": "CV141",
+      "lectures": [
+        "CV141"
+      ]
+    }
+  ]
+}

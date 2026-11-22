@@ -1,0 +1,60 @@
+{
+  "title": "Spores, Stones &amp; Spirometry",
+  "description": "CPR Block 3 board-prep matching game — bugs, drugs by class, buzzword-free clinical correlates, glomerular biopsy patterns and genes from lectures CV116-CV163 (OMM excluded).",
+  "issue": "Block VII",
+  "slogan": "Lectures CV116&ndash;CV163",
+  "footer": "Built from CPR Block 3 lecture summaries (CV116&ndash;CV163, OMM excluded) &middot; verify against source material",
+  "store": "mgcpr3",
+  "data": "cpr3/matching_data.json",
+  "out": "cpr3_matching_game.html",
+  "cats": {
+    "bugs": {
+      "label": "Bugs", "anchorLabel": "Bug",
+      "anchors": [
+        {"field": "name", "label": "Bug"},
+        {"field": "disease", "label": "Disease"}
+      ],
+      "attrs": [
+        {"field": "micro", "label": "Micro & Lab ID"},
+        {"field": "presentation", "label": "Presentation"},
+        {"field": "disease", "label": "Disease"}
+      ]
+    },
+    "drugs": {
+      "label": "Drugs", "anchorLabel": "Drug",
+      "filter": {
+        "field": "groups", "label": "Drug classes", "summary": "Filter by drug class",
+        "order": ["Antimycobacterials", "Antivirals", "Antimicrobials", "Airway", "Kidney & bladder", "Acid-base", "Sleep", "Oncology"]
+      },
+      "attrs": [
+        {"field": "mechanism", "label": "Mechanism"},
+        {"field": "adverseEffects", "label": "Adverse Effects"},
+        {"field": "use", "label": "Clinical Use"}
+      ]
+    },
+    "correlates": {
+      "label": "Clinical Correlates", "anchorLabel": "Diagnosis",
+      "attrs": [
+        {"field": "presentation", "label": "Presentation"},
+        {"field": "workup", "label": "Labs & Workup"},
+        {"field": "management", "label": "Management"}
+      ]
+    },
+    "glomerular": {
+      "label": "Glomerular Biopsy", "anchorLabel": "Disease",
+      "attrs": [
+        {"field": "lightMicro", "label": "Light Microscopy"},
+        {"field": "immunofluor", "label": "Immunofluorescence"},
+        {"field": "electronMicro", "label": "Electron Microscopy"},
+        {"field": "clue", "label": "Clinical Clue"}
+      ]
+    },
+    "genes": {
+      "label": "Genes", "anchorLabel": "Disease", "defaultAttr": 0,
+      "attrs": [
+        {"field": "card", "label": "Gene"},
+        {"field": "role", "label": "What It Does"}
+      ]
+    }
+  }
+}

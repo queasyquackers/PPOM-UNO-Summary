@@ -1,0 +1,737 @@
+{
+  "correlates": [
+    {
+      "name": "Ethylene glycol poisoning",
+      "presentation": "A 45-year-old man is found drowsy in his garage 8 hours after drinking from a jug of automotive coolant after a fight with his wife. He breathes fast and deep, RR 32, BP 130/80. Vision is normal. Na+ 140, Cl- 101, HCO3- 7; pH 7.10, PaCO2 20.",
+      "management": "Fomepizole to block alcohol dehydrogenase; add thiamine and pyridoxine, cofactors that speed the toxin's harmless breakdown; saline diuresis; IV or oral ethanol if no fomepizole; dialysis if severe.",
+      "lecture": "CV126",
+      "lectures": [
+        "CV126",
+        "CV155"
+      ],
+      "avoid": {
+        "management": [
+          "Methanol poisoning"
+        ]
+      },
+      "workup": "Creatinine climbs from 1.0 to 4.2 mg/dL over 2 days. Kidney biopsy: tubular cells swollen and ballooned; under polarized light, calcium oxalate crystals sit in and plug the tubular lumens."
+    },
+    {
+      "name": "Methanol poisoning",
+      "presentation": "A 52-year-old man drank liquor from a friend's homemade still 18 hours ago. Now he has headache, vomiting and vision that has gone blurred and dim, worsening by the hour. RR 28, BP 134/82, pupils sluggish. Na+ 139, Cl- 100, HCO3- 9; pH 7.15, PaCO2 23.",
+      "management": "Fomepizole to block alcohol dehydrogenase so the liver meets only a trickle of toxic metabolite; if none, IV ethanol (or oral vodka) to compete for the enzyme; saline diuresis; dialysis for severe cases.",
+      "lecture": "CV126",
+      "lectures": [
+        "CV126"
+      ],
+      "avoid": {
+        "management": [
+          "Ethylene glycol poisoning"
+        ]
+      }
+    },
+    {
+      "name": "Salicylate overdose",
+      "presentation": "A 24-year-old woman with chronic migraines has had more frequent headaches for weeks and treats them with over-the-counter pills. Her husband brings her in confused, her breathing 'looks uncomfortable'. RR 34, HR 116. Na+ 140, Cl- 104, HCO3- 13.",
+      "workup": "ABG 2 hours after ingestion: pH 7.53, PaCO2 24, HCO3- 21. ABG at 10 hours: pH 7.41, PaCO2 20, HCO3- 12, anion gap 24.",
+      "management": "Activated charcoal; gastric lavage only for a massive ingestion under 30 minutes old; IV sodium bicarbonate to alkalinize the urine (not the serum) and speed excretion; dialysis if severe.",
+      "lecture": "CV126",
+      "lectures": [
+        "CV126"
+      ]
+    },
+    {
+      "name": "Rhabdomyolysis",
+      "presentation": "A deconditioned 34-year-old woman comes to urgent care with aching pain in both thighs that has not eased in the 5 days since her first-ever indoor cycling class. Vitals are normal; both quadriceps are tender to touch. Creatinine 1.0 mg/dL.",
+      "workup": "Creatine kinase 25,000 U/L five days after the exertion (about 5,000 is the level that prompts admission); muscle-pigment casts in the urine sediment.",
+      "management": "Admit for IV fluids and diuresis to flush muscle breakdown products from the tubules. Do not add sodium bicarbonate: it reduces urinary casts but does not change kidney injury or mortality.",
+      "lecture": "CV126",
+      "lectures": [
+        "CV126",
+        "CV155"
+      ]
+    },
+    {
+      "name": "Acute mountain sickness",
+      "presentation": "A 31-year-old trekker flies in and climbs to 4,100 m in two days on the way to a Himalayan base camp. On the second night she has a throbbing headache, nausea and cannot sleep. HR 106, RR 22, SpO2 84% on air; lungs clear, gait steady.",
+      "management": "Prevent it with acetazolamide started before the ascent: the drug's mild metabolic acidosis drives a compensatory rise in minute ventilation, raising alveolar oxygen and gas exchange.",
+      "lecture": "CV126",
+      "lectures": [
+        "CV126"
+      ]
+    },
+    {
+      "name": "Chronic respiratory acidosis in COPD",
+      "presentation": "A 77-year-old man who smoked 2 packs a day for 50 years and uses three inhalers had a clinic ABG on room air: pH 7.35, PaCO2 65, HCO3- 33. Today paramedics put him on 15 L/min oxygen for a chest cold; within an hour he is drowsy, RR 8, SpO2 99%.",
+      "management": "Give only a little oxygen, titrated low, if needed: high-flow oxygen can push his CO2 higher and stop his breathing. Avoid sedatives; use CPAP or BiPAP by mask, or intubate, if ventilation stays poor.",
+      "lecture": "CV126",
+      "lectures": [
+        "CV126"
+      ],
+      "avoid": {
+        "presentation": [
+          "Emphysema-predominant COPD",
+          "Chronic bronchitis"
+        ]
+      }
+    },
+    {
+      "name": "Hyperventilation from a panic attack",
+      "presentation": "A 22-year-old student in exam week has 20 minutes of pounding heart, a feeling she cannot get enough air, lightheadedness and tingling around her mouth and in her fingertips; her hands then cramp into flexion. HR 118, RR 32, BP 128/76, SpO2 100%, lungs clear.",
+      "workup": "pH 7.56, PaCO2 24, HCO3- 22; ionized calcium low (3.9 mg/dL) with a normal total calcium; K+ 3.3 mEq/L; ECG sinus tachycardia.",
+      "management": "Calm reassurance and treat the underlying cause; do not infuse acid, which does not work. Watch the potassium: a low K+ can weaken the muscles, the diaphragm included.",
+      "lecture": "CV126",
+      "lectures": [
+        "CV126"
+      ]
+    },
+    {
+      "name": "Metabolic alkalosis from antacid overuse",
+      "presentation": "A 60-year-old man with GERD and peptic ulcer disease skips his omeprazole and instead chews calcium carbonate tablets with glasses of milk all day, his son says. He is weak and confused. RR 10, BP 132/84. HCO3- 36 mEq/L, creatinine 2.1 mg/dL, the same as last year.",
+      "workup": "pH 7.51, PaCO2 49, HCO3- 37: pH above 7.4 with both bicarbonate and PaCO2 high.",
+      "management": "Treat the cause: stop the chewable calcium carbonate, baking soda, diuretic, laxative or steroid that is loading bicarbonate; acetazolamide only if very severe.",
+      "lecture": "CV126",
+      "lectures": [
+        "CV126"
+      ]
+    },
+    {
+      "name": "Lactic acidosis from septic shock",
+      "presentation": "A 67-year-old woman has had 3 days of fever and left lower abdominal pain and is now confused. T 39.4 C, BP 78/42, HR 128, RR 30, capillary refill 4 seconds, skin mottled; left lower quadrant tender with guarding. WBC 21,000 with 18% bands.",
+      "workup": "Na+ 140, Cl- 100, HCO3- 14 (anion gap 26); pH 7.28, PaCO2 30; serum lactate 6.8 mmol/L.",
+      "management": "Treat the cause: early IV fluids (the right amount, not too much), prompt antibiotics, source control. Do not give bicarbonate because you dislike the pH number - alkali is almost never indicated here.",
+      "lecture": "CV126",
+      "lectures": [
+        "CV126"
+      ]
+    },
+    {
+      "name": "Acute respiratory distress syndrome",
+      "presentation": "A 58-year-old man admitted 2 days ago with severe acute pancreatitis grows steadily more breathless over 12 hours. RR 34, HR 120, BP 104/64, SpO2 86% on a 60% face mask. Crackles throughout both lungs; neck veins flat, no leg edema.",
+      "workup": "PaO2 60 mm Hg on FiO2 0.6 (ratio 100); chest film: dense opacities in both lungs, no pleural effusions; wedge pressure 10 mm Hg; echo shows a normally contracting left ventricle.",
+      "management": "Treat the trigger; low tidal volumes of 4-8 mL/kg; PEEP of at least 5 cm H2O, probably more; judicious fluids; prone positioning. No drug has been shown to lower mortality.",
+      "lecture": "CV126",
+      "lectures": [
+        "CV126"
+      ],
+      "avoid": {
+        "workup": [
+          "Severe COVID-19 with ARDS"
+        ]
+      }
+    },
+    {
+      "name": "Transfusion-related acute lung injury",
+      "presentation": "A 64-year-old woman receives 2 units of packed red cells for a hemoglobin of 6.8 g/dL after hip surgery. Two hours after the second unit she is suddenly breathless: T 38.3 C, RR 32, BP 96/58, SpO2 85% on air, crackles in both lungs, neck veins flat.",
+      "management": "Stop the infusion and support oxygenation. The real treatment is prevention: give red cells and plasma only when clearly needed and as little as possible - every unit is a 'liquid transplant' that inflames the lung.",
+      "lecture": "CV126",
+      "lectures": [
+        "CV126"
+      ],
+      "avoid": {
+        "presentation": [
+          "Acute respiratory distress syndrome"
+        ]
+      }
+    },
+    {
+      "name": "Advanced CKD with volume overload and uremia",
+      "presentation": "A 57-year-old man with diabetes, told at 50 his kidneys were mildly affected, stopped all his medicines. For 3 months: fatigue, poor appetite, nausea, itching, numb feet, swollen ankles, breathless on stairs, drowsy by noon. BP 168/96; scratch marks; leg edema; BUN 82 mg/dL.",
+      "workup": "eGFR 25 mL/min, below 60 on every check for over 3 months; urine albumin-to-creatinine ratio 420 mg/g; BUN 82, creatinine 3.4 mg/dL; K+ 5.6, HCO3- 18, phosphate 6.1, calcium 7.9; Hgb 9.9 g/dL.",
+      "management": "At GFR 15-29, prepare for kidney replacement with nephrology and the transplant team; at GFR below 15 start dialysis or transplant (preemptive or early transplant does best). Sodium under 2 g/day; ask about uremic symptoms at every visit.",
+      "lecture": "CV159",
+      "lectures": [
+        "CV159",
+        "CV143"
+      ],
+      "avoid": {
+        "presentation": [
+          "Diabetic nephropathy"
+        ]
+      }
+    },
+    {
+      "name": "Anemia of chronic kidney disease",
+      "presentation": "A 62-year-old woman with long-standing hypertension and an eGFR of 34 for two years reports 4 months of tiredness and getting winded on one flight of stairs. No bleeding, no nausea or itching. BP 132/80, HR 92; pale conjunctivae; stool guaiac negative. Hgb 9.6 g/dL.",
+      "workup": "Hgb 9.6 g/dL, MCV 88 fL, normal RDW, normal reticulocyte count; serum iron low, TIBC low, ferritin high. An erythropoietin level is sent only if the picture is confounding.",
+      "lecture": "CV159",
+      "lectures": [
+        "CV159",
+        "CV143"
+      ]
+    },
+    {
+      "name": "Renal osteodystrophy (secondary hyperparathyroidism)",
+      "presentation": "A 49-year-old man on hemodialysis for 6 years, who often skips his meal-time pills, has had a week of tingling around his mouth and painful cramping of his hands. BP 150/90, HR 78. ECG: QTc 520 ms.",
+      "workup": "Calcium 7.2 mg/dL, phosphate 7.8 mg/dL, PTH 640 pg/mL, low activated vitamin D. Hand films: small punched-out lucent spots where mineral is no longer deposited.",
+      "management": "Limit dietary phosphate to 800 mg/day or less (improves the parathyroid drive even though serum phosphate barely moves), give phosphate binders with meals, and keep nephrology involved.",
+      "lecture": "CV159",
+      "lectures": [
+        "CV159"
+      ]
+    },
+    {
+      "name": "Hyperkalemia in CKD",
+      "presentation": "A 70-year-old man with stage 3b kidney disease (eGFR 38) and heart failure started lisinopril 3 weeks ago; since then he takes ibuprofen daily for knee pain and drinks orange juice each morning. His legs feel weak. HR 52, BP 124/70; K+ 6.6 mEq/L, creatinine 1.8 mg/dL (his usual).",
+      "management": "Find the cause: stop the NSAID and cut dietary potassium; the ACE inhibitor may not need to stop if something else is responsible. Recheck electrolytes 2-4 weeks after any ACE inhibitor/ARB change. IV bicarbonate shifts K+ into cells.",
+      "lecture": "CV159",
+      "lectures": [
+        "CV159",
+        "CV126"
+      ]
+    },
+    {
+      "name": "Contrast-associated acute kidney injury",
+      "presentation": "A 68-year-old woman with diabetes and an eGFR of 34, taking metformin, ibuprofen and chlorthalidone, has an abdominal CT with IV iodinated dye for pain. Two days later her creatinine is 2.5 mg/dL (1.6 before) and her urine output has fallen. BP never below 120/70; no rash.",
+      "management": "Before any iodinated study in CKD: hold metformin the day before (lactic acidosis risk) and restart after; stop NSAIDs 2 days and loop or thiazide-type diuretics 24 hours before; holding ACEi/ARB is debated. Use MRI if the dye is a problem.",
+      "lecture": "CV159",
+      "lectures": [
+        "CV159"
+      ]
+    },
+    {
+      "name": "Acute uncomplicated cystitis",
+      "presentation": "A healthy 29-year-old woman has 2 days of burning on urination, urgency and going every hour; her urine looks cloudy and smells strong. No medicines, no past history. BP 100/70, HR 90, T 98.0 F. No back or flank tenderness, abdomen nontender, pelvic exam normal.",
+      "workup": "Office dipstick: nitrite and leukocyte esterase positive; microscopy shows white cells and bacteria but no white cell casts. No imaging, CBC or metabolic panel needed.",
+      "management": "With a good story and a positive dipstick, treat empirically: TMP-SMX for 3 days (sulfa allergy: nitrofurantoin 5-7 days or a fluoroquinolone 3 days). Send a culture if the dipstick is unimpressive or local resistance is high.",
+      "lecture": "CV153",
+      "lectures": [
+        "CV153",
+        "CV152",
+        "CV143",
+        "CV157"
+      ]
+    },
+    {
+      "name": "Urethritis (sexually transmitted)",
+      "presentation": "An 18-year-old man has 3 days of burning when he urinates, itching at the tip of the penis and pus at the urethral opening, a week after unprotected sex with a new partner. No urgency or frequency, no fever. Suprapubic area barely tender; no flank tenderness.",
+      "workup": "Urine culture: low colony count, reported as 'sterile' or mixed genital flora. Gram stain of the discharge shows neutrophils, some containing gram-negative diplococci; swab and urine sent for STI testing.",
+      "lecture": "CV153",
+      "lectures": [
+        "CV153",
+        "CV152",
+        "CV143",
+        "CV157"
+      ]
+    },
+    {
+      "name": "Acute pyelonephritis",
+      "presentation": "A 26-year-old woman had 3 days of burning and frequency; today she has T 39.4 C with shaking chills, nausea, two episodes of vomiting and right flank pain. HR 112, BP 118/72. Striking the right angle between the 12th rib and the spine reproduces the pain.",
+      "workup": "Urine: leukocyte esterase and nitrite positive, many white cells and bacteria, white cell casts. WBC 16,500. CT (if done): an area of darker, poorly enhancing kidney.",
+      "management": "Send a urine culture, then start a bactericidal broad-spectrum drug at once (fluoroquinolone, third-generation cephalosporin, aminoglycoside). Admit for intractable vomiting, shock or dehydration; 10+ days; image if no better at 72 h.",
+      "lecture": "CV153",
+      "lectures": [
+        "CV153",
+        "CV152",
+        "CV155",
+        "CV143"
+      ]
+    },
+    {
+      "name": "Asymptomatic bacteriuria",
+      "presentation": "A 79-year-old woman with type 2 diabetes in assisted living has a urine culture sent at a routine visit. She has no burning, frequency, fever, back pain or change in her thinking, and eats well. T 36.9 C, BP 132/78; abdomen and flanks nontender.",
+      "workup": "Two clean-catch cultures on separate days each grow more than 100,000 CFU/mL of the same strain, with no symptoms to explain (a man needs one such culture; a catheter specimen counts above 100 CFU/mL).",
+      "management": "No antibiotics: treating it in non-pregnant adults, older adults or diabetics is not indicated. The exception is a pregnant woman, who is screened and treated.",
+      "lecture": "CV153",
+      "lectures": [
+        "CV153",
+        "CV152"
+      ]
+    },
+    {
+      "name": "UTI in pregnancy",
+      "presentation": "A 27-year-old woman at 14 weeks' gestation feels well at her prenatal visit. A screening clean-catch culture grows more than 100,000 CFU/mL of a gram-negative rod, the same strain on a repeat specimen. No dysuria, frequency, fever or flank pain. BP 110/68, T 36.8 C.",
+      "management": "Treat even without symptoms: 7 days of amoxicillin (penicillin allergy: nitrofurantoin or a third-generation cephalosporin). If fever and flank pain develop, start IV or IM in hospital, finish 10 days orally, reculture 5 days after.",
+      "lecture": "CV153",
+      "lectures": [
+        "CV153"
+      ],
+      "avoid": {
+        "presentation": [
+          "Asymptomatic bacteriuria"
+        ]
+      }
+    },
+    {
+      "name": "Acute bacterial prostatitis",
+      "presentation": "A 63-year-old man has 2 days of fever, frequency, burning on urination, trouble starting his stream and aching in the perineum and low back. T 101.3 F, other vitals stable. Rectal exam: a tense, swollen, exquisitely tender gland; pus appears at the meatus.",
+      "workup": "Urine: more than 10 WBC per high-power field; the voided urine culture is positive, most often for a gram-negative enteric rod.",
+      "management": "A fluoroquinolone (ciprofloxacin or norfloxacin) for 2-4 weeks; TMP-SMX only once sensitivities are known. The trap is treating it as a bladder infection for 3-7 days - if symptoms persist, go back and examine the gland.",
+      "lecture": "CV153",
+      "lectures": [
+        "CV153",
+        "CV152"
+      ]
+    },
+    {
+      "name": "Chronic bacterial prostatitis",
+      "presentation": "A 48-year-old man has had 5 months of on-and-off aching in the perineum and pelvis with mild burning and frequency; two 1-week antibiotic courses helped only briefly. Afebrile, vitals normal. Rectal exam: gland mildly tender, not boggy; no urethral discharge.",
+      "workup": "Urine more than 10 WBC per high-power field, yet the voided culture grows few or no bacteria (about 70% are 'sterile'); expressed prostatic secretions can grow the organism.",
+      "management": "Still culture the urine and treat empirically at first; if there is pyuria without bacteria, test for chlamydia.",
+      "lecture": "CV153",
+      "lectures": [
+        "CV153",
+        "CV152"
+      ]
+    },
+    {
+      "name": "Catheter-associated UTI",
+      "presentation": "A 71-year-old man has had an indwelling Foley since hip surgery 9 days ago. Today he has T 38.6 C, new confusion and lower abdominal discomfort; the drainage bag holds cloudy, foul-smelling urine. He reports no burning. HR 104, BP 122/70.",
+      "workup": "Urine drawn through a freshly replaced Foley: pyuria and more than 100,000 CFU/mL of a gram-negative rod; the removed tube's lumen is crusted and narrowed by biofilm.",
+      "lecture": "CV152",
+      "lectures": [
+        "CV152",
+        "CV153"
+      ]
+    },
+    {
+      "name": "UTI in a nursing-home resident",
+      "presentation": "An 86-year-old woman in long-term care, incontinent and left in soiled briefs for hours, has 2 days of new confusion, poor appetite, feeling cold and shaking chills; no burning. T 35.8 C, HR 108, BP 104/60. No Foley. Dipstick: nitrite and leukocyte esterase positive.",
+      "management": "Send a urine culture with sensitivities before choosing, then use the narrowest drug that covers the isolate: resistant E. coli, Pseudomonas, enterococci, staph and Candida are common in this setting, and broad agents breed C. difficile.",
+      "lecture": "CV153",
+      "lectures": [
+        "CV153"
+      ]
+    },
+    {
+      "name": "Candiduria",
+      "presentation": "A 66-year-old woman with poorly controlled diabetes has been in the ICU for 12 days with a Foley and is on a third broad-spectrum antibiotic. A surveillance urine culture is sent. No fever or flank pain; vitals stable. Dipstick: trace leukocyte esterase, nitrite negative.",
+      "workup": "Urine microscopy: budding yeast cells and elongated chains of cells that fail to separate; the isolate forms germ tubes when incubated at 37 C.",
+      "lecture": "CV152",
+      "lectures": [
+        "CV152",
+        "CV157"
+      ],
+      "avoid": {
+        "presentation": [
+          "Catheter-associated UTI",
+          "Asymptomatic bacteriuria"
+        ]
+      }
+    },
+    {
+      "name": "Genitourinary tuberculosis",
+      "presentation": "A 45-year-old man treated years ago in his home country for a cough with night sweats (he stopped the pills early) has 4 months of frequency, burning and a dull right flank ache that two antibiotic courses did not touch. Afebrile; mild right flank tenderness.",
+      "workup": "Urine: white and red cells. An acid-fast stain of a spun urine sample shows slender red-staining rods.",
+      "lecture": "CV152",
+      "lectures": [
+        "CV152",
+        "CV157"
+      ]
+    },
+    {
+      "name": "Urinary schistosomiasis",
+      "presentation": "A 19-year-old who grew up in rural Egypt swimming and washing in an irrigation canal moved to the US last year. For months he has seen visible blood in his urine, with mild burning and suprapubic fullness. Vitals normal; exam unremarkable.",
+      "workup": "Urine sediment: large oval eggs, each with a sharp spine at one end. Routine urine culture: no growth.",
+      "lecture": "CV152",
+      "lectures": [
+        "CV152",
+        "CV157"
+      ]
+    },
+    {
+      "name": "Viral hemorrhagic cystitis (immunocompromised)",
+      "presentation": "A 34-year-old man 6 weeks after an allogeneic stem cell transplant for leukemia, on tacrolimus, has 3 days of bright red urine with clots, painful urgent voiding and suprapubic pain. T 37.4 C, BP 126/78, platelets 140,000.",
+      "workup": "Routine bacterial urine culture: no growth. Urine testing finds a polyomavirus that most people pick up in childhood and then carry latently.",
+      "lecture": "CV152",
+      "lectures": [
+        "CV152",
+        "CV157"
+      ]
+    },
+    {
+      "name": "Febrile UTI (pyelonephritis) in an infant",
+      "presentation": "A 9-month-old girl has 2 days of T 39.6 C, vomiting, loose stools, poor feeding and fussiness; her parents thought it was a stomach bug. Prenatal scans were normal. She is now lethargic: HR 172, RR 40, capillary refill 3 s. No cough, ear findings or rash.",
+      "workup": "Catheterized urine: pyuria and a culture growing a gram-negative rod within a day (a bag specimen is for screening urinalysis only). Renal ultrasound after treatment: normal.",
+      "management": "Culture a catheterized specimen, never a bag; then IV or IM ceftriaxone or cefotaxime (ampicillin plus gentamicin in neonates) with IV fluids for a day or two. Renal ultrasound for every infant; full workup after a second infection.",
+      "lecture": "CV160",
+      "lectures": [
+        "CV160"
+      ]
+    },
+    {
+      "name": "Vesicoureteral reflux",
+      "presentation": "A 3-year-old girl has her third febrile kidney infection in a year; between infections she is well, toilet-trained and voids with a normal stream. BP 98/60; abdomen soft without masses. Renal ultrasound: right renal pelvis and the whole right ureter dilated; bladder normal.",
+      "workup": "Voiding study (catheter, contrast, continuous films while she voids): contrast rises from the bladder up the right ureter into a dilated pelvis and calyces; the higher the grade, the more dilated and the more kidney damage.",
+      "management": "Grade by the voiding study: grades 1-2 watch and wait (often outgrown; low-dose prophylactic antibiotics if infections recur); grade 3 decide with pediatric urology; grades 4-5 surgery. Every infection adds kidney damage.",
+      "lecture": "CV160",
+      "lectures": [
+        "CV160",
+        "CV157"
+      ],
+      "avoid": {
+        "presentation": [
+          "Febrile UTI (pyelonephritis) in an infant",
+          "Chronic pyelonephritis"
+        ]
+      }
+    },
+    {
+      "name": "Posterior urethral valves",
+      "presentation": "A 3-month-old boy is admitted with his second febrile kidney infection. His mother says he never makes a spray when he pees - urine just dribbles out. Exam: a smooth, round midline mass above the pubis; normal genitalia, both testes descended.",
+      "workup": "Renal ultrasound: both kidneys and both ureters dilated above a distended, thick-walled bladder. Voiding study: the urethra just below the bladder neck is dilated and then abruptly narrows during voiding.",
+      "lecture": "CV160",
+      "lectures": [
+        "CV160"
+      ]
+    },
+    {
+      "name": "Cryptorchidism",
+      "presentation": "A 6-month-old boy born at 34 weeks has a flat, small, empty right hemiscrotum. A soft fullness in the right groin, which his parents call a hernia, cannot be massaged down into the scrotum. The left side is normal; the penis is normal.",
+      "management": "Observe to 9-12 months if it may still descend (refer early if very high); urology by 12 months to bring it down and tack it in place; an intra-abdominal testis is removed. Cancer and subfertility risk persist - lifelong self-exams.",
+      "lecture": "CV160",
+      "lectures": [
+        "CV160"
+      ]
+    },
+    {
+      "name": "Potter sequence",
+      "presentation": "A boy born at 35 weeks after a pregnancy with almost no amniotic fluid has a flattened nose, clubbed feet and stiff, contracted limbs. He is in severe distress from the first breath despite ventilation: SpO2 70%, small chest.",
+      "workup": "Prenatal ultrasound: severe oligohydramnios; no fetal kidneys or bladder seen. Chest film after birth: small, poorly aerated lungs.",
+      "lecture": "CV160",
+      "lectures": [
+        "CV160"
+      ]
+    },
+    {
+      "name": "Hypospadias with chordee",
+      "presentation": "On the newborn exam of a term boy, the urethral opening sits on the underside of the shaft just below the glans rather than at the tip, and the penis bends downward. Both testes are descended. His parents ask for a circumcision before discharge.",
+      "management": "Do not circumcise - the urologist uses the foreskin for the repair. Refer to pediatric urology for surgical correction of the opening and the curvature; the lower the opening, the bigger the problem.",
+      "lecture": "CV160",
+      "lectures": [
+        "CV160"
+      ]
+    },
+    {
+      "name": "Paraphimosis",
+      "presentation": "A 10-month-old uncircumcised boy in the ED for a fever workup had a catheterized urine sample taken 4 hours ago and has cried inconsolably since. The glans is swollen, dark purple and tense, with a tight ring of retracted foreskin behind it.",
+      "management": "Emergency: reduce it by hand at once - steady pressure with gauze for grip, pushing the glans back through the ring and the foreskin forward; urology if it fails. Always return a retracted foreskin after a catheterization.",
+      "lecture": "CV160",
+      "lectures": [
+        "CV160"
+      ]
+    },
+    {
+      "name": "Physiologic phimosis",
+      "presentation": "Parents of a healthy uncircumcised 3-year-old worry because his foreskin will not pull back over the glans. He voids with a strong, straight stream and has no pain, redness, swelling or infections. Exam: narrow, nontender foreskin opening; glans not visible.",
+      "management": "Reassure: normal in uncircumcised boys; the adhesions loosen with time, especially toward the teens. Clean the outside only and leave it alone - forcing it back can tear and scar it or trap it behind the glans.",
+      "lecture": "CV160",
+      "lectures": [
+        "CV160"
+      ]
+    },
+    {
+      "name": "Hair tourniquet syndrome",
+      "presentation": "A 4-month-old has cried inconsolably for 6 hours and is feeding poorly. Afebrile, HR 168, otherwise well-appearing; ears, abdomen and diaper area normal. With the socks off, the left second toe is swollen and red-purple beyond a thin, deep groove encircling its base.",
+      "management": "A vascular emergency: cut the constricting strand off at once, through the groove, before the digit dies (sedation, or the ED, if it is wrapped around the penis). In any inconsolable infant, look in the diaper and under the socks.",
+      "lecture": "CV160",
+      "lectures": [
+        "CV160"
+      ]
+    },
+    {
+      "name": "Labial adhesions",
+      "presentation": "A 3-year-old girl has had two afebrile bladder infections this year and burns when she pees. Exam: the labia minora are joined in the midline along their lower two-thirds by a thin, pale line, leaving a small opening above; no bulge or discharge.",
+      "management": "None if mild and symptom-free - they part as estrogen rises toward adolescence. Symptomatic: estrogen cream for 2-3 weeks until they separate, then petroleum jelly so they do not re-fuse (steroid cream an alternative). Never pull apart.",
+      "lecture": "CV160",
+      "lectures": [
+        "CV160"
+      ]
+    },
+    {
+      "name": "IgA vasculitis (Henoch-Schonlein purpura)",
+      "presentation": "A 4-year-old boy has crampy abdominal pain 2 weeks after a cold and will not use his right hand, whose wrist is swollen. A raised, lumpy, red-purple rash that does not fade under pressure covers the backs of his legs and his elbows. T 38.2 C, BP 102/64.",
+      "workup": "Despite the rash, platelets are 310,000 and coagulation is normal; urinalysis shows white cells and microscopic hematuria, yet the urine culture is negative; BUN and creatinine normal.",
+      "management": "Supportive care; steroids may ease the abdominal pain. Most children recover fully, but follow the kidney (urinalysis, BP) long term. Worsening abdominal pain: exclude intussusception with an enema.",
+      "lecture": "CV161",
+      "lectures": [
+        "CV161"
+      ]
+    },
+    {
+      "name": "Testicular torsion",
+      "presentation": "An 8-year-old boy came home from school 2 hours ago walking hunched over, holding his lower abdomen; he vomited once. The abdomen is soft and nontender, but the left testicle is swollen, very tender and sits higher than the right. HR 112, afebrile.",
+      "workup": "Doppler ultrasound of the scrotum: no blood flow to the swollen left testicle; normal flow on the right.",
+      "management": "Straight to the ER and urology - the testicle dies within hours of pain onset. Untwist it surgically and tack down BOTH testicles, since the free-hanging attachment is usually bilateral; do not wait for an afternoon clinic slot.",
+      "lecture": "CV161",
+      "lectures": [
+        "CV161"
+      ]
+    },
+    {
+      "name": "Torsion of the appendix testis",
+      "presentation": "A 10-year-old boy has a day of right scrotal pain that built up gradually. The pain is confined to a pea-sized tender nodule at the upper pole of the right testicle. The rest of the testicle is nontender, not swollen and normally placed; afebrile, HR 90.",
+      "management": "Symptomatic: NSAIDs and ice, and reassure - it is benign. If the picture is not this clearly localized, send for Doppler ultrasound to rule out a twisted testicle.",
+      "lecture": "CV161",
+      "lectures": [
+        "CV161"
+      ]
+    },
+    {
+      "name": "Imperforate hymen",
+      "presentation": "A 13-year-old girl had a growth spurt and Tanner 4 breast development but has never had a period. For 5 months she has had monthly lower abdominal, low back and bladder-area pain lasting several days. She voids normally. A tense, bluish bulge fills the vaginal opening.",
+      "workup": "Pelvic ultrasound: the vagina is distended with layered fluid (trapped menstrual blood) that presses on the bladder; both renal pelves mildly dilated.",
+      "lecture": "CV161",
+      "lectures": [
+        "CV161"
+      ]
+    },
+    {
+      "name": "Ovarian torsion",
+      "presentation": "A 15-year-old girl has 3 hours of sudden, severe right lower abdominal pain with repeated vomiting; her family thinks it is a stomach bug. Afebrile, HR 112, BP 118/74. Right lower quadrant tender without rebound; urine pregnancy test negative; periods regular.",
+      "workup": "Pelvic ultrasound with Doppler: an enlarged right ovary with little or no blood flow; appendix not seen to be inflamed.",
+      "lecture": "CV161",
+      "lectures": [
+        "CV161"
+      ]
+    },
+    {
+      "name": "Primary nocturnal enuresis",
+      "presentation": "An 8-year-old boy has never had a dry night, though he has been dry by day since age 3; he is embarrassed to go to sleepovers. His father wet the bed until about age 10. He is a deep sleeper. Growth, BP, exam and a urinalysis are normal.",
+      "management": "No drinks 2-3 hours before bed, no caffeine; a bed-wetting alarm (the one thing that cures it), a reward calendar and no-blame help with cleanup. Desmopressin for sleepovers lowers urine output but does not cure; tricyclics rarely.",
+      "lecture": "CV161",
+      "lectures": [
+        "CV161"
+      ]
+    },
+    {
+      "name": "Secondary nocturnal enuresis",
+      "presentation": "A 6-year-old girl who was reliably dry at night from age 4 has wet the bed most nights for the past 2 weeks. Her parents brought home a new baby a month ago and argue often. No daytime symptoms, fever or thirst. Exam normal.",
+      "management": "Take a careful home and school history for the stressor (new sibling, conflict, a move, bullying), and rule out a urinary infection with a urinalysis and culture. Psychosocial cause until shown otherwise.",
+      "lecture": "CV161",
+      "lectures": [
+        "CV161"
+      ]
+    },
+    {
+      "name": "Orthostatic proteinuria",
+      "presentation": "A 14-year-old boy has a sports physical late in the afternoon; the office dipstick shows 1+ protein with no blood. He has no swelling, fever, dark urine or joint pain. BP 112/70, no edema, exam normal; BMP normal.",
+      "workup": "Urine caught in a cup the moment he wakes, before standing: dipstick negative for protein; spot protein/creatinine ratio below 0.2.",
+      "management": "Repeat with a first-morning void before any further workup and reassure if clear. If the morning sample still shows protein: spot protein/creatinine ratio, then a 24-hour urine protein. Protein plus blood together deserves a closer look.",
+      "lecture": "CV161",
+      "lectures": [
+        "CV161"
+      ]
+    },
+    {
+      "name": "Renal colic from an obstructing ureteral calculus",
+      "presentation": "A 25-year-old man has his first-ever waves of sharp, cramping pain from the left groin up to the left flank, back and testicle, 8/10 despite OTC analgesics, with nausea, vomiting, frequency and urgency. No past stones or bowel disease. Afebrile; left flank tender; testes normal.",
+      "workup": "Urinalysis: microscopic hematuria, no white cells, nitrite negative; BMP normal. Non-contrast CT: a 4 mm dense stone at the left ureterovesical junction, with the ureter and renal pelvis dilated above it.",
+      "management": "NSAID first (ketorolac or ibuprofen). Size decides: 5 mm or less usually passes; >5-10 mm add an alpha blocker; >10 mm likely needs a procedure. Home if fluids down, pain controlled, no fever: strain urine; urology if not out by 4 weeks.",
+      "lecture": "CV162",
+      "lectures": [
+        "CV162",
+        "CV143"
+      ]
+    },
+    {
+      "name": "Obstructive pyelonephritis (infected, blocked kidney)",
+      "presentation": "A 47-year-old woman sent home 4 days ago to pass a 7 mm right ureteral stone returns with T 39.3 C, rigors, worsening right flank pain and vomiting. HR 122, BP 92/56; the right costovertebral angle is exquisitely tender.",
+      "workup": "Urinalysis: pyuria, positive nitrite, hematuria; WBC 19,000; creatinine 1.8 mg/dL (0.9 last week). CT: the same stone still lodged in the right ureter, with the ureter and collecting system dilated above it.",
+      "management": "An emergency: antibiotics at once and emergent urology to drain the kidney - ureteroscopy with a ureteral stent or a percutaneous route - because obstruction plus infection quickly turns septic. Definitive stone removal comes later.",
+      "lecture": "CV162",
+      "lectures": [
+        "CV162",
+        "CV153"
+      ],
+      "avoid": {
+        "presentation": [
+          "Acute pyelonephritis"
+        ]
+      }
+    },
+    {
+      "name": "Struvite stones (infection stones)",
+      "presentation": "A 58-year-old woman with a neurogenic bladder from multiple sclerosis, who self-catheterizes, has had 5 urinary infections this year, a dull, persistent left flank ache and intermittent blood in her urine. Afebrile today; BP 134/82; mild left flank tenderness.",
+      "workup": "Urine pH 8.0 with rectangular prism-shaped crystals; culture grows a urease-producing gram-negative rod. KUB: a large radiopaque branching stone filling the left renal pelvis and calyces.",
+      "management": "Clear the infection with culture-directed antibiotics and remove the stone surgically (percutaneous nephrolithotomy for one this large); a recurrent infection-related stone is an elective indication. Bilateral disease risks kidney failure.",
+      "lecture": "CV162",
+      "lectures": [
+        "CV162",
+        "CV152"
+      ]
+    },
+    {
+      "name": "Uric acid stones",
+      "presentation": "A 52-year-old roofer in Phoenix, who drinks little water on the job and eats red meat at most meals, comes to clinic after passing his second kidney stone in a year. Afebrile, BP 136/86, exam unremarkable. Serum urate 9.6 mg/dL; creatinine 1.0 mg/dL.",
+      "workup": "Urine pH 5.0 with rhomboid plate-shaped crystals, some clustered in rosettes. The plain film shows no stone, but non-contrast CT shows a 6 mm stone in the left ureter.",
+      "management": "Alkalinize the urine and give allopurinol to lower urinary urate; raise fluid intake for more urine volume and cut back on purine-rich meats.",
+      "lecture": "CV162",
+      "lectures": [
+        "CV162"
+      ]
+    },
+    {
+      "name": "Cystinuria",
+      "presentation": "A 15-year-old boy is seen in clinic after passing his third kidney stone since age 11; his older sister has also formed stones, and neither parent has. Growth, BP and exam are normal; serum calcium and creatinine normal.",
+      "workup": "Urine sodium cyanide-nitroprusside test positive; flat six-sided crystals in the sediment; urine also wastes ornithine, lysine and arginine. The stone is only faintly radiopaque on plain film, moderately dense on CT.",
+      "management": "Low-sodium diet, alkalinize the urine, and add a chelating agent that binds the lost amino acid and helps dissolve the stone.",
+      "lecture": "CV162",
+      "lectures": [
+        "CV162"
+      ]
+    },
+    {
+      "name": "Enteric hyperoxaluria (Crohn disease)",
+      "presentation": "A 34-year-old woman had 60 cm of terminal ileum resected for transmural inflammatory bowel disease with fistulas. She has 4-6 loose, greasy, foul-smelling stools a day and comes to clinic after passing her second kidney stone this year. BMI 18; afebrile.",
+      "workup": "24-hour urine: oxalate 78 mg/day (high), calcium normal; sediment shows small square crystals with an X across them; the stone is radiopaque on plain film.",
+      "management": "Do not restrict dietary calcium - eaten with meals it binds oxalate in the gut, and a low-calcium diet frees more oxalate for absorption. Low-sodium diet; thiazide for recurrent calcium stones.",
+      "lecture": "CV162",
+      "lectures": [
+        "CV162"
+      ],
+      "avoid": {
+        "management": [
+          "Idiopathic hypercalciuria"
+        ]
+      }
+    },
+    {
+      "name": "Idiopathic hypercalciuria",
+      "presentation": "A 42-year-old man passes his third radiopaque kidney stone in 4 years. He eats fast food and salty snacks daily, drinks about 1 L of fluid a day, and cut out all dairy after his last stone. No bowel disease. BP 138/88; serum calcium 9.4 mg/dL.",
+      "workup": "24-hour urine: calcium 380 mg/day and sodium 260 mEq/day, with oxalate, urate and citrate normal; serum calcium 9.4 mg/dL and PTH normal; analysis of the passed stone: calcium oxalate.",
+      "management": "Cut dietary sodium - sodium and calcium reabsorption are coupled, so salt raises urine calcium. Do NOT restrict calcium (it frees gut oxalate); go back to normal dairy. Add a thiazide.",
+      "lecture": "CV162",
+      "lectures": [
+        "CV162"
+      ],
+      "avoid": {
+        "management": [
+          "Enteric hyperoxaluria (Crohn disease)"
+        ]
+      }
+    },
+    {
+      "name": "Calcium phosphate stones",
+      "presentation": "A 28-year-old woman has passed a kidney stone every year or two since her teens. Serum HCO3- 17 with a normal anion gap and K+ 3.1, yet her urine pH is 6.9. Plain film: a radiopaque stone plus fine stippled densities scattered through the inner zones of both kidneys.",
+      "workup": "Urine pH 7.0; wedge-shaped prism crystals in the sediment; non-contrast CT: a dense white stone and deposits throughout the renal medullas of both kidneys.",
+      "management": "Low-sodium diet and a thiazide, plus citrate, which complexes Ca2+ in the urine and lowers its saturation.",
+      "lecture": "CV162",
+      "lectures": [
+        "CV162"
+      ]
+    },
+    {
+      "name": "Medullary sponge kidney",
+      "presentation": "A 35-year-old woman, seen between episodes, has had four bouts of stone-related flank pain with blood in her urine since her twenties; every stone has been radiopaque. She drinks 2.5 L a day, salts lightly, eats dairy. BP 118/72; serum calcium, HCO3-, PTH and creatinine normal.",
+      "workup": "CT urogram: many tiny cysts within the renal pyramids of both kidneys, clustered with small radiopaque stones; cortex and kidney size normal.",
+      "lecture": "CV162",
+      "lectures": [
+        "CV162"
+      ]
+    },
+    {
+      "name": "Stress urinary incontinence",
+      "presentation": "A 47-year-old woman with three vaginal deliveries (one 4.5 kg baby, a long second stage) leaks small spurts of urine when she coughs, sneezes, laughs or lifts her toddler, for 2 years. No warning sensation, no leaking at rest, normal daytime frequency. Periods now irregular.",
+      "workup": "Office cough test with a full bladder: a spurt with each cough that stops when the cough stops. Urinalysis normal; postvoid residual 30 mL by ultrasound.",
+      "management": "Pelvic floor physiotherapy (Kegels) and anti-leak devices first; estrogen if peri- or postmenopausal. Surgery is the main fix: mid-urethral sling, bladder neck suspension, periurethral bulking or an artificial sphincter.",
+      "lecture": "CV163",
+      "lectures": [
+        "CV163"
+      ]
+    },
+    {
+      "name": "Urge incontinence",
+      "presentation": "A 66-year-old woman has a sudden, overwhelming need to void many times a day and often wets herself, sometimes a large amount, before she reaches the bathroom; she wakes 3 times a night. No leaking with coughing or lifting. Neuro exam normal; BMI 34.",
+      "workup": "Urinalysis normal; postvoid residual 40 mL. Filling cystometry: involuntary detrusor contractions at 120 mL that reproduce her symptom and leak.",
+      "management": "Lifestyle first (diet, weight loss, Kegels), then mainly medication: an anticholinergic, with care in the elderly (crosses the blood-brain barrier; not in closed-angle glaucoma). If that fails: botulinum toxin or sacral nerve modulation.",
+      "lecture": "CV163",
+      "lectures": [
+        "CV163"
+      ]
+    },
+    {
+      "name": "Mixed urinary incontinence",
+      "presentation": "A 61-year-old woman, two vaginal deliveries, postmenopausal, has leaked when she coughs or sneezes for 8 years. For the past year she also gets sudden, desperate needs to void and leaks on the way to the bathroom. Urinalysis normal.",
+      "workup": "Office cough test with a full bladder: leakage with each cough. Filling cystometry: involuntary detrusor contractions during filling. Postvoid residual 35 mL.",
+      "management": "Work out which component is primary and treat it first, then the other: pelvic floor therapy, lifestyle change and Kegels, plus an anticholinergic for the bladder spasms; surgery if those fail.",
+      "lecture": "CV163",
+      "lectures": [
+        "CV163"
+      ]
+    },
+    {
+      "name": "Overflow incontinence",
+      "presentation": "A 68-year-old woman with 20 years of type 2 diabetes and numb feet dribbles urine day and night. She always feels her bladder is full, never feels empty after voiding and has a weak stream. A distended bladder is palpable above the pubis. HbA1c 9.4%.",
+      "workup": "Postvoid residual 480 mL by ultrasound; urinalysis normal; urodynamics: a weak, poorly sustained detrusor contraction with no outlet obstruction.",
+      "management": "A catheterization regimen (scheduled intermittent catheterization) to empty and retrain the bladder, diversion if needed; stop drugs that impair emptying - anticholinergics, alpha agonists, calcium channel blockers.",
+      "lecture": "CV163",
+      "lectures": [
+        "CV163"
+      ]
+    },
+    {
+      "name": "Functional incontinence",
+      "presentation": "An 84-year-old man with severe hip arthritis who walks slowly with a walker, recently started on a nightly sleeping pill, wets himself on the way to the bathroom, mostly at night. He knows when he needs to go. Urinalysis normal; postvoid residual 50 mL.",
+      "management": "Treat the underlying cause - delirium, infection, atrophic vaginitis, pharmacologic agents, psychiatric illness, endocrine disease, reduced mobility or dexterity, stool impaction: here stop the sedative and address his mobility.",
+      "lecture": "CV163",
+      "lectures": [
+        "CV163"
+      ]
+    },
+    {
+      "name": "Reflex incontinence",
+      "presentation": "A 36-year-old man 8 months after a T8 spinal cord injury from a motorcycle crash empties his bladder suddenly and without any warning sensation several times a day; he cannot tell when it is about to happen. Spastic legs; sensation absent below the nipples.",
+      "workup": "Urodynamics: the bladder contracts on its own at low volume with no sensation of filling and no voluntary inhibition; postvoid residual varies.",
+      "lecture": "CV163",
+      "lectures": [
+        "CV163"
+      ]
+    },
+    {
+      "name": "Benign prostatic hyperplasia",
+      "presentation": "A 68-year-old man has 2 years of hesitancy, a weak stream, dribbling at the end, getting up 3 times a night, and sudden needs to void that sometimes leak before he reaches the toilet. Afebrile. Rectal exam: a smooth, symmetric, enlarged, rubbery, nontender gland.",
+      "workup": "Urinalysis normal; postvoid residual 180 mL. Cystoscopy: the bladder wall is thickened, with coarse ridges of hypertrophied muscle bundles and a few small outpouchings.",
+      "lecture": "CV163",
+      "lectures": [
+        "CV163",
+        "CV157"
+      ]
+    },
+    {
+      "name": "Vesicovaginal or ureterovaginal fistula",
+      "presentation": "A 46-year-old woman, 3 weeks after an abdominal hysterectomy, is wet all the time, day and night: urine drips continuously with no urge and no relation to coughing or lifting. She still voids some urine normally. Afebrile; no flank pain.",
+      "management": "Largely preventable at surgery: identify the ureters and take the bladder down during hysterectomy or C-section. These rarely arise on their own - a constantly wet patient after pelvic surgery or trauma is this until proved otherwise.",
+      "lecture": "CV163",
+      "lectures": [
+        "CV163"
+      ]
+    },
+    {
+      "name": "Cauda equina syndrome",
+      "presentation": "A 44-year-old warehouse worker has had 2 days of low back pain after lifting; today shooting pain and weakness in both legs, numbness of the buttocks, perineum and inner thighs, and he has leaked urine and stool without noticing. Ankle jerks absent bilaterally.",
+      "management": "A medical and surgical emergency: recognize it early and arrange emergent spine imaging and surgical decompression the same day; delay risks permanent leg, bladder and bowel deficits.",
+      "lecture": "CV163",
+      "lectures": [
+        "CV163"
+      ]
+    },
+    {
+      "name": "Nocturnal incontinence in an older adult (fluid shifts)",
+      "presentation": "A 79-year-old woman with heart failure and swollen ankles takes her furosemide at bedtime and drinks two cups of tea after dinner. She wakes 3-4 times a night to void and has started wetting the bed. Dry and in control by day. 2+ pitting edema to mid-shin.",
+      "workup": "Voiding diary: most of the 24-hour urine volume is passed between bedtime and morning; urinalysis normal; postvoid residual 40 mL; Na+ 138.",
+      "management": "Last drink well before bed, no caffeine; move the diuretic to the morning; elevate the legs in the late afternoon and use support hose; review medications. Desmopressin only with caution: hyponatremia in the elderly can mean admission.",
+      "lecture": "CV163",
+      "lectures": [
+        "CV163"
+      ]
+    },
+    {
+      "name": "Urinary retention",
+      "presentation": "A 76-year-old woman was started on oxybutynin for frequent voiding 3 days ago. For 14 hours she has passed no urine and has painful lower abdominal swelling. Afebrile; BP 158/90. Lower abdomen distended, tender above the pubis, dull to percussion up toward the umbilicus.",
+      "workup": "Bladder ultrasound: 1,100 mL in the bladder; creatinine 1.3 mg/dL (0.9 baseline); urinalysis normal.",
+      "management": "Decompress the bladder with a urethral catheter now and stop the anticholinergic (alpha agonists and calcium channel blockers do this too); admit when an obstructed bladder needs a catheter.",
+      "lecture": "CV143",
+      "lectures": [
+        "CV143",
+        "CV163",
+        "CV153"
+      ],
+      "avoid": {
+        "workup": [
+          "Overflow incontinence"
+        ]
+      }
+    }
+  ]
+}

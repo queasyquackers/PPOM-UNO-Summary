@@ -1,0 +1,727 @@
+{
+  "correlates": [
+    {
+      "name": "Idiopathic pulmonary fibrosis",
+      "presentation": "A 67-year-old man, former smoker, retired accountant on no regular drugs, has 14 months of slowly worsening exertional dyspnea and a dry cough; no rash, joint or muscle complaints. RR 22, SpO2 89% on room air; fine late-inspiratory crackles at both bases; clubbing.",
+      "workup": "FVC 58% predicted, FEV1/FVC 0.87, DLCO 38%. CT: subpleural, posterior-basal clustered cysts with reticular septal thickening and little hazy opacity. Surgical biopsy: patchy scar, dense old collagen beside pale nodules of plump fibroblasts.",
+      "management": "Exclude drug, occupational and connective-tissue causes first; then refer for lung transplant evaluation, the only definitive therapy. Median survival is about 3.8 years from diagnosis.",
+      "lecture": "CV116",
+      "lectures": [
+        "CV116",
+        "CV119",
+        "CV120"
+      ]
+    },
+    {
+      "name": "Nonspecific interstitial pneumonia",
+      "presentation": "A 46-year-old woman who has never smoked has 7 months of exertional dyspnea and dry cough. She reports fingers that turn white then blue in the cold and morning hand stiffness. Fine crackles at both bases, no clubbing; SpO2 93% on room air.",
+      "workup": "FVC 68% predicted, FEV1/FVC 0.85, DLCO 55%. CT: symmetric bilateral lower-lobe fine reticulation with patchy hazy opacities and no cysts. Biopsy: lymphocytes and plasma cells or scarring all at one stage of age; no fibroblast nodules.",
+      "lecture": "CV116",
+      "lectures": [
+        "CV116"
+      ]
+    },
+    {
+      "name": "Desquamative interstitial pneumonia",
+      "presentation": "A 44-year-old man who smokes 1.5 packs a day has 4 months of slowly increasing dyspnea and a dry cough. Fine basal crackles and early clubbing. FVC 76% predicted, FEV1/FVC 0.82, DLCO 50%.",
+      "workup": "Lung biopsy: alveolar airspaces uniformly packed with brown-pigmented macrophages whose cytoplasm holds lamellar bodies (surfactant debris from dead type II pneumocytes); alveolar walls only mildly thickened.",
+      "management": "Stop smoking and start systemic corticosteroids; the response is excellent, though a few go on to scarring.",
+      "lecture": "CV116",
+      "lectures": [
+        "CV116"
+      ],
+      "avoid": {
+        "presentation": [
+          "Respiratory bronchiolitis-associated ILD"
+        ]
+      }
+    },
+    {
+      "name": "Respiratory bronchiolitis-associated ILD",
+      "presentation": "A 42-year-old man who currently smokes a pack a day (25 pack-years) has a year of mild cough and gradually increasing breathlessness on stairs. A few scattered crackles, no clubbing. FVC 82% predicted, DLCO 68%.",
+      "workup": "Lung biopsy: brown-pigmented macrophages packed in the lumens of first- and second-order bronchioles just proximal to the alveolar ducts, with collagen around those bronchioles; the alveoli beyond are spared.",
+      "management": "Smoking cessation alone; symptoms and lung function improve once he quits.",
+      "lecture": "CV116",
+      "lectures": [
+        "CV116"
+      ],
+      "avoid": {
+        "presentation": [
+          "Desquamative interstitial pneumonia",
+          "Pulmonary Langerhans cell histiocytosis"
+        ]
+      }
+    },
+    {
+      "name": "Sarcoidosis",
+      "presentation": "A 31-year-old Black woman, a schoolteacher, has 2 months of dry cough, exertional dyspnea, fatigue, night sweats and painful red nodules on both shins. T 37.9 C, SpO2 95%, lungs clear. Serum Ca 10.9 mg/dL; 24-h urine Ca raised; ESR 48 mm/h.",
+      "workup": "Chest film: large symmetric nodes at both hila. Transbronchial biopsy: tight clusters of epithelioid macrophages and giant cells, no necrosis; AFB and fungal cultures negative. BAL CD4:CD8 6:1; tuberculin test anergic; serum ACE high.",
+      "management": "Rule out tuberculosis and fungal infection first. Many remit on their own; for active or progressive disease give prednisone, and follow serum ACE to gauge response.",
+      "lecture": "CV117",
+      "lectures": [
+        "CV117",
+        "CV119"
+      ]
+    },
+    {
+      "name": "Pulmonary Langerhans cell histiocytosis",
+      "presentation": "A 38-year-old office manager who smokes 2 packs a day has 3 months of dry cough, exertional dyspnea and fatigue. Few crackles, SpO2 94%. FEV1/FVC 0.80, DLCO 58%. Chest film: fine nodular and web-like markings in the upper and middle zones with the bases spared.",
+      "workup": "Biopsy: sheets of cells with folded, lengthwise-grooved nuclei and pale cytoplasm mixed with eosinophils; S100+, CD1a+, langerin (CD207)+, CD68-. EM: rod-shaped cytoplasmic granules with a dilated end. Some carry a BRAF mutation.",
+      "management": "Stop smoking; symptoms generally fade after cessation, while continued smoking scars and destroys the small airways.",
+      "lecture": "CV117",
+      "lectures": [
+        "CV117"
+      ],
+      "avoid": {
+        "management": [
+          "Respiratory bronchiolitis-associated ILD"
+        ]
+      }
+    },
+    {
+      "name": "Hypersensitivity pneumonitis",
+      "presentation": "A 54-year-old dairy farmer has had repeated bouts of fever, chills, dry cough and breathlessness that start 4-6 hours after forking stored damp hay and settle within a day away from the barn. Today T 38.4 C, RR 24, SpO2 90%, fine crackles at both bases.",
+      "workup": "Serum precipitating IgG against the barn antigens. Biopsy: lymphocytes, plasma cells and macrophages in the alveolar walls, centred on bronchioles, with loose noncaseating granulomas; later scarring with cysts and new fibroblast nodules.",
+      "management": "Find and remove the antigen source (stop handling the hay, rehome the birds, drain the hot tub); ongoing exposure drives permanent scarring.",
+      "lecture": "CV117",
+      "lectures": [
+        "CV117",
+        "CV119"
+      ]
+    },
+    {
+      "name": "Acute eosinophilic pneumonia",
+      "presentation": "A previously healthy 24-year-old man has fever, cough and rapidly worsening dyspnea over 4 days; no transfusion, aspiration, travel, animal contact or new drug. RR 34, SpO2 82% on air; he is intubated. Chest film: diffuse bilateral opacities; viral PCR, blood cultures negative.",
+      "workup": "BAL: eosinophils 38% of cells, cultures and stains negative. Transbronchial biopsy: hyaline membranes lining the alveoli with many eosinophils in the walls and airspaces.",
+      "management": "Ventilatory support plus high-dose systemic corticosteroids; the response is rapid.",
+      "lecture": "CV117",
+      "lectures": [
+        "CV117"
+      ],
+      "avoid": {
+        "presentation": [
+          "Acute respiratory distress syndrome"
+        ]
+      }
+    },
+    {
+      "name": "Chronic eosinophilic pneumonia",
+      "presentation": "A 47-year-old woman has 3 months of cough, low-grade fevers, drenching night sweats, 6-kg weight loss and exertional dyspnea, never in respiratory failure. SpO2 94%. WBC 11,800 with eosinophils 1,400/mm3. Chest film: dense opacities confined to the outer lung zones.",
+      "workup": "BAL eosinophils 52% of cells, mycobacterial and fungal cultures negative; parasite serology negative. Biopsy: focal consolidation with lymphocytes and eosinophils in the septal walls and alveoli.",
+      "management": "Oral corticosteroids, to which it responds; follow for later scarring of the lung.",
+      "lecture": "CV117",
+      "lectures": [
+        "CV117"
+      ]
+    },
+    {
+      "name": "Pulmonary alveolar proteinosis",
+      "presentation": "A 41-year-old man who has never smoked has 9 months of slowly progressive exertional dyspnea and dry cough, no fever, weight loss or occupational exposure. SpO2 90%, few crackles. FEV1/FVC 0.84, DLCO 44%. Serum IgG that neutralizes GM-CSF is detected.",
+      "workup": "Lung biopsy: alveoli filled with pink, homogeneous, PAS-positive precipitate while the septa stay thin; EM shows the material is packed with lamellar bodies (surfactant particles).",
+      "management": "Whole-lung lavage to wash out the material; add GM-CSF therapy; with neutralizing antibodies consider plasmapheresis or immunosuppression; treat any secondary cause.",
+      "lecture": "CV117",
+      "lectures": [
+        "CV117"
+      ]
+    },
+    {
+      "name": "Asbestosis",
+      "presentation": "A 72-year-old retired shipyard pipefitter (35 years, last worked 1992) who never smoked has 2 years of slowly worsening exertional dyspnea with little cough or sputum. Fine end-inspiratory crackles at both bases, clubbing; SpO2 91% at rest.",
+      "workup": "TLC 63% predicted, FEV1/FVC 0.86. Film: fine lace-like opacities starting in the lower zones, mid-zone parietal pleural plaques, no hilar nodes. Lavage: golden-brown rods with clubbed ends and a thin colorless core; biopsy: mixed-age scar.",
+      "lecture": "CV118",
+      "lectures": [
+        "CV118",
+        "CV119"
+      ]
+    },
+    {
+      "name": "Benign asbestos-related pleural plaques",
+      "presentation": "A 66-year-old retired insulation installer has no cough or dyspnea; a preoperative chest film shows calcified plates over both hemidiaphragm domes and the lateral chest walls. Lungs clear, SpO2 98%, FVC 96% predicted, DLCO 92%.",
+      "workup": "CT: discrete, partly calcified plates on the parietal pleura and diaphragm; no lung scarring, effusion or mass. Autopsy: hard white patches of dense layered collagen with no coated fibres inside; number and size do not track the dose.",
+      "management": "No treatment; they are harmless in themselves. Counsel that lung carcinoma, not a cancer of the chest lining, is the main cancer risk (about 5-fold, 55-fold with smoking), so never smoking matters most.",
+      "lecture": "CV118",
+      "lectures": [
+        "CV118",
+        "CV142",
+        "CV119"
+      ]
+    },
+    {
+      "name": "Chronic beryllium disease",
+      "presentation": "A 56-year-old machinist who has cut and ground metal parts for aerospace and nuclear-weapons contractors for 20 years has 8 months of dry cough, dyspnea, chest pain, 5-kg weight loss, fatigue and joint aches. Few crackles; SpO2 93%; FVC 71% predicted.",
+      "workup": "CT: ill-defined upper-lobe nodular and irregular opacities with mildly enlarged hilar nodes. Biopsy: noncaseating epithelioid granulomas with helper T-cell alveolitis. Lavage lymphocytes proliferate when cultured with the workplace metal.",
+      "lecture": "CV118",
+      "lectures": [
+        "CV118",
+        "CV119"
+      ]
+    },
+    {
+      "name": "Anthracosis",
+      "presentation": "A 70-year-old office worker who has lived all his life in a large industrial city and smoked until 60 has no breathing complaints; FEV1/FVC 0.76, DLCO 90%. Black discoloration of the hilar nodes and the subpleural lung is noted at lobectomy for a peripheral nodule.",
+      "workup": "Sections: black carbon pigment inside macrophages along the lymphatics, around bronchioles and in the hilar nodes, with no collagen nodules, no surrounding airspace enlargement and no interstitial scarring.",
+      "lecture": "CV118",
+      "lectures": [
+        "CV118",
+        "CV119"
+      ]
+    },
+    {
+      "name": "Simple coal workers' pneumoconiosis",
+      "presentation": "A 57-year-old man who has worked underground in a West Virginia mine for 30 years has a chronic cough with daily sputum and mild exertional dyspnea; never smoked. SpO2 95%. FEV1/FVC 0.72, FVC 90% predicted, DLCO 82%. Film: many small rounded opacities, upper zones first.",
+      "workup": "Lung sections: black star-shaped aggregates up to 4 mm of dust-laden macrophages around the bronchioles, with reticulin and little collagen, each ringed by enlarged centriacinar airspaces; no masses over 1 cm.",
+      "lecture": "CV118",
+      "lectures": [
+        "CV118",
+        "CV119"
+      ]
+    },
+    {
+      "name": "Progressive massive fibrosis",
+      "presentation": "A 64-year-old who mined coal underground in Kentucky for 38 years has 3 years of worsening exertional dyspnea and productive cough; he now stops after 50 feet. SpO2 88%. FEV1 45% predicted, FVC 56%, TLC 115%, RV 150%.",
+      "workup": "Film: dense upper-zone masses of 3-8 cm on a background of small rounded opacities. Resection: black scars far larger than 1 cm made of dense collagen, reticulin and pigment, some with necrotic centres from ischemia.",
+      "lecture": "CV118",
+      "lectures": [
+        "CV118",
+        "CV119"
+      ]
+    },
+    {
+      "name": "Chronic silicosis",
+      "presentation": "A 60-year-old stonemason who has cut and dressed quarry granite for 28 years has a year of chronic cough, worsening exertional dyspnea, fatigue and mild weight loss; afebrile. Few crackles; SpO2 93%. FVC 72% predicted, FEV1/FVC 0.74, DLCO 61%.",
+      "workup": "Film: small rounded upper-zone nodules; thin rims of calcium around the hilar nodes. Biopsy: nodules of concentric, whorled hyalinized collagen ringed by dust-laden macrophages; weakly birefringent particles on polarization; no granulomas.",
+      "lecture": "CV118",
+      "lectures": [
+        "CV118",
+        "CV119"
+      ]
+    },
+    {
+      "name": "Acute silicosis (silicoproteinosis)",
+      "presentation": "A 28-year-old who has sandblasted ship hulls in an enclosed dry dock for 7 months with a loose paper mask has 8 weeks of rapidly worsening dyspnea, dry cough and pleuritic chest pain. RR 28, SpO2 86% on room air, diffuse fine crackles.",
+      "workup": "Chest film: bilateral diffuse hazy opacities without nodules or node calcification, appearing within months of a very heavy, fine, freshly fractured dust exposure.",
+      "lecture": "CV118",
+      "lectures": [
+        "CV118",
+        "CV119"
+      ]
+    },
+    {
+      "name": "Silicosis complicated by tuberculosis",
+      "presentation": "A 58-year-old quarry driller with 6 years of known upper-zone nodular lung scarring has 6 weeks of fever, drenching night sweats, 5-kg weight loss and cough with blood-streaked sputum. T 38.3 C, HR 104, SpO2 93%.",
+      "workup": "Sputum: acid-fast bacilli on smear; culture grows slow-growing mycobacteria at 4 weeks. Film: a new cavitating upper-zone opacity on a background of small calcified nodules and calcium-rimmed hilar nodes.",
+      "lecture": "CV118",
+      "lectures": [
+        "CV118",
+        "CV119"
+      ],
+      "avoid": [
+        "Secondary (reactivation) tuberculosis"
+      ]
+    },
+    {
+      "name": "Cor pulmonale from advanced restrictive disease",
+      "presentation": "A 69-year-old man with 4 years of progressive lung scarring (FVC 48%, DLCO 30%) has 2 months of ankle swelling and fatigue. JVP 12 cm, rising further with 15 s of pressure over the liver at 45 degrees; left parasternal lift; right-sided gallop; pitting edema to the knees.",
+      "lecture": "CV118",
+      "lectures": [
+        "CV118",
+        "CV119"
+      ]
+    },
+    {
+      "name": "Emphysema-predominant COPD",
+      "presentation": "A 64-year-old woman with 50 pack-years has 3 years of progressive exertional dyspnea, little cough or sputum and 8-kg weight loss. Thin, breathes out slowly through pursed lips, uses neck muscles; quiet breath sounds, prolonged expiration. SpO2 93%; PaCO2 38 mmHg.",
+      "workup": "Post-bronchodilator FEV1/FVC 0.52, FEV1 45% predicted, TLC 125%, RV 180%, DLCO 40%. Film: flattened diaphragms, widened rib spaces, hyperlucent lungs, long narrow heart; CT: upper-lobe loss of tissue around the central acinus.",
+      "management": "Stop smoking; one long-acting bronchodilator (LABA or LAMA), or LABA plus LAMA if symptoms are high or exacerbations frequent; SABA or SAMA for rescue; long-term oxygen if hypoxemic, the only step proven to improve survival.",
+      "lecture": "CV119",
+      "lectures": [
+        "CV119",
+        "CV120"
+      ],
+      "avoid": {
+        "management": [
+          "Chronic bronchitis"
+        ],
+        "presentation": [
+          "Chronic respiratory acidosis in COPD"
+        ]
+      }
+    },
+    {
+      "name": "Chronic bronchitis",
+      "presentation": "A 58-year-old man with 45 pack-years has coughed up sputum on most days for 4-5 months of every year for the past 3 years, with exertional dyspnea. BMI 33, cyanotic lips, scattered wheezes and coarse crackles, ankle edema. SpO2 87%; hematocrit 56%.",
+      "workup": "Post-bronchodilator FEV1/FVC 0.60, FEV1 55% predicted, no meaningful bronchodilator response. Airway biopsy: enlarged, multiplied submucosal mucous glands filling more than half the wall between epithelium and cartilage.",
+      "lecture": "CV119",
+      "lectures": [
+        "CV119",
+        "CV120"
+      ],
+      "avoid": {
+        "presentation": [
+          "Chronic respiratory acidosis in COPD"
+        ]
+      }
+    },
+    {
+      "name": "Bronchiectasis",
+      "presentation": "A 41-year-old woman who has never smoked, with sinus and ear infections since childhood, has coughed up a cupful of thick yellow-green sputum daily for 3 years, with repeated chest infections and two bouts of blood-streaked sputum. Clubbing; coarse basal crackles.",
+      "workup": "CT: lower-lobe and lingular bronchi wider than their companion arteries that fail to taper toward the periphery, with thickened walls and mucus plugging; spirometry: FEV1/FVC 0.66.",
+      "management": "For a flare: send a new sputum culture and start empiric antibiotics tailored to the most recent culture, plus airway clearance, a mucoactive agent and oxygen; long-term goal of 2 or fewer exacerbations a year.",
+      "lecture": "CV119",
+      "lectures": [
+        "CV119"
+      ]
+    },
+    {
+      "name": "Allergic asthma in a young adult",
+      "presentation": "A 23-year-old woman with childhood eczema and spring hay fever has 6 months of episodic wheeze, chest tightness and dry cough that wake her at 3-4 a.m. and follow colds, time with her cat and hard laughing; she is well between bouts. End-expiratory wheeze; RR 20, SpO2 97%.",
+      "workup": "FEV1/FVC 0.64, FEV1 71% predicted; 15 min after albuterol FEV1 rises 18% and 380 mL. DLCO 105%. Blood eosinophils 650/mm3, total IgE raised, skin prick tests positive to cat dander and house dust mite.",
+      "management": "SABA for relief; daily inhaled corticosteroid plus LABA for maintenance. Check adherence and have her demonstrate the inhaler; rinse the mouth after the steroid; encase bedding, wash linens, remove carpets, limit the cat.",
+      "lecture": "CV121",
+      "lectures": [
+        "CV121",
+        "CV119",
+        "CV120"
+      ]
+    },
+    {
+      "name": "Exercise-induced bronchoconstriction",
+      "presentation": "A 17-year-old cross-country runner with no symptoms at rest or at night gets cough, chest tightness and wheeze that start about 10 minutes into winter races in cold, dry air and peak at 20-30 minutes. Exam and resting spirometry normal (FEV1/FVC 0.84).",
+      "workup": "Treadmill challenge raising the heart rate to 80% of maximum for 6 minutes, then FEV1 every 5 minutes for 30 minutes: FEV1 falls 19% from baseline. Resting spirometry and lung volumes normal.",
+      "management": "Longer warm-up, a mask to warm the inspired air, and an inhaled beta-2 agonist before activity (prevents over 80% of episodes); the goal is no limit on any sport. Ask whether the underlying disease is poorly controlled.",
+      "lecture": "CV121",
+      "lectures": [
+        "CV121"
+      ]
+    },
+    {
+      "name": "Aspirin-exacerbated respiratory disease",
+      "presentation": "A 45-year-old woman with adult-onset wheezing and a year of blocked nose and lost sense of smell develops severe wheeze, chest tightness and watery rhinorrhea 40 minutes after ibuprofen for a headache. Smooth, pale, glistening masses fill both nasal passages; SpO2 92%.",
+      "management": "Avoid all NSAIDs and salicylates (COX-1 inhibition shunts arachidonic acid to leukotrienes); add a leukotriene receptor antagonist to her inhaled therapy.",
+      "lecture": "CV121",
+      "lectures": [
+        "CV121",
+        "CV119"
+      ]
+    },
+    {
+      "name": "Occupational asthma",
+      "presentation": "A 34-year-old man who started spray-painting cars in an auto-body shop 8 months ago has new wheeze, chest tightness and cough that build through each shift and cleared during a 2-week vacation; no childhood wheeze or allergies. No fever, no crackles; SpO2 98%.",
+      "workup": "Total IgE normal and skin tests negative to aeroallergens; resting spirometry normal. Methacholine challenge positive (FEV1 falls 24%), and FEV1 falls after supervised exposure to the specific spray agent.",
+      "lecture": "CV121",
+      "lectures": [
+        "CV121"
+      ]
+    },
+    {
+      "name": "Asthma with obesity",
+      "presentation": "A 67-year-old woman who never smoked, BMI 41, has occasional breathlessness and wheeze for 2 years with no workplace, allergy or drug triggers. Lungs clear today; SpO2 96%. FEV1/FVC 0.76, FEV1 72% predicted, TLC 98%; the flow-volume loop is hard to read.",
+      "workup": "Methacholine challenge: FEV1 falls 41% from baseline after five breaths. Sputum and blood show little eosinophilic inflammation; total IgE normal.",
+      "management": "Inhaled bronchodilator; whether weight loss improves control is not established.",
+      "lecture": "CV121",
+      "lectures": [
+        "CV121",
+        "CV120"
+      ]
+    },
+    {
+      "name": "Status asthmaticus",
+      "presentation": "A 19-year-old with known asthma has worsened over 2 days despite three back-to-back albuterol nebulizers and IV methylprednisolone in the ED. Drowsy, hunched, using neck muscles, blue lips; RR 34, HR 130; systolic BP falls 18 mmHg on inspiration; breath sounds faint, no wheeze.",
+      "workup": "ABG: pH 7.27, PaCO2 52, PaO2 60 mmHg; the PaCO2 was 31 mmHg on arrival 3 hours earlier. Peak flow too low to record.",
+      "management": "IV corticosteroids and continuous inhaled beta-2 agonist; add IV magnesium and heliox (less dense gas passes narrowed airways); trial of CPAP or BiPAP; intubate if failing and ventilate with permissive hypercapnia until the airways relax.",
+      "lecture": "CV121",
+      "lectures": [
+        "CV121",
+        "CV119"
+      ]
+    },
+    {
+      "name": "Central airway tumor mimicking asthma",
+      "presentation": "A previously healthy 10-year-old girl has 9 months of episodic wheeze, dyspnea and steadily worsening tolerance for running, unchanged by albuterol, inhaled steroids, montelukast and two bursts of oral prednisone. No eczema or allergies; afebrile, SpO2 97%, expiratory wheeze.",
+      "workup": "Flow-volume loop: the expiratory limb is cut off into a flat plateau while the inspiratory limb is normal; no bronchodilator response. CT: a polypoid mass inside the lower trachea.",
+      "management": "Remove the lesion; the flow-volume loop returns to normal. Lesson: when correct therapy fails, question the diagnosis instead of adding drugs.",
+      "lecture": "CV121",
+      "lectures": [
+        "CV121",
+        "CV120"
+      ]
+    },
+    {
+      "name": "Fixed upper-airway obstruction (tracheal or subglottic stenosis)",
+      "presentation": "A 64-year-old woman who never smoked has 5 years of slowly worsening exertional dyspnea and noisy breathing heard on both inhaling and exhaling; inhalers have not helped. Lungs clear; SpO2 97%. FEV1/FVC 0.62, FEV1 47% predicted.",
+      "workup": "Flow-volume loop: both the expiratory and the inspiratory limbs are cut off into flat plateaus; the expiratory curve alone looked like ordinary obstruction. Bronchoscopy: concentric narrowing just below the vocal cords.",
+      "management": "Stent or surgically repair the narrowed segment, which improves function markedly; treat a driving cause such as ANCA-associated vasculitis.",
+      "lecture": "CV120",
+      "lectures": [
+        "CV120"
+      ]
+    },
+    {
+      "name": "Vocal cord paralysis",
+      "presentation": "A 50-year-old man who never smoked had childhood polio that weakened his swallowing and speech muscles; he now has exertional dyspnea. Lungs clear, SpO2 97%. FEV1/FVC 0.79, FEV1 88% predicted.",
+      "workup": "Flow-volume loop: the inspiratory limb is cut off into a flat plateau while the expiratory limb is normal. Laryngoscopy: the right side of the glottis does not move and the left moves only partly.",
+      "lecture": "CV120",
+      "lectures": [
+        "CV120"
+      ]
+    },
+    {
+      "name": "Pulmonary hypertension found on PFTs",
+      "presentation": "A 44-year-old woman who never smoked has 10 months of progressive exertional dyspnea and fatigue, without cough, wheeze or sputum. Lungs clear. FEV1/FVC 0.80, FEV1 93% and FVC 95% predicted, TLC 97%, but DLCO 48% predicted.",
+      "workup": "Echocardiogram: estimated right ventricular systolic pressure 62 mmHg with a dilated right ventricle; chest film and lung volumes normal.",
+      "lecture": "CV120",
+      "lectures": [
+        "CV120"
+      ]
+    },
+    {
+      "name": "Chronic cough from postnasal drip",
+      "presentation": "A 45-year-old man has 3 months of persistent cough with constant throat clearing and a sense of mucus running down the back of his throat, plus nasal congestion and recurring facial pressure; no heartburn, wheeze or new drugs. Afebrile; chest film and spirometry normal.",
+      "lecture": "CV121",
+      "lectures": [
+        "CV121"
+      ]
+    },
+    {
+      "name": "Chronic cough from gastroesophageal reflux",
+      "presentation": "A 52-year-old woman has 4 months of dry cough, worse after large evening meals and when lying flat, with burning retrosternal discomfort and a sour taste in her mouth; no nasal symptoms, wheeze or new drugs. Lungs clear; chest film and spirometry normal.",
+      "management": "Treat the acid aggressively (acid suppression); the cough, and any coexisting asthma, often improves.",
+      "lecture": "CV121",
+      "lectures": [
+        "CV121"
+      ]
+    },
+    {
+      "name": "Chronic cough from an ACE inhibitor",
+      "presentation": "A 61-year-old man has a dry, tickling cough for 3 months that began 5 weeks after lisinopril was started for hypertension; no heartburn, nasal drainage, wheeze or sputum. Lungs clear; chest film and spirometry normal.",
+      "management": "Review the medication list and stop the offending antihypertensive; the cough fades over the following weeks.",
+      "lecture": "CV121",
+      "lectures": [
+        "CV121"
+      ]
+    },
+    {
+      "name": "Lung adenocarcinoma",
+      "presentation": "A 56-year-old woman who has never smoked has 4 months of cough, mild left chest pain, low-grade fevers and 3-kg weight loss. SpO2 97%, lungs clear. CT: a 3.5-cm peripheral left upper lobe mass and a 4-cm left adrenal mass.",
+      "workup": "Resection: glistening, mucoid cut surface; well-formed malignant glands with intracellular mucin; TTF-1 positive, chromogranin negative. Molecular testing: activating EGFR mutation.",
+      "management": "Test the tumor for driver mutations; an activating EGFR mutation is treated with an EGFR tyrosine kinase inhibitor, which prolongs survival. A KRAS mutation instead predicts a worse outcome.",
+      "lecture": "CV142",
+      "lectures": [
+        "CV142"
+      ]
+    },
+    {
+      "name": "Adenocarcinoma in situ",
+      "presentation": "A 52-year-old woman who has never smoked and has no symptoms has a 2-cm faint, hazy peripheral nodule with no solid component, found on a CT done for kidney stones. SpO2 99%; spirometry normal.",
+      "workup": "Wedge resection: tumor under 3 cm made entirely of dysplastic cells creeping along intact alveolar septa in a single scale-like layer, non-mucinous; no stromal, vascular or pleural invasion.",
+      "management": "Complete resection is curative; preinvasive lesions do not inevitably progress. An invasive focus under 5 mm would reclassify it as microinvasive, still with a better prognosis than invasive disease.",
+      "lecture": "CV142",
+      "lectures": [
+        "CV142"
+      ],
+      "avoid": {
+        "presentation": [
+          "Pulmonary hamartoma"
+        ]
+      }
+    },
+    {
+      "name": "Squamous cell lung carcinoma with hypercalcemia",
+      "presentation": "A 66-year-old man with 45 pack-years has 2 months of cough, blood-streaked sputum, constipation, polyuria and new confusion. BP 132/80, dry mucosa. Serum Ca 14.9 mg/dL, phosphate 2.3 mg/dL, PTH low, sodium and potassium normal.",
+      "workup": "CT: central mass obstructing the right main bronchus with a necrotic, cavitating centre. Bronchoscopic biopsy: keratinizing nests with keratin pearls and intercellular bridges; TTF-1 negative. Serum PTH-related peptide raised.",
+      "lecture": "CV142",
+      "lectures": [
+        "CV142",
+        "CV144"
+      ]
+    },
+    {
+      "name": "Small cell lung carcinoma with ectopic ACTH",
+      "presentation": "A 52-year-old woman with 40 pack-years has 3 months of weight gain over the trunk, a rounded flushed face, new coarse facial hair, thigh weakness and low mood. BP 168/98; K+ 2.9 mEq/L, HCO3- 32 mEq/L, glucose 214 mg/dL.",
+      "workup": "Plasma corticotropin markedly high; serum and 24-h urine cortisol high. CT: bulky hilar mass. Biopsy: small cells with scant cytoplasm and nuclear molding; chromogranin+, synaptophysin+; EM: dense-core neurosecretory granules.",
+      "lecture": "CV142",
+      "lectures": [
+        "CV142",
+        "CV144"
+      ],
+      "avoid": {
+        "workup": [
+          "Small cell lung carcinoma with SIADH"
+        ]
+      }
+    },
+    {
+      "name": "Small cell lung carcinoma with SIADH",
+      "presentation": "A 64-year-old woman with 50 pack-years has 3 weeks of confusion, headache, nausea, cough and 5-kg weight loss. Euvolemic, no edema; BP 128/76. Na+ 121 mEq/L, serum osm 252 mOsm/kg, urine osm 520 mOsm/kg, urine Na+ 48 mEq/L; TSH and cortisol normal.",
+      "workup": "CT: large hilar mass with bulky mediastinal nodes and liver deposits. Biopsy: sheets of small blue cells, scant cytoplasm, nuclear molding, very high mitotic rate, necrosis; chromogranin+, synaptophysin+, cytokeratin+; TP53 and RB1 loss.",
+      "lecture": "CV142",
+      "lectures": [
+        "CV142",
+        "CV144"
+      ],
+      "avoid": {
+        "workup": [
+          "Small cell lung carcinoma with ectopic ACTH"
+        ]
+      }
+    },
+    {
+      "name": "Superior sulcus tumor with sympathetic chain involvement",
+      "presentation": "A 63-year-old man with 50 pack-years has 3 months of deep right shoulder and upper chest pain and 4-kg weight loss. His right upper lid droops, the right pupil is smaller than the left, the right eye looks sunken, and the right side of his face does not sweat.",
+      "workup": "Chest film and CT: a mass at the extreme right lung apex eroding the posterior first and second ribs and extending into the soft tissue at the root of the neck; biopsy may show any non-small cell type.",
+      "lecture": "CV142",
+      "lectures": [
+        "CV142",
+        "CV144"
+      ]
+    },
+    {
+      "name": "Superior vena cava syndrome",
+      "presentation": "A 59-year-old woman with 45 pack-years has 3 weeks of swelling of her face, neck and both arms, worse when she bends forward or lies flat, with headache and a full feeling in her head. Plethoric face; dilated veins over the upper chest wall; legs not swollen. BP 142/86.",
+      "workup": "Contrast CT: a right paratracheal and hilar mass compressing and invading the large vein draining the head and arms, with collateral veins across the chest wall.",
+      "lecture": "CV142",
+      "lectures": [
+        "CV142",
+        "CV144"
+      ]
+    },
+    {
+      "name": "Bronchial carcinoid tumor",
+      "presentation": "A 50-year-old man who has never smoked has had a week of breathlessness with wheeze heard mainly on the right near the midline, and several watery stools a day with bouts of facial flushing; no weight loss. SpO2 95%. CT: a 3-cm mass projecting into the right main bronchus.",
+      "workup": "Bronchoscopic biopsy: nests and ribbons of uniform cells with ample cytoplasm and finely stippled chromatin in a delicate fibrovascular stroma; fewer than 2 mitoses per 10 HPF and no necrosis; chromogranin and synaptophysin positive.",
+      "management": "Surgical resection; the typical low-grade form generally behaves well. Only about 10% cause flushing and diarrhea.",
+      "lecture": "CV142",
+      "lectures": [
+        "CV142"
+      ]
+    },
+    {
+      "name": "Pulmonary hamartoma",
+      "presentation": "A 47-year-old man with no symptoms has a 1.8-cm smooth, sharply outlined round peripheral nodule on a chest film taken for a work physical. Never smoked; exam normal; no weight loss.",
+      "workup": "Resection: disorganized lobules of mature hyaline cartilage mixed with fat and fibrous tissue, with slit-like clefts lined by entrapped bronchial epithelium; no atypia.",
+      "management": "Benign; once the diagnosis is established it needs no further treatment.",
+      "lecture": "CV142",
+      "lectures": [
+        "CV142",
+        "CV144"
+      ],
+      "avoid": {
+        "presentation": [
+          "Adenocarcinoma in situ"
+        ]
+      }
+    },
+    {
+      "name": "Metastatic tumor to the lung",
+      "presentation": "A 64-year-old woman who had a sigmoid colon resection for cancer 2 years ago has 2 months of exertional dyspnea, dry cough and 5-kg weight loss. SpO2 93%. Chest film: many round, well-defined nodules of varying sizes scattered through both lungs.",
+      "workup": "CT-guided biopsy of one nodule: tan-white tissue of malignant glands matching the earlier bowel primary; TTF-1 negative.",
+      "lecture": "CV142",
+      "lectures": [
+        "CV142",
+        "CV144"
+      ]
+    },
+    {
+      "name": "Solitary fibrous tumor of the pleura",
+      "presentation": "A 55-year-old woman, a librarian with no industrial or shipyard work history, has mild exertional dyspnea and a dry cough; the chest film shows a large, smooth, well-circumscribed mass abutting the right lower chest wall. No effusion, no weight loss, no fever.",
+      "workup": "CT: well-circumscribed mass hanging from the surface of the lung on a stalk, not encasing it. Resection: dense collagenous spindle-cell tissue with cystic spaces; keratin negative; NAB2-STAT6 fusion gene detected.",
+      "management": "Surgical excision of the stalked mass; nearly always benign, rarely malignant.",
+      "lecture": "CV142",
+      "lectures": [
+        "CV142"
+      ]
+    },
+    {
+      "name": "Malignant mesothelioma",
+      "presentation": "A 68-year-old who worked 30 years in a brake-lining and insulation plant (left 35 years ago) has 8 months of dull right chest discomfort, malaise, low-grade fevers, night sweats and 7-kg weight loss. Dull to percussion and absent breath sounds over the right lower chest.",
+      "workup": "CT: right effusion with a thick, nodular pleural rind encasing the whole lung and running into the fissures. Biopsy: epithelial-like cells forming tubules and papillae; calretinin+, keratin+, TTF-1 negative; 9p deletion (CDKN2A loss).",
+      "management": "Prognosis is poor: about half die within 12 months of diagnosis. The same exposure carries a still higher risk of lung carcinoma than of this pleural cancer.",
+      "lecture": "CV142",
+      "lectures": [
+        "CV142",
+        "CV118"
+      ]
+    },
+    {
+      "name": "Tension pneumothorax",
+      "presentation": "A 31-year-old man on a ventilator after a motorcycle crash with right rib injuries suddenly becomes hypotensive: BP 76/40, HR 138, SpO2 80%, peak airway pressure up sharply. Right breath sounds absent, right chest hyperresonant, trachea deviated to the left, neck veins distended.",
+      "workup": "Frontal film: thin white line along the right chest with no lung markings beyond it and dark spaces between the right ribs; collapsed lung sits medially, and the heart is pushed wholly into the left chest, none of it right of the spine.",
+      "management": "Needle decompression at once, then a chest tube; do not wait for imaging when the patient is in shock.",
+      "lecture": "CV146",
+      "lectures": [
+        "CV146"
+      ]
+    },
+    {
+      "name": "Primary spontaneous pneumothorax",
+      "presentation": "A 22-year-old man with no lung disease felt sudden sharp left chest pain and breathlessness while sitting at his desk. HR 96, BP 124/78, RR 20, SpO2 95%. Left breath sounds reduced, left chest hyperresonant, trachea midline.",
+      "workup": "Upright frontal film: thin white line paralleling the left chest wall with no lung markings beyond it and darker spaces between the left ribs; heart and trachea in normal position. CT: a small ruptured bleb at the left apex.",
+      "lecture": "CV146",
+      "lectures": [
+        "CV146"
+      ]
+    },
+    {
+      "name": "Anterior pneumothorax in a supine patient",
+      "presentation": "An intubated 45-year-old with several rib injuries after a fall can only be imaged lying flat in the trauma bay. BP 118/72, HR 104, SpO2 falling from 98% to 93% on FiO2 0.5; left chest slightly hyperresonant with softer breath sounds; trachea midline.",
+      "workup": "Frontal film taken lying flat: no thin pleural line, but the left costophrenic angle runs far deeper and darker than the right, with extra lucency over the left lung base and upper abdomen and no lung markings between the left lower ribs.",
+      "lecture": "CV146",
+      "lectures": [
+        "CV146"
+      ],
+      "avoid": {
+        "presentation": [
+          "Rib fractures with pulmonary contusion"
+        ]
+      }
+    },
+    {
+      "name": "Pneumomediastinum",
+      "presentation": "A 24-year-old, 2 days after a ruptured right pneumothorax was drained, develops central chest pain that runs up into his neck and worsens with deep breaths; no swelling of the face or chest wall. HR 98, BP 126/80, SpO2 96%, both lungs expanded on exam.",
+      "workup": "Frontal film: thin lucent stripe outlining the heart with a fine white line lifted off it, running up into the neck as parallel gas streaks; gas crosses beneath the heart from one hemidiaphragm to the other. CT: mediastinum lifted by gas.",
+      "lecture": "CV146",
+      "lectures": [
+        "CV146"
+      ]
+    },
+    {
+      "name": "Severe subcutaneous emphysema",
+      "presentation": "A 45-year-old with a left chest tube for a traumatic pneumothorax develops swelling of the chest wall, neck and face over 12 hours until his eyes are puffed shut. The skin crackles under the fingers from the eyelids to the abdomen. BP 130/82, SpO2 94%.",
+      "workup": "Frontal film: gas density throughout the soft tissues of the chest wall, neck and axillae, separating the fibres of the pectoral muscles into fine white streaks; the tubes and lines are a distraction from this finding.",
+      "lecture": "CV146",
+      "lectures": [
+        "CV146"
+      ]
+    },
+    {
+      "name": "Right mainstem intubation",
+      "presentation": "A 70-year-old woman is intubated in the ED for respiratory failure. Twenty minutes later SpO2 falls to 86% and peak airway pressure rises; breath sounds are present on the right but absent on the left, and the left chest barely moves. Trachea midline, BP 128/74.",
+      "workup": "Frontal film: the tube's radiopaque marker lies beyond the carina inside the right main bronchus; the entire left lung is uniformly white with volume loss, while the right lung is aerated.",
+      "management": "Pull the tube back until the tip sits at least 2 cm above the carina (about the level of the clavicular heads, allowing for neck movement), then repeat the film.",
+      "lecture": "CV146",
+      "lectures": [
+        "CV146"
+      ]
+    },
+    {
+      "name": "Misplaced nasogastric tube",
+      "presentation": "A 78-year-old man with a recent stroke and poor swallow coughed repeatedly while a feeding catheter was passed through his nose. Feeds were started; 6 hours later he has T 38.3 C, RR 28, SpO2 88% and new crackles at the left base.",
+      "workup": "Film: radiopaque tip loops into the right and then the left main bronchus instead of passing below the left hemidiaphragm into the gastric bubble; after feeds, a new white density behind the heart has erased the left hemidiaphragm outline.",
+      "management": "Stop feeds and do not use it; pull back and reposition until the tip lies below the left hemidiaphragm in the stomach or proximal duodenum, and confirm on a new film before feeding.",
+      "lecture": "CV146",
+      "lectures": [
+        "CV146"
+      ]
+    },
+    {
+      "name": "Pulmonary artery catheter tip too far",
+      "presentation": "A 66-year-old in the ICU after cardiac surgery has a right internal jugular line placed to measure pulmonary artery pressures. A day later he has new right pleuritic chest pain and a little blood-streaked sputum; SpO2 drops from 96% to 91%.",
+      "workup": "Film: the line's tip lies far out in a small right lower lobe artery instead of over the central mediastinum in the main pulmonary artery, with a new wedge-shaped peripheral opacity downstream from it.",
+      "management": "Pull the line back so its tip lies in the right or left main pulmonary artery; a tip left in the right atrium is not far enough.",
+      "lecture": "CV146",
+      "lectures": [
+        "CV146"
+      ]
+    },
+    {
+      "name": "Pneumopericardium",
+      "presentation": "A 60-year-old woman had a needle drain of a large fluid collection around her heart an hour ago. She feels well; BP 122/76, HR 88, SpO2 97%, no neck swelling or crackling skin.",
+      "workup": "Post-procedure film: a thin dark band of gas closely outlining the heart, held in by a fine white line of the sac that stops at the origin of the great vessels; no gas tracks into the neck or soft tissues.",
+      "lecture": "CV146",
+      "lectures": [
+        "CV146"
+      ]
+    },
+    {
+      "name": "Pericardial effusion",
+      "presentation": "A 54-year-old woman with metastatic breast cancer has 6 weeks of progressive exertional dyspnea and fatigue. HR 104, BP 118/76, RR 20; JVP 9 cm, soft distant heart sounds; lungs clear, no crackles; no leg edema.",
+      "workup": "PA film: cardiac outline enlarged (cardiothoracic ratio 0.68) and smoothly widened at its base, tapering abruptly to a narrow waist at the level of the aorta where the sac inserts on the great vessels; lungs clear.",
+      "lecture": "CV146",
+      "lectures": [
+        "CV146"
+      ]
+    },
+    {
+      "name": "Cardiogenic pulmonary edema",
+      "presentation": "A 72-year-old man with a prior heart attack (EF 30%) has 3 days of worsening breathlessness, needing 3 pillows, waking up gasping, and a 4-kg weight gain. BP 168/96, HR 108, RR 28, SpO2 86%; crackles to mid-lung on both sides, JVP 14 cm, an S3, ankle swelling.",
+      "workup": "Film: enlarged heart; white airspace opacity fanning out from both hila with the apices and the lung bases relatively spared; lung markings crowd the outer third of both lungs.",
+      "management": "IV loop diuretic (furosemide); the repeat film shows the opacities largely resolved, with some residue.",
+      "lecture": "CV146",
+      "lectures": [
+        "CV146"
+      ]
+    },
+    {
+      "name": "Pleural effusion",
+      "presentation": "A 66-year-old woman with heart failure has 2 weeks of increasing exertional dyspnea; RR 22, SpO2 93%. Right lower chest: flat percussion note, reduced fremitus, no breath sounds. Upright film: right costophrenic angle blunted, a curved upper edge climbing the lateral chest wall.",
+      "workup": "Film taken lying flat in the ICU: no curved upper edge; instead a hazy, veil-like density over the lower right hemithorax with vessels visible through it, as the fluid layers behind the lung; costophrenic angle blunted.",
+      "lecture": "CV146",
+      "lectures": [
+        "CV146"
+      ]
+    },
+    {
+      "name": "Lobar atelectasis",
+      "presentation": "A 68-year-old man 2 days after upper abdominal surgery takes shallow breaths because of incision pain and has a weak cough with thick secretions. T 37.8 C, RR 24, SpO2 91%; WBC 8,900/mm3; reduced breath sounds and dullness at the right base.",
+      "workup": "Film: white right lower zone with loss of volume - the right hemidiaphragm sits higher than the left and the lung reaches less far down; no air-filled bronchi within it and no curved fluid edge up the chest wall. Bronchoscopy: a mucus plug.",
+      "lecture": "CV146",
+      "lectures": [
+        "CV146"
+      ]
+    },
+    {
+      "name": "Right middle lobe pneumonia",
+      "presentation": "A 6-year-old boy has 3 days of fever to 39.4 C and cough. RR 34, HR 128, SpO2 94%; crackles and bronchial breath sounds over the right anterior chest beside the sternum.",
+      "workup": "Frontal film: fluffy opacity beside the heart erasing the right heart border; left heart border and right hemidiaphragm stay sharp; no volume loss; air-filled bronchi within it. Lateral: wedge over the heart with two straight fissure edges.",
+      "lecture": "CV146",
+      "lectures": [
+        "CV146"
+      ],
+      "avoid": [
+        "Pneumococcal pneumonia",
+        "Aspiration pneumonia"
+      ]
+    },
+    {
+      "name": "Left lower lobe pneumonia",
+      "presentation": "A 58-year-old woman has 4 days of fever to 38.9 C, productive cough and pain low in the left back on breathing in. RR 24, HR 110, SpO2 92%; crackles and dullness at the left base posteriorly.",
+      "workup": "Frontal film: fluffy density behind the heart erasing the left hemidiaphragm and paraspinal outline; left heart border sharp; no volume loss; air-filled bronchi within it. Lateral: vertebral bodies get whiter instead of darker going down.",
+      "lecture": "CV146",
+      "lectures": [
+        "CV146"
+      ],
+      "avoid": [
+        "Pneumococcal pneumonia",
+        "Typical community-acquired pneumonia (outpatient)"
+      ]
+    },
+    {
+      "name": "Rib fractures with pulmonary contusion",
+      "presentation": "A 47-year-old driver hit the steering wheel in a high-speed crash. He has sharp left chest wall pain on every breath, bruising and point tenderness over the left 5th-8th ribs, and coughs a little blood. RR 26, HR 112, BP 118/76, SpO2 90%.",
+      "workup": "Film: gaps in the cortex of four adjacent left ribs where they no longer line up, without callus; directly beneath them a patchy white airspace opacity that does not respect lobar borders.",
+      "management": "More than 3 acute rib breaks generally means admission for observation rather than discharge.",
+      "lecture": "CV146",
+      "lectures": [
+        "CV146"
+      ]
+    },
+    {
+      "name": "Hiatal hernia",
+      "presentation": "A 74-year-old woman with fullness after meals has a routine chest film before cataract surgery that shows a round gas-containing structure projecting over the heart. Afebrile, no cough or sputum, WBC 7,200/mm3, lungs clear on exam.",
+      "workup": "Frontal film: inside the round structure over the heart, gas sits above a straight horizontal fluid level with debris; the lateral film places it behind the heart, continuous with the upper abdomen; lungs clear.",
+      "lecture": "CV146",
+      "lectures": [
+        "CV146"
+      ]
+    },
+    {
+      "name": "Pneumoperitoneum",
+      "presentation": "A 62-year-old man had sudden severe upper abdominal pain 6 hours ago that has spread across the whole abdomen. He lies still; the abdomen is rigid with rebound tenderness and absent bowel sounds. T 38.1 C, HR 118, BP 102/64.",
+      "workup": "Upright chest film: a thin curved crescent of gas beneath the right hemidiaphragm, separating it from the top of the liver; on the lateral view the gas sits anteriorly under the diaphragm.",
+      "lecture": "CV146",
+      "lectures": [
+        "CV146"
+      ]
+    }
+  ]
+}

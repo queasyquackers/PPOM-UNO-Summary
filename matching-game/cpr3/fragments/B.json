@@ -1,0 +1,1185 @@
+{
+  "bugs": [
+    {
+      "name": "Coxsackievirus A",
+      "disease": "Hand-foot-mouth disease",
+      "micro": "Naked icosahedral (+) ssRNA picornavirus; acid- and bile-stable enterovirus that grows at 37 C; group A types 16 and 6 target skin and mucosa; fecal-oral spread with stool shedding up to 6 weeks; RT-PCR of swab, stool or vesicle fluid",
+      "presentation": "3-year-old at daycare in late August: 2 days of T 38.1 C, refusing to drink because of painful shallow ulcers on the tongue and inner cheeks. Tender, non-itchy red macules and 3-mm grey vesicles with red rims on palms and soles; they heal over 7-10 days without crusting.",
+      "lecture": "CV129",
+      "lectures": [
+        "CV129"
+      ]
+    },
+    {
+      "name": "Coxsackievirus A",
+      "disease": "Herpangina",
+      "micro": "Naked icosahedral (+) ssRNA picornavirus; acid- and bile-stable enterovirus that grows at 37 C; group A types 16 and 6 target skin and mucosa; fecal-oral spread with stool shedding up to 6 weeks; RT-PCR of swab, stool or vesicle fluid",
+      "presentation": "5-year-old at a summer day camp in July: abrupt T 39.6 C, sore throat and drooling because swallowing hurts. Discrete 2-mm grey vesicles and punched-out ulcers with red halos on the soft palate, uvula and tonsillar pillars; gums, lips, palms and soles spared; no tonsillar pus.",
+      "lecture": "CV129",
+      "lectures": [
+        "CV129",
+        "CV141"
+      ]
+    },
+    {
+      "name": "Rhinovirus",
+      "disease": "Common cold",
+      "micro": "Naked icosahedral (+) ssRNA picornavirus; acid-labile and replicates best at 33 C, so it stays in the nose; docks on ICAM-1 of ciliated nasal epithelium; over 100 serotypes, so reinfection is lifelong; spread hand-to-nose from fomites",
+      "presentation": "34-year-old kindergarten teacher in October: 2 days of sneezing, clear watery nasal discharge, blocked nose, scratchy throat and a dry cough. T 37.2 C, mild body aches but no chills; red, swollen nasal mucosa, no tonsillar exudate, eyes not red, lungs clear.",
+      "lecture": "CV129",
+      "lectures": [
+        "CV129",
+        "CV141"
+      ]
+    },
+    {
+      "name": "Adenovirus",
+      "disease": "Pharyngoconjunctival fever",
+      "micro": "Naked icosahedral linear dsDNA; fiber binds CAR, penton base binds integrins; early proteins block apoptosis, lower IFN-alpha and MHC I; over 60 serotypes (low numbers respiratory, 40/41 enteric); hardy capsid; PCR or immunofluorescence",
+      "presentation": "9-year-old at a summer sleep-away camp with a pool, where several cabin-mates are sick: 3 days of T 39.4 C, sore throat and both eyes red and watery without pus. Follicles on the lower lids, tender nodes in front of the ears and in the neck; no rash, no cough.",
+      "lecture": "CV129",
+      "lectures": [
+        "CV129",
+        "CV141"
+      ]
+    },
+    {
+      "name": "Adenovirus",
+      "disease": "Hemorrhagic cystitis in a kidney transplant recipient",
+      "micro": "Naked icosahedral linear dsDNA; fiber binds CAR, penton base binds integrins; early proteins block apoptosis, lower IFN-alpha and MHC I; over 60 serotypes (low numbers respiratory, 40/41 enteric); hardy capsid; PCR or immunofluorescence",
+      "presentation": "46-year-old man 3 months after a kidney transplant, on tacrolimus and mycophenolate: 4 days of burning, urgency and bright red urine with small clots; T 38.2 C. Urine has 200 RBC/hpf, routine bacterial culture is sterile, and urine PCR for a DNA virus is strongly positive.",
+      "lecture": "CV152",
+      "lectures": [
+        "CV152",
+        "CV129",
+        "CV157"
+      ],
+      "avoid": [
+        "BK polyomavirus"
+      ]
+    },
+    {
+      "name": "Influenza A virus",
+      "disease": "Seasonal flu, uncomplicated",
+      "micro": "Enveloped orthomyxovirus with 8 segments of (-) ssRNA; hemagglutinin binds sialic acid, neuraminidase cleaves it to release progeny; drift = HA/NA point mutations, shift = segment reassortment in pigs or birds; RT-PCR or antigen test",
+      "presentation": "29-year-old graduate student in January whose 3 roommates are ill: 1 day of abrupt T 39.5 C with shaking chills, headache, severe aching of the back and legs and a dry cough, all starting within hours. HR 112, RR 18, SpO2 97%; lungs clear; chest film normal.",
+      "lecture": "CV129",
+      "lectures": [
+        "CV129",
+        "CV150",
+        "CV138"
+      ]
+    },
+    {
+      "name": "Influenza A virus",
+      "disease": "Primary viral pneumonia by day 3 of seasonal flu in pregnancy",
+      "micro": "Enveloped orthomyxovirus with 8 segments of (-) ssRNA; hemagglutinin binds sialic acid, neuraminidase cleaves it to release progeny; drift = HA/NA point mutations, shift = segment reassortment in pigs or birds; RT-PCR or antigen test",
+      "presentation": "Woman 30 weeks pregnant in February: abrupt fever, myalgias and dry cough, and instead of improving she is breathless by day 3. RR 32, SpO2 84% on room air, diffuse crackles. Film: bilateral interstitial opacities; sputum Gram stain shows few neutrophils and no organisms.",
+      "lecture": "CV129",
+      "lectures": [
+        "CV129",
+        "CV132"
+      ]
+    },
+    {
+      "name": "Parainfluenza virus",
+      "disease": "Croup (laryngotracheobronchitis)",
+      "micro": "Enveloped, nonsegmented (-) ssRNA paramyxovirus with HN attachment and fusion (F) proteins; no reassortment (genome not segmented); types 1 and 2 peak in fall and winter, type 3 in spring; PCR of a nasopharyngeal swab",
+      "presentation": "2-year-old boy in November: 2 days of nasal congestion and T 38.0 C, then a hoarse voice and a loud harsh cough, worse at night, with a high-pitched noise on breathing in when he cries. RR 36, SpO2 97%, mild suprasternal retractions, no drooling; lungs clear.",
+      "lecture": "CV129",
+      "lectures": [
+        "CV129",
+        "CV141"
+      ]
+    },
+    {
+      "name": "Respiratory syncytial virus",
+      "disease": "Bronchiolitis in an infant",
+      "micro": "Enveloped nonsegmented (-) ssRNA pneumovirus; F protein spreads it cell to cell, fusing cells into multinucleated giant cells; survives 6 h on surfaces; antigen test or PCR; monoclonals and maternal vaccination protect infants",
+      "presentation": "4-month-old born at 33 weeks, in January: 3 days of nasal congestion and cough, now feeding poorly. RR 64, T 38.0 C, SpO2 90%, nasal flaring, intercostal retractions, diffuse expiratory wheezes and fine crackles. Chest film: hyperinflation with patchy atelectasis.",
+      "lecture": "CV129",
+      "lectures": [
+        "CV129"
+      ]
+    },
+    {
+      "name": "SARS-CoV-2",
+      "disease": "Viral pneumonia progressing to ARDS in the second week",
+      "micro": "Enveloped (+) ssRNA betacoronavirus with the largest RNA genome; spike binds ACE2, then host TMPRSS2 cleaves it for membrane fusion; bat reservoir, pangolin intermediate host; 20-40% of infections asymptomatic; RT-PCR or home antigen test",
+      "presentation": "67-year-old unvaccinated man with diabetes and obesity: 8 days of fever, chills, sore throat and dry cough, then worsening breathlessness. RR 34, SpO2 84% on 6 L/min, PaO2/FiO2 140, bilateral crackles; CT: bilateral peripheral ground-glass opacities; echo: normal LV function.",
+      "lecture": "CV129",
+      "lectures": [
+        "CV129",
+        "CV126",
+        "CV138",
+        "CV150"
+      ]
+    },
+    {
+      "name": "Streptococcus pneumoniae",
+      "disease": "Acute bacterial sinusitis after a cold",
+      "micro": "Gram-positive diplococci in pairs or short chains; catalase-negative, alpha-hemolytic, optochin-sensitive, bile-soluble; polysaccharide capsule (about 100 serotypes, the vaccine target); IgA protease; urine antigen detects C-polysaccharide",
+      "presentation": "36-year-old woman: a cold 12 days ago seemed to be clearing, then over 3 days T 39.2 C, purulent nasal discharge and throbbing right cheek pain worse on bending forward; tender right maxilla. CT: air-fluid level in the right maxillary sinus only. Glucose 96 mg/dL.",
+      "lecture": "CV141",
+      "lectures": [
+        "CV141",
+        "CV130"
+      ],
+      "avoid": {
+        "presentation": [
+          "Haemophilus influenzae"
+        ],
+        "disease": [
+          "Haemophilus influenzae"
+        ]
+      }
+    },
+    {
+      "name": "Streptococcus pneumoniae",
+      "disease": "Peritonitis of ascites in a child with nephrotic syndrome",
+      "micro": "Gram-positive diplococci in pairs or short chains; catalase-negative, alpha-hemolytic, optochin-sensitive, bile-soluble; polysaccharide capsule (about 100 serotypes, the vaccine target); IgA protease; urine antigen detects C-polysaccharide",
+      "presentation": "6-year-old boy with relapsing, steroid-treated edema and heavy proteinuria (albumin 1.6 g/dL, urine protein 4+, IgG 250 mg/dL) and tense ascites: 1 day of T 39.4 C and diffuse abdominal pain with rebound. Paracentesis: 1,800 neutrophils/uL, gram-positive diplococci.",
+      "lecture": "CV161",
+      "lectures": [
+        "CV161"
+      ]
+    },
+    {
+      "name": "Streptococcus pyogenes",
+      "disease": "Exudative pharyngitis in a school-age child",
+      "micro": "Gram-positive cocci in chains; catalase-negative, beta-hemolytic, bacitracin-sensitive; M protein and a hyaluronic acid capsule resist phagocytosis; rapid antigen test or throat culture; ASO and anti-DNase B titers mark recent infection",
+      "presentation": "11-year-old girl in February: 1 day of T 39.0 C, severe sore throat and pain on swallowing, no cough or nasal discharge. Swollen red tonsils with white exudate and tender enlarged anterior neck nodes; eyes normal, no mouth vesicles, no grey coating.",
+      "lecture": "CV130",
+      "lectures": [
+        "CV130",
+        "CV141"
+      ]
+    },
+    {
+      "name": "Streptococcus pyogenes",
+      "disease": "Post-infectious glomerulonephritis in a child",
+      "micro": "Gram-positive cocci in chains; catalase-negative, beta-hemolytic, bacitracin-sensitive; M protein and a hyaluronic acid capsule resist phagocytosis; rapid antigen test or throat culture; ASO and anti-DNase B titers mark recent infection",
+      "presentation": "12-year-old boy with a puffy face, fatigue and dark brown urine, 2 weeks after a febrile sore throat that cleared without a doctor visit. BP 138/98, periorbital edema; urine: RBC casts, protein 1+; creatinine 1.3 mg/dL; C3 low, C4 normal; platelets and smear normal.",
+      "lecture": "CV149",
+      "lectures": [
+        "CV149",
+        "CV161",
+        "CV147",
+        "CV130",
+        "CV141"
+      ]
+    },
+    {
+      "name": "Staphylococcus aureus",
+      "disease": "Necrotizing pneumonia after influenza",
+      "micro": "Gram-positive cocci in clusters; catalase-positive, coagulase-positive, beta-hemolytic, ferments mannitol; protein A binds IgG Fc; methicillin-resistant strains carry mecA (PBP2a, no beta-lactam binds); some carry pore-forming PVL",
+      "presentation": "24-year-old previously healthy man in January: flu-like illness 6 days ago was improving, then abrupt T 40.1 C, cough with bloody sputum and BP 86/50. RR 36, SpO2 85%; WBC 2,900; CT: bilateral consolidations with several thin-walled cavities and a right effusion.",
+      "lecture": "CV131",
+      "lectures": [
+        "CV131",
+        "CV132",
+        "CV130",
+        "CV141"
+      ]
+    },
+    {
+      "name": "Staphylococcus aureus",
+      "disease": "Community-acquired methicillin-resistant skin abscess",
+      "micro": "Gram-positive cocci in clusters; catalase-positive, coagulase-positive, beta-hemolytic, ferments mannitol; protein A binds IgG Fc; methicillin-resistant strains carry mecA (PBP2a, no beta-lactam binds); some carry pore-forming PVL",
+      "presentation": "17-year-old high-school wrestler; 2 teammates have had boils: 4 days of a painful, warm, fluctuant 4-cm swelling on the thigh with a central pustule draining thick yellow pus and spreading redness; T 38.3 C. Three days of cephalexin did not help.",
+      "lecture": "CV138",
+      "lectures": [
+        "CV138",
+        "CV140"
+      ]
+    },
+    {
+      "name": "Staphylococcus aureus",
+      "disease": "Hospital-acquired bronchopneumonia in a nasal carrier",
+      "micro": "Gram-positive cocci in clusters; catalase-positive, coagulase-positive, beta-hemolytic, ferments mannitol; protein A binds IgG Fc; methicillin-resistant strains carry mecA (PBP2a, no beta-lactam binds); some carry pore-forming PVL",
+      "presentation": "68-year-old woman on day 4 after a hip replacement, never intubated; her admission nasal swab grew the organism. New T 38.9 C, cough with purulent sputum, RR 26, SpO2 89%; WBC 17,000 with 85% neutrophils; film: patchy infiltrates in both lower lobes.",
+      "lecture": "CV139",
+      "lectures": [
+        "CV139",
+        "CV131",
+        "CV132",
+        "CV140"
+      ]
+    },
+    {
+      "name": "Staphylococcus aureus",
+      "disease": "Renal cortical abscesses from bloodstream seeding",
+      "micro": "Gram-positive cocci in clusters; catalase-positive, coagulase-positive, beta-hemolytic, ferments mannitol; protein A binds IgG Fc; methicillin-resistant strains carry mecA (PBP2a, no beta-lactam binds); some carry pore-forming PVL",
+      "presentation": "34-year-old man who injects heroin: 10 days of fevers to 39.5 C and left flank pain, no dysuria. New holosystolic murmur at the left lower sternal border; urine 30 WBC/hpf without casts; 3 of 3 blood cultures positive; CT: several rim-enhancing collections in the renal cortex.",
+      "lecture": "CV152",
+      "lectures": [
+        "CV152",
+        "CV155"
+      ]
+    },
+    {
+      "name": "Haemophilus influenzae",
+      "disease": "Epiglottitis in an unvaccinated child",
+      "micro": "Small pleomorphic gram-negative coccobacilli; grow on chocolate agar, which supplies factor X (hemin) and factor V (NAD); IgA protease; capsule types a-f, type b made of polyribosylribitol phosphate (PRP), the vaccine target",
+      "presentation": "3-year-old girl whose parents declined all vaccines: well at dinner, then within 6 hours T 39.8 C, severe sore throat, muffled voice and a soft high-pitched noise on breathing in. Sits upright and very still, saliva running from her mouth, no cough; HR 168, SpO2 93%.",
+      "lecture": "CV130",
+      "lectures": [
+        "CV130",
+        "CV141"
+      ]
+    },
+    {
+      "name": "Haemophilus influenzae",
+      "disease": "Pneumonia in a long-term smoker with COPD",
+      "micro": "Small pleomorphic gram-negative coccobacilli; grow on chocolate agar, which supplies factor X (hemin) and factor V (NAD); IgA protease; capsule types a-f, type b made of polyribosylribitol phosphate (PRP), the vaccine target",
+      "presentation": "64-year-old man, 45 pack-years, with COPD (FEV1 48%): 4 days of more cough, thicker yellow-green sputum, more breathlessness and T 38.4 C. RR 24, SpO2 88%, wheezes and right basal crackles; film: patchy right lower-lobe opacity; sputum: neutrophils and tiny gram-negative rods.",
+      "lecture": "CV130",
+      "lectures": [
+        "CV130",
+        "CV141"
+      ]
+    },
+    {
+      "name": "Klebsiella pneumoniae",
+      "disease": "Cavitating upper-lobe lung infection in heavy drinking",
+      "micro": "Large gram-negative enteric bacillus; non-motile; ferments lactose (pink on MacConkey); indole-negative, urease-positive, VP and citrate positive; huge polysaccharide capsule gives wet mucoid colonies that string out on a loop",
+      "presentation": "58-year-old man who drinks a pint of vodka daily, found asleep in a chair: 3 days of T 39.1 C and coughing thick, sticky, blood-streaked sputum. Film: dense right upper-lobe consolidation with a 3-cm cavity; sputum: plump gram-negative rods.",
+      "lecture": "CV130",
+      "lectures": [
+        "CV130",
+        "CV132",
+        "CV139",
+        "CV140",
+        "CV141"
+      ]
+    },
+    {
+      "name": "Klebsiella pneumoniae",
+      "disease": "Carbapenem-resistant mucoid enteric rod bacteremia in the ICU",
+      "micro": "Large gram-negative enteric bacillus; non-motile; ferments lactose (pink on MacConkey); indole-negative, urease-positive, VP and citrate positive; huge polysaccharide capsule gives wet mucoid colonies that string out on a loop",
+      "presentation": "72-year-old woman transferred from another hospital's ICU, 3 weeks of meropenem and a central line: T 39.3 C, BP 78/44, lactate 4.2 mmol/L. Blood cultures grow a mucoid, indole-negative lactose fermenter resistant to every beta-lactam; only colistin is active.",
+      "lecture": "CV138",
+      "lectures": [
+        "CV138",
+        "CV140"
+      ]
+    },
+    {
+      "name": "Bordetella pertussis",
+      "disease": "Paroxysmal cough illness in an unimmunized infant",
+      "micro": "Encapsulated gram-negative aerobic coccobacillus; fastidious, grows only on a selective medium very rich in blood; fimbriae and filamentous hemagglutinin anchor it to ciliated cells; its A-B toxin and adenylate cyclase toxin raise cAMP",
+      "presentation": "6-week-old unimmunized infant, afebrile: 10 days of a runny nose, then bursts of 12-15 coughs with no breath between, ending in gagging, vomiting and blue lips, with 20-second pauses in breathing. Well between bursts, lungs clear; WBC 34,000/uL with 78% lymphocytes.",
+      "lecture": "CV130",
+      "lectures": [
+        "CV130",
+        "CV138"
+      ]
+    },
+    {
+      "name": "Mycoplasma pneumoniae",
+      "disease": "Slow-onset lung infection in a young adult with hemolysis",
+      "micro": "Smallest free-living bacterium; no cell wall, so invisible on Gram stain and untouched by beta-lactams; sterols stabilize its membrane; grows slowly on Eaton agar; PCR; IgM clumps red cells at 4 C but not 37 C",
+      "presentation": "19-year-old military recruit in a barracks where several others are ill: 10 days of gradually worsening headache, malaise, low-grade fever and a nagging dry cough; he looks well and has only scattered crackles. Film: patchy bilateral opacities. Hb 10.2 g/dL, reticulocytes 6%.",
+      "lecture": "CV130",
+      "lectures": [
+        "CV130",
+        "CV132",
+        "CV141"
+      ]
+    },
+    {
+      "name": "Chlamydophila pneumoniae",
+      "disease": "Slow-onset lung infection spread person to person by aerosol",
+      "micro": "Obligate intracellular energy parasite that cannot make enough ATP; wall has little peptidoglycan (muramic acid reduced); inert infectious elementary body alternates with replicating reticulate body; Giemsa inclusions, PCR, serology",
+      "presentation": "48-year-old man whose wife had the same illness 3 weeks ago: 2 weeks of hoarseness, sore throat and a dry hacking cough, with T 37.9 C and no chills. Lungs nearly clear; film: patchy bilateral opacities. Na 139 mEq/L, no diarrhea; Hb 14 g/dL; sputum Gram stain shows no organisms.",
+      "lecture": "CV130",
+      "lectures": [
+        "CV130",
+        "CV141"
+      ]
+    },
+    {
+      "name": "Chlamydia psittaci",
+      "disease": "Lung infection acquired from pet birds",
+      "micro": "Obligate intracellular energy parasite with an elementary body and reticulate body cycle; wall low in muramic acid; too small and intracellular to Gram stain; birds are the reservoir, humans inhale dried droppings; PCR or serology",
+      "presentation": "52-year-old woman who breeds parakeets and cleans their cages: 8 days of T 38.8 C, headache, dry cough and breathlessness. Lungs with scattered crackles; film: patchy bilateral opacities. No hot tub or hotel stay, Na 138 mEq/L; sputum Gram stain shows no organisms.",
+      "lecture": "CV130",
+      "lectures": [
+        "CV130",
+        "CV141"
+      ]
+    },
+    {
+      "name": "Legionella pneumophila",
+      "disease": "Severe lung infection with diarrhea, confusion, low sodium",
+      "micro": "Gram-negative rod that stains poorly, so a silver stain is used on biopsy; fastidious, needs buffered charcoal yeast extract agar with iron and cysteine; multiplies inside free-living amoebae in water; urine antigen detects serogroup 1 LPS",
+      "presentation": "68-year-old man who smokes, 5 days after a hotel stay where 2 other guests fell ill: 4 days of T 39.6 C, dry cough, watery non-bloody diarrhea and confusion. RR 28, SpO2 88%; film: right lower-lobe consolidation. Na 126 mEq/L, AST 92 U/L; no person-to-person contact.",
+      "lecture": "CV130",
+      "lectures": [
+        "CV130",
+        "CV141"
+      ]
+    },
+    {
+      "name": "Pseudomonas aeruginosa",
+      "disease": "Late ventilator-associated pneumonia with green secretions",
+      "micro": "Gram-negative motile rod; strict aerobe, ferments neither glucose nor lactose; oxidase- and catalase-positive; blue-green pyocyanin and fluorescent pyoverdine with a grape-like odor; slime biofilm; exotoxin A inactivates EF-2",
+      "presentation": "61-year-old man intubated 9 days for a head injury: T 39.0 C, thick green secretions suctioned from the tube, SpO2 falling on rising FiO2. Film: new left lower-lobe infiltrate; tracheal aspirate grows 10^6 CFU/mL of an oxidase-positive, non-lactose-fermenting gram-negative rod.",
+      "lecture": "CV131",
+      "lectures": [
+        "CV131",
+        "CV132",
+        "CV139",
+        "CV140"
+      ]
+    },
+    {
+      "name": "Pseudomonas aeruginosa",
+      "disease": "Invasive wound sepsis in a burn unit",
+      "micro": "Gram-negative motile rod; strict aerobe, ferments neither glucose nor lactose; oxidase- and catalase-positive; blue-green pyocyanin and fluorescent pyoverdine with a grape-like odor; slime biofilm; exotoxin A inactivates EF-2",
+      "presentation": "29-year-old man 8 days after 40% body-surface flame burns: T 39.4 C, BP 84/50, and the graft edges now ooze a blue-green discharge with darkening of the surrounding skin. WBC 2,100/uL; blood cultures grow an oxidase-positive gram-negative rod.",
+      "lecture": "CV140",
+      "lectures": [
+        "CV140",
+        "CV131"
+      ]
+    },
+    {
+      "name": "Pseudomonas aeruginosa",
+      "disease": "Chronic airway infection in cystic fibrosis",
+      "micro": "Gram-negative motile rod; strict aerobe, ferments neither glucose nor lactose; oxidase- and catalase-positive; blue-green pyocyanin and fluorescent pyoverdine with a grape-like odor; slime biofilm; exotoxin A inactivates EF-2",
+      "presentation": "22-year-old woman with cystic fibrosis: over 2 years, 4 exacerbations with more sputum and FEV1 falling from 62% to 44% predicted. Sputum repeatedly grows the same oxidase-positive organism, now as slimy mucoid colonies resistant to all but tobramycin; CT: widened bronchi.",
+      "lecture": "CV140",
+      "lectures": [
+        "CV140",
+        "CV130",
+        "CV131",
+        "CV141"
+      ],
+      "avoid": [
+        "Burkholderia cepacia"
+      ]
+    },
+    {
+      "name": "Pseudomonas aeruginosa",
+      "disease": "Catheter-associated urinary infection by an oxidase-positive rod",
+      "micro": "Gram-negative motile rod; strict aerobe, ferments neither glucose nor lactose; oxidase- and catalase-positive; blue-green pyocyanin and fluorescent pyoverdine with a grape-like odor; slime biofilm; exotoxin A inactivates EF-2",
+      "presentation": "74-year-old man in his third hospital week after a stroke, indwelling catheter for 10 days: T 38.7 C, confusion and suprapubic tenderness, no dysuria. Urine: 60 WBC/hpf, nitrite negative; culture 10^5 CFU/mL of an oxidase-positive non-fermenter; the bag looks green.",
+      "lecture": "CV152",
+      "lectures": [
+        "CV152",
+        "CV153",
+        "CV140"
+      ]
+    },
+    {
+      "name": "Acinetobacter baumannii",
+      "disease": "Blast-wound and bone infection in a combat casualty",
+      "micro": "Gram-negative coccobacillus; strictly aerobic, non-motile, oxidase-negative and non-fermenting; catalase-positive; forms biofilm and survives up to 5 months on dry surfaces; hard to clear with routine disinfectants; often pan-resistant",
+      "presentation": "26-year-old soldier flown from a field hospital 3 weeks after a blast injury: the left tibial wound drains pus and the bone is exposed; T 38.6 C. Deep cultures grow a non-fermenting, oxidase-negative gram-negative organism susceptible only to colistin.",
+      "lecture": "CV140",
+      "lectures": [
+        "CV140",
+        "CV131"
+      ]
+    },
+    {
+      "name": "Burkholderia cepacia",
+      "disease": "Rapidly declining lung function in cystic fibrosis",
+      "micro": "Gram-negative aerobic bacillus; catalase- and oxidase-positive; non-fermenter living on moist surfaces; once placed in another genus and reclassified on genetic analysis; intrinsically resistant to many antibiotics",
+      "presentation": "19-year-old man with cystic fibrosis, one organism in his sputum for years, now has fever, weight loss and FEV1 down from 58% to 31% predicted over 6 weeks. Sputum also grows a second oxidase-positive, catalase-positive gram-negative non-fermenter.",
+      "lecture": "CV131",
+      "lectures": [
+        "CV131",
+        "CV130",
+        "CV141"
+      ],
+      "avoid": [
+        "Pseudomonas aeruginosa"
+      ]
+    },
+    {
+      "name": "Actinomyces israelii",
+      "disease": "Chronic jaw swelling with draining sinus tracts",
+      "micro": "Gram-positive branching filaments that can be mistaken for fungal hyphae; strict anaerobe, catalase-negative; normal flora of the mouth and gut; pus contains hard yellow granules made of intertwined filaments",
+      "presentation": "44-year-old otherwise healthy man with poor dental hygiene, 2 months after a molar extraction: a firm, non-tender 5-cm swelling along the right jaw that has opened onto the skin and drains thick pus containing gritty yellow specks. T 37.6 C; no weight loss; HIV test negative.",
+      "lecture": "CV131",
+      "lectures": [
+        "CV131"
+      ]
+    },
+    {
+      "name": "Nocardia asteroides",
+      "disease": "Lung nodules with a brain abscess in a transplant patient",
+      "micro": "Gram-positive branching filaments; aerobic, non-motile, catalase-positive; acid-fast only with a weaker decolorizer, since its wall holds less mycolic acid; a cord-factor variant blocks phagosome-lysosome fusion; inhaled from soil",
+      "presentation": "58-year-old man 5 months after a kidney transplant on prednisone and tacrolimus, who gardens: 3 weeks of cough, T 38.3 C and weight loss, then a 2-day headache and right arm weakness. CT chest: two cavitating nodules; brain MRI: a 2-cm ring-enhancing lesion.",
+      "lecture": "CV131",
+      "lectures": [
+        "CV131"
+      ]
+    },
+    {
+      "name": "Mycobacterium tuberculosis",
+      "disease": "Dormant infection with a positive blood test, clear film",
+      "micro": "Aerobic rod whose waxy mycolic acid wall defeats the Gram stain; acid-fast red rods on smear, or auramine fluorescence; weeks to grow on Lowenstein-Jensen medium; survives drying in droplet nuclei; blood interferon-gamma release assay",
+      "presentation": "28-year-old medical student born in the Philippines, screened before clinical rotations: no cough, fever, night sweats or weight loss, weight stable, lungs clear on exam. The blood assay is positive, the chest film is clear, and an HIV test is negative.",
+      "lecture": "CV127",
+      "lectures": [
+        "CV127",
+        "CV128",
+        "CV131"
+      ]
+    },
+    {
+      "name": "Mycobacterium tuberculosis",
+      "disease": "First infection in a child, with an enlarged hilar node",
+      "micro": "Aerobic rod whose waxy mycolic acid wall defeats the Gram stain; acid-fast red rods on smear, or auramine fluorescence; weeks to grow on Lowenstein-Jensen medium; lives in alveolar macrophages; cord factor and sulfatides; culture confirms",
+      "presentation": "4-year-old girl whose grandfather was hospitalized last month with a chronic cough: 3 weeks of low-grade fever and mild cough, weight down 1 kg. Film: small peripheral opacity, markedly enlarged right hilar node; skin test 15 mm; morning gastric aspirate grows acid-fast rods.",
+      "lecture": "CV132",
+      "lectures": [
+        "CV132",
+        "CV127",
+        "CV131"
+      ]
+    },
+    {
+      "name": "Mycobacterium tuberculosis",
+      "disease": "Reactivated apical lung disease with a cavity",
+      "micro": "Aerobic rod whose waxy mycolic acid wall defeats the Gram stain; acid-fast red rods on smear, or auramine fluorescence; weeks to grow on Lowenstein-Jensen medium; lives in alveolar macrophages; cord factor and sulfatides; culture confirms",
+      "presentation": "54-year-old man on infliximab for 4 months for rheumatoid arthritis, who had a positive skin test 20 years ago: 2 months of drenching night sweats, 7 kg weight loss and cough with blood-streaked sputum. Film: upper-lobe infiltrate with a 4-cm cavity; sputum smear positive.",
+      "lecture": "CV132",
+      "lectures": [
+        "CV132",
+        "CV127",
+        "CV131",
+        "CV128"
+      ]
+    },
+    {
+      "name": "Mycobacterium tuberculosis",
+      "disease": "Blood-borne spread with innumerable tiny lung nodules",
+      "micro": "Aerobic rod whose waxy mycolic acid wall defeats the Gram stain; acid-fast red rods on smear, or auramine fluorescence; weeks to grow on Lowenstein-Jensen medium; lives in alveolar macrophages; cord factor and sulfatides; culture confirms",
+      "presentation": "41-year-old man with untreated HIV (CD4 90/uL): 5 weeks of daily fever, night sweats and 9 kg weight loss, now headache and neck stiffness. Film: countless 1-2 mm nodules spread evenly through both lungs; liver and spleen enlarged; CSF: 180 lymphocytes, glucose 28 mg/dL.",
+      "lecture": "CV127",
+      "lectures": [
+        "CV127",
+        "CV132",
+        "CV131"
+      ]
+    },
+    {
+      "name": "Mycobacterium tuberculosis",
+      "disease": "Firm neck nodes mistaken for lymphoma",
+      "micro": "Aerobic rod whose waxy mycolic acid wall defeats the Gram stain; acid-fast red rods on smear, or auramine fluorescence; weeks to grow on Lowenstein-Jensen medium; lives in alveolar macrophages; cord factor and sulfatides; culture confirms",
+      "presentation": "33-year-old woman who moved from India 2 years ago: 3 months of a painless, firm, matted cluster of nodes behind the right sternocleidomastoid and above the clavicle, with night sweats. Chest film clear; biopsy of the node shows caseating granulomas with acid-fast rods.",
+      "lecture": "CV127",
+      "lectures": [
+        "CV127"
+      ]
+    },
+    {
+      "name": "Mycobacterium tuberculosis",
+      "disease": "Destroyed vertebral bodies with focal back pain",
+      "micro": "Aerobic rod whose waxy mycolic acid wall defeats the Gram stain; acid-fast red rods on smear, or auramine fluorescence; weeks to grow on Lowenstein-Jensen medium; lives in alveolar macrophages; cord factor and sulfatides; culture confirms",
+      "presentation": "47-year-old man who spent 2 years in prison: 4 months of worsening mid-back pain, night sweats and 6 kg weight loss, now tingling in both legs. MRI: collapse of two adjacent thoracic vertebral bodies with a large paraspinal fluid collection; tender over T8.",
+      "lecture": "CV127",
+      "lectures": [
+        "CV127",
+        "CV131"
+      ]
+    },
+    {
+      "name": "Mycobacterium tuberculosis",
+      "disease": "Sterile pyuria with hematuria and ureteral strictures",
+      "micro": "Aerobic rod whose waxy mycolic acid wall defeats the Gram stain; acid-fast red rods on smear, or auramine fluorescence; weeks to grow on Lowenstein-Jensen medium; lives in alveolar macrophages; cord factor and sulfatides; culture confirms",
+      "presentation": "52-year-old woman from Pakistan treated for lung disease 25 years ago: 5 months of burning, frequency, right flank ache and visible blood in the urine despite two antibiotic courses. Urine: 40 WBC/hpf, routine cultures sterile; CT: narrowed right ureter, scarred shrunken kidney.",
+      "lecture": "CV152",
+      "lectures": [
+        "CV152",
+        "CV127",
+        "CV157"
+      ]
+    },
+    {
+      "name": "Mycobacterium tuberculosis",
+      "disease": "Relapse resistant to the two key first-line drugs",
+      "micro": "Acid-fast rod; smear by Ziehl-Neelsen or auramine fluorescence, culture on Lowenstein-Jensen in weeks; NAAT detects its DNA within hours; RNA polymerase (rpoB) and catalase-peroxidase (katG) mutations confer the resistance",
+      "presentation": "36-year-old man who stopped a 6-month regimen after 7 weeks two years ago, now back from Eastern Europe: 3 months of cough with blood, night sweats and wasting, and no improvement after 10 weeks of standard four-drug therapy. Film: new cavities in both upper lobes.",
+      "lecture": "CV138",
+      "lectures": [
+        "CV138",
+        "CV128"
+      ]
+    },
+    {
+      "name": "Mycobacterium avium complex",
+      "disease": "Fever, wasting and high alkaline phosphatase at CD4 30",
+      "micro": "Slow-growing environmental acid-fast rod, not spread person to person; found on acid-fast smear and culture of blood or marrow; treated with a macrolide plus ethambutol, not the usual four-drug regimen",
+      "presentation": "39-year-old man with HIV who stopped antiretrovirals, CD4 count 30/uL: 6 weeks of daily fevers, drenching sweats and 10 kg weight loss. Hb 8.4 g/dL, alkaline phosphatase 410 U/L; chest film clear; two blood cultures held for acid-fast organisms turn positive at 3 weeks.",
+      "lecture": "CV128",
+      "lectures": [
+        "CV128"
+      ]
+    },
+    {
+      "name": "Mycobacterium leprae",
+      "disease": "Numb skin patches with thickened peripheral nerves",
+      "micro": "Acid-fast rod spread by respiratory droplets; will not grow on laboratory media, so diagnosis rests on acid-fast organisms in a skin biopsy; treated with dapsone, rifampin and clofazimine, thalidomide for a severe flare",
+      "presentation": "31-year-old man who grew up in rural Brazil: 2 years of pale, dry, slightly raised patches on the arms and back where he cannot feel pinprick or heat, a painless burn on a finger, and a weak grip with wasting of the small hand muscles. Both ulnar nerves are thickened.",
+      "lecture": "CV128",
+      "lectures": [
+        "CV128"
+      ]
+    },
+    {
+      "name": "Coxiella burnetii",
+      "disease": "Lung and liver illness in a goat herder",
+      "micro": "Counted as gram-negative but stains poorly; obligate intracellular, so sputum Gram stain shows inflammatory cells and no organisms; a spore-like body persists in dust for years; LPS phase shift; no arthropod vector",
+      "presentation": "45-year-old goat and sheep farmer who helped with lambing and drinks unpasteurized milk: 10 days of T 39.2 C, severe headache and dry cough. Film: patchy left lower-lobe opacity; AST 180 U/L, ALT 165 U/L, platelets 120,000/uL. No tick bite, no rash, no diarrhea.",
+      "lecture": "CV131",
+      "lectures": [
+        "CV131",
+        "CV141"
+      ]
+    },
+    {
+      "name": "Bacillus anthracis",
+      "disease": "Fulminant mediastinal illness after inhaling spores",
+      "micro": "Large gram-positive rods in chains; obligate aerobe; central endospores need autoclaving to kill; antiphagocytic poly-D-glutamate capsule; protective antigen channels in edema factor (an adenylate cyclase) and lethal factor (a protease)",
+      "presentation": "51-year-old man who sorts imported goat hair at a textile mill: 3 days of fever, dry cough and muscle aches, then sudden breathlessness and BP 76/40. Film: widened mediastinum with bloody pleural effusions and no alveolar consolidation; blood cultures positive at 12 hours.",
+      "lecture": "CV131",
+      "lectures": [
+        "CV131"
+      ]
+    },
+    {
+      "name": "Bacillus anthracis",
+      "disease": "Painless necrotic skin lesion in a hide worker",
+      "micro": "Large gram-positive rods in chains; obligate aerobe; central endospores need autoclaving to kill; antiphagocytic poly-D-glutamate capsule; protective antigen channels in edema factor (an adenylate cyclase) and lethal factor (a protease)",
+      "presentation": "38-year-old man who tans cattle hides: a red papule on the forearm 6 days ago became a ring of small blisters and is now a painless black-centered ulcer, with marked soft swelling of the whole forearm and tender axillary nodes. T 37.9 C; he feels well otherwise.",
+      "lecture": "CV131",
+      "lectures": [
+        "CV131"
+      ]
+    },
+    {
+      "name": "Francisella tularensis",
+      "disease": "Pneumonia after skinning wild rabbits",
+      "micro": "Small pleomorphic gram-negative coccobacillus; facultative intracellular in macrophages; two biotypes - virulent North American type A, milder European type B; diagnosed by agglutination serology, since culture is rarely attempted",
+      "presentation": "57-year-old hunter who skinned several wild rabbits 5 days ago: abrupt T 39.4 C, headache, malaise and dry cough with pleuritic pain. Film: patchy opacity with enlarged hilar nodes; no tick bite and no skin ulcer; serum agglutination titers are positive at 2 weeks.",
+      "lecture": "CV131",
+      "lectures": [
+        "CV131",
+        "CV141"
+      ]
+    },
+    {
+      "name": "Francisella tularensis",
+      "disease": "Skin ulcer with a huge necrotic node after a tick bite",
+      "micro": "Small pleomorphic gram-negative coccobacillus; facultative intracellular in macrophages; kept in wild animals, especially rabbits, by ticks that pass it to their own eggs; humans are a dead-end host; agglutination serology, not culture",
+      "presentation": "29-year-old woman who camps in Arkansas, 6 days after pulling a tick off her thigh: T 38.9 C, headache and malaise, a 1-cm punched-out ulcer at the bite, and a 4-cm tender inguinal node that has become soft and started to break down. The ulcer floor is pink, not black.",
+      "lecture": "CV131",
+      "lectures": [
+        "CV131"
+      ]
+    },
+    {
+      "name": "Yersinia pestis",
+      "disease": "Sudden fever with a huge tender groin swelling",
+      "micro": "Non-motile gram-negative rod, facultatively anaerobic and facultative intracellular; bipolar staining gives a safety-pin look; cycles between wild rodents and their fleas, prairie dogs being the main US reservoir; stain and culture",
+      "presentation": "42-year-old New Mexico ranger who handles dead prairie dogs, bitten by fleas 4 days ago: abrupt T 40.0 C, chills and prostration, with an exquisitely painful, boggy 6-cm mass of nodes in the right groin and no skin ulcer. BP 80/48, lactate 5 mmol/L.",
+      "lecture": "CV131",
+      "lectures": [
+        "CV131"
+      ]
+    },
+    {
+      "name": "Yersinia pestis",
+      "disease": "Fulminant pneumonia after nursing a coughing patient",
+      "micro": "Non-motile gram-negative rod, facultatively anaerobic and facultative intracellular; bipolar staining gives a safety-pin look; cycles between wild rodents and their fleas, prairie dogs being the main US reservoir; stain and culture",
+      "presentation": "34-year-old nurse who cared for a traveler coughing blood, with no animal or flea contact: 1 day of T 39.8 C, chest pain and copious bloody sputum, then BP 70/40 and RR 40. Film: dense bilateral consolidation; no groin or axillary swelling; blood cultures positive.",
+      "lecture": "CV131",
+      "lectures": [
+        "CV131"
+      ]
+    },
+    {
+      "name": "Oral anaerobes (Bacteroides, Fusobacterium, Peptostreptococcus, Prevotella)",
+      "disease": "Right lower-lobe infection days after a choking episode",
+      "micro": "Mixed normal flora of the gingival crevices and dental plaque; killed by oxygen, so specimens need oxygen-free transport and culture; growth is polymicrobial, often alongside aerobes; their metabolism makes pus and sputum smell foul",
+      "presentation": "71-year-old man living at home with dysphagia from a stroke 3 months ago, who choked on his dinner 4 days ago: T 38.5 C, cough with foul-smelling sputum, RR 26, SpO2 90%. Right basal crackles and dullness; film: patchy right lower-lobe opacity; sputum: mixed flora.",
+      "lecture": "CV139",
+      "lectures": [
+        "CV139",
+        "CV132",
+        "CV141",
+        "CV131"
+      ]
+    },
+    {
+      "name": "Oral anaerobes (Bacteroides, Fusobacterium, Peptostreptococcus, Prevotella)",
+      "disease": "Single cavity with putrid sputum weeks after passing out",
+      "micro": "Mixed normal flora of the gingival crevices and dental plaque; killed by oxygen, so specimens need oxygen-free transport and culture; growth is polymicrobial, often alongside aerobes; their metabolism makes pus and sputum smell foul",
+      "presentation": "49-year-old man with alcohol use disorder and severe gum disease, 4 weeks after a night he cannot remember: daily fever, 6 kg weight loss and cups of foul, putrid sputum; clubbed fingers. Film: a single 6-cm right-sided cavity with an air-fluid level.",
+      "lecture": "CV132",
+      "lectures": [
+        "CV132",
+        "CV139",
+        "CV141"
+      ]
+    },
+    {
+      "name": "Fusobacterium necrophorum",
+      "disease": "Neck vein thrombosis and septic emboli after pharyngitis",
+      "micro": "Anaerobic gram-negative rod of the normal mouth flora; increasingly common in adolescents and young adults; grows only in anaerobic blood culture bottles, which turn positive and give the diagnosis; no rapid antigen test exists for it",
+      "presentation": "19-year-old college student: a sore throat 6 days ago, then T 39.7 C with rigors, pain and swelling along the left side of the neck, and pleuritic chest pain. CT: a clot filling the left internal jugular vein with several small lung nodules; anaerobic blood cultures positive.",
+      "lecture": "CV141",
+      "lectures": [
+        "CV141"
+      ],
+      "avoid": [
+        "Oral anaerobes (Bacteroides, Fusobacterium, Peptostreptococcus, Prevotella)"
+      ]
+    },
+    {
+      "name": "Corynebacterium diphtheriae",
+      "disease": "Spreading grey throat coating in an unvaccinated child",
+      "micro": "Gram-positive rod; its toxin inactivates elongation factor 2 and halts protein synthesis; now rare in the US because of widespread vaccination",
+      "presentation": "7-year-old boy recently arrived from a refugee camp, no vaccinations: T 38.3 C and sore throat. On first look the tonsils are only red; 15 minutes later a small grey-white patch has appeared and is visibly creeping across the soft palate; it bleeds when scraped. Voice nasal.",
+      "lecture": "CV141",
+      "lectures": [
+        "CV141",
+        "CV131"
+      ]
+    },
+    {
+      "name": "Cytomegalovirus",
+      "disease": "Pneumonitis with enlarged inclusion-bearing cells after transplant",
+      "micro": "Enveloped double-stranded DNA herpesvirus; infected cells enlarge enormously with purple intranuclear inclusions surrounded by a clear halo, which are diagnostic on biopsy; quantitative blood PCR follows the viral load",
+      "presentation": "56-year-old man 7 weeks after a stem cell transplant: 10 days of dry cough, T 38.7 C and breathlessness; SpO2 86%. CT: diffuse ground-glass opacities with small nodules. Lavage silver stain shows no cysts; biopsy shows swollen cells with large nuclei holding inclusion bodies.",
+      "lecture": "CV132",
+      "lectures": [
+        "CV132"
+      ]
+    },
+    {
+      "name": "Coccidioides immitis",
+      "disease": "Fever, chest pain and tender shin nodules after a dust storm",
+      "micro": "Thermally dimorphic; soil mold of hot semi-arid regions fragments into light windborne arthrospores, dispersed by rain-then-drought cycles; in tissue, thick-walled spherules packed with endospores, not budding yeast; culture is dangerous",
+      "presentation": "31-year-old woman who drove through a dust storm near Phoenix 3 weeks ago: 10 days of T 38.6 C, dry cough, pleuritic pain and aching joints, plus tender red nodules on both shins. Film: left lower-lobe infiltrate with enlarged hilar nodes; WBC 10,800/uL; HIV negative.",
+      "lecture": "CV136",
+      "lectures": [
+        "CV136",
+        "CV132",
+        "CV141"
+      ]
+    },
+    {
+      "name": "Coccidioides immitis",
+      "disease": "Skin, bone and meningeal spread in a Filipino man",
+      "micro": "Thermally dimorphic; soil mold of hot semi-arid regions fragments into light windborne arthrospores, dispersed by rain-then-drought cycles; in tissue, thick-walled spherules packed with endospores, not budding yeast; culture is dangerous",
+      "presentation": "44-year-old Filipino man living in Bakersfield: 3 months of fever, 8 kg weight loss, crusted plaques on the face, a painful swollen knee with a lytic femoral lesion, and 2 weeks of worsening headache. CSF: 90 lymphocytes, glucose 30 mg/dL; complement-fixing titers very high.",
+      "lecture": "CV136",
+      "lectures": [
+        "CV136"
+      ]
+    },
+    {
+      "name": "Histoplasma capsulatum",
+      "disease": "Lung infection weeks after exploring a bat cave",
+      "micro": "Dimorphic fungus of soil enriched by bird or bat droppings; mold with macro- and microconidia at 25 C; at 37 C small oval yeasts inside macrophages raise phagolysosome pH; urine or blood antigen; immunodiffusion gives two precipitin bands",
+      "presentation": "26-year-old man who explored caves in Kentucky 3 weeks ago with 2 friends now also ill: 8 days of T 38.4 C, dry cough, chest discomfort and malaise. Film: patchy opacities with enlarged hilar nodes; he is otherwise healthy, HIV negative, with no skin or bone lesions.",
+      "lecture": "CV136",
+      "lectures": [
+        "CV136",
+        "CV132",
+        "CV141"
+      ]
+    },
+    {
+      "name": "Histoplasma capsulatum",
+      "disease": "Wasting with pancytopenia and mouth ulcers in AIDS",
+      "micro": "Dimorphic fungus of soil enriched by bird or bat droppings; mold with macro- and microconidia at 25 C; at 37 C small oval yeasts inside macrophages raise phagolysosome pH; urine or blood antigen; immunodiffusion gives two precipitin bands",
+      "presentation": "41-year-old man in Indiana with untreated HIV, CD4 count 70/uL: 6 weeks of fever, 11 kg weight loss and painful shallow ulcers on the tongue and palate. Liver and spleen enlarged; Hb 8.1, WBC 1,900, platelets 72,000; marrow smear: macrophages stuffed with tiny oval bodies.",
+      "lecture": "CV136",
+      "lectures": [
+        "CV136"
+      ]
+    },
+    {
+      "name": "Blastomyces dermatitidis",
+      "disease": "Lung disease with wart-like skin plaques after clearing timber",
+      "micro": "Dimorphic fungus of moist soil along rural riverbanks; mold makes pear-shaped conidia; at 37 C a large thick-walled multinucleate yeast with a single broad-based bud, seen on a sputum KOH prep; PCR or culture; serology not useful",
+      "presentation": "48-year-old man who clears timber along a Wisconsin riverbank: 6 weeks of cough, T 38.2 C and weight loss, plus two raised, crusted, wart-like plaques with pinpoint pus on the cheek and forearm that a surgeon suspected were skin cancer. Film: right upper-lobe mass-like opacity.",
+      "lecture": "CV136",
+      "lectures": [
+        "CV136",
+        "CV132"
+      ]
+    },
+    {
+      "name": "Paracoccidioides brasiliensis",
+      "disease": "Chronic cavitary lung disease with painful mouth ulcers",
+      "micro": "Dimorphic fungus of rural Central and South American soil; at 37 C a large central mother yeast ringed by many small narrow-based daughter buds; acquired in farm work, far more often by men; diagnosed by microscopy of scrapings or biopsy",
+      "presentation": "54-year-old coffee farmer from rural Brazil: 8 months of cough, breathlessness and 9 kg weight loss, with painful crusted ulcers on the lips, gums and inside the nose and large tender neck nodes. Film: fibrotic upper-zone cavities. He has never left South America.",
+      "lecture": "CV136",
+      "lectures": [
+        "CV136"
+      ]
+    },
+    {
+      "name": "Talaromyces marneffei",
+      "disease": "Fever and umbilicated skin papules in AIDS in Southeast Asia",
+      "micro": "Dimorphic soil fungus of Southeast Asia, formerly in the genus Penicillium; at 37 C elongated yeast cells with a dark, clearly defined central transverse septum (they split by fission, not budding); culture is definitive",
+      "presentation": "35-year-old man in Thailand with untreated HIV, CD4 count 40/uL: 5 weeks of T 39.0 C, 8 kg weight loss, enlarged nodes and an enlarged liver and spleen, with dozens of small papules on the face and trunk whose centers are dimpled and crusted black.",
+      "lecture": "CV136",
+      "lectures": [
+        "CV136"
+      ]
+    },
+    {
+      "name": "Candida albicans",
+      "disease": "White mouth plaques scraped off a red base",
+      "micro": "Polymorphic commensal yeast of skin, gut and genital tract; switches between oval budding cells, pseudohyphae (elongated cells still joined) and true hyphae; forms germ tubes in serum at 37 C; sugar fermentation or PCR names the species",
+      "presentation": "63-year-old man on a high-dose inhaled steroid for asthma who rinses poorly: 2 weeks of a cottony feeling in the mouth and altered taste. Creamy white patches on tongue and cheeks come off with firm scraping, leaving red, bleeding mucosa; swallowing painless; HIV negative.",
+      "lecture": "CV137",
+      "lectures": [
+        "CV137"
+      ]
+    },
+    {
+      "name": "Candida albicans",
+      "disease": "Painful swallowing with retrosternal pain in advanced HIV",
+      "micro": "Polymorphic commensal yeast of skin, gut and genital tract; switches between oval budding cells, pseudohyphae (elongated cells still joined) and true hyphae; forms germ tubes in serum at 37 C; sugar fermentation or PCR names the species",
+      "presentation": "37-year-old woman with untreated HIV, CD4 count 90/uL: 3 weeks of pain on swallowing and burning behind the sternum, eating less and 4 kg lighter. White plaques in the mouth; endoscopy shows linear white plaques down the esophagus with red, friable mucosa beneath.",
+      "lecture": "CV137",
+      "lectures": [
+        "CV137"
+      ]
+    },
+    {
+      "name": "Candida albicans",
+      "disease": "Itchy thick white vaginal discharge after antibiotics",
+      "micro": "Polymorphic commensal yeast of skin, gut and genital tract; switches between oval budding cells, pseudohyphae (elongated cells still joined) and true hyphae; forms germ tubes in serum at 37 C; sugar fermentation or PCR names the species",
+      "presentation": "24-year-old woman who finished 10 days of amoxicillin-clavulanate for sinusitis: 4 days of intense vulvar itching, burning on urination and thick, clumpy white discharge. Vulva and vaginal walls red and swollen; wet mount: budding oval cells with chains of elongated ones.",
+      "lecture": "CV137",
+      "lectures": [
+        "CV137"
+      ]
+    },
+    {
+      "name": "Candida albicans",
+      "disease": "Glossy red skin-fold rash with small outlying spots",
+      "micro": "Polymorphic commensal yeast of skin, gut and genital tract; switches between oval budding cells, pseudohyphae (elongated cells still joined) and true hyphae; forms germ tubes in serum at 37 C; sugar fermentation or PCR names the species",
+      "presentation": "9-month-old in diapers with 5 days of a bright red, moist, glossy rash over the perineum that runs into the skin creases, with a scatter of separate small red spots and pustules on the thighs beyond the main rash. He had a week of antibiotics for otitis media.",
+      "lecture": "CV137",
+      "lectures": [
+        "CV137"
+      ]
+    },
+    {
+      "name": "Candida albicans",
+      "disease": "Lifelong nail, skin and mucosal infection from an IL-17 defect",
+      "micro": "Polymorphic commensal yeast of skin, gut and genital tract; switches between oval budding cells, pseudohyphae (elongated cells still joined) and true hyphae; forms germ tubes in serum at 37 C; sugar fermentation or PCR names the species",
+      "presentation": "19-year-old woman with recurring white mouth plaques, thickened crumbling nails and scaly plaques on the scalp since infancy, never clearing for long despite repeated azole courses. She is otherwise well, HIV negative; genetic testing shows a defect in IL-17 signaling.",
+      "lecture": "CV137",
+      "lectures": [
+        "CV137"
+      ]
+    },
+    {
+      "name": "Candida albicans",
+      "disease": "Fever on broad-spectrum antibiotics with fluffy retinal spots",
+      "micro": "Polymorphic commensal yeast of skin, gut and genital tract; switches between oval budding cells, pseudohyphae (elongated cells still joined) and true hyphae; forms germ tubes in serum at 37 C; sugar fermentation or PCR names the species",
+      "presentation": "59-year-old woman in the ICU 3 weeks after bowel surgery, on a central line, parenteral nutrition and 2 weeks of meropenem: T 39.1 C that does not settle, BP 88/52. Dilated retinal exam shows white fluffy lesions; blood cultures grow budding cells with germ tubes.",
+      "lecture": "CV140",
+      "lectures": [
+        "CV140",
+        "CV137"
+      ]
+    },
+    {
+      "name": "Candida albicans",
+      "disease": "Yeast in the urine of a catheterized diabetic patient",
+      "micro": "Polymorphic commensal yeast of skin, gut and genital tract; switches between oval budding cells, pseudohyphae (elongated cells still joined) and true hyphae; forms germ tubes in serum at 37 C; sugar fermentation or PCR names the species",
+      "presentation": "78-year-old woman with poorly controlled diabetes, catheterized 2 weeks, 10 days into ceftriaxone for pneumonia: no dysuria or fever, found on a routine specimen. Urine: budding cells and chains of elongated cells, 20 WBC/hpf, nitrite negative, glucose 3+; no bacterial growth.",
+      "lecture": "CV152",
+      "lectures": [
+        "CV152",
+        "CV153"
+      ]
+    },
+    {
+      "name": "Aspergillus fumigatus",
+      "disease": "New wheeze and brown mucus plugs in long-standing asthma",
+      "micro": "Mold only, never a yeast; septate hyphae with V-shaped acute-angle branches; conidiophores end in radiating chains of conidia; inhaled everywhere, so a positive culture may be colonization; serum galactomannan; specific IgE",
+      "presentation": "28-year-old woman with 15 years of asthma: 3 months of worsening wheeze and coughing up firm brown mucus plugs despite inhaled steroid and a long-acting bronchodilator. Eosinophils 1,300/uL, total IgE 2,100 IU/mL; CT: dilated mucus-filled central bronchi, no cavity or nodule.",
+      "lecture": "CV137",
+      "lectures": [
+        "CV137"
+      ]
+    },
+    {
+      "name": "Aspergillus fumigatus",
+      "disease": "Mobile mass inside an old upper-lobe cavity",
+      "micro": "Mold only, never a yeast; septate hyphae with V-shaped acute-angle branches; conidiophores end in radiating chains of conidia; inhaled everywhere, so a positive culture may be colonization; serum galactomannan; specific IgE",
+      "presentation": "62-year-old man treated for a cavitary lung infection 20 years ago: 4 months of intermittent coughing of small amounts of blood, no fever or weight loss; eosinophils and IgE normal. CT: a rounded soft-tissue mass lying free in the old cavity, moving when he changes position.",
+      "lecture": "CV137",
+      "lectures": [
+        "CV137"
+      ]
+    },
+    {
+      "name": "Aspergillus fumigatus",
+      "disease": "Nodules and vessel invasion during prolonged neutropenia",
+      "micro": "Mold only, never a yeast; septate hyphae with V-shaped acute-angle branches; conidiophores end in radiating chains of conidia; inhaled everywhere, so a positive culture may be colonization; serum galactomannan; specific IgE",
+      "presentation": "48-year-old woman on day 18 of leukemia chemotherapy, neutrophils 100/uL: 5 days of T 39.2 C despite broad antibiotics, pleuritic pain and blood-streaked sputum. CT: two nodules with surrounding hazy opacity; serum galactomannan positive; biopsy shows hyphae inside a vessel wall.",
+      "lecture": "CV137",
+      "lectures": [
+        "CV137"
+      ]
+    },
+    {
+      "name": "Cryptococcus neoformans",
+      "disease": "Slowly worsening headache and fever in advanced HIV",
+      "micro": "Encapsulated oval yeast with narrow-based buds; very thick polysaccharide capsule seen as a clear halo on negative staining of CSF, and shed antigen detected by latex agglutination; 4 serotypes A-D; inhaled from soil where pigeons roost",
+      "presentation": "44-year-old man with untreated HIV, CD4 count 60/uL: 3 weeks of steadily worsening headache, low fever, nausea and vomiting, now drowsy with no focal weakness. CSF: opening pressure 32 cm H2O, 20 lymphocytes, protein 90 mg/dL; a latex agglutination test on CSF is positive.",
+      "lecture": "CV137",
+      "lectures": [
+        "CV137",
+        "CV132"
+      ]
+    },
+    {
+      "name": "Pneumocystis jirovecii",
+      "disease": "Dry cough and exertional desaturation at CD4 under 200",
+      "micro": "Once called a protozoan, reclassified as a fungus on its RNA and cell wall; makes cysts in the lung; not culturable, so diagnosis needs silver, Giemsa or immunofluorescent staining of lavage fluid; airborne person to person",
+      "presentation": "33-year-old man with newly found HIV, CD4 count 120/uL: 4 weeks of gradually worsening breathlessness and a dry cough with low fever. Resting SpO2 94% falls to 85% walking the corridor; chest is clear on auscultation. CT: diffuse bilateral ground-glass opacities.",
+      "lecture": "CV137",
+      "lectures": [
+        "CV137",
+        "CV132"
+      ]
+    },
+    {
+      "name": "Mucorales (Rhizopus, Mucor)",
+      "disease": "Black palate lesion and eye swelling in ketoacidosis",
+      "micro": "Soil molds; broad ribbon-like hyphae branch at roughly right angles, with few or no cross-walls; an enzyme lets them thrive in high-glucose acidic serum and free iron feeds them; fragile hyphae break, so culture often fails; biopsy, PCR",
+      "presentation": "52-year-old man with type 1 diabetes admitted with glucose 520 mg/dL, pH 7.12 and ketones: 2 days of right-sided facial pain, blocked nose and headache, now a swollen eyelid, bulging eye and a limited upward gaze. A black patch is visible on the hard palate.",
+      "lecture": "CV137",
+      "lectures": [
+        "CV137",
+        "CV141"
+      ]
+    },
+    {
+      "name": "Clostridioides difficile",
+      "disease": "Watery diarrhea with raised yellow plaques in the colon",
+      "micro": "Gram-positive spore-forming obligate anaerobe; spores resist alcohol rubs, so hands need soap and water; toxin A draws in neutrophils and fluid, toxin B depolymerizes actin; stool PCR for toxin genes or immunoassay, on unformed stool only",
+      "presentation": "74-year-old man in his second hospital week, 10 days into clindamycin for a dental infection and on a proton pump inhibitor: 8 watery, foul-smelling non-bloody stools a day, cramping lower abdominal pain, T 38.3 C, WBC 24,000/uL. Colonoscopy: raised yellow-white mucosal plaques.",
+      "lecture": "CV140",
+      "lectures": [
+        "CV140",
+        "CV138"
+      ]
+    },
+    {
+      "name": "Vibrio cholerae",
+      "disease": "Painless torrential watery stools after a disaster",
+      "micro": "Curved gram-negative rod; oxidase-positive; grows on TCBS agar; alkali-tolerant but acid-labile, so a huge dose is needed in water, fewer in food; serotypes O1 and O139; its toxin stimulates Gs, raising cAMP and chloride and water loss",
+      "presentation": "30-year-old man in a camp after an earthquake destroyed the water supply, where others are also sick: 8 hours of painless, odorless watery stools flecked with mucus, over 1 L per hour, with no fever and no blood. BP 70/40, sunken eyes, cramping legs, pH 7.22, K+ 2.8 mEq/L.",
+      "lecture": "CV138",
+      "lectures": [
+        "CV138"
+      ]
+    },
+    {
+      "name": "Measles virus",
+      "disease": "High fever, red eyes and a rash spreading down from the hairline",
+      "micro": "Enveloped nonsegmented (-) ssRNA paramyxovirus; a single antigenic type (strains differ only genetically); droplet spread and survives on surfaces up to 2 hours; IgM/IgG serology, culture of a nasal or throat swab, or RT-PCR",
+      "presentation": "5-year-old unvaccinated girl back from Romania, the third child in her class to fall ill: 4 days of T 40.1 C, hacking cough, streaming nose and red watery eyes that hurt in the light. Today a blotchy red rash began at the hairline and behind the ears and is moving down her body.",
+      "lecture": "CV138",
+      "lectures": [
+        "CV138"
+      ]
+    },
+    {
+      "name": "Mumps virus",
+      "disease": "Painful bilateral jaw-angle swelling with testicular pain",
+      "micro": "Enveloped, nonsegmented (-) ssRNA paramyxovirus; spread by droplets and shared items, contagious from 1-2 days before swelling until 5 days after; viral culture or RT-PCR, IgM antibody or a fourfold IgG rise; a reportable illness",
+      "presentation": "20-year-old unvaccinated student: 3 days of T 38.5 C, headache and muscle aches, then tender swelling in front of and below both ears that pushes the earlobes out and hurts on chewing. On day 5 the right testis becomes swollen and exquisitely tender. No rash.",
+      "lecture": "CV138",
+      "lectures": [
+        "CV138"
+      ]
+    },
+    {
+      "name": "Dengue virus",
+      "disease": "Fever with retro-orbital and deep bone pain in a traveler",
+      "micro": "Enveloped (+) ssRNA flavivirus spread by the Aedes aegypti mosquito; infects bone marrow; 4 serotypes without cross-protection, so a later infection with a different serotype runs worse; diagnosed by RT-PCR",
+      "presentation": "27-year-old woman 5 days back from Thailand: abrupt T 39.8 C, pounding headache behind the eyes, and aching so deep in the back, shins and eyeballs that she can hardly move. A fine blanching red rash on the trunk; platelets 140,000/uL, WBC 3,100; no bleeding, BP 112/70.",
+      "lecture": "CV138",
+      "lectures": [
+        "CV138"
+      ]
+    },
+    {
+      "name": "Dengue virus",
+      "disease": "Plasma leak and shock as a second infection's fever breaks",
+      "micro": "Enveloped (+) ssRNA flavivirus spread by the Aedes aegypti mosquito; non-neutralizing antibody left by an earlier serotype enhances the new infection and the release of vasoactive cytokines that leak plasma; RT-PCR",
+      "presentation": "9-year-old in Puerto Rico who had a similar febrile illness 3 years ago: on day 5 the fever settles, then he becomes restless with cold hands, BP 80/60 and a weak pulse. Hematocrit rose from 35% to 45%, platelets 38,000/uL; ultrasound shows pleural fluid and ascites.",
+      "lecture": "CV138",
+      "lectures": [
+        "CV138"
+      ]
+    },
+    {
+      "name": "Filoviruses (Ebola and Marburg viruses)",
+      "disease": "Fever, vomiting and bleeding after a funeral in West Africa",
+      "micro": "Filamentous (-) ssRNA particles; African fruit bats are reservoir and vector; spread person to person by blood and body fluids; infect reticuloendothelial cells and suppress immunity; handled at BSL-4; ELISA or RT-PCR",
+      "presentation": "41-year-old woman in Sierra Leone who washed her brother's body for burial 9 days ago: 4 days of T 39.5 C, extreme weakness, sore throat and myalgia, then watery diarrhea, vomiting, a non-itchy red rash, bleeding from venipuncture sites and black stools. Platelets 40,000/uL.",
+      "lecture": "CV138",
+      "lectures": [
+        "CV138"
+      ]
+    },
+    {
+      "name": "Hantavirus (Sin Nombre virus)",
+      "disease": "Abrupt lung flooding after sweeping out a rodent-infested barn",
+      "micro": "Enveloped, segmented (-) ssRNA agent; deer mice are the reservoir and shed it in urine and droppings that people inhale as dust; causes no hemorrhage; fourfold rise in IgG or RT-PCR; ribavirin gives some benefit",
+      "presentation": "35-year-old man in New Mexico who swept out a mouse-infested barn 2 weeks ago: 4 days of fever, chills, headache and aching thighs and back, then over 12 hours severe breathlessness. RR 38, SpO2 80%, BP 82/50; hematocrit 56%, platelets 90,000/uL; film: diffuse alveolar edema.",
+      "lecture": "CV138",
+      "lectures": [
+        "CV138",
+        "CV141"
+      ]
+    },
+    {
+      "name": "Neisseria gonorrhoeae",
+      "disease": "Urethral discharge with diplococci inside neutrophils",
+      "micro": "Gram-negative diplococci with flattened adjacent sides, seen inside neutrophils on a urethral smear; fastidious, needs chocolate or Thayer-Martin agar; pili and Opa proteins attach and drive uptake; pili vary too fast for lasting immunity",
+      "presentation": "22-year-old man 4 days after sex with a new partner: severe burning on urination and a copious thick yellow-white discharge soaking his underwear. Meatus red and everted; no joint pain or rash; urine nucleic acid testing is positive and his partner is treated too.",
+      "lecture": "CV152",
+      "lectures": [
+        "CV152",
+        "CV153",
+        "CV157",
+        "CV138"
+      ]
+    },
+    {
+      "name": "Chlamydia trachomatis",
+      "disease": "Scant watery urethral discharge with sterile pyuria",
+      "micro": "Obligate intracellular; cannot make enough of its own ATP; wall low in muramic acid; an inert infectious body enters by endocytosis, a reticulate body divides in a vacuole; glycogen inclusions stain brown with iodine; urine NAAT",
+      "presentation": "26-year-old man with 10 days of mild burning on urination and a scant clear mucoid discharge noticed only in the morning. Urethral smear: many neutrophils and no organisms; urine 20 WBC/hpf with sterile bacterial culture; his female partner has no symptoms at all.",
+      "lecture": "CV152",
+      "lectures": [
+        "CV152",
+        "CV153",
+        "CV157"
+      ]
+    },
+    {
+      "name": "Trichomonas vaginalis",
+      "disease": "Frothy yellow-green discharge with pinpoint cervical bleeding",
+      "micro": "Flagellated protozoan that exists only as a motile pear-shaped trophozoite with no cyst stage; 4 anterior flagella, undulating membrane and a stiff axostyle; seen darting on a wet mount; the only internal parasite spread by sex",
+      "presentation": "31-year-old woman with a new partner: 2 weeks of vulvar itching and soreness, burning on urination and a copious thin, foul-smelling discharge. Discharge pH 6.0; routine urine culture sterile; wet mount: many neutrophils and motile pear-shaped organisms.",
+      "lecture": "CV152",
+      "lectures": [
+        "CV152"
+      ]
+    },
+    {
+      "name": "Staphylococcus epidermidis",
+      "disease": "Indolent central-line bloodstream infection",
+      "micro": "Gram-positive cocci in clusters; catalase-positive but coagulase-negative; a skin commensal of everyone; builds a gooey biofilm on catheters and implanted hardware that shields it from antibiotics, so the device usually must come out",
+      "presentation": "59-year-old woman on home parenteral nutrition through a tunnelled line for 8 months: 5 days of low-grade fever to 38.2 C and malaise, worse during each infusion; exit site clean. Two of four bottles drawn through the line grow gram-positive cocci in clusters; coagulase negative.",
+      "lecture": "CV140",
+      "lectures": [
+        "CV140"
+      ]
+    },
+    {
+      "name": "Enterococcus faecium",
+      "disease": "Vancomycin-resistant bacteremia in a long-stay ICU patient",
+      "micro": "Gram-positive cocci in chains; catalase-negative; Lancefield group D; turns bile esculin agar black, grows in 6.5% NaCl and at 10-45 C; intrinsically resistant to cephalosporins; ampicillin only inhibits it, never kills",
+      "presentation": "66-year-old man in his fifth ICU week after bowel surgery, treated with cefepime and then vancomycin: T 38.8 C, BP 92/58, central line in place. Blood cultures grow gram-positive cocci in chains resistant to vancomycin and to ampicillin.",
+      "lecture": "CV140",
+      "lectures": [
+        "CV140"
+      ]
+    },
+    {
+      "name": "Enterococcus faecalis",
+      "disease": "Urinary infection after cystoscopy, nitrite negative",
+      "micro": "Gram-positive cocci in pairs and short chains; catalase-negative, non-hemolytic or alpha-hemolytic; blackens bile esculin agar, grows in 6.5% NaCl, PYR-positive; does not reduce nitrate; ampicillin inhibits but does not kill it",
+      "presentation": "70-year-old man 3 days after cystoscopy for an enlarged prostate: T 38.4 C, burning and urgency, mild suprapubic tenderness. Urine: leukocyte esterase positive, nitrite negative, 80 WBC/hpf, 10^5 CFU/mL of gram-positive cocci in chains; he took cephalexin last week.",
+      "lecture": "CV152",
+      "lectures": [
+        "CV152",
+        "CV140",
+        "CV153"
+      ],
+      "avoid": {
+        "micro": [
+          "Enterococcus faecium"
+        ]
+      }
+    },
+    {
+      "name": "Escherichia coli",
+      "disease": "Nitrite-positive cystitis without fever in a young woman",
+      "micro": "Gram-negative enteric rod, motile; ferments lactose (pink on MacConkey, green metallic sheen on EMB); indole-positive, urease-negative, citrate-negative; type 1 fimbriae bind mannose on bladder cells; reduces nitrate to nitrite",
+      "presentation": "23-year-old woman: 2 days of burning on urination, going every 30 minutes, urgency and dull suprapubic ache, with visible blood in the urine at the end of the stream. No fever, no flank pain, no vaginal discharge; dipstick: leukocyte esterase and nitrite both positive.",
+      "lecture": "CV152",
+      "lectures": [
+        "CV152",
+        "CV153",
+        "CV143",
+        "CV157"
+      ]
+    },
+    {
+      "name": "Escherichia coli",
+      "disease": "Fever with flank pain and white cell casts in the urine",
+      "micro": "Gram-negative enteric rod, motile; ferments lactose (pink on MacConkey, green metallic sheen on EMB); indole-positive, urease-negative; P-pili bind digalactoside on renal tubular cells, letting it climb the ureter; alpha-hemolysin",
+      "presentation": "28-year-old woman with 2 days of burning and frequency, now T 39.3 C with rigors, nausea, vomiting and right-sided back pain; she winces when the right flank is struck. Urine: 100 WBC/hpf with casts made of white cells; nitrite positive; blood cultures drawn.",
+      "lecture": "CV152",
+      "lectures": [
+        "CV152",
+        "CV153",
+        "CV155",
+        "CV143"
+      ]
+    },
+    {
+      "name": "Escherichia coli",
+      "disease": "Fever, chills and a boggy tender prostate at age 63",
+      "micro": "Gram-negative enteric rod, motile; ferments lactose (pink on MacConkey, green metallic sheen on EMB); indole-positive and urease-negative; the usual isolate in men over 35, refluxing from the urethra into the prostatic ducts",
+      "presentation": "63-year-old man in the emergency department: 2 days of T 38.5 C, chills, frequency, burning, a hesitant stream and deep perineal pain. The prostate is warm, swollen and exquisitely tender on gentle rectal exam; urine grows 10^5 CFU/mL of an indole-positive lactose fermenter.",
+      "lecture": "CV153",
+      "lectures": [
+        "CV153",
+        "CV152"
+      ]
+    },
+    {
+      "name": "Escherichia coli",
+      "disease": "Febrile urinary infection in a 3-month-old infant",
+      "micro": "Gram-negative enteric rod, motile; ferments lactose (pink on MacConkey, green metallic sheen on EMB); indole-positive and urease-negative; the commonest isolate in childhood urinary infection; covered by a third-generation cephalosporin",
+      "presentation": "3-month-old girl: 2 days of T 39.4 C, poor feeding and irritability, with a normal ear, throat and chest exam and no rash. Catheter urine: leukocyte esterase positive, 50 WBC/hpf, 10^5 CFU/mL of a lactose fermenter; a later voiding study shows urine refluxing up the right ureter.",
+      "lecture": "CV160",
+      "lectures": [
+        "CV160",
+        "CV152"
+      ]
+    },
+    {
+      "name": "Escherichia coli",
+      "disease": "Soft yellow bladder plaques full of foamy macrophages",
+      "micro": "Gram-negative enteric rod; ferments lactose (pink on MacConkey); indole-positive, urease-negative; here the defect is in the host phagocyte, whose faulty phagolysosomes leave the engulfed organism undigested and the debris mineralized",
+      "presentation": "57-year-old woman 2 years after a kidney transplant, with repeated urinary infections: 4 months of burning and frequency. Cystoscopy: soft, yellow, slightly raised 3-cm mucosal plaques; biopsy shows sheets of large foamy macrophages with laminated calcified bodies inside them.",
+      "lecture": "CV157",
+      "lectures": [
+        "CV157"
+      ]
+    },
+    {
+      "name": "Escherichia coli O157:H7",
+      "disease": "Low platelets and anuria a week after a barbecue",
+      "micro": "Gram-negative enteric rod typed by O (LPS) and H (flagellar) antigens; its Shiga-like toxin injures endothelium, activates platelets and drives microvascular thrombosis; from undercooked ground beef; antibiotics worsen the illness",
+      "presentation": "10-year-old boy who ate an undercooked hamburger at a barbecue 6 days ago: fever, cramping abdominal pain and then bloody stools, now passing almost no urine. Hb 7.9 g/dL with fragmented red cells and reticulocytes 7%, platelets 42,000/uL, creatinine 3.4 mg/dL; petechiae.",
+      "lecture": "CV151",
+      "lectures": [
+        "CV151",
+        "CV161"
+      ],
+      "avoid": {
+        "micro": [
+          "Escherichia coli"
+        ]
+      }
+    },
+    {
+      "name": "Shigella dysenteriae",
+      "disease": "Hemolysis and kidney failure after travel-acquired bloody stools",
+      "micro": "Non-motile gram-negative enteric rod, lactose non-fermenter; spread by contaminated food, water or an infected person; its Shiga toxin injures endothelium and causes microvascular thrombosis; rare in the US, but the first cause recognized",
+      "presentation": "7-year-old recently returned from rural Bangladesh: 5 days of T 39.5 C with cramping and many small bloody, mucoid stools with straining, now puffy and passing little urine. Hb 8.2 g/dL with fragmented cells, platelets 50,000/uL, creatinine 2.9 mg/dL.",
+      "lecture": "CV151",
+      "lectures": [
+        "CV151",
+        "CV161"
+      ]
+    },
+    {
+      "name": "Proteus mirabilis",
+      "disease": "Branched stone filling the renal pelvis with alkaline urine",
+      "micro": "Gram-negative enteric rod that does not ferment lactose (colorless on MacConkey); swarms across an agar plate in concentric waves; powerful urease splits urea into ammonia and carbon dioxide, so urine turns alkaline above pH 8",
+      "presentation": "68-year-old woman with a neurogenic bladder and repeated urinary infections: months of dull right flank ache and visible blood in the urine. Urine pH 8.4, 30 WBC/hpf; culture grows a non-lactose fermenter; CT: a dense branched stone filling the right renal pelvis and calyces.",
+      "lecture": "CV152",
+      "lectures": [
+        "CV152",
+        "CV162"
+      ]
+    },
+    {
+      "name": "Staphylococcus saprophyticus",
+      "disease": "Nitrite-negative cystitis after intercourse, cocci in clusters",
+      "micro": "Gram-positive cocci in clusters; catalase-positive but coagulase-negative, non-hemolytic, and novobiocin-resistant, unlike its skin-dwelling cousin; commensal of the perineum; urease-positive, so it can seed alkaline stones",
+      "presentation": "21-year-old woman using a spermicide-coated barrier method: 2 days after intercourse, sharp burning on urination, frequency and suprapubic aching; no fever or flank pain. Urine: 40 WBC/hpf, leukocyte esterase positive, nitrite negative; culture grows cocci in clusters.",
+      "lecture": "CV152",
+      "lectures": [
+        "CV152",
+        "CV162"
+      ]
+    },
+    {
+      "name": "Schistosoma haematobium",
+      "disease": "Painless blood at the end of the stream in a Nile delta farmer",
+      "micro": "Freshwater blood fluke (trematode) needing a snail host; free-swimming cercariae pierce skin and adults live in the venous plexus around the bladder; large oval eggs with a sharp terminal spine in urine; eosinophilia; praziquantel",
+      "presentation": "24-year-old man who has waded daily in Nile irrigation canals since boyhood: 8 months of visible blood at the end of urination without pain, with frequency and suprapubic fullness. Eosinophils 11%; urine sediment holds large oval parasite eggs; routine culture is sterile.",
+      "lecture": "CV152",
+      "lectures": [
+        "CV152",
+        "CV157"
+      ]
+    },
+    {
+      "name": "Schistosoma haematobium",
+      "disease": "Keratinizing bladder tumor after decades of canal exposure",
+      "micro": "Freshwater blood fluke of northeastern Africa and the Middle East; eggs lodge in the bladder wall and the chronic granulomatous reaction drives dysplasia, then cancer, 70% of it keratinizing rather than urothelial; eggs in urine or tissue",
+      "presentation": "56-year-old Egyptian man who farmed irrigated land all his life, with 30 years of intermittent bloody urine: now 3 months of worsening frequency and pelvic pain. Cystoscopy: a firm ulcerated 5-cm mass; biopsy shows nests of keratinizing cells and calcified egg shells.",
+      "lecture": "CV157",
+      "lectures": [
+        "CV157",
+        "CV152"
+      ]
+    },
+    {
+      "name": "BK polyomavirus",
+      "disease": "Bloody cystitis weeks after a stem cell transplant",
+      "micro": "Small non-enveloped circular double-stranded DNA virus; infects most people silently in childhood, lies latent in urothelium and kidney, and reactivates under immunosuppression; quantitative PCR of urine and blood; not cultured",
+      "presentation": "29-year-old woman on day 45 after an allogeneic stem cell transplant, on immunosuppression: 5 days of severe burning, urgency every 20 minutes and clots of blood in the urine. T 37.5 C; urine: 300 RBC/hpf, no growth on bacterial culture; urine PCR shows a high viral load.",
+      "lecture": "CV152",
+      "lectures": [
+        "CV152"
+      ],
+      "avoid": [
+        "Adenovirus"
+      ]
+    },
+    {
+      "name": "Klebsiella pneumoniae",
+      "disease": "Urinary infection in a hospitalized diabetic, mucoid colonies",
+      "micro": "Large gram-negative enteric bacillus; non-motile; ferments lactose (pink on MacConkey); indole-negative and urease-positive, the opposite of the commonest uropathogen; its thick capsule gives wet colonies that string out on a loop",
+      "presentation": "69-year-old man with type 2 diabetes, in hospital 9 days after a foot debridement: T 38.6 C, frequency, burning and mild left flank ache. Urine: 70 WBC/hpf, nitrite positive, 10^5 CFU/mL; the plate shows pink colonies so wet and sticky that the loop draws a 2-cm thread.",
+      "lecture": "CV152",
+      "lectures": [
+        "CV152",
+        "CV153",
+        "CV140",
+        "CV157"
+      ]
+    }
+  ]
+}
