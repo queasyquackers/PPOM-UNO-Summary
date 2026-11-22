@@ -1,0 +1,272 @@
+{
+  "drugs": [
+    {
+      "name": "Pramipexole / ropinirole",
+      "groups": [
+        "Sleep"
+      ],
+      "mechanism": "Dopaminergic agonists: stimulate dopamine receptors directly, rather than supplying the dopamine precursor as levodopa does",
+      "use": "Long-standing drug of choice for unpleasant evening leg sensations that start at rest, force the patient to get up and move, and ease only while walking; gabapentin is a listed alternative",
+      "lecture": "CV145",
+      "lectures": [
+        "CV145"
+      ]
+    },
+    {
+      "name": "Sodium oxybate (GHB)",
+      "groups": [
+        "Sleep"
+      ],
+      "adverseEffects": "Itself a drug of abuse that also circulates illicitly, so prescribers need special training; leave it to sleep specialists",
+      "use": "Narcolepsy: the one drug listed both for daytime sleepiness and for collapses triggered by laughter or strong emotion",
+      "lecture": "CV145",
+      "lectures": [
+        "CV145"
+      ]
+    },
+    {
+      "name": "Tirzepatide",
+      "groups": [
+        "Sleep"
+      ],
+      "mechanism": "Agonist at incretin receptors, the GLP-1 receptor among them, that produces weight loss; whether it improves the airway beyond the weight lost is not known",
+      "use": "Moderate-to-severe obstructive sleep apnea with obesity: lowered AHI, weight, hypoxic burden, CRP and systolic BP (2024 trial); first drug FDA-approved for this mechanical disease",
+      "lecture": "CV145",
+      "lectures": [
+        "CV145"
+      ]
+    },
+    {
+      "name": "EGFR inhibitors",
+      "groups": [
+        "Oncology"
+      ],
+      "mechanism": "Block a receptor tyrosine kinase that an activating gain-of-function mutation switches on in about 15% of lung adenocarcinomas",
+      "use": "Targeted therapy for non-small cell lung cancer only when the tumor tests positive for the driver mutation; prolongs survival (KRAS-mutant tumors, 30%, do worse)",
+      "lecture": "CV144",
+      "lectures": [
+        "CV144",
+        "CV142"
+      ]
+    }
+  ],
+  "correlates": [
+    {
+      "name": "Severe obstructive sleep apnea with obesity",
+      "presentation": "A 54-year-old man, BMI 39, neck 18.5 in, is drowsy all day despite 8 hours in bed and dozed at a red light. His wife hears loud snoring broken by silent pauses, then a gasp. BP 164/98 on three drugs; atrial fibrillation hard to control. Large tongue, crowded throat.",
+      "workup": "Overnight study: 46 events/h. Nasal and oral airflow stop for 15-40 s while the chest and abdominal belts keep moving; SpO2 falls 96% to 86% and each event ends in an EEG arousal. No slow-wave (delta) stage, little REM.",
+      "management": "CPAP nightly: room air (not oxygen) under pressure splints the pharynx open, often with a large REM rebound; it can ease resistant BP and AF. Weight loss; tirzepatide is approved for moderate-severe disease with excess weight.",
+      "lecture": "CV145",
+      "lectures": [
+        "CV145"
+      ]
+    },
+    {
+      "name": "Mild obstructive sleep apnea in a slim adult with a small jaw",
+      "presentation": "A 38-year-old woman, BMI 21, with a narrow lower jaw and a chin set well back, has a year of unrefreshing nights, daytime drowsiness and poor concentration. Her partner hears snoring and occasional pauses. BP 118/74; tonsils small, uvula normal.",
+      "workup": "Overnight study: 11 events per hour, each an 11-15 s stop in nose and mouth airflow during continued chest and belly effort, ending in a brief arousal; SpO2 nadir 93%.",
+      "management": "A dentist-made mandibular advancement device that pulls the jaw forward to hold the airway open; it works well in mild, symptomatic disease with a small jaw, poorly in severe disease or marked obesity.",
+      "lecture": "CV145",
+      "lectures": [
+        "CV145"
+      ]
+    },
+    {
+      "name": "Obstructive sleep apnea in a child",
+      "presentation": "A 6-year-old boy's teacher reports poor focus and disruptive behavior in class this year. His parents hear loud snoring every night with pauses in his breathing. Weight 50th percentile. The tonsils are very large and nearly touch in the midline.",
+      "management": "Refer to ENT to remove the enlarged tonsils: in children the cause is usually the tonsils, not weight.",
+      "lecture": "CV145",
+      "lectures": [
+        "CV145"
+      ]
+    },
+    {
+      "name": "Central sleep apnea",
+      "presentation": "A 66-year-old man had a brainstem stroke 3 months ago and has slurred speech. His wife sees long pauses at night in which his chest and belly do not move at all before he breathes again; he wakes unrefreshed. BMI 24, throat not crowded; awake SpO2 96%.",
+      "workup": "Overnight study: repeated 15-25 s pauses in nasal and oral airflow with the chest and abdominal belts flat (no effort), each with SpO2 falling to 87%; no runs of deep, fast breaths before the pauses.",
+      "management": "Treat the underlying neurologic cause; give oxygen as needed. CPAP or BiPAP helps only about 1 in 5, because the airway is open and the drive to breathe is what is missing.",
+      "lecture": "CV145",
+      "lectures": [
+        "CV145"
+      ],
+      "avoid": {
+        "workup": [
+          "Cheyne-Stokes breathing"
+        ],
+        "management": [
+          "Cheyne-Stokes breathing"
+        ]
+      }
+    },
+    {
+      "name": "Cheyne-Stokes breathing",
+      "presentation": "A 58-year-old man with end-stage ischemic heart failure, EF 12%, waits in the hospital at the top of the transplant list. At night nurses see cycles: his breaths become rapid and deep, then stop altogether with no chest movement, then the cycle repeats. BP 92/60.",
+      "workup": "Overnight study: runs of rapid, deep breaths alternating with pauses in which airflow and chest and abdominal effort both stop; SpO2 dips in each pause and CO2 swings low after each run.",
+      "management": "Treat the failing heart, the underlying cause (here, transplant); oxygen as needed. CPAP or BiPAP adds little: slow circulation delays the brain's feedback, so the airway is not the problem.",
+      "lecture": "CV145",
+      "lectures": [
+        "CV145"
+      ],
+      "avoid": {
+        "workup": [
+          "Central sleep apnea"
+        ],
+        "management": [
+          "Central sleep apnea"
+        ]
+      }
+    },
+    {
+      "name": "Restless legs syndrome",
+      "presentation": "A 52-year-old woman has 8 months of trouble falling asleep. Most evenings, once she lies down or sits through a film, a deep crawling ache in both calves makes her get up and pace; it settles while she walks and returns when she stops. Tired by day; neuro exam and pulses normal.",
+      "management": "A dopamine agonist (pramipexole or ropinirole), long the drug of choice; gabapentin also eases symptoms and a benzodiazepine can improve sleep quality. Opioids are not a routine choice.",
+      "lecture": "CV145",
+      "lectures": [
+        "CV145"
+      ]
+    },
+    {
+      "name": "Narcolepsy",
+      "presentation": "A 19-year-old college student, BMI 22, has fallen asleep in lectures and at meals since about age 15 despite 8 hours in bed; his roommate hears no snoring. Twice, laughing hard at a joke, his knees gave way and he sank to the floor, awake throughout. Exam normal.",
+      "workup": "Overnight study: 1 breathing event/h and no other cause of sleepiness. Next day, five scheduled naps (9, 11, 1, 3, 5): asleep within 1 min each time, and in REM within 3 min in three of the naps.",
+      "management": "Fixed bedtime (10:30 PM to 7 AM), no schedule shifts, heavy meals or alcohol, planned 15-min naps; modafinil or methylphenidate for daytime sleepiness; sodium oxybate (GHB) only by specially trained prescribers.",
+      "lecture": "CV145",
+      "lectures": [
+        "CV145"
+      ]
+    },
+    {
+      "name": "Insomnia",
+      "presentation": "A 44-year-old woman has 3 months of lying awake until 2 AM and waking for good at 4:30 AM, though she has 8 hours in bed. She scrolls her phone in bed and drinks coffee after dinner. By day she is tired, irritable and making errors at work. No snoring or leg discomfort.",
+      "management": "Cognitive-behavioral therapy, not drugs: bed only for sleep (no phone or TV), same bed and rise times daily, no coffee or exercise near bedtime, a fixed early rise even after a bad night, relaxation and cognitive therapy.",
+      "lecture": "CV145",
+      "lectures": [
+        "CV145"
+      ]
+    },
+    {
+      "name": "REM sleep behavior disorder",
+      "presentation": "A 67-year-old man's wife has moved to another room: some nights, mostly in the early-morning hours, he shouts, punches and kicks as if fighting, and once struck her. When woken he describes a vivid dream of being attacked. He is alert by day; neuro exam normal.",
+      "workup": "Overnight study: in periods with bursts of rapid eye movements and a low-voltage mixed-frequency EEG, chin EMG tone stays high and the limbs jerk, instead of the chin going flat.",
+      "lecture": "CV145",
+      "lectures": [
+        "CV145"
+      ]
+    },
+    {
+      "name": "Normal sleep changes of aging",
+      "presentation": "A healthy 76-year-old woman says her nights are lighter than at 40: she wakes briefly many times, then drifts off again, and it takes longer to fall asleep. She feels rested and active by day, with no naps, snoring, leg discomfort or low mood.",
+      "workup": "Overnight study: asleep for 79% of the time in bed; more N1 and less slow-wave (delta) activity than a young adult; REM about 20%; about 15 brief arousals per hour; 3 breathing events/h.",
+      "management": "Reassurance: these findings are expected at her age and need no treatment.",
+      "lecture": "CV145",
+      "lectures": [
+        "CV145"
+      ]
+    },
+    {
+      "name": "Solitary pulmonary nodule, high probability (>8 mm)",
+      "presentation": "A 66-year-old man who still smokes (40 pack-years) has no symptoms; a chest film before hernia repair shows a 1.5-cm round right upper lobe opacity that was not on a film taken 3 years ago. Afebrile, SpO2 96%, no clubbing or palpable nodes, weight stable.",
+      "workup": "Chest CT extended through the liver and adrenals: a 16-mm solid peripheral lesion with irregular, spiculated margins and no calcification; no enlarged hilar or mediastinal nodes; liver and adrenals clear.",
+      "management": "Large and high-risk, so go straight to tissue: CT-guided transthoracic needle biopsy for a peripheral lesion (a central one gets bronchoscopy). Risks: pneumothorax, bleeding, pneumonia. Intermediate risk would get PET first.",
+      "lecture": "CV144",
+      "lectures": [
+        "CV144"
+      ],
+      "avoid": {
+        "workup": [
+          "Non-small cell lung cancer, stage I-IIIA (resectable)"
+        ]
+      }
+    },
+    {
+      "name": "Solitary pulmonary nodule, low probability (<4 mm)",
+      "presentation": "A 34-year-old accountant who has never smoked, with no family history of lung cancer, has a 3-mm solid, smooth spot in the right lower lobe on a CT done after a car crash. No cough, hemoptysis or weight loss; exam normal.",
+      "management": "No follow-up CT is needed. The same spot in a high-risk patient (smoker, over 40, family history, workplace fiber exposure) may get a repeat CT at 12 months.",
+      "lecture": "CV144",
+      "lectures": [
+        "CV144"
+      ]
+    },
+    {
+      "name": "Lung cancer screening candidate",
+      "presentation": "A 57-year-old man comes for a wellness visit. He smoked a pack a day from age 20 to 47 (27 pack-years) and quit 10 years ago. No cough, hemoptysis, dyspnea or weight loss; exam and SpO2 normal; no prior chest imaging.",
+      "management": "Low-dose chest CT (age 50-80, at least 20 pack-years, still smoking or quit within 15 years). In the national trial it cut lung cancer deaths by 20% versus chest films. His risk has about halved since quitting.",
+      "lecture": "CV144",
+      "lectures": [
+        "CV144"
+      ]
+    },
+    {
+      "name": "Non-small cell lung cancer, stage I-IIIA (resectable)",
+      "presentation": "A 68-year-old woman with 35 pack-years had a CT-guided biopsy of a 2.8-cm peripheral left upper lobe mass: malignant cells with ample cytoplasm and no nuclear molding. She walks 2 miles a day; no headache, bone pain or weight loss. Calcium, ALP, AST, ALT and bilirubin normal.",
+      "workup": "Chest CT through the liver and adrenals and whole-body PET-CT: uptake only in the mass, no hilar or mediastinal nodes, no distant deposits; brain MRI clear. FEV1 2.1 L, DLCO 72% predicted.",
+      "management": "Curative intent: lobectomy (open or VATS), the standard when FEV1 is above 1.5 L and DLCO above 60%, with or without adjuvant chemotherapy. Wedge resection if lobectomy is not tolerated; chemoradiation if surgery is impossible.",
+      "lecture": "CV144",
+      "lectures": [
+        "CV144"
+      ]
+    },
+    {
+      "name": "Non-small cell lung cancer, stage IV",
+      "presentation": "A 64-year-old man with 45 pack-years has 2 months of cough and 6-kg weight loss, then 2 weeks of morning headaches and a seizure. Afebrile; mild right hand weakness. Brain MRI: several enhancing round lesions at the gray-white junction. CT: 4-cm left upper lobe mass.",
+      "workup": "Bronchoscopic biopsy of the mass: malignant cells with ample cytoplasm, no nuclear molding; tissue sent for tumor marker testing. Staging CT: a 3-cm right adrenal mass; skeletal scintigraphy: uptake in two ribs; alkaline phosphatase raised.",
+      "management": "Distant spread means palliative, symptom-oriented intent, not surgery. Targeted therapy if tumor markers are positive (EGFR or ALK tyrosine kinase inhibitor); bring in palliative care early, which lengthened survival in a trial.",
+      "lecture": "CV144",
+      "lectures": [
+        "CV144",
+        "CV142"
+      ],
+      "avoid": [
+        "Lung adenocarcinoma"
+      ]
+    },
+    {
+      "name": "Small cell lung cancer, limited disease",
+      "presentation": "A 61-year-old woman with 50 pack-years has 6 weeks of cough and 4-kg weight loss; a mass seen 3 months ago has doubled. Na+ 138 mEq/L, Ca 9.4 mg/dL, cortisol normal. CT: 5-cm central right hilar mass. Biopsy: sheets of cells with scant cytoplasm and nuclear molding.",
+      "workup": "Staging CT of the chest, liver and adrenals, brain MRI and bone scan: the hilar mass and enlarged right mediastinal nodes are all within the right hemithorax; liver, adrenals, brain and bones clear.",
+      "management": "Curative intent, usually without surgery: polychemotherapy (cisplatin and etoposide) plus chest radiation, then prophylactic cranial irradiation if the tumor responds to the first chemotherapy.",
+      "lecture": "CV144",
+      "lectures": [
+        "CV144"
+      ],
+      "avoid": {
+        "workup": [
+          "Non-small cell lung cancer, stage I-IIIA (resectable)"
+        ]
+      }
+    },
+    {
+      "name": "Hypertrophic osteoarthropathy from lung adenocarcinoma",
+      "presentation": "A 59-year-old woman with 25 pack-years notices over 4 months that her fingertips have become bulbous, with the angle at the nail fold lost. No fever, sputum or murmur; lungs clear, SpO2 96%. Chest CT: a 3-cm peripheral right lower lobe mass.",
+      "workup": "Forearm and shin films: new bone laid down along the shafts of the radius, ulna, tibia and fibula. CT-guided biopsy of the lung mass: malignant cells forming glands. Calcium and sodium normal.",
+      "lecture": "CV144",
+      "lectures": [
+        "CV144"
+      ],
+      "avoid": [
+        "Lung adenocarcinoma"
+      ]
+    },
+    {
+      "name": "Non-resolving pneumonia from an endobronchial carcinoma",
+      "presentation": "A 63-year-old man with 45 pack-years has his third right lower lobe pneumonia in 5 months; each antibiotic course settled the fever, but cough and streaks of blood in the sputum persist. T 37.9 C, SpO2 93%; dull with reduced breath sounds at the right base. Down 4 kg.",
+      "workup": "Film 8 weeks after treatment: the same right lower zone opacity, now with volume loss. CT: a mass narrowing the right lower lobe bronchus with collapse and consolidation beyond it. Bronchoscopy: friable tumor filling the bronchus.",
+      "management": "Bronchoscopy with washings, brushings and biopsy of the central lesion, then staging CT of chest, liver and adrenals. In a smoker over 40, repeated pneumonias or colds that fail to clear should raise this early.",
+      "lecture": "CV144",
+      "lectures": [
+        "CV144"
+      ]
+    }
+  ],
+  "genes": [
+    {
+      "name": "Narcolepsy",
+      "gene": "HLA-DQB1*0602",
+      "role": "Genetic test listed with very low CSF hypocretin to support the diagnosis; how closely either tracks the disease is not settled",
+      "lecture": "CV145",
+      "lectures": [
+        "CV145"
+      ]
+    }
+  ]
+}
