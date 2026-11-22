@@ -1,0 +1,38 @@
+[
+ {
+  "cat": "correlates",
+  "name": "Atypical hemolytic uremic syndrome",
+  "field": "workup",
+  "value": "Stool negative for Shiga toxin; ADAMTS13 activity not severely reduced; complement factor H deficient (or factor I / CD46 mutation). Biopsy: thick capillary walls with split, reduplicated GBM, concentric arteriolar thickening, scarring"
+ },
+ {
+  "cat": "correlates",
+  "name": "Thrombotic thrombocytopenic purpura",
+  "field": "management",
+  "value": "Urgent plasma exchange to remove the autoantibody, replacing with fresh frozen plasma to restore working enzyme; recombinant ADAMTS13 can also supply the enzyme, mainly in the inherited form"
+ },
+ {
+  "cat": "correlates",
+  "name": "Atherosclerotic renal artery stenosis",
+  "field": "management",
+  "value": "BP drugs and risk-factor control, plus a stent or surgical removal of the narrowed segment when it drives the BP: unlike the idiopathic majority of high BP (over 90%), this renovascular cause can be fixed"
+ },
+ {
+  "cat": "correlates",
+  "name": "Sickle cell nephropathy",
+  "field": "presentation",
+  "value": "22-year-old Black man with lifelong anemia and repeated admissions for bone and chest pain: gross hematuria for 2 days; he has always passed large volumes and wakes to urinate at night. BP 118/72. Urine osmolality 280 mOsm/kg after overnight fluid restriction. Creatinine 0.7 mg/dL."
+ },
+ {
+  "cat": "correlates",
+  "name": "Collapsing FSGS (HIV-associated)",
+  "field": "presentation",
+  "value": "31-year-old Black man off antiretroviral therapy for 2 years (CD4 90/uL): 3 weeks of fast-worsening leg and scrotal swelling and frothy urine. UA 4+ protein, 24-h protein 14 g. Creatinine 1.2 rising to 3.4 mg/dL over 6 weeks."
+ },
+ {
+  "cat": "glomerular",
+  "name": "Collapsing FSGS (HIV-associated)",
+  "field": "clue",
+  "value": "Untreated retroviral infection with a low CD4 count, or certain drugs and microvascular injury; heavy proteinuria; the worst prognosis of the podocyte-scarring lesions"
+ }
+]

@@ -1,0 +1,30 @@
+{
+ "correlates": [
+  {
+   "name": "Postnasal drip",
+   "presentation": "A 45-year-old man has 3 months of persistent cough with constant throat clearing and a sense of mucus running down the back of his throat, plus nasal congestion and recurring facial pressure; no heartburn, wheeze or new drugs. Afebrile; chest film and spirometry normal.",
+   "lecture": "CV121",
+   "lectures": [
+    "CV121"
+   ]
+  },
+  {
+   "name": "Gastroesophageal reflux disease",
+   "presentation": "A 52-year-old woman has 4 months of dry cough, worse after large evening meals and when lying flat, with burning retrosternal discomfort and a sour taste in her mouth; no nasal symptoms, wheeze or new drugs. Lungs clear; chest film and spirometry normal.",
+   "management": "Treat the acid aggressively (acid suppression); the cough, and any coexisting asthma, often improves.",
+   "lecture": "CV121",
+   "lectures": [
+    "CV121"
+   ]
+  },
+  {
+   "name": "ACE inhibitor adverse effect",
+   "presentation": "A 61-year-old man has a dry, tickling cough for 3 months that began 5 weeks after lisinopril was started for hypertension; no heartburn, nasal drainage, wheeze or sputum. Lungs clear; chest film and spirometry normal.",
+   "management": "Review the medication list and stop the offending antihypertensive; the cough fades over the following weeks.",
+   "lecture": "CV121",
+   "lectures": [
+    "CV121"
+   ]
+  }
+ ]
+}

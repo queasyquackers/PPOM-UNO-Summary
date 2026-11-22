@@ -1,0 +1,80 @@
+{
+ "drugs": [
+  {
+   "name": "Omalizumab",
+   "groups": [
+    "Airway"
+   ],
+   "mechanism": "Monoclonal antibody against IgE, so less IgE arms the high-affinity receptors on mast cells that allergens cross-link to release histamine",
+   "use": "Specialist-started add-on for severe allergic (IgE-mediated) asthma that stays uncontrolled despite adherence, good inhaler technique and a confirmed diagnosis",
+   "lecture": "CV121",
+   "lectures": [
+    "CV121"
+   ],
+   "avoid": {
+    "use": [
+     "Mepolizumab / reslizumab"
+    ]
+   }
+  },
+  {
+   "name": "Mepolizumab / reslizumab",
+   "groups": [
+    "Airway"
+   ],
+   "mechanism": "Monoclonal antibodies against IL-5, the cytokine that recruits eosinophils into the airway",
+   "use": "Specialist-started add-on for severe eosinophil-driven asthma that stays uncontrolled despite adherence, good inhaler technique and a confirmed diagnosis",
+   "lecture": "CV121",
+   "lectures": [
+    "CV121"
+   ],
+   "avoid": {
+    "use": [
+     "Omalizumab"
+    ]
+   }
+  },
+  {
+   "name": "Heliox",
+   "groups": [
+    "Airway"
+   ],
+   "mechanism": "Helium mixed with oxygen is less dense than air, so it gets past severely narrowed, swollen airways with less resistance",
+   "use": "Status asthmaticus not responding to IV steroids, inhaled beta-2 agonists and IV magnesium, as a bridge while CPAP/BiPAP or intubation is considered",
+   "lecture": "CV121",
+   "lectures": [
+    "CV121"
+   ]
+  },
+  {
+   "name": "Systemic corticosteroids (prednisone)",
+   "groups": [
+    "Airway"
+   ],
+   "adverseEffects": "Suppress host defenses, raising the risk of invasive aspergillosis in immunocompromised patients; a cause of metabolic alkalosis",
+   "use": "IV in status asthmaticus; oral, with albuterol, for a COPD exacerbation; first line for progressive sarcoidosis; desquamative interstitial pneumonia and eosinophilic pneumonias",
+   "lecture": "CV121",
+   "lectures": [
+    "CV121",
+    "CV119",
+    "CV117",
+    "CV116",
+    "CV126",
+    "CV137"
+   ]
+  },
+  {
+   "name": "Supplemental O2",
+   "groups": [
+    "Airway"
+   ],
+   "adverseEffects": "In a chronic CO2 retainer, too much can push PaCO2 higher and depress breathing (taught as loss of hypoxic drive), so titrate to a modest saturation",
+   "use": "The one COPD therapy proven to improve mortality and survival; in an exacerbation, give only enough to correct the hypoxemia",
+   "lecture": "CV119",
+   "lectures": [
+    "CV119",
+    "CV126"
+   ]
+  }
+ ]
+}

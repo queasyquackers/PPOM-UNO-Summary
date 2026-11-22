@@ -1,0 +1,54 @@
+{
+ "correlates": [
+  {
+   "name": "Status asthmaticus",
+   "presentation": "A 19-year-old with known asthma has worsened over 2 days despite three back-to-back albuterol nebulizers and IV methylprednisolone in the ED. Drowsy, hunched, using neck muscles, blue lips; RR 34, HR 130; systolic BP falls 18 mmHg on inspiration; breath sounds faint, no wheeze.",
+   "workup": "ABG: pH 7.27, PaCO2 52, PaO2 60 mmHg - the CO2 was 31 on arrival, so a normal-to-rising CO2 means the patient is tiring. Peak flow too low to record.",
+   "management": "IV corticosteroids and continuous inhaled beta-2 agonist; add IV magnesium and heliox (less dense gas passes narrowed airways); trial of CPAP or BiPAP; intubate if failing and ventilate with permissive hypercapnia until the airways relax.",
+   "lecture": "CV121",
+   "lectures": [
+    "CV121",
+    "CV119"
+   ]
+  },
+  {
+   "name": "Central airway tumor mimicking asthma",
+   "presentation": "A previously healthy 10-year-old girl has 9 months of episodic wheeze, dyspnea and steadily worsening tolerance for running, unchanged by albuterol, inhaled steroids, montelukast and two bursts of oral prednisone. No eczema or allergies; afebrile, SpO2 97%, expiratory wheeze.",
+   "workup": "Flow-volume loop: the expiratory limb is cut off into a flat plateau while the inspiratory limb is normal; no bronchodilator response. CT: a polypoid mass inside the lower trachea.",
+   "management": "Remove the lesion; the flow-volume loop returns to normal. Lesson: when correct therapy fails, question the diagnosis instead of adding drugs.",
+   "lecture": "CV121",
+   "lectures": [
+    "CV121",
+    "CV120"
+   ]
+  },
+  {
+   "name": "Fixed upper-airway obstruction (tracheal or subglottic stenosis)",
+   "presentation": "A 64-year-old woman who never smoked has 5 years of slowly worsening exertional dyspnea and noisy breathing heard on both inhaling and exhaling; inhalers have not helped. Lungs clear; SpO2 97%. FEV1/FVC 0.62, FEV1 47% predicted.",
+   "workup": "Flow-volume loop: both the expiratory and the inspiratory limbs are cut off into flat plateaus; the expiratory curve alone looked like ordinary obstruction. Bronchoscopy: concentric narrowing just below the vocal cords.",
+   "management": "Stent or surgically repair the narrowed segment, which improves function markedly; treat a driving cause such as ANCA-associated vasculitis.",
+   "lecture": "CV120",
+   "lectures": [
+    "CV120"
+   ]
+  },
+  {
+   "name": "Vocal cord paralysis",
+   "presentation": "A 50-year-old man who never smoked had childhood polio that weakened his swallowing and speech muscles; he now has exertional dyspnea. Lungs clear, SpO2 97%. FEV1/FVC 0.79, FEV1 88% predicted.",
+   "workup": "Flow-volume loop: the inspiratory limb is cut off into a flat plateau while the expiratory limb is normal. Laryngoscopy: the right side of the glottis does not move and the left moves only partly.",
+   "lecture": "CV120",
+   "lectures": [
+    "CV120"
+   ]
+  },
+  {
+   "name": "Pulmonary hypertension found on PFTs",
+   "presentation": "A 44-year-old woman who never smoked has 10 months of progressive exertional dyspnea and fatigue, without cough, wheeze or sputum. Lungs clear. FEV1/FVC 0.80, FEV1 93% and FVC 95% predicted, TLC 97%, but DLCO 48% predicted.",
+   "workup": "Echocardiogram: estimated right ventricular systolic pressure 62 mmHg with a dilated right ventricle; chest film and lung volumes normal.",
+   "lecture": "CV120",
+   "lectures": [
+    "CV120"
+   ]
+  }
+ ]
+}

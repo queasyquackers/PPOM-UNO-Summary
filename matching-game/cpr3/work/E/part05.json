@@ -1,0 +1,60 @@
+{
+ "correlates": [
+  {
+   "name": "Minimal change disease",
+   "presentation": "6-year-old boy, 10 days after a cold: puffy eyes on waking that fade by evening, now swollen legs and belly and frothy urine. BP 96/60. Dipstick 4+ protein, no blood. Albumin 1.6 g/dL, cholesterol 380 mg/dL, creatinine 0.4 mg/dL.",
+   "workup": "Urine protein is almost all albumin (selective). If biopsied: normal glomeruli on light microscopy, negative immunofluorescence, and foot processes fused into one sheet on EM with no deposits",
+   "management": "Oral corticosteroids without a biopsy, then a taper; biopsy only for frequent relapses, steroid resistance or hypertension. New fever with belly pain: sepsis workup and IV antibiotics for pneumococcal peritonitis",
+   "lecture": "CV148",
+   "lectures": [
+    "CV148",
+    "CV147",
+    "CV161"
+   ]
+  },
+  {
+   "name": "Focal segmental glomerulosclerosis",
+   "presentation": "44-year-old Black man, homeless, injects heroin: 2 months of frothy urine and leg swelling. BP 162/98. UA 4+ protein, small blood, few WBCs. Creatinine 2.1 mg/dL, albumin 2.2 g/dL, 24-h protein 7 g. HIV test negative.",
+   "workup": "Non-selective proteinuria. Biopsy: in only some glomeruli, part of the tuft is scarred with glassy hyaline deposits; IF negative except IgM and C3 in the scars; EM shows effacement without deposits",
+   "lecture": "CV148",
+   "lectures": [
+    "CV148",
+    "CV147"
+   ]
+  },
+  {
+   "name": "Collapsing FSGS (HIV-associated)",
+   "presentation": "31-year-old Black man with HIV, off antiretrovirals for 2 years (CD4 90/uL): 3 weeks of fast-worsening leg and scrotal swelling and frothy urine. UA 4+ protein, 24-h protein 14 g. Creatinine 1.2 rising to 3.4 mg/dL over 6 weeks.",
+   "workup": "Biopsy, PAS: glomerular tufts shrunken and retracted with closed capillary loops, capped by enlarged, crowded podocytes and parietal epithelial cells",
+   "lecture": "CV148",
+   "lectures": [
+    "CV148"
+   ]
+  },
+  {
+   "name": "Membranous nephropathy",
+   "presentation": "44-year-old man with chronic hepatitis B: 6 weeks of weight gain, frothy urine, pitting edema and ascites with a right upper quadrant ache. BP 146/90. UA 4+ protein, no RBC casts. 24-h protein 8 g, albumin 1.9 g/dL. Now sudden left flank pain and hematuria.",
+   "workup": "Doppler: left renal vein clot. Biopsy: uniformly thick capillary walls, no extra cells; granular IgG and C3 along the loops; subepithelial deposits with GBM projections between them. Primary cases: IgG to the PLA2 receptor",
+   "management": "Look for and treat a secondary cause first: stop NSAIDs or captopril, treat hepatitis B or C, screen for lung or colon cancer and melanoma, test for lupus. Steroids do not change survival",
+   "lecture": "CV148",
+   "lectures": [
+    "CV148",
+    "CV147",
+    "CV155"
+   ]
+  },
+  {
+   "name": "Diabetic nephropathy",
+   "presentation": "66-year-old woman with type 2 diabetes for 25 years who stopped seeing doctors: weight gain, swelling to the thighs and worsening vision. BP 158/92, HbA1c 10.4%. UA heavy protein, slight blood. Albumin 2.1 g/dL, lipids high, PT/INR normal.",
+   "workup": "Urine albumin first rose into the microalbumin range, then became heavy proteinuria. Biopsy: round PAS- and trichrome-positive mesangial nodules, glassy hyaline arteriolar walls, thick GBM; nonspecific IF",
+   "lecture": "CV148",
+   "lectures": [
+    "CV148",
+    "CV147"
+   ],
+   "avoid": [
+    "Advanced CKD with volume overload and uremia"
+   ]
+  }
+ ]
+}

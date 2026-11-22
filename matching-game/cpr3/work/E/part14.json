@@ -1,0 +1,61 @@
+{
+ "correlates": [
+  {
+   "name": "Malakoplakia",
+   "presentation": "52-year-old kidney transplant recipient on immunosuppression: a year of recurrent E. coli urinary infections despite treatment, with frequency and suprapubic discomfort. Afebrile. Cystoscopy: soft, yellow, slightly raised mucosal plaques 3-4 cm across.",
+   "workup": "Biopsy: sheets of large foamy macrophages with granular cytoplasm, plus lymphocytes; inside the macrophages, round laminated calcified concretions formed in enlarged lysosomes",
+   "lecture": "CV157",
+   "lectures": [
+    "CV157"
+   ]
+  },
+  {
+   "name": "Invasive urothelial carcinoma of the bladder",
+   "presentation": "69-year-old man, 45 pack-years, 30 years in a dye plant: 2 months of painless visible hematuria with clots and 6 kg weight loss. Hb 10.9 g/dL, creatinine 1.6 mg/dL. Ultrasound: right hydronephrosis behind an irregular intravesical mass at the right ureteric orifice.",
+   "workup": "Transurethral resection: transitional-cell carcinoma invading the muscularis propria. Cystectomy specimen: yellowish multinodular masses filling most of the lumen, with ulceration and necrosis",
+   "management": "Muscularis propria invasion calls for radical cystectomy, radiation therapy or adjuvant chemotherapy; stage (depth of wall invasion) is the main prognostic factor",
+   "lecture": "CV157",
+   "lectures": [
+    "CV157"
+   ]
+  },
+  {
+   "name": "Low-grade papillary urothelial carcinoma",
+   "presentation": "61-year-old woman, former smoker: painless visible hematuria. Two similar tumors were resected from her bladder in the past 3 years; surveillance cystoscopy finds a new 1.5 cm frond-like exophytic tumor, with the rest of the mucosa normal.",
+   "workup": "Resection: finger-like fronds on fibrovascular cores, lined by orderly, evenly spaced, cohesive transitional cells with scattered hyperchromatic nuclei; no invasion; FGFR3/RAS/PI3-kinase pathway",
+   "lecture": "CV157",
+   "lectures": [
+    "CV157"
+   ]
+  },
+  {
+   "name": "Urothelial carcinoma in situ",
+   "presentation": "66-year-old man, 40 pack-years: microscopic hematuria on two urinalyses; urine cytology shows malignant cells. Cystoscopy: multifocal patches of red, granular, slightly thickened bladder mucosa, with no mass anywhere.",
+   "workup": "Biopsy of the red patches: flat lining with full-thickness atypia, enlarged pleomorphic cells with visible nucleoli that lose cohesion and shed; no invasion; p53 and RB pathway mutations",
+   "lecture": "CV157",
+   "lectures": [
+    "CV157"
+   ]
+  },
+  {
+   "name": "Squamous cell carcinoma of the bladder",
+   "presentation": "58-year-old farmer who grew up wading in Nile irrigation canals in Egypt; blood in his urine on and off since childhood, now constant hematuria and 8 kg weight loss. Hb 10.2 g/dL. Cystoscopy: a large ulcerated mass.",
+   "workup": "Biopsy: invasive keratinizing carcinoma arising from dysplastic lining amid chronic inflammation, with eggs bearing a terminal spine lodged in the wall",
+   "lecture": "CV157",
+   "lectures": [
+    "CV157",
+    "CV152"
+   ]
+  },
+  {
+   "name": "Urethral caruncle",
+   "presentation": "79-year-old woman with 2 months of spotting on her underwear: a small, red, painful mass at the external urinary opening that bleeds when touched. No weight loss. UA a few RBCs.",
+   "workup": "Excision: inflamed granulation tissue beneath a friable mucosa that may ulcerate; no malignant cells",
+   "management": "Surgical excision is curative",
+   "lecture": "CV157",
+   "lectures": [
+    "CV157"
+   ]
+  }
+ ]
+}

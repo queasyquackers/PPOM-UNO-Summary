@@ -1,0 +1,15 @@
+{"correlates": [
+{"name": "COVID-19 at high risk of progression (outpatient)",
+ "presentation": "68-year-old man with hypertension and type 2 diabetes. Scratchy throat, headache and muscle aches since yesterday, slowly getting worse; positive home antigen test this morning. T 37.9 C, HR 92, RR 16, SpO2 97% on room air; lungs clear.",
+ "management": "Review his drug list for CYP3A4 interactions (boxed warning), then nirmatrelvir with ritonavir every 12 h for 5 days, started within 5 days of onset; adjust for renal function. Alternatives: 3 days of IV remdesivir, or molnupiravir.",
+ "lecture": "CV150", "lectures": ["CV150"]},
+{"name": "Hospitalized COVID-19, not mechanically ventilated",
+ "presentation": "77-year-old man admitted after 4 days of fever, dry cough and increasing breathlessness following a positive home antigen test. T 38.4 C, HR 104, RR 24, SpO2 89% on room air, 94% on 2 L by nasal cannula; crackles at both bases; alert, not intubated.",
+ "management": "IV remdesivir once daily, usually for 5 days, in a unit that can treat anaphylaxis; watch for bradycardia and rising aminotransferases; hydroxychloroquine or chloroquine can blunt its effect.",
+ "lecture": "CV150", "lectures": ["CV150"]},
+{"name": "COVID-19 rebound",
+ "presentation": "58-year-old woman with diabetes finished 5 days of nirmatrelvir-ritonavir, felt well and had a negative home antigen test on day 6. On day 9 her sore throat and nasal congestion return, mildly. T 37.4 C, HR 80, RR 14, SpO2 98%; lungs clear.",
+ "workup": "Home antigen test positive again, within 10 days of the negative test that followed the full course.",
+ "management": "Reassure and give supportive care: recurrent symptoms are usually mild, and a second course of nirmatrelvir-ritonavir is not routinely recommended.",
+ "lecture": "CV150", "lectures": ["CV150"]}
+]}

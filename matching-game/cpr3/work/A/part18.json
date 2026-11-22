@@ -1,0 +1,53 @@
+{
+ "genes": [
+  {
+   "name": "Squamous cell lung carcinoma",
+   "gene": "TP53 mutation (highest rate of any lung cancer type)",
+   "role": "The single most important gene for this central, keratinizing, smoking-related tumor",
+   "lecture": "CV142",
+   "lectures": [
+    "CV142"
+   ]
+  },
+  {
+   "name": "Squamous cell lung carcinoma",
+   "gene": "CDKN2 tumor suppressor mutation (about 65%)",
+   "role": "Cell-cycle brake lost in most of these keratinizing tumors, alongside p53",
+   "lecture": "CV142",
+   "lectures": [
+    "CV142"
+   ],
+   "avoid": [
+    "Malignant mesothelioma"
+   ]
+  },
+  {
+   "name": "Squamous cell lung carcinoma",
+   "gene": "FGFR1 amplification",
+   "role": "Growth factor receptor gain in the central, PTHrP-secreting tumor type",
+   "lecture": "CV142",
+   "lectures": [
+    "CV142"
+   ]
+  },
+  {
+   "name": "Malignant mesothelioma",
+   "gene": "CDKN2A loss",
+   "chromosome": "9p",
+   "role": "About 80% delete this region and lose the tumor suppressor; the pleural tumor encases the lung decades after the exposure",
+   "lecture": "CV142",
+   "lectures": [
+    "CV142"
+   ]
+  },
+  {
+   "name": "Solitary fibrous tumor of the pleura",
+   "gene": "NAB2-STAT6 fusion gene",
+   "role": "Unique fusion in a usually benign, pedunculated, keratin-negative mass that has nothing to do with asbestos",
+   "lecture": "CV142",
+   "lectures": [
+    "CV142"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "correlates": [
+  {
+   "name": "MDR/XDR tuberculosis",
+   "presentation": "38-year-old man released from prison 4 months ago, treated for the same lung infection 2 years earlier but stopped the pills after 6 weeks once he felt better. Two months of cough, blood-streaked sputum, night sweats, 6-kg weight loss. T 38.3 C; wasted; left apical crackles.",
+   "workup": "Chest film: left apical cavity. Sputum: acid-fast rods. Culture with susceptibility testing: the isolate grows despite isoniazid and rifampin (the worst strains also despite fluoroquinolones and amikacin or kanamycin).",
+   "management": "Airborne isolation; all-oral bedaquiline + pretomanid + linezolid for 6 months (moxifloxacin added if needed) or a longer tailored course; ECGs for QT, liver tests, blood counts; directly observed therapy, no missed doses.",
+   "lecture": "CV138",
+   "lectures": [
+    "CV138",
+    "CV128",
+    "CV131"
+   ]
+  },
+  {
+   "name": "Disseminated Mycobacterium avium complex in HIV",
+   "presentation": "39-year-old man with HIV who stopped his antiretrovirals a year ago. Five weeks of fevers, drenching night sweats and a 7-kg weight loss; no cough or breathlessness. T 38.8 C, HR 104, RR 16, SpO2 98%; thin; lungs clear.",
+   "workup": "CD4 count 32/uL; Hb 8.6 g/dL; alkaline phosphatase 420 U/L with normal bilirubin; chest film clear.",
+   "management": "Azithromycin (or clarithromycin) plus ethambutol, with vision checks; add rifabutin as a third drug if sicker, since it spares the antiretrovirals the induction rifampin causes. Azithromycin prophylaxis once CD4 < 50.",
+   "lecture": "CV128",
+   "lectures": [
+    "CV128"
+   ]
+  },
+  {
+   "name": "Hansen disease (leprosy)",
+   "presentation": "50-year-old man with slowly evolving skin lesions on the face, trunk and right arm, first noticed after a stay in South America. BP 145/90. Widespread skin nodules and scaly plaques, thick skin on cheeks and feet, sparse eyebrows, skin ulcers, marked muscle weakness.",
+   "management": "Dapsone (check G6PD; avoid with sulfa allergy) with rifampin and clofazimine (pink skin, QT; supplied through a national program). Thalidomide for a severe painful nodular inflammatory reaction, with two forms of contraception.",
+   "lecture": "CV128",
+   "lectures": [
+    "CV128"
+   ]
+  }
+ ]
+}

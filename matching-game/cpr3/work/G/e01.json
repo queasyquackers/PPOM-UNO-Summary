@@ -1,0 +1,12 @@
+[
+ {"cat": "correlates", "name": "Restless legs syndrome", "set": {
+  "presentation": "A 52-year-old woman has 8 months of trouble falling asleep. Most evenings, once she lies down or sits through a film, a deep crawling ache in both calves makes her get up and pace the hall; it settles while she walks and returns when she stops. Tired all day; neuro exam and pulses normal.",
+  "management": "A dopamine agonist (pramipexole or ropinirole), long the drug of choice; gabapentin also eases symptoms and a benzodiazepine can improve sleep quality. Opioids are not a routine choice."}},
+ {"cat": "drugs", "name": "Pramipexole / ropinirole", "set": {
+  "use": "Long-standing drug of choice for unpleasant evening leg sensations that start at rest, force the patient to get up and move, and ease only while walking; gabapentin is a listed alternative"}},
+ {"cat": "correlates", "name": "Narcolepsy", "set": {
+  "presentation": "A 19-year-old college student, BMI 22, has fallen asleep in lectures and at meals since about age 15 despite 8 hours in bed; his roommate hears no snoring. Twice, laughing hard at a joke, his knees gave way and he sank to the floor, awake throughout. Exam normal.",
+  "workup": "Overnight study: 1 breathing event/h and no other cause of sleepiness. Next day, five scheduled naps (9, 11, 1, 3, 5): asleep within 1 min each time, and in REM within 3 min in three of the naps."}},
+ {"cat": "correlates", "name": "Normal sleep changes of aging", "set": {
+  "workup": "Overnight study: asleep for 79% of the time in bed; more N1 and less slow-wave (delta) activity than a young adult; REM about 20%; about 15 brief arousals per hour; 3 breathing events/h."}}
+]

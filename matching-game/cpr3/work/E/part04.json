@@ -1,0 +1,43 @@
+{
+ "glomerular": [
+  {
+   "name": "Lupus nephritis, class VI",
+   "lightMicro": "Global sclerosis: most glomeruli are scarred across the entire tuft and no longer function",
+   "electronMicro": "Immune deposits may no longer be seen because the glomeruli are so scarred",
+   "clue": "Many years of anti-dsDNA-positive autoimmune disease with rash and arthritis, now nonfunctioning end-stage kidneys on the way to dialysis",
+   "lecture": "CV149",
+   "lectures": [
+    "CV149"
+   ]
+  },
+  {
+   "name": "Alport syndrome",
+   "lightMicro": "Trichrome: lipid-laden foam cells in the interstitium between tubules and glomeruli",
+   "electronMicro": "Lamina densa split and laminated into many interwoven strands; GBM irregularly thick and thin",
+   "clue": "Boy aged 5-20; X-linked COL4A5 (alpha-5 type IV collagen) in 85%; sensorineural hearing loss, eye abnormalities and a family history of renal failure; progresses to ESKD",
+   "lecture": "CV149",
+   "lectures": [
+    "CV149",
+    "CV147",
+    "CV161"
+   ]
+  },
+  {
+   "name": "Thin basement membrane disease",
+   "lightMicro": "Unremarkable glomeruli and interstitium on light microscopy; no proliferation and no interstitial foam cells",
+   "electronMicro": "Diffuse, uniform attenuation of the GBM along every capillary loop; the lamina densa is not split",
+   "clue": "Teen with intermittent red urine and isolated hematuria; mother and sister have the same and are otherwise well; autosomal dominant alpha-3/alpha-4 collagen IV; normal hearing; excellent prognosis",
+   "lecture": "CV149",
+   "lectures": [
+    "CV149",
+    "CV161"
+   ],
+   "avoid": {
+    "lightMicro": [
+     "Minimal change disease",
+     "Lupus nephritis, class I-II"
+    ]
+   }
+  }
+ ]
+}

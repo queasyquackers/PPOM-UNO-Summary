@@ -1,0 +1,49 @@
+{
+ "correlates": [
+  {
+   "name": "Acute uric acid nephropathy",
+   "presentation": "9-year-old boy with newly diagnosed lymphoma, 2 days into induction chemotherapy: urine output falls to 200 mL/day. BP 118/76. Serum urate 18 mg/dL; creatinine 0.5 rising to 3.1 mg/dL. Urine pH 5.0 with many crystals.",
+   "workup": "Serum urate 18 mg/dL with low-pH urine full of crystals. Pathology: precipitated crystals plugging the collecting tubules and obstructing nephrons, from purines released by lysed tumor cells",
+   "lecture": "CV155",
+   "lectures": [
+    "CV155"
+   ]
+  },
+  {
+   "name": "Chronic gouty nephropathy",
+   "presentation": "64-year-old man with 25 years of attacks of a hot, swollen big toe and chalky lumps over both elbows; now gets up twice a night to urinate. BP 146/90. Creatinine 1.4 rising to 2.2 mg/dL over 4 years. UA no blood, trace protein.",
+   "workup": "Biopsy, medulla: needle-shaped birefringent monosodium urate crystals in distal tubules, collecting ducts and interstitium, ringed by elongated macrophages and foreign-body giant cells; cortical atrophy and scarring",
+   "lecture": "CV155",
+   "lectures": [
+    "CV155"
+   ]
+  },
+  {
+   "name": "Angiomyolipoma",
+   "presentation": "45-year-old woman with no skin findings or family history: sudden severe right flank pain and lightheadedness. BP 88/56, HR 124. Hb 8.9 g/dL. CT: 9 cm right renal mass containing fat, with blood spreading around the kidney.",
+   "workup": "Resected mass is yellow-tan; histology shows abnormal thick-walled blood vessels, sheets of smooth muscle and mature fat cells that look like large empty round spaces",
+   "lecture": "CV156",
+   "lectures": [
+    "CV156"
+   ]
+  },
+  {
+   "name": "Tuberous sclerosis",
+   "presentation": "4-year-old boy whose mother felt a lump in his belly; an infant echocardiogram had shown a heart muscle tumor. Exam: pale oval patches on his back, small red papules over his nose and cheeks, a firm left flank mass. Ultrasound: bright masses in both kidneys.",
+   "workup": "Biopsy: abnormal thick-walled vessels, smooth muscle and fat cells seen as empty round holes; germline loss-of-function variant in a tumor-suppressor gene, autosomal dominant",
+   "lecture": "CV156",
+   "lectures": [
+    "CV156"
+   ]
+  },
+  {
+   "name": "Oncocytoma",
+   "presentation": "63-year-old man: a CT done for gallstones finds an asymptomatic, well-circumscribed, homogeneous 5 cm left renal mass with a central scar. No hematuria, flank pain or weight loss. Hb 14.2 g/dL, calcium normal, BP 128/80.",
+   "workup": "Resection: encapsulated, homogeneous mahogany-brown mass with a central scar; uniform round cells with granular, intensely pink cytoplasm; EM shows cells packed with mitochondria",
+   "lecture": "CV156",
+   "lectures": [
+    "CV156"
+   ]
+  }
+ ]
+}

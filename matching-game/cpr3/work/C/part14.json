@@ -1,0 +1,58 @@
+{
+ "correlates": [
+  {
+   "name": "Cardiogenic pulmonary edema",
+   "presentation": "A 72-year-old man with a prior heart attack (EF 30%) has 3 days of worsening breathlessness, needing 3 pillows, waking up gasping, and a 4-kg weight gain. BP 168/96, HR 108, RR 28, SpO2 86%; crackles to mid-lung on both sides, JVP 14 cm, an S3, ankle swelling.",
+   "workup": "Film: enlarged heart; white airspace opacity fanning out from both hila with the apices and the lung bases relatively spared; markings crowd the outer third of the lungs. A film the next day shows major clearing.",
+   "management": "IV loop diuretic (furosemide); the repeat film shows the opacities largely resolved, with some residue.",
+   "lecture": "CV146",
+   "lectures": [
+    "CV146"
+   ]
+  },
+  {
+   "name": "Pleural effusion",
+   "presentation": "A 66-year-old woman with heart failure has 2 weeks of increasing exertional dyspnea; RR 22, SpO2 93%. Right lower chest: stony dullness, reduced fremitus, absent breath sounds. Upright film: right costophrenic angle blunted, a curved upper edge climbing the lateral chest wall.",
+   "workup": "Film taken lying flat in the ICU: no curved upper edge; instead a hazy, veil-like density over the lower right hemithorax with vessels visible through it, as the fluid layers behind the lung; costophrenic angle blunted.",
+   "lecture": "CV146",
+   "lectures": [
+    "CV146"
+   ]
+  },
+  {
+   "name": "Lobar atelectasis",
+   "presentation": "A 68-year-old man 2 days after upper abdominal surgery takes shallow breaths because of incision pain and has a weak cough with thick secretions. T 37.8 C, RR 24, SpO2 91%; reduced breath sounds and dullness at the right base.",
+   "workup": "Film: white right lower zone with loss of volume - the right hemidiaphragm is raised and the lung reaches less far down; the opacity erases the borders it touches but holds no air-filled bronchi. Bronchoscopy: a mucus plug.",
+   "lecture": "CV146",
+   "lectures": [
+    "CV146"
+   ]
+  },
+  {
+   "name": "Right middle lobe pneumonia",
+   "presentation": "A 6-year-old boy has 3 days of fever to 39.4 C and cough. RR 34, HR 128, SpO2 94%; crackles and bronchial breath sounds over the right anterior chest beside the sternum.",
+   "workup": "Frontal film: fluffy opacity beside the heart erasing the right heart border; left heart border and right hemidiaphragm stay sharp; no volume loss; air-filled bronchi within it. Lateral: wedge over the heart with two straight fissure edges.",
+   "lecture": "CV146",
+   "lectures": [
+    "CV146"
+   ],
+   "avoid": [
+    "Pneumococcal pneumonia",
+    "Aspiration pneumonia"
+   ]
+  },
+  {
+   "name": "Left lower lobe pneumonia",
+   "presentation": "A 58-year-old woman has 4 days of fever to 38.9 C, productive cough and pain low in the left back on breathing in. RR 24, HR 110, SpO2 92%; crackles and dullness at the left base posteriorly.",
+   "workup": "Frontal film: density behind the heart erasing the left hemidiaphragm and paraspinal outline, left heart border still sharp. Lateral: vertebral bodies get whiter instead of darker going down, with opacity posteriorly over the diaphragm.",
+   "lecture": "CV146",
+   "lectures": [
+    "CV146"
+   ],
+   "avoid": [
+    "Pneumococcal pneumonia",
+    "Typical community-acquired pneumonia (outpatient)"
+   ]
+  }
+ ]
+}

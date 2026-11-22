@@ -1,0 +1,20 @@
+{"drugs": [
+{"name": "Desmopressin (DDAVP)", "groups": ["Kidney & bladder"],
+ "mechanism": "Synthetic vasopressin analog that concentrates the urine and cuts nighttime urine production; it controls bedwetting but does not cure it",
+ "adverseEffects": "Hyponatremia, especially in elderly patients on other medications, sometimes enough to need admission",
+ "use": "Primary nocturnal enuresis when dry nights matter, such as sleepovers (the bed-wetting alarm is the cure); nighttime incontinence in adults, with caution",
+ "lecture": "CV161", "lectures": ["CV161", "CV163"]},
+{"name": "Sodium bicarbonate", "groups": ["Kidney & bladder"],
+ "mechanism": "Extra buffer draws H+ out of cells in exchange for K+ moving in; it alkalinizes the urine more than the serum, so some toxins leave faster and some stones form less readily",
+ "adverseEffects": "Not for DKA (worse outcomes in studies), rhabdomyolysis (fewer myoglobin casts but no AKI or mortality benefit) or simply an unwanted pH number",
+ "use": "Hyperkalemia; tricyclic and other Na+ channel blocker overdose; urine alkalinization in salicylate overdose; oral alkali in CKD acidosis to keep serum HCO3- above 23",
+ "lecture": "CV126", "lectures": ["CV126", "CV159"]},
+{"name": "Acetazolamide", "groups": ["Kidney & bladder"],
+ "mechanism": "Carbonic anhydrase inhibitor: bicarbonate is lost in the urine, producing a metabolic acidosis that drives ventilation up",
+ "use": "Prophylaxis before a high-altitude ascent; very severe metabolic alkalosis; considered when respiratory alkalosis dominates early salicylate poisoning",
+ "lecture": "CV126", "lectures": ["CV126"]},
+{"name": "Fomepizole", "groups": ["Kidney & bladder"],
+ "mechanism": "Inhibits alcohol dehydrogenase, so ethylene glycol and methanol are converted to their toxic acids slowly enough for the liver to cope",
+ "use": "Antidote for antifreeze or methanol poisoning; without it, IV (or even oral) ethanol competes for the enzyme; add thiamine and pyridoxine, and dialysis in severe cases",
+ "lecture": "CV126", "lectures": ["CV126"]}
+]}

@@ -1,0 +1,23 @@
+{"drugs": [
+{"name": "Pramipexole / ropinirole", "groups": ["Sleep"],
+ "mechanism": "Dopaminergic agonists: stimulate dopamine receptors directly, rather than supplying the dopamine precursor as levodopa does",
+ "use": "Treatment of choice for an evening urge to move the legs with unpleasant sensations, worse at rest and eased by walking; preferred now that opioids are avoided",
+ "lecture": "CV145", "lectures": ["CV145"]},
+{"name": "Sodium oxybate (GHB)", "groups": ["Sleep"],
+ "adverseEffects": "Itself a drug of abuse that also circulates illicitly, so prescribers need special training; leave it to sleep specialists",
+ "use": "Narcolepsy: the one drug listed both for daytime sleepiness and for collapses triggered by laughter or strong emotion",
+ "lecture": "CV145", "lectures": ["CV145"]},
+{"name": "Tirzepatide", "groups": ["Sleep"],
+ "mechanism": "Incretin (GLP-1-pathway) receptor agonist that produces weight loss; whether it improves the airway beyond the weight loss is not known",
+ "use": "Moderate-to-severe obstructive sleep apnea with obesity: lowered AHI, weight, hypoxic burden, CRP and systolic BP (2024 trial); first drug FDA-approved for this mechanical disease",
+ "lecture": "CV145", "lectures": ["CV145"]},
+{"name": "EGFR inhibitors", "groups": ["Oncology"],
+ "mechanism": "Small-molecule blockers of a receptor tyrosine kinase that an activating gain-of-function mutation switches on in about 15% of lung adenocarcinomas",
+ "use": "Targeted therapy for non-small cell lung cancer only when the tumor tests positive for the driver mutation; prolongs survival (KRAS-mutant tumors, 30%, do worse)",
+ "lecture": "CV144", "lectures": ["CV144", "CV142"]}
+],
+"genes": [
+{"name": "Narcolepsy", "gene": "HLA-DQB1*0602",
+ "role": "Genetic test listed with very low CSF hypocretin to support the diagnosis; how closely either tracks the disease is not settled",
+ "lecture": "CV145", "lectures": ["CV145"]}
+]}

@@ -1,0 +1,56 @@
+{
+ "correlates": [
+  {
+   "name": "Progressive massive fibrosis",
+   "presentation": "A 64-year-old who mined coal underground in Kentucky for 38 years has 3 years of worsening exertional dyspnea and productive cough; he now stops after 50 feet. SpO2 88%. FEV1 45% predicted, FVC 56%, TLC 115%, RV 150%.",
+   "workup": "Film: dense upper-zone masses of 3-8 cm on a background of small rounded opacities. Resection: black scars far larger than 1 cm made of dense collagen, reticulin and pigment, some with necrotic centres from ischemia.",
+   "lecture": "CV118",
+   "lectures": [
+    "CV118",
+    "CV119"
+   ]
+  },
+  {
+   "name": "Chronic silicosis",
+   "presentation": "A 60-year-old stonemason who has cut and dressed quarry granite for 28 years has a year of chronic cough, worsening exertional dyspnea, fatigue and mild weight loss; afebrile. Few crackles; SpO2 93%. FVC 72% predicted, FEV1/FVC 0.74, DLCO 61%.",
+   "workup": "Film: small rounded upper-zone nodules; thin rims of calcium around the hilar nodes. Biopsy: nodules of concentric, whorled hyalinized collagen ringed by dust-laden macrophages; weakly birefringent particles on polarization; no granulomas.",
+   "lecture": "CV118",
+   "lectures": [
+    "CV118",
+    "CV119"
+   ]
+  },
+  {
+   "name": "Acute silicosis (silicoproteinosis)",
+   "presentation": "A 28-year-old who has sandblasted ship hulls in an enclosed dry dock for 7 months with a loose paper mask has 8 weeks of rapidly worsening dyspnea, dry cough and pleuritic chest pain. RR 28, SpO2 86% on room air, diffuse fine crackles.",
+   "workup": "Chest film: bilateral diffuse hazy opacities without nodules or node calcification, appearing within months of a very heavy, fine, freshly fractured dust exposure.",
+   "lecture": "CV118",
+   "lectures": [
+    "CV118",
+    "CV119"
+   ]
+  },
+  {
+   "name": "Silicosis complicated by tuberculosis",
+   "presentation": "A 58-year-old quarry driller with 6 years of known upper-zone nodular lung scarring has 6 weeks of fever, drenching night sweats, 5-kg weight loss and cough with blood-streaked sputum. T 38.3 C, HR 104, SpO2 93%.",
+   "workup": "Sputum: acid-fast bacilli on smear; culture grows slow-growing mycobacteria at 4 weeks. Film: a new cavitating upper-zone opacity on a background of small calcified nodules and calcium-rimmed hilar nodes.",
+   "lecture": "CV118",
+   "lectures": [
+    "CV118",
+    "CV119"
+   ],
+   "avoid": [
+    "Secondary (reactivation) tuberculosis"
+   ]
+  },
+  {
+   "name": "Cor pulmonale from advanced restrictive disease",
+   "presentation": "A 69-year-old man with 4 years of progressive lung scarring (FVC 48%, DLCO 30%) has 2 months of ankle swelling and fatigue. JVP 12 cm, rising further with 15 s of pressure over the liver at 45 degrees; left parasternal lift; right-sided gallop; pitting edema to the knees.",
+   "lecture": "CV118",
+   "lectures": [
+    "CV118",
+    "CV119"
+   ]
+  }
+ ]
+}

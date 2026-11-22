@@ -1,0 +1,59 @@
+{
+ "correlates": [
+  {
+   "name": "Rhino-orbital-cerebral mucormycosis",
+   "presentation": "52-year-old woman with type 1 diabetes admitted in ketoacidosis (glucose 540 mg/dL, pH 7.10). Three days of nasal stuffiness, right sinus pain and headache, now swelling around the right eye, double vision and a black patch of dead tissue on the right palate. T 38.5 C, HR 118.",
+   "workup": "Biopsy of the palate lesion: wide, thick-walled, ribbon-like hyphae without septa, branching at right angles and invading vessel walls, with surrounding necrosis. Culture is difficult and often fails.",
+   "management": "Emergency surgical debridement plus IV amphotericin B, while correcting the ketoacidosis.",
+   "lecture": "CV137",
+   "lectures": [
+    "CV137",
+    "CV141"
+   ]
+  },
+  {
+   "name": "Q fever",
+   "presentation": "42-year-old sheep farmer who helped deliver lambs in the barn the week before. Two days of severe headache, chills, muscle aches and a dry cough. T 39.4 C, HR 96, RR 20, SpO2 95%; crackles at the right base; tender liver edge.",
+   "workup": "Sputum Gram stain: inflammatory cells only, no organisms seen (the organism is intracellular and stains poorly). Chest film: patchy right lower zone infiltrate. ALT 140 U/L.",
+   "management": "Doxycycline. Follow patients with valve disease or immune suppression: years later the infection can return as subacute endocarditis with negative blood cultures.",
+   "lecture": "CV131",
+   "lectures": [
+    "CV131",
+    "CV141"
+   ]
+  },
+  {
+   "name": "Inhalational anthrax",
+   "presentation": "44-year-old man who sorts and cleans imported raw goat wool. Two days of fever, malaise and muscle aches, then a rapid slide into breathlessness and chest pain. T 39.6 C, HR 128, BP 84/50, RR 32, SpO2 88%; dull bases; no skin lesions.",
+   "workup": "Chest film: widened mediastinum with bilateral pleural effusions and little lung infiltrate. Blood culture: large gram-positive rods in chains with central spores; capsule made of poly-D-glutamate rather than sugar.",
+   "management": "Ciprofloxacin immediately with ICU support; once severe breathing symptoms and shock begin, untreated mortality approaches 100%.",
+   "lecture": "CV131",
+   "lectures": [
+    "CV131",
+    "CV138"
+   ]
+  },
+  {
+   "name": "Pneumonic tularemia",
+   "presentation": "38-year-old hunter who skinned and cleaned several wild rabbits 4 days ago. High fever, chills, headache, malaise, dry cough and chest pain on breathing in. T 39.5 C, HR 104, RR 24, SpO2 92%; crackles over both lower lobes; no skin ulcer.",
+   "workup": "Gram stain: tiny gram-negative coccobacilli, mostly inside macrophages. Agglutination test (antibody titer) positive; the lab avoids culturing it. Chest film: patchy bilateral infiltrates.",
+   "management": "Streptomycin. Humans are dead-end hosts: ticks keep the organism in wild rabbits, so prevention is avoiding ticks and handling game with care.",
+   "lecture": "CV131",
+   "lectures": [
+    "CV131",
+    "CV141",
+    "CV138"
+   ]
+  },
+  {
+   "name": "Pneumonic plague",
+   "presentation": "29-year-old field biologist in rural New Mexico who traps prairie dogs; 3 days ago she nursed a coworker who had a swollen, tender groin node and later a cough. Sudden high fever, chills, weakness, bloody cough and breathlessness. T 40.1 C, HR 132, BP 82/48, RR 34, SpO2 85%.",
+   "workup": "Sputum and blood: gram-negative bacilli whose stain gathers at both ends of each cell; culture grows the same rods. WBC 24,000/uL.",
+   "management": "Streptomycin at once: the inhaled form nears 100% mortality untreated. Prevention is rodent and flea control.",
+   "lecture": "CV131",
+   "lectures": [
+    "CV131"
+   ]
+  }
+ ]
+}

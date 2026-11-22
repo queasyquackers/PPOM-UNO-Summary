@@ -1,0 +1,9 @@
+[
+ {"fragment": "C", "category": "correlates", "name": "Superior vena cava syndrome", "add": "CV144"},
+ {"fragment": "C", "category": "correlates", "name": "Superior sulcus tumor with sympathetic chain involvement", "add": "CV144"},
+ {"fragment": "C", "category": "correlates", "name": "Pulmonary hamartoma", "add": "CV144"},
+ {"fragment": "C", "category": "correlates", "name": "Squamous cell lung carcinoma with hypercalcemia", "add": "CV144"},
+ {"fragment": "C", "category": "correlates", "name": "Small cell lung carcinoma with ectopic ACTH", "add": "CV144"},
+ {"fragment": "C", "category": "correlates", "name": "Small cell lung carcinoma with SIADH", "add": "CV144"},
+ {"fragment": "C", "category": "correlates", "name": "Metastatic tumor to the lung", "add": "CV144"}
+]

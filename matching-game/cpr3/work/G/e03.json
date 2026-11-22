@@ -1,0 +1,6 @@
+[
+ {"cat": "drugs", "name": "Tirzepatide", "set": {
+  "mechanism": "Agonist at incretin receptors, the GLP-1 receptor among them, that produces weight loss; whether it improves the airway beyond the weight lost is not known"}},
+ {"cat": "drugs", "name": "EGFR inhibitors", "set": {
+  "mechanism": "Block a receptor tyrosine kinase that an activating gain-of-function mutation switches on in about 15% of lung adenocarcinomas"}}
+]

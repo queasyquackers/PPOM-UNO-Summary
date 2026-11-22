@@ -1,0 +1,11 @@
+[
+ {"cat":"drugs","name":"Trimethoprim-sulfamethoxazole (TMP-SMX)","set":{"lectures":["CV153","CV137","CV141","CV136","CV128","CV143"]}},
+ {"cat":"drugs","name":"Penicillin and aminopenicillins (amoxicillin, ampicillin)","set":{"use":"Strep pharyngitis with 4 Centor points (no test needed); first-line bacterial sinusitis and healthy-outpatient CAP; actinomycosis; 7 days for bacteriuria in pregnancy; with gentamicin for a neonatal UTI","lectures":["CV141","CV153","CV139","CV140","CV160","CV130","CV131","CV138","CV128"]}},
+ {"cat":"drugs","name":"Third-generation cephalosporins (ceftriaxone, cefotaxime)","set":{"lectures":["CV141","CV128","CV138","CV139","CV140","CV153","CV160"]}},
+ {"cat":"drugs","name":"Carbapenems (imipenem, meropenem)","set":{"mechanism":"Strongest beta-lactams; Enterobacterales resist them via efflux pumps, lower outer-membrane permeability and, above all, KPC, NDM and VIM carbapenemases that clavulanate barely blocks"}},
+ {"cat":"drugs","name":"Metronidazole","set":{"mechanism":"Nitroimidazole that generates nitrogen free radicals; the newer nitroimidazole for drug-resistant TB was built on the same chemistry"}},
+ {"cat":"drugs","name":"Amphotericin B","set":{"mechanism":"Binds ergosterol, the sterol fungal membranes use in place of cholesterol, disrupting the membrane; Candida lusitaniae and C. guilliermondii resist it","use":"Severe or disseminated endemic mycoses, including talaromycosis; with flucytosine for cryptococcal meningitis; with surgical debridement for mucormycosis; disseminated candidiasis"}},
+ {"cat":"drugs","name":"Fluconazole","set":{"mechanism":"Azole whose heavy use has selected resistant Candida: C. glabrata often has reduced susceptibility or intrinsic resistance, and C. krusei resists the azoles"}},
+ {"cat":"drugs","name":"Itraconazole","drop":true},
+ {"cat":"drugs","name":"Voriconazole","drop":true}
+]

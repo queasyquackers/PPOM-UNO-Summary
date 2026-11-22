@@ -1,0 +1,8 @@
+[
+ {"cat":"drugs","name":"Pyrazinamide","set":{"lectures":["CV128","CV131","CV138"]}},
+ {"cat":"drugs","name":"Ethambutol","set":{"lectures":["CV128","CV131","CV138"]}},
+ {"cat":"drugs","name":"Aminoglycosides (amikacin, streptomycin, gentamicin)","set":{"lectures":["CV128","CV131","CV138","CV139","CV153","CV160"]}},
+ {"cat":"drugs","name":"Vancomycin","set":{"lectures":["CV138","CV139","CV128","CV140"]}},
+ {"cat":"drugs","name":"Clarithromycin","set":{"lectures":["CV128"]}},
+ {"cat":"drugs","name":"Azithromycin","set":{"mechanism":"Macrolide: binds 50S and blocks translocation; bacteriostatic. Long half-life allows once-daily dosing; no CYP inhibition. Resistance: efflux, 23S rRNA methylation"}}
+]

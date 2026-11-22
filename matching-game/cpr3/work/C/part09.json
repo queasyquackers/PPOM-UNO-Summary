@@ -1,0 +1,67 @@
+{
+ "correlates": [
+  {
+   "name": "Lung adenocarcinoma",
+   "presentation": "A 56-year-old woman who has never smoked has 4 months of cough, mild left chest pain, low-grade fevers and 3-kg weight loss. SpO2 97%, lungs clear. CT: a 3.5-cm peripheral left upper lobe mass and a 4-cm left adrenal mass.",
+   "workup": "Resection: glistening, mucoid cut surface; well-formed malignant glands with intracellular mucin; TTF-1 positive, chromogranin negative. Molecular testing: activating EGFR mutation.",
+   "management": "Test the tumor for driver mutations; an activating EGFR mutation is treated with an EGFR tyrosine kinase inhibitor, which prolongs survival. A KRAS mutation instead predicts a worse outcome.",
+   "lecture": "CV142",
+   "lectures": [
+    "CV142"
+   ]
+  },
+  {
+   "name": "Adenocarcinoma in situ",
+   "presentation": "A 52-year-old woman who has never smoked and has no symptoms has a 2-cm partly hazy, partly solid peripheral nodule found on a CT done for kidney stones. SpO2 99%; spirometry normal.",
+   "workup": "Wedge resection: tumor under 3 cm made entirely of dysplastic cells creeping along intact alveolar septa in a single scale-like layer (lepidic), non-mucinous; no stromal, vascular or pleural invasion.",
+   "management": "Complete resection is curative; preinvasive lesions do not inevitably progress. An invasive focus under 5 mm would reclassify it as microinvasive, still with a better prognosis than invasive disease.",
+   "lecture": "CV142",
+   "lectures": [
+    "CV142"
+   ],
+   "avoid": {
+    "presentation": [
+     "Pulmonary hamartoma"
+    ]
+   }
+  },
+  {
+   "name": "Squamous cell lung carcinoma with hypercalcemia",
+   "presentation": "A 66-year-old man with 45 pack-years has 2 months of cough, blood-streaked sputum, constipation, polyuria and new confusion. BP 132/80, dry mucosa. Serum Ca 14.9 mg/dL, phosphate 2.3 mg/dL, PTH low, sodium and potassium normal.",
+   "workup": "CT: central mass obstructing the right main bronchus with a necrotic, cavitating centre. Bronchoscopic biopsy: keratinizing nests with keratin pearls and intercellular bridges; TTF-1 negative. Serum PTH-related peptide raised.",
+   "lecture": "CV142",
+   "lectures": [
+    "CV142",
+    "CV120"
+   ]
+  },
+  {
+   "name": "Small cell lung carcinoma with ectopic ACTH",
+   "presentation": "A 52-year-old woman with 40 pack-years has 3 months of weight gain over the trunk, a rounded flushed face, new coarse facial hair, thigh weakness and low mood. BP 168/98; K+ 2.9 mEq/L, HCO3- 32 mEq/L, glucose 214 mg/dL.",
+   "workup": "Plasma corticotropin markedly high; serum and 24-h urine cortisol high. CT: bulky hilar mass. Biopsy: small cells with scant cytoplasm and nuclear molding; chromogranin+, synaptophysin+; EM: dense-core neurosecretory granules.",
+   "lecture": "CV142",
+   "lectures": [
+    "CV142"
+   ],
+   "avoid": {
+    "workup": [
+     "Small cell lung carcinoma with SIADH"
+    ]
+   }
+  },
+  {
+   "name": "Small cell lung carcinoma with SIADH",
+   "presentation": "A 64-year-old woman with 50 pack-years has 3 weeks of confusion, headache, nausea, cough and 5-kg weight loss. Euvolemic, no edema; BP 128/76. Na+ 121 mEq/L, serum osm 252 mOsm/kg, urine osm 520 mOsm/kg, urine Na+ 48 mEq/L; TSH and cortisol normal.",
+   "workup": "CT: large hilar mass with bulky mediastinal nodes and liver deposits. Biopsy: sheets of small blue cells, scant cytoplasm, nuclear molding, very high mitotic rate, necrosis; chromogranin+, synaptophysin+, cytokeratin+; TP53 and RB1 loss.",
+   "lecture": "CV142",
+   "lectures": [
+    "CV142"
+   ],
+   "avoid": {
+    "workup": [
+     "Small cell lung carcinoma with ectopic ACTH"
+    ]
+   }
+  }
+ ]
+}

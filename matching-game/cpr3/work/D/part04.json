@@ -1,0 +1,62 @@
+{
+ "correlates": [
+  {
+   "name": "RSV bronchiolitis in an infant",
+   "presentation": "4-month-old in January whose 3-year-old sister has a cold. Three days of runny nose and cough, now fast breathing and feeding poorly. T 38.0 C, HR 162, RR 64, SpO2 91%; nasal flaring, intercostal retractions, wheezes on breathing out and fine crackles in both lungs.",
+   "workup": "Rapid antigen test on nasal secretions positive; multiplex PCR confirms. Diagnosis otherwise rests on age, winter season and the exam.",
+   "management": "Supportive: oxygen, nasal suction, fluids and feeding support. Specific options for severe or high-risk infants: ribavirin and antiviral monoclonal antibodies.",
+   "lecture": "CV129",
+   "lectures": [
+    "CV129"
+   ]
+  },
+  {
+   "name": "Uncomplicated seasonal influenza",
+   "presentation": "34-year-old elementary-school teacher in late January; many pupils are off sick. Abrupt onset 30 hours ago of fever, chills, dry cough, severe muscle aches, headache and sore throat. T 39.2 C, HR 108, RR 18, SpO2 97%; lungs clear.",
+   "management": "Start oseltamivir within 48 hours of onset (preferred, also in pregnancy): shortens illness by 1-2 days and cuts shedding. Alternatives: inhaled zanamivir (not with asthma/COPD), IV peramivir, one oral dose of baloxavir.",
+   "lecture": "CV150",
+   "lectures": [
+    "CV150",
+    "CV129"
+   ]
+  },
+  {
+   "name": "Primary influenza viral pneumonia",
+   "presentation": "72-year-old unvaccinated woman with heart failure, in February. Three days ago: abrupt fever, muscle aches and dry cough; since then steadily worse breathlessness, scant sputum, never improving. T 39.0 C, HR 118, RR 32, SpO2 86% on room air; diffuse crackles in both lungs.",
+   "workup": "Chest film: diffuse bilateral patchy and interstitial opacities, no lobar consolidation; sputum Gram stain shows no dominant organism. Autopsy: heavy, red, firm lungs; alveolar walls widened by lymphocytes and monocytes; hyaline membranes.",
+   "lecture": "CV132",
+   "lectures": [
+    "CV132",
+    "CV129"
+   ]
+  },
+  {
+   "name": "Secondary bacterial pneumonia after influenza",
+   "presentation": "66-year-old woman in January who had abrupt fever, muscle aches and dry cough 8 days ago and was getting better; now 2 days of new high fever, rigors, purulent sputum and right pleuritic pain. T 39.6 C, HR 118, RR 28, BP 92/58, SpO2 89%; crackles and dullness at the right base.",
+   "workup": "WBC 19,400/uL with left shift; chest film: new right lower lobe consolidation; sputum Gram stain: gram-positive cocci in clusters; blood cultures drawn (all inpatients).",
+   "management": "Admit; blood cultures; beta-lactam plus macrolide (or a respiratory fluoroquinolone), plus vancomycin or linezolid to cover methicillin-resistant cocci.",
+   "lecture": "CV141",
+   "lectures": [
+    "CV141",
+    "CV132"
+   ]
+  },
+  {
+   "name": "Severe COVID-19 with ARDS",
+   "presentation": "61-year-old unvaccinated man with obesity and diabetes; positive home antigen test 9 days ago for fever, cough and muscle aches; now worsening breathlessness. T 38.6 C, HR 112, RR 34, SpO2 84% on a 15-L non-rebreather mask; crackles throughout both lungs.",
+   "workup": "Nasal swab RT-PCR positive. ABG on FiO2 0.8: PaO2 88 mmHg (ratio 110); bilateral opacities not explained by effusion or collapse; normal LV on echo. Autopsy: hyaline membranes plus microvessel thrombi.",
+   "management": "Intubate; tidal volume 4-8 mL/kg with PEEP of at least 5 cm H2O, prone positioning, cautious fluids; add dexamethasone; anticoagulate when critically ill. Inhaled nitric oxide raises SpO2 but not survival.",
+   "lecture": "CV129",
+   "lectures": [
+    "CV129",
+    "CV126",
+    "CV138"
+   ],
+   "avoid": {
+    "workup": [
+     "Acute respiratory distress syndrome"
+    ]
+   }
+  }
+ ]
+}

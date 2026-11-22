@@ -1,0 +1,76 @@
+{
+ "correlates": [
+  {
+   "name": "Sarcoidosis",
+   "presentation": "A 31-year-old Black woman, a schoolteacher, has 2 months of dry cough, exertional dyspnea, fatigue and painful tender red nodules on both shins, plus a painful red left eye with blurred vision. T 37.9 C, SpO2 95%. Serum Ca 10.9 mg/dL; 24-h urine Ca raised.",
+   "workup": "Chest film: large symmetric nodes at both hila. Transbronchial biopsy: tight clusters of epithelioid macrophages and giant cells, no necrosis; AFB and fungal cultures negative. BAL CD4:CD8 6:1; tuberculin test anergic; serum ACE high.",
+   "management": "Rule out tuberculosis and fungal infection first. Many remit on their own; for active or progressive disease give prednisone, and follow serum ACE to gauge response.",
+   "lecture": "CV117",
+   "lectures": [
+    "CV117",
+    "CV119"
+   ]
+  },
+  {
+   "name": "Pulmonary Langerhans cell histiocytosis",
+   "presentation": "A 38-year-old man who smokes 2 packs a day has 3 months of dry cough, exertional dyspnea and fatigue. Few crackles, SpO2 94%. FEV1/FVC 0.80, DLCO 58%. Chest film: fine nodular and web-like markings in the upper and middle zones with the bases spared.",
+   "workup": "Biopsy: sheets of cells with folded, lengthwise-grooved nuclei and pale cytoplasm mixed with eosinophils; S100+, CD1a+, langerin (CD207)+, CD68-. EM: rod-shaped cytoplasmic granules with a dilated end. Some carry a BRAF mutation.",
+   "management": "Stop smoking; symptoms generally fade after cessation, while continued smoking scars and destroys the small airways.",
+   "lecture": "CV117",
+   "lectures": [
+    "CV117"
+   ],
+   "avoid": {
+    "management": [
+     "Respiratory bronchiolitis-associated ILD"
+    ]
+   }
+  },
+  {
+   "name": "Hypersensitivity pneumonitis",
+   "presentation": "A 54-year-old dairy farmer has had repeated bouts of fever, chills, dry cough and breathlessness that start 4-6 hours after forking stored damp hay and settle within a day away from the barn. Today T 38.4 C, RR 24, SpO2 90%, fine crackles at both bases.",
+   "workup": "Serum precipitating IgG against the barn antigens. Biopsy: lymphocytes, plasma cells and macrophages in the alveolar walls, centred on bronchioles, with loose noncaseating granulomas; later scarring with cysts and new fibroblast nodules.",
+   "management": "Find and remove the antigen source (stop handling the hay, rehome the birds, drain the hot tub); ongoing exposure drives permanent scarring.",
+   "lecture": "CV117",
+   "lectures": [
+    "CV117",
+    "CV119"
+   ]
+  },
+  {
+   "name": "Acute eosinophilic pneumonia",
+   "presentation": "A previously healthy 24-year-old man develops fever, cough and rapidly worsening dyspnea over 4 days; no recent infection, transfusion, aspiration or drug. RR 34, SpO2 82% on room air, needs intubation. Chest film: diffuse bilateral opacities; blood cultures negative.",
+   "workup": "BAL: eosinophils 38% of cells, cultures and stains negative. Transbronchial biopsy: hyaline membranes lining the alveoli with many eosinophils in the walls and airspaces.",
+   "management": "Ventilatory support plus high-dose systemic corticosteroids; the response is rapid.",
+   "lecture": "CV117",
+   "lectures": [
+    "CV117"
+   ],
+   "avoid": {
+    "presentation": [
+     "Acute respiratory distress syndrome"
+    ]
+   }
+  },
+  {
+   "name": "Chronic eosinophilic pneumonia",
+   "presentation": "A 47-year-old woman has 3 months of cough, low-grade fevers, drenching night sweats, 6-kg weight loss and exertional dyspnea, never in respiratory failure. SpO2 94%. WBC 11,800 with eosinophils 1,400/mm3. Chest film: dense opacities confined to the outer lung zones.",
+   "workup": "BAL eosinophils 52% of cells, mycobacterial and fungal cultures negative; parasite serology negative. Biopsy: focal consolidation with lymphocytes and eosinophils in the septal walls and alveoli.",
+   "management": "Oral corticosteroids, to which it responds; follow for later scarring of the lung.",
+   "lecture": "CV117",
+   "lectures": [
+    "CV117"
+   ]
+  },
+  {
+   "name": "Pulmonary alveolar proteinosis",
+   "presentation": "A 41-year-old man who has never smoked has 9 months of slowly progressive exertional dyspnea and dry cough, no fever, weight loss or occupational exposure. SpO2 90%, few crackles. FEV1/FVC 0.84, DLCO 44%. Serum IgG that neutralizes GM-CSF is detected.",
+   "workup": "Lung biopsy: alveoli filled with pink, homogeneous, PAS-positive precipitate while the septa stay thin; EM shows the material is packed with lamellar bodies (surfactant particles).",
+   "management": "Whole-lung lavage to wash out the material; add GM-CSF therapy; with neutralizing antibodies consider plasmapheresis or immunosuppression; treat any secondary cause.",
+   "lecture": "CV117",
+   "lectures": [
+    "CV117"
+   ]
+  }
+ ]
+}

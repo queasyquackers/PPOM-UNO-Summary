@@ -1,0 +1,19 @@
+{"correlates": [
+{"name": "Isoniazid hepatotoxicity",
+ "presentation": "52-year-old man who drinks 6 beers a day; positive IGRA before adalimumab, so he began one daily oral drug plus pyridoxine 7 weeks ago for a planned 9 months. 1 week of nausea, anorexia, dark urine and right upper quadrant ache; T 37.4 C, scleral icterus, tender liver edge",
+ "workup": "ALT 840 U/L, AST 710 U/L, alkaline phosphatase 160 U/L, total bilirubin 4.6 mg/dL, INR 1.3; hepatitis A, B and C serologies negative; liver tests were normal at baseline",
+ "management": "Stop the drug at once; trend liver tests and INR; no alcohol; refer for transplant evaluation if liver failure develops. Prevention: baseline and periodic liver tests, extra caution with alcohol or when given with rifampin and pyrazinamide",
+ "lecture": "CV128", "lectures": ["CV128"]},
+{"name": "Isoniazid peripheral neuropathy",
+ "presentation": "50-year-old woman 6 weeks into four-drug therapy for cavitary pulmonary TB; no vitamin supplement was prescribed. 2 weeks of burning and numbness in both feet, worse at night. Vitals normal, lungs clear, decreased pinprick sensation over the toes; vision and color testing normal",
+ "management": "Add pyridoxine (vitamin B6) 10-50 mg/day and continue TB therapy; B6 belongs on every prescription of the katG-activated drug, which blocks B6 activation and so lowers glutamate-to-GABA conversion",
+ "lecture": "CV128", "lectures": ["CV128"]},
+{"name": "Serotonin syndrome from linezolid and an SSRI",
+ "presentation": "34-year-old woman on sertraline for depression began an oral antibiotic 2 days ago for vancomycin-resistant enterococcal bacteremia. Now agitated, sweating, with diarrhea; T 39.6 C, HR 128, BP 150/90; tremor, myoclonic jerks, brisk reflexes and sustained ankle clonus",
+ "management": "Treat as an emergency: stop both serotonergic drugs, cool and give benzodiazepines for agitation as needed, and start cyproheptadine (a 5-HT2A antagonist)",
+ "lecture": "CV128", "lectures": ["CV128"]},
+{"name": "Thalidomide embryopathy",
+ "presentation": "Newborn of a 24-year-old woman from Brazil treated for leprosy; she took an oral TNF-lowering, anti-angiogenic drug for painful red skin nodules in the first trimester, before she knew she was pregnant. Hands arise near the shoulders; long bones of all four limbs short or absent",
+ "management": "Prevention: negative pregnancy tests before and during therapy and two forms of birth control for any patient who could conceive; never use the drug for first-trimester morning sickness",
+ "lecture": "CV128", "lectures": ["CV128"]}
+]}

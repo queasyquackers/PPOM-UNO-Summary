@@ -1,0 +1,59 @@
+{
+ "correlates": [
+  {
+   "name": "Ebola / Marburg virus disease",
+   "presentation": "36-year-old nurse back 8 days from treating patients in an outbreak in Uganda. Headache, fever, sore throat and muscle aches, then abdominal pain, vomiting, watery diarrhea and a rash; now oozing blood from IV sites and gums. T 39.8 C, HR 124, BP 84/52.",
+   "workup": "ELISA and RT-PCR of blood positive, run with special precautions in a high-containment lab; high viral titers in most tissues.",
+   "management": "Strict isolation (spread is by blood and body fluids). Supportive: IV fluids and electrolytes, oxygen, blood-pressure support, antiemetics, fever and pain control, treat other infections; anti-glycoprotein monoclonal antibodies.",
+   "lecture": "CV138",
+   "lectures": [
+    "CV138"
+   ]
+  },
+  {
+   "name": "Hantavirus pulmonary syndrome",
+   "presentation": "41-year-old man in rural New Mexico who swept out a shut-up cabin full of mouse droppings 2 weeks ago. Four days of fever, headache and aching thighs and back, then rapidly worsening breathlessness. T 38.9 C, HR 122, BP 86/50, RR 34, SpO2 82%; crackles throughout; no bleeding.",
+   "workup": "Chest film: bilateral pulmonary edema with a normal-sized heart. Four-fold rise in IgG between acute and convalescent sera; RT-PCR positive.",
+   "management": "ICU support: oxygen, mechanical ventilation and careful fluids; about 30% die. Prevent by avoiding rodent droppings in closed buildings.",
+   "lecture": "CV138",
+   "lectures": [
+    "CV138",
+    "CV141"
+   ],
+   "avoid": {
+    "workup": [
+     "Severe COVID-19 with ARDS",
+     "Acute respiratory distress syndrome"
+    ]
+   }
+  },
+  {
+   "name": "Lemierre syndrome",
+   "presentation": "19-year-old student whose sore throat began a week ago and was easing. Now high fevers, rigors and a painful swelling along the left side of the neck below the jaw. T 39.7 C, HR 124, BP 96/60, RR 22; tender, cord-like swelling along the front of the left sternocleidomastoid.",
+   "workup": "Blood cultures positive (septicemia) for an anaerobic gram-negative rod. Neck ultrasound: clot in the left internal jugular vein, same side as the throat infection.",
+   "lecture": "CV141",
+   "lectures": [
+    "CV141"
+   ]
+  },
+  {
+   "name": "Diphtheria",
+   "presentation": "7-year-old who never received childhood vaccines, with 2 days of sore throat and low fever. T 38.2 C, HR 116. At first look the throat is red with no exudate; minutes later a small gray-white patch on one tonsil is visibly spreading across the oropharynx within 10-15 minutes.",
+   "management": "Treat as an emergency at once, without waiting for tests, and protect the airway; a macrolide such as erythromycin is active. Prevented by DTaP and Tdap.",
+   "lecture": "CV141",
+   "lectures": [
+    "CV141",
+    "CV128"
+   ]
+  },
+  {
+   "name": "Acute bacterial sinusitis",
+   "presentation": "35-year-old man whose cold 2 weeks ago never cleared despite over-the-counter decongestants. Sinus pressure, blocked nose, thick purulent nasal discharge, frontal headache, facial pain worse on bending forward. T 37.6 C; tender over both maxillary sinuses.",
+   "management": "Amoxicillin (TMP-SMX if severe penicillin allergy), plus antihistamines or nasal steroids for symptoms. CT only if complicated; watch for bone infection, meningitis or brain abscess.",
+   "lecture": "CV141",
+   "lectures": [
+    "CV141"
+   ]
+  }
+ ]
+}

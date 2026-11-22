@@ -1,0 +1,41 @@
+{
+ "correlates": [
+  {
+   "name": "Small cell lung cancer, limited disease",
+   "presentation": "A 61-year-old woman with 50 pack-years has 6 weeks of cough and 4-kg weight loss; a mass seen 3 months ago has doubled. Na+ 138 mEq/L, Ca 9.4 mg/dL, cortisol normal. CT: 5-cm central right hilar mass. Biopsy: sheets of small cells, scant cytoplasm, nuclear molding.",
+   "workup": "Staging CT of the chest, liver and adrenals, brain MRI and bone scan: the hilar mass and enlarged right mediastinal nodes are all within the right hemithorax; liver, adrenals, brain and bones clear.",
+   "management": "Curative intent though not resectable: polychemotherapy (cisplatin and etoposide) plus chest radiation, then prophylactic cranial irradiation if the tumor responds to the first chemotherapy.",
+   "lecture": "CV144",
+   "lectures": [
+    "CV144"
+   ],
+   "avoid": {
+    "workup": [
+     "Non-small cell lung cancer, stage I-IIIA (resectable)"
+    ]
+   }
+  },
+  {
+   "name": "Hypertrophic osteoarthropathy from lung adenocarcinoma",
+   "presentation": "A 59-year-old woman with 25 pack-years notices over 4 months that her fingertips have become bulbous, with the angle at the nail fold lost. No fever, sputum or murmur; lungs clear, SpO2 96%. Chest CT: a 3-cm peripheral right lower lobe mass.",
+   "workup": "Forearm and shin films: new bone laid down along the shafts of the radius, ulna, tibia and fibula. CT-guided biopsy of the lung mass: malignant cells forming glands. Calcium and sodium normal.",
+   "lecture": "CV144",
+   "lectures": [
+    "CV144"
+   ],
+   "avoid": [
+    "Lung adenocarcinoma"
+   ]
+  },
+  {
+   "name": "Non-resolving pneumonia from an endobronchial carcinoma",
+   "presentation": "A 63-year-old man with 45 pack-years has his third right lower lobe pneumonia in 5 months; each antibiotic course settled the fever, but cough and streaks of blood in the sputum persist. T 37.9 C, SpO2 93%; dull with reduced breath sounds at the right base. Down 4 kg.",
+   "workup": "Film 8 weeks after treatment: the same right lower zone opacity, now with volume loss. CT: a mass narrowing the right lower lobe bronchus with collapse and consolidation beyond it. Bronchoscopy: friable tumor filling the bronchus.",
+   "management": "Bronchoscopy with washings, brushings and biopsy of the central lesion, then staging CT of chest, liver and adrenals. In a smoker over 40, repeated pneumonias or colds that fail to clear should raise this early.",
+   "lecture": "CV144",
+   "lectures": [
+    "CV144"
+   ]
+  }
+ ]
+}

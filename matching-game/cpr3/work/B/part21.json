@@ -1,0 +1,18 @@
+{"bugs": [
+{"name": "Schistosoma haematobium",
+ "disease": "Painless blood at the end of the stream in a Nile delta farmer",
+ "micro": "Freshwater blood fluke (trematode) needing a snail host; free-swimming cercariae pierce skin and adults live in the venous plexus around the bladder; large oval eggs with a sharp terminal spine in urine; eosinophilia; praziquantel",
+ "presentation": "24-year-old man who has waded daily in Nile irrigation canals since boyhood: 8 months of visible blood at the end of urination without pain, with frequency and suprapubic fullness. Eosinophils 11%; urine sediment holds large oval parasite eggs; routine culture is sterile.",
+ "lecture": "CV152", "lectures": ["CV152", "CV157"]},
+{"name": "Schistosoma haematobium",
+ "disease": "Keratinizing bladder tumor after decades of canal exposure",
+ "micro": "Freshwater blood fluke of northeastern Africa and the Middle East; eggs lodge in the bladder wall and the chronic granulomatous reaction drives dysplasia, then cancer, 70% of it keratinizing rather than urothelial; eggs in urine or tissue",
+ "presentation": "56-year-old Egyptian man who farmed irrigated land all his life, with 30 years of intermittent bloody urine: now 3 months of worsening frequency and pelvic pain. Cystoscopy: a firm ulcerated 5-cm mass; biopsy shows nests of keratinizing cells and calcified egg shells.",
+ "lecture": "CV157", "lectures": ["CV157", "CV152"]},
+{"name": "BK polyomavirus",
+ "disease": "Bloody cystitis weeks after a stem cell transplant",
+ "micro": "Small non-enveloped circular double-stranded DNA virus; infects most people silently in childhood, lies latent in urothelium and kidney, and reactivates under immunosuppression; quantitative PCR of urine and blood; not cultured",
+ "presentation": "29-year-old woman on day 45 after an allogeneic stem cell transplant, on immunosuppression: 5 days of severe burning, urgency every 20 minutes and clots of blood in the urine. T 37.5 C; urine: 300 RBC/hpf, no growth on bacterial culture; urine PCR shows a high viral load.",
+ "lecture": "CV152", "lectures": ["CV152"],
+ "avoid": ["Adenovirus"]}
+]}

@@ -1,0 +1,6 @@
+[
+ {"cat":"drugs","name":"Nirmatrelvir with ritonavir (Paxlovid)","set":{"lectures":["CV150","CV138"]}},
+ {"cat":"drugs","name":"Remdesivir","set":{"lectures":["CV150","CV138"],"use":"IV antiviral for COVID-19 in hospitalized patients not on mechanical ventilation (usually 5 days) or high-risk outpatients (3 days); infants of 3 kg and up through adults; only where infusion reactions can be treated"}},
+ {"cat":"drugs","name":"Molnupiravir","set":{"lectures":["CV150","CV138"]}},
+ {"cat":"drugs","name":"Tecovirimat","set":{"mechanism":"Stops newly made orthopoxvirus particles from being released from infected cells"}}
+]

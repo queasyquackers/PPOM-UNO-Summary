@@ -1,0 +1,17 @@
+{"genes": [
+{"name": "Familial idiopathic pulmonary fibrosis", "gene": "TERT and TERC mutations (telomerase components)",
+ "role": "Inherited telomerase defects (about 15% of familial cases) shorten telomeres, so alveolar epithelial cells die and cannot regenerate",
+ "lecture": "CV116", "lectures": ["CV116"]},
+{"name": "Idiopathic pulmonary fibrosis", "gene": "MUC5B promoter polymorphism",
+ "role": "Mucin gene variant that raises mucus secretion and alters mucociliary clearance; present in about one third of cases",
+ "lecture": "CV116", "lectures": ["CV116"]},
+{"name": "Familial idiopathic pulmonary fibrosis", "gene": "Surfactant protein C (SP-C) mutation",
+ "role": "Mutated surfactant drives alveolar epithelial apoptosis and impaired repair; a rare familial form",
+ "lecture": "CV116", "lectures": ["CV116"]},
+{"name": "Pulmonary Langerhans cell histiocytosis", "gene": "BRAF mutation (in some cases)",
+ "role": "Found in some young smokers with grooved CD1a-positive cells and Birbeck granules; symptoms usually fade after quitting",
+ "lecture": "CV117", "lectures": ["CV117"]},
+{"name": "Pulmonary alveolar proteinosis (hereditary)", "gene": "GM-CSF gene mutations (neonates)",
+ "role": "Macrophages need GM-CSF signaling to clear surfactant; 90% of cases are instead autoimmune, with antibodies against GM-CSF",
+ "lecture": "CV117", "lectures": ["CV117"]}
+]}

@@ -1,0 +1,51 @@
+{
+ "correlates": [
+  {
+   "name": "Hand-foot-mouth disease",
+   "presentation": "3-year-old at daycare in late August; two classmates are ill too. Two days of low fever, refusing food as swallowing hurts. T 38.2 C (100.8 F), HR 128; shallow painful ulcers on the tongue and buccal mucosa; tender, non-itchy red macules and small vesicles on the palms and soles.",
+   "management": "Supportive: fluids and analgesia for painful swallowing; self-limited over 7-10 days. The virus keeps shedding in stool for up to 6 weeks (throat up to 4), so stress hygiene at daycare.",
+   "lecture": "CV129",
+   "lectures": [
+    "CV129"
+   ]
+  },
+  {
+   "name": "Herpangina",
+   "presentation": "4-year-old at a summer day camp with 1 day of sudden fever and a sore throat; drinks little as swallowing hurts. T 39.4 C, HR 132; a dozen painful vesicles and shallow ulcers with red rims on the soft palate, uvula and tonsillar pillars; gums, lips, palms and soles normal.",
+   "lecture": "CV129",
+   "lectures": [
+    "CV129",
+    "CV141"
+   ]
+  },
+  {
+   "name": "Common cold",
+   "presentation": "26-year-old father of two toddlers in daycare, in October. Two days of sneezing, clear runny nose, blocked nose, mild sore throat, headache and dry cough. T 37.0 C, HR 76, SpO2 99%; clear nasal discharge, mildly red throat without exudate or nodes; lungs clear.",
+   "management": "Over-the-counter symptom relief (fluids, rest, decongestant); no antibiotics and no specific antiviral; resolves in 5-7 days in adults, about 10 in children.",
+   "lecture": "CV129",
+   "lectures": [
+    "CV129",
+    "CV141"
+   ]
+  },
+  {
+   "name": "Pharyngoconjunctival fever",
+   "presentation": "9-year-old back from a week at summer camp where many campers shared one swimming pool and several fell ill. Two days of T 39.3 C, sore throat, malaise and red, watery eyes. Red pharynx, tender cervical nodes, both conjunctivae injected with small follicles; no cough.",
+   "lecture": "CV129",
+   "lectures": [
+    "CV129",
+    "CV141"
+   ]
+  },
+  {
+   "name": "Croup (laryngotracheobronchitis)",
+   "presentation": "2-year-old at daycare in November with 2 days of runny nose and low-grade temperature, then a harsh repetitive cough and hoarse voice, worse at night. T 38.3 C, HR 120, RR 30, SpO2 96%; agitated, high-pitched noise on breathing in; no drooling; sits comfortably.",
+   "workup": "Diagnosis is clinical. Frontal soft-tissue neck film (abnormal in 40-50%): the subglottic trachea narrows and tapers upward instead of having square shoulders; supraglottic tissues normal on the lateral view. Nasal PCR if needed.",
+   "lecture": "CV141",
+   "lectures": [
+    "CV141",
+    "CV129"
+   ]
+  }
+ ]
+}

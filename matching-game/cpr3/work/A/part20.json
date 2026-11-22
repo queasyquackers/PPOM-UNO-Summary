@@ -1,0 +1,60 @@
+{
+ "genes": [
+  {
+   "name": "Clear cell renal cell carcinoma",
+   "gene": "VHL loss",
+   "chromosome": "3p",
+   "role": "Tumor suppressor that normally targets HIF-1; with it gone, HIF-1 drives VEGF and angiogenesis in this proximal tubule tumor",
+   "lecture": "CV156",
+   "lectures": [
+    "CV156"
+   ]
+  },
+  {
+   "name": "Von Hippel-Lindau syndrome",
+   "gene": "Germline VHL tumor suppressor mutation (autosomal dominant)",
+   "role": "Renal cysts and bilateral clear cell tumors with cerebellar and retinal hemangioblastomas and pheochromocytoma",
+   "lecture": "CV156",
+   "lectures": [
+    "CV156"
+   ]
+  },
+  {
+   "name": "Papillary renal cell carcinoma",
+   "gene": "Trisomies 7, 16 and 17; loss of Y in men (sporadic)",
+   "role": "Distal convoluted tubule tumor with foamy macrophages in its fibrovascular cores; the commonest kidney cancer in dialysis patients",
+   "lecture": "CV156",
+   "lectures": [
+    "CV156"
+   ]
+  },
+  {
+   "name": "Hereditary papillary renal cell carcinoma",
+   "gene": "MET proto-oncogene",
+   "chromosome": "7",
+   "role": "Autosomal dominant gain of the growth-factor receptor gene, giving multiple bilateral tumors",
+   "lecture": "CV156",
+   "lectures": [
+    "CV156"
+   ]
+  },
+  {
+   "name": "Xp11 translocation renal cell carcinoma",
+   "gene": "TFE3 fusion (overexpressed transcription factor)",
+   "role": "Genetically distinct subtype of young patients; clear cytoplasm with papillary architecture",
+   "lecture": "CV156",
+   "lectures": [
+    "CV156"
+   ]
+  },
+  {
+   "name": "Tuberous sclerosis",
+   "gene": "TSC1 or TSC2 loss of function (autosomal dominant)",
+   "role": "Tumor suppressors; carriers get renal angiomyolipomas (25-50%), cardiac rhabdomyomas, retinal hamartomas and facial angiofibromas",
+   "lecture": "CV156",
+   "lectures": [
+    "CV156"
+   ]
+  }
+ ]
+}

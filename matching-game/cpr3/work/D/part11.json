@@ -1,0 +1,58 @@
+{
+ "correlates": [
+  {
+   "name": "Talaromycosis",
+   "presentation": "34-year-old man from northern Vietnam with HIV, never treated. Six weeks of fevers, a 9-kg weight loss and dozens of small skin papules, many with a dark necrotic center, over the face, trunk and arms. T 38.9 C, HR 110, RR 18; thin.",
+   "workup": "CD4 25/uL. Skin scraping: elongated yeast cells, each divided by one dark central transverse septum (they split rather than bud). Culture confirms.",
+   "lecture": "CV136",
+   "lectures": [
+    "CV136"
+   ]
+  },
+  {
+   "name": "Allergic bronchopulmonary aspergillosis",
+   "presentation": "26-year-old woman with asthma since childhood. Over 6 months, more wheeze and breathlessness despite high-dose inhaled steroids, and a cough bringing up thick brown mucus plugs. T 37.2 C, RR 20, SpO2 95%; wheezes in both lungs on breathing out.",
+   "workup": "Eosinophils 1,400/uL; total IgE 2,800 IU/mL, with IgE specific for the mold's antigens. Coughed-up plugs contain branching septate hyphae; the mold sits in the airways without invading lung tissue.",
+   "lecture": "CV137",
+   "lectures": [
+    "CV137"
+   ]
+  },
+  {
+   "name": "Aspergilloma",
+   "presentation": "62-year-old man who completed 6 months of four-drug treatment for a cavitating lung infection 15 years ago. Three months of coughing up a teaspoon of blood a few times a week; no fever or weight loss. T 36.9 C, RR 14, SpO2 96%; chest exam normal.",
+   "workup": "Chest CT: round solid mass inside an old right upper lobe cavity, with a thin rim of air between mass and wall; the mass shifts when he lies prone. Culture: septate hyphae branching at acute angles; spores in radiating chains.",
+   "management": "Surgical resection of the cavity for repeated bleeding; voriconazole (or posaconazole, caspofungin, amphotericin B) if the mold starts invading tissue.",
+   "lecture": "CV137",
+   "lectures": [
+    "CV137"
+   ],
+   "avoid": {
+    "management": [
+     "Invasive aspergillosis in neutropenia"
+    ]
+   }
+  },
+  {
+   "name": "Invasive aspergillosis in neutropenia",
+   "presentation": "45-year-old man with acute leukemia, day 14 after induction chemotherapy, absolute neutrophil count 80/uL, also on prednisone. Three days of fever despite broad antibiotics, cough, chest discomfort, blood-streaked sputum and breathlessness. T 39.2 C, HR 118, RR 28, SpO2 91%.",
+   "workup": "Chest CT: several nodules. Serum galactomannan antigen positive; PCR positive. Lung biopsy: septate hyphae branching at acute (45 degree) angles, invading lung tissue and vessels.",
+   "management": "Voriconazole first-line; amphotericin B, posaconazole or caspofungin as alternatives; surgery for localized disease.",
+   "lecture": "CV137",
+   "lectures": [
+    "CV137"
+   ]
+  },
+  {
+   "name": "Cryptococcal meningitis in HIV",
+   "presentation": "36-year-old man with untreated HIV who keeps racing pigeons. Three weeks of worsening headache and fever, now vomiting and confusion. T 38.3 C, HR 100, BP 132/84; disoriented, mild neck stiffness; a few umbilicated papules on the face.",
+   "workup": "CD4 35/uL. CSF: budding yeasts with narrow-based buds and a wide clear capsule on negative stain; capsular antigen positive by latex agglutination in CSF and blood; CSF culture grows the yeast.",
+   "management": "Amphotericin B plus flucytosine first, then long-term fluconazole.",
+   "lecture": "CV137",
+   "lectures": [
+    "CV137",
+    "CV132"
+   ]
+  }
+ ]
+}

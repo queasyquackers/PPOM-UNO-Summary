@@ -1,0 +1,31 @@
+{
+ "correlates": [
+  {
+   "name": "Zanamivir bronchospasm",
+   "presentation": "45-year-old man with COPD (FEV1 55% predicted) and 1 day of fever, myalgia and dry cough took his first dose of an inhaled dry-powder influenza antiviral. Within 30 minutes: chest tightness, RR 26, SpO2 88% on room air, prolonged expiration with diffuse wheezes",
+   "management": "Stop the inhaled powder and give a short-acting bronchodilator; switch to oral oseltamivir. This inhaled antiviral is not recommended in asthma or COPD",
+   "lecture": "CV150",
+   "lectures": [
+    "CV150"
+   ]
+  },
+  {
+   "name": "Neuraminidase-inhibitor neuropsychiatric events",
+   "presentation": "11-year-old boy with rapid-antigen-positive influenza started a twice-daily oral antiviral suspension yesterday. Tonight he is confused and frightened, sees insects on the wall and tried to run outside. T 38.4 C, HR 110, neck supple, no focal deficits; it clears within hours",
+   "management": "Stop the drug and observe him in a safe setting; these reactions are rare, transient and of unestablished cause, mostly in children and adolescents, and came to light in post-marketing surveillance",
+   "lecture": "CV150",
+   "lectures": [
+    "CV150"
+   ]
+  },
+  {
+   "name": "Amantadine neurotoxicity",
+   "presentation": "80-year-old man with Parkinson disease on hemodialysis for ESRD takes a renally cleared antiparkinsonian drug at his usual dose; diphenhydramine was added for sleep. Over 1 day he is suddenly not making sense, agitated and hallucinating. T 36.8 C, no focal deficits",
+   "management": "Stop the drug and the antihistamine and support him while it clears slowly (half-life about 8 days in ESRD; dialysis does not remove it). Sudden onset in an older patient: think drug, not age",
+   "lecture": "CV150",
+   "lectures": [
+    "CV150"
+   ]
+  }
+ ]
+}

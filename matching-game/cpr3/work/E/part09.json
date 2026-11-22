@@ -1,0 +1,23 @@
+{"correlates": [
+{"name": "Atherosclerotic renal artery stenosis",
+ "presentation": "68-year-old man with type 2 diabetes and 40 pack-years of smoking: BP now 178/102 despite three drugs. Bruit over the left flank and upper abdomen. Creatinine 1.5 mg/dL. Ultrasound: left kidney 8.5 cm, right 11.5 cm.",
+ "workup": "Plasma and left renal vein renin high; BP responds to an ACE inhibitor; arteriography localizes a plaque narrowing the left renal artery. Years untreated: shrunken left kidney, severe arteriolosclerosis on the right",
+ "management": "Stent the narrowed segment or remove it surgically: this renovascular cause of high BP can be cured, unlike the idiopathic majority (over 90%)",
+ "lecture": "CV151", "lectures": ["CV151"]},
+{"name": "Fibromuscular dysplasia",
+ "presentation": "27-year-old woman who smokes: BP 172/108 at a clinic visit, confirmed twice and not controlled on two drugs; no family history of high BP, no diabetes. Bruit over the right upper abdomen. Creatinine 0.8 mg/dL.",
+ "workup": "High plasma renin; arteriography shows a narrowed renal artery. Artery wall on elastic stain: media markedly thickened by smooth muscle hyperplasia, elastic lamina disrupted, lumen narrowed",
+ "lecture": "CV151", "lectures": ["CV151"]},
+{"name": "Renal infarction",
+ "presentation": "67-year-old man 3 weeks after a large anterior MI that left a poorly moving apical wall: sudden left flank pain. Afebrile, BP 150/90, left costovertebral angle tenderness. UA microscopic blood. Creatinine 1.2 mg/dL.",
+ "workup": "Echocardiogram: mural thrombus in the left ventricle. Pathology: pale, wedge-shaped zone of coagulative necrosis with its base at the cortex; dead tubules keep their outlines but have no nuclei, rimmed by inflammation",
+ "lecture": "CV151", "lectures": ["CV151"]},
+{"name": "Atheroembolic renal disease",
+ "presentation": "74-year-old man with severe aortic atherosclerosis, 3 weeks after open repair of an abdominal aortic aneurysm without contrast: creatinine 1.1 rising to 2.9 mg/dL over 2 weeks. BP 162/94. No fever, no flank pain.",
+ "workup": "Biopsy: interlobar arteries plugged by fibrosing material holding empty, needle-shaped clefts where cholesterol dissolved during tissue processing",
+ "lecture": "CV151", "lectures": ["CV151"]},
+{"name": "Sickle cell nephropathy",
+ "presentation": "22-year-old Black man with HbSS disease and pain crises since childhood: gross hematuria for 2 days; he has always passed large volumes and wakes to urinate at night. BP 118/72. Urine osmolality 280 mOsm/kg after overnight fluid restriction. Creatinine 0.7 mg/dL.",
+ "workup": "Urine fails to concentrate; hematuria. Pathology: patchy necrosis of the renal papillae, which turn yellow-white, from red cells occluding vessels in the hypoxic, hypertonic medulla",
+ "lecture": "CV151", "lectures": ["CV151", "CV155"]}
+]}

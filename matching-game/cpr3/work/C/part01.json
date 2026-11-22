@@ -1,0 +1,56 @@
+{
+ "correlates": [
+  {
+   "name": "Idiopathic pulmonary fibrosis",
+   "presentation": "A 67-year-old man, former smoker, retired accountant on no regular drugs, has 14 months of slowly worsening exertional dyspnea and a dry cough; no rash, joint or muscle complaints. RR 22, SpO2 89% on room air; fine late-inspiratory crackles at both bases; clubbing.",
+   "workup": "FVC 58% predicted, FEV1/FVC 0.87, DLCO 38%. CT: subpleural, posterior-basal clustered cysts with reticular septal thickening and little hazy opacity. Surgical biopsy: patchy scar, dense old collagen beside pale nodules of plump fibroblasts.",
+   "management": "Exclude drug, occupational and connective-tissue causes first; then refer for lung transplant evaluation, the only definitive therapy. Median survival is about 3.8 years from diagnosis.",
+   "lecture": "CV116",
+   "lectures": [
+    "CV116",
+    "CV119",
+    "CV120"
+   ]
+  },
+  {
+   "name": "Nonspecific interstitial pneumonia",
+   "presentation": "A 46-year-old woman who has never smoked has 7 months of exertional dyspnea and dry cough. She reports fingers that turn white then blue in the cold and morning hand stiffness. Fine crackles at both bases, no clubbing; SpO2 93% on room air.",
+   "workup": "FVC 68% predicted, FEV1/FVC 0.85, DLCO 55%. CT: symmetric bilateral lower-lobe fine reticulation with patchy hazy opacities and no cysts. Biopsy: lymphocytes and plasma cells or scarring all at one stage of age; no fibroblast nodules.",
+   "lecture": "CV116",
+   "lectures": [
+    "CV116"
+   ]
+  },
+  {
+   "name": "Desquamative interstitial pneumonia",
+   "presentation": "A 44-year-old man who smokes 1.5 packs a day has 4 months of slowly increasing dyspnea and a dry cough. Fine basal crackles and early clubbing. FVC 76% predicted, FEV1/FVC 0.82, DLCO 50%.",
+   "workup": "Lung biopsy: alveolar airspaces uniformly packed with brown-pigmented macrophages whose cytoplasm holds lamellar bodies (surfactant debris from dead type II pneumocytes); alveolar walls only mildly thickened.",
+   "management": "Stop smoking and start systemic corticosteroids; the response is excellent, though a few go on to scarring.",
+   "lecture": "CV116",
+   "lectures": [
+    "CV116"
+   ],
+   "avoid": {
+    "presentation": [
+     "Respiratory bronchiolitis-associated ILD"
+    ]
+   }
+  },
+  {
+   "name": "Respiratory bronchiolitis-associated ILD",
+   "presentation": "A 42-year-old man who currently smokes a pack a day (25 pack-years) has a year of mild cough and gradually increasing breathlessness on stairs. A few scattered crackles, no clubbing. FVC 82% predicted, DLCO 68%.",
+   "workup": "Lung biopsy: brown-pigmented macrophages packed in the lumens of first- and second-order bronchioles just proximal to the alveolar ducts, with collagen around those bronchioles; the alveoli beyond are spared.",
+   "management": "Smoking cessation alone; symptoms and lung function improve once he quits.",
+   "lecture": "CV116",
+   "lectures": [
+    "CV116"
+   ],
+   "avoid": {
+    "presentation": [
+     "Desquamative interstitial pneumonia",
+     "Pulmonary Langerhans cell histiocytosis"
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "drugs": [
+  {
+   "name": "Dapsone",
+   "groups": [
+    "Antimycobacterials"
+   ],
+   "mechanism": "PABA analog that inhibits dihydropteroate synthase; bacteriostatic. Resistance: altered dihydropteroate synthase, decreased uptake or increased PABA production",
+   "adverseEffects": "Acts like a sulfonamide: hemolysis with bite cells in G6PD deficiency, kernicterus in a neonate, rash up to Stevens-Johnson, crystalluria, interstitial nephritis; cross-allergy with sulfa drugs",
+   "use": "Hansen disease (leprosy); Pneumocystis prophylaxis in HIV; topical form for severe acne",
+   "lecture": "CV128",
+   "lectures": [
+    "CV128"
+   ]
+  },
+  {
+   "name": "Clofazimine",
+   "groups": [
+    "Antimycobacterials"
+   ],
+   "mechanism": "Lipophilic drug with long bactericidal action; binds guanine in mycobacterial DNA and suppresses T lymphocytes (anti-inflammatory); raises reactive oxygen species",
+   "adverseEffects": "Pinkish discoloration of skin and conjunctiva; GI upset including GI bleeding; QT prolongation; rare splenic rupture; not used in pregnancy",
+   "use": "Hansen disease; not stocked by pharmacies - the physician registers as an investigator with the National Hansen's Disease Program, which supplies it",
+   "lecture": "CV128",
+   "lectures": [
+    "CV128"
+   ]
+  },
+  {
+   "name": "Thalidomide",
+   "groups": [
+    "Antimycobacterials"
+   ],
+   "mechanism": "Lowers TNF-alpha and decreases angiogenesis; a racemic drug whose (S) enantiomer is the teratogen",
+   "adverseEffects": "Short or absent limb long bones (phocomelia) after first-trimester exposure; requires pregnancy tests at the start and during therapy and two forms of birth control",
+   "use": "Erythema nodosum leprosum, the severe inflammatory reaction of leprosy; multiple myeloma",
+   "lecture": "CV128",
+   "lectures": [
+    "CV128"
+   ]
+  }
+ ]
+}

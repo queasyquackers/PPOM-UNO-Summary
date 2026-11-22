@@ -1,0 +1,51 @@
+{
+ "correlates": [
+  {
+   "name": "Urothelial carcinoma of the renal pelvis",
+   "presentation": "70-year-old man, 50 pack-years, who took analgesics daily for years: three episodes of painless visible hematuria. BP 136/82. Hb 13.1 g/dL. CT: irregular soft-tissue mass in the left renal pelvic cavity and calyces with hydronephrosis.",
+   "workup": "Ureteroscopic biopsy: fibrovascular cores covered by transitional cells with markedly pleomorphic nuclei, as in bladder tumors; deeply invasive tumors carry a 17p deletion with p53 mutation",
+   "lecture": "CV156",
+   "lectures": [
+    "CV156"
+   ]
+  },
+  {
+   "name": "Ureteropelvic junction obstruction",
+   "presentation": "6-week-old boy with fever 39.2 C, poor feeding and a urine culture growing E. coli; prenatal ultrasound showed a dilated left kidney. Ultrasound now: left renal pelvis and calyces markedly dilated, left ureter normal caliber, bladder and right kidney normal.",
+   "workup": "VCUG: no reflux and a normal urethra. Resected segment: disorganized smooth muscle bundles with excess collagen laid down between them (a few cases: an aberrant renal vessel compressing from outside)",
+   "management": "Treat the infection, then investigate further and correct the obstruction surgically if needed",
+   "lecture": "CV157",
+   "lectures": [
+    "CV157",
+    "CV160"
+   ]
+  },
+  {
+   "name": "Sclerosing retroperitoneal fibrosis",
+   "presentation": "60-year-old man who takes an ergot derivative for migraines: 2 months of dull low back and flank pain and less urine. BP 154/94. Creatinine 3.0 mg/dL (1.0 a year ago). Ultrasound: both kidneys and upper ureters dilated; bladder empties fully.",
+   "workup": "CT: a rind of tissue beginning at the sacral promontory, wrapping the lower abdominal aorta and spreading laterally to encase both ureters. Biopsy: dense collagen with many lymphocytes, plasma cells and eosinophils",
+   "lecture": "CV157",
+   "lectures": [
+    "CV157"
+   ]
+  },
+  {
+   "name": "Patent urachus",
+   "presentation": "10-day-old boy: the umbilicus stays wet and keeps leaking clear fluid, more when he cries or strains, and he fusses as if in abdominal pain. Afebrile; voids normally; the rest of the exam is normal.",
+   "workup": "Imaging: an open channel running from the dome of the bladder up to the umbilicus, along the midline of the anterior abdominal wall",
+   "lecture": "CV157",
+   "lectures": [
+    "CV157"
+   ]
+  },
+  {
+   "name": "Bladder exstrophy",
+   "presentation": "Newborn boy: just below the tied umbilical cord a patch of moist, bright red mucosa lies open on the lower abdominal wall, and beneath it the penis is incompletely formed.",
+   "workup": "Biopsy of the exposed mucosa later in life: glandular metaplasia; chronic infection that often climbs to the upper urinary tract",
+   "lecture": "CV157",
+   "lectures": [
+    "CV157"
+   ]
+  }
+ ]
+}

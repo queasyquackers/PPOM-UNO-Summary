@@ -1,0 +1,88 @@
+{
+ "genes": [
+  {
+   "name": "WAGR syndrome",
+   "gene": "WT1 deletion",
+   "chromosome": "11p13",
+   "role": "About 33% develop a childhood renal embryonal tumor; with aniridia, genital anomalies and intellectual disability",
+   "lecture": "CV156",
+   "lectures": [
+    "CV156"
+   ]
+  },
+  {
+   "name": "Denys-Drash syndrome",
+   "gene": "WT1 mutation",
+   "role": "About 90% develop a childhood renal embryonal tumor; with gonadal dysgenesis and renal failure from diffuse mesangial sclerosis",
+   "lecture": "CV156",
+   "lectures": [
+    "CV156"
+   ]
+  },
+  {
+   "name": "Beckwith-Wiedemann syndrome",
+   "gene": "Deletion",
+   "chromosome": "11p15",
+   "role": "Organomegaly, macroglossia, hemihypertrophy, omphalocele and enlarged adrenals, with raised childhood renal tumor risk",
+   "lecture": "CV156",
+   "lectures": [
+    "CV156"
+   ]
+  },
+  {
+   "name": "Wilms tumor with focal anaplasia",
+   "gene": "TP53 (p53) mutation",
+   "role": "Seen in the undifferentiated, pleomorphic areas; these children tend to resist chemotherapy",
+   "lecture": "CV156",
+   "lectures": [
+    "CV156"
+   ],
+   "avoid": [
+    "Invasive urothelial carcinoma of the renal pelvis",
+    "Urothelial carcinoma in situ (flat pathway)"
+   ]
+  },
+  {
+   "name": "Noninvasive papillary urothelial carcinoma",
+   "gene": "FGFR3 amplification with activating RAS and PI3-kinase mutations",
+   "role": "Gain in growth factor receptor signaling; the commonest pathway: tumors recur often but invade muscle in only about 20%",
+   "lecture": "CV157",
+   "lectures": [
+    "CV157"
+   ]
+  },
+  {
+   "name": "Urothelial carcinoma in situ (flat pathway)",
+   "gene": "TP53 and RB pathway mutations",
+   "role": "High-grade, multifocal, confined to the epithelium at first, yet the precursor of most muscle-invasive bladder cancer",
+   "lecture": "CV157",
+   "lectures": [
+    "CV157"
+   ],
+   "avoid": [
+    "Small cell lung carcinoma"
+   ]
+  },
+  {
+   "name": "Superficial urothelial carcinoma of the renal pelvis",
+   "gene": "Chromosome 9p alteration",
+   "role": "Seen in noninvasive tumors of the pelvicalyceal lining; smoking is the big risk factor",
+   "lecture": "CV156",
+   "lectures": [
+    "CV156"
+   ]
+  },
+  {
+   "name": "Invasive urothelial carcinoma of the renal pelvis",
+   "gene": "17p deletion with TP53 mutation",
+   "role": "Marks the tumors that have grown beyond the lining of the upper collecting system",
+   "lecture": "CV156",
+   "lectures": [
+    "CV156"
+   ],
+   "avoid": [
+    "Urothelial carcinoma in situ (flat pathway)"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "drugs": [
+  {
+   "name": "Bedaquiline",
+   "groups": [
+    "Antimycobacterials"
+   ],
+   "mechanism": "Inhibits mycobacterial ATP synthase, killing both replicating and nonreplicating bacilli; CYP-metabolized (drug interactions); long half-life",
+   "adverseEffects": "Boxed warning for QT prolongation, so avoid in long QT; hepatotoxicity from the oxidative stress of its M2 metabolite",
+   "lecture": "CV128",
+   "lectures": [
+    "CV128",
+    "CV138"
+   ]
+  },
+  {
+   "name": "Pretomanid",
+   "groups": [
+    "Antimycobacterials"
+   ],
+   "mechanism": "Nitroimidazole prodrug activated by the mycobacterial Ddn nitroreductase; releases nitric oxide and reactive nitrogen species that break down the mycolic acid wall; long half-life",
+   "adverseEffects": "Peripheral neuropathy, QT prolongation and hepatotoxicity; baseline and regular ECGs and periodic liver tests through the roughly 6-month course",
+   "use": "Pulmonary XDR-TB, or MDR-TB that is treatment-intolerant or nonresponsive, given with bedaquiline and linezolid for about 6 months",
+   "lecture": "CV128",
+   "lectures": [
+    "CV128",
+    "CV138"
+   ]
+  },
+  {
+   "name": "Azithromycin",
+   "groups": [
+    "Antimycobacterials",
+    "Antimicrobials"
+   ],
+   "mechanism": "Macrolide: binds 50S and blocks translocation; bacteriostatic. Long half-life allows a once-daily 5-day course; no CYP inhibition. Resistance: efflux, 23S rRNA methylation",
+   "use": "MAC in advanced HIV (CD4 < 50) with ethambutol; Mycoplasma, Chlamydophila and Legionella pneumonia; pertussis; chlamydia cover beside IM ceftriaxone for gonorrhea; safe in pregnancy and children",
+   "lecture": "CV128",
+   "lectures": [
+    "CV128",
+    "CV130",
+    "CV138",
+    "CV141"
+   ]
+  },
+  {
+   "name": "Clarithromycin",
+   "groups": [
+    "Antimycobacterials"
+   ],
+   "mechanism": "Macrolide 50S translocation blocker dosed twice daily; inhibits CYP enzymes, so interactions; better absorbed and fewer GI effects than the oldest macrolide",
+   "use": "Alternative macrolide partner to ethambutol for MAC; more active against streptococci, staphylococci, H. pylori, Moraxella, Legionella and M. pneumoniae",
+   "lecture": "CV128",
+   "lectures": [
+    "CV128",
+    "CV138"
+   ]
+  },
+  {
+   "name": "Erythromycin",
+   "groups": [
+    "Antimicrobials"
+   ],
+   "mechanism": "The oldest macrolide: 50S translocation block, but needs several doses a day, causes more GI upset and inhibits CYP3A4",
+   "use": "Alternative to penicillin for streptococcal pharyngitis in a penicillin-allergic patient",
+   "lecture": "CV141",
+   "lectures": [
+    "CV141",
+    "CV128"
+   ]
+  }
+ ]
+}

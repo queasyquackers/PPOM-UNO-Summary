@@ -1,0 +1,69 @@
+{
+ "drugs": [
+  {
+   "name": "Albuterol (SABA)",
+   "groups": [
+    "Airway"
+   ],
+   "mechanism": "Inhaled beta-2 adrenergic agonist that relaxes bronchial smooth muscle within minutes; the effect lasts only a few hours",
+   "use": "Rescue inhaler for acute symptoms in asthma and in every COPD group; puffs before exercise for exercise-induced bronchoconstriction; given during spirometry to test reversibility (12% and 200 mL)",
+   "lecture": "CV119",
+   "lectures": [
+    "CV119",
+    "CV120",
+    "CV121"
+   ]
+  },
+  {
+   "name": "LABA (salmeterol)",
+   "groups": [
+    "Airway"
+   ],
+   "mechanism": "Long-acting inhaled beta-2 adrenergic agonist: 12 hours or more of bronchodilation, so it is a maintenance drug, not a rescue drug",
+   "use": "With an inhaled corticosteroid for asthma maintenance; in COPD alone for GOLD group A or combined with a long-acting muscarinic antagonist for groups B and E",
+   "lecture": "CV119",
+   "lectures": [
+    "CV119",
+    "CV121"
+   ]
+  },
+  {
+   "name": "LAMA / SAMA (tiotropium, ipratropium)",
+   "groups": [
+    "Airway"
+   ],
+   "mechanism": "Block M3 muscarinic receptors on airway smooth muscle, removing vagal cholinergic bronchoconstriction; long-acting forms last about 24 hours",
+   "use": "COPD maintenance alone for GOLD group A or paired with a long-acting beta-2 agonist for groups B and E; the short-acting form is a COPD rescue option alongside albuterol",
+   "lecture": "CV119",
+   "lectures": [
+    "CV119"
+   ]
+  },
+  {
+   "name": "Inhaled corticosteroids (ICS)",
+   "groups": [
+    "Airway"
+   ],
+   "adverseEffects": "Oral thrush (oropharyngeal candidiasis): the patient should rinse the mouth after every dose",
+   "use": "Asthma maintenance, combined with a LABA; the combination can now also serve as rescue; certain ones are acceptable in pregnancy",
+   "lecture": "CV121",
+   "lectures": [
+    "CV121",
+    "CV119"
+   ]
+  },
+  {
+   "name": "Montelukast",
+   "groups": [
+    "Airway"
+   ],
+   "mechanism": "Blocks the cysteinyl leukotriene receptor, countering the leukotriene surge that follows when COX-1 inhibition shunts arachidonic acid toward lipoxygenase",
+   "use": "Asthma with nasal polyps that worsens 20 minutes to 3 hours after aspirin or NSAIDs; add-on controller in persistent asthma",
+   "lecture": "CV119",
+   "lectures": [
+    "CV119",
+    "CV121"
+   ]
+  }
+ ]
+}

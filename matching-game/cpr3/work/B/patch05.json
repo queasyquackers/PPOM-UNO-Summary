@@ -1,0 +1,4 @@
+[
+{"i": 27, "field": "presentation", "new": "61-year-old man intubated 9 days for a head injury: T 39.0 C, thick green secretions suctioned from the tube, SpO2 falling on rising FiO2. Film: new left lower-lobe infiltrate; tracheal aspirate grows 10^6 CFU/mL of an oxidase-positive, non-lactose-fermenting gram-negative rod.", "reason": "shortened to the 280-char limit", "src": "-"},
+{"i": 31, "field": "micro", "new": "Gram-negative coccobacillus; strictly aerobic, non-motile, oxidase-negative and non-fermenting; catalase-positive; forms biofilm and survives up to 5 months on dry surfaces; hard to clear with routine disinfectants; often pan-resistant", "reason": "shortened to the 240-char limit", "src": "-"}
+]

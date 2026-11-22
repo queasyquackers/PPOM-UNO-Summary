@@ -1,0 +1,83 @@
+{
+ "glomerular": [
+  {
+   "name": "Renal AL amyloidosis",
+   "lightMicro": "Amorphous pink material expanding the mesangium and vessel walls; salmon-pink with Congo red and green birefringence under polarized light",
+   "immunofluor": "Immunostain of the deposits: positive for lambda light chain, negative for kappa",
+   "electronMicro": "Fibrils 8-10 nm wide of misfolded protein deposited in the mesangium",
+   "clue": "Older adult with an M protein in serum and free light chains (Bence Jones protein) in urine; plasma-cell clone, lambda more often than kappa; new nephrotic syndrome",
+   "lecture": "CV148",
+   "lectures": [
+    "CV148",
+    "CV147"
+   ]
+  },
+  {
+   "name": "Membranoproliferative GN type I",
+   "lightMicro": "Thick capillary walls plus increased mesangial and endocapillary cells; silver stain splits the GBM into two parallel lines",
+   "immunofluor": "Granular C3 with IgG, C1q and C4 in the mesangium and outlining the loops",
+   "electronMicro": "Subendothelial and mesangial electron-dense deposits; mesangial cells grow into the capillary wall and split the GBM",
+   "clue": "Chronic hepatitis C, usually with cryoglobulins; children or adults; mixed nephritic-nephrotic urine with RBC casts; hypertension; most progress to CKD",
+   "lecture": "CV148",
+   "lectures": [
+    "CV148",
+    "CV147"
+   ],
+   "avoid": {
+    "lightMicro": [
+     "Dense deposit disease (MPGN type II)"
+    ]
+   }
+  },
+  {
+   "name": "Dense deposit disease (MPGN type II)",
+   "lightMicro": "Thick capillary walls plus increased mesangial and endocapillary cells; silver stain splits the GBM into two parallel lines",
+   "immunofluor": "Granular C3 with properdin; IgG, C1q and C4 usually absent",
+   "electronMicro": "A continuous ribbon of very electron-opaque material inside the GBM itself, splitting the membrane",
+   "clue": "Children or adults; an autoantibody (C3 nephritic factor) stabilizes the alternative-pathway C3 convertase; low C3, factor B and properdin with normal C1 and C4",
+   "lecture": "CV148",
+   "lectures": [
+    "CV148"
+   ],
+   "avoid": {
+    "lightMicro": [
+     "Membranoproliferative GN type I"
+    ]
+   }
+  },
+  {
+   "name": "IgA nephropathy",
+   "lightMicro": "PAS: mesangial matrix expanded and mesangial cells increased; capillary loops otherwise open and thin",
+   "immunofluor": "Large granular clumps of IgA with C3 and properdin, concentrated in the mesangium",
+   "electronMicro": "Electron-dense deposits within the mesangial matrix; capillary endothelium intact",
+   "clue": "Most common primary GN worldwide; males, peak age 20-30; recurrent gross hematuria within days of a respiratory or GI infection; high serum IgA; linked to celiac and liver disease",
+   "lecture": "CV149",
+   "lectures": [
+    "CV149",
+    "CV147",
+    "CV161"
+   ],
+   "avoid": {
+    "electronMicro": [
+     "Lupus nephritis, class I-II"
+    ],
+    "lightMicro": [
+     "Lupus nephritis, class I-II"
+    ]
+   }
+  },
+  {
+   "name": "Poststreptococcal glomerulonephritis",
+   "lightMicro": "Diffusely enlarged, very cellular glomeruli: neutrophils and monocytes fill the tufts, endothelial and mesangial cells proliferate, few open loops; crescents if severe",
+   "immunofluor": "Coarse, irregular granular IgG and C3 scattered along capillary walls and in the mesangium",
+   "electronMicro": "Large discrete electron-dense deposits on the epithelial side of the GBM, beneath the foot processes; occasional mesangial deposits",
+   "clue": "Child aged 2-6, 1-4 weeks after a sore throat or skin infection; low C3 with normal C4; high ASO (anti-hyaluronidase after skin infection); 95% of children recover in 6-8 weeks",
+   "lecture": "CV149",
+   "lectures": [
+    "CV149",
+    "CV147",
+    "CV161"
+   ]
+  }
+ ]
+}

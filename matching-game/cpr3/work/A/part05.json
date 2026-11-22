@@ -1,0 +1,17 @@
+{"drugs": [
+{"name": "Oseltamivir", "groups": ["Antivirals"],
+ "mechanism": "Oral prodrug; blood and tissue esterases form the active carboxylate, which blocks neuraminidase so new virions clump on the cell surface (influenza A and B); renally secreted, so adjust for renal impairment",
+ "adverseEffects": "Nausea and vomiting (taking it with food helps), headache, serious skin reactions; no metabolism-related drug interactions expected",
+ "use": "Drug of choice for influenza treatment and prophylaxis at any age, outpatient or inpatient, and in pregnancy; start within 48 hours; twice daily for 5 days",
+ "lecture": "CV150", "lectures": ["CV150", "CV129"]},
+{"name": "Zanamivir", "groups": ["Antivirals"],
+ "mechanism": "Neuraminidase inhibitor inhaled as a dry powder; low systemic absorption (about 4-17%), minimal metabolism, no renal dose adjustment listed",
+ "adverseEffects": "Bronchospasm in asthma or COPD (an inhaled powder that is not a bronchodilator); headache, sinusitis, dizziness, ear-nose-throat infections; oropharyngeal or facial edema",
+ "use": "Outpatient influenza treatment from age 7 and prophylaxis from age 5 in someone who can manage an inhaler; not recommended with underlying airway disease",
+ "lecture": "CV150", "lectures": ["CV150"]},
+{"name": "Peramivir", "groups": ["Antivirals"],
+ "mechanism": "Neuraminidase inhibitor given intravenously, a single dose for outpatients; excreted unchanged by the kidney (renal dose adjustment); half-life about 20 h",
+ "adverseEffects": "Hyperglycemia, diarrhea or constipation, serious skin and hypersensitivity reactions; give only where infusion reactions can be treated",
+ "use": "Influenza in a patient who cannot take or absorb the oral first-line agent; treatment only, never prophylaxis",
+ "lecture": "CV150", "lectures": ["CV150"]}
+]}

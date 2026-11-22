@@ -1,0 +1,68 @@
+{
+ "correlates": [
+  {
+   "name": "Clostridioides difficile colitis",
+   "presentation": "79-year-old woman, hospital day 9, on a broad-spectrum antibiotic for pneumonia. Three days of 8-10 watery, non-bloody stools a day with crampy lower abdominal pain. T 38.3 C, HR 106, BP 108/64; abdomen mildly distended and diffusely tender; WBC 24,000/uL.",
+   "workup": "Stool PCR or antigen test for toxins A and B positive within hours (culture needs anaerobic media and days). Colonoscopy: raised yellow-white plaques of fibrin and debris stuck to inflamed colonic mucosa.",
+   "management": "Contact and enteric precautions; wash hands with soap and water (alcohol gel does not kill spores). Oral fidaxomicin or oral vancomycin first-line, metronidazole second-line; surgery for toxic megacolon; fecal transplant for recurrences.",
+   "lecture": "CV140",
+   "lectures": [
+    "CV140",
+    "CV138"
+   ]
+  },
+  {
+   "name": "MRSA infection",
+   "presentation": "17-year-old high-school wrestler who shares mats and towels; two teammates had boils this month. Four days of a painful, enlarging hot swelling on the thigh. T 38.4 C, HR 98; 4-cm fluctuant, tender, red mass draining pus, with surrounding redness; tender inguinal nodes.",
+   "workup": "Pus Gram stain: gram-positive cocci in clusters; beta-hemolytic, catalase- and coagulase-positive. Cefoxitin disk screen resistant, growth on oxacillin-salt agar, PCR detects the altered penicillin-binding protein gene.",
+   "management": "If admitted: contact precautions (single room or cohort, gloves, gown, dedicated equipment). Serious invasive infection: vancomycin or linezolid; no penicillin, cephalosporin or carbapenem works. Practise stewardship.",
+   "lecture": "CV140",
+   "lectures": [
+    "CV140",
+    "CV138",
+    "CV139"
+   ]
+  },
+  {
+   "name": "VRE infection",
+   "presentation": "70-year-old woman in the ICU for 3 weeks after a perforated bowel, treated with several courses of cephalosporins and vancomycin, with a central venous catheter. New fever and chills. T 38.9 C, HR 114, BP 94/58; catheter site clean; no new murmur.",
+   "workup": "Blood cultures: gram-positive cocci in chains, catalase-negative, turning bile esculin black and growing in 6.5% NaCl; the isolate is not inhibited by vancomycin and is resistant to cephalosporins.",
+   "management": "Contact isolation (single room, gloves, gown) to stop spread to other ICU patients. Treat with linezolid (100% oral bioavailability; watch blood counts and SSRIs); cephalosporins select for these strains.",
+   "lecture": "CV140",
+   "lectures": [
+    "CV140",
+    "CV138",
+    "CV128"
+   ],
+   "avoid": {
+    "presentation": [
+     "Candidemia (invasive candidiasis)"
+    ]
+   }
+  },
+  {
+   "name": "Pseudomonas nosocomial infection",
+   "presentation": "34-year-old man with burns over 40% of his body, hospital day 12, in a burn unit with a recent cluster of infections. New fever and a burn site oozing green-blue exudate. T 39.1 C, HR 122, BP 92/56; WBC 18,500/uL.",
+   "workup": "Culture: motile, oxidase-positive gram-negative rods that do not ferment lactose and make a blue-green pigment; resistant to many common antibiotics. In a lung: red patches with tan rims, cavities, neutrophils around vessels.",
+   "management": "Piperacillin-tazobactam, cefepime or imipenem; two agents active against it when there is structural lung disease or known resistance. Resistance can emerge during about 10% of courses, so repeat cultures.",
+   "lecture": "CV140",
+   "lectures": [
+    "CV140",
+    "CV131",
+    "CV132",
+    "CV139"
+   ]
+  },
+  {
+   "name": "Candidemia (invasive candidiasis)",
+   "presentation": "61-year-old man in the surgical ICU 12 days after a bowel resection, with a central venous catheter, parenteral nutrition, 10 days of broad-spectrum antibiotics and steroids. Fever persists despite the antibiotics. T 39.0 C, HR 120, BP 88/50; new white lesions on the retina.",
+   "workup": "Blood cultures: budding yeasts with pseudohyphae; germ tube forms at 37 C (no germ tube: suspect a fluconazole-resistant species). Bacterial cultures negative.",
+   "management": "Disseminated disease: amphotericin B with an azole, or caspofungin (an echinocandin); check susceptibilities, because fluconazole overuse has bred resistant species.",
+   "lecture": "CV140",
+   "lectures": [
+    "CV140",
+    "CV137"
+   ]
+  }
+ ]
+}

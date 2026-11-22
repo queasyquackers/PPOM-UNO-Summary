@@ -1,0 +1,60 @@
+{
+ "correlates": [
+  {
+   "name": "Solitary pulmonary nodule, high probability (>8 mm)",
+   "presentation": "A 66-year-old man who still smokes (40 pack-years) has no symptoms; a chest film before hernia repair shows a 1.5-cm round right upper lobe opacity that was not on a film taken 3 years ago. Afebrile, SpO2 96%, no clubbing or palpable nodes, weight stable.",
+   "workup": "Chest CT extended through the liver and adrenals: a 16-mm solid peripheral lesion with irregular, spiculated margins and no calcification; no enlarged hilar or mediastinal nodes; liver and adrenals clear.",
+   "management": "Large and high-risk, so go straight to tissue: CT-guided transthoracic needle biopsy for a peripheral lesion (a central one gets bronchoscopy). Risks: pneumothorax, bleeding, pneumonia. Intermediate risk would get PET first.",
+   "lecture": "CV144",
+   "lectures": [
+    "CV144"
+   ],
+   "avoid": {
+    "workup": [
+     "Non-small cell lung cancer, stage I-IIIA (resectable)"
+    ]
+   }
+  },
+  {
+   "name": "Solitary pulmonary nodule, low probability (<4 mm)",
+   "presentation": "A 34-year-old accountant who has never smoked, with no family history of lung cancer, has a 3-mm solid, smooth spot in the right lower lobe on a CT done after a car crash. No cough, hemoptysis or weight loss; exam normal.",
+   "management": "No follow-up CT is needed. The same spot in a high-risk patient (smoker, over 40, family history, workplace fiber exposure) would get a repeat CT at 12 months.",
+   "lecture": "CV144",
+   "lectures": [
+    "CV144"
+   ]
+  },
+  {
+   "name": "Lung cancer screening candidate",
+   "presentation": "A 57-year-old man comes for a wellness visit. He smoked a pack a day from age 20 to 47 (27 pack-years) and quit 10 years ago. No cough, hemoptysis, dyspnea or weight loss; exam and SpO2 normal; no prior chest imaging.",
+   "management": "Low-dose chest CT (age 50-80, at least 20 pack-years, still smoking or quit within 15 years). In the national trial it cut lung cancer deaths by 20% versus chest films. His risk has about halved since quitting.",
+   "lecture": "CV144",
+   "lectures": [
+    "CV144"
+   ]
+  },
+  {
+   "name": "Non-small cell lung cancer, stage I-IIIA (resectable)",
+   "presentation": "A 68-year-old woman with 35 pack-years had a CT-guided biopsy of a 2.8-cm peripheral left upper lobe mass: non-small cell carcinoma. She walks 2 miles a day; no headache, bone pain or weight loss. Calcium, alkaline phosphatase, AST, ALT and bilirubin normal.",
+   "workup": "Chest CT through the liver and adrenals and whole-body PET-CT: uptake only in the mass, no hilar or mediastinal nodes, no distant deposits; brain MRI clear. FEV1 2.1 L, DLCO 72% predicted.",
+   "management": "Curative intent: lobectomy (open or VATS), the standard when FEV1 is above 1.5 L and DLCO above 60%, with or without adjuvant chemotherapy. Wedge resection if lobectomy is not tolerated; chemoradiation if surgery is impossible.",
+   "lecture": "CV144",
+   "lectures": [
+    "CV144"
+   ]
+  },
+  {
+   "name": "Non-small cell lung cancer, stage IV",
+   "presentation": "A 64-year-old man with 45 pack-years has 2 months of cough and 6-kg weight loss, then 2 weeks of morning headaches and a seizure. Afebrile; mild right hand weakness. Brain MRI: several enhancing round lesions at the gray-white junction. CT: 4-cm left upper lobe mass.",
+   "workup": "Bronchoscopic biopsy of the lung mass: non-small cell carcinoma; tissue sent for tumor marker testing. Staging CT: a 3-cm right adrenal mass; skeletal scintigraphy: uptake in two ribs; alkaline phosphatase raised.",
+   "management": "Distant spread means palliative, symptom-oriented intent, not surgery. Targeted therapy if tumor markers are positive (EGFR or ALK tyrosine kinase inhibitor); bring in palliative care early, which lengthened survival in a trial.",
+   "lecture": "CV144",
+   "lectures": [
+    "CV144"
+   ],
+   "avoid": [
+    "Lung adenocarcinoma"
+   ]
+  }
+ ]
+}

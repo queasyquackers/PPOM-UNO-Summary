@@ -1,0 +1,59 @@
+{
+ "correlates": [
+  {
+   "name": "Ventilator-associated pneumonia",
+   "presentation": "67-year-old man with asthma, intubated in the ICU for respiratory failure. At 72 hours he spikes T 38.6 C (101.5 F), needs FiO2 raised from 0.4 to 0.7, and thick yellow secretions are suctioned from the endotracheal tube. HR 112, BP 104/62; coarse crackles in both lungs.",
+   "workup": "WBC 20,000/uL with 80% neutrophils (against a viral cause); chest film: new bilateral infiltrates. Endotracheal aspirate or BAL: gram-positive cocci in clusters, catalase- and coagulase-positive. Cultures sent before antibiotics.",
+   "management": "Blood and lower-airway cultures, then empiric antibiotics at once by the hospital antibiogram: vancomycin or linezolid plus an antipseudomonal agent; de-escalate early. Prevent: head of bed 30-45 degrees, less sedation, early extubation.",
+   "lecture": "CV139",
+   "lectures": [
+    "CV139",
+    "CV140",
+    "CV132"
+   ]
+  },
+  {
+   "name": "Hospital-acquired pneumonia, not ventilated",
+   "presentation": "55-year-old woman with COPD who had IV antibiotics for a UTI 6 weeks ago, admitted for a COPD flare and never intubated. At 56 hours: new fever, purulent sputum and falling saturation. T 38.9 C, HR 110, RR 28, BP 86/52, SpO2 86%; crackles and dullness at the right base.",
+   "workup": "Admission film clear; now a new right lower lobe infiltrate. WBC 17,800/uL, mostly neutrophils. Sputum Gram stain: gram-negative rods plus gram-positive cocci in clusters. Blood and sputum cultures taken before antibiotics.",
+   "management": "Cultures, then broad empiric cover at once because IV antibiotics within 90 days raise multidrug-resistance risk: vancomycin plus imipenem plus an aminoglycoside in shock; narrow as soon as cultures and the patient allow.",
+   "lecture": "CV139",
+   "lectures": [
+    "CV139",
+    "CV132",
+    "CV140"
+   ]
+  },
+  {
+   "name": "Empyema",
+   "presentation": "70-year-old man on day 10 of antibiotics for right lower lobe pneumonia, still spiking fevers to 39.2 C with right-sided pain on breathing in and a 3-kg weight loss. HR 106, RR 24, SpO2 93%; dullness, absent breath sounds and reduced fremitus over the right lower chest.",
+   "workup": "Chest film: right pleural collection with a straight horizontal air-fluid line reaching the chest wall. Thoracentesis: thick, opaque pus full of neutrophils, with bacteria on Gram stain.",
+   "lecture": "CV139",
+   "lectures": [
+    "CV139"
+   ]
+  },
+  {
+   "name": "Pneumocystis pneumonia in HIV",
+   "presentation": "38-year-old man with HIV who stopped his medicines 2 years ago. Three weeks of slowly increasing breathlessness on exertion, dry cough and low fevers. T 38.1 C, HR 104, RR 28, SpO2 92% at rest falling to 84% after a short walk; lungs nearly clear.",
+   "workup": "CD4 140/uL. Chest film: diffuse bilateral hazy interstitial opacities. Induced sputum or BAL: small round cysts on silver or fluorescent-antibody stain; the organism cannot be cultured. Biopsy: foamy alveolar exudate, plasma cells.",
+   "management": "TMP-SMX (pentamidine if intolerant); restore immunity with antiretroviral therapy; prophylaxis with TMP-SMX (dapsone as an alternative) whenever CD4 is under 200.",
+   "lecture": "CV137",
+   "lectures": [
+    "CV137",
+    "CV132",
+    "CV128"
+   ]
+  },
+  {
+   "name": "Chronic mucocutaneous candidiasis",
+   "presentation": "7-year-old with painless white plaques coating the tongue and cheeks on and off since infancy, thick crumbling fingernails and red scaly patches in the skin folds, each returning after every topical course. T 36.8 C; growth normal; never had a bloodstream or deep infection.",
+   "workup": "Scrapings: budding yeasts with pseudohyphae. HIV test negative. Genetic testing: mutation disrupting IL-17 signaling.",
+   "management": "Topical nystatin or an azole for the mouth and skin, oral azoles for the nails; expect recurrences, since the IL-17 defect persists.",
+   "lecture": "CV137",
+   "lectures": [
+    "CV137"
+   ]
+  }
+ ]
+}

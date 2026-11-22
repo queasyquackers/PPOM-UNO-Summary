@@ -1,0 +1,48 @@
+{
+ "correlates": [
+  {
+   "name": "Emphysema-predominant COPD",
+   "presentation": "A 64-year-old woman with 50 pack-years has 3 years of progressive exertional dyspnea, little cough or sputum and 8-kg weight loss. Thin, breathes out slowly through pursed lips, uses neck muscles; quiet breath sounds, prolonged expiration. SpO2 93%; PaCO2 38 mmHg.",
+   "workup": "Post-bronchodilator FEV1/FVC 0.52, FEV1 45% predicted, TLC 125%, RV 180%, DLCO 40%. Film: flattened diaphragms, widened rib spaces, hyperlucent lungs, long narrow heart; CT: upper-lobe loss of tissue around the central acinus.",
+   "management": "Stop smoking; one long-acting bronchodilator (LABA or LAMA), or LABA plus LAMA if symptoms are high or exacerbations frequent; SABA or SAMA for rescue; long-term oxygen if hypoxemic, the only step proven to improve survival.",
+   "lecture": "CV119",
+   "lectures": [
+    "CV119",
+    "CV120"
+   ],
+   "avoid": {
+    "management": [
+     "Chronic bronchitis"
+    ],
+    "presentation": [
+     "Chronic respiratory acidosis in COPD"
+    ]
+   }
+  },
+  {
+   "name": "Chronic bronchitis",
+   "presentation": "A 58-year-old man with 45 pack-years has coughed up sputum on most days for 4-5 months of every year for the past 3 years, with exertional dyspnea. BMI 33, cyanotic lips, scattered wheezes and coarse crackles, ankle edema. SpO2 87%; hematocrit 56%.",
+   "workup": "Post-bronchodilator FEV1/FVC 0.60, FEV1 55% predicted, no meaningful bronchodilator response. Airway biopsy: enlarged, multiplied submucosal mucous glands filling more than half the wall between epithelium and cartilage.",
+   "lecture": "CV119",
+   "lectures": [
+    "CV119",
+    "CV120"
+   ],
+   "avoid": {
+    "presentation": [
+     "Chronic respiratory acidosis in COPD"
+    ]
+   }
+  },
+  {
+   "name": "Bronchiectasis",
+   "presentation": "A 41-year-old woman with sinus infections since childhood and a heart on the right side on an old film has coughed up a cupful of thick yellow-green sputum daily for 3 years, with repeated chest infections and two bouts of blood-streaked sputum. Clubbing; coarse basal crackles.",
+   "workup": "CT: lower-lobe and lingular bronchi wider than their companion arteries that fail to taper toward the periphery, with thickened walls and mucus plugging; spirometry: FEV1/FVC 0.66.",
+   "management": "For a flare: send a new sputum culture and start empiric antibiotics tailored to the most recent culture, plus airway clearance, a mucoactive agent and oxygen; long-term goal of 2 or fewer exacerbations a year.",
+   "lecture": "CV119",
+   "lectures": [
+    "CV119"
+   ]
+  }
+ ]
+}

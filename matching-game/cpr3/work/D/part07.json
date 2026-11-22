@@ -1,0 +1,66 @@
+{
+ "correlates": [
+  {
+   "name": "Mycoplasma pneumonia",
+   "presentation": "19-year-old army recruit; several in his barracks are coughing. Ten days of gradually worsening headache, malaise, low-grade fever without chills and a dry, persistent cough; still training. T 38.0 C, HR 88, RR 18, SpO2 97%; fine crackles scattered over both lungs.",
+   "workup": "Chest film: patchy bilateral interstitial infiltrates that look worse than the patient. Gram stain: no organisms. Cold agglutinin titer raised; LDH up and haptoglobin low (IgM-driven hemolysis). Pleural effusion in 10-20%.",
+   "management": "Macrolide (azithromycin), doxycycline or a fluoroquinolone; beta-lactams fail because the organism has no cell wall. Macrolides are the choice in pregnancy and children. Usually self-limited.",
+   "lecture": "CV132",
+   "lectures": [
+    "CV132",
+    "CV130",
+    "CV141",
+    "CV128"
+   ]
+  },
+  {
+   "name": "Klebsiella pneumonia",
+   "presentation": "56-year-old man with diabetes who drinks a fifth of vodka daily; found passed out 4 days ago. Fever, shortness of breath and cough bringing up thick, sticky, blood-stained sputum. T 39.1 C, HR 112, RR 28, SpO2 89%; dullness and bronchial breath sounds at the right apex.",
+   "workup": "Chest film: dense right upper lobe consolidation with an early cavity. Sputum Gram stain: plump gram-negative rods with thick capsules; culture: mucoid, lactose-fermenting colonies on MacConkey agar. CT may show a liver collection too.",
+   "lecture": "CV130",
+   "lectures": [
+    "CV130",
+    "CV139",
+    "CV141"
+   ]
+  },
+  {
+   "name": "Typical community-acquired pneumonia (outpatient)",
+   "presentation": "Healthy 41-year-old teacher; no recent hospital stay or antibiotics. Three days of fever, cough with yellow sputum and left-sided pain on deep breaths. T 38.4 C, HR 96, RR 20, BP 124/78, SpO2 96%; eating and drinking; dullness, crackles and loud breath sounds at the left base.",
+   "workup": "Chest film: left lower lobe consolidation (CT only if the film is unclear). Sputum Gram stain and culture rarely done; blood cultures are reserved for admitted patients; no organism identified in most cases.",
+   "management": "Treat at home with amoxicillin, doxycycline or a macrolide. With heart, lung or kidney disease, cancer treatment or alcoholism: amoxicillin-clavulanate or a cephalosporin plus a macrolide, or a respiratory fluoroquinolone.",
+   "lecture": "CV141",
+   "lectures": [
+    "CV141",
+    "CV132"
+   ],
+   "avoid": [
+    "Pneumococcal pneumonia"
+   ]
+  },
+  {
+   "name": "Aspiration pneumonia",
+   "presentation": "74-year-old man 2 months after a left-hemisphere stroke; coughs and chokes when he drinks, and vomited during an upper endoscopy 3 days ago. Now fever, tachypnea and cough with purulent sputum. T 38.7 C, HR 104, RR 26, SpO2 90%; coarse crackles and dullness at the right base.",
+   "workup": "Chest film: right lower lobe infiltrate (the right main bronchus is steeper). Sputum culture: more than one organism, aerobes outnumbering anaerobes, mixed oral flora. Early chemical injury from gastric acid, then bacterial infection.",
+   "management": "Blood and sputum cultures, then anaerobic coverage: clindamycin, amoxicillin-clavulanate, or metronidazole plus a beta-lactam. Prevent: speech and swallow evaluation, head of bed at 30-45 degrees, minimal sedation, oral care.",
+   "lecture": "CV139",
+   "lectures": [
+    "CV139",
+    "CV132",
+    "CV141"
+   ]
+  },
+  {
+   "name": "Lung abscess",
+   "presentation": "58-year-old man with heavy drinking, badly decayed teeth and a blackout 3 weeks ago. Two weeks of fever, cough with large amounts of foul-smelling purulent sputum, chest pain and a 4-kg weight loss. T 38.4 C, HR 100, SpO2 94%; finger clubbing; crackles over the right upper back.",
+   "workup": "Chest film: 5-cm thick-walled cavity with an air-fluid level in the right upper lobe. Sputum: mixed oral anaerobes; acid-fast smear negative. Biopsy: suppurative destruction around the cavity; a fibrotic rim means chronicity.",
+   "management": "Prolonged antibiotics with anaerobic coverage (clindamycin, amoxicillin-clavulanate, or metronidazole + a beta-lactam), effective in most. In an older patient, rule out an underlying carcinoma (found in 10-15%).",
+   "lecture": "CV132",
+   "lectures": [
+    "CV132",
+    "CV139",
+    "CV141"
+   ]
+  }
+ ]
+}

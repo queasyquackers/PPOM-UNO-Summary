@@ -1,0 +1,64 @@
+{
+ "glomerular": [
+  {
+   "name": "Minimal change disease",
+   "lightMicro": "Glomeruli look normal on PAS: thin capillary walls, open loops, normal mesangium; fat stains are positive in glomeruli and tubular cells",
+   "immunofluor": "Negative for every immunoglobulin and complement component",
+   "electronMicro": "Foot processes swollen and fused into one continuous sheet; GBM and endothelium normal; no electron-dense deposits",
+   "clue": "Most common nephrotic cause in children; follows a URI or vaccination (also NSAIDs, Hodgkin lymphoma); albumin is the main protein lost; normal BP; prompt steroid response",
+   "lecture": "CV148",
+   "lectures": [
+    "CV148",
+    "CV147",
+    "CV161",
+    "CV155"
+   ]
+  },
+  {
+   "name": "Focal segmental glomerulosclerosis",
+   "lightMicro": "Only some glomeruli are involved, and in each only part of the tuft is scarred, with glassy eosinophilic hyaline deposits; the rest of the tuft looks normal",
+   "immunofluor": "Usually negative; nonspecific IgM and C3 trapped only in the scarred parts of the tuft",
+   "electronMicro": "Diffuse foot process effacement with podocyte degeneration and detachment; no electron-dense deposits",
+   "clue": "Most common adult nephrotic cause in the US; Black and Hispanic adults; IV heroin, sickle cell disease, severe obesity; hypertension and microscopic hematuria; poor steroid response",
+   "lecture": "CV148",
+   "lectures": [
+    "CV148",
+    "CV147"
+   ]
+  },
+  {
+   "name": "Collapsing FSGS (HIV-associated)",
+   "lightMicro": "PAS: the glomerular tuft is shrunken and retracted with its capillary loops closed, capped by enlarged, crowded podocytes and parietal epithelial cells",
+   "clue": "Untreated HIV infection, or certain drugs and microvascular injury; heavy proteinuria; the worst prognosis of the podocyte-scarring lesions",
+   "lecture": "CV148",
+   "lectures": [
+    "CV148"
+   ]
+  },
+  {
+   "name": "Membranous nephropathy",
+   "lightMicro": "Capillary walls diffusely and uniformly thickened with no increase in cells; silver stain shows GBM projections between the deposits",
+   "immunofluor": "Discrete granular IgG and C3 evenly outlining the capillary loops",
+   "electronMicro": "Subepithelial electron-dense deposits along the whole GBM, with new basement membrane projecting up between them; foot processes effaced",
+   "clue": "Men 30-50 (2:1); IgG against the phospholipase A2 receptor in 70% of primary cases; secondary to NSAIDs, captopril, hepatitis B/C, lung or colon cancer, lupus; renal vein thrombosis",
+   "lecture": "CV148",
+   "lectures": [
+    "CV148",
+    "CV147",
+    "CV155"
+   ]
+  },
+  {
+   "name": "Diabetic nephropathy",
+   "lightMicro": "Round PAS- and trichrome-positive nodules of mesangial matrix; afferent and efferent arteriolar walls replaced by glassy hyaline; thickened GBM",
+   "immunofluor": "Nonspecific staining, with no granular or linear immune pattern",
+   "electronMicro": "Markedly thickened, homogeneous GBM that has lost its separate lamina densa and lamina lucida; foot process effacement",
+   "clue": "Long-standing poorly controlled type 1 (age 15-25) or type 2 diabetes; microalbuminuria first, then heavy proteinuria; retinopathy and hypertension; top cause of chronic renal failure in the US",
+   "lecture": "CV148",
+   "lectures": [
+    "CV148",
+    "CV147"
+   ]
+  }
+ ]
+}

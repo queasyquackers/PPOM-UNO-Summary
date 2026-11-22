@@ -1,0 +1,10 @@
+[
+ {"cat": "correlates", "name": "Tuberous sclerosis", "field": "presentation",
+  "value": "4-year-old boy whose mother felt a lump in his belly. Exam: pale oval patches on his back, small red papules over his nose and cheeks, a firm left flank mass. BP 104/66. Ultrasound: bright, echogenic masses in both kidneys."},
+ {"cat": "correlates", "name": "Angiomyolipoma", "field": "avoid",
+  "value": {"workup": ["Tuberous sclerosis"]}},
+ {"cat": "correlates", "name": "Clear cell renal cell carcinoma", "field": "presentation",
+  "value": "58-year-old man, 40 pack-years: painless visible hematuria and dull left flank pain, with 4 kg weight loss. New left scrotal varicocele. BP 150/92. Hb 18.9 g/dL, calcium 9.4 mg/dL."},
+ {"cat": "correlates", "name": "Clear cell renal cell carcinoma", "field": "avoid",
+  "value": {"workup": ["Von Hippel-Lindau syndrome"]}}
+]

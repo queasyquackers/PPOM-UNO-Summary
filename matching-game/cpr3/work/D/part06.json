@@ -1,0 +1,62 @@
+{
+ "correlates": [
+  {
+   "name": "Pneumococcal pneumonia",
+   "presentation": "36-year-old man whose spleen was removed after a car crash. Sudden onset this morning of shaking chills, fever, cough with thick purulent sputum and right chest pain on breathing in. T 39.8 C, HR 116, RR 26, SpO2 91%; dullness, loud breath sounds and a rub at the right base.",
+   "workup": "Chest film: dense consolidation filling one whole lobe. Sputum Gram stain: gram-positive lancet-shaped diplococci in pairs; urine antigen test positive; blood cultures grow alpha-hemolytic, optochin-sensitive colonies.",
+   "management": "Admit, draw blood cultures, start a beta-lactam plus a macrolide, then narrow to targeted therapy - most are afebrile within 2-3 days. Vaccinate against the encapsulated organism (no spleen); repeat in 5 years or at 65.",
+   "lecture": "CV130",
+   "lectures": [
+    "CV130",
+    "CV132",
+    "CV141"
+   ]
+  },
+  {
+   "name": "Streptococcal pharyngitis",
+   "presentation": "8-year-old in March with 1 day of severe sore throat and fever; no cough, runny nose or red eyes. T 39.0 C, HR 118; swollen red tonsils with white exudate, tender enlarged anterior cervical nodes; uvula midline; lungs clear.",
+   "workup": "FACE score 4 of 4 (fever > 100.4 F, anterior adenopathy, no cough, tonsillar exudate). Rapid antigen test positive; throat culture: beta-hemolytic, bacitracin-sensitive colonies on blood agar.",
+   "management": "Score 4: penicillin without testing (erythromycin if allergic); 2-3: test, treat if positive; 0-1: symptom care, no test. Treat to prevent abscess, rheumatic heart disease and GN; a positive swab without symptoms is not treated.",
+   "lecture": "CV141",
+   "lectures": [
+    "CV141",
+    "CV130"
+   ]
+  },
+  {
+   "name": "Epiglottitis",
+   "presentation": "4-year-old, arrived from abroad last month, never vaccinated. Six hours of high fever and severe sore throat; now drooling, refusing to swallow, sitting upright with the head pushed forward. T 39.8 C, HR 150, RR 32, SpO2 93%; muffled voice, soft inspiratory stridor; little cough.",
+   "workup": "Lateral neck film: a rounded supraglottic soft-tissue swelling filling the air space above the larynx. Direct view in the OR: bright red, edematous supraglottic tissue. Blood culture: gram-negative coccobacilli growing on chocolate agar.",
+   "management": "Secure the airway at once, usually by endotracheal intubation, before anything that might upset the child; then IV ampicillin-sulbactam, cefuroxime or ceftriaxone (TMP-SMX if penicillin-allergic). Prevented by the type b conjugate vaccine.",
+   "lecture": "CV141",
+   "lectures": [
+    "CV141",
+    "CV130"
+   ]
+  },
+  {
+   "name": "Pertussis",
+   "presentation": "9-year-old fully vaccinated as an infant. Two weeks of runny nose and low fever, then 3 weeks of coughing fits: 15-20 rapid coughs in one breath, then a loud high-pitched gasp on breathing in and often vomiting. T 37.2 C, RR 18, SpO2 98%; lungs clear between fits.",
+   "workup": "WBC 26,000/uL with 78% lymphocytes; chest film clear; nasopharyngeal swab PCR positive (the organism grows only on a special selective medium).",
+   "management": "Macrolide (azithromycin) to kill the organism and limit spread, but the toxins drive the illness, so the cough runs its course; supportive care, especially in infants. Prevention: DTaP for children, Tdap boosters.",
+   "lecture": "CV130",
+   "lectures": [
+    "CV130",
+    "CV138",
+    "CV128"
+   ]
+  },
+  {
+   "name": "Legionella pneumonia",
+   "presentation": "64-year-old man who smokes and drinks daily, back 5 days from a hotel convention where several attendees fell ill. Three days of high fever, dry cough, watery non-bloody diarrhea and new confusion. T 39.6 C, HR 96, RR 26, SpO2 90%; scattered crackles in both lungs.",
+   "workup": "Na+ 126 mEq/L. Chest film: patchy interstitial infiltrates. Sputum Gram stain: neutrophils, organisms barely stain. Urine antigen test positive. Culture needs charcoal yeast extract with iron and cysteine.",
+   "management": "Macrolide (azithromycin) or a fluoroquinolone (levofloxacin); beta-lactams alone miss it. No person-to-person spread, so no isolation; the source is building water (cooling towers, air conditioning).",
+   "lecture": "CV130",
+   "lectures": [
+    "CV130",
+    "CV141",
+    "CV138"
+   ]
+  }
+ ]
+}

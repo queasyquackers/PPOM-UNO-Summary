@@ -1,0 +1,95 @@
+{
+ "drugs": [
+  {
+   "name": "Tecovirimat",
+   "groups": [
+    "Antivirals"
+   ],
+   "mechanism": "Inhibits an orthopoxvirus envelope protein needed for the release of new virions from infected cells",
+   "use": "FDA-approved for smallpox; used off-label for severe mpox alongside supportive care and pain control",
+   "lecture": "CV138",
+   "lectures": [
+    "CV138"
+   ]
+  },
+  {
+   "name": "Vancomycin",
+   "groups": [
+    "Antimicrobials"
+   ],
+   "mechanism": "Glycopeptide that binds the D-alanine-D-alanine end of peptidoglycan precursors, blocking cell wall polymer assembly after the alanine racemase step; resistance now seen in E. faecium and some S. aureus",
+   "use": "IV for MRSA, including MRSA HAP/VAP; given orally, with fidaxomicin as the other first-line choice, for C. difficile colitis; with imipenem and an aminoglycoside for severe HAP",
+   "lecture": "CV138",
+   "lectures": [
+    "CV138",
+    "CV139",
+    "CV128"
+   ]
+  },
+  {
+   "name": "Trimethoprim-sulfamethoxazole (TMP-SMX)",
+   "groups": [
+    "Antimicrobials"
+   ],
+   "mechanism": "Sequential folate blockade: the sulfonamide (a PABA analog) inhibits dihydropteroate synthase and its partner inhibits dihydrofolate reductase, so no tetrahydrofolate for DNA synthesis",
+   "use": "3 days for uncomplicated cystitis (10-14 if complicated); drug of choice for Pneumocystis pneumonia; sinusitis or epiglottitis in penicillin allergy or suspected S. aureus",
+   "lecture": "CV153",
+   "lectures": [
+    "CV153",
+    "CV137",
+    "CV141",
+    "CV136",
+    "CV128"
+   ]
+  },
+  {
+   "name": "Penicillin and aminopenicillins (amoxicillin, ampicillin)",
+   "groups": [
+    "Antimicrobials"
+   ],
+   "mechanism": "Beta-lactams that inhibit the transpeptidases (PBPs) cross-linking peptidoglycan; useless against wall-less Mycoplasma and against MRSA's mecA-encoded PBP2a; clavulanate added against beta-lactamase",
+   "use": "Strep pharyngitis with 4 Centor points (no test needed); first-line bacterial sinusitis and healthy-outpatient CAP; 7 days for bacteriuria in pregnancy; E. faecalis; neonatal UTI with gentamicin",
+   "lecture": "CV141",
+   "lectures": [
+    "CV141",
+    "CV153",
+    "CV139",
+    "CV140",
+    "CV160",
+    "CV130",
+    "CV131"
+   ]
+  },
+  {
+   "name": "Third-generation cephalosporins (ceftriaxone, cefotaxime)",
+   "groups": [
+    "Antimicrobials"
+   ],
+   "mechanism": "Beta-lactam transpeptidase (PBP) inhibitors with broad gram-negative reach; resistance now spreading in E. coli, K. pneumoniae and gonococci; no activity against MRSA, and enterococci are resistant",
+   "use": "Empiric bacterial meningitis; IM dose for gonorrhea; febrile infant UTI (IM or IV); epiglottitis; inpatient CAP with a macrolide; acute pyelonephritis",
+   "lecture": "CV141",
+   "lectures": [
+    "CV141",
+    "CV128",
+    "CV138",
+    "CV140",
+    "CV153",
+    "CV160"
+   ]
+  },
+  {
+   "name": "Carbapenems (imipenem, meropenem)",
+   "groups": [
+    "Antimicrobials"
+   ],
+   "mechanism": "Broadest beta-lactams (ring fused to a distinct bicyclic nucleus); Enterobacterales resist via efflux, lower outer-membrane permeability and, above all, KPC, NDM and VIM beta-lactamases that clavulanate barely blocks",
+   "use": "Last-resort agents for resistant Klebsiella, E. coli and Pseudomonas; antipseudomonal choice for HAP/VAP; kept in combination regimens for resistant Enterobacterales when the MIC is 4 or less",
+   "lecture": "CV138",
+   "lectures": [
+    "CV138",
+    "CV139",
+    "CV153"
+   ]
+  }
+ ]
+}

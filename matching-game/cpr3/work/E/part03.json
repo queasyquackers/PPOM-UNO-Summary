@@ -1,0 +1,101 @@
+{
+ "glomerular": [
+  {
+   "name": "Anti-GBM disease (Goodpasture syndrome)",
+   "lightMicro": "Acute GN with crescents filling Bowman's space: fibrin, parietal epithelial cells, monocytes and macrophages compressing the tuft",
+   "immunofluor": "Smooth, continuous linear IgG with C3 tracing every glomerular basement membrane",
+   "electronMicro": "No electron-dense deposits; GBM wrinkled with focal breaks in its continuity",
+   "clue": "Men in their late 20s; IgG against the NC1 domain of the alpha-3 chain of type IV collagen in glomerular and lung capillaries; hemoptysis first, then renal failure; plasmapheresis",
+   "lecture": "CV149",
+   "lectures": [
+    "CV149",
+    "CV147"
+   ],
+   "avoid": {
+    "lightMicro": [
+     "Granulomatosis with polyangiitis"
+    ],
+    "electronMicro": [
+     "Granulomatosis with polyangiitis"
+    ]
+   }
+  },
+  {
+   "name": "Granulomatosis with polyangiitis",
+   "lightMicro": "Crescents in Bowman's space alongside necrotizing inflammation of small vessels packed with neutrophils; silver stain shows gaps where the GBM is destroyed",
+   "immunofluor": "Little or no immunoglobulin or complement staining despite active crescents",
+   "electronMicro": "No immune deposits; fragmented GBM with wrinkling and focal ruptures",
+   "clue": "Childhood to middle age; PR3 (cytoplasmic) ANCA; recurrent sinusitis, epistaxis, nasal septal perforation or a collapsed nasal bridge, hemoptysis, lung infarcts",
+   "lecture": "CV149",
+   "lectures": [
+    "CV149",
+    "CV147"
+   ],
+   "avoid": {
+    "lightMicro": [
+     "Anti-GBM disease (Goodpasture syndrome)"
+    ],
+    "electronMicro": [
+     "Anti-GBM disease (Goodpasture syndrome)"
+    ]
+   }
+  },
+  {
+   "name": "Lupus nephritis, class I-II",
+   "lightMicro": "Glomeruli normal or showing only increased mesangial cells; capillary walls thin, no crescents",
+   "immunofluor": "Granular mesangial IgG, IgA, IgM, C3 and C1q - all five major stains positive",
+   "electronMicro": "Electron-dense deposits confined to the mesangium",
+   "clue": "Young woman with ANA and anti-dsDNA, low C3 and C4; mild hematuria or proteinuria while renal function is still preserved",
+   "lecture": "CV149",
+   "lectures": [
+    "CV149"
+   ],
+   "avoid": {
+    "electronMicro": [
+     "IgA nephropathy"
+    ],
+    "lightMicro": [
+     "IgA nephropathy",
+     "Minimal change disease",
+     "Thin basement membrane disease"
+    ]
+   }
+  },
+  {
+   "name": "Lupus nephritis, class III-IV",
+   "lightMicro": "H&E: capillary walls thick, rigid and rounded with amorphous hyaline material; mesangial and endocapillary hypercellularity and crescents, in some or nearly all glomeruli",
+   "immunofluor": "Large granular chunks of IgG, IgA, IgM, C3 and C1q along the capillary loops and in the mesangium",
+   "electronMicro": "Subendothelial electron-dense deposits just beneath the endothelium lining the lumen, plus mesangial deposits",
+   "clue": "Woman aged 15-44 with a facial rash, arthralgias and fatigue; ANA and anti-dsDNA positive; low C3 and C4; RBC casts, Cr 2.0; raised risk of progressing to end-stage disease",
+   "lecture": "CV149",
+   "lectures": [
+    "CV149"
+   ],
+   "avoid": {
+    "electronMicro": [
+     "Membranoproliferative GN type I"
+    ]
+   }
+  },
+  {
+   "name": "Lupus nephritis, class V",
+   "lightMicro": "Uniform GBM thickening without any increase in glomerular cells",
+   "immunofluor": "Granular IgG, IgA, IgM, C3 and C1q, all five positive, outlining the GBM",
+   "electronMicro": "Subepithelial electron-dense deposits along the outer GBM",
+   "clue": "Woman with a known anti-dsDNA-positive multisystem autoimmune disease (low C3 and C4) who develops leg edema and foamy urine with nephrotic-range proteinuria",
+   "lecture": "CV149",
+   "lectures": [
+    "CV149",
+    "CV148"
+   ],
+   "avoid": {
+    "lightMicro": [
+     "Membranous nephropathy"
+    ],
+    "electronMicro": [
+     "Membranous nephropathy"
+    ]
+   }
+  }
+ ]
+}

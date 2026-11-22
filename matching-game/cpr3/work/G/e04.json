@@ -1,0 +1,11 @@
+[
+ {"cat": "correlates", "name": "Solitary pulmonary nodule, low probability (<4 mm)", "set": {
+  "management": "No follow-up CT is needed. The same spot in a high-risk patient (smoker, over 40, family history, workplace fiber exposure) may get a repeat CT at 12 months."}},
+ {"cat": "correlates", "name": "Non-small cell lung cancer, stage I-IIIA (resectable)", "set": {
+  "presentation": "A 68-year-old woman with 35 pack-years had a CT-guided biopsy of a 2.8-cm peripheral left upper lobe mass: malignant cells with ample cytoplasm and no nuclear molding. She walks 2 miles a day; no headache, bone pain or weight loss. Calcium, ALP, AST, ALT and bilirubin normal."}},
+ {"cat": "correlates", "name": "Non-small cell lung cancer, stage IV", "set": {
+  "workup": "Bronchoscopic biopsy of the lung mass: malignant cells with ample cytoplasm and no nuclear molding; tissue sent for tumor marker testing. Staging CT: a 3-cm right adrenal mass; skeletal scintigraphy: uptake in two ribs; alkaline phosphatase raised.",
+  "lectures": ["CV144", "CV142"]}},
+ {"cat": "correlates", "name": "Small cell lung cancer, limited disease", "set": {
+  "management": "Curative intent, usually without surgery: polychemotherapy (cisplatin and etoposide) plus chest radiation, then prophylactic cranial irradiation if the tumor responds to the first chemotherapy."}}
+]

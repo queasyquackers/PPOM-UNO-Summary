@@ -1,0 +1,4 @@
+[
+ {"cat":"drugs","name":"Montelukast","set":{"mechanism":"Blocks leukotriene receptors, countering the leukotriene rise that follows COX-1 inhibition (less PGE2, more leukotrienes, mucosal edema)","use":"Asthma with nasal polyps that worsens 20 minutes to 3 hours after taking aspirin or other NSAIDs"}},
+ {"cat":"drugs","name":"Systemic corticosteroids (prednisone)","set":{"lectures":["CV121","CV119","CV117","CV116","CV126","CV137","CV139"]}}
+]

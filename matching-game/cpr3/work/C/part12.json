@@ -1,0 +1,55 @@
+{
+ "correlates": [
+  {
+   "name": "Tension pneumothorax",
+   "presentation": "A 31-year-old man on a ventilator after a motorcycle crash with right rib injuries suddenly becomes hypotensive: BP 76/40, HR 138, SpO2 80%, peak airway pressure up sharply. Right breath sounds absent, right chest hyperresonant, trachea deviated to the left, neck veins distended.",
+   "workup": "Frontal film: thin white line along the right chest with no lung markings beyond it and dark spaces between the right ribs; collapsed lung sits medially, and the heart is pushed wholly into the left chest, none of it right of the spine.",
+   "management": "Needle decompression at once, then a chest tube; do not wait for imaging when the patient is in shock.",
+   "lecture": "CV146",
+   "lectures": [
+    "CV146"
+   ]
+  },
+  {
+   "name": "Primary spontaneous pneumothorax",
+   "presentation": "A 22-year-old man with no lung disease felt sudden sharp left chest pain and breathlessness while sitting at his desk. HR 96, BP 124/78, RR 20, SpO2 95%. Left breath sounds reduced, left chest hyperresonant, trachea midline.",
+   "workup": "Upright frontal film: thin white line paralleling the left chest wall with no lung markings beyond it and darker spaces between the left ribs; heart and trachea in normal position. Cause: a ruptured apical bleb.",
+   "lecture": "CV146",
+   "lectures": [
+    "CV146"
+   ]
+  },
+  {
+   "name": "Anterior pneumothorax in a supine patient",
+   "presentation": "An intubated 45-year-old with several rib injuries after a fall can only be imaged lying flat in the trauma bay. BP 118/72, HR 104, SpO2 falling from 98% to 93% on FiO2 0.5; left chest slightly hyperresonant with softer breath sounds; trachea midline.",
+   "workup": "Frontal film taken lying flat: no thin pleural line, but the left costophrenic angle runs far deeper and darker than the right, with extra lucency over the left lung base and upper abdomen and no lung markings between the left lower ribs.",
+   "lecture": "CV146",
+   "lectures": [
+    "CV146"
+   ],
+   "avoid": {
+    "presentation": [
+     "Rib fractures with pulmonary contusion"
+    ]
+   }
+  },
+  {
+   "name": "Pneumomediastinum",
+   "presentation": "A 24-year-old, 2 days after a ruptured right pneumothorax was drained, develops central chest pain that runs up into his neck and worsens with deep breaths; no swelling of the face or chest wall. HR 98, BP 126/80, SpO2 96%, both lungs expanded on exam.",
+   "workup": "Frontal film: thin lucent stripe outlining the heart with a fine white line lifted off it, running up into the neck as parallel gas streaks; gas crosses beneath the heart from one hemidiaphragm to the other. CT: mediastinum lifted by gas.",
+   "lecture": "CV146",
+   "lectures": [
+    "CV146"
+   ]
+  },
+  {
+   "name": "Severe subcutaneous emphysema",
+   "presentation": "A 45-year-old with a left chest tube for a traumatic pneumothorax develops swelling of the chest wall, neck and face over 12 hours until his eyes are puffed shut. The skin crackles under the fingers from the eyelids to the abdomen. BP 130/82, SpO2 94%.",
+   "workup": "Frontal film: gas density throughout the soft tissues of the chest wall, neck and axillae, separating the fibres of the pectoral muscles into fine white streaks; the tubes and lines are a distraction from this finding.",
+   "lecture": "CV146",
+   "lectures": [
+    "CV146"
+   ]
+  }
+ ]
+}

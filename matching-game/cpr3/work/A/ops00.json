@@ -1,0 +1,5 @@
+[
+ {"cat":"drugs","name":"Sodium bicarbonate","set":{"groups":["Acid-base"]}},
+ {"cat":"drugs","name":"Acetazolamide","set":{"groups":["Acid-base"]}},
+ {"cat":"drugs","name":"Fomepizole","set":{"groups":["Acid-base"]}}
+]

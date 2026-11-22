@@ -1,0 +1,8 @@
+[
+ {"cat": "glomerular", "name": "Lupus nephritis, class I-II", "field": "immunofluor",
+  "value": "Granular IgG, IgA, IgM, C3 and C1q confined to the mesangium"},
+ {"cat": "glomerular", "name": "Lupus nephritis, class V", "field": "immunofluor",
+  "value": "Granular IgG, IgA, IgM, C3 and C1q evenly outlining the GBM"},
+ {"cat": "glomerular", "name": "Minimal change disease", "field": "avoid",
+  "value": {"electronMicro": ["Focal segmental glomerulosclerosis"]}}
+]

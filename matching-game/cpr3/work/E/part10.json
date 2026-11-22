@@ -1,0 +1,54 @@
+{
+ "correlates": [
+  {
+   "name": "Ischemic acute tubular injury",
+   "presentation": "58-year-old man, 2 days after a crash with hemorrhagic shock (systolic BP under 80 for 3 hours before transfusion): urine output 250 mL/day despite fluids. BP now 132/78. Creatinine 1.0 rising to 4.6 mg/dL, K 5.9 mEq/L. UA shed epithelial cells and casts.",
+   "workup": "Biopsy (rarely needed): patchy necrosis of short stretches of proximal straight tubule and thick ascending limb with skip areas between; detached cells and casts plug distal tubules and collecting ducts; glomeruli spared",
+   "lecture": "CV155",
+   "lectures": [
+    "CV155"
+   ]
+  },
+  {
+   "name": "Acute drug-induced tubulointerstitial nephritis",
+   "presentation": "52-year-old woman started trimethoprim-sulfamethoxazole for a skin infection 15 days ago: fever, a diffuse red rash and less urine. Temp 100.9 F, BP 128/80. Eosinophils 11%. Creatinine 0.9 rising to 2.8 mg/dL. UA WBCs without bacteria, trace protein.",
+   "workup": "Biopsy: interstitial edema with lymphocytes, macrophages, neutrophils and many eosinophils; leukocytes infiltrating tubule walls (tubulitis), worst in the medulla where the drug concentrates",
+   "management": "Stop the culprit drug at once (sulfonamides, methicillin, ampicillin, rifampin, diuretics, cimetidine are the usual ones) and do not re-expose",
+   "lecture": "CV155",
+   "lectures": [
+    "CV155"
+   ]
+  },
+  {
+   "name": "Chronic pyelonephritis",
+   "presentation": "30-year-old woman, urinary infections since childhood, when a voiding study showed urine rising from the bladder up both ureters. Now asymptomatic; BP 152/96; creatinine 1.0 to 1.7 mg/dL in 3 years. UA 1+ protein, few WBCs, broad casts. Ultrasound: small, scarred right kidney.",
+   "workup": "Imaging: asymmetric kidneys with coarse U-shaped cortical scars over blunted, dilated, deformed calyces. Histology: lymphocytes and monocytes in the interstitium; dilated tubules filled with homogeneous eosinophilic casts",
+   "lecture": "CV155",
+   "lectures": [
+    "CV155",
+    "CV157",
+    "CV160"
+   ]
+  },
+  {
+   "name": "NSAID papillary necrosis",
+   "presentation": "63-year-old woman with knee osteoarthritis has taken high-dose ibuprofen plus naproxen for months; a week of vomiting and poor intake, now visible blood in her urine. Afebrile, no rash, BP 104/66. Eosinophils normal. Creatinine 1.0 rising to 2.7 mg/dL.",
+   "workup": "UA blood, no WBC casts or eosinophils. Pathology: dark, infarcted zones at the tips of the renal papillae with hyperemic borders, from lost vasodilatory prostaglandins and medullary ischemia",
+   "management": "Stop every cyclooxygenase inhibitor, including selective COX-2 drugs, which still harm the COX-2-rich kidney",
+   "lecture": "CV155",
+   "lectures": [
+    "CV155"
+   ]
+  },
+  {
+   "name": "NSAID-induced TIN with minimal change disease",
+   "presentation": "58-year-old man taking naproxen daily for 8 months for back pain: 3 weeks of leg swelling, frothy urine and falling urine output. Afebrile, no rash. BP 132/84. Creatinine 3.2 mg/dL (0.9 last year). UA 4+ protein, WBCs, no RBC casts. 24-h protein 9 g.",
+   "workup": "Biopsy: interstitial edema with lymphocytes and eosinophils and tubulitis; glomeruli normal on light microscopy, IF negative, and EM shows diffuse foot process effacement without deposits",
+   "lecture": "CV155",
+   "lectures": [
+    "CV155",
+    "CV148"
+   ]
+  }
+ ]
+}

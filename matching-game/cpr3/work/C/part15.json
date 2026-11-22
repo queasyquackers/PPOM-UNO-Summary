@@ -1,0 +1,32 @@
+{
+ "correlates": [
+  {
+   "name": "Rib fractures with pulmonary contusion",
+   "presentation": "A 47-year-old driver hit the steering wheel in a high-speed crash. He has sharp left chest wall pain on every breath, bruising and point tenderness over the left 5th-8th ribs, and coughs a little blood. RR 26, HR 112, BP 118/76, SpO2 90%.",
+   "workup": "Film: gaps in the cortex of four adjacent left ribs where they no longer line up, without callus; directly beneath them a patchy white airspace opacity that does not respect lobar borders.",
+   "management": "More than 3 acute rib breaks generally means admission for observation rather than discharge.",
+   "lecture": "CV146",
+   "lectures": [
+    "CV146"
+   ]
+  },
+  {
+   "name": "Hiatal hernia",
+   "presentation": "A 74-year-old woman with fullness after meals has a routine chest film before cataract surgery that shows a round gas-containing structure projecting over the heart. Afebrile, no cough or sputum, WBC 7,200/mm3, lungs clear on exam.",
+   "workup": "Frontal film: inside the round structure over the heart, gas sits above a straight horizontal fluid level with debris; the lateral film places it behind the heart, continuous with the upper abdomen; lungs clear.",
+   "lecture": "CV146",
+   "lectures": [
+    "CV146"
+   ]
+  },
+  {
+   "name": "Pneumoperitoneum",
+   "presentation": "A 62-year-old man had sudden severe upper abdominal pain 6 hours ago that has spread across the whole abdomen. He lies still; the abdomen is rigid with rebound tenderness and absent bowel sounds. T 38.1 C, HR 118, BP 102/64.",
+   "workup": "Upright chest film: a thin curved crescent of gas beneath the right hemidiaphragm, separating it from the top of the liver; on the lateral view the gas sits anteriorly under the diaphragm.",
+   "lecture": "CV146",
+   "lectures": [
+    "CV146"
+   ]
+  }
+ ]
+}

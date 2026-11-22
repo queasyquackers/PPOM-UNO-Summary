@@ -1,0 +1,12 @@
+{"correlates": [
+{"name": "Mumps",
+ "presentation": "19-year-old unvaccinated college student during a dormitory outbreak. Two days of fever, headache, muscle aches, poor appetite and fatigue, then painful swelling in front of and below both ears that lifts the earlobes; today a sore, swollen right testis. T 38.4 C, HR 96.",
+ "workup": "Mostly clinical. Serum IgM positive (new infection; IgG alone would mean past immunity); PCR or viral culture of saliva can confirm.",
+ "management": "Supportive. Keep away from others from 1-2 days before the swelling until 5 days after it (spread by droplets and fomites); reportable to the CDC; watch for testicular atrophy and late meningitis.",
+ "lecture": "CV138", "lectures": ["CV138"]},
+{"name": "Acute viral laryngitis",
+ "presentation": "29-year-old elementary-school teacher who had a runny nose and sore throat 4 days ago, now with sudden hoarseness that has progressed to almost no voice. No stridor, no drooling, no breathing difficulty. T 37.3 C, RR 14, SpO2 99%; mildly red throat; neck supple.",
+ "workup": "Laryngoscopy: red, swollen larynx and vocal folds, both moving normally; no mass.",
+ "management": "Voice rest and a humidifier; antibiotics are rarely needed.",
+ "lecture": "CV141", "lectures": ["CV141"]}
+]}

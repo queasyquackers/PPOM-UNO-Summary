@@ -1,0 +1,56 @@
+{
+ "correlates": [
+  {
+   "name": "Allergic asthma in a young adult",
+   "presentation": "A 23-year-old woman with childhood eczema and spring hay fever has 6 months of episodic wheeze, chest tightness and dry cough that wake her at 3-4 a.m. and follow colds, time with her cat and hard laughing; she is well between bouts. End-expiratory wheeze; RR 20, SpO2 97%.",
+   "workup": "FEV1/FVC 0.64, FEV1 71% predicted; 15 min after albuterol FEV1 rises 18% and 380 mL. DLCO 105%. Blood eosinophils 650/mm3, total IgE raised, skin prick tests positive to cat dander and house dust mite.",
+   "management": "SABA for relief; daily inhaled corticosteroid plus LABA for maintenance. Check adherence and have her demonstrate the inhaler; rinse the mouth after the steroid; encase bedding, wash linens, remove carpets, limit the cat.",
+   "lecture": "CV121",
+   "lectures": [
+    "CV121",
+    "CV119",
+    "CV120"
+   ]
+  },
+  {
+   "name": "Exercise-induced bronchoconstriction",
+   "presentation": "A 17-year-old cross-country runner with no symptoms at rest or at night gets cough, chest tightness and wheeze that start about 10 minutes into winter races in cold, dry air and peak at 20-30 minutes. Exam and resting spirometry normal (FEV1/FVC 0.84).",
+   "workup": "Treadmill challenge raising the heart rate to 80% of maximum for 6 minutes, then FEV1 every 5 minutes for 30 minutes: FEV1 falls 19% from baseline. Resting spirometry and lung volumes normal.",
+   "management": "Longer warm-up, a mask to warm the inspired air, and an inhaled beta-2 agonist before activity (prevents over 80% of episodes); the goal is no limit on any sport. Ask whether the underlying disease is poorly controlled.",
+   "lecture": "CV121",
+   "lectures": [
+    "CV121"
+   ]
+  },
+  {
+   "name": "Aspirin-exacerbated respiratory disease",
+   "presentation": "A 45-year-old woman with adult-onset wheezing and a year of blocked nose and lost sense of smell develops severe wheeze, chest tightness and watery rhinorrhea 40 minutes after ibuprofen for a headache. Smooth, pale, glistening masses fill both nasal passages; SpO2 92%.",
+   "management": "Avoid all NSAIDs and salicylates (COX-1 inhibition shunts arachidonic acid to leukotrienes); add a leukotriene receptor antagonist to her inhaled therapy.",
+   "lecture": "CV121",
+   "lectures": [
+    "CV121",
+    "CV119"
+   ]
+  },
+  {
+   "name": "Occupational asthma",
+   "presentation": "A 34-year-old man who started spray-painting cars in an auto-body shop 8 months ago has new wheeze, chest tightness and cough that build through each shift and cleared during a 2-week vacation; no childhood wheeze or allergies. No fever, no crackles; SpO2 98%.",
+   "workup": "Total IgE normal and skin tests negative to aeroallergens; resting spirometry normal. Methacholine challenge positive (FEV1 falls 24%), and FEV1 falls after supervised exposure to the specific spray agent.",
+   "lecture": "CV121",
+   "lectures": [
+    "CV121"
+   ]
+  },
+  {
+   "name": "Asthma with obesity",
+   "presentation": "A 67-year-old woman who never smoked, BMI 41, has occasional breathlessness and wheeze for 2 years with no workplace, allergy or drug triggers. Lungs clear today; SpO2 96%. FEV1/FVC 0.76, FEV1 72% predicted, TLC 98%; the flow-volume loop is hard to read.",
+   "workup": "Methacholine challenge: FEV1 falls 41% from baseline after five breaths. Sputum and blood show little eosinophilic inflammation; total IgE normal.",
+   "management": "Inhaled bronchodilator; whether weight loss improves control is not established.",
+   "lecture": "CV121",
+   "lectures": [
+    "CV121",
+    "CV120"
+   ]
+  }
+ ]
+}

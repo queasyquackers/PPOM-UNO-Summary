@@ -1,0 +1,69 @@
+{
+ "correlates": [
+  {
+   "name": "Severe obstructive sleep apnea with obesity",
+   "presentation": "A 54-year-old man, BMI 39, neck 18.5 in, is drowsy all day despite 8 hours in bed and dozed at a red light. His wife hears loud snoring broken by silent pauses, then a gasp. BP 164/98 on three drugs; atrial fibrillation hard to control. Large tongue, crowded throat.",
+   "workup": "Overnight study: 46 events/h. Nasal and oral airflow stop for 15-40 s while the chest and abdominal belts keep moving; SpO2 falls 96% to 86% and each event ends in an EEG arousal. No slow-wave (delta) stage, little REM.",
+   "management": "CPAP nightly: room air (not oxygen) under pressure splints the pharynx open, often with a large REM rebound; it can ease resistant BP and AF. Weight loss; tirzepatide is approved for moderate-severe disease with excess weight.",
+   "lecture": "CV145",
+   "lectures": [
+    "CV145"
+   ]
+  },
+  {
+   "name": "Mild obstructive sleep apnea in a slim adult with a small jaw",
+   "presentation": "A 38-year-old woman, BMI 21, with a narrow lower jaw and a chin set well back, has a year of unrefreshing nights, daytime drowsiness and poor concentration. Her partner hears snoring and occasional pauses. BP 118/74; tonsils small, uvula normal.",
+   "workup": "Overnight study: 11 events per hour, each an 11-15 s stop in nose and mouth airflow during continued chest and belly effort, ending in a brief arousal; SpO2 nadir 93%.",
+   "management": "A dentist-made mandibular advancement device that pulls the jaw forward to hold the airway open; it works well in mild, symptomatic disease with a small jaw, poorly in severe disease or marked obesity.",
+   "lecture": "CV145",
+   "lectures": [
+    "CV145"
+   ]
+  },
+  {
+   "name": "Obstructive sleep apnea in a child",
+   "presentation": "A 6-year-old boy's teacher reports poor focus and disruptive behavior in class this year. His parents hear loud snoring every night with pauses in his breathing. Weight 50th percentile. The tonsils are very large and nearly touch in the midline.",
+   "management": "Refer to ENT to remove the enlarged tonsils: in children the cause is usually the tonsils, not weight.",
+   "lecture": "CV145",
+   "lectures": [
+    "CV145"
+   ]
+  },
+  {
+   "name": "Central sleep apnea",
+   "presentation": "A 66-year-old man had a brainstem stroke 3 months ago and has slurred speech. His wife sees long pauses at night in which his chest and belly do not move at all before he breathes again; he wakes unrefreshed. BMI 24, throat not crowded; awake SpO2 96%.",
+   "workup": "Overnight study: repeated 15-25 s pauses in nasal and oral airflow with the chest and abdominal belts flat (no effort), each with SpO2 falling to 87%; no runs of deep, fast breaths before the pauses.",
+   "management": "Treat the underlying neurologic cause; give oxygen as needed. CPAP or BiPAP helps only about 1 in 5, because the airway is open and the drive to breathe is what is missing.",
+   "lecture": "CV145",
+   "lectures": [
+    "CV145"
+   ],
+   "avoid": {
+    "workup": [
+     "Cheyne-Stokes breathing"
+    ],
+    "management": [
+     "Cheyne-Stokes breathing"
+    ]
+   }
+  },
+  {
+   "name": "Cheyne-Stokes breathing",
+   "presentation": "A 58-year-old man with end-stage ischemic heart failure, EF 12%, waits in the hospital at the top of the transplant list. At night nurses see cycles: his breaths become rapid and deep, then stop altogether with no chest movement, then the cycle repeats. BP 92/60.",
+   "workup": "Overnight study: runs of rapid, deep breaths alternating with pauses in which airflow and chest and abdominal effort both stop; SpO2 dips in each pause and CO2 swings low after each run.",
+   "management": "Treat the failing heart, the underlying cause (here, transplant); oxygen as needed. CPAP or BiPAP adds little: slow circulation delays the brain's feedback, so the airway is not the problem.",
+   "lecture": "CV145",
+   "lectures": [
+    "CV145"
+   ],
+   "avoid": {
+    "workup": [
+     "Central sleep apnea"
+    ],
+    "management": [
+     "Central sleep apnea"
+    ]
+   }
+  }
+ ]
+}

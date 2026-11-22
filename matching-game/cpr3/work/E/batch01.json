@@ -1,0 +1,18 @@
+[
+ {"cat": "correlates", "name": "Renal AL amyloidosis", "field": "presentation",
+  "value": "56-year-old woman followed for an M protein on serum electrophoresis, with free light chains in her urine: 2 months of frothy urine and ankle swelling. BP 128/78. UA 4+ protein, no blood. 24-h protein 9 g, albumin 2.0 g/dL."},
+ {"cat": "glomerular", "name": "Renal AL amyloidosis", "field": "clue",
+  "value": "Older adult with an M protein in serum and free light chains in urine; plasma-cell clone, lambda more often than kappa; new nephrotic syndrome"},
+ {"cat": "correlates", "name": "Granulomatosis with polyangiitis", "field": "presentation",
+  "value": "45-year-old woman with 4 months of recurrent sinusitis, bloody nasal crusts and nosebleeds, now coughing blood. Perforated nasal septum. BP 150/92. UA RBC casts, 1+ protein. Creatinine 2.6 mg/dL. No asthma; eosinophils normal."},
+ {"cat": "glomerular", "name": "Granulomatosis with polyangiitis", "field": "clue",
+  "value": "Childhood to middle age; PR3 (cytoplasmic) ANCA; recurrent sinusitis, epistaxis and nasal septal ulcers or perforation, hemoptysis, lung infarcts"},
+ {"cat": "correlates", "name": "Thin basement membrane disease", "field": "management",
+  "value": "No treatment needed: reassure the family that renal function usually stays normal, the outlook is excellent and progression to renal failure is not expected"},
+ {"cat": "glomerular", "name": "Thin basement membrane disease", "field": "lightMicro",
+  "value": "Normal on light microscopy: glomeruli, tubules and interstitium unremarkable, with no extra cells"},
+ {"cat": "glomerular", "name": "Lupus nephritis, class III-IV", "field": "avoid",
+  "value": {"electronMicro": ["Membranoproliferative GN type I"], "immunofluor": ["Lupus nephritis, class V"]}},
+ {"cat": "glomerular", "name": "Lupus nephritis, class V", "field": "electronMicro",
+  "value": "Many subepithelial electron-dense deposits spread evenly along the whole outer surface of the GBM"}
+]

@@ -1,0 +1,58 @@
+{
+ "genes": [
+  {
+   "name": "Alport syndrome",
+   "gene": "COL4A5 mutation (X-linked dominant, about 85%)",
+   "role": "Alpha-5 chain of GBM type IV collagen: underproduction and faulty network assembly; hematuria with hearing loss and eye findings, onset at 5-20 years",
+   "lecture": "CV149",
+   "lectures": [
+    "CV149"
+   ]
+  },
+  {
+   "name": "Alport syndrome",
+   "gene": "COL4A3 mutation (autosomal recessive form)",
+   "role": "Alpha-3 chain of GBM type IV collagen; the less common recessive inheritance of the same hereditary nephritis",
+   "lecture": "CV149",
+   "lectures": [
+    "CV149"
+   ]
+  },
+  {
+   "name": "Thin basement membrane disease",
+   "gene": "COL4A3 or COL4A4 anomaly (autosomal dominant)",
+   "role": "Alpha-3 or alpha-4 collagen chain change gives a diffusely attenuated GBM: familial asymptomatic hematuria, no hearing or eye loss, normal renal function",
+   "lecture": "CV149",
+   "lectures": [
+    "CV149"
+   ]
+  },
+  {
+   "name": "Thrombotic thrombocytopenic purpura",
+   "gene": "ADAMTS13 mutation (inherited; less common than autoantibody)",
+   "role": "Metalloproteinase that trims von Willebrand factor multimers; most cases are acquired autoantibodies, treated with plasma exchange",
+   "lecture": "CV151",
+   "lectures": [
+    "CV151"
+   ]
+  },
+  {
+   "name": "Atypical hemolytic uremic syndrome",
+   "gene": "Inherited complement factor H deficiency",
+   "role": "About half of cases: complement activation goes unchecked and injures endothelium, with no diarrheal prodrome and a worse course",
+   "lecture": "CV151",
+   "lectures": [
+    "CV151"
+   ]
+  },
+  {
+   "name": "Atypical hemolytic uremic syndrome",
+   "gene": "Complement factor I or CD46 (membrane cofactor protein) mutation",
+   "role": "Loss of another complement regulator, the explanation in patients without the commoner regulator defect",
+   "lecture": "CV151",
+   "lectures": [
+    "CV151"
+   ]
+  }
+ ]
+}

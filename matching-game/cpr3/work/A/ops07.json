@@ -1,0 +1,7 @@
+[
+ {"cat":"drugs","name":"ACE inhibitors and ARBs","set":{"use":"Diabetic CKD once proteinuria appears, and to slow CKD in general; avoid in stage 4-5 CKD and renal artery stenosis; guidelines often have them held before iodinated contrast"}},
+ {"cat":"drugs","name":"Potassium citrate","set":{"use":"Calcium phosphate stones, alongside a low-sodium diet and a thiazide"}},
+ {"cat":"drugs","name":"Tiopronin / penicillamine","set":{"mechanism":"Chelating agents that bind cystine and help dissolve the stones"}},
+ {"cat":"drugs","name":"NSAIDs (ketorolac, ibuprofen)","set":{"lectures":["CV162","CV155","CV159","CV119","CV143","CV121","CV148"]}},
+ {"cat":"drugs","name":"Sodium bicarbonate","set":{"mechanism":"Extra buffer outside cells pulls H+ out in exchange for K+ moving in; used to alkalinize the urine (not the serum), so some toxins leave faster and some stones form less readily"}}
+]

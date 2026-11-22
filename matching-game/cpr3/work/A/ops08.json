@@ -1,0 +1,13 @@
+[
+ {"cat":"genes","name":"Familial idiopathic pulmonary fibrosis","gene":"Surfactant protein C (SP-C) mutation","set":{"role":"Encoded by SFTPC; surfactant-gene mutations cause rare familial forms, and SP-C is one of the factors that affect telomere length and function"}},
+ {"cat":"genes","name":"Pulmonary Langerhans cell histiocytosis","set":{"role":"Found in some smokers in their late 30s to early 40s with grooved, CD1a-positive cells; symptoms usually fade after quitting"}},
+ {"cat":"genes","name":"Lung adenocarcinoma","gene":"ALK or ROS1 gain-of-function alteration","set":{"role":"Receptor tyrosine kinase genes listed with EGFR, MET and RET as gain-of-function drivers of the glandular, TTF-1-positive type"}},
+ {"cat":"genes","name":"Small cell lung carcinoma","gene":"MYC amplification","set":{"role":"MYC-family amplification joins the two tumor-suppressor losses in the chromogranin- and synaptophysin-positive tumor"}},
+ {"cat":"genes","name":"Alport syndrome","gene":"COL4A3 mutation (autosomal recessive form)","set":{"role":"Alpha-3 chain of GBM type IV collagen; the less common recessive form of the same collagen disease with hearing and eye involvement"}},
+ {"cat":"genes","name":"Thin basement membrane disease","set":{"role":"Alpha-3 or alpha-4 collagen chain change, dominant inheritance: hematuria runs in the family, with no hearing or eye loss and no family history of kidney failure"}},
+ {"cat":"genes","name":"Tuberous sclerosis","set":{"chromosome":"9q (TSC1), 16p (TSC2)","role":"Tumor suppressors that together restrain mTOR; renal angiomyolipomas in 25-50%, cardiac rhabdomyomas, retinal hamartomas, skin angiofibromas"}},
+ {"cat":"genes","name":"WAGR syndrome","set":{"role":"About 33% develop a childhood renal embryonal tumor; absent irises, genital anomalies and developmental delay come with the deletion"}},
+ {"cat":"genes","name":"Beckwith-Wiedemann syndrome","set":{"gene":"Region alteration (taught as a deletion)"}},
+ {"cat":"genes","name":"Noninvasive papillary urothelial carcinoma","set":{"role":"Gain in growth factor receptor signaling; these tumors recur often but progress to muscle invasion in only about 20%"}},
+ {"cat":"genes","name":"Superficial urothelial carcinoma of the renal pelvis","set":{"gene":"Chromosome 9p deletion","avoid":["Malignant mesothelioma"]}}
+]

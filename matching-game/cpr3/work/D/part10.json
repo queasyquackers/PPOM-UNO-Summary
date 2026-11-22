@@ -1,0 +1,55 @@
+{
+ "correlates": [
+  {
+   "name": "Primary pulmonary coccidioidomycosis",
+   "presentation": "35-year-old man from Ohio who drove through a dust storm outside Phoenix 2 weeks ago, after a wet winter there. Fever, dry cough, chest pain on breathing in, fatigue, aching joints, and tender red nodules on both shins. T 38.2 C, HR 96, SpO2 96%; scattered crackles on the right.",
+   "workup": "Sputum or biopsy: large round thick-walled structures packed with endospores. ELISA IgM/IgG positive; complement fixation IgG titer measured. The lab is told not to culture it (airborne arthroconidia infect staff).",
+   "management": "Most need no treatment. Fluconazole or itraconazole for persistent lung infection or a symptomatic mild case. The shin nodules are an immune reaction, not spread of the infection.",
+   "lecture": "CV136",
+   "lectures": [
+    "CV136",
+    "CV141"
+   ]
+  },
+  {
+   "name": "Disseminated coccidioidomycosis",
+   "presentation": "29-year-old Filipino woman, 33 weeks pregnant, living in Tucson. Two months of fever, cough and weight loss, then enlarging ulcerated skin nodules on the face, a hot swollen ankle and a week of headache. T 38.7 C, HR 108; tender left ankle effusion; mild neck stiffness.",
+   "workup": "Skin biopsy: granulomas containing thick-walled spherules full of endospores. Complement fixation IgG titer high. Ankle film: lytic bone lesion. Culture deliberately avoided.",
+   "management": "IV amphotericin B for disseminated disease; fluconazole when the meninges are involved, though results there are relatively poor.",
+   "lecture": "CV136",
+   "lectures": [
+    "CV136"
+   ]
+  },
+  {
+   "name": "Histoplasmosis",
+   "presentation": "24-year-old college student from Kentucky, 12 days after a weekend exploring caves full of roosting bats; three friends on the trip are ill too. Fever, dry cough, chest ache and fatigue. T 38.4 C, HR 98, RR 20, SpO2 95%; lungs clear; liver and spleen not felt.",
+   "workup": "Chest CT: several small nodules in both lungs. Antigen positive in urine and blood by enzyme immunoassay. Biopsy: tiny oval yeasts packed inside macrophages; later these foci calcify (dormant organisms can reactivate).",
+   "management": "Itraconazole for mild or moderate disease (most heavy exposures settle on their own); amphotericin B for severe lung disease or dissemination, as in AIDS.",
+   "lecture": "CV136",
+   "lectures": [
+    "CV136",
+    "CV141"
+   ]
+  },
+  {
+   "name": "Blastomycosis",
+   "presentation": "48-year-old Wisconsin man who hunts and canoes, often digging along riverbanks. Two months of cough, fevers and a 6-kg weight loss, then raised crusted wart-like plaques on his face and shin and low back pain. T 38.1 C; tender L3 spinous process; lungs: crackles right upper zone.",
+   "workup": "Sputum KOH prep: large thick-walled yeasts, each with a single broad-based bud. Skin biopsy: pus-filled granulomas (neutrophils inside granulomas). Spine film: lytic vertebral lesion. Serology is not useful.",
+   "lecture": "CV136",
+   "lectures": [
+    "CV136"
+   ]
+  },
+  {
+   "name": "Paracoccidioidomycosis",
+   "presentation": "62-year-old man who has farmed in rural Brazil all his life. A year of cough and breathlessness, then painful ulcers on the gums, lips and inside the nose that keep spreading; 8-kg weight loss. T 37.8 C, RR 22, SpO2 93%; granular ulcers on the lips and palate.",
+   "workup": "Scraping of the lip ulcer: a large central yeast surrounded by many small narrow-based daughter buds. Chest film: chronic bilateral infiltrates.",
+   "management": "Itraconazole; a sulfonamide also works but needs prolonged therapy to prevent relapse; amphotericin B for disseminated disease.",
+   "lecture": "CV136",
+   "lectures": [
+    "CV136"
+   ]
+  }
+ ]
+}

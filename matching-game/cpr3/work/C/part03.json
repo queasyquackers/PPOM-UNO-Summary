@@ -1,0 +1,56 @@
+{
+ "correlates": [
+  {
+   "name": "Asbestosis",
+   "presentation": "A 72-year-old retired shipyard pipefitter (35 years, last worked 1992) who never smoked has 2 years of slowly worsening exertional dyspnea with little cough or sputum. Fine end-inspiratory crackles at both bases, clubbing; SpO2 91% at rest.",
+   "workup": "TLC 63% predicted, FEV1/FVC 0.86. Film: fine lace-like opacities starting in the lower zones, mid-zone parietal pleural plaques, no hilar nodes. Lavage: golden-brown rods with clubbed ends and a thin colorless core; biopsy: mixed-age scar.",
+   "lecture": "CV118",
+   "lectures": [
+    "CV118",
+    "CV119"
+   ]
+  },
+  {
+   "name": "Benign asbestos-related pleural plaques",
+   "presentation": "A 66-year-old retired insulation installer has no cough or dyspnea; a preoperative chest film shows calcified plates over both hemidiaphragm domes and the lateral chest walls. Lungs clear, SpO2 98%, FVC 96% predicted, DLCO 92%.",
+   "workup": "CT: discrete, partly calcified plates on the parietal pleura and diaphragm; no lung scarring, effusion or mass. Autopsy: hard white patches of dense layered collagen with no coated fibres inside; number and size do not track the dose.",
+   "management": "No treatment; they are harmless in themselves. Counsel that lung carcinoma, not a cancer of the chest lining, is the main cancer risk (about 5-fold, 55-fold with smoking), so never smoking matters most.",
+   "lecture": "CV118",
+   "lectures": [
+    "CV118",
+    "CV142",
+    "CV119"
+   ]
+  },
+  {
+   "name": "Chronic beryllium disease",
+   "presentation": "A 56-year-old machinist who has cut and ground metal parts for aerospace and nuclear-weapons contractors for 20 years has 8 months of dry cough, dyspnea, chest pain, 5-kg weight loss, fatigue and joint aches. Few crackles; SpO2 93%; FVC 71% predicted.",
+   "workup": "CT: ill-defined upper-lobe nodular and irregular opacities with mildly enlarged hilar nodes. Biopsy: noncaseating epithelioid granulomas with helper T-cell alveolitis. Lavage lymphocytes proliferate when cultured with the workplace metal.",
+   "lecture": "CV118",
+   "lectures": [
+    "CV118",
+    "CV119"
+   ]
+  },
+  {
+   "name": "Anthracosis",
+   "presentation": "A 70-year-old office worker who has lived all his life in a large industrial city and smoked until 60 has no breathing complaints; FEV1/FVC 0.76, DLCO 90%. Black discoloration of the hilar nodes and the subpleural lung is noted at lobectomy for a peripheral nodule.",
+   "workup": "Sections: black carbon pigment inside macrophages along the lymphatics, around bronchioles and in the hilar nodes, with no collagen nodules, no surrounding airspace enlargement and no interstitial scarring.",
+   "lecture": "CV118",
+   "lectures": [
+    "CV118",
+    "CV119"
+   ]
+  },
+  {
+   "name": "Simple coal workers' pneumoconiosis",
+   "presentation": "A 57-year-old man who has worked underground in a West Virginia mine for 30 years has a chronic cough with daily sputum and mild exertional dyspnea; never smoked. SpO2 95%. FEV1/FVC 0.72, FVC 90% predicted, DLCO 82%. Film: many small rounded opacities, upper zones first.",
+   "workup": "Lung sections: black star-shaped aggregates up to 4 mm of dust-laden macrophages around the bronchioles, with reticulin and little collagen, each ringed by enlarged centriacinar airspaces; no masses over 1 cm.",
+   "lecture": "CV118",
+   "lectures": [
+    "CV118",
+    "CV119"
+   ]
+  }
+ ]
+}

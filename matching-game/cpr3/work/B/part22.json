@@ -1,0 +1,7 @@
+{"bugs": [
+{"name": "Klebsiella pneumoniae",
+ "disease": "Urinary infection in a hospitalized diabetic, mucoid colonies",
+ "micro": "Large gram-negative enteric bacillus; non-motile; ferments lactose (pink on MacConkey); indole-negative and urease-positive, the opposite of the commonest uropathogen; its thick capsule gives wet colonies that string out on a loop",
+ "presentation": "69-year-old man with type 2 diabetes, in hospital 9 days after a foot debridement: T 38.6 C, frequency, burning and mild left flank ache. Urine: 70 WBC/hpf, nitrite positive, 10^5 CFU/mL; the plate shows pink colonies so wet and sticky that the loop draws a 2-cm thread.",
+ "lecture": "CV152", "lectures": ["CV152", "CV153", "CV140", "CV162"]}
+]}

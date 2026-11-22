@@ -1,0 +1,23 @@
+{"drugs": [
+{"name": "ACE inhibitors and ARBs", "groups": ["Kidney & bladder"],
+ "mechanism": "Block the renin-angiotensin system, lowering intraglomerular pressure and hyperfiltration, which slows CKD progression",
+ "adverseEffects": "Hyperkalemia and a creatinine rise: recheck creatinine and potassium 2-4 weeks after starting or changing the dose; with ACE blockade, a dry cough for months that can also worsen incontinence",
+ "use": "Diabetic CKD once proteinuria appears, and to slow CKD in general; avoid in stage 4-5 CKD and renal artery stenosis; often held the day before iodinated contrast",
+ "lecture": "CV159", "lectures": ["CV159", "CV121", "CV163", "CV151", "CV143"]},
+{"name": "SGLT2 inhibitors (empagliflozin, dapagliflozin)", "groups": ["Kidney & bladder"],
+ "mechanism": "Block sodium-glucose cotransport in the proximal tubule, lowering blood glucose and reducing glomerular hyperfiltration",
+ "use": "Slow CKD progression (strongest evidence alongside RAS blockade); in CKD with heart failure they help regardless of albuminuria; in type 2 diabetes, fewer cardiovascular events and weight loss",
+ "lecture": "CV159", "lectures": ["CV159"]},
+{"name": "Thiazide diuretics", "groups": ["Kidney & bladder"],
+ "mechanism": "Block the NaCl cotransporter of the distal convoluted tubule and increase distal calcium reabsorption, so less calcium reaches the urine",
+ "use": "Prevent recurrent calcium oxalate and calcium phosphate stones, with a low-sodium (not low-calcium) diet; stopped at least 24 h before iodinated contrast",
+ "lecture": "CV162", "lectures": ["CV162", "CV159"]},
+{"name": "Potassium citrate", "groups": ["Kidney & bladder"],
+ "mechanism": "Complexes calcium in the urine, lowering calcium saturation, crystal growth and aggregation; the body's own stone inhibitor is low in renal tubular acidosis, strenuous exercise and high-animal-protein diets",
+ "use": "Calcium phosphate stones, alongside a low-sodium diet and a thiazide; recurrent calcium stones with low urinary levels of this inhibitor",
+ "lecture": "CV162", "lectures": ["CV162"]},
+{"name": "Allopurinol", "groups": ["Kidney & bladder"],
+ "mechanism": "Xanthine oxidase inhibitor: less uric acid is made, so less reaches the urine",
+ "use": "Prevents and treats radiolucent stones that form when urine pH is below 5.5, together with fluids and urine alkalinization",
+ "lecture": "CV162", "lectures": ["CV162"]}
+]}

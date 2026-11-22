@@ -1,0 +1,17 @@
+{"genes": [
+{"name": "Lung adenocarcinoma", "gene": "Activating EGFR mutation",
+ "role": "Gain-of-function kinase mutation in about 15%, typical of women who never smoked; specific kinase inhibitors prolong survival",
+ "lecture": "CV142", "lectures": ["CV142"]},
+{"name": "Lung adenocarcinoma", "gene": "KRAS mutation",
+ "role": "In about 30%, more often in smokers; usually a worse prognosis, with targeted treatment still emerging",
+ "lecture": "CV142", "lectures": ["CV142"]},
+{"name": "Lung adenocarcinoma", "gene": "ALK or ROS1 gain-of-function alteration",
+ "role": "Kinase drivers listed with EGFR as the most important targetable changes in the glandular, TTF-1-positive type",
+ "lecture": "CV142", "lectures": ["CV142"]},
+{"name": "Small cell lung carcinoma", "gene": "TP53 and RB1 loss of function",
+ "role": "Both tumor suppressors lost in this neuroendocrine tumor with the strongest tie to smoking",
+ "lecture": "CV142", "lectures": ["CV142"]},
+{"name": "Small cell lung carcinoma", "gene": "MYC amplification",
+ "role": "Sometimes added on top of the two tumor-suppressor losses in the chromogranin- and synaptophysin-positive tumor",
+ "lecture": "CV142", "lectures": ["CV142"]}
+]}

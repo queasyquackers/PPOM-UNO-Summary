@@ -1,0 +1,53 @@
+{
+ "correlates": [
+  {
+   "name": "Pulmonary nocardiosis",
+   "presentation": "58-year-old kidney transplant recipient on tacrolimus and prednisone who gardens daily. Three weeks of fever, productive cough and a 4-kg weight loss, then 2 days of headache and new left arm weakness. T 38.4 C, HR 102, RR 22, SpO2 94%; crackles at the right apex.",
+   "workup": "Chest CT: several nodules, some cavitating; brain MRI: a ring-enhancing lesion. Sputum: gram-positive branching filaments that are weakly acid-fast with a mild decolorizer; aerobic and catalase-positive.",
+   "management": "A sulfonamide (TMP-SMX); image the brain, since spread there (and to skin) is common.",
+   "lecture": "CV131",
+   "lectures": [
+    "CV131"
+   ]
+  },
+  {
+   "name": "Actinomycosis",
+   "presentation": "46-year-old man with many decayed teeth who had a lower molar pulled 6 weeks ago. A firm, slowly enlarging swelling at the angle of the jaw now drains pus through the skin; 3 weeks of low fever and cough. T 37.9 C; hard, painless jaw mass with a draining tract.",
+   "workup": "Pus contains hard yellow grains made of tangled gram-positive branching filaments; not acid-fast; grows only anaerobically and is catalase-negative. Chest film: right lower lobe infiltrate.",
+   "management": "Penicillin; fix the dental disease, since the organism is normal mouth flora that reaches the lung when aspirated.",
+   "lecture": "CV131",
+   "lectures": [
+    "CV131"
+   ]
+  },
+  {
+   "name": "Cholera",
+   "presentation": "Relief worker, 34, in a post-earthquake camp drinking river water. Since yesterday: sudden painless, profuse watery diarrhea, pale gray with mucus flecks, a liter an hour; vomiting, leg cramps; no fever or blood. T 36.9 C, HR 128, BP 78/44; sunken eyes, skin tenting.",
+   "workup": "Stool: no white cells or blood; culture on thiosulfate-citrate-bile salts-sucrose agar grows yellow colonies. K+ 2.8 mEq/L, HCO3- 14 mEq/L, creatinine 2.1 mg/dL.",
+   "management": "Replace fluid and electrolytes fast (oral rehydration solution, IV if in shock): with it, deaths fall from 25-50% to few. Reportable to the CDC.",
+   "lecture": "CV138",
+   "lectures": [
+    "CV138"
+   ]
+  },
+  {
+   "name": "Measles",
+   "presentation": "Unvaccinated 4-year-old, 10 days after a crowded indoor party: 3 days of fever to 40.5 C, cough, runny nose, red watery eyes, light sensitivity, then a dense red rash spreading from the face to trunk and limbs. Small red spots with bluish-white centers inside the cheeks.",
+   "management": "Supportive: acetaminophen or ibuprofen for fever, possibly vitamin A; nothing lowers the viral load. Airborne isolation (negative pressure, N95), since the virus lingers up to 2 hours; it is reportable.",
+   "lecture": "CV138",
+   "lectures": [
+    "CV138",
+    "CV140"
+   ]
+  },
+  {
+   "name": "Dengue",
+   "presentation": "27-year-old back 5 days from a month in Thailand, many mosquito bites. Sudden high fever, chills, severe headache, pain behind the eyes and intense pain in the back, joints, muscles and bones; a red blotchy rash on the trunk. T 39.8 C, HR 104, BP 118/72.",
+   "management": "Supportive only: there is no antiviral and no vaccine. Watch for leaky vessels and shock, mainly with a second infection by another serotype (15% mortality untreated, about 1% with supportive care).",
+   "lecture": "CV138",
+   "lectures": [
+    "CV138"
+   ]
+  }
+ ]
+}

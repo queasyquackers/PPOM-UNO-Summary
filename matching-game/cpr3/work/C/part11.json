@@ -1,0 +1,25 @@
+{
+ "correlates": [
+  {
+   "name": "Solitary fibrous tumor of the pleura",
+   "presentation": "A 55-year-old woman, a librarian with no industrial or shipyard work history, has mild exertional dyspnea and a dry cough; the chest film shows a large, smooth, well-circumscribed mass abutting the right lower chest wall. No effusion, no weight loss, no fever.",
+   "workup": "CT: well-circumscribed mass hanging from the surface of the lung on a stalk, not encasing it. Resection: dense collagenous spindle-cell tissue with cystic spaces; keratin negative; NAB2-STAT6 fusion gene detected.",
+   "management": "Surgical excision of the stalked mass; nearly always benign, rarely malignant.",
+   "lecture": "CV142",
+   "lectures": [
+    "CV142"
+   ]
+  },
+  {
+   "name": "Malignant mesothelioma",
+   "presentation": "A 68-year-old who worked 30 years in a brake-lining and insulation plant (left 35 years ago) has 8 months of dull right chest discomfort, malaise, low-grade fevers, night sweats and 7-kg weight loss. Dull to percussion and absent breath sounds over the right lower chest.",
+   "workup": "CT: right effusion with a thick, nodular pleural rind encasing the whole lung and running into the fissures. Biopsy: epithelial-like cells forming tubules and papillae; calretinin+, keratin+, TTF-1 negative; 9p deletion (CDKN2A loss).",
+   "management": "Prognosis is poor: about half die within 12 months of diagnosis. The same exposure carries a still higher risk of lung carcinoma than of this pleural cancer.",
+   "lecture": "CV142",
+   "lectures": [
+    "CV142",
+    "CV118"
+   ]
+  }
+ ]
+}
