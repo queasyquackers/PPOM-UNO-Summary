@@ -2712,6 +2712,14 @@ window.receiveLectureIndex([
     "readingTime": 13
   },
   {
+    "id": "cv158",
+    "title": "Lecture #158: Acute Kidney Injury: Clinical Findings, Diagnosis, and Treatment",
+    "module": "Clinical",
+    "tags": "Lecture #158",
+    "path": "content/json/cv158.file.js",
+    "readingTime": 14
+  },
+  {
     "id": "cv159",
     "title": "Lecture #159: Clinical: Chronic Kidney Disease and Renal Failure",
     "module": "Clinical",
